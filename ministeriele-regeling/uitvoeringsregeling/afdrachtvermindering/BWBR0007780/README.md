@@ -13,16 +13,14 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Deze regeling geeft uitvoering aan [5](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), [6](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), [14](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), [18](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), [20](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), [32](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) en [33 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md).   
+1.  Deze regeling geeft uitvoering aan de [artikelen 5](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), [6](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), [14](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), [18](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), [20](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) en [32 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md).   
 2.  Deze regeling verstaat onder: 
 
 a. *de wet:* de [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md);  
 
 b. het UWV: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 2 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
-c. *detachering:* terbeschikkingstelling van een werknemer door de inhoudingsplichtige met wie een arbeidsovereenkomst bestaat, ten behoeve van een derde;  
-
-d. werkloze: degene die op het tijdstip voorafgaand aan de aanvang van de dienstbetrekking als werkloos werkzoekende staat ingeschreven bij de Centrale organisatie werk en inkomen.     
+c. werkloze: degene die op het tijdstip voorafgaand aan de aanvang van de dienstbetrekking als werkloos werkzoekende staat ingeschreven bij de Centrale organisatie werk en inkomen.     
 
 ### Artikel  1a  
 
@@ -45,7 +43,7 @@ b. ingeval op jaarbasis aanspraken worden verleend voor 19 of minder vakantiedag
 
 ### Artikel  3  
 
-Voor de toepassing van [artikel 5, zesde lid, van de wet](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) blijft het aanmerken van het kwartaal als loontijdvak op de voet van [artikel 6.3, eerste lid, van de Uitvoeringsregeling loonbelasting 2011](../../../../ministeriele-regeling/uitvoeringsregeling/loonbelasting/2011/BWBR0028236/README.md) achterwege.  
+Voor de toepassing van [artikel 5, vierde lid, van de wet](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) blijft het aanmerken van het kwartaal als loontijdvak op de voet van [artikel 6.3, eerste lid, van de Uitvoeringsregeling loonbelasting 2011](../../../../ministeriele-regeling/uitvoeringsregeling/loonbelasting/2011/BWBR0028236/README.md) achterwege.  
 
 ### Artikel  4  
 
@@ -67,15 +65,15 @@ c. het van toepassing zijnde toetsloon.
 
 | Indien hij de leeftijd heeft bereikt van  | doch niet de leeftijd van  |--- |
 |:---|:---|:---|
-| 15 jaren  | 16 jaren:  | € 5 524  |
-| 16 jaren  | 17 jaren:  | € 6 353  |
-| 17 jaren  | 18 jaren:  | € 7 274  |
-| 18 jaren  | 19 jaren:  | € 8 378  |
-| 19 jaren  | 20 jaren:  | € 9 667  |
-| 20 jaren  | 21 jaren:  | € 11 324  |
-| 21 jaren  | 22 jaren:  | € 13 349  |
-| 22 jaren  | 23 jaren:  | € 15 651  |
-| 23 jaren  | --- | € 18 418  |
+| 15 jaren  | 16 jaren:  | € 5 290  |
+| 16 jaren  | 17 jaren:  | € 6 084  |
+| 17 jaren  | 18 jaren:  | € 6 965  |
+| 18 jaren  | 19 jaren:  | € 8 024  |
+| 19 jaren  | 20 jaren:  | € 9 258  |
+| 20 jaren  | 21 jaren:  | € 10 845  |
+| 21 jaren  | 22 jaren:  | € 12 784  |
+| 22 jaren  | 23 jaren:  | € 14 988  |
+| 23 jaren  | --- | € 17 633  |
 
 2.  Ingeval het eerste lid toepassing vindt administreert de inhoudingsplichtige per werknemer en per tijdvak waarover de vermindering wordt toegepast de in het eerste lid, tweede volzin, bedoelde verhouding.   
 
@@ -85,7 +83,7 @@ De inhoudingsplichtige die met betrekking tot een door hem aangewezen categorie 
 
 ### Artikel  8  
 
-De inhoudingsplichtige voegt binnen twee maanden na afloop van het kalenderjaar aan de loonadministratie toe de administratie met betrekking tot de in dat jaar toegepaste afdrachtvermindering onderwijs. De administratie bevat per werknemer het bedrag van de de afdrachtvermindering onderwijs.  
+De inhoudingsplichtige voegt binnen twee maanden na afloop van het kalenderjaar aan de loonadministratie toe de administratie met betrekking tot de in dat jaar toegepaste afdrachtvermindering onderwijs. De administratie bevat per werknemer het bedrag van de afdrachtvermindering onderwijs.  
 
 ### Hoofdstuk  III  
 
@@ -268,6 +266,28 @@ e. de wijze van beoordeling van de praktijk;
 f. functie-inhoud, vergoeding en andere arbeidsvoorwaarden;  
 
 g. bepalingen met betrekking tot ontbinding van de overeenkomst om onderwijskundige redenen.     
+4.  Een overeenkomst als bedoeld in [artikel 14, tweede lid, van de wet](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) bevat ten minste: 
+
+a. de vermelding dat het partijen bekend is dat de afdrachtvermindering onderwijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van de wet](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), van toepassing is;  
+
+b. een bepaling met betrekking tot een verdeling tussen partijen van de afdrachtvermindering, bedoeld in onderdeel a, waarbij tot uitdrukking komt dat deze verdeling is gekoppeld aan de onderlinge afspraken met betrekking tot de verdeling van de werkzaamheden die voortvloeien uit het aanbieden van de beroepspraktijkvormingsplaats door het bedrijf dat of de organisatie die bevoegd als bedoeld in [artikel 7.2.10 van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) de beroepspraktijkvorming verzorgt.     
+5.  Een overeenkomst als bedoeld in [artikel 14a, tweede lid, van de wet](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) bevat ten minste: 
+
+a. een bijlage waaruit blijkt dat het bedrijf dat of de organisatie die de beroepspraktijkvorming verzorgt daartoe bevoegd is als bedoeld in [artikel 7.2.10 van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+
+b. de naam van de opleiding, de opleidingssoort en het niveau ervan;  
+
+c. de aanvangsdatum en einddatum van de beroepspraktijkvorming;  
+
+d. het aantal te volgen praktijkuren per kalenderjaar;  
+
+e. een bepaling met betrekking tot de begeleiding van de deelnemer;  
+
+f. een bepaling met betrekking tot het deel van de kwalificatie dat de deelnemer tijdens de beroepspraktijkvorming dient te behalen en de beoordeling daarvan;  
+
+g. een bepaling met betrekking tot de gevallen waarin en de wijze waarop de overeenkomst voortijdig kan worden ontbonden.     
+6.  Indien de inhoudingsplichtige, bedoeld in [artikel 14a, tweede lid, van de wet](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) niet tevens is het bedrijf of de organisatie, bedoeld in het vijfde lid, onderdeel a, wordt dat bedrijf of die organisatie voor de toepassing van artikel 14a, tweede lid, van de wet en voor de toepassing van dit artikel in de plaats van de inhoudingsplichtige partij bij de overeenkomst, met dien verstande dat de inhoudingsplichtige onverminderd degene blijft die op grond van artikel 14a, tweede lid, van de wet over de aldaar bedoelde overeenkomst dient te beschikken.   
+7.  De overeenkomsten, bedoeld in de [artikelen 14, eerste lid, onderdelen a, b, c, d, f en g, en tweede lid](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), en [14a, tweede lid, van de wet](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), dienen tevens gegevens te bevatten op basis waarvan de partijen bij de overeenkomst voldoende identificeerbaar zijn.   
 
 ### Artikel  12a  
 
@@ -358,10 +378,6 @@ Voor de toepassing van de afdrachtvermindering zeevaart wordt een schip dat in d
 ### Artikel  26  
 
 Met betrekking tot gevallen waarin artikel 2 van de Wet belasting- en premiefaciliteit voor de zeevaart 1995 toepassing heeft gevonden, blijven de bepalingen van de Uitvoeringsregeling belasting- en premiefaciliteit voor de zeevaart 1995 van kracht naar de tekst zoals die luidde op 31 december 1995.  
-
-### Artikel  26a  
-
-Met betrekking tot de gevallen waarin artikel 33 van de wet afdrachtvermindering langdurig werklozen nog wordt genoten, blijven in zoverre de bepalingen van deze regeling naar de tekst zoals die luidde op 31 december 2002, na die datum toepassing vinden.  
 
 ### Artikel  26b  
 

@@ -68,9 +68,9 @@ Als categorieën van instanties als bedoeld in [artikel 2b, eerste lid, onder a,
 
 a. bureaus jeugdzorg als bedoeld in [artikel 4 van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
 
-b. instanties die voor de stichting taken als bedoeld in [artikel 10, eerste lid, onder a, b, c of d](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), uitoefenen;  
+b. instanties die voor de stichting taken als bedoeld in [artikel 10, eerste lid, onder a, b, c of d, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) uitoefenen;  
 
-c. instanties die, daartoe aanvaard door de Minister van Justitie als rechtspersoon, bedoeld in de [artikelen 254, tweede lid](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), en [302, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), de voogdij of de voorlopige voogdij uitoefenen met betrekking tot minderjarige vreemdelingen.    
+c. instanties die, daartoe aanvaard door Onze Minister van Veiligheid en Justitie als rechtspersoon, bedoeld in de [artikelen 254, tweede lid](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), en [302, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), de voogdij of de voorlopige voogdij uitoefenen met betrekking tot minderjarige vreemdelingen.    
 
 ### Artikel  1b  
 
@@ -124,7 +124,7 @@ Als categorieën van instanties als bedoeld in [artikel 2b, eerste lid, onder a,
 
 Als categorieën van instanties als bedoeld in [artikel 2b, eerste lid, onder a, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) in het domein politie en justitie worden aangewezen: 
 
-a. de regionale politiekorpsen, bedoeld in [artikel 21, derde lid, van de Politiewet](../../../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+a. de politie, bedoeld in [artikel 25, eerste lid, van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
 b. Halt-bureaus als bedoeld in [artikel 48f, onder c, van de Wet Justitie-subsidies](../../../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md);  
 
@@ -151,7 +151,7 @@ Een instantie die behoort tot een van de categorieën als bedoeld in de artikele
 
 ### Artikel  1k  
 
-Onze Minister voor Jeugd en Gezin doet van wijziging van een norm als bedoeld in 1i, derde lid, of artikel 1j, tweede lid, mededeling in de Staatscourant.  
+Onze Minister van Volksgezondheid, Welzijn en Sport doet van wijziging van een norm als bedoeld in 1i, derde lid, of artikel 1j, tweede lid, mededeling in de Staatscourant.  
 
 ### Paragraaf  3  
 
@@ -737,7 +737,7 @@ b. de wijze van samenwerking in het kader van de taak, bedoeld in [artikel 77hh 
 
 ### Artikel  61  
 
-1.  Op een door Onze Minister van Justitie aanvaarde rechtspersoon, bedoeld in de [artikelen 254, tweede lid](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), en [302, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) zijn de artikelen 26, 27, 29, eerste lid, onder b en h, en 38 tot en met 45 van overeenkomstige toepassing, met dien verstande dat de wijze van uitvoering van de taken door de rechtspersoon past bij de aard van het verblijf van de minderjarige en zijn verwachte verblijfsduur.   
+1.  Op een door Onze Minister van Veiligheid en Justitie aanvaarde rechtspersoon, bedoeld in de [artikelen 254, tweede lid](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), en [302, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) zijn de artikelen 26, 27, 29, eerste lid, onder b en h, en 38 tot en met 45 van overeenkomstige toepassing, met dien verstande dat de wijze van uitvoering van de taken door de rechtspersoon past bij de aard van het verblijf van de minderjarige en zijn verwachte verblijfsduur.   
 2.  De rechtspersoon, bedoeld in het eerste lid, die de voogdij uitoefent over een minderjarige zorgt dat die minderjarige wordt ondergebracht: 
 
 a. bij meerderjarige familieleden;  
@@ -758,7 +758,7 @@ Voor de toepassing van dit hoofdstuk is onder stichting mede begrepen een rechts
 
 ### Artikel  63  
 
-Het verlenen door de vertrouwenspersoon van ondersteuning in aangelegenheden samenhangend met de door de stichting uitgeoefende taken onderscheidenlijk aangelegenheden samenhangend met de door de zorgaanbieder geboden jeugdzorg, bedoeld in [artikel 1, onder w, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), is met name gericht op de uitoefening door de cliënt van zijn rechten.  
+Het verlenen door de vertrouwenspersoon van ondersteuning in aangelegenheden samenhangend met de door de stichting uitgeoefende taken onderscheidenlijk aangelegenheden samenhangend met de door de zorgaanbieder geboden jeugdzorg, bedoeld in [artikel 1, eerste lid, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), is met name gericht op de uitoefening door de cliënt van zijn rechten.  
 
 ### Artikel  64  
 
@@ -794,11 +794,11 @@ De hoogte van de ouderbijdrage in de kosten van verblijf is:
 
 a. indien het verblijf gedurende het etmaal betreft: 
 
-1°. van een jeugdige van 0 tot en met 5 jaar: € 63,78 per 1 januari 2011: € 69,86 per maand;  
+1°. van een jeugdige van 0 tot en met 5 jaar: € 63,78 per 1 januari 2013: € 73,75 per maand;  
 
-2°. van een jeugdige van 6 tot en met 11 jaar: € 87,70 per 1 januari 2011: € 96,06 per maand;  
+2°. van een jeugdige van 6 tot en met 11 jaar: € 87,70 per 1 januari 2013: € 101,41 per maand;  
 
-3°. van een jeugdige van 12 tot en met 20 jaar: € 111,61 per 1 januari 2011: € 122,25 per maand;    
+3°. van een jeugdige van 12 tot en met 20 jaar: € 111,61 per 1 januari 2013: € 129,06 per maand;    
 
 b. indien het verblijf gedurende een deel van een etmaal betreft: de helft van het voor de jeugdige ingevolge in het eerste lid geldende bedrag per maand.    
 
@@ -814,7 +814,7 @@ Het bedrag per maand, bedoeld in [artikel 71, eerste lid, onder e, van de wet](.
 
 Het Landelijk Bureau Inning Onderhoudsbijdragen kan de verschuldigde ouderbijdrage slechts buiten invordering stellen indien het betreft een bijdrageplichtige die: 
 
-a. algemene bijstand ontvangt op grond van [artikel 21, onder a](../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), of [artikel 23, eerste lid, onder a, van de Wet werk en bijstand](../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of een inkomensvoorziening ontvangt op grond van [artikel 26](../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) of [artikel 29, eerste lid, onderdeel a, van de Wet investeren in jongeren](../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md);  
+a. algemene bijstand ontvangt op grond van [artikel 20, eerste lid](../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), of [artikel 23, eerste lid, onder a, van de Wet werk en bijstand](../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
 b. een verstrekking ontvangt als bedoeld in [artikel 9, eerste lid, van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md) en geen ander inkomen heeft;  
 
@@ -881,6 +881,7 @@ b. de definitieve vaststelling door vermenigvuldiging van het aantal minderjarig
 1.  De uitkering bureau jeugdzorg, kan, in afwijking van de artikelen 73b en 73c, voor zover in de begroting de benodigde gelden ter beschikking zijn gesteld, worden verhoogd, indien aannemelijk is dat de uitkering, vastgesteld overeenkomstig artikel 73b, onvoldoende is om te voorzien in de behoefte aan de uitvoering van de wettelijke taken van het bureau jeugdzorg en de andere activiteiten, genoemd in [artikel 37, eerste lid, onder a, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
 2.  De uitkering bureau jeugdzorg kan, in afwijking van de artikelen 73b en 73c, worden verminderd, indien aannemelijk is dat de behoefte aan subsidie voor door de stichting te leveren activiteiten, in het jaar waarop de uitkering betrekking heeft, substantieel lager zal zijn dan die in het tweede jaar voorafgaand aan dat jaar.   
 3.  Onze Ministers kunnen bij ministeriële regeling factoren aanwijzen die in aanmerking worden genomen bij de vaststelling van de behoefte en regels stellen omtrent de mate waarin de factoren, de vaststelling van de behoefte beïnvloeden.   
+4.  Het overeenkomstig artikel 73b, eerste lid, onder b, berekende bedrag van de uitkering bureau jeugdzorg voor het jaar 2013 wordt verminderd met 2,65%.   
 
 ### Artikel  73e  
 
@@ -889,6 +890,7 @@ b. de definitieve vaststelling door vermenigvuldiging van het aantal minderjarig
 3.  De uitkering zorgaanbod kan, in afwijking van het eerste lid, en onverminderd het tweede lid, voor zover in de begroting de benodigde gelden ter beschikking zijn gesteld, worden verhoogd, indien aannemelijk is dat de uitkering, vastgesteld overeenkomstig het eerste en tweede lid, onvoldoende is om te voorzien in de behoefte aan jeugdzorg waarop aanspraak bestaat ingevolge de [wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
 4.  De uitkering zorgaanbod kan, in afwijking van het eerste lid, worden verminderd, indien aannemelijk is dat de behoefte aan subsidie voor door zorgaanbieders te leveren activiteiten in het jaar waarop de uitkering betrekking heeft, substantieel lager zal zijn dan die in het tweede jaar voorafgaand aan dat jaar.   
 5.  Artikel 73d, derde lid, is van overeenkomstige toepassing.   
+6.  Het overeenkomstig het eerste lid berekende bedrag van de uitkering zorgaanbod voor het jaar 2013 wordt verminderd met 2,65%.   
 
 ### Artikel  73f  
 

@@ -39,7 +39,6 @@ Waar in deze wet in een artikel of artikellid sprake is van «de Raad of de Soci
 1.  Onder de voorwaarden en naar de regelen, bij of krachtens deze wet gesteld, wordt buitengewoon pensioen verleend aan zeelieden, alsmede aan hun nagelaten betrekkingen.   
 2.  De zeeman, die van ontrouw aan de zaak van Ons Koninkrijk, aan Ons of aan Onze Regering heeft blijk gegeven, dan wel zijn diensten niet bij voortduring en naar behoren heeft vervuld, kan geen rechten ontlenen aan het bepaalde in deze wet, tenzij de Raad termen aanwezig acht anders te beslissen.   
 3.  De voordracht voor een krachtens deze wet vast te stellen algemene maatregel van bestuur wordt niet gedaan dan nadat het ontwerp in de *Staatscourant* is bekend gemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.   
-4.  Ten aanzien van de in artikel 32, derde lid, bedoelde algemene maatregel van bestuur is het derde lid niet van toepassing.   
 
 ### Tweede  hoofdstuk  
 
@@ -150,11 +149,11 @@ d. een blijvend buitengewoon pensioen is verleend uit hoofde van een arbeidsonge
 1.  Bij algemene maatregel van bestuur worden met inachtneming van de volgende leden van dit artikel regelen vastgesteld betreffende de inkomsten, welke voor verrekening met het buitengewoon pensioen in aanmerking komen.   
 2.  De inkomsten van de betrokkene worden op het buitengewoon pensioen in mindering gebracht tot het bedrag, waarmede het buitengewoon pensioen, ongeacht de vermeerdering ingevolge de artikelen 9 of 10, vermeerderd met de inkomsten uit vermogen alsmede met vijfenzeventig procent van het pensioen ingevolge de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) (*Stb.* 1956, 281) en de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) en met zeventig procent van de overige inkomsten, de grondslag, waarover het buitengewoon pensioen is berekend, overschrijdt. Tot de inkomsten van de betrokkene als bedoeld in de vorige volzin worden niet gerekend: 
 
-a. inkomsten uit arbeid indien de betrokkene 65 jaar of ouder is;  
+a. inkomsten uit arbeid indien de betrokkene de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt;  
 
 b. inkomsten uit arbeid, arbeidsvervangende inkomsten en inkomsten uit onderneming van zijn echtgenoot;  
 
-c. inkomsten uit vermogen, tot een bedrag van vijfhonderd gulden per 1 januari 2012: achthonderdveertien euro en twintig eurocent;   met dien verstande, dat indien met zodanige inkomsten van de echtgenoot of gewezen echtgenoot of uit vermogen reeds rekening is gehouden bij de vaststelling van de pensioengrondslag, een bedrag gelijk aan het met deze inkomsten verband houdende deel van het buitengewoon pensioen op het buitengewoon pensioen in mindering wordt gebracht. Wij bepalen bij algemene maatregel van bestuur in welke gevallen van laatstgenoemde vermindering wordt afgezien. Het in of krachtens de tweede en derde volzin bepaalde vindt geen toepassing, indien zulks zou leiden tot een lager betaalbaar pensioenbedrag.   
+c. inkomsten uit vermogen, tot een bedrag van vijfhonderd gulden per 1 januari 2013: achthonderdzevenendertig euro en vijfenvijftig eurocent;   met dien verstande, dat indien met zodanige inkomsten van de echtgenoot of gewezen echtgenoot of uit vermogen reeds rekening is gehouden bij de vaststelling van de pensioengrondslag, een bedrag gelijk aan het met deze inkomsten verband houdende deel van het buitengewoon pensioen op het buitengewoon pensioen in mindering wordt gebracht. Wij bepalen bij algemene maatregel van bestuur in welke gevallen van laatstgenoemde vermindering wordt afgezien. Het in of krachtens de tweede en derde volzin bepaalde vindt geen toepassing, indien zulks zou leiden tot een lager betaalbaar pensioenbedrag.   
 3.  Indien op grond van hetzelfde feit, als waaraan het genot van een buitengewoon pensioen wordt ontleend, gelijktijdig een uitkering, een pensioen of andere inkomsten worden genoten ten laste van het Rijk, de Republiek Suriname, de Nederlandse Antillen, Aruba, de Republiek Indonesië, een publiekrechtelijk lichaam in een dezer gebieden of een door het openbaar gezag aldaar ingesteld fonds, dan wel een uitkering krachtens de Schepelingen-ongevallenregeling 1940, de Zeeongevallenwet 1919 of de [Liquidatiewet ongevallenwetten](../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md) (*Stb.* 1967, 99) voor zover deze uitkering in de plaats treedt van een uitkering krachtens de Zeeongevallenwet 1919, wordt, behoudens het bepaalde in het vijfde lid, het bedrag van het buitengewoon pensioen - ongeacht de vermeerdering ingevolge de artikelen 9 of 10 - met het bedrag van die uitkering, dat pensioen of die andere inkomsten verminderd, nadat daarvan is afgetrokken het bedrag der compensatie ter zake van de premie ingevolge de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) en de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), hetwelk daarin is of naar de voor de buitengewone pensioenen geldende wettelijke maatstaven moet worden geacht te zijn begrepen. Voor zover echter die uitkering, dat pensioen of die andere inkomsten worden genoten uit hoofde van een vrijwillige verzekering, welke werd gesloten op grond van een wettelijk verleende bevoegdheid, of uit hoofde van een verplichte verzekering, welke voor eigen rekening is voortgezet en door de Sociale verzekeringsbank als zodanig wordt aangemerkt, dan wel krachtens een wettelijke regeling van overeenkomstige strekking als de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), is het bepaalde in de vorige volzin niet van toepassing.   
 4.  Voor de toepassing van de eerste volzin van het vorige lid wordt een afkoopsom krachtens de [Liquidatiewet ongevallenwetten](../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md) uitsluitend in aanmerking genomen in het jaar van uitbetaling daarvan.   
 5.  Indien op grond van hetzelfde feit, als waaraan het genot van een buitengewoon pensioen wordt ontleend, gelijktijdig een uitkering krachtens de Interimwet invaliditeitsrentetrekkers (*Stb.* 1962, 534) of een daarvoor in de plaats tredende uitkering krachtens de [Wet overgangsregeling arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/overgangsregeling/arbeidsongeschiktheidsverzekering/BWBR0002551/README.md) (*Stb.* 1967, 102) wordt genoten, wordt - indien dit voor betrokkene voordeliger is - voor de toepassing van het bepaalde in het derde lid die uitkering verminderd met het bedrag van de daarover verschuldigde premie ingevolge de [Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), met dien verstande, dat deze vermindering beperkt blijft tot het bedrag, dat over het jaar 1966 in mindering werd gebracht.   
@@ -471,9 +470,9 @@ c. de weduwnaar, genoemd in artikel 14, derde lid, onder *a*, die recht heeft op
 
 Het van toepassing zijnde normbedrag bedraagt: 
 
-a. voor de gepensioneerde die de vijfenzestigjarige leeftijd nog niet heeft bereikt; zeventig procent van de minimum-pensioengrondslag op maandbasis'  
+a. voor de gepensioneerde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt; zeventig procent van de minimum-pensioengrondslag op maandbasis'  
 
-b. voor de gepensioneerde die de vijfenzestigjarige leeftijd heeft bereikt: vijftig procent van de minimum-pensioengrondslag op maandbasis, vermeerderd met twintig procent van het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in [artikel 9, eerste lid, onder a, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) alsmede van het bedrag van de bruto-vakantie-uitkering, vastgesteld overeenkomstig [artikel 29, eerste lid, aanhef en onder b, van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md).    
+b. voor de gepensioneerde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt: vijftig procent van de minimum-pensioengrondslag op maandbasis, vermeerderd met twintig procent van het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in [artikel 9, eerste lid, onder a, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) alsmede van het bedrag van de bruto-vakantie-uitkering, vastgesteld overeenkomstig [artikel 29, eerste lid, aanhef en onder b, van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md).    
 
 ### Artikel  28g  
 
@@ -485,9 +484,9 @@ De garantietoeslag gaat in op de eerste dag van de maand, waarin het recht op de
 
 ### Artikel  28h  
 
-1.  Indien de pensioengerechtigde over zijn buitengewoon pensioen of garantietoeslag de inkomensafhankelijke bijdrage, bedoeld in [artikel 41 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), verschuldigd is, heeft hij recht op een toeslag. Deze toeslag bedraagt het percentage van het buitengewoon pensioen of de garantietoeslag dat overeenkomt met het bijdragepercentage, bedoeld in [artikel 45, tweede lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), vermenigvuldigd met anderhalf, voorzover het pensioen of de garantietoeslag is te rekenen tot het deel van het bijdrage-inkomen, bedoeld in [artikel 43, eerste lid, onderdeel a, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
+1.  Indien de pensioengerechtigde over zijn buitengewoon pensioen of garantietoeslag de inkomensafhankelijke bijdrage, bedoeld in [artikel 43 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), verschuldigd is, heeft hij recht op een toeslag. Deze toeslag bedraagt het percentage van het buitengewoon pensioen of de garantietoeslag dat overeenkomt met het bijdragepercentage, bedoeld in [artikel 45, tweede lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), vermenigvuldigd met anderhalf, voorzover het pensioen of de garantietoeslag is te rekenen tot het deel van het bijdrage-inkomen, bedoeld in [artikel 43, tweede lid, onderdeel a, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
 2.  Indien de pensioengerechtigde over zijn buitengewoon pensioen of garantietoeslag de bijdrage, bedoeld in [artikel 69, tweede lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), verschuldigd is, heeft hij recht op een toeslag. Voor de berekening van deze toeslag is het eerste lid, tweede volzin, van overeenkomstige toepassing.   
-3.  Het in aanmerking te nemen bijdrage-inkomen bedraagt op jaarbasis ten hoogste het bedrag, bedoeld in [artikel 43, tweede lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
+3.  Het in aanmerking te nemen bijdrage-inkomen bedraagt op jaarbasis ten hoogste het bedrag, bedoeld in [artikel 43, derde lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
 4.  Op de toeslagen, bedoeld in het eerste en tweede lid, is het zevende hoofdstuk van toepassing, met uitzondering van de artikelen 28i en 31b.   
 
 ### Zevende  hoofdstuk  
@@ -532,14 +531,6 @@ Indien een buitengewoon pensioengerechtigde in een inrichting ter verpleging van
 
 De Sociale verzekeringsbank is bevoegd geheel of gedeeltelijk van invordering af te zien van uit de toepassing van deze wet voortvloeiende aan het Rijk toekomende vorderingen, dan wel deze vorderingen geheel of gedeeltelijk kwijt te schelden. Een dergelijk besluit wordt niet genomen dan nadat Onze Minister daarin heeft toegestemd. Toestemming kan worden onthouden wegens strijd met het recht of het algemeen belang.  
 
-### Artikel  32  
-
-1.  Op de bedragen, bedoeld in artikel 28b, verminderd overeenkomstig de artikelen 11 en 20, en vermeerderd met de garantietoeslagen, bedoeld in artikel 28e, wordt een bedrag ingehouden, dat gelijk is aan het bedrag van de premie, dat een werkgever ingevolge de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) op het overeenkomstige loon van een werknemer, die verzekerd is ingevolge [die wet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), inhoudt.   
-2.  Indien de gepensioneerde op grond van hetzelfde feit, als waaraan het genot van een buitengewoon pensioen wordt ontleend een uitkering geniet ingevolge de [Wet op de Arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), waarop eveneens het in het eerste lid bedoelde bedrag wordt ingehouden, wordt het eerste lid zodanig toegepast, dat het totaal van de in te houden bedragen niet meer bedraagt dan het maximaal ingevolge het eerste lid in te houden bedrag.   
-3.  Indien ingevolge de [Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) een premie wordt ingehouden waarvan het percentage per bedrijfstak verschilt, wordt met inachtneming van bij algemene maatregel van bestuur te stellen regelen door Onze Minister voor de toepassing van het eerste lid een gemiddeld percentage vastgesteld.   
-4.  Het bepaalde in het eerste lid is van overeenkomstige toepassing op de uitkering (overlijdensuitkering) bedoeld in artikel 27a.   
-5.  Het eerste en tweede lid zijn niet van toepassing indien de buitengewoon pensioengerechtigde 65 jaar of ouder is.   
-
 ### Artikel  32a  
 
 1.  De pensioenbedragen, bedoeld in artikel 28 *b*, de overlijdensuitkering, bedoeld in artikel 27 *a*, de garantietoeslag, bedoeld in artikel 28 *e*, en de vergoedingen zijn niet vatbaar voor vervreemding of verpanding.   
@@ -563,9 +554,7 @@ In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../../../
 
 ### Artikel  34  
 
-1.  Tegen een besluit op grond van deze wet kan een belanghebbende beroep instellen bij de Centrale Raad van Beroep.   
-2.  In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de termijn voor het indienen van een beroepschrift dertien weken, indien de belanghebbende in het buitenland is gevestigd.   
-3.  Het griffierecht bedraagt € 35.   
+In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de termijn voor het indienen van een beroepschrift dertien weken, indien de belanghebbende in het buitenland is gevestigd.  
 
 ### Hoofdstuk  8A  
 
@@ -602,7 +591,7 @@ Op een beschikking, voortvloeiende uit de toepassing van de artikelen 35 *c*, 35
 
 1.  Het buitengewoon pensioen of de garantietoeslag wordt, met uitzondering van de op grond van artikel 7 vastgestelde pensioengrondslag en het invaliditeitspercentage, bedoeld in artikel 8, opnieuw vastgesteld: 
 
-a. wanneer de pensioengerechtigde of zijn echtgenoot de 65-jarige leeftijd bereikt;  
+a. wanneer de pensioengerechtigde of zijn echtgenoot de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), bereikt;  
 
 b. wanneer de pensioengerechtigde in het huwelijk treedt of zijn huwelijk wordt beëindigd door echtscheiding of overlijden van zijn echtgenoot;  
 

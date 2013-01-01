@@ -1065,8 +1065,8 @@ Onverminderd het overigens bij of krachtens deze paragraaf bepaalde geschieden d
 
 ### Artikel  73  
 
-1.  [Artikel 30f, eerste en derde lid, onderdeel a, van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van overeenkomstige toepassing op de berekening van de heffingsrente met betrekking tot het winstaandeel.   
-2.  [Artikel 30f, tweede en derde lid, onderdeel d, van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van overeenkomstige toepassing op de berekening van de heffingsrente met betrekking tot de cijns en het oppervlakterecht.   
+1.  De [artikelen 30f](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [30fa](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [30fb](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [30fc](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [30fd](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [30fe](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [30hb, van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) zijn van overeenkomstige toepassing op de berekening van de belastingrente met betrekking tot het winstaandeel.   
+2.  De [artikelen 30h](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [30hb van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) zijn van overeenkomstige toepassing op de berekening van de belastingrente met betrekking tot de cijns en het oppervlakterecht.   
 
 ### Artikel  74  
 
@@ -1101,7 +1101,7 @@ Onverminderd het bij of krachtens deze afdeling bepaalde geschieden de heffing e
 
 ### Artikel  80  
 
-Indien een afdracht aan de provincie op een later tijdstip op een ander bedrag wordt vastgesteld, wordt bij die latere vaststelling de rentederving in rekening gebracht die voor de betrokkene of voor de provincie uit die latere vaststelling voortvloeit. Daarbij wordt een enkelvoudige rente in rekening gebracht, waarvan het percentage gelijk is aan het percentage van de heffingsrente, bedoeld in [artikel 30f, vijfde lid, van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).  
+Indien een afdracht aan de provincie op een later tijdstip op een ander bedrag wordt vastgesteld, wordt bij die latere vaststelling de rentederving in rekening gebracht die voor de betrokkene of voor de provincie uit die latere vaststelling voortvloeit. Daarbij wordt een enkelvoudige rente in rekening gebracht, waarvan het percentage gelijk is aan het percentage van de heffingsrente, bedoeld in [artikel 30hb van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).  
 
 ### Afdeling  5.2  
 
@@ -1336,13 +1336,13 @@ c. de overeenkomst tot stand komt binnen een jaar na het besluit van Onze Minist
 
 ### Artikel  100  
 
-Onverminderd het bij of krachtens deze afdeling bepaalde geschieden de heffing en invordering van de afdracht aan de staat of een vooruitbetaling op een afdracht met overeenkomstige toepassing van de [artikelen 11](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [12](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [14](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [17, eerste lid](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [25, eerste en tweede lid](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [28, eerste, tweede, vijfde en zesde lid](../../../wet/invorderingswet/1990/BWBR0004770/README.md), en [29 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) met dien verstande dat Onze Minister in de plaats treedt van de ontvanger.  
+Onverminderd het bij of krachtens deze afdeling bepaalde geschieden de heffing en invordering van de afdracht aan de staat of een vooruitbetaling op een afdracht met overeenkomstige toepassing van de [artikelen 11](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [12](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [14](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [17, eerste lid](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [25, eerste en tweede lid](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [28](../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [29 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) met dien verstande dat Onze Minister in de plaats treedt van de ontvanger.  
 
 ### Artikel  101  
 
 1.  Indien een afdracht als bedoeld in artikel 98, eerste lid, aan de staat of een vooruitbetaling op een afdracht als bedoeld in artikel 98, eerste lid, op een later tijdstip op een ander bedrag wordt vastgesteld, wordt bij die latere vaststelling de rentederving in rekening gebracht die voor de betrokkene of voor de staat uit die latere vaststelling voortvloeit. Daarbij wordt een enkelvoudige rente in rekening gebracht.   
 2.  Aan de betrokkene wordt een enkelvoudige rente in rekening gebracht over het bedrag waarvoor overeenkomstig [artikel 25 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) uitstel van betaling is verleend. De rente wordt berekend over het tijdvak waarvoor uitstel is verleend.   
-3.  Het percentage van de rente, bedoeld in het eerste en het tweede lid, is gelijk aan het percentage van de heffingsrente, bedoeld in [artikel 30f, vijfde lid, van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).   
+3.  Het percentage van de rente, bedoeld in het eerste en het tweede lid, is gelijk aan het percentage van de belastingrente, bedoeld in [artikel 30hb van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).   
 4.  Een rente, bedoeld in het eerste en het tweede lid, is aan de staat verschuldigd met ingang van de dag na die waarop de vaststelling aan de betrokkene bekend is gemaakt. Artikel 100 is van overeenkomstige toepassing ten aanzien van de betaling en de invordering van deze rente.   
 
 ### Afdeling  5.4  

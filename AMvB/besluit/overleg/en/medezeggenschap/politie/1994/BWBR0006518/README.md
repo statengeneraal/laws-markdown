@@ -20,45 +20,43 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
+a. Onze Minister: Onze Minister van Veiligheid en Justitie;  
 
-b. regionaal politiekorps: een regionaal politiekorps als bedoeld in [artikel 21 van de Politiewet 1993](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+b.  vervallen;   
 
-c. Korps landelijke politiediensten: het Korps landelijke politiediensten, bedoeld in [artikel 38 van de Politiewet 1993](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+c.  vervallen;   
 
 d. Het LSOP: het Landelijk selectie- en opleidingsinstituut politie, bedoeld in [artikel 2 van het LSOP-wet](../../../../../../../../wet/lsop-wet/BWBR0006942/README.md);  
 
-e. voorziening tot samenwerking: een publiekrechtelijke rechtspersoon als bedoeld in [artikel 47a, eerste lid, van de Politiewet 1993](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md).  
+e.  vervallen;   
 
 f. ambtenaar: de ambtenaar, bedoeld in [artikel 1, onderdeel h, van het Besluit algemene rechtspositie politie](../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
 
 g. bevoegd gezag: 
 
-1°. de korpsbeheerder, voor zover het betreft de ambtenaar die werkzaam is bij een regionaal politiekorps.  
+1°. de korpschef, voor zover het betreft de ambtenaar, aangesteld bij een onderdeel, bedoeld in [artikel 25, eerste lid, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
-2°. Onze Minister, voor zover het betreft de ambtenaar die werkzaam is bij het Korps landelijke politiediensten;  
+2°. het College van procureurs-generaal, voor zover het betreft ambtenaren van de rijksrecherche;  
 
-3°. Onze Minister van Justitie, voor zover het betreft de bijzondere ambtenaar van politie;  
+3° De raad van toezicht van het LSOP, voor zover het betreft de ambtenaren, bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet op het LSOP en het politieonderwijs](../../../../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md);  
 
-4°. de bestuursraad van het LSOP, voor zover het betreft het LSOP.  
+4° het college van bestuur van het LSOP, voor zover het betreft de ambtenaren, bedoeld in [artikel 10, eerste lid, onderdeel b, van de Wet op het LSOP en het politieonderwijs](../../../../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md);    
 
-5°. het algemeen bestuur van een voorziening tot samenwerking, voor zover het betreft de ambtenaren aangesteld bij de desbetreffende voorziening tot samenwerking;    
-
-h. korpschef: de korpschef, bedoeld in [artikel 24](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) onderscheidenlijk [artikel 38 van de Politiewet 1993](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+h. korpschef: de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
 i. Centrale: een centrale van overheidspersoneel als bedoeld in [artikel 1 van de Regeling overleg Raad voor het Overheidspersoneelsbeleid](../../../../../../../../KB/regeling/overleg/raad/voor/het/overheidspersoneelsbeleid/BWBR0008494/README.md);  
 
 j. Commissie: de Commissie voor georganiseerd overleg in politie-ambtenarenzaken, bedoeld in artikel 2;  
 
-k. Regionale Commissie: de Regionale Commissie voor georganiseerd overleg in politie-ambtenarenzaken in het regionaal politiekorps, bedoeld in artikel 12;  
+k.  vervallen;   
 
-l. Commissie Korps landelijke politiediensten: de Commissie voor georganiseerd overleg in politie-ambtenarenzaken in het Korps landelijke politiediensten, bedoeld in artikel 21.  
+l.  vervallen;   
 
-m. Commissie bijzondere ambtenaren van politie: de Commissie voor georganiseerd overleg in politie-ambtenarenzaken ten behoeve van de bijzondere ambtenaren van politie, bedoeld in artikel 22;  
+m.  vervallen;   
 
 n. Commissie LSOP: de Commissie voor georganiseerd overleg in politie-ambtenarenzaken ten behoeve van de ambtenaren van het LSOP, bedoeld in artikel 22a;  
 
-o. Commissie voorziening tot samenwerking: de Commissie voor georganiseerd overleg in politieambtenarenzaken ten behoeve van de ambtenaren werkzaam bij een voorziening tot samenwerking, bedoeld in artikel 22b;  
+o.  vervallen;   
 
 p. Pensioenreglement: het Pensioenreglement van de Stichting Pensioenfonds ABP;  
 
@@ -164,126 +162,13 @@ Onze Minister verleent zijn bemiddeling om aan de Commissie een lokaliteit in ee
 
 ####Het overleg met de Regionale Commissie
 
-### Artikel  12  
-
-1.  Er is een Regionale Commissie voor georganiseerd overleg in politie-ambtenarenzaken in ieder regionaal politiekorps.   
-2.  De Regionale Commissie bestaat uit vertegenwoordigers van: 
-
-a. de verenigingen van ambtenaren, bedoeld in artikel 2, tweede lid, onder *a* tot en met *d*;  
-
-b. andere door de korpsbeheerder tot het overleg toegelaten verenigingen van ambtenaren die eveneens representatief zijn, onder meer gelet op het aantal ambtenaren dat zij vertegenwoordigen en welke aangesloten zijn bij een Centrale en tegen wier toelating het algemeen belang zich niet verzet.     
-3.  Elke vereniging van ambtenaren, bedoeld in het tweede lid, is bevoegd tot aanwijzing van twee leden en twee plaatsvervangende leden van de Regionale Commissie. Indien verschillende verenigingen van ambtenaren zijn aangesloten bij dezelfde Centrale, zijn deze verenigingen slechts gezamenlijk bevoegd tot aanwijzing van vertegenwoordigers.   
-4.  De korpsbeheerder kan een toelating tot het overleg krachtens het tweede lid schorsen en een toelating tot het overleg krachtens het tweede lid, onder *b*, intrekken, indien naar zijn oordeel de vereniging van ambtenaren niet meer representatief is, dan wel indien het algemeen belang zich tegen haar verdere toelating verzet.   
-5.  Schorsing onderscheidenlijk intrekking van de toelating tot de Commissie van een vereniging van ambtenaren heeft van rechtswege ten gevolge schorsing onderscheidenlijk intrekking van de toelating tot de Regionale Commissie.   
-6.  In afwijking van het tweede lid kan Onze Minister, de Commissie gehoord, bepalen dat ook verenigingen van ambtenaren die niet zijn aangesloten bij een Centrale, tot de Regionale Commissie worden toegelaten.   
-
-### Artikel  13  
-
-1.  Over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, die uitsluitend het regionaal politiekorps betreffen en bovendien niet ontleend zijn aan noch vergelijkbaar zijn met een aangelegenheid als bedoeld in artikel 3, eerste lid, wordt niet beslist dan nadat daarover door of namens de korpsbeheerder overleg is gepleegd met de Regionale Commissie.   
-2.  Het eerste lid blijft buiten toepassing: 
-
-a. met betrekking tot bij of krachtens de wet gegeven regels over aangelegenheden waarover overleg is gepleegd met de Commissie indien die regels onverkort van toepassing zijn op de ambtenaar;  
-
-b. indien Onze Minister overleg met de Commissie wenselijk acht of de voorzitter van het overleg met de Regionale Commissie dan wel één van de leden van de Regionale Commissie aan Onze Minister kenbaar maakt dat overleg te wensen.     
-3.  Het in het tweede lid, onder *b*, bedoelde overleg met de Commissie vindt eerst plaats nadat zij het standpunt van de Regionale Commissie ter zake in afschrift heeft ontvangen.   
-4.  Een voorstel strekkende tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren, die een uitwerking is van een voorstel waarover in het in artikel 2, eerste lid, bedoelde overleg overeenstemming is bereikt, wordt slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de Regionale Commissie.   
-
-### Artikel  14  
-
-1.  Het overleg staat onder voorzitterschap van de korpsbeheerder.   
-2.  De korpsbeheerder wijst een lid van het regionaal college, bedoeld in [artikel 22 van de Politiewet 1993](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), als plaatsvervangend voorzitter aan.   
-3.  De voorzitter wordt bij het overleg terzijde gestaan door functionarissen die daartoe door de korpsbeheerder worden aangewezen.   
-4.  Het secretariaat van het overleg wordt gevoerd door een door de korpsbeheerder benoemde secretaris of daartoe aangewezen functionaris, die onder leiding van de voorzitter ter beschikking staat van deze, van de in het derde lid bedoelde functionarissen en van de leden van de Regionale Commissie. De benoeming van de secretaris of de aanwijzing van een functionaris daartoe geschiedt, de Regionale Commissie gehoord.   
-5.  Bij de behandeling van bepaalde aangelegenheden kan op uitnodiging of met toestemming van de voorzitter ook door anderen dan degenen die daartoe ingevolge artikel 12 gerechtigd zijn, aan het overleg worden deelgenomen.   
-6.  De leden van de Regionale Commissie kunnen zich na overleg met de voorzitter ter vergadering voor de behandeling van een bepaald onderwerp door deskundigen laten bijstaan.   
-
-### Artikel  15  
-
-De verenigingen van ambtenaren die vertegenwoordigd zijn in de Regionale Commissie stellen de korpsbeheerder jaarlijks in kennis van het ledental in het betreffende regionaal politiekorps. De verenigingen van ambtenaren die niet tevens in de Commissie zijn vertegenwoordigd, doen aan de korpsbeheerders bovendien mededeling van hun statuten en huishoudelijke reglementen en van de daarin aangebrachte wijzigingen.  
-
-### Artikel  16  
-
-1.  De in artikel 13, eerste lid, bedoelde aangelegenheden worden door de voorzitter op de agenda van het overleg met de Regionale Commissie geplaatst.   
-2.  Elke tot de Regionale Commissie toegelaten vereniging van ambtenaren is bevoegd aan de voorzitter van het overleg met de Regionale Commissie bepaalde tot de competentie van de Regionale Commissie behorende onderwerpen ter plaatsing op de agenda op te geven.   
-3.  Indien bij de behandeling van een aangelegenheid in het overleg met de Regionale Commissie blijkt dat zij niet uitsluitend het betrokken regionaal politiekorps regardeert, wordt zij verwezen naar het overleg met de Commissie.   
-
-### Artikel  17  
-
-1.  Het overleg wordt gevoerd op plaats, dag en uur door de voorzitter te bepalen.   
-2.  Indien de vertegenwoordigers van ten minste twee tot het overleg toegelaten verenigingen van ambtenaren de voorzitter, onder vermelding van hetgeen zij behandeld wensen te zien, verzoeken daartoe een vergadering uit te schrijven, vindt deze binnen 14 dagen plaats.   
-3.  De korpsbeheerder verleent zijn bemiddeling om aan de Regionale Commissie een lokaliteit ter beschikking te stellen, indien de Commissie daartoe een verzoek doet, ten behoeve van een door haar te houden vergadering.   
-
-### Artikel  18  
-
-1.  Indien het wenselijk blijkt voorbereidende besprekingen te voeren of in de Regionale Commissie genomen besluiten uit te werken, geschiedt dit door werkgroepen, bestaande uit vertegenwoordigers van de Regionale Commissie en door de korpsbeheerder daartoe aangewezen functionarissen.   
-2.  Artikel 14, vijfde en zesde lid, is van overeenkomstige toepassing.   
-
-### Artikel  19  
-
-1.  Het standpunt van de Regionale Commissie wordt bepaald bij eenvoudige meerderheid van stemmen. Elke vereniging van ambtenaren brengt één stem uit. Indien de stemmen binnen de Regionale Commissie staken, beslist de voorzitter van het overleg met die Regionale Commissie of het voorstel ten uitvoer worden gebracht.   
-2.  Het standpunt van de Regionale Commissie over in het overleg besproken aangelegenheden wordt schriftelijk aan de korpsbeheerder en aan de voorzitter van het overleg, bedoeld in artikel 2, eerste lid, meegedeeld. De Regionale Commissie geeft desverlangd een samenvatting van de aan het standpunt ten grondslag liggende argumenten.   
-3.  Indien in de Regionale Commissie een minderheidsstandpunt blijkt te bestaan, wordt daarvan desverlangd in de in het tweede lid bedoelde geschriften melding gemaakt.   
-4.  Indien over een aangelegenheid wordt beslist in afwijking van het standpunt van de meerderheid van de leden van de Regionale Commissie, worden de redenen van die afwijking zo spoedig mogelijk ter kennis van de Regionale Commissie gebracht.   
-
-### Artikel  20  
-
-1.  Van het in de vergaderingen van het overleg en de werkgroepen behandelde maakt de secretaris notulen. Bovendien kan op verzoek van de leden van de Regionale Commissie of van de voorzitter van het overleg een verslag worden opgemaakt bevattende een beknopte samenvatting van het behandelde in het overleg met de Regionale Commissie, voor zover dat voor openbaarmaking geschikt kan worden geacht.   
-2.  Na overleg met de Regionale Commissie dan wel de door deze in de betrokken werkgroep aangewezen leden, kan de voorzitter ten aanzien van het in vorenbedoelde vergaderingen behandelde geheimhouding opleggen.   
-3.  De plicht tot geheimhouding geldt niet voor zover de leden van de Regionale Commissie dan wel de door haar in de betrokken werkgroep aangewezen leden in bespreking treden met de door hen vertegenwoordigde verenigingen of de Centrales waarbij hun verenigingen zijn aangesloten.   
-
 ### Afdeling  3  
 
 ####Het overleg met de Commissie Korps landelijke politiediensten
 
-### Artikel  21  
-
-1.  Er is een Commissie Korps landelijke politiediensten.   
-2.  Over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, die uitsluitend het Korps landelijke politiediensten betreffen en bovendien niet ontleend zijn aan noch vergelijkbaar zijn met een aangelegenheid als bedoeld in artikel 3, eerste lid, wordt niet beslist dan nadat daarover door of namens Onze Minister overleg is gepleegd met de Commissie Korps landelijke politiediensten.   
-3.  Het tweede lid blijft buiten toepassing: 
-
-a. met betrekking tot bij of krachtens de wet gegeven regels over aangelegenheden waarover overleg is gepleegd met de Commissie indien die regels onverkort van toepassing zijn op de ambtenaar;  
-
-b. indien Onze Minister overleg met de Commissie wenselijk acht of de voorzitter van het overleg met de Commissie Korps landelijke politiediensten dan wel één van de leden van de Commissie Korps landelijke politiediensten aan Onze Minister kenbaar maakt dat overleg te wensen.     
-4.  Het in het derde lid, onder *b*, bedoelde overleg met de Commissie vindt eerst plaats nadat zij het standpunt van de Commissie Korps landelijke politiediensten terzake in afschrift heeft ontvangen.   
-5.  Een voorstel strekkende tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren, die een uitwerking is van een voorstel waarover in het in artikel 2, eerste lid, bedoelde overleg overeenstemming is bereikt, wordt slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de Commissie Korps landelijke politiediensten.   
-6.  Het overleg met de Commissie Korps landelijke politiediensten vindt plaats overeenkomstig de artikelen 12 tot en met 20, met dien verstande dat: 
-
-a. voor de toepassing van deze afdeling wordt verstaan onder: 
-
-1e. regionaal politiekorps: het Korps landelijke politiediensten;  
-
-2e. Regionale Commissie: de Commissie Korps landelijke politiediensten;  
-
-3e. korpsbeheerder: Onze Minister;    
-
-b. Onze Minister de voorzitter en de plaatsvervangend voorzitter van het overleg met de Commissie Korps landelijke politiediensten aanwijst.     
-
 ### Afdeling  4  
 
 ####Het overleg met de Commissie bijzondere ambtenaren van politie
-
-### Artikel  22  
-
-1.  Er is een Commissie bijzondere ambtenaren van politie.   
-2.  Over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, die uitsluitend de bijzondere ambtenaren van politie betreffen en bovendien niet ontleend zijn aan noch vergelijkbaar zijn met een aangelegenheid als bedoeld in artikel 3, eerste lid, wordt niet beslist dan nadat daarover door of namens Onze Minister van Justitie overleg is gepleegd met de Commissie bijzondere ambtenaren van politie.   
-3.  Het tweede lid blijft buiten toepassing: 
-
-a. met betrekking tot bij of krachtens de wet gegeven regels over aangelegenheden waarover overleg is gepleegd met de Commissie indien die regels onverkort van toepassing zijn op de ambtenaar;  
-
-b. indien Onze Minister overleg met de Commissie wenselijk acht of de voorzitter van het overleg met de Commissie bijzondere ambtenaren van politie dan wel één van de leden van de Commissie bijzondere ambtenaren van politie aan Onze Minister kenbaar maakt dat overleg te wensen.     
-4.  Het in het derde lid, onder *b*, bedoelde overleg met de Commissie vindt eerst plaats nadat zij het standpunt van de Commissie bijzondere ambtenaren van politie terzake in afschrift heeft ontvangen.   
-5.  Een voorstel strekkende tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren, die een uitwerking is van een voorstel waarover in het in artikel 2, eerste lid, bedoelde overleg overeenstemming is bereikt, wordt slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de Commissie bijzondere ambtenaren van politie.   
-6.  Het overleg met de Commissie bijzondere ambtenaren van politie vindt plaats overeenkomstig de artikelen 12 tot en met 20, met dien verstande dat: 
-
-a. voor de toepassing van deze afdeling wordt verstaan onder: 
-
-1e. regionaal politiekorps: het organisatie-onderdeel waarin de bijzondere ambtenaren van politie werkzaam zijn;  
-
-2e. Regionale Commissie: de Commissie bijzondere ambtenaren van politie;  
-
-3e. korpsbeheerder: Onze Minister van Justitie;    
-
-b. Onze Minister van Justitie de voorzitter en de plaatsvervangend voorzitter van het overleg met de Commissie bijzondere ambtenaren van politie aanwijst.     
 
 ### Afdeling  4A  
 
@@ -300,44 +185,76 @@ a. met betrekking tot bij of krachtens de wet gegeven regels over aangelegenhede
 b. indien Onze Minister overleg met de Commissie wenselijk acht of de voorzitter van het overleg met de Commissie LSOP dan wel één van de leden van de Commissie LSOP aan Onze Minister kenbaar maakt dat overleg te wensen.     
 4.  Het in het derde lid, onder *b*, bedoelde overleg met de Commissie vindt eerst plaats nadat zij het standpunt van de Commissie LSOP terzake in afschrift heeft ontvangen.   
 5.  Een voorstel strekkende tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren, die een uitwerking is van een voorstel waarover in het in artikel 2, eerste lid, bedoelde overleg overeenstemming is bereikt, wordt slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de Commissie LSOP.   
-6.  Het overleg met de Commissie LSOP vindt plaats overeenkomstig de artikelen 12 tot en met 20, met dien verstande dat: 
 
-a. voor de toepassing van deze afdeling wordt verstaan onder: 
+### Artikel  22ab  
 
-1e. regionaal politiekorps: het LSOP;  
+1.  De Commissie LSOP bestaat uit vertegenwoordigers van: 
 
-2e. Regionale Commissie: de Commissie LSOP;  
+a. de verenigingen van ambtenaren, bedoeld in artikel 2, tweede lid, onder a tot en met d;  
 
-3e. korpsbeheerder: de bestuursraad van het LSOP;    
+b. andere door de bestuursraad van het LSOP tot het overleg toegelaten verenigingen van ambtenaren die eveneens representatief zijn, onder meer gelet op het aantal ambtenaren dat zij vertegenwoordigen en welke aangesloten zijn bij een Centrale en tegen wier toelating het algemeen belang zich niet verzet.     
+2.  Elke vereniging van ambtenaren, bedoeld in het eerste lid, is bevoegd tot aanwijzing van twee leden en twee plaatsvervangende leden van de Commissie LSOP. Indien verschillende verenigingen van ambtenaren zijn aangesloten bij dezelfde centrale, zijn deze verenigingen slechts gezamenlijk bevoegd tot aanwijzing van vertegenwoordigers.   
+3.  De bestuursraad van het LSOP kan een toelating tot het overleg krachtens het tweede lid schorsen en een toelating tot het overleg krachtens het eerste lid, onder b, intrekken, indien naar zijn oordeel de vereniging van ambtenaren niet meer representatief is, dan wel indien het algemeen belang zich tegen haar verdere toelating verzet.   
+4.  Schorsing onderscheidenlijk intrekking van de toelating tot de Commissie van een vereniging van ambtenaren heeft van rechtswege ten gevolge schorsing onderscheidenlijk intrekking van de toelating tot Commissie LSOP.   
+5.  In afwijking van het eerste lid, kan Onze Minister, de Commissie gehoord, bepalen dat ook verenigingen van ambtenaren die niet zijn aangesloten bij een Centrale, tot de Commissie LSOP worden toegelaten.   
 
-b. de bestuursraad van het LSOP de voorzitter en de plaatsvervangend voorzitter van het overleg met de Commissie LSOP aanwijst.     
+### Artikel  22ac  
+
+1.  Over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, die uitsluitend het LSOP bestreffen en bovendien niet ontleend zijn aan noch vergelijkbaar zijn met een aangelegenheid als bedoeld in artikel 3, eerste lid, wordt niet beslist dan nadat daarover door of namens de bestuursraad van het LSOP overleg is gepleegd met de Commissie LSOP.   
+2.  het eerste lid blijft buiten toepassing: 
+
+a. met betrekking tot bij of krachtens de wet gegeven regels over aangelegenheden waarover overleg is gepleegd met de Commissie indien die regels onverkort van toepassing zijn op de ambtenaar;  
+
+b. indien Onze Minister overleg met de Commissie wenselijk acht of de voorzitter van het overleg met de Commissie LSOP dan wel een van de leden van de Commissie LSOP aan Onze Minister kenbaar maakt dat overleg te wensen.     
+3.  het in het tweede lid, onder b, bedoelde overleg met de Commissie vindt eerst plaats nadat zij het standpunt van de Commissie LSOP ter zake in afschrift heeft ontvangen.   
+4.  Een voorstel strekkende tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren, die een uitwerking is van een voorstel waarover in het in artikel 2, eerste lid, bedoelde overleg overeenstemming is bereikt, wordt slechts ter uitvoer gebracht indien daarover overeenstemming bestaat met de Commissie LSOP.   
+
+### Artikel  22ad  
+
+1.  Het overleg staat onder voorzitterschap van de bestuursraad van het LSOP.   
+2.  De bestuursraad van het LSOP wijst een lid aan van als plaatsvervangend voorzitter.   
+3.  De voorzitter wordt tijdens het overleg ter zijde gestaan door functionarissen die daartoe door de bestuursraad van het LSOP worden aangewezen.   
+4.  het secretariaat van het overleg wordt gevoerd door een door de bestuursraad van het LSOP benoemde secretaris of daartoe aangewezen functionaris, die onder leiding van de voorzitter die beschikbaar staat van deze, van de in het derde lid bedoelde functionarissen en van de leden van de Commissie LSOP. De benoeming van de secretaris of de aanwijzing van een functionaris daartoe geschiedt, de Commissie LSOP gehoord.   
+5.  De behandeling van bepaalde aangelegenheden kan op uitnodiging of met toestemming van de voorzitter ook door anderen dan degenen die daartoe ingevolge artikel 22ab gerechtigd zijn, aan het overleg worden deelgenomen.   
+6.  De leden van de Commissie LSOP kunnen zich na overleg met de voorzitter ter vergadering voor de behandeling van een bepaald onderwerp door deskundigen laten bijstaan.   
+
+### Artikel  22ae  
+
+De verenigingen van ambtenaren die vertegenwoordigd zijn in de Commissie LSOP stellen de bestuursraad van het LSOP jaarlijks in kennis van het ledental van het LSOP. De verenigingen van ambtenaren die niet tevens in de Commissie zijn vertegenwoordigd, doen aan de bestuursraad van het LSOP bovendien mededeling van hun statuten en huishoudelijke reglementen en van de daarin aangebrachte wijzigingen.  
+
+### Artikel  22af  
+
+1.  De in artikel 22ac, eerste lid, bedoelde aangelegenheden worden door de voorzitter op de agenda van het overleg met de Commissie LSOP geplaatst.   
+2.  Elke tot de Commissie LSOP toegelaten vereniging van ambtenaren is bevoegd aan de voorzitter van het overleg met de Commissie LSOP bepaalde tot de competentie van de Commissie LSOP behorende onderwerpen ter plaatse op de agenda op te geven.   
+3.  Indien bij de behandeling van een aangelegenheid in het overleg met de Commissie LSOP blijkt dat zij niet uitsluitend bij het LSOP regardeert, wordt zij verwezen naar het overleg met de Commissie.   
+
+### Artikel  22ag  
+
+1.  Het overleg wordt gevoerd op plaats, dag en uur door de voorzitter te bepalen.   
+2.  Indien de vertegenwoordigers van ten minste twee tot het overleg toegelaten verenigingen van ambtenaren de voorzitter, onder vermelding van hetgeen zij behandeld wensen te zien, verzoeken daartoe een vergadering uit te schrijven, vindt deze binnen 14 dagen plaats.   
+3.  De bestuursraad van het LSOP verleent zijn bemiddeling om aan de Commissie LSOP een lokaliteit ter beschikking te stellen, indien de Commissie daartoe een verzoek doet, ten behoeve van een door haar te houden vergadering.   
+
+### Artikel  22ah  
+
+1.  Indien wenselijk blijkt voorbereidende gesprekken te voeren of in de Commissie LSOP genomen besluiten uit te werken, geschiedt dit door werkgroepen, bestaande uit vertegenwoordigers van de Commissie LSOP en de door de bestuursraad van het LSOP aangewezen functionarissen.   
+2.  Artikel 22ad, vijfde en zesde lid, is van overeenkomstige toepassing.   
+
+### Artikel  22ai  
+
+1.  Het standpunt van de Commissie LSOP wordt bepaald bij eenvoudige meerderheid van stemmen. Elke vereniging van ambtenaren brengt een stem uit. Indien de stemmen binnen de Commissie LSOP staken, beslist de voorzitter van het overleg met de Commissie LSOP of het voorstel tot uitvoer wordt gebracht.   
+2.  Het standpunt van de Commissie LSOP over in het overleg besproken aangelegenheden wordt schriftelijk aan de bestuursraad en aan de voorzitter van het overleg, bedoeld in artikel 2, eerste lid, medegedeeld. De Commissie LSOP geeft desverlangd een samenvatting van de aan het standpunt ten grondslag liggende argumenten.   
+3.  Indien in de Commissie LSOP een minderheidsstandpunt blijkt te bestaan, wordt daarvan desverlangd in de in het tweede lid bedoelde geschriften melding gemaakt.   
+4.  Indien over een aangelegenheid wordt beslist in afwijking van het standpunt van de meerderheid van de leden van de Commissie LSOP, worden de redenen van die afwijking zo spoedig mogelijk ter kennis van de Commissie LSOP gebracht.   
+
+### Artikel  22aj  
+
+1.  Van het in vergaderingen van het overleg en de werkgroepen behandelde maakt de secretaris notulen. Bovendien kan op verzoek van de leden van de Commissie LSOP of van de voorzitter van het overleg een verslag worden opgemaakt bevattende een beknopte samenvatting van het behandelde in het overleg met de Commissie LSOP, voor zover dat voor openbaarmaking geschikt kan worden geacht.   
+2.  Na overleg met de Commissie LSOP dan wel de door deze in de betrokken werkgroep aangewezen leden, kan de voorzitter ten aanzien van het in vorenbedoelde vergaderingen behandelde geheimhouding opleggen.   
+3.  De plicht tot geheimhouding geldt niet voor zover de leden van de Commissie LSOP dan wel de door haar in de betrokken werkgroep aangewezen leden in bespreking zijn getreden met de door hen vertegenwoordigde verenigingen of de Centrales waarbij hun verenigingen zijn aangesloten.   
 
 ### Afdeling  4B  
 
 ####Het overleg met de Commissie voorziening tot samenwerking
-
-### Artikel  22b  
-
-1.  Er is een Commissie voorziening tot samenwerking voor elke voorziening tot samenwerking.   
-2.  Over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, die uitsluitend de ambtenaren van een voorziening tot samenwerking betreffen en bovendien niet ontleend zijn aan noch vergelijkbaar zijn met een aangelegenheid als bedoeld in artikel 3, eerste lid, wordt niet beslist dan nadat daarover door of namens het algemeen bestuur van een voorziening tot samenwerking overleg is gepleegd met de desbetreffende Commissie voorziening tot samenwerking.   
-3.  Het tweede lid blijft buiten toepassing: 
-
-a. met betrekking tot bij of krachtens de wet gegeven regels over aangelegenheden waarover overleg is gepleegd met de Commissie indien die regels onverkort van toepassing zijn op de ambtenaar;  
-
-b. indien het algemeen bestuur van een voorziening tot samenwerking overleg met de Commissie wenselijk acht of de voorzitter van het overleg met de desbetreffende Commissie voorziening tot samenwerking dan wel één van de leden van de desbetreffende Commissie voorziening tot samenwerking aan het algemeen bestuur van een voorziening tot samenwerking kenbaar maakt dat overleg te wensen.     
-4.  Het in het derde lid, onder b, bedoelde overleg met de Commissie vindt eerst plaats nadat zij het standpunt van de desbetreffende Commissie voorziening tot samenwerking terzake in afschrift heeft ontvangen.   
-5.  Een voorstel strekkende tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren, die een uitwerking is van een voorstel waarover in het in artikel 2, eerste lid, bedoelde overleg overeenstemming is bereikt, wordt slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de desbetreffende Commissie voorziening tot samenwerking.   
-6.  Het overleg met de desbetreffende Commissie voorziening tot samenwerking vindt plaats overeenkomstig de artikelen 12 tot en met 20, met dien verstande dat: 
-
-a. voor de toepassing van deze afdeling wordt verstaan onder: 
-
-1e. regionaal politiekorps: een voorziening tot samenwerking;  
-
-2e. Regionale Commissie: de desbetreffende Commissie voorziening tot samenwerking;  
-
-3e. korpsbeheerder: het algemeen bestuur van een voorziening tot samenwerking;    
-
-b. het algemeen bestuur van een voorziening tot samenwerking de voorzitter en de plaatsvervangend voorzitter van het overleg met de desbetreffende Commissie voorziening tot samenwerking aanwijst.     
 
 ### Afdeling  5  
 
@@ -353,12 +270,8 @@ b. Advies- en Arbitragecommissie: de Advies- en Arbitragecommissie, bedoeld in [
 
 ### Artikel  24  
 
-1.  Deze afdeling is van toepassing op geschillen inzake aangelegenheden als bedoeld in artikel 3, eerste lid.   
-2.  Deze afdeling is van overeenkomstige toepassing op geschillen inzake aangelegenheden als bedoeld in artikel 13, eerste lid, met dien verstande dat onder Commissie wordt verstaan: de Regionale Commissie.   
-3.  Deze afdeling is van overeenkomstige toepassing op geschillen inzake aangelegenheden als bedoeld in artikel 21, tweede lid, met dien verstande dat onder Commissie wordt verstaan: de Commissie Korps landelijke politiediensten.   
-4.  Deze afdeling is van overeenkomstige toepassing op geschillen inzake aangelegenheden als bedoeld in artikel 22, tweede lid, met dien verstande dat onder Commissie wordt verstaan: de Commissie bijzondere ambtenaren van politie.   
-5.  Deze afdeling is van overeenkomstige toepassing op geschillen inzake aangelegenheden als bedoeld in artikel 22 *a*, met dien verstande dat onder de Commissie wordt verstaan: de Commissie LSOP.   
-6.  Deze afdeling is van overeenkomstige toepassing op geschillen inzake aangelegenheden als bedoeld in artikel 22b, met dien verstande dat onder de Commissie wordt verstaan: de desbetreffende Commissie voorziening tot samenwerking.   
+1.  Deze afdeling is van toepassing op geschillen in aangelegenheden als bedoeld in artikel 3, eerste lid.   
+2.  Deze afdeling is van overeenkomstige toepassing op geschillen inzake aangelegenheden als bedoeld in artikel 22a, met dien verstande dat onder de Commissie wordt verstaan: de Commissie LSOP.   
 
 ### Artikel  25  
 
@@ -389,7 +302,7 @@ b. de standpunten van alle deelnemers aan het overleg omtrent onderwerp en inhou
 
 a. personen die ingevolge [artikel 110g, vierde lid, van het ARAR](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) zijn uitgesloten van het lidmaatschap of van het plaatsvervangend lidmaatschap;  
 
-b. personen die lid of plaatsvervangend lid zijn van de Commissie, van een Regionale Commissie, de Commissie Korps landelijke politiediensten, de Commissie bijzondere ambtenaren van politie, de Commissie LSOP of de desbetreffende Commissie voorziening tot samenwerking dan wel van wie dit lidmaatschap of plaatsvervangend lidmaatschap nog niet langer dan twee jaar is beëindigd.     
+b. personen die lid of plaatsvervangend lid zijn van de Commissie, de Commissie LSOP dan wel van wie dit lidmaatschap of plaatsvervangend lidmaatschap nog niet langer dan twee jaar is beëindigd.     
 5.  Overeenkomstig de aan de leden en de plaatsvervangende leden te verlenen vergoedingen worden aan de bijzondere leden uit 's Rijks kas vergoedingen voor reis- en verblijfkosten verleend volgens de regelen welke voor de vergoeding voor reis- en verblijfkosten wegens reizen voor 's Rijks dienst gelden.   
 6.  Onze Minister benoemt tevens twee plaatsvervangende bijzondere leden. Het tweede lid tot en met vijfde lid, zijn van overeenkomstige toepassing.   
 7.  Indien het verzoek om arbitrage naar het oordeel van de voorzitter eenzelfde geschil betreft als waarover door de Advies- en Arbitragecommissie reeds advies is uitgebracht, treedt voor een lid die bij het uitbrengen van dat advies betrokken was, diens plaatsvervanger op.   
@@ -439,8 +352,12 @@ De uitspraak van de Advies- en Arbitragecommissie heeft bindende kracht.
 
 ### Artikel  63  
 
-1.  Onze Minister kan, in overeenstemming met de Commissie, besluiten het overleg met de Regionale Commissies, de Commissie Korps landelijke politiediensten, de Commissie bijzondere ambtenaren van politie, de Commissie LSOP en de Commissie ITO, bedoeld in respectievelijk de afdelingen 2, 3, 4, 4A en 4 B van hoofdstuk II, op te schorten.   
+1.  Onze Minister kan, in overeenstemming met de Commissie, besluiten het overleg met de Commissie LSOP, bedoeld in afdeling 4A van hoofdstuk II, op te schorten.   
 2.  Onze Minister kan, in overeenstemming met de Commissie, bij het besluit om het overleg op te schorten tevens bepalen dat over de in voormelde afdelingen bedoelde aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, overlegd zal worden, overeenkomstig het bepaalde in afdeling 1, met voormelde Commissie.   
+
+### Artikel  63a  
+
+Dit besluit berust op [artikel 47, eerste lid, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
 
 ### Artikel  64  
 

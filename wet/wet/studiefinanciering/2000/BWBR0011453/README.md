@@ -28,7 +28,7 @@ b. opleiding buiten Nederland als bedoeld in artikel 2.13a en waarvan Onze Minis
 
 a. vakopleiding, middenkaderopleiding en specialistenopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen c, d en e, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en  
 
-b. opleiding buiten Nederland als bedoeld in artikel 2.13a en waarvan Onze Minister heeft vastgesteld dat deze wordt aangemerkt als een opleiding niveau 3 of 4,   *ouder*: natuurlijke ouder of adoptiefouder in de zin van de [artikelen 197 tot en met 232 van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), *partner*: partner als bedoeld in [artikel 3 van de Algemene wet inkomensafhankelijke regelingen](../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), *peiljaar*: tweede jaar voorafgaand aan het jaar waarin het studiefinancieringstijdvak aanvangt, dan wel het tweede jaar voorafgaand aan het jaar waarvoor de draagkracht in de zin van hoofdstuk 6 wordt vastgesteld, *prestatiebeurs*: rentedragende lening die onder voorwaarden kan worden omgezet in een gift, waarbij de rente teniet gaat, niet zijnde de rentedragende lening die niet kan worden omgezet in een gift, *reisrecht*: recht om te reizen als bedoeld in artikel 3.7, eerste lid, *reisvoorziening*: voorziening als bedoeld in artikel 3.7 en paragraaf 3.7, *RSR*: Regisseur Studenten Reisrecht, de rechtspersoon die in opdracht van het vervoerbedrijf tot taak heeft de digitale administratie van de OV-chipkaart voor studerenden te voeren, *specialistenopleiding*: specialistenopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdeel e, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), *student*: degene die hoger onderwijs volgt, niet zijnde een extraneus, *studerende*: deelnemer of student, *studiefinanciering*: door Onze Minister verstrekte toekenning in verband met het volgen van een opleiding in het beroepsonderwijs of in het hoger onderwijs waarop uitsluitend op grond van deze wet aanspraak bestaat, *studiefinancieringstijdvak*: kalenderjaar of een gedeelte daarvan waarop de toekenning van studiefinanciering betrekking heeft, met dien verstande dat deze periode ten minste 1 kalendermaand is, *studiejaar*: 
+b. opleiding buiten Nederland als bedoeld in artikel 2.13a en waarvan Onze Minister heeft vastgesteld dat deze wordt aangemerkt als een opleiding niveau 3 of 4,   *ouder*: natuurlijke ouder of adoptiefouder in de zin van de [artikelen 197 tot en met 232 van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), *partner*: partner als bedoeld in [artikel 3 van de Algemene wet inkomensafhankelijke regelingen](../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), *peiljaar*: tweede jaar voorafgaand aan het jaar waarin het studiefinancieringstijdvak aanvangt, dan wel het tweede jaar voorafgaand aan het jaar waarvoor de draagkracht in de zin van hoofdstuk 6 wordt vastgesteld, *prestatiebeurs*: rentedragende lening die onder voorwaarden kan worden omgezet in een gift, waarbij de rente teniet gaat, niet zijnde de rentedragende lening die niet kan worden omgezet in een gift, *reisproduct*: elektronisch product dat studerenden kunnen laden op een OV-chipkaart wanneer zij beschikken over reisrecht, *reisrecht*: recht om te reizen als bedoeld in artikel 3.7, eerste lid, *reisvoorziening*: voorziening als bedoeld in artikel 3.7 en paragraaf 3.7, *RSR*: Regisseur Studenten Reisrecht, de rechtspersoon die in opdracht van de vervoersbedrijven tot taak heeft de digitale administratie van het reisproduct voor studerenden op de OV-chipkaart te voeren, *specialistenopleiding*: specialistenopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdeel e, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), *student*: degene die hoger onderwijs volgt, niet zijnde een extraneus, *studerende*: deelnemer of student, *studiefinanciering*: door Onze Minister verstrekte toekenning in verband met het volgen van een opleiding in het beroepsonderwijs of in het hoger onderwijs waarop uitsluitend op grond van deze wet aanspraak bestaat, *studiefinancieringstijdvak*: kalenderjaar of een gedeelte daarvan waarop de toekenning van studiefinanciering betrekking heeft, met dien verstande dat deze periode ten minste 1 kalendermaand is, *studiejaar*: 
 
 1°. in het hoger onderwijs: tijdvak dat aanvangt op 1 september van enig kalenderjaar en eindigt op 31 augustus daaropvolgend,  
 
@@ -184,14 +184,14 @@ d. In afwijking van onderdeel b wordt, indien artikel 4.14, tweede lid, toepassi
 ####Voltijdse opleidingen hoger onderwijs aan bekostigde instellingen
 
 1.  Voor studiefinanciering kan een student in aanmerking komen die is ingeschreven voor het volgen van een voltijdse bacheloropleiding of een voltijdse masteropleiding aan een bekostigde universiteit of hogeschool, opgenomen in de [bijlage van de WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
-2.  Het eerste lid is van overeenkomstige toepassing gedurende de termijn, bedoeld in de [artikelen 5a.12, eerste, vierde en vijfde lid](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [5a.12a, eerste lid](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [5a.15](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of  [6.5, tweede lid, van de WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+2.  Het eerste lid is van overeenkomstige toepassing gedurende de termijn, bedoeld in de [artikelen 5a.12, eerste, vijfde en zesde lid](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [5a.12a, eerste lid](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [5a.15](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of  [6.5, tweede lid, van de WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
 
 ### Artikel  2.9  
 
 ####Voltijdse opleidingen hoger onderwijs aan aangewezen instellingen
 
 1.  Voor studiefinanciering kan een student in aanmerking komen die is ingeschreven voor het volgen van een voltijdse bacheloropleiding of een voltijdse masteropleiding verzorgd door een rechtspersoon voor hoger onderwijs als bedoeld in [artikel 1.1, onder aa, van de WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), die initiële opleidingen verzorgt.   
-2.  Het eerste lid is van overeenkomstige toepassing gedurende de termijn, bedoeld in de [artikelen 5a.12, eerste, vierde en vijfde lid](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [5a.12a, eerste lid](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [5a.15](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of  [6.10, derde lid, van de WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+2.  Het eerste lid is van overeenkomstige toepassing gedurende de termijn, bedoeld in de [artikelen 5a.12, eerste, vijfde en zesde lid](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [5a.12a, eerste lid](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [5a.15](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of  [6.10, derde lid, van de WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
 
 ### Artikel  2.10  
 
@@ -346,7 +346,7 @@ b. een toeslag voor een één-oudergezin ingevolge artikel 3.5.
 ####Toeslag partner
 
 1.  Aan een studerende met een partner die financieel van hem afhankelijk is en die niet in aanmerking komt voor studiefinanciering, wordt een toeslag voor een partner toegekend.   
-2.  Uitsluitend als financieel afhankelijk wordt aangemerkt de partner die een toetsingsinkomen heeft dat naar de maatstaf van 1 januari 2008 minder bedraagt dan € 8 129,26 Per 1 januari 2012: € € 8.905,50 en die de verzorging heeft van een of meer kinderen die jonger zijn dan 12 jaar waarvoor op grond van de [Algemene Kinderbijslagwet](../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) aanspraak op kinderbijslag bestaat. Bij de bepaling van het toetsingsinkomen van de partner is [artikel 8, derde, vijfde en zesde lid van de Algemene wet inkomensafhankelijke regelingen](../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) en artikel 3.17, derde tot en met zesde en tiende lid, van deze wet, van overeenkomstige toepassing.   
+2.  Uitsluitend als financieel afhankelijk wordt aangemerkt de partner die een toetsingsinkomen heeft dat naar de maatstaf van 1 januari 2008 minder bedraagt dan € 8 129,26 Per 1 januari 2013: € 9.017,71 en die de verzorging heeft van een of meer kinderen die jonger zijn dan 12 jaar waarvoor op grond van de [Algemene Kinderbijslagwet](../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) aanspraak op kinderbijslag bestaat. Bij de bepaling van het toetsingsinkomen van de partner is [artikel 8, derde lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) en artikel 3.17, derde tot en met zesde en tiende lid, van deze wet, van overeenkomstige toepassing.   
 3.  Het bedrag, bedoeld in het eerste lid, is opgenomen in artikel 3.18.   
 4.  [Artikel 9, tweede lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) is van toepassing.   
 
@@ -373,7 +373,7 @@ b. een toeslag voor een één-oudergezin ingevolge artikel 3.5.
 
 ####Vorm toekenning reisvoorziening
 
-1.  Voor studerenden aan een opleiding binnen Nederland bestaat de reisvoorziening uit een reisrecht gedurende een bepaald deel van de week waarvoor de studerende geen bedrag of een lager bedrag verschuldigd is aan het vervoerbedrijf.   
+1.  Voor studerenden aan een opleiding binnen Nederland bestaat de reisvoorziening uit een reisrecht gedurende een bepaald deel van de week waarvoor de studerende geen bedrag of een lager bedrag verschuldigd is aan de vervoersbedrijven.   
 2.  Voor studerenden die aanspraak hebben op studiefinanciering voor het volgen van een opleiding buiten Nederland, bestaat de reisvoorziening uit het bedrag, bedoeld in artikel 4.8, tweede lid, respectievelijk artikel 5.3, tweede lid. In afwijking van de eerste volzin kan een studerende als bedoeld in de eerste volzin op aanvraag als reisvoorziening een reisrecht ontvangen.   
 3.  Voor studerenden voor wie geen burgerservicenummer kan worden gebruikt in het contact tussen Onze Minister en RSR, bestaat de reisvoorziening uit het bedrag, bedoeld in artikel 4.8, tweede lid, respectievelijk artikel 5.3, tweede lid.   
 4.  Bij ministeriële regeling kunnen regels worden gesteld over de wijze van aanvraag en toekenning van de reisvoorziening in geld, bedoeld in het tweede en derde lid alsmede regels met het oog op een goede uitvoering van dit artikel.   
@@ -395,7 +395,7 @@ b. een toeslag voor een één-oudergezin ingevolge artikel 3.5.
 
 1.  Maatstaf voor de bepaling van de veronderstelde ouderlijke bijdrage is het toetsingsinkomen van de afzonderlijke ouders van de studerende in het peiljaar.   
 2.   Vervallen.    
-3.  Op het toetsingsinkomen in het peiljaar wordt in mindering gebracht de vrije voet. Deze voet is naar de maatstaf van 2008 gelijk aan € 15 928,16 Per 1 januari 2012: € 17.449,07.. Indien een van de ouders is overleden, geldt voor de andere ouder een dubbele vrije voet. Indien een studerende die niet geadopteerd is en die als ingezetene in de gemeentelijke basisadministratie persoonsgegevens is ingeschreven, blijkens die basisadministratie slechts één ouder heeft of artikel 3.14 toepassing heeft gevonden, is de vorige volzin van overeenkomstige toepassing. Indien voor een ouder voor de inkomstenbelasting – naast de algemene heffingskorting – de alleenstaande-ouderkorting of de aanvullende alleenstaande-ouderkorting van toepassing is, en voor hem geen dubbele vrije voet geldt, geldt voor hem in afwijking van de tweede volzin een vrije voet die naar de maatstaf van 2008 gelijk is aan € 20 199,42 Per 1 januari 2012: € 22.128,18..   
+3.  Op het toetsingsinkomen in het peiljaar wordt in mindering gebracht de vrije voet. Deze voet is naar de maatstaf van 2008 gelijk aan € 15 928,16 Per 1 januari 2013: € 17.668,93.. Indien een van de ouders is overleden, geldt voor de andere ouder een dubbele vrije voet. Indien een studerende die niet geadopteerd is en die als ingezetene in de gemeentelijke basisadministratie persoonsgegevens is ingeschreven, blijkens die basisadministratie slechts één ouder heeft of artikel 3.14 toepassing heeft gevonden, is de vorige volzin van overeenkomstige toepassing. Indien voor een ouder voor de inkomstenbelasting – naast de algemene heffingskorting – de alleenstaande-ouderkorting of de aanvullende alleenstaande-ouderkorting van toepassing is, en voor hem geen dubbele vrije voet geldt, geldt voor hem in afwijking van de tweede volzin een vrije voet die naar de maatstaf van 2008 gelijk is aan € 20 199,42 Per 1 januari 2013: € 22.407,00..   
 4.  Het bruto kortingsbedrag op jaarbasis is 26% van het verschil tussen het toetsingsinkomen in het peiljaar en de vrije voet in het toekenningsjaar.   
 5.  Op het bruto kortingsbedrag, bedoeld in het vierde lid, worden in mindering gebracht: 
 
@@ -478,14 +478,16 @@ Het verschil tussen het maximale bedrag van de aanvullende beurs en de voor een 
 
 ####Vordering wegens eigen inkomsten studerende
 
-1.  Indien een studerende in een kalenderjaar meerinkomen heeft, leidt dit tot een vordering van Onze Minister op de studerende. Meerinkomen is het toetsingsinkomen, verminderd met een vrije voet naar de maatstaf van 1 januari 2011 van € 13 215,83 Per 1 januari 2012:€ 13.362,53.   
+1.  Indien een studerende in een kalenderjaar meerinkomen heeft, leidt dit tot een vordering van Onze Minister op de studerende. Meerinkomen is het toetsingsinkomen, verminderd met een vrije voet naar de maatstaf van 1 januari 2011 van € 13 215,83 Per 1 januari 2013: € 13.530,90..   
 2.   Vervallen.    
 3.  Tot het meerinkomen worden niet gerekend: 
 
-a. een uitkering op grond van de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Toeslagenwet](../../../../../wet/toeslagenwet/BWBR0004043/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), en  
+a. een uitkering op grond van de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Toeslagenwet](../../../../../wet/toeslagenwet/BWBR0004043/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md),  
 
-b. de studiefinanciering verstrekt op grond van deze wet en voor zover in deze inkomsten begrepen.     
-4.  Voor iedere maand dat een studerende een uitkering ontvangt in de zin van de [Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), blijft daarvan een bedrag ter grootte van het bedrag voor een thuiswonende deelnemer, bedoeld in artikel 3.8, buiten beschouwing.   
+b. de studiefinanciering verstrekt op grond van deze wet en voor zover in deze inkomsten begrepen, en  
+
+c. de belastbare winst uit onderneming, bedoeld in [artikel 3.1, tweede lid, onderdeel a, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), die in het kalenderjaar waarin de studerende zijn afsluitend examen behaalt, is verworven. Met dien verstande dat een studerende hier slechts eenmaal voor in aanmerking komt.     
+4.  Voor iedere maand dat een studerende een uitkering ontvangt in de zin van de [Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), blijft daarvan een bedrag ter grootte van de maximale aanvullende beurs voor een thuiswonende deelnemer, bedoeld in artikel 3.18, buiten beschouwing.   
 5.  Bij de berekening van het meerinkomen blijft buiten beschouwing inkomen waarvan de studerende aantoont dat het is verworven over de periode in het kalenderjaar waarin hij zonder onderbreking geen studerende was in de zin van deze wet of waarin hij heeft afgezien van zijn aanspraak op studiefinanciering. Dit kan slechts de periode betreffen: 
 
 a. die begint bij de aanvang van het kalenderjaar, of  
@@ -528,11 +530,11 @@ De bedragen in onderstaande overzichten luiden per maand en zijn uitgedrukt in e
 |:---|:---|:---|
 | Levensonderhoud  | --- | --- |
 | a. thuiswonend  | € 573,53 
-per 1 januari 2011 tot 1 januari 2013: € 604,15.  | € 438,67 
-per 1 januari 2011 tot 1 januari 2013: € 462,08.  |
+per 1 januari 2013 tot 1 januari 2014: € 618,29.  | € 438,67 
+per 1 januari 2013 tot 1 januari 2014: € 472,89.  |
 | b. uitwonend  | € 754,41 
-per 1 januari 2011 tot 1 januari 2013: € 794,69.  | € 619,55 
-per 1 januari 2011 tot 1 januari 2013: € 652,62.  |
+per 1 januari 2013 tot 1 januari 2014: € 813,29.  | € 619,55 
+per 1 januari 2013 tot 1 januari 2014: € 667,89.  |
 
 Overzicht 2. Financieringsbronnen 
 
@@ -540,27 +542,27 @@ Overzicht 2. Financieringsbronnen
 |:---|:---|:---|
 | Basisbeurs (excl. toeslagen)  | --- | --- |
 | a. thuiswonend  | € 90,77 
-per 1 januari 2011 tot 1 januari 2013: € 95,61.  | € 71,57 
-per 1 januari 2011 tot 1 januari 2013: € 75,39.  |
+per 1 januari 2013 tot 1 januari 2014: € 97,85.  | € 71,57 
+per 1 januari 2013 tot 1 januari 2014: € 77,15.  |
 | b. uitwonend  | € 252,73 
-per 1 januari 2011 tot 1 januari 2013: € 266,23.  | € 233,53 
-per 1 januari 2011 tot 1 januari 2013: € 246,00.  |
+per 1 januari 2013 tot 1 januari 2014: € 272,46.  | € 233,53 
+per 1 januari 2013 tot 1 januari 2014: € 251,76.  |
 | Maximale aanvullende beurs/lening (of veronderstelde ouderlijke bijdrage)  | --- | --- |
 | a. thuiswonend  | € 206,25 
-per 1 januari 2012 tot 1 januari 2013: € 222,84.  | € 292,46 
-per 1 januari 2012 tot 1 januari 2013: € 309,40.  |
+per 1 januari 2013 tot 1 januari 2014: € 229,94.  | € 292,46 
+per 1 januari 2013 tot 1 januari 2014: € 316,44.  |
 | b. uitwonend  | € 225,17 
-per 1 januari 2012 tot 1 januari 2013: € 242,76.  | € 311,38 
-per 1 januari 2012 tot 1 januari 2013: € 329,33.  |
+per 1 januari 2013 tot 1 januari 2014: € 250,33.  | € 311,38 
+per 1 januari 2013 tot 1 januari 2014: € 336,83.  |
 | Basislening  | € 276,51 
-per 1 januari 2012 tot 1 januari 2013: € 285,70.  | € 155,89 
-per 1 januari 2011 tot 1 januari 2013: € 164,21.  |
+per 1 januari 2013 tot 1 januari 2014: € 290,50.  | € 155,89 
+per 1 januari 2013 tot 1 januari 2014: € 168,05.  |
 | Toeslag partner  | € 529,03 
-per 1 januari 2011 tot 1 januari 2013: € 557,27.  | € 529,03 
-per 1 januari 2011 tot 1 januari 2013: € 557,27.  |
+per 1 januari 2013 tot 1 januari 2014: € 570,31.  | € 529,03 
+per 1 januari 2013 tot 1 januari 2014: € 570,31.  |
 | Toeslag één-oudergezin  | € 423,34 
-per 1 januari 2011 tot 1 januari 2013: € 445,93.  | € 423,34 
-per 1 januari 2011 tot 1 januari 2013: € 445,93.  |
+per 1 januari 2013 tot 1 januari 2014: € 456,36.  | € 423,34 
+per 1 januari 2013 tot 1 januari 2014: € 456,36.  |
 
 ### Paragraaf  3.6  
 
@@ -609,7 +611,7 @@ c. een toeslag voor een één-oudergezin,   wordt de verhoging van de studiefina
 1.  In afwijking van artikel 1.7 gebruikt Onze Minister het burgerservicenummer van een studerende ter zake van de toekenning van diens reisrecht in contacten met RSR.   
 2.  RSR gebruikt het burgerservicenummer van een studerende slechts: 
 
-a. ter vaststelling van de identiteit van een studerende wanneer deze zich tot het vervoerbedrijf wendt om zijn gegevens te laten koppelen aan een daarvoor bestemde OV-chipkaart als bedoeld in artikel 3.26, eerste lid, en  
+a. ter vaststelling van de identiteit van een studerende wanneer deze zich tot de vervoersbedrijven wendt om zijn gegevens te laten koppelen aan een daarvoor bestemde OV-chipkaart als bedoeld in artikel 3.26, eerste lid, en  
 
 b. in contacten met Onze Minister.     
 
@@ -617,7 +619,7 @@ b. in contacten met Onze Minister.
 
 ####Aanvang reisrecht; omvang van rechten
 
-1.  Het reisrecht vangt aan op het moment dat de studerende het heeft geactiveerd op een daarvoor bestemde OV-chipkaart.   
+1.  Het reisrecht vangt aan op het moment dat de studerende het reisproduct heeft geladen op een daarvoor bestemde OV-chipkaart.   
 2.  Het reisrecht wordt naar keuze van de studerende toegekend als weekreisrecht of weekendreisrecht.   
 3.  Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze van verkrijgen van het reisrecht en de omvang van de aan de soorten reisrecht, bedoeld in het tweede lid, verbonden rechten. Daarbij worden tevens voorschriften vastgesteld met betrekking tot de wijze waarop en de termijn waarbinnen de studerende de keuze tussen soorten reisrecht dient te maken en met betrekking tot de aanvraag tot herziening door de studerende van een gemaakte keuze in soorten reisrecht.   
 
@@ -625,12 +627,12 @@ b. in contacten met Onze Minister.
 
 ####Beëindiging reisrecht
 
-1.  De studerende is verplicht het reisrecht te beëindigen door het deactiveren van het reisrecht, uiterlijk op de vijfde werkdag nadat: 
+1.  De studerende is verplicht het reisproduct te verwijderen uiterlijk op de vijfde werkdag nadat: 
 
-a. zijn aanspraak op studiefinanciering is beëindigd, of  
+a. zijn aanspraak op reisrecht is beëindigd, of  
 
 b. zijn reisrecht op grond van artikel 3.7, tweede of derde lid, is vervangen door een reisvoorziening in de vorm van geld.     
-2.  Bij het ten onrechte beschikken over een op een OV-chipkaart geactiveerd reisrecht, is degene aan wie het reisrecht is toegekend aan Onze Minister een bedrag van € 68,– per halve kalendermaand of een deel van een halve kalendermaand verschuldigd, ongeacht of gebruik is gemaakt van het reisrecht. De eerste helft van een kalendermaand loopt tot en met de vijftiende dag van een maand. De tweede helft loopt tot en met het einde van die maand.   
+2.  Bij het ten onrechte beschikken over een op een OV-chipkaart geladen reisproduct, is degene aan wie het reisrecht is toegekend aan Onze Minister een bedrag van € 97,00 per halve kalendermaand of een deel van een halve kalendermaand verschuldigd, ongeacht of gebruik is gemaakt van het reisrecht. De eerste helft van een kalendermaand loopt tot en met de vijftiende dag van een maand. De tweede helft loopt tot en met het einde van die maand.   
 3.  Het eerste lid is niet van toepassing op een periode waarin het niet tijdig beëindigen van het reisrecht aantoonbaar niet kan worden toegerekend aan degene aan wie het reisrecht is toegekend.   
 4.  Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de wijze van beëindigen van het reisrecht, en kunnen nadere regels worden gesteld met betrekking tot de wijze waarop en het tijdstip waarvoor de niet-toerekenbaarheid, bedoeld in het derde lid, moet worden aangetoond.   
 
@@ -638,7 +640,7 @@ b. zijn reisrecht op grond van artikel 3.7, tweede of derde lid, is vervangen do
 
 ####Vergoeding bij geen reisrecht
 
-1.  Wanneer een studerende door toedoen van Onze Minister over een periode ten onrechte niet over te activeren reisrecht beschikt, heeft hij over die periode jegens Onze Minister aanspraak op een vergoeding ter grootte van het bedrag, bedoeld in artikel 3.27, tweede lid, mits hij meer dan 3 maanden voor het begin van de desbetreffende kalendermaand, zowel de studiefinanciering heeft aangevraagd als alle benodigde gegevens voor het kunnen toekennen van studiefinanciering heeft verstrekt. Indien het betreft een reisrecht als bedoeld in artikel 3.7, tweede lid, heeft hij slechts aanspraak op een vergoeding als bedoeld in de vorige volzin, indien hij tevens binnen een bij ministeriële regeling vast te stellen termijn, een aanvraag om dit reisrecht heeft ingediend.   
+1.  Wanneer een studerende door toedoen van Onze Minister over een periode ten onrechte niet over een geladen reisproduct beschikt, heeft hij over die periode jegens Onze Minister aanspraak op een vergoeding ter grootte van het bedrag, bedoeld in artikel 3.27, tweede lid, mits hij meer dan 3 maanden voor het begin van de desbetreffende kalendermaand, zowel de studiefinanciering heeft aangevraagd als alle benodigde gegevens voor het kunnen toekennen van studiefinanciering heeft verstrekt. Indien het betreft een reisvoorziening als bedoeld in artikel 3.7, tweede lid, heeft hij slechts aanspraak op een vergoeding als bedoeld in de vorige volzin, indien hij tevens binnen een bij ministeriële regeling vast te stellen termijn, een aanvraag om deze reisvoorziening heeft ingediend.   
 2.  De studerende vraagt de vergoeding aan binnen 2 weken na de dag waarop hij op de aanvraag voor het eerst studiefinanciering heeft toegekend gekregen of, indien dit later is, binnen 2 weken na de dag waarop voor het eerst zijn recht op studiefinanciering inging.   
 3.  De studerende heeft geen recht op enige vergoeding: 
 
@@ -726,7 +728,7 @@ Deze paragraaf is uitsluitend van toepassing op deelnemers die in Nederland een 
 1.  Studiefinanciering, met uitzondering van de basislening en de aanvullende lening, wordt voor een opleiding niveau 3 of 4 binnen en buiten Nederland tezamen gedurende ten hoogste 4 jaren verstrekt in de vorm van een prestatiebeurs, met dien verstande dat de aanvullende beurs in de eerste 12 maanden waarvoor aanspraak op studiefinanciering bestaat wordt verstrekt in de vorm van een gift.   
 2.  Indien een deelnemer een specialistenopleiding volgt en hij 4 jaren studiefinanciering in de vorm van prestatiebeurs heeft genoten, wordt aan hem studiefinanciering, met uitzondering van de basislening en de aanvullende lening, voor die opleiding op aanvraag gedurende ten hoogste 2 jaren verstrekt in de vorm van een prestatiebeurs.   
 3.  Indien aan de voorwaarden, bedoeld in deze paragraaf, wordt voldaan wordt de prestatiebeurs omgezet in een gift.   
-4.  Studiefinanciering wordt gedurende in totaal ten hoogste 36 maanden na de perioden, bedoeld in het eerste en tweede lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de artikelen 3.1, derde lid, 3.2, 3.13 en 3.18, naar de maatstaf van 1 januari 2005 € 787,02 per 1 januari 2011 tot 1 januari 2013 € 853,16. Tevens kan een reisvoorziening worden verstrekt.   
+4.  Studiefinanciering wordt gedurende in totaal ten hoogste 36 maanden na de perioden, bedoeld in het eerste en tweede lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de artikelen 3.1, derde lid, 3.2, 3.13 en 3.18, naar de maatstaf van 1 januari 2005 € 787,02 per 1 januari 2013 tot 1 januari 2014 € 873,12. Tevens kan een reisvoorziening worden verstrekt.   
 5.  Op aanvraag kan een deelnemer als bedoeld in artikel 3.4, gedurende de periode, bedoeld in het vierde lid, tevens in aanmerking komen voor een lening ter grootte van het bedrag, bedoeld in artikel 3.4, derde lid.   
 6.  Op aanvraag kan een deelnemer als bedoeld in artikel 3.5, gedurende de periode bedoeld in het vierde lid, tevens in aanmerking komen voor een lening ter grootte van het bedrag, bedoeld in artikel 3.5, tweede lid.   
 
@@ -736,7 +738,7 @@ Deze paragraaf is uitsluitend van toepassing op deelnemers die in Nederland een 
 
 1.  In afwijking van artikel 4.7, eerste en tweede lid, wordt de studiefinanciering in de vorm van een reisvoorziening verstrekt in de vorm van een prestatiebeurs gedurende het in deze leden bedoelde aantal jaren, vermeerderd met 3 jaren. Indien artikel 4.12 is toegepast, wordt de uitkomst van de vorige volzin met 1 jaar vermeerderd.   
 2.  Het deel van de prestatiebeurs dat betrekking heeft op het recht op de reisvoorziening, is gelijk aan eentwaalfde deel van de waarde die daarvoor per studerende door het vervoerbedrijf aan Onze Minister in rekening wordt gebracht. De waarde wordt berekend door de voorlopige vergoeding voor het lopende kalenderjaar te corrigeren naar de correctie die de voorlopige vergoeding voor het voorafgaande kalenderjaar onderging. Dit deel van de prestatiebeurs wordt niet uitbetaald of verrekend.   
-3.  Indien de prestatiebeurs niet kan worden omgezet in een gift, wordt de tegenwaarde van de reisvoorziening kwijtgescholden over een maand waarover het reisrecht niet op een OV-chipkaart is geactiveerd als bedoeld in artikel 3.26 of is beëindigd als bedoeld in artikel 3.27. In afwijking van artikel 1.2 is bepalend de toestand op enig moment van de maand. De over het kwijt te schelden bedrag opgebouwde rente gaat dan teniet. De kwijtschelding is niet van toepassing op een maand waarin een vergoeding als bedoeld in artikel 3.7, tweede of derde lid, is toegekend.   
+3.  Indien de prestatiebeurs niet kan worden omgezet in een gift, wordt de tegenwaarde van de reisvoorziening kwijtgescholden over een maand waarover het reisproduct niet op een OV-chipkaart is geladen als bedoeld in artikel 3.26 of is beëindigd als bedoeld in artikel 3.27. In afwijking van artikel 1.2 is bepalend de toestand op enig moment van de maand. De over het kwijt te schelden bedrag opgebouwde rente gaat dan teniet. De kwijtschelding is niet van toepassing op een maand waarin een vergoeding als bedoeld in artikel 3.7, tweede of derde lid, is toegekend.   
 
 ### Artikel  4.9  
 
@@ -817,7 +819,7 @@ Deze paragraaf is uitsluitend van toepassing op deelnemers die zijn ingeschreven
 ####Studiefinanciering
 
 1.  Studiefinanciering wordt gedurende ten hoogste 4 jaren verstrekt in de vorm van een gift.   
-2.  Studiefinanciering wordt gedurende 36 maanden na de periode, bedoeld in het eerste lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de artikelen 3.1, derde lid, 3.2, 3.13 en 3.18, naar de maatstaf van 1 januari 2004 € 770,53 per 1 januari 2011 tot 1 januari 2013 € 853,16. Tevens kan een reisvoorziening worden verstrekt.   
+2.  Studiefinanciering wordt gedurende 36 maanden na de periode, bedoeld in het eerste lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de artikelen 3.1, derde lid, 3.2, 3.13 en 3.18, naar de maatstaf van 1 januari 2004 € 770,53 per 1 januari 2013 tot 1 januari 2014 € 873,12. Tevens kan een reisvoorziening worden verstrekt.   
 
 ### Artikel  4.19  
 
@@ -880,7 +882,7 @@ Dit hoofdstuk is uitsluitend van toepassing op studenten die na 31 augustus 1996
 
 1.  Studiefinanciering, met uitzondering van het collegegeldkrediet, de basislening en de aanvullende lening, wordt gedurende 4 jaren of het aantal jaren genoemd in artikel 5.6, dan wel bedoeld in artikel 2.14, derde lid, verstrekt in de vorm van een prestatiebeurs, met dien verstande dat de aanvullende beurs in de eerste 5 maanden waarvoor aanspraak op studiefinanciering bestaat wordt verstrekt in de vorm van een gift.   
 2.  Indien aan de voorwaarden, bedoeld in dit hoofdstuk, wordt voldaan wordt de prestatiebeurs omgezet in een gift.   
-3.  Studiefinanciering, met uitzondering van het collegegeldkrediet, wordt gedurende 36 maanden na de periode, bedoeld in het eerste lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de artikelen 3.1, derde lid, 3.2, 3.3, 3.13 en 3.18, naar de maatstaf van 1 januari 2007 € 809,93 per 1 januari 2011 tot 1 januari 2013 € 853,16. Tevens kan een reisvoorziening worden verstrekt.   
+3.  Studiefinanciering, met uitzondering van het collegegeldkrediet, wordt gedurende 36 maanden na de periode, bedoeld in het eerste lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de artikelen 3.1, derde lid, 3.2, 3.3, 3.13 en 3.18, naar de maatstaf van 1 januari 2007 € 809,93 per 1 januari 2013 tot 1 januari 2014 € 873,12. Tevens kan een reisvoorziening worden verstrekt.   
 4.  De basislening en de aanvullende lening kunnen gedurende de periode, bedoeld in het eerste lid, worden verstrekt. Het collegegeldkrediet kan gedurende de periode bedoeld in het eerste en derde lid worden verstrekt.   
 5.  Op aanvraag kan een student als bedoeld in artikel 3.4, gedurende de in het derde lid bedoelde periode tevens in aanmerking komen voor een lening ter grootte van het bedrag, bedoeld in artikel 3.4, derde lid.   
 6.  Op aanvraag kan een student als bedoeld in artikel 3.5, gedurende de in het derde lid bedoelde periode tevens in aanmerking komen voor een lening ter grootte van het bedrag, bedoeld in artikel 3.5, tweede lid.   
@@ -889,9 +891,9 @@ Dit hoofdstuk is uitsluitend van toepassing op studenten die na 31 augustus 1996
 
 ####Vorm waarin reisvoorziening wordt verstrekt
 
-1.  In afwijking van artikel 5.2, eerste lid, wordt de studiefinanciering in de vorm van een reisvoorziening verstrekt in de vorm van een prestatiebeurs gedurende het in dat lid bedoelde aantal jaren, vermeerderd met 3 jaren.   
+1.  Studiefinanciering in de vorm van een reisvoorziening wordt in de vorm van een prestatiebeurs verstrekt gedurende de periode bedoeld in artikel 5.2, eerste lid, vermeerderd met 1 jaar.   
 2.  Het deel van de prestatiebeurs dat betrekking heeft op het recht op de reisvoorziening, is gelijk aan eentwaalfde deel van de waarde die daarvoor per studerende door het vervoerbedrijf aan Onze Minister in rekening wordt gebracht. De waarde wordt berekend door de voorlopige vergoeding voor het lopende kalenderjaar te corrigeren naar de correctie die de voorlopige vergoeding voor het tweede daaraan voorafgaande kalenderjaar onderging. Dit deel van de prestatiebeurs wordt niet uitbetaald of verrekend.   
-3.  Indien de prestatiebeurs niet kan worden omgezet in een gift, wordt de tegenwaarde van de reisvoorziening kwijtgescholden over een maand waarover het reisrecht niet op een OV-chipkaart is geactiveerd als bedoeld in artikel 3.26 of is beëindigd als bedoeld in artikel 3.27. In afwijking van artikel 1.2 is bepalend de toestand op enig moment van de maand. De over het kwijt te schelden bedrag opgebouwde rente gaat dan teniet. De kwijtschelding is niet van toepassing op een maand waarin een vergoeding als bedoeld in artikel 3.7, tweede of derde lid, is toegekend.   
+3.  Indien de prestatiebeurs niet kan worden omgezet in een gift, wordt de tegenwaarde van de reisvoorziening kwijtgescholden over een maand waarover het reisproduct niet op een OV-chipkaart is geladen als bedoeld in artikel 3.26 of is verwijderd als bedoeld in artikel 3.27. In afwijking van artikel 1.2 is bepalend de toestand op enig moment van de maand. De over het kwijt te schelden bedrag opgebouwde rente gaat dan teniet. De kwijtschelding is niet van toepassing op een maand waarin een vergoeding als bedoeld in artikel 3.7, tweede of derde lid, is toegekend.   
 
 ### Artikel  5.5  
 
@@ -916,7 +918,7 @@ b. deze student is ingeschreven voor de hbo-lerarenopleiding, voor een daarbinne
 7.  De duur van de prestatiebeurs wordt op aanvraag met 1 jaar verlengd indien met goed gevolg het afsluitende examen van een masteropleiding als bedoeld in [artikel 7.4a, met uitzondering van het derde lid, van de WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) is behaald en daarna een masteropleiding als bedoeld in [artikel 7.4a, derde lid, van de WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) wordt gevolgd. De eerste volzin is niet van toepassing indien eerder op grond van het vijfde of zesde lid van dit artikel prestatiebeurs is toegekend. De eerste volzin is eveneens niet van toepassing indien eerder op grond van het negende lid van dit artikel prestatiebeurs is toegekend, voor zover dat betrekking had op een opleiding tot leraar voortgezet onderwijs van de eerste graad in algemene vakken.   
 8.  De duur van de prestatiebeurs wordt op aanvraag met 1 jaar verlengd indien reeds eerder prestatiebeurs is toegekend op grond van het vijfde lid en een masteropleiding als bedoeld in [artikel 7.4a, derde lid, van de WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) wordt gevolgd.   
 9.  De duur van de prestatiebeurs wordt met 1 jaar verlengd indien het een masteropleiding als bedoeld in [artikel 7.4b, tweede tot en met zevende lid, van de WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) betreft.   
-10.  Onze Minister verlengt op aanvraag van de student de duur van de prestatiebeurs eenmalig met 1 jaar indien de student blijkens gedagtekende verklaringen van een arts en van het bestuur van de onderwijsinstelling waar hij is ingeschreven, als gevolg van een lichamelijke, zintuiglijke of andere functiestoornis niet in staat is het afsluitend examen met goed gevolg af te ronden binnen dat aantal jaren prestatiebeurs.   
+10.  Onze Minister verlengt op aanvraag van de student de duur van de prestatiebeurs eenmalig met 1 jaar indien de student blijkens gedagtekende verklaringen van een arts en van het bestuur van de onderwijsinstelling waar hij is ingeschreven, als gevolg van een handicap of chronische ziekte niet in staat is het afsluitend examen met goed gevolg af te ronden binnen dat aantal jaren prestatiebeurs.   
 
 ### Paragraaf  5.2  
 
@@ -1186,7 +1188,7 @@ Indien een debiteur gedurende een kalenderjaar op grond van zijn draagkracht min
 
 1.  Op het ogenblik van beëindiging van het recht op studiefinanciering van een studerende wordt zijn schuld, ontstaan in het kader van de toepassing van deze wet, van rechtswege omgezet in een lening.   
 2.  Indien na beëindiging van het recht op studiefinanciering van een studerende door een beschikking op grond van artikel 7.1 een vordering ontstaat van Onze Minister, wordt die vordering omgezet in een lening op de eerste dag van de maand na de herziening. Bij de berekening van de rente voor die vordering wordt het rentepercentage gehanteerd dat geldt met ingang van 1 januari volgend op het kalenderjaar waarin de studerende is opgehouden studerende te zijn. Indien de omzetting plaatsvindt in het kalenderjaar waarin de studerende ophoudt studerende te zijn, wordt het rentepercentage gehanteerd dat geldt met ingang van 1 januari van dat kalenderjaar. Artikel 6.4, derde lid, laatste volzin, is bij de berekening van rente van overeenkomstige toepassing.   
-3.  In afwijking van het eerste en tweede lid wordt een schuld uit een lening en een schuld, ontstaan door toepassing van artikel 3.27, derde lid, niet omgezet.   
+3.  In afwijking van het eerste en tweede lid wordt een schuld uit een lening en een schuld, ontstaan door de toepassing van artikel 3.27, tweede lid, niet omgezet.   
 4.  De in het eerste of tweede lid bedoelde lening wordt rentedragend met ingang van het tijdstip van de daar bedoelde omzetting.   
 
 ### Hoofdstuk  7  
@@ -1215,9 +1217,9 @@ g. de hoogte van het bedrag van de kwijtschelding, bedoeld in artikel 6.2, tweed
 
 h. de hoogte van het collegegeldkrediet wordt vastgesteld of gewijzigd,  
 
-i. een herziening van de keuze in een soort reisrecht is geweigerd,  
+i. een herziening van de keuze in een soort reisvoorziening is geweigerd,  
 
-j. een bedrag is vastgesteld dat de studerende verschuldigd is omdat hij het reisrecht niet tijdig heeft beëindigd, of  
+j. een bedrag is vastgesteld dat de studerende verschuldigd is omdat hij het reisvoorziening niet tijdig heeft beëindigd, of  
 
 k. de aanvraag van een studerende, bedoeld in artikel 3.7, tweede lid, om als reisvoorziening een reisrecht te ontvangen, is toegekend of geweigerd.     
 2.  Herziening vindt plaats op grond van het feit dat: 
@@ -1226,7 +1228,7 @@ a. een beschikking genomen is waarvan de studerende of de debiteur onderscheiden
 
 b. de situatie van langdurige afwezigheid, bedoeld in artikel 4.3, zich niet heeft voorgedaan,  
 
-c. te veel of te weinig studiefinanciering is toegekend, de vorm van de studiefinanciering onjuist is vastgelegd anders dan bedoeld in onderdeel b, de vorm van de studiefinanciering op grond van artikel 10.6, zevende lid, opnieuw wordt vastgesteld, de termijn te hoog of te laag is vastgesteld , de draagkracht van de debiteur te hoog of te laag is vastgesteld, de hoogte van het bedrag van de kwijtschelding, bedoeld in artikel 6.2, tweede lid, te hoog of te laag is vastgesteld, de hoogte van de veronderstelde ouderlijke bijdrage te hoog of te laag is vastgesteld, of een onjuist besluit met betrekking tot het reisrecht is genomen op basis van onjuiste of onjuist verwerkte gegevens anders dan bedoeld onder a,  
+c. te veel of te weinig studiefinanciering is toegekend, de vorm van de studiefinanciering onjuist is vastgelegd anders dan bedoeld in onderdeel b, de vorm van de studiefinanciering op grond van artikel 10.6, zevende lid, opnieuw wordt vastgesteld, de termijn te hoog of te laag is vastgesteld , de draagkracht van de debiteur te hoog of te laag is vastgesteld, de hoogte van het bedrag van de kwijtschelding, bedoeld in artikel 6.2, tweede lid, te hoog of te laag is vastgesteld, de hoogte van de veronderstelde ouderlijke bijdrage te hoog of te laag is vastgesteld, of een onjuist besluit met betrekking tot het reisvoorziening is genomen op basis van onjuiste of onjuist verwerkte gegevens anders dan bedoeld onder a,  
 
 d. betrokkene heeft gehandeld in strijd met het bepaalde bij of krachtens deze wet,  
 
@@ -1445,7 +1447,7 @@ In dit hoofdstuk wordt onder tempobeurs verstaan een voorwaardelijke gift die on
 
 1.  In afwijking van artikel 3.1, tweede lid, onderdeel b, kan studiefinanciering worden toegekend in de vorm van tempobeurs.   
 2.  Studiefinanciering met uitzondering van de reisvoorziening wordt gedurende 5 jaren of het aantal jaren genoemd in artikel 10.5, verstrekt in de vorm van een tempobeurs. De reisvoorziening wordt verstrekt in de vorm van een gift.   
-3.  Studiefinanciering met uitzondering van de reisvoorziening wordt gedurende 2 jaren na de periode, bedoeld in het tweede lid, verstrekt in de vorm van een lening. De reisvoorziening wordt verstrekt in de vorm van een gift. Het bedrag dat per maand gedurende deze periode kan worden geleend, bedraagt, in afwijking van de artikelen 3.2 en 3.3, naar de maatstaf van 1 januari 2007 € 809,93 per 1 januari 2011 tot 1 januari 2013 € 853,16. De artikelen 3.13 en 3.18 zijn niet van toepassing.   
+3.  Studiefinanciering met uitzondering van de reisvoorziening wordt gedurende 2 jaren na de periode, bedoeld in het tweede lid, verstrekt in de vorm van een lening. De reisvoorziening wordt verstrekt in de vorm van een gift. Het bedrag dat per maand gedurende deze periode kan worden geleend, bedraagt, in afwijking van de artikelen 3.2 en 3.3, naar de maatstaf van 1 januari 2007 € 809,93 per 1 januari 2013 tot 1 januari 2014 € 873,12. De artikelen 3.13 en 3.18 zijn niet van toepassing.   
 
 ### Artikel  10.4  
 
@@ -1762,17 +1764,6 @@ Op een student die voor 1 september 2007 voor het volgen van hoger onderwijs bu
 
 Voor een studerende die reeds voor de inwerkingtreding van artikel 2.17 studiefinanciering ontving en wiens vrijheid op de dag voorafgaande aan de inwerkingtreding van artikel 2.17 rechtens was ontnomen, wordt voor de toepassing van dat artikel als eerste dag waarop de vrijheidsontneming plaatsvindt, aangemerkt de dag van inwerkingtreding van artikel 2.17 en eindigt de aanspraak op studiefinanciering voor uitwonenden in afwijking van artikel 2.17, eerste lid, vanaf de dag dat deze vrijheidsontneming zes maanden heeft geduurd. De beëindiging gaat in op de eerste dag van de maand volgend op de maand waarin de vrijheidsontneming als bedoeld in de eerste zin zes maanden heeft geduurd.  
 
-### Artikel  12.1d  
-
-####Overgangsbepalingen met betrekking tot artikel 3.9  en 3.10  in verband met nieuwe berekeningssystematiek veronderstelde ouderlijke bijdrage
-
-1.  Voor de toepassing op de navolgende tijdvakken luidt artikel 3.9, derde lid: 
-
-a. van 1 januari 2006 tot 1 januari 2007: 3. Het gecorrigeerde verzamelinkomen in het peiljaar wordt, indien het een negatief bedrag is, gesteld op nihil. Vervolgens wordt daarop in mindering gebracht de vrije voet. Deze voet is gelijk aan € 15 275,67. Indien een van de ouders is overleden, geldt voor de andere ouder een dubbele vrije voet. Indien een studerende die niet geadopteerd is en die als ingezetene in de gemeentelijke basisadministratie persoonsgegevens is ingeschreven, blijkens die basisadministratie slechts één ouder heeft of artikel 3.14 toepassing heeft gevonden, is de vorige volzin van overeenkomstige toepassing. Indien voor een ouder voor de inkomstenbelasting – naast de algemene heffingskorting – de alleenstaande-ouderkorting van toepassing is, en voor hem geen dubbele vrije voet geldt, geldt voor hem in afwijking van de derde volzin een vrije voet die gelijk is aan € 19 546,93.  
-
-b. van 1 januari 2007 tot 1 januari 2008: 3. Het gecorrigeerde verzamelinkomen in het peiljaar wordt, indien het een negatief bedrag is, gesteld op nihil. Vervolgens wordt daarop in mindering gebracht de vrije voet. Deze voet is gelijk aan € 15 504,23. Indien een van de ouders is overleden, geldt voor de andere ouder een dubbele vrije voet. Indien een studerende die niet geadopteerd is en die als ingezetene in de gemeentelijke basisadministratie persoonsgegevens is ingeschreven, blijkens die basisadministratie slechts één ouder heeft of artikel 3.14 toepassing heeft gevonden, is de vorige volzin van overeenkomstige toepassing. Indien voor een ouder voor de inkomstenbelasting – naast de algemene heffingskorting – de alleenstaande-ouderkorting van toepassing is, en voor hem geen dubbele vrije voet geldt, geldt voor hem in afwijking van de derde volzin een vrije voet die gelijk is aan € 19 748,75.     
-2.  In afwijking van artikel 3.10, eerste lid, geldt tot 1 januari 2008 in plaats van «het toetsingsinkomen»: het gecorrigeerde verzamelinkomen.   
-
 ### Artikel  12.2  
 
 ####Afwijking van artikel 3.18  voor het jaar 2006 vanwege nieuw zorgverzekeringsstelsel
@@ -1791,6 +1782,12 @@ In afwijking van artikel 3.21, tweede lid, kan een student die voor 1 september
 ####Afwijking van de artikelen 5.2  en 6.2 
 
 Op de student die vóór 1 september 2010 voor het volgen van hoger onderwijs studiefinanciering ontving, blijven de artikelen 5.2, eerste lid, en 6.2, tweede lid, van toepassing, zoals die artikelen op 31 augustus 2010 luidden.  
+
+### Artikel  12.9a  
+
+####Reeds toegekende reisvoorziening
+
+Op een student die een reisvoorziening als bedoeld in artikel 5.3, zoals dat artikel luidde voor het tijdstip van inwerkingtreding van artikel I, onderdeel Y, van deze Wijzigingswet van 12 juli 2012 toegekend heeft gekregen, blijft ten aanzien van deze toegekende reisvoorziening artikel 5.3 zoals dat artikel luidde voor het tijdstip van inwerkingtreding van artikel I, onderdeel Y, van deze Wijzigingswet van 12 juli 2012 van toepassing.  
 
 ### Artikel  12.10  
 
@@ -1829,7 +1826,8 @@ Het rentepercentage voor leningen aangegaan voor 1 januari 1992 is in afwijking
 
 ####Tijdelijke afwijking van artikel 11.1 
 
-Artikel 11.1 is niet van toepassing in de kalenderjaren 2011 en 2012, met uitzondering van hetgeen in dat artikel is bepaald ten aanzien van de artikelen 3.4, tweede lid, en 3.9, derde lid.  
+1.  Artikel 11.1, eerste lid, is niet van toepassing in het kalenderjaar 2011, met uitzondering van hetgeen in dat artikellid is bepaald ten aanzien van de artikelen 3.4, tweede lid. en 3.9, derde lid.   
+2.  Artikel 11.1, eerste lid, is niet van toepassing in het kalenderjaar 2012, met uitzondering van hetgeen in dat artikellid is bepaald ten aanzien van de artikelen 3.4, tweede lid, 3.9, derde lid, en artikel 3.17, eerste lid.   
 
 ### Artikel  12.11  
 

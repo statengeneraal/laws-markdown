@@ -421,11 +421,6 @@ De kamers werken samen ter bevordering van de uniforme uitvoering van de verplic
 
 ####Beroep
 
-### Artikel  55  
-
-1.  Tegen een op grond van deze wet genomen besluit en tegen een ander door een kamer genomen besluit, met uitzondering van besluiten op grond van de [Wet openbaarheid van bestuur](../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) of op grond van de bevoegdheid tot het nemen van besluiten of het verrichten van handelingen ten aanzien van een ambtenaar als bedoeld in [artikel 1 van de Ambtenarenwet](../../../../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) als zodanig, zijn nagelaten betrekkingen of zijn rechtverkrijgenden, kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.   
-2.  Het eerste lid geldt niet ten aanzien van besluiten waartegen bij of krachtens de wet een andere voorziening is opengesteld.   
-
 ### Hoofdstuk  10  
 
 ####Wijzigingen in andere wetten

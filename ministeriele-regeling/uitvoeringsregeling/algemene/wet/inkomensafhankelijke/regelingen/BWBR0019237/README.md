@@ -156,10 +156,26 @@ b. een bedrag ter grootte van de navolgende eenmalige uitkeringen die in het ber
 
 12°. uitkeringen uit het DES-Fonds die zijn verstrekt aan slachtoffers van het gebruik van DES-preparaten;  
 
-13°. Tegemoetkomingen op grond van de Regeling tegemoetkoming financiële gevolgen in verband met functionele invaliditeit nieuwjaarsbrand Volendam (Stcrt. 2003, 42) en bijdragen op grond van de Regeling tegemoetkoming in kosten nieuwjaarsbrand Volendam II (Stcrt. 2004, 188), uitgekeerd aan de getroffenen zelf.       
+13°. tegemoetkomingen op grond van de Regeling tegemoetkoming financiële gevolgen in verband met functionele invaliditeit nieuwjaarsbrand Volendam (Stcrt. 2003, 42) en bijdragen op grond van de Regeling tegemoetkoming in kosten nieuwjaarsbrand Volendam II (Stcrt. 2004, 188), uitgekeerd aan de getroffenen zelf;  
+
+14°. vergoedingen op grond van de compensatieregeling van de Rooms-Katholieke Kerk Nederland voor slachtoffers van seksueel misbruik;  
+
+15°. bijzondere uitkeringen van het Ministerie van Defensie op grond van artikel 21a van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen of op grond van artikel 21a van het Besluit bijzondere militaire pensioenen.       
 2.  Het eerste lid, onderdeel b, onder 4° tot en met 11°, is eveneens van toepassing ingeval de genoemde uitkeringen zijn verstrekt aan nabestaanden van de gerechtigden.   
 3.  Het in het eerste lid bedoelde verzoek kan worden gedaan tot het tijdstip dat de toekenning van de tegemoetkoming over het desbetreffende berekeningsjaar onherroepelijk is geworden.   
 4.  Een verzoek als bedoeld in het eerste lid wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.   
+5.  Een verzoek als bedoeld in het eerste lid kan, met overeenkomstige toepassing van het tweede, derde en vierde lid, eveneens worden gedaan met betrekking tot het buiten toepassing laten van [artikel 2a, eerste lid, van de Wet op de zorgtoeslag](../../../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](../../../../../../../wet/wet/op/het/kindgebonden/budget/BWBR0022751/README.md) indien de belanghebbende wel aanspraak op zorgtoeslag, onderscheidenlijk kindgebonden budget, zou hebben indien de grondslag sparen en beleggen, bedoeld in [artikel 5.2, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), zou worden verminderd met een bedrag ter grootte van de eenmalige uitkeringen, bedoeld in het eerste lid, onderdeel b.   
+
+### Artikel  9bis  
+
+####Overgangsrecht vermogenstoets letselschade-uitkeringen
+
+1.  Op verzoek van de belanghebbende blijft [artikel 2a, eerste lid, van de Wet op de zorgtoeslag](../../../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](../../../../../../../wet/wet/op/het/kindgebonden/budget/BWBR0022751/README.md), tot 1 januari 2023 buiten toepassing ten aanzien van degene die in het berekeningsjaar aanspraak op zorgtoeslag, onderscheidenlijk kindgebonden budget, zou hebben indien de grondslag sparen en beleggen, bedoeld in [artikel 5.2, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), zou worden verminderd met een bedrag ter grootte van een in het berekeningsjaar of in enig eerder jaar ontvangen eenmalige uitkering: 
+
+a. die een schadevergoeding vormt voor een letselschade; en  
+
+b. waarvan de hoogte is vastgelegd in een overeenkomst of rechterlijke uitspraak die is gedateerd voor 11 oktober 2010, dan wel, indien de uitkering op andere grond tot stand is gekomen, de hoogte is vastgesteld voor 11 oktober 2010.     
+2.  Artikel 9, derde en vierde lid, is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.   
 
 ### Artikel  9a  
 

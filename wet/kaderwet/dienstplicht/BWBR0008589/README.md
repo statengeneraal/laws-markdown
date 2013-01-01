@@ -119,8 +119,7 @@ d. de wijze waarop de geschiktheid of ongeschiktheid voor het vervullen van werk
 
 ####Afkeuring door bedrog
 
-1.  Bestaat er naar het oordeel van Onze Minister gegrond vermoeden, dat iemand voorgoed ongeschikt is verklaard voor het vervullen van werkelijke dienst als gevolg van bedrog, dan wordt de desbetreffende beslissing door hem vervallen verklaard en komen op betrokkene de verplichtingen te rusten als ware hij geschikt verklaard.   
-2.  Tegen een besluit van Onze Minister als bedoeld in het eerste lid kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
+Bestaat er naar het oordeel van Onze Minister gegrond vermoeden, dat iemand voorgoed ongeschikt is verklaard voor het vervullen van werkelijke dienst als gevolg van bedrog, dan wordt de desbetreffende beslissing door hem vervallen verklaard en komen op betrokkene de verplichtingen te rusten als ware hij geschikt verklaard.  
 
 ### Paragraaf  4  
 
@@ -140,7 +139,6 @@ b. hij die bij rechterlijke uitspraak is ontzet uit het recht om bij de gewapend
 4.  De uitsluiting geschiedt door Onze Minister.   
 5.  In bijzondere gevallen kan de uitsluiting, bedoeld in het eerste lid, achterwege worden gelaten.   
 6.  Onze Minister van Justitie bewerkstelligt dat ten aanzien van de voor de dienstplicht ingeschreven personen, die in de termen vallen om te worden uitgesloten als bedoeld in het eerste en tweede lid, de nodige opgaven worden gedaan aan Onze Minister. Onze Minister verwerkt strafrechtelijke persoonsgegevens voor zover dit noodzakelijk is voor de toepassing van dit artikel.   
-7.  Tegen een besluit van Onze Minister met betrekking tot uitsluiting kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
 
 ### Paragraaf  5  
 
@@ -173,12 +171,6 @@ a. kostwinnerschap;
 b. het bekleden van een geestelijk ambt of een opleiding tot zodanig ambt; of  
 
 c. broederdienst.    
-
-### Artikel  15  
-
-####Beroep op de administratieve rechter
-
-Tegen een besluit van Onze Minister ingevolge artikel 13 kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State. [Hoofdstuk 7 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.  
 
 ### Artikel  16  
 
@@ -214,7 +206,7 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met
 
 ####Buitengewone omstandigheden
 
-1.  Onverminderd artikel 20 kan Onze Minister in geval van buitengewone omstandigheden dienstplichtigen oproepen voor het vervullen van werkelijke dienst, voor zover dat nodig is ter uitvoering van de militaire taak. De dienstplichtigen zijn verplicht aan deze oproeping gevolg te geven.   
+1.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  Onverminderd artikel 20 kan Onze Minister in geval van buitengewone omstandigheden dienstplichtigen oproepen voor het vervullen van werkelijke dienst, voor zover dat nodig is ter uitvoering van de militaire taak. De dienstplichtigen zijn verplicht aan deze oproeping gevolg te geven.   
 2.  Onverminderd het derde lid gaat de oproeping van jongere dienstplichtigen zoveel mogelijk vooraf aan de oproeping van oudere dienstplichtigen. Oproeping van dienstplichtigen ouder dan 45 jaar vindt niet plaats.   
 3.  Bij algemene maatregel van bestuur kunnen groepen van dienstplichtigen worden aangewezen die in geval van een oproeping als bedoeld in het eerste lid niet of voorlopig niet in werkelijke dienst behoeven te komen.   
 
@@ -717,7 +709,7 @@ W. Sorgdrager
 ####INHOUDSOPGAVE
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | HOOFDSTUK 1.  | ALGEMEEN  |
 | Paragraaf 1.  | Definities en toepassingsgebied  |
 | Artikel 1.  | Begripsbepalingen  |
@@ -738,7 +730,8 @@ W. Sorgdrager
 | Artikel 12.  | Uitstel  |
 | Artikel 13.  | Ontheffing  |
 | Artikel 14.  | Vrijstelling  |
-| Artikel 15.  | Beroep op de administratieve rechter  |
+| Artikel 15.  |  
+Vervallen.   |
 | Artikel 16.  | Nadere voorschriften uitstel, ontheffing en vrijstelling  |
 | Artikel 17.  | Nadere regels uitstel, ontheffing en vrijstelling  |
 | Artikel 18.  | Gewone omstandigheden  |

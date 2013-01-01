@@ -385,8 +385,7 @@ b. Onze Minister, de bevoegde autoriteiten en andere overheidsinstanties te info
 
 ### Artikel  7.1  
 
-1.  Indien beroep wordt ingesteld tegen een besluit op grond van deze wet is, in afwijking van [artikel 8:1 van de Algemene wet bestuurswet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de rechtbank te Rotterdam uitsluitend bevoegd.   
-2.  Tegen een uitspraak in hoger beroep van het College van Beroep voor het bedrijfsleven kan de procureur-generaal bij de Hoge Raad der Nederlanden beroep in cassatie in het belang der wet instellen wegens schending of verkeerde toepassing van artikel 8.8.   
+Tegen een uitspraak in hoger beroep van het College van Beroep voor het bedrijfsleven kan de procureur-generaal bij de Hoge Raad der Nederlanden beroep in cassatie in het belang der wet instellen wegens schending of verkeerde toepassing van artikel 8.8.  
 
 ### Artikel  7.2  
 

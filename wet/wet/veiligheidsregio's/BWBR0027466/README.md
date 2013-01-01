@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop rustende bepalingen wordt verstaan onder: 
 
-*Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
+*Onze Minister*: Onze Minister van Veiligheid en Justitie;  
 
 *veiligheidsregio:* een openbaar lichaam als bedoeld in artikel 9;  
 
@@ -32,9 +32,11 @@ In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
 *GHOR:* de geneeskundige hulpverleningsorganisatie in de regio, belast met de coördinatie, aansturing en regie van de geneeskundige hulpverlening en met de advisering van andere overheden en organisaties op dat gebied;  
 
-*Ambulancevervoerder:* degene aan wie op grond van de [Wet ambulancevervoer](../../../../wet/wet/ambulancevervoer/BWBR0002757/README.md) een vergunning tot het verrichten van ambulancevervoer is verleend;  
+*Regionale Ambulancevoorziening:* de rechtspersoon, bedoeld in [artikel 4, eerste lid, van de Tijdelijke wet ambulancezorg](../../../../wet/tijdelijke/wet/ambulancezorg/BWBR0031557/README.md);  
 
-*Veiligheidsberaad:* de voorzitters van de veiligheidsregio’s gezamenlijk.    
+*Veiligheidsberaad:* de voorzitters van de veiligheidsregio’s gezamenlijk;  
+
+*korpschef:* de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md).    
 
 ### §  2  
 
@@ -58,7 +60,11 @@ a. het voorkomen, beperken en bestrijden van brand, het beperken van brandgevaar
 
 b. het beperken en bestrijden van gevaar voor mensen en dieren bij ongevallen anders dan bij brand.     
 2.  De gemeenteraad stelt in een brandbeveiligingsverordening regels over de in het eerste lid, onder a, bedoelde taak.   
-3.  Bij algemene maatregel van bestuur worden regels gesteld over het brandveilig gebruik van voor mensen toegankelijke ruimten, niet zijnde bouwwerken, en worden regels gesteld over de basishulpverlening in die ruimten.   
+3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het brandveilig gebruik van voor mensen toegankelijke plaatsen, voor zover daarin niet bij of krachtens enige andere wet is voorzien, en worden regels gesteld over de basishulpverlening op die plaatsen.   
+
+### Artikel  3a  
+
+De gemeenteraad stelt ten minste eenmaal in de vier jaar de doelen vast die de gemeente betreffende de brandveiligheid en de werkwijze en kwaliteit van de brandweerzorg nastreeft.  
 
 ### Artikel  4  
 
@@ -71,7 +77,7 @@ De burgemeester heeft het opperbevel in geval van een ramp of van ernstige vrees
 
 ### Artikel  6  
 
-De burgemeester kan de ambulancevervoerders in de regio waarvan zijn gemeente deel uitmaakt, aanwijzingen geven indien dat naar zijn oordeel noodzakelijk is uit een oogpunt van openbare orde.  
+De burgemeester kan de Regionale Ambulancevoorziening in de regio waarvan zijn gemeente deel uitmaakt, aanwijzingen geven indien dat naar zijn oordeel noodzakelijk is uit een oogpunt van openbare orde.  
 
 ### Artikel  7  
 
@@ -117,14 +123,14 @@ i. het inrichten en in stand houden van de informatievoorziening binnen de diens
 ### Artikel  11  
 
 1.  Het algemeen bestuur van de veiligheidsregio bestaat, in afwijking van [artikel 13, eerste lid, van de Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), uit de burgemeesters van de deelnemende gemeenten.   
-2.  De voorzitter van het bestuur is, in afwijking van [artikel 13, negende lid, van de Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), de burgemeester die ingevolge de [Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md) is benoemd als korpsbeheerder. De voorzitter kan geschorst en ontslagen worden met toepassing van [artikel 23 van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md).   
+2.  De voorzitter van het bestuur wordt, in afwijking van [artikel 13, negende lid, van de Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), bij koninklijk besluit, gehoord het algemeen bestuur, benoemd uit de burgemeesters van de gemeenten in de regio. De voorzitter kan bij koninklijk besluit worden geschorst en ontslagen. Ter zake de benoeming, de schorsing en het ontslag wordt de commissaris van de Koning om advies gevraagd. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de rechtspositie van de voorzitter van een veiligheidsregio.   
 3.  Het bestuur wijst een van zijn leden aan die de voorzitter bij afwezigheid vervangt.   
 4.  De voorzitter vertegenwoordigt de veiligheidsregio in en buiten rechte.   
 5.  Het bestuur van de veiligheidsregio beslist bij meerderheid van stemmen. Indien de stemmen staken, geeft de stem van de voorzitter de doorslag.   
 
 ### Artikel  12  
 
-1.  De hoofdofficier van justitie, bedoeld in [artikel 1, derde lid, van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md), en de voorzitter van het waterschap binnen welks grondgebied de veiligheidsregio is gelegen, worden uitgenodigd deel te nemen aan de vergaderingen van het bestuur van de veiligheidsregio. Indien het grondgebied van een veiligheidsregio in meer dan één waterschap is gelegen, bepalen de betrokken voorzitters van de waterschappen wie van hen deelneemt aan de vergaderingen.   
+1.  De hoofdofficier van justitie en de voorzitter van het waterschap binnen welks grondgebied de veiligheidsregio is gelegen, worden uitgenodigd deel te nemen aan de vergaderingen van het bestuur van de veiligheidsregio. Indien een arrondissement het grondgebied van meer dan één veiligheidsregio omvat, treedt in elke regio de hoofdofficier van justitie of een door hem daartoe aangewezen plaatsvervangend hoofdofficier van justitie of officier van justitie namens hem op. Indien het grondgebied van een veiligheidsregio in meer dan één waterschap is gelegen, bepalen de betrokken voorzitters van de waterschappen wie van hen deelneemt aan de vergaderingen.   
 2.  De voorzitter van de veiligheidsregio nodigt andere functionarissen wier aanwezigheid in verband met de te behandelen onderwerpen van belang is, uit deel te nemen aan de vergaderingen van het bestuur van de veiligheidsregio.   
 
 ### Artikel  13  
@@ -146,8 +152,9 @@ d. een oefenbeleidsplan;
 
 e. een beschrijving van de niet-wettelijke adviesfunctie, bedoeld in artikel 10, onder b;  
 
-f. de voor de brandweer geldende opkomsttijden en een beschrijving van de voorzieningen en maatregelen, noodzakelijk voor de brandweer om daaraan te voldoen.     
-3.  Het bestuur stemt het beleidsplan af met de beleidsplannen van de aangrenzende veiligheidsregio’s en van de betrokken waterschappen, en met het beleidsplan, bedoeld in [artikel 31 van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md), van het regionale politiekorps.   
+f. de voor de brandweer geldende opkomsttijden en een beschrijving van de aanwezigheid van brandweerposten in de gemeenten alsmede de overige voorzieningen en maatregelen, noodzakelijk voor de brandweer om daaraan te voldoen.     
+2a.  Voorafgaand aan de vaststelling van het beleidsplan overlegt de burgemeester van een gemeente in het gebied van de veiligheidsregio met de gemeenteraad over het ontwerpbeleidsplan.   
+3.  Het bestuur stemt het beleidsplan af met de beleidsplannen van de aangrenzende veiligheidsregio’s en van de betrokken waterschappen, en met het beleidsplan, bedoeld in [artikel 39 van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md), van de betrokken regionale eenheid van de politie.   
 
 ### Artikel  15  
 
@@ -160,7 +167,7 @@ b. een overzicht van de soorten branden, rampen en crises die zich in de veiligh
 
 c. een analyse waarin de weging en inschatting van de gevolgen van de soorten branden, rampen en crises zijn opgenomen.     
 3.  Het bestuur van de veiligheidsregio stelt het risicoprofiel vast na overleg met de raden van de deelnemende gemeenten, waarbij het bestuur de raden tevens verzoekt hun wensen kenbaar te maken omtrent het in het beleidsplan op te nemen beleid.   
-4.  Het bestuur van de veiligheidsregio nodigt voor de vaststelling van het risicoprofiel in ieder geval het regionale college, bedoeld in [artikel 22 van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md), de besturen van de betrokken waterschappen en door Onze andere Ministers daartoe aangewezen functionarissen uit hun zienswijze ter zake kenbaar te maken.   
+4.  Het bestuur van de veiligheidsregio nodigt voor de vaststelling van het risicoprofiel in ieder geval de door de korpschef daartoe aangewezen ambtenaren van politie, de hoofdofficier van justitie, bedoeld in artikel 12, eerste lid, de besturen van de betrokken waterschappen en door Onze andere Ministers daartoe aangewezen functionarissen uit hun zienswijze ter zake kenbaar te maken.   
 5.  Het bestuur van de veiligheidsregio nodigt ten minste eenmaal per jaar de bij mogelijke rampen en crises in de regio betrokken partijen uit voor een gezamenlijk overleg over de risico’s in de regio.   
 
 ### Artikel  16  
@@ -195,38 +202,33 @@ b. de organisatie van de rampenbestrijding, de crisisbeheersing en de geneeskund
 c. de gemeentelijke bevolkingszorg in het kader van rampenbestrijding en crisisbeheersing.     
 2.  Bij of krachtens algemene maatregel van bestuur kunnen voor het personeel van de brandweer regels worden gesteld over: 
 
-a. de functies en rangen;  
+a. de functies en rangen en tekens van bijzondere verdiensten in het operationele brandweerwerk;  
 
-b. de eisen van aanstelling en bevordering;  
+b. de eisen met betrekking tot de keuring en de controle op lichamelijke en geestelijke geschiktheid;  
 
-c. de eisen met betrekking tot de keuring en de controle op lichamelijke en geestelijke geschiktheid;  
-
-d. de kleding en de uitrusting.     
-3.  Bij of krachtens algemene maatregel van bestuur worden voor het personeel van de brandweer regels gesteld over opleiden, examineren, bijscholen en oefenen. Met in ieder geval de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel wordt over de bij of krachtens deze maatregel te geven regels overleg gepleegd.   
-4.  Bij algemene maatregel van bestuur wordt vastgesteld welke brandweeropleidingen worden afgesloten met een rijksexamen. Onze Minister geeft het diploma af.   
+c. de kleding en de uitrusting.     
+3.  Bij of krachtens algemene maatregel van bestuur worden voor het personeel van de brandweer regels gesteld over de bekwaamheid. Met in ieder geval de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel wordt over de bij of krachtens deze maatregel te geven regels overleg gepleegd.   
+4.  Bij algemene maatregel van bestuur wordt vastgesteld voor welke functies de opleiding wordt afgesloten met een examen. Het algemeen bestuur van het Instituut Fysieke Veiligheid geeft het diploma af.   
 5.  Bij algemene maatregel van bestuur worden regels gesteld over de wijze waarop met in ieder geval de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over het ontwerp van de maatregel, bedoeld in het tweede lid.   
 
 ### Artikel  19  
 
-1.  Het bestuur van de veiligheidsregio, het regionale college, bedoeld in [artikel 22 van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md), en Onze Minister in zijn hoedanigheid van beheerder van het Korps landelijke politiediensten sluiten een convenant met het oog op de samenwerking bij branden, rampen en crises. Een convenant dat betrekking heeft op de door de Koninklijke marechaussee uitgeoefende politietaak, bedoeld in [artikel 6, eerste lid, onder c, van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md), wordt gesloten met Onze Minister van Defensie.   
+1.  Het bestuur van de veiligheidsregio, de korpschef en de hoofdofficier van justitie, bedoeld in artikel 12, eerste lid, sluiten een convenant met het oog op de samenwerking bij branden, rampen en crises. Een convenant dat betrekking heeft op de door de Koninklijke marechaussee uitgeoefende politietaak, bedoeld in [artikel 4, eerste lid, onder c, van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md), wordt gesloten met Onze Minister van Defensie.   
 2.  Het convenant heeft in ieder geval betrekking op de meldkamerfunctie, de informatievoorziening en informatie-uitwisseling, het multidisciplinair oefenen en de operationele prestaties van de politie bij rampen en crises.   
 
 ### Artikel  20  
 
-1.  Bij ministeriële regeling kunnen regels worden gesteld over de samenwerking tussen veiligheidsregio’s en tussen veiligheidsregio’s en de regionale politiekorpsen, het Korps landelijke politiediensten en de Koninklijke marechaussee indien het betreft de uitoefening van de politietaak, bedoeld in [artikel 6, eerste lid, onder c, van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md).   
-2.  De regeling, bedoeld in het eerste lid, wordt in overeenstemming met Onze Minister van Defensie gegeven indien zij voorschriften bevat die mede de Koninklijke marechaussee betreffen, en door Onze Minister en Onze Minister van Justitie gezamenlijk indien zij voorschriften bevat ten behoeve van de strafrechtelijke handhaving van de rechtsorde dan wel de vervulling van taken ten dienste van de justitie.   
+1.  Bij ministeriële regeling kunnen regels worden gesteld over de samenwerking tussen veiligheidsregio’s en tussen veiligheidsregio’s en de politie en de Koninklijke marechaussee indien het betreft de uitoefening van de politietaak, bedoeld in [artikel 4, eerste lid, onder c, van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md).   
+2.  De regeling, bedoeld in het eerste lid, wordt in overeenstemming met Onze Minister van Defensie gegeven indien zij voorschriften bevat die mede de Koninklijke marechaussee betreffen.   
 
 ### Artikel  21  
 
 1.  Bij ministeriële regeling kunnen regels worden gesteld over de informatie- en communicatievoorzieningen van en het gebruik daarvan door de veiligheidsregio, alsmede over de informatiebeveiliging.   
-2.  Bij ministeriële regeling kunnen aan de veiligheidsrisico’s frequenties worden toegewezen voor de overdracht van gegevens door middel van daartoe aangewezen informatie- en communicatievoorzieningen.   
+2.  Bij ministeriële regeling kunnen aan de veiligheidsregio’s frequenties worden toegewezen voor de overdracht van gegevens door middel van daartoe aangewezen informatie- en communicatievoorzieningen.   
 
 ### Artikel  22  
 
-1.  De besturen van de veiligheidsregio’s dragen gemeenschappelijk zorg voor in ieder geval de inrichting van een uniforme informatie- en communicatievoorziening, daaronder begrepen het vaststellen van de informatiebehoefte en het vaststellen van kaders, standaarden en kwaliteitseisen met het oog op de informatie-uitwisseling binnen en tussen de in artikel 10, onder i, bedoelde organisaties, en zo veel mogelijk voor het personeelsbeleid, de aanschaf van materieel en de ontwikkeling van handboeken en leidraden.   
-2.  De besturen kunnen ten behoeve van de in het eerste lid bedoelde taken een gemeenschappelijke regeling treffen waarbij een openbaar lichaam wordt ingesteld. De [Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) is van overeenkomstige toepassing.   
-3.  Aan de gemeenschappelijke regeling, bedoeld in het tweede lid, kunnen tevens deelnemen het Rijk, vertegenwoordigd door Onze Minister wie het aangaat ten behoeve van de onder hem ressorterende diensten, of andere rechtspersonen voor zover hun deelname van belang is voor de samenwerking.   
-4.  Het Veiligheidsberaad bevordert de uitvoering van het eerste lid.   
+De besturen van de veiligheidsregio’s dragen gemeenschappelijk zorg voor de inrichting van een uniforme informatie- en communicatievoorziening, daaronder begrepen het vaststellen van de informatiebehoefte en het vaststellen van kaders, standaarden en kwaliteitseisen met het oog op de informatie-uitwisseling binnen en tussen de in artikel 10, onder i, bedoelde organisaties.  
 
 ### Artikel  23  
 
@@ -255,41 +257,8 @@ c. het waarschuwen van de bevolking;
 d. het verkennen van gevaarlijke stoffen en het verrichten van ontsmetting;  
 
 e. het adviseren van andere overheden en organisaties op het gebied van de brandpreventie, brandbestrijding en het voorkomen, beperken en bestrijden van ongevallen met gevaarlijke stoffen.     
-2.  De regionale brandweer voert tevens taken uit bij rampen en crises in het kader van de rampenbestrijding en de crisisbeheersing.   
-3.  De regionale brandweer staat onder leiding van een commandant.   
-
-### Artikel  26  
-
-1.  Elk college van burgemeester en wethouders kan bij het treffen van een regeling als bedoeld in artikel 9 besluiten tot het hebben van een gemeentelijke brandweer, die in de eigen gemeente, in afwijking van artikel 25, eerste lid, aanhef en onder a en b, de volgende taken uitvoert: 
-
-a. het voorkomen, beperken en bestrijden van brand;  
-
-b. het beperken en bestrijden van gevaar voor mensen en dieren bij ongevallen anders dan bij brand.     
-2.  Indien een college van burgemeesters en wethouders besluit tot het hebben van een gemeentelijke brandweer, hanteert het daarvoor een kwaliteitszorgsysteem.   
-3.  Indien alle gemeenten in een regio besluiten een gemeentelijke brandweer te hebben, blijft artikel 25, eerste lid, aanhef en onder a en b, buiten toepassing.   
-4.  Indien een college besluit de gemeentelijke brandweer op te heffen, voert de regionale brandweer ook in die gemeente de taken, genoemd in het eerste lid, onder a en b, uit.   
-5.  Na een besluit als bedoeld in het vierde lid wijzigen de deelnemers de regeling, bedoeld in artikel 9, en treffen het college en het bestuur van de veiligheidsregio overigens de nodige voorzieningen.   
-
-### Artikel  27  
-
-1.  Het college van burgemeester en wethouders benoemt geen personeel van de gemeentelijke brandweer in functies die door het bestuur van de veiligheidsregio, gelet op zijn verantwoordelijkheid, zijn aangemerkt als functies die bij uitsluiting vervuld kunnen worden door personeel in dienst van de veiligheidsregio.   
-2.  Bij algemene maatregel van bestuur kunnen functies worden aangemerkt die bij uitsluiting vervuld kunnen worden door brandweerpersoneel in dienst van de veiligheidsregio.   
-3.  De regelingen, bedoeld in artikel 21, zijn voor de gemeentelijke brandweer van overeenkomstige toepassing op de colleges van burgemeester en wethouders, bedoeld in artikel 26, eerste lid.   
-
-### Artikel  28  
-
-1.  De burgemeester van een gemeente met een gemeentelijke brandweer richt, indien hij in geval van een brand ondersteuning dan wel bijstand behoeft, een verzoek daartoe aan de voorzitter van de veiligheidsregio.   
-2.  Tenzij dringende redenen zich daartegen verzetten, voldoet de voorzitter aan het verzoek, of richt hij zich ter zake tot de burgemeester van een andere gemeente in zijn regio, dan wel zo nodig tot de voorzitter van een aangrenzende veiligheidsregio, die de nodige voorzieningen treffen, tenzij dringende redenen zich daartegen verzetten.   
-3.  De regeling, bedoeld in artikel 9, bevat bepalingen omtrent het verlenen van ondersteuning, met inbegrip van de bekostiging daarvan.   
-4.  In de kosten die voor een gemeente voortvloeien uit het verlenen van bijstand als bedoeld in het tweede lid, kan Onze Minister een bijdrage verlenen.   
-5.  In afwijking van het eerste lid kan de burgemeester die ondersteuning behoeft, een verzoek daartoe rechtstreeks richten tot de burgemeester van een binnen de regio gelegen aangrenzende gemeente met een gemeentelijke brandweer. De burgemeester stelt van zijn verzoek de voorzitter van de veiligheidsregio in kennis.   
-6.  In afwijking van het eerste lid kan de burgemeester die bijstand behoeft, een verzoek daartoe rechtstreeks richten tot de burgemeester van een buiten de regio gelegen aangrenzende gemeente met een gemeentelijke brandweer. De burgemeesters stellen van dit verzoek de voorzitter van de eigen veiligheidsregio in kennis.   
-
-### Artikel  29  
-
-1.  Onze Minister kan het college van burgemeester en wethouders van een gemeente met een gemeentelijke brandweer een aanwijzing geven indien de taakuitvoering van die brandweer tekortschiet.   
-2.  Tot het geven van een aanwijzing gaat Onze Minister niet over dan nadat hij over de voorgenomen aanwijzing het college heeft gehoord.   
-3.  Indien de taakuitvoering van de gemeentelijke brandweer blijvend tekortschiet, kan Onze Minister het college opdragen te besluiten de gemeentelijke brandweer op te heffen. Artikel 26, vierde en vijfde lid, zijn alsdan van overeenkomstige toepassing.   
+2.  De brandweer voert tevens taken uit bij rampen en crises in het kader van de rampenbestrijding en de crisisbeheersing.   
+3.  De brandweer staat onder leiding van een commandant.   
 
 ### Artikel  30  
 
@@ -317,9 +286,9 @@ b. het beperken en bestrijden van gevaar voor mensen en dieren bij ongevallen an
 
 ### Artikel  33  
 
-1.  Instellingen als bedoeld in de [Wet toelating zorginstellingen](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), zorgaanbieders als bedoeld in de [Wet op de beroepen in de individuele gezondheidszorg](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), ambulancevervoerders en gezondheidsdiensten in die regio, die een taak hebben binnen de geneeskundige hulpverlening, treffen de nodige maatregelen met het oog op hun taak en de voorbereiding daarop.   
-2.  Het bestuur van de veiligheidsregio en de in die regio werkzame instellingen, zorgaanbieders, ambulancevervoerders en diensten, bedoeld in het eerste lid, maken schriftelijke afspraken over de inzet van deze instellingen, zorgaanbieders, ambulancevervoerders en diensten bij de uitvoering van hun taak en op de voorbereiding daarop.   
-3.  De instellingen, zorgaanbieders, ambulancevervoerders en diensten, bedoeld in het eerste lid, verstrekken het bestuur van de veiligheidsregio alle informatie over hun inzet en de voorbereiding daarop door middel van het jaardocument maatschappelijke verantwoording als bedoeld in [artikel 16 van de Wet toelating zorginstellingen](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md).   
+1.  Instellingen als bedoeld in de [Wet toelating zorginstellingen](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), zorgaanbieders als bedoeld in de [Wet op de beroepen in de individuele gezondheidszorg](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), Regionale Ambulancevoorzieningen en gezondheidsdiensten in die regio, die een taak hebben binnen de geneeskundige hulpverlening, treffen de nodige maatregelen met het oog op hun taak en de voorbereiding daarop.   
+2.  Het bestuur van de veiligheidsregio, de Regionale Ambulancevoorziening en de in die regio werkzame instellingen, zorgaanbieders en diensten, bedoeld in het eerste lid, maken schriftelijke afspraken over de inzet van deze instellingen, zorgaanbieders en diensten bij de uitvoering van hun taak en op de voorbereiding daarop.   
+3.  De instellingen, zorgaanbieders, Regionale Ambulancevoorzieningen en diensten, bedoeld in het eerste lid, verstrekken het bestuur van de veiligheidsregio alle informatie over hun inzet en de voorbereiding daarop door middel van het jaardocument maatschappelijke verantwoording als bedoeld in [artikel 16 van de Wet toelating zorginstellingen](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md).   
 4.  Bij algemene maatregel van bestuur worden eisen gesteld aan de inhoud van afspraken, bedoeld in het tweede lid.   
 
 ### Artikel  34  
@@ -334,11 +303,12 @@ b. het beperken en bestrijden van gevaar voor mensen en dieren bij ongevallen an
 
 ### Artikel  35  
 
-1.  Het bestuur van de veiligheidsregio heeft de beschikking over een gemeenschappelijke meldkamer die is ingesteld en in stand wordt gehouden door het bestuur of door het bestuur van een andere veiligheidsregio ten behoeve van de brandweertaak, de geneeskundige hulpverlening, het ambulancevervoer en de politietaak, met dien verstande dat het regionale college, bedoeld in [artikel 22 van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md), zorg draagt voor het in stand houden van de meldkamer politie, als onderdeel van de meldkamer.   
-2.  De meldkamer is belast met het ontvangen, registreren en beoordelen van alle acute hulpvragen ten behoeve van de brandweer, de geneeskundige hulpverlening, het ambulancevervoer en de politie, het bieden van een adequaat hulpaanbod, en het begeleiden en coördineren van de hulpdiensten.   
-3.  De meldkamer staat onder leiding van een directeur. Het bestuur van de veiligheidsregio benoemt de directeur na overleg met het regionale college van politie. De directeur rapporteert periodiek aan het bestuur van de veiligheidsregio over de wijze waarop de meldkamer functioneert, en heeft instemmingsrecht bij het aanstellen en aangesteld houden van personeel van de meldkamer.   
-4.  Het convenant, bedoeld in artikel 19, bevat met betrekking tot de meldkamerfunctie in ieder geval afspraken over de locatie, het beleid en beheer, de financiën, de prestaties, de ondersteunende systemen en de samenwerking van politie met brandweer, geneeskundige hulpverlening en ambulancevervoer in de meldkamer.   
-5.  Indien besturen van verschillende regio’s besluiten gezamenlijk gebruik te maken van één meldkamer, worden hierover schriftelijke afspraken gemaakt tussen de betrokken regionale colleges van politie, besturen van veiligheidsregio’s en ambulancevervoerders.   
+1.  Het bestuur van de veiligheidsregio heeft de beschikking over een gemeenschappelijke meldkamer die is ingesteld en in stand wordt gehouden door het bestuur of door het bestuur van een andere veiligheidsregio ten behoeve van de brandweertaak, de geneeskundige hulpverlening, de ambulancezorg en de politietaak, met dien verstande dat de Regionale Ambulancevoorziening zorg draagt voor het in stand houden van de meldkamer voor de ambulancezorg, als onderdeel van de meldkamer, en dat de korpschef zorg draagt voor het in stand houden van de meldkamer politie, als onderdeel van de meldkamer.   
+2.  De meldkamer is belast met het ontvangen, registreren en beoordelen van alle acute hulpvragen ten behoeve van de brandweer, de geneeskundige hulpverlening, de daadwerkelijke ambulancezorg en de politie, het bieden van een adequaat hulpaanbod, en het begeleiden en coördineren van de hulpdiensten.   
+3.  De meldkamer staat onder leiding van een directeur. Het bestuur van de veiligheidsregio benoemt de directeur na overleg met het bestuur van de Regionale Ambulancevoorziening en de door de korpschef daartoe aangewezen ambtenaar van politie. De directeur rapporteert periodiek aan het bestuur van de veiligheidsregio over de wijze waarop uitvoering wordt gegeven aan de eisen, bedoeld in het vierde lid, en heeft instemmingsrecht bij het aanstellen en aangesteld houden van personeel van de meldkamer.   
+4.  Het bestuur van de veiligheidsregio kan eisen vaststellen waaraan de Regionale Ambulancevoorziening met betrekking tot de meldkamer voor de daadwerkelijke ambulancezorg moet voldoen, en deze ter kennis van Onze Minister van Volksgezondheid, Welzijn en Sport brengen. Die eisen kunnen betrekking hebben op de locatie, het beleid en beheer, de financiën, de prestaties, de ondersteunende systemen, de voorbereiding op en het daadwerkelijk optreden bij ongevallen, rampen en crises en de samenwerking van ambulancezorg met brandweer, geneeskundige hulpverlening en politie in de meldkamer.   
+5.  Het convenant, bedoeld in artikel 19, bevat met betrekking tot de meldkamerfunctie in ieder geval afspraken over de locatie, het beleid en beheer, de financiën, de prestaties, de ondersteunende systemen en de samenwerking van politie met brandweer, geneeskundige hulpverlening en ambulancevervoer in de meldkamer.   
+6.  Indien besturen van verschillende regio’s besluiten gezamenlijk gebruik te maken van één meldkamer, worden hierover schriftelijke afspraken gemaakt tussen de korpschef, besturen van veiligheidsregio’s en ambulancevervoerders.   
 
 ### §  7  
 
@@ -373,10 +343,10 @@ a. de artikelen 4 tot en met 7 van deze wet;
 
 b. de [artikelen 172 tot en met 177 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md), met uitzondering van [artikel 176, derde tot en met zesde lid](../../../../wet/gemeentewet/BWBR0005416/README.md);  
 
-c. de [artikelen 12](../../../../wet/politiewet/1993/BWBR0006299/README.md), [15, eerste lid](../../../../wet/politiewet/1993/BWBR0006299/README.md), [54, eerste lid](../../../../wet/politiewet/1993/BWBR0006299/README.md), [57, eerste lid](../../../../wet/politiewet/1993/BWBR0006299/README.md) en [60b, eerste lid, van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+c. de [artikelen 11](../../../../wet/politiewet/2012/BWBR0031788/README.md), [14, eerste lid](../../../../wet/politiewet/2012/BWBR0031788/README.md), [56, eerste en vierde lid](../../../../wet/politiewet/2012/BWBR0031788/README.md), en [62 van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
 d. de [artikelen 5 tot en met 9 van de Wet openbare manifestaties](../../../../wet/wet/openbare/manifestaties/BWBR0004318/README.md).     
-2.  De voorzitter van de veiligheidsregio roept een regionaal beleidsteam bijeen, dat bestaat uit de burgemeesters van de gemeenten die betrokken zijn of dreigen te worden bij de ramp of crisis, alsmede uit de hoofdofficier van justitie. De voorzitter van elk direct betrokken waterschap wordt uitgenodigd deel uit te maken van het beleidsteam.   
+2.  De voorzitter van de veiligheidsregio roept een regionaal beleidsteam bijeen, dat bestaat uit de burgemeesters van de gemeenten die betrokken zijn of dreigen te worden bij de ramp of crisis, alsmede uit de hoofdofficier van justitie, bedoeld in artikel 12, eerste lid. De voorzitter van elk direct betrokken waterschap wordt uitgenodigd deel uit te maken van het beleidsteam.   
 3.  De voorzitter van de veiligheidsregio wijst een regionaal operationeel leider aan, die is belast met de leiding van een regionaal operationeel team, dat bestaat uit leidinggevenden van de betrokken diensten. De regionaal operationeel leider neemt deel aan de vergaderingen van het regionaal beleidsteam. De voorzitter van de veiligheidsregio nodigt voorts de functionarissen wier aanwezigheid in verband met de omstandigheden van belang is, uit deel te nemen aan de vergaderingen.   
 4.  Tenzij de vereiste spoed zich daartegen verzet, neemt de voorzitter van de veiligheidsregio geen besluiten met toepassing van de in het eerste lid genoemde artikelen dan nadat hij het regionaal beleidsteam daarover heeft geraadpleegd. Een burgemeester kan in het regionaal beleidsteam schriftelijk bezwaar doen aantekenen, indien hij van mening is dat een voorgenomen besluit het belang van zijn gemeente onevenredig schaadt.   
 5.  De voorzitter van de veiligheidsregio geeft de regionaal operationeel leider de bevelen die hij nodig acht in verband met de uitvoering van de door hem genomen besluiten.   
@@ -421,7 +391,7 @@ De voorzitters van de veiligheidsregio’s en de commissarissen van de Koning en
 
 ### Artikel  46  
 
-1.  Het bestuur van de veiligheidsregio draagt er zorg voor dat Onze Minister, de commissaris van de Koning en de hoofdofficier van Justitie informatie wordt verschaft over de rampen en de crises die de regio kunnen treffen, en over de maatregelen die zijn getroffen ter voorkoming en bestrijding of beheersing hiervan.   
+1.  Het bestuur van de veiligheidsregio draagt er zorg voor dat Onze Minister, de commissaris van de Koning en de hoofdofficier van Justitie, bedoeld in artikel 12, eerste lid, informatie wordt verschaft over de rampen en de crises die de regio kunnen treffen, en over de maatregelen die zijn getroffen ter voorkoming en bestrijding of beheersing hiervan.   
 2.  Het bestuur van de veiligheidsregio draagt er zorg voor dat de bevolking informatie wordt verschaft over de rampen en de crises die de regio kunnen treffen, over de maatregelen die zijn getroffen ter voorkoming en bestrijding of beheersing hiervan en over de daarbij te volgen gedragslijn.   
 3.  Het bestuur van de veiligheidsregio draagt er zorg voor dat de bij de rampenbestrijding en de crisisbeheersing in de regio betrokken personen informatie wordt verschaft over de rampen en de crises die de regio kunnen treffen, de risico’s die hun inzet kan hebben voor hun gezondheid en de voorzorgsmaatregelen die in verband daarmee zijn of zullen worden getroffen.   
 4.  Het bestuur stemt zijn informatievoorziening, bedoeld in het eerste, tweede en derde lid, af met de informatievoorziening door of onder verantwoordelijkheid van Onze bij rampen en crises betrokken Ministers.   
@@ -470,7 +440,7 @@ b. het voorkomen van sabotage.
 1.  Behoeft de voorzitter van een veiligheidsregio in geval van een brand, ramp of crisis of van ernstige vrees voor het ontstaan daarvan bijstand, dan richt hij een verzoek daartoe aan Onze Minister. Hij stelt de commissaris van de Koning van het verzoek in kennis.   
 2.  Onze Minister voldoet aan het verzoek, tenzij dringende redenen zich daartegen verzetten.   
 3.  Onze Minister richt zich met een verzoek om bijstand tot de voorzitter van een andere veiligheidsregio, tot de commissaris van de Koning of zo nodig tot Onze betrokken Minister dan wel indien militaire bijstand gewenst is tot Onze Minister van Defensie, die de nodige voorzieningen treffen, tenzij dringende redenen zich daartegen verzetten.   
-4.  Onze Minister kan de ambulancevervoerders een aanwijzing geven over de inzet van ambulance-auto’s.   
+4.  Onze Minister kan de Regionale Ambulancevoorziening een aanwijzing geven over de inzet van ambulances.   
 5.  In afwijking van het eerste lid kan de voorzitter van een veiligheidsregio een verzoek als in dat lid bedoeld rechtstreeks richten tot de voorzitter van een aangrenzende regio, mits de crisisplannen van beide regio’s afspraken daaromtrent omvatten en er sprake is van spoed. De voorzitter stelt van zijn verzoek Onze Minister en de commissaris van de Koning in kennis.   
 
 ### §  12  
@@ -506,7 +476,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 2.  In de kosten die voor een gemeente voortvloeien uit de daadwerkelijke bestrijding van een ramp en uit de gevolgen van die bestrijding, kan Onze Minister een bijdrage verlenen.   
 3.  In de kosten die voor een veiligheidsregio voortvloeien uit het verlenen van bijstand, bedoeld in artikel 51, derde lid, kan Onze Minister een bijdrage verlenen.   
 4.  In de kosten die voortvloeien uit het verlenen van bijstand als bedoeld in artikel 3 van de op 14 november 1984 te Den Haag tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake wederzijdse bijstandsverlening bij het bestrijden van rampen en ongevallen (Trb. 1984, 155) en van de op 7 juni 1988 te Bonn tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake wederzijdse bijstandsverlening bij het bestrijden van rampen, zware ongevallen daaronder begrepen (Trb. 1988, 95), kan Onze Minister aan de bij de bestrijding betrokken gemeenten, veiligheidsregio’s, provincies, organisaties en diensten een bijdrage verlenen.   
-5.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de uitvoering van het eerste tot en met vijfde lid.   
+5.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de uitvoering van het eerste tot en met vierde lid.   
 
 ### Artikel  56  
 
@@ -529,22 +499,20 @@ b. eenmaal in de vijf jaar een visitatie door een visitatiecommissie wordt verri
 
 a. het toetsen van de wijze waarop een orgaan van een veiligheidsregio, een gemeente of een ander openbaar lichaam uitvoering geeft aan de taken met betrekking tot de brandweerzorg, de rampenbestrijding of crisisbeheersing;  
 
-b. het, in overeenstemming met de inspecties die werkzaam zijn onder gezag van Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van Volksgezondheid, Welzijn en Sport, van Verkeer en Waterstaat en van Sociale Zaken en Werkgelegenheid, periodiek toetsen van de voorbereiding op de rampenbestrijding en de crisisbeheersing door de bestuursorganen, bedoeld onder a;  
+b. het, in overeenstemming met de inspecties die werkzaam zijn onder gezag van Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties, van Volksgezondheid, Welzijn en Sport, van Infrastructuur en Milieu en van Sociale Zaken en Werkgelegenheid, periodiek toetsen van de voorbereiding op de rampenbestrijding en de crisisbeheersing door de bestuursorganen, bedoeld onder a;  
 
 c. het verrichten van onderzoek naar aanleiding van een brand, ramp of crisis, tenzij de Onderzoeksraad voor veiligheid, bedoeld in [artikel 2 van de Rijkswet Onderzoeksraad voor veiligheid](../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md), een onderzoek instelt;  
 
-d. de werkzaamheden die in het kader van [artikel 53a, eerste lid, van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md) worden uitgevoerd;  
+d. de werkzaamheden die in het kader van [artikel 65, eerste lid, van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md) worden uitgevoerd;  
 
 e. het toezicht op de kwaliteit van de opleidingen, bedoeld in [artikel 32, eerste lid, van de Wet op het LSOP en het politieonderwijs](../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md).     
-2.  De inspectie is onder gezag van Onze Minister van Justitie belast met de werkzaamheden die in het kader van [artikel 53a, vierde lid, van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md) worden uitgevoerd.   
-3.  De inspectie is onder gezag van Onze Minister en Onze Minister van Justitie gezamenlijk belast met het toezicht op de kwaliteit van de opleidingen, bedoeld in [artikel 32, tweede lid, van de Wet op het LSOP en het politieonderwijs](../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md).   
-4.  Het hoofd van de inspectie wordt aangewezen door Onze Minister na overleg met Onze Minister van Justitie. De overige ambtenaren van de inspectie worden aangewezen door Onze Minister.   
-5.  De [artikelen 5:12 tot en met 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing op de ambtenaren van de inspectie.   
+2.  Onze Minister wijst het hoofd en de overige ambtenaren van de inspectie aan.   
+3.  De [artikelen 5:12 tot en met 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing op de ambtenaren van de inspectie.   
 
 ### Artikel  58  
 
 1.  De werkzaamheden die in het kader van artikel 57, eerste lid, onderdelen a tot en met c, worden uitgevoerd, worden jaarlijks door Onze Minister vastgesteld, gehoord de commissarissen van de Koning.   
-2.  De inspectie rapporteert, gevraagd of ongevraagd, rechtstreeks aan Onze Minister en, wat betreft de taken, bedoeld in artikel 57, tweede en derde lid, tevens aan Onze Minister van Justitie.   
+2.  De inspectie rapporteert, gevraagd en ongevraagd, rechtstreeks aan Onze Minister.   
 3.  De inspectie zendt haar rapportages tevens aan de commissarissen van de Koning.   
 4.  Onze Minister brengt in een multidisciplinaire rapportage aan de Staten-Generaal verslag uit van de bevindingen van de inspectie bij de toetsing, bedoeld in artikel 57, eerste lid, onder b.   
 5.  Onze Minister zendt, onverminderd het vierde lid, de Staten-Generaal jaarlijks een door de inspectie opgesteld verslag van de werkzaamheden die in het kader van artikel 57 zijn uitgevoerd.   
@@ -575,8 +543,8 @@ b. het bij of krachtens artikel 48 bepaalde ten aanzien van de krachtens artikel
 
 ### Artikel  62  
 
-1.  De burgemeester dan wel de voorzitter van de veiligheidsregio, de commissaris van de Koning, de brandweercommandant en het door hem aangewezen ter plaatse dienstdoende personeel van de brandweer, de directeur publieke gezondheid en het door hem aangewezen ter plaatse dienstdoende personeel van de GHOR alsmede de door Onze Minister aangewezen ambtenaren, bedoeld in artikel 57, tweede en derde lid, zijn bevoegd elke plaats te betreden, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich de toegang met behulp van de sterke arm. Zij kunnen zich bij het binnentreden doen vergezellen van door hen aangewezen personen.   
-2.  De burgemeester dan wel de voorzitter van de veiligheidsregio, de brandweercommandant en het door hem aangewezen ter plaatse dienstdoende personeel van de brandweer, alsmede de door Onze Minister aangewezen ambtenaren, bedoeld in artikel 57, tweede en derde lid, zijn bevoegd alle benodigde uitrustingsstukken en hulpmiddelen op de plaatsen, bedoeld in het eerste lid, mee te nemen en daarvan op zodanige wijze gebruik te maken als zij voor een goede vervulling van hun taak noodzakelijk achten.   
+1.  De burgemeester dan wel de voorzitter van de veiligheidsregio, de commissaris van de Koning, de brandweercommandant en het door hem aangewezen ter plaatse dienstdoende personeel van de brandweer, de directeur publieke gezondheid en het door hem aangewezen ter plaatse dienstdoende personeel van de GHOR alsmede de door Onze Minister aangewezen ambtenaren, bedoeld in artikel 57, tweede lid, zijn bevoegd elke plaats te betreden, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich de toegang met behulp van de sterke arm. Zij kunnen zich bij het binnentreden doen vergezellen van door hen aangewezen personen.   
+2.  De burgemeester dan wel de voorzitter van de veiligheidsregio, de brandweercommandant en het door hem aangewezen ter plaatse dienstdoende personeel van de brandweer, alsmede de door Onze Minister aangewezen ambtenaren, bedoeld in artikel 57, tweede lid, zijn bevoegd alle benodigde uitrustingsstukken en hulpmiddelen op de plaatsen, bedoeld in het eerste lid, mee te nemen en daarvan op zodanige wijze gebruik te maken als zij voor een goede vervulling van hun taak noodzakelijk achten.   
 
 ### §  16  
 
@@ -589,7 +557,7 @@ Het bestuur van de veiligheidsregio is bevoegd tot oplegging van een last onder 
 ### Artikel  64  
 
 1.  Overtreding van de regels, gesteld krachtens artikel 3, tweede en derde lid, wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de derde categorie.   
-2.  De raad van een gemeente kan bij verordening bepalen dat een bestuurlijke boete kan worden opgelegd voor overtreding van de regels, gesteld krachtens artikel 3, tweede en derde lid. De boete is niet hoger dan het bedrag, genoemd in de [Arbeidsomstandighedenwet artikel 34, vierde lid, onder 1°](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).   
+2.  De raad van een gemeente kan bij verordening bepalen dat een bestuurlijke boete kan worden opgelegd voor overtreding van de regels, gesteld krachtens artikel 3, tweede en derde lid. De boete is niet hoger dan de geldboete, bedoeld in het eerste lid.   
 3.  Overtreding van het bij of krachtens artikel 30 bepaalde wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de derde categorie.   
 4.  Overtreding van het bij of krachtens artikel 31, tweede, vijfde en zesde lid bepaalde wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de derde categorie.   
 5.  In geval van overtreding van artikel 31, tweede lid, kan als bijkomende straf worden opgelegd gehele of gedeeltelijke stillegging van de inrichting voor een tijd van ten hoogste een jaar.   
@@ -608,126 +576,106 @@ Het bestuur van de veiligheidsregio is bevoegd tot oplegging van een last onder 
 
 ### Artikel  66  
 
-1.  Er is een Nederlands instituut fysieke veiligheid. Het instituut heeft rechtspersoonlijkheid.   
-2.  Het instituut heeft de volgende taken op het gebied van de brandweerzorg, de rampenbestrijding, de crisisbeheersing en de geneeskundige hulpverlening: 
-
-a. het ontwikkelen van lesstof, oefenstof en leerstof voor, en het verzorgen van officiersopleidingen alsmede het verzorgen van andere door Onze Minister aan te wijzen opleidingen die met een rijksexamen als bedoeld in artikel 18, vierde lid, worden afgesloten en het ontwikkelen van lesstof, oefenstof en leerstof hiervoor;  
-
-b. het ontwikkelen en in stand houden van expertise door middel van het verzamelen en beheren van relevante kennis en zo nodig door het verrichten van toegepast wetenschappelijk onderzoek;  
-
-c. het ter beschikking stellen van de verzamelde informatie en expertise aan organisaties die werkzaam zijn op het gebied van de brandweerzorg, de rampenbestrijding, de crisisbeheersing en de geneeskundige hulpverlening;  
-
-d. het verwerven, beheren en aan de veiligheidsregio’s en aan de gemeenten met een gemeentelijke brandweer zo nodig ter beschikking stellen van materieel, uitrusting en telecommunicatievoorzieningen.     
-3.  Het instituut kan op het gebied van de brandweerzorg, de rampenbestrijding, de crisisbeheersing en de geneeskundige hulpverlening andere werkzaamheden verrichten dan die welke uit de in het tweede lid genoemde taken voortvloeien, voor zover het betreft: 
-
-a. het ontwikkelen van lesstof, oefenstof en leerstof voor, en het verzorgen van andere dan de in het tweede lid, onder a, bedoelde opleidingen;  
-
-b. het werven en selecteren van kandidaten voor opleidingen als bedoeld in onderdeel a en het tweede lid, onder a;  
-
-c. het organiseren van oefeningen;  
-
-d. het verrichten van andere activiteiten die de deskundigheid van personen op de in de aanhef genoemde gebieden of het functioneren van de organisaties waarvoor zij werkzaam zijn, bevorderen;  
-
-e. het verrichten van onderzoek voor en adviseren van derden teneinde direct of indirect een bijdrage te leveren aan de fysieke veiligheid.     
-4.  Voor de in het derde lid genoemde werkzaamheden wordt een vergoeding van ten minste de integrale kosten berekend en de werkzaamheden mogen niet leiden tot concurrentievervalsing ten opzichte van private aanbieders van vergelijkbare diensten.   
-5.  De inkomsten van het instituut bestaan uit: 
-
-a. de kosten die het instituut bij de uitvoering van de in het tweede lid en in artikel 66a bedoelde taken en de in het derde lid bedoelde werkzaamheden bij derden in rekening brengt,  
-
-b. de bijdragen, bedoeld in artikel 70, eerste lid, en  
-
-c. andere baten.     
-6.  Het instituut trekt geen gelden aan die dagelijks of op termijn opvorderbaar zijn. In afwijking van de eerste volzin is het het instituut toegestaan ter overbrugging van tijdelijke kastekorten bij een bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tijdelijke kredieten in rekening-courant op te nemen.   
-7.  Het instituut houdt een zodanige administratie bij dat: 
-
-a. de registratie van lasten en baten van de taken, bedoeld in het tweede lid en in artikel 66a, en van de werkzaamheden, bedoeld in het derde lid, gescheiden zijn;  
-
-b. alle lasten en baten, op grond van consequent toegepaste en objectief te rechtvaardigen beginselen inzake kostprijsadministratie, correct worden toegerekend;  
-
-c. de beginselen inzake kostprijsadministratie volgens welke de administratie wordt gevoerd, duidelijk zijn vastgelegd.     
-8.  Het instituut houdt een zodanige administratie bij dat informatie kan worden verschaft over de integrale kosten en over de baten van de werkzaamheden, bedoeld in het derde lid.   
-
-### Artikel  66a  
-
-Naast de taken, bedoeld in artikel 66, tweede lid, heeft het instituut tot taak het verwerven, beheren en zo nodig aan de politie ter beschikking stellen van bijzonder materieel en bijzondere uitrusting ten behoeve van de uitvoering van de politietaak.  
+1.  Er is een Instituut Fysieke Veiligheid.   
+2.  Het Instituut Fysieke Veiligheid bezit rechtspersoonlijkheid.   
 
 ### Artikel  67  
 
-1.  Het instituut heeft een bestuur dat uit zeven leden bestaat, waaronder de voorzitter.   
-2.  De voorzitter en de overige leden van het bestuur worden bij koninklijk besluit benoemd, geschorst en ontslagen.   
-3.  De leden van het bestuur hebben, behoudens tussentijds ontslag, zitting voor vier jaren. Zij kunnen ten hoogste eenmaal worden herbenoemd.   
+1.  Het bestuur van de rechtspersoon Instituut Fysieke Veiligheid bestaat uit: 
+
+a. een algemeen bestuur, bestaande uit de voorzitters van de veiligheidsregio’s gezamenlijk;  
+
+b. een dagelijks bestuur.     
+2.  Het algemeen bestuur benoemt uit zijn midden een voorzitter en een dagelijks bestuur. De voorzitter van het algemeen bestuur is tevens voorzitter van het dagelijks bestuur. Het algemeen bestuur bepaalt welke taken het overdraagt aan het dagelijks bestuur.   
+3.  De voorzitter vertegenwoordigt het Instituut Fysieke Veiligheid in en buiten rechte.   
+4.  Het bestuur beslist bij meerderheid van stemmen. Indien de stemmen staken, geeft de stem van de voorzitter de doorslag.   
 
 ### Artikel  68  
 
-1.  Het bestuur heeft de algemene leiding over het instituut.   
-2.  Het bestuur benoemt een directeur, die de dagelijkse leiding over het instituut heeft.   
-3.  Het bestuur stelt bij reglement regels vast over de inrichting en werkwijze van het instituut en nadere regels over de taken en bevoegdheden van de directeur.   
-4.  Het bestuur stelt jaarlijks vast een begroting van de inkomsten en uitgaven voor het daarop volgende kalenderjaar, een meerjarenraming van de inkomsten en uitgaven voor de daarop volgende vier kalenderjaren en de rekening en verantwoording van de inkomsten en uitgaven van het daaraan voorafgaande kalenderjaar. Deze behoeven de goedkeuring van Onze Minister.   
-5.  Het bestuur verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.   
-6.  Het bestuur stelt jaarlijks voor 1 april een verslag op van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van zijn werkwijze in het bijzonder in het afgelopen kalenderjaar. Het verslag wordt aan Onze Minister toegezonden en algemeen verkrijgbaar gesteld.   
+1.  Het bestuur van het Instituut Fysieke Veiligheid heeft de volgende taken op het gebied van de brandweerzorg, de rampenbestrijding, de crisisbeheersing en de geneeskundige hulpverlening: 
+
+a. het verzorgen van officiersopleidingen voor de brandweer en van andere bij ministeriële regeling aan te wijzen opleidingen die met een examen als bedoeld in artikel 18, vierde lid, worden afgesloten, en het ontwikkelen van lesstof, oefenstof en leerstof voor beide soorten opleidingen;  
+
+b. het zorgen voor de ontwikkeling, de uitvoering, de organisatie en de afneming van een examen als bedoeld in artikel 18, vierde lid;  
+
+c. het geven van vrijstellingen en certificaten voor brandweeropleidingen;  
+
+d. het vaststellen van de uitslag van een examen voor brandweeropleidingen;  
+
+e. het ontwikkelen en in stand houden van expertise door middel van het verzamelen en beheren van relevante kennis en zo nodig door het verrichten van toegepast wetenschappelijk onderzoek op het gebied van de brandweerzorg, de rampenbestrijding, de crisisbeheersing en de geneeskundige hulpverlening;  
+
+f. het ter beschikking stellen van de verzamelde informatie en expertise aan organisaties die werkzaam zijn op het gebied van de brandweerzorg, de rampenbestrijding, de crisisbeheersing en de geneeskundige hulpverlening;  
+
+g. het verwerven, beheren en aan de veiligheidsregio’s zo nodig ter beschikking stellen van materieel, uitrusting en telecommunicatievoorzieningen;  
+
+h. het verwerven, beheren en zo nodig aan de politie ter beschikking stellen van bijzonder materieel en bijzondere uitrusting ten behoeve van de uitvoering van de politietaak.     
+2.  Bij de uitoefening van de taken genoemd in het eerste lid draagt het bestuur van het Instituut Fysieke Veiligheid zorg voor betrokkenheid van het in de brandweerzorg werkzame personeel bij de besluitvorming.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het tweede lid.   
 
 ### Artikel  69  
 
-1.  Het personeel van het instituut is ambtenaar in de zin van de [Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md).   
-2.  De regels die op grond van [artikel 125, eerste lid, van de Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md) zijn gesteld voor de ambtenaren die bij een ministerie anders dan het Ministerie van Defensie zijn aangesteld, zijn van overeenkomstige toepassing op de ambtenaren die in dienst van het instituut zijn.   
-3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het personeel van het instituut en, voor zover dit in verband met hun bijzondere positie noodzakelijk is, over de ambtenaren die bij het instituut zijn aangesteld voor de duur van een opleiding als bedoeld in artikel 18, vierde lid.   
-4.  De regels, bedoeld in artikel 18, tweede en derde lid, zijn van toepassing op de ambtenaren, bedoeld in het derde lid, alsmede op het personeel van het instituut, niet zijnde personeel van de brandweer, dat is aangesteld in een functie als bedoeld in artikel 18, tweede lid.   
+Het bestuur van het Instituut Fysieke Veiligheid kan in opdracht van een of meer besturen van de veiligheidsregio’s werkzaamheden uitvoeren ten behoeve van de veiligheidsregio’s, waaronder het ondersteunen bij de uitvoering van de taak, bedoeld in artikel 22.  
 
 ### Artikel  70  
 
-1.  Onze Minister verstrekt het instituut jaarlijks uit ’s Rijks kas een bijdrage met het oog op de kosten van de uitvoering van de in artikelen 66, tweede lid, en 66a bedoelde taken. Onze Minister kan het instituut een tijdelijke bijdrage voor een bijzonder doel verstrekken.   
-2.  Onze Minister kan beleidsregels vaststellen over de uitvoering van de aan het instituut toegekende taken.   
+1.  Het bestuur van het Instituut Fysieke Veiligheid kan in opdracht van derden andere werkzaamheden verrichten dan die welke uit artikel 68, eerste lid, en 69 voortvloeien op het gebied van fysieke veiligheid.   
+2.  Voor de in het eerste lid bedoelde werkzaamheden wordt een vergoeding van ten minste de integrale kosten berekend en de werkzaamheden mogen niet leiden tot concurrentievervalsing ten opzichte van private aanbieders van vergelijkbare diensten.   
 
 ### Artikel  71  
 
-1.  Bij algemene maatregel van bestuur worden nadere regels gesteld over: 
-
-a. de taken en bevoegdheden van het bestuur,  
-
-b. de openbaarheid van de vergaderingen van het bestuur, en  
-
-c. de voorwaarden waaronder en de wijze waarop de bijdragen, bedoeld in artikel 70, eerste lid, worden verstrekt.     
-2.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de controle op de rechtmatigheid van het gevoerde financiële beheer en de verantwoording daarover en op de doelmatigheid van het beheer, de organisatie en het gevoerde beleid van het bestuur.   
-
-### §  18  
-
-####Nederlands bureau brandweerexamens
+1.  Het bestuur van het Instituut Fysieke Veiligheid verstrekt desgevraagd aan Onze Minister alle inlichtingen die hij nodig heeft met het oog op zijn bevoegdheid, bedoeld in artikel 72, eerste lid, en in verband met de evaluatie, bedoeld in artikel 75a. Onze Minister kan inzage vorderen van alle zakelijke gegevens en bescheiden, indien dat voor de uitoefening van die bevoegdheid redelijkerwijs nodig is.   
+2.  Het bestuur van het Instituut Fysieke Veiligheid geeft bij het verstrekken van de in het eerste lid bedoelde inlichtingen waar nodig aan welke gegevens een vertrouwelijk karakter dragen. Dit vertrouwelijke karakter kan voortvloeien uit de aard van de gegevens, dan wel uit het feit dat natuurlijke personen of rechtspersonen deze aan het Instituut Fysieke Veiligheid hebben verstrekt onder het beding dat zij als vertrouwelijk zullen gelden.   
 
 ### Artikel  72  
 
-1.  Er is een Nederlands bureau brandweerexamens dat rechtspersoonlijkheid bezit.   
-2.  Het bureau heeft tot taak: 
-
-a. te zorgen voor de ontwikkeling, de uitvoering, de organisatie en de afneming van een rijksexamen als bedoeld in artikel 18, vierde lid;  
-
-b. het afgeven van vrijstellingen en certificaten;  
-
-c. het vaststellen van de uitslag van een examen en het adviseren aan Onze Minister over het afgeven van een diploma.     
+1.  Indien naar het oordeel van Onze Minister het bestuur van het Instituut Fysieke Veiligheid een taak ernstig verwaarloost, kan Onze Minister de noodzakelijke voorzieningen treffen.   
+2.  De voorzieningen worden, spoedeisende gevallen uitgezonderd, niet eerder getroffen dan nadat het bestuur van het Instituut Fysieke Veiligheid in de gelegenheid is gesteld om binnen een door Onze Minister te stellen termijn alsnog zijn taak naar behoren uit te voeren.   
+3.  Onze Minister stelt beide kamers der Staten-Generaal onverwijld in kennis van door hem getroffen voorzieningen als bedoeld in het eerste lid.   
 
 ### Artikel  73  
 
-1.  Het bureau kan andere werkzaamheden verrichten dan die welke uit artikel 72, tweede lid, voortvloeien, voor zover het betreft: 
-
-a. het zorgen voor de ontwikkeling, de uitvoering, de organisatie en de afneming van andere examens op het gebied van de brandweerzorg en de rampenbestrijding dan die welke in 72, tweede lid, onder a, zijn bedoeld, alsmede het afgeven van vrijstellingen, certificaten en diploma’s;  
-
-b. het ontwikkelen, het in stand houden en het beschikbaar stellen van expertise met betrekking tot de examinering van opleidingen op het gebied van de brandweerzorg en de rampenbestrijding.     
-2.  De in het eerste lid genoemde werkzaamheden mogen niet leiden tot concurrentievervalsing ten opzichte van private aanbieders van vergelijkbare diensten en worden tegen kostendekkende tarieven verricht.   
+1.  Het algemeen bestuur stelt jaarlijks de begroting, de jaarrekening en het jaarverslag voor het Instituut vast.   
+2.  Het algemeen bestuur stelt ten minste eenmaal in de vier jaar het beleidsplan, de organisatie, de formatie en de producten- en dienstencatalogus vast.   
+3.  Het algemeen bestuur stelt de functionele eisen en standaarden van de producten en diensten vast.   
+4.  Het algemeen bestuur stelt bij reglement regels vast over de uitvoering, de organisatie en de afneming van een examen, als bedoeld in artikel 18, vierde lid.   
+5.  Het dagelijks bestuur zendt een ontwerp van de begroting, van het beleidsplan en van de eisen en standaarden als bedoeld in het derde lid zes weken voordat zij worden vastgesteld, toe aan de besturen van de veiligheidsregio’s.   
+6.  De besturen van de veiligheidsregio’s kunnen bij het algemeen bestuur hun zienswijze over de ontwerpen, bedoeld in het vijfde lid, naar voren brengen.   
 
 ### Artikel  74  
 
-1.  Het bureau heeft een bestuur dat bestaat uit zeven leden, de voorzitter daaronder begrepen.   
-2.  Onze Minister benoemt, schorst en ontslaat de leden van het bestuur. Onze Minister kan een vertegenwoordiger benoemen die deelneemt aan de beraadslagingen van het bestuur.   
-3.  Het bestuur stelt bij reglement regels vast over de uitvoering, de organisatie en de afneming van een rijksexamen als bedoeld in artikel 18, vierde lid.   
-4.  Het bestuur verstrekt desgevraagd aan Onze Minister voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.   
-5.  Onze Minister kan beleidsregels vaststellen over de uitvoering van de aan het bureau toegekende taken.   
-6.  Het personeel van het bureau is ambtenaar in de zin van de [Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md), behoudens de verantwoording daarover en op de doelmatigheid van het beheer, de organisatie degenen met wie een arbeidsovereenkomst is gesloten naar burgerlijk recht. Het bestuur stelt bij reglement regels vast over de onderwerpen, genoemd in [artikel 125, eerste lid, van de Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md). Indien het bestuur, ondanks daartoe strekkende uitnodiging, nalatig blijft hieraan uitvoering te geven, stelt Onze Minister bedoeld reglement vast.   
+1.  De inkomsten van het Instituut Fysieke Veiligheid bestaan uit: 
+
+a. een bijdrage van Onze Minister voor de taken, bedoeld in artikel 68, eerste lid, onderdeel a en de onderdelen e tot en met h, en, voor zover Onze Minister daartoe besluit, een incidentele bijdrage voor een bijzonder doel;  
+
+b. een bijdrage van de veiligheidsregio’s voor de in artikel 68, eerste lid, en 69 bedoelde taken en werkzaamheden, voor zover de besturen van de veiligheidsregio’s hiertoe besluiten;  
+
+c. betalingen van de kosten die het Instituut Fysieke Veiligheid bij de uitvoering van de taken of werkzaamheden bij de veiligheidsregio’s of derden in rekening brengt.     
+2.  Het bestuur van het Instituut Fysieke Veiligheid trekt geen gelden aan die dagelijks of op termijn opvorderbaar zijn. In afwijking van de eerste volzin is het het bestuur van het Instituut Fysieke Veiligheid toegestaan ter overbrugging van tijdelijke kastekorten bij een bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tijdelijke kredieten in rekening-courant op te nemen.   
+3.  Het bestuur van het Instituut Fysieke Veiligheid houdt een zodanige administratie bij dat: 
+
+a. de registratie van lasten en baten van de taken, bedoeld in artikel 68, eerste lid, van de werkzaamheden, bedoeld in artikel 69 en van de werkzaamheden, bedoeld in artikel 70, onderling gescheiden zijn.  
+
+b. alle lasten en baten, op grond van consequent toegepaste en objectief te rechtvaardigen beginselen inzake kostprijzenadministratie, correct worden toegerekend;  
+
+c. de beginselen inzake kostprijsadministratie volgens welke de administratie wordt gevoerd, duidelijk zijn vastgelegd.     
+4.  Het bestuur van het Instituut houdt een zodanige administratie bij dat informatie kan worden verschaft over de integrale kosten en over de baten van de werkzaamheden, bedoeld in artikel 70.   
+5.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de bijdrageverlening, bedoeld in het eerste lid onder a.   
 
 ### Artikel  75  
 
-1.  De inkomsten van het bureau bestaan uit de kosten die het bij de uitvoering van de taken, bedoeld in het 72, tweede lid, en de werkzaamheden, bedoeld in het 73, eerste lid, bij derden in rekening brengt en andere baten.   
-2.  De begroting van de inkomsten en uitgaven voor het daarop volgende kalenderjaar, de meerjarenraming van de inkomsten en uitgaven en het jaarverslag van het voorafgaande kalenderjaar behoeven de goedkeuring van Onze Minister.   
-3.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de inrichting, de werkwijze en de taak van het bureau, de samenstelling van het bestuur en de openbaarheid van de vergaderingen daarvan en de controle op het financieel beheer.   
-4.  Het bureau stelt jaarlijks een verslag op van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van zijn werkwijze in het bijzonder in het afgelopen kalenderjaar. Het verslag wordt aan Onze Minister toegezonden en algemeen verkrijgbaar gesteld.   
+1.  Het personeel van het Instituut Fysieke Veiligheid is ambtenaar in de zin van de Ambtenarenwet.   
+2.  De regels die op grond van [artikel 125, eerste lid, van de Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md) zijn gegeven voor de ambtenaren die bij een ministerie anders dan het Ministerie van Defensie zijn aangesteld, zijn van overeenkomstige toepassing op de ambtenaren die in dienst van het Instituut Fysieke Veiligheid zijn.   
+3.  Het dagelijks bestuur benoemt, bevordert en ontslaat het personeel van het Instituut Fysieke Veiligheid.   
+4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven over het personeel van het Instituut Fysieke Veiligheid.   
+5.  De regels, bedoeld in artikel 18, tweede en derde lid, zijn van toepassing op het personeel van het Instituut, niet zijnde personeel van de brandweer, dat een functie uitoefent als bedoeld in artikel 18, tweede lid.   
+
+### §  18  
+
+####Evaluatie
+
+### Artikel  75a  
+
+Onze Minister zendt binnen vijf jaar na de inwerkingtreding van de artikelen 66 tot en met 75 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze artikelen in de praktijk.  
 
 ### §  19  
 
@@ -756,7 +704,6 @@ De [Brandweerwet 1985](../../../../wet/brandweerwet/1985/BWBR0003764/README.md),
 3.  Het organisatieplan, bedoeld in [artikel 6 van de Wet geneeskundige hulpverlening bij ongevallen en rampen](../../../../wet/wet/geneeskundige/hulpverlening/bij/rampen/BWBR0005276/README.md), blijft binnen een regio van kracht totdat de afspraken, bedoeld in artikel 35, tweede lid, zijn gemaakt.   
 4.  Aanwijzingen als bedoeld in [artikel 13, eerste lid, van de Brandweerwet 1985](../../../../wet/brandweerwet/1985/BWBR0003764/README.md), rampbestrijdingsplannen als bedoeld in [artikel 4a van de Wet rampen en zware ongevallen](../../../../wet/rampenwet/BWBR0003765/README.md) en bevelen als bedoeld in [artikel 10a, tweede lid van de Wet rampen en zware ongevallen](../../../../wet/rampenwet/BWBR0003765/README.md) en blijven binnen een regio van kracht totdat het bestuur van de veiligheidsregio besluit tot intrekking ervan.   
 5.  Degenen die een opleiding als bedoeld in [artikel 15 van de Brandweerwet 1985](../../../../wet/brandweerwet/1985/BWBR0003764/README.md), zoals dat luidde op de dag voor de inwerkingtreding van deze wet, nog niet met een examen hebben afgerond, kunnen tot drie jaar na de inwerkingtreding van deze wet deze examens afleggen op basis van de examenreglementen zoals die luidden op de hiervoor bedoelde dag.   
-6.  Totdat in een regio de gemeenschappelijke regeling, bedoeld in artikel 9, is getroffen, fungeert voor de toepassing van de artikelen 39, 40, 42, 43 en 51 de burgemeester die tevens korpsbeheerder is van het regionale politiekorps, als voorzitter van de veiligheidsregio.   
 
 ### Artikel  79  
 
@@ -764,7 +711,7 @@ Onze Minister kan besluiten dat het bestuur van een veiligheidsregio, gedurende 
 
 ### Artikel  80  
 
-De voordracht voor een krachtens de artikelen 8, 17, eerste en tweede lid, 18, 31, vierde lid, 33, vierde lid, 55, zesde lid, of 56, vierde lid, vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
+De voordracht voor een krachtens de artikelen 8, 17, eerste en tweede lid, 18, 31, vierde lid, 33, vierde lid, 55, vijfde lid, of 56, vierde lid, vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
 
 ### §  20  
 
@@ -842,7 +789,7 @@ Almere, Dronten, Lelystad, Noordoostpolder, Urk, Zeewolde.
 
 #### *Noord-Holland-Noord* 
 
-Alkmaar, Bergen, Castricum, Den Helder, Drechterland, Enkhuizen, Graft-De Rijp, Harenkarspel, Heerhugowaard, Heiloo, Hollands Kroon, Hoorn, Koggenland, Langedijk, Medemblik, Opmeer, Schagen, Schermer, Stede Broec, Texel, Zijpe.  
+Alkmaar, Bergen, Castricum, Den Helder, Drechterland, Enkhuizen, Graft-De Rijp, Heerhugowaard, Heiloo, Hollands Kroon, Hoorn, Koggenland, Langedijk, Medemblik, Opmeer, Schagen, Schermer, Stede Broec, Texel.  
 
 #### *Zaanstreek-Waterland* 
 
@@ -870,11 +817,11 @@ Alphen aan den Rijn, Bergambacht, Bodegraven-Reeuwijk, Boskoop, Gouda, Hillegom,
 
 #### *Rotterdam-Rijnmond* 
 
-Albrandswaard, Barendrecht, Bernisse, Brielle, Capelle aan den IJssel, Dirksland, Goedereede, Hellevoetsluis, Krimpen aan den IJssel, Lansingerland, Maassluis, Middelharnis, Oostflakkee, Ridderkerk, Rotterdam, Schiedam, Spijkenisse, Vlaardingen, Westvoorne.  
+Albrandswaard, Barendrecht, Bernisse, Brielle, Capelle aan den IJssel, Goeree-Overflakkee, Hellevoetsluis, Krimpen aan den IJssel, Lansingerland, Maassluis, Ridderkerk, Rotterdam, Schiedam, Spijkenisse, Vlaardingen, Westvoorne.  
 
 #### *Zuid-Holland-Zuid* 
 
-Alblasserdam, Binnenmaas, Cromstrijen, Dordrecht, Giessenlanden, Gorinchem, Graafstroom, Hardinxveld-Giessendam, Hendrik-Ido-Ambacht, Korendijk, Leerdam, Liesveld, Nieuw-Lekkerland, Oud-Beijerland, Papendrecht, Sliedrecht, Strijen, Zederik, Zwijndrecht.  
+Alblasserdam, Binnenmaas, Cromstrijen, Dordrecht, Giessenlanden, Gorinchem, Hardinxveld-Giessendam, Hendrik-Ido-Ambacht, Korendijk, Leerdam, Molenwaard, Oud-Beijerland, Papendrecht, Sliedrecht, Strijen, Zederik, Zwijndrecht.  
 
 #### *Zeeland* 
 

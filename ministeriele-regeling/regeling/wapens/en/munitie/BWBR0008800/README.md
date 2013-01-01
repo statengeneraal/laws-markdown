@@ -17,7 +17,7 @@ a. *de wet:* de [Wet wapens en munitie](../../../../../../wet/wet/wapens/en/muni
 
 b. *de Minister:* de minister van Veiligheid en Justitie;  
 
-c. *de korpschef:* de korpschef, bedoeld in [artikel 24 van de Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+c. *de korpschef:* de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
 d. *jachtakte:* een jachtakte als bedoeld in [artikel 38, eerste lid, onder a, van de Flora- en faunawet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), tenzij uitdrukkelijk anders is aangegeven;  
 
@@ -73,6 +73,19 @@ f. werppennen.
 
 g. alle voorwerpen die een sprekende gelijkenis vertonen met wapens, niet zijnde vuurwapens, en die door de aard en de samenstelling van het materiaal waaruit zij zijn vervaardigd, niet dan wel slecht detecteerbaar zijn door metaaldetectoren of andere electronische detectieapparatuur, met uitzondering van voorwerpen die specifiek zijn vervaardigd voor reguliere maatschappelijk aanvaarde gebruiksdoeleinden.    
 
+### 3a  
+
+####Opsporingsambtenaren
+
+### Artikel  3a  
+
+1.  Het bepaalde in [artikel 13, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [14, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [22, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [26, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [27, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [32a, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), en [32b, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) is niet van toepassing op de ambtenaren van politie, bedoeld in [artikel 2 van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md), voor zover hun het voorschrift is gegeven om tijdens de dienstuitoefening bewapend te zijn met bij of krachtens het [Besluit bewapening en uitrusting aangewezen wapens of munitie](../../../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md).   
+2.  Het bepaalde in [artikel 9, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [13, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [artikel 14, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [22, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [26, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [32a, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), en [32b, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) is niet van toepassing op: 
+
+a. de ambtenaren van politie, bedoeld in [artikel 2, onder b, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md), die belast zijn met het onderwijs, de verwerving, het vervoer of het onderhoud van wapens en munitie voor zover de in die artikelleden genoemde handelingen geschiedt uit hoofde van de dienstuitoefening;  
+
+b. personen die werkzaam zijn bij het Landelijk selectie- en opleidingsinstituut politie, Politie onderwijs- en kenniscentrum, bedoeld in [artikel 2 van de Wet op het LSOP en het politieonderwijs](../../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md), voor zover de in die artikelleden genoemde handelingen geschiedt uit hoofde van de dienstuitoefening.     
+
 ### 4  
 
 ####Buitengewoon opsporingsambtenaren
@@ -95,11 +108,11 @@ Het voorschrift, bedoeld in artikel 4, eerste lid, kan uitsluitend betrekking he
 
 a. een korte wapenstok, van een door de Minister en de Minister van Binnenlandse Zaken en Koninkrijksrelaties goedgekeurd merk en type;  
 
-b. een semi-automatisch pistool van het merk Walther, type P5, kaliber 9 millimeter maal 19 millimeter;  
+b. het door de Minister aangewezen pistool;  
 
-c. munitie van het merk Dynamit Nobel A.G., type Action, model 3, kaliber 9 millimeter maal 19 millimeter of munitie van het merk RUAG Ammotec GmbH, type Action, model Effect, kaliber 9 millimeter maal 19 millimeter;  
+c. de door de Minister aangewezen munitie;  
 
-d. pepperspray als bedoeld in [artikel 1 van de Bewapeningsregeling politie](../../../../../../ministeriele-regeling/bewapeningsregeling/politie/BWBR0009152/README.md); of  
+d. door de Minister aangewezen pepperspray;  
 
 e. andere wapens en munitie dan genoemd onder a tot en met d.    
 
@@ -144,7 +157,7 @@ g. de [Opiumwet](../../../../../../wet/opiumwet/BWBR0001941/README.md).
 ### Artikel  8a  
 
 1.  Een erkenninghouder die een vuurwapen van de categorie II of III of munitie vervaardigt, transformeert of in de uitoefening van een bedrijf uitwisselt, verhuurt of anderszins ter beschikking stelt, herstelt beproeft of verhandelt, stelt geen personen te werk die belast zullen worden met werkzaamheden dan nadat ten aanzien van deze personen een gunstig luidende verklaring omtrent het gedrag is verkregen.   
-2.  De erkenninghouder stuurt een afschrift van de verklaring omtrent het gedrag zoals genoemd in het eerste lid aan de korpschef van het politiekorps in de regio waar de erkenninghouder dan wel een onderdeel daarvan is gevestigd.   
+2.  De erkenninghouder stuurt een afschrift van de verklaring omtrent het gedrag zoals genoemd in het eerste lid aan de korpschef.   
 
 ### Artikel  9  
 
@@ -283,6 +296,85 @@ bº. zonder winstoogmerk door een lid van een schietvereniging ten behoeve van a
 
 2º. dit lid geen andere munitie vervaardigt of transformeert dan die, welke kan worden afgeschoten door middel van een vuurwapen, tot het voorhanden hebben waarvan hij is gerechtigd, behoudens de gevallen waarin door de korpschef voor dit doeleinde op verzoek van het bestuur van de vereniging een afzonderlijk verlof tot het voorhanden hebben van munitie aan het lid is verleend.      
 
+### 9a  
+
+####Vrijstelling voor airsoftapparaten
+
+### Artikel  17a  
+
+1.  Van het verbod in artikel 13, eerste lid, van de wet wordt vrijstelling verleend voor het overdragen, voorhanden hebben en vervoeren van airsoftapparaten voor de beoefening van de airsoftsport in verenigingsverband aan personen die ten minste de leeftijd van achttien jaar hebben bereikt en door middel van een bewijs van lidmaatschap kunnen aantonen lid te zijn van een door de Minister erkende airsoftvereniging.   
+2.  De vrijstelling ingevolge het eerste lid geldt voor het vervoeren slechts langs de weg en het tijdsbestek welke redelijkerwijs voor het vervoer zijn geboden voor: 
+
+a. het vervoeren tussen de woning en de schietvereniging;  
+
+b. het vervoeren tussen de woning en door de airsoftvereniging, bedoeld in het eerste lid, aangewezen bijeenkomsten en beurzen in het kader van de airsoftsport of voor de airsoftsport te gebruiken wedstrijdterreinen;  
+
+c. het vervoeren tussen de woning en de erkende wapenhandelaar.     
+
+### Artikel  17b  
+
+1.  Van het verbod in artikel 13, eerste lid, van de wet wordt vrijstelling verleend voor het voorhanden hebben van airsoftapparaten voor de beoefening van de airsoftsport in verenigingsverband aan personen die ten minste de leeftijd van achttien jaar hebben bereikt en door middel van: 
+
+a. een bewijs van voorlopig lidmaatschap kunnen aantonen aspirant-lid te zijn van de airsoftvereniging, bedoeld in artikel 17a, eerste lid, of  
+
+b. een bewijs kunnen aantonen door de airsoftvereniging, bedoeld in artikel 17a, eerste lid, als introducé te zijn aangewezen.     
+2.  Van het verbod in artikel 13, eerste lid, van de wet wordt aan een persoon als bedoeld in artikel 17a, eerste lid, vrijstelling verleend voor het overdragen van airsoftapparaten aan personen als bedoeld in het eerste lid, onder a en b, en wordt aan laatstbedoelde personen vrijstelling verleend voor het overdragen van airsoftapparaten aan personen als bedoeld in artikel 17a, eerste lid.   
+
+### Artikel  17c  
+
+1.  Van het verbod in artikel 13, eerste lid, van de wet wordt vrijstelling verleend voor het dragen van airsoftapparaten op voor het publiek toegankelijke plaatsen, met uitzondering van de openbare weg.   
+2.  De vrijstelling ingevolge het eerste lid geldt slechts: 
+
+a. voor personen als bedoeld in artikel 17a, eerste lid;  
+
+b. voor personen als bedoeld in artikel 17b, eerste lid, onder a en b, indien en zolang zij tezamen met een persoon als bedoeld in artikel 17a, eerste lid, de airsoftsport beoefenen;  
+
+c. voor de beoefening van door de airsoftvereniging, bedoeld in artikel 17a, eerste lid, georganiseerde airsoftsport ten behoeve waarvan voorafgaande schriftelijke toestemming van de korpschef is verleend, welke toestemming in ieder geval wordt onthouden of ingetrokken indien geen redelijke maatregelen ter voorkoming van bedreiging en afdreiging door de airsoftapparaten zijn getroffen, dan wel indien misbruik is te vrezen;  
+
+d. gedurende de tijden waarop het sportevenement plaatsvindt;  
+
+e. op het terrein van het evenement in de onmiddellijke nabijheid van de plaats waar de airsoftsport daadwerkelijk wordt beoefend.     
+
+### Artikel  17d  
+
+1.  Van het verbod in artikel 13, eerste lid, van de wet wordt vrijstelling verleend aan erkenninghouders en personen als bedoeld in artikel 17a, eerste lid, voor het doen binnenkomen of doen uitgaan van airsoftapparaten die zodanig zijn verpakt dat zij niet voor onmiddellijk gebruik kunnen worden aangewend.   
+2.  Van het verbod in artikel 13, eerste lid, van de wet wordt vrijstelling verleend aan erkenninghouders voor het vervoeren van airsoftapparaten.   
+
+### Artikel  17e  
+
+1.  Van het verbod in artikel 13, eerste lid, van de wet wordt vrijstelling verleend aan in het buitenland wonende personen, voor het doen binnenkomen of uitgaan van airsoftapparaten.   
+2.  De vrijstelling ingevolge het eerste lid geldt slechts: 
+
+a. voor personen die blijkens een schriftelijke uitnodiging of verklaring van de airsoftvereniging, bedoeld in artikel 17a, eerste lid, gedurende een daarin vermeld tijdvak in Nederland de airsoftsport gaan beoefenen of hebben beoefend en die in het land van herkomst bevoegd zijn de meegebrachte airsoftapparaten voorhanden te hebben;  
+
+b. vanaf de tweede dag voor, tot en met de tweede dag na het in onderdeel a bedoelde tijdvak.     
+
+### Artikel  17f  
+
+1.  Van het verbod van artikel 13, eerste lid van de wet wordt voor het vervoeren van airsoftapparaten vrijstelling verleend aan personen die in de uitoefening van een beroep of bedrijf zaken vervoeren.   
+2.  De vrijstelling in het eerste lid geldt slechts: 
+
+a. voor zover het vervoer plaats vindt in opdracht van degene die bevoegd is het airsoftapparaat voorhanden te hebben en te vervoeren;  
+
+b. indien de ontvanger bevoegd is het airsoftapparaat voorhanden te hebben; en  
+
+c. voor zover uit tijdens het vervoer aanwezige documenten blijkt dat aan de in het eerste lid, alsmede aan de in dit lid onder a en b genoemde voorwaarden is voldaan.     
+
+### Artikel  17g  
+
+1.  Van het verbod van artikel 13, eerste lid van de wet wordt voor het vervoeren van airsoftapparaten vrijstelling verleend aan personen in dienst van erkenninghouders.   
+2.  De vrijstelling in het eerste lid geldt slechts indien: 
+
+a. het airsoftapparaten betreft waarop de erkenning betrekking heeft;  
+
+b. het vervoer plaatsvindt in opdracht van de erkenninghouder, dan wel de beheerder in het bedrijf waaraan de erkenning is verleend;  
+
+c. het vervoer noodzakelijk is voor de goede uitvoering van de handelingen waarop de erkenning betrekking heeft;  
+
+d. de erkenninghouder, onderscheidenlijk de beheerder bevoegd is de airsoftapparaten te vervoeren; en  
+
+e. uit tijdens het vervoer aanwezige documenten blijkt dat aan de in het eerste lid, alsmede aan de in dit lid onder a tot en met d genoemde voorwaarden is voldaan.     
+
 ### 10  
 
 ####Vrijstelling voor vuurwapens en munitie
@@ -402,11 +494,11 @@ d. door middel van gravering zijn voorzien van de postcode en het huisnummer van
 
 ### Artikel  24  
 
-Van het verbod in [artikel 22, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt vrijstelling verleend voor het vervoeren van andere noodsignaalmiddelen dan bedoeld in artikel 22, tweede lid, van deze regeling, aan de door de minister van Verkeer en Waterstaat aangewezen ambtenaren van de Vaarwegmarkeringsdienst van het ministerie van Verkeer en Waterstaat.’  
+Van het verbod in [artikel 22, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt vrijstelling verleend voor het vervoeren van andere noodsignaalmiddelen dan bedoeld in artikel 22, tweede lid, van deze regeling, aan de door de Minister van Infrastructuur en Milieu aangewezen ambtenaren van de Vaarwegmarkeringsdienst van het Ministerie van Infrastructuur en Milieu.’  
 
 ### Artikel  25  
 
-Van het verbod in [artikel 26, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt vrijstelling verleend voor het voorhanden hebben van andere noodsignaalmiddelen dan bedoeld in artikel 22, tweede lid, aan zeeverkeersambtenaren van het ministerie van Verkeer en Waterstaat, in de daartoe door de minister van Verkeer en Waterstaat aangewezen zeeverkeersposten.  
+Van het verbod in [artikel 26, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt vrijstelling verleend voor het voorhanden hebben van andere noodsignaalmiddelen dan bedoeld in artikel 22, tweede lid, aan zeeverkeersambtenaren van het Ministerie van Infrastructuur en Milieu, in de daartoe door de Minister van Infrastructuur en Milieu aangewezen zeeverkeersposten.  
 
 ### 12  
 
@@ -620,9 +712,7 @@ a. de door hem uitgereikte verloven tot het voorhanden hebben van wapens en muni
 
 b. alle documenten betreffende de door andere autoriteiten verleende bevoegdheid tot het voorhanden hebben van wapens of munitie aan in zijn ambtsgebied wonende personen.     
 2.  De korpschef registreert de naam, het adres en de woonplaats van de in zijn ambtsgebied wonende personen die bevoegd zijn een vuurwapen voorhanden te hebben in een bestand.   
-3.  De korpschef zendt, in geval van verhuizing binnen Nederland van in zijn ambtsgebied wonende personen die bevoegd zijn wapens of munitie voorhanden te hebben, de op hen betrekking hebbende kopieën, bedoeld in het eerste lid, onverwijld aan de korpschef in de politieregio waarbinnen de nieuwe woonplaats is gelegen.   
-4.   Vervallen.    
-5.  Van de wapens of de munitie die overeenkomstig [artikel 8 van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) in bewaring worden gegeven houdt de korpschef een register bij, waarin wordt vermeld: 
+3.  Van de wapens of de munitie die overeenkomstig [artikel 8 van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) in bewaring worden gegeven houdt de korpschef een register bij, waarin wordt vermeld: 
 
 a. de naam en het adres van degene die de voorwerpen in bewaring geeft;  
 
@@ -637,8 +727,8 @@ e. de plaats waar de voorwerpen worden opgeborgen;
 f. de datum waarop de bewaring is geëindigd;  
 
 g. de naam en het adres van degene aan wie na afloop van de bewaring de voorwerpen ter hand zijn gesteld.     
-6.  De bewaargever is de korpschef bewaarloon verschuldigd van € 2,27 per wapen per kalendermaand, daaronder begrepen een gedeelte van de kalendermaand, te rekenen vanaf de eerste dag van de derde kalendermaand nadat het wapen in bewaring is gegeven.   
-7.  Aan de bewaargever wordt door de korpschef een ontvangstbewijs verstrekt waarop de gegevens, genoemd in het vijfde lid, onder a tot en met d, worden vermeld. Op het ontvangstbewijs wordt tevens vermeld hetgeen in het zesde lid, alsmede hetgeen in [artikel 8, zesde en zevende lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) is bepaald.   
+4.  De bewaargever is de korpschef bewaarloon verschuldigd van € 2,27 per wapen per kalendermaand, daaronder begrepen een gedeelte van de kalendermaand, te rekenen vanaf de eerste dag van de derde kalendermaand nadat het wapen in bewaring is gegeven.   
+5.  Aan de bewaargever wordt door de korpschef een ontvangstbewijs verstrekt waarop de gegevens, genoemd in het vijfde lid, onder a tot en met d, worden vermeld. Op het ontvangstbewijs wordt tevens vermeld hetgeen in het zesde lid, alsmede hetgeen in [artikel 8, zesde en zevende lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) is bepaald.   
 
 ### 19  
 

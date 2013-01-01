@@ -61,11 +61,7 @@ Ernstige gewetensbezwaren in de zin van deze wet zijn de onoverkomelijke geweten
 ### Artikel  7a  
 
 1.  Indien de aanvrager bezwaar maakt tegen een besluit tot afwijzing van de aanvraag om erkenning, beslist Onze Minister van Defensie op dat bezwaar na advies van de commissie, bedoeld in artikel 5, eerste lid. De commissie adviseert nadat zij met ten minste drie leden een onderzoek heeft ingesteld.   
-2.  In de gevallen genoemd in [artikel 7:3, onder *a* tot en met *d*, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wint Onze Minister van Defensie geen advies als bedoeld in het eerste lid in.   
-
-### Artikel  7b  
-
-Tegen een beschikking op grond van hoofdstuk II, met uitzondering van artikel 4, tweede lid, kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.  
+2.  In de gevallen genoemd in [artikel 7:3, onder a tot en met e, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wint Onze Minister van Defensie geen advies als bedoeld in het eerste lid in.   
 
 ### Artikel  7c  
 
@@ -149,10 +145,6 @@ c. na de verlening zodanige feiten of omstandigheden bekend zijn geworden dat, i
 
 Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de ontheffing. Een krachtens artikel 15 of krachtens de eerste volzin vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.  
 
-### Artikel  18  
-
-Tegen een besluit ingevolge de artikelen 15 of  16 kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.  
-
 ### Artikel  23  
 
 1.  Onze Minister van Sociale Zaken en Werkgelegenheid kan de dienstplichtige die als gewetensbezwaarde is erkend, verplichten de vervangende dienst in gewone omstandigheden bij gedeelten in twee of meer niet aansluitende tijdvakken te vervullen.   
@@ -218,7 +210,7 @@ c. verlenging van de duur van de vervangende dienst in gewone omstandigheden met
 
 ### Artikel  33  
 
-1.  De gestrafte kan binnen vijf dagen na de ontvangst van het in artikel 32, vierde lid, bedoelde bericht beroep instellen bij de rechtbank te 's-Gravenhage. De straf, behalve die van berisping, wordt niet ten uitvoer gelegd zolang zij niet onherroepelijk is geworden, tenzij bij de strafoplegging onmiddellijke tenuitvoerlegging is bevolen.   
+1.  De gestrafte kan binnen vijf dagen na de ontvangst van het in artikel 32, vierde lid, bedoelde bericht beroep instellen bij de rechtbank Den Haag. De straf, behalve die van berisping, wordt niet ten uitvoer gelegd zolang zij niet onherroepelijk is geworden, tenzij bij de strafoplegging onmiddellijke tenuitvoerlegging is bevolen.   
 2.  De behandeling van het beroep geschiedt door een meervoudige kamer van de rechtbank, welke zitting houdt en beslist met drie leden, van wie twee, onder wie de voorzitter, lid of plaatsvervangend lid zijn van de rechtbank en één niet tot de rechterlijke macht behoort. Laatstgenoemde en zoveel plaatsvervangers voor deze als Wij dienstig oordelen worden door Ons benoemd op voordracht van Onze Ministers van Justitie en van Sociale Zaken en Werkgelegenheid voor de tijd van vier jaren.   
 3.  Aan de deskundige leden en hun plaatsvervangers wordt een vergoeding toegekend met overeenkomstige toepassing van de regels die gelden voor de rechters-plaatsvervangers. Op hen zijn [artikel 4](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en de [artikelen 46c](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46e](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46i met uitzondering van het eerste lid, onderdeel c](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46j](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en [46m van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) van overeenkomstige toepassing.   
 4.  Op de zittende leden van de in het tweede lid bedoelde kamer zijn de [artikelen 512-523 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.   

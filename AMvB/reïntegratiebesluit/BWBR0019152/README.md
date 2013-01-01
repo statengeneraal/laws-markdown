@@ -48,7 +48,8 @@ a. die algemeen gebruikelijk is; of
 
 b. waarvoor vergoeding op grond van een andere wettelijke regeling mogelijk is.     
 2.  In afwijking van het eerste lid, onderdeel b, kan een in dat lid bedoelde subsidie of voorziening worden verstrekt respectievelijk worden verleend indien deze dient ter vergoeding van kosten of voorzieningen waarvoor vergoeding op grond van een andere wettelijke regeling mogelijk is en die vrijwel uitsluitend is geïndiceerd voor de werksituatie, dan wel vrijwel uitsluitend kan worden gebruikt voor of in de werksituatie.   
-3.  Bij de toepassing van dit besluit en de daarop berustende bepalingen wordt bij de beoordeling en berekening van de kosten en de verlening van een voorziening als bedoeld in het eerste en tweede lid uitgegaan van de goedkoopste adequate voorziening.   
+3.  Het tweede lid is niet van toepassing op de verlening van een voorziening in de vorm van een hulpmiddel gerelateerd aan stoornissen in de hoorfunctie.   
+4.  Bij de toepassing van dit besluit en de daarop berustende bepalingen wordt bij de beoordeling en berekening van de kosten en de verlening van een voorziening als bedoeld in het eerste en tweede lid uitgegaan van de goedkoopste adequate voorziening.   
 
 ### Artikel  3  
 
@@ -157,14 +158,6 @@ a. € 0,-, indien het loon van de werknemer over het kalenderjaar minder dan 50
 b. € 0,-, indien het loon van de werknemer over het kalenderjaar ten minste 50% van het minimumloon, bedoeld in het eerste lid, onderdeel a, bedraagt.     
 3.  Het eerste en tweede lid zijn niet van toepassing indien de subsidie, bedoeld in [artikel 36 van de Wet WIA](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) wordt verstrekt ten behoeve van een werknemer als bedoeld in [artikel 36, eerste lid, onderdeel a, van de Wet WIA](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) voor wie de werkgever geen korting als bedoeld in [artikel 49 van de Wet financiering sociale verzekeringen](../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) kan toepassen.   
 
-### Artikel  12  
-
-####Subsidie zonder premiekorting
-
-1.  Een beschikking tot subsidieverstrekking kan op aanvraag van de werkgever door het UWV worden herzien, indien de periode van drie respectievelijk één jaar, bedoeld in [artikel 36, eerste lid, onderdeel b, van de Wet WIA](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), voortijdig wordt beëindigd op initiatief van de werknemer of omdat de werknemer wegens arbeidsongeschiktheid definitief niet in de dienstbetrekking terugkeert, terwijl de werkgever kosten heeft gemaakt als bedoeld in [artikel 36, tweede lid, van de Wet WIA](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md). De bedragen, bedoeld in [artikel 36 van de Wet WIA](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), worden verlaagd naar evenredigheid van de kortere duur van de dienstbetrekking.   
-2.  Het eerste lid is van overeenkomstige toepassing indien het UWV nadat de kosten, bedoeld in het eerste lid, zijn gemaakt, vaststelt dat bij de werkgever geen passende arbeid aanwezig is.   
-3.  Bij ministeriële regeling kunnen nadere regels worden gesteld in verband met de uitvoering van dit artikel.   
-
 ### Paragraaf  4  
 
 ####Voorzieningen t.b.v. zelfstandigenarbeid
@@ -209,6 +202,7 @@ c. er ten aanzien van het faillissement van die persoon geen schuldsanering heef
 
 1.  Het UWV kan op aanvraag van een persoon als bedoeld in [artikel 34a, eerste lid, van de Wet WIA](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [artikel 2:23, eerste lid, van de Wet Wajong](../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) voorzieningen verstrekken ten behoeve van de inrichting van de arbeidsplaats, de productie- en werkmethoden en de bij de arbeid te gebruiken hulpmiddelen, die in overwegende mate op het individu van de aanvrager zijn afgestemd.   
 2.  Op de verlening van voorzieningen, bedoeld in het eerste lid, zijn artikel 8, eerste lid, en artikel 10 van overeenkomstige toepassing.   
+5.  Onze Minister herziet, met ingang van 1 januari van elk kalenderjaar, het maximale bedrag van het krediet of de borgtocht, bedoeld in het eerste lid, met het percentage waarmee het prijsindexcijfer van de gezinsconsumptie over de maand oktober daaraan voorafgaand afwijkt van het prijsindexcijfer waarop de laatste vaststelling van het bedrag is gebaseerd.   
 
 ### Artikel  15b  
 
@@ -308,6 +302,12 @@ Indien ten aanzien van een werknemer als bedoeld in de [artikelen 29b](../../../
 ### Paragraaf  7  
 
 ####Overgangsbepalingen
+
+### Artikel  21  
+
+####Overgangsbepaling hoortoestellen
+
+Artikel 2, zoals dat luidde voor de inwerkingtreding van het Besluit van 12 december 2012, tot wijziging van het Reïntegratiebesluit in verband met het uitsluiten van de verstrekking van hulpmiddelen gerelateerd aan stoornissen in de hoorfunctie (Stb. 656) blijft van toepassing op de verlening van een voorziening in de vorm van een uitwendig hulpmiddel gerelateerd aan stoornissen in de hoorfunctie, indien deze is aangevraagd voor de dag van inwerkingtreding van dat besluit.  
 
 ### Artikel  22  
 

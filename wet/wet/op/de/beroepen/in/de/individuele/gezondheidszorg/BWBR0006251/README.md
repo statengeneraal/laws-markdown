@@ -73,7 +73,9 @@ b. indien de aanvrager ingevolge in kracht van gewijsde gegane rechterlijke uits
 
 c. indien de aanvrager ingevolge rechterlijke uitspraak ontzet is van het recht het betrokken beroep uit te oefenen;  
 
-d. indien zulks voortvloeit uit een op grond van deze wet jegens de aanvrager genomen maatregel.    
+d. indien zulks voortvloeit uit een op grond van deze wet jegens de aanvrager genomen maatregel;  
+
+e. indien ten aanzien van de aanvrager een maatregel, berustende op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing, van kracht is op grond waarvan de aanvrager zijn rechten ter zake van de uitoefening van het betrokken beroep in het land waar de beslissing is gegeven tijdelijk of blijvend geheel heeft verloren.    
 
 ### Artikel  7  
 
@@ -85,7 +87,9 @@ b. op verzoek van de ingeschrevene;
 
 c. indien de ingeschrevene in een der in artikel 6, onder b of c, genoemde omstandigheden is komen te verkeren;  
 
-d. indien zulks voortvloeit uit een op grond van deze wet jegens de ingeschrevene genomen maatregel.    
+d. indien zulks voortvloeit uit een op grond van deze wet jegens de ingeschrevene genomen maatregel;  
+
+e. indien zulks voortvloeit uit een maatregel, berustende op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing op grond waarvan de ingeschrevene zijn rechten ter zake van de uitoefening van het betrokken beroep in het land waar de beslissing is gegeven tijdelijk of blijvend geheel heeft verloren.    
 
 ### Artikel  7a  
 
@@ -115,22 +119,31 @@ b. al dan niet op het gebied van de individuele gezondheidszorg liggende werkzaa
 
 1.  In het register wordt, indien zulks voortvloeit uit een op grond van deze wet genomen maatregel of besluit, een aantekening geplaatst van: 
 
-a. de schorsing van een inschrijving;  
+a. een gegeven bevel, inhoudende een inperking van de bevoegdheid in het register ingeschreven staande het betrokken beroep uit te oefenen;  
 
-b. de voorwaarden die een ingeschrevene zijn opgelegd;  
+b. een aan de ingeschrevene opgelegde berisping;  
 
-c. de gedeeltelijke ontzegging van de bevoegdheid in het register ingeschreven staande het betrokken beroep uit te oefenen;  
+c. een aan de ingeschrevene opgelegde geldboete;  
 
-d. het eindigen van een schorsing, anders dan ten gevolge van het verstrijken van de in een maatregel vastgestelde tijdsduur;  
+d. de schorsing van een inschrijving;  
 
-e. het niet langer gelden van de onder *b* bedoelde voorwaarden, anders dan ten gevolge van het verstrijken van de proeftijd, en van de onder *c* bedoelde ontzegging.     
-2.  Bij een aantekening als bedoeld in het eerste lid wordt vermeld: 
+e. de voorwaarden die een ingeschrevene zijn opgelegd;  
+
+f. de gedeeltelijke ontzegging van de bevoegdheid in het register ingeschreven staande het betrokken beroep uit te oefenen;  
+
+g. het eindigen van een schorsing, anders dan ten gevolge van het verstrijken van de in een maatregel vastgestelde tijdsduur;  
+
+h. het niet langer gelden van de onder e bedoelde voorwaarden, anders dan ten gevolge van het verstrijken van de proeftijd, en van de onder f bedoelde ontzegging.     
+2.  In het register wordt een aantekening geplaatst van een maatregel, berustend op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing op grond waarvan de ingeschrevene zijn rechten terzake van de uitoefening van het betrokken beroep in het land waar de beslissing is gegeven tijdelijk of blijvend gedeeltelijk heeft verloren.   
+3.  Bij een aantekening als bedoeld in het eerste of tweede lid wordt vermeld: 
 
 a. de datum waarop van de schorsing een aantekening wordt geplaatst alsmede de duur van de schorsing, indien die reeds bekend is;  
 
-b. de datum waarop de in het eerste lid bedoelde voorwaarden of ontzegging zijn gaan gelden alsmede, ingeval de voorwaarden tot een proeftijd zijn beperkt, de duur daarvan dan wel  
+b. de datum waarop het bevel, de berisping, de geldboete, de in het eerste lid bedoelde voorwaarden of de ontzegging zijn gaan gelden alsmede, ingeval de voorwaarden of de in het tweede lid bedoelde maatregel tot een proeftijd zijn beperkt, de duur daarvan dan wel  
 
-c. de datum waarop de schorsing is geëindigd of vanaf welke de in het eerste lid bedoelde voorwaarden of ontzegging niet langer gelden.     
+c. de datum waarop de schorsing is geëindigd of vanaf welke het bevel, de in eerste lid bedoelde voorwaarden of de in het tweede lid bedoelde maatregel niet langer gelden.     
+4.  Indien de in het tweede lid bedoelde aantekening in het register is geplaatst, geldt de in het buitenland opgelegde bevoegdheidsbeperking ook voor de beroepsuitoefening in Nederland.   
+5.  De in het eerste lid, onderdeel b tot en met h, en de in het tweede lid bedoelde aantekening wordt gedurende een bij algemene maatregel van bestuur bepaalde termijn in het register vermeld en daarbij wordt indien bekend de aard van het vergrijp vermeld dat tot de aantekening heeft geleid.   
 
 ### Artikel  10  
 
@@ -143,10 +156,18 @@ c. de datum waarop de schorsing is geëindigd of vanaf welke de in het eerste li
 
 a. hetgeen op grond van artikel 9 in het register is aangetekend en vermeld, met dien verstande dat van de aan een ingeschrevene opgelegde voorwaarden uitsluitend wordt kennisgegeven in de bij algemene maatregel van bestuur aan te geven gevallen;  
 
-b. de ter tenuitvoerlegging van een op grond van deze wet genomen maatregel verrichte doorhaling van een inschrijving, met vermelding van de grond waarop de doorhaling berust;  
+b. een doorhaling van de inschrijving 
 
-c. de inschrijving van een persoon ingeval de voorafgaande inschrijving van die persoon ter tenuitvoerlegging van een op grond van deze wet genomen maatregel is doorgehaald.     
-2.  In de openbare kennisgeving worden de naam en de woonplaats van de betrokkene vermeld. De openbare kennisgeving geschiedt op bij algemene maatregel van bestuur te regelen wijze, met dien verstande dat zij in ieder geval in de *Staatscourant* geschiedt.   
+– ter tenuitvoerlegging van een op grond van deze wet genomen maatregel;  
+
+– op grond van artikel 7, onder c, of  
+
+– op grond van artikel 7, onder e;    
+
+c. de inschrijving van een persoon ingeval op grond van onderdeel b openbaar kennis is gegeven van de doorhaling van de voorafgaande inschrijving van die persoon;  
+
+d. de ontzegging, bedoeld in artikel 48, derde lid, van het recht wederom in het register te worden ingeschreven.     
+2.  In de openbare kennisgeving worden de naam en de woonplaats van de betrokkene vermeld. De openbare kennisgeving geschiedt op bij algemene maatregel van bestuur te regelen wijze en voor de daarbij vast te stellen duur, met dien verstande dat de kennisgeving in ieder geval in de *Staatscourant* geschiedt.   
 
 ### Artikel  12  
 
@@ -155,14 +176,21 @@ c. de inschrijving van een persoon ingeval de voorafgaande inschrijving van die 
 
 a. of een persoon in een register ingeschreven staat;  
 
-b. of de inschrijving van een persoon in een register geschorst is;  
+b. of ten aanzien van een ingeschrevene een bevel, inhoudende een beperking van de bevoegdheid in het register ingeschreven staande het betrokken beroep uit te oefenen, van kracht is, met, zo dit het geval is, een omschrijving van de inhoud van het bevel;  
 
-c. of ten aanzien van een ingeschrevene een maatregel, inhoudende een gedeeltelijke ontzegging van de bevoegdheid in het register ingeschreven staande het betrokken beroep uit te oefenen, van kracht is, met, zo dit het geval is, een omschrijving van de inhoud van de maatregel;  
+c. of met betrekking tot de ingeschrevene in het register een aantekening is opgenomen inzake een berisping, met, zo dit het geval is, onder vermelding van de aard van het vergrijp dat tot de oplegging van de berisping heeft geleid;  
 
-d. in bij algemene maatregel van bestuur aan te geven gevallen: of ten aanzien van een ingeschrevene voorwaarden zijn gesteld, met, zo dit het geval is, een omschrijving van die voorwaarden en, ingeval deze tot een proeftijd zijn beperkt, een vermelding van de duur daarvan;  
+d. of met betrekking tot de ingeschrevene in het register een aantekening is opgenomen inzake een opgelegde geldboete, met, zo dit het geval is, onder vermelding van de aard van het vergrijp dat tot de oplegging van de berisping heeft geleid;  
 
-e. of ten aanzien van een verpleegkundige een vermelding als bedoeld in artikel 5, eerste lid, tweede volzin, van toepassing is.     
-3.  De verstrekking van mededelingen, bedoeld in het tweede lid, anders dan aan bestuursorganen en daaronder ressorterende diensten, geschiedt, voor zover zij schriftelijk plaats vindt, tegen betaling van een vergoeding volgens een bij algemene maatregel van bestuur vast te stellen tarief.   
+e. of de inschrijving van een persoon in een register geschorst is;  
+
+f. of ten aanzien van een ingeschrevene een maatregel, inhoudende een gedeeltelijke ontzegging van de bevoegdheid in het register ingeschreven staande het betrokken beroep uit te oefenen, van kracht is, met, zo dit het geval is, een omschrijving van de inhoud van de maatregel;  
+
+g. in bij algemene maatregel van bestuur aan te geven gevallen: of ten aanzien van een ingeschrevene voorwaarden zijn gesteld, met, zo dit het geval is, een omschrijving van die voorwaarden en, ingeval deze tot een proeftijd zijn beperkt, een vermelding van de duur daarvan;  
+
+h. of ten aanzien van een verpleegkundige een vermelding als bedoeld in artikel 5, eerste lid, tweede volzin, van toepassing is.     
+3.  Gedurende de periode dat daarvan op grond van artikel 11 openbaar kennis wordt gegeven, geldt een gelijke verplichting tot mededeling als bedoeld in het tweede lid ten aanzien van een in artikel 11, eerste lid, onderdeel b en d bedoelde doorhaling en ontzegging van het recht wederom in het register te worden ingeschreven.   
+4.  De verstrekking van mededelingen, bedoeld in het tweede lid, anders dan aan bestuursorganen en daaronder ressorterende diensten, geschiedt, voor zover zij schriftelijk plaats vindt, tegen betaling van een vergoeding volgens een bij algemene maatregel van bestuur vast te stellen tarief.   
 
 ### Artikel  13  
 
@@ -531,16 +559,15 @@ b. dat de betrokkene, in het register ingeschreven staande, zijn beroep slechts 
 
 ### Artikel  42  
 
-1.  Onverminderd het in artikel 6, onder b tot en met d, bepaalde wordt de inschrijving van een persoon op wie artikel 41 van toepassing is, geweigerd indien te zijnen aanzien een maatregel, berustende op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing, van kracht is, op grond waarvan hij zijn rechten ter zake van de uitoefening van het betrokken beroep in het land waar de beslissing gegeven is, geheel of gedeeltelijk, tijdelijk of blijvend, heeft verloren.   
-2.  Bij algemene maatregel van bestuur worden regels gesteld, waarbij wordt bepaald: 
+1.  Bij algemene maatregel van bestuur worden regels gesteld, waarbij wordt bepaald: 
 
 a. welke gegevens of bescheiden bij de aanvrage om een verklaring als bedoeld in artikel 41, eerste lid, onder b, aan Onze Minister moeten worden verstrekt of overgelegd en op welke wijze haar indiening behoort te geschieden;  
 
 b. welke bewijsstukken omtrent de toepasselijkheid van artikel 41 aan Onze Minister moeten worden overgelegd bij de aanvrage om inschrijving in het register met toepassing van dat artikel.     
-3.  Onverminderd het in artikel 7 bepaalde, wordt in gevallen waarin toepassing werd gegeven aan artikel 41, derde lid, onder a, de inschrijving van de betrokkene op het daarvoor geldende tijdstip doorgehaald. Een met toepassing van artikel 41 tot stand gekomen inschrijving wordt voorts doorgehaald ingeval ten aanzien van de betrokkene omstandigheden als bedoeld in het eerste lid inmiddels zijn ingetreden of alsnog bekend geworden.   
-4.  Bij inschrijving van een persoon in het register met toepassing van artikel 41 wordt in het register een desbetreffende aantekening geplaatst, waarbij, ingeval Onze Minister toepassing heeft gegeven aan het derde lid van dat artikel, tevens wordt omschreven hetgeen daarbij is bepaald.   
-5.  Van de totstandkoming van een inschrijving ten aanzien waarvan toepassing werd gegeven aan artikel 41, derde lid, wordt op bij algemene maatregel van bestuur te bepalen wijze kennisgegeven, met omschrijving van hetgeen daarbij werd bepaald. Van een krachtens het derde lid van het onderhavige artikel verrichte doorhaling van een inschrijving wordt eveneens op bij algemene maatregel van bestuur te bepalen wijze kennisgegeven. In kennisgevingen als bedoeld in het onderhavige lid worden de naam en de woonplaats van de betrokkene vermeld.   
-6.  Onverminderd hetgeen ingevolge artikel 12, tweede lid, met betrekking tot de ingeschrevene geldt, wordt aan een ieder die zulks verlangt, medegedeeld of een inschrijving in het register met toepassing van artikel 41 is tot stand gekomen, met, ingeval ten aanzien van de aldus tot stand gekomen inschrijving toepassing werd gegeven aan het derde lid van dat artikel, een omschrijving van hetgeen daarbij werd bepaald.   
+2.  Onverminderd het in artikel 7 bepaalde, wordt in gevallen waarin toepassing werd gegeven aan artikel 41, derde lid, onder a, de inschrijving van de betrokkene op het daarvoor geldende tijdstip doorgehaald. Een met toepassing van artikel 41 tot stand gekomen inschrijving wordt voorts doorgehaald ingeval ten aanzien van de betrokkene omstandigheden als bedoeld in artikel 7, onderdeel e inmiddels zijn ingetreden of alsnog bekend geworden.   
+3.  Bij inschrijving van een persoon in het register met toepassing van artikel 41 wordt in het register een desbetreffende aantekening geplaatst, waarbij, ingeval Onze Minister toepassing heeft gegeven aan het derde lid van dat artikel, tevens wordt omschreven hetgeen daarbij is bepaald.   
+4.  Van de totstandkoming van een inschrijving ten aanzien waarvan toepassing werd gegeven aan artikel 41, derde lid, wordt op bij algemene maatregel van bestuur te bepalen wijze kennisgegeven, met omschrijving van hetgeen daarbij werd bepaald. Van een krachtens het tweede lid van het onderhavige artikel verrichte doorhaling van een inschrijving wordt eveneens op bij algemene maatregel van bestuur te bepalen wijze kennisgegeven. In kennisgevingen als bedoeld in het onderhavige lid worden de naam en de woonplaats van de betrokkene vermeld.   
+5.  Onverminderd hetgeen ingevolge artikel 12, tweede lid, met betrekking tot de ingeschrevene geldt, wordt aan een ieder die zulks verlangt, medegedeeld of een inschrijving in het register met toepassing van artikel 41 is tot stand gekomen, met, ingeval ten aanzien van de aldus tot stand gekomen inschrijving toepassing werd gegeven aan het derde lid van dat artikel, een omschrijving van hetgeen daarbij werd bepaald.   
 
 ### Artikel  43  
 
@@ -553,7 +580,7 @@ b. het in artikel 35, eerste lid, gestelde verbod, voor zover het handelingen be
 
 a. de betrokkene dient in een der lid-Staten dan wel in een van de andere overeenkomstsluitende staten een op de bekwaamheid tot het uitoefenen van zijn beroep betrekking hebbend getuigschrift te hebben verkregen, dat krachtens artikel 41, eerste lid, onder a, is aangewezen;  
 
-b. zijn rechten ter zake van de uitoefening van zijn beroep in de lid-Staat onderscheidenlijk een andere overeenkomstsluitende staat waar hij gevestigd is mogen aan geen beperkingen krachtens een maatregel als bedoeld in artikel 42, eerste lid, onderworpen zijn;  
+b. ten aanzien van hem geen maatregel als bedoeld in artikel 6, onderdeel e, van kracht is en voor zover zijn rechten ter zake van de uitoefening van zijn beroep in de lid-Staat onderscheidenlijk een andere overeenkomstsluitende staat waar hij gevestigd is, beperkt is op grond van een in dat land gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing, hij zich houdt aan de in dat land opgelegde bevoegdheidsbeperking;  
 
 c. de betrokkene dient aan Onze Minister te hebben gemeld dat hij als beoefenaar van het desbetreffende beroep in Nederland diensten verleent en dient de volgende bescheiden te hebben overgelegd: 
 
@@ -584,7 +611,7 @@ b. aan wie Onze Minister, gelet op een door de betrokkene in het buitenland verk
 
 c. aan wie Onze Minister ten aanzien van het betrokken beroep een erkenning van beroepskwalificaties als bedoeld in de [Algemene wet erkenning EG-beroepskwalificaties](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) heeft verleend,   blijft het in artikel 34, vierde lid, gestelde verbod, voor zover het de titel betreft waarvan het voeren op grond van het derde lid van dat artikel voorbehouden is aan degenen die voldoen aan de desbetreffende krachtens artikel 34, eerste lid, gestelde eisen, buiten toepassing.   
 2.  Het eerste lid is niet van toepassing voor zover ten aanzien van de betrokkene een maatregel, berustende op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing, van kracht is, op grond waarvan hij zijn rechten ter zake van de uitoefening van het betrokken beroep in het land waar de beslissing gegeven is, geheel of gedeeltelijk, tijdelijk of blijvend, heeft verloren.   
-3.  De artikelen 41, tweede, vijfde en zevende lid, en 42, tweede lid, onder a, zijn van overeenkomstige toepassing.   
+3.  De artikelen 41, tweede, vijfde en zevende lid, en artikel 42, eerste lid, onder a, zijn van overeenkomstige toepassing.   
 4.  Voor de toepassing van artikel 96, derde lid, wordt met degene die voldoet aan de krachtens artikel 34, eerste lid, gestelde eisen gelijkgesteld degene die in het bezit is van een krachtens het eerste lid, onder a, aangewezen getuigschrift of aan wie een verklaring als bedoeld in het eerste lid, onder b, is afgegeven.   
 
 ### §  3  
@@ -1031,7 +1058,7 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 
 ### Artikel  96b  
 
-Indien tegen de verdachte van overtreding van artikel 96 ernstige bezwaren zijn gerezen en de bescherming van de volksgezondheid dat dringend vordert, kan het met de behandeling van de zaak belaste gerecht voor de behandeling ter terechtzitting, op de vordering van het openbaar ministerie, op de voordracht van de rechter-commissaris, met het gerechtelijk vooronderzoek belast, en, indien de zaak te zijner zitting wordt behandeld, mede ambtshalve, de verdachte, gehoord de Inspectie voor de Gezondheidszorg, als voorlopige maatregel bevelen zich van bepaalde handelingen te onthouden. Artikel 29, tweede en derde lid, en de [artikelen 30 tot en met 32 van de Wet op de economische delicten](../../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) zijn van overeenkomstige toepassing.  
+Indien tegen de verdachte van overtreding van artikel 96 ernstige bezwaren zijn gerezen en de bescherming van de volksgezondheid dat dringend vordert, kan het met de behandeling van de zaak belaste gerecht voor de behandeling ter terechtzitting, op de vordering van het openbaar ministerie, op de voordracht van de rechter-commissaris, met onderzoek in de zaak belast, en, indien de zaak te zijner zitting wordt behandeld, mede ambtshalve, de verdachte, gehoord de Inspectie voor de Gezondheidszorg, als voorlopige maatregel bevelen zich van bepaalde handelingen te onthouden. Artikel 29, tweede en derde lid, en de [artikelen 30 tot en met 32 van de Wet op de economische delicten](../../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) zijn van overeenkomstige toepassing.  
 
 ### Artikel  97  
 

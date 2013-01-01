@@ -3,12 +3,12 @@
 ##Erkenning van een instantie als bedoeld in artikel 11, eerste lid, onder c, van het Besluit inzamelen afvalstoffen en artikel 5, eerste lid, onder c, van de Regeling inzamelaars, vervoerders, handelaars en bemiddelaars van afvalstoffen
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op [artikel 11, eerste lid, onder c, van het Besluit inzamelen afvalstoffen](../../../../../../../AMvB/besluit/inzamelen/afvalstoffen/BWBR0016530/README.md) en [artikel 5, eerste lid, onder c, van de Regeling inzamelaars, vervoerders, handelaars en bemiddelaars van afvalstoffen](../../../../../../../ministeriele-regeling/regeling/inzamelaars/vervoerders/handelaars/en/bemiddelaars/van/etc/BWBR0016608/README.md);
+Gelet op artikel 11, eerste lid, onder c, van het Besluit inzamelen afvalstoffen en artikel 5, eerste lid, onder c, van de Regeling inzamelaars, vervoerders, handelaars en bemiddelaars van afvalstoffen;
 Besluit:    
 
 ### Artikel  1  
 
-Als instantie als bedoeld in [artikel 11, eerste lid, onder c, van het Besluit inzamelen afvalstoffen](../../../../../../../AMvB/besluit/inzamelen/afvalstoffen/BWBR0016530/README.md) en [artikel 5, eerste lid, onder c, van de Regeling inzamelaars, vervoerders, handelaars en bemiddelaars van afvalstoffen](../../../../../../../ministeriele-regeling/regeling/inzamelaars/vervoerders/handelaars/en/bemiddelaars/van/etc/BWBR0016608/README.md) is erkend de Stichting Examenbureau Beroepsvervoer.  
+Als instantie als bedoeld in artikel 11, eerste lid, onder c, van het Besluit inzamelen afvalstoffen en artikel 5, eerste lid, onder c, van de Regeling inzamelaars, vervoerders, handelaars en bemiddelaars van afvalstoffen is erkend het Centraal Bureau Rijvaardigheidsbewijzen.  
 
 ### Artikel  2  
 

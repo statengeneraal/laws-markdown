@@ -13,10 +13,6 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 Wijzigt de Wet inkomstenbelasting 2001.   
 
-### Artikel  IA  
-
-Wijzigt de Wet inkomstenbelasting 2001.   
-
 ### Artikel  II  
 
 Wijzigt de Wet op de loonbelasting 1964.   

@@ -239,7 +239,7 @@ a. personen die recht hebben op een uitkering of arbeidsondersteuning op grond v
 b. werknemers, die kunnen aantonen dat de dienstbetrekking binnen vier maanden zal eindigen en van wie naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen redelijkerwijs valt aan te nemen dat zij recht zullen hebben op een uitkering op grond van [hoofdstuk II van de Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
 
 c. personen die ingezetene zijn als bedoeld in [artikel 1:2 van de Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de leeftijd van 18 jaar nog niet hebben bereikt en in verband met ziekte of gebrek een belemmering ondervinden of hebben ondervonden bij het volgen van onderwijs.     
-2.  Het Uitvoeringsinstituut werknemersverzekering heeft tot taak het registreren van werkzoekenden en van vacatures van werkgevers en het voordragen van geschikte vacatures aan werkzoekenden en het voordragen van geschikte werkzoekenden voor vacatures. Het Uitvoeringsinstituut werknemersverzekeringen maakt in dit kader afspraken met werkgevers op basis waarvan concrete, passende arbeid kan worden aangeboden aan personen, die ten minste 52 weken onafgebroken recht op een uitkering op grond van de [Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) hebben gehad. Voor het bepalen van het tijdvak van 52 weken is [artikel 20, achtste lid, van de Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) van overeenkomstige toepassing. Het Uitvoeringsinstituut werknemersverzekeringen maakt in dit kader tevens afspraken met werkgevers op basis waarvan concrete, algemeen geaccepteerde arbeid kan worden aangeboden aan personen die recht op arbeidsondersteuning hebben op grond van de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md).   
+2.  Het Uitvoeringsinstituut werknemersverzekering heeft tot taak het registreren van werkzoekenden en van vacatures van werkgevers en het voordragen van geschikte vacatures aan werkzoekenden en het voordragen van geschikte werkzoekenden voor vacatures. Het Uitvoeringsinstituut werknemersverzekeringen maakt in dit kader afspraken met werkgevers op basis waarvan concrete, passende arbeid kan worden aangeboden aan personen, die aanspraak maken op ziekengeld op grond van de [Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md) of die ten minste 52 weken onafgebroken recht op een uitkering op grond van de [Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) hebben gehad. Voor het bepalen van het tijdvak van 52 weken is [artikel 20, achtste lid, van de Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) van overeenkomstige toepassing. Het Uitvoeringsinstituut werknemersverzekeringen maakt in dit kader tevens afspraken met werkgevers op basis waarvan concrete, algemeen geaccepteerde arbeid kan worden aangeboden aan personen die recht op arbeidsondersteuning hebben op grond van de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md).   
 3.  Het Uitvoeringsinstituut werknemersverzekeringen heeft de taak, bedoeld in het eerste lid, niet: 
 
 a. ten aanzien van personen, bedoeld in het eerste lid, indien het Uitvoeringsinstituut werknemersverzekeringen met een college van burgemeester en wethouders overeenkomen dat het college verantwoordelijk is voor het ondersteunen van die personen bij arbeidsinschakeling als bedoeld in [artikel 7, eerste lid, aanhef en onderdeel a, van de Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
@@ -447,7 +447,7 @@ d. bij de uitvoering van artikel 30, zesde lid, voor zover dit betreft de uitvoe
 
 ####Informatie over het arbeidsverleden
 
-1.  Het Uitvoeringsinstituut werknemersverzekeringen legt ten aanzien van de werknemer, bedoeld in de [Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en de [Wet inkomen naar arbeidsvermogen](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), van wie door het Uitvoeringsinstituut werknemersverzekeringen gegevens worden verwerkt op grond van deze wetten, gegevens vast waarbij is aangegeven of hij in een kalenderjaar over 52 of meer dagen loon heeft ontvangen als bedoeld in [artikel 42](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) of  [42a van de Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en [artikel 15 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).   
+1.  Het Uitvoeringsinstituut werknemersverzekeringen legt ten aanzien van de werknemer, bedoeld in de [Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en de [Wet inkomen naar arbeidsvermogen](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), van wie door het Uitvoeringsinstituut werknemersverzekeringen gegevens worden verwerkt op grond van deze wetten, gegevens vast waarbij is aangegeven of hij in een kalenderjaar over 52 of meer dagen respectievelijk over 208 of meer uren loon heeft ontvangen als bedoeld in [artikel 42](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) of  [42a van de Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en [artikel 15 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).   
 2.  Het Uitvoeringsinstituut werknemersverzekeringen informeert de werknemer op de wijze, bedoeld in artikel 33c, over deze arbeidsverledengegevens.   
 
 ### Hoofdstuk  6  
@@ -538,21 +538,10 @@ f. gegevens te verwerken om te voldoen aan verplichtingen van de Sociale verzeke
 
 ####Taken van de Inspectie Werk en Inkomen
 
-De Inspectie Werk en Inkomen is belast met: 
-
-a. het toezicht op de rechtmatigheid en doelmatigheid, waaronder begrepen doeltreffendheid, van de uitvoering van de bij of krachtens deze wet of enige andere wet aan het Inlichtingenbureau, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank opgedragen taken;  
-
-b. 
-
-1°. het toezicht op de rechtmatigheid van de uitvoering van de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) door de colleges van burgemeester en wethouders, en de doeltreffendheid van die wetten;  
-
-2°. het geven van het oordeel over de uitvoering van de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), bedoeld in [artikel 74, vierde lid, van die wet](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
-
-3°. het toezicht op de rechtmatigheid en de doeltreffendheid van de uitvoering van de [Wet sociale werkvoorziening](../../../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) door de colleges van burgemeester en wethouders en op de doeltreffendheid van die wetten.    
-
-c. het toezicht op de rechtmatigheid en doelmatigheid, waaronder begrepen doeltreffendheid, van de wijze waarop het Uitvoeringsinstituut werknemersverzekeringen, de Sociale Verzekeringsbank en de colleges van burgemeester en wethouders bij de uitvoering van de aan hen opgedragen taken samenwerken;  
-
-d. het verrichten van andere bij of krachtens een wet aan de Inspectie Werk en Inkomen opgedragen taken.    
+1.  De Inspectie Werk en Inkomen is belast met het toezicht op de rechtmatigheid en doelmatigheid, waaronder begrepen doeltreffendheid, van de uitvoering van de bij of krachtens deze wet of enige andere wet aan de Raad voor werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank opgedragen taken.   
+2.  De Inspectie Werk en Inkomen is belast met het toezicht op de rechtmatigheid en doelmatigheid, waaronder begrepen doeltreffendheid, van de wijze waarop het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank, en de colleges van burgemeester en wethouders bij de uitvoering van de aan hen opgedragen taken samenwerken.   
+3.  De Inspectie Werk en Inkomen is belast met het toezicht op de wijze waarop de colleges van burgemeester en wethouders gezamenlijk bijdragen aan het behalen van de doelen op het terrein van werk en inkomen, inclusief de sociale werkvoorziening.   
+4.  Bij of krachtens een wet kunnen aan de Inspectie Werk en Inkomen andere taken worden opgedragen.   
 
 ### Artikel  38  
 
@@ -564,10 +553,11 @@ d. het verrichten van andere bij of krachtens een wet aan de Inspectie Werk en I
 
 ### Artikel  39  
 
-####Andere taken
+####Andere taken en werkzaamheden
 
 1.  De Inspectie Werk en Inkomen is met betrekking tot de haar bij of krachtens de wet opgedragen taken bevoegd tot het verrichten van niet in het jaarplan opgenomen of aanvullende werkzaamheden, nadat daarover met Onze Minister is overlegd.   
-2.  Indien Onze Minister overweegt de Inspectie Werk en Inkomen toestemming voor werkzaamheden als bedoeld in het eerste lid te onthouden dan wel aan de Inspectie Werk en Inkomen andere dan de in dit hoofdstuk genoemde of in het jaarplan opgenomen taken op te dragen, geeft hij van dit voornemen kennis aan de beide kamers der Staten-Generaal en geeft hij daaraan niet eerder uitvoering dan vier weken na die kennisgeving.   
+2.  Onze Minister stelt vast met welke andere dan de in artikel 37 bedoelde taken en werkzaamheden de Inspectie Werk en Inkomen wordt belast. Deze taken en werkzaamheden worden opgenomen in het jaarplan, bedoeld in artikel 38, eerste lid.   
+3.  Indien Onze Minister met de Inspectie Werk en Inkomen geen overeenstemming bereikt over werkzaamheden als bedoeld in het eerste lid dan wel overweegt aan de Inspectie Werk en Inkomen andere dan de in dit hoofdstuk genoemde of in het jaarplan opgenomen taken op te dragen, stelt hij de beide kamers der Staten-Generaal hiervan in kennis.   
 
 ### Artikel  40  
 
@@ -580,14 +570,14 @@ d. het verrichten van andere bij of krachtens een wet aan de Inspectie Werk en I
 
 ####Toezichtbaarheidstoets
 
-De Inspectie Werk en Inkomen beoordeelt op verzoek van Onze Minister de mogelijkheden van het houden van toezicht op de rechtmatigheid en doelmatigheid van de uitvoering van beleidsvoornemens en voorgenomen wettelijke voorschriften door de in artikel 37 genoemde bestuursorganen en rechtspersonen, alsmede beleidsvoornemens en voorgenomen wettelijke voorschriften met betrekking tot andere taken, als bedoeld in artikel 37, onderdeel d.  
+De Inspectie Werk en Inkomen beoordeelt op verzoek van Onze Minister de mogelijkheden van het houden van toezicht op de rechtmatigheid en doelmatigheid van de uitvoering van beleidsvoornemens en voorgenomen wettelijke voorschriften door de in artikel 37 genoemde bestuursorganen en rechtspersonen.  
 
 ### Artikel  42  
 
 ####Gegevensverstrekking aan de Inspectie Werk en Inkomen
 
-1.  Het Inlichtingenbureau, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank verstrekken op verzoek, kosteloos, aan de Inspectie Werk en Inkomen alle gegevens en inlichtingen die voor de uitoefening van haar taak noodzakelijk zijn.   
-2.  De in het eerste lid genoemde rechtspersonen verlenen de Inspectie Werk en Inkomen op verzoek toegang tot en inzage in gegevens en bescheiden voor zover dat voor de uitoefening van haar taak noodzakelijk is.   
+1.  De Raad voor werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de colleges van burgemeester en wethouders verstrekken op verzoek, kosteloos, aan de Inspectie Werk en Inkomen alle gegevens en inlichtingen die voor de uitoefening van haar taak noodzakelijk zijn.   
+2.  De in het eerste lid genoemde rechtspersonen en bestuursorganen verlenen de Inspectie Werk en Inkomen op verzoek toegang tot en inzage in gegevens en bescheiden voor zover dat voor de uitoefening van haar taak noodzakelijk is.   
 3.  De Inspectie Werk en Inkomen bepaalt de termijn waarbinnen en de wijze waarop aan de in het eerste en tweede lid bedoelde verplichtingen wordt voldaan.   
 4.  Indien naar het oordeel van de Inspectie Werk en Inkomen gerede twijfel bestaat omtrent de volledigheid of juistheid van de door het Uitvoeringsinstituut werknemersverzekeringen verstrekte stukken als bedoeld in artikel 49, voor zover dit betreft de rechtmatige en doelmatige besteding van door dat instituut ter beschikking gestelde financiële middelen ten behoeve van de inschakeling van werkzoekenden, uitkeringsgerechtigden en werknemers in de arbeid, kan zij het Uitvoeringsinstituut werknemersverzekeringen opdragen bij de natuurlijke of rechtspersoon die deze middelen heeft besteed, ter verificatie een nader onderzoek te doen instellen door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) die bij de verstrekte informatie niet betrokken is geweest. De Inspectie Werk en Inkomen bepaalt welke aspecten van de verstrekte informatie geverifieerd dienen te worden en de termijn waarbinnen het onderzoek wordt verricht.   
 
@@ -595,7 +585,7 @@ De Inspectie Werk en Inkomen beoordeelt op verzoek van Onze Minister de mogelijk
 
 ####Kennisgeving besluiten
 
-Onze Minister kan regels stellen waarin besluiten van het Inlichtingenbureau, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank worden omschreven die overeenkomstig die regels, binnen de in die regels gestelde termijnen, ter kennis van de Inspectie Werk en Inkomen worden gebracht.  
+Onze Minister kan regels stellen waarin besluiten van het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank worden omschreven die overeenkomstig die regels, binnen de in die regels gestelde termijnen, ter kennis van de Inspectie Werk en Inkomen worden gebracht.  
 
 ### Artikel  44  
 
@@ -692,7 +682,7 @@ c. het bepaalde bij en krachtens de [artikelen 15](../../../../../../../../wet/w
 
 ####Financiering uitvoering [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) door de Sociale verzekeringsbank
 
-1.  Onze minister verstrekt jaarlijks ten laste van ’s Rijks kas aan de Sociale verzekeringsbank een uitkering voor de kosten van de door haar toegekende algemene bijstand in de vorm van een aanvullende inkomensvoorziening ouderen, bedoeld in [artikel 47a, eerste lid, van de Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en voor de daarbij verschuldigde loonbelasting, premies voor de volksverzekeringen en de vergoedingen, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), van inkomensafhankelijke bijdragen.   
+1.  Onze minister verstrekt jaarlijks ten laste van ’s Rijks kas aan de Sociale verzekeringsbank een uitkering voor de kosten van de door haar toegekende algemene bijstand in de vorm van een aanvullende inkomensvoorziening ouderen, bedoeld in [artikel 47a, eerste lid, van de Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en voor de daarbij verschuldigde loonbelasting, premies voor de volksverzekeringen en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
 2.  De Sociale verzekeringsbank beheert en administreert de uitkering afzonderlijk.   
 3.  Dit hoofdstuk is van toepassing voor begroting, beheer en verantwoording door de Sociale verzekeringsbank van de uitvoering van [paragraaf 5.4 van de Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).   
 4.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld voor de berekening van het bedrag van de uitkering en de daarvoor noodzakelijke gegevens.   
@@ -855,9 +845,9 @@ Het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank 
 
 ### Artikel  77  
 
-####Nadere regels
+####Nadere regels gegevensverstrekking aan Minister en IWI
 
-Bij ministeriële regeling worden nadere regels gesteld omtrent de verstrekking van inlichtingen en het verlenen van inzage in gegevens en bescheiden door het Inlichtingenbureau, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank aan Onze Minister en aan de Inspectie Werk en Inkomen op grond van deze wet en kunnen regels worden gesteld omtrent de inrichting van de administratie van de genoemde rechtspersonen.  
+Bij ministeriële regeling worden nadere regels gesteld omtrent de verstrekking van inlichtingen en het verlenen van inzage in gegevens en bescheiden door het Uitvoeringsinstituut werknemersverzekeringen, de Raad voor werk en inkomen, de colleges van burgemeester en wethouders en de Sociale verzekeringsbank aan Onze Minister en aan de Inspectie werk en Inkomen op grond van deze wet en kunnen regels worden gesteld omtrent de inrichting van de administraties.  
 
 ### Hoofdstuk  10  
 
@@ -930,12 +920,6 @@ b. binnen deze vijf jaar een voorstel van wet is ingediend bij de Staten-Generaa
 ####Afwijkende beslistermijn in bezwaarschriftprocedure
 
 Indien bezwaar wordt gemaakt tegen een besluit waaraan een medische of arbeidskundige beoordeling ten grondslag ligt, beslist het Uitvoeringsinstituut werknemersverzekeringen binnen zeventien weken of, indien het advies vraagt aan een deskundige die niet onder zijn verantwoordelijkheid werkzaam is, binnen een en twintig weken, gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.  
-
-### Artikel  83a  
-
-####Afzien van horen in bezwaarschriftprocedure
-
-In afwijking van [artikel 7:3 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan van het horen van een belanghebbende worden afgezien indien de belanghebbende niet binnen een door het Uitvoeringsinstituut werknemersverzekeringen gestelde redelijke termijn, verklaart dat hij gebruik wil maken van het recht te worden gehoord.  
 
 ### Artikel  83c  
 

@@ -62,7 +62,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 – *WGA-uitkering*: de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten, bedoeld in hoofdstuk 7;  
 
-– *zelfstandige*: de persoon, jonger dan 65 jaar: 
+– *zelfstandige:* de persoon die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt: 
 
 1°. die in Nederland woont en die belastbare winst uit onderneming als bedoeld in [paragraaf 3.2.1 van de Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) vermeerderd met de ondernemersaftrek, bedoeld in [paragraaf 3.2.4 van die wet](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en de MKB-winstvrijstelling, bedoeld in [paragraaf 3.2.5 van die wet](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), geniet, tenzij hij de onderneming niet voor eigen rekening feitelijk drijft;  
 
@@ -313,7 +313,7 @@ e. de persoon, wiens arbeidsverhouding op grond van [artikel 6, eerste lid, onde
 f. de persoon, die op grond van [artikel 7 van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md) als werknemer wordt beschouwd en tevens als zelfstandige werkzaamheden gaat verrichten of als echtgenoot van die zelfstandige meewerkt of gaat meewerken, indien gedurende de drie jaren, onmiddellijk voorafgaand aan de dag van aanvang van zijn vrijwillige verzekering, onafgebroken, al dan niet in Nederland, op grond van een wettelijke regeling een voorziening tegen geldelijke gevolgen van volledig duurzame arbeidsongeschiktheid of verminderde arbeidsgeschiktheid op hem van toepassing is geweest;  
 
 g. de persoon, wiens recht op een uitkering krachtens deze wet is beëindigd.     
-2.  De in het eerste lid bedoelde verplichting bestaat eveneens ten aanzien van de persoon, jonger dan 65 jaar, die op grond van [artikel 3, tweede of vijfde lid, van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md), niet als werknemer wordt beschouwd, en 
+2.  De in het eerste lid bedoelde verplichting bestaat eveneens ten aanzien van de persoon die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt en die op grond van [artikel 3, tweede of vijfde lid, van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md), niet als werknemer wordt beschouwd, en 
 
 a. wiens verplichte verzekering is geëindigd en die buiten Nederland woont, aldaar direct aansluitend op de beëindiging van de verplichte verzekering een dienstbetrekking vervult voor de duur van maximaal vijf jaar en wiens werkgever binnen Nederland woont of gevestigd is;  
 
@@ -453,8 +453,12 @@ b. perioden die niet al op grond van onderdeel a meetellen maar waarin de verzek
 
 2°. direct voorafgaan aan en aansluiten op een periode waarin uitkering in verband met zwangerschap of bevalling op grond van [artikel 3:7, eerste lid](../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), [3:8](../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of [3:10, eerste lid, van de Wet arbeid en zorg](../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) wordt genoten, tenzij de ongeschiktheid voorafgaande aan en de ongeschiktheid aansluitende op die periode redelijkerwijs niet geacht kunnen worden voort te vloeien uit dezelfde oorzaak.       
 4.  Met recht op ziekengeld als bedoeld in het derde lid, wordt gelijkgesteld de situatie dat aan een verzekerde geen ziekengeld wordt betaald als gevolg van de toepassing van de [artikelen 19a](../../../../../../../../wet/ziektewet/BWBR0001888/README.md) en [19b van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md) en de daarop berustende bepalingen.   
-5.  Voor het bepalen van de wachttijd worden niet in aanmerking genomen perioden gedurende welke een uitkering wordt genoten als bedoeld in het derde lid, onderdeel a, onder 2°.   
-6.  Op aanvraag van de verzekerde stelt het UWV, in afwijking van het eerste lid, een verkorte wachttijd vast indien de verzekerde volledig en duurzaam arbeidsongeschikt is als bedoeld in artikel 4, tweede lid, en bij de aanvraag artikel 66 in acht is genomen. Een verkorte wachttijd bedraagt ten minste 13 weken en ten hoogste 78 weken. Het einde van een verkorte wachttijd wordt niet eerder vastgesteld dan tien weken na de dag waarop de aanvraag daartoe is ingediend. Dit lid is niet van toepassing op de verzekerde aan wie ziekengeld als bedoeld in [artikel 29, tweede lid, van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md) wordt uitgekeerd en die geen recht heeft op loon op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) of op bezoldiging of hetgeen daarmee overeenkomt als bedoeld in [artikel 76a van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md).   
+5.  Voor het bepalen van de wachttijd worden niet in aanmerking genomen perioden gedurende welke: 
+
+a. een uitkering wordt genoten als bedoeld in het derde lid, onderdeel a, onder 2°;  
+
+b. geen recht op ziekengeld bestond op grond van [artikel 19aa, eerste lid, van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md).     
+6.  Op aanvraag van de verzekerde stelt het UWV, in afwijking van het eerste lid, een verkorte wachttijd vast indien de verzekerde volledig en duurzaam arbeidsongeschikt is als bedoeld in artikel 4, tweede lid, en bij de aanvraag artikel 66 in acht is genomen. Een verkorte wachttijd bedraagt ten minste 13 weken en ten hoogste 78 weken. Het einde van een verkorte wachttijd wordt niet eerder vastgesteld dan tien weken na de dag waarop de aanvraag daartoe is ingediend.   
 
 ### Artikel  24  
 
@@ -675,7 +679,7 @@ b. betrekking heeft op door de werkgever gemaakte kosten ter vervanging van de b
 
 ####Proefplaatsing
 
-1.  Het UWV en de eigenrisicodrager kunnen, in het kader van de bevordering van de inschakeling in de arbeid, toestemming verlenen aan de gedeeltelijk arbeidsgeschikte die recht heeft op een uitkering op grond van deze wet om op een proefplaats bij een werkgever gedurende maximaal drie maanden onbeloonde werkzaamheden te verrichten.   
+1.  Het UWV en de eigenrisicodrager kunnen, in het kader van de bevordering van de inschakeling in de arbeid, toestemming verlenen aan de gedeeltelijk arbeidsgeschikte die recht heeft op een uitkering op grond van deze wet om op een proefplaats bij een werkgever gedurende maximaal zes maanden onbeloonde werkzaamheden te verrichten.   
 2.  De onbeloonde werkzaamheden op een proefplaats zijn: 
 
 a. werkzaamheden, waartoe de gedeeltelijk arbeidsgeschikte met zijn krachten en bekwaamheden in staat is;  
@@ -775,7 +779,7 @@ e. het zich onttrekken aan de tenuitvoerlegging van een vrijheidsstraf of vrijhe
 
 f. het niet in Nederland wonen;  
 
-g. het bereiken of bereikt hebben van de leeftijd van 65 jaar;  
+g. het bereiken of bereikt hebben van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
 
 h. overlijden van de verzekerde.    
 
@@ -1140,6 +1144,7 @@ De aanvraag voor een uitkering op grond van deze wet gaat vergezeld van een reï
 4.  Een aanvraag voor een verkorte wachttijd gaat vergezeld van de verklaring, bedoeld in het derde lid.   
 5.  Indien de aanvraag voor een verkorte wachttijd niet vergezeld gaat van een verklaring als bedoeld in het derde lid, wordt de aanvraag niet in behandeling genomen.   
 6.  Artikel 65 is niet van toepassing op een aanvraag voor een verkorte wachttijd.   
+7.  Het derde, vierde en vijfde lid zijn niet van toepassing op de verzekerde aan wie ziekengeld als bedoeld in [artikel 29, tweede lid, van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md) wordt uitgekeerd en die geen recht heeft op loon op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) of op bezoldiging of hetgeen daarmee overeenkomt als bedoeld in [artikel 76a van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md).   
 
 ### §  8.2  
 
@@ -1198,7 +1203,7 @@ Voorzover het betreft het in ontvangst nemen van een uitkering op grond van deze
 ####Betaling door UWV bij meerdere werkgevers
 
 1.  Indien de persoon die recht heeft op een uitkering op grond van deze wet bij aanvang van de wachttijd meer dan een werkgever heeft, wordt de uitkering betaald door het UWV, ook indien een of meer werkgevers eigenrisicodrager zijn.   
-2.  In de situatie, bedoeld in het eerste lid, verhaalt het UWV op de eigenrisicodrager, naar rato van de loonsom de door hem verschuldigde uitkering op grond van deze wet, alsmede de op grond van enige wet over deze uitkering verschuldigde premies die niet op deze uitkering in mindering kunnen worden gebracht en de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), over deze uitkering.   
+2.  In de situatie, bedoeld in het eerste lid, verhaalt het UWV op de eigenrisicodrager, naar rato van de loonsom de door hem verschuldigde uitkering op grond van deze wet, alsmede de op grond van enige wet over deze uitkering verschuldigde premies die niet op deze uitkering in mindering kunnen worden gebracht en de verschuldigde inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), over deze uitkering.   
 3.  De uitkering op grond van deze wet wordt niet verhaald op de eigenrisicodrager, indien de persoon die recht heeft op die uitkering met behoud van hetzelfde loon bij die werkgever arbeid is blijven verrichten.   
 
 ### Artikel  73  
@@ -1249,7 +1254,7 @@ c. anderszins de uitkering ten onrechte of tot een te hoog bedrag is vastgesteld
 
 ####Terugvordering
 
-1.  Een uitkering die op grond van deze wet onverschuldigd is betaald en hetgeen als gevolg van een beschikking als bedoeld in artikel 76 door het UWV onverschuldigd is betaald of verstrekt wordt door het UWV teruggevorderd.   
+1.  Een uitkering die op grond van deze wet alsmede hetgeen anderszins onverschuldigd is betaald en hetgeen als gevolg van een beschikking als bedoeld in artikel 76 door het UWV onverschuldigd is betaald of verstrekt wordt door het UWV teruggevorderd.   
 2.  In afwijking van het eerste lid kan het UWV besluiten van terugvordering of van verdere terugvordering af te zien, indien degene van wie wordt teruggevorderd: 
 
 a. gedurende vijf jaar volledig aan zijn betalingsverplichtingen heeft voldaan;  
@@ -1259,14 +1264,15 @@ b. gedurende vijf jaar niet volledig aan zijn betalingsverplichtingen heeft vold
 c. gedurende vijf jaar geen betalingen heeft verricht en niet aannemelijk is dat hij deze op enig moment zal gaan verrichten; of  
 
 d. een bedrag, overeenkomend met ten minste 50% van de restsom in één keer aflost.     
-3.  De in het tweede lid, onderdelen a en b, genoemde termijn is drie jaar indien: 
+3.  De in het tweede lid, onderdelen a, b en c, genoemde termijn is tien jaar indien de terugvordering het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 27, eerste lid.   
+4.  De in het tweede lid, onderdelen a en b, genoemde termijn is drie jaar indien: 
 
 a. het gemiddeld inkomen van degene van wie wordt teruggevorderd in die periode de beslagvrije voet, bedoeld in de [artikelen 475c](../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [475d van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) niet te boven is gegaan; en  
 
 b. de terugvordering niet het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 27, eerste lid.     
-4.  Indien daarvoor dringende redenen aanwezig zijn kan het UWV besluiten geheel of gedeeltelijk van terugvordering af te zien.   
-5.  Degene van wie wordt teruggevorderd is verplicht desgevraagd aan het UWV de inlichtingen te verstrekken die voor de terugvordering van belang zijn.   
-6.  In afwijking van het eerste lid kan het UWV, onder bij ministeriële regeling te stellen voorwaarden, besluiten van terugvordering af te zien indien het terug te vorderen bedrag een bij ministeriële regeling vast te stellen bedrag niet te boven gaat.   
+5.  Indien daarvoor dringende redenen aanwezig zijn kan het UWV besluiten geheel of gedeeltelijk van terugvordering af te zien.   
+6.  Degene van wie wordt teruggevorderd is verplicht desgevraagd aan het UWV de inlichtingen te verstrekken die voor de terugvordering van belang zijn.   
+7.  In afwijking van het eerste lid kan het UWV, onder bij ministeriële regeling te stellen voorwaarden, besluiten van terugvordering af te zien indien het terug te vorderen bedrag een bij ministeriële regeling vast te stellen bedrag niet te boven gaat.   
 
 ### Artikel  78  
 
@@ -1346,15 +1352,15 @@ De voorzieningen, bedoeld in de artikelen 34a, eerste lid, en 35, de verhoging, 
 ####Betaling bij eigenrisicodragen
 
 1.  De eigenrisicodrager is bevoegd, met inachtneming van artikel 72, de door het UWV toegekende WGA-uitkering namens het UWV te betalen aan de verzekerde, bedoeld in artikel 82, eerste lid.   
-2.  De door de eigenrisicodrager op grond van het eerste lid aan de verzekerde betaalde loonaanvullingsuitkering, bedoeld in hoofdstuk 7, en vervolguitkering, bedoeld in artikel 62, vijfde lid, voor zover die uitkeringen meer bedragen dan hetgeen berekend is op grond van het eerste en vierde lid van dat artikel, alsmede de op grond van enige wet hierover verschuldigde premies die daarop niet in mindering kunnen worden gebracht en de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), over deze beide uitkeringen, kunnen door hem op het UWV worden verhaald. Met betrekking tot de verzekerde, bedoeld in artikel 60, derde lid, bedraagt het bedrag van de loonaanvullingsuitkering dat niet op het UWV kan worden verhaald, in afwijking van de eerste zin, 70% van het minimumloon of het voor de verzekerde geldende dagloon indien dat lager is dan 70% van het minimumloon vermeerderd met de premies die op grond van enige wet daarover verschuldigd zouden zijn en die daarop niet in mindering kunnen worden gebracht en de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), over deze uitkering.   
-3.  Indien de eigenrisicodrager de uitkering niet betaalt, betaalt het UWV deze uitkering en verhaalt het UWV de uitkering, alsmede de op grond van enige wet over deze uitkering verschuldigde premies die niet op deze uitkering in mindering kunnen worden gebracht en de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), over deze uitkering, op de eigenrisicodrager. Op de eigenrisicodrager wordt evenwel niet verhaald hetgeen deze, als hij de uitkering wel had betaald, op grond van het tweede lid op het UWV had kunnen verhalen.   
+2.  De door de eigenrisicodrager op grond van het eerste lid aan de verzekerde betaalde loonaanvullingsuitkering, bedoeld in hoofdstuk 7, en vervolguitkering, bedoeld in artikel 62, vijfde lid, voor zover die uitkeringen meer bedragen dan hetgeen berekend is op grond van het eerste en vierde lid van dat artikel, alsmede de op grond van enige wet hierover verschuldigde premies die daarop niet in mindering kunnen worden gebracht en de verschuldigde inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), over deze beide uitkeringen, kunnen door hem op het UWV worden verhaald. Met betrekking tot de verzekerde, bedoeld in artikel 60, derde lid, bedraagt het bedrag van de loonaanvullingsuitkering dat niet op het UWV kan worden verhaald, in afwijking van de eerste zin, 70% van het minimumloon of het voor de verzekerde geldende dagloon indien dat lager is dan 70% van het minimumloon vermeerderd met de premies die op grond van enige wet daarover verschuldigd zouden zijn en die daarop niet in mindering kunnen worden gebracht en de verschuldigde inkomensafhankelijke bijdrage, bedoeld in artikel 42 van de Zorgverzekeringswet, over deze uitkering.   
+3.  Indien de eigenrisicodrager de uitkering niet betaalt, betaalt het UWV deze uitkering en verhaalt het UWV de uitkering, alsmede de op grond van enige wet over deze uitkering verschuldigde premies die niet op deze uitkering in mindering kunnen worden gebracht en de verschuldigde inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), over deze uitkering, op de eigenrisicodrager. Op de eigenrisicodrager wordt evenwel niet verhaald hetgeen deze, als hij de uitkering wel had betaald, op grond van het tweede lid op het UWV had kunnen verhalen.   
 
 ### Artikel  84  
 
 ####Afbakening eigenrisico
 
 1.  De eigenrisicodrager draagt vanaf het moment dat hij eigenrisicodrager wordt overeenkomstig artikel 82 het risico van de betaling van de WGA-uitkering aan de verzekerde die op de eerste dag van de bij die uitkering in acht genomen wachttijd tot hem in dienstbetrekking stond, ook als die wachttijd is ingegaan vóór de dag waarop deze werkgever eigenriscodrager werd.   
-2.  Indien het eigenrisicodragen eindigt blijft de werkgever het risico, bedoeld in artikel 82, eerste lid, dragen, voorzover de eerste dag van ongeschiktheid tot werken wegens ziekte is gelegen voor het einde van het eigenrisicodragen. Indien de eigenrisicodrager in staat van faillissement is verklaard, of indien ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel indien hij ophoudt werkgever te zijn, betaalt het UWV de WGA-uitkering en verhaalt het deze uitkering, alsmede de op grond van enige wet over deze uitkering verschuldigde premies die niet op deze uitkering in mindering kunnen worden gebracht en de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), over deze uitkering, voorzover deze is betaald over de periode, bedoeld in artikel 82, op de bank of verzekeraar, bedoeld in [artikel 40, tweede lid van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).   
+2.  Indien het eigenrisicodragen eindigt blijft de werkgever het risico, bedoeld in artikel 82, eerste lid, dragen, voorzover de eerste dag van ongeschiktheid tot werken wegens ziekte is gelegen voor het einde van het eigenrisicodragen. Indien de eigenrisicodrager in staat van faillissement is verklaard, of indien ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel indien hij ophoudt werkgever te zijn, betaalt het UWV de WGA-uitkering en verhaalt het deze uitkering, alsmede de op grond van enige wet over deze uitkering verschuldigde premies die niet op deze uitkering in mindering kunnen worden gebracht en de verschuldigde inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), over deze uitkering, voorzover deze is betaald over de periode, bedoeld in artikel 82, op de bank of verzekeraar, bedoeld in [artikel 40, tweede lid van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).   
 3.  In geval van overgang van een onderneming in de zin van [artikel 662 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), alsmede in geval van een dergelijke overgang bij faillissement, wordt het risico van de betaling van de WGA-uitkering aan de verzekerde, die op de eerste dag van de bij die uitkering in acht genomen wachttijd in dienstbetrekking stond tot de werkgever die de onderneming heeft overgedragen, in afwijking van het tweede lid gedragen door de werkgever die de onderneming verkrijgt indien: 
 
 a. de werkgever die de onderneming overdraagt geen eigenrisicodrager is en de werkgever die de onderneming verkrijgt eigenrisicodrager is of wordt;  
@@ -1362,7 +1368,7 @@ a. de werkgever die de onderneming overdraagt geen eigenrisicodrager is en de we
 b. de werkgever die de onderneming overdraagt eigenrisicodrager is; of  
 
 c. de werkgever die de onderneming overdraagt een werkgever is wiens eigenrisicodragen is beëindigd als bedoeld in het tweede lid.     
-4.  Indien in de in het derde lid, onderdeel a, bedoelde situatie slechts een deel van de onderneming overgaat, vindt het derde lid, onderdeel a, toepassing naar rato van het deel van de loonsom dat het overgegane deel van de onderneming deel uitmaakte van de gehele onderneming in het kalenderjaar voorafgaande aan dat van overgang, doch berust de betaling van de uitkering bij het UWV. Het UWV verhaalt op de eigenrisicodrager de door hem op grond van de eerste zin verschuldigde uitkering, alsmede de op grond van enige wet over deze uitkering verschuldigde premies die niet op deze uitkering in mindering kunnen worden gebracht en de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), over deze uitkering.   
+4.  Indien in de in het derde lid, onderdeel a, bedoelde situatie slechts een deel van de onderneming overgaat, vindt het derde lid, onderdeel a, toepassing naar rato van het deel van de loonsom dat het overgegane deel van de onderneming deel uitmaakte van de gehele onderneming in het kalenderjaar voorafgaande aan dat van overgang, doch berust de betaling van de uitkering bij het UWV. Het UWV verhaalt op de eigenrisicodrager de door hem op grond van de eerste zin verschuldigde uitkering, alsmede de op grond van enige wet over deze uitkering verschuldigde premies die niet op deze uitkering in mindering kunnen worden gebracht en de verschuldigde inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), over deze uitkering.   
 5.  Indien in de in het derde lid, onderdeel b of c, bedoelde situatie slechts een deel van de onderneming overgaat, blijft het risico van de betaling van de uitkering berusten bij de werkgever die een deel van de onderneming overdraagt.   
 6.  Voor de toepassing van het eerste lid en het tweede lid, eerste zin, draagt de eigenrisicodrager het risico gedurende de periode die op grond van artikel 82, eerste lid, geldt op de dag waarop het recht op uitkering is ontstaan.   
 7.  In de situatie, bedoeld in het tweede lid, tweede volzin, verhaalt het UWV de kosten die rechtstreeks verband houden met de uitvoering van [artikel 30a, eerste lid, juncto derde lid, onderdeel c, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) op de werkgever, bedoeld in het tweede lid, tweede volzin, of de bank of verzekeraar, bedoeld in [artikel 40, tweede lid, van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md). Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de soort en de omvang van de kosten, bedoeld in de eerste zin.   
@@ -1434,19 +1440,24 @@ b. de verzekerde, bedoeld in artikel 82, de verplichting, bedoeld in artikel 27,
 
 ### Artikel  91  
 
-####Bestuurlijke boete bij niet-nakoming inlichtingenverplichting
+####Boete bij niet-nakoming inlichtingenverplichting
 
-1.  Het UWV legt een bestuurlijke boete op van ten hoogste € 2 269 ter zake van het niet of niet behoorlijk nakomen door de verzekerde of zijn wettelijke vertegenwoordiger of de werkgever of de persoon, bedoeld in artikel 27, achtste lid, van de verplichting, bedoeld in artikel 27, eerste of achtste lid.   
-2.  Het UWV kan afzien van het opleggen van een bestuurlijke boete als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet of niet behoorlijk nakomen door de verzekerde of zijn wettelijk vertegenwoordiger van de verplichting, bedoeld in artikel 27, eerste lid, indien dit niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van uitkering, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de werknemer een zodanige waarschuwing is gegeven.   
-3.  Het UWV kan afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende redenen aanwezig zijn.   
-4.  De persoon aan wie een bestuurlijke boete is opgelegd is verplicht desgevraagd aan het UWV de inlichtingen te verstrekken die voor de tenuitvoerlegging van de boete van belang zijn.   
-5.  Bij algemene maatregel van bestuur worden nadere regels gesteld over de hoogte van de bestuurlijke boete.   
+1.  Het UWV legt een bestuurlijke boete op van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door de verzekerde of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in artikel 27, eerste lid. De bestuurlijke boete is niet lager dan de boete die op grond van het derde lid zou worden opgelegd indien er geen sprake was van een benadelingsbedrag.   
+2.  In dit artikel wordt onder benadelingsbedrag verstaan het brutobedrag dat als gevolg van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 27, eerste lid, ten onrechte of tot een te hoog bedrag aan uitkering is ontvangen.   
+3.  Indien het niet of niet behoorlijk nakomen door de verzekerde of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in artikel 27, eerste lid, niet heeft geleid tot een benadelingsbedrag, of indien een werkgever of een persoon als bedoeld in artikel 27, achtste lid, de verplichtingen op grond van artikel 27, achtste lid, niet of niet behoorlijk nakomt, legt het UWV een bestuurlijke boete op van ten hoogste het bedrag van de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+4.  Het UWV kan afzien van het opleggen van een bestuurlijke boete als bedoeld in het derde lid en volstaan met het geven van een schriftelijke waarschuwing wegens het niet of niet behoorlijk nakomen door de verzekerde of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in artikel 27, eerste lid, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan hem een zodanige waarschuwing is gegeven.   
+5.  Het UWV legt een bestuurlijke boete op wegens het niet of niet behoorlijk nakomen door de verzekerde of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in artikel 27, eerste lid, als gevolg waarvan ten onrechte of tot een te hoog bedrag aan uitkering is ontvangen, van ten hoogste 150 procent van het benadelingsbedrag indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van het begaan van de overtreding een eerdere bestuurlijke boete of strafrechtelijke sanctie is opgelegd wegens een eerdere overtreding, bestaande uit eenzelfde gedraging, die onherroepelijk is geworden.   
+6.  Onder eenzelfde gedraging als bedoeld in het vijfde lid, wordt verstaan het niet of niet behoorlijk nakomen van de verplichting, bedoeld in de artikelen 27, eerste lid, van deze wet, [25 van de Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [12 van de Toeslagenwet](../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md), [12, eerste lid, van de Wet inkomensvoorziening oudere werklozen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), [80 van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), of [31, eerste lid](../../../../../../../../wet/ziektewet/BWBR0001888/README.md), of [49 van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md), als gevolg waarvan ten onrechte of tot een te hoog bedrag aan uitkering, ziekengeld of toeslag is verleend.   
+7.  In afwijking van het vijfde lid is het in dat lid genoemde tijdvak van vijf jaar tien jaar indien wegens de eerdere overtreding, bedoeld in het vijfde lid, de verzekerde of zijn wettelijke vertegenwoordiger is gestraft met een onvoorwaardelijke gevangenisstraf.   
+8.  Het UWV kan: 
 
-### Artikel  93  
+a. de bestuurlijke boete verlagen indien sprake is van verminderde verwijtbaarheid;  
 
-####Nadere regels tenuitvoerlegging bestuurlijke boete
-
-Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van tenuitvoerlegging van de beschikking waarbij de bestuurlijke boete is opgelegd.  
+b. afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende redenen aanwezig zijn.     
+9.  Degene aan wie een bestuurlijke boete is opgelegd, is verplicht desgevraagd aan het UWV de inlichtingen te verstrekken die voor de tenuitvoerlegging van de bestuurlijke boete van belang zijn.   
+10.  Bij algemene maatregel van bestuur worden nadere regels gesteld over de hoogte van de bestuurlijke boete.   
+11.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van tenuitvoerlegging van de beschikking waarbij de bestuurlijke boete is opgelegd.   
+12.  In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechter in beroep of hoger beroep het bedrag waarop de bestuurlijke boete is vastgesteld ook ten nadele van de verzekerde of zijn wettelijke vertegenwoordiger wijzigen.   
 
 ### Artikel  96  
 
@@ -1455,13 +1466,23 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wi
 1.  Het UWV verrekent de bestuurlijke boete met een uitkering op grond van deze wet, de [Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), de [Wet arbeid en zorg](../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of een toeslag op grond van de [Toeslagenwet](../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md), die de persoon aan wie een bestuurlijke boete is opgelegd ontvangt.   
 2.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het UWV indien de persoon aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de [Algemene Ouderdomswet](../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [Algemene nabestaandenwet](../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md).   
 3.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het UWV. Indien het UWV gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan de persoon aan wie de boete is opgelegd.   
-4.  Zolang de verzekerde of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in artikel 91, vierde lid, niet of niet behoorlijk nakomt: 
+4.  Zolang de verzekerde of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in artikel 91, negende lid, niet of niet behoorlijk nakomt: 
 
 a. is het UWV in afwijking van [artikel 4.93, vierde lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bevoegd tot verrekening van de bestuurlijke boete voor zover beslag op de vordering van de schuldeiser nietig zou zijn;  
 
 b. geldt de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), in afwijking van [artikel 4:116 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), niet bij de invordering van een bestuurlijke boete bij dwangbevel.     
 
 ### Artikel  97  
+
+####Verrekening bestuurlijke boete bij recidive
+
+1.  Bij de verrekening, bedoeld in artikel 96, eerste lid, wordt de bestuurlijke boete, bedoeld in artikel 91, vijfde lid, door het UWV, in afwijking van [artikel 4:93, vierde lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), verrekend gedurende een tijdvak van ten hoogste vijf jaar vanaf het moment van de dagtekening waarop de bestuurlijke boete is opgelegd.   
+2.  Artikel 96, eerste lid, en het eerste lid zijn van overeenkomstige toepassing op de verrekening van de bestuurlijke boete wegens eenzelfde gedraging als bedoeld in artikel 91, zesde lid, indien en voor zover op het moment van verrekening, bedoeld in het eerste lid, de bestuurlijke boete door de overtreder niet is betaald.   
+3.  Het UWV kan op verzoek van de overtreder besluiten het eerste lid en tweede lid niet of niet meer toe te passen indien, gelet op bijzondere omstandigheden, dringende redenen daartoe noodzaken.   
+4.  De voorgaande leden laten de verrekening van de bestuurlijke boete op grond van artikel 96, eerste lid, na het tijdvak, bedoeld in het eerste lid, onverlet.   
+5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
+
+### Artikel  97a  
 
 ####In kennis stellen reïntegratiebedrijf van sanctie-oplegging
 
@@ -1645,12 +1666,6 @@ Het bezwaar of beroep van een werkgever tegen de in artikel 83 bedoelde betaling
 
 1.  Intrekking van het recht op een uitkering op grond van deze wet of verlaging van de hoogte ervan, die voortvloeien uit het door de werkgever ingesteld bezwaar of beroep, vinden niet eerder plaats dan zes weken na de dag waarop de beslissing op bezwaar is bekendgemaakt of de uitspraak is gedaan. De eerste zin is van overeenkomstige toepassing in geval van intrekking van het bezwaar of beroep omdat het UWV geheel of gedeeltelijk is tegemoet gekomen aan het bezwaar of beroep van de werkgever.   
 2.  Het eerste lid geldt niet, indien de uitkering door eigen schuld of toedoen van de werknemer ten onrechte of tot een te hoog bedrag is vastgesteld.   
-
-### Artikel  118  
-
-####Afwijking [8:69 Awb](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)
-
-In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechter in beroep of hoger beroep het bedrag waarop de bestuurlijke boete is vastgesteld ook ten nadele van de belanghebbende of zijn wettelijke vertegenwoordiger wijzigen.  
 
 ### Artikel  119  
 

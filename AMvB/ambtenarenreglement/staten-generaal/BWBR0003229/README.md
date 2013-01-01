@@ -56,6 +56,22 @@ d. hoofdstuk VI, paragrafen 2 en 3;
 
 e. de artikelen 78, 80, 82 en 84.     
 
+### Hoofdstuk  Ia  
+
+####Elektronische berichtgeving
+
+### Artikel  4a  
+
+1.  Berichten inzake het maandelijkse in geld vastgestelde loon en de jaaropgave aan de ambtenaar behoeven uitsluitend elektronisch te worden verzonden.   
+2.  De in het eerste lid bedoelde berichten worden niet uitsluitend elektronisch verzonden: 
+
+a. indien de ambtenaar geen mogelijkheid heeft om kennis te nemen van een elektronische bericht;  
+
+b. bij ontslag of overlijden van de ambtenaar;  
+
+c. op verzoek van de ambtenaar in het geval deze een zwaarwegend belang heeft bij incidentele verzending op andere wijze.     
+3.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan nadere regels stellen over de wijze waarop de elektronische verzending geschiedt.   
+
 ### Hoofdstuk  II  
 
 ####Aanstelling en loopbaanvorming
@@ -334,7 +350,7 @@ Op de ambtenaar, die in tijdelijke dienst is aangesteld, zijn de bepalingen, ver
 
 ### Artikel  32  
 
-1.  De ambtenaar, die op grond van een verbintenis als vrijwilliger in de zin van artikel 2, eerste lid onder *a* of *b*, van de Rechtstoestandsregeling reservepolitie of van een overeenkomstige verbintenis, als bedoeld in de artikelen 53 en 54 van die regeling in werkelijke dienst is, wordt geacht met verlof te zijn.   
+1.  De ambtenaar die als vrijwillige ambtenaar van politie als bedoeld in [artikel 1, onderdeel d, van het Besluit rechtspositie vrijwillige politie](../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md) in werkelijke dienst is, wordt geacht met verlof te zijn.   
 2.  De in het eerste lid bedoelde ambtenaar blijft gedurende het aldaar bedoelde verlof, onverminderd het bepaalde in artikel 122, in het genot van de aan zijn ambt verbonden bezoldiging, met dien verstande, dat deze bezoldiging indien het verlof langer dan twee weken duurt, voor de verdere duur van het verlof wordt verminderd met de beloning, waarop de ambtenaar als vrijwilliger aanspraak heeft.   
 3.  De in het tweede lid bedoelde vermindering wordt slechts toegepast tot een zodanig bedrag, dat de ambtenaar in het genot blijft van een bedrag gelijk aan het op hem te verhalen gedeelte van de pensioenbijdrage en van de premie voor de Regeling flexibel pensioen en uittreden, bedoeld in artikel 3 van de Centrale vut-overeenkomst overheids- en onderwijspersoneel en artikel 1.5 van het Pensioenreglement van de Stichting Pensioenfonds ABP.   
 4.  Het bepaalde in het eerste, tweede en derde lid is niet van toepassing indien de ambtenaar de werkelijke dienst als vrijwilliger vervult tijdens een aan hem verleend vakantieverlof.   
@@ -510,7 +526,7 @@ Het tot aanstelling bevoegd gezag is bevoegd nadere en zonodig afwijkende regels
 
 Onverminderd het bepaalde in de hoofdstukken III. en IV. geniet verlof: 
 
-a. de ambtenaar, die als militair dan wel op grond van een verbintenis als vrijwilliger in de zin van artikel 2, eerste lid, onder *a.* of *b.* van de Rechtstoestandregeling reservepolitie of van een overeenkomstige verbintenis, als bedoeld in de artikelen 53 en 54 van die regeling in werkelijke dienst is;  
+a. de ambtenaar, die als militair dan wel als vrijwillige ambtenaar van politie als bedoeld in [artikel 1, onder d, van het Besluit rechtspositie vrijwillige politie](../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md), in werkelijke dienst is;  
 
 b. de ambtenaar, die zich bevindt in een der omstandigheden, genoemd in artikel 30;  
 

@@ -12,7 +12,7 @@ In dit besluit wordt verstaan onder de buitengewoon opsporingsambtenaar: de buit
 
 ### Artikel  2  
 
-De ambtenaren van politie als bedoeld in [artikel 3, eerste lid, onder b, van de Politiewet 1993](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), van het regionale politiekorps Drenthe, belast met de opsporing van strafbare feiten, zijn aangewezen als buitengewoon opsporingsambtenaar van politie.  
+Als buitengewoon opsporingsambtenaar worden aangewezen de ambtenaren van politie, bedoeld in [artikel 2, onder b, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) die hun werkgebied hebben in de regionale eenheid Noord-Nederland, voorheen Drenthe.  
 
 ### Artikel  3  
 
@@ -26,19 +26,19 @@ Op grond van dit besluit kunnen maximaal 300 personen als buitengewoon opsporing
 
 ### Artikel  5  
 
-1.  Als toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de hoofdofficier van justitie bij het arrondissementsparket te Assen.   
-2.  Als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de korpschef van het regionaal politiekorps Drenthe.   
+1.  Als toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de hoofdofficier van justitie bij het arrondissementsparket Noord-Nederland.   
+2.  Als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).   
 
 ### Artikel  6  
 
-1.  De buitengewoon opsporingsambtenaar, werkzaam als buitengewoon opsporingsambtenaar van politie, is bevoegd bij de opsporing van de in artikel 3, eerste lid, genoemde strafbare feiten gebruik te maken van de bevoegdheden, bedoeld in [artikel 8, eerste en derde lid, van de Politiewet 1993](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md). Hij gedraagt zich overeenkomstig het bepaalde in [hoofdstuk 7 van de Ambtsinstructie voor de politie, de Koninklijke Marechaussee en de buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/ambtsinstructie/voor/de/politie/de/koninklijke/marechaussee/en/andere/etc/BWBR0006589/README.md).   
-2.  De buitengewoon opsporingsambtenaar kan eerst gebruik maken van de bevoegdheden, bedoeld in [artikel 8, eerste en derde lid van de Politiewet 1993](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), nadat de direct toezichthouder heeft vastgesteld dat de betrokkene beschikt over de vereiste bekwaamheid ten aanzien van het uitoefenen van deze bevoegdheden.   
+1.  De buitengewoon opsporingsambtenaar, werkzaam als buitengewoon opsporingsambtenaar van politie, is bevoegd bij de opsporing van de in artikel 3, eerste lid, genoemde strafbare feiten gebruik te maken van de bevoegdheden, bedoeld in [artikel 7, eerste en derde lid, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md). Hij gedraagt zich overeenkomstig het bepaalde in [hoofdstuk 7 van de Ambtsinstructie voor de politie, de Koninklijke Marechaussee en de buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/ambtsinstructie/voor/de/politie/de/koninklijke/marechaussee/en/andere/etc/BWBR0006589/README.md).   
+2.  De buitengewoon opsporingsambtenaar kan eerst gebruik maken van de bevoegdheden, bedoeld in [artikel 7, eerste en derde lid, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), nadat de direct toezichthouder heeft vastgesteld dat de betrokkene beschikt over de vereiste bekwaamheid ten aanzien van het uitoefenen van deze bevoegdheden.   
 3.  De buitengewoon opsporingsambtenaar kan gedurende de uitoefening van zijn functie als buitengewoon opsporingsambtenaar van politie gebruik maken van handboeien van een door de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Justitie goedgekeurd merk en type.   
 4.  De buitengewoon opsporingsambtenaar wordt daadwerkelijk uitgerust met handboeien nadat de direct toezichthouder heeft vastgesteld dat betrokkene beschikt over de vereiste bekwaamheid ten aanzien van het gebruik van en het omgaan met handboeien.   
 
 ### Artikel  7  
 
-De korpschef van het regionale politiekorps Drenthe brengt jaarlijks, voor 1 april, over het jaar daaraan voorafgaand aan de toezichthouder en de Minister van Justitie verslag uit over: 
+De korpschef brengt jaarlijks, voor 1 april, over het jaar daaraan voorafgaand aan de toezichthouder en de Minister van Justitie verslag uit over: 
 
 a. het aantal buitengewoon opsporingsambtenaren dat op 31 december werkzaam was bij het regionale politiekorps Drenthe;  
 

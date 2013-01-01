@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-Als ambtenaren belast met het toezicht op de naleving als bedoeld in [artikel 54a, eerste lid, van de Visserijwet](../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) worden aangewezen: de ambtenaren van de Algemene Inspectiedienst van het Ministerie van Economische Zaken, Landbouw en Innovatie en van de rijksbelastingdienst, bevoegd inzake douane.  
+Als ambtenaren belast met het toezicht op de naleving als bedoeld in [artikel 54a, eerste lid, van de Visserijwet](../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) worden aangewezen: de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit en van de rijksbelastingdienst, bevoegd inzake douane.  
 
 ### Artikel  2  
 

@@ -64,10 +64,6 @@ Een speciale bijdrage als bedoeld in artikel 4, eerste lid, van de Raadsverorden
 
 Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.  
 
-### Artikel  10  
-
-Tegen een op grond van deze wet genomen beschikking kan een belanghebbende beroep instellen bij het College van beroep voor het bedrijfsleven.  
-
 ### Artikel  11  
 
 De Wet sloopregeling binnenvaart wordt ingetrokken.  

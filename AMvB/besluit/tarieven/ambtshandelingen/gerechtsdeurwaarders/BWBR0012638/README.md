@@ -24,61 +24,61 @@ De schuldenaarstarieven, vastgesteld bij of krachtens dit besluit dienen mede to
 
 Onverminderd de artikelen 5 tot en met 11 en 14, bedragen de kosten, bedoeld in de artikelen [240](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [434a van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), voor het exploot van: 
 
-a. dagvaarding, oproeping of aanzegging die het geding inleidt: € 76,31;  
+a. dagvaarding, oproeping of aanzegging die het geding inleidt: € 76,71;  
 
-b. betekening van een titel: € 73,45;  
+b. betekening van een titel: € 73,83;  
 
-c. betekening van een verzoekschrift met oproeping om in rechte te verschijnen of van een aanzegging, anders dan bedoeld in dit artikel: € 60,37;  
+c. betekening van een verzoekschrift met oproeping om in rechte te verschijnen of van een aanzegging, anders dan bedoeld in dit artikel: € 60,69;  
 
-d. betekening, anders dan bedoeld in dit artikel: € 64,61;  
+d. betekening, anders dan bedoeld in dit artikel: € 64,95;  
 
-e. beslag op roerende zaken, niet zijnde registergoederen, anders dan bedoeld in een van de volgende onderdelen, of van nadere aanduiding van de in beslag genomen roerende zaken: € 100,37;  
+e. beslag op roerende zaken, niet zijnde registergoederen, anders dan bedoeld in een van de volgende onderdelen, of van nadere aanduiding van de in beslag genomen roerende zaken: € 100,90;  
 
-f. beslag op roerende zaken, niet zijnde registergoederen, die zich bevinden op een zodanige plaats dat voor de toegang daartoe de medewerking van een derde nodig is: € 134,78;  
+f. beslag op roerende zaken, niet zijnde registergoederen, die zich bevinden op een zodanige plaats dat voor de toegang daartoe de medewerking van een derde nodig is: € 135,49;  
 
-g. beslag op rechten aan toonder of order, op effecten op naam of op overige rechten, anders dan bedoeld in dit artikel: € 198,62;  
+g. beslag op rechten aan toonder of order, op effecten op naam of op overige rechten, anders dan bedoeld in dit artikel: € 199,67;  
 
-h. beslag op aandelen op naam in Nederlandse naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid: € 218,02;  
+h. beslag op aandelen op naam in Nederlandse naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid: € 219,17;  
 
-i. beslag op aandelen aan toonder of van beslag onder derden, anders dan beslag op periodieke betalingen: € 159,94;  
+i. beslag op aandelen aan toonder of van beslag onder derden, anders dan beslag op periodieke betalingen: € 160,78;  
 
-j. beslag onder derden op periodieke betalingen, anders dan beslag als bedoeld onder k: € 113,84;  
+j. beslag onder derden op periodieke betalingen, anders dan beslag als bedoeld onder k: € 114,44;  
 
-k. beslag als bedoeld in [artikel 479b van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md): € 97,22;  
+k. beslag als bedoeld in [artikel 479b van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md): € 97,73;  
 
-l. beslag onder de schuldeiser zelf, ongeacht het beslagobject: € 133,17;  
+l. beslag onder de schuldeiser zelf, ongeacht het beslagobject: € 133,87;  
 
-m. executie tot afgifte van roerende zaken, niet zijnde registergoederen: € 231,68;  
+m. executie tot afgifte van roerende zaken, niet zijnde registergoederen: € 232,90;  
 
-n. beslag tot verkrijging van afgifte of levering van roerende zaken, niet zijnde registergoederen: € 99,64;  
+n. beslag tot verkrijging van afgifte of levering van roerende zaken, niet zijnde registergoederen: € 100,16;  
 
-o. beslag op onroerende zaken of op in Nederland te boek gestelde luchtvaartuigen: € 137,91;  
+o. beslag op onroerende zaken of op in Nederland te boek gestelde luchtvaartuigen: € 138,63;  
 
-p. opheffing van beslag op onroerende zaken of de verklaring, bedoeld in [artikel 575, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md): € 49,21;  
+p. opheffing van beslag op onroerende zaken of de verklaring, bedoeld in [artikel 575, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md): € 49,47;  
 
-q. beslag op schepen of niet in Nederland te boek gestelde luchtvaartuigen: € 303,99;  
+q. beslag op schepen of niet in Nederland te boek gestelde luchtvaartuigen: € 305,59;  
 
-r. gerechtelijke inbewaringgeving: € 206,85;  
+r. gerechtelijke inbewaringgeving: € 207,94;  
 
-s. het aanslaan van biljetten houdende aankondiging van openbare verkoop: € 75,50;  
+s. het aanslaan van biljetten houdende aankondiging van openbare verkoop: € 75,90;  
 
-t. executoriale openbare verkoop van roerende zaken: € 264,22;  
+t. executoriale openbare verkoop van roerende zaken: € 265,62;  
 
-u. aanzegging van de overname van de executie van onroerende zaken: € 70,95;  
+u. aanzegging van de overname van de executie van onroerende zaken: € 71,33;  
 
-v. gedwongen ontruiming van onroerende zaken: € 197,41;  
+v. gedwongen ontruiming van onroerende zaken: € 198,45;  
 
-w. tenuitvoerlegging van lijfsdwang: € 229,45.    
+w. tenuitvoerlegging van lijfsdwang: € 230,66.    
 
 ### Artikel  3  
 
 Onverminderd de artikelen 9, 10 en 11, bedragen de kosten, bedoeld in [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), van inning, verdere tenuitvoerlegging en verdeling van de opbrengst van beslag op vorderingen tot periodieke betalingen, per maand waarin de gerechtsdeurwaarder een betaling van de derde int: 
 
-a. in geval van enkelvoudig derdenbeslag: € 9,73;  
+a. in geval van enkelvoudig derdenbeslag: € 9,78;  
 
-b. in geval van twee samenlopende derdenbeslagen: € 15,47; en  
+b. in geval van twee samenlopende derdenbeslagen: € 15,55; en  
 
-c. voor ieder daarop volgend samenlopend derdenbeslag: € 5,75 per beslag.    
+c. voor ieder daarop volgend samenlopend derdenbeslag: € 5,78 per beslag.    
 
 ### Artikel  4  
 
@@ -91,15 +91,15 @@ b. de ambtshandeling geen doorgang heeft gevonden omdat de schuldenaar vrijwilli
 
 ### Artikel  5  
 
-Indien de gerechtsdeurwaarder met betrekking tot dezelfde roerende zaken de ambtshandelingen, bedoeld in artikel 2, onder m en n, verricht, worden de kosten van de ambtshandeling, vastgesteld in artikel 2, onder m, verminderd met € 18,62.  
+Indien de gerechtsdeurwaarder met betrekking tot dezelfde roerende zaken de ambtshandelingen, bedoeld in artikel 2, onder m en n, verricht, worden de kosten van de ambtshandeling, vastgesteld in artikel 2, onder m, verminderd met € 18,72.  
 
 ### Artikel  6  
 
 Indien de gerechtsdeurwaarder zich op grond van een wettelijk voorschrift voor de goede verrichting van de ambtshandeling laat bijstaan door een of meer getuigen, worden de kosten van de ambtshandeling: 
 
-a. bedoeld in artikel 2, onder e, f, g, en n, verhoogd met € 18,98;  
+a. bedoeld in artikel 2, onder e, f, g, en n, verhoogd met € 19,08;  
 
-b. bedoeld in artikel 2, onder m, o, q, v en w, verhoogd met € 66,44.    
+b. bedoeld in artikel 2, onder m, o, q, v en w, verhoogd met € 66,79.    
 
 ### Artikel  7  
 
@@ -107,16 +107,16 @@ Indien uit het exploot blijkt dat de uitvoering ter plaatse van de ambtshandelin
 
 a. bedoeld in artikel 2, onder e, f, g, h en n, langer dan anderhalf uur heeft geduurd, of  
 
-b. bedoeld in artikel 2, onder m, q, r, t, v en w, langer dan drie uur heeft geduurd, worden de kosten verhoogd met € 18,62 voor iedere 15 minuten dat de uitvoering ter plaatse van de ambtshandeling langer dan anderhalf uur, respectievelijk drie uur heeft geduurd, en worden de kosten, vastgesteld bij of krachtens artikel 6, verhoogd met € 11,04 voor iedere 15 minuten dat de bijstand door de getuige daarbij langer dan anderhalf uur, respectievelijk drie uur heeft geduurd.    
+b. bedoeld in artikel 2, onder m, q, r, t, v en w, langer dan drie uur heeft geduurd, worden de kosten verhoogd met € 18,72 voor iedere 15 minuten dat de uitvoering ter plaatse van de ambtshandeling langer dan anderhalf uur, respectievelijk drie uur heeft geduurd, en worden de kosten, vastgesteld bij of krachtens artikel 6, verhoogd met € 11,10 voor iedere 15 minuten dat de bijstand door de getuige daarbij langer dan anderhalf uur, respectievelijk drie uur heeft geduurd.    
 
 ### Artikel  8  
 
-1.  Voor de toepassing van [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), worden de kosten verhoogd met € 23,48 indien: 
+1.  Voor de toepassing van [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), worden de kosten verhoogd met € 23,61 indien: 
 
 a. het exploot, nadat betekening aan de laatstelijk aan de opdrachtgever bekendgeworden woon- of verblijfplaats van de schuldenaar eens of meermalen niet mogelijk is gebleken, op een volgend adres wordt betekend, en  
 
 b. de gerechtsdeurwaarder aan de voet van het exploot de data vermeldt waarop dat adres is geverifieerd aan de hand van gegevens uit de gemeentelijke basisadministratie persoonsgegevens of het Handelsregister, en waarop betekening aan dat adres niet mogelijk is gebleken.     
-2.  Voor de toepassing van [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), worden de kosten van het exploot, bedoeld in artikel 2, onder e en w, verhoogd met € 47,29 onderscheidenlijk € 92,49, indien de gerechtsdeurwaarder: 
+2.  Voor de toepassing van [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), worden de kosten van het exploot, bedoeld in artikel 2, onder e en w, verhoogd met € 47,54 onderscheidenlijk € 92,98, indien de gerechtsdeurwaarder: 
 
 a. de desbetreffende ambtshandeling heeft verricht nadat een of meer eerdere pogingen daartoe geen doorgang vonden wegens afwezigheid van de schuldenaar of een persoon die hem kan vertegenwoordigen op de plaats van het beslag, onderscheidenlijk de afwezigheid van de schuldenaar op de voorziene plaats van tenuitvoerlegging van de lijfsdwang;  
 
@@ -169,11 +169,11 @@ Indien aan de opdrachtgever een toevoeging als bedoeld in [artikel 24 van de Wet
 
 1.  De bedragen, vastgesteld in de artikelen 2 tot en met 8, gelden tot en met 31 december 2002 en worden jaarlijks met ingang van 1 januari door Onze Minister gewijzigd met een percentage dat overeenkomt met 0,6 x (A – B) + (0,4 x C), waarbij: 
 
-a. A gelijk is aan het procentuele verschil tussen het indexcijfer van het bruto uurloon, inclusief de bijzondere beloningen, op basis van de CAO-lonen van alle werknemers van het jaar t-2 en het daaraan voorafgaande jaar, zoals die door het Centraal Bureau voor de Statistiek zijn bekendgemaakt in de Sociaal-economische Maandstatistiek;  
+a. A gelijk is aan het procentuele verschil tussen het indexcijfer van de CAO-lonen per uur, inclusief bijzondere beloningen van het jaargemiddelde van het jaar t-2 en het daaraan voorafgaande jaargemiddelde, zoals die door het Centraal Bureau voor de Statistiek zijn bekendgemaakt;  
 
-b. B gelijk is aan het procentuele verschil tussen het indexcijfer van de arbeidsproductiviteit in alle sectoren van het jaar t-2 en het daaraan voorafgaande jaar, zoals die door het Centraal Bureau voor de Statistiek zijn bekendgemaakt in de Nationale Rekeningen;  
+b. B gelijk is aan het procentuele verschil tussen het indexcijfer van de arbeidsproductiviteit in alle sectoren van het jaargemiddelde van het jaar t-2 en het daaraan voorafgaande jaargemiddelde, zoals die door het Centraal Bureau voor de Statistiek zijn bekendgemaakt;  
 
-c. C gelijk is aan het procentuele verschil tussen de consumentenprijsindexcijfers voor alle huishoudens van het jaar t-2 en het daaraan voorafgaande jaar, zoals die door het Centraal Bureau voor de Statistiek zijn bekendgemaakt in de Maandstatistiek van de prijzen, en  
+c. C gelijk is aan het procentuele verschil tussen de consumentenprijsindexcijfers voor alle huishoudens op de meest recente tijdsbasis van het jaargemiddelde van het jaar t-2, zoals die door het Centraal Bureau voor de Statistiek zijn bekendgemaakt, en  
 
 d. onder t-2 wordt verstaan het tweede jaar voorafgaand aan het jaar waarin de gewijzigde bedragen zullen gelden.     
 2.  De tarieven die golden voor 1 januari van ieder jaar, blijven van toepassing met betrekking tot de vergoeding van ambtshandelingen die voor 1 januari van dat jaar zijn verricht.   

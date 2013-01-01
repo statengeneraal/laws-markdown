@@ -307,7 +307,7 @@ b. op schriftelijk verzoek van de ingeschrevene;
 
 c. indien ten aanzien van de ingeschrevene verval van de bevoegdheid, bedoeld in artikel 28, eerste lid, onderdeel *d,* of artikel 48, eerste lid, onderdeel *b,* of tweede lid, voor tenuitvoerlegging vatbaar is geworden;  
 
-d. bij het bereiken van de leeftijd van vijfenzestig jaren of van een bij verordening vastgestelde lagere leeftijd;  
+d. bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), of van een bij verordening vastgestelde lagere leeftijd;  
 
 e. indien de ingeschrevene niet beschikt over geldige geneeskundige verklaringen volgens de bij of krachtens algemene maatregel van bestuur te geven regels;  
 
@@ -640,7 +640,7 @@ Het tuchtcollege loodsen houdt zitting in de samenstelling als genoemd in artike
 ### Artikel  41  
 
 1.  Het tuchtcollege loodsen kan, hetzij op verzoek van de persoon over wie geklaagd is, hetzij op verzoek van de klager, hetzij ambtshalve, getuigen en deskundigen oproepen en horen. De oproeping geschiedt bij aangetekende brief. Ieder die als getuige of deskundige is opgeroepen, is verplicht aan de oproeping gevolg te geven.   
-2.  Verschijnt een getuige of een deskundige op de oproeping niet, dan doet de officier van justitie bij de rechtbank te 's-Gravenhage op verzoek van het tuchtcollege loodsen hem dagvaarden.   
+2.  Verschijnt een getuige of een deskundige op de oproeping niet, dan doet de officier van justitie bij het arrondissementsparket Den Haag op verzoek van het tuchtcollege loodsen hem dagvaarden.   
 3.  Verschijnt een getuige of deskundige op de dagvaarding niet, dan doet de officier, bedoeld in het vorige lid, op verzoek van het tuchtcollege loodsen hem andermaal dagvaarden, desverzocht met bevel tot medebrenging.   
 4.  [Artikel 556 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
 5.  De getuigen leggen in handen van de voorzitter van het tuchtcollege loodsen de eed of belofte af dat zij de gehele waarheid en niets dan de waarheid zullen zeggen. De getuigen zijn verplicht getuigenis af te leggen, de deskundigen hun diensten als zodanig te verlenen.   

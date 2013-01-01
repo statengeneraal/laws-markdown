@@ -146,6 +146,21 @@ Onderwijs in lichamelijke opvoeding, bestaande uit praktische bewegingsactivitei
 
 Een onderwijsprogramma in het voortgezet onderwijs omvat mede een maatschappelijke stage.  
 
+### Artikel  6g  
+
+####Onderwijstijd
+
+1.  Een in schooltijd verzorgd samenhangend onderwijsprogramma als bedoeld in de artikelen 10, tweede lid, 10b, tweede lid, 10d, tweede lid, 11c, eerste lid, en 12, vijfde lid, tweede volzin, omvat voor iedere leerling in elk leerjaar ten minste 1000 uren, met dien verstande dat het programma in de eerste twee leerjaren per leerjaar ten minste 1040 uren omvat en in het laatste leerjaar ten minste 700 uren omvat. Tot de uren, bedoeld in de eerste volzin, worden tevens gerekend ten hoogste 60 uren, die alleen voor een specifieke groep leerlingen verplicht zijn en worden ingevuld met onderwijsactiviteiten gericht op excellentie, achterstand of ander maatwerk.   
+2.  Het bevoegd gezag beschikt over geordende gegevens met betrekking tot de toepassing van het eerste lid.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven over de gegevens omtrent de invulling van de uren en de in een onderwijsprogramma verzorgde activiteiten.   
+4.  Ten behoeve van het verrichten van andere taken dan het verzorgen van onderwijs stelt het bevoegd gezag jaarlijks de data vast van ten hoogste negen werkdagen waarop geen onderwijs behoeft te worden verzorgd, waarvan ten hoogste zes werkdagen onmiddellijk aansluitend en ten hoogste vijf werkdagen niet onmiddellijk aansluitend voor of na de voor de school op grond van artikel 22, tweede lid, vastgestelde zomervakantie.   
+
+### Artikel  6h  
+
+####Meetellen onderwijstijd
+
+Indien een leerling gedurende een deel van de week onderwijs ontvangt op een school voor voortgezet speciaal onderwijs, op een school voor speciaal en voortgezet speciaal onderwijs, dan wel op een instelling voor speciaal en voortgezet speciaal onderwijs als bedoeld in de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md), telt de tijd gedurende welke de leerling dit onderwijs ontvangt mee voor het aantal uren onderwijs dat de leerling ten minste moet ontvangen.  
+
 ### Artikel  7  
 
 ####Voorbereidend wetenschappelijk onderwijs
@@ -357,7 +372,7 @@ c. in het bedrijf of de organisatie is een gekwalificeerde praktijkbegeleider of
 
 d. het bedrijf of de organisatie is bereid met de in het tweede lid bedoelde mentor of docentbegeleider contact te onderhouden;  
 
-e. de mogelijkheid om binnen hetzelfde bedrijf of dezelfde organisatie, dezelfde moederorganisatie of dezelfde branche de leerdoelen van het voorbereidend middelbaar beroepsonderwijs en de eindtermen van de assistenopleiding of basisberoepsopleiding, bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) te behalen, zonder grote overgangsdrempels voor de leerling;  
+e. de mogelijkheid om binnen hetzelfde bedrijf of dezelfde organisatie, dezelfde moederorganisatie of dezelfde branche de leerdoelen van het voorbereidend middelbaar beroepsonderwijs en de eindtermen van de assistentopleiding of basisberoepsopleiding, bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) te behalen, zonder grote overgangsdrempels voor de leerling;  
 
 f. het bedrijf of de organisatie waarborgt dat een gekwalificeerde praktijkbegeleider of leermeester is gekoppeld aan een leerling, en dat deze leermeester ervoor zorgt dat de leerling voldoende hulp en tijd krijgt om de praktijkopdrachten uit te voeren;  
 
@@ -912,6 +927,30 @@ b. is mede gericht op het bevorderen van actief burgerschap en sociale integrati
 
 c. is er mede op gericht dat leerlingen kennis hebben van en kennismaken met verschillende achtergronden en culturen van leeftijdgenoten.    
 
+### Artikel  17a  
+
+####Samenwerkingsverbanden
+
+1.  Het bevoegd gezag van één of meer scholen is voor elke vestiging van die school of scholen aangesloten bij een samenwerkingsverband als bedoeld in het tweede lid of bij een landelijk samenwerkingsverband als bedoeld in het zestiende lid.   
+2.  Een samenwerkingsverband omvat alle binnen een gebied als bedoeld in het derde lid gelegen vestigingen van scholen, scholen voor voortgezet speciaal onderwijs en scholen voor speciaal en voortgezet speciaal onderwijs, voor zover daaraan voortgezet speciaal onderwijs wordt verzorgd, behorend tot cluster 3 en 4, bedoeld in de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md), met uitzondering van de vestigingen waarvoor het bevoegd gezag is aangesloten bij een landelijk samenwerkingsverband. Het samenwerkingsverband stelt zich ten doel een samenhangend geheel van ondersteuningsvoorzieningen binnen en tussen de scholen, bedoeld in de vorige volzin, te realiseren en wel zodanig dat leerlingen een ononderbroken ontwikkelingsproces kunnen doormaken en leerlingen die extra ondersteuning behoeven een zo passend mogelijke plaats in het onderwijs krijgen.   
+3.  Bij ministeriële regeling worden voor de samenwerkingsverbanden aaneengesloten gebieden aangewezen.   
+3a.   Dit lid is nog niet in werking getreden.    
+4.  De bevoegde gezagsorganen van de scholen, bedoeld in het tweede lid, geven het samenwerkingsverband vorm door het oprichten van een rechtspersoon met volledige rechtsbevoegdheid zonder winstoogmerk, waarin uitsluitend deze bevoegde gezagsorganen deelnemen, behoudens deelname van een bevoegd gezag op grond van het vijfde lid. De statuten van de rechtspersoon bevatten een voorziening voor de beslechting van geschillen.   
+5.  Indien het bevoegd gezag van een school voor voortgezet speciaal onderwijs of een school voor speciaal en voortgezet speciaal onderwijs, behorend tot cluster 3 en 4, bedoeld in de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md), waarvan de vestiging of vestigingen zijn gelegen buiten het gebied van een samenwerkingsverband, wenst deel te nemen aan dit samenwerkingsverband, wordt dit bevoegd gezag niet uitgesloten van deelname aan het samenwerkingsverband.   
+6.   Dit lid is nog niet in werking getreden.    
+7.   Dit lid is nog niet in werking getreden.    
+8.   Dit lid is nog niet in werking getreden.    
+9.   Dit lid is nog niet in werking getreden.    
+10.   Dit lid is nog niet in werking getreden.    
+10a.   Dit lid is nog niet in werking getreden.    
+11.   Dit lid is nog niet in werking getreden.    
+12.   Dit lid is nog niet in werking getreden.    
+13.   Dit lid is nog niet in werking getreden.    
+14.   Dit lid is nog niet in werking getreden.    
+15.   Dit lid is nog niet in werking getreden.    
+16.  Bevoegde gezagsorganen van tot dezelfde richting behorende scholen en scholen als bedoeld in de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md) waaraan voortgezet speciaal onderwijs behorend tot cluster 3 en 4 wordt verzorgd, kunnen een landelijk samenwerkingsverband oprichten. Een landelijk samenwerkingsverband omvat alle in Nederland gelegen en tot dezelfde richting behorende scholen als bedoeld in de eerste volzin. Op een landelijk samenwerkingsverband zijn het tweede tot en met vijftiende lid, met uitzondering van het derde en vijfde lid, en het zeventiende lid van overeenkomstige toepassing. Indien een bevoegd gezag scholen heeft met meer dan een richting bepaalt het bevoegd gezag eenmalig op basis van welke richting de aansluiting bij het samenwerkingsverband plaatsvindt.   
+17.   Dit lid is nog niet in werking getreden.    
+
 ### Artikel  18  
 
 ####Ondersteuning bij het onderwijs aan zieke leerlingen
@@ -1095,7 +1134,8 @@ b. zich bij de behandeling van de klacht te laten bijstaan.
 ####Scheiding toezicht en bestuur
 
 1.  Het bevoegd gezag draagt mede in verband met de verplichting, bedoeld in artikel 23a, zorg voor een goed bestuurde school met een scheiding tussen de functies van bestuur en het toezicht daarop, en met een rechtmatig bestuur en beheer.   
-2.  De benoeming in de functies van het toezicht op het bestuur, bedoeld in het eerste lid, geschiedt op basis van vooraf openbaar gemaakte profielen. Bij de benoeming van de leden van de raad van toezicht wordt de medezeggenschapsraad van de school, bedoeld in [artikel 3 van de Wet medezeggenschap op scholen](../../../../../../../wet/wet/medezeggenschap/op/scholen/BWBR0020685/README.md), in de gelegenheid gesteld een bindende voordracht te doen voor een lid.   
+2.  De benoeming in de functies van het toezicht op het bestuur, bedoeld in het eerste lid, geschiedt op basis van vooraf openbaar gemaakte profielen. Bij de benoeming van de leden van de raad van toezicht wordt de medezeggenschapsraad van de school, bedoeld in [artikel 3 van de Wet medezeggenschap op scholen](../../../../../../../wet/wet/medezeggenschap/op/scholen/BWBR0020685/README.md), in de gelegenheid gesteld een bindende voordracht te doen voor een lid. Bij de benoeming van de leden van de raad van toezicht wordt de ondersteuningsplanraad, bedoeld in [artikel 4a van de Wet medezeggenschap op scholen](../../../../../../../wet/wet/medezeggenschap/op/scholen/BWBR0020685/README.md), in de gelegenheid gesteld een bindende voordracht te doen voor een lid.   
+3.  Het eerste lid en het tweede lid, eerste volzin, zijn van overeenkomstige toepassing op een samenwerkingsverband.   
 
 ### Artikel  24e  
 
@@ -1103,6 +1143,7 @@ b. zich bij de behandeling van de klacht te laten bijstaan.
 
 1.  Het bevoegd gezag draagt er zorg voor dat de functies van bestuur en intern toezicht op het bestuur in functionele of organieke zin zijn gescheiden.   
 2.  Een intern toezichthouder of een lid van het interne toezichthoudend orgaan functioneert onafhankelijk van het bestuur.   
+3.  Dit artikel is van overeenkomstige toepassing op een samenwerkingsverband.   
 
 ### Artikel  24e1  
 
@@ -1231,6 +1272,20 @@ b. dat de leerling binnen 8 weken na de aanvang van de periode van 5 weken geen 
 4.  Onze Minister verstrekt binnen acht weken na ontvangst van de melding, bedoeld in het derde lid, aan het bevoegd gezag het burgerservicenummer van de leerling, dan wel, indien is gebleken dat hem niet van overheidswege een burgerservicenummer is verstrekt, het onderwijsnummer van de leerling. Het onderwijsnummer is een door Onze Minister uitgegeven en aan de leerling toegekend persoonsgebonden nummer.   
 5.  Het bevoegd gezag neemt de in het eerste en vierde lid bedoelde gegevens op in de leerlingenadministratie van de school.   
 6.  Indien aan een leerling een onderwijsnummer is toegekend en het bevoegd gezag daarna de beschikking krijgt over zijn burgerservicenummer, neemt het bevoegd gezag dit burgerservicenummer terstond als persoonsgebonden nummer op in de leerlingenadministratie van de school in de plaats van het onderwijsnummer. Het bevoegd gezag meldt deze wijziging binnen twee weken aan Onze Minister onder opgave van het burgerservicenummer en het onderwijsnummer van de leerling.   
+
+### Artikel  27c  
+
+####Tijdelijke geschillencommissie toelating en verwijdering
+
+1.  Er is tot een bij koninklijk besluit te bepalen tijdstip een landelijke commissie voor geschillen waarbij elke school, school als bedoeld in de [Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md) en school als bedoeld in de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md) is aangesloten.   
+2.  De commissie neemt kennis van geschillen tussen ouders en bevoegd gezag van een school die ontstaan bij de toepassing van: 
+
+a. artikel 26, eerste lid en vierde lid, en  
+
+b. artikel 27, eerste lid, derde volzin en de leden 2b, 2c en 2d.     
+3.  De commissie brengt op verzoek van de ouders binnen 10 weken een oordeel uit aan het bevoegd gezag, rekening houdend met het schoolondersteuningsprofiel en het ondersteuningsplan.   
+4.  Indien een geschil aanhangig is gemaakt bij de commissie en de ouders bezwaar hebben gemaakt tegen de beslissing over de toelating of de verwijdering, neemt het bevoegd gezag de beslissing op bezwaar niet dan nadat de commissie heeft geoordeeld. De termijn voor het nemen van de beslissing op bezwaar wordt opgeschort met ingang van de dag waarop het geschil aanhangig is gemaakt bij de commissie tot de dag waarop de commissie het oordeel heeft uitgebracht.   
+5.  Bij algemene maatregel van bestuur worden voorschriften gegeven met betrekking tot de commissie, waaronder in elk geval het aantal leden, de wijze van benoeming en ontslag en de deskundigheid van de leden van de commissie.   
 
 ### Artikel  28  
 
@@ -1822,7 +1877,7 @@ c. het direct of indirect onthouden van promotie,
 
 d. het verminderen van de omvang van de betrekking,  
 
-e. ontslag anders dan op eigen verzoek, voordat de pensioengerechtigde leeftijd is bereikt,  
+e. ontslag anders dan op eigen verzoek, voordat de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), is bereikt,  
 
 f. de beslissing van het bevoegd gezag ten aanzien van een personeelslid op basis waarvan op termijn vermindering van diens betrekkingsomvang kan plaatsvinden,  
 
@@ -2262,12 +2317,6 @@ f. een afdeling als bedoeld in artikel 10c met uitzondering van een afdeling als
 ####Aanvullende middelen
 
 Onze Minister kan onder door hem nader te stellen voorwaarden aanvullende middelen ter beschikking stellen die niet strekken tot bekostiging van het onderwijs, bedoeld in deze wet, en de schoolbegeleiding als bedoeld in de [artikelen 179 van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md) en [165 van de Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md) ten behoeve daarvan, maar die direct of indirect dienstig zijn voor de uitvoering van het onderwijs of voor verhoging van de mogelijkheid tot deelname aan het onderwijs. Voor zover toepassing van de eerste volzin het verstrekken van subsidie betreft, zijn de [artikelen 4 tot en met 19 van de Wet overige OCW-subsidies](../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) van toepassing.  
-
-### Artikel  75  
-
-####Beroep
-
-Tegen een besluit op grond van deze afdeling met uitzondering van artikel 74 kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.  
 
 ### Artikel  76  
 
@@ -2778,7 +2827,7 @@ De gemeente bekostigt aan het bevoegd gezag van een andere dan een gemeentelijke
 2.  De regeling, bedoeld in het eerste lid, maakt geen onderscheid tussen openbaar en bijzonder onderwijs en voorziet in een behandeling van scholen naar dezelfde maatstaf.   
 3.  De regeling, bedoeld in het eerste lid, bevat in elk geval de voorzieningen die door het bevoegd gezag van een in de gemeente gelegen, niet door de gemeente in stand gehouden school kunnen worden aangevraagd en de procedure voor het doen van een aanvraag.   
 4.  De gemeenteraad kan besluiten dat burgemeester en wethouders de regeling, bedoeld in het eerste lid, tijdelijk kunnen aanvullen met nieuwe voorzieningen. De aanvulling wordt binnen 1 week aan de bevoegde gezagsorganen van de niet door de gemeente in stand gehouden scholen gezonden. Binnen 12 weken na de totstandkoming van de aanvulling wordt deze voorgelegd aan de gemeenteraad en besluit de gemeenteraad over de bekrachtiging ervan. Indien de gemeenteraad niet binnen 12 weken een besluit heeft genomen, wordt de aanvulling gelijkgesteld met een aanvulling die is bekrachtigd. Een afwijzing van de aanvulling door de gemeenteraad heeft geen gevolgen voor aanvragen waarop reeds is besloten of die reeds zijn ingediend en die voorzieningen betreffen waarop de aanvulling betrekking heeft.   
-5.  [Artikel 8:2 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op de regeling, bedoeld in het eerste lid, dan wel een wijziging daarvan. In afwijking van [artikel 8:1 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan tegen een aanvulling als bedoeld in het vierde lid geen beroep worden ingesteld zolang de gemeenteraad deze nog niet heeft bekrachtigd.   
+5.  [Artikel 8:2 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op de regeling, bedoeld in het eerste lid, dan wel een wijziging daarvan.   
 6.  Voor de toepassing van dit artikel wordt een nevenvestiging aangemerkt als een nevenvestiging die is gelegen in de gemeente van de hoofdvestiging. De gemeenteraad kan in de verordening, bedoeld in het eerste lid, aan burgemeester en wethouders de bevoegdheid verlenen om, met inachtneming van de in die verordening gestelde regels, te besluiten dat in de gemeente gelegen nevenvestigingen van scholen waarvan de hoofdvestiging is gelegen in een andere gemeente in afwijking van de eerste volzin in aanmerking komen voor een of meer van de in de regeling genoemde voorzieningen.   
 7.  Burgemeester en wethouders maken jaarlijks in een van overheidswege uitgegeven blad of een dag-, nieuws- of huis-aan-huisblad, dan wel op een andere geschikte wijze, een overzicht bekend van de op grond van de regeling, bedoeld in het eerste lid, toegekende voorzieningen.   
 
@@ -3141,10 +3190,6 @@ c. stelt Onze Minister de rechtspersoon vervolgens vier weken in de gelegenheid 
 2.  Tot de maatregelen, bedoeld in het eerste lid, behoort de mogelijkheid het bestuur van de instelling te laten bijstaan door een extern deskundige. Ook kunnen onder voorwaarden extra financiële middelen aan de instelling ter beschikking worden gesteld.   
 3.  Onze minister stelt nadere regels omtrent de toekenning van en verantwoording voor maatregelen, voorzover deze het verstrekken van financiële middelen betreffen.   
 
-### Artikel  105  
-
-Tegen een besluit als bedoeld in de artikelen 83, 85a, 89 en 104 kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.  
-
 ### Artikel  106  
 
 ####Uitvoeringsvoorschriften afdeling II
@@ -3232,10 +3277,6 @@ b. indien de bekostiging van een bijzondere school ingevolge een van de in onder
 c. indien een school ingevolge een beslissing van het bevoegd gezag wordt opgeheven en deze opheffing is gerealiseerd.     
 2.  Het exploitatietekort blijft in de gevallen, bedoeld in het eerste lid, voor rekening van het bevoegd gezag.   
 3.  Bij algemene maatregel van bestuur worden voorschriften gegeven omtrent de wijze waarop het exploitatie-overschot, bedoeld in het eerste lid, wordt berekend.   
-
-### Artikel  111  
-
-Tegen een besluit op grond van deze afdeling kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.  
 
 ### Artikel  112  
 
@@ -3415,6 +3456,39 @@ c. de procedure voor het aanvragen van het geschiktheidsonderzoek en voor afgift
 ####Inlichtingenplicht
 
 Het in artikel 118n en het in artikel 118p bedoelde bestuur verstrekken aan Onze Minister alle inlichtingen die deze nodig acht ten behoeve van een goede naleving van deze titel. Het bestuur zendt de inspectie van het onderwijs telkens na zes maanden een overzicht van in die periode afgegeven geschiktheidsverklaringen en bekwaamheidsonderzoeken waaraan met goed gevolg is deelgenomen.  
+
+### Titel  IVD  
+
+####Experimenten
+
+### Artikel  118t  
+
+#### *Ruimte voor innovatie* 
+
+1.  Met het oog op verbetering van de kwaliteit, toegankelijkheid of doelmatigheid van het voortgezet onderwijs kan bij wijze van experiment bij algemene maatregel van bestuur worden afgeweken van titel II, afdeling I, hoofdstuk I en van titel III, afdeling II, van de wet.   
+2.  In geval van toepassing van het eerste lid wordt bij algemene maatregel van bestuur in elk geval bepaald: 
+
+a. het doel van het experiment,  
+
+b. op welke wijze van welke artikelen van het in het eerste lid genoemde hoofdstuk en de daar genoemde afdeling wordt afgeweken,  
+
+c. de duur van het experiment, en  
+
+d. op welke wijze en aan de hand van welke criteria de met het experiment beoogde effecten worden geëvalueerd.     
+3.  Bij ministeriële regeling kunnen regels worden gesteld over de uitvoering van een experiment.   
+4.  Een experiment duurt ten hoogste zes jaar, tenzij een langere duur gezien de bijzondere aard van het experiment noodzakelijk is. Alsdan wordt de duur van het experiment op ten hoogste acht jaar bepaald. Indien een voorstel van wet is ingediend bij de Staten-Generaal om het experiment om te zetten in een structurele wettelijke regeling voordat een experiment is afgelopen, kan Onze Minister het experiment verlengen tot het tijdstip waarop het wetsvoorstel tot wet is verheven en in werking treedt.   
+5.  Onze Minister zendt drie maanden voor het einde van de werkingsduur van een algemene maatregel van bestuur als bedoeld in het eerste lid aan de Staten-Generaal, een verslag over de doeltreffendheid en de effecten van het experiment in de praktijk, evenals een standpunt over de voortzetting van die algemene maatregel van bestuur, anders dan een voortzetting als experiment.   
+6.  In verband met een experiment als bedoeld in het eerste lid, kan bij algemene maatregel van bestuur eveneens bij wijze van experiment worden afgeweken van: 
+
+a. [artikel 1 van de Leerplichtwet 1969](../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md),  
+
+b. [artikel 1 van de Les- en cursusgeldwet](../../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md),  
+
+c. [artikel 1.1 van de Wet studiefinanciering 2000](../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md),  
+
+d. [artikel 1.1 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md).     
+7.  Dit artikel is van overeenkomstige toepassing op een samenwerkingsverband van een school met een school als bedoeld in artikel 1, een school als bedoeld in de [Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md), een school of instelling als bedoeld in de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md), een instelling als bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../../wet/isovso/BWBR0003549/README.md) of een instelling als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). Bij samenwerking met een school of instelling kan voor die school of instelling respectievelijk worden afgeweken van [hoofdstuk I, titel I, artikelen 1](../../../../../../../wet/wbo/BWBR0003420/README.md) en [2](../../../../../../../wet/wbo/BWBR0003420/README.md), [titel II, afdeling 1](../../../../../../../wet/wbo/BWBR0003420/README.md), [afdeling 2](../../../../../../../wet/wbo/BWBR0003420/README.md), [artikelen 47](../../../../../../../wet/wbo/BWBR0003420/README.md) en [48](../../../../../../../wet/wbo/BWBR0003420/README.md), en [titel IV, afdeling 1](../../../../../../../wet/wbo/BWBR0003420/README.md), [2](../../../../../../../wet/wbo/BWBR0003420/README.md), [4 tot en met 7](../../../../../../../wet/wbo/BWBR0003420/README.md) en [afdeling 8, paragrafen 2](../../../../../../../wet/wbo/BWBR0003420/README.md), [3](../../../../../../../wet/isovso/BWBR0003549/README.md), [6](../../../../../../../wet/isovso/BWBR0003549/README.md) en [7](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en [afdeling 9, paragrafen 1](../../../../../../../wet/wbo/BWBR0003420/README.md) en [2, van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md), dan wel [titel I, artikelen 1](../../../../../../../wet/isovso/BWBR0003549/README.md) en [2](../../../../../../../wet/wbo/BWBR0003420/README.md), [titel II, afdeling 1](../../../../../../../wet/wbo/BWBR0003420/README.md), [afdeling 2, artikelen 50](../../../../../../../wet/isovso/BWBR0003549/README.md) en [51](../../../../../../../wet/isovso/BWBR0003549/README.md), en [titel IV, afdelingen 1](../../../../../../../wet/isovso/BWBR0003549/README.md), [2](../../../../../../../wet/wbo/BWBR0003420/README.md), [4 tot en met 6](../../../../../../../wet/isovso/BWBR0003549/README.md) en [afdeling 7, paragrafen 2](../../../../../../../wet/isovso/BWBR0003549/README.md), [3](../../../../../../../wet/isovso/BWBR0003549/README.md), [6](../../../../../../../wet/isovso/BWBR0003549/README.md) en [7](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en [afdeling 8, artikelen 146 tot en met 149](../../../../../../../wet/isovso/BWBR0003549/README.md) en [151, van de Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md), [hoofdstuk 2, titel 2](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [hoofdstukken 6](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [7 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [hoofdstuk 2, titel 2, hoofdstuk 5a](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [hoofdstuk 6](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en [7](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [hoofdstuk 9, titel 2](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [hoofdstuk 10, titel 3](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en [hoofdstuk 11, paragraaf 4 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, wordt geregeld welke bij of krachtens de wet, de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet educatie en beroepsonderwijs of de Wet hoger onderwijs en wetenschappelijk onderzoek vastgestelde voorschriften van toepassing of van overeenkomstige toepassing zijn op de samenwerking.   
+8.  De voordracht voor de algemene maatregel van bestuur, bedoeld in het tweede lid, wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.   
 
 ### Titel  V  
 

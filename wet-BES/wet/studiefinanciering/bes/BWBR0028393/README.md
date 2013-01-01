@@ -73,7 +73,7 @@ c. beroepsonderwijs of hoger onderwijs als bedoeld in hoofdstuk 3.
 
 Voor studiefinanciering BES en een opstarttoelage kan een studerende in aanmerking komen die op het moment van de eerste aanvraag: 
 
-a. de Nederlandse nationaliteit bezit, geboren is in een openbaar lichaam, en woonplaats heeft in een openbaar lichaam, met dien verstande dat de studerende, wiens moeder op het tijdstip van zijn geboorte korter dan een jaar niet woonachtig was in een openbaar lichaam, geacht wordt in het openbaar lichaam te zijn geboren; of  
+a. de Nederlandse nationaliteit bezit en woonplaats heeft in een openbaar lichaam; of  
 
 b. woonplaats heeft in een openbaar lichaam en voorafgaand aan de eerste aanvraag ten minste tien jaar, al dan niet aaneengesloten, in een openbaar lichaam heeft gewoond.    
 
@@ -131,24 +131,24 @@ Een minderjarige is bekwaam de rechtshandelingen te verrichten die noodzakelijk 
 
 ####Overzicht bedragen
 
-1.  De bedragen inzake studiefinanciering BES in onderstaand overzicht luiden per kalendermaand en zijn uitgedrukt in USD naar de maatstaf van 1 augustus 2010:  
+1.    *Bedragen studiefinanciering BES:*  
 
-| I. Onderwijstype  | II. Plaats opleiding  | III. Prestatiebeurs of gift per maand  | IV. Lening tijdens prestatiebeurs per maand  | V. Lening na prestatiebeurs per maand  |
+| I. Onderwijstype:   | II. Plaats opleiding:   | III. Prestatiebeurs of  gift per maand:   | IV: Lening tijdens  prestatiebeurs per  maand:  | V: Lening na prestatiebeurs  per maand:  |
 |:---|:---|:---|:---|:---|
-| Beroepsonderwijs  | Eigen openbaar lichaam  | USD 66,34  | USD 132,67  | USD 199,01  |
-| --- | Ander openbaar lichaam, Aruba, Curaçao, Sint Maarten  | USD 215,60  | USD 431,20  | USD 646,79   |
-| --- | Overig deel Caribische regio  | USD 331,68  | USD 663,38  | USD 995,07  |
-| --- | Verenigde Staten van Amerika  | USD 455,00  | USD 909,99  | USD 1.364,99  |
-| Hoger onderwijs  | Eigen openbaar lichaam  | USD 124,38  | USD 248,76  | USD 373,15  |
-| --- | Ander openbaar lichaam, Aruba, Curaçao, Sint Maarten  | USD 248,76  | USD 497,54  | USD 746,29   |
-| --- | Overig deel Caribische regio  | USD 331,68  | USD 663,38  | USD 995,07  |
-| --- | Verenigde Staten van Amerika  | USD 455,00  | USD 909,99  | USD 1.364,99  |
+| Beroepsonderwijs  | Eigen openbaar lichaam  | USD 69,88  | USD 139,76  | USD 209,64  |
+| --- | Ander openbaar lichaam, Aruba Curaçao, Sint Maarten  | USD 227,09  | USD 454,18  | USD 681,27   |
+| --- | Overig deel Caribische regio  | USD 349,36  | USD 698,72  | USD 1.048,08  |
+| --- | Verenigde Staten van Amerika  | USD 479,25  | USD 958,50  | USD 1.437,75  |
+| Hoger onderwijs  | Eigen openbaar lichaam  | USD 131,01  | USD 262,02  | USD 393,03  |
+| --- | Ander openbaar lichaam, Aruba Curaçao, Sint Maarten  | USD 262,02  | USD 524,04  | USD 786,06   |
+| --- | Overig deel Caribische regio  | USD 349,36  | USD 698,72  | USD 1.048,08  |
+| --- | Verenigde Staten van Amerika  | USD 479,25  | USD 958,50  | USD 1.437,75  |
 
-2.  De bedragen inzake opstarttoelage in onderstaand overzicht zijn eenmalig en zijn uitgedrukt in USD naar de maatstaf van 1 augustus 2010:  
+2.    *Bedragen opstarttoelage BES:*  
 
-| I. Onderwijstype  | II. Plaats opleiding  | III. Prestatiebeurs  | IV. Lening  |
+| I. Onderwijstype:  | II. Plaats opleiding:  | III. Prestatiebeurs  | IV: Lening  |
 |:---|:---|:---|:---|
-| Beroepsonderwijs opleiding niveau 3 of 4 en hoger onderwijs  | Europees deel van Nederland  | USD 2.289,65  | USD 4.579,31  |
+| Beroepsonderwijs opleiding niveau 3 of 4 en hoger onderwijs  | Europees deel van Nederland  | USD 2.411,69  | USD 4.823,38   |
 
 ### Paragraaf  2.3  
 

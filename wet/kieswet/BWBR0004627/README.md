@@ -462,7 +462,7 @@ De wijze waarop kandidaten op de lijst worden vermeld, wordt geregeld bij algeme
 
 ### Artikel  H 10  
 
-1.  De kandidaat wiens woonplaats buiten het Europese deel van Nederland is gelegen, wijst in de verklaring van instemming tevens een in het Europese deel van wonende gemachtigde aan met vermelding van diens naam, voorletters, woonplaats en adres. Indien de kandidaat voorkomt op meer dan één lijst, moet in iedere verklaring dezelfde gemachtigde worden aangewezen. Deze gemachtigde is met uitsluiting van de kandidaat bevoegd tot de handelingen, bedoeld in de artikelen V 2, eerste, vierde en vijfde lid, V 3, eerste en derde lid, en W 2, eerste lid, onder f. Indien de kandidaat woonachtig is in één van de openbare lichamen Bonaire, Sint Eustatius en Saba, is de gemachtigde met uitsluiting van de kandidaat bevoegd tot de handelingen, bedoeld in de artikelen V 2, eerste, vierde en vijfde lid, V 3, eerste en tweede lid, en W 2, eerste lid, onder f.   
+1.  De kandidaat wiens woonplaats buiten het Europese deel van Nederland is gelegen, wijst in de verklaring van instemming tevens een in het Europese deel van Nederland wonende gemachtigde aan met vermelding van diens naam, voorletters, woonplaats en adres. Indien de kandidaat voorkomt op meer dan één lijst, moet in iedere verklaring dezelfde gemachtigde worden aangewezen. Deze gemachtigde is met uitsluiting van de kandidaat bevoegd tot de handelingen, bedoeld in de artikelen V 2, eerste, vierde en vijfde lid, V 3, eerste en derde lid, en W 2, eerste lid, onder f. Indien de kandidaat woonachtig is in één van de openbare lichamen Bonaire, Sint Eustatius en Saba, is de gemachtigde met uitsluiting van de kandidaat bevoegd tot de handelingen, bedoeld in de artikelen V 2, eerste, vierde en vijfde lid, V 3, eerste en tweede lid, en W 2, eerste lid, onder f.   
 2.  De kandidaat is bevoegd de overeenkomstig het eerste lid gegeven volmacht in te trekken. Hij geeft hiervan schriftelijk kennis aan de voorzitter van het centraal stembureau, zo nodig met aanwijzing van een nieuwe gemachtigde.   
 
 ### Artikel  H 10a  
@@ -869,7 +869,7 @@ Het stembureau opent tijdig voor de aanvang van de stemming de pakken met stembi
 a. de voorzitter van het stembureau de identiteit van de kiezer heeft vastgesteld aan de hand van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht;  
 
 b. de kiezer in het bezit is van de hem toegezonden of ingevolge artikel J 8 uitgereikte stempas, dan wel een kiezerspas of een volmachtbewijs.     
-2.  De in het eerste lid, onder a, bedoelde vaststelling van de identiteit kan ook geschieden aan de hand van een kopie van het proces-verbaal dat van een vermissing van het document op ambtseed is opgemaakt door een opsporingsambtenaar van de Nederlandse politie, onderscheidenlijk de politie van Aruba, van Curaçao of van Sint Maarten, in combinatie met een document van de kiesgerechtigde op diens naam en voorzien van zijn foto.   
+2.  De in het eerste lid, onder a, bedoelde vaststelling van de identiteit kan ook geschieden aan de hand van een kopie van het proces-verbaal dat van een vermissing van het document op ambtseed is opgemaakt door een opsporingsambtenaar van de politie in het Europese deel van Nederland of in Bonaire, Sint Eustatius en Saba, onderscheidenlijk de politie van Aruba, van Curaçao of van Sint Maarten, in combinatie met een document van de kiesgerechtigde op diens naam en voorzien van zijn foto.   
 
 ### Artikel  J 25  
 
@@ -2121,7 +2121,7 @@ h. die, indien het de verkiezing van provinciale staten onderscheidenlijk de gem
 
 ### Artikel  W 3  
 
-1.  Indien bij de toepassing van de bepalingen van dit hoofdstuk geen kandidaat meer voor benoeming in aanmerking komt op de lijst waarop degene is gekozen die moet worden opgevolgd, en deze lijst te zamen met één of meer andere lijsten een lijstengroep, onderscheidenlijk een lijstencombinatie, vormt, gaat de zetel door toepassing van artikel P 13, onderscheidenlijk artikel U 13, over op één van die andere lijsten. De kandidaat van deze lijst die naar de volgorde, vastgesteld overeenkomstig artikel P 19, onderscheidenlijk artikel U 15 voor benoeming in aanmerking komt, wordt benoemd verklaard. Komt ook op deze lijst geen kandidaat meer voor benoeming in aanmerking, dan wordt de plaats aan een andere van de groep, onderscheidenlijk de combinatie, deel uitmakende lijst toegekend door verdere toepassing van het in dit lid bepaalde, en zo vervolgens.   
+1.  Indien bij de toepassing van de bepalingen van dit hoofdstuk geen kandidaat meer voor benoeming in aanmerking komt op de lijst waarop degene is gekozen die moet worden opgevolgd, en deze lijst te zamen met één of meer andere lijsten een lijstengroep, onderscheidenlijk een lijstencombinatie, vormt, gaat de zetel door toepassing van artikel P 13, onderscheidenlijk artikel U 13, over op één van die andere lijsten. De kandidaat van deze lijst die naar de volgorde, vastgesteld overeenkomstig artikel P 19, onderscheidenlijk artikel U 15, voor benoeming in aanmerking komt, wordt benoemd verklaard. Komt ook op deze lijst geen kandidaat meer voor benoeming in aanmerking, dan wordt de plaats aan een andere van de groep, onderscheidenlijk de combinatie, deel uitmakende lijst toegekend door verdere toepassing van het in dit lid bepaalde, en zo vervolgens.   
 2.  Bij de toepassing van het eerste lid komen het eerst in aanmerking de lijsten die te zamen met de desbetreffende lijst een lijstengroep vormen en vervolgens de lijsten die met die lijst tot een lijstencombinatie zijn verbonden.   
 
 ### Artikel  W 4  
@@ -2841,7 +2841,7 @@ e. het Gemeenschappelijk Hof doet uitspraak uiterlijk op de zevende dag nadat he
 
 ### Artikel  Ya 50  
 
-Bij de kandidaatstelling voor de eerste verkiezing van de leden van de eilandsraad na inwerkingtreding van de wet van 17 mei 2010 tot wijziging van de Kieswet in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland Stb. 347), wordt voor de toepassing van de artikelen H 4, achtste lid, H 14, tweede lid, en I 14, eerste en tweede lid, voor «de laatstgehouden verkiezing van de leden van de gemeenteraad», dan wel voor «de laatstgehouden verkiezing van de leden van het desbetreffende vertegenwoordigend(e) orgaan» gelezen: de laatstgehouden verkiezing van de leden van de eilandsraad van de voormalige eilandgebieden Bonaire, Sint Eustatius of Saba.  
+Bij de kandidaatstelling voor de eerste verkiezing van de leden van de eilandsraad na inwerkingtreding van de wet van 17 mei 2010 tot wijziging van de Kieswet in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Stb. 347), wordt voor de toepassing van de artikelen H 4, achtste lid, H 14, tweede lid, en I 14, eerste en tweede lid, voor «de laatstgehouden verkiezing van de leden van de gemeenteraad», dan wel voor «de laatstgehouden verkiezing van de leden van het desbetreffende vertegenwoordigend(e) orgaan» gelezen: de laatstgehouden verkiezing van de leden van de eilandsraad van de voormalige eilandgebieden Bonaire, Sint Eustatius of Saba.  
 
 ### Artikel  Ya 51  
 
@@ -2964,7 +2964,7 @@ F. Korthals Altes
 | 11.  | De gemeenten van de provincie Noord-Holland die niet tot de kieskringen 9 of 10 behoren.  | Den Helder  |
 | 12.  | De gemeente 's-Gravenhage  | 's-Gravenhage  |
 | 13.  | De gemeente Rotterdam  | Rotterdam  |
-| 14.  | De gemeenten Alblasserdam, Albrandswaard, Barendrecht, Bernisse, Binnenmaas, Brielle, Cromstrijen, Delft, Dirksland, Dordrecht, Giessenlanden, Goedereede, Gorinchem, Graafstroom, Hardinxveld-Giessendam, Hellevoetsluis, Hendrik-Ido-Ambacht, Korendijk, Leerdam, Liesveld, Maassluis, Middelharnis, Midden-Delfland, Nieuw-Lekkerland, Oostflakkee, Oud-Beijerland, Papendrecht, Ridderkerk, Rozenburg, Rijswijk, Schiedam, Sliedrecht, Spijkenisse, Strijen, Vlaardingen, Westland, Westvoorne, Zederik, Zwijndrecht.  | Dordrecht  |
+| 14.  | De gemeenten Alblasserdam, Albrandswaard, Barendrecht, Bernisse, Binnenmaas, Brielle, Cromstrijen, Delft, Dordrecht, Giessenlanden, Goeree-Overflakkee, Gorinchem, Hardinxveld-Giessendam, Hellevoetsluis, Hendrik-Ido-Ambacht, Korendijk, Leerdam, Maassluis, Midden-Delfland, Molenwaard, Oud-Beijerland, Papendrecht, Ridderkerk, Rozenburg, Rijswijk, Schiedam, Sliedrecht, Spijkenisse, Strijen, Vlaardingen, Westland, Westvoorne, Zederik, Zwijndrecht.  | Dordrecht  |
 | 15.  | De gemeenten van de provincie Zuid-Holland die niet tot de kieskringen 12, 13 of 14 behoren.  | Leiden  |
 | 16.  | De provincie Zeeland  | Middelburg  |
 | 17.  | De gemeenten Aalburg, Alphen-Chaam, Baarle-Nassau, Bergen op Zoom, Breda, Dongen, Drimmelen, Etten-Leur, Geertruidenberg, Gilze en Rijen, Goirle, Halderberge, Hilvarenbeek, Loon op Zand, Moerdijk, Oisterwijk, Oosterhout, Roosendaal, Rucphen, Steenbergen, Tilburg, Waalwijk, Werkendam, Woensdrecht, Woudrichem, Zundert.  | Tilburg  |

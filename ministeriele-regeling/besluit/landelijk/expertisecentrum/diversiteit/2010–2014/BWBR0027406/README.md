@@ -12,11 +12,9 @@ In dit besluit wordt verstaan onder:
 
 a) *LECD:* Landelijk Expertisecentrum Diversiteit;  
 
-b) *RKC:* Raad van Korpschefs;  
+b) *minister:* de Minister van Veiligheid en Justitie;  
 
-c) *minister:* de minister van Binnenlandse Zaken en Koninkrijksrelaties  
-
-d) *BZK:* het ministerie van Binnenlandse Zaken en Koninkrijksrelaties    
+c) *VenJ:* het Ministerie van Veiligheid en Justitie.    
 
 ### Artikel  2  
 
@@ -30,7 +28,7 @@ Het LECD maakt deel uit van het Landelijk selectie- en opleidingsinstituut polit
 
 1.  Het LECD heeft tot taak: 
 
-a. Het ten behoeve van de aanpak van discriminatie, diversiteit en multicultureel vakmanschap bieden van advies en ondersteuning aan de regiokorpsen, het Korps landelijke politiediensten, de Politieacademie, de voorziening tot samenwerking Politie Nederland en BZK;  
+a. Het ten behoeve van de aanpak van discriminatie, diversiteit en multicultureel vakmanschap bieden van advies en ondersteuning aan de politie, bedoeld in [artikel 1, onder b, van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), de Politieacademie en VenJ;  
 
 b. Het binnen en buiten de politie verzamelen en verspreiden van actuele informatie, kennis en relevante ervaringen over discriminatie, diversiteitmanagement en multicultureel vakmanschap ten behoeve van de organisaties bedoeld onder a;  
 
@@ -38,7 +36,7 @@ c. Het ontwikkelen van instrumenten ter bevordering van diversiteitsmanagement b
 
 d. Het monitoren van discriminatie, diversiteit en multicultureel vakmanschap in de regiokorpsen, het Korps landelijke politiediensten, de Politieacademie en de voorziening tot samenwerking Politie Nederland op basis van een referentiekader;     
 2.  Het LECD kan zich bij de uitoefening van haar taken laten bijstaan door derden;   
-3.  Bij de uitvoering van haar taak pleegt het LECD overleg met het Lectoraat Multicultureel Vakmanschap van de Politieacademie en aanverwante door BZK vastgestelde diversiteitprogramma’s;   
+3.  Bij de uitvoering van haar taak pleegt het LECD overleg met het Lectoraat Multicultureel Vakmanschap van de Politieacademie en aanverwante door VenJ vastgestelde diversiteitprogramma’s;   
 4.  Door tussenkomst van de minister kunnen, in aanvulling op de in het eerste lid genoemde taken, specifieke taken worden opgedragen, mits deze samenhangen met de in het eerste lid bedoelde taken.   
 
 ### Artikel  5  
@@ -49,22 +47,22 @@ d. Het monitoren van discriminatie, diversiteit en multicultureel vakmanschap in
 
 ### Artikel  6  
 
-1.  Er is een Politiediversiteitsraad die tot taak heeft om zorg te dragen voor de verbinding tussen de activiteiten van het LECD en de activiteiten en ontwikkelingen met betrekking tot diversiteit binnen de regionale politiekorpsen, het Korps landelijke politiediensten, de voorziening tot samenwerking Politie Nederland en BZK.   
+1.  Er is een Politiediversiteitsraad die tot taak heeft om zorg te dragen voor de verbinding tussen de activiteiten van het LECD en de activiteiten en ontwikkelingen met betrekking tot diversiteit binnen de politie, bedoeld in [artikel 1, onder b, van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), de Politieacademie en VenJ.   
 2.  De Politiediversiteitsraad adviseert het college van bestuur van de Politieacademie en de directeur van het LECD over de uitvoering van de activiteiten uit het meerjarig beleidsplan en het jaarplan van het LECD, alsmede de verbinding als bedoeld in lid 1.   
 
 ### Artikel  7  
 
 1.  De Politiediversiteitsraad kent de volgende samenstelling: 
 
-– de portefeuillehouder diversiteit uit de RKC, welke tevens fungeert als voorzitter;  
+– de portefeuillehouder diversiteit van het korps Nationale Politie, welke tevens fungeert als voorzitter;  
 
-– één of meerdere andere leden uit de RKC;  
+– één of meerdere politiechefs;  
 
-– één of meerdere leden uit het Korpsbeheerdersberaad;  
+– een regioburgemeester;  
 
-– de directeur Politie en Veiligheidsregio’s van BZK;  
+– de directeur Bedrijfsvoering Politie van VenJ;  
 
-– externe leden, waaronder een vertegenwoordiger vanuit het COC (Cultuur- en OntspanningsCentrum, belangenbehartiger homoseksuelen) en de wetenschap;     
+– externe leden, waaronder een vertegenwoordiger vanuit het COC (Cultuur- en OntspanningsCentrum, belangenbehartiger homoseksuelen) en de wetenschap.     
 2.  De minister voorziet, in overleg met de Politiediversiteitsraad, in de tussentijdse vervanging van de voorzitter en de leden die worden benoemd tot 1 januari 2015.   
 
 ### Artikel  8  
@@ -75,7 +73,7 @@ d. Het monitoren van discriminatie, diversiteit en multicultureel vakmanschap in
 
 ### Artikel  9  
 
-1.  Op de leden van de Politiediversiteitsraad, met uitzondering van de korpschefs en de directeur Politie en Veiligheidsregio’s van BZK, is het Besluit vergoedingen adviescolleges en commissies van toepassing.   
+1.  Op de leden van de Politiediversiteitsraad, met uitzondering van de vertegenwoordigers, aangewezen door de korpschef en de directeur Bedrijfsvoering Politie van VenJ, is het [Besluit vergoedingen adviescolleges en commissies](../../../../../../../AMvB/besluit/vergoedingen/adviescolleges/en/commissies/BWBR0025279/README.md) van toepassing.   
 2.  De vergoedingen, bedoeld in het vorige lid worden verstrekt door het LECD en komen ten laste van het budget, zoals bedoeld in artikel 11, eerste lid.   
 
 ### Artikel  10  

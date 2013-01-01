@@ -281,10 +281,6 @@ c. de wegvakken waar plaatsing van een betaalpoort voor het expresbaantarief wor
 3.  Voor zover het in artikel 3, eerste lid, bedoelde besluit en het bestemmingsplan of de beheersverordening niet met elkaar in overeenstemming zijn, geldt het besluit voor de uitvoering daarvan als omgevingsvergunning waarbij ten behoeve van een project van nationaal belang, met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), van het bestemmingsplan of de beheersverordening wordt afgeweken. Zolang het bestemmingsplan of de beheersverordening nog niet in overeenstemming is met het besluit, verleent het college van burgemeester en wethouders van de gemeente aan degenen die inzage verlangen in het plan of de verordening, tevens inzage in het besluit. Bij de toepassing van [artikel 2.10 van die wet](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) wordt onder bestemmingsplan of beheersverordening mede het besluit begrepen.   
 4.  Voor zover een bestemmingsplan, een beheersverordening of een ander besluit voor de uitvoering van werken of werkzaamheden een omgevingsvergunning voor een aanlegactiviteit als bedoeld in [artikel 2.1, eerste lid, onder b, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) vereist, geldt zodanige eis niet voor de uitvoering van werken of werkzaamheden ter uitwerking van het in artikel 3, eerste lid, bedoelde besluit.   
 
-### Artikel  33  
-
-Tegen een besluit als bedoeld in [artikel 3, eerste lid](../../../../../../wet/wet/op/de/stads-/en/dorpsvernieuwing/BWBR0003709/README.md), kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.  
-
 ### Artikel  34  
 
 De gemeenteraad stelt binnen een jaar nadat een in artikel 3, eerste lid, bedoeld besluit onherroepelijk is geworden een bestemmingsplan of een beheersverordening als bedoeld in de [Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) overeenkomstig dat besluit vast. Voor zover een ontwerp van een bestemmingsplan zijn grondslag vindt in dat besluit, kunnen zienswijzen geen betrekking hebben op dat deel van het ontwerpplan.  
@@ -307,13 +303,7 @@ a. in afwijking van [artikel 2, vierde lid, van de Belemmeringenwet Privaatrecht
 
 b. in afwijking van de [artikelen 2, vijfde lid](../../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), en [3, tweede lid, van de Belemmeringenwet Privaatrecht](../../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) wordt het college van gedeputeerde staten niet gehoord;  
 
-c. in plaats van [artikel 4 van de Belemmeringenwet Privaatrecht](../../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) geldt het volgende: 
-
-1°. tegen een besluit als bedoeld in [artikel 2, vijfde lid](../../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), of [artikel 3, tweede lid, van die wet](../../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State;  
-
-2°. [artikel 7:1 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing;  
-
-3°. de werking van een besluit als bedoeld in [artikel 2, vijfde lid](../../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), of [artikel 3, tweede lid, van de Belemmeringenwet Privaatrecht](../../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) wordt opgeschort tot het tijdstip waarop de termijn voor het indienen van een beroepschrift verstrijkt.       
+c. in afwijking van [artikel 4 van de Belemmeringenwet Privaatrecht](../../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) wordt de werking van een besluit als bedoeld in [artikel 2, vijfde lid](../../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), of [artikel 3, tweede lid, van de Belemmeringenwet Privaatrecht](../../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) opgeschort tot het tijdstip waarop de termijn voor het indienen van een beroepschrift verstrijkt.     
 
 ### Artikel  37  
 

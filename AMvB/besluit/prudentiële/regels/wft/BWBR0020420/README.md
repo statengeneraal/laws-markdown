@@ -26,7 +26,7 @@ b. de overige staten die deel uitmaken van de Europese Economische Ruimte; of
 
 c. Australië of Nieuw-Zeeland;   *daggeld:* kortlopende vorderingen die dagelijks opvraagbaar zijn en die uiterlijk twee werkdagen na opvraging dan wel opzegging moeten worden terugbetaald; *entiteit voor securitisatiedoeleinden*: onderneming: 
 
-a. die geen kredietinstelling is;  
+a. die geen bank is;  
 
 b. die is opgericht ten behoeve van een of meer securitisaties;  
 
@@ -50,7 +50,7 @@ d. de activa bieden gedurende de looptijd van de obligatie voldoende dekking voo
 
 e. op de activa is het recht van toepassing van een lidstaat, de Verenigde Staten van Amerika, Canada, Japan, de Republiek Korea, Hong Kong, Singapore, Australië, Nieuw-Zeeland of Zwitserland; en  
 
-f. de uitgevende bank heeft geen aandelenbelang in de rechtspersonen, bedoeld onder c, onder 1º, oefent daarin geen beleidsbepalende zeggenschap uit en is ook niet op andere wijze gerechtigd tot een eigendomsbelang in die rechtspersonen.    *geregistreerde gedekte obligatie:*  obligatie, behorend tot een categorie die: 
+f. de uitgevende bank heeft geen aandelenbelang in de rechtspersonen, bedoeld onder c, onder 1º, oefent daarin geen beleidsbepalende zeggenschap uit en is ook niet op andere wijze gerechtigd tot een eigendomsbelang in die rechtspersonen.   *gemiddeld uitstaand elektronisch geld:* het gemiddelde totale bedrag gedurende de zes voorafgaande kalendermaanden van de met elektronisch geld verband houdende financiële verplichtingen dat op het eind van elke kalenderdag in omloop is, berekend op de eerste kalenderdag van elke kalendermaand en toegepast voor die kalendermaand.  *geregistreerde gedekte obligatie:*  obligatie, behorend tot een categorie die: 
 
 a. is opgenomen op een lijst waarvan de gegevens door de Commissie van de Europese Gemeenschappen op grond van artikel 22, vierde lid, van de richtlijn beleggingsinstellingen ter beschikking zijn gesteld aan het publiek, of  
 
@@ -58,15 +58,19 @@ b. is geregistreerd overeenkomstig artikel 124b;   *groepsbestuurder:* ieder die
 
 a. met elkaar zijn verbonden in een formele of feitelijke zeggenschapsstructuur; of  
 
-b. zodanig onderling verbonden zijn dat, indien een van hen financiële problemen zou ondervinden, in elk geval een van de anderen waarschijnlijk in betalingsproblemen zou komen;   *grote posities:* niet naar risico gewogen activa en posten buiten de balanstelling ten aanzien van een wederpartij of groep van verbonden wederpartijen waarvan de waarde ten minste tien procent van het toetsingsvermogen bedraagt, uitgezonderd: 
+b. zodanig onderling verbonden zijn dat, indien een van hen financiële problemen, in het bijzonder financieringsproblemen of betalingsproblemen, zou ondervinden, in elk geval een van de anderen waarschijnlijk ook in financieringsproblemen of betalingsproblemen zou komen;   *grote posities:* niet naar risico gewogen activa en posten buiten de balanstelling ten aanzien van een wederpartij of groep van verbonden wederpartijen waarvan de waarde ten minste tien procent van het toetsingsvermogen bedraagt, uitgezonderd: 
 
 a. de activa en posten buiten de balanstelling die een financiële onderneming in mindering brengt op haar toetsingsvermogen;  
 
 b. de niet naar risico gewogen activa en posten buiten de balanstelling die worden aangehouden in het kader van de normale afwikkeling van: 
 
-1°. valutatransacties binnen 48 uur nadat de betaling heeft plaatsgevonden;  
+1°. valutatransacties binnen twee werkdagen nadat de betaling heeft plaatsgevonden;  
 
-2°. effectentransacties binnen vijf werkdagen nadat de betaling heeft plaatsgevonden of nadat de effecten geleverd zijn indien deze levering eerder plaatsvindt;     *ondernemingsgebonden herverzekeraar:* herverzekeraar waarvan alle aandelen worden gehouden door een financiële onderneming die geen verzekeraar is of door een onderneming die geen financiële onderneming is, of die deel uitmaakt van een groep die geen verzekeringsgroep is als bedoeld in de [afdelingen 3.6.1.](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [3.6.3. van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en die uitsluitend risico’s in herverzekering neemt van de eerdergenoemde financiële onderneming onderscheidenlijk onderneming of van de ondernemingen die deel uitmaken van de groep waarvan hij deel uitmaakt; *incident:* gedraging of gebeurtenis die een ernstig gevaar vormt voor de integere uitoefening van het bedrijf van de desbetreffende financiële onderneming; *initiator*: onderneming die: 
+2°. effectentransacties binnen vijf werkdagen nadat de betaling heeft plaatsgevonden of nadat de effecten geleverd zijn indien deze levering eerder plaatsvindt;  
+
+3°. in het geval van betalingsverrichtingen, waaronder de uitvoering van betalingsopdrachten, clearing en afwikkeling in elke valuta, correspondent bankieren en clearing van financiële instrumenten, de afwikkeling en bewaring ten behoeve van cliënten, uitgestelde ontvangsten bij de financiering en andere posten in verband met die diensten of activiteiten die uiterlijk tot en met de volgende werkdag bestaan;  
+
+4°. in het geval van betalingsverrichtingen, waaronder de uitvoering van betalingsopdrachten, clearing en afwikkeling in elke valuta en correspondent bankieren, de posities die op dezelfde dag dat ze zijn aangegaan, ook weer worden afgewikkeld jegens financiële ondernemingen die deze diensten aanbieden;     *ondernemingsgebonden herverzekeraar:* herverzekeraar waarvan alle aandelen worden gehouden door een financiële onderneming die geen verzekeraar is of door een onderneming die geen financiële onderneming is, of die deel uitmaakt van een groep die geen verzekeringsgroep is als bedoeld in de [afdelingen 3.6.1.](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [3.6.3. van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en die uitsluitend risico’s in herverzekering neemt van de eerdergenoemde financiële onderneming onderscheidenlijk onderneming of van de ondernemingen die deel uitmaken van de groep waarvan hij deel uitmaakt; *incident:* gedraging of gebeurtenis die een ernstig gevaar vormt voor de integere uitoefening van het bedrijf van de desbetreffende financiële onderneming; *initiator*: onderneming die: 
 
 a. zelf of via een andere onderneming rechtstreeks of middellijk partij is geweest bij de oorspronkelijke overeenkomst waarmee de verplichtingen of mogelijke verplichtingen van de debiteur of mogelijke debiteur die worden gesecuritiseerd, zijn ontstaan; of  
 
@@ -74,7 +78,7 @@ b. vorderingen van een derde koopt, in haar balans opneemt en vervolgens securit
 
 a. leidinggevende functie direct onder die van de personen die het beleid van een financiële onderneming bepalen of mede bepalen; of  
 
-b. functie waaraan een bevoegdheid is verbonden die een wezenlijk risico inhoudt voor de integere uitoefening van het bedrijf van een financiële onderneming;   *integriteitsrisico:* gevaar voor aantasting van de reputatie of bestaande of toekomstige bedreiging van vermogen of resultaat van een financiële onderneming als gevolg van een ontoereikende naleving van hetgeen bij of krachtens enig wettelijk voorschrift is voorgeschreven; *internationale jaarrekeningstandaarden:* internationale standaarden voor jaarrekeningen die door de Commissie van de Europese Gemeenschappen van toepassing zijn verklaard overeenkomstig artikel 3 van verordening (EG) nr. 1606/2002 van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 (PbEG L 243); *interne modellenmethode*: methode waarbij de som van de naar risico gewogen activa en posten buiten de balanstelling voor de kredietrisico’s van een financiële onderneming wordt bepaald op basis van een intern model; *kalenderpost:* actiefpost of passiefpost waarvan de kasinstromen respectievelijk kasuitstromen als gevolg van aflossing of rentebetalingen in de vervalkalender worden opgenomen; *kans op wanbetaling*: kans dat een wederpartij over een periode van een jaar in gebreke blijft; *kasstromen van het kernbedrijf:* kasstromen van leningen die met een vaste termijn zijn verstrekt aan tegenpartijen, die geen kantoren en bancaire deelnemingen zijn die niet in de rapportage worden betrokken, die geen kredietinstellingen en geen professionele geldmarktpartijen zijn, en van deze tegenpartijen met een vaste termijn opgenomen gelden, met inbegrip van te ontvangen onderscheidenlijk te betalen rente; *kredietbeoordeling*: taxatie van de kans op wanbetaling en de mate van wanbetaling door een bepaalde debiteur op al zijn verplichtingen of een deel van zijn verplichtingen; *kredietbeoordelingsbureau*: bureau dat kredietbeoordelingen opstelt; *kredietrisicovermindering*: techniek ter beperking van het kredietrisico dat verbonden is aan activa en posten buiten de balanstelling; *kredietverbetering*: contractuele regeling die de kans op wanbetaling en de mate van wanbetaling van een securitisatiepositie vermindert ten opzichte van de situatie waarin van die regeling geen sprake zou zijn; *leningverstrekkende financiële onderneming*: financiële onderneming die een vordering heeft, ongeacht of daaraan een lening ten grondslag ligt; *maandperiode:* eerste kalendermaand volgend op de verslagdatum; *niet-volgestorte kredietprotectie*: kredietrisicovermindering waarbij het kredietrisico met betrekking tot een vordering van een financiële onderneming wordt beperkt door de garantie van een derde partij om een bepaald bedrag uit te keren bij wanbetaling van de wederpartij of bij andere in de overeenkomst tot kredietprotectie vermelde gebeurtenissen die betaling onder de overeenkomst of afwikkeling van de overeenkomst tot gevolg hebben; *officiële stand-by faciliteiten:* liquiditeitsgarantie die, onder door de Nederlandsche Bank te stellen voorwaarden, is ontvangen van onderscheidenlijk afgegeven door een binnenlandse of buitenlandse bank; *omgekeerde retrocessieovereenkomst*: overeenkomst waarbij een wederpartij aan een financiële onderneming effecten, grondstoffen of gegarandeerde rechten betreffende de eigendom van effecten of grondstoffen verkoopt, onder de ontbindende voorwaarde deze of vervangende effecten of grondstoffen tegen een vastgestelde prijs op een door de wederpartij te bepalen tijdstip in de toekomst terug te kopen, indien: 
+b. functie waaraan een bevoegdheid is verbonden die een wezenlijk risico inhoudt voor de integere uitoefening van het bedrijf van een financiële onderneming;   *integriteitsrisico:* gevaar voor aantasting van de reputatie of bestaande of toekomstige bedreiging van vermogen of resultaat van een financiële onderneming als gevolg van een ontoereikende naleving van hetgeen bij of krachtens enig wettelijk voorschrift is voorgeschreven; *internationale jaarrekeningstandaarden:* internationale standaarden voor jaarrekeningen die door de Commissie van de Europese Gemeenschappen van toepassing zijn verklaard overeenkomstig artikel 3 van verordening (EG) nr. 1606/2002 van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 (PbEG L 243); *interne modellenmethode*: methode waarbij de som van de naar risico gewogen activa en posten buiten de balanstelling voor de kredietrisico’s van een financiële onderneming wordt bepaald op basis van een intern model; *kalenderpost:* actiefpost of passiefpost waarvan de kasinstromen respectievelijk kasuitstromen als gevolg van aflossing of rentebetalingen in de vervalkalender worden opgenomen; *kans op wanbetaling*: kans dat een wederpartij over een periode van een jaar in gebreke blijft; *kasstromen van het kernbedrijf:* kasstromen van leningen die met een vaste termijn zijn verstrekt aan tegenpartijen, die geen kantoren en bancaire deelnemingen zijn die niet in de rapportage worden betrokken, die geen banken en geen professionele geldmarktpartijen zijn, en van deze tegenpartijen met een vaste termijn opgenomen gelden, met inbegrip van te ontvangen onderscheidenlijk te betalen rente; *kredietbeoordeling*: taxatie van de kans op wanbetaling en de mate van wanbetaling door een bepaalde debiteur op al zijn verplichtingen of een deel van zijn verplichtingen; *kredietbeoordelingsbureau*: bureau dat kredietbeoordelingen opstelt; *kredietrisicovermindering*: techniek ter beperking van het kredietrisico dat verbonden is aan activa en posten buiten de balanstelling; *kredietverbetering*: contractuele regeling die de kans op wanbetaling en de mate van wanbetaling van een securitisatiepositie vermindert ten opzichte van de situatie waarin van die regeling geen sprake zou zijn; *leningverstrekkende financiële onderneming*: financiële onderneming die een vordering heeft, ongeacht of daaraan een lening ten grondslag ligt; *maandperiode:* eerste kalendermaand volgend op de verslagdatum; *niet-volgestorte kredietprotectie*: kredietrisicovermindering waarbij het kredietrisico met betrekking tot een vordering van een financiële onderneming wordt beperkt door de garantie van een derde partij om een bepaald bedrag uit te keren bij wanbetaling van de wederpartij of bij andere in de overeenkomst tot kredietprotectie vermelde gebeurtenissen die betaling onder de overeenkomst of afwikkeling van de overeenkomst tot gevolg hebben; *officiële stand-by faciliteiten:* liquiditeitsgarantie die, onder door de Nederlandsche Bank te stellen voorwaarden, is ontvangen van onderscheidenlijk afgegeven door een binnenlandse of buitenlandse bank; *omgekeerde retrocessieovereenkomst*: overeenkomst waarbij een wederpartij aan een financiële onderneming effecten, grondstoffen of gegarandeerde rechten betreffende de eigendom van effecten of grondstoffen verkoopt, onder de ontbindende voorwaarde deze of vervangende effecten of grondstoffen tegen een vastgestelde prijs op een door de wederpartij te bepalen tijdstip in de toekomst terug te kopen, indien: 
 
 a. in geval van gegarandeerde rechten, de garantie is verstrekt door een gereglementeerde markt die houder is van de rechten; en  
 
@@ -137,7 +141,7 @@ c. waarvan geen van de personen die het beleid bepalen of mede bepalen personen 
 ### Artikel  4  
 
 1.  Berekeningen met betrekking tot het minimumbedrag aan eigen vermogen, de solvabiliteit en de liquiditeit op grond van de hoofdstukken 9, 10 onderscheidenlijk 11 worden, voor zover niet anders is bepaald, gedaan op basis van de enkelvoudige jaarrekening zoals opgemaakt ingevolge [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of de internationale jaarrekeningstandaarden.   
-2.  Berekeningen met betrekking tot de solvabiliteit van kredietinstellingen op grond van hoofdstuk 10 en de liquiditeit van banken op grond van hoofdstuk 11 worden, voor zover niet anders is bepaald, gedaan op basis van de geconsolideerde jaarrekening indien deze wordt opgemaakt ingevolge [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of de internationale jaarrekeningstandaarden.   
+2.  Berekeningen met betrekking tot de solvabiliteit van banken op grond van hoofdstuk 10 en de liquiditeit van banken op grond van hoofdstuk 11 worden, voor zover niet anders is bepaald, gedaan op basis van de geconsolideerde jaarrekening indien deze wordt opgemaakt ingevolge [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of de internationale jaarrekeningstandaarden.   
 
 ### Hoofdstuk  2  
 
@@ -209,7 +213,7 @@ a. het onderlinge verband tussen de aan een antecedent ten grondslag liggende ge
 
 b. de belangen die de [wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beoogt te beschermen; en  
 
-c. de overige belangen van de clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling of verzekeraar en de betrokkene.    
+c. de overige belangen van de clearinginstelling, entiteit voor risico-acceptatie, bank of verzekeraar en de betrokkene.    
 
 ### Hoofdstuk  3  
 
@@ -219,7 +223,7 @@ Bepalingen ter uitvoering van de [artikelen 3:10, eerste, tweede en derde lid](.
 
 ### Artikel  10  
 
-1.  Een betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in [artikel 3:10, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:11](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:12](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:13](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:14 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) draagt zorg voor een systematische analyse van integriteitsrisico´s.   
+1.  Een betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in [artikel 3:10, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:11](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:12](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:13](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:14 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) draagt zorg voor een systematische analyse van integriteitsrisico´s.   
 2.  De financiële onderneming, onderscheidenlijk het bijkantoor, draagt er zorg voor dat het beleid, bedoeld in [artikel 3:10, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn neerslag vindt in procedures en maatregelen.   
 3.  De financiële onderneming, onderscheidenlijk het bijkantoor, stelt alle relevante bedrijfsonderdelen in kennis van het beleid en de procedures en maatregelen.   
 4.  De financiële onderneming, onderscheidenlijk het bijkantoor, draagt zorg voor de uitvoering en de systematische toetsing van het beleid en de procedures en maatregelen.   
@@ -228,7 +232,7 @@ Bepalingen ter uitvoering van de [artikelen 3:10, eerste, tweede en derde lid](.
 
 ### Artikel  11  
 
-1.  Een betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in [artikel 3:17, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:23](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:24a](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:24b](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:26](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:27 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschikt over procedures en maatregelen met betrekking tot het tegengaan van verstrengeling van privé-belangen van: 
+1.  Een betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in [artikel 3:17, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:23](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:24a](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:24b](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:26](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:27 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschikt over procedures en maatregelen met betrekking tot het tegengaan van verstrengeling van privé-belangen van: 
 
 a. personen die het beleid van de financiële onderneming bepalen;  
 
@@ -237,36 +241,36 @@ b. groepsbestuurders;
 c. leden van het orgaan dat is belast met het toezicht op het beleid en de algemene gang van zaken van de financiële onderneming; en  
 
 d. andere werknemers of andere personen die in haar opdracht op structurele basis werkzaamheden voor haar verrichten, met haar belangen of die van haar cliënten.     
-2.  De entiteit voor risico-acceptatie, kredietinstelling, premiepensioeninstelling of verzekeraar, onderscheidenlijk het bijkantoor, beschikt over procedures en maatregelen met betrekking tot het verlenen van financiële diensten op basis van personeelscondities aan personen die het beleid van de financiële onderneming bepalen en groepsbestuurders.   
-3.  Financiële dienstverlening door de entiteit voor risico-acceptatie, kredietinstelling, premiepensioeninstelling of verzekeraar, onderscheidenlijk het bijkantoor, op basis van personeelscondities aan personen die het beleid van de financiële onderneming bepalen of groepsbestuurders vindt uitsluitend plaats in de normale uitoefening van het bedrijf en vindt telkens slechts plaats na instemming door het orgaan dat is belast met het toezicht op het beleid en de algemene gang van zaken van de financiële onderneming dan wel namens een daartoe aangewezen orgaan.   
-4.  Financiële dienstverlening door de entiteit voor risico-acceptatie, kredietinstelling, premiepensioeninstelling of verzekeraar, onderscheidenlijk het bijkantoor, aan personen die het beleid van de financiële onderneming bepalen of groepsbestuurders vindt, indien de dienst buiten de grenzen van het bij de financiële onderneming bestaande systeem van personeelscondities wordt verleend, uitsluitend plaats in de normale uitoefening van het bedrijf en tegen de gebruikelijke commerciële voorwaarden en zekerheden.   
-5.  Financiële dienstverlening door de entiteit voor risico-acceptatie, kredietinstelling, premiepensioeninstelling of verzekeraar, onderscheidenlijk het bijkantoor, aan leden van het orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de financiële onderneming, alsmede aan familieleden, niet zijnde personeelsleden, van personen die het beleid van de financiële onderneming bepalen, van groepsbestuurders en van leden van het orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de financiële onderneming, geschiedt uitsluitend in de normale uitoefening van het bedrijf en tegen de gebruikelijke commerciële voorwaarden en zekerheden.   
+2.  De entiteit voor risico-acceptatie, bank, premiepensioeninstelling of verzekeraar, onderscheidenlijk het bijkantoor, beschikt over procedures en maatregelen met betrekking tot het verlenen van financiële diensten op basis van personeelscondities aan personen die het beleid van de financiële onderneming bepalen en groepsbestuurders.   
+3.  Financiële dienstverlening door de entiteit voor risico-acceptatie, bank, premiepensioeninstelling of verzekeraar, onderscheidenlijk het bijkantoor, op basis van personeelscondities aan personen die het beleid van de financiële onderneming bepalen of groepsbestuurders vindt uitsluitend plaats in de normale uitoefening van het bedrijf en vindt telkens slechts plaats na instemming door het orgaan dat is belast met het toezicht op het beleid en de algemene gang van zaken van de financiële onderneming dan wel namens een daartoe aangewezen orgaan.   
+4.  Financiële dienstverlening door de entiteit voor risico-acceptatie, bank, premiepensioeninstelling of verzekeraar, onderscheidenlijk het bijkantoor, aan personen die het beleid van de financiële onderneming bepalen of groepsbestuurders vindt, indien de dienst buiten de grenzen van het bij de financiële onderneming bestaande systeem van personeelscondities wordt verleend, uitsluitend plaats in de normale uitoefening van het bedrijf en tegen de gebruikelijke commerciële voorwaarden en zekerheden.   
+5.  Financiële dienstverlening door de entiteit voor risico-acceptatie, bank, premiepensioeninstelling of verzekeraar, onderscheidenlijk het bijkantoor, aan leden van het orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de financiële onderneming, alsmede aan familieleden, niet zijnde personeelsleden, van personen die het beleid van de financiële onderneming bepalen, van groepsbestuurders en van leden van het orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de financiële onderneming, geschiedt uitsluitend in de normale uitoefening van het bedrijf en tegen de gebruikelijke commerciële voorwaarden en zekerheden.   
 
 ### Artikel  12  
 
-1.  Een betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 11, eerste lid, beschikt over procedures en maatregelen met betrekking tot de omgang met en vastlegging van incidenten.   
+1.  Een betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 11, eerste lid, beschikt over procedures en maatregelen met betrekking tot de omgang met en vastlegging van incidenten.   
 2.  De financiële onderneming, onderscheidenlijk het bijkantoor, neemt naar aanleiding van een incident maatregelen die zijn gericht op het beheersen van de opgetreden risico’s en het voorkomen van herhaling.   
 3.  De financiële onderneming, onderscheidenlijk het bijkantoor, informeert de Nederlandsche Bank onverwijld omtrent incidenten.   
 
 ### Artikel  13  
 
-1.  Een betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 11, eerste lid, maakt een onderbouwde beoordeling van de betrouwbaarheid van personen die zij wil benoemen in een integriteitsgevoelige functie.   
+1.  Een betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 11, eerste lid, maakt een onderbouwde beoordeling van de betrouwbaarheid van personen die zij wil benoemen in een integriteitsgevoelige functie.   
 2.  De financiële onderneming, onderscheidenlijk het bijkantoor, draagt zorg voor de beoordeling van de betrouwbaarheid van degenen die, anders dan op grond van een arbeidsovereenkomst, werkzaamheden in een integriteitgevoelige functie verrichten.   
 
 ### Artikel  14  
 
-1.  Een kredietinstelling, levensverzekeraar, premiepensioeninstelling of bijkantoor als bedoeld in artikel 11, eerste lid, beschikt met het oog op een integere uitoefening van het bedrijf over procedures en maatregelen met betrekking tot de acceptatie van cliënten.   
-2.  Onverminderd het bepaalde ingevolge de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) beschikt een kredietinstelling, levensverzekeraar, premiepensioeninstelling of bijkantoor als bedoeld in het eerste lid, over procedures en maatregelen met betrekking tot het vaststellen van de identiteit van cliënten en van de verificatie daarvan. De kredietinstelling, levensverzekeraar, onderscheidenlijk het bijkantoor, accepteert een cliënt niet indien de identiteit niet is vastgesteld overeenkomstig het daarvoor opgestelde beleid.   
+1.  Een bank, levensverzekeraar, premiepensioeninstelling of bijkantoor als bedoeld in artikel 11, eerste lid, beschikt met het oog op een integere uitoefening van het bedrijf over procedures en maatregelen met betrekking tot de acceptatie van cliënten.   
+2.  Onverminderd het bepaalde ingevolge de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) beschikt een bank, levensverzekeraar, premiepensioeninstelling of bijkantoor als bedoeld in het eerste lid, over procedures en maatregelen met betrekking tot het vaststellen van de identiteit van cliënten en van de verificatie daarvan. De bank, levensverzekeraar, onderscheidenlijk het bijkantoor, accepteert een cliënt niet indien de identiteit niet is vastgesteld overeenkomstig het daarvoor opgestelde beleid.   
 3.  De financiële onderneming, bedoeld in het tweede lid, onderscheidenlijk het bijkantoor, beschikt met het oog op een integere uitoefeningvan het bedrijf over organisatorische en administratieve procedures en maatregelen die betrekking hebben op risicoclassificaties ten aanzien van cliënten, producten of diensten.   
 4.  De financiële onderneming, bedoeld in het tweede lid, onderscheidenlijk het bijkantoor, beschikt over procedures en maatregelen met betrekking tot de analyse van gegevens van cliënten, mede in relatie tot de door de cliënt afgenomen producten of diensten, en terzake van de detectie van afwijkende transactiepatronen. Aan de hand van voornoemde procedures en maatregelen bepaalt de financiële onderneming tevens de risico’s van bepaalde cliënten, producten of diensten voor de integere uitoefening van haar bedrijf.   
 5.  De financiële onderneming, bedoeld in het tweede lid, onderscheidenlijk het bijkantoor, draagt zorg voor de documentatie en vastlegging met betrekking tot de acceptatie en indeling naar risico van cliënten, de identificatie en verificatie van de gegevens van cliënten en de bewaking van het handelen van cliënten. Dergelijke gegevens worden tot vijf jaar na de dienstverlening of het beëindigen van de relatie bewaard.   
-6.  De Nederlandsche Bank kan met het oog op een integere uitoefening van het bedrijf regels stellen met betrekking tot het door kredietinstellingen en bijkantoren van kredietinstellingen als bedoeld in het eerste lid te voeren beleid met betrekking tot afgeschermde rekeningen.   
+6.  De Nederlandsche Bank kan met het oog op een integere uitoefening van het bedrijf regels stellen met betrekking tot het door banken en bijkantoren van banken als bedoeld in het eerste lid te voeren beleid met betrekking tot afgeschermde rekeningen.   
 
 ### Artikel  15  
 
-1.  Een kredietinstelling of bijkantoor van een kredietinstelling als bedoeld in artikel 11, eerste lid, beschikt over procedures met betrekking tot de verstrekking van back-to-back leningen.   
-2.  Indien de kredietinstelling of het bijkantoor voornemens is een back-to-back lening te verstrekken, onderzoekt zij of het krediet voor legitieme doeleinden gebruikt zal worden.   
-3.  Indien er een back-to-back lening wordt verstrekt, legt de kredietinstelling of het bijkantoor de overeenkomst met vermelding van de gestelde essentiële zekerheden, deugdelijk vast.   
+1.  Een bank of bijkantoor van een bank als bedoeld in artikel 11, eerste lid, beschikt over procedures met betrekking tot de verstrekking van back-to-back leningen.   
+2.  Indien de bank of het bijkantoor voornemens is een back-to-back lening te verstrekken, onderzoekt zij of het krediet voor legitieme doeleinden gebruikt zal worden.   
+3.  Indien er een back-to-back lening wordt verstrekt, legt de bank of het bijkantoor de overeenkomst met vermelding van de gestelde essentiële zekerheden, deugdelijk vast.   
 
 ### Artikel  16  
 
@@ -285,7 +289,7 @@ Bepalingen ter uitvoering van [artikel 3:17, tweede lid, aanhef en onderdeel a, 
 
 ### Artikel  17  
 
-1.  De bedrijfsvoering van een betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in [artikel 3:17, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:23](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:24a](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:24b](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:26](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:27 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) omvat: 
+1.  De bedrijfsvoering van een betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in [artikel 3:17, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:23](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:24a](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:24b](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:26](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:27 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) omvat: 
 
 a. een duidelijke, evenwichtige en adequate organisatiestructuur;  
 
@@ -314,21 +318,21 @@ d. het ten minste jaarlijks rapporteren aan de personen die het dagelijks beleid
 
 ### Artikel  18  
 
-Een betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 17 beschikt over een adequate functiescheiding met het oog op een beheerste bedrijfsvoering.  
+Een betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 17 beschikt over een adequate functiescheiding met het oog op een beheerste bedrijfsvoering.  
 
 ### Artikel  19  
 
-De bedrijfsvoering van een betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 17 voorziet in een juiste, tijdige en volledige vastlegging van alle rechten en verplichtingen van de financiële onderneming of bijkantoor in een daartoe bestemde administratie.  
+De bedrijfsvoering van een betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 17 voorziet in een juiste, tijdige en volledige vastlegging van alle rechten en verplichtingen van de financiële onderneming of bijkantoor in een daartoe bestemde administratie.  
 
 ### Artikel  20  
 
-1.  Een betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 17 beschikt over een informatiesysteem dat een effectieve beheersing van de bedrijfsprocessen en de risico’s mogelijk maakt en dat voorziet in interne en externe informatiebehoeften.   
+1.  Een betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 17 beschikt over een informatiesysteem dat een effectieve beheersing van de bedrijfsprocessen en de risico’s mogelijk maakt en dat voorziet in interne en externe informatiebehoeften.   
 2.  De financiële onderneming of bijkantoor beschikt over procedures en maatregelen om de integriteit, voortdurende beschikbaarheid en beveiliging van geautomatiseerde gegevensverwerking te waarborgen.   
 3.  De functiescheidingen binnen de geautomatiseerde gegevensverwerking sluiten aan bij de organisatiestructuur.   
 
 ### Artikel  21  
 
-1.  Een betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 17 beschikt over een organisatieonderdeel dat op onafhankelijke en effectieve wijze een compliancefunctie uitoefent. Het organisatieonderdeel heeft als taak het controleren van de naleving van wettelijke regels en van interne regels die de financiële onderneming of bijkantoor zelf heeft opgesteld.   
+1.  Een betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 17 beschikt over een organisatieonderdeel dat op onafhankelijke en effectieve wijze een compliancefunctie uitoefent. Het organisatieonderdeel heeft als taak het controleren van de naleving van wettelijke regels en van interne regels die de financiële onderneming of bijkantoor zelf heeft opgesteld.   
 2.  Het organisatieonderdeel, bedoeld in het eerste lid, van een bank als bedoeld in [artikel 3:17, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:23, tweede lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die in Nederland beleggingsdiensten mag verlenen of beleggingsactiviteiten mag verrichten, heeft voorts als taak: 
 
 a. het adviseren van de personen die verantwoordelijk zijn voor het verlenen van beleggingsdiensten of het verrichten van beleggingsactiviteiten bij de naleving van wettelijke regels en interne regels;  
@@ -342,7 +346,7 @@ d. het ten minste jaarlijks rapporteren aan de personen die het dagelijks beleid
 
 ### Artikel  22  
 
-De opdracht tot onderzoek van de jaarrekening van een betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 17 aan de externe accountant voorziet in een toetsing en beoordeling op hoofdlijnen met betrekking tot de toereikendheid van de organisatie-inrichting en risicobeheersing.  
+De opdracht tot onderzoek van de jaarrekening van een betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 17 aan de externe accountant voorziet in een toetsing en beoordeling op hoofdlijnen met betrekking tot de toereikendheid van de organisatie-inrichting en risicobeheersing.  
 
 ### Artikel  22a  
 
@@ -356,9 +360,9 @@ Bepalingen ter uitvoering van [artikel 3:17, tweede lid, aanhef en onderdeel c, 
 
 ### Artikel  23  
 
-1.  Een beheerder van een instelling voor collectieve belegging in effecten, beleggingsonderneming, betaalinstelling clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 3:17, eerste en derde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:22](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:23](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:24a](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:24b](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:26](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:27 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voert beleid gericht op het beheersen van relevante risico’s.   
+1.  Een beheerder van een instelling voor collectieve belegging in effecten, beleggingsonderneming, betaalinstelling clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, verzekeraar of bijkantoor als bedoeld in [artikel 3:17, eerste en derde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:22](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:23](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:24a](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:24b](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:26](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:27 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voert beleid gericht op het beheersen van relevante risico’s.   
 2.  Onder relevante risico’s, bedoeld in het eerste lid, worden in het bijzonder verstaan het concentratierisico, krediet- en tegenpartijrisico, liquiditeitsrisico, marktrisico, operationeel risico, renterisico voortvloeiend uit niet-handelsactiviteiten, restrisico, securitisatierisico en verzekeringsrisico. Een bank, beleggingsonderneming of clearinginstelling als bedoeld in [artikel 3:17, eerste of derde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:22](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:23](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:27 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) houdt tevens rekening met de risico’s die voortvloeien uit de macro-economische omgeving waarin de onderneming actief is en die verband houden met de stand van de conjunctuurcyclus.   
-3.  Het beleid wordt vastgelegd in procedures en maatregelen ter beheersing van relevante risico’s en geïntegreerd in de bedrijfsprocessen.   
+3.  Het beleid wordt vastgelegd in procedures en maatregelen ter beheersing van relevante risico’s en geïntegreerd in de bedrijfsprocessen. De procedures en maatregelen die zijn gericht op de beheersing van het liquiditeitsrisico hebben betrekking op het beheer van de actuele en toekomstige netto financiële positie en behoeften.   
 4.  De procedures en maatregelen, bedoeld in het derde lid, bestaan onder meer uit autorisatieprocedures, limietstellingen, limietbewaking en procedures en maatregelen voor noodsituaties en zijn afgestemd op de aard, de omvang, het risicoprofiel en de complexiteit van de werkzaamheden van de financiële onderneming of bijkantoor.   
 5.  De procedures en maatregelen, bedoeld in het derde lid, worden vastgelegd en ter kennis gebracht van alle relevante bedrijfsonderdelen van de financiële onderneming of het bijkantoor.   
 6.  De financiële onderneming heeft een onafhankelijke risicobeheerfunctie die op systematische wijze een onafhankelijk risicobeheer uitvoert dat gericht is op het identificeren, meten en evalueren van de risico’s waaraan de financiële onderneming of het bijkantoor is of kan worden blootgesteld. Het risicobeheer wordt zowel uitgevoerd ten aanzien van de financiële onderneming of het bijkantoor als geheel als ten aanzien van de onderscheiden bedrijfsonderdelen.   
@@ -372,8 +376,7 @@ Bepalingen ter uitvoering van [artikel 3:17, tweede lid, aanhef en onderdeel c, 
 
 ### Artikel  23b  
 
-1.  De procedures en maatregelen, bedoeld in artikel 23, derde lid, die zijn gericht op het liquiditeitsrisico hebben betrekking op het beheer van de actuele en toekomstige netto financiële positie en behoeften.   
-2.  Door een bank, beleggingsonderneming of clearinginstelling als bedoeld in artikel 23, tweede lid, tweede volzin, worden alternatieve scenario’s in overweging genomen en de hypothesen die aan beslissingen betreffende de netto financiële positie ten grondslag liggen, worden regelmatig aan een nieuw onderzoek onderworpen.   
+Een bank, beleggingsonderneming of clearinginstelling, bedoeld in artikel 23, tweede lid, beschikt over deugdelijke procedures en maatregelen voor de vaststelling, de meting, het beheer en de bewaking van het liquiditeitsrisico over een passende reeks termijnen aan de hand waarvan zij doorlopend nagaat of en ervoor zorgt dat de hoogte, samenstelling en verdeling van de aanwezige liquiditeit aansluiten op de aard en de omvang van haar huidige en toekomstige liquiditeitsrisico’s. Deze procedures en maatregelen voldoen tenminste aan de technische criteria voor de organisatie en behandeling van risico’s als bedoeld in paragraaf 10 van bijlage V van de herziene richtlijn banken.  
 
 ### Artikel  23c  
 
@@ -433,7 +436,7 @@ f. opzetten, implementeren en in stand houden van adequate procedures die in gev
 
 ### Artikel  24  
 
-Een beheerder van een instelling voor collectieve belegging in effecten, beleggingsonderneming, betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, verzekeraar of bijkantoor als bedoeld in artikel 23, eerste lid, ziet er op systematische wijze op toe dat de procedures en maatregelen, bedoeld in artikel 23, derde lid, worden nageleefd en zorgt ervoor dat gesignaleerde tekortkomingen of gebreken worden opgeheven.  
+Een beheerder van een instelling voor collectieve belegging in effecten, beleggingsonderneming, betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, verzekeraar of bijkantoor als bedoeld in artikel 23, eerste lid, ziet er op systematische wijze op toe dat de procedures en maatregelen, bedoeld in artikel 23, derde lid, worden nageleefd en zorgt ervoor dat gesignaleerde tekortkomingen of gebreken worden opgeheven.  
 
 ### Artikel  24a  
 
@@ -466,7 +469,7 @@ b. regelmatig verslag uit over de actuele omvang van het risico dat elke door de
 
 ### Artikel  25  
 
-Indien een beleggingsonderneming, betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, verzekeraar of bijkantoor als bedoeld in artikel 23, eerste lid, gebruik maakt van intern ontwikkelde modellen, beoordeelt deze die modellen en de gehanteerde veronderstellingen en variabelen op systematische wijze op validiteit, onder meer door voorspellingen van het model te vergelijken met de werkelijke uitkomsten.  
+Indien een beleggingsonderneming, betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, verzekeraar of bijkantoor als bedoeld in artikel 23, eerste lid, gebruik maakt van intern ontwikkelde modellen, beoordeelt deze die modellen en de gehanteerde veronderstellingen en variabelen op systematische wijze op validiteit, onder meer door voorspellingen van het model te vergelijken met de werkelijke uitkomsten.  
 
 ### Artikel  25a  
 
@@ -484,11 +487,14 @@ e. de deugdelijkheid, geschiktheid en wijze van toepassing van de door de financ
 
 f. de vraag in hoeverre het toetsingsvermogen dat de financiële onderneming houdt met betrekking tot de activa die zij heeft gesecuritiseerd, toereikend is in het licht van de economische kenmerken van de transactie, inclusief de mate waarin sprake is van risico-overdracht;  
 
-g. de impact van de diversificatie-effecten en de wijze waarop dergelijke effecten in het systeem van risicometing worden verwerkt; en  
+g. de blootstelling aan en de meting en het beheer van het liquiditeitsrisico door de financiële onderneming, waaronder onderzoek van alternatieve scenario’s, het beheer van risicovermindering, met name de omvang, samenstelling en kwaliteit van liquiditeitsbuffers, en effectieve calamiteitenplannen;  
 
-h. de resultaten van de stresstests die zijn uitgevoerd door de financiële onderneming die gebruik maakt van interne modellen voor de berekening van de vereiste solvabiliteit voor het risico, bedoeld in artikel 60, eerste lid, onderdeel b.     
-2.  De Nederlandsche Bank controleert of de financiële onderneming een securitisatie stilzwijgend buiten de grenzen van haar contractuele verplichtingen heeft gesteund. Indien blijkt dat de financiële onderneming meerdere keren buiten de grenzen van haar contractuele verplichtingen stilzwijgende steun heeft verleend, neemt de Nederlandsche Bank passende maatregelen op basis van het vermoeden dat de kans groot is dat de financiële onderneming ook in de toekomst haar securitisaties zal steunen buiten de grenzen van haar contractuele verplichtingen.   
-3.  De Nederlandsche Bank houdt bij het bepalen of het aangehouden toetsingsvermogen een beheerste en duurzame dekking van risico’s waarborgt, rekening met de vraag of de waardeaanpassingen en voorzieningen voor posities en portefeuilles in de handelsportefeuille de financiële onderneming in staat stellen haar posities onder normale marktomstandigheden op korte termijn te verkopen of af te dekken zonder dat wezenlijke verliezen worden geleden.   
+h. de impact van de diversificatie-effecten en de wijze waarop dergelijke effecten in het systeem van risicometing worden verwerkt; en  
+
+i. de resultaten van de stresstests die zijn uitgevoerd door de financiële onderneming die gebruik maakt van interne modellen voor de berekening van de vereiste solvabiliteit voor het risico, bedoeld in artikel 60, eerste lid, onderdeel b.     
+2.  Voor de toepassing van het eerste lid, onderdeel g, onderwerpt de Nederlandsche Bank het gehele liquiditeitsrisicobeheer van de financiële onderneming regelmatig aan een uitgebreide evaluatie en bevordert zij de ontwikkeling van solide interne methoden. Bij deze evaluaties let zij op de rol die deze financiële onderneming speelt op de financiële markten en neemt de gevolgen die haar besluiten kunnen hebben voor de stabiliteit van het financiële stelsel van alle andere betrokken lidstaten in overweging.   
+3.  De Nederlandsche Bank controleert of de financiële onderneming een securitisatie stilzwijgend buiten de grenzen van haar contractuele verplichtingen heeft gesteund. Indien blijkt dat de financiële onderneming meerdere keren buiten de grenzen van haar contractuele verplichtingen stilzwijgende steun heeft verleend, neemt de Nederlandsche Bank passende maatregelen op basis van het vermoeden dat de kans groot is dat de financiële onderneming ook in de toekomst haar securitisaties zal steunen buiten de grenzen van haar contractuele verplichtingen.   
+4.  De Nederlandsche Bank houdt bij het bepalen of het aangehouden toetsingsvermogen een beheerste en duurzame dekking van risico’s waarborgt, rekening met de vraag of de waardeaanpassingen en voorzieningen voor posities en portefeuilles in de handelsportefeuille de financiële onderneming in staat stellen haar posities onder normale marktomstandigheden op korte termijn te verkopen of af te dekken zonder dat wezenlijke verliezen worden geleden.   
 
 ### Artikel  25b  
 
@@ -534,11 +540,12 @@ Bepalingen ter uitvoering van [artikel 3:18, tweede en derde lid, van de wet](..
 ### Artikel  27  
 
 1.  Een financiële onderneming of bijkantoor als bedoeld in [artikel 3:18, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:22](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:23](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:24b](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:25](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:26](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:27, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gaat niet over tot het uitbesteden van werkzaamheden indien die uitbesteding een belemmering kan vormen voor een adequaat toezicht op de naleving van het bij of krachtens het [Deel Prudentieel toezicht financiële ondernemingen van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde.   
-2.  Een betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in [artikel 3:18, tweede lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:23](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:26](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:27 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) besteedt de taken en werkzaamheden van personen die het dagelijks beleid bepalen, daaronder mede verstaan het vaststellen van het beleid en het afleggen van verantwoording over het gevoerde beleid, niet uit.   
+2.  Een betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in [artikel 3:18, tweede lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:23](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:26](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:27 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) besteedt de taken en werkzaamheden van personen die het dagelijks beleid bepalen, daaronder mede verstaan het vaststellen van het beleid en het afleggen van verantwoording over het gevoerde beleid, niet uit.   
 
 ### Artikel  27a  
 
-Indien een betaalinstelling voornemens is werkzaamheden in verband met het verlenen van betaaldiensten uit te besteden, stelt zij de Nederlandsche Bank daarvan in kennis.  
+1.  Indien een betaalinstelling of een elektronischgeldinstelling voornemens is werkzaamheden in verband met het verlenen van betaaldiensten uit te besteden, stelt zij de Nederlandsche Bank daarvan in kennis.   
+2.  Indien een elektronischgeldinstelling voornemens is werkzaamheden in verband met de uitgifte van elektronisch geld uit te besteden, stelt zij de Nederlandsche Bank daarvan in kennis.   
 
 ### Artikel  27b  
 
@@ -546,19 +553,19 @@ Bij de uitbesteding van werkzaamheden in verband met het verlenen van betaaldien
 
 ### Artikel  28  
 
-Een betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 27, tweede lid, gaat niet over tot het uitbesteden van werkzaamheden indien dat afbreuk doet aan de kwaliteit van haar onafhankelijke interne toetsing als bedoeld in artikel 17, vierde lid.  
+Een betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 27, tweede lid, gaat niet over tot het uitbesteden van werkzaamheden indien dat afbreuk doet aan de kwaliteit van haar onafhankelijke interne toetsing als bedoeld in artikel 17, vierde lid.  
 
 ### Artikel  29  
 
-Een betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 27, tweede lid, voert een adequaat beleid en beschikt over procedures en maatregelen met betrekking tot het op structurele basis uitbesteden van werkzaamheden.  
+Een betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 27, tweede lid, voert een adequaat beleid en beschikt over procedures en maatregelen met betrekking tot het op structurele basis uitbesteden van werkzaamheden.  
 
 ### Artikel  30  
 
-Een betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 27, tweede lid, beschikt over toereikende procedures, maatregelen, deskundigheid en informatie om de uitvoering van de op structurele basis uitbestede werkzaamheden te kunnen beoordelen.  
+Een betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 27, tweede lid, beschikt over toereikende procedures, maatregelen, deskundigheid en informatie om de uitvoering van de op structurele basis uitbestede werkzaamheden te kunnen beoordelen.  
 
 ### Artikel  31  
 
-1.  Een betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 27, tweede lid, legt de overeenkomst met de derde waaraan de werkzaamheden op structurele basis worden uitbesteed schriftelijk vast.   
+1.  Een betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in artikel 27, tweede lid, legt de overeenkomst met de derde waaraan de werkzaamheden op structurele basis worden uitbesteed schriftelijk vast.   
 2.  In de overeenkomst wordt in ieder geval het volgende geregeld: 
 
 a. de onderlinge informatie-uitwisseling, met inbegrip van afspraken over het beschikbaar stellen van informatie waarom de toezichthouders ter uitvoering van hun wettelijke taak verzoeken;  
@@ -578,8 +585,9 @@ De artikelen 29 tot en met 31 zijn niet van toepassing op het uitbesteden van we
 
 ### Artikel  32a  
 
-1.  Dit hoofdstuk is, met uitzondering van artikel 27a, slechts van toepassing op het uitbesteden van werkzaamheden door betaalinstellingen voor zover het belangrijke werkzaamheden betreft.   
+1.  Dit hoofdstuk is, met uitzondering van artikel 27a, slechts van toepassing op het uitbesteden van werkzaamheden door betaalinstellingen of elektronischgeldinstellingen voor zover het belangrijke werkzaamheden betreft.   
 2.  Een werkzaamheid wordt als belangrijk aangemerkt indien een gebrekkige of tekortschietende uitvoering ervan wezenlijk afbreuk zou doen aan de naleving door de betaalinstelling van de vergunningsvereisten, als bedoeld in [artikel 2:3b van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of van andere verplichtingen ingevolge de [wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [Titel 7B van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), dan wel aan haar financiële resultaten of de soliditeit of continuïteit van haar betaaldiensten.   
+3.  Een werkzaamheid wordt als belangrijk aangemerkt indien een gebrekkige of tekortschietende uitvoering ervan wezenlijk afbreuk zou doen aan de naleving door de elektronischgeldinstelling van de vergunningvereisten, genoemd in [artikel 2:10b van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), dan wel aan haar financiële resultaten of de soliditeit of continuïteit van haar dienstverlening ter zake van de uitgifte van elektronisch geld.   
 
 ### Hoofdstuk  6  
 
@@ -589,15 +597,15 @@ Bepalingen ter uitvoering van de [artikelen 3:29, derde lid](../../../../../../w
 
 ### Artikel  32b  
 
-1.  Een betaalinstelling geeft onverwijld schriftelijk aan de Nederlandsche Bank kennis van een wijziging in de ingevolge [artikel 2:3b, tweede lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) verstrekte gegevens met betrekking tot: 
+1.  Een betaalinstelling of elektronischgeldinstelling geeft onverwijld schriftelijk aan de Nederlandsche Bank kennis van een wijziging in de ingevolge [artikel 2:3b, tweede lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) respectievelijk ingevolge [artikel 2:10b, tweede lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) verstrekte gegevens met betrekking tot: 
 
-a. de activiteiten die de betaaldienstverlener voornemens is te verrichten;  
+a. de activiteiten die de betaaldienstverlener of de elektronischgeldinstelling voornemens is te verrichten;  
 
-b. het bedrijfsplan waarmee wordt aangetoond dat de betaaldienstverlener in staat is gebruik te maken van passende en evenredige systemen, middelen en procedures om op een gezonde basis te opereren;  
+b. het bedrijfsplan waarmee wordt aangetoond dat de betaaldienstverlener of de elektronischgeldinstelling in staat is gebruik te maken van passende en evenredige systemen, middelen en procedures om op een gezonde basis te opereren;  
 
-c. de identiteit van personen die, direct of indirect, gekwalificeerde deelnemingen als bedoeld in artikel 1 van de wet in de betaaldienstverlener bezitten, alsmede de omvang van hun deelnemingen en het bewijs van hun geschiktheid;  
+c. de identiteit van personen die, direct of indirect, gekwalificeerde deelnemingen als bedoeld in artikel 1 van de wet in de betaaldienstverlener of de elektronischgeldinstelling bezitten, alsmede de omvang van hun deelnemingen en het bewijs van hun geschiktheid;  
 
-d. indien van toepassing, de accountantsorganisatie of het auditkantoor, bedoeld in [artikel 1, eerste lid, onderdelen a en c, van de Wet toezicht accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), belast met de wettelijke controle bedoeld in artikel 2, onderdeel 1, van de richtlijn nr. 2006/43/EG van het Europees Parlement en de Raad van de Europese Unie van 17 mei 2006 betreffende de wettelijke controles van jaarrekeningen en geconsolideerde jaarrekeningen, tot wijziging van de Richtlijnen 78/660/EEG en 83/349/EEG van de Raad, en houdende intrekking van Richtlijn 84/253/EEG van de Raad (PbEU L 157) van de jaarrekening van de betaaldienstverlener;  
+d. indien van toepassing, de accountantsorganisatie of het auditkantoor, bedoeld in [artikel 1, eerste lid, onderdelen a en c, van de Wet toezicht accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), belast met de wettelijke controle bedoeld in artikel 2, onderdeel 1, van de richtlijn nr. 2006/43/EG van het Europees Parlement en de Raad van de Europese Unie van 17 mei 2006 betreffende de wettelijke controles van jaarrekeningen en geconsolideerde jaarrekeningen, tot wijziging van de Richtlijnen 78/660/EEG en 83/349/EEG van de Raad, en houdende intrekking van Richtlijn 84/253/EEG van de Raad (PbEU L 157) van de jaarrekening van de betaaldienstverlener of de elektronischgeldinstelling;  
 
 e. gegevens op basis waarvan de Nederlandsche Bank heeft geoordeeld dat wordt voldaan aan hetgeen ingevolge [artikel 3:8 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de deskundigheid van de personen die het dagelijks beleid bepalen;  
 
@@ -607,7 +615,7 @@ g. het voorgenomen beleid met betrekking tot de integere bedrijfsuitoefening, be
 
 h. de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in [artikel 3:17, eerste en tweede lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-i. de wijze waarop wordt voldaan aan het ingevolge [artikel 3:29a van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde met betrekking tot de geldmiddelen die worden of zijn ontvangen van betaaldienstgebruikers of andere betaaldienstverleners; en  
+i. de wijze waarop wordt voldaan aan het ingevolge [artikel 3:29a van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde met betrekking tot de geldmiddelen die worden of zijn ontvangen van betaaldienstgebruikers of betaaldienstverleners en met betrekking tot de geldmiddelen die worden of zijn ontvangen in ruil voor elektronisch geld dat is uitgegeven; en  
 
 j. het eigen vermogen, bedoeld in [artikel 3:53, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).     
 2.  Bij de toepassing van het eerste lid, onderdelen h en i, geeft de betaalinstelling een beschrijving van de wijzigingen in de regelingen voor accountantscontrole en de organisatorische regelingen die hij heeft getroffen voor het nemen van alle redelijke maatregelen om de belangen van zijn gebruikers te beschermen en om de continuïteit en betrouwbaarheid bij het uitvoeren van betaaldiensten te garanderen.   
@@ -615,7 +623,7 @@ j. het eigen vermogen, bedoeld in [artikel 3:53, eerste lid, van de wet](../../.
 
 ### Artikel  33  
 
-1.  Een clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, of verzekeraar als bedoeld in [artikel 3:29, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:42](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:43, tweede lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:49 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) geeft schriftelijk aan de Nederlandsche Bank kennis van het voornemen tot een wijziging van: 
+1.  Een betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, of verzekeraar als bedoeld in [artikel 3:29, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:42](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:43, tweede lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:49 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) geeft schriftelijk aan de Nederlandsche Bank kennis van het voornemen tot een wijziging van: 
 
 a. de personen die het dagelijks beleid van de financiële onderneming bepalen of het beleid van de financiële onderneming bepalen of mede bepalen; en  
 
@@ -643,12 +651,12 @@ d. een kopie van een geldig identiteitsbewijs.
 
 ### Artikel  34  
 
-1.  Een betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling of verzekeraar als bedoeld in artikel 33, eerste lid, geeft schriftelijk kennis aan de Nederlandsche Bank van een wijziging van gegevens op basis waarvan de Nederlandsche Bank heeft geoordeeld dat wordt voldaan aan hetgeen ingevolge [artikel 3:9](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt bepaald met betrekking tot de betrouwbaarheid van de in [dat artikel](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedoelde personen.   
+1.  Een betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank of verzekeraar als bedoeld in artikel 33, eerste lid, geeft schriftelijk kennis aan de Nederlandsche Bank van een wijziging van gegevens op basis waarvan de Nederlandsche Bank heeft geoordeeld dat wordt voldaan aan hetgeen ingevolge [artikel 3:9](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt bepaald met betrekking tot de betrouwbaarheid van de in dat artikel bedoelde personen.   
 2.  De financiële onderneming geeft van een wijziging als bedoeld in het eerste lid onverwijld schriftelijk kennis nadat zij van de wijziging op de hoogte is gekomen.   
 
 ### Artikel  35  
 
-1.  Een betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling of verzekeraar als bedoeld in artikel 33, eerste lid, geeft schriftelijk kennis aan de Nederlandsche Bank van een wijziging in: 
+1.  Een betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank of verzekeraar als bedoeld in artikel 33, eerste lid, geeft schriftelijk kennis aan de Nederlandsche Bank van een wijziging in: 
 
 a. de naam of het adres van de financiële onderneming;  
 
@@ -667,15 +675,15 @@ g. indien van toepassing, het adres van een in een andere staat gelegen bijkanto
 
 ### Artikel  36  
 
-1.  Een clearinginstelling, kredietinstelling of verzekeraar als bedoeld in [artikel 3:29, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:42](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:43, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) geeft schriftelijk aan de Nederlandsche Bank kennis van het voornemen tot een wijziging van de personen die het dagelijks beleid van het bijkantoor bepalen.   
+1.  Een clearinginstelling, bank of verzekeraar als bedoeld in [artikel 3:29, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:42](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:43, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) geeft schriftelijk aan de Nederlandsche Bank kennis van het voornemen tot een wijziging van de personen die het dagelijks beleid van het bijkantoor bepalen.   
 2.  Artikel 33, tweede tot en met vijfde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  37  
 
-1.  Een clearinginstelling, kredietinstelling of verzekeraar als bedoeld in [artikel 3:29, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met zetel in Nederland die haar bedrijf uitoefent vanuit een in een andere lidstaat gelegen bijkantoor geeft schriftelijk aan de Nederlandsche Bank en de toezichthoudende instantie van die lidstaat kennis van een wijziging in het adres van het bijkantoor.   
-2.  Onverminderd het eerste lid, geeft een kredietinstelling als bedoeld in [artikel 3:29, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met zetel in Nederland die haar bedrijf uitoefent vanuit een in een andere lidstaat gelegen bijkantoor geeft schriftelijk aan de Nederlandsche Bank en de toezichthoudende instantie van die lidstaat kennis van een wijziging met betrekking tot de toepasselijkheid van een depositogarantiestelsel op het bijkantoor.   
+1.  Een clearinginstelling, bank of verzekeraar als bedoeld in [artikel 3:29, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met zetel in Nederland die haar bedrijf uitoefent vanuit een in een andere lidstaat gelegen bijkantoor geeft schriftelijk aan de Nederlandsche Bank en de toezichthoudende instantie van die lidstaat kennis van een wijziging in het adres van het bijkantoor.   
+2.  Onverminderd het eerste lid, geeft een bank als bedoeld in [artikel 3:29, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met zetel in Nederland die haar bedrijf uitoefent vanuit een in een andere lidstaat gelegen bijkantoor geeft schriftelijk aan de Nederlandsche Bank en de toezichthoudende instantie van die lidstaat kennis van een wijziging met betrekking tot de toepasselijkheid van een depositogarantiestelsel op het bijkantoor.   
 3.  De financiële onderneming geeft van een wijziging als bedoeld in het eerste of tweede lid kennis binnen twee weken nadat de wijziging zich heeft voorgedaan.   
-4.  Een clearinginstelling of kredietinstelling als bedoeld in [artikel 3:29, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die haar bedrijf uitoefent vanuit een in een andere lidstaat gelegen bijkantoor geeft schriftelijk kennis aan de Nederlandsche Bank en de toezichthoudende instantie van die lidstaat van het voornemen de uitoefening van haar bedrijf vanuit het in de andere lidstaat gelegen bijkantoor te staken. De clearinginstelling of kredietinstelling geeft geen uitvoering aan het voornemen gedurende de eerste vier weken na de kennisgeving.   
+4.  Een clearinginstelling of bank als bedoeld in [artikel 3:29, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die haar bedrijf uitoefent vanuit een in een andere lidstaat gelegen bijkantoor geeft schriftelijk kennis aan de Nederlandsche Bank en de toezichthoudende instantie van die lidstaat van het voornemen de uitoefening van haar bedrijf vanuit het in de andere lidstaat gelegen bijkantoor te staken. De clearinginstelling of bank geeft geen uitvoering aan het voornemen gedurende de eerste vier weken na de kennisgeving.   
 
 ### Artikel  38  
 
@@ -722,13 +730,15 @@ c. een opgave van de naam en het adres van de schaderegelaar, bedoeld in [artike
 
 ### Hoofdstuk  6a  
 
-####Veilig stellen geldmiddelen betaaldiensten en verlenen krediet door betaalinstellingen
+####Veilig stellen geldmiddelen en verlenen krediet door betaalinstellingen en elektronischgeldinstellingen met zetel in Nederland
+
+Bepalingen ter uitvoering van de [artikelen 3:29a, eerste en tweede lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [3:29c, vierde lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
 ### Artikel  40a  
 
 ####Bepalingen ter uitvoering van de [artikelen 3:29a](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [3:29c, derde lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)
 
-1.  Een betaalinstelling stelt geldmiddelen die zijn ontvangen van betaaldienstgebruikers of andere betaaldienstverleners voor de uitvoering van betalingstransacties op een van de volgende wijzen veilig: 
+1.  Een betaalinstelling als bedoeld in [artikel 3:29a, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) stelt geldmiddelen die zijn ontvangen van betaaldienstgebruikers of andere betaaldienstverleners voor de uitvoering van betalingstransacties op een van de volgende wijzen veilig: 
 
 a. de geldmiddelen worden niet vermengd met de geldmiddelen van andere schuldeisers van de betaalinstelling; of  
 
@@ -736,10 +746,23 @@ b. de geldmiddelen worden gedekt door een verzekeringspolis of een vergelijkbare
 2.  Indien toepassing wordt gegeven aan het eerste lid, aanhef en onderdeel a, en de geldmiddelen aan het einde van de werkdag, volgend op de dag waarop zij zijn ontvangen, nog niet aan de betalingsbegunstigde of aan een andere betaaldienstaanbieder zijn overgemaakt, worden zij op een afzonderlijke rekening gestort bij een bank of belegd in veilige, liquide activa met een lage risicograad, op zodanige wijze dat andere schuldeisers van de betaalinstelling, in het bijzonder in het geval van insolventie van de betaalinstelling, hun vorderingen niet op deze geldmiddelen kunnen verhalen.   
 3.  Voor de toepassing van het tweede lid zijn veilige activa met een lage risicograad activa die vallen in een van de categorieën opgenomen in tabel 1 van punt 14 van bijlage I bij Richtlijn 2006/49/EG van het Europees Parlement en de Raad van 14 juni 2006 inzake de kapitaaltoereikendheid van beleggingsondernemingen en kredietinstellingen (PbEU L 177) waarvoor het kapitaalvereiste voor het specifieke risico niet hoger ligt dan 1,6%, terwijl andere in aanmerking komende activa, als gedefinieerd in punt 15 van die bijlage, worden uitgesloten. Voor de toepassing van het tweede lid zijn veilige activa met een lage risicograad eveneens deelnemingsrechten in een instelling voor collectieve belegging in effecten (ICBE) die enkel investeert in activa zoals gespecificeerd in de eerste alinea. In buitengewone omstandigheden en wanneer dit voldoende gemotiveerd is, mogen de bevoegde autoriteiten, op basis van een evaluatie van de veiligheid, de looptijd, de waarde of andere risicofactoren van de activa zoals gespecificeerd in de eerste en tweede alinea, bepalen welke van deze activa geen veilige activa met een lage risicograad zijn voor de toepassing van het tweede lid.   
 4.  Indien het deel van de geldmiddelen dat bestemd is voor toekomstige betalingstransacties niet bekend of variabel is, is het de betaalinstellingen toegestaan om het eerste lid uitsluitend toe te passen op een representatief gedeelte dat geacht wordt voor betalingsdiensten te worden gebruikt. Dit representatieve gedeelte moet redelijkerwijs kunnen worden geraamd op basis van historische gegevens.   
+5.  Het eerste tot en met vierde lid zijn van overeenkomstige toepassing op elektronischgeldinstellingen als bedoeld in [artikel 3:29a, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
 
 ### Artikel  40b  
 
-Betaalinstellingen verlenen slechts krediet in verband met de in de punten 4, 5 en 7 van de bijlage bij de richtlijn betaaldiensten bedoelde betaaldiensten indien: 
+1.  Een elektronischgeldinstelling als bedoeld in [artikel 3:29a, tweede lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), stelt de middelen die zij ontvangt in ruil voor elektronisch geld dat is uitgegeven, veilig op het moment dat deze gelden ter beschikking komen van de elektronischgeldinstelling doch uiterlijk vijf werkdagen na uitgifte van het elektronisch geld.   
+2.  De financiële onderneming stelt chartale of girale gelden die zij ontvangt in ruil voor elektronisch geld op een van de volgende wijzen veilig: 
+
+a. de gelden worden niet vermengd met de geldmiddelen van andere schuldeisers van de elektronischgeldinstelling;  
+
+b. de gelden worden gedekt door een verzekeringspolis of een vergelijkbare garantie van een verzekeraar of een bank die niet tot dezelfde groep behoort als de elektronischgeldinstelling, tegen het risico dat de elektronischgeldinstelling niet in staat is haar verplichtingen met betrekking tot de gelden na te komen, voor een bedrag dat gelijk is aan het bedrag dat afgescheiden zou zijn bij het ontbreken van de verzekeringspolis of vergelijkbare garantie.     
+3.  Indien toepassing wordt gegeven aan het tweede lid, aanhef en onderdeel a, worden de ontvangen gelden op een afzonderlijke rekening gestort bij een bank of belegd in veilige, liquide activa met een lage risicograad, op zodanige wijze dat andere schuldeisers van de elektronischgeldinstelling, in het bijzonder in het geval van insolventie van de elektronischgeldinstelling, hun vorderingen niet op deze gelden kunnen verhalen.   
+4.  Voor de toepassing van het derde lid is artikel 40a, derde lid, van overeenkomstige toepassing.   
+5.  Voor de toepassing van het tweede en derde lid is artikel 40a, vierde lid, van overeenkomstige toepassing.   
+
+### Artikel  40c  
+
+Betaalinstellingen of elektronischgeldinstellingen verlenen slechts krediet in verband met de in de punten 4, 5 en 7 van de bijlage bij de richtlijn betaaldiensten bedoelde betaaldiensten indien: 
 
 a. het krediet een aanvullend krediet is en uitsluitend wordt verstrekt in verband met de uitvoering van een betalingstransactie;  
 
@@ -747,7 +770,7 @@ b. het krediet dat is verstrekt in verband met een betaaldienst die is verleend 
 
 c. het niet wordt verleend uit geldmiddelen die zijn ontvangen of die worden aangehouden voor het uitvoeren van toekomstige betalingstransacties; en  
 
-d. het eigen vermogen van de betaalinstelling te allen tijde in redelijke verhouding staat tot het totale bedrag van het verleende krediet.    
+d. het eigen vermogen van de betaalinstelling of de elektronischgeldinstelling te allen tijde in redelijke verhouding staat tot het totale bedrag van het verleende krediet.    
 
 ### Hoofdstuk  7  
 
@@ -778,7 +801,7 @@ Als adres van een vertegenwoordiger in Nederland van een verzekeraar als bedoeld
 
 ### Artikel  43  
 
-Een verzekeraar als bedoeld in [artikel 3:40](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:47, zesde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:50, tweede lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt geacht, indien de vertegenwoordiger ontbreekt, zijn woonplaats te hebben ten parkette van de officier van justitie bij de rechtbank binnen het rechtsgebied waarvan de verzekeraar ingevolge artikel 42 het laatst zijn woonplaats had, of anders ten parkette van de officier van justitie bij de rechtbank te Amsterdam.  
+Een verzekeraar als bedoeld in [artikel 3:40](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:47, zesde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:50, tweede lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt geacht, indien de vertegenwoordiger ontbreekt, zijn woonplaats te hebben bij het parket van de officier van justitie in het arrondissement waarin de rechtbank is gelegen waar de verzekeraar ingevolge artikel 42 het laatst zijn woonplaats had, of anders bij het parket van de officier van justitie bij het arrondissementsparket Amsterdam.  
 
 ### Artikel  44  
 
@@ -860,7 +883,7 @@ n. € 125.000 voor een betaalinstelling als bedoeld in [artikel 3:53, eerste li
 
 o. € 112.500 voor een bewaarder als bedoeld in [artikel 3:53, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:55, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-p. € 1 miljoen voor een elektronischgeldinstelling als bedoeld in [artikel 3:53, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:54, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+p. € 350.000 voor een elektronischgeldinstelling als bedoeld in [artikel 3:53, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
 q. € 225.000 voor een premiepensioeninstelling als bedoeld in [artikel 3:53, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
@@ -884,32 +907,32 @@ c. een combinatie van een beroepsaansprakelijkheidsverzekering of een daarmee ve
 
 a. voor een entiteit voor risico-acceptatie als bedoeld in [artikel 3:53, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) een door de Nederlandsche Bank te bepalen bedrag, dat niet hoger is dan € 1 miljoen, afhankelijk van het risicoprofiel van de entiteit;  
 
-b. € 1 miljoen per 6 augustus 2009: € 1,1 miljoen voor een herverzekeraar als bedoeld in [artikel 3:53, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:55a, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die ondernemingsgebonden herverzekeraar is;  
+b. € 1 miljoen per 1 februari 2012: € 1,2 miljoen voor een herverzekeraar als bedoeld in [artikel 3:53, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:55a, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die ondernemingsgebonden herverzekeraar is;  
 
-c. € 3 miljoen per 6 augustus 2009: € 3,2 miljoen voor een herverzekeraar als bedoeld in [artikel 3:53, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:55a, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), niet zijnde een herverzekeraar als bedoeld onder b;  
+c. € 3 miljoen per 1 februari 2012: € 3,4 miljoen voor een herverzekeraar als bedoeld in [artikel 3:53, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:55a, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), niet zijnde een herverzekeraar als bedoeld onder b;  
 
-d. € 3,2 miljoen per 6 augustus 2009: € 3,5 miljoen voor een levensverzekeraar als bedoeld in [artikel 3:53, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:54, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+d. € 3,2 miljoen per 1 februari 2012: € 3,7 miljoen voor een levensverzekeraar als bedoeld in [artikel 3:53, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:54, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
 e. € 45.378,02 voor een natura-uitvaartverzekeraar als bedoeld in [artikel 3:53, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:55, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-f. € 2,2 miljoen per 6 augustus 2009: € 2,3 miljoen voor een schadeverzekeraar als bedoeld in [artikel 3:53, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:54, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die geen schadeverzekeraar als bedoeld in onderdeel g is;  
+f. € 2,2 miljoen per 1 februari 2012: € 2,5 miljoen voor een schadeverzekeraar als bedoeld in [artikel 3:53, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:54, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die geen schadeverzekeraar als bedoeld in onderdeel g is;  
 
-g. € 3,2 miljoen per 6 augustus 2009: € 3,5 miljoen voor een schadeverzekeraar als bedoeld in [artikel 3:53, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:54, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die zijn bedrijf uitoefent in de branche Aansprakelijkheid motorrijtuigen, Aansprakelijkheid wegvervoer, Aansprakelijkheid luchtvaartuigen, Aansprakelijkheid zee- en binnenschepen, Algemene aansprakelijkheid of Krediet en Borgtocht.     
+g. € 3,2 miljoen per 1 februari 2012: € 3,7 miljoen voor een schadeverzekeraar als bedoeld in [artikel 3:53, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:54, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die zijn bedrijf uitoefent in de branche Aansprakelijkheid motorrijtuigen, Aansprakelijkheid wegvervoer, Aansprakelijkheid luchtvaartuigen, Aansprakelijkheid zee- en binnenschepen, Algemene aansprakelijkheid of Krediet en Borgtocht.     
 2.  Het minimumbedrag van het garantiefonds, bedoeld in [artikel 3:54, derde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:55, tweede lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:55a, tweede lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedraagt: 
 
 a. voor een in Nederland gelegen bijkantoor van een entiteit voor risico-acceptatie als bedoeld in [artikel 3:55a, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) een door de Nederlandsche Bank te bepalen bedrag, dat niet hoger is dan € 1 miljoen, afhankelijk van het risicoprofiel van de entiteit;  
 
-b. € 0,5 miljoen per 6 augustus 2009: € 0,6 miljoen voor een in Nederland gelegen bijkantoor van een herverzekeraar als bedoeld in [artikel 3:55a, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die ondernemingsgebonden herverzekeraar is;  
+b. € 0,5 miljoen per 1 februari 2012: € 0,6 miljoen voor een in Nederland gelegen bijkantoor van een herverzekeraar als bedoeld in [artikel 3:55a, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die ondernemingsgebonden herverzekeraar is;  
 
-c. € 1,5 miljoen per 6 augustus 2009: € 1,6 miljoen voor een in Nederland gelegen bijkantoor van een herverzekeraar als bedoeld in [artikel 3:55a, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), niet zijnde een bijkantoor als bedoeld onder b;  
+c. € 1,5 miljoen per 1 februari 2012: € 1,7 miljoen voor een in Nederland gelegen bijkantoor van een herverzekeraar als bedoeld in [artikel 3:55a, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), niet zijnde een bijkantoor als bedoeld onder b;  
 
-d. € 1,6 miljoen per 6 augustus 2009: € 1,8 miljoen voor een in Nederland gelegen bijkantoor van een levensverzekeraar als bedoeld in [artikel 3:54, derde lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+d. € 1,6 miljoen per 1 februari 2012: € 1,9 miljoen voor een in Nederland gelegen bijkantoor van een levensverzekeraar als bedoeld in [artikel 3:54, derde lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
 e. € 45.378,02 voor een in Nederland gelegen bijkantoor van een natura-uitvaartverzekeraar als bedoeld in [artikel 3:55, tweede lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-f. € 1,1 miljoen per 6 augustus 2009: € 1,2 miljoen voor een in Nederland gelegen bijkantoor van een schadeverzekeraar als bedoeld in [artikel 3:54, derde lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die geen schadeverzekeraar als bedoeld in onderdeel g is;  
+f. € 1,1 miljoen per 1 februari 2012: € 1,3 miljoen voor een in Nederland gelegen bijkantoor van een schadeverzekeraar als bedoeld in [artikel 3:54, derde lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die geen schadeverzekeraar als bedoeld in onderdeel g is;  
 
-g. € 1,6 miljoen per 6 augustus 2009: € 1,8 miljoen voor een in Nederland gelegen bijkantoor van een schadeverzekeraar als bedoeld in [artikel 3:54, derde lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die zijn bedrijf uitoefent in de branche Aansprakelijkheid motorrijtuigen, Aansprakelijkheid wegvervoer, Aansprakelijkheid luchtvaartuigen, Aansprakelijkheid zee- en binnenschepen, Algemene aansprakelijkheid of Krediet en Borgtocht.     
+g. € 1,6 miljoen per 1 februari 2012: € 1,9 miljoen voor een in Nederland gelegen bijkantoor van een schadeverzekeraar als bedoeld in [artikel 3:54, derde lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die zijn bedrijf uitoefent in de branche Aansprakelijkheid motorrijtuigen, Aansprakelijkheid wegvervoer, Aansprakelijkheid luchtvaartuigen, Aansprakelijkheid zee- en binnenschepen, Algemene aansprakelijkheid of Krediet en Borgtocht.     
 3.  Voor schadeverzekeraars als bedoeld in het eerste lid, aanhef en onderdelen f en g, die tevens het bedrijf van herverzekeraar uitoefenen, bedraagt evenwel het minimumbedrag van het garantiefonds, bedoeld in [artikel 3:53, vierde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), het bedrag, genoemd in het eerste lid, onderdeel c, f of g, al naar gelang welk bedrag het hoogste is, indien: 
 
 1°. het bedrag aan geïnde herverzekeringspremies groter is dan tien procent van het totale premiebedrag;  
@@ -928,7 +951,7 @@ Bepalingen ter uitvoering van de [artikelen 3:53, derde lid](../../../../../../w
 
 ### Artikel  50  
 
-1.  Het minimumbedrag aan eigen vermogen van een bank als bedoeld in [artikel 2:13, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:53, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:54, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van een beheerder van een instelling voor collectieve beleggingen in effecten als bedoeld in artikel 3:53, eerste lid, van de wet, van een beheerder als bedoeld in artikel 3:53, eerste lid, of [3:55, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die geen beheerder van een instelling voor collectieve belegging in effecten is en die een vermogen van minder dan € 250 miljoen beheert, van een beleggingsmaatschappij als bedoeld in artikel 3:53, eerste lid, van de wet, van een beleggingsonderneming als bedoeld in artikel 3:53, eerste lid, of 3:54, eerste lid, van de wet, van een betaalinstelling als bedoeld in artikel 3:53, eerste lid, van de wet, van een clearinginstelling als bedoeld in artikel 3:53, eerste lid, of 3:55, eerste lid, van de wet of van een premiepensioeninstelling als bedoeld in artikel 3:53, eerste lid, van de wet, wordt gevormd door de waarde van de vermogensbestanddelen, bedoeld in artikel 91, tweede lid, onderdelen a tot en met g.   
+1.  Het minimumbedrag aan eigen vermogen van een bank als bedoeld in [artikel 2:13, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:53, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:54, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van een beheerder van een instelling voor collectieve beleggingen in effecten als bedoeld in artikel 3:53, eerste lid, van de wet, van een beheerder als bedoeld in artikel 3:53, eerste lid, of [3:55, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die geen beheerder van een instelling voor collectieve belegging in effecten is en die een vermogen van minder dan € 250 miljoen beheert, van een beleggingsmaatschappij als bedoeld in artikel 3:53, eerste lid, van de wet, van een beleggingsonderneming als bedoeld in artikel 3:53, eerste lid, of 3:54, eerste lid, van de wet, van een betaalinstelling als bedoeld in artikel 3:53, eerste lid, van de wet, van een clearinginstelling als bedoeld in artikel 3:53, eerste lid, of 3:55, eerste lid, van de wet, van een elektronischgeldinstelling als bedoeld in artikel 3:53, eerste lid, van de wet of van een premiepensioeninstelling als bedoeld in artikel 3:53, eerste lid, van de wet, wordt gevormd door de waarde van de vermogensbestanddelen, bedoeld in artikel 91, tweede lid, onderdelen a tot en met c.   
 2.  Artikel 89, eerste en tweede lid, onderdeel a, is van overeenkomstige toepassing.   
 
 ### Artikel  51  
@@ -1040,9 +1063,9 @@ b. de aanwezige solvabiliteitsmarge, bedoeld in de artikelen 95 tot en met 98, t
 
 a. acht procent van de som van de ingevolge artikel 61 te berekenen bedragen van de naar risico gewogen activa en posten buiten de balanstelling voor de kredietrisico’s, met inbegrip van de tegenpartijkredietrisico’s en verwateringsrisico’s, met betrekking tot het totale bedrijf, uitgezonderd de handelsportefeuille en de niet-liquide activa van een bank, beleggingsonderneming of clearinginstelling die artikel 90, tweede lid, toepast;  
 
-b. het ingevolge het tweede lid te berekenen bedrag van de met betrekking tot de handelsportefeuille vereiste solvabiliteit ter dekking van de positierisico’s, afwikkelingsrisico’s, leveringsrisico’s, tegenpartijrisico’s en, in geval van een overschrijding als bedoeld in artikel 102, eerste of tweede lid, grote posities;  
+b. het ingevolge het tweede lid te berekenen bedrag van de met betrekking tot de handelsportefeuille vereiste solvabiliteit ter dekking van de positierisico’s, afwikkelingsrisico’s, leveringsrisico’s, tegenpartijrisico’s en, in geval van een overschrijding als bedoeld in artikel 102, eerste, tweede en derde lid, grote posities;  
 
-c. het ingevolge het tweede lid te berekenen bedrag van de met betrekking tot het totale bedrijf vereiste solvabiliteit ter dekking van de valutarisico’s en grondstoffenrisico’s; en  
+c. het ingevolge het tweede lid te berekenen bedrag van de met betrekking tot het totale bedrijf vereiste solvabiliteit ter dekking van de valutarisico’s, afwikkelingsrisico’s en grondstoffenrisico’s; en  
 
 d. het ingevolge de artikelen 62b tot en met 62e te berekenen bedrag van de met betrekking tot het totale bedrijf vereiste solvabiliteit ter dekking van het operationeel risico.     
 2.  De Nederlandsche Bank stelt nadere regels met betrekking tot de berekening, bedoeld in het eerste lid, onderdelen b en c.   
@@ -1192,7 +1215,11 @@ b. de bank kan aantonen dat een aanzienlijk deel van haar activiteiten op het ge
 
 ### Artikel  64  
 
-De minimumomvang van het toetsingsvermogen van een elektronischgeldinstelling als bedoeld in [artikel 3:57, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:58, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedraagt twee procent van het lopende bedrag of het gemiddelde bedrag over de laatste zes maanden van haar totale financiële verplichtingen die met uitstaand elektronisch geld verband houden, naar gelang welk bedrag het hoogst is. Indien de elektronischgeldinstelling haar werkzaamheden niet gedurende zes maanden heeft uitgeoefend, bedraagt de minimumomvang van het toetsingsvermogen twee procent van het lopende bedrag of het blijkens haar programma van werkzaamheden op zes maanden nagestreefde bedrag van haar totale financiële verplichtingen die met uitstaand elektronisch geld verband houden, naar gelang welk bedrag het hoogst is. De Nederlandsche Bank kan, indien de vorige volzin van toepassing is en aannemelijk is dat het nagestreefde bedrag te laag is geschat, besluiten dat voor de elektronischgeldinstelling een hogere minimumomvang geldt.  
+1.  Voor het deel van de werkzaamheden van een elektronischgeldinstelling dat betrekking heeft op de uitgifte van elektronisch geld en betaaldiensten die verband houden met de uitgifte van dit elektronisch geld, bedraagt de minimumomvang van het toetsingsvermogen 2% van het gemiddeld uitstaand elektronisch geld.   
+2.  Voor het deel van de werkzaamheden van een elektronischgeldinstelling dat betrekking heeft op het verlenen van betaaldiensten die geen verband houden met de uitgifte van elektronisch geld, wordt de minimumomvang van het toetsingsvermogen berekend met overeenkomstige toepassing van artikel 60a, eerste lid.   
+3.  De omvang van het toetsingsvermogen van een elektronischgeldinstelling bedraagt te allen tijde ten minste de som van de minimumomvang van het toetsingsvermogen berekend volgens het eerste lid en de minimumomvang van het toetsingsvermogen berekend volgens het tweede lid.   
+4.  Indien een elektronischgeldinstelling de uitgifte van elektronisch geld niet gedurende ten minste zes maanden heeft uitgeoefend, bedraagt de minimum omvang van het toetsingsvermogen, bedoeld in het tweede lid, twee procent van het uitstaand elektronisch geld of het blijkens haar programma van werkzaamheden na zes maanden nagestreefde bedrag aan uitstaand elektronisch geld, naar gelang welk bedrag het hoogst is.   
+5.  In afwijking van het eerste en tweede lid kan de Nederlandsche Bank indien een evaluatie van de risicobeheersingsprocessen, het verzamelen en vastleggen van risicoverliesgegevens en het internecontrolesysteem van de elektronischgeldinstelling daartoe aanleiding geeft, de elektronischgeldinstelling verplichten een toetsingsvermogen aan te houden dat ten hoogste 20 procent hoger is dan het bedrag dat het resultaat is van de toepassing van de methode, bedoeld in het eerste of tweede lid, of de elektronischgeldinstelling toestaan een toetsingsvermogen aan te houden dat ten hoogste 20 procent lager is dan het bedrag dat het resultaat is van de toepassing van de methode, bedoeld in het eerste of tweede lid.   
 
 ### Artikel  64a  
 
@@ -1208,9 +1235,9 @@ Het minimumbedrag aan solvabiliteitsmarge van een herverzekeraar als bedoeld in 
 
 1.  Het minimumbedrag aan solvabiliteitsmarge van een herverzekeraar als bedoeld in [artikel 3:57, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:61, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:62, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die zijn bedrijf uitoefent in de activiteit schadeherverzekering bedraagt het product van het op grond van onderdeel c berekende percentage, vermenigvuldigd met het hoogste van de op grond van de onderdelen a en b berekende bedragen. De bedragen en het percentage worden als volgt berekend: 
 
-a. achttien procent van de in het voorafgaande boekjaar geboekte dan wel verdiende premies, naargelang welk bedrag het hoogst is en van de in rekening gebrachte poliskosten, voor zover deze premies en kosten niet meer bedragen dan € 53,1 miljoen per 6 augustus 2009: € 57,5 miljoen, vermeerderd met zestien procent van deze premies en kosten voor zover deze meer bedragen dan € 53,1 miljoen per 6 augustus 2009: € 57,5 miljoen;  
+a. achttien procent van de in het voorafgaande boekjaar geboekte dan wel verdiende premies, naargelang welk bedrag het hoogst is en van de in rekening gebrachte poliskosten, voor zover deze premies en kosten niet meer bedragen dan € 53,1 miljoen per 1 februari 2012: € 61,3 miljoen, vermeerderd met zestien procent van deze premies en kosten voor zover deze meer bedragen dan € 53,1 miljoen per 1 februari 2012: € 61,3 miljoen;  
 
-b. 26 procent van de gemiddeld geboekte bruto schaden in de voorafgaande drie boekjaren en van de gemiddelde toevoeging aan de schadevoorziening in deze jaren, voor zover deze schaden en toevoeging niet meer bedragen dan € 37,2 miljoen per 6 augustus 2009: € 40,3 miljoen, vermeerderd met 23 procent van deze schaden en toevoeging, voor zover deze meer bedragen dan € 37,2 miljoen per 6 augustus 2009: € 40,3 miljoen;  
+b. 26 procent van de gemiddeld geboekte bruto schaden in de voorafgaande drie boekjaren en van de gemiddelde toevoeging aan de schadevoorziening in deze jaren, voor zover deze schaden en toevoeging niet meer bedragen dan € 37,2 miljoen per 1 februari 2012: € 42,9 miljoen, vermeerderd met 23 procent van deze schaden en toevoeging, voor zover deze meer bedragen dan € 37,2 miljoen per 1 februari 2012: € 42,9 miljoen;  
 
 c. de verhouding, welke ten minste vijftig procent bedraagt, berekend over de voorafgaande drie boekjaren tezamen, tussen de schaden die voor eigen rekening komen van de herverzekeraar, na overdracht uit hoofde van retrocessie, en de bruto schaden.     
 2.  Voor zover het de berekening met betrekking tot de herverzekering van risico’s van de branches Aansprakelijkheid luchtvaartuigen, Aansprakelijkheid zee- en binnenschepen en Algemene aansprakelijkheid betreft, worden de geboekte dan wel verdiende premies, bedoeld in het eerste lid, onderdeel a, of de geboekte bruto schaden, bedoeld in het eerste lid, onderdeel b, met vijftig procent verhoogd. Voor de herverzekering van risico’s van andere branches kunnen de geboekte dan wel verdiende premies, bedoeld in het eerste lid, onderdeel a, voor bijzondere herverzekeringsactiviteiten of categorieën overeenkomsten worden verhoogd met ten hoogste vijftig procent. De Nederlandsche Bank past het percentage toe dat is vastgesteld volgens de procedure van artikel 55, tweede lid, van richtlijn nr. 2005/68/EG van het Europees Parlement en de Raad van de Europese Unie van 16 november 2005 betreffende herverzekering en houdende wijziging van Richtlijnen 73/239/EEG en 92/49/EEG van de Raad en van Richtlijnen 98/78/EG en 2002/83/EG van het Europees Parlement en de Raad (PbEU L 323). De Nederlandsche Bank doet mededeling van dat percentage in de Staatscourant. Het percentage wordt voor het eerst toegepast in het boekjaar dat begint op 1 januari van het op de mededeling volgende kalenderjaar of gedurende dat kalenderjaar.   
@@ -1282,15 +1309,15 @@ e. voor zover het aanvullende verzekeringen betreft: achttien procent van de in 
 
 1.  Het minimumbedrag aan solvabiliteitsmarge van een schadeverzekeraar als bedoeld in [artikel 3:57, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:58, eerste of tweede lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedraagt het product van het op grond van onderdeel c van dit lid berekende percentage, vermenigvuldigd met het hoogste van de op grond van de onderdelen a en b van dit lid berekende bedragen. De bedragen en het percentage worden als volgt berekend: 
 
-a. achttien procent van de in het afgelopen boekjaar geboekte dan wel verdiende premies, naargelang welk bedrag het hoogst is en van de in rekening gebrachte poliskosten, voor zover deze premies en kosten niet meer bedragen dan € 53,1 miljoen per 6 augustus 2009: € 57,5 miljoen, vermeerderd met zestien procent van deze premies en kosten voor zover deze meer bedragen dan € 53,1 miljoen per 6 augustus 2009: € 57,5 miljoen;  
+a. achttien procent van de in het afgelopen boekjaar geboekte dan wel verdiende premies, naargelang welk bedrag het hoogst is en van de in rekening gebrachte poliskosten, voor zover deze premies en kosten niet meer bedragen dan € 53,1 miljoen per 1 februari 2012: € 61,3 miljoen, vermeerderd met zestien procent van deze premies en kosten voor zover deze meer bedragen dan € 53,1 miljoen per 1 februari 2012: € 61,3 miljoen;  
 
-b. 26 procent van de gemiddeld geboekte bruto schaden in de afgelopen drie boekjaren en van de gemiddelde toevoeging aan de schadevoorziening in deze jaren, voor zover deze schaden en toevoeging niet meer bedragen dan € 37,2 miljoen per 6 augustus 2009: € 40,3 miljoen, vermeerderd met 23 procent van deze schaden en toevoeging, voor zover deze meer bedragen dan € 37,2 miljoen per 6 augustus 2009: € 40,3 miljoen;  
+b. 26 procent van de gemiddeld geboekte bruto schaden in de afgelopen drie boekjaren en van de gemiddelde toevoeging aan de schadevoorziening in deze jaren, voor zover deze schaden en toevoeging niet meer bedragen dan € 37,2 miljoen per 1 februari 2012: € 42,9 miljoen, vermeerderd met 23 procent van deze schaden en toevoeging, voor zover deze meer bedragen dan € 37,2 miljoen per 1 februari 2012: € 42,9 miljoen;  
 
 c. de verhouding, welke ten minste vijftig procent bedraagt, tussen de schaden die voor eigen rekening komen van de verzekeraar na overdracht uit hoofde van herverzekering en de bruto schaden in de afgelopen drie boekjaren.     
 2.  Voor zover het de berekening met betrekking tot de branches Aansprakelijkheid luchtvaartuigen, Aansprakelijkheid zee- en binnenschepen en Algemene aansprakelijkheid betreft, worden de geboekte dan wel verdiende premies, bedoeld in het eerste lid, onderdeel a, of de geboekte bruto schaden, bedoeld in het eerste lid, onderdeel b, met vijftig procent verhoogd. De Nederlandsche Bank kan besluiten dat voor de toerekening van de geboekte dan wel verdiende premies of geboekte bruto schaden aan de genoemde branches gebruik kan worden gemaakt van statistische methoden.   
 3.  Voor zover het een schadeverzekeraar betreft die in hoofdzaak ten minste een van de risico’s van kredietschade, stormschade, hagelschade of vorstschade dekt, wordt in de berekening en de verhouding, bedoeld in het eerste lid, onderdeel b onderscheidenlijk onderdeel c, uitgegaan van de afgelopen zeven boekjaren.   
 4.  Voor zover het de branche Hulpverlening betreft, wordt voor het bedrag van de geboekte bruto schaden, bedoeld in het eerste lid, onderdeel b, uitgegaan van de voor de schadeverzekeraar uit de verleende hulp voortvloeiende kosten.   
-5.  Voor de toepassing van dit artikel wordt de hogekostencompensatie, bedoeld in [artikel 1, onderdeel x, van het Besluit zorgverzekering](../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), aangemerkt als herverzekering.   
+5.  Voor de toepassing van dit artikel wordt de hogekostencompensatie, bedoeld in [artikel 1, onderdeel cc, van het Besluit zorgverzekering](../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), aangemerkt als herverzekering.   
 6.  Voor de toepassing van dit artikel worden ontvangen premies en betaalde of te betalen schaden in verband met schadeverzekeringen, die ingevolge de internationale jaarrekeningstandaarden niet als zodanig worden aangemerkt, in aanmerking genomen.   
 7.  Indien het minimumbedrag aan solvabiliteitsmarge zoals berekend overeenkomstig dit artikel lager is dan het minimumbedrag aan solvabiliteitsmarge van het voorafgaande boekjaar, dan bedraagt het minimumbedrag aan solvabiliteitsmarge ten minste de uitkomst van de volgende berekening: het minimumbedrag aan solvabiliteitsmarge van het voorafgaande boekjaar wordt vermenigvuldigd met de verhouding, welke ten hoogste honderd procent bedraagt, tussen de bedragen voor technische voorzieningen voor te betalen schaden verminderd met het bedrag van de overdrachten uit herverzekering aan het einde van het boekjaar en de bedragen voor technische voorzieningen voor te betalen schaden verminderd met het bedrag van de overdrachten uit herverzekering aan het begin van het boekjaar.   
 8.  Artikel 65, vierde lid, is van overeenkomstige toepassing.   
@@ -1413,7 +1440,7 @@ a. het activa of posten buiten de balanstelling als bedoeld in artikel 71, eerst
 
 b. het activa of posten buiten de balanstelling betreft in verband met niet-belangrijke bedrijfsactiviteiten en in categorieën die geen noemenswaardige omvang hebben en waarvan het risicoprofiel als laag wordt aangemerkt;  
 
-c. het vorderingen betreft op de Nederlandse Staat of, indien er op grond van bepaalde publiekrechtelijke regelingen geen verschil in risico bestaat tussen de vorderingen op de Nederlandse Staat en deze vorderingen, Nederlandse provincies, gemeenten, waterschappen of andere openbare lichamen als bedoeld in [artikel 134 van de Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md), en aan vorderingen op de Nederlandse Staat ingevolge artikel 61, vijfde lid, onderdeel a, een risicogewicht van nul procent is toegekend;  
+c. het vorderingen betreft op de centrale overheid, regionale overheden, lagere overheden en administratieve organen van een lidstaat, indien er op grond van bepaalde publiekrechtelijke regelingen geen verschil in risico bestaat tussen de vorderingen op de centrale overheid en de vorderingen op de andere hierboven bedoelde overheden en organen, en aan de vorderingen op de centrale overheid van die lidstaat ingevolge artikel 61, vijfde lid, onderdeel a, een risicogewicht van nul procent is toegekend;  
 
 d. het vorderingen betreft op een wederpartij die haar moederonderneming, dochteronderneming of een dochteronderneming van haar moederonderneming is, indien deze wederpartij een bank, beleggingsonderneming, financiële holding, financiële instelling, vermogensbeheerder of onderneming die nevendiensten verricht is waarop de hoofdstukken 9, 10 en 13 van dit besluit van toepassing zijn of een verbonden onderneming als bedoeld in artikel 12, eerste lid, van de richtlijn geconsolideerde jaarrekening;  
 
@@ -1429,7 +1456,7 @@ h. het overheidsgaranties of door de overheid herverzekerde garanties betreft di
 
 ### Artikel  77  
 
-1.  De Nederlandsche Bank kan een bank of beleggingsonderneming als bedoeld in artikel 69, eerste lid, op verzoek, toestemming verlenen om het bedrag van de vereiste solvabiliteit voor de positierisico’s met betrekking tot de handelsportefeuille, bedoeld in artikel 60, eerste lid, onderdeel b, of voor de valutarisico’s of grondstoffenrisico’s, bedoeld in artikel 60, eerste lid, onderdeel c, in afwijking van artikel 60, tweede lid, te berekenen op basis van interne modellen.   
+1.  De Nederlandsche Bank verleent een bank of beleggingsonderneming als bedoeld in artikel 69, eerste lid, op verzoek, toestemming, op verzoek, toestemming verlenen om het bedrag van de vereiste solvabiliteit voor de positierisico’s met betrekking tot de handelsportefeuille, bedoeld in artikel 60, eerste lid, onderdeel b, of voor de valutarisico’s of grondstoffenrisico’s, bedoeld in artikel 60, eerste lid, onderdeel c, in afwijking van artikel 60, tweede lid, te berekenen op basis van interne modellen.   
 2.  De Nederlandsche Bank stelt regels met betrekking tot interne modellen als bedoeld in het eerste lid en het gebruik ervan.   
 
 ### Artikel  78  
@@ -1441,7 +1468,7 @@ a. interne validatieprocedures van de financiële onderneming adequaat functione
 
 b. datastromen en procedures ten behoeve van het risicomeetsysteem van de financiële onderneming doorzichtig en toegankelijk zijn.     
 3.  De Nederlandsche Bank stelt regels met betrekking tot het risicomeetsysteem en het risicobeheersingsysteem voor de berekening van de vereiste solvabiliteit ter dekking van het operationeel risico.   
-4.  Indien een Nederlandse EU-moederbeleggingsonderneming of Nederlandse EU-moederkredietinstelling en haar dochterondernemingen of de dochterondernemingen van een Nederlandse financiële EU-moederholding een geavanceerde benadering voor het operationeel risico centraal toepast, kan de Nederlandsche Bank, op verzoek, toestaan dat de moederonderneming en haar dochterondernemingen samen voldoen aan de bij of krachtens dit besluit gestelde regels met betrekking tot de geavanceerde benadering.   
+4.  Indien een Nederlandse EU-moederbeleggingsonderneming of Nederlandse EU-moederbank en haar dochterondernemingen of de dochterondernemingen van een Nederlandse financiële EU-moederholding een geavanceerde benadering voor het operationeel risico centraal toepast, kan de Nederlandsche Bank, op verzoek, toestaan dat de moederonderneming en haar dochterondernemingen samen voldoen aan de bij of krachtens dit besluit gestelde regels met betrekking tot de geavanceerde benadering.   
 5.  De Nederlandsche Bank stelt regels waaraan het verzoek, bedoeld in het vierde lid, moet voldoen.   
 
 ### Artikel  79  
@@ -1532,9 +1559,21 @@ b. waarbij een kwantitatieve waarde, die losstaat van het driemaandsgemiddelde v
 
 ### Artikel  87  
 
-1.  Indien artikel 84, eerste en tweede lid, van toepassing is op een financiële onderneming als bedoeld in artikel 83 of indien een financiële onderneming als bedoeld in artikel 83 die sponsor is steun verleent aan een securitisatie, overschrijdt zij niet de grenzen van haar contractuele verplichtingen teneinde de mogelijke of feitelijke verliezen van de beleggers te beperken.   
+1.  Indien artikel 84, eerste en tweede lid, van toepassing is op een financiële onderneming als bedoeld in artikel 83 of indien een financiële onderneming als bedoeld in artikel 83 die sponsor is steun verleent aan een securitisatie of indien een financiële onderneming financiële instrumenten uit haar handelsportefeuille aan een entiteit voor securitisatiedoeleinden verkocht heeft, overschrijdt zij niet de grenzen van haar contractuele verplichtingen teneinde de mogelijke of feitelijke verliezen van de beleggers te beperken.   
 2.  Indien de financiële onderneming die initiator of sponsor is bij een securitisatie niet voldoet aan het eerste lid, dan houdt zij voor alle gesecuritiseerde posten evenveel toetsingsvermogen aan als noodzakelijk was geweest indien deze posten niet waren gesecuritiseerd.   
 3.  De financiële onderneming maakt openbaar dat zij buiten de grenzen van haar contractuele verplichtingen steun heeft verleend en welke gevolgen dit heeft voor haar toetsingsvermogen.   
+
+### Artikel  87a  
+
+1.  Een bank of beleggingsonderneming die niet optreedt als initiator, sponsor of oorspronkelijke kredietverstrekker, staat alleen bloot aan het kredietrisico van een securitisatiepositie in of buiten de handelsportefeuille indien de initiator, sponsor of oorspronkelijke kredietverstrekker jegens de bank of beleggingsonderneming expliciet te kennen heeft gegeven om permanent een materieel netto economisch belang aan te houden van minimaal vijf procent.   
+2.  Een bank of beleggingsonderneming die optreedt als sponsor of als initiator maakt aan beleggers bekend welk netto economisch belang zij in de securitisatie aanhoudt.   
+3.  De Nederlandsche Bank stelt regels met betrekking tot het aanhouden en meten van het netto economisch belang, de relevante informatie over de securitisatie die voor potentiële beleggers beschikbaar moet worden gesteld door als sponsor en als initiator optredende banken of beleggingsondernemingen alsmede de verplichtingen die voortvloeien uit de securitisatieposities.   
+4.  Voor het toezicht op geconsolideerde basis op een Nederlandse EU-moederkredietinstelling, een Nederlandse EU-moederbeleggingsonderneming of een Nederlandse financiële EU-moederholding, als bedoeld in [artikel 1:1 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) stelt de Nederlandsche Bank nadere regels met betrekking tot het bepaalde in het eerste lid.   
+
+### Artikel  87b  
+
+1.  De Nederlandsche Bank maakt de algemene criteria en methodieken openbaar op basis waarvan wordt vastgesteld of is voldaan aan hetgeen in artikel 87a is bepaald.   
+2.  Onverminderd [artikel 1:89 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), maakt de Nederlandsche Bank jaarlijks het resultaat van de evaluatie en de maatregelen die zijn opgelegd in gevallen dat niet is voldaan aan hetgeen ingevolge artikel 87a is bepaald bekend.   
 
 ### §  10.5  
 
@@ -1542,7 +1581,7 @@ b. waarbij een kwantitatieve waarde, die losstaat van het driemaandsgemiddelde v
 
 ### Artikel  88  
 
-1.  De Nederlandsche Bank erkent, op aanvraag, al dan niet voor bepaalde tijd, een kredietbeoordelingsbureau indien het geregistreerd is, bedoeld in artikel 14, vierde lid, van de verordening (EG) nr. 1060/2009 van het Europees Parlement en de Raad van 16 september 2009 inzake ratingbureaus (PbEU L 302), en voldoet aan de criteria, bedoeld in de artikelen 81, tweede lid, en 97, tweede lid, en de bijlagen VI, deel 2 en IX, deel 3, punt 1, van de herziene richtlijn banken.   
+1.  De Nederlandsche Bank erkent, op aanvraag, al dan niet voor bepaalde tijd, een kredietbeoordelingsbureau indien het geregistreerd is, bedoeld in artikel 14, vierde lid, van de verordening (EG) nr. 1060/2009 van het Europees Parlement en de Raad van 16 september 2009 inzake ratingbureaus (PbEU L 302).   
 2.  De Nederlandsche Bank stelt een procedure vast voor de erkenning, bedoeld in het eerste lid, en maakt deze bekend.   
 3.  Indien een kredietbeoordelingsbureau niet meer voldoet aan de criteria, bedoeld in het eerste lid, kan de Nederlandsche Bank de erkenning intrekken.   
 4.  Indien een toezichthoudende instantie van een andere lidstaat een kredietbeoordelingsbureau heeft erkend, erkent de Nederlandsche Bank het kredietbeoordelingsbureau zonder toetsing.   
@@ -1559,46 +1598,49 @@ Bepalingen ter uitvoering van de [artikelen 3:57, tweede lid](../../../../../../
 
 ### Artikel  89  
 
-1.  Bij de berekening van het toetsingsvermogen, bedoeld in de artikelen 90 tot en met 94, of de aanwezige solvabiliteitsmarge, bedoeld in de artikelen 95 tot en met 98, wordt per afzonderlijke post rekening gehouden met het voorzienbare bedrag van de daarover verschuldigde belastingen. De vermogensbestanddelen, bedoeld in artikel 91, tweede lid, onderdelen a tot en met j, of 95, tweede lid, alsmede de waarden die tegenover die vermogensbestanddelen staan, staan onmiddellijk en zonder beperkingen ter beschikking van de desbetreffende financiële onderneming.   
+1.  Bij de berekening van het toetsingsvermogen, bedoeld in de artikelen 90 tot en met 94, of de aanwezige solvabiliteitsmarge, bedoeld in de artikelen 95 tot en met 98, wordt per afzonderlijke post rekening gehouden met het voorzienbare bedrag van de daarover verschuldigde belastingen. De vermogensbestanddelen, bedoeld in artikel 91, tweede lid, onderdelen a tot en met f, of 95, tweede lid, alsmede de waarden die tegenover die vermogensbestanddelen staan, staan onmiddellijk en zonder beperkingen ter beschikking van de desbetreffende financiële onderneming.   
 2.  De Nederlandsche Bank stelt regels met betrekking tot: 
 
-a. het als toetsingsvermogen of aanwezige solvabiliteitsmarge in aanmerking nemen van innovatieve financiële instrumenten die gelijk te stellen zijn met de vermogensbestanddelen, bedoeld in de artikelen 90 tot en met 98;  
+a. het als toetsingsvermogen of aanwezige solvabiliteitsmarge in aanmerking nemen van hybride kapitaalinstrumenten als bedoeld in artikel 91, tweede lid, onderdeel h, die onderdeel kunnen zijn van het kernkapitaal als bedoeld in artikel 91, tweede lid, onderdeel a en het in aanmerking nemen van hybride kapitaalinstrumenten die gelijk te stellen zijn met de vermogensbestanddelen, bedoeld in de artikelen 92, tweede en derde lid, artikel 95, tweede lid en artikel 96.  
 
 b. het als immateriële activa als bedoeld in de artikelen 91, derde lid, onderdeel c, en 95, derde lid, onderdeel e, in aanmerking nemen van activa.     
 
 ### Artikel  90  
 
-1.  Het toetsingsvermogen van een bank, beleggingsonderneming, betaalinstelling of clearinginstelling als bedoeld in [artikel 3:57, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:58, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:61, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt gevormd door de som van het overeenkomstig artikel 94, eerste lid, onderdelen a tot en met c, tweede, derde en vierde lid, in aanmerking te nemen kernkapitaal en aanvullend kapitaal.   
+1.  Het toetsingsvermogen van een bank, beleggingsonderneming, betaalinstelling, clearinginstelling of elektronischgeldinstelling als bedoeld in [artikel 3:57, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:58, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:61, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt gevormd door de som van het overeenkomstig artikel 94, eerste lid, onderdelen a tot en met c, tweede, derde en vierde lid, in aanmerking te nemen kernkapitaal en aanvullend kapitaal.   
 2.  In afwijking van het eerste lid kan de financiële onderneming ervoor kiezen dat haar toetsingsvermogen, uitsluitend ter dekking van de bedragen, bedoeld in artikel 60, eerste lid, onderdeel b, voor zover het betreft de vereiste solvabiliteit ter dekking van de positierisico’s en grote posities, en onderdeel c, en het vereiste, bedoeld in artikel 60, derde lid, wordt gevormd door de som van het overeenkomstig artikel 94, in aanmerking te nemen kernkapitaal, aanvullend kapitaal en overig kapitaal. De bestanddelen van dit toetsingsvermogen dienen niet tevens ter dekking van andere in artikel 60, eerste lid, bedoelde bedragen.   
 3.  Het toetsingsvermogen van een beheerder van een instelling voor collectieve belegging in effecten als bedoeld in [artikel 3:57, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt gevormd door de som van het overeenkomstig artikel 94, eerste lid, onderdelen a tot en met c, in aanmerking te nemen kernkapitaal en aanvullend kapitaal.   
-4.  Het toetsingsvermogen van een elektronischgeldinstelling als bedoeld in [artikel 3:57, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:58, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt gevormd door de som van het overeenkomstig artikel 94, eerste lid, onderdelen a en b, tweede en derde lid, in aanmerking te nemen kernkapitaal en aanvullend hoger kapitaal.   
 
 ### Artikel  91  
 
 1.  Het kernkapitaal wordt gevormd door de waarde van de vermogensbestanddelen, bedoeld in het tweede lid, verminderd met de waarde van de posten, bedoeld in het derde lid.   
 2.  De voor de bepaling van het kernkapitaal in aanmerking te nemen vermogensbestanddelen zijn: 
 
-a. voor een naamloze of besloten vennootschap: het geplaatste en volgestorte aandelenkapitaal, met uitsluiting van cumulatief preferente aandelen en van preferente aandelen met een vaste looptijd;  
+a. de vermogensbestanddelen, voorzover deze bestanddelen de verliezen bij doorgaande bedrijfsvoering volledig opvangen en in geval van faillissement of liquidatie achtergesteld zijn bij alle andere schuldvorderingen en preferente aandelen; 
 
-b. voor een vennootschap onder firma: de afgezonderde gestorte vermogensbestanddelen van de beherende vennoten;  
+1°. voor een naamloze of besloten vennootschap: het geplaatste en volgestorte aandelenkapitaal, met uitsluiting van preferente aandelen;  
 
-c. voor een commanditaire vennootschap: de afgezonderde gestorte vermogensbestanddelen van de beherende vennoten alsmede het gestorte commanditaire kapitaal;  
+2°. voor een vennootschap onder firma: de afgezonderde gestorte vermogensbestanddelen van de beherende vennoten;  
 
-d. voor een coöperatie: het door de leden gestorte of ingelegde kapitaal;  
+3°. voor een commanditaire vennootschap: de afgezonderde gestorte vermogensbestanddelen van de beherende vennoten alsmede het gestorte commanditaire kapitaal;  
 
-e. voor een onderneming die een andere rechtsvorm heeft dan de hierboven genoemde: het voordelige verschil tussen bezittingen en schulden;  
+4°. voor een coöperatie: het door de leden gestorte of ingelegde kapitaal;  
 
-f. reserves, met uitsluiting van de herwaarderingsreserves;  
+5°. voor een onderneming die een andere rechtsvorm heeft dan de hierboven genoemde: het positieve verschil tussen bezittingen en schulden;    
 
-g. tussentijdse en door een accountant beoordeelde positieve resultaten, verminderd met uit te keren dividenden en, in het geval de financiële onderneming een initiator van een securitisatie is, met uitsluiting van de nettowinsten die zijn ontstaan uit de kapitalisatie van toekomstige inkomsten uit de gesecuritiseerde activa en die als kredietverbetering voor de securitisatieposities dienen;  
+b. reserves, met uitsluiting van de herwaarderingsreserves en, in het geval de financiële onderneming een initiator van een securitisatie is, met uitsluiting van de nettowinsten die zijn ontstaan uit de kapitalisatie van toekomstige inkomsten uit de gesecuritiseerde activa en die als kredietverbetering voor de securitisatieposities dienen;  
 
-h. het fonds ter dekking van algemene bankrisico’s;  
+c. positieve eindejaarsresultaten of tussentijdse resultaten beoordeeld door een accountant, voordat een formeel besluit is genomen omtrent de vaststelling, verminderd met alle te verwachten lasten en met voorziene dividenduitkeringen;  
 
-i. het belang van derden, voor zover het vermogensbestanddelen als bedoeld in dit lid omvat;  
+d. het fonds ter dekking van algemene bankrisico’s;  
 
-j. de negatieve onderdelen van de herwaarderingsreserves, voor zover ontstaan door waardeveranderingen van beleggingen in niet-rentedragende waarden; en  
+e. het belang van derden, voor zover het vermogensbestanddelen als bedoeld in dit lid omvat;  
 
-k. tussentijdse negatieve resultaten.     
+f. de negatieve onderdelen van de herwaarderingsreserves, voor zover ontstaan door waardeveranderingen van beleggingen in niet-rentedragende waarden;  
+
+g. negatieve tussentijdse resultaten of eindejaarsresultaten; en  
+
+h. vermogensbestanddelen die voldoen aan artikel 91a.     
 3.  De voor de bepaling van het kernkapitaal in aanmerking te nemen posten zijn: 
 
 a. reserves, voor zover ontstaan door ongerealiseerde resultaten op de eigen kredietwaardigheid van de financiële onderneming;  
@@ -1615,7 +1657,7 @@ e. in geval van een financiële onderneming die artikel 90, tweede lid, toepast,
 
 2°. de posten, bedoeld in artikel 94, tweede lid, aanhef en onderdelen a tot en met e, waarbij het vijfde tot en met zevende lid van dat artikel van overeenkomstige toepassing zijn;  
 
-3°. niet onmiddellijk verhandelbare deelnemingen en andere beleggingen in ondernemingen die geen entiteit voor risico-acceptatie, financiële instelling, kredietinstelling of verzekeraar zijn;  
+3°. niet onmiddellijk verhandelbare deelnemingen en andere beleggingen in ondernemingen die geen entiteit voor risico-acceptatie, financiële instelling, bank of verzekeraar zijn;  
 
 4°. tekorten bij dochterondernemingen;  
 
@@ -1625,12 +1667,39 @@ e. in geval van een financiële onderneming die artikel 90, tweede lid, toepast,
 
 7°. fysieke voorraden.       
 
+### Artikel  91a  
+
+1.  De vermogensbestanddelen, bedoeld in artikel 91, tweede lid, onderdeel h, voldoen aan de volgende vereisten: 
+
+a. de vermogensbestanddelen hebben geen vervaldatum of hebben een oorspronkelijke looptijd van ten minste dertig jaar;  
+
+b. de vermogensbestanddelen kunnen een of meer, uitsluitend naar het oordeel van de uitgevende financiële onderneming uit te oefenen callopties omvatten, maar worden ten vroegste vijf jaar na de datum van uitgifte afgelost;  
+
+c. als de bepalingen die voor vermogensbestanddelen zonder vervaldatum gelden, voorzien in een gematigde, door de Nederlandsche Bank te beoordelen aflossingsprikkel voor de financiële onderneming, mag die prikkel zich ten vroegste tien jaar na datum van uitgifte voordoen; en  
+
+d. de bepalingen die voor vermogensbestanddelen met vervaldatum gelden, staan niet toe dat van vermogensbestanddelen een prikkel tot aflossing op een andere datum dan de vervaldatum uitgaat.     
+2.  Onverminderd het eerste lid, voldoen de vermogensbestanddelen bedoeld in artikel 91, tweede lid, onderdeel h, aan de volgende vereisten: 
+
+a. de financiële onderneming heeft de mogelijkheid de uitkering van rente of dividend zo nodig voor onbepaalde tijd en op niet-cumulatieve basis te staken;  
+
+b. de financiële onderneming staakt rente of dividenduitkeringen, als zij niet voldoet aan de kapitaalvereisten van artikel 60, eerste lid;  
+
+c. het staken van de uitkering van rente of dividend doet geen afbreuk aan het recht van de financiële onderneming om de rente- of dividenduitkering te vervangen door een voldoening in de vorm van een vermogensbestanddeel dat voldoet aan de vereisten van artikel 91, tweede lid, onderdeel a, mits de financiële onderneming daardoor financiële middelen kan behouden. De Nederlandsche Bank kan aan die vervanging voorwaarden verbinden; en  
+
+d. vermogensbestanddelen met, zowel als zonder vervaldatum, kunnen alleen met voorafgaande toestemming van de Nederlandsche Bank worden afgelost of ingekocht. De Nederlandsche Bank kan deze toestemming verlenen mits het op verzoek van de financiële onderneming wordt gedaan en noch de financiële positie noch de solvabiliteitspositie van de financiële onderneming al te zeer wordt aangetast. De Nederlandsche Bank kan van de financiële onderneming verlangen dat zij de vermogensbestanddelen vervangen door direct uitgegeven vermogensbestanddelen als bedoeld in artikel 91, tweede lid, onderdelen a en h, van dezelfde of betere kwaliteit.     
+3.  De Nederlandsche Bank verlangt dat de aflossing van vermogensbestanddelen met vervaldatum wordt opgeschort als de financiële onderneming niet aan de kapitaalsvereisten van artikel 60 voldoet en kan verlangen dat aflossing op andere tijdstippen wordt opgeschort op grond van de financiële positie en solvabiliteitspositie van de financiële onderneming.   
+4.  De Nederlandsche Bank kan te allen tijde toestemming verlenen voor een vroegtijdige aflossing van vermogensbestanddelen ingeval de toepasselijke fiscale behandeling of indeling van deze vermogensbestanddelen volgens de regelgeving een wijziging ondergaat die bij uitgifte niet was voorzien.   
+5.  De Nederlandsche Bank kan verlangen dat de uitkering van rente of dividend op grond van de financiële positie en de solvabiliteitspositie van de financiële onderneming wordt gestaakt.   
+6.  De hoofdsom en niet uitgekeerde rente of dividend kunnen eventuele verliezen opvangen en vormen geen belemmering voor de herkapitalisatie van de financiële onderneming.   
+7.  Bij het faillissement of de liquidatie van de financiële onderneming zijn de vermogensbestanddelen achtergesteld bij de in artikel 92, tweede lid, onderdeel b, bedoelde vermogensbestanddelen.   
+8.  De Nederlandsche Bank stelt nadere regels met betrekking tot de vermogensbestanddelen als bedoeld in artikel 91, tweede lid, onderdeel h.   
+
 ### Artikel  92  
 
 1.  Het aanvullend kapitaal wordt gevormd door het hoger aanvullend kapitaal en het lager aanvullend kapitaal.   
 2.  Het hoger aanvullend kapitaal wordt gevormd door de waarde van: 
 
-a. de herwaarderingsreserves, voor zover niet reeds verwerkt in artikel 91, tweede lid, onderdeel j, en voor zover niet ontstaan door nog niet tot het resultaat gerekende waardeveranderingen van afdekkingstransacties of door waardering van rentedragende waarden tegen de actuele waarde;  
+a. de herwaarderingsreserves, voor zover niet reeds verwerkt in artikel 91, tweede lid, onderdeel f, en voor zover niet ontstaan door nog niet tot het resultaat gerekende waardeveranderingen van afdekkingstransacties of door waardering van rentedragende waarden tegen de actuele waarde;  
 
 b. het gestorte deel op schuldtitels met onbepaalde looptijd en andere financieringsinstrumenten indien: 
 
@@ -1692,13 +1761,13 @@ d. wordt het overig kapitaal voor de berekening van het toetsingsvermogen in aan
 e. wordt het aanvullend kapitaal, vermeerderd met het overig kapitaal, voor de berekening van het toetsingsvermogen slechts in aanmerking genomen voor zover het niet meer bedraagt dan het kernkapitaal; en  
 
 f. mag, indien wordt voldaan aan de onderdelen b, c en e, voor de berekening van het toetsingsvermogen het overig kapitaal worden gesubstitueerd door aanvullend kapitaal.     
-2.  Het ingevolge het eerste lid als toetsingsvermogen in aanmerking te nemen kernkapitaal en aanvullend kapitaal van een bank, beleggingsonderneming, betaalinstelling of clearinginstelling als bedoeld in artikel 90, eerste lid, of elektronischgeldinstelling als bedoeld in artikel 90, vierde lid, worden beide verminderd met de helft van de som van de waarde van: 
+2.  Het ingevolge het eerste lid als toetsingsvermogen in aanmerking te nemen kernkapitaal en aanvullend kapitaal van een bank, beleggingsonderneming, betaalinstelling, clearinginstelling of elektronischgeldinstelling als bedoeld in artikel 90, eerste lid, worden beide verminderd met de helft van de som van de waarde van: 
 
-a. aandelen die een belang van meer dan tien procent vertegenwoordigen van het geplaatste aandelenkapitaal van een financiële instelling of kredietinstelling;  
+a. aandelen die een belang van meer dan tien procent vertegenwoordigen van het geplaatste aandelenkapitaal van een financiële instelling of bank;  
 
-b. indien de bank, beleggingsonderneming, betaalinstelling, clearinginstelling of elektronischgeldinstelling een belang als bedoeld in onderdeel a aanhoudt, de achtergestelde leningen en de posten, bedoeld in artikel 92, tweede lid, onderdelen b en c, en derde lid, onderdelen b en c, die tot het toetsingsvermogen van de financiële instelling of kredietinstelling gerekend worden;  
+b. indien de bank, beleggingsonderneming, betaalinstelling, clearinginstelling of elektronischgeldinstelling een belang als bedoeld in onderdeel a aanhoudt, de achtergestelde leningen en de posten, bedoeld in artikel 92, tweede lid, onderdelen b en c, en derde lid, onderdelen b en c, die tot het toetsingsvermogen van de financiële instelling of bank gerekend worden;  
 
-c. aandelen die een belang van tien procent of minder vertegenwoordigen van het geplaatste aandelenkapitaal van een financiële instelling of kredietinstelling, achtergestelde leningen en posten, bedoeld in artikel 92, tweede lid, onderdelen b en c, en derde lid, onderdelen b en c, die tot het toetsingsvermogen van andere dan de in onderdeel b bedoelde financiële instellingen of kredietinstellingen gerekend worden, voor zover de waarde tien procent van het in aanmerking te nemen toetsingsvermogen van de bank, beleggingsonderneming, betaalinstelling, clearinginstelling of elektronischgeldinstelling zonder toepassing van dit lid overstijgt, en indien de genoemde posten deel uitmaken van de handelsportefeuille van de bank, beleggingsonderneming, betaalinstelling, clearinginstelling of elektronischgeldinstelling voor zover de waarde per individuele financiële instelling of kredietinstelling tien procent van het in aanmerking te nemen toetsingsvermogen van de bank, beleggingsonderneming, betaalinstelling, clearinginstelling of elektronischgeldinstelling zonder toepassing van dit lid overstijgt;  
+c. aandelen die een belang van tien procent of minder vertegenwoordigen van het geplaatste aandelenkapitaal van een financiële instelling of bank, achtergestelde leningen en posten, bedoeld in artikel 92, tweede lid, onderdelen b en c, en derde lid, onderdelen b en c, die tot het toetsingsvermogen van andere dan de in onderdeel b bedoelde financiële instellingen of banken gerekend worden, voor zover de waarde tien procent van het in aanmerking te nemen toetsingsvermogen van de bank, beleggingsonderneming, betaalinstelling, clearinginstelling of elektronischgeldinstelling zonder toepassing van dit lid overstijgt, en indien de genoemde posten deel uitmaken van de handelsportefeuille van de bank, beleggingsonderneming, betaalinstelling, clearinginstelling of elektronischgeldinstelling voor zover de waarde per individuele financiële instelling of bank tien procent van het in aanmerking te nemen toetsingsvermogen van de bank, beleggingsonderneming, betaalinstelling, clearinginstelling of elektronischgeldinstelling zonder toepassing van dit lid overstijgt;  
 
 d. deelnemingen als bedoeld in [artikel 3:268, eerste lid, onderdeel b, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in een entiteit voor risico-acceptatie of verzekeraar;  
 
@@ -1710,13 +1779,22 @@ f. indien de financiële onderneming voor de berekening van de naar risico gewog
 
 2°. de verwachte verliesposten in verband met posities in aandelen, bedoeld in artikel 71, eerste lid, onderdeel e, berekend ingevolge artikel 75, eerste lid, onderdeel a of b; en    
 
-g. de vorderingen bij securitisatieposities waaraan ingevolge artikel 85, tweede lid, een risicogewicht van 1250 procent wordt toegekend, voor zover deze niet in aanmerking zijn genomen in de berekening van de naar risico gewogen activa en posten buiten de balanstelling, bedoeld in artikel 85.     
+g. de vorderingen bij securitisatieposities waaraan ingevolge artikel 85, tweede lid, een risicogewicht van 1250 procent wordt toegekend, voor zover deze niet in aanmerking zijn genomen in de berekening van de naar risico gewogen activa en posten buiten de balansstelling, bedoeld in artikel 85 en de vorderingen bij securitisatieposities in de handelsportefeuille die, als ze in de niet-handelsportefeuille van dezelfde financiële ondernemingen zaten, een risicogewicht van 1250 procent zouden krijgen.     
 3.  In afwijking van het tweede lid worden het als toetsingsvermogen in aanmerking te nemen kernkapitaal en aanvullend kapitaal van de financiële onderneming die artikel 90, tweede lid, toepast, verminderd met de helft van de som van de waarde van de posten, bedoeld in het tweede lid, onderdelen f en g.   
 4.  Indien de helft van de som van de waarde van de bestanddelen, bedoeld in het tweede lid, meer bedraagt dan het als toetsingsvermogen in aanmerking te nemen aanvullend kapitaal, wordt het verschil in mindering gebracht op het als toetsingsvermogen in aanmerking te nemen kernkapitaal.   
-5.  De Nederlandsche Bank kan, op verzoek, besluiten dat de financiële onderneming, bedoeld in het tweede lid, aanhef, al dan niet voor bepaalde tijd, haar als toetsingsvermogen in aanmerking te nemen kernkapitaal en aanvullend kapitaal niet hoeft te verminderen met de waarde van de in het tweede lid bedoelde posten indien het belang in de entiteit voor risico-acceptatie, financiële instelling, kredietinstelling, verzekeraar of verzekeringsholding, of de door deze financiële ondernemingen uitgegeven achtergestelde leningen of overige posten tijdelijk worden gehouden met het oog op een financiële bijstandsoperatie, bedoeld om die financiële onderneming te saneren of te redden.   
+5.  De Nederlandsche Bank kan, op verzoek, besluiten dat de financiële onderneming, bedoeld in het tweede lid, aanhef, al dan niet voor bepaalde tijd, haar als toetsingsvermogen in aanmerking te nemen kernkapitaal en aanvullend kapitaal niet hoeft te verminderen met de waarde van de in het tweede lid bedoelde posten indien het belang in de entiteit voor risico-acceptatie, financiële instelling, bank, verzekeraar of verzekeringsholding, of de door deze financiële ondernemingen uitgegeven achtergestelde leningen of overige posten tijdelijk worden gehouden met het oog op een financiële bijstandsoperatie, bedoeld om die financiële onderneming te saneren of te redden.   
 6.  De financiële onderneming, bedoeld in het tweede lid, aanhef, kan, in plaats van de vermindering met de waarde van de posten, bedoeld in het tweede lid, onderdelen d en e, de methodes 1, 2 of 3, bedoeld in [bijlage B van het Besluit prudentieel toezicht financiële groepen Wft](../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md) op overeenkomstige wijze toepassen, met dien verstande dat methode 1 uitsluitend kan worden toegepast indien de Nederlandsche Bank, op verzoek, heeft besloten dat haar dat is toegestaan. De Nederlandsche Bank besluit hiertoe indien het geïntegreerd beheer en de interne controle van de in de consolidatie te betrekken ondernemingen voldoende zijn.   
-7.  Indien op de financiële onderneming, bedoeld in de aanhef van het tweede lid, toezicht op geconsolideerde basis ingevolge [afdeling 3.6.2 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of prudentieel toezicht op financiële conglomeraten ingevolge [afdeling 3.6.4 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt gehouden, hoeft zij haar als toetsingsvermogen in aanmerking te nemen kernkapitaal en aanvullend kapitaal niet te verminderen met de waarde van de in het tweede lid bedoelde posten die worden gehouden in een financiële instelling, kredietinstelling, verzekeraar of verzekeringsholding die in dat geconsolideerde toezicht of prudentieel toezicht op financiële conglomeraten wordt betrokken.   
-8.  De Nederlandsche Bank kan, op verzoek, in uitzonderlijke omstandigheden besluiten dat het een financiële onderneming toegestaan is voor bepaalde tijd een der limieten, bedoeld in het eerste lid, onderdeel b tot en met e, te overschrijden.   
+7.  Indien op de financiële onderneming, bedoeld in de aanhef van het tweede lid, toezicht op geconsolideerde basis ingevolge [afdeling 3.6.2 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of prudentieel toezicht op financiële conglomeraten ingevolge [afdeling 3.6.4 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt gehouden, hoeft zij haar als toetsingsvermogen in aanmerking te nemen kernkapitaal en aanvullend kapitaal niet te verminderen met de waarde van de in het tweede lid bedoelde posten die worden gehouden in een financiële instelling, bank, verzekeraar of verzekeringsholding die in dat geconsolideerde toezicht of prudentieel toezicht op financiële conglomeraten wordt betrokken.   
+8.  De Nederlandsche Bank kan op verzoek besluiten dat het een bank of beleggingsonderneming is toegestaan de limieten, bedoeld in het eerste lid, onderdelen b en c, en het negende lid in noodsituaties tijdelijk te overschrijden.   
+9.  Voor de toepassing van artikel 91, tweede lid, onderdeel h, gelden de volgende limieten: 
+
+a. vermogensbestanddelen die in noodsituaties als bedoeld in het achtste lid, binnen een vooraf bepaalde marge geconverteerd moeten worden en op initiatief van de Nederlandsche Bank in het licht van de financiële en solvabiliteitssituatie van de bank of beleggingsonderneming te allen tijde geconverteerd mogen worden in vermogensbestanddelen als bedoeld in artikel 91, tweede lid, onderdeel a, mogen tezamen niet meer bedragen dan vijftig procent van de som van de vermogensbestanddelen, bedoeld in artikel 91, tweede lid, onderdelen a tot en met e en h, verminderd met de som van de vermogensbestanddelen, bedoeld in artikel 91, tweede lid, onderdelen f en g en het derde lid;  
+
+b. binnen de limiet, bedoeld in onderdeel a, bedragen alle andere vermogensbestanddelen tezamen niet meer dan 35 procent van de som van de vermogensbestanddelen genoemd in artikel 91, tweede lid, onderdelen a tot en met e en h verminderd met de som van de vermogensbestanddelen bedoeld in artikel 91, tweede lid, onderdelen f en g en het derde lid;  
+
+c. binnen de limieten, bedoeld in de onderdelen a en b bedraagt de som van vermogensbestanddelen met bepaalde looptijd en vermogensbestanddelen waarvan de bepalingen een aflossingsprikkel voor de bank en beleggingsonderneming bevatten, niet meer dan vijftien procent van de vermogensbestanddelen, bedoeld in artikel 91, tweede lid, onderdelen a tot en met e en h, verminderd met de som van de vermogensbestanddelen bedoeld in artikel 91, tweede lid, onderdelen f en g en het derde lid;  
+
+d. voor het bedrag van de vermogensbestanddelen dat uitkomt boven de limieten bedoeld in de onderdelen a, b en c, van dit lid, geldt de limiet, bedoeld in artikel 94, eerste lid, onderdelen b en c.     
 
 ### Artikel  95  
 
@@ -1750,7 +1828,7 @@ d. de boekwaarde van de door de verzekeraar uitgegeven effecten en van afgeleide
 
 e. immateriële activa;  
 
-f. deelnemingen als bedoeld in [artikel 3:268, eerste lid, onderdeel b, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in een beleggingsonderneming, financiële instelling, kredietinstelling, verzekeraar of verzekeringsholding als bedoeld in [artikel 3:268, eerste lid, onderdeel j, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); en  
+f. deelnemingen als bedoeld in [artikel 3:268, eerste lid, onderdeel b, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in een beleggingsonderneming, financiële instelling, bank, verzekeraar of verzekeringsholding als bedoeld in [artikel 3:268, eerste lid, onderdeel j, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); en  
 
 g. indien de verzekeraar een deelneming als bedoeld in onderdeel f aanhoudt: de posten, bedoeld in de artikelen 92, tweede lid, onderdelen b en c, en derde lid, onderdelen b en c, en 96, die tot de solvabiliteitsmarge dan wel het toetsingsvermogen van de financiële onderneming, bedoeld in onderdeel f, worden gerekend.     
 4.  De Nederlandsche Bank kan, op verzoek, besluiten dat een verzekeraar als bedoeld in het eerste lid, al dan niet voor bepaalde tijd, zijn aanwezige solvabiliteitsmarge niet hoeft te verminderen met de waarde van de posten, bedoeld in het derde lid, onderdelen f en g, indien deze posten tijdelijk worden gehouden met het oog op een financiële bijstandsoperatie, bedoeld om de financiële onderneming, bedoeld in het derde lid, onderdeel f, te saneren of te redden.   
@@ -1825,10 +1903,13 @@ Bepalingen ter uitvoering van [artikel 3:57, zesde lid, van de wet](../../../../
 
 ### Artikel  102  
 
-1.  De waarde van de grote posities van een bank of beleggingsonderneming als bedoeld in [artikel 3:57, zesde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:58, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of van een clearinginstelling als bedoeld in [artikel 3:57, zesde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:61, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met inbegrip van de waarde van de grote posities van haar bijkantoren in een staat die geen lidstaat is, bedraagt ten aanzien van een wederpartij of groep van verbonden wederpartijen niet meer dan 25 procent van haar toetsingsvermogen.   
-2.  De totale waarde van de grote posities van een financiële onderneming als bedoeld in het eerste lid bedraagt niet meer dan achthonderd procent van haar toetsingsvermogen.   
-3.  Voor de toepassing van dit artikel is de waarde van een actief gelijk aan de balanswaarde en is de waarde van een post buiten de balanstelling gelijk aan de actuele waarde. De Nederlandsche Bank stelt nadere regels met betrekking tot de waardering van activa en posten buiten de balanstelling voor de toepassing van dit artikel, het geheel of gedeeltelijk niet in aanmerking nemen van bepaalde activa of posten buiten de balanstelling voor de toepassing van dit artikel en het toepassen van risicogewichten op bepaalde activa en posten buiten de balanstelling.   
-4.  De financiële onderneming geeft de Nederlandsche Bank onverwijld kennis van een overschrijding van een limiet als bedoeld in het eerste of tweede lid. De Nederlandsche Bank kan, op verzoek, besluiten dat het een financiële onderneming voor een beperkte duur is toegestaan een limiet te overschrijden. De Nederlandsche Bank stelt regels met betrekking tot de voorwaarden waaronder zij een overschrijding toestaat. Zij kan daarbij bepalen dat de eerste volzin van dit lid niet van toepassing is.   
+1.  De waarde van de grote posities van een bank of beleggingsonderneming als bedoeld in [artikel 3:57, zesde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:58, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of van een clearinginstelling als bedoeld in artikel 3:57, zesde lid, of [3:61, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), is met inachtneming van de kredietrisicolimitering, ten aanzien van een wederpartij of groep van verbonden wederpartijen niet groter dan 25 procent van haar toetsingsvermogen.   
+2.  Indien de wederpartij een bank of beleggingsonderneming is als bedoeld in het eerste lid of wanneer een groep van verbonden wederpartijen een of meer banken of beleggingsondernemingen als bedoeld in het eerste lid omvat, kan deze waarde niet meer bedragen dan 25 procent van het toetsingsvermogen van de bank of beleggingsonderneming of € 150 miljoen, naargelang welk bedrag het hoogst is, voor zover de som van de waarde van de posities, met inaanmerkingneming van het effect van de kredietrisicolimitering, jegens alle verbonden wederpartijen die geen bank of beleggingsonderneming zijn, niet meer bedraagt dan 25 procent van het toetsingsvermogen van de bank of beleggingsonderneming.   
+3.  Indien het bedrag van € 150 miljoen groter is dan 25 procent van het toetsingsvermogen van de bank of beleggingsonderneming, mag de waarde van de grote positie, met inachtneming van het effect van de kredietrisicolimitering, een redelijke limiet, gelet op het toetsingsvermogen van de bank of beleggingsonderneming, bedoeld in het eerste lid, niet te boven gaan. Deze limiet wordt door de bank of beleggingsonderneming bepaald overeenkomstig het door haar gevoerde beleid ten aanzien van het beheersen van concentratierisico’s, maar mag niet groter zijn dan honderd procent van haar toetsingsvermogen.   
+4.  Het tweede en het derde lid zijn van overeenkomstige toepassing op posities die worden gehouden in geregistreerde gedekte obligaties.   
+5.  De Nederlandsche bank stelt aanvullende regels vast omtrent posities die zijn uitgezonderd van de toepassing van het eerste, tweede en derde lid.   
+6.  Voor de toepassing van dit artikel is de waarde van een actief gelijk aan de balanswaarde en is de waarde van een post buiten de balanstelling gelijk aan de actuele waarde. De Nederlandsche Bank stelt nadere regels met betrekking tot de waardering van activa en posten buiten de balanstelling voor de toepassing van dit artikel, het geheel of gedeeltelijk niet in aanmerking nemen van bepaalde activa of posten buiten de balanstelling voor de toepassing van dit artikel en het toepassen van risicogewichten op bepaalde activa en posten buiten de balanstelling.   
+7.  De financiële onderneming geeft de Nederlandsche Bank onverwijld kennis van een overschrijding van een limiet als bedoeld in het eerste, tweede of derde lid. De Nederlandsche Bank kan, op verzoek, besluiten dat het een bank of beleggingsonderneming voor een beperkte duur is toegestaan een limiet te overschrijden of in het geval de limiet van € 150 miljoen bedoeld in het derde lid van toepassing is, in een uitzonderlijk geval toestaan dat de limiet van honderd procent van het eigen vermogen van de bank wordt overschreden. De Nederlandsche Bank stelt regels met betrekking tot de voorwaarden waaronder zij een overschrijding toestaat. Zij kan daarbij bepalen dat de eerste volzin van dit lid niet van toepassing is.   
 
 ### Artikel  103  
 
@@ -1853,19 +1934,6 @@ b. leningen voor het verwerven van onroerende zaken die rechtstreeks noodzakelij
 
 c. leningen met als doel de verwerving van vreemde valuta waardoor de netto schuld van de instelling voor collectieve belegging in effecten niet verandert of zal veranderen.     
 
-### Artikel  105  
-
-1.  Een elektronischgeldinstelling als bedoeld in [artikel 3:57, zesde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:58, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) houdt, ter dekking van haar financiële verplichtingen die met uitstaand elektronisch geld verband houden, uitsluitend de volgende activa aan, gewaardeerd tegen de historische kostprijs of de actuele waarde, naar gelang welke het laagst is: 
-
-a. activa die voldoende liquide zijn, waaraan ingevolge artikel 61, derde lid, onderdeel a, een risicogewicht van nul procent is toegekend;  
-
-b. onmiddellijk opvraagbare deposito’s bij een bank met zetel in Nederland, in een andere lidstaat, of in een ingevolge [artikel 3:2, eerste lid, onderdeel c, onder 2°, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aangewezen staat; en  
-
-c. overige voldoende liquide schuldinstrumenten als bedoeld in artikel 113, eerste lid, die niet zijn uitgegeven door een persoon met welke de elektronischgeldinstelling in een formele of feitelijke zeggenschapsstructuur is verbonden, indien de Nederlandsche Bank daartoe, op verzoek, heeft besloten.     
-2.  Indien de financiële verplichtingen van de elektronischgeldinstelling die met uitstaand elektronisch geld verband houden niet volledig worden gedekt door de activa, bedoeld in het eerste lid, kan de Nederlandsche Bank, op verzoek, besluiten dat de elektronischgeldinstelling deze verplichtingen voor een beperkte duur door andere activa dekt. De waarde van deze andere activa bedraagt niet meer dan vijf procent van haar totale financiële verplichtingen die met uitstaand elektronisch geld verband houden of haar toetsingsvermogen, naargelang welk bedrag het laagst is.   
-3.  Artikel 102, eerste tot en met derde lid en vierde lid, eerste, tweede en vierde volzin, is van overeenkomstige toepassing op de activa, bedoeld in het eerste lid, onderdelen b en c, met dien verstande dat de totale waarde van deze activa niet meer bedraagt dan twintig maal het toetsingsvermogen van de elektronischgeldinstelling, en dat artikel 102, eerste lid, niet van toepassing is op een elektronischgeldinstelling waarvan de financiële verplichtingen die met uitstaand elektronisch geld verband houden, minder dan € 50 miljoen bedragen. Een elektronischgeldinstelling gaat geen risico’s aan ten aanzien van personen die formeel of feitelijk zeggenschap over haar hebben.   
-4.  De Nederlandsche Bank stelt nadere regels met betrekking tot het beperken van of het verbinden van voorwaarden aan het aanhouden van activa en posten buiten de balanstelling door een elektronischgeldinstelling.   
-
 ### Hoofdstuk  11  
 
 ####Liquiditeit
@@ -1878,7 +1946,9 @@ Bepalingen ter uitvoering van [artikel 3:63, tweede lid, van de wet](../../../..
 
 ### Artikel  106  
 
-De liquiditeit van een financiële onderneming als bedoeld in [artikel 3:63, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:64](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:65](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:66 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is voldoende indien de aanwezige liquiditeit, bedoeld in artikel 111, 112 of 113, ten minste gelijk is aan de vereiste liquiditeit, bedoeld in artikel 108, 109 of 110.  
+1.  Als liquiditeit van een bank als bedoeld in [artikel 3:63, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:64](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:65 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) geldt de aanwezige liquiditeit, bedoeld in de artikelen 111, 112 of 113.   
+2.  De minimale omvang van de liquiditeit, bedoeld in het eerste lid, is ten minste gelijk aan de vereiste liquiditeit, bedoeld in artikel 108.   
+3.  De liquiditeit van een onderneming als bedoeld in [artikel 3:63, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:64](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:65](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:66 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), niet zijnde een bank, is voldoende indien de aanwezige liquiditeit, bedoeld in de artikelen 111, 112 of 113, tenminste gelijk is aan de vereiste liquiditeit, bedoeld in de artikelen 108, 109 of 110.   
 
 ### Artikel  107  
 
@@ -1941,7 +2011,7 @@ c. vrije en grensoverschrijdende overdracht van liquiditeit mogelijk is.
 
 a. activa die niet onbelemmerd overdraagbaar zijn;  
 
-b. direct opeisbare tegoeden bij personen die geen kredietinstelling of professionele geldmarktpartij zijn.     
+b. direct opeisbare tegoeden bij personen die geen bank of professionele geldmarktpartij zijn.     
 6.  De Nederlandsche Bank stelt regels met betrekking tot de in het eerste, tweede en derde lid bedoelde posten en de weging daarvan.   
 
 ### Artikel  112  
@@ -1957,29 +2027,6 @@ c. financiële instrumenten die zijn toegelaten tot de handel aan een gereglemen
 d. officiële stand-by faciliteiten afgegeven door banken die een vergunning als bedoeld in [artikel 2:11 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) hebben of waarop toezicht op het uitoefenen van het bedrijf van bank wordt uitgeoefend dat in voldoende mate waarborgen biedt ten aanzien van de belangen die de wet beoogt te beschermen; en  
 
 e. onvoorwaardelijke garanties van banken en verzekeraars die een vergunning als bedoeld in [artikel 2:11](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) onderscheidenlijk [artikel 2:27 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) hebben of waarop toezicht op het uitoefenen van het bedrijf van bank onderscheidenlijk verzekeraar wordt uitgeoefend dat in voldoende mate waarborgen biedt ten aanzien van de belangen die de [wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beoogt te beschermen.    
-
-### Artikel  113  
-
-1.  De aanwezige liquiditeit van een elektronischgeldinstelling als bedoeld in [artikel 3:63](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:65 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt gevormd door activa als bedoeld in artikel 105, eerste lid, voorzover deze beleggingen direct in geld opvraagbare activa zijn of beleggingen zijn: 
-
-a. waarvoor door een gereglementeerde markt of door verschillende, niet gelieerde, professionele marktpartijen regelmatig en minimaal dagelijks biedprijzen en laatprijzen worden afgegeven;  
-
-b. die regelmatig worden verhandeld;  
-
-c. waarvan de verkoop of belening op dagelijkse termijn kan plaatsvinden;  
-
-d. waarvan de opbrengstwaarde dan wel de beleningswaarde niet anders dan marginaal wordt beïnvloed door de omvang of de snelheid van de verkoop onderscheidenlijk de belening;  
-
-e. waarvan de liquiditeit ten minste gelijkwaardig is aan uitzettingen bij centrale overheidslichamen van een krachtens [artikel 3:2, eerste lid, onderdeel c, onder 2°, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aangewezen staat; en  
-
-f. waarvan de afwikkeling in de markt waar de desbetreffende activa worden verhandeld, plaats vindt volgens een vast en niet onderhandelbaar tijdschema.     
-2.  De financiële onderneming houdt ten minste twintig procent van de betalingsverplichtingen, bedoeld in artikel 110, aan in de vorm van: 
-
-a. direct opvraagbare deposito’s;  
-
-b. onherroepelijke officiële stand-by faciliteiten bij banken met zetel in een lidstaat of een staat die deel uitmaakt van de G10; of  
-
-c. direct bij een centrale bank beleenbaar papier tegen de beleningswaarde.     
 
 ### Hoofdstuk  12  
 
@@ -2159,7 +2206,7 @@ c. de volgende andere activa:
 
 1°. materiële vaste activa, andere dan onroerende zaken;  
 
-2°. liquide middelen en deposito’s bij kredietinstellingen of bij buitenlandse andere instellingen die vergunning hebben om deposito’s te ontvangen;  
+2°. liquide middelen en deposito’s bij banken of bij buitenlandse andere instellingen die vergunning hebben om deposito’s te ontvangen;  
 
 3°. overlopende acquisitiekosten;  
 
@@ -2173,7 +2220,7 @@ c. de volgende andere activa:
 
 1.  Onverminderd de artikelen 122 en 122b, worden de waarden die dienen tot dekking van de technische voorzieningen van een levensverzekeraar of schadeverzekeraar als bedoeld in [artikel 3:67, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:68, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), ten opzichte van het totaal van de technische voorzieningen, per categorie van activa als bedoeld in artikel 122b, eerste lid, verdeeld met inachtneming van de volgende maxima: 
 
-a. leningen als bedoeld in artikel 122b, eerste lid, onderdeel a, onder 2°, aan ondernemingen en instellingen die geen beleggingsinstelling, kredietinstelling of verzekeraar met zetel in een lidstaat zijn, voor zover deze leningen niet zijn voorzien van een garantie, hypotheek of andere zekerheid: vijf procent;  
+a. leningen als bedoeld in artikel 122b, eerste lid, onderdeel a, onder 2°, aan ondernemingen en instellingen die geen beleggingsinstelling, bank of verzekeraar met zetel in een lidstaat zijn, voor zover deze leningen niet zijn voorzien van een garantie, hypotheek of andere zekerheid: vijf procent;  
 
 b. kasmiddelen: drie procent; en  
 
@@ -2182,10 +2229,10 @@ c. beleggingen als bedoeld in artikel 122b, eerste lid, onderdeel a, onder 1°en
 
 a. een bepaald terrein of gebouw als bedoeld in artikel 122b, eerste lid, onderdeel a, onder 5°, of een complex van verschillende terreinen of gebouwen dat als een belegging kan worden beschouwd: tien procent per object; en  
 
-b. een bepaalde lening als bedoeld in artikel 122b, eerste lid, onderdeel a, onder 2°, aan ondernemingen en instellingen die geen beleggingsinstelling, kredietinstelling of verzekeraar met zetel in een lidstaat zijn, voor zover deze leningen niet zijn voorzien van een garantie, hypotheek of andere zekerheid: een procent per lening.     
+b. een bepaalde lening als bedoeld in artikel 122b, eerste lid, onderdeel a, onder 2°, aan ondernemingen en instellingen die geen beleggingsinstelling, bank of verzekeraar met zetel in een lidstaat zijn, voor zover deze leningen niet zijn voorzien van een garantie, hypotheek of andere zekerheid: een procent per lening.     
 3.  De waarden die dienen tot dekking van de technische voorzieningen bestaan, ten opzichte van het totaal van de technische voorzieningen, voor maximaal vijf procent uit beleggingen als bedoeld in artikel 122b, eerste lid, onderdeel a, onder 1° en 3°, uitgegeven door een bepaalde emittent of uit leningen aan een bepaalde kredietnemer, tezamen genomen. Waardepapieren uitgegeven of gegarandeerd door onderscheidenlijk leningen aan of gegarandeerd door centrale, regionale of lokale overheidslichamen of internationale instellingen of organisaties waarvan een of meer lidstaten deel uitmaken, blijven hierbij buiten beschouwing.   
 4.  De Nederlandsche Bank kan, op verzoek, besluiten het maximum, bedoeld in het eerste lid, onderdeel a, voor een levensverzekeraar te verhogen tot acht procent van de technische voorzieningen en het maximum, bedoeld in het tweede lid, onderdeel b, tot twee procent van de technische voorzieningen indien de belangen van de verzekeringnemers, verzekerden of gerechtigden op uitkeringen zich daartegen niet verzetten.   
-5.  De Nederlandsche Bank kan, op verzoek, besluiten dat voor de toepassing van het derde lid een bepaalde kredietinstelling met zetel in Nederland met een overheidslichaam wordt gelijkgesteld, indien de aandelen van die kredietinstelling in handen zijn van de Nederlandse Staat of Nederlandse provincies, gemeenten, waterschappen of andere openbare lichamen als bedoeld in [artikel 134 van de Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md) en de werkzaamheden van die kredietinstelling statutair bestaan in het door haar tussenkomst verstrekken van leningen aan, of met garantie van de Nederlandse Staat of andere overheidslichamen of het vertrekken van leningen aan nauw met de Nederlandse Staat of de lokale overheidslichamen verbonden instanties.   
+5.  De Nederlandsche Bank kan, op verzoek, besluiten dat voor de toepassing van het derde lid een bepaalde bank met zetel in Nederland met een overheidslichaam wordt gelijkgesteld, indien de aandelen van die bank in handen zijn van de Nederlandse Staat of Nederlandse provincies, gemeenten, waterschappen of andere openbare lichamen als bedoeld in [artikel 134 van de Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md) en de werkzaamheden van die bank statutair bestaan in het door haar tussenkomst verstrekken van leningen aan, of met garantie van de Nederlandse Staat of andere overheidslichamen of het vertrekken van leningen aan nauw met de Nederlandse Staat of de lokale overheidslichamen verbonden instanties.   
 6.  Het maximum, bedoeld in het derde lid, wordt gesteld op tien procent van de technische voorzieningen indien de waarden die dienen tot dekking van de technische voorzieningen voor niet meer dan veertig procent bestaan uit leningen aan of waardepapieren van kredietnemers en emittenten waarin de verzekeraar meer dan vijf procent van zijn activa heeft belegd.   
 
 ### Artikel  124  
@@ -2198,7 +2245,7 @@ b. deelnemingen in een beleggingsinstelling, voor zover de richtlijn beleggingsi
 
 c. effecten die niet worden verhandeld op een gereglementeerde markt; en  
 
-d. beleggingen als bedoeld in artikel 122b, eerste lid, onderdeel a, onder 1°, uitgegeven door een emittent niet zijnde centrale, regionale of lokale overheid of een ander openbaar lichaam, een internationale organisatie waarvan een of meer lidstaten deel uitmaken of een kredietinstelling met zetel in Nederland, in een andere lidstaat of in een ingevolge [artikel 3:2, eerste lid, onderdeel c, onder 2°, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aangewezen staat.    
+d. beleggingen als bedoeld in artikel 122b, eerste lid, onderdeel a, onder 1°, uitgegeven door een emittent niet zijnde centrale, regionale of lokale overheid of een ander openbaar lichaam, een internationale organisatie waarvan een of meer lidstaten deel uitmaken of een bank met zetel in Nederland, in een andere lidstaat of in een ingevolge [artikel 3:2, eerste lid, onderdeel c, onder 2°, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aangewezen staat.    
 
 ### Artikel  124a  
 
@@ -2318,7 +2365,7 @@ Bepalingen ter uitvoering van de [artikelen 3:71, tweede lid](../../../../../../
 
 ### Artikel  129  
 
-Een betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, pensioenbewaarder, premiepensioeninstelling of verzekeraar als bedoeld in [artikel 3:71, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:81, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:85, eerste of tweede lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) verstrekt de documenten, bedoeld in [artikel 3:71, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:81, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), wat betreft indeling en inhoud in de vorm waarin deze zijn opgemaakt ingevolge [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), de internationale jaarrekeningstandaarden onderscheidenlijk het recht van de staat waar deze financiële onderneming haar zetel heeft. Een financiële onderneming met zetel in Nederland vermeldt of de jaarrekening al dan niet is vastgesteld en goedgekeurd overeenkomstig de statuten of de vennootschapsakte.  
+Een betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, pensioenbewaarder, premiepensioeninstelling of verzekeraar als bedoeld in [artikel 3:71, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:81, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:85, eerste of tweede lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) verstrekt de documenten, bedoeld in [artikel 3:71, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:81, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), wat betreft indeling en inhoud in de vorm waarin deze zijn opgemaakt ingevolge [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), de internationale jaarrekeningstandaarden onderscheidenlijk het recht van de staat waar deze financiële onderneming haar zetel heeft. Een financiële onderneming met zetel in Nederland vermeldt of de jaarrekening al dan niet is vastgesteld en goedgekeurd overeenkomstig de statuten of de vennootschapsakte.  
 
 ### §  13.2  
 
@@ -2328,7 +2375,7 @@ Bepalingen ter uitvoering van de [artikelen 3:72, vijfde en zevende lid](../../.
 
 ### Artikel  130  
 
-1.  De door een beleggingsonderneming of kredietinstelling als bedoeld in [artikel 3:72, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:82, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of door een clearinginstelling als bedoeld in [artikel 3:72, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:86, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) te verstrekken staten omvatten uitsluitend: 
+1.  De door een beleggingsonderneming of bank als bedoeld in [artikel 3:72, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:82, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of door een clearinginstelling als bedoeld in artikel 3:72, eerste lid, of [3:86, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) te verstrekken staten omvatten uitsluitend: 
 
 a. balans- en resultatengegevens alsmede aanvullende financiële gegevens ten behoeve van het toezicht op de naleving van het [Deel Prudentieel toezicht financiële ondernemingen van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
@@ -2348,7 +2395,25 @@ b. andere gegevens ten behoeve van het toezicht op de naleving van de regels met
 1°. de solvabiliteit ingevolge [artikel 3:57, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:58, eerste of tweede lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:59](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:61, eerste of tweede lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:62 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); en  
 
 2°. de technische voorzieningen ingevolge [artikel 3:67](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:68](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:68a](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:69](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:73 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).       
-3.  De door een bijkantoor als bedoeld in [artikel 3:77 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) te verstrekken staten omvatten uitsluitend gegevens ten behoeve van het toezicht op de liquiditeit ingevolge [artikel 3:64](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+3.  De door een betaalinstelling of elektronischgeldinstelling als bedoeld in [artikel 3:72, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) te verstrekken staten omvatten uitsluitend: 
+
+a. balans- en resultatengegevens alsmede aanvullende financiële gegevens ten behoeve van het toezicht op de naleving van het [Deel Prudentieel toezicht financiële ondernemingen van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+b. andere gegevens ten behoeve van het toezicht op de naleving van de regels met betrekking tot de solvabiliteit ingevolge [artikel 3:57, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+c. voor zover van toepassing een opgave van het gemiddeld uitstaand elektronisch geld.     
+4.  De door een bijkantoor als bedoeld in [artikel 3:77 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) te verstrekken staten omvatten uitsluitend gegevens ten behoeve van het toezicht op de liquiditeit ingevolge [artikel 3:64](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+5.  De door een premiepensioeninstelling als bedoeld in [artikel 3:72, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) te verstrekken staten omvatten uitsluitend: 
+
+a. een jaarrekening alsmede aanvullende financiële gegevens ten behoeve van het toezicht op de naleving van het [Deel Prudentieel toezicht financiële ondernemingen van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+b. andere gegevens ten behoeve van het toezicht op de naleving van de regels met betrekking tot: 
+
+1°. het bedrag aan eigen vermogen ingevolge [artikel 3:53 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+2°. het beleggingsbeleid ingevolge [artikel 3:267b van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+3°. informatie inzake de uitgevoerde pensioenregelingen.       
 
 ### Artikel  131  
 
@@ -2375,7 +2440,13 @@ a. twaalf maal per jaar voor de staten ten behoeve van het toezicht op de liquid
 
 b. een maal per jaar voor de jaarrekening, bedoeld in artikel 130, tweede lid, onderdeel a, en de staten ten behoeve van het toezicht op de technische voorzieningen, bedoeld in artikel 130, tweede lid, onderdeel b, onder 2°; en  
 
-c. vier maal per jaar voor de overige in artikel 130, eerste en tweede lid, genoemde staten.     
+c. vier maal per jaar voor de overige in artikel 130, eerste en tweede lid, genoemde staten;  
+
+d. twee maal per jaar voor de in artikel 130, derde lid, genoemde staten;  
+
+e. een maal per jaar voor de jaarrekening, bedoeld in artikel 130, vijfde lid, onderdeel a;  
+
+f. vier maal per jaar voor de in artikel 130, vijfde lid, onderdeel b, genoemde staten.     
 3.  De Nederlandsche Bank kan in individuele gevallen besluiten dat een financiële onderneming als bedoeld in artikel 130 periodiek moet melden of haar solvabiliteit of liquiditeit zich boven een door de Nederlandsche Bank vastgestelde signaleringswaarde bevindt. De frequentie van de melding is niet hoger dan een maal per maand en is afgestemd op de aard en de omvang van de financiële onderneming, alsmede op de omvang van de solvabiliteit van de financiële onderneming.   
 4.  Een beleggingsonderneming als bedoeld in artikel 48, eerste lid, onderdeel i, j of k, doet de melding, bedoeld in het derde lid, met redenen omkleed aan de Nederlandsche Bank in elke maand waarin zij niet ingevolge het tweede lid, onderdeel c, staten verstrekt. Zij meldt daarbij in ieder geval wat de waarde van haar toetsingsvermogen is, hoe deze waarde is berekend en hoe deze waarde zich verhoudt tot de waarde van haar toetsingsvermogen zoals vermeld in de laatst verstrekte staten.   
 5.  Ter voorbereiding op de implementatie van richtlijn nr. 2009/138/EG van het Europees Parlement en de Raad van de Europese Unie van 25 november 2009 betreffende de toegang tot en uitoefening van het verzekerings- en het herverzekeringsbedrijf (Solvabiliteit II) (herschikking) (PbEU L 335) dienen entiteiten voor risico-acceptatie en verzekeraars de in Bijlage D vastgestelde modellen van staten in, met inachtneming van het zesde lid. Voor zover niet anders blijkt, zijn op deze modellen van staten de regels van toepassing die de Nederlandsche Bank heeft vastgesteld op grond van het eerste lid, onderdelen b, c, e, f en h.   
@@ -2392,7 +2463,7 @@ b. het eerste lid geen toepassing heeft gevonden en de staten die ingevolge de r
 
 ### Artikel  132  
 
-Indien een beleggingsonderneming, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, verzekeraar of bijkantoor als bedoeld in artikel 130 de staten niet langs elektronische weg verstrekt, kan de Nederlandsche Bank, op verzoek van de financiële onderneming, besluiten dat het de financiële onderneming is toegestaan andere informatiedragers dan de modellen, bedoeld in artikel 131, eerste lid, onderdeel a, te gebruiken, indien deze wat betreft indeling en inhoud geen afwijking vertonen van de modellen.  
+Indien een beleggingsonderneming, betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, verzekeraar of bijkantoor als bedoeld in artikel 130 de staten niet langs elektronische weg verstrekt, kan de Nederlandsche Bank, op verzoek van de financiële onderneming, besluiten dat het de financiële onderneming is toegestaan andere informatiedragers dan de modellen, bedoeld in artikel 131, eerste lid, onderdeel a, te gebruiken, indien deze wat betreft indeling en inhoud geen afwijking vertonen van de modellen.  
 
 ### Artikel  133  
 
@@ -2530,7 +2601,7 @@ c. de identiteit van de bestuurders en de personen die verantwoordelijk zijn voo
 
 1.  Onverminderd het tweede lid is hoofdstuk 5 niet van toepassing op overeenkomsten met betrekking tot het uitbesteden van werkzaamheden die: 
 
-a. zijn gesloten door een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 3:18, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:23](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:25](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:26](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:27 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voor de datum van inwerkingtreding van dit besluit; en  
+a. zijn gesloten door een clearinginstelling, bank, verzekeraar of bijkantoor als bedoeld in [artikel 3:18, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:23](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:25](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:26](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:27 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voor de datum van inwerkingtreding van dit besluit; en  
 
 b. voldoen aan de op dat moment geldende regelgeving.     
 2.  Indien de overeenkomst, bedoeld in het eerste lid, materieel wordt aangepast, is hoofdstuk 5 vanaf dat moment van toepassing op de gehele overeenkomst.   
@@ -2587,7 +2658,7 @@ Een besluit, genomen op grond van een van de artikelen, bedoeld in kolom A, word
 
 ### Artikel  146  
 
-Indien de Nederlandsche Bank ten aanzien van een bank of elektronischgeldinstelling een besluit heeft genomen dat overeenkomt met een besluit als bedoeld in artikel 60, eerste lid, onderdeel a, of derde lid, 62, vijfde lid, 64, 92, tweede of derde lid, 93, 102, vierde lid, of 105, tweede lid, wordt het eerstbedoelde besluit aangemerkt als besluit in de zin van het desbetreffende artikel. De aan het besluit gestelde beperkingen of verbonden voorschriften blijven van kracht.  
+Indien de Nederlandsche Bank ten aanzien van een bank of elektronischgeldinstelling een besluit heeft genomen dat overeenkomt met een besluit als bedoeld in artikel 60, eerste lid, onderdeel a, of derde lid, 62, vijfde lid, 64, 92, tweede of derde lid, 93, 102, zevende lid, wordt het eerstbedoelde besluit aangemerkt als besluit in de zin van het desbetreffende artikel. De aan het besluit gestelde beperkingen of verbonden voorschriften blijven van kracht.  
 
 ### Artikel  147  
 

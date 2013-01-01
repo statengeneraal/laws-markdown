@@ -56,7 +56,7 @@ a. informatie met betrekking tot de voor de asielzoeker aan de opvang van het CO
 b. informatie met betrekking tot rechtsbijstand en met betrekking tot zijn opvangvoorzieningen.     
 4.  Het COA zorgt ervoor dat de in het vorige lid bedoelde informatie schriftelijk in een voor de asielzoeker begrijpelijke taal wordt verstrekt.   
 5.  Er ontstaat geen recht op opvang indien een asielzoeker niet binnen 24 uur na doorverwijzing door het COA naar de opvang in een opvangvoorziening arriveert.   
-6.  Er ontstaat geen recht op opvang indien de asielaanvraag is ingediend door middel van een 14-1 brief en een aanvraag ingediend door middel van een 14-1 brief, waarop nog niet beslist is, staat niet in de weg aan de beëindiging van de voorzieningen.   
+6.  Er ontstaat geen recht op opvang indien de asielaanvraag is ingediend door een onderdaan van een lidstaat van de Europese Unie, de Economische Ruimte of Zwitserland.   
 
 ### Artikel  3  
 
@@ -102,7 +102,7 @@ o. de vreemdeling die rechtmatig verblijf heeft op grond van [artikel 8, onder m
 ### Artikel  4  
 
 1.  Onze Minister is bevoegd om, indien het COA aangeeft dat er sprake is van een capacitaire noodsituatie of enige andere bijzondere omstandigheid, het COA de bevoegdheid toe te kennen bepaalde categorieën asielzoekers uit te sluiten van opvang.   
-2.  Er bestaat geen recht op opvang indien de asielzoeker tot ongewenst vreemdeling is verklaard, als bedoeld in [artikel 67 van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
+2.  Er bestaat geen recht op opvang indien de asielzoeker tot ongewenst vreemdeling als bedoeld in [artikel 67 van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is verklaard, of indien jegens de asielzoeker een inreisverbod als bedoeld in [artikel 66a van die wet](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) geldt en de vreemdeling uit dien hoofde geen rechtmatig verblijf heeft.   
 3.  Het enkele beroep op [artikel 64 van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) danwel het beroep op de daarmee gelijk te stellen feitelijke situatie, als bedoeld in artikel 3, derde lid, aanhef en onder g van deze regeling, genereert geen recht op opvang.   
 
 ### Hoofdstuk  III  
@@ -146,7 +146,7 @@ f. indien het een asielzoeker betreft aan wie met toepassing van artikel 3, derd
 
 g. indien het een asielzoeker betreft aan wie met toepassing van artikel 3, derde lid, aanhef en onder i van deze regeling opvang is geboden: vier weken na de dag waarop het besluit, als bedoeld in [artikel 45, zesde lid van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is ingetrokken;  
 
-h. indien een asielzoeker tot ongewenst vreemdeling is verklaard als bedoeld in [artikel 67 van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), ook indien de asielzoeker nog niet rechtmatig verwijderbaar is geraakt op zijn asielaanvraag;  
+h. indien een asielzoeker tot ongewenst vreemdeling als bedoeld in [artikel 67 van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is verklaard of indien het een asielzoeker betreft jegens wie een inreisverbod als bedoeld in [artikel 66a, zevende lid, van die wet](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) geldt en de vreemdeling uit dien hoofde geen rechtmatig verblijf heeft: onmiddellijk;  
 
 i. indien het een asielzoeker betreft die niet binnen 48 uur na overplaatsing in een opvangvoorziening arriveert: op het moment waarop deze termijn verstrijkt;  
 
@@ -192,7 +192,7 @@ g. betaling van buitengewone kosten.
 
 ### Artikel  9a  
 
-1.  Aan de vreemdeling, bedoeld in artikel 3, derde lid, de onderdelen c, e, j en k, die inburgeringsplichtig is op grond van de [Wet inburgering](../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md), kan tijdens diens verblijf in de opvangvoorziening een voorziening worden aangeboden op grond waarvan een aanvang kan worden gemaakt met de voorbereiding van het inburgeringsexamen, bedoeld in [artikel 13, eerste lid, van die wet](../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md).   
+1.  Aan de vreemdeling, bedoeld in artikel 3, derde lid, de onderdelen c, e, j en k, die inburgeringsplichtig is op grond van de [Wet inburgering](../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md), kan tijdens diens verblijf in de opvangvoorziening een voorziening worden aangeboden op grond waarvan een aanvang kan worden gemaakt met de voorbereiding van het examen, bedoeld in [artikel 7, tweede lid, onderdeel a, van die wet](../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md).   
 2.  Deze voorziening wordt slechts aangeboden aan de vreemdeling, bedoeld in het eerste lid, die een verklaring heeft ondertekend, waarin hij verklaart de voorziening te accepteren en aan de voorziening deel te nemen.   
 3.  De voorziening bevat in ieder geval de onderdelen op grond waarvan vaardigheden in de Nederlandse taal en kennis van de Nederlandse samenleving worden verworven.   
 4.  De deelname aan de voorziening vindt plaats op vrijwillige basis en is kosteloos.   
@@ -237,18 +237,18 @@ e. weigert deel te nemen aan programma’s gericht op het voorlichten, stimulere
 1.  De door de asielzoeker te ontvangen wekelijkse financiële toelage, bedoeld in artikel 9, eerste lid, aanhef en onder b, van deze regeling, bestaat uit een bedrag ten behoeve van voedsel en een bedrag ten behoeve van kleding en andere persoonlijke uitgaven.   
 2.  De hoogte van het bedrag ten behoeve van voedsel, bedoeld in het eerste lid, in de opvangvoorziening waarin de bewoners volledig zelf het eigen eten verzorgen, wordt berekend aan de hand van de volgende bedragen per persoon, per week: 
 
-a. bij een één- of tweepersoonshuishouden: volwassene en alleenstaande minderjarige vreemdeling: € 43,68, kind tot 18 jaar: € 33,39;  
+a. bij een één- of tweepersoonshuishouden: volwassene en alleenstaande minderjarige vreemdeling: € 43,89, kind tot 18 jaar: € 34,65;  
 
-b. bij een driepersoonshuishouden: volwassene: € 34,86, kind tot 18 jaar: € 26,67;  
+b. bij een driepersoonshuishouden: volwassene: € 35,-, kind tot 18 jaar: € 27,65;  
 
-c. bij een huishouden van vier of meer personen: volwassene: € 31,08, kind tot 18 jaar: € 23,80.     
+c. bij een huishouden van vier of meer personen: volwassene: € 31,22, kind tot 18 jaar: € 24,64.     
 3.  De hoogte van het bedrag ten behoeve van voedsel, bedoeld in het eerste lid, in de opvangvoorziening waarin de bewoners het ontbijt en een tweede maaltijd zelf verzorgen en niet de hoofdmaaltijd, wordt berekend aan de hand van het volgende bedrag per persoon, per week: 
 
-a. bij een één- of tweepersoonshuishouden: volwassene en alleenstaande minderjarige vreemdeling: € 20,30, kind tot 18 jaar: € 9,24;  
+a. bij een één- of tweepersoonshuishouden: volwassene en alleenstaande minderjarige vreemdeling: € 25,83, kind tot 18 jaar: € 18,13;  
 
-b. bij een driepersoonshuishouden: volwassene: € 16,17, kind tot 18 jaar: € 7,35;  
+b. bij een driepersoonshuishouden: volwassene: € 21,44, kind tot 18 jaar: € 15,05;  
 
-c. bij een huishouden van vier of meer personen: volwassene: € 14,42, kind tot 18 jaar: € 6,58.     
+c. bij een huishouden van vier of meer personen: volwassene: € 19,11, kind tot 18 jaar: € 13,42.     
 4.  De hoogte van het bedrag voor kleding en andere persoonlijke uitgaven, bedoeld in het eerste lid, is: € 12,95 per persoon, per week.   
 5.  De financiële toelage wordt iedere week bij vooruitbetaling op een door het COA vastgestelde tijd (en plaats) aan de asielzoeker beschikbaar gesteld.   
 6.  Geen financiële toelage wordt verstrekt aan een kind drie maanden nadat het recht op een uitkering op grond van de [Algemene Kinderbijslagwet](../../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) is ontstaan. De alleenstaande ouder maakt wel aanspraak op de alleenstaande oudertoeslag.   

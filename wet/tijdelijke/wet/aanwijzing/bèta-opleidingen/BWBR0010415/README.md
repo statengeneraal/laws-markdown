@@ -61,8 +61,7 @@ c. de opleiding biomedische gezondheidswetenschappen, verbonden aan de bijzonder
 
 ####Beroep op de Afdeling bestuursrechtspraak van de Raad van State
 
-1.  Tegen een besluit van Onze minister op grond van artikel 2, eerste lid, kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
-2.  Indien de uitspraak op een beroep tegen een besluit als bedoeld in het eerste lid strekt tot toestemming als bedoeld in artikel 2, eerste lid, treden de gevolgen daarvan in met ingang van het studiejaar dat aanvangt na het studiejaar waarin de uitspraak is gedaan.   
+Indien de uitspraak op een beroep tegen een besluit van Onze Minister als bedoeld in artikel 2, eerste lid, strekt tot toestemming als bedoeld in dat lid, treden de gevolgen daarvan in met ingang van het studiejaar dat aanvangt na het studiejaar waarin de uitspraak is gedaan.  
 
 ### Artikel  4  
 

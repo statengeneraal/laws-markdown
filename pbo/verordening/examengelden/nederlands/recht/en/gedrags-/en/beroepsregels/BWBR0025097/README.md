@@ -10,9 +10,8 @@ Stelt de volgende Verordening vast:
 
 ### Artikel  1  
 
-1.  Degene die zich heeft aangemeld voor het examen Nederlands recht of het examen gedrags- en beroepsregels, bedoeld in [artikel 78, eerste lid, van de Wet op de Registeraccountants](../../../../../../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md), is per examenonderdeel een bedrag van € 308 verschuldigd.   
-2.  Degene die zich heeft aangemeld voor een gesprek als bedoeld in [artikel 6, eerste lid, van de Verordening examen Nederlands recht en examen gedrags- en beroepsregels](../../../../../../../../../../pbo/verordening/examen/nederlands/recht/en/examen/gedrags-/en/beroepsregels/BWBR0025100/README.md), is een bedrag van € 154 verschuldigd.   
-3.  Degene die zich heeft aangemeld voor een toets als bedoeld in [artikel 6, tweede lid, van de Verordening examen Nederlands recht en examen gedrags- en beroepsregels](../../../../../../../../../../pbo/verordening/examen/nederlands/recht/en/examen/gedrags-/en/beroepsregels/BWBR0025100/README.md), is een bedrag van € 154 verschuldigd.   
+1.  Degene die zich heeft aangemeld voor het examen Nederlands recht of het examen gedrags- en beroepsregels, bedoeld in [artikel 78, eerste lid, van de Wet op de Registeraccountants](../../../../../../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md), is per examenonderdeel een bedrag van € 346 verschuldigd.   
+2.  Degene die zich heeft aangemeld voor een gesprek als bedoeld in [artikel 6, eerste lid, van de Verordening examen Nederlands recht en examen gedrags- en beroepsregels](../../../../../../../../../../pbo/verordening/examen/nederlands/recht/en/examen/gedrags-/en/beroepsregels/BWBR0025100/README.md), is een bedrag van € 346 verschuldigd.   
 
 ### Artikel  2  
 
@@ -20,7 +19,7 @@ Het bestuur kan in bijzondere gevallen besluiten om het examengeld geheel of ged
 
 ### Artikel  3  
 
-Degene die een verzoek om vrijstelling, bedoeld in [artikel 4 van de Verordening examen Nederlands recht en examen gedrags- en beroepsregels](../../../../../../../../../../pbo/verordening/examen/nederlands/recht/en/examen/gedrags-/en/beroepsregels/BWBR0025100/README.md), indient is een bedrag van € 77 verschuldigd.  
+Degene die een verzoek om vrijstelling, bedoeld in [artikel 4 van de Verordening examen Nederlands recht en examen gedrags- en beroepsregels](../../../../../../../../../../pbo/verordening/examen/nederlands/recht/en/examen/gedrags-/en/beroepsregels/BWBR0025100/README.md), indient is een bedrag van € 79 verschuldigd.  
 
 ### Artikel  4  
 

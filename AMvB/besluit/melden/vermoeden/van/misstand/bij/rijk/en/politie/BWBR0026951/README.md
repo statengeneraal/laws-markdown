@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 september 2009, nr. DCB/CZW/WVOB 2009-0000514166, gedaan mede namens Onze Minister van Buitenlandse Zaken;
 
-Gelet op de [artikelen 125, eerste lid, onder j](../../../../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md), [125quinquies, eerste lid, onder f](../../../../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) en [134, eerste lid, van de Ambtenarenwet](../../../../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) en [artikel 50, eerste lid, van de Politiewet 1993](../../../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md);
+Gelet op de artikelen 125, eerste lid, onder j, 125quinquies, eerste lid, onder f en 134, eerste lid, van de Ambtenarenwet en artikel 50, eerste lid, van de Politiewet 1993;
 
 De Raad van State gehoord (advies van 14 oktober 2009, nr. W04.09.0368/I);
 
@@ -20,9 +20,9 @@ Hebben goedgevonden en verstaan:
 
 1.  In dit besluit wordt verstaan onder: 
 
-a. *ambtenaar:* de ambtenaar in de zin van het [Algemeen Rijksambtenarenreglement](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), het [Ambtenarenreglement Staten-Generaal](../../../../../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md), het [Reglement Dienst Buitenlandse Zaken](../../../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md), het [Besluit algemene rechtspositie politie](../../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), het [Besluit rechtspositie vrijwillige politie](../../../../../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md);  
+a. *ambtenaar:* de ambtenaar in de zin van het Algemeen Rijksambtenarenreglement, het Ambtenarenreglement Staten-Generaal, het Reglement Dienst Buitenlandse Zaken, het Besluit algemene rechtspositie politie, het Besluit rechtspositie vrijwillige politie;  
 
-b. *organisatie:* een ministerie met inbegrip van de daaronder ressorterende diensten en instellingen, de Eerste en Tweede Kamer der Staten-Generaal, de Raad van State, de Algemene Rekenkamer, het bureau van de Nationale ombudsman, de Hoge Raad van Adel, de Kanselarij der Nederlandse Orden, het Kabinet der Koningin, de commissie van toezicht betreffende de inlichtingen- en veiligheidsdiensten, een regionaal politiekorps, het Korps landelijke politiediensten, het Landelijk selectie- en opleidingsinstituut politie, een voorziening tot samenwerking waarbij een publiekrechtelijke rechtspersoon is ingesteld als bedoeld in [artikel 47a van de Politiewet 1993](../../../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), de rechtbanken, de gerechtshoven, de Centrale Raad van Beroep, het College van Beroep voor het bedrijfsleven, de Raad voor de rechtspraak en de daaronder ressorterende diensten, alsmede de diensten die door een gerechtelijk college of de Raad voor de rechtspraak gezamenlijk of in samenwerking met een ander orgaan van de rijksoverheid in stand worden gehouden;  
+b. *organisatie:* een ministerie met inbegrip van de daaronder ressorterende diensten en instellingen, de Eerste en Tweede Kamer der Staten-Generaal, de Raad van State, de Algemene Rekenkamer, het bureau van de Nationale ombudsman, de Hoge Raad van Adel, de Kanselarij der Nederlandse Orden, het Kabinet der Koningin, de commissie van toezicht betreffende de inlichtingen- en veiligheidsdiensten, de politie, bedoeld in artikel 1, eerste lid, onderdeel b, van de Politiewet 2012, de rijksrecherche of het LSOP, de rechtbanken, de gerechtshoven, de Centrale Raad van Beroep, het College van Beroep voor het bedrijfsleven, de Raad voor de rechtspraak en de daaronder ressorterende diensten, alsmede de diensten die door een gerechtelijk college of de Raad voor de rechtspraak gezamenlijk of in samenwerking met een ander orgaan van de rijksoverheid in stand worden gehouden;  
 
 c. *bevoegd gezag:* het tot aanstellen bevoegde gezag van de organisatie, niet zijnde de Minister van Defensie;  
 
@@ -47,10 +47,10 @@ i. *vertrouwenspersoon:* de vertrouwenspersoon, bedoeld in artikel 8.
 
 a. gewezen ambtenaren;  
 
-b. bij een vertegenwoordiging van het Koninkrijk in het buitenland op arbeidsovereenkomst naar burgerlijk recht in dienst genomen werknemers als bedoeld in de [artikelen 114](../../../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) en [115 van het Reglement Dienst Buitenlandse Zaken](../../../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md);  
+b. bij een vertegenwoordiging van het Koninkrijk in het buitenland op arbeidsovereenkomst naar burgerlijk recht in dienst genomen werknemers als bedoeld in de artikelen 114 en 115 van het Reglement Dienst Buitenlandse Zaken;  
 
 c. gewezen werknemers als bedoeld in onderdeel b.     
-3.  Voor de toepassing van hoofdstuk 3 van dit besluit wordt onder ambtenaar ook verstaan een ambtenaar in de zin van het [Burgerlijk ambtenarenreglement Defensie](../../../../../../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md) of het [Algemeen militair ambtenarenreglement](../../../../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md).   
+3.  Voor de toepassing van hoofdstuk 3 van dit besluit wordt onder ambtenaar ook verstaan een ambtenaar in de zin van het Burgerlijk ambtenarenreglement Defensie of het Algemeen militair ambtenarenreglement.   
 
 ### Artikel  2  
 
@@ -120,7 +120,7 @@ a. een ambtenaar op diens verzoek te adviseren over een melding;
 b. de hoogste ambtelijke leidinggevende te informeren over een melding; en  
 
 c. het bevoegd gezag en de hoogste ambtelijke leidinggevende te adviseren over vermoedens van misstanden.     
-3.  Als vertrouwenspersoon wordt niet een ambtenaar van politie als bedoeld in [artikel 3, eerste lid, onder a of c, en tweede lid, van de Politiewet 1993](../../../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) aangewezen.   
+3.  Als vertrouwenspersoon wordt niet een ambtenaar van politie, bedoeld in artikel 2, onderdelen a,c en d, van de Politiewet 2012 aangewezen.   
 
 ### Artikel  9  
 
@@ -259,7 +259,7 @@ a. de rechtsprocedure is gericht tegen een besluit als bedoeld in artikel 2, eer
 b. bedoeld besluit is genomen binnen vijf jaar nadat het bevoegd gezag kennis heeft gegeven van de bevindingen en het oordeel bedoeld in artikel 16, eerste lid, of nadat het bevoegd gezag kennis heeft gegeven van het standpunt, bedoeld in artikel 22, eerste lid; en  
 
 c. bedoeld besluit wordt aangevochten op de grond dat het is genomen vanwege een melding.     
-2.  De melder, de vertrouwenspersoon of de gewezen vertrouwenspersoon die op grond van [artikel 4:8 Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn zienswijze naar voren brengt met betrekking tot een voorgenomen besluit, kan aanspraak maken op een tegemoetkoming in de kosten op voorwaarde dat: 
+2.  De melder, de vertrouwenspersoon of de gewezen vertrouwenspersoon die op grond van artikel 4:8 Algemene wet bestuursrecht zijn zienswijze naar voren brengt met betrekking tot een voorgenomen besluit, kan aanspraak maken op een tegemoetkoming in de kosten op voorwaarde dat: 
 
 a. het voorgenomen besluit betreft een besluit als bedoeld in artikel 2, eerste of tweede lid;  
 
@@ -279,8 +279,8 @@ b. het verzoek door het bevoegd gezag is ontvangen voordat op het bezwaar is bes
 
 ### Artikel  25  
 
-1.  De tegemoetkoming voor iedere afzonderlijke procedure, genoemd in artikel 23, eerste en tweede lid, is gelijk aan tweemaal het bedrag, genoemd in onderdeel B1 van de [bijlage bij het Besluit proceskosten bestuursrecht](../../../../../../../../../../../AMvB/besluit/proceskosten/bestuursrecht/BWBR0006358/README.md).   
-2.  [Artikel 3 van het Besluit proceskosten bestuursrecht](../../../../../../../../../../../AMvB/besluit/proceskosten/bestuursrecht/BWBR0006358/README.md) is van overeenkomstige toepassing.   
+1.  De tegemoetkoming voor iedere afzonderlijke procedure, genoemd in artikel 23, eerste en tweede lid, is gelijk aan tweemaal het bedrag, genoemd in onderdeel B1 van de bijlage bij het Besluit proceskosten bestuursrecht.   
+2.  Artikel 3 van het Besluit proceskosten bestuursrecht is van overeenkomstige toepassing.   
 
 ### Artikel  26  
 
@@ -293,7 +293,7 @@ Degene aan wie een tegemoetkoming is toegekend, kan worden verplicht tot terugbe
 
 ### Artikel  28  
 
-1.  Als een besluit of een voorgenomen besluit waarvoor op grond van artikel 23, eerste of tweede lid, aanspraak bestaat op een tegemoetkoming in de kosten van de procedures, in de bezwaarprocedure of zienswijzeprocedure wordt herroepen wegens een aan het bevoegd gezag te wijten onrechtmatigheid of het bestreden besluit als gevolg van een uitspraak van de rechter die onherroepelijk is geworden wordt vernietigd, waarbij de rechtsgevolgen niet in stand worden gelaten, vergoedt het bevoegd gezag voor iedere afzonderlijke procedure aan de melder, de vertrouwenspersoon of de gewezen vertrouwenspersoon alle daadwerkelijk en in redelijkheid door hem gemaakte kosten als bedoeld in [artikel 1 van het Besluit proceskosten bestuursrecht](../../../../../../../../../../../AMvB/besluit/proceskosten/bestuursrecht/BWBR0006358/README.md), met dien verstande dat: 
+1.  Als een besluit of een voorgenomen besluit waarvoor op grond van artikel 23, eerste of tweede lid, aanspraak bestaat op een tegemoetkoming in de kosten van de procedures, in de bezwaarprocedure of zienswijzeprocedure wordt herroepen wegens een aan het bevoegd gezag te wijten onrechtmatigheid of het bestreden besluit als gevolg van een uitspraak van de rechter die onherroepelijk is geworden wordt vernietigd, waarbij de rechtsgevolgen niet in stand worden gelaten, vergoedt het bevoegd gezag voor iedere afzonderlijke procedure aan de melder, de vertrouwenspersoon of de gewezen vertrouwenspersoon alle daadwerkelijk en in redelijkheid door hem gemaakte kosten als bedoeld in artikel 1 van het Besluit proceskosten bestuursrecht, met dien verstande dat: 
 
 a. de vergoeding wordt toegekend zonder toepassing van het tariefsysteem in voornoemd besluit;  
 
@@ -308,31 +308,35 @@ c. aan de melder toegekende bedragen waarop de melder op grond van een ander wet
 
 ### Artikel  29  
 
-Het [Besluit van 3 februari 2006 tot instelling van de Commissie integriteit overheid](../../../../../../../../../../../AMvB/instellingsbesluit/commissie/integriteit/overheid/BWBR0019525/README.md) (Stb. 130) wordt ingetrokken.  
+Het Besluit van 3 februari 2006 tot instelling van de Commissie integriteit overheid (Stb. 130) wordt ingetrokken.  
 
 ### Artikel  30  
 
-[Hoofdstuk VIIb van het Algemeen Rijksambtenarenreglement](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) vervalt.  
+Hoofdstuk VIIb van het Algemeen Rijksambtenarenreglement vervalt.  
 
 ### Artikel  31  
 
-[Hoofdstuk VIIa, paragraaf 2, van het Besluit algemene rechtspositie politie](../../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) vervalt.  
+Hoofdstuk VIIa, paragraaf 2, van het Besluit algemene rechtspositie politie vervalt.  
 
 ### Artikel  32  
 
-[Hoofdstuk II, paragraaf 3b, van het Besluit rechtspositie vrijwillige politie](../../../../../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md) vervalt.  
+Hoofdstuk II, paragraaf 3b, van het Besluit rechtspositie vrijwillige politie vervalt.  
 
 ### Artikel  33  
 
-[Hoofdstuk VIIb van het Ambtenarenreglement Staten-Generaal](../../../../../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) vervalt.  
+Hoofdstuk VIIb van het Ambtenarenreglement Staten-Generaal vervalt.  
 
 ### Artikel  34  
 
-[Hoofdstuk XIIa van het Reglement Dienst Buitenlandse Zaken](../../../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) vervalt.  
+Hoofdstuk XIIa van het Reglement Dienst Buitenlandse Zaken vervalt.  
 
 ### Artikel  35  
 
-De benoemingsbesluiten van de leden van de Commissie integriteit overheid, zoals die op grond van [artikel 3, tweede lid, van het Besluit tot instelling van de Commissie integriteit overheid](../../../../../../../../../../../AMvB/instellingsbesluit/commissie/integriteit/overheid/BWBR0019525/README.md) zijn vastgesteld en die op de datum van inwerkingtreding van dit besluit gelden, blijven na de inwerkingtreding van dit besluit ongewijzigd van kracht.  
+De benoemingsbesluiten van de leden van de Commissie integriteit overheid, zoals die op grond van artikel 3, tweede lid, van het Besluit tot instelling van de Commissie integriteit overheid zijn vastgesteld en die op de datum van inwerkingtreding van dit besluit gelden, blijven na de inwerkingtreding van dit besluit ongewijzigd van kracht.  
+
+### Artikel  35a  
+
+Dit besluit berust op de artikelen 125, eerste lid, onder j, 125quinquies, eerste lid, onder f en 134, eerste lid, van de Ambtenarenwet en artikel 47, eerste lid, Politiewet 2012.  
 
 ### Artikel  36  
 

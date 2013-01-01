@@ -80,7 +80,7 @@ ee. *BES eilanden:* de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
 ff. accijnsgoed: 
 
-1°. op Bonaire: benzine, bier, wijn, gedistilleerd en tabaksproducten;  
+1°. op Bonaire: benzine, bier, wijn, overige alcoholhoudende producten en tabaksproducten;  
 
 2°. op Saba en Sint Eustatius: benzine;    
 
@@ -135,7 +135,7 @@ b. accijnzen.
 
 ### Artikel  2.1  
 
-1.  Op de BES eilanden zijn douanekantoren gevestigd.   
+1.  Bij regeling van Onze Minister van Financiën worden bepalingen vastgesteld met betrekking tot douanekantoren.   
 2.  De inspecteur stelt de openingstijden van de douanekantoren vast.   
 3.  De beheerder van een luchthaven, haven of handels- en dienstenentrepot alsmede de beheerder van een douane-entrepot, accijnsgoederenplaats of een ruimte voor tijdelijke opslag van goederen, stelt voor de ambtenaren, kosteloos, adequate kantoor- en visitatieruimte ter beschikking ten behoeve van het verrichten van werkzaamheden.   
 4.  De inspecteur kan op verzoek toestaan dat de douaneformaliteiten op andere plaatsen en tijden worden verricht, voor zover de noodzaak daartoe wordt aangetoond en het belang van de douane zich daar niet tegen verzet.   
@@ -292,7 +292,7 @@ a. uitvoer onder krediet of met teruggaaf van accijns van:
 
 2°. wijn;  
 
-3°. gedistilleerd;  
+3°. overige alcoholhoudende producten;  
 
 4°. sigaretten;  
 
@@ -1144,9 +1144,9 @@ Bij of krachtens algemene maatregel van bestuur wordt met inachtneming van de be
 ### Artikel  2.102  
 
 1.  Een douane-entrepot wordt niet in gebruik genomen alvorens de ligging, de afscheiding van andere percelen en de bouw daarvan zijn goedgekeurd door de inspecteur. Alle plaatsen die door de inspecteur zijn goedgekeurd als ruimten voor tijdelijke opslag als bedoeld in artikel 2.12 kunnen ook als douane-entrepot worden goedgekeurd.   
-2.  De in- en uitslag van goederen binnen de daarvoor vastgestelde openingstijden, geschiedt onder toezicht van de inspecteur en wordt door deze vastgelegd in een rekening met degene die verantwoordelijk is voor de nakoming van de verplichtingen die voortvloeien uit de plaatsing van goederen onder het entrepotstelsel.   
-3.  Indien de administratie van de beheerder naar het oordeel van de inspecteur daartoe voldoende waarborgen biedt, kan deze afzien van de eis van ambtelijke sluiting, doch onder zekerheidstelling voor de invoerrechten die verschuldigd kunnen worden. De administratie treedt tevens in de plaats van de rekening, bedoeld in het tweede lid.   
-4.  De inspecteur verricht periodiek een voorraadscontrole, teneinde vast te stellen of overeenstemming bestaat tussen de rekening of administratie en de aanwezige goederen. Teveel bevonden goederen worden aangemerkt als in het douane-entrepot opgeslagen goederen.   
+2.  De in- en uitslag van goederen binnen de daarvoor vastgestelde openingstijden, geschiedt onder toezicht van de inspecteur en wordt door deze vastgelegd in een goederenrekening met degene die verantwoordelijk is voor de nakoming van de verplichtingen die voortvloeien uit de plaatsing van goederen onder het entrepotstelsel.   
+3.  Indien de administratie van de beheerder naar het oordeel van de inspecteur daartoe voldoende waarborgen biedt, kan deze afzien van de eis van ambtelijke sluiting, doch onder zekerheidstelling voor de invoerrechten die verschuldigd kunnen worden. De administratie treedt tevens in de plaats van de goederenrekening, bedoeld in het tweede lid.   
+4.  De inspecteur verricht periodiek een voorraadscontrole, teneinde vast te stellen of overeenstemming bestaat tussen de goederenrekening of administratie en de aanwezige goederen. Teveel bevonden goederen worden aangemerkt als in het douane-entrepot opgeslagen goederen.   
 
 ### Artikel  2.103  
 
@@ -1237,7 +1237,7 @@ f. tot het kosteloos ter beschikking stellen van werklieden, hulpmiddelen en bij
 
 ### Artikel  2.115  
 
-Het overtreden van een krachtens dit hoofdstuk vastgestelde algemene maatregel van bestuur of regeling van Onze Minister wie het aangaat kan bij die algemene maatregel van bestuur, onderscheidenlijk regeling van Onze Minister wie het aangaat, worden aangemerkt als een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een boete kan opleggen van ten hoogste het in die algemene maatregel van bestuur of regeling van Onze Minister wie het aangaat te vermelden bedrag. Dat bedrag beloopt ten hoogste USD 2 800 indien het verzuim betrekking heeft op een algemene maatregel van bestuur, en beloopt ten hoogste USD 140 indien het verzuim betrekking heeft op een regeling van Onze Minister wie het aangaat.  
+Het overtreden van een krachtens deze wet vastgestelde algemene maatregel van bestuur of regeling van Onze Minister wie het aangaat kan bij die algemene maatregel van bestuur, onderscheidenlijk regeling van Onze Minister wie het aangaat, worden aangemerkt als een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een boete kan opleggen van ten hoogste het in die algemene maatregel van bestuur of regeling van Onze Minister wie het aangaat te vermelden bedrag. Dat bedrag beloopt ten hoogste USD 2 800 indien het verzuim betrekking heeft op een algemene maatregel van bestuur, en beloopt ten hoogste USD 140 indien het verzuim betrekking heeft op een regeling van Onze Minister wie het aangaat.  
 
 ### Artikel  2.116  
 
@@ -1881,7 +1881,7 @@ b. *vrijstellingsdocument:* het document, afgegeven op een aangifte ten invoer m
 
 c. *persoonlijke goederen:* goederen, uitsluitend bestemd voor het persoonlijk gebruik van de belanghebbenden of die voor de behoeften van hun huishoudens dienen;  
 
-d. *alcoholische producten:* voor menselijke consumptie bestemde alcoholhoudende producten als bedoeld bij de posten 2.203 tot en met 2.208 van het geharmoniseerde systeem;  
+d. *alcoholische producten:* voor menselijke consumptie bestemde alcoholhoudende producten als bedoeld bij de posten 22.03 tot en met 22.08 van het geharmoniseerde systeem;  
 
 e.  *vervoermiddelen:*  
 
@@ -3331,7 +3331,7 @@ a. bier;
 
 b. wijn;  
 
-c. gedistilleerd;  
+c. overige alcoholhoudende producten;  
 
 d. sigaretten;  
 
@@ -3339,49 +3339,38 @@ e. sigaren en cigarillo’s;
 
 f. rooktabak.     
 3.  De accijns wordt verschuldigd ter zake van de uitslag en de invoer van de in het eerste en tweede lid bedoelde goederen.   
+4.  In dit hoofdstuk en de daarop gebaseerde bepalingen wordt onder het alcoholgehalte van bier, wijn en overige alcoholhoudende producten verstaan het aantal volumeprocenten alcohol (%vol).   
 
 ### Artikel  4.2  
 
-In dit hoofdstuk en in de daarop gebaseerde regelingen wordt onder het vervaardigen van een accijnsgoed verstaan elk handelen waarbij of waardoor een accijnsgoed ontstaat of de samenstelling van een accijnsgoed wordt gewijzigd.  
+In dit hoofdstuk en de daarop gebaseerde bepalingen wordt onder het vervaardigen van een accijnsgoed verstaan elk handelen waarbij of waardoor een accijnsgoed ontstaat of de samenstelling van een accijnsgoed wordt gewijzigd.  
 
 ### Artikel  4.3  
 
-Op dit hoofdstuk en de daarop berustende bepalingen, met uitzondering van titel 4, zijn de bepalingen van hoofdstuk VIII van de Belastingwet BES van overeenkomstige toepassing.  
+Op dit hoofdstuk en de daarop berustende bepalingen, behoudens die ter zake van de heffing van accijns bij invoer, zijn de bepalingen van [hoofdstuk VIII van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) van overeenkomstige toepassing.  
 
 ### Artikel  4.4  
 
-1.  In dit hoofdstuk en de daarop gebaseerde regelingen wordt als uitslag aangemerkt: 
+1.  In dit hoofdstuk en de daarop gebaseerde bepalingen wordt als uitslag aangemerkt: 
 
 a. het brengen van een accijnsgoed buiten een plaats die voor dat soort accijnsgoed als accijnsgoederenplaats is aangewezen;  
 
-b. het verbruik, anders dan als grondstof, van een accijnsgoed binnen een plaats die voor dat soort accijnsgoed als accijnsgoederenplaats is aangewezen, of binnen een handels- en dienstenentrepot;  
+b. het verbruik, anders dan als grondstof, van een accijnsgoed binnen een plaats die voor dat soort accijnsgoed als accijnsgoederenplaats is aangewezen, binnen een douane-entrepot of binnen een handels- en dienstenentrepot;  
 
-c. het in strijd met artikel 4.6 vervaardigen van een accijnsgoed alsmede het voorhanden hebben van een accijnsgoed dat niet overeenkomstig de bepalingen van dit hoofdstuk in de heffing is betrokken.     
+c. het vervaardigen van een accijnsgoed buiten een accijnsgoederenplaats die voor dat soort accijnsgoed als zodanig is aangewezen alsmede het voorhanden hebben van een accijnsgoed dat niet overeenkomstig de bepalingen van dit hoofdstuk in de heffing is betrokken.     
 2.  Als uitslag wordt niet aangemerkt het, met inachtneming van bij algemene maatregel van bestuur te stellen voorwaarden, brengen van een accijnsgoed vanuit een accijnsgoederenplaats naar: 
 
 a. een andere accijnsgoederenplaats die voor dat soort accijnsgoed als zodanig is aangewezen;  
 
-b. een douane-entrepot;  
-
-c. een handels- en dienstenentrepot;  
-
-d. een plaats buiten de BES eilanden of, indien het de accijnsgoederen bedoeld in artikel 4.1, tweede lid betreft, buiten Bonaire.     
-3.  De voorwaarden als bedoeld in het tweede lid hebben betrekking op formaliteiten waaraan bij de overbrenging van accijnsgoederen moet worden voldaan.   
+b. een plaats buiten de BES eilanden.     
+3.  De voorwaarden, bedoeld in het tweede lid, hebben betrekking op formaliteiten waaraan bij de overbrenging van accijnsgoederen moet worden voldaan.   
 4.  Bij regeling van Onze Minister van Financiën kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.   
 
 ### Artikel  4.5  
 
-1.  In dit hoofdstuk en in de daarop gebaseerde regelingen wordt in afwijking van artikel 1.1, onderdeel s, verstaan onder invoer: 
-
-a. het in één van de openbare lichamen Bonaire, Sint Eustatius of Saba brengen van accijnsgoederen vanuit een plaats buiten dit openbare lichaam, en  
-
-b. het op de BES eilanden beëindigen van de tijdelijke opslag in de zin van artikel 1.1, onderdeel oo, of van de opslag van accijnsgoederen in een douane-entrepot of handels- en dienstenentrepot.     
-2.  Als invoer wordt niet aangemerkt: 
-
-a. het met inachtneming van bij algemene maatregel van bestuur te stellen voorwaarden brengen van een accijnsgoed vanuit een plaats buiten de BES eilanden of, indien het accijnsgoederen bedoeld in artikel 4.1, tweede lid betreft, een plaats buiten Bonaire, naar een accijnsgoederenplaats die voor dat soort accijnsgoed als zodanig is aangewezen of naar een douane-entrepot of naar een handels- en dienstenentrepot, en  
-
-b. het in overeenstemming met de bepalingen van de hoofdstukken II en III opnemen in tijdelijke opslag van accijnsgoederen.     
-3.  De voorwaarden, bedoeld in het tweede lid hebben betrekking op formaliteiten waaraan bij de overbrenging van accijnsgoederen moet worden voldaan alsmede op de daarbij te stellen zekerheid.   
+1.  Onverminderd artikel 4.48 zijn de bepalingen van deze wet inzake de heffing van invoerrecht van overeenkomstige toepassing ter zake van de heffing van accijns bij invoer.   
+2.  Met inachtneming van bij algemene maatregel van bestuur te stellen voorwaarden wordt voor de toepassing van dit hoofdstuk niet als invoer aangemerkt het brengen van een accijnsgoed vanuit een plaats buiten de BES eilanden of vanuit een plaats voor tijdelijke opslag dan wel vanuit een douane-entrepot of een handels- en dienstenentrepot naar een accijnsgoederenplaats die voor dat soort accijnsgoed als zodanig is aangewezen.   
+3.  De voorwaarden, bedoeld in het tweede lid, hebben betrekking op formaliteiten waaraan bij de overbrenging van accijnsgoederen moet worden voldaan alsmede op de daarbij te stellen zekerheid.   
 4.  Bij regeling van Onze Minister van Financiën kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.   
 
 ### Afdeling  2  
@@ -3402,20 +3391,20 @@ b. een accijnsgoed voorhanden te hebben dat niet overeenkomstig de bepalingen va
 
 ### Artikel  4.7  
 
-Onder benzine wordt verstaan elk product dat is ingedeeld onder postonderverdeling 27.10.11 van het geharmoniseerde systeem, bedoeld in artikel 3.1, tweede lid, onderdeel a.  
+Onder benzine wordt verstaan elk product dat is ingedeeld onder postonderverdeling 2710.12 van het geharmoniseerde systeem, bedoeld in artikel 3.1, tweede lid, onderdeel a.  
 
 ### Artikel  4.8  
 
-1.  De accijns bedraagt per hectoliter benzine bij een temperatuur van 15° C: 
+1.  De accijns bedraagt per hectoliter benzine: 
 
-a. op Bonaire: USD 41,86;  
+a. op Bonaire: USD 31,86;  
 
-b. op Sint Eustatius en Saba: USD 34,27.     
+b. op Sint Eustatius en Saba: USD 24,27.     
 2.  Voor de berekening van de belasting wordt een gedeelte van een hectoliter gerekend als een hectoliter.   
 
 ### Artikel  4.9  
 
-Onder bier wordt verstaan elk product dat is ingedeeld onder post 22.03 van het geharmoniseerde systeem als bedoeld in artikel 3.1, tweede lid, onderdeel a, voor zover dit product een alcoholgehalte heeft van meer dan 0,5%.  
+Onder bier wordt verstaan elk product dat is ingedeeld onder post 22.03 van het geharmoniseerde systeem als bedoeld in artikel 3.1, tweede lid, onderdeel a, voor zover dit product een alcoholgehalte heeft van meer dan 0,5%vol.  
 
 ### Artikel  4.10  
 
@@ -3424,25 +3413,33 @@ Onder bier wordt verstaan elk product dat is ingedeeld onder post 22.03 van het 
 
 ### Artikel  4.11  
 
-Onder wijn wordt verstaan elk product dat is ingedeeld onder de posten 22.04, 22.05 en 22.06 van het geharmoniseerde systeem als bedoeld in artikel 3.1, tweede lid, onderdeel a.  
+Onder wijn wordt verstaan elk product dat is ingedeeld onder de posten 22.04, 22.05 en 22.06 van het geharmoniseerde systeem als bedoeld in artikel 3.1, tweede lid, onderdeel a, met een alcoholgehalte van ten hoogste 20%vol.  
 
 ### Artikel  4.12  
 
-Voor wijn die per hectoliter twintig liter of minder alcohol bevat bij een temperatuur van 15° C bedraagt de accijns per hectoliter: USD 128,50.  
+De accijns bedraagt per hectoliter wijn: USD 128,50.  
 
 ### Artikel  4.13  
 
-Onder gedistilleerd wordt verstaan: 
+Onder overige alcoholhoudende producten worden verstaan: 
 
-a. onvermengde, door distillatie verkregen alcoholhoudende vloeistoffen;  
+a. ethylalcohol, ongeacht de productiewijze;  
 
-b. likeuren, bitters en andere dergelijke gedistilleerde dranken;  
+b. wijn met een alcoholgehalte van meer dan 20%vol;  
 
-c. wijn die per hectoliter meer alcohol bevat dan twintig liter bij een temperatuur van 15° C.    
+c. alcoholhoudende dranken met een alcoholgehalte van meer dan 1,2%vol, andere dan bier of wijn;  
+
+d. andere alcoholhoudende producten met een alcoholgehalte van meer dan 1,2%vol.    
 
 ### Artikel  4.14  
 
-De accijns bedraagt per hectoliter gedistilleerd bij een temperatuur van 15° C per volume-percent alcohol: USD 12,85.  
+De accijns voor overige alcoholhoudende producten bedraagt per hectoliter per volumeprocent alcohol: USD 12,85.  
+
+### Artikel  4.14a  
+
+1.  Het vaststellen van de hoeveelheid benzine, bier, wijn of overige alcoholhoudende producten bij uitslag of invoer vindt plaats via betrouwbare meetapparatuur.   
+2.  Indien uitslag of invoer van benzine, bier, wijn of overige alcoholhoudende producten plaatsvindt in een kleinhandelsverpakking, wordt de uitgeslagen of ingevoerde hoeveelheid bepaald op basis van de op die verpakking aangegeven hoeveelheid, op voorwaarde dat deze hoeveelheid is vastgesteld overeenkomstig een internationaal erkende normering.   
+3.  Bij regeling van Onze Minister van Financiën kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.   
 
 ### Artikel  4.15  
 
@@ -3450,30 +3447,29 @@ Onder tabaksproducten worden verstaan:
 
 a. sigaretten;  
 
-b. rooktabak;  
+b. sigaren en cigarillo’s;  
 
-c. sigaren; en  
-
-d. cigarillo’s.    
+c. rooktabak.    
 
 ### Artikel  4.16  
 
-Onder sigaretten wordt verstaan elk product dat is ingedeeld onder post 2402.20 van het geharmoniseerde systeem, bedoeld in artikel 3.1, tweede lid, onderdeel a.  
+Onder sigaretten wordt verstaan elk product dat is ingedeeld onder postonderverdeling 2402.20 van het geharmoniseerde systeem, bedoeld in artikel 3.1, tweede lid, onderdeel a.  
 
 ### Artikel  4.17  
 
-De accijns bedraagt per honderd stuks voor: 
+1.  De accijns bedraagt per 100 sigaretten: 
 
-a. op Bonaire vervaardigde sigaretten: USD 5,34;  
+a. indien vervaardigd op Bonaire voor een Bonairiaans merk: USD 5,34;  
 
-b. op Bonaire in licentie vervaardigde sigaretten van een niet-Bonairiaans merk: USD 7,01;  
+b. indien vervaardigd op Bonaire voor een niet-Bonairiaans merk: USD 7,01;  
 
-c. in te voeren sigaretten: USD 8,69.    
+c. in geval van invoer: USD 8,69.     
+2.  Voor de berekening van de accijns wordt een sigaret als bedoeld in artikel 4.16 aangemerkt als twee sigaretten wanneer deze, zonder filter of mondstuk, meer dan 8 cm doch niet meer dan 11 cm lang is en als drie sigaretten wanneer deze, zonder filter of mondstuk, meer dan 11 cm doch niet meer dan 14 cm lang is, enzovoort.   
 
 ### Artikel  4.18  
 
-1.  Onder sigaren wordt verstaan elk product dat is ingedeeld onder post 2402.10 van het geharmoniseerde systeem als bedoeld in artikel 3.1, tweede lid, onderdeel a.   
-2.  Onder cigarillo’s wordt verstaan sigaren die per stuk niet meer wegen dan drie gram.   
+1.  Onder sigaren wordt verstaan elk product dat is ingedeeld onder postonderverdeling 2402.10 van het geharmoniseerde systeem als bedoeld in artikel 3.1, tweede lid, onderdeel a.   
+2.  Onder cigarillo’s worden verstaan sigaren die per stuk niet meer wegen dan drie gram.   
 
 ### Artikel  4.19  
 
@@ -3490,7 +3486,7 @@ b. cigarillo’s: USD 4,89.
 
 ### Artikel  4.21  
 
-De accijns bedraagt voor een kilogram rooktabak: USD 30.  
+De accijns bedraagt per kilogram rooktabak: USD 30.  
 
 ### Titel  3  
 
@@ -3516,7 +3512,7 @@ b. geen accijnsgoederen worden vervaardigd maar die dient voor de opslag van acc
 
 ### Artikel  4.24  
 
-1.  Bij algemene maatregel van bestuur kunnen, ter verzekering van de heffing, regels worden gesteld waaraan met betrekking tot een accijnsgoederenplaats moet worden voldaan ten aanzien van: 
+1.  Bij of krachtens algemene maatregel van bestuur kunnen, ter verzekering van de heffing, regels worden gesteld waaraan met betrekking tot een accijnsgoederenplaats moet worden voldaan ten aanzien van: 
 
 a. de administratie en de administratieve organisatie;  
 
@@ -3603,10 +3599,16 @@ f. de vergunninghouder daarom verzoekt.
 
 1.  De accijns wordt geheven van de vergunninghouder van de accijnsgoederenplaats.   
 2.  In afwijking in zoverre van het eerste lid wordt, in bij algemene maatregel van bestuur aan te wijzen gevallen en onder daarbij te stellen voorwaarden, de accijns van accijnsgoederen die zijn uitgeslagen uit een accijnsgoederenplaats in opdracht van een vergunninghouder van een andere accijnsgoederenplaats voor dezelfde soort accijnsgoederen, geheven van de vergunninghouder van die andere accijnsgoederenplaats.   
+3.  In afwijking in zoverre van het eerste lid wordt de accijns geheven: 
+
+a. *bij toepassing van artikel 4.4, eerste lid, onderdeel b:* van de vergunninghouder van de accijnsgoederenplaats dan wel in voorkomend geval van de vergunninghouder van het douane-entrepot of van het handels- en dienstenentrepot;  
+
+b. *bij toepassing van artikel 4.4, eerste lid, onderdeel c:* van degene die een accijnsgoed vervaardigt of heeft vervaardigd, of die een accijnsgoed voorhanden heeft of heeft gehad dat niet overeenkomstig de bepalingen van deze wet in de heffing is betrokken, dan wel van een ieder als bedoeld in artikel 4.45.     
 
 ### Artikel  4.35  
 
-De accijns wordt verschuldigd op het tijdstip van de uitslag.  
+1.  De accijns wordt verschuldigd op het tijdstip van de uitslag.   
+2.  Indien het tijdstip van het ontstaan van de verschuldigdheid van accijns niet kan worden vastgesteld, geldt als tijdstip de dag waarop de inspecteur de verschuldigdheid heeft vastgesteld.   
 
 ### Artikel  4.36  
 
@@ -3665,20 +3667,12 @@ De accijns wordt berekend naar het tarief dat geldt op het tijdstip van de uitsl
 
 ### Artikel  4.45  
 
-De vervoerder van accijnsgoederen is hoofdelijk aansprakelijk voor het bedrag aan accijns dat wordt vertegenwoordigd door de hoeveelheid accijnsgoederen die door hem wordt vervoerd vanuit een accijnsgoederenplaats naar een andere accijnsgoederenplaats, handels- en dienstenentrepot of douane-entrepot indien tijdens dat vervoer door hem of door zijn toedoen een onregelmatigheid of een overtreding is begaan.  
+1.  De vervoerder van accijnsgoederen is hoofdelijk aansprakelijk voor het bedrag aan accijns dat wordt vertegenwoordigd door de hoeveelheid accijnsgoederen die door hem wordt vervoerd vanuit een accijnsgoederenplaats naar een andere accijnsgoederenplaats, handels- en dienstenentrepot of douane-entrepot indien tijdens dat vervoer door hem of door zijn toedoen een onregelmatigheid of een overtreding is begaan.   
+2.  Elke persoon die is betrokken bij een onregelmatigheid tijdens de productie, de invoer, het voorhanden hebben of het vervoer van accijnsgoederen die niet in de heffing van accijns zijn betrokken, kan hoofdelijk aansprakelijk worden gesteld voor voldoening van de accijns naar het tarief op het tijdstip waarop de onregelmatigheid heeft plaatsgevonden of, indien dit tijdstip niet bekend is, naar het tarief op het tijdstip waarop de onregelmatigheid is vastgesteld.   
 
 ### Titel  4  
 
 ####Invoer
-
-### Artikel  4.46  
-
-Ter zake van de heffing van accijns bij invoer is hoofdstuk II van overeenkomstige toepassing.  
-
-### Artikel  4.47  
-
-1.  Bij regeling van Onze Minister van Financiën kunnen, onder daarbij te stellen voorwaarden, regels worden gesteld ingevolge welke de heffing van accijns van accijnsgoederen die in kleine zendingen dan wel door reizigers als persoonlijke bagage worden ingevoerd, geschiedt volgens daarbij vast te stellen forfaitaire tarieven.   
-2.  De forfaitaire tarieven zijn niet van toepassing met betrekking tot handelsgoederen.   
 
 ### Titel  5  
 
@@ -3686,23 +3680,25 @@ Ter zake van de heffing van accijns bij invoer is hoofdstuk II van overeenkomsti
 
 ### Artikel  4.48  
 
-Bij regeling van Onze Minister van Financiën wordt, onder daarbij te stellen voorwaarden en beperkingen, vrijstelling van belasting verleend voor de invoer van goederen waarvoor aanspraak op vrijstelling van invoerrechten bestaat.  
+Bij regeling van Onze Minister van Financiën wordt, onder daarbij te stellen voorwaarden en beperkingen, vrijstelling van accijns verleend voor de invoer van goederen waarvoor aanspraak op vrijstelling van invoerrechten bestaat.  
 
 ### Artikel  4.49  
 
-Onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen wordt vrijstelling van accijns verleend ter zake van de uitslag en invoer van benzine die: 
+1.  Onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen wordt vrijstelling van accijns verleend ter zake van de uitslag en invoer van benzine die: 
 
 a. op Bonaire, Sint Eustatius of Saba wordt gewonnen uit ruwe aardolie of andere grondstoffen en gebruikt wordt voor het in bedrijf houden van de inrichting waar deze benzine wordt gewonnen en voor de vervoermiddelen die uitsluitend worden gebruikt op het terrein van de inrichting;  
 
-b. door zeeschepen voor eigen gebruik of dat van hun boten wordt ingeladen;  
+b. wordt gebruikt als brandstof voor schepen, andere dan pleziervaartuigen;  
 
 c. wordt gebruikt voor het schoonmaken van tankschepen;  
 
-d. voor oorlogsvaartuigen voor eigen gebruik wordt ingeladen.    
+d. wordt gebruikt voor de voortstuwing van luchtvaartuigen, andere dan plezierluchtvaartuigen.     
+2.  Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt onder een pleziervaartuig of een plezierluchtvaartuig verstaan: een vaartuig respectievelijk een luchtvaartuig dat wordt gebruikt door de eigenaar daarvan of door de natuurlijke of rechtspersoon die het gebruik daarvan geniet door huur of anderszins, voor andere dan commerciële doeleinden en met name voor andere doeleinden dan voor het vervoer van personen of goederen of voor het verrichten van diensten onder bezwarende titel, dan wel ten behoeve van overheidsinstanties.   
+3.  Bij regeling van Onze Minister van Financiën kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.   
 
 ### Artikel  4.50  
 
-Ter zake van de uitslag en invoer van gedistilleerd, dat op bij regeling van Onze Minister van Financiën voorgeschreven wijze is gedenatureerd, wordt vrijstelling van accijns verleend.  
+Vrijstelling van accijns wordt verleend ter zake van de uitslag en invoer van ethylalcohol en andere alcoholhoudende producten als bedoeld in artikel 4.13, onderdelen a en d, die op bij regeling van Onze Minister van Financiën voorgeschreven wijze zijn gedenatureerd.  
 
 ### Titel  5a  
 
@@ -3710,8 +3706,13 @@ Ter zake van de uitslag en invoer van gedistilleerd, dat op bij regeling van Onz
 
 ### Artikel  4.50a  
 
-1.  Onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen wordt op verzoek teruggaaf van accijns verleend voor accijnsgoederen die naar een plaats buiten de BES eilanden of, indien het de accijnsgoederen, bedoeld in artikel 4.1, tweede lid, betreft, buiten Bonaire zijn gebracht.   
-2.  Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van dit artikel.   
+1.  Onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen wordt op verzoek teruggaaf van accijns verleend voor: 
+
+a. accijnsgoederen die naar een plaats buiten de BES eilanden zijn gebracht;  
+
+b. benzine die wordt gebruikt voor een van de doeleinden als bedoeld in artikel 4.49, eerste lid, onderdelen b tot en met d.     
+2.  Teruggaaf van accijns wordt verleend tot ten hoogste het bedrag dat aan accijns is voldaan.   
+3.  Bij regeling van Onze Minister van Financiën kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.   
 
 ### Titel  6  
 
@@ -3746,7 +3747,7 @@ a. de vergunninghouder van een accijnsgoederenplaats voor tabaksproducten;
 b. degene die buiten Bonaire tabaksproducten van accijnszegels voorziet.     
 2.  In bij regeling van Onze Minister van Financiën aan te wijzen gevallen kan, onder daarbij te stellen voorwaarden, worden bepaald dat door anderen dan degenen die zijn bedoeld in het eerste lid, accijnszegels kunnen worden aangevraagd.   
 3.  Bij regeling van Onze Minister van Financiën worden regels gesteld omtrent het aanvragen, het verkrijgbaar stellen en het verstrekken van accijnszegels.   
-4.  De inspecteur beslist op de aanvraag om accijnszegels bij beschikking.   
+4.  De inspecteur beslist op de aanvraag van accijnszegels bij beschikking.   
 
 ### Artikel  4.54  
 
@@ -3759,13 +3760,13 @@ b. degene die buiten Bonaire tabaksproducten van accijnszegels voorziet.
 
 ### Artikel  4.55  
 
-1.  Op het bedrag aan accijns dat over een tijdvak op aangifte moet worden voldaan wordt in mindering gebracht het bedrag dat is betaald dan wel verschuldigd is ter zake van de aanvraag om de accijnszegels die zijn aangebracht op de tabaksproducten waarvoor over dat tijdvak aangifte wordt gedaan wegens het buiten de accijnsgoederenplaats brengen van die producten.   
-2.  Op het bedrag aan accijns dat moet worden voldaan ter zake van de invoer van tabaksproducten wordt in mindering gebracht het bedrag dat is betaald dan wel verschuldigd is ter zake van de aanvraag om de accijnszegels die zijn aangebracht op de ingevoerde tabaksproducten.   
+1.  Op het bedrag aan accijns dat over een tijdvak op aangifte moet worden voldaan wordt in mindering gebracht het bedrag dat is betaald dan wel verschuldigd is ter zake van de aanvraag van de accijnszegels die zijn aangebracht op de tabaksproducten waarvoor over dat tijdvak aangifte wordt gedaan wegens het buiten de accijnsgoederenplaats brengen van die producten.   
+2.  Op het bedrag aan accijns dat moet worden voldaan ter zake van de invoer van tabaksproducten wordt in mindering gebracht het bedrag dat is betaald dan wel verschuldigd is ter zake van de aanvraag van de accijnszegels die zijn aangebracht op de ingevoerde tabaksproducten.   
 
 ### Artikel  4.56  
 
 1.  De accijnszegels worden aangebracht op de kleinhandelsverpakking van tabaksproducten.   
-2.  De accijnszegels vermelden het soort tabaksproduct, het aantal stuks dan wel het gewicht van deze producten in de verpakking waarop de zegels worden aangebracht, en in het geval van sigaretten, of deze zijn ingevoerd, op de BES eilanden zijn vervaardigd ofwel deze in licentie zijn vervaardigd.   
+2.  De accijnszegels vermelden het soort tabaksproduct, het aantal stuks dan wel het gewicht van deze producten in de verpakking waarop de zegels worden aangebracht, en in het geval van sigaretten, of deze zijn ingevoerd dan wel op Bonaire al dan niet in licentie zijn vervaardigd.   
 3.  Bij regeling van Onze Minister van Financiën kunnen regels worden gesteld met betrekking tot de: 
 
 a. vorm en de kleur van de accijnszegels alsmede de daarop te vermelden gegevens;  
@@ -3777,8 +3778,8 @@ c. wijze van verpakking, de grootte van de inhoud van de verpakking en de op de 
 ### Artikel  4.57  
 
 1.  Accijnszegels die niet of die verkeerd zijn aangebracht doch niet zijn beschadigd mogen door degene die de zegels heeft aangevraagd, onder bij regeling van Onze Minister van Financiën te stellen voorwaarden, worden teruggezonden aan de inspecteur.   
-2.  Bij regeling van Onze Minister van Financiën onder daarbij te stellen voorwaarden en beperkingen, worden toegestaan dat accijnszegels worden vernietigd onder ambtelijk toezicht.   
-3.  Bij regeling van Onze Minister van Financiën worden, onder daarbij te stellen voorwaarden en beperkingen, regels gesteld met betrekking tot het verrekenen of teruggeven van het bedrag dat is betaald of nog verschuldigd is ter zake van de aanvraag om accijnszegels die: 
+2.  Bij regeling van Onze Minister van Financiën wordt, onder daarbij te stellen voorwaarden en beperkingen, toegestaan dat accijnszegels worden vernietigd onder ambtelijk toezicht.   
+3.  Bij regeling van Onze Minister van Financiën worden, onder daarbij te stellen voorwaarden en beperkingen, regels gesteld met betrekking tot het verrekenen of teruggeven van het bedrag dat is betaald of nog verschuldigd is ter zake van de aanvraag van accijnszegels die: 
 
 a. zijn teruggezonden door degene die de zegels heeft aangevraagd;  
 
@@ -3827,7 +3828,7 @@ b. de bestuurder van een ander vervoermiddel dan een schip gehouden dit terstond
 
 ### Artikel  4.62  
 
-1.  De inspecteur of een door hem aangewezen ambtenaar die het onderzoek verricht, kan vorderen dat van goederen één of meer monsters worden verstrekt.   
+1.  De inspecteur of een door hem aangewezen ambtenaar kan vorderen dat van goederen één of meer monsters worden verstrekt.   
 2.  Bij regeling van Onze Minister van Financiën worden regels gesteld omtrent het nemen van monsters.   
 
 ### Artikel  4.63  
@@ -3862,10 +3863,6 @@ b. de bestuurder van een ander vervoermiddel dan een schip gehouden dit terstond
 a. regels worden gesteld met betrekking tot de in de vergunning op te nemen voorwaarden;  
 
 b. distilleertoestellen worden aangewezen waarvoor geen vergunning is vereist.     
-
-### Artikel  4.67  
-
-Het is verboden gedenatureerde alcohol aanwezig te hebben in een accijnsgoederenplaats voor gedistilleerd.  
 
 ### Artikel  4.68  
 

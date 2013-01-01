@@ -2,6 +2,11 @@
 
 ##Uitvoeringsregeling investeringsaftrek Aruba, Curaçao, Sint Maarten en de BES eilanden 2010
 
+De Staatssecretaris van Financiën,  
+Handelende in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie en in overeenstemming met de Minister van Infrastructuur en Milieu;
+
+Gelet op de [artikelen 3.42](../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.42a](../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.52](../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.10 van de Wet inkomstenbelasting 2001](../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);
+Besluit:     
 ### Hoofdstuk  1  
 
 ####Algemene bepalingen
@@ -30,9 +35,9 @@
 
 a. het bedrijfsmiddel of het onderdeel in overeenstemming is met de bestemming voor zover aangegeven in [die bijlage](../../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/energie-investeringsaftrek/2001/BWBR0012054/README.md), niet eerder is gebruikt en bestaat uit de in die bijlage genoemde bestanddelen; en  
 
-b. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1, onderdeel D, onder 2.1.A, onder a, van [die bijlage](../../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/energie-investeringsaftrek/2001/BWBR0012054/README.md) – door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een bouwvergunning of omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is afgegeven ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+b. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1, onderdeel D, onder 2.1.A, onder 1, onder a, van [die bijlage](../../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/energie-investeringsaftrek/2001/BWBR0012054/README.md) – door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een bouwvergunning of omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is afgegeven ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
 
-c. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in [bijlage 1 van deze regeling](../../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/energie-investeringsaftrek/2001/BWBR0012054/README.md) in artikel 1, onderdeel A, onder 1.2.J, onder c, of in artikel 1, onderdeel A, onder 1.2.K, of in artikel 1, onderdeel B, onder 1.2.L, onder c, of in artikel 1, onderdeel B, onder 1.2.M, of in artikel 1, onderdeel B, onder 1.2.O, of in artikel 1, onderdeel D, onder 5.1.A, of in artikel 1, onderdeel D, onder 5.1.B, of in artikel 1, onderdeel D, onder 5.1.E – door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een milieuvergunning of een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onderdeel e, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is afgegeven ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).     
+c. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in [bijlage 1 van deze regeling](../../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/energie-investeringsaftrek/2001/BWBR0012054/README.md) in artikel 1, onderdeel A, onder 1.2.K, in artikel 1, onderdeel B, onder 1.2.M, in artikel 1, onderdeel B, onder 1.2.O, in artikel 1, onderdeel D, onder 5.1.B, of in artikel 1, onderdeel D, onder 5.1.E – door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onderdeel e, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is afgegeven ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).     
 2.  De in het eerste lid bedoelde investeringen in bedrijfsmiddelen komen slechts in aanmerking voor de energie-investeringsaftrek indien de belastingplichtige met betrekking tot de vaste inrichting waaraan deze bedrijfsmiddelen worden toegerekend, in Aruba, Curaçao, Sint Maarten of de BES eilanden zonder keuzemogelijkheid, zonder ervan te zijn vrijgesteld en zonder toepassing van een bijzonder regime, is onderworpen aan een aldaar geheven belasting naar de winst.   
 
 ### Artikel  4  
@@ -46,7 +51,7 @@ b. met betrekking tot voortbrengingskosten: bij de aanvang van het kalenderkwart
 
 ### Artikel  5  
 
-De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten geschiedt door middel van het door de inspecteur uitgereikte of toegezonden formulier. Terzake wordt een ontvangstbewijs afgegeven.  
+De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de Minister van Economische Zaken, Landbouw en Innovatie geopende elektronische weg.  
 
 ### Artikel  6  
 
@@ -83,7 +88,7 @@ b. met betrekking tot voortbrengingskosten: bij de aanvang van het kalenderkwart
 
 ### Artikel  10  
 
-De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten geschiedt door middel van het door de inspecteur uitgereikte of toegezonden formulier. Terzake wordt een ontvangstbewijs afgegeven.  
+De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de Minister van Economische Zaken, Landbouw en Innovatie geopende elektronische weg.  
 
 ### Hoofdstuk  5  
 

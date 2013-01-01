@@ -13,18 +13,14 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Deze regeling geeft uitvoering aan de artikelen [14, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [20, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [21, tweede lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [38, tweede lid, onderdeel b](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [39, tweede lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [44, vijfde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [45, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [47, tweede en vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [50, zesde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [54, zesde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [59, zevende lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [60, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [63, zevende lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [64, zesde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [67, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [68, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [69, achtste lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [70, vijfde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [71, tweede en derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [80, onderdeel a, onder 4°](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [86, tweede lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), en [92, tweede lid, van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) en de [artikelen 18, vijfde lid](../../../../../../AMvB/uitvoeringsbesluit/belastingen/op/milieugrondslag/BWBR0007178/README.md), [19, tweede lid, onderdeel c](../../../../../../AMvB/uitvoeringsbesluit/belastingen/op/milieugrondslag/BWBR0007178/README.md), en [27, derde lid](../../../../../../AMvB/uitvoeringsbesluit/belastingen/op/milieugrondslag/BWBR0007178/README.md), [28i, van het Uitvoeringsbesluit belastingen op milieugrondslag](../../../../../../AMvB/uitvoeringsbesluit/belastingen/op/milieugrondslag/BWBR0007178/README.md).   
+1.  Deze regeling geeft uitvoering aan de artikelen [14, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [20, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [21, tweede lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [38, tweede lid, onderdeel b](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [39, tweede lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [44, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [45, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [47, tweede en vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [50, zesde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [54, zesde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [59, zevende lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [60, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [63, zevende lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [64, zesde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [66, achtste lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [67, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [68, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [69, achtste lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [70, vijfde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [71, tweede en derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), en [92, tweede lid, van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) en de [artikelen 18, vierde lid](../../../../../../AMvB/uitvoeringsbesluit/belastingen/op/milieugrondslag/BWBR0007178/README.md), [19, tweede lid, onderdeel c](../../../../../../AMvB/uitvoeringsbesluit/belastingen/op/milieugrondslag/BWBR0007178/README.md), en [27, derde lid, van het Uitvoeringsbesluit belastingen op milieugrondslag](../../../../../../AMvB/uitvoeringsbesluit/belastingen/op/milieugrondslag/BWBR0007178/README.md).   
 2.  Voor de toepassing van deze regeling wordt verstaan onder: 
 
 a. *de wet:* de [Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md);  
 
 b. *het besluit:* het [Uitvoeringsbesluit belastingen op milieugrondslag](../../../../../../AMvB/uitvoeringsbesluit/belastingen/op/milieugrondslag/BWBR0007178/README.md);  
 
-c.  vervallen;   
-
-d. *een krat:* een verpakking met zes vlakken waarvan minimaal een vlak open is, zodat er zonder aanpassing van de verpakking een product kan worden in- of uitgepakt;  
-
-e. *een doos:* een gesloten verpakking met zes vlakken, waaruit alleen met aanpassing van de verpakking een product kan worden in- of uitgepakt.     
+c. *de EAN-code:* de EAN-code, bedoeld in [artikel 1, onderdeel f, van de Regeling afnemers en monitoring Elektriciteitswet 1998 en Gaswet](../../../../../../ministeriele-regeling/regeling/afnemers/en/monitoring/elektriciteitswet/1998/en/gaswet/BWBR0016979/README.md).     
 
 ### Hoofdstuk  II  
 
@@ -227,6 +223,41 @@ c. naam en adres van leverancier, en
 
 d. het kalenderjaar waarop de verklaring betrekking heeft.    
 
+### Artikel  23  
+
+1.  Het verzoek om teruggaaf, bedoeld in [artikel 66, eerste lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), heeft betrekking op slechts één aansluiting en wordt gedaan binnen dertien weken na afloop van het kalenderjaar waarover teruggaaf wordt verzocht.   
+2.  In het verzoek om teruggaaf, bedoeld in [artikel 66, eerste lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), worden ten minste de volgende gegevens vermeld: 
+
+a. het kalenderjaar waarover teruggaaf wordt verzocht;  
+
+b. naam en adres van de verbruiker;  
+
+c. naam en adres van de leverancier of leveranciers;  
+
+d. de EAN-code van de aansluiting via welke de elektriciteit geleverd is waarop het verzoek betrekking heeft;  
+
+e. de hoeveelheid elektriciteit die in het kalenderjaar waarover teruggaaf wordt verzocht via de aansluiting, bedoeld in onderdeel d, geleverd is, voor zover deze elektriciteit zakelijk is verbruikt en niet op grond van [artikel 64, eerste of derde lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) van energiebelasting is vrijgesteld.     
+3.  Bij het verzoek worden overgelegd: 
+
+a. de factuur of facturen waaruit blijkt hoeveel energiebelasting ter zake van de in het tweede lid, onderdeel e, bedoelde elektriciteit in rekening is gebracht;  
+
+b. de verklaringen, bedoeld in [artikel 66, derde en vierde lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).     
+4.  De verklaring, bedoeld in [artikel 66, derde lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), wordt door de verbruiker ondertekend en bevat ten minste: 
+
+a. de dagtekening;  
+
+b. naam en adres van de verbruiker.     
+5.  De verklaringen, bedoeld in [artikel 66, vierde lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), worden door de verbruiker ondertekend en bevatten ten minste: 
+
+a. de dagtekening;  
+
+b. naam en adres van de verbruiker;  
+
+c. de EAN-code van de aansluiting waarop de verklaringen betrekking hebben;  
+
+d. het kalenderjaar waarop de verklaringen betrekking hebben.     
+6.  De verbruiker richt zijn administratie zodanig in dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van de teruggaafregeling, bedoeld in [artikel 66 van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), van belang zijnde bedrijfshandelingen.   
+
 ### Artikel  24  
 
 1.  1. In het verzoek om teruggaaf, bedoeld in [artikel 67, eerste lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), worden de volgende gegevens vermeld: 
@@ -263,11 +294,11 @@ f. het bedrag aan belasting dat wordt teruggevraagd.
 
 1.  De teruggaafregeling, bedoeld in [artikel 69, tweede lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), is van toepassing mits: 
 
-a. de instelling verklaart dat is voldaan aan de voorwaarden, bedoeld in [artikel 69, tweede lid, onderdelen a en b, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md);  
+a. de instelling verklaart dat is voldaan aan de voorwaarden, bedoeld in [artikel 69, tweede lid, onderdelen a, b en d, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md);  
 
 b. de over te leggen eindfactuur op naam van de instelling staat die het verzoek om teruggaaf doet;  
 
-c. de instelling die voldoet aan de voorwaarden, bedoeld in [artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), verklaart dat aan die voorwaarden en aan de voorwaarde, bedoeld in [artikel 69, tweede lid, onderdeel d, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), is voldaan, en de in artikel 5c, onderdeel a, van de Algemene wet inzake rijksbelastingen genoemde regelgeving desgevraagd wordt overgelegd.     
+c. de instelling die voldoet aan de voorwaarden, bedoeld in [artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), verklaart dat aan die voorwaarden en aan de voorwaarde, bedoeld in [artikel 69, tweede lid, onderdeel e, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), is voldaan, en de in artikel 5c, onderdeel a, van de Algemene wet inzake rijksbelastingen genoemde regelgeving desgevraagd wordt overgelegd.     
 2.  De teruggaafregeling, bedoeld in [artikel 69, derde lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), is van toepassing mits: 
 
 a. de notarieel verleden statuten onderscheidenlijk verklaringen waaruit de doelstelling van de instellingen, bedoeld in [artikel 69, derde lid, onderdelen b en c, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), blijkt, desgevraagd worden overgelegd;  
@@ -276,7 +307,7 @@ b. de instelling die het verzoek om teruggaaf doet, verklaart dat is voldaan aan
 
 c. de over te leggen eindfactuur op naam van de instelling staat die het verzoek om teruggaaf doet, en  
 
-d. de instelling die het verzoek om teruggaaf doet, een bezettingsoverzicht overlegt van de bezettingsgraad in tijd en oppervlakte, dan wel in huuropbrengsten, van de onroerende zaak, waaruit blijkt dat de onroerende zaak hoofdzakelijk in gebruik is geweest bij meer dan één instelling die een algemeen nut beogende instelling is of die een instelling is die voldoet aan de voorwaarden, bedoeld in [artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [artikel 69, tweede lid, onderdeel d, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).     
+d. de instelling die het verzoek om teruggaaf doet, een bezettingsoverzicht overlegt van de bezettingsgraad in tijd en oppervlakte, dan wel in huuropbrengsten, van de onroerende zaak, waaruit blijkt dat de onroerende zaak hoofdzakelijk in gebruik is geweest bij meer dan één instelling die een algemeen nut beogende instelling is of die een instelling is die voldoet aan de voorwaarden, bedoeld in [artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [artikel 69, tweede lid, onderdeel e, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).     
 
 ### Artikel  27  
 
@@ -356,50 +387,6 @@ e. het netto elektrisch rendement van de installatie.
 
 ####Verpakkingenbelasting
 
-### Artikel  32  
-
-1.  Als logistieke hulpmiddelen, bedoeld in [artikel 80, onderdeel a, onder 4°, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) worden aangemerkt: 
-
-a. pallets, inclusief opzetranden, palletboxen en tussenplaten, bedoeld om in combinatie met een pallet te worden gebruikt en met eenzelfde oppervlakte als de pallet;  
-
-b. glasbokken;  
-
-c. Intermediate Bulk Containers;  
-
-d. rolcontainers;  
-
-e. vaten, jerrycans en gasflessen met een inhoud vanaf 20 liter;  
-
-f. kratten met een inhoud vanaf 8 liter;  
-
-g. dozen met een inhoud vanaf 1 m <sup>3</sup>;  
-
-h. big bags met een inhoud vanaf 250 liter;  
-
-i. kernen, spoelen en haspels met een lengte vanaf 50 cm.     
-2.  Voor de toepassing van het eerste lid wordt de inhoud bepaald aan de hand van de binnenmaten.   
-3.  Als producten die wel voldoen aan de definitie van verpakking, maar die naar hun aard hoofdzakelijk een andere functie dan een verpakkingsfunctie hebben, bedoeld in [artikel 80, onderdeel a, onder 4°, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) worden aangemerkt: 
-
-a. niet-navulbare aansteker;  
-
-b. injectiespuit;  
-
-c. niet-navulbare pen;  
-
-d. schrijfstift, daaronder begrepen markeringsstift;  
-
-e. correctieroller;  
-
-f. toner- en inktcartridges.     
-
-### Artikel  32a  
-
-Het percentage, bedoeld in [artikel 86, tweede lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) is 50%.  
-
-### Artikel  32b  
-
-De producentenorganisatie, bedoeld in [artikel 28i van het Uitvoeringsbesluit belastingen op milieugrondslag](../../../../../../AMvB/uitvoeringsbesluit/belastingen/op/milieugrondslag/BWBR0007178/README.md), wordt aangewezen in de bij deze regeling behorende bijlage.  
-
 ### Hoofdstuk  IX  
 
 ####Algemene bepaling
@@ -423,10 +410,4 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling belastingen op milieugro
 
 De 
 Staatssecretaris van Financiën, 
-W.A.F.G.Vermeend   
-
-### Bijlage  
-
-####bij de Uitvoeringsregeling belastingen op milieugrondslag
-
-*Coöperatieve Telersvereniging Batavia U.A.*  Postbus 1150 2990 CA BARENDRECHT  *Telerscoöperatie Best Growers Benelux U.A.*  Postbus 204 2665 ZL BLEISWIJK  *Coöperatie Koninklijke Fruitmasters Groep U.A.*  Postbus 222 4190 CE GELDERMALSEN  *Telerscoöperatie Fossa Eugeniana U.A.*  Postbus 1056 5900 BB VENLO  *Telerscoöperatie FresQ u.a.*  Postbus 125 2670 AC NAALDWIJK  *Coöperatie Funghi U.A*  Postbus 28 6590 AA GENNEP  *Coöperatie The Greenery U.A.*  Postbus 79 2990 AB BARENDRECHT  *Coöperatie Komosa U.A.*  Postbus 3021 5902 RA VENLO  *Coöperatie Nautilus U.A.*  Havenweg 11-C 8251 KB DRONTEN  *Coöperatie Unistar B.A.*  Daalder 13 8305 BE EMMELOORD  *Telerscoöperatie Versdirect.nl U.A.*  Ebweg 12C 2991 LT BARENDRECHT  *Coöperatie WestVeg U.A.*  Postbus 11 2678 ZG DE LIER  *Coöperatieve Tuinbouwveiling ‘Zaltbommel en Omstreken’ B.A.*  Postbus 7 5300 AA ZALTBOMMEL  *Coöperatieve Veiling Zuidoost Nederland U.A.*  Postbus 3200 5902 RE VENLO  *Coöperatieve Fruitveiling Zuid-Limburg B.A.*  Aan de Fremme 33 6269 BK MARGRATEN 
+W.A.F.G.Vermeend    

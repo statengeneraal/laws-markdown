@@ -53,19 +53,18 @@ De
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
 J.M.Cramer  
 
-### Bijlage  I  Bijlage, behorende bij artikel 1, eerste lid   
+### Bijlage  I  Bijlage, behorende bij artikel 1, eerste lid , van de Uitvoeringsregeling EG-verordening PRTR en PRTR-protocol.  
 
-###Format integraal PRTR-verslag
-
-![251307](http://wetten.overheid.nl/Illustration/251307)
+![251303](http://wetten.overheid.nl/Illustration/251303)
 
 ###Emissies naar lucht
 
-![251307](http://wetten.overheid.nl/Illustration/251307)
+![251304](http://wetten.overheid.nl/Illustration/251304)
 
 ###Emissietabel verbrandingsemissies
 
-![251307](http://wetten.overheid.nl/Illustration/251307)
+![251305](http://wetten.overheid.nl/Illustration/251305)
+![251306](http://wetten.overheid.nl/Illustration/251306)
 
 ###Emissietabel procesemissies
 
@@ -73,54 +72,66 @@ J.M.Cramer
 
 ###Emissies naar lucht: totalen op inrichtingniveau
 
-![251307](http://wetten.overheid.nl/Illustration/251307)
+![251308](http://wetten.overheid.nl/Illustration/251308)
 
 ###Emissies, warmteafvoer en debieten water
 
-![251307](http://wetten.overheid.nl/Illustration/251307)
+![251309](http://wetten.overheid.nl/Illustration/251309)
 
 ###Emissies naar water: totalen op inrichtingniveau
 
-![251307](http://wetten.overheid.nl/Illustration/251307)
+![251310](http://wetten.overheid.nl/Illustration/251310)
 
 ###Watergebruik
 
-![251307](http://wetten.overheid.nl/Illustration/251307)
+![251311](http://wetten.overheid.nl/Illustration/251311)
 
 ###Emissies naar de bodem: totalen op inrichtingniveau
 
-![251307](http://wetten.overheid.nl/Illustration/251307)
+![251312](http://wetten.overheid.nl/Illustration/251312)
 
 ###Energie algemeen (energie- en brandstofverbruik)
 
-![251307](http://wetten.overheid.nl/Illustration/251307)
-![251307](http://wetten.overheid.nl/Illustration/251307)
+![251313](http://wetten.overheid.nl/Illustration/251313)
+![251314](http://wetten.overheid.nl/Illustration/251314)
 
 ###Afvalbeheer
 
-![251307](http://wetten.overheid.nl/Illustration/251307)
+![251316](http://wetten.overheid.nl/Illustration/251316)
 
 ###Afvalbeheer: totalen op inrichtingniveau
 
-![251307](http://wetten.overheid.nl/Illustration/251307)
+![251317](http://wetten.overheid.nl/Illustration/251317)
 
 ###Geluid (indien opgenomen in de vergunning)
 
-![251307](http://wetten.overheid.nl/Illustration/251307)
+![251318](http://wetten.overheid.nl/Illustration/251318)
 
 ###Geur (indien opgenomen in de vergunning)
 
-![251307](http://wetten.overheid.nl/Illustration/251307)
+![251319](http://wetten.overheid.nl/Illustration/251319)
 
-### Bijlage  II  
+### Bijlage  II  Bijlage, behorende bij artikel 1, tweede lid , van de Uitvoeringsregeling EG-verordening PRTR en PRTR-protocol.  
 
-#### *Bijlage, behorende bij* artikel 1  
+###Format PRTR-verslag voor intensieve veeteelt en aquacultuur
 
-#### *Format PRTR-verslag* 
+![251320](http://wetten.overheid.nl/Illustration/251320)
 
-![243040](http://wetten.overheid.nl/Illustration/243040)
-![243040](http://wetten.overheid.nl/Illustration/243040)
-![243040](http://wetten.overheid.nl/Illustration/243040)
+###Emissies naar lucht
+
+![251321](http://wetten.overheid.nl/Illustration/251321)
+
+###Emissies naar water
+
+![251322](http://wetten.overheid.nl/Illustration/251322)
+
+###Emissies naar bodem
+
+![251323](http://wetten.overheid.nl/Illustration/251323)
+
+###Afvalbeheer
+
+![251324](http://wetten.overheid.nl/Illustration/251324)
 
 ### Bijlage  III  Bijlage, behorende bij artikel 1a   
 

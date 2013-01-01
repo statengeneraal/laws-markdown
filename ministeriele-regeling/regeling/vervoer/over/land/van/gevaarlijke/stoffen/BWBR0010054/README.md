@@ -65,7 +65,9 @@ Ligt ter inzage bij het Ministerie van Infrastructuur en Milieu.
 
 #### *Artikel 1. Toepassingsbereik* 
 
-Dit hoofdstuk is van toepassing op vervoer van gevaarlijke stoffen dat uitsluitend binnen Nederland plaatsvindt.  
+1. Dit hoofdstuk is van toepassing op vervoer van gevaarlijke stoffen dat uitsluitend binnen Nederland plaatsvindt.  
+
+2. Dit hoofdstuk is niet van toepassing op het vervoer dat plaatsvindt overeenkomstig de randnummers 1.1.3 en hoofdstuk 3.4 van bijlage 1, behoudens de in de artikelen 4 tot en met 7 genoemde uitzonderingen voor vuurwerk met de UN-nummers 0336 en 0337 met een totale netto explosieve massa van meer dan 20 kilogram.    
 
 #### *Artikel 2. Ontheffingen* 
 
@@ -305,11 +307,15 @@ c. wanneer de Dienst Wegverkeer een onderzoek om redenen van veiligheid noodzake
 
 De werkgever bewaart de dossiers, bedoeld in randnummers 1.3.3 en 1.10.2.4 van bijlage 1 gedurende de arbeidsrelatie met de werknemer, die de opleiding heeft genoten.  
 
+#### *Artikel 12. 1.8.3.2. Uitzondering verplichting veiligheidsadviseur* 
+
+De voorschriften onder randnummer 1.8.3 van bijlage 1 zijn niet van toepassing op ondernemingen als bedoeld in randnummer 1.8.3.2.  
+
 #### *Hoofdstuk III. Implementatie van richtlijn nr. 95/50/EG betreffende uniforme procedures voor de controle op het vervoer van gevaarlijke goederen over de weg* 
 
 #### *Artikel 1* 
 
-De Inspecteur-Generaal van de Inspectie Verkeer en Waterstaat legt jaarlijks in november aan de Minister ter goedkeuring voor een plan inzake het in het volgende jaar te houden toezicht op de naleving op het vervoer van gevaarlijke stoffen over de weg, bedoeld in artikel 2.  
+De Inspecteur-Generaal van de Inspectie Leefomgeving en Transport legt jaarlijks in november aan de Minister ter goedkeuring voor een plan inzake het in het volgende jaar te houden toezicht op de naleving op het vervoer van gevaarlijke stoffen over de weg, bedoeld in artikel 2.  
 
 #### *Artikel 2* 
 
@@ -329,7 +335,7 @@ d. wordt uitgevoerd door middel van steekproeven en omvat zoveel mogelijk een gr
 
 #### *Artikel 4* 
 
-Indien bij het toezicht op de naleving als bedoeld in artikel 1 dan wel anderszins blijkt van naar het oordeel van de Minister of van de Inspecteur-Generaal van de Inspectie Verkeer en Waterstaat, ernstige of herhaalde overtredingen die een gevaar voor de veiligheid van het vervoer van gevaarlijke stoffen opleveren en die zijn begaan met een in een andere lidstaat van de Europese Unie ingeschreven voertuig of gevestigde onderneming, doet de Inspecteur-Generaal van de Inspectie Verkeer en Waterstaat of de Minister daarvan onverwijld mededeling aan de bevoegde instantie van de desbetreffende lidstaat.  
+Indien bij het toezicht op de naleving als bedoeld in artikel 1 dan wel anderszins blijkt van naar het oordeel van de Minister of van de Inspecteur-Generaal van de Inspectie Leefomgeving en Transport, ernstige of herhaalde overtredingen die een gevaar voor de veiligheid van het vervoer van gevaarlijke stoffen opleveren en die zijn begaan met een in een andere lidstaat van de Europese Unie ingeschreven voertuig of gevestigde onderneming, doet de Inspecteur-Generaal van de Inspectie Leefomgeving en Transport of de Minister daarvan onverwijld mededeling aan de bevoegde instantie van de desbetreffende lidstaat.  
 
 #### *Artikel 5* 
 
@@ -341,99 +347,83 @@ Indien een bevoegde instantie van een andere lidstaat van de Europese Unie de Mi
 
 ### Bijlage  3  
 
-####als bedoeld in artikel 2, onderdeel c , van de Regeling vervoer over land van gevaarlijke stoffen
+####als bedoeld in artikel 2, onderdeel c , van de Regeling vervoer over land van gevaarlijke stoffen
 
-### Artikel  1  
+#### *Artikel 1. Erkende instanties* 
 
-####Erkende instanties
+1. In de onderstaande tabel zijn de erkende instanties opgenomen met betrekking tot de uitvoering van de voorschriften in de vermelde randnummers van bijlage 1 voor zover bedoelde handelingen worden uitgevoerd door Nederlandse instanties.  
 
-1. In de onderstaande tabel zijn de erkende instanties opgenomen met betrekking tot de uitvoering van de voorschriften in de vermelde randnummers van bijlage 1 voor zover bedoelde handelingen worden uitgevoerd door Nederlandse instanties.  
-
-2. In afwijking van het eerste lid is de uitvoering van de voorschriften in de vermelde randnummers van bijlage 1 voor zover deze betrekking hebben op drukhouders en tanks als bedoeld in de [Regeling vervoerbare drukapparatuur](../../../../../../../../../ministeriele-regeling/regeling/vervoerbare/drukapparatuur/BWBR0011832/README.md) voorbehouden aan de op grond van die regeling aangewezen instanties.    Tabel 1 
+2. In afwijking van het eerste lid is de uitvoering van de voorschriften in de vermelde randnummers van bijlage 1 voor zover deze betrekking hebben op drukhouders en tanks als bedoeld in de [Regeling vervoerbare drukapparatuur](../../../../../../../../../ministeriele-regeling/regeling/vervoerbare/drukapparatuur/2011/BWBR0030099/README.md) voorbehouden aan de op grond van die regeling aangewezen instanties.    Tabel 1 
 
 | Randnummer  | Instanties  |
 |:---|:---|
 | 1.1.3.1 d)  | brandweer of politie  |
-| 1.3.3, eerste volzin  | IVW  |
-| 1.4.2.2.4, 1.8.1.1, 1.8.1.2. 1.8.1.3, 1.8.1.4, 1.8.2.2, 1.8.2.3, 1.8.3.5, 1.8.5.1  | IVW  |
+| 1.3.3, eerste volzin  | ILT  |
+| 1.4.2.2.4, 1.8.1.1, 1.8.1.2. 1.8.1.3, 1.8.1.4, 1.8.2.2, 1.8.2.3, 1.8.3.5, 1.8.5.1  | ILT  |
 | 1.8.3.7, 1.8.3.8, 1.8.3.10, 1.8.3.14, 1.8.3.16  | CBR  |
-| 1.9.4  | DGMo  |
+| 1.9.4  | DGMI  |
 | 1.10.1.6  | CBR  |
-| 1.10.2.4, eerste volzin  | IVW  |
+| 1.10.2.4, eerste volzin  | ILT  |
 | 1.10.3.2.2, Opmerking  | politie  |
 | 2.2.1.1, voor zover het betreft de autoriteit, genoemd in het Handboek beproevingen en criteria  | TNO DV  |
 | 2.2.1.1.3  | TNO DV of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
-| 2.2.1.1.7.2  | IVW  |
+| 2.2.1.1.7.2  | ILT  |
 | 2.2.1.3, Opmerking bij UN-nummer 0190  | TNO DV of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
 | 2.2.41.1, voor zover het betreft de autoriteit, genoemd in het Handboek beproevingen en criteria, 2.2.41.1.13  2.2.51.1, voor zover het betreft de autoriteit, genoemd in het Handboek beproevingen en criteria, 2.2.52.1.8  | TNO DV  |
 | 2.2.62.1.9, Opmerking, 2.2.62.1.12  | EL&I of VWS  |
-| 3.1.2.6  | LR  |
 | 3.3.1, bijzondere bepalingen 16 en 178  | TNO DV of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
 | 3.3.1, bijzondere bepalingen 181, 237, 266, 271, 272 en 278  | TNO DV  |
-| 3.3.1, bijzondere bepaling 239  | IVW  |
-| 3.3.1, bijzondere bepaling 283  | LR  |
+| 3.3.1, bijzondere bepaling 239  | ILT  |
 | 3.3.1, bijzondere bepalingen 288, 309, 311  | TNO DV  |
 | 3.3.1, bijzondere bepaling 637  | Minister  |
-| 3.3.1, bijzondere bepaling 645  | IVW  |
-| 4.1.1.15  | TNO C in overeenstemming met DGMo  |
-| 4.1.3.6  | LR  |
+| 3.3.1, bijzondere bepaling 645  | ILT  |
+| 4.1.1.15  | ILT  |
 | 4.1.4.1, P099, P101  | TNO DV of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
-| 4.1.4.1, P200, P201  | LR  |
 | 4.1.4.1, P405 (2) b)  | TNO DV of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
-| 4.1.4.1, P601 (3) g)  | TNO C  |
 | 4.1.4.1, P620, P650  | EL&I of VWS  |
-| 4.1.4.1, P902, 4.1.4.1, P905  | LR  |
 | 4.1.4.2 IBC99, 4.1.4.2 IBC520, 4.1.4.3 LP99  | TNO DV  |
-| 4.1.4.3 LP902  | LR  |
 | 4.1.5.15, 4.1.5.18  | TNO DV of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
 | 4.1.7.2.2  | TNO DV  |
 | 4.1.8.7  | EL&I of VWS  |
 | 4.1.10.4, MP21  | TNO DV of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
-| 4.2.1.7, 4.2.1.9.1  | RDW/LR/klassenbureau  |
+| 4.2.1.7, 4.2.1.9.1  | RDW  |
 | 4.2.1.13.1, 4.2.1.13.3  | RDW in overeenstemming met TNO DV  |
-| 4.2.3.7.1, 4.2.5.1.1  | RDW/LR  |
-| 4.2.5.3 TP4, TP9, TP10, TP16, TP24  | RDW/LR/klassenbureau  |
-| 4.3.2.1.5, voetnoot 2  | RDW/LR  |
-| 4.3.2.1.7  | RDW/LR/klassenbureau  |
-| 4.3.3.2.5  | RDW/LR  |
+| 4.2.3.7.1, 4.2.5.1.1  | RDW  |
+| 4.2.5.3 TP4, TP9, TP10, TP16, TP24  | RDW  |
+| 4.3.2.1.5, voetnoot 2  | RDW  |
+| 4.3.2.1.7  | RDW  |
+| 4.3.3.2.5  | RDW  |
 | 4.3.5, TU39  | RDW in overeenstemming met TNO DV  |
 | 5.2.2.1.9  | TNO DV  |
-| 6.1.1.2, 6.1.1.4  | TNO C in overeenstemming met DGMo  |
-| 6.1.3.1, 6.1.3.8  | TNO C  |
-| 6.1.4.8.8, 6.1.4.13.7  | TNO C in overeenstemming met DGMo  |
-| 6.1.5.1.1, 6.1.5.1.3, 6.1.5.1.5, 6.1.5.1.10,  6.1.5.2.5, 6.1.5.8.2  | TNO C  |
-| 6.2.1.4.1, 6.2.1.4.2, 6.2.1.5.1 g), 6.2.1.6.1, 6.2.1.7.2, 6.2.2.1.1, Opmerking 2, 6.2.2.5.2, 6.2.2.5.3, 6.2.2.5.4, 6.2.2.5.5, 6.2.2.6.2, 6.2.2.6.3, 6.2.2.6.4, 6.2.2.7.2 d), 6.2.2.7.4, 6.2.2.7.7, 6.2.2.7.8, 6.2.2.9, 6.2.2.9.4, 6,2,2,10, 6.2.3.4.2, 6.2.3.5, 6.2.3.6.1, 6.2.5.4.2, 6.2.6.3.2.2, 6.2.6.3.3  | LR  |
-| 6.3.2.1, 6.3.2.2  | TNO C in overeenstemming met DGMo  |
-| 6.3.4.2, 6.3.4.3, 6.3.5.1.1, 6.3.5.1.3, 6.3.5.1.5, 6.3.5.1.7, 6.3.5.1.8, 6.3.5.5.2  | TNO C  |
-| 6.5.1.1.2  | TNO C in overeenstemming met DGMo  |
-| 6.5.1.1.3  | TNO C  |
-| 6.5.4.1  | TNO C in overeenstemming met DGMo  |
-| 6.5.2.1.1, 6.5.2.2.5, 6.5.4.4.1, 6.5.6.1.1, 6.5.6.2.1, 6.5.6.2.3, 6.5.6.3.4, 6.5.6.14.2  | TNO C  |
-| 6.6.1.2, 6.6.1.3  | TNO C in overeenstemming met DGMo  |
-| 6.6.3.1, 6.6.5.1.1, 6.6.5.1.3, 6.6.5.1.5, 6.6.5.1.7, 6.6.5.1.8, 6.6.5.4.3  | TNO C  |
-| 6.7.1.2  | RDW/LR  |
-| 6.7.2.2.1, 6.7.2.2.10, 6.7.2.2.14  | RDW/LR/klassenbureau  |
-| 6.7.2.3.1, 6.7.2.3.3.1  | RDW/LR  |
-| 6.7.2.4.3, 6.7.2.6.2, 6.7.2.6.3, 6.7.2.6.4, 6.7.2.7.1, 6.7.2.8.3, 6.7.2.10.1, 6.7.2.12.2.4, 6.7.2.18.1, 6.7.2.19.5, 6.7.2.19.9, 6.7.2.19.10  | RDW/LR/klassenbureau  |
-| 6.7.3.2.1, 6.7.3.2.11, 6.7.3.3.3.1, 6.7.3.7.3, 6.7.3.8.1.2, 6.7.3.14.1, 6.7.3.15.3, 6.7.3.15.5, 6.7.3.15.9, 6.7.3.15.10, 6.7.4.2.1, 6.7.4.2.8.1, 6.7.4.2.8.2, 6.7.4.2.14, 6.7.4.3.3.1, 6.7.4.5.10  6.7.4.6.4, 6.7.4.7.4, 6.7.4.13.1, 6.7.4.14.3, 6.7.4.14.6 b)  | RDW/LR  |
-| 6.7.4.14.10, 6.7.4.14.11  | RDW/LR/klassenbureau  |
-| 6.7.5.2.9, 6.7.5.4.1, 6.7.5.4.3, 6.7.5.11.1  | RDW/LR  |
-| 6.7.5.12.3, 6.7.5.12.7  | RDW/LR/klassenbureau  |
-| 6.8.2.1.4, 6.8.2.1.16, 6.8.2.1.19  | RDW/LR/klassenbureau  |
-| 6.8.2.1.20  | RDW/LR  |
-| 6.8.2.1.23, 6.8.2.2.2  | RDW/LR/klassenbureau  |
+| 6.1.1.2, 6.1.1.4  | ILT  |
+| 6.1.4.8.8, 6.1.4.13.7  | ILT  |
+| 6.3.2.1, 6.3.2.2  | ILT  |
+| 6.5.1.1.2  | ILT  |
+| 6.5.4.1  | ILT  |
+| 6.6.1.2, 6.6.1.3  | ILT  |
+| 6.7.1.2  | RDW  |
+| 6.7.2.2.1, 6.7.2.2.10, 6.7.2.2.14  | RDW  |
+| 6.7.2.3.1, 6.7.2.3.3.1  | RDW  |
+| 6.7.2.4.3, 6.7.2.6.2, 6.7.2.6.3, 6.7.2.6.4, 6.7.2.7.1, 6.7.2.8.3, 6.7.2.10.1, 6.7.2.12.2.4, 6.7.2.18.1, 6.7.2.19.5, 6.7.2.19.9, 6.7.2.19.10  | RDW  |
+| 6.7.3.2.1, 6.7.3.2.11, 6.7.3.3.3.1, 6.7.3.7.3, 6.7.3.8.1.2, 6.7.3.14.1, 6.7.3.15.3, 6.7.3.15.5, 6.7.3.15.9, 6.7.3.15.10, 6.7.4.2.1, 6.7.4.2.8.1, 6.7.4.2.8.2, 6.7.4.2.14, 6.7.4.3.3.1, 6.7.4.5.10  6.7.4.6.4, 6.7.4.7.4, 6.7.4.13.1, 6.7.4.14.3, 6.7.4.14.6 b)  | RDW  |
+| 6.7.4.14.10, 6.7.4.14.11  | RDW  |
+| 6.7.5.2.9, 6.7.5.4.1, 6.7.5.4.3, 6.7.5.11.1  | RDW  |
+| 6.7.5.12.3, 6.7.5.12.7  | RDW  |
+| 6.8.2.1.4, 6.8.2.1.16, 6.8.2.1.19  | RDW  |
+| 6.8.2.1.20  | RDW  |
+| 6.8.2.1.23, 6.8.2.2.2  | RDW  |
 | 6.8.2.2.10  | RDW  |
-| 6.8.2.3.1, 6.8.2.3.3, 6.8.2.4.1 voetnoot 9, 6.8.2.4.2 voetnoot 9, 6.8.2.4.5, 6.8.2.7  | RDW/LR/klassenbureau  |
-| 6.8.3.2.16, 6.8.3.2.26, 6.8.3.4.4  | RDW/LR  |
-| 6.8.3.4.6 b)  | RDW/LR/klassenbureau  |
-| 6.8.3.4.12, 6.8.3.4.16, 6.8.3.7  | RDW/LR  |
+| 6.8.2.3.1, 6.8.2.3.3, 6.8.2.4.1 voetnoot 9, 6.8.2.4.2 voetnoot 9, 6.8.2.4.5, 6.8.2.7  | RDW  |
+| 6.8.3.2.16, 6.8.3.2.26, 6.8.3.4.4  | RDW  |
+| 6.8.3.4.6 b)  | RDW  |
+| 6.8.3.4.12, 6.8.3.4.16, 6.8.3.7  | RDW  |
 | 6.8.4 TA4, TT2, TT7, TT9  | RDW  |
 | 6.8.4 TA2  | RDW in overeenstemming met TNO DV  |
-| 6.8.5.2.2  | RDW/LR  |
+| 6.8.5.2.2  | RDW  |
 | 6.9.1.1, 6.9.2.1, 6.9.2.5, 6.9.2.13, 6.9.2.14.4, 6.9.2.14.5, 6.9.4.2.4, 6.9.4.4.1, 6.9.5.3  | RDW  |
-| 6.11.2.4, 6.11.4.4 (Code BK1)  | RDW  |
-| 6.12.3.1.2, 6.12.3.1.3, 6.12.3.2.2  | RDW/LR  |
-| 7.3.2.6.2  | IVW  |
+| 6.11.2.4, 6.11.4.4  | RDW  |
+| 6.12.3.1.2, 6.12.3.1.3, 6.12.3.2.2  | RDW  |
+| 7.3.2.6.2  | ILT  |
 | 7.3.3, VV12, VV13  | RDW  |
 | 7.5.11 CV1  | burgemeester  |
 | 7.5.2.2 voetnoot a)  | RDW  |
@@ -442,11 +432,11 @@ Indien een bevoegde instantie van een andere lidstaat van de Europese Unie de Mi
 | 8.5 S1 (4)  | burgemeester  |
 | 9.1.2, 9.1.3  | RDW  |
 
-### Artikel  2  
+#### *Artikel 2.* 
 
-1. In tabel 1 wordt verstaan onder: 
+1. In deze bijlage wordt verstaan onder: 
 
-*brandweer:* brandweerdiensten, met uitzondering van de bedrijfsbrandweer als bedoeld in het [Besluit Bedrijfsbrandweren](../../../../../../../../../AMvB/besluit/bedrijfsbrandweren/BWBR0004694/README.md);  
+*brandweer:* brandweerdiensten, met uitzondering van de bedrijfsbrandweer als bedoeld in het Besluit Bedrijfsbrandweren;  
 
 *burgemeester:* de burgemeester van de desbetreffende gemeente;  
 
@@ -454,29 +444,15 @@ Indien een bevoegde instantie van een andere lidstaat van de Europese Unie de Mi
 
 *Defensie:* Minister van Defensie, namens deze de Militaire Commissie Gevaarlijke Stoffen;  
 
-*DGMo:* Minister, namens deze de Directeur Mobiliteit;  
+*DGMI:* Minister, namens deze de Directeur-Generaal Milieu en Internationaal;  
 
 *EL&I:* Minister van Economische Zaken, Landbouw en Innovatie;  
 
-*IVW:* Minister, namens deze de Inspecteur-Generaal Verkeer en Waterstaat;  
+*ILT:* Minister, namens deze de Inspecteur-Generaal Leefomgeving en Transport;  
 
-*klassenbureau:* privaatrechtelijke organisatie die keuringen van tankcontainers of transporttanks uitvoert in opdracht van de fabrikant, de eigenaar of de gebruiker van tankcontainers of transporttanks en die is erkend overeenkomstig artikel 4 van deze bijlage;  
-
-*politie:* Korps landelijke politiediensten dan wel de regiopolitie in de desbetreffende regio;  
-
-*LR:* Lloyd’s Register Nederland B.V.;  
+*politie:* Landelijke eenheid dan wel de desbetreffende regionale eenheid van de politie;  
 
 *RDW:* Dienst Wegverkeer;  
-
-1°. Dienst Wegverkeer, of  
-
-2°. Lloyd’s Register Nederland B.V.;    
-
-1°. Dienst Wegverkeer, of  
-
-2°. Lloyd’s Register Nederland B.V., of  
-
-3°. klassenbureau, voor zover het betreft tankcontainers of transporttanks voor gevaarlijke stoffen, met uitzondering van gassen van klasse 2 (behoudens de dichtheidsproef);    
 
 1°. Minister van Veiligheid en Justitie,  
 
@@ -484,15 +460,13 @@ Indien een bevoegde instantie van een andere lidstaat van de Europese Unie de Mi
 
 *TNO DV:* kerngebied Defensie en Veiligheid van de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek;  
 
-*TNO C:* TNO Certification B.V. van de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek;  
-
 *VWS:* Minister van Volksgezondheid, Welzijn en Sport.    
 
-2. Bij de uitvoering van de bevoegdheden van V&J, bedoeld in artikel 1 van deze bijlage, geldt als merkteken het rijkstypekeur.    
+2. Bij de uitvoering van de bevoegdheden van V&J, bedoeld in artikel 1 van deze bijlage, geldt als merkteken het rijkstypekeur.    
 
-### Artikel  3  
+#### *Artikel 3.* 
 
-1. In dit artikel wordt verstaan onder: 
+1. In dit artikel wordt verstaan onder: 
 
 a. overeenstemming vooraf: het CBR doet schriftelijk een voorstel aan de Minister, die, indien akkoord, instemt;  
 
@@ -504,20 +478,18 @@ b. informatie achteraf: het CBR informeert schriftelijk achteraf de Minister doo
 
 3°. een evaluatie van het in onderdeel a en b genoemde.      
 
-2. Bij het uitoefenen van zijn bevoegdheden, bedoeld in artikel 1 van deze bijlage, geeft het CBR toepassing aan tabel 2.    Tabel 2. Specificatie bevoegdheden CBR 
+2. Bij het uitoefenen van zijn bevoegdheden, bedoeld in artikel 1 van deze bijlage, geeft het CBR toepassing aan tabel 2.    Tabel 2. Specificatie bevoegdheden CBR 
 
 | ADR-randnummer  | bevoegdheid van het CBR  | overeenstemming vooraf  | Informatie achteraf  |
 |:---|:---|:---|:---|
-| 8.2.1.2, 8.2.1.4 + 8.5; S1, S11, S12, 8.2.1.5, 8.2.1.6, 8.2.2.1  | Afgifte vakbekwaamheids-  certificaten en aantekening herhalingscursus  | --- | X  |
+| 8.2.1.2, 8.2.1.4 + 8.5; S1, S11, S12, 8.2.1.5, 8.2.1.6, 8.2.2.1  | Afgifte vakbekwaamheids- certificaten en aantekening herhalingscursus  | --- | X  |
 | 8.2.1.2, 8.2.1.3, 8.2.1.4, 8.2.2.3.1, 8.2.2.3.2, 8.2.2.3.3, 8.2.2.3.4, 8.2.2.3.5  | inhoudelijke eisen opleiding: vaststellen eindtermen  | X  | --- |
 | 8.2.2.6.1, 8.2.2.6.4, 8.2.2.6.5  | goedkeuren van de opleidingen; vaststellen van erkenningsrichtlijn  | X  | --- |
 | 8.2.2.7.1.3, 8.2.2.7.1.6  | eisen aan examens en wijze van examineren: opstellen van examenrichtlijn en afnemen examen  | X  | --- |
 
-### Artikel  4  
+#### *Artikel 4. Erkenningsvoorwaarden* 
 
-####Erkenningsvoorwaarden
-
-1. Een in artikel 1 erkende instantie, met uitzondering van bij de Staat der Nederlanden behorende organen, de politie en de brandweer, bedoeld in artikel 2: 
+1. Een in artikel 1 erkende instantie, met uitzondering van bij de Staat der Nederlanden behorende organen, de politie en de brandweer, bedoeld in artikel 2: 
 
 a. heeft rechtspersoonlijkheid;  
 
@@ -533,7 +505,7 @@ e. voldoet aan andere door de Minister met het oog op het behoorlijk uitvoeren v
 
 3. De erkende instantie, bedoeld in het eerste lid, verstrekt de Minister binnen zes maanden na afloop van het kalenderjaar een overzicht van de in dat jaar verrichte keuringen, bevattende goedkeuringen, weigeringen tot goedkeuring, alsmede de redenen voor weigeringen tot goedkeuring.  
 
-4. De erkende instantie, bedoeld in het eerste lid, verstrekt alle inlichtingen die namens de Minister verlangd worden door de Inspecteur-Generaal Verkeer en Waterstaat en die betrekking hebben op het eerste lid voor zover betreffende handelingen met betrekking tot wagens en tanks als bedoeld in bijlage 1.    
+4. De erkende instantie, bedoeld in het eerste lid, verstrekt alle inlichtingen die namens de Minister verlangd worden door de Inspecteur-Generaal Leefomgeving en Transport en die betrekking hebben op het eerste lid voor zover betreffende handelingen met betrekking tot wagens en tanks als bedoeld in bijlage 1.    
 
 ### Bijlage  4  
 
@@ -918,9 +890,9 @@ Vervallen.
 
 #### *Hoofdstuk IV Chassis* 
 
-#### *Artikel 42 één-assige aanhangwagens* 
+#### *Artikel 42* 
 
-Eén-assige en meerassige middenasaanhangwagens zijn uitsluitend toegestaan voor het vervoer van vaste (poeder- of korrelvormige) stoffen.  
+Vervallen.   
 
 #### *Artikel 43 steunpoten* 
 

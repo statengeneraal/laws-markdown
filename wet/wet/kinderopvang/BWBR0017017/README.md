@@ -40,7 +40,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a. die plaatsvindt door tussenkomst van een geregistreerd gastouderbureau;  
 
-b. die plaatsvindt in een gezinssituatie door een ander dan degene die als ouder op grond van artikel 1.5, eerste lid, aanspraak kan maken op een kinderopvangtoeslag onderscheidenlijk een tegemoetkoming of diens partner;  
+b. die plaatsvindt in een gezinssituatie door een ander dan degene die als ouder op grond van artikel 1.5, eerste lid, aanspraak kan maken op een kinderopvangtoeslag of diens partner;  
 
 c. waarbij de opvang plaatsvindt: 
 
@@ -101,49 +101,41 @@ c. verzorging en opvoeding die plaatsvindt in het kader van de [Wet op de jeugdz
 
 d. de verzorging, de opvoeding en het bijdragen aan de ontwikkeling van kinderen, anders dan gastouderopvang, die geschiedt op een plaats waar het kind zijn hoofdverblijf heeft.     
 
-### Artikel  1.1a  
-
-1.  Op deze wet is de [Algemene wet inkomensafhankelijke regelingen](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) van toepassing met uitzondering van [artikel 5 van die wet](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) op wijzigingen in de kosten van kinderopvang per kind als bedoeld in artikel 7, eerste lid, onderdeel b.   
-2.  De uitvoering van het toekennen, uitbetalen en terugvorderen van de kinderopvangtoeslag is opgedragen aan de Belastingdienst/Toeslagen.   
-3.  In afwijking in zoverre van het eerste lid zijn met betrekking tot tegemoetkomingen van de gemeente en van het Uitvoeringsinstituut werknemersverzekeringen alleen de volgende bepalingen van de [Algemene wet inkomensafhankelijke regelingen](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) van overeenkomstige toepassing: 
-
-a. [artikel 2, eerste lid, onderdelen b, g en p](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md),  
-
-b. [artikel 3](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md),  
-
-c. [artikel 4](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md),  
-
-d. [artikel 6](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md),  
-
-e. [artikel 9](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md),  
-
-f. [artikel 10](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md),  
-
-g. [artikel 44](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md).     
-4.  In afwijking van [artikel 4, derde lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) wordt een kind voor wie de pleegouder een subsidie ontvangt op grond van de [Wet op de jeugdzorg](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), geacht door die pleegouder in belangrijke mate te worden onderhouden.   
-5.  In afwijking van [artikel 15, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), heeft een ouder over de berekeningsjaren 2012 en volgende geen aanspraak op kinderopvangtoeslag als bedoeld in artikel 1.5 over de periode tot de eerste dag van de kalendermaand voor de datum waarop de aanvraag om kinderopvangtoeslag is ingediend bij de Belastingdienst/Toeslagen.   
-
 ### Afdeling  2  
 
-####Kinderopvangtoeslag en tegemoetkomingen in de kosten van kinderopvang
+####Kinderopvangtoeslag
 
 ### Paragraaf  1  
 
-####Aanspraken op kinderopvangtoeslag en tegemoetkomingen in de kosten van kinderopvang
+####Uitvoering van de kinderopvangtoeslag
+
+### Artikel  1.3  
+
+1.  De uitvoering van het toekennen, uitbetalen en terugvorderen van de kinderopvangtoeslag is opgedragen aan de Belastingdienst/Toeslagen.   
+2.  Op deze wet is de [Algemene wet inkomensafhankelijke regelingen](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) van toepassing met uitzondering van [artikel 5 van die wet](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) op wijzigingen in de kosten van kinderopvang per kind, bedoeld in artikel 1.7, eerste lid, onderdeel b, met dien verstande dat: 
+
+a. in afwijking van [artikel 4, derde lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) een kind voor wie de pleegouder een subsidie ontvangt op grond van de Wet op de jeugdzorg, geacht wordt door die pleegouder in belangrijke mate te worden onderhouden;  
+
+b. in afwijking van [artikel 15, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), een ouder over de berekeningsjaren 2012 en volgende geen aanspraak op kinderopvangtoeslag als bedoeld in artikel 1.5 heeft over de periode tot de eerste dag van de kalendermaand voor de datum waarop de aanvraag om kinderopvangtoeslag is ingediend bij de Belastingdienst/Toeslagen.     
+
+### Artikel  1.4  
+
+1.  Met het oog op het toekennen van een kinderopvangtoeslag verstrekt de ouder, bedoeld in artikel 1.5, eerste lid, aan de Belastingdienst/Toeslagen het unieke nummer, bedoeld in artikel 1.47a, derde lid.   
+2.  Bij ministeriële regeling kunnen voorschriften worden gegeven met betrekking tot de verstrekking.   
+
+### Paragraaf  2  
+
+####Aanspraak op kinderopvangtoeslag
 
 ### Artikel  1.5  
 
-1.  Een ouder heeft aanspraak op een kinderopvangtoeslag in de door hem of zijn partner te betalen kosten jegens het Rijk onderscheidenlijk aanspraak op een tegemoetkoming in de door hem of zijn partner te betalen kosten van kinderopvang jegens de gemeente of jegens het Uitvoeringsinstituut werknemersverzekeringen, indien het betreft: 
+1.  Een ouder heeft aanspraak op een kinderopvangtoeslag in de door hem of zijn partner te betalen kosten, indien het betreft: 
 
 a. kinderopvang in een geregistreerd kindercentrum; of  
 
 b. gastouderopvang in een geregistreerde voorziening voor gastouderopvang die plaatsvindt door tussenkomst van een geregistreerd gastouderbureau.     
 2.  Een ouder en diens partner die tevens ouder is worden voor de toepassing van deze wet geacht gezamenlijk één aanspraak te hebben.   
 3.  Indien een gastouderbureau uit het register kinderopvang, bedoeld in artikel 1.47a, wordt verwijderd, geldt de in het eerste lid, onderdeel b, bedoelde voorwaarde van registratie van het gastouderbureau niet, gedurende een bij algemene maatregel van bestuur te bepalen uitlooptermijn waarbinnen de voorziening voor gastouderopvang op grond van artikel 1.47a, tweede lid, onderdeel c, in het register kinderopvang ingeschreven blijft.   
-
-### Paragraaf  2  
-
-####Kinderopvangtoeslag
 
 ### Artikel  1.6  
 
@@ -161,9 +153,9 @@ e. de leeftijd van 18 jaar nog niet heeft bereikt, scholing of een opleiding vol
 
 f. als niet-uitkeringsgerechtigde werkzoekende is geregistreerd bij het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), en gebruik maakt van een voorziening gericht op arbeidsinschakeling als bedoeld in [artikel 7, eerste lid, onder a, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md),  
 
-g. een inburgeringsvoorziening volgt als bedoeld in [artikel 19 van de Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md), met uitzondering van de ouder die op grond van de onderdelen c of h van dit artikellid een tegemoetkoming ontvangt,  
+g. inburgeringsplichtig is als bedoeld in [artikel 1, onderdeel b, van de Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md) en bij een cursusinstelling een cursus volgt die opleidt tot het examen, bedoeld in [artikel 7, tweede lid, onderdeel a, van die wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) of een diploma, certificaat of ander document, bedoeld in [artikel 5, eerste lid, onderdeel c, van die wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), en voldoet aan de bij of krachtens algemene maatregel van bestuur als bedoeld in [artikel 16, eerste lid, van die wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) gegeven regels omtrent het volgen van die cursus bij een cursusinstelling,  
 
-h. recht heeft op of een uitkering ontvangt op grond van [hoofdstuk II van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), en blijkens de bijlage of het plan, bedoeld in [artikel 29, tweede lid, van die wet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), deelneemt aan een traject gericht op het vergroten van de mogelijkheden tot inschakeling in het arbeidsproces of onbeloonde werkzaamheden op een proefplaats als bedoeld in [artikel 76a van die wet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) bij een werkgever verricht,  
+h. recht heeft op of een uitkering ontvangt op grond van de [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) en deelneemt aan scholing als bedoeld in [artikel 76 van die wet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) of werkzaamheden verricht als bedoeld in [artikel 76a](../../../../wet/werkloosheidswet/BWBR0004045/README.md) of [77a van die wet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) met behoud van die uitkering dan wel op andere wijze deelneemt aan een traject gericht op arbeidsinschakeling,  
 
 i. recht heeft op een arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), arbeidsondersteuning op grond van de Wet werk en arbeidsondersteuning jonggehandicapten of een uitkering op grond van [hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of recht heeft op ziekengeld op grond van de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md): 
 
@@ -208,189 +200,70 @@ b. de kosten van kinderopvang per kind die worden bepaald door:
 2º. de voor die kinderopvang te betalen prijs, met inachtneming van het bedrag, bedoeld in het tweede lid, en  
 
 3º. de soort kinderopvang.       
-2.  De uurprijs die bij de hoogte van de kinderopvangtoeslag, bedoeld in het eerste lid, in aanmerking wordt genomen gaat een bij algemene maatregel van bestuur vast te stellen bedrag niet te boven. Dat bedrag kan per soort kinderopvang verschillend worden vastgesteld en kan voor kinderopvang die plaatsvindt in landen die geen deel uitmaken van de Europese Unie dan wel geen partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte lager worden vastgesteld.   
-3.  Bij algemene maatregel van bestuur kunnen regels worden gesteld over de redelijke verhouding tussen het aantal, al dan niet in dienstverband, gewerkte uren van de ouder en zijn partner alsmede de in verband daarmee benodigde reistijd, en het aantal uren kinderopvang waarvoor toeslag kan worden aangevraagd. Desgevraagd toont de ouder ten genoegen van de Belastingdienst/Toeslagen aan dat aan de in de eerste volzin bedoelde regels is voldaan.   
+2.  De uurprijs die bij de hoogte van de kinderopvangtoeslag, bedoeld in het eerste lid, in aanmerking wordt genomen gaat een bij algemene maatregel van bestuur vast te stellen bedrag niet te boven. Dat bedrag kan per opvangsoort verschillend worden vastgesteld.   
+3.  Bij algemene maatregel van bestuur kunnen regels worden gesteld over de redelijke verhouding tussen het aantal uren dat de ouder en zijn partner arbeid verrichten, gebruik maken van een voorziening die gericht is op arbeidsinschakeling, of scholing of een opleiding volgen, alsmede de in verband daarmee benodigde reistijd, en het aantal uren kinderopvang waarvoor kinderopvangtoeslag kan worden aangevraagd.   
 4.  Het aantal uren kinderopvang dat in aanmerking wordt genomen bij de hoogte van de kinderopvangtoeslag, bedoeld in het eerste lid, gaat een bij algemene maatregel van bestuur vast te stellen maximum, dat per soort kinderopvang of per leeftijdsgroep verschillend kan worden vastgesteld, niet te boven.   
-5.  De bedragen, bedoeld in het tweede lid, en de mate waarin het toetsingsinkomen van de ouder en, indien hij een partner heeft, dat van zijn partner een rol speelt bij de hoogte van de kinderopvangtoeslag, worden per 1 januari van ieder kalenderjaar bij regeling van Onze Minister herzien aan de hand van een bij algemene maatregel van bestuur aan te wijzen index ter zake van lonen of prijzen.   
-6.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de hoogte en de berekeningswijze van de kinderopvangtoeslag, waarbij tevens tabellen worden vastgesteld, waaruit de relatie tussen de kosten van kinderopvang en de kinderopvangtoeslag kan worden afgelezen.   
 
 ### Artikel  1.8  
 
-1.  Indien een ouder en diens partner tegenwoordige arbeid verrichten als bedoeld in artikel 1.6, eerste lid, onder a of b, wordt de kinderopvangtoeslag vermeerderd met een bedrag dat overeenkomt met een derde deel van de kosten van kinderopvang, bedoeld in artikel 1.7, eerste lid.   
-2.  Voor een ouder die geen partner heeft en tegenwoordige arbeid verricht als bedoeld in artikel 1.6, eerste lid, onder a of b, wordt de kinderopvangtoeslag vermeerderd met een bedrag dat overeenkomt met een zesde deel van de kosten van kinderopvang, bedoeld in artikel 1.7, eerste lid.   
-3.  Het tweede lid is van overeenkomstige toepassing op een ouder met een partner die een persoon is als bedoeld in artikel 1.22, eerste lid, onderdeel a, of artikel 1.29, eerste lid, onderdeel a.   
-4.  Bij de toepassing van het eerste tot en met derde lid is artikel 1.7, tweede en vierde lid, van overeenkomstige toepassing.   
+1.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de hoogte en de berekeningswijze van de kinderopvangtoeslag, waarbij tevens tabellen worden vastgesteld, waaruit de relatie tussen de kosten van kinderopvang en de kinderopvangtoeslag kan worden afgelezen.   
+2.  Bij algemene maatregel van bestuur kunnen regels worden gesteld over de hoogte van het bedrag dat als vaste eigen bijdrage van de ouder in mindering wordt gebracht op de kinderopvangtoeslag. Daarbij kunnen het toetsingsinkomen van de ouder en zijn partner, de aanwezigheid van een partner en het aantal kinderen in aanmerking worden genomen.   
 
 ### Artikel  1.9  
 
-1.  De financiële middelen tot dekking van de uitgaven voor de vermeerdering van de kinderopvangtoeslag, bedoeld in artikel 1.8, eerste tot en met derde lid, voor zover toegekend aan ouders die als werknemer of overheidswerknemer tegenwoordige arbeid verrichten als bedoeld in artikel 1.6, eerste lid, onder a, worden verkregen door het heffen van een opslag op de premie die ten gunste komt van het sectorfonds, bedoeld in [artikel 23, tweede lid, van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), onderscheidenlijk de premie, bedoeld in [artikel 29 van die wet](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).   
+De bedragen, bedoeld in artikel 1.7, tweede lid, de mate waarin het toetsingsinkomen van de ouder en, indien hij een partner heeft, dat van zijn partner een rol speelt bij de hoogte van de kinderopvangtoeslag, en het bedrag, bedoeld in artikel 1.8, tweede lid, worden bij het begin van het kalenderjaar bij ministeriële regeling gewijzigd aan de hand van een bij algemene maatregel van bestuur aan te wijzen index ter zake van lonen of prijzen.  
+
+### Paragraaf  3  
+
+####Financiële middelen tot dekking van kinderopvangtoeslag
+
+### Artikel  1.10  
+
+1.  De financiële middelen tot dekking van de uitgaven voor de kinderopvangtoeslag kunnen mede worden verkregen door het heffen van een opslag op de premie, die ten gunste komt van een sectorfonds als bedoeld in [artikel 23, tweede lid, van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) dan wel een opslag op de premie, bedoeld in [artikel 29 van die wet](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).   
 2.  De premieopslagen, bedoeld in het eerste lid, zijn verschuldigd door de werkgever onderscheidenlijk de overheidswerkgever.   
 3.  De premieopslagen worden vastgesteld bij ministeriële regeling. De [artikelen 26](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) onderscheidenlijk [31 van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) zijn van overeenkomstige toepassing.   
 4.  Op de heffing en invordering van de premieopslagen zijn de [artikelen 57](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [59](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en [60 van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) van overeenkomstige toepassing.   
 
-### Artikel  1.10  
+### Paragraaf  4  
 
-Met het oog op toepassing van artikel 1.5, eerste lid, verstrekt de in dat lid bedoelde ouder aan de Belastingdienst/Toeslagen, het unieke nummer, bedoeld in artikel 1.47a, derde lid. Bij regeling van Onze Minister kunnen voorschriften worden gegeven met betrekking tot de verstrekking.  
+####Overige bepalingen
 
-### Paragraaf  3  
+### Artikel  1.11  
 
-####Tegemoetkoming van de gemeente
+De kinderopvangtoeslag blijft buiten beschouwing bij de verlening van andere op het inkomen of vermogen afgestemde publiekrechtelijke uitkeringen en verstrekkingen.  
 
-### Artikel  1.22  
+### Artikel  1.12  
 
-1.  Een ouder heeft in een berekeningsjaar aanspraak op een tegemoetkoming van de gemeente: 
+1.  Het college van burgemeester en wethouders stelt op aanvraag van de ouder vast of hij of zijn partner dan wel het kind van de ouder een geïndiceerde persoon is als bedoeld in artikel 1.6, eerste lid, onderdeel k of l, en in welke mate uit dien hoofde, voor zover andere voorzieningen geen passender oplossing kunnen bieden, kinderopvang in de zin van deze wet noodzakelijk is.   
+2.  Een aanvraag als bedoeld in het eerste lid wordt ingediend bij het college van burgemeester en wethouders van de gemeente waar de ouder zijn woonplaats heeft als bedoeld in de [artikelen 10, eerste lid](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), en [11 van Boek 1 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md).   
+3.  Alvorens te besluiten, wint het college van burgemeester en wethouders ten behoeve van de vaststelling van de noodzakelijkheid van kinderopvang als bedoeld in het eerste lid advies in van een onafhankelijke organisatie die beschikt over adequate deskundigheid.   
+4.  Het besluit van het college van burgemeester en wethouders vermeldt de geldigheidsduur van de indicatie.   
+5.  Het college van burgemeester en wethouders kan periodiek herindicatie verrichten van personen als bedoeld in het eerste lid. De herindicatie vindt plaats overeenkomstig het derde lid.   
+6.  Bij of krachtens algemene maatregel van bestuur kunnen: 
 
-a. voor zover de ouder in dat jaar een persoon is die een uitkering ontvangt en gebruik maakt van een voorziening gericht op arbeidsinschakeling als bedoeld in artikel 1.6, eerste lid, onder c of e, of als niet-uitkeringsgerechtigde gebruik maakt van een voorziening gericht op arbeidsinschakeling als bedoeld in artikel 1.6, eerste lid, onder f, voor wie het college van burgemeester en wethouders op grond van [artikel 7, eerste lid, aanhef en onder a, of derde lid, tweede zin, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), [artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), of [artikel 30a, derde lid, onder a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), verantwoordelijk is voor het ondersteunen bij arbeidsinschakeling;  
+a. nadere regels worden gesteld met betrekking tot de krachtens dit artikel aan de gemeente opgedragen taken en de wijze van uitoefening daarvan;  
 
-b. voor zover de ouder in dat jaar een persoon is als bedoeld in artikel 1.6, eerste lid, onder g, j, k of l;  
+b. organisaties als bedoeld in het derde lid worden aangewezen, waarbij tevens regels kunnen worden gesteld omtrent de door die organisaties te hanteren werkwijze.     
 
-c. voor zover de ouder in dat jaar een persoon is als bedoeld onder a of b, en zijn partner in dat jaar een persoon die in Nederland, een andere lidstaat of Zwitserland woont en een uitkering ontvangt als bedoeld in artikel 1.6, eerste lid, onder c of e, en gebruik maakt van een in één van die onderdelen bedoelde voorziening gericht op arbeidsinschakeling, voor wie het college van burgemeester en wethouders op grond van de wetten, genoemd onder a, verantwoordelijk is voor het ondersteunen bij arbeidsinschakeling, of een daarmee vergelijkbare uitkering respectievelijk voorziening, vastgesteld krachtens de wetgeving van een andere lidstaat of Zwitserland, of voor zover de partner in dat jaar een persoon is als bedoeld onder b;  
+### Artikel  1.13  
 
-d. voor zover de ouder in dat jaar een persoon als bedoeld onder a of b, en zijn partner in dat jaar een persoon die in Nederland, een andere lidstaat of Zwitserland woont en een uitkering ontvangt als bedoeld in artikel 1.6, eerste lid, onder h of i, en gebruik maakt van een in één van die onderdelen bedoelde voorziening gericht op arbeidsinschakeling, voor wie het Uitvoeringsinstituut werknemersverzekeringen verantwoordelijk is voor het ondersteunen bij arbeidsinschakeling of een daarmee vergelijkbare uitkering respectievelijk voorziening, vastgesteld krachtens de wetgeving van een andere lidstaat of Zwitserland;  
-
-e. voor zover de ouder in dat jaar een persoon is als bedoeld in artikel 1.29, eerste lid, onder a, en zijn partner in dat jaar een persoon als bedoeld onder c;  
-
-f. voor zover de ouder in dat jaar een persoon als bedoeld onder a of b, en zijn partner in dat jaar een persoon die in Nederland, een andere lidstaat of Zwitserland woont en in Nederland of op het continentaal plat, in een andere lidstaat of in Zwitserland arbeid verricht;  
-
-g. voor zover de ouder in dat jaar een persoon is als bedoeld in artikel 1.6, eerste lid, onder a, en zijn partner in dat jaar een persoon als bedoeld onder c.     
-2.  Aanspraak op een tegemoetkoming van de gemeente heeft eveneens een ouder, voor zover de ouder in een berekeningsjaar een persoon is als bedoeld in artikel 1.6, eerste lid, onder a, en algemene bijstand ontvangt op grond van de [Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en, indien hij een partner heeft, voor zover zijn partner een persoon is die in Nederland, een andere lidstaat of Zwitserland woont en in Nederland of op het continentaal plat, in een andere lidstaat of in Zwitserland arbeid verricht en algemene bijstand ontvangt op grond van de Wet werk en bijstand of een daarmee vergelijkbare uitkering, vastgesteld krachtens de wetgeving van een andere lidstaat of Zwitserland.   
-3.  De aanspraak bestaat jegens de gemeente waar de ouder zijn woonplaats heeft als bedoeld in de [artikelen 10, eerste lid](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), en [11 van Boek 1 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md).   
-4.  Een persoon als bedoeld in het eerste lid, onder a of b, heeft slechts aanspraak op een tegemoetkoming, indien hij geen partner heeft.   
-5.  Een ouder heeft in de berekeningsjaren 2012 en volgende geen aanspraak op een tegemoetkoming van de gemeente over de periode tot de eerste dag van de kalendermaand voor de datum waarop de aanvraag om die tegemoetkoming is ingediend bij de gemeente.   
+Het college van burgemeester en wethouders kan aan een ouder als bedoeld in artikel 1.6, eerste lid, onderdelen c, e, j, k of l, een tegemoetkoming verstrekken in aanvulling op de kinderopvangtoeslag, zodanig dat het totaal van de kinderopvangtoeslag en de tegemoetkoming niet meer bedraagt dan de kosten van kinderopvang, bedoeld in artikel 1.7, eerste lid.  
 
 ### Artikel  1.23  
 
 Door vernummering vervallen.   
 
-### Artikel  1.24  
-
-1.  De tegemoetkoming van de gemeente bedraagt: 
-
-a. voor een ouder als bedoeld in artikel 1.22 eerste lid, onder c, voorzover de ouder een persoon is als bedoeld in artikel 1.6, eerste lid, onder c, e of f, een derde deel van de kosten van kinderopvang, verhoogd met een bij regeling van Onze Minister zodanig vast te stellen bedrag, dat het totaal aan kinderopvangtoeslag en tegemoetkoming van de gemeente niet meer bedraagt dan de kosten van kinderopvang, bedoeld in artikel 1.7, eerste lid;  
-
-b. voor een ouder als bedoeld in artikel 1.22, eerste lid, onder c, voor zover de ouder een persoon is als bedoeld in artikel 1.6, eerste lid, onder g, j, k of l, een derde deel van de kosten van kinderopvang, bedoeld in artikel 1.7, eerste lid.     
-2.  De tegemoetkoming van de gemeente bedraagt: 
-
-a. voor een ouder als bedoeld in artikel 1.22, eerste lid, onder a, b, d, e, f of g, voorzover de ouder een persoon is als bedoeld in artikel 1.6, eerste lid, onder c, e of f, een zesde deel van de kosten van kinderopvang, verhoogd met een bij regeling van Onze Minister zodanig vast te stellen bedrag, dat het totaal aan kinderopvangtoeslag en tegemoetkoming van de gemeente niet meer bedraagt dan kosten van kinderopvang, bedoeld in artikel 1.7, eerste lid;  
-
-b. voor een ouder als bedoeld in artikel 1.22, eerste lid, onder a, b, d, e, f of g, voorzover de ouder een persoon is als bedoeld in artikel 1.6, eerste lid, onder g, j, k of l, een zesde deel van de kosten van kinderopvang, bedoeld in artikel 1.7, eerste lid.     
-3.  De tegemoetkoming van de gemeente bedraagt voor een ouder of zijn partner als bedoeld in artikel 1.22, tweede lid, een bij regeling van Onze Minister zodanig vast te stellen bedrag, dat het totaal aan kinderopvangtoeslag en tegemoetkoming van de gemeente niet meer bedraagt dan de kosten van kinderopvang, bedoeld in artikel 1.7, eerste lid.   
-4.  Bij regeling van Onze Minister kunnen regels worden gesteld ter voorkoming van samenloop van tegemoetkomingen ingevolge dit artikel, voorzover de ouder en zijn partner personen zijn als bedoeld in het eerste lid, onder a, onderscheidenlijk met tegemoetkomingen ingevolge artikel 1.30, voorzover het gevallen betreft, waarin, ofwel de ouder ofwel zijn partner een persoon is als bedoeld in het tweede lid, onder a, en de ander een persoon is als bedoeld in artikel 1.30, tweede lid.   
-
-### Artikel  1.25  
-
-De gemeenteraad stelt bij verordening regels vast omtrent de tegemoetkoming van de gemeente. Deze regels hebben betrekking op de verlening, de voorschotverlening en de vaststelling van de tegemoetkoming.  
-
-### Artikel  1.26  
-
-1.  De tegemoetkoming wordt door de ouder aangevraagd bij het college van burgemeester en wethouders.   
-2.  De ouder doet bij de aanvraag zo mogelijk opgave van zijn burgerservicenummer, of bij het ontbreken daarvan, zijn sociaal-fiscaalnummer en dat van zijn partner en van het kind waarop de tegemoetkoming betrekking heeft.   
-3.  Indien de ouder een partner heeft, wordt de aanvraag mede ondertekend door die partner.   
-
-### Artikel  1.27  
-
-Het college van burgemeester en wethouders maakt bij de uitvoering van deze wet gebruik van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer.  
-
-### Artikel  1.28  
-
-1.  De ouder verstrekt desgevraagd aan het college van burgemeester en wethouders alle gegevens en inlichtingen van hem en zijn partner die voor de aanspraak op en de hoogte van de tegemoetkoming van de gemeente van belang zijn.   
-2.  De inlichtingen en gegevens, bedoeld in het eerste lid, worden verstrekt binnen een door het college van burgemeester en wethouders te stellen redelijke termijn.   
-3.  Inlichtingen en gegevens die kunnen leiden tot de vaststelling van een lagere tegemoetkoming worden, onmiddellijk na het bekend worden daarvan, door de ouder schriftelijk verstrekt aan het college van burgemeester en wethouders.   
-4.  De houder verstrekt desgevraagd aan het college van burgemeester en wethouders alle gegevens en inlichtingen die voor de aanspraak van een ouder op de tegemoetkoming van de gemeente van belang zijn.   
-
-### Paragraaf  4  
-
-####Tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen
-
-### Artikel  1.29  
-
-1.  Een ouder heeft in een berekeningsjaar aanspraak op een tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen: 
-
-a. voor zover de ouder in dat jaar een persoon is die een uitkering ontvangt en gebruik maakt van een voorziening gericht op arbeidsinschakeling als bedoeld in artikel 1.6, eerste lid, onder h of i, tenzij het college van burgemeester en wethouders op grond van [artikel 30a, derde lid, onder a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) of op grond van [artikel 7, derde lid, tweede zin, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) verantwoordelijk is voor het ondersteunen van die ouder bij arbeidsinschakeling;  
-
-b. voor zover de ouder in dat jaar een persoon is als bedoeld onder a, en zijn partner in dat jaar een persoon die in Nederland, een andere lidstaat of Zwitserland woont en een uitkering ontvangt als bedoeld in artikel 1.6, eerste lid, onder h of i, en gebruik maakt van een in één van die onderdelen bedoelde voorziening gericht op arbeidsinschakeling, tenzij het college van burgemeester en wethouders op grond van de wetten, genoemd onder a, verantwoordelijk is voor het ondersteunen van die partner bij arbeidsinschakeling of een daarmee vergelijkbare uitkering respectievelijk voorziening, vastgesteld krachtens de wetgeving van een andere lidstaat of Zwitserland;  
-
-c. voor zover de ouder in dat jaar een persoon is als bedoeld onder a, en zijn partner in dat jaar een persoon als bedoeld in artikel 1.22, eerste lid, onder c;  
-
-d. voor zover de ouder in dat jaar een persoon is als bedoeld in artikel 1.22, eerste lid, onder a of b, en zijn partner in dat jaar een persoon als bedoeld onder b;  
-
-e. voor zover de ouder in dat jaar een persoon is als bedoeld onder a, en zijn partner in dat jaar een persoon die in Nederland, een andere lidstaat of Zwitserland woont en in Nederland of op het continentaal plat, in een andere lidstaat of in Zwitserland arbeid verricht;  
-
-f. voor zover de ouder in dat jaar een persoon is als bedoeld in artikel 1.6, eerste lid, onder a, en zijn partner een persoon als bedoeld onder b.     
-2.  Een persoon als bedoeld in het eerste lid onder a heeft slechts aanspraak op een tegemoetkoming indien hij geen partner heeft.   
-3.  Een ouder heeft in de berekeningsjaren 2012 en volgende geen aanspraak op een tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen over de periode tot de eerste dag van de kalendermaand voor de datum waarop de aanvraag om die tegemoetkoming is ingediend bij het Uitvoeringsinstituut werknemersverzekeringen.   
-
-### Artikel  1.30  
-
-1.  De tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen bedraagt voor een ouder als bedoeld in artikel 1.29, eerste lid, onder b, voorzover de ouder een persoon is als bedoeld in artikel 1.6, eerste lid, onder h of i, een derde deel van de kosten van kinderopvang, verhoogd met een bij regeling van Onze Minister zodanig vast te stellen bedrag, dat het totaal aan kinderopvangtoeslag en tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen niet meer bedraagt dan de kosten van kinderopvang, bedoeld in artikel 1.7, eerste lid.   
-2.  De tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen bedraagt voor de overige ouders, bedoeld in artikel 1.29, eerste lid, voorzover de ouder een persoon is als bedoeld in artikel 1.6, eerste lid, onder h of i, een zesde deel van de kosten van kinderopvang, verhoogd met een bij regeling van Onze Minister zodanig vast te stellen bedrag, dat het totaal aan kinderopvangtoeslag en tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen niet meer bedraagt dan de kosten van kinderopvang, bedoeld in artikel 1.7, eerste lid.   
-3.  Bij regeling van Onze Minister kunnen regels worden gesteld ter voorkoming van samenloop van tegemoetkomingen ingevolge dit artikel, voorzover de ouder en zijn partner personen zijn als bedoeld in het eerste lid, onderscheidenlijk met tegemoetkomingen ingevolge artikel 1.24, voorzover het gevallen betreft, waarin, ofwel de ouder ofwel zijn partner een persoon is als bedoeld in het tweede lid en de ander een persoon is als bedoeld in artikel 1.24, tweede lid, onder a.   
-
-### Artikel  1.31  
-
-1.  De tegemoetkoming wordt door de ouder aangevraagd bij het Uitvoeringsinstituut werknemersverzekeringen.   
-2.  De ouder doet bij de aanvraag zo mogelijk opgave van zijn zijn burgerservicenummer of, bij het ontbreken daarvan, zijn sociaal-fiscaalnummer en dat van zijn partner en van het kind waarop de tegemoetkoming betrekking heeft.   
-3.  Indien de ouder een partner heeft, wordt de aanvraag mede ondertekend door die partner.   
-
-### Artikel  1.32  
-
-Het Uitvoeringsinstituut werknemersverzekeringen maakt bij de uitvoering van deze wet gebruik van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer.  
-
-### Artikel  1.33  
-
-1.  De ouder verstrekt desgevraagd aan het Uitvoeringsinstituut werknemersverzekeringen alle gegevens en inlichtingen van hem en zijn partner die voor de aanspraak op en de hoogte van de tegemoetkoming van het Uitvoeringsinstituut van belang zijn.   
-2.  De inlichtingen en gegevens, bedoeld in het eerste lid, worden verstrekt binnen een door het Uitvoeringsinstituut werknemersverzekeringen te stellen redelijke termijn.   
-3.  Inlichtingen en gegevens die kunnen leiden tot de vaststelling van een lagere tegemoetkoming worden, onmiddellijk na het bekend worden daarvan, door de ouder schriftelijk verstrekt aan het Uitvoeringsinstituut werknemersverzekeringen.   
-4.  De houder verstrekt desgevraagd aan het Uitvoeringsinstituut werknemersverzekeringen alle gegevens en inlichtingen die voor de aanspraak van een ouder op de tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen van belang zijn.   
-
-### Artikel  1.34  
-
-Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de verlening, de voorschotverlening en de vaststelling van de tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen.  
-
 ### Paragraaf  5  
 
 ####Voortzetting aanspraak tegemoetkomingen
-
-### Artikel  1.35  
-
-1.  Het college van burgemeester en wethouders kan besluiten dat een ouder, die een persoon is als bedoeld in artikel 1.6, eerste lid, onder c, e of f, voor wie het college van burgemeester en wethouders op grond van [artikel 7, eerste lid, aanhef en onder a, of derde lid, tweede volzin, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), [artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) of [artikel 30a, derde lid, onderdeel a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), verantwoordelijk is voor het ondersteunen bij arbeidsinschakeling, na beëindiging van de aanspraak op grond van artikel 1.22, in aansluiting daarop aanspraak heeft op een tegemoetkoming jegens de gemeente. Artikel 1.24 is van toepassing.   
-2.  Het Uitvoeringsinstituut werknemersverzekeringen kan besluiten dat een ouder, die een persoon is als bedoeld in artikel 1.6, eerste lid, onder h of i, tenzij het college van burgemeester en wethouders op grond van [artikel 30a, derde lid, onder a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) of op grond van [artikel 7, derde lid, tweede volzin, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) verantwoordelijk is voor het ondersteunen bij arbeidsinschakeling, na beëindiging van de aanspraak op grond van artikel 1.29, in aansluiting daarop aanspraak heeft op een tegemoetkoming jegens het Uitvoeringsinstituut werknemersverzekeringen. Artikel 1.30 is van toepassing.   
-3.  Een besluit als bedoeld in het eerste of tweede lid wordt slechts genomen met betrekking tot een ouder of diens partner, die naar het oordeel van het college van burgemeesters en wethouders onderscheidenlijk het Uitvoeringsinstituut werknemersverzekeringen of een met het college van burgemeester en wethouders onderscheidenlijk Uitvoeringsinstituut werknemersverzekeringen vergelijkbaar bestuursorgaan in een andere lidstaat of Zwitserland, naar vermogen tracht arbeid in dienstbetrekking te verkrijgen. In een zodanig geval heeft de ouder eveneens aanspraak op een kinderopvangtoeslag, voor zover hij niet reeds een aanspraak heeft op grond van artikel 1.6.   
-4.  Bij regeling van Onze Minister worden regels gesteld omtrent de maximale duur van aanspraken, verleend op grond van het eerste of tweede lid.   
 
 ### Paragraaf  6  
 
 ####Invordering
 
-### Artikel  1.38  
-
-1.  Bedragen door een ouder of diens partner in het kader van deze wet verschuldigd aan de gemeente worden ingevorderd door het college van burgemeester en wethouders. Een bedrag is invorderbaar vanaf een maand na de dag van dagtekening van de beschikking waarbij de vordering is ontstaan.   
-2.  De [artikelen 58 tot en met 60 van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) zijn van overeenkomstige toepassing.   
-
-### Artikel  1.39  
-
-Op de invordering van bedragen door een ouder of diens partner in het kader van deze wet verschuldigd aan het Uitvoeringsinstituut werknemersverzekeringen zijn de [artikelen 57 tot en met 57b van de Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) van overeenkomstige toepassing.  
-
 ### Paragraaf  7  
 
 ####Overige bepalingen
-
-### Artikel  1.40  
-
-De kinderopvangtoeslag, alsmede de tegemoetkomingen van de gemeente of het Uitvoeringsinstituut werknemersverzekeringen blijven buiten beschouwing bij de verlening van andere op het inkomen of vermogen afgestemde publiekrechtelijke uitkeringen en verstrekkingen.  
-
-### Artikel  1.41  
-
-1.  De tegemoetkomingen van de gemeente of het Uitvoeringsinstituut werknemersverzekeringen zijn niet vatbaar voor vervreemding, verpanding, belening of beslag, waaronder begrepen beslag ingevolge faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen, tenzij het betreft de inning van: 
-
-a. vorderingen van houders ter zake van verleende kinderopvang;  
-
-b. vorderingen van de gemeente of het Uitvoeringsinstituut werknemersverzekeringen.     
-2.  Elk beding dat strijdt met het eerste lid, is nietig.   
-
-### Artikel  1.44  
-
-De ouder en zijn partner zijn ten aanzien van schulden voortvloeiend uit vorderingen van de gemeente of het Uitvoeringsinstituut werknemersverzekeringen ingevolge deze wet, hoofdelijk aansprakelijk.  
 
 ### Afdeling  3  
 
@@ -731,26 +604,12 @@ De Belastingdienst/Toeslagen verstrekt aan de GGD kosteloos de gegevens en inlic
 
 ### Artikel  1.72  
 
-1.  Het college van burgemeester en wethouders kan: 
-
-a. de houder die een verplichting als bedoeld bij of krachtens afdeling 3 van dit hoofdstuk, een afspraak als bedoeld in [artikel 167 van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md), een aanwijzing onderscheidenlijk een bevel als bedoeld in artikel 1.65 of [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet nakomt dan wel handelt in strijd met een verbod krachtens artikel 1.66, een bestuurlijke boete opleggen van ten hoogste € 45 000;  
-
-b. de houder die een verplichting als bedoeld in artikel 1.28, vierde lid, niet nakomt een bestuurlijke boete opleggen van ten hoogste € 5000;  
-
-c. de ouder die een verplichting als bedoeld in artikel 1.28, eerste tot en met derde lid, niet nakomt een bestuurlijke boete opleggen van ten hoogste € 2269.     
+1.  Het college van burgemeester en wethouders kan de houder die een verplichting als bedoeld bij of krachtens afdeling 3 van dit hoofdstuk, een afspraak als bedoeld in [artikel 167 van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md), een aanwijzing onderscheidenlijk een bevel als bedoeld in artikel 1.65 of [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet nakomt dan wel handelt in strijd met een verbod krachtens artikel 1.66, een bestuurlijke boete opleggen van ten hoogste € 45 000.   
 2.  In afwijking van het eerste lid kan de overtreding van de houder niet met een bestuurlijke boete worden afgedaan, indien de overtreding opzettelijk of roekeloos geschiedt en een direct gevaar voor de gezondheid of de veiligheid van personen tot gevolg heeft.   
 
 ### Artikel  1.80  
 
 Indien het college van burgemeester en wethouders voornemens is een bestuurlijke boete op te leggen, geeft hij de overtreder daarvan kennis onder de vermelding van de gronden waarop het voornemen berust en overlegging van het rapport.  
-
-### Artikel  1.86  
-
-Het Uitvoeringsinstituut werknemersverzekeringen kan: 
-
-a. aan de ouder die een verplichting gesteld in artikel 1.33 niet nakomt, een bestuurlijke boete opleggen met overeenkomstige toepassing van de [artikelen 29a](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), en [29g van de Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
-
-b. aan de houder die een verplichting gesteld in artikel 1.33, vierde lid, niet nakomt een bestuurlijke boete opleggen met overeenkomstige toepassing van de artikelen 1.72, eerste lid, onder b, en 1.80.    
 
 ### Afdeling  6  
 
@@ -764,11 +623,11 @@ a. de kwaliteit van de aan te wijzen vormen van kinderopvang;
 
 b. het toezicht op de naleving van de regels, bedoeld onder a;  
 
-c. de hoogte van de kinderopvangtoeslag en de hoogte van de tegemoetkomingen van de gemeente en van het Uitvoeringsinstituut werknemersverzekeringen;  
+c. de hoogte van de kinderopvangtoeslag;  
 
 d. de duur van de aan te wijzen vormen van kinderopvang als experiment.   Bij die regels kan worden afgeweken van artikel 1.1, eerste lid, wat betreft de begrippen «gastouderbureau» en «gastouderopvang», artikel 1.1, tweede lid, onderdeel a, artikel 1.7, afdeling 3, met uitzondering van artikel 1.48, alsmede van afdeling 4, paragrafen 1 en 2, en afdeling 5, paragraaf 2, van dit hoofdstuk.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen voorwaarden worden gesteld aan de deelname aan een experiment.   
-3.  Indien toepassing wordt gegeven aan het eerste lid heeft een ouder als bedoeld in de artikelen 1.6, 1.22, 1.29 en 1.35 aanspraak op een kinderopvangtoeslag in de door hem of zijn partner te betalen kosten jegens het Rijk onderscheidenlijk aanspraak op een tegemoetkoming in de door hem of zijn partner te betalen kosten van kinderopvang jegens de gemeente of jegens het Uitvoeringsinstituut werknemersverzekeringen, indien het betreft een experimentele vorm van kinderopvang, welke is geregistreerd.   
+3.  Indien toepassing wordt gegeven aan het eerste lid heeft een ouder als bedoeld in artikel 1.6 aanspraak op een kinderopvangtoeslag in de door hem of zijn partner te betalen kosten, indien het betreft een experimentele vorm van kinderopvang, welke is geregistreerd.   
 4.  Bij algemene maatregel van bestuur kunnen experimenten als bedoeld in het eerste lid na afloop van de looptijd worden voortgezet tot een structurele regeling is getroffen, doch niet langer dan met een tijdsduur van ten hoogste twee jaar. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing.   
 
 ### Artikel  1.88  
@@ -1090,68 +949,11 @@ Een voordracht voor een krachtens deze afdeling vast te stellen algemene maatreg
 
 ####Overgangsbepalingen
 
-### Artikel  3.1  
-
-1.  Het college van burgemeester en wethouders van de gemeente van vestiging draagt er zorg voor dat kindercentra en gastouderbureaus die op het tijdstip van inwerkingtreding van [artikel I, onderdelen G en H, van de wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelsel van gastouderopvang (Stb. 345)](../../../../wet/wijzigingswet/wet/kinderopvang/(herziening/stelsel/gastouderopvang)/BWBR0026299/README.md) zijn opgenomen in het register kinderopvang, bedoeld in artikel 46, zoals dat luidde op de dag voor inwerkingtreding van voornoemde wijzigingswet, voor 1 juli van het eerste kalenderjaar waarop voornoemde wijzigingswet betrekking heeft, worden ingeschreven in het register kinderopvang, bedoeld in artikel 1.47a. Artikel 1.46, derde en vijfde lid, alsmede artikel 1.47, eerste en tweede lid, zijn van toepassing.   
-2.  Indien de overheveling naar het register kinderopvang, bedoeld in het eerste lid, nog niet volledig heeft plaatsgevonden blijft artikel 1.46, zoals dat luidde de dag voorafgaand aan de inwerkingtreding van de in het eerste lid genoemde wijzigingswet, tot 1 juli van het eerste kalenderjaar waarop voornoemde wijzigingswet betrekking heeft van toepassing op het college van burgemeester en wethouders van de desbetreffende gemeente.   
-3.  Een houder van een kindercentrum of gastouderbureau als bedoeld in het eerste lid, verstrekt desgevraagd aan het college de gegevens, bedoeld in artikel 1.45, vierde lid.   
-4.  De in het eerste lid bedoelde inschrijving in het register kinderopvang van gastouderbureaus betreft een voorlopige inschrijving, welke voortduurt tot en met uiterlijk 31 december van het eerste kalenderjaar waarop de in het eerste lid genoemde wijzigingswet betrekking heeft.   
-5.  De in het vierde lid bedoelde inschrijving wordt definitief indien uiterlijk op de in dat lid genoemde datum uit het onderzoek, bedoeld in artikel 1.62, is gebleken dat de exploitatie van het gastouderbureau zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de paragrafen 2 en 3 van afdeling 3 van hoofdstuk 1.   
-
-### Artikel  3.2  
-
-1.  Ter uitvoering van artikel 1.49, derde lid, onderdeel a, is het gastouderbureau gedurende het eerste kalenderjaar na inwerkingtreding van de wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelstel van gastouderopvang (*Stb.* 345) verantwoordelijk voor de beoordeling of de gastouderopvang naar verwachting voor 1 september van genoemd kalenderjaar redelijkerwijs zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de paragrafen 2 en 3 van afdeling 3 van hoofdstuk 1.   
-2.  Het gastouderbureau stelt de ouders die gebruikmaken van de diensten van de gastouder in kennis van zijn in het eerste lid bedoelde beoordeling.   
-3.  Het gastouderbureau stelt de in het tweede lid bedoelde ouders voor de aanvang van het in het eerste lid bedoelde eerste kalenderjaar in kennis van zijn oordeel over de verwachtingen met betrekking tot het tijdig kunnen voldoen aan de in het eerste lid bedoelde eisen door de gastouder.   
-4.  Voor de toepassing van het eerste en derde lid baseert het gastouderbureau zich op geobjectiveerde redelijke maatstaven die aantoonbaar zijn afgeleid van de in het eerste lid bedoelde eisen.   
-5.  Het gastouderbureau stelt zich regelmatig op de hoogte van de inspanningen van de gastouder om voor 1 september van het in het eerste lid bedoelde kalenderjaar overeenkomstig de in het eerste lid bedoelde beoordeling door het gastouderbureau te voldoen aan het bepaalde bij of krachtens de paragrafen 2 en 3 van afdeling 3 van hoofdstuk 1.   
-6.  De gastouder verstrekt aan het gastouderbureau de benodigde informatie met het oog op toepassing van het tweede en derde lid.   
-7.  Ingeval het gastouderbureau redelijkerwijs mag vermoeden dat de in het vijfde lid bedoelde inspanningen van de gastouder tekortschieten, stelt het gastouderbureau de ouder daarvan onverwijld in kennis en bevordert het gastouderbureau dat de ouder gebruik kan maken van de diensten van een gastouder die gastouderopvang aanbiedt die naar het oordeel van het gastouderbureau naar verwachting voor 1 september van de in het eerste lid bedoelde kalenderjaar zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de paragrafen 2 en 3 van afdeling 3 van hoofdstuk 1.   
-8.  Indien de gastouder uiterlijk op 31 december van het in het eerste lid bedoelde kalenderjaar niet is ingeschreven in het register kinderopvang, bedoeld in artikel 1.47a, is de ouder aan het gastouderbureau geen uitvoeringskosten verschuldigd.   
-9.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.   
-
-### Artikel  3.3  
-
-1.  Personen die op de dag voorafgaand aan de inwerkingtreding van [artikel I, onderdelen B en G, van de wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelsel van gastouderopvang (*Stb.* 345)](../../../../wet/wijzigingswet/wet/kinderopvang/(herziening/stelsel/gastouderopvang)/BWBR0026299/README.md) werkzaam waren als gastouder als bedoeld in artikel 1, onderdeel f, van deze wet, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van dat [artikel I, onderdelen B en G](../../../../wet/wijzigingswet/wet/kinderopvang/(herziening/stelsel/gastouderopvang)/BWBR0026299/README.md), worden door het college van burgemeester en wethouders in het register kinderopvang, bedoeld in artikel 1.47a, ingeschreven als voorziening voor gastouderopvang indien op het moment van inschrijving na een aanvraag als bedoeld in artikel 1.45, tweede lid, uit het onderzoek, bedoeld in artikel 1.62, eerste lid, is gebleken dat exploitatie van de voorziening voor gastouderopvang redelijkerwijs zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de paragrafen 2 en 3 van afdeling 3 van hoofdstuk 1.   
-2.  Het eerste lid is van overeenkomstige toepassing op voorzieningen voor gastouderopvang die hun exploitatie aanvangen in het eerste kalenderjaar waarop [artikel I, onderdelen B en G, van de in het eerste lid genoemde wijzigingswet](../../../../wet/wijzigingswet/wet/kinderopvang/(herziening/stelsel/gastouderopvang)/BWBR0026299/README.md) betrekking heeft.   
-
-### Artikel  3.4  
-
-1.  Een aanvraag als bedoeld in artikel 1.45, tweede lid, die is gedaan ten hoogste twee maanden voorafgaande aan de inwerkingtreding van [artikel I, onderdelen B en G, van de wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelsel van gastouderopvang (Stb. 345)](../../../../wet/wijzigingswet/wet/kinderopvang/(herziening/stelsel/gastouderopvang)/BWBR0026299/README.md), geldt als aanvraag gedaan op de eerste dag van inwerkingtreding van dat [artikel I, onderdelen B en G](../../../../wet/wijzigingswet/wet/kinderopvang/(herziening/stelsel/gastouderopvang)/BWBR0026299/README.md).   
-2.  Een oordeel van de toezichthouder als bedoeld in artikel 1.63, inhoudende dat de exploitatie van een voorziening voor gastouderopvang redelijkerwijs zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de paragrafen 2 en 3 van afdeling 3 van hoofdstuk 1 van deze wet zoals luidend na inwerkingtreding van de [in het eerste lid genoemde wijzigingswet](../../../../wet/wijzigingswet/wet/kinderopvang/(herziening/stelsel/gastouderopvang)/BWBR0026299/README.md), dat is gegeven ten hoogste twee maanden voorafgaande aan de inwerkingtreding van genoemd [artikel I, onderdelen B en G](../../../../wet/wijzigingswet/wet/kinderopvang/(herziening/stelsel/gastouderopvang)/BWBR0026299/README.md), geldt als oordeel gegeven op de eerste dag van laatstbedoeld tijdstip van inwerkingtreding.   
-
-### Artikel  3.5  
-
-1.  Onze Minister zendt in overeenstemming met Onze Minister van Financiën binnen acht maanden na het tijdstip van inwerkingtreding van [artikel I, onderdelen B en G van de in het tweede lid genoemde wijzigingswet](../../../../wet/wijzigingswet/wet/kinderopvang/(herziening/stelsel/gastouderopvang)/BWBR0026299/README.md) aan de Staten-Generaal een verslag over de voortgang van de vulling van het register kinderopvang.   
-2.  Aan het bepaalde in de artikelen 3.1, 3.3 en 3.4 kan bij ministeriële regeling met het oog op een goede invoering van de [wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelsel van gastouderopvang (Stb. 345)](../../../../wet/wijzigingswet/wet/kinderopvang/(herziening/stelsel/gastouderopvang)/BWBR0026299/README.md) in het eerste kalenderjaar waarop deze wet betrekking heeft, zo nodig een andere uitvoering worden gegeven.   
-
-### Artikel  3.6  
-
-De artikelen 3.1 tot en met 3.6 vervallen drie jaar na inwerkingtreding van de [wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelsel van gastouderopvang (Stb. 345)](../../../../wet/wijzigingswet/wet/kinderopvang/(herziening/stelsel/gastouderopvang)/BWBR0026299/README.md).  
-
 ### Artikel  3.6a  
 
 1.  In afwijking van artikel 1.5, eerste lid, onder b, heeft een ouder voor het berekeningsjaar 2010 tevens aanspraak op kinderopvangtoeslag in de door hem of zijn partner te betalen kosten jegens het Rijk onderscheidenlijk aanspraak op een tegemoetkoming in de door hem of zijn partner te betalen kosten van kinderopvang jegens de gemeente of jegens het Uitvoeringsinstituut werknemersverzekeringen, indien het betreft gastouderopvang, die plaatsvindt door tussenkomst van een geregistreerd gastouderbureau, in een of meer voorzieningen voor gastouderopvang die niet in het register kinderopvang zijn opgenomen onder voorwaarde dat is voldaan aan artikel 1.56b, derde, vierde en vijfde lid.   
-2.  Voor zover er geen uniek nummer is verstrekt als bedoeld in artikel 1.10, is dat artikel niet van toepassing gedurende het berekeningsjaar 2010.   
+2.  Voor zover er geen uniek nummer is verstrekt als bedoeld in artikel 1.10 zoals dat luidde op 31 december 2012, is dat artikel niet van toepassing gedurende het berekeningsjaar 2010.   
 3.  Dit artikel vervalt met ingang van 1 januari 2016.   
-
-### Artikel  3.6b  
-
-1.  Voorzieningen voor gastouderopvang die niet zijn opgenomen in het register kinderopvang, worden voor de toepassing van artikel 1.5, eerste lid, onder b, gelijk gesteld met een geregistreerde voorziening voor gastouderopvang op voorwaarde dat: 
-
-a. van de gastouder die de opvang verzorgt in een gelijkgestelde voorziening één voorzienig voor gastouderopvang is opgenomen in het register kinderopvang; en  
-
-b. de gelijkgestelde voorzieningen voor gastouderopvang voldoen aan het bepaalde bij of krachtens de paragrafen 2 en 3 van afdeling 3 van hoofdstuk 1.     
-2.   Vervallen.    
-3.   Vervallen.    
-4.   Vervallen.    
-5.  Een ouder die gebruik maakt van een of meer voorzieningen die zijn gelijkgesteld op grond van het eerste lid, verstrekt het in artikel 1.10 bedoelde unieke nummer dat is afgegeven voor de geregistreerde voorziening bedoeld in het eerste lid, onder a, eveneens ten aanzien van de gelijkgestelde voorzieningen.   
-6.  Dit artikel geldt vanaf het berekeningsjaar 2011 en vervalt met ingang van een bij koninklijk besluit te bepalen tijdstip waarbij de verschillende leden op verschillende tijdstippen kunnen vervallen.   
-
-### Artikel  3.6c  
-
-1.  De in artikel 1.61, eerste lid, genoemde toezichthouder kan in afwijking van artikel 1.62 tevens ten aanzien van een op grond van artikel 3.6b, eerste lid, gelijkgestelde voorziening voor gastouderopvang onderzoeken of de exploitatie van deze voorziening redelijkerwijs plaatsvindt in overeenstemming met het bepaalde bij of krachtens de paragrafen 2 en 3 van afdeling 3 van hoofdstuk 1. De artikelen 1.61, 1.62, derde lid, en 1.63 tot en met 1.66 zijn met ingang van 1 januari 2011 van overeenkomstige toepassing op een op grond van artikel 3.6b, eerste lid, gelijkgestelde voorziening voor gastouderopvang.   
-2.  Dit artikel vervalt met ingang van een bij koninklijk besluit te bepalen tijdstip.   
 
 ### Artikel  3.7  
 

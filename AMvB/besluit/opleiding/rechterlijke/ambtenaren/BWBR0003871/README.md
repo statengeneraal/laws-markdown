@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 25 februari 1985, Hoofddirectie Organisatie Rechtspleging en Rechtshulp, nr. 334 P 885;
 
-Gelet op [artikel 125, eerste lid, van de Ambtenarenwet 1929](../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) (*Stb.* 530), [artikel 59 *i* van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) (*Stb.* 1972, 463), de [artikelen 4, vijfde lid](../../../../../../wet/beroepswet/BWBR0002170/README.md), en 31, vijfde lid, van de Beroepswet (*Stb.* 1955, 47) en [artikel 5, vijfde lid, van de Ambtenarenwet](../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) 1929 (*Stb.* 530);
+Gelet op artikel 125, eerste lid, van de Ambtenarenwet 1929 (*Stb.* 530), artikel 59 *i* van de Wet op de rechterlijke organisatie (*Stb.* 1972, 463), de artikelen 4, vijfde lid, en 31, vijfde lid, van de Beroepswet (*Stb.* 1955, 47) en artikel 5, vijfde lid, van de Ambtenarenwet 1929 (*Stb.* 530);
 
 De Raad van State gehoord (advies van 17 mei 1985, nr. W03.85.0127/11.5.19);
 
@@ -36,8 +36,8 @@ Er is een opleiding die ten doel heeft toekomstige rechterlijke ambtenaren de ke
 
 ### Artikel  3  
 
-1.  De binnenstage bestaat uit vijf deelstages, die worden doorgebracht bij een rechtbank en een arrondissementsparket. Tevens kunnen elders door te brengen deelstages van korte duur worden ingelast.   
-2.  De buitenstage wordt elders dan bij een rechtbank of een arrondissementsparket doorgebracht. Onze Minister bepaalt op voorstel van de rector, waar deze stage wordt doorgebracht. Tijdens de buitenstage worden werkzaamheden verricht die kunnen bijdragen aan het verwerven van kennis, vaardigheden en ervaring, dienstig voor de uitoefening van de in artikel 2 bedoelde functies.   
+1.  De binnenstage bestaat uit vijf deelstages, die worden doorgebracht bij een rechtbank en een tot het openbaar ministerie behorend parket. Tevens kunnen elders door te brengen deelstages van korte duur worden ingelast.   
+2.  De buitenstage wordt elders dan bij een rechtbank of een tot het openbaar ministerie behorend parket doorgebracht. Onze Minister bepaalt op voorstel van de rector, waar deze stage wordt doorgebracht. Tijdens de buitenstage worden werkzaamheden verricht die kunnen bijdragen aan het verwerven van kennis, vaardigheden en ervaring, dienstig voor de uitoefening van de in artikel 2 bedoelde functies.   
 3.  De tijdsduur en volgorde van de binnenstage en buitenstage worden geregeld in het opleidingsreglement, bedoeld in artikel 12.   
 4.  In bijzondere individuele gevallen, kan Onze Minister de tijdsduur en de volgorde der binnenstage en buitenstage vaststellen in afwijking van het bepaalde in het opleidingsreglement. Zodanige vaststelling geschiedt niet dan nadat de rector en, bij verlenging, de functionele autoriteit, daaromtrent zijn gehoord.   
 
@@ -87,7 +87,7 @@ c. in andere gevallen, indien Onze Minister zulks, met het oog op het met gunsti
 
 ### Artikel  9  
 
-Het studiecentrum rechtspleging is belast met de uitvoering van de opleiding van rechterlijke ambtenaren. Het studiecentrum rechtspleging is een onder de Raad ressorterende dienst als bedoeld in [artikel 40 van het Besluit financiering rechtspraak 2005](../../../../../../AMvB/besluit/financiering/rechtspraak/2005/BWBR0017975/README.md).  
+Het studiecentrum rechtspleging is belast met de uitvoering van de opleiding van rechterlijke ambtenaren. Het studiecentrum rechtspleging is een onder de Raad ressorterende dienst als bedoeld in artikel 40 van het Besluit financiering rechtspraak 2005.  
 
 ### Artikel  10  
 
@@ -157,8 +157,8 @@ Onverminderd het bepaalde in de artikelen 16 tot en met 19 kan Onze Minister, ge
 
 ### Artikel  21  
 
-1.  Degene, die is toegelaten tot de opleiding, wordt door Onze Minister benoemd als rechterlijk ambtenaar in opleiding in tijdelijke dienst bij de gerechten voor de duur van drie jaar en twee maanden. Onze Minister stelt tevens vast bij welke rechtbank en welk arrondissementsparket de rechterlijk ambtenaar in opleiding zijn ambt gedurende deze periode vervult.   
-2.  Onze Minister kan in het kader van een reorganisatie als bedoeld in [hoofdstuk 4A van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md) de vaststelling van de rechtbank of het arrondissementsparket waarbij een rechterlijk ambtenaar in opleiding zijn ambt vervult wijzigen.   
+1.  Degene, die is toegelaten tot de opleiding, wordt door Onze Minister benoemd als rechterlijk ambtenaar in opleiding in tijdelijke dienst bij de gerechten voor de duur van drie jaar en twee maanden. Onze Minister stelt tevens vast bij welke rechtbank en welk tot het openbaar ministerie behorend parket de rechterlijk ambtenaar in opleiding zijn ambt gedurende deze periode vervult.   
+2.  Onze Minister kan in het kader van een reorganisatie als bedoeld in hoofdstuk 4A van het Besluit rechtspositie rechterlijke ambtenaren de vaststelling van de rechtbank of het tot het openbaar ministerie behorend parket waarbij een rechterlijk ambtenaar in opleiding zijn ambt vervult wijzigen.   
 3.  Onze Minister kan, de functionele autoriteit en de rector gehoord, de periode waarvoor een benoeming in tijdelijke dienst is verleend verlengen: 
 
 a. indien een rechterlijk ambtenaar in opleiding dit verzoekt en naar het oordeel van Onze Minister voortzetting van de opleiding nog zinvol kan zijn: met ten hoogste één jaar;  
@@ -170,7 +170,7 @@ c. indien de opleiding, ingevolge artikel 7, tweede lid, onderdelen b en c, is v
 
 ### Artikel  21a  
 
-1.  Om benoemd te kunnen worden als rechterlijk ambtenaar in opleiding dient het afsluitend examen, bedoeld in [artikel 5, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), te voldoen aan de eisen van het tweede lid.   
+1.  Om benoemd te kunnen worden als rechterlijk ambtenaar in opleiding dient het afsluitend examen, bedoeld in artikel 5, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren, te voldoen aan de eisen van het tweede lid.   
 2.  Het afsluitend examen is zodanig samengesteld dat ten minste grondige kennis van en inzicht in de volgende rechtsgebieden is verkregen: 
 
 a. burgerlijk recht, met inbegrip van burgerlijk procesrecht;  
@@ -178,7 +178,7 @@ a. burgerlijk recht, met inbegrip van burgerlijk procesrecht;
 b. strafrecht, met inbegrip van strafprocesrecht; en  
 
 c. bestuursrecht, met inbegrip van bestuursprocesrecht.     
-3.  Voor de toepassing van het eerste en tweede lid wordt onder afsluitend examen, bedoeld in die leden, tevens begrepen het schakelprogramma, bedoeld in [artikel 2b, eerste en tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md).   
+3.  Voor de toepassing van het eerste en tweede lid wordt onder afsluitend examen, bedoeld in die leden, tevens begrepen het schakelprogramma, bedoeld in artikel 2b, eerste en tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren.   
 
 ### Artikel  21b  
 
@@ -189,8 +189,8 @@ c. bestuursrecht, met inbegrip van bestuursprocesrecht.
 
 ### Artikel  22  
 
-1.  Tenzij de opleiding op grond van het bepaalde in artikel 8, eerste lid, is beëindigd, wordt een rechterlijk ambtenaar in opleiding aansluitend aan de benoeming in tijdelijke dienst benoemd in vaste dienst bij de gerechten. Onze Minister stelt tevens vast bij welke rechtbank of welk arrondissementsparket de rechterlijk ambtenaar in opleiding, die in vaste dienst is benoemd, zijn ambt vervult.   
-2.  Onze Minister kan in het kader van een reorganisatie als bedoeld in [hoofdstuk 4A van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md) de vaststelling van de rechtbank of het arrondissementsparket waarbij een rechterlijk ambtenaar in opleiding zijn ambt vervult wijzigen.   
+1.  Tenzij de opleiding op grond van het bepaalde in artikel 8, eerste lid, is beëindigd, wordt een rechterlijk ambtenaar in opleiding aansluitend aan de benoeming in tijdelijke dienst benoemd in vaste dienst bij de gerechten. Onze Minister stelt tevens vast bij welke rechtbank of welk tot het openbaar ministerie behorend parket de rechterlijk ambtenaar in opleiding, die in vaste dienst is benoemd, zijn ambt vervult.   
+2.  Onze Minister kan in het kader van een reorganisatie als bedoeld in hoofdstuk 4A van het Besluit rechtspositie rechterlijke ambtenaren de vaststelling van de rechtbank of het tot het openbaar ministerie behorend parket waarbij een rechterlijk ambtenaar in opleiding zijn ambt vervult wijzigen.   
 
 ### §  6:  
 
@@ -231,7 +231,7 @@ De rector stelt, na instemming van de Raad en het College van procureurs-generaa
 
 1.  De rechterlijk ambtenaar in opleiding kan bezwaar maken tegen de vastgestelde beoordeling.   
 2.  Indien de rechterlijk ambtenaar in opleiding bezwaar heeft gemaakt tegen de vastgestelde beoordeling wint de functionele autoriteit, alvorens hierop te beslissen, het advies in van een commissie, tenzij het bezwaar reeds aanstonds gegrond wordt geacht.   
-3.  Indien het bevoegd gezag niet onder toepassing van [artikel 7:13 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een adviescommissie heeft belast met het adviseren omtrent bezwaren tegen vastgestelde beoordelingen, stelt het daartoe een commissie in. Van de commissie maakt in elk geval deel uit een ambtenaar aangewezen door de Sectorcommissie rechterlijke macht als bedoeld in [artikel 50 van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md).   
+3.  Indien het bevoegd gezag niet onder toepassing van artikel 7:13 van de Algemene wet bestuursrecht een adviescommissie heeft belast met het adviseren omtrent bezwaren tegen vastgestelde beoordelingen, stelt het daartoe een commissie in. Van de commissie maakt in elk geval deel uit een ambtenaar aangewezen door de Sectorcommissie rechterlijke macht als bedoeld in artikel 50 van de Wet rechtspositie rechterlijke ambtenaren.   
 
 ### Artikel  26  
 

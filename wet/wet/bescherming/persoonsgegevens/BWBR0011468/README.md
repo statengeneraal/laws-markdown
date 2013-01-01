@@ -36,7 +36,7 @@ h. ontvanger: degene aan wie de persoonsgegevens worden verstrekt;
 
 i. toestemming van de betrokkene: elke vrije, specifieke en op informatie berustende wilsuiting waarmee de betrokkene aanvaardt dat hem betreffende persoonsgegevens worden verwerkt;  
 
-j. Onze Minister: Onze Minister van Justitie;  
+j. Onze Minister: Onze Minister van Veiligheid en Justitie;  
 
 k. het College bescherming persoonsgegevens of het College: het College als bedoeld in artikel 51;  
 
@@ -57,7 +57,7 @@ a. ten behoeve van activiteiten met uitsluitend persoonlijke of huishoudelijke d
 
 b. door of ten behoeve van de inlichtingen- en veiligheidsdiensten, bedoeld in de [Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md);  
 
-c. 2. ten behoeve van de uitvoering van de politietaak, bedoeld in de [artikelen 2](../../../../../wet/politiewet/1993/BWBR0006299/README.md) en [6, eerste lid, van de Politiewet 1993](../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+c. ten behoeve van de uitvoering van de politietaak, bedoeld in de [artikelen 3](../../../../../wet/politiewet/2012/BWBR0031788/README.md) en [4, eerste lid, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
 d. die is geregeld bij of krachtens de [Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md);  
 
@@ -234,7 +234,7 @@ c. scholen voor zover dat met het oog op de speciale begeleiding van leerlingen 
 
 d. een reclasseringsinstelling, een bijzondere reclasseringsambtenaar, de raad voor de kinderbescherming of de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en de rechtspersoon, bedoeld in [artikel 254, tweede lid](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), of [artikel 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), voor zover dat noodzakelijk is voor de uitvoering van de hun wettelijk opgedragen taken;  
 
-e. Onze Minister van Justitie voor zover dat in verband met de tenuitvoerlegging van vrijheidsstraffen of vrijheidsbenemende maatregelen noodzakelijk is of  
+e. Onze Minister voor zover dat in verband met de tenuitvoerlegging van vrijheidsstraffen of vrijheidsbenemende maatregelen noodzakelijk is of  
 
 f. bestuursorganen, pensioenfondsen, werkgevers of instellingen die te hunnen behoeve werkzaam zijn voor zover dat noodzakelijk is voor: 
 
@@ -586,7 +586,7 @@ De instanties die zijn belast met de behandeling van het geschil, zenden afschri
 
 ### Artikel  54  
 
-1.  Aan een lid wordt bij koninklijk besluit, op voordracht van Onze Minister, ontslag verleend met ingang van de eerste maand volgend op die waarin hij de leeftijd van vijfenzestig jaar bereikt.   
+1.  Aan een lid wordt bij koninklijk besluit, op voordracht van Onze Minister, ontslag verleend met ingang van de eerste maand volgend op die waarin hij de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), bereikt.   
 2.  De [artikelen 46c](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d, tweede lid](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46f](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46g](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46i, met uitzondering van het eerste lid, onderdeel c](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46j](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l, eerste en derde lid](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46m](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46n](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46o](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en [46p van de Wet rechtspositie rechterlijke ambtenaren](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) zijn van overeenkomstige toepassing, met dien verstande dat: 
 
 a. de disciplinaire maatregel als bedoeld in [artikel 46c, eerste lid](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), ten aanzien van de leden van het College door de voorzitter van het College wordt opgelegd;  

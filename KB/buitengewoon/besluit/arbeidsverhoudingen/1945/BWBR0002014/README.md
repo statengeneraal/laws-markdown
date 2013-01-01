@@ -85,26 +85,14 @@ c. indien de opzegging geschiedt ten gevolge van faillissement van de werkgever 
 
 ### Artikel  8  
 
-1.  Het is de werkgever verboden de werktijd van de werknemer op minder dan 48 uur per week te stellen of gesteld te houden.   
-2.  Het bepaalde in het vorige lid geldt niet: 
-
-a. ten aanzien van die werknemers, voor wier werkzaamheden de normale werktijd vóór 10 mei 1940 op een geringer aantal uren per week placht te zijn vastgesteld, zoals voor steenhouwers, kantoorbedienden, avondboekhouders, schoonmaaksters, stokers van centrale verwarmingen en dergelijke personen, mits hun loon als gevolg der werktijdverkorting niet daalt beneden het gebruikelijke bedrag;  
-
-b. ten aanzien van die werknemers, wier week- of maandloon op een vast bedrag is vastgesteld en niet daaronder daalt bij de werktijdverkorting;  
-
-c. voor de tijd, gedurende welke een door Onze Minister goedgekeurde wachtgeldregeling, als bedoeld in artikel 10, van kracht is, ten aanzien van de onder die wachtgeldregeling vallende werknemers.     
-3.  Van het bepaalde in het eerste lid kan voorts door of vanwege Onze Minister voor bepaalde werknemers of groepen van werknemers voorwaardelijk of onvoorwaardelijk ontheffing worden verleend.   
+1.  Het is de werkgever verboden de werktijd van de werknemer op minder uren per week te stellen of gesteld te houden dan voor of door die werknemer is overeengekomen.   
+2.  Bij ministeriële regeling kan vrijstelling worden verleend van het in het eerste lid genoemde verbod in geval van buitengewone omstandigheden die tot gevolg hebben dat de arbeid tijdelijk geheel of gedeeltelijk niet kan worden verricht. Aan een vrijstelling kunnen beperkingen worden gesteld en voorschriften worden verbonden.   
 
 ### Artikel  9  
 
 1.  Een opzegging zonder de op grond van artikel 6 vereiste toestemming is vernietigbaar.   
 2.  Handelingen in strijd met artikel 8, eerste lid, zijn vernietigbaar.   
 3.  De werknemer kan gedurende zes maanden een beroep op deze vernietigingsgrond doen.   
-
-### Artikel  10  
-
-1.  De werkgever, die ten gevolge van tijdelijke stilstand van of slapte in de onderneming niet voldoende werkgelegenheid voor zijn werknemers heeft, kan een wachtgeldregeling voor hen treffen. Deze wachtgeldregeling behoeft de toestemming van Onze Minister. In de kosten van de wachtgeldregeling kan de werkgever onder bepaalde voorwaarden van Overheidswege een tegemoetkoming worden verleend.   
-2.  Ter uitvoering van het bepaalde in het vorige lid worden door Onze Minister nadere bepalingen vastgesteld.   
 
 ### Derde titel  
 

@@ -123,7 +123,7 @@ d. belastingrecht.
 
 ### Artikel  2c  
 
-1.  De benoeming in een ambt als bedoeld in de [artikel 2, tweede tot en met zevende lid, van de wet](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) geschiedt in vaste dienst, tenzij er grond bestaat voor een benoeming in tijdelijke dienst.   
+1.  De benoeming in een ambt als bedoeld in [artikel 2, tweede tot en met zevende lid, van de wet](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) geschiedt in vaste dienst, tenzij er grond bestaat voor een benoeming in tijdelijke dienst.   
 2.  Een benoeming in tijdelijke dienst als bedoeld in het eerste lid kan plaatsvinden voor een proeftijd of om een andere reden.   
 3.  Een benoeming in tijdelijke dienst als bedoeld in het eerste lid wordt verleend voor een kalenderperiode of een andere objectief bepaalbare periode.   
 4.  De periode, waarvoor een benoeming in tijdelijke dienst voor een proeftijd als bedoeld in het tweede lid wordt verleend, bedraagt ten hoogste 24 maanden, met de mogelijkheid van verlenging hiervan met de periode of perioden waarin in de proeftijd geheel of gedeeltelijk geen werkzaamheden zijn verricht.   
@@ -199,23 +199,21 @@ c. de datum met ingang waarvan hij zijn ambt bij het gerecht of parket, bedoeld 
 
 1.  De eed of belofte, bedoeld in [artikel 5g, eerste lid,van de wet](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), wordt afgelegd: 
 
-a. ten overstaan van een enkelvoudige of meervoudige kamer van de rechtbank, in geval van benoeming tot: 
+a. in geval van benoeming in het ambt van: 
 
-1°. senior rechter A in, senior rechter in, rechter in of rechter-plaatsvervanger in die rechtbank;  
+1°. senior rechter A in, senior rechter in, rechter in, rechter-plaatsvervanger in, senior-gerechtsauditeur bij of gerechtsauditeur bij een rechtbank, ten overstaan van een enkelvoudige of meervoudige kamer van de rechtbank waarvan is vastgesteld dat het ambt daarbij wordt vervuld;  
 
-2°. senior-gerechtsauditeur of gerechtsauditeur bij die rechtbank;  
+2°. hoofdofficier van justitie, plaatsvervangend hoofdofficier van justitie, senior officier van justitie A, senior officier van justitie, officier van justitie, substituut-officier van justitie, plaatsvervangend officier van justitie, officier enkelvoudige zittingen of plaatsvervangend officier enkelvoudige zittingen bij een arrondissementsparket, ten overstaan van een enkelvoudige of meervoudige kamer van de rechtbank waarvan het rechtsgebied overeenkomt met dat van het parket waarvan is vastgesteld dat het ambt daarbij wordt vervuld;  
 
-3°. hoofdofficier, fungerend hoofdofficier, plaatsvervangend hoofdofficier, senior officier van justitie A, senior officier van justitie, officier van justitie, substituut-officier van justitie, plaatsvervangend officier van justitie, officier enkelvoudige zittingen of plaatsvervangend officier enkelvoudige zittingen bij een arrondissementsparket, het landelijk parket, het functioneel parket of het parket-generaal, indien dat is gevestigd in de plaats van vestiging van die rechtbank.    
+3°. hoofdofficier van justitie, plaatsvervangend hoofdofficier van justitie, senior officier van justitie A, senior officier van justitie, officier van justitie, substituut-officier van justitie, plaatsvervangend officier van justitie, officier enkelvoudige zittingen of plaatsvervangend officier enkelvoudige zittingen bij het landelijk parket, het functioneel parket of het parket-generaal, ten overstaan van een enkelvoudige of meervoudige kamer van de rechtbank Amsterdam, Den Haag, Oost-Brabant of Oost-Nederland.    
 
-b. ten overstaan van een enkelvoudige of meervoudige kamer van het gerechtshof, in geval van benoeming tot: 
+b. in geval van benoeming in het ambt van: 
 
-1°. senior raadsheer in, raadsheer in in of raadsheer-plaatsvervanger in dat gerechtshof;  
+1°. senior raadsheer in, raadsheer in, raadsheer-plaatsvervanger in, senior-gerechtsauditeur bij of gerechtsauditeur bij een gerechtshof, ten overstaan van een enkelvoudige of meervoudige kamer van het gerechtshof waarvan is vastgesteld dat het ambt daarbij wordt vervuld;  
 
-2°. senior-gerechtsauditeur of gerechtsauditeur bij dat gerechtshof;  
+2°. landelijk hoofdadvocaat-generaal, hoofdadvocaat-generaal, senior advocaat-generaal, advocaat-generaal of plaatsvervangend advocaat-generaal bij het ressortsparket of het parket-generaal, ten overstaan van een enkelvoudige of meervoudige kamer van een gerechtshof.    
 
-3°. hoofdadvocaat-generaal, plaatsvervangend hoofdadvocaat-generaal, senior advocaat-generaal, advocaat-generaal of plaatsvervangend advocaat-generaal bij een ressortsparket of het parket-generaal, indien dat is gevestigd in de plaats van vestiging van dat gerechtshof.    
-
-c. ten overstaan van de president van de Hoge Raad, in geval van benoeming tot: 
+c. ten overstaan van de president van de Hoge Raad, in geval van benoeming in het ambt van: 
 
 1°. procureur-generaal, deel uitmakend van het College van procureurs-generaal;  
 
@@ -223,7 +221,7 @@ c. ten overstaan van de president van de Hoge Raad, in geval van benoeming tot:
 
 3°. senior-gerechtsauditeur of gerechtsauditeur bij de Hoge Raad.    
 
-d. ten overstaan van de Koning of ten overstaan van Onze Minister, daartoe door de Koning gemachtigd, in geval van benoeming tot: 
+d. ten overstaan van de Koning of ten overstaan van Onze Minister, daartoe door de Koning gemachtigd, in geval van benoeming in het ambt van: 
 
 1°. president van, vice-president van of raadsheer in de Hoge Raad;  
 
@@ -260,7 +258,7 @@ c. de Koning of Onze Minister.
 
 1.  Een rechterlijk ambtenaar in opleiding wordt bij zijn benoeming door de Raad voor de rechtspraak voor een volledige arbeidsduur aangesteld.   
 2.  Op zijn eigen verzoek kan de arbeidsduur waarvoor een rechterlijk ambtenaar in opleiding is aangesteld door de Raad voor de rechtspraak worden gewijzigd.   
-3.  De Raad voor de rechtspraak neemt een besluit als bedoeld in het tweede lid niet dan nadat hij hierover het advies heeft ingewonnen van de rector en, voor zover de opleiding wordt doorgebracht bij een rechtbank onderscheidenlijk een arrondissementsparket, het bestuur van die rechtbank onderscheidenlijk het hoofd van dat parket.   
+3.  De Raad voor de rechtspraak neemt een besluit als bedoeld in het tweede lid niet dan nadat hij hierover het advies heeft ingewonnen van de rector en, voor zover de opleiding wordt doorgebracht bij een rechtbank onderscheidenlijk een tot het openbaar ministerie behorend parket, het bestuur van die rechtbank onderscheidenlijk het hoofd van dat parket.   
 
 ### Artikel  3b  
 
@@ -297,7 +295,7 @@ b. de rechterlijk ambtenaar op het tijdstip van de benoeming, bedoeld in het eer
 a. 5% van het salaris, indien het maximum salaris verbonden aan het ambt waarin hij wordt benoemd het naast lagere maximum salaris is van dat van het ambt dat hij voorafgaand aan de benoeming heeft vervuld dan wel het naast lagere maximum salaris is van het vorenbedoelde naast lagere maximum salaris;  
 
 b. 10% van het salaris, indien het maximum salaris verbonden aan het ambt waarin hij wordt benoemd lager is dan de in het vierde lid, onderdeel a, bedoelde naast lagere maximum salarissen.     
-5.  Indien na 52 weken ongeschiktheid tot het verrichten van arbeid wegens ziekte de doorbetaling van het salaris van de rechterlijk ambtenaar op grond van artikel 17, tweede lid, wordt teruggebracht tot 70%, wordt de korting, bedoeld in het vierde lid, teruggebracht tot 70% van 5% onderscheidenlijk 10% van het salaris.   
+5.  Indien na 52 weken ongeschiktheid tot het verrichten van arbeid wegens ziekte de doorbetaling van de bezoldiging van de rechterlijk ambtenaar op grond van artikel 17, tweede lid, wordt teruggebracht tot 70% van de bezoldiging, wordt de korting, bedoeld in het vierde lid, teruggebracht tot 70% van 5% onderscheidenlijk 10% van het salaris.   
 6.  Onze Minister kan ter zake van de uitvoering van dit artikel regels stellen.   
 
 ### Artikel  6a  
@@ -314,7 +312,7 @@ c. voor een rechter-plaatsvervanger of een plaatsvervangend officier van justiti
 
 a. een bijeenkomst in raadkamer met een of meer zittingen gelijkgesteld, indien het een raadsheer in buitengewone dienst bij de Hoge Raad betreft; en  
 
-b. een schriftelijke conclusie met een of meer zittingen gelijkgesteld, indien het een advocaat-generaal in buitengewone dienst bij de Hoge Raad of een op de voet van [artikel 119, vijfde lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) als waarnemend advocaat-generaal bij de Hoge Raad aangewezen lid in buitengewone dienst van de Hoge Raad betreft.     
+b. een schriftelijke conclusie met een of meer zittingen gelijkgesteld, indien het een advocaat-generaal in buitengewone dienst bij de Hoge Raad of een op de voet van [artikel 119, vierde lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) als waarnemend advocaat-generaal bij de Hoge Raad aangewezen lid in buitengewone dienst van de Hoge Raad betreft.     
 4.  Aan een raadsheer-plaatsvervanger of rechter-plaatsvervanger kan een vergoeding overeenkomstig het eerste lid worden toegekend voor het concipiëren van een of meer schriftelijke uitspraken in een of meer zaken waarin geen zitting heeft plaatsgevonden.   
 
 ### Artikel  6b  
@@ -347,16 +345,17 @@ Aan de niet voor het leven benoemde rechterlijk ambtenaar, die naar het oordeel 
 
 ### Artikel  6g  
 
-1.  De rechterlijk ambtenaar met rechtspraak belast die een ambt uitoefent dat in [artikel 7, tweede lid, van de wet](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) in categorie 8 is ingedeeld, en die als rechterlijk ambtenaar met rechtspraak belast wordt benoemd in een ander, in artikel 7, tweede lid, van de wet, in categorie 8, genoemd ambt, of van wie de vaststelling bij welk gerechtshof of welke rechtbank hij dat ambt vervult, wijzigt, heeft aanspraak op een toeslag.   
-2.  De toeslag, bedoeld in het eerste lid, bedraagt 3,2% van het maximum van het bij en krachtens [artikel 7, tweede lid, van de wet](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), in categorie 8 bepaalde salaris.   
+1.  De rechterlijk ambtenaar met rechtspraak belast die een ambt uitoefent dat in [artikel 7, tweede lid, van de wet](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) in categorie 8 is ingedeeld, en die als rechterlijk ambtenaar met rechtspraak belast wordt benoemd in een ander, in artikel 7, tweede lid, van de wet, in categorie 8 ingedeeld ambt, of van wie de vaststelling bij welk gerechtshof of welke rechtbank hij dat ambt vervult, wijzigt, heeft aanspraak op een toeslag.   
+2.  De toeslag, bedoeld in het eerste lid, bedraagt 3,2% van het maximum salaris dat verbonden is aan de in [artikel 7, tweede lid, van de wet](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) in categorie 8 ingedeelde ambten.   
 
 ### Artikel  7  
 
 1.  Aan de rechterlijk ambtenaar, die is aangesteld of aangewezen voor een al dan niet volledige arbeidsduur, of rechterlijk ambtenaar in opleiding wordt, als tegemoetkoming in de algemene kosten die aan de vervulling van het ambt zijn verbonden, een algemene onkostenvergoeding toegekend.   
 2.  De rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding heeft, wanneer aan hem buitengewoon verlof, al dan niet met behoud van bezoldiging, voor zijn volledige arbeidsduur is verleend voor de periode van ten minste een maand, in afwijking van het eerste lid, gedurende de periode van het buitengewoon verlof geen aanspraak op een algemene onkostenvergoeding.   
-3.  De algemene onkostenvergoeding wordt per kalendermaand berekend en uitbetaald.   
-4.  Indien een aanspraak op een algemene onkostenvergoeding ontstaat op een andere dag dan de eerste dag van een kalendermaand, wordt zij gelijkgesteld met een aanspraak die is ontstaan op de eerste dag van die kalendermaand.   
-5.  Onze Minister stelt regels ten aanzien van de hoogte van de algemene onkostenvergoeding.   
+3.  In afwijking van het eerste lid heeft de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding in geval van volledige arbeidsongeschiktheid wegens ziekte, na ommekomst van het kalenderjaar volgend op dat waarin de ongeschiktheid is aangevangen, geen aanspraak op een algemene onkostenvergoeding.   
+4.  De algemene onkostenvergoeding wordt per kalendermaand berekend en uitbetaald.   
+5.  Indien een aanspraak op een algemene onkostenvergoeding ontstaat op een andere dag dan de eerste dag van een kalendermaand, wordt zij gelijkgesteld met een aanspraak die is ontstaan op de eerste dag van die kalendermaand.   
+6.  Onze Minister stelt regels ten aanzien van de hoogte van de algemene onkostenvergoeding.   
 
 ### Hoofdstuk  2c  
 
@@ -420,7 +419,7 @@ b. de rechterlijk ambtenaar van wie de arbeidsduur op basis van artikel 8b, eers
 
 1.  Op het salaris van de rechterlijk ambtenaar, van wie zowel een verzoek als bedoeld in artikel 6, eerste lid, als een verzoek als bedoeld in artikel 8d, eerste of tweede lid, is ingewilligd, wordt een korting toegepast ter grootte van het voor hem geldende percentage, bedoeld in artikel 6, vierde lid, opgeteld met het voor hem geldende percentage, bedoeld in artikel 8d, zesde lid.   
 2.  Bij de in het eerste lid bedoelde korting wordt een korting van 5% opgeteld, indien het maximum salaris, dat verbonden is aan het ambt waarin de rechterlijk ambtenaar wordt benoemd, lager is dan het naast lagere maximum salaris van dat van het ambt waarin hij daaraan voorafgaand was benoemd.   
-3.  De korting, bedoeld in het eerste en tweede lid, wordt teruggebracht tot 70% van 5% onderscheidenlijk 10% van de het salaris voor zover op grond van artikel 17, tweede lid, 70% van de bezoldiging wordt doorbetaald.   
+3.  De korting, bedoeld in het eerste en tweede lid, wordt teruggebracht tot 70% van 5% onderscheidenlijk 10% van het salaris voor zover op grond van artikel 17, tweede lid, 70% van de bezoldiging wordt doorbetaald.   
 
 ### Hoofdstuk  3  
 
@@ -537,7 +536,7 @@ b. zijn bezoldiging na herplaatsing.
 
 a. een percentage van zijn bezoldiging, zoals die zou zijn op de dag voorafgaand aan zijn herplaatsing indien hij op die dag niet ongeschikt zou zijn geweest om zijn arbeid te verrichten; en  
 
-b. zijn bezoldiging na herplaatsing, in voorkomend geval vermeerderd met een uit het oorspronkelijke ambt voortvloeiend recht op een WAO-uitkering, een WIA-uitkering, een invaliditeitspensioen, herplaatsingstoelage, of een AAOP-uitkering.     
+b. zijn bezoldiging na herplaatsing, in voorkomend geval vermeerderd met een uit het oorspronkelijke ambt voortvloeiend recht op een WAO-uitkering, een WIA-uitkering, een invaliditeitspensioen, een herplaatsingstoelage, of een AAOP-uitkering.     
 3.  Het percentage, bedoeld in het tweede lid, onderdeel a, is afhankelijk van de mate van arbeidsongeschiktheid en bedraagt bij een arbeidsongeschiktheid van: 80% of meer: 90,02%; 65 tot 80%: 65,26%; 55 tot 65%: 54,01%; 45 tot 55%: 45,01%; 35 tot 45%: 36,01%.   
 
 ### Artikel  19a  
@@ -674,7 +673,7 @@ r. zijn medewerking weigert bij de doelmatige uitvoering van de bepalingen van d
 1.  Bij samenloop van een aanspraak krachtens dit hoofdstuk met een WAO-uitkering, een WIA-uitkering, een AAOP-uitkering, een ZW-uitkering, een WW-uitkering of een bovenwettelijke WW-uitkering, wordt deze aanspraak verminderd met het bedrag van deze uitkeringen, tenzij het een tegemoetkoming op grond van artikel 27 betreft.   
 2.  Indien als gevolg van handelingen of het nalaten van handelingen door de rechterlijk ambtenaar of de gewezen rechterlijk ambtenaar de WAO-uitkering, de WIA-uitkering, de AAOP-uitkering, de ZW-uitkering, de WW-uitkering of de bovenwettelijke WW-uitkering vermindering ondergaat dan wel de aanspraak daarop geheel of gedeeltelijk wordt geweigerd, wordt de WAO-uitkering, de WIA-uitkering, de AAOP-uitkering, de ZW-uitkering, de WW-uitkering of de bovenwettelijke WW-uitkering voor het vaststellen van de vermindering, bedoeld in het eerste lid, steeds geacht onverminderd te zijn genoten.   
 3.  Indien ten aanzien van de WAO-uitkering, de WIA-uitkering of de ZW-uitkering, die de rechterlijk ambtenaar of de gewezen rechterlijk ambtenaar geniet, een verplichting wordt opgelegd of een sanctie wordt toegepast, wordt zoveel mogelijk dezelfde verplichting opgelegd dan wel een overeenkomende sanctie toegepast op de aanspraken op grond van dit hoofdstuk waarop de WAO-uitkering, de WIA-uitkering of de ZW-uitkering in mindering is gebracht.   
-4.  Indien de rechterlijk ambtenaar of de gewezen rechterlijk ambtenaar zowel op grond van de benoeming terzake waarvan hij aanspraken op grond van dit hoofdstuk heeft als op grond van een of meer andere betrekkingen een WAO-uitkering, WIA-uitkering of een ZW-uitkering geniet, wordt voor de toepassing van dit hoofdstuk onder WAO-uitkering, WIA-uitkering onderscheidenlijk ZW-uitkering verstaan, de WAO-uitkering, WIA-uitkering onderscheidenlijk de ZW-uitkering voorzover deze, naar rato van de bezoldiging uit hoofde van die benoeming en die andere betrekking of betrekkingen, wordt toegerekend aan die benoeming.   
+4.  Indien de rechterlijk ambtenaar of de gewezen rechterlijk ambtenaar zowel op grond van de benoeming terzake waarvan hij aanspraken op grond van dit hoofdstuk heeft als op grond van een of meer andere betrekkingen een WAO-uitkering, WIA-uitkering of ZW-uitkering geniet, wordt voor de toepassing van dit hoofdstuk onder WAO-uitkering, WIA-uitkering onderscheidenlijk ZW-uitkering verstaan, de WAO-uitkering, WIA-uitkering onderscheidenlijk ZW-uitkering voorzover deze, naar rato van de bezoldiging uit hoofde van die benoeming en die andere betrekking of betrekkingen, wordt toegerekend aan die benoeming.   
 
 ### Artikel  25a  
 
@@ -888,9 +887,9 @@ Indien een gerecht of parket op een daartoe aangewezen kerkelijke of nationale, 
 
 Onverminderd het bepaalde in artikel 33p wordt, tenzij het dienstbelang zich daartegen verzet, door de functionele autoriteit aan de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding buitengewoon verlof met behoud van bezoldiging verleend: 
 
-a. voor het zoeken van een woning in geval van herplaatsing in de zin van artikel 35d en [artikel 46k, van de wet](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en artikel 36c, eerste lid, onderdeel b, onder 2° en 3°: ten hoogste twee dagen.  
+a. voor het zoeken van een woning in geval van herplaatsing in de zin van artikel 35d,  [artikel 46k van de wet](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) of artikel 36c, eerste lid, onderdeel b: ten hoogste twee dagen.  
 
-b. bij verhuizing in geval van herplaatsing in de zin van artikel 35d en artikel 36c, eerste lid, onderdeel b, onder 2° en 3°: indien hij een eigen huishouding heeft: twee dagen, zo nodig te verlengen tot drie en in zeer bijzondere gevallen vier dagen en indien hij niet een eigen huishouding heeft: ten hoogste twee dagen.    
+b. bij verhuizing in geval van herplaatsing in de zin van artikel 35d,  [artikel 46k van de wet](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) of artikel 36c, eerste lid, onderdeel b: indien hij een eigen huishouding heeft: twee dagen, zo nodig te verlengen tot drie en in zeer bijzondere gevallen vier dagen en indien hij niet een eigen huishouding heeft: ten hoogste twee dagen.    
 
 ### Artikel  33ob  
 
@@ -916,6 +915,24 @@ d. bij bevalling van zijn echtgenote: ten hoogste twee dagen.
 2.  Onze Minister onderscheidenlijk de Raad voor de rechtspraak beslist op een verzoek om buitengewoon verlof als bedoeld in het eerste lid niet dan nadat hierover het advies van de functionele autoriteit is ingewonnen.   
 3.  Het buitengewoon verlof gaat niet eerder in dan na aanvaarding van dat verlof met de daaraan verbonden voorschriften door de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding.   
 4.  In geval van buitengewoon verlof zonder behoud van bezoldiging heeft de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding geen aanspraak op vakantie.   
+
+### Hoofdstuk  3b  
+
+####Nevenbetrekkingen
+
+### Artikel  33q  
+
+Als gegevens als bedoeld in [artikel 44a, zesde lid, van de wet](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) die niet of niet volledig openbaar worden gemaakt, worden in ieder geval aangemerkt gegevens die een aanwijzing vormen voor de woonplaats of het woonadres van de rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding gedurende zijn binnenstage.  
+
+### Artikel  33r  
+
+De categorieën van bezoldigingen, bedoeld in [artikel 44, zevende lid, onder g, van de wet](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), zijn: 
+
+a. minder dan € 5.000 bruto;  
+
+b. tussen € 5.000 en € 10.000 bruto;  
+
+c. meer dan € 10.000 bruto.    
 
 ### Hoofdstuk  4  
 
@@ -1003,7 +1020,7 @@ b. hem het voornemen tot het opleggen van de disciplinaire maatregel van onvoorw
 
 c. het belang van de dienst dit vereist.     
 2.  Een schorsing als bedoeld in het eerste lid wordt beëindigd zodra de grond hiervoor is vervallen.   
-3.  Schorsing als bedoeld in het eerste lid of beëindiging als bedoeld in het derde lid geschiedt door Onze Minister, met dien verstande dat hij hiertoe niet besluit dan nadat de functionele autoriteit onderscheidenlijk, indien het een rechterlijk ambtenaar in opleiding betreft, de rector hierover heeft geadviseerd dan wel het voorstel hiervoor heeft gedaan.   
+3.  Schorsing als bedoeld in het eerste lid of beëindiging als bedoeld in het tweede lid geschiedt door Onze Minister, met dien verstande dat hij hiertoe niet besluit dan nadat de functionele autoriteit onderscheidenlijk, indien het een rechterlijk ambtenaar in opleiding betreft, de rector hierover heeft geadviseerd dan wel het voorstel hiervoor heeft gedaan.   
 
 ### Artikel  34h  
 
@@ -1069,16 +1086,16 @@ a. indien de aangifte, bedoeld in [artikel 38, eerste lid, van de ZW](../../../.
 
 b. indien de aanvraag, bedoeld in [artikel 64, eerste lid, van de WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), later wordt gedaan dan in of op grond van dat artikel is voorgeschreven, met de duur van die vertraging;  
 
-c. indien de wachttijd, bedoeld in [artikel 19, eerste lid, van de WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), op grond van het zevende lid van dat artikel is verlengd, met de duur van die verlenging; en  
+c. indien de wachttijd, bedoeld in [artikel 19, eerste lid, van de WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), op grond van het zevende lid van dat artikel is verlengd, met de duur van die verlenging;  
 
 d. indien het UWV op grond van [artikel 71a, negende lid, van de WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) een tijdvak heeft vastgesteld, met de duur van dit tijdvak;  
 
-e. indien het UWV op grond van [artikel 24, eerste lid](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) dan wel [artikel 25, negende lid, van de WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), een tijdvak heeft vastgesteld: met de duur van dit tijdvak.     
+e. indien het UWV op grond van [artikel 24, eerste lid](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) dan wel [artikel 25, negende lid, van de WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), een tijdvak heeft vastgesteld, met de duur van dit tijdvak.     
 
 ### Artikel  35c  
 
 1.  Bij de beoordeling of er sprake is van een situatie als bedoeld in artikel 35b, tweede lid, betrekt de functionele autoriteit de uitslag van de beoordeling door het UWV van de aanvraag op grond van [artikel 64 van de WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).   
-2.  Indien de beoordeling bedoeld in de vorige volzin door het UWV niet of langer dan een jaar geleden heeft plaatsgevonden, dan wel indien de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding en diens functionele autoriteit het oneens zijn over het ontslag, kan aan het UWV een oordeel als bedoeld in [artikel 32, eerste lid, van de Wet Suwi](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) worden gevraagd en betrekt de functionele autoriteit dit bij zijn beoordeling.   
+2.  Indien de beoordeling, bedoeld in het eerste lid, door het UWV niet of langer dan een jaar geleden heeft plaatsgevonden, dan wel indien de rechterlijk ambtenaar en diens functionele autoriteit het oneens zijn over het ontslag, kan aan het UWV een oordeel als bedoeld in [artikel 32, eerste lid, van de Wet Suwi](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) worden gevraagd en betrekt de functionele autoriteit dit bij zijn beoordeling.   
 
 ### Artikel  35d  
 
@@ -1355,7 +1372,7 @@ Op de voor het leven benoemde rechterlijk ambtenaar, die in het kader van een re
 
 ### Artikel  38  
 
-1.  Een rechterlijk ambtenaar, die zijn ambt op basis van een aanstelling vervult, of rechterlijk ambtenaar in opleiding kan door de functionele autoriteit worden verplicht te gaan of blijven wonen in of nabij de gemeente waarin het gerecht of parket, waarbij hij werkzaam is of zijn opleiding doorbrengt, is gevestigd, indien dit naar het oordeel van de functionele autoriteit in verband met de vervulling van het ambt noodzakelijk is.   
+1.  Een rechterlijk ambtenaar die zijn ambt op basis van een aanstelling vervult of een rechterlijk ambtenaar in opleiding kan door de functionele autoriteit worden verplicht te gaan of blijven wonen in of nabij de gemeente waarin of van waaruit hij zijn ambt gewoonlijk vervult, indien dit noodzakelijk is in verband met de vervulling van het ambt.   
 2.  Aan de in het eerste lid bedoelde verplichting dient de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding te voldoen binnen twee jaar nadat zij is opgelegd.   
 
 ### Artikel  38a  
@@ -1512,62 +1529,59 @@ E. van Thijn
 
 ####als bedoeld in artikel 5, eerste lid , van het Besluit rechtspositie rechterlijke ambtenaren
 
-| Salariscategorie  | salaris in euro’s per maand  |--- |--- |--- | per 1 april 2009  |
-|:---|:---|:---|:---|:---|:---|
-| 1  | --- | --- | 10501,20  |
-| 2  | --- | --- | 9857,18  |
-| 3  | --- | --- | 9253,82  |
-| 4  | --- | --- | 8960,48  |
-| 5  | --- | --- | 8685,54  |
-| 6  | --- | aanvang  | 7912,43  |
-| --- | --- | na 1 jaar  | 8162,51  |
-| --- | --- | na 2 jaar  | 8412,44  |
-| --- | --- | na 3 jaar  | 8685,54  |
-| 7  | --- | aanvang  | 6777,39  |
-| --- | --- | na 1 jaar  | 7209,95  |
-| --- | --- | na 2 jaar  | 7671,48  |
-| --- | --- | na 3 jaar  | 7912,43  |
-| 8  | --- | aanvang  | 6777,39  |
-| --- | --- | na 1 jaar  | 6991,39  |
-| --- | --- | na 2 jaar  | 7209,95  |
-| --- | --- | na 3 jaar  | 7437,16  |
-| 9  | --- | aanvang  | 5254,53  |
-| --- | --- | na 1 jaar  | 5395,83  |
-| --- | --- | na 2 jaar  | 5534,60  |
-| --- | --- | na 3 jaar  | 5683,04  |
-| --- | --- | na 4 jaar  | 5835,01  |
-| --- | --- | na 5 jaar  | 5990,55  |
-| --- | --- | na 6 jaar  | 6178,12  |
-| --- | --- | na 7 jaar  | 6372,28  |
-| --- | --- | na 8 jaar  | 6572,04  |
-| --- | --- | na 9 jaar  | 6777,39  |
-| 10  | --- | aanvang  | 4503,78  |
-| --- | --- | na 1 jaar  | 4615,61  |
-| --- | --- | na 2 jaar  | 4722,84  |
-| --- | --- | na 3 jaar  | 4835,19  |
-| --- | --- | na 4 jaar  | 4974,47  |
-| --- | --- | na 5 jaar  | 5114,75  |
-| --- | --- | na 6 jaar  | 5254,53  |
-| --- | --- | na 7 jaar  | 5395,83  |
-| --- | --- | na 8 jaar  | 5461,91  |
-| 11  | --- | aanvang  | 3947,19  |
-| --- | --- | na 1 jaar  | 4059,52  |
-| --- | --- | na 2 jaar  | 4171,34  |
-| --- | --- | na 3 jaar  | 4282,17  |
-| --- | --- | na 4 jaar  | 4389,91  |
-| --- | --- | na 5 jaar  | 4503,78  |
-| --- | --- | na 6 jaar  | 4615,61  |
-| --- | --- | na 7 jaar  | 4722,84  |
-| --- | --- | na 8 jaar  | 4835,19  |
-| --- | --- | na 9 jaar  | 4974,47  |
-| --- | --- | na 10 jaar  | 5044,61  |
-| 12  | --- | aanvang  | 2454,83  |
-| --- | --- | na 1 jaar  | 2566,64  |
-| --- | --- | na 2 jaar  | 2917,38  |
-| --- | --- | na 3 jaar  | 3268,11  |
-| --- | --- | na 4 jaar  | 3388,57  |
-| --- | --- | na 5 jaar  | 3500,91  |
-| --- | --- | na 6 jaar  | 3602,56  |
-| --- | --- | na 7 jaar  | 3708,80  |
-| --- | --- | na 8 jaar  | 3828,24  |
+| Salariscategorie  | Salaris in euro’s per maand  |
+|:---|:---|
+| 1  | --- | --- | --- | --- | 10501,20  |
+| 2  | --- | --- | --- | --- | 9857,18  |
+| 3  | --- | --- | --- | --- | 9253,82  |
+| 4  | --- | --- | --- | --- | 8960,48  |
+| 5  | --- | --- | --- | --- | 8685,54  |
+| 6  | --- | --- | --- | --- | 8298,98  |
+| 7  | --- | aanvang  | --- | --- | 6777,39  |
+| --- | --- | na 1 jaar  | --- | --- | 7209,95  |
+| --- | --- | na 2 jaar  | --- | --- | 7671,48  |
+| --- | --- | na 3 jaar  | --- | --- | 7912,43  |
+| 8  | --- | aanvang  | --- | --- | 6777,39  |
+| --- | --- | na 1 jaar  | --- | --- | 6991,39  |
+| --- | --- | na 2 jaar  | --- | --- | 7209,95  |
+| --- | --- | na 3 jaar  | --- | --- | 7437,16  |
+| 9  | --- | aanvang  | --- | --- | 5254,53  |
+| --- | --- | na 1 jaar  | --- | --- | 5395,83  |
+| --- | --- | na 2 jaar  | --- | --- | 5534,60  |
+| --- | --- | na 3 jaar  | --- | --- | 5683,04  |
+| --- | --- | na 4 jaar  | --- | --- | 5835,01  |
+| --- | --- | na 5 jaar  | --- | --- | 5990,55  |
+| --- | --- | na 6 jaar  | --- | --- | 6178,12  |
+| --- | --- | na 7 jaar  | --- | --- | 6372,28  |
+| --- | --- | na 8 jaar  | --- | --- | 6572,04  |
+| --- | --- | na 9 jaar  | --- | --- | 6777,39  |
+| 10  | --- | aanvang  | --- | --- | 4503,78  |
+| --- | --- | na 1 jaar  | --- | --- | 4615,61  |
+| --- | --- | na 2 jaar  | --- | --- | 4722,84  |
+| --- | --- | na 3 jaar  | --- | --- | 4835,19  |
+| --- | --- | na 4 jaar  | --- | --- | 4974,47  |
+| --- | --- | na 5 jaar  | --- | --- | 5114,75  |
+| --- | --- | na 6 jaar  | --- | --- | 5254,53  |
+| --- | --- | na 7 jaar  | --- | --- | 5395,83  |
+| --- | --- | na 8 jaar  | --- | --- | 5461,91  |
+| 11  | --- | aanvang  | --- | --- | 3947,19  |
+| --- | --- | na 1 jaar  | --- | --- | 4059,52  |
+| --- | --- | na 2 jaar  | --- | --- | 4171,34  |
+| --- | --- | na 3 jaar  | --- | --- | 4282,17  |
+| --- | --- | na 4 jaar  | --- | --- | 4389,91  |
+| --- | --- | na 5 jaar  | --- | --- | 4503,78  |
+| --- | --- | na 6 jaar  | --- | --- | 4615,61  |
+| --- | --- | na 7 jaar  | --- | --- | 4722,84  |
+| --- | --- | na 8 jaar  | --- | --- | 4835,19  |
+| --- | --- | na 9 jaar  | --- | --- | 4974,47  |
+| --- | --- | na 10 jaar  | --- | --- | 5044,61  |
+| 12  | --- | aanvang  | --- | --- | 2454,83  |
+| --- | --- | na 1 jaar  | --- | --- | 2566,64  |
+| --- | --- | na 2 jaar  | --- | --- | 2917,38  |
+| --- | --- | na 3 jaar  | --- | --- | 3268,11  |
+| --- | --- | na 4 jaar  | --- | --- | 3388,57  |
+| --- | --- | na 5 jaar  | --- | --- | 3500,91  |
+| --- | --- | na 6 jaar  | --- | --- | 3602,56  |
+| --- | --- | na 7 jaar  | --- | --- | 3708,80  |
+| --- | --- | na 8 jaar  | --- | --- | 3828,24  |
 

@@ -29,7 +29,9 @@ f. *het ARAR:* het [Algemeen Rijksambtenarenreglement](../../../../../../../../.
 
 g. *het BBRA 1984:* het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md);  
 
-h. *de Kaderwet:* de [Kaderwet zelfstandige bestuursorganen](../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).    
+h. *de Kaderwet:* de [Kaderwet zelfstandige bestuursorganen](../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md);  
+
+i. *het CAK:* het CAK, genoemd in [artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).    
 
 ### Hoofdstuk  2  
 
@@ -45,9 +47,11 @@ a. het College bouw,
 
 b. het College sanering,  
 
-c. het College zorgverzekeringen en  
+c. het College zorgverzekeringen,  
 
-d. de zorgautoriteit.    
+d. de zorgautoriteit,  
+
+e. het CAK.    
 
 ### Artikel  3  
 
@@ -125,9 +129,11 @@ b. de gemaakte kosten voor plaatselijk vervoer in de gemeente, waarin de vergade
 
 a. het College sanering,  
 
-b. het College zorgverzekeringen en  
+b. het College zorgverzekeringen,  
 
-c. de zorgautoriteit.     
+c. de zorgautoriteit,  
+
+d. het CAK.     
 2.  Dit hoofdstuk is, met inachtneming van de tussen de Minister en het College bouw gemaakte afspraken over de afbouw van dat college, waar mogelijk van overeenkomstige toepassing op het College bouw.   
 
 ### Artikel  12  
@@ -171,6 +177,7 @@ f. baten.
 3.  In de begroting wordt het vermoedelijk beloop in het lopende jaar opgenomen.   
 4.  In de meerjarenraming worden zoveel mogelijk de financiële gevolgen tot uitdrukking gebracht van hetgeen ten grondslag ligt aan de bedragen die zijn opgenomen in de begroting.   
 5.  De begroting bevat een raming van de maandelijkse liquiditeitsbehoefte voor het desbetreffende begrotingsjaar.   
+6.  In de begroting van het CAK wordt onderscheid gemaakt tussen tegemoetkomingen op grond van het eerste en het tweede lid van [artikel 2 van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md) alsmede tussen de in deze leden genoemde bedragen.   
 
 ### Artikel  16  
 
@@ -202,6 +209,15 @@ g. substantiële schommelingen in de meerjarenraming worden toegelicht.
 4.  In het jaarverslag bedoeld in [artikel 18 van de Kaderwet](../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) doet het bestuursorgaan verslag van hetgeen tot uitvoering van [artikel 41 van de Kaderwet](../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is verricht.   
 5.  De accountantscontrole geschiedt met inachtneming van een door de Minister vastgesteld protocol dat geacht wordt deel uit te maken van deze regeling.   
 
+### Artikel  17a  
+
+####Aanvullende bepaling jaarrekening CAK
+
+1.  In de jaarrekening van het CAK wordt onderscheid gemaakt tussen tegemoetkomingen op grond van het eerste en het tweede lid van [artikel 2, van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md) alsmede tussen de in deze leden genoemde bedragen.   
+2.  Het CAK baseert in de jaarrekening, bedoeld in [artikel 51, vierde lid, van Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), de rechtmatigheid van de verstrekkingen van tegemoetkomingen als bedoeld in [artikel 2, eerste lid, van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md) op de in het derde lid genoemde beoordeling.   
+3.  De Minister van Volksgezondheid, Welzijn en Sport beoordeelt de rechtmatigheid, bedoeld in het tweede lid, op basis van de resultaten van een door hem uitgevoerde statistische steekproef.   
+4.  Bij het onderzoek dat aan de verklaring omtrent de getrouwheid en het verslag van bevindingen ten grondslag ligt, wordt de in het derde lid bedoelde beoordeling als gegeven beschouwd.   
+
 ### Artikel  18  
 
 ####Inrichting exploitatierekening en jaarverslag
@@ -223,7 +239,7 @@ g. substantiële schommelingen in de meerjarenraming worden toegelicht.
 
 ####Toestemming verrichten van handelingen
 
-Het College zorgverzekeringen en de zorgautoriteit behoeven voorafgaande toestemming van de Minister voor het verrichten van handelingen als bedoeld in [artikel 32, onderdelen a en d tot en met g, van de Kaderwet](../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).  
+Het CAK, het College zorgverzekeringen en de zorgautoriteit behoeven voorafgaande toestemming van de Minister voor het verrichten van handelingen als bedoeld in [artikel 32, onderdelen a en d tot en met g, van de Kaderwet](../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).  
 
 ### Hoofdstuk  4  
 
@@ -253,7 +269,7 @@ Deze regeling wordt aangehaald als: Regeling bezoldiging en beheerskosten bestuu
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking op het tijdstip dat de Wet van 31 maart 2011 tot aanpassing van enige wetten teneinde een aantal zelfstandige bestuursorganen onder de werking van de Kaderwet zelfstandige bestuursorganen te brengen (Stb. 2011, 214) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip dat de Wet van 31 maart 2011 tot aanpassing van enige wetten teneinde een aantal zelfstandige bestuursorganen onder de werking van de Kaderwet zelfstandige bestuursorganen te brengen (Stb. 2011, 204) in werking treedt.  
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.  
 
 De 

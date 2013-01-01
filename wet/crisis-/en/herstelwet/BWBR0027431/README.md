@@ -49,16 +49,11 @@ Bij algemene maatregel van bestuur op de voordracht van Onze Minister-President,
 
 ### Artikel  1.4  
 
-In afwijking van [artikel 8:1, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan een niet tot de centrale overheid behorende rechtspersoon die krachtens publiekrecht is ingesteld of een niet tot de centrale overheid behorend bestuursorgaan geen beroep instellen tegen een besluit, indien dat besluit niet is gericht tot die rechtspersoon of tot een orgaan van die rechtspersoon, onderscheidenlijk tot dat bestuursorgaan of tot de rechtspersoon waartoe dat bestuursorgaan behoort.  
+In afwijking van [artikel 8:1 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan een niet tot de centrale overheid behorende rechtspersoon die krachtens publiekrecht is ingesteld of een niet tot de centrale overheid behorend bestuursorgaan geen beroep instellen tegen een besluit, indien dat besluit niet is gericht tot die rechtspersoon of tot een orgaan van die rechtspersoon, onderscheidenlijk tot dat bestuursorgaan of tot de rechtspersoon waartoe dat bestuursorgaan behoort.  
 
 ### §  2.3  
 
 ####Passeren gebreken
-
-### Artikel  1.5  
-
-1.  Een besluit waartegen bezwaar is gemaakt of beroep is ingesteld, kan ondanks schending van een geschreven of ongeschreven rechtsregel of algemeen rechtsbeginsel, door het orgaan dat op het bezwaar of beroep beslist, in stand worden gelaten indien aannemelijk is dat de belanghebbenden daardoor niet zijn benadeeld.   
-2.  [Artikel 6:22 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) blijft buiten toepassing.   
 
 ### §  2.4  
 
@@ -66,10 +61,10 @@ In afwijking van [artikel 8:1, eerste lid, van de Algemene wet bestuursrecht](..
 
 ### Artikel  1.6  
 
-1.  De administratieve rechter behandelt het beroep met toepassing van [afdeling 8.2.3 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  De bestuursrechter behandelt het beroep met toepassing van [afdeling 8.2.3 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 2.  In afwijking van [artikel 6:6 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is het beroep niet-ontvankelijk indien niet is voldaan aan [artikel 6:5, eerste lid, onderdeel d, van die wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-3.  Indien de administratieve rechter het advies van de Stichting advisering bestuursrechtspraak inwint, brengt de Stichting binnen twee maanden na het verzoek advies uit.   
-4.  De administratieve rechter doet uitspraak binnen zes maanden na afloop van de beroepstermijn.   
+3.  Indien de bestuursrechter het advies van de Stichting advisering bestuursrechtspraak inwint, brengt de Stichting binnen twee maanden na het verzoek advies uit.   
+4.  De bestuursrechter doet uitspraak binnen zes maanden na afloop van de beroepstermijn.   
 
 ### Artikel  1.6a  
 
@@ -77,8 +72,8 @@ Na afloop van de termijn voor het instellen van beroep kunnen geen beroepsgronde
 
 ### Artikel  1.7  
 
-1.  Artikel 1.6, vierde lid, is niet van toepassing, indien [artikel 8:51a van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), dan wel [artikel 36, zesde lid](../../../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md), of [artikel 39, zesde lid, van de Wet op de Raad van State](../../../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) of [artikel 19, zesde lid](../../../../../wet/wet/bestuursrechtspraak/bedrijfsorganisatie/BWBR0002144/README.md), of [artikel 22, zesde lid, van de Wet bestuursrechtspraak bedrijfsorganisatie](../../../../../wet/wet/bestuursrechtspraak/bedrijfsorganisatie/BWBR0002144/README.md) wordt toegepast.   
-2.  In dat geval doet de administratieve rechter: 
+1.  Artikel 1.6, vierde lid, is niet van toepassing, indien [artikel 8:51a](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of [8:51d van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt toegepast.   
+2.  In dat geval doet de bestuursrechter: 
 
 a. binnen zes maanden na afloop van de beroepstermijn een tussenuitspraak, en  
 
@@ -86,18 +81,14 @@ b. binnen zes maanden na de verzending van de tussenuitspraak een einduitspraak.
 
 ### Artikel  1.8  
 
-1.  Artikel 1.6, vierde lid, is niet van toepassing, indien de administratieve rechter met toepassing van artikel 234 van het Verdrag tot oprichting van de Europese Gemeenschap prejudiciële vragen stelt.   
+1.  Artikel 1.6, vierde lid, is niet van toepassing, indien de bestuursrechter met toepassing van artikel 234 van het Verdrag tot oprichting van de Europese Gemeenschap prejudiciële vragen stelt.   
 2.  In dat geval worden de vragen binnen zes maanden na afloop van de beroepstermijn bij tussenuitspraak gesteld.   
 3.  In de tussenuitspraak beslist de rechter zoveel mogelijk ook op de beroepsgronden die niet door de vragen worden geraakt.   
 4.  Tegen een tussenuitspraak van de rechtbank kan hoger beroep worden ingesteld tegelijk met het hoger beroep tegen de einduitspraak.   
 
-### Artikel  1.9  
-
-De administratieve rechter vernietigt een besluit niet op de grond, dat het in strijd is met een geschreven of ongeschreven rechtsregel of een algemeen rechtsbeginsel, indien deze regel of dit beginsel kennelijk niet strekt tot bescherming van de belangen van degene die zich daarop beroept.  
-
 ### Artikel  1.9a  
 
-De artikelen 1.5 tot en met 1.9 zijn van overeenkomstige toepassing in hoger beroep.  
+De artikelen 1.6 tot en met 1.8 zijn van overeenkomstige toepassing in hoger beroep.  
 
 ### §  2.5  
 
@@ -105,7 +96,7 @@ De artikelen 1.5 tot en met 1.9 zijn van overeenkomstige toepassing in hoger ber
 
 ### Artikel  1.10  
 
-1.  Indien een bestuursorgaan na vernietiging van een besluit door de administratieve rechter een nieuw besluit moet nemen, kan het dat besluit baseren op de feiten waarop het vernietigde besluit berustte, behoudens voor zover de onjuistheid of het onvoldoende vast staan van deze feiten een grond voor de vernietiging was.   
+1.  Indien een bestuursorgaan na vernietiging van een besluit door de bestuursrechter een nieuw besluit moet nemen, kan het dat besluit baseren op de feiten waarop het vernietigde besluit berustte, behoudens voor zover de onjuistheid of het onvoldoende vast staan van deze feiten een grond voor de vernietiging was.   
 2.  Het eerste lid is van overeenkomstige toepassing indien een nieuw besluit wordt genomen ter uitvoering van een tussenuitspraak als bedoeld in [artikel 8:80a van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 
 ### Afdeling  3  
@@ -175,7 +166,7 @@ e. een raming van de kosten van uitvoering van het gebiedsontwikkelingsplan, een
 
 f. een overzicht van de tijdstippen waarop aan de gemeenteraad een rapportage zal worden uitgebracht over de voortgang en de uitvoering van de in de onderdelen a, b en c bedoelde projecten, maatregelen en werken, die op verzoek tevens wordt verstrekt aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.     
 3.  [Afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
-4.  Tegen een gebiedsontwikkelingsplan kan beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Het bestemmingsplan, het exploitatieplan en het gebiedsontwikkelingsplan worden voor de behandeling en uitspraak op het beroep aangemerkt als één besluit.   
+4.  Het bestemmingsplan, het exploitatieplan en het gebiedsontwikkelingsplan worden voor de behandeling en uitspraak op het beroep aangemerkt als één besluit.   
 5.  Indien voor de uitvoering van maatregelen of werken als bedoeld in het tweede lid, onderdelen b en c, enig besluit is vereist, kunnen burgemeester en wethouders, met inachtneming van desbetreffende bindende besluiten van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Europese Commissie, dat besluit nemen, mits het gebiedsontwikkelingsplan waarin de maatregel of werken zijn opgenomen onherroepelijk is geworden en voor zover nodig in afwijking van bij algemene maatregel van bestuur aangegeven bepalingen bij of krachtens: 
 
 a. de [Flora- en faunawet](../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);  
@@ -203,13 +194,7 @@ j. de [Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.
 9.  De [artikelen 2.27, tweede, vierde en vijfde lid](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), en [3.11, eerste, tweede, vijfde en zesde lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) zijn van overeenkomstige toepassing met dien verstande dat voor «omgevingsvergunning» telkens wordt gelezen «een besluit als bedoeld in artikel 2.3, vijfde lid, van de Crisis- en herstelwet» en voor «verklaring» telkens wordt gelezen: verklaring als bedoeld in artikel 2.3, zesde lid, van de Crisis- en herstelwet.   
 10.  De gemeente draagt zorg voor het uitvoeren van de maatregelen of werken, bedoeld in het tweede lid, onderdelen b en c, binnen een in het plan te noemen termijn.   
 11.  Werken opgenomen in het gebiedsontwikkelingsplan worden aangemerkt als openbare werken van algemeen nut in de zin van de [Belemmeringenwet Privaatrecht](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md).   
-12.  Indien voor de uitvoering van werken als bedoeld in het tweede lid, onderdelen b en c toepassing van de [Belemmeringenwet Privaatrecht](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) noodzakelijk is, geldt in plaats van [artikel 4 van die wet](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) dat: 
-
-a. tegen een besluit als bedoeld in [artikel 2, vijfde lid](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), of [artikel 3, tweede lid, van die wet](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) een belanghebbende beroep kan instellen bij de Afdeling bestuursrechtspraak van de Raad van State;  
-
-b. [artikel 7:1 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing is, en  
-
-c. de werking van een besluit als bedoeld in [artikel 2, vijfde lid](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), of [artikel 3, tweede lid, van de Belemmeringenwet Privaatrecht](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) opgeschort wordt totdat de beroepstermijn is verstreken.     
+12.  Indien voor de uitvoering van werken als bedoeld in het tweede lid, onderdelen b en c, toepassing van de [Belemmeringenwet Privaatrecht](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) noodzakelijk is, geldt in plaats van [artikel 4 van die wet](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) dat de werking van een besluit als bedoeld in [artikel 2, vijfde lid](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), of [artikel 3, tweede lid, van die wet](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) opgeschort wordt totdat de beroepstermijn is verstreken.   
 13.  Voor zover een besluit als bedoeld in het vijfde lid zijn grondslag vindt in een gebiedsontwikkelingsplan, kunnen de gronden in beroep daarop geen betrekking hebben.   
 
 ### Artikel  2.3a  
@@ -381,10 +366,6 @@ Op de voorbereiding van de beslissing tot vaststelling van het projectuitvoering
 ### Artikel  2.12  
 
 Voor zover het projectuitvoeringsbesluit niet in overeenstemming is met het bestemmingsplan of een beheersverordening, geldt het projectuitvoeringsbesluit als een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan, het inpassingsplan of de beheersverordening wordt afgeweken.  
-
-### Artikel  2.13  
-
-Tegen een besluit als bedoeld in artikel 2.10, eerste lid, kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.  
 
 ### Artikel  2.14  
 

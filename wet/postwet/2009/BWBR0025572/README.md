@@ -622,10 +622,6 @@ Onze Minister geeft aan een verlener van de universele postdienst voorschriften 
 
 ####Beroep
 
-### Artikel  73  
-
-In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroep tegen besluiten op grond van deze wet de rechtbank te Rotterdam bevoegd.  
-
 ### Hoofdstuk  13  
 
 ####Wijziging in andere wetten

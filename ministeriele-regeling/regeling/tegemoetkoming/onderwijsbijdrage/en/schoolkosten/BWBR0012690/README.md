@@ -51,7 +51,7 @@ Gegevens die nodig zijn voor de vaststelling van de aanspraak op tegemoetkoming 
 
 1.  Indien uit een beschikking tot herziening, bedoeld in [artikel 7.1, eerste lid, van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) blijkt dat teveel tegemoetkoming is uitbetaald, wordt dit op de voet van het tweede en derde lid verrekend met nog te verrichten betalingen op grond van de wet.   
 2.  Eerst wordt het teveel uitbetaalde bedrag zoveel mogelijk verrekend met de nabetalingen die vanaf het tijdstip van afgifte van de beschikking, bedoeld in het eerste lid, aan de aanvrager zouden moeten worden gedaan.   
-3.  Vervolgens wordt, zolang het teveel uitbetaalde bedrag nog niet volledig is verrekend met de nabetalingen, bedoeld in het tweede lid, verrekend met de betalingen, bedoeld in hoofdstuk 4. Wanneer die betalingen hoger zijn dan € 56,33 naar de maatstaf van 1 januari 2011, geschiedt de verrekening met dat bedrag.   
+3.  Vervolgens wordt, zolang het teveel uitbetaalde bedrag nog niet volledig is verrekend met de nabetalingen, bedoeld in het tweede lid, verrekend met de betalingen, bedoeld in hoofdstuk 4. Wanneer die betalingen hoger zijn dan € 58,38 naar de maatstaf van 1 januari 2013, geschiedt de verrekening met dat bedrag.   
 4.  Onder nabetalingen, bedoeld in het tweede lid, wordt verstaan de betaling van bedragen die op grond van enige herzieningsbeschikking over de reeds op het tijdstip van afgifte van die beschikking verstreken betalingsperiode betaalbaar zouden worden gesteld indien geen sprake zou zijn van verrekening als bedoeld in het tweede lid.   
 
 ### Artikel  3.2  Terugbetaling na herziening  

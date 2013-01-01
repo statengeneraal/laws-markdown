@@ -95,7 +95,11 @@ Een plaats waar geen alcoholvrije dranken worden vervaardigd, kan uitsluitend al
 
 ### Artikel  10  
 
-In afwijking van het in artikel 14, tweede lid, van de wet van overeenkomstige toepassing verklaarde [artikel 40, tweede lid, van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) kunnen als inrichting in aanmerking komen plaatsen van waaruit alcoholvrije dranken, pruimtabak of snuiftabak worden geleverd met vrijstelling van belasting als bedoeld in artikel 19.  
+In afwijking van het in [artikel 14, tweede lid, van de wet](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) van overeenkomstige toepassing verklaarde [artikel 40, tweede lid, van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) kunnen als inrichting in aanmerking komen: 
+
+a. plaatsen vanwaaruit alcoholvrije dranken worden geleverd met vrijstelling van belasting als bedoeld in artikel 19;  
+
+b. plaatsen vanwaaruit, onder door de inspecteur te stellen voorwaarden, alcoholvrije dranken worden afgeleverd aan verbruikers.    
 
 ### Artikel  11  
 
@@ -343,49 +347,50 @@ Pruimtabak of snuiftabak die door reizigers voor eigen gebruik als bagage wordt 
 
 ### Artikel  24  
 
-1.  De belastingzegels worden aangevraagd bij: 
+1.  De belastingzegels worden aangevraagd bij de zegelproducent die door de algemeen directeur Douane, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), is aangewezen.   
+2.  De zegelproducent mag zich laten vertegenwoordigen door een distributeur van de belastingzegels.   
+3.  Voor het aanvragen van belastingzegels wordt gebruikgemaakt van het formulier dat door de zegelproducent beschikbaar wordt gesteld. De aanvraag bevat de volgende gegevens: 
 
-a. de inspecteur onder wie de plaats waar de inrichting voor pruimtabak of snuiftabak is gelegen, ressorteert;  
+a. de naam, adres en vestigingsplaats van de aanvrager;  
 
-b. de algemeen directeur, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) voor pruimtabak of snuiftabak die door of in opdracht van een ander dan een vergunninghouder van een inrichting voor pruimtabak of snuiftabak buiten Nederland van belastingzegels wordt voorzien.     
-2.  Indien een vergunninghouder van een inrichting voor pruimtabak of snuiftabak belastingzegels aanvraagt voor pruimtabak of snuiftabak die buiten Nederland van die zegels wordt voorzien, dient hij daarvan afzonderlijk aantekening te houden in zijn administratie.   
-3.  Voor het aanvragen van belastingzegels dient gebruik te worden gemaakt van de formulieren die van rijkswege verkrijgbaar worden gesteld.   
+b. de naam en telefoonnummer van de contactpersoon van de aanvrager;  
 
-### Artikel  25  
+c. het nummer van de toestemming om belastingzegels aan te vragen;  
 
-1.  De belastingzegels worden verkrijgbaar gesteld bij G4S Value Services BV.   
-2.  De belastingzegels worden door G4S Value Services BV rechtstreeks aan de aanvrager gezonden, tenzij uit de aanvraag blijkt dat zij door de aanvrager of diens gemachtigde in ontvangst zullen worden genomen bij G4S Value Services BV.   
+d. een door de aanvrager toegekend doorlopend nummer;  
+
+e. het aantal vellen bedrukte belastingzegels waarbij per soort wordt aangegeven: 
+
+1°. het aantal belastingzegels per vel;  
+
+2°. de kleinhandelsprijs en de hoeveelheid op de belastingzegel;  
+
+3°. de aanwezige voorraad belastingzegels onderscheiden naar soort.       
+4.  De zegelproducent en de aanvrager nemen een exemplaar van de aanvraag op in hun administratie.   
 
 ### Artikel  26  
 
-1.  De belastingzegels worden verkrijgbaar gesteld in hoeveelheden van één of meer vellen.   
-2.  Van de in artikel 27 vermelde lint- en sluitzegels zijn twee vellen met een verschillend aantal zegels verkrijgbaar. Het aantal zegels per vel wordt vastgesteld door G4S Value Services BV na overleg met de desbetreffende organisaties van de tabaksbranche.   
+1.  De belastingzegels worden verkrijgbaar gesteld door de zegelproducent op het distributiepunt in hoeveelheden van één of meer vellen.   
+2.  Het aantal belastingzegels per vel wordt vastgesteld door de zegelproducent.   
+3.  Als de aangevraagde belastingzegels niet binnen vier weken na het tijdstip waarop zij op het distributiepunt beschikbaar zijn gesteld zijn afgehaald, wordt de aanvraag geacht niet te zijn gedaan.   
 
 ### Artikel  27  
 
-1.  De belastingzegels hebben de vorm van een rechthoek. De zegels worden uitgevoerd én als lintzegel én als sluitzegel.   
-2.  De grootte van de lintzegels bedraagt 2 × 2,6 cm. De grootte van de sluitzegels bedraagt: 2,4 × 4,3 cm of 2,85 × 5,1 cm.   
-
-### Artikel  28  
-
-1.  Lintzegels bestemd om te worden aangebracht op verpakkingen bevatten vier vakken met rechte hoeken. De twee vakken in het midden zijn bestemd voor de vermelding van de nettomassa en de soort van het tabaksprodukt, van de kleinhandelsprijs en van de naam van degene die de belastingzegels heeft aangevraagd, welke naam in het rechter middenvak wordt vermeld. De in artikel 28a bedoelde aanduidingen worden opgenomen in de twee opengebleven vakken onder vermelding van het in dat artikel bedoelde besluit.   
-2.  De sluitzegels bevatten geen open vakken. De nettomassa en de soort van het tabaksprodukt, alsmede de kleinhandelsprijs worden over het beeld van de zegels heen gedrukt links van de zegelbeeld. De naam van degene die de belastingzegels heeft aangevraagd, wordt opgenomen rechts van het zegelbeeld. De in artikel 28a bedoelde aanduidingen worden opgenomen boven en onder het zegelbeeld onder vermelding van het in dat artikel bedoelde besluit.   
+1.  De vorm van de belastingzegels, bedoeld in [artikel 35, eerste lid, van de wet](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), bestaat uit een ondergrond gevormd door een herhaling van het woord Benelux met aan beide korte zijden een ornament van tabaksbladeren. Bovendien zijn in deze ondergrond opgenomen de Belgische, de Nederlandse en de Luxemburgse Leeuw. Het zegelbeeld wordt gevormd door de letter B, N en L in monogramvorm, het geheel omgeven door een randmotief en vier ornamenten van tabaksbladeren. Op de zegel is linksboven een haakje opgenomen met daarin de letters NL.   
+2.  De belastingzegels worden gedrukt met een ondergrond in grijs. Het zegelbeeld en de van rijkswege aangebrachte vermeldingen worden in diepblauw gedrukt.   
+3.  De belastingzegels hebben de vorm van een rechthoek en hebben een grootte van 2,4 x 4,3 cm.   
+4.  Onder het beeld van de belastingzegels zijn gedrukt de hoeveelheid (nettomassa of aantal stuks) en de soort van het product en boven het beeld van de belastingzegels de kleinhandelsprijs. De naam van degene die de belastingzegel heeft aangevraagd, wordt opgenomen onder de vermelding van de soort van het product.   
 
 ### Artikel  28a  
 
-Op de lintzegels en op de sluitzegels mogen op de daarvoor aangewezen plaats aanduidingen als bedoeld in het Aanduidingenbesluit tabaksprodukten (Stb. 1994, 720) worden aangebracht.  
+Op de sluitzegels mogen op de daarvoor aangewezen plaats aanduidingen als bedoeld in het Aanduidingenbesluit tabaksprodukten (Stb. 1994, 720) worden aangebracht.  
 
 ### Artikel  29  
 
 1.  De inspecteur kan op verzoek van degene die de belastingzegels heeft aangevraagd, toestaan dat op de belastingzegel in plaats van de naam een fabrieks- of handelsmerk of een door het Ministerie van Financiën vastgesteld nummer wordt vermeld.   
-2.  De zegels worden afgeleverd zonder vermelding van de in artikel 28 bedoelde naam of van het in het eerste lid van dit artikel bedoelde fabrieks- of handelsmerk of nummer. Een van deze vermeldingen moet door degene die de belastingzegels heeft aangevraagd op duidelijke en onuitwisbare wijze worden aangebracht op de daarvoor aangewezen plaats op de zegels.   
-3.  Door degene die de accijnszegels heeft aangevraagd mag een code worden aangebracht, bestaande uit letters dan wel uit een nummer voorafgegaan door een letter. Deze code dient te worden vermeld op de sluitzegels rechts van het zegelbeeld en op de lintzegels in het rechter middenvak.   
-4.  Het is verboden op de zegels andere dan de in dit artikel voorgeschreven en toegestane vermeldingen aan te brengen.   
-
-### Artikel  30  
-
-1.  Het beeld van de lintzegels bestaat uit een versieringsmotief waarin van links naar rechts de Belgische, de Nederlandse en de Luxemburgse Leeuw voorkomen. Bovendien zijn in de zegels tweemaal de letters B, N en L in monogramvorm opgenomen. De sluitzegels bestaan uit een ondergrond gevormd door een herhaling van het woord Benelux met aan beide korte zijden een ornament van tabaksbladeren. Bovendien zijn in deze ondergrond opgenomen de Belgische, de Nederlandse en de Luxemburgse Leeuw. Het zegelbeeld wordt gevormd door de letters B, N en L in monogramvorm, het geheel omgeven door een randmotief.   
-2.  2. De zegels worden gedrukt in de volgende kleuren: de ondergrond in lichtbruin en het zegelbeeld alsmede de van rijkswege aangebrachte vermeldingen in groenachtig blauw.   
+2.  De belastingzegels worden afgeleverd zonder vermelding van de in artikel 27, vierde lid, bedoelde naam of van het in het eerste lid bedoelde fabrieks- of handelsmerk of nummer. Een van deze vermeldingen wordt door degene die de belastingzegels heeft aangevraagd op duidelijke en onuitwisbare wijze aangebracht op de in artikel 27, vierde lid, genoemde plaats van de belastingzegel.   
+3.  Door degene die de accijnszegels heeft aangevraagd mag een code worden aangebracht, bestaande uit letters dan wel uit een nummer voorafgegaan door een letter. Deze code dient te worden vermeld rechts van het zegelbeeld.   
+4.  Het is verboden om zonder toestemming van de inspecteur op de zegels andere dan de in dit artikel voorgeschreven en toegestane vermeldingen aan te brengen.   
 
 ### Artikel  31  
 
@@ -393,17 +398,12 @@ Sluitzegels mogen worden gebruikt voor plastic zakken (zogenoemde pouch-verpakki
 
 ### Artikel  32  
 
-1.  De belastingzegels moeten met kleefstof geheel op de verpakking worden bevestigd en wel zodanig dat de verpakking op de voor opening bestemde plaats of plaatsen niet kan worden geopend zonder dat de belastingzegels worden gescheurd of doorgesneden.   
-2.  De belastingzegels moeten op de verpakking zodanig worden aangebracht dat de op de zegels voorkomende vermeldingen van de hoeveelheid en de soort van het tabaksprodukt, van de kleinhandelsprijs en van de naam van degene die de belastingzegels heeft aangevraagd dan wel het fabrieks- of handelsmerk of het nummer als bedoeld in artikel 29, eerste lid, duidelijk leesbaar blijven, ook indien de verpakking op de daarvoor bestemde plaats of plaatsen is geopend.   
-3.  Indien lintzegels voor bepaalde verpakkingen te lang zijn, is inkorting van die zegels geoorloofd tot aan de monogrammen. Indien nog verdere inkorting nodig is, mogen het linkermonogram en het onmiddellijk daarnaast liggende vak tot aan het beeld van de linkerleeuw eveneens worden afgesneden.   
-
-### Artikel  33  
-
-Het voor herhaald gebruik ongeschikt maken van een belastingzegel dient te geschieden door de zegel zo op de verpakking aan te brengen dat bij het openen van die verpakking het gedeelte van de belastingzegel waarop de kleinhandelsprijs is vermeld, wordt verwijderd van de verpakking dan wel wordt verscheurd.  
+1.  De belastingzegels worden met kleefstof op de voor opening bestemde plaats op de verpakking van het tabaksproduct duurzaam bevestigd.   
+2.  De belastingzegels moeten op de verpakking zodanig worden aangebracht dat alle op de belastingzegels voorkomende vermeldingen duidelijk leesbaar zijn.   
 
 ### Artikel  34  
 
-1.  De verpakking van pruimtabak of snuiftabak moet de inhoud geheel omgeven en zonder beschadiging niet anders kunnen worden geopend dan op één of ten hoogste twee daarvoor bestemde en duidelijk herkenbare plaatsen. Het materiaal van de verpakking op de plaats waar de belastingzegel wordt bevestigd, dient zodanig te zijn dat een duurzame bevestiging wordt verkregen.   
+1.  De verpakking van pruimtabak of snuiftabak omgeeft de inhoud geheel en kan zonder beschadiging niet anders worden geopend dan op één duidelijk herkenbare plaats.   
 2.  Op de verpakking moeten de soort en de hoeveelheid van de pruimtabak of de snuiftabak worden vermeld, het merk waaronder de pruimtabak of de snuiftabak in de handel wordt gebracht en, ter keuze van degene die de belastingzegels heeft aangevraagd, zijn naam dan wel het fabrieks- of handelsmerk of het nummer als bedoeld in artikel 29, eerste lid.   
 3.  De verpakking bevat uitsluitend pruimtabak of snuiftabak en is zodanig van aard en vorm dat daarmee geen later gebruik voor andere doeleinden wordt beoogd.   
 
@@ -417,32 +417,90 @@ Pruimtabak en snuiftabak, die binnen Nederland worden gebracht in verpakkingen w
 
 ### Artikel  37  
 
-1.  Degene die de belastingzegels heeft aangevraagd, kan niet-beschadigde belastingzegels terugzenden aan de G4S Value Services BV.   
-2.  Voor het terugzenden van belastingzegels dient gebruik te worden gemaakt van het formulier dat van rijkswege verkrijgbaar wordt gesteld.   
+1.  Als de vellen met belastingzegels niet aan de kwaliteitseisen voldoen of niet overeenkomen met de aangevraagde soorten belastingzegels of als er te veel dan wel te weinig belastingzegels zijn geleverd, wordt dit direct gemeld bij de zegelproducent en de inspecteur. In overleg met de inspecteur en de zegelproducent worden de belastingzegels die niet aan de kwaliteitseisen voldoen, niet overeenkomen met de aangevraagde soorten belastingzegels of te veel zijn geleverd, door degene die de belastingzegels heeft aangevraagd teruggezonden naar de zegelproducent.   
+2.  Voor het terugzenden van de vellen met belastingzegels wordt gebruikgemaakt van een door de zegelproducent vastgesteld formulier in drievoud, waarvan een exemplaar voor de aanvrager, een exemplaar voor de inspecteur en een exemplaar voor de zegelproducent. Dit formulier bevat de volgende gegevens: 
+
+a. naam, adres en vestigingsplaats van de aanvrager;  
+
+b. naam en telefoonnummer van de contactpersoon van de aanvrager;  
+
+c. het oorspronkelijke unieke leveringsnummer van de zegelproducent;  
+
+d. het doorlopende nummer van de aanvraag om belastingzegels;  
+
+e. het aantal vellen met belastingzegels onderscheiden naar soort;  
+
+f. de vervangende belastingzegels die geleverd moeten worden.     
+3.  Een exemplaar wordt door de aanvrager naar de inspecteur gezonden. De aanvrager en de zegelproducent nemen hun exemplaren van het formulier op in hun administratie.   
 
 ### Artikel  38  
 
-1.  Op verzoek van degene die de belastingzegels heeft aangevraagd, worden belastingzegels die zijn beschadigd of reeds zijn aangebracht op de verpakkingen die de inrichting nog niet hebben verlaten onder ambtelijk toezicht vernietigd.   
-2.  Het eerste lid is ook van toepassing op pruimtabak of snuiftabak die is uitgeslagen uit de inrichting of binnen Nederland is gebracht indien de pruimtabak of snuiftabak door degene die de belastingzegels heeft aangevraagd, is teruggenomen.   
+1.  Op verzoek van degene die de belastingzegels heeft aangevraagd, kunnen de volgende belastingzegels of vellen met belastingzegels onder ambtelijk toezicht in Nederland worden vernietigd: 
+
+a. onbeschadigde belastingzegels die niet meer bruikbaar zijn;  
+
+b. beschadigde vellen met belastingzegels;  
+
+c. beschadigde of onbeschadigde losse belastingzegels;  
+
+d. beschadigde aangesneden vellen met belastingzegels;  
+
+e. belastingzegels of vellen met belastingzegels, waarop niet de juiste gegevens zijn gedrukt.     
+2.  Een verzoek om vernietiging van belastingzegels onder ambtelijk toezicht kan plaatsvinden met een formulier dat van rijkswege beschikbaar is gesteld.   
 
 ### Artikel  39  
 
-1.  Op verzoek van degene die de belastingzegels heeft aangevraagd, wordt teruggaaf verleend van het bedrag aan belasting dat belastingzegels vertegenwoordigen die: 
-
-a. door hem niet-beschadigd zijn teruggezonden;  
-
-b. zijn verloren gegaan ten gevolge van overmacht of ongeval;  
-
-c. onder ambtelijk toezicht zijn vernietigd.     
-2.  In de administratie van degene die de belastingzegels heeft aangevraagd worden alle benodigde bescheiden ter staving van het verzoek om teruggaaf opgenomen zoals een ambtelijk relaas van vernietiging of een door G4S Value Services BV verstrekt verrekenbewijs.   
-3.  Het verzoek om teruggaaf van belasting wordt ingediend uiterlijk drie maanden na afloop van het kalenderkwartaal waarin de belastingzegels zijn teruggezonden, zijn verloren gegaan of onder ambtelijk toezicht zijn vernietigd.   
-4.  Degene die de belastingzegels heeft aangevraagd, doet van het verloren gaan van de belastingzegel onverwijld mededeling aan de inspecteur onder wie de plaats ressorteert waar de zegels zijn verloren gegaan onder opgaaf van het tijdstip, de plaats en de oorzaak van het verloren gaan.   
-5.  De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.   
-6.  Voor belastingzegels die zijn beschadigd of verloren zijn gegaan, vindt teruggaaf slechts plaats voor zover het bedrag van de belasting met zekerheid is vast te stellen.   
+1.  Als belastingzegels door overmacht of ongeval in Nederland verloren gaan of geacht worden te zijn vermist, doet degene die de belastingzegels heeft aangevraagd hiervan onverwijld mededeling aan de inspecteur, onder vermelding van het tijdstip, de plaats en de oorzaak van het verloren gaan dan wel van de vermissing.   
+2.  De mededeling, bedoeld in het eerste lid, moet plaatsvinden met het formulier dat van rijkswege beschikbaar is gesteld.   
+3.  Als belastingzegels in een andere lidstaat door overmacht of ongeval verloren zijn gegaan, blijkt dit uit een ambtelijke verklaring van de (douane)autoriteiten van die lidstaat. De verklaring bevat dezelfde gegevens als die in het formulier, genoemd in het tweede lid. Degene die de belastingzegels heeft aangevraagd neemt deze verklaring op in zijn zegeladministratie.   
 
 ### Artikel  40  
 
-Tegen overlegging van de in artikel 39, vijfde lid, bedoelde beschikking aan de inspecteur door wiens bemiddeling de belastingzegels zijn aangevraagd, wordt indien door degene die de belastingzegels heeft aangevraagd op de voet van het in [artikel 35, tweede lid, van de wet](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) van overeenkomstige toepassing verklaarde [artikel 76 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) uitstel van betaling geniet, het in de beschikking vermelde bedrag aan belasting, voor zover mogelijk, verrekend met de openstaande bedragen, te beginnen met de jongste post: in andere gevallen geschiedt de teruggaaf door uitbetaling door de ontvanger.  
+1.  De inspecteur bepaalt bij de overeenkomstige toepassing van [artikel 76, tweede lid, van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) het bedrag van de zekerheid op basis van het belastingbelang.   
+2.  Het belastingbelang van de belastingzegels is gelijk aan het bedrag aan verbruiksbelasting en omzetbelasting dat de belastingzegels vertegenwoordigen die de houder van de toestemming gemiddeld per maand in voorraad heeft.   
+3.  De zekerheid bedraagt ten minste 5 percent en ten hoogste 100 percent van het belastingbelang met een maximum van € 9 000 000.   
+
+### Artikel  40a  
+
+In een ingevolge de overeenkomstige toepassing van [artikel 75, tweede lid, van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) gedaan verzoek wordt in ieder geval vermeld: 
+
+a. de persoon op wiens naam de toestemming moet worden gesteld en zijn btw-identificatienummer;  
+
+b. het adres en de woonplaats van de in onderdeel a bedoelde persoon;  
+
+c. de aard van het bedrijf waaruit blijkt voor welk soort bedrijf het verzoek wordt gedaan, onder overeenkomstige toepassing van [artikel 75, eerste lid, van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md);  
+
+d. een omschrijving van de zegeladministratie en het adres waar deze administratie wordt gehouden;  
+
+e. het aantal belastingzegels dat gemiddeld per maand wordt aangevraagd en per maand in voorraad wordt gehouden onderscheiden naar pruimtabak en snuiftabak alsmede naar de gemiddelde kleinhandelsprijs;  
+
+f. de naam, het adres, de woonplaats, het land en de aard van het niet in Nederland gevestigde bedrijf als het een fiscaal vertegenwoordiger betreft;  
+
+g. de naam en het adres van degene die de pruimtabak of snuiftabak uitslaat of invoert als het een bedrijf als bedoeld in [artikel 75, eerste lid, onderdelen c of d, van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) betreft.    
+
+### Artikel  40b  
+
+Met betrekking tot het verlenen en aanpassen van de toestemming om belastingzegels aan te vragen zijn de [artikelen 43](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [44, tweede en derde lid](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [45](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en [46 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van overeenkomstige toepassing.  
+
+### Artikel  40c  
+
+In de administratie wordt krachtens de overeenkomstige toepassing van [artikel 75, zesde lid, van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) in ieder geval aantekening gehouden van: 
+
+a. de aangevraagde en ontvangen belastingzegels;  
+
+b. de kleinhandelsprijs en de hoeveelheid op iedere belastingzegel;  
+
+c. het aanbrengen van belastingzegels op de verpakking in Nederland en in het buitenland;  
+
+d. het terugsturen van vellen met belastingzegels die niet aan de kwaliteitseisen voldoen of niet zijn geleverd overeenkomstig de aanvraag;  
+
+e. het vernietigen onder ambtelijk toezicht van losse belastingzegels of beschadigde vellen met belastingzegels en het verloren gaan van de belastingzegels ten gevolge van ongeval of overmacht;  
+
+f. de belastingzegels die zijn aangebracht op uitgeslagen of ingevoerde pruimtabak of snuiftabak;  
+
+g. als het een inrichting voor verbruiksbelastingen betreft de belastingzegels die zijn aangebracht op de uitgeslagen pruimtabak of snuiftabak die in de inrichting voor verbruiksbelastingen opnieuw zijn ingeslagen; en  
+
+h. de locatie waar de belastingzegels zich bevinden of de locatie waar de pruimtabak of snuiftabak zich bevindt waarop de belastingzegels zijn aangebracht voor zover de pruimtabak of snuiftabak nog niet is opgenomen in een aangifte als bedoeld in [artikel 20 van de wet](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md).    
 
 ### Afdeling  2  
 

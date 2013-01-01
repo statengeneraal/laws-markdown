@@ -47,8 +47,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  5  
 
-1.  Een besluit van provinciale staten tot het opheffen of instellen van een waterschap dan wel tot vaststelling of wijziging van de taak of het gebied van een waterschap behoeft de goedkeuring van Onze Minister van Verkeer en Waterstaat. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang.   
-2.  Tegen een besluit van Onze Minister inzake de goedkeuring van een besluit van provinciale staten tot opheffing van een waterschap of het wijzigen van de taak of het gebied van een waterschap kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
+Een besluit van provinciale staten tot het opheffen of instellen van een waterschap dan wel tot vaststelling of wijziging van de taak of het gebied van een waterschap behoeft de goedkeuring van Onze Minister van Verkeer en Waterstaat. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang.  
 
 ### Artikel  5a  
 
@@ -194,8 +193,8 @@ d. de vaststelling en bekendmaking van de verkiezingsuitslag.
 ### Artikel  21  
 
 1.  Tegen bij algemene maatregel van bestuur aangewezen besluiten, die met toepassing van die maatregel worden genomen met het oog op de verkiezing van de leden van het algemeen bestuur en die naar hun aard noodzaken tot een spoedige behandeling van de daartegen ingestelde beroepen kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
-2.  [Artikel 7:1](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [titel 8.3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) blijven buiten toepassing.   
-3.  In afwijking van [artikel 8:41, tweede lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken. De voorzitter van de Afdeling kan een kortere termijn stellen.   
+2.  [Titel 8.3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) blijft buiten toepassing.   
+3.  In afwijking van [artikel 8:41, vijfde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken. De voorzitter van de Afdeling kan een kortere termijn stellen.   
 4.  De Afdeling behandelt de zaak met toepassing van [afdeling 8.2.3. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). [Afdeling 8.2.4.](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) blijft buiten toepassing. Aan het dagelijks bestuur wordt terstond een afschrift van het beroepschrift gezonden.   
 5.  Bij algemene maatregel van bestuur kan in afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de termijn voor het indienen van de in het eerste lid bedoelde beroepschriften worden bekort.   
 
@@ -433,7 +432,7 @@ Zij die behoren tot het algemeen bestuur van het waterschap en anderen die deeln
 2.  De benoeming vindt plaats uit de leden van het algemeen bestuur.   
 3.  Gedeputeerde staten kunnen, indien het reglement dat bepaalt, ontheffing verlenen van het bepaalde in het tweede lid. Geen ontheffing wordt verleend indien het de ombudsman of een lid van de ombudscommissie betreft als bedoeld in artikel 51b, eerste lid.   
 4.  De zittingsduur van het dagelijks bestuur is vier jaar. Bij toepassing van artikel 27, eerste lid, is de zittingsduur dienovereenkomstig korter of langer. De leden van het dagelijks bestuur, met uitzondering van de voorzitter, treden af tegelijk met het optreden van de leden van het nieuwe algemeen bestuur.   
-5.  Niettemin kan het algemeen bestuur een of meer leden van het dagelijks bestuur, met uitzondering van de voorzitter, ontslag verlenen, indien deze het vertrouwen van het algemeen bestuur niet meer bezitten. Op het ontslagbesluit zijn de [artikelen 4:8](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.   
+5.  Niettemin kan het algemeen bestuur een of meer leden van het dagelijks bestuur, met uitzondering van de voorzitter, ontslag verlenen, indien deze het vertrouwen van het algemeen bestuur niet meer bezitten. Op het ontslagbesluit is [artikel 4:8 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.   
 
 ### §  2  
 
@@ -1233,15 +1232,17 @@ d. stoffen: afvalstoffen, verontreinigende of schadelijke stoffen;
 
 e. afvalwater: afvalwater als bedoeld in [artikel 3.4 van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md);  
 
-f. drinkwater: water als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Waterleidingwet](../../../wet/waterleidingwet/BWBR0002246/README.md);  
+f. drinkwater: drinkwater als bedoeld in [artikel 1, eerste lid, van de Drinkwaterwet](../../../wet/drinkwaterwet/BWBR0026338/README.md);  
 
-g. waterleidingbedrijf: een bedrijf als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Waterleidingwet](../../../wet/waterleidingwet/BWBR0002246/README.md);  
+g. drinkwaterbedrijf: drinkwaterbedrijf als bedoeld in [artikel 1, eerste lid, van de Drinkwaterwet](../../../wet/drinkwaterwet/BWBR0026338/README.md);  
 
 h. woonruimte: een ruimte als bedoeld in artikel 116, onder b;  
 
 i. bedrijfsruimte: een naar zijn aard en inrichting als afzonderlijk geheel te beschouwen ruimte of terrein, niet zijnde een woonruimte, een zuiveringtechnisch werk of een riolering;  
 
-j. ingenomen water: geleverd drink- en industriewater, onttrokken grond- en oppervlaktewater en opgevangen regenwater.    
+j. ingenomen water: geleverd drink- en industriewater en warm tapwater, onttrokken grond- en oppervlaktewater en opgevangen hemelwater;  
+
+k. warm tapwater: warm tapwater als bedoeld in [artikel 1, eerste lid, van de Drinkwaterwet](../../../wet/drinkwaterwet/BWBR0026338/README.md).    
 
 ### Artikel  122d  
 
@@ -1303,8 +1304,8 @@ b. het aantal vervuilingseenheden met betrekking tot de gewichtshoeveelheden van
 ### Artikel  122h  
 
 1.  In afwijking van artikel 122g wordt de vervuilingswaarde van de stoffen die vanuit een woonruimte worden afgevoerd gesteld op drie vervuilingseenheden. De vervuilingswaarde van de stoffen die vanuit een door één persoon gebruikte woonruimte worden afgevoerd bedraagt één vervuilingseenheid.   
-2.  In afwijking van het eerste lid kan bij verordening van het algemeen bestuur worden bepaald dat de vervuilingswaarde van de stoffen geheel of gedeeltelijk wordt bepaald aan de hand van de door het waterleidingbedrijf geleverde hoeveelheid drinkwater.   
-3.  De heffing met betrekking tot de in het tweede lid bedoelde woonruimten wordt geheven over het tijdvak van 12 maanden zoals dat door het betrokken waterleidingbedrijf bij de levering van drinkwater ten behoeve van die woonruimten wordt gehanteerd.   
+2.  In afwijking van het eerste lid kan bij verordening van het algemeen bestuur worden bepaald dat de vervuilingswaarde van de stoffen geheel of gedeeltelijk wordt bepaald aan de hand van de door het drinkwaterbedrijf geleverde hoeveelheid drinkwater en door de betrokken leverancier geleverde hoeveelheid warm tapwater.   
+3.  De heffing met betrekking tot de in het tweede lid bedoelde woonruimten wordt geheven over het tijdvak van 12 maanden zoals dat door het betrokken drinkwaterbedrijf bij de levering van drinkwater of door de berokken leverancier bij de levering van warm tapwater ten behoeve van die woonruimten wordt gehanteerd.   
 4.  Indien het in het derde lid bedoelde tijdvak in twee kalenderjaren is gelegen worden de voor de kalenderjaren geldende tarieven per vervuilingseenheid naar tijdsevenredigheid toegepast.   
 5.  Het eerste lid is niet van toepassing op de voor recreatiedoeleinden bestemde woonruimten die zich bevinden op een voor verblijfsrecreatie bestemd terrein dat als zodanig wordt geëxploiteerd. De in de vorige volzin bedoelde woonruimten worden tezamen aangemerkt als één bedrijfsruimte dan wel als onderdeel van een bedrijfsruimte.   
 6.  Indien in de loop van een kalenderjaar het gebruik van een woonruimte, waarvan de heffing is bepaald op basis van het eerste lid, aanvangt of eindigt, wordt de gebruiker voor een evenredig gedeelte van de op basis van dit lid bepaalde aantal vervuilingseenheden aan de heffing onderworpen.   
@@ -1384,7 +1385,7 @@ e. belastingdeurwaarder: de daartoe door het dagelijks bestuur aangewezen ambten
 
 f. de Tweede Kamer der Staten-Generaal of de Tweede Kamer: het algemeen bestuur.     
 4.  Onverminderd het overigens in dit hoofdstuk bepaalde wordt met betrekking tot waterschapsbelastingen in de [Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en in de [Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) voor algemene maatregel van bestuur en voor ministeriële regeling gelezen: besluit van het dagelijks bestuur.   
-5.  Met betrekking tot waterschapsbelastingen wordt in de [artikelen 27l](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [27n](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [27p](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [29a van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en in [artikel 24 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) voor «de Staat» gelezen: het waterschap.   
+5.  Met betrekking tot waterschapsbelastingen wordt in [artikel 24 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) voor «de Staat» gelezen: het waterschap.   
 
 ### Artikel  124  
 
@@ -1575,8 +1576,7 @@ Indien een bekend gemaakt besluit is vernietigd of indien het niet is vernietigd
 
 ### Artikel  162  
 
-1.  In afwijking van [artikel 8:4, onderdeel a, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan een belanghebbende tegen een besluit van gedeputeerde staten als bedoeld in artikel 156, eerste lid, beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
-2.  In afwijking van [artikel 6:2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan geen beroep worden ingesteld tegen de weigering om de vernietiging te bevorderen en tegen het niet tijdig nemen van een besluit tot vernietiging.   
+In afwijking van [artikel 8.4, eerste lid, onderdeel d, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), kan een belanghebbende beroep instellen tegen een besluit van gedeputeerde staten als bedoeld in artikel 156, eerste lid.  
 
 ### Artikel  163  
 

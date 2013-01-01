@@ -223,7 +223,7 @@ De kosten van de schadebeoordelingscommissie worden de verzoeker niet in rekenin
 
 ### Artikel  29  
 
-Onze minister beslist binnen twee maanden na ontvangst van het advies van de schadebeoordelingscommissie. [Artikel 7:1 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) blijft buiten toepassing.  
+Onze minister beslist binnen twee maanden na ontvangst van het advies van de schadebeoordelingscommissie.  
 
 ### §  4  
 

@@ -42,13 +42,12 @@ De hoofdstukken 1, 2, 4, 7 en 8 zijn mede van toepassing op internationale kwest
 
 ### Artikel  5  
 
-1.  De centrale autoriteit is bevoegd, zonodig ook zonder uitdrukkelijke volmacht van degene die zich met een verzoek tot haar heeft gewend, zowel in als buiten rechte namens hem op te treden.   
-2.  De centrale autoriteit behoeft, indien zij in rechte optreedt, niet de bijstand van een advocaat of procureur, tenzij de rechtsgang aanvangt met een dagvaarding.   
-3.  Onverminderd het bepaalde in artikel 5, derde lid, van het op 20 mei 1980 te Luxemburg tot stand gekomen Europese verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen (Trb. 1981, 10) en artikel 26 van het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen (Trb. 1987, 139), draagt de centrale autoriteit zelf alle kosten die aan de uitvoering van haar taak zijn verbonden.   
+1.  De centrale autoriteit is bevoegd, zonodig ook zonder uitdrukkelijke volmacht van degene die zich met een verzoek tot haar heeft gewend, namens hem, anders dan in rechte, op te treden.   
+2.  Onverminderd het bepaalde in artikel 5, derde lid, van het op 20 mei 1980 te Luxemburg tot stand gekomen Europese verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen (Trb. 1981, 10) en artikel 26 van het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen (Trb. 1987, 139), draagt de centrale autoriteit zelf alle kosten die aan de uitvoering van haar taak zijn verbonden.   
 
 ### Artikel  6  
 
-De centrale autoriteit kan de uitvoering van bepaalde handelingen, met uitzondering van optreden in rechte, overeenkomstig door haar te geven aanwijzingen opdragen aan de raad voor de kinderbescherming. De bepalingen van dit hoofdstuk zijn mede van toepassing ten aanzien van de raad.  
+De centrale autoriteit kan de uitvoering van bepaalde handelingen, overeenkomstig door haar te geven aanwijzingen opdragen aan de raad voor de kinderbescherming. De bepalingen van dit hoofdstuk zijn mede van toepassing ten aanzien van de raad.  
 
 ### Artikel  7  
 
@@ -58,7 +57,7 @@ De gemeentebesturen en de ambtenaren van de burgerlijke stand verschaffen de cen
 
 1.  Indien de centrale autoriteit voor het vinden van de verblijfplaats van een kind in Nederland medewerking behoeft van dienaren van de openbare macht, kan zij zich voor het verkrijgen daarvan wenden tot de officier van justitie in het arrondissement waar het kind vermoedelijk verblijft, of anders in het arrondissement ’s-Gravenhage. De officier van justitie kan de zaak overeenkomstig door hem te geven aanwijzingen overdragen aan een officier van justitie in een ander arrondissement, indien de opsporing vermoedelijk in dat arrondissement moet geschieden.   
 2.  De in het eerste lid bedoelde officier van justitie behandelt een verzoek om medewerking van de centrale autoriteit met voorrang.   
-3.  De ambtenaar, aangesteld voor de uitvoering van de politietaak, die is aangewezen om zijn medewerking te verlenen aan de opsporing van de verblijfplaats van een kind, mag daartoe elke plaats betreden, voor zover dat redelijkerwijs voor de vervulling van die taak nodig is.   
+3.  De ambtenaar van politie, aangesteld voor de uitvoering van de politietaak, die is aangewezen om zijn medewerking te verlenen aan de opsporing van de verblijfplaats van een kind, mag daartoe elke plaats betreden, voor zover dat redelijkerwijs voor de vervulling van die taak nodig is.   
 
 ### Hoofdstuk  3  
 
@@ -103,15 +102,15 @@ c. indien van toepassing, bescheiden waaruit blijkt dat het kind vergunning heef
 ### Artikel  12  
 
 1.  Onverminderd de bevoegdheid van de voorzieningenrechter in kort geding, is de rechtbank bevoegd tot kennisneming van alle zaken met betrekking tot de regeling en de uitoefening van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen in internationale gevallen, behoudens voor zover het betreft de erkenning, de niet-erkenning en de tenuitvoerlegging van buitenlandse beslissingen.   
-2.  De rechtbank is bevoegd tot kennisneming van een zaak als bedoeld in het eerste lid indien het kind binnen haar rechtsgebied gewone verblijfplaats heeft. In gevallen waarin het verdrag of de verordening een bevoegdheid toekent aan de autoriteiten van de verdragsstaat waar het kind niet zijn gewone verblijfplaats heeft, maar zich bevindt, is tot kennisneming daarvan bevoegd de rechtbank binnen wier rechtsgebied het kind zich bevindt. In gevallen waarin het verdrag of de verordening een bevoegdheid toekent aan de autoriteiten van een staat waar het kind noch zijn gewone verblijfplaats heeft noch zich bevindt, is tot kennisneming daarvan bevoegd de rechtbank te ’s-Gravenhage.   
+2.  De rechtbank is bevoegd tot kennisneming van een zaak als bedoeld in het eerste lid indien het kind binnen haar rechtsgebied gewone verblijfplaats heeft. In gevallen waarin het verdrag of de verordening een bevoegdheid toekent aan de autoriteiten van de verdragsstaat waar het kind niet zijn gewone verblijfplaats heeft, maar zich bevindt, is tot kennisneming daarvan bevoegd de rechtbank binnen wier rechtsgebied het kind zich bevindt. In gevallen waarin het verdrag of de verordening een bevoegdheid toekent aan de autoriteiten van een staat waar het kind noch zijn gewone verblijfplaats heeft noch zich bevindt, is tot kennisneming daarvan bevoegd de rechtbank Den Haag.   
 
 ### Artikel  13  
 
-De zaken tot kennisneming waarvan de rechtbank op grond van artikel 12, eerste lid, bevoegd is, worden ingeleid met een verzoekschrift. Het verzoekschrift wordt ingediend door een procureur. Heeft de verzoeker zich tot de centrale autoriteit gewend, dan kan het verzoekschrift worden ingediend door de centrale autoriteit. Het verzoekschrift houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank. De verzoeker die zich tot de centrale autoriteit heeft gewend, wordt geacht ten kantore van de centrale autoriteit woonplaats te hebben gekozen.  
+De zaken tot kennisneming waarvan de rechtbank op grond van artikel 12, eerste lid, bevoegd is, worden ingeleid met een verzoekschrift. Het verzoekschrift wordt ingediend door een advocaat. Het verzoekschrift houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank.  
 
 ### Artikel  14  
 
-[Artikel 14 van de Wet van 2 mei 1990 tot uitvoering van het op 20 mei 1980 te Luxemburg tot stand gekomen Europese verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen, uitvoering van het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen alsmede algemene bepalingen met betrekking tot verzoeken tot teruggeleiding van ontvoerde kinderen over de Nederlandse grens en de uitvoering daarvan](../../../../../wet/uitvoeringswet/internationale/kinderontvoering/BWBR0004746/README.md) (Stb. 1990, 202) is van overeenkomstige toepassing in gevallen die door het verdrag, de verordening of deze wet worden bestreken.  
+[Artikel 14 van de Uitvoeringswet internationale kinderontvoering](../../../../../wet/uitvoeringswet/internationale/kinderontvoering/BWBR0004746/README.md) (Stb. 1990, 202) is van overeenkomstige toepassing in gevallen die door het verdrag, de verordening of deze wet worden bestreken.  
 
 ### Hoofdstuk  5  
 
@@ -120,8 +119,8 @@ De zaken tot kennisneming waarvan de rechtbank op grond van artikel 12, eerste l
 ### Artikel  15  
 
 1.  De voorzieningenrechter van de rechtbank is bevoegd tot kennisneming van alle verzoeken die betrekking hebben op de erkenning, de niet-erkenning en de tenuitvoerlegging van beslissingen inzake ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen die op grond van het verdrag zijn gegeven, voor zover de erkenning, de niet-erkenning en de tenuitvoerlegging daarvan niet door de verordening worden beheerst. Ten aanzien van het verlof tot tenuitvoerlegging zijn de [artikelen 985 tot en met 990 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) niet van toepassing.   
-2.  In de zaken, bedoeld in het eerste lid, is bevoegd de voorzieningenrechter van de rechtbank binnen wier rechtsgebied de persoon tegen wie de tenuitvoerlegging wordt gevraagd, dan wel een kind waarop het verzoek betrekking heeft, gewone verblijfplaats heeft. Indien geen van deze personen gewone verblijfplaats in Nederland heeft, is bevoegd de voorzieningenrechter van de rechtbank binnen wier rechtsgebied de tenuitvoerlegging dient plaats te vinden. Kan de bevoegdheid niet worden gebaseerd op de in dit artikellid genoemde gronden, dan is bevoegd de voorzieningenrechter van de rechtbank te ’s-Gravenhage.   
-3.  Een beslissing op een verzoek als bedoeld in het eerste lid, wordt gevraagd bij verzoekschrift. Het wordt ingediend door een procureur. Heeft de verzoeker zich gewend tot de centrale autoriteit, dan kan het verzoekschrift worden ingediend door de centrale autoriteit. Het verzoekschrift houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank. De verzoeker die zich heeft gewend tot de centrale autoriteit wordt geacht ten kantore van de centrale autoriteit woonplaats te hebben gekozen.   
+2.  In de zaken, bedoeld in het eerste lid, is bevoegd de voorzieningenrechter van de rechtbank binnen wier rechtsgebied de persoon tegen wie de tenuitvoerlegging wordt gevraagd, dan wel een kind waarop het verzoek betrekking heeft, gewone verblijfplaats heeft. Indien geen van deze personen gewone verblijfplaats in Nederland heeft, is bevoegd de voorzieningenrechter van de rechtbank binnen wier rechtsgebied de tenuitvoerlegging dient plaats te vinden. Kan de bevoegdheid niet worden gebaseerd op de in dit artikellid genoemde gronden, dan is bevoegd de voorzieningenrechter van de rechtbank Den Haag.   
+3.  Een beslissing op een verzoek als bedoeld in het eerste lid, wordt gevraagd bij verzoekschrift. Het wordt ingediend door een advocaat. Het verzoekschrift houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank.   
 
 ### Artikel  16  
 
@@ -146,8 +145,8 @@ De zaken tot kennisneming waarvan de rechtbank op grond van artikel 12, eerste l
 ### Artikel  18  
 
 1.  De voorzieningenrechter van de rechtbank is bevoegd tot kennisneming van de verzoeken, bedoeld in de artikelen 21, derde lid, 28 en 48, eerste lid, van de verordening. Ten aanzien van het verlof tot tenuitvoerlegging zijn de [artikelen 985 tot en met 990 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) niet van toepassing.   
-2.  Artikel 29, tweede lid, van de verordening is van overeenkomstige toepassing op de relatieve bevoegdheid van de voorzieningenrechter in de zaken, bedoeld in artikel 21, derde lid, van de verordening. Kan de bevoegdheid van deze rechter niet worden gebaseerd op de daar genoemde gronden, dan is bevoegd de voorzieningenrechter van de rechtbank te ’s-Gravenhage.   
-3.  Een beslissing op een verzoek als bedoeld in het eerste lid, wordt gevraagd bij verzoekschrift. Het wordt ingediend door een procureur. Heeft de verzoeker zich gewend tot de centrale autoriteit, dan kan het verzoekschrift worden ingediend door de centrale autoriteit. Het verzoekschrift houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank. De verzoeker die zich heeft gewend tot de centrale autoriteit, wordt geacht ten kantore van de centrale autoriteit woonplaats te hebben gekozen.   
+2.  Artikel 29, tweede lid, van de verordening is van overeenkomstige toepassing op de relatieve bevoegdheid van de voorzieningenrechter in de zaken, bedoeld in artikel 21, derde lid, van de verordening. Kan de bevoegdheid van deze rechter niet worden gebaseerd op de daar genoemde gronden, dan is bevoegd de voorzieningenrechter van de rechtbank Den Haag.   
+3.  Een beslissing op een verzoek als bedoeld in het eerste lid, wordt gevraagd bij verzoekschrift. Het wordt ingediend door een advocaat. Het verzoekschrift houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank.   
 4.  Onverminderd het bepaalde bij artikel 38, eerste lid, van de verordening, wordt bij ongenoegzaamheid van de bij het verzoekschrift overgelegde stukken aan de verzoeker de gelegenheid tot aanvulling gegeven met het stuk, bedoeld in artikel 37, eerste lid, onder a, van de verordening.   
 
 ### Artikel  19  
@@ -169,7 +168,7 @@ De zaken tot kennisneming waarvan de rechtbank op grond van artikel 12, eerste l
 
 ### Artikel  22  
 
-In het in artikel 41, derde lid, laatste zin, van de verordening bedoelde geval wordt het verzoek om een certificaat betreffende een beslissing inzake het omgangsrecht bij verzoekschrift door tussenkomst van een procureur ingediend bij de voorzieningenrechter van de rechtbank van welke de kinderrechter de beslissing heeft gegeven. De voorzieningenrechter beslist onverwijld op het verzoek. Artikel 19, eerste lid, is van overeenkomstige toepassing.  
+In het in artikel 41, derde lid, laatste zin, van de verordening bedoelde geval wordt het verzoek om een certificaat betreffende een beslissing inzake het omgangsrecht bij verzoekschrift door tussenkomst van een advocaat ingediend bij de voorzieningenrechter van de rechtbank van welke de kinderrechter de beslissing heeft gegeven. De voorzieningenrechter beslist onverwijld op het verzoek. Artikel 19, eerste lid, is van overeenkomstige toepassing.  
 
 ### Artikel  23  
 

@@ -19,14 +19,14 @@ Voor het verzenden van een aanmaning tot betaling is verschuldigd € 7 bij een 
 
 ### Artikel  3  
 
-1.  Voor het betekenen van een dwangbevel met bevel tot betaling is verschuldigd € 38 verhoogd met € 3 van elk geheel bedrag van € 45 waarmee de gevorderde som € 45 te boven gaat, met dien verstande dat niet meer verschuldigd is dan € 11 246.   
+1.  Voor het betekenen van een dwangbevel met bevel tot betaling is verschuldigd € 38 verhoogd met € 3 van elk geheel bedrag van € 45 waarmee de gevorderde som € 45 te boven gaat, met dien verstande dat niet meer verschuldigd is dan € 11 393.   
 2.  Voor het ingevolge een wettelijk voorschrift doen van een ander exploot is verschuldigd € 15.   
 3.  Voor het geven van kwitantie door de ambtenaar belast met de tenuitvoerlegging van een dwangbevel ter zake van een aan deze gedane betaling ter afwering van lijfsdwang of van beslaglegging, niet zijnde een beslag onder derden, op goederen die geen registergoederen zijn, is verschuldigd € 15.   
 4.  Voor het ingevolge een wettelijk voorschrift voor 'gezien' doen tekenen van een exploot of ander stuk, aanplakken van een exploot en doen aankondigen van een gedaan exploot in een dagblad is, voor elk dezer handelingen, verschuldigd € 3.   
 
 ### Artikel  4  
 
-1.  Voor het in beslag nemen van een goed en het deswege opmaken van proces-verbaal is verschuldigd € 53. Voor de verkoop van een goed en het deswege opmaken van proces-verbaal is verschuldigd € 68. Duren de verrichtingen ter plaatse langer dan vier uren, dan worden de genoemde bedragen verhoogd met € 15 voor elk volgend uur of gedeelte daarvan. Voor het bekendmaken van de verkoop door het aanslaan van de verkoopbiljetten, al dan niet gevolgd door het doen aankondigen van de verkoop in een dagblad is verschuldigd € 26.   
+1.  Voor het in beslag nemen van een goed en het deswege opmaken van proces-verbaal is verschuldigd € 54. Voor de verkoop van een goed en het deswege opmaken van proces-verbaal is verschuldigd € 69. Duren de verrichtingen ter plaatse langer dan vier uren, dan worden de genoemde bedragen verhoogd met € 15 voor elk volgend uur of gedeelte daarvan. Voor het bekendmaken van de verkoop door het aanslaan van de verkoopbiljetten, al dan niet gevolgd door het doen aankondigen van de verkoop in een dagblad is verschuldigd € 27.   
 2.  Voor het ingevolge een wettelijk voorschrift opmaken van een ander proces-verbaal is verschuldigd € 15.   
 3.  Voor iedere getuige is verschuldigd € 5 per uur of gedeelte daarvan.   
 

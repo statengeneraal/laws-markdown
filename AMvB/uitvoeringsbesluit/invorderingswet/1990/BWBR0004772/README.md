@@ -42,11 +42,8 @@ b. in situaties als bedoeld in [artikel 10 van de wet](../../../../../wet/invord
 
 ### Artikel  6  
 
-1.  Invorderingsrente wordt berekend over het tijdvak dat aanvangt op de dag na de vervaldag van de voor de belastingaanslag geldende enige of laatste betalingstermijn. Voor de toepassing van de eerste volzin blijft [artikel 10 van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) buiten toepassing.   
-2.  Voor de toepassing van [artikel 28, eerste lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) eindigt het tijdvak waarover invorderingsrente wordt berekend op de dag voorafgaand aan die van de betaling.   
-3.  Voor de toepassing van [artikel 28, vierde lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) eindigt het tijdvak waarover invorderingsrente wordt berekend op de dag van de dagtekening van het afschrift van de uitspraak of op de dag van de dagtekening van de kennisgeving waarmee de vermindering wordt bekendgemaakt.   
-4.  Indien het krachtens [artikel 25, vijfde, zesde of achtste lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) verleende uitstel wordt beëindigd, wordt, in afwijking van het eerste lid, invorderingsrente berekend met ingang van de dag waarop zes weken zijn verstreken na de eerste dag van het jaar volgend op het jaar waarin zich de handeling of gebeurtenis voordoet op grond waarvan het uitstel wordt beëindigd.   
-5.  Indien het krachtens [artikel 25, negende, elfde of zeventiende tot en met negentiende lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) verleende uitstel wordt beëindigd, wordt, in afwijking van het eerste lid, invorderingsrente berekend met ingang van de dag volgende op de dag waarop zich de omstandigheid voordoet op grond waarvan het uitstel wordt beëindigd.   
+1.  Indien het krachtens [artikel 25, vijfde, zesde of achtste lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) verleende uitstel wordt beëindigd, wordt invorderingsrente berekend met ingang van de dag waarop zes weken zijn verstreken na de eerste dag van het jaar volgend op het jaar waarin zich de handeling of gebeurtenis voordoet op grond waarvan het uitstel wordt beëindigd.   
+2.  Indien het krachtens [artikel 25, negende, elfde of zeventiende tot en met negentiende lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) verleende uitstel wordt beëindigd, wordt invorderingsrente berekend met ingang van de dag volgende op de dag waarop zich de omstandigheid voordoet op grond waarvan het uitstel wordt beëindigd.   
 
 ### Hoofdstuk  III  
 

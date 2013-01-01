@@ -164,10 +164,6 @@ b. hetzij dat in het gebruik van die zaak, gelet op de omstandigheden, niet meer
 
 ####Beroep op de administratieve rechter
 
-### Artikel  69  
-
-Beroep op de administratieve rechter staat open overeenkomstig [hoofdstuk 20 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
-
 ### Hoofdstuk  IX  
 
 ####Verdere bepalingen

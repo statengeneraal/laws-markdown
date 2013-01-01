@@ -29,9 +29,9 @@ In deze regeling wordt verstaan onder:
 
 *detailtekening:* getekende uitwerking die een ondubbelzinnige aanduiding geeft van een groep van gelijksoortige constructieonderdelen in hun vorm, afmetingen, materiaalgebruik en overige gestelde eisen en waarvan de plaats eenduidig vastligt;  
 
-*EPC:* energieprestatiecoëfficiënt als bedoeld in [artikel 1.1, tweede lid, van het Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md);  
+*EPC:* energieprestatiecoëfficiënt als bedoeld in [artikel 5.2 van het Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
 
-*gebruiksoppervlakte:* gebruiksoppervlakte als bedoeld in [artikel 1.1, tweede lid, van het Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md);  
+*gebruiksoppervlakte:* gebruiksoppervlakte als bedoeld in [artikel 1.1, eerste lid, van het Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
 
 *groepsrisico:* cumulatieve kansen per jaar dat ten minste 10, 100 of 1000 personen overlijden als rechtstreeks gevolg van hun aanwezigheid in het invloedsgebied van een inrichting en een ongewoon voorval binnen die inrichting waarbij een gevaarlijke stof betrokken is;  
 
@@ -40,6 +40,8 @@ In deze regeling wordt verstaan onder:
 *ISO:* een door de International Organization for Standardization opgestelde norm;  
 
 *NEN:* een door de Stichting Nederlands Normalisatie-instituut uitgegeven Nederlandse norm;  
+
+*NEN-EN:* door de Europese Commissie voor Normalisatie geharmoniseerde norm;  
 
 *oprichten of in werking hebben van een inrichting of mijnbouwwerk:* activiteit als bedoeld in [artikel 2.1, eerste lid, onder e, onder 1° of 3°, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
 
@@ -116,13 +118,15 @@ Indien de activiteit waarvoor de vergunning wordt aangevraagd naar haar aard tij
 ####Algemene vereisten
 
 1.  Ten aanzien van de gegevens en bescheiden bij de aanvraag om een vergunning voor een bouwactiviteit maakt de aanvrager de samenhang kenbaar tussen deze gegevens en bescheiden onderling en met de overige gegevens en bescheiden die bij de aanvraag zijn gevoegd.   
-2.  De normen waarnaar in dit hoofdstuk wordt verwezen, hebben betrekking op de uitgave van die normen als bedoeld in [bijlage I van de Regeling Bouwbesluit 2003](../../../../ministeriele-regeling/regeling/bouwbesluit/2003/BWBR0014319/README.md).   
+2.  Indien de aanvraag om een vergunning voor een bouwactiviteit betrekking heeft op een woonwagen kan aan de eisen met betrekking tot het aanleveren van de gegevens en bescheiden, bedoeld in artikel 2.2, eerste tot en met vijfde lid, worden voldaan door het indienen van documentatie van de leverancier, mits de bedoelde gegevens en bescheiden duidelijk kenbaar zijn.   
 
 ### Artikel  2.2  
 
-#### [Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) 
+#### [Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) 
 
-1.  In of bij de aanvraag om een vergunning voor een bouwactiviteit verstrekt de aanvrager de volgende gegevens en bescheiden ten behoeve van toetsing aan de voorschriften van het [Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) met betrekking tot constructieve veiligheid: 
+In of bij de aanvraag om een vergunning voor een bouwactiviteit verstrekt de aanvrager de volgende gegevens en bescheiden ten behoeve van toetsing aan de voorschriften van het [Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md): 
+
+1. uit het oogpunt van veiligheid: 
 
 a. gegevens en bescheiden waaruit blijkt dat het te bouwen of te wijzigen bouwwerk voldoet aan de gestelde eisen in relatie tot: 
 
@@ -138,70 +142,111 @@ b. een schriftelijke toelichting op het ontwerp van de constructies, waaruit met
 
 3°. het stabiliteitsprincipe;  
 
-4°. de omschrijving van de hoofddraagconstructie en de weerstand tegen bezwijken bij brand hiervan;    
+4°. de omschrijving van de bouwconstructie en de weerstand tegen bezwijken bij brand hiervan;    
 
-c. kwaliteitsverklaringen en CE-markeringen als bedoeld in [paragraaf 1.4 van het Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), en gegevens en bescheiden ten behoeve van een beroep op de gelijkwaardigheid als bedoeld in [artikel 1.5 van het Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md).     
-2.  In of bij de aanvraag om een vergunning voor een bouwactiviteit verstrekt de aanvrager de volgende gegevens en bescheiden ten behoeve van toetsing aan de overige voorschriften van het [Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md): 
+c. de detaillering van trappen, hellingbanen en vloerafscheidingen (inclusief hekwerken);  
 
-a. gegevens en bescheiden waaruit blijkt dat het bouwwerk voldoet aan de gestelde eisen in relatie tot: 
+d. de draairichting van beweegbare constructieonderdelen;  
 
-1°. de EPC, de thermische eigenschappen van de toegepaste uitwendige scheidingsconstructie en de beperking van de luchtdoorlatendheid, bedoeld in [hoofdstuk 5 van het Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md). Bij de berekening van de EPC wordt uitgegaan van: 
+e. de brandveiligheid en rookproductie van toegepaste materialen;  
 
-– NEN 5128 voor woningen en logiesverblijven;  
+f. de brandcompartimentering. De opgave bevat tevens gegevens betreffende deuren en daglichtopeningen in uitwendige scheidingsconstructies. Voor zover van belang voor het vluchten bij brand, worden tevens de deuren en daglichtopeningen in inwendige scheidingsconstructies opgegeven;  
 
-– NEN 2916 voor niet tot bewoning bestemde gebouwen.   Bij de berekening kan gebruik gemaakt worden van NPR 5129 respectievelijk 2917, beide uitgave 2002, en de bijbehorende rekenprogramma's en standaardoplossingen;  
+g. de vluchtroutes en de daarbij behorende mate van bescherming alsmede de aard en plaats van brandveiligheidsvoorzieningen;  
 
-2°. de karakteristieke geluidwering van de uitwendige scheidingsconstructie, de geluidsabsorptie van gemeenschappelijke verkeersruimten, gangen en trappenhuizen ingeval het bouwwerk een woonfunctie heeft en de geluidwering tussen niet-gemeenschappelijke verblijfsruimten van dezelfde gebruiksfunctie;  
+h. de inbraakwerendheid van bereikbare gevelelementen;    
 
-3°. de daglichttoetreding;  
+2. uit het oogpunt van gezondheid: 
 
-4°. de ventilatievoorzieningen van ruimten, voorzieningen betreffende de afvoer van verbrandingsgassen en aanvoer van verbrandingslucht;  
+a. de karakteristieke geluidwering van de uitwendige scheidingsconstructie, de bescherming tegen geluid van installaties, de geluidsabsorptie van gemeenschappelijke verkeersruimten, gangen en trappenhuizen ingeval het bouwwerk een woonfunctie heeft, de geluidwering tussen niet-gemeenschappelijke verblijfsruimten van dezelfde gebruiksfunctie en de geluidwering tussen ruimten van verschillende gebruiksfuncties;  
 
-5°. de brandveiligheid en rookproductie van toegepaste materialen;  
+b. de wateropname van toegepaste materialen van vloer, wand en plafond in sanitaire ruimten;  
 
-6°. de brand- en rookcompartimentering. De opgave bevat tevens gegevens betreffende deuren en daglichtopeningen in uitwendige scheidingsconstructies. Voor zover van belang voor het vluchten bij brand, worden tevens de deuren en daglichtopeningen in inwendige scheidingsconstructies opgegeven. Bij een niet besloten brandcompartiment als bedoeld in [artikel 2.104, vierde lid, van het Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), wordt tevens opgegeven in welk deel van dat compartiment de opslag zal plaatsvinden;  
+c. de lucht- en waterdichtheid, de factor van de temperatuur en vochtwerende voorzieningen van inwendige en uitwendige scheidingsconstructies;  
 
-7°. de vluchtroutes alsmede de aard en plaats van brandveiligheidsvoorzieningen;  
+d. de ventilatievoorzieningen van ruimten en voorzieningen betreffende de afvoer van rookgas en toevoer van verbrandingslucht;  
 
-8°. de noodstroomvoorziening en -verlichting;  
+e. gegevens en bescheiden over het weren van ratten en muizen;  
 
-9°. de wateropname van toegepaste materialen van vloer, wand en plafond in sanitaire ruimten;  
+f. de daglichttoetreding;    
 
-10°. de lucht- en waterdichtheid en vochtwerende voorzieningen van inwendige en uitwendige scheidingsconstructies;  
+3. uit het oogpunt van bruikbaarheid: 
 
-11°. het leidingplan en aansluitpunten van riolering en hemelwaterafvoeren;  
+a. de aanduiding van de gebruiksfunctie, verblijfsgebieden, verblijfsruimten en de afmetingen en de bezetting van alle ruimten inclusief totaaloppervlakten per gebruiksfunctie;  
 
-12°. het leidingplan en aansluitpunten van gas-, elektra- en waterleiding;  
+b. de aanduiding van bad- of toiletruimte, liften, buitenberging en buitenruimte;  
 
-13°. de aansluitpunten van de drinkwater- en warmwatervoorziening;  
+c. gegevens en bescheiden over de integrale toegankelijkheid van het bouwwerk en in het bouwwerk gelegen ruimten;  
 
-14°. de inbraakwerendheid, bedoeld in [afdeling 2.25 van het Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), van bereikbare gevelelementen;  
+d. de aanduiding van de vloerpeilen ten opzichte van het aansluitende terrein;  
 
-15°. het weren van ratten en muizen;  
+e. de aanduiding van de opstelplaats van het aanrecht en van kook-, stook- en warmwatertoestellen;  
 
-16°. de aanduiding van de gebruiksfunctie, de afmetingen en de bezettingsgraad van alle ruimten inclusief totaal oppervlakten per gebruiksfunctie;  
+f. indien het bouwwerk een utiliteitsgebouw betreft: de aanduiding van de stallingruimte voor fietsen;    
 
-17°. indien het bouwwerk een woongebouw betreft: de ruimte waar de huishoudelijke afvalstoffen, bedoeld in [afdeling 4.10 van het Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), worden opgeslagen;  
+4. uit het oogpunt van energiezuinigheid en milieu: 
 
-18°. indien het bouwwerk een utiliteitsgebouw betreft: de ruimte waar gewerkt wordt met brandbare, brandbevorderende, bij brand gevaar opleverende of voor de gezondheid gevaarlijke stoffen als bedoeld in de [Regeling Bouwbesluit 2003](../../../../ministeriele-regeling/regeling/bouwbesluit/2003/BWBR0014319/README.md), of waar deze stoffen worden opgeslagen;  
+a. gegevens en bescheiden over de EPC, de thermische eigenschappen van de toegepaste uitwendige scheidingsconstructie en de beperking van luchtdoorlatendheid;  
 
-19°. indien het bouwwerk een utiliteitsgebouw betreft: de stallingruimte voor fietsen;  
+b. gegevens en bescheiden over de milieubelasting van het gebouw door de toe te passen materialen, bepaald volgens de Bepalingsmethode Milieuprestatie Gebouwen en GWW-werken 1-11-2011;    
 
-20°. de integrale toegankelijkheid van het bouwwerk en in het bouwwerk gelegen ruimten;  
+5. inzake installaties: 
 
-21°. de detaillering van trappen, hellingbanen en vloerafscheidingen (inclusief hekwerken);  
+a. gegevens en bescheiden over de noodstroomvoorziening en -verlichting;  
 
-22°. de aanduiding van de opstelplaats van het aanrecht en van kook-, stook- en warmwatertoestellen;  
+b. het leidingplan en aansluitpunten van gas-, elektra- en waterleiding;  
 
-23°. de aanduiding van een bad- of toiletruimte, meterruimte en liften en liftschachten;  
+c. de aansluitpunten van de drinkwater- en warmwatervoorziening;  
 
-24°. de aanduiding van de vloerpeilen ten opzichte van het aansluitende terrein. Uit de verstrekte gegevens blijken de hoogteligging van de vloeren ten opzichte van het straatpeil en de hoogte van het maaiveld ter plaatse van de entree van het bouwwerk;  
+d. het leidingplan en aansluitpunten van riolering en hemelwaterafvoeren;  
 
-25°. de draairichting van beweegbare constructieonderdelen;    
+e. gegevens en bescheiden over de aard en plaats van brandveiligheidinstallaties alsmede van de vluchtrouteaanduiding;  
 
-b. kwaliteitsverklaringen en CE-markeringen als bedoeld in [paragraaf 1.4 van het Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) en gegevens en bescheiden ten behoeve van een beroep op de gelijkwaardigheid, bedoeld in [artikel 1.5 van het Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md).     
-3.  Indien de aanvraag om vergunning voor een bouwactiviteit betrekking heeft op een woonwagen kan aan de eisen met betrekking tot het aanleveren van de gegevens en bescheiden, bedoeld in het eerste en tweede lid, worden voldaan door het indienen van documentatie van de leverancier, mits de bedoelde gegevens duidelijk kenbaar zijn.   
-4.  In of bij de aanvraag om een vergunning voor een bouwactiviteit verstrekt de aanvrager eventuele extra gegevens en bescheiden ten behoeve van het verlenen van een ontheffing van de voorschriften van het [Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) als bedoeld in [artikel 7 van de Woningwet](../../../../wet/woningwet/BWBR0005181/README.md), waaronder gegevens en bescheiden waaruit blijkt dat toestemming als bedoeld in artikel 14 van de richtlijn nr. 2004/54/EG van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake minimumveiligheidseisen voor tunnels in het transeuropese wegennet (PbEU L 167, gerectificeerd in PbEU L 201) is verkregen om van eisen van die richtlijn af te wijken.   
+f. een tekening van de inrichting van het bij het bouwwerk behorende terrein met daarop aangegeven de voorzieningen voor de bereikbaarheid en de plaats van bluswatervoorzieningen en opstelplaatsen van brandweervoertuigen;  
+
+g. gegevens en bescheiden waaruit blijkt dat wordt voldaan aan de aanvullende regels voor tunnelveiligheid uit het [Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
+
+h. indien het een woongebouw betreft: gegevens en bescheiden over zelfsluitende deuren, spreekinstallaties, signaalvoorzieningen en deuropeners ter voorkoming van veel voorkomende criminaliteit;  
+
+i. gegevens en bescheiden over gebouwgebonden veiligheidsvoorzieningen ten behoeve van veilig onderhoud middels de Checklist Veilig onderhoud op en aan gebouwen 2012;    
+
+6. gegevens en bescheiden over veiligheid en het voorkomen van hinder tijdens het bouwen, met de volgende onderdelen: 
+
+a. één of meer tekeningen waaruit de bouwplaatsinrichting blijkt met: 
+
+1°. de toegang tot de bouwplaats inclusief afscheiding en afsluiting van de bouwplaats;  
+
+2°. de ligging van het te bebouwen perceel en de omliggende wegen en bouwwerken;  
+
+3°. de situering van het bouwwerk;  
+
+4°. de aan- en afvoerwegen;  
+
+5°. de laad-, los- en hijszones;  
+
+6°. de plaats van bouwketen;  
+
+7°. de grenzen van het bouwterrein waarbinnen alle bouwactiviteiten, inclusief het laden en lossen, plaatsvinden;  
+
+8°. de in of op de bodem van het perceel aanwezige leidingen;  
+
+9°. de plaats van ander hulpmaterieel en opslag van materialen;    
+
+b. gegevens en bescheiden over de toe te passen bouwmethodiek en de toe te passen materialen, materieel, hulp- en beveiligingsmiddelen bij de bouwwerkzaamheden;  
+
+c. indien een bouwput moet worden gemaakt voor een ondergronds gelegen bouwdeel: 
+
+1°. de hoofdopzet van de verticale bouwputafscheiding en de bouwputbodem;  
+
+2°. de uitgangspunten voor een bemalingsplan;    
+
+d. de uitgangspunten voor een monitoringsplan ter voorkoming van schade aan naburige bouwwerken;    
+
+7. overige vereisten: 
+
+a. kwaliteitsverklaringen en CE-markeringen en gegevens en bescheiden ten behoeve van een beroep op de gelijkwaardigheid;  
+
+b. eventuele extra gegevens en bescheiden ten behoeve van het verlenen van een ontheffing van de voorschriften van het [Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) als bedoeld in [artikel 7 van de Woningwet](../../../../wet/woningwet/BWBR0005181/README.md), waaronder gegevens en bescheiden waaruit blijkt dat toestemming als bedoeld in artikel 14 van de richtlijn 2004/54/EG van het Europees Parlement en de Raad van 29 april 2004 inzake minimumveiligheidseisen voor tunnels in het transeuropese wegennet (PbEU 2004, L 167, gerectificeerd in PbEU 2004, L 201) is verkregen om van eisen van die richtlijn af te wijken.      
 
 ### Artikel  2.3  
 
@@ -233,43 +278,7 @@ j. gegevens en bescheiden welke samenhangen met een eventueel benodigde toetsing
 
 ####Overige voorschriften bouwverordening
 
-In of bij de aanvraag om een vergunning voor een bouwactiviteit verstrekt de aanvrager de volgende gegevens en bescheiden ten behoeve van toetsing aan de overige voorschriften van de bouwverordening: 
-
-a. bouwveiligheidsplan en toegankelijkheid van de bouwplaats met de volgende onderdelen: 
-
-1°. één of meerdere tekeningen waaruit de bouwplaatsinrichting blijkt: 
-
-– de ligging van het te bebouwen perceel en de omliggende wegen, bouwwerken e.d.;  
-
-– de situering van het bouwwerk;  
-
-– de aan- en afvoerwegen;  
-
-– de laad-, los- en hijszones;  
-
-– de plaats van de bouwketen;  
-
-– de grenzen van het bouwterrein waarbinnen alle bouwactiviteiten, inclusief het laden en lossen, plaatsvinden;  
-
-– de in of op de bodem van het perceel aanwezige leidingen;  
-
-– de plaats van ander hulpmaterieel en opslag van materialen;    
-
-2°. gegevens en bescheiden over de toe te passen bouwmethodiek en de toe te passen materialen, materieel, hulp- en beveiligingsmiddelen bij de bouwwerkzaamheden;  
-
-3°. indien een bouwput moet worden gemaakt voor een ondergronds gelegen bouwdeel: 
-
-– de hoofdopzet van de verticale bouwputafscheiding en de bouwputbodem;  
-
-– de uitgangspunten voor een bemalingsplan;    
-
-4°. de uitgangspunten voor een monitoringsplan ter voorkoming van schade aan naburige bouwwerken;    
-
-b. gegevens betreffende de aard en plaats van brandveiligheidinstallaties alsmede van de vluchtrouteaanduiding;  
-
-c. een tekening van de inrichting van het bij het bouwwerk behorende terrein met daarop aangegeven de voorzieningen voor de bereikbaarheid en de plaats van bluswatervoorzieningen en opstelplaatsen van brandweervoertuigen;  
-
-d. een onderzoeksrapport betreffende verontreiniging van de bodem, gebaseerd op onderzoek dat is uitgevoerd door een persoon of een instelling die daartoe is erkend op grond van het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md).    
+In of bij de aanvraag om een vergunning voor een bouwactiviteit verstrekt de aanvrager ten behoeve van toetsing aan de overige voorschriften van de bouwverordening een onderzoeksrapport betreffende verontreiniging van de bodem, gebaseerd op onderzoek dat is uitgevoerd door een persoon of een instelling die daartoe is erkend op grond van het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md).  
 
 ### Artikel  2.5  
 
@@ -315,7 +324,7 @@ c. plattegronden van vloeren en daken, inclusief globale maatvoering;
 d. overzichtstekeningen van constructies in staal, hout en geprefabriceerd beton, inclusief stabiliteitsvoorzieningen en dilataties; principedetails van karakteristieke constructieonderdelen (1:20/1:10/1:5), inclusief maatvoering;  
 
 e. een schriftelijke toelichting op het ontwerp van de constructies als bedoeld in artikel 2.2, eerste lid, onderdeel b.     
-3.  Indien de aard van het bouwplan naar het oordeel van het bevoegd gezag daartoe aanleiding geeft, kan in de vergunning worden bepaald dat gegevens en bescheiden, genoemd in de artikelen 2.2, tweede lid, 2.3, onderdeel i, 2.4 en 2.5, binnen een termijn van drie weken voor de start van de uitvoering van de desbetreffende handeling worden overgelegd.   
+3.  Indien de aard van het bouwplan naar het oordeel van het bevoegd gezag daartoe aanleiding geeft, kan in de vergunning worden bepaald dat gegevens en bescheiden, genoemd in de artikelen 2.2, eerste lid, onderdelen c tot en met h, en tweede tot en met zesde lid, 2.3, onderdeel i, 2.4 en 2.5, binnen een termijn van drie weken voor de start van de uitvoering van de desbetreffende handeling worden overgelegd.   
 
 ### §  2.3  
 
@@ -341,39 +350,38 @@ c. detailtekeningen: 1:5 of 1:10 of 1:20.
 
 ### Artikel  2.9  
 
-####Vereisten aan plattegronden en doorsneden
+####Vereisten aan plattegronden, doorsneden en aanzichten
 
-1.  De aanvrager voorziet de aanvraag om een vergunning voor een bouwactiviteit van een plattegrond van elke bouwlaag met een horizontale doorsnede 1200 mm boven vloerniveau, waarop is aangegeven: 
+1.  Een plattegrond bij de aanvraag om een omgevingsvergunning voor een bouwactiviteit betreft een doorsnede van een bouwlaag op 1200 mm boven vloerniveau waarop zijn aangegeven: 
 
 a. uitwendige en inwendige scheidingsconstructies (inclusief materiaalaanduiding);  
 
 b. peilmaten van de vloer;  
 
-c. trappen, hellingbanen en (brandweer)liften;  
+c. trappen en hellingbanen;  
 
 d. binnen- en buitenkozijnen;  
 
 e. kokers, schachten, kanalen en schoorstenen;  
 
-f. opstelplaats van het kooktoestel, de verwarming en de warmwatervoorziening;  
+f. alle oppervlakken die een directe relatie hebben met of behoren tot: 
 
-g. alle, bijvoorbeeld door middel van arcering aangegeven, oppervlakken die een directe relatie hebben met de berekening van en behoren tot: 
+1°. gebruiksfuncties;  
 
-1°. gebruiksfunctie van het gebouw(deel);  
+2°. gebruiksoppervlakten en vloeroppervlakten;  
 
-2°. gebruiksoppervlakte;  
+3°. verwarmde en onverwarmde zones;  
 
-3°. verwarmde en onverwarmde zones volgens NEN 5128/2916;  
+4°. gebruiksgebieden, functiegebieden en verblijfsgebieden;  
 
-4°. verblijfsgebied en -ruimte;  
+5°. verkeersruimten;  
 
-5°. verkeersruimte;  
+6°. toegankelijkheidssectoren;    
 
-6°. toilet, meterruimte, stallingruimte en opslagruimte;  
-
-7°. (integrale) toegankelijkheidssector.       
-2.  Ten behoeve van de beoordeling van de bruikbaarheid, de gebruiksoppervlakte en het verblijfsgebied zijn de relevante doorsneden, inclusief 1500 – 2400 – 2600 mm hoogtelijn en voorzien van maatvoering, getekend.   
-3.  Alle aanzichten (geveltekeningen) worden in loodrechte verticale projectie weergegeven. Alle dichte delen en kozijnen die een directe koppeling met de berekeningen hebben, zijn als zodanig traceerbaar in berekening, rapportage of renvooi.   
+g. overige gegevens die zich ervoor lenen om aan te duiden op plattegronden, zoals toiletruimten, badruimten, buitenbergingen, buitenruimten, liften, stallingsruimten, technische ruimten, opslagruimten en opstelplaatsen van het aanrecht en kook-, stook- en warmwatertoestellen.     
+2.  De vloerpeilen ten opzichte van het straatpeil en de hoogte van het maaiveld zijn aangeduid ter plaatse van de entree van het bouwwerk.   
+3.  Ten behoeve van de beoordeling van de bruikbaarheid, de gebruiksoppervlakte en het verblijfsgebied zijn de relevante doorsneden, inclusief 1500 – 2400 – 2600 mm hoogtelijn en voorzien van maatvoering, getekend.   
+4.  Alle aanzichten (geveltekeningen) worden in loodrechte verticale projectie weergegeven. Alle dichte delen en kozijnen die een directe koppeling met de berekeningen hebben, zijn als zodanig traceerbaar in berekening, rapportage of renvooi.   
 
 ### Artikel  2.10  
 
@@ -381,15 +389,15 @@ g. alle, bijvoorbeeld door middel van arcering aangegeven, oppervlakken die een 
 
 1.  Berekeningen die worden uitgevoerd vanwege de aanvraag van de vergunning voor een bouwactiviteit voldoen aan de volgende eisen: 
 
-a. naam en versie van de gebruikte rekenprogramma's;  
+a. voorzien van naam en versie van de gebruikte rekenprogramma's;  
 
-b. invoergegevens en handberekeningen op doorlopend genummerde bladen;  
+b. invoergegevens en handberekeningen zijn gegeven op doorlopend genummerde bladen;  
 
-c. de herkomst van basis- of invoergegevens;  
+c. voorzien van de herkomst van basis- of invoergegevens;  
 
-d. symbolen en afkortingen weergegeven conform de voor de verschillende berekeningen geldende NEN-normen. Indien de toegepaste rekenprogramma’s afwijkende symbolen of afkortingen gebruiken, zijn deze separaat toegelicht;  
+d. symbolen en afkortingen weergegeven conform de voor de verschillende berekeningen geldende NEN-normen. Indien in de toegepaste rekenprogramma’s afwijkende symbolen of afkortingen zijn gebruikt, zijn deze separaat toegelicht;  
 
-e. numerieke gegevens weergegeven in SI-eenheden (internationale standaard van het Système International).     
+e. numerieke gegevens zijn weergegeven in SI-eenheden (internationale standaard van het Système International).     
 2.  De volgende informatie betreffende de toegepaste rekensoftware blijkt uit de gegevens en bescheiden bij de aanvraag om een vergunning voor een bouwactiviteit: 
 
 a. beschrijving toegepaste rekensoftware;  
@@ -412,15 +420,15 @@ g. verklaring gebruikte symbolen en grootheden.
 
 Constructieve berekeningen die worden uitgevoerd vanwege de aanvraag van de vergunning voor een bouwactiviteit, voldoen aan de volgende eisen: 
 
-a. schematisering onder toepassing van de van toepassing zijnde NEN-norm(en), inclusief te hanteren belastingschema's;  
+a. schematisering onder toepassing van de van toepassing zijnde NEN- en NEN-EN-norm(en), inclusief te hanteren belastingschema's;  
 
-b. toerekening materiaaleigenschappen conform van toepassing zijnde NEN-norm(en);  
+b. toerekening materiaaleigenschappen conform van toepassing zijnde NEN- en NEN-EN-norm(en);  
 
 c. doorsnedegrootheden die per constructie-onderdeel zijn gemotiveerd, in de vorm van een berekening;  
 
 d. verantwoording eigenschappen ondersteuningen;  
 
-e. berekeningsresultaten per belastingschema uitgewerkt volgens de van toepassing zijnde NEN-norm(en);  
+e. berekeningsresultaten per belastingschema uitgewerkt volgens de van toepassing zijnde NEN- en NEN-EN-norm(en);  
 
 f. voorzien van maatgevende waarden.    
 
@@ -517,7 +525,7 @@ c. per ruimte:
 
 – gebruiksbestemming;  
 
-– bij ruimten voor meer dan 25 personen, de hoogste bezetting van die ruimte, en opstelling van inventaris en van inrichtingselementen als bedoeld in de [artikelen 2.3.1](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md) en [2.3.2 van het Besluit brandveilig gebruik bouwwerken](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md);    
+– bij ruimten voor meer dan 25 personen, de hoogste bezetting van die ruimte, en opstelling van inventaris en van inrichtingselementen als bedoeld in de [artikelen 7.13](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) en [7.14 van het Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);    
 
 d. met aanduidingen van de plaats van, voor zover deze aanwezig zijn: 
 
@@ -527,15 +535,15 @@ d. met aanduidingen van de plaats van, voor zover deze aanwezig zijn:
 
 – draairichting van deuren;  
 
-– zelfsluitende deuren als bedoeld in de [artikelen 2.1.5](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md) en [2.3.3 van het Besluit brandveilig gebruik bouwwerken](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md);  
+– zelfsluitende deuren als bedoeld in [artikel 7.3 van het Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
 
-– sluitwerk van deuren als bedoeld in [artikel 2.3.5, tweede lid, van het Besluit brandveilig gebruik bouwwerken](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md);  
+– sluitwerk van deuren als bedoeld in [artikel 6.25, zesde lid, van het Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
 
 – vluchtrouteaanduidingen;  
 
 – noodverlichting;  
 
-– oriëntatieverlichting als bedoeld in [artikel 2.3.10 van het Besluit brandveilig gebruik bouwwerken](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md);  
+– oriëntatieverlichting als bedoeld in [artikel 6.5 van het Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
 
 – brandmeldcentrale en brandmeldpaneel;  
 
@@ -550,7 +558,7 @@ d. met aanduidingen van de plaats van, voor zover deze aanwezig zijn:
 – sleutelkluis of -buis;  
 
 – brandweerlift.     De aanduidingen zijn conform NEN 1414: 2007, voor zover deze norm daarin voorziet.   
-3.  Bij de toepassing van een gelijkwaardige oplossing als bedoeld in [artikel 1.4, eerste lid, van het Besluit brandveilig gebruik bouwwerken](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md) verstrekt de aanvrager tevens gegevens en bescheiden waarmee de gelijkwaardigheid voldoende aannemelijk wordt gemaakt.   
+3.  Bij de toepassing van een gelijkwaardige oplossing als bedoeld in [artikel 1.3, eerste lid, van het Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) verstrekt de aanvrager tevens gegevens en bescheiden waarmee de gelijkwaardigheid voldoende aannemelijk wordt gemaakt.   
 
 ### Hoofdstuk  4  
 
@@ -574,7 +582,7 @@ a. de indeling, de uitvoering, de activiteiten en de processen in de inrichting 
 
 b. de voor de activiteiten en de processen, bedoeld onder a, kenmerkende gegevens met betrekking tot grondstoffen, tussen-, neven- en eindproducten;  
 
-c. de maximale capaciteit van de inrichting en het maximale motorische of thermische vermogen van de tot de inrichting behorende installaties;  
+c. de maximale capaciteit van de inrichting en het totale nominale motorische of thermische ingangsvermogen van de tot de inrichting behorende installaties;  
 
 d. de tijden en dagen, dan wel perioden waarop de inrichting of de te onderscheiden onderdelen daarvan, in bedrijf zullen zijn;  
 
@@ -596,7 +604,7 @@ h. de wijze waarop gedurende het in werking zijn van de inrichting de belasting 
 
 i. de voor de aanvrager redelijkerwijs te verwachten ontwikkelingen met betrekking tot de inrichting die voor de beslissing op de aanvraag van belang kunnen zijn;  
 
-j. voor zover het betreft inrichtingen waartoe gpbv-installaties behoren: een beknopte beschrijving van de belangrijkste door de aanvrager bestudeerde alternatieven, voor zover deze bestaan.     
+j. voor zover het betreft inrichtingen waartoe IPPC-installaties behoren: een beknopte beschrijving van de belangrijkste door de aanvrager bestudeerde alternatieven voor de voorgestelde technologie, technieken en maatregelen.     
 2.  De aanvraag gaat vergezeld van een niet-technische samenvatting van de in het eerste lid bedoelde gegevens.   
 
 ### Artikel  4.2  
@@ -617,7 +625,8 @@ d. de maatregelen die worden getroffen om de belasting van het milieu, die de in
 
 ####Bodemkwaliteit
 
-De aanvrager verstrekt in of bij de aanvraag de resultaten van een onderzoek naar de kwaliteit van de bodem op de plaats waar de inrichting zal zijn of is gelegen.  
+1.  De aanvrager verstrekt in of bij de aanvraag de resultaten van een onderzoek naar de kwaliteit van de bodem op de plaats waar de inrichting zal zijn of is gelegen.   
+2.  De aanvrager verstrekt in of bij de aanvraag een rapport als bedoeld in [artikel 2.11, eerste lid, van het Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md). Het in het rapport opgenomen onderzoek voldoet aan de normbladen NEN 5725 en NEN 5740 . <sup> 1  Nederlandse norm voor Bodem – Landbodem – Strategie voor het uitvoeren van vooronderzoek bij verkennend en nader onderzoek.  </sup> <sup> 2  Nederlandse norm voor Bodem – Landbodem – Strategie voor het uitvoeren van verkennend bodemonderzoek – Onderzoek naar de milieuhygiënische kwaliteit van bodem en grond.  </sup>   
 
 ### §  4.1.2  
 
@@ -761,18 +770,13 @@ g. financiële zekerheid is of wordt gesteld, voor het nakomen van de voorschrif
 
 ####Verbranden van afvalstoffen
 
-1.  Indien de aanvraag betrekking heeft op een inrichting waarop het [Besluit verbranden afvalstoffen](../../../../AMvB/besluit/verbranden/afvalstoffen/BWBR0016460/README.md) van toepassing is, vermeldt of verstrekt de aanvrager in of bij de aanvraag tevens: 
+Indien de aanvraag betrekking heeft op een inrichting waarop [paragraaf 5.2 van het Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) van toepassing is, vermeldt of verstrekt de aanvrager in of bij de aanvraag tevens: 
 
 a. de maatregelen of voorzieningen ten behoeve van terugwinning van de als gevolg van thermische behandeling van afvalstoffen opgewekte warmte;  
 
-b. de gegevens, bedoeld in artikel 4.1, eerste lid, onder a, per categorie van stoffen, preparaten of andere producten, genoemd in de bijlage bij beschikking nr. 2000/532/EG van de Commissie van de Europese Gemeenschappen van 3 mei 2000 houdende vaststelling van een lijst van afvalstoffen overeenkomstig artikel 1, onder a), van richtlijn 75/442/EEG van de Raad van de Europese Gemeenschappen betreffende afvalstoffen en beschikking 94/904/EG van de Raad van de Europese Unie tot vaststelling van een lijst van gevaarlijke afvalstoffen overeenkomstig artikel 1, lid 4, van richtlijn 91/689/EEG van de Raad van de Europese Gemeenschappen betreffende gevaarlijke afvalstoffen (PbEG L 226/3);  
+b. de gegevens, bedoeld in artikel 4.1, eerste lid, onder a, per onderscheiden afvalsoort in de afvalstoffenlijst als bedoeld in [artikel 1, eerste lid, van de Regeling Europese afvalstoffenlijst](../../../../ministeriele-regeling/regeling/europese/afvalstoffenlijst/BWBR0013546/README.md), en voor gevaarlijke afvalstoffen voorts een specificatie van de minimale en maximale toevoer, de laagste en hoogste calorische waarde, alsmede de maximumgehalten aan PCB’s, pentachloorfenol, chloor, fluor, zwavel, zware metalen en andere verontreinigende stoffen per onderscheiden afvalsoort in de afvalstoffenlijst;  
 
-c. een nadere omschrijving van de slechtst denkbare bedrijfsomstandigheden als bedoeld in artikel 11, derde lid, van richtlijn nr. 2000/76/EG van het Europees Parlement en de Raad van de Europese Unie van 4 december 2000 betreffende de verbranding van afval (PbEG L 332).     
-2.  Voor de toepassing van het eerste lid gaat een wijziging van: 
-
-a. de bijlage, bedoeld in het eerste lid, onder b, gelden met ingang van de dag waarop aan die wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld;  
-
-b. de richtlijn, bedoeld in het eerste lid, onder c, gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.     
+c. een nadere omschrijving van de meest ongunstige bedrijfsomstandigheden.    
 
 ### Artikel  4.12  
 
@@ -827,13 +831,15 @@ f. de met de onmiddellijke omgeving van de inrichting samenhangende omstandighed
 
 ### Artikel  4.14  
 
-####Stookinstallaties
+####Geologische opslag van kooldioxide
 
-Indien de aanvraag betrekking heeft op een inrichting waarop [artikel 10c van het Besluit emissie-eisen stookinstallaties milieubeheer A](../../../../AMvB/besluit/emissie-eisen/stookinstallaties/milieubeheer/a/BWBR0004147/README.md) van toepassing is, verstrekt de aanvrager in of bij de aanvraag tevens de volgende gegevens en bescheiden: 
+Indien de aanvraag betrekking heeft op een inrichting waar een stookinstallatie met een nominaal elektrisch vermogen van 300 MW of meer aanwezig is, verstrekt de aanvrager in of bij de aanvraag tevens gegevens en bescheiden met betrekking tot: 
 
-a. de resultaten van het onderzoek naar de technische en economische haalbaarheid van warmtekrachtkoppeling;  
+a. de aanwezigheid van een geschikt CO <sub>2</sub> -opslagcomplex als bedoeld in [artikel 1 van de Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md);  
 
-b. indien van toepassing, de maatregelen of voorzieningen ten behoeve van warmtekrachtkoppeling.    
+b. de technische en economische haalbaarheid van faciliteiten voor het transport van kooldioxide naar een CO <sub>2</sub> -opslagcomplex;  
+
+c. de technische en economische haalbaarheid van aanpassing van de stookinstallatie voor de afvang van CO <sub>2</sub>.    
 
 ### Artikel  4.15  
 
@@ -976,7 +982,7 @@ b. geografische coördinaten, berekend volgens het stelsel van de Europese veref
 
 ####Slopen beschermd monument
 
-In of bij de aanvraag om een vergunning voor het slopen van een beschermd monument verstrekt de aanvrager naast de gegevens en bescheiden, bedoeld in artikel 7.2, onder a, b, c en e: 
+In of bij de aanvraag om een vergunning voor het slopen van een beschermd monument verstrekt de aanvrager de volgende gegevens en bescheiden: 
 
 a. het monumentnummer en, voor zover daarvan sprake is, de naam van het monument;  
 
@@ -984,7 +990,11 @@ b. cultuurhistorische rapporten, daaronder begrepen rapporten inzake architectuu
 
 c. overzichts- en detailfoto’s die een duidelijke indruk geven van het monument in relatie tot de voorgenomen sloop;  
 
-d. opnametekeningen van de bestaande toestand en slooptekeningen.    
+d. opnametekeningen van de bestaande toestand en slooptekeningen;  
+
+e. de sloopmethode;  
+
+f. de aard en hoeveelheid vrijkomend materiaal.    
 
 ### Artikel  5.2  
 
@@ -1092,9 +1102,9 @@ c. overzichts- en detailfoto’s die een duidelijke indruk geven van het monumen
 
 d. de volgende tekeningen: 
 
-1°. opnametekeningen van de bestaande situatie;  
+1°. opnametekeningen van de bestaande toestand;  
 
-2°. plantekeningen van de nieuwe situatie;    
+2°. plantekeningen van de nieuwe toestand;    
 
 e. voor zover daarvan sprake is, een opgave bij welke instantie voor de voorgenomen wijziging een aanvraag om subsidie of een financiële bijdrage is of zal worden gedaan.    
 
@@ -1124,11 +1134,11 @@ i. overzichts- en detailfoto’s die een duidelijke indruk geven van het onderde
 
 j. de volgende tekeningen: 
 
-1°. opnametekeningen van de bestaande situatie en gebrekentekeningen;  
+1°. opnametekeningen van de bestaande toestand en gebrekentekeningen;  
 
-2°. plantekeningen van de nieuwe situatie en van de voorgenomen werkzaamheden;  
+2°. plantekeningen van de nieuwe toestand en van de voorgenomen werkzaamheden;  
 
-3°. aanvullende tekeningen van de bestaande en nieuwe situatie, waaronder begrepen detailtekeningen en doorsnedetekeningen;    
+3°. aanvullende tekeningen van de bestaande en nieuwe toestand, waaronder begrepen detailtekeningen en doorsnedetekeningen;    
 
 k. voor zover daarvan sprake is, een opgave bij welke instantie voor de voorgenomen wijziging of het voorgenomen herstel een aanvraag om subsidie of een financiële bijdrage is of zal worden gedaan.    
 
@@ -1152,7 +1162,7 @@ d. een opgave van de effecten van het gebruik of indien daarvan afwijkend het vo
 
 ### Artikel  5.8  
 
-1.  Voor de tekeningen, bedoeld in de artikelen 5.1 tot en met 5.6, is de maximaal toe te passen schaal: 
+1.  Voor de tekeningen bij de aanvraag om een vergunning voor een activiteit met betrekking tot een beschermd monument is de maximaal toe te passen schaal: 
 
 a. situatietekeningen: 1:1000;  
 
@@ -1199,11 +1209,13 @@ In of bij de aanvraag om een vergunning voor het slopen van een bouwwerk als bed
 
 ### Hoofdstuk  6a  
 
-####Indieningsvereisten vanwege aangewezen activiteiten
+####Indieningsvereisten vanwege bij algemene maatregel van bestuur als bedoeld in [artikel 2.1, eerste lid, onder i, van de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) aangewezen activiteiten
 
 ### Artikel  6.3  
 
-In of bij de aanvraag om een vergunning als bedoeld in [artikel 2.1, eerste lid, onder i, van de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), worden tevens de gegevens overgelegd, , bedoeld in [artikel 1.10, derde lid, van het Besluit algemene regels voor inrichtingen](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), alsmede in de gevallen, bedoeld in [artikelen 1.11, vijfde lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), en [1.16 van dat besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), de in de betrokken bepalingen bedoelde gegevens.  
+####Activiteiten als bedoeld in [artikel 2.2a van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md)
+
+In of bij de aanvraag om een vergunning voor een activiteit als bedoeld in [artikel 2.2a van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) verstrekt de aanvrager de gegevens, bedoeld in [artikel 1.10 van het Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) alsmede in de gevallen, bedoeld in de [artikelen 1.11, vijfde lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [1.16](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [1.18](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [1.19 van dat besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), de in de betrokken bepalingen bedoelde gegevens.  
 
 ### Hoofdstuk  7  
 
@@ -1218,26 +1230,6 @@ In of bij de aanvraag om een vergunning als bedoeld in [artikel 2.1, eerste lid
 ####Activiteit met betrekking tot een monument, slopen in een aangewezen stads- of dorpsgezicht en aanlegactiviteit
 
 Met betrekking tot de aanvraag om een vergunning voor een activiteit als bedoeld in [artikel 2.2, eerste lid, onder b, c of d, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) zijn respectievelijk hoofdstuk 5, artikel 6.2 en artikel 3.1 van overeenkomstige toepassing.  
-
-### Artikel  7.2  
-
-####Slopen bouwwerk
-
-In of bij de aanvraag om een vergunning voor het slopen van een bouwwerk, bedoeld in [artikel 2.2, eerste lid, onder a, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), verstrekt de aanvrager de volgende gegevens en bescheiden: 
-
-a. de omvang waarin het bouwwerk wordt gesloopt;  
-
-b. de uitvoerder van de sloopactiviteiten;  
-
-c. de sloopmethode;  
-
-d. het sloopveiligheidsplan;  
-
-e. de aard en hoeveelheid vrijkomend materiaal;  
-
-f. het asbestinventarisatierapport, , bedoeld in [artikel 1, eerste lid, onder b, van het Asbestverwijderingsbesluit 2005](../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md), indien er sprake is van een verwachting dat er asbest aanwezig is;  
-
-g. het onderzoeksrapport naar aard, omvang en samenstelling van het gevaarlijk afval, indien dat door het te slopen bouwwerk of een onderdeel daarvan vrijkomt.    
 
 ### Artikel  7.3  
 
@@ -1396,7 +1388,7 @@ c. voor welke beschermde soorten een omgevingsvergunning wordt aangevraagd, zowe
 d. voor welke verbodsbepalingen uit de [Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) de vergunning wordt aangevraagd.     
 2.  In of bij de aanvraag, bedoeld in het eerste lid, dient de aanvrager een activiteitenplan in, dat bestaat uit de volgende onderdelen en gegevens: 
 
-a. een ingetekende topografische kaart met de locatie van de handelingen;  
+a. een beschrijving van de aard van het gebied waarin de locatie van de handelingen is gelegen, de verspreiding van de beschermde soorten op en nabij die locatie en de functie van het gebied waarin die locatie is gelegen voor die soorten;  
 
 b. een beschrijving van de manier waarop de aanvrager de handelingen wil uitvoeren;  
 
@@ -1410,7 +1402,7 @@ f. de effecten van de voorgenomen handelingen op de functionaliteit van de voort
 
 g. de effecten van de voorgenomen handelingen op de gunstige staat van instandhouding van de beschermde soorten;  
 
-h. een verantwoording van het onderzoek dat naar de effecten van de handelingen is gedaan;  
+h. een verantwoording van het onderzoek dat naar de effecten van de voorgenomen handelingen is gedaan;  
 
 i. een verantwoording van het onderzoek, dat naar de verspreiding van de beschermde soorten is gedaan;  
 
@@ -1418,9 +1410,7 @@ j. een beschrijving van de eventuele maatregelen om schade aan de beschermde soo
 
 k. een beschrijving van de eventuele maatregelen om onvermijdelijke schade aan de beschermde soort te herstellen (compenserende maatregelen);  
 
-l. een ingetekende topografische kaart met de locatie van de handelingen, de verspreiding van de beschermde soorten, de locatie van de mitigerende of compenserende maatregelen;  
-
-m. een beschrijving van een andere bevredigende oplossing en de reden waarom de aanvrager die oplossing niet gebruikt.     
+l. een ingetekende topografische kaart met de locatie van de handelingen, de verspreiding van de beschermde soorten en de locatie van de mitigerende of compenserende maatregelen.     
 3.  Indien de handeling gevolgen heeft voor vogels, geeft de aanvrager bij de vermelding van artikel 8.2, eerste lid, onderdeel b, een onderbouwing van een door de Vogelrichtlijn erkend belang.   
 4.  Indien de handeling gevolgen heeft voor soorten genoemd in bijlage IV van de Habitatrichtlijn geeft de aanvrager bij de vermelding van artikel 8.2, eerste lid, onderdeel b, een onderbouwing van een door de Habitatrichtlijn erkend belang.   
 5.  Indien de handeling gevolgen heeft voor beschermde soorten als bedoeld in [bijlage I van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) geeft de aanvrager bij de vermelding van artikel 8.2, eerste lid, onderdeel b, een onderbouwing van eenin het [Besluit vrijstelling beschermde dier- en plantensoorten](../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) genoemd belang.   
@@ -1471,9 +1461,31 @@ i. afschriften van handhavingsbeschikkingen en ontwerpen daarvan.
 
 ### Artikel  9.2  
 
-1.  Het bevoegd gezag, dan wel, in gevallen waarin een vergunning krachtens [artikel 6.2 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md) is aangevraagd, het bestuursorgaan dat bevoegd is die vergunning te verlenen, houdt bij de bepaling van de voor de inrichting of met betrekking tot een lozing in aanmerking komende beste beschikbare technieken rekening met de documenten, vermeld in de tabellen 1 en 2, die zijn opgenomen in de bij deze regeling behorende bijlage 1.   
-2.  Met de in tabel 1 van de bijlage vermelde documenten wordt in ieder geval rekening gehouden, voor zover het de daarbij vermelde gpbv-installaties betreft.   
-3.  Met de in tabel 2 van de bijlage vermelde documenten wordt rekening gehouden, voor zover deze documenten betrekking hebben op onderdelen van of activiteiten binnen de inrichting.   
+Het bevoegd gezag, dan wel, in gevallen waarin een vergunning krachtens [artikel 6.2 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md) is aangevraagd, het bestuursorgaan dat bevoegd is die vergunning te verlenen, houdt bij de bepaling van de voor de inrichting of met betrekking tot een lozing in aanmerking komende beste beschikbare technieken en monitoringeisen rekening met de relevante BBT-conclusies en Nederlandse informatiedocumenten over beste beschikbare technieken, die zijn opgenomen in de bij deze regeling behorende bijlage.  
+
+### Artikel  9.3  
+
+1.  Indien het bevoegd gezag vergunningvoorschriften vaststelt op basis van een beste beschikbare techniek die niet in een van de desbetreffende BBT-conclusies staat beschreven: 
+
+a. zorgt hij ervoor dat de techniek wordt bepaald rekening houdend met [artikel 5.4, derde lid, van het besluit](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), en  
+
+b. is [artikel 5.5, zesde en zevende lid, van het besluit](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md) van overeenkomstige toepassing.     
+2.  Indien de in het eerste lid genoemde BBT-conclusies geen met de beste beschikbare technieken geassocieerde emissieniveaus bevatten, zorgt het bevoegd gezag ervoor dat de in het eerste lid bedoelde methode een niveau van milieubescherming garandeert dat gelijkwaardig is aan dat van de beste beschikbare technieken als beschreven in de BBT-conclusies.   
+
+### Artikel  9.4  
+
+1.  Door het bevoegd gezag vastgestelde emissiegrenswaarden worden uitgedrukt voor dezelfde of kortere periodes en voor dezelfde referentieomstandigheden als die welke gelden voor met de beste beschikbare technieken geassocieerde emissieniveaus van de relevante BBT-conclusies.   
+2.  Indien het bevoegd gezag in afwijking van het eerste lid emissiegrenswaarden vaststelt met andere waarden, perioden of referentieomstandigheden: 
+
+a. verbindt het bevoegd gezag aan de vergunning als eisen voor de monitoring van de desbetreffende emissies de verplichting dat de resultaten van de monitoring: 
+
+1°. beschikbaar zijn voor dezelfde termijn en referentieomstandigheden als voor de met de beste beschikbare technieken geassocieerde emissieniveaus;  
+
+2°. regelmatig of ten minste jaarlijks worden gemeld aan het bevoegd gezag in een overzicht dat een vergelijking mogelijk maakt met de met de beste beschikbare technieken geassocieerde emissieniveaus;  
+
+3°. worden weergegeven in een zodanig overzicht dat een vergelijking mogelijk is met de met de beste beschikbare technieken geassocieerde emissieniveaus;    
+
+b. beoordeelt het bevoegd gezag ten minste jaarlijks de resultaten van de monitoring van deze emissies, teneinde na te gaan of de emissies in normale bedrijfsomstandigheden niet hoger zouden zijn dan de met de beste beschikbare technieken geassocieerde emissieniveaus.     
 
 ### Hoofdstuk  10  
 
@@ -1518,7 +1530,7 @@ b. de voorlichting aan personen die een inrichting drijven, inzake de voor hen k
 
 a. de wijze waarop de controle ter plaatse wordt voorbereid en uitgeoefend;  
 
-b. de frequentie waarmee routinematige controlebezoeken worden afgelegd;  
+b. de frequentie waarmee routinematige controlebezoeken worden afgelegd, waarbij die frequentie voor IPPC-installaties, afhankelijk van de milieurisico’s, het nalevingsgedrag en de aanwezigheid van een gecertificeerd milieuzorgsysteem, tenminste één controlebezoek per drie jaar en maximaal één controlebezoek per jaar is;  
 
 c. de wijze waarop zakelijke gegevens en bescheiden worden gecontroleerd;  
 
@@ -1532,6 +1544,20 @@ a. de uitvoering van [artikelen 18.2a, eerste lid](../../../../wet/wet/milieubeh
 b. de handhaving van het bij of krachtens de betrokken wetten bepaalde omtrent handelingen met betrekking tot stoffen, preparaten of andere producten;  
 
 c. de uitwisseling van gegevens betreffende de bestuursrechtelijke en strafrechtelijke handhaving.     
+5.  Onverminderd de frequentie, bedoeld in het derde lid, onderdeel b, worden bij IPPC-installaties niet-routinematige controlebezoeken uitgevoerd: 
+
+a. vóór de verlening of verandering van een vergunning;  
+
+b. om zo spoedig mogelijk ernstige klachten, ernstige ongewone voorvallen of overtredingen te onderzoeken;  
+
+c. indien bij een controle een ernstige overtreding is vastgesteld, binnen zes maanden na de vaststelling.     
+6.  Na elk controlebezoek bij een IPPC-installatie: 
+
+a. stelt het bevoegd gezag een verslag op waarin de relevante bevindingen over de naleving en de conclusies over de eventuele noodzaak van verdere maatregelen worden neergelegd;  
+
+b. zendt het bevoegd gezag het verslag, bedoeld onder a, binnen twee maanden aan de vergunninghouder;  
+
+c. stelt het bevoegd gezag het verslag binnen vier maanden voor eenieder op verzoek beschikbaar, waarbij de [artikelen 19.3 tot en met 19.5 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van overeenkomstige toepassing zijn.     
 
 ### Artikel  10.4  
 
@@ -1593,156 +1619,77 @@ De
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
 J.C.Huizinga-Heringa  
 
-### Bijlage  1  
+### Bijlage  
 
-####Aanwijzing BBT-documenten
-
-Tabel 1. Vastgestelde Europese informatiedocumenten over BBT (vindplaats InfoMil.nl en Europees IPPC Bureau, eippcb.jrc.es) 
-
-| Installatie in bijlage 1 Richtlijn 2008/1  | Primair relevante BREF-documenten  | Aanvullende BREF-documenten (voor zover relevant in individuele gevallen)  | REF-documenten (voor zover relevant in individuele gevallen)  |
-|:---|:---|:---|:---|
-|  *1. Energie industrie*   |
-| 1.1 Stookinstallaties met een hoeveelheid vrijkomende warmte van meer dan 50 MW.  | BREF Grote stookinstallaties  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  BREF Afvalbehandeling  | REF Cross media & economics  REF Monitoring  |
-| 1.2 Aardolie- en gasraffinaderijen.  | BREF Aardolie- en aardgasraffinaderijen  | BREF Koelsystemen  BREF Organische bulkchemie  BREF Afgas- en afvalwaterbehandeling  | REF Cross media & economics  REF Monitoring  |
-| --- | --- | BREF Grote stookinstallaties (vanaf 50 MW)  | --- |
-| --- | --- | BREF Op- en overslag bulkgoederen  | --- |
-| 1.3 Cokesfabrieken.  | BREF Primair ijzer en staal  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  | REF Cross media & economics  REF Monitoring  |
-| 1.4 Installaties voor het vergassen en vloeibaar maken van steenkool.  | BREF Grote stookinstallaties  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-|  *2. Productie en verwerking van metalen*   |
-| 2.1 Installaties voor het roosten of sinteren van ertsen, met inbegrip van zwavelhoudend erts.  | BREF Non-ferro metalen  BREF Primair ijzer en staal  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  | REF Cross media & economics  REF Monitoring  |
-| 2.2 Installaties voor de productie van ijzer of staal (primaire of secundaire smelting), met inbegrip van uitrusting voor continugieten met een capaciteit van meer dan 2,5 ton per uur.  | BREF Primair ijzer en staal  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  | REF Cross media & economics  REF Monitoring  |
-| 2.3a Installaties voor verwerking van ferrometalen door warmwalsen met een capaciteit van meer dan 20 ton ruwstaal per uur.  | BREF Ferrometaalbewerking (warmwalsen)  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 2.3b Installaties voor verwerking van ferrometalen door smeden met hamers met een slagarbeid van meer dan 50 kilojoule per hamer, wanneer een thermisch vermogen van meer dan 20 MW wordt gebruikt.  | BREF Smederijen en gieterijen  BREF Ferrometaalbewerking  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 2.3c Installaties voor verwerking van ferrometalen door het aanbrengen van deklagen van gesmolten metaal, met een verwerkingscapaciteit van meer dan 2 ton ruwstaal per uur.  | BREF Ferrometaalbewerking (aanbrengen van deklagen)  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 2.4 Smelterijen van ferrometalen met een produktiecapaciteit van meer dan 20 ton per dag.  | BREF Smederijen en gieterijen (gieterijen)  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 2.5 a/b Installaties:  a. voor de winning van ruwe non-ferrometalen uit erts, concentraat of secundaire grondstoffen met metallurgische, chemische of elektrolytische procédés;  b. voor het smelten van non-ferrometalen, met inbegrip van legeringen, inclusief terugwinningsprodukten (affineren, vormgieten) met een smeltcapaciteit van meer dan 4 ton per dag voor lood en cadmium of 20 ton per dag voor alle andere metalen per dag.  | BREF Non ferrometalen  BREF Smederijen en gieterijen  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 2.6 Installaties voor oppervlaktebehandeling van metalen en kunststoffen door middel van een elektrolytisch of chemisch procédé, wanneer de inhoud van de gebruikte behandelingsbaden meer dan 30 m <sup>3</sup> bedraagt.  | BREF oppervlaktebehandeling van metalen en kunststoffen  | BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-|  *3. Minerale industrie*   |
-| 3.1 Installaties voor de produktie van cementklinkers in draaiovens met een produktiecapaciteit van meer dan 500 ton per dag, of van ongebluste kalk in draaiovens met een produktiecapaciteit van meer dan 50 ton per dag, of in andere ovens met een produktiecapaciteit van meer dan 50 ton per dag.  | BREF Cement en kalk  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  | REF Cross media & economics  REF Monitoring  |
-| 3.2 Installaties voor de winning van asbest en de fabricage van asbestprodukten.  | Geen BREF beschikbaar. Fabricage van asbest en asbestproducten verboden binnen Nederland en de rest van de EU.  |
-| 3.3 Installaties voor de fabricage van glas, met inbegrip van installaties voor de fabricage van glasvezels, met een smeltcapaciteit van meer dan 20 ton per dag.  | BREF Glas en minerale wol  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  | REF Cross media & economics  REF Monitoring  |
-| 3.4 Installaties voor het smelten van minerale stoffen, met inbegrip van installaties voor de fabricage van mineraalvezels, met een smeltcapaciteit van meer dan 20 ton per dag.  | BREF Glas en minerale wol  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 3.5 Installaties voor het fabriceren van keramische produkten door middel van verhitting, met name dakpannen, bakstenen, vuurvaste stenen, tegels, aardewerk of porselein, met een produktiecapaciteit per kilo van meer dan 75 ton per dag, en/of een ovencapaciteit van meer dan 4 m <sup>3</sup> en met een plaatsingsdichtheid per oven van meer dan 300 kg/m <sup>3</sup>.  | BREF Keramische industrie  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  | REF Cross media & economics  REF Monitoring  |
-|  *4 Chemische industrie*   |
-| 4.1 a t/m f Chemische installaties voor de fabricage van organisch-chemische basisprodukten, zoals:  a. eenvoudige koolwaterstoffen (lineaire of cyclische, verzadigde of onverzadigde, alifatische of aromatische),  b. zuurstofhoudende koolwaterstoffen, zoals alcoholen, aldehyden, ketonen, carbonzuren, esters, acetaten, ethers, peroxyden, epoxyharsen,  c. zwavelhoudende koolwaterstoffen,  | BREF Organische bulkchemie  BREF Organische fijnchemie  | BREF Koelsystemen  BREF Afgas- en afvalwaterbehandeling  BREF Grote stookinstallaties (vanaf 50 MW)  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| d. stikstofhoudende koolwaterstoffen, zoals aminen, amiden, nitroso-, nitro- en nitraatverbindingen, nitrillen, cyanaten, isocyanaten,  | --- | --- | --- |
-| e. fosforhoudende koolwaterstoffen,  | --- | --- | --- |
-| f. halogeenhoudende koolwaterstoffen.  | --- | --- | --- |
-| 4.1 g Chemische installaties voor de fabricage van organisch-chemische basisprodukten, zoals organometaalverbindingen.  | Geen BREF beschikbaar  | BREF Koelsystemen  BREF Afgas- en afvalwaterbehandeling  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 4.1 h Chemische installaties voor de fabricage van organisch-chemische basisprodukten, zoals kunststof-basisprodukten (polymeren, kunstvezels, cellulosevezels).  | BREF Polymeren  | BREF Koelsystemen  BREF Afgas- en afvalwaterbehandeling  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 4.1 i Chemische installaties voor de fabricage van organisch-chemische basisprodukten, zoals synthetische rubber.  | BREF Polymeren  | BREF Koelsystemen  BREF Afgas- en afvalwaterbehandeling  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 4.1 j Chemische installaties voor de fabricage van organisch-chemische basisprodukten, zoals kleurstoffen en pigmenten.  | BREF Organische fijnchemie  | BREF Koelsystemen  BREF Afgas- en afvalwaterbehandeling  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 4.1 k Chemische installaties voor de fabricage van organisch-chemische basisprodukten, zoals tensioactieve stoffen en tensiden.  | Geen BREF beschikbaar  | BREF Koelsystemen  BREF Afgas- en afvalwaterbehandeling  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 4.2 a Chemische installaties voor de fabricage van anorganisch-chemische basisprodukten, zoals van gassen, zoals ammoniak, chloor of chloorwaterstof, fluor of fluorwaterstof, kooloxiden, zwavelverbindingen, stikstofoxiden, waterstof, zwaveldioxide en carbonyldichloride.  | BREF Chloor Alkali  BREF Anorganische bulkchemicaliën - ammoniak, zuren en kunstmest  BREF Anorganische fijnchemicaliën  BREF Anorganische Bulkchemie – vast en overig  | BREF Koelsystemen  BREF Afgas- en afvalwaterbehandeling  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 4.2 b Chemische installaties voor de fabricage van anorganisch-chemische basisprodukten, zoals van zuren, zoals chroomzuur, fluorwaterstofzuur, fosforzuur, salpeterzuur, zoutzuur, zwavelzuur, oleum en zwaveligzuur.  | BREF Non-ferrometalen  BREF Anorganische bulkchemicaliën – ammoniak, zuren en kunstmest  BREF Anorganische fijnchemicaliën  | BREF Koelsystemen  BREF Afgas- en afvalwaterbehandeling  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 4.2 c Chemische installaties voor de fabricage van anorganisch-chemische basisprodukten, zoals van basen, zoals ammoniumhydroxide, kaliumhydroxide en natriumhydroxide.  | BREF Chloor Alkali  BREF Anorganische bulkchemicaliën – ammoniak, zuren en kunstmest  BREF Anorganische fijnchemicaliën  BREF Anorganische Bulkchemie -vast en overig  | BREF Koelsystemen  BREF Afgas- en afvalwaterbehandeling  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 4.2 d/e Chemische installaties voor de fabricage van anorganisch-chemische basisprodukten, zoals  d. van zouten, zoals ammoniumchloride, kaliumchloraat, kaliumcabonaat, natriumcarbonaat, perboraat, zilvernitraat;  e. van niet-metalen, metaaloxiden of andere anorganische verbindingen, zoals calciumcarbide, silicium en siliciumcarbide.  | BREF Anorganische bulkchemicaliën – vast en overig  BREF Anorganische fijnchemicaliën  | BREF Koelsystemen  BREF Afgas- en afvalwaterbehandeling  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 4.3 Chemische installaties voor de fabricage van fosfaat-, stikstof- of kaliumhoudende meststoffen (enkelvoudige of samengestelde meststoffen).  | BREF Anorganische bulkchemicaliën – ammoniak, zuren en kunstmest  BREF Anorganische fijnchemicaliën  | BREF Koelsystemen  BREF Afgas- en afvalwaterbehandeling  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 4.4 Chemische installaties voor de fabricage van basisprodukten voor gewasbescherming en van biociden.  | BREF Organische fijnchemie  BREF Anorganische fijnchemicaliën  | BREF Koelsystemen  BREF Afgas- en afvalwaterbehandeling  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 4.5 Installaties voor de fabricage van farmaceutische basisprodukten die een chemisch of biologisch procédé gebruiken.  | BREF Organische fijnchemie  BREF Anorganische fijnchemicaliën  | BREF Koelsystemen  BREF Afgas- en afvalwaterbehandeling  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 4.6 Chemische installaties voor de fabricage van explosieven.  | BREF Organische fijnchemie  BREF Anorganische fijnchemicaliën  | BREF Koelsystemen  BREF Afgas- en afvalwaterbehandeling  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-|  *5 Afvalbeheer*   |
-| 5.1 Installaties voor de verwijdering of nuttige toepassing van gevaarlijke afvalstoffen als bedoeld in de lijst van artikel 1, lid 4, van Richtlijn 91/689/EEG, in de zin van de bijlagen II A en II B (handelingen R1, R5, R6, R8 en R9) van Richtlijn 2006/12/EG en van Richtlijn 75/439/EEG van de Raad van 16 juni 1975 inzake de verwijdering van afgewerkte olie met een capaciteit van meer dan 10 ton per dag.  | BREF Afvalbehandeling  BREF Afvalverbranding  Voor storten zie onder 5.4  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 5.2 Installaties voor de verbranding van stedelijk afval in de zin van Richtlijn 89/369/EEG van de Raad van 8 juni 1989 ter voorkoming van door nieuwe installaties voor de verbranding van stedelijk afval veroorzaakte luchtverontreiniging en Richtlijn 89/429/EEG van de Raad van 21 juni 1989 ter vermindering van door bestaande installaties voor de verbranding van stedelijk afval veroorzaakte luchtverontreiniging, met een capaciteit van meer dan 3 ton per uur.  | BREF Afvalverbranding  BREF Afvalbehandeling  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 5.3 Installaties voor de verwijdering van ongevaarlijke afvalstoffen in de zin van bijlage II A van Richtlijn 2006/12/EG, rubrieken D8, D9, met een capaciteit van meer dan 50 ton per dag.  | BREF Afvalbehandeling  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 5.4 Stortplaatsen die meer dan 10 ton per dag ontvangen of een totale capaciteit van meer dan 25 000 ton hebben, met uitzondering van stortplaatsen voor inerte afvalstoffen.  | Geen BREF  De eisen aan stortplaatsen op grond van Richtlijn 1999/31/EG betreffende het storten van afvalstoffen kunnen als BBT beschouwd worden  | --- | --- |
-|  *6. Overige activiteiten*   |
-| 6.1 Industriële installaties voor:  a. de fabricage van papierpulp uit hout of uit andere vezelstoffen  b. de fabricage van papier en karton met een produktiecapaciteit van meer dan 20 ton per dag.  | BREF Papier en pulp  | BREF Koelsystemen  BREF Grote stookinstallaties (vanaf 50 MW)  BREF Op- en overslag bulkgoederen  | REF Cross media & economics  REF Monitoring  |
-| 6.2 Installaties voor de voorbehandeling (wassen, bleken, merceriseren) of het verven van vezels of textiel met een verwerkingscapaciteit van meer dan 10 ton per dag.  | BREF Textielindustrie  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 6.3 Installaties voor het looien van huiden met een verwerkingscapaciteit van meer dan 12 ton eindprodukten per dag.  | BREF Leerlooierijen  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 6.4 a Abattoirs met een produktiecapaciteit van meer dan 50 ton per dag geslachte dieren.  | BREF Slacht- en destructiehuizen  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 6.4 b Bewerking en verwerking voor de fabricage van levensmiddelen op basis van:  – dierlijke grondstoffen (andere dan melk) met een produktiecapaciteit van meer dan 75 ton per dag eindprodukten;  | BREF Voedingsmiddelen, dranken en zuivel  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| – plantaardige grondstoffen met een produktiecapaciteit van meer dan 300 ton per dag eindprodukten (gemiddelde waarde op driemaandelijkse basis).  | --- | --- | --- |
-| 6.4 c Bewerking en verwerking van melk, met een hoeveelheid ontvangen melk van meer dan 200 ton per dag (gemiddelde waarde op jaarbasis).  | BREF Voedingsmiddelen, dranken en zuivel  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 6.5 Installaties voor de destructie of verwerking van kadavers en dierlijk afval met een verwerkingscapaciteit van meer dan 10 ton per dag.  | BREF Slacht- en destructiehuizen  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 6.6 a Installaties voor intensieve pluimvee- of varkenshouderij met meer dan 40 000 plaatsen voor pluimvee.  | BREF Intensieve pluimvee- en varkenshouderij  | BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 6.6 b Installaties voor intensieve pluimvee- of varkenshouderij met meer dan 2 000 plaatsen voor mestvarkens (van meer dan 30 kg).  | BREF Intensieve pluimvee- en varkenshouderij  | BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 6.6 c Installaties voor intensieve pluimvee- of varkenshouderij met meer dan 750 plaatsen voor zeugen.  | BREF Intensieve pluimvee- en varkenshouderij  | BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 6.7 Installaties voor de oppervlaktebehandeling van stoffen, voorwerpen of produkten, waarin organische oplosmiddelen worden gebruikt, in het bijzonder voor het appreteren, bedrukken, het aanbrengen van een laag, het ontvetten, het vochtdicht maken, lijmen, verven, reinigen of impregneren, met een verbruikscapaciteit van meer dan 150 kg oplosmiddel per uur, of meer dan 200 ton per jaar.  | BREF Oppervlaktebehandeling met organische oplosmiddelen  | BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-| 6.8 Installaties voor de fabricage van koolstof (harde gebrande steenkool) of elektrografiet door verbranding of grafitisering.  | BREF Non-ferrometalen  | BREF Koelsystemen  BREF Op- en overslag bulkgoederen  BREF Energie-efficiëntie  | REF Cross media & economics  REF Monitoring  |
-
-Tabel 2. Nederlandse informatiedocumenten over BBT 
+####: Nederlandse informatiedocumenten over BBT
 
 | Naam document  | jaartal  | vindplaats  |
 |:---|:---|:---|
-| Circulaire energie in de milieuvergunning  | oktober 1999  | InfoMil.nl  |
 | Handreiking (co-)vergisting van mest  | september 2010  | InfoMil.nl  |
-| NeR Nederlandse emissierichtlijn lucht  | juni 2010  | InfoMil.nl  |
-| Nederlandse richtlijn bodembescherming (NRB)  | juni 2003  | InfoMil.nl  |
-| Handreiking methaanreductie stortplaatsen  | april 2007  | Senternovem.nl /ROBstortplaatsen  |
+| NeR Nederlandse emissierichtlijn lucht  | juli 2012  | InfoMil.nl  |
+| NRB 2012; Nederlandse richtlijn bodembescherming  | maart 2012  | Agentschapnl.nl  |
+| Handreiking methaanreductie stortplaatsen  | april 2007  | Agentschapnl.nl  |
 | Beleidslijn IPPC-omgevingstoetsing ammoniak en veehouderij  | juni 2007  | InfoMil.nl  |
-| Publicatiereeks Gevaarlijke Stoffen (PGS):  | --- | --- |
+|  *Publicatiereeks Gevaarlijke Stoffen (PGS)*   | --- | --- |
 | PGS 7: Opslag van vaste minerale anorganische meststoffen  | oktober 2007  | publicatiereeksgevaarlijkestoffen.nl  |
+| PGS 8: Organische peroxiden: Opslag  | december 2011  | publicatiereeksgevaarlijkestoffen.nl  |
 | PGS 9: Vloeibare zuurstof opslag van  0,45-100 m <sup>3</sup> en erratum  | oktober 2007  | publicatiereeksgevaarlijkestoffen.nl  |
 | PGS 12: Ammoniak: opslag en verlading  | juli 2005  | publicatiereeksgevaarlijkestoffen.nl  |
 | PGS 13: Ammoniak: toepassing als koudemiddel voor koelinstallaties en warmtepompen  | februari 2009  | publicatiereeksgevaarlijkestoffen.nl  |
-| PGS 15: Opslag van verpakte gevaarlijke stoffen en errata  | december 2008  | publicatiereeksgevaarlijkestoffen.nl  |
-| PGS 16: Autogas LPG  | juli 2005  | publicatiereeksgevaarlijkestoffen.nl  |
+| PGS 15: Opslag van verpakte gevaarlijke stoffen  | december 2011  | publicatiereeksgevaarlijkestoffen.nl  |
+| PGS 16: LPG: Afleverinstallaties  | september 2010  | publicatiereeksgevaarlijkestoffen.nl  |
 | PGS 18: Distributiedepots voor LPG  | juli 2005  | publicatiereeksgevaarlijkestoffen.nl  |
-| PGS 19: Opslag van propaan, Richtlijn voor brandveilige, arbeidsveilige en milieuveilige stationaire opslag van propaan  | juni 2008  | publicatiereeksgevaarlijkestoffen.nl  |
+| PGS 19: Opslag van propaan  | juni 2008  | publicatiereeksgevaarlijkestoffen.nl  |
 | PGS 22: Toepassing van propaan  | september 2008  | publicatiereeksgevaarlijkestoffen.nl  |
 | PGS 23: Propaan, vulstations van propaan- en butaanflessen  | juli 2005  | publicatiereeksgevaarlijkestoffen.nl  |
 | PGS 24: Propaan, vulstations voor spuitbussen met propaan, butaan en dimetylether als drijfgas  | juli 2005  | publicatiereeksgevaarlijkestoffen.nl  |
-| PGS 28: Vloeibare aardolieproducten – Afleverinstallaties en ondergrondse opslag  | maart 2005  | publicatiereeksgevaarlijkestoffen.nl  |
-| PGS 29: Richtlijn voor bovengrondse opslag in  verticale cilindrische tanks  | oktober 2008  | publicatiereeksgevaarlijkestoffen.nl  |
-| PGS 30: Vloeibare aardolieproducten: buitenopslag in kleine installaties  | juni 2005  | publicatiereeksgevaarlijkestoffen.nl  |
-| BBT-documenten water  | --- | --- |
-| Landbouw  | --- | --- |
-| Afvalwaterproblematiek van champignonteeltbedrijven, aanvullende nota  | februari 1989  | CIW.nl  |
-| Afvalwaterproblematiek glastuinbouw  | maart 1993  | CIW.nl  |
-| Afvalwaterproblematiek van landbouwloonbedrijven  | december 1994  | CIW.nl  |
-| Recirculatie drainagewater van grondgebonden glastuinbouwbedrijven  | januari 1996  | CIW.nl  |
-| Afvalwaterproblematiek van witloftrekkerijen  | maart 1996  | CIW.nl  |
-| Afvalwaterproblematiek boomteelt en vaste plantenteelt  | oktober 1996  | CIW.nl  |
-| Aansluiten glastuinbouw op de riolering  | december 1998  | CIW.nl  |
-| Beoordelingsmethode emissiereducerende maatregelen. Lozingsbesluit open teelt en veehouderij  | maart 2003  | CIW.nl  |
-| Recirculeren van spoelwater. Gevolgen voor de microbiologische kwaliteit van spoelwater  | september 2003  | CIW.nl  |
-| Goed gietwater. Beoordelingskader voor verplichte aanleg van een gietwatervoorziening bij grondgebonden glastuinbouwbedrijven  | januari 2004  | CIW.nl  |
-| Achtergronddocument glastuinbouw t.b.v. KRW-decembernota 2005, eindversie  | augustus 2005  | CIW.nl  |
-| Bodemsanering + bagger  | --- | --- |
-| Lozingen uit tijdelijke baggerspeciedepots  | april 1998  | CIW.nl  |
-| Riooloverstorten  | --- | --- |
-| Riooloverstorten deel 1: Knelpuntcriteria riooloverstorten  | juni 2001  | CIW.nl  |
-| Riooloverstorten deel 2: Eenduidige basisinspanning  | juni 2001  | CIW.nl  |
-| Riooloverstorten deel 3: Model voor vergunningverlening riooloverstorten  | december 2001  | CIW.nl  |
-| Riooloverstorten deel 4a: Nadere uitwerking monitoring riooloverstorten, spoor 1  | september 2002  | CIW.nl  |
-| Riooloverstorten deel 4b: Nadere uitwerking monitoring riooloverstorten, fase B  | januari 2003  | CIW.nl  |
-| Scheepvaart  | --- | --- |
-| Waterverontreinigingsproblematiek bij het stralen en conserveren bij scheepswerven voor beroepsvaart en grote jachten  | april 1991  | CIW.nl  |
-| Industriële activiteiten  | --- | --- |
-| Afvalwaterproblematiek bij vatenwasserijen  | april 1993  | CIW.nl  |
-| Integrale aanpak van risico's van onvoorziene lozingen  | februari 2000  | CIW.nl  |
-| Verwerking waterfractie gevaarlijke en niet-gevaarlijke afvalstoffen  | april 2001  | CIW.nl  |
-| Offshore  | februari 2002  | CIW.nl  |
-| Integrale bedrijfstakstudie tankautoreiniging  | april 2002  | CIW.nl  |
-| Instrumentarium  | --- | --- |
-| Meten en bemonsteren van afvalwater  | maart 1998  | CIW.nl  |
-| Handboek Wvo-vergunningverlening  | mei 1999  | CIW.nl  |
-| Het beoordelen van stoffen en preparaten voor de uitvoering van het emissiebeleid water  | mei 2000  | CIW.nl  |
-| Normen voor het Waterbeheer  | mei 2000  | CIW.nl  |
-| Emissie – immissie  | juni 2000  | CIW.nl  |
-| Milieunormen in perspectief  | september 2002  | CIW.nl  |
-| Standaardisatie Wvo-vergunningen  | mei 2003  | CIW.nl  |
-| Lozingseisen Wvo-vergunningen  | november 2005  | CIW.nl  |
-| Warmtelozing  | --- | --- |
-| CIW beoordelingssystematiek warmtelozingen  | november 2004  | CIW.nl  |
-| Oplegnotitie BREF  | --- | --- |
-| Oplegnotitie BREF Chlooralkaliproducerende industrie  | november 2002  | CIW.nl / InfoMil.nl  |
-| Oplegnotitie BREF IJzer- en staalproducerende industrie  | april 2004  | CIW.nl / InfoMil.nl  |
-| Oplegnotitie BREF Pulp- en papierindustrie  | april 2004  | CIW.nl / InfoMil.nl  |
-| Oplegnotitie BREF Ferrometaalbewerkende industrie  | april 2004  | CIW.nl / InfoMil.nl  |
-| --- | --- | --- |
-| Oplegnotitie BREF Glasproducerende industrie  | augustus 2005  | InfoMil.nl  |
+| PGS 25: Aardgas-afleverinstallaties voor motorvoertuigen  | oktober 2011  | publicatiereeksgevaarlijkestoffen.nl  |
+| PGS 28: Vloeibare brandstoffen – ondergrondse tankinstallaties en afleverinstallaties  | december 2011  | publicatiereeksgevaarlijkestoffen.nl  |
+| PGS 29: Richtlijn voor bovengrondse opslag van brandbare vloeistoffen in verticale cilindrische tanks  | oktober 2008  | publicatiereeksgevaarlijkestoffen.nl  |
+| PGS 30: Vloeibare brandstoffen – bovengrondse tankinstallaties en afleverinstallaties  | december 2011  | publicatiereeksgevaarlijkestoffen.nl  |
+|  *BBT-documenten water*   | --- | --- |
+|  *Landbouw*   | --- | --- |
+| Beoordelingsmethode emissiereducerende maatregelen Lozingsbesluit open teelt en veehouderij  | maart 2003  | Helpdeskwater.nl/ciw  |
+| Recirculeren van spoelwater; Gevolgen voor de microbiologische kwaliteit van spoelwater  | september 2003  | Helpdeskwater.nl/ciw  |
+| Goed gietwater; Beoordelingskader voor verplichte aanleg van een gietwatervoorziening bij grondgebonden glastuinbouwbedrijven  | januari 2004  | Helpdeskwater.nl/ciw  |
+| Achtergronddocument glastuinbouw t.b.v. KRW-decembernota 2005, eindversie  | augustus 2005  | Helpdeskwater.nl/ciw  |
+|  *Bodemsanering + bagger*   | --- | --- |
+| Lozingen uit tijdelijke baggerspeciedepots  | april 1998  | Helpdeskwater.nl/ciw  |
+|  *Riooloverstorten*   | --- | --- |
+| Riooloverstorten deel 1: Knelpuntcriteria riooloverstorten  | juni 2001  | Helpdeskwater.nl/ciw  |
+| Riooloverstorten deel 2: Eenduidige basisinspanning  | juni 2001  | Helpdeskwater.nl/ciw  |
+| Riooloverstorten deel 3: Model voor vergunningverlening riooloverstorten  | december 2001  | Helpdeskwater.nl/ciw  |
+| Riooloverstorten deel 4a: Nadere uitwerking monitoring riooloverstorten, spoor 1  | september 2002  | Helpdeskwater.nl/ciw  |
+| Riooloverstorten deel 4b: Nadere uitwerking monitoring riooloverstorten, fase B  | januari 2003  | Helpdeskwater.nl/ciw  |
+|  *Industriële activiteiten*   | --- | --- |
+| Integrale aanpak van risico's van onvoorziene lozingen  | februari 2000  | Helpdeskwater.nl/ciw  |
+| Verwerking waterfractie gevaarlijke en niet-gevaarlijke afvalstoffen  | april 2001  | Helpdeskwater.nl/ciw  |
+| Offshore  | februari 2002  | Helpdeskwater.nl/ciw  |
+| Integrale bedrijfstakstudie tankautoreiniging  | april 2002  | Helpdeskwater.nl/ciw  |
+|  *Instrumentarium*   | --- | --- |
+| Meten en bemonsteren van afvalwater  | maart 1998  | Helpdeskwater.nl/ciw  |
+| Het beoordelen van stoffen en preparaten voor de uitvoering van het emissiebeleid water  | mei 2000  | Helpdeskwater.nl/ciw  |
+| Normen voor het Waterbeheer  | mei 2000  | Helpdeskwater.nl/ciw  |
+| Handboek Immissietoets: toetsing van lozingen op effecten voor het oppervlaktewater  | oktober 2011  | Helpdeskwater.nl / InfoMil.nl  |
+| Milieunormen in perspectief  | september 2002  | Helpdeskwater.nl/ciw  |
+| Lozingseisen Wvo-vergunningen  | november 2005  | Helpdeskwater.nl/ciw  |
+|  *Warmtelozing*   | --- | --- |
+| CIW beoordelingssystematiek warmtelozingen  | november 2004  | Helpdeskwater.nl/ciw  |
+|  *Oplegnotitie BREF*   | --- | --- |
+| Oplegnotitie BREF Pulp- en papierindustrie  | april 2004  | Helpdeskwater.nl / InfoMil.nl  |
+| Oplegnotitie BREF Ferrometaalbewerkende industrie  | april 2004  | Helpdeskwater.nl / InfoMil.nl  |
 | Oplegnotitie BREF Afgas- en afvalwaterbehandeling  | augustus 2005  | InfoMil.nl  |
 | Oplegnotitie BREF Non-ferro metaal  | augustus 2005  | InfoMil.nl  |
 | Oplegnotitie BREF Raffinaderijen  | februari 2006  | InfoMil.nl  |
 | Oplegnotitie BREF Afvalbehandeling  | augustus 2006  | Infomil.nl  |
-| Oplegnotitie BREF Intensieve pluimvee- en  varkenshouderij  | juli 2007  | InfoMil.nl  |
+| Oplegnotitie BREF Intensieve pluimvee- en varkenshouderij  | juli 2007  | InfoMil.nl  |
 | Oplegnotitie BREF Afvalverbranding  | maart 2007  | InfoMil.nl  |
 | Oplegnotitie BREF Grote stookinstallaties  | oktober 2007  | InfoMil.nl  |
 | Oplegnotitie BREF Smederijen en gieterijen  | juni 2008  | InfoMil.nl  |
 | Oplegnotitie BREF Keramische industrie  | juni 2008  | InfoMil.nl  |
-| Oplegnotitie BREF Textielindustrie  | Juni 2008  | CIW.nl / InfoMil.nl  |
-| Oplegnotitie BREF Industriële koelsystemen  | Februari 2009  | CIW.nl / InfoMil.nl  |
-| Oplegnotitie BREF’s Chemie  | Juni 2010  | CIW.nl / InfoMil.nl  |
+| Oplegnotitie BREF Textielindustrie  | juni 2008  | Helpdeskwater.nl / InfoMil.nl  |
+| Oplegnotitie BREF Industriële koelsystemen  | februari 2009  | Helpdeskwater.nl / InfoMil.nl  |
+| Oplegnotitie BREF’s Chemie  | juni 2010  | Helpdeskwater.nl / InfoMil.nl  |
+| Oplegnotitie BREF Emissies uit opslag  | december 2010  | InfoMil.nl  |
+| Oplegnotitie BREF Voedingsmiddelen- en zuivelindustrie  | december 2010  | InfoMil.nl  |
 

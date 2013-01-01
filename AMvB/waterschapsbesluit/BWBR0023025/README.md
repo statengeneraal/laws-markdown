@@ -82,7 +82,7 @@ De kandidaatstelling voor de verkiezing vindt plaats op de dinsdag in de periode
 ### Artikel  2.9  
 
 1.  Een belangengroepering verzoekt het stembureau schriftelijk de aanduiding waarmee zij voor die verkiezing op de kandidatenlijst wenst te worden vermeld, in te schrijven in een register dat door het stembureau wordt bijgehouden. Verzoeken ontvangen na de drieënveertigste dag voor de kandidaatstelling, blijven voor de daaropvolgende verkiezing buiten behandeling.   
-2.  Vóór het indienen van het in het eerste lid bedoelde verzoek om registratie wordt een waarborgsom van € 225,– betaald aan het waterschap. Deze waarborgsom dient te worden overgemaakt naar de door het dagelijks bestuur aangewezen rekening van het waterschap bij een kredietinstelling, onder vermelding van de woorden «waarborgsom registratie» en met vermelding van de naam van de belangengroepering. Na inlevering van een geldige kandidatenlijst voor de eerstkomende verkiezing na de beslissing op het verzoek wordt hem de waarborgsom zo spoedig mogelijk teruggegeven. Over de terug te betalen waarborgsommen wordt geen rente vergoed.   
+2.  Vóór het indienen van het in het eerste lid bedoelde verzoek om registratie wordt een waarborgsom van € 225,– betaald aan het waterschap. Deze waarborgsom dient te worden overgemaakt naar de door het dagelijks bestuur aangewezen rekening van het waterschap bij een bank, onder vermelding van de woorden «waarborgsom registratie» en met vermelding van de naam van de belangengroepering. Na inlevering van een geldige kandidatenlijst voor de eerstkomende verkiezing na de beslissing op het verzoek wordt hem de waarborgsom zo spoedig mogelijk teruggegeven. Over de terug te betalen waarborgsommen wordt geen rente vergoed.   
 3.  Bij het verzoek worden overgelegd: 
 
 a. een afschrift van de notariële akte waarin de statuten van de belangengroepering zijn opgenomen en een uiterlijk zes maanden voor de indiening van het verzoek afgegeven bewijs van inschrijving in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 1996](../../../wet/handelsregisterwet/1996/BWBR0007893/README.md);  
@@ -939,7 +939,7 @@ Bij de instelling van een waterschap kan bij reglement worden bepaald dat wordt 
 
 ### Artikel  3.2  
 
-1.  Aan een lid van het algemeen bestuur wordt een vergoeding toegekend van € 442,68.   
+1.  Aan een lid van het algemeen bestuur wordt een vergoeding toegekend van € 448,41.   
 2.  Het bedrag van de vergoeding wordt per 1 januari van elk jaar bij ministeriële regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties gewijzigd aan de hand van het door het Centraal Bureau voor de Statistiek voor de maand september van het voorafgaande kalenderjaar vastgestelde indexcijfer CAO lonen overheid, inclusief bijzondere beloningen.   
 
 ### Artikel  3.3  
@@ -1450,7 +1450,7 @@ d. belangrijke afwijkingen tussen de realisatie in de jaarverslaggeving en de pl
 
 1.  Het jaarverslag bevat ten minste de paragrafen die ingevolge artikel 4.11, in de begroting zijn opgenomen, met dien verstande dat in plaats van onderdeel a van dat artikel een paragraaf betreffende de ontwikkelingen in het vorig begrotingsjaar wordt opgenomen, met uitzondering van de onderdelen b en d, van dat artikel, alsmede een paragraaf betreffende topinkomens. Ze bevatten de verantwoording van hetgeen in de overeenkomstige paragrafen in de begroting is opgenomen.   
 2.  In de paragraaf betreffende het EMU-saldo wordt de in artikel 4.22 bedoelde specificatie opgenomen voor het begrotingsjaar en volgens de realisatie van het vorige begrotingsjaar.   
-3.  In de paragraaf betreffende topinkomens wordt de informatie opgenomen, bedoeld in [artikel 6, eerste en tweede lid, van de Wet openbaarmaking uit publieke middelen gefinancierde topinkomens](../../../wet/wet/openbaarmaking/uit/publieke/middelen/gefinancierde/topinkomens/BWBR0019562/README.md).   
+3.  In de paragraaf betreffende topinkomens wordt de informatie opgenomen, bedoeld in de [artikelen 4.1, eerste en tweede lid](../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), en [4.2, eerste, tweede en derde lid, van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md).   
 
 ### Artikel  4.31  
 

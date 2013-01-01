@@ -179,10 +179,6 @@ Onze Minister brengt ieder kwartaal verslag uit aan de Staten-Generaal over de t
 
 ####Beroep
 
-### Artikel  46  
-
-Tegen een op grond van de artikelen 13, 15, 17, 18, 19, 20, 21, 22, 26 en 32 genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.  
-
 ### Hoofdstuk  VII  
 
 ####Overige bepalingen

@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-Deze regeling geeft uitvoering aan de [artikelen 3, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [7, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [15, tweede en derde lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [24a, zevende lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [24b, tweede en zesde lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), en [37f van de Wet op de motorrijtuigenbelasting 1994](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](../../../../../wet/invoeringswet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0007310/README.md), en [artikel 7a, onderdeel b, van het Uitvoeringsbesluit motorrijtuigenbelasting 1994](../../../../../AMvB/uitvoeringsbesluit/motorrijtuigenbelasting/1994/BWBR0007311/README.md).  
+Deze regeling geeft uitvoering aan de [artikelen 3, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [7, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [15, tweede en derde lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [24a, achtste lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [24b, tweede en vijfde lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), en [37f van de Wet op de motorrijtuigenbelasting 1994](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](../../../../../wet/invoeringswet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0007310/README.md), en [artikel 7a, onderdeel b, van het Uitvoeringsbesluit motorrijtuigenbelasting 1994](../../../../../AMvB/uitvoeringsbesluit/motorrijtuigenbelasting/1994/BWBR0007311/README.md).  
 
 ### Artikel  2  
 
@@ -16,7 +16,7 @@ In deze regeling wordt verstaan onder:   wet:  [Wet op de motorrijtuigenbelastin
 
 ### Artikel  3  
 
-1.  De laadruimte voldoet aan de gestelde voorwaarden met betrekking tot de lengte en de hoogte indien deze in gesloten toestand een rechthoekig, rechtop geplaatst blok kan bevatten waarvan de lengte, de hoogte en de breedte ten minste gelijk zijn aan de in [artikel 3 van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) voor de desbetreffende laadruimte genoemde afmetingen, en waarvan de lengte-as evenwijdig is aan die van het desbetreffende motorrijtuig. Voor de toepassing van deze bepaling worden, indien de laadruimte niet van de bestuurderszitplaats is afgescheiden door een vaste wand, de zitplaatsen voor de bestuurder en de bijrijder in de achterste stand geplaatst.   
+1.  De laadruimte voldoet aan de gestelde voorwaarden met betrekking tot de lengte en de hoogte indien deze in gesloten toestand een rechthoekig, rechtop geplaatst blok kan bevatten waarvan de lengte, de hoogte en de breedte ten minste gelijk zijn aan de in [artikel 3 van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) voor de desbetreffende laadruimte genoemde afmetingen, en waarvan de lengte-as evenwijdig is aan die van het desbetreffende motorrijtuig. Voor de toepassing van deze bepaling worden, indien de laadruimte niet van de bestuurderszitplaats is afgescheiden door een vaste wand, de zitplaatsen voor de bestuurder en de bijrijder in de achterste stand geplaatst. Voor de toepassing van dit lid wordt, ingeval de open laadbak van een motorrijtuig van het type pick-up is voorzien van een al dan niet eenvoudig te demonteren overkapping, de laadruimte in aanmerking genomen met gesloten overkapping, tenzij deze overkapping slechts bestaat uit een platte deksel die direct op de opstaande zijkanten van de laadbak is geplaatst.   
 2.  Het verschil in hoogte tussen de cabine en de laadruimte is de verticale afstand tussen het denkbeeldige horizontale vlak waarin de beide hoogste punten van de dagopening van de deuren bij de voorzitplaatsen zijn gelegen, en het hoogste gedeelte van het dak van de laadruimte, gemeten over een breedte van ten minste 20 cm.   
 3.  De hoogte van de cabine van een motorrijtuig met een dubbele cabine is de grootste afstand tussen vloer en dak van de cabine, gemeten over een breedte van ten minste 20 cm.   
 4.  De lengte van de cabine van een motorrijtuig met een dubbele cabine is de evenwijdig aan de lengte-as van het desbetreffende motorrijtuig gemeten afstand tussen het achterste punt van het stuurwiel en de vaste wand die de cabine van de laadruimte scheidt.   
@@ -46,11 +46,11 @@ zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carrosser
 
 ### Artikel  4  
 
-1.  De belasting voor een personenauto, een bestelauto, een motorrijwiel of een vrachtauto behoeft niet bij de aanvang van een tijdvak te zijn betaald indien het een ander tijdvak betreft dan: 
+1.  De belasting voor een motorrijtuig behoeft niet bij de aanvang van een tijdvak te zijn betaald indien het een ander tijdvak betreft dan: 
 
-een tijdvak als bedoeld in [artikel 11, eerste lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), met uitzondering van het tijdvak dat aanvangt met ingang van de dag van dagtekening van de eerste tenaamstelling van het voor het motorrijtuig afgegeven kentekenbewijs;  
+a. een tijdvak als bedoeld in [artikel 11, eerste lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), met uitzondering van het tijdvak dat aanvangt met ingang van de dag van dagtekening van de eerste tenaamstelling van het voor het motorrijtuig afgegeven kentekenbewijs;  
 
-een tijdvak als bedoeld in [artikel 13, eerste lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md).     
+b. een tijdvak als bedoeld in [artikel 13, eerste lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md).     
 2.  Bij toepassing van het eerste lid dient de belasting te zijn betaald binnen veertien dagen na de aanvang van het tijdvak, doch uiterlijk vóór het door de inspecteur daarvoor bepaalde tijdstip.   
 
 ### Artikel  4a  
@@ -84,14 +84,10 @@ b. de in het derde lid bedoelde verklaring van degene aan wie de bestelauto ter 
 
 ### Artikel  4c  
 
-1.  De houder van een personenauto, een bestelauto of een motorrijwiel waarvoor een kenteken is opgegeven dan wel degene op wiens naam een kenteken is gesteld als bedoeld in [artikel 37, derde lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) kan bij de inspecteur een vergunning aanvragen om de belasting over nog niet aangevangen tijdvakken te mogen betalen in maandelijkse termijnen. Op het aanvraagformulier machtigt de aanvrager de ontvanger tot automatische incasso van de termijnen. Op het formulier worden tevens vermeld de naam, het adres en het rekeningnummer van de aanvrager en het kenteken van het motorrijtuig. De aanvrager ondertekent het formulier.   
-2.  De in het eerste lid bedoelde vergunning alsmede de in dat lid bedoelde machtiging heeft betrekking op elke personenauto en bestelauto en elk motorrijwiel waarvan het kenteken op naam van de aanvrager is gesteld of zal worden gesteld, tenzij de aanvrager in zijn verzoek aangeeft dat het verzoek uitsluitend geldt voor een bepaald motorrijtuig.   
+1.  De houder van een personenauto, een bestelauto, een motorrijwiel of een autobus waarvoor een kenteken is opgegeven dan wel degene op wiens naam een kenteken is gesteld als bedoeld in [artikel 37, derde lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) kan bij de inspecteur een vergunning aanvragen om de belasting over nog niet aangevangen tijdvakken te mogen betalen in maandelijkse termijnen. Op het aanvraagformulier machtigt de aanvrager de ontvanger tot automatische incasso van de termijnen. Op het formulier worden tevens vermeld de naam, het adres en het rekeningnummer van de aanvrager en het kenteken van het motorrijtuig. De aanvrager ondertekent het formulier.   
+2.  De in het eerste lid bedoelde vergunning alsmede de in dat lid bedoelde machtiging heeft betrekking op elke personenauto, bestelauto en autobus en elk motorrijwiel waarvan het kenteken op naam van de aanvrager is gesteld of zal worden gesteld, tenzij de aanvrager in zijn verzoek aangeeft dat het verzoek uitsluitend geldt voor een bepaald motorrijtuig.   
 3.  De inspecteur verleent de vergunning bij beschikking.   
-4.  De inspecteur wijst de aanvraag af indien: 
-
-een vermindering van belasting als bedoeld in [artikel 28 van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) geldt;  
-
-hij een eerder aan de aanvrager verleende vergunning heeft ingetrokken en er sedertdien minder dan een jaar is verstreken.     
+4.  De inspecteur wijst de aanvraag af indien hij een eerder aan de aanvrager verleende vergunning heeft ingetrokken en er sedertdien minder dan een jaar is verstreken.   
 5.  De inspecteur kan de vergunning intrekken, indien binnen een periode van een jaar de incasso van een termijn driemaal niet is geslaagd.   
 6.  De vergunning eindigt: 
 
@@ -100,24 +96,16 @@ indien deze geldt voor een bepaald motorrijtuig bij beëindiging van het houders
 door opzegging door de aanvrager.     
 7.  Indien de vergunning is ingetrokken of geëindigd wordt een resterende belastingschuld over het lopende tijdvak nageheven.   
 
-### Artikel  5  
-
-1.  De nummerplaat, bedoeld in [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](../../../../../wet/invoeringswet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0007310/README.md) en in [artikel 7a, onderdeel b, van het Uitvoeringsbesluit motorrijtuigenbelasting 1994](../../../../../AMvB/uitvoeringsbesluit/motorrijtuigenbelasting/1994/BWBR0007311/README.md), bestaat uit een op zijn punt geplaatste vierkante plaat met zijden van 21 centimeter, waarop in witte onuitwisbare tekens op een rode achtergrond, volgens RAL standaardkleur nr. 3000, de kentekens van het registratiebewijs dat krachtens [artikel 5 van het Reglement kentekenregistratie](../../../../../AMvB/reglement/kentekenregistratie/BWBR0002938/README.md) voor het voertuig is afgegeven, en een gewichtscode zijn aangebracht. Het type en de afmetingen van letters, cijfers en horizontale streep alsmede van de onderlinge afstand daarvan, zijn die welke in de [Bijlage bij de Regeling kentekens en kentekenplaten](../../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md) als model A.2. voor het kenteken van motorrijwielen zijn voorgeschreven. De plaatsing van de tekens op de plaat geschiedt overeenkomstig het model van de bijlage bij deze regeling.   
-2.  De in het eerste lid bedoelde gewichtscode geeft het tot het naaste honderdtal kilogrammen afgeronde gewicht aan, waarbij 50 kilogram naar beneden wordt afgerond. De gewichtscode bestaat uit twee cijfers of uit één letter en één cijfer. Het eerste cijfer geeft de duizendtallen aan van het gewicht in kilogrammen. Het tweede cijfer geeft de honderdtallen aan van het afgeronde gewicht in kilogrammen. Indien het gewicht tienduizend kilogram of meer bedraagt, begint de code met een letter die de duizendtallen aangeeft van het gewicht overeenkomstig de volgende tabel: A is 10;G is 16;N is 22;V is 28; B is 11;H is 17;P is 23;W is 29; C is 12;J is 18;R is 24;X is 30 D is 13;K is 19;S is 25;Z is 31; E is 14;L is 20;T is 26; F is 15;M is 21;U is 27; XX is meer dan 31950 kilogram.   
-3.  De plaat moet duidelijk als zodanig kenbaar worden aangebracht aan de achterzijde van het voertuig. Indien het motorrijtuig is verbonden met meer dan één voertuig, dienen de platen van die voertuigen op het achterste voertuig te zijn aangebracht. De plaat mag niet hoger zijn aangebracht dan 2 meter boven het wegdek en niet in de onmiddellijke nabijheid van de op het rij- of voertuig aangebrachte kentekenplaat met het kenteken van het motorrijtuig.   
-
 ### Artikel  5a  
 
 1.  Het verzoek om toepassing van [artikel 37a, tweede lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) gaat vergezeld van een afschrift van de beschikking, bedoeld in [artikel 15 van de Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), onderscheidenlijk in [artikel 7, vierde lid, van de Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md).   
 2.  Het verzoek om toepassing van [artikel 37b, eerste lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) gaat vergezeld van 
 
-afschriften van de kentekenbewijzen van de vrachtauto’s die deel uit zullen maken van het bedrijfsvoertuigenpark;  
+a. afschriften van de kentekenbewijzen van de vrachtauto’s en aanhangwagens die deel uit zullen maken van het bedrijfsvoertuigenpark;  
 
-afschriften van het registratiebewijs of de registratiebewijzen van de aanhangwagens die deel uit zullen maken van het bedrijfsvoertuigenpark;  
+b. een schriftelijke verklaring van de houder dat geen van de vrachtauto’s die deel zullen uitmaken van het bedrijfsvoertuigenpark zal worden verbonden met een aanhangwagen die daarvan geen deel uitmaakt; en  
 
-een schriftelijke verklaring van de houder dat geen van de vrachtwagens die deel zullen uitmaken van het bedrijfsvoertuigenpark zal worden verbonden met een aanhangwagen die daarvan geen deel uitmaakt; en  
-
-een schriftelijke verklaring van de houder dat hij wijzigingen met betrekking tot de in het bedrijfsvoertuigenpark opgenomen vrachtauto’s en aanhangwagens terstond aan de inspecteur zal melden.     
+c. een schriftelijke verklaring van de houder dat hij wijzigingen met betrekking tot de in het bedrijfsvoertuigenpark opgenomen vrachtauto’s en aanhangwagens terstond aan de inspecteur zal melden.     
 
 ### Artikel  6  
 

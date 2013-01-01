@@ -86,10 +86,6 @@ Onze Minister kan van een ieder de inlichtingen verlangen, die hij nodig acht om
 3.  Een algemeen mandaat als bedoeld in het eerste en het tweede lid wordt niet voor onbepaalde tijd gegeven. Zij bevat tenminste de naam of de functie van de mandataris, de bevoegdheid die wordt gemandateerd en de periode waarin het mandaat geldt.   
 4.  Een mandaat voor een bepaald geval als bedoeld in het eerste en het tweede lid bevat tenminste de naam of de functie van de mandataris, de bevoegdheid die wordt gemandateerd, de periode waarin het mandaat geldt en het geval waarin de bevoegdheid kan worden uitgeoefend.   
 
-### Artikel  17  
-
-Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College.  
-
 ### Artikel  20  
 
 Informatie, verkregen op grond van deze wet, wordt, voor zover die betrekking heeft op afzonderlijke natuurlijke personen of rechtspersonen, dan wel daaruit gevolgtrekkingen ten aanzien van zodanige personen kunnen worden gemaakt, zonder toestemming van die personen niet verstrekt aan anderen dan degenen, die belast zijn met de uitvoering van een of meer bepalingen van deze wet.  

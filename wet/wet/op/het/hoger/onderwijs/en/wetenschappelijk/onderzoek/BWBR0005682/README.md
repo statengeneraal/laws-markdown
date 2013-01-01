@@ -652,7 +652,7 @@ a. een disciplinaire maatregel,
 
 b. schorsing,  
 
-c. ontslag anders dan op eigen verzoek, voordat de pensioengerechtigde leeftijd is bereikt,  
+c. ontslag anders dan op eigen verzoek, voordat de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), is bereikt,  
 
 d. het direct of indirect onthouden van bevordering, of  
 
@@ -2613,14 +2613,14 @@ d. bij onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroord
 ####Bevoegdheid en procedure college van beroep voor het hoger onderwijs
 
 1.  Het college van beroep voor het hoger onderwijs oordeelt over het beroep dat een betrokkene heeft ingesteld tegen een beslissing van een orgaan van een instelling voor hoger onderwijs die jegens hem op grond van deze wet en daarop gebaseerde regelingen is genomen. Tegen uitspraken van het college van beroep voor het hoger onderwijs staat geen hoger beroep open.   
-2.  [Hoofdstuk 8 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing, met uitzondering van de [artikelen 8:1, eerste en tweede lid](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [8:13](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.  [Hoofdstuk 8 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing, met uitzondering van de [artikelen 8:1](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:2, eerste lid, aanhef en onder a](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [8:13](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 3.  De organen van de instelling verstrekken aan het college van beroep de gegevens die dit college voor de uitvoering van zijn taak nodig oordeelt.   
 
 ### Artikel  7.67  
 
 ####Griffierecht
 
-Het griffierecht bedraagt € 42. [Artikel 8:41, vijfde lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.  
+Het griffierecht bedraagt € 44. [Artikel 11:2, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.  
 
 ### Paragraaf  4  
 
@@ -3253,7 +3253,7 @@ c. het college van bestuur of de decaan onzorgvuldig heeft gehandeld ten opzicht
 
 ####Procesbevoegdheid medezeggenschapsorganen
 
-1.  Van een uitspraak van de geschillencommissie staat beroep open bij de ondernemingskamer van het gerechtshof te Amsterdam. De eerste volzin is niet van toepassing ten aanzien van artikel 9.40, zevende lid.   
+1.  Van een uitspraak van de geschillencommissie staat beroep open bij de ondernemingskamer van het gerechtshof Amsterdam. De eerste volzin is niet van toepassing ten aanzien van artikel 9.40, zevende lid.   
 2.  Een medezeggenschapsorgaan kan in rechte optreden, als het beroep strekt tot naleving door het college van bestuur of de decaan van de verplichtingen tegenover het medezeggenschapsorgaan.   
 3.  Het beroep wordt ingediend bij beroepschrift binnen een maand na de datum van de uitspraak van de geschillencommissie. De wederpartij wordt van het beroep in kennis gesteld.   
 4.  Een beroep kan uitsluitend worden ingesteld op de grond dat de geschillencommissie een onjuiste toepassing heeft gegeven aan de wet.   
@@ -4199,24 +4199,7 @@ Het algemeen bestuur is verantwoording verschuldigd aan Onze minister. Het verst
 
 ### Hoofdstuk  14  
 
-####Beroep op de administratieve rechter
-
-### Artikel  14.1  
-
-####Beroep op de Afdeling bestuursrechtspraak van de Raad van State
-
-1.  Tegen een besluit van Onze minister of het accreditatieorgaan jegens een bepaalde instelling op grond van de in het tweede lid genoemde artikelen kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
-2.  Het eerste lid heeft betrekking op: 
-
-a. artikel 2.9, vierde lid,  
-
-b. artikel 5a.9,  
-
-c. de artikelen 5a.9, 5a.11, 5a.12b, 5a.13d, 5a.13, tweede en zesde lid, 5a.13f en 5a.13g,  
-
-d. artikel 6.5, en  
-
-e. artikel 15.1, eerste lid.     
+####Beroep bij de bestuursrechter
 
 ### Artikel  14.2  
 

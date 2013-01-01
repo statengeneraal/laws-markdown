@@ -682,10 +682,8 @@ De kosten van de schadebeoordelingscommissie worden de verzoeker niet in rekenin
 
 ### Artikel  39  
 
-1.  Tegen een besluit op grond van deze wet kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
-2.  De werking van een besluit als bedoeld in artikel 15, eerste lid, wordt geschorst totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.   
-3.  Een beroep tegen een besluit tot vaststelling van een beheerplan als bedoeld in artikel 19a heeft uitsluitend betrekking op de beschrijvingen van handelingen die het bereiken van de instandhoudingsdoelstelling niet in gevaar brengen, en de daarbij in voorkomend geval aangegeven voorwaarden en beperkingen.   
-4.  Geen beroep kan worden ingesteld tegen een besluit inzake een programma als bedoeld in de artikel 19kg.   
+1.  De werking van een besluit als bedoeld in artikel 15, eerste lid, wordt geschorst totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.   
+2.  Een beroep tegen een besluit tot vaststelling van een beheerplan als bedoeld in artikel 19a heeft uitsluitend betrekking op de beschrijvingen van handelingen die het bereiken van de instandhoudingsdoelstelling niet in gevaar brengen, en de daarbij in voorkomend geval aangegeven voorwaarden en beperkingen.   
 
 ### Hoofdstuk  VIII  
 

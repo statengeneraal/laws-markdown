@@ -56,7 +56,7 @@ l. organisatie van openbaar belang:
 
 3°. een centrale kredietinstelling met zetel in Nederland als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) waaraan een vergunning is verleend ingevolge [die wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-4°. een levensverzekeraar of schadeverzekeraar met zetel in Nederland als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) waaraan een vergunning is verleend ingevolge [die wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+4°. een herverzekeraar, levensverzekeraar of schadeverzekeraar met zetel in Nederland als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) waaraan een vergunning is verleend ingevolge [die wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
 5°. een onderneming, instelling of openbaar lichaam, behorende tot een van de ingevolge artikel 2 aangewezen categorieën;     
 
@@ -152,9 +152,12 @@ f. indien de houder niet meer voldoet aan bij of krachtens deze wet gestelde reg
 a. de inrichting en de werking van het register; en  
 
 b. andere gegevens over de accountantsorganisaties, auditorganisaties van een derde land, externe accountants en auditors van een derde land die in het register worden opgenomen.     
-4.  De Autoriteit Financiële Markten haalt de inschrijving van de accountantsorganisatie in het register door zodra de vergunning is ingetrokken of vervallen.   
-5.  De Autoriteit Financiële Markten haalt de inschrijving van de externe accountant in het register tijdelijk door indien de accountantskamer de maatregel van tijdelijke doorhaling heeft opgelegd.   
-6.  De Autoriteit Financiële Markten haalt de inschrijving van de externe accountant in het register door: 
+4.  De Autoriteit Financiële Markten vermeldt in het register de tuchtrechtelijke maatregelen die jegens de externe accountant zijn opgelegd en het tijdstip waarop deze zijn ingegaan en, voor zover van toepassing, het tijdstip waarop deze eindigen. Bij elke tuchtrechtelijk maatregel tot doorhaling van een inschrijving, wordt de datum van de doorhaling vermeld.   
+5.  De Autoriteit Financiële Markten verwijdert de tuchtrechtelijke maatregel uit het register nadat tien jaren zijn verstreken na het tijdstip waarop de tuchtrechtelijke maatregel is opgelegd.   
+6.  Onverminderd het vijfde lid wordt een tuchtrechtelijke maatregel tot tijdelijke doorhaling van de inschrijving in het register tot vijf jaar na het einde van de maatregel in het register vermeld.   
+7.  De Autoriteit Financiële Markten haalt de inschrijving van de accountantsorganisatie in het register door zodra de vergunning is ingetrokken of vervallen.   
+8.  De Autoriteit Financiële Markten haalt de inschrijving van de externe accountant in het register tijdelijk door indien de accountantskamer de maatregel van tijdelijke doorhaling heeft opgelegd.   
+9.  De Autoriteit Financiële Markten haalt de inschrijving van de externe accountant in het register door: 
 
 a. indien de vergunning van de accountantsorganisatie is ingetrokken of vervallen;  
 
@@ -166,12 +169,12 @@ d. op verzoek van de externe accountant;
 
 e. indien de externe accountant is overleden;  
 
-f. indien de inschrijving van de externe accountant als registeraccountant of Accountant-Administratieconsulent is doorgehaald in het accountantsregister, bedoeld in [artikel 55, eerste lid, van de Wet op de Registeraccountants](../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md), onderscheidenlijk [artikel 36, eerste lid, van de Wet op de Accountants-Administratieconsulenten](../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md).     
-7.  Indien de Autoriteit Financiële Markten een vergunning intrekt van een accountantsorganisatie die als auditkantoor in de zin van de richtlijn is ingeschreven in het openbaar register in een andere lidstaat, doet de Autoriteit Financiële Markten daarvan met opgave van de redenen voor de intrekking mededeling aan de toezichthoudende instantie in die lidstaat.   
-8.  De Autoriteit Financiële Markten kan de inschrijving van een auditorganisatie van een derde land in het register doorhalen, indien deze niet langer voldoet aan de in artikel 12c, eerste lid gestelde eisen voor inschrijving in het register.   
-9.  De Autoriteit Financiële Markten haalt de inschrijving van een auditorganisatie van een derde land in het register door, indien deze een vergunning heeft verkregen als bedoeld in artikel 5 of geen gevolg heeft gegeven aan een aanwijzing als bedoeld in artikel 52.   
-10.  Een doorhaling in het register als bedoeld in het achtste of negende lid tast het rechtsgevolg van reeds door de desbetreffende auditorganisatie afgegeven verklaringen als bedoeld in artikel 12b niet aan.   
-11.  De Autoriteit Financiële Markten haalt de inschrijving van een auditor van een derde land in het register door: 
+f. indien de inschrijving van de externe accountants in het register, bedoeld in [artikel 36, eerste lid, van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) is doorgehaald.     
+10.  Indien de Autoriteit Financiële Markten een vergunning intrekt van een accountantsorganisatie die als auditkantoor in de zin van de richtlijn is ingeschreven in het openbaar register in een andere lidstaat, doet de Autoriteit Financiële Markten daarvan met opgave van de redenen voor de intrekking mededeling aan de toezichthoudende instantie in die lidstaat.   
+11.  De Autoriteit Financiële Markten kan de inschrijving van een auditorganisatie van een derde land in het register doorhalen, indien deze niet langer voldoet aan de in artikel 12c, eerste lid gestelde eisen voor inschrijving in het register.   
+12.  De Autoriteit Financiële Markten haalt de inschrijving van een auditorganisatie van een derde land in het register door, indien deze een vergunning heeft verkregen als bedoeld in artikel 5 of geen gevolg heeft gegeven aan een aanwijzing als bedoeld in artikel 52.   
+13.  Een doorhaling in het register als bedoeld in het achtste of negende lid tast het rechtsgevolg van reeds door de desbetreffende auditorganisatie afgegeven verklaringen als bedoeld in artikel 12b niet aan.   
+14.  De Autoriteit Financiële Markten haalt de inschrijving van een auditor van een derde land in het register door: 
 
 a. indien zij de inschrijving in het register van de auditorganisatie van een derde land waarbij de auditor van een derde land werkzaam is of waaraan deze is verbonden doorhaalt;  
 
@@ -347,6 +350,10 @@ b. gedurende de periode waarop de financiële verantwoording betrekking heeft of
 2.  De accountantsorganisatie meldt jaarlijks aan het in het eerste lid bedoelde auditcomité alle door haar aan de controlecliënt verleende diensten anders dan het uitvoeren van wettelijke controles.   
 3.  De accountantsorganisatie voert met het in het eerste lid bedoelde auditcomité jaarlijks overleg over de bedreigingen terzake van haar onafhankelijkheid en de maatregelen die zijn genomen om deze bedreigingen in te perken.   
 
+### Artikel  24b  
+
+De accountantsorganisatie die wettelijke controles verricht bij een organisatie van openbaar belang, verricht naast controlediensten geen andere werkzaamheden voor die organisatie.  
+
 ### Afdeling  3.2  
 
 ####De externe accountant
@@ -371,7 +378,8 @@ De externe accountant voldoet aan bij of krachtens algemene maatregel van bestuu
 
 ### Artikel  27  
 
-De externe accountant is een registeraccountant of een Accountant-Administratieconsulent ten aanzien van wie in het accountantsregister een aantekening is geplaatst als bedoeld in [artikel 36, derde lid, van de Wet op de Accountants-Administratieconsulenten](../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) en voldoet aan de bij en krachtens de [Wet op de Registeraccountants](../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md) of de [Wet op de Accountants-Administratieconsulenten](../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) gestelde regels, voor zover deze van toepassing zijn op het uitvoeren van werkzaamheden betreffende de totstandkoming of de uitvoering van een opdracht tot het verrichten van wettelijke controles.  
+1.  De externe accountant is een accountant ten aanzien van wie in het accountantsregister een aantekening is opgenomen als bedoeld in [artikel 36, tweede lid, onderdeel i, van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) en die voldoet aan de bij of krachtens de [Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) gestelde regels, voor zover deze van toepassing zijn op het uitvoeren van wettelijke controles.   
+2.   Dit lid is nog niet in werking getreden.    
 
 ### Artikel  28  
 
@@ -398,46 +406,6 @@ Indien de externe accountant met betrekking tot het uitvoeren van werkzaamheden 
 
 ####Rekening en verantwoording van de Autoriteit Financiële Markten
 
-### Artikel  32  
-
-1.  De Autoriteit Financiële Markten stelt jaarlijks een begroting op van de in het daaropvolgende jaar te verwachten baten en lasten, investeringsuitgaven alsmede inkomsten en uitgaven met betrekking tot de uitvoering van de bij en krachtens deze wet opgedragen taak en de daaruit voortvloeiende werkzaamheden. De begroting wordt op een zodanige wijze opgesteld dat de lasten en de uitgaven structureel worden gedekt door de baten en de inkomsten.   
-2.  De begrotingsposten worden van een toelichting voorzien.   
-3.  Tenzij de werkzaamheden waarop de begroting betrekking heeft nog niet eerder werden verricht, bevat de begroting een vergelijking met de begroting van het lopende jaar en de laatst goedgekeurde jaarrekening waarmee Onze Minister heeft ingestemd.   
-4.  De Autoriteit Financiële Markten zendt de begroting voor 1 december van het aan het begrotingsjaar voorafgaande jaar ter instemming aan Onze Minister.   
-5.  De instemming kan worden onthouden wegens strijd met het recht of het algemeen belang. Ingeval van gebleken strijdigheid wordt instemming niet onthouden dan nadat de Autoriteit Financiële Markten in de gelegenheid is gesteld de begroting aan te passen, binnen een door Onze Minister te stellen redelijke termijn.   
-6.  De Autoriteit Financiële Markten doet onverwijld na instemming mededeling van de begroting in de Staatscourant en houdt de begroting gedurende een jaar na instemming op elektronische wijze ter inzage.   
-7.  Wanneer Onze Minister niet met de begroting heeft ingestemd vóór 1 januari van het jaar waarop deze betrekking heeft, kan de Autoriteit Financiële Markten, in het belang van een juiste uitvoering van haar taak, voor het aangaan van verplichtingen en het verrichten van uitgaven beschikken over ten hoogste drie twaalfde gedeelten van de bedragen die bij de overeenkomstige onderdelen in de begroting van het voorafgaande jaar waren toegestaan.   
-
-### Artikel  33  
-
-Indien gedurende het jaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke en begrote baten en lasten dan wel inkomsten en uitgaven, doet de Autoriteit Financiële Markten daarvan onverwijld mededeling aan Onze Minister onder vermelding van de oorzaak van de verschillen.  
-
-### Artikel  34  
-
-Bij ministeriële regeling kunnen regels worden gesteld voor de inrichting van de begroting.  
-
-### Artikel  35  
-
-1.  De Autoriteit Financiële Markten stelt jaarlijks een jaarrekening op van de bij deze wet opgedragen taak en de daaruit voortvloeiende werkzaamheden.   
-2.  De jaarrekening van de Autoriteit Financiële Markten, waarin rekening en verantwoording wordt afgelegd van het financieel beheer en van de geleverde prestaties over het verstreken boekjaar, wordt ingericht zoveel mogelijk met overeenkomstige toepassing van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
-3.  De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de Autoriteit Financiële Markten aangewezen registeraccountant of Accountant-Administratieconsulent ten aanzien van wie in het accountantsregister een aantekening is geplaatst als bedoeld in [artikel 36, derde lid, van de Wet op de Accountants-Administratieconsulenten](../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md), die niet werkzaam is bij of verbonden is aan een accountantsorganisatie.   
-4.  De accountant voegt bij de verklaring, bedoeld in het derde lid, een verslag van zijn bevindingen omtrent de rechtmatige inning en besteding van de middelen door de Autoriteit Financiële Markten uit hoofde van deze wet.   
-5.  De accountant voegt bij de verklaring, bedoeld in het derde lid, tevens een verslag van zijn bevindingen over de vraag of het beheer en de organisatie van de Autoriteit Financiële Markten uit hoofde van deze wet voldoen aan eisen van doelmatigheid.   
-6.  De Autoriteit Financiële Markten zendt de jaarrekening voor 1 mei van het op het boekjaar volgende jaar ter instemming aan Onze Minister.   
-7.  De instemming kan worden onthouden wegens strijd met het recht of het algemeen belang.   
-8.  De Autoriteit Financiële Markten doet onverwijld na instemming mededeling van de jaarrekening in de Staatscourant en houdt de jaarrekening gedurende een jaar na instemming op elektronische wijze ter inzage.   
-
-### Artikel  36  
-
-1.  Het verschil tussen de aan het eind van een begrotingsjaar gerealiseerde baten van de Autoriteit Financiële Markten en de gerealiseerde lasten van de Autoriteit Financiële Markten vormt het exploitatiesaldo.   
-2.  Indien in enig boekjaar een exploitatiesaldo ontstaat en de Autoriteit Financiële Markten dit exploitatiesaldo wil betrekken bij de in rekening te brengen kosten als bedoeld in artikel 41 doet de Autoriteit Financiële Markten daaromtrent een voorstel in de jaarrekening.   
-
-### Artikel  37  
-
-1.  De Autoriteit Financiële Markten stelt jaarlijks een jaarverslag op. Het jaarverslag beschrijft de taakuitoefening en het daartoe gevoerde beleid uit hoofde van deze wet in het voorafgaande jaar. Het jaarverslag beschrijft voorts het gevoerde beleid met betrekking tot de kwaliteitszorg.   
-2.  De Autoriteit Financiële Markten zendt het jaarverslag voor 1 mei aan Onze Minister. Onze Minister zendt een afschrift van het jaarverslag aan de Tweede Kamer der Staten-Generaal.   
-3.  De Autoriteit Financiële Markten houdt het jaarverslag op elektronische wijze ter inzage.   
-
 ### Artikel  38  
 
 1.  De Autoriteit Financiële Markten legt een voorgenomen statutenwijziging ter voorafgaande instemming voor aan Onze Minister. De [artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
@@ -461,28 +429,6 @@ c. de zorgvuldige behandeling van een ieder die met haar in aanraking komt;
 
 d. de zorgvuldige behandeling van bezwaarschriften en klachten die worden ontvangen.     
 2.  De Autoriteit Financiële Markten treft voorzieningen, waardoor ieder die met haar in aanraking komt in de gelegenheid is voorstellen tot verbetering van werkwijzen en procedures te doen.   
-3.  In het jaarverslag, bedoeld in artikel 37, doet de Autoriteit Financiële Markten verslag van hetgeen tot uitvoering van het eerste en het tweede lid is verricht.   
-
-### Artikel  40  
-
-1.  De Autoriteit Financiële Markten stelt een orgaan in voor overleg over: 
-
-a. de door de Autoriteit Financiële Markten op te stellen begroting;  
-
-b. de door de Autoriteit Financiële Markten gerealiseerde baten en lasten alsmede inkomsten en uitgaven, en verrichte werkzaamheden;  
-
-c. de kosten voor accountantsorganisaties en auditorganisaties van een derde land die verband houden met de uitoefening van haar taak op grond van deze wet en daaruit voortvloeiende werkzaamheden.     
-2.  Het overleg wordt gevoerd door de Autoriteit Financiële Markten en een representatieve vertegenwoordiging van onder haar toezicht staande accountantsorganisaties of representatieve organisaties, waaronder het Nederlands Instituut van Registeraccountants, bedoeld in [artikel 1, eerste lid, van de Wet op de Registeraccountants](../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md), en de Nederlandse Orde van Accountants-Administratieconsulenten, bedoeld in [artikel 2 van de Wet op de Accountants-Administratieconsulenten](../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md). Onze Minister wijst ambtenaren aan die namens hem het overleg bijwonen.   
-3.  Het overleg vindt ten minste tweemaal per jaar plaats.   
-4.  De Autoriteit Financiële Markten maakt het verslag van het overleg binnen een redelijke termijn na het overleg openbaar.   
-
-### Artikel  41  
-
-1.  De Autoriteit Financiële Markten brengt jaarlijks de kosten van de werkzaamheden die zij verricht in verband met de uitoefening van haar taak op grond van deze wet in rekening bij de accountantsorganisaties en auditorganisaties van een derde land ten aanzien waarvan die werkzaamheden worden verricht, voor zover deze kosten niet ten laste komen van de Rijksbegroting. Tot de kosten behoren onder meer de kosten die zij ter voorbereiding op de uitvoering van haar taak heeft gemaakt, voordat deze taak aan haar werd opgedragen.   
-2.  De kosten worden gebaseerd op de begroting waarmee Onze Minister heeft ingestemd en op het exploitatiesaldo, indien Onze Minister heeft ingestemd met de jaarrekening waarin een voorstel als bedoeld in artikel 36, tweede lid, is opgenomen.   
-3.  Op de begrote kosten worden de opbrengsten uit boetes en verbeurde dwangsommen, voor zover de hieraan ten grondslag liggende besluiten van de Autoriteit Financiële Markten in het voorafgaande jaar onherroepelijk zijn geworden, in mindering gebracht.   
-4.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste tot en met derde lid. Deze regels hebben onder meer betrekking op de toerekening van toezichthandelingen aan accountantsorganisaties.   
-5.  Bij ministeriële regeling worden tarieven vastgesteld inzake individueel toerekenbare toezichthandelingen.   
 
 ### Artikel  42  
 
@@ -517,10 +463,6 @@ d. die op grond van een rechterlijke uitspraak is ontbonden.
 
 1.  Onze Minister zendt vijf jaar na inwerkingtreding van deze wet en vervolgens elke vijf jaar een verslag aan de Tweede Kamer der Staten-Generaal over de doeltreffendheid en doelmatigheid van het functioneren van de Autoriteit Financiële Markten in het kader van de uitvoering van deze wet.   
 2.  De Autoriteit Financiële Markten verstrekt desgevraagd aan Onze Minister gegevens en inlichtingen ten behoeve van het verslag.   
-
-### Artikel  46  
-
-Tegen besluiten van Onze Minister inzake instemming met de begroting of de jaarrekening kan geen beroep worden ingesteld, in afwijking van [artikel 8:1 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
 
 ### Hoofdstuk  5  
 
@@ -608,10 +550,6 @@ De Autoriteit Financiële Markten kan de accountantsorganisatie waaraan een verg
 
 ####Beroep
 
-### Artikel  63  
-
-Indien beroep wordt ingesteld tegen een besluit op grond van deze wet is, in afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de rechtbank te Rotterdam bevoegd.  
-
 ### Hoofdstuk  5a  
 
 ####Geheimhoudingsplicht
@@ -619,7 +557,7 @@ Indien beroep wordt ingesteld tegen een besluit op grond van deze wet is, in afw
 ### Artikel  63a  
 
 1.  Het is een ieder die uit hoofde van de toepassing van deze wet of van ingevolge deze wet genomen besluiten enige taak vervult of heeft vervuld, verboden van vertrouwelijke gegevens of inlichtingen die ingevolge deze wet dan wel ingevolge [afdeling 5.2 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn verstrekt of verkregen of van instanties die belast zijn met het toezicht op auditkantoren in een andere lidstaat zijn ontvangen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitvoering van zijn taak of op basis van deze wet noodzakelijk is.   
-2.  In afwijking van het eerste lid kan de Autoriteit Financiële Markten van vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van haar taak op grond van deze wet, gebruik maken voor haar taak op grond van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), voor zover die gegevens of inlichtingen duiden op overtredingen als bedoeld in [artikel 1:97, eerste lid, van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+2.  In afwijking van het eerste lid kan de Autoriteit Financiële Markten van vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van haar taak op grond van deze wet, verstrekken aan de met verschillende taken belaste organisatie onderdelen van de Autoriteit Financiële Markten.   
 3.  In afwijking van het eerste lid kan de Autoriteit Financiële Markten met gebruikmaking van vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van haar taak op grond van deze wet, mededelingen doen, indien deze niet kunnen worden herleid tot afzonderlijke personen, accountantsorganisaties of auditkantoren.   
 
 ### Hoofdstuk  5b  
@@ -640,11 +578,9 @@ Indien beroep wordt ingesteld tegen een besluit op grond van deze wet is, in afw
 
 1.  De Autoriteit Financiële Markten kan, in afwijking van artikel 63a, vertrouwelijke gegevens of inlichtingen verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak, verstrekken aan: 
 
-a. de Nederlandse Orde van Accountants-Administratieconsulenten, bedoeld in [artikel 2, eerste lid, van de Wet op de Accountants-Administratieconsulenten](../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md);  
+a. de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2 van de Wet op het Accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
 
-b. het Nederlands Instituut van Registeraccountants, bedoeld in [artikel 1, eerste lid, van de Wet op de Registeraccountants](../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md); en  
-
-c. een organisatorisch verband van marktpartijen, dat zich ten doel stelt een doeltreffende bijdrage te leveren aan de uitvoering door de Autoriteit Financiële Markten van het toezicht op de naleving van deze wet en daartoe met de Autoriteit Financiële Markten een convenant heeft gesloten;   voor zover de gegevens of inlichtingen noodzakelijk zijn voor de vervulling van de taken van de in de onderdelen a tot en met c bedoelde instanties.   
+b. een organisatorisch verband van marktpartijen, dat zich ten doel stelt een doeltreffende bijdrage te leveren aan de uitvoering door de Autoriteit Financiële Markten van het toezicht op de naleving van deze wet en daartoe met de Autoriteit Financiële Markten een convenant heeft gesloten;   voor zover de gegevens of inlichtingen noodzakelijk zijn voor de vervulling van de taken van de in de onderdelen a tot en met c bedoelde instanties.   
 2.  Voor zover de gegevens of inlichtingen, bedoeld in het eerste lid, zijn verkregen van een toezichthoudende instantie, verstrekt de Autoriteit Financiële Markten deze niet aan een instantie als bedoeld in het eerste lid, tenzij de toezichthoudende instantie waarvan de gegevens of inlichtingen zijn verkregen uitdrukkelijk heeft ingestemd met de verstrekking van de gegevens of inlichtingen en in voorkomend geval heeft ingestemd met het gebruik voor een ander doel dan waarvoor de gegevens of inlichtingen zijn verstrekt.   
 
 ### Hoofdstuk  5c  
@@ -867,6 +803,11 @@ In afwijking van [artikel 67, tweede lid, van de Wet op de Registeraccountants](
 1.  Binnen zes weken na het tijdstip van inwerkingtreding van deze wet zendt de Autoriteit Financiële Markten ter instemming aan Onze Minister een begroting van de in het resterende deel van het lopende jaar te verwachten baten en lasten, investeringsuitgaven alsmede inkomsten en uitgaven met betrekking tot de uitvoering van de bij en krachtens deze wet opgedragen taak en daaruit voortvloeiende werkzaamheden.   
 2.  Artikel 32, tweede, vijfde en zesde lid, is van overeenkomstige toepassing.   
 
+### Artikel  86a  
+
+1.  Tot twee jaar na de inwerkingtreding van de [Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) is artikel 24b niet van toepassing op werkzaamheden waarvoor de opdracht aan de accountant of accountantsorganisatie is verstrekt voorafgaand aan de inwerkingtreding van de Wet op het accountantsberoep.   
+2.  Artikel 27, tweede lid, treedt vijf jaar na de inwerkingtreding van de [Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) in werking.   
+
 ### Artikel  87  
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
@@ -895,17 +836,15 @@ J. P. H.Donner
 
 – [artikelen 36, tweede lid](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), en [45, derde lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
-– [artikel 1h, vierde lid, van de Bestrijdingsmiddelenwet 1962](../../../../../wet/bestrijdingsmiddelenwet/1962/BWBR0002380/README.md);  
-
 – [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
 
 – [artikel 91, eerste lid, van de Flora- en faunawet](../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);  
 
 – [artikel 213, tweede lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md);  
 
-– [artikel 35, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), voor zover het de controle betreft van de financiële verantwoordingen van de Nederlandse Zorgautoriteit, het College voor zorgverzekeringen en de organisatie ZorgOnderzoek Nederland;  
+– [artikel 35, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), voor zover het de controle betreft van de financiële verantwoordingen van de Nederlandse Zorgautoriteit, het College voor zorgverzekeringen, de organisatie ZorgOnderzoek Nederland, de Waarderingskamer, het Centraal bureau voor de statistiek en het college voor de post- en telecommunicatiemarkt;  
 
-– [artikel 12, tweede lid, van de Mediawet](../../../../../wet/mediawet/BWBR0004149/README.md);  
+– [artikel 7.7, tweede lid, van de Mediawet 2008](../../../../../wet/mediawet/2008/BWBR0025028/README.md);  
 
 – [artikel 26, eerste lid, van de Organisatiewet Kadaster](../../../../../wet/organisatiewet/kadaster/BWBR0006463/README.md);  
 
@@ -923,21 +862,15 @@ J. P. H.Donner
 
 – [artikel 6, eerste lid, onderdeel f, van de Wet afbreking zwangerschap](../../../../../wet/wet/afbreking/zwangerschap/BWBR0003396/README.md);  
 
-– [artikel 10, tweede lid, van de Wet BDU verkeer en vervoer](../../../../../wet/wet/bdu/verkeer/en/vervoer/BWBR0017828/README.md);  
+– [artikel 5, tweede lid, van de Wet op de formeel buitenlandse vennootschappen](../../../../../wet/wet/op/de/formeel/buitenlandse/vennootschappen/BWBR0009191/README.md);  
 
-– [artikel 72, tweede lid, van de Wet op het Centraal bureau voor de statistiek](../../../../../wet/wet/op/het/centraal/bureau/voor/de/statistiek/BWBR0015926/README.md);  
+– [artikel 12, zevende lid, van de Wet gewasbeschermingsmiddelen en biociden](../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md);  
+
+– [artikel 48 van de Wet op de kamers van koophandel en fabrieken 1997](../../../../../wet/wet/op/de/kamers/van/koophandel/en/fabrieken/1997/BWBR0009276/README.md);  
 
 – [artikel 21, vierde lid, van de Wet Landelijk Bureau Inning Onderhoudsbijdragen](../../../../../wet/wet/landelijk/bureau/inning/onderhoudsbijdragen/BWBR0007292/README.md);  
 
 – [artikel 5.41, derde lid, onderdeel d, van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
-
-– [artikel 46, tweede lid, van de Wet op de kamers van koophandel en fabrieken 1997](../../../../../wet/wet/op/de/kamers/van/koophandel/en/fabrieken/1997/BWBR0009276/README.md);  
-
-– [artikel 20, eerste lid, van de Wet Onafhankelijke post- en telecommunicatieautoriteit](../../../../../wet/wet/onafhankelijke/post-/en/telecommunicatieautoriteit/BWBR0008807/README.md);  
-
-– [artikel 24, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad](../../../../../wet/wet/op/de/pensioen-/en/uitkeringsraad/BWBR0004806/README.md);  
-
-– [artikel 49, vierde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
 – [artikel 25, vierde lid, van de Wet toelating zorginstellingen](../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md);  
 
@@ -948,8 +881,6 @@ J. P. H.Donner
 – [artikel 22, eerste lid, van de Wet verzelfstandiging Staatsbosbeheer](../../../../../wet/wet/verzelfstandiging/staatsbosbeheer/BWBR0008904/README.md);  
 
 – [artikel 18, derde lid, tweede volzin, van de Wet voorraadvorming aardolieproducten 2001](../../../../../wet/wet/voorraadvorming/aardolieproducten/2001/BWBR0012373/README.md);  
-
-– [artikel 13 van de Wet waardering onroerende zaken](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md);  
 
 – [artikelen 70c, tweede lid, onderdeel h](../../../../../wet/woningwet/BWBR0005181/README.md), en [71g, eerste lid, van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md);  
 

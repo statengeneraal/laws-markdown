@@ -165,8 +165,7 @@ d. het gederfde hulploon.
 
 ### Artikel  14  
 
-1.  De hulpverlener kan tegen een beschikking van Onze Minister, genomen op een verzoek om een tegemoetkoming als bedoeld in artikel 13, eerste lid, binnen zes weken na de bekendmaking beroep instellen bij de rechtbank te Rotterdam.   
-2.  Het beroep wordt ingesteld door indiening van een verzoekschrift bij de rechtbank te Rotterdam.   
+Beroep tegen een beschikking van Onze Minister, genomen op een verzoek om een tegemoetkoming als bedoeld in artikel 13, eerste lid, geschiedt bij verzoekschrift.  
 
 ### Hoofdstuk  5  
 

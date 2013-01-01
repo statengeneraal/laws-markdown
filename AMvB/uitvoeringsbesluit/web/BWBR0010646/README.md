@@ -45,7 +45,7 @@ c. basisregister onderwijs: basisregister onderwijs als bedoeld in [artikel 24b 
 ####Reikwijdte hoofdstuk 2
 
 1.  De paragrafen 1, 2, 4, 5, 6 en 6a zijn van toepassing op instellingen als bedoeld in [artikel 1.1.1, onderdeel b, onder 1° tot en met 3°, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
-2.  Paragraaf 1, paragraaf 2 en paragraaf 4 zijn van overeenkomstige toepassing en de paragrafen 5, 6 en 6a zijn van toepassing ten aanzien van het beroepsonderwijs binnen agrarische opleidingscentra waarvoor de rijksbijdrage wordt vastgesteld door Onze Minister van Landbouw, Natuurbeheer en Visserij.   
+2.  Paragraaf 1, paragraaf 2 en paragraaf 4 zijn van overeenkomstige toepassing en de paragrafen 5, 6 en 6a zijn van toepassing ten aanzien van het beroepsonderwijs binnen agrarische opleidingscentra waarvoor de rijksbijdrage wordt vastgesteld door Onze Minister van Economische Zaken, Landbouw en Innovatie.   
 3.  Paragraaf 3 onderscheidenlijk de paragrafen 4 en 5 heeft betrekking onderscheidenlijk hebben mede betrekking op het voorbereidend beroepsonderwijs dat wordt verzorgd aan agrarische opleidingscentra.   
 4.  De paragrafen 5, 6 en 6a hebben mede betrekking op de in [artikel 12.3.8 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) genoemde instituten, alsmede op de in [artikel 12.3.9 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) genoemde hogescholen.   
 
@@ -55,15 +55,15 @@ c. basisregister onderwijs: basisregister onderwijs als bedoeld in [artikel 24b 
 
 In dit hoofdstuk wordt verstaan onder: 
 
-a. opleiding: een beroepsopleiding die is opgenomen in het Centraal register en die wordt bekostigd ingevolge een besluit van Onze Minister op grond van [artikel 2.1.1, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+a. opleiding: een beroepsopleiding die op grond van [artikel 2.1.1 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) voor bekostiging in aanmerking komt;  
 
 b. voltijds deelnemer: een deelnemer die blijkens een overeenkomst als bedoeld in [artikel 8.1.3 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) een voltijdse opleiding volgt als bedoeld in [artikel 1.1.1, onderdeel i1, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
 c. deeltijds deelnemer: een deelnemer aan een opleiding, niet zijnde een voltijds deelnemer;  
 
-d. diploma beroepsonderwijs: een door een examencommissie uitgereikt bewijsstuk dat met goed gevolg is afgelegd het examen van een onder a bedoelde opleiding, alsmede van een opleiding die niet langer is opgenomen in het in [artikel 2.1.1 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) bedoelde overzicht,  
+d. diploma beroepsonderwijs: een door een examencommissie uitgereikt bewijsstuk dat met goed gevolg is afgelegd het examen van een onder a bedoelde opleiding, alsmede van een opleiding die niet langer wordt bekostigd op grond van [artikel 2.1.1 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
-e. agrarisch opleidingscentrum: een agrarisch opleidingscentrum als bedoeld in [artikel 1.1.1, onderdeel b, onder 4° van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+e. agrarisch opleidingscentrum: een agrarisch opleidingscentrum als bedoeld in [artikel 1.1.1, onderdeel b, onder 3° van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
 f. voorbereidend beroepsonderwijs: voorbereidend beroepsonderwijs dat wordt verzorgd aan een agrarisch opleidingscentrum;  
 
@@ -123,19 +123,19 @@ In deze formule wordt de teller van de breuk afgerond op twee decimalen en wordt
 a. uiterlijk op 31 december van datzelfde kalenderjaar een overeenkomst als bedoeld in [artikel 7.2.8, tweede lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) hebben gesloten, en  
 
 b. indien zij een opleiding volgen als bedoeld in het tweede lid, onder b, uiterlijk op 1 juni van het daaropvolgende kalenderjaar, dan wel in geval zij een andere opleiding volgen uiterlijk op dezelfde datum als genoemd onder a, daadwerkelijk de opleiding in de praktijk van het beroep, bedoeld in [artikel 7.2.8, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), volgen op de grondslag van een overeenkomst als bedoeld onder a,   DDi2: het aantal deeltijds deelnemers dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende jaar aan de desbetreffende instelling voor de desbetreffende opleiding is ingeschreven en daadwerkelijk die opleiding volgt en niet voldoet aan de definitie van DDi1. DFi1: de op grond van het tweede lid aan de desbetreffende opleiding toegekende deeltijdfactor, DFi2: de op grond van het derde lid aan de desbetreffende opleiding toegekende deeltijdfactor, VDi: het aantal voltijds deelnemers dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende jaar aan de desbetreffende instelling voor de desbetreffende opleiding is ingeschreven en daadwerkelijk die opleiding volgt, Pi: de op grond van het vierde lid aan de desbetreffende opleiding toegekende prijsfactor, LDw: de landelijke deelnemerswaarde, zijnde de som van de deelnemerswaarden van de instellingen, waarbij onder deelnemerswaarde wordt verstaan: de teller van de in de formule gebruikte breuk, en LMID: het landelijk deel ten behoeve van de maatstaf ingeschreven deelnemers, zoals dat voor het desbetreffende jaar is vastgesteld op grond van artikel 2.2.1, tweede lid, onder a, C: de correctiefactor, bedoeld in het zesde lid.   
-2.  De deeltijdfactor, bedoeld in het eerste lid onder DFi1, bedraagt: 
+2.  De deeltijdfactor, bedoeld in het eerste lid, onder DFi1, bedraagt: 
 
-a. voor de opleidingen die zijn opgenomen in het Centraal register en die worden bekostigd door Onze Minister van Landbouw, Natuurbeheer en Visserij: 0,5;  
+a. voor opleidingen die worden bekostigd door Onze minister van Economische Zaken, Landbouw en Innovatie: 0,5;  
 
-b. voor de opleidingen die zijn opgenomen in het Centraal register en die worden bekostigd door Onze Minister van Onderwijs, Cultuur en Wetenschappen, voor zover voor die opleidingen eindtermen als bedoeld in [artikel 7.2.4, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) zijn vastgesteld in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport: 0,8, en  
+b. voor opleidingen die worden bekostigd door Onze Minister van Onderwijs, Cultuur en Wetenschap, voor zover voor die opleidingen kwalificaties als bedoeld in [artikel 7.2.4, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) zijn vastgesteld in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport: 0,8 en  
 
 c. voor de overige opleidingen: 0,4.     
 3.  De deeltijdfactor, bedoeld in het eerste lid onder DFi2, bedraagt: 
 
-a. voor de opleidingen die zijn opgenomen in het Centraal register en die worden bekostigd door Onze Minister van Landbouw, Natuur en Voedselkwaliteit: 0,4,  
+a. voor de opleidingen die worden bekostigd door Onze Minister van Economische Zaken, Landbouw en Innovatie: 0,4,  
 
-b. voor de opleidingen die zijn opgenomen in het Centraal register en die worden bekostigd door Onze Minister van Onderwijs, Cultuur en Wetenschap: 0,3.     
-4.  Jaarlijks voor 1 september voorafgaand aan het kalenderjaar waarvoor de rijksbijdrage wordt vastgesteld, wordt bij ministeriële regeling de prijsfactor, bedoeld in het eerste lid onder Pi, vastgesteld die wordt toegekend aan een opleiding die in dat kalenderjaar voor het eerst in het Centraal register wordt opgenomen. Wijzigingen van prijsfactoren van reeds in het Centraal register opgenomen opleidingen worden eveneens jaarlijks voor 1 september voorafgaand aan het kalenderjaar waarvoor de rijksbijdrage wordt vastgesteld, bij ministeriële regeling vastgesteld.   
+b. voor de opleidingen die worden bekostigd door Onze Minister van Onderwijs, Cultuur en Wetenschap: 0,3.     
+4.  Bij ministeriële regeling worden de prijsfactoren vastgesteld voor opleidingen waarvoor kwalificaties als bedoeld in [artikel 7.2.4, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) zijn vastgesteld.   
 5.  Deelnemers aan de beroepsbegeleidende leerweg worden in de berekening, bedoeld in het eerste lid, niet geteld onder DDi2, voor zover zij in die berekening voor de desbetreffende instelling voor een van de drie voorafgaande kalenderjaren al onder DDi2 werden geteld.   
 6.  De correctiefactor wordt berekend volgens de formule:  
 
@@ -158,15 +158,15 @@ VDi2: het aantal voltijds deelnemers dat op 1 februari van het kalenderjaar voor
 DFi1.2: de op grond van het zevende lid toegekende deeltijdfactor.     
 7.  De deeltijdfactor, bedoeld in het zesde lid, onder DFi1.2, bedraagt voor: 
 
-a. een instelling die opleidingen verzorgt die zijn opgenomen in het Centraal register en die worden bekostigd door Onze minister van Landbouw, Natuur en Voedselkwaliteit: 0,5;  
+a. een instelling die opleidingen verzorgt die worden bekostigd door Onze minister van Economische Zaken, Landbouw en Innovatie: 0,5;  
 
-b. een instelling die opleidingen verzorgt die zijn opgenomen in het Centraal register en die worden bekostigd door Onze minister van Onderwijs, Cultuur en Wetenschap: 0,35.     
+b. een instelling die opleidingen verzorgt die worden bekostigd door Onze Minister van Onderwijs, Cultuur en Wetenschap: 0,35.     
 
 ### Artikel  2.2.4  
 
 ####Berekening rijksbijdragedeel volgens maatstaf diploma's beroepsonderwijs
 
-1.  Onze Minister berekent het rijksbijdragedeel op grond van de maatstaf diploma's beroepsonderwijs volgens de formule: DI.1 + 2DI.2 + 4DI.3 ----------------------------------- x LMD LD.1 + 2LD.2 + 4LD.3 In deze formule wordt verstaan onder: DI.1: het aantal diploma's beroepsonderwijs dat aan die instelling is behaald in het tweede kalenderjaar voorafgaand aan het desbetreffende jaar bij opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder a, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), DI.2: het aantal diploma's beroepsonderwijs dat aan die instelling is behaald in het tweede kalenderjaar voorafgaand aan het desbetreffende jaar bij opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), DI.3: het aantal diploma's beroepsonderwijs dat aan die instelling is behaald in het tweede kalenderjaar voorafgaand aan het desbetreffende jaar bij opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder c tot en met f, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), LD.1: het aantal diploma's beroepsonderwijs dat landelijk is behaald in het tweede kalenderjaar voorafgaand aan het desbetreffende jaar bij opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder a, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), LD.2: het aantal diploma's beroepsonderwijs dat landelijk is behaald in het tweede kalenderjaar voorafgaand aan het desbetreffende jaar bij opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), LD.3: het aantal diploma's beroepsonderwijs dat landelijk is behaald in het tweede kalenderjaar voorafgaand aan het desbetreffende jaar bij opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder c tot en met f, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en LMD: het landelijk deel ten behoeve van de maatstaf diploma's beroepsonderwijs, zoals dat voor het desbetreffende jaar is vastgesteld op grond van artikel 2.2.1, tweede lid, onder b.   
+1.  Onze Minister berekent het rijksbijdragedeel op grond van de maatstaf diploma's beroepsonderwijs volgens de formule: DI.1 + 2DI.2 + 4DI.3 ----------------------------------- x LMD LD.1 + 2LD.2 + 4LD.3 In deze formule wordt verstaan onder: DI.1: het aantal diploma's beroepsonderwijs dat aan die instelling is behaald in het tweede kalenderjaar voorafgaand aan het desbetreffende jaar bij opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder a, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), DI.2: het aantal diploma's beroepsonderwijs dat aan die instelling is behaald in het tweede kalenderjaar voorafgaand aan het desbetreffende jaar bij opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), DI.3: het aantal diploma's beroepsonderwijs dat aan die instelling is behaald in het tweede kalenderjaar voorafgaand aan het desbetreffende jaar bij opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder c tot en met e, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), LD.1: het aantal diploma's beroepsonderwijs dat landelijk is behaald in het tweede kalenderjaar voorafgaand aan het desbetreffende jaar bij opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder a, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), LD.2: het aantal diploma's beroepsonderwijs dat landelijk is behaald in het tweede kalenderjaar voorafgaand aan het desbetreffende jaar bij opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), LD.3: het aantal diploma's beroepsonderwijs dat landelijk is behaald in het tweede kalenderjaar voorafgaand aan het desbetreffende jaar bij opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder c tot en met e, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en LMD: het landelijk deel ten behoeve van de maatstaf diploma's beroepsonderwijs, zoals dat voor het desbetreffende jaar is vastgesteld op grond van artikel 2.2.1, tweede lid, onder b.   
 2.  Bij ministeriële regeling kan worden bepaald dat voor diploma’s van in die ministeriële regeling aangewezen opleidingen, in de kalenderjaren 2010 en 2011 verkregen door examendeelnemers, bedoeld in [artikel 2.2.2, tweede lid, onderdeel b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), in afwijking van het eerste lid een vast bedrag per diploma wordt toegekend.   
 
 ### Artikel  2.2.5  
@@ -185,7 +185,7 @@ b. niet in het bezit van:
 
 3°. een bewijs dat de eerste drie leerjaren van een school voor hoger algemeen voortgezet onderwijs of van een school voor voorbereidend wetenschappelijk onderwijs met gunstig gevolg zijn doorlopen, of  
 
-4°. een diploma beroepsonderwijs van een opleiding als bedoeld in [artikel 7.2.2, eerste lid, onder b tot en met f, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).      
+4°. een diploma beroepsonderwijs van een opleiding als bedoeld in [artikel 7.2.2, eerste lid, onder b tot en met e, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).      
 
 ### Artikel  2.2.6  
 
@@ -365,19 +365,26 @@ Tabel B Bedrag scholen voor speciaal onderwijs of voortgezet speciaal onderwijs 
 
 ### Hoofdstuk  3  
 
-####Rijksbijdrage educatie en huisvesting opleidingen VAVO
+####Educatie
 
 ### Paragraaf  1  
 
-####Algemene bepalingen
+####Opleidingen educatie, bedoeld in artikel 7.3.1, eerste lid, onder b tot en met f, van de WEB
 
-### Paragraaf  2  
+### Artikel  3.1.1  
 
-####De rijksbijdrage educatie
+####Contactuur
 
-### Paragraaf  3  
+1.  Een contactuur als bedoeld in [artikel 2.3.4, derde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) omvat een klokuur waarin educatie wordt gegeven aan een groep studenten, onder verantwoordelijkheid en met actieve betrokkenheid van onderwijspersoneel als bedoeld in de [artikelen 4.2.1](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [4.2.2 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
+2.  De groep, bedoeld in het eerste lid, omvat maximaal 
 
-####Rijksbijdrage voor huisvestingskosten vavo
+a. 12 deelnemers indien het een opleiding betreft als bedoeld in [artikel 7.3.1, eerste lid, onder b, voor zover gericht op alfabetisering, of e, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+
+b. 16 deelnemers indien het een opleiding betreft als bedoeld in [artikel 7.3.1, eerste lid, onder b, voor zover gericht op het ingangsniveau van het beroepsonderwijs, of d, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+
+c. 20 deelnemers indien het een opleiding betreft als bedoeld in [artikel 7.3.1, eerste lid, onder c, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).     
+3.  In de overeenkomst uitkering educatie, bedoeld in [artikel 2.3.4, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) kan gemotiveerd worden afgeweken van de in het tweede lid genoemde aantallen deelnemers.   
+4.  Bij ministeriële regeling kunnen nadere voorschriften worden vastgesteld voor de in het eerste lid bedoelde contacturen.   
 
 ### Hoofdstuk  4  
 
@@ -391,8 +398,8 @@ Tabel B Bedrag scholen voor speciaal onderwijs of voortgezet speciaal onderwijs 
 
 ####Reikwijdte hoofdstuk 4
 
-1.  De paragrafen 1 tot en met 3 zijn van toepassing op de kenniscentra beroepsonderwijs bedrijfsleven, bedoeld in [artikel 1.1.1, onderdeel b2, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met uitzondering van het kenniscentrum beroepsonderwijs bedrijfsleven op het gebied van de landbouw en de natuurlijke omgeving voor zover niet anders is bepaald.   
-2.  Paragraaf 4 is van toepassing op het kenniscentrum beroepsonderwijs bedrijfsleven op het gebied van de landbouw en de natuurlijke omgeving.   
+1.  De paragrafen 1 tot en met 3 zijn van toepassing op de kenniscentra beroepsonderwijs bedrijfsleven, bedoeld in [artikel 1.1.1, onderdeel b1, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met uitzondering van het kenniscentrum beroepsonderwijs bedrijfsleven op het gebied van landbouw, natuurlijke omgeving en voedsel voor zover niet anders is bepaald.   
+2.  Paragraaf 4 is van toepassing op het kenniscentrum beroepsonderwijs bedrijfsleven op het gebied van landbouw, natuurlijke omgeving en voedsel.   
 
 ### Artikel  4.1.2  
 
@@ -400,257 +407,99 @@ Tabel B Bedrag scholen voor speciaal onderwijs of voortgezet speciaal onderwijs 
 
 In dit hoofdstuk wordt verstaan onder: 
 
-a. kenniscentrum: een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.1.1, onderdeel b2, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+a. kenniscentrum: een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.1.1, onderdeel b1, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
 b. leerbedrijf: een bedrijf dat of organisatie die bevoegd is de beroepspraktijkvorming te verzorgen, op basis van een gunstige beoordeling op grond van door het kenniscentrum vastgestelde criteria als bedoeld in [artikel 7.2.10 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
-c. normatieve bpv-plaats: een in artikel 4.2.5 bedoelde normatieve bpv-plaats;  
+c. beroepsopleiding: een beroepsopleiding van een instelling als bedoeld in [artikel 1.1.1, onderdeel b1° of b2°, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
-d. opleiding: een opleiding als bedoeld in [artikel 7.2.2 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) in de beroepsopleidende of beroepsbegeleidende leerweg, dan wel in beide leerwegen;  
-
-e. exploitatiekosten: de kosten van een kenniscentrum niet zijnde de huisvestingskosten;  
-
-f. deelnemer aan de beroepsbegeleidende leerweg: degene die op 1 oktober van het jaar voorafgaand aan het jaar waarin de rijksbijdrage wordt vastgesteld, aan een instelling als bedoeld in de [artikelen 1.1.1, onderdeel b, onder 1º, 2º en 3º](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [12.3.8](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [12.3.9 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) stond ingeschreven voor een opleiding aan de beroepsbegeleidende leerweg en daadwerkelijk die opleiding volgt, voor zover deze deelnemer: 
-
-1°. uiterlijk op 31 december van eerstbedoeld jaar een overeenkomst als bedoeld in [artikel 7.2.8, tweede lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) heeft afgesloten, en  
-
-2°. een opleiding volgt als bedoeld in artikel 2.2.3, tweede lid, onder b, uiterlijk op 1 juni van het daaropvolgende kalenderjaar, dan wel in geval de deelnemer een andere opleiding volgt uiterlijk op dezelfde datum als genoemd onder 1°, daadwerkelijk de opleiding in de praktijk van het beroep, bedoeld in [artikel 7.2.8, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), volgt op de grondslag van een overeenkomst als bedoeld onder 1°;    
-
-g. voltijds deelnemer aan de beroepsopleidende leerweg: degene die op 1 oktober van het jaar voorafgaand aan het jaar waarin de rijksbijdrage wordt vastgesteld, als voltijds deelnemer als bedoeld in artikel 2.1.2, onder b, aan een instelling als bedoeld in de [artikelen 1.1.1, onderdeel b, onder 1º, 2º en 3º](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [12.3.8](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [12.3.9 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) stond ingeschreven voor een opleiding aan de beroepsopleidende leerweg en daadwerkelijk die opleiding volgt;  
-
-h. deeltijds deelnemer aan de beroepsopleidende leerweg: degene die op 1 oktober van het jaar voorafgaand aan het jaar waarop de rijksbijdrage wordt vastgesteld, als deeltijds deelnemer als bedoeld in artikel 2.1.2, onder c, aan een instelling als bedoeld in de [artikelen 1.1.1, onderdeel b, onder 1º, 2º en 3º](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [12.3.8](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [12.3.9 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) stond ingeschreven voor een opleiding aan de beroepsopleidende leerweg en daadwerkelijk die opleiding volgt.    
-
-### Artikel  4.1.3  
-
-####Componenten rijksbijdrage kenniscentra
-
-De rijksbijdrage omvat: 
-
-a. een bedrag voor exploitatiekosten, berekend volgens paragraaf 2, en  
-
-b. een bedrag voor huisvestingskosten, berekend volgens paragraaf 3.    
+d. landelijke kwalificatiestructuur: de kwalificatiestructuur, bedoeld in [artikel 7.2.4 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
 
 ### Artikel  4.1.4  
 
 ####Vaststelling omvang landelijk beschikbare budgetten kenniscentra
 
-Binnen het raam van de door de begrotingswetgever voor het desbetreffende kalenderjaar beschikbaar gestelde middelen, stelt Onze Minister jaarlijks de omvang vast van de landelijk beschikbare budgetten voor de exploitatiekosten en voor de huisvestingskosten van de kenniscentra.  
+Binnen het raam van de door de begrotingswetgever voor het desbetreffende kalenderjaar beschikbaar gestelde middelen, stelt Onze Minister jaarlijks de omvang vast van het landelijk beschikbare budget voor de exploitatiekosten en voor de huisvestingskosten van de kenniscentra.  
 
 ### Paragraaf  2  
 
-####Exploitatiekosten
+####Exploitatiekosten en huisvestingskosten
 
 ### Artikel  4.2.1  
 
-####Berekeningsmaatstaven rijksbijdrage exploitatiekosten kenniscentra
+####Verdeling landelijk beschikbaar budget voor exploitatiekosten kenniscentra
 
-Onze Minister berekent de rijksbijdrage voor de exploitatiekosten voor een kenniscentrum voor: 
+Het landelijk beschikbare budget voor de exploitatiekosten en de huisvestingskosten van de kenniscentra wordt verdeeld in: 
 
-a. de taken, bedoeld in [artikel 1.5.2, eerste, tweede en vijfde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), aan de hand van de maatstaf opleidingen,  
+a. een gedeelte van 20% voor de de taken rond de kwalificatiestructuur bedoeld in [artikel 1.5.2, eerste en tweede lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en  
 
-b. de taken, bedoeld in [artikel 1.5.2, derde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), aan de hand van de maatstaf normatieve bpv-plaatsen, en  
-
-c. de taken, bedoeld in [artikel 1.5.2, vierde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), aan de hand van de maatstaf leerbedrijven.    
+b. een gedeelte van 80% voor de taken rond de leerbedrijven en de beroepspraktijkvorming bedoeld in [artikel 1.5.2, derde en vierde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
 
 ### Artikel  4.2.2  
 
-####Verdeling landelijk beschikbaar budget voor exploitatiekosten kenniscentra
+####Berekening rijksbijdrage exploitatiekosten en huisvestingskosten kenniscentra
 
-Het landelijk beschikbare budget voor de exploitatiekosten van de kenniscentra wordt verdeeld als volgt: 
+1.  Onze Minister berekent de rijksbijdrage voor de exploitatiekosten en de huisvestingskosten voor een kenniscentrum voor een kalenderjaar door bij elkaar op te tellen: 
 
-a. 50% wordt toegerekend aan het landelijk deel ten behoeve van de stabilisatiecomponent,  
+a. het rijksbijdragedeel voor de taken rond de kwalificatiestructuur en  
 
-b. 10% wordt toegerekend aan het landelijk deel ten behoeve van de maatstaf opleidingen,  
-
-c. 30% wordt toegerekend aan het landelijk deel ten behoeve van de maatstaf normatieve bpv-plaatsen, en  
-
-d. 10% wordt toegerekend aan het landelijk deel ten behoeve van de maatstaf leerbedrijven.    
+b. het rijksbijdragedeel voor de taken rond de leerbedrijven en de beroepspraktijkvorming,   zoals deze delen voor het desbetreffende jaar voor het kenniscentrum worden berekend op grond van artikel 4.2.3 onderscheidenlijk 4.2.4.   
+2.  De uitkomst van de berekening, bedoeld in het eerste lid, wordt rekenkundig afgerond op hele euro’s.   
+3.  De op grond van het eerste lid berekende rijksbijdrage kan worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.   
 
 ### Artikel  4.2.3  
 
-####Berekening rijksbijdrage voor exploitatiekosten kenniscentra
+####Berekening rijksbijdragedeel voor de taken rond de kwalificatiestructuur
 
-1.  Onze Minister berekent voor een kenniscentrum de rijksbijdrage voor de exploitatiekosten door bij elkaar op te tellen: 
-
-a. het rijksbijdragedeel op grond van de stabilisatiecomponent, zoals berekend overeenkomstig artikel 4.2.3a,  
-
-b. het rijksbijdragedeel op grond van de maatstaf opleidingen, zoals berekend overeenkomstig artikel 4.2.4,  
-
-c. het rijksbijdragedeel op grond van de maatstaf normatieve bpv-plaatsen, zoals berekend overeenkomstig artikel 4.2.5, en  
-
-d. het rijksbijdragedeel op grond van de maatstaf leerbedrijven, zoals berekend overeenkomstig artikel 4.2.7.     
-2.  Het aandeel van de op grond van het eerste lid berekende rijksbijdrage voor de exploitatiekosten van het kenniscentrum in het desbetreffende landelijk beschikbare budget wordt uitgedrukt in een percentage van dat budget.   
-3.  De op grond van het eerste lid berekende rijksbijdrage kan worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.   
-
-### Artikel  4.2.3a  
-
-####Berekening rijksbijdragedeel exploitatiekosten kenniscentra voor de stabilisatiecomponent
-
-1.  Onze Minister berekent de rijksbijdrage voor de exploitatiekosten voor het kenniscentrum voor zover het betreft het gedeelte van het landelijk beschikbare budget dat is toegerekend aan de stabilisatiecomponent, op de wijze als bepaald in het tweede en derde lid.   
-2.  Voor elk kenniscentrum wordt het aandeel in het landelijk beschikbare budget van respectievelijk het jaar waarin de rijksbijdrage wordt vastgesteld en het daaraan voorafgaande jaar, uitgedrukt in een percentage van het landelijk beschikbare budget van genoemde jaren. Vervolgens worden voor elk kenniscentrum de percentages van de jaren, bedoeld in de eerste volzin, bij elkaar opgeteld en de uitkomst gedeeld door twee.   
-3.  Van het in het eerste lid bedoelde gedeelte van het landelijk beschikbare budget wordt het bedrag voor het kenniscentrum vastgesteld overeenkomstig het in het tweede lid bedoelde percentage.   
+1.  Onze Minister berekent het rijksbijdragedeel voor het kenniscentrum voor zover het betreft het gedeelte van het landelijk beschikbare budget voor de taken rond de kwalificatiestructuur volgens de formule:   ![250914](http://wetten.overheid.nl/Illustration/250914)
+waarbij wordt verstaan onder: KDo: het gemiddelde aantal kwalificatiedossiers dat op voorstel van het kenniscentrum is vastgesteld en in de vijf jaren, voorafgaand aan het bekostigingsjaar, deel uitmaakte van de landelijke kwalificatiestructuur, LDo: het gemiddelde aantal kwalificatiedossiers dat in de vijf jaren, voorafgaand aan het bekostigingsjaar, deel uitmaakte van de landelijke kwalificatiestructuur, KKw: het gemiddelde aantal kwalificaties dat op voorstel van het kenniscentrum is vastgesteld en in de vijf jaren, voorafgaand aan het bekostigingsjaar, deel uitmaakte van de landelijke kwalificatiestructuur, LKw: het gemiddelde aantal kwalificaties dat in de vijf jaren, voorafgaand aan het bekostigingsjaar, deel uitmaakte van de kwalificatiestructuur en LBa: het deel van het landelijk beschikbare budget, bedoeld in artikel 4.2.1, onder a.   
+2.  Indien een kwalificatiedossier op voorstel van 2 of meer kenniscentra is vastgesteld, tellen het kwalificatiedossier en de daarin opgenomen kwalificaties bij de berekening, bedoeld in het eerste lid voor elk kenniscentrum mee volgens de verdeelsleutel: één gedeeld door het aantal kenniscentra op voorstel waarvan het kwalificatiedossier is vastgesteld.   
 
 ### Artikel  4.2.4  
 
-####Berekening rijksbijdragedeel exploitatiekosten kenniscentra volgens maatstaf opleidingen
+####Berekening rijksbijdragedeel voor de taken rond de leerbedrijven en de beroepspraktijkvorming
 
-1.  Onze Minister berekent de rijksbijdrage voor de exploitatiekosten voor het kenniscentrum voor zover het betreft het gedeelte van het landelijk beschikbare budget dat is toegerekend aan de maatstaf opleidingen, door: 
+1.  Onze Minister berekent het rijksbijdragedeel voor het kenniscentrum voor zover het betreft het gedeelte van het landelijk beschikbare budget voor de taken rond de leerbedrijven en de beroepspraktijkvorming volgens de formule:   ![250916](http://wetten.overheid.nl/Illustration/250916)
+waarbij wordt verstaan onder: KA: het aantal actieve door het kenniscentrum erkende leerbedrijven, waar één of meer deelnemers de beroepspraktijkvorming volgen in het tweede jaar voorafgaand aan het bekostigingsjaar, LA: het aantal actieve erkende leerbedrijven van alle kenniscentra tezamen, waar één of meer deelnemers de beroepspraktijkvorming volgen in het tweede jaar voorafgaand aan het bekostigingsjaar, KE: het aantal door het kenniscentrum erkende leerbedrijven op 1 oktober van het tweede jaar voorafgaand aan het bekostigingsjaar, LE: het aantal erkende leerbedrijven van alle kenniscentra tezamen op 1 oktober van het tweede jaar voorafgaand aan het bekostigingsjaar, KDe: het aantal deelnemers dat op 1 oktober van het tweede jaar voorafgaand aan het bekostigingsjaar is ingeschreven voor een beroepsopleiding, gericht op een kwalificatie die op voorstel van het kenniscentrum is vastgesteld, LDe: het landelijk aantal deelnemers dat op 1 oktober van het tweede jaar voorafgaand aan het bekostigingsjaar is ingeschreven voor een beroepsopleiding, LBb: het deel van het landelijk beschikbare budget, bedoeld in artikel 4.2.1, onder b.   
+2.  Indien het aantal door het kenniscentrum erkende leerbedrijven op 1 oktober van het tweede jaar voorafgaand aan het bekostigingsjaar groter is dan 125% van KA, bedoeld in het eerste lid, dan wordt KE, bedoeld in het eerste lid, gelijkgesteld aan 125% van KA.   
+3.  Bij de berekening van KDe en LDe, bedoeld in het eerste lid, 
 
-a. voor elke opleiding waarvoor het kenniscentrum de eindtermen heeft voorgesteld, en voor zover deze eindtermen op 1 augustus 2001 zijn vermeld in het Centraal register, het aantal studiebelastingsuren dat is vastgesteld als onderdeel van de eindtermen voor die opleiding te delen door 1600, dit aantal af te ronden op een half naar boven, en het totaal te vermenigvuldigen met  
+a. tellen alleen deelnemers mee die meetellen voor de berekening van de rijksbijdrage van de instellingen voor het desbetreffende bekostigingsjaar,  
 
-b. het aantal in het Centraal register opgenomen deelkwalificaties van de onder a bedoelde opleidingen, met dien verstande dat een deelkwalificatie slechts eenmaal meetelt, en de uitkomst te delen door  
+b. tellen deelnemers aan de beroepsopleidende leerweg van een beroepsopleiding mee met een factor 0,4 en deelnemers aan de beroepsbegeleidende leerweg van een beroepsopleiding met een factor 1,  
 
-c. het totaal van de in het Centraal register opgenomen deelkwalificaties van de onder a bedoelde opleidingen, zonder de beperking in onderdeel b.     
-2.  De berekening volgens het eerste lid leidt tot een aantal punten voor het kenniscentrum, rekenkundig afgerond op een half. Op het aantal punten, bedoeld in de eerste volzin, wordt vervolgens een correctie voor schaalvoordelen toegepast door dat aantal te vermenigvuldigen met een factor, zoals aangegeven in de navolgende tabel:  
+c. tellen deelnemers die zijn ingeschreven voor een kwalificatiedossier dat op voorstel van 2 of meer kenniscentra is vastgesteld, bij alle betrokken kenniscentra mee volgens de uitkomst van de breuk   ![250916](http://wetten.overheid.nl/Illustration/250916)
+met dien verstande dat deelnemers aan een assistentopleiding die is gericht op entree op de arbeidsmarkt in de berekening buiten beschouwing worden gelaten;  
 
-| aantal punten  | factor  |
-|:---|:---|
-| 0,5 t/m 50  | 1  |
-| 51 t/m 60  | 0,95  |
-| 61 t/m 70  | 0,90  |
-| 71 t/m 80  | 0,85  |
-| 81 t/m 90  | 0,80  |
-| 91 t/m 100  | 0,75  |
-| 101 t/m 110  | 0,70  |
-| 111 en hoger  | 0,65  |
-
-3.  Elk kenniscentrum heeft aanspraak op het gedeelte van het landelijk beschikbare budget, bedoeld in het eerste lid, naar rato van het aantal punten van elk kenniscentrum nadat daarop de correctie, bedoeld in het tweede lid, is toegepast.   
+d. tellen deelnemers die zijn ingeschreven voor een opleidingsdomein als bedoeld in [artikel 1.1.1, onderdeel t2, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) mee bij de kenniscentra waarvan een of meer kwalificaties zijn opgenomen in het desbetreffende opleidingsdomein, naar rato van de verdeling van de deelnemers die zijn ingeschreven voor een kwalificatie of een kwalificatiedossier binnen dat opleidingsdomein over de desbetreffende kenniscentra.     
 
 ### Artikel  4.2.5  
 
-####Berekening rijksbijdragedeel exploitatiekosten kenniscentra volgens maatstaf normatieve bpv-plaatsen
+####Opgave aantal leerbedrijven
 
-1.  Onze Minister berekent de rijksbijdrage voor de exploitatiekosten voor het kenniscentrum voor zover het betreft het gedeelte van het landelijk beschikbare budget dat is toegerekend aan de maatstaf normatieve bpv-plaatsen, op de wijze als bepaald in het tweede tot en met vijfde lid.   
-2.  Het aantal normatieve bpv-plaatsen voor elk kenniscentrum wordt bepaald door het aantal deelnemers bij opleidingen die behoren bij het desbetreffende kenniscentrum voorzover die opleidingen zijn vermeld in het Centraal register, bij elkaar op te tellen zoals hierna vermeld: 
-
-a. 100% van het aantal deelnemers aan de beroepsbegeleidende leerweg op 1 oktober van het jaar voorafgaand aan het jaar waarin de rijksbijdrage wordt vastgesteld,  
-
-b. 35% van het aantal voltijds deelnemers aan de beroepsopleidende leerweg op 1 oktober van het jaar voorafgaand aan het jaar waarin de rijksbijdrage wordt vastgesteld, en  
-
-c. 10% van het aantal deeltijds deelnemers aan de beroepsopleidende leerweg op 1 oktober van het jaar voorafgaand aan het jaar waarin de rijksbijdrage wordt vastgesteld.     
-3.  De optelling volgens het tweede lid leidt tot een aantal normatieve bpv-plaatsen voor een kenniscentrum, dat rekenkundig wordt afgerond op een geheel getal. Op het aantal normatieve bpv-plaatsen, bedoeld in het tweede lid, wordt een correctie voor schaalvoordelen toegepast door dat aantal te vermenigvuldigen met een factor, zoals aangegeven in de navolgende tabel:  
-
-| Aantal normatieve bpv-plaatsen  | Factor  |
-|---|---|
-| 1 t/m 10.000  | 1  |
-| 10.001 t/m 15.000  | 0,985  |
-| 15.001 t/m 20.000  | 0,970  |
-| 20.001 t/m 25.000  | 0,955  |
-| 25.001 t/m 30.000  | 0,940  |
-| 30.001 t/m 35.000  | 0,925  |
-| 35.001 t/m 40.000  | 0,910  |
-| 40.001 t/m 45.000  | 0,895  |
-| 45.001 t/m 50.000  | 0,880  |
-| 50.001 en hoger  | 0,865  |
-
-4.  De berekening volgens het derde lid leidt tot een aantal normatieve bpv-plaatsen voor het kenniscentrum, rekenkundig af te ronden op een geheel getal.   
-5.  Van het in het eerste lid bedoelde gedeelte van het landelijk beschikbare budget wordt het bedrag voor het kenniscentrum vastgesteld naar rato van het aantal normatieve bpv-plaatsen van elk kenniscentrum nadat daarop de correctie en de afronding, bedoeld in het derde respectievelijk vierde lid, heeft plaatsgevonden.   
+1.  Elk kenniscentrum verstrekt jaarlijks voor 1 juli aan Onze Minister een opgave van het aantal door dat kenniscentrum erkende leerbedrijven op peildatum 1 oktober van het voorafgaande jaar.   
+2.  De in het eerste lid bedoelde opgave gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door het bevoegd gezag aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
 
 ### Artikel  4.2.6  
 
-####Opgave aantal leerbedrijven
+####Aangepaste berekening bij fusie en splitsing kenniscentra
 
-1.  Elk kenniscentrum verstrekt jaarlijks voor 15 november aan Onze Minister een opgave van het aantal door dat kenniscentrum erkende leerbedrijven op peildatum 1 oktober van dat jaar.   
-2.  De verklaring omtrent de getrouwheid, bedoeld in [artikel 2.5.3, vierde lid](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), juncto [artikel 2.5.10, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) heeft mede betrekking op de opgave, bedoeld in het eerste lid.   
-
-### Artikel  4.2.7  
-
-####Berekening rijksbijdragedeel exploitatiekosten kenniscentra volgens maatstaf leerbedrijven
-
-1.  Onze Minister berekent de rijksbijdrage voor de exploitatiekosten voor het kenniscentrum voor zover het betreft het gedeelte van het landelijk beschikbare budget dat is toegerekend aan de maatstaf leerbedrijven, op de wijze als bepaald in het tweede tot en met vijfde lid.   
-2.  Voor elk kenniscentrum wordt het aantal leerbedrijven vastgesteld op 1 oktober van het jaar voorafgaand aan het jaar waarin de rijksbijdrage wordt vastgesteld.   
-3.  Op het aantal leerbedrijven voor elk kenniscentrum, bedoeld in het tweede lid, wordt een correctie voor schaalvoordelen toegepast door dat aantal te vermenigvuldigen met een factor, zoals aangegeven in de navolgende tabel:  
-
-| Aantal leerbedrijven  | Factor  |
-|---|---|
-| 1 t/m 7.500  | 1  |
-| 7.501 t/m 10.000  | 0,965  |
-| 10.001 t/m 12.500  | 0,930  |
-| 12.501 t/m 15.000  | 0,895  |
-| 15.001 t/m 17.500  | 0,860  |
-| 17.501 t/m 20.000  | 0,825  |
-| 20.001 t/m 22.500  | 0,790  |
-| 22.501 t/m 25.000  | 0,755  |
-| 25.001 t/m 27.500  | 0,720  |
-| 27.501 t/m 30.000  | 0,685  |
-| 30.001 en hoger  | 0,650  |
-
-4.  De berekening volgens het tweede en derde lid leidt tot een aantal leerbedrijven voor het kenniscentrum, rekenkundig af te ronden op een geheel getal.   
-5.  Van het in het eerste lid bedoelde gedeelte van het landelijk beschikbare budget wordt het bedrag voor het kenniscentrum vastgesteld naar rato van het aantal leerbedrijven van elk kenniscentrum nadat daarop de correctie en de afronding, bedoeld in het derde respectievelijk vierde lid, heeft plaatsgevonden.   
-
-### Artikel  4.2.8  
-
-####Voorwaarde meetellen leerbedrijven in berekeningsmaatstaf rijksbijdrage
-
-Bij de berekening, bedoeld in artikel 4.2.7, betrekt Onze Minister uitsluitend de leerbedrijven die zijn aangeduid met de code leerbedrijf, bedoeld in bijlage 3 bij dit besluit.  
+1.  In geval van fusie van kenniscentra betrekt Onze Minister bij de toepassing van paragraaf 4 de gegevens van de kenniscentra die in het gefuseerde kenniscentrum zijn opgegaan en berekent hij de bijdrage voor het gefuseerde kenniscentrum op basis van die gegevens.   
+2.  In geval van splitsing van kenniscentra gaat Onze Minister bij de toepassing van paragraaf 4 uit van de voorstellen omtrent de toerekening van de gegevens aan elk van de kenniscentra die daarvoor door de betrokken bevoegde gezagsorganen zijn gedaan, blijkend uit een door die bevoegde gezagsorganen aan Onze Minister overgelegde en ondertekende verklaring dienaangaande.   
 
 ### Paragraaf  3  
 
 ####Huisvesting
 
-### Artikel  4.3.1  
-
-####Berekening rijksbijdrage huisvestingskosten kenniscentra
-
-1.  Onze Minister stelt het bedrag voor huisvestingskosten voor elk kenniscentrum vast overeenkomstig het percentage dat op grond van artikel 4.2.3, tweede lid, voor dat kenniscentrum is vastgesteld, met dien verstande dat aanpassingen als bedoeld in het derde lid van dat artikel daarbij buiten beschouwing blijven.   
-2.  De op grond van het eerste lid berekende rijksbijdrage kan worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.   
-
 ### Paragraaf  4  
 
-####Exploitatie en huisvesting kenniscentrum op gebied van landbouw en natuurlijke omgeving
+####Exploitatiekosten en huisvestingskosten kenniscentrum op het gebied van landbouw, natuurlijke omgeving en voedsel
 
 ### Artikel  4.4.1  
 
-####Componenten rijksbijdrage kenniscentrum op gebied van landbouw en natuurlijke omgeving
+####Vaststelling rijksbijdrage kenniscentrum op het gebied van landbouw, natuurlijke omgeving en voedsel
 
-De rijksbijdrage omvat: 
-
-a. een bedrag voor exploitatiekosten, berekend volgens deze paragraaf, en  
-
-b. een bedrag voor huisvestingskosten, berekend volgens deze paragraaf.    
-
-### Artikel  4.4.2  
-
-####Vaststelling omvang landelijk beschikbaar budget voor kenniscentrum op gebied van landbouw en natuurlijke omgeving
-
-Binnen het raam van de door de begrotingswetgever voor het desbetreffende begrotingsjaar beschikbaar gestelde middelen, stelt Onze Minister jaarlijks het landelijk beschikbare budget vast voor de exploitatiekosten en voor de huisvestingskosten van het kenniscentrum op het gebied van de landbouw en de natuurlijke omgeving.  
-
-### Artikel  4.4.3  
-
-####Berekeningsmaatstaven rijksbijdrage kenniscentrum op gebied van landbouw en natuurlijke omgeving
-
-Onze Minister berekent de rijksbijdrage afzonderlijk voor: 
-
-a. de taken, bedoeld in [artikel 1.5.2, eerste, tweede en vijfde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
-
-b. de taken, bedoeld in [artikel 1.5.2, derde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en  
-
-c. de taken, bedoeld in [artikel 1.5.2, vierde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
-
-### Artikel  4.4.4  
-
-####Verdeling landelijk beschikbare budget exploitatiekosten kenniscentrum op gebied van landbouw en natuurlijke omgeving
-
-Van het landelijk beschikbare budget voor de exploitatiekosten van het kenniscentrum wordt: 
-
-a. 20% toegerekend aan de taken, bedoeld in artikel 4.4.3, onder a, met dien verstande dat 10% van het desbetreffende deel van het landelijk beschikbare budget betrekking heeft op strategische expertise-ontwikkeling,  
-
-b. 60% toegerekend aan de taken, bedoeld in artikel 4.4.3, onder b, en  
-
-c. 20% toegerekend aan de taken, bedoeld in artikel 4.4.3, onder c.    
-
-### Artikel  4.4.5  
-
-####Vaststelling hoogte rijksbijdrage exploitatiekosten kenniscentrum op gebied van landbouw en natuurlijke omgeving
-
-1.  Onze Minister berekent de totale rijksbijdrage voor de exploitatiekosten van het kenniscentrum door de middelen bij elkaar op te tellen die voor het kenniscentrum zijn berekend op grond van de artikelen 4.4.3 en 4.4.4.   
-2.  De op grond van het eerste lid vastgestelde rijksbijdrage kan worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.   
-
-### Artikel  4.4.6  
-
-####Rijksbijdrage huisvestingskosten kenniscentrum op gebied van landbouw en natuurlijke omgeving
-
-1.  Onze Minister stelt het bedrag voor huisvestingskosten voor het kenniscentrum vast.   
+1.  Binnen het raam van de door de begrotingswetgever voor het desbetreffende begrotingsjaar beschikbaar gestelde middelen, stelt Onze Minister jaarlijks de omvang van de rijksbijdrage vast voor de exploitatiekosten en de huisvestingskosten van het kenniscentrum op het gebied van landbouw, natuurlijke omgeving en voedsel, met inachtneming van het uitgangspunt dat 20% van de bijdrage noodzakelijk is voor de taken rond de kwalificatiestructuur bedoeld in [artikel 1.5.2, eerste en tweede lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en 80% voor de taken rond de leerbedrijven en de beroepspraktijkvorming bedoeld in artikel 1.5.2, derde en vierde lid, van de wet.   
 2.  De op grond van het eerste lid vastgestelde rijksbijdrage kan worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.   
 
 ### Paragraaf  5  
@@ -751,7 +600,7 @@ De bepalingen van dit hoofdstuk hebben betrekking op:
 
 a. instellingen als bedoeld in [artikel 1.1.1, onderdeel b, onder 1° tot en met 3°, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
 
-b. kenniscentra beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.1.1, onderdeel b1, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met uitzondering van het kenniscentrum beroepsonderwijs bedrijfsleven op het gebied van landbouw, natuurlijke omgeving en voedsel, en  
+b. kenniscentra beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.1.1, onderdeel b1, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en  
 
 c. instellingen als bedoeld in [artikel 2.3.4 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
 
@@ -842,13 +691,6 @@ Het personeel en het gewezen personeel van instellingen en kenniscentra zijn in 
 
 Indien een instelling of een kenniscentrum de taken beëindigt en een rechtsopvolger ontbreekt, waaronder tevens is begrepen het geval van een onherroepelijk vonnis tot faillietverklaring van de desbetreffende instelling of het desbetreffende kenniscentrum, voorzien de bevoegde gezagsorganen van de overige instellingen onderscheidenlijk de besturen van de overige kenniscentra er gezamenlijk in dat aan de verplichtingen jegens het personeel en het gewezen personeel die uit de wet- en regelgeving voortvloeien, wordt voldaan. De toepassing van de eerste volzin geschiedt met inachtneming van het bepaalde over vermindering van de rijksbijdrage in verband met de kosten van uitkeringen voor gewezen personeel van een instelling die of een kenniscentrum dat de taken beëindigt in de ministeriële regeling op grond van [artikel 12.3.48 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) onderscheidenlijk artikel 4.5.2.  
 
-### Artikel  5a.4  
-
-####Maximum-salaris voorzitter college van bestuur en centrale directie
-
-1.  Voor de uitkomsten van het functiewaarderingssysteem van een instelling als bedoeld in de [artikelen 1.1.1, onderdeel b](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [12.3.8 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of van een kenniscentrum geldt voor de functie van voorzitter van het college van bestuur en de centrale directie dat daaraan ten hoogste een salarisschaal is verbonden waarvan het hoogste bedrag overeenkomt met het maximum salarisbedrag van schaal 18 van [bijlage 1A van het Kaderbesluit rechtspositie BVE](../../../../KB/kaderbesluit/rechtspositie/bve/BWBR0008190/README.md), zoals dat luidde op 30 juni 2003.   
-2.  Het in het eerste lid bedoelde maximum kan worden bijgesteld aan de hand van de algemene salarisontwikkeling die voor het personeel van instellingen onderscheidenlijk kenniscentra wordt overeengekomen.   
-
 ### Hoofdstuk  6  
 
 ####Overgangs- en invoeringsbepalingen
@@ -930,30 +772,27 @@ Voor de toepassing van artikel 4b.2.3, eerste lid, in het studiejaar 2007–2008
 
 ### Artikel  6.3.1  
 
-####Tijdelijke vervangende gegevens t.b.v. invoering bekostiging kenniscentra beroepsonderwijs bedrijfsleven
+####Tijdelijke afwijking berekening rijksbijdragedeel voor de taken rond de leerbedrijven en de beroepspraktijkvorming
 
-1.  Bij ministeriële regeling wordt voorgeschreven, welke gegevens Onze Minister in afwijking van de artikelen 4.2.4 tot en met 4.2.8 hanteert voor zover nog niet kan worden beschikt over de in die artikelen voorgeschreven gegevens. De vervangende gegevens komen zoveel mogelijk overeen met de voorgeschreven gegevens.   
-2.  Tot het tijdstip van inwerkingtreding van bijlage 3 bij dit besluit wordt in artikel 4.2.8, eerste lid, onder a, in plaats van « bijlage 3 bij dit besluit » gelezen: bijlage 3 van de Regeling Informatievoorziening BVE.   
+1.  Tot een bij koninklijk besluit te bepalen tijdstip wordt het rijksbijdragedeel voor het kenniscentrum voor zover het betreft het gedeelte van het landelijk beschikbare budget voor de taken rond de leerbedrijven en de beroepspraktijkvorming in afwijking van artikel 4.2.4 berekend volgens de formule:   ![250917](http://wetten.overheid.nl/Illustration/250917)
+waarbij wordt verstaan onder: KE: het aantal door het kenniscentrum erkende leerbedrijven op 1 oktober van het tweede jaar voorafgaand aan het bekostigingsjaar, LE: het aantal erkende leerbedrijven van alle kenniscentra tezamen op 1 oktober van het tweede jaar voorafgaand aan het bekostigingsjaar, KDe: het aantal deelnemers dat op 1 oktober van het tweede jaar voorafgaand aan het bekostigingsjaar is ingeschreven voor een beroepsopleiding, gericht op een kwalificatie die op voorstel van het kenniscentrum is vastgesteld, LDe: het aantal deelnemers dat op 1 oktober van het tweede jaar voorafgaand aan het bekostigingsjaar is ingeschreven voor een beroepsopleiding, LBb: het deel van het landelijk beschikbare budget, bedoeld in artikel 4.2.1, onder b.   
+2.  Artikel 4.2.4, derde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  6.3.2  
 
-####Tijdelijke afwijking berekening exploitatiekosten
+####Overgangsbepaling 2013–2016 in verband met aanpassing bekostiging kenniscentra
 
-1.  Tot een bij koninklijk besluit te bepalen datum zijn de artikelen 4.2.1 tot en met 4.2.5, 4.2.7 en 4.2.8 niet van toepassing.   
-2.  Onze Minister berekent de rijksbijdrage voor de exploitatiekosten voor het kenniscentrum tot de in het eerste lid bedoelde datum op de in het derde lid bepaalde wijze. De uitkomst van de berekening wordt rekenkundig afgerond op twee decimalen.   
-3.  Voor elk kenniscentrum wordt het aandeel in het landelijk beschikbare budget voor de exploitatiekosten van respectievelijk het jaar 2005 en het jaar 2006, uitgedrukt in een percentage van dat landelijk beschikbare budget van genoemde jaren. Vervolgens worden voor elk kenniscentrum de percentages van de jaren, bedoeld in de eerste volzin, bij elkaar opgeteld en de uitkomst gedeeld door twee. De uitkomst van de berekening, bedoeld in de vorige volzin, is bepalend voor het vaststellen van het gedeelte van het landelijk beschikbare budget waarop elk kenniscentrum voor de rijksbijdrage aanspraak maakt.   
+1.  Voor de bekostigingsjaren 2013 tot en met 2016 wordt in afwijking van artikel 4.2.3 in de formule   ![250918](http://wetten.overheid.nl/Illustration/250918)
+uitgegaan van de gemiddelde aantallen kwalificatiedossiers en kwalificaties in de jaren voorafgaand aan het bekostigingsjaar, gerekend vanaf 2012.   
+2.  De rijksbijdrage voor een kenniscentrum voor de kalenderjaren 2013 tot en met 2016 wordt voor een deel berekend op grond van de artikelen 4.2.2, 4.2.3 en 4.2.4 juncto 6.3.1 en het eerste lid, en voor een deel op grond van de artikelen 6.3.2 en 6.3.3 zoals die artikelen luidden op 31 december 2012. De delen bedragen voor het kalenderjaar 
 
-### Artikel  6.3.3  
+a. 2013 20% onderscheidenlijk 80%,  
 
-####Tijdelijke afwijking vaststelling bedrag huisvestingskosten
+b. 2014 40% onderscheidenlijk 60%,  
 
-Onze Minister stelt tot de datum, bedoeld artikel 6.3.2, eerste lid, het bedrag voor huisvestingskosten, bedoeld in artikel 4.3.1, eerste lid, voor elk kenniscentrum vast op basis van het percentage dat op grond van artikel 6.3.2, derde lid, voor dat kenniscentrum is vastgesteld. De uitkomst van de berekening wordt rekenkundig afgerond op twee decimalen.  
+c. 2015 60% onderscheidenlijk 40% en  
 
-### Artikel  6.3.7  
-
-####Evaluatie hoofdstuk 4
-
-Onze Minister evalueert de werking van hoofdstuk 4 na afloop van een periode van 5 jaren na het tijdstip van inwerkingtreding van dat hoofdstuk.  
+d. 2016 80% onderscheidenlijk 20%.     
 
 ### Paragraaf  4  
 

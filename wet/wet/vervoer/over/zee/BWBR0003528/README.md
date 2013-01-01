@@ -270,21 +270,13 @@ Het is verboden terzake van een aanvraag voor een ontheffing onjuiste of onvolle
 
 ### Hoofdstuk  XI  
 
-####Beroep
-
-### Artikel  33  
-
-Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.  
-
-### Hoofdstuk  XII  
-
 ####Strafbepalingen
 
 ### Artikel  36  
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Hoofdstuk  XIII  
+### Hoofdstuk  XII  
 
 ####Slotbepalingen
 

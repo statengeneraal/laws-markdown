@@ -64,7 +64,7 @@ r. ondernemer: natuurlijke persoon of rechtspersoon die, of samenwerkingsverband
 
 s. intermediair: ondernemer die een intermediaire onderneming voert;  
 
-t. diervoeders: diervoeders als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Kaderwet diervoeders](../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md);  
+t. diervoeders: diervoeders als bedoeld in [artikel 1.1 van de Wet dieren](../../../../wet/wet/dieren/BWBR0030250/README.md);  
 
 u. vervoeren van meststoffen: elk feitelijk transporteren van meststoffen, het laden en lossen van deze meststoffen inbegrepen, met uitzondering van het feitelijk transporteren binnen een bedrijf;  
 
@@ -333,7 +333,7 @@ Voor de toepassing van [artikel 9 van de wet](../../../../wet/meststoffenwet/BWB
 
 ### Artikel  25  
 
-Voor de toepassing van de [artikelen 9](../../../../wet/meststoffenwet/BWBR0004054/README.md), [10, eerste lid](../../../../wet/meststoffenwet/BWBR0004054/README.md), [11, eerste en tweede lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), artikel 21a van dit besluit en de krachtens artikel 11, vijfde lid, van de wet vastgestelde ministeriële regeling wordt de teeltvrije zone, bedoeld in de [artikelen 13](../../../../AMvB/lozingenbesluit/open/teelt/en/veehouderij/BWBR0011133/README.md), [14](../../../../AMvB/lozingenbesluit/open/teelt/en/veehouderij/BWBR0011133/README.md) en [16 van het Lozingenbesluit open teelt en veehouderij](../../../../AMvB/lozingenbesluit/open/teelt/en/veehouderij/BWBR0011133/README.md), niet aangemerkt als tot het bedrijf behorende oppervlakte landbouwgrond.  
+Voor de toepassing van de [artikelen 9](../../../../wet/meststoffenwet/BWBR0004054/README.md), [10, eerste lid](../../../../wet/meststoffenwet/BWBR0004054/README.md), [11, eerste en tweede lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), artikel 21a van dit besluit en de krachtens artikel 11, vijfde lid, van de wet vastgestelde ministeriële regeling wordt de teeltvrije zone, bedoeld in de [artikelen 3.80](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [3.81](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [3.85 van het Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), niet aangemerkt als tot het bedrijf behorende oppervlakte landbouwgrond.  
 
 ### Artikel  26  
 
@@ -600,7 +600,7 @@ d. in voorkomend geval de aard en samenstelling van het samenwerkingsverband van
 
 e. de wijzigingen in de gegevens, bedoeld in de onderdelen a tot en met d.     
 4.  Voor zover de in het derde lid bedoelde gegevens zijn verstrekt op grond van de [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md) en niet zijn gewijzigd, behoeven deze niet opnieuw te worden verstrekt. De registratie van deze gegevens geldt als registratie in de zin van het eerste en tweede lid.   
-5.  Voor zover de in het derde lid bedoelde gegevens worden verstrekt op grond van de krachtens [artikel 11 van de Kaderwet diervoeders](../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md) gestelde regels of de krachtens de [artikelen 27](../../../../wet/landbouwwet/BWBR0002252/README.md) en [28 van de Landbouwwet](../../../../wet/landbouwwet/BWBR0002252/README.md) gestelde regels, behoeven deze niet nogmaals te worden verstrekt. De registratie van deze gegevens geldt als registratie in de zin van het eerste en tweede lid.   
+5.  Voor zover de in het derde lid bedoelde gegevens worden verstrekt op grond van de krachtens [artikel 6.4 van de Wet dieren](../../../../wet/wet/dieren/BWBR0030250/README.md) met betrekking tot diervoeders gestelde regels of de krachtens de [artikelen 27](../../../../wet/landbouwwet/BWBR0002252/README.md) en [28 van de Landbouwwet](../../../../wet/landbouwwet/BWBR0002252/README.md) gestelde regels, behoeven deze niet nogmaals te worden verstrekt. De registratie van deze gegevens geldt als registratie in de zin van het eerste en tweede lid.   
 
 ### Artikel  44  
 

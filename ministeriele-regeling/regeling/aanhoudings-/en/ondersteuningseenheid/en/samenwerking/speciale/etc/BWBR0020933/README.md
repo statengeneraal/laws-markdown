@@ -10,17 +10,17 @@ Besluiten:
 
 In deze regeling wordt verstaan onder: 
 
-a. aanhoudings- en ondersteuningseenheid: eenheid als bedoeld in [artikel 8, eerste lid, van het Besluit beheer regionale politiekorpsen](../../../../../../../../../../AMvB/besluit/beheer/regionale/politiekorpsen/BWBR0006560/README.md);  
+a. aanhoudings- en ondersteuningseenheid: onderdeel als bedoeld in artikel 18 van de Regeling beheer politie;  
 
 b. aanhoudings- en ondersteuningseenheid van de Koninklijke marechaussee: aanhoudings- en ondersteuningseenheid die is ondergebracht bij de Brigade Speciale Beveiligingsopdrachten van de Koninklijke marechaussee;  
 
-c. de Dienst Speciale Interventies: de dienst, bedoeld in [artikel 2 van de Regeling Bijzondere Bijstandseenheden](../../../../../../../../../../ministeriele-regeling/regeling/bijzondere/bijstandseenheden/BWBR0011952/README.md);  
+c. de Dienst Speciale Interventies: de dienst, bedoeld in [artikel 2 van de Regeling Dienst speciale interventies](../../../../../../../../../../ministeriele-regeling/regeling/dienst/speciale/interventies/BWBR0026381/README.md);  
 
-d. centrumkorps: regionale politiekorps, waar een aanhoudings- en ondersteuningseenheid beheersmatig is ondergebracht.    
+d. regionale eenheid: de regionale eenheid waar een aanhoudings- en ondersteuningseenheid organisatorisch is ondergebracht.    
 
 ### Artikel  2  
 
-Er is binnen een samenwerkingsgebied van regionale politiekorpsen, genoemd in de bijlage bij deze regeling, een aanhoudings- en ondersteuningseenheid, die als herkenbare organisatorische en bedrijfsmatige eenheid deel uit maakt van het centrumkorps.  
+Er is binnen een samenwerkingsgebied van regionale eenheden, genoemd in de bijlage bij deze regeling, een aanhoudings- en ondersteuningseenheid, die als herkenbare organisatorische en bedrijfsmatige eenheid deel uit maakt van de regionale eenheid.  
 
 ### Artikel  3  
 
@@ -29,32 +29,16 @@ Er is binnen een samenwerkingsgebied van regionale politiekorpsen, genoemd in de
 
 ### Artikel  4  
 
-De korpsbeheerder van het centrumkorps stelt de termijn vast gedurende welke een ambtenaar van politie ononderbroken deel uit maakt van een aanhoudings- en ondersteuningseenheid, tot een maximum van 6 jaar.  
+De korpschef stelt de termijn vast gedurende welke een ambtenaar van politie ononderbroken deel uit maakt van een aanhoudings- en ondersteuningseenheid, tot een maximum van 6 jaar.  
 
 ### Artikel  5  
 
-1.  De ambtenaar van politie die deel uitmaakt van een aanhoudings- en ondersteuningseenheid, voldoet aan de eindtermen van de door de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie aan te wijzen vervolgopleiding.   
-2.  De korpsbeheerder van het centrumkorps draagt er zorg voor dat de kennis en vaardigheden van de ambtenaar van politie die deel uitmaakt van een aanhoudings- en ondersteuningseenheid worden onderhouden op minimaal het niveau van de eindtermen, bedoeld in het eerste lid.   
-
-### Artikel  6  
-
-1.  De Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt jaarlijks het budget ten behoeve van een aanhoudings- en ondersteuningseenheid vast.   
-2.  Het budget, bedoeld in het eerste lid, wordt krachtens [artikel 3, eerste lid, van het Besluit financiën regionale politiekorpsen](../../../../../../../../../../AMvB/besluit/financiën/regionale/politiekorpsen/BWBR0006562/README.md) beschikbaar gesteld aan de centrumkorpsen.   
-3.  De korpsbeheerder van een centrumkorps alsmede het regionale college van de desbetreffende regio, maken bij het opstellen van de stukken, bedoeld in [artikel 28 van de Politiewet 1993](../../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), onderscheidenlijk bij het vaststellen van de stukken, bedoeld in [artikel 31 van de Politiewet 1993](../../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), een onderscheid tussen de aanhoudings- en ondersteuningseenheid en de overige onderdelen van het desbetreffende centrumkorps.   
-
-### Artikel  7  
-
-De korpsbeheerders van de centrumkorpsen maken afspraken over beheersmatige samenwerking tussen de aanhoudings- en ondersteuningseenheden. De afspraken hebben in ieder geval betrekking op: 
-
-a. de gezamenlijke aanschaf van middelen;  
-
-b. het gezamenlijk ontwikkelen van operationele procedures;  
-
-c. het leveren van onderlinge assistentie.    
+1.  De ambtenaar van politie die deel uitmaakt van een aanhoudings- en ondersteuningseenheid, voldoet aan de eindtermen van de door de Minister van Veiligheid en Justitie aan te wijzen vervolgopleiding.   
+2.  De korpschef draagt er zorg voor dat de kennis en vaardigheden van de ambtenaar van politie die deel uitmaakt van een aanhoudings- en ondersteuningseenheid worden onderhouden op minimaal het niveau van de eindtermen, bedoeld in het eerste lid.   
 
 ### Artikel  8  
 
-De korpsbeheerders van de centrumkorpsen en de Minister van Defensie maken afspraken over beheersmatige samenwerking tussen de aanhoudings- en ondersteuningseenheden en de aanhoudings- en ondersteuningseenheid van de Koninklijke marechaussee. De afspraken hebben in ieder geval betrekking op: 
+De korpschef en de Minister van Defensie maken afspraken over beheersmatige samenwerking tussen de aanhoudings- en ondersteuningseenheden en de aanhoudings- en ondersteuningseenheid van de Koninklijke marechaussee. De afspraken hebben in ieder geval betrekking op: 
 
 a. de afstemming van uitrusting en opleidingen;  
 
@@ -62,7 +46,7 @@ b. het op een gelijk niveau brengen van de frequentie van inzet van een eenheid.
 
 ### Artikel  9  
 
-De korpsbeheerders van de centrumkorpsen, de Minister van Defensie en de korpsbeheerder van het Korps landelijke politiediensten maken afspraken over beheersmatige samenwerking tussen de aanhoudings- en ondersteuningseenheden, de aanhoudings- en ondersteuningseenheid van de Koninklijke marechaussee en de Dienst Speciale Interventies. De afspraken hebben in ieder geval betrekking op: 
+De korpschef en de Minister van Defensie maken afspraken over beheersmatige samenwerking tussen de aanhoudings- en ondersteuningseenheden, de aanhoudings- en ondersteuningseenheid van de Koninklijke marechaussee en de Dienst Speciale Interventies. De afspraken hebben in ieder geval betrekking op: 
 
 a. de opleiding, uitrusting en beschikbaarheid van personeel van de aanhoudings- en ondersteuningseenheden en de aanhoudings- en ondersteuningseenheid van de Koninklijke marechaussee, ten behoeve van het gezamenlijk optreden met de Dienst Speciale Interventies;  
 
@@ -71,6 +55,10 @@ b. stages door het personeel van de Dienst Speciale Interventies bij de aanhoudi
 ### Artikel  10  
 
 De [Organisatieregeling aanhoudings- en ondersteuningseenheden](../../../../../../../../../../ministeriele-regeling/organisatieregeling/aanhoudings-/en/ondersteuningseenheid/BWBR0006551/README.md) wordt ingetrokken.  
+
+### Artikel  10a  
+
+Deze regeling berust op de [artikelen 5](../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), [30, tweede lid](../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), en [57 van de Politiewet 2012](../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
 
 ### Artikel  11  
 

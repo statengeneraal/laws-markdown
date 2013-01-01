@@ -154,7 +154,7 @@ c. door de ondernemer wordt geleverd met toepassing van artikel 9, tweede lid, o
 
 d.  vervallen;   
 
-e. wordt gebruikt ten behoeve van een aan de ondernemer verleende dienst, bestaande in werkzaamheden met betrekking tot dat goed, die feitelijk plaatsvinden in de lid-staat van aankomst van de verzending of het vervoer, mits dat goed na de werkzaamheden wordt verzonden naar de ondernemer in de lid-staat waarvandaan het oorspronkelijk is verzonden of vervoerd;  
+e. wordt gebruikt ten behoeve van een aan de ondernemer verleende dienst, bestaande in deskundigenonderzoeken of werkzaamheden met betrekking tot dat goed, die feitelijk plaatsvinden in de lid-staat van aankomst van de verzending of het vervoer, mits dat goed na de deskundigenonderzoeken of werkzaamheden wordt verzonden naar de ondernemer in de lid-staat waarvandaan het oorspronkelijk is verzonden of vervoerd;  
 
 f. tijdelijk wordt gebruikt in de lid-staat van aankomst van de verzending of het vervoer ten behoeve van een door de ondernemer verrichte dienst;  
 
@@ -255,7 +255,9 @@ b. deskundigenonderzoeken en werkzaamheden met betrekking tot roerende lichameli
 ### Artikel  6g  
 
 1.  De plaats van dienst van kortdurende verhuur van een vervoermiddel is de plaats waar dat vervoermiddel daadwerkelijk ter beschikking van de afnemer wordt gesteld.   
-2.  Voor de toepassing van het eerste lid wordt onder «kortdurende verhuur» verstaan: het ononderbroken bezit of gebruik van het vervoermiddel gedurende een periode van ten hoogste dertig dagen, en voor schepen ten hoogste negentig dagen.   
+2.  De plaats van andere dan kortdurende verhuur van een vervoermiddel aan een andere dan ondernemer is de plaats waar de afnemer gevestigd is of zijn woonplaats of gebruikelijke verblijfplaats heeft.   
+3.  In afwijking van het tweede lid is de plaats van andere dan kortdurende verhuur van een pleziervaartuig aan een andere dan ondernemer de plaats waar het pleziervaartuig effectief ter beschikking van de afnemer wordt gesteld, indien deze dienst daadwerkelijk door de dienstverrichter wordt verricht vanuit de zetel van zijn bedrijfsuitoefening of een vaste inrichting aldaar.   
+4.  Voor de toepassing van dit artikel wordt onder «kortdurende verhuur» verstaan: het ononderbroken bezit of gebruik van het vervoermiddel gedurende een periode van ten hoogste dertig dagen, en voor schepen ten hoogste negentig dagen.   
 
 ### Artikel  6h  
 
@@ -348,7 +350,7 @@ b. bij met grondrente bezwaarde eigendom, rechten van erfpacht, opstal, erfdiens
 c. bij eigendom, bezwaard met een recht van erfpacht, opstal, erfdienstbaarheid of beklemming, de vergoeding wordt verminderd met de aan die rechten verbonden lasten;  
 
 d. bij levering anders dan met toepassing van artikel 28b of 28d, van gebruikte personenauto's, gebruikte motorrijwielen en gebruikte bestelauto's in de zin van [artikel 10 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), de vergoeding wordt verminderd met de op de voet van die wet geheven belasting. Voor het vaststellen van het bedrag van die vermindering worden regels gesteld met inachtneming van de bepalingen van of ingevolge [die wet](../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md).     
-6.  Indien gegevens voor het bepalen van de vergoeding zijn uitgedrukt in een andere munteenheid dan de euro, wordt de wisselkoers vastgesteld overeenkomstig de laatst genoteerde verkoopkoers op het tijdstip waarop de belasting verschuldigd wordt.   
+6.  Indien gegevens voor het bepalen van de vergoeding zijn uitgedrukt in een andere munteenheid dan de euro, wordt de wisselkoers vastgesteld overeenkomstig de laatst genoteerde verkoopkoers op het tijdstip waarop de belasting verschuldigd wordt. In plaats van het hiervoor bedoelde wisselkoersmechanisme mag ook gebruik gemaakt worden van de wisselkoers die, op het tijdstip waarop de belasting verschuldigd wordt, door de Europese Centrale Bank laatstelijk was bekendgemaakt.   
 7.  Ten aanzien van de handelingen, bedoeld in artikel 4, tweede lid, wordt de vergoeding gesteld op de door de ondernemer voor het verrichten van de diensten gemaakte uitgaven. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de door de ondernemer voor het verrichten van deze diensten gemaakte uitgaven.   
 
 ### Artikel  8a  
@@ -406,7 +408,7 @@ g.
 
 1°. de volgende leveringen en diensten: 
 
-a. gezondheidskundige verzorging van de mens door beoefenaren van een medisch of paramedisch beroep die een op dit beroep gerichte opleiding hebben voltooid waarvoor regels zijn gesteld bij of krachtens de [Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) of gezondheidskundige verzorging van de mens door beoefenaren van een medisch of paramedisch beroep waarvoor regels, met inbegrip van kwaliteitseisen betreffende opleiding en beroepsuitoefening, zijn vastgesteld door de minister van Volksgezondheid, Welzijn en Sport en welk beroep is vermeld in een door deze minister bij te houden register, voor zover de gezondheidskundige verzorging tot het gebied van deskundigheid van dit beroep behoort en onderdeel vormt van de bedoelde opleiding;  
+a. de diensten op het vlak van de gezondheidskundige verzorging van de mens door beoefenaren van een medisch of paramedisch beroep die een op dit beroep gerichte opleiding hebben voltooid waarvoor regels zijn gesteld bij of krachtens de [Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), voor zover deze diensten tot het gebied van deskundigheid van dit beroep behoren en onderdeel vormen van bedoelde opleiding;  
 
 b. diensten die door tandtechnici als zodanig worden verricht; de leveringen van tandprothesen door tandartsen en tandtechnici; het vervoer van zieken of gewonden met ambulance-automobielen;    
 
@@ -444,9 +446,9 @@ m. de diensten, en de daarmee gepaard gaande leveringen, bedoeld in [artikel 16 
 
 n. de niet-commerciële activiteiten van openbare radio- en televisieorganisaties;  
 
-o. het verstrekken van: 
+o. het verzorgen van: 
 
-1°. onderwijs, met inbegrip van de diensten en leveringen die daarmee nauw samenhangen, door daartoe bestemde inrichtingen, als is omschreven bij of krachtens de wetten tot regeling van het onderwijs dat krachtens wettelijk voorschrift is onderworpen aan het Rijksschooltoezicht of aan een ander toezicht door de minister die met de zorg voor het desbetreffende onderwijs is belast;  
+1°. onderwijs, met inbegrip van de diensten en leveringen die daarmee nauw samenhangen, door daartoe bestemde scholen en instellingen, als is omschreven bij of krachtens de wetten tot regeling van het onderwijs dat krachtens wettelijk voorschrift is onderworpen aan het toezicht door de Inspectie van het onderwijs of aan een ander toezicht door de minister die met de zorg voor het desbetreffende onderwijs is belast;  
 
 2°. bij algemene maatregel van bestuur aan te wijzen onderwijs, met inbegrip van de diensten en leveringen die daarmee nauw samenhangen, waarbij kan worden bepaald, dat de vrijstelling slechts toepassing vindt ten aanzien van ondernemers die met dat onderwijs geen winst beogen;    
 
@@ -512,13 +514,15 @@ Indien ten onrechte gebruik is gemaakt van de uitzondering van artikel 11, eerst
 
 1.  De belasting wordt verschuldigd: 
 
-a. in gevallen waarin ingevolge artikel 35 een factuur moet worden uitgereikt, op het tijdstip van de uitreiking of, indien deze niet tijdig plaatsvindt, het tijdstip waarop zij uiterlijk had moeten geschieden tenzij sprake is van een dienst waarover de belasting op grond van artikel 12, tweede lid, verschuldigd is door de afnemer van deze dienst, in welk geval de belasting verschuldigd wordt op het tijdstip waarop de dienst wordt verricht;  
+a. in gevallen waarin ingevolge de artikelen 34b tot en met 35 een factuur moet worden uitgereikt, op het tijdstip van de uitreiking of, indien deze niet tijdig plaatsvindt, het tijdstip waarop zij uiterlijk had moeten geschieden tenzij sprake is van een dienst waarover de belasting op grond van artikel 12, tweede lid, verschuldigd is door de afnemer van deze dienst, in welk geval de belasting verschuldigd wordt op het tijdstip waarop de dienst wordt verricht;  
 
 b. in andere gevallen op het tijdstip waarop de levering of de dienst wordt verricht.     
 2.  In afwijking in zover van het eerste lid wordt de belasting of het desbetreffende gedeelte daarvan uiterlijk verschuldigd op het tijdstip waarop de vergoeding geheel of gedeeltelijk wordt ontvangen.   
-3.  Bij levering van goederen met toepassing van de bij deze wet behorende tabel II, onderdeel *a*, post 6, wordt de belasting, in afwijking in zover van het eerste en tweede lid, verschuldigd op de vijftiende dag na de maand waarin de levering is verricht. Ingeval vóór dit tijdstip een factuur wordt uitgereikt, wordt de belasting verschuldigd op het tijdstip van uitreiking van deze factuur.   
-4.  In afwijking in zoverre van het eerste lid, onderdeel b, wordt de belasting ter zake van diensten als bedoeld in artikel 4, tweede lid, verschuldigd op de laatste dag van het kalenderjaar waarin die diensten worden verricht. Diensten die op die dag nog niet zijn voltooid, worden geacht op die dag te zijn voltooid voorzover zij betrekking hebben op dat kalenderjaar.   
+3.  Bij een levering of overbrenging voor bedrijfsdoeleinden van goederen met toepassing van de bij deze wet behorende tabel II, onderdeel a, post 6, wordt de belasting, in afwijking van het eerste en tweede lid, verschuldigd op het tijdstip van uitreiking van de factuur, of op het tijdstip van het verstrijken van de in artikel 34g, eerste volzin, bedoelde termijn indien er vóór die datum geen factuur is uitgereikt.   
+4.  In afwijking in zoverre van het eerste lid, onderdeel b, wordt de belasting ter zake van diensten als bedoeld in artikel 4, tweede lid, verschuldigd op de laatste dag van het boekjaar waarin die diensten worden verricht. Diensten die op die dag nog niet zijn voltooid, worden geacht op die dag te zijn voltooid voorzover zij betrekking hebben op dat boekjaar. Indien het boekjaar langer is dan een jaar wordt de belasting verschuldigd op de laatste dag van het kalenderjaar waarin de diensten worden verricht met overeenkomstige toepassing van de tweede volzin.   
 5.  Voor de toepassing van het eerste lid worden de diensten waarvan de belasting op grond van artikel 12, tweede lid, verschuldigd is door de afnemer van deze diensten en die doorlopend worden verricht gedurende een periode langer dan één jaar geacht bij de afloop van elk kalenderjaar te zijn voltooid zolang de dienstverrichting doorloopt en die geen aanleiding geven tot afrekeningen of betalingen in die periode.   
+6.  De goederenleveringen die doorlopend worden verricht gedurende een periode langer dan een kalendermaand, waarbij de goederen onder de voorwaarden van de bij deze wet behorende tabel II, onderdeel a, post 6, worden vervoerd naar een andere lidstaat, worden geacht bij de afloop van elke kalendermaand te zijn voltooid zolang de goederenlevering doorloopt.   
+7.  Goederenleveringen en diensten, andere dan die bedoeld in het vierde, vijfde en zesde lid, die gedurende een zekere periode doorlopend worden verricht, worden geacht ten minste eenmaal per jaar te zijn voltooid.   
 
 ### Artikel  14  
 
@@ -646,9 +650,8 @@ De belasting wordt geheven van degene die de intracommunautaire verwerving verri
 
 ### Artikel  17g  
 
-1.  De belasting wordt verschuldigd op de vijftiende dag na de maand waarin de intracommunautaire verwerving is verricht.   
+1.  De belasting wordt verschuldigd op het tijdstip van uitreiking van de factuur, of bij het verstrijken van de in artikel 34g, eerste volzin, bedoelde termijn indien er vóór die datum geen factuur is uitgereikt.   
 2.  Een intracommunautaire verwerving van een goed wordt verricht op het tijdstip waarop de aan de verwerving ten grondslag liggende levering van dat goed wordt verricht.   
-3.  Ingeval vóór het in het eerste lid bedoelde tijdstip een factuur wordt uitgereikt aan degene die de verwerving verricht, wordt de belasting, in afwijking in zoverre van het eerste lid, verschuldigd op het tijdstip waarop de factuur wordt uitgereikt.   
 
 ### Artikel  17h  
 
@@ -840,8 +843,8 @@ b. op goederen die tijdelijk zijn uitgevoerd uit de Gemeenschap met het oog op h
 
 1.  Indien een ondernemer een natuurlijk persoon is die in Nederland woont of is gevestigd dan wel aldaar een vaste inrichting heeft en de door hem in een kalenderjaar verschuldigde belasting na toepassing van de in artikel 15 bedoelde aftrek niet hoger is dan € 1883, wordt het bedrag van de belasting verminderd met een bedrag, gelijk aan 2,5 maal het verschil tussen € 1883 en het bedrag van die belasting. De vermindering bedraagt ten hoogste het bedrag van de belasting.   
 2.  Bij ministeriële regeling worden regels gesteld inzake de toerekening van de in het eerste lid bedoelde vermindering aan de tijdvakken in het kalenderjaar.   
-3.  Bij ministeriële regeling worden regels gesteld volgens welke een ondernemer die op grond van het eerste lid geen belasting behoeft te voldoen, op zijn verzoek kan worden ontheven van verplichtingen, opgelegd bij of krachtens de artikelen 34 en 35. De ondernemer mag alsdan op een factuur op generlei wijze melding maken van omzetbelasting; teruggaaf op de voet van artikel 17 wordt aan hem niet verleend. De ontheffing geldt niet met betrekking tot intracommunautaire verwervingen.   
-4.  De in het eerste lid bedoelde vermindering wordt niet toegepast, indien de ondernemer in het desbetreffende kalenderjaar niet voldoet aan hetgeen bij of krachtens artikel 34, artikel 35 of het derde lid is voorgeschreven.   
+3.  Bij ministeriële regeling worden regels gesteld volgens welke een ondernemer die op grond van het eerste lid geen belasting behoeft te voldoen, op zijn verzoek kan worden ontheven van verplichtingen, opgelegd bij of krachtens de artikelen 34 en 34b tot en met 35. De ondernemer mag alsdan op een factuur op generlei wijze melding maken van omzetbelasting; teruggaaf op de voet van artikel 17 wordt aan hem niet verleend. De ontheffing geldt niet met betrekking tot intracommunautaire verwervingen.   
+4.  De in het eerste lid bedoelde vermindering wordt niet toegepast, indien de ondernemer in het desbetreffende kalenderjaar niet voldoet aan hetgeen bij of krachtens artikel 34, de artikelen 34b tot en met 35, of het derde lid is voorgeschreven.   
 5.  De vorige leden zijn niet van toepassing op leveringen van nieuwe vervoermiddelen met toepassing van de bij deze wet behorende tabel II, onderdeel *a*, post 6.   
 6.  Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de toepassing van dit artikel.   
 
@@ -866,7 +869,7 @@ a. leveringen van goederen, vermeld in tabel I, onderdeel *a*, welke zij in hun 
 b. diensten welke naar hun aard bijdragen tot de agrarische produktie en welke zij met gebruikmaking van hun normale uitrusting en personeel verrichten;  
 
 c. leveringen van gebruikte bedrijfsmiddelen en andere in het bedrijf gebruikte goederen.     
-2.  De in het eerste lid bedoelde ondernemers zijn met betrekking tot de aldaar bedoelde prestaties ontheven van de verplichtingen, opgelegd bij of krachtens de artikelen 34 en 35. Zij hebben met betrekking tot die prestaties geen aanspraak op aftrek op de voet van artikel 15.   
+2.  De in het eerste lid bedoelde ondernemers zijn met betrekking tot de aldaar bedoelde prestaties ontheven van de verplichtingen, opgelegd bij of krachtens de artikelen 34 en 34b tot en met 35. Zij hebben met betrekking tot die prestaties geen aanspraak op aftrek op de voet van artikel 15.   
 3.  Aan de in het eerste lid bedoelde ondernemers die goederen als aldaar bedoeld in onderdeel *a* leveren met toepassing van artikel 5a, eerste lid, wordt op verzoek teruggaaf van belasting verleend, ingeval de levering leidt tot verschuldigdheid van belasting in de lid-staat van aankomst van het vervoer. De teruggaaf bedraagt 5,4 percent van het door de ondernemer in rekening gebrachte bedrag.   
 4.  Ondernemers aan wie de in het eerste lid bedoelde ondernemers goederen als aldaar zijn bedoeld in onderdeel *a*, leveren, of diensten als aldaar zijn bedoeld in onderdeel *b*, verlenen, kunnen 5,4 percent van het aan hen in rekening gebrachte bedrag op de voet van artikel 15 in aftrek brengen.   
 5.  Aan de in artikel 1a, tweede lid, bedoelde ondernemers en rechtspersonen, andere dan ondernemers, die zijn gevestigd in een andere lid-staat, aan wie de in het eerste lid bedoelde ondernemers goederen als aldaar bedoeld in onderdeel *a* leveren, wordt op verzoek teruggaaf van belasting verleend, voor zover deze goederen in die andere lid-staat zijn onderworpen aan heffing van belasting ter zake van intracommunautaire verwerving van die goederen. De teruggaaf bedraagt 5,4 percent van het door de leverancier in rekening gebrachte bedrag.   
@@ -881,7 +884,7 @@ c. leveringen van gebruikte bedrijfsmiddelen en andere in het bedrijf gebruikte 
 
 ### Artikel  28  
 
-De heffing van de belasting ter zake van de levering, de intracommunautaire verwerving en de invoer van tabaksprodukten als bedoeld in [artikel 29 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) alsmede van pruimtabak en snuiftabak als bedoeld in de [artikelen 11](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) en [12 van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) geschiedt met overeenkomstige toepassing van de voor die accijns of die verbruiksbelasting geldende regelen, met dien verstande dat het tarief 21/121 deel bedraagt van de voor de berekening van de accijns of van die verbruiksbelasting in aanmerking komende kleinhandelsprijs. Die belasting komt niet voor aftrek als is bedoeld in artikel 15 in aanmerking.  
+De heffing van de belasting ter zake van de levering, de intracommunautaire verwerving en de invoer van tabaksproducten als bedoeld in [artikel 29 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) geschiedt met overeenkomstige toepassing van de voor die accijns geldende regelen, met dien verstande dat het tarief 21/121 deel bedraagt van de voor de berekening van de accijns in aanmerking komende kleinhandelsprijs. Die belasting komt niet voor aftrek als is bedoeld in artikel 15 in aanmerking.  
 
 ### Artikel  28a  
 
@@ -900,7 +903,7 @@ a. een ander dan een ondernemer;
 
 b. een ondernemer, met toepassing van artikel 11, eerste lid, onderdeel r;  
 
-c. een ondernemer die ingevolge artikel 25, derde lid, is ontheven van de verplichtingen, opgelegd bij of krachtens de artikelen 34 en 35, mits het een in zijn bedrijf gebruikt bedrijfsmiddel betreft;  
+c. een ondernemer die ingevolge artikel 25, derde lid, is ontheven van de verplichtingen, opgelegd bij of krachtens de artikelen 34 en 34b tot en met 35, mits het een in zijn bedrijf gebruikt bedrijfsmiddel betreft;  
 
 d. een andere wederverkoper, met toepassing van het eerste lid; of  
 
@@ -1042,7 +1045,7 @@ c. een verklaring dat de ondernemer niet reeds in de Gemeenschap is geïdentific
 2.  Het in het eerste lid bedoelde tijdvak is een kalenderkwartaal. De melding elektronische diensten dient ook te worden ingediend indien in een tijdvak geen elektronische diensten zijn verricht.   
 3.  De in het eerste lid bedoelde melding elektronische diensten vindt plaats langs elektronische weg en bevat ten aanzien van elke lid-staat van verbruik waar belasting is verschuldigd, het totale bedrag dat ter zake van de elektronische diensten in rekening is gebracht, de omzetbelasting niet daaronder begrepen, alsmede het totale bedrag van de daarover verschuldigde belasting. Voorts worden de in de desbetreffende lidstaten geldende belastingtarieven en het totale verschuldigde bedrag aan belasting vermeld.   
 4.  De in het eerste lid bedoelde melding elektronische diensten wordt gedaan uiterlijk 20 dagen na het einde van het tijdvak waarop die melding betrekking heeft.   
-5.  Indien de belasting die verschuldigd is over in Nederland verrichte elektronische diensten, ongeacht de keuze van lid-staat van identificatie, geheel of gedeeltelijk niet is betaald, kan de inspecteur met overeenkomstige toepassing van [artikel 20 van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) de te weinig geheven belasting naheffen. De artikelen [30f](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [67c](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [67f van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) zijn van overeenkomstige toepassing.   
+5.  Indien de belasting die verschuldigd is over in Nederland verrichte elektronische diensten, ongeacht de keuze van lid-staat van identificatie, geheel of gedeeltelijk niet is betaald, kan de inspecteur met overeenkomstige toepassing van [artikel 20 van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) de te weinig geheven belasting naheffen. De [artikelen 30h](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [30ha](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [67c](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [67f van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) zijn van overeenkomstige toepassing.   
 6.  In afwijking van artikel 2 vindt geen aftrek van belasting plaats, maar wordt teruggaaf van belasting verleend overeenkomstig de dertiende Richtlijn van de Raad van de Europese Gemeenschappen van 17 november 1986 betreffende de harmonisatie van de wetgevingen der Lid-Staten inzake omzetbelasting (nr. 86/560/EEG, PbEG L 326). Artikel 2, tweede en derde lid, en artikel 4, tweede lid, van deze Richtlijn zijn niet van toepassing op een verzoek om teruggaaf van belasting dat verband houdt met elektronische diensten waarop de in deze afdeling opgenomen regeling van toepassing is.   
 7.  De bedragen in de melding elektronische diensten worden uitgedrukt in eurobedragen. Indien de vergoeding voor elektronische diensten is uitgedrukt in een andere munteenheid dan de euro wordt, in afwijking van artikel 8, zesde lid, voor de bepaling van de in het derde lid genoemde bedragen de wisselkoers gehanteerd die gold op de laatste dag van de periode waarop de melding elektronische diensten betrekking heeft. De omrekening vindt plaats volgens de wisselkoersen die de Europese Centrale Bank voor de desbetreffende dag bekend heeft gemaakt of, als er op de desbetreffende dag geen bekendmaking heeft plaatsgevonden, volgens de wisselkoersen op de eerstvolgende dag van bekendmaking.   
 8.  [Hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van overeenkomstige toepassing als ware de betaalde belasting op aangifte voldaan.   
@@ -1112,7 +1115,6 @@ De belasting die aan het reisbureau in rekening wordt gebracht door andere onder
 1.  Ter zake van de reisdiensten wordt voor de toepassing van artikel 35a, eerste lid, onderdeel h, de omzetbelasting begrepen onder de vergoeding.   
 2.  Het is het reisbureau niet toegestaan om de belasting afzonderlijk te vermelden op de ter zake van de reisdienst uit te reiken factuur.   
 3.  Artikel 35a, eerste lid, onderdeel j, is niet van toepassing ter zake van reisdiensten.   
-4.  Op de ter zake van reisdiensten door het reisbureau uit te reiken factuur wordt vermeld dat de reisbureauregeling van toepassing is.   
 
 ### Artikel  28zg  
 
@@ -1449,83 +1451,141 @@ b. afzonderlijk aantekening te houden van de goederen die vanuit een andere lid-
 
 De ondernemer is verplicht boeken, bescheiden en andere gegevensdragers of de inhoud daarvan – zulks ter keuze van de inspecteur – betreffende onroerende zaken en rechten waaraan deze zijn onderworpen gedurende negen jaren, volgende op het jaar waarin hij het goed is gaan gebruiken, te bewaren.  
 
+### Artikel  34b  
+
+Onverminderd het bepaalde in [artikel 52 van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en artikel 35c is het volgende van toepassing: 
+
+a. voor facturering gelden de regels die van toepassing zijn in de lidstaat waar de goederenlevering of de dienst geacht wordt te zijn verricht, overeenkomstig het bepaalde in hoofdstuk II van deze wet;  
+
+b. in afwijking van het bepaalde in onderdeel a gelden voor facturering de regels die van toepassing zijn in de lidstaat waar degene die de goederenlevering of de dienst verricht de zetel van zijn bedrijfsuitoefening of een vaste inrichting heeft gevestigd van waaruit hij de prestatie verricht, of, bij gebreke van een dergelijke zetel of vaste inrichting, de lidstaat waar de leverancier of dienstverrichter zijn woonplaats of zijn gebruikelijke verblijfplaats heeft, wanneer: 
+
+1°. degene die de belastbare goederenlevering of de dienst verricht, niet gevestigd is in de lidstaat waar de goederenlevering of de dienst overeenkomstig het bepaalde in hoofdstuk II van deze wet geacht wordt te zijn verricht, of zijn inrichting in die lidstaat niet betrokken is bij het verrichten van de goederenlevering of de dienst in de zin van artikel 192bis van de BTW-richtlijn 2006, en de tot voldoening van de belasting gehouden persoon degene is voor wie de goederenlevering of de dienst wordt verricht. Indien de afnemer de factuur uitreikt («self-billing») is het bepaalde in onderdeel a van toepassing;  
+
+2°. de goederenlevering of de dienst overeenkomstig het bepaalde in hoofdstuk II van deze wet niet geacht wordt in de Gemeenschap te zijn verricht.      
+
+### Artikel  34c  
+
+1.  Iedere ondernemer zorgt ervoor dat door hemzelf dan wel, in zijn naam en voor zijn rekening, door zijn afnemer of een derde, in de volgende gevallen een factuur wordt uitgereikt ter zake van: 
+
+a. de goederenleveringen of diensten die hij heeft verricht voor een andere ondernemer of een rechtspersoon, andere dan ondernemer;  
+
+b. de goederenleveringen, bedoeld in artikel 5a, eerste lid;  
+
+c. de goederenleveringen, bedoeld in de bij deze wet behorende tabel II, onderdeel a, post 6;  
+
+d. de vooruitbetalingen die aan hem worden gedaan voordat een van de in de onderdelen a en b bedoelde goederenleveringen is verricht;  
+
+e. de vooruitbetalingen die door een andere ondernemer of een rechtspersoon, andere dan ondernemer, aan hem worden gedaan voordat de dienst is verricht.     
+2.  Onder bij ministeriële regeling te stellen voorwaarden en beperkingen zijn ondernemers die uitsluitend vrijgestelde prestaties verrichten, ontheven van de verplichting ingevolge het eerste lid. De vorige volzin is van overeenkomstige toepassing op de vrijgestelde prestaties van ondernemers die zowel vrijgestelde als belaste prestaties verrichten.   
+
+### Artikel  34d  
+
+1.  In de volgende gevallen kan worden volstaan met een vereenvoudigde factuur: 
+
+a. wanneer het bedrag van de factuur niet hoger is dan € 100;  
+
+b. wanneer de uitgereikte factuur een document of bericht is dat overeenkomstig artikel 34f als factuur geldt.     
+2.  Een vereenvoudigde factuur wordt niet uitgereikt indien de factuur moet worden uitgereikt overeenkomstig artikel 34c, eerste lid, onderdelen b en c, of indien de belastbare goederenlevering of de belastbare dienst wordt verricht door een ondernemer die niet is gevestigd in de lidstaat waar de belasting verschuldigd is of van wie geen inrichting op het grondgebied van die lidstaat bij het verrichten van de goederenlevering of de dienst is betrokken in de zin van artikel 192bis van de BTW-richtlijn 2006, en de tot de voldoening van de belasting gehouden persoon degene is voor wie de goederenlevering of dienst wordt verricht.   
+
+### Artikel  34e  
+
+In afwijking van artikel 34c, eerste lid, draagt een ondernemer die doorgaans levert aan andere ondernemers, er zorg voor dat een factuur wordt uitgereikt ter zake van al zijn leveringen. De vorige volzin is alleen van toepassing ten aanzien van ondernemers of groepen van ondernemers die daartoe bij ministeriële regeling zijn aangewezen.  
+
+### Artikel  34f  
+
+Ieder document of bericht dat wijzigingen aanbrengt in, en specifiek en ondubbelzinnig verwijst naar de oorspronkelijke factuur, geldt als factuur.  
+
+### Artikel  34g  
+
+De factuur wordt uitgereikt uiterlijk op de vijftiende dag van de maand volgende op die waarin de goederenlevering of de dienst is verricht. In geval van vooruitbetalingen als bedoeld in artikel 34c, eerste lid, onderdelen d en e, moet de factuur telkens worden uitgereikt vóór het tijdstip van de opeisbaarheid daarvan.  
+
 ### Artikel  35  
 
-1.  Iedere ondernemer draagt er zorg voor dat door hemzelf dan wel, in zijn naam en voor zijn rekening, door zijn afnemer of een derde, een factuur wordt uitgereikt: 
-
-a. ter zake van zijn leveringen of diensten die hij heeft verricht aan een andere ondernemer of aan een rechtspersoon, andere dan ondernemer;  
-
-b. ter zake van zijn leveringen met toepassing van artikel 5a, eerste lid, dan wel van de bij deze wet behorende tabel II, onderdeel a, post 6, aan anderen dan de in onderdeel a bedoelde ondernemers en rechtspersonen; en  
-
-c. ter zake van vooruitbetalingen die door een andere ondernemer of een rechtspersoon, andere dan ondernemer, aan hem worden gedaan voordat de levering of de dienst is verricht.     
-2.  In afwijking in zoverre van het eerste lid draagt een ondernemer die doorgaans levert aan andere ondernemers, er zorg voor dat een factuur wordt uitgereikt ter zake van al zijn leveringen. De vorige volzin is alleen van toepassing ten aanzien van ondernemers of groepen van ondernemers die daartoe bij ministeriële regeling zijn aangewezen.   
-3.  Onder bij ministeriële regeling te stellen voorwaarden en beperkingen zijn ondernemers die uitsluitend vrijgestelde prestaties verrichten, ontheven van de verplichting ingevolge het eerste lid. De vorige volzin is van overeenkomstige toepassing op de vrijgestelde prestaties van ondernemers die zowel vrijgestelde als belaste prestaties verrichten.   
-4.  Ieder document of bericht dat wijzigingen aanbrengt in, en specifiek en ondubbelzinnig verwijst naar de oorspronkelijke factuur, geldt als factuur.   
-5.  De factuur moet worden uitgereikt vóór de vijftiende dag na de maand waarin de levering of de dienst is verricht. In geval van vooruitbetalingen als bedoeld in het eerste lid, onderdeel c, moet de factuur telkens worden uitgereikt vóór het tijdstip van de opeisbaarheid daarvan.   
-6.  Voor verscheidene afzonderlijke leveringen of diensten kan een periodieke factuur worden opgemaakt, mits de periode waarop de factuur betrekking heeft niet langer is dan een maand.   
-7.  Ingeval de afnemer de factuur opmaakt voor de ondernemer die aan hem goederen levert of diensten verricht, wordt dat vooraf overeengekomen in een akkoord tussen beide partijen en maakt iedere factuur deel uit van een procedure van aanvaarding door de ondernemer die de leveringen of diensten verricht.   
+1.  Voor verscheidene afzonderlijke leveringen of diensten kan een periodieke factuur worden opgemaakt, mits de periode waarop de factuur betrekking heeft niet langer is dan een kalendermaand.   
+2.  Facturen mogen door de afnemer worden opgemaakt voor goederenleveringen of diensten die door een ondernemer voor hem worden verricht, indien beide partijen dat vooraf onderling zijn overeengekomen en op voorwaarde dat iedere factuur het voorwerp uitmaakt van een procedure van aanvaarding door de ondernemer die de goederenleveringen of de diensten verricht.   
 
 ### Artikel  35a  
 
 1.  Op de factuur zijn de volgende vermeldingen verplicht: 
 
-a. de datum van uitreiking;  
+a. de datum van uitreiking van de factuur;  
 
 b. een opeenvolgend nummer, met één of meer reeksen, waardoor de factuur eenduidig wordt geïdentificeerd;  
 
-c. het btw-identificatienummer waaronder de ondernemer de levering of de dienst heeft verricht;  
+c. het btw-identificatienummer waaronder de ondernemer de goederenleveringen of de diensten heeft verricht;  
 
-d. het btw-identificatienummer van de afnemer aan wie de levering of de dienst is verricht en van wie de belasting wordt geheven of aan wie is geleverd met toepassing van de bij deze wet behorende tabel II, onderdeel a, post 6;  
+d. het btw-identificatienummer van de afnemer waaronder hij een goederenlevering of een dienst heeft afgenomen waarvoor hij tot voldoening van de belasting is gehouden of waaronder hij een goederenlevering als bedoeld in de bij deze wet behorende tabel II, onderdeel a, post 6, heeft afgenomen;  
 
-e. de naam en het adres van de ondernemer en zijn afnemer;  
+e. de volledige naam en het volledige adres van de ondernemer en zijn afnemer;  
 
 f. de hoeveelheid en de aard van de geleverde goederen of de omvang en de aard van de verrichte diensten;  
 
-g. de datum waarop de levering of de dienst heeft plaatsgevonden of is voltooid of de datum waarop de in artikel 35, eerste lid, onderdeel c, bedoelde vooruitbetaling is gedaan, voorzover die datum kan worden vastgesteld en verschilt van de uitreikingsdatum van de factuur;  
+g. de datum waarop de goederenlevering of de dienst heeft plaatsgevonden of voltooid is of de datum waarop de in artikel 34c, eerste lid, onderdelen d en e, bedoelde vooruitbetaling is gedaan, voor zover die datum vastgesteld is en verschilt van de uitreikingsdatum van de factuur;  
 
-h. de vergoeding met betrekking tot elk tarief of elke vrijstelling, de eenheidsprijs exclusief belasting, evenals de eventuele vooruitbetalingskortingen en andere kortingen indien die niet in de eenheidsprijs zijn begrepen;  
+h. de vergoeding voor elk tarief of elke vrijstelling, de eenheidsprijs, belasting niet inbegrepen, evenals de eventuele vooruitbetalingskortingen, prijskortingen en -rabatten indien die niet in de eenheidsprijs zijn begrepen;  
 
-i. het toegepaste tarief;  
+i. het toegepast tarief van de belasting;  
 
-j. het te betalen bedrag van de belasting;  
+j. het te betalen bedrag van de belasting, tenzij er een bijzondere regeling van toepassing is waarvoor deze wet die vermelding uitsluit;  
 
-k. in geval van een vrijstelling of van leveringen met toepassing van de bij deze wet behorende tabel II, onderdeel a, post 6, of wanneer de belasting wordt geheven van de afnemer, enige aanduiding daarvan;  
+k. wanneer de afnemer die een prestatie afneemt de factuur uitreikt in plaats van degene die de prestatie verricht, de vermelding «factuur uitgereikt door afnemer»;  
 
-l. de gegevens die nodig zijn om te bepalen of een vervoermiddel een nieuw vervoermiddel is;  
+l. in geval van een vrijstelling of van leveringen met toepassing van de bij deze wet behorende tabel II, onderdeel a, post 6, enige aanduiding daarvan;  
 
-m. ingeval een wederverkoper goederen levert met toepassing van artikel 28b, 28c of  28d, enige aanduiding daarvan;  
+m. wanneer de afnemer tot voldoening van de belasting is gehouden, de vermelding «btw verlegd»;  
 
-n. ingeval de belasting wordt voldaan door een fiscaal vertegenwoordiger als bedoeld in artikel 33g, het btw-identificatienummer van deze fiscaal vertegenwoordiger, alsmede zijn naam en adres.     
-2.  Op een factuur kunnen bedragen in willekeurig welke munteenheid voorkomen, mits het te betalen bedrag van de belasting is uitgedrukt in euro's en daarbij gebruik wordt gemaakt van het wisselkoersmechanisme, bedoeld in artikel 91 van de BTW-richtlijn 2006.   
-3.  Wanneer zulks uit een oogpunt van controle nodig is, kan de inspecteur een vertaling in het Nederlands eisen van facturen betreffende in Nederland verrichte prestaties, alsmede van facturen die worden ontvangen door in Nederland gevestigde ondernemers.   
-4.  Bij ministeriële regeling kan voor bepaalde ondernemers of groepen van ondernemers ontheffing worden verleend van bepaalde verplichtingen welke zijn opgelegd bij dit artikel, wanneer het bedrag van de factuur onbeduidend is of wanneer de handels- of administratieve praktijken van de betrokken bedrijfssector of de technische voorwaarden waaronder die facturen worden uitgereikt, de naleving bemoeilijken van alle verplichtingen die zijn opgelegd bij dit artikel.   
+n. in geval van levering van een nieuw vervoermiddel onder de in tabel II, onderdeel a, post 6, bedoelde voorwaarden, de gegevens die nodig zijn om te bepalen of een vervoermiddel een nieuw vervoermiddel is;  
+
+o. wanneer de bijzondere regeling voor reisbureaus wordt gehanteerd, de vermelding «bijzondere regeling reisbureaus»;  
+
+p. wanneer een van de bijzondere regelingen voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen of antiquiteiten wordt gehanteerd, de vermelding «bijzondere regeling – gebruikte goederen», «bijzondere regeling – kunstvoorwerpen», respectievelijk «bijzondere regeling – voorwerpen voor verzamelingen of antiquiteiten»;  
+
+q. wanneer de belasting wordt voldaan door een fiscaal vertegenwoordiger als bedoeld in artikel 33g, het btw-identificatienummer van deze fiscaal vertegenwoordiger, samen met zijn volledige naam en adres.     
+2.  Op een vereenvoudigde factuur zijn de volgende vermeldingen verplicht: 
+
+a. de datum van uitreiking van de factuur;  
+
+b. de identiteit van de ondernemer die de goederenlevering of de dienst verricht;  
+
+c. de aard van de geleverde goederen of de verrichte diensten;  
+
+d. het te betalen bedrag van de belasting of de gegevens aan de hand waarvan dat bedrag kan worden berekend;  
+
+e. wanneer de uitgereikte factuur een document of bericht is dat overeenkomstig artikel 34f als factuur geldt, een specifieke en ondubbelzinnige verwijzing naar de oorspronkelijke factuur, met specifieke vermelding van de aangebrachte wijzigingen.     
+3.  Wanneer de factuur wordt uitgereikt door een ondernemer die niet gevestigd is in de lidstaat waar de belasting verschuldigd is of van wie geen inrichting in die lidstaat bij het verrichten van de goederenlevering of de dienst is betrokken in de zin van artikel 192bis van BTW-richtlijn 2006 en die goederenleveringen of diensten verricht voor een afnemer die tot voldoening van de belasting is gehouden, kan de ondernemer de in het eerste lid, onderdelen h, i en j, bedoelde vermeldingen weglaten en in plaats daarvan, door de hoeveelheid of de omvang alsook de aard van de geleverde goederen of verrichte diensten te specificeren, de vergoeding voor die goederen of diensten vermelden.   
+4.  Op een factuur kunnen bedragen in willekeurig welke munteenheid voorkomen, mits het te betalen of te herziene bedrag van de belasting is uitgedrukt in euro’s en daarbij gebruik wordt gemaakt van het in artikel 91 van de BTW-richtlijn 2006 bedoelde wisselkoersmechanisme.   
+5.  Wanneer zulks uit een oogpunt van controle nodig is, kan de inspecteur een vertaling in het Nederlands eisen van facturen betreffende in Nederland verrichte prestaties, alsmede van facturen die worden ontvangen door in Nederland gevestigde ondernemers.   
+6.  Bij ministeriële regeling kan voor bepaalde ondernemers of groepen van ondernemers bepaald worden dat op de facturen volstaan kan worden met de krachtens het tweede lid voorgeschreven vermeldingen wanneer de handels- of administratieve praktijken van de betrokken bedrijfssector of de technische voorwaarden waaronder die facturen worden uitgereikt, de naleving in sterke mate bemoeilijken van alle verplichtingen die zijn opgelegd bij dit artikel.   
 
 ### Artikel  35b  
 
-1.  Facturen mogen zowel op papier worden uitgereikt als, onder voorbehoud van aanvaarding door de afnemer, elektronisch worden verzonden.   
-2.  Elektronisch verzonden facturen worden door de inspecteur aanvaard, mits de authenticiteit van de herkomst en de integriteit van de inhoud ervan worden gewaarborgd door middel van: 
+1.  Elektronische facturering wordt toegepast behoudens aanvaarding door de afnemer.   
+2.  De authenticiteit van de herkomst, de integriteit van de inhoud, en de leesbaarheid van de factuur, op papier of in elektronisch formaat, worden vanaf het tijdstip waarop de factuur wordt uitgereikt tot het einde van de bewaartermijn gewaarborgd. De ondernemer bepaalt zelf hoe de authenticiteit van de herkomst, de integriteit van de inhoud, en de leesbaarheid van de factuur worden gewaarborgd. Hiertoe kan gebruik worden gemaakt van elke bedrijfscontrole die een betrouwbaar controlespoor tussen een factuur en een verrichte prestatie oplevert.   
+3.  Voor de toepassing van deze afdeling en de daarop gebaseerde bepalingen wordt verstaan onder: 
 
-a. een geavanceerde elektronische handtekening in de zin van artikel 2, lid 2, van richtlijn nr. 1999/93/EG van het Europees Parlement en de Raad van de Europese Unie van 13 december 1999 betreffende een gemeenschappelijk kader voor elektronische handtekeningen (PbEG 2000, L 13);  
+a. *authenticiteit van de herkomst:* de gewaarborgde identiteit van degene die de goederenlevering of de dienst heeft verricht of van degene die de factuur heeft uitgereikt;  
 
-b. een elektronische uitwisseling van gegevens (EDI), zoals gedefinieerd in artikel 2 van aanbeveling nr. 1994/820/EG van de Europese Commissie van 19 oktober 1994 betreffende de juridische aspecten van de elektronische uitwisseling van gegevens (PbEG L 338), wanneer het akkoord betreffende deze uitwisseling voorziet in het gebruik van procedures die de authenticiteit van de herkomst en de integriteit van de gegevens waarborgen; of  
+b. *integriteit van de inhoud:* de krachtens deze wet voorgeschreven inhoud van de factuur die geen wijzigingen heeft ondergaan.     
+4.  De authenticiteit van de herkomst en de integriteit van de inhoud van een elektronische factuur kunnen, behalve door middel van de in het tweede lid bedoelde bedrijfscontroles, bijvoorbeeld ook met de volgende technologieën worden gewaarborgd: 
 
-c. een andere methode, mits deze methode aan de inspecteur is gemeld.   De ondernemer die zekerheid wenst omtrent de vraag of met betrekking tot een in onderdeel c bedoelde andere methode de authenticiteit van de herkomst en de integriteit van de inhoud van de factuur zijn gewaarborgd, kan daartoe tegelijk met de melding een verzoek indienen bij de inspecteur, die daarop bij voor bezwaar vatbare beschikking beslist.   
-3.  Bij een reeks facturen die langs elektronische weg naar dezelfde afnemer worden verzonden, hoeven de voor de verschillende facturen gelijke vermeldingen slechts één keer te worden opgenomen, voorzover voor elke factuur alle informatie toegankelijk is.   
+a. een geavanceerde elektronische handtekening in de zin van artikel 2, lid 2, van Richtlijn 1999/93/EG van het Europees Parlement en de Raad van 13 december 1999 betreffende een gemeenschappelijk kader voor elektronische handtekeningen, welke gebaseerd is op een gekwalificeerd certificaat in de zin van artikel 2, lid 10, van Richtlijn 1999/93/EG en gecreëerd wordt met een veilig middel voor het aanmaken van handtekeningen in de zin van artikel 2, leden 6 en 10, van Richtlijn 1999/93/EG;  
+
+b. elektronische uitwisseling van gegevens (Electronic Data Interchange – EDI), zoals gedefinieerd in artikel 2 van bijlage 1 bij Aanbeveling 1994/820/EG van de Commissie van 19 oktober 1994 betreffende de juridische aspecten van de elektronische uitwisseling van gegevens, indien het akkoord betreffende deze uitwisseling voorziet in het gebruik van procedures die de authenticiteit van de herkomst en de integriteit van de gegevens waarborgen.     
+5.  Bij een reeks elektronische facturen die aan dezelfde afnemer worden verzonden of ter beschikking worden gesteld, hoeven de voor de verschillende facturen gelijke vermeldingen slechts één keer te worden opgenomen, voorzover voor elke factuur alle informatie toegankelijk is.   
 
 ### Artikel  35c  
 
 1.  De ondernemer bewaart kopieën van de door hemzelf dan wel, in zijn naam en voor zijn rekening, door zijn afnemer of een derde uitgereikte facturen, en alle door hemzelf ontvangen facturen in zijn administratie.   
-2.  Wanneer een ondernemer de facturen die hij langs elektronische weg verzendt of ontvangt, opslaat, waarbij een on line toegang tot de gegevens wordt gewaarborgd, en wanneer de plaats van opslag is gesitueerd in een andere lid-staat, heeft de inspecteur met het oog op de toepassing van deze wet een recht van toegang tot en van downloading en gebruikmaking langs elektronische weg van deze facturen, voorzover hij deze nodig heeft voor controledoeleinden.   
-3.  De authenticiteit van de herkomst en de integriteit van de inhoud van de facturen, alsmede de leesbaarheid ervan, moeten gedurende de gehele opslagperiode worden gewaarborgd.   
-4.  Ingeval facturen elektronisch worden opgeslagen, worden de gegevens die de authenticiteit van de herkomst en de integriteit van de inhoud waarborgen, eveneens opgeslagen.   
+2.  Wanneer een ondernemer de door hem verzonden of ontvangen facturen elektronisch bewaart, waarbij een online toegang tot de gegevens wordt gewaarborgd, heeft de inspecteur met het oog op de toepassing van deze wet het recht de facturen ter controle in te zien, te downloaden en te gebruiken, indien de ondernemer is gevestigd in Nederland, dan wel de ondernemer de belasting in Nederland verschuldigd is.   
+3.  Ingeval facturen elektronisch worden opgeslagen, worden de gegevens die de authenticiteit van de herkomst en de integriteit van de inhoud waarborgen, eveneens opgeslagen.   
 
 ### Artikel  35d  
 
-Voor de toepassing van de artikelen 35b en 35c wordt verstaan onder het elektronisch verzenden en opslaan van een factuur de verzending of terbeschikkingstelling aan de ontvanger en de opslag via elektronische apparatuur voor de verwerking, met inbegrip van digitale compressie, en de opslag van gegevens, waarbij gebruik wordt gemaakt van draden, radio, optische middelen of andere elektromagnetische middelen.  
+In deze wet wordt verstaan onder «elektronische factuur», een factuur die de bij of krachtens deze wet voorgeschreven gegevens bevat, welke in elektronisch formaat is verstrekt en ontvangen.  
 
 ### Artikel  36  
 
-De [artikelen 25, derde lid](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [27e, van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) vinden overeenkomstige toepassing, ingeval niet volledig is voldaan aan de verplichtingen welke zijn opgelegd bij of krachtens de artikelen 28n, 34, 34a, 35, 35a, 35b, 35c en 39.  
+De [artikelen 25, derde lid](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [27e, van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) vinden overeenkomstige toepassing, ingeval niet volledig is voldaan aan de verplichtingen welke zijn opgelegd bij of krachtens de artikelen 28n, 34 tot en met 35c en 39.  
 
 ### Artikel  37  
 
@@ -1730,7 +1790,7 @@ d. goederen die kennelijk zijn bestemd voor de voortplanting van de onder a en b
 
 6. geneesmiddelen als bedoeld in [artikel 1, eerste lid, onder b, van de Geneesmiddelenwet](../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), voorbehoedsmiddelen, infusievloeistoffen, alsmede kennelijk voor geneeskundige doeleinden bestemde inhalatiegassen;  
 
-7. diergeneesmiddelen als zijn bedoeld in de [Diergeneesmiddelenwet](../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md), met uitzondering van diergeneesmiddelen voor in vitro gebruik;  
+7. diergeneesmiddelen als zijn bedoeld in de [Wet dieren](../../../../../../../wet/wet/dieren/BWBR0030250/README.md), met uitzondering van diergeneesmiddelen voor in vitro gebruik;  
 
 8. verbandmiddelen zoals watten, windsels, gaas, hechtmiddelen, pleisters, tampons, spalken en daarmee gelijk te stellen artikelen die kennelijk zijn bestemd voor geneeskundige doeleinden, alsmede gevulde verbanddozen, damesverband, kraammatrassen en incontinentiematerialen;  
 
@@ -1922,7 +1982,7 @@ a.
 
 5. goud bestemd voor centrale banken;  
 
-6. goederen die worden vervoerd naar een andere lid-staat, wanneer deze goederen aldaar zijn onderworpen aan heffing van belasting ter zake van intracommunautaire verwerving van die goederen;  *Bijzondere bepaling*  Tot de post behoren niet accijnsgoederen die worden verzonden of vervoerd naar een andere lid-staat ingevolge een levering aan een afnemer waarvoor artikel 3, lid 1, van de BTW-richtlijn 2006 toepassing vindt, tenzij de verzending of het vervoer van de accijnsgoederen geschiedt overeenkomstig artikel 7, leden 4 en 5, of artikel 16 van richtlijn nr. 92/12/EEG van de Raad van de Europese Gemeenschappen van 25 februari 1992 betreffende de algemene regeling voor accijnsprodukten, het voorhanden hebben en het verkeer daarvan en de controles daarop (*PbEG* L 76);  
+6. goederen die worden vervoerd naar een andere lid-staat, wanneer deze goederen aldaar zijn onderworpen aan heffing van belasting ter zake van intracommunautaire verwerving van die goederen;  *Bijzondere bepaling*  Tot de post behoren niet accijnsgoederen die worden verzonden of vervoerd naar een andere lid-staat ingevolge een levering aan een afnemer waarvoor artikel 3, lid 1, van de BTW-richtlijn 2006 toepassing vindt, tenzij de verzending of het vervoer van de accijnsgoederen geschiedt overeenkomstig de artikelen 19 of 34 van Richtlijn 2008/118/EG van de Raad van 16 december 2008 houdende een algemene regeling inzake accijns en houdende intrekking van Richtlijn 92/12/EEG (PbEU 2009, L 9);  
 
 7. 
 
@@ -1932,7 +1992,7 @@ b. minerale oliën waarvoor in [artikel 27 van de Wet op de accijns](../../../..
 
 1°. het buiten de accijnsgoederenplaats brengen van de minerale oliën ingevolge de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) niet als uitslag is of wordt aangemerkt;  
 
-2°. voor het vervoer van de minerale oliën ingevolge de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) een geleidedocument is afgegeven als bedoeld in de verordening (EEG) nr. 2719/92 van de Raad van de Europese Gemeenschappen van 11 september 1992 (*PbEG* L 276); en  
+2°. voor het vervoer van de minerale oliën ingevolge de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) een document is afgegeven als bedoeld in Verordening (EG) nr. 684/2009 van de Commissie van 24 juli 2009 tot uitvoering van Verordening 2008/118/EG van de Raad wat betreft de geautomatiseerde procedures voor de overbrenging van accijnsgoederen onder schorsing van accijns (PbEU 2009, L 197); en  
 
 3°. de minerale oliën niet worden vervoerd naar een andere lid-staat noch worden uitgevoerd of opgeslagen in een entrepot;      *Bijzondere bepaling*  Op verzoek wordt, onder bij ministeriële regeling te stellen voorwaarden, een accijnsgoederenplaats voor minerale oliën aangewezen voor een bijzondere regeling ingevolge welke de voorwaarden die zijn gesteld ter zake van de onder a bedoelde leveringen van accijnsgoederen die zich bevinden in een accijnsgoederenplaats, niet van toepassing zijn. Bij de uitslag van die minerale oliën in de zin van de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) wordt de belasting geheven ter zake van de daaraan voorafgaande levering naar het zonder de toepassing van deze post geldende tarief. Daarbij wordt de maatstaf van heffing verhoogd met de ter zake van de uitslag verschuldigde accijns en de vergoeding voor de diensten die na die levering met betrekking tot de minerale oliën met toepassing van tabel II, onderdeel b, post 1, zijn verricht. De belasting wordt geheven van de ondernemer aan wie die levering is verricht en is door deze verschuldigd op het tijdstip van de uitslag.  
 

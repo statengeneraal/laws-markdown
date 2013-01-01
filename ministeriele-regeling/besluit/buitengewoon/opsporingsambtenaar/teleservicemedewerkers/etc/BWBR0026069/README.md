@@ -15,11 +15,7 @@ Gelet op:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder de buitengewoon opsporingsambtenaar: 
-
-1. De ambtenaren van de regiopolitie Twente werkzaam in de functie van medewerker publiekservice als ‘teleservicemedewerker’ zijn aangewezen als buitengewoon opsporingsambtenaar.  
-
-2. Aan de buitengewoon opsporingsambtenaar wordt op grond van het gestelde in het onderdeel Beperkte opsporingsbevoegdheden van [bijlage B-IV van de Circulaire Buitengewoon opsporingsambtenaar](../../../../../../../circulaire/circulaire/buitengewoon/opsporingsambtenaar/BWBR0027483/README.md), ontheffing verleend van het bepaalde in artikel 16, eerste lid, van het Besluit buitengewoon opsporingsambtenaar, onder de voorwaarde dat een certificaat is overgelegd, waaruit blijkt dat betrokkene met goed gevolg binnen een periode van 5 jaar voorafgaande aan de aanvraag heeft deelgenomen aan een op deze functie gerichte interne opleiding.    
+Als buitengewoon opsporingsambtenaar worden aangewezen de ambtenaren van politie, bedoeld in [artikel 2, onder b, van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), werkzaam in de functie van medewerker publiekservice als ‘teleservicemedewerker’, die hun werkgebied hebben in de regionale eenheid Oost-Nederland, voorheen Twente.  
 
 ### Artikel  2  
 
@@ -29,17 +25,16 @@ In dit besluit wordt verstaan onder de buitengewoon opsporingsambtenaar:
 
 ### Artikel  3  
 
-1.  De korpschef van het regionaal politiekorps Twente is bevoegd tot de beëdiging van de buitengewoon opsporingsambtenaar.   
-2.  Op grond van dit besluit kunnen maximaal 40 personen als buitengewoon opsporingsambtenaar worden beëdigd.   
+Op grond van dit besluit kunnen maximaal 40 personen als buitengewoon opsporingsambtenaar worden beëdigd.  
 
 ### Artikel  4  
 
-1.  Als toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de hoofdofficier van justitie bij het arrondissementsparket te Almelo.   
-2.  Als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de korpschef van het regionaal politiekorps Twente.   
+1.  Als toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de hoofdofficier van justitie bij het arrondissementsparket Oost-Nederland.   
+2.  Als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).   
 
 ### Artikel  5  
 
-1.  De Korpschef van de regiopolitie Twente brengt jaarlijks, voor 1 april, met betrekking tot de onder diens verantwoordelijkheid werkzame buitengewoon opsporingsambtenaren verslag uit over: 
+1.  De Korpschef brengt jaarlijks, voor 1 april, met betrekking tot de onder diens verantwoordelijkheid werkzame buitengewoon opsporingsambtenaren verslag uit over: 
 
 a. het aantal buitengewoon opsporingsambtenaren werkzaam in de artikel 1 genoemde functie;  
 

@@ -139,7 +139,7 @@ c. sinds het in artikel 10 bedoelde onderscheid een zodanige termijn is verstrek
 
 ### Artikel  16  
 
-1.   Dit lid is nog niet in werking getreden.    
+1.  De leden en de plaatsvervangende leden van het College worden benoemd bij koninklijk besluit, op voordracht van Onze Minister van Veiligheid en Justitie.   
 2.  Ten behoeve van de voordracht adviseert de raad in overeenstemming met het College Onze Minister van Veiligheid en Justitie, rekening houdend met de noodzaak van een deskundig en onafhankelijk College, alsmede met het streven naar een divers samengesteld College.   
 3.  Een vacature voor een lid of plaatsvervangend lid en de te volgen selectieprocedure worden door het College openbaar gemaakt. Het College en de raad brengen de vacature tevens onder de aandacht van maatschappelijke organisaties die zich de bescherming aantrekken van een of meer rechten van de mens.   
 
@@ -147,7 +147,7 @@ c. sinds het in artikel 10 bedoelde onderscheid een zodanige termijn is verstrek
 
 1.  De [artikelen 46c](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d, tweede lid](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46f](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46g](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46h, eerste en tweede lid](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46i, met uitzondering van het eerste lid, onderdeel c](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46j](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l, met uitzondering van het eerste lid, onderdeel c](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46m](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46n](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46o](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en [46p van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) zijn van overeenkomstige toepassing op de leden en plaatsvervangende leden van het College, met dien verstande dat: 
 
-a. de disciplinaire maatregel, bedoeld in [artikel 46c, eerste lid](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), ten aanzien van de voorzitter van het College door de president van het gerechtshof te ’s-Gravenhage en ten aanzien van de overige leden en plaatsvervangende leden door de voorzitter van het College wordt opgelegd;  
+a. de disciplinaire maatregel, bedoeld in [artikel 46c, eerste lid](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), ten aanzien van de voorzitter van het College door de president van het gerechtshof Den Haag en ten aanzien van de overige leden en plaatsvervangende leden door de voorzitter van het College wordt opgelegd;  
 
 b. het in [artikel 46c, eerste lid, onderdeel b](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), genoemde verbod zich in een onderhoud of een gesprek in te laten met partijen of haar advocaten of gemachtigden of een bijzondere inlichting of schriftelijk stuk van hen aan te nemen niet op de leden en de plaatsvervangende leden van het College van toepassing is;  
 
@@ -156,6 +156,14 @@ c. in de [artikelen 46j](../../../../../../../../../../wet/wet/rechtspositie/rec
 3.  Onverminderd [artikel 9 van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) komen voor benoeming als lid of plaatsvervangend lid, ambtenaren die werken onder de verantwoordelijkheid van een Onzer Ministers niet in aanmerking.   
 4.  [Artikel 13 van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is van overeenkomstige toepassing op de plaatsvervangende leden van het College.   
 5.  Onverminderd [artikel 14, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) worden bij algemene maatregel van bestuur nadere regels gesteld over de rechtspositie van de leden, waaronder in elk geval regels betreffende hun beëdiging, vakantie, verlof, bedrijfsgeneeskundige begeleiding en voorzieningen bij ziekte en arbeidsongeschiktheid, en kunnen nadere regels worden gesteld over de rechtspositie van de plaatsvervangende leden.   
+
+### Artikel  17a  
+
+De [artikelen 13a tot en met 13g van de Wet op de rechterlijke organisatie](../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) zijn van overeenkomstige toepassing ten aanzien van gedragingen van de leden en plaatsvervangende leden van het College, met dien verstande dat: 
+
+a. voor de overeenkomstige toepassing van die artikelen onder «het betrokken gerechtsbestuur» wordt verstaan: de voorzitter van het College;  
+
+b. voor de overeenkomstige toepassing van [artikel 13b, eerste lid, onderdelen b en c](../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), onder «overeenkomstig [artikel 26](../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) of [75](../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) een klacht» wordt verstaan: een klacht.    
 
 ### Artikel  18  
 
@@ -206,10 +214,6 @@ Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt zo spoedig mog
 ### Hoofdstuk  5  
 
 ####Wijziging van deze wet en andere wetten
-
-### Artikel  23a  
-
-Wijzigt de Aanpassingswet modernisering rechterlijke organisatie.   
 
 ### Artikel  24  
 

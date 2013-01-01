@@ -370,10 +370,6 @@ Een waarborginstelling is verplicht kosteloos aan een ieder inlichtingen te geve
 
 ####BEROEP
 
-### Artikel  63  
-
-Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.  
-
 ### HOOFDSTUK  VII  
 
 ####OVERIGE BEPALINGEN

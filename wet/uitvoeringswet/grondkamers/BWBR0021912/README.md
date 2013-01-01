@@ -16,6 +16,10 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Er zijn grondkamers, waarvan het rechtsgebied en de standplaats door Ons worden aangewezen.  
 
+### Artikel  1a  
+
+Op de grondkamers is de [Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing, met uitzondering van de [artikelen 12](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [14](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [21](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [22](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).  
+
 ### Artikel  2  
 
 1.  De grondkamer bestaat uit een voorzitter en ten minste vier en ten hoogste twaalf leden. Zij wordt bijgestaan door een secretaris.   
@@ -26,7 +30,7 @@ Er zijn grondkamers, waarvan het rechtsgebied en de standplaats door Ons worden 
 
 1.  Wij benoemen en ontslaan de voorzitter, de plaatsvervangende voorzitter, de leden, de secretaris alsmede de plaatsvervangende leden en de plaatsvervangende secretarissen.   
 2.  De leden en de plaatsvervangende leden worden benoemd voor de tijd van vijf jaren. Zij zijn bij hun aftreden opnieuw benoembaar. Op eigen verzoek kunnen zij door Ons worden ontslagen.   
-3.  Voor de benoeming van een lid of van een plaatsvervangend lid maken Gedeputeerde Staten een aanbeveling op.   
+3.  Voor de benoeming van een lid of van een plaatsvervangend lid maakt de grondkamer een aanbeveling op.   
 4.  Bij de benoeming van de leden en de plaatsvervangende leden dragen Wij zorg, dat in de grondkamer het belang van de pachters, noch dat van de verpachters overheerst.   
 5.  De in het eerste lid bedoelde personen worden voor de aanvang hunner bediening beëdigd.   
 6.  Bij het bereiken van de ouderdom van zeventig jaren wordt aan de voorzitter, de plaatsvervangende voorzitter, de leden en plaatsvervangende leden ontslag verleend met ingang van de eerstvolgende maand.   
@@ -54,7 +58,7 @@ a. bij overtreding van de artikelen 6 en 7;
 
 b. wanneer zij in staat van faillissement zijn verklaard, ten aanzien van hen de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, zij surséance van betaling hebben verkregen of wegens schulden zijn gegijzeld.     
 3.  Alvorens het ontslag op grond van het in de voorgaande leden bepaalde wordt verleend, wordt de betrokkene gehoord.   
-4.  Wanneer zich een van de omstandigheden voordoet, als bedoeld in het tweede lid, zijn Onze Ministers van Justitie en van Landbouw, Natuur en Voedselkwaliteit bevoegd de betrokkene in de uitoefening van zijn ambt terstond te schorsen. De schorsing mag een termijn van drie maanden niet overschrijden. Op deze termijn is de [Algemene termijnenwet](../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) niet van toepassing.   
+4.  Wanneer zich een van de omstandigheden voordoet, als bedoeld in het tweede lid, zijn Onze Ministers van Veiligheid en Justitie en van Economische Zaken, Landbouw en Innovatie bevoegd de betrokkene in de uitoefening van zijn ambt terstond te schorsen. De schorsing mag een termijn van drie maanden niet overschrijden. Op deze termijn is de [Algemene termijnenwet](../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) niet van toepassing.   
 5.  Wanneer tijdens de in het vierde lid bedoelde schorsing het besluit tot ontslag wordt genomen, blijft de schorsing van kracht tot het tijdstip, waarop het ontslag ingaat.   
 
 ### Artikel  6  
@@ -64,7 +68,7 @@ b. wanneer zij in staat van faillissement zijn verklaard, ten aanzien van hen de
 
 ### Artikel  7  
 
-1.  Het is de voorzitter en de secretaris verboden zich te belasten met de consultatie omtrent en de verdediging van zaken, welke bij enige grondkamer of pachtkamer, bij de Centrale Grondkamer of bij de pachtkamer van het gerechtshof te Arnhem aanhangig zijn, of waarvan zij weten of vermoeden, dat deze daarbij aanhangig zullen worden.   
+1.  Het is de voorzitter en de secretaris verboden zich te belasten met de consultatie omtrent en de verdediging van zaken, welke bij enige grondkamer of pachtkamer, bij de Centrale Grondkamer of bij de pachtkamer van het gerechtshof Arnhem-Leeuwarden aanhangig zijn, of waarvan zij weten of vermoeden, dat deze daarbij aanhangig zullen worden.   
 2.  Het is de plaatsvervangende voorzitter, de plaatsvervangende secretaris, de leden en de plaatsvervangende leden verboden zich te belasten met de consultatie omtrent en de verdediging van zaken, welke aanhangig zijn of waarvan zij weten of vermoeden, dat deze aanhangig zullen worden bij de grondkamer, waartoe zij behoren, of bij de Centrale Grondkamer, in het laatste geval voor zover het betreft zaken, aan de behandeling waarvan zij in de grondkamer hebben deelgenomen.   
 
 ### Artikel  8  
@@ -83,7 +87,7 @@ Er is een Centrale Grondkamer, gevestigd te Arnhem.
 
 ### Artikel  11  
 
-De tot de rechterlijke macht behorende leden, de deskundige leden en de plaatsvervangende deskundige leden van de pachtkamer van het gerechtshof te Arnhem zijn van rechtswege tevens lid, onderscheidenlijk plaatsvervangend lid, van de Centrale Grondkamer.  
+De tot de rechterlijke macht behorende leden, de deskundige leden en de plaatsvervangende deskundige leden van de pachtkamer van het gerechtshof Arnhem-Leeuwarden zijn van rechtswege tevens lid, onderscheidenlijk plaatsvervangend lid, van de Centrale Grondkamer.  
 
 ### Artikel  12  
 
@@ -135,16 +139,16 @@ Het verzoek tot goedkeuring van een ontwerp-pachtovereenkomst of van een ontwerp
 
 ### Artikel  20  
 
-1.  Bij het verzoek, bedoeld in [artikel 381, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), wordt een verklaring overgelegd van burgemeester en wethouders, waaruit blijkt, dat die doeleinden niet in strijd zijn met een geldend of een in ontwerp ter inzage gelegd bestemmingsplan. Deze verklaring kan slechts worden afgegeven nadat Gedeputeerde Staten daartoe hun toestemming hebben gegeven.   
+1.  Bij het verzoek, bedoeld in [artikel 381, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), wordt een verklaring overgelegd van burgemeester en wethouders, waaruit blijkt, dat die doeleinden niet in strijd zijn met een geldend of een in ontwerp ter inzage gelegd bestemmingsplan.   
 2.  Indien de Staat, een provincie, een gemeente, een waterschap, een veenschap of een veenpolder de in [artikel 381, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) bedoelde derde is, zijn slechts Gedeputeerde Staten bevoegd de in dat lid bedoelde verklaring af te geven.   
-3.  Het bevoegde college beslist binnen drie weken na de indiening van het verzoek, onderscheidenlijk binnen drie weken na de ontvangst van de toestemming van Gedeputeerde Staten. Indien burgemeester en wethouders binnen de gestelde termijn geen beslissing hebben genomen, kan de afgifte van de verklaring worden gevraagd aan Gedeputeerde Staten, die binnen zes weken nadien beslissen.   
+3.  Het bevoegde college beslist binnen drie weken na de indiening van het verzoek.   
 4.  De in dit artikel bedoelde verklaringen zijn slechts geldig gedurende zes maanden na de dagtekening daarvan, tenzij de verklaring zelf een kortere geldigheidsduur vermeldt.   
-5.  De verklaring, bedoeld in het tweede lid, vermeldt tevens de datum van de terinzagelegging en de datum en wijze van bekendmaking daarvan, alsmede de datum en het nummer van de door Gedeputeerde Staten verleende toestemming.   
+5.  De verklaring, bedoeld in het eerste of tweede lid, vermeldt tevens de datum van de terinzagelegging en de datum en wijze van bekendmaking daarvan.   
 6.  De grondkamer neemt een verklaring, waarin een of meer van de in het vijfde lid bedoelde gegevens ontbreken, niet in aanmerking.   
 
 ### Artikel  21  
 
-1.  De verzoeken, bedoeld in de [artikelen 385](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [404, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), worden gedaan bij een verzoekschrift, dat bij de grondkamer wordt ingediend.   
+1.  De verzoeken, bedoeld in de [artikelen 385](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [399e, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), worden gedaan bij een verzoekschrift, dat bij de grondkamer wordt ingediend.   
 2.  Het verzoekschrift vermeldt de naam, de voornamen en de woonplaats van de verzoeker, voorts de gronden, waarop het verzoek steunt en de gevraagde beslissing.   
 
 ### Artikel  22  
@@ -264,7 +268,7 @@ De voorzitter en de leden van de grondkamers alsmede hun plaatsvervangers kunnen
 
 ### Artikel  40  
 
-1.  Onze Minister van Landbouw, Natuur en Voedselkwaliteit kan beroep tegen een beschikking van de grondkamer instellen.   
+1.  Onze Minister van Economische Zaken, Landbouw en Innovatie kan beroep tegen een beschikking van de grondkamer instellen.   
 2.  Het beroep kan slechts worden ingesteld na verloop van de termijn, genoemd in artikel 36, eerste lid.   
 3.  Vernietiging van de beschikking van de grondkamer op dit beroep brengt geen nadeel toe aan de rechten, bij de beschikking verkregen.   
 
@@ -284,11 +288,6 @@ Competentie-geschillen tussen grondkamers worden door de Centrale Grondkamer bes
 
 Bij algemene maatregel van bestuur worden regelen gesteld over de wijze waarop de kennisgevingen en de toezending van stukken door de secretaris van de grondkamer en door de griffier van de Centrale Grondkamer geschieden.  
 
-### Artikel  43  
-
-1.  De grondkamer binnen het rechtsgebied waarvan een waterschap geheel of gedeeltelijk is gelegen, verstrekt op verzoek van dit waterschap de gegevens die deze, voor zover bij de grondkamer voorhanden, nodig heeft in verband met het bijhouden van het register, bedoeld in [artikel 29 van de Waterschapswet](../../../../wet/waterschapswet/BWBR0005108/README.md).   
-2.  Omtrent de wijze van het verzoek en de wijze van gegevensverstrekking, bedoeld in het eerste lid, kunnen bij algemene maatregel van bestuur regels worden gesteld.   
-
 ### Artikel  44  
 
 1.  Bij algemene maatregel van bestuur wordt een tarief vastgesteld van de door de grondkamers en de Centrale Grondkamer voor haar verrichtingen te heffen kosten.   
@@ -300,7 +299,7 @@ Bij algemene maatregel van bestuur worden regelen gesteld over de wijze waarop d
 
 ### Artikel  45  
 
-Indien binnen de in de wet gestelde termijn een verzoek is ingediend of een vordering is ingesteld bij de pachtkamer van de rechtbank en deze beslist, dat zij niet bevoegd is daarvan kennis te nemen, kan het verzoek, indien de grondkamer bevoegd is daarvan kennis te nemen en een wettelijke termijn, waarbinnen het verzoek bij de grondkamer moet worden ingediend, niet meer in acht kan worden genomen, niettemin nog binnen een maand na de beslissing van de pachtkamer bij de grondkamer worden ingediend. Hetzelfde geldt, indien een dergelijke beslissing door de pachtkamer van het gerechtshof te Arnhem wordt bevestigd dan wel door haar de pachtkamer bij de rechtbank alsnog niet bevoegd wordt verklaard van het verzoek of van de vordering kennis te nemen.  
+Indien binnen de in de wet gestelde termijn een verzoek is ingediend of een vordering is ingesteld bij de pachtkamer van de rechtbank en deze beslist, dat zij niet bevoegd is daarvan kennis te nemen, kan het verzoek, indien de grondkamer bevoegd is daarvan kennis te nemen en een wettelijke termijn, waarbinnen het verzoek bij de grondkamer moet worden ingediend, niet meer in acht kan worden genomen, niettemin nog binnen een maand na de beslissing van de pachtkamer bij de grondkamer worden ingediend. Hetzelfde geldt, indien een dergelijke beslissing door de pachtkamer van het gerechtshof Arnhem-Leeuwarden wordt bevestigd dan wel door haar de pachtkamer bij de rechtbank alsnog niet bevoegd wordt verklaard van het verzoek of van de vordering kennis te nemen.  
 
 ### Hoofdstuk  6  
 

@@ -12,21 +12,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. de Minister: de Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
+a. de Minister: de Minister van Veiligheid en Justitie;  
 
 b. het LSOP: het Landelijk selectie-en opleidingsinstituut politie, Politieonderwijs- en kenniscentrum, genoemd in [artikel 2 van de Wet op het LSOP en het politieonderwijs](../../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md);  
 
-c. initiële opleidingen: de door de Minister in overeenstemming met de Minister van Justitie aangewezen opleidingen voor ambtenaren van politie, gericht op de voorbereiding van de uitoefening van algemene politietaken, waarvoor in het kader van de landelijke kwalificatiestructuur, bedoeld in [artikel 14 van de Wet op het LSOP en het politieonderwijs](../../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md), competentiegerichte eindtermen zijn vastgesteld;  
+c. initiële opleidingen: de door de Minister aangewezen opleidingen voor ambtenaren van politie, gericht op de voorbereiding van de uitoefening van algemene politietaken, waarvoor in het kader van de landelijke kwalificatiestructuur, bedoeld in [artikel 14 van de Wet op het LSOP en het politieonderwijs](../../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md), competentiegerichte eindtermen zijn vastgesteld;  
 
 d. student: degene die deelneemt aan een initiële opleiding;.  
 
-e. postinitiële opleidingen: de door de Minister, en voor zover het vervolgopleidingen betreft op het terrein van de strafrechtelijke handhaving van de rechtsorde dan wel de taken ten dienste van de justitie de door de Minister in overeenstemming met de Minister van Justitie, aangewezen opleidingen voor ambtenaren van politie of andere door de Minister in overeenstemming met de Minister van Justitie aan te wijzen categorieën van personen, gericht op de voorbereiding van de uitoefening van specialistische en leidinggevende politietaken, waarvoor in het kader van de landelijke kwalificatiestructuur, bedoeld in [artikel 14 van de Wet op het LSOP en het politieonderwijs](../../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md), competentiegerichte eindtermen zijn vastgesteld;  
+e. post-initiële opleidingen: de door de Minister aangewezen opleidingen voor ambtenaren van politie of andere door de Minister aan te wijzen categorieën van personen, gericht op de voorbereiding van de uitoefening van specialistische en leidinggevende politietaken, waarvoor in het kader van de landelijke kwalificatiestructuur, bedoeld in [artikel 14 van de Wet op het LSOP](../../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md) en het politieonderwijs, competentiegerichte eindtermen zijn vastgesteld;  
 
 f. college van bestuur: het college van bestuur, genoemd in [artikel 5 van de Wet op het LSOP en het politieonderwijs](../../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md);  
 
 g. raad van toezicht: de raad van toezicht, genoemd in [artikel 7 van de Wet op het LSOP en het politieonderwijs](../../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md);  
 
-h. praktisch opleidingsdeel: de periode of perioden waarin de studenten de politietaak bij een regionaal politiekorps of bij het Korps landelijke politiediensten uitoefenen in het kader van de initiële en postinitiële opleidingen;  
+h. praktisch opleidingsdeel: de periode of perioden waarin de studenten de politietaak bij de politie uitoefenen in het kader van de initiële en postinitiële opleidingen;  
 
 i. politieonderwijsraad: het advies- en afstemmingsorgaan, genoemd in [artikel 19 van de Wet op het LSOP en het politieonderwijs](../../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md);  
 

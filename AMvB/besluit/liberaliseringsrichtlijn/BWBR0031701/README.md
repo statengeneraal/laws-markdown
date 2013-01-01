@@ -64,7 +64,7 @@ Bij de vaststelling of er sprake is van het in gedrang komen van het economisch 
 
 a. het aantal reizigers in betekenisvolle mate afneemt indien de in artikel 4, derde lid, bedoelde economische analyse dat aannemelijk maakt, en  
 
-b. de omzet van een concessiehouder in betekenisvolle mate afneemt indien de de artikel 4, derde lid, bedoelde economische analyse dat aannemelijk maakt.    
+b. de omzet van een concessiehouder in betekenisvolle mate afneemt indien de in artikel 4, derde lid, bedoelde economische analyse dat aannemelijk maakt.    
 
 ### Artikel  7  
 

@@ -52,7 +52,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 – de leden van de Raden van bestuur van het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank, bedoeld in de [Wet structuur uitvoeringsorganisatie werk en inkomen](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
-– de voorzitter en de plaatsvervangende voorzitter van het Nederlands Instituut van Registeraccountants, de leden van het bestuur van dit lichaam en de leden van de andere bij of krachtens de [Wet op de Registeraccountants](../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md) ingestelde colleges;  
+– de Nederlandse beroepsorganisatie van accountants, de leden van het bestuur van dit lichaam en de leden van andere bij of krachtens de [Wet op het accountantsberoep](../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) ingestelde colleges;  
 
 – de voorzitter, de ondervoorzitter en de andere leden van het bestuur van de Organisatie ter verbetering van de binnenvisserij;  
 
@@ -60,15 +60,13 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 – de voorzitter en de leden van het College bouw zorginstellingen en het College sanering zorginstellingen, bedoeld in de [Wet toelating zorginstellingen](../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md);  
 
-– de voorzitter en de plaatsvervangende voorzitter van de Nederlandse Orde van Accountants-Administratieconsulenten, de leden van het bestuur van dit lichaam en de leden van de andere bij of krachtens de [Wet op de Accountants-Administratieconsulenten](../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) ingestelde colleges;  
-
 – de voorzitter en de leden van de Nederlandse Zorgautoriteit, bedoeld in de [Wet marktordening gezondheidszorg](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
 
 – militaire ambtenaren;  
 
 – onbezoldigde ambtenaren, behorende tot het personeel van de buitenlandse dienst;  
 
-– de leden van de Commissie gelijke behandeling, bedoeld in de [Algemene wet gelijke behandeling](../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md);  
+– de leden en de plaatsvervangende leden van het College voor de rechten van de mens;  
 
 – de leden van een adviescollege als bedoeld in de [Kaderwet adviescolleges](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md), niet zijnde een adviescollege als bedoeld in [artikel 3 van die wet](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md);  
 
@@ -82,15 +80,15 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 – de leden van de KNMI-raad, bedoeld in [artikel 11 van de Wet op het Koninklijk Nederlands Meteorologisch Instituut](../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md);  
 
-– de leden en de plaatsvervangende leden van de Raad voor werk en inkomen, bedoeld in de [Wet structuur uitvoeringsorganisatie werk en inkomen](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
-
 – het lid van het Centraal Bestuur voor de Arbeidsvoorziening, bedoeld in de [Arbeidsvoorzieningswet 1996](../../../wet/arbeidsvoorzieningswet/1996/BWBR0008367/README.md);  
 
 – de deskundige leden, bedoeld in de [artikelen 48, derde lid](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [55a, tweede lid](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [66, tweede en derde lid](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [67, derde lid](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [69, tweede lid](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en [70, tweede lid, van de Wet op de rechterlijke organisatie](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), de militaire leden, bedoeld in de [artikelen 54, derde lid](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [55, tweede lid](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en [68, tweede lid, van diezelfde wet](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en hun plaatsvervangers;  
 
 – de leden van zelfstandige bestuursorganen aan wie een schadeloosstelling als bedoeld in [artikel 14, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is toegekend;  
 
-– de buitengriffiers en de waarnemend griffiers, bedoeld in de [artikelen 14, vierde lid](../../../wet/wet/op/de/rechterlijke/indeling/BWBR0002080/README.md), en [73, tweede lid, van de Wet op de rechterlijke organisatie](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md).     
+– de buitengriffiers en de waarnemend griffiers, bedoeld in de [artikelen 14, vierde lid](../../../wet/wet/op/de/rechterlijke/indeling/BWBR0002080/README.md), en [73, tweede lid, van de Wet op de rechterlijke organisatie](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md);  
+
+– de voorzitter en de leden van het CAK, genoemd in [artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).     
 2.  De artikelen 125, 125bis, 125ter, 125quater, 125quinquies, 125a, 125c, 125d, 125f en 126 zijn niet van toepassing op de rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b, onderdelen 5° tot en met 9°, van de Wet op de rechterlijke organisatie](../../../wet/wet/op/de/rechterlijke/indeling/BWBR0002080/README.md), en de rechterlijke ambtenaren in opleiding, bedoeld in [artikel 145 van diezelfde wet](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md).   
 
 ### Titel  II  
@@ -269,7 +267,7 @@ De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen 
 
 1.  Het bevoegd gezag mag geen onderscheid maken tussen ambtenaren op grond van een verschil in arbeidsduur in de voorwaarden waaronder een aanstelling wordt verleend, verlengd dan wel beëindigd, tenzij een dergelijk onderscheid objectief gerechtvaardigd is.   
 2.  Het bevoegd gezag mag het dienstverband met de ambtenaar niet beëindigen wegens de omstandigheid dat betrokkene in of buiten rechte een beroep heeft gedaan op het eerste lid of terzake bijstand heeft verleend.   
-3.  De Commissie gelijke behandeling, genoemd in [artikel 11 van de Algemene wet gelijke behandeling](../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in dit artikel. De [artikelen 12](../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), [13](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [14](../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), en [15 van de Algemene wet gelijke behandeling](../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md) zijn van overeenkomstige toepassing.   
+3.  Het College, genoemd in [artikel 1 van de Wet College voor de rechten van de mens](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in dit artikel. De [artikelen 10](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [11](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [12](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [13](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [22](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md) en [23 van de Wet College voor de rechten van de mens](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md) zijn van overeenkomstige toepassing.   
 4.  Het bevoegd gezag mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op het bepaalde in het eerste lid of terzake bijstand heeft verleend.   
 
 ### Artikel  125h  
@@ -277,20 +275,13 @@ De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen 
 1.  Het bevoegd gezag mag geen onderscheid maken tussen ambtenaren in de arbeidsvoorwaarden op grond van het al dan niet tijdelijk karakter van de aanstelling, tenzij een dergelijk onderscheid objectief gerechtvaardigd is.   
 2.  Het bevoegd gezag stelt de ambtenaar die is aangesteld in tijdelijke dienst tijdig en duidelijk in kennis van een vacature met een dienstverband voor onbepaalde tijd.   
 3.  Het bevoegd gezag mag het dienstverband met de ambtenaar niet beëindigen wegens de omstandigheid dat betrokkene in of buiten rechte een beroep heeft gedaan op het bepaalde in het eerste lid of terzake bijstand heeft verleend.   
-4.  De Commissie gelijke behandeling, bedoeld in [artikel 11 van de Algemene wet gelijke behandeling](../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in het eerste lid. De [artikelen 12](../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), [13](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [14](../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), en [15 van de Algemene wet gelijke behandeling](../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md) zijn van overeenkomstige toepassing.   
+4.  Het College, genoemd in [artikel 1 van de Wet College voor de rechten van de mens](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in het eerste lid. De [artikelen 10](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [11](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [12](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [13](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [22](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md) en [23 van de Wet College voor de rechten van de mens](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md) zijn van overeenkomstige toepassing.   
 5.  Het bevoegd gezag mag de ambtenaar niet benadelen wegens de omstandigheid dat de ambtenaar in of buiten rechte een beroep heeft gedaan op het bepaalde in het eerste lid of terzake bijstand heeft verleend.   
 
 ### Artikel  126  
 
-1.  Indien het bevoegd gezag eener provincie nalatig blijft aan artikel 125 of 125quinquies uitvoering te geven, of wel, ingeval Wij aanvulling, wijziging of intrekking van gegeven uitvoeringsvoorschriften gewenscht achten, zoodanige aanvulling, wijziging of intrekking ondanks daartoe strekkende aanmaning binnen een te stellen termijn van ten minste drie maanden niet tot stand brengt, zijn Wij bevoegd Gedeputeerde Staten uit te noodigen het noodzakelijk besluit vast te stellen. Blijven ook Gedeputeerde Staten in gebreke, of, ingeval aan hen in de reglementen der waterschappen het geven van uitvoering aan artikel 125 of 125quinquies is opgedragen, blijven zij daarin nalatig of brengen zij de door Ons gewenschte aanvulling, wijziging of intrekking niet tot stand in voege en binnen een termijn als vorenomschreven, zoo geschiedt de vaststelling door Ons. Een ingevolge dit lid vastgesteld besluit wordt geacht van het bevoegd gezag afkomstig te zijn. De afkondiging geschiedt binnen veertien dagen, nadat het besluit door het bevoegd gezag is ontvangen; in het gebruikelijke formulier van afkondiging worden daarbij de noodzakelijke wijzigingen aangebracht.   
-2.  Voordat wordt overgegaan tot de in het eerste lid bedoelde aanmaning tot aanvulling, wijziging of intrekking van gegeven uitvoeringsvoorschriften wordt de Raad van State gehoord. [Artikel 27d van de Wet op de Raad van State](../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) is van overeenkomstige toepassing.   
-3.  Indien het naar Ons oordeel wenselijk is de werking of de verdere werking van uitvoeringsvoorschriften, als in het eerste lid bedoeld, op te schorten, kunnen Wij deze uitvoeringsvoorschriften schorsen. Ons besluit tot schorsing wordt in het *Staatsblad* geplaatst. De schorsing stuit onmiddellijk de werking van de geschorste bepalingen. Zijn Wij binnen een tijdvak van een jaar na de schorsing niet overgegaan tot de in het eerste lid bedoelde aanmaning, dan neemt de schorsing dientengevolge een einde. Gedeputeerde Staten brengen in dat geval het einde der schorsing, voor zover deze een afgekondigd besluit betrof, ter openbare kennis.   
-4.  Ten aanzien van een besluit, dat naar het oordeel van de commissaris van de Koning voor de in het eerste lid bedoelde aanvulling, wijziging of intrekking in aanmerking komt, is het bepaalde in [artikel 266 van de Provinciewet](../../../wet/provinciewet/BWBR0005645/README.md) van overeenkomstige toepassing.   
-5.  De voorgaande leden vinden mede toepassing: 
-
-a. voor de voorschriften, vast te stellen door het bevoegde gezag der gemeenten, met dien verstande dat voor Gedeputeerde Staten, burgemeester en wethouders, en voor de commissaris van de Koning, de burgemeester in de plaats treden en dat in plaats van [artikel 266 van de Provinciewet](../../../wet/provinciewet/BWBR0005645/README.md), [artikel 273 van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md) (*Stb.* 1992, 96) wordt gelezen.  
-
-b. voor de voorschriften vast te stellen door het bevoegd gezag der waterschappen, met dien verstande, dat voor zoover de uitvoering van artikel 125 of 125quinquies geheel of gedeeltelijk aan de besturen der instellingen zelf is overgelaten, de uitnoodiging wordt gericht tot het door Ons aangewezen gezag of een door Ons benoemden bijzonderen commissaris.     
+1.  Indien het bevoegd gezag van een waterschap niet of niet naar behoren uitvoering geeft aan artikel 125 of artikel 125quinquies, zijn de [artikelen 121 tot en met 121g van de Provinciewet](../../../wet/provinciewet/BWBR0005645/README.md) van overeenkomstige toepassing.   
+2.  [Hoofdstuk XVIII van de Provinciewet](../../../wet/provinciewet/BWBR0005645/README.md) is van overeenkomstige toepassing ten aanzien van door het bevoegd gezag van een waterschap krachtens artikel 125 of artikel 125quinquies vastgestelde uitvoeringsvoorschriften.   
 
 ### Titel  IV  
 

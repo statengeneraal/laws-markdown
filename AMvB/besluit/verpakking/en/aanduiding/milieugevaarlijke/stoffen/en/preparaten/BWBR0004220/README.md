@@ -153,7 +153,7 @@ d. preparaten die radioactieve stoffen als omschreven in richtlijn nr. 80/836 /E
 
 e. medische hulpmiddelen die invasief zijn of in direct contact komen met het lichaam, voorzover er communautaire voorschriften voor de indeling en kenmerking van gevaarlijke stoffen en preparaten voorhanden zijn die eenzelfde niveau van informatie en bescherming verzekeren als richtlijn nr. 1999/45/EG van het Europees Parlement en de Raad van de Europese Unie van 31 mei 1999 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (PbEG L 200);  
 
-f. geneesmiddelen als bedoeld in de [Geneesmiddelenwet](../../../../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) en de [Diergeneesmiddelenwet](../../../../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md).    
+f. geneesmiddelen als bedoeld in de [Geneesmiddelenwet](../../../../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) en diergeneesmiddelen als bedoeld in [artikel 1.1 van de Wet dieren](../../../../../../../../../../wet/wet/dieren/BWBR0030250/README.md).    
 
 ### Artikel  8  
 

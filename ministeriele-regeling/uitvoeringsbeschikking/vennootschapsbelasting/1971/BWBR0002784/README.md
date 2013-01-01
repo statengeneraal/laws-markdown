@@ -8,12 +8,12 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Deze regeling geeft uitvoering aan de [artikelen 9](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [10](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [13](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [14a](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [14b](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [21](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [23c](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en [25a van de Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).   
+1.  Deze regeling geeft uitvoering aan de [artikelen 9](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [10](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [13](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [14a](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [14b](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [15g](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [21](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [23c](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en [25a van de Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).   
 2.  Deze regeling verstaat onder de wet: de [Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).   
 
 ### Artikel  2  
 
-De ingevolge [artikel 9, eerste lid, onderdeel f, van de wet](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) te bepalen redelijke rente voor de in artikel 2, eerste lid, onderdeel f, bedoelde ondernemingen van publiekrechtelijke rechtspersonen bedraagt 4,5 percent.  
+De ingevolge [artikel 9, eerste lid, onderdeel f, van de wet](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) te bepalen redelijke rente voor de in [artikel 2, eerste lid, onderdeel g, van de wet](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) bedoelde ondernemingen van publiekrechtelijke rechtspersonen bedraagt 4 percent.  
 
 ### Artikel  2bis  
 
@@ -44,6 +44,11 @@ b. het andere concernlichaam kortlopende kredieten heeft verkregen van zijn leve
 c. door het andere concernlichaam ter financiering van onroerende zaken hypothecaire leningen zijn aangegaan in het land waar deze zaken zijn gelegen.     
 3.  Onder feitelijk van derden aangetrokken vreemd vermogen als bedoeld in het eerste lid, onderdeel b, wordt mede begrepen vreemd vermogen dat verband houdt met door een ander tot het concern behorend lichaam feitelijk van derden aangetrokken vreemd vermogen indien dat andere lichaam om zakelijke redenen het binnen het concern benodigde vreemd vermogen van derden aantrekt.   
 4.  Voor de toepassing van dit artikel wordt als concern aangemerkt de belastingplichtige tezamen met de met hem verbonden lichamen als bedoeld in [artikel 10a, vierde lid, van de wet](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).   
+5.  Het eerste tot en met vierde lid zijn van overeenkomstige toepassing bij de bepaling of, voor de toepassing van [artikel 15g, tweede lid, onderdeel a, van de wet](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), de werkzaamheden van een buitenlandse onderneming als bedoeld in dat artikel, worden aangemerkt als actieve financieringswerkzaamheden, met dien verstande dat: 
+
+a. onder lichaam mede een buitenlandse onderneming wordt verstaan, en  
+
+b. voor de toepassing van het eerste lid, onderdeel b, wordt uitgegaan van het vreemd vermogen is,dat onderscheidenlijk de activa die zijn, toe te rekenen aan de buitenlandse onderneming.     
 
 ### Artikel  2b  
 
@@ -67,6 +72,7 @@ f. het lichaam verricht de voor deze regeling relevante transacties via eigen ba
 2.  Indien het lichaam niet voldoet aan de in het eerste lid, onderdeel b, opgenomen voorwaarde wordt het lichaam geacht aan deze voorwaarde te voldoen indien de belastingplichtige aannemelijk maakt dat het lichaam ten minste in dezelfde mate met feitelijk van derden aangetrokken vreemd vermogen is gefinancierd als het concern waarvan het lichaam deel uitmaakt.   
 3.  Onder feitelijk van derden aangetrokken vreemd vermogen als bedoeld in het eerste lid, onderdeel b, wordt mede begrepen vreemd vermogen dat verband houdt met door een ander tot het concern behorend lichaam feitelijk van derden aangetrokken vreemd vermogen indien dat andere lichaam om zakelijke redenen het binnen het concern benodigde vreemd vermogen van derden aantrekt.   
 4.  Voor de toepassing van dit artikel wordt als concern aangemerkt de belastingplichtige tezamen met de met hem verbonden lichamen, bedoeld in [artikel 10a, vierde lid, van de wet](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).   
+5.  Het eerste tot en met het vierde lid zijn van overeenkomstige toepassing bij de bepaling of, voor de toepassing van [artikel 15g, tweede lid, onderdeel a, van de wet](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), de werkzaamheden van een buitenlandse onderneming als bedoeld in dat artikel, worden aangemerkt als actieve terbeschikkingstellingswerkzaamheden, met dien verstande dat onder lichaam mede een buitenlandse onderneming wordt verstaan.   
 
 ### Artikel  2c  
 

@@ -83,11 +83,6 @@ c. de verkoop van nieuwsbladen en tijdschriften.
 
 Verordeningen van de gemeenteraad kunnen geen betrekking hebben op de openingstijden van winkels op werkdagen tussen 6 uur en 22 uur.  
 
-### Artikel  10  
-
-1.  Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.   
-2.  In afwijking van [artikel 8:2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is het eerste lid voorts van toepassing op een besluit inzake verlening van vrijstelling op grond van artikel 3, derde lid, onder a, voor zover dat besluit aangemerkt wordt als algemeen verbindend voorschrift.   
-
 ### Artikel  11  
 
 De Winkelsluitingswet 1976 wordt ingetrokken.  

@@ -49,7 +49,7 @@ b. de apparatuur is voorzien van een inrichting waarmee het uitgezonden vermogen
 c. indien de apparatuur is voorzien van een inrichting die het, al dan niet in combinatie met het selectieproces, bedoeld onder a, mogelijk maakt om telecommunicatie af te luisteren of op te nemen, dient deze inrichting uitgeschakeld en vergrendeld te zijn;  
 
 d. de apparatuur is geregistreerd bij Onze Minister.     
-2.  De apparatuur, bedoeld in het eerste lid, is opgeslagen bij een door de korpsbeheerder aangewezen onderdeel van het Korps landelijke politiediensten.   
+2.  De apparatuur, bedoeld in het eerste lid, is opgeslagen bij een door de korpschef aangewezen onderdeel van een landelijke eenheid als bedoeld in [artikel 25, eerste lid, onderdeel b, van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).   
 
 ### Artikel  3  
 
@@ -57,7 +57,7 @@ Met de in artikel 2 bedoelde apparatuur wordt gelijkgesteld apparatuur die recht
 
 ### Artikel  4  
 
-1.  Bevoegd tot het gebruik van de apparatuur, bedoeld in artikel 2, is de door de korpsbeheerder van het Korps landelijke politiediensten aangewezen opsporingsambtenaar van het Korps landelijke politiediensten die voldoet aan de door Onze Minister van Justitie vastgestelde eisen betreffende kennis van de juridische, operationele en technische aspecten van het gebruik van de apparatuur.   
+1.  Bevoegd tot het gebruik van de apparatuur, bedoeld in artikel 2, is de door de korpschef aangewezen opsporingsambtenaar die is tewerkgesteld bij een landelijke eenheid als bedoeld in [artikel 25, eerste lid, onderdeel b, van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) die voldoet aan de door Onze Minister van Veiligheid en Justitie vastgestelde eisen betreffende kennis van de juridische, operationele en technische aspecten van het gebruik van de apparatuur.   
 2.  De opsporingsambtenaar maakt van het gebruik van de apparatuur proces-verbaal op. Het proces-verbaal vermeldt: 
 
 a. of gebruik is gemaakt van apparatuur als bedoeld in artikel 2, eerste lid, onder c, en of de inrichting die het mogelijk maakt om telecommunicatie af te luisteren of op te nemen is uitgeschakeld en vergrendeld,  

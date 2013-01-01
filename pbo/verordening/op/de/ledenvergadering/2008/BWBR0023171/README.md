@@ -13,8 +13,7 @@ stelt de volgende verordening vast:
 
 ### Artikel  1  
 
-1.  Jaarlijks, op een door het bestuur te bepalen dag, vindt ten minste één bijeenkomst van de ledenvergadering plaats.   
-2.  Het bestuur draagt er zorg voor dat de volgende punten ieder jaar ten minste één maal geagendeerd worden: 
+1.  Het bestuur draagt er zorg voor dat de volgende punten ieder jaar ten minste één maal geagendeerd worden: 
 
 a. vaststelling van de notulen van de vorige bijeenkomst van de ledenvergadering;  
 
@@ -33,7 +32,7 @@ g. benoeming van bestuursleden;
 h. benoeming uit de leden van het bestuur van de voorzitter, alsmede van een plaatsvervangende voorzitter;  
 
 i. benoeming van leden van de raad voor geschillen.     
-3.  Indien omtrent enig geagendeerd onderwerp genoemd in het tweede lid geen besluit kan worden genomen in de betreffende bijeenkomst van de ledenvergadering, wordt dit agendapunt behandeld op de eerstvolgende ledenvergadering en kan hierover rechtsgeldig worden besloten.   
+2.  Indien omtrent enig geagendeerd onderwerp genoemd in het eerste lid geen besluit kan worden genomen in de betreffende bijeenkomst van de ledenvergadering, wordt dit agendapunt behandeld op de eerstvolgende ledenvergadering en kan hierover rechtsgeldig worden besloten.   
 
 ### Artikel  2  
 
@@ -42,11 +41,11 @@ i. benoeming van leden van de raad voor geschillen.
 
 ### Artikel  3  
 
-In het geval benoemingen, in ieder geval die als bedoeld in artikel 1, tweede lid, door de ledenvergadering moeten geschieden, meldt het bestuur dit ten minste negen weken voor de datum van de betreffende bijeenkomst van de ledenvergadering aan de leden.  
+In het geval benoemingen, in ieder geval die als bedoeld in artikel 1, eerste lid, door de ledenvergadering moeten geschieden, meldt het bestuur dit ten minste negen weken voor de datum van de betreffende bijeenkomst van de ledenvergadering aan de leden.  
 
 ### Artikel  4  
 
-1.  Kandidaten voor de te vervullen vacatures kunnen worden aanbevolen, zowel door het bestuur als door ten minste vijfentwintig leden.   
+1.  Kandidaten voor de te vervullen vacatures kunnen worden aanbevolen, zowel door het bestuur als door ten minste vijftig leden.   
 2.  Het bestuur deelt de namen van de door hem aanbevolen kandidaten aan de leden mede ten minste zes weken voor de datum van de bijeenkomst van de ledenvergadering.   
 3.  De namen van de door leden aanbevolen kandidaten worden uiterlijk drie weken voor de datum van de bijeenkomst van de ledenvergadering bij het bestuur ingediend.   
 
@@ -58,7 +57,7 @@ In het geval benoemingen, in ieder geval die als bedoeld in artikel 1, tweede li
 ### Artikel  6  
 
 1.  De oproeping tot een bijeenkomst van de ledenvergadering geschiedt ten minste veertien volle dagen tevoren door toezending aan alle leden van een agenda, onder vermelding van plaats, dag en aanvangsuur van de vergadering.   
-2.  De agenda en bijbehorende stukken zijn zoveel mogelijk via de website van de Orde te downloaden.   
+2.  De agenda en bijbehorende stukken worden zoveel mogelijk digitaal beschikbaar gesteld.   
 3.  In spoedeisende gevallen ter beoordeling van het bestuur kan de in het eerste lid genoemde termijn worden bekort, met dien verstande dat de termijn van oproeping ten minste vijf werkdagen is.   
 
 ### Artikel  7  
@@ -69,10 +68,11 @@ In het geval benoemingen, in ieder geval die als bedoeld in artikel 1, tweede li
 
 ### Artikel  8  
 
-1.  Leden zijn bevoegd een amendement op een ontwerpverordening voor te stellen tot uiterlijk vijf werkdagen vóór de datum van de bijeenkomst van de ledenvergadering. Een amendement houdt een voorstel tot wijziging van een voorgelegde ontwerpverordening in en wijzigt, als het wordt aangenomen, een bepaling uit, of een gedeelte van, de ontwerpverordening.   
-2.  Een amendement wordt schriftelijk, dan wel langs door het bestuur aan te geven elektronische weg, bij het bestuur ingediend, houdt een nauwkeurige opgave van de voorgestelde wijzigingen in en gaat vergezeld van een korte toelichting.   
-3.  Voor de datum van de bijeenkomst van de ledenvergadering worden de ingediende amendementen door het bestuur op de website van de Orde bekend gemaakt. Ook worden de ingediende amendementen voor aanvang van de vergadering in gedrukte vorm verstrekt.   
-4.  Een amendement wordt ter vergadering behandeld indien het bij aanvang van de vergadering is ondertekend door ten minste tien leden.   
+1.  Het bestuur of de leden zijn bevoegd een amendement op een ontwerpverordening voor te stellen. Een amendement houdt een voorstel tot wijziging van een voorgelegde ontwerpverordening in en wijzigt, als het wordt aangenomen, een bepaling uit, of een gedeelte van, de ontwerpverordening.   
+2.  Een amendement kan tot uiterlijk twee weken vóór de datum van de bijeenkomst van de ledenvergadering worden ingediend.   
+3.  Een amendement wordt schriftelijk, dan wel langs door het bestuur aan te geven elektronische weg, bij het bestuur ingediend, en houdt een nauwkeurige opgave van de voorgestelde wijzigingen in en gaat vergezeld van een korte toelichting.   
+4.  Voor de datum van de bijeenkomst van de ledenvergadering worden de ingediende amendementen door het bestuur op de website van het NIVRA bekend gemaakt.   
+5.  Een amendement dat is ingediend door de leden wordt ter vergadering behandeld indien het een week voor de aanvang van de vergadering is ondertekend door ten minste honderd leden.   
 
 ### 2  
 
@@ -86,13 +86,12 @@ In een bijeenkomst van de ledenvergadering kunnen geen besluiten worden genomen 
 
 1.  Bij verhindering of ontstentenis van de voorzitter van de Orde berust de leiding van de ledenvergadering bij de plaatsvervangend voorzitter.   
 2.  Indien ook de plaatsvervangend voorzitter niet in de gelegenheid is de vergadering te leiden, berust de leiding bij één van de andere bestuursleden, die daartoe door het bestuur wordt aangewezen.   
-3.  Indien geen van de bestuursleden aanwezig is, voorziet de ledenvergadering zelf in haar leiding.   
 
 ### Artikel  11  
 
 1.  Tenzij de voorzitter van de vergadering op grond van bijzondere omstandigheden anders besluit, worden leden tot dertig minuten na de opening van de bijeenkomst van de ledenvergadering toegelaten tot het tekenen van de presentielijst, waarna deze wordt vastgesteld en het aantal aanwezige of vertegenwoordigde stemgerechtigden wordt meegedeeld.   
 2.  Nadat de presentielijst is vastgesteld geldt deze als presentielijst van de vergadering ongeacht of er tijdens de vergadering leden alsnog binnenkomen respectievelijk de vergadering verlaten.   
-3.  Leden die zich na de vaststelling van de presentielijst ter vergadering melden, kunnen niet stemmen. Aan hen verstrekte volmachten komen te vervallen.   
+3.  Leden die zich na de vaststelling van de presentielijst ter vergadering melden, kunnen niet stemmen. Aan hen verstrekte volmachten kunnen niet meer worden uitgeoefend.   
 
 ### Artikel  12  
 
@@ -134,7 +133,7 @@ Een lid voert over hetzelfde onderwerp niet meer dan twee maal, of als de behand
 
 ### Artikel  19  
 
-Indien een stemming plaatsvindt, wordt door het bestuur uit de aanwezige leden een stembureau gevormd, dat op het verloop van de stemming toezicht houdt.  
+Indien een schriftelijke stemming plaatsvindt, wordt door het bestuur uit de vergadering een stembureau aangewezen, dat op het verloop van de stemming toezicht houdt.  
 
 ### Artikel  20  
 
@@ -164,8 +163,8 @@ Indien tijdens de beraadslaging over een ontwerpverordening moties zijn ingedien
 
 ### Artikel  25  
 
-1.  Indien bij een stemming tussen personen niemand de volstrekte meerderheid heeft behaald, vindt een herstemming plaats. Indien ook bij deze stemming niemand de volstrekte meerderheid behaalt, wordt opnieuw gestemd tussen de twee personen, die in deze stemming de meeste stemmen verkregen.   
-2.  Komen door het verkrijgen van een gelijk aantal stemmen meer dan twee personen voor de tweede herstemming in aanmerking, dan beslist het lot tussen diegenen, die een gelijk aantal stemmen op zich hebben verenigd, over de vraag wie van hen aan de herstemming deelneemt of deelnemen.   
+1.  Indien bij een stemming over personen niemand de volstrekte meerderheid heeft behaald, vindt een herstemming plaats. Indien ook bij deze stemming niemand de volstrekte meerderheid behaalt, wordt opnieuw gestemd tussen de twee personen, die in deze stemming de meeste stemmen verkregen.   
+2.  In het geval met toepassing van het eerste lid, tweede volzin meer dan twee personen in aanmerking komen voor de tweede herstemming, dan beslist het lot over deelname aan de tweede herstemming door diegenen die een gelijk aantal stemmen op zich hebben verenigd.   
 3.  Een lid van het stembureau verricht de loting bedoeld in het tweede lid.   
 
 ### 4  

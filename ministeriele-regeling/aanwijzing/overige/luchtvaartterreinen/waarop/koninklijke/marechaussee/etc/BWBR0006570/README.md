@@ -14,6 +14,10 @@ a. Rotterdam, Eelde en Maastricht;
 
 b. Eindhoven en Twente, voor zover het de burgerluchtvaart betreft.    
 
+### Artikel  1a  
+
+Deze regeling berust op [artikel 4, eerste lid, onder c, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
+
 ### Artikel  2  
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 april 1994. Deze regeling wordt gepubliceerd in de Staatscourant en het Algemeen Politieblad.  

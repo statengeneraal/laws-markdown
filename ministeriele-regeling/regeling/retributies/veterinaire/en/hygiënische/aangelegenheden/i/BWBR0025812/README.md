@@ -13,7 +13,7 @@ Besluit:
 
 1.  Voor de toepassing van deze regeling wordt verstaan onder: 
 
-a. *minister:* Minister van Economische Zaken, Landbouw en Innovatie;  
+a. *minister:* Minister van Economische Zaken;  
 
 b. *NVWA:* Nederlandse Voedsel- en Warenautoriteit;  
 
@@ -31,7 +31,7 @@ h. *kwartier:* spanne tijds van één vierde deel van een uur, of een gedeelte d
 
 i. *starttarief:* op de reis- en voorbereidende administratietijd betrekking hebbende retributie;  
 
-j. *Chief Veterinary Officer:* Chief Veterinary Officer, werkzaam bij het Ministerie van Economische Zaken, Landbouw en Innovatie;  
+j. *Chief Veterinary Officer:* Chief Veterinary Officer, werkzaam bij het Ministerie van Economische Zaken;  
 
 k. *certificaat:* schriftelijke of elektronische door of vanwege de NVWA afgegeven verklaring naar aanleiding van de werkzaamheden;  
 
@@ -124,24 +124,24 @@ z. *verordening (EG) nr. 142/2011:* verordening (EG) nr. 142/2011 van de Commiss
 
 ### Artikel  3  
 
-1.  Voor de controle bij invoer, bedoeld in artikel 4 van richtlijn nr. 97/78/EG, en [artikel 3.2.2.4 van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten](../../../../../../../../../ministeriele-regeling/regeling/veterinairrechtelijke/voorschriften/handel/dierlijke/producten/BWBR0019235/README.md), welke plaatsvindt op een werkdag tussen 06:00 uur en 23:00 uur, is de aanbieder een retributie verschuldigd, bestaande uit een tarief van € 0,00968 per kg, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 58,98 en ten hoogste € 453,85 in rekening wordt gebracht.   
+1.  Voor de controle bij invoer, bedoeld in artikel 4 van richtlijn nr. 97/78/EG, en [artikel 3.2.2.4 van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten](../../../../../../../../../ministeriele-regeling/regeling/veterinairrechtelijke/voorschriften/handel/dierlijke/producten/BWBR0019235/README.md), welke plaatsvindt op een werkdag tussen 06:00 uur en 23:00 uur, is de aanbieder een retributie verschuldigd, bestaande uit een tarief van € 0,00987 per kg, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 60,16 en ten hoogste € 462,93 in rekening wordt gebracht.   
 2.  Voor een invoercontrole als bedoeld in artikel 9, eerste lid, van richtlijn nr. 97/78/EG, is de aanbieder, een retributie verschuldigd, bestaande uit: 
 
-a. een starttarief van € 42,97, en  
+a. een starttarief van € 43,83, en  
 
-b. een bedrag van € 26,98 per kwartier voor iedere officiële dierenarts en voor iedere officiële assistent die met de controle is belast.     
-3.  Voor de controle bij doorvoer, bedoeld in artikel 11, tweede lid, van richtlijn nr. 97/78/EG, welke plaatsvindt op een werkdag tussen 06:00 uur en 23:00 uur, is de aanbieder, een retributie verschuldigd, bestaande uit een tarief van € 0,00968 per kg, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 58,98 en ten hoogste € 453,85 in rekening wordt gebracht.   
+b. een bedrag van € 27,52 per kwartier voor iedere officiële dierenarts en voor iedere officiële assistent die met de controle is belast.     
+3.  Voor de controle bij doorvoer, bedoeld in artikel 11, tweede lid, van richtlijn nr. 97/78/EG, welke plaatsvindt op een werkdag tussen 06:00 uur en 23:00 uur, is de aanbieder, een retributie verschuldigd, bestaande uit een tarief van € 0,00987 per kg, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 60,16 en ten hoogste € 462,93 in rekening wordt gebracht.   
 4.  In afwijking van het eerste lid, bedraagt de maximale retributie voor een te controleren partij producten afkomstig van pluimvee, die vervoerd en aangeboden wordt als stukgoed: 
 
-a. € 825,26 per schip met een lading producten afkomstig van pluimvee tot 500 ton;  
+a. € 841,77 per schip met een lading producten afkomstig van pluimvee tot 500 ton;  
 
-b. € 1.650,55 per schip met een lading producten afkomstig van pluimvee tot 1000 ton;  
+b. € 1.683,56 per schip met een lading producten afkomstig van pluimvee tot 1000 ton;  
 
-c. € 3.301,12 per schip met een lading producten afkomstig van pluimvee tot 2000 ton;  
+c. € 3.367,14 per schip met een lading producten afkomstig van pluimvee tot 2000 ton;  
 
-d. € 4.958,46 per schip met een lading producten afkomstig van pluimvee vanaf 2000 ton.     
-5.  Indien de partij producten van dierlijke oorsprong afkomstig is uit Nieuw-Zeeland, is de aanbieder, in afwijking van het eerste, tweede en derde lid, een retributie verschuldigd bestaande uit een tarief van € 0,0015 per kg met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 30,27 en ten hoogste € 353,16 in rekening wordt gebracht.   
-6.  Voor de werkzaamheden, bedoeld in het eerste en derde lid, welke plaatsvinden tussen 23:00 uur en 06:00 uur of op een zaterdag, een zondag, of een algemeen erkende feestdag, is de aanbieder een retributie verschuldigd, bestaande uit een tarief van € 0,01233 per kg, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 75,16 en ten hoogste € 576,70 in rekening wordt gebracht.   
+d. € 5.057,63 per schip met een lading producten afkomstig van pluimvee vanaf 2000 ton.     
+5.  Indien de partij producten van dierlijke oorsprong afkomstig is uit Nieuw-Zeeland, is de aanbieder, in afwijking van het eerste, tweede en derde lid, een retributie verschuldigd bestaande uit een tarief van € 0,0015 per kg met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 30,88 en ten hoogste € 360,22 in rekening wordt gebracht.   
+6.  Voor de werkzaamheden, bedoeld in het eerste en derde lid, welke plaatsvinden tussen 23:00 uur en 06:00 uur of op een zaterdag, een zondag, of een algemeen erkende feestdag, is de aanbieder een retributie verschuldigd, bestaande uit een tarief van € 0,01258 per kg, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 76,66 en ten hoogste € 590,00 in rekening wordt gebracht.   
 
 ### Artikel  4  
 
@@ -152,9 +152,9 @@ d. € 4.958,46 per schip met een lading producten afkomstig van pluimvee vanaf
 
 Voor keuringen en controles bij de inslag, opslag of uitslag als bedoeld in artikel 12, vijfde lid, tweede, derde en vierde gedachtestreep, van richtlijn nr. 97/78/EG, is degene die een partij producten van dierlijke oorsprong heeft ingeslagen, opgeslagen, onderscheidenlijk uitgeslagen uit een douane-entrepot, een ruimte voor tijdelijke opslag of een vrij entrepot, een retributie verschuldigd, bestaande uit: 
 
-a. een starttarief van € 42,97, en  
+a. een starttarief van € 43,83, en  
 
-b. een bedrag van € 26,98 per kwartier voor iedere officiële dierenarts en voor iedere officiële assistent die met de documentencontrole is belast.    
+b. een bedrag van € 27,52 per kwartier voor iedere officiële dierenarts en voor iedere officiële assistent die met de documentencontrole is belast.    
 
 ### §  2  
 
@@ -164,14 +164,14 @@ b. een bedrag van € 26,98 per kwartier voor iedere officiële dierenarts en v
 
 1.  Voor het onderzoek, bedoeld in de [artikelen 2.34](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [2.35](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [2.36](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [2.44, vijfde, zesde, zevende, negende en tiende lid, van de Regeling handel levende dieren en levende producten](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), dat plaatsvindt op een werkdag tussen 06:00 uur en 23:00 uur, is de aanbieder: 
 
-a. ter zake van diersoorten als bedoeld in richtlijn nr. 92/65/EEG alsmede ter zake van runderen, paardachtigen, varkens, schapen en geiten, pluimvee en klein wild een retributie verschuldigd van € 0,00968 per kg levend gewicht, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 58,98 en ten hoogste € 453,85 in rekening wordt gebracht;  
+a. ter zake van diersoorten als bedoeld in richtlijn nr. 92/65/EEG alsmede ter zake van runderen, paardachtigen, varkens, schapen en geiten, pluimvee en klein wild een retributie verschuldigd van € 0,00987 per kg levend gewicht, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 60,16 en ten hoogste € 462,93 in rekening wordt gebracht;  
 
-b. ter zake van diersoorten als bedoeld in beschikking nr. 97/794/EG een retributie verschuldigd van € 0,00968 per kg levend gewicht, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 58,98 en ten hoogste € 453,85 in rekening wordt gebracht;  
+b. ter zake van diersoorten als bedoeld in beschikking nr. 97/794/EG een retributie verschuldigd van € 0,00987 per kg levend gewicht, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 60,16 en ten hoogste € 462,93 in rekening wordt gebracht;  
 
-c. ter zake van levende producten als bedoeld in de [Regeling handel levende dieren en levende producten](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md) een retributie verschuldigd van € 0,00968 per kg levend gewicht, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 58,98 en ten hoogste € 453,85 in rekening wordt gebracht.     
-2.  Voor het onderzoek, bedoeld in het eerste lid, dat plaatsvindt tussen 23:00 uur en 06:00 uur of op een zaterdag, een zondag, of op een algemeen erkende feestdag, is de aanbieder een retributie verschuldigd, bestaande uit een tarief van € 0,01233 per kg, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 75,16 en ten hoogste € 578,43 in rekening wordt gebracht.   
-3.  Indien een partij levende dieren als bedoeld in het eerste lid, onderdeel a of b, afkomstig is uit Nieuw-Zeeland, is de aanbieder, in afwijking van het eerste en derde lid, een retributie verschuldigd, bestaande uit een bedrag van € 0,0050 per kg, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 30,27 en ten hoogste € 353,16 in rekening wordt gebracht.   
-4.  Indien een partij levende producten als bedoeld in het eerste lid, onderdeel c, afkomstig is uit Nieuw-Zeeland, is de aanbieder, in afwijking van het eerste en derde lid, een retributie verschuldigd, bestaande uit een bedrag van € 0,0015 per kg, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 30,27 en ten hoogste € 353,16 in rekening wordt gebracht.   
+c. ter zake van levende producten als bedoeld in de [Regeling handel levende dieren en levende producten](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md) een retributie verschuldigd van € 0,00987 per kg levend gewicht, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 60,16 en ten hoogste € 462,93 in rekening wordt gebracht.     
+2.  Voor het onderzoek, bedoeld in het eerste lid, dat plaatsvindt tussen 23:00 uur en 06:00 uur of op een zaterdag, een zondag, of op een algemeen erkende feestdag, is de aanbieder een retributie verschuldigd, bestaande uit een tarief van € 0,01258 per kg, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 76,66 en ten hoogste € 590,00 in rekening wordt gebracht.   
+3.  Indien een partij levende dieren als bedoeld in het eerste lid, onderdeel a of b, afkomstig is uit Nieuw-Zeeland, is de aanbieder, in afwijking van het eerste en derde lid, een retributie verschuldigd, bestaande uit een bedrag van € 0,0051 per kg, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 30,88 en ten hoogste € 360,22 in rekening wordt gebracht.   
+4.  Indien een partij levende producten als bedoeld in het eerste lid, onderdeel c, afkomstig is uit Nieuw-Zeeland, is de aanbieder, in afwijking van het eerste en derde lid, een retributie verschuldigd, bestaande uit een bedrag van € 0,0015 per kg, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 30,88 en ten hoogste € 360,22 in rekening wordt gebracht.   
 
 ### Artikel  7  
 
@@ -180,15 +180,11 @@ c. ter zake van levende producten als bedoeld in de [Regeling handel levende die
 
 ### Artikel  8  
 
-De kosten: 
+De kosten, bedoeld in [artikel 2.50f van de Regeling handel levende dieren en levende producten](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md) onderscheidenlijk artikel 18 van verordening (EG) nr. 318/2007, bestaan uit: 
 
-(i) bedoeld in [artikel 2.50f van de Regeling handel levende dieren en levende producten](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), onderscheidenlijk  
+a. een starttarief van € 43,83, en  
 
-(ii) de kosten voor de importeur voor keuringen en controles welke de NVWA bij ingevolge verordening (EG) nr. 318/2007 in quarantaine geplaatste vogels verricht, zijnde de kosten die in rechtstreeks verband staan met deze keuringen en controles,   bestaan uit: 
-
-a. een starttarief van € 42,97, en  
-
-b. een bedrag van € 26,98 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent is besteed.    
+b. een bedrag van € 27,52 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent is besteed.    
 
 ### Hoofdstuk  3  
 
@@ -198,48 +194,49 @@ b. een bedrag van € 26,98 per kwartier dat aan de werkzaamheden door een offi
 
 Voor het onderzoek, bedoeld in [artikel 77, tweede lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van vee of pluimvee, en voor zover dit binnen openingstijd wordt verricht, is de aanbieder een retributie verschuldigd, bestaande uit: 
 
-a. een starttarief van € 58,16, en  
+a. een starttarief van € 59,32, en  
 
-b. een bedrag van € 36,07 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent is besteed.    
+b. een bedrag van € 36,79 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent is besteed.    
 
 ### Artikel  10  
 
-1.  Voor het onderzoek 
+1.  Voor de volgende onderzoeken, bedoeld in de [Regeling handel levende dieren en levende producten](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), en voor zover die binnen openingstijd worden verricht is de aanbieder een retributie verschuldigd: 
 
-a. bedoeld in [artikel 2.5, aanhef en onderdelen f, g, h, onderscheidenlijk i, van de Regeling handel levende dieren en levende producten](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van dieren of producten, bedoeld in richtlijn nr. 92/65/EEG, bestemd voor een lidstaat, niet zijnde bijen;  
+a. onderzoek als bedoeld in [artikel 2.5, aanhef en onderdelen f, g, h, onderscheidenlijk i, van die regeling](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van dieren of producten bestemd voor een lidstaat, voor zover het dieren of producten betreft als bedoeld in richtlijn nr. 92/65/EEG, niet zijnde bijen;  
 
-b. bedoeld in [artikel 2.5, aanhef en onderdeel d, van de Regeling handel levende dieren en levende producten](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), in samenhang met artikel 8, eerste lid, van richtlijn nr. 2009/158/EG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van broedeieren, bedoeld in artikel 2, onderdeel 2, van richtlijn nr. 2009/158/EG, bestemd voor een lidstaat;  
+b. onderzoek als bedoeld in [artikel 2.5, aanhef en onderdeel d, van die regeling](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), in samenhang met artikel 8, eerste lid, van richtlijn nr. 2009/158/EG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van broedeieren als bedoeld in artikel 2, onderdeel 2, van richtlijn nr. 2009/158/EG, bestemd voor een lidstaat;  
 
-c. bedoeld in [artikel 2.5, aanhef en onderdeel g, van de Regeling handel levende dieren en levende producten](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), in samenhang met de artikelen 3 en 6, eerste lid, van richtlijn nr. 88/407/EEG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van sperma van runderen, bedoeld in artikel 2, onderdeel a, van richtlijn nr. 88/407/EEG, bestemd voor een lidstaat;  
+c. onderzoek als bedoeld in [artikel 2.5, aanhef en onderdeel g, van die regeling](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), in samenhang met de artikelen 3 en 6, eerste lid, van richtlijn nr. 88/407/EEG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van sperma van runderen als bedoeld in artikel 2, onderdeel a, van richtlijn nr. 88/407/EEG, bestemd voor een lidstaat;  
 
-d. bedoeld in [artikel 2.5, aanhef en onderdeel g, van de Regeling handel levende dieren en levende producten](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), in samenhang met de artikelen 3, en 6, eerste lid, van richtlijn nr. 90/429/EEG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van sperma van varkens, bestemd voor een lidstaat;  
+d. onderzoek als bedoeld in [artikel 2.5, aanhef en onderdeel g, van die regeling](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), in samenhang met de artikelen 3 en 6, eerste lid, van richtlijn nr. 90/429/EEG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van sperma van varkens als bedoeld in artikel 2 van richtlijn nr. 90/429/EEG, bestemd voor een lidstaat;  
 
-e. bedoeld in [artikel 2.5, aanhef en onderdeel h, van de Regeling handel levende dieren en levende producten](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), in samenhang met de artikelen 3, en 6, van richtlijn nr. 89/556/EEG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van embryo’s, bedoeld in artikel 2, onderdeel a, van richtlijn nr. 89/556/EEG, van runderen, bestemd voor een lidstaat;   en zover dit binnen openingstijd wordt verricht, is de aanbieder een retributie verschuldigd, bestaande uit: 
+e. onderzoek als bedoeld in [artikel 2.5, aanhef en onderdeel h, van die regeling](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), in samenhang met de artikelen 3 en 6, van richtlijn nr. 89/556/EEG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van een embryo als bedoeld in artikel 2, onderdeel a, van richtlijn nr. 89/556/EEG, bestemd voor een lidstaat.     
+2.  De retributie, bedoeld in het eerste lid, bestaat uit; 
 
-a. een starttarief van € 58,16, en  
+a. een starttarief van € 59,32, en  
 
-b. een bedrag van € 36,07 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent is besteed.     
-2.  Voor werkzaamheden die binnen openingstijd worden verricht ten behoeve van een handelsdocument voor papegaaiachtigen als bedoeld in [artikel 8.8, vierde lid, van de Regeling handel levende dieren en levende producten](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md) in artikel 7, onder A, tweede lid, onderdeel c, van Richtlijn nr. 92/65/EEG, is de aanbieder een retributie verschuldigd bestaande uit: 
+b. een bedrag van € 36,79 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent is besteed.     
+3.  Voor werkzaamheden die binnen openingstijd worden verricht ten behoeve van een handelsdocument voor papegaaiachtigen als bedoeld in [artikel 8.8, vierde lid, van de Regeling handel levende dieren en levende producten](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md) is de aanbieder een retributie verschuldigd bestaande uit: 
 
-a. een starttarief van € 58,16, en  
+a. een starttarief van € 59,32, en  
 
-b. een bedrag van € 36,07 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent is besteed.     
+b. een bedrag van € 36,79 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent is besteed.     
 
 ### Artikel  10a  
 
 Voor werkzaamheden die binnen openingstijd worden verricht ten behoeve van een diergezondheidscertificaat bij een partij aquacultuurdieren als bedoeld in [artikel 8.2.2 van de Regeling aquacultuur](../../../../../../../../../ministeriele-regeling/regeling/aquacultuur/BWBR0024256/README.md), die bestemd is om te worden vervoerd naar een lidstaat, is de aanbieder een bedrag verschuldigd, bestaande uit: 
 
-a. een starttarief van € 58,16, en  
+a. een starttarief van € 59,32, en  
 
-b. een bedrag van € 36,07 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent is besteed.    
+b. een bedrag van € 36,79 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent is besteed.    
 
 ### Artikel  10b  
 
 Voor werkzaamheden die binnen openingstijd worden verricht in het kader van afgifte van een handelsdocument of gezondheidscertificaat als bedoeld in artikel 21, tweede lid, van verordening (EG) nr. 1069/2009, is de aanbieder een bedrag verschuldigd, bestaande uit: 
 
-a. een starttarief van € 99,02, en  
+a. een starttarief van € 101,00, en  
 
-b. een bedrag van € 34,07 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent is besteed.    
+b. een bedrag van € 34,75 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent is besteed.    
 
 ### Hoofdstuk  4  
 
@@ -249,36 +246,36 @@ b. een bedrag van € 34,07 per kwartier dat aan de werkzaamheden door een offi
 
 Voor werkzaamheden binnen openingstijd, die op verzoek van de aanbieder door of vanwege de NVWA worden verricht ter zake van het onderzoek van dieren of producten van dierlijke oorsprong, bestemd om anders dan in doorvoer buiten Nederland te worden gebracht, voor zover dit onderzoek verband houdt met de door het land van bestemming aan de invoer gestelde eisen, dan wel voor zover dit onderzoek verband houdt met een schriftelijke afspraak tussen de Chief Veterinary Officer en de bevoegde autoriteit van een derde land, is de aanbieder een retributie verschuldigd, bestaande uit: 
 
-a. een starttarief van € 99,02, en  
+a. een starttarief van € 101,00, en  
 
-b. een bedrag van € 34,07 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent is besteed.    
+b. een bedrag van € 34,75 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent is besteed.    
 
 ### Artikel  12  
 
-Voor werkzaamheden binnen openingstijd, die op verzoek van de aanbieder door of vanwege de NVWA worden verricht ter zake van het onderzoek met betrekking tot voor uitvoer bestemde levende honden, katten of fretten, voor zover dit onderzoek verband houdt met de door het land van bestemming aan de invoer gestelde eisen dan wel voor zover dit onderzoek verband houdt met een schriftelijke afspraak tussen de Chief Veterinary Officer en de bevoegde autoriteit van een derde land, is de aanbieder een retributie verschuldigd bestaande uit een bedrag van € 45,80.  
+Voor werkzaamheden binnen openingstijd, die op verzoek van de aanbieder door of vanwege de NVWA worden verricht ter zake van het onderzoek met betrekking tot voor uitvoer bestemde levende honden, katten of fretten, voor zover dit onderzoek verband houdt met de door het land van bestemming aan de invoer gestelde eisen dan wel voor zover dit onderzoek verband houdt met een schriftelijke afspraak tussen de Chief Veterinary Officer en de bevoegde autoriteit van een derde land, is de aanbieder een retributie verschuldigd bestaande uit een bedrag van € 46,73.  
 
 ### Artikel  13  
 
 Voor werkzaamheden binnen openingstijd, die op verzoek van de aanbieder door of vanwege de NVWA worden verricht met betrekking tot de in- of uitvoer van dieren, producten van dierlijke oorsprong en andere producten en voorwerpen die dragers van smetstof kunnen zijn, niet zijnde werkzaamheden als bedoeld in artikel 11 onderscheidenlijk 12, is de aanbieder een retributie verschuldigd bestaande uit: 
 
-a. een starttarief van € 99,02, en  
+a. een starttarief van € 101,00, en  
 
-b. een bedrag van € 34,07 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent is besteed.    
+b. een bedrag van € 34,75 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent is besteed.    
 
 ### Artikel  14  
 
-1.  Voor zover voor de werkzaamheden, bedoeld in de artikelen 9, 10, 10a, 10b, 11, 12 onderscheidenlijk 13, op verzoek van de aanbieder een certificaat, een gewaarmerkt afschrift van een certificaat of geleidebiljet wordt afgegeven zonder dat direct voorafgaand onderzoek ter plaatse van de aanbieder wordt verricht door een officiële dierenarts of officiële assistent, is de aanbieder een retributie verschuldigd van: 
+1.  Voor zover voor de werkzaamheden, bedoeld in de artikelen 9, 10, 10a, 10b, 11, 12 onderscheidenlijk 13, op verzoek van de aanbieder een certificaat, een gewaarmerkt afschrift van een certificaat, een geleidebiljet of nationaal document wordt afgegeven zonder dat direct voorafgaand onderzoek ter plaatse van de aanbieder wordt verricht door een officiële dierenarts of officiële assistent, is de aanbieder een retributie verschuldigd van: 
 
-a. € 45,81 per certificaat of geleidebiljet dat wordt aangevraagd, onderscheidenlijk,  
+a. € 46,73 per certificaat of geleidebiljet dat wordt aangevraagd, onderscheidenlijk,  
 
 b. indien meerdere certificaten of geleidebiljetten tegelijk worden aangevraagd die betrekking hebben op een zelfde lading dieren of producten van dierlijke oorsprong, die op dezelfde dag wordt afgevoerd, en waarbij op de certificaten of geleidebiljetten het zelfde oorsprongs- en bestemmingsadres wordt vermeld: 
 
-(i) € 45,81 voor het certificaat of het geleidebiljet dat als eerste wordt afgegeven, en  
+(i) € 46,73 voor het certificaat of het geleidebiljet dat als eerste wordt afgegeven, en  
 
-(ii) € 11,45 per certificaat of geleidebiljet dat na het onder (i) bedoelde eerste certificaat of geleidebiljet wordt afgegeven, en    
+(ii) € 11,68 per certificaat of geleidebiljet dat na het onder (i) bedoelde eerste certificaat of geleidebiljet wordt afgegeven, en    
 
-c. € 11,45 per gewaarmerkt afschrift van een certificaat of een geleidebiljet.     
-2.  Voor het afgeven op verzoek van een belanghebbende van verklaringen ten behoeve van de export van diergeneesmiddelen of registratie daarvan in het buitenland, is de belanghebbende een retributie verschuldigd van € 45,81 per verklaring.   
+c. € 11,68 per gewaarmerkt afschrift van een certificaat of een geleidebiljet.     
+2.  Voor het afgeven op verzoek van een belanghebbende van verklaringen ten behoeve van de export van diergeneesmiddelen of registratie daarvan in het buitenland, is de belanghebbende een retributie verschuldigd van € 46,73 per verklaring.   
 
 ### Hoofdstuk  5  
 
@@ -292,11 +289,11 @@ c. € 11,45 per gewaarmerkt afschrift van een certificaat of een geleidebiljet
 
 Voor de controles, bedoeld in artikel 4, tweede lid, in verbinding met artikel 5, eerste lid, van verordening (EG) nr. 854/2004, binnen openingstijd ter zake van het slachten van als landbouwhuisdier gehouden hoefdieren, verricht door een officiële dierenarts of een officiële assistent werkzaam bij de NVWA, is de aanbieder een retributie verschuldigd bestaande uit: 
 
-a. een starttarief van € 74,79, en  
+a. een starttarief van € 76,29, en  
 
-b. een bedrag van € 28,49 per kwartier dat door een officiële dierenarts of een officiële assistent werkzaam bij de NVWA aan de ante mortem keuringswerkzaamheden is besteed;  
+b. een bedrag van € 29,06 per kwartier dat door een officiële dierenarts of een officiële assistent werkzaam bij de NVWA aan de ante mortem keuringswerkzaamheden is besteed;  
 
-c. een bedrag van € 20,14 per kwartier dat door of namens een officiële dierenarts aan de post mortem keuringswerkzaamheden is besteed.    
+c. een bedrag van € 20,54 per kwartier dat door of namens een officiële dierenarts aan de post mortem keuringswerkzaamheden is besteed.    
 
 ### Artikel  16  
 
@@ -304,13 +301,13 @@ Voor de post mortem keuringswerkzaamheden, bedoeld in sectie IV, hoofdstuk I, ho
 
 a. een starttarief van € 77,43 en  
 
-b. een bedrag van € 13,66 per kwartier dat aan de keuring door deze officiële assistent is besteed.    
+b. een bedrag van € 13,00 per kwartier dat aan de keuring door deze officiële assistent is besteed.    
 
 ### Artikel  17  
 
-1.  In afwijking van artikel 15 is de aanbieder voor de ante mortem keuringswerkzaamheden, bedoeld in sectie I, hoofdstuk II, onderdeel B, van Bijlage I bij verordening (EG) nr. 854/2004 onderscheidenlijk in sectie IV, hoofdstuk IV, onderdeel A, van Bijlage I bij die verordening, door de officiële dierenarts werkzaam bij de NVWA, terzake van het slachten van als landbouwhuisdier gehouden hoefdieren, binnen openingstijd in een slachthuis dat niet meer behandelt dan 10 GVE per week met een maximum van 125 GVE per kwartaal,een retributie verschuldigd, bestaande uit een starttarief van € 18,68.   
-2.  In afwijking van artikel 15 is de aanbieder voor de post mortem keuringswerkzaamheden, bedoeld in sectie IV, hoofdstuk I, hoofdstuk II, hoofdstuk III en hoofdstuk IV, onderdeel B, van Bijlage I bij verordening (EG) nr. 854/2004, verricht door de officiële dierenarts of een officiële assistent werkzaam bij de NVWA, ter zake van het slachten van als landbouwhuisdier gehouden hoefdieren, binnen openingstijd in een slachthuis dat niet meer behandelt dan 10 GVE per week met een maximum van 125 GVE per kwartaal,een retributie verschuldigd, bestaande uit een starttarief van € 18,68.   
-3.  In afwijking van het tweede lid, is de aanbieder voor de post mortem keuringswerkzaamheden, bedoeld in sectie IV, hoofdstuk I, hoofdstuk II, hoofdstuk III en hoofdstuk IV, onderdeel B, van Bijlage I bij verordening (EG) nr. 854/2004, verricht door de officiële dierenarts ter zake van het slachten van als landbouwhuisdier gehouden hoefdieren, ten aanzien waarvan zich een situatie voordoet als bedoeld in sectie III, hoofdstuk 2, onderdelen 2b en 3, van Bijlage I bij verordening (EG) nr. 854/2004, binnen openingstijd in een slachthuis dat niet meer behandelt dan 10 GVE per week met een maximum van 125 GVE per kwartaal,een retributie verschuldigd, bestaande uit een starttarief van € 18,68.   
+1.  In afwijking van artikel 15 is de aanbieder voor de ante mortem keuringswerkzaamheden, bedoeld in sectie I, hoofdstuk II, onderdeel B, van Bijlage I bij verordening (EG) nr. 854/2004 onderscheidenlijk in sectie IV, hoofdstuk IV, onderdeel A, van Bijlage I bij die verordening, door de officiële dierenarts werkzaam bij de NVWA, terzake van het slachten van als landbouwhuisdier gehouden hoefdieren, binnen openingstijd in een slachthuis dat niet meer behandelt dan 10 GVE per week met een maximum van 125 GVE per kwartaal,een retributie verschuldigd, bestaande uit een starttarief van € 19,05.   
+2.  In afwijking van artikel 15 is de aanbieder voor de post mortem keuringswerkzaamheden, bedoeld in sectie IV, hoofdstuk I, hoofdstuk II, hoofdstuk III en hoofdstuk IV, onderdeel B, van Bijlage I bij verordening (EG) nr. 854/2004, verricht door de officiële dierenarts of een officiële assistent werkzaam bij de NVWA, ter zake van het slachten van als landbouwhuisdier gehouden hoefdieren, binnen openingstijd in een slachthuis dat niet meer behandelt dan 10 GVE per week met een maximum van 125 GVE per kwartaal,een retributie verschuldigd, bestaande uit een starttarief van € 19,05.   
+3.  In afwijking van het tweede lid, is de aanbieder voor de post mortem keuringswerkzaamheden, bedoeld in sectie IV, hoofdstuk I, hoofdstuk II, hoofdstuk III en hoofdstuk IV, onderdeel B, van Bijlage I bij verordening (EG) nr. 854/2004, verricht door de officiële dierenarts ter zake van het slachten van als landbouwhuisdier gehouden hoefdieren, ten aanzien waarvan zich een situatie voordoet als bedoeld in sectie III, hoofdstuk 2, onderdelen 2b en 3, van Bijlage I bij verordening (EG) nr. 854/2004, binnen openingstijd in een slachthuis dat niet meer behandelt dan 10 GVE per week met een maximum van 125 GVE per kwartaal,een retributie verschuldigd, bestaande uit een starttarief van € 19,05.   
 4.  Indien een slachthuis dat normaliter niet meer behandelt dan 10 GVE per week met een maximum van 125 GVE per kwartaal gedurende twee aaneengesloten dagen per jaar, maximaal één keer per kalenderjaar, een zodanig aantal dieren slacht dat in het betreffende kwartaal het maximum van 125 GVE wordt overschreden, zijn de voorgaande leden niettemin van toepassing, mits het slachthuis de NVWA uiterlijk vijftien werkdagenvoorafgaand aan de eerste van de onderhavige twee aaneengesloten dagen daarvan melding maakt en daarbij aangeeft hoeveel dieren en van welke soort er op die dagen worden geslacht.   
 5.  In afwijking van het eerste lid, wordt voor de werkzaamheden op de in het vierde lid bedoelde twee aaneengesloten dagen de retributie in rekening gebracht, bedoeld in artikel 15.   
 
@@ -330,17 +327,17 @@ Indien op grond van [artikel 26, vijfde lid, onder d, van de Regeling identifica
 
 Voor de controles, bedoeld in artikel 4, tweede lid, en 5, eerste lid, van verordening (EG) nr. 854/2004, binnen openingstijd ter zake van het slachten van pluimvee en gekweekte lagomorfen, is de aanbieder een retributie verschuldigd, bestaande uit: 
 
-a. een starttarief van € 101,90, en  
+a. een starttarief van € 103,94, en  
 
-b. een bedrag van € 28,10 per kwartier dat door een officiële dierenarts of een officiële assistent aan de werkzaamheden is besteed.    
+b. een bedrag van € 28,66 per kwartier dat door een officiële dierenarts of een officiële assistent aan de werkzaamheden is besteed.    
 
 ### Artikel  20  
 
 In afwijking van artikel 19 is de aanbieder voor de controles, bedoeld in artikel 19, binnen openingstijd terzake van het slachten van pluimvee en gekweekte lagomorfen, in een slachthuis dat niet meer behandelt dan 10 GVE per week met een maximum van 125 GVE per kwartaal, een retributie verschuldigd, bestaande uit: 
 
-a. een starttarief van € 55,98, en  
+a. een starttarief van € 57,10, en  
 
-b. een bedrag van € 28,10 per kwartier dat door een officiële dierenarts of een officiële assistent aan de werkzaamheden is besteed.    
+b. een bedrag van € 28,66 per kwartier dat door een officiële dierenarts of een officiële assistent aan de werkzaamheden is besteed.    
 
 ### §  4  
 
@@ -350,17 +347,17 @@ b. een bedrag van € 28,10 per kwartier dat door een officiële dierenarts of 
 
 Voor de controles, bedoeld in de artikelen 4, tweede lid, en 5, eerste lid, van verordening (EG) nr. 854/2004, binnen openingstijd ter zake van het slachten van vrij wild en gekweekt wild met uitzondering van gekweekte lagomorfen, verricht door een officiële dierenarts of een officiële assistent, is de aanbieder een retributie verschuldigd, bestaande uit: 
 
-a. een starttarief van € 74,79, en  
+a. een starttarief van € 76,29, en  
 
-b. een bedrag van € 28,49 per kwartier dat door een officiële dierenarts of een officiële assistent aan de werkzaamheden is besteed.    
+b. een bedrag van € 29,06 per kwartier dat door een officiële dierenarts of een officiële assistent aan de werkzaamheden is besteed.    
 
 ### Artikel  22  
 
 In afwijking van artikel 21, is de aanbieder voor de controles, bedoeld in artikel 21, binnen openingstijd ter zake van het slachten van vrij wild en gekweekt wild met uitzondering van gekweekte lagomorfen, in een slachthuis dat niet meer behandelt dan 10 GVE per week met een maximum van 125 GVE per kwartaal, een retributie verschuldigd, bestaande uit: 
 
-a. een starttarief van € 51,27, en  
+a. een starttarief van € 52,30, en  
 
-b. een bedrag van € 28,49 per kwartier dat door een officiële assistent of een officiële dierenarts aan de werkzaamheden is besteed.    
+b. een bedrag van € 29,06 per kwartier dat door een officiële assistent of een officiële dierenarts aan de werkzaamheden is besteed.    
 
 ### §  5  
 
@@ -368,7 +365,7 @@ b. een bedrag van € 28,49 per kwartier dat door een officiële assistent of e
 
 ### Artikel  23  
 
-1.  Naast de retributies, bedoeld in de artikelen 15, 16, 17, 19, 20, 21, onderscheidenlijk 22, is de aanbieder, bedoeld in deze artikelen, een retributie verschuldigd van € 1,41 per ton geslacht gewicht voor de controles in het kader van het Nationaal Plan Residuen uit hoofde van artikel 5 van richtlijn nr. 96/23/EG.   
+1.  Naast de retributies, bedoeld in de artikelen 15, 16, 17, 19, 20, 21, onderscheidenlijk 22, is de aanbieder, bedoeld in deze artikelen, een retributie verschuldigd van € 1,44 per ton geslacht gewicht voor de controles in het kader van het Nationaal Plan Residuen uit hoofde van artikel 5 van richtlijn nr. 96/23/EG.   
 2.  Voor de toepassing van het eerste lid geldt als geslacht gewicht: 
 
 a. het toepasselijke geslacht gewicht, genoemd in bijlage II, of  
@@ -394,8 +391,8 @@ d. ziekten op te sporen die voorkomen op de lijsten met dierziekten van het Offi
 
 ### Artikel  25  
 
-1.  De aanvrager van een herkeuring, bedoeld in [artikel 10 van de Regeling vleeskeuring](../../../../../../../../../ministeriele-regeling/regeling/vleeskeuring/BWBR0019274/README.md), is een retributie verschuldigd, bestaande uit een bedrag van € 316,47.   
-2.  De in het eerste lid bedoelde retributie wordt betaald aan de regiodirecteur van de regio waar de herkeuring is aangevraagd voordat met de herkeuring wordt begonnen en wordt, indien de oorspronkelijke keuringsbeslissing niet in stand wordt gelaten, zo spoedig mogelijk na afloop van de herkeuring door de NVWA terugbetaald.   
+1.  De aanvrager van een herkeuring, bedoeld in [artikel 2.9 van de Regeling dierlijke producten](../../../../../../../../../ministeriele-regeling/regeling/dierlijke/producten/BWBR0032462/README.md), is een retributie verschuldigd, bestaande uit een bedrag van € 322,80.   
+2.  De retributie, bedoeld in het eerste lid, is niet verschuldigd als de oorspronkelijke keuringsbeslissing niet in stand wordt gelaten.   
 
 ### §  7  
 
@@ -405,9 +402,9 @@ d. ziekten op te sporen die voorkomen op de lijsten met dierziekten van het Offi
 
 Bij toepassing van de maatregelen, bedoeld in sectie II, hoofdstuk II, punt 5, van bijlage I bij verordening (EG) nr. 854/2004 en bij controles op het bedrijf van herkomst als bedoeld in sectie II, hoofdstuk III, punt 1, van bijlage I bij verordening (EG) nr. 854/2004, is de exploitant van het levensmiddelenbedrijf onderscheidenlijk de betrokkene, bedoeld in de betreffende bepalingen van die bijlage, een retributie verschuldigd, bestaande uit: 
 
-a. een starttarief van € 114,35, en  
+a. een starttarief van € 116,64, en  
 
-b. een bedrag van € 31,15 per kwartier dat door een officiële dierenarts of een officiële assistent aan de werkzaamheden is besteed.    
+b. een bedrag van € 31,77 per kwartier dat door een officiële dierenarts of een officiële assistent aan de werkzaamheden is besteed.    
 
 ### Hoofdstuk  6  
 
@@ -417,9 +414,9 @@ b. een bedrag van € 31,15 per kwartier dat door een officiële dierenarts of 
 
 Voor de controlewerkzaamheden, bedoeld in [artikel 18, tweede lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), is de aanbieder een retributie verschuldigd, bestaande uit: 
 
-a. een starttarief van € 114,35, en  
+a. een starttarief van € 116,64, en  
 
-b. een bedrag van € 31,15 per kwartier dat door een officiële dierenarts of een officiële assistent aan de werkzaamheden is besteed.    
+b. een bedrag van € 31,77 per kwartier dat door een officiële dierenarts of een officiële assistent aan de werkzaamheden is besteed.    
 
 ### Hoofdstuk  7  
 
@@ -442,8 +439,9 @@ b. een bedrag van € 31,15 per kwartier dat door een officiële dierenarts of 
 
 1.  Degene die een aanvraag indient voor een erkenning als bedoeld in [artikel 3 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md), is voor de behandeling van de aanvraag een vergoeding verschuldigd.   
 2.  De in het eerste lid bedoelde vergoeding bedraagt per erkenning € 1.151,70.   
-3.  Voor zover voor de erkenning van een laboratorium een audit als bedoeld in [artikel 7 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) wordt verricht, wordt de vergoeding, bedoeld in het tweede lid, per erkenning vermeerderd met een bedrag van € 146,16 per uur dat aan de audit door het Centraal Veterinair Instituut, gevestigd te Lelystad, is besteed tot een maximum van € 2.338,46 per audit per erkenning.   
-4.  In afwijking van het tweede lid bedraagt de vergoeding voor een erkenning voor een testmethode als bedoeld in de [bijlage, onder 1, bij de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md), per laboratorium: 
+3.  Voor zover voor de erkenning van een laboratorium een audit als bedoeld in [artikel 7 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) wordt verricht, wordt de vergoeding, bedoeld in het tweede lid, per erkenning vermeerderd met een bedrag van € 146,16 per uur dat aan de audit door het Centraal Veterinair Instituut, gevestigd te Lelystad, is besteed tot een maximum van € 2.338,46 per audit per erkenning en een bedrag van € 146,44 per uur dat aan de audit door het Rijksinstituut voor Volksgezondheid en Milieu, te Bilthoven, is besteed tot een maximum van € 1.830,00 per audit per erkenning.   
+4.  Voor zover voor de erkenning van een laboratorium is deelgenomen aan een ringtest als bedoeld in [artikel 8 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md), georganiseerd door het Rijksinstituut voor Volksgezondheid en Milieu, te Bilthoven, wordt de vergoeding vermeerderd met een bedrag van € 2.130,00.   
+5.  In afwijking van het tweede lid bedraagt de vergoeding voor een erkenning voor een testmethode als bedoeld in de [bijlage, onder 1, bij de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md), per laboratorium: 
 
 a. voor een eerste erkenning € 11.085,00 per aanvraag, en  
 
@@ -451,21 +449,29 @@ b. voor een tweede of volgende erkenning € 5.542,00 per aanvraag.
 
 ### Artikel  30  
 
-1.  De houder van een erkenning als bedoeld in [artikel 3 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) is een vergoeding verschuldigd voor werkzaamheden die ten behoeve van de instandhouding van de erkenning zijn verricht, waaronder begrepen de werkzaamheden van het Centraal Veterinair Instituut, gevestigd te Lelystad, bedoeld in [artikel 15 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md).   
+1.  De houder van een erkenning als bedoeld in [artikel 3 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) voor een testmethode als bedoeld in de [bijlage, onder 2 tot en met 10 bij die regeling](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md), is een vergoeding verschuldigd voor werkzaamheden die ten behoeve van de instandhouding van de erkenning zijn verricht, waaronder begrepen de werkzaamheden van het Centraal Veterinair Instituut, gevestigd te Lelystad, bedoeld in [artikel 15 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md).   
 2.  De houder van een erkenning als bedoeld in [artikel 3 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) voor een testmethode als bedoeld in de [bijlage, onder 1, bij die regeling](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) is een vergoeding verschuldigd voor werkzaamheden die ten behoeve van de instandhouding van die erkenning zijn verricht, waaronder begrepen de werkzaamheden van het Centraal Veterinair Instituut, gevestigd te Lelystad, bedoeld in de [artikelen 15](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) en [16 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md).   
-3.  De in het eerste lid bedoelde vergoeding bestaat per erkenning uit een bedrag van: 
+3.  De houder van een erkenning als bedoeld in [artikel 3 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) voor een testmethode als bedoeld in de [bijlage, onder 11, bij die regeling](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md), is een vergoeding verschuldigd voor werkzaamheden die ten behoeve van de instandhouding van de erkenning zijn verricht, waaronder begrepen de werkzaamheden bedoeld in [artikel 15 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) die worden uitgevoerd door het Rijksinstituut voor Volksgezondheid en Milieu, te Bilthoven.   
+4.  De in het eerste lid bedoelde vergoeding bestaat per erkenning uit een bedrag van: 
 
 a. € 146,16 per uur per uitgevoerde audit met een maximum van € 2.338,46 per uitgevoerde audit en, indien [artikel 15, derde lid, van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) van toepassing is, een maximum van € 5.846,16 per vier gecombineerde audits;  
 
 b. € 703,45 per ringtest;  
 
 c. € 14,04 per ml per intern controle monster.     
-4.  Indien aanvullend onderzoek nodig is wordt de vergoeding, bedoeld in het derde lid, vermeerderd met een bedrag van € 146,16 per uur dat aan het aanvullend onderzoek wordt besteed.   
-5.  De in het tweede lid bedoelde vergoeding bestaat uit een bedrag van: 
+5.  Indien aanvullend onderzoek nodig is wordt de vergoeding, bedoeld in het vierde lid, vermeerderd met een bedrag van € 146,16 per uur dat aan het aanvullend onderzoek wordt besteed.   
+6.  De in het tweede lid bedoelde vergoeding bestaat uit een bedrag van: 
 
 a. € 597,20 per uitgevoerde audit door het Centraal Veterinair Instituut, gevestigd te Lelystad, vermeerderd met  
 
 b. € 0,59 per door het erkend laboratorium uitgevoerde BSE-test voor de in het tweede lid bedoelde werkzaamheden van het Centraal Veterinair Instituut, gevestigd te Lelystad.     
+7.  De in het derde lid bedoelde vergoeding bestaat per erkenning uit een bedrag van: 
+
+a. € 146,44 per uur per uitgevoerde audit met een maximum van € 1318,– per uitgevoerde audit;  
+
+b. € 1618,– per ringtest, en  
+
+c. indien aanvullend onderzoek nodig is, € 146,44 per uur dat aan het aanvullend onderzoek wordt besteed.     
 
 ### §  2  
 
@@ -473,24 +479,25 @@ b. € 0,59 per door het erkend laboratorium uitgevoerde BSE-test voor de in he
 
 ### Artikel  31  
 
-Een retributie bestaande uit: 
+1.  Een retributie is verschuldigd door degene die een aanvraag indient voor: 
 
-a. een starttarief van € 114,35, en  
+a. een erkenning als bedoeld in artikel 4 van verordening (EG) nr. 853/2004, voor zover het een levensmiddelenbedrijf betreft waarop de Regeling dierlijke producten van toepassing is;  
 
-b. een bedrag van € 31,15 per kwartier dat door een officiële dierenarts of een officiële assistent aan de be- en afhandeling is besteed,   is verschuldigd door degene die een aanvraag indient: 
+b. een toelating, aanwijzing of erkenning als bedoeld in bijlage III bij deze regeling.     
+3.  De retributie, bedoeld in het eerste lid, bestaat uit: 
 
-(i) voor een erkenning als bedoeld in artikel 4 van verordening (EG) nr. 853/2004, voor zover het een levensmiddelenbedrijf betreft waarop de [Regeling vleeskeuring](../../../../../../../../../ministeriele-regeling/regeling/vleeskeuring/BWBR0019274/README.md) van toepassing is;  
+a. een starttarief van € 116,64, en  
 
-(ii) voor een toelating, aanwijzing of erkenning als bedoeld in bijlage III bij deze regeling.    
+b. een bedrag van € 31,77 per kwartier dat door een officiële dierenarts of een officiële assistent aan de behandeling en afhandeling is besteed.     
 
 ### Artikel  32  
 
-1.  Voor de be- en afhandeling door de NVWA van een aanvraag tot verlening van een vergunning voor een vervoerder als bedoeld in artikel 10, onderscheidenlijk 11 van verordening (EG) nr. 1/2005, is de aanvrager, dan wel diens vertegenwoordiger, een retributie verschuldigd, bestaande uit een bedrag van € 62,29.   
-2.  Voor de be- en afhandeling door de NVWA van een wijziging van de in artikel 10, tweede lid, onderscheidenlijk 11, eerste lid, van verordening (EG) nr. 1/2005 bedoelde informatie en documenten, overeenkomstig artikel 6, tweede lid, van verordening (EG) nr. 1/2005 is de vervoerder, bedoeld in artikel 6, eerste lid, van verordening (EG) nr. 1/2005 een retributie verschuldigd, bestaande uit een bedrag van € 23,22.   
+1.  Voor de be- en afhandeling door de NVWA van een aanvraag tot verlening van een vergunning voor een vervoerder als bedoeld in artikel 10, onderscheidenlijk 11 van verordening (EG) nr. 1/2005, is de aanvrager, dan wel diens vertegenwoordiger, een retributie verschuldigd, bestaande uit een bedrag van € 63,55.   
+2.  Voor de be- en afhandeling door de NVWA van een wijziging van de in artikel 10, tweede lid, onderscheidenlijk 11, eerste lid, van verordening (EG) nr. 1/2005 bedoelde informatie en documenten, overeenkomstig artikel 6, tweede lid, van verordening (EG) nr. 1/2005 is de vervoerder, bedoeld in artikel 6, eerste lid, van verordening (EG) nr. 1/2005 een retributie verschuldigd, bestaande uit een bedrag van € 23,68.   
 
 ### Artikel  33  
 
-Een retributie van € 23,22 is verschuldigd door de degene die een aanvraag indient tot een registratie als bedoeld in: 
+Een retributie van € 23,68 is verschuldigd door de degene die een aanvraag indient tot een registratie als bedoeld in: 
 
 a. voor een registratie als bedoeld in [artikel 3.1.2, eerste lid, van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten](../../../../../../../../../ministeriele-regeling/regeling/veterinairrechtelijke/voorschriften/handel/dierlijke/producten/BWBR0019235/README.md);  
 
@@ -502,98 +509,98 @@ d. artikel 23 van verordening (EG) nr. 1069/2009.
 
 ### Artikel  34  
 
-Voor de be- en afhandeling door de NVWA van een aanvraag tot toestemming als bedoeld in [artikel 2.2 van de Regeling dierlijke bijproducten 2011](../../../../../../../../../ministeriele-regeling/regeling/dierlijke/bijproducten/2011/BWBR0029668/README.md), met uitzondering van de aanvraag tot toestemming voor invoer in Nederland als bedoeld in artikel 48, eerste lid, van verordening (EG) nr. 1069/2009, is de aanvrager, dan wel diens vertegenwoordiger, een retributie verschuldigd, bestaande uit: 
+Voor de be- en afhandeling door de NVWA van een aanvraag tot toestemming als bedoeld in [artikel 3.2 van de Regeling dierlijke producten](../../../../../../../../../ministeriele-regeling/regeling/dierlijke/producten/BWBR0032462/README.md), met uitzondering van de aanvraag tot toestemming voor invoer in Nederland als bedoeld in artikel 48, eerste lid, van verordening (EG) nr. 1069/2009, is de aanvrager, dan wel diens vertegenwoordiger, een retributie verschuldigd, bestaande uit: 
 
-a. een starttarief van € 114,35, en  
+a. een starttarief van € 116,64, en  
 
-b. een bedrag van € 31,15 per kwartier dat door een officiële dierenarts of een officiële assistent aan de be- en afhandeling is besteed.    
+b. een bedrag van € 31,77 per kwartier dat door een officiële dierenarts of een officiële assistent aan de be- en afhandeling is besteed.    
 
 ### Artikel  35  
 
-Voor de be- en afhandeling door de NVWA van een aanvraag tot toestemming voor invoer in Nederland als bedoeld in artikel 48, eerste lid, van verordening (EG) nr. 1069/2009 is de aanvrager, dan wel diens vertegenwoordiger, een retributie verschuldigd, bestaande uit een bedrag van € 249,17.  
+Voor de be- en afhandeling door de NVWA van een aanvraag tot toestemming voor invoer in Nederland als bedoeld in artikel 48, eerste lid, van verordening (EG) nr. 1069/2009 is de aanvrager, dan wel diens vertegenwoordiger, een retributie verschuldigd, bestaande uit een bedrag van € 254,18.  
 
 ### Artikel  36  
 
 Voor de be- en afhandeling van een aanvraag tot erkenning als bedoeld in artikel 24 van verordening (EG) 1069/2009, is de exploitant, dan wel diens vertegenwoordiger, een retributie verschuldigd, bestaande uit: 
 
-a. een starttarief van € 114,35, en  
+a. een starttarief van € 116,64, en  
 
-b. een bedrag van € 31,15 per kwartier dat door een officiële dierenarts of een officiële assistent aan de be- en afhandeling is besteed.    
+b. een bedrag van € 31,77 per kwartier dat door een officiële dierenarts of een officiële assistent aan de be- en afhandeling is besteed.    
 
 ### Artikel  39  
 
-Voor de be- en afhandeling van een aanvraag tot toestemming voor vervoer naar een andere installatie als bedoeld in bijlage IV, hoofdstuk IV, afdeling 2, onderdeel F, van verordening (EG) nr. 142/2011, is de aanvrager, dan wel diens vertegenwoordiger, een retributie verschuldigd, bestaande uit een bedrag van € 249,17.  
+Voor de be- en afhandeling van een aanvraag tot toestemming voor vervoer naar een andere installatie als bedoeld in bijlage IV, hoofdstuk IV, afdeling 2, onderdeel F, van verordening (EG) nr. 142/2011, is de aanvrager, dan wel diens vertegenwoordiger, een retributie verschuldigd, bestaande uit een bedrag van € 254,18.  
 
 ### Artikel  40  
 
-Voor de be- en afhandeling van een aanvraag tot een vergunning voor de invoer van een handelsmonster als bedoeld in artikel 13, eerste lid, van richtlijn nr. 92/118/EEG en [artikel 2.4.2.6, van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten](../../../../../../../../../ministeriele-regeling/regeling/veterinairrechtelijke/voorschriften/handel/dierlijke/producten/BWBR0019235/README.md), is de aanvrager, dan wel diens vertegenwoordiger, een retributie verschuldigd, bestaande uit een bedrag van € 249,17.  
+Voor de be- en afhandeling van een aanvraag tot een vergunning voor de invoer van een handelsmonster als bedoeld in artikel 13, eerste lid, van richtlijn nr. 92/118/EEG en [artikel 2.4.2.6, van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten](../../../../../../../../../ministeriele-regeling/regeling/veterinairrechtelijke/voorschriften/handel/dierlijke/producten/BWBR0019235/README.md), is de aanvrager, dan wel diens vertegenwoordiger, een retributie verschuldigd, bestaande uit een bedrag van € 254,18.  
 
 ### Artikel  41  
 
 Voor de be- en afhandeling van een aanvraag tot goedkeuring als handelaar als bedoeld in artikel 13, eerste lid, onder a, van richtlijn nr. 97/78/EG, is de handelaar een retributie verschuldigd, bestaande uit: 
 
-a. starttarief van € 114,35, en  
+a. starttarief van € 116,64, en  
 
-b. een bedrag van € 31,15 per kwartier dat door een officiële dierenarts of een officiële assistent aan de be- en afhandeling is besteed.    
+b. een bedrag van € 31,77 per kwartier dat door een officiële dierenarts of een officiële assistent aan de be- en afhandeling is besteed.    
 
 ### Artikel  42  
 
 Voor de be- en afhandeling van een aanvraag tot erkenning van een entrepot als bedoeld in artikel 12, vierde lid, van richtlijn nr. 97/78/EG, is de exploitant of eigenaar van het entrepot, dan wel diens vertegenwoordiger een retributie verschuldigd, bestaande uit: 
 
-a. starttarief van € 114,35, en  
+a. starttarief van € 116,64, en  
 
-b. een bedrag van € 31,15 per kwartier dat door een officiële dierenarts of een officiële assistent aan de be- en afhandeling is besteed.    
+b. een bedrag van € 31,77 per kwartier dat door een officiële dierenarts of een officiële assistent aan de be- en afhandeling is besteed.    
 
 ### Artikel  43  
 
 Voor de be- en afhandeling van een aanvraag tot erkenning van een speciaal entrepot in de haven van bestemming als bedoeld in artikel 13, tweede lid, onder a, van richtlijn nr. 97/78/EG, is de exploitant of eigenaar van het entrepot, dan wel diens vertegenwoordiger een retributie verschuldigd, bestaande uit: 
 
-a. starttarief van € 114,35, en  
+a. starttarief van € 116,64, en  
 
-b. een bedrag van € 31,15 per kwartier dat door een officiële dierenarts of een officiële assistent aan de be- en afhandeling is besteed.    
+b. een bedrag van € 31,77 per kwartier dat door een officiële dierenarts of een officiële assistent aan de be- en afhandeling is besteed.    
 
 ### Artikel  44  
 
-Voor de be- en afhandeling van een aanvraag om te worden voorgedragen voor erkenning door de Europese Commissie als grensinspectiepost, overeenkomstig artikel 6, tweede lid, van richtlijn nr. 97/78/EG en beschikking nr. 2001/812/EG, is de aanvrager een retributie verschuldigd, bestaande uit een bedrag van € 23,74 per kwartier dat door een officiële dierenarts of een officiële assistent aan de be- en afhandeling is besteed.  
+Voor de be- en afhandeling van een aanvraag om te worden voorgedragen voor erkenning door de Europese Commissie als grensinspectiepost, overeenkomstig artikel 6, tweede lid, van richtlijn nr. 97/78/EG en beschikking nr. 2001/812/EG, is de aanvrager een retributie verschuldigd, bestaande uit een bedrag van € 24,21 per kwartier dat door een officiële dierenarts of een officiële assistent aan de be- en afhandeling is besteed.  
 
 ### Artikel  45  
 
 Voor de be- en afhandeling van een aanvraag tot verlening van een vergunning als bedoeld in artikel 4, eerste lid, van Richtlijn nr. 2006/88/EG, is de aanvrager een retributie verschuldigd, bestaande uit: 
 
-a. een starttarief van € 64,39, en  
+a. een starttarief van € 65,68, en  
 
-b. een bedrag van € 25,37 per kwartier dat door een officiële dierenarts of een officiële assistent aan de be- en afhandeling is besteed.    
+b. een bedrag van € 25,88 per kwartier dat door een officiële dierenarts of een officiële assistent aan de be- en afhandeling is besteed.    
 
 ### Artikel  46  
 
 1.  Voor de be- en afhandeling van een aanvraag tot erkenning van een kwaliteitssysteem als bedoeld in de [artikelen 56](../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) en [57 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md), is de aanvrager een retributie verschuldigd van: 
 
-a. € 1.744,16 voor een eerste aanvraag;  
+a. € 1.779,29 voor een eerste aanvraag;  
 
-b. € 996,66 voor een iedere aanvraag na afwijzing van een eerdere aanvraag.     
-2.  Indien de rechtspersoon als bedoeld in [artikel 59, eerste lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) een wijziging van gegevens als bedoeld in [artikel 57, vierde lid, onderdeel d, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) heeft doorgegeven overeenkomstig [artikel 62, zesde lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md), is de rechtspersoon voor de be- en afhandeling van die wijziging een retributie verschuldigd, bestaande uit een bedrag van: € 249,17.   
+b. € 1.016,74 voor een iedere aanvraag na afwijzing van een eerdere aanvraag.     
+2.  Indien de rechtspersoon als bedoeld in [artikel 59, eerste lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) een wijziging van gegevens als bedoeld in [artikel 57, vierde lid, onderdeel d, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) heeft doorgegeven overeenkomstig [artikel 62, zesde lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md), is de rechtspersoon voor de be- en afhandeling van die wijziging een retributie verschuldigd, bestaande uit een bedrag van: € 254,18.   
 
 ### Artikel  46a  
 
 Voor de be- en afhandeling van een aanvraag tot erkenning van een compartiment als bedoeld in de artikelen 4 en 6 van verordening (EG) nr. 616/2009 in samenhang met [artikel 113b Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md), is de aanvrager een bedrag verschuldigd, bestaande uit: 
 
-a. een starttarief van € 114,35, en  
+a. een starttarief van € 116,64, en  
 
-b. een bedrag van € 31,15 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent is besteed.    
+b. een bedrag van € 31,77 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent is besteed.    
 
 ### Artikel  47  
 
 1.  Voor door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de eisen verbonden aan de in de artikelen 31, 34, 36, 40, 41, 42, onderscheidenlijk 43 bedoelde vergunning, toelating, toestemming, aanwijzing, erkenning of registratie ten behoeve van de instandhouding daarvan, is de houder van de vergunning, toelating, aanwijzing, erkenning of registratie een retributie verschuldigd, bestaande uit: 
 
-a. een starttarief van € 114,35, en  
+a. een starttarief van € 116,64, en  
 
-b. een bedrag van € 31,15 per kwartier dat door een officiële dierenarts of een officiële assistent aan de werkzaamheden is besteed.     
+b. een bedrag van € 31,77 per kwartier dat door een officiële dierenarts of een officiële assistent aan de werkzaamheden is besteed.     
 2.  Voor door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de eisen verbonden aan de in artikel 45 bedoelde vergunning, ten behoeve van de instandhouding daarvan, is de houder van de vergunning, een retributie verschuldigd, bestaande uit: 
 
-a. een starttarief van € 64,39, en  
+a. een starttarief van € 65,68, en  
 
-b. een bedrag van € 25,37 per kwartier dat door een officiële dierenarts of een officiële assistent aan de werkzaamheden is besteed.     
-3.  Voor door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de eisen verbonden aan de in artikel 44 bedoelde erkenning ten behoeve van de instandhouding daarvan, is de houder van de erkenning een retributie verschuldigd, bestaande uit een bedrag van € 23,74 per kwartier dat door een officiële dierenarts of een officiële assistent aan de behandeling is besteed.   
+b. een bedrag van € 25,88 per kwartier dat door een officiële dierenarts of een officiële assistent aan de werkzaamheden is besteed.     
+3.  Voor door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de eisen verbonden aan de in artikel 44 bedoelde erkenning ten behoeve van de instandhouding daarvan, is de houder van de erkenning een retributie verschuldigd, bestaande uit een bedrag van € 24,21 per kwartier dat door een officiële dierenarts of een officiële assistent aan de behandeling is besteed.   
 
 ### Hoofdstuk  9  
 
@@ -608,14 +615,14 @@ a. een starttarief dat gelijk is aan het starttarief dat de exploitant op grond 
 b. een bedrag per kwartier dat aan de aanvullende officiële controle is besteed, welk bedrag gelijk is aan het bedrag per kwartier dat de exploitant op grond van deze regeling verschuldigd is ten aanzien van de werkzaamheden van de NVWA waarop de in de aanhef bedoelde controle een aanvulling vormt.     
 2.  In afwijking van het eerste lid is de exploitant voor een aanvullende officiële controle na vaststelling van niet-naleving in het kader van een controle als bedoeld in de artikelen 3, eerste en derde lid, 5 en 7, een bedrag verschuldigd, bestaande uit: 
 
-a. een starttarief van € 42,97, en  
+a. een starttarief van € 43,83, en  
 
-b. een bedrag van € 26,98 per kwartier dat aan de aanvullende officiële controle is besteed.     
+b. een bedrag van € 27,52 per kwartier dat aan de aanvullende officiële controle is besteed.     
 3.  In afwijking van het eerste lid is de exploitant voor een aanvullende officiële controle na vaststelling van niet-naleving in het kader van keuringswerkzaamheden als bedoeld in artikel 15, onderdeel c, en artikel 17, een bedrag verschuldigd, bestaande uit: 
 
-a. een starttarief van € 74,79, en  
+a. een starttarief van € 76,29, en  
 
-b. een bedrag van € 28,49 per kwartier dat aan de aanvullende officiële controle is besteed.     
+b. een bedrag van € 29,06 per kwartier dat aan de aanvullende officiële controle is besteed.     
 4.  Voor zover in het kader van de in het eerste, tweede of derde lid bedoelde aanvullende officiële controle laboratoriumonderzoek is verricht van chemische en microbiologische monsters die ten behoeve van die controle zijn genomen, is de exploitant, naast de in het eerste, onderscheidenlijk tweede of derde lid bedoelde vergoeding, een bedrag voor dit laboratoriumonderzoek verschuldigd.   
 5.  Het in het vierde lid bedoelde bedrag bedraagt de door de Minister te berekenen werkelijke kosten verbonden aan de onderzoeken, waaronder in welk geval zijn begrepen de kosten voor het verbruik van chemicaliën, hulpmiddelen en materialen, alsmede personeelskosten en huisvestingskosten.   
 
@@ -623,9 +630,9 @@ b. een bedrag van € 28,49 per kwartier dat aan de aanvullende officiële cont
 
 1.  Voor een aanvullende officiële controle na vaststelling van niet-naleving, als bedoeld in artikel 28 van verordening (EG) nr. 882/2004, niet zijnde een controle door de NVWA als bedoeld in artikel 47a, is de exploitant van de onderneming ten aanzien waarvan door de NVWA de aanvullende controle wordt verricht per aanvullende controle een bedrag verschuldigd, bestaande uit: 
 
-a. een starttarief van € 114,35, en  
+a. een starttarief van € 116,64, en  
 
-b. een bedrag van € 31,15 per kwartier dat aan de aanvullende officiële controle is besteed.     
+b. een bedrag van € 31,77 per kwartier dat aan de aanvullende officiële controle is besteed.     
 2.  Voor zover in het kader van de in het eerste lid bedoelde aanvullende officiële controle laboratoriumonderzoek is verricht van chemische en microbiologische monsters die ten behoeve van die controle zijn genomen, is de exploitant, naast de in het eerste lid bedoelde vergoeding, een bedrag voor dit laboratoriumonderzoek verschuldigd.   
 3.  Het in het tweede lid bedoelde bedrag bedraagt de door de Minister te berekenen werkelijke kosten verbonden aan de onderzoeken, waaronder in welk geval zijn begrepen de kosten voor het verbruik van chemicaliën, hulpmiddelen en materialen, alsmede personeelskosten en huisvestingskosten.   
 
@@ -638,66 +645,66 @@ b. een bedrag van € 31,15 per kwartier dat aan de aanvullende officiële cont
 1.  Indien de werkzaamheden, bedoeld in de artikelen 3, tweede lid, 5, 8, 9, 10, 10a, 10b, 11, 13, 15, 19, 20, 21, onderscheidenlijk 22, later zijn aangemeld dan op het van toepassing zijnde tijdstip genoemd in artikel 57, eerste, tweede, derde, onderscheidenlijk vierde lid, is de aanbieder, naast de ingevolge het desbetreffende artikelverschuldigde retributies, een retributie verschuldigd, bestaande uit een bedrag per kwartier dat de te laat aangemelde werkzaamheden duren.   
 2.  Het bedrag per kwartier, bedoeld in het eerste lid, bedraagt: 
 
-a. € 8,09 voor de werkzaamheden, bedoeld in de artikelen 3, tweede lid en 8;  
+a. € 8,26 voor de werkzaamheden, bedoeld in de artikelen 3, tweede lid en 8;  
 
-b. € 8,09 voor de werkzaamheden, bedoeld in artikel 5;  
+b. € 8,26 voor de werkzaamheden, bedoeld in artikel 5;  
 
-c. € 10,82 voor de werkzaamheden, bedoeld in de artikelen 9, 10 en 10a;  
+c. € 11,04 voor de werkzaamheden, bedoeld in de artikelen 9, 10 en 10a;  
 
-d. € 10,22 voor de werkzaamheden, bedoeld in de artikelen 10b, 11 en 13;  
+d. € 10,43 voor de werkzaamheden, bedoeld in de artikelen 10b, 11 en 13;  
 
-e. € 8,55 voor de werkzaamheden, bedoeld in de artikelen 15, aanhef, en onderdeel b, 21 en 22;  
+e. € 8,72 voor de werkzaamheden, bedoeld in de artikelen 15, aanhef, en onderdeel b, 21 en 22;  
 
-f. € 6,04 voor de werkzaamheden, bedoeld in artikel 15, aanhef en onderdeel c;  
+f. € 6,16 voor de werkzaamheden, bedoeld in artikel 15, aanhef en onderdeel c;  
 
-g. € 8,43 voor de werkzaamheden, bedoeld in de artikelen 19 en 20.     
+g. € 8,60 voor de werkzaamheden, bedoeld in de artikelen 19 en 20.     
 3.  Indien de werkzaamheden bedoeld in de artikelen 14, onderscheidenlijk 17, later zijn aangemeld dan op het van toepassing zijnde tijdstip genoemd in artikel 57, eerste, tweede, derde, onderscheidenlijk vierde lid, is de aanbieder, naast de ingevolge het desbetreffende artikelverschuldigde retributies, een retributie verschuldigd, bestaande uit een bedrag van: 
 
-a. € 13,74 voor de werkzaamheden tot afgifte van een certificaat, geleidebiljet, of verklaring als bedoeld in artikel 14, eerste lid, aanhef en onderdeel a, en onderdeel b, onder i, en tweede lid;  
+a. € 14,02 voor de werkzaamheden tot afgifte van een certificaat, geleidebiljet, of verklaring als bedoeld in artikel 14, eerste lid, aanhef en onderdeel a, en onderdeel b, onder i, en tweede lid;  
 
-b. € 3,43 voor de werkzaamheden tot afgifte van een certificaat, geleidebiljet of gewaarmerkt afschrift van een certificaat of geleidebiljet als bedoeld in artikel 14, eerste lid, aanhef en onderdeel b, onder ii en onderdeel c;  
+b. € 3,50 voor de werkzaamheden tot afgifte van een certificaat, geleidebiljet of gewaarmerkt afschrift van een certificaat of geleidebiljet als bedoeld in artikel 14, eerste lid, aanhef en onderdeel b, onder ii en onderdeel c;  
 
-c. € 18,68 voor de werkzaamheden, bedoeld in artikel 17.     
+c. € 19,05 voor de werkzaamheden, bedoeld in artikel 17.     
 
 ### Artikel  50  
 
 1.  Indien de werkzaamheden, bedoeld in de artikelen 3, tweede lid, 5, 8, 9, 10, 10a, 10b, 11, 13, 15, 19, 20, 21, onderscheidenlijk 22, naar het oordeel van de aanwezige medewerker van de NVWA meer tijd in beslag nemen dan is aangemeld op grond van artikel 58, eerste lid, onderdelen c en d, is de aanbieder, naast de ingevolge het desbetreffende artikelverschuldigde retributies, een retributie verschuldigd, bestaande uit een bedrag per kwartier dat de werkzaamheden langer duren dan is aangemeld.   
 2.  Het bedrag per kwartier, bedoeld in het eerste lid, bedraagt: 
 
-a. € 26,98 voor de werkzaamheden, bedoeld in de artikelen 3, tweede lid en 8;  
+a. € 27,52 voor de werkzaamheden, bedoeld in de artikelen 3, tweede lid en 8;  
 
-b. € 26,98 voor de werkzaamheden, bedoeld in artikel 5;  
+b. € 27,52 voor de werkzaamheden, bedoeld in artikel 5;  
 
-c. € 36,07 voor de werkzaamheden, bedoeld in de artikelen 9, 10 en 10a;  
+c. € 36,79 voor de werkzaamheden, bedoeld in de artikelen 9, 10 en 10a;  
 
-d. € 34,07 voor de werkzaamheden, bedoeld in de artikelen 10b, 11 en 13;  
+d. € 34,75 voor de werkzaamheden, bedoeld in de artikelen 10b, 11 en 13;  
 
-e. € 28,49 voor de werkzaamheden, bedoeld in de artikelen 15, aanhef, en onderdeel b, 21 en 22;  
+e. € 29,06 voor de werkzaamheden, bedoeld in de artikelen 15, aanhef, en onderdeel b, 21 en 22;  
 
-f. € 20,14 voor de werkzaamheden, bedoeld in artikel 15, aanhef, en onderdeel c;  
+f. € 20,54 voor de werkzaamheden, bedoeld in artikel 15, aanhef, en onderdeel c;  
 
-g. € 28,10 voor de werkzaamheden, bedoeld in de artikelen 19 en 20.     
-3.  Indien de werkzaamheden bedoeld in artikel 17, naar het oordeel van de aanwezige medewerker van de NVWA meer tijd in beslag nemen dan is aangemeld op grond van artikel 58, eerste lid, onderdelen c en d, is de aanbieder, naast de ingevolge het desbetreffende artikelverschuldigde retributies, een retributie verschuldigd, bestaande uit een bedrag van € 18,68.   
+g. € 28,66 voor de werkzaamheden, bedoeld in de artikelen 19 en 20.     
+3.  Indien de werkzaamheden bedoeld in artikel 17, naar het oordeel van de aanwezige medewerker van de NVWA meer tijd in beslag nemen dan is aangemeld op grond van artikel 58, eerste lid, onderdelen c en d, is de aanbieder, naast de ingevolge het desbetreffende artikelverschuldigde retributies, een retributie verschuldigd, bestaande uit een bedrag van € 19,05.   
 
 ### Artikel  51  
 
 1.  Indien de werkzaamheden, bedoeld in de artikelen 3, tweede lid, 5, 8, 9, 10, 10a, 10b, 11, 13, 15, 19, 20, 21, onderscheidenlijk 22, buiten openingstijd plaatsvinden, is de aanbieder, naast de ingevolge het desbetreffende artikel verschuldigde retributies, een retributie verschuldigd, bestaande uit een bedrag per kwartier dat de werkzaamheden buiten openingstijd plaatsvinden.   
 2.  Het bedrag per kwartier, bedoeld in het eerste lid, bedraagt: 
 
-a. € 8,09 voor de werkzaamheden, bedoeld in de artikelen 3, tweede lid en 8;  
+a. € 8,26 voor de werkzaamheden, bedoeld in de artikelen 3, tweede lid en 8;  
 
-b. € 8,09 voor de werkzaamheden, bedoeld in artikel 5;  
+b. € 8,26 voor de werkzaamheden, bedoeld in artikel 5;  
 
-c. € 10,82 voor de werkzaamheden, bedoeld in de artikelen 9, 10 en 10a;  
+c. € 11,04 voor de werkzaamheden, bedoeld in de artikelen 9, 10 en 10a;  
 
-d. € 10,22 voor de werkzaamheden, bedoeld in de artikelen 10b, 11 en 13;  
+d. € 10,43 voor de werkzaamheden, bedoeld in de artikelen 10b, 11 en 13;  
 
-e. € 8,55 voor de werkzaamheden, bedoeld in de artikelen 15, aanhef en onderdeel b, 21 en 22;  
+e. € 8,72 voor de werkzaamheden, bedoeld in de artikelen 15, aanhef en onderdeel b, 21 en 22;  
 
-f. € 6,04 voor de werkzaamheden, bedoeld in artikel 15, aanhef, en onderdeel c;  
+f. € 6,16 voor de werkzaamheden, bedoeld in artikel 15, aanhef, en onderdeel c;  
 
-g. € 8,43 voor de werkzaamheden, bedoeld in de artikelen 19 en 20.     
-3.  Indien de werkzaamheden bedoeld in artikel 17 buiten openingstijd plaatsvinden, is de aanbieder, naast de ingevolge het desbetreffende artikel verschuldigde retributies, een retributie verschuldigd, bestaande uit een bedrag van € 37,04 per kwartier dat de werkzaamheden buiten openingstijd plaatsvinden.   
+g. € 8,60 voor de werkzaamheden, bedoeld in de artikelen 19 en 20.     
+3.  Indien de werkzaamheden bedoeld in artikel 17 buiten openingstijd plaatsvinden, is de aanbieder, naast de ingevolge het desbetreffende artikel verschuldigde retributies, een retributie verschuldigd, bestaande uit een bedrag van € 37,78 per kwartier dat de werkzaamheden buiten openingstijd plaatsvinden.   
 1.  Indien het voor de goede uitvoering van de aanvullende officiële controle, bedoeld in artikel 47a, naar het oordeel van de NVWA noodzakelijk is deze buiten openingstijd te doen plaatsvinden, is de exploitant ten aanzien van de onderneming waarvan de aanvullende officiële controle wordt uitgevoerd een bedrag verschuldigd, naast het in artikel 47a, eerste, tweede, onderscheidenlijk derde lid, bedoelde bedrag, bestaande uit een bedrag van 30% van het in artikel 47a, eerste, tweede, onderscheidenlijk derde lid, bedoelde bedrag per kwartier, per kwartier dat de controle plaatsvindt buiten openingstijd.   
 2.  Indien het voor de goede uitvoering van de aanvullende officiële controle, bedoeld in artikel 48, naar het oordeel van de NVWA noodzakelijk is deze buiten openingstijd te doen plaatsvinden, is de exploitant ten aanzien van de onderneming waarvan de aanvullende officiële controle wordt uitgevoerd een bedrag verschuldigd, naast het in artikel 48 bedoelde bedrag, bestaande uit een bedrag van 30% van het in artikel 48, eerste lid, bedoelde bedrag per aanvullende officiële controle.   
 
@@ -710,20 +717,20 @@ a. per kwartier dat de onderbreking onderscheidenlijk het uitstel voor de met de
 b. per kwartier dat de werkzaamheden zouden hebben geduurd indien zij zouden zijn verricht door de persoon die met de desbetreffende werkzaamheden naar het oordeel van de minister, blijkens de melding, bedoeld in artikel 57, zou zijn belast.     
 2.  Het bedrag per kwartier, bedoeld in het eerste lid, bedraagt: 
 
-a. € 26,98 voor de werkzaamheden, bedoeld in de artikelen 3, tweede lid en 8;  
+a. € 27,52 voor de werkzaamheden, bedoeld in de artikelen 3, tweede lid en 8;  
 
-b. € 26,98 voor de werkzaamheden, bedoeld in artikel 5;  
+b. € 27,52 voor de werkzaamheden, bedoeld in artikel 5;  
 
-c. € 36,07 voor de werkzaamheden, bedoeld in de artikelen 9, 10 en 10a;  
+c. € 36,79 voor de werkzaamheden, bedoeld in de artikelen 9, 10 en 10a;  
 
-d. € 34,07 voor de werkzaamheden, bedoeld in de artikelen 10b, 11 en 13;  
+d. € 34,75 voor de werkzaamheden, bedoeld in de artikelen 10b, 11 en 13;  
 
-e. € 28,49 voor de werkzaamheden, bedoeld in de artikelen 15, aanhef, en onderdeel b, 21 en 22;  
+e. € 29,06 voor de werkzaamheden, bedoeld in de artikelen 15, aanhef, en onderdeel b, 21 en 22;  
 
-f. € 20,14 voor de werkzaamheden, bedoeld in artikel 15, aanhef, en onderdeel c;  
+f. € 20,54 voor de werkzaamheden, bedoeld in artikel 15, aanhef, en onderdeel c;  
 
-g. € 28,10 voor de werkzaamheden, bedoeld in de artikelen 19 en 20.     
-3.  Indien de werkzaamheden bedoeld in artikel 17, worden onderbroken of uitgesteld, onderscheidenlijk geheel of gedeeltelijk niet plaatsvinden, door omstandigheden buiten toedoen van de met de werkzaamheden belaste persoon of personen, is de aanbieder, een retributie verschuldigd, bestaande uit een bedrag van € 18,68.   
+g. € 28,66 voor de werkzaamheden, bedoeld in de artikelen 19 en 20.     
+3.  Indien de werkzaamheden bedoeld in artikel 17, worden onderbroken of uitgesteld, onderscheidenlijk geheel of gedeeltelijk niet plaatsvinden, door omstandigheden buiten toedoen van de met de werkzaamheden belaste persoon of personen, is de aanbieder, een retributie verschuldigd, bestaande uit een bedrag van € 19,05.   
 4.  Indien de aanvraag tot afgifte van een certificaat, geleidebiljet, gewaarmerkt afschrift van een certificaat of geleidebiljet of verklaring als bedoeld in artikel 14 wordt ingetrokken, door omstandigheden buiten toedoen van de met de werkzaamheden belaste persoon of personen, is de aanbieder een retributie verschuldigd, bestaande uit een bedrag gelijk aan de retributie die ingevolge artikel 14 verschuldigd zou zijn indien daadwerkelijk tot afgifte zou zijn overgegaan.   
 5.  De in het eerste, tweede en derde lid bedoelde retributies worden naast de ingevolge de desbetreffende artikelen verschuldigde retributies in rekening gebracht, voor zover er sprake is van een situatie waarin de desbetreffende werkzaamheden worden uitgesteld of waarin een aanvang met de desbetreffende werkzaamheden is gemaakt, maar deze vervolgens zijn onderbroken of gedeeltelijk niet plaatsvinden.   
 6.  Dit artikel is niet van toepassing indien de melding, bedoeld in artikel 58, derde lid, tijdig is gedaan.   
@@ -735,7 +742,7 @@ g. € 28,10 voor de werkzaamheden, bedoeld in de artikelen 19 en 20.
 a. per kwartier dat de onderbreking onderscheidenlijk het uitstel voor de met de werkzaamheden belaste persoon heeft geduurd, onderscheidenlijk  
 
 b. per kwartier dat de werkzaamheden zouden hebben geduurd indien zij zouden zijn verricht door de persoon die met de desbetreffende werkzaamheden zou zijn belast.     
-2.  Naast de retributie bedoeld in artikel 16, is de aanbieder voor de in dat artikel bedoelde werkzaamheden een retributie verschuldigd van € 13,66, per kwartierdat door de officiële assistent, bedoeld in dat artikel, aan deze werkzaamheden is besteed nadat de duur waarvoor de werkzaamheden zijn aangevraagd overeenkomstig artikel 57, met meer dan een kwartier is overschreden.   
+2.  Naast de retributie bedoeld in artikel 16, is de aanbieder voor de in dat artikel bedoelde werkzaamheden een retributie verschuldigd van € 13,00, per kwartierdat door de officiële assistent, bedoeld in dat artikel, aan deze werkzaamheden is besteed nadat de duur waarvoor de werkzaamheden zijn aangevraagd overeenkomstig artikel 57, met meer dan een kwartier is overschreden.   
 3.  Naast de retributie bedoeld in artikel 16, is de aanbieder voor de in dat artikel bedoelde werkzaamheden die plaatsvinden buiten openingstijden een retributie verschuldigd van: 
 
 a. indien deze werkzaamheden plaatsvinden op werkdagen tussen 18.00 en 22.00 uur: € 1,50 per kwartier dat door de officiële assistent, bedoeld in artikel 16, aan deze werkzaamheden is besteed;  
@@ -745,8 +752,8 @@ b. indien deze werkzaamheden plaatsvinden op werkdagen tussen 22.00 en 0.00 uur:
 c. indien deze werkzaamheden plaatsvinden op werkdagen tussen 0.00 en 06.00 uur: € 3,01 per kwartier dat door de officiële assistent, bedoeld in artikel 16, aan deze werkzaamheden is besteed.     
 4.  Naast de retributie, bedoeld in artikel 16, is de aanbieder een retributie verschuldigd bestaande uit een bedrag van € 5,27 per kwartier dat door de officiële assistent, bedoeld in artikel 16, aan de in dat artikel bedoelde post mortem keuringswerkzaamheden is besteed, indien deze werkzaamheden op verzoek van de aanbieder op een zaterdag of zondag plaatsvinden.   
 5.  Naast de retributie, bedoeld in artikel 16, is de aanbieder een retributie verschuldigd bestaande uit een bedrag van € 7,54 per kwartier dat door de officiële assistent, bedoeld in artikel 16, aan de in dat artikel bedoelde post mortem keuringswerkzaamheden is besteed, indien deze werkzaamheden op verzoek van de aanbieder op een algemeen erkende feestdag plaatsvinden.   
-6.  Naast de retributie, bedoeld in artikel 16, is de aanbieder een retributie verschuldigd van € 3,01 per kwartier dat door de officiële assistent, bedoeld in artikel 16, aan de in dat artikel bedoelde post mortem keuringswerkzaamheden is besteed, indien deze werkzaamheden door elkaar opvolgende, in tweeploegendienst werkende, ploegen worden uitgevoerd.   
-7.  Indien sprake is van een situatie als bedoeld in het zesde lid, dan geldt bij de toepassing van het eerste en tweede lid een verhoging van de daar bedoelde retributie met € 3,01 en zijn de retributies bedoeld in het derde lid onder a) en b) niet van toepassing.   
+6.  Naast de retributie, bedoeld in artikel 16, is de aanbieder een retributie verschuldigd van gebaseerd op de daadwerkelijke extra kosten per kwartier dat door de officiële assistent, bedoeld in artikel 16, aan de in dat artikel bedoelde post mortem keuringswerkzaamheden is besteed, indien deze werkzaamheden door elkaar opvolgende, in tweeploegendienst werkende, ploegen worden uitgevoerd.   
+7.  Indien sprake is van een situatie als bedoeld in het zesde lid, dan geldt bij de toepassing van het eerste en tweede lid een verhoging van de daar bedoelde retributie met de retributies gebaseerd op de daadwerkelijke extra kosten, bedoeld in het zesde lid en zijn de retributies bedoeld in het derde lid onder a) en b) niet van toepassing.   
 8.  Voor de toepassing van het derde lid wordt onder openingstijd verstaan: periode van maandag tot en met vrijdag, met uitzondering van algemeen erkende feestdagen, van 06.00 uur tot 18.00 uur.   
 
 ### Hoofdstuk  11  
@@ -836,7 +843,7 @@ d. indien het de melding, bedoeld in artikel 57, vierde lid, betreft: uiterlijk 
 
 ### Artikel  59  
 
-Betalingsplichtigen verstrekken aan ambtenaren van de NVWA en de departementale accountantsdienst van het ministerie van Economische Zaken, Landbouw en Innovatie, op verzoek, terstond en naar waarheid, alle inlichtingen die naar hun oordeel voor de uitvoering van deze regeling noodzakelijk zijn.  
+Betalingsplichtigen verstrekken aan ambtenaren van de NVWA en de Auditdienst Rijk, op verzoek, terstond en naar waarheid, alle inlichtingen die naar hun oordeel voor de uitvoering van deze regeling noodzakelijk zijn.  
 
 ### Hoofdstuk  13  
 
@@ -845,6 +852,10 @@ Betalingsplichtigen verstrekken aan ambtenaren van de NVWA en de departementale 
 ### Artikel  60  
 
 Op een zekerheid, die op grond van [artikel 3, eerste lid, van de Regeling zekerheidsstelling en betaling VWA-keurlonen](../../../../../../../../../ministeriele-regeling/regeling/zekerheidsstelling/en/betaling/van/vwa-keurlonen/BWBR0006003/README.md) ter voldoening van een retributie als bedoeld in de [Regeling retributies VWA veterinaire en hygiënische aangelegenheden](../../../../../../../../../ministeriele-regeling/regeling/retributies/vwa/veterinaire/en/hygiënische/aangelegenheden/BWBR0019325/README.md) en de [Regeling retributies veterinaire en hygiënische aangelegenheden](../../../../../../../../../ministeriele-regeling/regeling/retributies/veterinaire/en/hygiënische/aangelegenheden/BWBR0023098/README.md) werd gesteld vóór de inwerkingtreding van deze regeling, blijft de [Regeling zekerheidsstelling en betaling VWA-keurlonen](../../../../../../../../../ministeriele-regeling/regeling/zekerheidsstelling/en/betaling/van/vwa-keurlonen/BWBR0006003/README.md) zoals deze na inwerkingtreding van deze regeling luidt, onverkort van toepassing.  
+
+### Artikel  60a  
+
+Deze regeling berust mede op [artikel 9.1 van de Wet dieren](../../../../../../../../../wet/wet/dieren/BWBR0030250/README.md).  
 
 ### Artikel  61  
 

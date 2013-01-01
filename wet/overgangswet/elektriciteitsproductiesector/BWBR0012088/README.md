@@ -118,10 +118,6 @@ b. de rechtspersonen die de kosten, bedoeld in artikel 7, onderdeel b, dragen.
 1.  Het tarief dat door een vergunninghouder in de periode van 1 augustus 2000 tot en met 31 december 2000 in rekening wordt gebracht voor het leveren van elektriciteit, gas of warmte aan beschermde afnemers kan ter dekking van de in [artikel 10, tweede lid, van de Wet energiedistributie](../../../../wet/wet/energiedistributie/BWBR0008429/README.md) bedoelde kosten worden verhoogd met ten hoogste 5,04%.   
 2.  Indien een beschermde afnemer aan een vergunninghouder over het jaar 2000 of een gedeelte daarvan reeds een voorschot betaald heeft om de tariefsverhoging, bedoeld in het eerste lid, te voldoen, verrekent de vergunninghouder bij de eindafrekening over het jaar 2000 dit voorschot met de totale verschuldigde tariefsverhoging.   
 
-### Artikel  15  
-
-In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroep tegen een besluit op grond van deze wet de rechtbank te Arnhem bevoegd.  
-
 ### Paragraaf  6  
 
 ####Wijziging andere wetten

@@ -21,7 +21,7 @@ In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon
 
 ### Artikel  2  
 
-De personen, werkzaam in de functie van ambtenaar van politie, als bedoeld in [artikel 3, eerste lid, onder b, van de Politiewet 1993](../../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), in dienst van de regiopolitie Friesland, zijn aangewezen als buitengewoon opsporingsambtenaar.  
+Als buitengewoon opsporingsambtenaar worden aangewezen de ambtenaren van politie, bedoeld in [artikel 2, onder b, van de Politiewet 2012](../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) die hun werkgebied hebben in de regionale eenheid Noord-Nederland, voorheen Friesland.  
 
 ### Artikel  3  
 
@@ -35,16 +35,16 @@ Op grond van dit besluit kunnen maximaal 300 personen als buitengewoon opsporing
 
 ### Artikel  5  
 
-1.  Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de hoofdofficier van justitie bij het Arrondissementsparket te Groningen.   
-2.  Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de korpschef van de regiopolitie Friesland.   
+1.  Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de hoofdofficier van justitie bij het arrondissementsparket Noord-Nederland.   
+2.  Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).   
 
 ### Artikel  6  
 
-De buitengewoon opsporingsambtenaar kan de in [artikel 8, eerste en derde lid, van de Politiewet 1993](../../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) omschreven bevoegdheden uitoefenen en daarbij gebruikmaken van handboeien.  
+De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, van de Politiewet 2012](../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) omschreven bevoegdheden uitoefenen en daarbij gebruikmaken van handboeien.  
 
 ### Artikel  7  
 
-1.  De korpschef van de regiopolitie Friesland brengt jaarlijks, voor 1 april, verslag uit over: 
+1.  De korpschef brengt jaarlijks, voor 1 april, verslag uit over: 
 
 a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in artikel 2 genoemde functie;  
 

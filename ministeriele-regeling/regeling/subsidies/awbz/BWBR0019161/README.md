@@ -31,7 +31,43 @@ f. algemeen fonds: het fonds, genoemd in [artikel 89 van de Wet financiering soc
 
 g. zorgkantoor: een verbindingskantoor als bedoeld in [artikel 1, onder c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md);  
 
-h. regio: het werkgebied waarvoor het zorgkantoor als verbindingskantoor ingevolge het [Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md) door de Minister van Volksgezondheid, Welzijn en Sport is aangewezen.    
+h. regio: het werkgebied waarvoor het zorgkantoor als verbindingskantoor ingevolge het [Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md) door de Minister van Volksgezondheid, Welzijn en Sport is aangewezen;  
+
+i. AWBZ: [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+
+j. persoonlijke verzorging, verpleging, begeleiding en vervoer: hetgeen daaronder wordt verstaan in het [Besluit zorgaanspraken AWBZ](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md);  
+
+k. kortdurend verblijf: hetgeen daaronder wordt verstaan in het [Besluit zorgaanspraken AWBZ](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), gedurende niet meer dan twee etmalen per week, met dien verstande dat de desbetreffende zorg niet door een instelling hoeft te worden verleend;  
+
+l. verblijf: hetgeen daaronder wordt verstaan in het [Besluit zorgaanspraken AWBZ](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md);  
+
+m. indicatiebesluit: een beschikking als bedoeld in [artikel 1, aanhef en onder d, van het Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md);  
+
+n. Keurmerkinstituut: het te Zoetermeer gevestigde Keurmerkinstituut B.V.;  
+
+o. leefeenheid: twee of meer bewoners van één woonadres als bedoeld in [artikel 1 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), in de volgende samenstelling: 
+
+1°. een of meer gehuwde verzekerden, al dan niet tezamen met een of meer minderjarige verzekerden,  
+
+2°. een meerderjarige ongehuwde verzekerde tezamen met een of meer minderjarige verzekerden, of  
+
+3°. een meerderjarige verzekerde met een of meer andere meerderjarige verzekerden en het bloed- of aanverwanten in de eerste of tweede graad betreft;    
+
+p. persoonsgebonden budget: een subsidie waarmee de verzekerde onder de in paragraaf 2.6 genoemde voorwaarden aan hem te verlenen zorg als bedoeld in onderdelen j en k kan inkopen;  
+
+q. vergoeding persoonlijke zorg: een subsidie waarmee de verzekerde in 2012 onder de in paragraaf 2.7, zoals die paragraaf luidde voor 1 januari 2013, genoemde voorwaarden aan hem te verlenen zorg als bedoeld in onderdelen j en k kon kan inkopen;  
+
+r. budgetplan: een overzicht van de door de verzekerde voorgenomen besteding van het te verlenen persoonsgebonden budget;  
+
+s. langdurige zorgbehoefte: een zorgbehoefte die, blijkens het indicatiebesluit, ten minste een jaar na de datum waarop de verzekerde volgens dat besluit op de geïndiceerde vorm van zorg of vormen van zorg is aangewezen zal bestaan;  
+
+t. zorgzwaartepakket: hetgeen daaronder wordt verstaan in de [Regeling zorgaanspraken AWBZ](../../../../../ministeriele-regeling/regeling/zorgaanspraken/awbz/BWBR0014855/README.md);  
+
+u. kleinschalig wooninitiatief: een woonsituatie waarbij 
+
+a. minimaal 3 en maximaal 26 bewoners een persoonsgebonden budget ontvangen voor ten minste de functies persoonlijke verzorging en begeleiding individueel en hiervoor door bundeling van persoonsgebonden budgetten gezamenlijk de zorg inkopen, en  
+
+b. de bewoners verblijven op één woonadres als bedoeld in [artikel 1 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), of op meerdere woonadressen binnen een straal van 100 meter, waarin ten minste één gemeenschappelijke verblijfsruimte aanwezig is die geschikt is voor het ontplooien van gezamenlijke activiteiten.      
 
 ### Artikel  1.1.2  
 
@@ -371,8 +407,8 @@ c. coördinatie van projecten integrale vroeghulp.
 
 ### Artikel  2.5.2  
 
-1.  Het subsidieplafond voor collectieve en individuele cliëntondersteuning bedraagt voor het jaar 2011 € 181 463 148.   
-2.  Het subsidieplafond voor de coördinatie van projecten integrale vroeghulp bedraagt voor het jaar 2011 € 1 611 646.   
+1.  Het subsidieplafond voor collectieve en individuele cliëntondersteuning bedraagt voor het jaar 2013 € 172 102 678.   
+2.  Het subsidieplafond voor de coördinatie van projecten integrale vroeghulp bedraagt voor het jaar 2013 € 1 736 265.   
 
 ### Artikel  2.5.3  
 
@@ -382,10 +418,9 @@ a. het vergaren en verstrekken van informatie en het geven van voorlichting aan 
 
 b. het signaleren van relevante ontwikkelingen en belemmeringen, en  
 
-c. het scheppen van voorwaarden voor maatschappelijke activering en integratie door middel van het opbouwen en onderhouden van de sociale kaart en relevante netwerken.     
+c. het scheppen van voorwaarden voor maatschappelijke activering en integratie voor cliënten door onder meer samenwerking met gemeenten en lokale partijen.     
 2.  Subsidie wordt slechts verleend voor zover tussen de MEE-organisatie en het door het College zorgverzekeringen voor hem aangewezen zorgkantoor schriftelijk overeenstemming is bereikt over de omvang van de activiteiten bedoeld in het eerste lid.   
-3.  De subsidieverlening bedraagt in 2011 maximaal € 1 970 per 1000 inwoners, waarbij wordt uitgegaan van het aantal inwoners op 1 januari van het jaar voorafgaande aan het subsidiejaar.   
-4.  Indien het in 2010 verleende subsidiebedrag hoger is dan € 1 949 per 1000 inwoners, bedraagt de subsidieverlening per 1000 inwoners maximaal het in 2010 verleende subsidiebedrag per 1000 inwoners verhoogd met 1,0107%, waarbij wordt uitgegaan van het aantal inwoners op 1 januari van het jaar voorafgaande aan het subsidiejaar.   
+3.  De subsidieverlening bedraagt in 2013 maximaal € 3 086 per 1000 inwoners, waarbij wordt uitgegaan van het aantal inwoners op 1 januari van het jaar voorafgaande aan het subsidiejaar.   
 
 ### Artikel  2.5.4  
 
@@ -408,39 +443,38 @@ g. dienst C: volledige beeldvorming;
 h. dienst D: kortdurende en kortcyclische ondersteuning, en  
 
 i. dienst E: aanbieding van cursussen in groepen.     
-2.  De ten behoeve van 2011 te verlenen subsidie wordt berekend op basis van de volgende normbedragen: 
+2.  De ten behoeve van 2013 te verlenen subsidie wordt berekend op basis van de volgende normbedragen:  
 
-a. dienst A: € 276;  
+| --- | --- | --- |
+|:---|:---|:---|
+| a.  | dienst A  | € 284;  |
+| b.  | dienst B1  | € 1 054;  |
+| c.  | dienst B2  | € 1 459;  |
+| d.  | dienst B3  | € 1 216;  |
+| e.  | dienst B4  | € 689;  |
+| f.  | dienst B5  | € 892;  |
+| g.  | dienst C  | € 1 196;  |
+| h.  | dienst D  | € 1 702;  |
+| i.  | dienst E  | € 567.  |
 
-b. dienst B1: € 1 026;  
-
-c. dienst B2: € 1 420;  
-
-d. dienst B3: € 1 184;  
-
-e. dienst B4: € 671;  
-
-f. dienst B5: € 868;  
-
-g. dienst C: € 1 165;  
-
-h. dienst D: € 1 657;  
-
-i. dienst E: € 552.     
 3.  De normbedragen voor de diensten A tot en met D hebben betrekking op in het subsidiejaar afgesloten diensten. Het normbedrag voor dienst E heeft betrekking op in het subsidiejaar gegeven cursusbijeenkomsten.   
 4.  De subsidieverlening bedraagt het product van het aantal diensten en de in het tweede lid genoemde normbedragen.   
 5.  Subsidie wordt slechts verleend voor zover tussen de MEE-organisatie en het door het College zorgverzekeringen voor hem aangewezen zorgkantoor schriftelijk overeenstemming is bereikt over de omvang van de activiteiten bedoeld in het eerste lid.   
-6.  Indien de gezamenlijke aanvragen voor subsidieverlening voor individuele cliëntondersteuning hoger zijn dan het voor verlening uit hoofde van het subsidieplafond beschikbare budget, vindt de verlening plaats op basis van de volgende systematiek: 
+6.  Indien de gezamenlijke waarde van de in het subsidiejaar gerealiseerde diensten, als bedoeld in het eerste lid, lager is dan de verleende subsidie dan wordt de subsidieverlening dienovereenkomstig verlaagd, met dien verstande dat de aldus herziene subsidieverlening minimaal 90% bedraagt van de aanvankelijk verleende subsidie.   
+7.  Toepassing van het zevende lid leidt niet tot hernieuwde toepassing van artikel 2.5.4a.   
 
-a. subsidie wordt verleend tot het bedrag van de in het voorgaande subsidiejaar voor individuele cliëntondersteuning verleende subsidie, waarbij toepassing van het zevende lid en artikel 1.7.3 buiten beschouwing blijft, voor zover dat bedrag is aangevraagd;  
+### Artikel  2.5.4a  
 
-b. de na toepassing van onderdeel a en artikel 2.5.3, derde lid, nog resterende middelen voor het verstrekken van subsidie worden als volgt verdeeld: 
+Indien de gezamenlijke aanvragen voor subsidieverlening voor collectieve en individuele cliëntondersteuning hoger zijn dan het voor verlening uit hoofde van het subsidieplafond, bedoeld in artikel 2.5.2, eerste lid, beschikbare budget, vindt verlening in 2013 plaats op basis van de volgende systematiek: 
 
-1°. voor de MEE-organisaties die minder dan 110% van het gemiddelde subsidiebedrag voor individuele diensten per inwoner ontvangen, waarbij wordt uitgegaan van het aantal inwoners op 1 januari voorafgaande aan het subsidiejaar, wordt de subsidie geïndexeerd met toepassing van artikel 1.7.3;  
+a. het totaal van de op basis van 2.5.3 verleende subsidie voor collectieve cliëntondersteuning en het op basis van artikel 2.5.4 verleende bedrag voor individuele cliëntondersteuning bedraagt niet meer dan 91,224% van de totale subsidie voor collectieve en individuele cliëntondersteuning die zonder toepassing van artikel 1.7.3 is verleend ten behoeve van 2012;  
 
-2°. de vervolgens resterende middelen worden toegekend aan MEE-organisaties met het laagste gemiddelde subsidiebedrag voor individuele diensten per inwoner, waarbij wordt uitgegaan van het aantal inwoners op 1 januari van het jaar voorafgaande aan het subsidiejaar. Het gemiddelde subsidiebedrag per inwoner van deze MEE-organisaties wordt gelijkelijk verhoogd tot ten hoogste het gemiddelde subsidiebedrag per inwoner van de MEE-organisatie met het één na laagste gemiddelde subsidiebedrag per inwoner. Dit wordt herhaald tot de resterende middelen volledig verdeeld zijn of tot het gemiddelde subsidiebedrag per inwoner gelijk is aan dat van MEE-organisaties als bedoeld in onderdeel 1°.       
-7.  Indien de gezamenlijke waarde van de in het subsidiejaar gerealiseerde diensten, als bedoeld in het eerste lid, lager is dan de verleende subsidie dan wordt de subsidieverlening dienovereenkomstig verlaagd, met dien verstande dat de aldus herziene subsidieverlening minimaal 90% bedraagt van de aanvankelijk verleende subsidie.   
-8.  Toepassing van het zevende lid leidt niet tot hernieuwde toepassing van het zesde lid.   
+b. subsidie voor individuele cliëntondersteuning wordt verleend tot het in onderdeel a bedoelde maximum bedrag minus het op grond van artikel 2.5.3 verleende bedrag voor collectieve cliëntondersteuning;  
+
+c. subsidie voor individuele cliëntondersteuning wordt verleend voor zover dat bedrag is aangevraagd;  
+
+d. de na toepassing van artikel 2.5.3, artikel 2.5.4 en de onderdelen a tot en met c nog resterende middelen worden verdeeld volgens de volgende formule:   ![251494](http://wetten.overheid.nl/Illustration/251494)
+waarbij wordt verstaan onder: A: het nog resterende deel van de aanvraag voor individuele cliëntondersteuning van de MEE-organisatie; B: het totaal van de nog resterende delen van alle aanvragen voor individuele cliëntondersteuning van de MEE-organisaties; C: de na toepassing van artikel 2.5.3, artikel 2.5.4 en de onderdelen a tot en met c nog resterende middelen.    
 
 ### Artikel  2.5.5  
 
@@ -458,9 +492,9 @@ e. beschikt over een laagdrempelig aanmeldpunt, en
 
 f. beschikt over een projectplan dat de instemming heeft van de partijen die de samenwerkingsovereenkomst, bedoeld onder a, zijn aangegaan.     
 2.  De kosten die de MEE-organisatie maakt als samenwerkingspartner bij de uitvoering van projecten integrale vroeghulp vallen onder het subsidieplafond van artikel 2.5.2, tweede lid. De kosten van de overige samenwerkingspartners in een project integrale vroeghulp kunnen niet ten laste van deze subsidieparagraaf worden gebracht.   
-3.  Het subsidieplafond genoemd in artikel 2.5.2, tweede lid, wordt in 2011 als volgt verdeeld: 
+3.  Het subsidieplafond genoemd in artikel 2.5.2, tweede lid, wordt in 2013 als volgt verdeeld: 
 
-a. € 18 000 per MEE-organisatie;  
+a. € 17 464 per MEE-organisatie;  
 
 b. de vervolgens nog resterende subsidie wordt over de MEE-organisaties verdeeld op basis van het aantal inwoners, waarbij wordt uitgegaan van het aantal inwoners op 1 januari van het jaar voorafgaande aan het subsidiejaar.     
 
@@ -485,24 +519,23 @@ b. financiering van een spaar/verlofovereenkomst overeenkomstig de CAO Gehandica
 
 c. loonkosten als gevolg van ziekte en arbeidsongeschiktheid overeenkomstig de CAO Gehandicaptenzorg waarvoor de MEE-organisatie niet verzekerd is;  
 
-d. kosten van arbeidsrechtelijke geschillen, voor zover deze kosten voortvloeien uit een gerechtelijke uitspraak.     
+d. kosten van arbeidsrechtelijke geschillen, voor zover deze kosten voortvloeien uit een gerechtelijke uitspraak;  
+
+e. wachtgelden die voortvloeien uit de toepasselijke collectieve arbeidsovereenkomst.     
 2.  Voor zover in de volgende leden niet anders is bepaald, is op deze voorzieningen [artikel 374 van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van toepassing.   
 3.  Toevoeging aan de voorziening bedoeld in het eerste lid, onderdeel a, is slechts mogelijk voor zover de huisvestingskosten lager zijn dan 12,8% van de voor collectieve en individuele cliëntondersteuning verleende subsidie. Het maximum van de voorziening bedraagt 10% van de op grond van de [Wet waardering onroerende zaken](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) vastgestelde waarde van het pand.   
 4.  Toevoeging aan de voorziening bedoeld in het eerste lid, onderdeel c, is slechts mogelijk voor zover deze voorziening, inclusief de toevoeging, niet meer bedraagt dan 7,56% van de bruto salariskosten in het subsidiejaar.   
-5.  Kosten waarvoor een voorziening als bedoeld in de voorgaande leden is gevormd, worden ten laste van die voorziening gebracht.   
+5.  Toevoeging aan de voorziening bedoeld in het eerste lid, onderdeel e, is slechts mogelijk in 2012 en bedraagt niet meer dan 5% van de subsidie die ten behoeve van 2012 is verleend voor collectieve en individuele cliëntondersteuning.   
+6.  Kosten waarvoor een voorziening als bedoeld in de voorgaande leden is gevormd, worden ten laste van die voorziening gebracht.   
 
 ### Artikel  2.5.6b  
 
-1.  In afwijking van artikel 1.8.7, achtste lid, kan toevoeging aan de in artikel 1.8.7, eerste lid, bedoelde reservering niet plaatsvinden als de in artikel 1.8.7, eerste lid, bedoelde reservering reeds 8,7% of meer van de voor dat jaar verleende subsidie voor individuele en collectieve cliëntondersteuning betreft.   
-2.  Artikel 1.8.7 is niet van toepassing op de subsidie voor de coördinatie van projecten integrale vroeghulp.   
+Artikel 1.8.7 is niet van toepassing op de subsidie voor coördinatie van projecten integrale vroeghulp.  
 
 ### Artikel  2.5.7  
 
 1.  De aanvraag voor de subsidievaststelling gaat vergezeld van een overzicht van de aan de activiteiten, genoemd in artikel 2.5.3, eerste lid, en de diensten, genoemd in artikel 2.5.4, eerste lid, bestede tijd.   
 2.  De aanvraag tot subsidievaststelling wordt pas in behandeling genomen als het door het College zorgverzekeringen voor de betrokken MEE-organisatie aangewezen zorgkantoor schriftelijk met de aanvraag heeft ingestemd.   
-3.  Het College zorgverzekeringen kan bij de subsidievaststelling van enig jaar overheveling van onbenutte subsidie tussen MEE-organisaties toepassen. Deze overheveling is slechts mogelijk als de gezamenlijke waarde van de in het subsidiejaar gerealiseerde diensten, als bedoeld in artikel 2.5.4, eerste lid, hoger is dan de voor individuele cliëntondersteuning verleende subsidie en kan slechts leiden tot een verhoging van maximaal 12,5% van de voor individuele cliëntondersteuning verleende subsidie.   
-4.  Indien er meer MEE-organisaties zijn met een overschrijding van de verleende subsidie en er onvoldoende onbenutte subsidiegelden binnen het subsidieplafond zijn, worden deze overschrijdingen naar rato toegekend overeenkomstig de volgende formule:   ![195018](http://wetten.overheid.nl/Illustration/195018)
-waarbij wordt verstaan: A: de overschrijding per MEE-organisatie tot maximaal 12,5% van de verleende subsidie voor de individuele cliëntondersteuning; B: de overschrijding van alle MEE-organisaties samen met inachtneming van de maximering tot 12,5% van de verleende subsidie voor de individuele cliëntondersteuning; C: de onbenutte subsidiegelden binnen het subsidieplafond.   
 
 ### Artikel  2.5.8  
 
@@ -511,205 +544,191 @@ waarbij wordt verstaan: A: de overschrijding per MEE-organisatie tot maximaal 12
 
 ### Artikel  2.5.9  
 
-1.  De MEE-organisatie verricht de activiteiten, bedoeld in artikel 2.5.1, in samenwerking met de gemeenten in haar werkgebied.   
-2.  De MEE organisatie doet uiterlijk 1 april 2012 verslag met een door het College zorgverzekeringen vastgesteld formulier aan het College Zorgverzekeringen over de samenwerking met elke gemeente in haar werkgebied over de tweede helft van 2010 en over geheel 2011. Het verslag vermeldt onder andere welke meerjarige afspraken de MEE organisatie met elke gemeente in haar werkgebied heeft gemaakt over samenwerking.   
+1.  De MEE-organisatie verricht de activiteiten, bedoeld in artikel 2.5.1, in samenwerking met de gemeenten in haar werkgebied en maakt daarover schriftelijke afspraken met die gemeenten.   
+2.  De MEE-organisatie doet uiterlijk 1 april 2013 verslag aan het College zorgverzekeringen met een door het College zorgverzekeringen vastgesteld formulier over de afspraken, bedoeld in het eerste lid, die de MEE-organisatie heeft gemaakt. Binnen drie maanden na afloop van het subsidiejaar doet de MEE-organisatie verslag aan het College zorgverzekeringen met een door het College zorgverzekeringen vastgesteld formulier over de uitvoering van afspraken, bedoeld in het eerste lid.   
 
 ### Paragraaf  2.6  
 
 ####Persoonsgebonden budget
 
-### Artikel  2.6.1  
-
-In deze paragraaf wordt verstaan onder: 
-
-a. AWBZ: [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
-
-b. persoonlijke verzorging, verpleging, begeleiding en vervoer: hetgeen daaronder wordt verstaan in het [Besluit zorgaanspraken AWBZ](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), met dien verstande dat de desbetreffende zorg niet door een instelling hoeft te worden verleend;  
-
-c. verblijf: hetgeen daaronder wordt verstaan in het [Besluit zorgaanspraken AWBZ](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md);  
-
-d. kortdurend verblijf: tijdelijk verblijf gedurende gemiddeld niet meer dan twee etmalen per week, met dien verstande dat het verblijf niet door een instelling hoeft te worden verleend;  
-
-e. indicatiebesluit: een beschikking als bedoeld in [artikel 9b, eerste lid, van de AWBZ](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), van het bevoegde indicatieorgaan;  
-
-f. netto persoonsgebonden budget: een subsidie waarmee de verzekerde aan hem te verlenen zorg als bedoeld in onderdeel b of d kan inkopen.    
-
 ### Artikel  2.6.2  
 
-1.  Aan zorgkantoren wordt op aanvraag per kalenderjaar een subsidie verleend die is bestemd voor het met inachtneming van de artikelen 2.6.4 tot en met 2.6.13 verstrekken van netto persoonsgebonden budgetten.   
-2.  Het subsidieplafond voor de in het eerste lid bedoelde activiteiten bedraagt: voor het jaar 2011 € 2 716 000 000.   
-3.  Voor verleende persoonsgebonden budgetten als bedoeld in het eerste lid wordt voor het jaar 2011 een maximale subsidie in aanmerking genomen, die wordt berekend overeenkomstig de volgende formule: (A × B) / C × € 2 641 000 000 waarbij wordt verstaan onder: A: het aantal verzekerden in de regio van het zorgkantoor waaraan op 31 augustus van het jaar voorafgaand aan het subsidiejaar een persoonsgebonden budget was verleend op grond van deze paragraaf; B: het gemiddeld op jaarbasis op 31 augustus van het jaar voorafgaand aan het subsidiejaar door het zorgkantoor aan de onder A bedoelde verzekerden verleende netto persoonsgebonden budget; C: de som van de tellers voor alle zorgkantoren tezamen.   
-4.  voor het jaar 2011 wordt € 75 000 000 verdeeld met inachtneming van door het College zorgverzekeringen vast te stellen beleidsregels.   
+1.  Het College zorgverzekeringen verleent aan zorgkantoren op aanvraag een subsidie die bestemd is voor het met inachtneming van de artikelen 2.6.3 tot en met 2.6.14 verstrekken van netto persoonsgebonden budgetten.   
+2.  Het subsidieplafond voor de in het eerste lid bedoelde activiteiten bedraagt: voor het jaar 2013 € 2 755 000 000.   
+3.  Voor verleende persoonsgebonden budgetten als bedoeld in het eerste lid wordt voor het jaar 2013 een maximale subsidie in aanmerking genomen, die wordt berekend overeenkomstig de volgende formule:   ![251495](http://wetten.overheid.nl/Illustration/251495)
+waarbij wordt verstaan onder: A: het bedrag dat het zorgkantoor op 31 augustus van het jaar voorafgaand aan het subsidiejaar aan subsidies heeft verstrekt voor persoonsgebonden budgetten en vergoedingen persoonlijke zorg; B: het bedrag dat het zorgkantoor op 31 augustus van het jaar voorafgaand aan het subsidiejaar heeft gereserveerd ten behoeve van de nog voor dat subsidiejaar te verlenen subsidies voor persoonsgebonden budgetten en vergoedingen persoonlijke zorg aan verzekerden aan wie op 31 augustus subsidie is verleend en waarvan de subsidieperiode vóór of op 31 december van het jaar voorafgaand aan het subsidiejaar eindigt. C: de som van de tellers voor alle zorgkantoren tezamen.   
+4.  voor het jaar 2013 wordt € 75 000 000 verdeeld met inachtneming van door het College zorgverzekeringen vast te stellen beleidsregels.   
 5.  Het zorgkantoor verleent slechts subsidie voor persoonsgebonden budgetten voor verzekerden woonachtig in zijn regio.   
-6.  In afwijking van het vijfde lid kan het zorgkantoor ook bestedingen door een zorgkantoor in een andere regio ten laste van het subsidie brengen, na schriftelijke toestemming van het College zorgverzekeringen.   
-7.  Artikel 1.1.3, eerste lid, onderdelen b en c, zijn niet van toepassing.   
-8.  Voor de toepassing van hoofdstuk I wordt de in het eerste lid bedoelde subsidie beschouwd als een projectsubsidie, met dien verstande dat de aanvraag van de subsidie in afwijking van artikel 1.6.1, tweede lid, niet vergezeld gaat van een projectplan.   
-9.  Het College zorgverzekeringen kan bij de subsidievaststelling van enig jaar onbenutte subsidiegelden overhevelen van het ene zorgkantoor naar het andere zorgkantoor.   
+6.  Artikel 1.1.3, eerste lid, onderdelen b en c, zijn niet van toepassing.   
+7.  Voor de toepassing van hoofdstuk I wordt de in het eerste lid bedoelde subsidie beschouwd als een projectsubsidie, met dien verstande dat de aanvraag van de subsidie in afwijking van artikel 1.6.1, tweede lid, niet vergezeld gaat van een projectplan.   
+
+### Artikel  2.6.3  
+
+1.  Het zorgkantoor verleent een verzekerde een persoonsgebonden budget indien de verzekerde beschikt over een indicatiebesluit waaruit blijkt dat hij is aangewezen op verblijf of op een of meer van de vormen van zorg als bedoeld in artikel 1.1.1, eerste lid, onderdeel j.   
+2.  In afwijking van het eerste lid verleent het zorgkantoor een verzekerde geen persoonsgebonden budget indien de verzekerde: 
+
+a. beschikt over een indicatiebesluit met een geldigheidsduur korter dan een jaar,  
+
+b. uitsluitend is aangewezen op begeleiding of kortdurend verblijf, of  
+
+c. is aangewezen op een zorgzwaartepakket 9B VV, 4 LVG, 5 LVG, 1 SGLVG, 1B GGZ, 2B GGZ, 3B GGZ, 4B GGZ, 5B GGZ, 6B GGZ of 7B GGZ.     
+3.  In afwijking van het tweede lid, onderdeel a, verleent het zorgkantoor een persoonsgebonden budget indien: 
+
+a. de verzekerde een langdurige zorgbehoefte heeft, of  
+
+b. de verzekerde 
+
+1°. een indicatiebesluit heeft dat is vastgesteld na 30 november 2012, maar vóór 1 januari 2013, en  
+
+2°. voor 1 februari 2013 een persoonsgebonden budget heeft aangevraagd.       
+4.  Het tweede lid, onderdeel b, is niet van toepassing indien: 
+
+a. de verzekerde blijkens het indicatiebesluit is aangewezen op tien of meer uren per week begeleiding,  
+
+b. leden van een leefeenheid tezamen, voor zover zij niet in een instelling verblijven als bedoeld in de [AWBZ](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of de [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), aangewezen zijn op tien of meer uren per week begeleiding, of  
+
+c. de verzekerde lid is van een leefeenheid en een ander lid van die leefeenheid op grond van het eerste lid of artikel 2.6.3a een persoonsgebonden budget ontvangt.     
+5.  Het aantal geïndiceerde uren als bedoeld in het vierde lid, onder a en b, wordt berekend door optelling van de gemiddelden van de geïndiceerde klassen voor de functie begeleiding, als genoemd in de [Beleidsregels indicatiestelling AWBZ 2013](../../../../../beleidsregel/beleidsregels/indicatiestelling/awbz/2013/BWBR0032530/README.md), waarbij een dagdeel geldt als een uur.   
+6.  Het gemiddelde, bedoeld in het vijfde lid, wordt bepaald door op een decimaal achter de komma naar boven af te ronden.   
+
+### Artikel  2.6.3a  
+
+1.  In afwijking van artikel 2.6.3 verleent het zorgkantoor een verzekerde een persoonsgebonden budget indien de subsidieperiode waarvoor een persoonsgebonden budget wordt aangevraagd: 
+
+a. met een onderbreking van niet meer dan zeven kalenderdagen, aansluit op een eerdere subsidieperiode voor een persoonsgebonden budget of een vergoeding persoonlijke zorg, of  
+
+b. aansluit op een periode waarin de verzekerde verbleef in een instelling als bedoeld in de [AWBZ](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en dit verblijf aansloot op een eerdere subsidieperiode voor een persoonsgebonden budget of een vergoeding persoonlijke zorg.     
+2.  In afwijking van het eerste lid verleent het zorgkantoor een verzekerde die blijkens het indicatiebesluit is aangewezen op een zorgzwaartepakket 9B VV, 4 LVG, 5 LVG, 1 SGLVG, 1B GGZ, 2B GGZ, 3B GGZ, 4B GGZ, 5B GGZ, 6B GGZ of 7B GGZ, alleen een persoonsgebonden budget indien de verzekerde in een eerdere subsidieperiode als bedoeld in het eerste lid, was aangewezen op hetzelfde zorgzwaartepakket.   
+
+### Artikel  2.6.3b  
+
+1.  Het zorgkantoor verleent een verzekerde alleen een netto persoonsgebonden budget indien de verzekerde gebruik heeft gemaakt van een door het zorgkantoor vastgesteld aanvraagformulier.   
+2.  Het eerste lid is niet van toepassing op een verzekerde als bedoeld in artikel 2.6.3a.   
+3.  Op verzoek van de verzekerde die de leeftijd van 21 jaar nog niet heeft bereikt of diens wettelijk vertegenwoordiger, wordt een persoonsgebonden budget verleend aan een organisatie die belast is met de ondertoezichtstelling op de verzekerde of die een reclasseringsmaatregel uitoefent krachtens een uitspraak van de rechter of het Openbaar Ministerie op grond van [artikel 14d](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [artikel 15b, tweede lid](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), of [Boek I, Titel VIII A Bijzondere bepalingen voor jeugdige personen van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
 
 ### Artikel  2.6.4  
 
-1.  Een zorgkantoor verleent een verzekerde een netto persoonsgebonden budget voor zover: 
+1.  Het zorgkantoor weigert verlening van een netto persoonsgebonden budget indien: 
 
-a. de verzekerde beschikt over een indicatiebesluit waaruit blijkt dat hij is aangewezen op een of meer van de vormen van zorg als bedoeld in artikel 2.6.1, onderdeel b of d, en  
+a. de verzekerde geen volledig ingevuld budgetplan heeft overlegd volgens het door het College zorgverzekeringen vastgestelde model of de verzekerde weigert het budgetplan desgevraagd met het zorgkantoor te bespreken of, na voor zulk een gesprek te zijn opgeroepen, zonder geldige reden niet verschijnt;  
 
-b. de verzekerde voor die vorm of die vormen van zorg, door gebruikmaking van een door het zorgkantoor vastgesteld aanvraagformulier, een netto persoonsgebonden budget heeft aangevraagd.     
-2.  In afwijking van het eerste lid weigert het zorgkantoor verlening van een netto persoonsgebonden budget indien: 
+b. de verzekerde het door het zorgkantoor vastgestelde aanvraagformulier niet volledig en juist heeft ingevuld;  
 
-a. de verzekerde op de dag waarop de subsidieperiode zou aanvangen anders dan terzake van kortdurend verblijf in een instelling als bedoeld in de [AWBZ](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of de Zorgverzekeringswet zal verblijven;  
+c. de verzekerde op de dag waarop de subsidieperiode zou aanvangen, anders dan terzake van kortdurend verblijf, in een instelling als bedoeld in de [AWBZ](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of de [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) zal verblijven;  
 
-b. de verzekerde op grond van een wettelijk voorschrift, anders dan de [AWBZ](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), recht heeft op de geïndiceerde zorg, of op een gehele of gedeeltelijke vergoeding van de kosten daarvan;  
+d. de verzekerde op grond van een wettelijk voorschrift, anders dan de [AWBZ](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), recht heeft op de zorg waarop hij blijkens het indicatiebesluit is aangewezen of op een gehele of gedeeltelijke vergoeding van de kosten daarvan;  
 
-c. het zorgkantoor, op advies van een instelling voor maatschappelijk werk of de Raad voor de kinderbescherming, van oordeel is dat een ten behoeve van een minderjarige verzekerde aangevraagd budget in zodanige mate niet voor de inkoop van zorg ten behoeve van die verzekerde zal worden gebruikt, dat dit mishandeling, verwaarlozing of ernstige schade voor de opvoeding of ontwikkeling van die verzekerde tot gevolg zal hebben;  
+e. het zorgkantoor, op advies van een instelling voor maatschappelijk werk of de Raad voor de kinderbescherming, van oordeel is dat een ten behoeve van een minderjarige verzekerde aangevraagd budget in zodanige mate niet voor de inkoop van zorg ten behoeve van die verzekerde zal worden gebruikt, dat dit mishandeling, verwaarlozing of ernstige schade voor de opvoeding of ontwikkeling van die verzekerde tot gevolg zal hebben;  
 
-d. binnen de maximale subsidie, bedoeld in artikel 2.6.2, tweede lid, geen ruimte voor verlening van een persoonsgebonden budget aanwezig is;  
+f. binnen de maximale subsidie als bedoeld in artikel 2.6.2, derde lid, rekening houdend met een reservering ten behoeve van de uitvoering van het derde lid, geen ruimte voor verlening van een persoonsgebonden budget aanwezig is;  
 
-e. de verzekerde, of, indien de verzekerde jonger is dan 18 jaar, één van diens ouders of voogden, surseance van betaling heeft aangevraagd of failliet is verklaard;  
+g. de verzekerde, of, indien de verzekerde jonger is dan 18 jaar, één van diens ouders of voogden, surseance van betaling heeft aangevraagd of failliet is; verklaard;  
 
-f. ten aanzien van de verzekerde of, indien de verzekerde jonger is dan 18 jaar, ten aanzien van één van diens ouders of voogden, de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel een verzoek daartoe bij de rechtbank is ingediend;  
+h. ten aanzien van de verzekerde of, indien de verzekerde jonger is dan 18 jaar, ten aanzien van één van diens ouders of voogden, de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel een verzoek daartoe bij de rechtbank is ingediend;  
 
-g. de verzekerde blijkens de gemeentelijke basisadministratie niet beschikt over een woonadres;  
+i. de verzekerde blijkens de gemeentelijke basisadministratie niet beschikt over een woonadres;  
 
-h. de verzekerde is geïndiceerd voor een zorgzwaartepakket 4 LVG, 5 LVG, 1 SGLVG, 1B GGZ, 2B GGZ, 3B GGZ, 4B GGZ, 5B GGZ, 6B GGZ of 7B GGZ als bedoeld in [bijlage 2 van de Regeling zorgaanspraken AWBZ](../../../../../ministeriele-regeling/regeling/zorgaanspraken/awbz/BWBR0014855/README.md).     
-3.  Bij de uitvoering van het tweede lid, onderdeel d, gaat het zorgkantoor uit van de ontvangstdatum van het in het eerste lid, onderdeel b, bedoelde aanvraagformulier of indien het aanvraagformulier is ontvangen voor de datum van het indicatiebesluit, de datum van het indicatiebesluit.   
-4.  De onderdelen e, f, g, en h van het tweede lid zijn niet van toepassing op verzekerden waaraan vóór 1 januari 2011 een persoonsgebonden budget is verleend en verzekerden die in vervolg op een weigering van het persoonsgebonden budget wegens uitputting van het subsidieplafond voor 1 januari 2011 hebben aangegeven alsnog in aanmerking te willen komen voor een persoonsgebonden budget.   
-5.  In afwijking van het eerste lid kan het zorgkantoor verlening van een netto persoonsgebonden budget weigeren indien de verzekerde zich niet heeft gehouden aan bij de verstrekking van een eerder persoonsgebonden budget opgelegde verplichtingen.   
-6.  In afwijking van het tweede lid, onderdeel a, kan het zorgkantoor een persoonsgebonden budget verlenen voor begeleiding groep indien de verzekerde verblijft in een instelling waar de dagbesteding geen onderdeel vormt van het door het zorgkantoor gecontracteerde verblijf.   
-7.  Indien het indicatiebesluit ten nadele van de verzekerde wordt herzien als gevolg van bezwaar of beroep dan wordt het persoonsgebonden budget verlaagd met ingang van de dag waarop het besluit tot herziening wordt genomen.   
-8.  In afwijking van het eerste lid wordt de subsidie op verzoek van de verzekerde die de leeftijd van 21 jaar nog niet heeft bereikt of diens wettelijk vertegenwoordiger, verleend aan een organisatie die belast is met de ondertoezichtstelling op de verzekerde of die een reclasseringsmaatregel uitoefent krachtens een uitspraak van de rechter of het Openbaar Ministerie op grond van [artikel 14d](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [artikel 15b, tweede lid](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), of [Boek I, Titel VIII A Bijzondere bepalingen voor jeugdige personen van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
-9.  Het tweede lid, onderdeel d, is niet van toepassing indien de subsidieperiode waarvoor een persoonsgebonden budget wordt aangevraagd: 
+j. de verzekerde het zorgkantoor geen toestemming geeft om zijn persoonsgegevens door te geven aan het CAK, genoemd in [artikel 48, eerste lid, van de AWBZ](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), ten behoeve van de vaststelling van de op het bruto persoonsgebonden budget in mindering te brengen eigen bijdrage;  
 
-a. met een onderbreking van niet meer dan zeven kalenderdagen, aansluit op een eerdere subsidieperiode, of;  
+k. de verzekerde zich niet heeft gehouden aan bij de verstrekking van een eerder persoonsgebonden budget opgelegde verplichtingen;  
 
-b. aansluit op een periode waarin de verzekerde verbleef in een instelling als bedoeld in de [AWBZ](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of de [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en dit verblijf aansloot op een eerdere subsidieperiode.     
+l. de verzekerde zich, gelet op de door hem verstrekte gegevens en bescheiden, kennelijk onvoldoende heeft georiënteerd op het door het zorgkantoor gecontracteerde zorgaanbod;  
+
+m. de verzekerde in het budgetplan heeft aangegeven dat hij voornemens is om het persoonsgebonden budget uitsluitend te besteden aan de inkoop van zorg bij door het zorgkantoor gecontracteerde zorgverleners.     
+2.  Het eerste lid, onderdelen a, b, f, l en m, is niet van toepassing op een verzekerde als bedoeld in artikel 2.6.3a.   
+3.  In afwijking van het eerste lid, onderdeel c, kan het zorgkantoor een persoonsgebonden budget verlenen voor begeleiding groep indien de verzekerde verblijft in een instelling waar de dagbesteding geen onderdeel vormt van het door het zorgkantoor gecontracteerde verblijf.   
+4.  Bij de uitvoering van het eerste lid, onderdeel f, gaat het zorgkantoor uit van de ontvangstdatum van het in artikel 2.6.3b, eerste lid, bedoelde aanvraagformulier of indien het aanvraagformulier is ontvangen voor de datum van het indicatiebesluit, de datum van het indicatiebesluit.   
 
 ### Artikel  2.6.5  
 
-Het netto persoonsgebonden budget wordt verleend voor een subsidieperiode die: 
+1.  Het netto persoonsgebonden budget wordt verleend voor een subsidieperiode die: 
 
 a. niet eerder aanvangt dan de dag met ingang waarvan de verzekerde volgens zijn indicatiebesluit op de zorg is aangewezen waarvoor het budget wordt verleend, en  
 
-b. eindigt met ingang van de dag waarop het indicatiebesluit zijn geldigheidsduur verliest, doch uiterlijk op 31 december 2011.    
+b. eindigt met ingang van de dag waarop het indicatiebesluit zijn geldigheidsduur verliest, doch uiterlijk op 31 december 2013.     
+2.  Het [Besluit wachttijd bijzondere ziektekostenverzekering](../../../../../AMvB/besluit/wachttijd/bijzondere/ziektekostenverzekering/BWBR0005337/README.md) is van overeenkomstige toepassing op het persoonsgebonden budget.   
 
 ### Artikel  2.6.6  
 
-1.  Het bruto persoonsgebonden budget bedraagt in 2011 maximaal voor: 
+1.  Het bruto persoonsgebonden budget bedraagt in 2013 maximaal voor: 
 
-a. persoonlijke verzorging:  
+a. persoonlijke verzorging: 1e klasse 1: €  1 483 2e klasse 2: €  4 450 3e klasse 3: €  8 155 4e klasse 4: € 12 606 5e klasse 5: € 17 054 6e klasse 6: € 21 504 7e klasse 7: € 26 693 8e klasse 8: € 33 366 9e klasse 9: het bedrag genoemd bij klasse 8, vermeerderd met een bedrag gelijk aan het product van het aantal uren waarmee het geïndiceerde aantal uren de bovengrens van klasse 8 overschrijdt en een bedrag van € 1 483;  
 
-| --- | --- |
-|:---|:---|
-| 1e klasse 1:  | € 1 450  |
-| 2e klasse 2:  | € 4 352  |
-| 3e klasse 3:  | € 7 976  |
-| 4e klasse 4:  | € 12 329  |
-| 5e klasse 5:  | € 16 679  |
-| 6e klasse 6:  | € 21 031  |
-| 7e klasse 7:  | € 26 106  |
-| 8e klasse 8:  | € 32 632  |
-| 9e klasse 9: het bedrag genoemd bij klasse 8, vermeerderd met een bedrag gelijk aan het product van het aantal uren waarmee het geïndiceerde aantal uren de bovengrens van klasse 8 overschrijdt en een bedrag van € 1 450;  |
+b. verpleging: 1e klasse 0: €  1 279 2e klasse 1: €  3 819 3e klasse 2: €  7 633 4e klasse 3: € 13 992 5e klasse 4: € 21 628 6e klasse 5: € 29 258 7e klasse 6: € 36 892 8e klasse 7: € 45 798 9e klasse 8: het bedrag genoemd bij klasse 7, vermeerderd met een bedrag gelijk aan het product van het aantal uren waarmee het geïndiceerde aantal uren de bovengrens van klasse 7 overschrijdt en een bedrag van € 2 549;  
 
-b. verpleging:  
+c. begeleiding individueel: 1e klasse 1: €  1 967 2e klasse 2: €  5 903 3e klasse 3: € 10 823 4e klasse 4: € 16 726 5e klasse 5: € 22 630 6e klasse 6: € 28 534 7e klasse 7: € 35 420 8e klasse 8: € 44 276 9e klasse 9: het bedrag genoemd bij klasse 8, vermeerderd met een bedrag gelijk aan het product van het aantal uren waarmee het geïndiceerde aantal uren de bovengrens van klasse 8 overschrijdt en een bedrag van € 1 967;  
 
-| --- | --- |
-|:---|:---|
-| 1e klasse 0:  | € 1 251  |
-| 2e klasse 1:  | € 3 735  |
-| 3e klasse 2:  | € 7 465  |
-| 4e klasse 3:  | € 13 684  |
-| 5e klasse 4:  | € 21 152  |
-| 6e klasse 5:  | € 28 614  |
-| 7e klasse 6:  | € 36 080  |
-| 8e klasse 7:  | € 44 790  |
-| 9e klasse 8: het bedrag genoemd bij klasse 7, vermeerderd met een bedrag gelijk aan het product van het aantal uren waarmee het geïndiceerde aantal uren de bovengrens van klasse 7 overschrijdt en een bedrag van € 2 493;  |
+d. begeleiding groep: 1e klasse 1: €  2 432 2e klasse 2: €  4 865 3e klasse 3: €  7 297 4e klasse 4: € 9 731 5e klasse 5: € 12 163 6e klasse 6: € 14 595 7e klasse 7: € 17 028 8e klasse 8: € 19 460 9e klasse 9: € 21 893 10e klasse 10: het bedrag genoemd bij klasse 9, vermeerderd met een bedrag gelijk aan het product van het aantal dagdelen waarmee het geïndiceerde aantal dagdelen de bovengrens van klasse 9 overschrijdt en een bedrag van € 2 432;  
 
-c. begeleiding individueel:  
+e. begeleiding groep, inclusief vervoer: 1e klasse 1: €  2 724 2e klasse 2: €  5 447 3e klasse 3: €  8 172 4e klasse 4: € 10 893 5e klasse 5: € 13 620 6e klasse 6: € 16 051 7e klasse 7: € 18 485 8e klasse 8: € 20 917 9e klasse 9: € 23 350 10e klasse 10: het bedrag genoemd bij klasse 9, vermeerderd met een bedrag gelijk aan het product van het aantal dagdelen waarmee het geïndiceerde aantal dagdelen de bovengrens van klasse 9 overschrijdt en een bedrag van € 2 432;  
 
-| --- | --- |
-|:---|:---|
-| 1e klasse 1:  | € 1 924  |
-| 2e klasse 2:  | € 5 773  |
-| 3e klasse 3:  | € 10 585  |
-| 4e klasse 4:  | € 16 358  |
-| 5e klasse 5:  | € 22 132  |
-| 6e klasse 6:  | € 27 906  |
-| 7e klasse 7:  | € 34 641  |
-| 8e klasse 8:  | € 43 302  |
-| 9e klasse 9: het bedrag genoemd bij klasse 8, vermeerderd met een bedrag gelijk aan het product van het aantal uren waarmee het geïndiceerde aantal uren de bovengrens van klasse 8 overschrijdt en een bedrag van € 1 924;  |
-
-d. begeleiding groep:  
-
-| --- | --- |
-|:---|:---|
-| 1e klasse 1:  | € 2 378  |
-| 2e klasse 2:  | € 4 758  |
-| 3e klasse 3:  | € 7 136  |
-| 4e klasse 4:  | € 9 517  |
-| 5e klasse 5:  | € 11 895  |
-| 6e klasse 6:  | € 14 274  |
-| 7e klasse 7:  | € 16 653  |
-| 8e klasse 8:  | € 19 032  |
-| 9e klasse 9:  | € 21 411  |
-| 10e klasse 10: het bedrag genoemd bij klasse 9, vermeerderd met een bedrag gelijk aan het product van het aantal dagdelen waarmee het geïndiceerde aantal dagdelen de bovengrens van klasse 9 overschrijdt en een bedrag van € 2 378;  |
-
-e. begeleiding groep, inclusief vervoer:  
-
-| --- | --- |
-|:---|:---|
-| 1e klasse 1:  | € 2 664  |
-| 2e klasse 2:  | € 5 327  |
-| 3e klasse 3:  | € 7 992  |
-| 4e klasse 4:  | € 10 653  |
-| 5e klasse 5:  | € 13 320  |
-| 6e klasse 6:  | € 15 698  |
-| 7e klasse 7:  | € 18 078  |
-| 8e klasse 8:  | € 20 457  |
-| 9e klasse 9:  | € 22 836  |
-| 10e klasse 10: het bedrag genoemd bij klasse 9, vermeerderd met een bedrag gelijk aan het product van het aantal dagdelen waarmee het geïndiceerde aantal dagdelen de bovengrens van klasse 9 overschrijdt en een bedrag van € 2 378;  |
-
-f. kortdurend verblijf: € 99 per etmaal.     
+f. kortdurend verblijf: € 101 per etmaal.     
 2.  Indien het bruto persoonsgebonden budget voor meer vormen van zorg wordt verleend, bedraagt het bruto persoonsgebonden budget maximaal de som van de met behulp van het eerste lid bepaalde bedragen.   
-3.  Indien de subsidieperiode met ingang van een andere dag dan 1 januari van een kalenderjaar aanvangt of op een andere dag dan 31 december eindigt, wordt het maximum bruto persoonsgebonden budget berekend overeenkomstig de volgende formule: waarbij wordt verstaan onder:   ![195020](http://wetten.overheid.nl/Illustration/195020)
-A: het bruto persoonsgebonden budget waarvoor de verzekerde op grond van de vorige leden in aanmerking komt; B: het aantal dagen in het kalenderjaar waarvoor het budget werd verleend; C: het aantal dagen in het kalenderjaar.   
-4.  Indien toepassing van de voorgaande leden leidt tot een verlening van een bruto persoonsgebonden budget van meer dan € 300 per dag, beperkt het zorgkantoor de maximum verlening tot de kosten van verblijf, onder aftrek van de woonlasten, met een minimum van € 300 per dag.   
-5.  Indien het verleende bruto persoonsgebonden budget € 300 per dag of meer bedraagt dan meldt het zorgkantoor dit aan het College zorgverzekeringen volgens een door het College zorgverzekeringen vastgesteld model.   
-6.  Het zorgkantoor kan een maximaal te verlenen netto persoonsgebonden budget van een verzekerde met een indicatie voor verblijf ophogen tot het bedrag dat de verzekerde in een instelling zou kosten, onder aftrek van de woonlasten.   
+3.  Indien de verzekerde beschikt over een indicatiebesluit waaruit blijkt dat hij is aangewezen op verblijf wordt het bruto persoonsgebonden budget berekend door het zorgzwaartepakket met toepassing van de bijlage 2 van deze regeling om te rekenen naar een of meer klassen, bedoeld in het eerste lid. Indien de verzekerde niet in een instelling verblijft, hoogt het zorgkantoor het bruto persoonsgebonden budget vervolgens op met € 3 332. Het zorgkantoor verhoogt het aldus opgehoogde persoonsgebonden budget vervolgens op met € 4 000 voor een verzekerde die woont in een kleinschalig wooninitiatief en ten minste een persoonsgebonden budget ontvangt voor persoonlijke verzorging en begeleiding individueel.   
+4.  Het zorgkantoor kan in het voordeel van de verzekerde afwijken van het derde lid indien het, met overeenkomstige toepassing van [artikel 1a, tweede lid, van de Regeling zorgaanspraken AWBZ](../../../../../ministeriele-regeling/regeling/zorgaanspraken/awbz/BWBR0014855/README.md), oordeelt dat de verzekerde aanspraak heeft op meer zorg dan waarop hij op grond van het eerste lid van dat artikel aanspraak heeft. Het zorgkantoor meldt de toepassing van de eerste volzin onverwijld aan het College zorgverzekeringen volgens een door het College zorgverzekeringen vastgesteld model.   
+5.  Indien een subsidieperiode met ingang van een andere dag dan 1 januari van een kalenderjaar aanvangt of op een andere dag dan 31 december eindigt, wordt het maximum bruto persoonsgebonden budget vermenigvuldigd met een breuk waarvan de teller bestaat uit het aantal dagen van de subsidieperiode in het desbetreffende kalenderjaar en de noemer uit het aantal dagen in dat kalenderjaar.   
+6.  Indien toepassing van de voorgaande leden leidt tot een verlening van een bruto persoonsgebonden budget van meer dan € 300 per dag, beperkt het zorgkantoor de maximum verlening tot de kosten van verblijf, onder aftrek van de woonlasten, met een minimum van € 300 per dag.   
+7.  Indien het verleende bruto persoonsgebonden budget € 300 per dag of meer bedraagt dan meldt het zorgkantoor dit aan het College zorgverzekeringen volgens een door het College zorgverzekeringen vastgesteld model.   
+
+### Artikel  2.6.6a  
+
+1.  Het zorgkantoor hoogt het bruto persoonsgebonden budget op tot een garantiebedrag ter hoogte van het bruto persoonsgebonden budget dat was verleend voor de subsidieperiode die eindigde op 31 december 2012, indien de verzekerde volgens het indicatiebesluit is aangewezen op verblijf, en 
+
+a. het persoonsgebonden budget bij de eerste verlening op basis van een indicatiebesluit waaruit bleek dat de verzekerde was aangewezen op een zorgzwaartepakket, op grond van een beleidsregel van het College zorgverzekeringen of op grond van artikel 2.6.15, zoals dat artikel luidde voor 1 januari 2013, was opgehoogd tot een garantiebedrag;  
+
+b. aan de verzekerde in 2012 een persoonsgebonden budget is verleend op basis van een indicatiebesluit waaruit bleek dat de verzekerde aangewezen was op een zorgzwaartepakket VV en de verzekerde op 31 december 2012 woonachtig was in een kleinschalig wooninitiatief, of  
+
+c. het aan de verzekerde verleende persoonsgebonden budget op 31 december 2012 was opgehoogd op grond van artikel 2.6.6, vierde lid.     
+2.  Een verzekerde die inwoont bij ouders, voogden of pleegouders, als bedoeld in [artikel 1 van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), wordt niet aangemerkt als bewoner van een kleinschalig wooninitiatief.   
+3.  Het zorgkantoor hoogt het bruto persoonsgebonden budget op tot een garantiebedrag ter hoogte van 95% van het bruto persoonsgebonden budget dat was verleend voor de subsidieperiode die eindigde op 31 december 2012, indien 
+
+a. dat persoonsgebonden budget was verleend op grond van een indicatiebesluit waaruit bleek dat de verzekerde aangewezen was op verblijf;  
+
+b. de verzekerde volgens het geldende indicatiebesluit is aangewezen op verblijf, en  
+
+c. het eerste lid niet op de verzekerde van toepassing is.     
+4.  Indien de aanvraag betrekking heeft op minder of andere vormen van zorg als bedoeld in artikel 1.1.1, onderdelen j en k, dan het persoonsgebonden budget dat in 2012 is verleend, wordt een garantiebedrag als bedoeld in het eerste of derde lid verminderd met het verschil tussen de budgetten waartoe die vormen van zorg leiden.   
+5.  Indien de aanvraag voor een persoonsgebonden budget is gebaseerd op een ander indicatiebesluit dan de verlening van het persoonsgebonden budget in 2012 en de verzekerde volgens het indicatiebesluit is aangewezen op een zorgzwaartepakket dat leidt tot een lager bruto persoonsgebonden budget dan in 2012 is verleend, wordt een garantiebedrag als bedoeld in het eerste of derde lid verminderd met het verschil tussen de budgetten waartoe die zorgzwaartepakketten leiden.   
+6.  Het eerste lid, onder a, is alleen van toepassing indien aan de verzekerde, vanaf de eerste verlening van een persoonsgebonden budget op basis van een indicatiebesluit waaruit bleek dat hij was aangewezen op een zorgzwaartepakket, in ieder opvolgende subsidieperiode een persoonsgebonden budget is verleend, al dan niet na een onderbreking als bedoeld in het zevende lid, onder a of b.   
+7.  Het eerste lid, onder b en c, en derde lid zijn alleen van toepassing indien de subsidieperiode waarvoor een persoonsgebonden budget wordt aangevraagd: 
+
+a. met een onderbreking van niet meer dan zeven kalenderdagen, aansluit op een eerdere subsidieperiode, of  
+
+b. aansluit op een periode waarin de verzekerde verbleef in een instelling als bedoeld in de [AWBZ](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en dit verblijf aansloot op een eerdere subsidieperiode.     
 
 ### Artikel  2.6.7  
 
 1.  De verzekerde van achttien jaar of ouder aan wie een persoongebonden budget is verleend is een bijdrage verschuldigd van: 
 
-a. 33% van het bruto persoonsgebondenbuget voor persoonlijke verzorging;  
+a. 33% van het bruto persoonsgebonden budget voor persoonlijke verzorging;  
 
-b. 20% van het bruto persoonsgebondenbuget voor verpleging;  
+b. 20% van het bruto persoonsgebonden budget voor verpleging;  
 
 c. 27% van het bruto persoonsgebonden budget voor begeleiding.     
-2.  De bijdrage, bedoeld in het eerste lid, bedraagt in 2011 niet meer dan: 
+2.  De bijdrage, bedoeld in het eerste lid, bedraagt in 2013 niet meer dan: 
 
-a. voor de ongehuwde verzekerde jonger dan 65 jaar € 232,04, met dien verstande dat indien zijn inkomen meer bedraagt dan € 22 636 het bedrag van € 232,04 wordt verhoogd met 15% van het verschil tussen zijn inkomen en € 22 636;  
+a. voor de ongehuwde verzekerde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt € 242,46, met dien verstande dat indien zijn bijdrageplichtige inkomen meer bedraagt dan € 23 208 het bedrag van € 242,46 wordt verhoogd met 15% van het verschil tussen dat inkomen en € 23 208;  
 
-b. voor de ongehuwde verzekerde van 65 jaar of ouder € 232,04, met dien verstande dat indien zijn inkomen meer bedraagt dan € 15 838 het bedrag van € 232,04 wordt verhoogd met 15% van het verschil tussen zijn inkomen en € 15 838;  
+b. voor de ongehuwde verzekerde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt € 242,46, met dien verstande dat indien zijn bijdrageplichtige inkomen meer bedraagt dan € 16 257 het bedrag van € 242,46 wordt verhoogd met 15% van het verschil tussen dat inkomen en € 16 257;  
 
-c. voor de gehuwde verzekerden indien een van beiden jonger is dan 65 jaar of beiden jonger zijn dan 65 jaar € 331,11, met dien verstande dat indien hun gezamenlijke inkomen meer bedraagt dan € 27 902 het bedrag van € 331,11 wordt verhoogd met 15% van het verschil tussen hun gezamenlijke inkomen en € 27 902;  
+c. voor de gehuwde verzekerden indien een van beiden de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt of beiden die leeftijd nog niet hebben bereikt € 346,75, met dien verstande dat indien hun gezamenlijke bijdrageplichtige inkomen meer bedraagt dan € 28 733 het bedrag van € 346,75 wordt verhoogd met 15% van het verschil tussen dat gezamenlijke inkomen en € 28 733;  
 
-d. voor de gehuwde verzekerden die beiden 65 jaar of ouder zijn € 331,11, met dien verstande dat indien hun gezamenlijke inkomen meer bedraagt dan € 22 100 het bedrag van € 331,11 wordt verhoogd met 15% van het verschil tussen hun gezamenlijke inkomen en € 22 100.     
-3.  Bij de uitvoering van het tweede lid gaat het zorgkantoor uit van het verzamelinkomen in het kalenderjaar voorafgaande aan het peiljaar indien aan de verzekerde op 31 december van het voorgaande kalenderjaar een persoonsgebonden budget is verleend en het verzamelinkomen in het peiljaar op 1 maart van het kalenderjaar niet bekend is bij het zorgkantoor.   
+d. voor de gehuwde verzekerden die beiden de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), hebben bereikt € 346,75, met dien verstande dat indien hun gezamenlijke bijdrageplichtige inkomen meer bedraagt dan € 22 676 het bedrag van € 346,75 wordt verhoogd met 15% van het verschil tussen dat gezamenlijke inkomen en € 22 676.     
+3.  Bij de uitvoering van het tweede lid gaat het zorgkantoor uit van het bijdrageplichtige inkomen, bedoeld in [artikel 16e, eerste lid, van het Bijdragebesluit zorg](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), in het kalenderjaar voorafgaande aan het peiljaar indien aan de verzekerde op 31 december van het voorgaande kalenderjaar een persoonsgebonden budget is verleend en het bijdrageplichtige inkomen, bedoeld in artikel 16e, eerste lid, van het Bijdragebesluit zorg, in het peiljaar op 1 maart van het kalenderjaar niet bekend is bij het zorgkantoor.   
 4.  Het zorgkantoor vermindert de bijdrage die de verzekerde op grond van het tweede en derde lid maximaal verschuldigd is met een eigen bijdrage die verschuldigd is ingevolge de [Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) en het aandeel van de kosten van maatschappelijke ondersteuning dat bij de toekenning van een financiële tegemoetkoming ingevolge [die wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) voor eigen rekening komt alsmede met een bijdrage die verschuldigd is op grond van [artikel 16d van het Bijdragebesluit zorg](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md).   
 5.  Op de met toepassing van het eerste tot en met het vierde lid vastgestelde eigen bijdrage wordt een korting van 33% toegepast.   
-6.  De [artikelen 1](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), [16d, zesde lid, onderdeel a](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md) en [16e van het Bijdragebesluit zorg](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md) zijn van overeenkomstige toepassing.   
-7.  Het zorgkantoor maakt voor de voor de uitvoering van dit artikel benodigde informatie-uitwisseling met het centraal administratiekantoor, bedoeld in [artikel 1, onderdeel b, van het Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md) gebruik van de door het College zorgverzekeringen vastgestelde infrastructuur voor elektronische communicatie.   
+6.  De [artikelen 16d, zesde lid, onderdeel a](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), en [16e, tweede tot en met het vijfde lid van het Bijdragebesluit zorg](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md) zijn van overeenkomstige toepassing.   
 
 ### Artikel  2.6.8  
 
 1.  Het netto persoonsgebonden budget bedraagt het verschil tussen het bruto persoonsgebonden budget en de eigen bijdrage.   
-2.  Indien de verzekerde langer dan zes weken aaneengesloten per jaar in het buitenland verblijft, en in het buitenland zorgverleners contracteert die niet vallen onder de Nederlandse fiscale en sociale zekerheidswetgeving, wordt het bruto persoonsgebonden budget berekend overeenkomstig de volgende formule:   ![195021](http://wetten.overheid.nl/Illustration/195021)
-waarbij wordt verstaan onder: A: het aantal weken dat de verzekerde in Nederland verblijft; B: het getal 52; C: het bruto persoonsgebonden budget waarvoor de verzekerde op grond van de vorige leden in aanmerking komt; D: het aantal weken dat de verzekerde in het buitenland verblijft; E: het voor het desbetreffende land door het College zorgverzekeringen vastgestelde aanvaardbaarheidspercentage.   
-3.  Indien de verzekerde onmiddellijk voorafgaande aan of aansluitend op de subsidieperiode een netto persoonsgebonden budget voor hetzelfde kalenderjaar werd of wordt verleend en dat budget niet volledig werd of wordt besteed, wordt het op grond van het eerste en tweede lid berekende netto persoonsgebonden budget verhoogd met een bedrag gelijk aan dit niet bestede deel.   
+2.  Indien de verzekerde onmiddellijk voorafgaande aan of aansluitend op de subsidieperiode een netto persoonsgebonden budget voor hetzelfde kalenderjaar werd of wordt verleend en dat budget niet volledig werd of wordt besteed, wordt het op grond van het eerste lid berekende netto persoonsgebonden budget verhoogd met een bedrag gelijk aan dit niet bestede deel.   
 
 ### Artikel  2.6.9  
 
 1.  Bij de verlening van het netto persoonsgebonden budget worden de verzekerde de volgende verplichtingen opgelegd: 
 
-a. de verzekerde gebruikt het budget uitsluitend voor betaling van zorg als bedoeld in artikel 2.6.1, onderdeel b of d, en de daarmee noodzakelijk verbonden kosten;  
+a. de verzekerde gebruikt het budget uitsluitend voor betaling van zorg als bedoeld in artikel 1.1.1, j of k, en de betaling van bemiddelingskosten onder de in onderdeel k opgenomen voorwaarden;  
 
 b. de zorg die de verzekerde inkoopt, is kwalitatief verantwoord;  
 
@@ -717,24 +736,28 @@ c. de verzekerde sluit een schriftelijke overeenkomst met de zorgverlener of zor
 
 1°. declaraties voor verleende zorg worden niet betaald indien zij niet binnen zes weken na de maand waarin de zorg is verleend bij de verzekerde zijn ingediend,  
 
-2°. een declaratie van een zorgverlener bevat een overzicht van de dagen waarop is gewerkt, het uurtarief, het aantal te betalen uren, het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer en de naam en het adres van de zorgverlener, en wordt door de zorgverlener ondertekend,  
+2°. een declaratie van een zorgverlener bevat een overzicht van de dagen waarop is gewerkt, het uurtarief, het aantal te betalen uren, het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaal nummer en de naam van de zorgverlener, en wordt door de zorgverlener ondertekend,  
 
-3°. een declaratie van een zorgverlenende instantie bevat het btw-nummer van die instantie, een overzicht van de dagen waarop is gewerkt, het tarief, het aantal te betalen uren, dagdelen of etmalen, en de naam en het adres van de zorgverlenende instantie, en wordt namens de zorgverlenende instantie ondertekend;    
+3°. een declaratie van een zorgverlenende instantie bevat het nummer waarmee die instantie staat ingeschreven bij de Kamer van Koophandel, een overzicht van de dagen waarop is gewerkt, het tarief, het aantal te betalen uren, dagdelen of etmalen, en de naam en het adres van de zorgverlenende instantie, en wordt namens de zorgverlenende instantie ondertekend;    
 
-d. de verzekerde bewaart de in onderdeel c bedoelde overeenkomsten en declaraties gedurende zeven jaren en stelt deze, desgevraagd, ter beschikking van het zorgkantoor;  
+d. de verzekerde stelt, op verzoek van het zorgkantoor, de in onderdeel c bedoelde overeenkomsten en declaraties alsmede zijn rekeningafschrift op papier of op een andere duurzame drager, tot vijf jaar na de datum van de subsidievaststelling ter beschikking van het zorgkantoor. De rekeningafschriften bevatten in ieder geval de perioden waarop zij betrekking hebben, de datum en het bedrag van de door de verzekerde verrichte betalingen, bedoeld in onderdeel a, alsmede de rekeningnummers waarop deze betalingen zijn bijgeschreven;  
 
 e. de verzekerde legt door middel van invulling en ondertekening van een daartoe door het zorgkantoor toegezonden formulier verantwoording af over de besteding van het verleende persoonsgebonden budget;  
 
-f. bij de verantwoording over de laatste verantwoordingsperiode van een kalenderjaar voegt de verzekerde per zorgverlener of zorgverlenende instantie een formulier waarop hij naam, adres en burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de zorgverlener respectievelijk naam, adres en btw-nummer van de zorgverlenende instantie heeft aangetekend, alsmede het in dat kalenderjaar aan die zorgverlener of die zorgverlenende instantie betaalde bedrag;  
+f. bij de verantwoording over de laatste verantwoordingsperiode van een kalenderjaar voegt de verzekerde per zorgverlener of zorgverlenende instantie een formulier waarop hij naam, adres en burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaal nummer van de zorgverlener respectievelijk naam, adres en het nummer van de Kamer van Koophandel van de zorgverlenende instantie heeft aangetekend, alsmede het in dat kalenderjaar aan die zorgverlener of die zorgverlenende instantie betaalde bedrag;  
 
 g. de verzekerde brengt gedurende de subsidieperiode voor de vormen van zorg waarvoor het budget is verleend niet tevens een AWBZ-aanspraak op zorg tot gelding;  
 
-h. de verzekerde die geïndiceerd is voor verblijf anders dan kortdurend verblijf, brengt gedurende de subsidieperiode zijn aanspraak op verblijf niet tot gelding;  
+h. de verzekerde die blijkens het indicatiebesluit is aangewezen op verblijf, brengt gedurende de subsidieperiode zijn aanspraak op verblijf niet tot gelding;  
 
 i. de verzekerde draagt er zorg voor dat een zorgverlener op wie het Arbeidstijdenbesluit niet van toepassing is niet meer dan veertig uur in één week voor hem werkzaamheden verricht;  
 
-j. de verzekerde deelt het zorgkantoor op diens verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op de verstrekking van het persoonsgebonden budget.     
-2.  In afwijking van het eerste lid, onderdeel a, mag vervoer slechts worden betaald uit een budget verleend voor begeleiding groep inclusief vervoer.   
+j. de verzekerde verricht uitsluitend girale betalingen aan de zorgverlener;  
+
+k. de verzekerde besteedt het persoonsgebonden budget uitsluitend aan bemiddelingkosten indien aan de verzekerde een persoonsgebonden budget is verleend voor een subsidieperiode die eindigde op 31 december 2011 en de organisatie waaraan de verzekerde bemiddelingskosten betaalt beschikt over een door het Keurmerkinstituut vastgesteld keurmerk voor bemiddelingsbureaus;  
+
+l. de verzekerde deelt het zorgkantoor op diens verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op de verstrekking van het persoonsgebonden budget.     
+2.  In afwijking van het eerste lid, onderdeel a, mag het budget slechts besteed worden aan kosten van vervoer voor het ontvangen van begeleiding groep indien een budget verleend is voor begeleiding groep inclusief vervoer of indien de verzekerde blijkens het indicatiebesluit is aangewezen op een zorgzwaartepakket VV.   
 3.  In afwijking van het eerste lid, onderdelen a en e, mag de verzekerde in een kalenderjaar maximaal 1,5% van het voor dat jaar beschikbare netto persoonsgebonden budget, maar ten minste € 250 en ten hoogste € 1 250, gebruiken voor andere betalingen dan betalingen bedoeld in onderdeel a, en geldt de verantwoordingsplicht, bedoeld in onderdeel e, niet voor dit deel van het budget.   
 4.  Indien een subsidieperiode met ingang van een andere dag dan 1 januari van een kalenderjaar aanvangt of op een andere dag dan 31 december eindigt, worden de bedragen, genoemd in het derde lid, voor dat kalenderjaar vermenigvuldigd met een breuk waarvan de teller bestaat uit het aantal dagen van de subsidieperiode in het desbetreffende kalenderjaar en de noemer uit het aantal dagen in dat kalenderjaar.   
 5.  Onderdeel f van het eerste lid is niet van toepassing indien de verzekerde verplicht is tot loonheffing.   
@@ -745,7 +768,14 @@ j. de verzekerde deelt het zorgkantoor op diens verzoek of onverwijld uit eigen 
 a. afloop van de subsidieperiode, indien het tot een jaarbedrag herleide netto persoonsgebonden budget minder dan € 5000 bedraagt;  
 
 b. het einde van de eerste helft van een kalenderjaar, en voorts na afloop van de subsidieperiode, indien het tot een jaarbedrag herleide netto persoonsgebonden budget € 5000 of meer bedraagt.     
-9.  In afwijking van het eerste lid, onderdeel a, mag de verzekerde die is geïndiceerd voor verblijf, het persoonsgebonden budget ook gebruiken voor betaling van huishoudelijke hulp.   
+9.  In afwijking van het eerste lid, onderdeel a, mag de verzekerde die blijkens het indicatiebesluit is aangewezen op verblijf, het persoonsgebonden budget ook gebruiken voor betaling van huishoudelijke hulp.   
+
+### Artikel  2.6.9a  
+
+1.  De verzekerde kan het netto persoonsgebonden budget voor ten hoogste dertien weken per kalenderjaar buiten het Europese deel van Nederland gebruiken voor betaling van zorg als bedoeld in artikel 1.1.1, onderdelen j en k, indien die zorg is verkregen als voortzetting van reeds binnen het Europese deel van Nederland aangevangen zorg.   
+2.  In afwijking van het eerste lid kan de verzekerde voor ten hoogste een jaar een netto persoonsgebonden budget gebruiken voor betaling van voortzetting van palliatief terminale zorg.   
+3.  Indien de verzekerde langer dan zes weken aaneengesloten in het buitenland verblijft en in het buitenland zorgverleners contracteert die niet vallen onder de Nederlandse fiscale en sociale zekerheidswetgeving, wordt het bruto persoonsgebonden budget berekend overeenkomstig de volgende formule:   ![251497](http://wetten.overheid.nl/Illustration/251497)
+waarbij wordt verstaan onder: A: het aantal weken dat de verzekerde in Nederland verblijft; B: het getal 52; C: het bruto persoonsgebonden budget waarvoor de verzekerde op grond van de vorige leden in aanmerking komt; D: het aantal weken dat de verzekerde in het buitenland verblijft; E: het voor het desbetreffende land door het College zorgverzekeringen vastgestelde aanvaardbaarheidspercentage.   
 
 ### Artikel  2.6.10  
 
@@ -762,17 +792,17 @@ d. per maand, indien het tot een jaarbedrag herleide budget meer dan € 25.000
 3.  Het zorgkantoor betaalt het voorschot uit op de bankrekening van de verzekerde.   
 4.  In afwijking van het derde lid betaalt het zorgkantoor het voorschot van de minderjarige verzekerde uit op de bankrekening van diens ouders of voogd, tenzij de ouder of voogd verzoekt om uitbetaling op de bankrekening van de minderjarige.   
 5.  In afwijking van het derde lid betaalt het zorgkantoor het voorschot van de verzekerde die onder curatele staat als bedoeld in [artikel 1:378 en volgende van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) of onder bewindvoering staat als bedoeld in [artikel 1:431 en volgende van die wet](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) uit op de door de curator of bewindvoerder ten name van de verzekerde geopende bankrekening.   
-6.  In afwijking van het derde lid betaalt het zorgkantoor het voorschot van de verzekerde die onder toezicht staat uit op de bankrekening van de organisatie die belast is met de ondertoezichtstelling op de verzekerde.   
-7.  Indien het zorgkantoor op grond van artikel 2.6.4, achtste lid, het persoonsgebonden budget heeft verleend aan een organisatie die een reclasseringsmaatregel uitoefent krachtens een uitspraak van de rechter of het Openbaar Ministerie op grond van [artikel 14d](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [artikel 15b, tweede lid](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), of [Boek I, Titel VIII A, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), betaalt het zorgkantoor het voorschot in afwijking van het derde lid uit op de bankrekening van die organisatie.   
+6.  In afwijking van het derde lid betaalt het zorgkantoor, indien het zorgkantoor op grond van artikel 2.6.3b, derde lid, het persoonsgebonden budget heeft verleend aan een organisatie die is belast met de ondertoezichtstelling op de verzekerde, het voorschot uit op de bankrekening van die organisatie.   
+7.  In afwijking van het derde lid betaalt het zorgkantoor, indien het zorgkantoor op grond van artikel 2.6.3b, derde lid, het persoonsgebonden budget heeft verleend aan een organisatie die een reclasseringsmaatregel uitoefent krachtens een uitspraak van de rechter of het Openbaar Ministerie op grond van [artikel 14d](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [artikel 15b, tweede lid](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), of [Boek I, Titel VIII A Bijzondere bepalingen voor jeugdige personen van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), het voorschot uit op de bankrekening van die organisatie.   
 8.  In afwijking van het derde lid betaalt het zorgkantoor het voorschot op verzoek van de verzekerde die verblijft in een klooster, uit op de bankrekening van dat klooster, indien de verzekerde op grond van kerkrechtelijke voorschriften niet over een eigen bankrekening mag beschikken.   
 
 ### Artikel  2.6.11  
 
-1.  De verleningsbeschikking van het zorgkantoor aan de verzekerde bevat ten minste de volgende gegevens: 
+De verleningsbeschikking van het zorgkantoor aan de verzekerde bevat ten minste de volgende gegevens: 
 
 a. de subsidieperiode;  
 
-b. het maximum bruto persoonsgebonden budget en de wijze waarop dit budget is berekend;  
+b. het verleende bruto persoonsgebonden budget en de wijze waarop dit budget is berekend;  
 
 c. de hoogte van de eigen bijdrage en de wijze waarop deze bijdrage is berekend;  
 
@@ -782,16 +812,15 @@ e. de wijze waarop het netto persoonsgebonden budget wordt bevoorschot;
 
 f. de verplichtingen van de verzekerde;  
 
-g. de hoogte van het bestedings- en verantwoordingsvrije bedrag, en de wijze waarop dat bedrag is berekend;  
+g. de hoogte van het verantwoordingsvrije bedrag, en de wijze waarop dat bedrag is berekend;  
 
-h. indien van toepassing: het bedrag, bedoeld in artikel 2.6.8, tweede en derde lid;  
+h. indien van toepassing: het bedrag, bedoeld in artikel 2.6.8, tweede lid;  
 
-i. de mededeling dat de in artikel 2.6.9, eerste lid, onderdeel f, bedoelde formulieren door het zorgkantoor worden doorgezonden aan de belastingdienst.     
-2.  Indien het bedrag, bedoeld in artikel 2.6.8, tweede en derde lid, pas na de bekendmaking van de verleningsbeschikking bekend wordt, is het zorgkantoor bevoegd om in afwijking van het eerste lid, een aanvullende verleningsbeschikking te geven waarin slechts de in het eerste lid, onderdeel d, g en h genoemde gegevens worden vermeld.   
+i. de mededeling dat de in artikel 2.6.9, eerste lid, onderdeel f, bedoelde formulieren door het zorgkantoor worden doorgezonden aan de belastingdienst.    
 
 ### Artikel  2.6.12  
 
-1.  Onverminderd de intrekkings- of wijzigingsgronden, genoemd in [artikel 4:48, eerste lid, onderdelen c en d, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt de verleningsbeschikking ingetrokken of gewijzigd: 
+1.  Het zorgkantoor wijzigt de verleningsbeschikking of trekt deze in: 
 
 a. met ingang van de dag gelegen na de dag waarop de verzekerde overlijdt;  
 
@@ -801,22 +830,22 @@ c. met ingang van de dag vanaf welke de verzekerde schriftelijk heeft aangegeven
 
 d. met ingang van de dag waarop de verzekerde op grond van een wettelijk voorschrift, anders dan de AWBZ, recht heeft op de geïndiceerde zorg, of op een gehele of gedeeltelijke vergoeding van de kosten daarvan;  
 
-e. met ingang van de dag waarop het zorgkantoor, op advies van een instelling voor maatschappelijk werk of de Raad voor de kinderbescherming, van oordeel is dat een ten behoeve van een minderjarige verzekerde aangevraagd budget in zodanige mate niet voor de inkoop van zorg ten behoeve van die verzekerde zal worden gebruikt, dat dit mishandeling, verwaarlozing of ernstige schade voor de opvoeding of ontwikkeling van die verzekerde tot gevolg zal hebben.     
+e. met ingang van de dag waarop het zorgkantoor, op advies van een instelling voor maatschappelijk werk of de Raad voor de kinderbescherming, van oordeel is dat een ten behoeve van een minderjarige verzekerde aangevraagd budget in zodanige mate niet voor de inkoop van zorg ten behoeve van die verzekerde zal worden gebruikt, dat dit mishandeling, verwaarlozing of ernstige schade voor de opvoeding of ontwikkeling van die verzekerde tot gevolg zal hebben;  
+
+f. met ingang van de dag waarop het indicatiebesluit ten nadele van de verzekerde wordt herzien als gevolg van bezwaar of beroep.     
 2.  De verleningsbeschikking kan worden ingetrokken of gewijzigd: 
 
-a. met ingang van de dag waarop het zorgkantoor constateert dat meer dan het bedrag, bedoeld in artikel 2.6.9, derde lid, zonodig in combinatie met het vierde lid, is gebruikt voor andere betalingen dan betalingen als bedoeld in artikel 2.6.9, eerste lid, onderdeel a.  
+a. met ingang van de dag waarop de verzekerde de bij of krachtens artikel 2.6.9 opgelegde overige verplichtingen niet nakomt;  
 
-b. met ingang van de dag waarop de verzekerde de bij of krachtens artikel 2.6.9 opgelegde overige verplichtingen niet nakomt;  
+b. met ingang van de dag waarop de verzekerde, of, indien de verzekerde jonger is dan achttien jaar, één van diens ouders of voogden, surseance van betaling heeft aangevraagd of failliet is verklaard;  
 
-c. met ingang van de dag waarop de verzekerde, of, indien de verzekerde jonger is dan achttien jaar, één van diens ouders of voogden, surseance van betaling heeft aangevraagd of failliet is verklaard;  
+c. met ingang van de dag waarop ten aanzien van de verzekerde of, indien de verzekerde jonger is dan achttien jaar, ten aanzien van één van diens ouders of voogden, de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel een verzoek daartoe bij de rechtbank is ingediend;  
 
-d. met ingang van de dag waarop ten aanzien van de verzekerde of, indien de verzekerde jonger is dan achttien jaar, ten aanzien van één van diens ouders of voogden, de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel een verzoek daartoe bij de rechtbank is ingediend;  
-
-e. met ingang van de dag waarop de verzekerde blijkens de gemeentelijke basisadministratie niet beschikt over een woonadres.     
+d. met ingang van de dag waarop de verzekerde blijkens de gemeentelijke basisadministratie niet beschikt over een woonadres.     
 
 ### Artikel  2.6.13  
 
-1.  Bij de verantwoording over de eerste helft van het kalenderjaar als bedoeld in artikel 2.6.9, achtste lid, onderdeel b, besluit het zorgkantoor binnen zes weken na ontvangst van de desbetreffende verantwoording of het voorschot is gebruikt voor betalingen als bedoeld in het eerste lid, onderdeel a, van laatstgenoemd artikel. Het zorgkantoor kan in dat besluit het voorbehoud maken dat het opvragen van de in artikel 2.6.9, eerste lid, onderdeel c, bedoelde documenten tot een ander oordeel kan leiden.   
+1.  Bij de verantwoording over de eerste helft van het kalenderjaar als bedoeld in artikel 2.6.9, achtste lid, onderdeel b, besluit het zorgkantoor binnen zes weken na ontvangst van de desbetreffende verantwoording of het voorschot is gebruikt voor betalingen als bedoeld in het eerste lid, onderdeel a, van laatstgenoemd artikel. Het zorgkantoor kan in dat besluit het voorbehoud maken dat het opvragen van de in artikel 2.6.9, eerste lid, onderdeel d, bedoelde documenten tot een ander oordeel kan leiden.   
 2.  Na afloop van iedere subsidieperiode wordt de subsidie voor de desbetreffende subsidieperiode vastgesteld.   
 3.  Een bij het zorgkantoor ingediend verantwoordingsformulier over de laatste verantwoordingsperiode zoals bedoeld in artikel 2.6.9, achtste lid, dient als aanvraag tot subsidievaststelling.   
 4.  Het zorgkantoor stelt het netto persoonsgebonden budget binnen zes weken na de aanvraag tot subsidievaststelling vast.   
@@ -828,12 +857,12 @@ b. het restant van het voor het kalenderjaar beschikbare netto persoonsgebonden 
 
 1°. voor zover er betalingen mee zijn verricht als bedoeld in artikel 2.6.9, eerste lid, onderdeel a,  
 
-2°. voor zover deze betalingen betrekking hebben op kosten die niet hoger zijn dan € 62 per uur, € 57 per dagdeel, of, voor zover het bemiddelingskosten betreft, € 250 per jaar indien het verleende bruto persoonsgebonden budget op jaarbasis € 25 000 of minder bedraagt en € 500 per jaar indien het verleende bruto persoonsgebonden budget op jaarbasis meer dan € 25 000 bedraagt, en  
+2°. voor zover deze betalingen betrekking hebben op kosten die niet hoger zijn dan € 63 per uur, € 58 per dagdeel, of, voor zover het bemiddelingskosten betreft, € 250 per jaar indien het verleende bruto persoonsgebonden budget op jaarbasis € 25 000 of minder bedraagt en € 500 per jaar indien het verleende bruto persoonsgebonden budget op jaarbasis meer dan € 25 000 bedraagt, en  
 
 3°. voor zover het aantal door de zorgverlener voor de verzekerde gewerkte uren niet afwijkt van het [Arbeidstijdenbesluit](../../../../../AMvB/arbeidstijdenbesluit/BWBR0007687/README.md) dan wel artikel 2.6.9, eerste lid, onderdeel i.       
-6.  In afwijking van het vijfde lid, onderdeel b, subonderdeel 2°, is voor zorg waarvoor de Nederlandse Zorgautoriteit op grond van de [Wet marktordening gezondheidszorg](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) een hoger tarief heeft vastgesteld dan € 62 per uur of € 57 per dagdeel dat hogere tarief van toepassing.   
+6.  In afwijking van het vijfde lid, onderdeel b, subonderdeel 2°, is voor zorg waarvoor de Nederlandse Zorgautoriteit op grond van de [Wet marktordening gezondheidszorg](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) een hoger tarief heeft vastgesteld dan € 63 per uur of € 58 per dagdeel dat hogere tarief van toepassing.   
 7.  Indien de verzekerde geen betalingen heeft gedaan als bedoeld in artikel 2.6.9, eerste lid, onderdeel a, dan wordt de subsidie, in afwijking van het vijfde lid, vastgesteld op nihil.   
-8.  Indien een subsidieperiode met ingang van een andere dag dan 1 januari van een kalenderjaar aanvangt of op een andere dag dan 31 december eindigt, worden de bedragen, genoemd in het vijfde lid, voor dat kalenderjaar vermenigvuldigd met een breuk waarvan de teller bestaat uit het aantal dagen van de subsidieperiode in het desbetrefende kalenderjaar en de noemer uit het aantal dagen in dat kalenderjaar.   
+8.  Indien een subsidieperiode met ingang van een andere dag dan 1 januari van een kalenderjaar aanvangt of op een andere dag dan 31 december eindigt, worden de bedragen, genoemd in het vijfde lid, voor dat kalenderjaar vermenigvuldigd met een breuk waarvan de teller bestaat uit het aantal dagen van de subsidieperiode in het desbetreffende kalenderjaar en de noemer uit het aantal dagen in dat kalenderjaar.   
 
 ### Artikel  2.6.14  
 
@@ -843,7 +872,7 @@ b. het restant van het voor het kalenderjaar beschikbare netto persoonsgebonden 
 
 ### Paragraaf  2.7  
 
-####Het verwezenlijken van ADL-clusters
+####Vergoeding persoonlijke zorg
 
 ### Paragraaf  2.8  
 
@@ -852,81 +881,6 @@ b. het restant van het voor het kalenderjaar beschikbare netto persoonsgebonden 
 ### Paragraaf  2.9  
 
 ####ADL-assistentie
-
-### Artikel  2.9.1  
-
-In deze paragraaf wordt verstaan onder: 
-
-a. *ADL-woning:* woning die deel uitmaakt van een aantal bij elkaar horende rolstoeldoorgankelijke sociale huurwoningen die tot stand zijn gekomen met behulp van subsidie uit de Regeling Geldelijke Steun Huisvesting Gehandicapten of het Algemeen Fonds Bijzondere Ziektekosten;  
-
-b. *ADL-assistentie:* gedurende het gehele etmaal direct oproepbare persoonlijke assistentie bij algemene dagelijkse levensverrichtingen in en om de ADL-woning.    
-
-### Artikel  2.9.2  
-
-Het College zorgverzekeringen kan een instellingssubsidie verstrekken voor het verlenen van ADL-assistentie.  
-
-### Artikel  2.9.3  
-
-1.  Voor een instellingssubsidie voor ADL-assistentie komt uitsluitend in aanmerking ADL-assistentie aan een verzekerde die is geregistreerd bij het College zorgverzekeringen en die: 
-
-a. een lichamelijke handicap of een somatische aandoening of beperking heeft;  
-
-b. is aangewezen op een rolstoeldoorgankelijke woning;  
-
-c. is aangewezen op ten minste vijf uur ADL-assistentie per week;  
-
-d. voldoende sociaal zelfredzaam is om zelfstandig te wonen en om zelfstandig zorg op te roepen;  
-
-e. een indicatiebesluit als bedoeld in het [Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) heeft, waarin rekening is gehouden met het aantal uren ADL-assistentie.     
-2.  Bij de registratie, bedoeld in het eerste lid, gaat het College zorgverzekeringen uit van een schriftelijk indicatie-advies van het Centrum Indicatiestelling Zorg waarin is aangegeven of de verzekerde voldoet aan de voorwaarden, bedoeld in het eerste lid, onderdelen a tot en met d.   
-
-### Artikel  2.9.4  
-
-1.  De aanvraag van de instellingssubsidie voor ADL-assistentie gaat vergezeld van een onderbouwde begroting van het aantal uren ADL-assistentie.   
-2.  In afwijking van artikel 1.2.1 wordt het bedrag van de voor 2011 te verlenen instellingssubsidie voor ADL-assistentie berekend door het aantal door de instelling begrote uren ADL-assistentie te vermenigvuldigen met een bedrag van maximaal € 57,04.   
-
-### Artikel  2.9.5  
-
-1.  Het subsidieplafond voor het verstrekken van instellingssubsidies voor ADL-assistentie bedraagt voor het jaar 2011 € 76 884 000.   
-2.  Indien het totale bedrag van de voor instellingssubsidies voor ADL-assistentie in aanmerking komende aanvragen hoger is dan het subsidieplafond, vindt verdeling van het beschikbare budget plaats naar evenredigheid van het aantal begrote uren ADL-assistentie dat met inachtneming van artikel 2.9.5 in aanmerking is gebracht voor de instellingssubsidie.   
-
-### Artikel  2.9.6  
-
-1.  Onverminderd artikel 1.2.1 bedraagt de subsidievaststelling niet meer dan het werkelijk aantal geleverde uren ADL-assistentie maal het uurtarief genoemd in artikel 2.9.4, tweede lid, tot maximaal de subsidieverlening.   
-2.  Bij toepassing van het eerste lid worden afschrijvingskosten in aanmerking genomen tot de volgende maximum percentages van de historische kosten: 
-
-a. gebouwen 2%;  
-
-b. verbouwingen 5%;  
-
-c. inventarisgoederen 10%;  
-
-d. computerapparatuur en programmatuur 20%.     
-3.  Toevoegingen aan voorzieningen worden niet gerekend tot de lasten van de gesubsidieerde activiteiten.   
-4.  In afwijking van artikel 1.8.7, achtste lid, kan toevoeging aan de in artikel 1.8.7, eerste lid, bedoelde reservering niet plaatsvinden voor zover de reserve, bedoeld in artikel 1.8.7, 10% of meer bedraagt van de subsidiabele lasten van het vorig jaar.   
-
-### Artikel  2.9.7  
-
-1.  De ontvanger van een instellingssubsidie voor ADL-assistentie registreert op zorgvuldige wijze: 
-
-a. aan welke verzekerde ADL-assistentie is verleend;  
-
-b. hoeveel uur ADL-assistentie aan de desbetreffende verzekerde is verleend;  
-
-c. in en om welke ADL-woning ADL-assistentie aan de desbetreffende verzekerde is verleend;  
-
-d. het aantal uren ADL-assistentie waarmee in het advies bij het indicatiebesluit als bedoeld in het Zorgindicatiebesluit voor de desbetreffende verzekerde rekening is gehouden.     
-2.  De ontvanger van een instellingssubsidie voor ADL-assistentie verstrekt het College zorgverzekeringen desgevraagd de gegevens, bedoeld in het eerste lid.   
-3.  De ontvanger van een instellingssubsidie voor ADL-assistentie bewaart de gegevens, bedoeld in het eerste lid, gedurende minimaal vijf jaren.   
-4.  De ontvanger van een instellingssubsidie draagt zorg voor vaststelling en indiening van een jaarverslaglegging en een jaardocument met overeenkomstige toepassing van de [Regeling verslaggeving WTZi](../../../../../ministeriele-regeling/regeling/verslaggeving/wtzi/BWBR0019252/README.md).   
-
-### Artikel  2.9.8  
-
-De ontvanger van een instellingssubsidie voor ADL-assistentie zorgt ervoor dat de verzekerde die op 1 januari 2009 reeds ADL-assistentie ontvangt, uiterlijk op 1 juli 2010 voldoet aan de voorwaarde bedoeld in artikel 2.9.3, onderdeel e.  
-
-### Artikel  2.9.9  
-
-Deze paragraaf vervalt met ingang van 1 januari 2012.  
 
 ### Paragraaf  2.10  
 
@@ -940,124 +894,84 @@ Deze paragraaf vervalt met ingang van 1 januari 2012.
 
 Voor de exploitatie van de navolgende abortusklinieken kan een instellingssubsidie worden verleend aan de daarbij vermelde rechtspersonen: 
 
-a. Stimezo Alkmaar te Alkmaar, Stichting Stimezo Alkmaar;  
+a. Sezoz te Amsterdam, Stichting Sexualiteit Zwangerschapsonderbreking Zorg;  
 
-b. Sezoz te Amsterdam, Stichting Sexualiteit Zwangerschapsonderbreking Zorg;  
+b. Casa Amsterdam te Amsterdam, Stichting Centrum voor Anticonceptie, Seksualiteit en Abortus;  
 
-c. dr. Frans Wong Kliniek te Amsterdam, Stichting dr. Frans Wong;  
+c. Mildredhuis te Arnhem, Stichting Mildredhuis, Centrum voor seksuele gezondheid Arnhem e.o.;  
 
-d. Mildredhuis te Arnhem, Stichting Mildredhuis, Centrum voor seksuele gezondheid Arnhem e.o.;  
+d. CASA Den Haag te Den Haag, Stichting Centrum voor Anticonceptie, Seksualiteit en Abortus;  
 
-e. CASA Den Haag te Den Haag, Stichting Centrum voor Anticonceptie, Seksualiteit en Abortus;  
+e. Stichting RutgersStimezo Zuid Nederland, centrum voor seksuele gezondheid Eindhoven e.o.;  
 
-f. g. Stichting RutgersStimezo Zuid Nederland, centrum voor seksuele gezondheid Eindhoven e.o.;  
+f. Emma Kliniek te Enschede, Stichting ter bevordering van medisch verantwoorde zwangerschapsafbreking Enschede en omstreken;  
 
-g. Emma Kliniek te Enschede, Stichting ter bevordering van medisch verantwoorde zwangerschapsafbreking Enschede en omstreken;  
+g. CASA Goes te Goes, Stichting Centrum voor Anticonceptie, Seksualiteit en Abortus;  
 
-h. CASA Goes te Goes, Stichting Centrum voor Anticonceptie, Seksualiteit en Abortus;  
+h. Stimezo Groningen te Groningen, Stichting Medisch Centrum voor Geboorteregeling Stimezo Groningen;  
 
-i. Stimezo Groningen te Groningen, Stichting Medisch Centrum voor Geboorteregeling Stimezo Groningen;  
+i. Beahuis te Heemstede, Stichting Hulpverlening Zwangerschapsonderbreking Noord-Holland ‘STIZO’;  
 
-j. Beahuis te Heemstede, Stichting Hulpverlening Zwangerschapsonderbreking Noord-Holland ‘STIZO’;  
+j. CASA Leiden te Leiden, Stichting Centrum voor Anticonceptie, Seksualiteit en Abortus;  
 
-k. CASA Leiden te Leiden, Stichting Centrum voor Anticonceptie, Seksualiteit en Abortus;  
+k. CASA Maastricht te Maastricht, Stichting Centrum voor Anticonceptie, Seksualiteit en Abortus;  
 
-l. CASA Maastricht te Maastricht, Stichting Centrum voor Anticonceptie, Seksualiteit en Abortus;  
+l. CASA Rotterdam te Rotterdam, Stichting Centrum voor Anticonceptie, Seksualiteit en Abortus;  
 
-m. CASA Rotterdam te Rotterdam, Stichting Centrum voor Anticonceptie, Seksualiteit en Abortus;  
+m. Vrelinghuis te Utrecht, Stichting voor Hulpverlening bij Zwangerschapsonderbreking Utrecht en omgeving;  
 
-n. Vrelinghuis te Utrecht, Stichting voor Hulpverlening bij Zwangerschapsonderbreking Utrecht en omgeving;  
-
-o. Stimezo Zwolle te Zwolle, Stichting Stimezo Zwolle.    
+n. Stimezo Zwolle te Zwolle, Stichting Stimezo Zwolle.    
 
 ### Artikel  2.11.2  
 
-1.  De gesubsidieerde activiteiten bestaan uit zwangerschapsafbrekingen in de zin van [artikel 1, tweede lid, van de Wet afbreking zwangerschap](../../../../../wet/wet/afbreking/zwangerschap/BWBR0003396/README.md), overtijdbehandelingen en de aan beide behandelingsvormen verbonden nazorg ten behoeve van verzekerden, voor zover deze hulp onder verantwoordelijkheid van de subsidieontvanger en met personeel in dienst van de subsidieontvanger plaats vindt in diens abortuskliniek.   
+1.  De gesubsidieerde activiteiten bestaan uit zwangerschapsafbrekingen in de zin van [artikel 1, tweede lid, van de Wet afbreking zwangerschap](../../../../../wet/wet/afbreking/zwangerschap/BWBR0003396/README.md), overtijdbehandelingen en de aan beide behandelingsvormen verbonden nazorg, voor zover deze hulp wordt verleend aan verzekerden onder verantwoordelijkheid van de subsidieontvanger en met personeel in dienst van de subsidieontvanger plaats vindt in diens abortuskliniek.   
 2.  In afwijking van het eerste lid kan het College zorgverzekeringen onder door hem te stellen voorwaarden de subsidieontvanger toestemming verlenen werkzaamheden die rechtstreeks verband houden met de exploitatie van de abortuskliniek, door derden ten laste van de subsidiegelden te doen uitvoeren.   
 
 ### Artikel  2.11.3  
 
 De subsidieontvanger draagt er zorg voor dat geen betalingen van verzekerden worden gevraagd voor de gesubsidieerde activiteiten.  
 
-### Artikel  2.11.3a  
-
-In aanvulling op artikel 1.8.1 verplicht de subsidieontvanger zich zorg te dragen voor zowel de continuïteit van de te leveren zorg als voor een sluitende exploitatie van de instelling.  
-
 ### Artikel  2.11.4  
 
-Bij de subsidieverstrekking worden slechts de volgende lasten in aanmerking genomen: 
+1.  In afwijking van paragraaf 1.2.1 bestaat de subsidie uit: 
 
-a. de personeelslasten en materiële lasten, die noodzakelijk zijn voor het uitvoeren van zwangerschapsafbrekingen, overtijdsbehandelingen en nazorg;  
+a. voor de eerste 1.000 zwangerschapsafbrekingen een bedrag van € 438,15 per behandeling en voor elke volgende zwangerschapsafbreking een bedrag van € 266,70 per behandeling;  
 
-b. de kapitaalslasten met in achtneming van de volgende voorwaarden; 
+b. voor tweede trimesterbehandelingen een opslag van € 189,44 per behandeling;  
 
-1°. afschrijvingslasten worden berekend met toepassing van de beleidsregels inzake afschrijvingen bij abortusklinieken van de Nederlandse Zorgautoriteit,  
+c. een opslag van € 111,61 voor eerste of tweede trimesterbehandelingen, verricht onder narcose bij een sedatiescore van vier of vijf, in overeenstemming met de door het centraal begeleidingsorgaan voor de Intercollegiale Toetsing vastgelegde consensus ‘Sedatie en/of analgesie door niet anesthesiologen’ en onder begeleiding van een tweede arts die daartoe bevoegd en bekwaam is;  
 
-2°. rentelasten worden slechts in aanmerking genomen, inzien zij betrekking hebben op benodigd vreemd vermogen,  
+d. een extra opslag van € 331,84 per behandeling, bedoeld onder c, met prostaglandine;  
 
-3°. ingeval vreemd vermogen is aangetrokken in de vorm van annuïteiten, wordt als rente in aanmerking genomen het bedrag van de annuïteit, verminderd met de berekende rechtlijnige aflossing,  
+e. een bedrag van € 81,52 voor een consult waarop geen zwangerschapsonderbreking of overtijdbehandeling volgt.     
+2.  De subsidie wordt vermeerderd met een toeslag die wordt berekend overeenkomstig de volgende formule:   ![251498](http://wetten.overheid.nl/Illustration/251498)
+waarbij wordt verstaan onder: A: een toeslag voor huisvesting en de vaste installaties; B: een toeslag voor overige kapitaallasten; C: het totaal aantal verrichtte zwangerschapsafbrekingen en overtijdbehandelingen aan verzekerden en niet-verzekerden; D. het aantal verrichtte zwangerschapsafbrekingen en overtijdbehandelingen aan verzekerden   
+3.  De toeslag voor huisvesting en de vaste installaties bedraagt: 
 
-4°. indien de subsidieontvanger geen eigenaar is van de gebouwen, installaties of inventaris en de verhuurder een rechtspersoon is die zich ten doel stelt of mede ten doel stelt de ondersteuning van de subsidieontvanger, zullen aan huur ten hoogste in aanmerking worden genomen de eigenaarslasten, berekenend volgens het eerste, tweede en derde lid,  
+a. indien de huisvesting en de vaste installaties in eigendom is van de subsidieontvanger: rente en afschrijvingen bepaald op grond van de beleidsregels van de zorgautoriteit;  
 
-5°. in andere gevallen waarin de subsidieontvanger geen eigenaar is van de gebouwen, installaties of inventaris zal aan huur in aanmerking worden genomen het door een huuradviescommissie recentelijk geadviseerd huurbedrag voor het betreffende pand, dan wel, indien een dergelijk advies niet beschikbaar is of indien in het pand nieuwe investeringen gepleegd worden om het geschikt te maken aan zijn nieuwe bestemming een en ander in samenhang met het bepaalde in artikel 2.11.12, de huur die wordt vastgesteld door drie makelaars, één aan te wijzen door de huurder, één aan te wijzen door de verhuurder en één aan te wijzen door beide voornoemde makelaars,  
+b. indien de huisvesting en de vaste installaties wordt gehuurd door de subsidieontvanger: huur van de huisvesting en de vaste installaties exclusief de servicekosten, voor zover de subsidieontvanger geen andere vergoeding voor deze huur ontvangt of kan ontvangen. De hoogte van de huur wordt bepaald door een huurcommissie bestaande uit één makelaar aan te wijzen door huurder, één makelaar aan te wijzen door verhuurder en één makelaar aan te wijzen door beide voornoemde makelaars.     
+4.  De toeslag voor overige kapitaallasten bedraagt: 
 
-6°. bij overname door een andere rechtspersoon of verandering van rechtsvorm worden dezelfde grondslagen gehanteerd, waarbij een overname voor de beoordeling van de kapitaalslasten geen wijziging met zich brengt,  
+a. één procent van de stichtingskosten, zijnde het totaal van de historische kosten van het stenen gebouw met de vaste installaties, de restauraties en verbouwingen van het stenen gebouw en de tuinaanleg, ten behoeve van de vorming van een onderhoudsvoorziening, en  
 
-7°. huur die onder enige andere regeling kan worden of wordt vergoed, komt niet voor vergoeding in aanmerking op grond van deze subsidieparagraaf.    
+b. € 24 567,53, indien het totale aantal verrichtte zwangerschapsafbrekingen en overtijdbehandelingen aan verzekerden en niet-verzekerden lager is dan 1 500, of  
 
-c. Baten en lasten worden alleen dan verantwoord in de exploitatie als deze verband houden met de in artikel 2.11.2, eerste lid, genoemde activiteiten.    
+c. € 30 135,42, indien het totale aantal verrichtte zwangerschapsafbrekingen en overtijdbehandelingen aan verzekerden en niet-verzekerden 1 500 of meer is.     
+5.  De bedragen, vermeld in het eerste en tweede lid, worden, rekening houdend met de beleidsregels van de zorgautoriteit, bijgesteld in verband met de ontwikkeling van de loonkosten en de materiële kosten.   
 
 ### Artikel  2.11.5  
 
-Indien de subsidieontvanger tevens zwangerschapsafbrekingen, overtijdsbehandelingen en nazorg verricht die niet voor subsidiëring in aanmerking komen, worden de volgens artikel 2.11.4 in aanmerking te nemen lasten, na aftrek van de vaste opslagen bedoeld in artikel 2.11.6, onderdelen b, c, en d, naar rato van het aantal behandelingen van verzekerden respectievelijk niet-verzekerden berekend.  
-
-### Artikel  2.11.6  
-
-In afwijking van artikel 1.2.1 wordt de maximale subsidie voor 2011 als volgt berekend: 
-
-a. voor de eerste duizend zwangerschapsafbrekingen een bedrag van € 416,11 per behandeling en voor elke volgende behandeling een bedrag van € 253,29;  
-
-b. voor tweede trimesterbehandelingen een opslag van € 179,35 per behandeling;  
-
-c. Voor eerste en tweede trimesterbehandelingen onder narcose een opslag van € 106 per behandeling bij een sedatiescore van vier of vijf overeenkomstig de door het centraal begeleidingsorgaan voor de Intercollegiale Toetsing vastgelegde consensus ‘Sedatie en/of analgesie door niet anesthesiologen’, indien de begeleiding in handen is van een tweede arts die daartoe bevoegd en bekwaam is;  
-
-d. voor behandelingen met prostaglandine naast de opslag, vermeld in onderdeel c, een extra opslag van € 315,32 per behandeling;  
-
-e. voor huisvestingskosten: 
-
-1°. ingeval van eigendom de afschrijvingen op het gebouw met de vaste installaties en een bedrag voor onderhoud ter hoogte van 1% van de stichtingskosten,  
-
-2°. ingeval de subsidieontvanger geen eigenaar is van de gebouwen het huurbedrag, exclusief de servicekosten en de afschrijvingen op vaste installaties en verbouwingen, voor zover deze niet zijn begrepen in het huurbedrag,  
-
-3°. de rente van geldleningen die rechtstreeks verband houden met de financiering van de huisvesting of, ingeval financiering plaatsvindt met eigen vermogen, de rentevergoeding volgens artikel 2.11.8;    
-
-f. een toeslag voor overige kapitaalslasten van € 23 581,99 indien het totale aantal behandelingen minder dan 1500 is en een toeslag van € 28 926,52, indien het totale aantal behandelingen 1500 of meer bedraagt;  
-
-g. een opslag per consult dat geen behandeling tot gevolg heeft van € 76,03.    
+1.  De subsidieontvanger overlegt bij zijn aanvraag tot subsidievaststelling een overzicht van alle zwangerschapsafbrekingen, overtijdbehandelingen en consulten waarop geen zwangerschapsonderbreking of overtijdbehandeling volgt.   
+2.  Het overzicht is voorzien van een toelichting op het verschil met het aantal verrichtte behandelingen waarvoor de subsidievaststelling wordt aangevraagd.   
 
 ### Artikel  2.11.7  
 
-1.  In afwijking van artikel 1.8.7 worden toevoegingen aan voorzieningen niet gerekend tot de lasten van de gesubsidieerde activiteiten.   
-2.  Het saldo van in rekening courant verstrekte of verkregen gelden in concernverband is per 31 december van ieder jaar nihil.   
-3.  De in artikel 1.8.7 bedoelde gelden moeten in liquide vorm worden aangehouden.   
-
-### Artikel  2.11.8  
-
-Uitsluitend ten behoeve van de berekening van de maximaal in aanmerking te nemen huisvestingslasten, bedoeld in artikel 2.11.6, onderdeel e, wordt voor de beschikbaarstelling van eigen vermogen een rentevergoeding berekend. Hiervoor wordt in de jaar normrente kort krediet gehanteerd volgens de beleidsregels voor abortusklinieken van de Nederlandse Zorgautoriteit.  
-
-### Artikel  2.11.9  
-
-1.  Onverminderd artikel 1.5.1 zendt de subsidieontvanger de begroting per gelijke post aan de Nederlandse Zorgautoriteit.   
-2.  In afwijking van 1.5.1 gaat de aanvraag niet vergezeld van een activiteitenplan.   
+Artikel 1.8.7 is niet van toepassing.  
 
 ### Artikel  2.11.10  
 
-1.  Onverminderd artikel 1.8.14 verstrekt de subsidieontvanger alle bescheiden en inlichtingen aan de Nederlandse Zorgautoriteit.   
-2.  Het College zorgverzekeringen is bevoegd alle informatie met betrekking tot de subsidiëring ter beschikking te stellen aan de Nederlandse Zorgautoriteit.   
-
-### Artikel  2.11.11  
-
-Met betrekking tot uitgaven waarin deze paragraaf niet voorziet, wordt gehandeld overeenkomstig de beleidsregels voor abortusklinieken van de Nederlandse Zorgautoriteit.  
+Het College zorgverzekeringen is bevoegd alle informatie met betrekking tot de subsidiëring ter beschikking te stellen aan de Nederlandse Zorgautoriteit.  
 
 ### Artikel  2.11.12  
 
@@ -1067,7 +981,7 @@ Zonder voorafgaande schriftelijke toestemming van het College zorgverzekeringen 
 
 1.  Op een aanvraag voor nieuwbouw of verbouw van een abortuskliniek zijn de beleidsregels ‘Bouwvoorschriften College zorgverzekeringen abortusklinieken’ van toepassing.   
 2.  De subsidieontvanger dient bij het College zorgverzekeringen de volledige aanvraag in uiterlijk 26 weken vóór aanvang van de voorziene nieuwbouw of verbouw, waarop het College zorgverzekeringen een beslissing neemt.   
-3.  De aanvraag moet vergezeld gaan van een bouwplan, een onderbouwing van de bouwwerkzaamheden, bouwtekeningen van de bestaande en nieuwe situatie en een open begroting van het investeringsbedrag.   
+3.  De aanvraag moet vergezeld gaan van een bouwplan, een onderbouwing van de bouwwerkzaamheden, bouwtekeningen van de bestaande en nieuwe situatie, een open begroting van het investeringsbedrag, een opgave van niet bouwgerelateerde kosten en een financieringsvoorstel dat binnen de exploitatie past van de abortuskliniek.   
 
 ### Hoofdstuk  III  
 
@@ -1088,4 +1002,102 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
-C.I.J.M.Ross-van Dorp   
+C.I.J.M.Ross-van Dorp  
+
+### Bijlage  2  
+
+####van de Regeling subsidies AWBZ
+
+| ZZP  | ZZP-code  | Persoonlijke verzorging  | Verpleging  | Begeleiding  | Begeleiding  | individueel  | groep  |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1VV  | 750  | 1  | 1  | 2  | --- |
+| 2VV  | 751  | 3  | 2  | 1  | --- |
+| 3VV  | 752  | 4  | 1  | 2  | --- |
+| 4VV  | 753  | 4  | 2  | 3  | --- |
+| 5VV  | 754  | 4  | 3  | 4  | --- |
+| 6VV  | 755  | 4  | 3  | 4  | --- |
+| 7VV  | 756  | 4  | 3  | 6  | --- |
+| 8VV  | 757  | 5  | 3  | 7  | --- |
+| 9bVV  | 191  | 5  | 2  | 4  | --- |
+| 10VV  | 759  | 7  | 5  | 4  | --- |
+| 1GGZ B  | 860  | 1  | 0  | 3  | --- |
+| 1GGZ B  | 860  | 1  | 0  | 3  | 4  |
+| 2GGZ B  | 862  | 1  | 0  | 4  | --- |
+| 2GGZ B  | 862  | 1  | 0  | 4  | 4  |
+| 3GGZ B  | 864  | 1  | 0  | 5  | --- |
+| 3GGZ B  | 864  | 1  | 0  | 5  | 4  |
+| 4GGZ B  | 766  | 3  | 1  | 4  | --- |
+| 4GGZ B  | 766  | 3  | 1  | 4  | 4  |
+| 5GGZ B  | 768  | 2  | 1  | 5  | --- |
+| 5GGZ B  | 768  | 2  | 1  | 5  | 5  |
+| 6GGZ B  | 770  | 4  | 2  | 5  | --- |
+| 6GGZ B  | 770  | 4  | 2  | 5  | 4  |
+| 7GGZ B  | 772  | 3  | 2  | 7  | --- |
+| 7GGZ B  | 772  | 3  | 2  | 7  | 5  |
+| 1GGZ C  | 760  | 1  | --- | 3  | --- |
+| 1GGZ C  | 760  | 1  | --- | 3  | 4  |
+| 2GGZ C  | 762  | 1  | --- | 5  | --- |
+| 2GGZ C  | 762  | 1  | --- | 5  | 4  |
+| 3GGZ C  | 764  | 2  | --- | 5  | --- |
+| 3GGZ C  | 764  | 2  | --- | 5  | 4  |
+| 4GGZ C  | 866  | 2  | 3  | 4  | --- |
+| 4GGZ C  | 866  | 2  | 3  | 4  | 4  |
+| 5GGZ C  | 868  | 3  | 2  | 5  | --- |
+| 5GGZ C  | 868  | 3  | 2  | 5  | 4  |
+| 6GGZ C  | 870  | 5  | 3  | 5  | --- |
+| 6GGZ C  | 870  | 5  | 3  | 5  | 4  |
+| 1LVG  | 780  | 2  | --- | 4  | 1  |
+| 2LVG  | 781  | 2  | --- | 6  | 1  |
+| 3LVG  | 782  | 4  | --- | 6  | 1  |
+| 4LVG  | 783  | 5  | --- | 7  | 2  |
+| 5LVG  | 784  | 5  | --- | 7  | 2  |
+| 1SGLVG  | 790  | 3  | --- | 7  | 3  |
+| 1VG  | 800  | 2  | --- | 3  | --- |
+| 1VG  | 800  | 2  | --- | 3  | 5  |
+| 2VG  | 802  | 2  | --- | 4  | --- |
+| 2VG  | 802  | 2  | --- | 4  | 5  |
+| 3VG  | 804  | 1  | --- | 5  | --- |
+| 3VG  | 804  | 1  | --- | 5  | 6  |
+| 4VG  | 806  | 2  | 0  | 5  | --- |
+| 4VG  | 806  | 2  | 0  | 5  | 6  |
+| 5VG  | 808  | 4  | 1  | 5  | --- |
+| 5VG  | 808  | 4  | 1  | 5  | 7  |
+| 6VG  | 810  | 2  | --- | 6  | --- |
+| 6VG  | 810  | 2  | --- | 6  | 8  |
+| 7VG  | 812  | 4  | 0  | 7  | --- |
+| 7VG  | 812  | 4  | 0  | 7  | 9  |
+| 8VG  | 814  | 7  | 2  | 3  | --- |
+| 8VG  | 814  | 7  | 2  | 3  | 7  |
+| 1LG  | 820  | 2  | 0  | 4  | --- |
+| 1LG  | 820  | 2  | 0  | 4  | 6  |
+| 2LG  | 822  | 4  | 0  | 4  | --- |
+| 2LG  | 822  | 4  | 0  | 4  | 6  |
+| 3LG  | 824  | 4  | 0  | 3  | --- |
+| 3LG  | 824  | 4  | 0  | 3  | 7  |
+| 4LG  | 826  | 4  | 0  | 4  | --- |
+| 4LG  | 826  | 4  | 0  | 4  | 6  |
+| 5LG  | 828  | 5  | 1  | 4  | --- |
+| 5LG  | 828  | 5  | 1  | 4  | 7  |
+| 6LG  | 830  | 6  | 2  | 4  | --- |
+| 6LG  | 830  | 6  | 2  | 4  | 6  |
+| 7LG  | 832  | 6  | 2  | 5  | --- |
+| 7LG  | 832  | 6  | 2  | 5  | 5  |
+| 1ZGvis  | 840  | 2  | --- | 3  | --- |
+| 1ZGvis  | 840  | 2  | --- | 3  | 6  |
+| 2ZGvis  | 842  | 2  | --- | 5  | --- |
+| 2ZGvis  | 842  | 2  | --- | 5  | 5  |
+| 3ZGvis  | 844  | 3  | 1  | 5  | --- |
+| 3ZGvis  | 844  | 3  | 1  | 5  | 5  |
+| 4ZGvis  | 846  | 6  | 1  | 5  | --- |
+| 4ZGvis  | 846  | 6  | 1  | 5  | 7  |
+| 5ZGvis  | 848  | 6  | 1  | 6  | --- |
+| 5ZGvis  | 848  | 6  | 1  | 6  | 7  |
+| 1ZGaud  | 850  | 1  | --- | 5  | --- |
+| 1ZGaud  | 850  | 1  | --- | 5  | 8  |
+| 2ZGaud  | 852  | 5  | 2  | 7  | --- |
+| 2ZGaud  | 852  | 5  | 2  | 7  | 9  |
+| 3ZGaud  | 854  | 7  | 3  | 7  | --- |
+| 3ZGaud  | 854  | 7  | 3  | 7  | 9  |
+| 4ZGaud  | 856  | 3  | --- | 7  | --- |
+| 4ZGaud  | 856  | 3  | --- | 7  | 7  |
+

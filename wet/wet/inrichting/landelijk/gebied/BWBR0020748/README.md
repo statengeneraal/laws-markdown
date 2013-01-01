@@ -226,18 +226,6 @@ f. in voorkomend geval de maatregelen of voorzieningen voor de verwezenlijking w
 1.  Op de voorbereiding van het inrichtingsplan of van een wijziging daarvan is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
 2.  Voorafgaand aan de terinzagelegging van het ontwerp van het inrichtingsplan of van het ontwerp van een wijziging van het inrichtingsplan, voeren gedeputeerde staten daaromtrent overleg met burgemeester en wethouders van de betrokken gemeenten en de dagelijkse besturen van de betrokken waterschappen.   
 
-### Artikel  19  
-
-Tegen een besluit tot vaststelling of wijziging van een inrichtingsplan kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State, voor zover het betreft: 
-
-a. de begrenzing van de blokken, bedoeld in artikel 17, derde lid, onderdeel b;  
-
-b. de aanduiding van voorzieningen, bedoeld in artikel 17, tweede lid, onderdeel b, inhoudende de toepassing van een korting als bedoeld in artikel 56, eerste lid;  
-
-c. de toewijzing van eigendom, beheer en onderhoud van voorzieningen van openbaar nut, bedoeld in artikel 28;  
-
-d. de aanduiding van wegen met de daartoe behorende kunstwerken, bedoeld in artikel 33, eerste lid, en de opname van wegen met de daartoe behorende kunstwerken als openbare weg, bedoeld in artikel 33, tweede lid.    
-
 ### Artikel  20  
 
 Voor zover een inrichtingsplan als een van de maatregelen en voorzieningen, bedoeld in artikel 17, tweede lid, onderdeel b, voorziet in herverkaveling, kan dat inrichtingsplan ten aanzien van die herverkaveling niet meer worden gewijzigd nadat het ontwerp van het ruilplan overeenkomstig artikel 64, eerste lid, ter inzage is gelegd.  
@@ -642,7 +630,7 @@ c. de wederpartij, bedoeld in artikel 65, vijfde lid.
 8.  Indien gedeputeerde staten van mening zijn dat met betrekking tot de ter registratie ingezonden pachtovereenkomst ten onrechte [artikel 318, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet in acht zijn genomen, dragen zij zo nodig partijen bij aangetekende brief op de beslissing van de grondkamer in te roepen en binnen vier weken na de dagtekening van deze brief een door de secretaris van de grondkamer gewaarmerkt afschrift van het verzoekschrift in te zenden.   
 9.  Indien gedeputeerde staten van mening zijn dat met betrekking tot de ter registratie ingezonden pachtovereenkomst [artikel 317, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet in acht is genomen, dragen zij zo nodig partijen bij aangetekende brief op de beslissing van de pachtkamer van de rechtbank in te roepen en binnen vier weken na de dagtekening van deze brief een door de griffier van de rechtbank gewaarmerkt afschrift van het verzoekschrift in te zenden.   
 10.  Indien aan het zevende tot en met het negende lid geen gevolg is gegeven, hoeft in het ruilplan met het bestaan van de pachtovereenkomst geen rekening te worden houden.   
-11.  De grondkamer en de pachtkamer van de rechtbank en in beroep de Centrale Grondkamer en de pachtkamer van het gerechtshof te Arnhem behandelen de verzoeken en vorderingen, bedoeld in het zevende tot en met het negende lid, vóór alle andere zaken.   
+11.  De grondkamer en de pachtkamer van de rechtbank en in beroep de Centrale Grondkamer en de pachtkamer van het gerechtshof Arnhem-Leeuwarden behandelen de verzoeken en vorderingen, bedoeld in het zevende tot en met het negende lid, vóór alle andere zaken.   
 
 ### Artikel  66  
 

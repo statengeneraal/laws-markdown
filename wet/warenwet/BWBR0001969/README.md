@@ -54,7 +54,7 @@ b. eet- en drinkwaren die worden verhandeld op civieltechnische werken in de exc
 
 ### Artikel  2a  
 
-Onze Minister van Defensie kan gebieden aanwijzen, waarin deze wet niet van toepassing is op voor militair gebruik bestemde waren.  
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Onze Minister van Defensie kan gebieden aanwijzen, waarin deze wet niet van toepassing is op voor militair gebruik bestemde waren.  
 
 ### Artikel  3  
 
@@ -317,10 +317,6 @@ Voor de toepassing van de artikelen 21, 21a, 21b, 32 of 32a kan bij algemene maa
 2.  Een krachtens toepassing van het vorige lid vastgestelde verordening behoeft de goedkeuring van Onze Minister. Krachtens de verordening vastgestelde nadere voorschriften en genomen besluiten behoeven eveneens zodanige goedkeuring voor zover zulks bij de betrokken algemene maatregel van bestuur is bepaald. Onze Minister neemt een besluit over de goedkeuring in overeenstemming met Onze Minister van Economische Zaken en, ingeval de verordening betrekking heeft op produkten van de landbouw of de visserij, Onze Minister van Landbouw, Natuurbeheer en Visserij.   
 3.  Een krachtens toepassing van het eerste lid vastgestelde verordening is verbindend voor een ieder, voorzover daarin niet anders is bepaald.   
 4.  In een algemene maatregel van bestuur waarbij toepassing wordt gegeven aan het eerste lid, onder *a*, kan artikel 16, eerste tot en met vijfde lid, met betrekking tot nadere regels die krachtens die maatregel worden gesteld, van overeenkomstige toepassing worden verklaard, met dien verstande dat de bevoegdheid tot verlening van vrijstelling of ontheffing, als in dat artikel bedoeld, met betrekking tot zodanige regels komt te berusten bij een bestuursorgaan, daartoe bij de maatregel aangewezen.   
-
-### Artikel  23  
-
-In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten op grond van deze wet de rechtbank te Rotterdam bevoegd.  
 
 ### Artikel  24  
 

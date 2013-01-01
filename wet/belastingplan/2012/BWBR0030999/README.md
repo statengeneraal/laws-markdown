@@ -21,6 +21,10 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 Wijzigt de Wet inkomstenbelasting 2001.   
 
+### Artikel  IIIa  
+
+In de [Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) vervalt [artikel 10a.11](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) met ingang van 1 januari 2022.  
+
 ### Artikel  IV  
 
 Wijzigt de Wet inkomstenbelasting 2001.   
@@ -36,6 +40,14 @@ Wijzigt de Wet op de loonbelasting 1964.
 ### Artikel  VII  
 
 Wijzigt de Wet op de loonbelasting 1964.   
+
+### Artikel  VIIa  
+
+Wijzigt de Wet op de loonbelasting 1964.   
+
+### Artikel  VIIb  
+
+In de [Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) vervalt [artikel 39d](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) met ingang van 1 januari 2022.  
 
 ### Artikel  VIII  
 
@@ -59,10 +71,6 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 2.  Voor lichamen die een herbestedingsreserve hebben gevormd als bedoeld in [artikel 12 van de Wet op de vennootschapsbelasting 1969](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) zoals dat artikel luidde op 31 december 2011, en met ingang van het eerste boekjaar dat aanvangt op of na 1 januari 2012 niet voldoen aan de voorwaarden die artikel 12 van de Wet op de vennootschapsbelasting 1969 stelt ter zake van de vorming van een bestedingsreserve, blijft artikel 12 van de Wet op de vennootschapsbelasting 1969 zoals dat luidde op 31 december 2011 van toepassing met betrekking tot die herbestedingsreserve.   
 
 ### Artikel  XIII  
-
-Wijzigt de Wet op de dividendbelasting 1965.   
-
-### Artikel  XIV  
 
 Wijzigt de Wet op de dividendbelasting 1965.   
 
@@ -151,7 +159,7 @@ Wijzigt de Zorgverzekeringswet.
 
 ### Artikel  XXXIV  
 
-1.  [Artikel I](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [hoofdstuk VA van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), zoals dat artikel en dat hoofdstuk luidden op 31 december 2012, blijven van toepassing met betrekking tot: 
+1.  [Artikel 1](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [hoofdstuk VA van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en de op dat hoofdstuk berustende bepalingen, zoals dat artikel, dat hoofdstuk en die bepalingen luidden op 31 december 2012, blijven van toepassing met betrekking tot: 
 
 a. belastingaanslagen inkomstenbelasting die betrekking hebben op tijdvakken die zijn geëindigd vóór 1 januari 2012;  
 
@@ -159,8 +167,8 @@ b. belastingaanslagen vennootschapsbelasting die betrekking hebben op tijdvakken
 
 c. belastingaanslagen erfbelasting die betrekking hebben op belastingschulden die zijn ontstaan vóór 1 januari 2013;  
 
-d. naheffingsaanslagen en beschikkingen ter zake van loonbelasting, omzetbelasting, overdrachtsbelasting, belasting van personenauto’s en motorrijwielen, accijns, verbruiksbelastingen van alcoholvrije dranken en van pruimtabak en snuiftabak, en de in [artikel 1 van de Wet belastingen op milieugrondslag](../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) genoemde belastingen, die betrekking hebben op belastingschulden die zijn ontstaan in tijdvakken die zijn geëindigd vóór 1 januari 2012.     
-2.  Met betrekking tot de in het eerste lid bedoelde belastingaanslagen en beschikkingen blijft [hoofdstuk V van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), zoals dat hoofdstuk luidde op 31 december 2012, van toepassing met uitzondering van de regeling inzake het rentepercentage van de invorderingsrente van [artikel 29 van die wet](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) ter zake van periodes na 31 december 2012. Voor zover een renteperiode is gelegen na 31 december 2012, geldt de regeling inzake het rentepercentage, zoals die regeling luidt met ingang van 1 januari 2013.   
+d. naheffingsaanslagen en beschikkingen ter zake van loonbelasting, omzetbelasting, overdrachtsbelasting, belasting van personenauto’s en motorrijwielen, accijns, verbruiksbelastingen van alcoholvrije dranken en van pruimtabak en snuiftabak, en de in [artikel 1 van de Wet belastingen op milieugrondslag](../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) genoemde belastingen, die betrekking hebben op belastingschulden die zijn ontstaan in tijdvakken die zijn geëindigd vóór 1 januari 2012.   In afwijking in zoverre van de eerste volzin blijft de regeling inzake het rentepercentage van de heffingsrente van [artikel 30f, vijfde lid, van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), zoals dat luidde op 31 december 2012, slechts van toepassing ter zake van renteperiodes die zijn gelegen vóór 1 januari 2013. Voor zover een renteperiode is gelegen na 31 december 2012, geldt de regeling inzake het rentepercentage, zoals die regeling luidt met ingang van 1 januari 2013.   
+2.  Met betrekking tot de in het eerste lid bedoelde belastingaanslagen en beschikkingen alsmede teruggaafbeschikkingen op grond van de artikelen 236, 237 en 238 van Verordening (EEG) nr. 2913/92 van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (PbEG 1992, L 302) met betrekking tot uitnodigingen tot betaling met een dagtekening die is gelegen vóór 1 januari 2013, blijft [hoofdstuk V van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de op dat hoofdstuk berustende bepalingen, zoals dat hoofdstuk en die bepalingen luidden op 31 december 2012, van toepassing met uitzondering van de regeling inzake het rentepercentage van de invorderingsrente van [artikel 29 van die wet](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) ter zake van periodes na 31 december 2012. Voor zover een renteperiode is gelegen na 31 december 2012, geldt de regeling inzake het rentepercentage, zoals die regeling luidt met ingang van 1 januari 2013.   
 3.  Met betrekking tot andere belastingaanslagen dan bedoeld in het eerste lid, blijft [artikel 29 van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), zoals dat artikel luidde op 31 december 2012, van toepassing voor zover een renteperiode is gelegen vóór 1 januari 2013.   
 4.  In afwijking van de aanhef van artikel XXVIII gelden de in dat artikel opgenomen wijzigingen van de [Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) ook met betrekking tot belastingaanslagen vennootschapsbelasting die worden vastgesteld in het kalenderjaar 2012 en betrekking hebben op tijdvakken die zijn aangevangen op of na 1 januari 2012.   
 5.  Voor zover de in [artikel 30i, derde lid, van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) bedoelde renteperiode is gelegen voor 1 januari 2013, geldt de regeling inzake het rentepercentage van [artikel 30f, vijfde lid, van die wet](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) zoals dat artikel luidde vóór 1 januari 2013.   

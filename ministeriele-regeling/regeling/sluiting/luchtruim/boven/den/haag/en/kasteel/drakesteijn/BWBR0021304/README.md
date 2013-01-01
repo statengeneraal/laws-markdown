@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Verkeer en Waterstaat houdende sluiting van het luchtruim boven Den Haag en kasteel Drakensteijn ( Regeling sluiting luchtruim boven Den Haag en kasteel Drakensteijn )
 
 De Staatssecretaris van Verkeer en Waterstaat,  
-Gelet op [artikel 5.1, eerste lid, onderdeel a, van de Wet luchtvaart](../../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);
+Gelet op artikel 5.1, eerste lid, onderdeel a, van de Wet luchtvaart;
 Besluit:    
 
 ### Artikel  1  
@@ -16,13 +16,13 @@ b. Een rechthoekig gebied boven het kasteel Drakensteijn en omgeving, aangeduid 
 
 ### Artikel  1a  
 
-Deze regeling berust op [artikel 5.10 eerste lid, onderdeel a, van de Wet luchtvaart](../../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md).  
+Deze regeling berust op artikel 5.10 eerste lid, onderdeel a, van de Wet luchtvaart.  
 
 ### Artikel  2  
 
 Het verbod, genoemd in artikel 1, is niet van toepassing op: 
 
-a. luchtvaartuigen van het Korps Landelijke Politiediensten, Dienst Luchtvaartpolitie,  
+a. luchtvaartuigen van de politie,  
 
 b. luchtvaartuigen die gebruikt worden ten behoeve van het vervoer van leden van het Koninklijk Huis, staatshoofden en ministers,  
 
@@ -30,13 +30,13 @@ c. helikopters die worden gebruikt voor spoedeisende hulpverlening door traumate
 
 e. ambulancevluchten voor het Westeinde Ziekenhuis in Den Haag, en  
 
-f. burgerluchtvaartuigen die ontheffing hebben gekregen van de Minister van Verkeer en Waterstaat.    
+f. burgerluchtvaartuigen die ontheffing hebben gekregen van de Minister van Infrastructuur en Milieu.    
 
 ### Artikel  3  
 
 Ingetrokken worden: 
 
-a. de [Regeling beperking burgerluchtvaart veiligheid Koninklijk Huis](../../../../../../../../../../../ministeriele-regeling/regeling/beperking/burgerluchtvaart/veiligheid/koninklijk/huis/BWBR0007400/README.md), en  
+a. de Regeling beperking burgerluchtvaart veiligheid Koninklijk Huis, en  
 
 b. de Regeling sluiting luchtruim Prinsjesdag.    
 
@@ -55,9 +55,9 @@ M.H.Schultz van Haegen
 
 ### Bijlage  A  
 
-![242123](http://wetten.overheid.nl/Illustration/242123)
+![]()
 
 ### Bijlage  B  
 
-![242124](http://wetten.overheid.nl/Illustration/242124)
+![]()
 

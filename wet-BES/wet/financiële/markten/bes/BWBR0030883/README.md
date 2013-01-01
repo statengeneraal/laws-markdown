@@ -261,30 +261,6 @@ b. de uitvoering van verdragen, bindende besluiten van volkenrechtelijke organis
 2.  Een ieder is verplicht aan de toezichtautoriteit binnen de door haar gestelde redelijke termijn alle medewerking te verlenen die zij redelijkerwijs kan vorderen bij de uitoefening van haar bevoegdheden.   
 3.  Zij die uit hoofde van ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking weigeren, voor zover dit uit hun geheimhoudingsplicht voortvloeit.   
 
-### Artikel  1:8  
-
-####(begroting, verantwoording en jaarverslag)
-
-1.  De Nederlandsche Bank stelt jaarlijks een begroting, een verantwoording en een jaarverslag op ter zake van de haar op grond van deze wet opgedragen taken en de daaruit voortvloeiende werkzaamheden. De [artikelen 1:30 tot en met 1:32](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:34](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [1:36 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn van overeenkomstige toepassing.   
-2.  De Autoriteit Financiële Markten stelt jaarlijks een begroting, een jaarrekening en een jaarverslag op ter zake van de haar op grond van deze wet opgedragen taken en de daaruit voortvloeiende werkzaamheden. De [artikelen 1:30 tot en met 1:33](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [1:36 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn van overeenkomstige toepassing.   
-3.  Tegen besluiten van Onze Minister inzake instemming met de begroting, de jaarrekening of de verantwoording staat geen beroep op grond van de [Wet administratieve rechtspraak BES](../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) open.   
-
-### Artikel  1:9  
-
-####(zorgvuldige taakuitvoering)
-
-1.  De toezichtautoriteit draagt met betrekking tot de uitvoering van de haar op grond van deze wet opgedragen taken zorg voor: 
-
-a. een tijdige voorbereiding en uitvoering;  
-
-b. de kwaliteit van de daarbij gebruikte procedures;  
-
-c. de zorgvuldige behandeling van een ieder die met haar in aanraking komt;  
-
-d. de zorgvuldige behandeling van bezwaarschriften en klachten die worden ontvangen.     
-2.  De toezichtautoriteit treft voorzieningen waardoor een ieder die met haar in aanraking komt, in de gelegenheid is voorstellen tot verbetering van werkwijzen en procedures te doen.   
-3.  In het jaarverslag, bedoeld in artikel 1:8, doet de toezichtautoriteit verslag van hetgeen tot uitvoering van het eerste en tweede lid is verricht.   
-
 ### Artikel  1:10  
 
 ####(doorberekening toezichtkosten)
@@ -292,12 +268,6 @@ d. de zorgvuldige behandeling van bezwaarschriften en klachten die worden ontvan
 1.  De aanvrager van een beschikking op grond van deze wet is de toezichtautoriteit voor het in behandeling nemen van zijn aanvraag een vergoeding verschuldigd van de met de behandeling van die aanvraag verband houdende kosten.   
 2.  Bij algemene maatregel van bestuur kan worden bepaald dat de toezichtautoriteit de overige kosten die verband houden met de vervulling van de haar op grond van deze wet opgedragen taken, eveneens geheel of gedeeltelijk in rekening brengt bij de ingevolge deze wet onder haar toezicht staande financiële ondernemingen, overeenkomstig bij of krachtens die maatregel te stellen regels.   
 3.  Bij regeling van Onze Minister worden de tarieven vastgesteld ter vergoeding van de in het eerste en tweede lid bedoelde kosten. Bij de regeling kan worden bepaald dat vergoedingen als bedoeld in het eerste lid bij vooruitbetaling verschuldigd zijn.   
-
-### Artikel  1:11  
-
-####(inlichtingenrecht van minister i.v.m. beleidsvoornemens)
-
-De toezichtautoriteit verstrekt Onze Minister desgevraagd de inlichtingen die nodig zijn voor de beoordeling van de uitvoerbaarheid van algemene beleidsvoornemens en voorgenomen wettelijke voorschriften, voor zover deze betrekking hebben op een in deze wet aan de toezichtautoriteit opgedragen taak.  
 
 ### Artikel  1:12  
 
@@ -311,12 +281,6 @@ b. zijn ontvangen van de andere toezichtautoriteit of een buitenlandse toezichth
 2.  De uitzondering, bedoeld in het eerste lid, onderdeel a, geldt niet voor zover het gegevens betreft die betrekking hebben op of herleidbaar zijn tot een financiële onderneming waarvan op grond van deze wet de vergunning is ingetrokken, of een financiële onderneming ten aanzien waarvan surseance van betaling is verleend of ten aanzien waarvan de noodregeling, bedoeld in artikel 8:9, is uitgesproken, of die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden.   
 3.  [Artikel 1:42, derde tot en met zesde lid, van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van overeenkomstige toepassing op de verstrekking van gegevens als bedoeld in het tweede lid.   
 4.  De [Wet openbaarheid van bestuur](../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) en de [Wet openbaarheid van bestuur BES](../../../../../../wet-BES/wet/openbaarheid/van/bestuur/bes/BWBR0028154/README.md), de [Wet Nationale ombudsman](../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md) en [titel 9.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing op gegevens die Onze Minister of een in zijn opdracht werkende derde uit hoofde van dit artikel onder zich heeft.   
-
-### Artikel  1:13  
-
-####(taakverwaarlozing door toezichtautoriteit)
-
-Indien naar het oordeel van Onze Minister de toezichtautoriteit haar taak ernstig verwaarloost, kan Onze Minister de noodzakelijke voorzieningen treffen. [Artikel 1:43, tweede tot en met vierde lid, van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van overeenkomstige toepassing.  
 
 ### Artikel  1:13a  
 
@@ -333,8 +297,8 @@ Indien naar het oordeel van Onze Minister de toezichtautoriteit haar taak ernsti
 
 ####(advies bij vergunningverlening)
 
-1.  Indien de Nederlandsche Bank in het kader van de behandeling van een aanvraag om vergunning dient te beoordelen of de aanvrager zal voldoen aan bij of krachtens de artikelen 3:9, eerste lid, onderdeel c, 3:11 of 3:12 gestelde regels, vraagt zij, alvorens op de aanvraag te beslissen, daarover advies aan de Autoriteit Financiële Markten.   
-2.  Indien de Autoriteit Financiële Markten in het kader van de behandeling van een aanvraag om vergunning dient te beoordelen of de aanvrager zal voldoen aan bij of krachtens de artikelen 3:9, eerste lid, onderdeel b, 3:16, 3:17, 3:18, 3:22 of 4:5, eerste of tweede lid, gestelde regels, vraagt zij, alvorens op de aanvraag te beslissen, daarover advies aan de Nederlandsche Bank.   
+1.  Indien de Nederlandsche Bank in het kader van de behandeling van een aanvraag om vergunning dient te beoordelen of de aanvrager zal voldoen aan bij of krachtens de artikelen 3:9, tweede lid, onderdeel c, 3:11 of 3:12 gestelde regels, vraagt zij, alvorens op de aanvraag te beslissen, daarover advies aan de Autoriteit Financiële Markten.   
+2.  Indien de Autoriteit Financiële Markten in het kader van de behandeling van een aanvraag om vergunning dient te beoordelen of de aanvrager zal voldoen aan bij of krachtens de artikelen 3:9, tweede lid, onderdeel b, 3:16, 3:17, 3:18, 3:22 of 4:5, eerste of tweede lid, gestelde regels, vraagt zij, alvorens op de aanvraag te beslissen, daarover advies aan de Nederlandsche Bank.   
 3.  De om advies gevraagde toezichtautoriteit brengt haar advies schriftelijk uit binnen vier weken na het verzoek. Het advies maakt deel uit van de beslissing op de aanvraag om vergunning.   
 4.  Indien de toezichtautoriteit die bevoegd is op de aanvraag te beslissen, overweegt van het in het derde lid bedoelde advies af te wijken, stelt zij de toezichtautoriteit die het advies heeft uitgebracht, in de gelegenheid om haar advies mondeling toe te lichten.   
 
@@ -3067,7 +3031,7 @@ De artikelen 1:20 tot en met 1:25 zijn van overeenkomstige toepassing op gegeven
 
 ####(aansprakelijkheidsbeperking toezichtautoriteiten)
 
-Artikel 1:13a is niet van toepassing op een handelen of nalaten van de Nederlandsche Bank, de Autoriteit Financiële Markten, de leden van hun organen of hun werknemers dat heeft plaatsgevonden voor de inwerkingtreding van [artikel II van de Wet aansprakelijkheidsbeperking DNB en AFM](../../../../../../wet/wet/aansprakelijkheidsbeperking/dnb/en/afm/en/bonusverbod/staatsgesteunde/etc/BWBR0031680/README.md).  
+Artikel 1:13a is niet van toepassing op een handelen of nalaten van de Nederlandsche Bank, de Autoriteit Financiële Markten, de leden van hun organen of hun werknemers dat heeft plaatsgevonden voor de inwerkingtreding van [artikel II van de Wet aansprakelijkheidsbeperking DNB en AFM en bonusverbod staatsgesteunde ondernemingen](../../../../../../wet/wet/aansprakelijkheidsbeperking/dnb/en/afm/en/bonusverbod/staatsgesteunde/etc/BWBR0031680/README.md).  
 
 ### §  2  
 

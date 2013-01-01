@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-Deze regeling berust op de [artikelen 2, derde lid, onderdeel b, en vierde lid](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [3, tweede lid](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [39](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [53, tweede lid](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [56](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [84 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de [artikelen 2, eerste lid, onderdeel i](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [5, tweede lid](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), en [63a van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [artikel 2, eerste lid, onderdeel e, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md), [artikel 1, onderdelen h en i, van het Besluit tegemoetkoming specifieke zorgkosten](../../../../../AMvB/besluit/tegemoetkoming/specifieke/zorgkosten/BWBR0027859/README.md), [artikel 19 van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md), [artikel 1, onderdeel t, van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [artikel 1, onderdeel g, van de Invoeringswet Wet financiering sociale verzekeringen](../../../../../wet/invoeringswet/wet/financiering/sociale/verzekeringen/BWBR0017747/README.md) en de [artikelen 1.3, onderdeel k](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), en [8.1 van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md).  
+Deze regeling berust op de [artikelen 2, derde lid, onderdeel b, en vierde lid](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [3, tweede lid](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [39](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [56](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [84 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de [artikelen 2, eerste lid, onderdeel i](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [5, tweede lid](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), en [63a van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [artikel 2, eerste lid, onderdeel e, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md), [artikel 1, onderdelen h en i, van het Besluit tegemoetkoming specifieke zorgkosten](../../../../../AMvB/besluit/tegemoetkoming/specifieke/zorgkosten/BWBR0027859/README.md), [artikel 19 van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md), [artikel 1, onderdeel t, van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [artikel 1, onderdeel g, van de Invoeringswet Wet financiering sociale verzekeringen](../../../../../wet/invoeringswet/wet/financiering/sociale/verzekeringen/BWBR0017747/README.md) en de [artikelen 1.3, onderdeel k](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), en [8.1 van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md).  
 
 ### Hoofdstuk  1  
 
@@ -65,7 +65,7 @@ a. de rechten bij invoer en de rechten bij uitvoer;
 
 b. de accijnzen;  
 
-c. de omzetbelasting, indien [artikel 28 van de Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) toepassing vindt, de omzetbelasting bij invoer, tenzij [artikel 23 van de Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) toepassing vindt, alsmede de algemene bestedingsbelasting bij invoer;  
+c. de omzetbelasting, indien [artikel 28 van de Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) toepassing vindt, de omzetbelasting bij invoer, tenzij [artikel 23 van de Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) toepassing vindt, alsmede de algemene bestedingsbelasting;  
 
 d. de verbruiksbelastingen van alcoholvrije dranken en van pruimtabak en snuiftabak;  
 
@@ -184,7 +184,7 @@ Met betrekking tot de heffing en invordering van rijksbelastingen, andere dan be
 
 ### Artikel  13a  
 
-Voor een verzoek om te worden aangemerkt als een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en voor het niet meer aanmerken als een zodanige instelling ressorteert de instelling onder de directeur van de Belastingdienst/Oost Brabant.  
+Voor een verzoek om te worden aangemerkt als een algemeen nut beogende instelling of als een culturele instelling en voor het niet meer aanmerken als een zodanige instelling ressorteert de instelling onder de directeur van de Belastingdienst/Oost Brabant.  
 
 ### Artikel  14  
 
@@ -212,13 +212,13 @@ Met betrekking tot de heffing en invordering van de motorrijtuigenbelasting en d
 
 ### Artikel  18  
 
-Met betrekking tot de uitvoering van [artikel 53, tweede en derde lid, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [artikel 8, derde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md), ressorteert de administratieplichtige onder de directeur van de B/CA.  
+Met betrekking tot de uitvoering van [artikel 53, tweede en derde lid, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [artikel 8, vierde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md), ressorteert de administratieplichtige onder de directeur van de B/CA.  
 
 ### Artikel  19  
 
 1.  De onder de NAVO vallende organisaties, met uitzondering van het NATO C3 Agency te Den Haag, alsmede de in Nederland gestationeerde buitenlandse NAVO-militairen, ressorteren onder: 
 
-a. de directeur van de Belastingdienst/Haaglanden met betrekking tot de directe belastingen en de omzetbelasting op diensten; en  
+a. de directeur van de Belastingdienst/Haaglanden met betrekking tot de directe belastingen, de inkomstenbelasting en de omzetbelasting op diensten; en  
 
 b. onder de algemeen directeur van de in artikel 3, eerste lid, onderdeel b1, b2 en e, genoemde organisatieonderdelen, met betrekking tot alle andere rijksbelastingen.     
 2.  Onder de in het eerste lid genoemde directeur en algemeen directeur ressorteren de personeelsleden van de daar genoemde organisaties en hun partners als bedoeld in [artikel 1.2 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), kinderen en andere inwonende gezinsleden van deze personeelsleden, indien zij niet in Nederland een bedrijf of zelfstandig een beroep uitoefenen, alsmede gewezen personeelsleden van deze organisaties, of hun nagelaten betrekkingen die van de desbetreffende organisatie een pensioen ontvangen en gewezen personeelsleden van deze organisaties die van de desbetreffende organisatie geen pensioen ontvangen, indien en zolang een tijdens de actieve periode ontstaan verlies als bedoeld in [artikel 3.150 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) niet is verrekend.   
@@ -261,7 +261,7 @@ f. European Union:
 
 4°. European Union’s Judicial Cooperation Unit (Eurojust);  
 
-5°. Institute for Energy (IE);    
+5°. Institute for Energy and Transport;    
 
 g. Office of the High Commissioner on National Minorities of the Organisation for Security and Cooperation in Europe (HCNM/OSCE);  
 
@@ -379,7 +379,6 @@ A.
 | Amersfoort  | Utrecht-Gooi  | Nijmegen  |
 | Amstelveen  | Holland Midden  | Amsterdam  |
 | Amsterdam  | Amsterdam  | Amsterdam  |
-| Anna Paulowna  | Holland Noord  | Amsterdam  |
 | Apeldoorn  | Randmeren  | Nijmegen  |
 | Appingedam  | Noord  | Groningen  |
 | Arnhem  | Rivierenland  | Nijmegen  |
@@ -530,6 +529,7 @@ A.
 | Hilvarenbeek  | Oost-Brabant  | Roosendaal  |
 | Hilversum  | Utrecht-Gooi  | Nijmegen  |
 | Hof van Twente  | Oost  | Nijmegen  |
+| Hollands Kroon  | Holland Noord  | Amsterdam  |
 | Hoogeveen  | Noord  | Groningen  |
 | Hoogezand-Sappemeer  | Noord  | Groningen  |
 | Hoorn  | Holland Noord  | Amsterdam  |
@@ -603,7 +603,6 @@ A.
 | Nederlek  | Haaglanden  | Rotterdam Rijnmond/Haven  |
 | Nederweert  | Limburg  | Eindhoven  |
 | Neerijnen  | Rivierenland  | Nijmegen  |
-| Niedorp  | Holland Noord  | Amsterdam  |
 | Nieuw-Lekkerland  | Rijnmond  | Roosendaal  |
 | Nieuwegein  | Utrecht-Gooi  | Nijmegen  |
 | Nieuwkoop  | Holland Midden West  | Nijmegen  |
@@ -754,8 +753,6 @@ A.
 | Weststellingwerf  | Noord  | Groningen  |
 | Westvoorne  | Rijnmond  | Rotterdam Rijnmond/Haven  |
 | Wierden  | Oost  | Nijmegen  |
-| Wieringen  | Holland Noord  | Amsterdam  |
-| Wieringermeer  | Holland Noord  | Amsterdam  |
 | Wijchen  | Rivierenland  | Nijmegen  |
 | Wijdemeren  | Utrecht-Gooi  | Nijmegen  |
 | Wijk bij Duurstede  | Utrecht-Gooi  | Nijmegen  |

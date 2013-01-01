@@ -38,13 +38,13 @@ j. modelovereenkomst: model van een zorgverzekering, waarin een overzicht wordt 
 
 k. sociaal-fiscaalnummer: het nummer, bedoeld in [artikel 2, derde lid, onderdeel k, van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);  
 
-l. inhoudingsplichtige: de inhoudingsplichtige in de zin van de [Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) dan wel in de zin van de [Wet financiering sociale verzekeringen](../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
+l. inhoudingsplichtige: de inhoudingsplichtige in de zin van de [Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) dan wel de werkgever in de zin van de [Wet financiering sociale verzekeringen](../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
 
 m. instelling: 
 
 1°. een instelling in de zin van de [Wet toelating zorginstellingen](../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md);  
 
-2°. een in het buitenland gevestigde rechtspersoon die in het desbetreffende land zorg verleent in het kader van het in dat land bestaande socialezekerheidsstelsel, dan wel zich richt op het verlenen van zorg aan specifieke groepen van publieke functionarissen;    
+2°. een organisatorisch verband dat gevestigd is buiten het grondgebied van het Europese deel van Nederland en overeenkomstig de daar geldende wetgeving rechtmatig gezondheidszorg verstrekt als bedoeld bij en krachtens artikel 11;    
 
 n. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;  
 
@@ -60,15 +60,15 @@ s. generieke verevening: bijstelling van het deelbedrag op basis van het verschi
 
 t. loontijdvak: het loontijdvak, bedoeld in [artikel 25, eerste en vierde lid, van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
 
-u. bijdragebetalingstijdvak: het kalenderjaar;  
+u. inspecteur: de functionaris van de rijksbelastingdienst die als zodanig bij regeling van Onze Minister van Financiën is aangewezen;  
 
 v. burgerservicenummer: het nummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md);  
 
-w. het CAK: de besloten vennootschap CAK, gevestigd te ’s-Gravenhage;  
+w. het CAK: het CAK, genoemd in [artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
-x. *premie:* de premie, bedoeld in afdeling 3.3.1;  
+x. premie: de premie, bedoeld in afdeling 3.3.1;  
 
-y. *bestuursrechtelijke premie:* de premie, bedoeld in de artikelen 18d en 18e.    
+y. bestuursrechtelijke premie: de premie, bedoeld in de artikelen 18d en 18e.    
 
 ### Hoofdstuk  2  
 
@@ -217,7 +217,7 @@ e. of voor de verzekerde op die dag een vrijwillig eigen risico gold en zo ja, m
 1.  Indien een verzekeringsplichtige aan wie de bestuurlijke boete en de last, bedoeld in artikel 9c, is opgelegd, niet binnen drie maanden na verzending van de beschikking tot oplegging daarvan alsnog verzekerd is, sluit het College zorgverzekeringen namens hem een zorgverzekering waarin hij hem verzekert.   
 2.  Het College zorgverzekeringen kiest de zorgverzekeraar waarmee een zorgverzekering als bedoeld in het eerste lid wordt gesloten, met dien verstande dat het zorgt voor een spreiding van zorgverzekeringen als bedoeld in dat lid over alle zorgverzekeraars, naar evenredigheid van het aantal verzekerden bij iedere zorgverzekeraar.   
 3.  Indien een zorgverzekeraar verschillende varianten van de zorgverzekering aanbiedt, sluit het College zorgverzekeringen een zorgverzekering overeenkomstig de variant met de laagste premie, maar zonder collectiviteitskorting als bedoeld in artikel 18 en zonder vrijwillig eigen risico.   
-4.  Op de last, bedoeld in artikel 9c, derde lid, en op het uitvoeren van de last als bedoeld in het eerste lid is, [afdeling 5.3.1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van de [artikelen 5:25](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:27 tot en met 5:30 van die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
+4.  Op de last, bedoeld in artikel 9c, derde lid, en op het uitvoeren van de last als bedoeld in het eerste lid, is [afdeling 5.3.1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van de [artikelen 5:25](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:27 tot en met 5:30 van die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), van overeenkomstige toepassing.   
 5.  Degene die op grond van het eerste lid door het College zorgverzekeringen verzekerd is, kan de desbetreffende verzekering gedurende een periode van twee weken, te rekenen vanaf de datum waarop dat college hem daarvan mededeling heeft gedaan, vernietigen, indien hij jegens dat college alsmede jegens de zorgverzekeraar bij wie die zorgverzekering is gesloten, aantoont in de periode, bedoeld in dat lid, reeds krachtens een andere zorgverzekering verzekerd te zijn geraakt.   
 6.  In afwijking van [artikel 931 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is een zorgverzekeraar bevoegd een met hem gesloten verzekeringsovereenkomst wegens dwaling te vernietigen, indien achteraf blijkt dat degene die het College zorgverzekeringen bij hem verzekerde op dat moment niet verzekeringsplichtig was.   
 7.  Zonodig in afwijking van artikel 7, kan, tenzij het vierde lid van dat artikel van toepassing is, een verzekeringnemer een zorgverzekering als bedoeld in het eerste lid niet opzeggen gedurende de eerste twaalf maanden waarover deze loopt.   
@@ -271,6 +271,23 @@ b. de inhoud en omvang van de prestaties bestaande uit zorg als bedoeld in artik
 
 c. nadere regels kunnen worden gesteld over het deel van de kosten dat voor rekening van de verzekerde komt.     
 5.  Een zorgverzekeraar kan modelovereenkomsten aanbieden waarin, in geringe afwijking van het bepaalde bij of krachtens het eerste en derde lid, bepaalde om ethische of levensbeschouwelijke redenen controversiële prestaties buiten de dekking van de zorgverzekering blijven.   
+
+### Artikel  11a  
+
+1.  Een verzekerde heeft recht op een door het CAK te verstrekken, van de draagkracht afhankelijke tegemoetkoming voor een kalenderjaar in de kosten voor zorg zoals psychiaters of klinisch psychologen die plegen te bieden, die op grond van artikel 11, derde lid, in dat jaar voor zijn rekening zijn gekomen.   
+2.  De tegemoetkoming is gelijk aan het bedrag dat op grond van artikel 11, derde lid, voor zorg als bedoeld in het eerste lid, voor rekening van de verzekerde is gekomen.   
+3.  Het CAK neemt het burgerservicenummer van de personen, bedoeld in het eerste lid, en van hun partners, met het oog op de uitvoering van dit artikel in zijn administratie op.   
+4.  De zorgverzekeraars verstrekken aan het CAK de persoonsgegevens van de personen, bedoeld in het eerste lid, waaronder het burgerservicenummer, de geboortedatum, het rekeningnummer, de woonplaats en gegevens betreffende de gezondheid als bedoeld in de Wet bescherming persoonsgegevens, die noodzakelijk zijn ter uitvoering van dit artikel.   
+5.  Het CAK verstrekt voor de uitvoering van dit artikel aan de inspecteur, bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) het burgerservicenummer van de personen, bedoeld in het eerste lid, en van hun partner.   
+6.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot: 
+
+a. het tijdstip van vaststelling en verstrekking van de tegemoetkoming;  
+
+b. het inkomen waarboven geen recht bestaat op de tegemoetkoming, en  
+
+c. het in aanmerking te nemen inkomen en de in aanmerking te nemen partner, waarbij kan worden afgeweken van [hoofdstuk 1 van de Algemene wet inkomensafhankelijke regelingen](../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md).     
+7.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de verstrekking van persoonsgegevens, bedoeld in het vierde lid, en de verwerking van persoonsgegevens door het CAK.   
+8.  Onze Minister kan aan zorgverzekeraars voor het verstrekken van de persoonsgegevens, bedoeld in het vierde lid, een vergoeding verstrekken waarvan de hoogte bij ministeriële regeling wordt bepaald.   
 
 ### Artikel  12  
 
@@ -423,7 +440,7 @@ Gedurende de eerste twaalf maanden waarover een verzekering als bedoeld in artik
 1.  Het College zorgverzekeringen gebruikt het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de in de artikelen 18c, eerste lid, en 18e bedoelde personen, met het doel te waarborgen dat de in het kader van de uitvoering van deze afdeling en artikel 34a te verwerken persoonsgegevens op die personen betrekking hebben.   
 2.  Bij gegevensuitwisseling tussen het College zorgverzekeringen en de in de artikelen 18f, 88 en 89 bedoelde personen en instanties wordt, voor de uitvoering van deze afdeling en voor zover die personen en instanties tot gebruik van dat nummer bevoegd zijn, het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer gebruikt.   
 3.  Het College zorgverzekeringen is bevoegd schulden ter zake van de bestuursrechtelijke premie die hem nog niet zijn voldaan nadat artikel 18d of 18e niet meer op de verzekeringnemer van toepassing is, kwijt te schelden.   
-4.  Bij ministeriële regeling worden nadere regels gesteld over de wijze waarop het College zorgverzekeringen de bestuursrechtelijke premie int.   
+4.  Bij ministeriële regeling worden nadere regels gesteld over de wijze waarop het College zorgverzekeringen de bestuursrechtelijke premie int en wordt bepaald welk gedeelte van de geïnde bestuursrechtelijke premie door dat college in ’s Rijks kas wordt gestort.   
 
 ### Paragraaf  3.4  
 
@@ -431,7 +448,7 @@ Gedurende de eerste twaalf maanden waarover een verzekering als bedoeld in artik
 
 ### Artikel  19  
 
-1.  Iedere verzekerde van achttien jaar of ouder heeft een verplicht eigen risico van € 220 per kalenderjaar.   
+1.  Iedere verzekerde van achttien jaar of ouder heeft een verplicht eigen risico van € 350 per kalenderjaar.   
 2.  Het bedrag, genoemd in het eerste lid, wordt jaarlijks geïndexeerd overeenkomstig het verschil in geraamde uitgaven voor de zorg en overige diensten, bedoeld in artikel 11, tussen het kalenderjaar waarop het verplicht eigen risico betrekking zal hebben en vergelijkbare uitgaven voor het jaar voorafgaand aan dat kalenderjaar.   
 3.  Indien het geïndexeerde bedrag naar beneden afgerond € 5 of een veelvoud daarvan verschilt van het in het eerste lid genoemde bedrag, wordt dit bedrag bij ministeriële regeling gewijzigd, waarna het in die regeling genoemde bedrag in de plaats treedt van het in het eerste lid genoemde bedrag.   
 4.  Rekeningen voor kosten van zorg of overige diensten worden slechts op het verplicht eigen risico in mindering gebracht, indien deze door de zorgverzekeraar zijn ontvangen voor een bij algemene maatregel van bestuur te bepalen dag van het kalenderjaar volgend op het kalenderjaar waarop het verplicht eigen risico betrekking heeft.   
@@ -671,13 +688,13 @@ e. aan het College zorgverzekeringen betaalde bedragen ter gehele of gedeeltelij
 
 f. de bestuurlijke boeten, bedoeld in de artikelen 9b en 9c, alsmede de bijdragen en bestuurlijke boeten, bedoeld in artikel 69;  
 
-g. de bestuursrechtelijke premies, bedoeld in de artikelen 18d en 18e;  
+g. met uitzondering van het gedeelte, bedoeld in artikel 18g, vierde lid, de bestuursrechtelijke premies, bedoeld in de artikelen 18d en 18e;  
 
 h. de inkomsten die in verband met deze wet voortvloeien uit internationale overeenkomsten;  
 
 i. de door de zorgautoriteit van verzekeraars op grond van [artikel 83 van de Wet marktordening gezondheidszorg](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) geïnde dwangsommen en de ingevorderde bestuurlijke boeten, bedoeld in de [artikelen 86 tot en met 89 van die wet](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
 
-j.  dit onderdeel is nog niet in werking getreden;   
+j. de bijdrage, bedoeld in [artikel 87a van de Wet financiering sociale verzekeringen](../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
 
 k. door zorgaanbieders ingevolge een regel van de zorgautoriteit op grond van [artikel 37, eerste lid, aanhef en onder d, van de Wet marktordening gezondheidszorg](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) dan wel op aanwijzing van de zorgautoriteit op grond van [artikel 76, tweede lid, van die wet](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) afgedragen bedragen en door de zorgautoriteit van zorgaanbieders op grond van [artikel 81, eerste lid, onder c, van die wet](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) ingevorderde bedragen, voor zover die bedragen niet worden afgedragen aan het Algemeen Fonds Bijzondere Ziektekosten of aan derden.     
 3.  Ten laste van het Zorgverzekeringsfonds komen: 
@@ -692,7 +709,7 @@ d. uitgaven in verband met molest als bedoeld in artikel 55, inclusief vergoedin
 
 e. de uitgaven die in verband met deze wet voortvloeien uit internationale overeenkomsten;  
 
-f. uitkeringen als bedoeld in artikel 118a en de met de uitvoering van dat artikel gepaard gaande beheerskosten van het CAK;  
+f. tegemoetkomingen als bedoeld in artikel 11a en uitkeringen als bedoeld in artikel 118a;  
 
 g. bedragen als bedoeld in [artikel 56a van de Wet marktordening gezondheidszorg](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
 
@@ -723,51 +740,59 @@ b. alle dagelijks geboekte mutaties of transacties in de rekening-courant.
 
 ### Artikel  41  
 
-De verzekeringsplichtige is een inkomensafhankelijke bijdrage verschuldigd.  
+De inhoudingsplichtige en de verzekeringsplichtige zijn een inkomensafhankelijke bijdrage verschuldigd.  
 
 ### Artikel  42  
 
-De inkomensafhankelijke bijdrage over een jaar wordt geheven over het bijdrage-inkomen van dat jaar.  
+1.  De inhoudingsplichtige is een inkomensafhankelijke bijdrage verschuldigd over het door hem verstrekte loon overeenkomstig de [Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) uit: 
+
+a. tegenwoordige dienstbetrekking als bedoeld in de [Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) van de verzekeringsplichtige of van degene, bedoeld in artikel 2, tweede lid, onderdeel b, van deze wet, met uitzondering van: 
+
+1°. de eindheffingsbestanddelen, bedoeld in [artikel 31, eerste lid, onderdelen b tot en met h, van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
+
+2°. het in [artikel 13bis van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) bedoelde voordeel, voor zover dit voordeel door middel van een aan de werknemer opgelegde naheffingsaanslag in aanmerking is genomen;  
+
+3°. het loon van degene, bedoeld in [artikel 4, onderdeel f, van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
+
+4°. het loon van de directeur-grootaandeelhouder, bedoeld in [artikel 6, eerste lid, onderdeel d, van de Ziektewet](../../../wet/ziektewet/BWBR0001888/README.md);    
+
+b. vroegere arbeid als bedoeld in de [Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) van de verzekeringsplichtige of van degene, bedoeld in artikel 2, tweede lid, onderdeel b, tot een bij ministeriële regeling te bepalen tijdstip, met uitzondering van bij ministeriële regeling aan te wijzen bestanddelen van het loon.     
+2.  Het loon waarover de inkomensafhankelijke bijdrage ingevolge het eerste lid wordt geheven, wordt ten minste gesteld op nihil en wordt bij dezelfde inhoudingsplichtige tot geen hoger bedrag in aanmerking genomen dan het door Onze Minister, in overeenstemming met Onze Ministers van Sociale Zaken en Werkgelegenheid en van Financiën, met betrekking tot een kalenderjaar vastgestelde bedrag.   
+3.  Het bedrag, bedoeld in het tweede lid, wordt vastgesteld voor loontijdvakken waarin loon als bedoeld in het eerste lid wordt genoten waarvoor Onze Minister, in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid, dit nodig acht.   
+4.  Voor de herleiding naar een ander loontijdvak van het bedrag, bedoeld in het derde lid, is [artikel 25, eerste en vierde lid, van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) van overeenkomstige toepassing.   
+5.  De inkomensafhankelijke bijdrage wordt per loontijdvak berekend over het verschil tussen het loon dat de werknemer in het kalenderjaar heeft genoten tot en met dat loontijdvak en het loon dat de werknemer in dat kalenderjaar heeft genoten tot en met het aan dat loontijdvak voorafgaande loontijdvak, met dien verstande dat van het bij eenzelfde inhoudingsplichtige genoten loon buiten aanmerking blijft het gedeelte dat meer bedraagt dan het met toepassing van het derde of vierde lid vastgestelde bedrag per loontijdvak, vermenigvuldigd met het aantal loontijdvakken van het kalenderjaar.   
+6.  Het tweede, derde en vierde lid zijn niet van toepassing in de gevallen, bedoeld in [artikel 26b, eerste volzin, van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
+7.  De inhoudingsplichtige mag de door hem verschuldigde inkomensafhankelijke bijdrage niet verhalen op de verzekeringsplichtige of op degene, bedoeld in artikel 2, tweede lid, onderdeel b. Elk beding waarbij van de eerste volzin wordt afgeweken, is nietig.   
+8.  De rijksbelastingdienst stort de inkomensafhankelijke bijdrage die is geheven over het loon van degene, bedoeld in artikel 2, tweede lid, onderdeel b, van deze wet op de rekening, bedoeld in artikel 70, eerste dan wel tweede lid.   
 
 ### Artikel  43  
 
-1.  Het bijdrage-inkomen van een jaar is het gezamenlijke bedrag van hetgeen door de verzekeringsplichtige in dat jaar is genoten aan: 
+1.  De verzekeringsplichtige is een inkomensafhankelijke bijdrage verschuldigd over het in een kalenderjaar genoten bijdrage-inkomen.   
+2.  Het bijdrage-inkomen is het gezamenlijke bedrag van hetgeen door de verzekeringsplichtige is genoten aan: 
 
-a. belastbaar loon overeenkomstig de wettelijke bepalingen van de loonbelasting, verminderd met de ingevolge artikel 46 genoten vergoeding en met uitzondering van loon als bedoeld in [artikel 31, eerste lid, onderdelen b tot en met h, van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) waarover de belasting op grond van [artikel 27a, eerste lid, van die wet](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) is verschuldigd door de inhoudingsplichtige en het hierdoor voor de werknemer in de zin van [die wet](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) ontstane voordeel, en vermeerderd met loon, bepaald volgens de regels van [artikel 3.82 van de Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+a. loon overeenkomstig de [Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), verminderd met: 
+
+1°. het loon waarop artikel 42 van toepassing is;  
+
+2°. de eindheffingsbestanddelen, bedoeld in [artikel 31, eerste lid, onderdelen b tot en met h, van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);   en vermeerderd met loon, bepaald volgens de regels van [artikel 3.82 van de Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
 
 b. belastbare winst uit onderneming, bepaald volgens de regels van [afdeling 3.2 van de Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
 
-c. belastbaar resultaat uit overige werkzaamheden, bepaald volgens de regels van [afdeling 3.4 van de Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), met uitzondering van de in de [artikelen 3.91](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [3.92 van de Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bedoelde werkzaamheden;  
+c. belastbaar resultaat uit overige werkzaamheden, bepaald volgens de regels van [afdeling 3.4 van de Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), met uitzondering van de in [artikel 3.91, eerste lid, onderdelen a en b](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en [artikel 3.92 van de Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bedoelde werkzaamheden;  
 
 d. belastbare periodieke uitkeringen en verstrekkingen, bepaald volgens de regels van [afdeling 3.5 van de Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).     
-2.  Het bijdrage-inkomen wordt ten minste op nihil gesteld en wordt tot geen hoger bedrag in aanmerking genomen dan het bij regeling van Onze Minister, in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid en Onze Minister van Financiën, vastgestelde bedrag.   
-3.  Bij de berekening van het bijdrage-inkomen blijft het van dezelfde inhoudingsplichtige ontvangen loon als bedoeld in het eerste lid, onderdeel a, buiten aanmerking voor zover dat meer bedraagt dan een bij regeling van Onze Minister in overeenstemming met Onze Minister van Financiën en Onze Minister van Sociale Zaken en Werkgelegenheid, vastgesteld bedrag in een bijdragebetalingstijdvak.   
-4.  Het bedrag, bedoeld in het derde lid, wordt vastgesteld voor loontijdvakken waarin loon als bedoeld in het eerste lid, onderdeel a, wordt genoten waarvoor Onze Minister, in overeenstemming met de Minister van Sociale Zaken en Werkgelegenheid, dit nodig acht.   
-5.  Voor de herleiding van het loontijdvak, bedoeld in het vierde lid, van een jaar naar een ander loontijdvak is [artikel 25, eerste en vierde lid, van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) van overeenkomstige toepassing.   
-6.  In de gevallen, bedoeld in [artikel 26b, eerste volzin, van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [artikel 19 Wet financiering sociale verzekeringen](../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), blijven het tweede en het derde lid buiten toepassing bij de berekening van het als bijdrage-inkomen in aanmerking te nemen loon dat van de inhoudingsplichtige is genoten.   
-
-### Artikel  44  
-
-1.  Het bedrag, bedoeld in artikel 43, tweede lid, wordt jaarlijks bij beschikking van Onze Minister, in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid en Onze Minister van Financiën, herzien, waarbij met inachtneming van het bij en krachtens het tweede lid bepaalde, het laatstelijk vastgestelde bedrag wordt verhoogd of verlaagd overeenkomstig het procentuele verschil tussen het indexcijfer der lonen op 31 juli daaraan voorafgaande en het indexcijfer, dat bij de laatste herziening is gehanteerd.   
-2.  Onder indexcijfer der lonen wordt verstaan het indexcijfer van de CAO-lonen per maand inclusief bijzondere uitkeringen, sector particuliere bedrijven, zoals dat op basis van het jaar 2000 wordt berekend door het Centraal Bureau voor de Statistiek naar de stand op de laatste werkdag van elke kalendermaand en voor de eerste maal, al dan niet voorlopig, wordt gepubliceerd in het Statistisch Bulletin van het Centraal Bureau voor de Statistiek.   
-3.  Het in het tweede lid genoemde jaartal kan bij regeling van Onze Minister worden gewijzigd.   
-4.  Bij de eerstvolgende herziening nadat een in het derde lid bedoelde regeling is getroffen, wordt, in afwijking van het eerste lid, het procentuele verschil gehanteerd tussen het indexcijfer der lonen op 31 juli daaraan voorafgaande en het indexcijfer dat bij de laatste herziening zou zijn gehanteerd, ware de indexcijferreeks reeds op het gewijzigde jaartal gebaseerd.   
-5.  Indien daartoe een bijzondere aanleiding bestaat, kan bij algemene maatregel van bestuur van de in het eerste en tweede lid aangegeven aanpassingsmethode worden afgeweken.   
-6.  Indien een wijziging ingaat op een ander tijdstip dan 1 januari, vindt de vaststelling plaats in overeenstemming met Onze Minister van Financiën en kunnen daarbij regels worden gesteld omtrent de wijze van berekening van de bijdrage over het gehele kalenderjaar.   
+3.  Het bijdrage-inkomen wordt ten minste op nihil gesteld en wordt tot geen hoger bedrag in aanmerking genomen dan het bij regeling van Onze Minister, in overeenstemming met Onze Ministers van Sociale Zaken en Werkgelegenheid en van Financiën, met betrekking tot een kalenderjaar vastgestelde bedrag.   
+4.  Ingeval de inkomensafhankelijke bijdrage ingevolge artikel 49, tweede lid, bij wijze van inhouding wordt geheven, is artikel 42, tweede tot en met zesde lid, van overeenkomstige toepassing.   
+5.  Ingeval de inkomensafhankelijke bijdrage ingevolge artikel 49, derde lid, bij wege van aanslag wordt geheven, wordt daarbij als bijdrage-inkomen ten hoogste in aanmerking genomen een bedrag gelijk aan het in het derde lid bedoelde bedrag, verminderd met het loon, bedoeld in artikel 42, van de verzekeringsplichtige en met het door de verzekeringsplichtige van een inhoudingsplichtige genoten loon, bedoeld in het tweede lid, onderdeel a.   
 
 ### Artikel  45  
 
-1.  De inkomensafhankelijke bijdrage bedraagt een percentage van het bijdrage-inkomen.   
-2.  Het in het eerste lid bedoelde bijdragepercentage wordt bij regeling van Onze Minister, in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid en Onze Minister van Financiën, vastgesteld.   
-3.  Voor daarbij aan te geven bestanddelen van het bijdrage-inkomen kan een afwijkend bijdragepercentage worden vastgesteld.   
+1.  De door de inhoudingsplichtige verschuldigde inkomensafhankelijke bijdrage bedraagt een percentage van het loon, bedoeld in artikel 42, eerste lid.   
+2.  De door de verzekeringsplichtige verschuldigde inkomensafhankelijke bijdrage bedraagt een percentage van het bijdrage-inkomen.   
+3.  De in het eerste en tweede lid bedoelde bijdragepercentages worden vastgesteld bij regeling van Onze Minister, in overeenstemming met Onze Ministers van Sociale Zaken en Werkgelegenheid en van Financiën, waarbij voor daarbij aan te geven bestanddelen van het loon of het bijdrage-inkomen een afwijkend percentage kan worden vastgesteld.   
 4.  De bijdragepercentages worden zodanig vastgesteld, dat de som van de inkomensafhankelijke bijdragen gelijk is aan 50% van de som van bij ministeriële regeling te bepalen, ten gunste van het Zorgverzekeringsfonds of van de zorgverzekeraars komende inkomsten.   
 5.  Na afloop van het kalenderjaar vastgestelde verschillen tussen de bedragen van de inkomsten die in de ministeriële regeling, bedoeld in het vierde lid, in aanmerking waren genomen en de werkelijke bedragen van die inkomsten, worden verrekend bij de vaststelling van het bijdragepercentage in een volgend jaar.   
 6.  Indien een wijziging van het bijdragepercentage ingaat op een ander tijdstip dan 1 januari, vindt de vaststelling plaats in overeenstemming met Onze Minister van Financiën en kunnen daarbij regels worden gesteld omtrent de wijze van berekening van de bijdrage over het gehele kalenderjaar.   
-
-### Artikel  46  
-
-1.  Een verzekeringsplichtige die bij regeling van Onze Minister aan te wijzen loon overeenkomstig de wettelijke bepalingen van de loonbelasting geniet, heeft recht op een volledige vergoeding door de inhoudingsplichtige van de inkomensafhankelijke bijdrage over dit deel van het bijdrage-inkomen.   
-2.  Voor de toepassing van het eerste lid is artikel 43, tweede lid, van overeenkomstige toepassing.   
 
 ### Artikel  47  
 
@@ -783,22 +808,23 @@ De rijksbelastingdienst heft de inkomensafhankelijke bijdrage.
 
 ### Artikel  49  
 
-1.  Voor zover het bijdrage-inkomen bestaat uit loon als bedoeld in artikel 43, eerste lid, onderdeel a, dat van een inhoudingsplichtige wordt genoten, wordt de inkomensafhankelijke bijdrage bij wijze van inhouding geheven met overeenkomstige toepassing van de voor de heffing van de loonbelasting geldende regels.   
-2.  Voor zover het bijdrage-inkomen bestaat uit andere dan de in het eerste lid bedoelde bestanddelen, wordt de inkomensafhankelijke bijdrage bij wege van aanslag geheven met overeenkomstige toepassing van de voor de heffing van de inkomstenbelasting geldende regels, met uitzondering van [artikel 3.154 van de Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
-3.  Bij de vaststelling van de ingevolge het tweede lid op te leggen aanslag over een jaar wordt als bijdrage-inkomen ten hoogste in aanmerking genomen een bedrag gelijk aan het bijdrage-inkomen dat op grond van artikel 43, tweede lid, ten hoogste in aanmerking wordt genomen, verminderd met het bijdrage-inkomen dat ingevolge het eerste lid ten aanzien van de verzekeringsplichtige over het jaar reeds in aanmerking is genomen.   
+1.  De door de inhoudingsplichtige verschuldigde inkomensafhankelijke bijdrage wordt geheven met overeenkomstige toepassing van de voor de heffing van loonbelasting geldende regels.   
+2.  Voor zover het bijdrage-inkomen bestaat uit loon als bedoeld in artikel 43, tweede lid, onderdeel a, dat van een inhoudingsplichtige wordt genoten, wordt de inkomensafhankelijke bijdrage bij wijze van inhouding geheven met overeenkomstige toepassing van de voor de heffing van loonbelasting geldende regels.   
+3.  Voor zover het bijdrage-inkomen bestaat uit andere dan de in het tweede lid bedoelde bestanddelen, wordt de inkomensafhankelijke bijdrage bij wege van aanslag geheven met overeenkomstige toepassing van de voor de heffing van de inkomstenbelasting geldende regels, met uitzondering van [artikel 3 154 van de Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
+4.  [Artikel 13bis, zestiende en twintigste lid, van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) is van overeenkomstige toepassing.   
 
 ### Artikel  50  
 
-1.  Indien over het bijdrage-inkomen inkomensafhankelijke bijdrage is ingehouden over een hoger bijdrage-inkomen dan het bedrag, bedoeld in artikel 43, tweede lid, stelt de inspecteur, bedoeld in de [Wet financiering sociale verzekeringen](../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), bij voor bezwaar vatbare beschikking het bedrag van de teveel betaalde bijdrage vast.   
-2.  Indien het bijdrage-inkomen waarover inkomensafhankelijke bijdrage is ingehouden van verschillende inhoudingsplichtigen is ontvangen, wordt het bedrag van de teveel ingehouden bijdrage als bedoeld in het eerste lid naar evenredigheid toegerekend aan de door deze inhoudingsplichtigen ingehouden bijdrage.   
-3.  In afwijking in zoverre van de vorige leden wordt het bedrag van teveel ingehouden bijdrage voor zover mogelijk toegerekend aan de inkomensafhankelijke bijdrage over het bijdrage-inkomen waarop artikel 46, eerste lid, niet van toepassing is.   
-4.  Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Financiën, kunnen nadere en zo nodig afwijkende regels worden gesteld.   
-5.  In afwijking van de [artikelen 25b](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [27f](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [27j, derde lid](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [29i van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) verleent de inspecteur een teruggave van een ingehouden bedrag aan inkomensafhankelijke bijdrage over loon als bedoeld in artikel 46, eerste lid, aan de inhoudingsplichtige.   
+1.  De inspecteur verleent bij voor bezwaar vatbare beschikking aan de verzekeringsplichtige een teruggaaf van de op het loon ingehouden inkomensafhankelijke bijdrage voor zover het loon van de verzekeringsplichtige waarover inkomensafhankelijke bijdrage is geheven hoger is dan het in artikel 43, derde lid, bedoelde bedrag.   
+2.  Een teruggaaf wordt niet verleend indien het met toepassing van het eerste lid berekende bedrag niet meer bedraagt dan het in [artikel 9.4, vijfde lid, van de Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) genoemde bedrag.   
+3.  Bij ministeriële regeling worden regels gesteld ter zake van het verlenen van een voorschot op het bij de beschikking, bedoeld in het eerste lid, vast te stellen bedrag.   
+4.  Ingeval een teruggaaf of een voorschot ten onrechte of tot een te hoog bedrag is verleend, kan de inspecteur het te veel betaalde bedrag bij voor bezwaar vatbare beschikking terugvorderen. De bevoegdheid tot terugvordering vervalt door verloop van vijf jaren na afloop van het kalenderjaar waarop de teruggaaf of het voorschot, bedoeld in de eerste volzin, betrekking heeft. Bij de invordering van het ingevolge de eerste volzin terug te vorderen bedrag zijn de regels die gelden voor de invordering van inkomstenbelasting van overeenkomstige toepassing.   
+5.  In afwijking van de [artikelen 30h](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [30ha van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) wordt bij de voor bezwaar vatbare beschikking, bedoeld in het eerste lid, en de voor bezwaar vatbare beschikking, bedoeld in het vierde lid, uitsluitend belastingrente vergoed, onderscheidenlijk in rekening gebracht, indien de dagtekening van de beschikking ligt na het verstrijken van een periode van zes maanden na afloop van het kalenderjaar waarop de bijdrage betrekking heeft. De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt op de dag na het verstrijken van een periode van zes maanden na het einde van het kalenderjaar waarop de bijdrage betrekking heeft en eindigt 14 dagen na de dagtekening van de beschikking.   
 
 ### Artikel  51  
 
 1.  De rijksbelastingdienst vordert de inkomensafhankelijke bijdrage in.   
-2.  Bij de invordering van de bijdrage zijn, naar gelang artikel 49, eerste lid, dan wel tweede lid van toepassing is, de regels geldende voor de invordering van de loonbelasting, met uitzondering van [artikel 38, eerste lid, onderdeel a, van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md), onderscheidenlijk de inkomstenbelasting van overeenkomstige toepassing.   
+2.  Bij de invordering van de bijdrage zijn, naar gelang artikel 49, eerste of tweede, dan wel derde lid, van toepassing is, de regels geldende voor de invordering van loonbelasting, onderscheidenlijk de inkomstenbelasting van overeenkomstige toepassing.   
 
 ### Artikel  52  
 
@@ -840,9 +866,10 @@ Indien de situatie, bedoeld in artikel 31, eerste lid, zich heeft voorgedaan, ve
 
 ### Artikel  57  
 
-1.  Van de persoon die op grond van artikel 2, tweede lid, onderdeel b, niet verzekeringsplichtig is, wordt met overeenkomstige toepassing van [hoofdstuk 5 van de Wet financiering sociale verzekeringen](../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en [artikel 58 van die wet](../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) belasting geheven, tot het bedrag van de inkomensafhankelijke bijdrage, bedoeld in artikel 43, tweede lid, dat de persoon verschuldigd zou zijn als ware hij verzekeringsplichtig.   
-2.  Indien de in het eerste lid bedoelde belasting wordt geheven over op grond van artikel 46, eerste lid, aangewezen loon, is artikel 46 van overeenkomstige toepassing.   
-3.  De rijksbelastingdienst stort de belasting, bedoeld in het eerste lid, op de rekening, bedoeld in artikel 70, eerste dan wel tweede lid.   
+1.  Van de persoon die op grond van artikel 2, tweede lid, onderdeel b, niet verzekeringsplichtig is, wordt bijdragevervangende belasting geheven, tot het bedrag van de inkomensafhankelijke bijdrage, bedoeld in artikel 43, tweede lid, dat deze persoon verschuldigd zou zijn als hij verzekeringsplichtig zou zijn.   
+2.  In afwijking in zoverre van artikel 43 wordt van de persoon aan wie met toepassing van [artikel 64 van de Wet financiering sociale verzekeringen](../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) een ontheffing is verleend in het kader van één of meer volksverzekeringen anders dan die volgens de [Algemene Wet Bijzondere Ziektekosten](../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), geen inkomensafhankelijke bijdrage geheven maar een bijdragevervangende belasting, tot het bedrag van de inkomensafhankelijke bijdrage, bedoeld in artikel 43, tweede lid.   
+3.  De heffing van de bijdragevervangende belasting vindt plaats met overeenkomstige toepassing van artikel 49, tweede, derde en vierde lid.   
+4.  De rijksbelastingdienst stort de belasting, bedoeld in het eerste lid, op de rekening, bedoeld in artikel 70, eerste dan wel tweede lid.   
 
 ### Hoofdstuk  6  
 
@@ -918,20 +945,19 @@ b. van deze verzekeringen met de uitvoering van het beleid op andere terreinen v
 
 1.  In het buitenland wonende personen die met toepassing van een Verordening van de Raad van de Europese Gemeenschappen dan wel toepassing van zodanige verordening krachtens de overeenkomst betreffende de Europese Economische Ruimte of een verdrag inzake sociale zekerheid in geval van behoefte aan zorg recht hebben op zorg of vergoeding van de kosten daarvan, zoals voorzien in de wetgeving over de verzekering voor zorg van hun woonland, melden zich, tenzij zij op grond van deze wet verzekeringsplichtig zijn, bij het College zorgverzekeringen aan.   
 2.  De in het eerste lid bedoelde personen zijn een bij ministeriële regeling te bepalen bijdrage verschuldigd, die voor een bij die regeling te bepalen gedeelte, voor de toepassing van de [Wet op de zorgtoeslag](../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md) als premie voor een zorgverzekering wordt beschouwd.   
-3.  Indien de melding niet is geschied binnen vier maanden nadat het recht, bedoeld in het eerste lid, is ontstaan, legt het College zorgverzekeringen degene die de melding had moeten doen een bestuurlijke boete op ter hoogte van driemaal de tot een maandbedrag herleide standaardpremie, bedoeld in de [Wet op de zorgtoeslag](../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md).   
-4.  Het College zorgverzekeringen is belast met de administratie, voortvloeiend uit het eerste lid en de daar genoemde internationale regels, alsmede met het nemen van beschikkingen over de heffing en de inning van de bijdrage, bedoeld in het tweede lid.   
-5.  Indien tegen een door het College zorgverzekeringen op grond van dit artikel genomen beschikking bezwaar wordt gemaakt: 
-
-a. kan dat college, in afwijking van [artikel 7:3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), van het horen van een belanghebbende afzien, tenzij deze binnen een door het college gestelde, redelijke termijn verklaart dat hij gebruik wil maken van het recht te worden gehoord;  
-
-b. beslist dat college, in afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), binnen dertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.     
+3.  Voor zover een pensioen- of renteverstrekkend orgaan aan een in het eerste lid bedoelde persoon loon als bedoeld in artikel 42 verstrekt, is dat orgaan een bij ministeriële regeling te bepalen bijdrage verschuldigd.   
+4.  Het College zorgverzekeringen is belast met de administratie, voortvloeiend uit het eerste lid en de daar genoemde internationale regels, alsmede met het nemen van beschikkingen over de heffing en de inning van de bijdragen, bedoeld in het tweede en derde lid.   
+5.  Indien tegen een door het College zorgverzekeringen op grond van dit artikel genomen beschikking bezwaar wordt gemaakt, beslist dat college, in afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), binnen dertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.   
 6.  Het College zorgverzekeringen gebruikt voor de uitvoering van dit artikel het burgerservicenummer of, bij ontbreken daarvan, het sociaal-fiscaalnummer van de in het eerste lid bedoelde personen.   
 7.  Bij ministeriële regeling: 
 
-a. kan worden bepaald dat organen die pensioen of rente verschuldigd zijn in opdracht van het College zorgverzekeringen werkzaamheden verrichten ter voorbereiding of uitvoering van beschikkingen als bedoeld in het vierde lid, waarbij kan worden bepaald dat die organen de bijdragen, bedoeld in het tweede lid, op het pensioen of de rente inhouden en aan het Zorgverzekeringsfonds afdragen;  
+a. kan worden bepaald dat organen die pensioen of rente verschuldigd zijn of werkgevers in opdracht van het College zorgverzekeringen werkzaamheden verrichten ter voorbereiding of uitvoering van beschikkingen als bedoeld in het vierde lid, waarbij kan worden bepaald dat die organen of werkgevers de bijdragen, bedoeld in het tweede lid, inhouden op het pensioen, op de rente of op het loon van een grensarbeider wier gezinsleden onder dit artikel vallen;  
 
-b. kunnen regels worden gesteld over de wijze waarop het College zorgverzekeringen zijn taak, bedoeld in het vierde lid, uitoefent of de organen, bedoeld in onderdeel a, de in dat onderdeel bedoelde werkzaamheden uitvoeren.     
-8.  [Artikel 5:53, tweede en derde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geldt niet voor de oplegging van de boete, bedoeld in het derde lid.   
+b. kunnen regels worden gesteld over de wijze waarop het College zorgverzekeringen zijn taak, bedoeld in het vierde lid, uitoefent of de organen of werkgevers, bedoeld in onderdeel a, de in dat onderdeel bedoelde werkzaamheden uitvoeren.     
+8.  Artikel 18f, derde lid, is van overeenkomstige toepassing.   
+9.  Indien de melding, bedoeld in het eerste lid, niet is geschied binnen vier maanden nadat het recht, bedoeld in het eerste lid, is ontstaan, legt het College zorgverzekeringen degene die de melding had moeten doen een bestuurlijke boete op ter hoogte van driemaal de tot een maandbedrag herleide standaardpremie, bedoeld in de [Wet op de zorgtoeslag](../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md).   
+10.  Het College zorgverzekeringen kan de bijdrage, bedoeld in het tweede of derde lid, of een boete als bedoeld in het negende lid bij dwangbevel invorderen.   
+11.  [Artikel 5:53, tweede en derde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geldt niet voor de oplegging van de boete, bedoeld in het negende lid.   
 
 ### Artikel  70  
 
@@ -1058,7 +1084,7 @@ e. in welke gevallen gegevens, bedoeld in het eerste of tweede lid, verder worde
 
 ### Artikel  88  
 
-1.  Een ieder verstrekt op verzoek aan de zorgverzekeraars, het College zorgverzekeringen, de zorgautoriteit, Onze Minister, de rijksbelastingdienst, het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank, het college van burgemeester en wethouders, of aan een daartoe door of vanwege een van deze zorgverzekeraars of instanties aangewezen persoon kosteloos alle inlichtingen en gegevens, waaronder persoonsgegevens als bedoeld in de [Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), die noodzakelijk zijn voor de uitvoering van de zorgverzekeringen of van deze wet.   
+1.  Een ieder verstrekt op verzoek aan de zorgverzekeraars, het College zorgverzekeringen, de zorgautoriteit, Onze Minister, de rijksbelastingdienst, het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank, het college van burgemeester en wethouders, het CAK, of aan een daartoe door of vanwege een van deze zorgverzekeraars of instanties aangewezen persoon kosteloos alle inlichtingen en gegevens, waaronder persoonsgegevens als bedoeld in de [Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), die noodzakelijk zijn voor de uitvoering van de zorgverzekeringen of van deze wet.   
 2.  De in het eerste lid bedoelde gegevens en inlichtingen worden op verzoek verstrekt in schriftelijke vorm of in een andere vorm die redelijkerwijs kan worden verlangd, binnen een termijn die schriftelijk wordt gesteld bij het in het eerste lid bedoelde verzoek.   
 3.  Een ieder geeft op verzoek van een rechtspersoon als bedoeld in het eerste lid, inzage in alle bescheiden en andere gegevensdragers, stelt deze op verzoek ter beschikking voor het nemen van afschrift en verleent de terzake verlangde medewerking, voor zover dit noodzakelijk is voor de uitvoering van deze wet door de desbetreffende zorgverzekeraars of instanties.   
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste, tweede of derde lid.   
@@ -1067,9 +1093,11 @@ e. in welke gevallen gegevens, bedoeld in het eerste of tweede lid, verder worde
 
 1.  De in artikel 88, eerste lid, bedoelde zorgverzekeraars en instanties zijn bevoegd uit eigen beweging en verplicht op verzoek binnen een bij dat verzoek genoemde termijn, uit de onder hun verantwoordelijkheid gevoerde administratie, aan elkaar, aan een daartoe door of vanwege hen aangewezen persoon of aan een door Onze Minister aangewezen persoon, kosteloos, de gegevens, waaronder persoonsgegevens als bedoeld in de [Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), te verstrekken die noodzakelijk zijn voor de uitvoering van de zorgverzekeringen of van deze wet.   
 2.  Een zorgverzekeraar verleent op verzoek van het College zorgverzekeringen dan wel van de zorgautoriteit aan door het desbetreffende bestuursorgaan aangewezen personen inzage in alle bescheiden en andere gegevensdragers, stelt deze op verzoek ter beschikking voor het nemen van afschrift en verleent de terzake verlangde medewerking, voor zover het desbetreffende bestuursorgaan dit nodig acht voor de uitoefening van zijn taak.   
-3.  Alle ambtenaren tot afgifte van uittreksels uit registers van burgerlijke stand bevoegd, zijn verplicht aan een in artikel 88, eerste lid, bedoelde zorgverzekeraar of instantie de door deze gevraagde uittreksels uit de registers kosteloos toe te zenden.   
-4.  Griffiers van colleges, geheel of ten dele met rechtspraak belast, verstrekken op verzoek, kosteloos, aan een zorgverzekeraar, aan het College zorgverzekeringen of aan de zorgautoriteit alle gegevens, inlichtingen en uittreksels uit of afschriften van uitspraken, registers en andere stukken, die noodzakelijk zijn voor de uitvoering van deze wet door de zorgverzekeraar of het desbetreffende bestuursorgaan.   
-5.  Bij algemene maatregel van bestuur worden nadere regels gesteld over de verstrekking van gegevens door de rijksbelastingdienst aan de zorgverzekeraars.   
+3.  Onze Minister is bevoegd zorgverzekeraars en zorgaanbieders, ter handhaving van het bepaalde bij of krachtens het eerste lid, een aanwijzing te geven betreffende de verstrekking van gegevens die het CAK voor de vaststelling van het recht op en de verstrekking van de tegemoetkomingen, bedoeld in artikel 11a en van de uitkeringen, bedoeld in artikel 118a, eerste lid, nodig heeft.   
+4.  Indien een zorgverzekeraar of een zorgaanbieder niet binnen vier weken aan een aanwijzing als bedoeld in het derde lid voldoet, is Onze Minister bevoegd een last onder dwangsom op te leggen.   
+5.  Alle ambtenaren tot afgifte van uittreksels uit registers van burgerlijke stand bevoegd, zijn verplicht aan een in artikel 88, eerste lid, bedoelde zorgverzekeraar of instantie de door deze gevraagde uittreksels uit de registers kosteloos toe te zenden.   
+6.  Griffiers van colleges, geheel of ten dele met rechtspraak belast, verstrekken op verzoek, kosteloos, aan een zorgverzekeraar, aan het College zorgverzekeringen of aan de zorgautoriteit alle gegevens, inlichtingen en uittreksels uit of afschriften van uitspraken, registers en andere stukken, die noodzakelijk zijn voor de uitvoering van deze wet door de zorgverzekeraar of het desbetreffende bestuursorgaan.   
+7.  Bij algemene maatregel van bestuur worden nadere regels gesteld over de verstrekking van gegevens door de rijksbelastingdienst aan de zorgverzekeraars.   
 6.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste of tweede lid.   
 
 ### Artikel  90  
@@ -1123,21 +1151,6 @@ c. de bevoegdheden van de Algemene Rekenkamer ingevolge [artikel 91 van de Compt
 3.  De onafhankelijke instantie vraagt advies aan het College zorgverzekeringen indien het geschil betrekking heeft op de zorg of de overige diensten, bedoeld in artikel 11, dan wel de vergoeding van die zorg of diensten.   
 4.  Het College zorgverzekeringen zendt zijn advies binnen vier weken na ontvangst van de adviesaanvraag aan de onafhankelijke instantie.   
 
-### Artikel  116  
-
-1.  Tegen een op grond van deze wet genomen besluit van Onze Minister of van het College zorgverzekeringen kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
-2.  Het eerste lid geldt niet: 
-
-a. voor een beschikking als bedoeld in artikel 9b, 9c, 18d tot en met 18g, 69 of 70;  
-
-b. voor een beschikking, genomen jegens een persoon die behoort tot het personeel van het College zorgverzekeringen.     
-
-### Artikel  117  
-
-1.  Indien beroep is ingesteld tegen een bestuurlijke boete is, in afwijking van de [artikelen 8:27](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [8:28 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de partij aan wie de bestuurlijke boete is opgelegd, niet verplicht omtrent de overtreding verklaringen af te leggen.   
-2.  Voor de rechtbank deze partij ondervraagt, deelt zij haar mede dat zij niet verplicht is tot antwoorden.   
-3.  Indien de rechtbank een beschikking tot het opleggen van een bestuurlijke boete vernietigt, neemt zij een beslissing omtrent het opleggen van de bestuurlijke boete en bepaalt zij dat haar uitspraak in zoverre in de plaats treedt van de vernietigde beschikking.   
-
 ### Hoofdstuk  9  
 
 ####Overige bepalingen
@@ -1155,7 +1168,7 @@ b. voor een beschikking, genomen jegens een persoon die behoort tot het personee
 
 a. met meerjarige, onvermijdbare zorgkosten, of  
 
-b. die in een instelling als bedoeld in de [Algemene Wet Bijzondere Ziektekosten](../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) verblijven, hebben, indien zij behoren tot bij of krachtens algemene maatregel van bestuur aan te wijzen groepen, jegens het CAK voor het einde van het kalenderjaar recht op een jaarlijkse uitkering ter hoogte van het bedrag genoemd in artikel 19, eerste lid, verminderd met het geraamde gemiddelde bedrag dat een verzekerde die geen recht heeft op de in dit lid bedoelde uitkering naar verwachting in dat kalenderjaar ingevolge artikel 19 betaalt.     
+b. die in een instelling als bedoeld in de [Algemene Wet Bijzondere Ziektekosten](../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) verblijven, hebben, indien zij behoren tot bij of krachtens algemene maatregel van bestuur aan te wijzen groepen, jegens het CAK voor het einde van het kalenderjaar recht op een jaarlijkse uitkering ter hoogte van het bedrag genoemd in artikel 19, eerste lid, verminderd met het geraamde gemiddelde bedrag dat een verzekerde die geen recht heeft op de in dit lid bedoelde uitkering naar verwachting in dat kalenderjaar ingevolge artikel 19 betaalt, en met een bedrag van € 54.     
 2.  het CAK neemt het sociaal-fiscaalnummer van de personen, bedoeld in het eerste lid, met het oog op de uitvoering van dit artikel in zijn administratie op.   
 3.  Zorgverzekeraars verstrekken aan het CAK de persoonsgegevens van de personen bedoeld in het eerste lid, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de [Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), die noodzakelijk zijn ter uitvoering van het eerste lid.   
 4.  Bij ministeriële regeling kan worden bepaald: 
@@ -1169,7 +1182,6 @@ c. volgens welke technische standaarden gegevensverwerking plaatsvindt;
 d. aan welke beveiligingseisen gegevensverwerking voldoet;  
 
 e. in welke gevallen gegevens, bedoeld in het derde lid, verder worden verwerkt met het oog op de uitvoering van het uitkeren van het bedrag, bedoeld in het eerste lid.     
-5.  Bij algemene maatregel van bestuur wordt bepaald op welke wijze het College zorgverzekeringen de beheerskosten, bedoeld in artikel 39, derde lid, onderdeel f, vaststelt.   
 
 ### Artikel  119  
 
@@ -1217,7 +1229,6 @@ b. 80% van de kosten in de overige gevallen, voor zover deze kosten niet op gron
 11.  De jaarrekening, bedoeld in het tiende lid, wordt zoveel mogelijk ingericht met overeenkomstige toepassing van [titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en gaat vergezeld van een jaarverslag omtrent het door het College zorgverzekeringen gevoerde beleid bij het verstrekken van de in het eerste lid bedoelde bijdragen, de doeltreffendheid van dat beleid en de uitvoering van het werkprogramma ter zake in het afgelopen kalenderjaar.   
 12.  De artikelen 40, tweede tot en met elfde lid, 72, tweede tot en met vijfde lid, 74, derde, vierde en vijfde lid, en 75, vierde lid, zijn van overeenkomstige toepassing.   
 13.  De zorgaanbieder die in aanmerking wenst te komen voor een bijdrage als bedoeld in dit artikel, verstrekt het College zorgverzekeringen of door dat College aangewezen, bij de uitvoering van dit artikel betrokken personen, bij ministeriële regeling te bepalen gegevens die noodzakelijk zijn om het recht op en de omvang van een bijdrage te kunnen vaststellen, dan wel stelt hem deze gegevens voor dit doel voor inzage of het nemen van afschrift ter beschikking.   
-14.  In afwijking van artikel 116 kan een zorgaanbieder tegen een op grond van dit artikel genomen besluit van het College zorgverzekeringen beroep instellen bij het College van Beroep voor het bedrijfsleven.   
 
 ### Hoofdstuk  10  
 
@@ -1225,7 +1236,7 @@ b. 80% van de kosten in de overige gevallen, voor zover deze kosten niet op gron
 
 ### Artikel  124  
 
-De voordracht voor een krachtens de artikelen 11, derde of vierde lid, 19, vijfde en zesde lid, 21 en 32, tweede lid, vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
+De voordracht voor een krachtens de artikelen 11, derde of vierde lid, 19, vierde en vijfde lid, 21 en 32, tweede lid, vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
 
 ### Artikel  125  
 

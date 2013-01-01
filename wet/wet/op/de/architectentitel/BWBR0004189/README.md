@@ -338,12 +338,6 @@ d. na het overlijden van de ingeschrevene.
 
 Voor de toepassing van het bepaalde in artikel 16, eerste lid, geldt het tijdstip waarop een doorhaling ongedaan is gemaakt als tijdstip van inschrijving in het register.  
 
-### Artikel  21  
-
-1.  Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.   
-2.  [Artikel 8:4, onderdeel e, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
-3.  Voor zover een besluit inzake een erkenning als bedoeld in artikel 9, eerste lid, onderdeel j, 10, eerste lid, onderdeel f, 11, eerste lid, onderdeel f, of 12, eerste lid, onderdeel f, aangemerkt wordt als algemeen verbindend voorschrift, kan in afwijking van [artikel 8:2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) beroep ingesteld worden bij het College van Beroep voor het bedrijfsleven.   
-
 ### Hoofdstuk  V  
 
 ####Titelbescherming

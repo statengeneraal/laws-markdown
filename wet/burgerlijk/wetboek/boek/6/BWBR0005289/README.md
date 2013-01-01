@@ -546,7 +546,11 @@ a. redelijke kosten ter voorkoming of beperking van schade die als gevolg van de
 
 b. redelijke kosten ter vaststelling van schade en aansprakelijkheid;  
 
-c. redelijke kosten ter verkrijging van voldoening buiten rechte, wat de kosten onder *b* en *c* betreft, behoudens voor zover in het gegeven geval krachtens [artikel 241 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) de regels betreffende proceskosten van toepassing zijn.     
+c. redelijke kosten ter verkrijging van voldoening buiten rechte.     
+3.  Lid 2 onder b en c is niet van toepassing voor zover in het gegeven geval krachtens [artikel 241 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) de regels betreffende de proceskosten van toepassing zijn.   
+4.  Bij algemene maatregel van bestuur worden nadere regels gesteld voor de vergoeding van kosten als bedoeld in lid 2 onder c. Van deze regels kan niet ten nadele van de schuldenaar worden afgeweken indien de schuldenaar een natuurlijk persoon is, die niet handelt in de uitoefening van een beroep of bedrijf. In dit geval mist [artikel 241, eerste volzin, van het Wetboek van Burgerlijke Rechtsvordering toepassing](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md).   
+5.  De vergoeding volgens de nadere regels als bedoeld in lid 4, eerste volzin, kan indien de schuldenaar een natuurlijk persoon is, die niet handelt in de uitoefening van een beroep of bedrijf, eerst verschuldigd worden nadat de schuldenaar na het intreden van het verzuim, bedoeld in artikel 81 van Boek 6 van het Burgerlijk Wetboek, onder vermelding van de gevolgen van het uitblijven van betaling, waaronder de vergoeding die in overeenstemming met de nadere regels wordt gevorderd, vruchteloos is aangemaand tot betaling binnen een termijn van veertien dagen, aanvangende de dag na aanmaning.   
+6.  Indien een schuldenaar voor meer dan een vordering door een schuldeiser kan worden aangemaand als bedoeld in lid 5, dan dient dit in één aanmaning te geschieden. Voor de berekening van de vergoeding worden de hoofdsommen van deze vorderingen bij elkaar opgeteld.   
 
 ### Artikel  97  
 
@@ -688,6 +692,29 @@ indien de schuldenaar een termijn heeft bedongen waarbinnen hij de ontvangen pre
 4.  Geen wettelijke rente is verschuldigd wanneer de schuldeiser zelf in verzuim is.   
 5.  De wettelijke rente is verschuldigd behalve voor zover de vertraging niet aan de schuldenaar kan worden toegerekend.   
 6.  Voor de toepassing van dit artikel wordt met de wettelijke rente gelijkgesteld een andere overeengekomen rente.   
+
+### Artikel  119b  
+
+1.  De schadevergoeding, verschuldigd door een overheidsinstantie wegens vertraging in de voldoening van een geldsom, bestaat in geval van een handelsovereenkomst met een overheidsinstantie in de wettelijke rente van die som met ingang van de dag volgend op de dag die is overeengekomen als uiterste dag van betaling tot en met de dag waarop de schuldenaar de geldsom heeft voldaan. Onder overheidsinstantie wordt verstaan de Staat, een provincie, een gemeente, een waterschap of een publiekrechtelijke instelling dan wel een samenwerkingsverband van deze overheden of publiekrechtelijke instellingen als bedoeld in artikel 2 lid 2 van richtlijn nr. 2011/7 van het Europees Parlement en de Raad van 23 februari 2011 betreffende bestrijding van betalingsachterstand bij handelstransacties (PbEU L48/11).   
+2.  Indien geen uiterste dag van betaling is overeengekomen, is de wettelijke rente van rechtswege verschuldigd: 
+
+a. vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de schuldenaar de factuur heeft ontvangen, of  
+
+b. indien de datum van ontvangst van de factuur niet vaststaat, of indien de schuldenaar de factuur ontvangt voordat hij de prestatie heeft ontvangen, vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de prestatie is ontvangen, of  
+
+c. indien de schuldenaar een termijn heeft bedongen waarbinnen hij de ontvangen prestatie kan aanvaarden dan wel kan beoordelen of deze aan de overeenkomst beantwoordt, en indien hij de factuur ontvangt voordat hij de prestatie heeft aanvaard of beoordeeld, vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de schuldenaar de prestatie heeft aanvaard of beoordeeld, dan wel, indien hij zich niet over goedkeuring of aanvaarding uitspreekt, vanaf 30 dagen na de aanvang van de dag volgende op die waarop de termijn verstrijkt.     
+3.  Telkens na afloop van een jaar wordt het bedrag waarover de wettelijke rente wordt berekend, vermeerderd met de over dat jaar verschuldigde rente.   
+4.  De termijn bedoeld in lid 2 onder c bedraagt niet meer dan 30 dagen vanaf de datum van ontvangst van de prestatie, tenzij partijen uitdrukkelijk een langere termijn in de overeenkomst en aanbestedingsdocumenten opnemen en deze termijn niet kennelijk onbillijk is jegens de schuldeiser, mede gelet op: 
+
+a. de vraag of de schuldenaar objectieve redenen heeft om af te wijken van de 30 dagen termijn;  
+
+b. de aard van de prestatie; en  
+
+c. elke aanmerkelijke afwijking van goede handelspraktijken.     
+5.  Bij overeenkomst kan niet van een uiterste dag van betaling van ten hoogste 30 dagen, overeenkomstig het tweede lid, worden afgeweken, tenzij partijen uitdrukkelijk een langere termijn van betaling in de overeenkomst opnemen en de bijzondere aard of eigenschappen van de overeenkomst dit objectief rechtvaardigen. De betalingstermijn bedraagt in dat geval ten hoogste 60 dagen.   
+6.  Geen wettelijke rente is verschuldigd wanneer de schuldeiser zelf in verzuim is.   
+7.  De wettelijke rente is verschuldigd behalve voor zover de vertraging niet aan de schuldenaar kan worden toegerekend.   
+8.  Voor de toepassing van dit artikel wordt met de wettelijke rente gelijkgesteld een hogere overeengekomen rente.   
 
 ### Artikel  120  
 
@@ -1984,7 +2011,7 @@ b. op het feit dat de algemene voorwaarden beperkingen bevatten van de bevoegdhe
 
 ### Artikel  241  
 
-1.  Het Gerechtshof te 's-Gravenhage is bij uitsluiting bevoegd tot kennisneming van vorderingen als in het vorige artikel bedoeld.   
+1.  Het gerechtshof Den Haag is bij uitsluiting bevoegd tot kennisneming van vorderingen als in het vorige artikel bedoeld.   
 2.  De in het vorige artikel bedoelde rechtspersonen hebben de bevoegdheden, geregeld in de [artikelen 217](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [376 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md); [artikel 379 van dat wetboek](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is niet van toepassing.   
 3.  Op vordering van de eiser kan aan de uitspraak worden verbonden 
 
@@ -1994,8 +2021,8 @@ b. een gebod om een aanbeveling tot het gebruik van deze bedingen te herroepen;
 
 c. een veroordeling tot het openbaar maken of laten openbaar maken van de uitspraak, zulks op door de rechter te bepalen wijze en op kosten van de door de rechter aan te geven partij of partijen.     
 4.  De rechter kan in zijn uitspraak aangeven op welke wijze het onredelijk bezwarend karakter van de bedingen waarop de uitspraak betrekking heeft, kan worden weggenomen.   
-5.  Geschillen terzake van de tenuitvoerlegging van de in lid 3 bedoelde veroordelingen, alsmede van de veroordeling tot betaling van een dwangsom, zo deze is opgelegd, worden bij uitsluiting door het Gerechtshof te 's-Gravenhage beslist.   
-6.  Tot kennisneming van vorderingen in kort geding strekkende tot veroordelingen als bedoeld in lid 3, ingesteld door rechtspersonen als bedoeld in artikel 240 lid 3, is de voorzieningenrechter van de rechtbank te 's-Gravenhage bij uitsluiting bevoegd. Lid 5, alsmede de [artikelen 62](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [116 lid 2](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [1003](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [1005](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [1006 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn van overeenkomstige toepassing.   
+5.  Geschillen terzake van de tenuitvoerlegging van de in lid 3 bedoelde veroordelingen, alsmede van de veroordeling tot betaling van een dwangsom, zo deze is opgelegd, worden bij uitsluiting door het gerechtshof Den Haag beslist.   
+6.  Tot kennisneming van vorderingen in kort geding strekkende tot veroordelingen als bedoeld in lid 3, ingesteld door rechtspersonen als bedoeld in artikel 240 lid 3, is de voorzieningenrechter van de rechtbank Den Haag bij uitsluiting bevoegd. Lid 5, alsmede de [artikelen 62](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [116 lid 2](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [1003](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [1005](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [1006 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn van overeenkomstige toepassing.   
 
 ### Artikel  242  
 

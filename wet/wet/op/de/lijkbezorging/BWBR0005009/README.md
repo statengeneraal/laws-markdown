@@ -57,7 +57,7 @@ Uitsluitend artsen die als forensisch arts zijn ingeschreven in een daartoe geho
 ### Artikel  7  
 
 1.  Hij die de schouwing heeft verricht geeft een verklaring van overlijden af, indien hij ervan overtuigd is dat de dood is ingetreden ten gevolge van een natuurlijke oorzaak.   
-2.  Indien het overlijden het gevolg was van de toepassing van levensbeëindiging op verzoek of hulp bij zelfdoding als bedoeld in [artikel 293, tweede lid](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), onderscheidenlijk [artikel 294, tweede lid, tweede volzin, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), geeft de behandelende arts geen verklaring van overlijden af en doet hij van de oorzaak van dit overlijden onverwijld door invulling van een formulier mededeling aan de gemeentelijke lijkschouwer of een der gemeentelijke lijkschouwers. Bij de mededeling voegt de arts een beredeneerd verslag inzake de inachtneming van de zorgvuldigheidseisen, bedoeld in [artikel 2 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](../../../../../../wet/wet/toetsing/levensbeëindiging/op/verzoek/en/hulp/bij/zelfdoding/BWBR0012410/README.md).   
+2.  Indien het overlijden het gevolg was van de toepassing van levensbeëindiging op verzoek of hulp bij zelfdoding als bedoeld in [artikel 293, tweede lid](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), onderscheidenlijk [artikel 294, tweede lid, tweede volzin, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) dan wel artikel 306, tweede lid, onderscheidenlijk artikel 307, tweede lid, tweede volzin, van het Wetboek van Strafrecht BES, geeft de behandelende arts geen verklaring van overlijden af en doet hij van de oorzaak van dit overlijden onverwijld door invulling van een formulier mededeling aan de gemeentelijke lijkschouwer of een der gemeentelijke lijkschouwers. Bij de mededeling voegt de arts een beredeneerd verslag inzake de inachtneming van de zorgvuldigheidseisen, bedoeld in [artikel 2 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](../../../../../../wet/wet/toetsing/levensbeëindiging/op/verzoek/en/hulp/bij/zelfdoding/BWBR0012410/README.md).   
 3.  Indien de behandelende arts in andere gevallen dan die bedoeld in het tweede lid meent niet tot afgifte van een verklaring van overlijden te kunnen overgaan, doet hij hiervan onverwijld door invulling van een formulier mededeling aan de gemeentelijke lijkschouwer of een der gemeentelijke lijkschouwers.   
 
 ### Artikel  8  
@@ -79,9 +79,9 @@ Uitsluitend artsen die als forensisch arts zijn ingeschreven in een daartoe geho
 ### Artikel  10a  
 
 1.  Indien de schouwing, bedoeld in artikel 7, eerste lid, een minderjarige betreft en is verricht door de behandelende arts, geeft deze een verklaring van overlijden slechts af na overleg met de gemeentelijke lijkschouwer.   
-2.   Dit lid is nog niet in werking getreden.    
-3.   Dit lid is nog niet in werking getreden.    
-4.   Dit lid is nog niet in werking getreden.    
+2.  De gemeentelijke lijkschouwer kan, na de minderjarige te hebben geschouwd, in afwijking van artikel 10, eerste lid, zorg dragen voor een nader onderzoek naar de doodsoorzaak. Een nader onderzoek vindt niet plaats, indien de lijkschouwer vermoedt dat het overlijden het gevolg is van een strafbaar feit.   
+3.  De behandelende arts en andere betrokken hulpverleners verstrekken de gemeentelijke lijkschouwer die het nader onderzoek leidt, op diens verzoek terstond de informatie dan wel inzage in of afschrift van bescheiden over de overleden minderjarige, die hij noodzakelijk acht in het kader van het nader onderzoek. De lijkschouwer gebruikt de informatie uitsluitend met het doel de doodsoorzaak vast te stellen.   
+4.  Na het onderzoek geeft de lijkschouwer een verklaring van overlijden af dan wel brengt hij door invulling van een formulier onverwijld verslag uit aan de officier van justitie en waarschuwt hij onverwijld de ambtenaar van de burgerlijke stand.   
 
 ### §  2  
 
@@ -534,9 +534,15 @@ b. indien de sectie geschiedt op verzoek van de betrokken hoofdinspecteur van he
 c. indien de sectie geschiedt op verzoek van de voorzitter van de Onderzoeksraad voor veiligheid.     
 2.  Bij toepassing van het eerste lid wordt de persoon bedoeld in artikel 72, tweede lid, daarvan in kennis gesteld.   
 
+### Artikel  74  
+
+1.  Indien een gemeentelijke lijkschouwer in het kader van het nader onderzoek, bedoeld in artikel 10a, tweede lid, sectie noodzakelijk acht, kan hij bij gebreke van toestemming van een ouder van de minderjarige de rechtbank verzoeken vervangende toestemming te verlenen.   
+2.  Bevoegd is de rechtbank van de plaats waar het ziekenhuis of andere instelling waarin het nader onderzoek plaatsvindt, is gelegen.   
+3.  De rechtbank verleent de toestemming, tenzij het belang om de doodsoorzaak van minderjarigen vast te stellen niet opweegt tegen de gevolgen die inwilliging van het verzoek voor de ouder zou hebben.   
+
 ### Artikel  75  
 
-Het verrichten van sectie geschiedt door een arts, nadat deze zich er van tevoren van heeft vergewist dat het intreden van de dood door een andere arts is vastgesteld en aan de vereisten, geldend ingevolge de artikelen 72 en 73, is voldaan.  
+Het verrichten van sectie geschiedt door een arts, nadat deze zich er van tevoren van heeft vergewist dat het intreden van de dood door een andere arts is vastgesteld en aan de vereisten, geldend ingevolge de artikelen 72, 73 en 74, is voldaan.  
 
 ### Artikel  76  
 
@@ -548,7 +554,7 @@ Het verrichten van sectie geschiedt door een arts, nadat deze zich er van tevore
 
 ### Artikel  77  
 
-Gedurende een gerechtelijk vooronderzoek komen de bevoegdheden, die artikel 76 aan de officier van justitie toekent, mede toe aan de rechter-commissaris.  
+De bevoegdheden die artikel 76 aan de officier van justitie toekent, komen mede toe aan de rechter-commissaris die onderzoekshandelingen in de zaak verricht.  
 
 ### Artikel  78  
 

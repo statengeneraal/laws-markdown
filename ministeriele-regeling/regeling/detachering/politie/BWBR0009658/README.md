@@ -10,13 +10,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *het bevoegd gezag:* het bevoegd gezag als bedoeld in [artikel 1, eerste lid, onder k, van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+a. *het bevoegd gezag:* het bevoegd gezag als bedoeld in [artikel 1, eerste lid, onder l, van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
 
-b. *ambtenaar:* de ambtenaar als bedoeld in [artikel 1, eerste lid, onder h, van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md).    
+b. *ambtenaar:* de ambtenaar als bedoeld in [artikel 1, eerste lid, onder i, van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md).    
 
 ### Artikel  2  
 
-Onverminderd [artikel 62, eerste lid, onderdelen a tot en met e, van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), kan het bevoegd gezag een ambtenaar detacheren bij: 
+Onverminderd [artikel 62, onderdelen a tot en met c, van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), kan het bevoegd gezag een ambtenaar detacheren bij: 
 
 a. de stichting Inpact te Houten;  
 
@@ -24,11 +24,15 @@ b. de stichting Transpol te Amsterdam;
 
 c. de stichting Beheersinstituut Politiekeurmerk Veilig Wonen;  
 
-d. een andere organisatie dan genoemd onder a tot en met c, mits de aard en werkwijze van de organisatie niet strijdig zijn met de taken van de politie-organisatie dan wel het LSOP en mits er geen sprake is van een commercieel belang waarbij de organisatie in overwegende mate afhankelijk is van opdrachten van of namens een regionaal politiekorps, het korps landelijke politiediensten dan wel het LSOP.    
+d. een andere organisatie dan genoemd onder a tot en met c, mits de aard en werkwijze van de organisatie niet strijdig zijn met de taken van de politie-organisatie dan wel het LSOP en mits er geen sprake is van een commercieel belang waarbij de organisatie in overwegende mate afhankelijk is van opdrachten van of namens een onderdeel van de politie, bedoeld in [artikel 25, eerste lid, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md), dan wel het LSOP.    
 
 ### Artikel  3  
 
 In afwijking van artikel 2 kan het bevoegd gezag een ambtenaar niet detacheren bij een gemeente of een stichting indien deze detachering plaatsvindt in het kader van de Regeling Extra werkgelegenheid langdurig werklozen.  
+
+### Artikel  4  
+
+Deze regeling berust op [artikel 62, eerste lid, onder c, van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md).  
 
 ### Artikel  5  
 

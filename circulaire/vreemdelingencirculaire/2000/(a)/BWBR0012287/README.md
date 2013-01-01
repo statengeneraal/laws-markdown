@@ -4,104 +4,199 @@
 
 ####Afkortingenlijst
 
-| --- | --- |
-|:---|:---|
-| ABRvS  | Afdeling bestuursrechtspraak van de Raad van State  |
-| AC  | Aanmeldcentrum  |
-| ACVZ  | Adviescommissie voor Vreemdelingenzaken  |
-| AIVD  | Algemene Inlichtingen- en Veiligheidsdienst  |
-| Amv  | Alleenstaande minderjarige vreemdeling  |
-| AOW  |  [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md)   |
-| APV  | Algemene Plaatselijke Verordening  |
-| Awb  |  [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)   |
-| BKA  | Buitenlands Kind ter Adoptie  |
-| BMA  | Bureau Medische Advisering  |
-| BuZa  | (Ministerie/Minister van) Buitenlandse Zaken  |
-| BVV  | Basisvoorziening vreemdelingensysteem  |
-| BZK  | (Ministerie/Minister van) Binnenlandse Zaken en Koninkrijksrelaties  |
-| B&W  | Burgemeester en Wethouders  |
-| CAO  | Collectieve arbeidsovereenkomst  |
-| COA  | Centraal Orgaan opvang Asielzoekers  |
-| DJI  | Dienst Justitiële Inrichtingen  |
-| DNRI  | Dienst Nationale Recherche Informatie  |
-| DT&V  | Dienst Terugkeer en Vertrek  |
-| EG  | Europese Gemeenschap  |
-| EEG  | Europese Economische Gemeenschap  |
-| EER  | Europese Economische Ruimte  |
-| EU  | Europese Unie  |
-| EZ  | (Ministerie/Minister van) Economische Zaken  |
-| Flexwet  | [Wet Flexibiliteit en Zekerheid](../../../../../wet/flexwet/BWBR0009612/README.md) (Stb. 1998, 300)  |
-| GBA  | Gemeentelijke Basisadministratie persoonsgegevens  |
-| GG&GD  | Geneeskundige en gezondheidsdienst  |
-| HKS  | Herkenningsdienstsysteem  |
-| IND  | Immigratie- en Naturalisatiedienst  |
-| IOM  | Internationale Organisatie voor Migratie  |
-| JDS  | Justitieel documentatiesysteem  |
-| KMar  | Koninklijke Marechaussee  |
-| KLPD  | Korps Landelijke Politiediensten  |
-| KLM  | Koninklijke Luchtvaart Maatschappij  |
-| MTV  | Mobiel Toezicht Vreemdelingen  |
-| mvv  | Machtiging tot voorlopig verblijf  |
-| NGO  | Non-gouvernementele organisatie  |
-| (N)SIS  | (Nationaal) Schengen Informatiesysteem  |
-| NVVB  | Nederlandse Vereniging voor Burgerzaken  |
-| OCW  | (Ministerie/Minister van) Onderwijs, Cultuur en Wetenschap  |
-| OM  | Openbaar Ministerie  |
-| OPS  | Opsporingsregister  |
-| Pb.  | Publicatieblad  |
-| PIL  | Protocol Identificatie en Labeling  |
-| PTSS  | Posttraumatische stressstoornis  |
-| REAN  | Return and Emigration of Aliens from the Netherlands  |
-| ROA  |  [Regeling Opvang Asielzoekers](../../../../../ministeriele-regeling/regeling/opvang/asielzoekers/BWBR0005366/README.md)   |
-| Rva  |  [Regeling verstrekkingen asielzoekers e.a. categorieën vreemdelingen 2005](../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md)   |
-| Rvb  |  [Regeling verstrekkingen bepaalde categorieën vreemdelingen](../../../../../ministeriele-regeling/regeling/verstrekkingen/bepaalde/categorieën/vreemdelingen/BWBR0009726/README.md)   |
-| RvS  | Raad van State  |
-| Rwn  |  [Rijkswet op het Nederlanderschap](../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md)   |
-| SGC  | Verordening (EG) Nr. 562/2006 van het Europees Parlement en de Raad tot vaststelling van een communautaire code betreffende de overschrijding van de grenzen door personen (Schengengrenscode)  |
-| SIRENE  | Supplementary Information Request at the National Entries  |
-| SIS  | Schengen Informatiesysteem  |
-| SRA  | Stichting Rechtsbijstand Asiel  |
-| Stb.  | Staatsblad  |
-| Stcrt.  | Staatscourant  |
-| SUO  | Overeenkomst ter uitvoering van het Akkoord van Schengen  |
-| SVB  | Sociale Verzekeringsbank  |
-| SZW  | (Ministerie/Minister van) Sociale Zaken en Werkgelegenheid  |
-| TBC  | Tuberculose  |
-| TBS  | Terbeschikkingstelling  |
-| Trb.  | Tractatenblad  |
-| TWV  | Tewerkstellingsvergunning  |
-| UNDP  | United Nations Development programme  |
-| UNHCR  | United Nations High Commissioner for Refugees  |
-| UNRWA  | United Nations Relief and Works Agency for Palestine Refugees in the Near East  |
-| UWV  | Uitvoeringsinstelling werknemersverzekering  |
-| Vb  |  [Vreemdelingenbesluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)   |
-| Vc  | Vreemdelingencirculaire  |
-| VIS  | Verificatie- en informatiesysteem  |
-| VN  | Verenigde Naties  |
-| VNG  | Vereniging van Nederlandse Gemeenten  |
-| VRIS  | Vreemdelingen in de strafrechtketen  |
-| VROM  | (Ministerie/Minister van) Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer  |
-| VV  |  [Voorschrift Vreemdelingen](../../../../../ministeriele-regeling/voorschrift/vreemdelingen/2000/BWBR0012002/README.md)   |
-| Vw  |  [Vreemdelingenwet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)   |
-| VWS  | (Ministerie/Minister van) Volksgezondheid, Welzijn en Sport  |
-| Wajong  |  [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md)   |
-| WAO  |  [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md)   |
-| Wav  |  [Wet arbeid vreemdelingen](../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md)   |
-| WAZ  |  [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md)   |
-| Wbp  |  [Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md)   |
-| WHW  |  [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md)   |
-| WIA  |  [Wet werk en inkomen naar arbeidsvermogen](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md)   |
-| WIW  |  [Wet Inschakeling Werkzoekenden](../../../../../wet/wet/inschakeling/werkzoekenden/BWBR0009083/README.md)   |
-| Wob  |  [Wet openbaarheid van bestuur](../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md)   |
-| Wobka  |  [Wet opneming buitenlandse kinderen ter adoptie](../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md)   |
-| WSF  |  [Wet op de Studiefinanciering](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md)   |
-| Wsw  |  [Wet Sociale werkvoorziening](../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md)   |
-| WvSr  |  [Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)   |
-| WvSv  |  [Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md)   |
-| WW  |  [Werkeloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md)   |
-| Wwb  |  [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md)   |
-| ZHP  | Dienst Zeehavenpolitie van de politieregio Rotterdam-Rijnmond  |
-| ZW  |  [Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md)   |
+*ABRvS* Afdeling bestuursrechtspraak van de Raad van State  
+
+*AC* Aanmeldcentrum  
+
+*ACVZ* Adviescommissie voor Vreemdelingenzaken  
+
+*AIVD* Algemene Inlichtingen- en Veiligheidsdienst  
+
+*Amv* Alleenstaande minderjarige vreemdeling  
+
+*AOW* [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md)   
+
+*APV* Algemene Plaatselijke Verordening  
+
+*Awb* [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)   
+
+*BKA* Buitenlands Kind ter Adoptie  
+
+*BMA* Bureau Medische Advisering  
+
+*BuZa* (Ministerie/Minister van) Buitenlandse Zaken  
+
+*BVV* Basisvoorziening vreemdelingensysteem  
+
+*BW* Burgerlijk Wetboek  
+
+*BZK* (Ministerie/Minister van) Binnenlandse Zaken en Koninkrijksrelaties  
+
+*B&W* Burgemeester en Wethouders  
+
+*CAO* Collectieve arbeidsovereenkomst  
+
+*COA* Centraal Orgaan opvang Asielzoekers  
+
+*DJI* Dienst Justitiële Inrichtingen  
+
+*DNRI* Dienst Nationale Recherche Informatie  
+
+*DT&V* Dienst Terugkeer en Vertrek  
+
+*EG* Europese Gemeenschap  
+
+*EEG* Europese Economische Gemeenschap  
+
+*EER* Europese Economische Ruimte  
+
+*EU* Europese Unie  
+
+*EZ* (Ministerie/Minister van) Economische Zaken  
+
+*Flexwet*[Wet Flexibiliteit en Zekerheid](../../../../../wet/flexwet/BWBR0009612/README.md) (Stb. 1998, 300)  
+
+*GBA* Gemeentelijke Basisadministratie persoonsgegevens  
+
+*GG&GD* Geneeskundige en gezondheidsdienst  
+
+*HKS* Herkenningsdienstsysteem  
+
+*IND* Immigratie- en Naturalisatiedienst  
+
+*IOM* Internationale Organisatie voor Migratie  
+
+*JDS* Justitieel documentatiesysteem  
+
+*KMar* Koninklijke Marechaussee  
+
+*KLPD* Korps Landelijke Politiediensten  
+
+*KLM* Koninklijke Luchtvaart Maatschappij  
+
+*MTV* Mobiel Toezicht Vreemdelingen  
+
+*mvv* Machtiging tot voorlopig verblijf  
+
+*NGO* Non-gouvernementele organisatie  
+
+*(N)SIS* (Nationaal) Schengen Informatiesysteem  
+
+*NVVB* Nederlandse Vereniging voor Burgerzaken  
+
+*OCW* (Ministerie/Minister van) Onderwijs, Cultuur en Wetenschap  
+
+*OM* Openbaar Ministerie  
+
+*OPS* Opsporingsregister  
+
+*Pb.* Publicatieblad  
+
+*PIL* Protocol Identificatie en Labeling  
+
+*PTSS* Posttraumatische stressstoornis  
+
+*REAN* Return and Emigration of Aliens from the Netherlands  
+
+*ROA* [Regeling Opvang Asielzoekers](../../../../../ministeriele-regeling/regeling/opvang/asielzoekers/BWBR0005366/README.md)   
+
+*Rva* [Regeling verstrekkingen asielzoekers e.a. categorieën vreemdelingen 2005](../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md)   
+
+*Rvb* [Regeling verstrekkingen bepaalde categorieën vreemdelingen](../../../../../ministeriele-regeling/regeling/verstrekkingen/bepaalde/categorieën/vreemdelingen/BWBR0009726/README.md)   
+
+*RvS* Raad van State  
+
+*Rwn* [Rijkswet op het Nederlanderschap](../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md)   
+
+*SGC* Verordening (EG) Nr. 562/2006 van het Europees Parlement en de Raad tot vaststelling van een communautaire code betreffende de overschrijding van de grenzen door personen (Schengengrenscode)  
+
+*SIRENE* Supplementary Information Request at the National Entries  
+
+*SIS* Schengen Informatiesysteem  
+
+*SRA* Stichting Rechtsbijstand Asiel  
+
+*Stb.* Staatsblad  
+
+*Stcrt.* Staatscourant  
+
+*SUO* Overeenkomst ter uitvoering van het Akkoord van Schengen  
+
+*SVB* Sociale Verzekeringsbank  
+
+*SZW* (Ministerie/Minister van) Sociale Zaken en Werkgelegenheid  
+
+*TBC* Tuberculose  
+
+*TBS* Terbeschikkingstelling  
+
+*Trb.* Tractatenblad  
+
+*TWV* Tewerkstellingsvergunning  
+
+*UNDP* United Nations Development programme  
+
+*UNHCR* United Nations High Commissioner for Refugees  
+
+*UNRWA* United Nations Relief and Works Agency for Palestine Refugees in the Near East  
+
+*UWV* Uitvoeringsinstelling werknemersverzekering  
+
+*Vb* [Vreemdelingenbesluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)   
+
+*Vc* Vreemdelingencirculaire  
+
+*VIS* Verificatie- en informatiesysteem  
+
+*VN* Verenigde Naties  
+
+*VNG* Vereniging van Nederlandse Gemeenten  
+
+*VRIS* Vreemdelingen in de strafrechtketen  
+
+*VROM* (Ministerie/Minister van) Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer  
+
+*VV* [Voorschrift Vreemdelingen](../../../../../ministeriele-regeling/voorschrift/vreemdelingen/2000/BWBR0012002/README.md)   
+
+*Vw* [Vreemdelingenwet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)   
+
+*VWS* (Ministerie/Minister van) Volksgezondheid, Welzijn en Sport  
+
+*Wajong* [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md)   
+
+*WAO* [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md)   
+
+*Wav* [Wet arbeid vreemdelingen](../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md)   
+
+*WAZ* [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md)   
+
+*Wbp* [Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md)   
+
+*WHW* [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md)   
+
+*WIA* [Wet werk en inkomen naar arbeidsvermogen](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md)   
+
+*WIW* [Wet Inschakeling Werkzoekenden](../../../../../wet/wet/inschakeling/werkzoekenden/BWBR0009083/README.md)   
+
+*Wob* [Wet openbaarheid van bestuur](../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md)   
+
+*Wobka* [Wet opneming buitenlandse kinderen ter adoptie](../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md)   
+
+*WSF* [Wet op de Studiefinanciering](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md)   
+
+*Wsw* [Wet Sociale werkvoorziening](../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md)   
+
+*WvSr* [Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)   
+
+*WvSv* [Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md)   
+
+*WW* [Werkeloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md)   
+
+*Wwb* [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md)   
+
+*ZHP* Dienst Zeehavenpolitie van de politieregio Rotterdam-Rijnmond  
+
+*ZW* [Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md)       
 
 ####Lijst Richtlijnen, Verordeningen en Verdragen
 
@@ -212,7 +307,7 @@ De Minister voor I&A is verantwoordelijk voor de uitvoering van de vreemdelingen
 
 ####Informatie en contactgegevens
 
-De organisaties die belast zijn met de uitvoering van de vreemdelingenwet- en regelgeving en aanverwante wet- en regelgeving dragen ieder zorg voor het organiseren en geven van specifieke voorlichting over de door hen uit te voeren taken. De vreemdelingenwet- en regelgeving wordt onder de verantwoordelijkheid van het Ministerie van BZK geformuleerd. De afdeling Publieksvoorlichting van het Ministerie van BZK is ondergebracht bij de Postbus 51 Informatiedienst, welke op werkdagen is te bereiken op het gratis telefoonnummer 0800- 8051 en op internet op de website www.rijksoverheid.nl. Bij Postbus 51 kunnen alle algemene vragen worden gesteld over de rijksoverheid. Voor informatie over verblijfsaanvragen wordt verwezen naar de IND. Overheidsinstanties die werkzaam zijn binnen de vreemdelingenketen kunnen de website www.vreemdelingenketen.nl bezoeken, welke de onderlinge informatie-uitwisseling tussen deze overheidsinstanties als doel heeft. Hieronder is een alfabetische lijst opgenomen van organisaties die betrokken zijn bij de uitvoering van het vreemdelingenbeleid, de handhaving van de vreemdelingenwet- en regelgeving en aanverwante wet- en regelgeving. Daarnaast worden organisaties genoemd met een directe relatie tot de vreemdelingenketen en/of die rechtsbijstand of andere ondersteuning verlenen aan vreemdelingen. In het overzicht zijn opgenomen: 
+De organisaties die belast zijn met de uitvoering van de vreemdelingenwet- en regelgeving en aanverwante wet- en regelgeving dragen ieder zorg voor het organiseren en geven van specifieke voorlichting over de door hen uit te voeren taken. De vreemdelingenwet- en regelgeving wordt onder de verantwoordelijkheid van het Ministerie van BZK geformuleerd. De afdeling Publieksvoorlichting van het Ministerie van BZK is ondergebracht bij de Informatiedienst van de Rijksoverheid. Iedereen kan voor vragen aan de Rijksoverheid op maandag t/m vrijdag van 8.00 tot 20.00 uur bellen naar telefoonnummer 1400. Voor informatie over verblijfsaanvragen wordt verwezen naar de IND. Overheidsinstanties die werkzaam zijn binnen de vreemdelingenketen kunnen de website www.vreemdelingenketen.nl bezoeken, welke de onderlinge informatie-uitwisseling tussen deze overheidsinstanties als doel heeft. Hieronder is een alfabetische lijst opgenomen van organisaties die betrokken zijn bij de uitvoering van het vreemdelingenbeleid, de handhaving van de vreemdelingenwet- en regelgeving en aanverwante wet- en regelgeving. Daarnaast worden organisaties genoemd met een directe relatie tot de vreemdelingenketen en/of die rechtsbijstand of andere ondersteuning verlenen aan vreemdelingen. In het overzicht zijn opgenomen: 
 
 * een korte beschrijving van de werkzaamheden;  
 
@@ -223,28 +318,28 @@ De organisaties die belast zijn met de uitvoering van de vreemdelingenwet- en re
 
 De ACVZ is een onafhankelijk adviescollege dat adviezen uitbrengt inzake het vreemdelingenrecht en vreemdelingenbeleid. Zij adviseert daarover gevraagd en ongevraagd aan de Regering en aan het Parlement. 
 
-* Telefoon: 070- 370 43 00  
+* Telefoon: 070-370 43 00  
 
 * Internet: www.acvz.org   
 ### *COA* 
 
 Het COA is verantwoordelijk voor de opvang van asielzoekers. Het COA zorgt voor onderdak gedurende de asielprocedure en bereidt asielzoekers voor op een verblijf in Nederland, terugkeer naar het land van herkomst of doormigratie. 
 
-* Telefoon: 0800 - 023 80 23 (gratis)  
+* Telefoon: 0800-023 80 23 (gratis)  
 
 * Internet: www.coa.nl   
 ### *DJI* 
 
 De DJI is verantwoordelijk voor de uitvoering van vrijheidsbenemende straffen en maatregelen, waaronder de vreemdelingenbewaring. 
 
-* Telefoon Informatielijn: 070 - 370 27 34  
+* Telefoon Informatielijn: 070-370 27 34  
 
 * Internet: www.dji.nl   
 ### *Directie Inburgering en Integratie* 
 
-De directie Inburgering en Integratie van het Ministerie van BZK richt zich op de totstandkoming van een samenleving, waarin de in Nederland verblijvende leden van etnische groepen op basis van volwaardig en gedeeld burgerschap kunnen deelnemen. De directie ontwikkelt onder andere het beleid met betrekking tot de inburgering en de Remigratiewet. De directie Inburgering en Integratie van het Ministerie van BZK is bereikbaar via: 
+De directie Inburgering en Integratie van het Ministerie van BZK richt zich op de totstandkoming van een samenleving, waarin de in Nederland verblijvende leden van etnische groepen op basis van volwaardig en gedeeld burgerschap kunnen deelnemen. De directie ontwikkelt onder andere het beleid met betrekking tot de inburgering en de [Remigratiewet](../../../../../wet/remigratiewet/BWBR0010424/README.md). De directie Inburgering en Integratie van het Ministerie van BZK is bereikbaar via: 
 
-* Telefoon: (algemeen): 070 - 339 0289  
+* Telefoon: (algemeen): 070-339 0289  
 
 * Internet: www.rijksoverheid.nl   
 ### *Directie Migratiebeleid* 
@@ -254,7 +349,7 @@ De Directie Migratiebeleid van het Ministerie van BZK draagt zorg voor de nation
 
 De DT&V is als taakorganisatie belast met de uitvoering van de vreemdelingenwetgeving terzake vertrek en uitzetting. De DT&V bevordert, organiseert en realiseert het daadwerkelijk vertrek uit Nederland van vreemdelingen zonder verblijfsrecht. Bij het uitvoeren van deze taak staat het stimuleren van het zelfstandig vertrek voorop. Zo nodig bereidt de DT&V het gedwongen vertrek van de vreemdeling uit Nederland voor. De DT&V voert haar taak uit in samenwerking met andere ketenpartners van de overheid die een taak hebben in het vertrekproces. De DT&V regisseert het vertrekproces op operationeel niveau. Taken die wettelijk zijn voorbehouden aan ambtenaren belast met het toezicht of de grensbewaking, worden niet verricht door de DT&V. 
 
-* Telefoon (algemeen): 0800 - 8051  
+* Telefoon (algemeen): 0800-8051  
 
 * Internet: www.dienstterugkeerenvertrek.nl  
 
@@ -270,103 +365,103 @@ Het Expertisecentrum Mensenhandel en Mensensmokkel is een samenwerkingsverband t
 
 De IND is onder meer verantwoordelijk voor de beoordeling van alle aanvragen voor toelating en naturalisatie van vreemdelingen. 
 
-* Informatielijn IND (beschikbaar voor publiek): 0900- 12 34 561 (0,10 euro pm)  
+* Informatielijn IND (beschikbaar voor publiek): 0900-12 34 561 (0,10 euro pm)  
 
 * Informatielijn IND vanuit het buitenland: +31 20 8893045  
 
-* Telefoon IND Ketenservice (beschikbaar voor ketenpartners): 070 - 888 00 00  
+* Telefoon IND Ketenservice (beschikbaar voor ketenpartners): 070-888 00 00  
 
-* Piketnummer (buiten kantooruren op werkdagen bereikbaar van 17.00 tot 23.00 uur en in het weekeinde van 7.00 tot 23.00 uur): 070 - 370 60 60  
+* Piketnummer (buiten kantooruren op werkdagen bereikbaar van 17.00 tot 23.00 uur en in het weekeinde van 7.00 tot 23.00 uur): 070-370 60 60  
 
 * Internet: www.ind.nl   
 ### *IOM* 
 
 IOM richt zich op velerlei migratievraagstukken. Zo biedt IOM ondersteuning aan uitgeprocedeerde vreemdelingen die Nederland vrijwillig willen verlaten, organiseren zij het vervoer van personen naar of uit Nederland en richten zij zich op (her)integratie, bestrijding van mensenhandel, arbeidsmigratie, migratie en ontwikkeling en migratie en gezondheid. 
 
-* Telefoon: 0900 - 7464466 (0,05 euro pm)  
+* Telefoon: 0900-7464466 (0,05 euro pm)  
 
 * Internet: www.iom-nederland.nl   
 ### *KMar* 
 
 De KMar is op de luchthavens en in de zeehavens in Nederland alsmede op zee belast met de grensbewaking. De grensbewaking in het competentiegebied van politieregio Rotterdam-Rijnmond wordt uitgevoerd door de ZHP (zie hierna onder ZHP), met uitzondering van de grensdoorlaatpost Hoek van Holland/ Europoort. In het kader van de grensbewaking verstrekt de KMar in voorkomende gevallen visa aan de buitengrens. Aan de binnengrens met België en Duitsland en op de luchthavens is de KMar belast met de uitvoering van het MTV. Voorts is de KMar verantwoordelijk voor de uitzetting en begeleiding van uitgeprocedeerde vreemdelingen uit Nederland en van aan de grens geweigerde personen. 
 
-* Telefoon KMar voorlichting: 070 - 318 83 57  
+* Telefoon KMar voorlichting: 070-318 83 57  
 
 * Internet: www.kmar.nl   
 ### *Ministerie van BuZa, inclusief ambassades en consulaten* 
 
 Het Ministerie van BuZa is verantwoordelijk voor de behandeling van visumaanvragen voor een verblijf korter dan drie maanden en mvv’s. Indien ambassades en consulaten niet zelfstandig kunnen of mogen beslissen, worden de visumaanvragen voor een verblijf korter dan drie maanden – als het gaat om zakenbezoeken, diplomaten, politieke bezoeken, het verrichten van technische werkzaamheden, deelname aan/bijwonen van een congres, conferentie of sportmanifestatie, bezoeken van wetenschappelijke aard, aanvragen van personen uit de voormalige Sovjetrepublieken, bezoeken van personen die geregistreerd staan in het SIS of op een visumsanctielijst – voorgelegd aan de afdeling Vreemdelingen- en Visumzaken van de directie Consulaire Zaken en Migratiebeleid van het Ministerie van BuZa (zie voor overige visumaanvragen hierna onder Visadienst). Het Ministerie van BuZa is tevens verantwoordelijk voor algemene en individuele ambtsberichten, welke door de Minister gebruikt worden als informatiebron onder andere bij de beoordeling van asielaanvragen. Daarnaast is het Ministerie van Buza verantwoordelijk voor het afnemen van het basisexamen inburgering in het buitenland op de Nederlandse posten. 
 
-* Telefoon Visuminformatie: 070 - 348 4844  
+* Telefoon Visuminformatie: 070-348 4844  
 
-* Telefoon algemeen: 070 - 348 64 86  
+* Telefoon algemeen: 070-348 64 86  
 
 * Internet: www.minbuza.nl   
 ### *NVVB* 
 
 De NVVB biedt een platform aan leidinggevenden en medewerkers van organisaties, die zich binnen en buiten de overheid professioneel bezig houden met het brede terrein van burgerzaken. Onder burgerzaken vallen activiteiten op het terrein van de GBA en de loketfunctie voor vreemdelingen die een aanvraag voor een reguliere verblijfsvergunning willen indienen. De NVVB heeft voor haar gemeentelijke leden een adviesfunctie op het gehele terrein van burgerzaken in de vorm van een helpdesk. 
 
-* Telefoon helpdesk (voor gemeenten): 020 - 551 90 07 of 020 - 551 90 09  
+* Telefoon helpdesk (voor gemeenten): 020-551 90 07 of 020-551 90 09  
 
 * Internet: www.nvvb.nl   
 ### *Politie* 
 
 De (vreemdelingen)politie houdt toezicht op personen die in Nederland verblijven, maar niet de Nederlandse nationaliteit hebben en is onder meer verantwoordelijk voor het opsporen, staande houden, inbewaring stellen, het vertrek onder toezicht alsmede het vaststellen van de identiteit van niet rechtmatig in Nederland verblijvende vreemdelingen. De Taakorganisatie Vreemdelingen is een landelijk werkend bureau dat de politie adviseert en ondersteunt bij de ontwikkeling van de visie, de strategie en het beleid van de politiële vreemdelingentaak. Daarbij is zij tevens het landelijk aanspreekpunt van waaruit de belangenbehartiging ten behoeve van de vreemdelingenpolitie plaatsvindt en het knooppunt in de communicatie en informatie-uitwisseling tussen de vreemdelingenpolitie onderling en van en naar ketenpartners. 
 
-* Telefoon politie algemeen: 0900 - 8844 (lokaal tarief)  
+* Telefoon politie algemeen: 0900-8844 (lokaal tarief)  
 
-* Telefoon Taakorganisatie Vreemdelingen: 030 - 635 33 44  
+* Telefoon Taakorganisatie Vreemdelingen: 030-635 33 44  
 
 * Internet: www.politie.nl   
 ### *RvS* 
 
-De RvS is naast onafhankelijk adviseur van de regering over wetgeving en bestuur ook hoogste algemene bestuursrechter van het land. De ABRvS spreekt recht in hoogste instantie in geschillen tussen de burger en de overheid. Sinds de inwerkingtreding van de Vw geldt dit ook voor vreemdelingrechtelijke geschillen. 
+De RvS is naast onafhankelijk adviseur van de regering over wetgeving en bestuur ook hoogste algemene bestuursrechter van het land. De ABRvS spreekt recht in hoogste instantie in geschillen tussen de burger en de overheid. Sinds de inwerkingtreding van de [Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) geldt dit ook voor vreemdelingrechtelijke geschillen. 
 
-* Telefoon publieksvoorlichting: 070 - 426 42 51 of 070 - 426 46 43  
+* Telefoon publieksvoorlichting: 070-426 42 51 of 070-426 46 43  
 
-* Telefoon (algemeen en spoedeisende zaken): 070 - 426 44 26  
+* Telefoon (algemeen en spoedeisende zaken): 070-426 44 26  
 
 * Internet: www.raadvanstate.nl   
 ### *Raad voor Rechtsbijstand* 
 
 De Raden voor Rechtsbijstand geven uitvoering aan de Wet op de rechtsbijstand, waarin de rechtsbijstand aan minder draagkrachtigen is geregeld. De raden subsidiëren de Stichting Rechtsbijstand Asiel en zien ook toe op de kwaliteit en voldoende beschikbaarheid van de rechtsbijstandverlening. Voor juridische informatie en advies is er het Juridisch Loket. 
 
-* Telefoon Juridisch Loket: 0900 - 8020 (10 cent pm)  
+* Telefoon Juridisch Loket: 0900-8020 (10 cent pm)  
 
 * Internet: www.rvr.org   
 ### *Visadienst* 
 
-De Visadienst is onderdeel van het Ministerie van BuZa. De Minister van BuZa heeft het Hoofd van de IND en het plaatsvervangend Hoofd van de IND mandaat verleend voor het nemen en ondertekenen van besluiten die door hen in hun functie van Hoofd van de Visadienst, respectievelijk plaatsvervangend Hoofd van de Visadienst, namens hem worden genomen. Ondermandaat is verleend aan de ambtenaar belast met de grensbewaking en het toezicht en specifieke functionarissen van de IND voorzover zij besluiten nemen of handelingen verrichten namens het Hoofd van de Visadienst. De Visadienst behandelt namens de Minister van BuZa alle door de ambassades en consulaten voorgelegde aanvragen voor mvv’s en visumaanvragen voor toerisme, familie- en privé-bezoek, artiesten, studenten, personen die gesignaleerd staan in het OPS of SIS, stagiaires en medische bezoeken, met uitzondering van personen uit de voormalige Sovjet republieken. De laatste categorie personen dient zich te wenden tot het Ministerie van BuZa (zie hiervoor onder Ministerie van Buza). Bovendien behandelt de Visadienst aanvragen voor visumverlenging en verlening van terugkeervisa. 
+De Visadienst is onderdeel van het Ministerie van BuZa. De Minister van BuZa heeft het Hoofd van de IND en het plaatsvervangend Hoofd van de IND mandaat verleend voor het nemen en ondertekenen van besluiten die door hen in hun functie van Hoofd van de Visadienst, respectievelijk plaatsvervangend Hoofd van de Visadienst, namens hem worden genomen. Ondermandaat is verleend aan de ambtenaar belast met de grensbewaking en het toezicht en specifieke functionarissen van de IND voorzover zij besluiten nemen of handelingen verrichten namens het Hoofd van de Visadienst. De Visadienst behandelt namens de Minister van BuZa alle door de ambassades en consulaten voorgelegde aanvragen voor mvv’s en visumaanvragen voor toerisme, familie- en privé-bezoek, artiesten, studenten, personen die gesignaleerd staan in het OPS of SIS, stagiaires en medische bezoeken, met uitzondering van personen uit de voormalige Sovjetrepublieken. De laatste categorie personen dient zich te wenden tot het Ministerie van BuZa (zie hiervoor onder Ministerie van Buza). Bovendien behandelt de Visadienst aanvragen voor visumverlenging en verlening van terugkeervisa. 
 
 * Contactinformatie: zie IND   
 ### *VNG* 
 
 De VNG verzorgt de belangenbehartiging van alle gemeenten bij andere overheden. Bij de gemeenten worden aanvragen voor verblijfsvergunningen regulier en naturalisatie ingediend. Daarnaast zijn gemeenten verantwoordelijk voor de registratie van persoonsgegevens in de GBA. 
 
-* Telefoon: 070 - 373 83 93  
+* Telefoon: 070-373 83 93  
 
 * Internet: www.vng.nl   
 ### *Vereniging Vluchtelingenwerk Nederland* 
 
 De Vereniging Vluchtelingenwerk Nederland behartigt de belangen van vluchtelingen en asielzoekers die zich in Nederland bevinden. 
 
-* Telefoon (algemeen): 020 - 346 72 00  
+* Telefoon (algemeen): 020-346 72 00  
 
 * Internet: www.vluchtelingenwerk.nl   
 ### *Vreemdelingenkamers* 
 
 De vreemdelingenkamers zijn onderdeel van een rechtbank en houden zich uitsluitend bezig met het behandelen van vreemdelingenrechtelijke geschillen. Formeel behandelt de rechtbank ’s-Gravenhage deze geschillen, maar binnen alle negentien rechtbanken in Nederland zijn zogeheten nevenzittingsplaatsen aangewezen. Het Landelijk Stafbureau Vreemdelingenkamers biedt ondersteuning op het gebied van juridische en organisatorische coördinatie aan de vreemdelingenkamers. Bij het Centraal Inschrijfbureau Vreemdelingenzaken dienen vreemdelingenzaken te worden ingediend, waarop deze door het Centraal Inschrijfbureau Vreemdelingenzaken zo evenwichtig mogelijk over de nevenzittingsplaatsen worden verdeeld. 
 
-* Pikettelefoon van het Centraal Inschrijfbureau Vreemdelingenzaken: 023 - 512 66 20  
+* Pikettelefoon van het Centraal Inschrijfbureau Vreemdelingenzaken: 023-512 66 20  
 
 * Internet: www.rechtspraak.nl   
 ### *ZHP* 
 
 De ZHP is belast met de grensbewaking in het competentiegebied van politieregio Rotterdam-Rijnmond alsmede op zee, het havengerelateerde vreemdelingentoezicht en de bestrijding van (migratie)criminaliteit in de Rotterdamse havens. Daarnaast verzorgt de ZHP in voorkomende gevallen de verlening en verlenging van visa voor in de politieregio Rotterdam-Rijnmond verblijvende zeelieden. 
 
-* Telefoon: 010 - 2747471  
+* Telefoon: 010-2747471  
 
-* Faxnummer: 010 - 2750121   Internet: www.dutch-immigration.nl    
+* Faxnummer: 010-2750121   Internet: www.dutch-immigration.nl    
 ### 4  
 
 ####Bestuurlijke Informatievoorziening binnen de vreemdelingenketen
@@ -795,7 +890,7 @@ Een terugkeervisum kan tevens worden verstrekt aan de vreemdeling die in het bez
 Een terugkeervisum kan worden verleend aan een vreemdeling die in het bezit is van een verblijfsvergunning asiel voor bepaalde of onbepaalde tijd. Zij behoeven hiervoor géén dringende reden aan te dragen. Echter, deze vreemdelingen komen niet in aanmerking voor een terugkeervisum wanneer het de terugkeer vanuit het land van herkomst betreft. Het is hierbij niet van belang of het om een verblijfsvergunning asiel voor bepaalde of voor onbepaalde tijd gaat. Indien de vreemdeling beschikt over een verblijfsvergunning asiel voor bepaalde tijd, vormt een aanvraag tot het verlenen van een terugkeervisum voor terugkeer uit het land van herkomst grond om op basis van [artikel 32, eerste lid, onder c, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) een aanvraag tot verlenging van die verblijfsvergunning af te wijzen. De grond voor verlening is daaraan immers kennelijk ontvallen. Ook de vreemdeling die beschikt over een verblijfsvergunning asiel voor onbepaalde tijd komt niet in aanmerking voor een terugkeervisum voor terugkeer uit het land van herkomst, aangezien diens vluchtelingenpaspoort niet geldig is voor zijn land van herkomst. Indien de vreemdeling die in het bezit is van de verblijfsvergunning asiel voor onbepaalde tijd, van oordeel is dat hij niet meer behoeft te vrezen voor vervolging in zijn land van herkomst, bijvoorbeeld vanwege een regimewijziging, dan kan hij zich tot de eigen autoriteiten wenden voor het verkrijgen van een nieuw nationaal document voor grensoverschrijding, waarmee hij naar het land van herkomst kan reizen. 
 ### *Kosten terugkeervisa* 
 
-Voor de behandeling van een aanvraag voor een terugkeervisum zijn leges verschuldigd (zie verder A2/4.3.5 ). 
+Voor de behandeling van een aanvraag voor een terugkeervisum zijn leges verschuldigd (zie verder A2/4.3.5). 
 ### *Ad b Visum voor verblijf van langere duur (mvv) (type D)* 
 
 Visa voor een verblijf van langere duur (type D) zijn visa die door de diplomatieke of consulaire vertegenwoordiging van een Schengenstaat overeenkomstig de eigen wetgeving worden afgegeven. Ingevolge Verordening EU 265/2010 geeft een dergelijk visum de houder, mits hij voldoet aan de in artikel 5, eerste lid, onder a), c), en e) Schengengrenscode bedoelde toegangsvoorwaarden, en niet gesignaleerd staat op de nationale signaleringslijst van de betrokken staat, het recht op inreis in en circulatie binnen het grondgebied van de overige Schengenstaten voor de duur van maximaal drie maanden (90 dagen) per periode van zes maanden(180 dagen). De mvv is een nationaal visum dat wordt afgegeven door een Nederlandse diplomatieke of consulaire vertegenwoordiging in het buitenland ([artikel 1, onder h, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)). Een mvv-verklaring, in de vorm van een voorbedrukt formulier kan in de plaats komen van de mvv gesteld in het paspoort. In dat geval moet de houder van de verklaring steeds in het bezit zijn van het daarin aangegeven reisdocument. Zie voor bepalingen omtrent aanvraag, afgifte en vrijstellingen van een mvv [B1/1.1](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md), [B1/1.2](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md) en [B1/4.1.1 van de Vc](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md).     
@@ -2553,7 +2648,7 @@ Politieke activiteiten van een vreemdeling die gevaar opleveren voor de openbare
 
 ####Inleiding
 
-In [hoofdstuk 4 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) zijn regels opgenomen over onder meer het vertrek en de uitzetting van de vreemdeling. Deze regels zijn deels ook van toepassing op EU-/EER onderdanen en Zwitserse onderdanen, alsmede de familieleden als bedoeld in [artikel 8.7, tweede en derde, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) en de vreemdelingen als bedoeld in artikel 8.7, vierde lid, Vb, die geen rechtmatig verblijf (meer) hebben. Er dient echter wel rekening mee te worden gehouden dat op EU-/EER-onderdanen toch nog het Europees Vestigingsverdrag (zie [B11/4](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md)) van toepassing kan zijn. Dit Verdrag verschaft de onderdanen van alle verdragsluitende partijen (in de praktijk alleen de Turkse onderdanen) (extra) procedurele waarborgen in geval van voorgenomen verblijfsbeëindiging bij rechtmatig verblijf van ten minste twee respectievelijk tien jaar. Ten aanzien van vreemdelingen die dienen te vertrekken naar een land buiten de Unie geldt dat zij een schriftelijk terugkeerbesluit dienen te ontvangen, waaruit blijkt dat de vreemdeling de Unie dient te verlaten. Het terugkeerbesluit kan tevens een inreisverbod inhouden ([artikel 66a Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zie ook A5/1). De [Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) kent slechts de begrippen vertrek en uitzetting. Vertrek wordt behandeld in [hoofdstuk 6, afdeling 1, artikel 61](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [62 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). Uitzetting wordt behandeld in [hoofdstuk 6, afdeling 2, artikel 63 tot en met 66 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). 
+In [hoofdstuk 4 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) zijn regels opgenomen over onder meer het vertrek en de uitzetting van de vreemdeling. Deze regels zijn deels ook van toepassing op EU-/EER onderdanen en Zwitserse onderdanen, alsmede de familieleden als bedoeld in [artikel 8.7, tweede en derde, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) en de vreemdelingen als bedoeld in [artikel 8.7, vierde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), die geen rechtmatig verblijf (meer) hebben. Er dient echter wel rekening mee te worden gehouden dat op EU-/EER-onderdanen toch nog het Europees Vestigingsverdrag (zie [B11/4](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md)) van toepassing kan zijn. Dit Verdrag verschaft de onderdanen van alle verdragsluitende partijen (in de praktijk alleen de Turkse onderdanen) (extra) procedurele waarborgen in geval van voorgenomen verblijfsbeëindiging bij rechtmatig verblijf van ten minste twee respectievelijk tien jaar. Ten aanzien van vreemdelingen die dienen te vertrekken naar een land buiten de Unie geldt dat zij een schriftelijk terugkeerbesluit dienen te ontvangen, waaruit blijkt dat de vreemdeling de Unie dient te verlaten. Het terugkeerbesluit kan tevens een inreisverbod inhouden ([artikel 66a Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zie ook A5/1). De [Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) kent slechts de begrippen vertrek en uitzetting. Vertrek wordt behandeld in [hoofdstuk 6, afdeling 1](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [artikel 61](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [62](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [62a Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). Uitzetting wordt behandeld in [hoofdstuk 6, afdeling 2](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [artikel 63 tot en met 66 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). 
 ### *Vertrek* 
 
 Van vertrek is sprake indien een vreemdeling, al dan niet aantoonbaar, zelfstandig of gedwongen vertrekt uit Nederland. Zelfstandig vertrek wordt onder andere gefaciliteerd door IOM in Nederland. Hiertoe biedt IOM een vertrekregeling aan (zie A4/5). 
@@ -2562,10 +2657,10 @@ Van vertrek is sprake indien een vreemdeling, al dan niet aantoonbaar, zelfstand
 De wet bevat geen definitie van het begrip uitzetting. De term uitzetting wordt gebruikt voor alle gevallen van ‘verwijdering met de sterke arm uit Nederland’. Dit impliceert dat er geen sprake is van uitzetting als een vreemdeling in de gelegenheid wordt gesteld ons land op een door hem verkozen wijze te verlaten. 
 ### *Verwijdering* 
 
-Het begrip verwijdering, dat niet voorkomt in de [Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), omvat alle overheidshandelingen en handelingen van vervoerders die erop gericht zijn om een vreemdeling die Nederland moet verlaten daadwerkelijk te doen vertrekken. Hieronder vallen de begrippen (zelfstandig) vertrek en uitzetting. De handelingen van vervoerders zien enkel op vreemdelingen ten aanzien van wie zij op grond van [artikel 65 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) een terugvoerverplichting hebben. 
+Het begrip verwijdering, dat niet voorkomt in de Vw, omvat alle overheidshandelingen en handelingen van vervoerders die erop gericht zijn om een vreemdeling die Nederland moet verlaten daadwerkelijk te doen vertrekken. Hieronder vallen de begrippen (zelfstandig) vertrek en uitzetting. De handelingen van vervoerders zien enkel op vreemdelingen ten aanzien van wie zij op grond van [artikel 65 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) een terugvoerverplichting hebben. 
 ### *Terugkeerbesluit* 
 
-De administratieve of rechterlijke beslissing of handeling waarbij wordt vastgesteld dat het verblijf van een onderdaan van een derde land illegaal is of die illegaal wordt verklaard en een terugkeerverplichting wordt opgelegd of vastgelegd. 
+De administratieve of rechterlijke beslissing of handeling waarbij wordt vastgesteld dat het verblijf van een onderdaan van een derde land illegaal is of die illegaal wordt verklaard en een terugkeerverplichting wordt opgelegd of vastgelegd. Onder terugkeer wordt verstaan: terugkeer naar een derde land, gelegen buiten de Europese Unie (met uitzondering van het Verenigd Koninkrijk en Ierland), de Europese Economische Ruimte en Zwitserland. 
 ### *Onderdaan van een derde land* 
 
 Eenieder die geen burger van de Unie is in de zin van artikel 17, lid 1, van het Verdrag en die geen persoon is, die onder het Gemeenschapsrecht inzake vrij verkeer valt, als bepaald in artikel 2, punt 5, van de Schengengrenscode.    
@@ -2577,7 +2672,7 @@ Eenieder die geen burger van de Unie is in de zin van artikel 17, lid 1, van het
 
 ####De rechtsplicht om Nederland uit eigen beweging te verlaten
 
-Uitgangspunt in de [Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is dat de vreemdeling die geen rechtmatig verblijf in Nederland (meer) heeft, Nederland uit eigen beweging moet verlaten. De vreemdeling is daarbij zelf verantwoordelijk voor zijn vertrek uit Nederland. Deze eigen verantwoordelijkheid is neergelegd in [artikel 61, eerste lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). De verplichting om Nederland te verlaten is ingevolge dat artikel afhankelijk van de rechtmatigheid van het verblijf. Welke vreemdeling rechtmatig in Nederland verblijft, is opgenomen in [artikel 8 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). De rechtsplicht om Nederland te verlaten ontstaat op het moment waarop het rechtmatig verblijf eindigt. Dit wordt in voorkomende gevallen door middel van een meeromvattende beschikking die tevens geldt als een terugkeerbesluit aan de vreemdeling kenbaar gemaakt. Conform [artikelen 27](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [45 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) heeft deze meeromvattende beschikking een vertrekplicht tot gevolg. De termijn waarbinnen de vreemdeling Nederland moet verlaten is vastgesteld in [artikel 62 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). De vreemdeling die na afloop van de termijn die vermeld is in het terugkeerbesluit Nederland niet zelfstandig heeft verlaten kan worden uitgezet. In aanvulling op het genomen terugkeerbesluit krijgt hij in overeenstemming met A5/1 een inreisverbod opgelegd (zie [artikel 66a Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en zie A5/1). In het geval uitzetting niet mogelijk blijkt, bijvoorbeeld omdat de vreemdeling zich aan toezicht heeft onttrokken, wordt eveneens in aanvulling op het terugkeerbesluit een inreisverbod uitgevaardigd. In dat geval moet van de beschikking mededeling worden gedaan in de Stcrt (artikel 66a, vijfde lid, Vw). Voor personen die Nederland legaal zijn ingereisd voor een bepaalde duur, en waarvan de termijn voor verblijf in Nederland is verlopen, geldt ook dat een terugkeerbesluit wordt uitgereikt, dat tevens een inreisverbod (zie artikel 66a Vw en zie A5/1) zal inhouden. Vreemdelingen die nooit rechtmatig verblijf in Nederland hebben gehad en zich dus illegaal toegang tot Nederland hebben verschaft, krijgen in geval van aantreffen een terugkeerbesluit, waarmee zij van de op hen rustende vertrekplicht in kennis worden gesteld. Alvorens tot het uitvaardigen van een terugkeerbesluit wordt overgegaan, wordt de vreemdeling eerst hieromtrent gehoord. Als uit dat gehoor blijkt dat het voornemen van de vreemdeling bestaat asiel te vragen wordt de vreemdeling de gelegenheid gegeven een dergelijke aanvraag in te dienen en wordt pas een terugkeerbesluit uitgevaardigd als hij van deze mogelijkheid geen gebruik maakt. Voor zover blijkt dat vreemdeling om andere redenen verblijf hier te lande wenst, wordt de vreemdeling erop gewezen dat een verblijfsvergunning regulier ingediend kan worden. In laatstgenoemde situatie bestaat er geen aanleiding om het uitbrengen van een terugkeerbesluit achterwege te laten. In het terugkeerbesluit kan worden bepaald dat de vreemdeling de Unie – en daarmee ook Nederland – moet verlaten binnen vier weken. De vreemdeling die na afloop van de termijn vermeld in het terugkeerbesluit Nederland niet zelfstandig heeft verlaten kan worden uitgezet en krijgt onder intrekking of wijziging van het genomen terugkeerbesluit een nieuw terugkeerbesluit dat tevens een inreisverbod inhoudt (zie [artikel 66a Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en zie A5/1). Ingeval echter een risico bestaat dat de vreemdeling zich aan het toezicht zal onttrekken, kan een vertrektermijn worden onthouden. In dat geval moet de vreemdeling de Unie onmiddellijk verlaten en wordt in het terugkeerbesluit als regel een inreisverbod opgenomen (zie A5/1). Voor vreemdelingen die een aanvraag hebben ingediend, maar waarvan de aanvraag is afgewezen en het bezwaar of beroep de werking van de bestreden beschikking niet opschort, ontstaat de rechtsplicht na afwijzing van de aanvraag. Als bezwaar of beroep de werking van de bestreden beschikking opschort, dan ontstaat de rechtsplicht nadat de opschorting is geëindigd. Hetzelfde geldt indien het rechtsmiddel (waaronder hoger beroep) op grond van een rechterlijk oordeel mag worden afgewacht. Voor vreemdelingen uit derde landen die illegaal in Nederland verblijven en in het bezit zijn van een door een andere lidstaat afgegeven geldige verblijfsvergunning of andere toestemming tot verblijf, geldt dat zij een aanzegging krijgen om zich onmiddellijk naar het grondgebied van die andere lidstaat te begeven. Wanneer deze aanzegging niet wordt nageleefd, of uit de verklaringen of gedragingen van de vreemdeling aannemelijk kan worden geacht dat hij deze aanzegging niet zal opvolgen of indien om redenen van openbare orde of nationale veiligheid het onmiddellijke vertrek van de vreemdelingen vereist is, zal wel een terugkeerbesluit worden uitgereikt. Van openbare orde aspecten in de vorige zin is in ieder geval sprake indien de vreemdeling is veroordeeld wegens het plegen van een strafbaar feit. Dat de nationale veiligheid het onmiddellijke vertrek vereist kan ondermeer uit een ambtsbericht van de AIVD volgen. Nadat de vreemdeling een terugkeerbesluit is uitgereikt, zal een terugkeerprocedure worden opgestart die in beginsel is gericht op de terugkeer naar het land van herkomst. Indien de vreemdeling alsnog – al dan niet gefaciliteerd door de overheid – bereid en in staat is terug te keren naar de lidstaat die hem een vergunning heeft verleend, dan wordt hij begeleid in de terugkeer naar dat land. Op dit punt wordt in dat geval ten gunste van de vreemdeling afgeweken van de richtlijn 2008/115. Indien de vreemdeling een verblijfsrecht heeft in een andere lidstaat van de Unie wordt geen inreisverbod uitgevaardigd anders dan vanwege de aspecten opgenomen in [artikel 66a, zevende lid van de Vw2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), aangezien deze vreemdelingen immers wel elders in de Unie verblijf kunnen hebben. Wel kan een signalering in OPS worden opgenomen. Indien strafbare feiten waarvoor de vreemdeling is veroordeeld daarvoor aanleiding geven, kan door middel van het formulier M63 aan de IND om een inreisverbod als bedoeld in artikel 66A lid zevende lid Vw2000 (zie A3/9) worden verzocht. Alvorens een terugkeerbesluit uit te reiken dat tevens een inreisverbod inhoudt. zal in dit geval (via Sirene) contact opgenomen moeten worden met de lidstaat door wie de verblijfsvergunning is afgegeven, om nadere informatie te verkrijgen over de aard van het verblijf in die lidstaat. Indien hieruit geconcludeerd moet worden dat het uitvaardigen van het terugkeerbesluit strijd oplevert met internationale verplichtingen (het verbod op refoulement), wordt geen terugkeerbesluit uitgevaardigd. Vreemdelingen uit derde landen die illegaal in Nederland verblijven en kunnen worden overgedragen aan een andere lidstaat op grond van een bilaterale overeenkomst of regeling, die al van kracht was op 13 januari 2009, ontvangen ook geen terugkeerbesluit, omdat zij de Unie niet verlaten. Zie [B14](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md) in geval de vreemdeling buiten zijn schuld niet uit Nederland kan vertrekken.    
+Uitgangspunt in de [Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is dat de vreemdeling die geen rechtmatig verblijf in Nederland (meer) heeft, Nederland uit eigen beweging moet verlaten. De vreemdeling is daarbij zelf verantwoordelijk voor zijn vertrek uit Nederland. Deze eigen verantwoordelijkheid is neergelegd in [artikel 61, eerste lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). De verplichting om Nederland te verlaten is ingevolge dat artikel afhankelijk van de rechtmatigheid van het verblijf. Welke vreemdeling rechtmatig in Nederland verblijft, is opgenomen in [artikel 8 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). De rechtsplicht om Nederland te verlaten ontstaat op het moment waarop het rechtmatig verblijf eindigt. Dit wordt in voorkomende gevallen door middel van een meeromvattende beschikking die tevens geldt als een terugkeerbesluit aan de vreemdeling kenbaar gemaakt. Conform [artikelen 27](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [45 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) heeft deze meeromvattende beschikking een vertrekplicht tot gevolg. De termijn waarbinnen de vreemdeling Nederland moet verlaten is vastgesteld in [artikel 62 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). De vreemdeling die na afloop van de termijn die vermeld is in het terugkeerbesluit Nederland niet zelfstandig heeft verlaten kan worden uitgezet. In aanvulling op het genomen terugkeerbesluit krijgt hij in overeenstemming met A5/1 een inreisverbod opgelegd (zie [artikel 66a Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en zie A5/1). In het geval uitzetting niet mogelijk blijkt, bijvoorbeeld omdat de vreemdeling zich aan toezicht heeft onttrokken, wordt eveneens in aanvulling op het terugkeerbesluit een inreisverbod uitgevaardigd. In dat geval moet van de beschikking mededeling worden gedaan in de Stcrt (artikel 66a, vijfde lid, Vw). Voor personen die Nederland legaal zijn ingereisd voor een bepaalde duur en waarvan de termijn voor verblijf in Nederland is verlopen, geldt ook dat een terugkeerbesluit wordt uitgereikt, dat tevens een inreisverbod (zie artikel 66a Vw en zie A5/1) zal inhouden. Vreemdelingen die nooit rechtmatig verblijf in Nederland hebben gehad en zich dus illegaal toegang tot Nederland hebben verschaft, krijgen in geval van aantreffen een terugkeerbesluit, waarmee zij van de op hen rustende vertrekplicht in kennis worden gesteld. Alvorens tot het uitvaardigen van een terugkeerbesluit wordt overgegaan, wordt de vreemdeling eerst hieromtrent gehoord. Als uit dat gehoor blijkt dat het voornemen van de vreemdeling bestaat asiel te vragen wordt de vreemdeling de gelegenheid gegeven een dergelijke aanvraag in te dienen en wordt pas een terugkeerbesluit uitgevaardigd als hij van deze mogelijkheid geen gebruik maakt. Voor zover blijkt dat vreemdeling om andere redenen verblijf hier te lande wenst, wordt de vreemdeling erop gewezen dat een verblijfsvergunning regulier ingediend kan worden. In laatstgenoemde situatie bestaat er geen aanleiding om het uitbrengen van een terugkeerbesluit achterwege te laten. In het terugkeerbesluit kan worden bepaald dat de vreemdeling de Unie – en daarmee ook Nederland – moet verlaten binnen vier weken. De vreemdeling die na afloop van de termijn vermeld in het terugkeerbesluit Nederland niet zelfstandig heeft verlaten en geen andere rechtsgrond voor verblijf hier ten lande heeft (zoals rechtmatig verblijf vanwege een ingediende verblijfsaanvraag of [artikel 64 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)), kan worden uitgezet en krijgt door middel van een zelfstandige beschikking of wijziging van het genomen terugkeerbesluit een inreisverbod opgelegd (zie [artikel 66a Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en zie A5/1). Ingeval echter een risico bestaat dat de vreemdeling zich aan het toezicht zal onttrekken, kan een vertrektermijn worden onthouden. In dat geval moet de vreemdeling de Unie onmiddellijk verlaten en wordt in het terugkeerbesluit als regel een inreisverbod opgenomen (zie A5/1). Voor vreemdelingen die een aanvraag hebben ingediend, maar waarvan de aanvraag is afgewezen en het bezwaar of beroep de werking van de bestreden beschikking niet opschort, ontstaat de rechtsplicht na afwijzing van de aanvraag. Als bezwaar of beroep de werking van de bestreden beschikking opschort, dan ontstaat de rechtsplicht nadat de opschorting is geëindigd. Hetzelfde geldt indien het rechtsmiddel (waaronder hoger beroep) op grond van een rechterlijk oordeel mag worden afgewacht. Voor vreemdelingen uit derde landen die illegaal in Nederland verblijven en in het bezit zijn van een door een andere lidstaat afgegeven geldige verblijfsvergunning of andere toestemming tot verblijf, geldt dat zij een aanzegging krijgen om zich onmiddellijk naar het grondgebied van die andere lidstaat te begeven. Wanneer deze aanzegging niet wordt nageleefd, of uit de verklaringen of gedragingen van de vreemdeling aannemelijk kan worden geacht dat hij deze aanzegging niet zal opvolgen of indien om redenen van openbare orde of nationale veiligheid het onmiddellijke vertrek van de vreemdelingen vereist is, zal wel een terugkeerbesluit worden uitgereikt. Zie voor een nadere uitleg van redenen van openbare orde en nationale veiligheid A4/3.3. Nadat de vreemdeling een terugkeerbesluit is uitgereikt, zal een terugkeerprocedure worden opgestart die in beginsel is gericht op de terugkeer naar het land van herkomst. Indien de vreemdeling alsnog – al dan niet gefaciliteerd door de overheid – bereid en in staat is terug te keren naar de lidstaat die hem een vergunning heeft verleend, dan wordt hij begeleid in de terugkeer naar dat land. Op dit punt wordt in dat geval ten gunste van de vreemdeling afgeweken van de richtlijn 2008/115. Indien de vreemdeling een verblijfsrecht heeft in een andere lidstaat van de Unie wordt geen inreisverbod uitgevaardigd aangezien deze vreemdelingen immers wel elders in de Unie verblijf heeft. Alvorens een terugkeerbesluit uit te reiken dat tevens een inreisverbod inhoudt, zal in dit geval (via Sirene) contact opgenomen moeten worden met de lidstaat door wie de verblijfsvergunning is afgegeven om nadere informatie te verkrijgen over de aard van het verblijf in die lidstaat. Pas indien de betreffende lidstaat over gaat tot intrekking van de verblijfsvergunning van de vreemdeling, kan een inreisverbod worden opgelegd. Indien hieruit geconcludeerd moet worden dat het uitvaardigen van het terugkeerbesluit strijd oplevert met internationale verplichtingen (het verbod op refoulement), wordt geen terugkeerbesluit uitgevaardigd. Vreemdelingen uit derde landen die illegaal in Nederland verblijven en kunnen worden overgedragen aan een andere lidstaat op grond van een bilaterale overeenkomst of regeling, die al van kracht was op 13 januari 2009, ontvangen ook geen terugkeerbesluit, omdat zij de Unie niet verlaten (zie A4/11). Vreemdelingen die voldoen aan de uit het terugkeerbesluit voortvloeiende terugkeerverplichting en die opnieuw Nederland binnenkomen krijgen een nieuw terugkeerbesluit, voor zover hun verblijfsrechtelijke positie daar aanleiding toe geeft, bijvoorbeeld indien een verblijfsaanvraag wordt afgewezen, maar ook indien de vreemdeling zonder het indienen van een aanvraag als illegaal wordt aangetroffen. Vreemdelingen wier verblijfsvergunning wordt ingetrokken of van wie de geldigheidsduur van hun verblijfsvergunning niet wordt verlengd, krijgen eveneens een terugkeerbesluit. Zie [B14](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md) in geval de vreemdeling buiten zijn schuld niet uit Nederland kan vertrekken.    
 ### 2.2  
 
 ####Het vorderen van medewerking aan de voorbereiding van vertrek
@@ -2615,17 +2710,31 @@ Indien de vreemdeling de beroepstermijn ongebruikt laat, kan deze in mindering w
 
 ####Verkorten of onthouden van de vertrektermijn
 
-Er kunnen zich omstandigheden voordoen, die het wenselijk maken om een kortere vertrektermijn te geven. Om die reden is in [artikel 62, tweede lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) de bevoegdheid van de Minister opgenomen om de vertrektermijn tot minder dan vier weken te verkorten dan wel te bepalen dat de vreemdeling Nederland (het grondgebied van de Unie) onmiddellijk moet verlaten. De Korpschef, dan wel de Commandant der KMar kan ingevolge [artikel 1.4 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) zelfstandig tot verkorting van de vertrektermijn besluiten. De vertrektermijn kan op grond van [artikel 62, tweede lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), worden verkort of onthouden indien: 
+Er kunnen zich omstandigheden voordoen, die het wenselijk maken om een kortere vertrektermijn te geven. Om die reden is in [artikel 62, tweede lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) de bevoegdheid van de Minister opgenomen om de vertrektermijn tot minder dan vier weken te verkorten dan wel te bepalen dat de vreemdeling Nederland (het grondgebied van de Unie) onmiddellijk moet verlaten. De Korpschef, dan wel de Commandant der KMar kan ingevolge [artikel 1.4 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) zelfstandig tot verkorting van de vertrektermijn besluiten. De vertrektermijn wordt op grond van [artikel 62, tweede lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onthouden indien: 
 
 * een risico bestaat dat de vreemdeling zich aan het toezicht zal onttrekken;  
 
 * de aanvraag van de vreemdeling tot het verlenen van een verblijfsvergunning of tot het verlengen van de geldigheidsduur van een verblijfsvergunning is afgewezen als kennelijk ongegrond of wegens het verstrekken van onjuiste of onvolledige gegevens; of  
 
-* de vreemdeling een gevaar vormt voor de openbare orde, de openbare veiligheid of de nationale veiligheid.   Als gevaar voor de openbare orde wordt hier aangemerkt iedere verdenking en veroordeling ter zake van een misdrijf. Om te kunnen spreken van gevaar voor de nationale veiligheid is geen strafrechtelijke veroordeling vereist. Wel dienen er concrete aanwijzingen te zijn dat de vreemdeling een gevaar vormt voor de nationale veiligheid. Bij het bestaan van concrete aanwijzingen dient in de eerste plaats te worden gedacht aan een ambtsbericht van de AIVD. In voorkomende gevallen kan echter ook worden uitgegaan van een ambtsbericht van onder andere de Dienst Nationale Recherche, ((inter)nationale) ministeries of inlichtingendiensten. Bij EU-/EER-onderdanen en Zwitserse onderdanen, alsmede de familieleden als bedoeld in [artikel 8.7, tweede, derde en vierde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), is verkorting of onthouding van de vertrektermijn alleen mogelijk in naar behoren aantoonbare dringende gevallen (zie [artikel 8.24, derde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) en A6/5.3.3.7). Hiervan is slechts sprake bij een actuele, werkelijke en genoegzaam ernstige bedreiging van de openbare orde (AbRS, 15 juli 2005, 200505057/1). De verkorting of onthouding van de vertrektermijn kan op twee manieren door de rechter worden beoordeeld: 
+* de vreemdeling een gevaar vormt voor de openbare orde, de openbare veiligheid of de nationale veiligheid.   Een risico dat de vreemdeling zich aan het toezicht zal onttrekken wordt op grond van [artikel 6.1, lid 1 en 2, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) aangenomen indien ten minste twee van de feiten of omstandigheden als bedoeld in [artikel 5.1b Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) op de vreemdeling van toepassing zijn. Echter, ook als twee of meer feiten of omstandigheden aanwezig zijn, zal niet zonder meer sprake zijn van een risico op onttrekken aan toezicht. Steeds is vereist dat nader wordt toegelicht waarom uit de geconstateerde feiten of omstandigheden kan worden afgeleid dat aannemelijk is dat dit risico zich voordoet. Dit is slechts anders als uit de aard van de betreffende feiten of omstandigheden reeds aanstonds van zodanig risico blijkt. Onverkort het gestelde in artikel 6.1, lid 2 Vb juncto [artikel 5.1b, lid 2, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) brengen de volgende feiten en omstandigheden naar hun aard aanstonds een risico op onttrekken aan toezicht met zich mee: 
+
+a. Nederland niet op voorgeschreven wijze binnenkomen en zich vervolgens in strijd met de vreemdelingenwetgeving gedurende enige tijd aan het toezicht onttrekken (artikel 5.1b, eerste lid, onder a, Vb);  
+
+b. Eerder een visum, besluit, kennisgeving of aanzegging hebben ontvangen waaruit de plicht Nederland te verlaten blijkt en daaraan niet uit eigen beweging binnen de daarin besloten of gestelde termijn gevolg hebben gegeven (artikel 5.1b, eerste lid, onder c, Vb);  
+
+c. Niet dan wel niet voldoende meewerken aan de vaststelling van identiteit en nationaliteit (artikel 5.1b, eerste lid, onder d, Vb);  
+
+d. In verband met de aanvraag om toelating onjuiste of tegenstrijdige gegevens hebben verstrekt met betrekking tot de identiteit of nationaliteit of de reis naar Nederland of een andere lidstaat (artikel 5.1b, eerste lid, onder f, Vb);  
+
+e. Zich zonder noodzaak hebben ontdaan van reis- of identiteitsdocumenten (artikel 5.1b, eerste lid, onder g, Vb);  
+
+f. In het Nederlandse rechtsverkeer gebruik hebben gemaakt van valse of vervalste documenten (artikel 5.1b, eerste lid, onder h, Vb);  
+
+g. Tot ongewenst vreemdeling zijn verklaard als bedoeld in [artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) dan wel onderworpen zijn aan een inreisverbod met toepassing van [artikel 66a, zevende lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) (artikel 5.1b, eerste lid, onder m, Vb) en niet onmiddellijk vertrokken na oplegging ervan terwijl daartoe wel gelegenheid bestond. Als na bekendmaking van het besluit tot ongewenstverklaring dan wel het besluit tot opleggen van een zwaar inreisverbod direct, op dezelfde dag, inbewaringstelling plaatsvindt, kan het niet onmiddellijk vertrekken uiteraard niet worden tegengeworpen.   Een risico op onttrekken aan toezicht zal niet worden aangenomen bij een eerste asielaanvraag, tenzij het een grensgeweigerde of een in bewaringgestelde vreemdeling betreft, de vreemdeling zich niet onverwijld heeft gemeld voor het indienen van een asielaanvraag of indien tegen de vreemdeling reeds eerder een terugkeerbesluit is uitgevaardigd. Bij de uitleg van voldoende middelen van bestaan als bedoeld in [artikel 5.1b, lid 1 onder j, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) wordt aangesloten bij de bestaande invulling van dit begrip in [artikel 3.74 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) en [Vc B1/4.3.3](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md). Van de mogelijkheid om de vertrektermijn te onthouden wegens kennelijke ongegrondheid van de verblijfsaanvraag wordt geen gebruik gemaakt, aangezien kennelijke ongegrondheid van de verblijfsaanvraag als afwijzingsgrond niet is beschreven in de nationale wetgeving. Als gevaar voor de openbare orde wordt hier aangemerkt iedere verdenking of veroordeling ter zake van een misdrijf. Ook het aanvaarden van een transactie ter zake van een misdrijf wordt aangemerkt als een gevaar voor de openbare orde. Een verdenking moet kunnen worden bevestigd door de Korpschef. Om te kunnen spreken van gevaar voor de nationale veiligheid is geen strafrechtelijke veroordeling vereist. Wel dienen er concrete aanwijzingen te zijn dat de vreemdeling een gevaar vormt voor de nationale veiligheid. Bij het bestaan van concrete aanwijzingen dient in de eerste plaats te worden gedacht aan een ambtsbericht van de AIVD. In voorkomende gevallen kan echter ook worden uitgegaan van een ambtsbericht van onder andere de Dienst Nationale Recherche, ((inter)nationale) ministeries of inlichtingendiensten. Bij EU-/EER-onderdanen en Zwitserse onderdanen, alsmede de familieleden als bedoeld in [artikel 8.7, tweede, derde en vierde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), is verkorting of onthouding van de vertrektermijn alleen mogelijk in naar behoren aantoonbare dringende gevallen (zie [artikel 8.24, derde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) en A6/5.3.3.7). Hiervan is slechts sprake bij een actuele, werkelijke en genoegzaam ernstige bedreiging van de openbare orde (AbRS, 15 juli 2005, 200505057/1). De verkorting of onthouding van de vertrektermijn kan op twee manieren door de rechter worden beoordeeld: 
 
 * indien de Minister de vertrektermijn tegelijk met de afwijzing van de aanvraag verkort of een vertrektermijn onthoudt, dan zal de rechter die kortere vertrektermijn, als onderdeel van het bij de meeromvattende beschikking horende terugkeerbesluit, kunnen beoordelen;  
 
-* indien de Minister pas na afloop van het beroep op de rechter de vertrektermijn verkort, dan wordt dit gezien als een verzoek om heroverweging van het eerdere terugkeerbesluit, waar ingevolge [artikel 75 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) beroep tegen open staat.   Het verkorten of onthouden van de vertrektermijn heeft overigens geen gevolg voor de termijn waarbinnen de vreemdeling bezwaar of beroep kan instellen. Deze termijn blijft in genoemde situaties in het algemeen vier weken, tenzij de aanvraag in de algemene asielprocedure wordt afgedaan, in welk geval de beroepstermijn een week bedraagt (zie [artikel 69, eerste en tweede lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)). De vreemdeling die reeds eerder een terugkeerbesluit heeft gehad en niet heeft voldaan aan de daaruit voortvloeiende terugkeerverplichting (inclusief vertrektermijn) krijgt op grond van [artikel 62a, eerste lid, en onder a, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in beginsel niet opnieuw een vertrektermijn. De gedachte hierachter is dat deze vreemdeling een eerder opgelegde vertrektermijn ongebruikt heeft laten verstrijken. Hiervan is bijvoorbeeld sprake bij een vreemdeling die een opvolgende aanvraag indient, terwijl niet gebleken is dat hij gehoor heeft gegeven aan een eerder opgelegd terugkeerbesluit met vertrektermijn. De vreemdeling ontvangt van de IND na afwijzing van de opvolgende aanvraag onder aanvulling van het genomen terugkeerbesluit in overeenstemming met A5/1 wel een inreisverbod  (zie [artikel 66a Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en zie A5/1).    
+* indien de Minister pas na afloop van het beroep op de rechter de vertrektermijn verkort, dan wordt dit gezien als heroverweging van het eerdere terugkeerbesluit, waar ingevolge [artikel 75 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) beroep tegen open staat.   Het verkorten of onthouden van de vertrektermijn heeft overigens geen gevolg voor de termijn waarbinnen de vreemdeling bezwaar of beroep kan instellen. Deze termijn blijft in genoemde situaties in het algemeen vier weken, tenzij de aanvraag in de algemene asielprocedure wordt afgedaan, in welk geval de beroepstermijn een week bedraagt (zie [artikel 69, eerste en tweede lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)). De vreemdeling die reeds eerder een terugkeerbesluit heeft gehad en niet heeft voldaan aan de daaruit voortvloeiende terugkeerverplichting (inclusief vertrektermijn) krijgt op grond van [artikel 62a, eerste lid, en onder a, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in beginsel niet opnieuw een vertrektermijn. De gedachte hierachter is dat deze vreemdeling een eerder opgelegde vertrektermijn ongebruikt heeft laten verstrijken. Hiervan is bijvoorbeeld sprake bij een vreemdeling die een opvolgende aanvraag indient, terwijl niet gebleken is dat hij gehoor heeft gegeven aan een eerder opgelegd terugkeerbesluit met vertrektermijn. Indien de aanvraag van de vreemdeling wordt afgewezen, wordt een nieuw terugkeerbesluit uitgevaardigd waarin de vertrektermijn wordt onthouden en een inreisverbod wordt opgelegd in overeenstemming met A5/1 (zie [artikel 66a Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en zie A5/1).    
 ### 3.4  
 
 ####Verlengen van de vrijwillige vertrektermijn
@@ -2649,7 +2758,7 @@ Een vreemdeling kan een verzoek in persoon indienen bij één van de loketten va
 
 ####Voorwaarden
 
-De voorwaarden voor het verlengen van de vrijwillige vertrektermijn staan beschreven in [artikel 6.3 VV](../../../../../ministeriele-regeling/voorschrift/vreemdelingen/2000/BWBR0012002/README.md). Het verlengen van de vrijwillige vertrektermijn is bedoeld voor de vreemdeling, die zijn terugkeermogelijkheid in de vrijwillige vertrektermijn heeft gerealiseerd, maar vanwege individuele omstandigheden tijdelijk nog niet kan vertrekken. De verlenging van de vrijwillige vertrektermijn zal daarom ook slechts voor beperkte duur plaatsvinden. Indien voorzienbaar is dat de reden voor het vragen van uitstel van het vertrek betrekking heeft op een langere tijd, volgt uit het systeem van de wet dat voor dat doel een verblijfsvergunning dient te worden aangevraagd. Om die reden kan in beginsel geen verlenging van de vertrektermijn voor meer dan drie maanden aan de orde zijn. Indien vertrek binnen de beoogde vertrektermijn niet voldoende verzekerd is, wordt het verzoek om een langere vertrektermijn afgewezen. De individuele omstandigheden kunnen gelegen zijn in de verblijfsduur, het feit dat er schoolgaande kinderen zijn, en het bestaan van andere gezinsbanden en sociale banden. Hierbij kan worden gedacht aan de begrafenis van een familielid of het vertrek tijdens schoolvakanties. Hierbij dient echter ook voldaan te worden aan het overigens gestelde in deze paragraaf. De vreemdeling dient (op korte termijn) te beschikken over documenten, waarmee hij daadwerkelijk Nederland uit kan reizen. De verlenging van de vrijwillige vertrektermijn is niet bedoeld om voor onbepaalde duur te werken aan het verkrijgen van reisdocumenten. Wanneer een (vervangend) reisdocument aanwezig is en de geldigheidsduur van het betreffende document beperkt is, zal de vertrektermijn in beginsel niet langer verlengd worden dan tot enkele dagen voor het aflopen van de geldigheid van dit (vervangende) reisdocument. Een vreemdeling komt in ieder geval niet in aanmerking voor verlenging van de vrijwillige vertrektermijn, indien hem geen termijn voor vrijwillig vertrek is toegestaan. De vertrektermijn wordt niet verlengd om redenen van medische aard. Indien er een medisch beletsel is om te vertrekken, wordt de procedure inzake [artikel 64 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) doorlopen. Tegen een besluit tot afwijzing van een verzoek om verlenging van de vrijwillige vertrektermijn staat op grond van [artikel 75 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) beroep bij de rechtbank open. Het indienen van een beroepschrift schort de vertrektermijn niet op. Ook een eventueel in te dienen verzoek om voorlopige voorziening schort de vertrektermijn niet op.       
+De voorwaarden voor het verlengen van de vrijwillige vertrektermijn staan beschreven in [artikel 6.3 VV](../../../../../ministeriele-regeling/voorschrift/vreemdelingen/2000/BWBR0012002/README.md). Het verlengen van de vrijwillige vertrektermijn is bedoeld voor de vreemdeling, die zijn terugkeermogelijkheid in de vrijwillige vertrektermijn heeft gerealiseerd, maar vanwege individuele omstandigheden tijdelijk nog niet kan vertrekken. De verlenging van de vrijwillige vertrektermijn zal daarom ook slechts voor beperkte duur plaatsvinden. Indien voorzienbaar is dat de reden voor het vragen van uitstel van het vertrek betrekking heeft op een langere tijd, volgt uit het systeem van de wet dat voor dat doel een verblijfsvergunning dient te worden aangevraagd. Om die reden kan in beginsel geen verlenging van de vertrektermijn voor meer dan drie maanden aan de orde zijn. Indien vertrek binnen de beoogde vertrektermijn niet voldoende verzekerd is, wordt het verzoek om een langere vertrektermijn afgewezen. De individuele omstandigheden kunnen gelegen zijn in de verblijfsduur, het feit dat er schoolgaande kinderen zijn en het bestaan van andere gezinsbanden en sociale banden. Hierbij kan worden gedacht aan de begrafenis van een familielid of het vertrek tijdens schoolvakanties. Hierbij dient echter ook voldaan te worden aan het overigens gestelde in deze paragraaf. De vreemdeling dient (op korte termijn) te beschikken over documenten, waarmee hij daadwerkelijk Nederland uit kan reizen. De verlenging van de vrijwillige vertrektermijn is niet bedoeld om voor onbepaalde duur te werken aan het verkrijgen van reisdocumenten. Wanneer een (vervangend) reisdocument aanwezig is en de geldigheidsduur van het betreffende document beperkt is, zal de vertrektermijn in beginsel niet langer verlengd worden dan tot enkele dagen voor het aflopen van de geldigheid van dit (vervangende) reisdocument. Een vreemdeling komt in ieder geval niet in aanmerking voor verlenging van de vrijwillige vertrektermijn, indien hem geen termijn voor vrijwillig vertrek is toegestaan. De vertrektermijn wordt niet verlengd om redenen van medische aard. Indien er een medisch beletsel is om te vertrekken, wordt de procedure inzake [artikel 64 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) doorlopen. Tegen een besluit tot afwijzing van een verzoek om verlenging van de vrijwillige vertrektermijn staat bezwaar open. Het indienen van een bezwaarschrift schort de vertrektermijn niet op. Ook een eventueel in te dienen verzoek om voorlopige voorziening schort de vertrektermijn niet op.       
 ### 4  
 
 ####Reisdocumenten
@@ -2992,7 +3101,7 @@ Een beroep op [artikel 64 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR00118
 
 ####Procedure voor opvang in afwachting van definitieve besluitvorming op een verzoek om toepassing van [artikel 64 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)
 
-Een uitgeprocedeerde asielzoeker kan in afwachting van een beslissing op een verzoek om toepassing van [artikel 64 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), rechtmatig verblijf op grond van [artikel 8, aanhef en onder j, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) krijgen, waardoor ingevolge de Rva recht op opvang ontstaat, indien door de vreemdeling, in afwijking van paragraaf 7.2.1.1, onderstaande procedure wordt gevolgd.  De vreemdeling neemt contact op met de IND over de te volgen procedure. De relevante medische gegevens van de vreemdeling worden, alvorens de aanvraag om toepassing van [artikel 64 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) wordt ingediend, in een gesloten envelop voorzien van een stempel of aantekening “medisch geheim”, door de vreemdeling of de medische behandelaar aangeleverd aan de IND. Deze gegevens worden samen met een recente volledige ingevulde en ondertekende toestemmingsverklaring (zie model M39-A), een recente verklaring omtrent de medische situatie van de vreemdeling, opgesteld door een behandelaar die, hetzij in het register van Beroepen in de Individuele Gezondheidszorg, hetzij in het register van het Nederlands Instituut van Psychologen is ingeschreven en een kopie van een geldig reis- en/of identiteitsdocument naar de IND gestuurd. De IND beoordeelt of de toestemmingsverklaring recent, volledig ingevuld en ondertekend is, of de vreemdeling momenteel actieve medische behandeling krijgt en of een kopie van een geldig reis- en/of identiteitsdocument aanwezig is. Met betrekking tot de compleetheid van de relevante medische gegevens beoordeelt de IND slechts of er een gesloten envelop van de behandelaar(s) gericht aan het BMA aanwezig is. De IND beoordeelt of de toestemmingsverklaring recent, volledig ingevuld en ondertekend is, of de vreemdeling momenteel actieve medische behandeling krijgt en of een geldig reis- en/of identiteitsdocument of, indien het voor de vreemdeling niet mogelijk is een geldig reis- en/of identiteitsdocument te overleggen, aanvullende gegevens en bescheiden omtrent zijn identiteit en nationaliteit aanwezig zijn. Met betrekking tot de compleetheid van de relevante medische gegevens beoordeelt de IND slechts of er een gesloten envelop van de behandelaar(s) gericht aan het BMA aanwezig is. Indien de IND de ontvangen stukken compleet beoordeeld, wordt de gesloten envelop met de medische gegevens naar het BMA gezonden. Tevens wordt de vreemdeling in de gelegenheid gesteld om ongeveer twee weken later een aanvraag om toepassing van [artikel 64 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in persoon in te dienen bij de IND.  Deze periode is nodig om te kunnen vaststellen of de overgelegde relevante *medische* gegevens compleet zijn en of, gelet hierop, wordt voldaan aan de voorwaarden om in aanmerking te komen voor opvang in afwachting van een beslissing op de aanvraag.    
+Een uitgeprocedeerde asielzoeker kan in afwachting van een beslissing op een verzoek om toepassing van [artikel 64 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), rechtmatig verblijf op grond van [artikel 8, aanhef en onder j, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) krijgen, waardoor ingevolge de Rva recht op opvang ontstaat, indien door de vreemdeling, in afwijking van paragraaf 7.2.1.1, onderstaande procedure wordt gevolgd. De vreemdeling neemt contact op met de IND over de te volgen procedure. De relevante medische gegevens van de vreemdeling worden, alvorens de aanvraag om toepassing van [artikel 64 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) wordt ingediend, in een gesloten envelop voorzien van een stempel of aantekening “medisch geheim”, door de vreemdeling of de medische behandelaar aangeleverd aan de IND. Deze gegevens worden samen met een recente volledige ingevulde en ondertekende toestemmingsverklaring (zie model M39-A), een recente verklaring omtrent de medische situatie van de vreemdeling, opgesteld door een behandelaar die, hetzij in het register van Beroepen in de Individuele Gezondheidszorg, hetzij in het register van het Nederlands Instituut van Psychologen is ingeschreven en een kopie van een geldig reis- en/of identiteitsdocument naar de IND gestuurd. De IND beoordeelt of de toestemmingsverklaring recent, volledig ingevuld en ondertekend is, of de vreemdeling momenteel actieve medische behandeling krijgt en of een geldig grensoverschrijdingsdocument of, indien het voor de vreemdeling niet mogelijk is een geldig grensoverschrijdingsdocument te overleggen, aanvullende gegevens en bescheiden omtrent zijn identiteit en nationaliteit aanwezig zijn. Met betrekking tot de compleetheid van de relevante medische gegevens beoordeelt de IND slechts of er een gesloten envelop van de behandelaar(s) gericht aan het BMA aanwezig is. Indien de IND de ontvangen stukken als compleet heeft beoordeeld, wordt de gesloten envelop met de medische gegevens naar het BMA gezonden. Tevens wordt de vreemdeling in de gelegenheid gesteld om ongeveer twee weken later een aanvraag om toepassing van [artikel 64 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in persoon in te dienen bij de IND. Pas op het moment dat de aanvraag formeel is ingediend gaat de beslistermijn, ingevolge de [Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), lopen. Deze periode is nodig om te kunnen vaststellen of de overgelegde relevante medische gegevens compleet zijn en of, gelet hierop, wordt voldaan aan de voorwaarden om in aanmerking te komen voor opvang in afwachting van een beslissing op de aanvraag.    
 ### 7.2.1.2  
 
 ####Medische aspecten parallel aan de asielprocedure
@@ -3122,20 +3231,20 @@ a. het inreisverbod ([artikel 66a Vw](../../../../../wet/vreemdelingenwet/2000/B
 
 b. de signalering tot ongewenst vreemdeling;  
 
-c. de ongewenstverklaring van de vreemdeling ([artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)).   Het inreisverbod wordt of kan worden opgelegd aan derdelanders, niet zijnde gemeenschapsonderdanen. Dit inreisverbod, dat tezamen met een terugkeerbesluit wordt opgelegd door de vreemdelingenpolitie, Koninklijke Marechaussee of de IND, wordt geregistreerd in het Schengen Informatie Systeem (SIS). Met de invoering van het inreisverbod zal de verklaring tot ongewenst vreemdeling nog zelden voorkomen. Dit is bijvoorbeeld nog wel mogelijk indien een vreemdeling de toegang is geweigerd. De ongewenstverklaring op grond van [artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) zal in beginsel beperkt blijven tot gemeenschapsonderdanen en vreemdelingen die niet in Nederland verblijven of aan wie de toegang is geweigerd. De signalering tot ongewenst vreemdeling is een uitvoeringsmaatregel die genomen wordt in het belang van de openbare orde of de nationale veiligheid. Deze signalering wordt toegepast ten aanzien van de vreemdeling aan wie geen inreisverbod ex [artikel 66a Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) kan worden opgelegd en op wie evenmin de maatregel ongewenstverklaring ex [artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) van toepassing is (zie A3/9.2.3)    
+c. de ongewenstverklaring van de vreemdeling ([artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)).   Het inreisverbod wordt of kan worden opgelegd aan derdelanders, niet zijnde gemeenschapsonderdanen. Dit inreisverbod, dat tezamen met een terugkeerbesluit wordt opgelegd door de Vreemdelingenpolitie, Koninklijke Marechaussee, ZHP of de IND, wordt geregistreerd in het Schengen Informatie Systeem (SIS). Met de invoering van het inreisverbod zal de verklaring tot ongewenst vreemdeling nog zelden voorkomen. Dit is bijvoorbeeld nog wel mogelijk indien een vreemdeling de toegang is geweigerd. De ongewenstverklaring op grond van [artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) zal in beginsel beperkt blijven tot gemeenschapsonderdanen en vreemdelingen die niet in Nederland verblijven of aan wie de toegang is geweigerd. De signalering tot ongewenst vreemdeling is een uitvoeringsmaatregel die genomen wordt in het belang van de openbare orde of de nationale veiligheid. Deze signalering wordt toegepast ten aanzien van de vreemdeling aan wie geen inreisverbod ex [artikel 66a Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) kan worden opgelegd en op wie evenmin de maatregel ongewenstverklaring ex [artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) van toepassing is (zie A3/9.2.3)    
 ### 2  
 
-####Het inreisverbod ([artikel 66a](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md))
+####Het inreisverbod ([artikel 66a Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md))
 
 ### 2.1  
 
 ####Voorwaarden
 
-De gronden waarop een inreisverbod kan worden opgelegd staan vermeld in [artikel 66a, eerste en tweede lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). Op grond van [artikel 66a, eerste lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) krijgt een vreemdeling een inreisverbod indien: 
+De gronden waarop een inreisverbod kan worden opgelegd staan vermeld in [artikel 66a, eerste en tweede lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). Op grond van artikel 66a, eerste lid, Vw krijgt een vreemdeling een inreisverbod indien: 
 
 * hij Nederland onmiddellijk moet verlaten op grond van [artikel 62, tweede lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
 
-* hij Nederland niet binnen de hem opgelegde vertrektermijn uit eigen beweging heeft verlaten.   De gronden uit [artikel 66a Vw, eerste lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zijn imperatief. Op grond van artikel 66a, achtste lid Vw is het echter mogelijk om vanwege humanitaire of andere redenen af te zien van het uitvaardigen van een inreisverbod. Daarnaast kan op grond van [artikel 66a, tweede lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) een inreisverbod worden opgelegd aan de vreemdeling, niet zijnde een gemeenschapsonderdaan, die Nederland niet onmiddellijk moet verlaten. Hierbij kan gedacht worden aan een vreemdeling die een gevaar is voor de openbare orde, openbare veiligheid of nationale veiligheid, indien er redenen bestaan om in een dergelijk geval de vreemdeling – in afwijking van [artikel 62, tweede lid, onder c Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) – een vertrektermijn te gunnen. De in [artikel 66a, tweede lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) neergelegde bevoegdheid wordt toegepast overeenkomstig het beleid zoals dat geldt ten aanzien van de ongewenstverklaring (paragraaf A5/10 Vc). De gronden die in [artikel 66a, zevende lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) worden genoemd voor het opleggen van een inreisverbod zijn vrijwel gelijk aan de gronden die in [artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) zijn neergelegd om tot ongewenstverklaring over te gaan. Ten aanzien van de a-grond van artikel 67 Vw geldt dat overeenkomstig het geldende beleid voor de ongewenstverklaring in een dergelijke situatie ook een inreisverbod wordt opgelegd. De vreemdeling aan wie een inreisverbod is opgelegd, wordt gesignaleerd in (N)SIS (zie A3/9).    
+* hij Nederland niet binnen de hem opgelegde vertrektermijn uit eigen beweging heeft verlaten.   De gronden uit [artikel 66a, eerste lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) zijn imperatief. Op grond van artikel 66a, achtste lid, Vw is het echter mogelijk om vanwege humanitaire of andere redenen af te zien van het uitvaardigen van een inreisverbod. Daarnaast kan op grond van artikel 66a, tweede lid, Vw een inreisverbod worden opgelegd aan de vreemdeling, niet zijnde een gemeenschapsonderdaan, die Nederland niet onmiddellijk moet verlaten. Hierbij kan gedacht worden aan een vreemdeling die een gevaar is voor de openbare orde, openbare veiligheid of nationale veiligheid, indien er redenen bestaan om in een dergelijk geval de vreemdeling – in afwijking van [artikel 62, tweede lid, onder c Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) – een vertrektermijn te gunnen dan wel indien er redenen bestaan (de ratio van) [artikel 64 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) op hem van toepassing te achten.    
 ### 2.2  
 
 ####Geen rechtmatig verblijf
@@ -3146,7 +3255,10 @@ Op grond van [artikel 66a, zesde lid, Vw](../../../../../wet/vreemdelingenwet/20
 
 * de situatie waarin het, gelet op de gezondheidstoestand van de vreemdeling of die van een van zijn gezinsleden niet verantwoord is om te reizen, bedoeld in [artikel 64](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
 
-* indien de uitzetting van de vreemdeling op grond van een rechterlijke beslissing achterwege dient te blijven totdat op het bezwaarschrift of beroepschrift is beslist   Door middel van [artikel 66a, zevende lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) wordt gewaarborgd dat de rechtsgevolgen van het inreisverbod voor het rechtmatig verblijf vergelijkbaar zijn met de gevolgen voor het rechtmatig verblijf in geval de vreemdeling ongewenst (ex [art. 67 VW2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)) zou zijn verklaard. Voor het overige is gewaarborgd dat het inreisverbod in vergelijkbare gevallen kan worden gegeven als waarin een ongewenstverklaring kan worden gegeven, doordat in het zevende lid de gronden voor de ongewenstverklaring, beschreven in artikel 67, eerste lid, onder b tot en met e, zijn overgenomen in artikel 66a, zevende lid, onderdelen a tot en met d. Het inreisverbod betekent dus dat behoudens genoemde uitzonderingen [artikel 8 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) niet van toepassing is. Dit heeft tot gevolg dat deze vreemdelingen – zolang het inreisverbod van kracht blijft – niet gedurende de ‘vrije termijn’ in Nederland mogen verblijven en geen andere titel tot verblijf kunnen verkrijgen. Dit betekent ook dat in het kader van de grensbewaking aan deze vreemdelingen de toegang tot het grondgebied zal worden geweigerd. Evenmin is het hun toegestaan de behandeling van een aanvraag in Nederland af te wachten.    
+* indien de uitzetting van de vreemdeling op grond van een rechterlijke beslissing achterwege dient te blijven totdat op het bezwaarschrift of beroepschrift is beslist.   Door middel van [artikel 66a, zevende lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) wordt gewaarborgd dat de rechtsgevolgen van het inreisverbod voor het rechtmatig verblijf vergelijkbaar zijn met de gevolgen voor het rechtmatig verblijf in geval de vreemdeling ongewenst (ex [art. 67 Vw 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)) zou zijn verklaard. Voor het overige is gewaarborgd dat het inreisverbod in vergelijkbare gevallen kan worden gegeven als waarin een ongewenstverklaring kan worden gegeven, doordat in het zevende lid de gronden voor de ongewenstverklaring, beschreven in artikel 67, eerste lid, onder b tot en met e, zijn overgenomen in artikel 66a, zevende lid, onderdelen a tot en met d. Ten aanzien van artikel 67, eerste lid, onder a, Vw geldt dat overeenkomstig het geldende beleid voor de ongewenstverklaring in een dergelijke situatie ook een inreisverbod wordt opgelegd. Voor een uitleg bij de onderdelen a, b en d van artikel 66a, zevende lid, Vw wordt verwezen naar A5/10.2 ad b tot en met e. Het inreisverbod betekent dus dat behoudens genoemde uitzonderingen [artikel 8 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) niet van toepassing is. Dit heeft tot gevolg dat deze vreemdelingen – zolang het inreisverbod van kracht blijft – niet gedurende de ‘vrije termijn’ in Nederland mogen verblijven. Dit betekent ook dat in het kader van de grensbewaking aan deze vreemdelingen de toegang tot het grondgebied zal worden geweigerd. Evenmin is het hun toegestaan de behandeling van een reguliere aanvraag in Nederland af te wachten. 
+###Belang bij verblijfsprocedures
+
+Vreemdelingen jegens wie een inreisverbod geldt en op wie [artikel 66a, zevende lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) niet van toepassing is, kunnen een verblijfsaanvraag indienen die verband houdt met een verblijfsdoel dat wordt genoemd in [artikel. 6.5, tweede lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md). Dit geldt ook verblijfsaanvragen voor gezinshereniging/-vorming en medische behandeling. Indien aan alle voorwaarden voor verblijf wordt voldaan, bestaat aanleiding het inreisverbod op te heffen. Ten aanzien van een asielaanvraag geldt dat deze in alle gevallen inhoudelijk wordt beoordeeld en dat bij het voldoen aan de voorwaarden opheffing van het inreisverbod plaats vindt. De vreemdeling aan wie een inreisverbod is opgelegd, wordt gesignaleerd in (N)SIS (zie A3/9).    
 ### 2.3  
 
 ####Strafbaarheid
@@ -3160,9 +3272,9 @@ Op grond van [artikel 66a, eerste lid, Vw](../../../../../wet/vreemdelingenwet/2
 
 * de vreemdeling onderwerp is van de Dublin-verordening (claim uit-procedure);  
 
-* de vreemdeling in het bezit is van een verblijfsvergunning afgegeven door een andere lidstaat. Enkel indien de andere lidstaat er na consultatie via SIRENE mee instemt de verblijfsvergunning in te trekken, kan aan de vreemdeling een terugkeerbesluit en inreisverbod worden opgelegd. De vreemdeling dient vervolgens terug te keren naar zijn land van herkomst, buiten de Europese Unie;  
+* de vreemdeling in het bezit is van een verblijfsvergunning afgegeven door een andere lidstaat. Enkel indien de andere lidstaat er na consultatie via SIRENE mee instemt de verblijfsvergunning in te trekken, kan aan de vreemdeling een inreisverbod worden opgelegd;  
 
-* de vreemdeling niet in Nederland verblijft.   Een inreisverbod kan wel uitgevaardigd worden bij uitreis uit Nederland. Verder wordt geen inreisverbod uitgevaardigd in de situatie als beschreven in [artikel 6.5, lid 1 of 2 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), tenzij de vreemdeling een gevaar vormt voor de openbare orde, de openbare veiligheid of de nationale veiligheid. Als de vreemdeling in bovengenoemde situaties al eerder een inreisverbod is opgelegd, dan wordt dit inreisverbod inclusief de signalering opgeheven.    
+* de vreemdeling niet in Nederland verblijft, tenzij het voornemen om een inreisverbod op te leggen kenbaar is gemaakt voordat de vreemdeling Nederland heeft verlaten.   Een inreisverbod kan wel uitgevaardigd worden bij uitreis uit Nederland. Verder wordt geen inreisverbod uitgevaardigd in de situatie als beschreven in [artikel 6.5, eerste of tweede lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), tenzij de vreemdeling een gevaar vormt voor de openbare orde, de openbare veiligheid of de nationale veiligheid. Een opgelegd inreisverbod staat niet in de weg aan inhoudelijke beoordeling van de asielaanvraag (zie A5/2.2). Beoordeling van asielgerelateerde aspecten, waaronder artikel 3 EVRM, vindt dan ook niet plaats in het kader van het inreisverbod. Dit uitgangspunt lijdt uitzondering indien de openbare orde aspecten die aan de vreemdeling worden tegengeworpen, zouden leiden tot weigering van de asielvergunning (zie [C4/3.11](../../../../../circulaire/vreemdelingencirculaire/2000/(c)/BWBR0012288/README.md)). In dat geval kan inhoudelijke beoordeling van de asielaanvraag immers niet leiden tot vergunningverlening, zodat het in de rede ligt de aanspraken op vluchtelingschap of artikel 3 EVRM bij de beoordeling van het inreisverbod te betrekken. Toetsing vindt plaats overeenkomstig A5/10.4.4. Ook wordt geen inreisverbod uitgevaardigd, indien het uitvaardigen van een inreisverbod een schending van artikel 8 EVRM betekent. Dit betekent dat bij het uitvaardigen van een inreisverbod rekening gehouden moet worden met artikel 8 EVRM aspecten (zie [B2/10 Vc2000](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md)). Als de vreemdeling in bovengenoemde situaties al eerder een inreisverbod is opgelegd, dan wordt dit inreisverbod inclusief de signalering opgeheven.    
 ### 4  
 
 ####Inreisverbod niet zonder terugkeerbesluit
@@ -3172,7 +3284,7 @@ Op grond van [artikel 62a, tweede lid, Vw](../../../../../wet/vreemdelingenwet/2
 
 ####Duur van het inreisverbod
 
-Op grond van [artikel 66a, vierde lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), bedraagt de duur van een inreisverbod niet langer dan vijf jaren, tenzij het inreisverbod is gegeven op grond dat de vreemdeling naar het oordeel van de minister voor Immigratie, Integratie en Asiel een ernstige bedreiging vormt van de openbare orde, openbare veiligheid of nationale veiligheid. Om te voldoen aan de verplichting die is neergelegd in de Richtlijn Terugkeer om de duur te bepalen volgens alle relevante omstandigheden van het individuele geval is in [artikel 6.5a Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) opgenomen dat de duur niet meer mag bedragen dan de daar vermelde maximumduur, die afhankelijk is van de reden waarom het inreisverbod wordt opgelegd. De maximale duur van het inreisverbod is afhankelijk van het bepaalde in [artikel 6.5a Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md). In dit artikel is reeds verdisconteerd de ernst van de aanleiding om tot het opleggen van een inreisverbod over te gaan. Om die reden wordt, behoudens door de vreemdeling aangevoerde en nader onderbouwde bijzondere individuele omstandigheden, de maximale duur opgelegd zoals die in de verschillende onderdelen van artikel 6.5a Vb staan genoemd.    
+Op grond van [artikel 66a, vierde lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), bedraagt de duur van een inreisverbod niet langer dan vijf jaren, tenzij het inreisverbod is gegeven op grond dat de vreemdeling naar het oordeel van de Minister voor Immigratie, Integratie en Asiel een ernstige bedreiging vormt van de openbare orde, openbare veiligheid of nationale veiligheid. Om te voldoen aan de verplichting die is neergelegd in de Terugkeerrichtlijn om de duur te bepalen volgens alle relevante omstandigheden van het individuele geval, is in [artikel 6.5a Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) opgenomen dat de duur niet meer mag bedragen dan de daar vermelde maximumduur. De maximum duur is afhankelijk is van de reden waarom het inreisverbod wordt opgelegd. De maximale duur van het inreisverbod is afhankelijk van het bepaalde in [artikel 6.5a Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md). In dit artikel is reeds verdisconteerd de ernst van de aanleiding om tot het opleggen van een inreisverbod over te gaan. Om die reden wordt, behoudens door de vreemdeling aangevoerde en nader onderbouwde bijzondere individuele omstandigheden, de maximale duur opgelegd zoals die in de verschillende onderdelen van artikel 6.5a Vb staan genoemd. Met de vrijheidsstraf zoals bedoeld in [artikel 6.5a Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), wordt een onvoorwaardelijke vrijheidsstraf bedoeld. Bij het bepalen van de duur van het inreisverbod worden de verschillende vrijheidsstraffen bij elkaar opgeteld. Volgens [artikel 6.5a, vierde lid, onder c, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) bedraagt de duur van het inreisverbod ten hoogte vijf jaren indien het een vreemdeling betreft die reeds het onderwerp is geweest van meer dan één terugkeerbesluit. Van deze mogelijkheid wordt pas bij het uitvaardigen van een derde terugkeerbesluit gebruik gemaakt. Volgens [artikel 6.5a, lid 4, aanhef en onder d, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) bedraagt de duur van het inreisverbod ten hoogste vijf jaren indien de vreemdeling zich op het grondgebied van Nederland heeft begeven terwijl een inreisverbod van kracht was. Dit houdt in dat, indien een vreemdeling Nederland en daarmee de EU (met uitzondering van VK en Ierland), EER en Zwitserland niet heeft verlaten, en zich dus in weerwil van het inreisverbod op het grondgebied bevindt, de duur van het inreisverbod wordt verhoogd naar vijf jaren. Ook betekent dit dat indien een vreemdeling Nederland en daarmee de EU (met uitzondering van VK en Ierland), EER en Zwitserland wél heeft verlaten, maar zich vervolgens wederom op het grondgebied bevindt terwijl een inreisverbod van kracht is, de duur van het inreisverbod tevens wordt verhoogd naar vijf jaren.    
 ### 6  
 
 ####Procedurele aspecten
@@ -3230,7 +3342,7 @@ Het inreisverbod wordt per beschikking uitgevaardigd. In de beschikking moet naa
 
 ####Uitreiking van de beschikking
 
-Zie voor de toepasselijke algemene regels voor het uitreiken van beschikkingen [B1/9.7.7](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md). Het origineel van de beschikking wordt aan de vreemdeling in persoon uitgereikt. Van deze uitreiking wordt een proces-verbaal opgemaakt. Bij de uitreiking van (het afschrift van) de beschikking wordt voor de betrokkene in begrijpelijke taal uitleg gegeven met betrekking tot de gevolgen van het inreisverbod en het overtreden ervan    
+Zie voor de toepasselijke algemene regels voor het uitreiken van beschikkingen [B1/9.7.7.1](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md).    
 ### 6.3.5  
 
 ####Verzoek signalering in (N)SIS
@@ -3259,7 +3371,7 @@ Op het voorstel van de vreemdelingenpolitie, ZHP of KMar maakt de IND een beschi
 
 ####Uitreiking van de beschikking
 
-Zie voor de toepasselijke algemene regels voor het uitreiken van beschikkingen [B1/9.7.7](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md). Het origineel van deze beschikking wordt aan de vreemdeling in persoon uitgereikt door de vreemdelingenpolitie, ZHP of de KMar. Van deze uitreiking wordt door de vreemdelingenpolitie, ZHP of de KMar een proces-verbaal opgemaakt. Bij de uitreiking van (het afschrift van) de beschikking wordt voor de betrokkene in begrijpelijke taal uitleg gegeven met betrekking tot de gevolgen van het inreisverbod en het overtreden ervan. Dezelfde dag wordt een afschrift van de beschikking gezonden aan de gemachtigde, zo er een gemachtigde is. Kan uitreiking van de beschikking aan de vreemdeling in persoon niet plaatsvinden, dan wordt deze per aangetekende brief gezonden aan zijn laatst bekende adres, wordt een afschrift aan de gemachtigde gezonden, zo die er is, en vindt tevens mededeling van de beschikking in de Stcrt plaats (zie [artikel 66a, vijfde lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)). Indien uitreiking van de beschikking aan de vreemdeling in persoon niet kan plaatsvinden en bekend is dat de vreemdeling niet langer op het laatst bekende adres woont, wordt de beschikking aan de in Nederland kantoor houdende gemachtigde gezonden, zo die er is en wordt van de beschikking mededeling gedaan in de Stcrt. Indien zodanige gemachtigde er niet is, niet bekend is, of stelt niet of niet langer gemachtigde te zijn, wordt volstaan met de bekendmaking van de beschikking door mededeling ervan in de Stcrt.    
+Zie voor de toepasselijke algemene regels voor het uitreiken van beschikkingen [B1/9.7.7.1](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md).    
 ### 6.4.5  
 
 ####Signalering in het (N)SIS
@@ -3277,17 +3389,17 @@ Naast een inreisverbod op voorstel van de vreemdelingenpolitie, ZHP of KMar, kan
 
 * de aan de vreemdeling opgelegde vertrektermijn wordt onthouden en is bepaald dat de vreemdeling onmiddellijk moet vertrekken; of  
 
-* indien bij de meeromvattende beschikking is gebleken dat de vreemdeling zich niet heeft gehouden aan een hem eerder opgelegd terugkeerbesluit, inclusief vertrektermijn.   De IND draagt er dan wel zorg voor toepassing te geven aan hetgeen gesteld is in paragraaf 6.4.2. Indien overwogen wordt om een inreisverbod te geven bij de afwijzing van een asielaanvraag, dan kan het voornemen tot het geven van een inreisverbod worden meegenomen in de voornemenprocedure.    
+* indien bij de meeromvattende beschikking is gebleken dat de vreemdeling zich niet heeft gehouden aan een hem eerder opgelegd terugkeerbesluit, inclusief vertrektermijn.   Indien de omstandigheden hiertoe aanleiding geven, kan een reeds uitgevaardigd inreisverbod met de rechtsgevolgen van [artikel 66a, zesde lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) door een ambtenaar van de IND die hiertoe bevoegd is bij beschikking worden opgeheven en vervangen door een inreisverbod met de rechtsgevolgen van artikel 66a, zevende lid, Vw. De IND draagt er dan wel zorg voor toepassing te geven aan hetgeen gesteld is in paragraaf 6.4.2. Indien overwogen wordt om een inreisverbod te geven bij de afwijzing van een asielaanvraag, dan kan het voornemen tot het geven van een inreisverbod worden meegenomen in de voornemenprocedure.    
 ### 6.5.2  
 
 ####De beschikking en de uitreiking van de beschikking
 
-Paragrafen 6.4.3, 6.4.4 en 6.4.5. zijn van overeenkomstige toepassing. In aanvulling op paragraaf 6.4.4 kan ook de IND het origineel van de beschikking in persoon aan de vreemdeling uitreiken. Bij de uitreiking van (het afschrift van) de beschikking wordt voor de betrokkene in begrijpelijke taal uitleg gegeven met betrekking tot de gevolgen van het inreisverbod en het overtreden ervan. Dezelfde dag wordt een afschrift van de beschikking gezonden aan de gemachtigde, zo er een gemachtigde is. Kan uitreiking van de beschikking aan de vreemdeling in persoon niet plaatsvinden, dan wordt deze per aangetekende brief gezonden aan zijn laatst bekende adres, wordt een afschrift aan de gemachtigde gezonden, zo die er is, en vindt tevens mededeling van de beschikking in de Stcrt plaats (zie [artikel 66a, vijfde lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)). Indien uitreiking van de beschikking aan de vreemdeling in persoon niet kan plaatsvinden en bekend is dat de vreemdeling niet langer op het laatst bekende adres woont, wordt de beschikking aan de in Nederland kantoor houdende gemachtigde gezonden, zo die er is en wordt van de beschikking mededeling gedaan in de Stcrt. Indien zodanige gemachtigde er niet is, niet bekend is, of stelt niet of niet langer gemachtigde te zijn, wordt volstaan met de bekendmaking van de beschikking door mededeling ervan in de Stcrt.     
+Zie voor de toepasselijke algemene regels voor het uitreiken van beschikkingen [B1/9.7.7.1](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md).     
 ### 6.6  
 
 ####Bezwaar en beroep
 
-Op grond van [artikel 75 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) staat tegen een terugkeerbesluit dat wordt aangevuld met een inreisverbod beroep open bij de rechtbank ’s-Gravenhage (de vreemdelingenkamer). Indien het inreisverbod deel uitmaakt van een meeromvattende beschikking in een toelatingsprocedure wordt de bezwaar- en/of beroepsmogelijkheid gevolgd van de hoofdprocedure. Het indienen van een bezwaarschrift of beroepschrift leidt er niet toe dat de werking van de beschikking hangende de behandeling van het bezwaar of beroepsschrift wordt opgeschort. De beschikking heeft dus onmiddellijke werking (zie [artikel 6:16 Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)).    
+Op grond van [artikel 75, onder c, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) staat tegen een terugkeerbesluit dat wordt aangevuld met een inreisverbod beroep open bij de rechtbank ’s-Gravenhage (de vreemdelingenkamer). Het indienen van een beroepschrift leidt er niet toe dat de werking van de beschikking hangende de behandeling van het beroepsschrift wordt opgeschort. De beschikking heeft dus onmiddellijke werking (zie [artikel 6:16 Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)). Indien het inreisverbod deel uitmaakt van een meeromvattende beschikking in een toelatingsprocedure wordt de bezwaar- en/of beroepsmogelijkheid gevolgd van de hoofdprocedure.    
 ### 6.7  
 
 ####Stellen van aantekeningen
@@ -3311,7 +3423,7 @@ Een opgelegde maatregel tot plaatsing in een psychiatrisch ziekenhuis (zie [arti
 
 ####Algemeen
 
-Ingevolge [artikel 66b, eerste lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) kan ambtshalve dan wel op aanvraag worden beslist tot opheffing of tijdelijke opheffing van het inreisverbod. De redenen voor een mogelijke opheffing staan beschreven in [artikel 6.5b Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md). Daarnaast worden ook in [artikel 6.5, tweede lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) redenen genoemd, die tot intrekking van een inreisverbod kunnen leiden.    
+Ingevolge [artikel 66b, eerste lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) kan ambtshalve dan wel op aanvraag worden beslist tot opheffing of tijdelijke opheffing van het inreisverbod. De redenen voor een mogelijke opheffing staan beschreven in [artikel 6.5b Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md). Daarnaast worden ook in [artikel 6.5, tweede lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) redenen genoemd, die tot opheffen van een inreisverbod kunnen leiden.    
 ### 7.2  
 
 ####De vorm van de aanvraag
@@ -3340,7 +3452,7 @@ Een verzoek om opheffing van een inreisverbod dat is gegeven op grond van een er
 
 ####De beslissing op de aanvraag en de signalering
 
-De IND beslist op een aanvraag om opheffing van het inreisverbod. Indien de aanvraag niet wordt ingewilligd kan de vreemdeling of zijn gemachtigde hiertegen beroep instellen bij de rechtbank. Indien de aanvraag wordt ingewilligd, wordt de signalering uit de systemen verwijderd (zie A3/9.2).     
+De IND beslist op een aanvraag om opheffing van het inreisverbod. Indien de aanvraag niet wordt ingewilligd kan de vreemdeling of zijn gemachtigde hiertegen beroep instellen bij de rechtbank. Aangezien een wettelijke beslistermijn ontbreekt, wordt een beschikking op een aanvraag om opheffing van het inreisverbod binnen een redelijke termijn gegeven. Deze termijn wordt gesteld op acht weken. Indien een beschikking niet binnen acht weken kan worden gegeven, deelt de IND dit binnen deze termijn aan de aanvrager mede en noemt de IND een termijn waarbinnen de beslissing alsnog tegemoet kan worden gezien. Verwezen wordt naar [art. 4:13-4:15 Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). Indien de aanvraag wordt ingewilligd, wordt de signalering uit de systemen verwijderd (zie A3/9.2).     
 ### 8  
 
 ####Tijdelijke opheffing van het inreisverbod
@@ -3364,7 +3476,7 @@ Onderstaande paragraaf is van toepassing op die vreemdelingen, aan wie op grond 
 
 ####Inleiding
 
-De ongewenstverklaring betreft een administratieve maatregel die ten doel heeft bepaalde vreemdelingen, aan wie het niet of niet langer is toegestaan in Nederland te verblijven, uit ons land te weren. Door de ongewenstverklaring wordt het verblijf in en illegale terugkeer naar Nederland van de vreemdeling strafbaar. Een vreemdeling die in Nederland verblijft, terwijl hij weet of ernstige redenen heeft om te vermoeden dat hij tot ongewenste vreemdeling is verklaard, maakt zich schuldig aan een misdrijf (zie [artikel 197 WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)). De ongewenstverklaring betekent tevens dat [artikel 8 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) niet van toepassing is. Dit heeft tot gevolg dat deze vreemdelingen – zolang de ongewenstverklaring van kracht blijft – niet gedurende de ‘vrije termijn’ in Nederland mogen verblijven en geen andere titel tot verblijf kunnen verkrijgen. Dit betekent tevens dat in het kader van de grensbewaking aan deze vreemdelingen de toegang tot het grondgebied zal worden geweigerd. Evenmin is het hun toegestaan de behandeling van een aanvraag in Nederland af te wachten. Tevens kan naar aanleiding van de ongewenstverklaring, de vreemdeling als ongewenst worden gesignaleerd in het OPS of (N)SIS (zie A3/9).    
+De ongewenstverklaring betreft een administratieve maatregel die ten doel heeft bepaalde vreemdelingen, aan wie het niet of niet langer is toegestaan in Nederland te verblijven, uit ons land te weren. Door de ongewenstverklaring wordt het verblijf in en illegale terugkeer naar Nederland van de vreemdeling strafbaar. Een vreemdeling die in Nederland verblijft, terwijl hij weet of ernstige redenen heeft om te vermoeden dat hij tot ongewenste vreemdeling is verklaard, maakt zich schuldig aan een misdrijf (zie [artikel 197 WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)). De ongewenstverklaring betekent tevens dat [artikel 8 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) niet van toepassing is. Dit heeft tot gevolg dat deze vreemdelingen – zolang de ongewenstverklaring van kracht blijft – niet gedurende de ‘vrije termijn’ in Nederland mogen verblijven en geen andere titel tot verblijf kunnen verkrijgen. Dit betekent tevens dat in het kader van de grensbewaking aan deze vreemdelingen de toegang tot het grondgebied zal worden geweigerd. Evenmin is het hun toegestaan de behandeling van een aanvraag in Nederland af te wachten. Tevens kan naar aanleiding van de ongewenstverklaring, de vreemdeling als ongewenst worden gesignaleerd in het OPS of (N)SIS (zie A3/9). In weerwil van hetgeen in [artikel 67, derde lid Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is bepaald, heeft een vreemdeling die ongewenst is verklaard rechtmatig verblijf indien hij een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 28 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) heeft ingediend (of te kennen heeft gegeven een dergelijke aanvraag in te willen dienen) zolang op die aanvraag nog niet is beslist.    
 ### 10.2  
 
 ####Gronden voor ongewenstverklaring
@@ -3428,7 +3540,7 @@ Overeenkomstig [artikel 4:7](../../../../../wet/algemene/wet/bestuursrecht/BWBR0
 
 ####uitreiking van de beschikking
 
-Zie voor de toepasselijke algemene regels voor het uitreiken van beschikkingen [B1/9.7.7](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md). Het origineel van deze beschikking wordt aan de vreemdeling in persoon uitgereikt door de vreemdelingenpolitie of de KMar. Van deze uitreiking wordt door de vreemdelingenpolitie of de KMar een proces-verbaal opgemaakt. Bij de uitreiking van (het afschrift van) de beschikking wordt door de vreemdelingenpolitie of de KMar tevens een brochure in een voor de betrokkene begrijpelijke taal met betrekking tot de ongewenstverklaring ex [artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) verstrekt. Dezelfde dag wordt een afschrift van de beschikking gezonden aan de gemachtigde, zo er een gemachtigde is. Kan uitreiking van de beschikking aan de vreemdeling in persoon niet plaatsvinden, dan wordt deze – met de brochure– per aangetekende brief gezonden aan zijn laatst bekende adres, wordt afschrift aan de gemachtigde gezonden, zo die er is, en vindt tevens publicatie van de beschikking in de Stcrt. plaats (zie [artikel 67, tweede lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)). Indien uitreiking van de beschikking aan de vreemdeling in persoon niet kan plaatsvinden en bekend is dat de vreemdeling niet langer op het laatst bekende adres woont, wordt de beschikking – met de brochure – aan de in Nederland kantoor houdende gemachtigde gezonden, zo die er is en wordt van de beschikking mededeling gedaan in de Stcrt. Indien zodanige gemachtigde er niet is, niet bekend is, of stelt niet of niet langer gemachtigde te zijn, wordt volstaan met de bekendmaking van de beschikking door mededeling ervan in de Stcrt.    
+Zie voor de toepasselijke algemene regels voor het uitreiken van beschikkingen [B1/9.7.7.1](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md).    
 ### 10.3.4  
 
 ####Bezwaar en beroep

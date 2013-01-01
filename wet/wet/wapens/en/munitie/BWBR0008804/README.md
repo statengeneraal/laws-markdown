@@ -18,7 +18,7 @@ In deze wet wordt verstaan onder:
 
 1°. Onze Minister: Onze Minister van Veiligheid en Justitie;  
 
-2°. de korpschef: de korpschef, bedoeld in [artikel 24 van de Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+2°. de korpschef: de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
 3°. vuurwapen: een voorwerp bestemd of geschikt om projectielen of stoffen door een loop af te schieten, waarvan de werking berust op het teweegbrengen van een scheikundige ontploffing of een andere scheikundige reactie;  
 
@@ -123,7 +123,7 @@ c. waarvan de ligplaats van de patronen en de gasuitlaat loodrecht staan op de l
 ### Artikel  3a  
 
 1.  De artikelen 9, eerste lid, 13, eerste lid, 14, eerste lid, 22, eerste lid, 26, eerste lid, 27, eerste lid, 32a, eerste lid, en 32b, eerste lid, zijn niet van toepassing op de krijgsmacht. Zij zijn evenmin van toepassing op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, voor zover Onze Minister van Defensie dit bij regeling heeft bepaald.   
-2.  De artikelen 9, eerste lid, 13, eerste lid, 14, eerste lid, 22, eerste lid, 26, eerste lid, 27, eerste lid, 32a, eerste lid, en 32b, eerste lid, zijn niet van toepassing op de politie. Zij zijn evenmin van toepassing op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, voor zover Onze Minister en Onze Minister van Binnenlandse Zaken dit bij regeling hebben bepaald.   
+2.  De artikelen 9, eerste lid, 13, eerste lid, 14, eerste lid, 22, eerste lid, 26, eerste lid, 27, eerste lid, 32a, eerste lid, en 32b, eerste lid, zijn niet van toepassing op de politie. Zij zijn evenmin van toepassing op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, voor zover Onze Minister dit bij regeling heeft bepaald.   
 3.  De artikelen 13, eerste lid, 14, eerste lid, 22, eerste lid, 26, eerste lid, 27, eerste lid, 32a, eerste lid, en 32b, eerste lid, zijn niet van toepassing op de overige openbare dienst en op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, daaronder begrepen opsporingsambtenaren van de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](../../../../../../wet/wet/op/de/bijzondere/opsporingsdiensten/BWBR0019919/README.md) en buitengewone opsporingsambtenaren, voor zover Onze Minister dit bij regeling heeft bepaald.   
 4.  Voor de toepassing van dit artikel wordt onder krijgsmacht, politie en overige openbare dienst mede verstaan niet-Nederlandse krijgsmacht, politie of openbare dienst.   
 
@@ -198,9 +198,9 @@ f. wanneer daartoe dringende, aan het algemeen belang ontleende, redenen bestaan
 ### Artikel  9  
 
 1.  Het is verboden zonder erkenning een wapen of munitie te vervaardigen, te transformeren of in de uitoefening van een bedrijf uit te wisselen, te verhuren of anderszins ter beschikking te stellen, te herstellen, te beproeven of te verhandelen.   
-2.  Bevoegd tot het verlenen en intrekken van een erkenning, alsmede het verlengen van de geldigheidsduur daarvan, is de korpschef in de plaats waar de aanvrager is gevestigd. Een erkenning heeft een geldigheidsduur van ten hoogste vijf jaren en kan telkens met ten hoogste vijf jaren worden verlengd.   
+2.  Bevoegd tot het verlenen en intrekken van een erkenning, alsmede het verlengen van de geldigheidsduur daarvan, is de korpschef. Een erkenning heeft een geldigheidsduur van ten hoogste vijf jaren en kan telkens met ten hoogste vijf jaren worden verlengd.   
 3.  Een erkenning heeft uitsluitend betrekking op de daarin genoemde handelingen, soorten wapens en munitie en bedrijfseenheden. Indien de handelingen worden verricht in de uitoefening van een bedrijf, strekt de werking van de erkenning zich mede uit tot de beheerder.   
-4.  Indien een redelijk belang dit vordert, kan de korpschef die de erkenning verleent of heeft verleend bepalen dat de erkenning tevens inhoudt vergunning tot vervoer van wapens en munitie van de categorieën II en III.   
+4.  Indien een redelijk belang dit vordert, kan de korpschef bepalen dat de erkenning tevens inhoudt vergunning tot vervoer van wapens en munitie van de categorieën II en III.   
 5.  Onze Minister kan bij regeling vrijstelling van het verbod van het eerste lid verlenen met betrekking tot: 
 
 a. wapens van categorie IV;  
@@ -291,7 +291,7 @@ Onze Minister kan, na overleg met Onze Minister van Economische Zaken, bepalen d
 
 ### Artikel  24  
 
-Een verlof tot vervoer wordt, uitsluitend voor wapens en munitie van categorie III, verleend door de korpschef in de plaats waar het vervoer een aanvang neemt of waar de aanvrager is gevestigd indien: 
+Een verlof tot vervoer wordt, uitsluitend voor wapens en munitie van categorie III, verleend door de korpschef indien: 
 
 a. de aanvrager gerechtigd is het wapen of de munitie voorhanden te hebben;  
 
@@ -341,7 +341,7 @@ b. recreatieve activiteiten.
 
 ### Artikel  28  
 
-1.  Verlof tot het voorhanden hebben van een wapen en munitie wordt, uitsluitend voor wapens en munitie behorend tot categorie III, verleend door de korpschef in de woon- of verblijfplaats van de aanvrager.   
+1.  Verlof tot het voorhanden hebben van een wapen en munitie wordt, uitsluitend voor wapens en munitie behorend tot categorie III, verleend door de korpschef.   
 2.  Een verlof wordt verleend indien: 
 
 a. een redelijk belang de verlening van het verlof vordert;  
@@ -357,7 +357,7 @@ c. de aanvrager tenminste de leeftijd van achttien jaren heeft bereikt, behouden
 
 1.  Aan personen die gerechtigd zijn tot het voorhanden hebben van een vuurwapen wordt desverzocht een Europese vuurwapenpas uitgereikt.   
 2.  Op de Europese vuurwapenpas worden aangetekend de vuurwapens die de houder gerechtigd is voorhanden te hebben, alsmede andere bij regeling van Onze Minister vast te stellen gegevens.   
-3.  De Europese vuurwapenpas wordt afgegeven door de korpschef in de woon- of verblijfplaats van de aanvrager en heeft een geldigheidsduur van ten hoogste vijf jaar.   
+3.  De Europese vuurwapenpas wordt afgegeven door de korpschef en heeft een geldigheidsduur van ten hoogste vijf jaar.   
 
 ### Artikel  29  
 
@@ -379,7 +379,7 @@ c. de aanvrager tenminste de leeftijd van achttien jaren heeft bereikt, behouden
 
 ### Artikel  32  
 
-1.  Verlof tot verkrijging van wapens van categorie III wordt verleend aan personen die een verlof tot voorhanden hebben als bedoeld in artikel 28 bezitten, dan wel op grond van artikel 26, tweede lid, voor de jacht en beheer en schadebestrijding bestemde wapens voorhanden mogen hebben, door de korpschef van hun woon- of verblijfplaats.   
+1.  Verlof tot verkrijging van wapens van categorie III wordt verleend aan personen die een verlof tot voorhanden hebben als bedoeld in artikel 28 bezitten, dan wel op grond van artikel 26, tweede lid, voor de jacht en beheer en schadebestrijding bestemde wapens voorhanden mogen hebben, door de korpschef.   
 2.  indien de aanvrager die geen vaste woon- of verblijfplaats in Nederland heeft, ingezetene is van een van de andere lid-staten van de Europese Gemeenschappen, wordt: 
 
 a. geen verlof als bedoeld in het eerste lid verleend zonder voorafgaande toestemming van die lid-staat, wanneer het verlof betrekking heeft op wapens ten aanzien waarvan het voorhanden hebben in die lid-staat aan een vergunning is onderworpen;  
@@ -436,7 +436,7 @@ d. het type munitie.
 
 ### Artikel  34  
 
-1.  Tegen beschikkingen van de korpschef en de Belastingdienst/Douane centrale dienst voor in- en uitvoer genomen krachtens deze wet staat administratief beroep open bij Onze Minister. [Artikel 10:3, tweede lid, onder c, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
+1.  Tegen beschikkingen van de korpschef en de Belastingdienst/Douane centrale dienst voor in- en uitvoer genomen krachtens deze wet staat administratief beroep open bij Onze Minister.   
 2.  Het beroep kan worden ingesteld: 
 
 a. tegen beschikkingen op grond van artikel 8: door de bewaargever en door de rechthebbende;  
@@ -449,10 +449,9 @@ b. in de overige gevallen door de aanvrager, dan wel de houder van de erkenning,
 
 ### Artikel  38  
 
-1.  Onze Minister kan regels vaststellen over de door de korpschefs bij de uitvoering van deze wet te voeren administratie.   
-2.  Bij de uitvoering van deze wet volgen de korpschefs en de Belastingdienst/Douane centrale dienst voor in- en uitvoer de aanwijzingen van Onze Minister.   
-3.  Beleidsregels gericht tot de korpschef worden verstrekt door tussenkomst van de korpsbeheerder.   
-4.  [Artikel 10:22, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
+1.  Onze Minister kan regels vaststellen over de door de korpschef bij de uitvoering van deze wet te voeren administratie.   
+2.  Bij de uitvoering van deze wet volgen de korpschef en de Belastingdienst/Douane centrale dienst voor in- en uitvoer de aanwijzingen van Onze Minister.   
+3.  [Artikel 10:22, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
 
 ### Artikel  39  
 
@@ -464,7 +463,7 @@ Onze Minister kan regels geven over combinatie van verschillende krachtens deze 
 
 ### Artikel  41  
 
-Onze Minister geeft regels met betrekking tot het bedrag dat is verschuldigd bij de aanvraag op grond van deze wet van een erkenning, een ontheffing, een consent, een vergunning, een verlof en een Europese vuurwapenpas. Het bedrag is verschuldigd aan het Rijk indien de aanvraag wordt ingediend bij Onze Minister of Onze Minister van Defensie, of aan de betrokken politieregio indien de aanvraag bij de korpschef wordt ingediend.  
+Onze Minister geeft regels met betrekking tot het bedrag dat is verschuldigd bij de aanvraag op grond van deze wet van een erkenning, een ontheffing, een consent, een vergunning, een verlof en een Europese vuurwapenpas. Het bedrag is verschuldigd aan het Rijk indien de aanvraag wordt ingediend bij Onze Minister of Onze Minister van Defensie, of aan de politie indien de aanvraag bij de korpschef wordt ingediend.  
 
 ### Artikel  42  
 

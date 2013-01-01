@@ -11,7 +11,11 @@ Besluit:
 ### Artikel  1  
 
 1.  De politie en de Koninklijke marechaussee maken gebruik van de informatie- en communicatievoorzieningen C2000 en het Gemeenschappelijk Meldkamer Systeem (GMS).   
-2.  Politie Nederland draagt zorg voor het tactische en operationele beheer van de in het eerste lid bedoelde voorzieningen.   
+2.  De korpschef draagt zorg voor het tactische en operationele beheer van de in het eerste lid bedoelde voorzieningen.   
+
+### Artikel  1a  
+
+Deze regeling berust op [artikel 23, eerste lid, onder a, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
 
 ### Artikel  2  
 

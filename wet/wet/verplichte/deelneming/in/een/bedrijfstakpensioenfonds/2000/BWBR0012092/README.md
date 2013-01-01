@@ -224,7 +224,7 @@ De [Kaderwet zelfstandige bestuursorganen](../../../../../../../../../wet/kaderw
 ####Toezicht
 
 1.  Het toezicht op de uitvoering van de artikelen 5, 6, 7, 8 en 9, eerste en tweede lid, berust bij de Nederlandsche Bank.   
-2.  De [artikelen 152 tot en met 166](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [188 tot en met 191 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) zijn van overeenkomstige toepassing.   
+2.  De [artikelen 152](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [153](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [163 tot en met 166](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [188 tot en met 191 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) zijn van overeenkomstige toepassing.   
 
 ### Artikel  18  
 

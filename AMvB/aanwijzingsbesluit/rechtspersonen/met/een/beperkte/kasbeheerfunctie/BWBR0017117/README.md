@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Financiën van 12 juli 2004, nr. BZ2004-648M, Directoraat-Generaal van de Rijksbegroting, Directie Begrotingszaken;
 
-Gelet op [artikel 45 van de Comptabiliteitswet 2001](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md);
+Gelet op artikel 45 van de Comptabiliteitswet 2001;
 
 De Raad van State gehoord (advies van 29 juli 2004, nr. W06.04.0349/IV);
 
@@ -15,20 +15,20 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Als rechtspersonen, bedoeld in [artikel 45, eerste lid, van de Comptabiliteitswet 2001](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), worden aangewezen de rechtspersonen, opgenomen in bijlage A, onderdeel 1, behorende bij dit besluit.  
+Als rechtspersonen, bedoeld in artikel 45, eerste lid, van de Comptabiliteitswet 2001, worden aangewezen de rechtspersonen, opgenomen in bijlage A, onderdeel 1, behorende bij dit besluit.  
 
 ### Artikel  2  
 
-Als rechtspersonen, bedoeld in [artikel 45, tweede lid, van de Comptabiliteitswet 2001](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), worden aangewezen de rechtspersonen, opgenomen in bijlage B, onderdeel 1, behorende bij dit besluit.  
+Als rechtspersonen, bedoeld in artikel 45, tweede lid, van de Comptabiliteitswet 2001, worden aangewezen de rechtspersonen, opgenomen in bijlage B, onderdeel 1, behorende bij dit besluit.  
 
 ### Artikel  3  
 
-Als rechtspersonen, bedoeld in [artikel 45, derde lid, van de Comptabiliteitswet 2001](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), waarop het bepaalde in [artikel 45, eerste lid](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), van toepassing is, worden aangewezen de rechtspersonen, opgenomen in bijlage A, onderdeel 2, behorende bij dit besluit.  
+Als rechtspersonen, bedoeld in artikel 45, derde lid, van de Comptabiliteitswet 2001, waarop het bepaalde in artikel 45, eerste lid, van toepassing is, worden aangewezen de rechtspersonen, opgenomen in bijlage A, onderdeel 2, behorende bij dit besluit.  
 
 ### Artikel  4  
 
-1.  Onze Minister van Financiën kan in overeenstemming met Onze betrokken Ministers andere rechtspersonen als bedoeld in [artikel 45, eerste en tweede lid, van de Comptabiliteitswet 2001](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), aanwijzen.   
-2.  Onze Minister van Financiën kan in overeenstemming met Onze betrokken Ministers de aanwijzing van een rechtspersoon als bedoeld in [artikel 45, eerste en tweede lid, van de Comptabiliteitswet 2001](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) intrekken, indien hij handhaving op deze lijsten uit een oogpunt van een doelmatig en risico-arm kasbeheer niet langer zinvol oordeelt.   
+1.  Onze Minister van Financiën kan in overeenstemming met Onze betrokken Ministers andere rechtspersonen als bedoeld in artikel 45, eerste en tweede lid, van de Comptabiliteitswet 2001, aanwijzen.   
+2.  Onze Minister van Financiën kan in overeenstemming met Onze betrokken Ministers de aanwijzing van een rechtspersoon als bedoeld in artikel 45, eerste en tweede lid, van de Comptabiliteitswet 2001 intrekken, indien hij handhaving op deze lijsten uit een oogpunt van een doelmatig en risico-arm kasbeheer niet langer zinvol oordeelt.   
 3.  Van besluiten, bedoeld in het eerste en tweede lid, wordt mededeling gedaan in de Staatscourant.   
 
 ### Artikel  5  
@@ -64,23 +64,21 @@ J. P. H. Donner
 
 ####bij het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie
 
-####A1-lijst: Rechtspersonen met een wettelijke taak die zijn aangewezen op grond van [artikel 45, eerste lid, Comptabiliteitswet 2001](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md)
+####A1-lijst: Rechtspersonen met een wettelijke taak die zijn aangewezen op grond van artikel 45, eerste lid, Comptabiliteitswet 2001
 
 ####Ministerie van Veiligheid en Justitie:
 
-– Landelijk selectie- en opleidingsinstituut politie, Politie onderwijs- en kenniscentrum (LSOP);  
+– Landelijk selectie- en opleidingsinstituut politie, Politie onderwijs- en kenniscentrum (LSOP/Politieacademie);  
 
-– Nederlands instituut fysieke veiligheid (Nifv);  
+– Instituut Fysieke Veiligheid (IFV);  
 
 – Onderzoeksraad voor Veiligheid;  
 
-– politieregio’s, bedoeld in [artikel 21, eerste lid, van de Politiewet 1993](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+– politie, bedoeld in artikel 25, eerste lid, van de Politiewet 2012;  
 
 – raad voor rechtsbijstand;  
 
-– Stichting Reclassering Nederland (SRN).  
-
-– Voorziening tot samenwerking Politie Nederland (vtsPN).    
+– Stichting Reclassering Nederland (SRN).    
 
 ####Ministerie van Binnenlandse Zaken en Koninkrijksrelaties:
 
@@ -90,7 +88,7 @@ J. P. H. Donner
 
 – Dienst voor het kadaster en de openbare registers;  
 
-– Stichting Administratie Indonesische Pensioenen;    
+– Stichting Administratie Indonesische Pensioenen.    
 
 ####Ministerie van Onderwijs, Cultuur en Wetenschap:
 
@@ -182,13 +180,13 @@ J. P. H. Donner
 
 – Stichting Uitvoering Omslagregelingen.    
 
-####A2-lijst: Rechtspersonen met een publieke taak die zijn aangewezen op grond van [artikel 45, derde lid, Comptabiliteitswet 2001](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md)
+####A2-lijst: Rechtspersonen met een publieke taak die zijn aangewezen op grond van artikel 45, derde lid, Comptabiliteitswet 2001
 
 ####Ministerie van Onderwijs, Cultuur en Wetenschap:
 
 – Stichting Nationaal Restauratiefonds;  
 
-– De verzelfstandigde rijksmusea, genoemd in de B1-lijst, die bij de Minister van Financiën schriftelijk het verzoek indienen om voor de toepassing van [artikel 45, eerste lid, van de Comptabiliteitswet 2001](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) in aanmerking te komen en waarvan de Minister van Financiën dit verzoek heeft gehonoreerd.    
+– De verzelfstandigde rijksmusea, genoemd in de B1-lijst, die bij de Minister van Financiën schriftelijk het verzoek indienen om voor de toepassing van artikel 45, eerste lid, van de Comptabiliteitswet 2001 in aanmerking te komen en waarvan de Minister van Financiën dit verzoek heeft gehonoreerd.    
 
 ####Ministerie van Economische Zaken, Landbouw en Innovatie:
 
@@ -198,7 +196,7 @@ J. P. H. Donner
 
 ####Ministerie van Volksgezondheid, Welzijn en Sport:
 
-– Gesloten jeugdzorginstellingen, genoemd in de B1-lijst onder het opschrift *Ministerie Volksgezondheid, Welzijn en Sport*, die bij de Minister van Financiën schriftelijk het verzoek indienen om voor de toepassing van [artikel 45, eerste lid, van de Comptabiliteitswet 2001](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) in aanmerking te komen en waarvan de Minister van Financiën dit verzoek heeft gehonoreerd;  
+– Gesloten jeugdzorginstellingen, genoemd in de B1-lijst onder het opschrift *Ministerie Volksgezondheid, Welzijn en Sport*, die bij de Minister van Financiën schriftelijk het verzoek indienen om voor de toepassing van artikel 45, eerste lid, van de Comptabiliteitswet 2001 in aanmerking te komen en waarvan de Minister van Financiën dit verzoek heeft gehonoreerd;  
 
 – Stichting bevolkingsonderzoek midden-west;  
 
@@ -216,29 +214,27 @@ J. P. H. Donner
 
 – Stichting Rechtsherstel Sinti en Roma.  
 
-– Centraal Administratiekantoor bv (CAK).    
+– CAK.    
 
 ####Ministerie van Veiligheid en Justitie:
 
-– De particuliere justitiële jeugdinrichtingen, genoemd in onderdeel 1 van bijlage B bij het *Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie*, die bij de Minister van Financiën schriftelijk het verzoek indienen om voor de toepassing van [artikel 45, eerste lid, van de Comptabiliteitswet 2001](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) in aanmerking te komen en waarvan de Minister van Financiën dit verzoek heeft gehonoreerd. – Stichting Beheer Openbare Voorziening Meldkamer Noord-Nederland.  
+– De particuliere justitiële jeugdinrichtingen, genoemd in onderdeel 1 van bijlage B bij het *Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie*, die bij de Minister van Financiën schriftelijk het verzoek indienen om voor de toepassing van artikel 45, eerste lid, van de Comptabiliteitswet 2001 in aanmerking te komen en waarvan de Minister van Financiën dit verzoek heeft gehonoreerd. – Stichting Beheer Openbare Voorziening Meldkamer Noord-Nederland.  
 
 ####Ministerie van Onderwijs, Cultuur en Wetenschap en Ministerie van Economische Zaken, Landbouw en Innovatie:
 
-– bekostigde onderwijsinstellingen, bedoeld in de onderwijswetgeving, die bij Onze Minister van Financiën schriftelijk het verzoek indienen om voor de toepassing van [artikel 45, eerste lid, van de Comptabiliteitswet 2001](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) in aanmerking te komen en waarvan Onze Minister van Financiën dit verzoek heeft gehonoreerd;  
+– bekostigde onderwijsinstellingen, bedoeld in de onderwijswetgeving, die bij Onze Minister van Financiën schriftelijk het verzoek indienen om voor de toepassing van artikel 45, eerste lid, van de Comptabiliteitswet 2001 in aanmerking te komen en waarvan Onze Minister van Financiën dit verzoek heeft gehonoreerd;  
 
-– kenniscentra beroepsonderwijs bedrijfsleven, bedoeld in de Wet educatie en beroepsonderwijs, die bij Onze Minister van Financiën schriftelijk het verzoek indienen om voor de toepassing van [artikel 45, eerste lid, van de Comptabiliteitswet 2001](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) in aanmerking te komen en waarvan Onze Minister van Financiën dit verzoek heeft gehonoreerd;    
+– kenniscentra beroepsonderwijs bedrijfsleven, bedoeld in de Wet educatie en beroepsonderwijs, die bij Onze Minister van Financiën schriftelijk het verzoek indienen om voor de toepassing van artikel 45, eerste lid, van de Comptabiliteitswet 2001 in aanmerking te komen en waarvan Onze Minister van Financiën dit verzoek heeft gehonoreerd;    
 
 ### Bijlage  B  
 
 ####bij het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie
 
-####B1-lijst: Rechtspersonen met een wettelijke taak die zijn aangewezen op grond van [artikel 45, tweede lid, Comptabiliteitswet 2001](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md)
+####B1-lijst: Rechtspersonen met een wettelijke taak die zijn aangewezen op grond van artikel 45, tweede lid, Comptabiliteitswet 2001
 
 ####Ministerie van Veiligheid en Justitie:
 
 – Landelijk Bureau Inning Onderhoudsbijdragen (LBIO);  
-
-– Nederlands Bureau Brandweer Examens (NBBE);  
 
 – Stichting HALT Nederland;  
 
@@ -300,7 +296,7 @@ J. P. H. Donner
 
 – Stichting Nederlandse Algemene Keuringsdienst voor Zaaizaad en Pootgoed voor Landbouwgewassen (NAK);  
 
-– Stichting Skal.  
+– Stichting Skal;  
 
 – Waarborg Platina, Goud en Zilver N.V.    
 

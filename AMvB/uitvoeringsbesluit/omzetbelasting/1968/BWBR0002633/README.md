@@ -31,7 +31,7 @@ b. belasting: omzetbelasting.
 ### Artikel  2  
 
 1.  Met kortingen wegens contante betaling wordt voor de bepaling van de vergoeding terstond rekening gehouden, mits op de factuur - ingeval deze wordt uitgereikt - de korting in mindering wordt gebracht op het in rekening te brengen bedrag.   
-2.  In gevallen waarin het eerste lid toepassing heeft gevonden en de korting wegens contante betaling uiteindelijk geheel of ten dele niet wordt genoten, wordt de belasting alsnog verschuldigd over het bedrag van de niet genoten korting. De [artikelen 13](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [17 *g*](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) en [35](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) van de wet zijn van overeenkomstige toepassing, met dien verstande dat het tijdstip waarop het niet-genieten van de korting komt vast te staan, geacht wordt te zijn het tijdstip waarop de levering, de intracommunautaire verwerving of de dienst is verricht.   
+2.  In gevallen waarin het eerste lid toepassing heeft gevonden en de korting wegens contante betaling uiteindelijk geheel of ten dele niet wordt genoten, wordt de belasting alsnog verschuldigd over het bedrag van de niet genoten korting. De [artikelen 13](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [17g](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) en [34c tot en met 35 van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) zijn van overeenkomstige toepassing, met dien verstande dat het tijdstip waarop het niet-genieten van de korting komt vast te staan, geacht wordt te zijn het tijdstip waarop de levering, de intracommunautaire verwerving of de dienst is verricht.   
 
 ### Artikel  3  
 
@@ -203,31 +203,31 @@ b. de wijze waarop wordt aangetoond, dat de goederen waarvan de belasting wordt 
 
 ### Artikel  16  
 
-De ondernemer die krachtens [artikel 26](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) van de wet de belasting kan voldoen naar ontvangsten, kan, indien hij leveringen verricht zowel van 6%-goederen als van 19%-goederen, die hij niet zelf heeft vervaardigd, de ter zake verschuldigde belasting berekenen op een van de hierna omschreven wijzen. 
+De ondernemer die krachtens [artikel 26](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) van de wet de belasting kan voldoen naar ontvangsten, kan, indien hij leveringen verricht zowel van 6%-goederen als van 21%-goederen, die hij niet zelf heeft vervaardigd, de ter zake verschuldigde belasting berekenen op een van de hierna omschreven wijzen. 
 
 I. 
 
-a. De ondernemer splitst zijn inkopen van voor wederverkoop bestemde goederen in 6%-goederen en 19%-goederen;  
+a. De ondernemer splitst zijn inkopen van voor wederverkoop bestemde goederen in 6%-goederen en 21%-goederen;  
 
-b. hij bepaalt voor alle in onderdeel *a* bedoelde goederen de winkelwaarde, waaronder in deze afdeling wordt verstaan de prijs waarvoor de goederen door hem worden verkocht;  
+b. hij bepaalt voor alle in onderdeel a bedoelde goederen de winkelwaarde, waaronder in deze afdeling wordt verstaan de prijs waarvoor de goederen door hem worden verkocht;  
 
-c. hij berekent de totale winkelwaarde van de in het lopende boekjaar tot en met het aan de orde zijnde belastingtijdvak ingekochte goederen naar de in onderdeel *a* bedoelde splitsing;  
+c. hij berekent de totale winkelwaarde van de in het lopende boekjaar tot en met het aan de orde zijnde belastingtijdvak ingekochte goederen naar de in onderdeel a bedoelde splitsing;  
 
-d. de totale ontvangsten in het belastingtijdvak wegens levering van goederen verdeelt hij in ontvangsten voor 6%-goederen en ontvangsten voor 19%-goederen naar evenredigheid van de in onderdeel *c* bedoelde totale winkelwaarden;  
+d. de totale ontvangsten in het belastingtijdvak wegens levering van goederen verdeelt hij in ontvangsten voor 6%-goederen en ontvangsten voor 21%-goederen naar evenredigheid van de in onderdeel c bedoelde totale winkelwaarden;  
 
-e. over het aldus berekende deel van de ontvangsten dat betrekking heeft op de 6%-goederen, bedraagt de belasting 6/106 en over het deel dat betrekking heeft op de 19%-goederen, 19/119 gedeelte;  
+e. over het aldus berekende deel van de ontvangsten dat betrekking heeft op de 6%-goederen, bedraagt de belasting 6/106 en over het deel dat betrekking heeft op de 21%-goederen, 21/121 gedeelte;  
 
 f. de som van beide belastingbedragen vormt het bedrag dat geacht wordt in het belastingtijdvak aan belasting te zijn verschuldigd; op die som worden vervolgens de overige bepalingen van de wet toegepast (aftrek van voorbelasting, kleine ondernemersregeling enz.);  
 
 g. na afloop van het boekjaar wordt de belasting herrekend als volgt: 
 
-1°. de ondernemer bepaalt de winkelwaarde van de ten verkoop in voorraad zijnde goederen, gesplitst in 6%-goederen en 19%-goederen;  
+1°. de ondernemer bepaalt de winkelwaarde van de ten verkoop in voorraad zijnde goederen, gesplitst in 6%-goederen en 21%-goederen;  
 
-2°. de onder 1° bedoelde winkelwaarde van de 6%-goederen wordt afgetrokken van de winkelwaarde van de in het boekjaar ingekochte 6%-goederen en de aldaar bedoelde winkelwaarde van de 19%-goederen wordt afgetrokken van de winkelwaarde van de in het boekjaar ingekochte 19%-goederen;  
+2°. de onder 1° bedoelde winkelwaarde van de 6%-goederen wordt afgetrokken van de winkelwaarde van de in het boekjaar ingekochte 6%-goederen en de aldaar bedoelde winkelwaarde van de 21%-goederen wordt afgetrokken van de winkelwaarde van de in het boekjaar ingekochte 21%-goederen;  
 
-3°. de totale ontvangsten in het boekjaar wegens levering van goederen verdeelt de ondernemer over de 6%- en de 19%-goederen naar evenredigheid van de uit 2° voortvloeiende saldi aan winkelwaarden voor die goederen;  
+3°. de totale ontvangsten in het boekjaar wegens levering van goederen verdeelt de ondernemer over de 6%- en de 21%-goederen naar evenredigheid van de uit 2° voortvloeiende saldi aan winkelwaarden voor die goederen;  
 
-4°. van het aldus berekende deel van de ontvangsten dat betrekking heeft op de 6%-goederen, wordt 6/106 en over het deel dat betrekking heeft op de 19%-goederen, wordt 19/119 gedeelte genomen;  
+4°. van het aldus berekende deel van de ontvangsten dat betrekking heeft op de 6%-goederen, wordt 6/106 en over het deel dat betrekking heeft op de 21%-goederen, wordt 21/121 gedeelte genomen;  
 
 5°. de som van de uitkomsten van de berekeningen onder 4° vormt het bedrag dat geacht wordt in het boekjaar aan belasting te zijn verschuldigd; op die som worden vervolgens de overige bepalingen van de wet toegepast (aftrek van voorbelasting, kleine ondernemersregeling enz.);  
 
@@ -235,45 +235,45 @@ g. na afloop van het boekjaar wordt de belasting herrekend als volgt:
 
 7°. op die aangifte voldoet de ondernemer tevens de belasting ter zake van het beschikken over goederen in de zin van [artikel 3, derde lid, onderdeel a, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) (eigen gebruik) in het boekjaar, voor zover de vergoeding voor deze goederen niet in de onder 3° bedoelde ontvangsten zijn begrepen;    
 
-h. de in onderdeel *g* - 1° bedoelde in voorraad zijnde goederen worden beschouwd als goederen die in het eerste belastingtijdvak van het volgende boekjaar zijn ingekocht.    
+h. de in onderdeel g - 1° bedoelde in voorraad zijnde goederen worden beschouwd als goederen die in het eerste belastingtijdvak van het volgende boekjaar zijn ingekocht.    
 
 II. 
 
-a. De ondernemer houdt afzonderlijk aantekening van zijn inkopen van voor wederverkoop bestemde 19%-goederen;  
+a. De ondernemer houdt afzonderlijk aantekening van zijn inkopen van voor wederverkoop bestemde 21%-goederen;  
 
 b. hij bepaalt voor die goederen de winkelwaarde;  
 
-c. hij berekent de totale winkelwaarde van de in het belastingtijdvak ingekochte 19%-goederen en het verschil tussen de totale ontvangsten in dat belastingtijdvak wegens leveringen van goederen en die totale winkelwaarde;  
+c. hij berekent de totale winkelwaarde van de in het belastingtijdvak ingekochte 21%-goederen en het verschil tussen de totale ontvangsten in dat belastingtijdvak wegens leveringen van goederen en die totale winkelwaarde;  
 
-d. de belasting bedraagt 19/119 gedeelte van de in onderdeel *c* bedoelde totale winkelwaarde, benevens 6/106 gedeelte van het in onderdeel *c* bedoelde verschil indien de totale ontvangsten de totale winkelwaarde overtreffen;  
+d. de belasting bedraagt 21/121 gedeelte van de in onderdeel c bedoelde totale winkelwaarde, benevens 6/106 gedeelte van het in onderdeel c bedoelde verschil indien de totale ontvangsten de totale winkelwaarde overtreffen;  
 
 e. de som van beide belastingbedragen vormt het bedrag dat geacht wordt in het belastingtijdvak aan belasting te zijn verschuldigd; op die som worden vervolgens de overige bepalingen van de wet toegepast (aftrek van voorbelasting, kleine ondernemersregeling, enz.);  
 
-f. overtreft de in onderdeel *c* bedoelde totale winkelwaarde de aldaar bedoelde totale ontvangsten, dan wordt het verschil in mindering gebracht op de totale ontvangsten van het volgende belastingtijdvak;  
+f. overtreft de in onderdeel c bedoelde totale winkelwaarde de aldaar bedoelde totale ontvangsten, dan wordt het verschil in mindering gebracht op de totale ontvangsten van het volgende belastingtijdvak;  
 
-g. ter zake van het eigen gebruik vindt, voor zover de belasting wordt voldaan naar de ontvangsten, het bepaalde in I- *g* -7° overeenkomstige toepassing, en kan de ondernemer, voor zover de belasting wordt voldaan naar de winkelwaarde, op de in die bepaling bedoelde aangifte in mindering brengen de belasting over het verschil tussen de winkelwaarde en de vergoeding voor de goederen voor eigen gebruik, terwijl de in die aangifte te begrijpen ontvangsten met laatstbedoelde winkelwaarde worden verhoogd;  
+g. ter zake van het eigen gebruik vindt, voor zover de belasting wordt voldaan naar de ontvangsten, het bepaalde in I-g-7° overeenkomstige toepassing, en kan de ondernemer, voor zover de belasting wordt voldaan naar de winkelwaarde, op de in die bepaling bedoelde aangifte in mindering brengen de belasting over het verschil tussen de winkelwaarde en de vergoeding voor de goederen voor eigen gebruik, terwijl de in die aangifte te begrijpen ontvangsten met laatstbedoelde winkelwaarde worden verhoogd;  
 
 h. deze regeling is van overeenkomstige toepassing voor 6%-goederen.    
 
 III. 
 
-a. De ondernemer splitst zijn inkopen van voor wederverkoop bestemde goederen in 6%-goederen en 19%-goederen;  
+a. De ondernemer splitst zijn inkopen van voor wederverkoop bestemde goederen in 6%-goederen en 21%-goederen;  
 
-b. hij bepaalt voor alle in onderdeel *a* bedoelde goederen de winkelwaarde;  
+b. hij bepaalt voor alle in onderdeel a bedoelde goederen de winkelwaarde;  
 
-c. hij berekent de totale winkelwaarde van de in een belastingtijdvak ingekochte goederen naar de in onderdeel *a* bedoelde splitsing;  
+c. hij berekent de totale winkelwaarde van de in een belastingtijdvak ingekochte goederen naar de in onderdeel a bedoelde splitsing;  
 
-d. over de aldus berekende totale winkelwaarde die betrekking heeft op de 6%-goederen, bedraagt de belasting 6/106 gedeelte en over de aldus berekende totale winkelwaarde die betrekking heeft op de 19%-goederen, bedraagt de belasting 19/119 gedeelte;  
+d. over de aldus berekende totale winkelwaarde die betrekking heeft op de 6%-goederen, bedraagt de belasting 6/106 gedeelte en over de aldus berekende totale winkelwaarde die betrekking heeft op de 21%-goederen, bedraagt de belasting 21/121 gedeelte;  
 
 e. de som van beide belastingbedragen vormt het bedrag dat geacht wordt in het belastingtijdvak aan belasting te zijn verschuldigd; op die som worden vervolgens de overige bepalingen van de wet toegepast (aftrek van voorbelasting, kleine ondernemersregeling, enz.);  
 
 f. na afloop van het boekjaar kan de ondernemer op zijn aangifte over het eerste belastingtijdvak van het volgende boekjaar in mindering brengen de belasting over het verschil tussen de winkelwaarde en de vergoeding voor de goederen voor eigen gebruik.     Algemene aantekeningen 
 
-1. Dit artikel is slechts van toepassing, indien en voor zover de ondernemer niet op grond van zijn bedrijfsadministratie kan vaststellen welk gedeelte van de ontvangsten betrekking heeft op leveringen van 6%-goederen en welk gedeelte op leveringen van 19%-goederen.  
+1. Dit artikel is slechts van toepassing, indien en voor zover de ondernemer niet op grond van zijn bedrijfsadministratie kan vaststellen welk gedeelte van de ontvangsten betrekking heeft op leveringen van 6%-goederen en welk gedeelte op leveringen van 21%-goederen.  
 
 2. Dit artikel heeft niet betrekking op goederen die worden geleverd ingevolge een overeenkomst van huurkoop of een andere overeenkomst van koop en verkoop op afbetaling.  
 
-3. Ingeval de ondernemer naast leveringen van 6%-goederen en/of 19%-goederen tevens leveringen verricht van tabaksprodukten, als bedoeld in [artikel 29 van de Wet op de accijns](../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), is dit artikel op laatstbedoelde goederen van overeenkomstige toepassing.    
+3. Ingeval de ondernemer naast leveringen van 6%-goederen en/of 21%-goederen tevens leveringen verricht van tabaksprodukten, als bedoeld in [artikel 29 van de Wet op de accijns](../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), is dit artikel op laatstbedoelde goederen van overeenkomstige toepassing.    
 
 ### Artikel  16a  
 
@@ -305,14 +305,14 @@ Bij een wijziging van de hoogte van het in artikel 16 bij methode II in onderdee
 
 1.  Ingeval de ondernemer goederen levert welke hijzelf heeft vervaardigd, is daarop artikel 16 van overeenkomstige toepassing, met inachtneming van het volgende: 
 
-a. in de plaats van de inkopen van de goederen worden gesteld de inkopen van de grondstoffen welke voor de vervaardiging zijn bestemd, gesplitst naar grondstoffen voor 6%-goederen en grondstoffen voor 19%-goederen;  
+a. in de plaats van de inkopen van de goederen worden gesteld de inkopen van de grondstoffen welke voor de vervaardiging zijn bestemd, gesplitst naar grondstoffen voor 6%-goederen en grondstoffen voor 21%-goederen;  
 
 b. de winkelwaarden van de zelf vervaardigde goederen worden gesteld op de som van de inkoopprijzen van de grondstoffen, vermeerderd met een zodanig percentage van die som, dat de prijs waarvoor de zelf vervaardigde goederen worden verkocht, zo dicht mogelijk wordt benaderd;  
 
-c. de in onderdeel *b* bedoelde winkelwaarden worden gevoegd bij de winkelwaarden van de voor wederverkoop ingekochte 6%-goederen onderscheidenlijk 19%-goederen;  
+c. de in onderdeel b bedoelde winkelwaarden worden gevoegd bij de winkelwaarden van de voor wederverkoop ingekochte 6%-goederen onderscheidenlijk 21%-goederen;  
 
-d. onder de voorraad zelf vervaardigde goederen wordt begrepen de voorraad grondstoffen en wel voor de inkoopprijs vermeerderd met het in onderdeel *b* bedoelde percentage.     
-2.  Bij ministeriële regeling kan het in het eerste lid, onderdeel *b*, bedoelde percentage voor de verschillende goederen of groepen van goederen worden vastgesteld.   
+d. onder de voorraad zelf vervaardigde goederen wordt begrepen de voorraad grondstoffen en wel voor de inkoopprijs vermeerderd met het in onderdeel b bedoelde percentage.     
+2.  Bij ministeriële regeling kan het in het eerste lid, onderdeel b, bedoelde percentage voor de verschillende goederen of groepen van goederen worden vastgesteld.   
 3.  Voor de ondernemer bij wie toepassing van het bij ministeriële regeling vastgestelde percentage leidt tot een winkelwaarde welke in betekenende mate afwijkt van de prijs waarvoor de goederen worden verkocht, kan de inspecteur een ander percentage vaststellen.   
 4.  Voor de ondernemer te wiens aanzien bij ministeriële regeling geen percentage is vastgesteld, geschiedt zulks door de inspecteur.   
 5.  De vaststelling door de inspecteur van het percentage geschiedt bij voor bezwaar vatbare beschikking. Het percentage geldt met ingang van het tijdvak, volgende op dat waarin een afschrift van de beschikking aan de ondernemer is verzonden.   
@@ -358,9 +358,9 @@ b. ter zake van de levering van goederen tegen inwisseling van de waardebonnen b
 
 1°. indien die goederen aan hetzelfde tarief zijn onderworpen als die waarbij de waardebonnen zijn verstrekt: dat tarief over de vergoeding zonder inbegrip van de waarde van de waardebonnen;  
 
-2°. indien die goederen aan 19% zijn onderworpen en de goederen waarbij de waardebonnen zijn verstrekt, aan 6%: 19/119 van het bedrag van de bijbetaling en (19/119–6/106) van de resterende winkelwaarde;  
+2°. indien die goederen aan 21% zijn onderworpen en de goederen waarbij de waardebonnen zijn verstrekt, aan 6%: 21/121 van het bedrag van de bijbetaling en (21/121–6/106) van de resterende winkelwaarde;  
 
-3°. indien die goederen aan 6% zijn onderworpen en de goederen waarbij de waardebonnen zijn verstrekt, aan 19%: 6/106 van het bedrag van de bijbetaling, terwijl over de resterende winkelwaarde (19/119–6/106) aan belasting wordt teruggegeven.       
+3°. indien die goederen aan 6% zijn onderworpen en de goederen waarbij de waardebonnen zijn verstrekt, aan 21%: 6/106 van het bedrag van de bijbetaling, terwijl over de resterende winkelwaarde (21/121–6/106) aan belasting wordt teruggegeven.       
 2.  Onder waardebonnen worden begrepen andere voorwerpen welke een soortgelijke functie vervullen.   
 
 ### Afdeling  C  

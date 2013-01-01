@@ -1400,7 +1400,6 @@ Provinciale staten maken de verordeningen die zij in het belang van de provincie
 
 1.  Getuigen en deskundigen worden schriftelijk opgeroepen. De brief, houdende de oproep, wordt aangetekend verzonden of tegen gedagtekend ontvangstbewijs uitgereikt.   
 2.  De onderzoekscommissie kan bevelen dat getuigen en deskundigen die, hoewel opgeroepen in overeenstemming met het eerste lid, niet zijn verschenen, door de openbare macht voor hen worden gebracht om aan hun verplichting te voldoen. De onderzoekscommissie stelt de getuige of deskundige hiervan schriftelijk in kennis op de wijze, bedoeld in het eerste lid. In de beschikking wordt een termijn gesteld waarbinnen de belanghebbende de tenuitvoerlegging kan voorkomen door alsnog aan zijn verplichting te voldoen.   
-3.  Op een beschikking als bedoeld in het eerste en het tweede lid is [artikel 7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.   
 
 ### Artikel  151e  
 
@@ -1842,7 +1841,7 @@ a. het bepaalde bij en krachtens de [artikelen 25](../../../wet/wet/toezicht/acc
 b. het bepaalde bij en krachtens de [artikelen 14](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), [18](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), [19](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), [20](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) en [21 van de Wet toezicht accountantsorganisaties](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) van overeenkomstige toepassing op de provincie; en  
 
 c. het bepaalde bij en krachtens de [artikelen 15](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) en [16 van de Wet toezicht accountantsorganisaties](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) van overeenkomstige toepassing op de personen die de dagelijkse leiding hebben over het onderdeel van de provincie waarbij de in de aanhef bedoelde accountants werkzaam zijn.     
-9.  Indien een provincie wordt aangewezen als organisatie van openbaar belang als bedoeld in [artikel 1, eerste lid, onderdeel h, van de Wet toezicht accountantsorganisaties](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), zijn de [artikelen 22 tot en met 24 van die wet](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) van overeenkomstige toepassing op deze provincie.   
+9.  Indien een provincie wordt aangewezen als organisatie van openbaar belang als bedoeld in [artikel 1, eerste lid, onderdeel l, van de Wet toezicht accountantsorganisaties](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), zijn de [artikelen 22 tot en met 24 van die wet](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) van overeenkomstige toepassing op deze provincie.   
 
 ### Artikel  217a  
 
@@ -1886,7 +1885,7 @@ Een belastingverordening vermeldt, in de daartoe leidende gevallen, de belasting
 ### Artikel  222  
 
 1.  Er kunnen provinciale opcenten op de hoofdsom van de motorrijtuigenbelasting worden geheven van de in de provincie wonende of gevestigde houders van personenauto’s en motorrijwielen, bedoeld in [artikel 2, onderdelen b en d](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), en [artikel 3 van de Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) en van degenen op wier naam een kenteken als bedoeld in [artikel 62 van die wet](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) is gesteld.   
-2.  Het aantal opcenten bedraagt voor de belastingtijdvakken die na 31 december 2011 aanvangen ten hoogste 105.   
+2.  Het aantal opcenten bedraagt voor de belastingtijdvakken die na 31 december 2011 aanvangen ten hoogste 107,3.   
 3.  Voor de berekening van het aan opcenten verschuldigde bedrag wordt uitgegaan van het tarief van de [Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) zoals dat geldt op 1 april 1995, met dien verstande dat: 
 
 a. dit tarief voor motorrijwielen wordt vermenigvuldigd met het tarief zoals dat luidt op 1 april 2007 gedeeld door het tarief zoals dat luidde op 31 maart 2007;  
@@ -1970,7 +1969,7 @@ e. de belastingdeurwaarder: de daartoe aangewezen provincieambtenaar;
 
 f. de Tweede Kamer der Staten-Generaal of de Tweede Kamer: de provinciale staten.     
 3.  Onverminderd het overigens in deze paragraaf bepaalde wordt met betrekking tot provinciale belastingen in de [Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en in de [Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) voor «algemene maatregel van bestuur» en voor «ministeriële regeling» gelezen: besluit van het college van gedeputeerde staten.   
-4.  Met betrekking tot provinciale belastingen wordt in de [artikelen 27l](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [27n](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [27p](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [29a van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en in [artikel 24 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) voor «de Staat» gelezen: de provincie.   
+4.  Met betrekking tot provinciale belastingen wordt in [artikel 24 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) voor «de Staat» gelezen: de provincie.   
 
 ### Artikel  227b  
 
@@ -2186,8 +2185,7 @@ Het koninklijk besluit tot schorsing, opheffing of verlenging van de schorsing o
 
 ### Artikel  274a  
 
-1.  In afwijking van [artikel 8:4, onderdeel a, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan een belanghebbende tegen een koninklijk besluit als bedoeld in artikel 261, eerste lid, dan wel tegen een vernietigingsbesluit als bedoeld in artikel 83, tweede lid, beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State. [Artikel 7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
-2.  In afwijking van [artikel 6:2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan geen beroep worden ingesteld tegen de weigering om de vernietiging van een besluit te bevorderen en tegen het niet tijdig nemen van een besluit tot vernietiging.   
+In afwijking van [artikel 8:4, eerste lid, onderdeel d, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan een belanghebbende tegen een koninklijk besluit als bedoeld in artikel 261, eerste lid, dan wel tegen een vernietigingsbesluit als bedoeld in artikel 83, tweede lid, beroep instellen.  
 
 ### Titel  VI  
 

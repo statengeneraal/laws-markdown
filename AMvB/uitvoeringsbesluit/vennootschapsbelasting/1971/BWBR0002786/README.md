@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Dit besluit geeft uitvoering aan de [artikelen 5](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [9](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [14c](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en [29 van de Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).   
+1.  Dit besluit geeft uitvoering aan de [artikelen 5](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [12b](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [14c](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en [29 van de Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).   
 2.  Dit besluit verstaat onder wet: de [Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).   
 
 ### Artikel  2  
@@ -56,9 +56,9 @@ Een lichaam dat voldoet aan de voorwaarden gesteld in de artikelen 5, 6 of 7 is 
 
 ### Artikel  7aa  
 
-1.  De uitkeringen, bedoeld in [artikel 9, eerste lid, onderdeel h, van de wet](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) komen slechts in aftrek indien deze zijn gedaan uiterlijk zes maanden na afloop van het boekjaar waarin de daarvoor bestemde gelden zijn verkregen.   
-2.  De uitkeringen, bedoeld in het eerste lid, worden op verzoek reeds in aanmerking genomen in het boekjaar waarin de daarvoor bestemde gelden zijn verkregen.   
-3.  De kosten, bedoeld in [artikel 9, eerste lid, onderdeel i, van de wet](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) komen slechts in aftrek indien het lichaam deze in zijn administratie heeft gespecificeerd naar de in dat onderdeel bedoelde personen onder opgave van hun naam, adres, woonplaats en de daadwerkelijk aan hen verstrekte beloningen.   
+1.  Indien bij een belastingplichtige [artikel 12b van de wet](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) toepassing vindt op de voordelen uit een immaterieel activum dat in het jaar of in een van de twee voorafgaande jaren is voortgebracht, kan de belastingplichtige ervoor kiezen dat voor de toepassing van artikel 12b, eerste lid, van de wet 25% van de winst vóór toepassing van artikel 12b van de wet, met een maximum van € 25 000, wordt aangemerkt als het saldo van de in het jaar genoten voordelen uit immateriële activa dat uitgaat boven de drempel, bedoeld in artikel 12b, vijfde lid, van de wet. De eerste volzin vindt slechts toepassing indien de aldaar bedoelde winst positief is.   
+2.  Indien alle immateriële activa waarop [artikel 12b van de wet](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) toepassing vindt en die in het jaar of in een van de twee voorafgaande jaren zijn voortgebracht, deel uitmaken van het vermogen van een of meer samenwerkingsverbanden van de belastingplichtige met een of meer andere belastingplichtigen, wordt het in het eerste lid genoemde percentage gesteld op de som van de voor elk van die samenwerkingsverbanden geldende percentages, doch ten hoogste op 25, waarbij het voor een samenwerkingsverband geldende percentage wordt gesteld op 25 vermenigvuldigd met de mate van gerechtigheid van de belastingplichtige tot de voordelen van dat samenwerkingsverband.   
+3.  Ingeval bij een belastingplichtige de voordelen uit immateriële activa, bedoeld in [artikel 12b van de wet](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), op basis van het eerste lid worden bepaald, wordt voor de toepassing van artikel 12b, zesde lid, van de wet de vermindering, bedoeld in dat zesde lid, onderdeel d, gesteld op nihil.   
 
 ### Artikel  7ab  
 
@@ -68,11 +68,9 @@ a. een dergelijke rechtspersoon is aan te merken als een vennootschap met een ge
 
 b. een dergelijke rechtspersoon in het land van oprichting als subject onderworpen is aan een belasting naar de winst;  
 
-c. de door de rechtspersoon behaalde winst niet rechtstreeks aan de kapitaalverschaffers is toe te rekenen, doch hen slechts kan bereiken via een uitdelingsbesluit van het daartoe bevoegde orgaan van de rechtspersoon;  
+c. de kapitaalverschaffers niet verder aansprakelijk zijn dan tot het bedrag dat op hun aandelen in de vennootschap is gestort;  
 
-d. de kapitaalverschaffers niet verder aansprakelijk zijn dan tot het bedrag dat op hun aandelen in de vennootschap is gestort;  
-
-e. alle kapitaalverschaffers in beginsel stemrecht hebben overeenkomstig hun aandeel in het kapitaal van de rechtspersoon.    
+d. alle kapitaalverschaffers in beginsel stemrecht hebben overeenkomstig hun aandeel in het kapitaal van de rechtspersoon.    
 
 ### Artikel  7b  
 

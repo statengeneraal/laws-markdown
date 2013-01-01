@@ -47,7 +47,9 @@ d. voor het ingevolge wettelijk voorschrift voor «gezien» doen tekenen van een
 
 e. voor het aanplakken van een exploot: USD 3;  
 
-f. voor het doen aankondigen van een gedaan exploot in een dagblad: USD 3.    
+f. voor het doen aankondigen van een gedaan exploot in een dagblad: USD 3;  
+
+g. voor het verzenden van een aanmaning tot betaling: USD 1.    
 
 ### Artikel  2.3  
 

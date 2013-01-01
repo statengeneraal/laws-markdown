@@ -357,10 +357,6 @@ e. de maatregelen die worden overwogen om te voorkomen dat een zodanig voorval z
 
 ####Beroep
 
-### Artikel  26  
-
-Beroep op de administratieve rechter staat open overeenkomstig [hoofdstuk 20 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
-
 ### §  7  
 
 ####Handhaving

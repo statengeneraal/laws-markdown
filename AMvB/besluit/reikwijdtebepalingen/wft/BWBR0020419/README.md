@@ -324,7 +324,7 @@ a. door betrokkene verstrekte gegevens en inlichtingen;
 
 b. door de Landelijke Officier van Justitie verstrekte politiegegevens;  
 
-c. gegevens uit de registratie, bedoeld in [artikel 1, onderdeel b, van de Wet documentatie vennootschappen](../../../../../wet/wet/controle/op/rechtspersonen/BWBR0015049/README.md);  
+c. gegevens uit de registratie, bedoeld in [artikel 1, onderdeel b, van de Wet controle op rechtspersonen](../../../../../wet/wet/controle/op/rechtspersonen/BWBR0015049/README.md);  
 
 d. gegevens en inlichtingen, verkregen van de Belastingdienst;  
 
@@ -351,7 +351,16 @@ c. de aard van de nadere gegevens of inlichtingen.
 
 ### Artikel  32  
 
-De betrouwbaarheid van een persoon als bedoeld in artikel 28 staat niet buiten twijfel als deze veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van de bijlage, tenzij er sinds het onherroepelijk worden van de uitspraak acht jaren of meer zijn verstreken.  
+1.  De betrouwbaarheid van een persoon als bedoeld in artikel 29 staat niet buiten twijfel indien: 
+
+a. deze onherroepelijk veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van de bijlage, waarbij sinds het onherroepelijk worden van de uitspraak minder dan acht jaren zijn verstreken;  
+
+b. deze veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van de bijlage, waarbij de uitspraak nog niet onherroepelijk is of waarbij sinds het onherroepelijk worden van de uitspraak acht of meer jaren zijn verstreken;  
+
+c. deze veroordeeld is terzake van een overtreding van [artikel 69 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) of [artikel 65 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), waarbij betrokkene veroordeeld is tot een gevangenisstraf of boete; of  
+
+d. deze een vergrijpboete van meer dan € 62.500 opgelegd heeft gekregen terzake van een feit als genoemd in onderdeel 5 van de bijlage, en het besluit waarbij de vergrijpboete is opgelegd onherroepelijk is geworden of waarbij ten minste de rechter in eerste aanleg uitspraak heeft gedaan.     
+2.  De Nederlandsche bank kan op grond van de omstandigheden of belangen, genoemd in artikel 33, afwijken van het eerste lid, ten aanzien van de onderdelen b, c en d.   
 
 ### Artikel  33  
 

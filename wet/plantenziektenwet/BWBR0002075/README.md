@@ -135,10 +135,6 @@ De [artikelen 5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.m
 1.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover het betreft de verplichting tot het verlenen van medewerking aan een krachtens artikel 10 aangewezen ambtenaar of persoon.   
 2.  Verkrijgen de in artikel 10 bedoelde ambtenaren of personen de wetenschap of het vermoeden van de aanwezigheid van schadelijke organismen dan zijn zij bevoegd, in afwachting van krachtens deze wet voor te schrijven maatregelen, in individuele gevallen voor de tijd van acht en veertig uur of zoveel langer als naar het oordeel van Onze Minister nodig is het vervoeren of verplaatsen van de schadelijke organismen, van planten, plantaardige produkten, grond of andere cultuurmedia of andere goederen waarin of waarop zich de schadelijke organismen kunnen bevinden, te verbieden of daaromtrent voorschriften te geven.   
 
-### Artikel  16  
-
-Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.  
-
 ### Artikel  17  
 
 Bevat wijzigingen in andere regelgeving.   

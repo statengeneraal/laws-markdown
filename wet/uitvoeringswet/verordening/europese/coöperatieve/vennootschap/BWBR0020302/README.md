@@ -42,8 +42,8 @@ Ten behoeve van de verplaatsing van de statutaire zetel naar een andere lidstaat
 
 ### Artikel  6  
 
-1.  De zetelverplaatsing van een Europese coöperatieve vennootschap met statutaire zetel in Nederland naar een andere lidstaat van de Europese Unie heeft geen rechtsgevolg wanneer Onze Minister van Justitie zich daartegen verzet om redenen van algemeen belang door nederlegging van een daarop betrekking hebbende verklaring ten kantore van het handelsregister, binnen twee maanden na de aankondiging van de nederlegging van het voorstel. Tegen het verzet staat voor de Europese coöperatieve vennootschap beroep open bij het College van beroep voor het bedrijfsleven. De verklaring in de zin van artikel 7, achtste lid, van de Verordening mag eerst worden afgegeven, zodra het verzet is ingetrokken of de opheffing van het verzet onherroepelijk is.   
-2.  Voor de toepassing van artikel 7, veertiende lid, tweede alinea, van de Verordening zijn de laatste twee zinnen van het eerste lid van overeenkomstige toepassing.   
+1.  De zetelverplaatsing van een Europese coöperatieve vennootschap met statutaire zetel in Nederland naar een andere lidstaat van de Europese Unie heeft geen rechtsgevolg wanneer Onze Minister van Justitie zich daartegen verzet om redenen van algemeen belang door nederlegging van een daarop betrekking hebbende verklaring ten kantore van het handelsregister, binnen twee maanden na de aankondiging van de nederlegging van het voorstel. De verklaring in de zin van artikel 7, achtste lid, van de Verordening mag eerst worden afgegeven, zodra het verzet is ingetrokken of de opheffing van het verzet onherroepelijk is.   
+2.  Voor de toepassing van artikel 7, veertiende lid, tweede alinea, van de Verordening is de tweede zin van het eerste lid van overeenkomstige toepassing.   
 
 ### Artikel  7  
 
@@ -56,7 +56,7 @@ De statuten van een Europese coöperatieve vennootschap met statutaire zetel in 
 
 ### Artikel  9  
 
-Een coöperatie met statutaire zetel in Nederland kan niet aan de oprichting van een Europese coöperatieve vennootschap door fusie deelnemen wanneer Onze Minister van Justitie zich daartegen verzet om redenen van algemeen belang door nederlegging van een daarop betrekking hebbende verklaring ten kantore van het handelsregister binnen een maand na de bekendmaking van de gegevens als bedoeld in artikel 24, tweede lid, van de Verordening. Tegen het verzet staat voor de coöperatie beroep open bij het College van beroep voor het bedrijfsleven. De deelneming aan de fusie heeft eerst rechtsgevolg zodra het verzet is ingetrokken of de opheffing van het verzet onherroepelijk is.  
+Een coöperatie met statutaire zetel in Nederland kan niet aan de oprichting van een Europese coöperatieve vennootschap door fusie deelnemen wanneer Onze Minister van Justitie zich daartegen verzet om redenen van algemeen belang door nederlegging van een daarop betrekking hebbende verklaring ten kantore van het handelsregister binnen een maand na de bekendmaking van de gegevens als bedoeld in artikel 24, tweede lid, van de Verordening. De deelneming aan de fusie heeft eerst rechtsgevolg zodra het verzet is ingetrokken of de opheffing van het verzet onherroepelijk is.  
 
 ### Artikel  10  
 
@@ -76,6 +76,7 @@ De statuten van de Europese coöperatieve vennootschap met statutaire zetel in N
 1.  Het bestuursorgaan als bedoeld in artikel 42 van de Verordening bestaat uit ten minste drie leden.   
 2.  De [artikelen 7](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [45 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn van overeenkomstige toepassing op een Europese coöperatieve vennootschap met statutaire zetel in Nederland.   
 3.  Voor de toepassing van artikel 46, eerste lid, van de Verordening geldt dat de leden van het bestuursorgaan die overeenkomstig een onderlinge taakverdeling niet belast zijn met het uitvoerend bestuur, natuurlijke personen moeten zijn.   
+3.  Voor de toepassing van artikel 46, eerste lid, van de Verordening geldt dat de leden van het bestuursorgaan die overeenkomstig een taakverdeling niet belast zijn met het uitvoerend bestuur, natuurlijke personen moeten zijn.   
 
 ### Artikel  14  
 
@@ -107,7 +108,7 @@ Als bevoegde autoriteit in de zin van artikel 7, achtste lid, artikel 29, tweede
 
 ### Artikel  21  
 
-Als bevoegde autoriteit in de zin van artikel 73, vijfde lid, van de Verordening wordt aangewezen: het hoofd van het ressortsparket te Amsterdam.  
+Als bevoegde autoriteit in de zin van artikel 73, vijfde lid, van de Verordening wordt aangewezen: het hoofd van het ressortsparket.  
 
 ### Hoofdstuk  2  
 

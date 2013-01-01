@@ -285,7 +285,7 @@ m. ter zake van terugvordering: de [artikelen 33 tot en met 34a](../../../../../
 
 n. ter zake van vervreemding, verpanding en volmacht tot ontvangst: [artikel 50](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
 
-o. ter zake van bestuurlijke boeten: de [artikelen 45a tot en met 45g](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+o. ter zake van bestuurlijke boeten: de [artikelen 45a](../../../../../../wet/ziektewet/BWBR0001888/README.md), [45g](../../../../../../wet/ziektewet/BWBR0001888/README.md) en [45h](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
 
 p. ter zake van het afzien van het horen van de belanghebbende: [artikel 72d](../../../../../../wet/ziektewet/BWBR0001888/README.md).     
 2.  De strafbepaling van [artikel 84, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) is van overeenkomstige toepassing.   
@@ -304,7 +304,7 @@ p. ter zake van het afzien van het horen van de belanghebbende: [artikel 72d](..
 
 a. beroepsbeoefenaar op arbeidsovereenkomst: de werknemer, bedoeld in artikel 1:1, onderdeel b, die op grond van [artikel 6, eerste lid, onderdeel c, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), geen werknemer in de zin van [die wet](../../../../../../wet/ziektewet/BWBR0001888/README.md) is;  
 
-b. zelfstandige: de persoon, jonger dan 65 jaar, die: 
+b. zelfstandige: de persoon die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt, die: 
 
 1°. in Nederland woont en die winst uit onderneming geniet, tenzij hij de onderneming niet voor eigen rekening feitelijk drijft;  
 
@@ -373,7 +373,7 @@ c. of zij de uitkering wil genieten in de vorm van een uitkering ter zake van ve
 
 ### Artikel  3:24  
 
-De uitkering ter zake van vervanging bedraagt de grondslag, bedoeld in artikel 3:23, eerste lid, vermeerderd met het bedrag aan premies en aan vergoeding als bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), dat het Uitvoeringsinstituut werknemersverzekeringen bij uitbetaling als uitkering in verband met zwangerschap en bevalling daarover verschuldigd zou zijn.  
+De uitkering ter zake van vervanging bedraagt de grondslag, bedoeld in artikel 3:23, eerste lid, vermeerderd met het bedrag aan premies en aan inkomensafhankelijke bijdrage als bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), dat het Uitvoeringsinstituut werknemersverzekeringen bij uitbetaling als uitkering in verband met zwangerschap en bevalling daarover verschuldigd zou zijn.  
 
 ####De uitbetaling van de uitkering
 
@@ -420,7 +420,7 @@ k. ter zake van terugvordering: [artikel 63](../../../../../../wet/wet/arbeidson
 
 l. ter zake van vervreemding, verpanding en volmacht tot ontvangst: [artikel 66](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  
 
-m. ter zake van bestuurlijke boeten: de [artikelen 48 tot en met 54](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  
+m. ter zake van bestuurlijke boeten: de [artikelen 48](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [54](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) en [54a](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  
 
 n. ter zake van het afzien van het horen van de belanghebbende: [artikel 95b](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md).     
 2.  De strafbepaling van [artikel 84, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) is van overeenkomstige toepassing.   

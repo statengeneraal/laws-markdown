@@ -24,7 +24,7 @@ e. *aannemer*: een aannemer als bedoeld in [artikel 35, eerste lid, van de Invor
 
 f. *opdrachtgever*: een opdrachtgever als bedoeld in [artikel 35a, tweede lid, van de Invorderingswet](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de daarmee op grond van de [artikel 35a, derde lid, van de Invorderingswet](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) gelijk te stellen bedrijfsmatig handelende koper van nog geheel of gedeeltelijk te vervaardigen kleding, andere dan schoeisel;  
 
-g. *kredietinstelling*: een kredietinstelling als bedoeld in de [artikelen 34, derde lid](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), en [35, vijfde lid, van de Invorderingswet](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md);  
+g. *bank*: een financiële onderneming die ingevolge de [Wet op het financieel toezicht](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van bank mag uitoefenen;  
 
 h. *ontvanger*: de ontvanger, bedoeld in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md);  
 
@@ -32,7 +32,7 @@ i. *loonbelasting*: de loonbelasting en de premies voor de sociale verzekeringen
 
 j. *omzetbelasting*: de omzetbelasting met betrekking tot de terbeschikkingstelling van arbeidskrachten;  
 
-k. *g-rekening*: een geblokkeerde rekening, zijnde een rekening als bedoeld in de [artikelen 34, derde lid](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), en [35, vijfde lid, van de Invorderingswet](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), welke door een uitlener, een onderaannemer of een confectie-aannemer, bij een kredietinstelling wordt gehouden en waarvan de saldi uitsluitend bestemd zijn voor betaling van door de uitlener, onderaannemer of die confectie-aannemer verschuldigde loonbelasting en omzetbelasting, in verband waarmee op die saldi ten behoeve van de ontvanger een pandrecht is gevestigd;  
+k. *g-rekening*: een geblokkeerde rekening, zijnde een rekening als bedoeld in de [artikelen 34, derde lid](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), en [35, vijfde lid, van de Invorderingswet](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), welke door een uitlener, een onderaannemer of een confectie-aannemer, bij een bank wordt gehouden en waarvan de saldi uitsluitend bestemd zijn voor betaling van door de uitlener, onderaannemer of die confectie-aannemer verschuldigde loonbelasting en omzetbelasting, in verband waarmee op die saldi ten behoeve van de ontvanger een pandrecht is gevestigd;  
 
 l. *rekeninghouder*: de houder van een g-rekening;  
 
@@ -77,7 +77,7 @@ b. gegronde vrees bestaat dat onjuist gebruik van de g-rekening zal worden gemaa
 
 ####Bewaren g-rekeningovereenkomst
 
-Het door partijen getekende exemplaar van de g-rekeningovereenkomst wordt door de kredietinstelling bewaard zolang de g-rekening in stand blijft, doch in ieder geval gedurende zeven jaren. De kredietinstelling verschaft de andere partijen een kopie daarvan. Met betrekking tot de eerste zin is [artikel 52, vijfde en zesde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.  
+Het door partijen getekende exemplaar van de g-rekeningovereenkomst wordt door de bank bewaard zolang de g-rekening in stand blijft, doch in ieder geval gedurende zeven jaren. De bank verschaft de andere partijen een kopie daarvan. Met betrekking tot de eerste zin is [artikel 52, vijfde en zesde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.  
 
 ### Artikel  6  
 
@@ -85,7 +85,7 @@ Het door partijen getekende exemplaar van de g-rekeningovereenkomst wordt door d
 
 1.  Een betaling die wordt verricht op een g-rekening wordt voor de toepassing van de [artikelen 34, derde lid](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), en [35, vijfde lid, van de Invorderingswet](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) in aanmerking genomen indien: 
 
-a. de factuur welke de uitlener, de onderaannemer of de confectie-aannemer ter zake van de door hem aan de inlener, aannemer of opdrachtgever geleverde prestatie of prestaties heeft doen toekomen, voldoet aan de eisen, voorzover toepasselijk, die [artikel 35 van de Wet op de omzetbelasting 1968](../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) daaraan stelt alsmede de vermelding bevat van: 
+a. de factuur welke de uitlener, de onderaannemer of de confectie-aannemer ter zake van de door hem aan de inlener, aannemer of opdrachtgever geleverde prestatie of prestaties heeft doen toekomen, voldoet aan de eisen, voorzover toepasselijk, die [artikel 35a van de Wet op de omzetbelasting 1968](../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) daaraan stelt alsmede de vermelding bevat van: 
 
 1°. het nummer of het kenmerk, voorzover aanwezig, van de overeenkomst ingevolge welke de uitlener, de onderaannemer of de confectie-aannemer de gefactureerde prestatie of prestaties heeft verricht;  
 
@@ -151,7 +151,7 @@ e. de rekeninghouder in staat van faillissement is verklaard;
 f. aan de rekeninghouder surséance van betaling is verleend;  
 
 g. ten aanzien van de rekeninghouder de schuldsaneringsregeling natuurlijke personen van toepassing is.     
-2.  De rekeninghouder en de betrokken kredietinstelling zijn, onverminderd het bepaalde in het vierde lid, bevoegd de g-rekeningovereenkomst eenzijdig, zonder rechterlijke tussenkomst en zonder opgaaf van reden op te zeggen.   
+2.  De rekeninghouder en de betrokken bank zijn, onverminderd het bepaalde in het vierde lid, bevoegd de g-rekeningovereenkomst eenzijdig, zonder rechterlijke tussenkomst en zonder opgaaf van reden op te zeggen.   
 3.  De opzegging geschiedt schriftelijk. Zij wordt niet eerder van kracht dan nadat zij aan de overige partijen bij de g-rekeningovereenkomst is bekendgemaakt. De opzegging wordt voorts niet van kracht zolang en voorzover die opzegging een belemmering zou vormen voor de toepassing van het vierde lid.   
 4.  Na opzegging van de g-rekeningovereenkomst blijft die overeenkomst niettemin van toepassing op het saldo van de g-rekening ten tijde van de opzegging, alsmede op hetgeen nadien op die rekening wordt gestort, een en ander voorzover daardoor geen strijdigheid ontstaat met de gevolgen die rechtens zijn verbonden aan het in staat van faillissement verklaren van de rekeninghouder, van het aan hem verlenen van surséance van betaling of van het op hem van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen.   
 5.  Een betaling die wordt verricht op een rekening die oorspronkelijk is geopend ingevolge een g-rekeningovereenkomst doch met betrekking waartoe een opzegging van die overeenkomst van kracht is geworden, wordt voor de toepassing van de [artikelen 34, derde lid](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), of [35, vijfde lid, van de Invorderingswet](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) niet aangemerkt als betaling die in mindering wordt gebracht op het bedrag aan loonbelasting of omzetbelasting, waarvoor aansprakelijkheid is ontstaan, tenzij die betaling deel is gaan uitmaken van het saldo op die rekening of het gedeelte van dat saldo op die rekening waarop ondanks die opzegging ingevolge het vierde lid het in artikel 1, onderdeel k, bedoelde pandrecht is komen te rusten.   
@@ -203,25 +203,25 @@ De ondergetekenden:
 
 – de ontvanger der rijksbelastingen, verder te noemen de ontvanger;  
 
-– de ... (naam van de kredietinstelling), ... (adres, postcode en vestigingsplaats) verder te noemen de kredietinstelling.   Overwegende: 
+– de ... (naam van de bank), ... (adres, postcode en vestigingsplaats) verder te noemen de bank.   Overwegende: 
 
 – dat de rekeninghouder inhoudingsplichtige is in de zin van de [Wet op de loonbelasting 1964](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en/of werkgever is in de zin van de [Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), en als zodanig bij de ontvanger bekend staat onder nummer ...., dan wel op de rekeninghouder artikel 2, eerste lid, onderdelen a, d en f, en tweede lid, van de Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004 van toepassing is;  
 
 – dat de rekeninghouder, die zijn bedrijf uitsluitend of nagenoeg uitsluitend maakt van het tegen vergoeding uitlenen van personeel, voor de heffing van omzetbelasting bij de ontvanger bekend staat onder nummer ...;  
 
-– dat de rekeninghouder bij de kredietinstelling een rekening wenst te openen, waarvan de saldi, behoudens de in punt 5 van deze overeenkomst voorziene uitzondering, uitsluitend bestemd zijn voor betalingen als bedoeld in de [artikelen 34, derde lid](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), en [35, vijfde lid, van de Invorderingswet 1990](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md);  
+– dat de rekeninghouder bij de bank een rekening wenst te openen, waarvan de saldi, behoudens de in punt 5 van deze overeenkomst voorziene uitzondering, uitsluitend bestemd zijn voor betalingen als bedoeld in de [artikelen 34, derde lid](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), en [35, vijfde lid, van de Invorderingswet 1990](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md);  
 
 – dat het, teneinde te bewerkstelligen dat de saldi van die rekening daadwerkelijk zullen dienen tot vorenbedoelde betalingen, noodzakelijk is dat de saldi noch door middel van verrekening, noch door middel van beslag, noch anderszins, zullen kunnen worden gebruikt voor andere betalingen dan vorenbedoeld;  
 
 – dat het in verband met het vorenstaande noodzakelijk is dat de saldi van die rekening worden verpand aan de ontvanger.   Zijn overeengekomen als volgt: 
 
-1. De rekeninghouder opent hierbij een geblokkeerde rekening (g-rekening) bij de kredietinstelling onder nummer ... .  
+1. De rekeninghouder opent hierbij een geblokkeerde rekening (g-rekening) bij de bank onder nummer ... .  
 
-2. De rekeninghouder verklaart dat de saldi van de g-rekening hierbij in eerste onderpand worden gegeven aan de ontvanger voor hetgeen hij nu of te eniger tijd van hem te vorderen heeft of zal krijgen ter zake van de verschuldigde belasting, bedoeld in de [artikelen 34, eerste en derde lid](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [35, eerste en vijfde lid](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), of [35a, eerste lid, van de Invorderingswet 1990](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en premies voor de sociale verzekeringen, een en ander voorzover verband houdende met door hem aan derden ter beschikking gestelde werknemers waarvoor hij ingevolge de [Wet op de loonbelasting 1964](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) als inhoudingsplichtige en in verband waarmee hij, voorzover toepasselijk, voor de [Wet op de omzetbelasting 1968](../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) als ondernemer wordt aangemerkt en/of waarvoor hij als werkgever in de zin van de [Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) wordt aangemerkt onderscheidenlijk met door hem aangenomen werk, waarop de g-rekening betrekking heeft, een en ander met dien verstande dat de rente die de kredietinstelling over die saldi vergoedt op een andere rekening van de rekeninghouder zal worden gecrediteerd.  
+2. De rekeninghouder verklaart dat de saldi van de g-rekening hierbij in eerste onderpand worden gegeven aan de ontvanger voor hetgeen hij nu of te eniger tijd van hem te vorderen heeft of zal krijgen ter zake van de verschuldigde belasting, bedoeld in de [artikelen 34, eerste en derde lid](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [35, eerste en vijfde lid](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), of [35a, eerste lid, van de Invorderingswet 1990](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en premies voor de sociale verzekeringen, een en ander voorzover verband houdende met door hem aan derden ter beschikking gestelde werknemers waarvoor hij ingevolge de [Wet op de loonbelasting 1964](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) als inhoudingsplichtige en in verband waarmee hij, voorzover toepasselijk, voor de [Wet op de omzetbelasting 1968](../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) als ondernemer wordt aangemerkt en/of waarvoor hij als werkgever in de zin van de [Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) wordt aangemerkt onderscheidenlijk met door hem aangenomen werk, waarop de g-rekening betrekking heeft, een en ander met dien verstande dat de rente die de bank over die saldi vergoedt op een andere rekening van de rekeninghouder zal worden gecrediteerd.  
 
 3. De in punt 2 bedoelde verpanding zal geacht worden te zijn geëffectueerd telkens op het moment dat bedragen op de g-rekening worden gecrediteerd.  
 
-4. De kredietinstelling verklaart in verband met het vorenstaande afstand te doen van haar recht op verrekening, van pand of enig ander recht dat afbreuk zou kunnen doen aan het ten behoeve van de ontvanger gevestigde pandrecht.  
+4. De bank verklaart in verband met het vorenstaande afstand te doen van haar recht op verrekening, van pand of enig ander recht dat afbreuk zou kunnen doen aan het ten behoeve van de ontvanger gevestigde pandrecht.  
 
 5. Betalingen ten laste van de g-rekening, andere dan die, bedoeld in de beweegreden van deze overeenkomst, en andere dan terugstortingen als bedoeld in punt 9, zullen slechts geschieden na daartoe ontvangen schriftelijke toestemming van de ontvanger.  
 
@@ -235,9 +235,9 @@ De ondergetekenden:
 
 10. De rekeninghouder verplicht zich hierbij tegenover de ontvanger om opdrachten tot betaling ten laste van de g-rekening slechts op één aangifte of één belastingaanslag betrekking te doen hebben.  
 
-11. De kredietinstelling verklaart in verband met de in punt 9 omschreven plicht tot terugstorten op de daadwerkelijk terugstortingen punt 4 overeenkomstig te zullen toepassen.  
+11. De bank verklaart in verband met de in punt 9 omschreven plicht tot terugstorten op de daadwerkelijk terugstortingen punt 4 overeenkomstig te zullen toepassen.  
 
-12. In de administratie van de kredietinstelling worden bij betalingen ten gunste van de g-rekening de gegevens vastgelegd zoals deze op de desbetreffende betalingsopdrachten zijn vermeld. Hetzelfde geldt voor de gegevens die bij betalingen ten laste van de g-rekening op de betalingsopdrachten zijn vermeld.  
+12. In de administratie van de bank worden bij betalingen ten gunste van de g-rekening de gegevens vastgelegd zoals deze op de desbetreffende betalingsopdrachten zijn vermeld. Hetzelfde geldt voor de gegevens die bij betalingen ten laste van de g-rekening op de betalingsopdrachten zijn vermeld.  
 
-13. De kredietinstelling zal de ontvanger op een afzonderlijk tussen hen overeen te komen wijze regelmatig op de hoogte houden van alle gegevens die op de g-rekening betrekking hebben. De rekeninghouder verklaart zich met deze gegevensuitwisseling akkoord.   Aldus overeengekomen en getekend te .......... op .......... De rekeninghouder, De ontvanger, voor deze: De kredietinstelling,  
+13. De bank zal de ontvanger op een afzonderlijk tussen hen overeen te komen wijze regelmatig op de hoogte houden van alle gegevens die op de g-rekening betrekking hebben. De rekeninghouder verklaart zich met deze gegevensuitwisseling akkoord.   Aldus overeengekomen en getekend te .......... op .......... De rekeninghouder, De ontvanger, voor deze: De bank,  
 

@@ -2,6 +2,9 @@
 
 ##Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 20 juni 2011, nr. 303947 (4903), houdende regelen omtrent de studiefinanciering BES (Regeling studiefinanciering BES)
 
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
+Gelet op de [artikelen 1.1](../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md), [2.3, derde lid](../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md), [4.7, derde lid](../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md), [4.9, vierde lid](../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md), [5.2, derde lid](../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md), en [7.2 van de Wet studiefinanciering BES](../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md);
+Besluit:     
 ### Hoofdstuk  1  
 
 ####Algemene bepaling
@@ -85,7 +88,7 @@ De betaling voor de rente en aflossing van de lening, bedoeld in [artikel 4.9 va
 
 1.  Indien uit een beschikking tot herziening als bedoeld in [artikel 5.1, van de wet](../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md) blijkt dat te veel studiefinanciering is uitbetaald, wordt dit op de voet van het tweede en derde lid verrekend met nog te verrichten betalingen op grond van de [wet](../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md).   
 2.  Eerst wordt zoveel mogelijk verrekend met de nabetalingen die van het tijdstip van afgifte van de in het eerste lid bedoelde beschikking af aan de studerende zouden moeten worden gedaan.   
-3.  Vervolgens wordt zolang het te veel uitbetaalde bedrag nog niet volledig is verrekend met de in het tweede lid bedoelde nabetalingen, verrekend met de maandbetalingen, bedoeld in [artikel 3, eerste lid, van het Besluit studiefinanciering BES](../../../../../AMvB-BES/besluit/studiefinanciering/bes/BWBR0029604/README.md). Wanneer die maandbetalingen hoger zijn dan USD 213,77 naar de maatstaf van 1 januari 2011, geschiedt de verrekening met dat bedrag.   
+3.  Vervolgens wordt zolang het te veel uitbetaalde bedrag nog niet volledig is verrekend met de in het tweede lid bedoelde nabetalingen, verrekend met de maandbetalingen, bedoeld in [artikel 3, eerste lid, van het Besluit studiefinanciering BES](../../../../../AMvB-BES/besluit/studiefinanciering/bes/BWBR0029604/README.md). Wanneer die maandbetalingen hoger zijn dan USD 230,43 naar de maatstaf van 1 januari 2011, geschiedt de verrekening met dat bedrag.   
 4.  Onder nabetalingen, bedoeld in het tweede lid, wordt verstaan de betaling van bedragen die op grond van enige herzieningsbeschikking over reeds op het tijdstip van afgifte van die beschikking verstreken maanden zonder de verrekening, bedoeld in het tweede lid, aan de studerende betaalbaar zouden worden gesteld.   
 5.  Indien er niet langer betalingen op grond van de [wet](../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md) zijn, wordt het bedrag aan studiefinanciering dat te veel is uitbetaald voor zover dat bedrag nog niet is verrekend, op eerste vordering binnen 30 dagen geheel terugbetaald.   
 6.  In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van artikel 5.2 aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.   

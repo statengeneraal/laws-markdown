@@ -13,10 +13,6 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 De navolgende bepalingen worden vastgesteld, die kunnen worden aangehaald als WET OORLOGSSTRAFRECHT  
 
-### Artikel  Ia  
-
-De Wet oorlogsstrafrecht is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat voor de toepassing van de artikelen 3, onderdelen 1° tot en met 3°, en 12, tweede en vijfde lid, van de Wet oorlogsstrafrecht in plaats van «het rijk in Europa» telkens wordt gelezen: Nederland.  
-
 ### Artikel  1  
 
 1.  De bepalingen van deze wet zijn van toepassing op de misdrijven, in geval van oorlog begaan of eerst in geval van oorlog strafbaar, welke zijn omschreven in: 
@@ -219,7 +215,11 @@ Indien alleen door de verdachte beroep in cassatie is ingesteld, kan hij ter zak
 ### Artikel  36  
 
 1.  In afwijking in zoverre van het bepaalde in [artikel 461, eerste lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) geschiedt zowel in het daar als ook in het in [artikel 467, eerste lid, van dat Wetboek](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde geval, de verwijzing naar een bijzondere rechtbank.   
-2.  Hetgeen bij de artikelen 470, 473 en 474 van dat Wetboek, alsmede bij de artikelen, waarnaar daarin wordt verwezen, omtrent het gerechtshof, deszelfs voorzitter en de advocaat-generaal bij dat gerechtshof is bepaald, is ten aanzien van de bijzondere rechtbank, derzelver voorzitter en de officier van justitie bij die rechtbank van overeenkomstige toepassing.   
+2.  Hetgeen bij de [artikelen 470](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [473](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [474 van dat Wetboek](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), alsmede bij de artikelen, waarnaar daarin wordt verwezen, omtrent het gerechtshof, deszelfs voorzitter en de advocaat-generaal is bepaald, is ten aanzien van de bijzondere rechtbank, derzelver voorzitter en de officier van justitie van overeenkomstige toepassing.   
+
+### Artikel  Ia  
+
+De Wet oorlogsstrafrecht is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat voor de toepassing van de artikelen 3, onderdelen 1° tot en met 3°, en 12, tweede en vijfde lid, van de Wet oorlogsstrafrecht in plaats van «het rijk in Europa» telkens wordt gelezen: Nederland.  
 
 ### Artikel  II  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 17 juli 1997, nr. BW97/U1169 directoraat-generaal Openbaar Bestuur;
 
-Gelet op de [artikelen 9](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md), [15](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md), [32](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md), [57](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md), [66](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md), [70](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md), [78](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md), [79](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md) en [81, onderdeel 7°, van de Wet op de lijkbezorging](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md);
+Gelet op de artikelen 9, 15, 32, 57, 66, 70, 78, 79 en 81, onderdeel 7°, van de Wet op de lijkbezorging;
 
 De Raad van State gehoord (advies van 11 augustus 1997, nr. W04.97.0462);
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. de wet: de [Wet op de lijkbezorging](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md);  
+a. de wet: de Wet op de lijkbezorging;  
 
 b. de Overeenkomst van Straatsburg: de overeenkomst inzake het vervoer van lijken van 26 oktober 1973 (Trb. 1975, 95);  
 
@@ -32,8 +32,8 @@ c. de Overeenkomst van Berlijn: de overeenkomst inzake het vervoer van lijken va
 
 ### Artikel  2  
 
-1.  Het model van de verklaring van overlijden, bedoeld in [artikel 9, eerste lid, van de wet](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md), af te geven door de behandelende arts, luidt als in bijlage I van dit besluit is aangegeven.   
-2.  Het model van de verklaring van overlijden, bedoeld in [artikel 9, eerste lid, van de wet](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md), af te geven door de gemeentelijke lijkschouwer, luidt als in bijlage II van dit besluit is aangegeven.   
+1.  Het model van de verklaring van overlijden, bedoeld in artikel 9, eerste lid, van de wet, af te geven door de behandelende arts, luidt als in bijlage I van dit besluit is aangegeven.   
+2.  Het model van de verklaring van overlijden, bedoeld in artikel 9, eerste lid, van de wet, af te geven door de gemeentelijke lijkschouwer, luidt als in bijlage II van dit besluit is aangegeven.   
 
 ### Paragraaf  3  
 
@@ -46,12 +46,8 @@ c. de Overeenkomst van Berlijn: de overeenkomst inzake het vervoer van lijken va
 
 ### Artikel  4  
 
-1.  Een kist of ander omhulsel mag niet zijn vervaardigd met toepassing van kunststoffen of metalen.   
-2.  Het eerste lid is niet van toepassing ten aanzien van: 
-
-a. kunststoffen of metalen die worden gebruikt voor handvatten, ornamenten en verbindingselementen als spijkers, schroeven, nieten of klemmen;  
-
-b. door Onze Minister van Binnenlandse Zaken aangewezen kunststoffen of toepassingen van kunststoffen.     
+1.  Een kist of ander omhulsel wordt slechts voor begraving gebruikt indien deze is vervaardigd met toepassing van biologisch afbreekbare materialen die het doel van begraving niet belemmeren.   
+2.  Het eerste lid is niet van toepassing ten aanzien van materialen die worden gebruikt voor handvatten en ornamenten voor zover die van buitenaf verwijderd kunnen worden en verbindingselementen als lijm, spijkers, schroeven, nieten of klemmen.   
 
 ### Paragraaf  4  
 
@@ -64,7 +60,6 @@ b. door Onze Minister van Binnenlandse Zaken aangewezen kunststoffen of toepassi
 3.  Ten hoogste drie lijken mogen boven elkaar worden begraven, mits boven elke kist of ander omhulsel een laag grond van ten minste dertig centimeter dikte wordt aangebracht, die bij een volgende begraving niet mag worden geroerd. Ten aanzien van de bovenste kist of het bovenste omhulsel is het tweede lid van toepassing.   
 4.  De graven bevinden zich ten minste dertig centimeter boven het niveau van de gemiddeld hoogste grondwaterstand.   
 5.  Het derde en vierde lid zijn niet van toepassing op bestaande graven.   
-6.  Dit artikel is niet van toepassing op grafkelders.   
 
 ### Artikel  6  
 
@@ -72,25 +67,25 @@ De afstand van een graf tot de erfscheiding van de begraafplaats bedraagt ten mi
 
 ### Artikel  7  
 
-De constructie van grafkelders is zodanig dat lucht tot de grafruimte kan toetreden en hieruit ook afgevoerd kan worden. De afvoer van lucht uit de grafruimte geschiedt op zodanige wijze dat daarvan geen hinder kan worden ondervonden.  
+1.  De constructie van grafkelders, waaronder tevens wordt begrepen een graf in een bovengrondse constructie, is zodanig dat lucht tot de grafruimte kan toetreden en hieruit ook afgevoerd kan worden. De afvoer van lucht uit de grafruimte geschiedt op zodanige wijze dat daarvan geen hinder kan worden ondervonden.   
+2.  Artikel 5 is niet van toepassing op grafkelders als bedoeld in het eerste lid.   
 
 ### Paragraaf  5  
 
-####De wijze van verbranding en de wijze van de registratie van verbranding en van bestemming van de as
+####De wijze van crematie en de wijze van de registratie van crematie en van bestemming van de as
 
 ### Artikel  8  
 
-1.  Een lijk wordt verbrand in een kist.   
-2.  Verbranding mag geschieden zonder kist, mits het lijk zich bevindt in een ander omhulsel. Dit omhulsel moet op het doel van verbranding zijn afgestemd.   
-3.  Artikel 4 is van toepassing.   
+1.  Een lijk wordt gecremeerd in een kist.   
+2.  Crematie mag geschieden zonder kist, mits het lijk zich bevindt in een ander omhulsel. Dit omhulsel moet op het doel van crematie zijn afgestemd.   
 
 ### Artikel  9  
 
-De verbranding geschiedt op zodanige wijze, dat vermenging of verwisseling van de as met die van andere lijken niet mogelijk is.  
+De crematie geschiedt op zodanige wijze, dat vermenging of verwisseling van de as met die van andere lijken niet mogelijk is.  
 
 ### Artikel  10  
 
-1.  Het register, bedoeld in [artikel 50, eerste lid, van de wet](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md) vermeldt: 
+1.  Het register, bedoeld in artikel 50, eerste lid, van de wet vermeldt: 
 
 a. de naam en voornamen van de overledene, datum en plaats van geboorte, datum en plaats van overlijden, alsmede het registratienummer van de asbus, dan wel, in het geval van een doodgeborene, de naam, datum en plaats van geboorte, alsmede het registratienummer van de asbus;  
 
@@ -103,11 +98,11 @@ d. de plaats van bestemming van de as;
 e. in het voorkomende geval, de naam en het adres van de persoon aan wie de asbus ter beschikking is gesteld;  
 
 f. in het voorkomende geval, de naam en het adres van de houder van het crematorium of van de houder van de plaats van bijzetting waar de asbestemming zal plaatsvinden.     
-2.  Het register, bedoeld in [artikel 65, eerste lid, van de wet](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md) vermeldt: 
+2.  Het register, bedoeld in artikel 65, eerste lid, van de wet vermeldt: 
 
-a. de naam en voornamen van de overledene, onderscheidelijk de naam van de doodgeborene, alsmede het registratienummer van de asbus;  
+a. de naam en voornamen van de overledene, onderscheidenlijk de naam van de doodgeborene, alsmede het registratienummer van de asbus;  
 
-b. de naam en het adres van de houder van het crematorium waar de verbranding heeft plaatsgevonden;  
+b. de naam en het adres van de houder van het crematorium waar de crematie heeft plaatsgevonden;  
 
 c. de plaats van bijzetting van de asbus;  
 
@@ -123,9 +118,9 @@ e. in het voorkomende geval, de naam en het adres van de persoon aan wie de asbu
 
 1.  Het vervoer van een lijk uit Nederland naar een staat die eveneens partij is in de Overeenkomst van Straatsburg geschiedt ongehinderd, mits bij het lijk aanwezig is het laissez-passer voor lijken, bedoeld in artikel 3 van die overeenkomst, afgegeven door de burgemeester van de gemeente waar betreffende de overledene of doodgeborene een akte in het register van overlijden is ingeschreven.   
 2.  Het vervoer naar Nederland van een lijk, afkomstig uit een staat die eveneens partij is in de Overeenkomst van Straatsburg geschiedt ongehinderd, mits bij het lijk aanwezig is het laissez-passer voor lijken, bedoeld in artikel 3 van die overeenkomst, afgegeven door de bevoegde autoriteit van de staat van herkomst.   
-3.  Het vervoer te land van een lijk, afkomstig uit Nederland, naar België of Luxemburg ter bezorging aldaar, of omgekeerd, geschiedt ongehinderd, indien de bevoegde autoriteit van de gemeente van overlijden ingevolge de wettelijke voorschriften een verlof tot begraving of verbranding heeft afgegeven en te zamen met het lijk niets wordt vervoerd dan grafkransen, bloemen en persoonlijke bezittingen van de overledene.   
+3.  Het vervoer te land van een lijk, afkomstig uit Nederland, naar België of Luxemburg ter bezorging aldaar, of omgekeerd, geschiedt ongehinderd, indien de bevoegde autoriteit van de gemeente van overlijden ingevolge de wettelijke voorschriften een verlof tot begraving of crematie heeft afgegeven en te zamen met het lijk niets wordt vervoerd dan grafkransen, bloemen en persoonlijke bezittingen van de overledene.   
 4.  In de overige gevallen geschiedt het vervoer van een lijk uit Nederland naar het buitenland of omgekeerd ongehinderd, mits bij het lijk aanwezig is een verklaring, afgegeven door de bevoegde autoriteit van het land vanwaar het lijk wordt aangebracht, vermeldende de naam van de overledene en de plaats waarheen het lijk wordt vervoerd.   
-5.  Bij binnenkomst van een lijk in Nederland dient het in het tweede en derde lid bedoelde laissez-passer, onderscheidenlijk het verlof tot begraving of verbranding, dan wel de in het vierde lid bedoelde verklaring, te worden overgelegd aan de douane.   
+5.  Bij binnenkomst van een lijk in Nederland dient het in het tweede en derde lid bedoelde laissez-passer, onderscheidenlijk het verlof tot begraving of crematie, dan wel de in het vierde lid bedoelde verklaring, te worden overgelegd aan de douane.   
 
 ### Artikel  12  
 
@@ -138,28 +133,23 @@ e. in het voorkomende geval, de naam en het adres van de persoon aan wie de asbu
 
 ### Artikel  13  
 
-Indien een lijk Nederland is binnengebracht op een zodanig tijdstip dat begraving of verbranding binnen de door [artikel 16 van de wet](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md) gestelde termijn van de vijfde dag na die van het overlijden niet mogelijk is, vindt de begraving of verbranding zo spoedig mogelijk daarna plaats.  
+Indien een lijk Nederland is binnengebracht op een zodanig tijdstip dat begraving of crematie binnen de door artikel 16 van de wet gestelde termijn van de zesde werkdag na die van het overlijden niet mogelijk is, vindt de begraving of crematie zo spoedig mogelijk daarna plaats.  
 
 ### Artikel  14  
 
-1.  De ambtenaar van de burgerlijke stand van een gemeente waar een lijk dat afkomstig is uit een der staten die partij zijn in de Overeenkomst van Straatsburg, moet worden begraven of verbrand, verleent verlof tot begraving of verbranding van dat lijk, indien hem het document, bedoeld in artikel 3 van die overeenkomst, wordt overgelegd.   
+1.  De ambtenaar van de burgerlijke stand van een gemeente waar een lijk dat afkomstig is uit een der staten die partij zijn in de Overeenkomst van Straatsburg, moet worden begraven of gecremeerd, verleent verlof tot begraving of crematie van dat lijk, indien hem het document, bedoeld in artikel 3 van die overeenkomst, wordt overgelegd.   
 2.  Hij verleent het verlof eveneens voor een lijk dat afkomstig is uit een der staten die partij zijn in de Overeenkomst van Berlijn, indien hem het document, bedoeld in artikel 1 van die overeenkomst, wordt overgelegd.   
 3.  Hij verleent het verlof eveneens voor een lijk dat afkomstig is uit enige andere staat, indien hem een verklaring als bedoeld in artikel 11, vierde lid, wordt overgelegd.   
 4.  Het overgelegde document of de overgelegde verklaring wordt door de ambtenaar van de burgerlijke stand bewaard.   
-5.  In afwijking van [artikel 11 van de wet](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md) kan begraving of verbranding van een uit België of Luxemburg afkomstig lijk plaatsvinden, indien aan de houder van een crematorium of een begraafplaats een door de bevoegde autoriteiten van de gemeente van overlijden ingevolge de wettelijke voorschriften afgegeven verlof tot begraving of verbranding wordt overgelegd.   
+5.  In afwijking van artikel 11 van de wet kan begraving of crematie van een uit België of Luxemburg afkomstig lijk plaatsvinden, indien aan de houder van een crematorium of een begraafplaats een door de bevoegde autoriteiten van de gemeente van overlijden ingevolge de wettelijke voorschriften afgegeven verlof tot begraving of crematie wordt overgelegd.   
 
 ### Artikel  15  
 
-[Artikel 8 van de wet](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md) is niet van toepassing ten aanzien van een lijk dat Nederland is binnengebracht ter begraving, verbranding of ontleding.  
-
-### Artikel  16  
-
-1.  Artikel 4 is niet van toepassing op begraving of verbranding in een kist waarin overeenkomstig de bepalingen van de Overeenkomsten van Straatsburg en van Berlijn lijken Nederland zijn binnengebracht.   
-2.  In het geval van begraving dient de ondoordringbaarheid van de kist te worden opgeheven.   
+Artikel 8 van de wet is niet van toepassing ten aanzien van een lijk dat Nederland is binnengebracht ter begraving, crematie of ontleding.  
 
 ### Artikel  17  
 
-1.  De burgemeester beslist uiterlijk op de derde dag na die van het binnenbrengen van het lijk op een aanvraag om een verlof tot ontleding als bedoeld in [artikel 68, eerste lid, van de wet](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md), indien hem een der in artikel 14 genoemde documenten wordt overgelegd.   
+1.  De burgemeester beslist uiterlijk op de derde dag na die van het binnenbrengen van het lijk op een aanvraag om een verlof tot ontleding als bedoeld in artikel 68, eerste lid, van de wet, indien hem een der in artikel 14 genoemde documenten wordt overgelegd.   
 2.  Het overgelegde document wordt door de burgemeester bewaard.   
 
 ### Paragraaf  8  
@@ -168,7 +158,7 @@ Indien een lijk Nederland is binnengebracht op een zodanig tijdstip dat begravin
 
 ### Artikel  18  
 
-1.  Met de lijken van personen, aan boord van een Nederlands schip op zee overleden, wordt zo gehandeld dat in de wijze van lijkbezorging alsmede de plaats daarvan kan worden voorzien overeenkomstig de wens van de overledene. Indien zijn wens niet bekend is, geschiedt de lijkbezorging overeenkomstig de wens van de niet van tafel en bed gescheiden echtgenoot, de geregistreerde partner of andere levensgezel dan wel, bij onstentenis of onbereikbaarheid van deze, de naaste onmiddellijk bereikbare meerderjarige bloed- of aanverwanten tot en met de derde graad.   
+1.  Met de lijken van personen, aan boord van een Nederlands schip op zee overleden, wordt zo gehandeld dat in de wijze van lijkbezorging alsmede de plaats daarvan kan worden voorzien overeenkomstig de wens van de overledene. Indien zijn wens niet bekend is, geschiedt de lijkbezorging overeenkomstig de wens van de niet van tafel en bed gescheiden echtgenoot, de geregistreerde partner of andere levensgezel dan wel, bij ontstentenis of onbereikbaarheid van deze, de naaste onmiddellijk bereikbare meerderjarige bloed- of aanverwanten tot en met de derde graad.   
 2.  Met de lijken van doodgeborenen, aan boord van een Nederlands schip op zee ter wereld gekomen, wordt zo gehandeld dat in de wijze van lijkbezorging alsmede de plaats daarvan kan worden voorzien overeenkomstig de wens van de moeder of beide ouders.   
 
 ### Artikel  19  
@@ -219,7 +209,7 @@ Bij vermoeden van overlijden van een op een installatie verblijvende persoon ste
 
 ### Artikel  28  
 
-Onverminderd [artikel 9 van de Arbeidsomstandighedenwet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), stelt degene die is belast met de leiding der werkzaamheden op de installatie, de officier van justitie te Amsterdam onverwijld in kennis van het overlijden van een persoon op de installatie, onder vermelding van de naam van de in artikel 27 bedoelde arts.  
+Onverminderd artikel 9 van de Arbeidsomstandighedenwet, stelt degene die is belast met de leiding der werkzaamheden op de installatie, de officier van justitie te Amsterdam onverwijld in kennis van het overlijden van een persoon op de installatie, onder vermelding van de naam van de in artikel 27 bedoelde arts.  
 
 ### Artikel  29  
 
@@ -250,7 +240,7 @@ Wanneer tekenen of aanduidingen van een niet-natuurlijke dood aanwezig zijn of w
 
 ### Artikel  33  
 
-Overtreding van artikel 3, 4, of 8 van dit besluit is een strafbaar feit in de zin van [artikel 81, onderdeel 8°, van de wet](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md).  
+Overtreding van artikel 3, 4, of 8 van dit besluit is een strafbaar feit in de zin van artikel 81, onderdeel 8°, van de wet.  
 
 ### Artikel  34  
 
@@ -292,10 +282,10 @@ W. Sorgdrager
 
 ####Model van verklaring van overlijden, af te geven door de behandelende arts
 
-De ondergetekende  ,    arts te  ;    geboren op te  ,    gewoond hebbende te , overleden op <sup> 1  Doorhalen hetgeen niet van toepassing is  </sup>  ;    wonende te <sup> 1  Doorhalen hetgeen niet van toepassing is  </sup>  ,    (datum)  (ondertekening)    verklaart te zijn behandelend arts van (naam en voornamen voluit) , uit wie op te een zoon/dochter dood is geboren; <sup> 1  Doorhalen hetgeen niet van toepassing is  </sup> verklaart het lijk persoonlijk te hebben geschouwd; verklaart er van overtuigd te zijn, dat de dood ten gevolge van een natuurlijke oorzaak is ingetreden. Krachtens [artikel 6, tweede lid, Wet op de lijkbezorging](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md) is het de behandelend arts niet toegestaan als lijkschouwer op te treden, indien tussen hem en de overledene of de moeder van de doodgeborene bloed- of aanverwantschap tot in de derde graad of huwelijk bestond of bestaat. 
+De ondergetekende  ,    arts te  ;    geboren op te  ,    gewoond hebbende te , overleden op <sup> 1  Doorhalen hetgeen niet van toepassing is  </sup>  ;    wonende te <sup> 1  Doorhalen hetgeen niet van toepassing is  </sup>  ,    (datum)  (ondertekening)    verklaart te zijn behandelend arts van (naam en voornamen voluit) , uit wie op te een zoon/dochter dood is geboren; <sup> 1  Doorhalen hetgeen niet van toepassing is  </sup> verklaart het lijk persoonlijk te hebben geschouwd; indien de overledene minderjarig is op het tijdstip van overlijden, verklaart overleg te hebben gehad met de gemeentelijke lijkschouwer; datum van overleg: ................... naam gemeentelijke lijkschouwer: ................... verklaart er van overtuigd te zijn, dat de dood ten gevolge van een natuurlijke oorzaak is ingetreden. Krachtens artikel 6, tweede lid, Wet op de lijkbezorging is het de behandelend arts niet toegestaan als lijkschouwer op te treden, indien tussen hem en de overledene of de moeder van de doodgeborene bloed- of aanverwantschap tot in de derde graad of huwelijk bestond of bestaat. 
 
 ### BIJLAGE  II  
 
 ####Model van de verklaring van overlijden, af te geven door de gemeentelijke lijkschouwer
 
-De ondergetekende  ,    lijkschouwer der gemeente  ;      ,    geboren op te  ,    gewoond hebbende te , overleden op <sup> 1  Doorhalen hetgeen niet van toepassing is  </sup>  ;    wonende te <sup> 1  Doorhalen hetgeen niet van toepassing is  </sup>  ,    (datum)  (ondertekening)    verklaart gedurende de laatste twee jaar geen handelingen op het gebied van de geneeskunst te hebben verricht ten aanzien van (naam en voornamen voluit) uit wie op te een zoon/dochter dood is geboren; <sup> 1  Doorhalen hetgeen niet van toepassing is  </sup> verklaart het lijk persoonlijk te hebben geschouwd; verklaart er van overtuigd te zijn, dat de dood ten gevolge van een natuurlijke oorzaak is ingetreden. Krachtens [artikel 6, eerste lid, Wet op de lijkbezorging](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md) is het de gemeentelijke lijkschouwer niet toegestaan als zodanig op te treden, indien hij gedurende de laatste twee jaar ten aanzien van de overledene of aan de moeder van de doodgeborene handelingen op het gebied van de geneeskunst heeft verricht en indien tussen deze en hem bloed- of aanverwantschap tot in de derde graad of huwelijk bestond of bestaat. 
+De ondergetekende  ,    lijkschouwer der gemeente  ;      ,    geboren op te  ,    gewoond hebbende te , overleden op <sup> 1  Doorhalen hetgeen niet van toepassing is  </sup>  ;    wonende te <sup> 1  Doorhalen hetgeen niet van toepassing is  </sup>  ,    (datum)  (ondertekening)    verklaart gedurende de laatste twee jaar geen handelingen op het gebied van de geneeskunst te hebben verricht ten aanzien van (naam en voornamen voluit) uit wie op te een zoon/dochter dood is geboren; <sup> 1  Doorhalen hetgeen niet van toepassing is  </sup> verklaart het lijk persoonlijk te hebben geschouwd; verklaart er van overtuigd te zijn, dat de dood ten gevolge van een natuurlijke oorzaak is ingetreden. Krachtens artikel 6, eerste lid, Wet op de lijkbezorging is het de gemeentelijke lijkschouwer niet toegestaan als zodanig op te treden, indien hij gedurende de laatste twee jaar ten aanzien van de overledene of aan de moeder van de doodgeborene handelingen op het gebied van de geneeskunst heeft verricht en indien tussen deze en hem bloed- of aanverwantschap tot in de derde graad of huwelijk bestond of bestaat. 

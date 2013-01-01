@@ -161,8 +161,8 @@ c. indien het vanwege uitzonderlijke omstandigheden niet mogelijk is de termijn,
 
 ####(betrokkenheid rechter; aanpassing sanctie)
 
-1.  Tenzij Onze Minister reeds aanstonds van oordeel is dat er gronden zijn om de erkenning van de rechterlijke uitspraak te weigeren, doet hij de rechterlijke uitspraak en het certificaat toekomen aan de advocaat-generaal van het ressortsparket te Arnhem.   
-2.  De advocaat-generaal legt de rechterlijke uitspraak en het certificaat onverwijld voor aan de bijzondere kamer van het gerechtshof te Arnhem, bedoeld in [artikel 67 van de Wet op de rechterlijke organisatie](../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md). De advocaat-generaal dient eventuele opmerkingen bij voornoemde stukken binnen een termijn van veertien dagen nadat hij de stukken heeft voorgelegd, in bij de bijzondere kamer van het gerechtshof.   
+1.  Tenzij Onze Minister reeds aanstonds van oordeel is dat er gronden zijn om de erkenning van de rechterlijke uitspraak te weigeren, doet hij de rechterlijke uitspraak en het certificaat toekomen aan de advocaat-generaal bij het ressortsparket.   
+2.  De advocaat-generaal legt de rechterlijke uitspraak en het certificaat onverwijld voor aan de bijzondere kamer van het gerechtshof Arnhem-Leeuwarden, bedoeld in artikel 67 van de Wet op de rechterlijke organisatie. De advocaat-generaal dient eventuele opmerkingen bij voornoemde stukken binnen een termijn van veertien dagen nadat hij de stukken heeft voorgelegd, in bij de bijzondere kamer van het gerechtshof.   
 3.  De bijzondere kamer van het gerechtshof beoordeelt: 
 
 a. of er gronden zijn om de erkenning van de rechterlijke uitspraak met toepassing van artikel 2:13, eerste lid, te weigeren;  
@@ -171,7 +171,7 @@ b. of de ten uitvoer te leggen vrijheidsbenemende sanctie is opgelegd voor een f
 
 c. tot welke aanpassing van de opgelegde vrijheidsbenemende sanctie het vierde, vijfde of zesde lid aanleiding geeft.     
 4.  Indien de opgelegde vrijheidsbenemende sanctie een langere duur heeft dan het voor het desbetreffende feit naar Nederlands recht toepasselijke strafmaximum, wordt de duur van de vrijheidsbenemende sanctie tot dat strafmaximum verlaagd.   
-5.  Indien de veroordeelde is overgeleverd onder garantie van teruglevering als bedoeld in [artikel 6, eerste lid, van de Overleveringswet](../../../../../../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md), is het vierde lid niet van toepassing, maar wordt bezien of de opgelegde vrijheidsbenemende sanctie overeenkomt met de sanctie die in Nederland voor het desbetreffende feit zou zijn opgelegd. Voor zover nodig wordt de sanctie dienovereenkomstig aangepast, waarbij rekening wordt gehouden met de in de uitvaardigende lidstaat levende opvattingen omtrent de ernst van het feit.   
+5.  Indien de veroordeelde is overgeleverd onder garantie van teruglevering als bedoeld in artikel 6, eerste lid, van de Overleveringswet, is het vierde lid niet van toepassing, maar wordt bezien of de opgelegde vrijheidsbenemende sanctie overeenkomt met de sanctie die in Nederland voor het desbetreffende feit zou zijn opgelegd. Voor zover nodig wordt de sanctie dienovereenkomstig aangepast, waarbij rekening wordt gehouden met de in de uitvaardigende lidstaat levende opvattingen omtrent de ernst van het feit.   
 6.  Indien de aard van de opgelegde vrijheidsbenemende sanctie onverenigbaar is met het Nederlandse recht, wordt de vrijheidsbenemende sanctie gewijzigd in een straf of maatregel waarin het Nederlandse recht voorziet en die zoveel mogelijk overeenstemt met de in de uitvaardigende lidstaat opgelegde vrijheidsbenemende sanctie.   
 7.  De aanpassing op grond van het vierde, vijfde of zesde lid houdt in geen geval een verzwaring van de opgelegde vrijheidsbenemende sanctie in.   
 8.  De bijzondere kamer van het gerechtshof doet zijn oordeel op grond van het derde lid, schriftelijk en met redenen omkleed aan Onze Minister toekomen, binnen een termijn van zes weken nadat de rechterlijke uitspraak en het certificaat zijn ontvangen.   
@@ -198,7 +198,7 @@ c. de veroordeelde ten tijde van het begaan van het feit de leeftijd van twaalf 
 
 d. de tenuitvoerlegging van de rechterlijke uitspraak onverenigbaar is met een naar Nederlands recht geldende immuniteit;  
 
-e. de tenuitvoerlegging van de rechterlijke uitspraak onverenigbaar is met het aan [artikel 68 van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [artikel 255, eerste lid, van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) ten grondslag liggende beginsel;  
+e. de tenuitvoerlegging van de rechterlijke uitspraak onverenigbaar is met het aan artikel 68 van het Wetboek van Strafrecht en artikel 255, eerste lid, van het Wetboek van Strafvordering ten grondslag liggende beginsel;  
 
 f. het feit waarvoor de vrijheidsbenemende sanctie is opgelegd, indien het in Nederland was begaan, naar Nederlands recht niet strafbaar zou zijn;  
 
@@ -311,14 +311,14 @@ d. de feiten en omstandigheden waaronder het feit is begaan.
 3.  Indien de bevoegde autoriteit van de uitvaardigende lidstaat een verzoek heeft gedaan dat strekt tot toepassing van het eerste lid, stelt Onze Minister het openbaar ministerie met het oog op de uitvoering ervan op de hoogte.   
 4.  Iedere officier van justitie of hulpofficier van justitie is bevoegd de aanhouding te bevelen.   
 5.  Na de veroordeelde te hebben gehoord, kan de officier van justitie of de hulpofficier van justitie bevelen dat de opgeëiste persoon gedurende drie dagen, te rekenen vanaf het tijdstip van de aanhouding, in verzekering gesteld zal blijven.   
-6.  [Artikel 40 van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
+6.  Artikel 40 van het Wetboek van Strafvordering is van overeenkomstige toepassing.   
 
 ### Artikel  2:20  
 
 ####(bewaring)
 
 1.  De rechter-commissaris in het arrondissement waar de veroordeelde in verzekering is gesteld, kan op vordering van de officier van justitie de bewaring van de veroordeelde bevelen. Alvorens een dergelijk bevel te geven, hoort de rechter-commissaris zo mogelijk de veroordeelde.   
-2.  Aan de veroordeelde die overeenkomstig het eerste lid in bewaring wordt gesteld, wordt, zo hij nog geen raadsman heeft, een raadsman toegevoegd door het bureau rechtsbijstandvoorziening op last van de voorzitter van de rechtbank van het arrondissement waar hij zich bevindt. De officier van justitie geeft de voorzitter onverwijld schriftelijk kennis dat toevoeging moet plaats hebben.   
+2.  Aan de veroordeelde die overeenkomstig het eerste lid in bewaring wordt gesteld, wordt, zo hij nog geen raadsman heeft, een raadsman toegevoegd door het bureau rechtsbijstandvoorziening op last van de voorzitter van de rechtbank in het arrondissement waarin hij zich bevindt. De officier van justitie geeft de voorzitter onverwijld schriftelijk kennis dat toevoeging moet plaats hebben.   
 
 ### Artikel  2:21  
 
@@ -337,15 +337,15 @@ b. zodra zulks door de rechter-commissaris of de officier van justitie wordt gel
 
 1.  De rechter-commissaris kan ambtshalve, op vordering van de officier van justitie of op verzoek van de veroordeelde bevelen dat de bewaring voorwaardelijk wordt opgeschort of geschorst.   
 2.  De opschorting of schorsing eindigt van rechtswege zodra de officier van justitie in kennis is gesteld van de beslissing van Onze Minister, bedoeld in artikel 2:12.   
-3.  Op bevelen tot voorwaardelijke opschorting en schorsing, krachtens het eerste lid gegeven, zijn de [artikelen 80, eerste en derde tot en met vijfde lid](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [81 tot en met 85](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [88 van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.   
+3.  Op bevelen tot voorwaardelijke opschorting en schorsing, krachtens het eerste lid gegeven, zijn de artikelen 80, eerste en derde tot en met vijfde lid, 81 tot en met 85 en 88 van het Wetboek van Strafvordering van overeenkomstige toepassing.   
 
 ### Artikel  2:23  
 
 ####(formaliteiten; tenuitvoerlegging)
 
 1.  De krachtens de artikelen 2:19 tot en met 2:22 gegeven bevelen tot inverzekeringstelling, bewaring dan wel de opschorting, schorsing of beëindiging van de bewaring worden gedagtekend en ondertekend. De grond voor uitvaardiging wordt in het bevel vermeld. Aan de veroordeelde op wie het bevel betrekking heeft, wordt onverwijld een afschrift daarvan uitgereikt.   
-2.  De bevelen, bedoeld in het eerste lid, zijn dadelijk uitvoerbaar. Bevoegd tot het ten uitvoer leggen van deze bevelen zijn de in [artikel 141 van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) genoemde ambtenaren. Op de tenuitvoerlegging en de last daartoe zijn de [artikelen 564 tot en met 570 van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.   
-3.  Veroordeelden die overeenkomstig deze wet in verzekering of in bewaring zijn gesteld worden behandeld als verdachten die krachtens het [Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aan een overeenkomstige maatregel zijn onderworpen.   
+2.  De bevelen, bedoeld in het eerste lid, zijn dadelijk uitvoerbaar. Bevoegd tot het ten uitvoer leggen van deze bevelen zijn de in artikel 141 van het Wetboek van Strafvordering genoemde ambtenaren. Op de tenuitvoerlegging en de last daartoe zijn de artikelen 564 tot en met 570 van het Wetboek van Strafvordering van overeenkomstige toepassing.   
+3.  Veroordeelden die overeenkomstig deze wet in verzekering of in bewaring zijn gesteld worden behandeld als verdachten die krachtens het Wetboek van Strafvordering aan een overeenkomstige maatregel zijn onderworpen.   
 4.  Van elke beslissing, genomen krachtens een van de artikelen 2:19 tot en met 2:22, geeft de officier van justitie onverwijld kennis aan Onze Minister.   
 
 ### Afdeling  3  
@@ -378,7 +378,7 @@ Toezending van de rechterlijke uitspraak kan zonder de instemming van de bevoegd
 
 a. de veroordeelde onderdaan is van de uitvoerende lidstaat en in de uitvoerende lidstaat zijn vaste woon- of verblijfplaats heeft;  
 
-b. de veroordeelde onderdaan is van de uitvoerende lidstaat, geen vaste woon- of verblijfplaats heeft in die staat, maar na invrijheidstelling naar die staat kan worden uitgezet als gevolg van een op grond van de [Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) aan hem opgelegde verplichting Nederland te verlaten.    
+b. de veroordeelde onderdaan is van de uitvoerende lidstaat, geen vaste woon- of verblijfplaats heeft in die staat, maar na invrijheidstelling naar die staat kan worden uitgezet als gevolg van een op grond van de Vreemdelingenwet 2000 aan hem opgelegde verplichting Nederland te verlaten.    
 
 ### Artikel  2:26  
 
@@ -388,7 +388,7 @@ Toezending van de rechterlijke uitspraak kan zonder de instemming van de veroord
 
 a. de veroordeelde onderdaan is van de uitvoerende lidstaat en in de uitvoerende lidstaat zijn vaste woon- of verblijfplaats heeft;  
 
-b. de veroordeelde na invrijheidstelling naar de uitvoerende lidstaat kan worden uitgezet als gevolg van een op grond van de [Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) aan hem opgelegde verplichting Nederland te verlaten;  
+b. de veroordeelde na invrijheidstelling naar de uitvoerende lidstaat kan worden uitgezet als gevolg van een op grond van de Vreemdelingenwet 2000 aan hem opgelegde verplichting Nederland te verlaten;  
 
 c. de veroordeelde naar de uitvoerende lidstaat is gevlucht of teruggekeerd naar aanleiding van de tegen hem in Nederland ingestelde strafvervolging of na de veroordeling in Nederland.    
 
@@ -402,12 +402,12 @@ c. de veroordeelde naar de uitvoerende lidstaat is gevlucht of teruggekeerd naar
 
 1.  Onze Minister stelt de veroordeelde in de gelegenheid zijn mening te geven over het voornemen om een rechterlijk uitspraak aan de uitvoerende lidstaat te zenden. Tenzij de mening van de veroordeelde aanleiding geeft om van het voornemen af te zien, geeft Onze Minister van zijn voornemen schriftelijk kennis aan de veroordeelde.   
 2.  Het eerste lid blijft buiten toepassing, indien de veroordeelde zich niet in Nederland bevindt of zelf om de toezending van de rechterlijke uitspraak heeft verzocht.   
-3.  De veroordeelde kan binnen veertien dagen na ontvangst van de kennisgeving tegen het voornemen van Onze Minister een bezwaarschrift indienen bij de bijzondere kamer van het gerechtshof te Arnhem, bedoeld in [artikel 67 van de Wet op de rechterlijke organisatie](../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md).   
+3.  De veroordeelde kan binnen veertien dagen na ontvangst van de kennisgeving tegen het voornemen van Onze Minister een bezwaarschrift indienen bij de bijzondere kamer van het gerechtshof Arnhem-Leeuwarden, bedoeld in artikel 67 van de Wet op de rechterlijke organisatie.   
 4.  Zo spoedig mogelijk na ontvangst van een tijdig ingediend bezwaarschrift onderzoekt de bijzondere kamer van het gerechtshof of Onze Minister bij afweging van de betrokken belangen in redelijkheid tot de voorgenomen beslissing kan komen.   
 5.  De veroordeelde wordt bij het onderzoek gehoord, althans opgeroepen. Indien niet blijkt dat de veroordeelde reeds een raadsman heeft, geeft de voorzitter aan het bureau rechtsbijstandvoorziening last tot toevoeging van een raadsman.   
-6.  De [artikelen 21 tot en met 25 van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing.   
+6.  De artikelen 21 tot en met 25 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.   
 7.  Van zijn beslissing stelt de bijzondere kamer van het gerechtshof Onze Minister en de veroordeelde schriftelijk in kennis. Acht de bijzondere kamer van het gerechtshof het bezwaarschrift gegrond, dan ziet Onze Minister af van de toezending van de rechterlijke uitspraak aan de uitvoerende lidstaat.   
-8.  Tegen de beslissing van de bijzondere kamer van het gerechtshof staat geen rechtsmiddel open, anders dan beroep in cassatie in het belang der wet als bedoeld in [artikel 456 van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
+8.  Tegen de beslissing van de bijzondere kamer van het gerechtshof staat geen rechtsmiddel open, anders dan beroep in cassatie in het belang der wet als bedoeld in artikel 456 van het Wetboek van Strafvordering.   
 
 ### Artikel  2:28  
 
@@ -471,7 +471,7 @@ Onze Minister stelt de bevoegde autoriteit van de uitvoerende lidstaat onverwijl
 
 1.  Onze Minister kan op verzoek van de bevoegde autoriteit van de uitvoerende lidstaat toestemming verlenen voor de vervolging, bestraffing of het op enige andere wijze in de persoonlijke vrijheid beperken van de veroordeelde in die staat, ter zake van feiten die vóór het tijdstip van de overbrenging van de veroordeelde zijn begaan en waarvoor hij niet is overgebracht.   
 2.  Onze Minister geeft de in het eerste lid bedoelde toestemming ten aanzien van feiten waarvoor krachtens de Overleveringswet overlevering had kunnen worden toegestaan.   
-3.  Het verzoek kan slechts in overweging worden genomen, indien het de gegevens, bedoeld in [artikel 2, tweede lid, van de Overleveringswet](../../../../../../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md), bevat en is gesteld in de Nederlandse taal of in een van de talen, genoemd in de verklaring, bedoeld in artikel 2, derde lid, van die wet. Onze Minister beslist binnen een termijn van dertig dagen na ontvangst van het verzoek.   
+3.  Het verzoek kan slechts in overweging worden genomen, indien het de gegevens, bedoeld in artikel 2, tweede lid, van de Overleveringswet, bevat en is gesteld in de Nederlandse taal of in een van de talen, genoemd in de verklaring, bedoeld in artikel 2, derde lid, van die wet. Onze Minister beslist binnen een termijn van dertig dagen na ontvangst van het verzoek.   
 
 ### Afdeling  4  
 
@@ -499,7 +499,7 @@ Onze Minister stelt de bevoegde autoriteit van de uitvoerende lidstaat onverwijl
 ####(vervoer door de lucht)
 
 1.  De toestemming van Onze Minister, bedoeld in artikel 2:35, eerste lid, is niet vereist voor vervoer door de lucht waarbij geen landing op Nederlands grondgebied wordt gemaakt.   
-2.  In geval van een onvoorziene landing op Nederlands grondgebied kan de veroordeelde, op verzoek van de hem begeleidende buitenlandse ambtenaren, voorlopig worden aangehouden krachtens een bevel van een ter plaatse bevoegde officier of hulpofficier van justitie. Artikel 2:19, vijfde lid, is van overeenkomstige toepassing.   
+2.  In geval van een onvoorziene landing op Nederlands grondgebied kan de veroordeelde, op verzoek van de hem begeleidende buitenlandse ambtenaren, voorlopig worden aangehouden krachtens een bevel van een ter plaatse bevoegde officier van justitie of hulpofficier van justitie. Artikel 2:19, vijfde lid, is van overeenkomstige toepassing.   
 3.  Het vervoer van de voorlopig aangehouden veroordeelde kan worden voortgezet, zodra Onze Minister daartoe alsnog toestemming verleent. Is de toestemming na afloop van de termijn van inverzekeringstelling nog niet verleend, of binnen die termijn geweigerd, dan wordt de veroordeelde terstond in vrijheid gesteld, behoudens de mogelijkheid van verdere vrijheidsbeneming uit anderen hoofde.   
 
 ### Hoofdstuk  3  
@@ -659,7 +659,7 @@ c. de veroordeelde ten tijde van het begaan van het feit de leeftijd van twaalf 
 
 d. de tenuitvoerlegging van de rechterlijke uitspraak onverenigbaar is met een naar Nederlands recht geldende immuniteit;  
 
-e. de tenuitvoerlegging van de rechterlijke uitspraak onverenigbaar is met het aan [artikel 68 van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [artikel 255, eerste lid, van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) ten grondslag liggende beginsel;  
+e. de tenuitvoerlegging van de rechterlijke uitspraak onverenigbaar is met het aan artikel 68 van het Wetboek van Strafrecht en artikel 255, eerste lid, van het Wetboek van Strafvordering ten grondslag liggende beginsel;  
 
 f. het feit waarop de rechterlijke uitspraak betrekking heeft, indien het in Nederland was begaan, naar Nederlands recht niet strafbaar zou zijn;  
 
@@ -709,10 +709,10 @@ b. de opgelegde taakstraf een kortere duur heeft dan tachtig uren, dan wel de op
 2.  Met de tenuitvoerlegging van de rechterlijke uitspraak wordt niet begonnen dan nadat tien dagen zijn verstreken na de kennisgeving aan de bevoegde autoriteit in de uitvaardigende lidstaat, bedoeld in artikel 3:10, tweede lid, tenzij deze autoriteit vóór het verstrijken van deze termijn heeft aangegeven het certificaat niet in te trekken.   
 3.  Voor zover de opdracht hiertoe niet reeds uit de rechterlijke uitspraak voortvloeit, kan het openbaar ministerie aan een krachtens algemene maatregel van bestuur aangewezen reclasseringsinstelling opdracht geven toezicht te houden op de naleving van de aan de veroordeelde opgelegde verplichtingen en hem ten behoeve daarvan te begeleiden.   
 4.  De proeftijd vangt aan op de dag van de kennisgeving, bedoeld in artikel 3:10, derde lid. De proeftijd wordt verkort met de tijd dat deze in de uitvaardigende lidstaat heeft gelopen.   
-5.  In afwijking van [artikel 14f van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is de rechtbank in het arrondissement waar toezicht wordt gehouden op de naleving van de aan de veroordeelde opgelegde verplichtingen bevoegd tot het nemen van de in dat artikel genoemde beslissingen. In afwijking van [artikel 14g, derde lid, eerste volzin, van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is tot behandeling van de vordering bevoegd de rechtbank in het arrondissement waar toezicht wordt gehouden op de naleving van de aan de veroordeelde opgelegde verplichtingen.   
-6.  In afwijking van [artikel 15i, derde lid, eerste volzin, van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is tot kennisneming van de vordering bevoegd de rechtbank in het arrondissement waar toezicht wordt gehouden op de naleving van de aan de veroordeelde opgelegde verplichtingen.   
-7.  Indien de erkenning ertoe strekt dat een taakstraf ten uitvoer wordt gelegd, vangt de termijn, bedoeld in [artikel 22c, derde lid, van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), aan op de dag van de kennisgeving, bedoeld in artikel 3:10, derde lid.   
-8.  In afwijking van de [artikelen 22f, derde lid](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), en [22g, derde lid, van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) wordt het bezwaarschrift ingediend bij de rechtbank in het arrondissement waar de tenuitvoerlegging van de taakstraf plaatsvindt.   
+5.  In afwijking van artikel 14f van het Wetboek van Strafrecht is de rechtbank in het arrondissement waar toezicht wordt gehouden op de naleving van de aan de veroordeelde opgelegde verplichtingen bevoegd tot het nemen van de in dat artikel genoemde beslissingen. In afwijking van artikel 14g, derde lid, eerste volzin, van het Wetboek van Strafrecht is tot behandeling van de vordering bevoegd de rechtbank in het arrondissement waar toezicht wordt gehouden op de naleving van de aan de veroordeelde opgelegde verplichtingen.   
+6.  In afwijking van artikel 15i, derde lid, eerste volzin, van het Wetboek van Strafrecht is tot kennisneming van de vordering bevoegd de rechtbank in het arrondissement waar toezicht wordt gehouden op de naleving van de aan de veroordeelde opgelegde verplichtingen.   
+7.  Indien de erkenning ertoe strekt dat een taakstraf ten uitvoer wordt gelegd, vangt de termijn, bedoeld in artikel 22c, derde lid, van het Wetboek van Strafrecht, aan op de dag van de kennisgeving, bedoeld in artikel 3:10, derde lid.   
+8.  In afwijking van de artikelen 22f, derde lid, en 22g, derde lid, van het Wetboek van Strafrecht wordt het bezwaarschrift ingediend bij de rechtbank in het arrondissement waar de tenuitvoerlegging van de taakstraf plaatsvindt.   
 
 ### Artikel  3:15  
 
@@ -834,37 +834,37 @@ Het openbaar ministerie stelt de bevoegde autoriteit van de uitvoerende lidstaat
 
 ### Artikel  4:1  
 
-####(wijziging [Gratiewet](../../../../../../../../../../wet/gratiewet/BWBR0004257/README.md))
+####(wijziging Gratiewet)
 
 Wijzigt de Gratiewet.   
 
 ### Artikel  4:2  
 
-####(wijziging [Overleveringswet](../../../../../../../../../../wet/overleveringswet/BWBR0016664/README.md))
+####(wijziging Overleveringswet)
 
 Wijzigt de Overleveringswet.   
 
 ### Artikel  4:3  
 
-####(wijziging [WETSS 2008](../../../../../../../../../../wet/wet/wederzijdse/erkenning/en/tenuitvoerlegging/strafrechtelijke/sancties/BWBR0022604/README.md))
+####(wijziging WETSS 2008)
 
 Wijzigt de Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties 2008.   
 
 ### Artikel  4:4  
 
-####(wijziging [Wet RO](../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md))
+####(wijziging Wet RO)
 
 Wijzigt de Wet op de rechterlijke organisatie   
 
 ### Artikel  4:5  
 
-####(wijziging [WvSr](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md))
+####(wijziging WvSr)
 
 Wijzigt het Wetboek van Strafrecht.   
 
 ### Artikel  4:6  
 
-####(wijziging [WvSv](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md))
+####(wijziging WvSv)
 
 Wijzigt het Wetboek van Strafvordering.   
 
@@ -874,14 +874,14 @@ Wijzigt het Wetboek van Strafvordering.
 
 ### Artikel  5:1  
 
-Op betekeningen, kennisgevingen en oproepingen gedaan krachtens deze wet, zijn de [artikelen 585 tot en met 590 van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.  
+Op betekeningen, kennisgevingen en oproepingen gedaan krachtens deze wet, zijn de artikelen 585 tot en met 590 van het Wetboek van Strafvordering van overeenkomstige toepassing.  
 
 ### Artikel  5:2  
 
-1.  Deze wet treedt in de relatie met de lidstaten van de Europese Unie in de plaats van de [Wet overdracht tenuitvoerlegging strafvonnissen](../../../../../../../../../../wet/wet/overdracht/tenuitvoerlegging/strafvonnissen/BWBR0004028/README.md).   
+1.  Deze wet treedt in de relatie met de lidstaten van de Europese Unie in de plaats van de Wet overdracht tenuitvoerlegging strafvonnissen.   
 2.  Het eerste lid is niet van toepassing in relatie tot een andere lidstaat van de Europese Unie voor zover en voor zolang die lidstaat niet de maatregelen heeft getroffen die noodzakelijk zijn om te voldoen aan het kaderbesluit 2008/909/JBZ van de Raad van de Europese Unie van 27 november 2008 inzake de toepassing van het beginsel van wederzijdse erkenning op strafvonnissen waarbij vrijheidsstraffen of tot vrijheidsbeneming strekkende maatregelen zijn opgelegd, met het oog op tenuitvoerlegging ervan in de Europese Unie (PbEU L 327) of het kaderbesluit 2008/947/JBZ van de Raad van de Europese Unie van 27 november 2008 inzake de toepassing van het beginsel van de wederzijdse erkenning op vonnissen en proeftijdbeslissingen met het oog op het toezicht op proeftijdvoorwaarden en alternatieve straffen (PbEU L 337).   
 3.  Deze wet is niet van toepassing op rechterlijke uitspraken als bedoeld in artikel 2:1 die voor 5 december 2011 onherroepelijk zijn geworden.   
-4.  Deze wet is van toepassing indien de garantie van teruglevering, bedoeld in [artikel 6, eerste lid, van de Overleveringswet](../../../../../../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md), voor de inwerkingtreding van deze wet is gegeven, maar de teruglevering plaatsvindt na de inwerkingtreding van deze wet.   
+4.  Deze wet is van toepassing indien de garantie van teruglevering, bedoeld in artikel 6, eerste lid, van de Overleveringswet, voor de inwerkingtreding van deze wet is gegeven, maar de teruglevering plaatsvindt na de inwerkingtreding van deze wet.   
 
 ### Artikel  5:3  
 

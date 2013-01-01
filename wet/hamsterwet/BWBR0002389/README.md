@@ -36,10 +36,6 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 1.  Een ministeriële regeling als bedoeld in artikel 3, of een regeling tot wijziging of intrekking daarvan, en een besluit als bedoeld in artikel 4, vierde lid, treden niet in werking alvorens te zijn bekendgemaakt door plaatsing in de *Staatscourant* of op een andere door Onze betrokken Minister bepaalde wijze.   
 2.  Een besluit als bedoeld in artikel 4, vierde lid, treedt niet in werking alvorens het is bekendgemaakt door plaatsing in de *Staatscourant* of op een andere door Onze betrokken Minister bepaalde wijze.   
 
-### Artikel  6  
-
-Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.  
-
 ### Artikel  6a  
 
 1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister van Economische Zaken, Landbouw en Innovatie aangewezen ambtenaren.   

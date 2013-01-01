@@ -20,7 +20,7 @@ b. KLPD: het Korps Landelijke Politiediensten.
 
 ### Artikel  2  
 
-De ambtenaren van het KLPD werkzaam in de functie van medewerker van de Dienst Operationele Samenwerking en in de functie van medewerker van de Dienst Verkeerspolitie als “teleservicemedewerker” zijn aangewezen als buitengewoon opsporingsambtenaar.  
+Als buitengewoon opsporingsambtenaar worden aangewezen de ambtenaren van politie, bedoeld in [artikel 2, onder b, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), werkzaam in de functie van teleservicemedewerker bij de Dienst Coördinatie en Ondersteuning en bij de Dienst Verkeerspolitie voor de Landelijke eenheid, voorheen Korps landelijke politiediensten.  
 
 ### Artikel  3  
 
@@ -34,12 +34,12 @@ Op grond van dit besluit kunnen maximaal 70 personen als buitengewoon opsporings
 
 ### Artikel  5  
 
-1.  Als toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de hoofdofficier van justitie bij het Landelijk Parket.   
-2.  Als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de korpschef van het KLPD.   
+1.  Als toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de hoofdofficier van justitie bij het landelijk parket.   
+2.  Als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).   
 
 ### Artikel  6  
 
-1.  De korpschef van het KLPD brengt jaarlijks, voor 1 april, met betrekking tot de onder diens verantwoordelijkheid werkzame buitengewoon opsporingsambtenaren verslag uit over: 
+1.  De korpschef brengt jaarlijks, voor 1 april, met betrekking tot de onder diens verantwoordelijkheid werkzame buitengewoon opsporingsambtenaren verslag uit over: 
 
 a. het aantal buitengewoon opsporingsambtenaren werkzaam in de artikel 2 genoemde functie;  
 

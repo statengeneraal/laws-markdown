@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 27 november 2001, nr. EB2001/97219;
 
-Gelet op [artikel 11, tweede lid, van de Brandweerwet 1985](../../../../../../../wet/brandweerwet/1985/BWBR0003764/README.md) en [artikel 25, derde lid, van de Wet rampen en zware ongevallen](../../../../../../../wet/rampenwet/BWBR0003765/README.md);
+Gelet op artikel 11, tweede lid, van de Brandweerwet 1985 en artikel 25, derde lid, van de Wet rampen en zware ongevallen;
 
 De Raad van State gehoord (advies van 8 januari 2002, nr. W04/01.0637/I);
 
@@ -22,7 +22,7 @@ In dit besluit wordt verstaan onder:
 
 a. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
 
-b. *bijstand:* bijstand door een veiligheidsregio als bedoeld in [artikel 51, eerste lid, van de Wet veiligheidsregio’s](../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md);  
+b. *bijstand:* bijstand door een veiligheidsregio als bedoeld in artikel 51, eerste lid, van de Wet veiligheidsregio’s;  
 
 c. kosten: de kosten voor bijstand of de bestrijding van een ramp die niet in de begroting van het jaar waarin de ramp heeft plaatsgevonden hadden kunnen worden voorzien;  
 
@@ -58,7 +58,7 @@ b. de kosten die een veiligheidsregio in rekening brengt voor de verlening van b
 c. de uitkomst van de vermenigvuldiging van het aantal inwoners van de gemeente volgens de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers per 1 januari van het jaar waarin de ramp heeft plaatsgevonden met € 3,-.     
 3.  Geen bijdrage wordt toegekend, indien de kosten, bedoeld in het tweede lid, aanhef, onder a en b, € 45 000,– of minder bedragen.   
 4.  Indien in een gemeente in een kalenderjaar meerdere rampen of zware ongevallen plaatsvinden, worden het tweede lid, onderdeel c, en het derde lid slechts eenmaal toegepast.   
-5.  Indien de gemeente verkeert of door toepassing van het tweede of derde lid zou komen te verkeren in de situatie, bedoeld in [artikel 12 van de Financiële-verhoudingswet](../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), kan Onze Minister in overeenstemming met Onze Minister van Financiën op verzoek van het college van burgemeester en wethouders het ten laste van de gemeente komend aandeel in de kosten op een lager bedrag vaststellen dan wel bepalen dat door de gemeente geen aandeel in de kosten verschuldigd is.   
+5.  Indien de gemeente verkeert of door toepassing van het tweede of derde lid zou komen te verkeren in de situatie, bedoeld in artikel 12 van de Financiële-verhoudingswet, kan Onze Minister in overeenstemming met Onze Minister van Financiën op verzoek van het college van burgemeester en wethouders het ten laste van de gemeente komend aandeel in de kosten op een lager bedrag vaststellen dan wel bepalen dat door de gemeente geen aandeel in de kosten verschuldigd is.   
 
 ### §  3  
 
@@ -67,7 +67,7 @@ c. de uitkomst van de vermenigvuldiging van het aantal inwoners van de gemeente 
 ### Artikel  4  
 
 1.  Onze Minister verleent op aanvraag een bijdrage in de kosten die voortvloeien uit het verlenen van bijstand bij de bestrijding van rampen in België of Duitsland ingevolge de met deze landen gesloten overeenkomsten.   
-2.  De aanvraag kan worden ingediend door de colleges van burgemeester en wethouders, de besturen van de veiligheidsregio’s, het Nederlandse Rode Kruis, alsmede de in de regio werkzame instellingen, zorgaanbieders, ambulancevervoerders en gezondheidsdiensten, bedoeld in [artikel 33, eerste lid, van de Wet veiligheidsregio’s](../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), die bij de bijstand waren betrokken.   
+2.  De aanvraag kan worden ingediend door de colleges van burgemeester en wethouders, de besturen van de veiligheidsregio’s, het Nederlandse Rode Kruis, alsmede de in de regio werkzame instellingen, zorgaanbieders, Regionale Ambulancevoorzieningen en gezondheidsdiensten, bedoeld in artikel 33, eerste lid, van de Wet veiligheidsregio’s, die bij de bijstand waren betrokken.   
 3.  Voor een bijdrage als bedoeld in het eerste lid, komen in aanmerking: 
 
 a. de kosten van het personeel;  
@@ -114,7 +114,7 @@ Het Besluit rijksbijdragen gemeenten bij rampen en zware ongevallen en het Beslu
 
 ### Artikel  10a  
 
-Dit besluit berust op [artikel 55, vijfde lid, van de Wet veiligheidsregio’s](../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md).  
+Dit besluit berust op artikel 55, vijfde lid, van de Wet veiligheidsregio’s.  
 
 ### Artikel  10  
 

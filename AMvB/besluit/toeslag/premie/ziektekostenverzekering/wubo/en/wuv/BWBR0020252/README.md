@@ -17,21 +17,21 @@ Hebben goedgevonden en verstaan:
 
 De toeslag, bedoeld in de [artikelen 20, eerste lid](../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md), en [21, eerste lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md) en de [artikelen 14, tweede lid](../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), en [15, eerste lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), wordt vastgesteld op: 
 
-a. € 114 per 1 januari 2012: € 160,17 per maand voor de ongehuwde gerechtigde jonger dan 65 jaar;  
+a. € 114 per 1 januari 2013: € 166,02 per maand voor de ongehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt;  
 
-b. € 114 per 1 januari 2012: € 160,17 per maand voor de gehuwde gerechtigde jonger dan 65 jaar, indien de premie van verzekering tegen ziektekosten van de echtgenoot niet te zijnen laste komt;  
+b. € 114 per 1 januari 2013: € 166,02 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot niet te zijnen laste komt;  
 
-c. € 184 per 1 januari 2012: € 258,52 per maand voor de gehuwde gerechtigde jonger dan 65 jaar, indien de premie van verzekering tegen ziektekosten van de echtgenoot te zijnen laste komt;  
+c. € 184 per 1 januari 2013: € 267,96 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot te zijnen laste komt;  
 
-d. € 118 per 1 januari 2012: € 165,79 per maand voor de ongehuwde gerechtigde van 65 jaar of ouder;  
+d. € 118 per 1 januari 2013: € 171,84 per maand voor de ongehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt;  
 
-e. € 118 per 1 januari 2012: € 165,79 per maand voor de gehuwde gerechtigde van 65 jaar of ouder, indien de premie van verzekering tegen ziektekosten van de echtgenoot niet te zijnen laste komt;  
+e. € 118 per 1 januari 2013: € 171,84 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot niet te zijnen laste komt;  
 
-f. € 236 per 1 januari 2012: € 331,57 per maand voor de gehuwde gerechtigde van 65 jaar of ouder, indien de premie van verzekering tegen ziektekosten van de echtgenoot te zijnen laste komt.    
+f. € 236 per 1 januari 2013: € 343,67 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot te zijnen laste komt.    
 
 ### Artikel  2  
 
-Het bedrag, bedoeld in de [artikelen 20, tweede lid](../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md), en [21, tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md) en de [artikelen 14, derde lid](../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), en [15, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), wordt vastgesteld op € 186,50 per 1 januari 2012: € 262,03 per verzekerde per maand.  
+Het bedrag, bedoeld in de [artikelen 20, tweede lid](../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md), en [21, tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md) en de [artikelen 14, derde lid](../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), en [15, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), wordt vastgesteld op € 186,50 per 1 januari 2013: € 271,59 per verzekerde per maand.  
 
 ### Artikel  3  
 

@@ -578,8 +578,9 @@ c. de afronding van het bedrag aan rechten, andere belastingen, heffingen, retri
 
 ### Artikel  8:1  
 
-1.  De [artikelen 6:2, aanhef en onder b](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:1, eerste lid](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [8:13 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing.   
-2.  [Afdeling 8.2.4A van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is alleen van toepassing indien: 
+1.  De [artikelen 6:2, aanhef en onder b](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [8:1 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing.   
+2.  [Artikel 8:13 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing, tenzij beroep is ingesteld tegen een beschikking die is genomen op grond van een regeling, genoemd in de bijlage bij de artikelen 1:1 en 1:3, onder B, van deze wet.   
+3.  [Afdeling 8.2.4A van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is alleen van toepassing indien: 
 
 a. artikel 243, eerste lid, tweede alinea, van het Communautair douanewetboek toepassing vindt;  
 
@@ -587,40 +588,29 @@ b. de inspecteur niet tijdig heeft beslist op bezwaar en hij de indiener van dat
 
 ### Artikel  8:2  
 
-1.  [Hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van de [artikelen 25, derde lid](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [26a](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [27](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [27a](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [27b](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [27e](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), is van overeenkomstige toepassing op beschikkingen als bedoeld in het tweede lid.   
+1.  [Hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van de [artikelen 25, derde lid](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [26a](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [27a](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [27e](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), is van overeenkomstige toepassing op beschikkingen als bedoeld in het tweede lid.   
 2.  Voor de overeenkomstige toepassing van [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is een beschikking voor bezwaar vatbaar indien het een beschikking betreft: 
 
 a. als bedoeld in artikel 4, aanhef en onder 5, van het Communautair douanewetboek of;  
 
 b. die is genomen op grond van deze wet.     
 3.  Voor de overeenkomstige toepassing van [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) wordt een uitnodiging tot betaling aangemerkt als een belastingaanslag of een aanslag.   
-4.  In afwijking van [artikel 8:7, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is slechts de rechtbank te Haarlem bevoegd.   
-5.  Indien het beroep is gericht tegen het niet tijdig doen van een uitspraak door de inspecteur, kan de rechtbank Haarlem bepalen dat de artikelen 13 en 14 van het Communautair douanewetboek en paragraaf 1.2.4 gedurende een daarbij te bepalen termijn van toepassing blijven.   
-6.  Indien een uitspraak van de rechtbank of van de voorzieningenrechter van de rechtbank betrekking heeft op een beschikking die is gegeven door Onze minister wie het aangaat dan wel de ontvanger, treedt voor de toepassing van dit hoofdstuk Onze minister wie het aangaat dan wel de ontvanger in de plaats van de inspecteur.   
-7.  Indien het bezwaar is gericht tegen een uitnodiging tot betaling of een beschikking als bedoeld in het tweede lid, met betrekking tot welke: 
+4.  Indien het beroep is gericht tegen het niet tijdig doen van een uitspraak door de inspecteur, kan de rechtbank Haarlem bepalen dat de artikelen 13 en 14 van het Communautair douanewetboek en paragraaf 1.2.4 gedurende een daarbij te bepalen termijn van toepassing blijven.   
+5.  Indien een uitspraak van de rechtbank of van de voorzieningenrechter van de rechtbank betrekking heeft op een beschikking die is gegeven door Onze minister wie het aangaat dan wel de ontvanger, treedt voor de toepassing van dit hoofdstuk Onze minister wie het aangaat dan wel de ontvanger in de plaats van de inspecteur.   
+6.  Indien het bezwaar is gericht tegen een uitnodiging tot betaling of een beschikking als bedoeld in het tweede lid, met betrekking tot welke: 
 
 a. de vereiste aangifte niet is gedaan; of  
 
 b. niet of niet volledig is voldaan aan een verzoek op de voet van artikel 14 van het Communautair douanewetboek om gegevensdragers, of de inhoud daarvan, voor raadpleging beschikbaar te stellen; of  
 
 c. niet of niet volledig is voldaan aan de verplichtingen ingevolge artikel 1:32, wordt bij de uitspraak op het bezwaarschrift de belastingaanslag of de beschikking gehandhaafd, tenzij aannemelijk is dat het niet of niet volledig voldoen aan genoemd verzoek of aan genoemde verplichtingen het gevolg is van overmacht en tenzij is gebleken dat en in hoeverre de belastingaanslag of de beschikking onjuist is. De eerste volzin vindt geen toepassing voor zover het bezwaar is gericht tegen een vergrijpboete.     
-8.  Indien het beroep is gericht tegen een uitnodiging tot betaling of een beschikking als bedoeld in het tweede lid, met betrekking tot welke: 
+7.  Indien het beroep is gericht tegen een uitnodiging tot betaling of een beschikking als bedoeld in het tweede lid, met betrekking tot welke: 
 
 a. de vereiste aangifte niet is gedaan; of  
 
 b. niet of niet volledig is voldaan aan een verzoek op de voet van artikel 14 van het Communautair douanewetboek om gegevensdragers, of de inhoud daarvan, voor raadpleging beschikbaar te stellen; of  
 
 c. niet of niet volledig is voldaan aan de verplichtingen ingevolge artikel 1:32, verklaart de rechtbank het beroep ongegrond, tenzij is gebleken dat en in hoeverre de uitspraak op het bezwaar onjuist is. De eerste volzin vindt geen toepassing voor zover het bezwaar is gericht tegen een vergrijpboete.     
-9.  Voor de overeenkomstige toepassing van de [artikelen 27l, tweede lid](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [29a, tweede lid, van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) bedraagt het griffierecht hetgeen is vermeld in de onderdelen b en c van die leden.   
-
-### Artikel  8:3  
-
-Tegen een beschikking ter zake van landbouwrestituties staat, in afwijking van hetgeen omtrent bezwaar en beroep in deze wet is bepaald, beroep open op het College van Beroep voor het bedrijfsleven op de voet van de [Wet bestuursrechtspraak bedrijfsorganisatie](../../../../wet/wet/bestuursrechtspraak/bedrijfsorganisatie/BWBR0002144/README.md).  
-
-### Artikel  8:4  
-
-1.  Tegen een beschikking die is genomen op grond van een regeling genoemd in de bijlage bij de artikelen 1:1 en 1:3, onder B, staat in afwijking van hetgeen omtrent bezwaar en beroep in deze wet is bepaald, beroep open op de rechterlijke instantie, genoemd in die regeling. Indien geen rechterlijke instantie is genoemd, is [artikel 8:1 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
-2.  Bij het beroep, bedoeld in het eerste lid, is [artikel 8:13 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
 
 ### Hoofdstuk  9  
 
@@ -825,7 +815,7 @@ Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestel
 ### Artikel  11:3  
 
 1.  Met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten zijn, behalve de in [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, dan wel de ambtenaren die bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister wie het mede aangaat zijn aangewezen.   
-2.  In afwijking van de [artikelen 155](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [156](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [157 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) worden alle processen-verbaal betreffende bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten ingezonden bij de inspecteur. De inspecteur doet de processen-verbaal betreffende strafbare feiten, ter zake waarvan inverzekeringstelling of voorlopige hechtenis is toegepast dan wel een woning tegen de wil van de bewoner is binnengetreden, met de in beslag genomen voorwerpen onverwijld toekomen aan de bevoegde officier van justitie. De overige processen-verbaal doet de inspecteur, met de in beslag genomen voorwerpen, toekomen aan de officier van justitie, indien hij een vervolging of verdere vervolging door deze wenselijk acht.   
+2.  In afwijking van [artikel 156 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) worden alle processen-verbaal betreffende bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten ingezonden bij de inspecteur. De inspecteur doet de processen-verbaal betreffende strafbare feiten, ter zake waarvan inverzekeringstelling of voorlopige hechtenis is toegepast dan wel een woning tegen de wil van de bewoner is binnengetreden, met de in beslag genomen voorwerpen onverwijld toekomen aan de bevoegde officier van justitie. De overige processen-verbaal doet de inspecteur, met de in beslag genomen voorwerpen, toekomen aan de officier van justitie, indien hij een vervolging of verdere vervolging door deze wenselijk acht.   
 3.  De officier van justitie is bevoegd, de zaak ter afdoening weer in handen van de inspecteur te stellen, welke daarmede alsdan kan handelen overeenkomstig artikel 10:15.   
 4.  Het bepaalde in [artikel 148, tweede lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) vindt geen toepassing in zaken, waarin de inspecteur het proces-verbaal niet aan de officier van justitie heeft doen toekomen.   
 
@@ -852,7 +842,7 @@ De griffiers verstrekken aan de inspecteur desgevraagd kosteloos afschrift of ui
 
 ### Artikel  11:9  
 
-Met betrekking tot gerechtelijke mededelingen inzake bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten hebben de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de bevoegdheden bij het [Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aan ambtenaren, aangesteld voor de uitvoering van de politietaak, toegekend.  
+Met betrekking tot gerechtelijke mededelingen inzake bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten hebben de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de bevoegdheden bij het [Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aan ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, toegekend.  
 
 ### Artikel  11:10  
 
@@ -865,7 +855,7 @@ Ten aanzien van de tenuitvoerlegging van rechterlijke beslissingen inzake bij de
 a. de misdrijven omschreven in de [artikelen 179 tot en met 182 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), welke jegens hen zijn begaan;  
 
 b. het misdrijf omschreven in [artikel 184 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), indien het bevel of de vordering is gedaan krachtens of de handeling is ondernomen ter uitvoering van de douanewetgeving.     
-2.  De [artikelen 152](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [153](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [157](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [159 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn te dezen op de ambtenaren van overeenkomstige toepassing.   
+2.  De [artikelen 152](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [153](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [156](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [159 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn te dezen op de ambtenaren van overeenkomstige toepassing.   
 
 ### Artikel  11:12  
 
@@ -945,8 +935,6 @@ Voorschriften gebaseerd op de artikelen 26, 36, 37, 60, 71, 80, 87, 88, 89, 93, 
 
 –  [Brandweerwet 1985](../../../../wet/brandweerwet/1985/BWBR0003764/README.md)   
 
-–  [Diergeneesmiddelenwet](../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md)   
-
 –  [Elektriciteitswet 1998](../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md)   
 
 –  [Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md)   
@@ -955,13 +943,9 @@ Voorschriften gebaseerd op de artikelen 26, 36, 37, 60, 71, 80, 87, 88, 89, 93, 
 
 –  [Geneesmiddelenwet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md)   
 
-–  [Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md)   
-
 –  [Havenbeveiligingswet](../../../../wet/havenbeveiligingswet/BWBR0016991/README.md)   
 
 –  [Havennoodwet](../../../../wet/havennoodwet/BWBR0002410/README.md)   
-
-–  [Kaderwet diervoeders](../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md)   
 
 –  [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md)   
 
@@ -1018,6 +1002,8 @@ Voorschriften gebaseerd op de artikelen 26, 36, 37, 60, 71, 80, 87, 88, 89, 93, 
 –  [Wet beschikbaarheid goederen](../../../../wet/wet/beschikbaarheid/goederen/BWBR0002098/README.md)   
 
 –  [Wet capaciteitsbeheersing binnenvaartvloot](../../../../wet/wet/capaciteitsbeheersing/binnenvaartvloot/BWBR0012950/README.md)   
+
+–  [Wet dieren](../../../../wet/wet/dieren/BWBR0030250/README.md)   
 
 –  [Wet explosieven voor civiel gebruik](../../../../wet/wet/explosieven/voor/civiel/gebruik/BWBR0006803/README.md)   
 

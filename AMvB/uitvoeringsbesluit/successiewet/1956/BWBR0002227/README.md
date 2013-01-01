@@ -78,14 +78,14 @@ Het percentage, bedoeld in [artikel 21, dertiende lid, van de Successiewet 1956]
 | meer dan  | maar niet  meer dan  | bedraagt de leegwaarderatio  |
 |:---|:---|:---|
 | 0%  | 1,0%  | 50%  |
-| 1,0%  | 1,5%  | 54%  |
-| 1,5%  | 2,0%  | 58%  |
-| 2,0%  | 2,5%  | 63%  |
-| 2,5%  | 3,0%  | 67%  |
-| 3,0%  | 3,5%  | 72%  |
-| 3,5%  | 4,0%  | 76%  |
-| 4,0%  | 5,0%  | 81%  |
-| 5,0%  | –  | 85%  |
+| 1,0%  | 1,5%  | 53%  |
+| 1,5%  | 2,0%  | 56%  |
+| 2,0%  | 2,5%  | 59%  |
+| 2,5%  | 3,0%  | 62%  |
+| 3,0%  | 3,5%  | 66%  |
+| 3,5%  | 4,0%  | 69%  |
+| 4,0%  | 5,0%  | 73%  |
+| 5,0%  | –  | 78%  |
 
 3.  De jaarlijkse huur of pacht, bedoeld in het tweede lid, wordt gesteld op twaalf maal de maandelijkse huur, onderscheidenlijk pacht, zoals die geldt aan het begin van de verhuurperiode, onderscheidenlijk verpachtingsperiode, in het kalenderjaar. Indien de huurprijs, onderscheidenlijk pachtprijs, zoals die tussen gelieerde partijen is overeengekomen zodanig is dat deze tussen willekeurige derden niet overeengekomen zou zijn, wordt de huurprijs, onderscheidenlijk pachtprijs, voor de toepassing van het tweede lid gesteld op 3,5% van de WOZ-waarde.   
 4.  Indien de woning een gedeelte van een gebouwd eigendom is als bedoeld in [artikel 16, onderdeel c, van de Wet waardering onroerende zaken](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), en niet als een afzonderlijke zaak vervreemd kan worden, wordt voor de toepassing van het eerste en het tweede lid de WOZ-waarde van die woning verlaagd met een bedrag van € 20 000.   

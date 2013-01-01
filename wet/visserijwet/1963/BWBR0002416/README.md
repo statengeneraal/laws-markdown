@@ -20,7 +20,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  Voor het bepaalde bij of krachtens deze wet wordt verstaan onder: 
 
-a. "Onze Minister": Onze Minister van Landbouw, Natuur en Voedselkwaliteit;  
+a. "Onze Minister": Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. "De Kamer": de Kamer voor de Binnenvisserij bedoeld in artikel 45;  
 
@@ -50,8 +50,8 @@ b. "zeevisserij": het vissen in zee, met inbegrip van het vissen in de visserijz
 c. "kustvisserij": het vissen in de bij algemene maatregel van bestuur als kustwater aangewezen wateren;  
 
 d. "binnenvisserij": het vissen in de overige wateren van Nederland.     
-5.  Voor het bepaalde bij of krachtens deze wet wordt verstaan onder: "hengel": het vistuig bestaande uit een roede - al dan niet voorzien van een opwindmechanisme - een lijn of snoer - al dan niet voorzien van één of meer dobbers - en ten hoogste drie een-, twee- of drietandige haken. "spieringtuig": het vistuig bestaande uit een roede - al dan niet voorzien van een opwindmechanisme - een lijn of snoer - al dan niet voorzien van één of meer dobbers - en ten hoogste twaalf al dan niet aan zijlijnen van ten hoogste tien centimeter bevestigde ééntandige haken, waarvan de bekopening ten hoogste acht millimeter bedraagt, voorzien van daartoe door Onze Minister aangewezen aas. "peur": het vistuig, bestaande uit een al dan niet aan een roede verbonden lijn of snoer zonder haak of haken waaraan een hoeveelheid wormen is bevestigd.   
-6.  De in het tweede en vijfde lid bedoelde aanwijzingen geschieden bij in de *Staatscourant* bekend te maken ministeriële regelingen.   
+5.  Voor het bepaalde bij of krachtens deze wet wordt verstaan onder: "hengel": het vistuig bestaande uit een roede - al dan niet voorzien van een opwindmechanisme - een lijn of snoer - al dan niet voorzien van één of meer dobbers - en ten hoogste drie een-, twee- of drietandige haken; "peur": het vistuig, bestaande uit een al dan niet aan een roede verbonden lijn of snoer zonder haak of haken waaraan een hoeveelheid wormen is bevestigd.   
+6.  De in het tweede lid bedoelde aanwijzing geschiedt bij ministeriële regeling.   
 
 ### §  2  
 
@@ -169,22 +169,6 @@ d. voor hem, die vist met ten hoogste twee hengels.
 
 ####Visakte
 
-### Artikel  10  
-
-1.  Het is verboden de binnenvisserij uit te oefenen met vistuigen, anders dan een of meer hengels of een of meer peuren, zonder een geldige akte te kunnen tonen.   
-2.  Op de voet van het bepaalde in de volgende leden wordt een akte verleend, die geldig is voor het vissen met de in het eerste lid bedoelde vistuigen voor zover het gebruik van deze vistuigen niet krachtens deze wet is verboden.   
-3.  Geen akte wordt verleend aan diegene, die ingevolge artikel 57 de bevoegdheid om krachtens een akte te vissen is ontzegd, zolang de ontzegging duurt.   
-4.  De akte wordt verleend door Onze Minister en is geldig voor de duur van drie kalenderjaren.   
-5.  De akte wordt verleend tegen betaling van een geldsom waarvan de hoogte door Onze Minister wordt vastgesteld. Deze geldsom omvat een bijdrage ter verbetering van de binnenvisserij en een bijdrage verband houdende met de kosten van het verlenen van de akte.   
-6.  Het verbod van het eerste lid geldt niet: 
-
-a. voor degene, die bij ziekte van de houder van een akte deze houder vervangt, mits diegene de akte van de houder bij zich heeft;  
-
-b. voor degene, die in dienst van de houder van een akte de visserij uitoefent in gezelschap van de houder of diens plaatsvervanger.     
-7.  De in het zesde lid, onder a, bedoelde vrijstelling geldt niet voor diegene, die ingevolge artikel 57 de bevoegdheid om krachtens een akte het vissen is ontzegd, zolang de ontzegging duurt.   
-8.  Het verbod van het eerste lid geldt niet voor het vissen in een binnen een afgesloten erf gelegen viswater, dat geen voor het doorlaten van vis geschikte verbinding met andere wateren bezit.   
-9.  Onze Minister kan van het verbod van het eerste lid ontheffing verlenen voor het vissen in een viskwekerij en voor wetenschappelijke doeleinden. De ontheffing kan onder beperkingen worden verleend.   
-
 ### §  3  
 
 ####Maatregelen in het belang van de visserij
@@ -205,10 +189,9 @@ b. de invloed van het gebruik van bepaalde vang- of lokmethoden op het welzijn v
 
 ### Artikel  17  
 
-1.  Het is verboden zonder vergunning van Onze Minister vissen van andere dan de krachtens artikel 1, tweede lid, aangewezen soorten uit te zetten in de in artikel 1, vierde lid, onderdeel d, bedoelde wateren, met uitzondering van de wateren, bedoeld in artikel 10, achtste lid. Bij een beslissing omtrent het verlenen van een vergunning wordt rekening gehouden met de belangen van de natuurbescherming en met het welzijn van vissen.   
-2.  Onze Minister kan aan een vergunning als bedoeld in het eerste lid voorschriften verbinden. De vergunning kan onder beperkingen worden verleend.   
-3.  Het is verboden in een water, op het visrecht waarvan een ander de rechthebbende is, vis uit te zetten, zonder in het bezit te zijn van een schriftelijke toestemming van de rechthebbende. Voor de toepassing van dit lid worden onder vis mede begrepen vissen van andere dan de overeenkomstig het bepaalde in artikel 1, tweede lid, aangewezen soorten.   
-4.  Voor de geldigheid van een schriftelijke toestemming als bedoeld in het derde lid is vereist dat deze in duidelijk leesbaar en niet uit te wissen schrift ten minste vermeldt: de naam, de voorletters en de woonplaats van de rechthebbende op het visrecht en van de houder, de geboortedatum van de houder, de omschrijving van het water en de vissoort waarvoor zij geldt en de dagtekening.   
+1.  Het is verboden in een water als bedoeld in artikel 1, vierde lid, onder d, op het visrecht waarvan een ander de rechthebbende is, vis uit te zetten, zonder in het bezit te zijn van een schriftelijke toestemming van de rechthebbende.   
+2.  Voor de toepassing van het eerste lid wordt onder vis mede begrepen vissen, schaal- en schelpdieren en kuit, broed en zaad van vissen en schaal- en schelpdieren, die niet krachtens artikel 1, tweede lid, zijn aangewezen.   
+3.  Een schriftelijke toestemming als bedoeld in het eerste lid, is duidelijk leesbaar en in niet uit te wissen schrift gesteld en vermeldt ten minste: de naam, de voorletters en de woonplaats van de rechthebbende op het visrecht en van de houder, de geboortedatum van de houder, de omschrijving van het water, de vissoort en de periode, waarvoor zij geldt en de dagtekening.   
 
 ### §  4  
 
@@ -216,7 +199,7 @@ b. de invloed van het gebruik van bepaalde vang- of lokmethoden op het welzijn v
 
 ### Artikel  21  
 
-1.  Het is verboden in een water, als bedoeld in artikel 1, vierde lid, onder d, te vissen voorzover een ander rechthebbende is op het visrecht van dat water.   
+1.  Behoudens indien het betreft het uitzetten van vis, is het verboden in een water als bedoeld in artikel 1, eerste lid, onder d, te vissen voor zover een ander rechthebbende is op het visrecht van dat water.   
 2.  Het verbod in het eerste lid geldt niet: 
 
 a. voor hem, die voorzien is van een schriftelijke toestemming van de rechthebbende, geldende voor de visserij, welke wordt uitgeoefend;  
@@ -225,7 +208,7 @@ b. voor hem die de rechthebbende op het visrecht of de houder van de schriftelij
 
 c. voor het vissen met een hengel door personen onder de veertien jaar die vissen onder begeleiding van een volwassene die voorzien is van de in onderdeel a bedoelde schriftelijke toestemming, of die vissen in het kader van een door de betreffende rechthebbende op het visrecht georganiseerd evenement;  
 
-d. voor het vissen in een viswater, als bedoeld in artikel 10, achtste lid, dan wel in een viskwekerij, ten aanzien waarvan een ontheffing is verleend, als bedoeld in het negende lid van dat artikel.     
+d. voor het vissen in een binnen een afgesloten erf gelegen viswater, dat geen voor het doorlaten van vis geschikte verbinding met andere wateren bezit dan wel in een viskwekerij, die voldoet aan de door Onze Minister te stellen regelen.     
 
 ### Artikel  22  
 
@@ -340,7 +323,7 @@ b. indien de verhuurder hem te kennen heeft gegeven de overeenkomst niet te will
 c. in het geval die overeenkomst is aangegaan voor een andere tijdsduur dan zes jaren.   Dit verzoek wordt ten minste een half jaar vóór het einde van de lopende overeenkomst gedaan.   
 3.  Een verzoek als bedoeld in het tweede lid kan worden beperkt tot een gedeelte van het visrecht, waarop de overeenkomst betrekking heeft.   
 4.  De Kamer beslist naar billijkheid, evenwel met inachtneming van het bepaalde in de volgende leden.   
-5.  De Kamer wijst het verzoek in ieder geval af indien de verhuurder de overeenkomst niet wil voortzetten wegens de omstandigheid dat de huurder voor het einde van de lopende overeenkomst de leeftijd van vijfenzestig jaar heeft bereikt of zal bereiken.   
+5.  De Kamer wijst het verzoek in ieder geval af indien de verhuurder de overeenkomst niet wil voortzetten wegens de omstandigheid dat de huurder voor het einde van de lopende overeenkomst de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt of zal bereiken.   
 6.  Indien een doelmatige bevissing van het water, waarop de overeenkomst betrekking heeft dan wel van het complex van wateren, waartoe dat water behoort, door de toewijzing van het verzoek zou worden belemmerd, wijst de Kamer het verzoek af dan wel beperkt zij de verlenging tot een gedeelte van het visrecht.   
 7.  Indien en voor zover de Kamer het verzoek toewijst, stelt zij de duur vast voor welke de verlenging zal gelden en welke ten hoogste zes jaren zal bedragen.   
 8.  Ingeval de verlenging tot een gedeelte van het visrecht wordt beperkt, stelt de Kamer de prestatie van de huurder vast.   
@@ -449,7 +432,7 @@ Bij ministeriële regeling wordt voor de werkzaamheden van de Kamer een tarief v
 
 ### Hoofdstuk  VI  
 
-####Bestuurlijke maatregelen en toezichts-, dwang- en strafbepalingen
+####Toezichts-, dwang- en strafbepalingen
 
 ### Artikel  54a  
 
@@ -460,52 +443,28 @@ Bij ministeriële regeling wordt voor de werkzaamheden van de Kamer een tarief v
 
 Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.  
 
-### Artikel  54c  
-
-1.  Onze Minister kan maatregelen treffen met betrekking tot vis die via voedering, drenking, inademing of een andere vorm van blootstelling een schadelijke stof heeft opgenomen, of waarvan wordt vermoed dat hij deze heeft opgenomen, of die het gevaar loopt de stof op te nemen, en daarmee een ernstig gevaar voor mens, dier en milieu kan opleveren.   
-2.  De maatregelen, bedoeld in het eerste lid, zijn: 
-
-a. een verbod op het vissen, en  
-
-b. een verbod op het voorhanden en in voorraad hebben van vis.     
-3.  De maatregelen kunnen worden voorgeschreven: 
-
-a. voor een daarbij aan te wijzen vissoort;  
-
-b. voor één of meer afzonderlijke gevallen of ten algemene, en  
-
-c. voor geheel Nederland of voor bepaalde gedeelten daarvan.     
-4.  Aan de maatregelen kunnen voorschriften of beperkingen worden verbonden. Het is verboden te handelen in strijd met voorschriften als bedoeld in de eerste volzin.   
-5.  Bij ministeriële regeling kunnen regels worden gesteld over de uitvoering van de maatregelen. Hierbij kan worden voorzien in de mogelijkheid tot ontheffingverlening of in een vrijstelling voor onderzoeksdoeleinden. Het vierde lid is van overeenkomstige toepassing op de ontheffing of de vrijstelling.   
-6.  De maatregelen krachtens het eerste lid worden getroffen in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport.   
-
 ### Artikel  55  
 
-1.  Ieder, die de visserij uitoefent of pleegt uit te oefenen, is verplicht op eerste vordering van een opsporingsambtenaar: 
+1.  Ieder die de visserij uitoefent of pleegt uit te oefenen, is verplicht op eerste vordering van een opsporingsambtenaar: 
 
 a. deze ambtenaar in de gelegenheid te stellen zijn vaartuig te betreden;  
 
-b. ter inzage af te geven de op grond van het bepaalde bij of krachtens deze wet voor de uitoefening van de visserij vereiste akten, vergunningen, schriftelijke toestemmingen, huurovereenkomsten en andere bescheiden, waarvan inzage naar het redelijk oordeel van deze ambtenaar voor de vervulling van zijn taak nodig is;  
+b. ter inzage af te geven de op grond van het bepaalde bij of krachtens deze wet voor de uitoefening van de visserij vereiste bescheiden, waarvan inzage naar redelijk oordeel van deze ambtenaar voor de vervulling van zijn taak nodig is;  
 
 c. uitstaand vistuig te lichten;  
 
 d. gesloten viskaren te openen;  
 
-e. anderszins de medewerking te verlenen, welke deze ambtenaar voor de vervulling van zijn taak behoeft.     
-2.  Overtreding van het bij het vorige lid bepaalde wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.   
-3.  De feiten strafbaar gesteld bij dit artikel worden als overtreding beschouwd.   
+e. anderszins de medewerking te verlenen, die deze ambtenaar voor de vervulling van zijn taak behoeft.     
+2.  Opsporingsambtenaren zijn bevoegd tot het verrichten van de handelingen, bedoeld in het eerste lid, onderdelen c en d.   
+3.  Overtreding van het eerste lid wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.   
+4.  De feiten strafbaar gesteld bij dit artikel worden als overtreding beschouwd.   
 
 ### Artikel  56  
 
-1.  Overtreding van het bepaalde bij of krachtens de artikelen 2a, eerste en tweede lid, 2b, eerste lid, 2c, eerste, tweede en derde lid, 7, eerste lid, 10, eerste lid, en 16, eerste en derde lid, alsmede overtreding van het bepaalde bij of krachtens artikel 21, eerste lid, indien wordt gevist met één of meer hengels, dan wel van voorschriften, verbonden aan op grond van het bepaalde bij of krachtens die artikelen verleende vergunningen, schriftelijke toestemmingen, vrijstellingen, of ontheffingen, wordt gestraft met een hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.   
-2.  Overtreding van het bepaalde bij of krachtens de artikelen 17, 22, eerste lid, 27 en 32, eerste lid, dan wel van de voorschriften, bedoeld in de artikelen 10, negende lid, 17, tweede lid, 22, tweede, derde en vijfde lid, 29, tweede lid, en 33, tiende lid wordt gestraft met hechtenis van ten hoogste een week of geldboete van de eerste categorie.   
-3.  Overtreding van het bepaalde bij of krachtens artikel 21, eerste lid, dan wel van voorschriften, verbonden aan op grond van het bepaalde bij of krachtens dat artikel verleende vergunningen, schriftelijke toestemmingen of ontheffingen, wordt, indien wordt gevist anders dan met één of meer hengels, gestraft met een hechtenis van ten hoogste drie maanden of geldboete van de vierde categorie.   
-4.  De in dit artikel strafbaar gestelde feiten zijn overtredingen.   
-
-### Artikel  57  
-
-1.  Bij veroordeling wegens overtreding van het bepaalde bij of krachtens de artikelen 2 *a*, 2 *c*, 7, eerste lid, 9, eerste en derde lid, 16, eerste en derde lid, en 21, eerste lid, kan aan de veroordeelde de bevoegdheid om krachtens een akte te vissen voor ten hoogste drie jaren worden ontzegd.   
-2.  Bij toepassing van het eerste lid gaat de geldigheid van de akte, aan de veroordeelde afgegeven, verloren, zodra het vonnis voor tenuitvoerlegging vatbaar is geworden. De betrokken officier van justitie doet daarvan onmiddellijk mededeling aan Onze Minister, die daarvan afkondiging doet in de *Staatscourant* en in het *Algemeen Politieblad*.   
+1.  Overtreding van het bepaalde bij of krachtens de artikelen 2b, 2c en 17, dan wel van de voorschriften, verbonden aan op grond van de bij of krachtens die artikelen verleende vergunningen, ontheffingen of schriftelijke toestemmingen, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.   
+2.  Overtreding van het bepaalde bij of krachtens de artikelen 22, eerste lid, 27 en 32, eerste lid, dan wel van de voorschriften, bedoeld in artikel 22, tweede, derde en vijfde lid, 29, tweede lid, en 33, tiende lid, wordt gestraft met hechtenis van ten hoogste een week of geldboete van de eerste categorie.   
+3.  De in dit artikel strafbaar gestelde feiten zijn overtredingen.   
 
 ### Artikel  58  
 
@@ -559,34 +518,18 @@ De gevolgen, welke het overlijden van de huurder ten aanzien van de overeenkomst
 
 ### Artikel  74  
 
-1.  Bij of krachtens algemene maatregel van bestuur worden bedragen vastgesteld welke verschuldigd zijn ter zake van het ingevolge deze wet uitreiken van bescheiden, andere dan die bedoeld in artikel 10, alsmede ter zake van de krachtens de artikelen 3a, 4, 5, 9 of 16 voorgeschreven controles, verrichtingen of onderzoeken.   
+1.  Bij of krachtens algemene maatregel van bestuur worden bedragen vastgesteld welke verschuldigd zijn ter zake van het ingevolge deze wet uitreiken van bescheiden, alsmede ter zake van de krachtens de artikelen 3a, 4, 5, 9 of 16 voorgeschreven controles, verrichtingen of onderzoeken.   
 2.  De in het eerste lid bedoelde bedragen worden zodanig vastgesteld dat de geraamde baten niet uitgaan boven de geraamde kosten die in een rechtstreeks verband staan met de werkzaamheden waarvoor het tarief wordt opgelegd, onverminderd de daaromtrent bij een communautaire maatregel vastgestelde verplichtingen.   
 
 ### Artikel  75  
 
-Ingetrokken worden: 
-
-a. de Visserijwet (*Stb.* 1931, 410);  
-
-b. de Wet van 14 juli 1954 (*Stb.* 369);  
-
-c. de Wet bijdragen verbetering binnenvisserij (*Stb.* 1952, 159);  
-
-d. de Wet op de maaswijdte van zeevisnetten (*Stb.* 1954, 250);  
-
-e. de Haringwet 1927 (*Stb.* 387).    
-
-### Artikel  76  
-
-Bevat wijzigingen in andere regelgeving.   
-
-### Artikel  77  
-
-Bevat wijzigingen in andere regelgeving.   
-
-### Artikel  78  
-
-Bevat wijzigingen in andere regelgeving.   
+1.  De zorg voor de archiefbescheiden van de bij de [wet van 6 september 2006 tot wijziging van de Visserijwet 1963](../../../../wet/wijzigingswet/visserijwet/1963/(vervallen/van/de/organisatie/ter/etc/BWBR0020263/README.md) (Stb. 2006, 476) opgeheven Organisatie ter verbetering van de binnenvisserij ligt bij Onze Minister.   
+2.  De archiefbescheiden kunnen, voor zover zij niet zijn overgebracht naar een rijksarchiefbewaarplaats, tijdelijk ter beschikking worden gesteld aan een door Onze Minister aan te wijzen rechtspersoon.   
+3.  Onze Minister stelt vast voor welk tijdvak de in het tweede lid bedoelde archiefbescheiden aan de rechtspersoon ter beschikking worden gesteld.   
+4.  De rechtspersoon rapporteert jaarlijks aan Onze Minister over het beheer van de ter beschikking gestelde archiefbescheiden. Het in de artikelen [25a](../../../../wet/archiefwet/1995/BWBR0007376/README.md) en [25b van de Archiefwet 1995](../../../../wet/archiefwet/1995/BWBR0007376/README.md) bedoelde toezicht op het beheer blijft op de krachtens het tweede lid ter beschikking gestelde archiefbescheiden van toepassing.   
+5.  Onze Minister is te allen tijde bevoegd inzage te nemen van de terbeschikkinggestelde archiefbescheiden dan wel daarvan of daaruit reproducties, afschriften of uittreksels te vorderen.   
+6.  De kosten van het beheer van de krachtens het tweede lid ter beschikking gestelde archiefbescheiden komen ten laste van de in dat lid bedoelde rechtspersoon.   
+7.  De overbrenging van de in de in het eerste lid bedoelde archiefbescheiden naar een rijksarchiefbewaarplaats geschiedt door Onze Minister met inachtneming van de [artikelen 12](../../../../wet/archiefwet/1995/BWBR0007376/README.md) en [13 van de Archiefwet 1995](../../../../wet/archiefwet/1995/BWBR0007376/README.md).   
 
 ### Artikel  79  
 

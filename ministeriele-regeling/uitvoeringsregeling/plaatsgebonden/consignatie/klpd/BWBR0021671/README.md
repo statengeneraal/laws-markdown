@@ -20,13 +20,13 @@ Besluit:
 
 ####Definities
 
-Tenzij anders is vermeld, wordt voor de toepassing van de Uitvoeringsregeling plaatsgebonden consignatie KLPD verstaan onder: 
+Tenzij anders is vermeld, wordt voor de toepassing van de Uitvoeringsregeling plaatsgebonden consignatie landelijke eenheid verstaan onder: 
 
 1. medewerker: de ambtenaar genoemd in [artikel 1, lid 1, sub c en d van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
 
 2. plaatsgebonden consignatie: een aaneengesloten tijdruimte van ten hoogste 24 uren waarin de medewerker, zo nodig naast het verrichten van de bedongen arbeid, verplicht is op de arbeidsplaats aanwezig te zijn om op oproep zo spoedig mogelijk de bedongen arbeid te verrichten;  
 
-3. bevoegd gezag: de korpschef van het Korps landelijke politiediensten namens de minister van Binnenlandse Zaken en Koninkrijksrelaties als beheerder KLPD.    
+3. bevoegd gezag: de korpschef.    
 
 ### Artikel  2  
 
@@ -57,7 +57,7 @@ b. in het buitenland vindt planning plaats in dienst of plaatsgebonden consignat
 
 ####Slotbepalingen
 
-1.  Deze regeling kan worden aangehaald als: ‘Uitvoeringsregeling plaatsgebonden consignatie KLPD’.   
+1.  Deze regeling kan worden aangehaald als: ‘Uitvoeringsregeling plaatsgebonden consignatie landelijke eenheid’.   
 2.   Het ‘Besluit beëindiging en afbouw vergoedingregelingen extra diensten groepschefs en beveiligers KDB’ van 19 december 1994 met kenmerk 472700/594/HY en de ‘ [Regeling bevoegdheid toekenning toelage functionarissen KDB KLPD](../../../../../../ministeriele-regeling/regeling/bevoegdheid/toekenning/toelage/functionarissen/koninklijke/en/etc/BWBR0007388/README.md) ’ van 8 mei 1995 met kenmerk EA95/929a zijn met dit besluit ingetrokken.  
 
 ### Artikel  5  

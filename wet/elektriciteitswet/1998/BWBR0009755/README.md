@@ -1113,7 +1113,7 @@ b. het verschaffen van toegang tot meetgegevens als bedoeld in artikel 26ab, twe
 
 a. de wijze waarop netbeheerders en afnemers alsmede netbeheerders zich jegens elkaar gedragen ten aanzien van het in werking hebben van de netten, het voorzien van een aansluiting op het net en het uitvoeren van transport van elektriciteit over het net,  
 
-b. de wijze waarop netbeheerders en afnemers alsmede netbeheerders zich jegens elkaar gedragen ten aanzien van het meten van gegevens betreffende het transport van elektriciteit en de uitwisseling van meetgegevens,  
+b. de wijze waarop netbeheerders en afnemers alsmede netbeheerders zich jegens elkaar gedragen ten aanzien van het meten van gegevens betreffende het transport van elektriciteit;  
 
 c. de wijze waarop de netbeheerder van het landelijk hoogspanningsnet enerzijds en afnemers en de overige netbeheerders anderzijds zich jegens elkaar gedragen ten aanzien van de systeemdiensten,  
 

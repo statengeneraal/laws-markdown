@@ -38,9 +38,9 @@ b. betrokkene: degene die in dienstbetrekking staat of heeft gestaan als:
 
 6.  vervallen;   
 
-7. lid van het college van bestuur of van de centrale directie van een hogeschool;  
+7.  vervallen;   
 
-8. benoemd lid van het algemeen bestuur van de organisatie genoemd in de [Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/de/nederlandse/organisatie/voor/wetenschappelijk/onderzoek/BWBR0004191/README.md);  
+8.  vervallen;   
 
 9. personeelslid van een lichaam, bedoeld in [artikel 2, eerste lid, onderdelen f en g, dan wel derde lid, onderdeel b, van de Wet privatisering ABP](../../../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md), indien dat lichaam geheel of gedeeltelijk wordt gesubsidieerd ten laste van hoofdstuk VIII van de Rijksbegroting en waarop deze wet door Onze Minister van toepassing is verklaard;  
 

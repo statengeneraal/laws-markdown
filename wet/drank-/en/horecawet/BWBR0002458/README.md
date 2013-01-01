@@ -16,17 +16,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder: – Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport; – horecabedrijf: de activiteit in ieder geval bestaande uit het bedrijfsmatig of anders dan om niet verstrekken van alcoholhoudende drank voor gebruik ter plaatse; – slijtersbedrijf: de activiteit bestaande uit het bedrijfsmatig of anders dan om niet aan particulieren verstrekken van sterke drank voor gebruik elders dan ter plaatse, al dan niet gepaard gaande met het bedrijfsmatig of anders dan om niet aan particulieren verstrekken van zwak-alcoholhoudende en alcoholvrije drank voor gebruik elders dan ter plaatse of met het bedrijfsmatig verrichten van bij algemene maatregel van bestuur aangewezen andere handelingen; – lokaliteit: een besloten ruimte, onderdeel uitmakend van een inrichting; – horecalokaliteit: een van een afsluitbare toegang voorziene lokaliteit, onderdeel uitmakend van een inrichting waarin het horecabedrijf wordt uitgeoefend, in ieder geval bestemd voor het verstrekken van alcoholhoudende drank voor gebruik ter plaatse; – slijtlokaliteit: een van een afsluitbare toegang voorziene lokaliteit, onderdeel uitmakend van of samenvallend met een inrichting waarin het slijtersbedrijf wordt uitgeoefend, in ieder geval bestemd voor het verstrekken van sterke drank voor gebruik elders dan ter plaatse; – inrichting: de lokaliteiten waarin het slijtersbedrijf of het horecabedrijf wordt uitgeoefend, met de daarbij behorende terrassen voor zover die terrassen in ieder geval bestemd zijn voor het verstrekken van alcoholhoudende drank voor gebruik ter plaatse, welke lokaliteiten al dan niet onderdeel uitmaken van een andere besloten ruimte; – leidinggevende: 
 
-1°. de natuurlijke persoon of de bestuurders van een rechtspersoon of hun gevolmachtigden, voor wiens rekening en risico het horecabedrijf of het slijtersbedrijf wordt uitgeoefend, met uitzondering van bestuurders van een rechtspersoon als bedoeld in artikel 4;  
+1°. de natuurlijke persoon of de bestuurders van een rechtspersoon of hun gevolmachtigden, voor wiens rekening en risico het horecabedrijf of het slijtersbedrijf wordt uitgeoefend;  
 
 2°. de natuurlijke persoon, die algemene leiding geeft aan een onderneming, waarin het horecabedrijf of het slijtersbedrijf wordt uitgeoefend in een of meer inrichtingen;  
 
-3°. de natuurlijke persoon, die onmiddellijke leiding geeft aan de uitoefening van zodanig bedrijf in een inrichting;   – inspecteur: de bevoegde inspecteur van het Staatstoezicht op de volksgezondheid; – wijn: de drank, die door alcoholische gisting is verkregen uit en geen andere bestanddelen bevat dan die, afkomstig van het sap van druiven – vruchten van Vitis Vinifera L. – alsmede de drank, die met toepassing van bijzondere technische bewerkingen of met toevoeging van andere bestanddelen is verkregen uit bovenbedoeld sap, voor zover deze toepassing of toevoeging in het land van oorsprong van zodanige drank bij de bereiding daarvan gebruikelijk is; – sterke drank: de drank, die bij een temperatuur van twintig graden Celsius voor vijftien of meer volumenprocenten uit alcohol bestaat, met uitzondering van wijn; – alcoholhoudende drank: de drank die bij een temperatuur van twintig graden Celsius voor meer dan een half volumeprocent uit alcohol bestaat; – zwak-alcoholhoudende drank: alcoholhoudende drank, met uitzondering van sterke drank; – bedrijfslichaam: een openbaar lichaam als bedoeld in [artikel 66 van de Wet op de Bedrijfsorganisatie](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (Stb. 1950, K 22); – bijlage: bijlage bedoeld in artikel 44b, eerste lid.   
+3°. de natuurlijke persoon, die onmiddellijke leiding geeft aan de uitoefening van zodanig bedrijf in een inrichting;   – wijn: de categorieën alcoholhoudende dranken als opgesomd in Bijlage IV van Verordening (EG) 479/2008; – sterke drank: de drank, die bij een temperatuur van twintig graden Celsius voor vijftien of meer volumenprocenten uit alcohol bestaat, met uitzondering van wijn; – alcoholhoudende drank: de drank die bij een temperatuur van twintig graden Celsius voor meer dan een half volumeprocent uit alcohol bestaat; – zwak-alcoholhoudende drank: alcoholhoudende drank, met uitzondering van sterke drank; – paracommerciële rechtspersoon: een rechtspersoon niet zijnde een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid, die zich naast activiteiten van recreatieve, sportieve, sociaal-culturele, educatieve, levensbeschouwelijke of godsdienstige aard richt op de exploitatie in eigen beheer van een horecabedrijf; – barvrijwilliger: de natuurlijke persoon die, niet in dienstverband, alcoholhoudende drank verstrekt in een horecalokaliteit in beheer bij een paracommerciële rechtspersoon; – vergunninghouder: de natuurlijke persoon of de rechtspersoon aan wie de vergunning, bedoeld in artikel 3, is verleend; bijlage: bijlage bedoeld in artikel 44b, eerste lid.   
 2.  Onder een inrichting wordt niet verstaan een vervoermiddel voor het rondtrekkend uitoefenen van een bedrijf.   
-3.  Deze wet is, met uitzondering van de artikelen 20, eerste, tweede, vierde, zesde en zevende lid, 21 en 24, tweede lid, niet van toepassing op: 
+3.  Deze wet is, met uitzondering van de artikelen 20, 21 en 24, derde lid, niet van toepassing op: 
 
 a. vervoermiddelen die bestemd zijn voor het vervoer van personen, tijdens hun gebruik als zodanig;  
 
-b. legerplaatsen en lokaliteiten, aan het militair gezag onderworpen, gedurende de tijd dat deze uitsluitend voor militaire doeleinden worden gebruikt.     
+b. legerplaatsen en lokaliteiten, aan het militair gezag onderworpen, gedurende de tijd dat deze uitsluitend voor militaire doeleinden worden gebruikt;  
+
+c. op luchtvaartterreinen opengesteld voor verkeer van en naar landen buiten de Europese Unie gelegen winkels in het gebied dat uitsluitend toegankelijk is voor personen die in het bezit zijn van een geldig reisbiljet of een daartoe afgegeven persoonsgebonden kaart.     
 
 ### §  2  
 
@@ -41,31 +43,26 @@ b. legerplaatsen en lokaliteiten, aan het militair gezag onderworpen, gedurende 
 
 ### Artikel  3  
 
-Het is verboden zonder daartoe strekkende vergunning van burgemeester en wethouders het horecabedrijf of slijtersbedrijf uit te oefenen.  
+1.  Het is verboden zonder daartoe strekkende vergunning van de burgemeester het horecabedrijf of slijtersbedrijf uit te oefenen.   
+2.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag van een vergunning als bedoeld in het eerste lid.   
 
 ### Artikel  4  
 
-1.  Aan een vergunning, die op grond van artikel 3 voor het horecabedrijf wordt verleend aan een rechtspersoon niet zijnde een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid, die zich richt op activiteiten van recreatieve, sportieve, sociaal-culturele, educatieve, levensbeschouwelijke of godsdienstige aard, verbinden burgemeester en wethouders een of meer voorschriften of beperkingen die, gelet op de plaatselijke of regionale omstandigheden, nodig zijn ter voorkoming van mededinging door het verstrekken van alcoholhoudende drank, die uit een oogpunt van ordelijk economisch verkeer als onwenselijk moet worden beschouwd.   
-2.  De in het eerste lid bedoelde voorschriften of beperkingen kunnen op geen andere onderwerpen betrekking hebben dan: 
+1.  Bij gemeentelijke verordening worden ter voorkoming van oneerlijke mededinging regels gesteld waaraan paracommerciële rechtspersonen zich te houden hebben bij de verstrekking van alcoholhoudende drank.   
+2.  Bij zodanige verordening is het de gemeente toegestaan rekening te houden met de aard van de paracommerciële rechtspersoon.   
+3.  De in het eerste lid bedoelde regels hebben in elk geval betrekking op de volgende onderwerpen: 
 
-a. in de inrichting te houden bijeenkomsten van persoonlijke aard, zoals bruiloften en partijen;  
+a. de tijden gedurende welke in de betrokken inrichting alcoholhoudende drank mag worden verstrekt;  
 
-b. het openlijk aanprijzen van de mogelijkheid tot het houden van bijeenkomsten als bedoeld onder a;  
+b. in de inrichting te houden bijeenkomsten van persoonlijke aard, zoals bruiloften en partijen;  
 
-c. de tijden gedurende welke in de betrokken inrichting alcoholhoudende drank wordt verstrekt.     
-3.  Bij gemeentelijke verordening kunnen nadere regels worden gesteld met betrekking tot de in het eerste lid bedoelde voorschriften of beperkingen.   
-4.  Door burgemeester en wethouders worden, indien dit in verband met een wijziging in de plaatselijke of regionale omstandigheden nodig is, aan een reeds verleende vergunning als bedoeld in het eerste lid voorschriften of beperkingen als in dat lid bedoeld verbonden of aan een zodanige vergunning verbonden voorschriften of beperkingen gewijzigd of ingetrokken.   
-5.  Burgemeester en wethouders kunnen met het oog op bijzondere gelegenheden van zeer tijdelijke aard ontheffing verlenen van de aan een vergunning verbonden voorschriften of beperkingen als bedoeld in het eerste lid.   
-
-### Artikel  5  
-
-1.  Artikel 4 is niet van toepassing, indien de betrokken rechtspersoon gehouden is uitvoering te geven aan een regeling, betrekking hebbend op een of meer van de in artikel 4, tweede lid, bedoelde onderwerpen, die door die rechtspersoon of een organisatie waarbij deze is aangesloten, schriftelijk is overeengekomen met het Bedrijfschap Horeca en Catering.   
-2.  Burgemeester en wethouders trekken aan een vergunning verbonden voorschriften en beperkingen als bedoeld in artikel 4 op verzoek van de vergunninghouder in, indien voor deze een verplichting is ontstaan als bedoeld in het eerste lid.   
-3.  Ten aanzien van een reeds verleende vergunning is, indien een verplichting als bedoeld in het eerste lid eindigt, artikel 4, eerste lid, van overeenkomstige toepassing.   
+c. in de inrichting te houden bijeenkomsten die gericht zijn op personen die niet of niet rechtstreeks bij de activiteiten van de betreffende rechtspersoon betrokken zijn.     
+4.  De burgemeester kan met het oog op bijzondere gelegenheden van zeer tijdelijke aard voor een aaneengesloten periode van ten hoogste twaalf dagen ontheffing verlenen van de bij of krachtens dit artikel gestelde regels.   
+5.  De ontheffing, of een afschrift daarvan, is in de inrichting aanwezig.   
 
 ### Artikel  6  
 
-Op de voorbereiding van een beslissing tot verlening van een vergunning op grond van artikel 3 voor het horecabedrijf aan een rechtspersoon als bedoeld in artikel 4, eerste lid, en op de voorbereiding van een beslissing op grond van artikel 4, eerste of vierde lid, of artikel 5, derde lid, is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.  
+Op de voorbereiding van een beslissing tot verlening van een vergunning op grond van artikel 3 voor het horecabedrijf aan een paracommerciële rechtspersoon is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.  
 
 ### Artikel  7  
 
@@ -75,24 +72,34 @@ Op de voorbereiding van een beslissing tot verlening van een vergunning op grond
 
 ### Artikel  8  
 
-1.  Voor het verkrijgen van een vergunning moet worden voldaan aan het bij en krachtens de volgende leden bepaalde.   
-2.  Leidinggevenden dienen aan de volgende eisen te voldoen: 
+1.  Leidinggevenden van het horecabedrijf en het slijtersbedrijf voldoen aan de volgende eisen: 
 
-a. zij mogen niet onder curatele staan dan wel uit het ouderlijk gezag of voogdij ontzet zijn;  
+a. zij hebben de leeftijd van eenentwintig jaar bereikt;  
 
-b. zij mogen niet in enig opzicht van slecht levensgedrag zijn;  
+b. zij zijn niet in enig opzicht van slecht levensgedrag;  
 
-c. zij moeten de leeftijd van eenentwintig jaar hebben bereikt.     
-3.  Bij algemene maatregel van bestuur worden naast de in het tweede lid gestelde eisen andere eisen ten aanzien van het zedelijk gedrag van leidinggevenden gesteld en kan de in dat lid, onder b, gestelde eis nader worden omschreven.   
-4.  Leidinggevenden, bij rechtspersonen als bedoeld in artikel 4 is zulks beperkt tot 2 leidinggevenden per rechtspersoon, dienen tevens te beschikken over voldoende kennis en inzicht met betrekking tot sociale hygiëne, overeenkomstig bij algemene maatregel van bestuur te stellen eisen.   
-5.  Bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport worden de bewijsstukken aangewezen waaruit het voldoen aan de eisen, bedoeld in het vierde lid, moet blijken.   
+c. zij staan niet onder curatele en zijn evenmin uit het ouderlijk gezag of de voogdij ontzet.     
+2.  Bij algemene maatregel van bestuur worden naast de in het eerste lid gestelde eisen andere eisen ten aanzien van het zedelijk gedrag van leidinggevenden gesteld en kan de in dat lid, onder b, gestelde eis nader worden omschreven.   
+3.  Leidinggevenden beschikken tevens over voldoende kennis en inzicht met betrekking tot sociale hygiëne, overeenkomstig bij algemene maatregel van bestuur te stellen eisen.   
+4.  De in het derde lid gestelde eis geldt niet voor leidinggevenden voor wier rekening en risico het horecabedrijf of het slijtersbedrijf wordt uitgeoefend, indien die leidinggevenden geen bemoeienis hebben met de bedrijfsvoering of de exploitatie van het horecabedrijf of het slijtersbedrijf waarvoor vergunning wordt gevraagd of is verkregen en de vergunninghouder dit in een schriftelijke verklaring bevestigt.   
+5.  Bij regeling van Onze Minister worden de bewijsstukken aangewezen waaruit moet blijken dat is voldaan aan de eisen, bedoeld in het derde lid. Van deze bewijsstukken wordt door een door Onze Minister aan te wijzen instantie een register bijgehouden. Dit register kan worden geraadpleegd door: 
+
+a. de burgemeester, bij het verlenen van een vergunning op grond van artikel 3, bij het verlenen van een ontheffing op grond van artikel 35 en bij een melding als bedoeld in artikel 30a;  
+
+b. de ambtenaren die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wet.     
+6.  Indien een paracommerciële rechtspersoon het horecabedrijf uitoefent, voldoen ten minste twee leidinggevenden aan de bij of krachtens dit artikel gestelde eisen.   
 
 ### Artikel  9  
 
-1.  Het bestuur van een rechtspersoon als bedoeld in artikel 4 dient voor het verkrijgen van een vergunning een reglement vast te stellen dat waarborgt dat de verstrekking van alcoholhoudende drank in de inrichting gedurende de openingstijden vanuit het oogpunt van sociale hygiëne te allen tijde geschiedt door op dit gebied gekwalificeerde personen. De kwalificatienormen hiervoor worden eveneens in het in dit artikel genoemde reglement vastgesteld.   
-2.  Het reglement geeft in ieder geval aan op welke dagen en tijdstippen bedrijfsmatig of anders dan om niet alcoholhoudende drank wordt verstrekt. Deze dagen en tijdstippen worden duidelijk zichtbaar in de horecalokaliteit aangegeven.   
-3.  Het reglement voorziet in de wijze waarop wordt toegezien op de naleving.   
-4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de inhoud van het reglement.   
+1.  Het bestuur van een paracommerciële rechtspersoon stelt voor het verkrijgen van een vergunning tot uitoefening van het horecabedrijf een reglement vast dat waarborgt dat de verstrekking van alcoholhoudende drank in de inrichting vanuit het oogpunt van sociale hygiëne op verantwoorde wijze geschiedt.   
+2.  In het reglement wordt vastgelegd: 
+
+a. welke kwalificatienormen worden gesteld aan de voorlichtingsinstructie op het gebied van sociale hygiëne die barvrijwilligers krijgen om te kunnen voldoen aan de eis gesteld in artikel 24, tweede lid onder c;  
+
+b. de wijze waarop door of namens het bestuur wordt toegezien op de naleving van het reglement.     
+3.  De paracommerciële rechtspersoon houdt een registratie bij van de barvrijwilligers die de in het tweede lid bedoelde voorlichtingsinstructie hebben gekregen. Deze registratie of een afschrift daarvan is in de inrichting aanwezig.   
+4.  Het reglement of een afschrift daarvan, is in de inrichting aanwezig.   
+5.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de inhoud van het reglement.   
 
 ### Artikel  10  
 
@@ -100,7 +107,7 @@ De inrichting dient te voldoen aan bij algemene maatregel van bestuur in het bel
 
 ### Artikel  11  
 
-Een krachtens artikel 3 verleende vergunning geldt ten aanzien van het verstrekken van alcoholhoudende drank niet voor andere gedeelten van de openbare weg dan die, waar dat verstrekken door burgemeester en wethouders uitdrukkelijk is toegestaan.  
+Een krachtens artikel 3 verleende vergunning geldt ten aanzien van het verstrekken van alcoholhoudende drank niet voor andere gedeelten van de openbare weg dan die, waar dat verstrekken door de burgemeester uitdrukkelijk is toegestaan.  
 
 ### §  3  
 
@@ -114,7 +121,7 @@ Een krachtens artikel 3 verleende vergunning geldt ten aanzien van het verstrekk
 ### Artikel  13  
 
 1.  Het is verboden in een horecalokaliteit of op een terras alcoholhoudende drank te verstrekken voor gebruik elders dan ter plaatse.   
-2.  Het is verboden in een slijtlokaliteit alcoholhoudende drank te verstrekken voor gebruik ter plaatse of toe te laten dat daar alcoholhoudende drank wordt genuttigd.   
+2.  Het is verboden in een slijtlokaliteit alcoholhoudende drank te verstrekken voor gebruik ter plaatse, tenzij het betreft verstrekking om niet door een persoon die in die slijtlokaliteit dienst pleegt te doen en die verstrekking tot doel heeft een klant die daarom verzoekt een alcoholhoudende drank die in dat slijtersbedrijf verkrijgbaar is te laten proeven.   
 
 ### Artikel  14  
 
@@ -124,16 +131,17 @@ Een krachtens artikel 3 verleende vergunning geldt ten aanzien van het verstrekk
 
 a. het bedrijfsmatig aan particulieren verkopen van goederen in het kader van een openbare verkoping, als bedoeld in [artikel 1 van de Wet ambtelijk toezicht bij openbare verkopingen](../../../../../wet/wet/ambtelijk/toezicht/bij/openbare/verkopingen/BWBR0002798/README.md);  
 
-b. het bedrijfsmatig aanbieden van diensten;  
+b. het bedrijfsmatig aanbieden van diensten, uitgezonderd diensten van recreatieve en culturele aard;  
 
 c. het bedrijfsmatig verhuren van goederen;  
 
 d. het in het openbaar bedrijfsmatig opkopen van goederen.     
+4.  Onder diensten van recreatieve aard als bedoeld in het derde lid, onder b, wordt niet verstaan het aanbieden van kansspelen, met uitzondering van het aanwezig hebben van speelautomaten als bedoeld in [Titel Va van de Wet op de kansspelen](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md).   
 
 ### Artikel  15  
 
-1.  Het is verboden de kleinhandel, met uitzondering van de kleinhandel in condooms en damesverband, of de zelfbedieningsgroothandel of een in artikel 14, derde lid, genoemde activiteit, uit te oefenen in een lokaliteit behorende tot een inrichting waarin het horecabedrijf wordt uitgeoefend, tenzij het publiek slechts toegang heeft tot die lokaliteit zonder een lokaliteit te betreden waar alcoholhoudende drank aanwezig is.   
-2.  Het is verboden dat een slijtlokaliteit rechtstreeks in verbinding staat met een ruimte waarin de kleinhandel of zelfbedieningsgroothandel of enige in artikel 14, derde lid, genoemde activiteit wordt uitgeoefend.   
+1.  Het is verboden de kleinhandel, met uitzondering van de kleinhandel in condooms en damesverband, of de zelfbedieningsgroothandel of een in artikel 14, derde lid, genoemde activiteit, uit te oefenen in een lokaliteit behorende tot een inrichting waarin het horecabedrijf wordt uitgeoefend, indien het publiek uitsluitend toegang heeft tot die lokaliteit door een lokaliteit te betreden waar alcoholhoudende drank aanwezig is.   
+2.  Het is verboden dat een slijtlokaliteit in verbinding staat met een ruimte waarin de kleinhandel of zelfbedieningsgroothandel of enige in artikel 14, derde lid, genoemde activiteit wordt uitgeoefend, tenzij is voldaan aan bij algemene maatregel van bestuur te stellen voorschriften.   
 
 ### Artikel  16  
 
@@ -150,10 +158,10 @@ Het is verboden bedrijfsmatig of anders dan om niet alcoholhoudende drank voor g
 
 a. een winkel waarin in overwegende mate levensmiddelen of tabak en aanverwante artikelen of uitsluitend zwak-alcoholhoudende dranken al dan niet tezamen met alcoholvrije dranken worden verkocht;  
 
-b. een winkel waarin een gevarieerd assortiment aan levensmiddelen of tabak en aanverwante artikelen wordt verkocht;  
+b. een warenhuis met een levensmiddelenafdeling met een vloeroppervlakte van ten minste 15 m² waarop een gevarieerd assortiment aan verpakte en onverpakte eetwaren wordt verkocht;  
 
 c. een voor het publiek toegankelijke besloten ruimte waarin hoofdzakelijk gerede eetwaren voor gebruik ter plaatse en elders dan ter plaatse plegen te worden verkocht, niet zijnde een horecalokaliteit.     
-3.  Zwak-alcoholhoudende dranken zijn in de gevallen bedoeld in het tweede lid, zodanig in de besloten ruimte geplaatst, dat deze dranken voor het publiek duidelijk te onderscheiden zijn van alcoholvrije dranken.   
+3.  Zwak-alcoholhoudende dranken zijn in de gevallen bedoeld in het tweede lid, zodanig in de besloten ruimte geplaatst, dat deze dranken voor het publiek duidelijk te onderscheiden zijn van alcoholvrije dranken. Alcoholvrije alternatieven voor bier en wijn behoeven niet te worden onderscheiden van zwak-alcoholhoudende dranken.   
 
 ### Artikel  19  
 
@@ -166,15 +174,25 @@ b. een ruimte als bedoeld in artikel 18, tweede lid;
 
 c. een inrichting waarin het slijtersbedrijf wordt uitgeoefend.     
 
+### Artikel  19a  
+
+1.  De burgemeester kan de natuurlijke persoon of de rechtspersoon die een bedrijf exploiteert als bedoeld in artikel 18, tweede lid, of artikel 19, tweede lid, onder a, en die in een periode van 12 maanden drie maal artikel 20, eerste lid, heeft overtreden, de bevoegdheid ontzeggen zwak-alcoholhoudende drank te verkopen vanaf de locatie waar bedoeld gedrag heeft plaatsgevonden.   
+2.  De ontzegging wordt opgelegd voor ten minste een week en ten hoogste 12 weken.   
+3.  De burgemeester is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van een krachtens dit artikel opgelegde ontzegging.   
+
 ### Artikel  20  
 
 1.  Het is verboden bedrijfsmatig of anders dan om niet alcoholhoudende drank te verstrekken aan een persoon van wie niet is vastgesteld dat deze de leeftijd van 16 jaar heeft bereikt. Onder verstrekken als bedoeld in de eerste volzin wordt eveneens begrepen het verstrekken van alcoholhoudende drank aan een persoon van wie is vastgesteld dat deze de leeftijd van 16 jaar heeft bereikt, welke drank echter kennelijk bestemd is voor een persoon van wie niet is vastgesteld dat deze de leeftijd van 16 jaar heeft bereikt.   
 2.  Het is verboden bedrijfsmatig of anders dan om niet sterke drank te verstrekken aan een persoon van wie niet is vastgesteld dat deze de leeftijd van 18 jaar heeft bereikt. Onder verstrekken als bedoeld in de eerste volzin wordt eveneens begrepen het verstrekken van sterke drank aan een persoon van wie is vastgesteld dat deze de leeftijd van 18 jaar heeft bereikt, welke drank echter kennelijk bestemd is voor een persoon van wie niet is vastgesteld dat deze de leeftijd van 18 jaar heeft bereikt.   
 3.  Het is verboden in een slijtlokaliteit de aanwezigheid toe te laten van een persoon van wie niet is vastgesteld dat deze de leeftijd van 16 jaar heeft bereikt, anders dan onder toezicht van een persoon van 21 jaar of ouder.   
-4.  De vaststelling, bedoeld in het eerste tot en met derde lid, blijft achterwege, indien het een persoon betreft die onmiskenbaar de vereiste leeftijd heeft bereikt. De vaststelling geschiedt aan de hand van een document als bedoeld in [artikel 1, eerste lid, van de Wet op de identificatieplicht](../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md), dan wel een bij of krachtens algemene maatregel van bestuur aangewezen document.   
-5.  Bij gemeentelijke verordening kan worden verboden dat in de gemeente of een bij de verordening aangewezen deel daarvan, in een horecalokaliteit van een bij de verordening aangewezen aard de aanwezigheid wordt toegelaten van personen beneden een bij die verordening te bepalen leeftijd welke echter niet hoger mag zijn dan 21 jaar.   
-6.  Op plaatsen waar bedrijfsmatig of anders dan om niet alcoholhoudende drank wordt verstrekt, alsmede bij de toegang tot een slijtlokaliteit, dient duidelijk zichtbaar en goed leesbaar te worden aangegeven welke leeftijdsgrens of leeftijdsgrenzen gelden. Onze Minister kan daaromtrent nadere regels stellen en modellen voorschrijven.   
-7.  Het is verboden in een slijtlokaliteit of horecalokaliteit of op een terras de aanwezigheid toe te laten van een persoon die in kennelijke staat van dronkenschap of kennelijk onder invloed van andere psychotrope stoffen verkeert.   
+4.  De vaststelling, bedoeld in het eerste tot en met derde lid: 
+
+a. geschiedt aan de hand van een document als bedoeld in [artikel 1, eerste lid, van de Wet op de identificatieplicht](../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md), dan wel op een bij of krachtens algemene maatregel van bestuur aangewezen andere wijze;  
+
+b. blijft achterwege, indien het een persoon betreft die onmiskenbaar de vereiste leeftijd heeft bereikt.     
+5.  Bij de voor het publiek bestemde toegang tot een horecalokaliteit, een slijtlokaliteit, een ruimte als bedoeld in artikel 18, tweede lid, of een vervoermiddel waarin bedrijfsmatig of anders dan om niet alcoholhoudende drank wordt verstrekt, dient duidelijk zichtbaar en goed leesbaar te worden aangegeven welke leeftijdsgrens of leeftijdsgrenzen gelden. Bij regeling van Onze Minister kunnen daaromtrent nadere regels worden gesteld of modellen worden vastgesteld.   
+6.  Het is verboden in een slijtlokaliteit of horecalokaliteit of op een terras de aanwezigheid toe te laten van een persoon die in kennelijke staat van dronkenschap of kennelijk onder invloed van andere psychotrope stoffen verkeert.   
+7.  Het is verboden in kennelijke staat van dronkenschap of kennelijk onder invloed van andere psychotrope stoffen dienst te doen in een slijtlokaliteit of horecalokaliteit.   
 
 ### Artikel  21  
 
@@ -196,19 +214,22 @@ a. in stadions of bij die maatregel aangewezen delen daarvan, in gebruik bij org
 b. in gebouwen of in die maatregel aangewezen delen daarvan, die in gebruik zijn bij instellingen op het terrein van de gezondheidszorg en het onderwijs en in zwembaden.     
 3.  Een krachtens het tweede lid vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.   
 
-### Artikel  23  
-
-1.  Bij gemeentelijke verordening kan, de inspecteur gehoord, het bedrijfsmatig of anders dan om niet verstrekken van alcoholhoudende drank worden verboden, met dien verstande dat een verbod dat betrekking heeft op het verstrekken van zwak-alcoholhoudende drank anders dan in een inrichting slechts betrekking heeft op een beperkte tijdsruimte.   
-2.  Bij zodanige verordening kan worden bepaald, dat het verbod slechts geldt voor inrichtingen van een bij de verordening aangewezen aard, in bij de verordening aangewezen delen van de gemeente of voor een bij of krachtens die verordening aangewezen tijdsruimte.   
-3.  Bij een verordening als bedoeld in het eerste lid kunnen regels worden gesteld omtrent de voorschriften die aan een vergunning als bedoeld in artikel 3 kunnen worden verbonden en omtrent het beperken van een vergunning tot het verstrekken van zwak-alcoholhoudende drank.   
-4.  De inspecteur zendt van zijn oordeel over de ontwerpverordening een afschrift aan gedeputeerde staten.   
-5.  Een verordening wordt in afschrift gezonden aan gedeputeerde staten.   
-
 ### Artikel  24  
 
-1.  Het is verboden een horecalokaliteit of slijtlokaliteit voor het publiek geopend te houden, met uitzondering van een lokaliteit in beheer bij een rechtspersoon als bedoeld in artikel 4, indien in de inrichting geen leidinggevende aanwezig is die vermeld staat op een vergunning met betrekking tot die inrichting of een andere vergunning van dezelfde vergunninghouder. Met betrekking tot rechtspersonen als bedoeld in artikel 4 geldt, dat aanwezig is ofwel de leidinggevende die vermeld staat op een vergunning met betrekking tot die inrichting of een andere vergunning van dezelfde vergunninghouder, ofwel een andere op dit gebied gekwalificeerde persoon als bedoeld in artikel 9, eerste lid. Voor deze laatste categorie rechtspersonen geldt deze aangepaste voorwaarde slechts op momenten dat alcoholhoudende drank wordt geschonken.   
-2.  Het is verboden in een slijtlokaliteit of horecalokaliteit, gedurende de tijd dat daarin dranken worden verstrekt, personen jonger dan 16 jaar dienst te laten doen.   
-3.  Indien dit voor de naleving van artikel 20, eerste tot en met vierde lid, noodzakelijk is, kan bij algemene maatregel van bestuur de leeftijd, genoemd in het tweede lid, op 18 jaar worden gesteld, met dien verstande dat zulks alsdan niet geldt voor personen die alcoholhoudende drank verstrekken in het kader van een in de maatregel aan te geven beroepsopleiding.   
+1.  Het is verboden een horecalokaliteit of een slijtlokaliteit voor het publiek geopend te houden indien in de inrichting niet aanwezig is: 
+
+a. een leidinggevende die vermeld staat op het aanhangsel bij de vergunning, bedoeld in artikel 29, tweede lid, met betrekking tot die inrichting of een andere vergunning van dezelfde vergunninghouder of  
+
+b. een persoon wiens bijschrijving op grond van artikel 30a, eerste lid, is gevraagd, mits de ontvangst van die aanvraag is bevestigd, zolang nog niet op die aanvraag is beslist.     
+2.  In afwijking van het eerste lid is het een paracommerciële rechtspersoon verboden een horecalokaliteit, gedurende de tijd dat daar alcoholhoudende drank wordt verstrekt, geopend te houden, indien in de inrichting niet aanwezig is: 
+
+a. een leidinggevende die vermeld staat op het aanhangsel bij de vergunning, bedoeld in artikel 29, tweede lid, met betrekking tot die inrichting of een andere vergunning van dezelfde vergunninghouder of  
+
+b. een persoon wiens bijschrijving op grond van artikel 30a, eerste lid, is gevraagd, mits de ontvangst van die aanvraag is bevestigd, zolang nog niet op die aanvraag is beslist of  
+
+c. een barvrijwilliger die een voorlichtingsinstructie als bedoeld in artikel 9, tweede lid, heeft gekregen.     
+3.  Het is verboden in een slijtlokaliteit of horecalokaliteit, gedurende de tijd dat daarin dranken worden verstrekt, personen jonger dan 16 jaar dienst te laten doen.   
+4.  Indien dit voor de naleving van artikel 20, eerste tot en met vierde lid, noodzakelijk is, kan bij algemene maatregel van bestuur de leeftijd, genoemd in het derde lid, op 18 jaar worden gesteld, met dien verstande dat zulks alsdan niet geldt voor personen die alcoholhoudende drank verstrekken in het kader van een in de maatregel aan te geven beroepsopleiding.   
 
 ### Artikel  25  
 
@@ -221,12 +242,48 @@ b. in de voor het publiek niet toegankelijke delen van die ruimte alcoholhoudend
 1°. het in voorraad hebben van zwak-alcoholhoudende drank ten dienste van het in de rechtmatige uitoefening van een ander bedrijf dan het slijtersbedrijf bedrijfsmatig aan particulieren verstrekken van deze drank voor gebruik elders dan ter plaatse, mits deze drank zich bevindt in een verpakking die voldoet aan de bij artikel 17 gestelde eis;  
 
 2°. het in voorraad hebben van alcoholhoudende drank ten dienste van het uitoefenen van een bedrijf, waarin waren uit onder meer alcoholhoudende drank plegen te worden vervaardigd.       
-2.  Het is degene die, anders dan in de rechtmatige uitoefening van het horecabedrijf, een ruimte voor publiek geopend houdt, verboden toe te laten dat in die ruimte alcoholhoudende drank wordt genuttigd.   
+2.  Het is degene die, anders dan in de rechtmatige uitoefening van het horecabedrijf, een ruimte voor publiek geopend houdt, verboden toe te laten dat in die ruimte alcoholhoudende drank wordt genuttigd. Dit verbod geldt niet, indien er sprake is van de uitzondering bedoeld in artikel 13, tweede lid.   
 3.  Het is degene die een vervoermiddel gebruikt voor het rondtrekkend uitoefenen van de kleinhandel verboden daarin, daarop of daaraan alcoholhoudende drank aanwezig te hebben, tenzij het betreft een vervoermiddel dat wordt gebruikt voor: 
 
 a. het rechtmatig aan particulieren afleveren van alcoholhoudende drank op bestelling;  
 
 b. het binnen het vervoermiddel verstrekken van zwak-alcoholhoudende drank in het kader van het rondtrekkend uitoefenen van de kleinhandel overwegend bestaand uit de handel in een gevarieerd assortiment levensmiddelen en kruideniersartikelen.     
+
+### §  3a  
+
+####Gemeentelijke verordenende bevoegdheid
+
+### Artikel  25a  
+
+1.  Bij gemeentelijke verordening kan het bedrijfsmatig of anders dan om niet verstrekken van alcoholhoudende drank in inrichtingen worden verboden of aan beperkingen worden onderworpen.   
+2.  Bij zodanige verordening kan worden bepaald dat: 
+
+a. het verbod slechts geldt voor inrichtingen van een bij die verordening aangewezen aard, in bij die verordening aangewezen delen van de gemeente of voor een bij die verordening aangewezen tijdsruimte;  
+
+b. de burgemeester volgens bij die verordening te stellen regels voorschriften aan een vergunning als bedoeld in artikel 3 kan verbinden en de vergunning kan beperken tot het verstrekken van zwak-alcoholhoudende drank.     
+
+### Artikel  25b  
+
+1.  Bij gemeentelijke verordening kan worden verboden dat in horecalokaliteiten en op terrassen bezoekers worden toegelaten beneden een bij die verordening te bepalen leeftijd welke echter niet hoger mag zijn dan 21 jaar.   
+2.  Bij zodanige verordening kan worden bepaald dat: 
+
+a. het verbod slechts geldt voor horecalokaliteiten en terrassen van een bij die verordening aangewezen aard, in bij die verordening aangewezen delen van de gemeente of voor een bij die verordening aangewezen tijdsruimte;  
+
+b. de leeftijd van degene die wenst te worden toegelaten, wordt vastgesteld op de in artikel 20, vierde lid, bedoelde wijze.     
+
+### Artikel  25c  
+
+1.  Bij gemeentelijke verordening kan het bedrijfsmatig of anders dan om niet verstrekken van zwak-alcoholhoudende drank in of vanuit locaties als bedoeld in artikel 18, tweede lid, of artikel 19, tweede lid, onder a, worden verboden of aan beperkingen worden onderworpen. Een dergelijk verbod of beperking heeft slechts betrekking op een beperkte tijdsruimte.   
+2.  Bij zodanige verordening kan worden bepaald dat het verbod slechts geldt in bij die verordening aangewezen delen van de gemeente.   
+
+### Artikel  25d  
+
+1.  Bij gemeentelijke verordening kan het ter bescherming van de volksgezondheid of in het belang van de openbare orde worden verboden bedrijfsmatig of anders dan om niet alcoholhoudende dranken: 
+
+a. te verstrekken voor gebruik ter plaatse tegen een prijs die voor een periode van 24 uur of korter lager is dan 60% van de prijs die in de betreffende horecalokaliteit of op het betreffende terras gewoonlijk wordt gevraagd;  
+
+b. aan te bieden voor gebruik elders dan ter plaatse tegen een prijs die voor een periode van één week of korter lager is dan 70% van de prijs die in het betreffende verkooppunt gewoonlijk wordt gevraagd.     
+2.  Bij zodanige verordening kan worden bepaald dat het verbod slechts geldt voor aanbiedingen en verstrekkingen van een bij die verordening aangewezen aard of in bij die verordening aangewezen delen van de gemeente.   
 
 ### §  4  
 
@@ -234,9 +291,15 @@ b. het binnen het vervoermiddel verstrekken van zwak-alcoholhoudende drank in he
 
 ### Artikel  26  
 
-1.  Onze Minister bepaalt welke gegevens een aanvrage om een vergunning als bedoeld in artikel 3 dient te bevatten.   
-2.  Bij gemeentelijke verordening kan worden bepaald welke gegevens een aanvraag voor een vergunning eveneens dient te bevatten in verband met krachtens artikel 23, derde lid, gestelde voorschriften en beperkingen.   
-3.  Op de aanvraag wordt beslist binnen drie maanden na ontvangst daarvan.   
+1.  Een aanvraag om een vergunning als bedoeld in artikel 3 wordt gesteld op een formulier of een elektronische informatiedrager, die bij regeling van Onze Minister worden vastgesteld.   
+2.  De gemeenteraad kan bij verordening een formulier vaststellen met aanvullende vragen, voor zover hij gebruik maakt van zijn bevoegdheid om: 
+
+a. in een verordening op grond van artikel 4 rekening te houden met de aard van de paracommerciële rechtspersoon;  
+
+b. aan een vergunning voorschriften of beperkingen te verbinden op grond van artikel 25a;  
+
+c. in een verordening op grond van artikel 25b rekening te houden met de aard van de horecalokaliteiten of terrassen.     
+3.  Bij regeling van Onze Minister kunnen ten aanzien van het formulier, bedoeld in het tweede lid, nadere regels worden gesteld.   
 
 ### Artikel  27  
 
@@ -246,70 +309,78 @@ a. niet wordt voldaan aan de ingevolge de artikelen 8 tot en met 10 geldende eis
 
 b. redelijkerwijs moet worden aangenomen, dat de feitelijke toestand niet met het in de aanvrage vermelde in overeenstemming zal zijn;  
 
-c. artikel 7, tweede lid, of artikel 31, derde lid, zich tegen de verlening van de gevraagde vergunning verzet;  
+c. artikel 7, tweede lid, artikel 31, vierde lid, en artikel 32, tweede lid, zich tegen de verlening van de gevraagde vergunning verzet;  
 
 d. redelijkerwijs moet worden aangenomen dat een of meer van de bij of krachtens de artikelen 2 en 13 tot en met 24 gestelde verboden zal worden overtreden of dat in strijd zal worden gehandeld met aan de vergunning verbonden beperkingen of voorschriften.     
-2.  Een vergunning ten aanzien van een inrichting, waarvan de vergunning op grond van artikel 31, eerste lid, onder d, is ingetrokken, kan gedurende een bij die intrekking vastgestelde termijn van ten hoogste vijf jaar worden geweigerd.   
+2.  Een vergunning ten aanzien van een inrichting, waarvan de vergunning op grond van artikel 31, eerste lid, onder c, is ingetrokken, kan gedurende een bij die intrekking vastgestelde termijn van ten hoogste vijf jaar worden geweigerd.   
 3.  Een vergunning kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
 4.  Voordat toepassing wordt gegeven aan het derde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
 
 ### Artikel  28  
 
-1.  Een vergunning wordt verleend, indien geen der in artikel 27 bedoelde weigeringsgronden aanwezig is.   
-2.  De beschikking tot verlening, wijziging of intrekking van de vergunning wordt mede aan de inspecteur toegezonden.   
+Een vergunning wordt verleend, indien geen der in artikel 27 bedoelde weigeringsgronden aanwezig is.  
 
 ### Artikel  29  
 
-1.  In een vergunning worden vermeld: 
+1.  De burgemeester vermeldt in een vergunning: 
 
-a. de natuurlijke of rechtspersoon of -personen aan wie de vergunning is verleend;  
+a. de vergunninghouder;  
 
-b. de leidinggevenden;  
+b. tot welke bedrijfsuitoefening de vergunning strekt;  
 
-c. tot welke bedrijfsuitoefening de vergunning strekt;  
+c. de plaats waar de inrichting zich bevindt;  
 
-d. de plaats waar de inrichting zich bevindt;  
+d. de situering en de oppervlakten van de horeca- of slijtlokaliteiten en terrassen;  
 
-e. de situering en de oppervlakten van de horeca- of slijtlokaliteiten en terrassen;  
-
-f. de voorschriften of beperkingen welke aan de vergunning zijn verbonden.     
-2.  De vergunning of een afschrift daarvan is in de inrichting aanwezig.   
-3.  De vergunning wordt gesteld op een formulier, waarvan het model door Onze Minister wordt vastgesteld.   
+e. de voorschiften of beperkingen welke aan de vergunning zijn verbonden.     
+2.  De burgemeester vermeldt in een aanhangsel bij de vergunning de leidinggevenden. Ten aanzien van een leidinggevende bij wie sprake is van een situatie als bedoeld in artikel 8, vierde lid, maakt de burgemeester daaromtrent een aantekening.   
+3.  De vergunning en het daarbij behorende aanhangsel, of afschriften daarvan, en in voorkomende gevallen een afschrift van de aanvraag, bedoeld in artikel 30a, eerste lid, en de ontvangstbevestiging, bedoeld in artikel 30a, vierde lid, of een afschrift daarvan, zijn in de inrichting aanwezig.   
+4.  De vergunning en het aanhangsel worden gesteld op een formulier dat bij regeling van Onze Minister wordt vastgesteld.   
 
 ### Artikel  30  
 
-Indien een inrichting een zodanige verandering ondergaat dat zij niet langer in overeenstemming is met de in de vergunning gegeven omschrijving, is de vergunninghouder verplicht bedoelde wijziging binnen één maand bij burgemeester en wethouders te melden. Burgemeester en wethouders verstrekken, indien nog aan de ten aanzien van de inrichting gestelde eisen wordt voldaan, een gewijzigde vergunning, waarin de ingevolge artikel 29 vereiste omschrijving is aangepast aan de nieuwe situatie.  
+Indien een inrichting een zodanige verandering ondergaat dat zij niet langer in overeenstemming is met de in de vergunning gegeven omschrijving, is de vergunninghouder verplicht bedoelde wijziging binnen één maand bij de burgemeester te melden. De burgemeester verstrekt, indien nog aan de ten aanzien van de inrichting gestelde eisen wordt voldaan, een gewijzigde vergunning, waarin de ingevolge artikel 29 vereiste omschrijving is aangepast aan de nieuwe situatie.  
+
+### Artikel  30a  
+
+1.  Een vergunninghouder meldt aan de burgemeester zijn wens: 
+
+a. een persoon als leidinggevende te laten bijschrijven;  
+
+b. de aantekening door te laten halen dat een leidinggevende geen bemoeienis heeft met de bedrijfsvoering of de exploitatie van het horecabedrijf of slijtersbedrijf.     
+2.  Deze melding geldt als aanvraag tot wijziging van het aanhangsel.   
+3.  De aanvraag wordt gesteld op een formulier of een elektronische informatiedrager, die bij regeling van Onze Minister worden vastgesteld.   
+4.  De burgemeester bevestigt onverwijld schriftelijk of elektronisch de ontvangst van de aanvraag.   
+5.  De burgemeester weigert de wijziging van het aanhangsel: 
+
+a. indien de persoon bedoeld in het eerste lid, niet voldoet aan de bij of krachtens artikel 8 gestelde eisen;  
+
+b. in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).     
+6.  Alvorens te beslissen op een aanvraag tot wijziging van het aanhangsel kan het Bureau bevordering integriteitsbeoordelingen, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), door het openbaar bestuur om een advies als bedoeld in [artikel 9 van die wet](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
 
 ### Artikel  31  
 
-1.  Een vergunning wordt ingetrokken, indien: 
+1.  Een vergunning wordt door de burgemeester ingetrokken, indien: 
 
 a. de te harer verkrijging verstrekte gegevens zodanig onjuist of onvolledig blijken, dat op de aanvrage een andere beslissing zou zijn genomen, als bij de beoordeling daarvan de juiste omstandigheden volledig bekend waren geweest;  
 
-b. niet langer wordt voldaan aan de ingevolge de artikelen 8 en 10 geldende eisen;  
+b. niet langer wordt voldaan aan de bij of krachtens artikelen 8 en 10 geldende eisen;  
 
-c. een niet daarin vermelde persoon leidinggevende is geworden met betrekking tot de inrichting, waarop de vergunning betrekking heeft;  
+c. zich in de betrokken inrichting feiten hebben voorgedaan, die de vrees wettigen, dat het van kracht blijven der vergunning gevaar zou opleveren voor de openbare orde, veiligheid of zedelijkheid;  
 
-d. zich in de betrokken inrichting feiten hebben voorgedaan, die de vrees wettigen, dat het van kracht blijven der vergunning gevaar zou opleveren voor de openbare orde, veiligheid of zedelijkheid;  
+d. de vergunninghouder in de in de artikelen 30 en 30a, eerste lid, bedoelde gevallen geen melding als in die artikelen bedoeld heeft gedaan.     
+2.  Een vergunning kan door de burgemeester worden ingetrokken indien de vergunninghouder de bij of krachtens deze wet gestelde regels, dan wel de aan een vergunning of ontheffing verbonden voorschriften en beperkingen, niet nakomt.   
+3.  Een vergunning kan voorts door de burgemeester worden ingetrokken, indien: 
 
-e. de vergunninghouder in het in artikel 30 bedoelde geval geen melding als in dat artikel bedoeld heeft gedaan.     
-2.  Een vergunning kan voorts worden ingetrokken indien: 
+a. er sprake is van het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). Voordat daaraan toepassing wordt gegeven, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van voornoemde wet](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd;  
 
-a. is gehandeld in strijd met de aan de vergunning verbonden voorschriften of beperkingen, bedoeld in artikel 4 of artikel 23, derde lid;  
-
-b. een bij of krachtens de artikelen 2, 13 tot en met 17, 19 tot en met 21, 22, eerste lid, onder b, tot en met 23, tweede lid, of 24 gesteld verbod of het bij artikel 29, tweede lid, gesteld gebod wordt overtreden;  
-
-c. het reglement bedoeld in artikel 9, eerste lid, niet wordt nageleefd, of niet wordt voldaan aan het gebod, bedoeld in artikel 9, tweede lid, dat de dagen en tijdstippen waarop bedrijfsmatig of anders dan om niet alcoholhoudende drank wordt verstrekt duidelijk zichtbaar in de horecalokaliteit zijn aangegeven;  
-
-d. er sprake is van het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).     
-3.  Indien een vergunning op grond van het tweede lid, onder a, is ingetrokken, wordt de bevoegdheid om aan de betrokken rechtspersoon een nieuwe vergunning te verlenen, opgeschort tot een jaar nadat het besluit tot intrekking onherroepelijk is geworden.   
-4.  De intrekking van een vergunning krachtens het eerste lid, onder b, c of e, of het tweede lid, kan, voor zover de grond tot intrekking niet de persoon van de vergunninghouder betreft, eerst geschieden een maand nadat van het voornemen daartoe aan de vergunninghouder schriftelijk mededeling is gedaan.   
-5.  Voordat toepassing wordt gegeven aan het tweede lid, aanhef en onder d, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
+b. een vergunninghouder in een periode van twee jaar ten minste drie maal op grond van artikel 30a, eerste lid, om bijschrijving van een persoon op het aanhangsel bij de vergunning heeft verzocht en de burgemeester die wijziging van het aanhangsel ten minste driemaal heeft geweigerd op grond van artikel 30a, vijfde lid.     
+4.  Indien een vergunning is ingetrokken omdat is gehandeld in strijd met de voorschriften en beperkingen verbonden aan de vergunning, bedoeld in artikel 4 of 25a, wordt de bevoegdheid om aan de betrokken rechtspersoon een nieuwe vergunning te verlenen opgeschort tot een jaar nadat het besluit tot intrekking onherroepelijk is geworden.   
 
 ### Artikel  32  
 
-1.  Indien de burgemeester of de inspecteur van oordeel is, dat een vergunning op een der in artikel 31 genoemde gronden moet worden ingetrokken, doet hij daartoe onder opgave van redenen aan burgemeester en wethouders een voorstel.   
-2.  Binnen drie maanden na ontvangst van zodanig voorstel nemen burgemeester en wethouders daaromtrent een besluit. Zij doen daarvan schriftelijk mededeling aan de inspecteur, indien deze het voorstel heeft gedaan.   
+1.  Een vergunning kan in de gevallen bedoeld in artikel 31, tweede en derde lid, door de burgemeester worden geschorst voor een periode van ten hoogste 12 weken.   
+2.  Tijdens de schorsing verleent de burgemeester de vergunninghouder geen nieuwe vergunning op grond van artikel 3.   
 
 ### Artikel  33  
 
@@ -323,7 +394,7 @@ c. de verlening van een vergunning, strekkende tot vervanging van eerstbedoelde 
 
 ### Artikel  34  
 
-Een faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen heeft ten aanzien van het krachtens artikel 31, eerste lid, onder c, of  33, onder b, intrekken of vervallen van de vergunning een opschortende werking tot het tijdstip waarop het faillissement onderscheidenlijk de toepassing van de schuldsaneringsregeling eindigt.  
+Een faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen heeft ten aanzien van het krachtens artikel 31, eerste lid, onder d, of  33, onder b, intrekken of vervallen van de vergunning een opschortende werking tot het tijdstip waarop het faillissement onderscheidenlijk de toepassing van de schuldsaneringsregeling eindigt.  
 
 ### §  5  
 
@@ -331,10 +402,16 @@ Een faillissement of toepassing van de schuldsaneringsregeling natuurlijke perso
 
 ### Artikel  35  
 
-1.  De burgemeester kan ten aanzien van het verstrekken van zwak-alcoholhoudende drank op aanvraag ontheffing verlenen van het in artikel 3 voor de uitoefening van het horecabedrijf gestelde verbod, bij een in de beschikking aangewezen bijzondere gelegenheid van zeer tijdelijke aard voor een aaneengesloten periode van ten hoogste twaalf dagen, mits de verstrekking geschiedt onder onmiddellijke leiding van een persoon die voldoet aan artikel 8, tweede en vierde lid.   
+1.  De burgemeester kan ten aanzien van het verstrekken van zwak-alcoholhoudende drank op aanvraag ontheffing verlenen van het in artikel 3 voor de uitoefening van het horecabedrijf gestelde verbod, bij een in de beschikking aangewezen bijzondere gelegenheid van zeer tijdelijke aard voor een aaneengesloten periode van ten hoogste twaalf dagen, mits de verstrekking geschiedt onder onmiddellijke leiding van een persoon die: 
+
+a. de leeftijd van eenentwintig jaar heeft bereikt;  
+
+b. niet in enig opzicht van slecht levensgedrag is.   De naam van deze persoon staat op de ontheffing vermeld.   
 2.  Een ontheffing kan onder beperkingen worden verleend; aan een ontheffing kunnen voorschriften worden verbonden.   
-3.  Ten aanzien van een ontheffing is artikel 31, eerste lid, onder a en d, van overeenkomstige toepassing.   
-4.  Besluiten tot verlening, wijziging of intrekking van een ontheffing worden in afschrift aan de inspecteur gezonden.   
+3.  Ten aanzien van een ontheffing is artikel 31, eerste lid, onder a en c, van overeenkomstige toepassing.   
+4.  De ontheffing, of een afschrift daarvan, is ter plaatse aanwezig.   
+5.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om een ontheffing als bedoeld in het eerste lid.   
+5.  Een burgemeester kan naar aanleiding van een aanvraag voor ontheffingen als bedoeld in dit artikel, voor jaarlijks terugkerende identieke bijzondere gelegenheden van zeer tijdelijke aard, besluiten één ontheffing te verlenen, mits de verstrekking van zwak-alcoholhoudende drank telkenmale geschiedt onder onmiddellijke leiding van dezelfde persoon.   
 
 ### §  6  
 
@@ -342,7 +419,7 @@ Een faillissement of toepassing van de schuldsaneringsregeling natuurlijke perso
 
 ### Artikel  36  
 
-Burgemeester en wethouders zijn bevoegd aan andere personen dan hen, die wonen in de ruimte, waarin in strijd met deze wet alcoholhoudende drank wordt verstrekt, de toegang tot die ruimte te ontzeggen.  
+De burgemeester is bevoegd aan andere personen dan hen, die wonen in de ruimte, waarin in strijd met deze wet alcoholhoudende drank wordt verstrekt, de toegang tot die ruimte te ontzeggen.  
 
 ### Artikel  37  
 
@@ -370,7 +447,16 @@ Voor zover in deze wet niet anders is bepaald, kunnen ten aanzien van de onderwe
 
 ### Artikel  41  
 
-Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren van het Staatstoezicht op de volksgezondheid.  
+1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast: 
+
+a. in geheel Nederland: de bij besluit van Onze Minister aangewezen ambtenaren.  
+
+b. in een gemeente: de door de burgemeester van die gemeente aangewezen ambtenaren.     
+2.  Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties: 
+
+a. wordt de taakverdeling tussen de ambtenaren, behorende tot de onderscheidene in het eerste lid bedoelde categorieën geregeld;  
+
+b. kunnen eisen omtrent de opleiding van die ambtenaren worden gesteld.     
 
 ### Artikel  42  
 
@@ -378,26 +464,39 @@ De in artikel 41 bedoelde ambtenaren zijn bevoegd, met medeneming van de benodig
 
 ### Artikel  43  
 
-Van een besluit als bedoeld in artikel 41 wordt mededeling gedaan door plaatsing in de Staatscourant.  
+Van een besluit als bedoeld in artikel 41, eerste lid, onder a wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
 ### Artikel  44  
 
-Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de bij [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gestelde verplichting.  
+Onze Minister en de burgemeester zijn bevoegd tot toepassing van bestuursdwang ter handhaving van de bij [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gestelde verplichting.  
 
-### §  7a  
+### §  8  
 
 ####Bestuurlijke boete
 
 ### Artikel  44a  
 
-1.  Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van het bepaalde bij of krachtens de artikelen 2, 3, 9, tweede lid, 12 tot en met 20, vierde lid, 20, zesde lid, 22, 24, 25 of 29, tweede lid.   
+1.  De burgemeester kan een bestuurlijke boete opleggen ter zake van overtreding binnen zijn gemeente van het bij of krachtens de artikelen 3, 4, 9, derde, vierde en vijfde lid, 12 tot en met 19, 20, eerste tot en met vijfde lid, 22, eerste en tweede lid, 24, 25, behoudens het derde lid, 25a tot en met 25d, 29, derde lid, 35, tweede en vierde lid, of 38 gestelde.   
 2.  De hoogte van de bestuurlijke boete wordt bepaald op de wijze als voorzien in de bijlage, met dien verstande dat de wegens een afzonderlijke overtreding te betalen geldsom ten hoogste € 100 000 bedraagt.   
-3.  Overtredingen, met uitzondering van overtreding van artikel 9, tweede lid, of artikel 29, tweede lid, kunnen, in afwijking van het eerste lid, niet met een bestuurlijke boete worden afgedaan, indien: 
+3.  Overtredingen kunnen, in afwijking van het eerste lid, niet met een bestuurlijke boete worden afgedaan, indien: 
 
-a. de overtreding een direct gevaar voor de gezondheid of veiligheid van de mens tot gevolg heeft; of  
+a. de overtreding een direct gevaar voor de gezondheid of veiligheid van de mens tot gevolg heeft;  
 
-b. de in de bijlage ter zake van de overtreding voorziene bestuurlijke boete aanmerkelijk wordt overschreden door het met de overtreding behaalde economisch voordeel.     
-4.  De bevoegdheid tot het opleggen van een bestuurlijke boete vervalt, indien ter zake van de overtreding op grond waarvan de bestuurlijke boete kan worden opgelegd door burgemeester en wethouders aan de vergunninghouder schriftelijk mededeling is gedaan van het voornemen de vergunning in te trekken, overeenkomstig artikel 31, vierde lid.   
+b. de in de bijlage ter zake van de overtreding voorziene bestuurlijke boete aanmerkelijk wordt overschreden door het met de overtreding behaalde economisch voordeel; of  
+
+c. door de burgemeester toepassing is gegeven aan artikel 19a, eerste lid.     
+4.  De bevoegdheid tot het opleggen van een bestuurlijke boete vervalt, indien ter zake van de overtreding op grond waarvan de bestuurlijke boete kan worden opgelegd door de burgemeester aan de vergunninghouder schriftelijk mededeling is gedaan van het voornemen de vergunning in te trekken.   
+5.  De boete komt toe aan de gemeente, waar de overtreding heeft plaatsgevonden.   
+
+### Artikel  44aa  
+
+1.  Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van het gestelde bij of krachtens: 
+
+a. de artikelen 2 en 25, derde lid, waar ook te lande gepleegd;  
+
+b. de artikelen 20, eerste tot en met vijfde lid, en 24, derde lid, gepleegd in of op de in artikel 1, derde lid, onder a, b en c, genoemde vervoermiddelen, legerplaatsen en lokaliteiten, die aan het militair gezag onderworpen zijn, en op luchtvaartterreinen gelegen winkels.     
+2.  Artikel 44a, tweede en derde lid, is van overeenkomstige toepassing.   
+3.  De boete komt toe aan de staat.   
 
 ### Artikel  44b  
 
@@ -405,9 +504,15 @@ b. de in de bijlage ter zake van de overtreding voorziene bestuurlijke boete aan
 2.  De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 3.  Een algemene maatregel van bestuur als bedoeld in het eerste lid wordt vastgesteld op voordracht van Onze Minister, in overeenstemming met Onze Minister van Justitie.   
 
-### §  8  
+### §  8a  
 
 ####Bepaling van strafrechtelijke aard
+
+### Artikel  45  
+
+1.  Het is degene die de leeftijd van 16 jaar nog niet heeft bereikt, verboden op voor het publiek toegankelijke plaatsen alcoholhoudende drank aanwezig te hebben of voor consumptie gereed te hebben, met uitzondering van plaatsen waar bedrijfsmatig of anders dan om niet alcoholhoudende drank voor gebruik elders dan ter plaatse wordt verstrekt.   
+2.  Overtreding van het eerste lid wordt gestraft met een geldboete van de eerste categorie.   
+3.  De in dit artikel strafbaar gestelde feiten zijn overtredingen.   
 
 ### §  9  
 

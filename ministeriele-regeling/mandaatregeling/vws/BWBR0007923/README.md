@@ -85,11 +85,11 @@ De Secretaris-Generaal heeft mandaat ten aanzien van alle stukken met uitsluitin
 
 ####De plaatsvervangend Secretaris-Generaal
 
-De plaatsvervangend Secretaris-Generaal heeft mandaat ten aanzien van dezelfde stukken als de Secretaris-Generaal, voor zover die behoren tot zijn werkterrein.  
+Behoudens artikel 12, heeft de plaatsvervangend Secretaris-Generaal mandaat ten aanzien van dezelfde stukken als de Secretaris-Generaal, voor zover die behoren tot zijn werkterrein.  
 
 ### Artikel  10  
 
-De volgende functionarissen hebben mandaat ten aanzien van stukken die tot hun werkterrein behoren: 
+Behoudens de artikelen 12 tot en met 15 hebben de volgende functionarissen mandaat ten aanzien van stukken die tot hun werkterrein behoren: 
 
 a. de Directeuren-Generaal en de Directeuren van een beleidsdirectie, stafeenheid of een facilitaire eenheid van het kernministerie;  
 
@@ -101,7 +101,7 @@ d. de Inspecteur-Generaal voor de Gezondheidszorg;
 
 e. de Hoofdinspecteur Jeugdzorg;  
 
-f. de Inspecteur-Generaal, de Directeur van de Dienst Uitvoering, de Directeur Bedrijfsvoering en de Directeur Toezichtsbeleid en Communicatie van de Voedsel en Waren Autoriteit;  
+f. de inspecteur-generaal, de Hoofdinspecteur van de divisie Veterinair en import, de Hoofdinspecteur van de divisie Landbouw en natuur, de Hoofdinspecteur van de divisie Consument en veiligheid, de Directeur van de Inlichtingen- en Opsporingsdienst, de Directeur Staf, de Directeur Klantencontact en dienstverlening en de Directeur Bureau Risicobeoordeling en Onderzoeksprogrammering van de Nederlandse Voedsel- en Warenautoriteit;  
 
 g. de Directeur van het agentschap Centraal Informatiepunt Beroepen Gezondheidszorg;  
 
@@ -119,18 +119,18 @@ j. de hoofden van de direct onder de functionarissen, genoemd onder a tot en met
 
 ####Minister
 
-1.  De stukken gericht aan: 
+1.  De Minister ondertekent de stukken gericht aan: 
 
-a. de Koningin,  
+a. de Koningin;  
 
-b. de Eerste en Tweede Kamer der Staten-Generaal,  
+b. de Eerste en Tweede Kamer der Staten-Generaal;  
 
-c. de Ministerraad of daaruit gevormde vaste colleges,  
+c. de Ministerraad of daaruit gevormde vaste colleges;  
 
-d. de Raad van State,  
+d. de Raad van State;  
 
-e. de Algemene Rekenkamer, worden ondertekend door de Minister.     
-2.  Ten aanzien van de in het eerste lid, onder d en e, genoemde colleges geldt het in de aanhef van het eerste lid gestelde niet voor zover het gaat om administratiefrechtelijke procedures onderscheidenlijk stukken van ondergeschikt beleidsmatig of politiek belang.   
+e. de Algemene Rekenkamer.     
+2.  Ten aanzien van de in het eerste lid, onder d en e, genoemde colleges geldt het in de aanhef van het eerste lid gestelde niet voor zover het gaat om bestuursrechtelijke procedures onderscheidenlijk stukken van ondergeschikt beleidsmatig of politiek belang.   
 3.  Voorts worden de volgende stukken door de Minister ondertekend: 
 
 a. stukken, inhoudende vaststelling van algemeen verbindende voorschriften;  
@@ -167,11 +167,16 @@ c. het vragen om inlichtingen.
 
 ### Artikel  14  
 
-1.  In afwijking van artikel 10 hebben de Secretaris-Generaal, de Directeuren-Generaal van het kernministerie en de functionarissen genoemd in artikel 10, eerste lid, onder b tot en met g ieder voor zijn eigen werkterrein, machtiging ten aanzien van verweerschriften en beroepschriften in administratiefrechtelijke procedures, gericht tot een administratieve rechter en ten aanzien van het verlenen van machtigingen ten behoeve van het vertegenwoordigen van de Minister in administratiefrechtelijke procedures bij de administratieve rechter.   
-2.  In afwijking van artikel 10 heeft de Directeur Wetgeving en Juridische Zaken machtiging op het werkterrein van de Directies Langdurige Zorg; Curatieve Zorg; Voeding, Gezondheidsbescherming en Preventie; Geneesmiddelen en Medische Technologie; Maatschappelijke Ondersteuning, en Sport ten aanzien van verweerschriften en beroepschriften in administratiefrechtelijke procedures, gericht tot een administratieve rechter en ten aanzien van het verlenen van machtigingen ten behoeve van het vertegenwoordigen van de Minister in administratiefrechtelijke procedures bij de administratieve rechter.   
-3.  In afwijking van artikel 10 hebben de Secretaris-Generaal en de Directeur Wetgeving en Juridische Zaken mandaat tot het nemen van beslissingen op bezwaar.   
-4.  In afwijking van het tweede lid blijft aan de Minister voorbehouden de bevoegdheid tot het nemen van een besluit inzake een bezwaar tegen een besluit dat door de Minister dan wel door de Secretaris-Generaal namens de Minister is genomen.   
-5.  Op machtigingen, verleend ten behoeve van het vertegenwoordigen van de Minister in administratiefrechtelijke procedures, zijn de artikelen 16, vijfde lid, voor zover het de goedkeuring van de Secretaris-Generaal betreft, en 17 niet van toepassing.   
+1.  In afwijking van artikel 10 hebben ten aanzien van verweerschriften en beroepschriften ten behoeve van procedures bij de bestuursrechter en machtigingen om de Minister daarin te vertegenwoordigen de volgende functionarissen mandaat: 
+
+a. de Secretaris-Generaal;  
+
+b. de Directeur Wetgeving en Juridische Zaken, met uitzondering van het werkterrein van de Directie Bedrijfsvoering;  
+
+c. ten aanzien van hun eigen werkterrein, de functionarissen genoemd in artikel 10, eerste lid, onder b tot en met g.     
+2.  In afwijking van artikel 10 hebben de Secretaris-Generaal en de Directeur Wetgeving en Juridische Zaken mandaat tot het nemen van beslissingen op bezwaar.   
+3.  In afwijking van het tweede lid blijft aan de Minister voorbehouden de bevoegdheid tot het nemen van een besluit inzake een bezwaar tegen een besluit dat door de Minister dan wel door de Secretaris-Generaal namens de Minister is genomen.   
+4.  Op machtigingen, verleend ten behoeve van het vertegenwoordigen van de Minister in procedures bij de bestuursrechter, zijn de artikelen 16, vijfde lid, voor zover het de goedkeuring van de Secretaris-Generaal betreft, en 17 niet van toepassing.   
 
 ### Artikel  15  
 
@@ -189,7 +194,7 @@ In afwijking van artikel 10 heeft de Directeur Communicatie mandaat ten aanzien 
 
 1.  De directeuren van beleidsdirecties en stafeenheden zijn bevoegd ondermandaat of ondertekeningsmandaat te verlenen aan de directeur van een facilitaire eenheid. In een dergelijk geval kan de betrokken directeur van de facilitaire eenheid op zijn beurt die bevoegdheid verlenen aan een ondergeschikte.   
 2.  De directeuren van facilitaire eenheden kunnen aan andere ondergeschikten dan hoofden van direct onder hen ressorterende organisatie-eenheden ondermandaat verlenen. Deze bevoegdheid komt in bijzondere gevallen ook toe aan de andere functionarissen, genoemd in artikel 10, onder a tot en met i.   
-3.  De functionarissen, als bedoeld in artikel 14, eerste en derde lid, zijn bevoegd om hoofden van direct onder hen ressorterende organisatie-eenheden ondermandaat dan wel machtiging te verlenen tot het geheel of gedeeltelijk uitoefenen van de daar genoemde bevoegdheden.   
+3.  De functionarissen, bedoeld in artikel 14, eerste en tweede lid, zijn bevoegd om hoofden van direct onder hen ressorterende organisatie-eenheden ondermandaat dan wel machtiging te verlenen tot het geheel of gedeeltelijk uitoefenen van de daar genoemde bevoegdheden.   
 4.  Ondermandaat kan hetzij algemeen hetzij voor een bepaald geval verleend worden.   
 5.  Elk ondermandaat wordt schriftelijk verleend en behoeft goedkeuring van de Secretaris-Generaal.   
 6.  Op ondermandaat zijn de bepalingen van deze regeling van overeenkomstige toepassing.   
@@ -211,8 +216,8 @@ In afwijking van artikel 10 heeft de Directeur Communicatie mandaat ten aanzien 
 
 ### Artikel  17  
 
-1.  De Directeur Bestuursondersteuning houdt een centraal register bij van alle gemandateerden en van de inhoud van hun mandaat   
-2.  Bij beëindiging of wijziging van een mandaat wordt een kopie van het besluit tot beëindiging c.q. wijziging toegezonden aan de Directeur Bestuursondersteuning.   
+1.  De Directeur Bestuurlijke en Politieke Zaken houdt een centraal register bij van alle gemandateerden en van de inhoud van hun mandaat   
+2.  Bij beëindiging of wijziging van een mandaat wordt een kopie van het besluit tot beëindiging c.q. wijziging toegezonden aan de Directeur Bestuurlijke en Politieke Zaken.   
 
 ### Hoofdstuk  7  
 

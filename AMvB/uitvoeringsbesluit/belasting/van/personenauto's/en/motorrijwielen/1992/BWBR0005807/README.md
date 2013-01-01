@@ -68,17 +68,14 @@ b. het motorrijtuig blijkens een kilometerregistratie voor ten minste 50% zakeli
 1.  Vrijstelling van belasting wordt verleend voor personenauto’s, motorrijwielen en bestelauto’s die zijn geregistreerd in het buitenland en die vanuit dat land voor een periode van ten hoogste twee weken in Nederland ter beschikking staan van een in Nederland wonende natuurlijke persoon en zijn inwonende gezinsleden, of van een in Nederland gevestigd lichaam.   
 2.  De vrijstelling wordt slechts verleend indien: 
 
-a. de in het eerste lid bedoelde persoon en zijn inwonende gezinsleden, onderscheidenlijk het in het eerste lid bedoelde lichaam, in Nederland met het motorrijtuig geen gebruik hebben, onderscheidenlijk heeft, gemaakt van de weg in de twaalf maanden voorafgaand aan de periode van terbeschikkingstelling in Nederland;  
+a. de in het eerste lid bedoelde persoon en zijn inwonende gezinsleden, onderscheidenlijk het in het eerste lid bedoelde lichaam, in Nederland met het motorrijtuig geen gebruik hebben, onderscheidenlijk heeft, gemaakt van de weg in de twaalf maanden voorafgaand aan de periode van terbeschikkingstelling in Nederland; en  
 
-b. een beroep op de vrijstelling wordt gedaan vóór aanvang van het gebruik van de weg met het motorrijtuig in Nederland, door middel van een elektronische melding;  
-
-c. de in het eerste lid bedoelde persoon en zijn inwonende gezinsleden, onderscheidenlijk het in het eerste lid bedoelde lichaam, in de twaalf maanden volgend op de aanvang van de periode van ten hoogste twee weken, bedoeld in het eerste lid, in Nederland met het motorrijtuig uitsluitend gebruik maken, onderscheidenlijk maakt, van de weg gedurende deze periode van ten hoogste twee weken.     
+b. een beroep op de vrijstelling wordt gedaan vóór aanvang van het gebruik van de weg met het motorrijtuig in Nederland, door middel van een elektronische melding.     
 3.  De vrijstelling kan mede worden verleend indien door aantoonbare overmacht niet is voldaan aan de voorwaarde, bedoeld in het tweede lid, onderdeel b, mits zo snel mogelijk na aanvang van het gebruik van de weg alsnog de elektronische melding, bedoeld in het tweede lid, onderdeel b, wordt gedaan, onder opgave van de dag waarop het gebruik van de weg is aangevangen en de redenen waarom niet eerder een beroep op de vrijstelling kon worden gedaan.   
 4.  De vrijstelling wordt verleend aan de in het eerste lid bedoelde natuurlijke persoon onderscheidenlijk het in het eerste lid bedoelde lichaam.   
 5.  Indien voor een motorrijtuig waarvoor een beroep op de vrijstelling is gedaan niet of niet langer wordt voldaan aan een in het eerste of tweede lid genoemde voorwaarde, stelt degene aan wie de vrijstelling is verleend de inspecteur daarvan onverwijld in kennis.   
-6.  Indien de in Nederland wonende natuurlijke persoon of een inwonend gezinslid van deze persoon, onderscheidenlijk het in Nederland gevestigde lichaam, met het motorrijtuig in Nederland gebruik blijft maken van de weg na het verstrijken van de in het eerste lid bedoelde periode van twee weken, vervalt de vrijstelling en wordt de verschuldigde belasting op aangifte voldaan uiterlijk op de laatste dag van deze periode van twee weken.   
-7.  Indien in andere situaties dan als bedoeld in het zesde lid, de in Nederland wonende natuurlijke persoon of een inwonend gezinslid van deze persoon, onderscheidenlijk het in Nederland gevestigde lichaam, opnieuw gebruik maakt met het motorrijtuig van de weg in Nederland in de vijftig weken volgend op de in het eerste lid bedoelde periode van twee weken, vervalt de vrijstelling en wordt de verschuldigde belasting door degene aan wie de vrijstelling is verleend op aangifte voldaan vóór de hernieuwde aanvang van het gebruik van de weg.   
-8.  Indien het beroep op de vrijstelling, bedoeld in het tweede lid, onderdeel b, elektronisch wordt ingetrokken vóór de dag waarop volgens het elektronische beroep op de vrijstelling het gebruik in Nederland van de weg aanvangt, geldt het beroep als niet gedaan.   
+6.  Indien de in Nederland wonende natuurlijke persoon of een inwonend gezinslid van deze persoon, onderscheidenlijk het in Nederland gevestigde lichaam, met het motorrijtuig opnieuw gebruikmaakt van de weg in Nederland in de vijftig weken volgend op de periode van twee weken, bedoeld in het eerste lid, wordt de hernieuwde aanvang van het gebruik van de weg aangemerkt als de aanvang van het gebruik van de weg, bedoeld in [artikel 1, zesde lid, van de wet](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md).   
+7.  Indien het beroep op de vrijstelling, bedoeld in het tweede lid, onderdeel b, elektronisch wordt ingetrokken vóór de dag waarop volgens het elektronische beroep op de vrijstelling het gebruik in Nederland van de weg aanvangt, geldt het beroep als niet gedaan.   
 
 ### Artikel  4  
 
@@ -115,12 +112,9 @@ d. bij het verzoek bescheiden worden overgelegd waaruit blijkt dat het motorrijt
 
 ### Artikel  4c  
 
-1.  De in [artikel 14b van de wet](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) bedoelde verrekening kan slechts worden toegepast indien het verzoek daartoe gelijktijdig met de aangifte wordt gedaan, en: 
-
-a. bij het verzoek de voor het motorrijtuig afgesloten huurovereenkomst en eventuele aanvullende overeenkomsten met de ondernemer, bedoeld in [artikel 14b, eerste lid, van de wet](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), worden overgelegd, alsmede, ingeval deze overeenkomsten niet zijn opgemaakt in de Nederlandse of de Engelse taal, een vertaling in één van deze talen;  
-
-b. aan de hand van de overgelegde gegevens de voor het motorrijtuig in totaal overeengekomen huurperiode eenvoudig kan worden vastgesteld.     
-2.  In het verzoek vermeldt de huurder van het motorrijtuig de in totaal met de verhuurder overeengekomen huurperiode, en verklaart de huurder dat overigens geen andere afspraken zijn gemaakt met de verhuurder van het motorrijtuig over de periode waarin het motorrijtuig tot zijn beschikking zal staan.   
+1.  De verrekening, bedoeld in [artikel 14b van de wet](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), kan slechts worden toegepast indien het verzoek daartoe gelijktijdig met de aangifte wordt gedaan en bij het verzoek gegevens worden overgelegd waaruit de voor het motorrijtuig in totaal overeengekomen periode van terbeschikkingstelling ondubbelzinnig blijkt. Wanneer de in de eerste volzin bedoelde gegevens niet zijn opgemaakt in de Nederlandse of Engelse taal, wordt een vertaling in één van deze talen bijgevoegd.   
+2.  In het verzoek vermeldt degene aan wie het motorrijtuig ter beschikking wordt gesteld de in totaal overeengekomen periode van terbeschikkingstelling, en verklaart hij dat overigens geen andere afspraken zijn gemaakt met degene die het motorrijtuig aan hem ter beschikking stelt over de periode waarin het motorrijtuig tot zijn beschikking zal staan.   
+3.  Op verzoek van de inspecteur worden aanvullende gegevens verstrekt die naar zijn oordeel noodzakelijk zijn voor een juiste toepassing van [artikel 14b van de wet](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md).   
 
 ### Artikel  5  
 

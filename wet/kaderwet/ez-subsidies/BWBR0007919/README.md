@@ -95,10 +95,6 @@ c. een subsidieverlening of subsidievaststelling intrekken of ten nadele van de 
 3.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.   
 4.  Aan subsidies op grond van deze wet is de verplichting verbonden dat de subsidie-ontvanger aan een toezichthouder alle medewerking verleent die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.   
 
-### Artikel  9  
-
-Tegen een besluit, genomen op grond van deze wet kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.  
-
 ### Artikel  10  
 
 1.  De Kaderwet verstrekking financiële middelen EZ en de Kaderwet specifieke uitkeringen EZ worden ingetrokken, met dien verstande dat zij van toepassing blijven op subsidies die voor de inwerkingtreding van deze wet zijn verleend of vastgesteld.   

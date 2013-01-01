@@ -160,7 +160,7 @@ Deze wet en andere wettelijke voorschriften in verband met de vervanging van de 
 
 ### Artikel  3  
 
-Indien voor 1 januari 2002 beroep bij de administratieve rechter is ingesteld, blijft het recht zoals dat voor dit tijdstip gold, van toepassing ten aanzien van het verschuldigde griffierecht of de te stellen zekerheid.  
+Indien voor 1 januari 2002 beroep bij de bestuursrechter is ingesteld, blijft het recht zoals dat voor dit tijdstip gold, van toepassing ten aanzien van het verschuldigde griffierecht of de te stellen zekerheid.  
 
 ### Artikel  3a  
 

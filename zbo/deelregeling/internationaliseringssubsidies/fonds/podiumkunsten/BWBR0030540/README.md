@@ -105,9 +105,11 @@ d. als de aanvrager in de voorgaande twee jaar niet heeft voldaan aan een of mee
 
 e. als de aanvraag betrekking heeft op een reeds geheel of gedeeltelijk voltooide activiteit;  
 
-f. als de aanvrager reeds een instellingssubsidie van de Minister van Onderwijs, Cultuur en Wetenschap of een vierjarige subsidie dan wel een meerjarige productiesubsidie van het Fonds Podiumkunsten ontvangt en de activiteiten waarvoor wordt aangevraagd geacht kunnen worden reeds in dat kader ondersteund te worden;  
+f. als de aanvrager reeds een instellingssubsidie van de Minister van Onderwijs, Cultuur en Wetenschap of een meerjarige activiteitensubsidie van het Fonds Podiumkunsten ontvangt en de activiteiten waarvoor wordt aangevraagd geacht kunnen worden reeds in dat kader ondersteund te worden;  
 
-g. als de aanvrager niet voldoet aan de voor de betreffende instelling gebruikelijke normen met betrekking tot good governance op het terrein van goed bestuur, adequaat toezicht en transparante verantwoording.    
+g. als de aanvrager niet voldoet aan de voor de betreffende instelling gebruikelijke normen met betrekking tot good governance op het terrein van goed bestuur, adequaat toezicht en transparante verantwoording;  
+
+h. als voor de activiteit waarvoor wordt aangevraagd reeds op een andere grond subsidie is verstrekt door het Fonds Podiumkunsten.    
 
 ### Paragraaf  2  
 
@@ -196,17 +198,15 @@ Een aanvraag heeft betrekking op het programmeren van een of meer bijzondere voo
 
 ####Beoordeling
 
-Aanvragen worden ten opzichte van elkaar afgewogen aan de hand van de volgende criteria: 
+Aanvragen worden beoordeeld aan de hand van de volgende criteria: 
 
 a. artistieke kwaliteit;  
 
-b. productionele kwaliteit van het plan;  
+b. ondernemerschap;  
 
 c. bijdrage aan het Internationaal Cultuurbeleid;  
 
-d. ondernemerschap;  
-
-e. bijdrage aan de diversiteit of verscheidenheid van het podiumkunstenaanbod in Nederland.    
+d. bijdrage aan de pluriformiteit van het podiumkunstenaanbod in Nederland.    
 
 ### Artikel  3.6  
 
@@ -251,17 +251,15 @@ Een aanvraag kan uitsluitend worden gedaan door een instelling met een artistiek
 
 ####Beoordeling
 
-Aanvragen worden ten opzichte van elkaar afgewogen aan de hand van de volgende criteria: 
+Aanvragen worden beoordeeld aan de hand van de volgende criteria: 
 
 a. artistieke kwaliteit;  
 
-b. productionele kwaliteit van het plan;  
+b. ondernemerschap;  
 
 c. bijdrage aan het Internationaal Cultuurbeleid;  
 
-d. ondernemerschap;  
-
-e. relevantie voor de podiumkunstpraktijk in Nederland.    
+d. relevantie voor de podiumkunstpraktijk in Nederland.    
 
 ### Artikel  4.6  
 

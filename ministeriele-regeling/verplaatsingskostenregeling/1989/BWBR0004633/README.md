@@ -72,8 +72,8 @@ Bij een verplaatsing uit, naar en buiten Nederland worden voor rijksrekening sle
 
 ### Artikel  12  
 
-1.  De berekening van de tegemoetkoming, bedoeld in [artikel 12a, eerste lid, van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md), geschiedt per maand met behulp van de formule, genoemd in het derde lid, met een maximum van € 341,42 per maand of een evenredig deel daarvan bij gemiddeld minder dan 5 reisdagen per week. De in de eerste volzin genoemde berekeningswijze wordt slechts toegepast indien de betrokkene ten minste 128 dagen per jaar daadwerkelijk naar dezelfde plaats van tewerkstelling reist, dan wel een evenredig deel daarvan voor zover het recht op de tegemoetkoming in de loop van het kalenderjaar aanvangt, eindigt of wijzigt, of indien de ambtenaar reist op gemiddeld minder dan vijf dagen per week. De tegemoetkoming wordt beëindigd indien een aaneengesloten periode van meer dan zes weken niet wordt gereisd en wordt hervat met ingang van de eerste dag van de maand, volgend op die waarop het reizen wordt hervat.   
-2.  In andere gevallen dan die, genoemd in het eerste lid, tweede volzin, geschiedt de berekening van de tegemoetkoming, bedoeld in [artikel 12a, eerste lid van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md), per maand met behulp van de formule, genoemd in het vierde lid, met een maximum van € 19,15 per reisdag.   
+1.  De berekening van de tegemoetkoming, bedoeld in [artikel 12a, eerste lid, van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md), geschiedt per maand met behulp van de formule, genoemd in het derde lid, met een maximum van € 350,15 per maand of een evenredig deel daarvan bij gemiddeld minder dan 5 reisdagen per week. De in de eerste volzin genoemde berekeningswijze wordt slechts toegepast indien de betrokkene ten minste 128 dagen per jaar daadwerkelijk naar dezelfde plaats van tewerkstelling reist, dan wel een evenredig deel daarvan voor zover het recht op de tegemoetkoming in de loop van het kalenderjaar aanvangt, eindigt of wijzigt, of indien de ambtenaar reist op gemiddeld minder dan vijf dagen per week. De tegemoetkoming wordt beëindigd indien een aaneengesloten periode van meer dan zes weken niet wordt gereisd en wordt hervat met ingang van de eerste dag van de maand, volgend op die waarop het reizen wordt hervat.   
+2.  In andere gevallen dan die, genoemd in het eerste lid, tweede volzin, geschiedt de berekening van de tegemoetkoming, bedoeld in [artikel 12a, eerste lid van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md), per maand met behulp van de formule, genoemd in het vierde lid, met een maximum van € 19,63 per reisdag.   
 3.  De formule, bedoeld in het eerste lid, luidt:  
 
 | --- | --- |
@@ -82,21 +82,21 @@ Bij een verplaatsing uit, naar en buiten Nederland worden voor rijksrekening sle
 | 12  | --- |
 
 4.  De formule, bedoeld in het tweede lid, luidt: A × 2 × D × E   
-5.  In de formules, bedoeld in het derde en vierde lid lid, is: A: de rekenkundig op een decimaal achter de komma afgeronde enkele reisafstand tussen de woning en de plaats van tewerkstelling, berekend met toepassing van het zesde lid; B: 214, zijnde het reguliere aantal reisdagen per jaar; C: het rekenkundig op twee decimalen achter de komma afgeronde gemiddelde aantal reisdagen per week; D: € 0,17, zijnde de tegemoetkoming per kilometer; E: het totale aantal daadwerkelijke reisdagen per maand.   
+5.  In de formules, bedoeld in het derde en vierde lid lid, is: A: de rekenkundig op een decimaal achter de komma afgeronde enkele reisafstand tussen de woning en de plaats van tewerkstelling, berekend met toepassing van het zesde lid; B: 214, zijnde het reguliere aantal reisdagen per jaar; C: het rekenkundig op twee decimalen achter de komma afgeronde gemiddelde aantal reisdagen per week; D: € 0,18, zijnde de tegemoetkoming per kilometer; E: het totale aantal daadwerkelijke reisdagen per maand.   
 6.  De enkele reisafstand tussen de woning en de plaats van tewerkstelling wordt berekend met gebruikmaking van de door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ter beschikking gestelde routeplanner. De afstand wordt gemeten met behulp van de postcodes van het begin- en eindpunt. Voor situaties waarin deze voorziening niet of niet goed voorziet, beslist het bevoegd gezag over het in aanmerking te nemen aantal kilometers.   
 
 ### Artikel  13  
 
 1.  De betrokkene, bedoeld in [artikel 12b, eerste lid, van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md), ontvangt een tegemoetkoming, berekend met overeenkomstige toepassing van artikel 12, met dien verstande dat: 
 
-a. het maximum van de tegemoetkoming, bedoeld in artikel 12, eerste lid, per maand € 51,28 bedraagt;  
+a. het maximum van de tegemoetkoming, bedoeld in artikel 12, eerste lid, per maand € 52,58 bedraagt;  
 
-b. het maximum van de tegemoetkoming per reisdag, bedoeld in artikel 12, tweede lid, € 2,88 bedraagt;  
+b. het maximum van de tegemoetkoming per reisdag, bedoeld in artikel 12, tweede lid, € 2,95 bedraagt;  
 
 c. de tegemoetkoming per kilometer € 0,06 bedraagt.     
 2.  De betrokkene, bedoeld in [artikel 12b, tweede lid, van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md), ontvangt een tegemoetkoming, berekend met overeenkomstige toepassing van artikel 12, met dien verstande dat: 
 
-a. in de formule D € 0,17 is, voor zover de tegemoetkoming betrekking heeft op de dagen waarop de betrokkene blijkens een verklaring per fiets reist, of € 0,06, voor zover de tegemoetkoming betrekking heeft op de overige dagen;  
+a. in de formule D € 0,18 is, voor zover de tegemoetkoming betrekking heeft op de dagen waarop de betrokkene blijkens een verklaring per fiets reist, of € 0,06, voor zover de tegemoetkoming betrekking heeft op de overige dagen;  
 
 b. het maximale bedrag, bedoeld in artikel 12, eerste lid, volgens de volgende formule wordt berekend: A/5 * × + B/5 * Y waarbij: A is het gemiddeld aantal reisdagen per week, waarop blijkens een schriftelijke verklaring de afstand per fiets wordt afgelegd; B is het gemiddeld aantal overige reisdagen per week; X is het maximale bedrag, genoemd in artikel 12, eerste lid; Y is het maximale bedrag, genoemd in het eerste lid, onder a.  
 

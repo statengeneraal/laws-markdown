@@ -24,7 +24,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 a. wet: [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
-b. zelfstandige: de belanghebbende van 18 tot 65 jaar, die voor de voorziening in het bestaan is aangewezen op arbeid in eigen bedrijf of zelfstandig beroep hier te lande en die: 
+b. zelfstandige: de belanghebbende van 18 jaar tot aan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) die voor de voorziening in het bestaan is aangewezen op arbeid in eigen bedrijf of zelfstandig beroep hier te lande en die: 
 
 1°. voldoet aan de wettelijke vereisten voor de uitoefening daarvan;  
 
@@ -90,16 +90,16 @@ b. is de belanghebbende verplicht mee te werken aan begeleiding door een door he
 
 1.  Bijstand in de vorm van een bedrag om niet als bedoeld in de artikelen 12, 19, 21 en 22: 
 
-a. wordt niet verleend indien het eigen vermogen meer bedraagt dan  € 156 240,00 per 1 januari 2012: € 178.431,00;  
+a. wordt niet verleend indien het eigen vermogen meer bedraagt dan  € 156 240,00 per 1 januari 2013: € 182.000,00;  
 
-b. wordt, indien het eigen vermogen meer bedraagt dan  € 37 177,00 per 1 januari 2012: € 42.459,00, doch minder dan € 156 240,00 per 1 januari 2012: € 178.431,00 slechts verleend indien dit eigen vermogen niet meer bedraagt dan 30 procent van het totaal vermogen.     
-2.  In afwijking van het eerste lid wordt aan de zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel c, bijstand in de vorm van een bedrag om niet als bedoeld in de artikelen 12 en 26 niet verleend, indien het eigen vermogen meer bedraagt dan  € 109 368,00 per 1 januari 2012: € 124.902,00.   
+b. wordt, indien het eigen vermogen meer bedraagt dan  € 37 177,00 per 1 januari 2013: € 43.308,00, doch minder dan € 156 240,00 per 1 januari 2013: € 182.000,00 slechts verleend indien dit eigen vermogen niet meer bedraagt dan 30 procent van het totaal vermogen.     
+2.  In afwijking van het eerste lid wordt aan de zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel c, bijstand in de vorm van een bedrag om niet als bedoeld in de artikelen 12 en 26 niet verleend, indien het eigen vermogen meer bedraagt dan  € 109 368,00 per 1 januari 2013: € 127.400,00.   
 
 ### Artikel  4  
 
 ####Forfaitair bedrag
 
-De bijstand die wordt verleend in de vorm van een bedrag om niet met toepassing van de artikelen 12, 21, eerste lid, 22 en 26 wordt verhoogd met een forfaitair bedrag dat overeenkomt met de loonbelasting en de premies volksverzekeringen en de vergoeding, bedoeld in [artikel 19, vierde lid, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).  
+De bijstand die wordt verleend in de vorm van een bedrag om niet met toepassing van artikel 12 wordt verhoogd met een forfaitair bedrag dat overeenkomt met de loonbelasting en de premies volksverzekeringen waarvoor de gemeente die de bijstand verleent krachtens de [Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) inhoudingspichtige is.  
 
 ### Artikel  5  
 
@@ -116,7 +116,7 @@ De algemene bijstand wordt per boekjaar vastgesteld.
 ####Het inkomen
 
 1.  In afwijking van [artikel 32, eerste lid, onderdeel b, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) wordt bij de bijstandsverlening aan een zelfstandige rekening gehouden met het inkomen over een boekjaar. Een teruggave van inkomstenbelasting en premies volksverzekeringen wordt bij een zelfstandige niet als inkomen aangemerkt.   
-2.  Bij de bijstandsverlening aan een zelfstandige worden de verschuldigde inkomstenbelasting en premies volksverzekeringen over inkomen waarover geen loonbelasting is geheven gesteld op 20 procent per 1 januari 2011: 19 procent van dat inkomen.   
+2.  Bij de bijstandsverlening aan een zelfstandige worden de verschuldigde inkomstenbelasting en premies volksverzekeringen over inkomen waarover geen loonbelasting is geheven gesteld op 20 procent per 1 januari 2013: 23 procent van dat inkomen.   
 
 ### §  3  
 
@@ -229,7 +229,7 @@ a. de borgtocht heeft geen betrekking op de rente en kosten van die geldlening w
 
 b. de looptijd van de geldlening waarvoor borgtocht wordt aangegaan is ten hoogste tien jaar;  
 
-c. de borgtocht kan alleen worden aangegaan met een bank;  
+c. de borgtocht kan alleen worden aangegaan met een bank of een daartoe door het college erkende rechtspersoon, die zonder winstoogmerk kredieten verstrekt aan ondernemers;  
 
 d. het bedrag dat de zelfstandige na uitwinning verschuldigd is, wordt aangemerkt als een lening, waarop de artikelen 40 tot en met 43 van toepassing zijn;  
 
@@ -271,7 +271,7 @@ c. het vermogen van de zelfstandige, het bedrag, bedoeld in artikel 3, eerste li
 
 ####Bedrijfskapitaal gevestigde zelfstandige
 
-1.  Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel a, kan ter voorziening in de behoefte aan bedrijfskapitaal bijstand in de vorm van een rentedragende geldlening of borgtocht worden verleend tot een bedrag van ten hoogste  € 162 344,00 per 1 januari 2012: € 185.402,00. Dit bedrag geldt per bedrijf of zelfstandig beroep.   
+1.  Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel a, kan ter voorziening in de behoefte aan bedrijfskapitaal bijstand in de vorm van een rentedragende geldlening of borgtocht worden verleend tot een bedrag van ten hoogste  € 162 344,00 per 1 januari 2013: € 189.110,00. Dit bedrag geldt per bedrijf of zelfstandig beroep.   
 2.  Indien aan een zelfstandige, als bedoeld in artikel 2, eerste lid, onderdeel a, bijstand wordt verleend zowel ter voorziening in de behoefte aan bedrijfskapitaal als ter voorziening in de algemeen noodzakelijke kosten van het bestaan wordt de bijstand verleend met toepassing van het eerste lid.   
 
 ### Artikel  21  
@@ -287,7 +287,7 @@ c. het vermogen van de zelfstandige, het bedrag, bedoeld in artikel 3, eerste li
 
 ####Bedrijfskapitaal om niet gevestigde zelfstandige
 
-Bijstand in de behoefte aan bedrijfskapitaal kan aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel a, worden verleend in de vorm van een bedrag om niet tot ten hoogste  € 8 117,00 per 1 januari 2012: € 9.270,00, indien het inkomen van de zelfstandige duurzaam lager is dan de som van de bijstandsnorm, bedoeld in [hoofdstuk 3, paragraaf 3.2](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [3.3, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), en de verleende bijzondere bijstand en diens vermogen de grens genoemd in artikel 3, eerste lid, niet te boven gaat. Deze bijstand gaat niet samen met bijstand als bedoeld in artikel 20.  
+Bijstand in de behoefte aan bedrijfskapitaal kan aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel a, worden verleend in de vorm van een bedrag om niet tot ten hoogste  € 8 117,00 per 1 januari 2013: € 9.456,00, indien het inkomen van de zelfstandige duurzaam lager is dan de som van de bijstandsnorm, bedoeld in [hoofdstuk 3, paragraaf 3.2](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [3.3, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), en de verleende bijzondere bijstand en diens vermogen de grens genoemd in artikel 3, eerste lid, niet te boven gaat. Deze bijstand gaat niet samen met bijstand als bedoeld in artikel 20.  
 
 ### §  2  
 
@@ -309,7 +309,7 @@ b. bij verlenging van de toekenning van algemene bijstand om redenen van medisch
 
 ####Bedrijfskapitaal beginnende zelfstandige
 
-Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel b, kan ter voorziening in de behoefte aan bedrijfskapitaal uitsluitend bijstand in de vorm van een rentedragende geldlening of borgtocht worden verleend tot een bedrag van ten hoogste  € 29 889,00 per 1 januari 2012: € 34.134,00. Dit bedrag geldt per bedrijf of zelfstandig beroep.  
+Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel b, kan ter voorziening in de behoefte aan bedrijfskapitaal uitsluitend bijstand in de vorm van een rentedragende geldlening of borgtocht worden verleend tot een bedrag van ten hoogste  € 29 889,00 per 1 januari 2013: € 34.816,00. Dit bedrag geldt per bedrijf of zelfstandig beroep.  
 
 ### §  3  
 
@@ -319,13 +319,13 @@ Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel b, kan ter 
 
 ####Duur algemene bijstand en inkomenseis oudere zelfstandige
 
-Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel c, wordt algemene bijstand verleend voor de duur dat hij uit het bedrijf of zelfstandig beroep naar verwachting een bruto inkomen zal behalen dat gemiddeld minstens  € 6 447,00 per 1 januari 2012: € 7.363,00 per boekjaar bedraagt.  
+Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel c, wordt algemene bijstand verleend voor de duur dat hij uit het bedrijf of zelfstandig beroep naar verwachting een bruto inkomen zal behalen dat gemiddeld minstens  € 6 447,00 per 1 januari 2013: € 7.511,00 per boekjaar bedraagt.  
 
 ### Artikel  26  
 
 ####Bedrijfskapitaal oudere zelfstandige
 
-Bijstand ter voorziening in de behoefte aan bedrijfskapitaal wordt aan de zelfstandige, bedoeld in artikel 2, eerste lid, onderdeel c, slechts verleend tot ten hoogste € 8 117,00 per 1 januari 2012: € 9.270,00. Deze bijstand wordt verstrekt in de vorm van een bedrag om niet of, voor zover het eigen vermogen meer bedraagt dan het bedrag, genoemd in artikel 3, tweede lid, in de vorm van een renteloze lening. Artikel 13 is van overeenkomstige toepassing.  
+Bijstand ter voorziening in de behoefte aan bedrijfskapitaal wordt aan de zelfstandige, bedoeld in artikel 2, eerste lid, onderdeel c, slechts verleend tot ten hoogste € 8 117,00 per 1 januari 2013: € 9.456,00. Deze bijstand wordt verstrekt in de vorm van een bedrag om niet of, voor zover het eigen vermogen meer bedraagt dan het bedrag, genoemd in artikel 3, tweede lid, in de vorm van een renteloze lening. Artikel 13 is van overeenkomstige toepassing.  
 
 ### §  4  
 
@@ -566,9 +566,8 @@ Aan de zelfstandige of langstlevende echtgenoot, bedoeld in artikel 43c, eerste 
 
 ####Terugvordering
 
-1.  In afwijking van [artikel 58 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), worden kosten van bijstand door de gemeente teruggevorderd in de gevallen en naar de regels aangegeven in artikel 12, tweede lid, onderdeel c, en de hoofdstukken V en VI.   
+1.  Bij de toepassing van [artikel 58 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) worden kosten van bijstand door het college teruggevorderd met toepassing van artikel 12, tweede lid, onderdeel c, en de hoofdstukken V en VI.   
 2.  Indien daarvoor dringende redenen aanwezig zijn kan het college besluiten geheel of gedeeltelijk van terugvordering af te zien.   
-3.  [Artikel 60 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) is van overeenkomstige toepassing.   
 
 ### Artikel  45  
 
@@ -576,13 +575,14 @@ Aan de zelfstandige of langstlevende echtgenoot, bedoeld in artikel 43c, eerste 
 
 1.  Het college vordert de bijstand van de zelfstandige terug voor zover de bijstand ten onrechte of tot een te hoog bedrag is verleend als gevolg van: 
 
-a. het niet nakomen van de verplichtingen, bedoeld in [artikel 17 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+a. het niet of niet behoorlijk nakomen van de verplichtingen, bedoeld in [artikel 17 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
 b. het niet nakomen van de verplichting, bedoeld in artikel 38, eerste en tweede lid; of  
 
 c. een tekortschietend besef van verantwoordelijkheid voor de voorziening in het bestaan, in het geval het bijstand in de met de voorbereiding samenhangende kosten betreft.     
 2.  Hetgeen anderszins onverschuldigd is betaald wordt teruggevorderd voor zover de zelfstandige dit redelijkerwijs had kunnen begrijpen.   
 3.  Terugvordering als bedoeld in het tweede lid vindt niet plaats, indien de betreffende kosten zijn gemaakt meer dan twee jaar voor de datum van verzending van het besluit tot terugvordering.   
+4.  De lening, die de zelfstandige bij de beëindiging op grond van artikel 43 gehouden is terug te betalen, is een lening als bedoeld in [artikel 58, eerste lid, onderdeel b, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).   
 
 ### Artikel  46  
 
@@ -610,12 +610,12 @@ Onverminderd de artikelen 40 en 41 worden kosten van bijstand verleend in de vor
 
 1.  Onze Minister vergoedt, ten laste van 's Rijks kas, 75% van de in een kalenderjaar ten laste van de gemeente gebleven kosten van: 
 
-a. algemene bijstand aan zelfstandigen, bedoeld in artikel 2, eerste lid, onderdelen a, c, d en e, waaronder begrepen de loonbelasting, premies volksverzekeringen en daarnaast de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), die daarover verschuldigd zijn, voorzover de algemene bijstand niet bij wijze van voorschot op grond van [artikel 52 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) is verleend;  
+a. algemene bijstand aan zelfstandigen, bedoeld in artikel 2, eerste lid, onderdelen a, c, d en e, waaronder begrepen de loonbelasting, premies volksverzekeringen en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), die daarover verschuldigd zijn, voorzover de algemene bijstand niet bij wijze van voorschot op grond van [artikel 52 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) is verleend;  
 
 b. bijstand ter voorziening in de behoefte aan bedrijfskapitaal.     
 2.  In afwijking van het eerste lid, is de vergoeding 100% indien de bijstand is verleend aan ondernemers in de binnenvaart.   
-3.  Onder ten laste van de gemeente gebleven kosten, bedoeld in het eerste lid, wordt verstaan, de lasten in een kalenderjaar verminderd met de baten in dat jaar in verband met de door de gemeente verleende bijstand, bedoeld in het eerste lid.   
-4.  Voor de vaststelling van de ten laste van de gemeente gebleven kosten in het kalenderjaar 2009 en daaraan voorafgaande kalenderjaren is artikel 48 zoals dat luidde op 31 december 2010 van toepassing.   
+3.  Onder ten laste van de gemeente gebleven kosten van algemene bijstand aan zelfstandigen, bedoeld in het eerste lid, onderdeel a, wordt verstaan de lasten in een kalenderjaar verminderd met de baten in dat jaar in verband met de door de gemeente verleende algemene bijstand aan zelfstandigen, bedoeld in het eerste lid, onderdeel a.   
+4.  Onder ten laste van de gemeente gebleven kosten van bijstand ter voorziening in de behoefte aan bedrijfskapitaal, bedoeld in het eerste lid, onderdeel b, wordt verstaan de lasten in een kalenderjaar verminderd met een bij ministeriële regeling vast te stellen norm voor de baten in dat jaar in verband met de door de gemeente verleende bijstand ter voorziening in de behoefte aan bedrijfskapitaal, bedoeld in het eerste lid, onderdeel b.   
 
 ### Artikel  48a  
 
@@ -733,7 +733,7 @@ b. voorzover zij hoger zijn dan de door Onze Minister vast te stellen maximaal v
 
 1.  Onze Minister herziet, met ingang van 1 januari van elk kalenderjaar, met de procentuele stijging van het prijsindexcijfer voor de gezinsconsumptie de bedragen, genoemd in de artikelen 3, 20, 22, 24, 25 en 26.   
 2.  Onze Minister herziet het rentepercentage, genoemd in artikel 15, voor zover de rente die banken in rekening brengen bij het verstrekken van leningen aan bedrijven, daartoe aanleiding geeft.   
-3.  Onze Minister stelt het in artikel 6, tweede lid, genoemde percentage zodanig vast dat dit gelijk is aan het gemiddeld bedrag dat voor personen jonger dan 65 jaar over de algemene bijstand verschuldigd is aan loonbelasting en premies volksverzekeringen, uitgedrukt als een percentage van de algemene bijstand verhoogd met deze loonbelasting en premies.   
+3.  Onze Minister stelt het in artikel 6, tweede lid, genoemde percentage zodanig vast dat dit gelijk is aan het gemiddeld bedrag dat voor personen die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet hebben bereikt over de algemene bijstand verschuldigd is aan loonbelasting en premies volksverzekeringen, uitgedrukt als een percentage van de algemene bijstand verhoogd met deze loonbelasting en premies.   
 
 ### Artikel  60a  
 

@@ -24,20 +24,19 @@ d. openbare lichamen: openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 a. Onze Ministers;  
 
-b. bestuursorganen van provincies, gemeenten, openbare lichamen, waterschappen en gemeenschappelijke regelingen, tenzij voor die bestuursorganen een eigen voorziening voor de behandeling van verzoekschriften is ingesteld op grond van respectievelijk [artikel 79q van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md), [artikel 81p van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), artikel 107 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba, [artikel 51b van de Waterschapswet](../../../../../wet/waterschapswet/BWBR0005108/README.md) of [artikel 10, vierde lid, van de Wet gemeenschappelijke regelingen](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md);  
+b. bestuursorganen van provincies, gemeenten, openbare lichamen, waterschappen en gemeenschappelijke regelingen, tenzij voor die bestuursorganen een eigen voorziening voor de behandeling van verzoekschriften is ingesteld op grond van respectievelijk artikel 79q van de Provinciewet, artikel 81p van de Gemeentewet, artikel 107 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba, artikel 51b van de Waterschapswet of artikel 10, vierde lid, van de Wet gemeenschappelijke regelingen;  
 
 c. bestuursorganen aan welke bij of krachtens wettelijk voorschrift een taak met betrekking tot de politie is opgedragen, voor zover het de uitoefening van die taak betreft;  
 
 d. bestuursorganen van provincies, gemeenten, openbare lichamen, waterschappen en gemeenschappelijke regelingen voor zover het de gedragingen van voor hen werkzame buitengewoon opsporingsambtenaren betreft;  
 
 e. andere bestuursorganen, daaronder mede begrepen bestuursorganen in de openbare lichamen, voor zover niet bij algemene maatregel van bestuur uitgezonderd.     
-2.   Vervallen.    
-3.  In afwijking van het eerste lid is deze wet niet van toepassing op gedragingen van de Commissie gelijke behandeling, bedoeld in de [Algemene wet gelijke behandeling](../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md).   
-4.  Een gedraging van een ambtenaar, verricht in de uitoefening van zijn functie, wordt aangemerkt als een gedraging van het bestuursorgaan onder wiens verantwoordelijkheid hij werkzaam is.   
+2.  Een gedraging van een ambtenaar, verricht in de uitoefening van zijn functie, wordt aangemerkt als een gedraging van het bestuursorgaan onder wiens verantwoordelijkheid hij werkzaam is.   
+3.  Op een gedraging van het College, genoemd in artikel 1 van de Wet College voor de rechten van de mens, is deze wet slechts van toepassing voor zover het gaat om een gedraging van een ambtenaar die behoort tot het in artikel 18 van die wet bedoelde bureau.   
 
 ### Artikel  1b  
 
-1.  Indien de ombudsman een besluit als bedoeld in [artikel 79q, tweede of derde lid, van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md), [artikel 81p, tweede of derde lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), artikel 107, tweede of derde lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba [artikel 51b, tweede of derde lid, van de Waterschapswet](../../../../../wet/waterschapswet/BWBR0005108/README.md) of [artikel 10, vierde lid, van de Wet gemeenschappelijke regelingen](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) heeft ontvangen, bevestigt hij onverwijld de ontvangst daarvan.   
+1.  Indien de ombudsman een besluit als bedoeld in artikel 79q, tweede of derde lid, van de Provinciewet, artikel 81p, tweede of derde lid, van de Gemeentewet, artikel 107, tweede of derde lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba artikel 51b, tweede of derde lid, van de Waterschapswet of artikel 10, vierde lid, van de Wet gemeenschappelijke regelingen heeft ontvangen, bevestigt hij onverwijld de ontvangst daarvan.   
 2.  De ombudsman registreert de provincies, gemeenten, openbare lichamen, waterschappen en gemeenschappelijke regelingen met een eigen voorziening als bedoeld in artikel 1a, eerste lid, onder b. Hij maakt deze registratie openbaar.   
 
 ### Artikel  1c  
@@ -95,7 +94,7 @@ a. hij zich in voorlopige hechtenis bevindt;
 b. hij bij een nog niet onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld, dan wel hem bij zulk een uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;  
 
 c. hij onder curatele is gesteld, in staat van faillissement is verklaard, ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, hij surseance van betaling heeft verkregen of wegens schulden is gegijzeld ingevolge een nog niet onherroepelijk geworden rechterlijke uitspraak.     
-2.  De Tweede Kamer kan de ombudsman op non-activiteit stellen, indien tegen hem een gerechtelijk vooronderzoek ter zake van misdrijf wordt ingesteld of indien er een ander ernstig vermoeden is voor het bestaan van feiten of omstandigheden die tot ontslag, anders dan op gronden vermeld in artikel 3, tweede lid onder *b,* zouden kunnen leiden.   
+2.  De Tweede Kamer kan de ombudsman op non-activiteit stellen, indien hij wordt vervolgd wegens een misdrijf of indien er een ander ernstig vermoeden is voor het bestaan van feiten of omstandigheden die tot ontslag, anders dan op gronden vermeld in artikel 3, tweede lid onder b, zouden kunnen leiden.   
 3.  In het geval, bedoeld in het tweede lid, eindigt de non-activiteit na drie maanden. De Tweede Kamer kan de maatregel echter telkens voor ten hoogste drie maanden verlengen.   
 4.  De Tweede Kamer beëindigt de non-activiteit zodra de grond voor de maatregel is vervallen.   
 5.  De Tweede Kamer kan bij de beslissing waarbij de ombudsman op non-activiteit wordt gesteld, bepalen dat tijdens de duur van de non-activiteit geen salaris of slechts een gedeelte van het salaris zal worden genoten, in het laatste geval onder aanwijzing van het gedeelte dat zal worden genoten.   
@@ -117,7 +116,7 @@ d. het beroep of ambt van advocaat of notaris.
 
 ### Artikel  6  
 
-De bepalingen van de [Algemene pensioenwet politieke ambtsdragers](../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md) zijn van overeenkomstige toepassing op de ombudsman, met dien verstande dat deze wordt gelijkgesteld met een lid van de Tweede Kamer der Staten-Generaal.  
+De bepalingen van de Algemene pensioenwet politieke ambtsdragers zijn van overeenkomstige toepassing op de ombudsman, met dien verstande dat deze wordt gelijkgesteld met een lid van de Tweede Kamer der Staten-Generaal.  
 
 ### Artikel  8  
 
@@ -125,16 +124,16 @@ Alvorens zijn ambt te aanvaarden legt de ombudsman in de handen van de Voorzitte
 
 a. de eed of verklaring en belofte dat hij tot het verkrijgen van zijn benoeming rechtstreeks noch middellijk, onder welke naam of onder welk voorwendsel ook, aan iemand iets heeft gegeven of beloofd, alsmede dat hij om iets in zijn ambt te doen of te laten rechtstreeks noch middellijk van iemand enig geschenk of enige belofte heeft aangenomen of zal aannemen;  
 
-b. de eed of belofte van trouw aan de [Grondwet](../../../../../wet/grondwet/BWBR0001840/README.md).    
+b. de eed of belofte van trouw aan de Grondwet.    
 
 ### Artikel  9  
 
 1.  De Tweede Kamer benoemt op verzoek van de ombudsman een of meer personen tot substituut-ombudsman en wijst daarbij de substituut-ombudsman aan die de functie van Kinderombudsman heeft. De ombudsman maakt daartoe een aanbeveling op, die de namen van ten minste drie personen bevat. Indien er geen Kinderombudsman is, draagt de ombudsman zo spoedig mogelijk zorg voor een verzoek als bedoeld in de eerste volzin.   
 2.  De benoeming van een substituut-ombudsman geschiedt voor de duur van de ambtstermijn van de ombudsman op wiens verzoek hij is benoemd, vermeerderd met een jaar.   
 3.  Indien de Tweede Kamer voornemens is een substituut-ombudsman opnieuw te benoemen, kan zij bepalen dat het eerste lid, tweede volzin, buiten toepassing blijft.   
-4.  De artikelen 3 tot en met 8, 15, en de [artikelen 9:21](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [9:30 tot en met 9:34 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), zijn van overeenkomstig toepassing op een substituut-ombudsman.   
+4.  De artikelen 3 tot en met 8, 15, en de artikelen 9:21 en 9:30 tot en met 9:34 van de Algemene wet bestuursrecht, zijn van overeenkomstig toepassing op een substituut-ombudsman.   
 5.  De ombudsman regelt de werkzaamheden van een substituut-ombudsman.   
-6.  De ombudsman kan bepalen dat de bevoegdheden, bedoeld in de artikelen 16, derde lid, en de [artikelen 9:27](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [9:35](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [9:36 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), tevens worden uitgeoefend door een substituut-ombudsman. De ombudsman kan voor de uitoefening van die bevoegdheden richtlijnen vaststellen.   
+6.  De ombudsman kan bepalen dat de bevoegdheden, bedoeld in de artikelen 16, derde lid, en de artikelen 9:27, 9:35 en 9:36 van de Algemene wet bestuursrecht, tevens worden uitgeoefend door een substituut-ombudsman. De ombudsman kan voor de uitoefening van die bevoegdheden richtlijnen vaststellen.   
 
 ### Artikel  10  
 
@@ -191,21 +190,68 @@ b. een orgaan van een rechtspersoon, niet zijnde een bestuursorgaan, voor zover 
 1° een bij of krachtens de wet geregelde taak ten aanzien van jeugdigen uitoefent; of  
 
 2° anderszins een taak ten aanzien van jeugdigen uitoefent op het terrein van het onderwijs, de jeugdzorg, de kinderopvang of de gezondheidszorg,     kan een klacht indienen bij de Kinderombudsman.   
-2.  Een klacht over een bestuursorgaan als bedoeld in artikel 1a, geldt als een verzoek als bedoeld in [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.  Een klacht over een bestuursorgaan als bedoeld in artikel 1a, geldt als een verzoek als bedoeld in artikel 9:18, eerste lid, van de Algemene wet bestuursrecht.   
 3.  Een gedraging van een medewerker van een rechtspersoon als bedoeld in het eerste lid, onder b, verricht in de uitoefening van zijn functie, wordt aangemerkt als een gedraging van die rechtspersoon.   
 
 ### Artikel  11d  
 
-1.  Op de behandeling van klachten over en onderzoek uit eigen beweging naar bestuursorganen met een eigen voorziening voor de behandeling van verzoekschriften als bedoeld in artikel 1a, eerste lid, onder b, en organen van rechtspersonen als bedoeld in artikel 11c, eerste lid, onder b, door de Kinderombudsman zijn artikel 15 alsmede [titel 9.2 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
-2.  In afwijking van [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), kan een klacht als bedoeld in artikel 11c, eerste lid, mondeling worden ingediend. De [artikelen 9:23 onder a](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [9:28 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn in dat geval niet van toepassing.   
-3.  In afwijking van [artikel 9:18, derde lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is de Kinderombudsman niet verplicht een onderzoek in te stellen, indien de klacht een orgaan als bedoeld in artikel 11c, eerste lid, onder b, betreft.   
-4.  De in [artikel 9:33 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde vergoeding van kosten vindt plaats ten laste van het Rijk indien het onderzoek betrekking heeft op een orgaan van een rechtspersoon als bedoeld in artikel 11c, eerste lid, onder b.   
+1.  Op de behandeling van klachten over en onderzoek uit eigen beweging naar bestuursorganen met een eigen voorziening voor de behandeling van verzoekschriften als bedoeld in artikel 1a, eerste lid, onder b, en organen van rechtspersonen als bedoeld in artikel 11c, eerste lid, onder b, door de Kinderombudsman zijn artikel 15 alsmede titel 9.2 van de Algemene wet bestuursrecht van overeenkomstige toepassing.   
+2.  In afwijking van artikel 9:18, eerste lid, van de Algemene wet bestuursrecht, kan een klacht als bedoeld in artikel 11c, eerste lid, mondeling worden ingediend. De artikelen 9:23 onder a en 9:28 van de Algemene wet bestuursrecht zijn in dat geval niet van toepassing.   
+3.  In afwijking van artikel 9:18, derde lid, van de Algemene wet bestuursrecht is de Kinderombudsman niet verplicht een onderzoek in te stellen, indien de klacht een orgaan als bedoeld in artikel 11c, eerste lid, onder b, betreft.   
+4.  De in artikel 9:33 van de Algemene wet bestuursrecht bedoelde vergoeding van kosten vindt plaats ten laste van het Rijk indien het onderzoek betrekking heeft op een orgaan van een rechtspersoon als bedoeld in artikel 11c, eerste lid, onder b.   
 
 ### Artikel  11e  
 
-1.  De Kinderombudsman zendt jaarlijks een verslag van zijn werkzaamheden aan de beide Kamers der Staten-Generaal en aan Onze Ministers, alsmede aan andere bestuursorganen en privaatrechtelijke organisaties voor zover hij dat wenselijk acht. [Artikel 10 van de Wet openbaarheid van bestuur](../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) is van overeenkomstige toepassing met dien verstande dat de Kinderombudsman bij het verslag gegevens kan voegen, slechts ter vertrouwelijke kennisneming door de leden van de Staten-Generaal en Onze Ministers.   
+1.  De Kinderombudsman zendt jaarlijks een verslag van zijn werkzaamheden aan de beide Kamers der Staten-Generaal en aan Onze Ministers, alsmede aan andere bestuursorganen en privaatrechtelijke organisaties voor zover hij dat wenselijk acht. Artikel 10 van de Wet openbaarheid van bestuur is van overeenkomstige toepassing met dien verstande dat de Kinderombudsman bij het verslag gegevens kan voegen, slechts ter vertrouwelijke kennisneming door de leden van de Staten-Generaal en Onze Ministers.   
 2.  De Kinderombudsman draagt er zorg voor dat het verslag openbaar wordt gemaakt en algemeen verkrijgbaar wordt gesteld.   
 3.  De Kinderombudsman kan ook dadelijk na het afsluiten van een onderzoek de beide Kamers der Staten-Generaal en vertegenwoordigende organen van provincies en gemeenten inlichten omtrent zijn bevindingen, zo dikwijls hij de eerdere kennisneming daarvan voor het betreffende orgaan van belang acht of een orgaan als hiervoor bedoeld dit verzoekt.   
+
+### Hoofdstuk  IIb  
+
+####De Veteranenombudsman
+
+Treedt in werking op een nader te bepalen tijdstip   
+
+### Artikel  11f   
+Treedt in werking op een nader te bepalen tijdstip   
+
+In dit hoofdstuk wordt verstaan onder: 
+
+a. *veteraan:* een veteraan als bedoeld in artikel 1 van de Veteranenwet;  
+
+b. *relaties van een veteraan:* relaties als bedoeld in artikel 1 van de Veteranenwet.    
+
+### Artikel  11g   
+Treedt in werking op een nader te bepalen tijdstip   
+
+1.  De Veteranenombudsman is bevoegd: 
+
+a. naar aanleiding van klachten of uit eigen beweging een onderzoek in te stellen naar de wijze waarop een instantie als bedoeld in artikel 11h, eerste lid, zich in een bepaalde aangelegenheid heeft gedragen, tenzij artikel 9:22 van de Algemene wet bestuursrecht van toepassing is;  
+
+b. gevraagd en ongevraagd advies te geven aan de regering en de beide Kamers der Staten-Generaal over de uitvoering van de Veteranenwet en over beleid dat een behoorlijke behandeling van Veteranen raakt;  
+
+c. de wijze waarop klachten van veteranen of hun relaties door de daartoe bevoegde instanties, niet zijnde de ombudsman, worden behandeld te monitoren en te analyseren en de regering en de Tweede Kamer in te lichten over zijn bevindingen.     
+
+### Artikel  11h   
+Treedt in werking op een nader te bepalen tijdstip   
+
+1.  Een veteraan of namens deze, een relatie van een veteraan, die meent niet behoorlijk behandeld te zijn door: 
+
+a. een bestuursorgaan als bedoeld in artikel 1a;  
+
+b. een orgaan van een rechtspersoon, niet zijnde een bestuursorgaan, voorzover die: 
+
+1° . een bij of krachtens wet geregelde taak ten aanzien van veteranen uitoefent; of  
+
+2° . anderszins een taak ten aanzien van veteranen uitoefent,     kan een klacht indienen bij de Veteranenombudsman.   
+2.  Een klacht over een bestuursorgaan als bedoeld in artikel 1a, geldt als een verzoek als bedoeld in artikel 9:18, eerste lid, van de Algemene wet bestuursrecht.   
+3.  Een gedraging van een medewerker van een rechtspersoon als bedoeld in het eerste lid, onder b, verricht in de uitoefening van zijn functie, wordt aangemerkt als een gedraging van die rechtspersoon.   
+
+### Artikel  11i   
+Treedt in werking op een nader te bepalen tijdstip   
+
+1.  Op de behandeling van klachten over en onderzoek uit eigen beweging naar organen van rechtspersonen als bedoeld in artikel 11h, eerste lid, onder b, door de Veteranenombudsman zijn artikel 15 alsmede titel 9.2 van de Algemene wet bestuursrecht van overeenkomstige toepassing.   
+2.  De in artikel 9:33 van de Algemene wet bestuursrecht bedoelde vergoeding van kosten vindt plaats ten laste van het Rijk indien het onderzoek betrekking heeft op een orgaan van een rechtspersoon als bedoeld in artikel 11h, eerste lid, onder b.   
 
 ### Hoofdstuk  III  
 
@@ -213,11 +259,11 @@ b. een orgaan van een rechtspersoon, niet zijnde een bestuursorgaan, voor zover 
 
 ### Artikel  12  
 
-De ombudsman is niet verplicht een onderzoek als bedoeld in [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), in te stellen of voort te zetten indien een verzoekschrift, dezelfde gedraging betreffende, in behandeling is bij een tot de behandeling van verzoekschriften bevoegde commissie uit de Eerste of Tweede Kamer of uit de verenigde vergadering der Staten-Generaal of – behoudens indien een nieuw feit of een nieuwe omstandigheid bekend is geworden en zulks tot een ander oordeel over de bedoelde gedraging zou hebben kunnen leiden – daarover door de betrokken commissie haar conclusie op een verzoekschrift aan de Eerste of Tweede Kamer dan wel de verenigde vergadering der Staten-Generaal is voorgesteld.  
+De ombudsman is niet verplicht een onderzoek als bedoeld in artikel 9:18, eerste lid, van de Algemene wet bestuursrecht, in te stellen of voort te zetten indien een verzoekschrift, dezelfde gedraging betreffende, in behandeling is bij een tot de behandeling van verzoekschriften bevoegde commissie uit de Eerste of Tweede Kamer of uit de verenigde vergadering der Staten-Generaal of – behoudens indien een nieuw feit of een nieuwe omstandigheid bekend is geworden en zulks tot een ander oordeel over de bedoelde gedraging zou hebben kunnen leiden – daarover door de betrokken commissie haar conclusie op een verzoekschrift aan de Eerste of Tweede Kamer dan wel de verenigde vergadering der Staten-Generaal is voorgesteld.  
 
 ### Artikel  13  
 
-[Artikel 9:31, eerste lid, derde volzin, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op Onze Ministers.  
+Artikel 9:31, eerste lid, derde volzin, van de Algemene wet bestuursrecht is niet van toepassing op Onze Ministers.  
 
 ### Artikel  14  
 
@@ -229,7 +275,7 @@ De ombudsman kan bevelen dat personen die, hoewel wettelijk opgeroepen, niet zij
 
 ### Artikel  16  
 
-1.  De ombudsman zendt jaarlijks een verslag van zijn werkzaamheden aan de beide Kamers der Staten-Generaal en aan Onze Ministers, alsmede aan de vertegenwoordigende organen van provincies, gemeenten openbare lichamen en waterschappen en aan de algemene besturen van gemeenschappelijke regelingen als bedoeld in artikel 1a, eerste lid, onder b, voorzover de ombudsman ten aanzien van hun bestuursorganen verzoekschriften heeft behandeld. [Artikel 10 van de Wet openbaarheid van bestuur](../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) is van overeenkomstige toepassing met dien verstande dat de ombudsman bij het verslag gegevens kan voegen, slechts ter vertrouwelijke kennisneming door de leden van de Staten-Generaal en Onze Ministers.   
+1.  De ombudsman zendt jaarlijks een verslag van zijn werkzaamheden aan de beide Kamers der Staten-Generaal en aan Onze Ministers, alsmede aan de vertegenwoordigende organen van provincies, gemeenten openbare lichamen en waterschappen en aan de algemene besturen van gemeenschappelijke regelingen als bedoeld in artikel 1a, eerste lid, onder b, voorzover de ombudsman ten aanzien van hun bestuursorganen verzoekschriften heeft behandeld. Artikel 10 van de Wet openbaarheid van bestuur is van overeenkomstige toepassing met dien verstande dat de ombudsman bij het verslag gegevens kan voegen, slechts ter vertrouwelijke kennisneming door de leden van de Staten-Generaal en Onze Ministers.   
 2.  De ombudsman draagt er zorg voor dat het verslag openbaar wordt gemaakt en algemeen verkrijgbaar wordt gesteld.   
 3.  De ombudsman kan ook dadelijk na het afsluiten van een onderzoek de beide Kamers der Staten-Generaal, vertegenwoordigende organen van provincies, gemeenten openbare lichamen en waterschappen en algemene besturen van gemeenschappelijke regelingen inlichten omtrent zijn bevindingen en oordeel, zo dikwijls hij de eerdere kennisneming daarvan voor het betreffende orgaan van belang acht of een orgaan als hiervoor bedoeld dit verzoekt.   
 

@@ -27,7 +27,7 @@ Besluit:
 
 ### Artikel  1.1  
 
-In deze regeling wordt verstaan onder: 
+1.  In deze regeling wordt verstaan onder: 
 
 a. dierentuin: dierentuin als bedoeld in artikel 2, tweede alinea, van beschikking 2006/474/EG van de Commissie van de Europese Gemeenschappen van 6 juli 2006 tot vaststelling van maatregelen ter preventie van de verspreiding van hoogpathogene aviaire influenza, veroorzaakt door influenza A-virus subtype H5N1, naar vogels in dierentuinen en officieel erkende instellingen, instituten of centra in de lidstaten en tot intrekking van Beschikking 2005/744/EG (PbEU L 187);  
 
@@ -57,7 +57,8 @@ m. derde land: land, niet zijnde Nederland en niet zijnde een lidstaat;
 
 n. GD: Gezondheidsdienst voor Dieren;  
 
-o. verordening (EG) nr. 1069/2009: verordening (EG) nr. 1069/2009 van het Europese Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (PbEU L300);    
+o. verordening (EG) nr. 1069/2009: verordening (EG) nr. 1069/2009 van het Europese Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (PbEU L300);     
+2.  Deze regeling berust mede op [artikel 3.18 van het Besluit diergeneesmiddelen](../../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).   
 
 ### §  2  
 
@@ -276,7 +277,7 @@ De houder draagt er zorg voor dat:
 
 a. ongedierte op zijn bedrijf adequaat wordt bestreden, en  
 
-b. er voldoende bakken beschikbaar zijn in de stallen waar schapen of geiten worden gehouden, waarin categorie 1-materiaal of categorie 2-materiaal als bedoeld in de artikelen 8 en 9 van verordening (EG) nr. 1069/2009, overeenkomstig de [Regeling dierlijke bijproducten 2011](../../../../../../ministeriele-regeling/regeling/dierlijke/bijproducten/2011/BWBR0029668/README.md) wordt verzameld.    
+b. er voldoende bakken beschikbaar zijn in de stallen waar schapen of geiten worden gehouden, waarin categorie 1-materiaal of categorie 2-materiaal als bedoeld in de artikelen 8 en 9 van verordening (EG) nr. 1069/2009, overeenkomstig [hoofdstuk 3, paragraaf 3, van de Regeling dierlijke producten](../../../../../../ministeriele-regeling/regeling/dierlijke/producten/BWBR0032462/README.md) wordt verzameld.    
 
 ### Artikel  5.1.11  
 
@@ -406,7 +407,7 @@ b. de factuur van de dierenarts voor het uitvoeren van de vaccinatie.
 
 ### Artikel  5.2.5  
 
-Van het verbod, gesteld in [artikel 2, eerste lid, van de Diergeneesmiddelenwet](../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md), wordt vrijstelling verleend voor het met inachtneming van de artikelen 5.2.7 en 5.2.8 en de bijsluiter toepassen van het diergeneesmiddel ‘Coxevac’ van de firma CEVA SANTE ANIMALE B.V. te Naaldwijk voor het vaccineren van schapen tegen Q-koorts en met het oog daarop het voorhanden of in voorraad hebben en het afleveren van dit middel.  
+Ter voorkoming van Q-koorts kan een diergeneesmiddel worden toegepast waarvoor bij [artikel 3.12 van de Regeling diergeneesmiddelen](../../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md) een vrijstelling is verleend.  
 
 ### Artikel  5.2.6  
 
@@ -423,35 +424,6 @@ Schapen of geiten die al eerder overeenkomstig deze paragraaf zijn gevaccineerd 
 ### §  6  
 
 ####Vaccinatie tegen bepaalde virale paardenencefalomyelitiden
-
-### Artikel  6.1  
-
-Van het verbod, gesteld in [artikel 2, eerste lid, van de Diergeneesmiddelenwet](../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md), wordt vrijstelling verleend voor het toepassen bij paarden die genomineerd zijn voor deelname aan de Alltech FEI World Equestrian Games, Kentucky 2010, van het diergeneesmiddel West Nile-Innovator®+EW van Fort Dodge Animal Health ten behoeve van actieve immunisatie tegen virale paardenencefalomyelitiden, veroorzaakt door het Western- of Eastern equine encephalomyelitis virus, en met het oog daarop het voorhanden of in voorraad hebben en het afleveren van dit middel onder de voorwaarden, gesteld in de artikelen 6.4 tot en met 6.6.  
-
-### Artikel  6.2  
-
-Van het verbod gesteld in [artikel 3 van het Besluit gebruik sera en entstoffen](../../../../../../AMvB/besluit/gebruik/sera/en/entstoffen/BWBR0009198/README.md) wordt ontheffing verleend voor het enten overeenkomstig deze regeling van de in artikel 6.1 bedoelde paarden met het in dat artikel bedoelde diergeneesmiddel tegen de in dat artikel bedoelde virale paardenencefalomyelitiden.  
-
-### Artikel  6.3  
-
-Het diergeneesmiddel, bedoeld in artikel 6.1, wordt voor de toepassing van deze regeling aangewezen als een middel als bedoeld in [artikel 29, eerste lid, van de Diergeneesmiddelenwet](../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md).  
-
-### Artikel  6.4  
-
-1.  De vermeldingen op de verpakking en het etiket zijn in goed leesbaar en onuitwisbaar schrift en in begrijpelijke bewoordingen gesteld.   
-2.  Toediening van het diergeneesmiddel, bedoeld in artikel 6.1, geschiedt door een op grond van [artikel 10, eerste lid, van de Wet op de uitoefening van de Diergeneeskunde 1990](../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) geregistreerde dierenarts, in overeenstemming met de op het etiket en de verpakking vermelde voorwaarden.   
-
-### Artikel  6.5  
-
-Toediening bij een paard van de op de verpakking en het etiket van het in artikel 6.1 bedoelde diergeneesmiddel bedoelde tweede dosis, vindt plaats uiterlijk 21 dagen voorafgaand aan het vervoer van dat paard naar het in artikel 6.1 bedoelde evenement.  
-
-### Artikel  6.6  
-
-De op 19 september 2010 aanwezige voorraad van het in artikel 6.1 bedoelde diergeneesmiddel wordt onverwijld vernietigd of teruggestuurd naar de fabrikant van het diergeneesmiddel.  
-
-### Artikel  6.7  
-
-De vrijstelling, bedoeld in artikel 6.1, en de ontheffing, bedoeld in artikel 6.2, zijn van kracht tot en met 18 september 2010.  
 
 ### §  7  [GERESERVEERD]  
 

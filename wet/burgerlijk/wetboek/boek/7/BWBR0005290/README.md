@@ -355,7 +355,7 @@ e. techniek voor communicatie op afstand: een middel dat zonder gelijktijdige pe
 
 f. communicatietechniekexploitant: een natuurlijke persoon of rechtspersoon die zijn bedrijf maakt van het ter beschikking stellen van één of meer technieken voor communicatie op afstand aan verkopers of dienstverleners;  
 
-g. richtlijn: richtlijn nr. 97/7/EG van het Europees Parlement en de Raad van de Europese Unie van 20 mei 1997 betreffende de bescherming van de consument bij op afstand gesloten overeenkomsten (PbEG L 144);  
+g. richtlijn nr. 97/7/EG: richtlijn nr. 97/7/EG van het Europees Parlement en de Raad van de Europese Unie van 20 mei 1997 betreffende de bescherming van de consument bij op afstand gesloten overeenkomsten (PbEG L 144);  
 
 h. richtlijn nr. 2002/65/EG: richtlijn nr. 2002/65/EG van het Europees Parlement en de Raad van de Europese Unie van 23 september 2002 betreffende de verkoop op afstand van financiële diensten aan consumenten (PbEG L 271).    
 
@@ -472,7 +472,7 @@ b. betreffende weddenschappen en loterijen.
 
 1.  Van deze afdeling kan niet ten nadele van de koper dan wel de wederpartij worden afgeweken.   
 2.  Lid 1 is niet van toepassing op artikel 46f lid 1.   
-3.  De toepasselijkheid op de overeenkomst van een recht dat de door de richtlijn nr. 97/7/EG respectievelijk richtlijn nr. 2002/65/EG voorziene bescherming niet of slechts ten dele biedt, kan er niet toe leiden dat de koper dan wel de wederpartij de bescherming verliest die hem krachtens de richtlijn nr. 97/7/EG respectievelijk richtlijn nr. 2002/65/EG wordt geboden door de dwingende bepalingen van het recht van de lid-staat van de Europese Unie of de andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, waar hij zijn gewone verblijfplaats heeft.   
+3.  De toepasselijkheid op de overeenkomst van een recht dat de door richtlijn nr. 97/7/EG respectievelijk richtlijn nr. 2002/65/EG voorziene bescherming niet of slechts ten dele biedt, kan er niet toe leiden dat de koper dan wel de wederpartij de bescherming verliest die hem krachtens richtlijn nr. 97/7/EG respectievelijk richtlijn nr. 2002/65/EG wordt geboden door de dwingende bepalingen van het recht van de lid-staat van de Europese Unie of de andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, waar hij zijn gewone verblijfplaats heeft.   
 
 ### Afdeling  10  
 
@@ -644,7 +644,7 @@ d. geld: op een rekening of deposito gecrediteerd tegoed in geld;
 
 e. effecten: aandelen en andere met aandelen gelijk te stellen effecten, obligaties en andere schuldinstrumenten indien deze op de kapitaalmarkt verhandelbaar zijn, en alle andere gewoonlijk verhandelde effecten waarmee die aandelen, obligaties of andere effecten via inschrijving, koop of omruiling kunnen worden verkregen of die aanleiding kunnen geven tot afwikkeling in geld met uitsluiting van waardepapieren die een betalingsopdracht belichamen, inclusief rechten van deelneming in instellingen voor collectieve belegging, geldmarktinstrumenten en vorderingen op of rechten ten aanzien van een van de voornoemde instrumenten;  
 
-f. kredietvordering: een geldvordering voortvloeiend uit een overeenkomst waarbij een kredietinstelling als bedoeld in [artikel 1:1 Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) krediet verschaft in de vorm van een lening met uitzondering van geldvorderingen waarbij de debiteur een natuurlijk persoon is die niet handelt in de uitoefening van beroep of bedrijf, tenzij de zekerheidsnemer of zekerheidsverschaffer van een dergelijke kredietvordering een van de instellingen is als genoemd in artikel 52 lid 1 onder b;  
+f. kredietvordering: een geldvordering voortvloeiend uit een overeenkomst waarbij een bank als bedoeld in [artikel 1:1 Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) krediet verschaft in de vorm van een lening met uitzondering van geldvorderingen waarbij de debiteur een natuurlijk persoon is die niet handelt in de uitoefening van beroep of bedrijf, tenzij de zekerheidsnemer of zekerheidsverschaffer van een dergelijke kredietvordering een van de instellingen is als genoemd in artikel 52 lid 1 onder b;  
 
 g. gelijkwaardige goederen: 
 
@@ -1324,7 +1324,7 @@ In geval van vestiging of overdracht van een beperkt recht op de verhuurde zaak,
 
 1.  De dood van de huurder of de verhuurder doet de huur niet eindigen.   
 2.  Indien de erfgenamen van de huurder niet bevoegd zijn de zaak aan een ander in gebruik te geven, kunnen zij, onderscheidenlijk zijn echtgenoot of geregistreerde partner in het geval zijn nalatenschap overeenkomstig [artikel 13 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) wordt verdeeld, gedurende zes maanden na het overlijden van hun erflater de overeenkomst op een termijn van tenminste een maand opzeggen.   
-3.  Indien een huurder twee of meer erfgenamen nalaat, is de verhuurder verplicht zijn medewerking te verlenen aan de toedeling van de rechten en verplichtingen van de overleden huurder uit de huurovereenkomst door de gezamenlijke erfgenamen aan een of meer van hen, tenzij de verhuurder tegen een of meer van de aangewezenen redelijke bezwaren heeft. De eerste zin is niet van toepassing indien de nalatenschap ingevolge [artikel 13 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) is verdeeld   
+3.  Indien een huurder twee of meer erfgenamen nalaat, is de verhuurder verplicht zijn medewerking te verlenen aan de toedeling van de rechten en verplichtingen van de overleden huurder uit de huurovereenkomst door de gezamenlijke erfgenamen aan een of meer van hen, tenzij de verhuurder tegen een of meer van de aangewezenen redelijke bezwaren heeft. De eerste zin is niet van toepassing indien de nalatenschap ingevolge [artikel 13 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) is verdeeld.   
 
 ### Artikel  230  
 
@@ -3199,7 +3199,9 @@ l. *consument:* niet in de uitoefening van zijn bedrijf of beroep handelende nat
 
 m. *duurzame drager:* hulpmiddel dat het de betaaldienstgebruiker mogelijk maakt de aan hem persoonlijk gerichte informatie op zodanige wijze op te slaan dat deze gedurende een voor het doel van de informatie toereikende periode kan worden geraadpleegd en waarmee de opgeslagen informatie ongewijzigd kan worden gereproduceerd;  
 
-n. *geldmiddelen:* chartaal geld, giraal geld of elektronisch geld als bedoeld in artikel 1, derde lid, onder b), van richtlijn nr. 2000/46/EG van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende de toegang tot de uitoefening van en het bedrijfseconomisch toezicht op de werkzaamheden van instellingen voor elektronisch geld (Pb L 275);  
+ma. *elektronischgeldinstelling:* elektronischgeldinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+n. *geldmiddelen:* chartaal geld, giraal geld of elektronisch geld als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
 o. *raamovereenkomst:* overeenkomst die de uitvoering beheerst van afzonderlijke en opeenvolgende betalingstransacties en die de verplichtingen en voorwaarden voor de opening van een betaalrekening kan omvatten;  
 
@@ -3281,6 +3283,25 @@ f. in afwijking van artikel 517 de betaaldienstverlener niet verplicht is wijzig
 2.  Voor nationale betalingstransacties worden de in het eerste lid genoemde bedragen verdubbeld.   
 3.  Voor vooraf betaalde betaalinstrumenten, bedoeld voor nationale betalingstransacties, worden de in het eerste lid genoemde bedragen verhoogd tot € 500.   
 4.  De artikelen 528 en 529 zijn ook van toepassing op elektronisch geld in de zin van artikel 514 onder n, tenzij de betaaldienstverlener van de betaler niet de mogelijkheid heeft de rekening of het instrument te blokkeren.   
+
+### Artikel  521a  
+
+1.  Een elektronischgeldinstelling betaalt, wanneer de houder van het elektronisch geld daarom verzoekt, de nominale waarde van het elektronisch geld terug.   
+2.  In de overeenkomst tussen de elektronischgeldinstelling en de houder van het elektronisch geld worden de terugbetalingsvoorwaarden duidelijk en opvallend vermeld en de houder van het elektronisch geld wordt in kennis gesteld van deze voorwaarden, voordat hij wordt gebonden door een overeenkomst of een aanbod.   
+3.  Voor terugbetaling kan slechts een vergoeding worden gevraagd, indien dit in de overeenkomst is vermeld overeenkomstig lid 2 en uitsluitend in de volgende gevallen: 
+
+a) indien wordt gevraagd om terugbetaling vóór de dag waarop de overeenkomst eindigt;  
+
+b) indien de overeenkomst voorziet in een dag waarop de overeenkomst eindigt en de houder van het elektronisch geld vóór die dag tot beëindiging van de overeenkomst overgaat; of  
+
+c) indien het verzoek tot terugbetaling meer dan een jaar na de dag van de beëindiging van de overeenkomst wordt gedaan.   Een vergoeding als hier bedoeld staat in redelijke verhouding tot de kosten die de elektronischgeldinstelling feitelijk heeft gemaakt.   
+4.  Indien de houder van het elektronisch geld verzoekt om terugbetaling vóór de beëindiging van de overeenkomst, kan hij hetzij gedeeltelijke, hetzij volledige terugbetaling verlangen.   
+5.  Indien de houder van het elektronisch geld terugbetaling verzoekt op de dag waarop de overeenkomst is beëindigd of binnen één jaar na die dag: 
+
+a) betaalt de elektronischgeldinstelling hem de volledige monetaire waarde van het uitgegeven elektronische geld terug; of  
+
+b) betaalt de elektronischgeldinstelling hem alle middelen terug waarom de houder van het elektronisch geld verzoekt, indien deze instelling een of meer andere bedrijfsactiviteiten dan de uitgifte van elektronisch geld met inachtneming van de daarvoor geldende regels uitoefent en het vóór het aangaan van de overeenkomst niet duidelijk was welk deel van die middelen zou worden gebruikt als elektronisch geld.     
+6.  De terugbetalingsrechten van een persoon die elektronisch geld aanvaardt en die geen consument is, worden, onverminderd de leden 3, 4 en 5, beheerst door wat is overeengekomen tussen de elektronischgeldinstelling en die persoon.   
 
 ### Afdeling  2  
 
@@ -3921,7 +3942,7 @@ c. indirect onderscheid: indien een ogenschijnlijk neutrale bepaling, maatstaf o
 1.  De werkgever mag geen onderscheid maken tussen werknemers op grond van een verschil in arbeidsduur in de voorwaarden waaronder een arbeidsovereenkomst wordt aangegaan, voortgezet dan wel opgezegd, tenzij een dergelijk onderscheid objectief gerechtvaardigd is. De opzegging van de arbeidsovereenkomst door de werkgever in strijd met de vorige zin of wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op het bepaalde in de vorige zin of terzake bijstand heeft verleend is vernietigbaar. Artikel 647, leden 2 en 3, is van toepassing.   
 2.  Een beding in strijd met lid 1 is nietig.   
 3.  De opzegging, bedoeld in de eerste zin van lid 1, maakt de werkgever niet schadeplichtig.   
-4.  De Commissie gelijke behandeling, genoemd in [artikel 11 van de Algemene wet gelijke behandeling](../../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in het eerste lid. De [artikelen 12](../../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), [13](../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [14](../../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), en [15 van de Algemene wet gelijke behandeling](../../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md) zijn van overeenkomstige toepassing.   
+4.  Het College, genoemd in [artikel 1 van de Wet College voor de rechten van de mens](../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in lid 1. De [artikelen 10](../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [11](../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [12](../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [13](../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [22](../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md) en [23 van de Wet College voor de rechten van de mens](../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md) zijn van overeenkomstige toepassing.   
 5.  De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op het bepaalde in lid 1 of terzake bijstand heeft verleend.   
 
 ### Artikel  649  
@@ -3929,7 +3950,7 @@ c. indirect onderscheid: indien een ogenschijnlijk neutrale bepaling, maatstaf o
 1.  De werkgever mag geen onderscheid maken tussen werknemers in de arbeidsvoorwaarden op grond van het al dan niet tijdelijke karakter van de arbeidsovereenkomst, tenzij een dergelijk onderscheid objectief gerechtvaardigd is.   
 2.  De opzegging van de arbeidsovereenkomst door de werkgever wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op het bepaalde in lid 1 of terzake bijstand heeft verleend, is vernietigbaar. Artikel 647 leden 2 en 3 is van toepassing.   
 3.  Een beding in strijd met lid 1 is nietig.   
-4.  De Commissie gelijke behandeling, genoemd in [artikel 11 van de Algemene wet gelijke behandeling](../../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in lid 1. De [artikelen 12](../../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), [13](../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [14](../../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), [en 15 van de Algemene wet gelijke behandeling](../../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md) zijn van overeenkomstige toepassing.   
+4.  Het College, genoemd in [artikel 1 van de Wet College voor de rechten van de mens](../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in lid 1. De [artikelen 10](../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [11](../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [12](../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [13](../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [22](../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md) en [23 van de Wet College voor de rechten van de mens](../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md) zijn van overeenkomstige toepassing.   
 5.  De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op het bepaalde in lid 1 of terzake bijstand heeft verleend.   
 6.  Het bepaalde in de leden 1 tot en met 5 is niet van toepassing op een uitzendovereenkomst als bedoeld in artikel 690.   
 
@@ -4150,7 +4171,7 @@ e. de ten aanzien van de werknemers overwogen maatregelen.
 
 ### Artikel  666  
 
-1.  De artikelen 662 tot en met 665, en artikel 670, lid 8, zijn niet van toepassing op de overgang van een onderneming indien de werkgever in staat van faillissement is verklaard en de onderneming tot de boedel behoort.   
+1.  De artikelen 662 tot en met 665, en artikel 670, lid 8, zijn niet van toepassing op de overgang van een onderneming indien de werkgever in staat van faillissement is verklaard en de onderneming tot de boedel behoort alsmede, indien de werkgever een bank in de zin van [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of een verzekeraar in de zin van dat artikel is, ten aanzien van de werkgever de noodregeling, bedoeld in [afdeling 3.5.5 van die wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is uitgesproken, de rechtbank een machtiging als bedoeld in [artikel 3:163, eerste lid, aanhef en onderdeel b](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft verleend, of indien de rechtbank een machtiging als bedoeld in artikel 3:163m, eerste lid, aanhef en onderdeel c, van die wet heeft verleend en de bewindvoerders overgaan tot liquidatie.   
 2.  Deze afdeling is niet van toepassing met betrekking tot de bemanning van een zeeschip.   
 
 ### Afdeling  9  

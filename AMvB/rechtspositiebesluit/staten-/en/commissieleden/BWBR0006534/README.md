@@ -43,9 +43,9 @@ b. indien door provinciale staten toepassing is gegeven aan artikel 4, dit lid e
 
 ### Artikel  2  
 
-1.  Aan een lid van provinciale staten wordt een vergoeding voor de werkzaamheden toegekend die ten hoogste € 12.948,63 per jaar bedraagt.   
+1.  Aan een lid van provinciale staten wordt een vergoeding voor de werkzaamheden toegekend die ten hoogste € 13.116,34 per jaar bedraagt.   
 2.  Het bedrag van de vergoeding voor de werkzaamheden wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van het door het Centraal Bureau voor de Statistiek voor de maand september van het voorafgaande kalenderjaar vastgestelde indexcijfer CAO lonen overheid, inclusief bijzondere beloningen.   
-3.  Aan een lid van provinciale staten wordt een onkostenvergoeding voor aan de uitoefening van het statenlidmaatschap verbonden kosten toegekend die ten hoogste € 88,90 per maand bedraagt.   
+3.  Aan een lid van provinciale staten wordt een onkostenvergoeding voor aan de uitoefening van het statenlidmaatschap verbonden kosten toegekend die ten hoogste € 90,94 per maand bedraagt.   
 4.  Het bedrag, genoemd in het derde lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar.   
 
 ### Artikel  3  
@@ -109,7 +109,7 @@ b. de duur van het fractievoorzitterschap.
 ### Artikel  8  
 
 1.  Provinciale staten kunnen bij verordening bepalen dat een lid van provinciale staten met ingang van de dag van zijn aftreden een uitkering ten laste van de provincie ontvangt, naar in de verordening te stellen regels.   
-2.  De uitkering heeft een maximumduur van twee jaar en bedraagt in het eerste jaar ten hoogste 80% en in het tweede jaar ten hoogste 70% van het op het moment van aftreden geldende bedrag van de vergoeding voor de werkzaamheden, eventueel vermeerderd met het bedrag van de in het jaar voor het aftreden ontvangen vergoeding, bedoeld in artikel 4. De uitkering eindigt in ieder geval met ingang van de maand volgend op die waarop de leeftijd van 65 jaar wordt bereikt.   
+2.  De uitkering heeft een maximumduur van twee jaar en bedraagt in het eerste jaar ten hoogste 80% en in het tweede jaar ten hoogste 70% van het op het moment van aftreden geldende bedrag van de vergoeding voor de werkzaamheden, eventueel vermeerderd met het bedrag van de in het jaar voor het aftreden ontvangen vergoeding, bedoeld in artikel 4. De uitkering eindigt in ieder geval met ingang van de maand volgend op die waarop de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), wordt bereikt.   
 3.  Provinciale staten kunnen bij verordening bepalen dat geen recht op op uitkering bestaat indien het lid van provinciale staten van zijn lidmaatschap vervallen is verklaard ingevolge [artikel X 7 van de Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md).   
 4.  Dit artikel is niet van toepassing op een lid van provinciale staten dat is benoemd in de plaats die is opengevallen als gevolg van het tijdelijk ontslag van een lid van provinciale staten wegens zwangerschap en bevalling of ziekte, ingevolge [artikel X 12 van de Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md).   
 
@@ -149,7 +149,7 @@ c. de vergoeding, bedoeld in artikel 6a, derde lid.
 
 ### Artikel  13  
 
-Provinciale staten kunnen bij verordening bepalen dat aan een lid van een commissie een vergoeding voor het bijwonen van de vergaderingen van de commissie wordt toegekend tot het maximumbedrag van € 104,08. Het artikel 2, tweede lid, is van overeenkomstige toepassing. Provinciale staten kunnen bij verordening bepalen dat artikel 6a of artikel 11 geheel of gedeeltelijk van overeenkomstige toepassing is.  
+Provinciale staten kunnen bij verordening bepalen dat aan een lid van een commissie een vergoeding voor het bijwonen van de vergaderingen van de commissie wordt toegekend tot het maximumbedrag van € 105,43. Het artikel 2, tweede lid, is van overeenkomstige toepassing. Provinciale staten kunnen bij verordening bepalen dat artikel 6a of artikel 11 geheel of gedeeltelijk van overeenkomstige toepassing is.  
 
 ### Artikel  14  
 

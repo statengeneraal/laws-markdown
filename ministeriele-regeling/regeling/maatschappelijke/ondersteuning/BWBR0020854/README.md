@@ -33,7 +33,7 @@ f. *bureau jeugdzorg:* een stichting als bedoeld in [artikel 4 van de Wet op de 
 
 ### Artikel  2  
 
-1.  Als rechtspersoon als bedoeld in [artikel 16 van de wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) wordt aangewezen het centraal administratiekantoor, bedoeld in [artikel 1, onderdeel b, van het Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md).   
+1.  Als rechtspersoon als bedoeld in [artikel 16 van de wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) wordt aangewezen het CAK, genoemd in [artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).   
 2.  Als instelling als bedoeld in [artikel 20, vierde lid, van de wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md), voor zover het betreft het registreren van werkzaamheden betreffende maatschappelijke opvang en vrouwenopvang wordt aangewezen Prismant, gevestigd te Utrecht.   
 3.  Als instelling als bedoeld in [artikel 20, vierde lid, van de wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md), voor zover het betreft het registreren van werkzaamheden betreffende verslavingsbeleid wordt aangewezen de Stichting Databeheer Zorg, gevestigd te Houten.   
 
@@ -255,7 +255,7 @@ De bevoegdheid tot het verstrekken van een uitkering als bedoeld in [artikel 19a
 
 ### Artikel  6g  
 
-De uitkering bedraagt voor het jaar 2011 € 250.  
+De uitkering bedraagt voor het jaar 2013 €200.  
 
 ### Artikel  6h  
 

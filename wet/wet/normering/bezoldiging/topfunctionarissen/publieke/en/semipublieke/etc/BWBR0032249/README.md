@@ -179,9 +179,9 @@ In afwijking van artikel 2.1 komen partijen met betrekking tot de leden, ondersc
 
 a. de sociale verzekeringspremies,  
 
-b. € 7559 wegens belastbare vaste en variabele onkostenvergoedingen en  
+b. € 8069 wegens belastbare vaste en variabele onkostenvergoedingen en  
 
-c. € 28 767 wegens de voorzieningen ten behoeve van beloningen betaalbaar op termijn.     
+c. € 33 190 wegens de voorzieningen ten behoeve van beloningen betaalbaar op termijn.     
 2.  De bedragen, bedoeld in het eerste lid, worden jaarlijks bij ministeriële regeling gewijzigd. De wijziging wordt bekend gemaakt vóór 1 november voorafgaand aan het jaar waarop de wijziging betrekking heeft.   
 3.  De wijzigingen, bedoeld in het tweede lid, worden als volgt berekend: 
 
@@ -490,7 +490,29 @@ I. W. Opstelten
 
 1. De krachtens [artikel 70, eerste lid, van de Woningwet](../../../../../../../../../../wet/woningwet/BWBR0005181/README.md) toegelaten rechtpersonen.  
 
-2. De Stichting Centrum voor Arbeidsverhoudingen Overheidspersoneel te Den Haag.   
+2. De Stichting Centrum voor Arbeidsverhoudingen Overheidspersoneel te Den Haag.  
+
+3. De Stichting Forum, Instituut voor Multiculturele Vraagstukken te Utrecht.  
+
+4. De Stichting Huis voor democratie en rechtsstaat te Den Haag.  
+
+5. De Oorlogsgravenstichting te Den Haag.  
+
+6. De Stichting Europa Decentraal, Kenniscentrum Europees Recht en Beleid voor decentrale overheden te Den Haag.  
+
+7. De Vereniging Nederlandse Woonbond te Amsterdam.  
+
+8. De Stichting A+O Fonds Rijk te Den Haag.  
+
+9. De Stichting Verbond Sectorwerkgevers Overheid (VSO) te Den Haag.  
+
+10. De Stichting Bouwkwaliteit te Rijswijk.  
+
+11. De Stichting Platform 31 te Den Haag.  
+
+12. De Stichting Waarborgfonds Eigen Woningen te Zoetermeer.  
+
+13. De Stichting Waarborgfonds Sociale Woningbouw te Hilversum.   
 ###Ministerie van Infrastructuur en Milieu
 
 1. De drinkwaterbedrijven, bedoeld in [artikel 1 van de Drinkwaterwet](../../../../../../../../../../wet/drinkwaterwet/BWBR0026338/README.md).  
@@ -530,7 +552,7 @@ I. W. Opstelten
 
 16. De Stichting Expertisecentrum Beroepsonderwijs (ECBO) te ’s-Hertogenbosch.  
 
-17. De instellingen, bedoeld in de [artikelen 1.1.1, onderdeel b, onder 1° tot en met 3°](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [12.3.8](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [12.3.9 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), behoudens de privaatrechtelijke rechtspersoon die tevens is toegelaten op grond van [artikel 5 van de Wet toelating zorginstellingen](../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md).  
+17. De instellingen, bedoeld in de [artikelen 1.1.1, onderdeel b, onder 1° en 2°](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [12.3.8](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [12.3.9 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), behoudens de privaatrechtelijke rechtspersoon die tevens is toegelaten op grond van [artikel 5 van de Wet toelating zorginstellingen](../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md).  
 
 18. De kenniscentra beroepsonderwijs bedrijfsleven, bedoeld in [artikel 1.1.1, onderdeel b1, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met uitzondering van het kenniscentrum beroepsonderwijs bedrijfsleven op het gebied van landbouw en de natuurlijke omgeving.  
 
@@ -538,13 +560,13 @@ I. W. Opstelten
 
 20. De instellingen, bedoeld in [artikel 1.2, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), behoudens de instellingen waarvoor Onze Minister van Economische Zaken, Landbouw en Innovatie verantwoordelijk is.  
 
-21. De landelijke publieke media-instellingen, NPO, de Ster en de Wereldomroep, bedoeld in [artikel 1.1 van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md), met uitzondering van de kerkgenootschappen en genootschappen op geestelijke grondslag, bedoeld in [artikel 2.42 van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md), doch met inbegrip van door deze genootschappen opgerichte rechtspersonen als bedoeld in [artikel 2.49, derde lid, van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md).  
+21. De landelijke publieke media-instellingen, NPO en de Ster, bedoeld in [artikel 1.1 van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md), met uitzondering van de kerkgenootschappen en genootschappen op geestelijke grondslag, bedoeld in [artikel 2.42 van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md), doch met inbegrip van door deze genootschappen opgerichte rechtspersonen als bedoeld in [artikel 2.49, derde lid, van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md).  
 
 22. De instellingen, bedoeld in [artikel 2.146, onderdelen i en j, van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md).  
 
 23. De instellingen die een vierjaarlijkse instellingssubsidie ontvangen krachtens [artikel 4a van de Wet op het specifiek cultuurbeleid](../../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md).  
 
-24. De Stichting Kennisnet te Zoetermeer.  
+24. Stichting Dedicon te Grave.  
 
 25. De Stichting Surf te Utrecht.  
 
@@ -553,9 +575,9 @@ I. W. Opstelten
 27. De Stichting Nederlandse organisatie voor internationale samenwerking in het hoger onderwijs (NUFFIC) te Den Haag.  
 
 28. De Stichting Platform Bèta en Techniek te Den Haag.   
-###Ministerie van Economische Zaken, Landbouw en Innovatie
+###Ministerie van Economische Zaken
 
-1. De instellingen, bedoeld in [artikel 1.1.1, onderdeel b, onder 4°, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  
+1. De instellingen, bedoeld in [artikel 1.1.1, onderdeel b, onder 3°, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  
 
 2. Het kenniscentrum beroepsonderwijs bedrijfsleven, bedoeld in [artikel 1.1.1, onderdeel b1, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) op het gebied van de landbouw en de natuurlijke omgeving.  
 
@@ -618,14 +640,16 @@ c. tot doel hebben de onder a en b bedoelde organisaties te professionaliseren o
 
 1. In Nederland gevestigde rechtspersonen die een subsidie ontvangen krachtens de [Kaderwet subsidies Ministerie van Buitenlandse Zaken](../../../../../../../../../../wet/kaderwet/subsidies/ministerie/van/buitenlandse/zaken/BWBR0010178/README.md) ten behoeve van de integrale kosten van de werkzaamheden van een instelling.  
 
-2. In Nederland gevestigde rechtspersonen die een subsidie ontvangen krachtens de Kaderwet subsidies Ministerie van Buitenlandse Zaken die tezamen met een andere vanwege de centrale overheid verstrekte subsidie meer bedraagt dan 50% van de jaarlijkse inkomsten van de rechtspersoon.   
+2. In Nederland gevestigde rechtspersonen die een subsidie ontvangen krachtens de Kaderwet subsidies Ministerie van Buitenlandse Zaken die tezamen met een andere vanwege de centrale overheid verstrekte subsidie meer bedraagt dan 50% van de jaarlijkse inkomsten van de rechtspersoon.  
+
+3. De Stichting Radio Nederland Wereldomroep, bedoeld in [artikel 2.72 van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md).   
 ###Ministerie van Financiën
 
 1. Het Waarborgfonds Motorverkeer, bedoeld in [artikel 23, eerste lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md).  
 
 2. Het informatiecentrum, bedoeld in [artikel 27b, eerste lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md).  
 
-3. In Nederland gevestigde algemeen nut beogende instellingen als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001](../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
+3. In Nederland gevestigde algemeen nut beogende instellingen als bedoeld in [artikel 5b van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).   
 
 ### Bijlage  2  
 

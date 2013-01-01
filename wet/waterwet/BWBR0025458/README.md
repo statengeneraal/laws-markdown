@@ -573,8 +573,7 @@ De in artikel 5.8, eerste lid, bedoelde besluiten worden, voor zover zij gecoör
 
 ### Artikel  5.13  
 
-1.  Tegen een besluit als bedoeld in de artikelen 5.7, eerste lid, en 5.8, eerste lid, kan beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.   
-2.  In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vangt de termijn voor het indienen van een beroepschrift tegen de besluiten, bedoeld in artikel 5.8, eerste lid, aan met ingang van de dag na die waarop de in artikel 5.12 bedoelde bekendmaking is geschied.   
+In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vangt de termijn voor het indienen van een beroepschrift tegen de besluiten, bedoeld in artikel 5.8, eerste lid, aan met ingang van de dag na die waarop de in artikel 5.12 bedoelde bekendmaking is geschied.  
 
 ### Artikel  5.14  
 

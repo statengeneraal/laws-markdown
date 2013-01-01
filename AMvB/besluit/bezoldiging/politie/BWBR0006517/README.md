@@ -20,37 +20,33 @@ Hebben goedgevonden en verstaan:
 
 1.  Dit besluit verstaat onder: 
 
-a. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
+a. Onze Minister: Onze Minister van Veiligheid en Justitie;  
 
 b. aspirant: degene die door het bevoegd gezag is aangesteld als aspirant en die is toegelaten tot een initiële opleiding;  
 
-c. ambtenaar, aangesteld voor de uitvoering van de politietaak: de ambtenaar, bedoeld in [artikel 3, eerste lid, onderdeel a, van de Politiewet 1993](../../../../../wet/politiewet/1993/BWBR0006299/README.md), met uitzondering van de aspirant gedurende het theoretische opleidingsdeel;  
+c. ambtenaar, aangesteld voor de uitvoering van de politietaak: de ambtenaar, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md), met uitzondering van de aspirant gedurende het theoretische opleidingsdeel, waarbij voor de toepassing van dit besluit de ambtenaar van de rijksrecherche, aangesteld voor de uitvoering van de politietaak, gelijk wordt gesteld aan de ambtenaar, bedoeld in artikel 2, onderdeel a, van de Politiewet 2012;  
 
-d. ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie: de ambtenaar, bedoeld in [artikel 3, eerste lid, onderdeel b, van de Politiewet 1993](../../../../../wet/politiewet/1993/BWBR0006299/README.md), waarbij voor de toepassing van dit besluit de ambtenaar, bedoeld in [artikel 10, eerste lid, onderdelen a en b, van de Wet op het LSOP en het politieonderwijs](../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md), werkzaam bij het LSOP en de ambtenaar werkzaam bij een voorziening tot samenwerking, worden gelijkgesteld met ambtenaren van politie, bedoeld in [artikel 3, eerste lid, onderdeel b, van de Politiewet 1993](../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+d. ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie: de ambtenaar, bedoeld in [artikel 2, onderdeel b, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md), waarbij voor de toepassing van dit besluit de ambtenaar, bedoeld in [artikel 10, eerste lid, onderdelen a en b, van de Wet op het LSOP en het politieonderwijs](../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md), werkzaam bij het LSOP en de ambtenaar van de rijksrecherche, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de rijksrecherche, wordt gelijkgesteld met ambtenaren van politie, bedoeld in artikel 2, onderdeel b, van de Politiewet 2012;  
 
-e. bijzondere ambtenaar van politie: de ambtenaar, bedoeld in [artikel 3, tweede lid, van de Politiewet 1993](../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+e. ambtenaar van de rijksrecherche: de ambtenaar, bedoeld in [artikel 2, onderdeel d, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
 f. vakantiewerker: een scholier of student die ten tijde van onderbreking van zijn opleiding wegens vakantie voor een periode van ten hoogste acht weken is aangesteld voor het verrichten van ondersteunende werkzaamheden;  
 
-g. voorziening tot samenwerking: een publiekrechtelijke rechtspersoon als bedoeld in [artikel 47a, eerste lid, van de Politiewet 1993](../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+g.  vervallen;   
 
 h. het LSOP: het Landelijk selectie- en opleidingsinstituut politie, bedoeld in [artikel 2 van de Wet op het LSOP en het politieonderwijs](../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md);  
 
-i. ambtenaar: de aspirant, de ambtenaar, aangesteld voor de uitvoering van de politietaak, de ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, de bijzondere ambtenaar van politie en de vakantiewerker;  
+i. ambtenaar: de aspirant, de ambtenaar, aangesteld voor de uitvoering van de politietaak, de ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, de ambtenaar van de rijksrecherche en de vakantiewerker;  
 
 j. bevoegd gezag: 
 
-1°. de korpsbeheerder, voor zover het betreft de aspirant, de ambtenaar, aangesteld voor de uitvoering van de politietaak en de ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, die werkzaam is bij een regionaal politiekorps;  
+1. de korpschef, bedoeld in [artikel 27, Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md), voor zover het betreft de aspirant, de ambtenaar, aangesteld voor de uitvoering van de politietaak en de ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, die werkzaam is bij een eenheid zoals bedoeld in [artikel 1, eerste lid, onderdeel b, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
-2°. Onze Minister, voor zover het betreft de aspirant, de ambtenaar, aangesteld voor de uitvoering van de politietaak en de ambtenaar, aangesteld voor de uitvoering van de technische, administratieve en andere taken ten dienste van de politie, die werkzaam is bij het Korps landelijke politiediensten;  
+2. de raad van toezicht van het LSOP, voor zover het betreft de ambtenaren, bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet op het LSOP en het politieonderwijs](../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md);  
 
-3°. Onze Minister van Justitie, voor zover het betreft de bijzondere ambtenaar van politie;  
+3. het college van bestuur van het LSOP, voor zover het betreft de ambtenaren, bedoeld in [artikel 10, eerste lid, onderdeel b, van de Wet op het LSOP](../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md) en het politieonderwijs;  
 
-4°. de raad van toezicht van het LSOP, voor zover het betreft de ambtenaren, bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet op het LSOP en het politieonderwijs](../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md);  
-
-5°. het college van bestuur van het LSOP, voor zover het betreft de ambtenaren, bedoeld in [artikel 10, eerste lid, onderdeel b, van de Wet op het LSOP en het politieonderwijs](../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md);  
-
-6°. het algemeen bestuur van een voorziening tot samenwerking, voor zover het betreft de ambtenaren aangesteld bij de desbetreffende voorziening tot samenwerking;    
+4. het College van procureurs-generaal, voor zover het betreft de ambtenaar van de rijksrecherche;    
 
 k. volledige betrekking: een betrekking die een arbeidstijd van gemiddeld 36 uur per week omvat;  
 
@@ -120,11 +116,11 @@ qq. ZW-uitkering: ziekengeld als bedoeld in [artikel 19 van de Ziektewet](../../
 
 rr. zijn arbeid: hetgeen daaronder wordt verstaan ingevolge [artikel 19 van de Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md);  
 
-ss. initiële opleiding: een door Onze Minister in overeenstemming met de Minister van Justitie aangewezen opleiding, gericht op de voorbereiding van de uitvoering van algemene politietaken waarvoor in het kader van de landelijke kwalificatiestructuur, bedoeld in [artikel 14 van de Wet op het LSOP en het politieonderwijs](../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md), competentiegerichte eindtermen zijn vastgesteld;  
+ss. initiële opleiding: een door Onze Minister aangewezen opleiding, gericht op de voorbereiding van de uitvoering van algemene politietaken waarvoor in het kader van de landelijke kwalificatiestructuur, bedoeld in [artikel 14 van de Wet op het LSOP en het politieonderwijs](../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md), competentiegerichte eindtermen zijn vastgesteld;  
 
 tt. theoretisch opleidingsdeel: de periode of perioden waarin de aspirant aan een opleidingsinstituut in het kader van de initiële opleiding onderwijs volgt;  
 
-uu. praktisch opleidingsdeel: de periode of perioden waarin de aspirant de politietaak bij een regionaal politiekorps of bij het Korps landelijke politiediensten uitvoert in het kader van de initiële opleiding;  
+uu. praktische opleidingsdeel: de periode of perioden waarin de aspirant de politietaak bij een regionale eenheid of een landelijke eenheid uitvoert in het kader van de initiële opleiding;  
 
 vv. LFNP: Landelijk Functiegebouw Nederlandse Politie: het door Onze Minister vastgestelde geheel van functiebeschrijvingen, onderverdeeld naar vakgebieden, inclusief de waardering, en de aan het gebouw verbonden en omschreven werkterreinen, aandachtsgebieden en specifieke functionaliteiten.     
 2.  Voor de toepassing van dit besluit wordt onder echtgenote of echtgenoot mede verstaan de geregistreerde partner alsmede de niet-gehuwde ambtenaar die met een levenspartner samenwoont en – met het oogmerk duurzaam samen te leven – een gemeenschappelijke huishouding voert op basis van een notarieel verleden samenlevingscontract bevattende de wederzijdse rechten en verplichtingen ter zake van die samenwoning en gemeenschappelijke huishouding. Onder weduwe of weduwnaar wordt mede begrepen de achtergebleven geregistreerde partner alsmede de achtergebleven levenspartner. Tegelijkertijd kan slechts een persoon als echtgenoot of echtgenote dan wel weduwe of weduwnaar worden aangemerkt. Het bevoegd gezag kan verlangen dat een schriftelijke verklaring van een notaris wordt overgelegd waaruit blijkt dat een samenlevingscontract als bedoeld in de eerste volzin is gesloten.   
@@ -250,6 +246,7 @@ d. indien de ambtenaar, die is aangewezen als herplaatsingkandidaat als bedoeld 
 
 1.  Bij de aanstelling wordt het salaris vastgesteld op het minimum van de voor de ambtenaar geldende salarisschaal van bijlage I bij dit besluit.   
 2.  Van het eerste lid kan worden afgeweken door het toekennen van een hoger salaris in de voor de ambtenaar geldende salarisschaal, indien daartoe naar het oordeel van het bevoegd gezag aanleiding bestaat.   
+3.  Bij de aanstelling van de korpschef wordt zijn salaris vastgesteld conform bijlage IA.   
 
 ### Artikel  9  
 
@@ -278,7 +275,8 @@ Het salaris van de ambtenaar met een andere betrekking dan een volledige betrekk
 
 ### Artikel  12  
 
-Bij bijzondere prestaties kan een gratificatie worden toegekend.  
+1.  Bij bijzondere prestaties kan een gratificatie worden toegekend.   
+2.  Het eerste lid is niet van toepassing op de ambtenaar wiens salarisschaal 15 of hoger bedraagt.   
 
 ### Hoofdstuk  4  
 
@@ -294,6 +292,7 @@ a. over de uren in het tijdvak van maandag tot en met donderdag van 21.00 tot 07
 b. over de uren in het tijdvak van 22.00 tot 07.00 uur in de weekendnachtdiensten, daaronder begrepen de diensten in de nacht voor en de nacht na een weekend of een feestdag, genoemd in het derde lid, € 5,73.     
 3.  Hetgeen in het tweede lid ten aanzien van het verrichten van dienst op zaterdag en zondag is bepaald, geldt mede voor het verrichten van dienst op de Nieuwjaarsdag, de tweede Paasdag, de Hemelvaartsdag, de tweede Pinksterdag, de beide Kerstdagen en de dag waarop de verjaardag van de Koning wordt gevierd.   
 4.  De operationele toelage wordt in gevallen van zwangerschap en ziekte van de ambtenaar gesteld op het bedrag dat de ambtenaar in de drie perioden van vier weken, onmiddellijk voorafgaande aan de periode van vier weken waarin de ziekte is aangevangen, gemiddeld aan toelage op grond van dit artikel heeft genoten.   
+5.  Het eerste tot en met vierde lid zijn niet van toepassing op de ambtenaar wiens salarisschaal 15 of hoger bedraagt.   
 
 ### Artikel  15  
 
@@ -311,6 +310,7 @@ d. het beëindigen of verminderen van de operationele toelage, bedoeld onder a, 
 4.  Voor de toepassing van dit artikel wordt onder wezenlijke onderbreking verstaan een onderbreking van langer dan twee maanden.   
 5.  Voor de ambtenaar die is aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie en geen deelnemer is zoals bedoeld in artikel B.3, tweede lid, van het AFUP-opbouwreglement dan wel geen ambtenaar is als bedoeld in de eerste volzin van [artikel 88, eerste lid, van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), wordt in het tweede en derde lid van dit artikel in plaats van «55 jaar» telkens gelezen: 60 jaar.   
 6.  Onze Minister stelt nadere regels vast over de berekeningswijze van de toelage en over de gevallen waarin sprake is van een blijvende of tijdelijke verlaging van de bezoldiging als bedoeld in het eerste lid.   
+7.  Het eerste en het tweede lid zijn niet van toepassing op de ambtenaar wiens salarisschaal 15 of hoger bedraagt.   
 
 ### Hoofdstuk  5  
 
@@ -318,17 +318,25 @@ d. het beëindigen of verminderen van de operationele toelage, bedoeld onder a, 
 
 ### Artikel  16  
 
-1.  Indien naar het oordeel van het bevoegd gezag sprake is van zeer goede of uitstekende vervulling van de functie kan voor de duur van een jaar een toelage worden toegekend aan de ambtenaar die het maximumsalaris van de voor hem geldende salarisschaal heeft bereikt.   
+1.  Indien naar het oordeel van het bevoegd gezag sprake is van zeer goede of uitstekende vervulling van de functie kan voor de duur van een jaar een toelage worden toegekend aan de ambtenaar die het maximumsalaris van de voor hem geldende salarisschaal heeft bereikt indien de salarisschaal niet meer dan schaal 14 bedraagt.   
 2.  Indien naar het oordeel van het bevoegd gezag sprake is van zeer goede of uitstekende vervulling van de functie en daartoe op grond van bijzondere omstandigheden aanleiding bestaat, kan een toelage voor een langere duur dan een jaar worden toegekend.   
-3.  De toelage bedraagt voor de ambtenaar 
+3.  De toelage bedraagt voor de ambtenaar: 
 
 a. ingedeeld in schaal 1 tot en met 9 van bijlage I van dit besluit: ten hoogste 6% van het voor de ambtenaar geldende maximumsalaris;  
 
 b. ingedeeld in schaal 10, 11, 12 of 13 van bijlage I van dit besluit: ten hoogste 9% van het voor de ambtenaar geldende maximumsalaris;  
 
-c. ingedeeld in schaal 14 of 15 van bijlage I van dit besluit: ten hoogste 12% van het voor de ambtenaar geldende maximumsalaris;  
+c. ingedeeld in schaal 14 van bijlage I van dit besluit: ten hoogste 12% van het voor de ambtenaar geldende maximumsalaris.     
 
-d. ingedeeld in schaal 16, 17 of 18 van bijlage I van dit besluit: ten hoogste 15% van het voor de ambtenaar geldende maximumsalaris.     
+### Artikel  16a  
+
+1.  Aan de ambtenaar wiens salarisschaal 15 of hoger is kan het bevoegd gezag een incidentele toelage toekennen vanwege uitzonderlijke prestaties die het voldoende functioneren overtreffen.   
+2.  De toekenning uit het eerste lid is alleen mogelijk in de volgende situaties: 
+
+a. het behalen van uitzonderlijke resultaten waarover vooraf werk- en prestatieafspraken zijn gemaakt; of  
+
+b. het leveren van eenmalige onvoorziene uitzonderlijke prestaties.     
+3.  De incidentele toelage bedraagt op jaarbasis maximaal één maandsalaris.   
 
 ### Artikel  17  
 
@@ -347,7 +355,7 @@ d. ingedeeld in schaal 16, 17 of 18 van bijlage I van dit besluit: ten hoogste 1
 ### Artikel  18  
 
 1.  Aan de ambtenaar aan wie consignatie wordt opgelegd, wordt, behoudens het derde lid, een toelage toegekend. Onder consignatie wordt verstaan het zich in opdracht van het daartoe bevoegde gezag bereikbaar en beschikbaar houden teneinde bij oproep dienst te gaan verrichten. Consignatie wordt slechts opgedragen boven de voor de ambtenaar krachtens [artikel 12 van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) vastgestelde diensttijden.   
-2.  Consignatie kan niet worden opgedragen boven een door het bevoegd gezag of een door deze daartoe aangewezen ambtenaar vast te stellen aantal uren per jaar, met dien verstande dat dit maximum niet geldt voor de ambtenaar die het overleg met de Regionale Commissie, de Commissie Korps landelijke politiediensten, de Commissie bijzondere ambtenaren van politie, de Commissie LSOP of een Commissie voorziening tot samenwerking, bedoeld in de [artikelen 12](../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), [21](../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), [22](../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), [22a](../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md) onderscheidenlijk [22b van het Besluit overleg en medezeggenschap politie](../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), pleegt.   
+2.  Consignatie kan niet worden opgedragen boven een door het bevoegd gezag of een daartoe aangewezen ambtenaar vast te stellen aantal uren per jaar, met dien verstande dat dit maximum niet geldt voor de Commissie LSOP.   
 3.  Voor consignatie gedurende een tijdvak van korter dan een half uur boven de voor de ambtenaar vastgestelde dagelijkse diensttijd wordt geen toelage toegekend.   
 4.  De toelage voor consignatie bedraagt € 1,00 voor elk uur dat de ambtenaar consignatie is opgelegd.   
 5.  De in het vierde lid genoemde toelage wordt zo spoedig mogelijk uitbetaald, doch uiterlijk bij gelegenheid van de tweede salarisbetaling volgende op de periode van vier weken waarin consignatie is verricht.   
@@ -356,14 +364,47 @@ d. ingedeeld in schaal 16, 17 of 18 van bijlage I van dit besluit: ten hoogste 1
 8.  Voor de toepassing van dit artikel worden gedeelten van uren, voorzover daarmee het half uur, bedoeld in het derde lid, wordt overschreden, berekend over een periode van vier weken, opgeteld en naar boven afgerond op halve uren.   
 9.  De toelage voor consignatie wordt in geval van ziekte van de ambtenaar gesteld op het bedrag dat de ambtenaar in de drie perioden van vier weken, onmiddellijk voorafgaande aan de periode van vier weken waarin de ziekte is aangevangen, gemiddeld aan toelage op grond van dit artikel heeft genoten.   
 10.  Voor de toepassing van dit artikel berust het oordeel omtrent het dienstbelang bij het bevoegd gezag dan wel bij de door deze aangewezen ambtenaar.   
+11.  Het eerste lid is niet van toepassing op de ambtenaar wiens salarisschaal 15 of hoger bedraagt.   
 
 ### Artikel  19  
 
-Aan de ambtenaar kan een toelage worden toegekend om reden van werving of behoud tot een maximum van € 45 400,- per kalenderjaar.  
+1.  Aan de ambtenaar kan een toelage worden toegekend om reden van werving of behoud tot een maximum van € 45.400,– per kalenderjaar.   
+2.  Het eerste lid is niet van toepassing op de ambtenaar wiens salarisschaal 15 of hoger bedraagt.   
 
 ### Artikel  20  
 
-Aan de ambtenaar kan als tegemoetkoming in de representatiekosten een toelage worden toegekend tot een maximum van 5% van het salaris.  
+1.  Aan de ambtenaar kan als tegemoetkoming in de representatiekosten een toelage worden toegekend tot een maximum van 5% van het salaris.   
+2.  De ambtenaar die een vergoeding als bedoeld in het eerste lid ontvangt, kan de volgende kosten niet declareren: 
+
+a. kosten in verband met aanschaf van kleding en schoeisel;  
+
+b. kosten in verband met aanpassing en inrichting van de eigen woning;  
+
+c. kosten in verband met persoonlijke verzorging;  
+
+d. kosten in verband met ontvangsten van bescheiden omvang in de eigen woning;  
+
+e. fooien;  
+
+f. het aanbieden van een drankje en rookwaar aan een zakenrelatie tijdens een bespreking, anders dan een lunch of een diner;  
+
+g. het aanbieden van attenties of geschenken ter zake van recepties, jubilea en dergelijke aan medewerkers, collega’s of zakenrelaties;  
+
+h. vakliteratuur, abonnementen en kantoorbenodigdheden, voor zover deze niet rechtstreeks door de werkgever worden betaald;  
+
+i. contributies vakvereniging, niet zijnde een beroepsvereniging.     
+
+### Artikel  20a  
+
+1.  Aan een ambtenaar wiens salarisschaal 15 of hoger is, kan een periodieke toelage worden toegekend door het bevoegd gezag in het kader van de individuele ontwikkeling in de functie, het individueel structureel goed functioneren, werving en behoud of een andere gewichtige reden.   
+2.  De maximale hoogte van de periodieke toelage is voor: 
+
+a. de landelijke korpschef € 21.000,– per jaar;  
+
+b. korpsleiding, plaatsvervangend korpschef en politiechefs 11% van het persoonlijke salaris per jaar;  
+
+c. overige ambtenaren van schaal 15 tot en met 18 11% van het persoonlijke salaris per jaar.     
+3.  Het besluit tot toekennen en de hoogte van de periodieke toelage zal jaarlijks aan het eind van elk kalenderjaar opnieuw worden getoetst.   
 
 ### Artikel  21  
 
@@ -416,6 +457,7 @@ Artikel 23 is mede van toepassing op de gewezen ambtenaar die ingevolge artikel 
 
 1.  Aan de ambtenaar kan een incidentele eindejaarsuitkering of een eenmalige uitkering worden toegekend.   
 2.  Ten aanzien van de incidentele eindejaarsuitkering of eenmalige uitkering, bedoeld in het eerste lid, stelt Onze Minister nadere regels vast met betrekking tot de hoogte van de uitkering en het tijdstip van uitbetaling, en bepaalt Onze Minister of de uitkering behoort tot de bezoldiging.   
+3.  Dit artikel is niet van toepassing op de ambtenaar wiens salarisschaal 15 of hoger bedraagt.   
 
 ### Artikel  25b  
 
@@ -443,6 +485,7 @@ b. in het jaar 2002 recht op een eindejaarsuitkering ter grootte van 5,25% van h
 2.  De uitkering wordt toegekend aan het einde van een tijdvak dat tevoren is vastgesteld door het bevoegd gezag.   
 3.  Aan de toekenning van de uitkering kunnen door het bevoegd gezag voorwaarden worden gesteld.   
 4.  Aan de ambtenaar die niet heeft kunnen voldoen aan de in het derde lid bedoelde voorwaarden door een naar het oordeel van het bevoegd gezag niet aan de ambtenaar zelf te wijten oorzaak, kan de uitkering gedeeltelijk worden toegekend.   
+5.  Dit artikel is niet van toepassing op de ambtenaar wiens salarisschaal 15 of hoger bedraagt.   
 
 ### Hoofdstuk  8  
 
@@ -474,6 +517,7 @@ d. deelname aan een team grootschalige opsporing.
 14.  Voor de toepassing van dit artikel worden gedeelten van uren, voor zover daarmee het half uur, bedoeld in het zesde lid, wordt overschreden, berekend over een periode van vier weken, opgeteld en naar boven afgerond op halve uren.   
 15.  Voor de bepaling van de duur van de overschrijding van de per dienstdag vastgestelde totale arbeidstijd gelden uren waarop krachtens het [Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) vakantie of verlof is genoten dan wel wegens ziekte of schorsing geen dienst is verricht, als uren waarop feitelijk dienst is verricht.   
 16.  Voor de toepassing van dit artikel berust het oordeel omtrent het dienstbelang bij het bevoegd gezag dan wel bij de door deze aangewezen ambtenaar.   
+17.  Dit artikel is niet van toepassing op de ambtenaar wiens salarisschaal 15 of hoger bedraagt.   
 
 ### Artikel  27a  
 
@@ -500,7 +544,7 @@ d. deelname aan een team grootschalige opsporing.
 7.  Voor de toepassing van dit artikel worden verschoven uren en gedeelten van uren berekend over een periode van vier weken, opgeteld en naar boven afgerond op hele uren.   
 8.  De vergoeding kan niet samenvallen met de vergoeding voor overwerk, bedoeld in artikel 27. De vergoeding wordt ook niet toegekend aan de ambtenaar die als gevolg van arbeidsongeschiktheid feitelijk niet werkzaam is volgens het rooster waarin de wijziging plaatsvindt.   
 9.  De vergoeding wordt zo spoedig mogelijk uitbetaald, doch uiterlijk bij gelegenheid van de tweede salarisbetaling volgende op de periode van vier weken waarin de verschuiving heeft plaatsgevonden.   
-10.  Dit artikel is niet van toepassing op de ambtenaar die deel uitmaakt van een eenheid als bedoeld in [artikel 60 Politiewet 1993](../../../../../wet/politiewet/1993/BWBR0006299/README.md) en [artikel 8 van het Besluit beheer regionale politiekorpsen](../../../../../AMvB/besluit/beheer/regionale/politiekorpsen/BWBR0006560/README.md).   
+10.  Dit artikel is niet van toepassing op de ambtenaar die deel uitmaakt van een eenheid als bedoeld in [artikel 59, eerste lid, Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md).   
 
 ### Artikel  28  
 
@@ -910,10 +954,6 @@ Voor aanvragen over de heroverweging van de waardering van de functie waarop nog
 3.  Voor degene die op 30 juni 2007 is gedetacheerd en een functie uitoefent waaraan op grond van artikel 6 een hogere salarisschaal is verbonden, blijven de artikelen 4, 6 en 17b, zoals luidend op 30 juni 2007, van toepassing voor de duur van die detachering.   
 4.  Degene die in de periode van 1 juli 2007 tot 1 januari 2008 op grond van artikel 4a, zoals dat gold op 30 juni 2007, tijdelijk is aangesteld of op grond van artikel 62 is gedetacheerd ter vervulling van een hoger gewaardeerde functie dan de salarisschaal waarin hij bezoldigd is en deze functie langer dan twee jaar na aanstellen of detachering onafgebroken heeft bekleed, heeft recht op behoud van die hogere salarisschaal, bij beëindiging van de tijdelijke aanstelling of detachering.   
 
-### Artikel  49c  
-
-Artikel 6, zesde lid, onderdeel d, en zevende lid, is tot en met 31 december 2006 niet van toepassing op een reorganisatie, anders dan een reorganisatie aangaande bovenregionale samenwerkingen, een voorziening tot samenwerking als bedoeld in de [artikelen 47](../../../../../wet/politiewet/1993/BWBR0006299/README.md) en [47a van de Politiewet](../../../../../wet/politiewet/1993/BWBR0006299/README.md) (Stb. 2005, 242) of veranderingen in de landelijke organisatie van de politie.  
-
 ### Artikel  49d  
 
 De ambtenaar die opleidingsniveau 4 succesvol heeft afgerond, wordt uiterlijk per 1 augustus 2011 aangesteld in een functie waaraan ten minste salarisschaal 7 van bijlage I van dit besluit is verbonden.  
@@ -921,6 +961,15 @@ De ambtenaar die opleidingsniveau 4 succesvol heeft afgerond, wordt uiterlijk p
 ### Artikel  49e  
 
 Van de ambtenaar die voor 1 maart 2010 een salaris genoot met toepassing van bijlage I, zoals deze luidde voor die datum, wordt het salaris op 1 maart 2010 vastgesteld in de schaal met hetzelfde nummer van de bij dit besluit behorende bijlage I als de schaal uit bijlage I die voor 1 maart 2010 van toepassing was, in de periodiek met het bedrag dat overeenkomt met het oude salaris, dan wel bij gebreke daarvan, met het salarisbedrag dat onmiddellijk boven het bedrag van het oude salaris ligt.  
+
+### Artikel  49f  
+
+1.  Door het LFNP ontstaat voor de ambtenaar aanspraak op de salarisschaal behorende bij de hem toegekende functie.   
+2.  Indien de salarisschaal behorende bij de functie die aan de ambtenaar is toegekend hoger is dan de salarisschaal die de ambtenaar ontving op basis van zijn uitgangspositie, ontstaat voor de ambtenaar een aanspraak op die hogere salarisschaal vanaf de aanvangsdatum van de desbetreffende uitgangspositie. In afwijking van artikel 10 blijft bij indeling in die hogere salarisschaal het salaris gelijk tenzij dit door afwijkende bedragen tussen de schalen niet mogelijk is. In dat geval geldt dat de ambtenaar wordt ingedeeld in het eerste salaris gelegen boven het oude salaris in de nieuwe salarisschaal.   
+3.  Indien de bij de aan de ambtenaar toegekende functie behorende salarisschaal lager is dan die de ambtenaar ontving op basis van zijn uitgangspositie, behoudt de ambtenaar de salarisschaal inclusief de vooruitzichten in de desbetreffende schaal die verbonden was aan zijn uitgangspositie.   
+4.  Indien de aan de ambtenaar toegekende functie aanspraak geeft op bij die functie behorende toelagen, ontstaat voor de ambtenaar een aanspraak op die toelagen vanaf de aanvangsdatum van de desbetreffende uitgangspositie. Bij ministeriele regeling worden over de aanspraak nadere regels gesteld.   
+5.  Indien de aan de ambtenaar toegekende functie geen aanspraak geeft op toelagen die hij wel heeft ontvangen, vindt voor de ambtenaar geen terugvordering van die toelagen plaats. De aanspraak op deze toelagen vervalt op de dag van de inwerkingtreding van dit artikel.   
+6.  Onder uitgangspositie wordt in dit artikel verstaan de functie en in samenhang daarmee de functiebeschrijving en de overige opgedragen werkzaamheden of bijzondere situaties van een ambtenaar op enig moment vanaf 31 december 2009 tot en met 31 december 2011.   
 
 ### Artikel  50  
 
@@ -930,6 +979,10 @@ Van de ambtenaar die voor 1 maart 2010 een salaris genoot met toepassing van bij
 ### Artikel  50a  
 
 De bijlagen, behorende bij dit besluit, alsmede de bedragen, genoemd in de artikelen 3a, 14, 18, 23, 25b, 27 en 29 kunnen bij ministeriële regeling worden gewijzigd, met dien verstande dat met uitzondering van de bedragen, genoemd in de artikelen 14, 18 en 27, deze bijlagen en bedragen slechts worden aangepast overeenkomstig een algemene salarismaatregel in de sector politie.  
+
+### Artikel  50b  
+
+Dit besluit berust op [artikel 47, eerste lid, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
 
 ### Artikel  51  
 
@@ -955,80 +1008,87 @@ E. van Thijn
 
 ### Bijlage  I  
 
-####bij artikel 8, eerste lid , van het Besluit bezoldiging politie
-
-salaristabellen van politieambtenaren (in euro per maand)  
+####bij artikel 8, eerste lid , Besluit bezoldiging politie op basis van 36 urige werkweek
 
 |--- | schaal  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | bedrag in €  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  |--- |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1.312,00  | 0  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.378,00  | 1  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.445,00  | 2  | 2  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.536,00  | 3  | 3  | 1  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.624,00  | 4  | 4  | 2  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.704,00  | 5  | 5  | 3  | 2  | 0  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.776,00  | 6  | 6  | 4  | 3  | 1  | 1  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.837,00  | 7  | 7  | 5  | 4  | --- | --- | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.911,00  | 8  | 8  | 6  | 5  | 2  | 2  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.973,00  | 9  | 9  | 7  | 6  | 3  | 3  | 2  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.036,00  | 10  | 10  | 8  | 7  | 4  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.099,00  | --- | 11  | 9  | 8  | 5  | 4  | 3  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.150,00  | --- | 12  | 10  | 9  | 6  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.209,00  | --- | 13  | 11  | 10  | 7  | 6  | 4  | 1  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.284,00  | --- | --- | 12  | 11  | 8  | 7  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.341,00  | --- | --- | 13  | 12  | 9  | 8  | --- | 2  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.396,00  | --- | --- | 14  | 13  | 10  | --- | 6  | --- | 2  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.471,00  | --- | --- | --- | 14  | 11  | 9  | 7  | 3  | 3  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.528,00  | --- | --- | --- | --- | 12  | 10  | 8  | 4  | --- | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.571,00  | --- | --- | --- | --- | 13  | 11  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.616,00  | --- | --- | --- | --- | 14  | 12  | 9  | 5  | 4  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.668,00  | --- | --- | --- | --- | --- | 13  | 10  | --- | --- | 2  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.724,00  | --- | --- | --- | --- | --- | 14  | 11  | 6  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.796,00  | --- | --- | --- | --- | --- | --- | 12  | 7  | --- | 3  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.867,00  | --- | --- | --- | --- | --- | --- | 13  | 8  | 6  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.953,00  | --- | --- | --- | --- | --- | --- | 14  | 9  | 7  | 4  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.019,00  | --- | --- | --- | --- | --- | --- | --- | 10  | --- | 5  | 0  | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.094,00  | --- | --- | --- | --- | --- | --- | --- | 11  | 8  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.138,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 6  | 1  | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.182,00  | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.231,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 7  | 2  | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.281,00  | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.347,00  | --- | --- | --- | --- | --- | --- | --- | 14  | --- | 8  | 3  | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.360,00  | --- | --- | --- | --- | --- | --- | --- | --- | 11  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.460,00  | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | 4  | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.564,00  | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | 5  | 0  | --- | --- | --- | --- | --- | --- | --- |
-| 3.659,00  | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 11  | 6  | 1  | --- | --- | --- | --- | --- | --- | --- |
-| 3.770,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 7  | 2  | --- | --- | --- | --- | --- | --- | --- |
-| 3.882,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 8  | 3  | 0  | --- | --- | --- | --- | --- | --- |
-| 3.987,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 9  | 4  | 1  | --- | --- | --- | --- | --- | --- |
-| 4.092,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 10  | 5  | 2  | --- | --- | --- | --- | --- | --- |
-| 4.196,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 11  | 6  | 3  | 0  | --- | --- | --- | --- | --- |
-| 4.297,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 7  | 4  | 1  | --- | --- | --- | --- | --- |
-| 4.399,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 8  | 5  | 2  | --- | --- | --- | --- | --- |
-| 4.507,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 9  | 6  | 3  | 0  | --- | --- | --- | --- |
-| 4.576,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 10  | 7  | 4  | 1  | --- | --- | --- | --- |
-| 4.681,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 11  | 8  | 5  | 2  | --- | --- | --- | --- |
-| 4.812,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | 6  | 3  | 0  | --- | --- | --- |
-| 4.942,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | 7  | 4  | 1  | --- | --- | --- |
-| 5.074,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 11  | 8  | 5  | 2  | --- | --- | --- |
-| 5.205,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | 6  | 3  | 0  | --- | --- |
-| 5.337,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | 7  | 4  | 1  | --- | --- |
-| 5.475,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 11  | 8  | 5  | 2  | --- | --- |
-| 5.617,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | 6  | 3  | 0  | --- |
-| 5.763,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | 7  | 4  | 1  | --- |
-| 5.939,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 11  | 8  | 5  | 2  | --- |
-| 6.120,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | 6  | 3  | --- |
-| 6.308,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | 7  | 4  | --- |
-| 6.500,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 11  | 8  | 5  | --- |
-| 6.700,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | 6  | --- |
-| 6.906,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | 7  | --- |
-| 7.118,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 11  | 8  | --- |
-| 7.337,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | --- |
-| 7.564,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | --- |
-| 7.797,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 11  | --- |
-| 8.039,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | --- |
-| 8.287,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | --- |
-| 8.493,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | --- |
+| 1.312,00  | 0  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 1.312,00  |
+| 1.378,00  | 1  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 1.378,00  |
+| 1.445,00  | 2  | 2  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 1.445,00  |
+| 1.536,00  | 3  | 3  | 1  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 1.536,00  |
+| 1.624,00  | 4  | 4  | 2  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 1.624,00  |
+| 1.704,00  | 5  | 5  | 3  | 2  | 0  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 1.704,00  |
+| 1.776,00  | 6  | 6  | 4  | 3  | 1  | 1  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 1.776,00  |
+| 1.837,00  | 7  | 7  | 5  | 4  | --- | --- | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 1.837,00  |
+| 1.911,00  | 8  | 8  | 6  | 5  | 2  | 2  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 1.911,00  |
+| 1.973,00  | 9  | 9  | 7  | 6  | 3  | 3  | 2  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 1.973,00  |
+| 2.036,00  | 10  | 10  | 8  | 7  | 4  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 2.036,00  |
+| 2.099,00  | --- | 11  | 9  | 8  | 5  | 4  | 3  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 2.099,00  |
+| 2.150,00  | --- | 12  | 10  | 9  | 6  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 2.150,00  |
+| 2.209,00  | --- | 13  | 11  | 10  | 7  | 6  | 4  | 1  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 2.209,00  |
+| 2.284,00  | --- | --- | 12  | 11  | 8  | 7  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 2.284,00  |
+| 2.341,00  | --- | --- | 13  | 12  | 9  | 8  | --- | 2  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 2.341,00  |
+| 2.396,00  | --- | --- | 14  | 13  | 10  | --- | 6  | --- | 2  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 2.396,00  |
+| 2.471,00  | --- | --- | --- | 14  | 11  | 9  | 7  | 3  | 3  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | 2.471,00  |
+| 2.528,00  | --- | --- | --- | --- | 12  | 10  | 8  | 4  | --- | 1  | --- | --- | --- | --- | --- | --- | --- | --- | 2.528,00  |
+| 2.571,00  | --- | --- | --- | --- | 13  | 11  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 2.571,00  |
+| 2.616,00  | --- | --- | --- | --- | 14  | 12  | 9  | 5  | 4  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 2.616,00  |
+| 2.668,00  | --- | --- | --- | --- | --- | 13  | 10  | --- | --- | 2  | --- | --- | --- | --- | --- | --- | --- | --- | 2.668,00  |
+| 2.724,00  | --- | --- | --- | --- | --- | 14  | 11  | 6  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 2.724,00  |
+| 2.796,00  | --- | --- | --- | --- | --- | --- | 12  | 7  | --- | 3  | --- | --- | --- | --- | --- | --- | --- | --- | 2.796,00  |
+| 2.867,00  | --- | --- | --- | --- | --- | --- | 13  | 8  | 6  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 2.867,00  |
+| 2.953,00  | --- | --- | --- | --- | --- | --- | 14  | 9  | 7  | 4  | --- | --- | --- | --- | --- | --- | --- | --- | 2.953,00  |
+| 3.019,00  | --- | --- | --- | --- | --- | --- | --- | 10  | --- | 5  | 0  | --- | --- | --- | --- | --- | --- | --- | 3.019,00  |
+| 3.094,00  | --- | --- | --- | --- | --- | --- | --- | 11  | 8  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 3.094,00  |
+| 3.138,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 6  | 1  | --- | --- | --- | --- | --- | --- | --- | 3.138,00  |
+| 3.182,00  | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 3.182,00  |
+| 3.231,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 7  | 2  | --- | --- | --- | --- | --- | --- | --- | 3.231,00  |
+| 3.281,00  | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 3.281,00  |
+| 3.347,00  | --- | --- | --- | --- | --- | --- | --- | 14  | --- | 8  | 3  | --- | --- | --- | --- | --- | --- | --- | 3.347,00  |
+| 3.360,00  | --- | --- | --- | --- | --- | --- | --- | --- | 11  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 3.360,00  |
+| 3.460,00  | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | 4  | --- | --- | --- | --- | --- | --- | --- | 3.460,00  |
+| 3.564,00  | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | 5  | 0  | --- | --- | --- | --- | --- | --- | 3.564,00  |
+| 3.659,00  | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 11  | 6  | 1  | --- | --- | --- | --- | --- | --- | 3.659,00  |
+| 3.770,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 7  | 2  | --- | --- | --- | --- | --- | --- | 3.770,00  |
+| 3.882,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 8  | 3  | 0  | --- | --- | --- | --- | --- | 3.882,00  |
+| 3.987,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 9  | 4  | 1  | --- | --- | --- | --- | --- | 3.987,00  |
+| 4.092,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 10  | 5  | 2  | --- | --- | --- | --- | --- | 4.092,00  |
+| 4.196,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 11  | 6  | 3  | 0  | --- | --- | --- | --- | 4.196,00  |
+| 4.297,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 7  | 4  | 1  | --- | --- | --- | --- | 4.297,00  |
+| 4.399,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 8  | 5  | 2  | --- | --- | --- | --- | 4.399,00  |
+| 4.507,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 9  | 6  | 3  | 0  | --- | --- | --- | 4.507,00  |
+| 4.576,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 10  | 7  | 4  | 1  | --- | --- | --- | 4.576,00  |
+| 4.681,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 11  | 8  | 5  | 2  | --- | --- | --- | 4.681,00  |
+| 4.812,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | 6  | 3  | 0  | --- | --- | 4.812,00  |
+| 4.942,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | 7  | 4  | 1  | --- | --- | 4.942,00  |
+| 5.074,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 11  | 8  | 5  | 2  | --- | --- | 5.074,00  |
+| 5.205,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | 6  | 3  | 0  | --- | 5.205,00  |
+| 5.337,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | 7  | 4  | 1  | --- | 5.337,00  |
+| 5.475,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 11  | 8  | 5  | 2  | --- | 5.475,00  |
+| 5.617,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | 6  | 3  | 0  | 5.617,00  |
+| 5.763,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | 7  | 4  | 1  | 5.763,00  |
+| 5.939,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 11  | 8  | 5  | 2  | 5.939,00  |
+| 6.120,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | 6  | 3  | 6.120,00  |
+| 6.308,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | 7  | 4  | 6.308,00  |
+| 6.500,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 11  | 8  | 5  | 6.500,00  |
+| 6.700,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |   15  | 12  | 9  | 6  | 6.700,00  |
+| 6.906,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | 7  | 6.906,00  |
+| 7.118,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 11  | 8  | 7.118,00  |
+| 7.337,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |   15  | 12  | 9  | 7.337,00  |
+| 7.564,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | 7.564,00  |
+| 7.797,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 11  | 7.797,00  |
+| 8.039,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 15  | 12  | 8.039,00  |
+| 8.278,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 8.287,00  |
+| 8.493,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 8.493,00  |
+| 8.700,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 15  | 8.700,00  |
+
+### Bijlage  Ia  
+
+####bij artikel 8, derde lid , Besluit bezoldiging politie
+
+| schaal  | Salaris  |
+|:---|:---|
+| 19  | € 9098,26  |
 
 ### Bijlage  II  
 

@@ -123,7 +123,7 @@ Hetgeen bij een verdeling wordt toegedeeld, wordt geacht voor het geheel te zijn
 1.  De belasting wordt berekend over de waarde van de onroerende zaak of het recht waaraan deze is onderworpen, waarop de verkrijging betrekking heeft. De waarde is ten minste gelijk aan die van de tegenprestatie.   
 2.  Indien van een beperkt recht afstand wordt gedaan tegen verkrijging van een nieuw beperkt recht, wordt de belasting berekend over het verschil in waarde tussen de beperkte rechten. Wordt uitsluitend de schuldplichtigheid gewijzigd, dan wordt bedoeld verschil op nihil gesteld.   
 3.  Bij verkrijging van een met grondrente bezwaarde zaak, wordt de belasting berekend over de waarde van die zaak zonder aftrek van de grondrente.   
-4.  Ingeval een verkrijging als bedoeld in artikel 2, tweede lid, wordt gevolgd door een verkrijging als bedoeld in artikel 2, eerste lid, of andersom, door dezelfde persoon of door zijn rechtsopvolger krachtens huwelijksvermogensrecht of erfrecht, wordt de waarde verminderd met het bedrag waarover ter zake van de eerste verkrijging was verschuldigd hetzij overdrachtsbelasting naar het gewone tarief welke niet in mindering heeft gestrekt van schenk- of erfbelasting, hetzij omzetbelasting welke op grond van [artikel 15 van de Wet op de omzetbelasting 1968](../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) in het geheel niet in aftrek kon worden gebracht.   
+4.  Ingeval een verkrijging als bedoeld in artikel 2, tweede lid, wordt gevolgd door een verkrijging als bedoeld in artikel 2, eerste lid, of andersom, door dezelfde persoon of door zijn rechtsopvolger krachtens huwelijksvermogensrecht of erfrecht, wordt de waarde verminderd met het bedrag waarover ter zake van de eerste verkrijging was verschuldigd hetzij overdrachtsbelasting welke niet in mindering heeft gestrekt van schenk- of erfbelasting, hetzij omzetbelasting welke op grond van [artikel 15 van de Wet op de omzetbelasting 1968](../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) in het geheel niet in aftrek kon worden gebracht.   
 5.  Indien voor een goed als bedoeld in artikel 2 een verkoopregulerend beding geldt dat rechtstreeks of middellijk jegens de verkrijger is gemaakt door een publiekrechtelijk lichaam of een toegelaten instelling in de zin van [artikel 70, eerste lid, van de Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md), is de waarde gelijk aan die van de tegenprestatie en worden voor de bepaling van de tegenprestatie de uit het beding voortvloeiende lasten buiten aanmerking gelaten.   
 6.  Indien op grond van artikel 15, vierde lid, de vrijstelling niet van toepassing is, wordt de waarde ten minste gesteld op de kostprijs van de onroerende zaak of van de zaak waarop het recht of de dienst betrekking heeft, met inbegrip van de omzetbelasting, zoals die zou ontstaan bij de voortbrenging door een onafhankelijke derde op het tijdstip van de verkrijging.   
 
@@ -145,8 +145,9 @@ De waarde van aandelen en rechten, als bedoeld in artikel 4, eerste lid, is geli
 
 ### Artikel  13  
 
-1.  In geval van verkrijging binnen zes maanden na een vorige verkrijging van dezelfde goederen door een ander wordt de waarde verminderd met het bedrag waarover ter zake van de vorige verkrijging was verschuldigd hetzij overdrachtsbelasting naar het gewone tarief welke niet in mindering heeft gestrekt van schenk- of erfbelasting, hetzij omzetbelasting welke in het geheel niet op grond van [artikel 15 van de Wet op de omzetbelasting 1968](../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) in aftrek kon worden gebracht.   
+1.  In geval van verkrijging binnen zes maanden na een vorige verkrijging van dezelfde goederen door een ander wordt de waarde verminderd met het bedrag waarover ter zake van de vorige verkrijging was verschuldigd hetzij overdrachtsbelasting welke niet in mindering heeft gestrekt van schenk- of erfbelasting, hetzij omzetbelasting welke in het geheel niet op grond van [artikel 15 van de Wet op de omzetbelasting 1968](../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) in aftrek kon worden gebracht.   
 2.  Voor de toepassing van het eerste lid worden aandelen of rechten, als bedoeld in artikel 4, eerste lid, en de daardoor middellijk of onmiddellijk vertegenwoordigde goederen als dezelfde goederen beschouwd.   
+3.  Bij algemene maatregel van bestuur kan, indien de ontwikkelingen van de vastgoedmarkt daartoe aanleiding geven, in afwijking van het eerste lid tijdelijk een afwijkende termijn worden vastgesteld waarbij voor woningen en niet-woningen een verschillende termijn gehanteerd kan worden en voor zover nodig kan worden voorzien in overgangsrecht.   
 
 ### Afdeling  3  
 
@@ -154,7 +155,8 @@ De waarde van aandelen en rechten, als bedoeld in artikel 4, eerste lid, is geli
 
 ### Artikel  14  
 
-De belasting bedraagt 6 percent.  
+1.  De belasting bedraagt 6 percent.   
+2.  In afwijking van het eerste lid bedraagt de belasting 2 percent voor de verkrijging van woningen en van rechten waaraan deze zijn onderworpen, alsmede voor de verkrijging van aandelen en rechten als bedoeld in artikel 4, eerste lid, voor zover deze aandelen en rechten middellijk of onmiddellijk woningen vertegenwoordigen. Onder woningen worden mede begrepen aanhorigheden die tot woningen behoren of gaan behoren.   
 
 ### Artikel  15  
 
@@ -168,7 +170,7 @@ b. door een of meer kinderen, kleinkinderen, broers, zusters, of hun echtgenoten
 
 2°. met een broer of zuster gelijkgesteld een halfbroer, halfzuster, pleegbroer of pleegzuster;    
 
-c. door de Staat, een provincie, een gemeente, een waterschap, een politieregio in de zin van [artikel 21 van de Politiewet 1993](../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), een openbaar lichaam in de zin van [artikel 134 van de Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md), een rechtspersoonlijkheid bezittend lichaam in de zin van de [Wet gemeenschappelijke regelingen](../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) of een rechtspersoonlijkheid bezittend lichaam, gevormd krachtens een door de Staat met een of meer andere publiekrechtelijke lichamen aangegane gemeenschappelijke regeling;  
+c. door de Staat, een provincie, een gemeente, een waterschap, de politie, een openbaar lichaam in de zin van [artikel 134 van de Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md), een rechtspersoonlijkheid bezittend lichaam in de zin van de [Wet gemeenschappelijke regelingen](../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) of een rechtspersoonlijkheid bezittend lichaam, gevormd krachtens een door de Staat met een of meer andere publiekrechtelijke lichamen aangegane gemeenschappelijke regeling;  
 
 d.  vervallen;   
 
@@ -231,6 +233,7 @@ y. van een net gelegen in, op of boven de grond, bestaande uit een of meer kabel
 3.  Verwijdering van zaken die ingevolge een beding of krachtens de wet nog na de verkrijging mogen worden weggenomen wordt, indien die verwijdering plaatsvindt binnen drie maanden na de verkrijging, ten aanzien van die zaken beschouwd als de vervulling van een aan de verkrijging verbonden ontbindende voorwaarde, mits zij of hun waarde niet aan de verkrijger zijn ten goede gekomen.   
 4.  De in het eerste lid bedoelde vrijstellingen zijn niet van toepassing in gevallen waarin de verkrijging plaatsvindt krachtens een levering of dienst in de zin van de [Wet op de omzetbelasting 1968](../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) ter zake waarvan omzetbelasting is verschuldigd, indien de vergoeding, bedoeld in [artikel 8, eerste lid, van die wet](../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), te zamen met de verschuldigde omzetbelasting, lager is dan de waarde, bedoeld in artikel 9, en de verkrijger de omzetbelasting op grond van [artikel 15 van de Wet op de omzetbelasting 1968](../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) niet of niet nagenoeg geheel in aftrek kan brengen, dan wel omzetbelasting wordt geheven ter zake van het beschikken over die zaak voor bedrijfsdoeleinden en de vergoeding, bedoeld in [artikel 8, derde lid, van de Wet op de omzetbelasting 1968](../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), tezamen met de verschuldigde omzetbelasting, lager is dan de waarde, bedoeld in artikel 9, en de verkrijger die omzetbelasting op grond van [artikel 15 van de Wet op de omzetbelasting 1968](../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) niet of niet nagenoeg geheel in aftrek kan brengen. Voor de toepassing van deze bepaling wordt de waarde ten minste gesteld op de kostprijs van de onroerende zaak of van de zaak waarop het recht of de dienst betrekking heeft, met inbegrip van de omzetbelasting, zoals die zou ontstaan bij de voortbrenging door een onafhankelijke derde op het tijdstip van de verkrijging.   
 5.  Voor de toepassing van het eerste lid, onderdeel e, onder 1°, wordt onder waarde van het vermogen van de ingebrachte onderneming mede verstaan de boekwaarde van dat vermogen, zoals die geldt voor de heffing van inkomstenbelasting of vennootschapsbelasting, in gevallen waarin de ondernemer inbrengt met voorbehoud van stille reserves.   
+6.  In afwijking van het eerste lid, onderdeel a, kan, indien het goed wel als bedrijfsmiddel is gebruikt en de verkrijger de omzetbelasting op grond van [artikel 15 van de Wet op de omzetbelasting 1968](../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) geheel of gedeeltelijk in aftrek kan brengen en de ontwikkelingen van de vastgoedmarkt daartoe aanleiding geven, bij algemene maatregel van bestuur worden geregeld dat de vrijstelling tijdelijk eveneens van toepassing is als de verkrijging plaatsvindt binnen een daarbij vast te stellen termijn en voor zover nodig worden voorzien in overgangsrecht.   
 
 ### Afdeling  4  
 
@@ -310,7 +313,7 @@ c. tijdens een reis of vakantie gelopen risico's, indien de verzekering in een a
 
 ### Artikel  23  
 
-De belasting bedraagt 9,7 percent.  
+De belasting bedraagt 21 percent.  
 
 ### Artikel  24  
 
@@ -350,8 +353,9 @@ h. exportkredietverzekeringen.
 3.  De belasting wordt geheven van de bemiddelaar, indien en voor zover deze de vergoeding ontvangt van een ander dan de verzekeraar die in Nederland is gevestigd. Deze belastingplicht strekt zich niet verder uit dan tot die vergoeding.   
 4.  Indien het eerste, tweede en derde lid geen toepassing kunnen vinden, wordt de belasting geheven van de verzekeraar, ingeval deze in Nederland is gevestigd.   
 5.  Ingeval de verzekeraar niet in Nederland is gevestigd en het eerste en tweede lid geen toepassing kunnen vinden, wordt de belasting geheven van de vertegenwoordiger van de verzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), al naar gelang die vertegenwoordiger de verzekering voor of namens de verzekeraar heeft gesloten. Indien er niet een dergelijke vertegenwoordiger is, wordt de belasting geheven van de in Nederland wonende of gevestigde bemiddelaar in verzekeringen als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), door wiens bemiddeling de verzekering is gesloten.   
-6.  Indien het eerste, tweede, derde en vijfde lid geen toepassing kunnen vinden en de verzekeraar niet in Nederland woont of is gevestigd, wordt de belasting geheven van de verzekeraar of, indien de verzekeraar een fiscaal vertegenwoordiger heeft aangesteld die in Nederland woont of gevestigd is, van die fiscaal vertegenwoordiger.   
-7.  Ingeval de vorige leden geen toepassing kunnen vinden, wordt de belasting geheven van de verzekeringnemer.   
+6.  Indien het eerste, tweede, derde en vijfde lid geen toepassing kunnen vinden en de verzekeraar in een lidstaat van de Europese Unie of in een bij ministeriële regeling aangewezen staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, maar niet in Nederland, woont of is gevestigd, wordt de belasting geheven van de verzekeraar of, indien de verzekeraar een fiscaal vertegenwoordiger heeft aangesteld die in Nederland woont of gevestigd is, van die fiscaal vertegenwoordiger.   
+7.  Indien het eerste, tweede, derde en vijfde lid geen toepassing kunnen vinden, is de verzekeraar die niet in een lidstaat van de Europese Unie of in een bij ministeriële regeling aangewezen staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte woont of is gevestigd gehouden een fiscaal vertegenwoordiger aan te stellen die in Nederland woont of gevestigd is. De belasting wordt in dat geval geheven van die fiscaal vertegenwoordiger.   
+8.  Ingeval de vorige leden geen toepassing kunnen vinden, wordt de belasting geheven van de verzekeringnemer.   
 
 ### Artikel  25a  
 

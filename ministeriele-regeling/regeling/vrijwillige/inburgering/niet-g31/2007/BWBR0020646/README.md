@@ -13,11 +13,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. Minister: de Minister voor Wonen, Wijken en Integratie;  
+a. Minister: de Minister van Sociale Zaken en Werkgelegenheid;  
 
-b. wet: de [Wet inburgering](../../../../../../../wet/wet/inburgering/BWBR0020611/README.md);  
+b. wet: de [Wet inburgering](../../../../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals deze luidde op 31 december 2012;  
 
-c. besluit: het [Besluit inburgering](../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md);  
+c. besluit: het [Besluit inburgering](../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), zoals dit luidde op 31 december 2012;  
 
 d. college: het college van burgemeester en wethouders van een gemeente, niet zijnde een gemeente welke behoort tot de G31, bedoeld in [artikel 1, eerste lid, onderdeel b, van het Besluit brede doeluitkering sociaal, integratie en veiligheid](../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md);  
 

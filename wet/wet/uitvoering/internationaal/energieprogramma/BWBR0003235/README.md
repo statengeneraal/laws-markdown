@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-In deze wet en de daarop berustende bepalingen wordt verstaan onder: *Overeenkomst:* de op 18 november 1974 te Parijs tot stand gekomen Overeenkomst inzake een Internationaal Energieprogramma (*Trb.* 1975, 47); *aardolieprodukten:* de produkten bedoeld in artikel 9, eerste lid, van de Overeenkomst; *invoeren:* het brengen in het vrije verkeer; *uitvoeren:* het brengen buiten het vrije verkeer; *Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie; *College:* het College van Beroep voor het bedrijfsleven.  
+In deze wet en de daarop berustende bepalingen wordt verstaan onder: *Overeenkomst:* de op 18 november 1974 te Parijs tot stand gekomen Overeenkomst inzake een Internationaal Energieprogramma (*Trb.* 1975, 47); *aardolieprodukten:* de produkten bedoeld in artikel 9, eerste lid, van de Overeenkomst; *invoeren:* het brengen in het vrije verkeer; *uitvoeren:* het brengen buiten het vrije verkeer; *Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie.  
 
 ### §  2  
 
@@ -64,7 +64,7 @@ Onze Minister kan een opdracht als bedoeld in artikel 3, eerste lid, al dan niet
 3.  In vorderingsbeschikkingen kan aan daarbij aangewezen personen de verplichting worden opgelegd, om, voor zover hun dat feitelijk en rechtens mogelijk is, op de daarbij aangegeven plaats en tijd aan degene, te wiens behoeve de vordering geschiedt, de feitelijke mogelijkheid tot uitoefening van het gevorderde recht te verschaffen.   
 4.  De [artikelen 4](../../../../../../wet/vorderingswet/BWBR0002393/README.md), [5, tweede lid](../../../../../../wet/vorderingswet/BWBR0002393/README.md), [8](../../../../../../wet/vorderingswet/BWBR0002393/README.md), [9, eerste, tweede en derde lid](../../../../../../wet/vorderingswet/BWBR0002393/README.md), [10](../../../../../../wet/vorderingswet/BWBR0002393/README.md), [11](../../../../../../wet/vorderingswet/BWBR0002393/README.md), [13](../../../../../../wet/vorderingswet/BWBR0002393/README.md), [15, eerste en derde lid](../../../../../../wet/vorderingswet/BWBR0002393/README.md), [16](../../../../../../wet/vorderingswet/BWBR0002393/README.md) en [31, eerste lid, van de Vorderingswet](../../../../../../wet/vorderingswet/BWBR0002393/README.md) zijn van overeenkomstige toepassing.   
 5.  De schadeloosstelling wordt vastgesteld met toepassing van hetgeen bij of ter uitvoering van de Overeenkomst is bepaald met betrekking tot de prijs voor toebedeelde aardolieprodukten.   
-6.  De vaststelling van het bedrag van de schadeloosstelling, te betalen aan rechthebbenden met wie daarover geen overeenstemming is bereikt of die niet aan het overleg hebben deelgenomen, geschiedt door de rechtbank te Rotterdam.   
+6.  De vaststelling van het bedrag van de schadeloosstelling, te betalen aan rechthebbenden met wie daarover geen overeenstemming is bereikt of die niet aan het overleg hebben deelgenomen, geschiedt door de rechtbank Rotterdam.   
 7.  [Artikel 18 van de Vorderingswet](../../../../../../wet/vorderingswet/BWBR0002393/README.md) is van overeenkomstige toepassing.   
 
 ### Artikel  7  
@@ -142,14 +142,6 @@ c. de termijn waarbinnen aan de verplichting moet worden voldaan.
 
 ### §  5  
 
-####Beroep
-
-### Artikel  13  
-
-Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College.  
-
-### §  6  
-
 ####Ambtelijke bevoegdheden
 
 ### Artikel  16  
@@ -157,7 +149,7 @@ Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep in
 1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren. De [artikelen 5:13](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) tot en met [5:20 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing ten aanzien van de bij besluit van Onze Minister aangewezen ambtenaren die zijn belast met de uitvoering van paragraaf 3 van deze wet.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.   
 
-### §  7  
+### §  6  
 
 ####Slotbepalingen
 

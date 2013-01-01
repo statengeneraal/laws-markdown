@@ -146,7 +146,7 @@ d. het zich onttrekken aan de tenuitvoerlegging van een vrijheidsstraf of vrijhe
 
 e. het genieten van vakantie;  
 
-f. het bereiken of hebben bereikt van de dag waarop de leeftijd van 65 jaar wordt bereikt.     
+f. het bereiken of bereikt hebben van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md).     
 2.  Het eerste lid, onderdeel a, is niet van toepassing ten aanzien van de persoon die gedurende het buitenlands verblijf meewerkt aan activiteiten die bevorderlijk zijn voor zijn inschakeling in de arbeid, mits: 
 
 a. die activiteiten niet langer duren dan zes maanden;  
@@ -352,25 +352,30 @@ Indien het UWV een maatregel als bedoeld in artikel 19 heeft opgelegd, zet het i
 
 ### Artikel  21  
 
-####Boete bij niet nakoming verplichtingen
+####Boete bij niet nakomen verplichtingen
 
-1.  Het UWV legt een bestuurlijke boete op van ten hoogste € 2 269 ter zake van het niet of niet behoorlijk nakomen door de aanvrager of de uitkeringsgerechtigde van een verplichting als bedoeld in artikel 12, eerste lid, van deze wet.   
-2.  Het UWV kan afzien van het opleggen van een bestuurlijke boete als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet of niet behoorlijk nakomen door de aanvrager of de uitkeringsgerechtigde van een verplichting als bedoeld in artikel 12, eerste lid, van deze wet indien dit niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van uitkering, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de aanvrager of de uitkeringsgerechtigde een zodanige waarschuwing is gegeven.   
-3.  Het UWV kan afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende redenen aanwezig zijn.   
-4.  Degene aan wie een bestuurlijke boete is opgelegd is verplicht desgevraagd aan het UWV de inlichtingen te verstrekken die voor de tenuitvoerlegging van de boete van belang zijn.   
-5.  Bij algemene maatregel van bestuur worden nadere regels gesteld over de hoogte van de bestuurlijke boete.   
+1.  Het UWV legt een bestuurlijke boete op van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door de aanvrager of de uitkeringsgerechtigde van de verplichting, bedoeld in artikel 12, eerste lid. De bestuurlijke boete is niet lager dan de boete die op grond van het derde lid zou worden opgelegd indien er geen sprake was van een benadelingsbedrag.   
+2.  In dit artikel wordt onder benadelingsbedrag verstaan het brutobedrag dat als gevolg van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 12, eerste lid, ten onrechte of tot een te hoog bedrag aan uitkering is ontvangen.   
+3.  Indien het niet of niet behoorlijk nakomen door de aanvrager of de uitkeringsgerechtigde van de verplichting, bedoeld in artikel 12, eerste lid, niet heeft geleid tot een benadelingsbedrag, legt het UWV een bestuurlijke boete op van ten hoogste het bedrag van de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+4.  Het UWV kan afzien van het opleggen van een bestuurlijke boete als bedoeld in het derde lid en volstaan met het geven van een schriftelijke waarschuwing wegens het niet of niet behoorlijk nakomen door de aanvrager of de uitkeringsgerechtigde van de verplichting, bedoeld in artikel 12, eerste lid, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de werknemer een zodanige waarschuwing is gegeven.   
+5.  Het UWV legt een bestuurlijke boete op wegens het niet of niet behoorlijk nakomen door de aanvrager of de uitkeringsgerechtigde van de verplichting, bedoeld in artikel 12, eerste lid, als gevolg waarvan ten onrechte of tot een te hoog bedrag aan uitkering is ontvangen, van ten hoogste 150 procent van het benadelingsbedrag indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van het begaan van de overtreding een eerdere bestuurlijke boete of strafrechtelijke sanctie is opgelegd wegens een eerdere overtreding, bestaande uit eenzelfde gedraging, die onherroepelijk is geworden.   
+6.  Onder eenzelfde gedraging als bedoeld in het vijfde lid wordt verstaan het niet of niet behoorlijk nakomen van de verplichting, bedoeld in de artikelen 12, eerste lid, van deze wet, [12 van de Toeslagenwet](../../../../../../wet/toeslagenwet/BWBR0004043/README.md), [25 van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [80 van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [27, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [31, eerste lid](../../../../../../wet/ziektewet/BWBR0001888/README.md), of [49 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), als gevolg waarvan ten onrechte of tot een te hoog bedrag aan uitkering, ziekengeld of toeslag is verleend.   
+7.  In afwijking van het vijfde lid is het in dat lid genoemde tijdvak van vijf jaar tien jaar indien wegens de eerdere overtreding, bedoeld in het vijfde lid, de aanvrager of de uitkeringsgerechtigde is gestraft met een onvoorwaardelijke gevangenisstraf.   
+8.  Het UWV kan: 
+
+a. de bestuurlijke boete verlagen indien sprake is van verminderde verwijtbaarheid;  
+
+b. afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende redenen aanwezig zijn.     
+9.  Degene aan wie een bestuurlijke boete is opgelegd, is verplicht desgevraagd aan het UWV de inlichtingen te verstrekken die voor de tenuitvoerlegging van de bestuurlijke boete van belang zijn.   
+10.  Bij algemene maatregel van bestuur worden nadere regels gesteld over de hoogte van de bestuurlijke boete.   
+11.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van tenuitvoerlegging van de beschikking waarbij de bestuurlijke boete is opgelegd.   
+12.  In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechter in beroep of hoger beroep het bedrag waarop de bestuurlijke boete is vastgesteld ook ten nadele van de aanvrager of de uitkeringsgerechtigde wijzigen.   
 
 ### Artikel  22  
 
 ####Nadere regels betaling van boeten
 
 Bij ministeriële regeling kunnen regels worden gesteld omtrent de termijn waarvoor uitstel van betaling van de bestuurlijke boete kan worden verleend.  
-
-### Artikel  23  
-
-####Afwijking van [artikel 8:69 Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)
-
-In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechter in beroep of hoger beroep het bedrag waarop de bestuurlijke boete is vastgesteld ook ten nadele van de betrokken persoon wijzigen.  
 
 ### Artikel  24  
 
@@ -379,7 +384,7 @@ In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../..
 1.  Het UWV verrekent de bestuurlijke boete met een uitkering op grond van deze wet, de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md), de [Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) of een toeslag op grond van de [Toeslagenwet](../../../../../../wet/toeslagenwet/BWBR0004043/README.md), die de overtreder ontvangt.   
 2.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het UWV indien de overtreder een uitkering ontvangt op grond van de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [Algemene nabestaanden wet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md).   
 3.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het UWV. Indien het UWV gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan degene aan wie de boete is opgelegd.   
-4.  Zolang de overtreder zijn verplichting, bedoeld in artikel 21, vierde lid, niet of niet behoorlijk nakomt: 
+4.  Zolang de overtreder zijn verplichting, bedoeld in artikel 21, negende lid, niet of niet behoorlijk nakomt: 
 
 a. is het UWV in afwijking van [artikel 4:93, vierde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bevoegd tot verrekening van de bestuurlijke boete voor zover beslag op de vordering van de schuldeiser nietig zou zijn;  
 
@@ -426,12 +431,6 @@ De uitkeringsgerechtigde die over een maand recht heeft op een uitkering op gron
 2.  Indien het percentage van de vakantiebijslag, bedoeld in [artikel 15, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), wordt gewijzigd, treedt dit gewijzigde percentage in de plaats van het in het eerste lid genoemde percentage. Het gewijzigde percentage wordt in aanmerking genomen over de uitkering waarop op grond van deze wet recht bestaat vanaf de dag waarop de wijziging ingaat.   
 3.  Het UWV betaalt de vakantie-uitkering jaarlijks in de maand mei over de aan die maand voorafgaande maanden, of, indien het recht op uitkering eerder dan in de maand mei geheel eindigt, in de desbetreffende maand.   
 4.  De vakantie-uitkering wordt betaald zonder dat dit bij beschikking is vastgesteld.   
-
-### Artikel  28  
-
-####Inhouding vereveningsbijdrage
-
-Het UWV houdt op de uitkering, op de vakantie-uitkering en op de toeslag op grond van de [Toeslagenwet](../../../../../../wet/toeslagenwet/BWBR0004043/README.md) een bedrag in, dat gelijk is aan het bedrag van de premie die een werkgever, op grond van [afdeling 2 van hoofdstuk 3 van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), op het overeenkomstige loon van een werknemer, die verzekerd is op grond van de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), inhoudt.  
 
 ### Artikel  29  
 
@@ -507,13 +506,14 @@ b. gedurende vijf jaar niet volledig aan zijn betalingsverplichtingen heeft vold
 c. gedurende vijf jaar geen betalingen heeft verricht en niet aannemelijk is dat hij deze op enig moment zal gaan verrichten; of  
 
 d. een bedrag, overeenkomend met ten minste 50% van de restsom in één keer aflost.     
-2.  De in het eerste lid, onder a en b, genoemde termijn is drie jaar indien: 
+2.  De in het eerste lid, onderdelen a, b en c, genoemde termijn is tien jaar indien de terugvordering het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 12, eerste lid.   
+3.  De in het eerste lid, onder a en b, genoemde termijn is drie jaar indien: 
 
 a. het gemiddelde inkomen van de belanghebbende in die periode de beslagvrije voet bedoeld in de [artikelen 475c](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [475d van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) niet te boven is gegaan; en  
 
 b. de terugvordering niet het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 12, eerste lid.     
-3.  Indien daarvoor dringende redenen aanwezig zijn kan het UWV besluiten geheel of gedeeltelijk van terugvordering af te zien.   
-4.  In afwijking van artikel 34, eerste en derde lid, kan het UWV, onder bij ministeriële regeling te stellen voorwaarden, besluiten van terugvordering af te zien indien het terug te vorderen bedrag een bij ministeriële regeling vast te stellen bedrag niet te boven gaat.   
+4.  Indien daarvoor dringende redenen aanwezig zijn kan het UWV besluiten geheel of gedeeltelijk van terugvordering af te zien.   
+5.  In afwijking van artikel 34, eerste en derde lid, kan het UWV, onder bij ministeriële regeling te stellen voorwaarden, besluiten van terugvordering af te zien indien het terug te vorderen bedrag een bij ministeriële regeling vast te stellen bedrag niet te boven gaat.   
 
 ### Artikel  35a  
 
@@ -575,7 +575,7 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de ar
 
 ####Financiering
 
-1.  De op grond van deze wet te betalen uitkeringen, de door het UWV te verstrekken vergoeding als bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de aan de uitvoering van deze wet verbonden kosten komen ten laste van het Toeslagenfonds, bedoeld in [artikel 31 van de Toeslagenwet](../../../../../../wet/toeslagenwet/BWBR0004043/README.md).   
+1.  De op grond van deze wet te betalen uitkeringen, de door het UWV verschuldigde inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de aan de uitvoering van deze wet verbonden kosten komen ten laste van het Toeslagenfonds, bedoeld in [artikel 31 van de Toeslagenwet](../../../../../../wet/toeslagenwet/BWBR0004043/README.md).   
 2.  Ter dekking van de uitkeringen en de kosten, bedoeld in het eerste lid, wordt het Toeslagenfonds voorzien van middelen van het Rijk alsmede van de met de toepassing van artikel 21 verkregen boeten.   
 3.  Het UWV beheert en administreert afzonderlijk de middelen tot dekking van de uitgaven, bedoeld in het eerste lid, in de vorm van een onderdeel van het Toeslagenfonds.   
 

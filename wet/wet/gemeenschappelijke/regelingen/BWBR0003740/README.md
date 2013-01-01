@@ -101,8 +101,8 @@ Op de samenstelling van het gemeenschappelijk orgaan, bedoeld in artikel 8, twee
 1.  De regeling houdt bepalingen in omtrent de wijze waarop een lid van het algemeen bestuur van het openbaar lichaam of een lid van het gemeenschappelijk orgaan aan de raad die dit lid heeft aangewezen, de door een of meer leden van die raad gevraagde inlichtingen dient te verstrekken.   
 2.  De regeling houdt tevens bepalingen in omtrent de wijze, waarop het dagelijks bestuur en een of meer leden daarvan aan het algemeen bestuur de door een of meer leden daarvan gevraagde inlichtingen verstrekken, alsmede door het algemeen bestuur ter verantwoording kunnen worden geroepen.   
 3.  De regeling houdt bepalingen in omtrent de wijze waarop een lid van het algemeen bestuur van het openbaar lichaam of een lid van het gemeenschappelijk orgaan door de raad die dit lid heeft aangewezen, ter verantwoording kan worden geroepen voor het door hem in dat bestuur onderscheidenlijk dat orgaan gevoerde beleid.   
-4.  Ingeval toepassing is gegeven aan het bepaalde in artikel 13, vijfde lid, onder *a*, houdt de regeling bepalingen in omtrent de wijze waarop aan de raad die geen lid van het algemeen bestuur van het openbaar lichaam of van het gemeenschappelijk orgaan aanwijst, de door een of meer leden van die raad gevraagde inlichtingen worden verstrekt en de door die raad gevraagde verantwoording wordt afgelegd voor het door dat bestuur onderscheidenlijk dat orgaan gevoerde beleid.   
-5.  De regeling houdt bepalingen in omtrent de bevoegdheid van de raad, een door hem aangewezen lid van het algemeen bestuur van het openbaar lichaam of een door hem aangewezen lid van het gemeenschappelijk orgaan, ontslag te verlenen, indien dit lid het vertrouwen van de raad niet meer bezit. Op het ontslagbesluit is [artikel 7:1 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.   
+4.  Ingeval toepassing is gegeven aan het bepaalde in artikel 13, vijfde lid, onder a, houdt de regeling bepalingen in omtrent de wijze waarop aan de raad die geen lid van het algemeen bestuur van het openbaar lichaam of van het gemeenschappelijk orgaan aanwijst, de door een of meer leden van die raad gevraagde inlichtingen worden verstrekt en de door die raad gevraagde verantwoording wordt afgelegd voor het door dat bestuur onderscheidenlijk dat orgaan gevoerde beleid.   
+5.  De regeling houdt bepalingen in omtrent de bevoegdheid van de raad, een door hem aangewezen lid van het algemeen bestuur van het openbaar lichaam of een door hem aangewezen lid van het gemeenschappelijk orgaan, ontslag te verlenen, indien dit lid het vertrouwen van de raad niet meer bezit.   
 6.  Bij het verstrekken van inlichtingen ingevolge het eerste of het vierde lid, of het afleggen van verantwoording ingevolge het derde of het vierde lid, verschaft een lid van het algemeen bestuur van het openbaar lichaam of een lid van het gemeenschappelijk orgaan over zaken waaromtrent krachtens artikel 23 geheimhouding is opgelegd slechts informatie, indien krachtens [artikel 25 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) geheimhouding is opgelegd. Laatstbedoelde geheimhouding kan eerst worden opgeheven, nadat door het algemeen bestuur van het openbaar lichaam of door het gemeenschappelijk orgaan tot opheffing van de geheimhouding is besloten.   
 
 ### Artikel  17  
@@ -1047,14 +1047,6 @@ c. de hoofdlijnen vaststelt van een regionaal promotie- en acquisitiebeleid geri
 
 1.  Een geschil omtrent de uitnodiging van gedeputeerde staten, bedoeld in artikel 106, eerste lid, wordt beslist door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties. Indien het geschilpunt daartoe aanleiding geeft, beslist hij in overeenstemming met Onze Ministers wie het mede aangaat.   
 2.  De termijn, genoemd in artikel 108, eerste lid, wordt opgeschort totdat op het geschil is beslist.   
-
-### Artikel  121  
-
-Indien het bestuur van een gemeente in een plusregio beroep instelt tegen een besluit van het bestuur van de plusregio, is [artikel 7:1 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.  
-
-### Artikel  122  
-
-Tegen een besluit als bedoeld in artikel 114 en tegen een aanwijzing als bedoeld in de artikelen 116, eerste lid, en 117, tweede lid, kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.  
 
 ### Artikel  123  
 

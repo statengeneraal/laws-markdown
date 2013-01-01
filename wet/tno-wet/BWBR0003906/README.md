@@ -16,9 +16,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder: 
 
-a. Onze minister: Onze minister van Onderwijs, Cultuur en Wetenschap, tevens belast met de coördinatie van het wetenschapsbeleid;  
+a. Onze minister: Onze minister van Economische Zaken, Landbouw en Innovatie;  
 
-b. Onze ministers wie het mede aangaat: Onze ministers van defensie, van volkshuisvesting, ruimtelijke ordening en milieubeheer, van verkeer en waterstaat, van economische zaken, van landbouw, natuur en voedselkwaliteit, van sociale zaken en werkgelegenheid, en van volksgezondheid, welzijn en sport;  
+b. Onze ministers wie het mede aangaat: Onze ministers van defensie, van infrastructuur en milieu, van onderwijs, cultuur en wetenschap, van sociale zaken en werkgelegenheid, en van volksgezondheid, welzijn en sport;  
 
 c. de Organisatie: de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO.    
 
@@ -73,7 +73,7 @@ De Organisatie heeft een raad van bestuur, een raad van toezicht en een raad voo
 
 1.  De raad van bestuur bestaat uit een voorzitter en ten hoogste vier andere leden. Het lidmaatschap van de raad van bestuur is onverenigbaar met het lidmaatschap van de raad van toezicht.   
 2.  Wij benoemen en ontslaan de voorzitter en drie van de vier andere leden van de raad van bestuur op voordracht van Onze minister, gedaan in overeenstemming met het gevoelen van de raad van ministers. Wij benoemen en ontslaan het vierde andere lid van de raad van bestuur op voordracht van Onze minister van defensie, gedaan in overeenstemming met Onze minister en met het gevoelen van de raad van ministers. De raad van toezicht doet een aanbeveling voor de eerstgenoemde voordrachten, nadat hij de raad van bestuur daarover heeft gehoord. Voor de voordracht van Onze minister van defensie doen de raad van toezicht en de raad voor het defensie-onderzoek een gemeenschappelijke aanbeveling, nadat zij de raad van bestuur daarover hebben gehoord. De ondernemingsraad van de Organisatie wordt in de gelegenheid gesteld over deze aanbevelingen advies uit te brengen.   
-3.  De leden van de raad van bestuur zijn, behoudens door Ons op eigen verzoek van betrokkene, dan wel om zwaarwichtige redenen verleend ontslag, voor onbepaalde tijd in dienst van de Organisatie. Ontslag wordt in elk geval verleend met ingang van de eerste dag van de maand, waarin zij de leeftijd van vijfenzestig jaren bereiken.   
+3.  De leden van de raad van bestuur zijn, behoudens door Ons op eigen verzoek van betrokkene, dan wel om zwaarwichtige redenen verleend ontslag, voor onbepaalde tijd in dienst van de Organisatie. Ontslag wordt in elk geval verleend met ingang van de dag waarop zij de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, bereiken.   
 4.  Zolang in een vacature in de raad van bestuur niet is voorzien, vormen de overblijvende leden de raad van bestuur.   
 
 ### Artikel  8  
@@ -96,7 +96,7 @@ De Organisatie heeft een raad van bestuur, een raad van toezicht en een raad voo
 
 1.  De raad van toezicht bestaat uit een voorzitter en zes andere leden.   
 2.  Wij benoemen en ontslaan de voorzitter en drie andere leden van de raad van toezicht op voordracht van Onze minister, gedaan in overeenstemming met het gevoelen van de raad van ministers en gehoord de raad van toezicht. Voor de voordracht van één der andere leden bedoeld in de vorige volzin wordt de ondernemingsraad van de Organisatie uitgenodigd een aanbeveling in te dienen van twee personen, die niet in dienst van de Organisatie zijn.   
-3.  Wij benoemen en ontslaan drie andere leden van de raad van toezicht op voordracht van Onze minister van economische zaken gedaan na overleg met Onze minister, in overeenstemming met het gevoelen van de raad van ministers en gehoord de raad van toezicht.   
+3.  Wij benoemen en ontslaan drie andere leden van de raad van toezicht op voordracht van Onze minster van onderwijs, cultuur en wetenschap gedaan na overleg met Onze minister, in overeenstemming met het gevoelen van de raad van ministers en gehoord de raad van toezicht.   
 
 ### Artikel  11  
 
@@ -158,7 +158,7 @@ Er is een hoofdgroep voor defensie-onderzoek. Dit is een organisatorische eenhei
 1.  De raad van bestuur dient éénmaal per vier jaren bij Onze minister een strategisch plan voor de Organisatie in, waarmee de raad van toezicht heeft ingestemd. Het onderdeel van het strategisch plan dat de hoofdgroep voor defensie-onderzoek betreft, wordt vastgesteld door de raad voor het defensie-onderzoek en behoeft de instemming van Onze minister van defensie. De raad van bestuur doet van het strategisch plan afschrift toekomen aan Onze ministers wie het mede aangaat.   
 2.  Het strategisch plan formuleert de op middellange en lange termijn te realiseren doelstellingen en de hoofdlijnen van het daarop te richten beleid. Het omschrijft de gebieden, de richtingen, de aard en het kwaliteitsniveau van de door de Organisatie te leveren prestaties, alsmede de financiële, personele, materiële en organisatorische voorwaarden die daartoe vervuld moeten worden.   
 3.  Het strategisch plan houdt rekening met het door de overheid gevoerde beleid en met het wetenschapsbudget, als bedoeld in [artikel 16a van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](../../../wet/wet/op/de/nederlandse/organisatie/voor/wetenschappelijk/onderzoek/BWBR0004191/README.md).   
-4.  Onze minister brengt zijn standpunt over het strategisch plan, bepaald in overeenstemming met Onze ministers van defensie, van economische zaken en van volksgezondheid, welzijn en sport en met het gevoelen van de raad van ministers, binnen zes maanden na ontvangst van het plan ter kennis van de raad van bestuur. Onze minister doet daarvan en van het strategisch plan afschrift toekomen aan de Staten-Generaal.   
+4.  Onze minister brengt zijn standpunt over het strategisch plan, bepaald in overeenstemming met Onze ministers van defensie, van onderwijs, cultuur en wetenschap en van volksgezondheid, welzijn en sport en met het gevoelen van de raad van ministers, binnen zes maanden na ontvangst van het plan ter kennis van de raad van bestuur. Onze minister doet daarvan en van het strategisch plan afschrift toekomen aan de Staten-Generaal.   
 
 ### Hoofdstuk  5  
 
@@ -174,7 +174,7 @@ De Organisatie verwerft haar geldmiddelen door het aanvaarden van van rijkswege 
 2.  De begroting behelst een raming van de baten en lasten van de Organisatie en een raming van de inkomsten en uitgaven. In de begroting is een allocatie van middelen opgenomen die in overeenstemming is met het strategisch plan, bedoeld in artikel 19.   
 3.  De begrotingsposten worden ieder afzonderlijk van een toelichting voorzien. Uit de toelichting blijkt steeds welke begrotingsposten betrekking hebben op de uitoefening van de bij of krachtens de wet aan de Organisatie opgedragen taken dan wel op andere activiteiten.   
 4.  Tenzij de activiteiten waarop de begroting betrekking heeft nog niet eerder werden verricht, behelst de begroting een vergelijking met de begroting van het lopende jaar en de laatste jaarrekening, bedoeld in artikel 25. De aanvraag voor subsidie behoeft de instemming van de raad van toezicht, met uitzondering van het onderdeel dat de hoofdgroep voor defensie-onderzoek betreft.   
-5.  Onze minister, in overeenstemming met Onze ministers van defensie, economische zaken en volksgezondheid, welzijn en sport en met het gevoelen van de raad van ministers, doet de raad van bestuur in de jaarlijkse beschikking tot subsidieverlening mededeling van de voor het volgende kalenderjaar ten laste van de rijksbegroting beschikbare bedragen en de verdeling daarvan over de daarvoor in aanmerking komende hoofdstukken van de rijksbegroting. Onze minister geeft daarbij aan welke verplichtingen bestaan aangaande de bestemming van deze bedragen.   
+5.  Onze minister, in overeenstemming met Onze ministers van defensie, van onderwijs, cultuur en wetenschap en van volksgezondheid, welzijn en sport en met het gevoelen van de raad van ministers, doet de raad van bestuur in de jaarlijkse beschikking tot subsidieverlening mededeling van de voor het volgende kalenderjaar ten laste van de rijksbegroting beschikbare bedragen en de verdeling daarvan over de daarvoor in aanmerking komende hoofdstukken van de rijksbegroting. Onze minister geeft daarbij aan welke verplichtingen bestaan aangaande de bestemming van deze bedragen.   
 6.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de subsidieverstrekking en over de bij de aanvraag over te leggen bescheiden. De raad van bestuur zendt van de aanvraag en de daarbij te voegen bescheiden een afschrift aan Onze ministers wie het mede aangaat.   
 7.  Bij algemene maatregel van bestuur kunnen regels worden gesteld over de vaststelling van bedragen, bedoeld in het vijfde lid.   
 

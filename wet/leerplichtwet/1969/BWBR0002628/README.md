@@ -46,7 +46,7 @@ e. "de ambtenaar": de ambtenaar, bedoeld in artikel 16;
 
 f. "startkwalificatie": een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid onder b tot en met e, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 7](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) onderscheidenlijk [8 van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-g. persoonsgebonden nummer: persoonsgebonden nummer als bedoeld in [artikel 24a, onderdeel c, van de Wet op het onderwijstoezicht](../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
+g. persoonsgebonden nummer: persoonsgebonden nummer als bedoeld in [artikel 1 van de Wet op het onderwijstoezicht](../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
 
 h. meldingsregister relatief verzuim: meldingsregister relatief verzuim als bedoeld in [artikel 24h van de Wet op het onderwijstoezicht](../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md).    
 
@@ -152,7 +152,7 @@ c. de instellingen van maatschappelijke zorg die reeds bij de begeleiding van de
 
 ####Inschrijving
 
-1.  De in artikel 2, eerste lid, bedoelde personen zijn verplicht te zorgen dat de jongere overeenkomstig de bepalingen van deze paragraaf staat ingeschreven als leerling of deelnemer bij een school of instelling die volledig dagonderwijs dan wel een bij de wet geregelde combinatie van leren en werken verzorgt en dat hij deze school of instelling na inschrijving geregeld bezoekt, als: 
+1.  De in artikel 2, eerste lid, bedoelde personen zijn verplicht te zorgen dat de jongere overeenkomstig de bepalingen van deze paragraaf staat ingeschreven als leerling of deelnemer bij een school of instelling die volledig dagonderwijs, een bij de wet geregelde combinatie van leren en werken, dan wel een onderwijsprogramma als bedoeld in [artikel 25a, derde lid, onderdeel d, van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) verzorgt en dat hij deze school of instelling na inschrijving geregeld bezoekt, als: 
 
 a. ten aanzien van de jongere de leerplicht, bedoeld in paragraaf 2 van deze wet is geëindigd, en  
 
@@ -173,7 +173,7 @@ De verplichting, bedoeld in artikel 4a, eerste lid, vangt aan direct na het eind
 
 ####De invulling van de verplichting tot geregeld schoolbezoek
 
-1.  De jongere die als leerling of deelnemer van een school of instelling staat ingeschreven op grond van artikel 4a, eerste lid, is verplicht het volledige onderwijsprogramma respectievelijk het volledige programma van de combinatie leren en werken te volgen dat door die school of instelling wordt aangeboden.   
+1.  De jongere die als leerling of deelnemer van een school of instelling staat ingeschreven op grond van artikel 4a, eerste lid, is verplicht het volledige onderwijsprogramma, het volledige programma van de combinatie leren en werken, respectievelijk het onderwijsprogramma, bedoeld in [artikel 25a, derde lid, onderdeel d, van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), te volgen dat door die school of instelling wordt aangeboden.   
 2.  De jongere voldoet aan de verplichting, bedoeld in artikel 4a, eerste lid, om de school of instelling na inschrijving geregeld te bezoeken, zolang hij geen les of praktijktijd verzuimt anders dan op een van de gronden, bedoeld in artikel 11.   
 
 ### §  3  
@@ -419,7 +419,7 @@ Indien aan het hoofd of aan de ambtenaar blijkt, dat een jongere in strijd met d
 
 ####Bevoegdheden politie
 
-Ambtenaren, aangesteld voor de uitvoering van de politietaak, zijn bevoegd een jongere die zij onder schooltijd op een voor het publiek toegankelijke plaats aantreffen, te brengen naar het hoofd van de school waarop de jongere als leerling staat ingeschreven. [Afdeling 5.3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.  
+Ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, zijn bevoegd een jongere die zij onder schooltijd op een voor het publiek toegankelijke plaats aantreffen, te brengen naar het hoofd van de school waarop de jongere als leerling staat ingeschreven. [Afdeling 5.3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.  
 
 ### Artikel  25  
 

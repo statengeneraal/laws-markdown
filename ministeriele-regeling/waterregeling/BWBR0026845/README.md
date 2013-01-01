@@ -15,7 +15,7 @@ In deze regeling wordt verstaan onder:
 
 *besluit:*[Waterbesluit](../../../AMvB/waterbesluit/BWBR0026872/README.md);  
 
-*minister:* minister van Verkeer en Waterstaat.    
+*minister:* minister van Infrastructuur en Milieu.    
 
 ### Hoofdstuk  2  
 
@@ -169,6 +169,16 @@ Het bemonsteren en analyseren van stedelijk afvalwater en het beoordelen van de 
 
 ####Het onttrekken van grondwater en infiltreren van water
 
+### Artikel  6.3a  
+
+[Artikel 6.10a, eerste lid, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) is niet van toepassing op het onttrekken van grondwater ten behoeve van: 
+
+a. een bronbemaling of proefbemaling, indien de hoeveelheid te onttrekken grondwater minder bedraagt dan 100 m <sup>3</sup> per uur en in totaal niet meer bedraagt dan 100.000 m <sup>3</sup>;  
+
+b. beregening, bevloeiing of veedrenking, indien de hoeveelheid te onttrekken grondwater minder bedraagt dan 60 m <sup>3</sup> per uur;  
+
+c. andere handelingen dan bedoeld onder a of b, indien de hoeveelheid te onttrekken grondwater minder bedraagt dan 10 m <sup>3</sup> per uur.    
+
 ### Artikel  6.4  
 
 1.  Bij een melding van het onttrekken van grondwater als bedoeld in [artikel 6.11, eerste lid, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md), worden de gegevens genoemd in artikel 6.27 verstrekt.   
@@ -177,7 +187,7 @@ Het bemonsteren en analyseren van stedelijk afvalwater en het beoordelen van de 
 ### Artikel  6.5  
 
 1.  Degene die water infiltreert, meet de kwaliteit van het te infiltreren water door het nemen van representatieve monsters en het analyseren van de in bijlage VII bij deze regeling opgenomen parameters met de in die bijlage genoemde frequentie.   
-2.  De analyse van de monsters vindt plaats overeenkomstig [bijlage C van het Waterleidingbesluit](../../../AMvB/waterleidingbesluit/BWBR0002339/README.md).   
+2.  De analyse van de monsters vindt plaats overeenkomstig [bijlage 4 van de Drinkwaterregeling](../../../ministeriele-regeling/drinkwaterregeling/BWBR0030152/README.md).   
 
 ### §  4  
 
@@ -251,44 +261,62 @@ b. artikel 4, onderdelen 1 en 2, van [bijlage II bij het Besluit omgevingsrecht]
 
 1.  Activiteiten van ondergeschikt belang als bedoeld in [artikel 6.12, tweede lid, onderdeel f, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) zijn: 
 
-a. het voor een periode van ten hoogste vijftien dagen plaatsen en opslaan van materiaal en materieel om een werk of onderhoud te kunnen uitvoeren in, op, boven, over of onder een oppervlaktewaterlichaam of een bijbehorend kunstwerk;  
+a. het voor een periode van ten hoogste zes maanden plaatsen en opslaan van bouwwerken, bouwborden, materiaal en materieel om een werk of onderhoud te kunnen uitvoeren in, op, boven, over of onder een oppervlaktewaterlichaam of een bijbehorend kunstwerk;  
 
-b. evenementen die niet langer duren dan vijftien dagen, met inbegrip van uitvoering van de werken ten behoeve van die evenementen;  
+b. evenementen die niet langer duren dan drie maanden;  
 
 c. het plaatsen van een in- of uitstroomvoorziening, mits de in- of uitstroomsnelheid maximaal 0,3 m/s bedraagt;  
 
-d. het plaatsen van een steiger, vlonder of overhangend bouwwerk bestemd voor niet-bedrijfsmatig gebruik dan wel voor naar aard en omvang vergelijkbaar overig gebruik, zulks ter beoordeling van de beheerder;  
+d. het plaatsen van een steiger, vlonder of aanmeervoorziening, inclusief de bijbehorende voorzieningen, voor zover deze gelegen zijn buiten de vaarweg en bestemd zijn voor niet-bedrijfsmatig gebruik, dan wel naar aard en omvang vergelijkbaar overig gebruik;  
 
-e. het plaatsen van informatieborden, informatiezuilen, reclameborden of reclamezuilen mits deze niet groter zijn dan 2 bij 3 meter en per 200 meter niet meer dan 5 borden of zuilen aanwezig zijn;  
+e. het plaatsen van informatieborden, informatiezuilen, reclameborden, reclamezuilen, sport- en speeltoestellen, gedenktekens, kunstobjecten of in aard en omvang hiermee vergelijkbare objecten, waarvoor geen of een beperkte fundering vereist is;  
 
 f. terreinophogingen van minder dan 50 m <sup>3</sup> per kadastraal perceel;  
 
-g. het plaatsen van visfuiken;  
+g. het plaatsen van visfuiken of visnetten;  
 
-h. het uitvoeren van regulier onderhoud door een ander dan de beheerder, en  
+h. het uitvoeren van onderhoud en vervanging van bestaande objecten door objecten van vergelijkbare aard en omvang en op dezelfde locatie;  
 
-i. andere activiteiten die vanwege de beperkte aard, omvang en korte duur naar het oordeel van de beheerder geen nadelige invloed hebben op het waterstaatkundige beheer.     
+i. het gelijkvloers op het maaiveldniveau aanbrengen van verhardingen en recreatieve voorzieningen, niet zijnde een bouwwerk;  
+
+j. het plaatsen van kabels en leidingen mits: 
+
+1°. deze geen intrinsiek gevaarlijke stoffen transporteren;  
+
+2°. deze niet liggen, parallel of als kruising, in de veiligheidszone van een primaire of secundaire waterkering, een kunstwerk of een vaarweg, of  
+
+3°. deze niet aangelegd worden middels boring, waarbij lagen met verschillende stijghoogtes worden doorkruist;    
+
+k. onderzoeken die niet langer duren dan zes maanden, en  
+
+l. andere activiteiten die vanwege de aard, beperkte omvang of korte duur naar het oordeel van de beheerder geen nadelige invloed hebben op het waterstaatkundige beheer.     
 2.  Het bepaalde in het eerste lid, onderdelen d, e en g, is niet van toepassing op kanalen.   
 
 ### Artikel  6.12  
 
 1.  Activiteiten van ondergeschikt belang als bedoeld in [artikel 6.13, tweede lid](../../../AMvB/waterbesluit/BWBR0026872/README.md), in samenhang met [artikel 6.12, tweede lid, onderdeel f, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) zijn: 
 
-a. het voor een periode van ten hoogste vijftien dagen plaatsen en opslaan van materiaal en materieel om een werk of onderhoud te kunnen uitvoeren in, op, boven, over of onder de Noordzee;  
+a. het in de periode van 1 april tot 1 oktober plaatsen van bouwborden en het opslaan van materiaal en materieel om een werk of onderhoud te kunnen uitvoeren in, op, boven, over of onder de Noordzee;  
 
-b. evenementen, die niet langer duren dan vijftien dagen, met inbegrip van de uitvoering van werken ten behoeve van die evenementen;  
+b. evenementen die niet langer duren dan drie maanden;  
 
 c. het maken van zandbanketten op het strand ten behoeve van niet-permanente bebouwing mits deze maximaal 6 meter +NAP hoog zijn en niet breder zijn dan 25 meter kustdwars, gemeten boven op het banket vanaf het duinfront met inachtneming van het gestelde in het tweede lid;  
 
-d. het oprichten en in stand houden van niet-permanente bebouwing in de periode van 1 april tot 1 oktober, en  
+d. het oprichten en in stand houden van niet-permanente bebouwing in de periode van 1 april tot 1 oktober;  
 
-e. het verplaatsen van zand op het strand, anders dan bedoeld in onderdeel c, tot een hoeveelheid van maximaal 20m <sup>3</sup> per strekkende meter.     
+e. het verplaatsen van zand op het strand, anders dan bedoeld in onderdeel c, tot een hoeveelheid van maximaal 20m <sup>3</sup> per strekkende meter, en  
+
+f. andere activiteiten die vanwege de aard, beperkte omvang of korte duur naar het oordeel van de beheerder geen nadelige invloed hebben op het waterstaatkundige beheer.     
 2.  Zandverplaatsingen als bedoeld in het eerste lid, onderdelen c en e, worden binnen één kalenderjaar niet gecombineerd uitgevoerd.   
 3.  De activiteiten, bedoeld in het eerste lid, worden uitgevoerd in de zone tussen de duinvoet en de laagwaterlijn.   
 
+### Artikel  6.12a  
+
+Activiteiten van ondergeschikt belang als bedoeld in [artikel 6.14, tweede lid](../../../AMvB/waterbesluit/BWBR0026872/README.md), in samenhang met [artikel 6.12, tweede lid, onderdeel f, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) zijn: activiteiten die vanwege de aard, beperkte omvang of korte duur naar het oordeel van de beheerder geen nadelige invloed hebben op het waterstaatkundig beheer.  
+
 ### Artikel  6.13  
 
-De rijkswateren, bedoeld in [artikel 6.12, tweede lid, onderdeel e, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md), zijn de wateren, bedoeld in bijlage VIII bij deze regeling.  
+De rijkswateren, bedoeld in [artikel 6.12, tweede lid, onderdeel e, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md), zijn de stroomvoerende delen van de wateren, bedoeld in bijlage VIII bij deze regeling.  
 
 ### §  4.3  
 
@@ -296,7 +324,7 @@ De rijkswateren, bedoeld in [artikel 6.12, tweede lid, onderdeel e, van het besl
 
 ### Artikel  6.14  
 
-1.  Degene die een werk of een activiteit gaat uitvoeren waarvoor krachtens [artikel 6.12](../../../AMvB/waterbesluit/BWBR0026872/README.md) of [6.13 van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) geen vergunning is vereist, meldt dit schriftelijk ten minste vier weken voor de uitvoering aan de minister.   
+1.  Degene die een werk of een activiteit gaat uitvoeren waarvoor krachtens [artikel 6.12](../../../AMvB/waterbesluit/BWBR0026872/README.md), [6.13](../../../AMvB/waterbesluit/BWBR0026872/README.md) of [6.14 van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) geen vergunning is vereist, meldt dit schriftelijk ten minste vier weken voor de uitvoering aan de minister.   
 2.  Bij de melding worden de volgende gegevens verstrekt: 
 
 a. de naam, het adres, het telefoonnummer en het e-mailadres van degene die voornemens is de activiteit of werkzaamheden te gaan uitvoeren;  
@@ -307,11 +335,11 @@ c. de aard en omvang van de activiteit of het werk, en
 
 d. een situatietekening met een schaal van ten minste 1:10.000 waarop de plaats en ligging van de activiteit of het werk ten opzichte van de omgeving is aangegeven en die voorzien is van een noordpijl.     
 3.  De minister kan degene die een melding doet verzoeken om nadere informatie te verstrekken over de uit te voeren activiteit of het werk, om te kunnen bepalen of maatwerkvoorschriften moeten worden gesteld.   
-4.  Het eerste lid is niet van toepassing op het uitvoeren van onderhoud, aanleg of wijziging van waterstaatswerken voor zover deze activiteiten door of vanwege de beheerder worden verricht.   
+4.  Het eerste lid is niet van toepassing op het uitvoeren van onderhoud dan wel de aanleg of wijziging of overig gebruik, anders dan in overeenstemming met de functie, van waterstaatswerken voor zover deze activiteiten door of vanwege de beheerder worden verricht.   
 
 ### Artikel  6.15  
 
-1.  Ten aanzien van werken of activiteiten waarvoor krachtens [artikel 6.12](../../../AMvB/waterbesluit/BWBR0026872/README.md) of [6.13 van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) geen vergunning is vereist, kan de minister met het oog op de bescherming van de belangen die het gestelde in [artikel 6.15 van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) en de artikelen 6.8 en 6.9 beoogt te waarborgen, maatwerkvoorschriften stellen ten aanzien van: 
+1.  Ten aanzien van werken of activiteiten waarvoor krachtens [artikel 6.12](../../../AMvB/waterbesluit/BWBR0026872/README.md), [6.13](../../../AMvB/waterbesluit/BWBR0026872/README.md) of [6.14 van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) geen vergunning is vereist, kan de minister met het oog op de bescherming van de belangen die het gestelde in [artikel 6.15 van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) en de artikelen 6.8 en 6.9 beoogt te waarborgen, maatwerkvoorschriften stellen ten aanzien van: 
 
 a. de locatie;  
 
@@ -325,7 +353,7 @@ e. de mogelijkheden van het verplaatsen van het werk in verband met hoogwater, o
 
 f. de waterdoorlatendheid van het werk in verband met wateropstuwende effecten.     
 2.  De overeenkomstig het eerste lid te stellen maatwerkvoorschriften leiden er niet toe dat de activiteit of het werk grotendeels of in het geheel geen doorgang kan vinden, tenzij die activiteit naar het oordeel van de beheerder ontoelaatbaar nadelige gevolgen heeft voor het betrokken waterstaatswerk.   
-3.  Het eerste lid is niet van toepassing op het uitvoeren van onderhoud, aanleg of wijziging van waterstaatswerken voor zover deze activiteiten door of vanwege de beheerder worden verricht.   
+3.  Het eerste lid is niet van toepassing op het uitvoeren van onderhoud dan wel de aanleg of wijziging of overig gebruik, anders dan in overeenstemming met de functie, van waterstaatswerken voor zover deze activiteiten door of vanwege de beheerder worden verricht.   
 
 ### §  5  
 
@@ -335,7 +363,7 @@ f. de waterdoorlatendheid van het werk in verband met wateropstuwende effecten.
 
 Het is verboden om zonder vergunning van de minister als bedoeld in [artikel 6.5 van de wet](../../../wet/waterwet/BWBR0025458/README.md) meer dan 5000 m <sup>3</sup> water per uur te brengen in, of meer dan 100 m <sup>3</sup> water per uur te onttrekken aan een oppervlaktewaterlichaam in beheer bij het Rijk, indien: 
 
-a. de in- of uitstroomsnelheid meer bedraagt dan 0,3 m/s, of  
+a. de instroomsnelheid meer bedraagt dan 0,3 m/s, of  
 
 b. de handeling plaatsvindt in samenhang met een activiteit waarvoor op grond van [artikel 6.2 van de wet](../../../wet/waterwet/BWBR0025458/README.md) een vergunning is vereist.    
 
@@ -360,9 +388,9 @@ d. een situatietekening met een schaal van ten minste 1:10.000 waarop de plaats 
 ### Artikel  6.18  
 
 1.  Een schriftelijke aanvraag voor een watervergunning wordt gedaan door middel van het formulier opgenomen in bijlage IX bij deze regeling.   
-2.   Dit lid is nog niet in werking getreden.    
-3.   Dit lid is nog niet in werking getreden.    
-4.   Dit lid is nog niet in werking getreden.    
+2.  Een aanvraag voor een watervergunning langs elektronische wijze wordt gedaan met gebruikmaking van het elektronische formulier dat op de datum van indiening van de aanvraag beschikbaar is via de landelijke voorziening, bedoeld in artikel 7.6 van de Wet algemene bepalingen omgevingsrecht.   
+3.  Het bevoegd gezag is verantwoordelijk voor het beheer van de gegevens die zijn opgenomen in het deel van de landelijke voorziening dat hem ter beschikking staat. Dit beheer omvat in elk geval de verlening en beperking van toegang tot de gegevens omtrent een aanvraag en de zorg voor de archiefbescheiden.   
+4.  Ten aanzien van de verwerking van persoonsgegevens in de landelijke voorziening is het bevoegd gezag verantwoordelijk in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
 
 ### Artikel  6.19  
 
@@ -407,7 +435,7 @@ d. tekeningen: PDF/X.
 
 In de aanvraag voor een vergunning als bedoeld in [artikel 6.2 van de wet](../../../wet/waterwet/BWBR0025458/README.md) worden, onverminderd het bepaalde in artikel 6.19, de volgende gegevens verstrekt: 
 
-a. een omschrijving van de lozing, waarbij in ieder geval wordt vermeld of de lozing continu dan wel discontinu plaatsvindt, met welke regelmaat lozingen of deellozingen plaatsvinden, de wijze waarop de lozing plaatsvindt en de activiteiten waaruit de lozing voortkomt;  
+a. een omschrijving van de lozing, waarbij in ieder geval worden vermeld de zuurgraad (pH), temperatuur en debiet en wordt vermeld of de lozing continu dan wel discontinu plaatsvindt, met welke regelmaat lozingen of deellozingen plaatsvinden, de wijze waarop de lozing plaatsvindt en de activiteiten waaruit de lozing voortkomt;  
 
 b. een karakterisering naar aard, samenstelling, eigenschappen, hoeveelheid en herkomst van de stoffen;  
 
@@ -533,7 +561,7 @@ f. de minimum-, gemiddelde en maximumtemperaturen van het in de bodem te brengen
 
 ### Artikel  6.30  
 
-In de aanvraag voor een vergunning als bedoeld in de [artikel 6.5, aanhef en onderdeel a, van de wet](../../../wet/waterwet/BWBR0025458/README.md) voor het onttrekken van water aan of het brengen van water in een oppervlaktewaterlichaam worden, onverminderd het bepaalde in artikel 6.19, de volgende gegevens verstrekt: 
+In de aanvraag voor een vergunning als bedoeld in [artikel 6.5, aanhef en onderdeel a, van de wet](../../../wet/waterwet/BWBR0025458/README.md) voor het onttrekken van water aan of het brengen van water in een oppervlaktewaterlichaam worden, onverminderd het bepaalde in artikel 6.19, de volgende gegevens verstrekt: 
 
 a. een onderbouwing van de noodzaak tot het brengen van water in een oppervlaktewaterlichaam;  
 
@@ -779,7 +807,7 @@ c. indien de concentratie voor één of meer van de stoffen cadmium, chroom, kop
 
 ### Artikel  8.2  
 
-Deze regeling treedt in werking met ingang van 22 december 2009 met uitzondering van artikel 6.18, tweede, derde en vierde lid, dat in werking treedt met ingang van 1 juli 2011.  
+Deze regeling treedt in werking met ingang van 22 december 2009 met uitzondering van artikel 6.18, tweede, derde en vierde lid, dat in werking treedt met ingang van 10 oktober 2011.  
 
 ### Artikel  8.3  
 
@@ -822,19 +850,19 @@ J.M.Cramer
 
 ### Bijlage  II  
 
-####Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het rijk het waterkwaliteitsbeheer voert, en grenzen van drogere oevergebieden (bijlage bij artikel 3.2, eerste lid , en 3.3  van de Waterregeling)
+####Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het Rijk het waterkwaliteitsbeheer voert, en grenzen van drogere oevergebieden (bijlage bij artikel 3.2, eerste lid , en 3.3  van de Waterregeling)
 
 Ligt ter inzage op het Ministerie van Infrastructuur en Milieu en is gepubliceerd op www.waterwet.nl.  
 
 ### Bijlage  III  
 
-####Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het rijk het waterkwantiteitsbeheer voert (bijlage bij artikel 3.2, tweede lid , van de Waterregeling)
+####Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het Rijk het waterkwantiteitsbeheer voert (bijlage bij artikel 3.2, tweede lid , van de Waterregeling)
 
 Ligt ter inzage op het Ministerie van Infrastructuur en Milieu en is gepubliceerd op www.waterwet.nl.  
 
 ### Bijlage  IV  
 
-####Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het rijk het waterstaatkundig beheer voert (bijlage bij artikel 3.2, derde lid , en artikel 6.7  van de Waterregeling)
+####Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het Rijk het waterstaatkundig beheer voert (bijlage bij artikel 3.2, derde lid , en artikel 6.7  van de Waterregeling)
 
 Ligt ter inzage op het Ministerie van Infrastructuur en Milieu en is gepubliceerd op www.waterwet.nl.  
 
@@ -973,7 +1001,7 @@ waarin: r = het betrokken zuiveringtechnische werk n = het aantal zuiveringtechn
 
 ### Bijlage  VIII  
 
-####Aanwijzing van rijkswateren (bijlage bij artikel 6.13  van de Waterregeling)
+####Aanwijzing van de stroomvoerende delen van de rijkswateren (bijlage bij artikel 6.13  van de Waterregeling)
 
 ![251299](http://wetten.overheid.nl/Illustration/251299)
 

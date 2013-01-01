@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 27 augustus 2001, nr. 5116667/01/6;
 
-Gelet op [artikel 226l van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);
+Gelet op artikel 226l van het Wetboek van Strafvordering;
 
 De Raad van State gehoord (advies van 29 oktober 2001, no. W03.01.0454/1);
 
@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. Onze Minister: de Minister van Justitie;  
+a. Onze Minister: Onze Minister van Veiligheid en Justitie;  
 
 b. College: het College van procureurs-generaal;  
 
@@ -29,7 +29,7 @@ e. onderdeel getuigenbescherming: het onderdeel bedoeld in artikel 2.
 
 ### Artikel  2  
 
-1.  Er is een onderdeel getuigenbescherming bij het Korps landelijke politiediensten, belast met:  
+1.  Er is een onderdeel belast met getuigenbescherming bij een landelijke eenheid als bedoeld in artikel 25, eerste lid, onderdeel b, van de Politiewet 2012, belast met:  
 
 a. het opstellen van dreigingsanalyses;  
 
@@ -40,7 +40,7 @@ c. de uitvoering van beschermingsmaatregelen.
 
 ### Artikel  3  
 
-Beschermingsmaatregelen kunnen worden getroffen ten aanzien van een getuige als bedoeld in [artikel 226a](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [226g](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) of [226k van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) of van een andere persoon die medewerking heeft verleend aan de met de opsporing en vervolging van strafbare feiten belaste autoriteiten, voor zover daartoe een dringende noodzaak is ontstaan als gevolg van die medewerking en daarmee verband houdend overheidsoptreden.  
+Beschermingsmaatregelen kunnen worden getroffen ten aanzien van een getuige als bedoeld in artikel 226a, 226g of 226k van het Wetboek van Strafvordering of van een andere persoon die medewerking heeft verleend aan de met de opsporing en vervolging van strafbare feiten belaste autoriteiten, voor zover daartoe een dringende noodzaak is ontstaan als gevolg van die medewerking en daarmee verband houdend overheidsoptreden.  
 
 ### Artikel  4  
 

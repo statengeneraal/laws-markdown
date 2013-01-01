@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is het toezicht op provincies en gemeenten te verminderen en daartoe de regels in de [Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md) en de [Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md) inzake taakverwaarlozing en schorsing en vernietiging te herzien en beter toepasbaar te maken, zodat bijzondere vormen van toezicht op provincies en gemeenten in andere wetten kunnen vervallen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is het toezicht op provincies en gemeenten te verminderen en daartoe de regels in de Provinciewet en de Gemeentewet inzake taakverwaarlozing en schorsing en vernietiging te herzien en beter toepasbaar te maken, zodat bijzondere vormen van toezicht op provincies en gemeenten in andere wetten kunnen vervallen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
@@ -170,7 +170,7 @@ Wijzigt de Wet vervoer gevaarlijke stoffen.
 
 ### Artikel  3.16  
 
-De [Belemmeringenwet Verordeningen](../../../../../../wet/belemmeringenwet/verordeningen/BWBR0001865/README.md) wordt ingetrokken.  
+De Belemmeringenwet Verordeningen wordt ingetrokken.  
 
 ### Artikel  3.17  
 

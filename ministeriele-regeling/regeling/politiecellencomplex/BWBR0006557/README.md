@@ -11,7 +11,7 @@ Besluiten:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a.  *politiecellencomplex:*   het politiecellencomplex, bedoeld in [artikel 1, onder d, van het Besluit beheer regionale politiekorpsen](../../../../AMvB/besluit/beheer/regionale/politiekorpsen/BWBR0006560/README.md);    b.  *cel:*   een afsluitbare ruimte geschikt voor het dag- en nachtverblijf van een persoon;    c.  *korpsbeheerder:*   de burgemeester, bedoeld in [artikel 23 van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md);    d.  *ingeslotene:*   de persoon, bedoeld in [artikel 1, onder c van het Besluit beheer regionale politiekorpsen](../../../../AMvB/besluit/beheer/regionale/politiekorpsen/BWBR0006560/README.md).     
+In deze regeling wordt verstaan onder:   a.  *politiecellencomplex:*   een ruimte als bedoeld in artikel 1, onder m, van de Regeling beheer politie;    b.  *cel:*   een afsluitbare ruimte geschikt voor het dag- en nachtverblijf van een persoon;    c.  *ingeslotene:*   een persoon als bedoeld in artikel 1, onder k, van de Regeling beheer politie.     
 
 ### Hoofdstuk  2  
 
@@ -21,13 +21,13 @@ In deze regeling wordt verstaan onder:   a.  *politiecellencomplex:*   het polit
 
 ### Artikel  2  
 
-1.  De korpsbeheerder draagt er zorg voor dat een politiecellencomplex zodanig is ingericht dat ingeslotenen geen gelegenheid wordt gegeven tot ontvluchting, vernieling, brandstichting of zelfdoding.   
-2.  De korpsbeheerder draagt er zorg voor dat voldoende maatregelen zijn genomen om: 
+1.  De korpschef draagt er zorg voor dat een politiecellencomplex zodanig is ingericht dat ingeslotenen geen gelegenheid wordt gegeven tot ontvluchting, vernieling, brandstichting of zelfdoding.   
+2.  De korpschef draagt er zorg voor dat voldoende maatregelen zijn genomen om: 
 
 a. de bedrijfshulpverleningtaken, bedoeld in [artikel 15, tweede lid, van de Arbeidsomstandighedenwet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) op adequate wijze te vervullen, en  
 
 b. de veiligheid van de ingeslotene te waarborgen.     
-3.  Er is voor het politiecellencomplex een ontruimingsplan dat is goedgekeurd door de brandweercommandant vanb de gemeentelijke brandweer.   
+3.  Er is voor het politiecellencomplex een ontruimingsplan dat is goedgekeurd door de commandant van de brandweer.   
 
 ### Artikel  3  
 
@@ -77,7 +77,7 @@ De cel is voorzien van een communicatie-installatie waarmee vanuit de cel te all
 
 1.  Een observatiecel voldoet in ieder geval aan de eisen, gesteld in de artikelen 5, 6 en 7.   
 2.  Een observatiecel heeft een vlakke vloer en bevat geen meubilair.   
-3.  De luchttemperatuur in een observatiecel is zodanig dat bij een buiten-temperatuur van –10°C en een windsnelheid van 10 m per seconde in de obervatiecel een temperatuur van 24 °C kan worden bereikt.   
+3.  De luchttemperatuur in een observatiecel is zodanig dat bij een buitentemperatuur van –10°C en een windsnelheid van 10 m per seconde in de obervatiecel een temperatuur van 24 °C kan worden bereikt.   
 4.  De observatiecel is voorzien van een camera.   
 
 ### Artikel  11  
@@ -91,7 +91,7 @@ De cel is voorzien van een communicatie-installatie waarmee vanuit de cel te all
 
 ### Artikel  12  
 
-1.  De korpsbeheerder draagt er zorg voor dat ten aanzien van personen die zijn ingesloten in een politiecellencomplex, onverminderd het bepaalde in de [Ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewoon opsporingsambtenaar](../../../../AMvB/ambtsinstructie/voor/de/politie/de/koninklijke/marechaussee/en/andere/etc/BWBR0006589/README.md), tenminste de volgende gegevens worden geregisteerd: 
+1.  De korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md), draagt er zorg voor dat ten aanzien van personen die zijn ingesloten in een politiecellencomplex, onverminderd het bepaalde in de [Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren](../../../../AMvB/ambtsinstructie/voor/de/politie/de/koninklijke/marechaussee/en/andere/etc/BWBR0006589/README.md), tenminste de volgende gegevens worden geregisteerd: 
 
 a. volledige personalia en aliassen;  
 
@@ -120,8 +120,8 @@ j. het tijdstip van controle tijdens de nachtelijke uren.
 ### Artikel  13  
 
 1.  Een politiecellencomplex dat niet voldoet aan de in deze regeling gestelde eisen, wordt niet gebruikt voor het insluiten van personen.   
-2.  Ten minste eens in de vijf jaar wordt een politiecellencomplex door bijzondere ambtenaren van politie, bedoeld in [artikel 43 van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md), gecontroleerd op het voldoen aan de hiervoor geldende eisen.   
-3.  De korpsbeheerder kan, de procureur-generaal bij het gerechtshof binnen welks ressort een politiecellencomplex is gelegen gehoord, voor het gebruik van dat complex anders dan voor inverzekeringstelling, ontheffing verlenen van het gestelde in de artikelen 3, 6, 8 en 9, vierde lid.   
+2.  Ten minste eens in de vijf jaar wordt een politiecellencomplex door ambtenaren van de rijksrecherche, gecontroleerd op het voldoen aan de hiervoor geldende eisen.   
+3.  De korpschef kan, de procureur-generaal bij het gerechtshof binnen welks ressort een politiecellencomplex is gelegen gehoord, voor het gebruik van dat complex anders dan voor inverzekeringstelling, ontheffing verlenen van het gestelde in de artikelen 3, 6, 8 en 9, vierde lid.   
 4.  Een ontheffing voor het gebruik van het politiecellencomplex als ruimte voor inverzekeringstelling, wordt slechts verleend door de procureur-generaal bij het gerechtshof binnen welks ressort een politiecellencomplex is gelegen.   
 5.  De ontheffing is met redenen omkleed, vermeldt het betreffende complex of de ruimte waarvoor zij geldig is en heeft een maximale geldigheidsduur van vijf jaren.   
 6.  Een ontheffing ten aanzien van artikel 8, eerste lid, kan uitsluitend worden verleend voor het gebruik in de maanden april tot en met oktober.   
@@ -132,12 +132,16 @@ j. het tijdstip van controle tijdens de nachtelijke uren.
 
 ### Artikel  14  
 
-1.  Ten aanzien van een politiecellencomplex dat gebouwd is of in aanbouw is genomen na 1 april 1994 gelden, in afwijking van artikel 3, eerste lid, artikel 8, eerste lid, en artikel 10, derde lid, tot 1 januari 2000 de navolgende eisen: 
+1.  Ten aanzien van een politiecellencomplex dat gebouwd is of in aanbouw is genomen na 1 april 1994, gelden, in afwijking van artikel 3, eerste lid, artikel 8, eerste lid, en artikel 10, derde lid, tot 1 januari 2000 de navolgende eisen: 
 
-a. de oppervlakte van een buitenruimte is ten minste 15 m⁲;  
+a. de oppervlakte van een buitenruimte is ten minste 15 m²;  
 
 b. de temperatuur in een observatiecel is ten minste 22°C en in de andere cellen ten minste 20°C.     
 2.  Ten aanzien van een politiecellencomplex als bedoeld in het eerste lid is, in afwijking van artikel 4, eerste lid, de breedte van de ruimten en gangen ten minste 1,25 m.   
+
+### Artikel  14a  
+
+Deze regeling berust op [artikel 30, tweede lid, van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md).  
 
 ### Artikel  15  
 

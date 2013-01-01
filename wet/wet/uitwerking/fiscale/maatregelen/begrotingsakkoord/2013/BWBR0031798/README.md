@@ -101,10 +101,15 @@ Wijzigt de Fiscale verzamelwet 2012.
 3.  In afwijking van [artikel 91, tweede lid, van de Wet op de accijns](../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) wordt tot en met 30 juni 2013 toegestaan dat halfzware olie en gasolie die zijn voorzien van bij ministeriële regeling voorgeschreven herkenningsmiddelen of bestanddelen daarvan bevatten, ook in andere tanks dan tanks als bedoeld in artikel 91, tweede lid, onderdelen a tot en met c, van die wet, niet zijnde brandstoftanks van motorrijtuigen op de weg en van pleziervaartuigen, voorhanden zijn. Voor de periode van 1 juli 2013 tot en met 31 december 2013 kan de inspecteur dit toestaan in naar behoren gerechtvaardigde gevallen.   
 4.  In geval van een verzoek om teruggaaf van accijns na 31 december 2012 voor halfzware olie en gasolie die zijn voorzien van bij ministeriële regeling voorgeschreven herkenningsmiddelen, wordt teruggaaf altijd verleend tegen het tarief, bedoeld in [artikel 27, derde lid, van de Wet op de accijns](../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) zoals dit luidde op 31 december 2012, tenzij belanghebbende aantoont dat de accijns is voldaan naar het tarief dat van toepassing is met ingang van 1 januari 2013.   
 
+### Artikel  XXa  
+
+1.  [Hoofdstuk III](../../../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) en [artikel 91 van de Wet belastingen op milieugrondslag](../../../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), zoals deze luidden op de dag voorafgaand aan de dag van inwerkingtreding van artikel XIII, en de daarop berustende bepalingen blijven van toepassing met betrekking tot leveringen van leidingwater die hebben plaatsgevonden vóór de dag van inwerkingtreding van artikel XIII.   
+2.  Voor het op verzoek verlenen van teruggaaf van belasting op leidingwater voor zover de door de belastingplichtige ter zake te ontvangen bedragen niet zijn en niet zullen worden ontvangen, blijven [artikel 92 van de Wet belastingen op milieugrondslag](../../../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), zoals dat artikel luidde op de dag voorafgaand aan de dag van inwerkingtreding van artikel XIII, en de daarop berustende bepalingen, van toepassing tot en met twee jaren na de dag voorafgaand aan de dag van inwerkingtreding van artikel XIII.   
+
 ### Artikel  XXI  
 
 1.  Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met dien verstande dat artikel IV voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2013.   
-2.  In afwijking van het eerste lid treedt artikel XIII in werking op een bij koninklijk besluit te bepalen tijdstip.   
+2.  In afwijking van het eerste lid treden de artikelen XIII en XXa in werking op een bij koninklijk besluit te bepalen tijdstip.   
 3.  Artikel VI en artikel VII werken terug tot en met 1 juli 2012.   
 
 ### Artikel  XXII  

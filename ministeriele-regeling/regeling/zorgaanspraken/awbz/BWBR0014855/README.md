@@ -88,17 +88,6 @@ h. geboren in het negende kalenderjaar, voorafgaande aan het lopende kalenderjaa
 
 ####Procedurele voorwaarden en vergoedingen
 
-### Artikel  6a  
-
-1.  Voor het verkrijgen van aanspraak op vergoeding van kosten voor extramurale zorg in een andere lidstaat dan Nederland behoeft de verzekerde geen toestemming van de zorgverzekeraar.   
-2.  De vergoeding voor deze zorg is gelijk aan de gemaakte kosten voor deze zorg en bedraagt niet meer dan de kosten die in de Nederlandse marktomstandigheden in redelijkheid passend zijn te achten.   
-
-### Artikel  6b  
-
-1.  Een zorgverzekeraar kan aan een verzekerde toestemming verlenen zich voor intramurale zorg te wenden tot een niet door hem gecontracteerde zorgaanbieder in een andere lidstaat dan Nederland indien de zorgverzekeraar heeft vastgesteld dat dat voor de geneeskundige verzorging van de verzekerde nodig is.   
-2.  Een zorgverzekeraar kan aan een verzekerde toestemming verlenen zich voor intra- of extramurale zorg te wenden tot een niet door hem gecontracteerde zorgaanbieder in Nederland of een andere staat dan een lidstaat, indien de zorgverzekeraar heeft vastgesteld dat dat voor de geneeskundige verzorging van de verzekerde nodig is.   
-3.  De vergoeding voor deze zorg is gelijk aan de gemaakte kosten voor deze zorg en bedraagt niet meer dan de kosten die in de Nederlandse marktomstandigheden in redelijkheid passend zijn te achten.   
-
 ### Artikel  7  
 
 1.  De verzekerde heeft slechts aanspraak op de zorg, bedoeld in de [artikelen 4](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [5](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [6](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [8](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [9](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [9a](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) en [13, eerste en tweede lid, van het Besluit](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), indien binnen twee weken na de aanvang van de zorg door of namens hem aan het uitvoeringsorgaan is gemeld met ingang van welke datum de zorg is aangevangen, welke zorg wordt geleverd en wie die zorg levert.   
@@ -110,10 +99,6 @@ a. dovenonderwijs volgt of heeft gevolgd,
 b. ingevolge de [Wet op de (re)integratie arbeidsgehandicapten](../../../../../wet/wet/op/de/(re)integratie/arbeidsgehandicapten/BWBR0009565/README.md) voor zorg door een doventolk in de werk- en onderwijssituatie vergoeding ontvangt, of  
 
 c. op grond van [artikel 1p van de Ziekenfondswet](../../../../../wet/ziekenfondswet/BWBR0002460/README.md) zoals die bepaling op 31 december 2005 luidde, zorg door een doventolk heeft ontvangen.     
-
-### Artikel  7a  
-
-De verzekerde heeft geen aanspraak op zorg als bedoeld in de [artikelen 4 tot en met 8 van het Besluit](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) gedurende het reizen of het tijdelijk verblijven buiten Nederland, voorzover deze door een instelling als bedoeld in [artikel 1, eerste lid, onderdeel d, onder 1°, van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) wordt verleend.  
 
 ### Artikel  9  
 
@@ -177,34 +162,13 @@ Andorra Australië Bahamas Barbados België Bermuda Canada Chili Colombia Costa 
 
 ####van de Regeling zorgaanspraken AWBZ
 
-Bijlage behorende bij artikel 1, onderdelen e en f, van de Regeling zorgaanspraken AWBZ   ![251545](http://wetten.overheid.nl/Illustration/251545)
+Bijlage behorende bij artikel 1, onderdelen e en f, van de Regeling zorgaanspraken AWBZ ZZP 1 VV  Vervallen.  ZZP 2 VV  Vervallen.    ![251545](http://wetten.overheid.nl/Illustration/251545)
 ![251545](http://wetten.overheid.nl/Illustration/251545)
 ![251545](http://wetten.overheid.nl/Illustration/251545)
 ![251545](http://wetten.overheid.nl/Illustration/251545)
 ![251545](http://wetten.overheid.nl/Illustration/251545)
 ![251545](http://wetten.overheid.nl/Illustration/251545)
-![251545](http://wetten.overheid.nl/Illustration/251545)
-![251545](http://wetten.overheid.nl/Illustration/251545)
-
-| ZZP 9a VV  | Geriatrische revalidatiezorg  |
-|:---|:---|
-|  *Cliëntprofiel*   |
-| Bij deze cliëntgroep heeft medisch-specialistische diagnostiek/interventie plaatsgevonden waarbij doorgaans sprake is geweest van een opname. In aansluiting op deze interventie is behoefte aan revaliderende behandeling zoals die door (of onder regie van) specialisten ouderengeneeskunde wordt uitgevoerd en die een integrale en multidisciplinaire aanpak vereist in een tijdelijke verblijfssetting (meestal 2–6 maanden) met een therapeutisch leefklimaat. De medisch-specialistische diagnostiek/interventie is afgerond. Naast de aandoening waarvoor de cliënt wordt gerevalideerd heeft de cliënt ook andere problemen in de zin van kwetsbaarheid en comorbiditeit (zoals problemen met de bloedsomloop, psychogeriatrische aandoeningen, het bewegingsapparaat en/of metabole stoornissen), hetgeen leidt tot instabiliteit, complicaties en er kan sprake zijn van een verminderde leer- en trainbaarheid.  De begeleiding bij *sociale redzaamheid* is primair gericht op het weer oppakken van allerlei zaken. De cliënten hebben ten aanzien van de *psychosociale/cognitieve functies* hulp, toezicht en sturing nodig, met name als gevolg van beperkingen op het gebied van concentratie.  Ten aanzien van de *ADL* is in het begin veelal sprake van overname van zorg. In de loop van de tijd neemt deze zorgbehoefte meestal af. Bij de overgang naar huis/beschut wonen met oproepbare wacht is de vereiste advisering en instructie nodig.  Ten aanzien van de *mobiliteit* hebben de cliënten vaak hulp of overname van zorg nodig. Gedurende de verblijfsperiode vermindert de mobiliteitsproblematiek grotendeels.  In het kader van herstel is *verpleegkundige aandacht* nodig, die gedurende de herstelperiode zal afnemen.  Bij deze cliënten is meestal geen sprake van *gedragsproblematiek* of *psychiatrische problematiek*.  De *aard van het begeleidingsdoel* is ontwikkelingsgericht. De behandeldoelen zijn erop gericht, dat de cliënt op verantwoorde wijze zelfstandig kan wonen (thuis of in het verzorgingshuis).  Het *beperkingenbeeld* in het kader van de revalidatie vermindert snel.  De cliënten hebben een tijdelijke behoefte aan (extra) behandeling en zorg, op meerdere momenten per dag. De *zorgverlening* is voortdurend in de nabijheid te leveren. Bij deze cliëntgroep is sprake van een multidisciplinaire inzet van behandelaars, waarbij specialistische deskundigheid op het gebied van ouderengeneeskunde noodzakelijk is.  De *dominante grondslag* is een somatische of soms psychogeriatrische ziekte/aandoening.  |  *Gemiddelde scores beperkingen)*     ![251545](http://wetten.overheid.nl/Illustration/251545)
-|
-| --- |
-|  *Aard van de psychiatrische problematiek*     ![251545](http://wetten.overheid.nl/Illustration/251545)
-|
-| --- |
-|  *Aard van het begeleidingsdoel*     ![251545](http://wetten.overheid.nl/Illustration/251545)
-|
-| --- |
-| --- |
-|  *Functies en tijd per cliënt per week*   |
-|  *Woonzorg*   |  *Dagbesteding*   |  *Behandelaars (BH)*   |  *Totaaltijd*   |
-| Functie  | BG  | PV  | VP  | Is integraal onderdeel van het ZZP.  | Bij de zorgverlening zijn behandelaars betrokken.  | Inclusief dagbesteding: 18,0 tot 22,0 uur  |
-| --- | ja  | ja  | Ja  |
-|  *Verblijfskenmerken*   |
-| Setting: beschermd verblijf.  Nachtdienst: wakende wacht.  Leveringsvoorwaarde: voortdurend in de nabijheid.  |
+ZZP 9a VV  Vervallen.   
 
 | ZZP 9b VV  | Herstelgerichte behandeling met verpleging en verzorging  |
 |:---|:---|

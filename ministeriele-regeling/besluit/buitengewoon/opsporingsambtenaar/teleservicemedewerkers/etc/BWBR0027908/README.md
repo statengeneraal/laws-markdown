@@ -21,8 +21,7 @@ In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon
 
 ### Artikel  2  
 
-1.  De personen, werkzaam in de functie van teleservicemedewerker in dienst van de regiopolitie Gelderland-Zuid, zijn aangewezen als buitengewoon opsporingsambtenaar.   
-2.  Aan de buitengewoon opsporingsambtenaar wordt op grond van het gestelde in het onderdeel Beperkte opsporingsbevoegdheden van [bijlage B-IV van de Circulaire Buitengewoon opsporingsambtenaar](../../../../../../../circulaire/circulaire/buitengewoon/opsporingsambtenaar/BWBR0027483/README.md), ontheffing verleend van het bepaalde in [artikel 16, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md), onder de voorwaarde dat een certificaat is overgelegd, waaruit blijkt dat betrokkene met goed gevolg binnen een periode van 5 jaar voorafgaande aan de aanvraag heeft deelgenomen aan een op deze functie gerichte interne opleiding.   
+Als buitengewoon opsporingsambtenaar worden aangewezen de ambtenaren van politie, bedoeld in [artikel 2, onder b, van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), werkzaam in de functie van teleservicemedewerker, die hun werkgebied hebben in de regionale eenheid Oost-Nederland, voorheen Gelderland-Zuid.  
 
 ### Artikel  3  
 
@@ -36,12 +35,12 @@ Op grond van dit besluit kunnen maximaal 50 personen als buitengewoon opsporings
 
 ### Artikel  5  
 
-1.  Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de hoofdofficier van justitie bij het arrondissementsparket te Arnhem.   
-2.  Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de korpschef van de regiopolitie Gelderland-Zuid te Nijmegen.   
+1.  Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de hoofdofficier van justitie bij het arrondissementsparket Oost-Nederland.   
+2.  Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).   
 
 ### Artikel  6  
 
-1.  De korpschef van de regiopolitie Gelderland-Zuid brengt jaarlijks, voor 1 april, verslag uit over: 
+1.  De korpschef brengt jaarlijks, voor 1 april, verslag uit over: 
 
 a. het aantal buitengewoon opsporingsambtenaren werkzaam in de artikel 2 genoemde functie;  
 

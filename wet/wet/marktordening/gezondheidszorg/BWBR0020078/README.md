@@ -62,7 +62,9 @@ o. College sanering: het College sanering zorginstellingen, genoemd in de [Wet t
 
 p. FIOD-ECD: de Belastingdienst/Fiscale Inlichtingen- en opsporingsdienst en Economische Controledienst van het Ministerie van Financiën;  
 
-q. Zorgverzekeringsfonds: het fonds, genoemd in [artikel 39 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).    
+q. Zorgverzekeringsfonds: het fonds, genoemd in [artikel 39 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+
+r. het CAK: het CAK, genoemd in [artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).    
 
 ### Artikel  2  
 
@@ -174,11 +176,11 @@ b. toezicht op de rechtmatige uitvoering door de zorgverzekeraars van hetgeen bi
 
 c. toezicht op de rechtmatige afrekening van de bijdragen, bedoeld in de [artikelen 32 tot en met 34 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), nadat een verzekeraar opgehouden is zorgverzekeringen uit te voeren;  
 
-d. toezicht op de rechtmatige en doelmatige uitvoering door de AWBZ-verzekeraars en de rechtspersonen, bedoeld in [artikel 40 van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), van hetgeen bij of krachtens [die wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) en de [artikelen 91, tweede lid, tweede volzin](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [123](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en [124 van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) is geregeld;  
+d. toezicht op de rechtmatige en doelmatige uitvoering door de AWBZ-verzekeraars, het CAK en de rechtspersonen, bedoeld in [artikel 40 van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), van hetgeen bij of krachtens [die wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) en de [artikelen 91, tweede lid, tweede volzin](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [123](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en [124 van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) is geregeld;  
 
 e. toezicht op de uitvoering van de artikelen 41, 42 en 43;  
 
-f. toezicht op de rechtmatige en doelmatige uitvoering door het CAK, bedoeld in [artikel 1, onderdeel w, van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), van hetgeen bij of krachtens [artikel 118a van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en [artikel 15 van de Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) is geregeld.    
+f. toezicht op de rechtmatige en doelmatige uitvoering door het CAK van hetgeen bij of krachtens [artikel 118a van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en [artikel 15 van de Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) is geregeld.    
 
 ### Artikel  17  
 
@@ -202,7 +204,9 @@ h. de FIOD-ECD;
 
 i. het College van procureurs-generaal van het Openbaar Ministerie en  
 
-j. het College bescherming persoonsgegevens.     
+j. het College bescherming persoonsgegevens;  
+
+k. Onze Minister, voor zo ver het betreft het toezicht op het CAK.     
 2.  De afspraken houden in ieder geval in dat een bestuursorgaan aan derden geen informatie vraagt indien een van de andere genoemde bestuursorganen de benodigde informatie kan verstrekken.   
 
 ### Artikel  18  
@@ -267,7 +271,7 @@ c. geen aanleiding geeft het beklag gegrond te verklaren.
 
 ### Artikel  24  
 
-1.  De zorgautoriteit zendt voor 1 november aan Onze Minister en aan het College zorgverzekeringen een samenvattend rapport over de rechtmatigheid van de uitvoering van de [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de daarop gebaseerde regelgeving door de zorgverzekeraars in het voorafgaande kalenderjaar.   
+1.  De zorgautoriteit zendt voor 1 november aan Onze Minister en aan het College zorgverzekeringen een samenvattend rapport over de rechtmatigheid van de uitvoering van de [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de daarop gebaseerde regelgeving door de zorgverzekeraars en het CAK in het voorafgaande kalenderjaar.   
 2.  Onze Minister zendt het rapport aan beide kamers der Staten-Generaal.   
 3.  De zorgautoriteit stelt het rapport algemeen verkrijgbaar.   
 4.  Bij ministeriële regeling kunnen regels worden gesteld over de inhoud en inrichting van het rapport.   
@@ -275,18 +279,18 @@ c. geen aanleiding geeft het beklag gegrond te verklaren.
 ### Artikel  25  
 
 1.  De zorgautoriteit maakt, onverminderd haar bevoegdheid tot eigen onderzoek, bij de uitoefening van haar taken, genoemd in artikel 16, onder b en c, zoveel mogelijk gebruik van de resultaten van door anderen verrichte controles.   
-2.  De zorgverzekeraars verstrekken desgevraagd aan de zorgautoriteit de informatie over de uitgevoerde werkzaamheden van hen die met de controle zijn belast en lichten haar volledig in over de resultaten van de controle door overlegging van rapporten of op andere door de zorgautoriteit aan te geven wijze.   
+2.  De zorgverzekeraars en het CAK verstrekken desgevraagd aan de zorgautoriteit de informatie over de uitgevoerde werkzaamheden van hen die met de controle zijn belast en lichten haar volledig in over de resultaten van de controle door overlegging van rapporten of op andere door de zorgautoriteit aan te geven wijze.   
 
 ### Artikel  26  
 
-1.  De zorgautoriteit stelt op verzoek van Onze Minister onderzoek in bij zorgverzekeraars.   
-2.  De zorgautoriteit kan tevens op verzoek van het College zorgverzekeringen onderzoek bij zorgverzekeraars instellen.   
+1.  De zorgautoriteit stelt op verzoek van Onze Minister onderzoek in bij zorgverzekeraars of het CAK.   
+2.  De zorgautoriteit kan tevens op verzoek van het College zorgverzekeringen onderzoek bij zorgverzekeraars of het CAK instellen.   
 
 ### Artikel  27  
 
 De zorgautoriteit kan regels stellen met betrekking tot: 
 
-a. de controle door zorgverzekeraars;  
+a. de controle door zorgverzekeraars, en voor zover betrekking hebbend op de uitvoering van hetgeen is bepaald bij of krachtens [artikel 118a van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), door het CAK;  
 
 b. de inhoud en inrichting van het accountantsverslag, bedoeld in [artikel 38 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), en van het aan dat verslag ten grondslag liggende onderzoek.    
 
@@ -296,7 +300,7 @@ b. de inhoud en inrichting van het accountantsverslag, bedoeld in [artikel 38 va
 
 ### Artikel  28  
 
-1.  De zorgautoriteit zendt voor 1 december aan Onze Minister en aan het College zorgverzekeringen een samenvattend rapport over de rechtmatigheid en de doelmatigheid van de uitvoering van de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) en de daarop gebaseerde regelgeving door de AWBZ-verzekeraars en de rechtspersonen, bedoeld in [artikel 40 van die wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), in het voorafgaande kalenderjaar.   
+1.  De zorgautoriteit zendt voor 1 december aan Onze Minister en aan het College zorgverzekeringen een samenvattend rapport over de rechtmatigheid en de doelmatigheid van de uitvoering van de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) en de daarop gebaseerde regelgeving door de AWBZ-verzekeraars, het CAK en de rechtspersonen, bedoeld in [artikel 40 van die wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), in het voorafgaande kalenderjaar.   
 2.  Onze Minister zendt het rapport aan beide kamers der Staten-Generaal.   
 3.  De zorgautoriteit stelt het rapport algemeen verkrijgbaar.   
 4.  Bij ministeriële regeling kunnen regels worden gesteld over de inhoud en inrichting van het rapport.   
@@ -304,18 +308,18 @@ b. de inhoud en inrichting van het accountantsverslag, bedoeld in [artikel 38 va
 ### Artikel  29  
 
 1.  De zorgautoriteit maakt, onverminderd haar bevoegdheid tot eigen onderzoek, bij de uitoefening van haar taak, genoemd in artikel 16, onder d, zoveel mogelijk gebruik van de resultaten van door anderen verrichte controles.   
-2.  De AWBZ-verzekeraars verstrekken desgevraagd aan de zorgautoriteit de informatie over de uitgevoerde werkzaamheden van hen die met de controle zijn belast en lichten haar volledig in over de resultaten van de controle door overlegging van rapporten of op andere door de zorgautoriteit aan te geven wijze.   
+2.  De AWBZ-verzekeraars en het CAK verstrekken desgevraagd aan de zorgautoriteit de informatie over de uitgevoerde werkzaamheden van hen die met de controle zijn belast en lichten haar volledig in over de resultaten van de controle door overlegging van rapporten of op andere door de zorgautoriteit aan te geven wijze.   
 
 ### Artikel  30  
 
-1.  De zorgautoriteit stelt op verzoek van Onze Minister onderzoek in bij AWBZ-verzekeraars en rechtspersonen als bedoeld in [artikel 40 van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).   
-2.  De zorgautoriteit kan tevens op verzoek van het College zorgverzekeringen onderzoek bij de AWBZ-verzekeraars instellen.   
+1.  De zorgautoriteit stelt op verzoek van Onze Minister onderzoek in bij AWBZ-verzekeraars, het CAK en rechtspersonen als bedoeld in [artikel 40 van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).   
+2.  De zorgautoriteit kan tevens op verzoek van het College zorgverzekeringen onderzoek bij de AWBZ-verzekeraars of het CAK instellen.   
 
 ### Artikel  31  
 
 De zorgautoriteit kan regels stellen met betrekking tot: 
 
-a. de controle door de AWBZ-verzekeraars;  
+a. de controle door de AWBZ-verzekeraars en, voor zover betrekking hebbend op de uitvoering van de in [artikel 49 van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) bedoelde taken, door het CAK.  
 
 b. de inhoud en inrichting van de verklaring en van het accountantsverslag, bedoeld in [artikel 36 van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), en van het daaraan ten grondslag liggende onderzoek.    
 
@@ -932,7 +936,8 @@ De zorgautoriteit kan uit hoofde van haar taak, bedoeld in artikel 16, onder b e
 
 ### Artikel  78  
 
-De zorgautoriteit kan uit hoofde van haar taak, bedoeld in artikel 16, onder d, een aanwijzing geven aan een AWBZ-verzekeraar of een rechtspersoon als bedoeld in [artikel 40 van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), die niet voldoet aan het bepaalde bij of krachtens [die wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).  
+1.  De zorgautoriteit kan uit hoofde van haar taak, bedoeld in artikel 16, onder d, een aanwijzing geven aan een AWBZ-verzekeraar, het CAK of een rechtspersoon als bedoeld in [artikel 40 van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), die niet voldoet aan het bepaalde bij of krachtens [die wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).   
+2.  De zorgautoriteit kan uit hoofde van haar taak, bedoeld in artikel 16, onder f, een aanwijzing geven aan het CAK indien het CAK niet voldoet aan hetgeen bij of krachtens [artikel 118a van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en [artikel 15 van de Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) is geregeld.   
 
 ### Artikel  79  
 
@@ -941,7 +946,7 @@ De zorgautoriteit kan uit hoofde van haar taak, bedoeld in artikel 16, onder d, 
 
 ### Artikel  80  
 
-1.  Indien een zorgverzekeraar of een verzekeraar als bedoeld in artikel 77, dan wel een AWBZ-verzekeraar, hierna te noemen: betrokkene, niet binnen de termijn, bedoeld in artikel 79, tweede lid, aan een krachtens artikel 77 onderscheidenlijk 78 gegeven aanwijzing voldoet, is de zorgautoriteit bevoegd: 
+1.  Indien een zorgverzekeraar, een verzekeraar als bedoeld in artikel 77, het CAK dan wel een AWBZ-verzekeraar, hierna te noemen: betrokkene, niet binnen de termijn, bedoeld in artikel 79, tweede lid, aan een krachtens artikel 77 onderscheidenlijk 78 gegeven aanwijzing voldoet, is de zorgautoriteit bevoegd: 
 
 a. een last onder bestuursdwang op te leggen, of  
 
@@ -986,13 +991,13 @@ De zorgautoriteit is ter handhaving van het bepaalde bij of krachtens de artikel
 
 ### Artikel  83  
 
-1.  De zorgautoriteit kan een zorgverzekeraar een last onder dwangsom opleggen ter zake van overtreding van de voorschriften gesteld bij of krachtens de [artikelen 3](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [4, tweede tot en met vijfde lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [5, derde lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [9](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [25, derde lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [28](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [29, eerste en tweede lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [35, tweede lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [37](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [38, eerste en vierde lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [64, tweede lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [68, tweede lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [86](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [87, vijfde of zesde lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [89, eerste, tweede en vijfde lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [90](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [92](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [96, vijfde lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [114](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of [118a, derde lid, van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
+1.  De zorgautoriteit kan een zorgverzekeraar een last onder dwangsom opleggen ter zake van overtreding van de voorschriften gesteld bij of krachtens de [artikelen 3](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [4, tweede tot en met vijfde lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [5, derde lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [9](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [25, derde lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [28](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [29, eerste en tweede lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [35, tweede lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [37](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [38, eerste en vierde lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [64, tweede lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [68, tweede lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [86](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [87, vijfde of zesde lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [89, eerste, tweede en zevende lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [90](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [92](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [96, vijfde lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [114](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of [118a, derde lid, van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
 2.  De zorgautoriteit kan een verzekeraar onderscheidenlijk rechtspersoon een last onder dwangsom opleggen ter zake van overtreding van de [artikelen 25, eerste en tweede lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), respectievelijk [30 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
 3.  De zorgautoriteit kan een verzekeraar die verzekeringen als zorgverzekering aanbiedt of uitvoert die niet aan het bij of krachtens de [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) geregelde voldoen, een last onder dwangsom opleggen.   
 
 ### Artikel  84  
 
-De zorgautoriteit kan een AWBZ-verzekeraar onderscheidenlijk een rechtspersoon als bedoeld in [artikel 40 van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) een last onder dwangsom opleggen ter zake van overtreding van de voorschriften, gesteld bij of krachtens [die wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of de [Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).  
+De zorgautoriteit kan een AWBZ-verzekeraar, het CAK of een rechtspersoon als bedoeld in [artikel 40 van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) een last onder dwangsom opleggen ter zake van overtreding van de voorschriften, gesteld bij of krachtens [die wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).  
 
 ### Paragraaf  6.4  
 
@@ -1042,16 +1047,11 @@ De zorgautoriteit kan een AWBZ-verzekeraar onderscheidenlijk een rechtspersoon a
 
 ### Artikel  105  
 
-1.  Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.   
-2.  Met betrekking tot besluiten waarbij consumenten of patiënten belanghebbend kunnen zijn, worden voor de toepassing van het eerste lid op landelijk niveau werkzaam zijnde consumenten- en patiëntenorganisaties als belanghebbenden aangemerkt.   
-
-### Artikel  106  
-
-In afwijking van artikel 105 van deze wet en van [artikel 8:7, tweede lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen beschikkingen van de zorgautoriteit als bedoeld in paragraaf 4 van dit hoofdstuk de rechtbank te Rotterdam bevoegd.  
+Met betrekking tot besluiten waarbij consumenten of patiënten belanghebbend kunnen zijn, worden voor de toepassing van [artikel 8:1 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), op landelijk niveau werkzame consumenten- en patiëntenorganisaties als belanghebbenden aangemerkt.  
 
 ### Artikel  107  
 
-In afwijking van [artikel 45 van de Wet op de Rechterlijke Organisatie](../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) neemt de Rechtbank te Rotterdam in eerste aanleg kennis van strafzaken en economische delicten in de zin van deze wet.  
+In afwijking van [artikel 45 van de Wet op de rechterlijke organisatie](../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) neemt de rechtbank Rotterdam in eerste aanleg kennis van strafzaken en economische delicten in de zin van deze wet.  
 
 ### Hoofdstuk  7  
 

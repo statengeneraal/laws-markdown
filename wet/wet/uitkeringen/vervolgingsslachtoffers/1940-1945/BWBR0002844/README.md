@@ -163,9 +163,9 @@ b. In afwijking van het bepaalde onder a wordt, indien de vervolging in het voor
 6.  Bij de vaststelling van de grondslag voor de vervolgde die vóór het tot uiting komen van de ziekten en gebreken, of de verergering daarvan, door of in verband met het volgen van onderwijs nog geen arbeid in beroep of bedrijf uitoefende, wordt rekening gehouden met de omstandigheden die ten tijde van de aanvraag bedoeld in artikel 30 terzake van invloed zijn. Onze Minister stelt te dien aanzien nadere regelen.   
 7.  De in de vorige leden, behoudens in het derde lid, onder b, bedoelde grondslag wordt bepaald op: 
 
-a. tenminste een bedrag van € 1.867,87 per maand per 1 juli 1976 per 1 juli 2012: € 2 004,74 en  
+a. tenminste een bedrag van € 1.867,87 per maand per 1 juli 1976 per 1 januari 2013: € 2 022,98 en  
 
-b. ten hoogste een bedrag van € 3.877,64 per maand per 1 juli 1976 per 1 juli 2012: € 4 161,81.     
+b. ten hoogste een bedrag van € 3.877,64 per maand per 1 juli 1976 per 1 januari 2013: € 4 199,68.     
 8.  De in het derde lid, onder b, bedoelde grondslag wordt bepaald op: 
 
 a. tenminste een bedrag van 23 000 rupiah per maand per 1 januari 2012: 4.523.410 rupiah en  
@@ -193,14 +193,14 @@ c. 80% voor de ongehuwde vervolgde met minderjarige kinderen;
 
 d. 75% voor de alleenstaande vervolgde;  
 
-e. 75% voor de weduwe en de weduwnaar van de vervolgde met minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.533,89 per maand per 1 juli 1976 per 1 juli 2012: € 2 719,57;  
+e. 75% voor de weduwe en de weduwnaar van de vervolgde met minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.533,89 per maand per 1 juli 1976 per 1 januari 2013: € 2 744,32;  
 
-f. 70% voor de weduwe en de weduwnaar van de vervolgde zonder minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.357,75 per maand per 1 juli 1976 per 1 juli 2012: € 2 530,54.     
+f. 70% voor de weduwe en de weduwnaar van de vervolgde zonder minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.357,75 per maand per 1 juli 1976 per 1 januari 2013: € 2 553,57.     
 2.   
 
-a. De percentages, genoemd in het eerste lid, onder a, b, c en d, worden met 15 verminderd met ingang van de dag waarop de uitkeringsgerechtigde de leeftijd van 65 jaar bereikt, tenzij artikel 8, derde lid, onder b, van toepassing is.  
+a. De percentages, genoemd in het eerste lid, onder a, b, c en d, worden met 15 verminderd met ingang van de dag waarop de uitkeringsgerechtigde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), bereikt, tenzij artikel 8, derde lid, onder b, van toepassing is.  
 
-b. De percentages, genoemd in het eerste lid, onder e en f, worden met 20 verminderd met ingang van de dag waarop de uitkeringsgerechtigde de leeftijd van 65 jaar bereikt, tenzij artikel 8, derde lid, onder b, van toepassing is.     
+b. De percentages, genoemd in het eerste lid, onder e en f, worden met 20 verminderd met ingang van de dag waarop de uitkeringsgerechtigde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), bereikt, tenzij artikel 8, derde lid, onder b, van toepassing is.     
 3.  In de in het eerste lid onder a, b, c en d genoemde percentages is een toeslagpercentage van 5 begrepen. Deze toeslag bedraagt niet minder dan een bedrag overeenkomende met 10% van de grondslag genoemd in artikel 8, zevende lid, onder a.   
 4.  Bij overlijden van de echtgenoot van de vervolgde blijft het uitkeringspercentage ongewijzigd tot en met de laatste dag van de maand, volgende op die, waarin het overlijden heeft plaatsgevonden.   
 
@@ -238,7 +238,7 @@ c. 12% van de overeenkomstig artikel 8 vastgestelde grondslag voor een gehuwde, 
 
 a. jaarlijks, naar evenredigheid van de ontwikkeling van de standaardpremie, bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet op de zorgtoeslag](../../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md),  
 
-b. bij het door de gerechtigde bereiken van de 65-jarige leeftijd,  
+b. bij het door de gerechtigde bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md),  
 
 c. bij veranderingen in de gezinssituatie van de gerechtigde, of  
 
@@ -255,7 +255,7 @@ d. indien de Sociale verzekeringsbank van oordeel is dat het niet herzien van he
 
 a. jaarlijks, naar evenredigheid van de ontwikkeling van de standaardpremie, bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet op de zorgtoeslag](../../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md),  
 
-b. bij het door de gerechtigde bereiken van de 65-jarige leeftijd,  
+b. bij het door de gerechtigde bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md),  
 
 c. bij veranderingen in de gezinssituatie van de gerechtigde, of  
 
@@ -270,7 +270,7 @@ d. indien de Sociale verzekeringsbank van oordeel is dat het niet herzien van he
 
 ### Artikel  17  
 
-1.  Op de in artikel 10 bedoelde uitkering wordt, indien de uitkeringsgerechtigde 65 jaar of ouder is, een toeslag verleend. Deze toeslag bedraagt: 
+1.  Op de in artikel 10 bedoelde uitkering wordt, indien de uitkeringsgerechtigde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt, een toeslag verleend. Deze toeslag bedraagt: 
 
 a. voor de gehuwde uitkeringsgerechtigde 60% van het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in [artikel 9, eerste lid, onder b, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), vermeerderd met de vakantie-uitkering, bedoeld in [artikel 29 van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
 
@@ -286,9 +286,9 @@ b. aan de gehuwde uitkeringsgerechtigde, van wie de echtgenoot recht heeft op en
 
 ### Artikel  17a  
 
-1.  Indien de uitkeringsgerechtigde over zijn uitkering de inkomensafhankelijke bijdrage, bedoeld in [artikel 41 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), verschuldigd is, heeft hij recht op een toeslag. Deze toeslag bedraagt het percentage van de uitkering dat overeenkomt met het bijdragepercentage, bedoeld in [artikel 45, tweede lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), vermenigvuldigd met anderhalf, voorzover de uitkering is te rekenen tot het deel van het bijdrage-inkomen, bedoeld in [artikel 43, eerste lid, onderdeel a, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
+1.  Indien de uitkeringsgerechtigde over zijn uitkering de inkomensafhankelijke bijdrage, bedoeld in [artikel 43 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), verschuldigd is, heeft hij recht op een toeslag. Deze toeslag bedraagt het percentage van de uitkering dat overeenkomt met het bijdragepercentage, bedoeld in [artikel 45, tweede lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), vermenigvuldigd met anderhalf, voorzover de uitkering is te rekenen tot het deel van het bijdrage-inkomen, bedoeld in [artikel 43, tweede lid, onderdeel a, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
 2.  Indien de uitkeringsgerechtigde over zijn uitkering de bijdrage, bedoeld in [artikel 69, tweede lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), verschuldigd is heeft hij recht op een toeslag. Voor de berekening van deze toeslag is het eerste lid, tweede volzin, van overeenkomstige toepassing.   
-3.  Het in aanmerking te nemen bijdrage-inkomen bedraagt op jaarbasis ten hoogste het bedrag, bedoeld in [artikel 43, tweede lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
+3.  Het in aanmerking te nemen bijdrage-inkomen bedraagt op jaarbasis ten hoogste het bedrag, bedoeld in [artikel 43, derde lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
 
 ### Artikel  18  
 
@@ -310,9 +310,9 @@ De op grond van de artikelen 14, tweede en derde lid, en 15, eerste en tweede li
 
 1.  Behoudens het bepaalde in artikel 14, zesde lid, worden op de uitkeringen, vermeerderd met de toeslagen als bedoeld in de artikelen 15 en 17, in mindering gebracht: 
 
-a. indien de uitkeringsgerechtigde de leeftijd van 65 jaar nog niet heeft bereikt, de bruto- inkomsten uit tegenwoordige arbeid in beroep of bedrijf, na aftrek van verwervingskosten, voorzover deze inkomsten 20% van de grondslag waarnaar de uitkering is berekend te boven gaan;  
+a. indien de uitkeringsgerechtigde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt, de bruto- inkomsten uit tegenwoordige arbeid in beroep of bedrijf, na aftrek van verwervingskosten, voorzover deze inkomsten 20% van de grondslag waarnaar de uitkering is berekend te boven gaan;  
 
-b. indien de uitkeringsgerechtigde 65 jaar of ouder is, en pensioengerechtigd ingevolge de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), het bruto-ouderdomspensioen krachtens die wet van de uitkeringsgerechtigde en de echtgenoot met inbegrip van de toeslag, bedoeld in [artikel 10 van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), en de vakantie-uitkering, bedoeld in [artikel 29 van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), voorzover dit niet meer bedraagt dan twee maal het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in [artikel 9, eerste lid, onder b, van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), vermeerderd met de vakantie-uitkering, bedoeld in [artikel 29 van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
+b. indien de uitkeringsgerechtigde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt, en pensioengerechtigd is ingevolge de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), het bruto-ouderdomspensioen krachtens die wet van de uitkeringsgerechtigde en de echtgenoot met inbegrip van de toeslag, bedoeld in [artikel 10 van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), en de vakantie-uitkering, bedoeld in [artikel 29 van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), voorzover dit niet meer bedraagt dan twee maal het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in [artikel 9, eerste lid, onder b, van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), vermeerderd met de vakantie-uitkering, bedoeld in [artikel 29 van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
 
 c. de inkomsten uit vermogen van de uitkeringsgerechtigde en zijn echtgenoot;  
 
@@ -320,7 +320,7 @@ d. de overige inkomsten, met uitzondering van inkomsten van de echtgenoot van de
 2.  Bij de toepassing van het bepaalde in het eerste lid, onder a, b en d, worden jaarlijkse vakantie-uitkeringen van de uitkeringsgerechtigde voor 1/12 deel per maand op de uitkering in mindering gebracht.   
 3.  Met inkomsten uit tegenwoordige arbeid worden gelijkgesteld uitkeringen op grond van de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) en de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), alsmede de daarmede vergelijkbare uitkeringen welke worden verleend aan het overheidspersoneel.   
 4.  Indien toepassing is gegeven aan artikel 11 worden de inkomsten uit arbeid in beroep of bedrijf in mindering gebracht voorzover de som van de uitkering en die inkomsten de grondslag, bedoeld in artikel 8, overtreft.   
-5.  De inkomsten uit vermogen, bedoeld in het eerste lid, onder c, worden berekend naar het vermogen dat de uitkeringsgerechtigde en zijn echtgenoot op het tijdstip van de aanvraag, bedoeld in artikel 30, bezitten. Deze inkomsten worden op jaarbasis bepaald op een percentage van dat vermogen dat gelijk is aan het forfaitaire rendementspercentage, genoemd in [artikel 5.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), met dien verstande dat van het aldus berekende bedrag f 1428 per 1 januari 2012: € 814,20 per jaar wordt vrijgelaten.   
+5.  De inkomsten uit vermogen, bedoeld in het eerste lid, onder c, worden berekend naar het vermogen dat de uitkeringsgerechtigde en zijn echtgenoot op het tijdstip van de aanvraag, bedoeld in artikel 30, bezitten. Deze inkomsten worden op jaarbasis bepaald op een percentage van dat vermogen dat gelijk is aan het forfaitaire rendementspercentage, genoemd in [artikel 5.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), met dien verstande dat van het aldus berekende bedrag f 1428 per 1 januari 2013: € 837,55 per jaar wordt vrijgelaten.   
 6.  Bij bedrijfsbeëindiging vindt het bepaalde in het eerste lid, onder *c* en het vijfde lid, van dat tijdstip af overeenkomstige toepassing.   
 7.  Tot de inkomsten bedoeld in het eerste lid worden niet gerekend doelgerichte subsidies of tegemoetkomingen, waaronder begrepen de vermeerdering, bedoeld in de [artikelen 10](../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md) en [11 van de Wet buitengewoon pensioen 1940-1945](../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md), de [artikelen 9](../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md) en [10 van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md) en de [artikelen 12](../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md), [13](../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md) en [14 van de Wet buitengewoon pensioen Indisch verzet](../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md), voorzover deze de toeslag, bedoeld in artikel 10, derde lid, of het bedrag, bedoeld in artikel 21b, indien dit is toegekend, overschrijdt.   
 8.  Indien de echtgenoot van de uitkeringsgerechtigde eveneens recht heeft op enig pensioen als bedoeld in artikel 17, derde lid, en op dat pensioen een vermindering is toegepast uit hoofde van recht op ouderdomspensioen ingevolge de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) van tenminste 40% van het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in [artikel 9, eerste lid, onder b, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), vermeerderd met 40% van de vakantie-uitkering, bedoeld in [artikel 29 van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), zijn het eerste tot en met achtste lid van toepassing, met dien verstande dat, in afwijking van het eerste lid, onder b, op schriftelijk verzoek van de uitkeringsgerechtigde 50% van het aan de uitkeringsgerechtigde en de echtgenoot toegekende bruto-ouderdomspensioen krachtens de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), met inbegrip van de vakantie-uitkering, bedoeld in [artikel 29 van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), op de uitkering in mindering wordt gebracht.   
@@ -330,12 +330,6 @@ a. in afwijking van het eerste lid, onder c, de inkomsten uit vermogen van de ui
 
 b. in afwijking van het vijfde lid, onder a, het in dat artikelonderdeel bedoelde bedrag wordt gehalveerd.     
 10.  Onze Minister kan nadere regelen stellen met betrekking tot de vaststelling van de inkomsten uit of in verband met arbeid in beroep of bedrijf en de daarop drukkende verwervingskosten, de overige inkomsten, alsmede met betrekking tot de vaststelling en de taxatie van het vermogen.   
-
-### Artikel  19a  
-
-1.  Op de uitkeringen, waaronder begrepen de met de in artikel 17 genoemde toeslag verhoogde uitkering, wordt, na toepassing van de artikel 14, zesde lid, en 19, een bedrag ingehouden, dat gelijk is aan het bedrag van de premie dat een werkgever ingevolge [hoofdstuk 3 van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) op het overeenkomstige loon van een werknemer, die verzekerd is ingevolge [die wet](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), inhoudt.   
-2.  Indien ingevolge de [Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) een premie wordt ingehouden waarvan het percentage per bedrijfstak verschilt, wordt met inachtneming van bij algemene maatregel van bestuur te stellen regelen door Onze Minister voor de toepassing van het eerste lid een gemiddeld percentage vastgesteld.   
-3.  Het eerste lid is niet van toepassing indien de uitkeringsgerechtigde 65 jaar of ouder is, of de uitkering is berekend naar een grondslag als bedoeld in artikel 8, derde lid, onder b, dan wel is vastgesteld met toepassing van artikel 13.   
 
 ### §  4  
 
@@ -550,7 +544,7 @@ De vervolgde is gehouden medewerking te verlenen aan een medisch onderzoek, indi
 
 1.  De uitkering wordt, met uitzondering van de op grond van artikel 8 vastgestelde grondslag, opnieuw vastgesteld: 
 
-a. wanneer de uitkeringsgerechtigde of zijn echtgenoot de 65-jarige leeftijd bereikt;  
+a. wanneer de uitkeringsgerechtigde of zijn echtgenoot de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), bereikt;  
 
 b. wanneer de uitkeringsgerechtigde in het huwelijk treedt of zijn huwelijk wordt beëindigd door echtscheiding of overlijden van zijn echtgenoot;  
 

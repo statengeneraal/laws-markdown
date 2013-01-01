@@ -31,14 +31,14 @@ c. *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1, lid 1 onderdeel l, 
 
 ### Artikel  2  
 
-Voor de kosten ten behoeve van het verzorgen van een diensthond heeft de geleider aanspraak op een maandelijkse tegemoetkoming van € 101,50 per diensthond.  
+Voor de kosten ten behoeve van het verzorgen van een diensthond heeft de geleider aanspraak op een maandelijkse tegemoetkoming van € 103,53 per diensthond.  
 
 ### Artikel  3  
 
 1.  Voor de permanente verantwoordelijkheid voor de diensthond heeft de geleider aanspraak op een compensatie in tijd of in geld.   
 2.  Het bevoegd gezag bepaalt of een geleider aanspraak heeft op een compensatie in tijd of in geld.   
 3.  De compensatie in tijd bedraagt achttien uren per maand. De uren worden door het bevoegd gezag ingeroosterd.   
-4.  De compensatie in geld bedraagt € 243,60 per maand.   
+4.  De compensatie in geld bedraagt € 248,47 per maand.   
 5.  De compensatie heeft geen betrekking op de noodzakelijke verzorging van de diensthond binnen werktijd.   
 
 ### Artikel  4  
@@ -104,7 +104,7 @@ Het bevoegd gezag voorziet in een geschikte kennel voor de diensthond op het woo
 
 ### Artikel  12  
 
-De uitrusting, bedoeld in de artikelen 9, derde lid en 10, en de kennel, bedoeld in artikel 11, blijven eigendom van het betreffende politiekorps. Indien de geleider zijn functie niet meer vervult, kan het bevoegd gezag bepalen dat de kennel niet wordt teruggevorderd.  
+De uitrusting, bedoeld in de artikelen 9, derde lid en 10, en de kennel, bedoeld in artikel 11, blijven eigendom van de politie, bedoeld in [artikel 1, onder b, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md). Indien de geleider zijn functie niet meer vervult, kan het bevoegd gezag bepalen dat de kennel niet wordt teruggevorderd.  
 
 ### Paragraaf  5  
 

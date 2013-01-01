@@ -711,17 +711,17 @@ d. indien het kwekersrecht is verleend aan een persoon die daartoe ingevolge het
 
 ### Artikel  78  
 
-1.  De rechtbank te ’s-Gravenhage is in eerste aanleg bij uitsluiting bevoegd voor vorderingen tot vernietiging en opeising van het kwekersrecht als bedoeld in de artikelen 75 en 76.   
-2.  De rechtbank te ’s-Gravenhage en de voorzieningenrechter van die rechtbank zijn in eerste aanleg bij uitsluiting bevoegd voor: 
+1.  De rechtbank Den Haag is in eerste aanleg bij uitsluiting bevoegd voor vorderingen tot vernietiging en opeising van het kwekersrecht als bedoeld in de artikelen 75 en 76.   
+2.  De rechtbank Den Haag en de voorzieningenrechter van die rechtbank zijn in eerste aanleg bij uitsluiting bevoegd voor: 
 
 a. vorderingen als bedoeld in de artikelen 70 en 71;  
 
 b. vorderingen, die worden ingesteld door een ander dan de houder van een kwekersrecht om te doen vaststellen dat bepaalde verrichte handelingen niet strijdig zijn met een kwekersrecht.     
-3.  Van de vonnissen en beschikkingen van de rechtbank staat beroep open bij het gerechtshof te ’s-Gravenhage.   
+3.  Van de vonnissen en beschikkingen van de rechtbank staat beroep open bij het gerechtshof Den Haag.   
 
 ### Artikel  79  
 
-1.  De deskundige leden, bedoeld in de [artikelen 55a, tweede lid](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en [70, tweede lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), worden bij koninklijk besluit benoemd. Zij worden genoemd lid, onderscheidenlijk plaatsvervangend lid, in de rechtbank te ’s-Gravenhage dan wel raad, onderscheidenlijk plaatsvervangend raad, in het gerechtshof ’s-Gravenhage, al naar gelang het geval.   
+1.  De deskundige leden, bedoeld in de [artikelen 55a, tweede lid](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en [70, tweede lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), worden bij koninklijk besluit benoemd. Zij worden genoemd lid, onderscheidenlijk plaatsvervangend lid, in de rechtbank Den Haag dan wel raad, onderscheidenlijk plaatsvervangend raad, in het gerechtshof Den Haag, al naar gelang het geval.   
 2.  De leden en de plaatsvervangende leden, onderscheidenlijk de raden en de plaatsvervangende raden, worden voor de tijd van vijf jaren benoemd. Zij zijn bij aftreden terstond opnieuw benoembaar. Op eigen verzoek kunnen zij bij koninklijk besluit worden ontslagen.   
 3.  Aan de leden en de plaatsvervangende leden, onderscheidenlijk de raden en de plaatsvervangende raden, wordt bij koninklijk besluit ontslag verleend met ingang van de eerste dag van de maand volgend op die waarin zij de leeftijd van zeventig jaar hebben bereikt.   
 4.  [Artikel 66, vijfde lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) is van overeenkomstige toepassing ten aanzien van de leden en de plaatsvervangende leden onderscheidenlijk de raden en de plaatsvervangende raden.   
@@ -759,10 +759,6 @@ c. het horen van belanghebbenden door de Raad.
 ### Artikel  85  
 
 Bij of krachtens algemene maatregel van bestuur kunnen, ter uitvoering van een besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad van de Europese Unie gezamenlijk of van de Commissie van de Europese Gemeenschappen, regels worden gesteld over de toelating van plantengroepen, die niet aan de vereisten van artikel 35 voldoen, alsmede over het in de handel brengen van teeltmateriaal, afkomstig van die plantengroepen.  
-
-### Artikel  86  
-
-Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.  
 
 ### Artikel  87  
 

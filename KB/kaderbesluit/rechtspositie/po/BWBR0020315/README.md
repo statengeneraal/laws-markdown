@@ -59,7 +59,7 @@ h. salaris: het bedrag dat voor de betrokkene is vastgesteld aan de hand van de 
 ####Uitgangspunten functiewaarderingssysteem
 
 1.  Voor het functiewaarderingssysteem, bedoeld in artikel 3, gelden als uitgangspunten de op 31 juli 2006 geldende functiestructuur en beloningsverhoudingen in de sector primair onderwijs.   
-2.  Voor de uitkomsten van het functiewaarderingssysteem geldt dat aan een functie ten hoogste een salarisschaal is verbonden waarvan het hoogste bedrag overeenkomt met het maximum van schaal DE als opgenomen in bijlage 1, categorie 1.   
+2.   Vervallen.    
 
 ### Artikel  5  
 
@@ -228,7 +228,7 @@ Salarisnummers en maandbedragen in euro’s bij een normbetrekking, bedoeld in a
 
 #### *Categorie 4* 
 
-#### *Onderwijsondersteunend personeel* 
+#### *Ondersteunend en beheerspersoneel* 
 
 *Per 1 januari 2009 (loonpeil 1 augustus 2008)*   
 
@@ -283,6 +283,21 @@ Salarisnummers en maandbedragen in euro’s bij een normbetrekking, bedoeld in a
 | 11  | 4978  | 11  | 5690  | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12  | 5113  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 13  | 5178  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Schaal 15  | Schaal 16  | nr.  | bedrag  | nr.  | bedrag  |
+|:---|:---|:---|:---|:---|:---|
+| 1  | 4509  | 1  | 4891  |
+| 2  | 4619  | 2  | 5028  |
+| 3  | 4754  | 3  | 5163  |
+| 4  | 5028  | 4  | 5447  |
+| 5  | 5163  | 5  | 5593  |
+| 6  | 5301  | 6  | 5746  |
+| 7  | 5447  | 7  | 5928  |
+| 8  | 5593  | 8  | 6119  |
+| 9  | 5746  | 9  | 6314  |
+| 10  | 5928  | 10  | 6516  |
+| 11  | 6119  | 11  | 6721  |
+| 12  | 6314  | 12  | 6936  |
 
 #### *Categorie 5* 
 

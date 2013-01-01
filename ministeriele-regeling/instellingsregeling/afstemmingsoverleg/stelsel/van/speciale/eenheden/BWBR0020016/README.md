@@ -59,23 +59,19 @@ g. de voorbereiding en actualisering van de ministeriële regelingen betrekking 
 
 ####Samenstelling
 
-1.  De voorzitter van het overleg is de plaatsvervangend Directeur Regie van de Nationaal Coördinator Terrorismebestrijding. Het overleg is voorts samengesteld uit een vertegenwoordiger van: 
+1.  De voorzitter van het overleg is de Coördinator Bewaken en Beveiligen van de Nationaal Coördinator Terrorismebestrijding en Veiligheid. Het overleg is voorts samengesteld uit een vertegenwoordiger van: 
 
-a. De Korpsbeheerder van het KLPD;  
+a. de korpschef van de politie;  
 
-b. de Directie Politie van het ministerie van BZK;  
+b. het Directoraat-generaal Politie van het ministerie van Veiligheid en Justitie,  
 
 c. de Directie Juridische Zaken van het ministerie van Defensie;  
 
-d. de Defensiestaf van het ministerie van Defensie;  
+d. de Defensiestaf van het ministerie van Defensie en  
 
-e. het landelijk parket van het Openbaar Ministerie;  
-
-f. het Korps landelijke politiediensten;  
-
-g. (een vertegenwoordiger namens) de portefeuillehouder van de Raad van Hoofdcommissarissen;     
+e. het landelijk parket van het Openbaar Ministerie.     
 2.  Het hoofd DSI neemt deel aan het overleg;   
-3.  Het secretariaat van de commissie berust bij de Nationaal Coördinator Terrorismebestrijding.   
+3.  Het secretariaat van de commissie berust bij de Nationaal Coördinator Terrorismebestrijding en Veiligheid.   
 
 ### Artikel  6  
 

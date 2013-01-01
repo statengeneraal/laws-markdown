@@ -63,13 +63,19 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen kunnen bij mi
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen worden de landen van het Koninkrijk der Nederlanden aangemerkt als afzonderlijke mogendheden.  
 
+### Artikel  1.6a  
+
+####Levensverzekering
+
+In deze wet en de daarop berustende bepalingen wordt verstaan onder levensverzekering een overeenkomst van levensverzekering als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  
+
 ### Artikel  1.7  
 
 ####Lijfrenten en pensioenen
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder lijfrente: 
 
-a. een aanspraak volgens een overeenkomst van *levensverzekering* (artikel 3.117) op vaste en gelijkmatige periodieke uitkeringen die eindigen uiterlijk bij overlijden, welke aanspraak niet kan worden afgekocht, vervreemd, prijsgegeven, of formeel of feitelijk tot voorwerp van zekerheid kan dienen, anders dan op grond van artikel 3.126, eerste lid, onderdeel d, onder 2°, of ten behoeve van uitstel van betaling op grond van [artikel 25, vijfde lid, Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), alsmede de met een zodanige aanspraak verband houdende aanspraak op winstuitkeringen;  
+a. een aanspraak volgens een overeenkomst van *levensverzekering* op vaste en gelijkmatige periodieke uitkeringen die eindigen uiterlijk bij overlijden, welke aanspraak niet kan worden afgekocht, vervreemd, prijsgegeven, of formeel of feitelijk tot voorwerp van zekerheid kan dienen, anders dan op grond van artikel 3.126, eerste lid, onderdeel d, onder 2°, of ten behoeve van uitstel van betaling op grond van [artikel 25, vijfde lid, Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), alsmede de met een zodanige aanspraak verband houdende aanspraak op winstuitkeringen;  
 
 b. een aanspraak op het tegoed van een *lijfrentespaarrekening* of op de waarde van een *lijfrentebeleggingsrecht* (artikel 3.126a), welke aanspraak niet kan worden afgekocht, vervreemd, prijsgegeven, of formeel of feitelijk tot voorwerp van zekerheid kan dienen, anders dan op grond van artikel 3.126a, tweede lid, onderdeel c, onder 2°, of ten behoeve van uitstel van betaling op grond van [artikel 25, vijfde lid, Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), alsmede de met een zodanige aanspraak verband houdende aanspraak op winstuitkeringen.     
 2.  In deze wet en de daarop berustende bepalingen wordt verstaan onder *pensioenregeling*: 
@@ -85,12 +91,6 @@ d. een pensioenregeling van een internationale organisatie;
 e. een pensioenregeling als bedoeld in [artikel 6A van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md).     
 3.  Aanspraken op periodieke uitkeringen waarvan de uitkeringen zijn ingegaan en waarvan de hoogte van de uitkeringen niet voor de gehele uitkeringsperiode in geldeenheden is vastgesteld, worden gelijkgesteld met aanspraken op vaste en gelijkmatige periodieke uitkeringen indien de aanspraken en uitkeringen voldoen aan bij ministeriële regeling te stellen regels.   
 4.  Een aanspraak op het tegoed van een lijfrentespaarrekening of op de waarde van een lijfrentebeleggingsrecht als bedoeld in het eerste lid, onderdeel b, is, voor zover de ter zake ingelegde bedragen in aanmerking konden worden genomen voor de bepaling van het belastbare inkomen uit werk en woning, niet vatbaar voor beslag.   
-
-### Artikel  1.7b  
-
-####Gelijkstelling met de premie voor een verzekering
-
-Voor de toepassing van deze wet en de daarop berustende bepalingen wordt met de premie voor een verzekering gelijkgesteld de op de verzekeringnemer drukkende uitgaven ter beloning van de assurantietussenpersoon ter zake van het afsluiten dan wel het verlengen van de desbetreffende verzekering of het incasseren van premies.  
 
 ### Artikel  1.8  
 
@@ -181,7 +181,7 @@ b. voor buitenlandse belastingplichtigen: volgens de regels van afdeling 7.4.
 ####Keuzerecht voor buitenlandse belastingplichtigen
 
 1.  De binnenlandse belastingplichtige die niet gedurende het gehele kalenderjaar in Nederland woont, en de buitenlandse belastingplichtige die als inwoner van een andere lidstaat van de Europese Unie, de BES eilanden of van een bij ministeriële regeling aangewezen andere mogendheid waarmee Nederland een regeling ter voorkoming van dubbele belasting is overeengekomen die voorziet in de uitwisseling van inlichtingen, in de belastingheffing van die lidstaat, de BES eilanden of die mogendheid wordt betrokken, kunnen kiezen voor toepassing van de regels van deze wet voor binnenlandse belastingplichtigen. Voor de toepassing van deze bepaling kunnen bij ministeriële regeling bewijsmiddelen worden voorgeschreven. Een persoon die niet belastingplichtig is kan kiezen voor toepassing van de regels van deze wet voor binnenlandse belastingplichtigen indien hij daardoor wordt aangemerkt als *partner* van een belastingplichtige. De persoonsgebonden aftrek (hoofdstuk 6) en de negatieve inkomsten uit gemeenschappelijke inkomensbestanddelen als bedoeld in artikel 2.17 blijven buiten aanmerking voorzover deze bij de partner bij de belastingheffing in de woonstaat of op de BES eilanden in aanmerking kunnen worden genomen.   
-2.  De keuze geldt niet voor toepassing van de artikelen 3.60, 3.83, 3.116, vierde lid, 3.136, 4.16, eerste lid, onderdeel h, 4.17, 4.17a, 4.17b, 4.17c, 4.18, 4.25 en 9.2. De artikelen 7.2, achtste tot en met twaalfde lid, en 7.5, zevende lid, blijven van toepassing. Bij de toepassing van de artikelen 2.7, eerste en tweede lid, en 8.1, onderdeel b, blijft de zinsnede «na toepassing van regelingen ter voorkoming van dubbele belasting» buiten aanmerking. Artikel 8.9, derde lid, vindt geen toepassing.   
+2.  De keuze geldt niet voor toepassing van de artikelen 3.60, 3.83, 3.136, 4.16, eerste lid, onderdeel h, 4.17, 4.17a, 4.17b, 4.17c, 4.18, 4.25 en 9.2. De artikelen 7.2, achtste tot en met twaalfde lid, en 7.5, zevende lid, blijven van toepassing. Bij de toepassing van de artikelen 2.7, eerste en tweede lid, en 8.1, onderdeel b, blijft de zinsnede «na toepassing van regelingen ter voorkoming van dubbele belasting» buiten aanmerking. Artikel 8.9, derde lid, vindt geen toepassing.   
 3.  Indien de belastingplichtige niet langer kiest voor de toepassing van de regels van deze wet voor binnenlandse belastingplichtigen, wordt in het laatste jaar dat voorafgaat aan het eerste jaar waarin de binnenlandse belastingplichtige die niet gedurende het gehele kalenderjaar in Nederland woont, of de buitenlandse belastingplichtige niet heeft gekozen voor de regels die gelden voor binnenlandse belastingplichtigen, het inkomen vermeerderd met een bedrag dat gelijk is aan de in de laatste acht jaar ten laste van het inkomen gekomen negatieve bedragen die niet behoren tot het Nederlandse inkomen volgens artikel 7.1 en die negatieve bedragen die daartoe wel behoren maar waarover het heffingsrecht op grond van het belastingverdrag niet aan Nederland is toegewezen. De vorige volzin is niet van toepassing met betrekking tot negatieve bedragen uit kalenderjaren van binnenlandse belastingplicht en de persoonsgebonden aftrek als bedoeld in hoofdstuk 6.   
 4.  In gevallen als bedoeld in het derde lid, wordt de aanslag over het in dat lid bedoelde jaar verhoogd met het bedrag van de belastingkorting voor verlies uit aanmerkelijk belang dat in de laatste acht jaar in mindering is gebracht op de belasting op het belastbare inkomen uit werk en woning of de volgens [artikel 10 van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) berekende premie voor de volksverzekeringen.   
 5.  Bij algemene maatregel van bestuur kunnen regels worden gesteld voor de vermindering van belasting en de verrekening van dividendbelasting voor dat deel van het belastbare inkomen dat niet behoort tot het Nederlandse inkomen volgens artikel 7.1, en dat deel dat wel daartoe behoort maar waarover het heffingsrecht op grond van het belastingverdrag niet aan Nederland is toegewezen.   
@@ -214,7 +214,7 @@ c. het belastbare inkomen uit sparen en beleggen. Voor belastingplichtigen die g
 ####Verschuldigde inkomstenbelasting op gewone aanslag
 
 1.  Indien in het belastbare inkomen uit werk en woning of het belastbare inkomen uit aanmerkelijk belang te conserveren inkomen is begrepen, is de verschuldigde belasting voorzover deze bij wege van aanslag wordt geheven de belasting die wordt berekend over de belastbare inkomens, verminderd met het daarin begrepen te conserveren inkomen.   
-2.  Als te conserveren inkomen worden aangemerkt de positieve inkomensbestanddelen die in aanmerking zijn genomen op grond van de artikelen 3.58, eerste lid, 3.64, eerste lid, 3.83, eerste of tweede lid, 3.116, vierde lid, 3.133, tweede lid, onderdelen h of j, 3.136, eerste, tweede, derde, vierde of vijfde lid, 4.16, eerste lid, onderdeel h, 7.2, achtste lid, of  7.5, vierde, vijfde of zevende lid.   
+2.  Als te conserveren inkomen worden aangemerkt de positieve inkomensbestanddelen die in aanmerking zijn genomen op grond van de artikelen 3.58, eerste lid, 3.64, eerste lid, 3.83, eerste of tweede lid, 3.133, tweede lid, onderdelen h of j, 3.136, eerste, tweede, derde, vierde of vijfde lid, 4.16, eerste lid, onderdeel h, 7.2, achtste lid, of  7.5, vierde, vijfde of zevende lid.   
 3.  Op een bij de aangifte gedaan verzoek wordt het positieve inkomensbestanddeel dat in aanmerking is genomen op grond van artikel 3.58, eerste lid, geheel of gedeeltelijk niet als te conserveren inkomen aangemerkt.   
 4.  Op verzoek van de gezamenlijke belanghebbenden wordt als te conserveren inkomen aangemerkt het vervreemdingsvoordeel uit aanmerkelijk belang wegens een overgang krachtens huwelijksvermogensrecht op een niet in Nederland wonende verkrijger of wegens een verdeling van een huwelijksgemeenschap naar een zodanige verkrijger binnen twee jaren na de ontbinding van de huwelijksgemeenschap, indien de verkregen aandelen of winstbewijzen geen deel uitmaken van het vermogen van een voor zijn rekening gedreven Nederlandse onderneming als bedoeld in artikel 7.2 en niet tot het resultaat van een werkzaamheid in Nederland van hem behoren.   
 5.  Op verzoek van de gezamenlijke belanghebbenden wordt als te conserveren inkomen aangemerkt het in de tweede volzin aangeduide gedeelte van het vervreemdingsvoordeel uit aanmerkelijk belang wegens een overgang krachtens erfrecht onder algemene titel of onder bijzondere titel op een natuurlijk persoon die niet in Nederland woont. Als te conserveren inkomen wordt aangemerkt het deel dat uitgaat boven het vervreemdingsvoordeel dat ingevolge artikel 4.17a in aanmerking zou zijn genomen wanneer de natuurlijk persoon, bedoeld in de eerste volzin, in Nederland zou hebben gewoond ten tijde van de overgang.   
@@ -236,10 +236,10 @@ De belasting op het belastbare inkomen uit werk en woning (afdeling 3.1 respecti
 
 | Bij een belastbaar inkomen uit werk en woning van meer dan  | maar niet meer dan  | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag dat wordt berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van het belastbare inkomen uit werk en woning dat het in kolom I vermelde bedrag te boven gaat  | I  | II  | III  | IV  |
 |:---|:---|:---|:---|:---|:---|:---|
-| –  | € 18 945  | –  | 1,95%  |
-| € 18 945  | € 33 863  | €    369  | 10,80%  |
-| € 33 863  | € 56 491  | €  1 980  | 42%  |
-| € 56 491  | –  | € 11 483  | 52%  |
+| –  | € 19 645  | –  | 5,85%  |
+| € 19 645  | € 33 363  | € 1 149  | 10,85%  |
+| € 33 363  | € 55 991  | € 2 637  | 42%  |
+| € 55 991  | –  | € 12 140  | 52%  |
 
 ### Artikel  2.10a  
 
@@ -249,10 +249,10 @@ In afwijking van artikel 2.10 wordt voor de belastingplichtige die geboren is v�
 
 | Bij een belastbaar inkomen uit werk en woning van meer dan  | maar niet meer dan  | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag dat wordt berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van het belastbare inkomen uit werk en woning dat het in kolom I vermelde bedrag te boven gaat  | I  | II  | III  | IV  |
 |:---|:---|:---|:---|:---|:---|:---|
-| –  | € 18 945  | –  | 1,95%  |
-| € 18 945  | € 34 055  | €    369  | 10,80%  |
-| € 34 055  | € 56 491  | €  2 000  | 42%  |
-| € 56 491  | –  | € 11 423  | 52%  |
+| –  | € 19 645  | –  | 5,85%  |
+| € 19 645  | € 33 555  | € 1 149  | 10,85%  |
+| € 33 555  | € 55 991  | € 2 658  | 42%  |
+| € 55 991  | –  | € 12 081  | 52%  |
 
 ### Artikel  2.11  
 
@@ -295,7 +295,7 @@ De belasting op het belastbare inkomen uit sparen en beleggen (afdeling 5.1 resp
 2.  Voorzover vermogensbestanddelen inkomen, al dan niet vrijgesteld, uit werk en woning of uit aanmerkelijk belang genereren, worden zij niet in aanmerking genomen voor de bepaling van het belastbare inkomen uit sparen en beleggen.   
 3.  In afwijking in zoverre van het eerste en tweede lid worden: 
 
-a. schulden ter zake waarvan de renten op basis van een specifieke bepaling in hoofdstuk 3 of hoofdstuk 4 van aftrek zijn uitgesloten, in aanmerking genomen bij de bepaling van het belastbare inkomen uit sparen en beleggen;  
+a. schulden ter zake waarvan de renten op basis van een specifieke bepaling in hoofdstuk 3 of hoofdstuk 4 van aftrek zijn uitgesloten en schulden die zijn aangegaan in verband met een eigen woning, doch niet behoren tot de eigenwoningschuld, bedoeld in artikel 3.119a, in aanmerking genomen bij de bepaling van het belastbare inkomen uit sparen en beleggen;  
 
 b. vermogensbestanddelen, of delen daarvan, die gedurende een periode van niet meer dan drie achtereenvolgende maanden inkomen uit werk en woning of aanmerkelijk belang genereren, en daaraan voorafgaand en daaropvolgend inkomen uit sparen en beleggen genereren, tevens in aanmerking genomen bij de bepaling van het belastbare inkomen uit sparen en beleggen indien in deze periode een peildatum is gelegen als bedoeld in artikel 5.2;  
 
@@ -313,7 +313,7 @@ d. van een werkgever die een met de belastingplichtige verbonden persoon is als 
 ####Toerekening afgezonderd particulier vermogen
 
 1.  Voor de toepassing van deze wet en de daarop berustende bepalingen worden de bezittingen en schulden alsmede de opbrengsten en uitgaven van een afgezonderd particulier vermogen als bedoeld in het tweede lid, geacht bij degene die dat vermogen bij leven of bij overlijden heeft afgezonderd tot zijn bezit te behoren, onderscheidenlijk op te komen (toerekening). Na het overlijden van de persoon, bedoeld in de eerste volzin, worden de bezittingen en schulden alsmede de opbrengsten en uitgaven van een afgezonderd particulier vermogen als bedoeld in het tweede lid, toegerekend aan diens erfgenamen, per erfgenaam in dezelfde verhouding als hij verkrijger krachtens erfrecht is van de overledene. Vanaf het moment dat de in de vorige volzin bedoelde erfgenaam is overleden, treden diens erfgenamen en de daaropvolgende erfgenamen in de plaats van de overleden erfgenaam, per erfgenaam in dezelfde verhouding als hij erfgenaam is van de overleden erfgenaam waarvoor hij in de plaats treedt.   
-2.  Voor de toepassing van dit artikel en de daarop berustende bepalingen wordt verstaan onder een afgezonderd particulier vermogen, niet zijnde een instelling als bedoeld in [artikel 32, eerste lid, onder 8°, van de Successiewet 1956](../../../../../wet/successiewet/1956/BWBR0002226/README.md): een afgezonderd vermogen waarmee meer dan bijkomstig een particulier belang wordt beoogd, tenzij tegenover de afzondering van dit vermogen: 
+2.  Voor de toepassing van dit artikel en de daarop berustende bepalingen wordt verstaan onder een afgezonderd particulier vermogen, niet zijnde een sociaal belang behartigende instelling: een afgezonderd vermogen waarmee meer dan bijkomstig een particulier belang wordt beoogd, tenzij tegenover de afzondering van dit vermogen: 
 
 a. een uitreiking van aandelen, winstbewijzen, lidmaatschapsrechten, bewijzen van deelgerechtigdheid of daarmee vergelijkbare rechten heeft plaatsgevonden, of  
 
@@ -349,10 +349,10 @@ b. het rechtens dan wel in feite, direct of indirect, vervreemden van vermogensb
 
 ### Artikel  2.17  
 
-####Toerekening inkomensbestanddelen, bestanddelen van de rendementsgrondslag, geheven dividendbelasting en kortingen voor maatschappelijke beleggingen, directe beleggingen in durfkapitaal en culturele beleggingen van de belastingplichtige en zijn partner
+####Toerekening inkomensbestanddelen, bestanddelen van de rendementsgrondslag, geheven dividendbelasting en korting voor groene beleggingen van de belastingplichtige en zijn partner
 
 1.  Inkomensbestanddelen van de belastingplichtige en zijn *partner* worden in aanmerking genomen bij degene door wie de inkomensbestanddelen zijn genoten of op wie deze drukken. Bestanddelen van de rendementsgrondslag van de belastingplichtige en zijn partner worden in aanmerking genomen bij degene tot wiens bezit die bestanddelen behoren.   
-2.  Gemeenschappelijke inkomensbestanddelen, de gezamenlijke grondslag sparen en beleggen, bedoeld in artikel 5.2, tweede lid, en de op grond van artikel 9.2 als voorheffing in aanmerking te nemen geheven dividendbelasting, van de belastingplichtige en zijn partner worden geacht bij hen op te komen, tot hun bezit te behoren onderscheidenlijk als voorheffing in aanmerking te worden genomen, in de onderlinge verhouding die zij daarvoor ieder jaar bij het doen van aangifte kiezen. De korting voor maatschappelijke beleggingen, bedoeld in artikel 8.19, en de korting voor directe beleggingen in durfkapitaal en culturele beleggingen, bedoeld in artikel 8.20, van de belastingplichtige en zijn *partner* worden geacht bij hen op te komen in de verhouding die op grond van dit artikel wordt toegepast voor de gezamenlijke grondslag sparen en beleggen. Indien de gezamenlijke grondslag sparen en beleggen van de belastingplichtige en zijn *partner* nihil bedraagt, worden de kortingen in aanmerking genomen bij degene met het hoogste verzamelinkomen. Indien het verzamelinkomen van de belastingplichtige en het verzamelinkomen van zijn partner aan elkaar gelijk zijn en de gezamenlijke grondslag sparen en beleggen van de belastingplichtige en zijn partner nihil bedraagt, worden de kortingen in aanmerking genomen bij degene met de hoogste leeftijd.   
+2.  Gemeenschappelijke inkomensbestanddelen, de gezamenlijke grondslag sparen en beleggen, bedoeld in artikel 5.2, tweede lid, en de op grond van artikel 9.2 als voorheffing in aanmerking te nemen geheven dividendbelasting, van de belastingplichtige en zijn partner worden geacht bij hen op te komen, tot hun bezit te behoren onderscheidenlijk als voorheffing in aanmerking te worden genomen, in de onderlinge verhouding die zij daarvoor ieder jaar bij het doen van aangifte kiezen. De korting voor groene beleggingen, bedoeld in artikel 8.19, van de belastingplichtige en zijn partner wordt geacht bij hen op te komen in de verhouding die op grond van dit artikel wordt toegepast voor de gezamenlijke grondslag sparen en beleggen. Indien de gezamenlijke grondslag sparen en beleggen van de belastingplichtige en zijn partner nihil bedraagt, wordt de korting in aanmerking genomen bij degene met het hoogste verzamelinkomen. Indien het verzamelinkomen van de belastingplichtige en het verzamelinkomen van zijn partner aan elkaar gelijk zijn en de gezamenlijke grondslag sparen en beleggen van de belastingplichtige en zijn partner nihil bedraagt, wordt de korting in aanmerking genomen bij degene met de hoogste leeftijd.   
 3.  Een gemeenschappelijk inkomensbestanddeel wordt geacht bij de belastingplichtige en zijn partner voor de helft op te komen, de gezamenlijke grondslag sparen en beleggen wordt geacht bij de belastingplichtige en zijn partner voor de helft tot hun bezit te behoren en de geheven dividendbelasting wordt geacht bij ieder voor de helft te zijn geheven voorzover zij daarvoor geen onderlinge verhouding hebben gekozen.   
 4.  De voor een gemeenschappelijk inkomensbestanddeel, voor de gezamenlijke grondslag sparen en beleggen of voor de geheven dividendbelasting tot stand gekomen onderlinge verhouding kan door de belastingplichtige en zijn partner gezamenlijk worden gewijzigd tot het moment waarop de aanslag, navorderingsaanslag, conserverende aanslag of conserverende navorderingsaanslag van de belastingplichtige en zijn partner, onherroepelijk vaststaan. In afwijking van de eerste volzin kunnen de belastingplichtige en zijn partner de tot stand gekomen onderlinge verhouding nog wijzigen tot zes weken na een uitspraak van de Hoge Raad ingeval een in de eerste volzin bedoelde aanslag vanwege die uitspraak onherroepelijk komt vast te staan.   
 5.  Indien de belastingplichtige gedurende het gehele kalenderjaar dezelfde partner heeft, zijn gemeenschappelijke inkomensbestanddelen: 
@@ -452,7 +452,6 @@ b. de vergoeding over de schuldvordering is op het tijdstip van het aangaan van 
 4.  Het eerste lid, onderdeel b, is – in afwijking in zoverre van artikel 2.14 – niet van toepassing op voordelen uit hoofde van een schuldvordering die tevens als belastbaar resultaat uit overige werkzaamheden zouden kunnen worden aangemerkt.   
 5.  Indien de voorwaarden waaronder een schuldvordering is aangegaan nadien worden gewijzigd, wordt voor de toepassing van het derde lid de schuldvordering op het tijdstip van het wijzigen van de voorwaarden geacht opnieuw te zijn aangegaan.   
 6.  De in het eerste lid, onderdeel b, bedoelde voordelen worden bepaald alsof de schuldvordering een onderneming vormt.   
-7.  Dit artikel is niet van toepassing met betrekking tot directe beleggingen in durfkapitaal als bedoeld in artikel 5.17, voorzover het bedrag van die belegging binnen de begrenzing van artikel 5.16 blijft en die beleggingen voor het overige voldoen aan de ter zake gestelde voorwaarden.   
 
 ### Artikel  3.4  
 
@@ -549,9 +548,11 @@ f. uitkeringen uit een stakingskas;
 
 g. een door Onze Minister na overleg met Onze Minister van Economische Zaken, Landbouw en Innovatie bij ministeriële regeling te bepalen deel, daaronder mede begrepen het geheel, van de voordelen ingevolge bij deze ministeriële regeling aangewezen regelingen ten behoeve van de ontwikkeling en instandhouding van bos en natuur alsmede aangewezen overeenkomsten die vooruitlopen op die regelingen;  
 
-h. voordelen die op de voet van [artikel 32ab, eerste lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) als eindheffingsbestanddeel in aanmerking zijn genomen, mits de belastingplichtige de aldaar bedoelde schriftelijke mededeling in zijn administratie bewaart, en  
+h. voordelen die op de voet van [artikel 32ab, eerste lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) als eindheffingsbestanddeel in aanmerking zijn genomen, mits de belastingplichtige de aldaar bedoelde schriftelijke mededeling in zijn administratie bewaart;  
 
-i. voordelen die worden genoten op grond van door Onze Minister in overeenstemming met Onze Minister van Infrastructuur en Milieu bij ministeriële regeling aan te wijzen mobiliteitsprojecten die worden gehouden in het kader van het project Anders betalen voor mobiliteit of die worden gehouden in het kader van het programma Beter Benutten.     
+i. voordelen die worden genoten op grond van door Onze Minister in overeenstemming met Onze Minister van Infrastructuur en Milieu bij ministeriële regeling aan te wijzen mobiliteitsprojecten die worden gehouden in het kader van het project Anders betalen voor mobiliteit of die worden gehouden in het kader van het programma Beter Benutten, en  
+
+j. voordelen die worden genoten op grond van [artikel 23 van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).     
 2.  Op de voordelen bedoeld in het eerste lid, onderdeel d, en de voordelen op grond van een buitenlandse regeling die naar aard en strekking overeenkomt met een regeling als bedoeld in dat onderdeel, is artikel 2.14, eerste lid, niet van toepassing.   
 
 ### Artikel  3.14  
@@ -564,7 +565,7 @@ a. het voeren van een zekere staat;
 
 b. vaartuigen die worden gebruikt voor representatieve doeleinden;  
 
-c. geldboeten opgelegd door een Nederlandse strafrechter en geldsommen betaald aan de Staat ter voorkoming van strafvervolging in Nederland of ter voldoening aan een voorwaarde verbonden aan een besluit tot gratieverlening, bestuurlijke boeten, geldboeten opgelegd op basis van bij wet geregeld tuchtrecht, geldboeten opgelegd door een instelling van de Europese Unie, alsmede kosten als bedoeld in [artikel 234, zesde lid](../../../../../wet/gemeentewet/BWBR0005416/README.md), en [artikel 235, derde lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md);  
+c. geldboeten opgelegd door een Nederlandse strafrechter en geldsommen betaald aan de Staat ter voorkoming van strafvervolging in Nederland of ter voldoening aan een voorwaarde verbonden aan een besluit tot gratieverlening, bestuurlijke boeten, geldboeten opgelegd op basis van bij wet geregeld tuchtrecht, geldboeten opgelegd door een instelling van de Europese Unie, alsmede kosten als bedoeld in [artikel 234, vijfde lid](../../../../../wet/gemeentewet/BWBR0005416/README.md), en [artikel 235, derde lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md);  
 
 d. misdrijven ter zake waarvan de belastingplichtige door een Nederlandse strafrechter bij onherroepelijke uitspraak is veroordeeld, daaronder begrepen de misdrijven die zijn betrokken bij de bepaling van de hoogte van de opgelegde straf en ter zake waarvan het Openbaar Ministerie heeft verklaard te zullen afzien van vervolging;  
 
@@ -627,7 +628,7 @@ c. kleding, met uitzondering van werkkleding;
 
 d. persoonlijke verzorging;  
 
-e. geheven inkomensafhankelijke bijdragen als bedoeld in [paragraaf 5.2 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), of een buitenlandse regeling die naar aard en strekking daarmee overeenkomt en  
+e. geheven inkomensafhankelijke bijdragen als bedoeld in [artikel 43 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), of een buitenlandse regeling die naar aard en strekking daarmee overeenkomt en  
 
 f. reizen en verblijf in verband met cursussen en opleidingen voor studie en beroep, alsmede in verband met congressen, seminars, symposia, excursies, studiereizen en dergelijke, voorzover deze meer bedragen dan € 1500.     
 3.  Bij het bepalen van de winst komen mede niet in aftrek kosten en lasten die verband houden met tot het privé-vermogen van de belastingplichtige behorende of door hem in privé gehuurde muziekinstrumenten, geluidsapparatuur, gereedschappen, computers en andere dergelijke apparatuur, alsmede beeldapparatuur.   
@@ -681,12 +682,12 @@ c. tot het privé-vermogen van de belastingplichtige behorende of door hem in pr
 
 | meer dan  | maar niet meer dan  | op jaarbasis  |
 |:---|:---|:---|
-| –  | €  12 500  | 0,80% van deze waarde  |
-| €  12 500  | €  25 000  | 1,00% van deze waarde  |
-| €  25 000  | €  50 000  | 1,15% van deze waarde  |
-| €  50 000  | €  75 000  | 1,25% van deze waarde  |
-| €  75 000  | € 1 040 000  | 1,40% van deze waarde  |
-| € 1 040 000  | –  | € 14 560 vermeerderd met 1,75% van de woningwaarde voor zover deze uitgaat boven € 1 040 000  |
+| –  | € 12 500  | 0,85% van deze waarde  |
+| € 12 500  | € 25 000  | 1,05% van deze waarde  |
+| € 25 000  | € 50 000  | 1,20% van deze waarde  |
+| € 50 000  | € 75 000  | 1,30% van deze waarde  |
+| € 75 000  | € 1 040 000  | 1,50% van deze waarde  |
+| € 1 040 000  | –  | € 15 600 vermeerderd met 1,90% van de woningwaarde voor zover deze uitgaat boven € 1 040 000  |
 
 3.  De woningwaarde is de volgens [hoofdstuk IV van de Wet waardering onroerende zaken](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) voor die woning vastgestelde waarde of waarden voor het kalenderjaar van de onttrekking. Indien een woning deel uitmaakt van een onroerende zaak als bedoeld in [artikel 16 van de Wet waardering onroerende zaken](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), wordt de woningwaarde gesteld op het gedeelte van de waarde van de onroerende zaak dat kan worden toegerekend aan die woning.   
 4.  Indien met betrekking tot een woning het derde lid geen toepassing kan vinden door het ontbreken van een op grond van [hoofdstuk IV van de Wet waardering onroerende zaken](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) vastgestelde waarde, is de woningwaarde de waarde van de woning die wordt bepaald met overeenkomstige toepassing van het bepaalde bij of krachtens de [artikelen 16 tot en met 18](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) en [20, tweede lid, van die wet](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) en van het derde lid, tweede volzin.   
@@ -707,17 +708,17 @@ a. 25% van de waarde van de auto als onttrekking in aanmerking genomen indien de
 b. 35% van de waarde van de auto als onttrekking in aanmerking genomen indien de auto meer dan 15 jaar geleden voor het eerst in gebruik is genomen.   De auto wordt in ieder geval geacht ook voor privé-doeleinden ter beschikking te staan tenzij blijkt dat de auto op jaarbasis voor niet meer dan 500 kilometer voor privé-doeleinden wordt gebruikt.   
 2.  Indien de auto wordt aangedreven door een motor met compressieontsteking, wordt de onttrekking, bedoeld in het eerste lid, eerste volzin, op jaarbasis verlaagd met: 
 
-a. 11% van de waarde van de auto indien de CO <sub>2</sub> -uitstoot niet hoger is dan 91 gram per kilometer, en  
+a. 11% van de waarde van de auto indien de CO <sub>2</sub> -uitstoot niet hoger is dan 88 gram per kilometer, en  
 
-b. 5% van de waarde van de auto indien de CO <sub>2</sub> -uitstoot hoger is dan 91 gram per kilometer, maar niet hoger is dan 114 gram per kilometer.     
+b. 5% van de waarde van de auto indien de CO <sub>2</sub> -uitstoot hoger is dan 88 gram per kilometer, maar niet hoger is dan 112 gram per kilometer.   In afwijking van de eerste volzin wordt de onttrekking, bedoeld in het eerste lid, eerste volzin, tot 1 januari 2014 op jaarbasis verlaagd met 25% van de waarde van de auto indien de CO <sub>2</sub> -uitstoot niet hoger is dan 50 gram per kilometer.   
 3.  Indien de auto niet wordt aangedreven door een motor met compressieontsteking, wordt de onttrekking, bedoeld in het eerste lid, eerste volzin, op jaarbasis verlaagd met: 
 
-a. 11% van de waarde van de auto indien de CO <sub>2</sub> -uitstoot niet hoger is dan 102 gram per kilometer, en  
+a. 11% van de waarde van de auto indien de CO <sub>2</sub> -uitstoot niet hoger is dan 95 gram per kilometer, en  
 
-b. 5% van de waarde van de auto indien de CO <sub>2</sub> -uitstoot hoger is dan 102 gram per kilometer, maar niet hoger is dan 132 gram per kilometer.   In afwijking van de eerste volzin wordt de onttrekking, bedoeld in het eerste lid, eerste volzin, tot 1 januari 2014 op jaarbasis verlaagd met 25% van de waarde van de auto indien de CO <sub>2</sub> -uitstoot niet hoger is dan 50 gram per kilometer.   
+b. 5% van de waarde van de auto indien de CO <sub>2</sub> -uitstoot hoger is dan 95 gram per kilometer, maar niet hoger is dan 124 gram per kilometer.   In afwijking van de eerste volzin wordt de onttrekking, bedoeld in het eerste lid, eerste volzin, tot 1 januari 2014 op jaarbasis verlaagd met 25% van de waarde van de auto indien de CO <sub>2</sub> -uitstoot niet hoger is dan 50 gram per kilometer.   
 4.  Indien uit een rittenregistratie of anderszins blijkt dat de auto op jaarbasis voor niet meer dan 500 kilometer voor privé-doeleinden wordt gebruikt, wordt de onttrekking gesteld op nihil.   
 5.  Voor de toepassing van dit artikel en de daarop berustende bepalingen wordt onder auto verstaan een personenauto of bestelauto als bedoeld in [artikel 3 van de Wet op de belasting van personenauto's en motorrijwielen 1992](../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), met uitzondering van de bestelauto die door aard of inrichting uitsluitend of nagenoeg uitsluitend geschikt blijkt te zijn voor vervoer van goederen.   
-6.  Voor de toepassing van dit artikel is de CO <sub>2</sub> -uitstoot van een auto, de CO <sub>2</sub> -uitstoot gemeten overeenkomstig richtlijn nr. 80/1268/EEG van de Raad van de Europese Gemeenschappen van 16 december 1980 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake het brandstofverbruik van motorvoertuigen (*PbEG* L 375). Indien de meting mede met LPG of aardgas als brandstof is uitgevoerd, wordt de CO <sub>2</sub> -uitstoot van de auto met LPG of aardgas als brandstofsoort gehanteerd.   
+6.  Voor de toepassing van dit artikel is de CO <sub>2</sub> -uitstoot van een auto, de CO <sub>2</sub> -uitstoot gemeten overeenkomstig bijlage XII bij Verordening (EG) nr. 692/2008 van de Commissie van 18 juli 2008 tot uitvoering en wijziging van Verordening (EG) nr. 715/2007 van het Europees Parlement en de Raad betreffende de type goedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PbEU 2008, L 199). Indien de meting mede met LPG of aardgas als brandstof is uitgevoerd, wordt de CO <sub>2</sub> -uitstoot van de auto met LPG of aardgas als brandstofsoort gehanteerd.   
 7.  Bij ministeriële regeling kunnen regels worden gesteld waaraan een rittenregistratie moet voldoen. Tevens kunnen regels worden gesteld over het anderszins laten blijken dat de auto op jaarbasis voor niet meer dan 500 kilometer voor privé-doeleinden wordt gebruikt.   
 8.  Voor de toepassing van dit artikel wordt de waarde van de auto gesteld op de catalogusprijs in de zin van [artikel 9 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) vermeerderd met de belasting van personenauto’s en motorrijwielen ingevolge de [artikelen 9 tot en met 9c van genoemde wet](../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md). In afwijking in zoverre van de eerste volzin wordt de waarde van een auto die meer dan vijftien jaar geleden voor het eerst in gebruik is genomen, gesteld op de waarde in het economische verkeer.   
 9.  De onttrekking wordt in aanmerking genomen voorzover zij uitgaat boven de bedragen die de belastingplichtige ter zake van de kosten en lasten van de auto voor eigen rekening heeft genomen.   
@@ -739,7 +740,7 @@ d. waarvan het kenteken voor het eerst op naam is gesteld vóór 1 juli 2012 e
 17.  In afwijking van het zestiende lid, onderdeel d, heeft de eigendomsoverdracht van een auto die aan een belastingplichtige ter beschikking staat geen gevolgen voor de verlaging, zolang die auto aan de betreffende belastingplichtige ter beschikking staat.   
 18.  In afwijking van het zestiende lid blijft na vervanging van de CO <sub>2</sub> -uitstootgrenzen in het tweede of derde lid, met betrekking tot een auto waarvan het kenteken voor het eerst op naam is gesteld op of na 1 januari 2012 en die een CO <sub>2</sub> -uitstoot heeft van niet hoger dan 50 gram per kilometer voor een periode van 60 maanden te rekenen vanaf de eerste dag van de maand volgend op die waarin het kenteken van de auto voor het eerst op naam is gesteld, de verlaging van toepassing ingevolge de begrenzingen die golden op de datum van de eerste tenaamstelling, en voor direct daaropvolgende periodes van telkens 60 maanden, de verlaging ingevolge de begrenzingen zoals die gelden op de laatste dag van de direct daaraan voorafgaande periode van 60 maanden.   
 19.  In afwijking van het zestiende lid wordt de onttrekking, bedoeld in het eerste lid, eerste volzin, met betrekking tot een auto waarvan het kenteken vóór 1 januari 2012 voor het eerst op naam is gesteld en die een CO <sub>2</sub> -uitstoot heeft van 0 gram per kilometer, tot 1 januari 2017 verlaagd met 25% van de waarde van de auto en daarna met het hoogste percentage aan verlaging dat op dat tijdstip in het tweede of derde lid van dit artikel wordt genoemd.   
-20.  In afwijking van het zestiende lid wordt de onttrekking, bedoeld in het eerste lid, eerste volzin, met betrekking tot een auto waarvan het kenteken vóór 1 januari 2012 voor het eerst op naam is gesteld en die een CO <sub>2</sub> -uitstoot heeft van meer dan 0 gram per kilometer, maar niet meer dan 50 gram per kilometer, van 1 januari 2012 tot 1 januari 2017 verlaagd met 25% van de waarde van de auto, en geldt voor direct daaropvolgende periodes van telkens 60 maanden een verlaging ingevolge de begrenzingen van het tweede of derde lid van dit artikel zoals die gelden op de laatste dag van de direct daaraan voorafgaande periode van 60 maanden.   
+20.  In afwijking van het zestiende lid wordt de onttrekking, bedoeld in het eerste lid, eerste volzin, met betrekking tot een auto waarvan het kenteken vóór 1 januari 2012 voor het eerst op naam is gesteld en die een CO <sub>2</sub> -uitstoot heeft van hoger dan 0 gram per kilometer, maar niet hoger dan 50 gram per kilometer, van 1 januari 2012 tot 1 januari 2017 verlaagd met 25% van de waarde van de auto, en geldt voor direct daaropvolgende periodes van telkens 60 maanden een verlaging ingevolge de begrenzingen van het tweede of derde lid van dit artikel zoals die gelden op de laatste dag van de direct daaraan voorafgaande periode van 60 maanden.   
 21.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot een auto waarvan de datum van de eerste tenaamstelling van het kenteken niet overeenkomt met de datum van eerste toelating op de weg van die auto.   
 
 ### Artikel  3.21  
@@ -992,7 +993,7 @@ b. indien het andere aangewezen bedrijfsmiddelen betreft: in overeenstemming met
 ####Mogelijkheid verplichte verklaring bij willekeurige afschrijving
 
 1.  Bij ministeriële regeling kan worden bepaald dat de willekeurige afschrijving op andere aangewezen bedrijfsmiddelen alleen van toepassing is indien op een door of namens de belastingplichtige gedaan verzoek door Onze Minister van Economische Zaken, Landbouw en Innovatie is verklaard dat sprake is van een aangewezen bedrijfsmiddel. Bij die regeling kunnen tevens nadere regels worden gesteld met betrekking tot de verklaring.   
-2.  Tegen de in het eerste lid bedoelde verklaring staat beroep open bij het College van Beroep voor het bedrijfsleven. Tegen een uitspraak van het College van Beroep voor het bedrijfsleven kunnen de belanghebbende en Onze Minister van Economische Zaken, Landbouw en Innovatie beroep in cassatie instellen ter zake van schending of verkeerde toepassing van het eerste lid met betrekking tot het begrip bedrijfsmiddelen. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij het College van Beroep voor het bedrijfsleven de plaats inneemt van een gerechtshof.   
+2.  Tegen een uitspraak van het College van Beroep voor het bedrijfsleven inzake beroep tegen de in het eerste lid bedoelde verklaring, kunnen de belanghebbende en Onze Minister van Economische Zaken, Landbouw en Innovatie beroep in cassatie instellen ter zake van schending of verkeerde toepassing van het eerste lid met betrekking tot het begrip bedrijfsmiddelen. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij het College van Beroep voor het bedrijfsleven de plaats inneemt van een gerechtshof.   
 
 ### Artikel  3.38  
 
@@ -1048,7 +1049,7 @@ b. indien de onderneming die de ondernemer voor eigen rekening drijft wel deel u
 a. in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie regels worden gesteld met betrekking tot de in het eerste lid bedoelde verklaring en  
 
 b. regels worden gesteld met betrekking tot het zesde lid.     
-8.  Tegen de in het eerste lid bedoelde verklaring staat beroep open bij het College van Beroep voor het bedrijfsleven. Tegen een uitspraak van het College van Beroep voor het bedrijfsleven kunnen de belanghebbende en Onze Minister van Economische Zaken, Landbouw en Innovatie beroep in cassatie instellen ter zake van schending of verkeerde toepassing van de begrippen investeren en bedrijfsmiddelen. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij het College van Beroep voor het bedrijfsleven de plaats inneemt van een gerechtshof.   
+8.  Tegen een uitspraak van het College van Beroep voor het bedrijfsleven inzake beroep tegen de in het eerste lid bedoelde verklaring, kunnen de belanghebbende en Onze Minister van Economische Zaken, Landbouw en Innovatie beroep in cassatie instellen ter zake van schending of verkeerde toepassing van de begrippen investeren en bedrijfsmiddelen. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij het College van Beroep voor het bedrijfsleven de plaats inneemt van een gerechtshof.   
 
 ### Artikel  3.42a  
 
@@ -1186,7 +1187,7 @@ b. kunnen de in artikel 3.41, tweede lid, derde kolom, vermelde percentages en b
 3.  Op voordracht van Onze Minister van Economische Zaken, Landbouw en Innovatie worden bij of krachtens algemene maatregel van bestuur regels gesteld met betrekking tot het aanvragen en het afgeven van een RDA-beschikking, de bepaling van de grondslag en het daarop toe te passen percentage ter berekening van het bedrag van een RDA-beschikking, de feiten die aanleiding zijn voor een correctie-RDA-beschikking en het berekenen van het bedrag van een correctie-RDA-beschikking alsmede met betrekking tot de door de belastingplichtige bij te houden administratie ten behoeve van de vaststelling van een RDA-beschikking.   
 4.  Teneinde zoveel mogelijk evenwicht te bereiken tussen de belastingderving ten gevolge van winstverminderingen ingevolge het eerste lid en het hiervoor in de rijksbegroting opgenomen bedrag, kan bij ministeriële regeling van Onze Minister van Economische Zaken, Landbouw en Innovatie na overleg met Onze Minister ter zake van kosten of uitgaven met ingang van 1 januari van enig jaar worden bepaald dat het percentage voor de berekening van het bedrag van de RDA-beschikking wordt gewijzigd.   
 5.  Voor de toepassing van dit artikel wordt onder speur- en ontwikkelingswerk verstaan hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, onderdeel n, met inbegrip van de beperking als bedoeld in het vierde lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), waarvoor aan de belastingplichtige een S&O-verklaring is verstrekt als bedoeld in [artikel 23](../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) of [artikel 27 van die wet](../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md).   
-6.  De [Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van de [artikelen 63](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [67](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), is niet van toepassing met betrekking tot de uitvoering van het krachtens het derde lid bepaalde. Voor de toepassing van de artikelen 63 en 67 van de Algemene wet inzake rijksbelastingen betreffende de uitvoering van dit artikel door Onze Minister van Economische Zaken, Landbouw en Innovatie of de door hem aangewezen ambtenaren, treedt Onze Minister van Economische Zaken, Landbouw en Innovatie in de plaats van Onze Minister. Tegen een besluit genomen door Onze Minister van Economische Zaken, Landbouw en Innovatie kan de belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.   
+6.  De [Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van de [artikelen 63](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [67](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), is niet van toepassing met betrekking tot de uitvoering van het krachtens het derde lid bepaalde. Voor de toepassing van de artikelen 63 en 67 van de Algemene wet inzake rijksbelastingen betreffende de uitvoering van dit artikel door Onze Minister van Economische Zaken, Landbouw en Innovatie of de door hem aangewezen ambtenaren, treedt Onze Minister van Economische Zaken, Landbouw en Innovatie in de plaats van Onze Minister.   
 7.  [Artikel 28 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) is van overeenkomstige toepassing bij de uitvoering van het krachtens dit artikel bepaalde.   
 8.  In bij algemene maatregel van bestuur aan te wijzen gevallen kunnen belanghebbenden worden gehouden eigener beweging mededeling te doen aan Onze Minister van Economische Zaken, Landbouw en Innovatie van onjuistheden of onvolledigheden in de voor de RDA-beschikking van belang zijnde gegevens en inlichtingen die hun bekend zijn geworden. Daarbij kunnen ook regels worden gesteld met betrekking tot het uiterste tijdstip en de wijze waarop een mededeling als bedoeld in de eerste volzin gedaan moet worden. Het niet nakomen van de verplichting kan in bij algemene maatregel van bestuur aan te wijzen gevallen worden aangemerkt als een overtreding.   
 9.  Het verstrekken van gegevens of bescheiden die zodanig onjuist of onvolledig zijn dat het aannemelijk is dat op de aanvraag van een RDA-beschikking een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste omstandigheden volledig bekend zouden zijn geweest, kan in bij algemene maatregel van bestuur aan te wijzen gevallen worden aangemerkt als een overtreding.   
@@ -1414,7 +1415,7 @@ e. de vervreemding van de aandelen in de opgerichte vennootschap.
 
 ####Toegang toevoegingen oudedagsreserve
 
-1.  De *ondernemer* die aan het *urencriterium* voldoet en bij de aanvang van het kalenderjaar de leeftijd van 65 jaar nog niet heeft bereikt, kan bij het bepalen van de in een kalenderjaar genoten winst over dat jaar toevoegen aan de oudedagsreserve.   
+1.  De *ondernemer* die aan het *urencriterium* voldoet en bij de aanvang van het kalenderjaar de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt, kan bij het bepalen van de in een kalenderjaar genoten winst over dat jaar toevoegen aan de oudedagsreserve.   
 2.  De voorwaarde inzake het urencriterium geldt niet bij de extra toevoeging op de voet van artikel 3.69, eerste lid, aanhef en onderdeel b.   
 
 ### Artikel  3.68  
@@ -1448,7 +1449,7 @@ b. het bedrag waarmee de oudedagsreserve het ondernemingsvermogen bij het einde 
 
 1°. in het kalenderjaar de onderneming of een gedeelte van de onderneming is gestaakt;  
 
-2°. de belastingplichtige bij de aanvang van het kalenderjaar de leeftijd van 65 jaar heeft bereikt of  
+2°. de belastingplichtige bij de aanvang van het kalenderjaar de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt of  
 
 3°. de belastingplichtige in het kalenderjaar en in het voorafgaande kalenderjaar niet aan het *urencriterium* voldoet.       
 2.  Het bedrag van de afnemingen wordt in de winst opgenomen.   
@@ -1526,9 +1527,9 @@ Voor de toepassing van deze paragraaf en de daarop rustende bepalingen wordt ond
 ####Zelfstandigenaftrek
 
 1.  De zelfstandigenaftrek geldt voor de *ondernemer* die aan het *urencriterium* voldoet.   
-2.  Indien de ondernemer bij het begin van het kalenderjaar de leeftijd van 65 jaar nog niet heeft bereikt, bedraagt de zelfstandigenaftrek € 7280.   
+2.  Indien de ondernemer bij het begin van het kalenderjaar de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt, bedraagt de zelfstandigenaftrek € 7280.   
 3.  Indien de ondernemer in een of meer van de vijf voorafgaande kalenderjaren geen ondernemer was en bij hem in die periode niet meer dan tweemaal zelfstandigenaftrek is toegepast, wordt de zelfstandigenaftrek verhoogd met € 2123. De eerste volzin is niet van toepassing voor de ondernemer die met toepassing van [artikel 14c van de Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) een onderneming voortzet of mede voortzet waarbij dit voortzetten een aanvang heeft genomen in het kalenderjaar of in een van de vijf daaraan voorafgaande kalenderjaren.   
-4.  Indien de ondernemer bij het begin van het kalenderjaar de leeftijd van 65 jaar heeft bereikt, bedraagt de zelfstandigenaftrek 50% van het bedrag van de zelfstandigenaftrek volgens het tweede en derde lid.   
+4.  Indien de ondernemer bij het begin van het kalenderjaar de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt, bedraagt de zelfstandigenaftrek 50% van het bedrag van de zelfstandigenaftrek volgens het tweede en derde lid.   
 5.  In afwijking in zoverre van het tweede en vierde lid bedraagt het bedrag van de zelfstandigenaftrek niet meer dan het bedrag van de winst. De eerste volzin is niet van toepassing op een ondernemer die in aanmerking komt voor de verhoging van de zelfstandigenaftrek, bedoeld in het derde lid. Indien toepassing van de eerste volzin tot een verlaging van het bedrag van de zelfstandigenaftrek leidt, wordt het bedrag waarmee de zelfstandigenaftrek is verlaagd aangemerkt als niet gerealiseerde zelfstandigenaftrek. Indien de zelfstandigenaftrek ingevolge de eerste volzin op nihil wordt gesteld, wordt er voor de toepassing van het derde lid van uit gegaan dat de zelfstandigenaftrek in dat kalenderjaar toepassing heeft gevonden.   
 6.  De inspecteur stelt het bedrag van de niet gerealiseerde zelfstandigenaftrek vast bij voor bezwaar vatbare beschikking. Dit bedrag wordt afzonderlijk op het aanslagbiljet vermeld. Artikel 3.151, vierde, vijfde en zesde lid, is van overeenkomstige toepassing.   
 7.  De niet gerealiseerde zelfstandigenaftrek wordt in de volgende negen kalenderjaren verrekend door in die jaren een verhoging van de zelfstandigenaftrek in aanmerking te nemen. Deze verhoging bedraagt maximaal het bedrag waarmee de winst de zelfstandigenaftrek van dat jaar overtreft. Verrekening van niet gerealiseerde zelfstandigenaftrek vindt plaats in de volgorde waarin deze niet gerealiseerde zelfstandigenaftrek is ontstaan.   
@@ -1571,7 +1572,7 @@ c. winst als gevolg van de overbrenging van vermogensbestanddelen naar het buite
 
 ####Startersaftrek bij arbeidsongeschiktheid
 
-1.  De startersaftrek bij arbeidsongeschiktheid geldt voor de ondernemer die in een of meer van de vijf voorafgaande kalenderjaren geen ondernemer was, in het kalenderjaar recht heeft op een arbeidsongeschiktheidsuitkering als bedoeld in het tweede lid, of in het kalenderjaar recht heeft op arbeidsondersteuning op grond van de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), niet voldoet aan het urencriterium maar wel aan het verlaagde-urencriterium, bedoeld in het derde lid, en bij het begin van het kalenderjaar de leeftijd van 65 jaar nog niet heeft bereikt. De eerste volzin is niet van toepassing voor de ondernemer die met toepassing van [artikel 14c van de Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) een onderneming voortzet of mede voortzet waarbij dit voortzetten een aanvang heeft genomen in het kalenderjaar of in een van de vijf daaraan voorafgaande kalenderjaren.   
+1.  De startersaftrek bij arbeidsongeschiktheid geldt voor de ondernemer die in een of meer van de vijf voorafgaande kalenderjaren geen ondernemer was, in het kalenderjaar recht heeft op een arbeidsongeschiktheidsuitkering als bedoeld in het tweede lid, of in het kalenderjaar recht heeft op arbeidsondersteuning op grond van de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), niet voldoet aan het urencriterium maar wel aan het verlaagde-urencriterium, bedoeld in het derde lid, en bij het begin van het kalenderjaar de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt. De eerste volzin is niet van toepassing voor de ondernemer die met toepassing van [artikel 14c van de Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) een onderneming voortzet of mede voortzet waarbij dit voortzetten een aanvang heeft genomen in het kalenderjaar of in een van de vijf daaraan voorafgaande kalenderjaren.   
 2.  Onder een arbeidsongeschiktheidsuitkering wordt verstaan een uitkering op grond van: 
 
 a. de [Wet werk en inkomen naar arbeidsvermogen](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
@@ -1616,7 +1617,7 @@ b. door een afneming van de oudedagsreserve na een geruisloze doorschuiving of o
 
 ####MKB-winstvrijstelling
 
-De MKB-winstvrijstelling bedraagt 12% van het gezamenlijke bedrag van de winst die de belastingplichtige als *ondernemer* geniet uit een of meer ondernemingen (paragraaf 3.2.2) nadat dit bedrag is verminderd met de ondernemersaftrek (paragraaf 3.2.4).  
+De MKB-winstvrijstelling bedraagt 14% van het gezamenlijke bedrag van de winst die de belastingplichtige als *ondernemer* geniet uit een of meer ondernemingen (paragraaf 3.2.2) nadat dit bedrag is verminderd met de ondernemersaftrek (paragraaf 3.2.4).  
 
 ### Afdeling  3.3  
 
@@ -1902,7 +1903,7 @@ c. voordelen die door de belastingplichtige als vrijwilliger, bedoeld in [artike
 1.  Indien de belastingplichtige bij de aangifte daarvoor kiest, worden de door hem uit het houden van kostgangers verkregen opbrengsten voor een deel als voordelen uit *eigen woning* dan wel uit een huurrecht aangemerkt. Dit keuzerecht geldt voor het deel van de opbrengsten dat betrekking heeft op het, anders dan voor korte duur, ter beschikking stellen aan derden van al dan niet gestoffeerde of gemeubileerde woonruimte die niet een zelfstandige woning vormt en deel uitmaakt van de woning die de belastingplichtige tot hoofdverblijf dient.   
 2.  Het eerste lid is alleen van toepassing indien: 
 
-a. het deel van de opbrengsten dat betrekking heeft op het ter beschikking stellen van de woonruimte niet meer bedraagt dan € 4410 per jaar, en  
+a. het deel van de opbrengsten dat betrekking heeft op het ter beschikking stellen van de woonruimte niet meer bedraagt dan € 4536 per jaar, en  
 
 b. zowel de belastingplichtige als degenen aan wie ter beschikking is gesteld gedurende de periode van de terbeschikkingstelling als ingezetenen op het woonadres ter zake van de woning zijn ingeschreven in de basisadministratie persoonsgegevens.     
 
@@ -2061,7 +2062,7 @@ e. uitkeringen als bedoeld in de [artikelen 7.51, eerste tot en met zesde lid](.
 
 f. uitkeringen en verstrekkingen op grond van de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) die zijn bedoeld ter dekking van bepaalde noodzakelijke kosten, waaronder begrepen uitkeringen als bedoeld in [artikel 36 van die wet](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
-g. kinderopvangtoeslag en tegemoetkomingen op grond van de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
+g. kinderopvangtoeslag op grond van de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
 
 h. op het inkomen van de belastingplichtige afgestemde uitkeringen die bij ministeriële regeling worden aangewezen, voorzover zij volgens die regeling zijn bedoeld ter dekking van: 
 
@@ -2149,47 +2150,9 @@ Tot de aftrekbare kosten van uitkeringen en verstrekkingen behoren niet renten v
 
 ### Afdeling  3.5a  
 
-#### *Belastbaar voordeel uit vitaliteitssparen* 
-
 ### Artikel  3.109a  
 
-####Belastbaar voordeel uit vitaliteitssparen
-
-1.  Als belastbaar voordeel uit vitaliteitssparen worden aangemerkt: 
-
-a. bedragen die worden overgemaakt van een vitaliteitsspaarrekening;  
-
-b. uitkeringen ingevolge een vitaliteitsspaarverzekering, daaronder begrepen hetgeen wordt ontvangen bij afkoop van een dergelijke verzekering;  
-
-c. opbrengsten ter zake van een vervreemding van een vitaliteitsspaarrecht van deelneming.     
-2.  Ingeval in een kalenderjaar na het kalenderjaar waarin de belastingplichtige de leeftijd van 61 jaar bereikt, gezamenlijk een hoger bedrag dan € 10 000: 
-
-a. van de vitaliteitsspaarrekening is overgeboekt;  
-
-b. uit een vitaliteitsspaarverzekering tot uitkering is gekomen;  
-
-c. van het vitaliteitsspaarrecht van deelneming is vervreemd;   wordt in dat jaar als belastbaar voordeel uit vitaliteitssparen in aanmerking genomen het tegoed van de vitaliteitsspaarrekening, onderscheidenlijk de waarde in het economische verkeer van de vitaliteitsspaarverzekering, onderscheidenlijk de waarde in het economische verkeer van het vitaliteitsspaarrecht van deelneming.   
-3.  Ingeval niet uiterlijk op de dag voorafgaand aan de dag waarop de belastingplichtige de leeftijd van 65 jaar bereikt: 
-
-a. het tegoed van de vitaliteitsspaarrekening is overgeboekt;  
-
-b. de vitaliteitsspaarverzekering tot uitkering is gekomen;  
-
-c. het vitaliteitsspaarrecht van deelneming is vervreemd;   wordt op de dag voorafgaand aan de dag waarop de belastingplichtige de leeftijd van 65 jaar bereikt als belastbaar voordeel uit vitaliteitssparen in aanmerking genomen het tegoed van de vitaliteitsspaarrekening, onderscheidenlijk de waarde in het economische verkeer van de vitaliteitsspaarverzekering, onderscheidenlijk de waarde in het economische verkeer van het vitaliteitsspaarrecht van deelneming.   
-4.  Ingeval de belastingplichtige voor het bereiken van de leeftijd van 65 overlijdt en tot het tijdstip van overlijden: 
-
-a. het tegoed van de vitaliteitsspaarrekening nog niet volledig is overgeboekt;  
-
-b. de vitaliteitsspaarverzekering nog niet volledig tot uitkering is gekomen;  
-
-c. het vitaliteitsspaarrecht van deelneming nog niet is vervreemd;   wordt op de dag voorafgaand aan de dag van overlijden van de belastingplichtige als belastbaar voordeel uit vitaliteitssparen in aanmerking genomen het tegoed van de vitaliteitsspaarrekening, onderscheidenlijk de waarde in het economische verkeer van de vitaliteitsspaarverzekering, onderscheidenlijk de waarde in het economische verkeer van het vitaliteitsspaarrecht van deelneming.   
-5.  Ingeval op enig tijdstip: 
-
-a. een regeling voor vitaliteitssparen niet langer als zodanig is aan te merken;  
-
-b. een aanspraak ingevolge vitaliteitssparen wordt vervreemd, anders dan bedoeld in het eerste lid;   wordt op het onmiddellijk daaraan voorafgaande tijdstip als belastbaar voordeel uit vitaliteitssparen in aanmerking genomen het tegoed van de vitaliteitsspaarrekening, onderscheidenlijk de waarde in het economische verkeer van de vitaliteitsspaarverzekering, onderscheidenlijk de waarde in het economische verkeer van het vitaliteitsspaarrecht van deelneming.   
-6.  In afwijking van het eerste lid wordt geen belastbaar voordeel uit vitaliteitssparen in aanmerking genomen ter zake van de omzetting van vitaliteitssparen van de belastingplichtige in ander vitaliteitssparen van de belastingplichtige, daaronder begrepen de overmaking van een bedrag van een vitaliteitsspaarrekening van de belastingplichtige naar een andere vitaliteitsspaarrekening van de belastingplichtige.   
-7.  Bij de toepassing van het tweede lid blijft buiten beschouwing de omzetting van vitaliteitssparen van de belastingplichtige in ander vitaliteitssparen van de belastingplichtige, daaronder begrepen de overmaking van een bedrag van een vitaliteitsspaarrekening van de belastingplichtige naar een andere vitaliteitsspaarrekening van de belastingplichtige.   
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2012/668.   
 
 ### Afdeling  3.6  
 
@@ -2199,7 +2162,7 @@ b. een aanspraak ingevolge vitaliteitssparen wordt vervreemd, anders dan bedoeld
 
 ####Belastbare inkomsten uit eigen woning
 
-Belastbare inkomsten uit *eigen woning* zijn de voordelen uit eigen woning vermeerderd met het voordeel uit kapitaalverzekering eigen woning, het voordeel uit spaarrekening eigen woning en het voordeel uit beleggingsrecht eigen woning en verminderd met de op de voordelen uit eigen woning drukkende aftrekbare kosten (artikel 3.120).  
+Belastbare inkomsten uit eigen woning zijn de voordelen uit eigen woning verminderd met de op die voordelen drukkende aftrekbare kosten (artikel 3.120).  
 
 ### Artikel  3.111  
 
@@ -2207,7 +2170,7 @@ Belastbare inkomsten uit *eigen woning* zijn de voordelen uit eigen woning verme
 
 1.  In deze afdeling en de daarop berustende bepalingen wordt verstaan onder *eigen woning*: een gebouw, een duurzaam aan een plaats gebonden schip of woonwagen als bedoeld in [artikel 1, eerste lid, onder f, van de Huisvestingswet](../../../../../wet/huisvestingswet/BWBR0005674/README.md), of een gedeelte van een gebouw, een schip of een woonwagen, met de daartoe behorende aanhorigheden, voorzover dat de belastingplichtige of personen die behoren tot zijn huishouden anders dan tijdelijk als hoofdverblijf ter beschikking staat op grond van: 
 
-a. eigendom, waaronder begrepen economische eigendom, of een recht van lidmaatschap van een coöperatie, indien met betrekking tot die woning de belastingplichtige of zijn *partner* de voordelen geniet, de kosten en lasten op de belastingplichtige of zijn partner drukken en de waardeverandering hen grotendeels aangaat;  
+a. eigendom, waaronder begrepen economische eigendom, of een recht van lidmaatschap van een coöperatie, indien met betrekking tot die woning de belastingplichtige of zijn *partner* de voordelen geniet, de kosten en lasten op de belastingplichtige of zijn partner drukken en de waardeverandering de belastingplichtige of zijn partner grotendeels aangaat;  
 
 b. een recht van vruchtgebruik, een recht van bewoning of een recht van gebruik dat de belastingplichtige krachtens erfrecht heeft verkregen, indien met betrekking tot die woning de belastingplichtige de voordelen geniet en de kosten en lasten op hem drukken.     
 2.  Een woning wordt voor de periode dat deze in het kalenderjaar leeg staat mede aangemerkt als eigen woning indien de woning de belastingplichtige in het kalenderjaar of in een van de voorafgaande drie jaren als eigen woning als bedoeld in het eerste lid ter beschikking heeft gestaan en hij aannemelijk maakt dat de woning bestemd is voor verkoop. Indien een in de eerste volzin bedoelde woning vanaf enig moment in de daar bedoelde periode inkomen uit sparen en beleggen genereert en vervolgens vanaf enig moment weer belastbare inkomsten uit eigen woning, wordt een en ander voor de toepassing van artikel 3.119a niet aangemerkt als een vervreemding, onderscheidenlijk als een verwerving. Voorts vindt artikel 2.14, derde lid, onderdelen b en c, met betrekking tot deze woning gedurende de in de eerste volzin bedoelde periode geen toepassing en wordt de woning ook gedurende deze periode voor de toepassing van de artikelen 3.116 en 3.116a aangemerkt als eigen woning.   
@@ -2247,12 +2210,12 @@ b. geen keuze hebben gemaakt, wordt geen van de woningen als hoofdverblijf aange
 | €  25 000  | €  50 000  | 0,35% van deze waarde  |
 | €  50 000  | €  75 000  | 0,45% van deze waarde  |
 | €  75 000  | € 1 040 000  | 0,60% van deze waarde  |
-| € 1 040 000  | –  | € 6240 vermeerderd met 1,30% van de eigenwoningwaarde voor zover deze uitgaat boven € 1 040 000.  |
+| € 1 040 000  | –  | € 6360 vermeerderd met 1,55% van de eigenwoningwaarde voor zover deze uitgaat boven € 1 040 000.  |
 
 2.  De eigenwoningwaarde is de volgens [hoofdstuk IV van de Wet waardering onroerende zaken](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) voor die woning vastgestelde waarde of waarden voor het kalenderjaar. Indien een eigen woning deel uitmaakt van een onroerende zaak als bedoeld in [artikel 16 van de Wet waardering onroerende zaken](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), wordt de eigenwoningwaarde gesteld op het gedeelte van de waarde van de onroerende zaak dat kan worden toegekend aan de woning.   
 3.  Met betrekking tot de eigen woning ter zake waarvan het tweede lid geen toepassing kan vinden door het ontbreken van een op grond van [hoofdstuk IV van de Wet waardering onroerende zaken](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) vastgestelde waarde, is de eigenwoningwaarde de waarde van de woning die wordt bepaald met overeenkomstige toepassing van het bepaalde bij of krachtens de [artikelen 16 tot en met 18](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) en [20, tweede lid, van die wet](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) en van het tweede lid, tweede volzin.   
 4.  De voordelen uit een eigen woning als bedoeld in artikel 3.111, tweede en derde lid, worden gesteld op nihil.   
-5.  De voordelen uit een eigen woning als bedoeld in artikel 3.111, zesde lid, worden gesteld op 1,00% van de eigenwoningwaarde. In afwijking van de eerste volzin, worden bij een eigenwoningwaarde van meer dan € 1 040 000 de voordelen gesteld op € 10 400 vermeerderd met 1,55% van de eigenwoningwaarde voor zover deze uitgaat boven € 1 040 000.   
+5.  De voordelen uit een eigen woning als bedoeld in artikel 3.111, zesde lid, worden gesteld op 1,00% van de eigenwoningwaarde. In afwijking van de eerste volzin, worden bij een eigenwoningwaarde van meer dan € 1 040 000 de voordelen gesteld op € 10 400 vermeerderd met 1,75% van de eigenwoningwaarde voor zover deze uitgaat boven € 1 040 000.   
 6.  Met betrekking tot een eigen woning als bedoeld in artikel 3.111, eerste lid, wordt de aanvangsdatum, onderscheidenlijk de einddatum van de periode waarover de voordelen uit die eigen woning in aanmerking worden genomen gesteld op de aanvangsdatum, onderscheidenlijk de einddatum waarop het adres van de desbetreffende eigen woning als woonadres van de belastingplichtige is opgenomen in de basisadministratie persoonsgegevens. De eerste volzin is niet van toepassing indien registratie van de belastingplichtige op het adres van de eigen woning in de basisadministratie persoonsgegevens niet mogelijk is of indien artikel 3.111, achtste lid, toepassing vindt.   
 
 ### Artikel  3.113  
@@ -2265,7 +2228,7 @@ Met betrekking tot de *eigen woning* die tijdelijk ter beschikking is gesteld aa
 
 ####Kamerverhuurvrijstelling
 
-1.  Indien de opbrengsten uit het anders dan voor korte duur ter beschikking stellen van al dan niet gestoffeerde of gemeubileerde woonruimte die geen zelfstandige woning vormt en deel uitmaakt van de woning die de belastingplichtige anders dan tijdelijk als hoofdverblijf ter beschikking staat, niet meer bedragen dan € 4410 per jaar, wordt die woonruimte aangemerkt als onderdeel van de *eigen woning* en worden de voordelen, andere dan bedoeld in artikel 3.112, eerste lid, niet in aanmerking genomen.   
+1.  Indien de opbrengsten uit het anders dan voor korte duur ter beschikking stellen van al dan niet gestoffeerde of gemeubileerde woonruimte die geen zelfstandige woning vormt en deel uitmaakt van de woning die de belastingplichtige anders dan tijdelijk als hoofdverblijf ter beschikking staat, niet meer bedragen dan € 4536 per jaar, wordt die woonruimte aangemerkt als onderdeel van de *eigen woning* en worden de voordelen, andere dan bedoeld in artikel 3.112, eerste lid, niet in aanmerking genomen.   
 2.  Voor toepassing van dit artikel dient zowel de belastingplichtige als degene aan wie ter beschikking is gesteld gedurende de tijd van de terbeschikkingstelling als ingezetene op het woonadres ter zake van de woning te zijn ingeschreven in de basisadministratie persoonsgegevens.   
 
 ### Artikel  3.115  
@@ -2274,179 +2237,149 @@ Met betrekking tot de *eigen woning* die tijdelijk ter beschikking is gesteld aa
 
 De voordelen uit een woning die voor twee of meer belastingplichtigen die geen *partner* van elkaar zijn samen een *eigen woning* is, worden voor elk van hen in aanmerking genomen naar de mate waarin zij op grond van artikel 3.111, eerste lid, tot de woning gerechtigd zijn.  
 
-### Artikel  3.116  
-
-####Voordeel uit kapitaalverzekering eigen woning
-
-1.  Het voordeel uit kapitaalverzekering eigen woning is de rente die is begrepen in een kapitaalsuitkering uit *levensverzekering* die dient ter aflossing van de eigenwoningschuld.   
-2.  Van een kapitaalverzekering eigen woning is sprake zolang de verzekeringnemer of zijn partner een eigen woning heeft en: 
-
-a. in de overeenkomst is bepaald dat de begunstigde de uitkering zal aanwenden ter aflossing van de eigenwoningschuld;  
-
-b. in de overeenkomst is bepaald dat ten minste 15 jaar, of tot het overlijden van de verzekerde, jaarlijks premies ter zake van de verzekering worden voldaan waarbij de hoogste premie niet meer bedraagt dan het tienvoud van de laagste premie;  
-
-c. de verzekering recht geeft op een eenmalige kapitaalsuitkering bij leven of overlijden;  
-
-d. de premies voor de verzekering verschuldigd zijn aan een levensverzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).     
-3.  Een kapitaalverzekering eigen woning wordt geacht geheel tot uitkering te zijn gekomen bij de verzekeringnemer of, in geval van onherroepelijke begunstiging, bij de begunstigde, indien: 
-
-a. de verzekering niet meer voldoet aan de voorwaarden van het tweede lid;  
-
-b. de verzekering wordt afgekocht, behoudens voorzover sprake is van omzetting als bedoeld in artikel 3 119;  
-
-c. de verzekering wordt vervreemd, behoudens voorzover de verzekering in het kader van het aangaan of beëindigen van een partnerschap wordt omgezet in een of meer andere soortgelijke verzekeringen voor een of beide partners of voormalige partners;  
-
-d. de verzekering wordt ingebracht in het vermogen van een onderneming;  
-
-e. de verzekering gedeeltelijk tot uitkering komt dan wel, indien de verzekering recht geeft op eenmalige uitkeringen bij leven of overlijden van meer dan een verzekerde, per verzekerde gedeeltelijk tot uitkering komt;  
-
-f. niet ten minste 15 jaar, of tot het overlijden van de verzekerde, jaarlijks premies ter zake van de verzekering worden voldaan dan wel de hoogste premie meer bedraagt dan het tienvoud van de laagste premie; of  
-
-g. de verzekering een looptijd van 30 jaar heeft overschreden.   De hoogte van de uitkering wordt voor de toepassing van de eerste volzin gesteld op de waarde in het economische verkeer van de verzekering.   
-4.  Indien de verzekeringnemer of, in geval van een onherroepelijke begunstiging, de begunstigde anders dan door overlijden ophoudt binnenlands belastingplichtig te zijn, wordt de kapitaalverzekering eigen woning geacht op het onmiddellijk daaraan voorafgaande tijdstip tot uitkering te zijn gekomen bij de verzekeringnemer of, in geval van een onherroepelijke begunstiging, bij de begunstigde en de hoogte van de uitkering gesteld op de waarde in het economische verkeer van de verzekering. Onder ophouden binnenlands belastingplichtig te zijn wordt mede verstaan de situatie waarin de verzekeringnemer respectievelijk de begunstigde voor de toepassing van de [Belastingregeling voor het Koninkrijk](../../../../../rijkswet/belastingregeling/voor/het/koninkrijk/BWBR0002464/README.md), de Belastingregeling voor het land Nederland of een verdrag ter voorkoming van dubbele belasting wordt geacht geen inwoner van Nederland meer te zijn.   
-5.  Indien bij een belastingplichtige ingevolge het vierde lid een uitkering in aanmerking is genomen ter zake waarvan een conserverende aanslag is opgelegd en de belastingplichtige weer binnenlands belastingplichtig is en in de tussentijd: 
-
-a. zich niet een omstandigheid heeft voorgedaan waardoor de woning is opgehouden een eigen woning te zijn in de zin van artikel 3.111;  
-
-b. de belastingplichtige niet een voordeel heeft genoten als bedoeld in het eerste lid, en  
-
-c. zich niet een omstandigheid heeft voorgedaan als bedoeld in het derde lid,   wordt op diens verzoek het geconserveerde inkomen van het jaar waarin de uitkering in aanmerking is genomen, verlaagd met de waarde van die uitkering voorzover deze waarde tot het geconserveerde inkomen is gerekend. De inspecteur vermindert dienovereenkomstig de conserverende aanslag bij voor bezwaar vatbare beschikking. Rechtsmiddelen tegen deze beschikking kunnen uitsluitend betrekking hebben op de grootte van de vermindering.   
-6.  De rente begrepen in een uitkering uit een kapitaalverzekering eigen woning wordt gesteld op het bedrag waarmee de uitkering overtreft wat ter zake van de verzekering aan premies is voldaan.   
-7.  Onder premies ter zake van een kapitaalverzekering eigen woning worden mede begrepen: 
-
-a. bij een uitkering bij leven: premies voor bij dezelfde overeenkomst verzekerde uitkeringen bij overlijden of uitkeringen of vrijstelling van premiebetaling bij invaliditeit, voorzover die uitkeringen gezamenlijk niet meer bedragen dan driemaal het verzekerde kapitaal bij leven;  
-
-b. bij een uitkering bij overlijden: premies voor bij dezelfde overeenkomst verzekerde uitkeringen bij leven, uitkeringen of vrijstelling van premiebetaling bij invaliditeit of uitkeringen bij overlijden ten gevolge van een ongeval, voorzover die uitkeringen gezamenlijk niet meer bedragen dan driemaal het verzekerde kapitaal bij overlijden.     
-8.  Indien een kapitaalverzekering eigen woning is voortgekomen uit een levensverzekering die na 14 september 1999 tot stand gekomen is en die geen kapitaalverzekering eigen woning was wordt, op het moment dat wordt voldaan aan de voorwaarden voor een kapitaalverzekering eigen woning, mede als premie ter zake van de kapitaalverzekering eigen woning aangemerkt de waarde in het economische verkeer van de oude polis verminderd met de daarop gestorte premies (overschot). Voor de beoordeling van de voorwaarde of de hoogste en de laagste premie blijft binnen de in het tweede lid, onderdeel b, bedoelde bandbreedte, blijft het overschot buiten aanmerking.   
-
-### Artikel  3.116a  
-
-####Voordeel uit spaarrekening eigen woning of beleggingsrecht eigen woning
-
-1.  Het voordeel uit spaarrekening eigen woning is het rendement dat op het tijdstip van deblokkering is begrepen in het tegoed van een spaarrekening eigen woning. Het voordeel uit beleggingsrecht eigen woning is het rendement dat op het tijdstip van deblokkering is begrepen in de waarde van een beleggingsrecht eigen woning.   
-2.  Van een spaarrekening eigen woning is sprake indien het betreft een rekening bij een bank waarbij de volgende voorwaarden in acht worden genomen: 
-
-a. de rekeninghouder heeft een eigen woning met een eigenwoningschuld;  
-
-b. de rekening is geblokkeerd en wordt slechts eenmalig gedeblokkeerd ter aflossing van de eigenwoningschuld;  
-
-c. ten minste 15 jaar, of tot het overlijden van de rekeninghouder of zijn partner, wordt jaarlijks een bedrag naar de rekening overgemaakt waarbij het hoogste totaal van in een jaar overgemaakte bedragen niet meer bedraagt dan het tienvoud van het laagste totaal van in een jaar overgemaakte bedragen; ingeval een spaarrekening met ingang van enig tijdstip wordt aangeduid als spaarrekening eigen woning wordt het op dat tijdstip aanwezige tegoed aangemerkt als eerste overmaking;  
-
-d. de op de rekening genoten inkomsten worden bijgeboekt op de rekening; bij deblokkering in de loop van het tijdvak waarover inkomsten worden genoten, vindt eerst nog bijboeking van die inkomsten plaats voordat tot deblokkering wordt overgegaan;  
-
-e. de bank is een financiële onderneming die ingevolge de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van bank mag uitoefenen.     
-3.  Van een beleggingsrecht eigen woning is sprake indien het betreft bij een beheerder van een beleggingsinstelling aangehouden rechten van deelneming in die instelling waarbij de volgende voorwaarden in acht worden genomen: 
-
-a. de eigenaar van het beleggingsrecht heeft een eigen woning met een eigenwoningschuld;  
-
-b. het beleggingsrecht is geblokkeerd en wordt slechts eenmalig gedeblokkeerd ter aflossing van de eigenwoningschuld;  
-
-c. ten minste 15 jaar, of tot het overlijden van de eigenaar van het beleggingsrecht of zijn partner, wordt jaarlijks naar de beheerder een bedrag overgemaakt ter verkrijging van rechten van deelneming waarbij het hoogste totaal van in een jaar overgemaakte bedragen niet meer bedraagt dan het tienvoud van het laagste totaal van in een jaar overgemaakte bedragen; ingeval een beleggingsrecht met ingang van enig tijdstip wordt aangeduid als beleggingsrecht eigen woning wordt de waarde in het economische verkeer van het recht op dat tijdstip aangemerkt als eerste overmaking;  
-
-d. het met het beleggingsrecht behaalde rendement wordt aangewend ter verkrijging van rechten van deelneming die tot het beleggingsrecht gaan behoren;  
-
-e. de beheerder is een financiële onderneming die ingevolge de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van beleggingsinstelling mag uitoefenen.     
-4.  Een spaarrekening eigen woning of een beleggingsrecht eigen woning wordt geacht geheel te zijn gedeblokkeerd indien: 
-
-a. op enig tijdstip de spaarrekening onderscheidenlijk het beleggingsrecht niet meer voldoet aan de voorwaarden van het tweede lid, onderscheidenlijk van het derde lid;  
-
-b. de spaarrekening onderscheidenlijk het beleggingsrecht wordt vervreemd of verdeeld, behoudens voor zover sprake is van vervreemding of verdeling in het kader van het aangaan of beëindigen van een partnerschap en de spaarrekening onderscheidenlijk het beleggingsrecht wordt gecontinueerd als een spaarrekening eigen woning onderscheidenlijk beleggingsrecht eigen woning;  
-
-c. de spaarrekening onderscheidenlijk het beleggingsrecht wordt ingebracht in het vermogen van een onderneming;  
-
-d. de spaarrekening onderscheidenlijk het beleggingsrecht gedeeltelijk wordt gedeblokkeerd;  
-
-e. 30 jaren zijn verstreken na de eerste overmaking op de spaarrekening onderscheidenlijk de eerste overmaking naar de beheerder van de beleggingsinstelling;  
-
-f. de rekeninghouder van de spaarrekening onderscheidenlijk de eigenaar van het beleggingsrecht komt te overlijden; in dat geval wordt de deblokkering geacht te hebben plaatsgevonden op het onmiddellijk daaraan voorafgaande tijdstip; er wordt geen deblokkering verondersteld bij een continuering als bedoeld in onderdeel b.     
-5.  Artikel 3.116, vierde en vijfde lid, is van overeenkomstige toepassing. Daarbij wordt gelezen voor: 
-
-a. verzekeringnemer: rekeninghouder van een spaarrekening eigen woning, onderscheidenlijk eigenaar van een beleggingsrecht eigen woning;  
-
-b. kapitaalverzekering eigen woning: spaarrekening eigen woning onderscheidenlijk beleggingsrecht eigen woning;  
-
-c. tot uitkering te zijn gekomen: te zijn gedeblokkeerd.     
-6.  Het rendement begrepen in een tegoed van een spaarrekening eigen woning wordt gesteld op het bedrag waarmee het tegoed de naar de spaarrekening overgemaakte bedragen overtreft. Het rendement begrepen in de waarde van een beleggingsrecht eigen woning wordt gesteld op het bedrag waarmee de waarde van het recht de naar de beheerder overgemaakte bedragen overtreft.   
-7.  Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit artikel.   
-
-### Artikel  3.117  
-
-####Begrip levensverzekering
-
-In deze wet en de daarop berustende bepalingen wordt verstaan onder levensverzekering: een overeenkomst van levensverzekering als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  
-
-### Artikel  3.118  
-
-####Vrijstelling kapitaalverzekering eigen woning
-
-1.  Tot het voordeel uit kapitaalverzekering eigen woning behoort niet de rente begrepen in de uitkering uit een kapitaalverzekering eigen woning voorzover de uitkering niet meer bedraagt dan € 154 000 indien: 
-
-a. de uitkering heeft gediend als aflossing van de eigenwoningschuld;  
-
-b. ter zake van de verzekering ten minste 20 jaar, of, indien de verzekering tot uitkering komt door eerder overlijden, tot het overlijden, jaarlijks premies zijn voldaan en  
-
-c. de hoogste premie niet meer heeft bedragen dan het tienvoud van de laagste. In afwijking in zoverre van de eerste volzin, aanhef en onderdeel b, wordt de rente die is begrepen in de uitkering uit een kapitaalverzekering eigen woning, voorzover deze uitkering niet meer bedraagt dan € 34 900, niet als voordeel uit kapitaalverzekering aangemerkt indien ter zake van de verzekering ten minste 15 jaar jaarlijks premies zijn voldaan.     
-2.  De in het eerste lid, onderdelen a en b, genoemde voorwaarden gelden niet indien: 
-
-a. de verzekeringnemer of zijn partner geen *eigen woning* meer ter beschikking staat en ter zake daarvan de verzekering tot uitkering is gekomen of wordt geacht tot uitkering te zijn gekomen of  
-
-b. de verzekering wordt geacht tot uitkering te zijn gekomen door het ophouden binnenlands belastingplichtig te zijn als bedoeld in artikel 3.116, vierde lid.     
-3.  De bedragen bepaald op grond van het eerste lid worden verminderd met het bedrag aan uitkering uit een kapitaalverzekering dat eerder ten aanzien van de belastingplichtige voor de toepassing van het eerste lid in aanmerking is genomen, alsmede met het tegoed van een spaarrekening eigen woning dat eerder ten aanzien van de belastingplichtige voor de toepassing van de vrijstelling van artikel 3.118a in aanmerking is genomen en met de waarde van een beleggingsrecht eigen woning dat eerder ten aanzien van de belastingplichtige voor de toepassing van de vrijstelling van genoemd artikel in aanmerking is genomen.   
-4.  Indien op het tijdstip van de uitkering het bedrag van de eigenwoningschuld lager is dan het op grond van het eerste en het derde lid bepaalde bedrag, wordt het in het eerste lid, in verbinding met het derde lid, bepaalde bedrag vervangen door het bedrag van de eigenwoningschuld.   
-5.  Indien de belastingplichtige een levensverzekering heeft die ten aanzien van hem tot enig moment heeft voldaan aan de voorwaarden voor een kapitaalverzekering eigen woning en ter zake van die verzekering binnen drie jaren na dat moment wederom wordt voldaan aan de voorwaarden voor een kapitaalverzekering eigen woning, wordt het in het eerste lid genoemde bedrag verhoogd met een bedrag gelijk aan de in het derde lid bedoelde vermindering wegens de eerdere toepassing van het eerste lid op deze verzekering. De rente begrepen in de in de eerste volzin bedoelde verhoging, komt in mindering op het overschot, bedoeld in artikel 3.116, achtste lid.   
-6.  Indien bij een belastingplichtige ingevolge artikel 3.116, vierde lid, een uitkering uit een kapitaalverzekering eigen woning in aanmerking is genomen en de belastingplichtige weer binnenlands belastingplichtig is en: 
-
-a. zich niet een omstandigheid heeft voorgedaan waardoor de woning is opgehouden een eigen woning te zijn in de zin van artikel 3.111;  
-
-b. de belastingplichtige terzake van die kapitaalverzekering eigen woning niet een voordeel heeft genoten als bedoeld in artikel 3.116, eerste lid, en  
-
-c. ter zake van die kapitaalverzekering zich niet een omstandigheid heeft voorgedaan als bedoeld in artikel 3.116, derde lid,   wordt het in het eerste lid genoemde bedrag verhoogd met een bedrag gelijk aan de in het derde lid bedoelde vermindering wegens de eerdere toepassing van het eerste lid op die kapitaalverzekering.   
-7.  Indien één of meer kapitaalverzekeringen eigen woning tot uitkering komt of komen door het overlijden van de *partner* wordt het op grond van de voorgaande leden vast te stellen bedrag ten behoeve van de langstlevende *partner* verhoogd met het bedrag dat de overleden *partner* ter zake van deze kapitaalverzekeringen op grond van de voorgaande leden nog in aanmerking had kunnen nemen onmiddellijk voorafgaande aan zijn overlijden. Deze verhoging kan niet groter zijn dan het totale bedrag dat uit levensverzekering wordt uitgekeerd ten gevolge van het overlijden van de *partner*.   
-8.  Indien één of meer kapitaalverzekeringen eigen woning tot uitkering komt of komen door het overlijden van een persoon die geen *partner* is van de begunstigde, geldt voor de begunstigde ten aanzien van deze verzekeringen in plaats van het op grond van de voorgaande leden vast te stellen bedrag het bedrag dat de overleden persoon ter zake van deze kapitaalverzekeringen op grond van de voorgaande leden nog in aanmerking had kunnen nemen onmiddellijk voorafgaande aan zijn overlijden. Indien verschillende begunstigden een uitkering als bedoeld in de eerste volzin ontvangen, geldt voor de begunstigde onverkort hetgeen daar is bepaald met dien verstande dat het daar bedoelde bedrag dat de overleden persoon nog in aanmerking had kunnen nemen naar rato van de uitkeringen aan onderscheiden begunstigden in aanmerking wordt genomen.   
-
-### Artikel  3.118a  
-
-####Vrijstelling spaarrekening eigen woning en vrijstelling beleggingsrecht eigen woning
-
-Met betrekking tot het voordeel uit spaarrekening eigen woning onderscheidenlijk het voordeel uit beleggingsrecht eigen woning geldt een vrijstelling waarvan de omvang wordt berekend met overeenkomstige toepassing van artikel 3.118, met dien verstande dat het zevende en achtste lid van dat artikel slechts toepassing vinden bij een continuering als bedoeld in artikel 3.116a, vierde lid, onderdeel f. Daarbij is artikel 3.116a, vijfde lid, tweede volzin, van toepassing en wordt voorts voor premies gelezen: naar een spaarrekening eigen woning overgemaakte bedragen onderscheidenlijk naar een beheerder van een beleggingsrecht overgemaakte bedragen.  
-
-### Artikel  3.119  
-
-####Omzetting kapitaalverzekering eigen woning, spaarrekening eigen woning of beleggingsrecht eigen woning
-
-1.  Voor zover een kapitaalverzekering eigen woning, een spaarrekening eigen woning of een beleggingsrecht eigen woning wordt omgezet in een andere soortgelijke verzekering, een andere soortgelijke spaarrekening of een ander soortgelijk beleggingsrecht, wordt de laatstgenoemde verzekering, de laatstgenoemde spaarrekening of het laatstgenoemde beleggingsrecht voor de toepassing van deze afdeling geacht een voortzetting te zijn van de eerstgenoemde verzekering, de eerstgenoemde spaarrekening of het eerstgenoemde beleggingsrecht.   
-2.  Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit artikel.   
-
 ### Artikel  3.119a  
 
-####Eigenwoningschuld en eigenwoningreserve
+####Eigenwoningschuld
 
-1.  Voor de toepassing van deze afdeling en de daarop berustende bepalingen wordt onder eigenwoningschuld verstaan het gezamenlijke bedrag van de schulden die zijn aangegaan ter verwerving van een eigen woning doch ten hoogste een bedrag gelijk aan de kosten ter verwerving van de woning verminderd met het bedrag van de eigenwoningreserve direct voorafgaande aan het moment waarop de woning ten aanzien van de belastingplichtige als een eigen woning wordt aangemerkt en verminderd met hetgeen met toepassing van [artikel 33, onder 5° en 6°, van de Successiewet 1956](../../../../../wet/successiewet/1956/BWBR0002226/README.md) aan vrijstelling is genoten in verband met schenking van een bedrag ter zake van de verwerving van een eigen woning.   
-2.  De eigenwoningschuld wordt verhoogd met het gezamenlijke bedrag van de schulden die zijn aangegaan ter betaling van de kosten ter verkrijging van de in het eerste lid bedoelde eigenwoningschuld of van de in het derde lid bedoelde schulden, waarbij afsluitprovisies in aanmerking worden genomen tot het maximum, bedoeld in artikel 3.120, zevende lid.   
-3.  De eigenwoningschuld wordt verhoogd met het gezamenlijke bedrag van de schulden die zijn aangegaan voor verbetering of onderhoud van de woning of ter afkoop van de rechten van erfpacht, opstal of beklemming met betrekking tot de woning voorzover die schulden uitgaan boven het positieve bedrag van de eigenwoningreserve direct voorafgaande aan de verbetering, het onderhoud of de afkoop.   
-4.  Bij de vervreemding van een eigen woning wordt het vervreemdingssaldo eigen woning toegevoegd aan een eigenwoningreserve. Onder vervreemdingssaldo eigen woning wordt verstaan de waarde van de tegenprestatie bij de vervreemding van een eigen woning, verminderd met de kosten ter zake van die vervreemding en verminderd met de eigenwoningschuld voor de woning. Voor de toepassing van dit lid worden tot de eigenwoningschuld mede gerekend het bedrag van de verlaging ingevolge het negende lid, de schulden ter zake waarvan de renten ingevolge artikel 3.120, vierde lid, onderdeel c, niet tot de aftrekbare kosten van een eigen woning worden gerekend alsmede de schulden, bedoeld in artikel 3.120, achtste lid.   
-5.  Een eigenwoningreserve neemt af, doch niet verder dan tot nihil, met: 
+1.  Voor de toepassing van deze afdeling en de daarop berustende bepalingen wordt onder eigenwoningschuld verstaan het gezamenlijke bedrag van de schulden van de belastingplichtige: 
 
-a. een bedrag gelijk aan de kosten ter verwerving van een eigen woning verminderd met het bedrag dat ingevolge het eerste lid als eigenwoningschuld voor die woning in aanmerking wordt genomen;  
+a. die zijn aangegaan in verband met een eigen woning;  
 
-b. een bedrag gelijk aan het bedrag waarmee de eigenwoningschuld van de partner op grond van het negende lid is verlaagd, met dien verstande dat dit bedrag weer aan de eigenwoningreserve wordt toegevoegd ingeval het negende lid niet meer van toepassing is op de eigenwoningschuld van de partner;  
+b. ter zake waarvan een contractuele verplichting geldt tot het gedurende de looptijd ten minste annuïtair en in ten hoogste 360 maanden volledig aflossen overeenkomstig artikel 3.119c;  
+
+c. ter zake waarvan aan de verplichting tot aflossing wordt voldaan (aflossingseis), en  
+
+d. ter zake waarvan, ingeval artikel 3.119g van toepassing is, aan de verplichting tot informatieverstrekking, bedoeld in dat artikel, wordt voldaan.     
+2.  Onder schulden die zijn aangegaan in verband met een eigen woning worden verstaan de schulden die zijn aangegaan: 
+
+a. ter verwerving van de eigen woning, doch ten hoogste tot een gezamenlijk bedrag gelijk aan de kosten ter verwerving van de woning;  
+
+b. voor verbetering of onderhoud van de woning of ter afkoop van de rechten van erfpacht, opstal of beklemming met betrekking tot de woning, doch ten hoogste tot een gezamenlijk bedrag gelijk aan de kosten van verbetering, of onderhoud van de woning of ter afkoop van de rechten van erfpacht opstal of beklemming met betrekking tot de woning;  
+
+c. ter betaling van de kosten ter verkrijging van de schulden, bedoeld in de onderdelen a en b, waarbij afsluitprovisies in aanmerking worden genomen tot het maximum, bedoeld in artikel 3.120, vijfde lid.     
+3.  Voor de toepassing van het tweede lid wordt de som van het bedrag van de kosten ter verwerving van de woning, bedoeld in onderdeel a, en het bedrag van de verbetering, het onderhoud of de afkoop, bedoeld in onderdeel b, verminderd met de som van: 
+
+1°. het positieve bedrag van de eigenwoningreserve, bedoeld in artikel 3.119aa, direct voorafgaande aan het moment waarop de woning ten aanzien van de belastingplichtige als een eigen woning wordt aangemerkt, onderscheidenlijk direct voorafgaande aan de verbetering, het onderhoud of de afkoop;  
+
+2°. hetgeen met toepassing van [artikel 33, onderdelen 5° en 6°, van de Successiewet 1956](../../../../../wet/successiewet/1956/BWBR0002226/README.md) ter zake van die verwerving, verbetering, dat onderhoud of die afkoop aan vrijstelling is genoten.     
+4.  Indien de belastingplichtige een eigen woning verwerft die bestemd is om hem en zijn partner anders dan tijdelijk als hoofdverblijf ter beschikking te staan, wordt, indien hun voordien reeds tezamen een woning anders dan tijdelijk als hoofdverblijf ter beschikking heeft gestaan en de partner ten aanzien van die eerdere woning een vervreemdingssaldo eigen woning heeft behaald, de op grond van het eerste lid berekende eigenwoningschuld van de belastingplichtige verlaagd, doch niet verder dan tot nihil, met de eigenwoningreserve, bedoeld in artikel 3.119aa, van de partner waarbij, indien de partner de woning mede heeft verworven, wordt uitgegaan van de eigenwoningreserve na toepassing van artikel 3.119aa met betrekking tot de partner. De in de eerste volzin bedoelde verlaging van de eigenwoningschuld wordt toegepast tot het moment waarop de woning hun niet meer gezamenlijk anders dan tijdelijk als hoofdverblijf ter beschikking staat.   
+5.  Tot de eigenwoningschuld behoren niet: 
+
+a. de schulden die zijn aangegaan of ontstaan ter betaling van renten als bedoeld in artikel 3.120, eerste lid, onderdeel a;  
+
+b. de schulden die zijn aangegaan ter verwerving van de eigen woning of een gedeelte daarvan, indien de eigen woning of een gedeelte daarvan direct of indirect is verkregen van de partner van de belastingplichtige, voor zover het totaal van de schulden die de belastingplichtige en zijn partner zijn aangegaan ter verwerving van de woning, na deze verkrijging meer bedraagt dan vóór de vervreemding van de woning of een gedeelte daarvan door zijn partner;  
+
+c. schulden die zijn ontstaan uit een overeenkomst van geldlening tussen partners;  
+
+d. schulden die corresponderen met geldvorderingen als bedoeld in artikel 5.4, eerste lid.     
+
+### Artikel  3.119aa  
+
+####Eigenwoningreserve
+
+1.  Bij de vervreemding van een eigen woning wordt het vervreemdingssaldo eigen woning toegevoegd aan een eigenwoningreserve. Onder vervreemdingssaldo eigen woning wordt verstaan de waarde van de tegenprestatie bij de vervreemding van een eigen woning, verminderd met de kosten ter zake van die vervreemding en verminderd met de eigenwoningschuld voor de woning. Voor de toepassing van de eerste en tweede volzin wordt tot de eigenwoningschuld mede gerekend het bedrag van de verlaging, bedoeld in artikel 3.119a, vierde lid, en het bedrag dat op grond van artikel 3.119a, vijfde lid, onderdeel b, niet tot de eigenwoningschuld behoort.   
+2.  Een eigenwoningreserve neemt af, doch niet verder dan tot nihil, met: 
+
+a. een bedrag gelijk aan de kosten ter verwerving van een eigen woning verminderd met het bedrag dat ingevolge artikel 3.119a, eerste lid, als eigenwoningschuld voor die woning in aanmerking wordt genomen;  
+
+b. een bedrag gelijk aan het bedrag waarmee de eigenwoningschuld van de partner op grond van artikel 3.119a, vierde lid, is verlaagd, met dien verstande dat dit bedrag weer aan de eigenwoningreserve wordt toegevoegd ingeval artikel 3.119a, vierde lid, niet meer van toepassing is op de eigenwoningschuld van de partner;  
 
 c. een bedrag gelijk aan de in een kalenderjaar gemaakte kosten voor verbetering of onderhoud van de woning of ter afkoop van de rechten van erfpacht, opstal of beklemming met betrekking tot de woning.     
-6.  De eigenwoningreserve vervalt voorzover die is toe te rekenen aan een vervreemdingssaldo eigen woning dat drie jaar geleden is toegevoegd.   
-7.  Voor de toepassing van dit artikel wordt onder verwerving onderscheidenlijk vervreemding van een eigen woning verstaan een gebeurtenis waardoor de woning ten aanzien van de belastingplichtige als een eigen woning wordt aangemerkt, onderscheidenlijk niet meer als zodanig wordt aangemerkt. Als verwerving wordt niet aangemerkt die krachtens boedelmenging door voltrekking van een huwelijk of wijziging van huwelijkse voorwaarden. Indien bij een verwerving of vervreemding een tegenprestatie ontbreekt of is bedongen bij een niet onder normale omstandigheden gesloten overeenkomst, wordt als tegenprestatie aangemerkt de waarde die ten tijde van de verwerving onderscheidenlijk de vervreemding in het economische verkeer aan de woning kan worden toegekend.   
-8.  Indien ten aanzien van de belastingplichtige twee woningen gelijktijdig als eigen woning worden aangemerkt en vervolgens één van die woningen wordt vervreemd, wordt direct daarna de eigenwoningschuld voor de andere woning opnieuw vastgesteld door hernieuwde toepassing van het eerste lid, waarbij de actuele stand van de eigenwoningreserve in de plaats komt van de stand direct voorafgaande aan het moment waarop de woning ten aanzien van de belastingplichtige als een eigen woning is aangemerkt. Vervolgens wordt het vijfde lid, onderdeel a, opnieuw toegepast. Daarna wordt het negende lid opnieuw toegepast bij de partner en wordt bij de belastingplichtige vervolgens het vijfde lid, onderdeel b, opnieuw toegepast. Daarna wordt het derde lid opnieuw toegepast, waarbij de actuele stand van de eigenwoningreserve in de plaats komt van de stand direct voorafgaande aan de verbetering, het onderhoud of de afkoop. Daarna wordt het tweede lid opnieuw toegepast. Ten slotte wordt het vijfde lid, onderdeel c, opnieuw toegepast.   
-9.  Indien de belastingplichtige een eigen woning verwerft die bestemd is om hem en zijn partner anders dan tijdelijk als hoofdverblijf ter beschikking te staan, wordt, indien hen voordien reeds tezamen een woning anders dan tijdelijk als hoofdverblijf ter beschikking heeft gestaan en de partner ten aanzien van die eerdere woning een vervreemdingssaldo heeft behaald, de op grond van het eerste lid berekende eigenwoningschuld van de belastingplichtige verlaagd, maar niet verder dan tot nihil, met de eigenwoningreserve van de partner waarbij, indien de partner de woning mede heeft verworven, wordt uitgegaan van de eigenwoningreserve na toepassing van dit artikel met betrekking tot de partner. De in de eerste volzin bedoelde verlaging van de eigenwoningschuld wordt toegepast tot het moment waarop de woning hen niet meer gezamenlijk anders dan tijdelijk als hoofdverblijf ter beschikking staat.   
-10.  Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit artikel.   
+3.  De eigenwoningreserve vervalt voor zover die is toe te rekenen aan een vervreemdingssaldo eigen woning dat drie jaar geleden is toegevoegd.   
+4.  Voor de toepassing van deze afdeling wordt onder verwerving onderscheidenlijk vervreemding van een eigen woning verstaan een gebeurtenis waardoor de woning ten aanzien van de belastingplichtige als een eigen woning wordt aangemerkt, onderscheidenlijk niet meer als zodanig wordt aangemerkt. Als verwerving of vervreemding wordt niet aangemerkt die krachtens boedelmenging door voltrekking van een huwelijk of wijziging van huwelijkse voorwaarden en die door vererving tussen partners. Indien bij een verwerving of vervreemding een tegenprestatie ontbreekt of is bedongen bij een niet onder normale omstandigheden gesloten overeenkomst, wordt als tegenprestatie aangemerkt de waarde die ten tijde van de verwerving, onderscheidenlijk de vervreemding, in het economische verkeer aan de woning kan worden toegekend.   
+5.  De eigenwoningreserve die ontstaat door de vervreemding van een eigen woning waartoe meer dan een belastingplichtige gerechtigd is, wordt aan elk van hen toegerekend naar de mate waarin zij gerechtigd zijn tot het vervreemdingssaldo eigen woning.   
+6.  Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit artikel.   
 
 ### Artikel  3.119b  
 
 ####Beschikking eigenwoningreserve
 
-1.  De eigenwoningreserve kan naar de stand van het einde van een kalenderjaar, al dan niet op verzoek, door de inspecteur bij voor bezwaar vatbare beschikking worden vastgesteld. Indien er sprake is van een afname van de eigenwoningreserve als bedoeld in artikel 3.119a, vijfde lid, onderdeel b, wordt in de beschikking tevens melding gemaakt van het bedrag van die afname.   
-2.  Op gezamenlijk verzoek van de belastingplichtige en zijn gewezen partner kan de eigenwoningreserve aan elk van hen worden toegerekend naar de mate waarin zij feitelijk gerechtigd zijn tot het vervreemdingssaldo eigen woning. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Op het verzoek kan niet worden teruggekomen.   
-3.  Indien enig feit grond oplevert voor het vermoeden dat de eigenwoningreserve te laag is vastgesteld, kan de inspecteur de beschikking herzien. Herziening vindt plaats bij voor bezwaar vatbare beschikking.   
-4.  Een feit dat de inspecteur bekend was of redelijkerwijs bekend had kunnen zijn, levert geen grond voor herziening op, tenzij de belastingplichtige ter zake van dit feit te kwader trouw is.   
-5.  [Artikel 16, tweede lid, aanhef en onderdeel c, derde en vierde lid, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van overeenkomstige toepassing op herziening.   
+1.  De eigenwoningreserve kan naar de stand van het einde van een kalenderjaar, al dan niet op verzoek, door de inspecteur bij voor bezwaar vatbare beschikking worden vastgesteld. Indien er sprake is van een afname van de eigenwoningreserve als bedoeld in artikel 3.119aa, tweede lid, onderdeel b, wordt in de beschikking tevens melding gemaakt van het bedrag van die afname.   
+2.  Indien enig feit grond oplevert voor het vermoeden dat de eigenwoningreserve te laag is vastgesteld, kan de inspecteur de beschikking herzien. Herziening vindt plaats bij voor bezwaar vatbare beschikking.   
+3.  Een feit dat de inspecteur bekend was of redelijkerwijs bekend had kunnen zijn, levert geen grond voor herziening op, tenzij de belastingplichtige ter zake van dit feit te kwader trouw is.   
+4.  [Artikel 16, tweede lid, aanhef en onderdeel c, derde en vierde lid, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van overeenkomstige toepassing op herziening.   
+
+### Artikel  3.119c  
+
+####Aflossingseis
+
+1.  Aan de aflossingseis wordt voldaan indien een tot de eigenwoningschuld behorende schuld op het toetsmoment niet meer bedraagt dan het bedrag dat per schuld volgt uit de formule:   ![251526](http://wetten.overheid.nl/Illustration/251526)
+waarbij wordt verstaan onder: B <sub>x</sub>: de maximale schuld op het toetsmoment; B <sub>0</sub>: het startbedrag van de schuld; i <sub>m</sub>: de maandelijkse rentevoet; x: het aantal verstreken gehele kalendermaanden van de looptijd; n: de totale looptijd van de schuld in maanden, gerekend vanaf het moment van aangaan van de schuld tot de maand waarin de schuld geheel moet zijn afgelost, doch ten hoogste 360 maanden.   
+2.  Na een wijziging van de maandelijkse rentevoet wordt de formule in het eerste lid als volgt toegepast: 
+
+a. onder B <sub>0</sub> wordt verstaan: de omvang van de schuld op het moment direct voorafgaand aan de wijziging van de maandelijkse rentevoet;  
+
+b. onder i <sub>m</sub> wordt verstaan: de nieuwe maandelijkse rentevoet;  
+
+c. onder x wordt verstaan: het aantal verstreken gehele kalendermaanden van de looptijd vanaf het moment direct voorafgaand aan de wijziging van de maandelijkse rentevoet, en  
+
+d. onder n wordt verstaan: de nog resterende maximale looptijd van de oorspronkelijke looptijd van de schuld in gehele kalendermaanden op het moment direct voorafgaand aan de wijziging van de maandelijkse rentevoet.     
+3.  Voor zover reeds een of meerdere schulden die behoren tot de eigenwoningschuld bestaan of laatstelijk hebben bestaan en daarna voor een bedrag overeenstemmend met, of lager dan de laatste omvang van die schuld, onderscheidenlijk schulden, één of meer nieuwe schulden als bedoeld in artikel 3.119a, eerste lid, worden aangegaan, wordt de formule in het eerste lid per schuld als volgt toegepast: 
+
+a. onder B <sub>0</sub> wordt verstaan: de laatste omvang van de voorgaande schuld, dan wel indien het bedrag van de nieuwe schuld lager is, dit lagere bedrag;  
+
+b. onder i <sub>m</sub> wordt verstaan: de maandelijkse rentevoet op het moment van aangaan van de nieuwe schuld;  
+
+c. onder x wordt verstaan: het aantal verstreken gehele kalendermaanden van de looptijd vanaf het moment direct voorafgaand aan het aangaan van de nieuwe schuld, en  
+
+d. onder n wordt verstaan: de nog resterende maximale looptijd van de oorspronkelijke looptijd van de voorgaande schuld in maanden op het laatste moment dat deze schuld bestond.     
+4.  Voor zover de nieuwe eigenwoningschuld, na toepassing van de aflossingsstand, bedoeld in artikel 3.119d, de totale laatste omvang van de voorgaande schuld, uiterlijk op het moment direct voorafgaand aan het aangaan van de nieuwe schuld of schulden, overtreft, geldt voor de nieuwe schulden de formule van het eerste lid, waarbij onder (n) wordt verstaan de totale looptijd van de schuld in maanden, gerekend vanaf het moment van aangaan van de schuld tot de maand waarin de schuld geheel moet zijn afgelost, doch ten hoogste 360 maanden.   
+5.  Als toetsmoment als bedoeld in het eerste lid wordt aangemerkt: 
+
+a. 31 december van het kalenderjaar;  
+
+b. het moment van vervreemding van de eigen woning;  
+
+c. het moment van wijziging van de maandelijkse rentevoet, bedoeld in het tweede lid;  
+
+d. het laatste moment waarop de voorgaande schuld bestond, bedoeld in het derde lid.     
+6.  De aflossingseis rust op de belastingplichtige voor zijn eigenwoningschuld.   
+7.  Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit artikel.   
+
+### Artikel  3.119d  
+
+####Aflossingsstand
+
+1.  Indien bij een vervreemding van de eigen woning de eigenwoningschuld van de belastingplichtige direct voorafgaand aan die vervreemding groter is dan de eigenwoningschuld van de belastingplichtige ter zake van een nieuw verworven eigen woning of indien na de vervreemding een eigenwoningschuld ontbreekt, blijven van dat meerdere van de eigenwoningschuld onderscheidenlijk van de eigenwoningschuld direct voorafgaand aan die vervreemding, het bedrag en de stand van de resterende looptijd in maanden (de aflossingsstand) behouden. De aflossingsstand kan naar de stand van het einde van een kalenderjaar, al dan niet op verzoek, door de inspecteur bij voor bezwaar vatbare beschikking (de beschikking aflossingsstand) worden vastgesteld.   
+2.  Indien de belastingplichtige de eigenwoningschuld op enig moment verhoogt of indien na een periode zonder eigenwoningschuld opnieuw een eigenwoningschuld ontstaat, en er op dat moment een aflossingsstand bestaat, wordt de formule van artikel 3.119c, eerste lid, voor de verhoging van de eigenwoningschuld onderscheidenlijk voor de genoemde opnieuw ontstane eigen woningschuld als volgt toegepast: 
+
+a. onder B <sub>0</sub> wordt verstaan: het bedrag van de aflossingsstand, dan wel indien het bedrag van de nieuwe schuld lager is, dit lagere bedrag, en  
+
+b. onder n wordt verstaan: de resterende looptijd in maanden van de aflossingsstand.     
+3.  De aflossingsstand vervalt, dan wel de beschikking aflossingsstand vervalt, indien de aflossingsstand geheel is toegepast op een eigenwoningschuld. Indien er sprake is van een afname van het bedrag van de aflossingsstand, blijft de aflossingsstand behouden voor het resterende bedrag en, indien een beschikking aflossingsstand is vastgesteld, wordt in de beschikking tevens melding gemaakt van het bedrag van die afname.   
+
+### Artikel  3.119e  
+
+####Kortstondig afwijken van aflossingsschema en betalingsregelingen
+
+1.  Indien een tot de eigenwoningschuld behorende schuld van de belastingplichtige in een kalenderjaar op het toetsmoment, bedoeld in artikel 3.119c, vijfde lid, onderdeel a, meer bedraagt dan het bedrag dat volgt uit artikel 3.119a, eerste lid, onderdeel c, (de aflossingsachterstand) blijft die schuld behoren tot de eigenwoningschuld, indien die schuld op 31 december van het daaropvolgende kalenderjaar niet meer bedraagt dan het bedrag dat volgt uit artikel 3.119a, eerste lid, onderdeel c, voor dat moment. De eerste volzin geldt niet indien de aflossingsachterstand vaker dan incidenteel voorkomt.   
+2.  Indien een tot de eigenwoningschuld behorende schuld op 31 december van het kalenderjaar volgend op het kalenderjaar waarin de aflossingsachterstand is ontstaan meer bedraagt dan het bedrag dat volgt uit artikel 3.119a, eerste lid, onderdeel c, voor dat moment, blijft die schuld behoren tot de eigenwoningschuld, indien: 
+
+a. de belastingplichtige aannemelijk maakt dat dit het gevolg is van onvoldoende betalingscapaciteit en de belastingplichtige per 1 januari van het tweede kalenderjaar volgend op het kalenderjaar waarin de aflossingsachterstand is ontstaan contractueel een nieuw ten minste annuïtair aflosschema overeenkomt met de schuldeiser waarbij de schuld op de daaropvolgende toetsmomenten niet meer bedraagt dan de uitkomst van de formule van artikel 3.119c, eerste lid, waarbij wordt verstaan onder: B <sub>0</sub>: de hoogte van de schuld ter zake waarvan sprake is van onvoldoende betalingscapaciteit, op 31 december van het kalenderjaar volgend op het kalenderjaar waarin de aflossingsachterstand is ontstaan; i <sub>m</sub>: de nieuwe maandelijkse rentevoet; x: het aantal verstreken gehele kalendermaanden van de looptijd vanaf 31 december van het kalenderjaar volgend op het kalenderjaar waarin de aflossingsachterstand is ontstaan, en n: de nog resterende maximale looptijd van de oorspronkelijke looptijd van de schuld in gehele kalendermaanden op 31 december van het kalenderjaar volgend op het kalenderjaar waarin de aflossingsachterstand is ontstaan; of  
+
+b. de belastingplichtige aannemelijk maakt dat de aflossingsachterstand in het jaar volgend op het kalenderjaar waarin de eerste aflossingsachterstand is ontstaan het gevolg is van een onbedoelde fout in de betaling of berekening van het aflossingsbedrag, en de eigenwoningschuld op 31 december van het tweede kalenderjaar volgend op het kalenderjaar waarin de aflossingsachterstand is ontstaan niet meer bedraagt dan het bedrag dat volgt uit artikel 3.119a, eerste lid, onderdeel c, voor dat moment.     
+3.  Indien de belastingplichtige aannemelijk maakt dat de betalingsproblemen zodanig zijn dat na vaststelling op de voet van het tweede lid, onderdeel a, van een nieuw ten minste annuïtair aflossingsschema per 1 januari van het tweede kalenderjaar volgend op het kalenderjaar waarin de aflossingsachterstand is ontstaan, niet aan de nieuw vastgestelde aflossingseis kan worden voldaan, blijft die schuld behoren tot de eigenwoningschuld, mits de schuldeiser instemt met betalingsuitstel. De belastingplichtige komt vervolgens uiterlijk per 31 december van het vierde kalenderjaar volgend op het kalenderjaar waarin de aflossingsachterstand is ontstaan, contractueel een nieuw ten minste annuïtair aflossingsschema overeen met de schuldeiser waarbij de schuld op de daaropvolgende toetsmomenten niet meer bedraagt dan de uitkomst van de formule van artikel 3.119c, eerste lid, waarbij wordt verstaan onder: B <sub>0</sub>: de hoogte van de schuld, waarbij de betalingsproblemen zich voordoen, op het moment direct voorafgaand aan het contractueel overeenkomen van het nieuwe ten minste annuïtaire aflossingsschema; i <sub>m</sub>: de nieuwe maandelijkse rentevoet; x: het aantal verstreken gehele kalendermaanden van de looptijd vanaf het moment direct voorafgaand aan het contractueel overeenkomen van het nieuwe ten minste annuïtaire aflossingsschema, en n: de nog resterende maximale looptijd van de oorspronkelijke looptijd van de schuld in gehele kalendermaanden op het moment direct voorafgaand aan het contractueel overeenkomen van het nieuwe ten minste annuïtaire aflossingsschema.   
+4.  Indien het tweede lid of het derde lid er niet toe leiden dat de schuld waarvoor een aflossingsachterstand is ontstaan toch tot de eigenwoningschuld blijft behoren, behoort die schuld per 1 januari van het tweede kalenderjaar volgend op het kalenderjaar waarin de aflossingsachterstand is ontstaan, onderscheidenlijk per 1 januari van het vierde kalenderjaar volgend op het kalenderjaar waarin aflossingsachterstand is ontstaan, voor de resterende periode van de looptijd niet tot de eigenwoningschuld.   
+5.  Indien een schuld op de voet van het vierde lid niet meer behoort tot de eigenwoningschuld, de belastingplichtige deze schuld op enig moment aflost en op enig moment daarna een nieuwe schuld in verband met een eigen woning aangaat, wordt voor de toepassing van artikel 3.119a deze nieuwe schuld verminderd met het bedrag van de schuld die niet meer tot de eigenwoningschuld behoorde op de voet van het vierde lid.   
+6.  Voor zover een tot de eigenwoningschuld behorende schuld van de belastingplichtige op een toetsmoment als bedoeld in artikel 3.119c, vijfde lid, onderdelen b tot en met d, meer bedraagt dan het bedrag dat volgt uit artikel 3.119a, eerste lid, onderdeel c, behoort die schuld voor de toepassing van artikel 3.119a op het moment direct voorafgaand aan het toetsmoment niet meer tot de eigenwoningschuld. De eerste volzin is niet van toepassing indien het derde lid van toepassing is en de woning is vervreemd voor het verstrijken van het vierde jaar volgend op het kalenderjaar waarin de aflossingsachterstand is ontstaan.   
+7.  Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit artikel.   
+
+### Artikel  3.119f  
+
+####Verhuisregelingen
+
+1.  Indien nog een andere woning van de belastingplichtige wordt aangemerkt als eigen woning door de toepassing van artikel 3.111, tweede of derde lid, gaat de aflossingseis, bedoeld in artikel 3.119a, eerste lid, onderdeel c, met toepassing van de stand en looptijd van de aflossing ter zake van de tot de eigenwoningschuld behorende schuld op dat moment over van de te vervreemden eigen woning naar de schuld ter zake van die andere eigen woning, voor zover de schuld ten behoeve van die andere eigen woning de schuld ten behoeve van de te vervreemden eigen woning niet overtreft.   
+2.  Voor zover een schuld dient ter voorfinanciering van een toekomstig vervreemdingssaldo eigen woning zijn de voorwaarden van artikel 3.119a, eerste lid, onderdelen b en c, gedurende de periode dat artikel 3.111, tweede of derde lid, van toepassing is niet van toepassing.   
+3.  Indien ten aanzien van de belastingplichtige twee woningen gelijktijdig als eigen woning worden aangemerkt en vervolgens één van die woningen wordt vervreemd, wordt direct daarna de eigenwoningschuld voor de andere woning opnieuw vastgesteld door toepassing van artikel 3.119a, eerste en tweede lid, waarbij de actuele stand van de eigenwoningreserve in de plaats komt van de stand direct voorafgaande aan het moment waarop de woning ten aanzien van de belastingplichtige als een eigen woning is aangemerkt. Vervolgens wordt artikel 3.119aa, tweede lid, onderdeel a, opnieuw toegepast. Daarna wordt artikel 3.119aa, vijfde lid, opnieuw toegepast bij de partner en wordt bij de belastingplichtige vervolgens artikel 3.119aa, tweede lid, onderdeel b, opnieuw toegepast. Daarna wordt artikel 3.119a, tweede lid, onderdeel b, opnieuw toegepast, waarbij de actuele stand van de eigenwoningreserve in de plaats komt van de stand direct voorafgaande aan de verbetering, het onderhoud of de afkoop. Daarna wordt artikel 3.119a, tweede lid, onderdeel c, opnieuw toegepast. Ten slotte wordt artikel 3.119aa, tweede lid, onderdeel c, opnieuw toegepast.   
+
+### Artikel  3.119g  
+
+####Informatieplicht bij schulden bij niet-administratieplichtigen
+
+1.  De belastingplichtige die een overeenkomst van geldlening aangaat anders dan met een op grond van artikel 10.8 aangewezen administratieplichtige en die de uit deze overeenkomst voortvloeiende schuld wil rekenen tot de eigenwoningschuld, bedoeld in artikel 3.119a, is gehouden uiterlijk bij het indienen van de aangifte over het kalenderjaar waarin die overeenkomst tot stand is gekomen, doch uiterlijk op 31 december van het kalenderjaar volgend op het kalenderjaar waarin die overeenkomst tot stand is gekomen, mededeling daarvan te doen en de bij ministeriële regeling aan te wijzen gegevens te verstrekken.   
+2.  Bij wijziging van de gegevens, bedoeld in het eerste lid, gedurende de looptijd van de schuld is de belastingplichtige gehouden binnen een maand na afloop van het kalenderjaar waarin de wijziging zich voordoet van die wijziging mededeling te doen en daarbij de gewijzigde gegevens te verstrekken.   
+3.  De mededeling, bedoeld in het eerste en tweede lid, geschiedt door het aan de inspecteur toezenden van het daartoe langs elektronische weg ter beschikking gestelde modelformulier waarop de voorgeschreven gegevens zijn ingevuld.   
+4.  Indien de mededeling, bedoeld in het eerste of tweede lid, niet, niet tijdig of niet volledig is gedaan en de gegevens, bedoeld in het eerste of tweede lid, niet, niet tijdig of niet volledig zijn verstrekt, behoort de schuld met ingang van het kalenderjaar waarin de overeenkomst tot stand is gekomen, onderscheidenlijk met ingang van het kalenderjaar waarin de wijziging zich voordoet, niet tot de eigenwoningschuld. Indien in dat geval de voorgeschreven mededeling en de voorgeschreven gegevens binnen een maand na afloop van een volgend kalenderjaar wordt gedaan, onderscheidenlijk worden verstrekt, behoort, indien aan de overige eisen van artikel 3.119a, eerste lid, is voldaan, de schuld met ingang van dat kalenderjaar tot de eigenwoningschuld.   
 
 ### Artikel  3.120  
 
@@ -2454,53 +2387,34 @@ c. een bedrag gelijk aan de in een kalenderjaar gemaakte kosten voor verbetering
 
 1.  De aftrekbare kosten met betrekking tot een eigen woning zijn het gezamenlijke bedrag van: 
 
-a. de renten van schulden, kosten van geldleningen daaronder begrepen, die behoren tot de eigenwoningschuld;  
+a. de renten van schulden die behoren tot de eigenwoningschuld;  
 
-b. de periodieke betalingen op grond van de rechten van erfpacht, opstal en beklemming met betrekking tot de eigen woning.     
-2.  De renten van schulden als bedoeld in het eerste lid, onderdeel a, worden gedurende ten hoogste 30 jaren in aanmerking genomen als aftrekbare kosten met betrekking tot een eigen woning. De duur van de termijn van 30 jaren vangt aan bij het begin van het eerste tijdvak waarop de renten van deze schulden, die als bestanddeel van het inkomen uit werk en woning in aftrek worden gebracht, betrekking hebben en eindigt op het tijdstip waarop de gehele schuld wordt afgelost. Indien andere schulden worden aangegaan als bedoeld in het eerste lid, onderdeel a, worden de renten slechts in aanmerking genomen voor zover de termijn van 30 jaren nog niet is verstreken tenzij het betreft: 
+b. de kosten van geldleningen die behoren tot de eigenwoningschuld;  
 
-a. schulden die worden aangegaan voor verbetering of onderhoud van de woning als bedoeld in artikel 3.119a, derde lid, die behoren tot de eigenwoningschuld, of  
+c. de periodieke betalingen op grond van de rechten van erfpacht, opstal en beklemming, met betrekking tot de eigen woning.     
+2.  Tot de aftrekbare kosten van een eigen woning worden niet gerekend kosten voor zover in verband met de voldoening daarvan schulden ontstaan waarvan de verplichting tot betaling – anders dan voor het geval van overlijden of arbeidsongeschiktheid van de belastingplichtige – rechtens, al dan niet voorwaardelijk, of in feite, direct of indirect is beperkt.   
+3.  De in een kalenderjaar bij wijze van vooruitbetaling voldane renten van schulden en kosten van geldleningen worden niet in aanmerking genomen: 
 
-b. schulden die het totaal van de hoofdsommen van alle voorgaande schulden overtreffen, voor het gedeelte van de schulden dat het totaal van de hoofdsommen van alle voorgaande schulden overtreft. Voor de schulden, bedoeld in de onderdelen a en b, vangt een termijn van 30 jaren aan bij het begin van het eerste tijdvak waarop de renten van deze schulden, die als bestanddeel van het inkomen uit werk en woning in aftrek worden gebracht, betrekking hebben.     
-3.  Indien artikel 3.111, tweede of derde lid, van toepassing is, kunnen de renten van schulden, bedoeld in het eerste lid, onderdeel a, als aftrekbare kosten met betrekking tot een eigen woning in aanmerking worden genomen, tenzij ter zake van die schuld of een gedeelte daarvan de termijn van 30 jaren reeds is verstreken. Voor het gedeelte van de schuld dat overeenstemt met het totaal van de schulden, die zijn aangegaan voor de verwerving van een eigen woning als bedoeld in artikel 3.111, eerste lid, en waarvoor op grond van het tweede lid een termijn van 30 jaren in aanmerking wordt genomen, heeft in afwijking in zoverre van het tweede lid dat gedeelte geen invloed op de duur van de termijn van 30 jaren. Voor het gedeelte van de schuld dat het totaal van de schulden waarvoor op grond van het tweede lid een termijn van 30 jaren in aanmerking wordt genomen, overtreft, vangt een termijn van 30 jaren of het gedeelte van de termijn van 30 jaren dat nog resteert aan op het tijdstip waarop die woning wordt aangemerkt als een eigen woning op grond van artikel 3.111, tweede of derde lid.   
-4.  Tot de aftrekbare kosten van een eigen woning worden niet gerekend: 
+a. indien zij betrekking hebben op tijdvakken die eindigen later dan zes maanden na afloop van het kalenderjaar waarin zij zijn voldaan doch slechts voor zover zij betrekking hebben op de periode die aanvangt na afloop van het kalenderjaar, waarbij die renten naar evenredigheid worden toegerekend aan kalendermaanden en gedeelten van kalendermaanden als kalendermaand worden aangemerkt;  
 
-a. renten van schulden, kosten van geldlening daaronder begrepen, die zijn aangegaan ter betaling van de in het eerste lid, onderdeel a, bedoelde renten met uitzondering van de daar bedoelde kosten van geldleningen;  
+b. voor zover zij betrekking hebben op tijdvakken of delen daarvan die vallen na het tijdstip waarop de binnenlandse belastingplicht anders dan door overlijden eindigt.     
+4.  Vooruitbetaalde renten en kosten van geldleningen die op grond van het derde lid, onderdeel a, niet in aanmerking zijn genomen, worden, behoudens indien de binnenlandse belastingplicht anders dan door overlijden is geëindigd, geacht in gelijke delen te zijn voldaan in elk van de op het in het derde lid bedoelde kalenderjaar volgende kalenderjaren waarop de renten of kosten van geldleningen betrekking hebben, waarbij gedeelten van kalenderjaren als kalenderjaren worden aangemerkt. In het jaar waarin de belastingplichtige overlijdt, worden de renten of kosten van geldleningen die nog buiten aanmerking zijn gebleven, geheel in aanmerking genomen.   
+5.  Afsluitprovisies die zijn voldaan ter zake van schulden die behoren tot de eigenwoningschuld worden niet gerekend tot de bij wijze van vooruitbetaling voldane renten, mits de woning in het kalenderjaar of in de daaropvolgende twee jaren de belastingplichtige als hoofdverblijf ter beschikking staat, een en ander voor zover zij niet meer belopen dan 1,5% van het bedrag van de aangegane schulden en tevens gezamenlijk een bedrag van € 3630 niet te boven gaan.   
 
-b. kosten voorzover in verband met de voldoening daarvan schulden ontstaan waarvan de verplichting tot betaling – anders dan voor het geval van overlijden of arbeidsongeschiktheid van de belastingplichtige – rechtens, al dan niet voorwaardelijk, of in feite, direct of indirect is beperkt;  
+### Artikel  3.120a  
 
-c. renten van schulden, kosten van geldlening daaronder begrepen, aangegaan ter verwerving van de eigen woning of een gedeelte daarvan, indien de eigen woning of een gedeelte daarvan direct of indirect is verkregen van de partner van de belastingplichtige, voorzover het totaal van de schulden die de belastingplichtige en zijn partner zijn aangegaan ter verwerving van de woning, na deze verkrijging meer bedraagt dan vóór de vervreemding van de woning of een gedeelte daarvan door zijn partner.     
-5.  De in een kalenderjaar bij wijze van vooruitbetaling voldane renten van schulden, kosten van geldleningen daaronder begrepen, worden niet in aanmerking genomen: 
+####Aftrekbare kosten restschuld vervreemde eigen woning
 
-a. indien zij betrekking hebben op tijdvakken die eindigen later dan zes maanden na afloop van het kalenderjaar waarin zij zijn voldaan doch slechts voorzover zij betrekking hebben op de periode die aanvangt na afloop van het kalenderjaar, waarbij die renten naar evenredigheid worden toegerekend aan kalendermaanden en gedeelten van kalendermaanden als kalendermaand worden aangemerkt;  
-
-b. voorzover zij betrekking hebben op tijdvakken of delen daarvan die vallen na het tijdstip waarop de binnenlandse belastingplicht anders dan door overlijden eindigt.     
-6.  Vooruitbetaalde renten, kosten van geldleningen daaronder begrepen, die op grond van het vijfde lid, onderdeel a, niet in aanmerking zijn genomen, worden, behoudens indien de binnenlandse belastingplicht anders dan door overlijden is geëindigd, geacht in gelijke delen te zijn voldaan in elk van de op het in het vijfde lid bedoelde kalenderjaar volgende kalenderjaren waarop de renten, kosten van geldleningen daaronder begrepen, betrekking hebben; daarbij worden gedeelten van kalenderjaren als kalenderjaren aangemerkt. In het jaar waarin de belastingplichtige overlijdt, worden de renten, kosten van geldleningen daaronder begrepen, die nog buiten aanmerking zijn gebleven, geheel in aanmerking genomen.   
-7.  Afsluitprovisies die zijn voldaan ter zake van schulden die behoren tot de eigenwoningschuld worden niet gerekend tot de bij wijze van vooruitbetaling voldane renten, mits de woning in het kalenderjaar of in de daaropvolgende twee jaren de belastingplichtige als hoofdverblijf ter beschikking staat, een en ander voorzover zij niet meer belopen dan 1,5% van het bedrag van de aangegane schulden en tevens gezamenlijk een bedrag van € 3630 niet te boven gaan.   
-8.  Voor de toepassing van het eerste lid, onderdeel a, worden renten van schulden die betrekking hebben op per 31 december 1995 bestaande schulden, voorzover deze schulden per die datum verzekerd waren door een hypotheek op een eigen woning en zulks nog steeds zijn met betrekking tot dezelfde woning, aangemerkt als aftrekbare kosten die verband houden met de eigen woning waarop de hypotheek is gevestigd.   
-9.  Het eerste lid is niet van toepassing met betrekking tot een overeenkomst van geldlening tussen partners.   
-10.  Artikel 3.16, tiende lid, is van overeenkomstige toepassing.   
+1.  Als aftrekbare kosten met betrekking tot een eigen woning als bedoeld in artikel 3.120 worden voor een periode van tien jaar na het tijdstip van vervreemding van een eigen woning mede aangemerkt de renten en kosten van geldleningen voor een restschuld van die vervreemde eigen woning.   
+2.  Voor de toepassing van dit artikel wordt onder een restschuld van een vervreemde eigen woning verstaan de schuld die de belastingplichtige had op het moment direct voorafgaand aan een vervreemding in de periode van 29 oktober 2012 tot en met 31 december 2017 van een eigen woning, voor zover deze schuld heeft geleid tot een negatief vervreemdingssaldo eigen woning.   
+3.  Voor zover de schuld, bedoeld in het tweede lid, wordt omgezet in een andere schuld, wordt de tweede schuld voor de toepassing van dit artikel beschouwd als een voortzetting van de eerste.   
+4.  Artikel 3.120, vijfde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  3.121  
 
 ####Aftrekbare kosten gedeelde eigen woning bij gezamenlijke bewoning
 
-De aftrekbare kosten met betrekking tot een woning die voor twee of meer belastingplichtigen die geen *partner* van elkaar zijn samen een *eigen woning* is, worden voor elk van hen bepaald door de schulden die zij zijn aangegaan ter verwerving van de woning en door de periodieke betalingen voorzover die op hen drukken.  
-
-### Artikel  3.122  
-
-####Aftrekbare kosten na eerder gebruik vrijstelling kapitaalverzekering, spaarrekening of beleggingsrecht eigen woning
-
-1.  De schulden, bedoeld in artikel 3.120, eerste lid, onderdeel a, worden slechts in aanmerking genomen tot ten hoogste het bedrag dat is aangewend voor de verwerving van de *eigen woning* verminderd met het gedeelte van het bedrag van de uitkeringen uit kapitaalverzekeringen eigen woning ter zake waarvan de daarin begrepen rente eerder op grond van artikel 3.118 niet als voordeel uit kapitaalverzekering eigen woning is aangemerkt.   
-2.  Indien de belastingplichtige een eigen woning verwerft en ter zake van een kapitaalverzekering eigen woning in een van de drie daaraan voorafgaande jaren artikel 3.118 toepassing heeft gevonden en deze verzekering bij de verwerving een kapitaalverzekering eigen woning wordt, wordt vanaf dat tijdstip voor de toepassing van het eerste lid artikel 3.118 geacht geen toepassing te hebben gevonden.   
-3.  Indien bij een belastingplichtige op grond van artikel 3.116, vierde lid, een uitkering uit een kapitaalverzekering eigen woning in aanmerking is genomen, en zolang: 
-
-a. zich niet een omstandigheid voordoet waardoor de woning ophoudt een eigen woning te zijn in de zin van artikel 3.111;  
-
-b. de belastingplichtige terzake van die kapitaalverzekering eigen woning niet een voordeel geniet als bedoeld in artikel 3.116, eerste lid, en  
-
-c. ter zake van die kapitaalverzekering eigen woning zich niet een omstandigheid voordoet als bedoeld in artikel 3.116, derde lid,   wordt voor de toepassing van het eerste lid de uitkering uit die kapitaalverzekering eigen woning op grond van artikel 3.116, vierde lid, genegeerd.   
-4.  Dit artikel is van overeenkomstige toepassing bij een spaarrekening eigen woning en een beleggingsrecht eigen woning. Ter zake kunnen bij ministeriële regeling nadere regels worden gesteld.   
+De aftrekbare kosten met betrekking tot een woning die voor twee of meer belastingplichtigen die geen partner van elkaar zijn samen een eigen woning is, worden voor elk van hen bepaald door hun aandeel in de schulden die zij zijn aangegaan ter verwerving van de woning en door de periodieke betalingen voor zover die op hen drukken.  
 
 ### Artikel  3.123  
 
@@ -2519,7 +2433,7 @@ In deze afdeling en de daarop berustende bepalingen worden kosten voor verbeteri
 1.  Indien de voordelen uit eigen woning, bedoeld in artikel 3.112, meer bedragen dan de op deze voordelen drukkende aftrekbare kosten, komt de belastingplichtige in aanmerking voor de aftrek wegens geen of geringe eigenwoningschuld.   
 2.  De aftrek wegens geen of geringe eigenwoningschuld is gelijk aan de voordelen uit eigen woning, bedoeld in artikel 3.112, verminderd met de op deze voordelen drukkende aftrekbare kosten.   
 3.  Indien de belastingplichtige een partner heeft, worden voor de toepassing van dit artikel de voordelen van de belastingplichtige en zijn partner en de op deze voordelen drukkende aftrekbare kosten samengevoegd. De aftrek wegens geen of geringe eigenwoningschuld wordt in dat geval gesteld op een evenredig gedeelte van de in het tweede lid berekende aftrek, bepaald naar de verhouding waarin de belastbare inkomsten uit eigen woning die worden geacht bij de belastingplichtige op te komen, staan tot de gezamenlijke belastbare inkomsten uit eigen woning van hem en zijn partner.   
-4.  Voor de toepassing van de vorige leden worden de in een kalenderjaar op de voordelen uit eigen woning drukkende aftrekbare kosten naar evenredigheid toegerekend aan de tijdvakken waarop deze kosten betrekking hebben. De eerste volzin is niet van toepassing op afsluitprovisies die niet meer belopen dan het maximum, bedoeld in artikel 3.120, zevende lid.   
+4.  Voor de toepassing van de vorige leden worden de in een kalenderjaar op de voordelen uit eigen woning drukkende aftrekbare kosten naar evenredigheid toegerekend aan de tijdvakken waarop deze kosten betrekking hebben. De eerste volzin is niet van toepassing op afsluitprovisies die niet meer belopen dan het maximum, bedoeld in artikel 3.120, vijfde lid.   
 5.  Indien door of vanwege een inhoudingsplichtige in de zin van de [wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) van de belastingplichtige of zijn *partner* dan wel door of vanwege een met de inhoudingsplichtige verbonden vennootschap als bedoeld in [artikel 10a, zevende lid, van die wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) aan de belastingplichtige of zijn partner een geldlening is verstrekt, daaronder begrepen een gedeelte van een geldlening, en de belastingplichtige of zijn partner daardoor een rentevoordeel geniet dat niet tot het loon gerekend is, maar dat als aftrekbare kosten in de zin van de artikelen 3.120 tot en met 3.123 in aanmerking zou worden genomen indien het wel tot het loon gerekend zou zijn, wordt de waarde van dit rentevoordeel voor de toepassing van de vorige leden in aanmerking genomen als op de voordelen uit eigen woning drukkende aftrekbare kosten.   
 6.  Het vijfde lid is van overeenkomstige toepassing op aan een geldlening als bedoeld in het vijfde lid verbonden kosten.   
 7.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de vaststelling van de waarde van het rentevoordeel en de waarde van het voordeel van de aan de geldlening verbonden kosten, bedoeld in het vijfde en zesde lid.   
@@ -2549,7 +2463,7 @@ d. bijdragen ingevolge [artikel 66a, derde lid, Algemene nabestaandenwet](../../
 
 1.  Als lijfrenten als bedoeld in artikel 1.7, eerste lid, onderdeel a, die dienen ter compensatie van een pensioentekort worden aangemerkt: 
 
-a. lijfrenten als bedoeld in artikel 1.7, eerste lid, onderdeel a, waarvan de termijnen toekomen aan de belastingplichtige, ingaan uiterlijk in het jaar waarin hij de leeftijd van 70 jaar bereikt en uitsluitend eindigen bij zijn overlijden;  
+a. lijfrenten als bedoeld in artikel 1.7, eerste lid, onderdeel a, waarvan de termijnen toekomen aan de belastingplichtige, ingaan uiterlijk in het jaar waarin hij de leeftijd bereikt die vijf jaar hoger is dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), en uitsluitend eindigen bij zijn overlijden;  
 
 b. lijfrenten als bedoeld in artikel 1.7, eerste lid, onderdeel a, waarvan de termijnen toekomen aan een natuurlijk persoon en ingaan bij het overlijden van de belastingplichtige, van zijn *partner* of zijn gewezen partner, waarbij indien de termijnen toekomen aan een van hun bloed- of aanverwanten, niet zijnde de partner of gewezen partner, in de rechte lijn of in de tweede of derde graad van de zijlijn, deze uitsluitend eindigen hetzij bij het overlijden van de gerechtigde hetzij uiterlijk op het tijdstip waarop deze de leeftijd van 30 jaar bereikt;  
 
@@ -2606,7 +2520,7 @@ c. een onderneming of instelling die bevoegd als bank of als beheerder van een b
 
 a. bij in leven zijn van de verzekeringnemer: 
 
-1°. dat de termijnen aan hem worden uitgekeerd en de eerste termijn wordt uitgekeerd uiterlijk in het kalenderjaar waarin hij de leeftijd van 70 bereikt;  
+1°. dat de termijnen aan hem worden uitgekeerd en de eerste termijn wordt uitgekeerd uiterlijk in het kalenderjaar waarin hij de leeftijd bereikt die vijf jaar hoger is dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
 
 2°. dat, ingeval de eerste termijn wordt uitgekeerd vóór het kalenderjaar waarin hij de leeftijd van 65 jaar bereikt, de periode tussen de eerste termijn en de laatste termijn ten minste 20 jaar bedraagt, vermeerderd met het aantal jaren dat de verzekeringnemer jonger is dan 65 jaar ten tijde van het uitkeren van de eerste termijn;  
 
@@ -2634,8 +2548,8 @@ b. bij overlijden van de verzekeringnemer terwijl ingevolge onderdeel a nog geen
 
 ####In aanmerking te nemen premies voor lijfrenten
 
-1.  Indien de belastingplichtige bij de aanvang van het kalenderjaar nog niet de leeftijd van 65 jaar heeft bereikt kan hij, vanwege een pensioentekort in het voorafgaande kalenderjaar, premies voor lijfrenten als bedoeld in artikel 3.124, eerste lid, onderdeel a, in aanmerking nemen tot een gezamenlijk bedrag van ten hoogste 17% van de premiegrondslag, waarbij op de uitkomst van deze berekening nog in aftrek komt de volgens het vierde lid bepaalde verminderingen in verband met de opbouw van pensioenaanspraken en dotaties aan de oudedagsreserve.   
-2.  Indien de belastingplichtige in de aan het kalenderjaar voorafgaande periode van zeven jaar minder premies voor lijfrenten in aanmerking heeft genomen dan mogelijk was op grond van het eerste lid kan hij, op bij zijn aangifte gedaan verzoek, het niet aangewende bedrag, voorzover dit niet in een eerder jaar op grond van dit lid in aanmerking is genomen, te beginnen met het in het oudste jaar niet aangewende bedrag, in het kalenderjaar alsnog in aanmerking nemen. Het alsnog in aanmerking te nemen bedrag bedraagt ten hoogste 17% van de premiegrondslag, met een maximum van € 6989. Voor de belastingplichtige die bij het begin van het kalenderjaar de leeftijd van 55 jaar heeft bereikt, wordt het in de vorige volzin genoemde bedrag van € 6989 verhoogd tot € 13 802.   
+1.  Indien de belastingplichtige bij de aanvang van het kalenderjaar nog niet de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt kan hij, vanwege een pensioentekort in het voorafgaande kalenderjaar, premies voor lijfrenten als bedoeld in artikel 3.124, eerste lid, onderdeel a, in aanmerking nemen tot een gezamenlijk bedrag van ten hoogste 17% van de premiegrondslag, waarbij op de uitkomst van deze berekening nog in aftrek komt de volgens het vierde lid bepaalde verminderingen in verband met de opbouw van pensioenaanspraken en dotaties aan de oudedagsreserve.   
+2.  Indien de belastingplichtige in de aan het kalenderjaar voorafgaande periode van zeven jaar minder premies voor lijfrenten in aanmerking heeft genomen dan mogelijk was op grond van het eerste lid kan hij, op bij zijn aangifte gedaan verzoek, het niet aangewende bedrag, voorzover dit niet in een eerder jaar op grond van dit lid in aanmerking is genomen, te beginnen met het in het oudste jaar niet aangewende bedrag, in het kalenderjaar alsnog in aanmerking nemen. Het alsnog in aanmerking te nemen bedrag bedraagt ten hoogste 17% van de premiegrondslag, met een maximum van € 6989. Voor de belastingplichtige die bij het begin van het kalenderjaar een leeftijd heeft bereikt die ten hoogste tien jaar lager is dan de in dat kalenderjaar geldende pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), wordt het in de vorige volzin genoemde bedrag van € 6989 verhoogd tot € 13 802.   
 3.  De premiegrondslag bestaat uit het gezamenlijke bedrag in het voorafgaande kalenderjaar van de winst uit onderneming vóór toevoeging aan en afneming van de oudedagsreserve en vóór de ondernemersaftrek, het belastbare loon, het belastbare resultaat uit overige werkzaamheden en de belastbare periodieke uitkeringen en verstrekkingen van de belastingplichtige, verminderd met een bedrag van € 11 829. Als premiegrondslag wordt ten hoogste een bedrag van € 162 457 in aanmerking genomen. Bij algemene maatregel van bestuur kan worden bepaald dat uitkeringen volgens een pensioenregeling, termijnen van een lijfrente, of vergelijkbare inkomensbestanddelen niet behoren tot de premiegrondslag.   
 4.  Voor de toepassing van het eerste lid wordt: 
 
@@ -2660,7 +2574,7 @@ Een belastingplichtige met een oudedagsreserve kan, vanwege de omzetting van die
 
 a. € 443 059 in de gevallen waarin: 
 
-1°. de ondernemer ten tijde van het staken de leeftijd van 60 jaar heeft bereikt;  
+1°. de ondernemer ten tijde van het staken een leeftijd heeft bereikt die ten hoogste vijf jaar lager is dan de ten tijde van het staken geldende pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
 
 2°. de ondernemer ten tijde van het staken voor 45% of meer arbeidsongeschikt is en de hem toekomende termijnen van lijfrenten ingaan binnen zes maanden na het staken of  
 
@@ -2668,7 +2582,7 @@ a. € 443 059 in de gevallen waarin:
 
 b. € 221 537 in de gevallen – andere dan die van onderdeel a – waarin: 
 
-1°. de ondernemer ten tijde van het staken de leeftijd van 50 jaar heeft bereikt of  
+1°. de ondernemer ten tijde van het staken een leeftijd heeft bereikt die ten hoogste vijftien jaar lager is dan de ten tijde van het staken geldende pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), of  
 
 2°. de aan de ondernemer toekomende termijnen van lijfrenten dadelijk ingaan;    
 
@@ -2705,22 +2619,11 @@ d. de bedragen die reeds eerder volgens het eerste lid in aanmerking zijn genome
 
 ### Artikel  3.131a  
 
-####Uitgaven voor vitaliteitssparen
-
-1.  Uitgaven voor vitaliteitssparen zijn de bedragen die de belastingplichtige: 
-
-a. heeft overgemaakt naar zijn vitaliteitsspaarrekening;  
-
-b. heeft betaald ten behoeve van zijn vitaliteitsspaarverzekering;  
-
-c. heeft betaald ter verkrijging van een aan hem toekomend vitaliteitsspaarrecht van deelneming.     
-2.  In afwijking van het eerste lid wordt geen uitgave voor vitaliteitssparen in aanmerking genomen ter zake van een omzetting als bedoeld in artikel 3.109a, zesde lid.   
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2012/668.   
 
 ### Artikel  3.131b  
 
-####In aanmerking te nemen uitgaven voor vitaliteitssparen
-
-De belastingplichtige kan uitgaven voor vitaliteitssparen in aanmerking nemen indien hij arbeidsinkomen als bedoeld in artikel 8.1, eerste lid, onderdeel e, geniet en aan het begin van het kalenderjaar de leeftijd van 65 jaar nog niet heeft bereikt, voor zover de waarde in het economische verkeer van het gezamenlijke bedrag van zijn voorzieningen ingevolge vitaliteitssparen aan het begin van het kalenderjaar lager is dan € 20 000, met een maximum van € 5000.  
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2012/668.   
 
 ### Afdeling  3.8  
 
@@ -2893,11 +2796,9 @@ d. rentedragend geworden of
 e. vorderbaar en inbaar geworden.     
 2.  Voor loon is [artikel 13a, tweede, derde, vierde en zevende lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) van overeenkomstige toepassing.   
 3.  De in artikel 3.83, eerste lid, bedoelde aanspraken uit een *pensioenregeling* worden geacht te zijn genoten op het tijdstip dat onmiddellijk voorafgaat aan dat waarop de belastingplichtige ophoudt binnenlands belastingplichtig te zijn.   
-4.  De in artikel 3.116, derde en vierde lid, bedoelde waarde in het economische verkeer van de kapitaalverzekering eigen woning wordt geacht te zijn genoten op het tijdstip van de fictieve uitkering.   
-5.  Ingeval artikel 3.116a, vierde of vijfde lid, toepassing vindt, is het tijdstip waarop geacht wordt deblokkering te hebben plaatsgevonden het tijdstip van genieten van het voordeel uit spaarrekening eigen woning of beleggingsrecht eigen woning.   
-6.  De in de artikelen 3.133, 3.135 en 3.136, eerste, tweede en derde lid bedoelde negatieve uitgaven voor inkomensvoorzieningen worden geacht te zijn genoten op het tijdstip dat onmiddellijk voorafgaat aan dat waarop zich de omstandigheid voordoet, bedoeld in die artikelen.   
-7.  De in artikel 3.136, vierde lid, bedoelde negatieve uitgaven voor inkomensvoorzieningen worden geacht te zijn genoten op het tijdstip dat onmiddellijk voorafgaat aan dat waarop de belastingplichtige is opgehouden binnenlands belastingplichtige te zijn.   
-8.  De in artikel 3.136, vijfde lid, eerste volzin, bedoelde negatieve uitgaven voor inkomensvoorzieningen en de ingevolge artikel 3.136, vijfde lid, eerste volzin, als loon aan te merken aanspraken uit een pensioenregeling worden geacht te zijn genoten op het tijdstip dat onmiddellijk volgt op dat waarop zich de omstandigheid voordoet, bedoeld in die volzin.   
+4.  De in de artikelen 3.133, 3.135 en 3.136, eerste, tweede en derde lid bedoelde negatieve uitgaven voor inkomensvoorzieningen worden geacht te zijn genoten op het tijdstip dat onmiddellijk voorafgaat aan dat waarop zich de omstandigheid voordoet, bedoeld in die artikelen.   
+5.  De in artikel 3.136, vierde lid, bedoelde negatieve uitgaven voor inkomensvoorzieningen worden geacht te zijn genoten op het tijdstip dat onmiddellijk voorafgaat aan dat waarop de belastingplichtige is opgehouden binnenlands belastingplichtige te zijn.   
+6.  De in artikel 3.136, vijfde lid, eerste volzin, bedoelde negatieve uitgaven voor inkomensvoorzieningen en de ingevolge artikel 3.136, vijfde lid, eerste volzin, als loon aan te merken aanspraken uit een pensioenregeling worden geacht te zijn genoten op het tijdstip dat onmiddellijk volgt op dat waarop zich de omstandigheid voordoet, bedoeld in die volzin.   
 
 ### Artikel  3.147  
 
@@ -2988,7 +2889,7 @@ Voor de toepassing van deze afdeling worden inkomen uit werk en woning en verlie
 5.  Onder herrekende belasting wordt verstaan de belasting op het belastbare inkomen uit werk en woning die zonder toepassing van artikel 9.4 zou zijn geheven over de herrekende belastbare inkomens uit werk en woning, zonder rekening te houden met de heffingskorting.   
 6.  Indien over een jaar van het middelingstijdvak een regeling ter voorkoming van dubbele belasting is toegepast, wordt het bedrag van de middelingsteruggaaf gesteld op A x C/B, waarbij A voorstelt: het bedrag van de middelingsteruggaaf dat zou zijn berekend indien geen regeling ter voorkoming van dubbele belasting zou zijn toegepast; B voorstelt: de belasting, bedoeld in het vierde lid die zou zijn geheven indien geen regeling ter voorkoming van dubbele belasting zou zijn toegepast; C voorstelt: de belasting, bedoeld in het vierde lid na toepassing van de regelingen ter voorkoming van dubbele belasting.   
 7.  Indien [artikel 27b, eerste lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), of artikel 9.1, derde lid, is toegepast, wordt voor de toepassing van dit artikel onder geheven belasting op het belastbare inkomen uit werk en woning mede verstaan de geheven premie voor de volksverzekeringen en wordt onder de herrekende belasting op het belastbare inkomen uit werk en woning mede verstaan de premie voor de volksverzekeringen die zonder toepassing van artikel 9.4 zou zijn geheven.   
-8.  Indien in het middelingstijdvak het jaar is begrepen waarin de belastingplichtige de leeftijd van 65 jaar bereikt, wordt voor de toepassing van het zevende lid de geheven en herrekende premie voor de volksverzekeringen voor alle jaren in het middelingstijdvak gesteld op het bedrag dat zou zijn geheven of herrekend indien de premie voor de algemene ouderdomsverzekering in al die jaren verschuldigd zou zijn.   
+8.  Indien in het middelingstijdvak het jaar is begrepen waarin de belastingplichtige de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), bereikt, wordt voor de toepassing van het zevende lid de geheven en herrekende premie voor de volksverzekeringen voor alle jaren in het middelingstijdvak gesteld op het bedrag dat zou zijn geheven of herrekend indien de premie voor de algemene ouderdomsverzekering in al die jaren verschuldigd zou zijn.   
 9.  Dit artikel is niet van toepassing op uitkeringen of bedragen die zouden moeten worden uitgekeerd wegens het overschrijden van pensioenbegrenzingen als bedoeld in [artikel 18a, negende lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
 10.  Het verzoek wordt gedaan bij de inspecteur binnen 36 maanden nadat de aanslagen, voorheffingen en beschikkingen om geen aanslag op te leggen die op de jaren van het middelingstijdvak betrekking hebben, onherroepelijk zijn geworden. Indien over een jaar van het middelingstijdvak wordt nagevorderd of nageheven dan wel bij beschikking een aanslag wordt verminderd wegens verrekening van een verlies uit werk en woning, terwijl op het tijdstip van het onherroepelijk worden van de navorderingsaanslag, de naheffingsaanslag of de beschikking de in de eerste volzin bedoelde termijn van 36 maanden voor meer dan 34 maanden is verstreken, kan een verzoek om teruggaaf tevens worden gedaan binnen twee maanden na dat tijdstip. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de inhoud van het verzoek.   
 11.  De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.   
@@ -3012,14 +2913,13 @@ Voor de toepassing van deze afdeling worden de geheven en de herrekende belastin
 3.  De inspecteur kan de beschikking herzien, indien de melding van de belastingplichtige als bedoeld in het tweede lid daartoe aanleiding geeft of hem uit anderen hoofde bekend is dat de feitelijke omstandigheden daartoe aanleiding geven. Herziening vindt plaats bij voor bezwaar vatbare beschikking.   
 4.  De beschikking geldt voor een termijn van ten hoogste één kalenderjaar.   
 5.  Ingeval de aanvraag betrekking heeft op werkzaamheden die zijn aangevangen of zullen aanvangen na het begin van het kalenderjaar waarop de aanvraag betrekking heeft, gaat de in het vierde lid bedoelde termijn in op de dag van de aanvang van de werkzaamheden.   
-6.  De belastingplichtige die voor drie achtereenvolgende jaren telkens een verzoek als bedoeld in het eerste lid heeft ingediend voor hetzelfde soort van werkzaamheden die onder overeenkomstige condities zijn verricht en die verzoeken tot gelijkluidende beschikkingen hebben geleid waarbij die beschikkingen niet zijn herzien, wordt geacht voor het kalenderjaar volgend op die drie jaren een gelijkluidend verzoek te hebben ingediend. Een verzoek dat ingevolge de eerste volzin geacht wordt te zijn ingediend, telt voor de toepassing van die volzin mee als een verzoek als bedoeld in het eerste lid.   
 
 ### Artikel  3.157  
 
 ####Zekerheid omtrent de aard van de arbeidsrelatie
 
 1.  De belastingplichtige met een aanmerkelijk belang als bedoeld in hoofdstuk 4, die zekerheid wenst omtrent de vraag of werkzaamheden die voortvloeien uit een arbeidsrelatie of arbeidsrelaties waarin sprake is van hetzelfde soort van werkzaamheden die onder overeenkomstige condities worden verricht, worden aangemerkt als werkzaamheden uitsluitend verricht voor rekening en risico van de onderneming van de vennootschap waarin hij het aanmerkelijk belang heeft, kan een verzoek indienen bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.   
-2.  Artikel 3.156, tweede tot en met zesde lid, is van overeenkomstige toepassing.   
+2.  Artikel 3.156, tweede tot en met vijfde lid, is van overeenkomstige toepassing.   
 
 ### Hoofdstuk  4  
 
@@ -3762,18 +3662,18 @@ d. rechten op roerende zaken;
 
 e. rechten die niet op zaken betrekking hebben, waaronder geld en  
 
-f. overige vermogensrechten, met waarde in het economische verkeer.   Bezittingen die voortvloeien uit de [Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), uit een belastingwet waarop de Algemene wet inzake rijksbelastingen van toepassing is, uit de [Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) of uit daarmee overeenkomende buitenlandse wetgeving, worden niet in aanmerking genomen. In afwijking van de tweede volzin worden bezittingen die voortvloeien uit de erfbelasting wel in aanmerking genomen alsmede de daarmee verband houdende bezittingen voortvloeiende uit de heffingsrente, bedoeld in [hoofdstuk VA van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), of de invorderingsrente, bedoeld in [hoofdstuk V van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md). De derde volzin is van overeenkomstige toepassing op bezittingen die voortvloeien uit een met de erfbelasting overeenkomende buitenlandse erfbelasting, alsmede op de daarmee verband houdende bezittingen voortvloeiende uit een renteregeling die is opgenomen in een wetgeving die overeenkomt met de Algemene wet inzake rijksbelastingen of de Invorderingswet 1990.   
+f. overige vermogensrechten, met waarde in het economische verkeer.   Bezittingen die voortvloeien uit de [Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), uit een belastingwet waarop de Algemene wet inzake rijksbelastingen van toepassing is, uit de [Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) of uit daarmee overeenkomende buitenlandse wetgeving, worden niet in aanmerking genomen. In afwijking van de tweede volzin worden bezittingen die voortvloeien uit de erfbelasting wel in aanmerking genomen alsmede de daarmee verband houdende bezittingen voortvloeiende uit de belastingrente, bedoeld in [hoofdstuk VA van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), of de invorderingsrente, bedoeld in [hoofdstuk V van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md). De derde volzin is van overeenkomstige toepassing op bezittingen die voortvloeien uit een met de erfbelasting overeenkomende buitenlandse erfbelasting, alsmede op de daarmee verband houdende bezittingen voortvloeiende uit een renteregeling die is opgenomen in een wetgeving die overeenkomt met de Algemene wet inzake rijksbelastingen of de Invorderingswet 1990.   
 3.  Schulden zijn verplichtingen met waarde in het economische verkeer, met dien verstande dat: 
 
 a. verplichtingen die kunnen leiden tot uitgaven die ingevolge hoofdstuk 6 geheel of voor een deel worden aangemerkt als een persoonsgebonden aftrekpost, niet in aanmerking worden genomen;  
 
 b. verplichtingen die voortvloeien uit de [Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), uit een belastingwet waarop de [Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van toepassing is, uit de [Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) of uit daarmee overeenkomende buitenlandse wetgeving, niet in aanmerking worden genomen;  
 
-c. in afwijking van onderdeel b verplichtingen die voortvloeien uit de erfbelasting wel in aanmerking worden genomen alsmede de daarmee verband houdende verplichtingen voortvloeiende uit de heffingsrente, bedoeld in [hoofdstuk VA van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), of de invorderingsrente, bedoeld in [hoofdstuk V van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md);  
+c. in afwijking van onderdeel b verplichtingen die voortvloeien uit de erfbelasting wel in aanmerking worden genomen alsmede de daarmee verband houdende verplichtingen voortvloeiende uit de belastingrente, bedoeld in [hoofdstuk VA van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), of de invorderingsrente, bedoeld in [hoofdstuk V van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md);  
 
-d. onderdeel c van overeenkomstige toepassing is op verplichtingen die voortvloeien uit een met de erfbelasting overeenkomende buitenlandse erfbelasting alsmede de daarmee verband houdende verplichtingen voortvloeiende uit een met de regeling voor de heffingsrente, bedoeld in [hoofdstuk VA van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), of de regeling voor de invorderingsrente, bedoeld in [hoofdstuk V van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), overeenkomende renteregeling;  
+d. onderdeel c van overeenkomstige toepassing is op verplichtingen die voortvloeien uit een met de erfbelasting overeenkomende buitenlandse erfbelasting alsmede de daarmee verband houdende verplichtingen voortvloeiende uit een met de regeling voor de belastingrente, bedoeld in [hoofdstuk VA van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), of de regeling voor de invorderingsrente, bedoeld in [hoofdstuk V van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), overeenkomende renteregeling;  
 
-e. verplichtingen, niet zijnde verplichtingen als bedoeld in de onderdelen a en b, en het vijfde lid, alleen in aanmerking worden genomen voorzover de gezamenlijke waarde daarvan meer bedraagt dan € 2900. Indien de belastingplichtige het gehele kalenderjaar dezelfde *partner* heeft of voor de toepassing van artikel 2.17 geacht wordt te hebben gehad, wordt het in de eerste volzin, onderdeel e, genoemde bedrag voor de belastingplichtige en zijn *partner* gezamenlijk op € 5800 gesteld.     
+e. verplichtingen, niet zijnde verplichtingen als bedoeld in de onderdelen a en b, en het vierde lid, alleen in aanmerking worden genomen voorzover de gezamenlijke waarde daarvan meer bedraagt dan € 2900. Indien de belastingplichtige het gehele kalenderjaar dezelfde *partner* heeft of voor de toepassing van artikel 2.17 geacht wordt te hebben gehad, wordt het in de eerste volzin, onderdeel e, genoemde bedrag voor de belastingplichtige en zijn *partner* gezamenlijk op € 5800 gesteld.     
 4.  In afwijking van het derde lid, aanhef en onderdeel c, wordt niet in aanmerking genomen de verplichting die voortvloeit uit de [Successiewet 1956](../../../../../wet/successiewet/1956/BWBR0002226/README.md) met betrekking tot de toepassing van [artikel 7 van de Natuurschoonwet 1928](../../../../../wet/natuurschoonwet/1928/BWBR0001939/README.md) voor zover er geen sprake is van terstond invorderbare belasting als bedoeld in artikel 7, vijfde lid, van de Natuurschoonwet 1928.   
 
 ### Artikel  5.4  
@@ -3818,7 +3718,7 @@ Het heffingvrije vermogen bedraagt € 21 139.
 
 1.  Het heffingvrije vermogen, bedoeld in artikel 5.5, wordt verhoogd met de ouderentoeslag indien: 
 
-a. de belastingplichtige bij het einde van het kalenderjaar, of, indien de belastingplicht in de loop van het jaar is geëindigd, bij het einde van de belastingplicht, de leeftijd van 65 jaar heeft bereikt, en  
+a. de belastingplichtige bij het einde van het kalenderjaar, of, indien de belastingplicht in de loop van het jaar is geëindigd, bij het einde van de belastingplicht, de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt, en  
 
 b. de grondslag sparen en beleggen, vóór vermindering met de ouderentoeslag, niet meer bedraagt dan € 279 708.   Bij een inkomen uit werk en woning vóór inachtneming van de persoonsgebonden aftrek van:  
 
@@ -3873,7 +3773,7 @@ a. rechten op kapitaalsuitkeringen of prestaties uit *levensverzekering*, uitslu
 
 2°. de som van de waarde van die rechten per persoon niet meer bedraagt dan € 6859;    
 
-b. het tegoed van een bij een bank als bedoeld in artikel 3.116a, tweede lid, onderdeel e, aangehouden geblokkeerde rekening, waarbij het tegoed uitsluitend wordt gedeblokkeerd bij overlijden van de bij opening van die geblokkeerde rekening vast te stellen persoon, zijnde de rekeninghouder, zijn partner of een bloed- of aanverwant, mits het tegoed van de in die zin aan het overlijden van de desbetreffende persoon gekoppelde rekeningen in totaal niet meer bedraagt dan € 6859;  
+b. het tegoed van een bij een bank, zijnde een financiële onderneming die ingevolge de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van bank mag uitoefenen, aangehouden geblokkeerde rekening, waarbij het tegoed uitsluitend wordt gedeblokkeerd bij overlijden van de bij opening van die geblokkeerde rekening vast te stellen persoon, zijnde de rekeninghouder, zijn partner of een bloed- of aanverwant, mits het tegoed van de in die zin aan het overlijden van de desbetreffende persoon gekoppelde rekeningen in totaal niet meer bedraagt dan € 6859;  
 
 c. rechten op kapitaalsuitkeringen die uitsluitend kunnen plaatsvinden bij invaliditeit, ziekte of ongeval;  
 
@@ -3890,18 +3790,13 @@ Tot de bezittingen en schulden behoren niet lopende termijnen van inkomsten en v
 
 ### Afdeling  5.3  
 
-####Maatschappelijke beleggingen
+####Groene beleggingen
 
 ### Artikel  5.13  
 
-####Vrijstelling maatschappelijke beleggingen
+####Vrijstelling groene beleggingen
 
-1.  Tot de bezittingen behoren niet maatschappelijke beleggingen voor een bedrag van in totaal  € 56 420. Indien de belastingplichtige het gehele kalenderjaar dezelfde *partner* heeft of voor de toepassing van artikel 2.17 geacht wordt te hebben gehad, wordt het in de eerste volzin genoemde bedrag voor de belastingplichtige en zijn *partner* gezamenlijk op € 112 840 gesteld.   
-2.  Maatschappelijke beleggingen zijn: 
-
-a. groene beleggingen als bedoeld in artikel 5.14 en  
-
-b. sociaal-ethische beleggingen als bedoeld in artikel 5.15.     
+Tot de bezittingen behoren niet groene beleggingen voor een bedrag van in totaal € 56 420. Indien de belastingplichtige het gehele kalenderjaar dezelfde *partner* heeft of voor de toepassing van artikel 2.17 geacht wordt te hebben gehad, wordt het in de eerste volzin genoemde bedrag voor de belastingplichtige en zijn partner gezamenlijk op € 112 840 gesteld.  
 
 ### Artikel  5.14  
 
@@ -3924,130 +3819,19 @@ b. in ontwikkelingslanden en daarmee gelijk te stellen gebieden gelegen projecte
 7.  Bij ministeriële regeling worden regels gesteld met betrekking tot het indirect verstrekken van kredieten, bedoeld in het tweede lid, onderdeel a.   
 8.  Bij ministeriële regeling kunnen in overeenstemming met Onze Minister van Infrastructuur en Milieu of Onze Minister van Economische Zaken, Landbouw en Innovatie nadere regels worden gesteld met betrekking tot de verklaring bedoeld in het derde lid. Het ontwerp van een ministeriële regeling bedoeld in het derde lid of in de vorige volzin wordt ten minste vier weken voordat de regeling wordt vastgesteld, toegezonden aan de Staten-Generaal.   
 
-### Artikel  5.15  
-
-####Vrijstelling sociaal-ethische beleggingen
-
-1.  Sociaal-ethische beleggingen zijn aandelen in, winstbewijzen van en geldleningen aan aangewezen sociaal-ethische fondsen. Aanwijzing geschiedt op verzoek van het fonds bij voor bezwaar vatbare beschikking van de inspecteur. Bij ministeriële regeling worden regels gesteld met betrekking tot de aanwijzing en de intrekking van de aanwijzing.   
-2.  Als sociaal-ethische fondsen kunnen voor de toepassing van dit artikel worden aangewezen: 
-
-a. banken als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), waarvan het doel en de feitelijke werkzaamheden hoofdzakelijk bestaan in het direct of indirect verstrekken van kredieten ten behoeve van sociaal-ethische projecten, of in het direct of indirect beleggen van vermogen in dergelijke projecten;  
-
-b. beleggingsinstellingen als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) waarvan het doel en de feitelijke werkzaamheden hoofdzakelijk bestaan in het direct of indirect beleggen van vermogen in sociaal-ethische projecten.     
-3.  Sociaal-ethische projecten als bedoeld in het tweede lid zijn projecten die door Onze Minister van Buitenlandse Zaken in overeenstemming met Onze Minister van Financiën bij ministeriële regeling of verklaring zijn aangewezen als projecten die in het belang zijn van: 
-
-a. de voedselzekerheid en voedingsverbetering in ontwikkelingslanden;  
-
-b. de sociale en culturele ontwikkeling in ontwikkelingslanden of  
-
-c. de economische ontwikkeling, werkgelegenheid en regionale ontwikkeling in ontwikkelingslanden.     
-4.  Aanwijzing als bedoeld in het eerste lid is ook reeds mogelijk in een aanloopperiode van drie maanden waarin een instelling nog niet voldoet aan de in het tweede lid opgenomen voorwaarde dat het doel en de feitelijke werkzaamheden hoofdzakelijk bestaan in het verstrekken van kredieten ten behoeve van sociaal-ethische projecten, of in het direct of indirect beleggen van vermogen in dergelijke projecten.   
-5.  Op verzoek van een instelling wordt de in het vierde lid bedoelde aanloopperiode van drie maanden vervangen door een ingroeiperiode van maximaal twee jaar, indien de instelling voldoet aan bij ministeriële regeling te stellen voorwaarden.   
-6.  Op verklaringen en aanwijzingen als bedoeld in het derde lid is [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) niet van toepassing.   
-7.  Bij ministeriële regeling worden regels gesteld met betrekking tot het indirect verstrekken van kredieten, bedoeld in het tweede lid, onderdeel a.   
-8.  Bij ministeriële regeling kunnen in overeenstemming met Onze Minister van Buitenlandse Zaken nadere regels worden gesteld met betrekking tot de verklaring bedoeld in het derde lid. Het ontwerp van een ministeriële regeling bedoeld in het derde lid of in de vorige volzin wordt ten minste vier weken voordat de regeling wordt vastgesteld, toegezonden aan de Staten-Generaal.   
-
 ### Afdeling  5.3A  
 
 ####Beleggingen in durfkapitaal
 
-### Artikel  5.16  
+### Artikel  5.18b  
 
-####Vrijstelling beleggingen in durfkapitaal
+####Vrijstelling MKB-beleggingen
 
-1.  Tot de bezittingen behoren niet beleggingen in durfkapitaal voor een bedrag van in totaal € 56 420. Indien de belastingplichtige het gehele kalenderjaar dezelfde *partner* heeft of voor de toepassing van artikel 2.17 geacht wordt te hebben gehad, wordt het in de eerste volzin genoemde bedrag voor de belastingplichtige en zijn *partner* gezamenlijk op € 112 840 gesteld.   
-2.  Beleggingen in durfkapitaal zijn: 
-
-a. directe beleggingen in durfkapitaal als bedoeld in artikel 5.17;  
-
-b. indirecte beleggingen in durfkapitaal als bedoeld in artikel 5.18;  
-
-c. culturele beleggingen als bedoeld in artikel 5.18a.     
-
-### Artikel  5.17  
-
-####Vrijstelling directe beleggingen in durfkapitaal
-
-1.  Directe beleggingen in durfkapitaal zijn geregistreerde achtergestelde geldleningen aan een beginnende ondernemer die de lening gebruikt voor de financiering van bestanddelen van zijn verplichte ondernemingsvermogen of, indien de beginnende ondernemer een rechtspersoon is, de lening gebruikt wordt voor de financiering van bestanddelen van het ondernemingsvermogen die tot het verplichte ondernemingsvermogen zouden behoren indien de rechtspersoon een natuurlijk persoon zou zijn, gedurende de eerste acht jaar na het verstrekken van de geldlening.   
-2.  Een geldlening wordt niet meer als een belegging in durfkapitaal aangemerkt zodra de beginnende ondernemer: 
-
-a. niet langer voldoet aan de voorwaarden die aan hem gesteld zijn;  
-
-b. de geldlening niet langer dient ter financiering van bestanddelen van het verplichte ondernemingsvermogen of, indien de beginnende ondernemer een rechtspersoon is, de geldlening niet langer dient ter financiering van bestanddelen van het ondernemingsvermogen die tot het verplichte ondernemingsvermogen zouden behoren indien de rechtspersoon een natuurlijk persoon zou zijn.     
-3.  Onder een beginnende ondernemer wordt verstaan: 
-
-a. een natuurlijk persoon die in Nederland voor zijn rekening een onderneming drijft en ten aanzien van wie de inspecteur onder door hem te stellen voorwaarden op verzoek bij voor bezwaar vatbare beschikking heeft verklaard dat deze voldoet aan bij ministeriële regeling te stellen voorwaarden met betrekking tot de toepassing van de zelfstandigenaftrek in het kalenderjaar waarin de lening is verstrekt, het voorafgaande jaar of het daaropvolgende jaar alsmede het aantal jaren waarover de zelfstandigenaftrek ten hoogste reeds mag zijn toegepast;  
-
-b. een rechtspersoon die in Nederland een onderneming drijft en ten aanzien waarvan de inspecteur onder door hem te stellen voorwaarden op verzoek bij voor bezwaar vatbare beschikking heeft verklaard dat deze voldoet aan bij ministeriële regeling te stellen voorwaarden met betrekking tot de totstandkoming van de rechtspersoon, de omvang van de onderneming, de herkomst van de onderneming en de aard van de werkzaamheden.     
-4.  Bij ministeriële regeling kunnen ter zake van geldleningen als bedoeld in het eerste lid voorwaarden worden gesteld met betrekking tot: 
-
-a. de vormgeving;  
-
-b. de omvang;  
-
-c. de mate van achterstelling;  
-
-d. de registratie en  
-
-e. het renteniveau.     
-5.  Het eerste lid is niet van toepassing indien de geldleningen zijn aangegaan tussen: 
-
-a. de belastingplichtige en zijn partner, en  
-
-b. personen die gezamenlijk een onderneming drijven.     
-
-### Artikel  5.18  
-
-####Vrijstelling indirecte beleggingen in durfkapitaal
-
-1.  Indirecte beleggingen in durfkapitaal zijn geldleningen aan, aandelen in of winstbewijzen van aangewezen participatiemaatschappijen. Aanwijzing geschiedt op verzoek van de participatiemaatschappij bij voor bezwaar vatbare beschikking van de inspecteur. Bij ministeriële regeling worden regels gesteld met betrekking tot de aanwijzing en de intrekking van de aanwijzing.   
-2.  Als participatiemaatschappij kunnen worden aangewezen in Nederland gevestigde rechtspersonen met als doel en feitelijke werkzaamheid het: 
-
-a. hoofdzakelijk en op brede schaal verstrekken van achtergestelde geldleningen aan beginnende ondernemers als bedoeld in artikel 5.17, derde lid, of het deelnemen in beginnende ondernemers als bedoeld in artikel 5.17, derde lid, onderdeel b;  
-
-b. uitsluitend of nagenoeg uitsluitend verstrekken van geldleningen aan of deelnemen in participatiemaatschappijen met het in onderdeel a bedoelde doel en feitelijke werkzaamheid.     
-3.  Bij ministeriële regeling kunnen voor achtergestelde geldleningen en deelnemingen door een participatiemaatschappij voorwaarden worden gesteld met betrekking tot: 
-
-a. de mate van achterstelling;  
-
-b. de looptijd;  
-
-c. het renteniveau;  
-
-d. de aanwending;  
-
-e. de omvang van de geldlening per ondernemer of per rechtspersoon;  
-
-f. de omvang van de deelneming per rechtspersoon en  
-
-g. de duur van de deelneming.     
-4.  Aanwijzing als bedoeld in het eerste lid is ook reeds mogelijk in een aanloopperiode van drie maanden waarin een participatiemaatschappij nog niet voldoet aan de in het tweede lid opgenomen voorwaarde dat het doel en de feitelijke werkzaamheden bestaan uit: 
-
-a. het hoofdzakelijk en op brede schaal verstrekken van achtergestelde geldleningen aan beginnende ondernemers als bedoeld in artikel 5.17, derde lid, of het deelnemen in beginnende ondernemers als bedoeld in artikel 5.17, derde lid, onderdeel b,  
-
-b. uitsluitend of nagenoeg uitsluitend verstrekken van geldleningen aan of deelnemen in participatiemaatschappijen met het in onderdeel *a* bedoelde doel en feitelijke werkzaamheid.     
-5.  Op verzoek van een participatiemaatschappij wordt de in het vierde lid bedoelde aanloopperiode van drie maanden vervangen door een ingroeiperiode van maximaal twee jaar, indien de participatiemaatschappij voldoet aan bij ministeriële regeling te stellen voorwaarden.   
-
-### Artikel  5.18a  
-
-####Vrijstelling culturele beleggingen
-
-1.  Culturele beleggingen zijn aandelen in, winstbewijzen van en geldleningen aan aangewezen cultuurfondsen. Aanwijzing geschiedt op verzoek van het fonds bij voor bezwaar vatbare beschikking van de inspecteur. Bij ministeriële regeling worden regels gesteld met betrekking tot de aanwijzing en de intrekking van de aanwijzing.   
-2.  Als cultuurfondsen kunnen voor de toepassing van dit artikel worden aangewezen: 
-
-a. banken als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), waarvan het doel en de feitelijke werkzaamheden hoofdzakelijk bestaan in het direct of indirect verstrekken van kredieten ten behoeve van culturele projecten in Nederland, of in het direct of indirect beleggen van vermogen in dergelijke projecten;  
-
-b. beleggingsinstellingen als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) waarvan het doel en de feitelijke werkzaamheden hoofdzakelijk bestaan in het direct of indirect beleggen van vermogen in culturele projecten in Nederland.     
-3.  Culturele projecten als bedoeld in het tweede lid zijn projecten die door Onze Minister van Onderwijs, Cultuur en Wetenschappen in overeenstemming met Onze Minister van Financiën bij ministeriële regeling of verklaring zijn aangewezen als projecten die in het belang zijn van: 
-
-a. de Nederlandse podiumkunsten of  
-
-b. de Nederlandse musea.     
-4.  Aanwijzing als bedoeld in het eerste lid is ook reeds mogelijk in een aanloopperiode van drie maanden waarin een instelling nog niet voldoet aan de in het tweede lid opgenomen voorwaarde dat het doel en de feitelijke werkzaamheden hoofdzakelijk bestaan in het verstrekken van kredieten ten behoeve van culturele projecten in Nederland, of in het direct of indirect beleggen van vermogen in dergelijke projecten.   
-5.  Op verzoek van een instelling wordt de in het vierde lid bedoelde aanloopperiode van drie maanden vervangen door een ingroeiperiode van maximaal twee jaar, indien de instelling voldoet aan bij ministeriële regeling te stellen voorwaarden.   
-6.  Op verklaringen en aanwijzingen als bedoeld in het derde lid is [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) niet van toepassing.   
-7.  Bij ministeriële regeling worden regels gesteld met betrekking tot het indirect verstrekken van kredieten, bedoeld in het tweede lid, onderdeel a.   
-8.  Bij ministeriële regeling kunnen in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschappen nadere regels worden gesteld met betrekking tot de verklaring bedoeld in het derde lid.   
+1.  MKB-beleggingen zijn aandelen in een vennootschap waarvan het kapitaal geheel of ten dele in aandelen is verdeeld en waarvan doel en feitelijke werkzaamheden bestaan in andere activiteiten dan het beleggen van vermogen en welker aandelen zijn toegelaten tot de handel op Alternext Amsterdam, alsmede aandelen in aangewezen MKB-fondsen.   
+2.  Aanwijzing als MKB-fonds geschiedt op verzoek van het fonds bij voor bezwaar vatbare beschikking van de inspecteur. Bij ministeriële regeling worden regels gesteld met betrekking tot de aanwijzing en de intrekking van de aanwijzing.   
+3.  Als MKB-fondsen kunnen voor de toepassing van dit artikel worden aangewezen: beleggingsinstellingen als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), waarvan het doel en de feitelijke werkzaamheden hoofdzakelijk bestaan in het beleggen van vermogen in aandelen van vennootschappen als bedoeld in het eerste lid.   
+4.  Aanwijzing als bedoeld in het tweede lid is ook reeds mogelijk in een aanloopperiode van drie maanden waarin een beleggingsinstelling nog niet voldoet aan de in het derde lid opgenomen voorwaarde dat het doel en de feitelijke werkzaamheden hoofdzakelijk bestaan in het beleggen van vermogen in aandelen van vennootschappen als bedoeld in het eerste lid.   
+5.  Op verzoek van een beleggingsinstelling wordt de in het vierde lid bedoelde aanloopperiode van drie maanden vervangen door een ingroeiperiode van maximaal twee jaar, indien de beleggingsinstelling voldoet aan bij ministeriële regeling te stellen voorwaarden.   
 
 ### Afdeling  5.4  
 
@@ -4235,11 +4019,7 @@ b. *lijfrenten* en andere inkomensvoorzieningen voorzover de daarvoor betaalde p
 ####Definitie
 
 1.  Uitgaven voor levensonderhoud van *kinderen* zijn uitgaven voor levensonderhoud van kinderen jonger dan 21 jaar die ten minste in belangrijke mate door de belastingplichtige worden onderhouden. Voor de beoordeling in welke mate een kind door de belastingplichtige wordt onderhouden, worden, indien de belastingplichtige een *partner* heeft, de uitgaven van de belastingplichtige en zijn partner voor het levensonderhoud van het kind samengevoegd.   
-2.  Als uitgaven als bedoeld in het eerste lid worden niet aangemerkt: 
-
-a. uitgaven die op de voet van afdeling 6.5 in aanmerking worden genomen;  
-
-b. het ingevolge de opslag, bedoeld in [artikel 7.45, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), verschuldigde collegegeld.     
+2.  Als uitgaven als bedoeld in het eerste lid worden niet aangemerkt uitgaven die op de voet van afdeling 6.5 in aanmerking worden genomen.   
 
 ### Artikel  6.14  
 
@@ -4336,14 +4116,18 @@ c. de krachtens de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/alg
 
 d. de krachtens de [Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) verschuldigde bijdragen;  
 
-e. uitgaven die ten laste komen van een verplicht eigen risico of een overeengekomen vrijwillig eigen risico als bedoeld in [artikel 1, onderdelen g en h, van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+e. de krachtens de [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) verschuldigde bijdragen;  
 
-f. uitgaven voor zorg die vallen onder het door de belastingplichtige ingevolge de [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) verplicht te verzekeren risico;  
+f. uitgaven die ten laste komen van een verplicht eigen risico of een overeengekomen vrijwillig eigen risico als bedoeld in [artikel 1, onderdelen g en h, van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
 
-g. uitgaven als bedoeld in de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of de [Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) voor zover een bijdrage is verschuldigd ter verkrijging van een subsidie of tegemoetkoming als bedoeld in de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of de [Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) ter bekostiging van die uitgaven;  
+g. uitgaven voor zorg die vallen onder het door de belastingplichtige ingevolge de [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) verplicht te verzekeren risico;  
 
-h. uitgaven die op de voet van afdeling 6.6 in aanmerking worden genomen.     
-2.  Het eerste lid, onderdeel f, is van overeenkomstige toepassing voor uitgaven die door de belastingplichtige zijn gedaan voor de in artikel 6.16 bedoelde personen.   
+h. bij ministeriële regeling aangewezen uitgaven die vanwege wijziging van het bepaalde bij of krachtens de [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) niet langer zijn aan te merken als uitgaven als bedoeld in onderdeel g;  
+
+i. uitgaven als bedoeld in de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of de [Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) voor zover een bijdrage is verschuldigd ter verkrijging van een subsidie of tegemoetkoming als bedoeld in de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of de [Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) ter bekostiging van die uitgaven;  
+
+j. uitgaven die op de voet van afdeling 6.6 in aanmerking worden genomen.     
+2.  Het eerste lid, onderdelen g en h, is van overeenkomstige toepassing voor uitgaven die door de belastingplichtige zijn gedaan voor de in artikel 6.16 bedoelde personen.   
 
 ### Artikel  6.19  
 
@@ -4351,9 +4135,9 @@ h. uitgaven die op de voet van afdeling 6.6 in aanmerking worden genomen.
 
 1.  Het bedrag aan uitgaven, bedoeld in artikel 6.17, eerste lid, onderdelen b tot en met g, wordt verhoogd met: 
 
-a. 113%, indien de belastingplichtige bij het begin van het kalenderjaar de leeftijd van 65 jaar heeft bereikt;  
+a. 113%, indien de belastingplichtige bij het begin van het kalenderjaar de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt;  
 
-b. 40%, indien de belastingplichtige bij het begin van het kalenderjaar de leeftijd van 65 jaar niet heeft bereikt; een en ander mits het verzamelinkomen vóór toepassing van de persoonsgebonden aftrek, niet te boven gaat het bedrag dat is genoemd in de tweede regel van de tweede kolom van de tabel in artikel 2.10a.     
+b. 40%, indien de belastingplichtige bij het begin van het kalenderjaar de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), niet heeft bereikt; een en ander mits het verzamelinkomen vóór toepassing van de persoonsgebonden aftrek, niet te boven gaat het bedrag dat is genoemd in de tweede regel van de tweede kolom van de tabel in artikel 2.10a.     
 2.  Indien de belastingplichtige gedurende het gehele kalenderjaar een partner heeft, worden de uitgaven, bedoeld in artikel 6.17, eerste lid, onderdelen b tot en met g, van de belastingplichtige en de partner samengevoegd en geldt voor de toepassing van het eerste lid in plaats van het verzamelinkomen vóór toepassing van de persoonsgebonden aftrek het gezamenlijke bedrag van de verzamelinkomens van de belastingplichtige en zijn partner vóór toepassing van de persoonsgebonden aftrek. Indien het gezamenlijke bedrag van de verzamelinkomens van de belastingplichtige en de in de eerste volzin bedoelde partner, vóór toepassing van de persoonsgebonden aftrek, niet te boven gaat het bedrag dat is genoemd in de tweede regel van de tweede kolom van de tabel in artikel 2.10a, en de belastingplichtige bij het begin van het kalenderjaar de leeftijd van 65 jaar niet heeft bereikt, maar de partner bij het begin van het kalenderjaar de leeftijd van 65 jaar wel heeft bereikt, wordt in afwijking in zoverre van het eerste lid het bedrag aan uitgaven, bedoeld in artikel 6.17, eerste lid, onderdelen b tot en met g, verhoogd met 113%.   
 3.  Het tweede lid is ook van toepassing indien de belastingplichtige op grond van artikel 2.17, zevende lid, eerste volzin, geacht wordt het gehele kalenderjaar een partner te hebben gehad.   
 
@@ -4396,49 +4180,36 @@ Weekenduitgaven voor gehandicapten worden in aanmerking genomen tot een bedrag b
 
 ####Scholingsuitgaven
 
-1.  Scholingsuitgaven zijn uitgaven voor het door de belastingplichtige volgen van een opleiding of studie met het oog op het verwerven van inkomen uit werk en woning.   
+1.  Scholingsuitgaven zijn de uitgaven die wegens het door de belastingplichtige volgen van een opleiding of studie met het oog op het verwerven van inkomen uit werk en woning zijn gedaan voor: 
+
+a. lesgeld, cursusgeld, collegegeld, examengeld als bedoeld in [artikel 7.44 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) of promotiekosten;  
+
+b. door de onderwijsinstelling verplicht gestelde leermiddelen en beschermingsmiddelen.     
 2.  Als scholingsuitgaven worden mede aangemerkt uitgaven ter zake van het volgen van een procedure erkenning verworven competenties waarvoor een verklaring is afgegeven door een bij ministeriële regeling aangewezen instantie.   
 3.  Uitgaven voor het door de belastingplichtige volgen van een opleiding of studie met het oog op het verwerven van inkomen uit werk en woning die op zijn *partner* drukken, worden mede als scholingsuitgaven aangemerkt.   
+4.  Voor de toepassing van dit artikel wordt verstaan onder: 
+
+a. *leermiddel:* een gebruiksvoorwerp gericht op het bijbrengen van studiegerelateerde kennis en vaardigheden met uitzondering van computerapparatuur en bijbehorende randapparatuur;  
+
+b. *beschermingsmiddel:* een studiegerelateerd gebruiksvoorwerp dat dient ter voorkoming van verwonding van een persoon of ter voorkoming van schade aan kleding;  
+
+c. *promotiekosten:* de kosten van publicatie van het proefschrift alsmede de kosten van de voorgeschreven kleding voor de promovendus en de paranimfen voor de promotieplechtigheid.     
 
 ### Artikel  6.28  
 
 ####Beperkingen
 
-1.  Tot de scholingsuitgaven behoren niet uitgaven die verband houden met: 
-
-a. levensonderhoud, daaronder begrepen huisvesting, voedsel, drank, genotmiddelen en kleding;  
-
-b. werk- of studeerruimten, daaronder begrepen de inrichting;  
-
-c. reizen en verblijven, daaronder begrepen excursies en studiereizen;  
-
-d. de opslag, bedoeld in [artikel 7.45, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
-
-e. oorzaken die bij algemene maatregel van bestuur zijn aangewezen.     
-2.  Scholingsuitgaven komen niet voor aftrek in aanmerking voorzover voor een opleiding of studie aan de belastingplichtige vrijgestelde uitkeringen en verstrekkingen als bedoeld in artikel 3.104, onderdelen d, e en h, onder 3°, worden verstrekt.   
-
-### Artikel  6.29  
-
-####Studiefinanciering
-
-1.  Scholingsuitgaven voor een opleiding of studie waarvoor de belastingplichtige aanspraak heeft op studiefinanciering volgens de [Wet studiefinanciering 2000](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), komen voor een studerende in het beroepsonderwijs voor elke maand dat in het kalenderjaar aanspraak op studiefinanciering bestaat, in aanmerking tot een normbedrag van € 51 vermeerderd met het normbedrag aan de tegemoetkoming in de kosten van het lesgeld, bedoeld in [artikel 3.2, eerste lid, onderdeel b, van die wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md).   
-2.  Scholingsuitgaven voor een opleiding of studie waarvoor de belastingplichtige aanspraak heeft op studiefinanciering volgens de [Wet studiefinanciering 2000](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), komen voor een studerende in het hoger onderwijs voor elke maand dat in het kalenderjaar aanspraak op studiefinanciering bestaat, in aanmerking tot een normbedrag van € 59 vermeerderd met een normbedrag van 1/12 gedeelte van het bedrag van het volledige wettelijke collegegeld volgens het basistarief, bedoeld in [artikel 7.45, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
-3.  In afwijking in zoverre van het eerste en tweede lid worden scholingsuitgaven voor een opleiding of studie in het beroepsonderwijs of het hoger onderwijs waarvoor de belastingplichtige aanspraak heeft op studiefinanciering volgens de [Wet studiefinanciering 2000](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) en die meer bedragen dan het tweevoud van het standaardbedrag, in aanmerking genomen voor zover deze meer bedragen dan het voor deze scholingsuitgaven geldende standaardbedrag. Onder het standaardbedrag wordt voor de toepassing van dit artikel verstaan de som van de normbedragen, bedoeld in het eerste lid, onderscheidenlijk in het tweede lid, vermenigvuldigd met het aantal maanden dat in het kalenderjaar aanspraak op studiefinanciering bestaat.   
-4.  Voor de vaststelling of er sprake is van uitgaven die meer bedragen dan het tweevoud van het standaardbedrag worden: 
-
-a. uitgaven voor het wettelijke collegegeld in aanmerking genomen tot maximaal het bedrag van het wettelijke collegegeld volgens het basistarief, bedoeld in [artikel 7.45, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en naar rato van het aantal maanden in het kalenderjaar waarop deze betrekking hebben;  
-
-b. uitgaven voor lesgeld als bedoeld in [artikel 5, tweede lid, van de Les- en cursusgeldwet](../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md) in aanmerking genomen naar rato van het aantal maanden in het kalenderjaar waarop deze betrekking hebben.     
-5.  Scholingsuitgaven komen niet voor aftrek in aanmerking voorzover de voor een opleiding of studie aan de belastingplichtige toegekende prestatiebeurs, bedoeld in [artikel 4.7, eerste en tweede lid](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), of [artikel 5.2, eerste lid, van de Wet studiefinanciering 2000](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), op grond van de bepalingen in [hoofdstuk 4](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), respectievelijk [hoofdstuk 5 van die wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) wordt omgezet in een gift.   
-6.  Scholingsuitgaven waarvoor een prestatiebeurs is toegekend, komen voor aftrek in aanmerking in het jaar waarin de prestatiebeurs definitief niet wordt omgezet in een gift.   
+1.  Scholingsuitgaven komen niet voor aftrek in aanmerking voor zover voor een opleiding of studie aan de belastingplichtige vrijgestelde uitkeringen en verstrekkingen als bedoeld in artikel 3.104, onderdelen d, e, h, onder 3°, m en q, worden verstrekt.   
+2.  Scholingsuitgaven komen niet voor aftrek in aanmerking voor zover voor de desbetreffende opleiding of studie aan de belastingplichtige een prestatiebeurs als bedoeld in de [artikelen 4.7, eerste en tweede lid](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), of [5.2, eerste lid, van de Wet studiefinanciering 2000](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) is toegekend.   
+3.  Indien de prestatiebeurs, bedoeld in het tweede lid, op grond van de bepalingen in [hoofdstuk 4](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), onderscheidenlijk [hoofdstuk 5, van de Wet studiefinanciering 2000](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) definitief niet wordt omgezet in een gift, komen de scholingsuitgaven die op grond van het tweede lid niet voor aftrek in aanmerking zijn gekomen, alsnog voor aftrek in aanmerking in het jaar waarin die prestatiebeurs definitief niet wordt omgezet in een gift.   
+4.  De ingevolge het derde lid in aanmerking te nemen scholingsuitgaven worden gesteld op een bedrag van € 2421 per studiejaar voor het hoger onderwijs en op een bedrag van € 1677 per studiejaar voor het beroepsonderwijs waarop de prestatiebeurs, bedoeld in het tweede lid, die definitief niet wordt omgezet in een gift betrekking heeft dan wel, indien dit lager is, op het bedrag van die prestatiebeurs. Indien de omzetting van de prestatiebeurs niet het gehele studiejaar betreft worden de in de eerste volzin opgenomen bedragen naar tijdsgelang herrekend.   
 
 ### Artikel  6.30  
 
 ####Omvang in aanmerking te nemen uitgaven
 
-1.  Scholingsuitgaven komen voor aftrek in aanmerking voorzover het gezamenlijke bedrag hoger is dan € 500 en, buiten de standaardstudieperiode, vervolgens niet tot een hoger gezamenlijk bedrag dan € 15 000.   
-2.  Indien scholingsuitgaven, bedoeld in artikel 6.29, eerste of tweede lid, op grond van artikel 6.29, zesde lid in het kalenderjaar in aanmerking worden genomen, wordt het bedrag van € 15 000 vermeerderd met het bedrag van die scholingsuitgaven.   
-3.  De standaardstudieperiode is de door de belastingplichtige aan te geven periode van niet meer dan zestien kalenderkwartalen waarin hij na het bereiken van de leeftijd van achttien jaar maar voor het bereiken van de leeftijd van 30 jaar de voor werkzaamheden beschikbare tijd grotendeels besteedt aan een opleiding met een totale studielast van een zodanige omvang dat daarnaast geen volledige werkkring mogelijk is.   
+1.  Scholingsuitgaven komen voor aftrek in aanmerking voor zover het gezamenlijke bedrag hoger is dan € 250 en, buiten de standaardstudieperiode, vervolgens niet tot een hoger gezamenlijk bedrag dan € 15 000.   
+2.  De standaardstudieperiode is een aaneengesloten periode van niet meer dan vijf kalenderjaren waarin de belastingplichtige voor het bereiken van de leeftijd van 30 jaar de voor werkzaamheden beschikbare tijd grotendeels besteedt aan een opleiding met een totale studielast van een zodanige omvang dat daarnaast geen volledige werkkring mogelijk is.   
 
 ### Afdeling  6.8  
 
@@ -4526,7 +4297,7 @@ Periodieke *giften* worden in aanmerking genomen indien zij berusten op een bij 
 ####Giften aan culturele instellingen
 
 1.  Het bedrag van giften aan culturele instellingen wordt voor de bepaling van het voor de toepassing van deze afdeling in aanmerking te nemen bedrag verhoogd met 25%, doch ten hoogste met € 1250.   
-2.  Het in artikel 6.39, eerste en tweede lid, bedoelde maximum wordt verhoogd met het bedrag van de in het eerste lid bedoelde verhoging.   
+2.  Het in artikel 6.39, eerste en tweede lid, bedoelde maximum wordt verhoogd met het bedrag waarmee het bedrag van giften als bedoeld in artikel 6.35 ingevolge het eerste lid wordt verhoogd.   
 
 ### Afdeling  6.10  
 
@@ -4710,23 +4481,16 @@ c. *gecombineerd heffingspercentage*: de som van het belastingtarief eerste schi
 d. *gecombineerde heffingskorting*: het gezamenlijke bedrag van de heffingskorting voor de inkomstenbelasting, de heffingskorting voor de algemene ouderdomsverzekering, de heffingskorting voor de nabestaandenverzekering en de heffingskorting voor de algemene verzekering bijzondere ziektekosten;  
 
 e. *arbeidsinkomen:* het gezamenlijke bedrag van hetgeen door de belastingplichtige met tegenwoordige arbeid is genoten als winst uit een of meer ondernemingen, loon en resultaat uit een of meer werkzaamheden.     
-2.  Tot het *arbeidsinkomen* worden tevens gerekend: 
+2.  Tot het *arbeidsinkomen* wordt tevens gerekend: 
 
-a. inkomsten genoten wegens tijdelijke arbeidsongeschiktheid;  
+a. loon genoten wegens tijdelijke inactiviteit als bedoeld in [artikel 628 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), alsmede hetgeen door de werknemer met een publiekrechtelijke dienstbetrekking wordt genoten op grond van naar aard en strekking overeenkomstige regelingen, voor een tijdvak van maximaal 104 weken;  
 
-b. uitkeringen op grond van de [Wet arbeid en zorg](../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) en aanvullingen daarop door degene tot wie de belastingplichtige in dienstbetrekking staat.     
+b. loon genoten als garantieloon als bedoeld in [artikel 628a van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+
+c. loon genoten wegens tijdelijke arbeidsongeschiktheid als bedoeld in [artikel 629 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), alsmede hetgeen door de werknemer met een publiekrechtelijke dienstbetrekking wordt genoten op grond van naar aard en strekking overeenkomstige regelingen en hetgeen wordt genoten ingevolge de [Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md);  
+
+d. uitkeringen op grond van de [Wet arbeid en zorg](../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) en aanvullingen daarop door degene tot wie de belastingplichtige in dienstbetrekking staat.     
 3.  Niet tot het *arbeidsinkomen* wordt gerekend het bedrag waarover met toepassing van [artikel 19g, tweede lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) wordt beschikt door een werknemer die bij het begin van het kalenderjaar de leeftijd van 61 jaar heeft bereikt.   
-4.  Inkomsten genoten wegens tijdelijke arbeidsongeschiktheid als bedoeld in het tweede lid, onderdeel a, zijn niet uitkeringen op grond van: 
-
-a. de [Wet werk en inkomen naar arbeidsvermogen](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
-
-b. de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
-
-c. de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  
-
-d. de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
-
-e. buitenlandse arbeidsongeschiktheidsverzekeringen die naar aard en strekking overeenkomen met de regelingen die zijn vermeld in de onderdelen a, b, c en d.     
 
 ### Artikel  8.2  
 
@@ -4738,7 +4502,7 @@ a. de algemene heffingskorting (artikel 8.10);
 
 b. de arbeidskorting (artikel 8.11);  
 
-c. de doorwerkbonus (artikel 8.12);  
+c. de werkbonus (artikel 8.12);  
 
 d.  vervallen;   
 
@@ -4754,13 +4518,9 @@ i. de jonggehandicaptenkorting (artikel 8.16a);
 
 j. de ouderenkorting (artikel 8.17);  
 
-k. de alleenstaande ouderenkorting (artikel 8.18);  
+k. de alleenstaande ouderenkorting (artikel 8.18), en  
 
-l.  vervallen;   
-
-m. de korting voor maatschappelijke beleggingen (artikel 8.19) en  
-
-n. de korting voor directe beleggingen in durfkapitaal en culturele beleggingen (artikel 8.20).    
+l. de korting voor groene beleggingen (artikel 8.19).    
 
 ### Artikel  8.3  
 
@@ -4790,8 +4550,7 @@ De heffingskorting voor de algemene verzekering bijzondere ziektekosten is het d
 
 ####Bijzondere regels voor de berekening van de heffingskortingen
 
-1.  Bij de toepassing van artikel 8.3, artikel 8.5 en artikel 8.6 op het deel van de standaardheffingskorting dat op de doorwerkbonus, de ouderenkorting, de alleenstaande ouderenkorting, de korting voor maatschappelijke beleggingen of de korting voor directe beleggingen in durfkapitaal en culturele beleggingen betrekking heeft, wordt het *gecombineerde heffingspercentage* verminderd met het volgens [artikel 11, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) voor de algemene ouderdomsverzekering vastgestelde premiepercentage. In dat geval wordt het aan de heffingskorting voor de algemene ouderdomsverzekering toerekenbare deel van de doorwerkbonus, de ouderenkorting, de alleenstaande ouderenkorting, de korting voor maatschappelijke beleggingen en de korting voor directe beleggingen in durfkapitaal en culturele beleggingen in afwijking van artikel 8.4 op nihil gesteld.   
-2.  In het jaar waarin de belastingplichtige de leeftijd van 65 jaar bereikt, wordt bij de toepassing van artikel 8.4 op het deel van de standaardheffingskorting dat niet op de doorwerkbonus, de ouderenkorting, de alleenstaande ouderenkorting, de korting voor maatschappelijke beleggingen en de korting voor directe beleggingen in durfkapitaal en culturele beleggingen betrekking heeft, het daar genoemde, volgens [artikel 11, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) vastgestelde premiepercentage voor de algemene ouderdomsverzekering verlaagd met dat deel van het laatstgenoemde percentage dat daartoe in dezelfde verhouding staat als de in het kalenderjaar vanaf de eerste dag van de kalendermaand waarin de belastingplichtige de leeftijd van 65 jaar bereikt resterende periode van premieplicht voor de volksverzekeringen staat tot de periode van premieplicht voor de volksverzekeringen vanaf het begin van het kalenderjaar.   
+Bij de toepassing van artikel 8.3, artikel 8.5 en artikel 8.6 op het deel van de standaardheffingskorting dat op de ouderenkorting, de alleenstaande ouderenkorting, of de korting voor groene beleggingen betrekking heeft, wordt het *gecombineerde heffingspercentage* verminderd met het volgens [artikel 11, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) voor de algemene ouderdomsverzekering vastgestelde premiepercentage. In dat geval wordt het aan de heffingskorting voor de algemene ouderdomsverzekering toerekenbare deel van de ouderenkorting, de alleenstaande ouderenkorting en de korting voor groene beleggingen in afwijking van artikel 8.4 op nihil gesteld.  
 
 ### Artikel  8.8  
 
@@ -4803,18 +4562,18 @@ De *gecombineerde heffingskorting* bedraagt maximaal het bedrag van de *gecombin
 
 ####Verhoging maximum gecombineerde heffingskorting bij minstverdienende partner
 
-1.  Indien de gecombineerde heffingskorting door artikel 8.8 wordt beperkt tot een bedrag beneden het niveau van 73 1/3% van de algemene heffingskorting vermeerderd met de voor de belastingplichtige geldende arbeidskorting, inkomensafhankelijke combinatiekorting en ouderschapsverlofkorting (toetsniveau) wordt, indien de belastingplichtige in het kalenderjaar gedurende meer dan zes maanden dezelfde partner heeft, de gecombineerde heffingskorting daarna verhoogd tot het toetsniveau. De verhoging bedraagt echter maximaal het bedrag van de door de partner verschuldigde gecombineerde inkomensheffing verminderd met zijn gecombineerde heffingskorting.   
-2.  Ten aanzien van de belastingplichtige die geboren is vóór 1 januari 1963 wordt voor de bepaling van het toetsniveau de algemene heffingskorting voor 100% in aanmerking genomen. Ten aanzien van de belastingplichtige die geboren is vóór 1 januari 1972 maar na 31 december 1962 en ten aanzien van de belastingplichtige, niet zijnde een belastingplichtige als bedoeld in de eerste volzin, tot wiens huishouden in het kalenderjaar gedurende meer dan zes maanden een kind behoort dat bij de aanvang van het kalenderjaar de leeftijd van 6 jaar niet heeft bereikt en gedurende die tijd op hetzelfde woonadres als de belastingplichtige staat ingeschreven in de basisadministratie persoonsgegevens, wordt voor de bepaling van het toetsniveau de algemene heffingskorting voor 86 2/3% in aanmerking genomen.   
+1.  Indien de gecombineerde heffingskorting door artikel 8.8 wordt beperkt tot een bedrag beneden het niveau van 66 2/3% van de algemene heffingskorting vermeerderd met de voor de belastingplichtige geldende arbeidskorting, inkomensafhankelijke combinatiekorting en ouderschapsverlofkorting (toetsniveau) wordt, indien de belastingplichtige in het kalenderjaar gedurende meer dan zes maanden dezelfde partner heeft, de gecombineerde heffingskorting daarna verhoogd tot het toetsniveau. De verhoging bedraagt echter maximaal het bedrag van de door de partner verschuldigde gecombineerde inkomensheffing verminderd met zijn gecombineerde heffingskorting.   
+2.  Ten aanzien van de belastingplichtige die geboren is vóór 1 januari 1963 wordt voor de bepaling van het toetsniveau de algemene heffingskorting voor 100% in aanmerking genomen. Ten aanzien van de belastingplichtige die geboren is vóór 1 januari 1972 maar na 31 december 1962 en ten aanzien van de belastingplichtige, niet zijnde een belastingplichtige als bedoeld in de eerste volzin, tot wiens huishouden in het kalenderjaar gedurende meer dan zes maanden een kind behoort dat bij de aanvang van het kalenderjaar de leeftijd van 6 jaar niet heeft bereikt en gedurende die tijd op hetzelfde woonadres als de belastingplichtige staat ingeschreven in de basisadministratie persoonsgegevens, wordt voor de bepaling van het toetsniveau de algemene heffingskorting voor 73 1/3% in aanmerking genomen.   
 3.  De verhoging van de gecombineerde heffingskorting wordt verlaagd met het bedrag van de belastingvermindering volgens regelingen ter voorkoming van dubbele belasting.   
 4.  Dit artikel is niet van toepassing indien de belastingplichtige bij de aanvang van het kalenderjaar de leeftijd van 21 jaar niet heeft bereikt en in het kalenderjaar gedurende meer dan zes maanden in belangrijke mate door zijn ouders is onderhouden.   
 5.  De belastingplichtige die uitsluitend door zijn overlijden in het kalenderjaar of het overlijden van zijn partner niet voldoet aan de voorwaarde van het eerste lid inzake het gedurende meer dan zes maanden hebben van dezelfde partner in het kalenderjaar wordt, voor de toepassing van dit artikel, geacht meer dan zes maanden dezelfde partner te hebben gehad. Indien uitsluitend als gevolg van het overlijden in het kalenderjaar van een in het tweede lid bedoeld kind niet voldaan wordt aan de in dat lid bedoelde termijn van zes maanden, wordt voor de toepassing van dit artikel met betrekking tot dat jaar wel geacht te zijn voldaan aan die termijn.   
 
 ### Artikel  8.9a  
 
-####Bijzondere verhoging heffingskorting voor de inkomstenbelasting voor niet-inwoners
+####Bijzondere verhoging heffingskorting voor de inkomstenbelasting voor niet-premieplichtigen
 
-1.  De bijzondere verhoging van de heffingskorting voor de inkomstenbelasting geldt voor de belastingplichtige die recht heeft op de verhoging van de gecombineerde heffingskorting, bedoeld in artikel 8.9, maar die deze verhoging als niet-premieplichtige niet-inwoner niet volledig kan effectueren. De bijzondere verhoging geldt uitsluitend voor inwoners van een andere lidstaat van de Europese Unie, van de BES eilanden of van een bij ministeriële regeling aangewezen andere mogendheid waarmee Nederland een regeling ter voorkoming van dubbele belasting is overeengekomen die voorziet in de uitwisseling van inlichtingen.   
-2.  De bijzondere verhoging van de heffingskorting voor de inkomstenbelasting is gelijk aan de verhoging van de gecombineerde heffingskorting, voorzover de belastingplichtige daarop als niet-premieplichtige niet-inwoner geen recht heeft, maar hij daarop wel recht zou hebben indien hij premieplichtig inwoner van Nederland zou zijn.   
+1.  De bijzondere verhoging van de heffingskorting voor de inkomstenbelasting geldt voor de belastingplichtige die recht heeft op de verhoging van de gecombineerde heffingskorting, bedoeld in artikel 8.9, maar die deze verhoging als niet-premieplichtige niet volledig kan effectueren. De bijzondere verhoging geldt uitsluitend voor inwoners van een lidstaat van de Europese Unie, van de BES eilanden of van een bij ministeriële regeling aangewezen andere mogendheid waarmee Nederland een regeling ter voorkoming van dubbele belasting is overeengekomen die voorziet in de uitwisseling van inlichtingen.   
+2.  De bijzondere verhoging van de heffingskorting voor de inkomstenbelasting is gelijk aan de verhoging van de gecombineerde heffingskorting, voorzover de belastingplichtige daarop als niet-premieplichtige geen recht heeft, maar hij daarop wel recht zou hebben indien hij premieplichtig in Nederland zou zijn.   
 3.  De bijzondere verhoging van de heffingskorting voor de inkomstenbelasting is echter niet hoger dan het gezamenlijke bedrag van de belasting na toepassing van regelingen ter voorkoming van dubbele belasting, en de premie voor de volksverzekeringen die zijn *partner* is verschuldigd over het belastbare inkomen uit werk en woning, verminderd met zijn gecombineerde heffingskorting.   
 
 ### Afdeling  8.2  
@@ -4826,7 +4585,7 @@ De *gecombineerde heffingskorting* bedraagt maximaal het bedrag van de *gecombin
 ####Algemene heffingskorting
 
 1.  De algemene heffingskorting geldt voor iedere belastingplichtige.   
-2.  De algemene heffingskorting bedraagt € 2033.   
+2.  De algemene heffingskorting bedraagt € 2001.   
 
 ### Artikel  8.11  
 
@@ -4835,27 +4594,22 @@ De *gecombineerde heffingskorting* bedraagt maximaal het bedrag van de *gecombin
 1.  De arbeidskorting geldt voor de belastingplichtige die *arbeidsinkomen* geniet.   
 2.  De arbeidskorting bedraagt: 
 
-a. 1,733% van het *arbeidsinkomen* met een maximum van € 161, vermeerderd met:  
+a. 1,827% van het *arbeidsinkomen* met een maximum van € 161, vermeerderd met:  
 
-b. 12,320% van het *arbeidsinkomen* voor zover dat meer bedraagt dan € 9295, waarbij de som van de bedragen berekend op de voet van de onderdelen a en b niet meer bedraagt dan € 1611, en verminderd met:  
+b. 16,115% van het *arbeidsinkomen* voor zover dat meer bedraagt dan € 8816, waarbij de som van de bedragen berekend op de voet van de onderdelen a en b niet meer bedraagt dan € 1723, en verminderd met:  
 
-c. 1,25 % van het *arbeidsinkomen* voor zover dat meer bedraagt dan € 45 178, met dien verstande dat de vermindering ten hoogste € 78 bedraagt.   Ingeval het *arbeidsinkomen* niet meer bedraagt dan € 45 178, bedraagt de arbeidskorting ten minste de volgens [artikel 22a van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) toegekende arbeidskorting, maar maximaal het in de eerste volzin, onderdeel b, als laatste vermelde bedrag.   
+c. 4 % van het *arbeidsinkomen* voor zover dat meer bedraagt dan € 40 248, met dien verstande dat de vermindering ten hoogste € 1173 bedraagt.   Ingeval het *arbeidsinkomen* niet meer bedraagt dan € 40 248, bedraagt de arbeidskorting ten minste de volgens [artikel 22a van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) toegekende arbeidskorting, maar maximaal het in de eerste volzin, onderdeel b, als laatste vermelde bedrag.   
 
 ### Artikel  8.12  
 
-####Doorwerkbonus
+#### *Werkbonus* 
 
-1.  De doorwerkbonus geldt voor de belastingplichtige die: 
+1.  De werkbonus geldt voor de belastingplichtige die arbeidsinkomen geniet en die bij het begin van het kalenderjaar de leeftijd van 60 jaar heeft bereikt maar nog niet de leeftijd van 64 jaar.   
+2.  De werkbonus bedraagt: 
 
-a. bij het begin van het kalenderjaar de leeftijd van 61 jaar heeft bereikt, en  
+a. 57,763% van het arbeidsinkomen voor zover dat meer bedraagt dan € 17 139, met een maximum van € 1100, verminderd, doch niet verder dan tot nihil, met:  
 
-b. in het kalenderjaar een *arbeidsinkomen* heeft dat meer bedraagt dan € 9295.     
-2.  Voor de belastingplichtige die bij het begin van het kalenderjaar de leeftijd van 61 jaar heeft bereikt maar nog niet de leeftijd van 62 jaar, bedraagt de doorwerkbonus 1,5% van de doorwerkbonusgrondslag.   
-3.  Voor de belastingplichtige die bij het begin van het kalenderjaar de leeftijd van 62 jaar heeft bereikt maar nog niet de leeftijd van 63 jaar, bedraagt de doorwerkbonus 6% van de doorwerkbonusgrondslag.   
-4.  Voor de belastingplichtige die bij het begin van het kalenderjaar de leeftijd van 63 jaar heeft bereikt maar nog niet de leeftijd van 64 jaar, bedraagt de doorwerkbonus 8,5% van de doorwerkbonusgrondslag.   
-5.  Voor de belastingplichtige die bij het begin van het kalenderjaar de leeftijd van 64 jaar heeft bereikt maar nog niet de leeftijd van 66 jaar, bedraagt de doorwerkbonus 2% van de doorwerkbonusgrondslag.   
-6.  Voor de belastingplichtige die bij het begin van het kalenderjaar de leeftijd van 66 jaar heeft bereikt, bedraagt de doorwerkbonus 1% van de doorwerkbonusgrondslag.   
-7.  De doorwerkbonusgrondslag is het gedeelte van het *arbeidsinkomen* dat € 9295 te boven gaat, maar bedraagt maximaal € 47 871.   
+b. 10,502% van het arbeidsinkomen voor zover dat meer bedraagt dan € 22 852.     
 
 ### Artikel  8.14a  
 
@@ -4906,8 +4660,8 @@ c. deze huishouding voert met geen ander dan kinderen waarvan de jongste bij de 
 
 ####Ouderenkorting
 
-1.  De ouderenkorting geldt voor de belastingplichtige die bij het einde van het kalenderjaar, of, indien de belastingplicht in de loop van het jaar is geëindigd, bij het einde van de belastingplicht, de leeftijd van 65 jaar heeft bereikt en die een verzamelinkomen heeft van niet meer dan € 35 450.   
-2.  De ouderenkorting bedraagt € 762.   
+1.  De ouderenkorting geldt voor de belastingplichtige die bij het einde van het kalenderjaar, of indien de belastingplicht in de loop van het jaar is geëindigd, bij het einde van de belastingplicht, de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt.   
+2.  De ouderenkorting bedraagt € 1032 indien de belastingplichtige een verzamelinkomen heeft van niet meer dan € 35 450. Indien de belastingplichtige een verzamelinkomen heeft van meer dan € 35 450 bedraagt de ouderenkorting € 150.   
 
 ### Artikel  8.18  
 
@@ -4918,17 +4672,10 @@ c. deze huishouding voert met geen ander dan kinderen waarvan de jongste bij de 
 
 ### Artikel  8.19  
 
-####Korting voor maatschappelijke beleggingen
+####Korting voor groene beleggingen
 
-1.  De korting voor maatschappelijke beleggingen geldt voor de belastingplichtige van wie maatschappelijke beleggingen zijn vrijgesteld op grond van artikel 5.13. Voor de belastingplichtige en zijn *partner* bij wie ingevolge artikel 5.13 een gezamenlijke vrijstelling voor maatschappelijke beleggingen in aanmerking is genomen, geldt de korting voor de belastingplichtige en zijn partner gezamenlijk.   
-2.  De korting voor maatschappelijke beleggingen bedraagt 0,7% van het bedrag dat ingevolge artikel 5.13 op de peildatum is vrijgesteld.   
-
-### Artikel  8.20  
-
-####Korting voor directe beleggingen in durfkapitaal en culturele beleggingen
-
-1.  De korting voor directe beleggingen in durfkapitaal en culturele beleggingen geldt voor de belastingplichtige van wie directe beleggingen in durfkapitaal als bedoeld in artikel 5.17 ingevolge artikel 5.16 zijn vrijgesteld of van wie culturele beleggingen ingevolge artikel 5.16 zijn vrijgesteld. Voor de belastingplichtige en zijn partner bij wie ingevolge artikel 5.16 een gezamenlijke vrijstelling voor directe beleggingen in durfkapitaal en culturele beleggingen in aanmerking is genomen, geldt de korting voor de belastingplichtige en zijn partner gezamenlijk.   
-2.  De korting voor directe beleggingen in durfkapitaal en culturele beleggingen bedraagt 0,7% van het bedrag dat ingevolge artikel 5.16 op de peildatum is vrijgesteld.   
+1.  De korting voor groene beleggingen geldt voor de belastingplichtige van wie groene beleggingen zijn vrijgesteld op grond van artikel 5.13. Voor de belastingplichtige en zijn *partner* bij wie ingevolge artikel 5.13 een gezamenlijke vrijstelling voor groene beleggingen in aanmerking is genomen, geldt de korting voor de belastingplichtige en zijn partner gezamenlijk.   
+2.  De korting voor groene beleggingen bedraagt 0,7% van het bedrag dat ingevolge artikel 5.13 op de peildatum is vrijgesteld.   
 
 ### Artikel  8.22  
 
@@ -4980,7 +4727,7 @@ a. kan van een samenstel van transacties eveneens sprake zijn ingeval transactie
 
 b. wordt met een samenstel van transacties gelijkgesteld een transactie die betrekking heeft op de enkele verwerving van een of meer dividendbewijzen of op de vestiging van kortlopende genotsrechten op aandelen.     
 4.  In afwijking van het eerste lid wordt dividendbelasting niet als voorheffing in aanmerking genomen indien de dividendbelasting is ingehouden op de opbrengst die deel uitmaakt van een stamrechtspaarrekening of stamrechtbeleggingsrecht als bedoeld in [artikel 11a van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
-5.  In afwijking van het eerste lid wordt dividendbelasting niet als voorheffing in aanmerking genomen indien de dividendbelasting is ingehouden op de opbrengst die deel uitmaakt van een spaarrekening eigen woning als bedoeld in artikel 3.116a, een beleggingsrecht eigen woning als bedoeld in artikel 3.116a, een lijfrentespaarrekening als bedoeld in artikel 3.126a of een lijfrentebeleggingsrecht als bedoeld in artikel 3.126a.   
+5.  In afwijking van het eerste lid wordt dividendbelasting niet als voorheffing in aanmerking genomen indien de dividendbelasting is ingehouden op de opbrengst die deel uitmaakt van een lijfrentespaarrekening als bedoeld in artikel 3.126a of een lijfrentebeleggingsrecht als bedoeld in artikel 3.126a.   
 6.  Ten aanzien van een belastingplichtige die deel uitmaakt van een buitenlands gezelschap als bedoeld in [artikel 5b van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), wordt ook als voorheffing aangemerkt een evenredig deel van de loonbelasting die is geheven over de door het gezelschap ontvangen gage, bedoeld in [artikel 35g van die wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), welk evenredig deel is gerelateerd aan het aan hem toegerekende deel van de door het gezelschap ontvangen gage.   
 7.  Indien artikel 9.1, derde lid, toepassing vindt, wordt ook als voorheffing aangemerkt de bij wijze van inhouding geheven premie voor de volksverzekeringen met uitzondering van de bij wijze van eindheffing geheven premie voor de volksverzekeringen.   
 8.  De ingevolge dit artikel in aanmerking te nemen voorheffingen gelden niet als voorheffing voor de bij wege van conserverende aanslag te heffen belasting.   
@@ -5000,7 +4747,7 @@ b. de belastingplichtige binnen een bij ministeriële regeling te stellen termij
 2.  In andere gevallen wordt geen aanslag vastgesteld en worden voorheffingen niet verrekend.   
 3.  Het eerste lid, onderdeel a, is niet van toepassing: 
 
-a. indien de belastingplichtige in het kalenderjaar de leeftijd van 65 jaar bereikt en een verzamelinkomen heeft dat uitsluitend bestaat uit een uitkering volgens de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
+a. indien de belastingplichtige in het kalenderjaar de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), bereikt en een verzamelinkomen heeft dat uitsluitend bestaat uit een uitkering volgens de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
 
 b. indien de belastingplichtige een niet in Nederland wonende artiest of beroepssporter is als bedoeld in [artikel 5a van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), dan wel lid is van een buitenlands gezelschap in de zin van [artikel 5b van die wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), en zijn verzamelinkomen uitsluitend bestaat uit gage, bedoeld in [artikel 35](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) of  [35g van die wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).     
 4.  Het derde lid, onderdeel a, is niet van toepassing indien een voorlopige teruggaaf is vastgesteld waarbij ook rekening is gehouden met negatieve bestanddelen van het belastbare inkomen, dan wel waarbij geheel of gedeeltelijk ten onrechte of tot een hoger bedrag dan in artikel 8.9, eerste lid, tweede volzin, is aangeduid, een verhoging van de gecombineerde heffingskorting volgens artikel 8.9 in aanmerking is genomen. In het laatste geval hoeft de belastingplichtige geen aangifte te doen indien de onjuiste verhoging blijkt bij de aangifte van de partner.   
@@ -5020,19 +4767,7 @@ b. indien de belastingplichtige een niet in Nederland wonende artiest of beroeps
 2.  Ingeval een verzoek om herziening geheel of gedeeltelijk wordt afgewezen, beslist de inspecteur dat bij een voor bezwaar vatbare beschikking, waarbij de termijn voor het instellen van bezwaar eindigt op de dag van de dagtekening van de aanslag waarmee de voorlopige aanslag wordt verrekend. De eerste volzin is van overeenkomstige toepassing ingeval een verzoek tot het opleggen van een voorlopige aanslag wordt afgewezen.   
 3.  In afwijking van de [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [artikel 26 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is een voorlopige aanslag niet voor bezwaar vatbaar.   
 4.  In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) beslist de inspecteur binnen zes weken na ontvangst van een bezwaarschrift als bedoeld in het tweede lid.   
-5.  De voorgaande leden zijn van overeenkomstige toepassing met betrekking tot beschikkingen die afzonderlijk op het aanslagbiljet van de voorlopige aanslag zijn vermeld, waarbij voor de toepassing van dit artikel het verzamelinkomen, bedoeld in artikel 2.18, de betalingskorting, bedoeld in [artikel 27a van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), alsmede de heffingsrente en de revisierente, bedoeld in [hoofdstuk VA van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), geacht worden onderdeel uit te maken van de voorlopige aanslag.   
-6.  Bij een herziening als bedoeld in het eerste lid van een voorlopige aanslag tot een positief bedrag die leidt tot: 
-
-a. een lager positief bedrag van de voorlopige aanslag, blijft [artikel 30g, eerste lid, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) buiten toepassing en zijn [artikel 30h, tweede lid, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), alsmede de [artikelen 27a, tweede lid](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), en [28 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) van overeenkomstige toepassing;  
-
-b. een negatief bedrag van de voorlopige aanslag, blijft [artikel 30g, eerste lid, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) buiten toepassing en zijn de artikelen 30g, tweede lid, onderdeel b, en [30h, tweede lid, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), alsmede de [artikelen 27a, tweede lid](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), en [28 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) van overeenkomstige toepassing;  
-
-c. een hoger positief bedrag van de voorlopige aanslag, is [artikel 30f van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing, met dien verstande dat heffingsrente wordt berekend over het verschil tussen beide bedragen.     
-7.  Bij een herziening als bedoeld in het eerste lid van een voorlopige aanslag tot een negatief bedrag die leidt tot: 
-
-a. een kleiner negatief bedrag van de voorlopige aanslag of tot een positief bedrag van de voorlopige aanslag, is [artikel 30f van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing, met dien verstande dat heffingsrente wordt berekend over het verschil tussen beide bedragen;  
-
-b. een groter negatief bedrag van de voorlopige aanslag, is [artikel 30g van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing, met dien verstande dat heffingsrente wordt berekend over het verschil tussen beide bedragen.     
+5.  De voorgaande leden zijn van overeenkomstige toepassing met betrekking tot beschikkingen die afzonderlijk op het aanslagbiljet van de voorlopige aanslag zijn vermeld, waarbij voor de toepassing van dit artikel het verzamelinkomen, bedoeld in artikel 2.18, de betalingskorting, bedoeld in [artikel 27a van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), alsmede de belastingrente en de revisierente, bedoeld in [hoofdstuk VA van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), geacht worden onderdeel uit te maken van de voorlopige aanslag.   
 
 ### Artikel  9.6  
 
@@ -5055,7 +4790,7 @@ b. een groter negatief bedrag van de voorlopige aanslag, is [artikel 30g van de
 
 ####Inflatiecorrectie
 
-1.  Bij het begin van het kalenderjaar worden de in de artikelen 2.10, 2.10a, 3.15, eerste lid, 3.41, 3.42, 3.42a, 3.47, 3.68, 3.77, 3.87, 3.118, 3.125, 3.126a, 3.127, 3.129, 3.133, 5.3, 5.5, 5.6, 5.10, 5.13, 5.16, 6.17, derde lid, 6.20, 6.29, 8.10, 8.11, tweede lid, eerste volzin, onderdeel a, 8.14a, 8.15, 8.16a, 8.17, 8.18, 9.4 en 10.7 vermelde bedragen en de in artikel 8.11, tweede lid, eerste volzin, onderdelen b en c, en artikel 8.12, zevende lid, laatstvermelde bedragen bij ministeriële regeling vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de tabelcorrectiefactor en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande jaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.   
+1.  Bij het begin van het kalenderjaar worden de in de artikelen 2.10, 2.10a, 3.15, eerste lid, 3.41, 3.42, 3.42a, 3.47, 3.68, 3.77, 3.87, 3.125, 3.126a, 3.127, 3.129, 3.133, 5.3, 5.5, 5.6, 5.10, 5.13, 6.17, derde lid, 6.20, 6.28, 8.10, 8.11, tweede lid, eerste volzin, onderdeel a, 8.14a, 8.15, 8.16a, 8.17, 8.18, 9.4 en 10.7 vermelde bedragen en de in artikel 8.11, tweede lid, eerste volzin, onderdelen b en c, laatstvermelde bedragen bij ministeriële regeling vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de tabelcorrectiefactor en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande jaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.   
 2.  In afwijking in zoverre van het eerste lid, tweede volzin, wordt het bedrag dat is vermeld in de tweede regel van de tweede kolom en in de derde regel van de eerste kolom van de tabel in artikel 2.10, berekend door het te vervangen bedrag te vermenigvuldigen met de uitkomst van de formule: 1 + (75% x (tabelcorrectiefactor – 1)).   
 
 ### Artikel  10.2  
@@ -5108,7 +4843,7 @@ c. het in artikel 3.112, vijfde lid, tweede volzin, vermelde percentage verhoogd
 ####Indexering vrijstelling kamerverhuur
 
 1.  Bij het begin van het kalenderjaar wordt het in de artikelen 3.97 en 3.114 vermelde bedrag bij ministeriële regeling vervangen door een ander. Dit bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de verhouding van het indexcijfer van de woninghuren over juli van het voorafgaande kalenderjaar tot dat indexcijfer over juli van het tweede voorafgaande kalenderjaar, en vervolgens de nodig geachte afronding aan te brengen.   
-2.  Artikel 10.1, laatste volzin, en artikel 10.5, tweede en derde lid, zijn ook hier van toepassing.   
+2.  Artikel 10.1, eerste lid, laatste volzin, en artikel 10.5, tweede en derde lid, zijn ook hier van toepassing.   
 
 ### Artikel  10.6a  
 
@@ -5118,19 +4853,18 @@ Bij het begin van het kalenderjaar wordt het in artikel 8.9, eerste lid, vermeld
 
 ### Artikel  10.7  
 
-####Indexering inkomensgrenzen arbeidskorting en doorwerkbonus en indexering percentages arbeidskorting
+####Indexering inkomensgrenzen en percentages arbeidskorting
 
-1.  Bij het begin van het kalenderjaar worden de in artikel 8.11, tweede lid, eerste volzin, onderdelen a en b, vermelde percentages en de in artikel 8.11, tweede lid, eerste volzin, onderdelen b en c, eerstvermelde bedragen, het in artikel 8.11, tweede lid, tweede volzin, vermelde bedrag, het in artikel 8.12, eerste lid, onderdeel b, vermelde bedrag en het in artikel 8.12, zevende lid, eerstvermelde bedrag bij ministeriële regeling vervangen door andere percentages en andere bedragen.   
+1.  Bij het begin van het kalenderjaar worden de in artikel 8.11, tweede lid, eerste volzin, onderdelen a en b, vermelde percentages en de in artikel 8.11, tweede lid, eerste volzin, onderdelen b en c, eerstvermelde bedragen en het in artikel 8.11, tweede lid, tweede volzin, vermelde bedrag bij ministeriële regeling vervangen door andere percentages en andere bedragen.   
 2.  Het percentage in artikel 8.11, tweede lid, eerste volzin, onderdeel a, wordt berekend door het in dat onderdeel genoemde bedrag na toepassing van artikel 10.1 te delen door het volgens het vierde lid berekende bedrag.   
 3.  Het percentage in artikel 8.11, tweede lid, eerste volzin, onderdeel b, wordt berekend door het verschil van het in artikel 8.11, tweede lid, eerste volzin, onderdeel b, laatstvermelde bedrag en het in artikel 8.11, tweede lid, eerste volzin, onderdeel a, genoemde bedrag, na toepassing van artikel 10.1 te delen door het verschil van: 
 
-a. 108% van het twaalfvoud van het in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) bedoelde bedrag, verminderd met het werknemersaandeel in de premie bedoeld in [afdeling 2 van hoofdstuk 3 van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en vermeerderd met de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en € 986, en  
+a. 108% van het twaalfvoud van het in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) bedoelde bedrag, en  
 
 b. het volgens het vierde lid berekende bedrag.     
-4.  Het in artikel 8.11, tweede lid, eerste volzin, onderdeel b, eerstvermelde bedrag, het in artikel 8.12, eerste lid, onderdeel b, vermelde bedrag en het in artikel 8.12, zevende lid, eerstvermelde bedrag wordt gesteld op 50% van het twaalfvoud van het in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) bedoelde bedrag, verminderd met het werknemersaandeel in de premie bedoeld in [afdeling 2 van hoofdstuk 3 van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en vermeerderd met de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
-5.  Het eerstvermelde bedrag in artikel 8.11, tweede lid, eerste volzin, onderdeel c, en het bedrag in artikel 8.11, tweede lid, tweede volzin, worden gesteld op 108% van 225% van het twaalfvoud van het in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) bedoelde bedrag, verminderd met het werknemersaandeel in de premie, bedoeld in [afdeling 2 van hoofdstuk 3 van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), en vermeerderd met de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
-6.  Indien op grond van de [Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) een premie wordt ingehouden waarvan het percentage per bedrijfstak verschilt, wordt voor de toepassing van het derde, vierde en vijfde lid het percentage in aanmerking genomen dat wordt vastgesteld krachtens [artikel 9, vijfde lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md).   
-7.  De volgens het tweede en derde lid berekende percentages worden rekenkundig afgerond op drie decimalen.   
+4.  Het in artikel 8.11, tweede lid, eerste volzin, onderdeel b, eerstvermelde bedrag wordt gesteld op 50% van het twaalfvoud van het in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) bedoelde bedrag.   
+5.  Het eerstvermelde bedrag in artikel 8.11, tweede lid, eerste volzin, onderdeel c, en het bedrag in artikel 8.11, tweede lid, tweede volzin, worden gesteld op 108% van 225% van het twaalfvoud van het in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) bedoelde bedrag verminderd met € 2600.   
+6.  De volgens het tweede en derde lid berekende percentages worden rekenkundig afgerond op drie decimalen.   
 
 ### Afdeling  10.2  
 
@@ -5157,11 +4891,234 @@ b. het volgens het vierde lid berekende bedrag.
 1.  De artikelen 3.40 tot en met 3.47, artikel 3.51, eerste lid, en artikel 3.52, eerste lid, onderdeel b, zijn in afwijking van artikel 3.45, eerste lid, onderdeel b, en vierde lid, onderdeel b, van overeenkomstige toepassing op investeringen in bedrijfsmiddelen die worden toegerekend aan het vermogen van een vaste inrichting die gelegen is in Aruba, Curaçao, Sint Maarten of de BES eilanden, met dien verstande dat de tabel die is opgenomen in artikel 3.41, tweede lid, afzonderlijk wordt toegepast op deze investeringen.   
 2.  Als projecten als bedoeld in artikel 5.14, derde lid, worden mede aangemerkt projecten of categorieën van projecten, die zijn gelegen op Aruba, Curaçao, Sint Maarten of de BES eilanden ter zake waarvan door Onze Minister van Infrastructuur en Milieu, in overeenstemming met Onze Minister en na overleg met Onze Minister van Economische Zaken, Landbouw en Innovatie, schriftelijk is verklaard onder door hem te stellen voorwaarden met betrekking tot de controle ter zake van de omstandigheid, dat die projecten of categorieën van projecten in het belang dienen te zijn van de bescherming van het milieu, waaronder natuur en bos. Een schriftelijke verklaring wordt niet afgegeven op aanvragen voor een project dat voor 1 januari 1998 voldeed aan een van de projectomschrijvingen van de krachtens artikel 5.14, derde lid, gestelde bepalingen of waarvoor voor die datum een begin met de uitvoering van de bijbehorende fysieke werkzaamheden is gemaakt. Een verklaring kan worden ingetrokken indien niet wordt voldaan aan de voorwaarden die zijn gesteld ter zake van de controle.   
 3.  Bij ministeriële regeling kunnen nadere voorwaarden worden gesteld met betrekking tot het eerste en tweede lid. Daarbij zal de controle op de naleving van de gestelde voorwaarden worden opgedragen aan Nederlandse ambtenaren.   
-4.  Voor de berekening van de voorkoming van dubbele belasting bedoeld in [artikel 24 van de Belastingregeling voor het Koninkrijk](../../../../../rijkswet/belastingregeling/voor/het/koninkrijk/BWBR0002464/README.md) respectievelijk artikel 4.1 van de Belastingregeling voor het land Nederland wordt de winst die is toe te rekenen aan de vaste inrichting die gelegen is in Aruba, Curaçao of Sint Maarten respectievelijk de BES eilanden berekend zonder inachtneming van het eerste lid.   
+4.  Voor de berekening van de voorkoming van dubbele belasting bedoeld in [artikel 24 van de Belastingregeling voor het Koninkrijk](../../../../../rijkswet/belastingregeling/voor/het/koninkrijk/BWBR0002464/README.md) respectievelijk [artikel 3.1 van de Belastingregeling voor het land Nederland](../../../../../AMvB/belastingregeling/voor/het/land/nederland/BWBR0029675/README.md) wordt de winst die is toe te rekenen aan de vaste inrichting die gelegen is in Aruba, Curaçao of Sint Maarten respectievelijk de BES eilanden berekend zonder inachtneming van het eerste lid.   
+
+### Hoofdstuk  10bis  
+
+####Overgangsrecht ten gevolge van [Wet herziening fiscale behandeling eigen woning](../../../../../wet/wet/herziening/fiscale/behandeling/eigen/woning/BWBR0032676/README.md)
+
+### Artikel  10bis.1  
+
+####Bestaande eigenwoningschuld
+
+1.  Onder bestaande eigenwoningschuld van de belastingplichtige wordt verstaan de eigenwoningschuld, bedoeld in artikel 3.119a, eerste lid, zoals dat artikel luidde op 31 december 2012, van die belastingplichtige op 31 december 2012.   
+2.  Onder bestaande eigenwoningschuld als bedoeld in het eerste lid wordt mede verstaan de eigenwoningschuld, bedoeld in artikel 3.119a, eerste lid, zoals dat artikel luidde op 31 december 2012, die: 
+
+a. de belastingplichtige, die op 31 december 2012 niet een zodanige eigenwoningschuld had, in 2012 had op het moment direct voorafgaand aan de vervreemding van een eigen woning, voor zover de belastingplichtige in 2013 weer een zodanige eigenwoningschuld heeft;  
+
+b. in 2013 ontstaat, voor zover deze hoger is dan de op 31 december 2012 bestaande eigenwoningschuld ingevolge het eerste lid, ten gevolge van een op 31 december 2012 bestaande onherroepelijke, schriftelijke overeenkomst van de belastingplichtige tot verwerving van een eigen woning;  
+
+c. in 2013 ontstaat, voor zover deze hoger is dan de op 31 december 2012 bestaande eigenwoningschuld ingevolge het eerste lid, ten gevolge van een op 31 december 2012 bestaande onherroepelijke, schriftelijke overeenkomst van de belastingplichtige tot het verrichten van onderhoud aan of tot verbetering van de woning, voor zover het onderhoud of de verbetering in 2013 voltooid is, of  
+
+d. de belastingplichtige, die op 31 december 2012 niet een zodanige eigenwoningschuld had, op enig moment vóór 31 december 2012 direct voorafgaand aan de vervreemding van een eigen woning had, indien die vervreemding het gevolg is van verhuur van de voormalige eigen woning, voor zover de belastingplichtige vóór 1 januari 2021 ter zake van diezelfde woning weer een zodanige eigenwoningschuld heeft.     
+3.  Indien na 31 december 2012 op de bestaande eigenwoningschuld van de belastingplichtige, bedoeld in het eerste lid wordt afgelost, wordt het bedrag van die bestaande eigenwoningschuld verminderd met die aflossing. Onder aflossing wordt voor de toepassing van dit lid niet verstaan het in een kalenderjaar geheel aflossen van een tot de bestaande eigenwoningschuld behorende schuld en het uiterlijk het daaropvolgende kalenderjaar ten minste voor dat bedrag opnieuw aangaan van een schuld in verband met een eigen woning (oversluiten). Indien de uiterlijk in het daaropvolgende kalenderjaar opnieuw aangegane schuld lager is dan het bedrag van de schuld voorafgaand aan het geheel aflossen, dan wordt dit verschil voor de toepassing van dit lid wel als aflossing aangemerkt.   
+4.  Indien ten aanzien van de belastingplichtige op 31 december 2012 twee woningen gelijktijdig als eigen woning worden aangemerkt en vervolgens één van die woningen niet langer als eigen woning wordt aangemerkt, wordt de bestaande eigenwoningschuld, bedoeld in het eerste lid, van de belastingplichtige verminderd met de tot de eigenwoningschuld behorende schuld die de belastingplichtige had in verband met de woning die niet langer als eigen woning wordt aangemerkt.   
+5.  Voor de toepassing van dit hoofdstuk zijn de artikelen 3.111 en 3.119aa, vierde lid, van overeenkomstige toepassing.   
+
+### Artikel  10bis.2  
+
+####Kapitaalverzekering, spaarrekening of beleggingsrecht eigen woning
+
+1.  Een kapitaalverzekering eigen woning, een spaarrekening eigen woning of een beleggingsrecht eigen woning is een op 31 december 2012 bestaande kapitaalverzekering eigen woning als bedoeld in artikel 3.116, tweede lid, zoals dat luidde op 31 december 2012, een op 31 december 2012 bestaande spaarrekening eigen woning als bedoeld in artikel 3.116a, tweede lid, zoals dat luidde op 31 december 2012, onderscheidenlijk een op 31 december 2012 bestaand beleggingsrecht eigen woning als bedoeld in artikel 3.116a, derde lid, zoals dat luidde op 31 december 2012, indien het ter zake van het betreffende product overeengekomen gegarandeerde kapitaal op 31 december 2012, of bij het ontbreken daarvan, het op grond van de betreffende overeenkomst zoals die luidde op 31 december 2012 te betalen bedrag, nadien niet is verhoogd en de looptijd na 31 december 2012 niet is verlengd.   
+2.  Indien de belastingplichtige op 31 december 2012 geen kapitaalverzekering eigen woning, spaarrekening eigen woning en beleggingsrecht eigen woning als bedoeld in het eerste lid had, wordt onder kapitaalverzekering eigen woning, spaarrekening eigen woning of beleggingsrecht eigen woning in de zin van het eerste lid mede verstaan de kapitaalverzekering eigen woning die, de spaarrekening eigen woning die, onderscheidenlijk het beleggingsrecht eigen woning dat: 
+
+a. de belastingplichtige in 2013 heeft, indien de belastingplichtige in 2012 een kapitaalverzekering eigen woning, spaarrekening eigen woning, onderscheidenlijk beleggingsrecht eigen woning, had, indien het ter zake van het betreffende product overeengekomen gegarandeerde kapitaal in 2012, of bij het ontbreken daarvan, het op grond van de betreffende overeenkomst zoals die in 2012 luidde te betalen bedrag, niet hoger is dan dat in 2012 op het moment direct voorafgaand aan de vervreemding van de eigen woning, doch ten hoogste het kapitaal, onderscheidenlijk het bedrag van dat product, in 2013;  
+
+b. in 2013 wordt overeengekomen, wordt geopend, onderscheidenlijk wordt aangehouden, in samenhang met een op 31 december 2012 bestaande onherroepelijke, schriftelijke overeenkomst van de belastingplichtige tot verwerving van een eigen woning.     
+3.  Indien de belastingplichtige een bestaande eigenwoningschuld heeft als bedoeld in artikel 10bis.1 en daarnaast een kapitaalverzekering heeft die slechts als gevolg van het in de overeenkomst ontbreken van de bepaling dat de begunstigde de uitkering zal aanwenden ter aflossing van de eigenwoningschuld, niet kwalificeert als kapitaalverzekering eigen woning en de belastingplichtige de genoemde bepaling voor 1 april 2013 alsnog opneemt in de overeenkomst, kwalificeert de genoemde kapitaalverzekering vanaf dat moment als kapitaalverzekering eigen woning, mits het ter zake van de kapitaalverzekering overeengekomen gegarandeerde kapitaal op 31 december 2012, of bij het ontbreken daarvan, het op grond van de betreffende overeenkomst zoals die luidde op 31 december 2012 te betalen bedrag, nadien niet is verhoogd en de looptijd na 31 december 2012 niet is verlengd. De eerste volzin is van overeenkomstige toepassing op spaarrekeningen eigen woning en beleggingsrechten eigen woning.   
+
+### Artikel  10bis.3  
+
+####Belastbare inkomsten uit eigen woning
+
+Onder de belastbare inkomsten uit eigen woning, bedoeld in artikel 3.110, worden mede begrepen het voordeel uit kapitaalverzekering eigen woning, het voordeel uit spaarrekening eigen woning en het voordeel uit beleggingsrecht eigen woning.  
+
+### Artikel  10bis.4  
+
+####Voordeel uit kapitaalverzekering eigen woning
+
+1.  Het voordeel uit kapitaalverzekering eigen woning is de rente die is begrepen in een kapitaalsuitkering uit levensverzekering die dient ter aflossing van de eigenwoningschuld.   
+2.  Van een kapitaalverzekering eigen woning is sprake zolang de verzekeringnemer of zijn partner een eigen woning heeft en: 
+
+a. in de overeenkomst is bepaald dat de begunstigde de uitkering zal aanwenden ter aflossing van de eigenwoningschuld;  
+
+b. in de overeenkomst is bepaald dat ten minste 15 jaar, of tot het overlijden van de verzekerde, jaarlijks premies ter zake van de verzekering worden voldaan waarbij de hoogste premie niet meer bedraagt dan het tienvoud van de laagste premie;  
+
+c. de verzekering recht geeft op een eenmalige kapitaalsuitkering bij leven of overlijden;  
+
+d. de premies voor de verzekering verschuldigd zijn aan een levensverzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).     
+3.  Een kapitaalverzekering eigen woning wordt geacht geheel tot uitkering te zijn gekomen bij de verzekeringnemer of, in geval van onherroepelijke begunstiging, bij de begunstigde, indien: 
+
+a. de verzekering niet meer voldoet aan de voorwaarden van het tweede lid;  
+
+b. de verzekering wordt afgekocht, behoudens voor zover sprake is van omzetting als bedoeld in artikel 10bis.8;  
+
+c. de verzekering wordt vervreemd, behoudens voor zover de verzekering in het kader van het aangaan of beëindigen van een partnerschap wordt omgezet in een of meer andere soortgelijke verzekeringen voor een of beide partners of voormalige partners;  
+
+d. de verzekering wordt ingebracht in het vermogen van een onderneming;  
+
+e. de verzekering gedeeltelijk tot uitkering komt dan wel, indien de verzekering recht geeft op eenmalige uitkeringen bij leven of overlijden van meer dan een verzekerde, per verzekerde gedeeltelijk tot uitkering komt;  
+
+f. niet jaarlijks premies ter zake van de verzekering worden voldaan als bedoeld in het tweede lid, onderdeel b, dan wel de hoogste premie meer bedraagt dan het tienvoud van de laagste premie;  
+
+g. de verzekering een looptijd van 30 jaar heeft overschreden, of  
+
+h. het overeengekomen gegarandeerde kapitaal op 31 december 2012 na 31 december 2012 wordt verhoogd, of bij het ontbreken van een gegarandeerd kapitaal, het op grond van de betreffende overeenkomst zoals die luidde op 31 december 2012 te betalen bedrag na 31 december 2012 wordt verhoogd of de looptijd na 31 december 2012 wordt verlengd.   De hoogte van de uitkering wordt voor de toepassing van de eerste volzin gesteld op de waarde in het economische verkeer van de verzekering.   
+4.  Indien de verzekeringnemer of, in geval van een onherroepelijke begunstiging, de begunstigde anders dan door overlijden ophoudt binnenlands belastingplichtig te zijn, wordt de kapitaalverzekering eigen woning geacht op het onmiddellijk daaraan voorafgaande tijdstip tot uitkering te zijn gekomen bij de verzekeringnemer of, in geval van een onherroepelijke begunstiging, bij de begunstigde en de hoogte van de uitkering gesteld op de waarde in het economische verkeer van de verzekering. Onder ophouden binnenlands belastingplichtig te zijn wordt mede verstaan de situatie waarin de verzekeringnemer, onderscheidenlijk de begunstigde, voor de toepassing van de Belastingregeling voor het Koninkrijk, de Belastingregeling voor het land Nederland of een verdrag ter voorkoming van dubbele belasting wordt geacht geen inwoner van Nederland meer te zijn.   
+5.  Indien bij de belastingplichtige ingevolge het vierde lid een uitkering in aanmerking is genomen ter zake waarvan een conserverende aanslag is opgelegd en de belastingplichtige weer binnenlands belastingplichtig is en in de tussentijd: 
+
+a. zich niet een omstandigheid heeft voorgedaan waardoor de woning is opgehouden een eigen woning te zijn in de zin van artikel 3.111;  
+
+b. de belastingplichtige niet een voordeel heeft genoten als bedoeld in het eerste lid; en  
+
+c. zich niet een omstandigheid heeft voorgedaan als bedoeld in het derde lid;   wordt op diens verzoek het geconserveerde inkomen van het jaar waarin de uitkering in aanmerking is genomen, verlaagd met de waarde van die uitkering voor zover deze waarde tot het geconserveerde inkomen is gerekend. De inspecteur vermindert dienovereenkomstig de conserverende aanslag bij voor bezwaar vatbare beschikking. Rechtsmiddelen tegen deze beschikking kunnen uitsluitend betrekking hebben op de grootte van de vermindering.   
+6.  De rente begrepen in een uitkering uit een kapitaalverzekering eigen woning wordt gesteld op het bedrag waarmee de uitkering overtreft wat ter zake van de verzekering aan premies is voldaan.   
+7.  Onder premies ter zake van een kapitaalverzekering eigen woning worden mede begrepen: 
+
+a. bij een uitkering bij leven: premies voor bij dezelfde overeenkomst verzekerde uitkeringen bij overlijden of uitkeringen of vrijstelling van premiebetaling bij invaliditeit, voor zover die uitkeringen gezamenlijk niet meer bedragen dan driemaal het verzekerde kapitaal bij leven;  
+
+b. bij een uitkering bij overlijden: premies voor bij dezelfde overeenkomst verzekerde uitkeringen bij leven, uitkeringen of vrijstelling van premiebetaling bij invaliditeit of uitkeringen bij overlijden ten gevolge van een ongeval, voor zover die uitkeringen gezamenlijk niet meer bedragen dan driemaal het verzekerde kapitaal bij overlijden.     
+8.  Indien een kapitaalverzekering eigen woning is voortgekomen uit een levensverzekering die na 14 september 1999 tot stand gekomen is en die geen kapitaalverzekering eigen woning was, wordt op het moment dat wordt voldaan aan de voorwaarden voor een kapitaalverzekering eigen woning, indien dat uiterlijk op 31 december 2012 het geval is, mede als premie ter zake van de kapitaalverzekering eigen woning aangemerkt de waarde in het economische verkeer van de oude polis verminderd met de daarop gestorte premies (overschot). Voor de beoordeling van de voorwaarde of de hoogste en de laagste premie blijft binnen de in het tweede lid, onderdeel b, bedoelde bandbreedte, blijft het overschot buiten aanmerking.   
+9.  De keuze, bedoeld in artikel 2.5, geldt niet voor de toepassing van het vierde lid.   
+10.  Als te conserveren inkomen als bedoeld in artikel 2.8, worden mede aangemerkt de positieve inkomensbestanddelen die in aanmerking zijn genomen op grond van het vierde lid.   
+11.  In afwijking van het bepaalde in artikel 3.146, wordt de in het derde en vierde lid bedoelde waarde in het economische verkeer van de kapitaalverzekering eigen woning geacht te zijn genoten op het tijdstip van de fictieve uitkering.   
+
+### Artikel  10bis.5  
+
+####Voordeel uit spaarrekening eigen woning of beleggingsrecht eigen woning
+
+1.  Het voordeel uit spaarrekening eigen woning is het rendement dat op het tijdstip van deblokkering is begrepen in het tegoed van een spaarrekening eigen woning. Het voordeel uit beleggingsrecht eigen woning is het rendement dat op het tijdstip van deblokkering is begrepen in de waarde van een beleggingsrecht eigen woning.   
+2.  Van een spaarrekening eigen woning is sprake indien het betreft een rekening bij een bank waarbij de volgende voorwaarden in acht worden genomen: 
+
+a. de rekeninghouder of zijn partner heeft een eigen woning met een eigenwoningschuld;  
+
+b. de rekening is geblokkeerd en wordt slechts eenmalig gedeblokkeerd ter aflossing van de eigenwoningschuld;  
+
+c. ten minste 15 jaar, of tot het overlijden van de rekeninghouder of zijn partner, wordt jaarlijks een bedrag naar de rekening overgemaakt waarbij het hoogste totaal van in een jaar naar de rekening overgemaakte bedragen niet meer bedraagt dan het tienvoud van het laagste totaal van in een jaar overgemaakte bedragen; ingeval een spaarrekening met ingang van enig tijdstip wordt aangeduid als spaarrekening eigen woning wordt het op dat tijdstip aanwezige tegoed aangemerkt als eerste overmaking;  
+
+d. de op de rekening genoten inkomsten worden bijgeboekt op de rekening; bij deblokkering in de loop van het tijdvak waarover inkomsten worden genoten, vindt eerst nog bijboeking van die inkomsten plaats voordat tot deblokkering wordt overgegaan;  
+
+e. de bank is een financiële onderneming die ingevolge de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van bank mag uitoefenen.     
+3.  Van een beleggingsrecht eigen woning is sprake indien het betreft bij een beheerder van een beleggingsinstelling aangehouden rechten van deelneming in die instelling waarbij de volgende voorwaarden in acht worden genomen: 
+
+a. de eigenaar van het beleggingsrecht of zijn partner heeft een eigen woning met een eigenwoningschuld;  
+
+b. het beleggingsrecht is geblokkeerd en wordt slechts eenmalig gedeblokkeerd ter aflossing van de eigenwoningschuld;  
+
+c. ten minste 15 jaar, of tot het overlijden van de eigenaar van het beleggingsrecht of zijn partner, wordt jaarlijks een bedrag naar de beheerder overgemaakt ter verkrijging van rechten van deelneming waarbij het hoogste totaal van in een jaar naar de beheerder overgemaakte bedragen niet meer bedraagt dan het tienvoud van het laagste totaal van in een jaar overgemaakte bedragen; ingeval een beleggingsrecht met ingang van enig tijdstip wordt aangeduid als beleggingsrecht eigen woning wordt de waarde in het economische verkeer van het recht op dat tijdstip aangemerkt als eerste overmaking;  
+
+d. het met het beleggingsrecht behaalde rendement wordt aangewend ter verkrijging van rechten van deelneming die tot het beleggingsrecht gaan behoren;  
+
+e. de beheerder is een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van beleggingsinstelling mag uitoefenen.     
+4.  Een spaarrekening eigen woning of een beleggingsrecht eigen woning wordt geacht geheel te zijn gedeblokkeerd indien: 
+
+a. op enig tijdstip de spaarrekening, onderscheidenlijk het beleggingsrecht, niet meer voldoet aan de voorwaarden van het tweede lid, onderscheidenlijk van het derde lid;  
+
+b. de spaarrekening, onderscheidenlijk het beleggingsrecht, wordt vervreemd of verdeeld, behoudens voor zover sprake is van vervreemding of verdeling in het kader van het aangaan of beëindigen van een partnerschap en de spaarrekening, onderscheidenlijk het beleggingsrecht, wordt gecontinueerd als een spaarrekening eigen woning, onderscheidenlijk beleggingsrecht eigen woning;  
+
+c. de spaarrekening, onderscheidenlijk het beleggingsrecht, wordt ingebracht in het vermogen van een onderneming;  
+
+d. de spaarrekening, onderscheidenlijk het beleggingsrecht, gedeeltelijk wordt gedeblokkeerd;  
+
+e. 30 jaren zijn verstreken na de eerste overmaking op de spaarrekening, onderscheidenlijk na de eerste overmaking naar de beheerder van de beleggingsinstelling;  
+
+f. de rekeninghouder van de spaarrekening, onderscheidenlijk de eigenaar van het beleggingsrecht, komt te overlijden; in dat geval wordt de deblokkering geacht te hebben plaatsgevonden op het onmiddellijk daaraan voorafgaande tijdstip; er wordt geen deblokkering verondersteld bij een continuering als bedoeld in onderdeel b, of  
+
+g. het overeengekomen gegarandeerde kapitaal op 31 december 2012 na 31 december 2012 wordt verhoogd, of bij het ontbreken van een gegarandeerd kapitaal, het op grond van de betreffende overeenkomst zoals die luidde op 31 december 2012 te betalen bedrag na 31 december 2012 wordt verhoogd of de looptijd na 31 december 2012 wordt verlengd.     
+5.  Artikel 10bis.4, vierde en vijfde lid, is van overeenkomstige toepassing. Daarbij wordt gelezen voor: 
+
+a. verzekeringnemer: rekeninghouder van een spaarrekening eigen woning, onderscheidenlijk eigenaar van een beleggingsrecht eigen woning;  
+
+b. kapitaalverzekering eigen woning: spaarrekening eigen woning, onderscheidenlijk beleggingsrecht eigen woning;  
+
+c. tot uitkering te zijn gekomen: te zijn gedeblokkeerd.     
+6.  Het rendement begrepen in een tegoed van een spaarrekening eigen woning wordt gesteld op het bedrag waarmee het tegoed de naar de spaarrekening overgemaakte bedragen overtreft. Het rendement begrepen in de waarde van een beleggingsrecht eigen woning wordt gesteld op het bedrag waarmee de waarde van het recht de naar de beheerder overgemaakte bedragen overtreft.   
+7.  In afwijking van het bepaalde in artikel 3.146, is ingeval het vierde of vijfde lid toepassing vindt, het tijdstip waarop geacht wordt deblokkering te hebben plaatsgevonden het tijdstip van genieten van het voordeel uit spaarrekening eigen woning of beleggingsrecht eigen woning.   
+8.  In afwijking van artikel 9.2, eerste lid, wordt dividendbelasting niet als voorheffing in aanmerking genomen indien de dividendbelasting is ingehouden op de opbrengst die deel uitmaakt van een spaarrekening eigen woning of een beleggingsrecht eigen woning.   
+9.  Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit artikel.   
+
+### Artikel  10bis.6  
+
+####Vrijstelling kapitaalverzekering eigen woning
+
+1.  Tot het voordeel uit kapitaalverzekering eigen woning behoort niet de rente begrepen in de uitkering uit een kapitaalverzekering eigen woning voor zover de uitkering niet meer bedraagt dan € 157 000 indien: 
+
+a. de uitkering heeft gediend als aflossing van de eigenwoningschuld;  
+
+b. ter zake van de verzekering ten minste 20 jaar, of, indien de verzekering tot uitkering komt door eerder overlijden, tot het overlijden, jaarlijks premies zijn voldaan en  
+
+c. de hoogste premie niet meer heeft bedragen dan het tienvoud van de laagste.   In afwijking in zoverre van de eerste volzin, aanhef en onderdeel b, wordt de rente die is begrepen in de uitkering uit een kapitaalverzekering eigen woning, voor zover deze uitkering niet meer bedraagt dan € 35 700, niet als voordeel uit kapitaalverzekering aangemerkt indien ter zake van de verzekering ten minste 15 jaar jaarlijks premies zijn voldaan.   
+2.  De in het eerste lid, onderdelen a en b, genoemde voorwaarden gelden niet indien: 
+
+a. de verzekeringnemer of zijn partner geen eigen woning meer ter beschikking staat en ter zake daarvan de verzekering tot uitkering is gekomen of wordt geacht tot uitkering te zijn gekomen of  
+
+b. de verzekering wordt geacht tot uitkering te zijn gekomen door het ophouden binnenlands belastingplichtig te zijn als bedoeld in artikel 10bis.4, vierde lid.     
+3.  De bedragen bepaald op grond van het eerste lid worden verminderd met het bedrag aan uitkering uit een kapitaalverzekering dat eerder ten aanzien van de belastingplichtige voor de toepassing van het eerste lid in aanmerking is genomen, alsmede met het tegoed van een spaarrekening eigen woning dat eerder ten aanzien van de belastingplichtige voor de toepassing van de vrijstelling van artikel 10bis.7 in aanmerking is genomen en met de waarde van een beleggingsrecht eigen woning dat eerder ten aanzien van de belastingplichtige voor de toepassing van de vrijstelling van genoemd artikel in aanmerking is genomen.   
+4.  Indien op het tijdstip van de uitkering het bedrag van de eigenwoningschuld lager is dan het op grond van het eerste en het derde lid bepaalde bedrag, wordt het in het eerste lid, in verbinding met het derde lid, bepaalde bedrag vervangen door het bedrag van de eigenwoningschuld.   
+5.  Indien de belastingplichtige een levensverzekering heeft die ten aanzien van hem tot enig moment heeft voldaan aan de voorwaarden voor een kapitaalverzekering eigen woning en ter zake van die verzekering binnen drie jaren na dat moment wederom wordt voldaan aan de voorwaarden voor een kapitaalverzekering eigen woning, worden de in het eerste lid genoemde bedragen verhoogd met een bedrag gelijk aan de in het derde lid bedoelde vermindering wegens de eerdere toepassing van het eerste lid op deze verzekering. De rente begrepen in de in de eerste volzin bedoelde verhoging, komt in mindering op het overschot, bedoeld in artikel 10bis.4, achtste lid.   
+6.  Indien bij de belastingplichtige ingevolge artikel 10bis.4, vierde lid, een uitkering uit een kapitaalverzekering eigen woning in aanmerking is genomen en de belastingplichtige weer binnenlands belastingplichtig is en: 
+
+a. zich niet een omstandigheid heeft voorgedaan waardoor de woning is opgehouden een eigen woning te zijn in de zin van artikel 3.111;  
+
+b. de belastingplichtige ter zake van die kapitaalverzekering eigen woning niet een voordeel heeft genoten als bedoeld in artikel 10bis.4, eerste lid; en  
+
+c. ter zake van die kapitaalverzekering zich niet een omstandigheid heeft voorgedaan als bedoeld in artikel 10bis.4, derde lid;   worden de in het eerste lid genoemde bedragen verhoogd met een bedrag gelijk aan de in het derde lid bedoelde vermindering wegens de eerdere toepassing van het eerste lid op die kapitaalverzekering.   
+7.  Indien één of meer kapitaalverzekeringen eigen woning tot uitkering komen door het overlijden van de partner wordt het op grond van de voorgaande leden vast te stellen bedrag ten behoeve van de langstlevende partner verhoogd met het bedrag dat de overleden partner ter zake van deze kapitaalverzekeringen op grond van de voorgaande leden nog in aanmerking had kunnen nemen onmiddellijk voorafgaande aan zijn overlijden. Deze verhoging kan niet groter zijn dan het totale bedrag dat uit levensverzekering wordt uitgekeerd ten gevolge van het overlijden van de partner.   
+8.  Indien één of meer kapitaalverzekeringen eigen woning tot uitkering komen door het overlijden van een persoon die geen partner is van de begunstigde, geldt voor de begunstigde ten aanzien van deze verzekeringen in plaats van het op grond van de voorgaande leden vast te stellen bedrag het bedrag dat de overleden persoon ter zake van deze kapitaalverzekeringen op grond van de voorgaande leden nog in aanmerking had kunnen nemen onmiddellijk voorafgaande aan zijn overlijden. Indien verschillende begunstigden een uitkering als bedoeld in de eerste volzin ontvangen, geldt voor de begunstigde onverkort hetgeen daar is bepaald met dien verstande dat het daar bedoelde bedrag dat de overleden persoon nog in aanmerking had kunnen nemen naar rato van de uitkeringen aan onderscheiden begunstigden in aanmerking wordt genomen.   
+
+### Artikel  10bis.7  
+
+####Vrijstelling spaarrekening eigen woning en vrijstelling beleggingsrecht eigen woning
+
+Met betrekking tot het voordeel uit spaarrekening eigen woning, onderscheidenlijk het voordeel uit beleggingsrecht eigen woning, geldt een vrijstelling waarvan de omvang wordt berekend met overeenkomstige toepassing van artikel 10bis.6, met dien verstande dat het zevende en achtste lid van dat artikel slechts toepassing vinden bij een continuering als bedoeld in artikel 10bis.5, vierde lid, onderdeel f. Daarbij is artikel 10bis.5, vijfde lid, tweede volzin, van toepassing en wordt voorts voor premies gelezen: naar een spaarrekening eigen woning overgemaakte bedragen, onderscheidenlijk naar een beheerder van een beleggingsrecht overgemaakte bedragen.  
+
+### Artikel  10bis.8  
+
+####Omzetting kapitaalverzekering eigen woning, spaarrekening eigen woning of beleggingsrecht eigen woning
+
+1.  Voor zover een kapitaalverzekering eigen woning, een spaarrekening eigen woning of een beleggingsrecht eigen woning wordt omgezet in een andere soortgelijke verzekering, een andere soortgelijke spaarrekening of een ander soortgelijk beleggingsrecht, en indien het overeengekomen gegarandeerde kapitaal op 31 december 2012, of bij het ontbreken daarvan, het op grond van de betreffende overeenkomst zoals die luidde op 31 december 2012 te betalen bedrag, nadien niet is verhoogd en de looptijd na 31 december 2012 niet is verlengd, wordt de laatstgenoemde verzekering, de laatstgenoemde spaarrekening, onderscheidenlijk het laatstgenoemde beleggingsrecht, voor de toepassing van dit hoofdstuk geacht een voortzetting te zijn van de eerstgenoemde verzekering, de eerstgenoemde spaarrekening, onderscheidenlijk het eerstgenoemde beleggingsrecht.   
+2.  Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit artikel.   
+
+### Artikel  10bis.9  
+
+####Eigenwoningschuld en eigenwoningreserve
+
+1.  Onder eigenwoningschuld als bedoeld in artikel 3.119a, eerste lid, wordt mede verstaan de bestaande eigenwoningschuld als bedoeld in artikel 10bis.1, eerste lid, voor zover deze niet door de toepassing van de eigenwoningreserve is verminderd.   
+2.  Voor de toepassing van artikel 3.119aa, eerste lid, worden tot de eigenwoningschuld mede gerekend de schulden, bedoeld in artikel 10bis.10, derde en vierde lid.   
+
+### Artikel  10bis.10  
+
+####Aftrekbare kosten eigen woning
+
+1.  De renten van schulden die behoren tot de bestaande eigenwoningschuld als bedoeld in artikel 10bis.1, eerste lid, worden gedurende ten hoogste 30 jaren in aanmerking genomen als aftrekbare kosten met betrekking tot een eigen woning. De duur van de termijn van 30 jaren vangt aan bij het begin van het eerste tijdvak waarop de renten van deze schulden, die als bestanddeel van het inkomen uit werk en woning in aftrek zijn gebracht, betrekking hadden en eindigt op het tijdstip waarop de gehele schuld wordt afgelost. Indien een tot de bestaande eigenwoningschuld behorende schuld wordt overgesloten als bedoeld in artikel 10bis.1, derde lid, worden de renten slechts in aanmerking genomen voor zover de termijn van 30 jaren nog niet is verstreken.   
+2.  Indien artikel 3.111, tweede of derde lid, van toepassing is, kunnen de renten van de bestaande eigenwoningschuld als bedoeld in artikel 10bis.1, eerste lid, als aftrekbare kosten met betrekking tot een eigen woning in aanmerking worden genomen, tenzij ter zake van die schuld of een gedeelte daarvan de termijn van 30 jaren reeds is verstreken. Voor het gedeelte van de schuld dat overeenstemt met de laatste omvang van het totaal van de schulden op het moment direct voorafgaand aan de verwerving van de tweede eigen woning, die zijn aangegaan voor de verwerving van een eigen woning als bedoeld in artikel 3.111, eerste lid, en waarvoor op grond van het eerste lid een termijn van 30 jaren in aanmerking wordt genomen, heeft in afwijking in zoverre van het tweede lid dat gedeelte geen invloed op de duur van de termijn van 30 jaren.   
+3.  Tot de aftrekbare kosten van een eigen woning worden niet gerekend renten van schulden, kosten van geldlening daaronder begrepen, die behoren tot de bestaande eigenwoningschuld, bedoeld in artikel 10bis.1, eerste lid, aangegaan ter verwerving van de eigen woning of een gedeelte daarvan, indien de eigen woning of een gedeelte daarvan direct of indirect is verkregen van de partner van de belastingplichtige, voor zover het totaal van de schulden die de belastingplichtige en zijn partner zijn aangegaan ter verwerving van de woning, na deze verkrijging meer bedraagt dan vóór de vervreemding van de woning of een gedeelte daarvan door zijn partner.   
+4.  Voor de toepassing van artikel 3.120, eerste lid, onderdeel a, worden renten van schulden die betrekking hebben op per 31 december 1995 bestaande schulden, die behoren tot de bestaande eigenwoningschuld, bedoeld in artikel 10bis.1, eerste lid, voor zover deze schulden per die datum verzekerd waren door een hypotheek op een eigen woning en zulks nog steeds zijn met betrekking tot dezelfde woning, aangemerkt als aftrekbare kosten die verband houden met de eigen woning waarop de hypotheek is gevestigd.   
+
+### Artikel  10bis.11  
+
+####Aftrekbare kosten na eerder gebruik vrijstelling kapitaalverzekering, spaarrekening of beleggingsrecht eigen woning
+
+1.  De tot de bestaande eigenwoningschuld behorende schulden worden slechts in aanmerking genomen tot ten hoogste het bedrag dat is aangewend voor de verwerving van de eigen woning verminderd met het gedeelte van het bedrag van de uitkeringen uit kapitaalverzekeringen eigen woning ter zake waarvan de daarin begrepen rente eerder op grond van artikel 3.118, zoals dat artikel luidde op 31 december 2012, of artikel 10bis.6 niet als voordeel uit kapitaalverzekering eigen woning is aangemerkt.   
+2.  Indien de belastingplichtige een eigen woning verwerft en ter zake van een kapitaalverzekering eigen woning in een van de drie daaraan voorafgaande jaren artikel 3.118, zoals dat artikel luidde op 31 december 2012, of artikel 10bis.6 toepassing heeft gevonden en deze verzekering bij de verwerving een kapitaalverzekering eigen woning wordt, wordt vanaf dat tijdstip voor de toepassing van het eerste lid artikel 3.118, zoals dat artikel luidde op 31 december 2012, onderscheidenlijk artikel 10bis.6, geacht geen toepassing te hebben gevonden.   
+3.  Indien bij de belastingplichtige op grond van artikel 10bis.4, vierde lid, een uitkering uit een kapitaalverzekering eigen woning in aanmerking is genomen, en zolang: 
+
+a. zich niet een omstandigheid voordoet waardoor de woning ophoudt een eigen woning te zijn in de zin van artikel 3.111;  
+
+b. de belastingplichtige ter zake van die kapitaalverzekering eigen woning niet een voordeel geniet als bedoeld in artikel 10bis.4, eerste lid; en  
+
+c. ter zake van die kapitaalverzekering eigen woning zich niet een omstandigheid voordoet als bedoeld in artikel 10bis.4, derde lid;   wordt voor de toepassing van het eerste lid de uitkering uit die kapitaalverzekering eigen woning op grond van artikel 10bis.4, vierde lid, genegeerd.   
+4.  Dit artikel is van overeenkomstige toepassing bij een spaarrekening eigen woning en een beleggingsrecht eigen woning. Ter zake kunnen bij ministeriële regeling nadere regels worden gesteld.   
+
+### Artikel  10bis.12  
+
+####Indexatie
+
+Bij het begin van het kalenderjaar worden de in artikel 10bis.6, eerste lid, vermelde bedragen bij ministeriële regeling gewijzigd in andere bedragen. Deze bedragen worden berekend door de te wijzigen bedragen te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in artikel 10.2, en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande kalenderjaar een dergelijke afronding is toegepast, kan bij wijziging worden uitgegaan van de niet-afgeronde bedragen.  
 
 ### Hoofdstuk  10A  
 
-####Overgangsrecht ten gevolge van wijzigingswetten
+####Overig overgangsrecht ten gevolge van wijzigingswetten
 
 ### Artikel  10a.1  
 
@@ -5246,7 +5203,16 @@ Artikel 5.11, zoals dat artikel op 31 december 2011 luidde, blijft van toepass
 
 ####Overgangsbepaling levensloopregelingen
 
-Bij toepassing van [artikel 39d van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) blijven de artikelen 8.2, onderdeel l, 8.9, eerste lid, 8.18a, eerste lid, eerste volzin, en tweede lid, 9.2, vierde lid, en 10.1, zoals deze bepalingen op 31 december 2011 luidden, van toepassing, met dien verstande dat bij de toepassing van artikel 8.18a, tweede lid, zoals deze bepaling op 31 december 2011 luidde, kalenderjaren die na 31 december 2011 zijn geëindigd buiten beschouwing blijven.  
+Bij toepassing van [artikel 39d van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) zijn de artikelen 8.2, onderdeel l, 8.9, eerste lid, 8.18a, eerste lid, eerste volzin, en tweede lid, 9.2, vierde lid, en 10.1, zoals deze bepalingen op 31 december 2011 luidden, met inachtneming van bij of krachtens algemene maatregel van bestuur te stellen regels van overeenkomstige toepassing, met dien verstande dat bij de overeenkomstige toepassing van artikel 8.18a, tweede lid, zoals deze bepaling op 31 december 2011 luidde, kalenderjaren die na 31 december 2011 zijn geëindigd buiten beschouwing blijven.  
+
+### Artikel  10a.12  
+
+####Overgangsrecht tijdelijke oudedagslijfrenten bij verhoging van de AOW-leeftijd
+
+1.  Op aanspraken die uitsluitend dan wel mede betrekking hebben op lijfrenten als bedoeld in artikel 3.125, eerste lid, onderdeel c, zoals dit onderdeel luidde op 31 december 2013, die niet voldoen aan de met ingang van 1 januari 2014 in artikel 3.125, eerste lid, onderdeel c, gestelde voorwaarden, blijven de op 31 december 2013 geldende bepalingen die verband houden met de aanspraken op dergelijke lijfrenten van toepassing, voor zover de aanspraken op dergelijke lijfrenten voortvloeien uit premies of bedragen die vóór 1 januari 2014 in aanmerking zijn genomen als uitgaven voor inkomensvoorzieningen.   
+2.  Indien ter zake van een overeenkomst waarin een aanspraak is opgenomen die mede betrekking heeft op lijfrenten als bedoeld in artikel 3.125, eerste lid, onderdeel c, zoals dit onderdeel luidde op 31 december 2013, die niet voldoen aan de met ingang van 1 januari 2014 in artikel 3.125, eerste lid, onderdeel c, gestelde voorwaarden, nog premies worden voldaan, worden die premies geacht geen betrekking te hebben op lijfrenten als bedoeld in genoemd onderdeel c.   
+3.  Indien ter zake van een overeenkomst waarin een aanspraak is opgenomen die uitsluitend of mede betrekking heeft op lijfrenten als bedoeld in artikel 3.125, eerste lid, onderdeel c, zoals dit onderdeel luidde op 31 december 2013, die niet voldoen aan de met ingang van 1 januari 2014 in artikel 3.125, eerste lid, onderdeel c, gestelde voorwaarden, ook na 31 december 2013 nog premies worden voldaan, is aanwending van opgebouwde aanspraken voor lijfrenten als bedoeld in genoemd onderdeel c slechts mogelijk tot ten hoogste een bedrag gelijk aan de waarde in het economische verkeer van die aanspraak op 31 december 2013. Voor zover de in de eerste volzin bedoelde aanspraken tot een hoger bedrag dan de aldaar bedoelde waarde worden aangewend voor lijfrenten als bedoeld in genoemd onderdeel c, is artikel 3.133, eerste lid, van overeenkomstige toepassing.   
+4.  De vorige leden zijn van overeenkomstige toepassing op het tegoed van de lijfrentespaarrekening of de waarde van het lijfrentebeleggingsrecht waarop artikel 3.126a, vierde lid, onderdeel a, onder 3°, zoals dat luidde op 31 december 2013, van toepassing is.   
 
 ### Hoofdstuk  10b  
 
@@ -5256,7 +5222,9 @@ Bij toepassing van [artikel 39d van de Wet op de loonbelasting 1964](../../../..
 
 ####Horizonbepaling
 
-Artikel 6.39a vervalt met ingang van 1 januari 2017.  
+1.  Artikel 6.39a vervalt met ingang van 1 januari 2017.   
+2.  Artikel 3.13, eerste lid, onderdeel j, vervalt met ingang van 1 januari 2018.   
+3.  Artikel 8.12 vervalt met ingang van 1 januari 2020.   
 
 ### Hoofdstuk  11  
 

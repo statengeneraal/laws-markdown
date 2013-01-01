@@ -15,7 +15,7 @@ De op 18 december 1997 te Brussel totstandgekomen Overeenkomst opgesteld op gron
 
 ### Artikel  2  
 
-Indien een vraag die betrekking heeft op de uitlegging van het in artikel 1 genoemde verdrag aan de orde komt in een zaak aanhangig voor een tot de rechterlijke macht behorend gerecht dan wel een administratieve rechter waarvan de beslissingen niet vatbaar zijn voor een hoger beroep, en deze instantie een beslissing nodig acht voor haar uitspraak, is deze instantie gehouden zich tot het Hof van Justitie van de Europese Gemeenschappen te wenden.  
+Indien een vraag die betrekking heeft op de uitlegging van het in artikel 1 genoemde verdrag aan de orde komt in een zaak aanhangig voor een tot de rechterlijke macht behorend gerecht dan wel een bestuursrechter waarvan de beslissingen niet vatbaar zijn voor een hoger beroep, en deze instantie een beslissing nodig acht voor haar uitspraak, is deze instantie gehouden zich tot het Hof van Justitie van de Europese Gemeenschappen te wenden.  
 
 ### Artikel  3  
 

@@ -119,10 +119,31 @@ Deze wet is niet van toepassing op de personen, bedoeld in bijlage A bij deze we
 
 ### Artikel  1.5  
 
-1.  Het is aan een ieder die uit hoofde van de toepassing van deze wet of van krachtens deze wet genomen besluiten enige taak vervult of heeft vervuld verboden van gegevens of inlichtingen, die ingevolge deze wet zijn verstrekt of ontvangen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitoefening van zijn taak of door deze wet wordt geëist.   
-2.  Indien de toezichtautoriteit bij de uitoefening van haar taak feiten ontdekt die kunnen duiden op witwassen of financieren van terrorisme, licht zij, in afwijking van het eerste lid en eventuele andere toepasselijke wettelijke geheimhoudingsbepalingen, het meldpunt in.   
-3.  Onze Minister kan ontheffing verlenen van het in het eerste lid vervatte verbod aan de personen die ingevolge de [Douane- en Accijnswet BES of artikel 5.4, tweede lid](../../../../../../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn belast met het toezicht op de naleving van hoofdstuk 4.   
-4.  Onze Minister van Veiligheid en Justitie kan ontheffing verlenen van het in het eerste lid vervatte verbod aan de ambtenaren van de Koninklijke marechaussee bevoegd inzake paspoortcontrole.   
+1.  Het is aan een ieder die uit hoofde van de toepassing van deze wet of van krachtens deze wet genomen besluiten enige taak vervult of heeft vervuld verboden van gegevens of inlichtingen, die ingevolge deze wet zijn verstrekt of ontvangen, of van een buitenlandse toezichthoudende instantie zijn ontvangen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitoefening van zijn taak of door deze wet wordt geëist.   
+2.  De toezichtautoriteit is in afwijking van het eerste lid bevoegd gegevens of inlichtingen, die ingevolge deze wet zijn verstrekt of ontvangen of van een buitenlandse toezichthoudende instantie zijn ontvangen, te verstrekken aan een andere toezichtautoriteit of aan een buitenlandse toezichthoudende instantie, tenzij: 
+
+a. het doel waarvoor de gegevens of inlichtingen zullen worden gebruikt onvoldoende bepaald is;  
+
+b. het beoogde gebruik van de gegevens of inlichtingen niet past in het kader van het toezicht op wetgeving ter voorkoming van witwassen en financieren van terrorisme;  
+
+c. de verstrekking van de gegevens of inlichtingen zich niet zou verdragen met de wet of de openbare orde van de openbare lichamen;  
+
+d. de geheimhouding van de gegevens of inlichtingen niet in voldoende mate is gewaarborgd;  
+
+e. de verstrekking van de gegevens of inlichtingen redelijkerwijs in strijd is of zou kunnen komen met de belangen die deze wet beoogt te beschermen;  
+
+f. onvoldoende is gewaarborgd dat de gegevens of inlichtingen niet zullen worden gebruikt voor een ander doel dan waarvoor deze worden verstrekt.     
+3.  Voor zover de gegevens of inlichtingen, bedoeld in het tweede lid, zijn verkregen van een buitenlandse toezichthoudende instantie, verstrekt de toezichtautoriteit deze niet aan een andere toezichtautoriteit of aan een andere buitenlandse toezichthoudende instantie, tenzij de buitenlandse toezichthoudende instantie waarvan de gegevens of inlichtingen zijn verkregen uitdrukkelijk heeft ingestemd met de verstrekking van de gegevens of inlichtingen en in voorkomend geval heeft ingestemd met het gebruik voor een ander doel dan waarvoor de gegevens of inlichtingen zijn verstrekt.   
+4.  Indien een buitenlandse toezichthoudende instantie aan de toezichtautoriteit die de gegevens of inlichtingen op grond van het tweede of derde lid heeft verstrekt, verzoekt om die gegevens of inlichtingen te mogen gebruiken voor een ander doel dan waarvoor zij zijn verstrekt, willigt de toezichtautoriteit dat verzoek slechts in: 
+
+a. indien het beoogde gebruik niet in strijd is met het tweede of derde lid; of  
+
+b. voorzover die toezichthoudende instantie op een andere wijze dan in deze wet voorzien vanuit Nederland met inachtneming van de daarvoor geldende wettelijke procedures voor dat andere doel de beschikking over die gegevens of inlichtingen zou kunnen verkrijgen; en  
+
+c. na overleg met Onze Minister van Veiligheid en Justitie, indien het in de aanhef bedoelde verzoek betrekking heeft op een onderzoek naar strafbare feiten.     
+5.  Indien de toezichtautoriteit bij de uitoefening van haar taak feiten ontdekt die kunnen duiden op witwassen of financieren van terrorisme, licht zij, in afwijking van het eerste lid en eventuele andere toepasselijke wettelijke geheimhoudingsbepalingen, het meldpunt in.   
+6.  Onze Minister kan ontheffing verlenen van het in het eerste lid vervatte verbod aan de personen die ingevolge de [Douane- en Accijnswet BES of artikel 5.4, tweede lid](../../../../../../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn belast met het toezicht op de naleving van hoofdstuk 4.   
+7.  Onze Minister van Veiligheid en Justitie kan ontheffing verlenen van het in het eerste lid vervatte verbod aan de ambtenaren bevoegd inzake paspoortcontrole.   
 
 ### Artikel  1.6  
 
@@ -132,6 +153,11 @@ Deze wet is niet van toepassing op de personen, bedoeld in bijlage A bij deze we
 ### Artikel  1.7  
 
 De rechtsgeldigheid van een privaatrechtelijke rechtshandeling van een dienstverlener welke is verricht in strijd met de bij of krachtens deze wet gestelde regels is niet uit dien hoofde aantastbaar.  
+
+### Artikel  1.8  
+
+1.  Ter voorkoming van witwassen en financieren van terrorisme verricht een dienstverlener cliëntenonderzoek en meldt hij verrichte of voorgenomen ongebruikelijke transacties overeenkomstig de bij of krachtens de hoofdstukken 2 en 3 gestelde regels. Daarbij besteedt een dienstverlener bijzondere aandacht aan ongebruikelijke transactiepatronen en aan transacties die naar hun aard een hoger risico op witwassen of financieren van terrorisme met zich brengen.   
+2.  Een dienstverlener treft adequate maatregelen ter voorkoming van risico’s op witwassen en financieren van terrorisme die kunnen ontstaan door het gebruik van nieuwe technologieën in het economisch verkeer.   
 
 ### Hoofdstuk  2  
 
@@ -156,7 +182,11 @@ b. indien van toepassing, de uiteindelijk belanghebbende te identificeren en ade
 
 c. het doel en de beoogde aard van de zakelijke relatie vast te stellen;  
 
-d. voor zover mogelijk, een voortdurende controle op de zakelijke relatie en de tijdens de duur van deze relatie verrichte transacties uit te voeren, teneinde te verzekeren dat deze overeenkomen met de kennis die de dienstverlener heeft van de cliënt en van zijn risicoprofiel, met in voorkomend geval een onderzoek naar de bron van het vermogen.     
+d. voor zover mogelijk, een voortdurende controle op de zakelijke relatie en de tijdens de duur van deze relatie verrichte transacties uit te voeren, teneinde te verzekeren dat deze overeenkomen met de kennis die de dienstverlener heeft van de cliënt en van zijn risicoprofiel, met in voorkomend geval een onderzoek naar de bron van het vermogen;  
+
+e. de natuurlijke persoon die de cliënt vertegenwoordigt, te identificeren en diens identiteit te verifiëren;  
+
+f. op risico gebaseerde en adequate maatregelen te nemen om te verifiëren of de cliënt voor zichzelf optreedt dan wel voor een derde.     
 3.  Bij algemene maatregel van bestuur kan worden bepaald dat bij die maatregel aan te wijzen categorieën dienstverleners het cliëntenonderzoek kunnen afstemmen op de risicogevoeligheid voor witwassen of financiering van terrorisme van het type cliënt, zakelijke relatie, product of transactie.   
 4.  Bij regeling van Onze Minister en Onze Minister van Veiligheid en Justitie kan vrijstelling worden verleend van het in het eerste of tweede lid bepaalde.   
 5.  De toezichtautoriteit kan op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van het eerste of tweede lid.   
@@ -180,8 +210,8 @@ e. indien het risico van betrokkenheid van een bestaande cliënt bij witwassen o
 ### Artikel  2.4  
 
 1.  Een dienstverlener voldoet aan artikel 2.2, tweede lid, onderdelen a en b, voordat de zakelijke relatie wordt aangegaan of een incidentele transactie als bedoeld in artikel 2.3, eerste lid, onderdeel b, wordt uitgevoerd.   
-2.  Het is een dienstverlener verboden een zakelijke relatie aan te gaan of een transactie uit te voeren voor een cliënt indien hij geen cliëntenonderzoek heeft verricht als bedoeld in artikel 2.2 of indien het cliëntenonderzoek niet heeft geleid tot het in artikel 2.2, onderdelen a, b en c, bedoelde resultaat.   
-3.  Indien de dienstverlener reeds een zakelijke relatie met de cliënt heeft en de instelling niet kan voldoen aan artikel 2.2, eerste en tweede lid, aanhef en onderdelen a, b, en c, beëindigt de dienstverlener die zakelijke relatie.   
+2.  Het is een dienstverlener verboden een zakelijke relatie aan te gaan of een transactie uit te voeren voor een cliënt indien hij geen cliëntenonderzoek heeft verricht als bedoeld in artikel 2.2 of indien het cliëntenonderzoek niet heeft geleid tot het in artikel 2.2, tweede lid, aanhef en onderdelen a, b, c, e en f, bedoelde resultaat.   
+3.  Indien de dienstverlener reeds een zakelijke relatie met de cliënt heeft en de dienstverlener niet kan voldoen aan artikel 2.2, eerste en tweede lid, aanhef en onderdelen a, b, c, e en f, beëindigt de dienstverlener die zakelijke relatie.   
 
 ### Artikel  2.5  
 
@@ -242,8 +272,8 @@ d. rechtspersonen die effecten hebben uitgegeven die zijn toegelaten tot de hand
 
 ### Artikel  2.10  
 
-1.  Een dienstverlener verricht in aanvulling op het cliëntenonderzoek, bedoeld in artikel 2.2, eerste lid, nader onderzoek indien en naar gelang een zakelijke relatie of transactie naar haar aard een hoger risico op witwassen of financieren van terrorisme met zich brengt. Bij algemene maatregel van bestuur kunnen categorieën zakelijke relaties en transacties worden aangewezen die naar hun aard een hoger risico op witwassen of financieren van terrorisme met zich brengen.   
-2.  Onverminderd het eerste lid neemt een dienstverlener, indien een cliënt niet fysiek aanwezig is voor identificatie, maatregelen om het hogere risico te compenseren. De dienstverlener kan aan de vorige volzin voldoen indien hij: 
+1.  Een dienstverlener verricht in aanvulling op het cliëntenonderzoek, bedoeld in artikel 2.2, eerste lid, nader onderzoek indien en naar gelang een zakelijke relatie of transactie naar haar aard of in verband met de staat waar de cliënt woonachtig of gevestigd is of zijn zetel heeft een hoger risico op witwassen of financieren van terrorisme met zich brengt. Bij ministeriële regeling kunnen categorieën zakelijke relaties en transacties worden aangewezen die naar hun aard een hoger risico op witwassen of financieren van terrorisme met zich brengen.   
+2.  Onverminderd het eerste lid neemt een dienstverlener, indien een cliënt niet fysiek aanwezig is voor verificatie van diens identiteit, maatregelen om het hogere risico te compenseren. De dienstverlener kan aan de vorige volzin voldoen indien hij: 
 
 a. de identiteit van de cliënt verifieert aan de hand van aanvullende documenten, gegevens of informatie;  
 
@@ -326,6 +356,10 @@ d. oefent doorlopende controle uit op de zakelijke relatie.
 2.  Indien er geen uiteindelijk belanghebbende is, beschikt een trustkantoor over gegevens aan de hand waarvan dit is bepaald.   
 3.  Een trustkantoor heeft bij het verlenen van de in het eerste lid genoemde dienst kennis van de herkomst van het vermogen van de insteller van de trust en legt de gegevens omtrent het onderzoek naar de herkomst van het vermogen vast.   
 
+### Artikel  2.19  
+
+Een trustkantoor bewaart de in deze paragraaf bedoelde gegevens op toegankelijke wijze gedurende vijf jaar na het tijdstip van het beëindigen van de zakelijke relatie of tot vijf jaar na het uitvoeren van de desbetreffende transactie.  
+
 ### Hoofdstuk  3  
 
 ####Melden van ongebruikelijke transacties
@@ -405,6 +439,7 @@ f. een omschrijving van de bij de transactie betrokken zaken van grote waarde;
 
 g. aanvullende, bij algemene maatregel van bestuur aan te wijzen, gegevens.     
 3.  Een dienstverlener bewaart de gegevens, bedoeld in het tweede lid, op toegankelijke wijze gedurende vijf jaar na het tijdstip van het doen van de melding.   
+4.  De meldingsplicht als bedoeld in het eerste lid is van overeenkomstige toepassing indien een cliëntenonderzoek als bedoeld in artikel 2.2, eerste lid, niet leidt tot het in artikel 2.2, onderdelen a, b, c, e en f, bedoelde resultaat of een zakelijke relatie wordt beëindigd ingevolge artikel 2.4, derde lid, en er tevens indicaties zijn dat de desbetreffende cliënt betrokken is bij witwassen of financieren van terrorisme. Bij de melding van een dergelijke transactie ingevolge het eerste lid verstrekt een dienstverlener naast de gegevens bedoeld in het tweede lid een beschrijving van de redenen waarom het cliëntenonderzoek niet leidde tot het in artikel 2.4, tweede lid, bedoelde resultaat, of de redenen waarom niet kon worden voldaan aan de verplichtingen, bedoeld in artikel 2.4, derde lid.   
 
 ### Artikel  3.6  
 
@@ -423,7 +458,7 @@ Het meldpunt bepaalt de wijze waarop een melding moet worden gedaan, of gegevens
 
 1.  Gegevens of inlichtingen die in overeenstemming met de artikelen 3.5 of 3.6 zijn verstrekt, kunnen niet dienen als grondslag voor of ten behoeve van een opsporingsonderzoek of een vervolging wegens verdenking van, of als bewijs ter zake van een tenlastelegging wegens witwassen of financieren van terrorisme door de dienstverlener die deze gegevens of inlichtingen heeft verstrekt.   
 2.  Gegevens of inlichtingen die zijn verstrekt in de redelijke veronderstelling dat uitvoering wordt gegeven aan de artikelen 3.5 of 3.6 kunnen niet dienen als grondslag voor of ten behoeve van een opsporingsonderzoek of een vervolging wegens verdenking van, of als bewijs ter zake van een tenlastelegging wegens, overtreding van [artikel 285 van het Wetboek van Strafrecht BES](../../../../../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) door de dienstverlener die deze gegevens of inlichtingen heeft verstrekt.   
-3.  Het eerste en tweede lid zijn van overeenkomstige toepassing ten aanzien van personen die werkzaam zijn voor een dienstverlener die gegevens of inlichtingen heeft verstrekt als omschreven in het eerste of tweede lid en die daaraan hebben meegewerkt.   
+3.  Het eerste en tweede lid zijn van overeenkomstige toepassing ten aanzien van personen die bestuurder zijn van of werkzaam zijn voor een dienstverlener die gegevens of inlichtingen heeft verstrekt als omschreven in het eerste of tweede lid en die daaraan hebben meegewerkt.   
 
 ### Artikel  3.9  
 
@@ -493,8 +528,8 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt, voor zover niet ander
 2.  De aanmelding geschiedt door het inleveren van een volledig ingevulde en ondertekende aangifte volgens een door Onze Minister vast te stellen model. In het geval, genoemd in het eerste lid, tweede volzin, rusten de bij of krachtens deze wet gestelde verplichtingen op alle in het eerste lid, tweede volzin, bedoelde personen afzonderlijk.   
 3.  Indien een geldtransport plaatsvindt per beroepsvervoerder, maar deze niet tot de aanmelding, bedoeld in het eerste lid, in staat is gesteld, wordt de aanmelding gedaan bij de inspecteur van douane door de verzender van het geld uiterlijk op het tijdstip van de feitelijke binnenkomst of het uitgaan van het geld.   
 4.  Binnenkomende personen verrichten de aanmelding uiterlijk op het tijdstip, waarop door de douaneambtenaar kan worden overgegaan tot controle van door reizigers meegebrachte bagage. Als de bevoegde autoriteit een zone instelt voor het controleren van baggage, moet aanmelding geschieden voordat die zone wordt betreden. Is ter plekke geen douaneambtenaar aanwezig, dan moet na de doorgang onverwijld aanmelding worden gedaan bij de dichtstbijzijnde douaneambtenaar.   
-5.  Uitgaande personen verrichten de aanmelding uiterlijk op het tijdstip, waarop door de ambtenaar van de Koninklijke marechaussee bevoegd inzake paspoortcontrole wordt overgegaan tot paspoortcontrole of als geen paspoortcontrole plaatsvindt uiterlijk op het tijdstip, waarop door de douaneambtenaar tot controle van door reizigers meegebrachte bagage overgegaan kan worden. Is ter plekke geen douaneambtenaar aanwezig, dan moet vóór doorgang aanmelding worden gedaan bij de dichtstbijzijnde douaneambtenaar.   
-6.  Mochten er geen douaneambtenaren aanwezig zijn in het desbetreffende openbaar lichaam dan dient aanmelding te geschieden bij de ambtenaren van de Koninklijke marechaussee bevoegd inzake paspoortcontrole.   
+5.  Uitgaande personen verrichten de aanmelding uiterlijk op het tijdstip, waarop door een daartoe bevoegde ambtenaar wordt overgegaan tot paspoortcontrole of als geen paspoortcontrole plaatsvindt uiterlijk op het tijdstip, waarop door de douaneambtenaar tot controle van door reizigers meegebrachte bagage overgegaan kan worden. Is ter plekke geen douaneambtenaar aanwezig, dan moet vóór doorgang aanmelding worden gedaan bij de dichtstbijzijnde douaneambtenaar.   
+6.  Mochten er geen douaneambtenaren aanwezig zijn in het desbetreffende openbaar lichaam dan dient aanmelding te geschieden bij de ambtenaren bevoegd inzake paspoortcontrole.   
 7.  Bij regeling van Onze Minister kan, zo nodig onder het stellen van aanvullende voorschriften, aan beroepsvervoerders vrijstelling worden verleend van het eerste tot en met het derde lid.   
 
 ### Artikel  4.3  
@@ -603,7 +638,7 @@ De toezichtautoriteit kan het toezicht voor zover betrekking hebbend op de diens
 
 ### Artikel  5.10  
 
-1.  De toezichtautoriteit kan een last onder dwangsom opleggen ter zake van overtreding van de artikelen 1.6, 2.2, eerste, tweede en zesde lid, 2.3, eerste lid, 2.4, eerste en tweede lid, 2.7, eerste lid, tweede volzin, 2.7, tweede lid, tweede volzin, 2.7, derde lid, 2.8, tweede lid, 2.9, tweede lid, 2.11 tot en met 2.18, 3.5, 3.6, tweede lid, 3.11 en 3.14 van deze wet, alsmede ter zake van het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens artikel 5.9 gegeven aanwijzing.   
+1.  De toezichtautoriteit kan een last onder dwangsom opleggen ter zake van overtreding van de artikelen 1.6, 2.2, eerste, tweede en zesde lid, 2.3, eerste lid, 2.4, eerste en tweede lid, 2.7, eerste lid, tweede volzin, 2.7, tweede lid, tweede volzin, 2.7, derde lid, 2.8, tweede lid, 2.9, tweede lid, 2.10 tot en met 2.19, 3.5, 3.6, tweede lid, 3.10 en 3.13 van deze wet, alsmede ter zake van het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens artikel 5.9 gegeven aanwijzing.   
 2.  Een last onder dwangsom kan worden opgelegd, zodra het gevaar van een overtreding klaarblijkelijk dreigt.   
 3.  De toezichtautoriteit legt geen last onder dwangsom op, zolang een andere wegens dezelfde overtreding opgelegde last onder dwangsom van kracht is.   
 4.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de uitoefening van de in het eerste lid bedoelde bevoegdheid.   
@@ -611,7 +646,7 @@ De toezichtautoriteit kan het toezicht voor zover betrekking hebbend op de diens
 
 ### Artikel  5.11  
 
-1.  De toezichtautoriteit kan een bestuurlijke boete opleggen ter zake van overtreding van de artikelen 1.6, 2.2, eerste, tweede en zesde lid, 2.3, eerste lid, 2.4, eerste en tweede lid, 2.7, eerste lid, tweede volzin, 2.7, tweede lid, tweede volzin, 2.7, derde lid, 2.8, tweede lid, 2.9, tweede lid, 2.11 tot en met 2.18, 3.5, 3.6, tweede lid, 3.11 en 3.14 van deze wet, alsmede ter zake van het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens artikel 5.9 gegeven aanwijzing.   
+1.  De toezichtautoriteit kan een bestuurlijke boete opleggen ter zake van overtreding van de artikelen 1.6, 2.2, eerste, tweede en zesde lid, 2.3, eerste lid, 2.4, eerste en tweede lid, 2.7, eerste lid, tweede volzin, 2.7, tweede lid, tweede volzin, 2.7, derde lid, 2.8, tweede lid, 2.9, tweede lid, 2.10 tot en met 2.19, 3.5, 3.6, tweede lid, 3.10 en 3.13 van deze wet, alsmede ter zake van het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens artikel 5.9 gegeven aanwijzing.   
 2.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de uitoefening van de in het eerste lid bedoelde bevoegdheid.   
 3.  De artikelen 7:32 tot en met 7:38 van de Wet financiële markten BES zijn van overeenkomstige toepassing.   
 
@@ -646,8 +681,8 @@ Voor zover een bestuurlijke sanctie verplicht tot betaling van een geldsom, komt
 
 ### Artikel  6.1  
 
-1.  Overtreding van de artikelen 1.6, 2.2, eerste lid, 2.4, eerste lid, 2.4, tweede lid, 2.11, 2.13 tot en met 2.18, 3.5, 3.6, tweede lid, 3.5, derde lid, 3.11, 4.2, eerste lid, en 5.7, eerste lid, wordt, voor zover opzettelijk begaan, gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.   
-2.  Overtreding van de artikelen 1.6, 2.2, eerste lid, 2.4, eerste lid, 2.4, tweede lid, 2.11, 2.13 tot en met 2.18, 3.5, 3.6, tweede lid, 3.5, derde lid, 3.11, 4.2, eerste lid, en 5.7, eerste lid, wordt, voor zover niet opzettelijk begaan, gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.   
+1.  Overtreding van de artikelen 1.6, 2.2, eerste lid, 2.4, eerste lid, 2.4, tweede lid, 2.10, 2.11, 2.13 tot en met 2.19, 3.5, 3.6, tweede lid, 3.5, derde lid, 3.10, 3.13, 4.2, en 5.7, eerste lid, wordt, voor zover opzettelijk begaan, gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.   
+2.  Overtreding van de artikelen 1.6, 2.2, eerste lid, 2.4, eerste lid, 2.4, tweede lid, 2.10, 2.11, 2.13 tot en met 2.19, 3.5, 3.6, tweede lid, 3.5, derde lid, 3.10, 3.13, 4.2, en 5.7, eerste lid, wordt, voor zover niet opzettelijk begaan, gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.   
 3.  De in het eerste lid strafbaar gestelde feiten zijn misdrijven. De in het tweede lid strafbaar gestelde feiten zijn overtredingen.   
 
 ### Artikel  6.2  

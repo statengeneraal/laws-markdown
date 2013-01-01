@@ -78,31 +78,31 @@ d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huish
 
 a. recht heeft op loondervingsuitkering, en  
 
-b. per dag een inkomen heeft dat lager is dan € 59,80 per 1 juli 2012: € 66,95.     
+b. per dag een inkomen heeft dat lager is dan € 59,80 per 1 januari 2013: € 67,56.     
 2.  Recht op toeslag heeft een ongehuwde, die: 
 
 a. recht heeft op loondervingsuitkering;  
 
 b. een kind heeft jonger dan 18 jaar, dat niet als eigen kind, aangehuwd kind of pleegkind tot het huishouden van een ander behoort en voor wie aan hem op grond van [artikel 18 van de Algemene Kinderbijslagwet](../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) kinderbijslag wordt betaald, zal worden betaald of zou worden betaald indien [artikel 7, tweede lid, van die wet](../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) niet van toepassing zou zijn, en  
 
-c. per dag een inkomen heeft dat lager is dan € 54,61 per 1 juli 2012: € 62,91.     
+c. per dag een inkomen heeft dat lager is dan € 54,61 per 1 januari 2013: € 63,70.     
 3.  Behoudens het vierde lid heeft voorts recht op toeslag een ongehuwde, die: 
 
 a. recht heeft op loondervingsuitkering, en  
 
 b. per dag een inkomen heeft dat lager is dan: 
 
-1°. indien hij 23 jaar of ouder is: € 46,12 per 1 juli 2011: € 50,51;  
+1°. indien hij 23 jaar of ouder is: € 46,12 per 1 januari 2013: € 51,21;  
 
-2°. indien hij 22 jaar is: € 35,29 per 1 juli 2012: € 39,87;  
+2°. indien hij 22 jaar is: € 35,29 per 1 januari 2013: € 40,26;  
 
-3°. indien hij 21 jaar is: € 29,64 per 1 juli 2012: € 33,57;  
+3°. indien hij 21 jaar is: € 29,64 per 1 januari 2013: € 33,96;  
 
-4°. indien hij 20 jaar is: € 24,76 per 1 juli 2012: € 28,01;  
+4°. indien hij 20 jaar is: € 24,76 per 1 januari 2013: € 28,40;  
 
-5°. indien hij 19 jaar is: € 21,14 per 1 juli 2012: € 23,53;  
+5°. indien hij 19 jaar is: € 21,14 per 1 januari 2013: € 23,73;  
 
-6°. indien hij 18 jaar is: € 19,06 per 1 juli 2012: € 20,18.       
+6°. indien hij 18 jaar is: € 19,06 per 1 januari 2013: € 19,88.       
 4.  Geen recht op toeslag heeft de in het derde lid bedoelde ongehuwde, die de leeftijd van 21 jaar nog niet heeft bereikt en behoort tot het huishouden van zijn ouders of pleegouders.   
 5.  Zolang een gehuwde of ongehuwde geen recht heeft op een loondervingsuitkering omdat hem rechtens zijn vrijheid is ontnomen of omdat hij zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, heeft hij geen recht op toeslag.   
 6.  Zolang een gehuwde of ongehuwde de leeftijd van 18 jaar nog niet heeft bereikt, heeft hij geen recht op toeslag.   
@@ -130,6 +130,7 @@ Geen recht op toeslag heeft de persoon die inkomensondersteuning als bedoeld in 
 2.  Geen recht op toeslag bestaat, indien de loondervingsuitkering, het loon, de bezoldiging of hetgeen daarmee overeenkomt, bedoeld in het eerste lid, niet tot uitbetaling komt op grond van enig handelen of nalaten van betrokkene dat hem redelijkerwijs kan worden verweten.   
 3.  Indien bij samenloop van loondervingsuitkeringen op grond van enig handelen of nalaten van betrokkene dat hem redelijkerwijs kan worden verweten een of meer van de loondervingsuitkeringen gedeeltelijk worden geweigerd of niet tot uitbetaling komen, wordt voor de toepassing van deze wet en de daarop berustende bepalingen het inkomen in aanmerking genomen alsof die weigering niet heeft plaatsgevonden respectievelijk alsof die uitbetaling heeft plaatsgevonden.   
 4.  Indien de uitkering op grond van de [Werkloosheidswet](../../../wet/werkloosheidswet/BWBR0004045/README.md) gedeeltelijk is geëindigd omdat de betrokkene minder beschikbaar is voor arbeid dan het aantal arbeidsuren dat hij heeft verloren wordt voor de toepassing van deze wet en de daarop berustende bepalingen die uitkering in aanmerking genomen alsof die eindiging niet heeft plaatsgevonden.   
+5.  Indien de uitkering op grond van [artikel 35ab van de Werkloosheidswet](../../../wet/werkloosheidswet/BWBR0004045/README.md) is verminderd, wordt voor de toepassing van deze wet en de daarop berustende bepalingen de uitkering in aanmerking genomen alsof die vermindering niet heeft plaatsgevonden.   
 
 ### Artikel  6  
 
@@ -157,8 +158,8 @@ b. indien en voor zover het inkomen uit arbeid meer bedraagt dan het in onderdee
 
 ### Artikel  8  
 
-1.  Voor de persoon, bedoeld in artikel 2, eerste lid, is de toeslag gelijk aan het verschil tussen € 59,80 per 1 juli 2012: € 66,95 en het inkomen per dag.   
-2.  Voor de persoon, bedoeld in artikel 2, tweede lid, is de toeslag gelijk aan het verschil tussen € 54,61 per 1 juli 2012: € 62,91 en het inkomen per dag.   
+1.  Voor de persoon, bedoeld in artikel 2, eerste lid, is de toeslag gelijk aan het verschil tussen € 59,80 per 1 januari 2013: € 67,56 en het inkomen per dag.   
+2.  Voor de persoon, bedoeld in artikel 2, tweede lid, is de toeslag gelijk aan het verschil tussen € 54,61 per 1 januari 2013: € 63,70 en het inkomen per dag.   
 3.  Voor de persoon, bedoeld in artikel 2, derde lid, is de toeslag gelijk aan het verschil tussen het in artikel 2, derde lid, onderdeel b, bij de leeftijd van die persoon genoemd bedrag en het inkomen per dag.   
 
 ### Artikel  8a  
@@ -212,11 +213,11 @@ b. de toepasselijkheid van deze artikelen ook is uitgesloten voor de toekenning 
 
 1.  Onverminderd het elders in deze wet bepaalde terzake van herziening of intrekking van een besluit tot toekenning van toeslag en terzake van weigering van toeslag, herziet het Uitvoeringsinstituut werknemersverzekeringen een dergelijk besluit of trekt zij dat in: 
 
-a. indien het niet of niet behoorlijk nakomen van een verplichting op grond van artikel 12 of 13 heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van toeslag;  
+a. indien het niet of niet behoorlijk nakomen van een verplichting op grond van artikel 12, 12a, eerste lid, aanhef en onderdeel b, of 13 heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van toeslag;  
 
 b. indien anderszins de toeslag ten onrechte of tot een te hoog bedrag is verleend;  
 
-c. indien het niet of niet behoorlijk nakomen van een verplichting op grond van artikel 12 of 13 ertoe leidt dat niet kan worden vastgesteld of nog recht op toeslag bestaat.     
+c. indien het niet of niet behoorlijk nakomen van een verplichting op grond van artikel 12, 12a, eerste lid, aanhef en onderdeel b, of 13 ertoe leidt dat niet kan worden vastgesteld of nog recht op toeslag bestaat.     
 2.  Indien daarvoor dringende redenen aanwezig zijn kan het Uitvoeringsinstituut werknemersverzekeringen besluiten geheel of gedeeltelijk van herziening of intrekking af te zien.   
 
 ### Artikel  12  
@@ -234,7 +235,7 @@ b. de feitelijke woonsituatie van degene die aanspraak maakt op toeslag, van zij
 
 ### Artikel  13  
 
-Degene die aanspraak maakt op toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger, alsmede de instelling aan welke ingevolge artikel 22 toeslag wordt uitbetaald, zijn verplicht de voorschriften op te volgen, die het Uitvoeringsinstituut werknemersverzekeringen ten behoeve van een doelmatige controle stelt.  
+Degene die aanspraak maakt op toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger, alsmede de instelling aan welke ingevolge artikel 22 toeslag wordt uitbetaald, zijn verplicht de voorschriften, bedoeld in artikel 30, op te volgen en anderszins aan het Uitvoeringsinstituut werknemersverzekeringen desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze wet.  
 
 ### Artikel  14  
 
@@ -247,30 +248,41 @@ Degene die aanspraak maakt op toeslag, zijn echtgenoot, of zijn wettelijke verte
 
 ### Artikel  14a  
 
-1.  Het Uitvoeringsinstituut werknemersverzekeringen legt een bestuurlijke boete op van ten hoogste € 2 269 ter zake van het niet of niet behoorlijk nakomen door degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger van een verplichting als bedoeld in artikel 12.   
-2.  Het Uitvoeringsinstituut werknemersverzekeringen kan afzien van het opleggen van een bestuurlijke boete als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet of niet behoorlijk nakomen van een verplichting als bedoeld in artikel 12 indien dit niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van toeslag, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan degene die aanspraak maakt op toeslag, zijn echtgenoot, of zijn wettelijk vertegenwoordiger, een zodanige waarschuwing is gegeven.   
-3.  Het Uitvoeringsinstituut werknemersverzekeringen kan afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende redenen aanwezig zijn.   
-4.  Degene aan wie een bestuurlijke boete is opgelegd is verplicht desgevraagd aan het Uitvoeringsinstituut werknemersverzekeringen de inlichtingen te verstrekken die voor de tenuitvoerlegging van de boete van belang zijn.   
-5.  Bij algemene maatregel van bestuur worden nadere regels gesteld over de hoogte van de bestuurlijke boete.   
+1.  Het Uitvoeringsinstituut werknemersverzekeringen legt een bestuurlijke boete op van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in artikel 12. De bestuurlijke boete is niet lager dan de boete die op grond van het derde lid zou worden opgelegd indien er geen sprake was van een benadelingsbedrag.   
+2.  In dit artikel wordt onder benadelingsbedrag verstaan het brutobedrag dat als gevolg van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 12, ten onrechte of tot een te hoog bedrag aan toeslag is ontvangen.   
+3.  Indien het niet of niet behoorlijk nakomen door degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in artikel 12, niet heeft geleid tot een benadelingsbedrag, legt het Uitvoeringsinstituut werknemersverzekeringen een bestuurlijke boete op van ten hoogste het bedrag van de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+4.  Het Uitvoeringsinstituut werknemersverzekeringen kan afzien van het opleggen van een bestuurlijke boete als bedoeld in het derde lid en volstaan met het geven van een schriftelijke waarschuwing wegens het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 12, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger een zodanige waarschuwing is gegeven.   
+5.  Het Uitvoeringsinstituut werknemersverzekeringen legt een bestuurlijke boete op wegens het niet of niet behoorlijk nakomen door degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in artikel 12, als gevolg waarvan ten onrechte of tot een te hoog bedrag aan toeslag is ontvangen, van ten hoogste 150 procent van het benadelingsbedrag indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van het begaan van de overtreding een eerdere bestuurlijke boete of strafrechtelijke sanctie is opgelegd wegens een eerdere overtreding, bestaande uit eenzelfde gedraging, die onherroepelijk is geworden.   
+6.  Onder eenzelfde gedraging als bedoeld in het vijfde lid wordt verstaan het niet of niet behoorlijk nakomen van de verplichting, bedoeld in de artikelen 12 van deze wet, [25 van de Werkloosheidswet](../../../wet/werkloosheidswet/BWBR0004045/README.md), [70, eerste en tweede lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [12, eerste lid, van de Wet inkomensvoorziening oudere werklozen](../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), [80 van de Wet op de arbeidsongeschiktheidsverzekering](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [2:7, eerste lid](../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), of [3:74 van de Wet werk en arbeidsondersteuning jonggehandicapten](../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [27, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [31, eerste lid](../../../wet/ziektewet/BWBR0001888/README.md), of [49 van de Ziektewet](../../../wet/ziektewet/BWBR0001888/README.md), als gevolg waarvan ten onrechte of tot een te hoog bedrag aan uitkering, inkomensvoorziening, ziekengeld of toeslag is verleend.   
+7.  In afwijking van het vijfde lid is het in dat lid genoemde tijdvak van vijf jaar tien jaar indien wegens de eerdere overtreding, bedoeld in het vijfde lid, degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger is gestraft met een onvoorwaardelijke gevangenisstraf.   
+8.  Het Uitvoeringsinstituut werknemersverzekeringen kan: 
 
-### Artikel  14c  
+a. de bestuurlijke boete verlagen indien sprake is van verminderde verwijtbaarheid;  
 
-Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van tenuitvoerlegging van de beschikking waarbij de bestuurlijke boete is opgelegd.  
-
-### Artikel  14f  
-
-In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechter in beroep of hoger beroep het bedrag waarop de bestuurlijke boete is vastgesteld ook ten nadele van de toeslaggerechtigde wijzigen.  
+b. afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende redenen aanwezig zijn.     
+9.  Degene aan wie een bestuurlijke boete is opgelegd, is verplicht desgevraagd aan het Uitvoeringsinstituut werknemersverzekeringen de inlichtingen te verstrekken die voor de tenuitvoerlegging van de bestuurlijke boete van belang zijn.   
+10.  Bij algemene maatregel van bestuur worden nadere regels gesteld over de hoogte van de bestuurlijke boete.   
+11.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van tenuitvoerlegging van de beschikking waarbij de bestuurlijke boete is opgelegd.   
+12.  In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechter in beroep of hoger beroep het bedrag waarop de bestuurlijke boete is vastgesteld ook ten nadele van de degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger wijzigen.   
 
 ### Artikel  14g  
 
 1.  Het Uitvoeringsinstituut werknemersverzekeringen verrekent de bestuurlijke boete met een toeslag op grond van deze wet, een uitkering op grond van de [Werkloosheidswet](../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../wet/ziektewet/BWBR0001888/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md) of de [Wet arbeid en zorg](../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), die degene aan wie de bestuurlijke boete is opgelegd ontvangt.   
 2.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het Uitvoeringsinstituut werknemersverzekeringen indien degene aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de [Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [Algemene nabestaandenwet](../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet werk en bijstand](../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md).   
 3.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het Uitvoeringsinstituut werknemersverzekeringen. Indien het Uitvoeringsinstituut werknemersverzekeringen gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan degene aan wie de boete is opgelegd.   
-4.  Zolang degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in artikel 14a, vierde lid, niet of niet behoorlijk nakomt: 
+4.  Zolang degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in artikel 14a, negende lid, niet of niet behoorlijk nakomt: 
 
 a. is het Uitvoeringsinstituut werknemersverzekeringen in afwijking van [artikel 4.93, vierde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bevoegd tot verrekening van de bestuurlijke boete voor zover beslag op de vordering van de schuldeiser nietig zou zijn;  
 
 b. geldt de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), in afwijking van [artikel 4:116 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), niet bij de invordering van een bestuurlijke boete bij dwangbevel.     
+
+### Artikel  14h  
+
+1.  Bij de verrekening, bedoeld in artikel 14g, eerste lid, wordt de bestuurlijke boete, bedoeld in artikel 14a, vijfde lid, door het Uitvoeringsinstituut werknemersverzekeringen, in afwijking van [artikel 4:93, vierde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), verrekend gedurende een tijdvak van ten hoogste vijf jaar vanaf het moment van de dagtekening waarop de bestuurlijke boete is opgelegd.   
+2.  Artikel 14g, eerste lid, en het eerste lid zijn van overeenkomstige toepassing op de verrekening van de bestuurlijke boete wegens eenzelfde gedraging als bedoeld in artikel 14a, zesde lid, indien en voor zover op het moment van verrekening, bedoeld in het eerste lid, de bestuurlijke boete door de overtreder niet is betaald.   
+3.  Het Uitvoeringsinstituut werknemersverzekeringen kan op verzoek van de overtreder besluiten het eerste lid en tweede lid niet of niet meer toe te passen indien, gelet op bijzondere omstandigheden, dringende redenen daartoe noodzaken.   
+4.  De voorgaande leden laten de verrekening van de bestuurlijke boete op grond van artikel 14g, eerste lid, na het tijdvak, bedoeld in het eerste lid, onverlet.   
+5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de Wet werk en bijstand wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de toeslag op grond van deze wet vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de toeslag kan afhankelijk worden gesteld van de leefsituatie.   
 
 ### §  5  
 
@@ -279,7 +291,7 @@ b. geldt de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van 
 ### Artikel  15  
 
 1.  Het Uitvoeringsinstituut werknemersverzekeringen betaalt de toeslag waarop op grond van deze wet recht bestaat.   
-2.  De bepalingen die gelden voor de loondervingsuitkering ter zake van het verschuldigd zijn van premie, van de heffing en invordering van premie, zoals deze zijn opgenomen in de [Wet financiering sociale verzekeringen](../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en ter zake van het verschuldigd zijn van inkomensafhankelijke bijdrage, van de heffing en invordering van inkomensafhankelijke bijdrage, zoals deze zijn opgenomen in de [Zorgverzekeringswet](../../../wet/zorgverzekeringswet/BWBR0018450/README.md), zijn op de toeslag die op de loondervingsuitkering wordt verleend, van overeenkomstige toepassing.   
+2.  De bepalingen die gelden voor de loondervingsuitkering ter zake van het verschuldigd zijn van premie, van de heffing en invordering van premie, zoals deze zijn opgenomen in de [Wet financiering sociale verzekeringen](../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), zijn op de toeslag die op de loondervingsuitkering wordt verleend, van overeenkomstige toepassing.   
 3.  De betaling van de toeslag geschiedt, voor zoveel mogelijk, in dezelfde termijnen als die waarin de betaling van de loondervingsuitkering geschiedt.   
 4.  Zoveel mogelijk wordt de toeslag betaald samen met de loondervingsuitkering in één bedrag dan wel wordt de toeslag betaald aan de werkgever met toepassing van [artikel 10, derde lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [artikel 11, derde lid, van de Ziektewet](../../../wet/ziektewet/BWBR0001888/README.md) of [artikel 11, tweede lid, van de Werkloosheidswet](../../../wet/werkloosheidswet/BWBR0004045/README.md).   
 5.  Onverminderd het eerste tot en met vierde lid vindt betaling plaats: 
@@ -295,7 +307,7 @@ a. het recht op toeslag niet of niet meer bestaat;
 
 b. recht op een lagere toeslag bestaat, of  
 
-c. degene die aanspraak maakt op toeslag, zijn echtgenoot dan wel de persoon aan wie of de instelling aan welke ingevolge artikel 22 toeslag wordt uitbetaald, een verplichting als bedoeld in de artikelen 12 en 13 niet is nagekomen.     
+c. degene die aanspraak maakt op toeslag, zijn echtgenoot dan wel de persoon aan wie of de instelling aan welke ingevolge artikel 22 toeslag wordt uitbetaald, een verplichting als bedoeld in artikel 12, 12a of 13 niet is nagekomen.     
 
 ### Artikel  15a  
 
@@ -342,14 +354,15 @@ b. gedurende vijf jaar niet volledig aan zijn betalingsverplichtingen heeft vold
 c. gedurende vijf jaar geen betalingen heeft verricht en niet aannemelijk is dat hij deze op enig moment zal gaan verrichten; of  
 
 d. een bedrag, overeenkomend met ten minste 50% van de restsom in één keer aflost.     
-3.  De in het tweede lid, onder a en b, genoemde termijn is drie jaar indien: 
+3.  De in het tweede lid, onderdelen a, b en c, genoemde termijn is tien jaar indien de terugvordering het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 12.   
+4.  De in het tweede lid, onder a en b, genoemde termijn is drie jaar indien: 
 
 a. het gemiddeld inkomen van de belanghebbende in die periode de beslagvrije voet bedoeld in de artikelen [475c](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [475d van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) niet te boven is gegaan; en  
 
 b. de terugvordering niet het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 12.     
-4.  Indien daarvoor dringende redenen aanwezig zijn kan het Uitvoeringsinstituut werknemersverzekeringen besluiten geheel of gedeeltelijk van terugvordering af te zien.   
-5.  Degene van wie wordt teruggevorderd is verplicht desgevraagd aan het Uitvoeringsinstituut werknemersverzekeringen de inlichtingen te verstrekken die voor de terugvordering van belang zijn.   
-6.  In afwijking van het eerste lid kan het Uitvoeringsinstituut werknemersverzekeringen, onder voorwaarden die Onze Minister kan stellen, besluiten van terugvordering af te zien indien het terug te vorderen bedrag een door Onze Minister vast te stellen bedrag niet te boven gaat.   
+5.  Indien daarvoor dringende redenen aanwezig zijn kan het Uitvoeringsinstituut werknemersverzekeringen besluiten geheel of gedeeltelijk van terugvordering af te zien.   
+6.  Degene van wie wordt teruggevorderd is verplicht desgevraagd aan het Uitvoeringsinstituut werknemersverzekeringen de inlichtingen te verstrekken die voor de terugvordering van belang zijn.   
+7.  In afwijking van het eerste lid kan het Uitvoeringsinstituut werknemersverzekeringen, onder voorwaarden die Onze Minister kan stellen, besluiten van terugvordering af te zien indien het terug te vorderen bedrag een door Onze Minister vast te stellen bedrag niet te boven gaat.   
 
 ### Artikel  20a  
 
@@ -467,10 +480,6 @@ Het Uitvoeringsinstituut werknemersverzekeringen beheert en administreert afzond
 1.  Onverminderd artikel 36, worden de beschikkingen op grond van deze wet en de daarop berustende bepalingen gegeven binnen een redelijke termijn na ontvangst van de aanvraag.   
 2.  De redelijke termijn is in ieder geval verstreken wanneer binnen acht weken na ontvangst van de aanvraag geen beschikking is gegeven, noch een kennisgeving als bedoeld in het derde of vierde lid is gedaan.   
 3.  Indien een beschikking niet binnen de termijn van acht weken kan worden gegeven, wordt die termijn met een redelijke termijn verlengd en wordt de aanvrager daarvan schriftelijk in kennis gesteld.   
-
-### Artikel  37a  
-
-In afwijking van [artikel 7:3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan van het horen van een belanghebbende worden afgezien indien de belanghebbende niet binnen een door het Uitvoeringsinstituut werknemersverzekeringen gestelde redelijke termijn, verklaart dat hij gebruik wil maken van het recht te worden gehoord.  
 
 ### Artikel  38  
 

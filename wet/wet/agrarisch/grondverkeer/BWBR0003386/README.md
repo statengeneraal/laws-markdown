@@ -17,7 +17,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie; landbouw: akkerbouw, veehouderij - daaronder begrepen intensieve veehouderij -, tuinbouw - daaronder begrepen fruitteelt en het kweken van bomen, bloemen en bloembollen -, bosbouw en elke andere vorm van bodemcultuur; land: landbouwgrond en natuurterreinen; landbouwgrond: grond, waarop enige vorm van landbouw wordt of onmiddellijk kan worden uitgeoefend; natuurterreinen: heidevelden, hoogveenterrein, zandverstuivingen, duinterreinen, kwelders, schorren, gorzen, slikken, riet- en ruigtlanden, laagveenmoerassen, voor zover het geen landbouwgrond is; beperkt recht: het recht van erfpacht, opstal, beklemming of vruchtgebruik; vervreemding: de overdracht in eigendom of de toedeling van een onroerende zaak alsmede de overdracht of toedeling dan wel vestiging van een beperkt recht waaraan een onroerende zaak is onderworpen; vervreemder: de eigenaar van een onroerende zaak of de rechthebbende op een beperkt recht waaraan een onroerende zaak is onderworpen, die tot vervreemding wenst over te gaan, alsmede degene die bij ontbinding van een gemeenschap met de vereffening is belast en tot vervreemding wenst over te gaan; bedrijf: een complex, bestaande uit een of meer gebouwen of gedeelten daarvan en de daarbij behorende landbouwgrond dienende tot uitoefening van de landbouw; bedrijfsleider: de natuurlijke persoon die leiding geeft aan een in de vorm van een privaatrechtelijke rechtspersoon gedreven bedrijf; bureau: bureau beheer landbouwgronden als bedoeld in artikel 28; hoofdberoep: het beroep, waaruit een persoon in overwegende mate zijn inkomsten trekt.  
 
-### Artikel  2  
+### Artikel  2   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  De inschrijving in de in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) bedoelde openbare registers van een akte van levering, vereist voor de vervreemding, vindt alleen plaats indien onder de akte of een ander ter inschrijving aan te bieden stuk een notariële verklaring is opgenomen, dat bij de vervreemding voldaan is aan het bepaalde bij of krachtens deze wet.   
 2.  Voldaan is aan het bepaalde bij of krachtens deze wet indien: 
@@ -32,12 +33,11 @@ c. de grondkamer verklaart dat de onroerende zaak waarop de vervreemding betrekk
 
 ### Artikel  3  
 
-1.  De verklaring van de grondkamer bedoeld in artikel 2, tweede lid, onder c, is niet vereist ten aanzien van een vervreemding met betrekking tot een onroerende zaak die gelegen is in een gebied waarvan bij besluit van burgemeester en wethouders is verklaard, dat daarin uitsluitend of nagenoeg uitsluitend gelegen zijn onroerende zaken, die duurzaam voor andere dan landbouwkundige doeleinden worden gebruikt en die niet als natuurterrein dienen te worden aangemerkt. Dit besluit behoeft Onze goedkeuring.   
-2.  De goedkeuring, bedoeld in het eerste lid, wordt onthouden indien in het betreffende gebied in onvoldoende mate onroerende zaken gelegen zijn, die duurzaam voor andere dan landbouwkundige doeleinden worden gebruikt en die niet als natuurterrein dienen te worden aangemerkt.   
-3.  Op de voorbereiding van het in het eerste lid bedoelde besluit is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
-4.  Het besluit vermeldt, onder verwijzing naar een bijgevoegde kadastrale kaart, de kadastrale aanduiding van de binnen dit gebied liggende onroerende zaken.   
-5.  Burgemeester en wethouders verstrekken een exemplaar van het besluit en de bijbehorende kadastrale kaart aan het desbetreffende kantoor van de Dienst voor het kadaster en de openbare registers.   
-6.  Bij of krachtens algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven met betrekking tot de omschrijving en de aanduiding van het gebied.   
+1.  De verklaring van de grondkamer bedoeld in artikel 2, tweede lid, onder c, is niet vereist ten aanzien van een vervreemding met betrekking tot een onroerende zaak die gelegen is in een gebied waarvan bij besluit van burgemeester en wethouders is verklaard, dat daarin uitsluitend of nagenoeg uitsluitend gelegen zijn onroerende zaken, die duurzaam voor andere dan landbouwkundige doeleinden worden gebruikt en die niet als natuurterrein dienen te worden aangemerkt.   
+2.  Op de voorbereiding van het in het eerste lid bedoelde besluit is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+3.  Het besluit vermeldt, onder verwijzing naar een bijgevoegde kadastrale kaart, de kadastrale aanduiding van de binnen dit gebied liggende onroerende zaken.   
+4.  Burgemeester en wethouders verstrekken een exemplaar van het besluit en de bijbehorende kadastrale kaart aan het desbetreffende kantoor van de Dienst voor het kadaster en de openbare registers.   
+5.  Bij of krachtens algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven met betrekking tot de omschrijving en de aanduiding van het gebied.   
 
 ### Artikel  4  
 
@@ -386,7 +386,7 @@ Het bepaalde in artikel 37, eerste lid, is niet van toepassing, voor zover het b
 
 ### Artikel  43  
 
-1.  Indien het bureau in onderhandeling is getreden over het aangaan van een overeenkomst tot vervreemding, kan de vervreemder het bureau de wens te kennen geven, dat over de prijs advies zal worden uitgebracht door deskundigen, te benoemen door de rechtbank binnen welks rechtsgebied het desbetreffende land geheel of grotendeels is gelegen. Binnen twee weken na ontvangst van het desbetreffende schriftelijke verzoek van de vervreemder, verzoekt het bureau de arrondissementsrechtbank één of meer deskundigen te benoemen, ten einde het bedoelde advies uit te brengen.   
+1.  Indien het bureau in onderhandeling is getreden over het aangaan van een overeenkomst tot vervreemding, kan de vervreemder het bureau de wens te kennen geven, dat over de prijs advies zal worden uitgebracht door deskundigen, te benoemen door de rechtbank binnen welks rechtsgebied het desbetreffende land geheel of grotendeels is gelegen. Binnen twee weken na ontvangst van het desbetreffende schriftelijke verzoek van de vervreemder, verzoekt het bureau de rechtbank één of meer deskundigen te benoemen, ten einde het bedoelde advies uit te brengen.   
 2.  Bij overschrijding door het bureau van de in het vorige lid bedoelde termijn is artikel 42, derde lid, van overeenkomstige toepassing.   
 3.  Bij het verzoekschrift legt het bureau een gewaarmerkt afschrift van het verzoek van de vervreemder over.   
 4.  De rechtbank benoemt één of meer deskundigen die zo spoedig mogelijk een met redenen omkleed schriftelijk advies uitbrengen. De deskundigen stellen hun advies vast met overeenkomstige toepassing van de [artikelen 40 *b* -40f van de onteigeningswet](../../../../../wet/onteigeningswet/BWBR0001842/README.md).   
@@ -520,7 +520,8 @@ Het is verboden onjuiste of onvolledige opgaven te doen met het oog op het verkr
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  66  
+### Artikel  66   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bevat wijzigingen in andere regelgeving.   
 
@@ -532,7 +533,8 @@ De rechten, lasten, verplichtingen en bezittingen van de Stichting "Beheer Landb
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  69  
+### Artikel  69   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Deze wet is niet van toepassing ten aanzien van overeenkomsten, waarvan een akte is opgemaakt, welke voor de dag van inwerkingtreding van deze wet, een zekere dagtekening heeft verkregen.   
 2.  Artikel 66 is niet van toepassing op zaken, die op het tijdstip van het in werking treden van de wet aanhangig zijn bij de grondkamers, de Centrale Grondkamer, de pachtkamers van de kantongerechten of de pachtkamer van het gerechtshof te Arnhem.   

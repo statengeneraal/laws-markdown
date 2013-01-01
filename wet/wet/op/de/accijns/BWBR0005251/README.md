@@ -45,38 +45,48 @@ c. *accijnsschorsingsregeling:* belastingregeling die geldt voor het onder schor
 
 d. *belastingentrepot:* iedere plaats op het grondgebied van de Gemeenschap buiten Nederland waar op grond van de wettelijke bepalingen van de lidstaat waar de plaats zich bevindt, accijnsgoederen onder schorsing van accijns mogen worden vervaardigd, mogen worden verwerkt, voorhanden mogen zijn, mogen worden ontvangen en mogen worden verzonden;  
 
-e. *derde land:* elke staat of elk grondgebied waarop het Verdrag tot oprichting van de Europese Gemeenschap niet van toepassing is;  
+e. *Communautair douanewetboek:* Verordening (EEG) nr. 2913/92 van de Raad van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (PbEG 1992, L 302);  
 
-f. *derdelandsgebieden:* de gebieden die in artikel 5, tweede en derde lid, van Richtlijn nr. 2008/118/EG van de Raad van de Europese Unie van 16 december 2008 (PbEU L 9) worden genoemd;  
+f. *derde land:* elke staat of elk grondgebied waarop het Verdrag tot oprichting van de Europese Gemeenschap niet van toepassing is;  
 
-g. *douaneschorsingsregeling:* iedere in Verordening (EEG) nr. 2913/92 van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (PbEG L 302) vastgestelde bijzondere procedure inzake douanetoezicht ter zake van niet-communautaire goederen die het douanegebied van de Gemeenschap worden binnengebracht, tijdelijke opslag, vrije zones of vrije entrepots, en iedere in artikel 84, eerste lid, onderdeel a, van die verordening bedoelde regeling;  
+g. *derdelandsgebieden:* de gebieden die in artikel 5, tweede en derde lid, van Richtlijn nr. 2008/118/EG van de Raad van de Europese Unie van 16 december 2008 (PbEU L 9) worden genoemd;  
 
-h. *elektronisch administratief document:* een document dat op grond van de bepalingen van deze wet dan wel op grond van de wettelijke bepalingen van een andere lidstaat moet worden opgesteld ten behoeve van het onder een accijnsschorsingsregeling overbrengen van accijnsgoederen;  
+h. *douaneschorsingsregeling:* iedere in het Communautair douanewetboek vastgestelde bijzondere procedure inzake douanetoezicht ter zake van niet-communautaire goederen die het douanegebied van de Gemeenschap worden binnengebracht, tijdelijke opslag, vrije zones of vrije entrepots, en iedere in artikel 84, eerste lid, onderdeel a, van het Communautair douanewetboek bedoelde regeling;  
 
-i. *Gemeenschap en grondgebied van de Gemeenschap:* het geheel van de grondgebieden van de lidstaten in de zin van onderdeel n;  
+i. *elektronisch administratief document:* een document dat op grond van de bepalingen van deze wet dan wel op grond van de wettelijke bepalingen van een andere lidstaat moet worden opgesteld ten behoeve van het onder een accijnsschorsingsregeling overbrengen van accijnsgoederen;  
 
-j. *geregistreerde afzender:* een natuurlijke of rechtspersoon die op grond van een ingevolge deze wet afgegeven vergunning dan wel ingevolge de wettelijke bepalingen van een andere lidstaat van invoer alleen toestemming heeft gekregen om, onder de door de inspecteur onderscheidenlijk de bevoegde autoriteiten van een andere lidstaat vastgestelde voorwaarden, bij de bedrijfsuitoefening accijnsgoederen onder een accijnsschorsingsregeling te verzenden wanneer zij overeenkomstig artikel 79 van Verordening (EEG) nr. 2913/92 van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (PbEG L 302) in het vrije verkeer worden gebracht;  
+j. *Gemeenschap en grondgebied van de Gemeenschap:* het geheel van de grondgebieden van de lidstaten in de zin van onderdeel n;  
 
-k. *geregistreerde geadresseerde:* een natuurlijke of rechtspersoon die op grond van een ingevolge deze wet dan wel een ingevolge de wettelijke bepalingen van een andere lidstaat afgegeven vergunning gemachtigd is om bij de bedrijfsuitoefening accijnsgoederen in ontvangst te nemen die vanuit een andere lidstaat onder een accijnsschorsingsregeling worden overgebracht;  
+k. *geregistreerde afzender:* een natuurlijke of rechtspersoon die op grond van een ingevolge deze wet afgegeven vergunning dan wel ingevolge de wettelijke bepalingen van een andere lidstaat van invoer alleen toestemming heeft gekregen om, onder de door de inspecteur onderscheidenlijk de bevoegde autoriteiten van een andere lidstaat vastgestelde voorwaarden, bij de bedrijfsuitoefening accijnsgoederen onder een accijnsschorsingsregeling te verzenden wanneer zij overeenkomstig artikel 79 van het Communautair douanewetboek in het vrije verkeer worden gebracht;  
 
-l. *GN-code:* de code als bedoeld in verordening (EEG) nr. 2658/87 van de Raad van de Europese Gemeenschappen van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG L 256), zoals deze luidt op 19 oktober 1992 onderscheidenlijk, indien het minerale oliën betreft, op 1 januari 2002;  
+l. *geregistreerde geadresseerde:* een natuurlijke of rechtspersoon die op grond van een ingevolge deze wet dan wel een ingevolge de wettelijke bepalingen van een andere lidstaat afgegeven vergunning gemachtigd is om bij de bedrijfsuitoefening accijnsgoederen in ontvangst te nemen die vanuit een andere lidstaat onder een accijnsschorsingsregeling worden overgebracht;  
 
-m. *invoer van accijnsgoederen:* het in Nederland binnenbrengen van accijnsgoederen die bij hun binnenkomst in Nederland niet onder een douaneschorsingsregeling worden geplaatst, alsmede het in Nederland vrijgeven van onder een douaneschorsingsregeling geplaatste accijnsgoederen;  
+m. *GN-code:* de code als bedoeld in verordening (EEG) nr. 2658/87 van de Raad van de Europese Gemeenschappen van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG L 256), zoals deze luidt op 19 oktober 1992 onderscheidenlijk, indien het minerale oliën betreft, op 1 januari 2002;  
 
-n. *lidstaat en grondgebied van een lidstaat:* het grondgebied van iedere lidstaat van de Gemeenschap waarop het Verdrag tot oprichting van de Europese Gemeenschap overeenkomstig artikel 299 van dat verdrag van toepassing is, met uitzondering van derdelandsgebieden;  
+n. *invoer van accijnsgoederen:* het in Nederland binnenbrengen van accijnsgoederen die bij hun binnenkomst in Nederland niet onder een douaneschorsingsregeling worden geplaatst, alsmede het in Nederland vrijgeven van onder een douaneschorsingsregeling geplaatste accijnsgoederen;  
 
-o. *ondernemer:* een ondernemer in de zin van de [Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md);  
+o. *lidstaat en grondgebied van een lidstaat:* het grondgebied van iedere lidstaat van de Gemeenschap waarop het Verdrag tot oprichting van de Europese Gemeenschap overeenkomstig artikel 299 van dat verdrag van toepassing is, met uitzondering van derdelandsgebieden;  
 
-p. *plaats van invoer:* de plaats waar de goederen zich bevinden wanneer zij overeenkomstig artikel 79 van Verordening (EEG) nr. 2913/92 van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (PbEG L 302) in het vrije verkeer worden gebracht;  
+p. *ondernemer:* een ondernemer in de zin van de [Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md);  
 
-q. *plaats van rechtstreekse aflevering:* een plaats die op grond van een ingevolge deze wet afgegeven vergunning door de vergunninghouder van een accijnsgoederenplaats of door de geregistreerde geadresseerde is aangewezen als plaats waarnaar accijnsgoederen onder een accijnsschorsingsregeling mogen worden overgebracht;  
+q. *plaats van invoer:* de plaats waar de goederen zich bevinden wanneer zij overeenkomstig artikel 79 van het Communautair douanewetboek in het vrije verkeer worden gebracht;  
 
-r. *plaats waar de accijnsgoederen het grondgebied van de Gemeenschap verlaten:* het douanekantoor van uitgang, bedoeld in artikel 793, tweede lid, van Verordening (EEG) nr. 2454/93 van de Commissie van de Europese Gemeenschappen van 2 juli 1993, houdende vaststelling van enkele bepalingen ter uitvoering van Verordening (EEG) nr. 2913/92 van de Raad tot vaststelling van het communautair douanewetboek (PbEG L 253) of het kantoor waar de douaneformaliteiten worden vervuld die van toepassing zijn op de uitgang van accijnsgoederen uit de Gemeenschap naar een in artikel 5, tweede lid, van Richtlijn nr. 2008/118/EG van de Raad van de Europese Unie van 16 december 2008 (PbEU L 9) bedoeld gebied;  
+r. *plaats van rechtstreekse aflevering:* een plaats die op grond van een ingevolge deze wet afgegeven vergunning door de vergunninghouder van een accijnsgoederenplaats of door de geregistreerde geadresseerde is aangewezen als plaats waarnaar accijnsgoederen onder een accijnsschorsingsregeling mogen worden overgebracht;  
 
-s. *vervaardigen van een accijnsgoed:* elk handelen waarbij of waardoor een accijnsgoed ontstaat of de samenstelling van een accijnsgoed wordt gewijzigd;  
+s. *plaats waar de accijnsgoederen het grondgebied van de Gemeenschap verlaten:* het douanekantoor van uitgang, bedoeld in artikel 793, tweede lid, van de toepassingsverordening Communautair douanewetboek of het kantoor waar de douaneformaliteiten worden vervuld die van toepassing zijn op de uitgang van accijnsgoederen uit de Gemeenschap naar een in artikel 5, tweede lid, van Richtlijn nr. 2008/118/EG van de Raad van de Europese Unie van 16 december 2008 (PbEU L 9) bedoeld gebied;  
 
-t. *Richtlijn hernieuwbare energie:* Richtlijn nr. 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (PbEU 2009, L 140).     
+t. *Richtlijn hernieuwbare energie:* Richtlijn nr. 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (PbEU 2009, L 140);  
+
+u. *toepassingsverordening Communautair douanewetboek:* Verordening (EEG) nr. 2454/93 van de Commissie van 2 juli 1993, houdende vaststelling van enkele bepalingen ter uitvoering van Verordening (EEG) nr. 2913/92 van de Raad tot vaststelling van het communautair douanewetboek (PbEG 1993, L 253);  
+
+v. *vervaardigen van een accijnsgoed:* elk handelen waarbij of waardoor een accijnsgoed ontstaat of de samenstelling van een accijnsgoed wordt gewijzigd.     
 2.  Bij ministeriële regeling kunnen de GN-codes, genoemd in de artikelen 5, vierde lid, 25, eerste lid, 26, tweede tot en met zevende lid, 66, eerste lid, onderdeel b, en 71d, eerste lid, worden aangepast indien de overeenkomstige GN-codes zoals opgenomen in de richtlijn nr. 2003/96/EG van de Raad van de Europese Unie van 27 oktober 2003 tot herstructurering van de communautaire regeling voor de belasting van energieproducten en elektriciteit (PbEG L 283), in overeenstemming met artikel 2, vijfde lid, van die richtlijn zijn aangepast. In dat geval kan bij ministeriële regeling eveneens de laatstgenoemde datum in het eerste lid, onderdeel l, worden vervangen door de datum van de versie van de in dat onderdeel bedoelde verordening die aan de wijziging van de GN-codes ten grondslag heeft gelegen.   
+3.  Bij algemene maatregel van bestuur kan worden bepaald dat aan minerale oliën bij ministeriële regeling, onder daarbij te stellen voorwaarden, voorgeschreven herkenningsmiddelen worden toegevoegd.   
+4.  Als vervaardigen van een accijnsgoed wordt mede aangemerkt: 
+
+a. het toevoegen van herkenningsmiddelen als bedoeld in het derde lid aan minerale oliën;  
+
+b. het afscheiden van herkenningsmiddelen als bedoeld in het derde lid, of van bestanddelen van die herkenningsmiddelen, van minerale oliën waaraan deze herkenningsmiddelen zijn toegevoegd, waaronder begrepen het opheffen of veranderen van de werking van deze herkenningsmiddelen.     
 
 ### Artikel  2  
 
@@ -91,7 +101,7 @@ c. de productie, met inbegrip van onregelmatige productie, van accijnsgoederen b
 d. de invoer, met inbegrip van onregelmatige invoer, van accijnsgoederen die niet onmiddellijk bij invoer onder een accijnsschorsingsregeling worden geplaatst.     
 2.  Als uitslag tot verbruik wordt mede aangemerkt het verbruik, anders dan als grondstof, van een accijnsgoed binnen een plaats die voor dat soort accijnsgoed als accijnsgoederenplaats is aangewezen.   
 3.  Als uitslag tot verbruik wordt mede aangemerkt het verbruik, anders dan als grondstof, in Nederland van een accijnsgoed dat onder een douaneschorsingsregeling is geplaatst.   
-4.  Als uitslag tot verbruik wordt mede aangemerkt het in strijd met wettelijke bepalingen voorhanden hebben of gebruiken van minerale oliën waaraan herkenningsmiddelen als bedoeld in artikel 27, derde lid, zijn toegevoegd.   
+4.  Als uitslag tot verbruik wordt mede aangemerkt het in strijd met wettelijke bepalingen voorhanden hebben of gebruiken van minerale oliën waaraan herkenningsmiddelen als bedoeld in artikel 1a, derde lid, zijn toegevoegd.   
 5.  De algehele vernietiging of het onherstelbare verlies van onder een accijnsschorsingsregeling geplaatste accijnsgoederen door een oorzaak die met de aard van de goederen verband houdt, dan wel door niet te voorziene omstandigheden of overmacht, of ingevolge instructies van de inspecteur dan wel van de bevoegde autoriteiten van een andere lidstaat, wordt niet aangemerkt als uitslag tot verbruik. Voor de toepassing van deze bepaling worden goederen geacht totaal vernietigd of onherstelbaar verloren te zijn wanneer zij als accijnsgoed onbruikbaar zijn geworden.   
 6.  De algehele vernietiging of het onherstelbare verlies van de accijnsgoederen in kwestie wordt aangetoond ten genoegen van de inspecteur dan wel, indien van toepassing, de bevoegde autoriteiten van de lidstaat waar de algehele vernietiging of het onherstelbare verlies zich heeft voorgedaan of, indien niet is vast te stellen waar het verlies zich heeft voorgedaan, van de lidstaat waar het verlies is geconstateerd.   
 7.  Het vijfde en zesde lid zijn van overeenkomstige toepassing met betrekking tot accijnsgoederen die onder een douaneschorsingsregeling zijn geplaatst.   
@@ -137,7 +147,7 @@ e. een in een andere lidstaat gevestigde geadresseerde als bedoeld in artikel 69
 
 ### Artikel  2b  
 
-1.  De overbrenging van accijnsgoederen onder een accijnsschorsingsregeling vangt aan, in de in artikel 2a, eerste en tweede lid, bedoelde gevallen, wanneer de accijnsgoederen de accijnsgoederenplaats onderscheidenlijk het belastingentrepot van verzending verlaten en, in de in artikel 2a, derde lid, bedoelde gevallen, wanneer zij overeenkomstig artikel 79 van Verordening (EEG) nr. 2913/92 van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (PbEG L 302) in het vrije verkeer worden gebracht.   
+1.  De overbrenging van accijnsgoederen onder een accijnsschorsingsregeling vangt aan, in de in artikel 2a, eerste en tweede lid, bedoelde gevallen, wanneer de accijnsgoederen de accijnsgoederenplaats onderscheidenlijk het belastingentrepot van verzending verlaten en, in de in artikel 2a, derde lid, bedoelde gevallen, wanneer zij overeenkomstig artikel 79 van het Communautair douanewetboek in het vrije verkeer worden gebracht.   
 2.  De overbrenging van accijnsgoederen onder een accijnsschorsingsregeling eindigt, in de in artikel 2a, eerste lid, onderdelen a, b, c en e, tweede lid, en derde lid, onderdelen a, b, c en e, bedoelde gevallen, op het tijdstip waarop de geadresseerde de accijnsgoederen in ontvangst heeft genomen, en, in de in artikel 2a, eerste lid, onderdeel d, en derde lid, onderdeel d, bedoelde gevallen, op het tijdstip waarop de goederen het grondgebied van de Gemeenschap hebben verlaten.   
 
 ### Artikel  2c  
@@ -227,7 +237,9 @@ f. 2902 20, 2902 30, 2902 41, 2902 42, 2902 43 en 2902 44;
 
 g. 2905 11 00, die niet langs synthetische weg zijn verkregen en die zijn bestemd om te worden gebruikt als motorbrandstof of als brandstof voor verwarming;  
 
-h. 3824 90 99, indien deze zijn bestemd om te worden gebruikt als motorbrandstof of als brandstof voor verwarming.     
+h. 3811 11 10, 3811 11 90, 3811 19 00 en 3811 90 00;  
+
+i. 3824 90 99, indien deze zijn bestemd om te worden gebruikt als motorbrandstof of als brandstof voor verwarming.     
 
 ### Hoofdstuk  II  
 
@@ -249,13 +261,13 @@ b. elk produkt van GN-code 2206 dat een mengsel van bier als bedoeld in onderdee
 
 1.  De accijns bedraagt per hectoliter voor bier met een extractgehalte, uitgedrukt in percenten Plato, van: 
 
-a. minder dan 7 € 5,50;  
+a. minder dan 7 € 6,05;  
 
-b. 7 tot 11 € 24,49;  
+b. 7 tot 11 € 26,94;  
 
-c. 11 tot 15 € 32,64;  
+c. 11 tot 15 € 35,90;  
 
-d. 15 en meer € 40,82.     
+d. 15 en meer € 44,90.     
 2.  Met betrekking tot bier als bedoeld in artikel 6, onderdeel b, met een alcoholgehalte van niet meer dan 1,2%vol wordt het tarief van het eerste lid, onderdeel *a*, toegepast.   
 3.  In afwijking in zoverre van het eerste lid bedraagt de accijns voor bier dat is vervaardigd in een accijnsgoederenplaats waar in het voorafgaande kalenderjaar niet meer dan 200 000 hl bier is vervaardigd 92,5/100 deel van de in de onderdelen b, c en d vermelde bedragen.   
 4.  Het derde lid vindt slechts toepassing met betrekking tot een accijnsgoederenplaats die: 
@@ -270,7 +282,7 @@ c. geen bier vervaardigt onder licentie, tenzij het onder licentie vervaardigde 
 7.  Bij ministeriële regeling worden regels gesteld met betrekking tot de toepassing van het derde en vierde lid.   
 8.  Bij ministeriële regeling worden regels gesteld met betrekking tot het bepalen van het extractgehalte.   
 9.  Voor de toepassing van het eerste en het tweede lid wordt, met inachtneming van bij ministeriële regeling te stellen regels, het volume van bier in geconcentreerde vorm herleid tot het volume van voor gebruik gereed bier.   
-10.  Dit artikel is van overeenkomstige toepassing met betrekking tot bier dat afkomstig is uit een belastingentrepot waar bier wordt vervaardigd of uit een in een derde land gelegen brouwerij.   
+10.  Dit artikel is van overeenkomstige toepassing op bier dat afkomstig is uit een brouwerij buiten Nederland.   
 
 ### Afdeling  2  
 
@@ -310,16 +322,16 @@ b. een alcoholgehalte hebben van meer dan 1,2%vol maar niet meer dan 13%vol, dan
 
 1.  De accijns bedraagt per hectoliter voor niet-mousserende wijn met een alcoholgehalte van: 
 
-a. niet meer dan 8,5% vol € 35,28;  
+a. niet meer dan 8,5% vol € 41,78;  
 
-b. meer dan 8,5%vol, maar niet meer dan 15%vol € 70,56;  
+b. meer dan 8,5% vol, maar niet meer dan 15% vol € 83,56;  
 
-c. meer dan 15%vol € 122,75.     
+c. meer dan 15% vol € 122,75.     
 2.  De accijns bedraagt per hectoliter voor mousserende wijn met een alcoholgehalte van: 
 
-a. niet meer dan 8,5%vol € 45,63;  
+a. niet meer dan 8,5% vol € 45,63;  
 
-b. meer dan 8,5%vol € 240,58.     
+b. meer dan 8,5% vol € 240,58.     
 
 ### Afdeling  2a  
 
@@ -339,12 +351,12 @@ Onder mousserende tussenprodukten worden verstaan alle niet als bier of wijn aan
 
 ### Artikel  11d  
 
-1.  De accijns bedraagt per hectoliter voor niet-mousserende tussenprodukten met een alcoholgehalte van: 
+1.  De accijns bedraagt per hectoliter voor niet-mousserende tussenproducten met een alcoholgehalte van: 
 
-a. niet meer dan 15%vol € 87,14;  
+a. niet meer dan 15% vol € 100,22;  
 
-b. meer dan 15%vol € 122,75.     
-2.  De accijns bedraagt per hectoliter voor mousserende tussenprodukten € 240,58.   
+b. meer dan 15% vol € 141,17.     
+2.  De accijns bedraagt per hectoliter voor mousserende tussenproducten € 240,58.   
 
 ### Afdeling  3  
 
@@ -361,7 +373,7 @@ b. produkten van GN-codes 2204, 2205 en 2206 met een alcoholgehalte van meer dan
 
 ### Artikel  13  
 
-De accijns bedraagt voor overige alcoholhoudende produkten per hectoliter bij een temperatuur van 20°C per volume-percent alcohol € 15,04.  
+De accijns bedraagt voor overige alcoholhoudende produkten per hectoliter bij een temperatuur van 20°C per volume-percent alcohol € 15,94.  
 
 ### Artikel  14  
 
@@ -419,39 +431,35 @@ b. andere koolwaterstoffen dan bedoeld in het eerste lid of in onderdeel *a*, di
 
 1.  De accijns bedraagt voor: 
 
-a. lichte olie, per 1000 L bij een temperatuur van 15°C € 813,48 indien het gelode lichte olie betreft en € 730,48 indien het ongelode lichte olie betreft;  
+a. lichte olie, per 1000 L bij een temperatuur van 15°C € 831,38 indien het gelode lichte olie betreft en € 746,55 indien het ongelode lichte olie betreft;  
 
-b. halfzware olie en gasolie, per 1000 L bij een temperatuur van 15 °C € 430,80 indien het zwavelvrije halfzware olie en gasolie betreft en € 441,72 indien het andere halfzware olie en gasolie betreft;  
+b. halfzware olie en gasolie, per 1000 L bij een temperatuur van 15 °C € 440,28 indien het zwavelvrije halfzware olie en gasolie betreft en € 451, 44 indien het andere halfzware olie en gasolie betreft;  
 
-c. zware stookolie, per 1 000 kg € 34,47;  
+c. zware stookolie, per 1 000 kg € 35,23;  
 
-d. vloeibaar gemaakt petroleumgas, per 1000 kg € 167,54;  
+d. vloeibaar gemaakt petroleumgas, per 1000 kg € 180,04;  
 
 e. methaan nihil.     
-2.   Vervallen.    
-3.  In afwijking in zoverre van het eerste lid, onderdeel b, bedraagt de accijns voor halfzware olie en gasolie die zijn bestemd voor ander gebruik dan voor het aandrijven van motorrijtuigen op de weg of van pleziervaartuigen of voor de voortstuwing van luchtvaartuigen en die daartoe zijn voorzien van bij ministeriële regeling, onder daarbij te stellen voorwaarden, voorgeschreven herkenningsmiddelen, per 1 000 L bij een temperatuur van 15 °C € 258,86.   
-4.   Vervallen.    
-5.  Voor de toepassing van deze wet en de daarop gebaseerde regelingen wordt verstaan onder: 
+2.  Voor de toepassing van het tarief als bedoeld in het eerste lid, onderdelen a en b, worden bij ministeriële regeling regels gesteld met betrekking tot de herleiding van de actuele hoeveelheden minerale oliën naar hoeveelheden bij een temperatuur van 15°C.   
+3.  Onder zwavelvrije halfzware olie en gasolie wordt verstaan halfzware olie en gasolie met een zwavelgehalte van maximaal 10 mg/kg.   
+4.  Voor de toepassing van deze wet en de daarop gebaseerde regelingen wordt verstaan onder: 
 
 a. weg: elke voor het openbaar rijverkeer of ander verkeer openstaande weg en elk zodanig pad, de in de weg of het pad liggende bruggen en duikers alsmede de tot de weg behorende paden en bermen of zijkanten;  
 
-b. motorrijtuig: een voertuig dat is bestemd om anders dan langs spoorstaven te worden voortbewogen uitsluitend of mede door een mechanische kracht, op of aan het voertuig aanwezig;  
-
-c. pleziervaartuig: een vaartuig dat wordt gebruikt door de eigenaar daarvan of door de natuurlijke of rechtspersoon die het gebruik daarvan geniet door huur of anderszins, voor andere dan commerciële doeleinden en met name voor andere doeleinden dan voor het vervoer van personen of goederen of voor het verrichten van diensten tegen betaling, dan wel ten behoeve van overheidsinstanties.     
-6.  Voor de toepassing van deze wet en de daarop gebaseerde regelingen wordt het toevoegen van herkenningsmiddelen als bedoeld in het derde lid aan minerale oliën, alsmede het afscheiden van die herkenningsmiddelen of bestanddelen daarvan van de minerale oliën waaraan zij zijn toegevoegd, het opheffen of veranderen van de werking daarvan daaronder begrepen, aangemerkt als het vervaardigen van een accijnsgoed.   
-7.  Voor de toepassing van het tarief als bedoeld in het eerste lid, onderdelen a en b, en het derde lid, worden bij ministeriële regeling regels gesteld met betrekking tot de herleiding van de actuele hoeveelheden minerale oliën naar hoeveelheden bij een temperatuur van 15°C.   
-8.  Onder zwavelvrije halfzware olie en gasolie wordt verstaan halfzware olie en gasolie met een zwavelgehalte van maximaal 10 mg/kg.   
+b. motorrijtuig: een voertuig dat is bestemd om anders dan langs spoorstaven te worden voortbewogen uitsluitend of mede door een mechanische kracht, op of aan het voertuig aanwezig.     
 
 ### Artikel  27a  
 
-De [artikelen 10.1](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) zijn van overeenkomstige toepassing op de in de artikelen 27, eerste en derde lid, 71b, tweede lid, 71c, tweede lid, 71e, tweede lid, 71f, tweede lid en 71g, tweede lid, vermelde bedragen.  
+De [artikelen 10.1](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) zijn van overeenkomstige toepassing op de in de artikelen 27, eerste lid, 71b, tweede lid, 71c, tweede lid, 71e, tweede lid, en 71g, tweede lid, vermelde bedragen.  
 
 ### Artikel  28  
 
-1.  Andere minerale oliën dan die waarvoor in artikel 27, eerste of derde lid, een accijnstarief is vermeld, worden, indien zij zijn bestemd voor gebruik, worden aangeboden voor verkoop of worden gebruikt als brandstof voor verwarming of als motorbrandstof, aan de accijns onderworpen naar het ingevolge artikel 27, eerste of derde lid, voor de gelijkwaardige brandstof of motorbrandstof geldende tarief.   
-2.  Minerale oliën als bedoeld in artikel 25, tweede lid, onderdeel a, worden aan de accijns onderworpen naar het ingevolge artikel 27, eerste of derde lid, voor de gelijkwaardige motorbrandstof geldende tarief.   
-3.  Minerale oliën als bedoeld in artikel 25, tweede lid, onderdeel b, worden aan de accijns onderworpen naar het ingevolge artikel 27, eerste of derde lid, voor de gelijkwaardige brandstof geldende tarief.   
-4.  Minerale oliën die kunnen worden gelijkgesteld met meer dan één soort minerale olie worden voor de toepassing van het tarief gelijkgesteld met de soort minerale olie die van de desbetreffende soorten het eerst is vermeld in artikel 26, eerste lid.   
+1.  Andere minerale oliën dan die waarvoor in artikel 27, eerste lid, een accijnstarief is vermeld, worden, indien zij zijn bestemd voor gebruik, worden aangeboden voor verkoop of worden gebruikt als brandstof voor verwarming of als motorbrandstof, aan de accijns onderworpen naar het ingevolge artikel 27, eerste lid, voor de gelijkwaardige brandstof of motorbrandstof geldende tarief.   
+2.  Onverminderd het eerste lid worden minerale oliën van GN-codes 3811 11 10, 3811 11 90, 3811 19 00 en 3811 90 00 voor de toepassing van het tarief gelijkgesteld met de motorbrandstof waaraan zij bestemd zijn te worden toegevoegd.   
+3.  Minerale oliën als bedoeld in artikel 25, tweede lid, onderdeel a, worden aan de accijns onderworpen naar het ingevolge artikel 27, eerste lid, voor de gelijkwaardige motorbrandstof geldende tarief.   
+4.  Minerale oliën als bedoeld in artikel 25, tweede lid, onderdeel b, worden aan de accijns onderworpen naar het ingevolge artikel 27, eerste lid, voor de gelijkwaardige brandstof geldende tarief.   
+5.  Minerale oliën die kunnen worden gelijkgesteld met meer dan één soort minerale olie worden voor de toepassing van het tarief gelijkgesteld met de soort minerale olie die van de desbetreffende soorten het eerst is vermeld in artikel 26, eerste lid.   
+6.  Het vijfde lid is van overeenkomstige toepassing op minerale oliën van GN-codes 3811 11 10, 3811 11 90, 3811 19 00 en 3811 90 00 die aan meer dan een soort motorbrandstof kunnen worden toegevoegd.   
 
 ### Afdeling  7  
 
@@ -486,9 +494,9 @@ b. tabaksrolletjes bestaande uit een gebroken melange, met een dekblad van gerec
 
 a. sigaren 5;  
 
-b. sigaretten 7,57 benevens per 1000 stuks € 138,23, met dien verstande dat het totale bedrag van de accijns per 1000 stuks ten minste € 157,28 bedraagt;  
+b. sigaretten 3,13 benevens per 1000 stuks € 167,84, met dien verstande dat het totale bedrag van de accijns per 1000 stuks ten minste € 175,71 bedraagt;  
 
-c. rooktabak 11,97 benevens per kilogram € 51,72, met dien verstande dat het totale bedrag van de accijns per kilogram ten minste € 66,50 bedraagt.     
+c. rooktabak 7,66 benevens per kilogram € 72,04, met dien verstande dat het totale bedrag van de accijns per kilogram ten minste € 81,50 bedraagt.     
 2.  Onder de kleinhandelsprijs van een tabaksprodukt wordt verstaan de prijs waarvoor dat produkt aan anderen dan wederverkopers wordt verkocht, met inbegrip van alle belastingen en de kosten van de verpakking.   
 3.  Voor de berekening van de accijns wordt voor tabaksprodukten die worden verbruikt binnen een accijnsgoederenplaats voor tabaksprodukten de kleinhandelsprijs gesteld op die van gelijke dan wel soortgelijke produkten die worden verbruikt buiten de accijnsgoederenplaats.   
 4.  Voor de berekening van de accijns wordt een tabaksrolletje als bedoeld in artikel 31 aangemerkt als twee sigaretten wanneer het, zonder filter of mondstuk, meer dan 8 cm doch niet meer dan 11 cm lang is, en als drie sigaretten wanneer het, zonder filter of mondstuk, meer dan 11 cm doch niet meer dan 14 cm lang is, enzovoort.   
@@ -498,9 +506,9 @@ c. rooktabak 11,97 benevens per kilogram € 51,72, met dien verstande dat het t
 1.  Bij ministeriële regeling worden de in artikel 35, eerste lid, onderdelen b en c, vermelde tarieven gewijzigd bij wijziging van de gewogen gemiddelde kleinhandelsprijs van sigaretten onderscheidenlijk rooktabak.   
 2.  Indien bij wijziging van de tarieven bedoeld in het eerste lid de in artikel 35, eerste lid, onderdelen b en c opgenomen tarieven lager of gelijk zijn aan de voor de wijziging geldende tarieven blijft het eerste lid buiten toepassing.   
 3.  De gewogen gemiddelde kleinhandelsprijs is gelijk aan de op basis van de kleinhandelsprijs berekende totale waarde van alle tot verbruik uitgeslagen sigaretten respectievelijk rooktabak, gedeeld door de totale hoeveelheid tot verbruik uitgeslagen sigaretten respectievelijk rooktabak.   
-4.  De gewogen gemiddelde kleinhandelsprijs wordt uiterlijk op 1 maart van elk jaar bepaald op basis van de gegevens die betrekking hebben op alle tot verbruik uitgeslagen hoeveelheden sigaretten respectievelijk rooktabak van het voorafgaande kalenderjaar.   
+4.  De gewogen gemiddelde kleinhandelsprijs wordt uiterlijk op 15 januari van elk jaar gepubliceerd op basis van alle tot verbruik uitgeslagen sigaretten respectievelijk rooktabak in de periode van 1 oktober tot en met 30 september voorafgaand aan de datum van publicatie.   
 5.  Een wijziging overeenkomstig het eerste lid treedt in werking met ingang van 1 april van het jaar volgend op het jaar waarop de nieuwe vaststelling van de gewogen gemiddelde kleinhandelsprijs is gebaseerd.   
-6.  De wijziging van de tarieven voor sigaretten respectievelijk rooktabak geschiedt zodanig dat het tarief van het specifieke gedeelte van de accijns voor de gewijzigde gewogen gemiddelde kleinhandelsprijs wordt gebracht op 70 percent respectievelijk 60 percent van de som van het bedrag van de accijns en het bedrag van de omzetbelasting van die gewogen gemiddelde kleinhandelsprijs.   
+6.  De wijziging van de tarieven voor sigaretten respectievelijk rooktabak geschiedt zodanig dat het tarief van het specifieke gedeelte van de accijns voor de gewijzigde gewogen gemiddelde kleinhandelsprijs wordt gebracht op 76,5 percent respectievelijk 70 percent van de som van het bedrag van de accijns en het bedrag van de omzetbelasting van die gewogen gemiddelde kleinhandelsprijs.   
 7.  Bij de wijziging van de tarieven voor sigaretten respectievelijk rooktabak bedraagt het totale bedrag van de accijns van sigaretten respectievelijk rooktabak van de gewogen gemiddelde kleinhandelsprijs na de wijziging ten minste 60 percent respectievelijk 52 percent van die gewogen gemiddelde kleinhandelsprijs.   
 8.  De wijziging van de bedragen die in artikel 35, eerste lid, onderdelen b en c, zijn opgenomen als de ten minste te betalen accijns voor 1 000 stuks sigaretten respectievelijk 1 000 gram rooktabak, geschiedt zodanig dat deze accijns na de wijziging van de tarieven gelijk is aan het totale bedrag van de accijns voor 1 000 stuks sigaretten respectievelijk 1 000 gram rooktabak van de gewogen gemiddelde kleinhandelsprijs.   
 9.  Bij de wijziging wordt het tarief van het percentuele gedeelte van de accijns op honderdsten van een percent afgerond.   
@@ -750,7 +758,7 @@ a. bij toepassing van artikel 2, eerste lid, onderdeel a:
 
 b. bij toepassing van artikel 2, eerste lid, onderdeel b: de persoon die de accijnsgoederen voorhanden heeft en enig andere persoon die bij het voorhanden hebben ervan betrokken is;  
 
-c. bij toepassing van artikel 2, eerste lid, onderdeel c: de persoon die de accijnsgoederen produceert, en in geval van onregelmatige productie, enig andere persoon die bij de productie ervan betrokken is geweest;  
+c. bij toepassing van artikel 2, eerste lid, onderdeel c: de persoon die de accijnsgoederen produceert en, in geval van onregelmatige productie, enig andere persoon die bij de productie ervan betrokken is geweest;  
 
 d. bij toepassing van artikel 2, eerste lid, onderdeel d: de persoon die de accijnsgoederen bij invoer aangeeft of voor wiens rekening de goederen bij invoer worden aangegeven en, in geval van onregelmatige invoer, enig andere persoon die bij de invoer betrokken is geweest;  
 
@@ -786,15 +794,17 @@ e. in de in artikel 2a, vijfde lid, bedoelde situaties: het tijdstip van ontvang
 
 a. bij toepassing van artikel 2, vierde lid: op het tijdstip van de aanvang van het voorhanden hebben of het gebruik van de minerale oliën;  
 
-b. bij toepassing van artikel 2d, derde lid: op het tijdstip van de aanvang van het voorhanden hebben van de accijnsgoederen in Nederland;  
+b. bij toepassing van artikel 2c: op het tijdstip van de vaststelling van de in artikel 2c bedoelde onregelmatigheid;  
 
-c. bij toepassing van artikel 2d, vierde lid: op het tijdstip van de verkrijging van de minerale oliën in Nederland;  
+c. bij toepassing van artikel 2d, derde lid: op het tijdstip van de aanvang van het voorhanden hebben van de accijnsgoederen in Nederland;  
 
-d. bij toepassing van artikel 2e, eerste lid: op het tijdstip van de aanvang van het voorhanden hebben van de accijnsgoederen in Nederland;  
+d. bij toepassing van artikel 2d, vierde lid: op het tijdstip van de verkrijging van de minerale oliën in Nederland;  
 
-e. bij toepassing van artikel 2f, eerste lid: op het tijdstip van de levering van de accijnsgoederen;  
+e. bij toepassing van artikel 2e, eerste lid: op het tijdstip van de aanvang van het voorhanden hebben van de accijnsgoederen in Nederland;  
 
-f. bij toepassing van artikel 4: op het tijdstip van de vaststelling van de in artikel 4 bedoelde onregelmatigheid.     
+f. bij toepassing van artikel 2f, eerste lid: op het tijdstip van de levering van de accijnsgoederen;  
+
+g. bij toepassing van artikel 4: op het tijdstip van de vaststelling van de in artikel 4 bedoelde onregelmatigheid.     
 
 ### Artikel  53  
 
@@ -804,9 +814,16 @@ f. bij toepassing van artikel 4: op het tijdstip van de vaststelling van de in a
 
 ### Artikel  53a  
 
-1.  Bij toepassing van artikel 52, tweede lid, onderdelen a tot en met d en, voor zover het een geregistreerde geadresseerde betreft, onderdeel e, en derde lid, onderdelen a, b, c, d en f, wordt in afwijking van artikel 53, eerste lid, en van [artikel 10, tweede lid](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) uiterlijk op de dag na het in artikel 52, tweede lid, onderdelen a tot en met e, en derde lid, onderdelen a, b, c, d en f, bedoelde tijdstip de accijns op aangifte voldaan.   
+1.  In afwijking van artikel 53, eerste lid, en van [artikel 10, tweede lid](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) wordt de accijns op aangifte voldaan: 
+
+a. bij toepassing van artikel 52, tweede lid, onderdelen a tot en met d, en, voor zover het een geregistreerde geadresseerde betreft, onderdeel e: uiterlijk op de dag na het in artikel 52, tweede lid, onderdelen a tot en met e, bedoelde tijdstip;  
+
+b. bij toepassing van artikel 52, derde lid, onderdelen a, c, d en e: uiterlijk op de dag na het in artikel 52, derde lid, onderdelen a, c, d en e, bedoelde tijdstip;  
+
+c. bij toepassing van artikel 52, derde lid, onderdeel b, voor zover het een ander dan de vergunninghouder van een accijnsgoederenplaats betreft: binnen één maand na het in artikel 52, derde lid, onderdeel b, bedoelde tijdstip;  
+
+d. bij toepassing van artikel 52, derde lid, onderdeel g: binnen één maand na het in artikel 52, derde lid, onderdeel g, bedoelde tijdstip.     
 2.  In afwijking in zoverre van het eerste lid doet de geregistreerde geadresseerde aangifte van de in een week op de voet van artikel 52, tweede lid, onderdelen c en e, verschuldigd geworden accijns uiterlijk op de vrijdag van de week daaropvolgend. De verschuldigd geworden accijns wordt op aangifte voldaan.   
-3.  In afwijking in zoverre van het eerste lid wordt bij toepassing van artikel 52, derde lid, onderdeel f, de accijns op aangifte voldaan binnen één maand na het in artikel 52, derde lid, onderdeel f, bedoelde tijdstip.   
 
 ### Artikel  54  
 
@@ -817,6 +834,7 @@ f. bij toepassing van artikel 4: op het tijdstip van de vaststelling van de in a
 
 1.  De accijns wordt berekend naar het tarief dat geldt op het tijdstip van de uitslag tot verbruik.   
 2.  In de situatie, bedoeld in artikel 2, vierde lid, wordt de accijns berekend als het verschil tussen het bedrag aan accijns dat is geheven en het bedrag dat zou zijn geheven indien geen herkenningsmiddelen zouden zijn toegevoegd.   
+3.  Voor de berekening van de accijns, bedoeld in het tweede lid, wordt de hoeveelheid vastgesteld op de maximuminhoud van de tank of het reservoir waarin de brandstof voorhanden is of is geweest.   
 
 ### Afdeling  4  
 
@@ -904,11 +922,11 @@ b. overige alcoholhoudende produkten die kennelijk niet zijn bestemd voor inwend
 
 c. overige alcoholhoudende producten die worden gebruikt voor de vervaardiging van geneesmiddelen als omschreven in de Richtlijn 2001/82/EG van het Europees Parlement en de Raad van 6 november 2001 tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor diergeneeskundig gebruik (PbEG L 311) en de Richtlijn 2001/83/EG van het Europees Parlement en de Raad van 6 november 2001 tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor menselijk gebruik (PbEG L 311);  
 
-d. minerale oliën die kennelijk niet zijn bestemd om te worden gebruikt als motorbrandstof of als brandstof voor verwarming;  
+d. minerale oliën die kennelijk niet zijn bestemd om te worden gebruikt als brandstof voor verwarming, als motorbrandstof of als additief in motorbrandstoffen;  
 
 e. minerale oliën die in hoogovens met het oog op chemische reductie worden ingespoten als toevoeging aan de steenkool, die wordt gebruikt als voornaamste brandstof;  
 
-f. sigaretten en rooktabak die geheel uit andere stoffen dan tabak bestaan en die kennelijk zijn bestemd om te worden gebruikt voor medicinale doeleinden.     
+f. sigaretten en rooktabak die geheel uit andere stoffen dan tabak bestaan en die uitsluitend zijn bestemd om te worden gebruikt voor medicinale doeleinden.     
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot: 
 
 a. de aard van en de aanduiding op de verpakking van in het eerste lid bedoelde accijnsgoederen;  
@@ -925,7 +943,7 @@ a. waarvan de in artikel 64 voor de desbetreffende accijnsgoederen aangegeven be
 
 b. die door degene die de goederen betrekt, worden gebruikt als grondstof voor het vervaardigen van niet-accijnsgoederen.     
 2.  Voor de toepassing van dit artikel worden onder niet-accijnsgoederen mede verstaan minerale oliën als bedoeld in artikel 5, derde lid, onderdeel d.   
-3.  Om de accijnsgoederen met vrijstelling te kunnen betrekken dient degene die deze goederen betrekt in het bezit te zijn van een daartoe strekkende vergunning.   
+3.  Behoudens in bij algemene maatregel van bestuur aan te wijzen gevallen is degene die accijnsgoederen met vrijstelling van accijns betrekt in het bezit van een daartoe strekkende vergunning.   
 4.  De vergunning wordt op verzoek verleend door de inspecteur.   
 5.  Het verlenen, het aanpassen en het intrekken van een vergunning alsmede het afwijzen van een verzoek daartoe geschieden bij voor bezwaar vatbare beschikking.   
 6.  Binnen acht weken na ontvangst van het verzoek geeft de inspecteur een voor bezwaar vatbare beschikking op dat verzoek, dan wel zendt hij de in het zevende lid bedoelde kennisgeving.   
@@ -940,7 +958,7 @@ a. voor de aandrijving van schepen of als scheepsbehoeften aan boord van schepen
 
 b. voor de voortstuwing van luchtvaartuigen voor zover het betreft halfzware olie als bedoeld in GN-code 2710 19 21.     
 2.  De vrijstelling als bedoeld in het eerste lid, onderdelen a en b, is niet van toepassing met betrekking tot minerale oliën die worden gebruikt voor pleziervaartuigen of plezierluchtvaartuigen dan wel worden gebruikt aan boord van schepen die kennelijk niet worden gebruikt om te varen.   
-3.  Voor de toepassing van deze wet en de daarop gebaseerde regelingen wordt verstaan onder een plezierluchtvaartuig: een luchtvaartuig dat wordt gebruikt door de eigenaar daarvan of door de natuurlijke of rechtspersoon die het gebruik daarvan geniet door huur of anderszins, voor andere dan commerciële doeleinden en met name voor andere doeleinden dan voor het vervoer van personen of goederen of voor het verrichten van diensten onder bezwarende titel, dan wel ten behoeve van overheidsinstanties.   
+3.  Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder een pleziervaartuig of een plezierluchtvaartuig: een vaartuig respectievelijk een luchtvaartuig dat wordt gebruikt door de eigenaar daarvan of door de natuurlijke of rechtspersoon die het gebruik daarvan geniet door huur of anderszins, voor andere dan commerciële doeleinden en met name voor andere doeleinden dan voor het vervoer van personen of goederen of voor het verrichten van diensten onder bezwarende titel, dan wel ten behoeve van overheidsinstanties.   
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.   
 
 ### Artikel  66a  
@@ -1007,14 +1025,11 @@ b. ter zake van de levering van minerale oliën waarvoor op de voet van artikel 
 
 c. ter zake van accijnsgoederen waarvoor op de voet van artikel 66a aanspraak op vrijstelling zou bestaan;  
 
-d. voor halfzware olie en gasolie die is belast naar het tarief als bedoeld in artikel 27, eerste lid, onderdeel b, indien de olie voor andere doeleinden is gebruikt dan voor het aandrijven van motorrijtuigen op de weg of van pleziervaartuigen;  
-
-e. voor minerale oliën waarvoor op de voet van artikel 67 aanspraak op een vrijstelling zou bestaan.     
+d. voor minerale oliën waarvoor op de voet van artikel 67 aanspraak op een vrijstelling zou bestaan.     
 2.  De teruggaaf als bedoeld in het eerste lid, onderdeel a, wordt verleend aan degene die een vergunning heeft ingevolge artikel 65, derde lid.   
 3.  De teruggaaf als bedoeld in het eerste lid, onderdelen b en c, wordt verleend aan degene die de levering heeft verricht.   
-4.  De teruggaaf als bedoeld in het eerste lid, onderdeel d, wordt verleend aan degene die de halfzware olie of gasolie heeft gebruikt. De teruggaaf bedraagt per 1 000 L bij een temperatuur van 15 °C het verschil tussen het bedrag dat in artikel 27, eerste lid, onderdeel b, is vermeld voor zwavelvrije halfzware olie en gasolie, en het bedrag, vermeld in artikel 27, derde lid.   
-5.  De teruggaaf als bedoeld in het eerste lid, onderdeel e, wordt verleend aan degene die de minerale oliën gebruikt voor verwarmingsdoeleinden.   
-6.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.   
+4.  De teruggaaf, bedoeld in het eerste lid, onderdeel d, wordt verleend aan degene die de minerale oliën gebruikt voor verwarmingsdoeleinden.   
+5.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.   
 
 ### Artikel  71  
 
@@ -1041,14 +1056,14 @@ f. zijn geleverd aan een in een andere lidstaat gevestigde persoon, niet zijnde 
 ### Artikel  71b  
 
 1.  Op verzoek wordt teruggaaf van accijns verleend voor vloeibaar gemaakt petroleumgas dat is belast naar het tarief, bedoeld in artikel 27, eerste lid, onderdeel d, indien dat petroleumgas is afgeleverd in de brandstoftanks van en is gebruikt voor het aandrijven op de weg van een autobus die hoofdzakelijk wordt gebruikt voor het openbaar vervoer, bedoeld in [artikel 1, onderdeel h, van de Wet personenvervoer 2000](../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md). Onder een autobus wordt in dit artikel en de daarop berustende bepalingen verstaan een autobus als bedoeld in [artikel 2, onderdeel e, van de Wet op de motorrijtuigenbelasting 1994](../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md).   
-2.  De teruggaaf bedraagt € 48,78 per 1000 kg.   
+2.  De teruggaaf bedraagt € 49,85 per 1000 kg.   
 3.  De teruggaaf wordt verleend aan de vervoerder, bedoeld in [artikel 1, onderdeel k, van de Wet personenvervoer 2000](../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) aan wie vergunning als bedoeld in [artikel 4, eerste lid](../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), of [112 van de Wet personenvervoer 2000](../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) is verleend en op wiens naam het voor de autobus opgegeven kenteken is gesteld in het kentekenregister, bedoeld in [artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), op het tijdstip waarop het vloeibaar gemaakt petroleumgas is afgeleverd in de brandstoftank van de autobus.   
 4.  Bij ministeriële regeling kunnen nadere voorwaarden en beperkingen worden gesteld ter uitvoering van de teruggaaf.   
 
 ### Artikel  71c  
 
 1.  Op verzoek wordt teruggaaf van accijns verleend voor vloeibaar gemaakt petroleumgas dat is belast naar het tarief, bedoeld in artikel 27, eerste lid, onderdeel d, indien dat petroleumgas is afgeleverd in de brandstoftanks van en is gebruikt voor het aandrijven op de weg van motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt als vuilniswagen, kolkenzuiger of straatveegwagen.   
-2.  De teruggaaf bedraagt € 48,78 per 1 000 kg.   
+2.  De teruggaaf bedraagt € 49,85 per 1 000 kg.   
 3.  De teruggaaf wordt verleend aan degene op wiens naam het voor de vuilniswagen, kolkenzuiger of straatveegwagen opgegeven kenteken is gesteld in het kentekenregister, bedoeld in [artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), op het tijdstip waarop het vloeibaar gemaakt petroleumgas is afgeleverd in de brandstoftank van de in het eerste lid bedoelde motorrijtuigen.   
 4.  Bij ministeriële regeling kunnen nadere voorwaarden en beperkingen worden gesteld ter uitvoering van de teruggaaf.   
 
@@ -1060,34 +1075,15 @@ f. zijn geleverd aan een in een andere lidstaat gevestigde persoon, niet zijnde 
 
 ### Artikel  71e  
 
-1.  Op verzoek wordt teruggaaf van accijns verleend voor halfzware olie, gasolie en vloeibaar gemaakt petroleumgas gebruikt voor verwarming ter bevordering van het groeiproces van tuinbouwproducten als bedoeld in post a 32 van de bij de [Wet op de omzetbelasting 1968 behorende Tabel 1](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), indien geen aansluiting aanwezig is voor aardgas.   
-2.  De teruggaaf, bedoeld in het eerste lid, bedraagt voor: 
-
-a. halfzware olie en gasolie, per 1000 L € 158,62;  
-
-b. vloeibaar gemaakt petroleumgas, per 1000 kilogram € 134,95.     
-3.  De teruggaaf wordt verleend aan de tuinbouwer die de in het eerste lid bedoelde minerale oliën gebruikt voor het in het eerste lid bedoelde gebruik.   
-4.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.   
-
-### Artikel  71f  
-
-1.  Op verzoek wordt aan de verbruiker teruggaaf van accijns verleend met betrekking tot halfzware olie en gasolie, bedoeld in artikel 27, derde lid, en vloeibaar gemaakt petroleumgas, dat is bestemd voor ander gebruik dan voor het aandrijven van motorrijtuigen op de weg, of van pleziervaartuigen of voor de voortstuwing van luchtvaartuigen, mits de verbruiker de brandstoffen voor eigen verbruik heeft betrokken en voor zover de hoeveelheid die door de verbruiker is betrokken hoger is dan 159 000 L halfzware olie, 153 000 L gasolie onderscheidenlijk 119 000 kilogram vloeibaar gemaakt petroleumgas per kalenderjaar.   
-2.  De teruggaaf, bedoeld in het eerste lid, bedraagt: 
-
-a. voor halfzware olie en gasolie, per 1000 L € 33,66;  
-
-b. voor vloeibaar gemaakt petroleumgas, per 1000 kilogram € 39,84.     
-3.  Bij algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder de teruggaaf, bedoeld in het eerste lid, wordt verleend.   
+1.  Op verzoek wordt teruggaaf van accijns verleend voor vloeibaar gemaakt petroleumgas gebruikt voor verwarming ter bevordering van het groeiproces van tuinbouwproducten als bedoeld in post a 32 van de bij de [Wet op de omzetbelasting 1968 behorende Tabel 1](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), indien geen aansluiting aanwezig is voor aardgas.   
+2.  De teruggaaf, bedoeld in het eerste lid, bedraagt € 137,92 per 1 000 kilogram vloeibaar gemaakt petroleumgas.   
+3.  De teruggaaf wordt verleend aan de tuinbouwer die het vloeibaar gemaakt petroleumgas gebruikt voor het in het eerste lid bedoelde gebruik.   
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.   
 
 ### Artikel  71g  
 
-1.  [Artikel 69 van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) is van overeenkomstige toepassing met betrekking tot halfzware olie, gasolie en vloeibaar gemaakt petroleumgas, indien geen aansluiting aanwezig is voor aardgas.   
-2.  In afwijking van [artikel 69, vijfde en zesde lid, van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) bedraagt de teruggaaf voor: 
-
-a. halfzware olie en gasolie, per 1000 L € 88,85;  
-
-b. vloeibaar gemaakt petroleumgas, per 1000 kilogram € 78,84.     
+1.  [Artikel 69 van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) is van overeenkomstige toepassing met betrekking tot vloeibaar gemaakt petroleumgas, indien geen aansluiting aanwezig is voor aardgas.   
+2.  In afwijking van [artikel 69, vijfde en zesde lid, van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) bedraagt de teruggaaf € 80,57 per 1 000 kilogram vloeibaar gemaakt petroleumgas.   
 
 ### Artikel  71h  
 
@@ -1106,7 +1102,8 @@ b. indien 10 procent of meer van de in de motorbrandstof aanwezige energie afkom
 
 ### Artikel  72  
 
-De inspecteur beslist op een verzoek om teruggaaf bij voor bezwaar vatbare beschikking.  
+1.  Teruggaaf van accijns wordt verleend tot ten hoogste het bedrag dat aan accijns is voldaan.   
+2.  Op een verzoek om teruggaaf van accijns beslist de inspecteur bij voor bezwaar vatbare beschikking.   
 
 ### Hoofdstuk  Va  
 
@@ -1146,7 +1143,7 @@ a. de vergunninghouder van een accijnsgoederenplaats voor tabaksproducten;
 
 b. de in Nederland gevestigde geregistreerde geadresseerde;  
 
-c. de fiscaal vertegenwoordiger van een niet in Nederland gevestigd bedrijf die buiten Nederland tabaksproducten van accijnszegels voorziet;  
+c. de fiscaal vertegenwoordiger van een niet in Nederland gevestigd bedrijf dat buiten Nederland tabaksproducten van accijnszegels voorziet;  
 
 d. een in Nederland gevestigd bedrijf dat buiten Nederland tabaksproducten van accijnszegels voorziet.   De inspecteur beslist bij afwijzing van de aanvraag van accijnszegels bij voor bezwaar vatbare beschikking.   
 2.  Degene die accijnszegels wil aanvragen verzoekt bij de inspecteur om toestemming voor het aanvragen van accijnszegels. De inspecteur beslist op de aanvraag alsmede het intrekken van een toestemming bij voor bezwaar vatbare beschikking.   
@@ -1273,10 +1270,10 @@ b. de bestuurder van een ander vervoermiddel dan een schip gehouden dit terstond
 
 ### Artikel  84a  
 
-1.  In geval van verhoging van de accijns, bedoeld in artikel 27, eerste of derde lid, wordt ter zake van het bij het ingaan van die verhoging voorhanden hebben in een opslagplaats van de desbetreffende minerale oliën, accijns geheven, die per 1000 L bij een temperatuur van 15°C onderscheidenlijk per 1000 kg gelijk is aan de verhoging van het daarvoor in artikel 27, eerste of derde lid, vermelde bedrag. Onder het voorhanden hebben wordt mede begrepen het vervoer naar een opslagplaats.   
+1.  In geval van verhoging van de accijns, bedoeld in artikel 27, eerste lid, wordt ter zake van het bij het ingaan van die verhoging voorhanden hebben in een opslagplaats van de desbetreffende minerale oliën, accijns geheven, die per 1000 L bij een temperatuur van 15°C onderscheidenlijk per 1000 kg gelijk is aan de verhoging van het daarvoor in artikel 27, eerste lid, vermelde bedrag. Onder het voorhanden hebben wordt mede begrepen het vervoer naar een opslagplaats.   
 2.  Aan de accijns, bedoeld in het eerste lid, zijn niet onderworpen minerale oliën: 
 
-a. waarvoor het tijdstip waarop de accijns, bedoeld in artikel 27, eerste of derde lid, verschuldigd wordt, is gelegen op of na het tijdstip van de in het eerste lid bedoelde verhoging;  
+a. waarvoor het tijdstip waarop de accijns, bedoeld in artikel 27, eerste lid, verschuldigd wordt, is gelegen op of na het tijdstip van de in het eerste lid bedoelde verhoging;  
 
 b. waarvoor een vrijstelling van accijns geldt.     
 3.  Onder opslagplaats wordt verstaan elk gebouw of terrein waar minerale oliën als bedoeld in het eerste lid voor commerciële doeleinden voorhanden zijn. Opslagplaatsen in gebruik bij een zelfde persoon worden te zamen als één opslagplaats beschouwd.   
@@ -1287,7 +1284,7 @@ b. waarvoor een vrijstelling van accijns geldt.
 
 ### Artikel  84b  
 
-1.  In geval van verlaging van de accijns, bedoeld in artikel 27, eerste of derde lid, wordt voor de desbetreffende minerale oliën die bij het ingaan van de verlaging voorhanden zijn in een opslagplaats, op verzoek teruggaaf van accijns verleend, die per 1000 L bij een temperatuur van 15° C onderscheidenlijk per 1000 kg gelijk is aan de verlaging van het daarvoor in artikel 27, eerste of derde lid, vermelde bedrag. Onder voorhanden zijn wordt mede begrepen vervoer naar een opslagplaats.   
+1.  In geval van verlaging van de accijns, bedoeld in artikel 27, eerste lid, wordt voor de desbetreffende minerale oliën die bij het ingaan van de verlaging voorhanden zijn in een opslagplaats, op verzoek teruggaaf van accijns verleend, die per 1000 L bij een temperatuur van 15° C onderscheidenlijk per 1000 kg gelijk is aan de verlaging van het daarvoor in artikel 27, eerste lid, vermelde bedrag. Onder voorhanden zijn wordt mede begrepen vervoer naar een opslagplaats.   
 2.  Artikel 84a, tweede en derde lid, zijn van overeenkomstige toepassing.   
 3.  De eigenaar van de in de opslagplaats voorhanden minerale oliën dient uiterlijk de vijfde werkdag na het ingaan van de verlaging het verzoek om teruggaaf te doen bij de inspecteur.   
 4.  De inspecteur beslist op het verzoek om teruggaaf bij voor bezwaar vatbare beschikking.   
@@ -1337,24 +1334,21 @@ b. distilleertoestellen worden aangewezen waarvoor geen vergunning is vereist.
 
 ### Artikel  91  
 
-1.  Het is niet toegestaan halfzware olie en gasolie die zijn voorzien van herkenningsmiddelen als bedoeld in artikel 27, derde lid, buiten een accijnsgoederenplaats voorhanden te hebben te zamen met middelen die de afscheiding, opheffing of verandering van de werking van die herkenningsmiddelen in deze oliën kunnen bewerkstelligen of bevorderen.   
-2.  Het is niet toegestaan halfzware olie en gasolie die zijn voorzien van herkenningsmiddelen als bedoeld in artikel 27, derde lid, dan wel bestanddelen bevatten van die herkenningsmiddelen, voorhanden te hebben in: 
+1.  Het is niet toegestaan minerale oliën die zijn voorzien van bij ministeriële regeling voorgeschreven herkenningsmiddelen buiten een accijnsgoederenplaats voorhanden te hebben samen met middelen die de afscheiding, opheffing of verandering van die herkenningsmiddelen in deze oliën kunnen bewerkstelligen of bevorderen.   
+2.  Het is niet toegestaan minerale oliën die zijn voorzien van bij ministeriële regeling voorgeschreven herkenningsmiddelen dan wel bestanddelen daarvan bevatten buiten een accijnsschorsingsregeling of een douaneschorsingsregeling voorhanden te hebben anders dan in: 
 
-a. de brandstoftank van een motorrijtuig of van een pleziervaartuig;  
+a. tanks van waaruit minerale oliën worden afgeleverd in de brandstoftanks van andere schepen dan pleziervaartuigen, mits deze schepen in bezit zijn van en gebruikt worden door degene die de beschikking heeft over de eerstgenoemde tanks;  
 
-b. tanks behorende bij afleveringspompen waar minerale oliën in de brandstoftanks van motorrijtuigen of van schepen worden afgeleverd.     
-3.  Het bepaalde in het tweede lid, onderdeel *a*, is niet van toepassing op: 
+b. brandstoftanks van schepen, andere dan pleziervaartuigen, mits de minerale olie wordt gebruikt voor de aandrijving van die schepen;  
 
-a. motorrijtuigen die geen gebruik maken van de weg;  
-
-b. bij algemene maatregel van bestuur, onder daarbij te stellen voorwaarden, aan te wijzen motorrijtuigen die gewoonlijk niet worden gebruikt op de weg.     
-4.  Het bepaalde in het tweede lid, onderdeel b, is niet van toepassing indien een tank minerale oliën bevat die uitsluitend worden afgeleverd in de brandstoftanks van motorrijtuigen, als bedoeld in het derde lid, en van andere schepen dan pleziervaartuigen die in het bezit zijn van en gebruikt worden door degene die de beschikking heeft over de tank.   
-5.  Bij ministeriële regeling kan in bijzondere gevallen ontheffing worden verleend ten aanzien van een of meer van de in het eerste en het tweede lid bedoelde verboden.   
+c. opslagtanks voor minerale oliën die zijn bestemd om van daaruit te worden afgeleverd in de brandstoftanks van andere schepen dan pleziervaartuigen alsmede in ladingtanks van vaartuigen, voertuigen en treinwagons.     
+3.  Bij ministeriële regeling kan, onder daarbij te stellen voorwaarden en beperkingen, in bijzondere gevallen ontheffing worden verleend ten aanzien van de in het eerste en tweede lid bedoelde verboden.   
+4.  Bij ministeriële regeling kunnen voorwaarden en beperkingen worden gesteld ten aanzien van plaatsen waar minerale oliën voorzien van herkenningsmiddelen voorhanden mogen zijn.   
 
 ### Artikel  92  
 
-1.  Het is niet toegestaan herkenningsmiddelen als bedoeld in artikel 27, derde lid, toe te voegen aan lichte olie.   
-2.  Het is niet toegestaan lichte olie die is voorzien van die herkenningsmiddelen dan wel bestanddelen bevat van die herkenningsmiddelen, voorhanden te hebben.   
+1.  Het is niet toegestaan bij ministeriële regeling voorgeschreven herkenningsmiddelen toe te voegen aan lichte olie.   
+2.  Het is niet toegestaan lichte olie voorhanden te hebben die is voorzien van bij ministeriële regeling voorgeschreven herkenningsmiddelen of bestanddelen van die herkenningsmiddelen bevat.   
 
 ### Artikel  93  
 
@@ -1384,7 +1378,7 @@ b. een hogere prijs dan die is vermeld op de accijnszegels.
 
 ### Artikel  95a  
 
-1.  Ingeval er een autonome accijnsverhoging van de totale accijns van sigaretten of rooktabak plaatsvindt en er tussen de publicatiedatum van de als gevolg hiervan ontstane nieuwe accijnstarieven voor deze tabaksproducten en de ingangsdatum van deze nieuwe accijnstarieven ten minste twee maanden zijn gelegen, is het vanaf de eerste dag van de kalendermaand volgend op de maand waarin de accijnswijziging plaatsvindt niet toegestaan dat tabaksproduct aan wederverkopers te verkopen, te koop aan te bieden of af te leveren indien de verpakking voorzien is van de vóór de ingangsdatum van de nieuwe accijnstarieven bij de uitslag tot verbruik voor het desbetreffende tabaksproduct voorgeschreven accijnszegel.   
+1.  Ingeval er een autonome accijnsverhoging van de totale accijns van sigaretten of rooktabak plaatsvindt en er tussen de publicatiedatum van de als gevolg hiervan ontstane nieuwe accijnstarieven voor deze tabaksproducten en de ingangsdatum van deze nieuwe accijnstarieven ten minste twee maanden zijn gelegen, is het vanaf de eerste dag van de tweede kalendermaand volgend op de maand waarin de accijnswijziging plaatsvindt niet toegestaan dat tabaksproduct aan wederverkopers te verkopen, te koop aan te bieden of af te leveren indien de verpakking voorzien is van de vóór de ingangsdatum van de nieuwe accijnstarieven bij de uitslag tot verbruik voor het desbetreffende tabaksproduct voorgeschreven accijnszegel.   
 2.  Voor de toepassing van dit artikel wordt verstaan onder: 
 
 a. autonome accijnsverhoging: wijziging van de accijnstarieven, genoemd in artikel 35, die wat betreft de totale accijns tot een verhoging leidt, en die niet voortvloeit uit artikel 36;  

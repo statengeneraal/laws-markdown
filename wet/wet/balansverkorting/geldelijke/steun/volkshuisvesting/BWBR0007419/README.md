@@ -168,10 +168,6 @@ a. op grond van feiten of omstandigheden waarvan Onze Minister bij de vaststelli
 b. indien de vaststelling onjuist was en belanghebbende dit wist of behoorde te weten.     
 2.  Een in het eerste lid bedoelde beschikking kan niet meer worden ingetrokken of ten nadele van de belanghebbende worden gewijzigd indien sedert de dag waarop zij is bekendgemaakt vijf jaren zijn verstreken.   
 
-### Artikel  14  
-
-In afwijking van [artikel 8:1 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan een belanghebbende tegen een krachtens deze wet gegeven beschikking beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.  
-
 ### Artikel  15  
 
 Een ieder is verplicht aan Onze Minister gegevens en bescheiden te verstrekken voor zover dat voor de uitvoering van deze wet redelijkerwijs nodig is.  

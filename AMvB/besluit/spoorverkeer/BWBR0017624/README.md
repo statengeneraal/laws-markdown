@@ -257,6 +257,10 @@ b. indien aldaar door een begeleider van een trein een stopteken overeenkomstig 
 
 De bestuurder die een trein onbeheerd op een hoofdspoorweg achterlaat, draagt er zorg voor dat die trein niet uit zichzelf in beweging kan komen.  
 
+### Artikel  19a  
+
+Bij ministeriële regeling kunnen nadere regels worden gesteld over het veilig en ongestoord gebruik van hoofdspoorwegen en spoorvoertuigen.  
+
 ### §  3  
 
 ####Seinen
@@ -415,6 +419,42 @@ Bij ministeriële regeling kunnen nadere regels gesteld worden over aanwijzingen
 
 Het is verboden om tijdens de reis met een trein van het hoge-snelheidsspoorwegsysteem bagage in de gangpaden of in de deuropeningen te plaatsen.  
 
+### Artikel  39a  
+
+[Artikel 36, eerste lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) geldt niet voor een spoorvoertuig: 
+
+a. dat in overeenstemming met de op 31 december 2004 geldende voorschriften kon worden gebruikt op een hoofdspoorweg;  
+
+b. waarvoor Onze Minister voor 19 juli 2008 een inzetcertificaat heeft verleend als bedoeld in [artikel 36, vierde lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md), zoals dat op 19 juli 2008 luidde;  
+
+c. dat voldoet aan de technische voorschriften van de Overeenkomst inzake het wederzijdse gebruik van personenrijtuigen en bagagewagens in het internationale verkeer (RIC) in haar laatst geldende redactie, in het voertuigregister van een staat is ingeschreven, en waarmee voor 19 juli 2008 van hoofdspoorweginfrastructuur gebruik werd gemaakt, of  
+
+d. dat voldoet aan de technische voorschriften van de Overeenkomst inzake het wederzijdse gebruik van goederenwagens in het internationale verkeer (RIV) in haar laatst geldende redactie, in het voertuigregister van een staat is ingeschreven, en waarmee voor 19 juli 2008 gebruik werd gemaakt van hoofdspoorweginfrastructuur.    
+
+### Artikel  39b  
+
+1.  Bij regeling van Onze Minister worden regels gesteld over het onderzoek naar de overeenstemming van de productie van het spoorvoertuig waarvoor een vergunning voor indienststelling respectievelijk aanvullende vergunning voor indienststelling van het type is verleend, met dat type.   
+2.  Bij regeling van Onze Minister worden met inachtneming van het daaromtrent bij of krachtens richtlijn 2008/57/EG bepaalde, regels gesteld over de verlening en aanvraag van: 
+
+a. de vergunning voor indienststelling, bedoeld in [artikel 36, derde lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) en van de vergunning voor indienststelling of van de nieuwe vergunning voor indienststelling, bedoeld in [artikel 37b, derde lid van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md);  
+
+b. de aanvullende vergunning voor indienststelling, bedoeld in [artikel 36, vijfde lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) en van de aanvullende vergunning voor indienststelling en van de nieuwe aanvullende vergunning voor indienststelling, bedoeld in [artikel 37b, zesde lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md)     
+3.  Bij regeling van Onze Minister kunnen met inachtneming van het daaromtrent bij of krachtens richtlijn 2008/57/EG bepaalde, regels worden gesteld over de afgifte, vorm en inhoud van de EG-keuringsverklaring, bedoeld in [artikel 8, vierde lid](../../../../wet/spoorwegwet/BWBR0015007/README.md), onderscheidenlijk [artikel 36, zesde lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) en het informatiedossier, bedoeld in [artikel 37b, tweede lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md).   
+4.  Bij regeling van Onze Minister kunnen met inachtneming van het daaromtrent bij of krachtens richtlijn 2008/57/EG bepaalde, regels worden gesteld over het registreren of bewaren van gegevens over: 
+
+a. de afgifte van de EG-keuringsverklaring, bedoeld in [artikel 36, zesde lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md);  
+
+b. de afgifte van de verklaring, bedoeld in [artikel 36, zevende lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) of van de verklaring, bedoeld in [artikel 37b, negende lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md);  
+
+c. de aanvraag en de verlening van de vergunning voor indienststelling, bedoeld in [artikel 36, derde lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) of van de vergunning voor indienststelling of nieuwe vergunning voor indienststelling, bedoeld [artikel 37b, derde lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) en  
+
+d. de aanvraag en de verlening van de aanvullende vergunning voor indienststelling, bedoeld in [artikel 36, vijfde lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) of van de aanvullende vergunning voor indienststelling of nieuwe vergunning voor indienststelling, bedoeld in [artikel 37b, zesde lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md).     
+5.  Bij regeling van Onze Minister kunnen met inachtneming van het daaromtrent bij of krachtens richtlijn 2008/57/EG bepaalde, regels worden gesteld over: 
+
+a. vorm en inhoud van de EG-verklaringen van conformiteit of geschiktheid voor gebruik als bedoeld in artikel 13, eerste lid, van richtlijn 2008/57/EG, alsmede over het registreren of bewaren van gegevens of documenten over de afgifte, en  
+
+b. het onderzoek naar de overeenstemming van de productie van interoperabiliteitsonderdelen waarvoor goedkeuring van het type is verleend, met het goedgekeurde type.     
+
 ### §  11  
 
 ####Ontheffing en vrijstelling
@@ -436,7 +476,11 @@ b. in het belang van een veilig en ongestoord gebruik van de hoofdspoorwegen.
 
 ### Artikel  41  
 
-Overtreding van de artikelen 2, eerste, derde, vierde en vijfde lid, 3, tweede lid, 4, tweede en vierde lid, 5, 6, tweede lid, 7, 8, 8a, 9, eerste lid, 10, eerste en tweede lid, 11, 12, eerste, derde en vierde lid, 13, eerste en derde lid, 14, eerste en derde lid, 15, eerste en derde lid, 16, 17, 18, eerste, derde en vierde lid, 19, 21, 22, 23, eerste, derde en vierde lid, 24, 25, eerste lid, 27, derde lid, 30, 31, 33, 34, 35, 36, 37, eerste en derde lid, 39 en 40, vierde lid, vormt een strafbaar feit in de zin van [artikel 87, eerste lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md).  
+Overtreding van de artikelen 17, 33 en 39 vormt een strafbaar feit in de zin van [artikel 87, eerste lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md).  
+
+### Artikel  41a  
+
+Overtreding van de artikelen 2, eerste, derde, vierde en vijfde lid, 3, derde lid, 4, tweede en vierde lid, 5, 6, tweede lid, 7, 8, 8a, 9, eerste lid, 10, eerste en tweede lid, 11, 12, eerste, derde en vierde lid, 13, eerste en derde lid, 14, eerste en derde lid, 15, eerste en derde lid, 16, 18, eerste, derde en vierde lid, 19, 21, 22, 23, eerste, derde en vierde lid, 24, 25, eerste lid, 27, derde lid, 30, 31, 34, 35, 36, 37, eerste en derde lid, en 40, vierde lid, vormt een beboetbaar feit in de zin van [artikel 77, eerste lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md).  
 
 ### §  13  
 

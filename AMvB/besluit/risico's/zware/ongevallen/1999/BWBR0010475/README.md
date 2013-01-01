@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 23 juli 1998, nr. MJZ 98.0655984, Centrale Directie Juridische Zaken, Afdeling Wetgeving, mede namens Onze Minister van Binnenlandse Zaken en de Staatssecretaris van Sociale Zaken en Werkgelegenheid;
 
-Gelet op de [artikelen 8.5](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.22, derde lid](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.44](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [19.3, eerste lid](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [21.8 van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), 5, eerste lid, en 5a, eerste lid, van de Arbeidsomstandighedenwet, [13 van de Brandweerwet 1985](../../../../../../../wet/brandweerwet/1985/BWBR0003764/README.md) en [2c](../../../../../../../wet/rampenwet/BWBR0003765/README.md), [25a](../../../../../../../wet/rampenwet/BWBR0003765/README.md) en [25b van de Wet rampen en zware ongevallen](../../../../../../../wet/rampenwet/BWBR0003765/README.md), alsmede Richtlijn nr. 96/82/EG van de Raad van de Europese Unie van 9 december 1996 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (PbEG L 10);
+Gelet op de artikelen 8.5, 8.22, derde lid, 8.44, 19.3, eerste lid, en 21.8 van de Wet milieubeheer, 5, eerste lid, en 5a, eerste lid, van de Arbeidsomstandighedenwet, 13 van de Brandweerwet 1985 en 2c, 25a en 25b van de Wet rampen en zware ongevallen, alsmede Richtlijn nr. 96/82/EG van de Raad van de Europese Unie van 9 december 1996 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (PbEG L 10);
 
 De Raad van State gehoord (advies van 28 augustus 1998, nr. W08.98.0384);
 
@@ -20,15 +20,15 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. inrichting: inrichting die tot een krachtens [artikel 1.1, derde lid, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) aangewezen categorie behoort;  
+a. inrichting: inrichting die tot een krachtens artikel 1.1, derde lid, van de Wet milieubeheer aangewezen categorie behoort;  
 
 b. gevaarlijke stoffen: stoffen, mengsels of preparaten, genoemd in bijlage I, deel 1, of behorend tot een categorie, genoemd in bijlage I, deel 2, en aanwezig als grondstof, product, bijproduct, residu of tussenprodukt, met inbegrip van stoffen, mengsels of preparaten waarvan redelijkerwijs kan worden verwacht dat zij door het onbeheersbaar worden van een industrieel chemisch proces ontstaan;  
 
 c. opslag in verband met vervoer van gevaarlijke stoffen: opslag van verpakte gevaarlijke stoffen gedurende korte tijd en in afwachting van aansluitend vervoer naar een vooraf bekende ontvanger, met inbegrip van het laden en lossen van die stoffen en de overbrenging daarvan naar of van een andere tak van vervoer, voor zover daadwerkelijk in aansluitend vervoer is voorzien en de betrokken gevaarlijke stoffen in hun oorspronkelijke verpakking blijven;  
 
-d. werkgever: werkgever, bedoeld in [artikel 1, eerste en tweede lid, van de Arbeidsomstandighedenwet](../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);  
+d. werkgever: werkgever, bedoeld in artikel 1, eerste en tweede lid, van de Arbeidsomstandighedenwet;  
 
-e. werknemer: werknemer, bedoeld in [artikel 1, eerste en tweede lid, van de Arbeidsomstandighedenwet](../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);  
+e. werknemer: werknemer, bedoeld in artikel 1, eerste en tweede lid, van de Arbeidsomstandighedenwet;  
 
 f. zwaar ongeval: gebeurtenis als gevolg van onbeheersbare ontwikkelingen tijdens de bedrijfsuitoefening in een inrichting, waardoor hetzij onmiddellijk, hetzij na verloop van tijd ernstig gevaar voor de gezondheid van de mens binnen of buiten de inrichting of voor het milieu ontstaat en waarbij een of meer gevaarlijke stoffen zijn betrokken;  
 
@@ -36,7 +36,7 @@ g. Onze Ministers: Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en 
 
 h. bevoegd gezag: bestuursorgaan dat bevoegd is een omgevingsvergunning te verlenen voor een inrichting waarop dit besluit van toepassing is;  
 
-i. inspecteur: inspecteur bedoeld in [artikel 1.1, eerste lid, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+i. inspecteur: inspecteur bedoeld in artikel 1.1, eerste lid, van de Wet milieubeheer;  
 
 j. veiligheidsrapport: rapport als bedoeld in artikel 10;  
 
@@ -48,7 +48,7 @@ m. het ADR: de op 30 september 1957 te Genève totstandgekomen Europese Overeen
 
 n. plaatsgebonden risico: risico op een plaats buiten een inrichting, uitgedrukt als de kans per jaar dat een persoon die onafgebroken en onbeschermd op die plaats zou verblijven, overlijdt als rechtstreeks gevolg van een ongewoon voorval binnen die inrichting waarbij een of meer gevaarlijke stoffen betrokken zijn;  
 
-o. toezichthouder: de toezichthouder, bedoeld in [artikel 1, derde lid, onderdeel d, van de Arbeidsomstandighedenwet](../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).    
+o. toezichthouder: de toezichthouder, bedoeld in artikel 1, derde lid, onderdeel d, van de Arbeidsomstandighedenwet.    
 
 ### Artikel  2  
 
@@ -56,7 +56,7 @@ Dit besluit is niet van toepassing op:
 
 a. inrichtingen in gebruik bij de krijgsmacht;  
 
-b. inrichtingen voor het opsporen en winnen van delfstoffen als bedoeld in [artikel 1, onder e en f, van de Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md), met uitzondering van inrichtingen waar chemische en thermische verwerkingsactiviteiten en de daarmee verband houdende opslag van gevaarlijke stoffen plaatsvinden;  
+b. inrichtingen voor het opsporen en winnen van delfstoffen als bedoeld in artikel 1, onder e en f, van de Mijnbouwwet, met uitzondering van inrichtingen waar chemische en thermische verwerkingsactiviteiten en de daarmee verband houdende opslag van gevaarlijke stoffen plaatsvinden;  
 
 c. inrichtingen voor het op of in de bodem brengen van afvalstoffen om ze daar te laten, met uitzondering van inrichtingen die in werking zijn voor het zich ontdoen van residuen, waaronder residuvijvers of -bekkens, die gevaarlijke stoffen bevatten, in het bijzonder indien zij worden gebruikt in verband met chemische of thermische verwerking van mineralen;  
 
@@ -64,7 +64,7 @@ d. inrichtingen die geheel of nagenoeg geheel zijn bestemd voor de opslag in ver
 
 e. spoorwegemplacementen, voor zover zij geen onderdeel zijn van een inrichting waarop dit besluit van toepassing is;  
 
-f. inrichtingen die krachtens [artikel 1, onderdeel n, van de Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md) zijn aangewezen als mijnbouwwerken, voor zover het opsporen en winnen van delfstoffen dan wel het opslaan van gevaarlijke stoffen plaatsvindt op het continentaal plat, bedoeld in artikel 1, onderdeel c, van die wet.    
+f. inrichtingen die krachtens artikel 1, onderdeel n, van de Mijnbouwwet zijn aangewezen als mijnbouwwerken, voor zover het opsporen en winnen van delfstoffen dan wel het opslaan van gevaarlijke stoffen plaatsvindt op het continentaal plat, bedoeld in artikel 1, onderdeel c, van die wet.    
 
 ### Artikel  3  
 
@@ -87,7 +87,7 @@ b. in kleinere dan de onder a bedoelde hoeveelheden, waarvan de som na toepassin
 ### Artikel  5  
 
 1.  Degene die een inrichting drijft, treft alle maatregelen die nodig zijn om zware ongevallen te voorkomen en de gevolgen daarvan voor mens en milieu te beperken.   
-2.  Degene die een inrichting drijft, heeft in de inrichting een document voorhanden waarin het door hem gevoerde beleid ter voorkoming van zware ongevallen, rekening houdend met de aanwezigheid en de omvang van de risico's, is vastgelegd. Dit document bevat de algemene doelstellingen en beginselen van het beleid inzake de beheersing van de risico's van zware ongevallen. Het document kan worden opgenomen in het veiligheidsrapport, het veiligheids- en gezondheidsdocument, bedoeld in [artikel 2.42, tweede lid, van het Arbeidsomstandighedenbesluit](../../../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), dan wel in de combinatie van die twee rapporten, bedoeld in artikel 9, tweede lid.   
+2.  Degene die een inrichting drijft, heeft in de inrichting een document voorhanden waarin het door hem gevoerde beleid ter voorkoming van zware ongevallen, rekening houdend met de aanwezigheid en de omvang van de risico's, is vastgelegd. Dit document bevat de algemene doelstellingen en beginselen van het beleid inzake de beheersing van de risico's van zware ongevallen. Het document kan worden opgenomen in het veiligheidsrapport, het veiligheids- en gezondheidsdocument, bedoeld in artikel 2.42, tweede lid, van het Arbeidsomstandighedenbesluit, dan wel in de combinatie van die twee rapporten, bedoeld in artikel 9, tweede lid.   
 3.  Ten einde het in het tweede lid bedoelde beleid te bepalen en uit te voeren, voert degene die een inrichting drijft, een veiligheidsbeheerssysteem in. In het veiligheidsbeheerssysteem komen de elementen, genoemd in bijlage II aan de orde.   
 4.  Indien in de inrichting of een onderdeel daarvan of in de werking van de inrichting of van dat onderdeel een verandering wordt aangebracht die voor de risico's van een zwaar ongeval belangrijke gevolgen kan hebben, draagt degene die de inrichting drijft, er voor zorg dat het beleid ter voorkoming van zware ongevallen en het veiligheidsbeheerssysteem opnieuw worden beoordeeld en indien nodig worden herzien en dat het document, bedoeld in het tweede lid, dienovereenkomstig wordt gewijzigd. Een zodanige beoordeling onderscheidenlijk herziening vindt tevens plaats indien een verandering in het veiligheidsinzicht daartoe aanleiding geeft.   
 5.  Onze Ministers kunnen nadere regels stellen met betrekking tot het tweede tot en met het vierde lid.   
@@ -96,7 +96,7 @@ b. in kleinere dan de onder a bedoelde hoeveelheden, waarvan de som na toepassin
 
 1.  Degene die de inrichting drijft, stelt het bevoegd gezag onverwijld schriftelijk in kennis van: 
 
-a. iedere significante wijziging van de inrichting die betrekking heeft op een of meer onderwerpen waaromtrent in of bij de aanvraag gegevens zijn verstrekt als bedoeld in [artikel 4.13, derde lid, onder a tot en met d, van de Regeling omgevingsrecht](../../../../../../../ministeriele-regeling/regeling/omgevingsrecht/BWBR0027471/README.md), of waaromtrent in de kennisgeving, bedoeld in artikel 26, eerste lid, gegevens zijn verstrekt;  
+a. iedere significante wijziging van de inrichting die betrekking heeft op een of meer onderwerpen waaromtrent in of bij de aanvraag gegevens zijn verstrekt als bedoeld in artikel 4.13, derde lid, onder a tot en met d, van de Regeling omgevingsrecht, of waaromtrent in de kennisgeving, bedoeld in artikel 26, eerste lid, gegevens zijn verstrekt;  
 
 b. iedere significante wijziging van de processen waarbij een gevaarlijke stof wordt gebruikt;  
 
@@ -120,7 +120,7 @@ f. het bestuur van de veiligheidsregio waarin de inrichting geheel of gedeelteli
 
 ### Artikel  7  
 
-1.  Het bevoegd gezag wijst op grond van de gegevens, bedoeld in de artikelen 6, eerste lid, 10, eerste lid, 26, eerste lid, van dit besluit en [artikel 4.13, derde lid, van de Regeling omgevingsrecht](../../../../../../../ministeriele-regeling/regeling/omgevingsrecht/BWBR0027471/README.md), inrichtingen of groepen inrichtingen aan ten aanzien waarvan de risico's van een zwaar ongeval of de gevolgen daarvan ten gevolge van de ligging van die inrichtingen ten opzichte van elkaar en de aanwezigheid van gevaarlijke stoffen in die inrichtingen groter kunnen zijn dan op grond van de in die afzonderlijke inrichtingen aanwezige hoeveelheden kan worden verwacht.   
+1.  Het bevoegd gezag wijst op grond van de gegevens, bedoeld in de artikelen 6, eerste lid, 10, eerste lid, 26, eerste lid, van dit besluit en artikel 4.13, derde lid, van de Regeling omgevingsrecht, inrichtingen of groepen inrichtingen aan ten aanzien waarvan de risico's van een zwaar ongeval of de gevolgen daarvan ten gevolge van de ligging van die inrichtingen ten opzichte van elkaar en de aanwezigheid van gevaarlijke stoffen in die inrichtingen groter kunnen zijn dan op grond van de in die afzonderlijke inrichtingen aanwezige hoeveelheden kan worden verwacht.   
 2.  Van een aanwijzing als bedoeld in het eerste lid stelt het bevoegd gezag diegenen die de betrokken inrichtingen drijven, in kennis. Het bevoegd gezag zendt een afschrift van die aanwijzing aan: 
 
 a. de daartoe door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouder;  
@@ -148,7 +148,7 @@ b. in kleinere dan de onder a bedoelde hoeveelheden, waarvan de som na toepassin
 ### Artikel  9  
 
 1.  Degene die een inrichting drijft, zorgt er voor dat in de inrichting een veiligheidsrapport aanwezig is dat de actuele stand van zaken met betrekking tot de veiligheid van de betrokken inrichting weergeeft.   
-2.  Degene die een inrichting drijft kan het veiligheidsrapport met het veiligheids- en gezondheidsdocument, bedoeld in [artikel 2.42, tweede lid, van het Arbeidsomstandighedenbesluit](../../../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), combineren tot één rapport.   
+2.  Degene die een inrichting drijft kan het veiligheidsrapport met het veiligheids- en gezondheidsdocument, bedoeld in artikel 2.42, tweede lid, van het Arbeidsomstandighedenbesluit, combineren tot één rapport.   
 
 ### Artikel  10  
 
@@ -172,18 +172,18 @@ b. het bestuur van de veiligheidsregio waarin de inrichting geheel of gedeelteli
 
 ### Artikel  11  
 
-1.  De werkgever zorgt ervoor dat de werknemers, de deskundigen, genoemd in [artikel 13 van de Arbeidsomstandighedenwet](../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), en de deskundigen of arbodiensten, genoemd in de [artikelen 14](../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [14a van de Arbeidsomstandighedenwet](../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), desgewenst kennis kunnen nemen van het veiligheidsrapport en de wijziging daarvan, voorzover het betreft de onderdelen a, c, d, e, onder 1°, f, h tot en met l, n, p en q van bijlage III, onder 1, voorzover die onderdelen verband houden met de bescherming van de veiligheid en de gezondheid van de in het bedrijf of de inrichting of een deel daarvan werkzame werknemers.   
+1.  De werkgever zorgt ervoor dat de werknemers, de deskundigen, genoemd in artikel 13 van de Arbeidsomstandighedenwet, en de deskundigen of arbodiensten, genoemd in de artikelen 14 en 14a van de Arbeidsomstandighedenwet, desgewenst kennis kunnen nemen van het veiligheidsrapport en de wijziging daarvan, voorzover het betreft de onderdelen a, c, d, e, onder 1°, f, h tot en met l, n, p en q van bijlage III, onder 1, voorzover die onderdelen verband houden met de bescherming van de veiligheid en de gezondheid van de in het bedrijf of de inrichting of een deel daarvan werkzame werknemers.   
 2.  De werkgever voert over de onderdelen van het veiligheidsrapport, genoemd in het eerste lid, en de wijziging daarvan, voorafgaand aan de toezending aan het bevoegd gezag, bij het ontbreken van een ondernemingsraad of personeelsvertegenwoordiging, overleg met de belanghebbende werknemers.   
 
 ### Artikel  12  
 
-De artikelen 15, 16 en 18 zijn niet van toepassing op de onderdelen van een veiligheidsrapport die bij een aanvraag om een vergunning als bedoeld in de [artikelen 4.13](../../../../../../../ministeriele-regeling/regeling/omgevingsrecht/BWBR0027471/README.md), [4.17](../../../../../../../ministeriele-regeling/regeling/omgevingsrecht/BWBR0027471/README.md) of [4.19 van de Regeling omgevingsrecht](../../../../../../../ministeriele-regeling/regeling/omgevingsrecht/BWBR0027471/README.md) worden ingediend.  
+De artikelen 15, 16 en 18 zijn niet van toepassing op de onderdelen van een veiligheidsrapport die bij een aanvraag om een vergunning als bedoeld in de artikelen 4.13, 4.17 of 4.19 van de Regeling omgevingsrecht worden ingediend.  
 
 ### Artikel  13  
 
-1.  Indien een aanvraag als bedoeld in artikel 12 wordt ingediend, bevat het veiligheidsrapport mede de gegevens, bedoeld in bijlage III, onder 1, onder e, 3°, en onder r. [Artikel 6.15, eerste en derde lid, van het Besluit omgevingsrecht](../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md) is van overeenkomstige toepassing op de gegevens, bedoeld in de eerste volzin.   
-2.  Degene die een inrichting gaat drijven, zendt voordat de inrichting of een onderdeel daarvan in werking wordt gebracht, ter completering van de onderdelen van het veiligheidsrapport bedoeld in [artikel 4.13, eerste lid, van de Regeling omgevingsrecht](../../../../../../../ministeriele-regeling/regeling/omgevingsrecht/BWBR0027471/README.md) en van de gegevens, bedoeld in het eerste lid, aan het bevoegd gezag de gegevens die een veiligheidsrapport dient te bevatten en die nog niet krachtens dat artikel en krachtens het eerste lid zijn verstrekt.   
-3.  Degene die een inrichting drijft zendt telkens voordat een verandering van de inrichting of van de werking daarvan of een verandering van de installatie of van de werking daarvan wordt aangebracht die voor de risico's van een zwaar ongeval belangrijke gevolgen kan hebben aan het bevoegd gezag die onderdelen van het veiligheidsrapport die nodig zijn voor de beoordeling van de risico's die samenhangen met die verandering. Daartoe zendt hij, voor zover van toepassing, ter completering van de onderdelen van het veiligheidsrapport bedoeld in [artikel 4.17 van de Regeling omgevingsrecht](../../../../../../../ministeriele-regeling/regeling/omgevingsrecht/BWBR0027471/README.md) en van de gegevens, bedoeld in het eerste lid, aan het bevoegd gezag de gegevens die een veiligheidsrapport dient te bevatten en die nog niet krachtens die artikelen en krachtens het eerste lid zijn verstrekt.   
+1.  Indien een aanvraag als bedoeld in artikel 12 wordt ingediend, bevat het veiligheidsrapport mede de gegevens, bedoeld in bijlage III, onder 1, onder e, 3°, en onder r. Artikel 6.15, eerste en derde lid, van het Besluit omgevingsrecht is van overeenkomstige toepassing op de gegevens, bedoeld in de eerste volzin.   
+2.  Degene die een inrichting gaat drijven, zendt voordat de inrichting of een onderdeel daarvan in werking wordt gebracht, ter completering van de onderdelen van het veiligheidsrapport bedoeld in artikel 4.13, eerste lid, van de Regeling omgevingsrecht en van de gegevens, bedoeld in het eerste lid, aan het bevoegd gezag de gegevens die een veiligheidsrapport dient te bevatten en die nog niet krachtens dat artikel en krachtens het eerste lid zijn verstrekt.   
+3.  Degene die een inrichting drijft zendt telkens voordat een verandering van de inrichting of van de werking daarvan of een verandering van de installatie of van de werking daarvan wordt aangebracht die voor de risico's van een zwaar ongeval belangrijke gevolgen kan hebben aan het bevoegd gezag die onderdelen van het veiligheidsrapport die nodig zijn voor de beoordeling van de risico's die samenhangen met die verandering. Daartoe zendt hij, voor zover van toepassing, ter completering van de onderdelen van het veiligheidsrapport bedoeld in artikel 4.17 van de Regeling omgevingsrecht en van de gegevens, bedoeld in het eerste lid, aan het bevoegd gezag de gegevens die een veiligheidsrapport dient te bevatten en die nog niet krachtens die artikelen en krachtens het eerste lid zijn verstrekt.   
 4.  De artikelen 16 tot en met 18 zijn van overeenkomstige toepassing op de gegevens, bedoeld in het eerste lid.   
 5.  De artikelen 15 tot en met 18 zijn van overeenkomstige toepassing op de aanvullende gegevens, bedoeld in het tweede lid en het derde lid, tweede volzin.   
 
@@ -205,7 +205,7 @@ a. de daartoe door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen
 b. burgemeester en wethouders van de gemeente waarin de inrichting geheel of gedeeltelijk is gelegen, tenzij burgemeester en wethouders het bevoegd gezag zijn, en  
 
 c. het bestuur van de veiligheidsregio waarin de inrichting geheel of gedeeltelijk is gelegen.     
-4.  Het bevoegd gezag stelt het bestuursorgaan dat tot het verlenen van de vergunning krachtens de [Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md) bevoegd is, in de gelegenheid advies uit te brengen over die onderdelen van het veiligheidsrapport, die betrekking hebben op de risico's voor een oppervlaktewaterlichaam.   
+4.  Het bevoegd gezag stelt het bestuursorgaan dat tot het verlenen van de vergunning krachtens de Waterwet bevoegd is, in de gelegenheid advies uit te brengen over die onderdelen van het veiligheidsrapport, die betrekking hebben op de risico's voor een oppervlaktewaterlichaam.   
 
 ### Artikel  16  
 
@@ -227,7 +227,7 @@ De stukken bedoeld in de artikelen 13, 14 en 16, vierde lid, worden in zevenvoud
 a. terinzagelegging;  
 
 b. kennisgeving in een of meer dag-, nieuws- of huis-aan-huisbladen.     
-2.  De mededeling strekt mede ter voldoening aan de verplichting die ingevolge [artikel 49, eerste lid, van de Wet veiligheidsregio’s](../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) rust op het bestuur van de veiligheidsregio en ter voldoening aan de verplichting die ingevolge [artikel 7 van de Arbeidsomstandighedenwet](../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) rust op de daartoe door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouder.   
+2.  De mededeling strekt mede ter voldoening aan de verplichting die ingevolge artikel 49, eerste lid, van de Wet veiligheidsregio’s rust op het bestuur van de veiligheidsregio en ter voldoening aan de verplichting die ingevolge artikel 7 van de Arbeidsomstandighedenwet rust op de daartoe door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouder.   
 3.  Gedurende vier weken vanaf de dag waarop het veiligheidsrapport ter inzage is gelegd, kunnen de stukken worden ingezien op een tijd en plaats die bij de mededeling, bedoeld in het eerste lid, is vermeld.   
 4.  Gelijktijdig met de mededeling, bedoeld in het eerste lid, zendt het bevoegd gezag een exemplaar van het veiligheidsrapport aan: 
 
@@ -237,15 +237,15 @@ b. burgemeester en wethouders van de gemeenten waarvan het grondgebied is gelege
 
 c. het bestuur van de veiligheidsregio waarin een gemeente als bedoeld onder a of b is gelegen;  
 
-d. het Rijksinstituut voor Volksgezondheid en Milieu, en;  
+d. het Rijksinstituut voor Volksgezondheid en Milieu, en  
 
-e. het bestuursorgaan dat bevoegd is tot verlening van de vergunning krachtens de [Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md).     
+e. het bestuursorgaan dat bevoegd is tot verlening van de vergunning krachtens de Waterwet.     
 5.  Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer zendt, indien de lijn van 10 <sup>-8</sup> van het plaatsgebonden risico, bedoeld in bijlage III, onder 2, onder c, zich uitstrekt over het grondgebied van een andere staat een exemplaar aan die staat. In dat geval zendt hij tevens een exemplaar aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
-6.  In een geval als bedoeld in het vijfde lid, eerste volzin, zendt Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, indien krachtens [artikel 19.3 van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) een tweede tekst is overgelegd, een exemplaar van deze tekst aan de betrokken staat.   
+6.  In een geval als bedoeld in het vijfde lid, eerste volzin, zendt Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, indien krachtens artikel 19.3 van de Wet milieubeheer een tweede tekst is overgelegd, een exemplaar van deze tekst aan de betrokken staat.   
 
 ### Artikel  19  
 
-Als gegevens als bedoeld in [artikel 19.3, eerste lid, laatste volzin, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) worden persoonlijke gegevens aangewezen.  
+Als gegevens als bedoeld in artikel 19.3, eerste lid, laatste volzin, van de Wet milieubeheer worden persoonlijke gegevens aangewezen.  
 
 ### Artikel  20  
 
@@ -254,7 +254,7 @@ Als gegevens als bedoeld in [artikel 19.3, eerste lid, laatste volzin, van de We
 
 ### Artikel  21  
 
-1.  Degene die een inrichting drijft, houdt een bijgewerkte lijst van in de inrichting aanwezige gevaarlijke stoffen bij en zorgt er voor dat deze lijst door een ieder kan worden geraadpleegd. Indien krachtens [artikel 19.3 van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) een tweede tekst van het veiligheidsrapport is overgelegd waar uit de beschrijving van de stoffen ingevolge Bijlage III, eerste lid, onderdeel j, stoffen zijn weggelaten, blijft vermelding van die stoffen op de lijst, bedoeld in de eerste zin, achterwege.   
+1.  Degene die een inrichting drijft, houdt een bijgewerkte lijst van in de inrichting aanwezige gevaarlijke stoffen bij en zorgt er voor dat deze lijst door een ieder kan worden geraadpleegd. Indien krachtens artikel 19.3 van de Wet milieubeheer een tweede tekst van het veiligheidsrapport is overgelegd waar uit de beschrijving van de stoffen ingevolge Bijlage III, eerste lid, onderdeel j, stoffen zijn weggelaten, blijft vermelding van die stoffen op de lijst, bedoeld in de eerste zin, achterwege.   
 2.  Onze Ministers kunnen nadere regels stellen met betrekking tot het eerste lid.   
 
 ### Artikel  22  
@@ -262,12 +262,12 @@ Als gegevens als bedoeld in [artikel 19.3, eerste lid, laatste volzin, van de We
 1.  Degene die een inrichting drijft, stelt een intern noodplan op voor bij een zwaar ongeval binnen de inrichting ten uitvoer te leggen maatregelen, gericht op het beperken en beheersen van zware ongevallen en de gevolgen ervan voor de werknemers. Het intern noodplan bevat tenminste de gegevens en beschrijvingen, bedoeld in bijlage IV.   
 2.  Degene die een inrichting drijft draagt er zorg voor dat het intern noodplan tenminste eens per drie jaar wordt geëvalueerd, beproefd en zonodig gewijzigd. Bij de evaluatie wordt rekening gehouden met veranderingen die zich in de inrichting hebben voorgedaan, en met nieuwe kennis en inzichten omtrent de bij een zwaar ongeval te nemen maatregelen.   
 3.  Het intern noodplan en de wijziging daarvan worden, bij het ontbreken van een ondernemingsraad of personeelsvertegenwoordiging, opgesteld met raadpleging van de belanghebbende werknemers. Over het intern noodplan en de wijziging daarvan worden tevens de werknemers geraadpleegd van andere werkgevers die op basis van een langlopende overeenkomst tot aanneming van werk mede in de inrichting werkzaam zijn.   
-4.  De werkgever zorgt ervoor dat de werknemers, de bedrijfshulpverleners, bedoeld in [artikel 15, eerste lid, van de wet](../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), en de externe hulpverleningsorganisaties, bedoeld in [artikel 3, eerste lid, onderdeel e, van de wet](../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), de deskundigen, genoemd in [artikel 13 van de Arbeidsomstandighedenwet](../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), de deskundigen of arbodiensten, genoemd in de [artikelen 14](../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [14a van de Arbeidsomstandighedenwet](../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), en de werknemers van andere werkgevers, die mede in de inrichting werkzaam zijn, desgewenst kennis kunnen nemen van het intern noodplan.   
+4.  De werkgever zorgt ervoor dat de werknemers, de bedrijfshulpverleners, bedoeld in artikel 15, eerste lid, van de wet, en de externe hulpverleningsorganisaties, bedoeld in artikel 3, eerste lid, onderdeel e, van de wet, de deskundigen, genoemd in artikel 13 van de Arbeidsomstandighedenwet, de deskundigen of arbodiensten, genoemd in de artikelen 14 en 14a van de Arbeidsomstandighedenwet, en de werknemers van andere werkgevers, die mede in de inrichting werkzaam zijn, desgewenst kennis kunnen nemen van het intern noodplan.   
 5.  Het intern noodplan wordt vastgesteld: 
 
 a. voor inrichtingen die na de inwerkingtreding van dit besluit worden opgericht: voor de inbedrijfstelling er van;  
 
-b. voor inrichtingen die voor de inwerkingtreding van dit besluit niet verplicht waren tot opstelling van een rapport inzake de externe veiligheid op grond van de [Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of een arbeidsveiligheidsrapport op grond van de [Arbeidsomstandighedenwet](../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md): binnen drie jaar na de inwerkingtreding van dit besluit;  
+b. voor inrichtingen die voor de inwerkingtreding van dit besluit niet verplicht waren tot opstelling van een rapport inzake de externe veiligheid op grond van de Wet milieubeheer of een arbeidsveiligheidsrapport op grond van de Arbeidsomstandighedenwet: binnen drie jaar na de inwerkingtreding van dit besluit;  
 
 c. voor andere inrichtingen: binnen twee jaar na de inwerkingtreding van dit besluit.     
 
@@ -277,8 +277,7 @@ c. voor andere inrichtingen: binnen twee jaar na de inwerkingtreding van dit bes
 
 ### Artikel  23  
 
-1.  Een inrichting of een onderdeel daarvan mag niet in werking worden gebracht of gehouden, indien degene die de inrichting drijft duidelijk onvoldoende maatregelen heeft getroffen ter voorkoming van zware ongevallen of ter beperking van de gevolgen daarvan, voor zover het betreft de bescherming van de veiligheid en de gezondheid van de in het bedrijf, de inrichting onderscheidenlijk het betrokken onderdeel daarvan werkzame werknemers.   
-2.  Ter zake van de naleving van het eerste lid kan een last onder bestuursdwang worden opgelegd.   
+Een inrichting of een onderdeel daarvan mag niet in werking worden gebracht of gehouden, indien degene die de inrichting drijft duidelijk onvoldoende maatregelen heeft getroffen ter voorkoming van zware ongevallen of ter beperking van de gevolgen daarvan, voor zover het betreft de bescherming van de veiligheid en de gezondheid van de in het bedrijf, de inrichting onderscheidenlijk het betrokken onderdeel daarvan werkzame werknemers.  
 
 ### Artikel  24  
 
@@ -298,8 +297,38 @@ c. de verstrekte gegevens en informatie de situatie in de inrichting trouw weerg
 
 ### Artikel  25  
 
-1.  Handelen of nalaten in strijd met het krachtens [artikel 48, zesde lid, van de Wet veiligheidsregio’s](../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) in de artikelen 13, eerste lid, 14, eerste en tweede lid, 16, vijfde lid, en 21, eerste lid, bepaalde, is een strafbaar feit als bedoeld in [artikel 1a, onder 1°, van de Wet op de economische delicten](../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).   
-2.  Handelen of nalaten in strijd met het krachtens [artikel 6, eerste lid, tweede zin, van de Arbeidsomstandigenhedenwet](../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) in de artikelen 3, tweede lid, 5, eerste tot en met vierde lid, 6, eerste lid, 7, derde lid, 9, 11, 13, tweede en derde lid, 14, eerste en tweede lid, 16, vijfde lid, 17, 21, eerste lid, 22, eerste tot en met vierde lid, 23, 26, eerste lid, 27, eerste en derde lid, 28, eerste, tweede en vierde lid, en het krachtens artikel 29 bepaalde, is een strafbaar feit als bedoeld in [artikel 1, onder 3° van de Wet op de economische delicten](../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).   
+1.  Handelen of nalaten in strijd met het krachtens artikel 48, zesde lid, van de Wet veiligheidsregio’s in de artikelen 13, eerste lid, 14, eerste en tweede lid, 16, vijfde lid, en 21, eerste lid, bepaalde, is een strafbaar feit als bedoeld in artikel 1a, onder 1°, van de Wet op de economische delicten.   
+2.  Handelen of nalaten in strijd met het krachtens artikel 6, eerste lid, tweede zin, van de Arbeidsomstandigenhedenwet in de artikelen 3, tweede lid, 5, eerste tot en met vierde lid, 6, eerste lid, 7, derde lid, 9, 10, eerste lid, 11, eerste lid, 13, tweede en derde lid, 14, eerste en tweede lid, 16, vijfde lid, 17, 21, eerste lid, 22, eerste tot en met vierde lid, 23, 26, eerste lid, 27, eerste en derde lid, 28, eerste, tweede en vierde lid, en het krachtens artikel 29 bepaalde, is een strafbaar feit.   
+3.  Als overtreding ter zake waarvan een bestuurlijke boete kan worden opgelegd, wordt aangemerkt de handeling of het nalaten in strijd met de voorschriften die zijn opgenomen: 
+
+a. in de artikelen, bedoeld in het tweede lid, met uitzondering van de artikelen 23 en 29;  
+
+b. in de artikelen van de op grond van artikel 29 vastgestelde ministeriële regeling, voor zover en op de wijze als bij die regeling is bepaald.     
+4.  Ter zake van de naleving van de bepalingen, bedoeld in het derde lid, en van artikel 23 kan een last onder bestuursdwang worden opgelegd.   
+
+### Artikel  25a  
+
+####Stillegging van werk in verband met recidive
+
+1.  Na een herhaling van een overtreding of soortgelijke overtreding wordt een waarschuwing gegeven als bedoeld in artikel 28a, eerste lid, van de Arbeidsomstandighedenwet en indien een herhaling van die of een soortgelijke overtreding is geconstateerd als bedoeld in dat artikel, wordt een bevel opgelegd door de daartoe aangewezen ambtenaar dat de door hem aangewezen werkzaamheden voor een daarbij aangegeven periode worden stilgelegd dan wel niet mogen aanvangen.   
+2.  Indien een ernstige overtreding is geconstateerd, wordt in afwijking van het eerste lid, een waarschuwing als bedoeld in artikel 28a, eerste lid, van de Arbeidsomstandighedenwet gegeven bij de eerste overtreding en wordt, indien opnieuw dezelfde of een soortgelijke overtreding is geconstateerd die eveneens ernstig is, een bevel opgelegd door de daartoe aangewezen ambtenaar dat de door hem aangewezen werkzaamheden voor een daarbij aangegeven periode worden stilgelegd dan wel niet mogen aanvangen.   
+3.  Als ernstige overtreding als bedoeld in het tweede lid wordt aangemerkt de overtreding waardoor, naar de werkgever weet of redelijkerwijs moet weten, levensgevaar of ernstige schade aan de gezondheid van een of meer werknemers ontstaat of te verwachten is.   
+4.  Indien de aard van de overtreding of de met de overtreding samenhangende omstandigheden dan wel de gevolgen van een stillegging van de werkzaamheden daartoe aanleiding geven, kan worden afgezien van een waarschuwing als bedoeld in het eerste en tweede lid en kan worden afgezien van een bevel als bedoeld in het eerste en tweede lid.   
+
+### Artikel  25b  
+
+####Aanduiding ernstige overtredingen
+
+Als ernstige overtreding in de zin van artikel 34, zesde en negende lid, van de Arbeidsomstandighedenwet wordt aangemerkt de overtreding, bedoeld in artikel 25a, derde lid.  
+
+### Artikel  25c  
+
+####Aanduiding soortgelijke overtreding
+
+1.  Als soortgelijke verplichtingen en verboden als bedoeld in artikel 34, vijfde en zevende lid, van de Arbeidsomstandighedenwet worden aangewezen de verplichtingen en verboden die voortvloeien uit een ander lid of onderdeel van hetzelfde voorschrift, bedoeld in artikel 25, derde lid, mits het boetenormbedrag voor de bestuurlijke boete op overtreding van deze verplichting of dat verbod op grond van de beleidsregels, bedoeld in artikel 34, tiende lid, van de Arbeidsomstandighedenwet is ingedeeld in dezelfde boetecategorie als het boetenormbedrag voor de bestuurlijke boete op de overtreding, bedoeld in artikel 34, vijfde en zevende lid, van de Arbeidsomstandighedenwet.   
+2.  In afwijking van het eerste lid wordt een overtreding van zowel het eerste als het derde lid van artikel 5 aangemerkt als een soortgelijke overtreding indien de boete op deze overtreding op grond van de beleidsregels, bedoeld in artikel 34, tiende lid, van de Arbeidsomstandighedenwet is ingedeeld in dezelfde boetecategorie als de boete op de latere overtreding.   
+3.  Van een soortgelijke overtreding als bedoeld in artikel 25a, eerste en tweede lid, is sprake als het een overtreding betreft van een ander lid of onderdeel van hetzelfde voorschrift, bedoeld in artikel 25, derde lid, mits het boetenormbedrag voor de bestuurlijke boete op deze overtreding op grond van de beleidsregels, bedoeld in artikel 34, tiende lid, van de Arbeidsomstandighedenwet is ingedeeld in dezelfde boetecategorie als het boetenormbedrag voor de bestuurlijke boete op de eerdere overtreding.   
+4.  In afwijking van het derde lid wordt een overtreding van zowel het eerste als het derde lid van artikel 5 aangemerkt als een soortgelijke overtreding indien de boete op deze overtreding op grond van de beleidsregels, bedoeld in artikel 34, tiende lid, van de Arbeidsomstandighedenwet is ingedeeld in dezelfde boetecategorie als de boete op de eerdere overtreding.   
 
 ### Artikel  26  
 
@@ -368,7 +397,7 @@ Het Besluit risico's zware ongevallen wordt ingetrokken.
 
 ### Artikel  34  
 
-Dit besluit berust mede op de [artikelen 31, vierde lid](../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), [48, zesde lid](../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), [49, eerste lid](../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), en [61, tweede lid, van de Wet veiligheidsregio’s](../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md).  
+Dit besluit berust mede op de artikelen 31, vierde lid, 48, zesde lid, 49, eerste lid, en 61, tweede lid, van de Wet veiligheidsregio’s.  
 
 ### Artikel  35  
 
@@ -409,7 +438,7 @@ A. H. Korthals
 ####Met name genoemde stoffen
 
 | Kolom 1  | Kolom 2  | Kolom 3  | Gevaarlijke stof  | Drempelwaarde in ton voor de toepassing van de artikelen 4, 5, 6 en 26  | Drempelwaarde in ton voor de toepassing van de artikelen 8, 9, 11, 13, 14, 21 en 22  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1. Acetyleen  | 5  | 50  |
 | 2a. Ammoniumnitraat <sup>1</sup>  | 5000  | 10000  |
 | 2b. Ammoniumnitraat <sup>2</sup>  | 1250  | 5000  |
@@ -450,7 +479,7 @@ A. H. Korthals
 ####Categorieën stoffen, mengsels en preparaten die niet uitdrukkelijk in deel 1 worden genoemd
 
 | Kolom 1  | Kolom 2  | Kolom 3  | Gevaarlijke stoffen en preparaten die zijn ingedeeld als: <sup>8</sup>  | Drempelwaarde in ton voor de toepassing van de artikelen 4, 5, 6 en 26  | Drempelwaarde in ton voor de toepassing van de artikelen 8, 9, 11, 13, 14, 21 en 22  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1. Zeer giftig  | 5  | 20  |
 | 2. Giftig  | 50  | 200  |
 | 3. Oxiderend  | 50  | 200  |
@@ -495,7 +524,7 @@ A. H. Korthals
 ###Internationale Toxische Equivalentie Factoren (ITEF) voor de van belang zijnde congeneren (NATO/CCMS)
 
 | 2,3,7,8-TCDD  | 1  | 2,3,7,8-TCDF  | 0,1  | 1,2,3,7,8-PeDD  | 0,5  | 2,3,4,7,8-PeCDF  | 0,5  |
-|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|
 | --- | --- | 1,2,3,7,8-PeCDF  | 0,05  |
 | 1,2,3,4,7,8-HxCDD  | 0,1  | --- | --- |
 | 1,2,3,6,7,8-HxCDD  | 0,1  | 1,2,3,4,7,8-HxCDF  | 0,1  |
@@ -597,7 +626,7 @@ j. een beschrijving van de in de inrichting voorkomende stoffen en de eigenschap
 
 k. per installatie een gedetailleerde beschrijving van de scenario's voor mogelijke zware ongevallen en van de omstandigheden waarin deze zich kunnen voordoen, met inbegrip van een samenvatting van de voorvallen die bij het op gang brengen van deze scenario's een belangrijke rol kunnen spelen;  
 
-l. een beschrijving van de scenario's voor een mogelijk zwaar ongeval op het terrein van de inrichting die bepalend zijn voor de inhoud van het intern noodplan, bedoeld in artikel 22, en voor de omvang en de uitrusting van de bedrijfsbrandweer als bedoeld in [artikel 7.3 van het Besluit veiligheidsregio’s](../../../../../../../AMvB/besluit/veiligheidsregio's/BWBR0027844/README.md);  
+l. een beschrijving van de scenario's voor een mogelijk zwaar ongeval op het terrein van de inrichting die bepalend zijn voor de inhoud van het intern noodplan, bedoeld in artikel 22, en voor de omvang en de uitrusting van de bedrijfsbrandweer als bedoeld in artikel 7.3 van het Besluit veiligheidsregio’s;  
 
 m. een beschrijving van de organisatie van de nodig geachte bedrijfsbrandweer, waaronder de omvang van het personeel en het materieel;  
 

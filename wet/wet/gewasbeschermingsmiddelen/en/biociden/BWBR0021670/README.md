@@ -1187,13 +1187,6 @@ i. het op de markt brengen van producten die met gewasbeschermingsmiddelen of bi
 
 ####Beroepen
 
-### Artikel  119  
-
-####Beroep
-
-1.  Tegen een op grond van deze wet genomen besluit, met uitzondering van een besluit als bedoeld in de artikelen 90, eerste lid, 107 en 108, kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.   
-2.  In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten als bedoeld in artikel 90, eerste lid, de rechtbank te Rotterdam bevoegd.   
-
 ### §  4  
 
 ####Bevoegdheden ministers

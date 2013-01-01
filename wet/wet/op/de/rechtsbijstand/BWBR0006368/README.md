@@ -71,7 +71,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 ### Artikel  2  
 
 1.  Er is een raad voor rechtsbijstand.   
-2.  De raad heeft zijn zetel te Utrecht en vestigingen in de hoofdplaatsen van de ressorten van de gerechtshoven.   
+2.  De raad heeft zijn zetel te Utrecht en vestigingen in een of meer bij algemene maatregel van bestuur aan te wijzen plaatsen in elk ressort.   
 3.  De raad bezit rechtspersoonlijkheid.   
 4.  De raad heeft een bestuur en een raad van advies.   
 5.  Het bestuur kan na goedkeuring van Onze Minister een nevenvestiging openen.   
@@ -362,7 +362,7 @@ a. rechtsbijstand door een advocaat;
 b. rechtsbijstand door een medewerker die in dienstbetrekking is bij een voorziening, tenzij het betreft een medewerker van de voorziening, bedoeld in artikel 7, tweede lid, of van een voorziening als bedoeld in artikel 8, tweede lid, voorzover het de verlening van rechtshulp betreft;  
 
 c. rechtsbijstand door personen, bedoeld in artikel 13, eerste lid, onder c.     
-2.  De rechtsbijstandverlener dient mede namens de rechtzoekende, een aanvraag om een toevoeging in bij de vestiging van de raad in het ressort waar de rechtsbijstandverlener kantoor houdt. De aanvraag wordt mede namens de rechtzoekende, ondertekend door de rechtsbijstandverlener.   
+2.  De rechtsbijstandverlener dient mede namens de rechtzoekende, een aanvraag om een toevoeging in bij een vestiging van de raad in het ressort waar de rechtsbijstandverlener kantoor houdt. De aanvraag wordt mede namens de rechtzoekende, ondertekend door de rechtsbijstandverlener.   
 3.  De aanvraag om een toevoeging bevat een genoegzame omschrijving van de feiten en omstandigheden betreffende het rechtsprobleem waarvoor rechtsbijstand wordt gevraagd, de aan te voeren gronden dan wel een aanduiding van de werkzaamheden op basis van de toevoeging die ter zake van het rechtsprobleem nodig worden geacht.   
 4.  De rechtsbijstandverlener kan slechts met instemming van het bestuur de toevoeging weigeren. Zolang de toevoeging niet is gewijzigd of ingetrokken, is hij verplicht de nodige rechtsbijstand te verlenen.   
 5.  De toevoeging vermeldt een omschrijving van het rechtsbelang terzake waarvan de toevoeging is verleend. Het besluit vermeldt tevens het bedrag van de eigen bijdrage die op de voet van het bepaalde in artikel 35 is verschuldigd.   
@@ -481,7 +481,7 @@ g. de organisatie van het kantoor waar de mediator werkzaam is.
 
 ### Artikel  34  
 
-1.  Rechtsbijstand overeenkomstig de bepalingen van deze wet wordt verleend aan hen wier inkomen per jaar € 21 800 per 1 januari 2011: € 24.600per 1 januari 2012: € 24.900 of minder bedraagt, indien zij alleenstaand zijn, dan wel, indien zij met één of meer anderen een gemeenschappelijke huishouding voeren, ten hoogste € 31 000 per 1 januari 2011: € 34.700per 1 januari 2012: € 35.200.   
+1.  Rechtsbijstand overeenkomstig de bepalingen van deze wet wordt verleend aan hen wier inkomen per jaar € 21 800 per 1 januari 2013: € 25.200 of minder bedraagt, indien zij alleenstaand zijn, dan wel, indien zij met één of meer anderen een gemeenschappelijke huishouding voeren, ten hoogste € 31 000 per 1 januari 2013: € 35.600.   
 2.  In afwijking van het bepaalde in het eerste lid wordt geen rechtsbijstand verleend, indien de rechtzoekende beschikt over een vermogen dat meer bedraagt dan het heffingvrij vermogen.   
 3.  Bij de vaststelling van het inkomen en vermogen van de rechtzoekende worden, behoudens het geval van onderling tegenstrijdige belangen, mede in aanmerking genomen het inkomen en vermogen van: 
 
@@ -753,13 +753,6 @@ h. [artikel 5 van de Wet tijdelijk huisverbod](../../../../../../wet/wet/tijdeli
 ### Hoofdstuk  VII  
 
 ####Bezwaar en beroep
-
-### Artikel  46  
-
-1.  Indien beroep wordt ingesteld tegen een besluit van het bestuur is, in afwijking van [artikel 8:7, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de rechtbank bevoegd binnen het rechtsgebied waarvan de vestiging van de raad, bedoeld in artikel 24, tweede lid, is gelegen.   
-2.  In afwijking van [artikel 8:41, derde lid, onder b en c, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt het griffierecht € 42 indien door een rechtzoekende beroep wordt ingesteld tegen een besluit van het bestuur.   
-3.  In afwijking van [artikel 51, tweede lid, onder a en b, van de Wet op de Raad van State](../../../../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) bedraagt het griffierecht € 115 indien door een rechtzoekende hoger beroep wordt ingesteld.   
-4.  De in het tweede en derde lid genoemde bedragen kunnen bij algemene maatregel van bestuur worden gewijzigd voorzover de consumentenprijsindex daartoe aanleiding geeft.   
 
 ### Hoofdstuk  VIII  
 

@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Dit besluit geeft uitvoering aan de [artikelen 4](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [7](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [11a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [13bis](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [18a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [18g](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [18h](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [19a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [31a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [33](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [34](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35f](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35g](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [35n van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en aan [artikel 10a van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).   
+1.  Dit besluit geeft uitvoering aan de [artikelen 4](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [7](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [11a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [13bis](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [18a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [18g](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [18h](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [19a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [31a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [32bd](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [33](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [34](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35f](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35g](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [35n van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en aan [artikel 10a van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).   
 2.  Dit besluit verstaat onder: 
 
 a. wet: [Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
@@ -244,16 +244,16 @@ g. perioden waarin de werknemer een tot zijn huishouden behorend kind heeft verz
 | Indien bij een eindloonloonstelsel bij de toepassing van [artikel 18a van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) een percentage per dienstjaar wordt toegepast van  | wordt het in [artikel 18a, achtste lid, onderdeel a, eerste volzin](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), bedoelde bedrag vervangen door 70% van  |
 |:---|:---|
 | meer dan  | maar niet meer dan  | --- |
-| –  | 1,8%  | € 10 802  |
-| 1,8%  | 1,9%  | € 11 953  |
+| –  | 1,8%  | € 10 940  |
+| 1,8%  | 1,9%  | € 12 104  |
 
 2.    
 
 | Indien bij een middelloonstelsel bij de toepassing van [artikel 18a van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) een percentage per dienstjaar wordt toegepast van  | wordt het in [artikel 18a, achtste lid, onderdeel a, eerste volzin](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), bedoelde bedrag vervangen door 70% van  |
 |:---|:---|
 | meer dan  | maar niet meer dan  | --- |
-| –  | 2,05%  | € 10 802  |
-| 2,05%  | 2,15%  | € 11 953  |
+| –  | 2,05%  | € 10 940  |
+| 2,05%  | 2,15%  | € 12 104  |
 
 3.  Het eerste en tweede lid zijn van overeenkomstige toepassing met betrekking tot een op een beschikbare-premiestelsel gebaseerd ouderdomspensioen als bedoeld in [artikel 18a, derde lid, van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
 4.  De vorige leden zijn van overeenkomstige toepassing met betrekking tot partnerpensioen en wezenpensioen, met dien verstande dat daarbij de in het eerste lid en het tweede lid opgenomen percentages naar evenredigheid worden verlaagd overeenkomstig de verhouding tussen de in [artikel 18b, eerste en tweede lid](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), onderscheidenlijk [artikel 18c, eerste en tweede lid, van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) genoemde percentages per dienstjaar en die in [artikel 18a van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
@@ -371,8 +371,9 @@ c. uitgezonden werknemer: werknemer in de zin van [artikel 2 van de wet](../../.
 
 d. looptijd: de periode gedurende welke dit hoofdstuk voor een werknemer van toepassing is.     
 3.  Indien de tewerkstelling van een werknemer met de titel van doctor (gepromoveerde) plaatsvindt binnen een jaar na het behalen van deze titel, blijven bij de beoordeling of deze werknemer door een inhoudingsplichtige uit een ander land in dienstbetrekking wordt aangeworven buiten beschouwing de periode van verblijf in het kader van het behalen van deze titel in Nederland of in het gebied binnen 150 kilometer van de grens van Nederland exclusief de territoriale zee van Nederland en de exclusieve economische zone van het Koninkrijk, bedoeld in [artikel 1 van de Rijkswet instelling exclusieve economische zone](../../../../../rijkswet/rijkswet/instelling/exclusieve/economische/zone/BWBR0010480/README.md), alsmede de periode na de promotie.   
-4.  Een werknemer wordt slechts als uitgezonden aangemerkt indien hij in een periode van twaalf maanden ten minste 45 dagen ten behoeve van zijn werkzaamheden verblijft in een of meer plaatsen waarnaar hij is gezonden. Bij de bepaling of aan deze voorwaarde is voldaan worden verblijfsperioden van minder dan 15 dagen niet in aanmerking genomen en worden dagen waarop de werknemer zonder onderbreking naar de desbetreffende plaatsen en terug reist – of zou reizen bij gebruikmaking van het voor werknemers in het algemeen meest gebruikelijke vervoermiddel – als dagen van verblijf in die plaatsen aangemerkt. Indien aan de voorwaarde is voldaan, kan de werknemer tevens als uitgezonden worden beschouwd gedurende alle overige dienstreizen van ten minste 10 dagen naar de desbetreffende plaatsen.   
-5.  Ambtenaren bij een post zijn: 
+4.  De in het tweede lid, onderdeel b, onder 2°, opgenomen voorwaarde geldt niet indien de door een inhoudingsplichtige uit een ander land aangeworven, of naar een inhoudingsplichtige gezonden werknemer in de zin van [artikel 2 van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) meer dan twee derde van de periode van 24 maanden voorafgaand aan de aanvang van een eerdere tewerkstelling in Nederland woonachtig was op een afstand van meer dan 150 kilometer van de grens van Nederland exclusief de territoriale zee van Nederland en de exclusieve economische zone van het Koninkrijk, bedoeld in [artikel 1 van de Rijkswet instelling exclusieve economische zone](../../../../../rijkswet/rijkswet/instelling/exclusieve/economische/zone/BWBR0010480/README.md), en die eerdere tewerkstelling niet eerder dan acht jaren voor de nieuwe tewerkstelling is aangevangen.   
+5.  Een werknemer wordt slechts als uitgezonden aangemerkt indien hij in een periode van twaalf maanden ten minste 45 dagen ten behoeve van zijn werkzaamheden verblijft in een of meer plaatsen waarnaar hij is gezonden. Bij de bepaling of aan deze voorwaarde is voldaan worden verblijfsperioden van minder dan 15 dagen niet in aanmerking genomen en worden dagen waarop de werknemer zonder onderbreking naar de desbetreffende plaatsen en terug reist – of zou reizen bij gebruikmaking van het voor werknemers in het algemeen meest gebruikelijke vervoermiddel – als dagen van verblijf in die plaatsen aangemerkt. Indien aan de voorwaarde is voldaan, kan de werknemer tevens als uitgezonden worden beschouwd gedurende alle overige dienstreizen van ten minste 10 dagen naar de desbetreffende plaatsen.   
+6.  Ambtenaren bij een post zijn: 
 
 a. overplaatsbare ambtenaren van de Dienst Buitenlandse Zaken van het ministerie van Buitenlandse Zaken, zijnde ambtenaren die zijn aangesteld om waar ook ter wereld werkzaam te zijn;  
 
@@ -383,7 +384,7 @@ c. ambtenaren van andere ministeries die op een post zijn tewerkgesteld;
 d. militairen en burgerpersoneel van het ministerie van Defensie die op een post zijn geplaatst, alsmede vlag- en opperofficieren die zijn geplaatst op internationale staven in het buitenland;  
 
 e. werknemers die op basis van een arbeidsovereenkomst naar burgerlijk recht na uitzending vanuit Nederland werkzaamheden verrichten bij een post.     
-6.  Onder het beoefenen van wetenschap of het geven van onderwijs wordt verstaan: 
+7.  Onder het beoefenen van wetenschap of het geven van onderwijs wordt verstaan: 
 
 a. het buiten Nederland verrichten van onderzoek op de financiële basis van: 
 
@@ -394,7 +395,7 @@ a. het buiten Nederland verrichten van onderzoek op de financiële basis van:
 3°. door Onze minister aan te wijzen vergelijkbare beurzen, stipendia en fellowships;    
 
 b. het als leerkracht of beoefenaar van wetenschap door een instelling op het gebied van onderwijs of wetenschap worden uitgezonden dan wel op uitnodiging van een dergelijke in het buitenland gevestigde instelling zich naar het buitenland begeven, met het doel aldaar onderwijs te geven aan een instelling op het gebied van onderwijs of wetenschap of wetenschappelijk onderzoek te verrichten voor een dergelijke instelling.     
-7.  Schoolgelden zijn uitgaven voor het door kinderen van de extraterritoriale werknemer volgen van basisonderwijs of voortgezet onderwijs aan internationale scholen en internationale afdelingen van niet-internationale scholen, tot de bedragen die door de school overeenkomstig haar tarieven voor onderwijs in rekening worden gebracht, met uitzondering van kosten van kost en inwoning maar met inbegrip van vervoerskosten.   
+8.  Schoolgelden zijn uitgaven voor het door kinderen van de extraterritoriale werknemer volgen van basisonderwijs of voortgezet onderwijs aan internationale scholen en internationale afdelingen van niet-internationale scholen, tot de bedragen die door de school overeenkomstig haar tarieven voor onderwijs in rekening worden gebracht, met uitzondering van kosten van kost en inwoning maar met inbegrip van vervoerskosten.   
 
 ### Artikel  10ea  
 
@@ -402,7 +403,7 @@ b. het als leerkracht of beoefenaar van wetenschap door een instelling op het ge
 
 a. 30% van de grondslag, waarbij de grondslag de som is van: 
 
-1°. het loon uit tegenwoordige dienstbetrekking ter zake van het verblijf buiten het land van herkomst dat is genoten tijdens de looptijd van de bewijsregel en waarover met toepassing van de artikelen 20a, 20b, 26 en 26b belasting wordt geheven, voor zover de ingekomen of uitgezonden werknemer ter zake geen recht heeft op voorkoming van dubbele belasting;  
+1°. het loon uit tegenwoordige dienstbetrekking ter zake van het verblijf buiten het land van herkomst dat is genoten tijdens de looptijd van de bewijsregel en waarover met toepassing van de [artikelen 20a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [20b](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [26](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [26b van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) belasting wordt geheven, voor zover de ingekomen of uitgezonden werknemer ter zake geen recht heeft op voorkoming van dubbele belasting;  
 
 2°. de vergoeding voor extraterritoriale kosten, bedoeld in [artikel 31a, tweede lid, onderdeel e, van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);    
 
@@ -411,8 +412,8 @@ b. het bedrag van de schoolgelden.
 
 ### Artikel  10eb  
 
-1.  Een werknemer bezit specifieke deskundigheid indien het loon, bedoeld in [paragraaf 3.3.1 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), op jaarbasis meer bedraagt dan € 35 000.   
-2.  In afwijking van het eerste lid bezit een werknemer die de titel van master heeft behaald aan een instelling voor wetenschappelijk onderwijs en die de leeftijd van 30 jaar nog niet heeft bereikt, specifieke deskundigheid indien het loon, bedoeld in [paragraaf 3.3.1 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), op jaarbasis meer bedraagt dan € 26 605.   
+1.  Een werknemer bezit specifieke deskundigheid indien het loon, bedoeld in [paragraaf 3.3.1 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), op jaarbasis meer bedraagt dan € 35 770.   
+2.  In afwijking van het eerste lid bezit een werknemer die de titel van master heeft behaald aan een instelling voor wetenschappelijk onderwijs en die de leeftijd van 30 jaar nog niet heeft bereikt, specifieke deskundigheid indien het loon, bedoeld in [paragraaf 3.3.1 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), op jaarbasis meer bedraagt dan € 27 190.   
 3.  In afwijking in zoverre van het eerste en tweede lid bezit een werknemer ook specifieke deskundigheid indien de werknemer: 
 
 a. in het kader van wetenschappelijk onderzoek of wetenschappelijk onderwijs in Nederland wordt tewerkgesteld bij een onderzoeksinstelling die is aangewezen op grond van [artikel 3.18b, onderdelen a of b, van het Voorschrift Vreemdelingen 2000](../../../../../ministeriele-regeling/voorschrift/vreemdelingen/2000/BWBR0012002/README.md), of  
@@ -425,12 +426,12 @@ a. het niveau van de door de werknemer gevolgde opleiding;
 b. de voor de functie relevante ervaring van de werknemer;  
 
 c. het beloningsniveau van de onderhavige functie in Nederland in verhouding tot het beloningsniveau in het land van herkomst van de werknemer.     
-5.   Dit lid is nog niet in werking getreden.    
+5.  Bij het begin van het kalenderjaar worden de in het eerste en tweede lid genoemde bedragen bij ministeriële regeling gewijzigd in andere bedragen. Deze bedragen worden berekend door de te wijzigen bedragen te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande kalenderjaar een dergelijke afronding is toegepast, kan bij wijziging worden uitgegaan van het niet-afgeronde bedrag.   
 6.  Bij ministeriële regeling kunnen nadere regels worden gesteld ter zake van de toepassing van dit artikel.   
 
 ### Artikel  10ec  
 
-1.  Voor ingekomen werknemers bedraagt de looptijd van de bewijsregel maximaal acht jaar, ingaande op de eerste dag van de tewerkstelling door de inhoudingsplichtige.   
+1.  Voor ingekomen werknemers bedraagt de looptijd van de bewijsregel maximaal acht jaar, ingaande op de eerste dag van de tewerkstelling door de inhoudingsplichtige en eindigende op de laatste dag van het loontijdvak na het loontijdvak waarin die tewerkstelling is geëindigd.   
 2.  Voor uitgezonden werknemers is de looptijd van de bewijsregel gelijk aan de duur van de uitzending.   
 
 ### Artikel  10ed  
@@ -470,6 +471,15 @@ De inhoudingsplichtige wordt voor de toepassing van de bepalingen van dit hoofds
 a. de inhoudingsplichtige en de zonder onderbreking voorafgaande inhoudingsplichtige behoren tot een zelfde samenhangende groep inhoudingsplichtigen in de zin van [artikel 27e van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), en  
 
 b. aannemelijk is dat de werknemer opnieuw zou worden aangemerkt als ingekomen werknemer indien artikel 10ed zou worden toegepast.    
+
+### Hoofdstuk  4b  
+
+####Heffing van de inhoudingsplichtige ([hoofdstuk V van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)): pseudo-eindheffing voor hoog loon
+
+### Artikel  10f  
+
+1.  Indien de werknemer of de gewezen werknemer op enig moment in het voorafgaande kalenderjaar loon heeft genoten van een inhoudingsplichtige en met overeenkomstige toepassing van artikel 13a van de wet in dat kalenderjaar tevens bedragen van dezelfde inhoudingsplichtige heeft genoten die tot de winst uit een onderneming of het resultaat uit overige werkzaamheden van die werknemer of gewezen werknemer worden gerekend, worden die bedragen voor de toepassing van [artikel 32bd, eerste lid, van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) in aanmerking genomen als door de inhoudingsplichtige in het voorafgaande kalenderjaar verstrekt loon.   
+2.  Indien de werknemer of de gewezen werknemer in het voorafgaande kalenderjaar meer dan € 150 000 aan loon heeft genoten van een inhoudingsplichtige die op 31 maart van het kalenderjaar niet meer inhoudingsplichtig is, is de gewezen inhoudingsplichtige of diens rechtsopvolger de pseudo-eindheffing, bedoeld in [artikel 32bd, eerste lid, van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), ter zake van dat loon verschuldigd. Bij de toepassing van de eerste volzin is artikel 32bd, tweede lid, van de wet van overeenkomstige toepassing.   
 
 ### Hoofdstuk  5  
 

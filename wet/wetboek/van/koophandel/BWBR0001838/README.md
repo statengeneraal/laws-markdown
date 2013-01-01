@@ -81,7 +81,7 @@ De ontbinding eener vennootschap onder eene firma vóór den tijd bij de overeen
 ### Artikel  32  
 
 1.  Bij de ontbinding der vennootschap zullen de vennooten, die het regt van beheer hebben gehad, de zaken der gewezen vennootschap moeten vereffenen in naam van dezelfde firma, ten zij bij de overeenkomst anders ware bepaald, of de gezamenlijke vennooten (die bij wijze van geldschieting niet daaronder begrepen), hoofdelijk en bij meerderheid van stemmen, eenen anderen vereffenaar hadden benoemd.   
-2.  Indien de stemmen staken beschikt de arrondissements-regtbank, zoodanig als zij in het belang der ontbondene vennootschap meest geraden zal achten.   
+2.  Indien de stemmen staken beschikt de rechtbank, zoodanig als zij in het belang der ontbondene vennootschap meest geraden zal achten.   
 
 ### Artikel  33  
 
@@ -1368,8 +1368,7 @@ d. een of meer van de natuurlijke personen als bedoeld onder c of, bij verhinder
 
 1.  Door of namens Onze Minister van Verkeer en Waterstaat wordt ten behoeve van de teboekstelling, bedoeld in [artikel 194 van Boek 8 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), op verzoek van de reder aan deze een verklaring afgegeven, dat met betrekking tot zijn schip wordt voldaan aan de in artikel 311 genoemde vereisten. Indien met betrekking tot een schip niet langer wordt voldaan aan de in artikel 311 genoemde vereisten wordt deze verklaring door Onze Minister van Verkeer en Waterstaat ingetrokken. Van deze intrekking wordt, nadat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist, onverwijld mededeling gedaan aan de in [artikel 6 van de Kadasterwet](../../../../../wet/kadasterwet/BWBR0004541/README.md) bedoelde bewaarder van het kadaster en de openbare registers van het kantoor waar het schip te boek staat.   
 2.  Bij algemene maatregel van bestuur kunnen regels worden gesteld betreffende de schriftelijke bewijsstukken en andere gegevens die de reder bij de aanvraag van de verklaring, bedoeld in het eerste lid, dient te verstrekken, alsmede betreffende het toezicht op het voldoen aan de in artikel 311 genoemde vereisten.   
-3.  Tegen een besluit op grond van het eerste lid kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.   
-4.  De kosten van aanvraag en afgifte van een verklaring als bedoeld in de eerste volzin van het eerste lid, komen ten laste van de aanvrager. Het tarief voor deze kosten wordt vastgesteld bij regeling van Onze Minister van Verkeer en Waterstaat.   
+3.  De kosten van aanvraag en afgifte van een verklaring als bedoeld in de eerste volzin van het eerste lid, komen ten laste van de aanvrager. Het tarief voor deze kosten wordt vastgesteld bij regeling van Onze Minister van Verkeer en Waterstaat.   
 
 ### Artikel  311b  
 
@@ -1744,7 +1743,7 @@ De schepeling heeft voor iederen dag, dat hem de verschuldigde voeding niet of n
 ### Artikel  412  
 
 1.  Voor verbruik door de bemanning mag geen sterke drank aan boord zijn boven de hoeveelheid, door Ons bij algemeenen maatregel van bestuur te bepalen.   
-2.  Sterke drank, in strijd met deze bepaling aan boord aangetroffen door de ambtenaren, aangesteld voor de uitvoering van de politietaak, of de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, wordt door hen in beslag genomen.   
+2.  Sterke drank, in strijd met deze bepaling aan boord aangetroffen door de ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, of de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, wordt door hen in beslag genomen.   
 
 ### Artikel  413  
 

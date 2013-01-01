@@ -75,13 +75,18 @@ b. de duur van het fractievoorzitterschap.
 
 Het bedrag, genoemd in artikel 4, wordt bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijzigingen die de schadeloosstelling, bedoeld in [artikel 2, van de Wet schadeloosstelling leden Tweede Kamer](../../../../../../../wet/wet/schadeloosstelling/leden/tweede/kamer/BWBR0004939/README.md), ondergaat. Onze Minister maakt het nieuwe bedrag bekend in de *Staatscourant*.  
 
+### Artikel  9a  
+
+1.  De Kamerleden die uit hoofde van hun lidmaatschap van de Eerste Kamer der Staten-Generaal een functie vervullen in een internationale parlementaire assemblee, deelnemen aan vergaderingen die voortvloeien uit voor nationale parlementen geldende verplichtingen uit hoofde van Europese of internationale verdragen dan wel anderszins uit hoofde van een uit het lidmaatschap van de Eerste Kamer der Staten-Generaal voortvloeiende verplichting deel te nemen aan vergaderingen met leden van andere nationale parlementen en voor deelname aan deze vergaderingen geen honorering ontvangen, ontvangen daarvoor een vergoeding op grond van dit artikel.   
+2.  De vergoeding bedraagt per vergaderdag 25% van de vergoeding berekend op grond van artikel 4.   
+
 ### Hoofdstuk  III  
 
 ####Vergoeding voor secundaire voorzieningen
 
 ### Artikel  10  
 
-1.  Kamerleden ontvangen een bedrag van € 2570,68 per 1 januari 2011: € 2689,02 per jaar waarmee zij voorzieningen kunnen treffen ter zake van arbeidsongeschiktheid, ouderdom en overlijden.   
+1.  Kamerleden ontvangen een bedrag van € 2788,80 per jaar waarmee zij voorzieningen kunnen treffen ter zake van arbeidsongeschiktheid, ouderdom en overlijden.   
 2.  Het bedrag, genoemd in het eerste lid, wordt jaarlijks bij ministeriële regeling gewijzigd met inachtneming van de procentuele wijzigingen, bedoeld in artikel 9, in het voorafgaande jaar en van wijzigingen in dat jaar van berekeningselementen van de bedragen, die op grond van [artikel 106, eerste lid, van de Algemene pensioenwet politieke ambtsdragers](../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md) worden ingehouden, ter zake van aanspraken bij arbeidsongeschiktheid, ouderdom en overlijden, op de schadeloosstelling van een lid van de Tweede Kamer der Staten-Generaal.   
 
 ### Hoofdstuk  IV  
@@ -98,6 +103,14 @@ Het bedrag, genoemd in artikel 4, wordt bij ministeriële regeling gewijzigd ove
 1.  De voorzitter ontvangt een eindejaarsuitkering overeenkomstig de bepalingen welke daaromtrent voor het burgerlijk rijkspersoneel zijn vastgesteld. Grondslag voor de eindejaarsuitkering is de toelage, bedoeld in artikel 11, eerste lid, verminderd met het voor het burgerlijk rijkspersoneel geldende percentage van de vakantie-uitkering.   
 2.  [Artikel 2a, eerste lid, van de Wet schadeloosstelling leden Tweede Kamer](../../../../../../../wet/wet/schadeloosstelling/leden/tweede/kamer/BWBR0004939/README.md) is van overeenkomstige toepassing.   
 
+### Artikel  13  
+
+1.  Ten behoeve van het woon-werkverkeer en dienstreizen van de voorzitter kan in plaats van de voorzieningen, bedoeld in artikel 17, een dienstauto ter beschikking worden gesteld.   
+2.  De prijs per kilometer van de dienstauto, bedoeld in het eerste lid, bedraagt niet meer dan € 0,62 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60 000 gereden kilometers per jaar.   
+3.  Het bedrag, genoemd in het tweede lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van het prijsindexcijfer jaargemiddelde operationele autolease inclusief brandstof, zoals door het Centraal Bureau voor de Statistiek gepubliceerd, over het tweede kalenderjaar voorafgaand aan genoemde datum ten opzichte van hetzelfde indexcijfer over het jaar daaraan voorafgaand.   
+4.  De prijs per kilometer wordt berekend aan de hand van de formule (((n / (l/12)) + o + f + g + h + p) / m) + i, waarin: n = (((a-c)/1,19) + (b/1,19) + c) – (d/1,19) afschrijving over looptijd (inclusief belasting van personenauto's en motorrijwielen en exclusief belasting over de toegevoegde waarde (omzetbelasting)); o = ((d/1,19) x e) + ((n/2) x e) rente per jaar; p = ((k/1,19) x (m/100) x j) brandstofkosten per jaar; en: a = consumentenprijs inclusief accessoires af fabriek (inclusief belasting van personenauto's en motorrijwielen en belasting over de toegevoegde waarde (omzetbelasting)); b = consumentenprijs van accessoires achteraf en/of door derden (inclusief belasting over de toegevoegde waarde (omzetbelasting)); c = totale belasting van personenauto's en motorrijwielen; d = totale marktconforme restwaarde inclusief belasting over de toegevoegde waarde (omzetbelasting) en belasting van personenauto's en motorrijwielen; e = rentetarief in procenten; f = administratiekosten inclusief management fee per jaar doch exclusief belasting over de toegevoegde waarde (omzetbelasting) (of interne kosten ingeval niet wordt uitbesteed); g = houderschapsbelasting per jaar; h = het in het kader van het omslagstelsel door het Bureau Schade Afwikkeling vastgestelde bedrag; i = prijs van reparatie, onderhoud en banden exclusief belasting over de toegevoegde waarde (omzetbelasting); j = brandstofverbruik in liters per 100 kilometer; k = tarief bij brandstofsoort inclusief belasting over de toegevoegde waarde (omzetbelasting); l = looptijd in maanden; m = jaarkilometrage.   
+5.  De dienstauto, bedoeld in het eerste lid, wordt slechts in gebruik genomen nadat is vastgesteld dat aan de voorschriften van het tweede tot en met vierde lid is voldaan, tenzij afwijking van deze voorschriften noodzakelijk is om redenen van veiligheid of wegens een individuele werkplekanalyse, verricht of getoetst door een deskundige persoon als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). Artikel 14, tweede lid, onderdelen b en c, van de Arbeidsomstandighedenwet is in het tweede geval van overeenkomstige toepassing.   
+
 ### Artikel  15  
 
 1.  In dit artikel wordt onder wet verstaan: [Algemene pensioenwet politieke ambtsdragers](../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md).   
@@ -113,22 +126,38 @@ Het bedrag, genoemd in artikel 4, wordt bij ministeriële regeling gewijzigd ove
 
 ### Artikel  16  
 
-1.  De kamerleden ontvangen een vergoeding voor aan de uitoefening van het kamerlidmaatschap verbonden kosten die € 1902,70 per 1 januari 2011: € 2326,77 per jaar bedraagt.   
-2.  Ten aanzien van een kamerlid van wie de arbeidsverhouding ingevolge [artikel 4, aanhef en onderdeel f, van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) voor de toepassing van [die wet](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) als dienstbetrekking wordt aangemerkt, geldt in afwijking van het eerste lid een vergoeding van beroepskosten ter grootte van het bedrag, genoemd in het eerste lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
-3.  Het kamerlid aan wie ingevolge [artikel X 10 van de Kieswet](../../../../../../../wet/kieswet/BWBR0004627/README.md) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, ontvangt een onkostenvergoeding ter hoogte van de helft van het in het eerste lid genoemde bedrag. Het tweede lid is van overeenkomstige toepassing.   
-4.  Het bedrag, bedoeld in het eerste lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex, geldend voor de maand september van het voorafgaande jaar.   
+1.  De kamerleden ontvangen een vergoeding voor aan de uitoefening van het kamerlidmaatschap verbonden kosten die € 2444,56 per jaar bedraagt.   
+2.  Het kamerlid aan wie ingevolge [artikel X 10 van de Kieswet](../../../../../../../wet/kieswet/BWBR0004627/README.md) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, ontvangt een onkostenvergoeding ter hoogte van de helft van het in het eerste lid genoemde bedrag.   
+3.  Het bedrag, bedoeld in het eerste lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex, geldend voor de maand september van het voorafgaande jaar.   
 
 ### Artikel  17  
 
-1.  De kamerleden ontvangen ter vergoeding van reiskosten een bedrag gelijk aan de vergoeding die geldt voor burgerlijk rijkspersoneel voor het gebruik van een eigen motorvoertuig indien openbaar vervoer niet mogelijk of niet doelmatig is, op basis van 13.000 kilometer per jaar.   
-2.  Ten aanzien van een kamerlid van wie de arbeidsverhouding ingevolge [artikel 4, aanhef en onderdeel f, van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) voor de toepassing van die wet als dienstbetrekking wordt aangemerkt, wordt het bedrag, berekend met toepassing van het eerste lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
+1.  De kamerleden ontvangen ter vergoeding van reiskosten een bedrag van € 3640 per jaar.   
+2.  Het in het eerste lid genoemde bedrag wordt aangepast bij ministeriële regeling overeenkomstig de wijziging in de vergoeding die geldt voor het burgerlijk rijkspersoneel voor dienstreizen voor het gebruik van een eigen motorvoertuig indien openbaar vervoer niet mogelijk of niet doelmatig is.   
 
 ### Artikel  18  
 
 1.  De kamerleden ontvangen ter vergoeding van verblijfkosten een bedrag waarvan de hoogte afhankelijk is van de afstand van de woonplaats van het kamerlid of het door het kamerlid bewoonde deel van de woonplaats tot het gebouw van de Eerste Kamer der Staten-Generaal.   
-2.  Het in het eerste lid bedoelde bedrag bedraagt bij: 0 km: € 219,18 per 1 januari 2011: € 304,46 per jaar; 10 km: € 2 194,03 per 1 januari 2011: € 3031,46 per jaar; 75 km: € 4 388,96 per 1 januari 2011: € 6064,13 per jaar; 150 km en meer: € 7 132,52 per 1 januari 2011: € 9854,37 per jaar. Het bedrag behorende bij de afstanden, afgerond op hele kilometers, tussen de in bovenstaand schema genoemde afstanden, wordt berekend naar evenredigheid met het verschil tussen de in het schema aangegeven bedragen bij de naasthogere en naastlagere afstand. Het bedrag van de vergoeding wordt afgerond op hele guldens.   
-3.  Ten aanzien van een kamerlid van wie de arbeidsverhouding ingevolge [artikel 4, aanhef en onderdeel f, van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) voor de toepassing van [die wet](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) als dienstbetrekking wordt aangemerkt, wordt het bedrag, berekend met toepassing van het tweede lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
-4.  De bedragen, genoemd in het tweede lid, worden jaarlijks bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van de voor het burgerlijk rijkspersoneel vastgestelde vergoeding van reis- en verblijfskosten van dienstreizen.   
+2.  Het in het eerste lid bedoelde bedrag bedraagt bij: 0 km: € 319,06 per jaar; 10 km: € 3176,80 per jaar; 75 km: € 6354,86 per jaar; 150 km en meer: € 10.326,81 per jaar. Het bedrag behorende bij de afstanden, afgerond op hele kilometers, tussen de in bovenstaand schema genoemde afstanden, wordt berekend naar evenredigheid met het verschil tussen de in het schema aangegeven bedragen bij de naasthogere en naastlagere afstand.   
+3.  De bedragen, genoemd in het tweede lid, worden jaarlijks bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van de voor het burgerlijk rijkspersoneel vastgestelde vergoeding van reis- en verblijfskosten van dienstreizen.   
+
+### Artikel  19  
+
+Ten aanzien van een kamerlid van wie de arbeidsverhouding ingevolge [artikel 4, aanhef en onderdeel f, van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) voor de toepassing van die wet als dienstbetrekking wordt aangemerkt, worden als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) aangewezen: 
+
+a. de vergoeding, bedoeld in artikel 16, eerste lid;  
+
+b. het bedrag, bedoeld in artikel 17, eerste lid;  
+
+c. het bedrag, bedoeld in artikel 18, eerste lid.    
+
+### Artikel  19a  
+
+Bij toepassing van [artikel 39c van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md): 
+
+a. worden de bedragen, bedoeld in artikel 16, eerste lid, artikel 17 en artikel 18, eerste lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+
+b. blijft artikel 19 buiten toepassing.    
 
 ### Hoofdstuk  VI  
 

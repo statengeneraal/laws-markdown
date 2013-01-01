@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder: wet: de [Wet op de kansspelen](../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md); Onze Minister: Onze Minister van Justitie.  
+In dit besluit wordt verstaan onder: wet: de [Wet op de kansspelen](../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md); Onze Minister: Onze Minister van Veiligheid en Justitie.  
 
 ### Artikel  2  
 
@@ -41,15 +41,11 @@ i. De rekening en verantwoording dient vergezeld te gaan van een onderzoeksversl
 
 1°. een Accountant-Administratieconsulent, indien de prijzen en premies gezamenlijk een grotere waarde hebben dan € 4 500, doch niet groter dan € 45 000;  
 
-2°. een registeraccountant of een Accountant-Administratieconsulent ten aanzien van wie bij de inschrijving in het in [artikel 36, eerste lid, van de Wet op de Accountants-Administratieconsulenten](../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) bedoelde register een aantekening is geplaatst als bedoeld in [artikel 36, derde lid, van die wet](../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md), indien de prijzen en premies gezamenlijk een grotere waarde hebben dan € 45 000.      
-
-### Artikel  3  
-
-Het bepaalde in het voorgaande artikel is, voorzover mogelijk, van overeenkomstige toepassing op een vergunning, verleend krachtens artikel 28 van de wet.  
+2°. een registeraccountant of een Accountant-Administratieconsulent ten aanzien van wie bij de inschrijving in het in [artikel 36, eerste lid, van de Wet op het accountantsberoep](../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) bedoelde register een aantekening is geplaatst als bedoeld in artikel 36, tweede lid, onderdeel i, van die wet, indien de prijzen en premies gezamenlijk een grotere waarde hebben dan € 45 000.      
 
 ### Artikel  3a  
 
-1.  De vergoeding die is verschuldigd voor de behandeling van de aanvraag van een vergunning als bedoeld in artikel 3 van de Wet bedraagt: 
+1.  De vergoeding die is verschuldigd voor de behandeling van de aanvraag van een vergunning als bedoeld in [artikel 3 van de Wet](../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) bedraagt: 
 
 a. indien de prijzen en premies gezamenlijk een grotere waarde hebben dan € 4 500, doch niet groter dan € 45 000: € 226;  
 
@@ -58,9 +54,8 @@ b. indien de prijzen en premies gezamenlijk een grotere waarde hebben dan € 45
 c. indien de prijzen en premies gezamenlijk een grotere waarde hebben dan € 450 000, doch niet groter dan € 4 500 000: € 1 588;  
 
 d. indien de prijzen en premies gezamenlijk een grotere waarde hebben dan € 4 500 000: € 2 268.     
-2.  Indien de vergunning als bedoeld in het eerste lid, onder *b*, *c* of *d*, een geldigheidsduur heeft van meer dan een jaar, is de overeenkomstig het eerste lid, vastgestelde vergoeding jaarlijks verschuldigd.   
-3.  De vergoeding die is verschuldigd voor de behandeling van de aanvraag van een vergunning als bedoeld in artikel 4 van de Wet bedraagt € 453. Indien de vergunning een geldigheidsduur heeft van meer dan een jaar, is dit bedrag jaarlijks verschuldigd.   
-4.  Het derde lid is van overeenkomstige toepassing op een vergunning als bedoeld in artikel 28 van de Wet, indien de prijs of premie een grotere waarde heeft dan € 4 500.   
+2.  Indien de vergunning als bedoeld in het eerste lid, onder b, c of d, een geldigheidsduur heeft van meer dan een jaar, is de overeenkomstig het eerste lid, vastgestelde vergoeding jaarlijks verschuldigd.   
+3.  De vergoeding die is verschuldigd voor de behandeling van de aanvraag van een vergunning als bedoeld in [artikel 4 van de Wet](../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) bedraagt € 453. Indien de vergunning een geldigheidsduur heeft van meer dan een jaar, is dit bedrag jaarlijks verschuldigd.   
 
 ### Artikel  4  
 
@@ -74,7 +69,11 @@ De prijsbepaling voor wat betreft gelegenheden, waarvoor ingevolge artikel 3 van
 
 ### Artikel  6  
 
-De prijsbepaling bij geldleningen, waarvoor krachtens artikel 4 van de wet een vergunning is verleend, en bij gelegenheden, die met een ingevolge artikel 28 van de wet verleende vergunning zijn opengesteld, geschiedt overeenkomstig een door Onze Minister goedgekeurde methode in het openbaar ten overstaan van een notaris, die het verloop van de prijsbepaling bij proces-verbaal constateert.  
+De prijsbepaling bij geldleningen, waarvoor krachtens [artikel 4 van de wet](../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) een vergunning is verleend geschiedt overeenkomstig een door Onze Minister goedgekeurde methode in het openbaar ten overstaan van een notaris, die het verloop van de prijsbepaling bij proces-verbaal constateert.  
+
+### Artikel  6a  
+
+Bij regeling van Onze Minister kunnen nadere regels worden gesteld betreffende methoden ter controle van de naleving van het gestelde bij of krachtens de [artikelen 33e](../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) en [33f van de wet](../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), alsmede de vaststelling van de aantallen speeltafels, aangekoppelde spelersterminals en spelersplaatsen voor de toepassing van artikel 33f, tweede lid, van de wet.  
 
 ### Artikel  7  
 

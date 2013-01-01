@@ -689,7 +689,7 @@ c. de tarieven voor meting van gas bij afnemers als bedoeld in artikel 43, eerst
 
 a. de wijze waarop netbeheerders en netgebruikers alsmede netbeheerders zich jegens elkaar gedragen ten aanzien van het in werking hebben van de gastransportnetten, het voorzien van een aansluiting op het net en het uitvoeren van transport van gas over het gastransportnet;  
 
-b. de wijze waarop netbeheerders en afnemers alsmede netbeheerders zich jegens elkaar gedragen ten aanzien van het meten van gegevens betreffende het transport van gas en de uitwisseling van meetgegevens;  
+b. de wijze waarop netbeheerders en afnemers alsmede netbeheerders zich jegens elkaar gedragen ten aanzien van het meten van gegevens betreffende het transport van gas;  
 
 c. de kwaliteitscriteria waaraan netbeheerders moeten voldoen met betrekking tot hun dienstverlening;  
 
@@ -1631,10 +1631,7 @@ Verzet schorst de tenuitvoerlegging van een dwangbevel dat strekt tot invorderin
 
 ### Artikel  61  
 
-1.  Tegen een op grond van deze wet genomen besluit, met uitzondering van een besluit op grond van de artikelen 16, 60ac en 60ad, kan een belanghebbende beroep instellen bij het College van beroep voor het bedrijfsleven.   
-2.  Indien beroep wordt ingesteld tegen een besluit als bedoeld in de artikelen 16, 60ac en 60ad is, in afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de rechtbank te Rotterdam bevoegd.   
-3.  Voor zover een door de raad van bestuur van de mededingingsautoriteit genomen besluit, genomen op grond van de artikelen 12f, 12g, 23, 24, tweede lid, 25, derde en vierde lid, 81, 81c en 82 aangemerkt wordt als algemeen verbindend voorschrift, kan een belanghebbende beroep instellen bij het College van beroep voor het bedrijfsleven.   
-4.  Een representatieve organisatie van netgebruikers op de gasmarkt wordt geacht belanghebbende te zijn bij besluiten genomen op grond van deze wet.   
+Een representatieve organisatie van netgebruikers op de gasmarkt wordt geacht belanghebbende te zijn bij besluiten genomen op grond van deze wet.  
 
 ### Paragraaf  5.7  
 
@@ -1831,7 +1828,7 @@ f. het totaal van de gemaakte kosten voor een verwerving van een bestaand net wa
 1.  De raad van bestuur van de mededingingsautoriteit stelt met betrekking tot het transport van gas dat bestemd is voor levering aan afnemers voor iedere netbeheerder de tarieven, die kunnen verschillen voor de verschillende netbeheerders en voor de onderscheiden tariefdragers en die deze ten hoogste mag berekenen voor het transport van dat gas en de dat transport ondersteunende diensten, alsmede de tarieven voor het verzorgen van een aansluiting en aansluitpunt, jaarlijks vast.   
 2.  De raad van bestuur van de mededingingsautoriteit kan de tarieven die zullen gelden in het jaar t corrigeren, indien de tarieven die golden in het jaar of de jaren voorafgaand aan het jaar t: 
 
-a. bij rechterlijke uitspraak of met toepassing van de [artikelen 6:18](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of [7:11 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn gewijzigd;  
+a. bij rechterlijke uitspraak of met toepassing van de [artikel 6:19](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of [7:11 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn gewijzigd;  
 
 b. zijn vastgesteld met inachtneming van onjuiste of onvolledige gegevens en de raad van bestuur van de mededingingsautoriteit, indien hij de beschikking had over juiste of volledige gegevens, tarieven zou hebben vastgesteld die in aanmerkelijke mate zouden afwijken van de vastgestelde tarieven;  
 

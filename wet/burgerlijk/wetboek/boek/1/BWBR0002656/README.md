@@ -421,7 +421,7 @@ a. de akte een persoon betreft die op het ogenblik van het verzoek Nederlander i
 b. de akte een persoon betreft die rechtmatig verblijft op grond van [artikel 8, onder c en d, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).     
 2.  Buiten Nederland overeenkomstig de plaatselijke voorschriften door een bevoegde instantie opgemaakte akten van geboorte worden op bevel van het openbaar ministerie of op verzoek van een belanghebbende ingeschreven in het register van geboorten van de gemeente 's-Gravenhage, indien de akte een persoon van vreemde nationaliteit betreft en op grond van enige bepaling van dit boek een latere vermelding aan de akte van geboorte moet worden toegevoegd.   
 3.  De ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage kan ook ambtshalve de in de vorige leden bedoelde akten inschrijven.   
-4.  Alvorens op grond van het eerste of derde lid tot de inschrijving van een huwelijksakte of van een akte van registratie van een partnerschap over te gaan, doet de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage zich een door de korpschef in de zin van de Vreemdelingenwet afgegeven verklaring als bedoeld in artikel 44, eerste lid, onderdeel k, overleggen. Deze verklaring wordt opgesteld op verzoek van de echtgenoot of de geregistreerde partner op wie zij betrekking heeft. Bij het verzoek wordt een gewaarmerkt afschrift als bedoeld in artikel 44, eerste lid, onder a, overgelegd. Heeft deze geen woonplaats in Nederland, dan wordt zij opgesteld op verzoek van de andere echtgenoot of de andere geregistreerde partner. De verklaring is niet vereist indien: 
+4.  Alvorens op grond van het eerste of derde lid tot de inschrijving van een huwelijksakte of van een akte van registratie van een partnerschap over te gaan, doet de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage zich een door de korpschef in de zin van de [Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) afgegeven verklaring als bedoeld in artikel 44, eerste lid, onder k, overleggen. Deze verklaring wordt opgesteld op verzoek van de echtgenoot of de geregistreerde partner op wie zij betrekking heeft. Bij het verzoek wordt een gewaarmerkt afschrift als bedoeld in artikel 44, eerste lid, onder a, overgelegd. Heeft deze geen woonplaats in Nederland, dan wordt zij opgesteld op verzoek van de andere echtgenoot of de andere geregistreerde partner. De verklaring is niet vereist indien: 
 
 a. de echtgenoten of geregistreerde partners aannemelijk kunnen maken dat zij beiden buiten Nederland woonplaats hebben;  
 
@@ -446,7 +446,7 @@ Aan de akte van inschrijving, bedoeld in artikel 25, worden de latere vermelding
 
 ### Artikel  25c  
 
-1.  Indien ten aanzien van een buiten Nederland geboren persoon geen akte van geboorte overeenkomstig de plaatselijke voorschriften door een bevoegde instantie is opgemaakt of kan worden overgelegd, kan op verzoek van het openbaar ministerie, van een belanghebbende of van de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage de rechtbank te 's-Gravenhage de voor het opmaken van een geboorteakte noodzakelijke gegevens vaststellen, indien: 
+1.  Indien ten aanzien van een buiten Nederland geboren persoon geen akte van geboorte overeenkomstig de plaatselijke voorschriften door een bevoegde instantie is opgemaakt of kan worden overgelegd, kan op verzoek van het openbaar ministerie, van een belanghebbende of van de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage de rechtbank Den Haag de voor het opmaken van een geboorteakte noodzakelijke gegevens vaststellen, indien: 
 
 a. die persoon Nederlander is of te eniger tijd Nederlander dan wel Nederlands onderdaan niet-Nederlander is geweest;  
 
@@ -458,7 +458,7 @@ c. op grond van dit boek een latere vermelding aan de akte van geboorte moet wor
 
 ### Artikel  25d  
 
-De rechtbank te 's-Gravenhage kan op verzoek van het openbaar ministerie, van een belanghebbende of van de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage de krachtens artikel 25c gegeven beschikking wijzigen op grond dat de vastgestelde gegevens onjuist of onvolledig zijn.  
+De rechtbank Den Haag kan op verzoek van het openbaar ministerie, van een belanghebbende of van de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage de krachtens artikel 25c gegeven beschikking wijzigen op grond dat de vastgestelde gegevens onjuist of onvolledig zijn.  
 
 ### Artikel  25f  
 
@@ -486,7 +486,7 @@ De rechtbank kan, op verzoek of ambtshalve, bij de in het eerste lid van artikel
 
 ### Artikel  26b  
 
-Is met betrekking tot de verzoeker geen akte in de Nederlandse registers van de burgerlijke stand opgenomen, dan kan de rechtbank te 's-Gravenhage, op verzoek of ambtshalve, bij haar beschikking tevens de inschrijving, overeenkomstig artikel 25, van een daarvoor in aanmerking komende in het buitenland opgemaakte akte in de registers van de burgerlijke stand te 's-Gravenhage gelasten, alsmede de verbetering van de akte van inschrijving op grond van artikel 24, eerste lid. Ook kan zij bij haar beschikking een last als bedoeld in artikel 25c geven alsmede een last tot verbetering, overeenkomstig artikel 24, eerste lid, van de door de ambtenaar van de burgerlijke stand te 's-Gravenhage op te maken akte.  
+Is met betrekking tot de verzoeker geen akte in de Nederlandse registers van de burgerlijke stand opgenomen, dan kan de rechtbank Den Haag, op verzoek of ambtshalve, bij haar beschikking tevens de inschrijving, overeenkomstig artikel 25, van een daarvoor in aanmerking komende in het buitenland opgemaakte akte in de registers van de burgerlijke stand te 's-Gravenhage gelasten, alsmede de verbetering van de akte van inschrijving op grond van artikel 24, eerste lid. Ook kan zij bij haar beschikking een last als bedoeld in artikel 25c geven alsmede een last tot verbetering, overeenkomstig artikel 24, eerste lid, van de door de ambtenaar van de burgerlijke stand te 's-Gravenhage op te maken akte.  
 
 ### Artikel  26d  
 
@@ -1044,7 +1044,7 @@ d. overeenkomsten van koop op afbetaling, behalve van zaken welke kennelijk uits
 2.  Het vorige lid geldt niet voor een andere handeling dan een gift, indien de wederpartij te goeder trouw was.   
 3.  Het einde van het huwelijk en scheiding van tafel en bed hebben geen invloed op de bevoegdheid om ter vernietiging van een rechtshandeling van een echtgenoot een beroep op de vernietigingsgrond te doen, die voordien was ontstaan. Indien de andere echtgenoot dientengevolge schuldenaar uit die rechtshandeling wordt, geldt [artikel 51 lid 3 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) voor hem slechts, zolang de termijn van [artikel 52 lid 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) niet is verstreken.   
 4.  De verklaring of rechtsvordering tot vernietiging behoeft in afwijking van de [artikelen 50 lid 1](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en [51 lid 2 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) niet mede te worden gericht tot de echtgenoot die de handeling heeft verricht.   
-5.  De echtgenoot die een beroep op de vernietingsgrond heeft gedaan, kan tevens alle uit de nietigheid voortvloeiende rechtsvorderingen instellen.   
+5.  De echtgenoot die een beroep op de vernietigingsgrond heeft gedaan, kan tevens alle uit de nietigheid voortvloeiende rechtsvorderingen instellen.   
 
 ### Artikel  90  
 
@@ -1243,7 +1243,7 @@ Huwelijkse voorwaarden kunnen zowel door aanstaande echtgenoten vóór het sluit
 
 ### Artikel  116  
 
-1.  Bepalingen in huwelijkse voorwaarden kunnen aan derden die daarvan onkundig waren, slechts worden tegengeworpen, indien die bepalingen ingeschreven waren in het openbaar huwelijksgoederenregister, gehouden ter griffie der rechtbank binnen welker rechtsgebied het huwelijk is voltrokken, of, indien het huwelijk buiten Nederland is aangegaan, ter griffie van de rechtbank te 's-Gravenhage.   
+1.  Bepalingen in huwelijkse voorwaarden kunnen aan derden die daarvan onkundig waren, slechts worden tegengeworpen, indien die bepalingen ingeschreven waren in het openbaar huwelijksgoederenregister, gehouden ter griffie der rechtbank binnen welker rechtsgebied het huwelijk is voltrokken, of, indien het huwelijk buiten Nederland is aangegaan, ter griffie van de rechtbank Den Haag.   
 2.  De wijze van inrichting en raadpleging van het register wordt nader bij algemene maatregel van bestuur geregeld.   
 3.  In afwijking van het eerste lid kan bij algemene maatregel van bestuur worden bepaald dat het register elders dan ter griffie der rechtbank wordt gehouden. Bij algemene maatregel van bestuur kan eveneens worden bepaald dat de verstrekking van gegevens ter inschrijving in het register uitsluitend op een in die maatregel aan te geven wijze plaats vindt.   
 
@@ -2095,7 +2095,7 @@ De ouder heeft geen vruchtgenot van het vermogen, ten aanzien waarvan bij uiters
 
 ### Artikel  253n  
 
-1.  Op verzoek van de niet met elkaar gehuwde ouders of een van hen kan de rechtbank het gezamenlijk gezag, bedoeld in de artikelen artikelen 251a, eerste lid, 252, eerste lid, 253q, vijfde lid, of 277, eerste lid, beëindigen, indien nadien de omstandigheden zijn gewijzigd of bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan. Alsdan bepaalt de rechtbank aan wie van de ouders voortaan het gezag over ieder der minderjarige kinderen toekomt.   
+1.  Op verzoek van de niet met elkaar gehuwde ouders of een van hen kan de rechtbank het gezamenlijk gezag, bedoeld in de artikelen 251a, eerste lid, 252, eerste lid, 253q, vijfde lid, of 277, eerste lid, beëindigen, indien nadien de omstandigheden zijn gewijzigd of bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan. Alsdan bepaalt de rechtbank aan wie van de ouders voortaan het gezag over ieder der minderjarige kinderen toekomt.   
 2.  Het eerste en derde lid van artikel 251a zijn van overeenkomstige toepassing.   
 
 ### Artikel  253o  
@@ -2573,7 +2573,7 @@ De zesde afdeling van deze titel is niet van toepassing op de uitoefening van de
 
 a. hij aantoont, dat hij tengevolge van een sedert de aanvang van zijn bediening opgekomen geestelijk of lichamelijk gebrek niet meer in staat is deze waar te nemen;  
 
-b. hij de vijfenzestigjarige leeftijd bereikt heeft;  
+b. hij de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt;  
 
 c. een daartoe bevoegd persoon zich schriftelijk heeft bereid verklaard de voogdij over te nemen, en de rechtbank deze overneming in het belang van de minderjarigen acht.     
 2.  Bij gezamenlijke uitoefening van de voogdij is het eerste lid slechts van toepassing indien beide voogden zich van hun bediening willen doen ontslaan.   
@@ -3080,7 +3080,7 @@ e. de curator de rekening en verantwoording, bedoeld in artikel 374, aflegt ten 
 
 ### Artikel  391  
 
-Ter griffie van de rechtbank te 's-Gravenhage berusten openbare registers, waarin aantekening wordt gehouden van rechtsfeiten die betrekking hebben op curatele. Bij algemene maatregel van bestuur wordt bepaald welke rechtsfeiten aangetekend worden en op welke wijze deze aantekening geschiedt.  
+Ter griffie van de rechtbank Den Haag berusten openbare registers, waarin aantekening wordt gehouden van rechtsfeiten die betrekking hebben op curatele. Bij algemene maatregel van bestuur wordt bepaald welke rechtsfeiten aangetekend worden en op welke wijze deze aantekening geschiedt.  
 
 ### Titel  17  
 

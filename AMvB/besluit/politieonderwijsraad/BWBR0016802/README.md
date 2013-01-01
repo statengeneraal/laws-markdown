@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 1 april 2004, nr. EA2004/60035, directoraat-generaal voor Openbare Orde en Veiligheid;
 
-Gelet op [artikel 21, van de Wet op het LSOP en het politieonderwijs](../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md);
+Gelet op artikel 21, van de Wet op het LSOP en het politieonderwijs;
 
 De Raad van State gehoord (advies van 22 april 2004, nr. W04.04.0156/I);
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepaling
 
-In dit besluit wordt verstaan onder de raad: de politieonderwijsraad, bedoeld in [artikel 19 van de Wet op het LSOP en het politieonderwijs](../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md).  
+In dit besluit wordt verstaan onder de raad: de politieonderwijsraad, bedoeld in artikel 19 van de Wet op het LSOP en het politieonderwijs.  
 
 ### §  2  
 
@@ -31,7 +31,7 @@ In dit besluit wordt verstaan onder de raad: de politieonderwijsraad, bedoeld in
 ####Secretariaat
 
 1.  De raad wordt bijgestaan door een secretaris, die de leiding heeft over het bureau van de raad.   
-2.  Het bureau van de raad is ondergebracht bij de Politie Nederland.   
+2.  Het bureau van de raad is ondergebracht bij een ondersteunende dienst als bedoeld in artikel 25, eerste lid, onderdeel c, van de Politiewet 2012.   
 3.  De secretaris en de overige leden van het bureau zijn geen lid van de raad.   
 4.  De secretaris is voor de uitoefening van zijn taak uitsluitend verantwoording schuldig aan de raad.   
 
@@ -70,10 +70,10 @@ De raad is bevoegd tot het horen van deskundigen, maatschappelijke organisaties 
 
 ####Middelen, begroting, jaarrekening
 
-1.  De raad verricht zijn werkzaamheden binnen het kader van de middelen die hem jaarlijks door het ministerie van Binnenlandse Zaken en Koninkrijksrelaties ter beschikking worden gesteld.   
+1.  De raad verricht zijn werkzaamheden binnen het kader van de middelen die hem jaarlijks door het Ministerie van Veiligheid en Justitie ter beschikking worden gesteld.   
 2.  De raad legt jaarlijks voor 1 oktober de begroting voor het komende kalenderjaar aan Onze Minister voor.   
 3.  De begroting behoeft de goedkeuring van Onze Minister.   
-4.  De verantwoording vindt plaats in de jaarrekening van de Politie Nederland, waarbij niet bestede middelen van het verslagjaar als openstaande rijksbijdragen zichtbaar in de jaarrekening verwerkt worden.   
+4.  De verantwoording vindt plaats in de jaarrekening van de politie, waarbij niet bestede middelen van het verslagjaar als openstaande rijksbijdragen zichtbaar in de jaarrekening verwerkt worden.   
 
 ### §  3  
 
@@ -83,7 +83,7 @@ De raad is bevoegd tot het horen van deskundigen, maatschappelijke organisaties 
 
 ####Archief
 
-1.  Het beheer van de bescheiden betreffende de werkzaamheden van de raad geschiedt door het secretariaat, bedoeld in artikel 2, op overeenkomstige wijze als bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.   
+1.  Het beheer van de bescheiden betreffende de werkzaamheden van de raad geschiedt door het secretariaat, bedoeld in artikel 2, op overeenkomstige wijze als bij het Ministerie van Veiligheid en Justitie.   
 2.  De bescheiden worden bij opheffing van de raad overgedragen aan Onze Minister.   
 
 ### Artikel  9  

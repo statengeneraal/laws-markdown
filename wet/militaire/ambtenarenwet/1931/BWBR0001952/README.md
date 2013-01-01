@@ -69,10 +69,6 @@ Voor zover dit met het oog op de goede uitvoering van de operationele taken van 
 3.  In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de beslistermijn zes maanden, indien een of meer belanghebbenden, getuigen of deskundigen zich om redenen van dienst buiten Nederland bevinden.   
 4.  Indien dringende redenen van operationele aard verhinderen dat binnen de in het derde lid bedoelde termijn wordt beslist, kan deze termijn ten hoogste twee keer met drie maanden worden verlengd.   
 
-### Artikel  4  
-
-In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten op grond van deze wet de rechtbank te 's-Gravenhage bevoegd.  
-
 ### Artikel  5  
 
 1.  De [eerste volzin van artikel 54, derde lid, van de Wet op de rechterlijke organisatie](../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) is van overeenkomstige toepassing indien beroep is ingesteld door nagelaten betrekkingen of rechtverkrijgenden.   
@@ -339,6 +335,10 @@ c. Indien de beoogde datum van ingang van het ontslag valt binnen de tijd dat de
 d. Indien onze Minister overweegt de militair ambtenaar te ontslaan om een reden die aanleiding geeft tot ontslag zonder het predikaat «eervol»;  
 
 e. in buitengewone omstandigheden.    
+
+### Artikel  12n  
+
+Een ontslag van een militair die is ingezet als bedoeld in [artikel 1, onder d, van de Veteranenwet](../../../../../wet/veteranenwet/BWBR0031401/README.md) gaat niet eerder in dan nadat ten minste drie maanden zijn verstreken na de dag waarop de militair is teruggekeerd van de inzet, tenzij de militair uitdrukkelijk anders verzoekt.  
 
 ### Titel  V  
 

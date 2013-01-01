@@ -17,11 +17,15 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
+*Aanbeveling 2011/766/EU:* Aanbeveling 2011/766/EU van de Commissie van 22 november 2011 betreffende de procedure voor de erkenning van opleidingscentra en examinatoren voor treinbestuurders overeenkomstig Richtlijn 2007/59/EG van het Europees Parlement en de Raad (PbEU 2011, L 314/41);  
+
+*Besluit 2011/765/EU:* Besluit 2011/765/EU van de Commissie van 22 november 2011 inzake criteria voor de erkenning van examinatoren van treinbestuurders en inzake criteria voor de organisatie van examens overeenkomstig Richtlijn 2007/59/EG van het Europees Parlement en de Raad (PbEU 2011, L 314/36);  
+
 *categorie A:* rangeerlocomotieven, werktreinen, onderhoudsspoorwagens en alle andere locomotieven die gebruikt worden voor het rangeren;  
 
 *categorie B:* vervoer van reizigers, vervoer van goederen;  
 
-*TSI Exploitatie:* bijlage bij beschikking 2006/920/EG van de Commissie van de Europese Gemeenschappen van 11 augustus 2006 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem «Exploitatie en beheer van het treinverkeer» van het conventionele trans-Europese spoorwegsysteem (PbEU L 359);  
+*TSI Exploitatie:* bijlage bij het Besluit 2011/314/EU van de Commissie van 12 mei 2011 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem «Exploitatie en verkeersleiding» van het conventionele trans-Europese spoorwegsysteem (PbEU 2011, L 144);  
 
 *wet:*[Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).    
 
@@ -77,19 +81,21 @@ b. in bijlagen V en VI van richtlijn 2007/59/EG gestelde eisen inzake specifieke
 
 1.  Onze Minister geeft een beoordeling als bedoeld in de [artikelen 50, eerste en tweede lid](../../../../../wet/spoorwegwet/BWBR0015007/README.md), en [51a, vierde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), aan degene die bij een door Onze Minister afgenomen onderzoek voldoet aan de voor de betrokken veiligheidsfunctie krachtens artikel 6 in het examenprogramma vastgestelde eisen.   
 2.  Het onderzoek, bedoeld in het eerste lid, omvat een theoriegedeelte en een praktijkgedeelte en kan tevens een onderzoek in een simulator omvatten.   
-3.  De beoordeling bevat ten minste de volgende gegevens: 
+3.  Bij de beoordeling maakt Onze Minister gebruik van een door Onze Minister erkende examinator.   
+4.  Onze Minister erkent examinatoren overeenkomstig het bepaalde in de hoofdstukken 1 en 3 van het Besluit 2011/765/EU en de artikelen 26 tot en met 48 van de Aanbeveling 2011/766/EU. Van de erkenningen wordt door Onze Minister een register bijgehouden.   
+5.  De beoordeling bevat ten minste de volgende gegevens: 
 
 a. de datum van het onderzoek;  
 
 b. naam en geboortedatum van de onderzochte persoon, en  
 
 c. de veiligheidsfunctie waarop de beoordeling betrekking heeft.     
-4.  Een persoon wordt ten aanzien van de veiligheidsfunctie van machinist met volledige bevoegdheid of machinist met beperkte bevoegdheid toegelaten tot het onderzoek, bedoeld in het eerste lid, indien hij een opleiding voor de betrokken veiligheidsfunctie heeft gevolgd bij een krachtens [artikel 51b, eerste lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), door Onze Minister erkend opleidingsinstituut.   
-5.  Een beoordeling als bedoeld in de [artikelen 50, eerste en tweede lid](../../../../../wet/spoorwegwet/BWBR0015007/README.md), en [51a, vierde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), is voor onbepaalde tijd geldig.   
+6.  Een persoon wordt ten aanzien van de veiligheidsfunctie van machinist met volledige bevoegdheid of machinist met beperkte bevoegdheid toegelaten tot het onderzoek, bedoeld in het eerste lid, indien hij een opleiding voor de betrokken veiligheidsfunctie heeft gevolgd bij een krachtens [artikel 51b, eerste lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), door Onze Minister erkend opleidingsinstituut.   
+7.  Een beoordeling als bedoeld in de [artikelen 50, eerste en tweede lid](../../../../../wet/spoorwegwet/BWBR0015007/README.md), en [51a, vierde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), is voor onbepaalde tijd geldig.   
 
 ### Artikel  8  
 
-1.  De voor de machinist met volledige bevoegdheid of machinist met beperkte bevoegdheid vereiste bedrijfsgebonden kennis en bekwaamheid, bedoeld in [artikel 51a, vierde lid, onderdeel c, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), betreft de kennis van de bedrijfsorganisatie en het veiligheidszorgsysteem van de betrokken spoorwegonderneming.   
+1.  De voor de machinist met volledige bevoegdheid of machinist met beperkte bevoegdheid vereiste bedrijfsgebonden kennis en bekwaamheid, bedoeld in [artikel 51a, vierde lid, onderdeel c, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), betreft de kennis van de bedrijfsorganisatie en het veiligheidsbeheersysteem van de betrokken spoorwegonderneming.   
 2.  De voor de veiligheidsfunctie van rangeerder vereiste specifieke, taakgebonden en bedrijfsgebonden kennis en bekwaamheid, bedoeld in [artikel 51, eerste lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), betreft: 
 
 a. wegbekendheid op de locatie waarop hij als rangeerder wordt ingezet;  
@@ -98,19 +104,19 @@ b. kennis van lokale voorschriften;
 
 c. kennis van de voertuigen die hij begeleidt;  
 
-d. kennis van de bedrijfsorganisatie en het veiligheidszorgsysteem van de betrokken spoorwegonderneming.     
+d. kennis van de bedrijfsorganisatie en het veiligheidsbeheersysteem van de betrokken spoorwegonderneming.     
 3.  De voor de veiligheidsfunctie van wagencontroleur vereiste specifieke, taakgebonden en bedrijfsgebonden kennis en bekwaamheid, bedoeld in [artikel 51, eerste lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), betreft: 
 
 a. kennis van wagentypen en ladingen die hij controleert;  
 
-b. kennis van de bedrijfsorganisatie en het veiligheidszorgsysteem van de betrokken spoorwegonderneming.     
+b. kennis van de bedrijfsorganisatie en het veiligheidsbeheersysteem van de betrokken spoorwegonderneming.     
 4.  De voor de veiligheidsfunctie van treindienstleider met volledige bevoegdheid of treindienstleider met minimale bevoegdheid vereiste specifieke, taakgebonden en bedrijfsgebonden kennis en bekwaamheid, bedoeld in [artikel 51, eerste lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), betreft: 
 
 a. kennis van de inrichting van de gedeelten van het spoorwegnet waarvoor hij als treindienstleider dienst doet;  
 
 b. kennis van lokale voorschriften;  
 
-c. kennis van de bedrijfsorganisatie en het veiligheidszorgsysteem;  
+c. kennis van de bedrijfsorganisatie en het veiligheidsbeheersysteem;  
 
 d. kennis van de digitale communicatie uit paragraaf 3 van bijlage A1 en kennis van de mondelinge communicatie uit bijlage C van de TSI Exploitatie.     
 5.  De beoordeling van de kennis en bekwaamheid, bedoeld in het eerste tot en met vierde lid, geschiedt door een vakinhoudelijk leidinggevende als bedoeld in artikel 15, tweede lid.   
@@ -172,7 +178,7 @@ b. onbepaalde tijd indien die is afgegeven aan een rangeerder, een treindienstle
 2.  Het bevoegdheidsbewijs vermeldt de spoorvoertuigen en de hoofdspoorweginfrastructuur waarop het betrekking heeft.   
 3.  Het bevoegdheidsbewijs vermeldt slechts de spoorvoertuigen en de hoofdspoorweginfrastructuur ten aanzien waarvan de machinist met volledige bevoegdheid of de machinist met beperkte bevoegdheid beschikt over een geldige beoordeling als bedoeld in [artikel 51a, vierde lid, onderdeel b, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).   
 4.  Het bevoegdheidsbewijs voor de machinist met beperkte bevoegdheid vermeldt de beperking tot het besturen en begeleiden van spoorvoertuigen met een maximumsnelheid van 40 km per uur.   
-5.  De bevoegdheid als wagencontroleur wordt bij machinisten met volledige of beperkte bevoegdheid aangetekend op het bevoegdheidsbewijs.   
+5.  De bevoegdheid als rangeerder of wagencontroleur kan bij machinisten met volledige of beperkte bevoegdheid worden aangetekend op het bevoegdheidsbewijs.   
 6.  Het bevoegdheidsbewijs is voor onbepaalde tijd geldig.   
 7.  Het bevoegdheidsbewijs verliest zijn geldigheid indien betrokkene de veiligheidsfunctie van machinist met volledige bevoegdheid of machinist met beperkte bevoegdheid niet meer uitoefent onder het gezag van degene die het bevoegdheidsbewijs heeft verstrekt of door schorsing of intrekking van het bevoegdheidsbewijs door degene die het bevoegdheidsbewijs heeft verstrekt.   
 8.  Degene onder wiens gezag de veiligheidsfunctie van machinist met volledige bevoegdheid of van machinist met beperkte bevoegdheid wordt uitgeoefend, verstrekt bij de beëindiging van het dienstverband aan de betrokken machinist een gewaarmerkte kopie van alle documenten waaruit zijn opleiding, zijn kwalificaties, zijn ervaring en zijn vakbekwaamheden blijken.   
@@ -220,7 +226,7 @@ d. indien de houder de veiligheidsfunctie niet meer uitoefent onder het gezag va
 
 ### Artikel  17  
 
-Degene onder wiens gezag een veiligheidsfunctie wordt uitgeoefend, niet zijnde een spoorwegonderneming die houder is van een veiligheidsattest of een beheerder die houder is van een veiligheidsvergunning, past een systeem van personeelsbeheer toe dat voldoet aan [artikel 33, tweede lid, onderdeel e, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) en dat is goedgekeurd door Onze Minister.  
+Degene die personen met een veiligheidsfunctie beschikbaar stelt, niet zijnde een spoorwegonderneming die houder is van een veiligheidscertificaat of een beheerder die houder is van een veiligheidsvergunning, past een systeem van personeelsbeheer toe dat voldoet aan [artikel 16a, derde lid, onderdeel e, van het Besluit bedrijfsvergunning en veiligheidscertificaat hoofdspoorwegen](../../../../../AMvB/besluit/bedrijfsvergunning/en/veiligheidsattest/hoofdspoorwegen/BWBR0017623/README.md) en dat is goedgekeurd door Onze Minister.  
 
 ### Artikel  18  
 
@@ -237,7 +243,7 @@ Degene onder wiens gezag een veiligheidsfunctie wordt uitgeoefend, niet zijnde e
 
 ### Artikel  20  
 
-1.  Onze Minister erkent op aanvraag een opleidingsinstituut als bedoeld in [artikel 51b, eerste lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), indien het beschikt over de voor de opleiding van personeel met een veiligheidsfunctie vereiste expertise en onpartijdigheid.   
+1.  Onze Minster erkent op aanvraag een opleidingsinstituut als bedoeld in [artikel 51b, eerste lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), overeenkomstig het bepaalde in de hoofdstukken 1 en 2 van het Besluit 2011/765/EU en de artikelen 2 tot en met 25 van de Aanbeveling 2011/766/EU. Van de erkenningen wordt door Onze Minister een register bijgehouden.   
 2.  Onze Minister kan aan een erkenning als bedoeld in het eerste lid voorschriften en beperkingen verbinden.   
 3.  Onze Minister kan een erkenning schorsen of intrekken indien het opleidingsinstituut niet meer voldoet aan de voor de erkenning gestelde eisen.   
 
@@ -260,7 +266,7 @@ Aanwijzingen als keuringsinstituut als bedoeld in [artikel 28, tweede lid, van h
 
 ### Artikel  23  
 
-Een wijziging van de TSI Exploitatie gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.  
+Een wijziging van de TSI Exploitatie, het Besluit 2011/765/EU of de Aanbeveling 2011/766/EU gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.  
 
 ### Artikel  24  
 

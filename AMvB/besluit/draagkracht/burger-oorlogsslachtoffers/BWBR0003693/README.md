@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur van 30 maart 1984, Directie Verzetsdeelnemers en Vervolgden, nr. DVV/BV-U 4911 II;
 
-Gelet op [artikel 33, vijfde lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945](../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md) (*Stb.* 1984, 94);
+Gelet op artikel 33, vijfde lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945 (*Stb.* 1984, 94);
 
 De Raad van State gehoord (advies van 16 mei 1984, nr. W.13.84.0155/25.4.19);
 
@@ -17,27 +17,27 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-- de wet: de [Wet uitkeringen burger-oorlogsslachtoffers 1940-1945](../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md);  
+- de wet: de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945;  
 
-- de minimum-grondslag: het bedrag bedoeld in [artikel 10, achtste lid, onder *a*, van de wet](../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md);  
+- de minimum-grondslag: het bedrag bedoeld in artikel 10, achtste lid, onder *a*, van de wet;  
 
-- de maximum-grondslag: het bedrag bedoeld in [artikel 10, achtste lid, onder *b*, van de wet](../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md).    
+- de maximum-grondslag: het bedrag bedoeld in artikel 10, achtste lid, onder *b*, van de wet.    
 
 ### Artikel  2  
 
-1.  Bij het bepalen van de financiële draagkracht van het burger-oorlogsslachtoffer ter zake van de toekenning van een tegemoetkoming in kosten van voorzieningen als bedoeld in [artikel 33, eerste lid, van de wet](../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md) wordt als zijn inkomen aangemerkt: 
+1.  Bij het bepalen van de financiële draagkracht van het burger-oorlogsslachtoffer ter zake van de toekenning van een tegemoetkoming in kosten van voorzieningen als bedoeld in artikel 33, eerste lid, van de wet wordt als zijn inkomen aangemerkt: 
 
-a. de uitkering berekend op grond van [hoofdstuk II, paragraaf 3, van de wet](../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md) met uitzondering van de toeslagen, bedoeld in de [artikelen 19](../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md), [21](../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md) en [22](../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md);  
+a. de uitkering berekend op grond van hoofdstuk II, paragraaf 3, van de wet met uitzondering van de toeslagen, bedoeld in de artikelen 19, 21 en 22;  
 
-b. de inkomensbestanddelen welke op grond van [artikel 28 van de wet](../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md) op de uitkering in mindering worden gebracht indien een uitkering wordt genoten, dan wel in mindering zouden worden gebracht indien een uitkering zou worden genoten met dien verstande dat: 
+b. de inkomensbestanddelen welke op grond van artikel 28 van de wet op de uitkering in mindering worden gebracht indien een uitkering wordt genoten, dan wel in mindering zouden worden gebracht indien een uitkering zou worden genoten met dien verstande dat: 
 
-1. in afwijking van [artikel 28, eerste lid, onder a, van de wet](../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md) voor de vaststelling van de bruto-inkomsten uit tegenwoordige arbeid in beroep of bedrijf, na aftrek van verwervingskosten, geen rekening wordt gehouden met een vrijlating van 20% van de uitkeringsgrondslag;  
+1. in afwijking van artikel 28, eerste lid, onder a, van de wet voor de vaststelling van de bruto-inkomsten uit tegenwoordige arbeid in beroep of bedrijf, na aftrek van verwervingskosten, geen rekening wordt gehouden met een vrijlating van 20% van de uitkeringsgrondslag;  
 
-2. in afwijking van [artikel 28, eerste lid, onder b, van de wet](../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md) voor de vaststelling van de inkomsten uit ouderdomspensioen op grond van de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) van een gehuwde gerechtigde rekening wordt gehouden met 50% van het aan de gerechtigde en de echtgenoot toegekende ouderdomspensioen krachtens deze wet;  
+2. in afwijking van artikel 28, eerste lid, onder b, van de wet voor de vaststelling van de inkomsten uit ouderdomspensioen op grond van de Algemene Ouderdomswet van een gehuwde gerechtigde rekening wordt gehouden met 50% van het aan de gerechtigde en de echtgenoot toegekende ouderdomspensioen krachtens deze wet;  
 
-3. geen rekening wordt gehouden met inkomsten uit vermogen als bedoeld in [artikel 28, eerste lid, onder c, van de wet](../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md).       
-2.  Bij de vaststelling van het inkomen volgens het eerste lid, wordt uitgegaan van het inkomen zoals dit bij de vaststelling van de uitkering, bedoeld in [artikel 60 van de wet](../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md), is of zou worden berekend over de maand met ingang waarvan de tegemoetkoming wordt toegekend.   
-3.  Wanneer toepassing is gegeven aan de [artikelen 18](../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md) of  [32, vierde lid, van de wet](../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md) wordt als inkomen aangemerkt het percentage van de grondslag, genoemd in [artikel 18, eerste lid, onder a, b of c, van de wet](../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md).   
+3. geen rekening wordt gehouden met inkomsten uit vermogen als bedoeld in artikel 28, eerste lid, onder c, van de wet.       
+2.  Bij de vaststelling van het inkomen volgens het eerste lid, wordt uitgegaan van het inkomen zoals dit bij de vaststelling van de uitkering, bedoeld in artikel 60 van de wet, is of zou worden berekend over de maand met ingang waarvan de tegemoetkoming wordt toegekend.   
+3.  Wanneer toepassing is gegeven aan de artikelen 18 of  32, vierde lid, van de wet wordt als inkomen aangemerkt het percentage van de grondslag, genoemd in artikel 18, eerste lid, onder a, b of c, van de wet.   
 
 ### Artikel  3  
 
@@ -53,8 +53,8 @@ b. 50 procent van dat deel van het ingevolge artikel 2 vastgestelde inkomen dat 
 
 a. op schriftelijk verzoek van de gerechtigde, indien de bepaalde draagkracht meer dan 30% in zijn nadeel afwijkt van de volgens artikel 3 bepaalde draagkracht, of  
 
-b. bij het door de gerechtigde bereiken van de 65-jarige leeftijd.     
-2.  Indien toepassing is gegeven aan het eerste lid, onder a, vindt de herziening plaats met ingang van de maand waarin het verzoek is gedaan. Indien toepassing is gegeven aan het eerste lid, onder b, vindt de herziening plaats met ingang van de dag waarop de gerechtigde 65 jaar wordt.   
+b. bij het door de gerechtigde bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet.     
+2.  Indien toepassing is gegeven aan het eerste lid, onder a, vindt de herziening plaats met ingang van de maand waarin het verzoek is gedaan. Indien toepassing is gegeven aan het eerste lid, onder b, vindt de herziening plaats met ingang van de dag waarop de gerechtigde de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, bereikt.   
 
 ### Artikel  4  
 

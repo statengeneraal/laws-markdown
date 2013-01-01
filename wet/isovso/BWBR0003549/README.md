@@ -512,9 +512,11 @@ h. de bevoegdheid de stichting te ontbinden,   met dien verstande dat in de rege
 
 ### Artikel  28a  
 
-####Instellingen
+####Samenwerkingsverbanden
 
-De artikelen 28b, 28c en 28d zijn niet van toepassing op instellingen.  
+1.  Het bevoegd gezag van een of meer scholen voor speciaal onderwijs of speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in artikel 2, vierde lid, is voor elke vestiging van die school of scholen voor zover daaraan speciaal onderwijs wordt verzorgd, aangesloten bij een samenwerkingsverband als bedoeld in [artikel 18a, tweede lid, van de Wet op het primair onderwijs](../../../wet/wbo/BWBR0003420/README.md) of bij een landelijk samenwerkingsverband als bedoeld in artikel 18a, vijftiende lid, van die wet. Artikel 18a, vierde lid, en [artikel 163c, derde lid, van die wet](../../../wet/wbo/BWBR0003420/README.md) zijn van overeenkomstige toepassing.   
+2.  Het bevoegd gezag van een of meer scholen voor voortgezet speciaal onderwijs of speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in artikel 2, vierde lid, is voor elke vestiging van die school of scholen voor zover daaraan voortgezet speciaal onderwijs wordt verzorgd, aangesloten bij een samenwerkingsverband als bedoeld in [artikel 17a, tweede lid, van de Wet op het voortgezet onderwijs](../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of bij een landelijk samenwerkingsverband als bedoeld in artikel 17a, zestiende lid, van die wet. Artikel 17a, vierde lid, en [artikel 103h, derde lid, van die wet](../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) zijn van overeenkomstige toepassing.   
+3.  Onverminderd het eerste en tweede lid, kan het bevoegd gezag deelnemen aan een samenwerkingsverband op grond van [artikel 18a, vijfde lid, van de Wet op het primair onderwijs](../../../wet/wbo/BWBR0003420/README.md) of [artikel 17a, vijfde lid, van de Wet op het voortgezet onderwijs](../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
 
 ### Artikel  28b  
 
@@ -1224,7 +1226,7 @@ c. het direct of indirect onthouden van promotie;
 
 d. het verminderen van de omvang van de betrekking;  
 
-e. ontslag anders dan op eigen verzoek, voordat de pensioengerechtigde leeftijd is bereikt;  
+e. ontslag anders dan op eigen verzoek, voordat de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), is bereikt;  
 
 f. de beslissing van het bevoegd gezag ten aanzien van een personeelslid op basis waarvan op termijn vermindering van diens betrekkingsomvang kan plaatsvinden;  
 
@@ -1425,18 +1427,6 @@ Onze minister kan onder nader te stellen voorwaarden aanvullende middelen ter be
 2.  Onder een residentiële instelling als bedoeld in het eerste lid, wordt verstaan een instelling voor gehandicaptenzorg, jeugdhulpverlening of jeugdgezondheidszorg dan wel een justitiële jeugdinrichting, waarbij behandeling of opvang en onderwijs vanuit één plan noodzakelijk is vanwege de aard of de duur van de behandeling of opvang.   
 3.  Het bevoegd gezag doet Onze minister binnen een maand na de totstandkoming van de overeenkomst dan wel beëindiging ervan een afschrift toekomen van de overeenkomst dan wel deelt de datum waarop de overeenkomst is beëindigd mee.   
 
-### Artikel  72  
-
-####Beroep
-
-Een belanghebbende kan beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State tegen: 
-
-a. een besluit of een van rechtswege verleende goedkeuring als bedoeld in de afdelingen 2 en 8 van deze titel,  
-
-b. een besluit als bedoeld in artikel 120, tweede lid, en  
-
-c. een besluit als bedoeld in artikel 129.    
-
 ### Artikel  73  
 
 ####Instandhouding openbare scholen door een stichting of een openbare rechtspersoon
@@ -1486,7 +1476,7 @@ f. sprake is van voor bekostiging in aanmerking brengen van een samenwerkingssch
 
 g. sprake is van stichting van scholen die overeenkomen met de scholen waaruit een opgeheven samenwerkingsschool is ontstaan, of  
 
-h. sprake is van uitbreiding van het onderwijs aan een school voor speciaal onderwijs met onderwijs voor voortgezet speciaal onderwijs, niet zijnde het onderwijs bedoeld in artikel 2, tweede lid, onder n.     
+h. sprake is van uitbreiding van het onderwijs aan een school voor speciaal onderwijs met onderwijs voor voortgezet speciaal onderwijs.     
 3.  Het verzoek, bedoeld in het tweede lid, is met redenen omkleed en gaat vergezeld van de gegevens, genoemd in artikel 81, tweede lid. Indien sprake is van een situatie als bedoeld in het tweede lid, onder a tot en met e, willigt Onze minister het verzoek slechts in indien de school bij toepassing van artikel 83, eerste en derde lid, op grond van het eerste lid van dat artikel in een door provinciale staten of Onze minister vast te stellen plan van nieuwe scholen zou worden opgenomen. Indien sprake is van uitbreiding als bedoeld in het tweede lid, onder h, willigt Onze minister het verzoek slechts in indien de school bij toepassing van artikel 83, eerste, tweede en derde lid, op grond van het eerste lid dan wel het tweede lid van dat artikel in een door provinciale staten of Onze minister vast te stellen plan van nieuwe scholen zou worden opgenomen. Indien sprake is van een situatie als bedoeld in het tweede lid, onder f, willigt Onze minister het verzoek slechts in indien de school bij toepassing van artikel 83, eerste en derde lid, op grond van het eerste lid van dat artikel in een door provinciale staten of Onze minister vast te stellen plan van nieuwe scholen zou worden opgenomen, met dien verstande dat daarbij de leerlingaantallen als bedoeld in artikel 147 en artikel 148 worden toegepast. Indien sprake is van een situatie als bedoeld in het tweede lid, onder g, willigt Onze minister het verzoek slechts in indien de school bij toepassing van artikel 83, eerste, tweede en derde lid, op grond van het eerste dan wel het tweede lid van dat artikel in een door provinciale staten of Onze minister vast te stellen plan van nieuwe scholen zou worden opgenomen.   
 4.  Een school die is opgenomen in een door Onze minister goedgekeurd of vastgesteld plan van nieuwe scholen voor de jaren 1991, 1992, 1993 en 1994 komt voor bekostiging in aanmerking indien de school in dat plan is opgenomen met als jaar van aanvang van de bekostiging 1991 en het onderwijs voor 1 januari 1992 een aanvang heeft genomen.   
 
@@ -1500,10 +1490,14 @@ Indien beroep is ingesteld in verband met de plannen van nieuwe scholen voor de 
 
 ####Plan regionaal expertisecentrum voor nevenvestigingen en verbrede toelating
 
-1.  Indien een bevoegd gezag van een school, niet zijnde een instelling, wenst over te gaan tot het inrichten van een nevenvestiging of tot het toelaten van leerlingen, die door een commissie voor de indicatiestelling toelaatbaar zijn verklaard tot een andere onderwijssoort binnen het regionaal expertisecentrum dan de onderwijssoort die door de school wordt verzorgd, dient het bevoegd gezag voor 1 februari een daarop betrekking hebbend verzoek tot opneming in het in het derde lid bedoelde plan in bij het regionaal expertisecentrum.   
-2.  Indien binnen een regionaal expertisecentrum de onderwijssoort, bedoeld in artikel 2, tweede lid, onderdeel h, subonderdeel 1, niet voorkomt, kan in afwijking van het eerste lid, het verzoek, bedoeld in het eerste lid, ook betrekking hebben op het toelaten van leerlingen die door een commissie voor de indicatiestelling toelaatbaar zijn verklaard tot genoemde onderwijssoort, tot een andere onderwijssoort binnen het cluster.   
-3.  Voor 1 augustus volgend op de in het eerste lid genoemde datum stelt het regionaal expertisecentrum op basis van de in het eerste en het tweede lid bedoelde verzoeken een plan vast met betrekking tot de vestiging van nevenvestigingen en tot het toelaten van leerlingen tot scholen van een andere onderwijssoort dan waarvoor de leerlingen toelaatbaar zijn verklaard.   
-4.  Het regionaal expertisecentrum neemt een verzoek slechts in het plan op, indien het daarover overeenstemming heeft bereikt met de bevoegde gezagsorganen die deelnemen aan het regionaal expertisecentrum, alle aangrenzende regionale expertisecentra van hetzelfde cluster en, voor zover het een nevenvestiging betreft, de gemeente waar die nevenvestiging zal worden gevestigd.   
+1.  Indien een bevoegd gezag van een school, niet zijnde een instelling, wenst over te gaan tot het inrichten van een nevenvestiging of tot het toelaten van leerlingen, die door een commissie voor de indicatiestelling toelaatbaar zijn verklaard tot een andere onderwijssoort dan de onderwijssoort die door de school wordt verzorgd, dient het bevoegd gezag voor 1 februari een daarop betrekking hebbend verzoek tot opneming in het in het derde lid bedoelde plan in bij het regionaal expertisecentrum.   
+2.   Vervallen.    
+3.  Voor 1 augustus volgend op de in het eerste lid genoemde datum stelt het regionaal expertisecentrum op basis van de in het eerste lid bedoelde verzoeken een plan vast met betrekking tot de vestiging van nevenvestigingen en tot het toelaten van leerlingen tot scholen van een andere onderwijssoort dan waarvoor de leerlingen toelaatbaar zijn verklaard.   
+4.  Het regionaal expertisecentrum neemt een verzoek slechts in het plan op, indien het daarover overeenstemming heeft bereikt: 
+
+a. voor zover het een nevenvestiging betreft: met de bevoegde gezagsorganen die deelnemen aan het regionaal expertisecentrum, alle aangrenzende regionale expertisecentra van hetzelfde cluster en de gemeente waar die nevenvestiging zal worden gevestigd, en  
+
+b. voor zover het betreft het toelaten van leerlingen, die door een commissie voor de indicatiestelling toelaatbaar zijn verklaard tot een andere onderwijssoort dan de onderwijssoort die door de school wordt verzorgd: met de bevoegde gezagsorganen die deelnemen aan het regionaal expertisecentrum, alle aangrenzende regionale expertisecentra van hetzelfde cluster, en, voor zover het betreft toelating van leerlingen die toelaatbaar zijn verklaard tot een onderwijssoort van een ander cluster, met de bevoegde gezagsorganen van de regionale expertisecentra van het andere cluster waarvan de gebieden grenzen aan, of geheel of gedeeltelijk samenvallen met, het gebied van het regionaal expertisecentrum.     
 5.  Binnen 2 weken na de vaststelling van het plan, wordt het plan tezamen met de gegevens waaruit de in het vierde lid bedoelde overeenstemming blijkt, ter goedkeuring aan Onze minister gezonden.   
 6.  Onze minister beslist voor 1 december daaropvolgend. Indien Onze minister de inrichting van een nevenvestiging goedkeurt, vangt de bekostiging van die nevenvestiging aan op 1 augustus volgend op de goedkeuring. Voor de bekostiging wordt de nevenvestiging aangemerkt als deel van de school die de nevenvestiging in stand houdt. Indien Onze minister de toelating goedkeurt van leerlingen die toelaatbaar zijn verklaard tot een andere onderwijssoort, is die toelating mogelijk vanaf 1 augustus volgend op de goedkeuring.   
 7.  Bij algemene maatregel van bestuur wordt voor scholen waarbij, ingevolge een goedkeuring van Onze minister, leerlingen zijn ingeschreven die door een commissie voor de indicatiestelling toelaatbaar zijn verklaard tot een andere onderwijssoort, de bekostiging met betrekking tot die leerlingen vastgesteld.   
@@ -1513,7 +1507,7 @@ Indien beroep is ingesteld in verband met de plannen van nieuwe scholen voor de 
 ####Nevenvestiging instellingen
 
 1.  Indien een bevoegd gezag van een instelling wenst over te gaan tot het inrichten van een nevenvestiging en het daarover overeenstemming heeft bereikt met de andere instellingen en de gemeente waar die nevenvestiging zal worden gevestigd, dient het bevoegd gezag voor 1 februari een daarop betrekking hebbend verzoek met de gegevens waaruit de bedoelde overeenstemming blijkt, in bij Onze minister.   
-2.  Onze minister beslist voor 1 december daaropvolgend. Indien Onze minister de inrichting van een nevenvestiging goedkeurt, vangt de bekostiging van die nevenvestiging aan op 1 augustus volgend op de goedkeuring. Voor de bekostiging wordt de nevenvestiging aangemerkt als deel van de instelling die de nevenvestiging in stand houdt.   
+2.  Onze minister beslist voor 1 april daaropvolgend. Indien Onze minister de inrichting van een nevenvestiging goedkeurt, vangt de bekostiging van die nevenvestiging aan op 1 augustus volgend op de goedkeuring. Voor de bekostiging wordt de nevenvestiging aangemerkt als deel van de instelling die de nevenvestiging in stand houdt.   
 
 ### Artikel  77  
 
@@ -2239,7 +2233,7 @@ b. indien een bevoegd gezag waarvoor geen diensten meer worden verricht, in het 
 2.  De regeling, bedoeld in het eerste lid, maakt geen onderscheid tussen openbaar en bijzonder onderwijs en voorziet in een behandeling van scholen naar dezelfde maatstaf.   
 3.  De regeling, bedoeld in het eerste lid, bevat in elk geval de voorzieningen die door het bevoegd gezag van een in de gemeente gelegen, niet door de gemeente in stand gehouden school kunnen worden aangevraagd en de procedure voor het doen van een aanvraag.   
 4.  De gemeenteraad kan besluiten dat burgemeester en wethouders de regeling, bedoeld in het eerste lid, tijdelijk kunnen aanvullen met nieuwe voorzieningen. De aanvulling wordt binnen 1 week aan de bevoegde gezagsorganen van de niet door de gemeente in stand gehouden scholen gezonden. Binnen 12 weken na de totstandkoming van de aanvulling wordt deze voorgelegd aan de gemeenteraad en besluit de gemeenteraad over de bekrachtiging ervan. Indien de gemeenteraad niet binnen 12 weken heeft besloten, wordt de aanvulling gelijkgesteld met een aanvulling die is bekrachtigd. Een afwijzing van de aanvulling door de gemeenteraad heeft geen gevolgen voor aanvragen waarop reeds is besloten of die reeds zijn ingediend en die voorzieningen betreffen waarop de aanvulling betrekking heeft.   
-5.  [Artikel 8:2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op de regeling, bedoeld in het eerste lid, dan wel een wijziging daarvan. In afwijking van [artikel 8:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan tegen een aanvulling als bedoeld in het vierde lid geen beroep worden ingesteld zolang de gemeenteraad deze nog niet heeft bekrachtigd.   
+5.  [Artikel 8:2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op de regeling, bedoeld in het eerste lid, dan wel een wijziging daarvan.   
 6.  Voor de toepassing van dit artikel wordt een nevenvestiging aangemerkt als een nevenvestiging die is gelegen in de gemeente van de hoofdvestiging. De gemeenteraad kan in de verordening, bedoeld in het eerste lid, aan burgemeester en wethouders de bevoegdheid verlenen om, met inachtneming van de in die verordening gestelde regels, te besluiten dat in de gemeente gelegen nevenvestigingen van scholen waarvan de hoofdvestiging is gelegen in een andere gemeente in afwijking van de eerste volzin in aanmerking komen voor een ofmeer van de in de regeling genoemde voorzieningen.   
 7.  Burgemeester en wethouders maken jaarlijks in een van overheidswege uitgegeven blad of een dag-, nieuws- of huis-aan-huisblad, dan wel op een andere geschikte wijze, een overzicht bekend van de op grond van de regeling, bedoeld in het eerste lid, toegekende voorzieningen.   
 
@@ -2872,7 +2866,7 @@ e. het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van
 3.  Van de in het eerste en tweede lid bedoelde verplichting kan Onze Minister op verzoek van het bevoegd gezag onderscheidenlijk het regionaal expertisecentrum ontheffing verlenen op grond van bezwaren van godsdienstige of levensbeschouwelijke aard. Onze Minister verleent de ontheffing slechts, indien het bevoegd gezag onderscheidenlijk het regionaal expertisecentrum aantoont dat een afdoende andere voorziening is getroffen met betrekking tot de kosten van werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../wet/ziektewet/BWBR0001888/README.md). Onze Minister besluit binnen zes maanden na ontvangst van een verzoek. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze Minister de verzoeker daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
 4.  Het bestuur van de rechtspersoon stelt regels vast voor de behandeling, beoordeling en beantwoording van een verzoek van het bevoegd gezag onderscheidenlijk het regionaal expertisecentrum als bedoeld in artikel 132, derde lid. Indien het bevoegd gezag onderscheidenlijk het regionaal expertisecentrum zich beroept op overwegingen van godsdienstige of levensbeschouwelijke aard, betrekt het bestuur van de rechtspersoon die overwegingen bij de beoordeling van een in de eerste volzin bedoeld verzoek.   
 5.  Indien het bestuur van de rechtspersoon het in het vierde lid bedoelde verzoek heeft ingewilligd, vergoedt hij aan de instantie die de werkloosheidsuitkeringen, de suppleties inzake arbeidsongeschiktheid alsmede de uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../wet/ziektewet/BWBR0001888/README.md) verstrekt of heeft verstrekt, de kosten van die uitkeringen of suppleties.   
-6.  Tegen een besluit van de rechtspersoon kan het bevoegd gezag beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
+6.  Tegen een besluit van de rechtspersoon kan beroep worden ingesteld door het bevoegd gezag.   
 7.  Op de rechtspersoon, bedoeld in het eerste lid, is de [Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing.   
 
 ### Artikel  170a  
@@ -2893,7 +2887,28 @@ d. de instantie, bedoeld in artikel 170, vijfde lid.
 
 ### Titel  V  
 
-####Bewijzen van bekwaamheid
+####Experimenten
+
+### Artikel  171  
+
+#### *Ruimte voor innovatie* 
+
+1.  Met het oog op verbetering van de kwaliteit, toegankelijkheid of doelmatigheid van het speciaal onderwijs en het voortgezet speciaal onderwijs kan bij wijze van experiment bij algemene maatregel van bestuur worden afgeweken van titel I, artikelen 1 en 2, titel II, afdeling 1, afdeling 2, artikelen 50 en 51, en titel IV, afdelingen 1, 2, 4 tot en met 6, afdeling 7, paragrafen 2, 3, 6 en 7, en afdeling 8, artikelen 146 tot en met 149 en 151, van de wet.   
+2.  In geval van toepassing van het eerste lid wordt bij algemene maatregel van bestuur in elk geval bepaald: 
+
+a. het doel van het experiment,  
+
+b. op welke wijze van welke in het eerste lid bedoelde voorschriften wordt afgeweken,  
+
+c. de duur van het experiment, en  
+
+d. op welke wijze en aan de hand van welke criteria de met het experiment beoogde effecten worden geëvalueerd.     
+3.  Bij ministeriële regeling kunnen regels worden gesteld over de uitvoering van een experiment.   
+4.  Een experiment duurt ten hoogste zes jaar, tenzij een langere duur gezien de bijzondere aard van het experiment noodzakelijk is. Alsdan wordt de duur van het experiment op ten hoogste acht jaar bepaald. Indien een voorstel van wet is ingediend bij de Staten-Generaal om het experiment om te zetten in een structurele wettelijke regeling, voordat een experiment is afgelopen, kan Onze Minister het experiment verlengen tot het tijdstip waarop het wetsvoorstel tot wet is verheven en in werking treedt.   
+5.  Onze Minister zendt drie maanden voor het einde van de werkingsduur van een algemene maatregel van bestuur als bedoeld in het eerste lid aan de Staten-Generaal, een verslag over de doeltreffendheid en de effecten van het experiment in de praktijk, evenals een standpunt over de voortzetting van die algemene maatregel van bestuur, anders dan een voortzetting als experiment.   
+6.  In verband met een experiment als bedoeld in het eerste lid, kan bij algemene maatregel van bestuur eveneens bij wijze van experiment worden afgeweken van [artikel 1 van de Leerplichtwet 1969](../../../wet/leerplichtwet/1969/BWBR0002628/README.md).   
+7.  Dit artikel is van overeenkomstige toepassing op een samenwerkingsverband van een school met een school of instelling als bedoeld in artikel 1, een school als bedoeld in de [Wet op het primair onderwijs](../../../wet/wbo/BWBR0003420/README.md), of een school als bedoeld in de [Wet op het voortgezet onderwijs](../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md). Bij samenwerking met een school of instelling kan voor die school of instelling respectievelijk worden afgeweken van [hoofdstuk I, titel I, artikelen 1](../../../wet/wbo/BWBR0003420/README.md) en [2](../../../wet/wbo/BWBR0003420/README.md), [titel II, afdeling 1](../../../wet/wbo/BWBR0003420/README.md) en [titel IV, afdeling 4 tot en met 7](../../../wet/wbo/BWBR0003420/README.md) en [afdeling 8, paragrafen 2](../../../wet/wbo/BWBR0003420/README.md), [3](../../../wet/wbo/BWBR0003420/README.md), [6](../../../wet/wbo/BWBR0003420/README.md) en [7, van de Wet op het primair onderwijs](../../../wet/wbo/BWBR0003420/README.md), en [titel II, afdeling I, hoofdstuk I](../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [titel III, afdeling II van de Wet op het voortgezet onderwijs](../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md). Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, wordt geregeld welke bij of krachtens de wet, de Wet op het primair onderwijs, of de Wet op het voortgezet onderwijs vastgestelde voorschriften van toepassing of van overeenkomstige toepassing zijn op de samenwerking.   
+8.  De voordracht voor de algemene maatregel van bestuur, bedoeld in het tweede lid, wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.   
 
 ### Titel  VI  
 

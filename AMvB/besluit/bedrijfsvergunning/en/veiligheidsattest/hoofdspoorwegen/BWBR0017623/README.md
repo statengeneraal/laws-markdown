@@ -115,6 +115,7 @@ a. het ten behoeve van overgave- of stationsfaciliteiten berijden van de hoofdsp
 b. deelnemen aan het spoorverkeer met zelfrijdend gereedschap of een daarmee vergelijkbaar voertuig om werkzaamheden aan of nabij de hoofdspoorweg uit te voeren op een deel van de hoofdspoorweg dat, ten behoeve van deze werkzaamheden, buiten dienst is gesteld.     
 3.  Een spoorwegonderneming die louter activiteiten uitoefent als bedoeld in het tweede lid voldoet aan de uit [artikel 55 van de wet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) voortvloeiende verzekeringsplicht indien zij de uit de wettelijke aansprakelijkheid voortvloeiende financiële risico’s heeft gedekt door middel van een verzekering die Nederland als dekkingsgebied heeft en een dekkingsbedrag heeft van minimaal € 2.500.000 per gebeurtenis.   
 4.  Artikel 7, tweede lid, is van overeenkomstige toepassing.   
+5.  Het soort van gebruik van de hoofdspoorweg, bedoeld in [artikel 28, tweede lid, van de wet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) waarvoor Onze Minister de vereisten van goede naam, financiële draagkracht en beroepsbekwaamheid alsmede de uit [artikel 55 van de wet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) voortvloeiende verzekeringsplicht buiten toepassing kan laten is: alle taken, voortvloeiende uit de zorg voor beheer, bedoeld in [artikel 16 van de wet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md), zoals uitgevoerd door een beheerder.   
 
 ### §  7  
 
@@ -131,10 +132,6 @@ b. een verklaring, afgegeven door de Kamer van Koophandel en niet ouder dan twee
 ### Artikel  10  
 
 Een aanvraag tot verlening van een bedrijfsvergunning bevat met het oog op het vereiste van financiële draagkracht de documenten, bedoeld in onderdeel I, onder 1, van de bijlage van richtlijn 95/18/EG.  
-
-### Artikel  11  
-
-Een aanvraag tot verlening van een bedrijfsvergunning bevat met het oog op het vereiste van beroepsbekwaamheid de gegevens, bedoeld in onderdeel II van de bijlage bij richtlijn 95/18/EG.  
 
 ### §  8  
 
@@ -171,53 +168,55 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van d
 
 ### Hoofdstuk  3  
 
-####Het veiligheidsattest
+####Het veiligheidscertificaat
 
 ### Artikel  16  
 
-1.  Een aanvraag voor een veiligheidsattest bevat ten minste de bij regeling van Onze Minister bepaalde gegevens en bescheiden.   
-2.  Een adequaat veiligheidszorgsysteem als bedoeld in [artikel 32, eerste onderdeel b, van de wet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md), bevat tenminste de bij regeling van Onze Minister met inachtneming van bijlage III van richtlijn 2004/49/EG vastgestelde bedrijfsprocessen.   
-3.  Een veiligheidszorgsysteem waarvoor door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie een certificering als bedoeld in artikel 10, tweede lid, onderdeel a, van richtlijn 2004/49/EG is afgegeven, geldt voor de verlening van het veiligheidsattest als adequaat veiligheidszorgsysteem als bedoeld in [artikel 32, eerste lid, onderdeel b, van de wet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md).   
-4.  Het veiligheidsattest bevat: 
+1.  Een aanvraag voor een veiligheidscertificaat als bedoeld in [artikel 32, eerste lid, van de wet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) bevat ten minste de bij ministeriële regeling bepaalde gegevens en bescheiden.   
+2.  De houder van een veiligheidscertificaat draagt er zorg voor dat het veiligheidsbeheersysteem blijft beschikken over: 
 
-a. de constatering dat de spoorwegonderneming beschikt over een adequaat veiligheidszorgsysteem als bedoeld in [artikel 32, eerste lid, onderdeel b, van de wet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md), en  
+a. een geldig A-certificaat, bedoeld in [artikel 32, eerste lid, onderdeel a, van de wet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) dan wel een geldig daarmee gelijkgesteld certificaat, bedoeld in artikel 32, tweede lid, van de wet; en  
 
-b. de constatering dat de spoorwegonderneming door toepassing van haar veiligheidszorgsysteem veilig gebruik kan maken van de spoorweg en daarbij kan voldoen aan de bij of krachtens [hoofdstuk 3, paragraaf 3, van de Spoorwegwet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) gestelde voorschriften.     
+b. een geldig B-certificaat, bedoeld in [artikel 32, eerste lid, onderdeel b, van de wet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md).     
+3.  Een B-certificaat als bedoeld in [artikel 32, eerste lid, onderdeel b, van de wet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is slechts geldig indien de spoorwegonderneming beschikt over een geldig A-certificaat als bedoeld in artikel 32, eerste lid, onderdeel a, van de wet.   
+4.  De houder van een veiligheidscertificaat maakt binnen een jaar na de afgifte daarvan gebruik van hoofdspoorweginfrastructuur.   
+5.  De houder van een veiligheidscertificaat ten aanzien waarvan Onze Minister een A-certificaat als bedoeld in [artikel 32, eerste lid, onderdeel a, van de wet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md), heeft verleend, maakt aan Onze Minister zo spoedig mogelijk melding van wijzigingen in dat certificaat ten aanzien waarvan redelijkerwijs moet worden aangenomen dat zij gevolgen hebben voor het afgegeven veiligheidscertificaat of voor de daaraan verbonden beperkingen en voorschriften.   
 
 ### Artikel  16a  
 
-1.  De houder van een veiligheidsattest ten aanzien waarvan artikel 16, derde lid, geen toepassing heeft gevonden: 
+1.  De houder van een veiligheidscertificaat past een adequaat veiligheidsbeheersysteem toe, met behulp waarvan wordt gewaarborgd dat de spoorwegonderneming: 
 
-a. draagt er zorg voor dat het veiligheidszorgsysteem blijft voldoen aan [artikel 33, tweede en derde lid, van de wet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) en artikel 16, tweede lid;  
+a. bij de normale bedrijfsvoering en bij voorzienbare afwijkingen daarvan geen schade berokkent en niemand onnodig hindert of in gevaar brengt en zorgt dat het spoorverkeer zo veel mogelijk zonder verstoringen kan worden afgewikkeld;  
 
-b. maakt binnen een jaar na de afgifte daarvan gebruik van de hoofdspoorweginfrastructuur, en  
+b. rekening houdt met de specifieke vereisten wanneer de normale bedrijfsvoering raakt aan die van andere gebruikers van de spoorweg of van de beheerder;  
 
-c. maakt aan Onze Minister zo spoedig mogelijk melding van wijzigingen ten aanzien waarvan redelijkerwijs moet worden aangenomen dat zij gevolgen hebben voor het afgegeven veiligheidsattest of voor de daaraan verbonden beperkingen en voorschriften.     
-2.  De houder van een veiligheidsattest ten aanzien waarvan artikel 16, derde lid, toepassing heeft gevonden: 
+c. de aan de bedrijfsvoering verbonden risico's onderkent en passende maatregelen neemt om deze afdoende te beheersen en daarbij rekening houdt met de stand der techniek en de binnen de bedrijfstak aanwezige kennis en richtsnoeren voor een veilige bedrijfsvoering;  
 
-a. blijft beschikken over een geldige certificering als bedoeld in artikel 10, tweede lid, onderdeel a, van richtlijn 2004/49/EG, en  
+d. procedures vaststelt en hanteert voor het nemen van corrigerende maatregelen bij afwijkingen en incidenten, alsmede voor het voortdurend verbeteren van het veiligheidsniveau met het oog op zich wijzigende omstandigheden en op grond van opgedane ervaringen;  
 
-b. maakt binnen een jaar na de afgifte daarvan gebruik van hoofdspoorweginfrastructuur.     
+e. ervoor zorg draagt dat werknemers met een veiligheidsfunctie met het oog op het behouden van hun geschiktheid, kennis en bekwaamheid voor de desbetreffende functie de noodzakelijke oefening hebben en de noodzakelijke nadere of aanvullende scholing, opleiding en studie volgen.     
+2.  Het veiligheidsbeheersysteem is passend voor de aard en de omvang van de spoorwegonderneming.   
+3.  Een adequaat veiligheidsbeheersysteem als bedoeld in het eerste lid bevat ten minste de bij regeling van Onze Minister met inachtneming van bijlage III, van richtlijn 2004/49/EG vastgestelde bedrijfsprocessen.   
 
 ### Artikel  17  
 
-Onze Minister kan een proefattest als bedoeld in [artikel 34 van de wet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) verlenen, indien de spoorwegonderneming aannemelijk maakt dat zij gedurende de geldigheidsduur van het proefattest op verantwoorde wijze gebruik kan maken van de hoofdspoorweg.  
+Onze Minister kan een proefcertificaat als bedoeld in [artikel 34 van de wet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) verlenen, indien de spoorwegonderneming aannemelijk maakt dat zij gedurende de geldigheidsduur van het proefcertificaat op verantwoorde wijze gebruik kan maken van de hoofdspoorweg.  
 
 ### Artikel  17a  
 
-Onze Minister gebruikt zijn bevoegdheid tot intrekking van het veiligheidsattest als bedoeld in [artikel 33, vijfde lid, van de wet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md), indien de houder van het attest niet meer voldoet aan de in artikel 16a, eerste lid, onderdelen a en b en tweede lid, onderdelen a en b, gestelde eisen.  
+Onze Minister gebruikt zijn bevoegdheid tot intrekking van het veiligheidscertificaat als bedoeld in [artikel 33, derde lid, van de wet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md), indien de houder van dat certificaat niet meer voldoet aan artikel 16, tweede lid en derde lid, en artikel 16a.  
 
 ### Artikel  18  
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van: 
 
-a. de wijziging of schorsing van het veiligheidsattest, en  
+a. de wijziging of schorsing van het veiligheidscertificaat, en  
 
-b. de verlening, weigering, wijziging, schorsing of intrekking van het proefattest.    
+b. de verlening, weigering, wijziging, schorsing of intrekking van het proefcertificaat.    
 
 ### Artikel  19  
 
-1.  De houder van een veiligheidsattest ten aanzien waarvan artikel 16, derde lid, geen toepassing heeft gevonden, stelt over ieder kalenderjaar een jaarverslag op met betrekking tot de spoorwegveiligheid en zendt dat in het daaropvolgende jaar telkens voor 30 juni aan Onze Minister.   
+1.  De houder van een veiligheidscertificaat ten aanzien waarvan artikel 16, derde lid, geen toepassing heeft gevonden, stelt over ieder kalenderjaar een jaarverslag op met betrekking tot de spoorwegveiligheid en zendt dat in het daaropvolgende jaar telkens voor 30 juni aan Onze Minister.   
 2.  Het jaarverslag bevat in elk geval de in artikel 9, vierde lid, onderdeel a tot en met d, van richtlijn 2004/49/EG bedoelde informatie.   
 
 ### Artikel  19a  
@@ -230,7 +229,7 @@ Een wijziging van artikel 9, vierde lid, en van bijlage III van richtlijn 2004/4
 
 ### Artikel  20  
 
-Een voor de inwerkingtreding van dit besluit door een onafhankelijke certificerende instantie opgestelde verklaring dat een onderneming voldoet aan de Veiligheid Gezondheid Milieu Checklist Aannemers met Branchegerichte Toelichting Railinfrastructuur, wordt tot een door de Minister te bepalen tijdstip aangemerkt als een proefattest als bedoeld in [artikel 34 van de wet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) met dien verstande dat dit proefattest uitsluitend geldt voor het deelnemen aan het spoorverkeer met zelfrijdend gereedschap of een daarmee vergelijkbaar voertuig, om werkzaamheden aan of nabij de hoofdspoorweg uit te voeren, op een deel van de hoofdspoorweg dat buiten dienst is gesteld.  
+Een voor de inwerkingtreding van dit besluit door een onafhankelijke certificerende instantie opgestelde verklaring dat een onderneming voldoet aan de Veiligheid Gezondheid Milieu Checklist Aannemers met Branchegerichte Toelichting Railinfrastructuur, wordt tot een door de Minister te bepalen tijdstip aangemerkt als een proefcertificaat als bedoeld in [artikel 34 van de wet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) met dien verstande dat dit proefcertificaat uitsluitend geldt voor het deelnemen aan het spoorverkeer met zelfrijdend gereedschap of een daarmee vergelijkbaar voertuig, om werkzaamheden aan of nabij de hoofdspoorweg uit te voeren, op een deel van de hoofdspoorweg dat buiten dienst is gesteld.  
 
 ### Artikel  21  
 
@@ -238,7 +237,7 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 
 ### Artikel  22  
 
-Dit besluit wordt aangehaald als: Besluit bedrijfsvergunning en veiligheidsattest hoofdspoorwegen.  
+Dit besluit wordt aangehaald als: Besluit bedrijfsvergunning en veiligheidscertificaat hoofdspoorwegen.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

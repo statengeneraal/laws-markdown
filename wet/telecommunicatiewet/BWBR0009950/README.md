@@ -1381,6 +1381,13 @@ b. stelt de aanbieder de abonnee op genoegzame wijze op de hoogte van de inhoud 
 1.  De overeenkomst tussen een aanbieder en een consument met betrekking tot de levering van een elektronische communicatiedienst of programmadienst die is aangegaan voor een onbepaalde duur, kan door de consument te allen tijde kosteloos worden opgezegd.   
 2.  Een aanbieder biedt een eindgebruiker de mogelijkheid een overeenkomst voor een bepaalde duur met een looptijd van ten hoogste twaalf maanden aan te gaan. De overeenkomst tussen een aanbieder en een consument met betrekking tot de levering van een openbare elektronische communicatiedienst of programmadienst kan worden aangegaan voor een bepaalde duur, waarbij de looptijd ten hoogste 24 maanden bedraagt. De overeenkomst tussen een aanbieder en een consument met betrekking tot de levering van een elektronische communicatiedienst of programmadienst die is aangegaan voor een bepaalde duur, kan na verloop van die duur stilzwijgend worden verlengd of vernieuwd, mits de consument de overeenkomst hierna te allen tijde kosteloos kan opzeggen.   
 3.  De bij de opzegging door de consument in acht te nemen termijn is in alle gevallen niet langer dan een maand.   
+4.  Een aanbieder van een openbare telefoondienst biedt een consument de mogelijkheid een overeenkomst aan te gaan: 
+
+a. waarbij geen starttarief in rekening wordt gebracht;  
+
+b. waarbij de gespreksduur in seconden in rekening wordt gebracht, en  
+
+c. waarbij, indien de aanbieder ook abonnementen aanbiedt waarbij de gespreksduur niet in seconden in rekening wordt gebracht, het tarief, gezien de overige voorwaarden van de overeenkomst, vergelijkbaar is met het tarief bij de andere door de aanbieder aangeboden abonnementen.     
 
 ### Artikel  7.3  
 
@@ -1970,7 +1977,7 @@ e. de mogelijkheid van onmiddellijke opname in het register als bedoeld in het t
 
 a. de gebruiker duidelijke en volledige informatie te verstrekken overeenkomstig de Wet bescherming persoonsgegevens, en in ieder geval omtrent de doeleinden waarvoor men toegang wenst te verkrijgen tot de desbetreffende gegevens dan wel waarvoor men gegevens wenst op te slaan, en  
 
-b. van de gebruiker toestemming te hebben verkregen voor de desbetreffende handeling.     
+b. van de gebruiker toestemming te hebben verkregen voor de desbetreffende handeling.   Een handeling als bedoeld in de aanhef, die tot doel heeft gegevens over het gebruik van verschillende diensten van de informatiemaatschappij door de gebruiker of de abonnee te verzamelen, combineren of analyseren voor commerciële, charitatieve of ideële doeleinden, wordt vermoed een verwerking van persoonsgegevens te zijn, als bedoeld in [artikel 1, onderdeel b, van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
 2.  De in het eerste lid, onder a en b, genoemde vereisten zijn ook van toepassing in het geval op een andere wijze dan door middel van een elektronisch communicatienetwerk wordt bewerkstelligd dat via een elektronisch communicatienetwerk gegevens worden opgeslagen of toegang wordt verleend tot op het randapparaat opgeslagen gegevens.   
 3.  Het bepaalde in het eerste en tweede lid is niet van toepassing, voor zover het de technische opslag of toegang tot gegevens betreft met als uitsluitend doel: 
 

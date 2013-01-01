@@ -36,6 +36,10 @@ d. de eisen waaraan een proces-verbaal van het opnemen van vertrouwelijke commun
 
 Het Landelijk selectie- en opleidingsinstituut politie, genoemd in [artikel 2 van de LSOP-wet](../../../../../../../wet/lsop-wet/BWBR0006942/README.md), beoordeelt of de ambtenaar van politie beschikt over de kennis en vaardigheden, bedoeld in artikel 2 en artikel 3. Bij positieve beoordeling geeft hij daarvan een verklaring af.  
 
+### Artikel  4a  
+
+Deze regeling berust op [artikel 28 van het Besluit bewapening en uitrusting politie](../../../../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md).  
+
 ### Artikel  5  
 
 Deze regeling treedt in werking met ingang van 1 februari 2000.  

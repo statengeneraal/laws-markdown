@@ -20,10 +20,6 @@ b. *AWBZ-verzekerde:* degene die verzekerd is ingevolge de [AWBZ](../../../../..
 
 c. *indicatiebesluit:* een besluit als bedoeld in [artikel 1, onderdeel d, van het Zorgindicatiebesluit](../../../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md).    
 
-### Artikel  2  
-
-Als centraal administratiekantoor wordt aangewezen: de besloten vennootschap CAK, gevestigd te ’s-Gravenhage.  
-
 ### Artikel  3  
 
 1.  Voor een periode van een jaar worden de rechtspersonen die zijn genoemd in bijlage 1 van deze beschikking als verbindingskantoren aangewezen voor de daarachter vermelde regio’s.   

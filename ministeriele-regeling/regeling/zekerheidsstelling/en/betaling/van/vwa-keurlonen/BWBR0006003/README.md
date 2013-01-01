@@ -16,11 +16,11 @@ b. VWA: de Voedsel en Waren Autoriteit, ingesteld bij besluit van de Minister va
 
 ### Artikel  1a  
 
-Deze regeling berust op [artikel 25, vierde lid, van de Kaderwet diervoeders](../../../../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [artikel 94, tweede lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en de [artikelen 19](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [22a van de Landbouwwet](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md).  
+Deze regeling berust op [artikel 9.1, eerste lid, van de Wet dieren](../../../../../../../../wet/wet/dieren/BWBR0030250/README.md), [artikel 94, tweede lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en de [artikelen 19](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [22a van de Landbouwwet](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md).  
 
 ### Artikel  2  
 
-Deze regeling is van toepassing op retributies, verschuldigd aan de VWA ingevolge de [Regeling diervoeders 2010](../../../../../../../../ministeriele-regeling/regeling/diervoeders/2010/BWBR0028123/README.md) of de [Regeling retributies veterinaire en hygiënische aangelegenheden I](../../../../../../../../ministeriele-regeling/regeling/retributies/veterinaire/en/hygiënische/aangelegenheden/i/BWBR0025812/README.md).   
+Deze regeling is van toepassing op retributies, verschuldigd aan de VWA ingevolge de [Regeling diervoeders 2012](../../../../../../../../ministeriele-regeling/regeling/diervoeders/2010/BWBR0028123/README.md) of de [Regeling retributies veterinaire en hygiënische aangelegenheden I](../../../../../../../../ministeriele-regeling/regeling/retributies/veterinaire/en/hygiënische/aangelegenheden/i/BWBR0025812/README.md).   
 
 ### Artikel  3  
 

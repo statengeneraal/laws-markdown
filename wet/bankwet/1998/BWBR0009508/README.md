@@ -40,7 +40,7 @@ f. de statuten van het Europees Stelsel van Centrale Banken: de statuten van het
 ### Artikel  2  
 
 1.  Ter uitvoering van het Verdrag heeft de Bank als doelstelling het handhaven van prijsstabiliteit.   
-2.  Ter uitvoering van het Verdrag ondersteunt de Bank, onverminderd het doel van prijsstabiliteit, het algemene economische beleid in de Europese Gemeenschap teneinde bij te dragen tot de verwezenlijking van de in artikel 3 van het Verdrag betreffende de Europese Unie omschreven doelstellingen van de Unie.   
+2.  Ter uitvoering van het Verdrag ondersteunt de Bank, onverminderd het doel van prijsstabiliteit, het algemene economische beleid in de Europese Unie teneinde bij te dragen tot de verwezenlijking van de in artikel 3 van het Verdrag betreffende de Europese Unie omschreven doelstellingen van de Unie.   
 3.  De Bank handelt in overeenstemming met het beginsel van een open markteconomie met vrije mededinging, waarbij een doelmatige allocatie van middelen wordt bevorderd, en met inachtneming van de beginselen die zijn neergelegd in artikel 119 van het Verdrag.   
 4.  De Bank heeft voorts als doelstelling het uitvoeren van taken, anders dan die bedoeld in artikel 3, voorzover deze haar bij of krachtens de wet zijn opgedragen.   
 

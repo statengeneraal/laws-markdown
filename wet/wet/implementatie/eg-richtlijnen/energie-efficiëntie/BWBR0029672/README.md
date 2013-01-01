@@ -307,10 +307,6 @@ d. de desbetreffende groep niet in de handel mag worden gebracht, uit de handel 
 
 ####Overige bepalingen
 
-### Artikel  34  
-
-Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.  
-
 ### Artikel  34a  
 
 De voordracht voor een krachtens deze wet vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  

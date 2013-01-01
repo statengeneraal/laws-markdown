@@ -320,7 +320,6 @@ b. zorg, bestaande uit bij algemene maatregel van bestuur aan te wijzen vormen v
 c.  Dit onderdeel is nog niet in werking getreden.      
 3.  De stichting oefent de taak, bedoeld in het eerste lid, uit op verzoek van een cliënt of uit eigen beweging.   
 4.  Uitgangspunt bij het uitoefenen van de taak, bedoeld in het eerste lid, is dat zorg het belang van een onbedreigde ontwikkeling van een jeugdige dient en aansluit bij de behoefte van de cliënt. Deze zorg is in verband hiermee niet ingrijpender dan noodzakelijk en wordt geboden zo dicht mogelijk bij de plaats waar de cliënt duurzaam verblijft en gedurende een zo kort mogelijke periode.   
-5.  In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen op grond van [die wet](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) tegen beschikkingen, gegeven op grond van artikel 5, tweede lid, of artikel 6, vierde lid, bevoegd de kinderrechter binnen het rechtsgebied waarvan de stichting haar zetel heeft.   
 
 ### Artikel  6  
 

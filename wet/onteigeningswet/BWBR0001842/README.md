@@ -55,7 +55,7 @@ De onteigenende partij tracht hetgeen onteigend moet worden bij minnelijke overe
 ### Artikel  18  
 
 1.  Is hetgeen onteigend moet worden niet bij minnelijke overeenkomst verkregen, dan dagvaardt de onteigenende partij de bij koninklijk besluit aangewezen eigenaar voor de rechtbank in welker rechtsgebied de te onteigenen onroerende zaak is gelegen, teneinde de onteigening te horen uitspreken en het bedrag der schadeloosstelling te horen bepalen. Betreft de onteigening een recht, dan wordt zij ingesteld tegen de bij koninklijk besluit aangewezen rechthebbende; van deze vordering wordt kennisgenomen door de rechtbank binnen welker rechtsgebied de onroerende zaak is gelegen waarop het recht rust.   
-2.  Wanneer de arrondissementsregtbank op grond van het voorgaande bevoegd is van een deel van de vordering kennis te nemen, is zij bevoegd van de geheele vordering kennis te nemen.   
+2.  Wanneer de rechtbank op grond van het voorgaande bevoegd is van een deel van de vordering kennis te nemen, is zij bevoegd van de geheele vordering kennis te nemen.   
 3.  Bij onteigening van een onroerende zaak waarop blijkens de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), een eeuwigdurende erfpacht of een beklemrecht rust, worden ook de erfpachter of de beklemde meier gedagvaard.   
 4.  De dagvaarding wordt betekend aan degenen die als houder van op het te onteigenen goed rustende hypotheken in de openbare registers bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) zijn ingeschreven en aan de in die registers ingeschreven beslagleggers op het te onteigenen goed.   
 5.  Aan de derde belanghebbenden, als bedoeld in artikel 3, tweede lid, voor zover deze aan de onteigenende partij bekend zijn of behoren te zijn, wordt de dagvaarding betekend dan wel wordt een afschrift van de dagvaarding gezonden bij aangetekende brief, waarvoor een bericht van ontvangst wordt verlangd. Ten aanzien van een huurder van woonruimte, als bedoeld in [artikel 233 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), kan in de aangetekende brief worden volstaan met de mededeling van de uitgebrachte dagvaarding en van het daarin vervatte aanbod, voor zover dit op hem betrekking heeft. Voorts wordt mededeling gedaan van voorzieningen die de onteigenende partij voornemens is jegens hem te treffen.   
@@ -544,7 +544,7 @@ Bij het koninklijk besluit worden de te onteigenen onroerende zaken en rechten a
 
 ### Artikel  66  
 
-1.  Bij gebreke van minnelijke schikking benoemt de arrondissementsregtbank, in het geval van het voorgaande artikel, op het verzoekschrift hetzij van hem, die onteigent, of van den eigenaar van den grond, een of meer deskundigen, in oneffen getale, om een berigt over de schadeloosstelling te geven.   
+1.  Bij gebreke van minnelijke schikking benoemt de rechtbank, in het geval van het voorgaande artikel, op het verzoekschrift hetzij van hem, die onteigent, of van den eigenaar van den grond, een of meer deskundigen, in oneffen getale, om een berigt over de schadeloosstelling te geven.   
 2.  Het verzoekschrift moet, op straffe van verval, worden ingediend binnen den termijn, bepaald bij het in artikel 65 bedoelde besluit. Bij het verzoekschrift moet worden overgelegd een exemplaar van de *Staatscourant* en van het nieuws- of advertentieblad, waarin Ons besluit, dan wel dat van Gedeputeerde Staten of van een der andere collegien of besturen is openbaar gemaakt.   
 3.  De regtbank benoemt één harer leden, om als commissaris, vergezeld van den griffier, bij de opneming door de deskundigen tegenwoordig te zijn.   
 4.  Zij bepaalt tevens den dag en de plaats, waar en wanneer die opneming zal geschieden. Ten minste twee maal vier en twintig uren te voren wordt dit aan de wederpartij beteekend en afschrift van het exploit ter griffie van de regtbank nedergelegd. Bij gebreke dier beteekening vervalt het vonnis.   
@@ -807,7 +807,7 @@ De artikelen 2, 3, 17-20, 22, 24, 26-37, 43, 45 en 50-54 zijn ten deze toepassel
 
 a. dat de poging om den eigendom van het octrooi in der minne, vrij van alle lasten en regten, te verkrijgen, eerst geschiedt nadat het in het vorige artikel gemelde verslag is ingekomen;  
 
-b. dat het geding in eersten aanleg gevoerd wordt voor de arrondissementsregtbank te 's-Gravenhage;  
+b. dat het geding in eersten aanleg gevoerd wordt voor de rechtbank Den Haag;  
 
 c. dat het octrooi de plaats inneemt van de te onteigenen onroerende zaak; de registers van het in artikel 98, tweede lid, bedoelde bureau, die van de basisregistratie kadaster; de licentiehouders, die van de huurders; de pandcrediteuren, die van de hypotheekhouders.    
 
@@ -885,7 +885,7 @@ Op de gevallen, waarin volgens art. 186 der [Grondwet](../../../wet/grondwet/BWB
 1.  De wet van 29 Mei 1841 (*Staatsblad* nr. 19) is ingetrokken.   
 2.  Zij blijft intusschen toepasselijk op regtsvorderingen tot onteigening vóór de afkondiging dezer wet aangevangen.   
 3.  Het zal desniettemin aan de onteigenende partij vrijstaan, van hare volgens de vorige wet aangevangen regtsvordering, zoolang nog geen vonnis in de zaak is gewezen, afstand te doen en eene nieuwe volgens deze wet in te stellen. In dat geval moet zij alle kosten, door de wederpartij tot op het doen van dien afstand gemaakt, betalen.   
-4.  Zij kan tot die betaling genoodzaakt worden op het enkel bevelschrift van den voorzitter der arrondissementsregtbank, gesteld aan den voet van den door de wederpartij opgemaakten staat van kosten.   
+4.  Zij kan tot die betaling genoodzaakt worden op het enkel bevelschrift van den voorzitter der rechtbank, gesteld aan den voet van den door de wederpartij opgemaakten staat van kosten.   
 5.  Dit bevelschrift is uitvoerbaar bij voorraad.   
 
 ### Artikel  157  

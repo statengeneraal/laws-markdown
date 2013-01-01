@@ -20,15 +20,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
+beroepsorganisatie: Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid, van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+
 controledossier: geheel van gegevens en bescheiden die zijn vastgelegd tijdens het uitvoeren van een wettelijke controle en waarop de externe accountant zijn verklaring baseert;  
 
 groepsaccountant: externe accountant die de verantwoordelijkheid draagt voor het afgeven van een accountantsverklaring bij de jaarrekening die mede de geconsolideerde jaarrekening van een groep ondernemingen of instellingen bevat;  
 
 medewerkers: externe accountants en overige personen die werkzaam zijn bij of verbonden zijn aan een accountantsorganisatie en die zijn betrokken bij de uitvoering van wettelijke controles;  
-
-NIVRA: Koninklijk Nederlands Instituut van Registeraccountants;  
-
-NOvAA: Nederlandse Orde van Accountants-Administratieconsulenten;  
 
 verbonden entiteit: onderneming of instelling die met een accountantsorganisatie is verbonden door middel van gemeenschappelijke eigendom, zeggenschap of bestuur;  
 
@@ -58,7 +56,7 @@ g. indien van toepassing: een opgave van het nummer van inschrijving in het hand
 
 h. de namen, adressen en vestigingsplaatsen van alle vestigingen van de aanvrager;  
 
-i. de naam en het zakelijk adres van alle natuurlijke personen die middellijk of onmiddellijk aandeelhouder zijn van de aanvrager;  
+i. de naam en het zakelijk adres van alle natuurlijke personen die, door middel van middellijk of onmiddellijk aandeelhouderschap of op andere wijze, economisch middellijk of onmiddellijk eigenaar van de aanvrager zijn;  
 
 j. indien de aanvrager een vennootschap of maatschap is: de naam, het zakelijk adres en de woonplaats of vestigingsplaats van alle natuurlijke personen die middellijk of onmiddellijk partij zijn bij de overeenkomst van maatschap of vennootschap;  
 
@@ -74,7 +72,7 @@ m. indien de aanvrager deel uitmaakt van een netwerk:
 
 3°. een verwijzing naar de plaats waar de in onderdeel 2° bedoelde informatie publiek toegankelijk is;    
 
-n. de naam en het inschrijvingsnummer bij het NIVRA of de NOvAA van alle externe accountants die de aanvrager doet inschrijven in het register, bedoeld in [artikel 11 van de wet](../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), alsmede of deze externe accountants bij de aanvrager werkzaam zijn, dan wel aan hem zijn verbonden;  
+n. de naam en het inschrijvingsnummer bij de beroepsorganisatie van alle externe accountants die de aanvrager doet inschrijven in het register, bedoeld in [artikel 11 van de wet](../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), alsmede of deze externe accountants bij de aanvrager werkzaam zijn, dan wel aan hem zijn verbonden;  
 
 o. indien een externe accountant als bedoeld in onderdeel n, is ingeschreven in de registers van andere toezichthoudende instanties: de naam van de toezichthoudende instanties en, indien van toepassing, het inschrijvingsnummer;  
 
@@ -83,9 +81,10 @@ p. indien de aanvrager is ingeschreven als auditkantoor of auditorganisatie van 
 q. indien de aanvrager is ingeschreven in de registers van toezichthoudende instanties in staten die geen lidstaat zijn: de naam van de toezichthoudende instanties en, indien van toepassing, het inschrijvingsnummer; en  
 
 r. het aantal wettelijke controles dat de aanvrager gedurende een periode van twaalf maanden vanaf het tijdstip van de aanvraag voornemens is te verrichten bij organisaties van openbaar belang of andere ondernemingen of instellingen.     
-2.  Desgevraagd verstrekt de aanvrager aan de Autoriteit Financiële Markten tevens overige gegevens en bescheiden die naar het oordeel van de Autoriteit Financiële Markten nodig zijn in het belang van de beoordeling van de aanvraag.   
-3.  Voor een aanvraag als bedoeld in het eerste lid wordt gebruik gemaakt van door de Autoriteit Financiële Markten voorgeschreven formulieren.   
-4.  Een aanvraag als bedoeld in het eerste lid wordt ondertekend door tenminste een van de personen die het dagelijks beleid van een accountantsorganisatie bepalen.   
+2.  Indien een auditkantoor of accountantsorganisatie middellijk of onmiddellijk aandeelhouder of anderszins eigenaar is van een aanvrager als bedoeld in het eerste lid, is het eerste lid, onderdelen i en j, niet van toepassing op de natuurlijke personen die middellijk of onmiddellijk aandeelhouder, partij bij de overeenkomst van maatschap of vennootschap of op andere wijze economisch eigenaar zijn van dat auditkantoor of die accountantsorganisatie. In dat geval bevat de aanvraag, bedoeld in het eerste lid, de naam, het adres en vestigingsplaats van het auditkantoor dat of de accountantsorganisatie die middellijk of onmiddellijk aandeelhouder of anderszins eigenaar is van de aanvrager.   
+3.  Desgevraagd verstrekt de aanvrager aan de Autoriteit Financiële Markten tevens overige gegevens en bescheiden die naar het oordeel van de Autoriteit Financiële Markten nodig zijn in het belang van de beoordeling van de aanvraag.   
+4.  Voor een aanvraag als bedoeld in het eerste lid wordt gebruik gemaakt van door de Autoriteit Financiële Markten voorgeschreven formulieren.   
+5.  Een aanvraag als bedoeld in het eerste lid wordt ondertekend door tenminste een van de personen die het dagelijks beleid van een accountantsorganisatie bepalen.   
 
 ### Artikel  2a  
 
@@ -126,8 +125,8 @@ Het transparantieverslag, bedoeld in [artikel 12c, eerste lid, onderdeel d, van 
 
 ### Artikel  3  
 
-1.  Een aanvrager meldt een wijziging in de gegevens of bescheiden die hij heeft overgelegd op grond van artikel 2, eerste of tweede lid, of artikel 2a, eerste of tweede lid onverwijld schriftelijk aan de Autoriteit Financiële Markten.   
-2.  Onverminderd het bepaalde in artikel 7, meldt een accountantsorganisatie een wijziging in de gegevens of bescheiden die zij heeft overgelegd op grond van artikel 2, eerste lid, onderdelen b tot en met d, h tot en met l, m, onder 2°, en n onverwijld en wijzigingen in de overige in artikel 2, eerste en tweede lid, bedoelde gegevens of bescheiden, met uitzondering van de in onderdeel r bedoelde gegevens, ten minste eenmaal per kwartaal, schriftelijk aan de Autoriteit Financiële Markten.   
+1.  Een aanvrager meldt een wijziging in de gegevens of bescheiden die hij heeft overgelegd op grond van artikel 2, eerste tot en met derde lid, of artikel 2a, eerste of tweede lid onverwijld schriftelijk aan de Autoriteit Financiële Markten.   
+2.  Onverminderd het bepaalde in artikel 7, meldt een accountantsorganisatie een wijziging in de gegevens of bescheiden die zij heeft overgelegd op grond van artikel 2, eerste lid, onderdelen b tot en met d, h tot en met l, m, onder 2°, en n onverwijld en wijzigingen in de overige in artikel 2, eerste tot en met derde lid, bedoelde gegevens of bescheiden, met uitzondering van de in onderdeel r bedoelde gegevens, ten minste eenmaal per kwartaal, schriftelijk aan de Autoriteit Financiële Markten.   
 3.  Een auditorganisatie van een derde land meldt een wijziging in de gegevens of bescheiden die zij heeft overgelegd op grond van artikel 2a, eerste lid, onderdelen b tot en met j, onverwijld en wijzigingen in de in artikel 2a, tweede lid, bedoelde gegevens en bescheiden tenminste eenmaal per kwartaal schriftelijk aan de Autoriteit Financiële Markten.   
 
 ### Hoofdstuk  3  
@@ -164,7 +163,7 @@ De betrouwbaarheid van een persoon die het beleid van een accountantsorganisatie
 
 ### Artikel  7  
 
-Indien een accountantsorganisatie in het kader van haar normale bedrijfsvoering vaststelt dat zich een wijziging heeft voorgedaan in de gegevens, bedoeld in artikel 2, tweede lid, die nodig zijn in het belang van de beoordeling van de betrouwbaarheid van een persoon als bedoeld in artikel 6, meldt zij dit onverwijld schriftelijk aan de Autoriteit Financiële Markten.  
+Indien een accountantsorganisatie in het kader van haar normale bedrijfsvoering vaststelt dat zich een wijziging heeft voorgedaan in de gegevens, bedoeld in artikel 2, derde lid, die nodig zijn in het belang van de beoordeling van de betrouwbaarheid van een persoon als bedoeld in artikel 6, meldt zij dit onverwijld schriftelijk aan de Autoriteit Financiële Markten.  
 
 ### Hoofdstuk  5  
 
@@ -184,7 +183,7 @@ Indien een accountantsorganisatie in het kader van haar normale bedrijfsvoering 
 
 ### Artikel  9  
 
-Een accountantsorganisatie houdt zich aan de verordeningen en nadere voorschriften die krachtens de [artikelen 19, vierde lid, van de Wet op de Registeraccountants](../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md) en [artikel 24, vierde lid, van de Wet op de Accountants-Administratieconsulenten](../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) zijn vastgesteld en die nadere regels stellen terzake van de in dit hoofdstuk geregelde onderwerpen.  
+Een accountantsorganisatie houdt zich aan de verordeningen en nadere voorschriften die krachtens [artikel 19, tweede lid, aanhef en onderdeel b, van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) zijn vastgesteld en die nadere regels stellen terzake van de in dit hoofdstuk geregelde onderwerpen.  
 
 ### §  2  
 
@@ -231,9 +230,10 @@ h. het oordeel van de externe accountant, zoals dat blijkt uit de door hem af te
 
 i. de gegevens die worden vastgelegd ingevolge de artikelen 12, derde lid, artikel 13, tweede lid, 15a, eerste, derde en vijfde lid, 17, tweede lid, 20, derde lid, en 37, tweede lid; en  
 
-j. de overige relevante gegevens en bescheiden die van belang zijn voor de onderbouwing van de door de externe accountant afgegeven verklaring en voor het toezicht op de naleving van de bij en krachtens de wet en de [Wet op de Registeraccountants](../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md) onderscheidenlijk de [Wet op de Accountants-Administratieconsulenten](../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) gestelde regels.     
-4.  Een accountantsorganisatie zorgt ervoor dat de externe accountant uiterlijk twee maanden na de ondertekening van de accountantsverklaring de in het derde lid bedoelde gegevens en bescheiden in het controledossier heeft opgenomen en het controledossier heeft afgesloten.   
-5.  Een accountantsorganisatie bewaart een controledossier gedurende ten minste zeven jaren nadat het is afgesloten.   
+j. de overige relevante gegevens en bescheiden die van belang zijn voor de onderbouwing van de door de externe accountant afgegeven verklaring en voor het toezicht op de naleving van de bij en krachtens de wet en de [Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) gestelde regels.     
+4.  Een accountantsorganisatie zorgt ervoor dat de externe accountant de accountantsverklaring ondertekent nadat de controlewerkzaamheden zijn verricht en vastgelegd.   
+5.  Een accountantsorganisatie zorgt ervoor dat de externe accountant uiterlijk twee maanden na de ondertekening van de accountantsverklaring de in het derde lid bedoelde gegevens en bescheiden in het controledossier heeft opgenomen en het controledossier heeft afgesloten.   
+6.  Een accountantsorganisatie bewaart een controledossier gedurende ten minste zeven jaren nadat het is afgesloten.   
 
 ### §  4  
 
@@ -305,7 +305,7 @@ b. de begeleiding van, het toezicht op en de beoordeling van door de medewerkers
 ### Artikel  19  
 
 1.  De kwaliteitsbeoordeling wordt verricht door een kwaliteitsbeoordelaar.   
-2.  Een kwaliteitsbeoordelaar is een registeraccountant of een Accountant-Administratieconsulent ten aanzien van wie in het accountantsregister een aantekening is geplaatst als bedoeld in [artikel 36, derde lid, van de Wet op de Accountants-Administratieconsulenten](../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) die niet is betrokken bij de uitvoering van de wettelijke controle die hij beoordeelt.   
+2.  Een kwaliteitsbeoordelaar is een registeraccountant of een Accountant-Administratieconsulent ten aanzien van wie in het accountantsregister een aantekening is geplaatst als bedoeld in [artikel 36, tweede lid, onderdeel i, van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) die niet is betrokken bij de uitvoering van de wettelijke controle die hij beoordeelt.   
 3.  De kwaliteitsbeoordeling heeft ten doel te beoordelen of de externe accountant in redelijkheid tot het oordeel heeft kunnen komen, zoals dat blijkt uit de door hem af te geven accountantsverklaring.   
 4.  De kwaliteitsbeoordelaar betrekt ten minste in zijn beoordeling: 
 
@@ -383,7 +383,7 @@ Een accountantsorganisatie zorgt voor een zorgvuldige afhandeling en vastlegging
 
 ### Artikel  26  
 
-1.  Indien bij de accountantskamer te Zwolle een tuchtprocedure aanhangig is gemaakt tegen een bij de accountantsorganisatie werkzame of daaraan verbonden externe accountant, meldt de accountantsorganisatie dat aan de Autoriteit Financiële Markten, binnen een week nadat de accountantsorganisatie hiervan kennis heeft genomen, onder vermelding van de naam en het inschrijvingsnummer bij het NIVRA onderscheidenlijk de NOvAA van de desbetreffende externe accountant.   
+1.  Indien bij de accountantskamer te Zwolle een tuchtprocedure aanhangig is gemaakt tegen een bij de accountantsorganisatie werkzame of daaraan verbonden externe accountant, meldt de accountantsorganisatie dat aan de Autoriteit Financiële Markten, binnen een week nadat de accountantsorganisatie hiervan kennis heeft genomen, onder vermelding van de naam en het inschrijvingsnummer bij de beroepsorganisatie van de desbetreffende externe accountant.   
 2.  De in het eerste lid bedoelde melding kan achterwege blijven indien de Autoriteit Financiële Markten degene is die de in het eerste lid bedoelde tuchtprocedure aanhangig heeft gemaakt.   
 
 ### Hoofdstuk  6  
@@ -398,7 +398,7 @@ De eigenaars of aandeelhouders van een accountantsorganisatie, de personen die h
 
 Een accountantsorganisatie zorgt ervoor dat de bij haar werkzame of aan haar verbonden externe accountants haar ten minste eenmaal per jaar schriftelijk: 
 
-a. bevestigen dat zij de bij en krachtens de wet en de [Wet op de Registeraccountants](../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md) of de [Wet op de Accountants-Administratieconsulenten](../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) gestelde regels inzake onafhankelijkheid naleven; en  
+a. bevestigen dat zij de bij en krachtens de wet en de [Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) gestelde regels inzake onafhankelijkheid naleven; en  
 
 b. informeren over bedreigingen ter zake van hun onafhankelijkheid.    
 
@@ -440,7 +440,7 @@ k. informatie over de grondslag voor de beloning van de externe accountants.
 
 ### Artikel  31  
 
-Een accountantsorganisatie houdt zich aan de verordeningen en nadere voorschriften die krachtens [artikel 19, vierde lid, van de Wet op de Registeraccountants](../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md) en [artikel 24, vierde lid, van de Wet op de Accountants-Administratieconsulenten](../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) zijn vastgesteld en die nadere regels stellen ter zake van de in dit hoofdstuk geregelde onderwerpen.  
+Een accountantsorganisatie houdt zich aan de verordeningen en nadere voorschriften die krachtens [artikel 19, tweede lid, aanhef en onderdeel b, van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) zijn vastgesteld en die nadere regels stellen ter zake van de in dit hoofdstuk geregelde onderwerpen.  
 
 ### Hoofdstuk  7  
 
@@ -460,7 +460,7 @@ Een accountantsorganisatie houdt zich aan de verordeningen en nadere voorschrift
 
 ### Artikel  34  
 
-Een accountantsorganisatie houdt zich aan de verordeningen en nadere voorschriften die krachtens de [artikelen 19, vierde lid, van de Wet op de Registeraccountants](../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md) en [artikel 24, vierde lid, van de Wet op de Accountants-Administratieconsulenten](../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) zijn vastgesteld en die nadere regels stellen ter zake van de in dit hoofdstuk geregelde onderwerpen.  
+Een accountantsorganisatie houdt zich aan de verordeningen en nadere voorschriften die krachtens [artikel 19, tweede lid, aanhef en onderdeel b, van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) zijn vastgesteld en die nadere regels stellen ter zake van de in dit hoofdstuk geregelde onderwerpen.  
 
 ### Hoofdstuk  8  
 
@@ -468,11 +468,11 @@ Een accountantsorganisatie houdt zich aan de verordeningen en nadere voorschrift
 
 ### Artikel  35  
 
-Een externe accountant houdt zich aan de verordeningen en nadere voorschriften die krachtens de [artikelen 19, eerste of tweede lid, van de Wet op de Registeraccountants](../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md) en [artikel 24, eerste of tweede lid, van de Wet op de Accountants-Administratieconsulenten](../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) zijn vastgesteld en die nadere regels stellen ter zake van zijn vakbekwaamheid, onafhankelijkheid, objectiviteit en integriteit.  
+Een externe accountant houdt zich aan de verordeningen en nadere voorschriften die krachtens [artikel 19, eerste lid, van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) zijn vastgesteld en die nadere regels stellen ter zake van zijn vakbekwaamheid, onafhankelijkheid, objectiviteit en integriteit.  
 
 ### Hoofdstuk  9  
 
-####Bepalingen ter uitvoering van [artikel 26, tweede en derde lid, van de wet](../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)
+####Bepalingen ter uitvoering van [artikel 26, tweede, derde en vijfde lid, van de wet](../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)
 
 ### Artikel  36  
 
@@ -511,7 +511,7 @@ e. een omschrijving van de aard van de vermoedelijke fraude van materieel belang
 
 1.  Een externe accountant kan vertrouwelijke gegevens of inlichtingen verkregen bij het verrichten van een wettelijke controle, aan derden verstrekken: 
 
-a. indien dit redelijkerwijs noodzakelijk is voor de naleving van het ingevolge de wet bepaalde of van de verordeningen en nadere voorschriften die krachtens de [artikelen 19, tweede en vierde lid, van de Wet op de Registeraccountants](../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md) en [artikel 24, tweede en vierde lid, van de Wet op de Accountants-Administratieconsulenten](../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) zijn vastgesteld en geschiedt: 
+a. indien dit redelijkerwijs noodzakelijk is voor de naleving van het ingevolge de wet bepaalde of van de verordeningen en nadere voorschriften die krachtens [artikel 19, tweede lid, aanhef en onderdelen a en b, van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) zijn vastgesteld en geschiedt: 
 
 1°. aan een deskundige die door de externe accountant is betrokken bij de uitvoering van een wettelijke controle;  
 
@@ -531,18 +531,18 @@ a. indien dit redelijkerwijs noodzakelijk is voor de naleving van het ingevolge 
 
 9°. aan de persoon die is betrokken bij de uitvoering van een periodiek intern kwaliteitsonderzoek van afgeronde opdrachten tot het verrichten van een wettelijke controle;  
 
-10°. aan het Koninklijk Nederlands Instituut van Registeraccountants of de Nederlandse Orde van Accountants-Administratieconsulenten;    
+10°. aan de beroepsorganisatie;    
 
-b. indien dit plaatsvindt in het kader van de naleving van de verordeningen en nadere voorschriften krachtens de [artikelen 19, tweede en vierde lid, van de Wet op de Registeraccountants](../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md) en [artikel 24, tweede en vierde lid, van de Wet op de Accountants-Administratieconsulenten](../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md), in andere gevallen dan bedoeld in onderdeel a, en de externe accountant vastlegt op welke onderdelen van die verordeningen en nadere voorschriften het verstrekken betrekking heeft;  
+b. indien dit plaatsvindt in het kader van de naleving van de verordeningen en nadere voorschriften krachtens [artikel 19, tweede lid, aanhef en onderdelen a en b, van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md), in andere gevallen dan bedoeld in onderdeel a, en de externe accountant vastlegt op welke onderdelen van die verordeningen en nadere voorschriften het verstrekken betrekking heeft;  
 
-c. in het kader van een gerechtelijke procedure of klachtprocedure jegens de externe accountant of de accountantsorganisatie waarbij de externe accountant werkzaam is of is geweest of waaraan hij is verbonden of is geweest in relatie tot de betreffende controleopdracht; of  
+c. in het kader van een gerechtelijke procedure of klachtprocedure jegens de externe accountant of de accountantsorganisatie waarbij de externe accountant werkzaam is of is geweest of waaraan hij verbonden is of is geweest in relatie tot de betreffende controleopdracht; of  
 
 d. indien dit geschiedt met schriftelijke toestemming van de controlecliënt en indien sprake is van een specifiek doel en de externe accountant dit doel vastlegt.     
 2.  Onder een buitenlandse accountant als bedoeld in het eerste lid, onderdeel a, onder 3° tot en met 6° wordt verstaan een in een andere lidstaat gevestigde wettelijke auditor als bedoeld in artikel 2, tweede lid, van de richtlijn, of een auditor van een derde land.   
 
 ### Artikel  38b  
 
-1.  De externe accountant betrekt in zijn beslissing om op grond van artikel 38a, eerste lid, onderdeel b of d, om al dan niet over te gaan tot het verstrekken van vertrouwelijke gegevens of inlichtingen: 
+1.  De externe accountant betrekt in zijn beslissing op grond van artikel 38a, eerste lid, onderdeel b of d, om al dan niet over te gaan tot het verstrekken van vertrouwelijke gegevens of inlichtingen: 
 
 a. de belangen van betrokken partijen en derden, waaronder het maatschappelijk belang;  
 
@@ -554,10 +554,6 @@ c. de wijze waarop en aan wie de vertrouwelijke gegevens of inlichtingen worden 
 ### Hoofdstuk  10  
 
 ####Bepaling ter uitvoering van [artikel 41, vierde lid, van de wet](../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)
-
-### Artikel  39  
-
-Bij ministeriële regeling worden nadere regels gesteld met betrekking tot [artikel 41, eerste tot en met derde lid, van de wet](../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md).  
 
 ### Hoofdstuk  11  
 

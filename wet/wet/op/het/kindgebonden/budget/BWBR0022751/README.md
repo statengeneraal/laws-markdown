@@ -15,13 +15,14 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister voor Jeugd en Gezin;  
+a. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;  
 
 b. kindgebonden budget: een financiële bijdrage van het Rijk in de kosten voor kinderen;  
 
 c. ouder: de verzekerde in de zin van de [Algemene Kinderbijslagwet](../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md).     
-2.  De hoogte van het kindgebonden budget is afhankelijk van de draagkracht.   
+2.  De hoogte van het kindgebonden budget is afhankelijk van de draagkracht op basis van het inkomen en het vermogen.   
 3.  [Artikel 4 van de Algemene wet inkomensafhankelijke regelingen](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) is niet van toepassing.   
+4.  In afwijking van [artikel 7, derde lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) bestaat geen aanspraak op kindgebonden budget indien de grondslag sparen en beleggen, bedoeld in [artikel 5.2, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), van de ouder in het berekeningsjaar meer bedraagt dan € 80 000 dan wel, ingeval de belanghebbende het gehele berekeningsjaar dezelfde partner heeft, de gezamenlijke grondslag sparen en beleggen, bedoeld in artikel 5.2, tweede lid, van de Wet inkomstenbelasting 2001, van de ouder en zijn partner in het berekeningsjaar meer bedraagt dan € 80 000. Bij de bepaling van de grondslag, bedoeld in de vorige volzin, wordt geen rekening gehouden met de vrijstelling, bedoeld in [artikel 5.13 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
 
 ### Artikel  2  
 
@@ -32,18 +33,28 @@ c. ouder: de verzekerde in de zin van de [Algemene Kinderbijslagwet](../../../..
 
 a. indien de ouder aanspraak heeft voor één kind : € 1017,–;  
 
-b. indien de ouder aanspraak heeft voor twee kinderen: € 1478,–;  
+b. indien de ouder aanspraak heeft voor twee kinderen: € 1478,– per 1 januari 2013: € 1553,–;  
 
-c. indien de ouder aanspraak heeft voor drie kinderen: € 1661,–;  
+c. indien de ouder aanspraak heeft voor drie kinderen: € 1661,– per 1 januari 2013: € 1736,–;  
 
-d. indien de ouder aanspraak heeft voor meer dan drie kinderen: € 1661,–, verhoogd met zoveel maal € 106,– als het aantal kinderen meer bedraagt dan drie.     
+d. indien de ouder aanspraak heeft voor meer dan drie kinderen: € 1661,– per 1 januari 2013: € 1736,–, verhoogd met zoveel maal € 106,– als het aantal kinderen meer bedraagt dan drie.     
 3.  Een ouder heeft aanspraak op een verhoging van het kindgebonden budget in een berekeningsjaar voor een kind met ingang van de kalendermaand na de maand waarin dat kind de leeftijd van 12 jaar heeft bereikt.   
-4.  Voor een kind dat 12 jaar of ouder is, maar jonger is dan 16 jaar bedraagt de verhoging van het kindgebonden budget € 226.   
-5.  Voor een kind dat 16 of 17 jaar is, bedraagt de verhoging van het kindgebonden budget met ingang van de kalendermaand na de maand waarin het kind de leeftijd van 16 jaar heeft bereikt € 290.   
-6.  Bij een gezamenlijk toetsingsinkomen van de ouder en zijn partner van meer dan € 28 413 wordt de som van de bedragen waarop recht bestaat op grond van het tweede, vierde en vijfde lid verminderd met 7,6% van het verschil tussen het gezamenlijke toetsingsinkomen en € 28 413.   
+4.  Voor een kind dat 12 jaar of ouder is, maar jonger is dan 16 jaar bedraagt de verhoging van het kindgebonden budget € 231.   
+5.  Voor een kind dat 16 of 17 jaar is, bedraagt de verhoging van het kindgebonden budget met ingang van de kalendermaand na de maand waarin het kind de leeftijd van 16 jaar heeft bereikt € 296.   
+6.  Bij een gezamenlijk toetsingsinkomen van de ouder en zijn partner van meer dan € 26 147 wordt de som van de bedragen waarop recht bestaat op grond van het tweede, vierde en vijfde lid verminderd met 7,6% van het verschil tussen het gezamenlijke toetsingsinkomen en € 26 147.   
 7.  Een ouder als bedoeld in het eerste en derde lid en zijn partner die tevens ouder is als bedoeld in het eerste lid worden voor de toepassing van deze wet geacht gezamenlijk één aanspraak te hebben.   
 8.  Indien aan twee ouders kinderbijslag wordt uitbetaald op basis van het recht op kinderbijslag van één van die ouders, heeft alleen de ouder, wiens recht op kinderbijslag wordt uitbetaald aanspraak op een kindgebonden budget.   
 9.  De aanspraak op een kindgebonden budget wordt voor iedere kalendermaand afzonderlijk bepaald.   
+10.  Indien de ouder: 
+
+a. aanspraak heeft op kindgebonden budget voor een kind, en  
+
+b. voor dat kind voor de toepassing van de [Algemene Kinderbijslagwet](../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) een ander land dan Nederland, een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland als woonland in aanmerking wordt genomen,   bedraagt het kindgebonden budget een bij ministeriële regeling vastgesteld percentage van de in het tweede lid, onderdeel a, vierde, vijfde en zesde lid bedoelde bedragen. Het percentage wordt zo bepaald dat het een weergave is van de verhouding tussen het kostenniveau van het land dat als woonland in aanmerking wordt genomen en dat van Nederland. Het percentage bedraagt maximaal 100.   
+11.  Indien de ouder: 
+
+a. aanspraak heeft op kindgebonden budget voor meer dan een kind, en  
+
+b. voor een of meer van die kinderen voor de toepassing van de [Algemene Kinderbijslagwet](../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) een ander land dan Nederland, een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland als woonland in aanmerking wordt genomen,   bedraagt het kindgebonden budget een volgens bij ministeriële regeling te stellen regels vastgesteld bedrag. Dat bedrag is gebaseerd op de in het tweede, vierde, vijfde en zesde lid, opgenomen bedragen en de verhouding tussen het kostenniveau van het land dat als woonland in aanmerking wordt genomen voor het desbetreffende kind of voor de desbetreffende kinderen en dat van Nederland uitgedrukt in procenten. Het percentage bedraagt maximaal 100.   
 
 ### Artikel  3  
 

@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Deze regeling geeft uitvoering aan de [artikelen 19](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [25](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [26](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [31](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [35](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [42c](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [44a](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [44b](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [53 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) alsmede aan [artikel 232e van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md), [artikel 255 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), [artikel 144 van de Waterschapswet](../../../../../wet/waterschapswet/BWBR0005108/README.md), [artikel 8a.40 van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [artikel 93a van de Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) in samenhang met [artikel 26 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
+1.  Deze regeling geeft uitvoering aan de [artikelen 18](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [19](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [22bis](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [25](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [26](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [31](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [35](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [42c](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [44a](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [44b](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [53 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) alsmede aan [artikel 232e van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md), [artikel 255 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), [artikel 144 van de Waterschapswet](../../../../../wet/waterschapswet/BWBR0005108/README.md), [artikel 8a.40 van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [artikel 93a van de Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) in samenhang met [artikel 26 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
 2.  Deze regeling verstaat hierna onder wet: de [Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
 
 ### Artikel  1a  
@@ -27,6 +27,14 @@ Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake een in deze re
 ### Artikel  1c  
 
 De ontvanger maakt een ingevolge deze regeling ten aanzien van een belastingschuldige genomen beschikking aan deze bekend door uitreiking of toezending van een gedagtekende kennisgeving terzake.  
+
+### Hoofdstuk  Ibis  
+
+####Gerechtelijke bewaring van roerende zaken
+
+### Artikel  1cbis  
+
+Het bedrag, bedoeld in [artikel 18, vijfde lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), wordt gesteld op € 1500.  
 
 ### Hoofdstuk  IA  
 
@@ -98,6 +106,18 @@ De bank, waar de belastingschuldige een betaalrekening houdt, vermeldt op het pa
 
 De ontvanger informeert de belastingschuldige schriftelijk over de op zijn betaalrekening uitgevoerde overheidsvordering of, indien deze is gesplitst, deelvordering binnen zeven dagen nadat de termijn, genoemd in artikel 1cf, eerste lid, tweede volzin, is verstreken.  
 
+### Hoofdstuk  IAa  
+
+####Mededelingsplicht bodemzaken
+
+### Artikel  1ci  
+
+De mededeling, bedoeld in [artikel 22bis, tweede lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), geschiedt door het invullen van het daartoe langs elektronische weg ter beschikking gestelde modelformulier en het per post aan de ontvanger toezenden van het ingevulde modelformulier.  
+
+### Artikel  1cj  
+
+De drempel, bedoeld in [artikel 22bis, zeventiende lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), bedraagt € 10 000.  
+
 ### Hoofdstuk  IB  
 
 ####Uitstel van betaling, gespreide betaling en kwijtschelding van inkomstenbelasting
@@ -132,6 +152,7 @@ b. aanspraken uit een overeenkomst van levensverzekering of een pensioenregeling
 
 1.  Indien de ontvanger het op de voet van artikel 1e verleende uitstel van betaling beëindigt omdat zich een in [artikel 26, derde lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) bedoelde omstandigheid voordoet, verleent hij op schriftelijk verzoek van de belastingschuldige kwijtschelding van inkomstenbelasting tot een omvang als in genoemd derde lid bedoeld.   
 2.  In de gevallen waarin op de voet van artikel 1e, derde lid, het uitstel van betaling is geëindigd, verleent de ontvanger de belastingschuldige op diens schriftelijk verzoek kwijtschelding van belasting tot een bedrag gelijk aan het dan nog openstaande bedrag.   
+3.  In afwijking van het eerste lid is voor kwijtschelding als bedoeld in [artikel 26, derde lid, eerste volzin, onderdeel a, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) geen schriftelijk verzoek nodig indien de belastingschuldige op het moment dat zich een omstandigheid voordoet als bedoeld in [artikel 25, vijfde lid, vierde volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), in een andere lidstaat van de Europese Unie of in Noorwegen, IJsland of Liechtenstein woont.   
 
 ### Afdeling  3  
 
@@ -142,6 +163,11 @@ b. aanspraken uit een overeenkomst van levensverzekering of een pensioenregeling
 1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting, bedoeld in [artikel 25, zesde lid, eerste volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), mits voldoende zekerheid wordt gesteld en wordt ingestemd met de door de ontvanger nader te stellen voorwaarden. Het schriftelijke verzoek en de zekerheidstelling blijven achterwege in geval van emigratie van de belastingschuldige naar een andere lidstaat van de Europese Unie, Noorwegen, IJsland of Liechtenstein.   
 2.  De ontvanger beëindigt het uitstel indien zich een omstandigheid voordoet als bedoeld in [artikel 25, zesde lid, derde volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
 3.  Ingeval zich een omstandigheid voordoet als bedoeld in [artikel 25, zesde lid, tweede volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
+
+### Artikel  1h  
+
+1.  Indien de ontvanger het op de voet van artikel 1g verleende uitstel van betaling beëindigt omdat zich een in [artikel 25, zesde lid, derde volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) bedoelde omstandigheid voordoet, verleent hij op schriftelijk verzoek van de belastingschuldige kwijtschelding van inkomstenbelasting tot een omvang als bedoeld in [artikel 26, zesde lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
+2.  In afwijking van het eerste lid is voor het verlenen van kwijtschelding geen schriftelijk verzoek nodig indien de belastingschuldige op het moment dat zich een omstandigheid voordoet als bedoeld in [artikel 25, zesde lid, derde volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), in een andere lidstaat van de Europese Unie of in Noorwegen, IJsland of Liechtenstein woont.   
 
 ### Afdeling  4  
 
@@ -196,7 +222,8 @@ b. ingeval in een kalenderjaar uit de aandelen of winstbewijzen welke aan het ui
 
 ### Artikel  4  
 
-De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek kwijtschelding van de door hem verschuldigde inkomstenbelasting in de gevallen als bedoeld in [artikel 26, tweede, vierde of vijfde lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en tot een omvang als in die leden bedoeld, met dien verstande dat het bedrag van de kwijtschelding in totaal niet meer kan bedragen dan het bedrag van de belasting waarvoor ter zake van het aandeel of winstbewijs uitstel van betaling is verleend.  
+1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek kwijtschelding van de door hem verschuldigde inkomstenbelasting in de gevallen als bedoeld in [artikel 26, tweede, vierde of vijfde lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en tot een omvang als in die leden bedoeld, met dien verstande dat het bedrag van de kwijtschelding in totaal niet meer kan bedragen dan het bedrag van de belasting waarvoor ter zake van het aandeel of winstbewijs uitstel van betaling is verleend.   
+2.  In afwijking van het eerste lid is voor kwijtschelding als bedoeld in [artikel 26, vijfde lid, eerste volzin, onderdeel c, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) geen schriftelijk verzoek nodig indien de belastingschuldige op het moment dat zich een omstandigheid voordoet als bedoeld in [artikel 25, achtste lid, onderdeel a, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), in een andere lidstaat van de Europese Unie of in Noorwegen, IJsland of Liechtenstein woont.   
 
 ### Afdeling  5  
 
@@ -311,7 +338,7 @@ g. indien niet aan eventueel door de ontvanger gestelde voorwaarden is voldaan.
 ### Artikel  10  
 
 1.  Deze afdeling heeft betrekking op kwijtschelding van inkomstenbelasting verschuldigd door natuurlijke personen die geen bedrijf of niet zelfstandig een beroep uitoefenen, van loonbelasting verschuldigd door werknemers alsmede van erfbelasting, schenkbelasting, recht van overgang en belastingen van rechtsverkeer verschuldigd door natuurlijke personen.   
-2.  Deze afdeling heeft voorts, in afwijking in zoverre van artikel 20 betrekking op kwijtschelding van inkomstenbelasting verschuldigd door natuurlijke personen die een uitkering genieten ingevolge de [Wet werk en inkomen kunstenaars](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md).   
+2.  Deze afdeling heeft voorts, in afwijking in zoverre van artikel 20 betrekking op kwijtschelding van inkomstenbelasting verschuldigd door natuurlijke personen die een uitkering genieten ingevolge de [Wet werk en inkomen kunstenaars](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md), zoals deze op 31 december 2011 luidde.   
 
 ### Artikel  11  
 
@@ -327,7 +354,7 @@ b. het openstaande bedrag van de belastingaanslag dat resteert nadat:
 
 ### Artikel  12  
 
-1.  Onder vermogen als bedoeld in artikel 11 wordt verstaan de waarde in het economische verkeer van de bezittingen van de belastingschuldige en van zijn echtgenoot, bedoeld in [artikel 3 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of [artikel 3 van de Wet investeren in jongeren](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), verminderd met de schulden van de belastingschuldige en deze persoon die hoger bevoorrecht zijn dan de rijksbelastingen.   
+1.  Onder vermogen als bedoeld in artikel 11 wordt verstaan de waarde in het economische verkeer van de bezittingen van de belastingschuldige en van zijn echtgenoot, bedoeld in [artikel 3 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of [artikel 3 van de Wet investeren in jongeren](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), zoals deze luidde op de dag voor inwerkingtreding van artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden (Stb. 650), verminderd met de schulden van de belastingschuldige en deze persoon die hoger bevoorrecht zijn dan de rijksbelastingen.   
 2.  Onder bezittingen wordt niet begrepen: 
 
 a. de inboedel voor zover de waarde hiervan niet meer bedraagt dan € 2269;  
@@ -336,7 +363,7 @@ b. rechten op kapitaalsuitkeringen of prestaties uit levensverzekering, uitsluit
 
 c. een auto die op het moment van het verzoek een waarde heeft van € 2269 of minder; een auto met een waarde van meer dan € 2269 wordt niet als vermogen beschouwd indien jegens de ontvanger aannemelijk kan worden gemaakt dat die auto absoluut onmisbaar is voor de uitoefening van een beroep dan wel absoluut onmisbaar is in verband met invaliditeit;  
 
-d. het totale bedrag aan financiële middelen, andere dan de onder f bedoelde, voor zover dat bedrag de ingevolge artikel 16 in aanmerking te nemen kosten van bestaan vermeerderd met een bedrag ter grootte van het per maand gemiddelde bedrag van de uitgaven bedoeld in artikel 15, eerste lid, onderdelen b en c, niet te boven gaat;  
+d. het totale bedrag aan financiële middelen, andere dan de onder f bedoelde, voor zover dat bedrag de ingevolge artikel 16 in aanmerking te nemen kosten van bestaan vermeerderd met een bedrag ter grootte van het per maand gemiddelde bedrag van de uitgaven bedoeld in artikel 15, eerste lid, onderdelen b en c, niet te boven gaat, met dien verstande dat geen rekening wordt gehouden met de in die onderdelen bedoelde vermindering met ontvangen huurtoeslag of woonkostentoeslag, onderscheidenlijk zorgtoeslag;  
 
 e. het bedrag op een bank- of girorekening dat in het kader van de [Wet studiefinanciering 2000](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) of de [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) is verkregen in de vorm van leningen of dat is verkregen in het kader van een regeling voor persoonsgebonden budget, welke regeling is gegrond op [artikel 44, eerste lid, onderdeel b, van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of [artikel 14a van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
 
@@ -349,7 +376,7 @@ g. de ingevolge een levensloopregeling opgebouwde voorziening.
 ### Artikel  13  
 
 1.  Onder betalingscapaciteit, bedoeld in artikel 11, wordt verstaan het positieve verschil in de periode van 12 maanden vanaf de datum waarop het verzoek om kwijtschelding is ingediend van het gemiddeld per maand te verwachten netto-besteedbare inkomen van de belastingschuldige in die periode en de gemiddeld per maand te verwachten kosten van bestaan in die periode.   
-2.  Het netto-besteedbare inkomen van de belastingschuldige, bedoeld in het eerste lid, wordt vermeerderd met het gemiddeld per maand te verwachten netto-besteedbare inkomen in de periode van twaalf maanden vanaf de datum waarop het verzoek om kwijtschelding is ingediend van zijn echtgenoot, bedoeld in [artikel 3 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of [artikel 3 van de Wet investeren in jongeren](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md).   
+2.  Het netto-besteedbare inkomen van de belastingschuldige, bedoeld in het eerste lid, wordt vermeerderd met het gemiddeld per maand te verwachten netto-besteedbare inkomen in de periode van twaalf maanden vanaf de datum waarop het verzoek om kwijtschelding is ingediend van zijn echtgenoot, bedoeld in [artikel 3 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of [artikel 3 van de Wet investeren in jongeren](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), zoals deze luidde op de dag voor inwerkingtreding van artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden (Stb. 650).   
 
 ### Artikel  14  
 
@@ -375,15 +402,14 @@ c. overige inkomsten met uitzondering van:
 
 7°. het kindgebonden budget, bedoeld in de [Wet op het kindgebonden budget](../../../../../wet/wet/op/het/kindgebonden/budget/BWBR0022751/README.md);  
 
-8°.  vervallen;   
+8°. de huurtoeslag, bedoeld in [artikel 1, onderdeel e, van de Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md), de krachtens de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) ontvangen woonkostentoeslag en de zorgtoeslag, bedoeld in [artikel 1, onderdeel e, van de Wet op de zorgtoeslag](../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md);  
 
-9°. de inkomsten uit arbeid, bedoeld in [artikel 31, tweede lid, onderdeel n, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+9°. de inkomsten uit arbeid, bedoeld in [artikel 31, tweede lid, onderdelen n en r, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
 10°. een kostenvergoeding voor het verrichten van vrijwilligerswerk tot ten hoogste de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).       
-2.  Tot de inkomsten, bedoeld in het eerste lid, onderdeel c, wordt ook gerekend de voorlopige teruggaaf, bedoeld in [artikel 13, tweede lid, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), daaronder begrepen de aanspraak op een zodanige teruggaaf, met, voor alleenstaande ouders van wie het jongste kind jonger dan vijf jaar is, uitzondering van de daarin begrepen vermeerdering van de alleenstaande-ouderkorting, bedoeld in [artikel 8.15, derde lid, tweede volzin, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), alsmede met uitzondering van de daarin begrepen inkomensafhankelijke combinatiekorting, bedoeld in [artikel 8.14a van die wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
-3.  Indien bij de vaststelling van de voorlopige teruggaaf voor alleenstaande ouders van wie het jongste kind jonger dan vijf jaar is, rekening is gehouden met de vermeerdering van de alleenstaande-ouderkorting, bedoeld in [artikel 8.15, derde lid, tweede volzin](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en met de inkomensafhankelijke combinatiekorting, bedoeld in [artikel 8.14a van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), wordt voor de toepassing van het tweede lid het bedrag van de voorlopige teruggaaf zoveel mogelijk geacht betrekking te hebben op die kortingen.   
-4.  Voor de belastingschuldige, bedoeld in artikel 10, tweede lid, die in het kalenderjaar voorafgaande aan het verzoek om kwijtschelding een uitkering heeft genoten ingevolge de [Wet werk en inkomen kunstenaars](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md) worden tot de inkomsten, bedoeld in het eerste lid, onderdeel c, ook gerekend de inkomsten uit de beroepsuitoefening. Deze inkomsten worden in aanmerking genomen voor het bedrag dat blijkt uit de opgave van de in het kalenderjaar genoten inkomsten die de belastingschuldige aan het college van burgemeester en wethouders moet verstrekken ten behoeve van de definitieve vaststelling van de hoogte van de uitkering, bedoeld in [artikel 16 van de Wet werk en inkomen kunstenaars](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md).   
-5.  Voor de belastingschuldige, bedoeld in artikel 10, tweede lid, die in het kalenderjaar voorafgaande aan het verzoek om kwijtschelding geen uitkering heeft genoten ingevolge de [Wet werk en inkomen kunstenaars](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md) worden de inkomsten, bedoeld in het eerste lid, gesteld op de op hem van toepassing zijnde bijstandsnorm ingevolge [hoofdstuk 3 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).   
+2.  Tot de inkomsten, bedoeld in het eerste lid, onderdeel c, wordt ook gerekend de voorlopige teruggaaf, bedoeld in [artikel 13, tweede lid, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), daaronder begrepen de aanspraak op een zodanige teruggaaf.   
+3.  Voor de belastingschuldige, bedoeld in artikel 10, tweede lid, die in het kalenderjaar voorafgaande aan het verzoek om kwijtschelding een uitkering heeft genoten ingevolge de [Wet werk en inkomen kunstenaars](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md), zoals deze op 31 december 2011 luidde, worden tot de inkomsten, bedoeld in het eerste lid, onderdeel c, ook gerekend de inkomsten uit de beroepsuitoefening. Deze inkomsten worden in aanmerking genomen voor het bedrag dat blijkt uit de opgave van de in het kalenderjaar genoten inkomsten die de belastingschuldige aan het college van burgemeester en wethouders moet verstrekken ten behoeve van de definitieve vaststelling van de hoogte van de uitkering, bedoeld in [artikel 16 van de Wet werk en inkomen kunstenaars](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md), zoals deze op 31 december 2011 luidde.   
+4.  Voor de belastingschuldige, bedoeld in artikel 10, tweede lid, die in het kalenderjaar voorafgaande aan het verzoek om kwijtschelding geen uitkering heeft genoten ingevolge de [Wet werk en inkomen kunstenaars](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md), zoals deze op 31 december 2011 luidde, worden de inkomsten, bedoeld in het eerste lid, gesteld op de op hem van toepassing zijnde bijstandsnorm ingevolge [hoofdstuk 3 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).   
 
 ### Artikel  15  
 
@@ -399,21 +425,21 @@ d. betaalde uitkeringen voor levensonderhoud ingevolge de [artikelen 157](../../
 
 e. aflossingen op leningen voor zover die zijn aangewend voor de betaling van belastingschulden, met uitzondering van die genoemd in artikel 8, tweede lid;  
 
-f. de met het houden van kostgangers verbonden kosten tot een totaal van € 9,30 per dag. Bij de bepaling van het aantal dagen wordt een volle maand op 30 dagen gesteld.     
+f. de met het houden van kostgangers verbonden kosten tot een totaal van € 9,80 per dag. Bij de bepaling van het aantal dagen wordt een volle maand op 30 dagen gesteld.     
 2.  Onder betalingen op belastingschulden wordt mede begrepen een betaling ter zake van premie voor de volksverzekeringen en ter zake van de inkomensafhankelijke bijdrage, bedoeld in [artikel 41 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
 
 ### Artikel  16  
 
 1.  De kosten van bestaan, bedoeld in artikel 13, eerste lid, bedragen voor belastingschuldigen die worden aangemerkt als: 
 
-a. echtgenoten als bedoeld in [artikel 3 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of [artikel 3 van de Wet investeren in jongeren](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md): 90 percent van het gezamenlijke bedrag, bedoeld in artikel 14, eerste lid, doch ten minste 90 percent van de bijstandsnorm, genoemd in [artikel 21, onderdeel c, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) nadat deze is verminderd met het bedrag, genoemd in [artikel 26 van die wet](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), en ten hoogste 90 percent van de bijstandsnorm, genoemd in [artikel 21, onderdeel c, van die wet](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+a. echtgenoten als bedoeld in [artikel 3 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of [artikel 3 van de Wet investeren in jongeren](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), zoals deze luidde op de dag voor inwerkingtreding van artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden (Stb. 650): 90 percent van het gezamenlijke bedrag, bedoeld in artikel 14, eerste lid, doch ten minste 90 percent van de bijstandsnorm, genoemd in [artikel 21, onderdeel c, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) nadat deze is verminderd met het bedrag, genoemd in [artikel 26 van die wet](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), en ten hoogste 90 percent van de bijstandsnorm, genoemd in artikel 21, onderdeel c, van die wet;  
 
-b. een alleenstaande en een alleenstaande ouder als bedoeld in [artikel 4, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of [artikel 4 van de Wet investeren in jongeren](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md): 90 percent van het gezamenlijke bedrag, bedoeld in artikel 14, eerste lid, doch ten minste 90 percent van de bijstandsnorm, genoemd in [artikel 21, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), en ten hoogste 90 percent van die bijstandsnorm nadat deze is verhoogd met het bedrag, genoemd in [artikel 25 van die wet](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).     
+b. een alleenstaande en een alleenstaande ouder als bedoeld in [artikel 4, eerste lid, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of [artikel 4 van de Wet investeren in jongeren](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), zoals deze luidde op de dag voor inwerkingtreding van artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden (Stb. 650): 90 percent van het gezamenlijke bedrag, bedoeld in artikel 14, eerste lid, doch ten minste 90 percent van de bijstandsnorm, genoemd in [artikel 21, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), en ten hoogste 90 percent van die bijstandsnorm nadat deze is verhoogd met het bedrag, genoemd in [artikel 25 van die wet](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).     
 2.  De kosten van bestaan, bedoeld in artikel 13, eerste lid, bedragen, in afwijking van het eerste lid, voor belastingschuldigen die worden aangemerkt als: 
 
-a. echtgenoten als bedoeld in [artikel 3 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) die 65 jaar of ouder zijn, onderscheidenlijk waarvan een echtgenoot als bedoeld in [artikel 3 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of [artikel 3 van de Wet investeren in jongeren](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) 65 jaar of ouder is: 90 percent van de bijstandsnorm, genoemd in [artikel 22, onderdeel c, onderscheidenlijk onderdeel d, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), verhoogd met € 36,46 onderscheidenlijk € 18,23;  
+a. echtgenoten als bedoeld in [artikel 3 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) die 65 jaar of ouder zijn, onderscheidenlijk waarvan een echtgenoot als bedoeld in artikel 3 van de Wet werk en bijstand of [artikel 3 van de Wet investeren in jongeren](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), zoals deze luidde op de dag voor inwerkingtreding van artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden (Stb. 650), 65 jaar of ouder is: 90 percent van de bijstandsnorm, genoemd in [artikel 22, onderdeel c, onderscheidenlijk onderdeel d, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), verhoogd met € 26,56, onderscheidenlijk € 13,28;  
 
-b. een alleenstaande en een alleenstaande ouder als bedoeld in [artikel 4, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) die 65 jaar of ouder zijn: 90 percent van de bijstandsnorm, genoemd in [artikel 22, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), verhoogd met € 18,23.     
+b. een alleenstaande en een alleenstaande ouder als bedoeld in [artikel 4, eerste lid, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) die 65 jaar of ouder zijn: 90 percent van de bijstandsnorm, genoemd in [artikel 22, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), verhoogd met € 13,28.     
 3.  De kosten van bestaan, bedoeld in artikel 13, eerste lid, bedragen, in afwijking van de vorige leden, voor de belastingschuldige die ter verzorging of verpleging in een daartoe bestemde inrichting is opgenomen: de prijs die is verschuldigd voor verzorging dan wel verpleging, verhoogd met twee derden van de op hem van toepassing zijnde bijstandsnorm, genoemd in [artikel 23 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).   
 
 ### Artikel  18  
@@ -428,13 +454,13 @@ c. binnen een jaar na het verzoek een belastingteruggaaf, anders dan de voorlopi
 
 ### Artikel  19  
 
-Het vermogen en de betalingscapaciteit van zijn echtgenoot, bedoeld in [artikel 3 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of [artikel 3 van de Wet investeren in jongeren](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) wordt buiten beschouwing gelaten voor zover een door de belastingschuldige gedaan verzoek om kwijtschelding betrekking heeft op belastingschulden die zijn ontstaan voor de aanvang van de gezamenlijke huishouding.  
+Het vermogen en de betalingscapaciteit van zijn echtgenoot, bedoeld in [artikel 3 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of [artikel 3 van de Wet investeren in jongeren](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), zoals deze luidde op de dag voor inwerkingtreding van artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden (Stb. 650), wordt buiten beschouwing gelaten voor zover een door de belastingschuldige gedaan verzoek om kwijtschelding betrekking heeft op belastingschulden die zijn ontstaan voor de aanvang van de gezamenlijke huishouding.  
 
 ### Artikel  19a  
 
 1.  Indien ten aanzien van de belastingschuldige de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard en deze overeenkomstig [artikel 329 van de Faillissementswet](../../../../../wet/faillissementswet/BWBR0001860/README.md) een akkoord aanbiedt, verleent de ontvanger, de artikelen 8, eerste lid, onderdelen a, b, e, f en g, en tweede lid, en 10 tot en met 19 buiten toepassing latend, zijn medewerking aan de totstandkoming van dat akkoord, mits: 
 
-1°. het te ontvangen deel van de belastingschuld of belastingschulden ten minste het dubbele percentage bedraagt van hetgeen aan concurrente schuldeisers op hun vorderingen zal worden uitgekeerd en van ten minste dezelfde omvang is als kan worden verkregen indien een saneringsplan wordt vastgesteld;  
+1°. het te ontvangen deel van de belastingschuld of belastingschulden ten minste het dubbele percentage bedraagt van hetgeen aan concurrente schuldeisers op hun vorderingen zal worden uitgekeerd en van ten minste dezelfde omvang is als kan worden verkregen indien de schuldsaneringsregeling zou worden voortgezet;  
 
 2°. reële vooruitzichten aanwezig zijn dat de belastingschuldige in staat is de fiscale verplichtingen die opkomen na het tijdstip waarop de schuldsaneringsregeling natuurlijke personen ten aanzien van hem van toepassing is verklaard, tijdig en volledig na te komen;  
 
@@ -533,11 +559,11 @@ f. de verontreinigingsheffing ingevolge [artikel 7.2, eerste lid, van de Waterwe
 
 a. een natuurlijk persoon die geen bedrijf of niet zelfstandig een beroep uitoefent, zijn de afdelingen 1, 2 en 5 van overeenkomstige toepassing;  
 
-b. een natuurlijk persoon die een bedrijf of zelfstandig een beroep uitoefent, zijn de afdelingen 1, 3, 4 en 5 van overeenkomstige toepassing, met dien verstande dat indien door de provinciale staten, de gemeenteraad onderscheidenlijk het algemeen bestuur van het waterschap daartoe is besloten, met betrekking tot een verzoek om kwijtschelding van de in artikel 27, onderdeel a, onderdeel b, onderscheidenlijk onderdeel c, bedoelde belastingen en heffingen die geen verband houden met de uitoefening van dat bedrijf of beroep, de afdelingen 1, 2 en 5 van overeenkomstige toepassing zijn;  
+b. een natuurlijk persoon die een bedrijf of zelfstandig een beroep uitoefent, zijn de afdelingen 1, 3, 4 en 5 van overeenkomstige toepassing, met dien verstande dat indien door de provinciale staten, de gemeenteraad of het algemeen bestuur van het waterschap daartoe is besloten, met betrekking tot een verzoek om kwijtschelding van de in artikel 27, onderdeel a, onderdeel b, onderscheidenlijk onderdeel c, bedoelde belastingen en heffingen die geen verband houden met de uitoefening van dat bedrijf of beroep, de afdelingen 1, 2 en 5 van overeenkomstige toepassing zijn;  
 
 c. een rechtspersoon zijn de afdelingen 1, 3 en 5 van overeenkomstige toepassing;  
 
-d. een natuurlijk persoon die een uitkering geniet ingevolge de Wet werk en inkomen kunstenaars zijn de artikelen 10, tweede lid, en 14, vierde en vijfde lid, van overeenkomstige toepassing.     
+d. een natuurlijk persoon die een uitkering geniet ingevolge de [Wet werk en inkomen kunstenaars](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md), zoals deze op 31 december 2011 luidde, zijn de artikelen 10, tweede lid, en 14, derde en vierde lid, van overeenkomstige toepassing.     
 2.  Waar in artikel 9, tweede lid, en in afdeling 5 sprake is van directeur wordt voor: 
 
 a. provinciale belastingen gelezen: gedeputeerde staten;  
@@ -548,7 +574,8 @@ c. waterschapsbelastingen gelezen: het dagelijks bestuur;
 
 d. de geluidsheffing burgerluchtvaart gelezen: de inspecteur-generaal van de Inspectie Verkeer en Waterstaat;  
 
-e. de heffing ingevolge [artikel 91a van de Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), alsmede bij algemene maatregel van bestuur ingevolge [artikel 91h](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) of [artikel 92 van die wet](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) ingevoerde heffingen gelezen: de directeur Financiële en Economische Zaken van het Ministerie van Economische Zaken, Landbouw en Innovatie.     
+e. de heffing ingevolge [artikel 91a van de Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), alsmede bij algemene maatregel van bestuur ingevolge [artikel 91h](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) of [artikel 92 van die wet](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) ingevoerde heffingen gelezen: de directeur Financieel Economische Zaken van het Ministerie van Economische Zaken.     
+3.  Indien door de provinciale staten, de gemeenteraad of het algemeen bestuur van het waterschap daartoe is besloten, worden met betrekking tot een verzoek om kwijtschelding van de in artikel 27, onderdeel a, onderdeel b, onderscheidenlijk onderdeel c, bedoelde belastingen en heffingen in afwijking van het eerste lid, onderdelen a en b, als uitgaven als bedoeld in artikel 15, eerste lid, mede in aanmerking genomen de overeenkomstig [artikel 1.7, eerste en tweede lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) bepaalde kosten van kinderopvang verminderd met de kinderopvangtoeslag of met de tegemoetkoming van de gemeente of het Uitvoeringsinstituut werknemersverzekeringen in de te betalen kosten van kinderopvang, bedoeld in [hoofdstuk 1, afdeling 2, van die wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).   
 
 ### Artikel  28a  
 

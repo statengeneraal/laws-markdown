@@ -18,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap en, voorzover het betreft het onderwijs op het gebied van landbouw en natuurlijke omgeving, Onze Minister van Landbouw, Natuur en Voedselkwaliteit,  
+a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap en, voorzover het betreft het onderwijs op het gebied van landbouw en natuurlijke omgeving, Onze Minister van Economische Zaken, Landbouw en Innovatie,  
 
 b. de inspectie: de Inspectie van het onderwijs,  
 
@@ -39,6 +39,10 @@ d. onderwijswet:
 
 – [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md),  
 
+– [Wet medezeggenschap op scholen](../../../../../../wet/wet/medezeggenschap/op/scholen/BWBR0020685/README.md),  
+
+– [Wet overige OCW-subsidies](../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md),  
+
 – [Wet op de erkende onderwijsinstellingen](../../../../../../wet/wet/op/de/erkende/onderwijsinstellingen/BWBR0003821/README.md), of  
 
 – [Experimentenwet onderwijs](../../../../../../wet/experimentenwet/onderwijs/BWBR0002718/README.md),    
@@ -57,7 +61,7 @@ d. onderwijswet:
 
 e. onderwijs: bij of krachtens een onderwijswet geregeld onderwijs,  
 
-f. voorschoolse educatie: voorschoolse educatie als bedoeld in de [artikelen 1.1, eerste lid](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), en [2.1, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).  
+f. voorschoolse educatie: voorschoolse educatie als bedoeld in de [artikelen 1.1, eerste lid](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), en [2.1, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md),  
 
 g. instelling: school, instelling of exameninstelling in de zin van een onderwijswet, daaronder begrepen een niet bekostigde instelling en waaronder mede worden begrepen werkzaamheden als bedoeld in de [artikelen 176e, eerste lid](../../../../../../wet/wbo/BWBR0003420/README.md), en [176g, eerste lid, van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [162h, eerste lid](../../../../../../wet/isovso/BWBR0003549/README.md), en [162j, eerste lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), en [118n, eerste lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [118p, eerste lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
 
@@ -71,9 +75,9 @@ k. onderwijsdeelnemer: leerling, deelnemer, student of extraneus in de zin van e
 
 l. ouders: met het gezag over het kind belaste ouders, hun geregistreerde partners, voogden en verzorgers,  
 
-m. maatregel: maatregel als bedoeld in [artikel 1d van de Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), [artikel 164a van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 146a van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), de [artikelen 104a](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [261a van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de [artikelen 6.1.5a](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [6.2.3a](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [6.3.3 van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en artikel 6.1.7 van de Wet educatie en beroepsonderwijs BES,  
+m. jaarwerkplan: document waarin de inspectie haar werkzaamheden voor het komende jaar neerlegt,  
 
-n. jaarwerkplan: document waarin de inspectie haar werkzaamheden voor het komende jaar neerlegt.    
+n. persoonsgebonden nummer: burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md) of, bij ontbreken daarvan, door Onze Minister uitgegeven onderwijsnummer.    
 
 ### Artikel  2  
 
@@ -90,18 +94,35 @@ n. jaarwerkplan: document waarin de inspectie haar werkzaamheden voor het komend
 
 ####Taken
 
-1.  Het toezicht is opgedragen aan de inspectie.   
+1.  Het toezicht op het onderwijs is opgedragen aan de inspectie.   
 2.  Het toezicht omvat de volgende taken: 
 
-a. het beoordelen van de kwaliteit van het onderwijs, van de kwaliteit van de uitoefening van de taken van het regionaal expertisecentrum en van de kwaliteitsvoorwaarden van de voorschoolse educatie op peuterspeelzalen en kindercentra op basis van het verrichten van onderzoek naar de naleving van de bij of krachtens een onderwijswet of de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) gegeven voorschriften en naar andere aspecten van kwaliteit,  
+a. het beoordelen en bevorderen van de kwaliteit van het onderwijs, daaronder begrepen de kwaliteit van het onderwijspersoneel, aan instellingen als bedoeld in de onderwijswetten met uitzondering van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), het beoordelen en bevorderen van de kwaliteit van de uitoefening van de taken van de regionale expertisecentra en de kenniscentra beroepsonderwijs bedrijfsleven, en het beoordelen van de kwaliteitsvoorwaarden van de voorschoolse educatie op peuterspeelzalen en kindercentra, bedoeld in de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md),  
 
-b. het bij de uitoefening van de onder a bedoelde taak bevorderen van de kwaliteit van het onderwijs en van de kwaliteit van de uitoefening van de taken van het regionaal expertisecentrum, onder meer door het voeren van overleg met het bestuur, het personeel van de instelling dan wel van het regionaal expertisecentrum, en zo nodig, het college van burgemeester en wethouders van de gemeente, gedeputeerde staten van de provincie, dan wel het bestuurscollege en de Rijksvertegenwoordiger, bedoeld in [artikel 1, eerste lid, onder d, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md),  
+b. het beoordelen en bevorderen van de naleving van de bij of krachtens een onderwijswet gegeven voorschriften,  
 
-c. het rapporteren over de ontwikkeling van het onderwijs en van de uitoefening van de taken van het regionaal expertisecentrum, in het bijzonder over de kwaliteit daarvan,  
+c. het beoordelen en bevorderen van de kwaliteit van het stelsel voor hoger onderwijs, met inbegrip van het stelsel van accreditatie, bedoeld in [artikel 1.1, onderdelen s en t, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md),  
 
-d. het beoordelen van de rechtmatigheid en de doeltreffendheid van de uitvoering van de taken, opgedragen aan het college van burgemeester en wethouders bij of krachtens [hoofdstuk 1, afdelingen 3](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) en [6 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), met uitzondering van de bij of krachtens [artikel 1.50b](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) vastgestelde bepalingen omtrent de kwaliteit van voorschoolse educatie,  
+d. het beoordelen en bevorderen van de financiële rechtmatigheid door in ieder geval het verrichten van onderzoek naar de rechtmatige verkrijging van de bekostiging, naar de controlerapporten van de door het bestuur aangewezen accountant, naar de rechtmatigheid van de bestedingen en naar de rechtmatigheid van het financieel beheer van de bekostigde instellingen,  
 
-e. het verrichten van andere bij of krachtens de wet aan de inspectie opgedragen taken.     
+e. het beoordelen en bevorderen van de rechtmatigheid en de doeltreffendheid van de uitoefening van de taken, opgedragen aan het college van burgemeester en wethouders bij of krachtens [hoofdstuk 1, afdelingen 3](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) en [6 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), met uitzondering van de bij of krachtens [artikel 1.50b](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) vastgestelde bepalingen omtrent de kwaliteit van voorschoolse educatie,  
+
+f. het rapporteren over de ontwikkeling van het onderwijs en over de uitoefening van de taken door de instellingen, de regionale expertisecentra en de kenniscentra beroepsonderwijs bedrijfsleven, in het bijzonder over de kwaliteit daarvan, en  
+
+g. het verrichten van andere bij of krachtens de wet aan de inspectie opgedragen taken.     
+3.  Onze Minister kan de inspectie mandaat verlenen om: 
+
+a. de bekostiging voor ten hoogste vijftien procent in te houden of geheel of gedeeltelijk op te schorten, op grond van [artikel 164 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 146 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 104 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [artikel 11.1 van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of [artikel 15.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+
+b. een subsidie lager vast te stellen, te wijzigen, of gedeeltelijk in te trekken of terug te vorderen op grond van de [afdelingen 4.2.5 tot en met 4.2.7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+
+c. bij of krachtens de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de [Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) correcties aan te brengen of bedragen in mindering te brengen op de bekostiging;  
+
+d. voor zover het niet de enige opleiding in zijn soort betreft, een waarschuwing als bedoeld in de [artikelen 6.1.5](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [6.1.5b](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [6.2.3](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [6.2.3b](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [6.3.2 van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) te geven, of een besluit als bedoeld in de [artikelen 6.1.4](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), 6.1.5b, [6.2.2](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), 6.2.3b en 6.3.2 van die wet te nemen;  
+
+e. de bestuurlijke boete op te leggen, bedoeld in [artikel 27 van de Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md); of  
+
+f. te beslissen op een tegen een besluit als bedoeld in de onderdelen a tot en met e ingediend bezwaarschrift.     
 
 ### Artikel  4  
 
@@ -109,7 +130,8 @@ e. het verrichten van andere bij of krachtens de wet aan de inspectie opgedragen
 
 1.  De inspectie oefent het toezicht uit met inachtneming van de vrijheid van onderwijs.   
 2.  De inspectie oefent het toezicht uit op zodanige wijze dat instellingen niet meer worden belast dan voor een zorgvuldige uitoefening van het toezicht noodzakelijk is.   
-3.  De uitoefening van het toezicht is er mede op gericht betrokkenen te informeren over de ontwikkeling, in het bijzonder van de kwaliteit, van het onderwijs.   
+3.  De intensiteit van het toezicht in het onderwijs, met uitzondering van het hoger onderwijs, is afhankelijk van de kwaliteit van het onderwijs, van de wijze waarop de professionaliteit van de instelling en het bestuur is gewaarborgd, van de mate van naleving van wettelijke voorschriften en, voor zover deze wordt bekostigd uit ’s Rijks kas, van de financiële situatie van de instelling.   
+4.  De uitoefening van het toezicht is er mede op gericht betrokkenen te informeren over de ontwikkeling, in het bijzonder van de kwaliteit, van het onderwijs.   
 
 ### Artikel  5  
 
@@ -149,6 +171,14 @@ b. in het belang van ten behoeve van een instelling met taken belaste personen, 
 
 c. indien de ernst van de situatie waarop de melding betrekking heeft daartoe aanleiding geeft.     
 
+### Artikel  6a  
+
+####Kwaliteit en personeelsbeleid
+
+1.  De inspectie fungeert als aanspreekpunt voor ten behoeve van een instelling met taken belaste personen die van oordeel zijn dat de kwaliteit van het onderwijs tekortschiet ten gevolge van het door het bestuur van de instelling gevoerde personeelsbeleid.   
+2.  De inspectie beoordeelt of uit hetgeen haar op grond van het eerste lid ter kennis is gebracht een redelijk vermoeden voortvloeit dat de kwaliteit van het onderwijs tekortschiet.   
+3.  De inspectie is verplicht tot geheimhouding van hetgeen haar op grond van het eerste lid is toevertrouwd.   
+
 ### Artikel  7  
 
 ####Jaarwerkplan
@@ -170,7 +200,7 @@ c. indien de ernst van de situatie waarop de melding betrekking heeft daartoe aa
 
 1.  Bij de uitoefening van de taken van de inspectie zijn, voorzover deze niet het toezicht op de naleving van bij of krachtens een onderwijswet als bedoeld in artikel 1, onderdeel d, sub 1, gegeven voorschriften betreffen, de [artikelen 5:12 tot en met 5:17](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
 2.  De bevoegdheden, bedoeld in de artikelen genoemd in het eerste lid, worden uitgeoefend door daartoe door Onze Minister aangewezen personen.   
-3.  Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan in de Staatscourant.   
+3.  Van een besluit tot aanwijzing als bedoeld in het tweede lid wordt mededeling gedaan in de Staatscourant.   
 
 ### Hoofdstuk  3  
 
@@ -180,61 +210,95 @@ c. indien de ernst van de situatie waarop de melding betrekking heeft daartoe aa
 
 ####Reikwijdte
 
-Dit hoofdstuk is niet van toepassing op: 
-
-a. de universiteiten, hogescholen, de Open Universiteit en de levensbeschouwelijke universiteiten, bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md),  
-
-b. de universiteiten en hogescholen die ingevolge [artikel 6.9 van de wet](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), bedoeld in onderdeel b, zijn aangewezen, en  
-
-c. de rechtspersonen voor hoger onderwijs, bedoeld in [artikel 1.1, onder aa, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md),  
-
-d. de uitvoering van de taken, opgedragen aan het college van burgemeester en wethouders bij of krachtens [hoofdstuk 1, afdelingen 3](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) en [6 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).    
+1.  De artikelen 11, 12, 13 en 15 zijn niet van toepassing op de instellingen voor hoger onderwijs, bedoeld in de [artikelen 1.9](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [1.12](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en [1.12a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+2.  Hoofdstuk 3 is niet van toepassing op de uitvoering van de taken, opgedragen aan het college van burgemeester en wethouders bij of krachtens [hoofdstuk 1, afdelingen 3](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) en [6 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).   
 
 ### Artikel  11  
 
-####Periodiek kwaliteitsonderzoek
+####Regulier onderzoek basisonderwijs, (voortgezet) speciaal onderwijs, voortgezet onderwijs en educatie en beroepsonderwijs
 
-1.  Ter uitvoering van de in artikel 3 bedoelde taken onderzoekt de inspectie jaarlijks het onderwijs aan elke instelling, behoudens bijzondere omstandigheden. Naar aanleiding van het onderzoek geeft de inspectie een oordeel over de kwaliteit van het onderwijs.   
-2.  De inspectie verricht het onderzoek aan de hand van de bij of krachtens een onderwijswet gegeven voorschriften en, indien het betreft een instelling voor primair of voortgezet onderwijs, de aspecten van kwaliteit, te weten 
+1.  Ter uitvoering van de in artikel 3, tweede lid, onderdelen a, b en d, bedoelde taken onderzoekt de inspectie jaarlijks met inachtneming van artikel 4 het onderwijs aan elke instelling. Naar aanleiding van het onderzoek geeft de inspectie een oordeel over de kwaliteit van het onderwijs aan de instelling en over de naleving van wettelijke voorschriften door de instelling.   
+2.  De inspectie verricht het onderzoek aan de hand van de bij of krachtens een onderwijswet gegeven voorschriften en, indien het betreft een instelling als bedoeld in de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) of de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), aan de hand van de volgende aspecten van kwaliteit, te weten: 
 
-a. voor wat betreft de opbrengsten van het onderwijs: 
+a. leerresultaten,  
 
-1°. leerresultaten,  
+b. voortgang in de ontwikkeling van leerlingen,  
 
-2°. voortgang in de ontwikkeling van leerlingen,    
+c. het gevoerde personeelsbeleid, voor zover daar op grond van artikel 6a, eerste en tweede lid, aanleiding toe bestaat.     
+3.  Indien uit het onderzoek, bedoeld in het tweede lid, een redelijk vermoeden voortvloeit dat de kwaliteit tekortschiet, stelt de inspectie nader onderzoek in, waarbij tevens de oorzaken van het tekortschieten worden onderzocht. Dit nader onderzoek verricht zij, indien het betreft een instelling als bedoeld in de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) of de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), mede aan de hand van een of meer van de volgende aspecten van kwaliteit, te weten: 
 
-b. voor wat betreft de inrichting van het onderwijsleerproces: 
+a. het leerstofaanbod,  
 
-1°. het leerstofaanbod,  
+b. de leertijd,  
 
-2°. de leertijd,  
+c. het pedagogisch klimaat,  
 
-3°. het pedagogisch klimaat,  
+d. het schoolklimaat,  
 
-4°. het schoolklimaat,  
+e. de effectiviteit van het didactisch handelen van het onderwijspersoneel,  
 
-5°. het didactisch handelen van de leraren,  
+f. de leerlingenzorg,  
 
-6°. de leerlingenzorg,  
+g. de inhoud, het niveau en de uitvoering van de toetsen, tests, opdrachten of examens,  
 
-7°. de inhoud, het niveau en de uitvoering van de toetsen, tests, opdrachten of examens.     Indien uit het onderzoek een redelijk vermoeden voortvloeit dat de kwaliteit tekortschiet, stelt zij nader onderzoek in, waarbij tevens de oorzaken van het tekortschieten worden onderzocht.   
-3.  Indien de inspectie naar aanleiding van het onderzoek, bedoeld in het vorige lid, oordeelt dat de kwaliteit tekortschiet, verricht zij na een door haar aangegeven termijn onderzoek naar de kwaliteitsverbeteringen die de instelling heeft gerealiseerd.   
-4.  De inspectie stelt het bestuur in kennis van de datum en het doel van een onderzoek, bedoeld in het tweede of derde lid. Kennisgeving geschiedt ten minste vier weken voor aanvang van een onderzoek.   
-5.  Bij de uitvoering van een onderzoek, bedoeld in het tweede of derde lid, kan de inspectie onafhankelijke deskundigen betrekken.   
+h. voor wat betreft de kwaliteit van het onderwijspersoneel: 
+
+1°. de eisen van bevoegdheid en bekwaamheid,  
+
+2°. het personeelsbeleid, voor zover het betreft de duurzame borging van de kwaliteit van het onderwijspersoneel.       
+4.  Indien de inspectie naar aanleiding van het onderzoek, bedoeld in het derde lid, oordeelt dat de kwaliteit tekortschiet, verricht zij na een door haar aangegeven termijn onderzoek naar de kwaliteitsverbeteringen die de instelling heeft gerealiseerd.   
+5.  De inspectie stelt het bestuur in kennis van de datum en het doel van een onderzoek, bedoeld in het derde of vierde lid. Kennisgeving geschiedt ten minste vier weken voor aanvang van een onderzoek. Indien de inspectie dit nodig oordeelt, verricht zij onderzoek zonder deze kennisgeving.   
+6.  Bij de uitvoering van een onderzoek, bedoeld in het derde of vierde lid, kan de inspectie onafhankelijke deskundigen betrekken.   
+7.  Het tweede lid, onderdeel c en het derde lid, onderdeel h, zijn van overeenkomstige toepassing op de instellingen, bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
+
+### Artikel  11a  
+
+#### *Toezicht op nieuwe instellingen voor aanvang bekostiging* 
+
+1.  Zo spoedig mogelijk na ontvangst van de beschikking waarin is vermeld dat de bekostiging een aanvang zal nemen, bedoeld in [artikel 79, achtste lid, van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 86, zesde lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 66, derde lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of [artikel 2.1.3, tweede lid, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) wat een agrarisch opleidingscentrum betreft uitsluitend voor het daaraan verzorgde voortgezet onderwijs, toont het bevoegd gezag bij de inspectie aan dat het ten aanzien van die instelling kan voldoen aan de vereisten met betrekking tot: 
+
+a. de bekwaamheid van degenen die onderwijs geven, bedoeld in [artikel 3 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 3 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 33 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en  
+
+b. de voorschriften omtrent onderwijstijd gesteld op grond van de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).     
+2.  De inspectie kan indien het bepaalde in het eerste lid daartoe aanleiding geeft overleg voeren met het bevoegd gezag van de instelling. Naar aanleiding van dit overleg kan de inspectie besluiten dat het bepaalde in artikel 11b, tweede tot en met zesde lid, van overeenkomstige toepassing is, met dien verstande dat in afwijking van het derde lid bij het opstellen van de risicoanalyse het schoolplan niet wordt betrokken, en in afwijking van het vierde lid de risicoanalyse wordt opgesteld binnen drie maanden na het overleg, bedoeld in de eerste volzin.   
+
+### Artikel  11b  
+
+#### *Toezicht op nieuwe instellingen* 
+
+1.  Binnen een maand na aanvang van de bekostiging van een instelling, bedoeld in [artikel 81 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 87 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 66, vierde lid van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [artikel 2.1.3, tweede lid, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) wat een agrarisch opleidingscentrum betreft uitsluitend voor het daaraan verzorgde voortgezet onderwijs, verstrekt de instelling aan de inspectie gegevens met betrekking tot: 
+
+a. het schoolplan, bedoeld in [artikel 12 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 21 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 24 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
+
+b. de bekwaamheid van degenen die onderwijs geven, bedoeld in [artikel 3 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 3 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 33 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en  
+
+c. het voldoen aan de voorschriften omtrent onderwijstijd die gelden op grond van de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).     
+2.  De inspectie oefent toezicht uit door middel van het opstellen van een risicoanalyse indien: 
+
+a. de gegevens, bedoeld in het eerste lid, niet binnen de genoemde termijn zijn verstrekt,  
+
+b. de inspectie onvolkomenheden constateert in de naleving van het eerste lid.     
+3.  Bij het opstellen van de risicoanalyse worden de onderwerpen, genoemd in het eerste lid, onderdelen a, b en c, betrokken.   
+4.  De risicoanalyse wordt binnen drie maanden nadat de bekostiging is aangevangen door de inspectie opgesteld.   
+5.  Binnen een maand nadat de risicoanalyse is opgesteld toont de instelling ten genoegen van de inspectie aan dat de onvolkomenheden, bedoeld in het tweede lid, onderdeel b, zijn hersteld.   
+6.  Indien de instelling twee maanden na het opstellen van de risicoanalyse nog steeds in gebreke is ten aanzien van de naleving van het eerste lid, onderdelen a, b en c, kunnen de maatregelen worden genomen die door de in het eerste lid, aanhef, genoemde onderwijswetten worden mogelijk gemaakt.   
+7.  Nadat het bevoegd gezag van een niet uit de openbare kas bekostigde bijzondere school overeenkomstig [artikel 5 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 54 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) aan Onze Minister kennis heeft gegeven van de oprichting van de school, brengt de inspectie zo spoedig mogelijk na de aanvang van het onderwijs advies uit aan burgemeester en wethouders over de vraag of deze onderwijsvoorziening een school is als bedoeld in [artikel 1, onderdeel b, subonderdeel 3, van de Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md).   
 
 ### Artikel  12  
 
-####Aansluiting bij zelfevaluatie instelling
+####Toezicht op basis van verantwoording
 
-1.  De inspectie gaat bij een onderzoek als bedoeld in artikel 11, tweede of derde lid, uit van de uitkomsten van een evaluatie van de kwaliteit door of vanwege de instelling, waaronder worden verstaan de uitkomsten van het beleid met betrekking tot de bewaking en verbetering van de kwaliteit van het onderwijs door of vanwege de instelling als bedoeld in [artikel 12, eerste lid, van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 21 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 24, eerste lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en het verslag, bedoeld in [artikel 1.3.6, tweede lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
-2.  De uitkomsten van een evaluatie, bedoeld in het eerste lid, zijn richtinggevend voor het oordeel van de inspectie indien: 
+1.  De inspectie gaat bij een onderzoek als bedoeld in artikel 11, eerste lid, uit van openbare verantwoordingsinformatie over de resultaten en de kwaliteit van het onderwijs, de financiële situatie van de instelling en de wijze waarop de professionaliteit van de instelling en het bestuur is gewaarborgd.   
+2.  De informatie, bedoeld in het eerste lid, is richtinggevend voor het oordeel van de inspectie, indien deze voldoende actueel en betrouwbaar is.   
 
-a. alle aspecten van kwaliteit die de inspectie bij haar oordeel betrekt, zoals neergelegd in een toezichtskader als bedoeld in artikel 13, daarin aan de orde komen,  
+### Artikel  12a  
 
-b. de wijze van uitvoering en de hoedanigheid van de evaluatie voldoende betrouwbaar zijn, en  
+####Onderzoek hoger onderwijs
 
-c. de kwaliteitsdoelen die de instelling zichzelf heeft gesteld, van voldoende niveau zijn.     
-3.  Waar niet aan de in het tweede lid genoemde voorwaarden is voldaan, verricht de inspectie aanvullend onderzoek.   
+1.  Ter uitvoering van de in artikel 3, tweede lid, onderdelen b en d, bedoelde taken onderzoekt de inspectie met inachtneming van artikel 4 de naleving van de wettelijke voorschriften en de financiële rechtmatigheid bij instellingen voor hoger onderwijs, als bedoeld in artikel 10, eerste lid.   
+2.  Ter uitvoering van de in artikel 3, tweede lid, onderdelen b, c en d, bedoelde taken onderzoekt de inspectie ontwikkelingen in het stelsel van hoger onderwijs.   
+3.  Ter uitvoering van de in artikel 3, tweede lid, onderdelen b, c en d, bedoelde taken kan de inspectie in incidentele gevallen onderzoek verrichten op aanwijzing van de minister dan wel uit eigen beweging onder door Onze Minister te stellen voorwaarden. Dit onderzoek kan mede de kwaliteit van het onderwijs omvatten.   
+4.  Artikel 11, vierde tot en met zesde lid, is van overeenkomstige toepassing. De artikelen 20 en 21 zijn van overeenkomstige toepassing, tenzij de aard of omvang van het onderzoek zich tegen openbare rapportage verzet.   
 
 ### Artikel  13  
 
@@ -246,23 +310,23 @@ c. de kwaliteitsdoelen die de instelling zichzelf heeft gesteld, van voldoende n
 
 ### Artikel  13a  
 
-####Informeren ouders
+####Informeren college burgemeester en wethouders
 
-Indien het bevoegd gezag, bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 1 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), niet of niet tijdig voldoet aan de verplichting, bedoeld in [artikel 45a van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 48a van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) of [artikel 23c van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), zendt de inspectie de samenvatting van het inspectierapport, bedoeld in die artikelen, in de vijfde week na vaststelling van het inspectierapport aan de ouders van de leerlingen.  
+Indien de inspectie oordeelt dat de kwaliteit van het onderwijs ernstig of langdurig tekortschiet, informeert zij het college van burgemeester en wethouders van de gemeente waar de betreffende instelling gelegen is.  
 
 ### Artikel  14  
 
 ####Informeren van Onze Minister
 
-1.  Indien de inspectie oordeelt dat de kwaliteit van het onderwijs ernstig of langdurig tekortschiet, informeert zij Onze Minister en doet voorstellen over te treffen maatregelen.   
+1.  Indien de inspectie oordeelt dat de kwaliteit van het onderwijs ernstig of langdurig tekortschiet dan wel de naleving van voorschriften als bedoeld in de artikelen 11 en 12a tekortschiet, informeert zij Onze Minister en kan zij voorstellen doen over te treffen maatregelen.   
 2.  De inspectie stelt het bestuur van de betreffende instelling in kennis van haar voorstellen aan Onze Minister.   
 
 ### Artikel  15  
 
-####Incidenteel onderzoek
+####Specifiek onderzoek basisonderwijs, (voortgezet) speciaal onderwijs, voortgezet onderwijs en educatie en beroepsonderwijs
 
-1.  Naast het periodieke kwaliteitsonderzoek, bedoeld in artikel 11, kan de inspectie uit eigen beweging dan wel op aanwijzing van Onze Minister incidenteel onderzoek verrichten naar de kwaliteit van het onderwijs onderscheidenlijk, indien het een exameninstelling betreft, van de externe legitimering waaronder mede wordt verstaan naar de naleving van de bij of krachtens een onderwijswet gegeven voorschiften.   
-2.  De artikelen 20 en 21 zijn van overeenkomstige toepassing, tenzij de aard of omvang van het onderzoek zich tegen openbare rapportage verzetten.   
+1.  Naast het onderzoek, bedoeld in artikel 11, kan de inspectie ter uitvoering van haar taken, bedoeld in artikel 3, uit eigen beweging dan wel op aanwijzing van Onze Minister specifiek onderzoek verrichten.   
+2.  Artikel 11, vijfde en zesde lid, is van overeenkomstige toepassing. De artikelen 20 en 21 zijn van overeenkomstige toepassing, tenzij de aard of omvang van het onderzoek zich tegen openbare rapportage verzet.   
 
 ### Hoofdstuk  3a  
 
@@ -347,7 +411,7 @@ Dit hoofdstuk is van toepassing op het toezicht op de kwaliteitsvoorwaarden voor
 
 ####Uitoefening van het toezicht
 
-1.  De inspectie verricht het onderzoek, bedoeld in artikel 15f, eerste lid, aan de hand van de kwaliteitsvoorwaarden van de voorschoolse educatie in peuterspeelzalen en kindercentra, bedoeld in de bij of krachtens de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) vastgestelde bepalingen, te weten: 
+1.  De inspectie verricht het onderzoek, bedoeld in artikel 15h, eerste lid, aan de hand van de kwaliteitsvoorwaarden van de voorschoolse educatie in peuterspeelzalen en kindercentra, bedoeld in de bij of krachtens de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) vastgestelde bepalingen, te weten: 
 
 a. de basisvoorwaarden voor voorschoolse educatie,  
 
@@ -363,7 +427,7 @@ f. de doorgaande lijn tussen voor- en vroegschoolse educatie.
 2.  De inspectie rapporteert over de bevindingen van het toezicht aan de houder van een peuterspeelzaal of een kindercentrum en aan het college van burgemeester en wethouders.   
 3.  Naast het onderzoek, bedoeld in het eerste lid, kan de inspectie uit eigen beweging incidenteel onderzoek verrichten naar de kwaliteit van de voorschoolse educatie in peuterspeelzalen en kindercentra, bedoeld in de bij of krachtens de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) vastgestelde bepalingen.   
 4.  Artikel 13 is van overeenkomstige toepassing, met dien verstande dat onder «andere betrokkenen» in ieder geval wordt verstaan: vertegenwoordigers van houders van kindercentra en peuterspeelzalen als bedoeld in de [artikelen 1.1](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) en [2.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).   
-5.  De inspectie verricht het onderzoek, bedoeld in artikel 15f, tweede lid, op verzoek van het college van burgemeester en wethouders van de betrokken gemeente of op verzoek van Onze Minister. Het college van burgemeester en wethouders dient een dergelijk verzoek in op eigen initiatief of als een partij als bedoeld in [artikel 167, tweede lid, van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) aan het college hierom verzoekt.   
+5.  De inspectie verricht het onderzoek, bedoeld in artikel 15h, tweede lid, op verzoek van het college van burgemeester en wethouders van de betrokken gemeente of op verzoek van Onze Minister. Het college van burgemeester en wethouders dient een dergelijk verzoek in op eigen initiatief of als een partij als bedoeld in [artikel 167, tweede lid, van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) aan het college hierom verzoekt.   
 
 ### Artikel  15j  
 
@@ -378,44 +442,35 @@ De artikelen 20, 21, 22 en 23 zijn van overeenkomstige toepassing, met dien vers
 1.  Indien de inspectie oordeelt dat de kwaliteit van de voorschoolse educatie in peuterspeelzalen of kindercentra als bedoeld in de bij of krachtens de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) vastgestelde bepalingen, ernstig of langdurig tekortschiet, informeert zij het college van burgemeester en wethouders van de desbetreffende gemeente en doet voorstellen over te treffen maatregelen.   
 2.  De inspectie stelt de houder van de betreffende peuterspeelzaal of van het betreffende kindercentrum in kennis van haar voorstellen aan het college van burgemeester en wethouders.   
 
-### Hoofdstuk  4  
+### Hoofdstuk  3d  
 
-####Toezicht hoger onderwijs
+####Toezicht kenniscentra beroepsonderwijs bedrijfsleven
 
-### Artikel  16  
+### Artikel  15l  
 
 ####Reikwijdte
 
-Dit hoofdstuk is van toepassing op het accreditatieorgaan, bedoeld in [artikel 5a.2 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), de in [artikel 1.8 van die wet](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) bedoelde universiteiten, hogescholen en de Open Universiteit en op de rechtspersonen voor hoger onderwijs, bedoeld in [artikel 1.1, onder aa, van die wet](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).  
+Dit hoofdstuk is van toepassing op het toezicht op de kenniscentra beroepsonderwijs bedrijfsleven, bedoeld in [artikel 1.5.1 van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  
 
-### Artikel  17  
+### Artikel  15m  
 
-####Toezicht accreditatie
+####Taken en bevoegdheden bij het toezicht
 
-1.  De inspectie houdt toezicht op het accreditatieorgaan, bedoeld in [artikel 5a.2 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), de accreditatie, bedoeld in [artikel 1.1, onderdeel s, van die wet](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en de toets nieuwe opleiding, bedoeld in [artikel 1.1, onderdeel t , van die wet](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
-2.  De inspectie kan Onze minister voorstellen een voorziening te treffen in het geval het accreditatieorgaan zijn taak verwaarloost, indien: 
+De artikelen 4, 8 en 9 zijn van overeenkomstige toepassing.  
 
-a. is gebleken dat de kwaliteit van de accreditatie en de toets nieuwe opleiding door het accreditatieorgaan onvoldoende is of is geweest, of  
+### Artikel  15n  
 
-b. niet of niet meer wordt voldaan aan hetgeen bij of krachtens deze wet en de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) is bepaald.     
+####Uitoefening van het toezicht
 
-### Artikel  18  
+1.  Ter uitvoering van de in artikel 3, tweede lid, bedoelde taken, onderzoekt de inspectie jaarlijks de kwaliteit van de uitoefening van de wettelijke taken door de kenniscentra, bedoeld in de [artikelen 1.5.2 van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [10b4 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
+2.  Indien de inspectie naar aanleiding van het onderzoek, bedoeld in het eerste lid, oordeelt dat de kwaliteit tekortschiet, verricht zij na een door haar aangegeven termijn onderzoek naar de verbeteringen die het kenniscentrum heeft gerealiseerd.   
+3.  De inspectie stelt het bestuur in kennis van de datum en het doel van het onderzoek, bedoeld in het eerste of tweede lid. Kennisgeving geschiedt ten minste vier weken voor aanvang van een onderzoek. Indien de inspectie dit nodig oordeelt, verricht zij onderzoek zonder deze kennisgeving.   
+4.  Bij de uitvoering van een onderzoek als bedoeld in het eerste of tweede lid, kan de inspectie onafhankelijke deskundigen betrekken.   
+5.  De artikelen 12, 13, 14 en 15 zijn van overeenkomstige toepassing.   
 
-####Onderzoek hoger onderwijs
+### Hoofdstuk  4  
 
-1.  De inspectie voert de in artikel 3 bedoelde taken uit door onderzoek naar de naleving door instellingen van de voorschriften, bedoeld in de [artikelen 6.5, eerste lid onderdeel b](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en [6.10, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
-2.  De artikelen 11, derde tot en met vijfde lid, en 14 zijn van overeenkomstige toepassing.   
-
-### Artikel  19  
-
-####Incidenteel onderzoek hoger onderwijs
-
-1.  Naast het onderzoek, bedoeld in artikel 18, kan de inspectie incidenteel onderzoek verrichten naar: 
-
-a. aspecten van de kwaliteit van het stelsel van hoger onderwijs in zijn geheel, en  
-
-b. de naleving door instellingen van de voorschriften, bedoeld in de [artikelen 6.5, eerste lid onderdeel b](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en [6.10, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).     
-2.  De artikelen 20 en 21 zijn van overeenkomstige toepassing, tenzij de aard of omvang van het onderzoek zich tegen openbare rapportage verzetten.   
+####Toezicht hoger onderwijs
 
 ### Hoofdstuk  5  
 
@@ -425,7 +480,7 @@ b. de naleving door instellingen van de voorschriften, bedoeld in de [artikelen 
 
 ####Vaststelling van inspectierapporten
 
-1.  De inspectie legt haar oordeel naar aanleiding van een onderzoek als bedoeld in artikel 11, tweede of derde lid, vast in een inspectierapport.   
+1.  De inspectie legt haar oordeel naar aanleiding van een onderzoek als bedoeld in artikel 11, dan wel artikel 12a, vast in een inspectierapport.   
 2.  Indien de inspectie oordeelt dat een bij of krachtens een onderwijswet gegeven voorschrift niet is nageleefd, vermeldt zij dit in het rapport.   
 3.  Alvorens een rapport vast te stellen, stelt de inspectie het bestuur in de gelegenheid van het ontwerp-rapport kennis te nemen en daarover overleg te voeren.   
 4.  Indien in het overleg geen overeenstemming is bereikt over door het bestuur gewenste wijzigingen van het ontwerp-rapport, wordt de zienswijze van het bestuur in een bijlage bij het inspectierapport opgenomen.   
@@ -454,7 +509,7 @@ De inspectie draagt zorg voor een verantwoorde uitoefening van het toezicht.
 ####Klachtadviesprocedure en -commissie
 
 1.  Er is een klachtadviescommissie belast met de behandeling van en advisering over klachten over gedragingen van de inspectie. Op de behandeling van en advisering over klachten is de in [afdeling 9.1.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geregelde procedure van toepassing.   
-2.  De klachtadviescommissie bestaat uit ten minste drie leden, die worden benoemd en ontslagen door Onze Minister van Onderwijs, Cultuur en Wetenschap na overleg met Onze Minister van Landbouw, Natuur en Voedselkwaliteit. De leden maken geen deel uit van en zijn niet werkzaam onder verantwoordelijkheid van de inspectie. De leden kiezen uit hun midden een voorzitter.   
+2.  De klachtadviescommissie bestaat uit ten minste drie leden, die worden benoemd en ontslagen door Onze Minister van Onderwijs, Cultuur en Wetenschap na overleg met Onze Minister van Economische Zaken, Landbouw en Innovatie. De leden maken geen deel uit van en zijn niet werkzaam onder verantwoordelijkheid van de inspectie. De leden kiezen uit hun midden een voorzitter. De benoeming geschiedt voor de tijd van ten hoogste vier jaar.   
 3.  De voorzitter en leden zijn afzonderlijk of gezamenlijk deskundig op het gebied van onderwijs, in het bijzonder op het gebied van de vrijheid van richting en inrichting, toezicht en klachtbehandeling.   
 4.  De klachtadviescommissie bepaalt haar eigen werkwijze.   
 
@@ -463,7 +518,7 @@ De inspectie draagt zorg voor een verantwoorde uitoefening van het toezicht.
 ####Raad van advies inzake de inspectie
 
 1.  Er is een Raad van advies inzake de inspectie die tot taak heeft de inspectie bij te staan in de waarborging van een zorgvuldige en professionele uitoefening van het toezicht. De raad adviseert de inspecteur-generaal onderscheidenlijk het hoofd inspectie gevraagd en ongevraagd over de kwaliteit van de uitoefening van het toezicht, in het bijzonder over de uitvoering van de artikelen 13 en 22.   
-2.  De raad bestaat uit drie leden, die worden benoemd en ontslagen door Onze Minister van Onderwijs, Cultuur en Wetenschap na overleg met Onze Minister van Landbouw, Natuur en Voedselkwaliteit. De benoeming geschiedt voor de tijd van ten hoogste vier jaar. De leden kiezen uit hun midden een voorzitter.   
+2.  De raad bestaat uit ten minste drie leden, die worden benoemd en ontslagen door Onze Minister van Onderwijs, Cultuur en Wetenschap na overleg met Onze Minister van Economische Zaken, Landbouw en Innovatie. De benoeming geschiedt voor de tijd van ten hoogste vier jaar. De leden kiezen uit hun midden een voorzitter.   
 3.  De voorzitter en leden zijn afzonderlijk of gezamenlijk deskundig op het gebied van onderwijs, kwaliteitszorg en toezicht.   
 4.  De raad bepaalt zijn eigen werkwijze.   
 
@@ -485,9 +540,7 @@ a. *basisregister onderwijs:* basisregister onderwijs als bedoeld in artikel 24b
 
 b. *meldingsregister relatief verzuim:* meldingsregister relatief verzuim als bedoeld in artikel 24h;  
 
-c. *persoonsgebonden nummer:* burgerservicenummer als bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md) of, bij ontbreken daarvan, door Onze Minister uitgegeven onderwijsnummer;  
-
-d. *startkwalificatie:* startkwalificatie als bedoeld in [artikel 1, onderdeel f, van de Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md).    
+c. *startkwalificatie:* startkwalificatie als bedoeld in [artikel 1, onderdeel f, van de Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md).    
 
 ### Paragraaf  2  
 
@@ -527,7 +580,7 @@ c. de persoonsgebonden nummers van de leerlingen die zijn ingeschreven of ingesc
 
 c1. de persoonsgebonden nummers van de leerlingen die zijn ingeschreven of ingeschreven zijn geweest aan een school die is aangewezen op grond van [artikel 56 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), tezamen met de andere gegevens, bedoeld in [artikel 103b, tweede en achtste lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), in samenhang met [artikel 58, zevende lid, onderdeel a, van die wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-d. de persoonsgebonden nummers van de deelnemers aan een opleiding educatie die zijn ingeschreven of ingeschreven zijn geweest aan een instelling waaraan door het gemeentebestuur op grond van [artikel 2 van de Wet participatiebudget uitkeringen](../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md) zijn toegekend, tezamen met de andere gegevens, genoemd in [artikel 2.3.6a, derde en zesde lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+d. de persoonsgebonden nummers van de deelnemers aan een opleiding voortgezet algemeen volwassenenonderwijs die zijn ingeschreven of ingeschreven zijn geweest aan een instelling als bedoeld in [artikel 1.1.1, onder b1°, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) alsmede deelnemers aan een opleiding educatie die zijn ingeschreven of ingeschreven zijn geweest aan een instelling waaraan door het gemeentebestuur op grond van [artikel 3 van de Wet participatiebudget](../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md) uitkeringen zijn toegekend, tezamen met de andere gegevens, genoemd in [artikel 2.3.6a, tweede en vijfde lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
 d1. de persoonsgebonden nummers van de deelnemers aan een opleiding educatie die zijn ingeschreven of ingeschreven zijn geweest aan een andere dan een in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) bedoelde instelling of een instelling als bedoeld in die wet voor een opleiding educatie ten aanzien waarvan toepassing is gegeven aan [artikel 1.4a.1, eerste lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), tezamen met de andere gegevens, bedoeld in [artikel 2.3.6a, tweede en vijfde lid](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), in samenhang met artikel 1.4a.1, achtste lid, onderdeel a, van die wet;  
 
@@ -556,7 +609,7 @@ c. [artikel 103b, tweede en achtste lid, van de Wet op het voortgezet onderwijs]
 
 c1. [artikel 103b, tweede en achtste lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), in samenhang met [artikel 58, zevende lid, onderdeel a, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
 
-d. [artikel 2.3.6a, derde en zesde lid](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), of  [2.5.5a, tweede of zevende lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
+d. [artikel 2.3.6a, tweede en vijfde lid](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), of [2.5.5a, tweede of zevende lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
 
 d1. [artikel 2.3.6a, tweede en vijfde lid](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), in samenhang met [artikel 1.4a.1, achtste lid, onderdeel a, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 2.5.5a, tweede en zevende lid](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), in samenhang met [artikel 1.4.1, zesde lid, onderdeel a, van die wet](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), of  
 
@@ -579,8 +632,12 @@ Uit het basisregister onderwijs kunnen persoonsgegevens worden verstrekt aan Onz
 
 ####Het verstrekken van gegevens aan derden
 
-1.  Uit het basisregister onderwijs kunnen persoonsgegevens worden verstrekt aan de school of instelling waar de betrokkene als leerling, deelnemer, student of extraneus is of was ingeschreven, voorzover de gegevens betrekking hebben op de periode waarin hij aan de desbetreffende school of instelling is of was ingeschreven.   
-2.  Uit het basisregister onderwijs worden desgevraagd kosteloos persoonsgegevens verstrekt aan burgemeester en wethouders, voorzover dat verplicht is op grond van [artikel 64 van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [artikel 49 van de Wet investeren in jongeren](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), [artikel 45 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en [artikel 45 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md).   
+1.  Uit het basisregister onderwijs kunnen persoonsgegevens worden verstrekt aan: 
+
+a. de school of instelling waar de betrokkene als leerling, deelnemer, student of extraneus is of was ingeschreven, voor zover de gegevens betrekking hebben op de periode waarin hij aan de desbetreffende school of instelling is of was ingeschreven, en  
+
+b. de school of instelling waar de betrokkene als leerling, deelnemer of extraneus is ingeschreven, voor zover de gegevens betrekking hebben op de periode waarin hij aan een andere school of instelling was ingeschreven.     
+2.  Uit het basisregister onderwijs worden desgevraagd kosteloos persoonsgegevens verstrekt aan burgemeester en wethouders, voorzover dat verplicht is op grond van [artikel 64 van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [artikel 45 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en [artikel 45 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md).   
 3.  Uit het basisregister onderwijs worden aan burgemeester en wethouders de naam, het adres, het persoonsgebonden nummer, de behaalde diploma’s, het laatst genoten onderwijs, de laatst bezochte school of instelling, de data van in- en uitschrijving bij die school of instelling en de reden van uitstroom verstrekt van degenen die: 
 
 a. woonachtig zijn in de desbetreffende gemeente of in een gemeente die behoort tot de regio waarvan de desbetreffende gemeente contactgemeente is als bedoeld in [artikel 8.3.2, derde lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [artikel 162b, derde lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 118h, derde lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  

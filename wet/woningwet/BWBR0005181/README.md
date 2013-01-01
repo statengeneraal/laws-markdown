@@ -397,7 +397,7 @@ Een algemene maatregel van bestuur als bedoeld in artikel 65, treedt niet eerder
 
 ### Artikel  70b  
 
-1.  Tegen een koninklijk besluit dat strekt tot intrekking van de toelating staat beroep open bij de Afdeling bestuursrechtspraak van de Raad van State. De Afdeling oordeelt in hoogste ressort over het beroep. Zij geeft daarbij aanvankelijk overeenkomstige toepassing aan [artikel 8:52 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en kan nadien overeenkomstige toepassing geven aan [artikel 8:53 van die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  De Afdeling bestuursrechtspraak van de Raad van State geeft bij de behandeling van een beroep tegen een koninklijk besluit dat strekt tot intrekking van de toelating, aanvankelijk overeenkomstige toepassing aan [artikel 8:52 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en kan nadien overeenkomstige toepassing geven aan [artikel 8:53 van die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 2.  Nadat een koninklijk besluit dat strekt tot intrekking van de toelating onherroepelijk is geworden, wordt de vereniging of de stichting op vordering van Onze Minister ontbonden door de rechtbank binnen welker rechtsgebied zij gevestigd is.   
 
 ### Artikel  70c  

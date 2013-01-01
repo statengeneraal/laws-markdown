@@ -241,7 +241,7 @@ Het College verstrekt desgevraagd aan het College voor zorgverzekeringen, bedoel
 
 ### Artikel  17  
 
-[Afdeling 4.1.2.](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en de [hoofdstukken 6](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [7](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [8 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing op besluiten van het College waarmee gevolg wordt gegeven aan een beschikking van de Commissie als bedoeld in artikel 34, derde lid, van richtlijn 2001/83.  
+[Afdeling 4.1.2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op besluiten van het College waarmee gevolg wordt gegeven aan een beschikking van de Commissie als bedoeld in artikel 34, derde lid, van richtlijn 2001/83.  
 
 ### Hoofdstuk  3  
 

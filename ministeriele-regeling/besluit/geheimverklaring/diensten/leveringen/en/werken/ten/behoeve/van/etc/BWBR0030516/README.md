@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-Geheim verklaard worden diensten, leveringen en werken in het kader van bouw-, onderhouds- en inrichtingswerkzaamheden aan woon- en werkverblijven bestemd voor de uitvoering van het waken voor de veiligheid van personen, bedoeld in [artikel 38, eerste lid, onderdeel c, van de Politiewet 1993](../../../../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md).  
+Geheim verklaard worden diensten, leveringen en werken in het kader van bouw-, onderhouds- en inrichtingswerkzaamheden aan woon- en werkverblijven bestemd voor de uitvoering van het waken voor de veiligheid van personen, bedoeld in [artikel 42, eerste lid, onderdeel c, van de Politiewet 2012](../../../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
 
 ### Artikel  2  
 

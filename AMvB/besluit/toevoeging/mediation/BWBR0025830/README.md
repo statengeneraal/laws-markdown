@@ -42,14 +42,14 @@ De [artikelen 8 tot en met 10 van het Besluit eigen bijdrage rechtsbijstand](../
 
 ### Artikel  4  
 
-1.  De eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van mediation op basis van een toevoeging, bedraagt € 49,– per 1 januari 2011: € 50, indien in een zaak minder dan vier uur mediation wordt verleend.   
-2.  De eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van mediation op basis van een toevoeging, bedraagt € 98,– per 1 januari 2011: € 101, indien in een zaak vier uur of meer mediation wordt verleend.   
-3.  In afwijking van het eerste en tweede lid bedraagt de eigen bijdrage die een natuurlijk persoon in een zaak verschuldigd is voor de verlening van mediation, ongeacht de duur van de verlening van mediation, € 49,– per 1 januari 2011: € 50, indien: 
+1.  De eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van mediation op basis van een toevoeging, bedraagt € 49,– per 1 januari 2013: € 52, indien in een zaak minder dan vier uur mediation wordt verleend.   
+2.  De eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van mediation op basis van een toevoeging, bedraagt € 98,– per 1 januari 2013: € 103, indien in een zaak vier uur of meer mediation wordt verleend.   
+3.  In afwijking van het eerste en tweede lid bedraagt de eigen bijdrage die een natuurlijk persoon in een zaak verschuldigd is voor de verlening van mediation, ongeacht de duur van de verlening van mediation, € 49,– per 1 januari 2013: € 52, indien: 
 
-a. uitsluitend zijn inkomen of vermogen in aanmerking wordt genomen en het inkomen ten hoogste € 16 800,– per 1 januari 2011: € 17.300 bedraagt; of  
+a. uitsluitend zijn inkomen of vermogen in aanmerking wordt genomen en het inkomen ten hoogste € 16 800,– per 1 januari 2013: € 17.700 bedraagt; of  
 
-b. in andere gevallen, het inkomen ten hoogste € 23 400,– per 1 januari 2011: € 24.600 bedraagt.     
-4.  De eigen bijdrage, die een rechtspersoon verschuldigd is voor de verlening van mediation op basis van een toevoeging, bedraagt € 98,– per 1 januari 2011: € 101.   
+b. in andere gevallen, het inkomen ten hoogste € 23 400,– per 1 januari 2013: € 24.800 bedraagt.     
+4.  De eigen bijdrage, die een rechtspersoon verschuldigd is voor de verlening van mediation op basis van een toevoeging, bedraagt € 98,– per 1 januari 2013: € 103.   
 5.  [Artikel 3 van het Besluit eigen bijdrage rechtsbijstand](../../../../../AMvB/besluit/eigen/bijdrage/rechtsbijstand/BWBR0025277/README.md) is van overeenkomstige toepassing ten aanzien van de inkomensgrenzen, bedoeld in het derde lid, alsmede de hoogten van de eigen bijdragen, bedoeld in het eerste tot en met vierde lid.   
 
 ### Artikel  5  
@@ -75,7 +75,7 @@ b. de overeenkomstig dit besluit vastgestelde vergoeding voor bepaalde kosten en
 
 c. de omzetbelasting die is verschuldigd over de vergoedingen, bedoeld in de onderdelen a en b.     
 3.  Ten behoeve van de berekening van de vergoeding worden de krachtens dit besluit toegekende punten vermenigvuldigd met het basisbedrag, genoemd in [artikel 3, eerste lid, van het Besluit vergoedingen rechtsbijstand 2000](../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md).   
-4.  De [artikelen 3, tweede en derde lid](../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md), [4, eerste lid](../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md), [26](../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md) en [27 van het Besluit vergoedingen rechtsbijstand 2000](../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md) zijn van overeenkomstige toepassing.   
+4.  De [artikelen 3, tweede lid](../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md), [4, eerste lid](../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md), [26](../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md) en [27 van het Besluit vergoedingen rechtsbijstand 2000](../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md) zijn van overeenkomstige toepassing.   
 5.  De vaststelling van de vergoeding, bedoeld in het eerste lid, vindt plaats met toepassing van het basisbedrag, bedoeld in het derde lid, de vergoeding, bedoeld in artikel 9, tweede lid, alsmede de vergoedingen overeenkomstig de [artikelen 26](../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md) en [27 van het Besluit vergoedingen rechtsbijstand 2000](../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md), die golden ten tijde van de afgifte van de toevoeging op grond waarvan de mediation is verricht.   
 
 ### Artikel  8  

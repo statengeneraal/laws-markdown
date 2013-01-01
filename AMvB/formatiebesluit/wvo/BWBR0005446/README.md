@@ -44,6 +44,8 @@ In dit besluit wordt verstaan onder:
 
 *schoolsoortgroep 1:* scholen voor middelbaar algemeen voortgezet onderwijs, scholen voor voorbereidend beroepsonderwijs, scholen voor praktijkonderwijs en scholengemeenschappen bestaande uit ten minste twee van deze schoolsoorten, inclusief het leerwegondersteunend onderwijs;  
 
+*schoolsoortgroep 2:* scholen voor voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en scholengemeenschappen bestaande uit een combinatie van deze scholen;  
+
 *schoolsoortgroep 3:* scholengemeenschappen bestaande uit scholen voor hoger algemeen voortgezet onderwijs en scholen voor middelbaar algemeen voortgezet onderwijs, al dan niet in combinatie met scholen voor voorbereidend wetenschappelijk onderwijs, inclusief het leerwegondersteunend onderwijs;  
 
 *schoolsoortgroep 4:* scholengemeenschappen bestaande uit scholen voor hoger algemeen voortgezet onderwijs, scholen voor middelbaar algemeen voortgezet onderwijs en scholen voor voorbereidend beroepsonderwijs, al dan niet in combinatie met scholen voor praktijkonderwijs of scholen voor voorbereidend wetenschappelijk onderwijs, inclusief het leerwegondersteunend onderwijs, en *wet:*[Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).    
@@ -131,11 +133,36 @@ Tabel 2. Ratio leraar/leerling scholengemeenschap
 5.  Indien een school voor praktijkonderwijs deel uitmaakt van een scholengemeenschap, geldt voor leerlingen van die school een ratio leraar/leerling van 1/8,87 en geldt voor leerlingen van de overige scholen van de scholengemeenschap de ratio leraar/leerling van tabel 2 van het derde lid.   
 6.  De ratio onderwijsondersteunend personeel/leerling is voor alle scholen en scholengemeenschappen 1/104,38.   
 
+### Artikel  4  
+
+####Aanvulling voor scholen onder de opheffingsnorm
+
+In aanvulling op het aantal formatieplaatsen als bedoeld in de artikelen 2 en 3, krijgen scholen die op grond van [artikel 108, vierde lid, van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) in stand worden gehouden dan wel worden bekostigd, extra formatieplaatsen volgens onderstaande tabellen.  Omvang aanvullend aantal formatieplaatsen 
+
+|--- | Schoolsoortgroep 1 en schoolsoortgroep 2  | Aantal leerlingen op teldatum  | Aantal aanvullende formatieplaatsen leraren  |
+|:---|:---|:---|:---|
+| 0 tot 50  | 3  |
+| 50 tot 80  | 2  |
+| 80 tot 120  | 2  |
+| 120 tot 170  | 1,5  |
+| 170 tot 200  | 1  |
+| 200 of meer  | 0  |
+
+|--- | Schoolsoortgroep 3 en schoolsoortgroep 4  | Aantal leerlingen op teldatum  | Aantal aanvullende formatieplaatsen leraren  |
+|:---|:---|:---|:---|
+| 0 tot 50  | 4,2  |
+| 50 tot 80  | 4  |
+| 80 tot 120  | 3,5  |
+| 120 tot 170  | 7,4  |
+| 170 tot 200  | 6  |
+| 200 tot 250  | 4  |
+| 250 of meer  | 0  |
+
 ### Artikel  6  
 
 ####Leerlingentelling
 
-1.  Het in artikel 3, eerste lid, bedoelde aantal leerlingen is het aantal leerlingen van de school of scholengemeenschap dat als werkelijk schoolgaand als bedoeld in [artikel 7, eerste en tweede lid](../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md), en [artikel 7a, eerste en tweede lid, van het Bekostigingsbesluit W.V.O.](../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md) was ingeschreven op 1 oktober voorafgaand aan het kalenderjaar waarvoor de in [artikel 85 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) bedoelde bekostiging wordt vastgesteld.   
+1.  Het in artikel 3, eerste lid, bedoelde aantal leerlingen is het aantal leerlingen van de school of scholengemeenschap dat als werkelijk schoolgaand als bedoeld in [artikel 7, eerste, tweede en derde lid](../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md), en [artikel 7a, eerste en tweede lid, van het Bekostigingsbesluit WVO](../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md) was ingeschreven op 1 oktober voorafgaand aan het kalenderjaar waarvoor de in [artikel 85 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) bedoelde bekostiging wordt vastgesteld.   
 2.  Bij de vaststelling van het aantal leerlingen worden niet meegeteld: 
 
 a. de leerlingen die reeds met goed gevolg eindexamen aan een school voor voorbereidend wetenschappelijk onderwijs, voor hoger algemeen voortgezet onderwijs, voor middelbaar algemeen voortgezet onderwijs of voor voorbereidend beroepsonderwijs hebben afgelegd en zich voorbereiden op het opnieuw afleggen van het eindexamen aan een gelijksoortige school, met dien verstande dat het afleggen van het eindexamen in een bepaalde leerweg aan een school voor voorbereidend beroepsonderwijs door een leerling die reeds met goed gevolg het eindexamen heeft afgelegd van een andere leerweg van het voorbereidend beroepsonderwijs niet worden aangemerkt als het opnieuw afleggen van het eindexamen aan een gelijksoortige school, en  

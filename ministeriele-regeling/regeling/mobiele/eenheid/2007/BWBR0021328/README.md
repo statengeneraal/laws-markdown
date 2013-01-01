@@ -42,52 +42,52 @@ Besluiten:
 
 ### Artikel  4  
 
-1.  Het regionale politiekorps kan beschikken, zelfstandig of samen met andere politiekorpsen, over een of meer verkenningseenheden.   
+1.  Een regionale eenheid kan beschikken, zelfstandig of samen met een of meer andere regionale eenheden, over een of meer verkenningseenheden.   
 2.  Verkenningseenheden zijn organisatorisch opgebouwd uit een groep, bestaande uit vier tot twaalf leden, onder wie een groepscommandant.   
 
 ### Artikel  5  
 
-1.  Het regionale politiekorps kan beschikken, zelfstandig of samen met andere politiekorpsen, over een of meer eenheden beredenen.   
+1.  Een regionale eenheid kan beschikken, zelfstandig of samen met een of meer andere regionale eenheden, over een of meer eenheden beredenen.   
 2.  Eenheden beredenen zijn organisatorisch opgebouwd uit een groep bestaande uit zes ruiters, onder wie een groepscommandant.   
 
 ### Artikel  6  
 
-1.  Het regionale politiekorps kan beschikken, zelfstandig of samen met andere politiekorpsen, over een of meer eenheden hondengeleiders.   
+1.  Een regionale eenheid kan beschikken, zelfstandig of samen met een of meer andere regionale eenheden, over een of meer eenheden hondengeleiders.   
 2.  Eenheden hondengeleiders zijn organisatorisch opgebouwd uit een groep bestaande uit zes leden, onder wie een groepscommandant, een voor zijn taak opgeleide chauffeur en vier hondengeleiders.   
 
 ### Artikel  7  
 
-1.  De Minister van Binnenlandse Zaken en Koninkrijksrelaties stationeert bij de regionale politiekorpsen, genoemd in de bijlage 3, één of meer waterwerpers.   
-2.  De regionale politiekorpsen, bedoeld in het eerste lid, dragen zorg voor de beschikbaarheid van een bij de waterwerper behorende eenheid.   
+1.  Bij de regionale eenheden, genoemd in bijlage 3, zijn één of meer waterwerpers gestationeerd.   
+2.  De regionale eenheid, bedoeld in het eerste lid, beschikt over een bij de waterwerper behorende eenheid.   
 3.  Een eenheid met de waterwerper bestaat uit een voor deze taak bekwame commandant, chauffeur en twee kanonniers.   
 
 ### Artikel  8  
 
-1.  Het regionale politiekorps kan, zelfstandig of samen met andere politiekorpsen, beschikken over een of meer aanhoudingseenheden.   
+1.  Een regionale eenheid kan, zelfstandig of samen met een of meer andere regionale eenheden, beschikken over een of meer aanhoudingseenheden.   
 2.  Aanhoudingseenheden zijn organisatorisch opgebouwd uit een groep of sectie.   
 3.  Een groep bestaat uit acht leden, onder wie een groepscommandant en een voor zijn taak opgeleide chauffeur.   
 4.  Een sectie bestaat uit een sectiecommandant en twee groepen.   
 
 ### Artikel  9  
 
-1.  Het regionale politiekorps kan, zelfstandig of samen met andere politiekorpsen, beschikken over een of meer BRATRA-groepen.   
+1.  Een regionale eenheid kan, zelfstandig of samen met een of meer andere regionale eenheden, beschikken over een of meer BRATRA-groepen.   
 2.  De leden van een BRATRA-groep zijn bekwaam in het toegankelijk en vrij van obstakels maken van ruimten, wegen en gebieden, het bestrijden van kleine branden bij een optreden van de mobiele eenheid en verspreiding van CS-traangas al of niet met behulp van een vuurwapen.   
 3.  De BRATRA-groep bestaat uit zes leden, onder wie een groepscommandant en een voor zijn taak opgeleide chauffeur.   
 
 ### Artikel  10  
 
-1.  Het regionale politiekorps beschikt over een uit een peloton van de basiseenheid samengestelde eenheid of zelfstandige eenheden specialistische schutters, die geoefend zijn in het gebruik van een vuurwapen als bedoeld in [artikel 7, onder c, van de Bewapeningsregeling politie](../../../../../../ministeriele-regeling/bewapeningsregeling/politie/BWBR0009152/README.md).   
-2.  De onder 1 genoemde schutters zijn daarnaast bekwaam in verspreiden van CS-traangas al of niet met behulp van een vuurwapen.   
+1.  Een regionale eenheid beschikt over een uit een peloton van de basiseenheid samengestelde eenheid of zelfstandige eenheden specialistische schutters, die geoefend zijn in het gebruik van een vuurwapen als bedoeld in [artikel 10 van het Besluit bewapening en uitrusting politie](../../../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md).   
+2.  De in het eerste lid bedoelde schutters zijn daarnaast bekwaam in verspreiden van CS-traangas al of niet met behulp van een vuurwapen.   
 3.  Het aantal eenheden minimaal gelijk is aan het aantal eenheden zoals vermeld in de bijlage 3 van deze regeling.   
 4.  Eenheden specialistische schutters zijn organisatorisch opgebouwd uit een groep, bestaande uit elf leden, onder wie een groepscommandant en een voor zijn taak opgeleide chauffeur.   
 
 ### Paragraaf  5  
 
-####Verantwoordelijkheid Korpsbeheerder
+####Verantwoordelijkheid korpschef
 
 ### Artikel  11  
 
-1.  Een ambtenaar van politie in de zin van [artikel 3, eerste lid, onder a, van de Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md), kan deel uitmaken van een basiseenheid of een bijzondere eenheid, indien hij voldoet aan: 
+1.  Een ambtenaar van politie in de zin van [artikel 2, eerste lid, onder a, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md), kan deel uitmaken van een basiseenheid of een bijzondere eenheid, indien hij voldoet aan: 
 
 a. eindtermen zoals voorgeschreven voor de opleiding basispolitiemedewerker niveau 3;  
 
@@ -98,7 +98,7 @@ c. de voor die taak ontwikkelde en voorgeschreven eindtermen.
 
 ### Artikel  12  
 
-De korpsbeheerder draagt voor wat betreft opleiden en oefenen zorg voor dat: 
+De korpschef draagt voor wat betreft opleiden en oefenen zorg voor dat: 
 
 1. Elk in een basiseenheid of een bijzondere eenheid ingedeeld personeelslid van zijn korps jaarlijks, door middel van opleiding en oefening, blijft voldoen aan de geldende eindtermen, gesteld voor deze specifieke taak. Deze eindtermen omvatten minimaal 40 uur oefenen per jaar.  
 
@@ -106,23 +106,23 @@ De korpsbeheerder draagt voor wat betreft opleiden en oefenen zorg voor dat:
 
 ### Artikel  13  
 
-De korpsbeheerder draagt voor wat betreft het materieel zorg voor dat: 
+De korpschef draagt voor wat betreft het materieel zorg voor dat: 
 
 1. De in deze regeling genoemde eenheden en BRATRA-groep de beschikking hebben over een voor de taak toegerust voertuig.  
 
 2. Een basiseenheid bij een zelfstandig optreden, anders dan een groep, de beschikking heeft over een commandovoertuig.  
 
-3. De ruiters de beschikking hebben over voor hun taak getrainde paarden. De korpsbeheerder kan deze verantwoordelijkheid samen met andere korpsbeheerder(s) invullen.  
+3. De ruiters de beschikking hebben over voor hun taak getrainde paarden.  
 
-4. Iedere hondengeleider de beschikking heeft over een gecertificeerde hond zoals voorgeschreven in de Regeling politie-surveillancehonden 1997.  
+4. Iedere hondengeleider de beschikking heeft over een gecertificeerde hond zoals voorgeschreven in de [Regeling politiehonden](../../../../../../ministeriele-regeling/regeling/politiehonden/BWBR0019728/README.md).  
 
 5. De leden van de in deze regeling genoemde eenheden en BRATRA-groep zijn uitgerust met adequate beschermings- en veiligheidsmiddelen.  
 
-6. De aangewezen leden van de in deze regeling genoemde eenheden en BRATRA-groep zijn uitgerust met een vuurwapen als bedoeld in [artikel 7, onder c, van de Bewapeningsregeling politie](../../../../../../ministeriele-regeling/bewapeningsregeling/politie/BWBR0009152/README.md).    
+6. De aangewezen leden van de in deze regeling genoemde eenheden en BRATRA-groep zijn uitgerust met een vuurwapen als bedoeld in [artikel 10 van het Besluit bewapening en uitrusting politie](../../../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md).    
 
 ### Artikel  14  
 
-De korpsbeheerder van het regionaal politiekorps Rotterdam-Rijnmond draagt er zorg voor dat ten behoeve van de eenheden te water, als bedoeld in artikel 3, kan worden beschikt over twee vaartuigen, een commandovaartuig en een reddingsvaartuig met een voor deze taak bekwame bemanning.  
+De korpschef draagt er zorg voor dat ten behoeve van de eenheden te water, als bedoeld in artikel 3, kan worden beschikt over twee vaartuigen, een commandovaartuig en een reddingsvaartuig met een voor deze taak bekwame bemanning.  
 
 ### Paragraaf  6  
 
@@ -130,25 +130,20 @@ De korpsbeheerder van het regionaal politiekorps Rotterdam-Rijnmond draagt er zo
 
 ### Artikel  15  
 
-1.  De korpsbeheerder houdt het aantal basiseenheden uit de bijlage 1 en 2 van deze regeling beschikbaar voor bijstand.   
-2.  De korpsbeheerder houdt de bijzondere eenheden uit de bijlage 3 van deze regeling beschikbaar voor bijstand.   
-3.  De korpsbeheerder draagt er, zelfstandig of samen met andere korpsbeheerders, zorg voor dat basiseenheden, basiseenheden met een bijzondere taak en bijzondere eenheden zijn toegesneden op de behoefte in de regio, dan wel in de samenwerkende regio’s.   
+1.  De korpschef houdt het aantal basiseenheden uit de bijlage 1 en 2 van deze regeling beschikbaar voor bijstand.   
+2.  De korpschef houdt de bijzondere eenheden uit de bijlage 3 van deze regeling beschikbaar voor bijstand.   
+3.  De korpschef draagt ervoor zorg dat basiseenheden, basiseenheden met een bijzondere taak en bijzondere eenheden zijn toegesneden op de behoefte in de regionale eenheid, dan wel in de samenwerkende regionale eenheden.   
 
 ### Artikel  16  
 
-1.  De korpsbeheerder van een regio waarbinnen op basis van bijlage 1 twee of meer pelotons basiseenheden voor bijstand beschikbaar moeten zijn, draagt er zorg voor dat één peloton binnen anderhalf uur en een volgend peloton binnen vier uur gereed is voor vertrek.   
-2.  De korpsbeheerder van een regio waarbinnen op basis van bijlage 1 één peloton en één sectie basiseenheden voor bijstand beschikbaar moeten zijn, draagt er zorg voor dat één sectie binnen anderhalf uur en één volgende sectie binnen vier uur gereed is voor vertrek.   
-3.  De korpsbeheerder van een regio waarbinnen op basis van bijlage 1 één peloton basiseenheden voor bijstand beschikbaar moet zijn, draagt er zorg voor dat één sectie binnen anderhalf uur en de andere sectie binnen vier uur gereed is voor vertrek.   
-4.  Het derde lid is van overeenkomstige toepassing met betrekking tot de eenheden te water, bedoeld in bijlage 2.   
-5.  De korpsbeheerder draagt er, al dan niet samen met een of meer korpsbeheerders, zorg voor dat van de bijzondere eenheden die op basis van bijlage 3 voor bijstand binnen zijn regio beschikbaar moeten zijn, de helft, zijnde ten minste een groep of eenheid, binnen anderhalf uur gereed is voor vertrek, en de volgende groep of eenheid binnen vier uur gereed zijn voor vertrek.   
+1.  De korpschef draagt ervoor zorg dat in een regionale eenheid waarbinnen op basis van bijlage 1 twee of meer pelotons basiseenheden voor bijstand beschikbaar moeten zijn, één peloton binnen anderhalf uur en een volgend peloton binnen vier uur gereed is voor vertrek.   
+2.  De korpschef draagt ervoor zorg dat in een regionale eenheid waarbinnen op basis van bijlage 1 één peloton en één sectie basiseenheden voor bijstand beschikbaar moeten zijn, één sectie binnen anderhalf uur en één volgende sectie binnen vier uur gereed is voor vertrek.   
+3.  De korpschef draagt ervoor zorg dat in een regionale eenheid waarbinnen op basis van bijlage 2 één peloton eenheden te water beschikbaar moet zijn, één sectie binnen anderhalf uur en de andere sectie binnen vier uur gereed is voor vertrek.   
+4.  De korpschef draagt ervoor zorg dat van de bijzondere eenheden die op basis van bijlage 3 voor bijstand binnen een regionale eenheid beschikbaar moeten zijn, de helft, zijnde ten minste een groep of eenheid, binnen anderhalf uur gereed is voor vertrek, en de volgende groep of eenheid binnen vier uur gereed is voor vertrek.   
 
 ### Paragraaf  7  
 
 ####Coördinatie
-
-### Artikel  17  
-
-De korpsbeheerder draagt er, zelfstandig of samen met andere korpsbeheerders, zorg voor de coördinatie van de mobiele eenheid.  
 
 ### Paragraaf  8  
 
@@ -156,9 +151,9 @@ De korpsbeheerder draagt er, zelfstandig of samen met andere korpsbeheerders, zo
 
 ### Artikel  18  
 
-1.  De korpsbeheerder draagt er zorg voor dat binnen het regionale politiekorps voldoende opvang en nazorg wordt aangeboden aan de ingezette leden tijdens en na een optreden van de mobiele eenheden.   
-2.  De korpsbeheerder maakt, de gezagsverantwoordelijken gehoord hebbende, van elk grootschalig optreden waarbij sprake is geweest van ernstige verstoring van de openbare orde, een evaluatierapport op.   
-3.  De korpsbeheerder verstrekt de Minister van Binnenlandse Zaken en Koninkrijksrelaties op diens verzoek een afschrift van het onder 2 genoemde evaluatierapport.   
+1.  De korpschef draagt er zorg voor dat binnen elke regionale eenheid voldoende opvang en nazorg wordt aangeboden aan de ingezette leden tijdens en na een optreden van de mobiele eenheden.   
+2.  De korpschef maakt, de gezagsverantwoordelijken gehoord hebbende, van elk grootschalig optreden waarbij sprake is geweest van ernstige verstoring van de openbare orde, een evaluatierapport op.   
+3.  De korpschef verstrekt de Minister van Veiligheid en Justitie op diens verzoek een afschrift van het onder 2 genoemde evaluatierapport.   
 
 ### Paragraaf  9  
 
@@ -166,8 +161,12 @@ De korpsbeheerder draagt er, zelfstandig of samen met andere korpsbeheerders, zo
 
 ### Artikel  19  
 
-1.  De Minister kan de korpsbeheerder toestemming geven om voor bepaalde of onbepaalde tijd af te wijken van de bepalingen in deze regeling.   
-2.  De Minister onthoudt zijn toestemming in gevallen de afwijking de artikelen 3 onder 1, 11, 12, 13, 14 en 18 en de rechtstoestand van het personeel raakt.   
+1.  De Minister kan de korpschef toestemming geven om voor bepaalde of onbepaalde tijd af te wijken van de bepalingen in deze regeling.   
+2.  De Minister onthoudt zijn toestemming in gevallen de afwijking de artikelen 3, eerste lid, 11, 12, 13, 14 en 18 en de rechtstoestand van het personeel raakt.   
+
+### Artikel  19a  
+
+Deze regeling berust op [artikel 30, tweede lid, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md) en [artikel 28 van het Besluit bewapening en uitrusting politie](../../../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md).  
 
 ### Paragraaf  10  
 
@@ -200,148 +199,64 @@ E.M.H.Hirsch Ballin
 
 ### Bijlage  1  
 
-####, behorend bij de artikelen 14, eerste lid , en artikel 15, eerste en tweede lid 
+####, behorend bij de artikelen 15, eerste lid , en 16, eerste en tweede lid , van de Regeling mobiele eenheid 2007
 
 ####Bijstandssterkte mobiele eenheid
 
 Basiseenheden 
 
-| Regionaal korps  | Secties  | Pelotons  |--- |--- |--- | Artikelen 2  en 3   |
-|:---|:---|:---|:---|:---|:---|:---|
-| Groningen  | 1  | 1  |
-| Friesland  | 1  | 1  |
-| Drenthe  | --- | 1  |
-| IJsselland  | --- | 1  |
-| Twente  | --- | 1  |
-| Noord- en Oost-Gelderland  | --- | 1  |
-| Gelderland-Midden  | --- | 1  |
-| Gelderland-Zuid  | --- | 1  |
-| Utrecht  | --- | 3  |
-| Noord-Holland-Noord  | 1  | 1  |
-| Zaanstreek-Waterland  | --- | 1  |
-| Kennemerland  | 1  | 1  |
-| Amsterdam-Amstelland  | --- | 4  |
-| Gooi en Vechtstreek  | --- | 1  |
-| Hollands Midden  | 1  | 1  |
-| Haaglanden  | --- | 4  |
-| Rotterdam-Rijnmond  | --- | 4  |
-| Zuid-Holland-Zuid  | 1  | 1  |
-| Zeeland  | 1  | 1  |
-| Midden- en West-Brabant  | --- | 3  |
-| Brabant-Noord  | 1  | 1  |
-| Brabant-Zuid-Oost  | --- | 2  |
-| Limburg-Noord  | --- | 1  |
-| Limburg-Zuid  | --- | 2  |
-| Flevoland  | --- | 1  |
-| In de provincie Gelderland wordt in interregionaal verband gezorgd voor  | --- | 1  |
+| Regionale eenheid  | pelotons  | Secties  |
+|:---|:---|:---|
+| Noord-Nederland  | 3  | --- |
+| Oost-Nederland  | 5  | --- |
+| Noord-Holland  | 2  | 1  |
+| Amsterdam  | 4  | --- |
+| Midden-Nederland  | 4  | --- |
+| Den Haag  | 4  | 1  |
+| Rotterdam  | 4  | 1  |
+| Zeeland-West-Brabant  | 2  | 1  |
+| Oost-Brabant  | 2  | 1  |
+| Limburg  | 2  | 1  |
 
 ### Bijlage  2  
 
-####, behorend bij de artikelen 14, tweede lid , en artikel 15, derde en vierde lid 
+####, behorend bij artikel 16, derde lid , van de Regeling mobiele eenheid 2007
 
 ####Basiseenheden met een bijzondere taak
 
 Eenheden te water 
 
-| Regionaal korps  | Pelotons  |--- |--- |--- |  artikel 4    |
-|:---|:---|:---|:---|:---|:---|
-| Groningen  | 1  |
-| Gelderland-Midden  | 1  |
-| Gelderland-Zuid  | 1  |
-| Kennemerland  | 1  |
-| Amsterdam-Amstelland  | 1  |
-| Rotterdam-Rijnmond  | 1  |
-| Zuid-Holland-Zuid  | 1  |
-| Zeeland  | 1  |
-| Limburg-Noord  | 1  |
+| Regionale eenheid  | pelotons  |
+|:---|:---|
+| Noord-Nederland  | 1  |
+| Oost-Nederland  | 2  |
+| Noord-Holland  | 1  |
+| Amsterdam  | 1  |
+| Midden-Nederland  | –  |
+| Den Haag  | –  |
+| Rotterdam  | 2  |
+| Zeeland-West-Brabant  | 1  |
+| Oost-Brabant  | –  |
+| Limburg  | 1  |
 
 ### Bijlage  3  
 
-####, behorend bij de artikelen 15, tweede lid , en 16, derde en vierde lid 
+####, behorend bij artikel 16, vierde lid , van de Regeling mobiele eenheid 2007
 
 ####Bijstandssterkte mobiele eenheid
 
 Bijzondere eenheden 
 
-| Regionaal korps  | Eenheden met waterwerper  | Eenheden/ groepen specialistische schutters  |--- |--- |--- |--- |  artikel 8    |  artikel 11    |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| Groningen  | --- | 2  |
-| Friesland  | --- | 1  |
-| Drenthe  | --- | 1  |
-| IJsselland  | --- | 1  |
-| Twente  | --- | 1  |
-| Noord- en Oost-Gelderland  | --- | 1  |
-| Gelderland-Midden  | --- | 1  |
-| Gelderland-Zuid  | --- | 1  |
-| Utrecht  | --- | 3  |
-| Noord-Holland-Noord  | --- | 1  |
-| Zaanstreek-Waterland  | --- | 1  |
-| Kennemerland  | --- | 1  |
-| Amsterdam-Amstelland  | 2  | 4  |
-| Gooi en Vechtstreek  | --- | 1  |
-| Hollands Midden  | --- | 1  |
-| Haaglanden  | 2  | 4  |
-| Rotterdam-Rijnmond  | 2  | 4  |
-| Zuid-Holland-Zuid  | --- | 1  |
-| Zeeland  | --- | 1  |
-| Midden- en West-Brabant  | --- | 3  |
-| Brabant-Noord  | --- | 1  |
-| Brabant-Zuid-Oost  | --- | 2  |
-| Limburg-Noord  | --- | 1  |
-| Limburg-Zuid  | --- | 2  |
-| Flevoland  | --- | 1  |
-
-### Bijlage  4  
-
-####, behorend bij artikel 18, eerste lid 
-
-#### *Model mobiele eenheid resultaatverantwoording* 
-
-#### *A. Bijzondere eenheden* 
-
-Over welk aantal basiseenheden en bijzondere eenheden zoals genoemd in de paragrafen 2 en 3 van de Regeling mobiele eenheid 2007 beschikte het regionale politiekorps feitelijk?  
-
-|--- | Aantal zelfstandige eenheden  | Aantal in samenwerking met een ander korps(en)  | Naam andere korps  |
-|:---|:---|:---|:---|
-| Basiseenheden  | --- | --- | --- |
-| Eenheden te water  | --- | --- | --- |
-| Verkenningseenheden  | --- | --- | --- |
-| Eenheden beredenen  | --- | --- | --- |
-| Eenheden hondengeleiders  | --- | --- | --- |
-| Eenheden met waterwerper  | --- | --- | --- |
-| Aanhoudingseenheden  | --- | --- | --- |
-| BRATRA-groepen  | --- | --- | --- |
-| Eenheden vuurwapen ([artikel 7, onder c, van de Bewapeningsregeling politie](../../../../../../ministeriele-regeling/bewapeningsregeling/politie/BWBR0009152/README.md))  | --- | --- | --- |
-
-#### *B. Opleiden en oefenen* 
-
-Op welke wijze heeft de korpsbeheerder gezorgd dat de leden van de mobiele eenheid voldoen aan de eindtermen van opleiding en geoefendheid? (volstaan kan worden met datum waarop is voldaan aan de eindtermen of het benoemen van de behaalde opleidings- en oefeningsdoelen)  
-
-|--- | Toelichting  |
-|:---|:---|
-| Basiseenheden  | --- |
-| Eenheden te water  | --- |
-| Verkenningseenheden  | --- |
-| Eenheden beredenen  | --- |
-| Eenheden hondengeleiders  | --- |
-| Eenheden met waterwerper  | --- |
-| Aanhoudingseenheden  | --- |
-| BRATRA-groepen  | --- |
-| Eenheden vuurwapen ([artikel 7, onder c, van de Bewapeningsregeling politie](../../../../../../ministeriele-regeling/bewapeningsregeling/politie/BWBR0009152/README.md))  | --- |
-
-#### *C. Bijstandssterkte* 
-
-Op welke wijze heeft de korpsbeheerder invulling gegeven aan de paraatheideis zoals gesteld in paragraaf 6 van de Regeling mobiele eenheid 2007? (bijv. aantal testen paraatheid – wijze van alarmering – interne regelingen in vakantieperioden)  
-
-|--- | Toelichting  |
-|:---|:---|
-| Basiseenheden  | --- |
-| Eenheden te water  | --- |
-| Verkenningseenheden  | --- |
-| Eenheden beredenen  | --- |
-| Eenheden hondengeleiders  | --- |
-| Eenheden met waterwerper  | --- |
-| Aanhoudingseenheden  | --- |
-| BRATRA-groepen  | --- |
-| Eenheden vuurwapen ([artikel 7, onder c, van de Bewapeningsregeling politie](../../../../../../ministeriele-regeling/bewapeningsregeling/politie/BWBR0009152/README.md))  | --- |
+| Regionale eenheid  | Eenheden met waterwerper  | Eenheden/groepen  specialistische schutters  |
+|:---|:---|:---|
+| Noord-Nederland  | –  | 4  |
+| Oost-Nederland  | –  | 5  |
+| Noord-Holland  | –  | 3  |
+| Amsterdam  | 2  | 4  |
+| Midden-Nederland  | –  | 5  |
+| Den Haag  | 2  | 5  |
+| Rotterdam  | 2  | 5  |
+| Zeeland-West-Brabant  | –  | 4  |
+| Oost-Brabant  | –  | 3  |
+| Limburg  | –  | 3  |
 

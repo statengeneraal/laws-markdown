@@ -404,7 +404,8 @@ h. de bevoegdheid de stichting te ontbinden, met dien verstande dat in de regeli
 ####Scheiding toezicht en bestuur
 
 1.  Het bevoegd gezag draagt mede in verband met de verplichting, bedoeld in artikel 10, zorg voor een goed bestuurde school met een scheiding tussen de functies van bestuur en het toezicht daarop en met een rechtmatig bestuur en beheer.   
-2.  De benoeming in de functies van het toezicht op het bestuur, bedoeld in het eerste lid, geschiedt op basis van vooraf openbaar gemaakte profielen. Bij de benoeming van de leden van de raad van toezicht wordt de medezeggenschapsraad van de school, bedoeld in [artikel 3 van de Wet medezeggenschap op scholen](../../../wet/wet/medezeggenschap/op/scholen/BWBR0020685/README.md), in de gelegenheid gesteld een bindende voordracht te doen voor een lid.   
+2.  De benoeming in de functies van het toezicht op het bestuur, bedoeld in het eerste lid, geschiedt op basis van vooraf openbaar gemaakte profielen. Bij de benoeming van de leden van de raad van toezicht wordt de medezeggenschapsraad van de school, bedoeld in [artikel 3 van de Wet medezeggenschap op scholen](../../../wet/wet/medezeggenschap/op/scholen/BWBR0020685/README.md), in de gelegenheid gesteld een bindende voordracht te doen voor een lid. Bij de benoeming van de leden van de raad van toezicht wordt de ondersteuningsplanraad, bedoeld in [artikel 4a van de Wet medezeggenschap op scholen](../../../wet/wet/medezeggenschap/op/scholen/BWBR0020685/README.md), in de gelegenheid gesteld een bindende voordracht te doen voor een lid.   
+3.  Het eerste lid en het tweede lid, eerste volzin, zijn van overeenkomstige toepassing op een samenwerkingsverband.   
 
 ### Artikel  17b  
 
@@ -412,6 +413,7 @@ h. de bevoegdheid de stichting te ontbinden, met dien verstande dat in de regeli
 
 1.  Het bevoegd gezag draagt er zorg voor dat de functies van bestuur en intern toezicht op het bestuur in functionele of organieke zin zijn gescheiden.   
 2.  Een intern toezichthouder of een lid van het interne toezichthoudend orgaan functioneert onafhankelijk van het bestuur.   
+3.  Dit artikel is van overeenkomstige toepassing op een samenwerkingsverband.   
 
 ### Artikel  17c  
 
@@ -490,6 +492,28 @@ b. alle bevoegde gezagsorganen van de scholen in het samenwerkingsverband met he
 8.  Het bevoegd gezag kan per basisschool slechts deelnemen aan 1 samenwerkingsverband. Bij deelname aan meer dan één samenwerkingsverband is voor de toepassing van deze wet en de daarop gebaseerde voorschriften uitsluitend de deelname van belang aan het samenwerkingsverband waarbij voor het eerst werd aangesloten.   
 9.  Indien een bevoegd gezag wenst deel te nemen aan een samenwerkingsverband, wordt deze deelname door de bevoegde gezagsorganen van het samenwerkingsverband niet geweigerd.   
 
+### Artikel  18a  
+
+####Samenwerkingsverbanden
+
+1.  Het bevoegd gezag van één of meer scholen is voor elke vestiging van die school of scholen aangesloten bij een samenwerkingsverband als bedoeld in het tweede lid of bij een landelijk samenwerkingsverband als bedoeld in het vijftiende lid.   
+2.  Een samenwerkingsverband omvat alle binnen een gebied als bedoeld in het derde lid gelegen vestigingen van scholen, scholen voor speciaal onderwijs en scholen voor speciaal en voortgezet speciaal onderwijs, voor zover daaraan speciaal onderwijs wordt verzorgd, behorend tot cluster 3 en 4, bedoeld in de [Wet op de expertisecentra](../../../wet/isovso/BWBR0003549/README.md), met uitzondering van vestigingen waarvoor het bevoegd gezag is aangesloten bij een landelijk samenwerkingsverband. Het samenwerkingsverband stelt zich ten doel een samenhangend geheel van ondersteuningsvoorzieningen binnen en tussen de scholen, bedoeld in de vorige volzin, te realiseren en wel zodanig dat leerlingen een ononderbroken ontwikkelingsproces kunnen doormaken en leerlingen die extra ondersteuning behoeven een zo passend mogelijke plaats in het onderwijs krijgen.   
+3.  Bij ministeriële regeling worden voor de samenwerkingsverbanden aaneengesloten gebieden aangewezen.   
+3a.   Dit lid is nog niet in werking getreden.    
+4.  De bevoegde gezagsorganen van de scholen, bedoeld in het tweede lid, geven het samenwerkingsverband vorm door het oprichten van een rechtspersoon met volledige rechtsbevoegdheid zonder winstoogmerk, waarin uitsluitend deze bevoegde gezagsorganen deelnemen, behoudens deelname van een bevoegd gezag op grond van het vijfde lid. De statuten van de rechtspersoon bevatten een voorziening voor de beslechting van geschillen.   
+5.  Indien het bevoegd gezag van een school voor speciaal onderwijs of een school voor speciaal en voortgezet speciaal onderwijs, behorend tot cluster 3 en 4, bedoeld in de [Wet op de expertisecentra](../../../wet/isovso/BWBR0003549/README.md), waarvan de vestiging of vestigingen zijn gelegen buiten het gebied van een samenwerkingsverband, wenst deel te nemen aan dit samenwerkingsverband, wordt dit bevoegd gezag niet uitgesloten van deelname aan het samenwerkingsverband.   
+6.   Dit lid is nog niet in werking getreden.    
+7.   Dit lid is nog niet in werking getreden.    
+8.   Dit lid is nog niet in werking getreden.    
+9.   Dit lid is nog niet in werking getreden.    
+10.   Dit lid is nog niet in werking getreden.    
+11.   Dit lid is nog niet in werking getreden.    
+12.   Dit lid is nog niet in werking getreden.    
+13.   Dit lid is nog niet in werking getreden.    
+14.   Dit lid is nog niet in werking getreden.    
+15.  Bevoegde gezagsorganen van tot dezelfde richting behorende scholen en scholen als bedoeld in de [Wet op de expertisecentra](../../../wet/isovso/BWBR0003549/README.md) waaraan speciaal onderwijs behorend tot cluster 3 en 4 wordt verzorgd, kunnen een landelijk samenwerkingsverband oprichten. Een landelijk samenwerkingsverband omvat alle in Nederland gelegen en tot dezelfde richting behorende scholen als bedoeld in de eerste volzin. Op een landelijk samenwerkingsverband zijn het tweede tot en met veertiende lid, met uitzondering van het derde en vijfde lid, en het zestiende lid van overeenkomstige toepassing. Indien een bevoegd gezag scholen heeft met meer dan een richting bepaalt het bevoegd gezag eenmalig op basis van welke richting de aansluiting bij het samenwerkingsverband plaatsvindt.   
+16.   Dit lid is nog niet in werking getreden.    
+
 ### Artikel  19  
 
 ####Zorgplan
@@ -564,7 +588,7 @@ c. de weigering van instemming door het bevoegd gezag van een speciale school vo
 
 d. de weigering van instemming door het bevoegd gezag van een school met een beslissing als bedoeld in artikel 20, tweede lid onder c.   Het vragen van voorziening als bedoeld in de eerste volzin wordt gelijkgesteld met het instellen van administratief beroep.   
 5.  De uitspraak van de geschillencommissie is bindend voor de bevoegde gezagsorganen van de scholen in het samenwerkingsverband.   
-6.  Tegen de uitspraak van de geschillencommissie kan beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. De uitspraak bedoeld in de eerste volzin wordt gelijkgesteld met een uitspraak in administratief beroep.   
+6.  De uitspraak van de geschillencommissie wordt gelijkgesteld met een uitspraak in administratief beroep.   
 7.  Het reglement, bedoeld in artikel 20, kan erin voorzien dat de in het vierde lid bedoelde geschillen worden voorgelegd aan een geschillencommissie die door het samenwerkingsverband, al dan niet tezamen met andere samenwerkingsverbanden is ingesteld. In dat geval is het vierde lid niet van toepassing en zijn het vijfde en zesde lid van toepassing.   
 
 ### Artikel  23  
@@ -1129,7 +1153,7 @@ c. het direct of indirect onthouden van promotie;
 
 d. het verminderen van de omvang van de betrekking;  
 
-e. ontslag anders dan op eigen verzoek, voordat de pensioengerechtigde leeftijd is bereikt;  
+e. ontslag anders dan op eigen verzoek, voordat de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), is bereikt;  
 
 f. de beslissing van het bevoegd gezag ten aanzien van een personeelslid op basis waarvan op termijn vermindering van diens betrekkingsomvang kan plaatsvinden;  
 
@@ -1347,18 +1371,6 @@ a. in aanmerking komt voor een leerlinggebonden budget indien de leerling wordt 
 b. toelaatbaar is tot het cluster, bedoeld in [artikel 2, vierde lid, onder d, van de Wet op de expertisecentra](../../../wet/isovso/BWBR0003549/README.md), waarvoor de commissie voor de indicatiestelling werkzaam is.     
 2.  Het tweede, vierde, vijfde, zesde, zevende, achtste, tiende en elfde lid van [artikel 28c van de Wet op de expertisecentra](../../../wet/isovso/BWBR0003549/README.md) zijn van overeenkomstige toepassing.   
 3.  Het bevoegd gezag informeert de ouders van de desbetreffende leerling schriftelijk over zijn voornemen om tot een verzoek als bedoeld in het eerste lid over te gaan en stelt hen daarbij in de gelegenheid binnen ten minste vier weken na dagtekening van de informatieve mededeling aan te geven of zij zelf tot een verzoek overgaan. Bij het aanmeldingsformulier, bedoeld in [artikel 28c, vierde lid](../../../wet/isovso/BWBR0003549/README.md), geeft het bevoegd gezag de reactie van de ouders weer.   
-
-### Artikel  71  
-
-####Beroep
-
-Een belanghebbende kan beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State tegen: 
-
-a. een besluit of een van rechtswege verleende goedkeuring als bedoeld in de afdelingen 2 en 9 van deze titel,  
-
-b. een besluit als bedoeld in artikel 123, tweede lid, en  
-
-c. een besluit als bedoeld in artikel 135.    
 
 ### Artikel  72  
 
@@ -2266,7 +2278,7 @@ b. indien een bevoegd gezag waarvoor geen diensten meer worden verricht, in het 
 2.  De regeling, bedoeld in het eerste lid, maakt geen onderscheid tussen openbaar en bijzonder onderwijs en voorziet in een behandeling van basisscholen onderscheidenlijk speciale scholen voor basisonderwijs naar dezelfde maatstaf.   
 3.  De regeling, bedoeld in het eerste lid, bevat in elk geval de voorzieningen die door het bevoegd gezag van een in de gemeente gelegen, niet door de gemeente in stand gehouden basisschool onderscheidenlijk speciale school voor basisonderwijs kunnen worden aangevraagd en de procedure voor het doen van een aanvraag.   
 4.  De gemeenteraad kan besluiten dat burgemeester en wethouders de regeling, bedoeld in het eerste lid, tijdelijk kunnen aanvullen met nieuwe voorzieningen. De aanvulling wordt binnen 1 week aan de bevoegde gezagsorganen van de niet door de gemeente in stand gehouden basisscholen onderscheidenlijk speciale scholen voor basisonderwijs gezonden. Binnen 12 weken na de totstandkoming van de aanvulling wordt deze voorgelegd aan de gemeenteraad en besluit de gemeenteraad over de bekrachtiging ervan. Indien de gemeenteraad niet binnen 12 weken heeft besloten, wordt de aanvulling gelijk gesteld met een aanvulling die is bekrachtigd. Een afwijzing van de aanvulling door de gemeenteraad heeft geen gevolgen voor aanvragen waarop reeds is besloten of die reeds zijn ingediend en die voorzieningen betreffen waarop de aanvulling betrekking heeft.   
-5.  [Artikel 8:2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op de regeling, bedoeld in het eerste lid, dan wel een wijziging daarvan. In afwijking van [artikel 8:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan tegen een aanvulling als bedoeld in het vierde lid geen beroep worden ingesteld zolang de gemeenteraad deze nog niet heeft bekrachtigd.   
+5.  [Artikel 8:2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op de regeling, bedoeld in het eerste lid, dan wel een wijziging daarvan.   
 6.  Voor de toepassing van dit artikel wordt een nevenvestiging aangemerkt als een nevenvestiging die is gelegen in de gemeente van de hoofdvestiging. De gemeenteraad kan in de verordening, bedoeld in het eerste lid, aan burgemeester en wethouders de bevoegdheid verlenen om, met inachtneming van de in die verordening gestelde regels, te besluiten dat in de gemeente gelegen nevenvestigingen van scholen waarvan de hoofdvestiging is gelegen in een andere gemeente in afwijking van de eerste volzin in aanmerking komen voor een of meer van de in de regeling genoemde voorzieningen.   
 7.  Burgemeester en wethouders maken jaarlijks in een van overheidswege uitgegeven blad of een dag-, nieuws- of huis-aan-huisblad, dan wel op een andere geschikte wijze, een overzicht bekend van de op grond van de regeling, bedoeld in het eerste lid, toegekende voorzieningen.   
 
@@ -3032,8 +3044,8 @@ e. het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van
 3.  Van de in het eerste en tweede lid bedoelde verplichting kan Onze Minister op verzoek van het bevoegd gezag onderscheidenlijk het bestuur van de centrale dienst ontheffing verlenen op grond van bezwaren van godsdienstige of levensbeschouwelijke aard. Onze Minister verleent de ontheffing slechts, indien het bevoegd gezag onderscheidenlijk het bestuur van de centrale dienst aantoont dat een afdoende andere voorziening is getroffen met betrekking tot de kosten van werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../wet/werkloosheidswet/BWBR0004045/README.md). Onze Minister besluit binnen zes maanden na ontvangst van een verzoek. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze Minister de verzoeker daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
 4.  Het bestuur van de rechtspersoon stelt regels vast voor de behandeling, beoordeling en beantwoording van een verzoek van het bevoegd gezag onderscheidenlijk het bestuur van de centrale dienst als bedoeld in artikel 138, derde lid. Indien het bevoegd gezag onderscheidenlijk het bestuur van de centrale dienst zich beroept op overwegingen van godsdienstige of levensbeschouwelijke aard, betrekt het bestuur van de rechtspersoon die overwegingen bij de beoordeling van een in de eerste volzin bedoeld verzoek.   
 5.  Indien het bestuur van de rechtspersoon het in het vierde lid bedoelde verzoek heeft ingewilligd, vergoedt hij aan de instantie die de werkloosheidsuitkeringen, de suppleties inzake arbeidsongeschiktheid alsmede de uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../wet/werkloosheidswet/BWBR0004045/README.md) verstrekt of heeft verstrekt, de kosten van die uitkeringen of suppleties.   
-6.  Indien een werkloosheidsuitkering, een suppletie inzake arbeidsongeschiktheid alsmede een uitkering wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../wet/werkloosheidswet/BWBR0004045/README.md) van gewezen personeel van een school of een centrale dienst voortvloeit uit de inzet of een wijziging van de inzet van de in artikel 120, vierde lid, en artikel 132 bedoelde bekostiging ten opzichte van voorafgaande schooljaren, zijn de bevoegde gezagsorganen van alle scholen van het desbetreffende samenwerkingsverband hoofdelijk aansprakelijk voor het aan de rechtspersoon vergoeden van de kosten van de werkloosheidsuitkering, de suppletie inzake arbeidsongeschiktheid onderscheidenlijk de uitkering wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../wet/werkloosheidswet/BWBR0004045/README.md).   
-7.  Tegen een besluit van het bestuur van de rechtspersoon kan het bevoegd gezag onderscheidenlijk het bestuur van de centrale dienst beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
+6.  Indien een werkloosheidsuitkering, een suppletie inzake arbeidsongeschiktheid alsmede een uitkering wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../wet/werkloosheidswet/BWBR0004045/README.md) van gewezen personeel van een school of een centrale dienst voortvloeit uit de inzet of een wijziging van de inzet van de in artikel 120, vierde lid, en artikel 132 bedoelde bekostiging ten opzichte van voorafgaande schooljaren, zijn de bevoegde gezagsorganen van alle scholen van het desbetreffende samenwerkingsverband hoofdelijk aansprakelijk voor het aan de rechtspersoon vergoeden van de kosten van de werkloosheidsuitkering, de suppletie inzake arbeidsongeschiktheid onderscheidenlijk de uitkering wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de Ziektewet.   
+7.  Tegen een besluit van de rechtspersoon kan beroep worden ingesteld door het bevoegd gezag, onderscheidenlijk het bestuur van de centrale dienst.   
 8.  Op de rechtspersoon, bedoeld in het eerste lid, is de [Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing.   
 
 ### Artikel  184a  
@@ -3061,7 +3073,7 @@ d. de instantie, bedoeld in artikel 184, vijfde lid.
 ####Scholen voor kinderen trekkende bevolking
 
 1.  Bij algemene maatregel van bestuur worden regels gegeven, onderscheidenlijk voorwaarden gesteld, voor de bekostiging van scholen voor kinderen van wie de ouders een trekkend bestaan leiden, naar bij die algemene maatregel van bestuur aan te geven onderscheidingen.   
-2.  Op de scholen bekostigd krachtens het eerste lid, zijn de bepalingen van hoofdstuk I, titel I, van toepassing, tenzij bij de algemene maatregel van bestuur anders wordt bepaald. Bij de algemene maatregel van bestuur kunnen andere bepalingen van deze wet van overeenkomstige toepassing worden verklaard. Een belanghebbende kan beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State tegen een besluit op grond van bepalingen als bedoeld in artikel 71, die bij de algemene maatregel van bestuur ingevolge de vorige volzin van overeenkomstige toepassing zijn verklaard, dan wel tegen een besluit op grond van bepalingen van de algemene maatregel van bestuur die daarmee overeenkomen.   
+2.  Op de scholen bekostigd krachtens het eerste lid, zijn de bepalingen van hoofdstuk I, titel I, van toepassing, tenzij bij de algemene maatregel van bestuur anders wordt bepaald. Bij de algemene maatregel van bestuur kunnen andere bepalingen van deze wet van overeenkomstige toepassing worden verklaard.   
 3.  De algemene maatregel van bestuur bedoeld in het eerste lid, wordt aan de Tweede Kamer der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat 4 weken na de overlegging zijn verstreken en gedurende die termijn niet door of namens de Kamer de wens wordt te kennen gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Als dan wordt een daartoe strekkend wetsontwerp zo spoedig mogelijk ingediend.   
 
 ### Hoofdstuk  III  

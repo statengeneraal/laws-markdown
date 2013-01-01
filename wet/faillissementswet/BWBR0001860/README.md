@@ -123,7 +123,7 @@ Indien de faillietverklaring wordt vernietigd wordt de opzegging van een arbeids
 1.  Het vonnis van faillietverklaring houdt in de benoeming van een der leden van de rechtbank tot rechter-commissaris in het faillissement, en de aanstelling van een of meer curators. De rechter die de faillietverklaring uitspreekt, geeft in de uitspraak tevens last aan de curator tot het openen van aan de gefailleerde gerichte brieven en telegrammen. De rechtbank vermeldt op het vonnis het tijdstip van de faillietverklaring tot op de minuut nauwkeurig.   
 2.  Van de faillietverklaring wordt door de griffier onverwijld kennis gegeven aan het postvervoerbedrijf of de postvervoerbedrijven die zijn aangewezen als verlener van de universele postdienst, alsmede de andere geregistreerde postvervoerbedrijven, bedoeld in de [Postwet 2009](../../../wet/postwet/2009/BWBR0025572/README.md). In de kennisgeving wordt melding gemaakt van de in het vorige lid bedoelde last.   
 3.  Een uittreksel uit het vonnis van faillietverklaring, houdende vermelding van de naam, de woonplaats of het kantoor en het beroep van de gefailleerde, van de naam van de rechter-commissaris, van de naam en de woonplaats of het kantoor des curators, van de dag der uitspraak, alsmede van de naam, het beroep en de woonplaats of het kantoor van ieder lid der voorlopige commissie uit de schuldeisers, zo er een benoemd is, wordt door de curator onverwijld geplaatst in de *Nederlandsche Staatscourant*.   
-4.  Op verzoek van een curator in een insolventieprocedure op de voet van artikel 3, eerste of tweede lid, van de in artikel 5, derde lid, genoemde verordening geeft de griffier van de rechtbank te 's-Gravenhage onverwijld in de Staatscourant kennis van de in artikel 21 van die verordening bedoelde gegevens. Een zodanige kennisgeving vindt in elk geval plaats wanneer de schuldenaar in Nederland een vestiging heeft in de zin van artikel 1, onder h, van de in de eerste zin bedoelde verordening. De gegevens, bedoeld in de eerste zin, worden aan de griffier verstrekt in de Nederlandse, Engelse, Duitse of Franse taal.   
+4.  Op verzoek van een curator in een insolventieprocedure op de voet van artikel 3, eerste of tweede lid, van de in artikel 5, derde lid, genoemde verordening geeft de griffier van de rechtbank Den Haag onverwijld in de Staatscourant kennis van de in artikel 21 van die verordening bedoelde gegevens. Een zodanige kennisgeving vindt in elk geval plaats wanneer de schuldenaar in Nederland een vestiging heeft in de zin van artikel 1, onder h, van de in de eerste zin bedoelde verordening. De gegevens, bedoeld in de eerste zin, worden aan de griffier verstrekt in de Nederlandse, Engelse, Duitse of Franse taal.   
 
 ### Artikel  15  
 
@@ -211,7 +211,7 @@ De beschikking, bevelende de opheffing van het faillissement, wordt op dezelfde 
 
 ### Artikel  19b  
 
-In het geval, bedoeld in artikel 14, vierde lid, worden de gegevens met betrekking tot de daar bedoelde insolventieprocedure door de griffier van de rechtbank te 's-Gravenhage ingeschreven in het register, bedoeld in artikel 19, eerste lid, alsmede in het centrale register, bedoeld in artikel 19a, eerste lid.  
+In het geval, bedoeld in artikel 14, vierde lid, worden de gegevens met betrekking tot de daar bedoelde insolventieprocedure door de griffier van de rechtbank Den Haag ingeschreven in het register, bedoeld in artikel 19, eerste lid, alsmede in het centrale register, bedoeld in artikel 19a, eerste lid.  
 
 ### Tweede  afdeling  
 
@@ -235,7 +235,9 @@ Niettemin blijven buiten het faillissement:
 
 5°. het ingevolge [artikel 642c van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) in de kas der gerechtelijke consignaties gestorte bedrag;  
 
-6°. de goederen bedoeld in artikel 60a, derde lid.    
+6°. de goederen bedoeld in artikel 60a, derde lid;  
+
+7°. een aanspraak op het tegoed van een lijfrentespaarrekening of op de waarde van een lijfrentebeleggingsrecht als bedoeld in [artikel 1.7, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) voor zover de ter zake ingelegde bedragen voor de heffing van de inkomstenbelasting in aanmerking konden worden genomen voor de bepaling van het belastbare inkomen uit werk en woning.    
 
 ### Artikel  22  
 
@@ -525,8 +527,8 @@ Indien de opbrengst niet toereikend is om een pand- of hypotheekhouder of een de
 
 1.  De echtgenoot of geregistreerde partner van de gefailleerde neemt alle goederen die hem toebehoren en niet in de huwelijksgemeenschap onderscheidenlijk de gemeenschap van het geregistreerd partnerschap vallen, terug.   
 2.  De aanbrengst van de bij huwelijkse voorwaarden of bij voorwaarden van geregistreerd partnerschap buiten de gemeenschap gehouden rechten aan toonder en zaken die geen registergoederen zijn, kan slechts worden bewezen zoals bij [artikel 130 van Boek 1 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) ten opzichte van derden is voorgeschreven.   
-3.  Van de aan de echtgenoot of geregistreerde partner van de gefailleerde opgekomen rechten aan toonder en zaken die geen registergoederen zijn, ten aanzien waarvan bij uiterste wilsbeschikking van de erflater of bij de gift is bepaald dat zij buiten de gemeenschap vallen, moet, in geval van geschil, door beschrijving of bescheiden blijken. Hetzelfde geldt voor zodanige rechten en zaken, hem staande huwelijk of geregistreerd partnerschap bij erfenis, legaat of schenking opgekomen, die ingevolge de huwelijkse voorwaarden onderscheidenlijk de voorwaarden van geregistreerd partnerschap buiten de gemeenschap vallen.   
-4.  De goederen, voortgesproten uit de belegging of wederbelegging van gelden aan de echtgenoot of geregistreerde partner van de gefailleerde buiten de gemeenschap toebehorende, worden insgelijks door die echtgenoot onderscheidenlijk geregistreerde partner teruggenomen, mits de belegging of wederbelegging, in geval van geschil, door voldoende bescheiden, ten genoegen van de rechter, zij bewezen.   
+3.  Van de aan de echtgenoot of geregistreerde partner van de gefailleerde opgekomen rechten aan toonder en zaken die geen registergoederen zijn, welke ingevolge [artikel 94, tweede lid, onder a en c, van Boek 1 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) dan wel de huwelijkse voorwaarden onderscheidenlijk de voorwaarden van geregistreerd partnerschap buiten de gemeenschap vallen, moet, in geval van geschil, door beschrijving of bescheiden blijken.   
+4.  De goederen, voortgesproten uit de belegging of wederbelegging van gelden aan de echtgenoot of geregistreerde partner van de gefailleerde buiten de gemeenschap toebehorende, worden insgelijks door die echtgenoot onderscheidenlijk geregistreerde partner teruggenomen, mits de belegging of wederbelegging, in geval van geschil, door voldoende bescheiden, ten genoegen van de rechter, zij bewezen. Op de belegging of wederbelegging is [artikel 95, eerste lid, eerste volzin, van Boek 1 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) van toepassing.   
 5.  Indien de goederen aan de echtgenoot of geregistreerde partner van de gefailleerde toebehorende, door de gefailleerde zijn vervreemd, doch de koopprijs nog niet is betaald, of wel de kooppenningen nog onvermengd met de failliete boedel aanwezig zijn, kan de echtgenoot onderscheidenlijk geregistreerde partner zijn recht van terugneming op die koopprijs of op de voorhanden kooppenningen uitoefenen.   
 6.  Voor zijn persoonlijke schuldvorderingen treedt de echtgenoot of geregistreerde partner van de gefailleerde als schuldeiser op.   
 
@@ -706,7 +708,7 @@ Alle beschikkingen in zaken, het beheer of de vereffening des faillieten boedels
 
 ### Artikel  87  
 
-1.  De rechtbank kan bij het vonnis van faillietverklaring of te allen tijde daarna, doch in het laatste geval niet dan op voordracht van de rechter-commissaris, of op verzoek van de curator of van een of meer der schuldeisers en na de rechter-commissaris gehoord te hebben, bevelen, dat de gefailleerde, wegens het niet nakomen van verplichtingen welke de wet hem in verband met zijn faillissement oplegt, dan wel wegens gegronde vrees voor het niet nakomen van zodanige verplichtingen, in verzekerde bewaring worde gesteld, hetzij in een huis van bewaring, hetzij in zijn eigen woning onder het opzicht van een ambtenaar, aangesteld voor de uitvoering van de politietaak, of een andere ambtenaar, voorzover die ambtenaar behoort tot een categorie die daartoe door Onze Minister van Justitie is aangewezen.   
+1.  De rechtbank kan bij het vonnis van faillietverklaring of te allen tijde daarna, doch in het laatste geval niet dan op voordracht van de rechter-commissaris, of op verzoek van de curator of van een of meer der schuldeisers en na de rechter-commissaris gehoord te hebben, bevelen, dat de gefailleerde, wegens het niet nakomen van verplichtingen welke de wet hem in verband met zijn faillissement oplegt, dan wel wegens gegronde vrees voor het niet nakomen van zodanige verplichtingen, in verzekerde bewaring worde gesteld, hetzij in een huis van bewaring, hetzij in zijn eigen woning onder het opzicht van een ambtenaar van politie, aangesteld voor de uitvoering van de politietaak, of een andere ambtenaar, voorzover die ambtenaar behoort tot een categorie die daartoe door Onze Minister van Justitie is aangewezen.   
 2.  Het bevel hiertoe wordt door het Openbaar Ministerie ten uitvoer gelegd.   
 3.  Dit bevel is voor niet langer dan dertig dagen geldig, te rekenen van de dag waarop het ten uitvoer is gelegd. Aan het einde van die termijn kan de rechtbank, op voordracht van de rechter-commissaris of op een verzoek en na verhoor als in het eerste lid bedoeld, het bevel voor ten hoogste dertig dagen verlengen. Daarna kan hetzelfde telkens op dezelfde wijze voor ten hoogste dertig dagen geschieden.   
 4.  De in het eerste lid bedoelde ambtenaar die door het Openbaar Ministerie is aangewezen om zijn medewerking te verlenen aan de tenuitvoerlegging van het bevel, is bevoegd elke plaats te betreden, voorzover dat redelijkerwijs voor de vervulling van zijn taak nodig is.   
@@ -1377,7 +1379,7 @@ Schuldeisers, die na de faillietverklaring hun vordering geheel of gedeeltelijk 
 
 ### Artikel  206  
 
-Nadat het faillissement overeenkomstig de artikelen 161 of 193 geëindigd is, is de schuldenaar of zijn zijn erfgenamen, bevoegd een verzoek van rehabilitatie in te leveren bij de rechtbank, die het faillissement heeft berecht.  
+Nadat het faillissement overeenkomstig de artikelen 161 of 193 geëindigd is, is de schuldenaar of zijn zijn erfgenamen bevoegd een verzoek van rehabilitatie in te leveren bij de rechtbank, die het faillissement heeft berecht.  
 
 ### Artikel  207  
 
@@ -1414,13 +1416,13 @@ Voor de toepassing van deze afdeling en afdeling 11AA wordt verstaan onder:
 
 a. instelling: 
 
-1°. een kredietinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+1°. een bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
 2°. een financiële instelling die een verklaring van ondertoezichtstelling als bedoeld in [artikel 3:110, eerste lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft;  
 
 3°. een beleggingsonderneming als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-4°. een centrale tegenpartij, indien deze in het kader van deelname aan het systeem op grond van een overboekingsopdracht effectentegoeden verkrijgt;  
+4°. een centrale tegenpartij, indien deze in het kader van deelname aan het systeem op grond van een overboekingsopdracht tegoeden in financiële instrumenten verkrijgt;  
 
 5°. een overheidsinstantie of onderneming met overheidsgarantie;  
 
@@ -1450,15 +1452,15 @@ h. centrale bank: een centrale bank van een lidstaat van de Europese Unie, de ce
 
 i. bijkantoor: een duurzaam in een andere staat dan de staat van de zetel aanwezig onderdeel zonder rechtspersoonlijkheid van een instelling;  
 
-j. effect: een effect als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+j. financieel instrument: een financieel instrument als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-k. overboekingsopdracht: een opdracht door een deelnemer om door middel van een boeking op de rekeningen van een kredietinstelling, een centrale bank, een centrale tegenpartij of een afwikkelende instantie een geldsom ter beschikking van een ontvanger te stellen, of iedere opdracht die resulteert in het op zich nemen of het nakomen van een betalingsverplichting zoals gedefinieerd in de regels van het systeem, dan wel een opdracht door een deelnemer om door middel van een boeking in een register of anderszins, de rechten op of de rechten ten aanzien van één of meer effecten over te boeken;  
+k. overboekingsopdracht: een opdracht door een deelnemer om door middel van een boeking op de rekeningen van een bank, een centrale bank, een centrale tegenpartij of een afwikkelende instantie een geldsom ter beschikking van een ontvanger te stellen, of iedere opdracht die resulteert in het op zich nemen of het nakomen van een betalingsverplichting zoals gedefinieerd in de regels van het systeem, dan wel een opdracht door een deelnemer om door middel van een boeking in een register of anderszins, de rechten op of de rechten ten aanzien van één of meer financiële instrumenten over te boeken;  
 
 1. insolventieprocedure: elke collectieve maatregel waarin de wetgeving van een lidstaat of van een derde land voorziet, met het oog op de liquidatie of de sanering van de deelnemer indien een dergelijke maatregel gepaard gaat met opschorting van, of oplegging van beperkingen aan overboekingen en betalingen;  
 
 m. verrekening: het in één nettovordering of nettoverplichting omzetten van vorderingen en verplichtingen die voortvloeien uit overboekingsopdrachten die een deelnemer geeft aan of ontvangt van, dan wel die deelnemers geven aan of ontvangen van, één of meer andere deelnemers, met als gevolg dat er alleen een nettovordering of een nettoverplichting ontstaat;  
 
-n. afwikkelingsrekening: een rekening bij een centrale bank, een afwikkelende instantie of een centrale tegenpartij, die gebruikt wordt voor het houden van geld of effecten en waarmee ook transacties tussen deelnemers aan een systeem worden afgewikkeld;  
+n. afwikkelingsrekening: een rekening bij een centrale bank, een afwikkelende instantie of een centrale tegenpartij, die gebruikt wordt voor het houden van geld of financiële instrumenten en waarmee ook transacties tussen deelnemers aan een systeem worden afgewikkeld;  
 
 o. werkdag: de periode voor afwikkeling zowel overdag als ’s nachts, en die alle gebeurtenissen omvat die tijdens de bedrijfscyclus van een systeem plaatsvinden;  
 
@@ -1477,17 +1479,25 @@ q. systeemexploitant: een door de Minister van Financiën op grond van artikel 2
 ### Artikel  212c  
 
 1.  De griffier van de rechtbank stelt De Nederlandsche Bank N.V. terstond in kennis van de faillietverklaring.   
-2.  De Nederlandsche Bank N.V. stelt daarna terstond de door de Minister van Financiën op grond van artikel 212d aangewezen systemen, alsmede de bevoegde autoriteiten van de overige lidstaten van de Europese Unie en van de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, in kennis van de faillietverklaring.   
+2.  De Nederlandsche Bank N.V. stelt daarna terstond de door de Minister van Financiën op grond van artikel 212d aangewezen systemen, alsmede de bevoegde autoriteiten van de overige lidstaten van de Europese Unie en van de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, alsmede het Europees Comité voor systeemrisico’s en de Europese autoriteit voor effecten en markten, in kennis van de faillietverklaring.   
 
 ### Artikel  212d  
 
-1.  De Minister van Financiën kan, De Nederlandsche Bank N.V. gehoord, als systeemexploitant en het onderscheiden systeem aanwijzen een formele overeenkomst tussen drie of meer deelnemers, de systeemexploitant, een afwikkelende instantie, een centrale tegenpartij, een verrekeningsinstituut of een indirecte deelnemer niet meegerekend, met gemeenschappelijke regels en standaardprocedures voor de clearing of het uitvoeren van overboekingsopdrachten tussen de deelnemers, waarop het recht van toepassing is van een door de deelnemers gekozen lidstaat van de Europese Unie waarin ten minste één van de deelnemers zijn hoofdvestiging heeft. Als systeemexploitant kan worden aangewezen een entiteit of entiteiten die wettelijk aansprakelijk is of zijn voor de werking van een systeem.   
-2.  Indien dit noodzakelijk is met het oog op het vermijden van systeemrisico's, kan de Minister van Financiën, De Nederlandsche Bank N.V. gehoord, als systeem aanwijzen een formele overeenkomst tussen twee deelnemers, een afwikkelende instantie, een centrale tegenpartij, een verrekeningsinstituut of een indirecte deelnemer niet meegerekend, met gemeenschappelijke regels en standaardprocedures voor het uitvoeren van overboekingsopdrachten tussen de deelnemers, waarop het recht van toepassing is van een door de deelnemers gekozen lidstaat waarin ten minste één van de deelnemers zijn hoofdvestiging heeft.   
+1.  De Minister van Financiën kan, De Nederlandsche Bank N.V. gehoord, als systeemexploitant en het onderscheiden systeem aanwijzen een formele overeenkomst tussen drie of meer deelnemers, de systeemexploitant, een afwikkelende instantie, een centrale tegenpartij, een verrekeningsinstituut of een indirecte deelnemer niet meegerekend, met gemeenschappelijke regels en standaardprocedures voor de clearing of het uitvoeren van overboekingsopdrachten tussen de deelnemers, mits: 
+
+a. de deelnemers het Nederlandse recht hebben gekozen als het recht dat op die overeenkomst van toepassing is; en  
+
+b. ten minste een van de deelnemers zijn hoofdvestiging in Nederland heeft.   Als systeemexploitant kan worden aangewezen een entiteit of entiteiten die wettelijk aansprakelijk is of zijn voor de werking van een systeem.   
+2.  Indien dit noodzakelijk is met het oog op het vermijden van systeemrisico's, kan de Minister van Financiën, De Nederlandsche Bank N.V. gehoord, als systeem aanwijzen een formele overeenkomst tussen twee deelnemers, een afwikkelende instantie, een centrale tegenpartij, een verrekeningsinstituut of een indirecte deelnemer niet meegerekend, met gemeenschappelijke regels en standaardprocedures voor het uitvoeren van overboekingsopdrachten tussen de deelnemers, mits: 
+
+a. de deelnemers het Nederlandse recht hebben gekozen als het recht dat op die overeenkomst van toepassing is; en  
+
+b. ten minste een van de deelnemers zijn hoofdvestiging in Nederland heeft.      
 3.  Een tussen interoperabele systemen gesloten overeenkomst vormt geen systeem.   
 4.  Aan de beschikking tot aanwijzing als systeem en aan de beschikking tot aanwijzing als systeemexploitant kan de Minister van Financiën voorschriften verbinden.   
 5.  De systeemexploitant stelt de Minister van Financiën in kennis van de instellingen die direct of indirect deelnemen aan het systeem, alsmede van elke aanvang of beëindiging van deelname door een instelling aan het systeem.   
 6.  Van een beschikking als bedoeld in het eerste lid wordt in de Staatscourant mededeling gedaan.   
-7.  De Minister van Financiën meldt de aangewezen systemen aan bij de Commissie van de Europese Gemeenschappen.   
+7.  De Minister van Financiën meldt de aangewezen systemen aan bij de Europese autoriteit voor effecten en markten.   
 8.  Een instelling deelt desgevraagd een ieder die een gerechtvaardigd belang heeft mee aan welke systemen de instelling deelneemt en verstrekt informatie over de belangrijkste regels die gelden voor de werking van die systemen.   
 
 ### Artikel  212e  
@@ -1496,72 +1506,187 @@ Ingeval een insolventieprocedure wordt geopend tegen een instelling, worden de r
 
 ### Afdeling  11AA  
 
-####Van het faillissement van een kredietinstelling
+####Van het faillissement van een bank
 
 ### §  1  
 
-####In Nederland gevestigde kredietinstellingen en buiten de Europese Economische Ruimte gevestigde kredietinstellingen met bijkantoor in Nederland
+####In Nederland gevestigde bank en buiten de Europese Economische Ruimte gevestigde bank met bijkantoor in Nederland
 
 ### Artikel  212g  
 
 1.  Voor de toepassing van deze afdeling wordt verstaan onder: 
 
-a. kredietinstelling: een kredietinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+a. bank: bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-b. liquidatieprocedure: een collectieve procedure, het faillissement daaronder begrepen, geopend in een lidstaat, die het te gelde maken van de activa van een kredietinstelling en het op toepasselijke wijze verdelen van de opbrengst onder de schuldeisers, aandeelhouders of leden behelst, en die noodzakelijkerwijs een optreden van administratieve of rechterlijke instanties behelst, daaronder begrepen de collectieve procedure die wordt afgesloten met een gerechtelijk akkoord of een andere maatregel van dezelfde strekking;  
+b. liquidatieprocedure: een collectieve procedure, het faillissement daaronder begrepen, geopend in een lidstaat, die het te gelde maken van de activa van een bank en het op toepasselijke wijze verdelen van de opbrengst onder de schuldeisers, aandeelhouders of leden behelst, en die noodzakelijkerwijs een optreden van administratieve of rechterlijke instanties behelst, daaronder begrepen de collectieve procedure die wordt afgesloten met een gerechtelijk akkoord of een andere maatregel van dezelfde strekking;  
 
 c. lidstaat: een staat die lid is van de Europese Unie alsmede een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij de overeenkomst betreffende de Europese Economische Ruimte (Trb. 1992, 132);  
 
-d. lidstaat van herkomst: ingeval de kredietinstelling een rechtspersoon is, de lidstaat waarin aan een kredietinstelling haar zetel heeft, dan wel, ingeval de kredietinstelling geen rechtspersoon is, de lidstaat waar zij haar hoofdbestuur heeft;  
+d. lidstaat van herkomst: ingeval de bank een rechtspersoon is, de lidstaat waarin aan een bank haar zetel heeft, dan wel, ingeval de bank geen rechtspersoon is, de lidstaat waar zij haar hoofdbestuur heeft;  
 
 e. bevoegde instanties: de administratieve of rechterlijke instanties die bevoegd zijn ter zake van liquidatieprocedures;  
 
 f. toezichthoudende autoriteit: de instantie die in een lidstaat bij of krachtens de wet met het toezicht op het kredietwezen is belast;  
 
-g. curator: de curator of elke andere persoon of ander orgaan, aangewezen door de bevoegde instanties van een andere lidstaat dan Nederland of door een bestuursorgaan van de kredietinstelling om de liquidatieprocedure uit te voeren;  
+g. curator: de curator of elke andere persoon of ander orgaan, aangewezen door de bevoegde instanties van een andere lidstaat dan Nederland of door een bestuursorgaan van de bank om de liquidatieprocedure uit te voeren;  
 
-h. financiële instrumenten: instrumenten, bedoeld in deel B van de bijlage bij richtlijn nr. 93/22/EEG van de Raad van de Europese Gemeenschappen van 10 mei 1993 betreffende het verrichten van diensten op het gebied van beleggingen in effecten (PbEG L 141).     
-2.  Voor de toepassing van deze afdeling is een kredietinstelling gevestigd in: 
+h. financiële instrumenten: instrumenten, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+i. deposito: een deposito als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+j. gegarandeerd deposito: een deposito voor zover dit voor vergoeding ingevolge het depositogarantiestelsel, bedoeld in [artikel 3:259, tweede lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in aanmerking komt;  
+
+k. deposito-overeenkomst: de overeenkomst op grond waarvan een depositohouder een deposito houdt bij een bank;  
+
+l. overnemer: degene die deposito-overeenkomsten, activa of passiva anders dan uit hoofde van deposito-overeenkomsten overneemt, degene die bereid is zulks te doen en degene die onderzoekt of hij daartoe bereid is.     
+2.  Voor de toepassing van deze afdeling is een bank gevestigd in: 
 
 a. de staat waar de statutaire zetel is, indien het een rechtspersoon betreft die overeenkomstig het toepasselijke recht een statutaire zetel heeft; en  
 
-b. de staat waar haar zij haar hoofdbestuur heeft en zij feitelijk werkzaam is, indien het een andere kredietinstelling betreft dan de kredietinstelling, bedoeld in onderdeel a.     
+b. de staat waar haar zij haar hoofdbestuur heeft en zij feitelijk werkzaam is, indien het een andere bank betreft dan de bank, bedoeld in onderdeel a.     
 
 ### Artikel  212h  
 
-1.  In afwijking van artikel 2, eerste lid, geschiedt de faillietverklaring van een in Nederland gevestigde kredietinstelling door de rechtbank Amsterdam.   
-2.  Een in een andere lidstaat dan Nederland gevestigde kredietinstelling die daar een vergunning heeft verkregen kan in Nederland niet in staat van faillissement worden verklaard.   
+1.  In afwijking van artikel 2, eerste lid, geschiedt de faillietverklaring van een in Nederland gevestigde bank door de rechtbank Amsterdam.   
+2.  Een in een andere lidstaat dan Nederland gevestigde bank die daar een vergunning heeft verkregen kan in Nederland niet in staat van faillissement worden verklaard.   
 3.  Het eerste lid is, in afwijking van artikel 2, tweede tot en met vierde lid, van overeenkomstige toepassing op de faillietverklaring van: 
 
 a. een in een andere lidstaat dan Nederland gevestigde kredietinstelling die in die lidstaat geen vergunning heeft verkregen, en die haar bedrijf uitoefent vanuit een in Nederland gelegen bijkantoor; en  
 
 b. een in een staat die geen lidstaat is gevestigde kredietinstelling die haar bedrijf uitoefent vanuit een in Nederland gelegen bijkantoor.     
 
+### Artikel  212ha  
+
+1.  Ingeval De Nederlandsche Bank N.V. oordeelt dat er ten aanzien van een bank die een vergunning als bedoeld in [artikel 2:11 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft tekenen van een gevaarlijke ontwikkeling zijn met betrekking tot het eigen vermogen, de solvabiliteit of de liquiditeit en redelijkerwijs is te voorzien dat die ontwikkeling niet voldoende of niet tijdig ten goede zal keren, kan zij de rechtbank Amsterdam verzoeken ten aanzien van die bank het faillissement uit te spreken.   
+2.  Een ander dan De Nederlandsche Bank N.V. of een in een noodregeling benoemde bewindvoerder kan niet het faillissement van een bank die een door De Nederlandsche Bank N.V. verleende vergunning heeft aanvragen.   
+3.  Een bank die een door De Nederlandsche Bank N.V. verleende vergunning heeft kan aangifte doen van haar eigen faillissement. In dat geval stelt de rechtbank De Nederlandsche Bank N.V. in staat te worden gehoord alvorens te beslissen op de aangifte.   
+
+### Artikel  212hb  
+
+Indien het belang van de gezamenlijke schuldeisers bij de afwikkeling van een bank met zetel in Nederland die niet een door De Nederlandsche Bank N.V. verleende vergunning heeft een bijzondere voorziening behoeft kan de rechtbank Amsterdam op verzoek van De Nederlandsche Bank N.V. het faillissement uitspreken.  
+
+### Artikel  212hc  
+
+De Nederlandsche Bank N.V. kan bij haar verzoek een overdrachtsplan als bedoeld in [artikel 3:159c, tweede lid, aanhef en onderdeel a, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) overleggen met het verzoek het overdrachtsplan goed te keuren.  
+
+### Artikel  212hd  
+
+De Nederlandsche Bank N.V. zendt een afschrift van het verzoekschrift aan de bank en geeft kennis van de inhoud van het verzoekschrift aan de toezichthoudende instanties van de andere lidstaten waar een bijkantoor van de bank is gelegen of waarnaar zij diensten verricht vanuit haar vestigingen in een andere lidstaat.  
+
+### Artikel  212he  
+
+De rechtbank behandelt het verzoek van De Nederlandsche Bank N.V. tot het uitspreken van het faillissement of een aangifte door de bank met de meeste spoed op een niet openbare terechtzitting op de voet van de rechtspleging in burgerlijke zaken, voorzover daarvan bij deze wet niet is afgeweken.  
+
+### Artikel  212hf  
+
+1.  De bank kan, na in de gelegenheid te zijn gesteld te worden gehoord, zich verweren tegen: 
+
+a. beslissingen als bedoeld in [artikel 3:159d, tweede lid van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+b. beslissingen als bedoeld in [artikel 3:159f, eerste lid, van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+c. beslissingen als bedoeld in de [artikelen 1:75](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [1:76 van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die zijn genomen nadat De Nederlandsche Bank N.V. een mededeling als bedoeld in [artikel 3:159d, eerste lid, van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft gedaan;  
+
+d. het oordeel van De Nederlandsche Bank N.V. dat zich een situatie als bedoeld in artikel 212ha, eerste lid, voordoet.     
+2.  Ingeval een bank zich heeft verweerd tegen een beslissing of oordeel als bedoeld in het eerste lid, verklaart de rechtbank dat verweer uitsluitend dan gegrond indien De Nederlandsche Bank N.V. in redelijkheid niet tot die beslissing of dat oordeel heeft kunnen komen.   
+
+### Artikel  212hg  
+
+1.  De rechtbank spreekt het faillissement uit indien summierlijk blijkt dat zich een situatie, als bedoeld in artikel 212ha, eerste lid, voordoet.   
+2.  Ingeval De Nederlandsche Bank N.V. een overdrachtsplan als bedoeld in artikel 212hc heeft overgelegd, keurt de rechtbank het overdrachtsplan goed, tenzij de in het overdrachtsplan genoemde prijs of wijze waarop de prijs die de overnemer bereid is te betalen wordt vastgesteld, gegeven de omstandigheden van het geval, niet een redelijke prijs of wijze is. Bij het vaststellen of de prijs of wijze redelijk is wordt uitgegaan van het te verwachten toekomstperspectief van de bank in de situatie dat het overdrachtsplan niet wordt goedgekeurd.   
+3.  Onverminderd het tweede lid, keurt de rechtbank het plan met betrekking tot de overdracht van activa of passiva goed, tenzij schuldeisers daardoor zouden worden benadeeld.   
+
+### Artikel  212hh*  
+
+1.  Bij het uitspreken van het faillissement benoemt de rechtbank een van haar leden tot rechter-commissaris en benoemt zij een of meer curatoren. De Nederlandsche Bank N.V. kan voor de benoeming van de curator of curatoren voordrachten doen.   
+2.  Indien het verzoek wordt toegewezen, wordt de beschikking op een openbare terechtzitting uitgesproken en wordt een uittreksel ervan onverwijld door de curator bekendgemaakt in de Staatscourant, het Publicatieblad van de Europese Unie, alsmede in ten minste twee door de rechtbank aan te wijzen Nederlandse dagbladen en ten minste twee door de rechtbank aan te wijzen landelijke dagbladen van iedere lidstaat waar een bijkantoor van de bank is gelegen of waarnaar zij diensten verricht. De uittreksels vermelden naam en zetel van de bank, de woonplaats of het kantoor van de curator alsmede de datum van de beschikking. De publicatie in de landelijke dagbladen geschiedt in de officiële taal of talen van de betrokken lidstaat. In de bekendmaking in het Publicatieblad van de Europese Unie en de landelijke dagbladen van iedere lidstaat waar de bank een bijkantoor heeft of waarnaar zij diensten verricht wordt daarenboven vermeld dat op het faillissement, behoudens uitzonderingen, Nederlands recht van toepassing is, de rechtsgrondslag, dat De Nederlandsche Bank N.V. de bevoegde toezichthouder is, alsmede de uiterste datum waarop tegen de beschikking beroep in cassatie kan worden ingesteld met vermelding van het volledige adres van de Hoge Raad en het onderwerp van de beschikking.   
+
+### Artikel  212hi  
+
+1.  Een beschikking als bedoeld in artikel 212hb of 212hg, eerste lid, is uitvoerbaar bij voorraad.   
+2.  In afwijking van artikel 8, eerste lid, staat geen hoger beroep open tegen het uitspreken van het faillissement indien de rechtbank eveneens een verzoek om goedkeuring van een overdrachtsplan als bedoeld in artikel 212hc heeft toegewezen.   
+3.  Artikel 10 is niet van toepassing.   
+
+### Artikel  212hj  
+
+De [artikelen 3:159k](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:159l](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [3:159p van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn van overeenkomstige toepassing.  
+
+### Artikel  212hk  
+
+1.  Ingeval De Nederlandsche Bank N.V. bij haar verzoek tot faillietverklaring geen overdrachtsplan als bedoeld in [artikel 3:159c, tweede lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft overgelegd of indien zij dat wel heeft gedaan maar de rechtbank het overdrachtsplan niet heeft goedgekeurd, kan De Nederlandsche Bank N.V. alsnog of opnieuw een overdrachtsplan voorbereiden.   
+2.  Het overdrachtsplan kan betrekking hebben op de overdracht van deposito-overeenkomsten en activa of passiva anders dan uit hoofde van deposito-overeenkomsten.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het overdrachtsplan en de voorbereiding daarvan.   
+
+### Artikel  212hl  
+
+1.  Indien De Nederlandsche Bank N.V. een overdrachtsplan voorbereidt, deelt zij dat terstond na aanvang van de voorbereiding mede aan de curator.   
+2.  Nadat De Nederlandsche Bank N.V. de mededeling, bedoeld in het eerste lid, heeft gedaan, kan zij, onverminderd hetgeen is bepaald in de [artikelen 5:15](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de curator verplichten: 
+
+a. gegevens of inlichtingen te verschaffen aan: 
+
+1°. een door De Nederlandsche Bank N.V. met name genoemde overnemer en deskundigen die de overnemer bijstaan; en  
+
+2°. door De Nederlansche Bank N.V. met name genoemde deskundigen die De Nederlandsche Bank N.V. bijstaan bij de voorbereiding van het overdrachtsplan; en    
+
+b. toe te staan dat de door De Nederlandsche Bank N.V. met name genoemde overnemer en in onderdeel a van dit lid genoemde personen elke plaats met uitzondering van een woning van de bank betreden.     
+3.  De personen, bedoeld in het tweede lid, maken van de medewerking, gegevens of inlichtingen, bedoeld in het tweede lid, gebruik en betreden de plaats, bedoeld in het tweede lid, slechts voor zover dat redelijkerwijs in verband met de voorbereiding van het overdrachtsplan nodig is.   
+4.  [Artikel 1:89 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van overeenkomstige toepassing op personen die op grond van het tweede lid vertrouwelijke gegevens of inlichtingen hebben verkregen.   
+5.  Onverminderd het eerste lid, is het een ieder verboden, al dan niet op grond van de wet of enige overeenkomst, aan de voorbereiding van het overdrachtsplan bekendheid te geven.   
+6.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot hetgeen is bepaald in het derde, vierde en vijfde lid.   
+7.  De curator, de bank en een onderneming die tot de groep behoort waartoe ook de bank behoort waarop De Nederlandsche Bank N.V. toezicht houdt, alsmede de personen, bedoeld in het tweede lid, en de overnemer zijn uitgezonderd van alle bij of krachtens de wet geldende verplichtingen tot openbaarmaking van gegevens of inlichtingen, bedoeld in het tweede lid, tot aan het moment waarop het overdrachtsplan is goedgekeurd.   
+
+### Artikel  212hm  
+
+Na de mededeling, bedoeld in artikel 212hl, eerste lid, verleent de curator alle medewerking aan de voorbereiding van het overdrachtsplan.  
+
+### Artikel  212hn  
+
+1.  De [artikelen 3:159g tot en met 3:159p van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn van overeenkomstige toepassing.   
+2.  Indien De Nederlandsche Bank N.V. op grond van artikel 212hk een overdrachtsplan heeft voorbereid, kan zij de rechtbank Amsterdam verzoeken het overdrachtsplan goed te keuren.   
+
+### Artikel  212ho  
+
+1.  De rechtbank behandelt het verzoek van De Nederlandsche Bank N.V. om goedkeuring van het overdrachtsplan met de meeste spoed op een niet openbare terechtzitting op de voet van de rechtspleging in burgerlijke zaken, voor zover daarvan bij deze wet niet is afgeweken.   
+2.  De rechtbank keurt het overdrachtsplan goed tenzij de in het overdrachtsplan genoemde prijs of wijze waarop de prijs die de overnemer bereid is te betalen wordt vastgesteld, gegeven de omstandigheden van het geval, niet een redelijke prijs of wijze is.   
+
+### Artikel  212hp  
+
+De curator voert het overdrachtsplan uit zo spoedig mogelijk nadat de rechtbank het heeft goedgekeurd.  
+
+### Artikel  212hq  
+
+1.  De Nederlandsche Bank N.V. kan, in overleg met de curator, de rechtbank Amsterdam verzoeken om een reeds goedgekeurd overdrachtsplan aan te passen. [Artikel 3:159ij, tweede en derde lid](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), is van overeenkomstige toepassing op de goedkeuring van de wijziging.   
+2.  Ingeval de rechtbank de aanpassing niet goedkeurt, wijst zij het verzoek om aanpassing van het overdrachtsplan af en blijft het overdrachtsplan ongewijzigd in stand.   
+3.  De artikelen 212hd tot en met 212hh en 212hk, tweede lid, tot en met 212hp zijn van overeenkomstige toepassing op de aanpassing van het overdrachtsplan.   
+
+### Artikel  212hr  
+
+De artikelen 212ha tot en met 212hq zijn van overeenkomstige toepassing op een in Nederland gelegen bijkantoor van een bank met zetel in een staat die geen lidstaat is.  
+
 ### Artikel  212i  
 
-De Nederlandsche Bank N.V. kan een verzoek om een kredietinstelling in staat van faillissement te verklaren zonder tussenkomst van een advocaat indienen.  
+De Nederlandsche Bank N.V. kan een verzoek om een bank in staat van faillissement te verklaren zonder tussenkomst van een advocaat indienen.  
 
 ### Artikel  212j  
 
-De Nederlandsche Bank N.V. zendt een afschrift van haar verzoekschrift aan de kredietinstelling en geeft van de inhoud daarvan kennis aan: 
+De Nederlandsche Bank N.V. zendt een afschrift van haar verzoekschrift aan de bank en geeft van de inhoud daarvan kennis aan: 
 
-a. de toezichthoudende autoriteiten van de andere lidstaten waar de kredietinstelling een bijkantoor heeft of waarheen zij diensten verricht vanuit de vestigingen in de Europese Unie, indien het een in Nederland gevestigde kredietinstelling betreft;  
+a. de toezichthoudende autoriteiten van de andere lidstaten waar de bank een bijkantoor heeft of waarheen zij diensten verricht vanuit de vestigingen in de Europese Unie, indien het een in Nederland gevestigde bank betreft;  
 
-b. de toezichthoudende autoriteiten van de andere Lidstaten waarheen zij diensten verricht vanuit een bijkantoor in Nederland indien het een buiten de Europese Unie gevestigde kredietinstelling betreft.    
+b. de toezichthoudende autoriteiten van de andere Lidstaten waarheen zij diensten verricht vanuit een bijkantoor in Nederland indien het een buiten de Europese Unie gevestigde bank betreft.    
 
 ### Artikel  212k  
 
-1.  Op een verzoek tot faillietverklaring van een kredietinstelling, eigen aangifte daaronder begrepen, wordt niet beslist dan nadat de rechtbank De Nederlandsche Bank N.V. in de gelegenheid heeft gesteld haar mening daaromtrent kenbaar te maken.   
-2.  De Nederlandsche Bank N.V. trekt de vergunning van de kredietinstelling in, indien deze op het tijdstip van de faillietverklaring nog een vergunning heeft.   
+De Nederlandsche Bank N.V. trekt de vergunning van de bank in, indien deze op het tijdstip van de faillietverklaring nog een vergunning heeft.  
 
 ### Artikel  212l  
 
-1.  Wanneer een verzoek tot het uitspreken van de noodregeling in de zin van de [Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), aanhangig is tegelijk met een verzoek tot faillietverklaring, eigen aangifte daaronder begrepen, wordt de behandeling van het verzoek tot faillietverklaring geschorst, totdat op het verzoek tot het uitspreken van de noodregeling is beschikt.   
-2.  Wordt een verklaring als bedoeld in [artikel 3:160, eerste of tweede lid](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 3:206, eerste of tweede lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gegeven, dan vervalt het verzoek tot faillietverklaring van rechtswege.   
+1.  Wanneer een verzoek tot het uitspreken van de overdrachtsregeling of de noodregeling in de zin van de [Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aanhangig is tegelijk met een eigen aangifte door de bank, wordt de behandeling van de aangifte geschorst totdat op het verzoek tot het uitspreken van de overdrachtsregeling onderscheidenlijk de noodregeling is beschikt.   
+2.  Indien de rechtbank de overdrachtsregeling of de noodregeling uitspreekt, vervalt de eigen aangifte door de bank van rechtswege.   
 
 ### Artikel  212m  
 
-1.  Nadat de rechtbank een noodregeling als bedoeld in [artikel 3:160 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft uitgesproken, kan zij in afwijking van artikel 1, de Nederlandsche Bank N.V. gehoord, op verzoek van de bewindvoerders, op voordracht van de rechter-commissaris of ambtshalve, de desbetreffende kredietinstelling met zetel in Nederland in staat van faillissement verklaren indien blijkt dat deze een negatief eigen vermogen heeft en het met de verleende machtiging te bereiken doel is verwezenlijkt of niet meer kan worden verwezenlijkt of, indien geen machtiging is verleend, geen redelijk vooruitzicht meer bestaat dat het met een machtiging te bereiken doel alsnog kan worden verwezenlijkt.   
+1.  Nadat de rechtbank een noodregeling als bedoeld in [artikel 3:160 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft uitgesproken, kan zij in afwijking van artikel 1, de Nederlandsche Bank N.V. gehoord, op verzoek van de bewindvoerders, op voordracht van de rechter-commissaris of ambtshalve, de desbetreffende bank met zetel in Nederland in staat van faillissement verklaren indien blijkt dat deze een negatief eigen vermogen heeft en het met de verleende machtiging te bereiken doel is verwezenlijkt of niet meer kan worden verwezenlijkt of, indien geen machtiging is verleend, geen redelijk vooruitzicht meer bestaat dat het met een machtiging te bereiken doel alsnog kan worden verwezenlijkt.   
 2.  De noodregeling en de machtiging houden van rechtswege op van kracht te zijn ingeval de financiële onderneming, bedoeld in het eerste lid, in staat van faillissement wordt verklaard.   
 3.  Alsdan, zomede indien de faillietverklaring wordt uitgesproken binnen vier weken na de beëindiging van de noodregeling, gelden de volgende bepalingen: 
 
@@ -1573,14 +1698,16 @@ c. het tijdstip waarop de termijnen, vermeld in de [artikelen 138, zesde lid](..
 
 d. handelingen, ingevolge [artikel 3:175 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) door of namens de bewindvoerders, bedoeld in [dat artikel](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), verricht gedurende de tijd dat de noodregeling van kracht was, worden beschouwd als handelingen van de curator;  
 
-e. de boedel is niet aansprakelijk voor verbintenissen van de kredietinstelling die in strijd met [artikel 3:175, eerste en zesde lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn aangegaan gedurende de tijd dat de noodregeling van kracht was, dan voorzover deze daardoor is gebaat; en  
+e. de boedel is niet aansprakelijk voor verbintenissen van de bank die in strijd met [artikel 3:175, eerste en zesde lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn aangegaan gedurende de tijd dat de noodregeling van kracht was, dan voorzover deze daardoor is gebaat;  
 
-f. indien de uitvoering van de vangnetregeling is aangevangen onder de noodregeling, wordt deze tijdens het faillissement voortgezet op de voet van [afdeling 3.5.6 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).     
+f. indien de uitvoering van de vangnetregeling is aangevangen onder de noodregeling, wordt deze tijdens het faillissement voortgezet op de voet van [afdeling 3.5.6 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); en  
+
+g. indien de rechtbank een overdrachtsplan heeft goedgekeurd door het uitspreken van de overdrachtsregeling, bedoeld in [artikel 3:159u van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of met het uitspreken van de noodregeling, voert de curator het overdrachtsplan uit onderscheidenlijk zet hij de door de overdrager of bewindvoerder aangevangen uitvoering van het overdrachtsplan voort.     
 4.  Het bepaalde in de eerste titel en artikel 362 is van overeenkomstige toepassing.   
 
 ### Artikel  212ma  
 
-Indien een kredietinstelling in staat van faillissement wordt verklaard zonder dat artikel 212m, eerste of derde lid, tot toepassing is gekomen, is [afdeling 3.5.6 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van overeenkomstige toepassing.  
+Indien een bank in staat van faillissement wordt verklaard zonder dat artikel 212m, eerste of derde lid, tot toepassing is gekomen, is [afdeling 3.5.6 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van overeenkomstige toepassing.  
 
 ### Artikel  212n  
 
@@ -1588,7 +1715,7 @@ Na de inkennisstelling, bedoeld in artikel 212c, stelt De Nederlandsche Bank N.V
 
 ### Artikel  212o  
 
-1.  Onverminderd artikel 14, derde lid, plaatst de curator het uittreksel van het vonnis van faillietverklaring en, indien de verklaring als bedoeld in [artikel 3:160, eerste of tweede lid](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 3:206, eerste of tweede lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is ingetrokken, van die intrekking, in het Publicatieblad van de Europese Unie, alsmede in ten minste twee landelijke dagbladen van iedere andere lidstaat dan Nederland waar de kredietinstelling een bijkantoor heeft of waarheen zij diensten verricht.   
+1.  Onverminderd artikel 14, derde lid, plaatst de curator het uittreksel van het vonnis van faillietverklaring en, indien de verklaring als bedoeld in [artikel 3:160, eerste of tweede lid](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 3:206, eerste of tweede lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is ingetrokken, van die intrekking, in het Publicatieblad van de Europese Unie, alsmede in ten minste twee landelijke dagbladen van iedere andere lidstaat dan Nederland waar de bank een bijkantoor heeft of waarheen zij diensten verricht.   
 2.  In aanvulling op de gegevens, bedoeld in artikel 14, vermeldt de curator dat het Nederlandse recht, behoudens uitzonderingen, van toepassing is.   
 3.  De curator kan verzoeken dat het faillissement wordt ingeschreven in een openbaar register in een andere lidstaat.   
 4.  De kosten van inschrijving op de voet van het derde lid zijn boedelschuld.   
@@ -1607,7 +1734,7 @@ Na de inkennisstelling, bedoeld in artikel 212c, stelt De Nederlandsche Bank N.V
 
 ### Artikel  212r  
 
-In afwijking van artikel 52, tweede lid, bevrijdt voldoening na de bekendmaking van de faillietverklaring van een kredietinstelling die geen natuurlijk persoon is tegenover de boedel indien degene die haar deed, bewijst dat hij niet bekend was met de faillietverklaring.  
+In afwijking van artikel 52, tweede lid, bevrijdt voldoening na de bekendmaking van de faillietverklaring van een bank die geen natuurlijk persoon is tegenover de boedel indien degene die haar deed, bewijst dat hij niet bekend was met de faillietverklaring.  
 
 ### §  2  
 
@@ -1615,7 +1742,7 @@ In afwijking van artikel 52, tweede lid, bevrijdt voldoening na de bekendmaking 
 
 ### Artikel  212s  
 
-1.  Een in een andere lidstaat van herkomst dan Nederland genomen beslissing tot opening van een liquidatieprocedure met betrekking tot een kredietinstelling wordt van rechtswege erkend.   
+1.  Een in een andere lidstaat van herkomst dan Nederland genomen beslissing tot opening van een liquidatieprocedure met betrekking tot een bank wordt van rechtswege erkend.   
 2.  De beslissing heeft rechtsgevolgen binnen Nederland vanaf het tijdstip dat zij rechtsgevolgen heeft in de lidstaat van herkomst.   
 
 ### Artikel  212t  
@@ -1624,7 +1751,7 @@ De beslissing tot opening van een liquidatieprocedure, de liquidatieprocedure ze
 
 ### Artikel  212u  
 
-1.  De beslissing tot opening van een liquidatieprocedure laat onverlet het goederenrechtelijke recht van een schuldeiser of een derde op een goed of goederen, zowel bepaalde goederen als gehelen van onbepaalde goederen met een wisselende samenstelling, die toebehoren aan de kredietinstelling en die zich op het tijdstip waarop de beslissing tot opening van de liquidatieprocedure rechtsgevolgen heeft, bevinden op het grondgebied van een andere lidstaat dan de lidstaat van herkomst.   
+1.  De beslissing tot opening van een liquidatieprocedure laat onverlet het goederenrechtelijke recht van een schuldeiser of een derde op een goed of goederen, zowel bepaalde goederen als gehelen van onbepaalde goederen met een wisselende samenstelling, die toebehoren aan de bank en die zich op het tijdstip waarop de beslissing tot opening van de liquidatieprocedure rechtsgevolgen heeft, bevinden op het grondgebied van een andere lidstaat dan de lidstaat van herkomst.   
 2.  Voor de toepassing van het eerste lid wordt onder goederenrechtelijk recht in ieder geval verstaan: 
 
 a. het recht een goed te gelde te maken of te laten maken en te worden voldaan uit de opbrengst van of de inkomsten uit het goed, in het bijzonder op grond van een recht van pand of recht van hypotheek;  
@@ -1645,13 +1772,13 @@ c. met betrekking tot schuldvorderingen, de lidstaat op het grondgebied waarvan 
 
 ### Artikel  212v  
 
-1.  Ingeval de kredietinstelling een zaak heeft gekocht, laat de beslissing tot opening van een liquidatieprocedure onverlet de op een eigendomsvoorbehoud berustende rechten van de verkoper, indien de zaak waarop het eigendomsvoorbehoud betrekking heeft zich op het tijdstip waarop de beslissing tot opening van een liquidatieprocedure rechtsgevolgen heeft, bevindt op het grondgebied van een andere lidstaat dan de lidstaat van herkomst.   
-2.  Ingeval de kredietinstelling een zaak heeft verkocht, is de beslissing tot opening van een liquidatieprocedure geen grond voor ontbinding of beëindiging van de overeenkomst tot verkoop, en belet de liquidatieprocedure de koper niet de eigendom van de gekochte zaak te verkrijgen, indien de zaak zich op het tijdstip waarop de beslissing tot opening van de liquidatieprocedure rechtsgevolgen heeft, bevindt op het grondgebied van een andere lidstaat dan de lidstaat van herkomst.   
+1.  Ingeval de bank een zaak heeft gekocht, laat de beslissing tot opening van een liquidatieprocedure onverlet de op een eigendomsvoorbehoud berustende rechten van de verkoper, indien de zaak waarop het eigendomsvoorbehoud betrekking heeft zich op het tijdstip waarop de beslissing tot opening van een liquidatieprocedure rechtsgevolgen heeft, bevindt op het grondgebied van een andere lidstaat dan de lidstaat van herkomst.   
+2.  Ingeval de bank een zaak heeft verkocht, is de beslissing tot opening van een liquidatieprocedure geen grond voor ontbinding of beëindiging van de overeenkomst tot verkoop, en belet de liquidatieprocedure de koper niet de eigendom van de gekochte zaak te verkrijgen, indien de zaak zich op het tijdstip waarop de beslissing tot opening van de liquidatieprocedure rechtsgevolgen heeft, bevindt op het grondgebied van een andere lidstaat dan de lidstaat van herkomst.   
 3.  Artikel 212u, vierde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  212w  
 
-Indien degene die zowel schuldeiser als schuldenaar is van de kredietinstelling bevoegd is zijn schuld te verrekenen met de vordering op de kredietinstelling op grond van het recht dat van toepassing is op de vordering van de kredietinstelling, laat de beslissing tot opening van de liquidatieprocedure de bedoelde bevoegdheid onverlet.  
+Indien degene die zowel schuldeiser als schuldenaar is van de bank bevoegd is zijn schuld te verrekenen met de vordering op de bank op grond van het recht dat van toepassing is op de vordering van de bank, laat de beslissing tot opening van de liquidatieprocedure de bedoelde bevoegdheid onverlet.  
 
 ### Artikel  212x  
 
@@ -1667,7 +1794,7 @@ In afwijking van artikel 212t worden de gevolgen van een liquidatieprocedure voo
 
 ### Artikel  212aa  
 
-In afwijking van artikel 212t worden de gevolgen van een liquidatieprocedure voor de rechten van de kredietinstelling op een registergoed beheerst door het recht van de lidstaat onder het gezag waarvan het register wordt gehouden.  
+In afwijking van artikel 212t worden de gevolgen van een liquidatieprocedure voor de rechten van de bank op een registergoed beheerst door het recht van de lidstaat onder het gezag waarvan het register wordt gehouden.  
 
 ### Artikel  212bb  
 
@@ -1675,11 +1802,11 @@ In afwijking van artikel 212t worden, onverminderd artikel 212hh, de gevolgen va
 
 ### Artikel  212cc  
 
-In afwijking van artikel 212t wordt de rechtsgeldigheid van een rechtshandeling, onder bezwarende titel aangegaan door de kredietinstelling na het tijdstip van opening van een liquidatieprocedure, waarmee zij beschikt over een registergoed of effecten of andere waardepapieren waarvan het bestaan of de overdracht inschrijving in een wettelijk voorgeschreven register of op een wettelijk voorgeschreven rekening veronderstelt, of die zijn geplaatst in een door het recht van een lidstaat beheerst gecentraliseerd effectendepot, beheerst door het recht van de lidstaat onder het gezag waarvan het register, de rekening of het depot wordt gehouden dan wel, indien het een onroerende zaak betreft, door het recht van de lidstaat waar de onroerende zaak is gelegen.  
+In afwijking van artikel 212t wordt de rechtsgeldigheid van een rechtshandeling, onder bezwarende titel aangegaan door de bank na het tijdstip van opening van een liquidatieprocedure, waarmee zij beschikt over een registergoed of effecten of andere waardepapieren waarvan het bestaan of de overdracht inschrijving in een wettelijk voorgeschreven register of op een wettelijk voorgeschreven rekening veronderstelt, of die zijn geplaatst in een door het recht van een lidstaat beheerst gecentraliseerd effectendepot, beheerst door het recht van de lidstaat onder het gezag waarvan het register, de rekening of het depot wordt gehouden dan wel, indien het een onroerende zaak betreft, door het recht van de lidstaat waar de onroerende zaak is gelegen.  
 
 ### Artikel  212dd  
 
-In afwijking van artikel 212t worden de gevolgen van de liquidatieprocedure voor een aanhangige rechtsvordering betreffende een goed waarover de kredietinstelling het beheer en de beschikking heeft verloren, uitsluitend beheerst door het recht van de lidstaat waar het rechtsgeding aanhangig is.  
+In afwijking van artikel 212t worden de gevolgen van de liquidatieprocedure voor een aanhangige rechtsvordering betreffende een goed waarover de bank het beheer en de beschikking heeft verloren, uitsluitend beheerst door het recht van de lidstaat waar het rechtsgeding aanhangig is.  
 
 ### Artikel  212ee  
 
@@ -1714,20 +1841,20 @@ In afwijking van artikel 212t worden de gevolgen van een liquidatieprocedure voo
 
 ### Artikel  212kk  
 
-Op verzoek van een curator uit een andere lidstaat dan Nederland worden de gegevens met betrekking tot een liquidatieprocedure, geopend in een andere lidstaat dan Nederland, door de griffier van de rechtbank te 's-Gravenhage ingeschreven in het register, bedoeld in artikel 19, eerste lid.  
+Op verzoek van een curator uit een andere lidstaat dan Nederland worden de gegevens met betrekking tot een liquidatieprocedure, geopend in een andere lidstaat dan Nederland, door de griffier van de rechtbank Den Haag ingeschreven in het register, bedoeld in artikel 19, eerste lid.  
 
 ### Artikel  212ll  
 
-Indien het faillissement is uitgesproken van een kredietinstelling die niet is gevestigd in een staat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en een bijkantoor in Nederland heeft, stelt de griffier van de rechtbank De Nederlandsche Bank N.V. onverwijld in kennis van de inhoud van de beschikking, alsmede van de mogelijke gevolgen daarvan in het desbetreffende geval. De Nederlandsche Bank N.V. stelt daarna onverwijld de bevoegde autoriteiten van de andere lidstaten van de Europese Unie en van de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte in kennis van de beschikking, alsmede van de mogelijke gevolgen daarvan in het desbetreffende geval. De Nederlandsche Bank N.V. stelt de bevoegde autoriteiten van de andere lidstaten van de Europese Unie en van de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte in kennis van de beschikking en van de beëindiging van de faillietverklaring.  
+Indien het faillissement is uitgesproken van een bank die niet is gevestigd in een staat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en een bijkantoor in Nederland heeft, stelt de griffier van de rechtbank De Nederlandsche Bank N.V. onverwijld in kennis van de inhoud van de beschikking, alsmede van de mogelijke gevolgen daarvan in het desbetreffende geval. De Nederlandsche Bank N.V. stelt daarna onverwijld de bevoegde autoriteiten van de andere lidstaten van de Europese Unie en van de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte in kennis van de beschikking, alsmede van de mogelijke gevolgen daarvan in het desbetreffende geval. De Nederlandsche Bank N.V. stelt de bevoegde autoriteiten van de andere lidstaten van de Europese Unie en van de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte in kennis van de beschikking en van de beëindiging van de faillietverklaring.  
 
 ### Artikel  212mm  
 
-1.  Indien een kredietinstelling die niet is gevestigd in een lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economscue Ruimte en een bijkantoor heeft in Nederland en een of meer bijkantoren in andere lidstaten, trachten zowel de rechtbank als de Nederlandsche Bank hun optreden te coördineren met de bevoegde instanties onderscheidenlijk de toezichthoudende autoriteiten van die andere lidstaten.   
+1.  Indien een bank die niet is gevestigd in een lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economscue Ruimte en een bijkantoor heeft in Nederland en een of meer bijkantoren in andere lidstaten, trachten zowel de rechtbank als de Nederlandsche Bank hun optreden te coördineren met de bevoegde instanties onderscheidenlijk de toezichthoudende autoriteiten van die andere lidstaten.   
 2.  In het in het eerste lid bedoelde geval tracht de in Nederland benoemde curator zijn optreden te coördineren met de curatoren in de andere lidstaten waarin aan de financiële onderneming een vergunning is verleend.   
 
 ### Artikel  212nn  
 
-De curator kan in de verslagen, bedoeld in artikel 73a, geen gegevens of inlichtingen opnemen die betrekking hebben op derden die betrokken zijn of zijn geweest bij pogingen de kredietinstelling in staat te stellen zijn bedrijf voort te zetten.  
+De curator kan in de verslagen, bedoeld in artikel 73a, geen gegevens of inlichtingen opnemen die betrekking hebben op derden die betrokken zijn of zijn geweest bij pogingen de bank in staat te stellen zijn bedrijf voort te zetten.  
 
 ### Afdeling  11B  
 
@@ -1741,13 +1868,7 @@ De curator kan in de verslagen, bedoeld in artikel 73a, geen gegevens of inlicht
 
 Voor de toepassing van deze afdeling wordt verstaan onder: 
 
-a. verzekeraar: een schadeverzekeraar of levensverzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md): 
-
-1. die een vergunning heeft ingevolge de [Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) dan wel, indien hij zijn zetel in een andere lidstaat dan Nederland heeft, een daarmee overeenkomende vergunning, hem door de toezichthoudende autoriteit van die lidstaat verleend;  
-
-2. waarvan de vergunning, bedoeld onder 1, is ingetrokken of vervallen; of  
-
-3. die nimmer in het bezit is geweest van een door de Nederlandsche Bank N.V. verleende vergunning dan wel, indien de verzekeraar zijn zetel in een andere lidstaat dan Nederland heeft, de verzekeraar met zetel in een andere lidstaat dan Nederland met een bijkantoor in Nederland, die nimmer in het bezit is geweest van een daarmee overeenkomende, door de toezichthoudende autoriteit van die lidstaat verleende vergunning.    
+a. verzekeraar: een schadeverzekeraar of levensverzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
 b. overeenkomst van schadeverzekering: een overeenkomst van schadeverzekering als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
@@ -1775,7 +1896,9 @@ m. curator: de curator of elke andere persoon of ander orgaan, aangewezen door d
 
 n. vordering uit hoofde van verzekering: de uit een overeenkomst van verzekering voortvloeiende vordering, rechtstreeks op de verzekeraar;  
 
-o. noodregeling: de noodregeling, bedoeld in [afdeling 3.5.5 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).    
+o. noodregeling: de noodregeling, bedoeld in [afdeling 3.5.5 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+p. overnemer: degene die activa of passiva overneemt, degene die bereid is zulks te doen en degene die onderzoekt of hij daartoe bereid is.    
 
 ### §  2  
 
@@ -1791,9 +1914,113 @@ a. een verzekeraar met zetel in een andere lidstaat dan Nederland die in die lid
 
 b. een verzekeraar met zetel in een staat die geen lidstaat is, en die zijn bedrijf uitoefent vanuit een in Nederland gelegen bijkantoor.     
 
+### Artikel  213aa*  
+
+1.  Ingeval De Nederlandsche Bank N.V. oordeelt dat er ten aanzien van een verzekeraar die een vergunning als bedoeld in [artikel 2:26a](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:27](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [2:54a van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft tekenen van een gevaarlijke ontwikkeling zijn met betrekking tot het eigen vermogen, de solvabiliteit of de technische voorzieningen en redelijkerwijs is te voorzien dat die ontwikkeling niet voldoende of niet tijdig ten goede zal keren, kan zij de rechtbank Amsterdam verzoeken ten aanzien van die verzekeraar het faillissement uit te spreken.   
+2.  Een ander dan De Nederlandsche Bank N.V. kan niet het faillissement van een verzekeraar die een door De Nederlandsche Bank N.V. verleende vergunning heeft aanvragen.   
+3.  Een verzekeraar die een door De Nederlandsche Bank N.V. verleende vergunning heeft kan aangifte doen van zijn eigen faillissement. In dat geval stelt de rechtbank De Nederlandsche Bank N.V. in staat te worden gehoord alvorens te beslissen op de aangifte.   
+
+### Artikel  213ab  
+
+Indien het belang van de gezamenlijke schuldeisers bij de afwikkeling van het bedrijf van een verzekeraar die niet een door De Nederlandsche Bank N.V. verleende vergunning heeft een bijzondere voorziening behoeft, kan de rechtbank Amsterdam, onverminderd artikel 1, eerste lid, op verzoek van De Nederlandsche Bank N.V. het faillissement uitspreken.  
+
+### Artikel  213ac  
+
+De Nederlandsche Bank N.V. kan bij haar verzoek een overdrachtsplan als bedoeld in [artikel 3:159c, tweede lid, aanhef en onderdeel b, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) overleggen met het verzoek het overdrachtsplan goed te keuren.  
+
+### Artikel  213ad  
+
+De Nederlandsche Bank N.V. zendt een afschrift van het verzoekschrift aan de verzekeraar en geeft kennis van de inhoud van het verzoekschrift aan de toezichthoudende instanties van de andere lidstaten waar een bijkantoor van de verzekeraar is gelegen of waarnaar hij diensten verricht vanuit zijn vestigingen in een andere lidstaat.  
+
+### Artikel  213ae  
+
+De rechtbank behandelt het verzoek van De Nederlandsche Bank N.V. tot het uitspreken van het faillissement of een aangifte door de verzekeraar met de meeste spoed op een niet openbare terechtzitting op de voet van de rechtspleging in burgerlijke zaken, voor zover daarvan bij deze wet niet is afgeweken.  
+
+### Artikel  213af  
+
+1.  De verzekeraar kan, na in de gelegenheid te zijn gesteld te worden gehoord, zich verweren tegen: 
+
+a. beslissingen als bedoeld in [artikel 3:159d, tweede lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+b. beslissingen als bedoeld in [artikel 3:159f, eerste lid, van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+c. beslissingen als bedoeld in de [artikelen 1:75](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [1:76 van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die zijn genomen nadat De Nederlandsche Bank N.V. een mededeling als bedoeld in [artikel 3:159d, eerste lid, van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft gedaan;  
+
+d. het oordeel van De Nederlandsche Bank N.V. dat zich een situatie als bedoeld in artikel 213aa, eerste lid, voordoet.     
+2.  Ingeval een verzekeraar zich heeft verweerd tegen een beslissing of oordeel als bedoeld in het eerste lid, verklaart de rechtbank dat verweer uitsluitend dan gegrond indien De Nederlandsche Bank N.V. in redelijkheid niet tot die beslissing of dat oordeel heeft kunnen komen.   
+
+### Artikel  213ag  
+
+1.  De rechtbank spreekt het faillissement uit indien summierlijk blijkt dat zich een situatie, als bedoeld in artikel 213aa, eerste lid, voordoet.   
+2.  Ingeval De Nederlandsche Bank N.V. een overdrachtsplan als bedoeld in artikel 213ac heeft overgelegd, keurt de rechtbank het overdrachtsplan goed, tenzij de in het overdrachtsplan genoemde prijs of wijze waarop de prijs die de overnemer bereid is te betalen wordt vastgesteld, gegeven de omstandigheden van het geval, niet een redelijke prijs of wijze is. Bij het vaststellen of de prijs of wijze redelijk is wordt uitgegaan van het te verwachten toekomstperspectief van de verzekeraar in de situatie dat het overdrachtsplan niet wordt goedgekeurd.   
+3.  Onverminderd het tweede lid, keurt de rechtbank het plan met betrekking tot de overdracht van activa of passiva goed, tenzij schuldeisers daardoor zouden worden benadeeld.   
+4.  Bij het uitspreken van het faillissement benoemt de rechtbank een van haar leden tot rechter-commissaris en benoemt zij een of meer curatoren. De Nederlandsche Bank N.V. kan voor de benoeming van curatoren voordrachten doen.   
+5.  Indien het verzoek wordt toegewezen, wordt de beschikking op een openbare terechtzitting uitgesproken en wordt een uittreksel ervan onverwijld door de curator bekendgemaakt in de Staatscourant, het Publicatieblad van de Europese Unie, alsmede in ten minste twee door de rechtbank aan te wijzen Nederlandse dagbladen en ten minste twee door de rechtbank aan te wijzen landelijke dagbladen van iedere lidstaat waar een bijkantoor van de verzekeraar is gelegen of waarnaar hij diensten verricht. De uittreksels vermelden naam en zetel van de desbetreffende verzekeraar, de woonplaats of het kantoor van de curator alsmede de datum van de beschikking. De publicatie in de landelijke dagbladen geschiedt in de officiële taal of talen van de betrokken lidstaat. In de bekendmaking in het Publicatieblad van de Europese Unie en de landelijke dagbladen van iedere lidstaat waar de verzekeraar een bijkantoor heeft of waarnaar hij diensten verricht wordt daarenboven vermeld dat op het faillissement, behoudens uitzonderingen, Nederlands recht van toepassing is, de rechtsgrondslag, dat De Nederlandsche Bank N.V. de bevoegde toezichthouder is, alsmede de uiterste datum waarop tegen de beschikking beroep in cassatie kan worden ingesteld met vermelding van het volledige adres van de Hoge Raad en het onderwerp van de beschikking.   
+
+### Artikel  213ah  
+
+1.  Een beschikking als bedoeld in artikel 213ab of 213ag, eerste lid, is uitvoerbaar bij voorraad.   
+2.  In afwijking van artikel 8, eerste lid, staat geen hoger beroep open tegen het uitspreken van het faillissement indien de rechtbank eveneens een verzoek om goedkeuring van een overdrachtsplan als bedoeld in artikel 212ac heeft toegewezen.   
+
+### Artikel  213ai  
+
+Indien de rechtbank het overdrachtsplan heeft goedgekeurd, voert de curator het uit zo spoedig mogelijk nadat de rechtbank het faillissement heeft uitgesproken.  
+
+### Artikel  213aj  
+
+1.  Ingeval De Nederlandsche Bank N.V. bij haar verzoek tot faillietverklaring geen overdrachtsplan heeft overgelegd of indien zij dat wel heeft gedaan maar de rechtbank het overdrachtsplan niet heeft goedgekeurd, kan De Nederlandsche Bank N.V. alsnog of opnieuw een overdrachtsplan voorbereiden.   
+2.  Het overdrachtsplan kan betrekking hebben op de overdracht van activa of passiva.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het overdrachtsplan en de voorbereiding daarvan.   
+
+### Artikel  213ak  
+
+1.  Indien De Nederlandsche Bank N.V. een overdrachtsplan voorbereidt, deelt zij dat terstond na aanvang van de voorbereiding mede aan de curator.   
+2.  Nadat De Nederlandsche Bank N.V. de mededeling, bedoeld in het eerste lid, heeft gedaan, kan zij, onverminderd hetgeen is bepaald in de [artikelen 5:15](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de curator verplichten: 
+
+a. gegevens of inlichtingen te verschaffen aan: 
+
+1°. door De Nederlandsche Bank N.V. met name genoemde overnemer en deskundigen die een overnemer bijstaan; en  
+
+2°. door De Nederlandsche Bank N.V. met name genoemde deskundigen die De Nederlandsche Bank N.V. bijstaan bij de voorbereiding van het overdrachtsplan; en    
+
+b. toe te staan dat een door De Nederlandsche Bank N.V. met name genoemde overnemer en de in onderdeel a van dit lid genoemde personen elke plaats met uitzondering van een woning van de verzekeraar betreden.     
+3.  De personen, bedoeld in het tweede lid, maken van de gegevens of inlichtingen, bedoeld in het tweede lid, gebruik en betreden de plaats, bedoeld in het tweede lid, slechts voor zover dat redelijkerwijs in verband met de voorbereiding van het overdrachtsplan nodig is.   
+4.  [Artikel 1:89 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van overeenkomstige toepassing op personen die op grond van het tweede lid vertrouwelijke gegevens of inlichtingen hebben verkregen.   
+5.  Onverminderd het eerste lid, is het een ieder verboden aan de voorbereiding van het overdrachtsplan bekendheid te geven.   
+6.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot hetgeen is bepaald in het derde, vierde en vijfde lid.   
+7.  De curator, de verzekeraar en een onderneming die tot de groep behoort waartoe ook de verzekeraar behoort waarop De Nederlandsche Bank N.V. toezicht houdt, alsmede de personen, bedoeld in het tweede lid, zijn uitgezonderd van alle bij of krachtens de wet geldende verplichtingen tot openbaarmaking van gegevens of inlichtingen, bedoeld in het tweede lid, tot aan het moment waarop het overdrachtsplan is goedgekeurd.   
+
+### Artikel  213al  
+
+Na de mededeling, bedoeld in artikel 213ak, eerste lid, verleent de curator alle medewerking aan de voorbereiding van het overdrachtsplan.  
+
+### Artikel  213am  
+
+1.  [Artikel 3:159u van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van overeenkomstige toepassing.   
+2.  Indien De Nederlandsche Bank N.V. op grond van artikel 213aj een overdrachtsplan heeft voorbereid, kan zij de rechtbank Amsterdam verzoeken het overdrachtsplan goed te keuren.   
+
+### Artikel  213an  
+
+1.  De rechtbank behandelt het verzoek van De Nederlandsche Bank N.V. om goedkeuring van het overdrachtsplan met de meeste spoed op een niet openbare terechtzitting op de voet van de rechtspleging in burgerlijke zaken, voor zover daarvan bij deze wet niet is afgeweken.   
+2.  De rechtbank keurt het overdrachtsplan goed tenzij de in het overdrachtsplan genoemde prijs of wijze waarop de prijs die de overnemer bereid is te betalen wordt vastgesteld, gegeven de omstandigheden van het geval, niet een redelijke prijs of wijze is.   
+
+### Artikel  213ao  
+
+De curator voert het overdrachtsplan uit zo spoedig mogelijk nadat de rechtbank het heeft goedgekeurd.  
+
+### Artikel  213ap  
+
+1.  De Nederlandsche Bank N.V. kan, in overleg met de curator, de rechtbank Amsterdam verzoeken om een reeds goedgekeurd overdrachtsplan aan te passen.   
+2.  Ingeval de rechtbank de aanpassing niet goedkeurt, wijst zij het verzoek om aanpassing van het overdrachtsplan af en blijft het overdrachtsplan ongewijzigd in stand.   
+3.  De artikelen 213ad tot en met 213ag en 213aj, tweede lid, tot en met 213ao zijn van overeenkomstige toepassing op de aanpassing van het overdrachtsplan.   
+
+### Artikel  213aq  
+
+De artikelen 213aa tot en met 213ap zijn van overeenkomstige toepassing op een verzekeraar met zetel in een staat die geen lidstaat is.  
+
 ### Artikel  213b  
 
-De Nederlandsche Bank N.V. kan een verzoek om een verzekeraar in staat van faillissement te verklaren zonder tussenkomst van een procureur indienen.  
+De Nederlandsche Bank N.V. kan een verzoek om een verzekeraar in staat van faillissement te verklaren zonder tussenkomst van een advocaat indienen.  
 
 ### Artikel  213c  
 
@@ -1810,8 +2037,8 @@ b. indien het een verzekeraar met zetel buiten de Europese Unie betreft, de toez
 
 ### Artikel  213e  
 
-1.  Wanneer een verzoek tot het uitspreken van de noodregeling aanhangig is tegelijk met een verzoek tot faillietverklaring, wordt de behandeling van het verzoek tot faillietverklaring geschorst totdat op het verzoek tot het uitspreken van de noodregeling is beschikt.   
-2.  Indien de rechtbank de noodregeling uitspreekt, vervalt het verzoek tot faillietverklaring van rechtswege.   
+1.  Wanneer een verzoek tot het uitspreken van de overdrachtsregeling of de noodregeling in de zin van de [Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aanhangig is tegelijk met een eigen aangifte door de verzekeraar, wordt de behandeling van de aangifte geschorst totdat op het verzoek tot het uitspreken van de overdrachtsregeling onderscheidenlijk de noodregeling is beschikt.   
+2.  Indien de rechtbank de noodregeling of de overdrachtsregeling uitspreekt, vervalt de eigen aangifte door de verzekeraar van rechtswege.   
 
 ### Artikel  213f  
 
@@ -1831,7 +2058,9 @@ e. de boedel is niet aansprakelijk voor verbintenissen van de verzekeraar die in
 
 f. een beroep op verrekening kan in afwijking van artikel 53 slechts worden gedaan indien de vordering en de schuldplichtigheid beide zijn ontstaan voor het tijdstip waarop de uitspraak van de noodregeling is gedaan of voortvloeien uit een handeling voor dat tijdstip met de verzekeraar verricht; en  
 
-g. vorderingen uit overeenkomsten van levensverzekering kunnen in afwijking van artikel 110, eerste lid, worden ingediend door overlegging van de polis of een afschrift daarvan, zonder dat het bedrag van de vordering behoeft te worden vermeld; voor zover de curator de vordering erkent, stelt hij de omvang daarvan vast.     
+g. vorderingen uit overeenkomsten van levensverzekering kunnen in afwijking van artikel 110, eerste lid, worden ingediend door overlegging van de polis of een afschrift daarvan, zonder dat het bedrag van de vordering behoeft te worden vermeld; voor zover de curator de vordering erkent, stelt hij de omvang daarvan vast;  
+
+h. indien de rechtbank een overdrachtsplan heeft goedgekeurd door het uitspreken van de overdrachtsregeling, bedoeld in [artikel 3:159u van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of met het uitspreken van de noodregeling, voert de curator het overdrachtsplan uit onderscheidenlijk zet hij de door de overdrager of bewindvoerder aangevangen uitvoering van het overdrachtsplan voort.     
 4.  Het bepaalde in de eerste titel en artikel 362 is van overeenkomstige toepassing.   
 
 ### Artikel  213g  
@@ -1986,7 +2215,7 @@ b. dat recht in het gegeven geval niet voorziet in de mogelijkheid dat die recht
 
 ### Artikel  213cc  
 
-Op verzoek van een curator uit een andere lidstaat dan Nederland worden de gegevens met betrekking tot een liquidatieprocedure, geopend in een andere lidstaat dan Nederland, door de griffier van de rechtbank te 's-Gravenhage ingeschreven in het register, bedoeld in artikel 19, eerste lid.  
+Op verzoek van een curator uit een andere lidstaat dan Nederland worden de gegevens met betrekking tot een liquidatieprocedure, geopend in een andere lidstaat dan Nederland, door de griffier van de rechtbank Den Haag ingeschreven in het register, bedoeld in artikel 19, eerste lid.  
 
 ### Artikel  213dd  
 
@@ -2057,7 +2286,7 @@ d. de vorderingen en rechten betreffende prestaties, die zijn ontstaan of nog zu
 1.  De schuldenaar die voorziet, dat hij met het betalen van zijn opeisbare schulden niet zal kunnen voortgaan, kan surseance van betaling aanvragen.   
 2.  Hij zal zich daartoe, onder overlegging van een door behoorlijke bescheiden gestaafde staat als bedoeld in artikel 96, bij verzoekschrift, door hemzelf en zijn advocaat ondertekend, wenden tot de rechtbank, aangewezen in artikel 2. Het verzoekschrift bevat zodanige gegevens dat de rechter kan beoordelen of hem rechtsmacht toekomt op grond van de verordening, genoemd in artikel 5, derde lid.   
 3.  Bij het verzoekschrift kan een ontwerp van een akkoord worden gevoegd.   
-4.  Surseance van betaling wordt niet verleend aan een natuurlijke persoon die geen zelfstandig beroep of bedrijf uitoefent, noch aan een kredietinstelling als bedoeld in artikel 212g, eerste lid, onderdeel a, noch aan een verzekeraar als bedoeld in artikel 213.   
+4.  Surseance van betaling wordt niet verleend aan een natuurlijke persoon die geen zelfstandig beroep of bedrijf uitoefent, noch aan een bank als bedoeld in artikel 212g, eerste lid, onderdeel a, noch aan een verzekeraar als bedoeld in artikel 213.   
 
 ### Artikel  215  
 
@@ -2251,7 +2480,7 @@ Indien in het geval van artikel 236 de levering van waren, die ter beurze op ter
 
 ### Artikel  239  
 
-1.  Zodra de surseance een aanvang heeft genomen, kan de schuldenaar, met inachtneming van het bij artikel 228 bepaalde, aan werknemers in zijn dienst, de arbeidsovereenkomst opzeggen, met inachtneming van de overeengekomen of wettelijke termijnen, met dien verstande echter, dat in elk geval de arbeidsovereenkomst kan worden geëindigd door opzegging met een termijn van zes weken of, indien de termijn, omschreven in [artikel 672 lid 2, van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) langer is dan zes weken, met inachtneming van die termijn.   
+1.  Zodra de surseance een aanvang heeft genomen, kan de schuldenaar, met inachtneming van het bij artikel 228 bepaalde, aan werknemers in zijn dienst, de arbeidsovereenkomst opzeggen, met inachtneming van de overeengekomen of wettelijke termijnen, met dien verstande echter, dat in elk geval de arbeidsovereenkomst kan worden geëindigd door opzegging met een termijn van zes weken of, indien de termijn, omschreven in [artikel 672 lid 2 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) langer is dan zes weken, met inachtneming van die termijn.   
 2.  Zodra de surseance een aanvang heeft genomen, behoeft bij opzegging der arbeidsovereenkomst door werknemers in dienst van de schuldenaar het bepaalde in [artikel 672 lid 3 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet in acht te worden genomen.   
 3.  Van de aanvang der surseance af zijn het loon en de met de arbeidsovereenkomst samenhangende premieschulden boedelschuld.   
 4.  Dit artikel is van overeenkomstige toepassing op agentuurovereenkomsten.   
@@ -2377,7 +2606,7 @@ In het geval van een verzoek tot omzetting als bedoeld in artikel 37 van de vero
 
 1.  Indien de faillietverklaring wordt uitgesproken ingevolge een der bepalingen van deze titel of wel binnen één maand na het einde der surseance, gelden de volgende regelen: 
 
-1°. het tijdstip, waarop de termijnen vermeld in de 43 en 45 van deze wet en in de [artikelen 138, zesde lid](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), en [248, zesde lid, van boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) aanvangen, wordt berekend van de aanvang der surseance af;  
+1°. het tijdstip, waarop de termijnen vermeld in de artikelen 43 en 45 van deze wet en in de [artikelen 138, zesde lid](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), en [248, zesde lid, van boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) aanvangen, wordt berekend van de aanvang der surseance af;  
 
 2°. de curator oefent de bevoegdheid uit, in het eerste lid van artikel 228 aan de bewindvoerders toegekend;  
 
@@ -2430,7 +2659,7 @@ Het ontwerp van akkoord vervalt, indien, voordat het vonnis van homologatie van 
 
 1.  De bewindvoerders doen dadelijk zowel van de in het vorige artikel bedoelde beschikking als van de neerlegging ter griffie van het ontwerp van akkoord – tenzij deze reeds ingevolge artikel 216 is bekend gemaakt – aankondiging in de Staatscourant.   
 2.  Zij geven tevens van een en ander bij brieven kennis aan alle bekende schuldeisers. Daarbij wordt op het bepaalde bij artikel 257, tweede lid, gewezen.   
-3.  De schuldeisers kunnen verschijnen in persoon, bij schriftelijk gemachtigde of bij procureur.   
+3.  De schuldeisers kunnen verschijnen in persoon, bij schriftelijk gemachtigde of bij advocaat.   
 4.  De bewindvoerders kunnen vorderen, dat de schuldenaar hun een door hen te bepalen bedrag ter bestrijding van de kosten dezer aankondigingen en kennisgevingen vooraf ter hand stelt.   
 
 ### Artikel  257  
@@ -2681,7 +2910,7 @@ Tegen de beslissingen van de rechter, ingevolge de bepalingen van deze titel geg
 2.  Hij zal zich daartoe bij een door hem of een gevolmachtigde ondertekend verzoekschrift wenden tot de rechtbank, aangewezen in artikel 2. Indien de gevolmachtigde niet als advocaat is ingeschreven, moet een geschrift waaruit de volmacht blijkt, bij het verzoekschrift worden overgelegd. Artikel 4, vierde lid, is van overeenkomstige toepassing.   
 3.  Een gehuwde schuldenaar of een schuldenaar die een geregistreerd partnerschap is aangegaan kan het verzoek slechts doen met medewerking van zijn echtgenoot onderscheidenlijk zijn geregistreerde partner, tenzij iedere gemeenschap van goederen tussen de echtgenoten onderscheidenlijk de geregistreerde partners is uitgesloten.   
 4.  Een verzoek als bedoeld in het eerste lid kan ten behoeve van een natuurlijke persoon ook worden gedaan door burgemeester en wethouders van de gemeente waar die persoon woon- of verblijfplaats heeft.   
-5.  De schuldsaneringsregeling natuurlijke personen kan niet van toepassing worden verklaard op een verzekeraar als bedoeld in artikel 213, noch op een kredietinstelling als bedoeld in artikel 212g, onderdeel a.   
+5.  De schuldsaneringsregeling natuurlijke personen kan niet van toepassing worden verklaard op een verzekeraar als bedoeld in artikel 213, noch op een bank als bedoeld in artikel 212g, onderdeel a.   
 
 ### Artikel  285  
 
@@ -2842,7 +3071,7 @@ a. de goederen die de schuldenaar, anders dan om niet, verkrijgt krachtens een t
 
 b. de inboedel, voorzover niet bovenmatig, bedoeld in [artikel 5 van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md);  
 
-c. hetgeen is vermeld in artikel 21, onder 1°, 3°, 5° en 6°;  
+c. hetgeen is vermeld in artikel 21, onder 1°, 3°, 5°, 6° en 7°;  
 
 d. het door de rechter of door de rechter-commissaris overeenkomstig artikel 21, onder 4°, vastgestelde bedrag.     
 5.  Niettemin valt een goed als bedoeld in het vierde lid, onder a, in de boedel indien de waarde van dat goed de waarde van de met de verkrijging samenhangende prestatie aanmerkelijk overtreft. Artikel 22a is van overeenkomstige toepassing.   

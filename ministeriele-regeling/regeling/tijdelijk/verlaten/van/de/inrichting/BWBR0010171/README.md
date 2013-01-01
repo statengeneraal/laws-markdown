@@ -17,7 +17,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. de minister: de Minister van Justitie;  
+a. de minister: de Minister van Veiligheid en Justitie;  
 
 b. wet: de [Penitentiaire beginselenwet](../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);  
 

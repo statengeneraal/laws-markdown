@@ -459,10 +459,6 @@ b. de kosten van het onderzoek voortvloeiende uit de aanvraag geheel of gedeelte
 1.  Bij of krachtens algemene maatregel van bestuur kan medewerking worden gevorderd van het bestuur van een bedrijfslichaam.   
 2.  Indien de van het bestuur van een bedrijfslichaam gevorderde medewerking bestaat in het stellen van nadere regels bij verordening, behoeft deze verordening de goedkeuring van Onze Minister en van Onze Ministers wie het mede aangaat, tezamen. Krachtens de verordening genomen besluiten behoeven, voorzover dit bij of krachtens de maatregel als bedoeld in het eerste lid is bepaald, de goedkeuring van de daarbij aangewezen autoriteit.   
 
-### Artikel  42  
-
-Tegen een op grond van deze wet genomen besluit, met uitzondering van een besluit als bedoeld in artikel 51 kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.  
-
 ### Artikel  43  
 
 1.  [Afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de voorbereiding van: 

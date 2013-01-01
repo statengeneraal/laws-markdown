@@ -137,11 +137,11 @@ b. een gelijkwaardige niet ouder dan drie maanden zijnde verklaring omtrent fina
 c. een door een daartoe bevoegde instantie afgegeven verklaring waaruit blijkt dat de natuurlijke persoon die permanent en daadwerkelijk leiding geeft aan het inzamelen, of indien de leiding bij meer personen berust, ten minste een van hen vakbekwaam is op het gebied van afvalstoffen.     
 3.  In plaats van de gegevens, bedoeld in het eerste of tweede lid, kan de aanvrager de volgende gegevens verstrekken: 
 
-a. het registratienummer van de vergunning voor binnenlands of communautair beroepsvervoer, bedoeld in [artikel 5, eerste, respectievelijk derde lid, van de Wet goederenvervoer over de weg](../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md);  
+a. het registratienummer van de communautaire vergunning, bedoeld in [artikel 1.1 van de Wet wegvervoer goederen](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), of van de vergunning, bedoeld in [artikel 7.1 van die wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md);  
 
 b. een kopie van een door een andere lidstaat van de Europese Unie afgegeven communautaire vergunning als bedoeld in verordening (EEG) nr. 881/92 van de Raad van de Europese Gemeenschappen van 26 maart 1992 betreffende de toegang tot de markt van het goederenvervoer over de weg in de Gemeenschap van of naar het grondgebied van een Lid-Staat of over het grondgebied van een of meer Lid-Staten (PbEG L 95);  
 
-c. een vergunning als bedoeld in [artikel 28, eerste lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) en een veiligheidsattest als bedoeld in [artikel 32, eerste lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).     
+c. een vergunning als bedoeld in [artikel 28, eerste lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) en een veiligheidscertificaat als bedoeld in [artikel 32, eerste lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).     
 4.  In plaats van de gegevens, bedoeld in het eerste lid, onder c, of het tweede lid, onder c, kan de aanvrager een afschrift verstrekken van het bewijs van vakbekwaamheid, bedoeld in [artikel 6, eerste lid, van de Binnenvaartwet](../../../../../wet/binnenvaartwet/BWBR0023009/README.md).   
 
 ### §  4  

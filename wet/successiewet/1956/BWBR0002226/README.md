@@ -140,7 +140,7 @@ a. de overdracht van de blote eigendom als gevolg van de uitoefening van een wil
 
 b. een schuldigerkenning op grond van een wilsrecht opgenomen in [Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md).     
 8.  Indien bij iemand ten aanzien van wie dit artikel zou zijn toegepast indien hij ten tijde van het overlijden van de erflater nog in leven zou zijn geweest, artikel 7 van toepassing zou zijn geweest, vindt ten aanzien van zijn rechtsopvolgers krachtens erfrecht laatstgenoemd artikel toepassing naar rato van hun verkrijging op grond van dit artikel.   
-9.  Het eerste lid is mede van toepassing, indien tot het vermogen van de erflater een schuld behoort, die is ontstaan als gevolg van een uiterste wil, voor zover de nominale waarde van die schuld meer bedraagt dan de waarde van hetgeen die erflater krachtens erfrecht heeft verkregen van degene die de uiterste wil heeft opgemaakt. Voor de bepaling van de laatstbedoelde waarde wordt de in de eerste volzin bedoelde schuld buiten beschouwing gelaten.   
+9.  Het eerste lid is mede van toepassing indien tot het vermogen van de erflater een of meer als gevolg van een uiterste wil ontstane schulden behoren, voor zover de nominale waarde van die schuld, onderscheidenlijk die schulden, meer bedraagt dan de waarde van hetgeen die erflater krachtens erfrecht heeft verkregen van degene die de uiterste wil heeft opgemaakt. Voor de bepaling van de laatstbedoelde waarde worden de in de eerste volzin bedoelde schulden buiten beschouwing gelaten.   
 
 ### Artikel  11  
 
@@ -263,11 +263,11 @@ b. is [artikel 4.5a van de Wet inkomstenbelasting 2001](../../../../wet/wet/inko
 2.  Goederen, verkregen onder de ontbindende voorwaarde van overlijden waarbij zich een opschortende voorwaarde ten gunste van een verwachter aansluit, worden in aanmerking genomen naar de waarde van die goederen als waren zij onvoorwaardelijk verkregen.   
 3.  Voor de effecten die zijn opgenomen in een prijscourant, aangewezen krachtens [artikel 5.21 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), wordt de waarde in het economische verkeer gesteld op de slotnotering die is vermeld in de prijscourant die betrekking heeft op de laatste beursdag voorafgaande aan de dag van de verkrijging.   
 4.  Bij verkrijging door de vervulling van een opschortende voorwaarde welke zich aansluit bij de ontbindende voorwaarde van het overlijden van een eerdere verkrijger, is voor de bepaling van de aard en waarde van het verkregene beslissend het tijdstip waarop het genot voor de verwachter aanvangt.   
-5.  Onroerende zaken die in gebruik zijn als woning, worden in aanmerking genomen naar de volgens [hoofdstuk IV van de Wet waardering onroerende zaken](../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) voor die onroerende zaken vastgestelde waarde voor het kalenderjaar waarin de verkrijging plaatsvindt. Indien de woning deel uitmaakt van een onroerende zaak als bedoeld in [artikel 16 van de Wet waardering onroerende zaken](../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), wordt de waarde van de woning gesteld op het gedeelte van de waarde van de onroerende zaak dat kan worden toegerekend aan de woning.   
+5.  Onroerende zaken die in gebruik zijn als woning, worden in aanmerking genomen naar de volgens [hoofdstuk IV van de Wet waardering onroerende zaken](../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) voor die onroerende zaken vastgestelde waarde voor het kalenderjaar waarin de verkrijging plaatsvindt dan wel, ingeval de verkrijger daarvoor kiest, voor het op dat kalenderjaar volgende kalenderjaar. Indien de woning deel uitmaakt van een onroerende zaak als bedoeld in [artikel 16 van de Wet waardering onroerende zaken](../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), wordt de waarde van de woning gesteld op het gedeelte van de waarde van de onroerende zaak dat kan worden toegerekend aan de woning.   
 6.  Met betrekking tot een woning ter zake waarvan het vijfde lid geen toepassing kan vinden door het ontbreken van een op grond van [hoofdstuk IV van de Wet waardering onroerende zaken](../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) vastgestelde waarde, wordt de waarde van de woning bepaald met overeenkomstige toepassing van het bepaalde bij of krachtens de [artikelen 16 tot en met 18](../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) en [20, tweede lid, van die wet](../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) en van het vijfde lid, tweede volzin.   
 7.  Indien zich in het kalenderjaar waarin de verkrijging plaatsvindt, maar op of vóór het moment van de verkrijging, met betrekking tot een onroerende zaak als bedoeld in het vijfde of zesde lid een gebeurtenis voordoet als bedoeld in [artikel 18, derde lid, van de Wet waardering onroerende zaken](../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), wordt, in afwijking van het vijfde en zesde lid, de waarde van de onroerende zaak bepaald met overeenkomstige toepassing van het bepaalde bij of krachtens de [artikelen 16 tot en met 18](../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) en [20, tweede lid van die wet](../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), naar de staat van die zaak op het moment van de verkrijging.   
-8.  Indien een woning geheel of gedeeltelijk wordt verhuurd en op deze verhuur [afdeling 5 van titel 4 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van toepassing is, wordt de waarde gesteld op een bij algemene maatregel van bestuur vast te stellen, van de huurprijs afhankelijk percentage van het waardegegeven, bedoeld in het vijfde lid. Een onroerende zaak als bedoeld in de eerste volzin wordt niet voor een lagere waarde in aanmerking genomen dan de waarde, bedoeld in het vijfde lid, indien deze wordt verkregen door een huurder van die onroerende zaak of zijn partner.   
-9.  De waarde van een recht van erfpacht op een onroerende zaak die als woning in gebruik is, wordt gesteld op de waarde van die onroerende zaak, berekend volgens het vijfde lid, verminderd met de overeenkomstig het dertiende lid bepaalde waarde van de canon.   
+8.  Indien een woning geheel of gedeeltelijk wordt verhuurd en op deze verhuur [afdeling 5 van titel 4 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van toepassing is, of ingevolge een voor ten minste 12 jaren aangegane pachtovereenkomst wordt verpacht en op deze verpachting [titel 5 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van toepassing is, wordt de waarde gesteld op een bij algemene maatregel van bestuur vast te stellen, van de huurprijs afhankelijk percentage van het waardegegeven, bedoeld in het vijfde of zesde lid. Een onroerende zaak als bedoeld in de eerste volzin wordt niet voor een lagere waarde in aanmerking genomen dan de waarde, bedoeld in het vijfde of zesde lid, indien deze wordt verkregen door een huurder, onderscheidenlijk een pachter, van die onroerende zaak of zijn partner.   
+9.  De waarde van een recht van erfpacht op een onroerende zaak die als woning in gebruik is, wordt gesteld op de waarde van die onroerende zaak, berekend volgens het vijfde of zesde lid, verminderd met de overeenkomstig het dertiende lid bepaalde waarde van de canon.   
 10.  De waarde van hetgeen onder de last van een vruchtgebruik, een beperkt recht of van een periodieke uitkering wordt verkregen, wordt gesteld op de waarde in onbezwaarde staat, verminderd met de waarde van die last. Met elkaar opvolgende vruchtgebruiken, beperkte rechten en periodieke uitkeringen wordt bij de waardebepaling van de daarmee bezwaarde goederen terstond rekening gehouden.   
 11.  Wat in het economische verkeer als een eenheid pleegt te worden beschouwd, wordt in aanmerking genomen met inachtneming van die omstandigheid.   
 12.  De waarde van een onderneming wordt bepaald alsof de onderneming wordt voortgezet (waarde going concern), maar ten minste op de liquidatiewaarde. De eerste volzin is van overeenkomstige toepassing met betrekking tot de waardering van vermogensbestanddelen die behoren tot een aanmerkelijk belang als bedoeld in [afdeling 4.3 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
@@ -284,8 +284,8 @@ b. is [artikel 4.5a van de Wet inkomstenbelasting 2001](../../../../wet/wet/inko
 
 | Gedeelte van de belaste verkrijging tussen  | en  | I. indien verkregen door partner of afstammelingen in de rechte lijn <sup>1)</sup>  | II. in overige gevallen  |
 |:---|:---|:---|:---|
-| € 0  | € 118 708  | 10%  | 30%  |
-| € 118 708 en hoger  | --- | 20%  | 40%  |
+| € 0  | € 118 254  | 10%  | 30%  |
+| € 118 254 en hoger  | --- | 20%  | 40%  |
 
 <sup>1</sup> Voor afstammelingen in de tweede of verdere graad bedraagt de belasting het ingevolge deze kolom verschuldigde, vermeerderd met 80% daarvan.   
 2.  De overdrachtsbelasting, voor zover deze niet heeft geleid tot toepassing van [artikel 13 van de Wet op belastingen van rechtsverkeer](../../../../wet/wet/op/belastingen/van/rechtsverkeer/BWBR0002740/README.md), betaald over het bedrag waarover schenkbelasting verschuldigd is, strekt in mindering van de schenkbelasting.   
@@ -337,21 +337,21 @@ De belasting, verschuldigd wegens de afstand van vermogen verkregen onder een in
 
 2°. door een provincie, de openbare lichamen Bonaire, Sint Eustatius en Saba of een gemeente in Nederland, zonder bijzondere opdracht of met een opdracht, indien en voor zover deze opdracht aan de making niet het karakter ontneemt van te zijn geschied in het algemeen belang;  
 
-3°. door een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), voorzover aan de verkrijging niet een opdracht is verbonden, welke aan de verkrijging het karakter ontneemt van te zijn geschied in het algemeen belang;  
+3°. door een algemeen nut beogende instelling, voor zover aan de verkrijging niet een opdracht is verbonden, welke aan de verkrijging het karakter ontneemt van te zijn geschied in het algemeen belang;  
 
 4°. door de hierna genoemde personen tot de daarachter vermelde bedragen: 
 
-a. partner: € 603 600;  
+a. partner: € 616 880;  
 
-b. kinderen die grotendeels op kosten van de overledene werden onderhouden en die ten gevolge van ziekte of gebreken vermoedelijk in de eerstkomende drie jaren buiten staat zullen zijn om met arbeid die voor hun kracht berekend is, de helft te verdienen van hetgeen lichamelijk en geestelijk gezonde personen van gelijke leeftijd in staat zijn aan inkomen uit arbeid te verwerven: € 57 342;  
+b. kinderen die grotendeels op kosten van de overledene werden onderhouden en die ten gevolge van ziekte of gebreken vermoedelijk in de eerstkomende drie jaren buiten staat zullen zijn om met arbeid die voor hun kracht berekend is, de helft te verdienen van hetgeen lichamelijk en geestelijk gezonde personen van gelijke leeftijd in staat zijn aan inkomen uit arbeid te verwerven: € 58 604;  
 
-c. kinderen voor wie de onder b bedoelde vrijstelling niet van toepassing is: € 19 114;  
+c. kinderen voor wie de onder b bedoelde vrijstelling niet van toepassing is: € 19 535;  
 
-d. kleinkinderen: € 19 114;  
+d. kleinkinderen: € 19 535;  
 
-e. ouders: € 45 270;  
+e. ouders: € 46 266;  
 
-f. overige verkrijgers: € 2012;    
+f. overige verkrijgers: € 2057;    
 
 5°. aan waarde van aanspraken ingevolge een pensioenregeling, aan waarde van lijfrenten alsmede aan waarde van aanspraken op periodieke uitkeringen bij overlijden;  
 
@@ -359,24 +359,14 @@ f. overige verkrijgers: € 2012;
 
 7°.  vervallen;   
 
-8°. door een instelling die een sociaal belang behartigt, onder de volgende voorwaarden: 
+8°. door een sociaal belang behartigende instelling, voor zover aan de verkrijging niet een opdracht is verbonden welke aan de verkrijging het karakter ontneemt van te zijn geschied in het sociaal belang;  
 
-a. uit de regelgeving van de instelling blijkt dat de instelling het sociaal belang behartigt;  
+9°. door een steunstichting SBBI, voor zover aan de verkrijging niet een opdracht is verbonden welke aan de verkrijging het karakter ontneemt van te zijn bestemd voor de realisatie van de doelstelling van de steunstichting;  
 
-b. de feitelijke werkzaamheden van de instelling komen overeen met de doelstelling;  
+10°. door een werknemer van de erflater of zijn partner of door een nabestaande van zodanige werknemer, voor zover het verkregene kan worden beschouwd als de voldoening aan een ter zake van de verrichte arbeid bestaande natuurlijke verbintenis als is bedoeld in [artikel 3 van Boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md). Voor zover een verkrijging van een nabestaande van de werknemer aan periodieke uitkeringen ingevolge deze bepaling is vrijgesteld van successierecht, wordt zij, voor de toepassing van deze wet, beschouwd als een aan de werknemer toe te rekenen bevoordeling krachtens een ten behoeve van de verkrijger gemaakt beding;  
 
-c. de instelling is niet aan een winstbelasting onderworpen dan wel is daarvan vrijgesteld;  
-
-d. de leden van het orgaan van de instelling dat het beleid bepaalt, ontvangen ter zake van de door hen in die hoedanigheid voor de instelling verrichte werkzaamheden geen andere beloning dan een vergoeding voor gemaakte onkosten en een niet bovenmatig vacatiegeld;  
-
-e. de instelling is gevestigd in een lidstaat van de Europese Unie, op Curaçao, Sint Maarten, de BES eilanden, op Aruba of in een bij ministeriële regeling aangewezen mogendheid; en  
-
-f. aan de verkrijging is niet een opdracht verbonden welke aan de verkrijging het karakter ontneemt van te zijn geschied in het sociaal belang;    
-
-9°. door een werknemer van de erflater of zijn partner of door een nabestaande van zodanige werknemer, voor zover het verkregene kan worden beschouwd als de voldoening aan een ter zake van de verrichte arbeid bestaande natuurlijke verbintenis als is bedoeld in [artikel 3 van Boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md). Voor zover een verkrijging van een nabestaande van de werknemer aan periodieke uitkeringen ingevolge deze bepaling is vrijgesteld van successierecht, wordt zij, voor de toepassing van deze wet, beschouwd als een aan de werknemer toe te rekenen bevoordeling krachtens een ten behoeve van de verkrijger gemaakt beding;  
-
-10°. aan nog niet vorderbare termijnen van renten, van uitkeringen, van bezoldigingen en van andere inkomsten.     
-2.  De waarde van aanspraken ingevolge een pensioenregeling – andere dan die ingevolge de [Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) en de [Algemene nabestaandenwet](../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) –, van lijfrenten alsmede van aanspraken op periodieke uitkeringen bij overlijden welke door een partner ten gevolge van het overlijden worden verkregen en hetzij van erfbelasting zijn vrijgesteld ingevolge het eerste lid, onder 5°, hetzij naar hun aard niet krachtens deze wet belastbaar zijn, strekt voor de helft in mindering van het in het eerste lid, onder 4°, onderdeel a, bedoelde bedrag, met dien verstande dat na deze korting de vrijstelling niet minder bedraagt dan € 155 930. Voor zover de omvang van de in de eerste volzin bedoelde aanspraken wordt bepaald met toepassing van artikel 13, wordt de verkrijging van deze aanspraken voor de toepassing van dit lid, geacht geheel te kunnen worden toegerekend aan een onttrekking aan het vermogen van de erflater.   
+11°. aan nog niet vorderbare termijnen van renten, van uitkeringen, van bezoldigingen en van andere inkomsten.     
+2.  De waarde van aanspraken ingevolge een pensioenregeling – andere dan die ingevolge de [Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) en de [Algemene nabestaandenwet](../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) –, van lijfrenten alsmede van aanspraken op periodieke uitkeringen bij overlijden welke door een partner ten gevolge van het overlijden worden verkregen en hetzij van erfbelasting zijn vrijgesteld ingevolge het eerste lid, onder 5°, hetzij naar hun aard niet krachtens deze wet belastbaar zijn, strekt voor de helft in mindering van het in het eerste lid, onder 4°, onderdeel a, bedoelde bedrag, met dien verstande dat na deze korting de vrijstelling niet minder bedraagt dan € 159 361. Voor zover de omvang van de in de eerste volzin bedoelde aanspraken wordt bepaald met toepassing van artikel 13, wordt de verkrijging van deze aanspraken voor de toepassing van dit lid, geacht geheel te kunnen worden toegerekend aan een onttrekking aan het vermogen van de erflater.   
 3.  Onder pensioenregeling wordt voor de toepassing van deze wet verstaan een pensioenregeling als bedoeld in [artikel 1.7, tweede lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
 4.  Onder lijfrenten worden verstaan lijfrenten als bedoeld in [artikel 3.125 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), welke zijn verzekerd bij een verzekeraar als bedoeld in [artikel 3.126 van die wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), alsmede aanspraken op tegoeden van lijfrentespaarrekeningen of waarden van lijfrentebeleggingsrechten als bedoeld in [artikel 3.126a van die wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), voorzover de terzake voldane premies respectievelijk de overgemaakte bedragen voor de heffing van de inkomstenbelasting als uitgaven voor inkomensvoorzieningen in aftrek konden worden gebracht.   
 5.  Onder aanspraken op periodieke uitkeringen bij overlijden worden verstaan aanspraken op periodieke uitkeringen als bedoeld in [artikel 11, eerste lid, onderdeel g, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), die ingaan bij het overlijden van de werknemer of de gewezen werknemer en toekomen aan zijn echtgenoot of gewezen echtgenoot dan wel degene met wie hij duurzaam een gezamenlijke huishouding voert of heeft gevoerd en met wie geen bloed- of aanverwantschap in rechte lijn bestaat, of aan zijn eigen kinderen of pleegkinderen die de leeftijd van 30 jaar nog niet hebben bereikt. De eerste volzin is van overeenkomstige toepassing op het tegoed van een stamrechtspaarrekening en op de waarde van een stamrechtbeleggingsrecht, bedoeld in [artikel 11a van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), die overeenkomen met aanspraken als bedoeld in de eerste volzin.   
@@ -399,31 +389,33 @@ d. de echtgenoot of echtgenote van de Koning, de echtgenoot of echtgenote van de
 
 3°. door een provincie of gemeente in Nederland, zonder bijzondere opdracht of met een opdracht, indien en voor zover deze opdracht aan de schenking niet het karakter ontneemt van te zijn geschied in het algemeen belang;  
 
-4°. door een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), voorzover aan de verkrijging niet een opdracht is verbonden, welke aan de verkrijging het karakter ontneemt van te zijn geschied in het algemeen belang;  
+4°. door een algemeen nut beogende instelling, voor zover aan de verkrijging niet een opdracht is verbonden, welke aan de verkrijging het karakter ontneemt van te zijn geschied in het algemeen belang;  
 
-5°. door een kind van de ouders, tot een bedrag van € 5030, met dien verstande dat dit bedrag voor een kind tussen 18 en 35 jaar voor één kalenderjaar wordt verhoogd, mits op deze verhoogde vrijstelling in de aangifte een beroep wordt gedaan, tot een bedrag van € 24 144 dan wel, indien het bedrag is geschonken ter zake van de verwerving van een eigen woning als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), ter zake van de kosten voor verbetering of onderhoud van die woning, ter zake van de afkoop van rechten van erfpacht, opstal of beklemming met betrekking tot die woning dan wel voor de aflossing van een eigenwoningschuld als bedoeld in [artikel 3.119a van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of is bestemd voor de betaling van kosten van een studie of de opleiding voor een beroep ten behoeve van dat kind, welke kosten aanzienlijk hoger zijn dan gebruikelijk, onder bij ministeriële regeling te stellen voorwaarden tot een bedrag van € 50 300;  
+5°. door een kind van de ouders, tot een bedrag van € 5141, met dien verstande dat dit bedrag voor een kind tussen 18 en 40 jaar voor één kalenderjaar wordt verhoogd, mits op deze verhoogde vrijstelling in de aangifte een beroep wordt gedaan, tot een bedrag van € 24 676 dan wel, indien een eigen woning als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is geschonken of een bedrag is geschonken ter zake van de verwerving van een zodanige eigen woning, ter zake van de kosten voor verbetering of onderhoud van die woning, ter zake van de afkoop van rechten van erfpacht, opstal of beklemming met betrekking tot die woning dan wel voor de aflossing van een eigenwoningschuld als bedoeld in [artikel 3.119a van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of is bestemd voor de betaling van kosten van een studie of de opleiding voor een beroep ten behoeve van dat kind, welke kosten aanzienlijk hoger zijn dan gebruikelijk, onder bij ministeriële regeling te stellen voorwaarden tot een bedrag van € 51 407;  
 
-6°. door een kind tussen 18 en 35 jaar van de ouders, voor één kalenderjaar, onder bij ministeriële regeling te stellen voorwaarden, tot een bedrag van € 26 156, indien: 
+6°. door een kind tussen 18 en 40 jaar van de ouders, voor één kalenderjaar, onder bij ministeriële regeling te stellen voorwaarden, tot een bedrag van € 26 732, indien: 
 
 a. de verhoogde vrijstelling, bedoeld in artikel 33, eerste lid, onder 5°, zoals dat voor 1 januari 2010 luidde, door dat kind is toegepast;  
 
-b. het bedrag is geschonken ter zake van de verwerving van een eigen woning als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), ter zake van de kosten voor verbetering of onderhoud van die woning, ter zake van de afkoop van rechten van erfpacht, opstal of beklemming met betrekking tot die woning dan wel voor de aflossing van een eigenwoningschuld als bedoeld in [artikel 3.119a van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en  
+b. een eigen woning als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is geschonken of een bedrag is geschonken ter zake van de verwerving van een zodanige eigen woning, ter zake van de kosten voor verbetering of onderhoud van die woning, ter zake van de afkoop van rechten van erfpacht, opstal of beklemming met betrekking tot die woning dan wel voor de aflossing van een eigenwoningschuld als bedoeld in [artikel 3.119a van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en  
 
 c. op de in aanhef bedoelde vrijstelling in de aangifte een beroep wordt gedaan;    
 
-7°. in alle andere gevallen: € 2 012;  
+7°. in alle andere gevallen: € 2057;  
 
 8°. door iemand, die niet in staat is zijn schulden te betalen, indien en voor zover het verkregene strekt om de begiftigde daartoe in staat te stellen;  
 
 9°. door iemand te wiens laste over die verkrijging inkomstenbelasting of een voorheffing van die belasting wordt geheven;  
 
-10°. van een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), voorzover de uitkeringen geheel of nagenoeg geheel het karakter hebben van te zijn geschied in het algemeen belang;  
+10°. van een algemeen nut beogende instelling, voor zover de uitkeringen geheel of nagenoeg geheel het karakter hebben van te zijn geschied in het algemeen belang;  
 
 11°. door een rechtspersoon, welke uitsluitend of nagenoeg uitsluitend ten doel heeft de bevordering van de materiële en geestelijke belangen van de werknemers in het bedrijf van de schenker, dan wel in de bedrijven van de schenker en anderen, of van de nabestaanden van die werknemers;  
 
 12° indien en voor zover de schenking heeft gestrekt tot voldoening aan een natuurlijke verbintenis als is bedoeld in [artikel 3 van Boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md). Voor zover een ingevolge deze bepaling van schenkbelasting vrijgestelde verkrijging haar grond vindt in de voldoening aan een natuurlijke verbintenis als is bedoeld in de vorige volzin tot verzorging na het overlijden van de schuldenaar - de omzetting van zodanige verbintenis in een rechtens afdwingbare daaronder begrepen - wordt zij geacht krachtens erfrecht door het overlijden te zijn verkregen. Voor zover een schenking van een periodieke uitkering door een werkgever of zijn echtgenoot of door een pensioenfonds aan een nabestaande van een werknemer ingevolge deze bepaling is vrijgesteld van schenkingsrecht, wordt zij, voor de toepassing van deze wet, beschouwd als een aan de werknemer toe te rekenen bevoordeling krachtens een ten behoeve van de verkrijger gemaakt beding;  
 
-13°. door een instelling als bedoeld in artikel 32, eerste lid, onder 8°, voor zover aan de verkrijging niet een opdracht is verbonden welke aan de verkrijging het karakter ontneemt van te zijn geschied in het sociaal belang.    
+13°. door een sociaal belang behartigende instelling, voor zover aan de verkrijging niet een opdracht is verbonden welke aan de verkrijging het karakter ontneemt van te zijn geschied in het sociaal belang;  
+
+14°. door een steunstichting SBBI, voor zover aan de verkrijging niet een opdracht is verbonden welke aan de verkrijging het karakter ontneemt van te zijn bestemd voor de realisatie van de doelstelling van de steunstichting.    
 
 ### Artikel  34  
 
@@ -442,15 +434,15 @@ Wij behouden Ons voor bij algemene maatregel van bestuur regelen te stellen, ten
 
 1.  Indien tot de verkrijging ondernemingsvermogen behoort als bedoeld in artikel 35c, dat wordt verkregen in het kader van een bedrijfsopvolging als bedoeld in het vijfde lid, wordt op verzoek van de verkrijger een voorwaardelijke vrijstelling verleend van: 
 
-a. indien de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft € 1 006 000 niet te boven gaat: 100%;  
+a. indien de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft € 1 028 132 niet te boven gaat: 100%;  
 
 b. in alle overige gevallen: 
 
 1°. indien de liquidatiewaarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft hoger is dan de waarde going concern: 100 percent van het verschil tussen liquidatiewaarde en lagere waarde going concern;  
 
-2°. voor zover de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft, na toepassing van hetgeen is bepaald onder 1°, € 1 006 000 niet te boven gaat: 100%, en  
+2°. voor zover de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft, na toepassing van hetgeen is bepaald onder 1°, € 1 028 132 niet te boven gaat: 100%, en  
 
-3°. voor zover de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft, na toepassing van hetgeen is bepaald onder 1°, € 1 006 000 te boven gaat: 83%.     Bij ministeriële regeling worden regels gesteld met betrekking tot hetgeen voor de toepassing van dit artikel wordt verstaan onder een objectieve onderneming. Daarbij kan worden bepaald in hoeverre tot die objectieve onderneming tevens worden gerekend vermogensbestanddelen die worden ter beschikking gesteld aan een samenwerkingsverband en vermogensbestanddelen als bedoeld in artikel 35c, eerste lid, onderdeel d.   
+3°. voor zover de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft, na toepassing van hetgeen is bepaald onder 1°, € 1 028 132 te boven gaat: 83%.     Bij ministeriële regeling worden regels gesteld met betrekking tot hetgeen voor de toepassing van dit artikel wordt verstaan onder een objectieve onderneming. Daarbij kan worden bepaald in hoeverre tot die objectieve onderneming tevens worden gerekend vermogensbestanddelen die worden ter beschikking gesteld aan een samenwerkingsverband en vermogensbestanddelen als bedoeld in artikel 35c, eerste lid, onderdeel d.   
 2.  Op verzoek van de verkrijger wordt voorts de waarde van het verkregen ondernemingsvermogen na aftrek van het bedrag van de voorwaardelijke vrijstelling aangemerkt als geconserveerde waarde, dit met het oog op de toepassing van [artikel 25, twaalfde lid, van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
 3.  De belasting over de geconserveerde waarde wordt bepaald op het verschil tussen de belasting over de belaste verkrijging en de belasting over de belaste verkrijging verminderd met deze geconserveerde waarde.   
 4.  Indien het ondernemingsvermogen is verkregen onder een last of tegen een tegenprestatie, wordt voor de toepassing van dit artikel die last of tegenprestatie niet in mindering gebracht op de waarde van het verkregen ondernemingsvermogen.   
@@ -653,11 +645,11 @@ Een beroepschrift kan op de voet van [artikel 26a van de Algemene wet inzake rij
 
 1°. voor de erfbelasting na de dag van inschrijving van de akte van overlijden in de registers van de burgerlijke stand, met dien verstande dat in de gevallen, bedoeld in artikel 45, tweede en derde lid, de termijnen niet eerder beginnen te lopen dan vanaf de dag waarop de termijn van aangifte ingaat en worden verlengd met de tijd dat de termijn van aangifte niet loopt;  
 
-2°. voor de schenkbelasting, ingeval geen aangifte is gedaan, na de dag van inschrijving van de akte van overlijden van de schenker of van de begiftigde in de registers van de burgerlijke stand, met dien verstande dat ingeval zowel de schenker als de begiftigde een rechtspersoon is, de bevoegdheid tot het vaststellen van een aanslag of navorderingsaanslag twintig jaren na de schenking vervalt;  
+2°. voor de schenkbelasting, ingeval geen aangifte is gedaan, na de dag van inschrijving van de akte van overlijden van de schenker of van de begiftigde in de registers van de burgerlijke stand, dan wel ingeval niet tijdig aangifte is gedaan, na de dag van die aangifte met dien verstande dat ingeval zowel de schenker als de begiftigde een rechtspersoon is, de bevoegdheid tot het vaststellen van een aanslag of navorderingsaanslag twintig jaren na de schenking vervalt;  
 
 3°. voor het geval het betreft het vaststellen van een aanslag of conserverende aanslag in verband met een gebeurtenis als bedoeld in artikel 35e, na de dag waarop die gebeurtenis zich heeft voorgedaan.     
 2.  Betreft het de bevoegdheid tot het vaststellen van een navorderingsaanslag wegens het ten onrechte of tot een te hoog bedrag verlenen van een vermindering op grond van artikel 53, dan gaat de termijn in na de dag waarop de vermindering is verleend.   
-3.  Indien voor de erfbelasting de aangifte over een bestanddeel van het voorwerp van enige belasting dat in het buitenland wordt gehouden of is opgekomen niet, onjuist of onvolledig is gedaan, is de erfgenaam gehouden alsnog een juiste en volledige aangifte te doen zodra hij hiervan kennis neemt. In afwijking van [artikel 16, vierde lid, van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) vervalt in deze gevallen de bevoegdheid tot het vaststellen van een navorderingsaanslag niet.   
+3.  Indien voor de erfbelasting de aangifte over een bestanddeel van het voorwerp van die belasting dat in het buitenland wordt gehouden of is opgekomen niet, onjuist of onvolledig is gedaan, vervalt, in afwijking van [artikel 16, vierde lid, van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de bevoegdheid tot het vaststellen van een navorderingsaanslag niet.   
 
 ### Hoofdstuk  XI  
 
@@ -679,7 +671,7 @@ Een beroepschrift kan op de voet van [artikel 26a van de Algemene wet inzake rij
 a. een andere Staat, voor zover de belasting meer bedraagt dan de belasting die de Nederlandse Staat verschuldigd zou zijn;  
 
 b. een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam van een andere Staat, voor zover de belasting meer bedraagt dan de belasting die een Nederlandse provincie of gemeente verschuldigd zou zijn;   een en ander met dien verstande dat zodanige kwijtschelding van belasting alleen wordt verleend, indien de Staat die de making of schenking verkrijgt of waar de verkrijger is gevestigd, verklaart dat in geval van makingen of schenkingen door een inwoner van die Staat aan de Nederlandse Staat, een Nederlandse provincie of gemeente, over die makingen of schenkingen niet meer belasting zal worden geheven dan ingeval de buitenlandse Staat zelf zou verkrijgen of de verkrijger op het grondgebied van de buitenlandse Staat zou zijn gevestigd.   
-3.  Onze Minister kan, in bij algemene maatregel van bestuur te bepalen gevallen en volgens daarbij te stellen regels, geheel of gedeeltelijk kwijtschelding verlenen van de verschuldigde erfbelasting en de evenredig met deze gehele of gedeeltelijke kwijtschelding samenhangende heffingsrente indien voorwerpen uit de nalatenschap met een nationaal cultuurhistorisch of kunsthistorisch belang, door de verkrijger in eigendom worden overgedragen aan de Staat. Het bedrag van de kwijtschelding beloopt 120 percent van de waarde van de overgedragen voorwerpen maar niet meer dan de verschuldigde belasting en de in rekening gebrachte heffingsrente.   
+3.  Onze Minister kan, in bij algemene maatregel van bestuur te bepalen gevallen en volgens daarbij te stellen regels, geheel of gedeeltelijk kwijtschelding verlenen van de verschuldigde erfbelasting en de evenredig met deze gehele of gedeeltelijke kwijtschelding samenhangende belastingrente indien voorwerpen uit de nalatenschap met een nationaal cultuurhistorisch of kunsthistorisch belang, door de verkrijger in eigendom worden overgedragen aan de Staat. Het bedrag van de kwijtschelding beloopt 120 percent van de waarde van de overgedragen voorwerpen maar niet meer dan de verschuldigde belasting en de in rekening gebrachte belastingrente.   
 
 ### Hoofdstuk  XII  
 
@@ -692,8 +684,9 @@ b. een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam van ee
 
 ### Artikel  72  
 
-1.  Executeurs van nalatenschappen zijn, op gelijke wijze als de erfgenamen, tot vervulling van al de aan deze bij deze wet opgelegde verplichtingen gehouden, in geval al de erfgenamen buiten Nederland hun woonplaats hebben. Zij zijn tot het doen van aangifte bevoegd, waarbij alle erfgenamen de aangifte mede dienen te ondertekenen, bijaldien één of meer van de erfgenamen hun woonplaats in Nederland hebben. Indien zij van deze bevoegdheid hebben gebruik gemaakt, zijn zij, op gelijke wijze als de erfgenamen, tot vervulling van al de aan deze bij deze wet opgelegde verplichtingen gehouden.   
+1.  Executeurs van nalatenschappen zijn, op gelijke wijze als de erfgenamen, tot vervulling van al de bij deze wet opgelegde verplichtingen gehouden.   
 2.  Door de rechter benoemde vereffenaars van nalatenschappen zijn gehouden tot al de bij deze wet aan erfgenamen opgelegde verplichtingen.   
+3.  Desgevraagd verstrekt de Belastingdienst de erfgenaam inzage in de voor de belastingheffing te zijnen aanzien van belang zijnde stukken.   
 
 ### Artikel  73  
 

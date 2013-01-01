@@ -246,14 +246,6 @@ d. vloeibaar gemaakt petroleumgas, per 1000 kilogram € 5,90
 
 ####Beroep
 
-### Artikel  23  
-
-Een belanghebbende kan beroep instellen bij het College van Beroep voor het bedrijfsleven: 
-
-a. tegen een besluit dat is genomen op grond van hoofdstuk 2, met uitzondering van artikel 21, en  
-
-b. tegen een besluit dat is genomen op grond van een bilateraal akkoord, en betrekking heeft op het niet in Nederland aanhouden van een wettelijke voorraad.    
-
 ### Titel  5  
 
 ####Handhaving
@@ -282,7 +274,7 @@ Dit hoofdstuk heeft uitsluitend betrekking op het, op grond van een bilateraal a
 a. toestemming naar zijn oordeel zou kunnen leiden tot een situatie die in strijd zou zijn met het betrokken bilaterale akkoord, of  
 
 b. weigering naar zijn oordeel anderszins noodzakelijk is met het oog op de naleving van voor Nederland geldende internationale verplichtingen.     
-2.  Indien de aanvraag is geweigerd op grond van het eerste lid, onderdeel b, is degene die de aanvraag had ingediend verplicht om met COVA te onderhandelen over het door COVA aanhouden van de betrokken voorraad aardolieproducten als wettelijke voorraad. Tegen de beslissing op de aanvraag kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.   
+2.  Indien de aanvraag is geweigerd op grond van het eerste lid, onderdeel b, is degene die de aanvraag had ingediend verplicht om met COVA te onderhandelen over het door COVA aanhouden van de betrokken voorraad aardolieproducten als wettelijke voorraad.   
 
 ### Artikel  27  
 

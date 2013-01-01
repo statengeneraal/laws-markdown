@@ -40,7 +40,7 @@ e. gemeenschapsonderdanen:
 
 f. herhaalde aanvraag: een aanvraag, die op grond van [artikel 4:6, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan worden afgewezen;  
 
-g. de korpschef: de korpschef, bedoeld in [artikel 24 van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+g. de korpschef: de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
 h. machtiging tot voorlopig verblijf: het bij een Nederlandse diplomatieke of consulaire vertegenwoordiging in het land van herkomst, het land van bestendig verblijf of, bij gebreke daarvan, het dichtstbijzijnde land waar wel een vertegenwoordiging is gevestigd, dan wel bij het Kabinet van de Gouverneur van de Nederlandse Antillen of het Kabinet van de Gouverneur van Aruba aldaar, door de vreemdeling in persoon aangevraagde en aldaar door die vertegenwoordiging of dat Kabinet na voorafgaande machtiging van Onze Minister van Buitenlandse Zaken afgegeven visum voor een verblijf van langer dan drie maanden;  
 
@@ -469,7 +469,7 @@ h. de vreemdeling, die niet behoort tot een der categorieën, bedoeld in artikel
 
 ### Artikel  16a  
 
-1.  De aanvraag tot het wijzigen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 kan worden afgewezen op de gronden, bedoeld in artikel 16, eerste lid, onder b tot en met g, alsmede indien de vreemdeling het inburgeringsexamen, bedoeld in [artikel 13 van de Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md), niet heeft behaald.   
+1.  De aanvraag tot het wijzigen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 kan worden afgewezen op de gronden, bedoeld in artikel 16, eerste lid, onder b tot en met g, alsmede indien de vreemdeling het examen, bedoeld in [artikel 7, tweede lid, onderdeel a, van de Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md), of een diploma, certificaat of ander document, bedoeld in [artikel 5, eerste lid, onderdeel c, van die wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), niet heeft behaald.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de toepassing van de gronden, bedoeld in het eerste lid.   
 
 ### Artikel  17  
@@ -522,7 +522,11 @@ e. de vreemdeling een gevaar vormt voor de openbare orde of nationale veiligheid
 
 f. niet wordt voldaan aan de beperking waaronder de vergunning is verleend of een voorschrift dat aan de vergunning is verbonden;  
 
-g. de vreemdeling voor een werkgever arbeid verricht, zonder dat aan de [Wet arbeid vreemdelingen](../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md) is voldaan.     
+g. de vreemdeling voor een werkgever arbeid verricht, zonder dat aan de [Wet arbeid vreemdelingen](../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md) is voldaan;  
+
+h.  dit onderdeel is nog niet in werking getreden;   
+
+i. de vreemdeling niet heeft voldaan aan de inburgeringsplicht, bedoeld in [artikel 7, eerste lid, van de Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md), binnen de in dat artikel genoemde termijn, of binnen de met toepassing van artikel 7, derde lid, van die wet of van de krachtens artikel 7, vierde lid, aanhef en onderdeel a, van die wet gestelde regels verlengde termijn.     
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de toepassing van de gronden, bedoeld in het eerste lid.   
 
 ### Artikel  19  
@@ -566,7 +570,7 @@ i. rechtmatig verblijf heeft als bedoeld in artikel 8, onderdeel c of d, of in a
 
 j. een bijzondere geprivilegieerde status bezit dan wel heeft bezeten in de periode van vijf jaren direct voorafgaande aan de aanvraag;  
 
-k. het inburgeringsexamen, bedoeld in [artikel 13 van de Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md), niet heeft behaald.     
+k. het examen, bedoeld in [artikel 7, tweede lid, onderdeel a, van de Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md), of een diploma, certificaat of ander document, bedoeld in [artikel 5, eerste lid, onderdeel c, van die wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), niet heeft behaald.     
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de gronden, bedoeld in het eerste lid.   
 3.  Tenzij de vergunning is verleend met toepassing van artikel 21a, wordt op het document, bedoeld in artikel 9, de aantekening «EG-langdurig ingezetene» geplaatst.   
 
@@ -795,7 +799,7 @@ b. een verleende verblijfsvergunning voor onbepaalde tijd in te trekken.
 
 ### Artikel  34  
 
-1.  De aanvraag tot het verlenen van een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 33 van de vreemdeling die direct voorafgaande aan de aanvraag, gedurende vijf achtereenvolgende jaren rechtmatig verblijf heeft genoten als bedoeld in artikel 8, onder c, kan slechts worden afgewezen indien zich op het moment waarop de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28, afloopt, een grond als bedoeld in artikel 32 voordoet, dan wel indien de vreemdeling het inburgeringsexamen, bedoeld in [artikel 13 van de Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md), niet heeft behaald.   
+1.  De aanvraag tot het verlenen van een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 33 van de vreemdeling die direct voorafgaande aan de aanvraag, gedurende vijf achtereenvolgende jaren rechtmatig verblijf heeft genoten als bedoeld in artikel 8, onder c, kan slechts worden afgewezen indien zich op het moment waarop de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28, afloopt, een grond als bedoeld in artikel 32 voordoet, dan wel indien de vreemdeling het examen, bedoeld in [artikel 7, tweede lid, onderdeel a, van de Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md), of een diploma, certificaat of ander document, bedoeld in [artikel 5, eerste lid, onderdeel c, van die wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), niet heeft behaald.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de toepassing van het inburgeringsvereiste, bedoeld in het eerste lid.   
 
 ### Artikel  35  
@@ -939,11 +943,11 @@ b. een verblijfsvergunning is ingetrokken of niet verlengd.
 
 a. de ambtenaren van de Koninklijke marechaussee;  
 
-b. de ambtenaren van het regionale politiekorps Rotterdam-Rijnmond;  
+b. de ambtenaren die zijn tewerkgesteld bij de regionale eenheid in het gebied waarin de haven van Rotterdam is gelegen;  
 
 c. de directeur van een grenslogies als bedoeld in [artikel 3 van het Reglement regime grenslogies](../../../../AMvB/reglement/regime/grenslogies/BWBR0005848/README.md);  
 
-d. de bij besluit van Onze Minister, in overeenstemming met Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Defensie, aangewezen ambtenaren van politie als bedoeld in [artikel 3, eerste lid, onder a en c, en tweede lid, van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md).     
+d. de bij besluit van Onze Minister, in overeenstemming met Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Defensie, aangewezen ambtenaren van politie als bedoeld in [artikel 2, onder a, c en d, van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md) die zijn aangesteld voor de uitvoering van de politietaak.     
 2.  Bij algemene maatregel van bestuur worden regels gesteld omtrent: 
 
 a. de in het belang van de grensbewaking te treffen voorzieningen;  
@@ -955,12 +959,12 @@ b. de verplichtingen waaraan personen zijn onderworpen met het oog op de control
 
 1.  Met het toezicht op de naleving van de wettelijke voorschriften met betrekking tot vreemdelingen zijn belast: 
 
-a. de ambtenaren van politie als bedoeld in [artikel 3, eerste lid, onder a en c, en tweede lid, van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+a. de ambtenaren van politie, bedoeld in [artikel 2, onder a, c en d, van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md), die zijn aangesteld voor de uitvoering van de politietaak;  
 
 b. de ambtenaren van de Koninklijke marechaussee;  
 
 c. de bij besluit van Onze Minister aangewezen ambtenaren.     
-2.  De ambtenaren van politie als bedoeld in [artikel 3, eerste lid, onder a en c, en tweede lid, van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md) oefenen het toezicht op vreemdelingen uit onder leiding van de korpschef.   
+2.  De ambtenaren van politie, bedoeld in [artikel 2, onder a, c en d, van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md), die zijn aangesteld voor de uitvoering van de politietaak oefenen het toezicht op vreemdelingen uit onder leiding van de korpschef.   
 3.  De ambtenaren van de Koninklijke marechaussee oefenen het toezicht op vreemdelingen uit onder leiding van de Commandant der Koninklijke marechaussee.   
 
 ### Artikel  47a  
@@ -974,7 +978,7 @@ c. de bij besluit van Onze Minister aangewezen ambtenaren.
 2.  Onze Minister kan aan de korpschef en aan de Commandant der Koninklijke marechaussee aanwijzingen geven over de uitvoering van deze wet en van de Schengengrenscode. Onze Minister kan individuele aanwijzingen geven aan de ambtenaren, bedoeld in artikel 47, eerste lid.   
 3.  Onze Minister kan aanwijzingen geven over de inrichting van de werkprocessen en bedrijfsvoering aan: 
 
-a. de korpschef, door tussenkomst van de beheerder van het regionale politiekorps;  
+a. de korpschef, door tussenkomst van Onze Minister van Veiligheid en Justitie;  
 
 b. de Commandant der Koninklijke marechaussee, door tussenkomst van de Minister van Defensie.     
 4.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over het eerste, tweede en derde lid.   
@@ -993,7 +997,7 @@ b. de Commandant der Koninklijke marechaussee, door tussenkomst van de Minister 
 1.  De ambtenaren belast met de grensbewaking en de ambtenaren belast met het toezicht op vreemdelingen, zijn bevoegd, hetzij op grond van feiten en omstandigheden die, naar objectieve maatstaven gemeten, een redelijk vermoeden van illegaal verblijf opleveren hetzij ter bestrijding van illegaal verblijf na grensoverschrijding, personen staande te houden ter vaststelling van hun identiteit, nationaliteit en verblijfsrechtelijke positie. Degene die stelt Nederlander te zijn, maar dat niet kan aantonen, kan worden onderworpen aan de dwangmiddelen als bedoeld in het tweede en vijfde lid. Bij algemene maatregel van bestuur worden de documenten aangewezen waarover een vreemdeling moet beschikken ter vaststelling van zijn identiteit, nationaliteit en verblijfsrechtelijke positie.   
 2.  Indien de identiteit van de staande gehouden persoon niet onmiddellijk kan worden vastgesteld, mag hij worden overgebracht naar een plaats bestemd voor verhoor. Hij wordt aldaar niet langer dan gedurende zes uren opgehouden, met dien verstande, dat de tijd tussen middernacht en negen uur voormiddags niet wordt meegerekend.   
 3.  Indien de identiteit van de staande gehouden persoon onmiddellijk kan worden vastgesteld en indien blijkt dat deze persoon geen rechtmatig verblijf geniet, dan wel niet onmiddellijk blijkt dat hij rechtmatig verblijf heeft, mag hij worden overgebracht naar een plaats bestemd voor verhoor. Hij wordt aldaar niet langer dan gedurende zes uren opgehouden, met dien verstande, dat de tijd tussen middernacht en negen uur voormiddags niet wordt meegerekend.   
-4.  Indien nog grond bestaat voor het vermoeden dat de opgehouden persoon geen rechtmatig verblijf heeft, kan de in het tweede en derde lid bepaalde termijn door de Commandant der Koninklijke marechaussee respectievelijk door de korpschef, bevoegd ter plaatse waar die persoon zich bevindt, in het belang van het onderzoek met ten hoogste acht en veertig uren worden verlengd.   
+4.  Indien nog grond bestaat voor het vermoeden dat de opgehouden persoon geen rechtmatig verblijf heeft, kan de in het tweede en derde lid bepaalde termijn door de Commandant der Koninklijke marechaussee respectievelijk door de korpschef in het belang van het onderzoek met ten hoogste acht en veertig uren worden verlengd.   
 5.  De in het eerste lid bedoelde ambtenaren zijn bevoegd de opgehouden persoon aan diens kleding of lichaam te onderzoeken, alsmede zaken van deze persoon te doorzoeken.   
 6.  Bij algemene maatregel van bestuur worden nadere regelen gegeven omtrent de toepassing van de voorgaande leden van dit artikel.   
 
@@ -1242,8 +1246,9 @@ e. in het belang van de internationale betrekkingen van Nederland.
 
 ### Artikel  71  
 
-1.  In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is voor beroepen tegen besluiten, gegeven op grond van deze wet de rechtbank te 's-Gravenhage bevoegd.   
+1.  In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is voor beroepen tegen besluiten, gegeven op grond van deze wet de rechtbank Den Haag bevoegd.   
 2.  Tegen een besluit, gegeven op grond van de artikelen 43 en 45, vierde lid, kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State. De artikelen 70, eerste lid, en 89 zijn van overeenkomstige toepassing.   
+3.  De rechtbank Den Haag kan beroepen tegen besluiten als bedoeld in het eerste lid behandelen in alle zittingsplaatsen van alle rechtbanken, als bedoeld in [artikel 21b, eerste en tweede lid, van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md).   
 
 ### Afdeling  2  
 

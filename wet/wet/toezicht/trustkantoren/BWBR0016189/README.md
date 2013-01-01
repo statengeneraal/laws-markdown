@@ -189,20 +189,6 @@ d. de aan de vergunning of de ontheffing verbonden voorschriften en gestelde bep
 
 ####Kosten
 
-### Artikel  8  
-
-1.  De aanvrager is ter zake van een aanvraag van een vergunning of van een ontheffing aan de toezichthouder een bedrag verschuldigd.   
-2.  Het trustkantoor dat is ingeschreven in het register is, ter dekking van de kosten verbonden aan het toezicht op de ingeschreven trustkantoren, aan de toezichthouder een bedrag verschuldigd.   
-3.  De hoogte van de in dit artikel bedoelde bedragen wordt zodanig vastgesteld dat het totaal van de in rekening te brengen bedragen gezamenlijk ten hoogste gelijk is aan de kosten die de toezichthouder maakt ter zake van de behandeling van de vergunningaanvragen, de ontheffingsaanvragen en ter zake van het toezicht dat de toezichthouder uitoefent op ingeschreven trustkantoren.   
-4.  De in dit artikel bedoelde bedragen worden vastgesteld door Onze Minister.   
-5.  Het ingevolge dit artikel verschuldigde bedrag wordt betaald binnen vier weken na dagtekening van de brief waarbij de betalingsverplichting is opgelegd.   
-6.  Bij gebreke van betaling wordt het verschuldigde bedrag vermeerderd met de wettelijke rente, te rekenen vanaf de dag waarop de in het vijfde lid bedoelde termijn is verstreken.   
-7.  Indien het verschuldigde bedrag niet binnen de gestelde termijn is betaald, stuurt de toezichthouder een schriftelijke aanmaning om binnen twee weken na dagtekening van de aanmaning dit bedrag, verhoogd met de rente en de kosten van de aanmaning, alsnog te betalen. De aanmaning bevat de aanzegging, dat het bedrag, voor zover dit niet binnen de gestelde termijn wordt betaald, overeenkomstig het achtste lid zal worden ingevorderd.   
-8.  Bij gebreke van tijdige betaling kan de toezichthouder het bedrag, verhoogd met de kosten van de aanmaning en van de invordering, bij dwangbevel invorderen.   
-9.  Het dwangbevel wordt op kosten van het trustkantoor bij deurwaardersexploot betekend en levert een executoriale titel op in de zin van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md).   
-10.  Gedurende zes weken na de dag van betekening staat verzet tegen het dwangbevel open door dagvaarding van de toezichthouder.   
-11.  Het verzet schorst de tenuitvoerlegging niet, tenzij de voorzieningenrechter desgevraagd anders beslist.   
-
 ### Hoofdstuk  3  
 
 ####Toezicht en inlichtingen
@@ -331,10 +317,6 @@ b. indien die buitenlandse instantie op een andere wijze dan in deze wet voorzie
 ### Hoofdstuk  6  
 
 ####Beroep
-
-### Artikel  19  
-
-In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten op grond van deze wet de rechtbank te Rotterdam bevoegd.  
 
 ### Hoofdstuk  7  
 

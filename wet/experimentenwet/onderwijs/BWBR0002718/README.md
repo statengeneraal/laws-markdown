@@ -61,8 +61,7 @@ d. indien Onze minister van oordeel is, dat voortzetting van het experiment niet
 
 ### Artikel  5  
 
-1.  Tegen een besluit genomen op grond van deze wet kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
-2.  De werking van de beschikking op een verzoek om verlenging van de bekostigingstermijn, alsmede omtrent beëindiging van de bekostiging op grond van artikel 2, zesde lid, wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.   
+De werking van de beschikking op een verzoek om verlenging van de bekostigingstermijn, alsmede omtrent beëindiging van de bekostiging op grond van artikel 2, zesde lid, wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.  
 
 ### Artikel  6  
 

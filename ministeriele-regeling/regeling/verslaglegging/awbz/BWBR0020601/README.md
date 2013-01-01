@@ -12,7 +12,7 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 a. de wet: de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
-b. het centraal administratiekantoor: het centraal administratiekantoor, bedoeld in [artikel 1, onderdeel b, van het Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md);  
+b. het CAK: het CAK, genoemd in [artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
 c. een verbindingskantoor: een verbindingskantoor als bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md).    
 
@@ -32,7 +32,7 @@ a. de lasten en baten van het beheer;
 
 b. de lasten en baten van de zorgverlening en inning van eigen bijdragen als bedoeld in [artikel 6, vierde lid van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), met inbegrip van de eigen bijdragen die door het College zorgverzekeringen worden verrekend;  
 
-c. de lasten en baten van zorgverlening en inning van eigen bijdragen als bedoeld in [artikel 6, vierde lid van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), met inbegrip van de eigen bijdragen die door het centraal administratiekantoor worden verrekend;  
+c. de lasten en baten van zorgverlening en inning van eigen bijdragen als bedoeld in [artikel 6, vierde lid van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), met inbegrip van de eigen bijdragen die door het CAK worden verrekend;  
 
 d. de lasten en baten van de uitvoering van subsidieregelingen;  
 
@@ -40,8 +40,8 @@ e. overige lasten en baten.
 
 ### Artikel  3  
 
-1.  Het financieel verslag van het centraal administratiekantoor bevat een financiële verantwoording over de uitvoering van de [wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), volgens een door de zorgautoriteit aangegeven model.   
-2.  Het centraal administratiekantoor neemt in het financieel verslag op: 
+1.  Het financieel verslag van het CAK bevat een financiële verantwoording over de uitvoering van de [wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), volgens een door de zorgautoriteit aangegeven model.   
+2.  Het CAK neemt in het financieel verslag op: 
 
 a. een balans, voorzien van een toelichting;  
 
@@ -72,12 +72,12 @@ h. een ondertekende verklaring van het bestuur over de betrouwbaarheid van de ge
 
 ### Artikel  5  
 
-1.  Het uitvoeringsverslag van het centraal administratiekantoor bevat een verantwoording over de uitvoering van de [wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), volgens een door de zorgautoriteit aangegeven model.   
-2.  Het centraal administratiekantoor neemt in het uitvoeringsverslag op: 
+1.  Het uitvoeringsverslag van het CAK bevat een verantwoording over de uitvoering van de [wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), volgens een door de zorgautoriteit aangegeven model.   
+2.  Het CAK neemt in het uitvoeringsverslag op: 
 
 a. het profiel, de organisatiestructuur en het gevoerde en voorgenomen beleid bij de uitvoering van de [wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
-b. de resultaten van het door het centraal administratiekantoor gevoerde beleid ter uitvoering van zijn wettelijke taken;  
+b. de resultaten van het door het CAK gevoerde beleid ter uitvoering van zijn wettelijke taken;  
 
 c. een ondertekende verklaring van het bestuur over de betrouwbaarheid van de gevraagde en aangeleverde gegevens in het uitvoeringsverslag.     
 

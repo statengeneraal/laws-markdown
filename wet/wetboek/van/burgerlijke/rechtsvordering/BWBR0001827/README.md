@@ -408,7 +408,7 @@ c. aan de persoon of de woonplaats van een van de erfgenamen, mits binnen een ja
 1.  Ten aanzien van hen die geen bekende woonplaats in Nederland hebben, geschiedt de betekening ter plaatse van hun werkelijk verblijf.   
 2.  Indien de woonplaats en het werkelijk verblijf onbekend zijn en het exploot een te voeren of aanhangige procedure betreft, alsmede indien in rechte worden opgeroepen houders van aandelen of andere effecten, welke niet op naam staan of waarvan de houders niet bij name bekend zijn, geschiedt de betekening aan het parket van de ambtenaar van het openbaar ministerie bij het gerecht waar de zaak moet dienen of dient. Indien de zaak dient of moet dienen bij de Hoge Raad, geschiedt de betekening aan het parket van de procureur-generaal bij de Hoge Raad. Voorts wordt een uittreksel van het exploot zo spoedig mogelijk bekend gemaakt in een landelijk dagblad of in een dagblad verschijnend in de streek waar voormeld gerecht zitting houdt onder vermelding van naam en kantooradres van de deurwaarder of van de advocaat van wie afschrift van het exploot kan worden verkregen.   
 3.  Gelijkelijk wordt gehandeld ten aanzien van rechtspersonen, bestaande of ontbonden, bij gebreke van kantoor, bestuurder of vereffenaar, of wanneer de bestuurder of vereffenaar geen bekend kantoor, bekende woonplaats of bekend werkelijk verblijf heeft.   
-4.  Indien het exploot niet een te voeren of aanhangige procedure betreft, geschiedt de betekening aan het parket van de ambtenaar van het openbaar ministerie bij de rechtbank binnen het rechtsgebied waarvan de verzoeker zijn woonplaats of, bij gebreke daarvan, zijn werkelijk verblijf heeft, terwijl een uittreksel van het exploot voorts bekend wordt gemaakt in een landelijk dagblad of in een dagblad verschijnend in de streek waar de verzoeker woonplaats of werkelijk verblijf heeft, onder vermelding van naam en kantooradres van de deurwaarder of van de advocaat van wie afschrift van het exploot kan worden verkregen. Heeft de verzoeker geen bekende woonplaats of bekend werkelijk verblijf in Nederland, dan geschiedt de betekening aan het parket van de ambtenaar van het openbaar ministerie bij de rechtbank te 's-Gravenhage.   
+4.  Indien het exploot niet een te voeren of aanhangige procedure betreft, geschiedt de betekening aan het parket van de ambtenaar van het openbaar ministerie bij de rechtbank binnen het rechtsgebied waarvan de verzoeker zijn woonplaats of, bij gebreke daarvan, zijn werkelijk verblijf heeft, terwijl een uittreksel van het exploot voorts bekend wordt gemaakt in een landelijk dagblad of in een dagblad verschijnend in de streek waar de verzoeker woonplaats of werkelijk verblijf heeft, onder vermelding van naam en kantooradres van de deurwaarder of van de advocaat van wie afschrift van het exploot kan worden verkregen. Heeft de verzoeker geen bekende woonplaats of bekend werkelijk verblijf in Nederland, dan geschiedt de betekening aan het parket van de ambtenaar van het openbaar ministerie bij de rechtbank Den Haag.   
 5.  Indien het exploot ten verzoeke van de ene echtgenoot of geregistreerde partner aan de andere wordt gedaan, houdt het de naam van de raadsman van die andere echtgenoot of geregistreerde partner in, indien deze bekend is.   
 
 ### Artikel  55  
@@ -520,14 +520,14 @@ Een exploot of akte van rechtspleging kan slechts nietig worden verklaard, indie
 
 ### Artikel  70  
 
-1.  Voor zover de rechter de aanlegger in zijn vordering of verzoek niet-ontvankelijk verklaart omdat bezwaar kon worden gemaakt, administratief beroep kon worden ingesteld of beroep bij een administratieve rechter kon worden ingesteld, wordt dit in het vonnis, het arrest of de beschikking vermeld.   
+1.  Voor zover de rechter de aanlegger in zijn vordering of verzoek niet-ontvankelijk verklaart omdat bezwaar kon worden gemaakt, administratief beroep kon worden ingesteld of beroep bij een bestuursrechter kon worden ingesteld, wordt dit in het vonnis, het arrest of de beschikking vermeld.   
 2.  Indien de niet-ontvankelijkheid voor de aanlegger onduidelijk kon zijn, vermeldt de rechter tevens in het vonnis, het arrest of de beschikking bij welk orgaan alsnog bezwaar kan worden gemaakt of alsnog beroep kan worden ingesteld. Het orgaan waarbij alsnog bezwaar kan worden gemaakt of alsnog beroep kan worden ingesteld, is aan die beslissing gebonden.   
 3.  De termijn voor het alsnog indienen van het bezwaar- of beroepschrift vangt aan met ingang van de dag na die waarop het vonnis, het arrest of de beschikking onherroepelijk is geworden.   
 
 ### Artikel  71  
 
-1.  Moet een zaak, in behandeling bij de kantonrechter, verder worden behandeld en beslist door een kamer die niet tot de sector kanton behoort, dan wordt de zaak daartoe op verlangen van een der partijen of ambtshalve naar een zodanige kamer verwezen.   
-2.  Moet een zaak, in behandeling bij een kamer die niet tot de sector kanton behoort, verder worden behandeld en beslist door de kantonrechter, dan wordt de zaak daartoe op verlangen van een der partijen of ambtshalve verwezen naar een kamer die tot de sector kanton behoort.   
+1.  Moet een zaak, in behandeling bij de kantonrechter, verder worden behandeld en beslist door een kamer voor andere zaken dan kantonzaken, dan wordt de zaak daartoe op verlangen van een der partijen of ambtshalve naar een zodanige kamer verwezen.   
+2.  Moet een zaak, in behandeling bij een kamer voor andere zaken dan kantonzaken, verder worden behandeld en beslist door de kantonrechter, dan wordt de zaak daartoe op verlangen van een der partijen of ambtshalve verwezen naar een kamer voor kantonzaken.   
 3.  De vraag of verwijzing nodig is beoordeelt de rechter, voor zover daarvoor het onderwerp van het geschil bepalend is, aan de hand van zijn voorlopig oordeel over het onderwerp van het geschil.   
 4.  In de beslissing tot verwijzing vermeldt de rechter op welke wijze partijen in de procedure moeten verschijnen en, voor zover van toepassing, het griffierecht of het verhoogde griffierecht dat ingevolge [artikel 8 van de Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) van partijen wordt geheven en binnen welke termijn dit griffierecht of dit verhoogde griffierecht betaald dient te worden. De volledige volzin in artikel 111, tweede lid, onderdeel k, is van overeenkomstige toepassing. In het geval van een dagvaardingsprocedure vermeldt de rechter tevens een nieuwe roldatum en beveelt hij, indien tegen de gedaagde verstek is verleend, dat deze door de eiser bij exploot aan de gedaagde wordt aangezegd onder betekening van de beslissing tot verwijzing.   
 5.  Tegen een verwijzing en tegen het achterwege laten van verwijzing staat geen voorziening open. De rechter naar wie de zaak is verwezen, is aan de verwijzing gebonden.   
@@ -669,7 +669,7 @@ a. zaken betreffende vorderingen met een beloop van ten hoogste € 25.000, de t
 
 b. zaken betreffende vorderingen van onbepaalde waarde, indien er duidelijke aanwijzingen bestaan dat de vordering geen hogere waarde vertegenwoordigt dan € 25.000;  
 
-c. zaken betreffende een arbeidsovereenkomst, een collectieve arbeidsovereenkomst, algemeen verbindend verklaarde bepalingen van een collectieve arbeidsovereenkomst, een vut-overeenkomst als bedoeld in de Wet kaderregeling vut overheidspersoneel, een krediettransactie als bedoeld in de [Wet op het consumentenkrediet](../../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md) of een agentuur-, huur-, huurkoop- of consumentenkoopovereenkomst, ongeacht het beloop of de waarde van de vordering;  
+c. zaken betreffende een arbeidsovereenkomst, een collectieve arbeidsovereenkomst, algemeen verbindend verklaarde bepalingen van een collectieve arbeidsovereenkomst, een vut-overeenkomst als bedoeld in de Wet kaderregeling vut overheidspersoneel, een consumentenkredietovereenkomst met een kredietsom van ten hoogste € 40 000 of een agentuur-, huur-, huurkoop- of consumentenkoopovereenkomst, ongeacht het beloop of de waarde van de vordering;  
 
 d. andere zaken ten aanzien waarvan de wet dit bepaalt.    
 
@@ -695,7 +695,7 @@ In alle zaken die slechts rechtsgevolgen betreffen die ter vrije bepaling van pa
 
 ### Artikel  98  
 
-Indien de kantonrechter in de gevallen, bedoeld in de artikelen 94, tweede tot en met vierde lid, en 97, eerste lid, van oordeel is dat de zaak ongeschikt is voor behandeling en beslissing door één rechter, kan hij de zaak met toepassing van artikel 15, tweede lid, verwijzen naar een meervoudige kamer van een andere sector dan de sector kanton.  
+Indien de kantonrechter in de gevallen, bedoeld in de artikelen 94, tweede tot en met vierde lid, en 97, eerste lid, van oordeel is dat de zaak ongeschikt is voor behandeling en beslissing door één rechter, kan hij de zaak met toepassing van artikel 15, tweede lid, verwijzen naar een meervoudige kamer voor andere zaken dan kantonzaken.  
 
 ### Derde  afdeling  
 
@@ -703,7 +703,7 @@ Indien de kantonrechter in de gevallen, bedoeld in de artikelen 94, tweede tot e
 
 ### Artikel  99  
 
-1.  Tenzij de wet of een krachtens artikel 108a vastgestelde algemene maatregel van bestuur anders bepaalt, is bevoegd de rechter van de woonplaats van de gedaagde.   
+1.  Tenzij de wet anders bepaalt, is bevoegd de rechter van de woonplaats van de gedaagde.   
 2.  Bij gebreke van een bekende woonplaats van de gedaagde in Nederland is bevoegd de rechter van zijn werkelijk verblijf.   
 
 ### Artikel  100  
@@ -750,13 +750,9 @@ b. de werknemer, de partij die niet handelt in de uitoefening van beroep of bedr
 3.  Een overeenkomst tot aanwijzing van een bevoegde rechter wordt bewezen door een geschrift. Daarvoor is voldoende een geschrift dat een dergelijk beding bevat of dat verwijst naar algemene voorwaarden die een dergelijk beding bevatten, mits dat geschrift door of namens de wederpartij uitdrukkelijk of stilzwijgend is aanvaard.   
 4.  Een overeenkomst tot aanwijzing van een bevoegde rechter dient als een afzonderlijke overeenkomst te worden beschouwd en beoordeeld. De aangewezen rechter is bevoegd te oordelen over de rechtsgeldigheid van de hoofdovereenkomst waarvan een overeenkomst tot aanwijzing van een bevoegde rechter deel uitmaakt of waarop zij betrekking heeft.   
 
-### Artikel  108a  
-
-Indien een voortdurend gebrek aan voldoende zittingscapaciteit bij een rechtbank daartoe noodzaakt, kan bij algemene maatregel van bestuur voor de duur van ten hoogste twee jaar een andere dan de overeenkomstig de artikelen 99 tot en met 108 bevoegde rechtbank worden aangewezen als bevoegde rechtbank voor zaken die behoren tot een bij die maatregel aangewezen categorie. Onder zittingscapaciteit wordt verstaan hetgeen daaronder wordt verstaan in [artikel 1, onder h, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md).  
-
 ### Artikel  109  
 
-Wijzen de artikelen 99 tot en met 108 of een krachtens artikel 108a vastgestelde algemene maatregel van bestuur geen bevoegde rechter aan, dan is bevoegd de rechter van de woonplaats van de eiser dan wel, indien er meer eisers zijn, elk van de eisers of, bij gebreke daarvan, de rechter te 's-Gravenhage.  
+Wijzen de artikelen 99 tot en met 108 geen bevoegde rechter aan, dan is bevoegd de rechter van de woonplaats van de eiser dan wel, indien er meer eisers zijn, elk van de eisers of, bij gebreke daarvan, de rechter te 's-Gravenhage.  
 
 ### Artikel  110  
 
@@ -781,7 +777,7 @@ c. in zaken waarin partijen niet in persoon kunnen procederen, de naam en het ka
 
 d. de eis en de gronden daarvan;  
 
-e. de aanwijzing van de rechter die van de zaak kennisneemt, onder vermelding van het adres van het gerecht dan wel, indien de zaak moet worden behandeld op een nevenvestigingsplaats of nevenzittingsplaats van het gerecht, het adres van die nevenvestigingsplaats of nevenzittingsplaats alsmede, indien de zaak moet worden behandeld op een nevenzittingsplaats waar geen stukken kunnen worden ingediend, het adres waar stukken kunnen worden ingediend;  
+e. de aanwijzing van de rechter die van de zaak kennisneemt, onder vermelding van het adres van de zittingsplaats waar de zaak moet worden behandeld alsmede, indien de zaak moet worden behandeld in een zittingsplaats waar geen stukken kunnen worden ingediend, het adres waar stukken kunnen worden ingediend;  
 
 f. de roldatum waartegen wordt gedagvaard en, indien alsdan een terechtzitting plaatsvindt, het uur daarvan;  
 
@@ -1753,6 +1749,7 @@ b. de wederpartij van de partij die het verval vordert, aannemelijk maakt dat vo
 2.  Op aanvraag van de belanghebbende partij kan de voorzieningenrechter de dagvaarding bevelen tegen de dag en het uur, de zondag daarbij inbegrepen, voor elk geval te bepalen. Hij kan daarbij tevens bevelen dat de terechtzitting op een andere plaats dan in het gerechtsgebouw wordt gehouden. De voorzieningenrechter kan aan de dagbepaling voorwaarden verbinden, die door de eiser in acht moeten worden genomen. Deze voorwaarden moeten uit de dagvaarding blijken.   
 3.  De zaak kan ook worden aangebracht op een terechtzitting, door de voorzieningenrechter te houden op de daartoe door hem te bepalen werkdagen.   
 4.  In zaken die ten gronde door de kantonrechter worden behandeld en beslist is ook de kantonrechter bevoegd tot het geven van een voorziening als in deze afdeling bedoeld. Daarbij is op de kantonrechter van toepassing hetgeen omtrent de voorzieningenrechter is bepaald.   
+5.  Indien de gevorderde voorziening betrekking heeft op een zaak betreffende het personen- en familierecht als bedoeld in de zesde titel van het derde boek is artikel 803 van overeenkomstige toepassing.   
 
 ### Artikel  255  
 
@@ -1795,7 +1792,7 @@ Het verzet moet worden gedaan bij de voorzieningenrechter. Artikel 255, eerste l
 
 ### Artikel  262  
 
-Tenzij de wet of een krachtens artikel 268a vastgestelde algemene maatregel van bestuur anders bepaalt, is bevoegd: 
+Tenzij de wet anders bepaalt, is bevoegd: 
 
 a. de rechter van de woonplaats van hetzij de verzoeker of één van de verzoekers, hetzij één van de in het verzoekschrift genoemde belanghebbenden dan wel, als zodanige woonplaats in Nederland niet bekend is, de rechter van het werkelijk verblijf van één van hen.  
 
@@ -1826,13 +1823,9 @@ In zaken van afwezigheid of vermissing is bevoegd de rechter van de verlaten woo
 1.  In zaken betreffende nalatenschappen is bevoegd de rechter van de laatste woonplaats van de overledene. In afwijking van de eerste zin is in zaken die volgens [afdeling 7 van titel 5 van Boek 4 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) met een verzoekschrift moeten worden ingeleid, bevoegd de rechter van de woonplaats van de rechthebbende.   
 2.  Van de in artikel 12, vierde lid, tweede volzin, bedoelde beschikking wordt door de griffier afschrift gezonden aan de als uitsluitend bevoegde aangewezen kantonrechter, aan de onder curatele gestelde, de rechthebbende en degene ten behoeve van wie een mentorschap is ingesteld en voorts aan de curator, de mentor en aan ieder der bewindvoerders. Van de beslissing is geen hogere voorziening toegelaten. De kantonrechter die als uitsluitend bevoegde is aangewezen, is aan die aanwijzing gebonden.   
 
-### Artikel  268a  
-
-Indien een voortdurend gebrek aan voldoende zittingscapaciteit bij een rechtbank daartoe noodzaakt, kan bij algemene maatregel van bestuur voor de duur van ten hoogste twee jaar een andere dan de overeenkomstig de artikelen 262 tot en met 268 bevoegde rechtbank worden aangewezen als bevoegde rechtbank voor zaken die behoren tot een bij die maatregel aangewezen categorie. Onder zittingscapaciteit wordt verstaan hetgeen daaronder wordt verstaan in [artikel 1, onder h, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md).  
-
 ### Artikel  269  
 
-Wijzen de artikelen 262 tot en met 268 of een krachtens artikel 268a vastgestelde algemene maatregel van bestuur geen bevoegde rechter aan, dan is de rechter te 's-Gravenhage bevoegd.  
+Wijzen de artikelen 262 tot en met 268 geen bevoegde rechter aan, dan is de rechter te 's-Gravenhage bevoegd.  
 
 ### Artikel  270  
 
@@ -1867,7 +1860,7 @@ Indien de griffier een bij aangetekende brief verzonden oproeping terug ontvangt
 ### Artikel  276  
 
 1.  Oproepingen vermelden de plaats, de dag en het uur van de terechtzitting. Zij worden zo spoedig mogelijk en ten minste een week vóór die dag verzonden, tenzij de rechter anders bepaalt.   
-2.  Betreft de oproeping een belanghebbende in een zaak anders dan bij de sector kanton, dan bevat deze tevens de mededeling dat voor de indiening van een verweerschrift een griffierecht zal worden geheven, binnen welke termijn dit griffierecht betaald dient te worden, alsmede de hoogte daarvan. Hierbij wordt vermeld dat van een persoon die onvermogend is, een lager griffierecht wordt geheven, indien hij op het tijdstip waarop het griffierecht wordt geheven heeft overgelegd: 
+2.  Betreft de oproeping een belanghebbende in een andere zaak dan een kantonzaak, dan bevat deze tevens de mededeling dat voor de indiening van een verweerschrift een griffierecht zal worden geheven, binnen welke termijn dit griffierecht betaald dient te worden, alsmede de hoogte daarvan. Hierbij wordt vermeld dat van een persoon die onvermogend is, een lager griffierecht wordt geheven, indien hij op het tijdstip waarop het griffierecht wordt geheven heeft overgelegd: 
 
 1°. een afschrift van het besluit tot toevoeging, bedoeld in [artikel 29 van de Wet op de rechtsbijstand](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), of indien dit niet mogelijk is ten gevolge van omstandigheden die redelijkerwijs niet aan hem zijn toe te rekenen, een afschrift van de aanvraag als bedoeld in [artikel 24, tweede lid, van de Wet op de Rechtsbijstand](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), dan wel  
 
@@ -2943,13 +2936,13 @@ i. bezoldiging als bedoeld in [artikel 115 van de Ambtenarenwet](../../../../../
 
 a. echtgenoten of geregistreerde partners als bedoeld in [artikel 3 van Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) die beiden 21 jaar of ouder zijn: negentig procent van de norm genoemd in [artikel 21, onderdeel c](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), respectievelijk [artikel 22, onderdeel c en d, van die wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
-b. een alleenstaande en een alleenstaande ouder als bedoeld in [artikel 4, onderdeel a en b, van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) die 21 jaar of ouder, doch jonger dan 65 jaar zijn: 
+b. een alleenstaande en een alleenstaande ouder als bedoeld in [artikel 4, onderdeel a en b, van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) die 21 jaar of ouder zijn, maar nog niet de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), hebben bereikt: 
 
 1°. indien het periodieke inkomen bij de beslaglegger bekend is: 90 procent van dat inkomen inclusief de vakantie-aanspraak, doch ten minste 90 procent van de norm genoemd in [artikel 21, onderdeel a en b, van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en ten hoogste 90 procent van die norm nadat deze eerst is verhoogd met het bedrag genoemd in [artikel 25, tweede lid, van die wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
 2°. indien het periodieke inkomen niet bij de beslaglegger bekend is: 90 procent van de norm genoemd in [artikel 21, onderdeel a en b, van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);    
 
-c. een alleenstaande van 65 jaar of ouder en een alleenstaande ouder van 65 jaar of ouder: negentig procent van de norm genoemd in [artikel 22, onderdeel a en b, van die wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).     
+c. een alleenstaande en een alleenstaande ouder vanaf het moment dat zij de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), hebben bereikt: negentig procent van de norm genoemd in [artikel 22, onderdeel a en b, van die wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).     
 2.  De beslagvrije voet bedraagt voor schuldenaren die kunnen worden aangemerkt als: 
 
 a. echtgenoten of geregistreerde partners zonder ten laste komende kinderen die beiden jonger zijn dan 21 jaar: 90 procent van de norm genoemd in [artikel 20, eerste lid, onderdeel b, van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
@@ -4262,15 +4255,15 @@ In zaken van aanvaring of van een voorval als bedoeld in [artikel 541 van Boek 8
 
 ### Artikel  640  
 
-De dispacheur is bevoegd een door hem ondertekend exemplaar van de dispache ter griffie van de rechtbank te Rotterdam te deponeren en is alsdan verplicht, voor zover hem dit redelijkerwijs mogelijk is, alle belanghebbenden, onder toezending van een exemplaar der dispache of een uittreksel daarvan, bericht te zenden.  
+De dispacheur is bevoegd een door hem ondertekend exemplaar van de dispache ter griffie van de rechtbank Rotterdam te deponeren en is alsdan verplicht, voor zover hem dit redelijkerwijs mogelijk is, alle belanghebbenden, onder toezending van een exemplaar der dispache of een uittreksel daarvan, bericht te zenden.  
 
 ### Artikel  641  
 
-Hij, die de hem toegezonden dan wel ter griffie van de rechtbank te Rotterdam gedeponeerde dispache wenst af te wikkelen, verzoekt deze rechtbank de dispache te homologeren. Zo dit nog niet is geschied, legt hij een exemplaar der dispache of een uittreksel daarvan ter griffie neer.  
+Hij, die de hem toegezonden dan wel ter griffie van de rechtbank Rotterdam gedeponeerde dispache wenst af te wikkelen, verzoekt deze rechtbank de dispache te homologeren. Zo dit nog niet is geschied, legt hij een exemplaar der dispache of een uittreksel daarvan ter griffie neer.  
 
 ### Artikel  641a  
 
-1.  Ieder der in artikel 638 bedoelde personen, die zich niet met de hem toegezonden, dan wel ter griffie van de rechtbank te Rotterdam gedeponeerde dispache kan verenigen, verzoekt deze rechtbank de dispache te herzien. Zo dit nog niet is geschied legt hij een exemplaar der dispache of een uittreksel daarvan ter griffie neer.   
+1.  Ieder der in artikel 638 bedoelde personen, die zich niet met de hem toegezonden, dan wel ter griffie van de rechtbank Rotterdam gedeponeerde dispache kan verenigen, verzoekt deze rechtbank de dispache te herzien. Zo dit nog niet is geschied legt hij een exemplaar der dispache of een uittreksel daarvan ter griffie neer.   
 2.  Wijst de rechter het in het vorige lid bedoelde verzoek af, dan homologeert hij de dispache.   
 
 ### Artikel  641b  
@@ -4296,7 +4289,7 @@ Tegen een beslissing van de voorzieningenrechter van de rechtbank, gegeven in de
 
 ### Artikel  642a  
 
-1.  Wie op grond van [artikel 750](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), [artikel 751](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), [artikel 1060](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) of [artikel 1061 van Boek 8 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) een beroep wil doen op beperking van zijn aansprakelijkheid, verzoekt de rechtbank binnen welker rechtsgebied het kantoor waar het schip te boek staat in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), is gelegen, dan wel wanneer het schip niet te boek staat in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), de rechtbank te Rotterdam, het bedrag of de bedragen waartoe zijn aansprakelijkheid is beperkt (het bedrag van het fonds of van de fondsen), vast te stellen en te bevelen dat tot een procedure ter verdeling van een te stellen fonds zal worden overgegaan.   
+1.  Wie op grond van [artikel 750](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), [artikel 751](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), [artikel 1060](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) of [artikel 1061 van Boek 8 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) een beroep wil doen op beperking van zijn aansprakelijkheid, verzoekt de rechtbank binnen welker rechtsgebied het kantoor waar het schip te boek staat in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), is gelegen, dan wel wanneer het schip niet te boek staat in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), de rechtbank Rotterdam, het bedrag of de bedragen waartoe zijn aansprakelijkheid is beperkt (het bedrag van het fonds of van de fondsen), vast te stellen en te bevelen dat tot een procedure ter verdeling van een te stellen fonds zal worden overgegaan.   
 2.  Het verzoek vermeldt: 
 
 a. de naam van het schip;  
@@ -4737,7 +4730,7 @@ Van de beschikkingen van de rechter-commissaris ingevolge [afdeling 3 van titel 
 
 ### Artikel  679  
 
-1.  Indien partijen het niet eens worden over de benoeming van een deskundige om de waarde van een of meer der te verdelen goederen te schatten, geschiedt de benoeming op verzoek van de meest gerede partij door de kantonrechter van de rechtbank van het arrondissement waarin de goederen zich bevinden. Bevinden zij zich in het buitenland, dan is de kantonrechter te Amsterdam bevoegd.   
+1.  Indien partijen het niet eens worden over de benoeming van een deskundige om de waarde van een of meer der te verdelen goederen te schatten, geschiedt de benoeming op verzoek van de meest gerede partij door de kantonrechter van de rechtbank van het arrondissement waarin de goederen zich bevinden. Bevinden zij zich in het buitenland, dan is de kantonrechter van de rechtbank Amsterdam bevoegd.   
 2.  Is met betrekking tot de verdeling een procedure aanhangig, dan kan de benoeming ook, op verlangen van een der partijen of ambtshalve, worden gedaan door de rechter voor wie de zaak in eerste aanleg of in hoger beroep dient of door de rechter voor wie een getuigenverhoor of verschijning van partijen is gelast.   
 
 ### Artikel  680  
@@ -5146,7 +5139,8 @@ Indien een verzoeker, een belanghebbende, of een ander wiens verklaring in verba
 
 ### Artikel  803  
 
-De behandeling geschiedt met gesloten deuren.  
+1.  In verband met de belangen van minderjarigen of de eerbiediging van de persoonlijke levenssfeer van belanghebbenden, geschiedt de behandeling met gesloten deuren.   
+2.  De rechter kan evenwel op verzoek van een belanghebbende bepalen dat de behandeling geheel of gedeeltelijk openbaar is, indien zwaarwegende belangen bij openbaarheid daartoe aanleiding geven en de belangen als bedoeld in het eerste lid zich daartegen niet verzetten.   
 
 ### Artikel  804  
 
@@ -5234,7 +5228,7 @@ b. tot de overbrenging van een minderjarige in verband met een uithuisplaatsing 
 c. tot de afgifte van minderjarigen, als bedoeld in artikel 812;  
 
 d. tot de tenuitvoerlegging der beschikkingen, bedoeld in [artikel 278, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md).     
-2.  De ambtenaar, aangesteld voor de uitvoering van de politietaak, die door het openbaar ministerie is aangewezen om de in lid 1 bedoelde medewerking te verlenen, heeft toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is.   
+2.  De ambtenaar van politie, aangesteld voor de uitvoering van de politietaak, die door het openbaar ministerie is aangewezen om de in lid 1 bedoelde medewerking te verlenen, heeft toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is.   
 
 ### Tweede  afdeling  
 
@@ -5566,7 +5560,7 @@ f. tot wijziging van of voorziening in het bestuur van een stichting.
 2.  Van de dag waarop de behandeling zal plaatsvinden, wordt door de griffier aankondiging gedaan in de *Nederlandse Staatscourant* en in een landelijk verspreid dagblad.   
 3.  Voorts geeft de griffier kennis aan het kantoor van het handelsregister, waar de vennootschap is ingeschreven.   
 4.  De rechtbank hoort de schuldeisers onderscheidenlijk de wederpartijen die zijn verschenen.   
-5.  Hoger beroep moet binnen drie weken na de dagtekening van de eindbeschikking worden ingesteld bij de ondernemingskamer van het gerechtshof te Amsterdam. De voorgaande leden vinden in hoger beroep overeenkomstige toepassing.   
+5.  Hoger beroep moet binnen drie weken na de dagtekening van de eindbeschikking worden ingesteld bij de ondernemingskamer van het gerechtshof Amsterdam. De voorgaande leden vinden in hoger beroep overeenkomstige toepassing.   
 
 ### Artikel  997a  
 
@@ -5674,7 +5668,7 @@ d. een korte omschrijving van de overeenkomst;
 
 e. een duidelijke omschrijving van het verzoek en de gronden waarop het berust.     
 2.  Aan het verzoekschrift wordt de overeenkomst als bijlage toegevoegd.   
-3.  Het gerechtshof te Amsterdam is bij uitsluiting bevoegd tot kennisneming van een verzoek in eerste aanleg als in dit artikel bedoeld.   
+3.  Het gerechtshof Amsterdam is bij uitsluiting bevoegd tot kennisneming van een verzoek in eerste aanleg als in dit artikel bedoeld.   
 4.  In afwijking van artikel 282, tweede lid, behoeft geen afschrift van een verweerschrift en de overlegde bescheiden verzonden te worden aan de personen ten behoeve van wie de overeenkomst is gesloten.   
 5.  De oproeping van de in het eerste lid, onder c bedoelde personen geschiedt bij gewone brief, tenzij de rechter anders bepaalt. Bovendien geschiedt de oproeping door aankondiging daarvan in één of meer door de rechter aan te wijzen nieuwsbladen, waarbij tevens rechtspersonen als bedoeld in artikel 1014 worden opgeroepen. Hierbij wordt naast de plaats, de dag en het uur van de terechtzitting telkens op een door de rechter aan te geven wijze melding gemaakt van een korte omschrijving van de overeenkomst en van de gevolgen van toewijzing van het verzoek. Tevens wordt vermeld dat de in artikel 290, eerste lid, genoemde bescheiden ter inzage en afschrift liggen bij de griffie en wordt gewezen op de bevoegdheid om een verweerschrift in te dienen. Tenzij de rechter anders bepaalt, dragen de verzoekers zorg voor de oproeping ingevolge dit lid. De rechter kan gelasten dat de in dit lid bedoelde informatie ook op andere wijze wordt bekend gemaakt.   
 6.  De rechter kan, indien hij de dag en het uur van de behandeling bepaalt, tevens bepalen dat verweerschriften in afwijking van artikel 282, eerste lid, uiterlijk voor een door hem vast te stellen tijdstip voor de behandeling moeten worden ingediend.   
@@ -5791,7 +5785,7 @@ Voor zover nodig in afwijking van de tweede paragraaf van de twaalfde afdeling v
 
 ### Artikel  1019j  
 
-Door de pachtkamer van de rechtbank bedoeld in [artikel 48, tweede en derde lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), worden behandeld en beslist alle zaken betreffende 
+Door de pachtkamer van de rechtbank bedoeld in [artikel 48 van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), worden behandeld en beslist alle zaken betreffende 
 
 a. een pachtovereenkomst als bedoeld in de [vijfde titel van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
 
@@ -5834,7 +5828,7 @@ Indien binnen de in de wet gestelde termijn een verzoek is ingediend bij de gron
 
 ### Artikel  1019o  
 
-1.  Het hoger beroep van de vonnissen en beschikkingen van de pachtkamer van de rechtbanken wordt ingesteld bij de pachtkamer van het gerechtshof te Arnhem, bedoeld in [artikel 69 van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md)   
+1.  Het hoger beroep van de vonnissen en beschikkingen van de pachtkamer van de rechtbanken wordt ingesteld bij de pachtkamer van het gerechtshof Arnhem-Leeuwarden, bedoeld in [artikel 69 van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md)   
 2.  De termijn van hoger beroep bedraagt één maand na de dag van de uitspraak.   
 
 ### Artikel  1019p  
@@ -5849,7 +5843,7 @@ De pachtkamer van het gerechtshof neemt kennis van alle jurisdictie geschillen t
 ### Artikel  1019r  
 
 1.  Onverminderd het in artikel 201 bepaalde is de pachtkamer bevoegd, zo vaak zulks haar nodig voorkomt, in elke stand van de procedure, de staat van de onroerende zaak door een of meer van haar leden te doen opnemen, mits de griffier hiervan ten minste twee dagen voor de opneming aan partijen heeft kennis gegeven. Van de opneming wordt proces-verbaal opgemaakt.   
-2.  De pachtkamer van het gerechtshof te Arnhem kan de kosten van een plaatsopneming geheel of ten dele ten laste van de Staat brengen.   
+2.  De pachtkamer van het gerechtshof Arnhem-Leeuwarden kan de kosten van een plaatsopneming geheel of ten dele ten laste van de Staat brengen.   
 
 ### Artikel  1019s  
 
@@ -5860,9 +5854,9 @@ De pachtkamer van het gerechtshof neemt kennis van alle jurisdictie geschillen t
 
 1.  Met betrekking tot de schriftelijke vastlegging van pachtovereenkomsten of van overeenkomsten tot wijziging of beëindiging van pachtovereenkomsten gelden de volgende bepalingen.   
 2.  De griffier van de pachtkamer van de rechtbank zendt binnen veertien dagen na de uitspraak van het vonnis, waarbij de overeenkomst schriftelijk wordt vastgelegd, drie gewaarmerkte afschriften van het vonnis aan de bevoegde grondkamer.   
-3.  De griffier van de pachtkamer van het gerechtshof te Arnhem geeft onverwijld aan de grondkamer kennis van een ingesteld beroep. De grondkamer houdt alsdan de behandeling aan, totdat omtrent de uitslag van het beroep bericht is ontvangen.   
+3.  De griffier van de pachtkamer van het gerechtshof Arnhem-Leeuwarden geeft onverwijld aan de grondkamer kennis van een ingesteld beroep. De grondkamer houdt alsdan de behandeling aan, totdat omtrent de uitslag van het beroep bericht is ontvangen.   
 4.  Indien de pachtkamer van het gerechtshof in afwijking van de beslissing van de pachtkamer van de rechtbank de overeenkomst niet vastlegt, dan wel niet tot een andere beslissing dan de eerste rechter komt, geeft de griffier daarvan onverwijld kennis aan de bevoegde grondkamer.   
-5.  Indien de pachtkamer van het gerechtshof te Arnhem, in afwijking van de beslissing van de pachtkamer van de rechtbank, de overeenkomst vastlegt, dan wel de overeenkomst anders vastlegt, zendt de griffier van de pachtkamer van het gerechtshof binnen veertien dagen na de uitspraak van het vonnis drie gewaarmerkte afschriften van het vonnis aan de bevoegde grondkamer.   
+5.  Indien de pachtkamer van het gerechtshof Arnhem-Leeuwarden, in afwijking van de beslissing van de pachtkamer van de rechtbank, de overeenkomst vastlegt, dan wel de overeenkomst anders vastlegt, zendt de griffier van de pachtkamer van het gerechtshof binnen veertien dagen na de uitspraak van het vonnis drie gewaarmerkte afschriften van het vonnis aan de bevoegde grondkamer.   
 6.  De griffier van de Hoge Raad geeft onverwijld aan de grondkamer kennis van een ingesteld beroep in cassatie. De grondkamer houdt alsdan de behandeling aan, totdat omtrent de uitslag van beroep bericht is ontvangen. De griffier van de Hoge Raad geeft onverwijld aan de grondkamer kennis van die uitslag.   
 
 ### Artikel  1019u  
@@ -5933,10 +5927,10 @@ b. tegelijk met het hoger beroep van het eindvonnis.
 
 ### Artikel  1019dd  
 
-1.  De kantonrechter van de rechtbank te Alkmaar is mede bevoegd kennis te nemen van zaken betreffende een arbeidsovereenkomst, op grond waarvan de werknemer arbeid verricht op het continentaal plat.   
+1.  De kantonrechter van de rechtbank Noord-Holland is mede bevoegd kennis te nemen van zaken betreffende een arbeidsovereenkomst, op grond waarvan de werknemer arbeid verricht op het continentaal plat.   
 2.  De grossen als bedoeld in artikel 430, eerste lid, betreffende zaken als bedoeld in het eerste lid van dit artikel kunnen mede op het continentaal plat worden ten uitvoer gelegd.   
-3.  Geschillen die in verband met de executie betreffende zaken als bedoeld in het eerste lid van dit artikel rijzen, kunnen mede worden gebracht voor de rechtbank te Alkmaar.   
-4.  Het verlof vereist voor het leggen van conservatoir beslag op zaken die zich op het continentaal plat bevinden kan mede worden verzocht aan de voorzieningenrechter van de rechtbank te Alkmaar.   
+3.  Geschillen die in verband met de executie betreffende zaken als bedoeld in het eerste lid van dit artikel rijzen, kunnen mede worden gebracht voor de rechtbank Noord-Holland.   
+4.  Het verlof vereist voor het leggen van conservatoir beslag op zaken die zich op het continentaal plat bevinden kan mede worden verzocht aan de voorzieningenrechter van de rechtbank Noord-Holland.   
 5.  Onder continentaal plat als bedoeld in deze titel wordt verstaan: de exclusieve economische zone van het Koninkrijk, bedoeld in [artikel 1 van de Rijkswet instelling exclusieve economische zone](../../../../../../rijkswet/rijkswet/instelling/exclusieve/economische/zone/BWBR0010480/README.md), voor zover deze grenst aan de territoriale zee van Nederland.   
 
 ### Vierde  Boek  
@@ -6107,7 +6101,7 @@ Het scheidsgerecht kan in elke stand van het geding de persoonlijke verschijning
 
 ### Artikel  1044  
 
-1.  Het scheidsgerecht kan door tussenkomst van de voorzieningenrechter van de rechtbank te 's-Gravenhage een verzoek om inlichtingen doen als bedoeld in artikel 3 van de op 7 juni 1968 te Londen gesloten Europese Overeenkomst nopens het verstrekken van inlichtingen over buitenlands recht (*Trb*. 1968, 142). De voorzieningenrechter zendt het verzoek, tenzij het hem nutteloos voorkomt, ten spoedigste aan het orgaan als bedoeld in artikel 2 van de Overeenkomst en deelt dit aan het scheidsgerecht mede.   
+1.  Het scheidsgerecht kan door tussenkomst van de voorzieningenrechter van de rechtbank Den Haag een verzoek om inlichtingen doen als bedoeld in artikel 3 van de op 7 juni 1968 te Londen gesloten Europese Overeenkomst nopens het verstrekken van inlichtingen over buitenlands recht (*Trb*. 1968, 142). De voorzieningenrechter zendt het verzoek, tenzij het hem nutteloos voorkomt, ten spoedigste aan het orgaan als bedoeld in artikel 2 van de Overeenkomst en deelt dit aan het scheidsgerecht mede.   
 2.  Het scheidsgerecht kan het geding schorsen tot de dag dat het scheidsgerecht het antwoord op het verzoek om inlichtingen heeft ontvangen.   
 
 ### Artikel  1045  
@@ -6119,7 +6113,7 @@ Het scheidsgerecht kan in elke stand van het geding de persoonlijke verschijning
 
 ### Artikel  1046  
 
-1.  Indien voor een scheidsgerecht in Nederland een arbitraal geding aanhangig is, waarvan het onderwerp samenhangt met dat van een bij een ander scheidsgerecht in Nederland aanhangig geding, kan de meest gerede partij de voorzieningenrechter van de rechtbank te Amsterdam verzoeken, de samenvoeging van de gedingen te gelasten, tenzij de partijen anders zijn overeengekomen.   
+1.  Indien voor een scheidsgerecht in Nederland een arbitraal geding aanhangig is, waarvan het onderwerp samenhangt met dat van een bij een ander scheidsgerecht in Nederland aanhangig geding, kan de meest gerede partij de voorzieningenrechter van de rechtbank Amsterdam verzoeken, de samenvoeging van de gedingen te gelasten, tenzij de partijen anders zijn overeengekomen.   
 2.  De voorzieningenrechter kan, nadat hij alle partijen en de arbiters in de gelegenheid heeft gesteld, hun mening kenbaar te maken, het verzoek geheel of gedeeltelijk toewijzen dan wel afwijzen. Zijn beslissing wordt aan alle partijen en de betrokken scheidsgerechten schriftelijk medegedeeld.   
 3.  Indien de voorzieningenrechter algehele samenvoeging beveelt, benoemen de partijen in onderling overleg de arbiter of arbiters, in oneven getale, en bepalen zij, welke regelen op het samengevoegde geding van toepassing zullen zijn. Indien de partijen daarover binnen een door de voorzieningenrechter te stellen termijn geen overeenstemming kunnen bereiken, benoemt de voorzieningenrechter, op verzoek van de meest gerede partij, de arbiter of arbiters en bepaalt hij, zonodig, welke regelen op het samengevoegde geding van toepassing zullen zijn. De voorzieningenrechter bepaalt voor de arbiter of arbiters die als gevolg van de algehele samenvoeging van hun opdracht worden ontheven, de beloning voor de reeds door hen verrichte werkzaamheden.   
 4.  Beveelt de voorzieningenrechter gedeeltelijke samenvoeging, dan beslist hij welke geschillen daaronder zijn begrepen. De voorzieningenrechter benoemt, op verzoek van de meest gerede partij, de arbiter of arbiters en bepaalt welke regelen op het samengevoegde geding van toepassing zijn, indien de partijen daaromtrent binnen een door de voorzieningenrechter te bepalen termijn geen overeenstemming bereiken. In dit geval schorsen de scheidsgerechten, waarbij de bij de gedeeltelijke samenvoeging betrokken zaken reeds aanhangig zijn, de behandeling dier zaken. Het vonnis van het voor de samengevoegde zaken benoemde scheidsgerecht wordt door dit gerecht aan de andere betrokken scheidsgerechten toegezonden. Na de ontvangst van dit vonnis zetten deze scheidsgerechten de bij hen aanhangige zaken voort en beslissen zij met inachtneming van het in het samengevoegde geding gewezen vonnis.   

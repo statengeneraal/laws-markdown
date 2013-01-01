@@ -103,16 +103,6 @@ Een wedervergeldingsregeling blijft, behoudens eerdere intrekking, van kracht to
 1.  Onze Minister kan in de gevallen als bedoeld in artikel 11 *b*, eerste of tweede lid, bij regeling bepalen dat een ieder, die bij het vervoer op een door hem te omschrijven zeevervoermarkt is betrokken, verplicht is een daarbij nader te omschrijven administratie te voeren.   
 2.  Een ieder die ingevolge een regeling op grond van het eerste lid een administratie voert of heeft gevoerd, is verplicht de bescheiden, waaruit die administratie bestaat, gedurende twee jaren na het kalenderjaar, waarop zij betrekking hebben, in Nederland te bewaren.   
 
-### Artikel  12  
-
-Tegen een beschikking tot: 
-
-a. verlening of weigering van een vergunning of een ontheffing, of  
-
-b. intrekking van een vergunning of een ontheffing krachtens artikel 7, of  
-
-c. oplegging van een heffing,   kan de belanghebbende beroep instellen bij het College.  
-
 ### Artikel  15  
 
 In afwijking van [artikel 8:72, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) werkt een vernietiging vanaf het tijdstip, waarop zij wordt uitgesproken.  

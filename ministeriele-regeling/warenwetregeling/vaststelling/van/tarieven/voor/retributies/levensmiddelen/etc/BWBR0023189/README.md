@@ -28,37 +28,37 @@ f. openingstijd: periode van maandag tot en met vrijdag, met uitzondering van al
 
 a. voor een invoercontrole als bedoeld in artikel 4 van richtlijn 97/78/EG: 
 
-1° € 0,00968 per kg voor zover de controle plaatsvindt op een werkdag tussen 06.00 en 23.00 uur, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 58,98 en ten hoogste € 453,85 in rekening wordt gebracht;  
+1° € 0,00987 per kg voor zover de controle plaatsvindt op een werkdag tussen 06.00 en 23.00 uur, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 60,16 en ten hoogste € 462,93 in rekening wordt gebracht;  
 
-2° € 0,01233 per kg voor zover controle plaatsvindt op een werkdag tussen 23.00 en 06.00 uur, of op een zaterdag, zondag of algemeen erkende feestdag, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 75,16 en ten hoogste € 578,43 in rekening wordt gebracht;    
+2° € 0,01258 per kg voor zover controle plaatsvindt op een werkdag tussen 23.00 en 06.00 uur, of op een zaterdag, zondag of algemeen erkende feestdag, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 76,66 en ten hoogste € 590,00 in rekening wordt gebracht;    
 
 b. voor een invoercontrole als bedoeld in artikel 9, eerste lid, onder b, ii en iii, van richtlijn 97/78/EG: 
 
-1° € 42,97 starttarief; en  
+1° € 43,83 starttarief; en  
 
-2° € 26,98 per kwartier dat aan de werkzaamheden door een medewerker van de NVWA is besteed.       
+2° € 27,52 per kwartier dat aan de werkzaamheden door een medewerker van de NVWA is besteed.       
 2.  In afwijking van het eerste lid, onder a, bedraagt de retributie indien het de invoercontrole betreft van: 
 
 a. een partij visserijproducten die vervoerd en aangeboden wordt als stukgoederen: 
 
-1°. € 634,83 per schip met een lading visserijproducten tot 500 ton;  
+1°. € 647,53 per schip met een lading visserijproducten tot 500 ton;  
 
-2°. € 1269,65 per schip met een lading visserijproducten tot 1000 ton;  
+2°. € 1295,04 per schip met een lading visserijproducten tot 1000 ton;  
 
-3°. € 2539,34 per schip met een lading visserijproducten tot 2000 ton;  
+3°. € 2590,13 per schip met een lading visserijproducten tot 2000 ton;  
 
-4°. € 3809,00 per schip met een lading visserijproducten van 2000 ton of meer;    
+4°. € 3885,18 per schip met een lading visserijproducten van 2000 ton of meer;    
 
 b. een partij pluimveevlees die vervoerd en aangeboden wordt als stukgoederen: 
 
-1°. € 825,26 per schip met een lading pluimveevlees tot 500 ton;  
+1°. € 841,77 per schip met een lading pluimveevlees tot 500 ton;  
 
-2°. € 1650,55 per schip met een lading pluimveevlees tot 1000 ton;  
+2°. € 1683,56 per schip met een lading pluimveevlees tot 1000 ton;  
 
-3°. € 3301,12 per schip met een lading pluimveevlees tot 2000 ton;  
+3°. € 3367,14 per schip met een lading pluimveevlees tot 2000 ton;  
 
-4°. € 4958,46 per schip met een lading pluimveevlees van 2000 ton of meer.       
-3.  In afwijking van het eerste lid, onder a, en tweede lid, bedraagt de retributie indien het de invoercontrole betreft van een partij producten van dierlijke oorsprong afkomstig uit Nieuw Zeeland: € 0,0015 per kg, met een minimum van € 30,27 per partij en een maximum van € 353,16 per partij.   
+4°. € 5057,63 per schip met een lading pluimveevlees van 2000 ton of meer.       
+3.  In afwijking van het eerste lid, onder a, en tweede lid, bedraagt de retributie indien het de invoercontrole betreft van een partij producten van dierlijke oorsprong afkomstig uit Nieuw Zeeland: € 0,0015 per kg, met een minimum van € 30,88 per partij en een maximum van € 360,22 per partij.   
 
 ### Artikel  3  
 
@@ -75,28 +75,28 @@ De retributie voor de controle van producten van dierlijke oorsprong afkomstig u
 
 a. voor een controle bij doorvoer als bedoeld in artikel 11, eerste lid, van richtlijn 97/78/EG: 
 
-1° € 0,00968 per kg voor zover de controle plaatsvindt op een werkdag tussen 06.00 en 23.00 uur, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 58,98 en ten hoogste € 453,85 in rekening wordt gebracht;  
+1° € 0,00987 per kg voor zover de controle plaatsvindt op een werkdag tussen 06.00 en 23.00 uur, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 60,16 en ten hoogste € 462,93 in rekening wordt gebracht;  
 
-2° € 0,01233 per kg voor zover de controle plaatsvindt op een werkdag tussen 23.00 en 06.00 uur, of op een zaterdag, zondag of algemeen erkende feestdag, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 75,16 en ten hoogste € 578,43 in rekening wordt gebracht.    
+2° € 0,01258 per kg voor zover de controle plaatsvindt op een werkdag tussen 23.00 en 06.00 uur, of op een zaterdag, zondag of algemeen erkende feestdag, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 76,66 en ten hoogste € 590,00 in rekening wordt gebracht.    
 
 b. voor een controle bij inslag, opslag en uitslag als bedoeld in artikel 12, vijfde lid, van richtlijn 97/78/EG voor iedere medewerker van de NVWA: 
 
-1° € 42,97 starttarief; en  
+1° € 43,83 starttarief; en  
 
-2° € 26,98 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.      
+2° € 27,52 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.      
 
 ### Artikel  6  
 
 1.  De retributie voor de behandeling en afhandeling door de NVWA van een aanvraag tot goedkeuring als handelaar, erkenning van een entrepot, of erkenning van een inrichting als bedoeld in [artikel 4, eerste, tweede onderscheidenlijk derde lid, van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), bedraagt voor iedere medewerker van de NVWA: 
 
-a. € 114,35 starttarief; en  
+a. € 116,64 starttarief; en  
 
-b. € 31,15 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.     
+b. € 31,77 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.     
 2.  In afwijking van het eerste lid bedraagt de desbetreffende retributie ten aanzien van een visverwerkend bedrijf voor iedere medewerker van de NVWA: 
 
-a. € 64,39 starttarief; en  
+a. € 65,68 starttarief; en  
 
-b. € 25,37 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.     
+b. € 25,88 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.     
 
 ### Artikel  7  
 
@@ -118,14 +118,14 @@ In afwijking van artikel 6, bedraagt de retributie voor de erkenning van een inr
 
 1.  De retributie voor de behandeling en afhandeling door de NVWA van een aangekondigde en vastgelegde periodieke controle als bedoeld in [artikel 5, eerste lid, van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), bedraagt voor iedere medewerker van de NVWA: 
 
-a. € 114,35 starttarief; en  
+a. € 116,64 starttarief; en  
 
-b. € 31,15 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.     
+b. € 31,77 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.     
 2.  In afwijking van het eerste lid bedraagt de desbetreffende retributie bij een erkend visverwerkend bedrijf voor iedere medewerker van de NVWA: 
 
-a. € 64,39 starttarief; en  
+a. € 65,68 starttarief; en  
 
-b. € 25,37 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.     
+b. € 25,88 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.     
 
 ### Artikel  10  
 
@@ -145,21 +145,21 @@ In afwijking van artikel 9 bedraagt de retributie voor een controle op de nalevi
 
 De retributie voor de behandeling en afhandeling door de NVWA van een aanvraag van een vergunning voor de exploitatie van een bron als bedoeld in [artikel 5a van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), bedraagt voor iedere medewerker van de NVWA: 
 
-a. € 114,35 starttarief; en  
+a. € 116,64 starttarief; en  
 
-b. € 31,15 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.    
+b. € 31,77 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.    
 
 ### Artikel  13  
 
-De retributie voor de aanvraag van een registratie van een inrichting als bedoeld in [artikel 5b van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), bedraagt: € 23,22.  
+De retributie voor de aanvraag van een registratie van een inrichting als bedoeld in [artikel 5b van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), bedraagt: € 23,68.  
 
 ### Artikel  14  
 
 De retributie voor de controle van een partij visserijproducten, bedoeld in [artikel 6, eerste lid, van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), bedraagt voor iedere medewerker van de NVWA: 
 
-a. € 64,39 starttarief; en  
+a. € 65,68 starttarief; en  
 
-b. € 25,37 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.    
+b. € 25,88 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.    
 
 ### Artikel  15  
 
@@ -173,41 +173,41 @@ b. uiterlijk om 14.00 uur op de werkdag voorafgaande aan de dag waarop de desbet
 
 1.  Indien een controle- of keuringsactiviteit als bedoeld in [artikel 2](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) of [3 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), bij de NVWA is aangemeld na 14.00 uur op de dag voorafgaande aan de dag waarop de controle of de werkzaamheden hebben plaatsgevonden of zouden hebben plaatsgevonden, wordt de desbetreffende retributie in de navolgende gevallen verhoogd. Deze verhoging bedraagt: 
 
-a. € 8,09 per persoon per kwartier voor zover het een invoercontrole betreft als bedoeld in artikel 9, eerste lid, onder b, ii en iii, van richtlijn 97/78;  
+a. € 8,26 per persoon per kwartier voor zover het een invoercontrole betreft als bedoeld in artikel 9, eerste lid, onder b, ii en iii, van richtlijn 97/78;  
 
-b. € 8,09 per persoon per kwartier voor zover het een controle bij de inslag, opslag en uitslag betreft als bedoeld in artikel 12, vijfde lid, van richtlijn 97/78/EG.     
-2.  Indien een controle- of keuringsactiviteit als bedoeld in [artikel 6 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), bij de NVWA is aangemeld na 07.00 uur op de dag voorafgaande aan de dag waarop de controle of de werkzaamheden hebben plaatsgevonden of zouden hebben plaatsgevonden, wordt de desbetreffende retributie verhoogd met € 7,61 per persoon per kwartier dat de werkzaamheden duren.   
+b. € 8,26 per persoon per kwartier voor zover het een controle bij de inslag, opslag en uitslag betreft als bedoeld in artikel 12, vijfde lid, van richtlijn 97/78/EG.     
+2.  Indien een controle- of keuringsactiviteit als bedoeld in [artikel 6 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), bij de NVWA is aangemeld na 07.00 uur op de dag voorafgaande aan de dag waarop de controle of de werkzaamheden hebben plaatsgevonden of zouden hebben plaatsgevonden, wordt de desbetreffende retributie verhoogd met € 7,76 per persoon per kwartier dat de werkzaamheden duren.   
 3.  Indien een controle- of keuringsactiviteit als bedoeld in [artikel 2](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), [3](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) of [6 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), niet tijdig overeenkomstig artikel 15 is afgemeld, blijft de aanbieder die de aanvraag voor deze werkzaamheden heeft gedaan in de navolgende gevallen een retributie verschuldigd, bestaande uit een bedrag per afgemeld kwartier per persoon: 
 
-a. € 26,98 per persoon per kwartier, voor zover het een controle bij doorvoer betreft als bedoeld in [artikel 2 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) en artikel 9, eerste lid, onder b, ii en iii, van richtlijn 97/78/EG;  
+a. € 27,52 per persoon per kwartier, voor zover het een controle bij doorvoer betreft als bedoeld in [artikel 2 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) en artikel 9, eerste lid, onder b, ii en iii, van richtlijn 97/78/EG;  
 
-b. € 26,98 per persoon per kwartier, voor zover het een controle bij de inslag, opslag en uitslag betreft als bedoeld in [artikel 3 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) en artikel 12, vijfde lid, van richtlijn 97/78/EG;  
+b. € 27,52 per persoon per kwartier, voor zover het een controle bij de inslag, opslag en uitslag betreft als bedoeld in [artikel 3 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) en artikel 12, vijfde lid, van richtlijn 97/78/EG;  
 
-c. € 25,37 voor een in [artikel 6 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) bedoelde controle- of keuringsactiviteit.     
+c. € 25,88 voor een in [artikel 6 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) bedoelde controle- of keuringsactiviteit.     
 
 ### Artikel  17  
 
 1.  Indien een controle- of keuringsactiviteit als bedoeld in [artikel 2](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), [3](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), of [6 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), wordt onderbroken of uitgesteld en dit is toe te rekenen aan de retributieplichtige, wordt de desbetreffende retributie in de navolgende gevallen verhoogd. Deze verhoging bedraagt: 
 
-a. € 26,98 per persoon per kwartier dat de onderbreking onderscheidenlijk het uitstel voor de met de werkzaamheden belaste persoon heeft geduurd, voor zover het een invoercontrole betreft als bedoeld in [artikel 2 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) en artikel 9, eerste lid, onder b, ii en iii, van richtlijn 97/78/EG;  
+a. € 27,52 per persoon per kwartier dat de onderbreking onderscheidenlijk het uitstel voor de met de werkzaamheden belaste persoon heeft geduurd, voor zover het een invoercontrole betreft als bedoeld in [artikel 2 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) en artikel 9, eerste lid, onder b, ii en iii, van richtlijn 97/78/EG;  
 
-b. € 26,98 per persoon per kwartier dat de onderbreking onderscheidenlijk het uitstel voor de met de werkzaamheden belaste persoon heeft geduurd, voor zover het een controle betreft bij de inslag, opslag en uitslag als bedoeld in [artikel 3 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) en artikel 12, vijfde lid, van richtlijn 97/78/EG;  
+b. € 27,52 per persoon per kwartier dat de onderbreking onderscheidenlijk het uitstel voor de met de werkzaamheden belaste persoon heeft geduurd, voor zover het een controle betreft bij de inslag, opslag en uitslag als bedoeld in [artikel 3 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) en artikel 12, vijfde lid, van richtlijn 97/78/EG;  
 
-c. € 25,37 per persoon per kwartier dat de onderbreking onderscheidenlijk het uitstel voor de met de werkzaamheden belaste persoon heeft geduurd, voor zover het een in [artikel 6 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) bedoelde controle- of keuringsactiviteit betreft.     
+c. € 25,88 per persoon per kwartier dat de onderbreking onderscheidenlijk het uitstel voor de met de werkzaamheden belaste persoon heeft geduurd, voor zover het een in [artikel 6 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) bedoelde controle- of keuringsactiviteit betreft.     
 2.  Indien voor de uitvoering van een controle- of keuringsactiviteit als bedoeld in [artikel 2](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), [3](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) of [6 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) meer tijd nodig is dan de aangevraagde tijd, is de aanbieder naast de ingevolge deze artikelen verschuldigde retributies, in de navolgende gevallen een retributie verschuldigd voor de duur van de uitloop van de werkzaamheden. Deze retributie bedraagt: 
 
-a. € 26,98 per persoon per kwartier dat de werkzaamheden langer duren dan is aangemeld, voor zover het een controle betreft bij doorvoer als bedoeld in [artikel 2 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) en artikel 9, eerste lid, onder b, ii en iii, van richtlijn 97/78/EG;  
+a. € 27,52 per persoon per kwartier dat de werkzaamheden langer duren dan is aangemeld, voor zover het een controle betreft bij doorvoer als bedoeld in [artikel 2 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) en artikel 9, eerste lid, onder b, ii en iii, van richtlijn 97/78/EG;  
 
-b. € 26,98 per persoon per kwartier dat de werkzaamheden langer duren dan is aangemeld, voor zover het een controle betreft bij de inslag, opslag en uitslag als bedoeld in [artikel 3 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) en artikel 12, vijfde lid, van richtlijn 97/78/EG;  
+b. € 27,52 per persoon per kwartier dat de werkzaamheden langer duren dan is aangemeld, voor zover het een controle betreft bij de inslag, opslag en uitslag als bedoeld in [artikel 3 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) en artikel 12, vijfde lid, van richtlijn 97/78/EG;  
 
-c. € 25,37 per persoon per kwartier dat de werkzaamheden langer duren dan is aangemeld, voor zover het een in [artikel 6 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) bedoelde activiteit of controle betreft.     
+c. € 25,88 per persoon per kwartier dat de werkzaamheden langer duren dan is aangemeld, voor zover het een in [artikel 6 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) bedoelde activiteit of controle betreft.     
 3.  Indien een controle- of keuringsactiviteit plaatsvindt buiten de openingstijd, worden de retributies, bedoeld in de [artikelen 2](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), [3](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) en [6 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), onverminderd het eerste en tweede lid, in de navolgende gevallen verhoogd met een bedrag voor de tijd die aan de werkzaamheden door een medewerker van de NVWA is besteed. Dat bedrag bedraagt: 
 
-a. € 8,09 per persoon per kwartier voor zover het een controle betreft bij invoer als bedoeld in [artikel 2 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) en artikel 9, eerste lid, onder b, ii en iii, van richtlijn 97/78/EG;  
+a. € 8,26 per persoon per kwartier voor zover het een controle betreft bij invoer als bedoeld in [artikel 2 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) en artikel 9, eerste lid, onder b, ii en iii, van richtlijn 97/78/EG;  
 
-b. € 8,09 per persoon per kwartier voor zover het een controle betreft bij de inslag, opslag en uitslag als bedoeld in [artikel 3 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) en artikel 12, vijfde lid, van richtlijn 97/78/EG;  
+b. € 8,26 per persoon per kwartier voor zover het een controle betreft bij de inslag, opslag en uitslag als bedoeld in [artikel 3 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) en artikel 12, vijfde lid, van richtlijn 97/78/EG;  
 
-c. € 7,61 per persoon per kwartier voor zover het een in [artikel 6 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) bedoelde activiteit of controle betreft.     
+c. € 7,76 per persoon per kwartier voor zover het een in [artikel 6 van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md) bedoelde activiteit of controle betreft.     
 
 ### Artikel  18  
 
@@ -217,9 +217,9 @@ Artikel 16, tweede en derde lid, en artikel 17, eerste, tweede en derde lid, zij
 
 De retributie voor de controles op bepaalde residuen van verboden stoffen, bedoeld in [artikel 9, eerste, tweede onderscheidenlijk derde lid, van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), bedraagt: 
 
-a. € 0,0202 per 1000 liter als grondstof gebruikte rauwe melk;  
+a. de werkelijke kosten;  
 
-b. € 0,1009 per ton verhandelde aquacultuurproducten;  
+b. € 0,1029 per ton verhandelde aquacultuurproducten;  
 
 c. de werkelijke kosten.    
 
@@ -242,17 +242,18 @@ c. de reistijd naar de volgende locatie.
 
 ### Artikel  23  
 
-De retributie voor een aanvullende officiële controle bedraagt: 
+1.  De retributie voor een aanvullende officiële controle bedraagt: 
 
-a. € 96,99 per extra inspectie;  
+a. € 98,93 per extra inspectie;  
 
-b. € 188,26 voor bemonstering, inclusief de analyse van de desbetreffende monsters; of  
+b. € 192,03 voor bemonstering, inclusief de analyse van de desbetreffende monsters; of  
 
-c. € 256,71 per extra inspectie, inclusief bemonstering en analyse van de desbetreffende monsters.    
+c. € 261,84 per extra inspectie, inclusief bemonstering en analyse van de desbetreffende monsters.     
+2.  Dit artikel is niet van toepassing op een aangekondigde en vastgelegde periodieke controle in een erkend bedrijf als bedoeld in [artikel 5, eerste lid, van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md).   
 
 ### Artikel  23a  
 
-De retributie voor de verificatie van een technisch dossier als bedoeld in [artikel 9b van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), bedraagt: € 30,68 per kwartier dat aan de werkzaamheden door een medewerker van de NVWA is besteed.  
+De retributie voor de verificatie van een technisch dossier als bedoeld in [artikel 9b van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), bedraagt: € 31,29 per kwartier dat aan de werkzaamheden door een medewerker van de NVWA is besteed.  
 
 ### Artikel  23b  
 
@@ -260,12 +261,23 @@ De retributie voor laboratoriumonderzoeken van chemische of microbiologische mon
 
 ### Artikel  23c  
 
-1.  De retributie voor een exportverklaring als bedoeld in [artikel 9c van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), bedraagt: 
+1.  De retributie voor een door de NVWA afgegeven exportverklaring als bedoeld in [artikel 9c van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), bedraagt: 
 
-a. € 45,81 per exportverklaring indien de aanvraag ten minste 48 uur voor de voorgenomen export is aangevraagd;  
+a. € 46,73 per exportverklaring indien de aanvraag ten minste 48 uur voor de voorgenomen export is aangevraagd;  
 
-b. € 59,51 per exportverklaring indien de aanvraag minder dan 48 uur voor de voorgenomen export is aangevraagd.     
+b. € 60,74 per exportverklaring indien de aanvraag minder dan 48 uur voor de voorgenomen export is aangevraagd.     
 2.  Indien een aanvraag tot afgifte van een in het eerste lid bedoelde exportverklaring wordt ingetrokken door de aanvrager, door omstandigheden buiten toedoen van de met de werkzaamheden belaste medewerker(s) van de NVWA, blijft de desbetreffende in het eerste lid bedoelde retributie verschuldigd.   
+
+### Artikel  23d  
+
+1.  De retributie voor een door het COKZ afgegeven exportverklaring als bedoeld in [artikel 9c van het besluit](../../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md), bedraagt: 
+
+a. € 17,12 per exportverklaring;  
+
+b. € 16,00 per kwartier voor de invoer van bijzondere verzoeken van een bedrijf op basis van nacalculatie;  
+
+c. € 1,25 per kopie certificaat.     
+2.  Indien een aanvraag tot afgifte van een in het eerste lid bedoelde exportverklaring wordt ingetrokken door de aanvrager, door omstandigheden buiten toedoen van de met de werkzaamheden belaste medewerker(s) van het COKZ, blijft de desbetreffende in het eerste lid bedoelde retributie verschuldigd.   
 
 ### Artikel  24  
 

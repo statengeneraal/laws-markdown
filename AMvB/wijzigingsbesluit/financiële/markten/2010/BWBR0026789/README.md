@@ -52,7 +52,6 @@ De [Erkenningsregeling permanente educatie Wft](../../../../../../ministeriele-r
 ### Artikel  X  
 
 1.  Dit besluit treedt in werking met ingang van het tijdstip waarop het bij koninklijke boodschap van 25 augustus 2009 ingediende voorstel van wet tot wijziging van de Wet op het financieel toezicht en enige andere wetten (Wijzigingswet financiële markten 2010) (Kamerstukken 32 036), indien het tot wet wordt verheven, in werking treedt, met uitzondering van de onderdelen A tot en met N en S tot en met V van artikel III, de onderdelen B tot en met F en I tot en met M van artikel IV, artikel V, artikel VI, artikel VII en artikel IX die in werking treden met ingang van 1 januari 2010.   
-2.  Indien het bij koninklijke boodschap van 18 juli 2009 ingediende voorstel van wet tot wijziging van de Wet op het financieel toezicht, de Wet giraal effectenverkeer en het Burgerlijk Wetboek naar aanleiding van het advies van de Monitoring Commissie Corporate Governance Code van 30 mei 2007 (Kamerstukken 32 014) tot wet wordt verheven en die wet later in werking treedt dan het bij koninklijke boodschap van 25 augustus 2009 ingediende voorstel van wet tot wijziging van de Wet op het financieel toezicht en enige andere wetten (Wijzigingswet financiële markten 2010) (Kamerstukken 32 036), treedt artikel I, onderdeel A, onderdeel 2, onderdeel d, in afwijking van het eerste lid, in werking op het tijdstip waarop de eerstgenoemde wet in werking treedt.   
 
 ### Artikel  XI  
 

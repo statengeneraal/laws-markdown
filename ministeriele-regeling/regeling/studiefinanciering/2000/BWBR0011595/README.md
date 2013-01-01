@@ -32,7 +32,7 @@ Gegevens die nodig zijn voor de toekenning van studiefinanciering, worden door d
 ####Aanvraagprocedure
 
 1.  In de aanvraag om toekenning van studiefinanciering worden de basisbeurs, de aanvullende beurs, de basislening, de aanvullende lening of het collegegeldkrediet aangevraagd.   
-2.  De aanvrager doet bij de aanvraag als bedoeld in het eerste lid opgave van het sociaal-fiscaal nummer waaronder hijzelf is geregistreerd bij de rijksbelastingdienst.   
+2.  De aanvrager doet bij de aanvraag als bedoeld in het eerste lid opgave van het burgerservicenummer waaronder hijzelf is geregistreerd bij de rijksbelastingdienst.   
 3.  Indien de aanvrager het collegegeldkrediet aanvraagt, voegt hij bij de aanvraag een bewijs van het door hem verschuldigde collegegeld voor de opleiding waarvoor hij studiefinanciering aanvraagt indien het bedrag dat hij per maand aanvraagt hoger ligt dan eentwaalfde deel van het bedrag, genoemd in [artikel 7.43, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
 
 ### Artikel  2.4  
@@ -78,31 +78,28 @@ b. de opleiding wordt voltijds verzorgd op een wijze die vergelijkbaar is met de
 
 ####Verkrijging reisrecht
 
-1.  Om met het reisrecht te kunnen reizen, moet het reisrecht door de studerende bij een daartoe bestemde automaat van het vervoerbedrijf op een daartoe bestemde OV-chipkaart worden geactiveerd.   
-2.  Het activeren van het reisrecht kan vanaf twee weken voordat de aanspraak op studiefinanciering ontstaat.   
+1.  Om met het reisrecht te kunnen reizen moet het reisproduct door de studerende bij een daartoe bestemde automaat van de vervoersbedrijven op een persoonlijke ov-chipkaart worden geladen.   
+2.  Het laden van het reisproduct kan vanaf twee weken voordat de aanspraak op studiefinanciering ontstaat.   
 
 ### Artikel  4.2  
 
 ####Beëindiging reisrecht
 
-1.  Het reisrecht wordt beëindigd door deactivering daarvan: 
-
-a. bij de Minister via de website www.ocwduo.nl, of  
-
-b. vanaf een door de Minister nader te bepalen tijdstip bij een daartoe bestemde automaat van het vervoerbedrijf.     
-2.  In geval van uitloting van een student in het kader van een procedure als bedoeld in [hoofdstuk 7, paragrafen 4](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en [4a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), is de student verplicht het reisrecht te beëindigen binnen 5 werkdagen na het moment dat de uitslag van de uitloting door de Minister bekend is gemaakt.   
+1.  Het reisrecht wordt beëindigd door het reisproduct dat op de ov-chipkaart is geladen, stop te zetten.   
+2.  Het reisproduct wordt stopgezet bij een daartoe bestemde automaat van de vervoersbedrijven.   
+3.  De minister kan, indien de met een reisproduct geladen ov-chipkaart technische gebreken heeft of indien de automaten van de vervoersbedrijven niet functioneren, beslissen dat het reisproduct stopgezet kan worden door gebruik te maken van een webtool of een aangetekende brief.   
+4.  In geval van uitloting van een student, is hij verplicht het reisproduct op de ov-chipkaart stop te zetten binnen 5 werkdagen nadat aan de student schriftelijk mededeling is gedaan van uitloting in de procedure, bedoeld in [hoofdstuk 7, titel 3, paragrafen 4](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en [4a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
 
 ### Artikel  4.3  
 
 ####Keuze in soorten reisrecht
 
-1.  Een reisrecht wordt verstrekt als: 
+1.  Een reisrecht wordt verstrekt in de vorm van: 
 
-a. een weekreisrecht als bedoeld in artikel 1, zesde lid, van de overeenkomst tussen het vervoerbedrijf en de Staat in verband met de uitvoering van het reisrecht; of  
+a. een weekreisrecht als bedoeld in artikel 1, zesde lid, van de overeenkomst tussen de vervoersbedrijven en de Staat in verband met de uitvoering van het reisrecht; of  
 
-b. een weekendreisrecht als bedoeld in artikel 1, zevende lid, van de overeenkomst tussen het vervoerbedrijf en de Staat in verband met de uitvoering van het reisrecht.     
-2.  Indien een studerende als gevolg van de keuzemogelijkheid voor een soort reisrecht als bedoeld in [artikel 3.26, tweede lid, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), een weekendreisrecht kiest, geeft hij dit via de website www.ocwduo.nl aan de Minister door alvorens hij zijn reisrecht activeert zoals beschreven in artikel 4.1, eerste lid.   
-3.  Het tweede lid is niet van toepassing indien de studerende voor 1 januari 2010 gebruik maakte van een OVS-weekendkaart.   
+b. een weekendreisrecht als bedoeld in artikel 1, zevende lid, van de overeenkomst tussen de vervoersbedrijven en de Staat in verband met de uitvoering van het reisrecht.     
+2.  Indien een studerende als gevolg van de keuzemogelijkheid voor een soort reisrecht als bedoeld in [artikel 3.26, tweede lid, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), een weekendreisrecht kiest, geeft hij dit via de website www.ocwduo.nl aan de Minister door alvorens hij zijn reisproduct op zijn persoonlijke ov-chipkaart laadt zoals beschreven in artikel 4.1, eerste lid.   
 
 ### Artikel  4.4  
 
@@ -115,14 +112,14 @@ a. in de maanden mei tot en met augustus, en
 b. binnen twee maanden na een eerdere wisseling van keuze voor een soort reisrecht.     
 2.  Op de aanvraag om te wisselen wordt besloten uiterlijk op de tiende werkdag nadat de aanvraag bij de Minister is ontvangen.   
 3.  In afwijking van het tweede lid wordt op de aanvraag om te wisselen met ingang van een periode die gelegen is na het ingaan van een eerder toegekend reisrecht besloten uiterlijk op de tiende werkdag nadat het eerder toegekende reisrecht is ingegaan.   
-4.  Indien bij de beslissing op de aanvraag, bedoeld in het tweede of derde lid, een nieuw soort reisrecht wordt toegekend, kan dat reisrecht na die toekenning na twee werkdagen bij een automaat van het vervoerbedrijf worden geactiveerd.   
-5.  Het activeren van het nieuwe reisrecht kan tot en met zes weken na de in het vierde lid bedoelde toekenning.   
+4.  Indien bij de beslissing op de aanvraag, bedoeld in het tweede of derde lid, een nieuw soort reisrecht wordt toegekend, kan het bijbehorende reisproduct na die toekenning na tien werkdagen bij een daartoe bestemde automaat van de vervoersbedrijven op een persoonlijke ov-chipkaart worden geladen. In het geval het oorspronkelijke reisproduct niet al door de student op de ov-chipkaart is geladen, bedraagt de termijn waarna het reisproduct op een persoonlijke ov-chipkaart kan worden geladen, in afwijking van de eerste volzin, 20 werkdagen.   
+5.  Het nieuwe reisproduct kan tot en met zes weken na de in het vierde lid bedoelde aanvraag op een persoonlijke ov-chipkaart worden geladen bij een daartoe bestemde automaat van de vervoersbedrijven.   
 
 ### Artikel  4.5  
 
-####Reisrecht strikt persoonlijk
+####Reisproduct strikt persoonlijk
 
-De studerende die beschikking heeft over een reisrecht heeft uitsluitend voor zichzelf recht op kosteloos openbaar vervoer of korting op de vervoerprijs.  
+De studerende die beschikking heeft over een reisproduct heeft uitsluitend voor zichzelf recht op kosteloos openbaar vervoer of korting op de vervoerprijs.  
 
 ### Artikel  4.6  
 
@@ -167,7 +164,7 @@ De betaling van de maandelijkse termijnen voor de rente en aflossing van de leni
 
 1.  Indien uit een beschikking tot herziening als bedoeld in [artikel 7.1, tweede lid, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) blijkt dat te veel studiefinanciering is uitbetaald, wordt dit op de voet van het tweede en derde lid verrekend met nog te verrichten betalingen op grond van de wet.   
 2.  Eerst wordt zoveel mogelijk verrekend met de nabetalingen die vanaf het tijdstip van afgifte van de in het eerste lid bedoelde beschikking aan de studerende zouden moeten worden gedaan.   
-3.  Vervolgens wordt zolang het te veel uitbetaalde bedrag nog niet volledig is verrekend met de in het tweede lid bedoelde nabetalingen, verrekend met de maandbetalingen, bedoeld in [artikel 13, tweede lid, van het Besluit studiefinanciering 2000](../../../../../AMvB/besluit/studiefinanciering/2000/BWBR0011545/README.md). Wanneer die maandbetalingen hoger zijn dan € 149,63 naar de maatstaf van 1 januari 2011, geschiedt de verrekening met dat bedrag.   
+3.  Vervolgens wordt zolang het te veel uitbetaalde bedrag nog niet volledig is verrekend met de in het tweede lid bedoelde nabetalingen, verrekend met de maandbetalingen, bedoeld in [artikel 13, tweede lid, van het Besluit studiefinanciering 2000](../../../../../AMvB/besluit/studiefinanciering/2000/BWBR0011545/README.md). Wanneer die maandbetalingen hoger zijn dan € 155,08 naar de maatstaf van 1 januari 2013, geschiedt de verrekening met dat bedrag.   
 4.  Onder nabetalingen, bedoeld in het tweede lid, wordt verstaan de betaling van bedragen die op grond van enige herzieningsbeschikking over reeds op het tijdstip van afgifte van die beschikking verstreken maanden zonder de verrekening, bedoeld in het tweede lid, aan de studerende betaalbaar zouden worden gesteld.   
 5.  Indien er niet langer betalingen op grond van de wet zijn, wordt het bedrag aan studiefinanciering dat te veel is uitbetaald voor zover dat bedrag nog niet is verrekend, op eerste vordering binnen 30 dagen geheel terugbetaald.   
 6.  In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van artikel 6.2 aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.   
@@ -259,90 +256,96 @@ L.M.L.H.A.Hermans
 
 ####behorende bij artikel 6a.1 
 
-| Hbo-bachelor  | Crohonummer  | Wo-bachelor  | Crohonummer  | Opleidingleraren vo 2 <sup>e</sup> graads  | Isatcode  |
+| HBO-bachelor  | Croho-nummer  | WO-bachelor  | Croho-nummer  | Bevoegdheid (leraar vo 2 <sup>e</sup> graads)  | Isatcode  |
 |:---|:---|:---|:---|:---|:---|
-| Bedrijfsecomonie  | 34401  | Bedrijfseconomie  | 50950  | Leraar bedrijfseconomie*  Leraar economie*  Leraar algemene economie*  * Afhankelijk van vakkenpakket  | 35203  |
-| Accountancy  | 34406  | Algemene economie  | 56401  | 35207  |
+| Bedrijfseconomie  | 34401  | Bedrijfseconomie  | 50750  | Leraar bedrijfseconomie <sup>2</sup>  Leraar economie <sup>2</sup>  Leraar algemene economie <sup>2</sup>  | 35203  |
+| Accountancy  | 34406  | Algemene economie  | 50644  | 35207  |
 | Fiscale economie  | 34409  | Economie  | 56401  | 35202  |
-| Commerciële economie  | 34402  | Bedrijfskunde  | 50645  | --- |
-| Management, economie, recht  | 34435  | Economie en bedrijfskunde  | 50950  |
-| --- | --- | Nederlandse taal en cultuur  | 56804/0684  | Leraar Nederlands  | 35198  |
-| --- | --- | Engelse taal en cultuur  | 56806/06806  | Leraar Engels  | 35195  |
-| --- | --- | Duitse taal en cultuur  | 56805/06805  | Leraar Duits  | 35193  |
-| --- | --- | Franse taal en cultuur  | 56808/06808  | Leraar Frans  | 35196  |
-| --- | --- | Afstudeerrichting Frans vd opl.  Romaans talen en culturen  | 56074  |
-| --- | --- | Spaanse taal en cultuur  | 56810/06810  | Leraar Spaans  | 35255  |
-| --- | --- | Talen en culturen van Latijns Amerika (Spaans)  | 56052  |
-| --- | --- | Afstudeerrichting Spaans vd opl. Romaans talen en culturen  | 56074  |
+| Fiscaal Recht en Economie  | 34140  | Bedrijfskunde  | 50645  | --- |
+| Commerciële economie  | 34402  | Economie en bedrijfskunde  | 50950  | --- |
+| Commercieel management <sup>1</sup>  | 34126  | --- | --- | --- |
+| Management, economie, recht  | 34435  | --- | --- | --- |
+| --- | --- | Nederlandse taal en cultuur  | 56804/  06804  | Leraar Nederlands  | 35198  |
+| --- | --- | Engelse taal en cultuur  | 56806/  06806  | Leraar Engels  | 35195  |
+| --- | --- | Duitse taal en cultuur  | 56805/  06805  | Leraar Duits  | 35193  |
+| --- | --- | Franse taal en cultuur  | 56808/  06808  | Leraar Frans  | 35196  |
+| --- | --- | Afstudeerrichting Frans vd opl.  Romaanse talen en culturen  | 56074  | --- |
+| --- | --- | Spaanse taal en cultuur  | 56810/  06810  | Leraar Spaans  | 35255  |
+| --- | --- | Talen en culturen van Latijns Amerika (Spaans)  | 56052  | --- |
+| --- | --- | Afstudeerrichting Spaans vd opl. Romaanse talen en culturen  | 56074  | --- |
 | --- | --- | Arabische taal en cultuur  | 56040  | Leraar Arabisch  | 35185  |
-| --- | --- | Afstudeerrichting Arabisch vd opl. Arabische, Nieuwperzische en Turkse talen en culturen  | 56016  |
+| --- | --- | Afstudeerrichting Arabisch vd opl. Arabische, Nieuwperzische en Turkse talen en culturen  | 56016  | --- |
 | --- | --- | Afstudeerrichting Turks vd opl.  Arabische, Nieuwperzische en Turkse talen en culturen  | 56016  | Leraar Turks  | 35186  |
 | --- | --- | Friese taal en cultuur  | 56012  | Leraar Fries  | 35144  |
 | --- | --- | Sociale geografie en planologie  | 56838  | Leraar aardrijkskunde  | 35197  |
-| --- | --- | Aardwetenschappen  | 56986  |
-| --- | --- | Aarde en economie  | 50668  |
+| --- | --- | Aardwetenschappen  | 56986  | --- |
+| --- | --- | Aarde en economie  | 50668  | --- |
 | --- | --- | Geschiedenis  | 56034  | Leraar geschiedenis  | 35197  |
 | Bedrijfswiskunde  | 35168  | Wiskunde  | 56980  | Leraar wiskunde  | 35221  |
 | Technische natuurkunde  | 34268  | Natuurkunde  | 50206  | Leraar natuurkunde  | 35261  |
-| --- | --- | Natuur- en sterrenkunde  | 56984  | Leraar natuurkunde  | 35261  |
-| --- | --- | Technische natuurkunde  | 56962  |
-| --- | --- | Medische natuurwetenschappen  | 50800  |
+| --- | --- | Natuur- en sterrenkunde  | 56984  | --- |
+| --- | --- | Technische natuurkunde  | 56962  | --- |
+| --- | --- | Medische natuurwetenschappen  | 50800  | --- |
 | Werktuigbouwkunde  | 34280  | Industrieel ontwerpen  | 56955  | Leraar techniek  | 35254  |
-| Industrieel product ontwerpen  | 34389  | Industrial design  | 50441  |
-| Chemie  | 34396/04186  | Scheikunde  | 56857/06857  | Leraar scheikunde  | 35199  |
-| Applied science met scheikunde  | 30008  | Life science and technology  | 56286  |
-| --- | --- | Scheikundige technologie  | 56960  |
-| --- | --- | Molecular science technology  | 59308  |
-| --- | --- | Biomedische technologie  | 56226  |
-| --- | --- | Farmaceutische wetenschappen  | 59989  |
-| --- | --- | Moleculaire levenswetenschappen  | 59304  |
+| Industrieel product ontwerpen  | 34389  | Industrial design  | 50441  | --- |
+| Chemie  | 34396/  04186  | Scheikunde  | 56857/  06857  | Leraar scheikunde  | 35199  |
+| Applied science met scheikunde  | 30008  | Life science and technology  | 56286  | --- |
+| Chemische technologie  | 34275  | Scheikundige technologie  | 56960  | --- |
+| --- | --- | Molecular science technology  | 59308  | --- |
+| --- | --- | Biomedische technologie  | 56226  | --- |
+| --- | --- | Farmaceutische wetenschappen  | 59989  | --- |
+| --- | --- | Moleculaire levenswetenschappen  | 59304  | --- |
 | --- | --- | Biologie  | 56860  | Leraar biologie  | 35301  |
-| Werktuigbouwkunde  | 34280  | Werktuigbouwkunde  | 56966/06966  | Leraar werktuigbouw I en II  | 35387  |
+| Werktuigbouwkunde  | 34280  | Werktuigbouwkunde  | 56966/  06966  | Leraar werktuigbouw I en II  | 35387  |
 | Elektrotechniek  | 34267  | Elektrotechniek  | 56953  | Leraar elektrotechniek I en II  | 35384  |
-| AOT-techniek  | 34386  | --- | --- |
+| AOT-techniek  | 34386  | --- | --- | --- |
 | Automotive  | 30018  | --- | --- | Leraar motorvoertuigentechniek I en II  | 35386  |
-| Autotechniek  | 34262  | --- | --- |
+| Autotechniek  | 34262  | --- | --- | --- |
 | Bouwkunde  | --- | Bouwkunde  | 56951  | Leraar bouwkunde I en II  | 35382  |
+| Bouwkunde  | --- | --- | --- | Leraar Mens en technologie <sup>3</sup>  | --- |
 | Technische informatica  | 34475  | --- | --- | Leraar ICT/leraar informatica  | 39116  |
-| Hbo ICT  | 30020  | --- | --- |
+| Hbo ICT  | 30020  | --- | --- | --- |
 | Theologie of Godsdienst Pastoraal werk (GPW)  | 35146  | Theologie  | 56109  | Leraar godsdienst/levensbeschouwing  | 35441  |
-| --- | --- | Theologie klassiek  | 50021  |
-| --- | --- | Theologie plus  | 50022  |
-| --- | --- | Godgeleerdheid  | 56100  |
-| --- | --- | Godsdienstwetenschap  | 56104  |
-| --- | --- | Wereldgodsdiensten  | 50202  |
-| --- | --- | Religie en levensbeschouwing  | 56114  |
-| --- | --- | Religiestudies  | 50902  |
-| --- | --- | Islamitische theologie  | 56120  |
+| --- | --- | Theologie klassiek  | 50021  | --- |
+| --- | --- | Theologie plus  | 50022  | --- |
+| --- | --- | Godgeleerdheid  | 56100  | --- |
+| --- | --- | Godsdienstwetenschap  | 56104  | --- |
+| --- | --- | Wereldgodsdiensten  | 50202  | --- |
+| --- | --- | Religie en levensbeschouwing  | 56114  | --- |
+| --- | --- | Religiestudies  | 50902  | --- |
+| --- | --- | Islamitische theologie  | 56120  | --- |
 | --- | --- | Politicologie  | 56606  | Leraar maatschappijleer  | 35411  |
-| --- | --- | Sociologie  | 56601  |
-| --- | --- | Algemene sociale wetenschappen  | 56631  |
-| --- | --- | Bestuurskunde  | 56627  |
+| --- | --- | Sociologie  | 56601  | --- |
+| --- | --- | Algemene sociale wetenschappen  | 56631  | --- |
+| --- | --- | Bestuurskunde  | 56627  | --- |
 | Pedagogiek  | 35158  | Pedagogische wetenschappen  | 56607  | Leraar pedagogiek  | 35204  |
+| Sociaal pedagogische hulpverlening  | 34617  | --- | --- | --- |
 | Sociaal pedagogische hulpverlening  | 34617  | Pedagogische wetenschappen  | 56607  | Leraar omgangskunde  | 35421  |
-| Sociaal pedagogische hulpverlening  | 34617  | Psychologie  | 56604  |
-| Maatschappelijk werk en dienstverlening  | 34616  | --- | --- |
-| Cultureel maatschappelijke vorming  | 34610  | --- | --- |
-| Creatieve therapie  | 34644  | --- | --- |
-| Pedagogiek  | 35158  | --- | --- |
-| Toegepaste psychologie  | 34507/81006  | --- | --- |
-| Personeel en arbeid  | 34609  | --- | --- |
+| Maatschappelijk werk en dienstverlening  | 34616  | Psychologie  | 56604  | --- | --- |
+| Cultureel maatschappelijke vorming  | 34610  | --- | --- | --- |
+| Creatieve therapie  | 34644  | --- | --- | --- |
+| Pedagogiek  | 35158  | --- | --- | --- |
+| Toegepaste psychologie  | 34507/  81006  | --- | --- | --- |
+| Personeel en arbeid  | 34609  | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- |
-| Hbo-bachelor (alleen van het Hoger Argrarische Onderwijs)  | --- | Wo-bachelor (alleen van de Wageningen Universiteit)  | --- | --- | --- |
-| Plattelandsvernieuwing  | 34859  | --- | --- | Leraar educatie en kennismagagement voor de groene sector  | 34899  |
-| Tuinbouw en akkerbouw  | 34868  | --- | --- |
-| Dier- en veehouderij  | 34869  | Dierwetenschappen  | 56849  |
-| Diermanagement  | 34333  | --- | --- |
-| Voedingsmiddelentechnologie  | 34856  | Levensmiddelentechnogie  | 56973  |
-| Fooddesign en innovatie  | 34122  | Voeding en gezondheid  | 56868  |
-| Tuin- en landschapsinrichting  | 34220  | Landschapsarchitectuur en ruimtelijke planning  | 56848  |
-| Tropische landbouw  | 34203  | --- | --- |
-| Bedrijfskunde en agribusiness  | 34866  | --- | --- |
-| Bos- en natuurbeheer  | 34221  | Bos- en natuurbeheer  | 56219  |
-| --- | --- | Agrotechnologie  | 56831  |
-| --- | --- | Milieukunde  | 56283  |
-| --- | --- | Plantenwetenschappen  | 56835  |
-| --- | --- | Plant/Biotechnologie  | 56841  |
-| --- | --- | Biotechnologie  | 56841  |
-| --- | --- | Biologie  | 56860  |
+|  *Hbo-bachelor (alleen van het Hoger Agrarische Onderwijs)*   | --- |  *Wo-bachelor (alleen van de Wageningen Universiteit)*   | --- | --- | --- |
+| Plattelandsvernieuwing  | 34859  | Dierwetenschappen  | 56849  | Leraar educatie en kennismanagement voor de groene sector  | 34899  |
+| Tuinbouw en akkerbouw  | 34868  | Levensmiddelentechnologie  | 56973  | --- |
+| Dier- en veehouderij  | 34869  | Voeding en gezondheid  | 56868  | --- |
+| Diermanagement  | 34333  | Landschapsarchitectuur en ruimtelijke planning  | 56848  | --- |
+| Voedingsmiddelentechnologie  | 34856  | Bos- en natuurbeheer  | 56219  | --- |
+| Fooddesign en innovatie  | 34122  | Agrotechnologie  | 56831  | --- |
+| Tuin- en landschapsinrichting  | 34220  | Milieukunde  | 56283  | --- |
+| Tropische landbouw  | 34203  | Plantenwetenschappen  | 56835  | --- |
+| Bedrijfskunde en agribusiness  | 34866  | Plant/Biotechnologie  | 56841  | --- |
+| Bos- en natuurbeheer  | 34221  | Biotechnologie  | 56841  | --- |
+| Milieukunde  | 34284  | Biologie  | 56860  | --- |
+| Biotechnologie  | 34331  | --- | --- | --- |
+| Land- en Watermanagement  | 34226  | --- | --- | --- |
+| Kust- en Zeemanagement  | 39204  | --- | --- | --- |
+| Toegepaste Biologie  | 30009  | --- | --- | --- |
+| Food Commerce & Technology  | 30022  | --- | --- | --- |
+| Greenport Business and Retail  | 30024  | --- | --- | --- |
+| Landscape and Environment Management  | 30028  | --- | --- | --- |
 
+<sup>1</sup> Alleen met uitstroomprofiel Commerciële Economie. <sup>2</sup> Afhankelijk van vakkenpakket. <sup>3</sup> Alleen voor het uitstroomprofiel bouwkunde. 

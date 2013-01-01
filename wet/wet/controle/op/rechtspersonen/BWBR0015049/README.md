@@ -66,9 +66,9 @@ b. het Uitvoeringsinstituut werknemersverzekeringen;
 
 c. Onze Minister van Financiën, voorzover het gegevens betreft die verwerkt worden door de rijksbelastingdienst;  
 
-d. een regionaal politiekorps, het Korps landelijke politiediensten en de Koninklijke marechaussee, die worden verwerkt met het oog op de politietaak, bedoeld in de [artikelen 2](../../../../../../wet/politiewet/1993/BWBR0006299/README.md) en [6, eerste lid, van de Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+d. de politie en de Koninklijke marechaussee, die worden verwerkt met het oog op de politietaak, bedoeld in de [artikelen 3](../../../../../../wet/politiewet/2012/BWBR0031788/README.md) en [4, eerste lid, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
-e. bij algemene maatregel van bestuur aan te wijzen bestuursorganen of diensten die met de opsporing van strafbare feiten of met het toezicht op financiële instellingen zijn belast;  
+e. bij algemene maatregel van bestuur aan te wijzen bestuursorganen, toezichthouders en diensten of personen, belast met de opsporing van strafbare feiten;  
 
 f. het college van burgemeesters en wethouders van een gemeente, voorzover het bestanden betreft waarvan de gegevens worden verwerkt door de gemeentelijke dienst die is belast met de uitvoering van de [Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md).     
 3.  Op verstrekkingen uit het handelsregister als bedoeld in het eerste lid, onder a, aan de registratie is [artikel 28, derde lid, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) van toepassing.   
@@ -96,7 +96,7 @@ b. de vaste gebruikers, opdat Onze Minister gegevens kan verstrekken ter gelegen
 
 ### Artikel  5  
 
-1.  Onze Minister kan uit eigen beweging of desgevraagd ter uitvoering van de taak, bedoeld in artikel 2, eerste lid, in individuele gevallen risicomeldingen doen aan bij algemene maatregel van bestuur aan te wijzen bestuursorganen die deze in verband met de uitoefening van hun taak behoeven.   
+1.  Onze Minister kan uit eigen beweging of desgevraagd, ter uitvoering van de taak, bedoeld in artikel 2, eerste lid, in individuele gevallen risicomeldingen doen aan bij algemene maatregel van bestuur aan te wijzen bestuursorganen, diensten, toezichthouders en andere personen, belast met de opsporing van strafbare feiten, onderscheidenlijk het toezicht op de naleving van wetgeving.   
 2.  Gegevens over de echtgenoot, geregistreerd partner of levensgezel, de ouders, kinderen en kleinkinderen van de in artikel 4, eerste en tweede lid bedoelde personen worden alleen in een risicomelding opgenomen, indien dat nodig is voor de onderbouwing van die risicomelding.   
 3.  Een ieder die krachtens deze wet de beschikking krijgt over gegevens met betrekking tot een derde die zijn neergelegd in een risicomelding is verplicht tot geheimhouding daarvan, tenzij bij algemene maatregel van bestuur mededeling wordt toegestaan.   
 4.  Van het doen van een risicomelding wordt aantekening gehouden. Deze aantekening wordt gedurende twee jaren bewaard.   
@@ -124,7 +124,7 @@ a. de Justitiële Informatiedienst;
 
 b. het Uitvoeringsinstituut werknemersverzekeringen;  
 
-c. een regionaal politiekorps, het Korps landelijke politiediensten en de Koninklijke marechaussee.     
+c. de politie en de Koninklijke marechaussee.     
 2.  In afwijking van [artikel 67, eerste lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [artikel 67, eerste lid, van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [artikel 10, eerste lid, van de Registratiewet 1970](../../../../../../wet/registratiewet/1970/BWBR0002739/README.md) kan Onze Minister ter uitvoering van de in artikel 2, eerste lid, bedoelde taak in individuele gevallen ten behoeve van een risicomelding desgevraagd of uit eigen beweging gegevens verstrekken die afkomstig zijn van de rijksbelastingdienst.   
 3.  Voor andere doelen dan genoemd in het eerste en tweede lid worden geen gegevens verstrekt die afkomstig zijn van: 
 
@@ -132,7 +132,7 @@ a. de Justitiële Informatiedienst;
 
 b. het Uitvoeringsinstituut werknemersverzekeringen;  
 
-c. een regionaal politiekorps, het Korps landelijke politiediensten en de Koninklijke marechaussee;  
+c. de politie en de Koninklijke marechaussee;  
 
 d. Onze Minister van Financiën, voorzover het gegevens betreft die verstrekt worden door de rijksbelastingdienst;  
 

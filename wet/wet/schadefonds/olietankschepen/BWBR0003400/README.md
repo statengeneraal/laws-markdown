@@ -35,11 +35,11 @@ f. «Aanvullend Fonds»: het Internationaal Aanvullend Fonds voor de vergoeding 
 ### Artikel  2  
 
 1.  De uit het Verdrag voortvloeiende verplichting tot betaling van bijdragen aan het Fonds heeft de kracht van een verbintenis naar burgerlijk recht.   
-2.  Tot de kennisneming in eerste aanleg van vorderingen van het Fonds tot betaling van bijdragen is in Nederland bij uitsluiting bevoegd de rechtbank te Rotterdam.   
+2.  Tot de kennisneming in eerste aanleg van vorderingen van het Fonds tot betaling van bijdragen is in Nederland bij uitsluiting bevoegd de rechtbank Rotterdam.   
 
 ### Artikel  3  
 
-1.  Tot de kennisneming in eerste aanleg van vorderingen tegen het Fonds op grond van artikel 4 van het Verdrag, is in Nederland bij uitsluiting bevoegd de rechtbank te Rotterdam.   
+1.  Tot de kennisneming in eerste aanleg van vorderingen tegen het Fonds op grond van artikel 4 van het Verdrag, is in Nederland bij uitsluiting bevoegd de rechtbank Rotterdam.   
 2.  Het Fonds kan, zonder dat het daartoe een belang behoeft te stellen, zich voegen of tussenkomen in elk geding, dat op grond van het Aansprakelijkheidsverdrag tegen de eigenaar van een schip of tegen diens garant wordt gevoerd.   
 
 ### Artikel  4  

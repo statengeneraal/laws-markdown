@@ -76,7 +76,9 @@ u. werknemer:
 
 ####Het Vut-fonds en de financiering daarvan
 
-### Paragraaf  4  
+### §  4  
+
+####Het FAOP en de financiering daarvan
 
 ### §  5  
 
@@ -120,8 +122,7 @@ b. de gewezen overheidswerknemer die na beëindiging van zijn dienstverband, in 
 
 ### Artikel  29  
 
-1.  De heffingsgrondslag waarnaar de inhouding ingevolge de bepalingen van deze paragraaf plaatsvinden, is het loon dat de werknemer in een uitbetalingstermijn van dezelfde werkgever heeft of geacht wordt te hebben ontvangen, met dien verstande dat de heffingsgrondslag, herleid naar een jaarbedrag, niet meer kan bedragen dan het bedrag dat wordt verkregen door het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), met betrekking tot een loontijdvak van een dag, te vermenigvuldigen met 261.   
-2.  In afwijking van het eerste lid wordt voor de vaststelling van de inhouding inzake werkloosheid, bedoeld in artikel 31, de heffingsgrondslag, bedoeld in het eerste lid en herleid naar een jaarbedrag, voor zoveel mogelijk verminderd met het bedrag dat wordt verkregen door het bedrag, bedoeld in [artikel 17, tweede lid, van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), met betrekking tot een loontijdvak van een dag, te vermenigvuldigen met 261.   
+De heffingsgrondslag waarnaar de inhouding ingevolge de bepalingen van deze paragraaf plaatsvinden, is het loon dat de werknemer in een uitbetalingstermijn van dezelfde werkgever heeft of geacht wordt te hebben ontvangen, met dien verstande dat de heffingsgrondslag, herleid naar een jaarbedrag, niet meer kan bedragen dan het bedrag dat wordt verkregen door het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), met betrekking tot een loontijdvak van een dag, te vermenigvuldigen met 261.  
 
 ### Artikel  31  
 
@@ -266,8 +267,7 @@ b. de in artikel 74 bedoelde uitbetaling van vakantie-uitkering.
 
 ### Artikel  68  
 
-1.  Voor de toepassing van [artikel 8:1, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt een beslissing van het bestuur van het ABP ingevolge het bepaalde in paragraaf 2 en artikel 80 van deze wet, van het bestuur van het Vut-fonds ingevolge het bepaalde in paragraaf 3 van deze wet, of van het bestuur van het FAOP ingevolge het bepaalde in paragraaf 4 van deze wet, gelijkgesteld met een besluit.   
-2.  In afwijking van [artikel 8:7, tweede lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen op grond van deze wet ingesteld de rechtbank te 's-Gravenhage bevoegd.   
+Voor de toepassing van [artikel 8:1, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt een beslissing van het bestuur van het ABP ingevolge het bepaalde in paragraaf 2 en artikel 80 van deze wet, van het bestuur van het Vut-fonds ingevolge het bepaalde in paragraaf 3 van deze wet, of van het bestuur van het FAOP ingevolge het bepaalde in paragraaf 4 van deze wet, gelijkgesteld met een besluit.  
 
 ### Artikel  69  
 
@@ -347,16 +347,16 @@ b. degene die:
 
 2°. in verband daarmee nadien wegens blijvende ongeschiktheid voor de vervulling van zijn betrekking recht heeft op een dergelijk pensioen, en  
 
-3°. geheel of gedeeltelijk algemeen invalide is in de zin van artikel F 8 *a*, tweede lid, van de Abp-wet, onderscheidenlijk geheel of gedeeltelijk arbeidsongeschikt is in de zin van artikel E 6 van de Amp-wet.    
+3°. geheel of gedeeltelijk algemeen invalide is in de zin van artikel F 8a, tweede lid, van de Abp-wet, onderscheidenlijk geheel of gedeeltelijk arbeidsongeschikt is in de zin van artikel E 6 van de Amp-wet.    
 
 c. degene aan wie na de inwerkingtreding van artikel 53, onderdeel U, van deze wet een dergelijk pensioen wordt toegekend naar aanleiding van een reeds voor die inwerkingtreding ontstaan recht daarop;  
 
 d. degene die op de dag voorafgaande aan de inwerkingtreding van artikel 53, onderdeel U, van deze wet recht heeft op een herplaatsingswachtgeld als bedoeld in artikel K 4, tweede lid, van de Abp-wet dan wel een herplaatsingstoelage als bedoeld in artikel K 4, vierde lid, van die wet.     
 2.  Ten aanzien van de in het eerste lid bedoelde belanghebbenden is artikel F 8f van de Abp-wet onderscheidenlijk artikel E 6, zesde lid, van de Amp-wet van overeenkomstige toepassing, met dien verstande dat daarbij onder het invaliditeitspensioen dan wel arbeidsongeschiktheidspensioen tevens wordt begrepen de toeslag, bedoeld in: 
 
-a. artikel F 9 *a* van de Abp-wet;  
+a. artikel F 9a van de Abp-wet;  
 
-b. artikel F 7 *a* van de Amp-wet;  
+b. artikel F 7a van de Amp-wet;  
 
 c. artikel 10 van de in artikel 60 genoemde wet,   zoals die artikelen luidden op de dag voorafgaand aan de inwerkingtreding van artikel 53, onderdeel U, van deze wet.   
 
@@ -377,10 +377,10 @@ c. tijdens het vorenbedoeld dienstverband voor ten minste 15 procent arbeidsonge
 
 ### Artikel  81  
 
-1.  Degene die op het tijdstip van inwerkingtreding van artikel 53, onderdeel U, van deze wet ambtenaar is en die kiest voor de verlaging van het pensioenbijdrageverhaal, bedoeld in artikel F 8 *f*, derde lid, van de Abp-wet, dient voor 1 december 1994 zijn keuze op de voorgeschreven wijze kenbaar te maken.   
+1.  Degene die op het tijdstip van inwerkingtreding van artikel 53, onderdeel U, van deze wet ambtenaar is en die kiest voor de verlaging van het pensioenbijdrageverhaal, bedoeld in artikel F 8f, derde lid, van de Abp-wet, dient voor 1 december 1994 zijn keuze op de voorgeschreven wijze kenbaar te maken.   
 2.  Degene die na het in het eerste lid bedoelde tijdstip, maar voor 1 januari 1995 ambtenaar wordt, dient de in het eerste lid bedoelde keuze terstond bij de aanvang van de dienstverhouding waaraan die hoedanigheid wordt ontleend, op de voorgeschreven wijze kenbaar te maken.   
-3.  Ten aanzien van degene op wie het eerste of tweede lid van toepassing is, gaat de verlaging van het pensioenbijdrageverhaal, bedoeld in artikel F 8 *f* van de Abp-wet, in per 1 januari 1995.   
-4.  In afwijking van het eerste lid en van artikel F 8 *f* van de Abp-wet wordt degene die op het tijdstip van inwerkingtreding van artikel 53, onderdeel U, van deze wet ambtenaar is en de leeftijd van 58 jaar reeds heeft bereikt, met ingang van 1 januari 1995 in aanmerking gebracht voor de in artikel F 8 *f*, derde lid, van de Abp-wet bedoelde verlaging van het pensioenbijdrageverhaal, met behoud van de aanspraak op de aanvulling, bedoeld in het eerste lid van dat artikel.   
+3.  Ten aanzien van degene op wie het eerste of tweede lid van toepassing is, gaat de verlaging van het pensioenbijdrageverhaal, bedoeld in artikel F 8f van de Abp-wet, in per 1 januari 1995.   
+4.  In afwijking van het eerste lid en van artikel F 8f van de Abp-wet wordt degene die op het tijdstip van inwerkingtreding van artikel 53, onderdeel U, van deze wet ambtenaar is en de leeftijd van 58 jaar reeds heeft bereikt, met ingang van 1 januari 1995 in aanmerking gebracht voor de in artikel F 8f, derde lid, van de Abp-wet bedoelde verlaging van het pensioenbijdrageverhaal, met behoud van de aanspraak op de aanvulling, bedoeld in het eerste lid van dat artikel.   
 
 ### Artikel  82  
 

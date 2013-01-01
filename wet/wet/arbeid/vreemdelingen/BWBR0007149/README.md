@@ -99,10 +99,10 @@ c. indien het een vreemdeling betreft:
 
 2°. aan wie een vergunning tot verblijf is geweigerd of wiens vergunning tot verblijf is ingetrokken;    
 
-d. indien het een niet eerder toegelaten vreemdeling betreft, die met de desbetreffende arbeid over een periode van een maand niet ten minste een bedrag verdient gelijk aan het minimumloon, bedoeld in [artikel 8, onder *a*, van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md);  
+d. indien het een niet eerder toegelaten vreemdeling betreft, die met de desbetreffende arbeid over een periode van een maand niet ten minste een bedrag verdient gelijk aan het minimumloon, bedoeld in [artikel 8, onder a, van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md);  
 
 e. indien het een arbeidsplaats betreft die behoort tot een bij algemene maatregel van bestuur aangewezen categorie van werkzaamheden, waarvan het niet in het Nederlands belang is deze door vreemdelingen te laten verrichten.     
-2.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald, dat een vreemdeling die de toegang tot Nederland niet is geweigerd en door wie of ten behoeve van wie een asielaanvraag is ingediend en die ten bewijze daarvan door Onze Minister van Justitie in het bezit is gesteld van een daartoe aangewezen document, dan wel houder is van een al dan niet voorwaardelijke vergunning tot verblijf en niet beschikt over een aantekening als bedoeld in artikel 4, eerste lid, van de wet, gelet op de verbetering van de kwaliteit van het verblijf van die vreemdeling arbeid mag verrichten, waarbij kan worden afgeweken van het eerste lid, onderdelen a, b en d.   
+2.  Onder bij of krachtens algemene maatregel van bestuur te stellen voorwaarden is het eerste lid, onder a, b en d, niet van toepassing op de vreemdeling die de toegang tot Nederland niet is geweigerd en door wie of ten behoeve van wie een asielaanvraag is ingediend en die ten bewijze daarvan door Onze Minister voor Immigratie en Asiel in het bezit is gesteld van een daartoe aangewezen document, dan wel houder is van een al dan niet voorwaardelijke vergunning tot verblijf en niet beschikt over een aantekening als bedoeld in [artikel 4, eerste lid, van de wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), gelet op de verbetering van de kwaliteit van het verblijf van die vreemdeling arbeid mag verrichten.   
 3.  In door Onze Minister te bepalen gevallen kan: 
 
 1°. in buitengewone omstandigheden worden afgeweken van het eerste lid, onder *b*;  
@@ -214,11 +214,25 @@ b. het niet naleven van een aan de tewerkstellingsvergunning verbonden voorschri
 
 ### Artikel  17  
 
-De toezichthouder is bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner indien sprake is van een redelijk vermoeden van een overtreding als bedoeld in artikel 18 of van een strafbaar feit als bedoeld in artikel 19c.  
+De toezichthouder is bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner indien sprake is van een redelijk vermoeden van een overtreding als bedoeld in artikel 18.  
 
 ### Artikel  17a  
 
 De toezichthouder is te allen tijde bevoegd tot inbeslagneming van daarvoor vatbare voorwerpen. Hij kan daartoe de uitlevering vorderen tegen een door hem afgegeven schriftelijk bewijs. Zodra het belang van onderzoek omtrent de overtreding zulks toelaat wordt het in beslag genomen voorwerp teruggegeven aan degene bij wie het in beslag is genomen.  
+
+### Artikel  17b  
+
+1.  Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar kan, nadat een overtreding van een voorschrift of verbod bij of krachtens deze wet is geconstateerd die bestuurlijk beboetbaar is gesteld, aan de werkgever een schriftelijke waarschuwing geven dat bij herhaling van de overtreding of bij een latere overtreding van eenzelfde in de waarschuwing aangegeven wettelijke verplichting of verbod of bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen of verboden, door hem een bevel kan worden opgelegd dat door hem aangewezen werkzaamheden voor ten hoogste drie maanden worden gestaakt dan wel niet mogen worden aangevangen.   
+2.  Indien een waarschuwing als bedoeld in het eerste lid is gegeven en herhaling van de overtreding of een latere overtreding als bedoeld in het eerste lid is geconstateerd, kan door de ambtenaar, bedoeld in het eerste lid, aan de werkgever bij beschikking een bevel als bedoeld in het eerste lid worden opgelegd dat wordt opgevolgd met ingang van het in de beschikking aangeven tijdstip. Deze beschikking wordt niet gegeven zolang wegens de eerste overtreding, bedoeld in het eerste lid, nog niet een bestuurlijke boete is opgelegd.   
+3.  De constatering van de overtreding, bedoeld in het eerste of tweede lid, wordt vastgelegd in een boeterapport.   
+4.  De waarschuwing, bedoeld in het eerste lid, vervalt indien na de dagtekening van de waarschuwing vijf jaren zijn verstreken. [Artikel 5:34, tweede lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
+5.  De ambtenaar, bedoeld in het eerste lid, is bevoegd met betrekking tot het bevel, bedoeld in het tweede lid, met inbegrip van de oplegging van een last onder bestuursdwang, de nodige maatregelen te treffen, de nodige aanwijzingen te geven en de hulp van de sterke arm in te roepen.   
+6.  Ieder wie zulks aangaat is verplicht zich te gedragen overeenkomstig een bevel als bedoeld in het tweede lid en een maatregel of aanwijzing als bedoeld in het vijfde lid.   
+7.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste en tweede lid.   
+
+### Artikel  17d  
+
+Een beschikking op grond van deze wet van een ambtenaar als bedoeld in artikel 17b, eerste lid, wordt genomen namens Onze Minister.  
 
 ### §  IV  
 
@@ -243,24 +257,15 @@ b. het officiële nummer waaronder het betreffende vervoermiddel is geregistreer
 1.  Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar legt namens hem de bestuurlijke boete op aan degene op wie de verplichtingen rusten welke voortvloeien uit deze wet, voor zover het niet naleven daarvan is aangeduid als een overtreding.   
 2.  De terzake van deze wet gestelde overtredingen, gelden ten opzichte van elk persoon, met of ten aanzien van wie een overtreding is begaan.   
 
-### Artikel  19b  
-
-Geen bestuurlijke boete wordt opgelegd, indien een gedraging die in strijd is met het bepaalde bij of krachtens deze wet, tevens een strafbaar feit als bedoeld in artikel 19c oplevert.  
-
-### Artikel  19c  
-
-Een overtreding wordt aangemerkt als een strafbaar feit, indien tweemaal binnen een aan de dag van het constateren van die overtreding voorafgaande periode van 48 maanden, met respectievelijke tussenliggende perioden van ten hoogste 24 maanden, voor een overtreding bestaande uit het niet naleven van eenzelfde wettelijke verplichting een bestuurlijke boete is opgelegd die onherroepelijk is geworden.  
-
 ### Artikel  19d  
 
-1.  De hoogte van de bestuurlijke boete, die voor een overtreding kan worden opgelegd, is, indien begaan door: 
-
-a. een natuurlijk persoon, gelijk aan de geldsom van ten hoogste € 11 250,  
-
-b. een rechtspersoon, gelijk aan de geldsom van ten hoogste € 45 000.     
-2.  Onverminderd het eerste lid verhoogt de aangewezen ambtenaar, bedoeld in het eerste lid, de op te leggen bestuurlijke boete met 50%, indien op de dag van het constateren van de overtreding nog geen 24 maanden zijn verstreken nadat een eerdere overtreding bestaande uit het niet naleven van eenzelfde wettelijke verplichting is geconstateerd en de bestuurlijke boete wegens de eerdere overtreding onherroepelijk is geworden.   
-3.  Onze Minister stelt beleidsregels vast waarin de boetebedragen voor de overtredingen worden vastgesteld. [Artikel 5:53 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing indien een artikel gesteld bij of krachtens deze wet op grond waarvan een bestuurlijke boete kan worden opgelegd, niet is nageleefd.   
-4.  In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechter in beroep of hoger beroep de hoogte van de bestuurlijke boete ook ten nadele van de belanghebbende wijzigen.   
+1.  De bestuurlijke boete die voor een overtreding kan worden opgelegd bedraagt ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+2.  Onverminderd het eerste lid verhoogt de op grond van artikel 19a, eerste lid, aangewezen ambtenaar de op te leggen bestuurlijke boete met 100 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boete wegens de eerdere overtreding onherroepelijk is geworden.   
+3.  De verhoging van de bestuurlijke boete, bedoeld in het tweede lid, bedraagt 200 procent indien zowel de overtreding als de eerdere overtreding, bedoeld in dat lid, bij of krachtens algemene maatregel van bestuur zijn aangewezen als ernstige overtredingen.   
+4.  Onverminderd het eerste lid verhoogt de op grond van artikel 19a, eerste lid, aangewezen ambtenaar de op te leggen bestuurlijke boete met 200 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding twee maal een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boeten wegens de eerdere overtredingen onherroepelijk zijn geworden.   
+5.  In afwijking van het tweede en vierde lid is het tijdvak van vijf jaar in die leden tien jaar indien de onherroepelijke boetes, bedoeld in die leden, zijn opgelegd wegens bij of krachtens algemene maatregel van bestuur aangewezen ernstige overtredingen.   
+6.  Onze Minister stelt beleidsregels vast waarin de boetebedragen voor de overtredingen worden vastgesteld. [Artikel 5:53 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing indien een artikel gesteld bij of krachtens deze wet op grond waarvan een bestuurlijke boete kan worden opgelegd, niet is nageleefd.   
+7.  In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechter in beroep of hoger beroep de hoogte van de bestuurlijke boete ook ten nadele van de belanghebbende wijzigen.   
 
 ### Artikel  19f  
 
@@ -273,10 +278,6 @@ Indien een bestuurlijke boete ten onrechte is opgelegd, wordt deze binnen zes we
 ### Artikel  20  
 
 Een tewerkstellingsvergunning anders dan die bedoeld in artikel 11, tweede en derde lid, behoudt haar geldigheid, totdat de termijn voor het instellen van beroep tegen een beschikking, inhoudende de intrekking van die vergunning is verstreken, of, indien beroep is ingesteld, op het beroep is beslist.  
-
-### Artikel  21  
-
-[Artikel 71 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is van toepassing ten aanzien van beroepen tegen besluiten, gegeven op grond van deze wet, met uitzondering van de beschikking tot oplegging van de bestuurlijke boete.  
 
 ### Artikel  22  
 

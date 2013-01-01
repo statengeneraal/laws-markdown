@@ -12,11 +12,11 @@ In deze regeling wordt verstaan onder:   a. het handboek:  het handboek politiel
 
 ### Artikel  2  
 
-Het politielogo wordt door de regionale politiekorpsen slechts gebruikt overeenkomstig de beschrijving en afbeelding van het politielogo in hoofdstuk 2 van het handboek.  
+Het politielogo wordt door de politie slechts gebruikt overeenkomstig de beschrijving en afbeelding van het politielogo in hoofdstuk 2 van het handboek.  
 
 ### Artikel  3  
 
-1.  Het politielogo wordt door de regionale politiekorpsen in ieder geval aangebracht op: 
+1.  Het politielogo wordt door de politie in ieder geval aangebracht op: 
 
 a. de gebouwen van politie;  
 
@@ -31,11 +31,7 @@ e. de uniform-kleding van de politie.
 
 ### Artikel  4  
 
-In het geval een regionaal politiekorps de huisstijl uit het handboek toepast, geschiedt dit overeenkomstig de beschrijving en afbeelding in het handboek.  
-
-### Artikel  5  
-
-Na de inwerkingtreding van deze regeling berusten de krachtens de Regeling politielogo van 25 maart 1994, gewijzigd 25 okotober 1994, (Stcrt. 1994, 64 en Stcrt. 1994, 218) vastgestelde besluiten op deze regeling.  
+In het geval de politie de huisstijl uit het handboek toepast, geschiedt dit overeenkomstig de beschrijving en afbeelding in het handboek.  
 
 ### Artikel  6  
 
@@ -44,6 +40,10 @@ De Regeling politielogo (Stcrt. 1994, 64, gewijzigd in Stcrt. 218) wordt ingetro
 ### Artikel  7  
 
 Deze regeling wordt aangehaald als: Regeling politielogo.  
+
+### Artikel  7a  
+
+Deze regeling berust op [artikel 30, tweede lid, van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md).  
 
 ### Artikel  8  
 

@@ -15,8 +15,7 @@ Toelatingen, als bedoeld in [artikel 13 der Pandhuiswet 1910](../../../../../../
 
 ### Artikel  2  
 
-1.  De vóór de inwerkingtreding van deze wet verleende toelatingen worden geacht te zijn ingetrokken op den eersten dag van de zevende maand na de inwerkingtreding van deze wet.   
-2.  Tegen deze intrekking staat geen beroep open.   
+De vóór de inwerkingtreding van deze wet verleende toelatingen worden geacht te zijn ingetrokken op den eersten dag van de zevende maand na de inwerkingtreding van deze wet.  
 
 ### Artikel  3  
 

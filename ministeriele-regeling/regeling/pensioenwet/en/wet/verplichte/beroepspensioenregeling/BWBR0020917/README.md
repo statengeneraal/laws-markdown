@@ -19,7 +19,11 @@ Besluit:
 
 ####Aangewezen werknemers
 
-Als categorie van personen als bedoeld in [artikel 2, derde lid, van de Pensioenwet](../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) worden aangewezen de personen die in de Generale regeling predikantspensioenen als deelnemer zijn aangemerkt.  
+Als categorie van personen als bedoeld in [artikel 2, derde lid, van de Pensioenwet](../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) worden aangewezen: 
+
+a. de personen die in de Generale regeling predikantspensioenen als deelnemer zijn aangemerkt;  
+
+b. de bestuurders van vennootschappen als bedoeld in [artikel 132, derde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), met uitsluiting van de directeur-grootaandeelhouder.    
 
 ### Artikel  1a  
 
@@ -223,112 +227,33 @@ b. welke aanvullende maatregelen, waaronder zonodig vermindering van pensioenaan
 3.  Indien De Nederlandsche Bank gedurende de looptijd van het kortetermijnherstelplan vaststelt dat de feitelijke ontwikkeling van de dekkingsgraad afwijkt van de daarin veronderstelde ontwikkeling, zodanig dat naar verwachting niet aan het einde van de looptijd zal kunnen worden voldaan aan, het minimaal vereist eigen vermogen, worden uiterlijk op 1 april van het tweede jaar volgend op 31 december van enig jaar, op basis van de situatie op 31 december daaraanvoorafgaand de door het fonds gekozen aanvullende maatregelen, bedoeld in het tweede lid, onder b, uitgevoerd, tenzij het fonds ten genoegen van De Nederlandsche Bank aantoont dat de feitelijke ontwikkeling van de dekkingsgraad zodanig is dat naar verwachting opnieuw zal worden voldaan aan het minimaal vereist eigen vermogen.   
 4.  Voor de toepassing van het derde lid wordt de feitelijke ontwikkeling van de dekkingsgraad vastgesteld op 31 december van enig jaar.   
 5.  Indien een fonds geen kortetermijnherstelplan als bedoeld in het tweede lid, onderdeel a, kan indienen omdat vermindering van pensioenaanspraken en pensioenrechten nodig is om aan het einde van de looptijd van het plan te voldoen aan het minimaal vereist eigen vermogen, wordt deze vermindering van pensioenaanspraken en pensioenrechten uiterlijk 1 januari 2011 uitgevoerd, tenzij het fonds tot genoegen van De Nederlandsche Bank aantoont dat de feitelijke ontwikkeling van de dekkingsgraad zodanig is dat naar verwachting zonder die vermindering aan het eind van de looptijd zal worden voldaan aan het minimaal vereist eigen vermogen. Gedurende de verdere looptijd van ieder kortetermijnherstelplan als bedoeld in dit lid zijn het derde en vierde lid van overeenkomstige toepassing.   
-6.  Dit artikel is uitsluitend van toepassing indien de beslissing met betrekking tot de instemming met het kortetermijnherstelplan, bedoeld in [artikel 140 van de Pensioenwet](../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 135 van de Wet verplichte beroepspensioenregeling](../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), wordt genomen na inwerkingtreding van dit artikel en het kortetermijnherstelplan is ingediend voor 1 januari 2011.   
+6.  Zo nodig in afwijking van het derde en vierde lid, wordt een vermindering van pensioenaanspraken en pensioenrechten die op grond van de feitelijke ontwikkeling van de dekkingsgraad, vastgesteld op de laatste dag van de looptijd van het kortetermijnherstelplan, noodzakelijk is, uiterlijk 3 maanden na afloop van het kortetermijnherstelplan onvoorwaardelijk ingeboekt en geëffectueerd.   
+7.  Een fonds kan de vermindering van pensioenaanspraken en pensioenrechten spreiden indien de pensioenregeling per 1 januari 2013 de volgende kenmerken heeft: 
+
+a. de in de pensioenregeling opgenomen richtleeftijd voor nieuwe pensioenopbouw is tenminste 67 jaar of, indien dit laatste niet tijdig gerealiseerd kan worden, de pensioenopbouw is verlaagd op een wijze die materieel hetzelfde effect heeft;  
+
+b. stijgingen van de levensverwachting worden ten laste gebracht van de toeslagverlening op pensioenaanspraken en pensioenrechten; en  
+
+c. bij een dekkingsgraad van minder dan 110% wordt geen toeslag verleend.     
+8.  Een fonds met een kortetermijnherstelplan waarvan de looptijd eindigt voor 1 april 2014, kan de vermindering van pensioenaanspraken en pensioenrechten, bedoeld in het zevende lid, als volgt spreiden: 
+
+a. in 2013 kan de vermindering worden beperkt tot hetgeen wordt geëffectueerd per 1 april 2013;  
+
+b. in 2014 kan de effectuering van de vermindering worden beperkt tot 7%;  
+
+c. de resterende vermindering wordt geëffectueerd per 1 april 2015.     
+9.  Een fonds met een kortetermijnherstelplan waarvan de looptijd eindigt na 1 april 2014, kan de vermindering van pensioenaanspraken en pensioenrechten, bedoeld in het zevende lid, als volgt spreiden: 
+
+a. in 2014 kan de vermindering worden beperkt tot hetgeen op grond van het derde lid wordt geëffectueerd per 1 april 2014, met dien verstande dat indien deze vermindering meer bedraagt dan 7%, de vermindering in 2014 kan worden beperkt tot 7%;  
+
+b. in 2015 kan de effectuering van de vermindering worden beperkt tot 7%;  
+
+c. de resterende vermindering wordt geëffectueerd per 1 april 2016.     
+10.  Dit artikel is uitsluitend van toepassing indien de beslissing met betrekking tot de instemming met het kortetermijnherstelplan, bedoeld in [artikel 140 van de Pensioenwet](../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 135 van de Wet verplichte beroepspensioenregeling](../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), wordt genomen na inwerkingtreding van dit artikel en het kortetermijnherstelplan is ingediend voor 1 januari 2011.   
 
 ### Paragraaf  3  
 
 ####Begroting, jaarverslag, jaarrekening of verantwoording
-
-### Artikel  7  
-
-####Indienen van de begroting
-
-1.  De begroting, bedoeld in [artikel 154 van de Pensioenwet](../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 149 van de Wet verplichte beroepspensioenregeling](../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), is voorzien van: 
-
-a. een exploitatiebegroting en een meerjarenraming;  
-
-b. een toelichting;  
-
-c. het verslag van het overleg over de begroting dat de toezichthouder op grond van [artikel 161 van de Pensioenwet](../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 156 van de Wet verplichte beroepspensioenregeling](../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) organiseert; en  
-
-d. de bevindingen van de raad van toezicht of de raad van commissarissen.     
-2.  De toezichthouder vermeldt de wijze waarop rekening is gehouden met de inbreng en de bevindingen van Onze Minister en van het overleg dat de toezichthouder op grond van [artikel 161 van de Pensioenwet](../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 156 van de Wet verplichte beroepspensioenregeling](../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) organiseert.   
-
-### Artikel  8  
-
-####Eisen aan de begroting
-
-1.  De begroting legt een koppeling tussen: 
-
-a. de doelstellingen van het beleid, uitgedrukt in te bereiken effecten;  
-
-b. de daartoe te leveren prestaties of activiteiten; en  
-
-c. de daarvoor in te zetten financiële middelen en capaciteit.     
-2.  De begroting dient zodanig te zijn ingericht dat: 
-
-a. duidelijk onderscheid wordt gemaakt tussen verzekeraars die een pensioenregeling uitvoeren en pensioenfondsen of beroepspensioenfondsen en, voor zover toepasselijk, tussen materieel en prudentieel toezicht; en  
-
-b. de investeringen en de toerekening daarvan aan de bij of krachtens de [Pensioenwet](../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en de [Wet verplichte beroepspensioenregeling](../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) aan de toezichthouder opgedragen taken inzichtelijk is.     
-
-### Artikel  9  
-
-####Eisen aan de toelichting bij de begroting
-
-1.  De toelichting bij de begroting bevat een financieel en een beleidsmatig deel en een toelichting per begrotingsartikel.   
-2.  De toelichting bij het financiële deel van de begroting gaat in op: 
-
-a. de inzet van financiële middelen en capaciteit;  
-
-b. het effect van investeringen van de toezichthouder en hoe deze tot uitdrukking komen in de toezichtkosten;  
-
-c. de gehanteerde bedrijfseconomische grondslagen; en  
-
-d. de ontwikkelingen van de loon- en prijsmutaties voor de totale toezichtkosten.     
-3.  De toelichting bij het beleidsmatige deel van de begroting gaat in op: 
-
-a. de relevante (beleids)wijzigingen in de taakuitoefening, die in het begrotingsjaar ten opzichte van het lopende jaar zijn te verwachten, en de daarmee samenhangende kosten;  
-
-b. de wijze waarop de toezichthouder voldoet aan de eisen die in [artikel 40 van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](../../../../../../../../AMvB/besluit/uitvoering/pensioenwet/en/wet/verplichte/beroepspensioenregeling/BWBR0020892/README.md) zijn gesteld; en  
-
-c. de verwachte effecten van doelmatigheidsbevordering.     
-
-### Artikel  10  
-
-####Eisen aan de gewijzigde of aanvullende begroting
-
-Voor de gewijzigde of aanvullende begroting, bedoeld in [artikel 154, vierde lid, van de Pensioenwet](../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 149, vierde lid, van de Wet verplichte beroepspensioenregeling](../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), zijn artikel 7 tot en met 9 van overeenkomstige toepassing, met uitzondering van artikel 7, eerste lid, onderdeel c, en het tweede lid.  
-
-### Artikel  11  
-
-####Indienen van jaarverslag en jaarrekening of verantwoording
-
-1.  De toezichthouder zendt het jaarverslag, bedoeld in [artikel 156, eerste lid, van de Pensioenwet](../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 151, eerste lid, van de Wet verplichte beroepspensioenregeling](../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en de jaarrekening of verantwoording, bedoeld in [artikel 157, eerste lid](../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), dan wel [artikel 152, eerste lid, van de Wet verplichte beroepspensioenregeling](../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) gelijktijdig aan Onze Minister.   
-2.  De jaarrekening of verantwoording gaat vergezeld van de bevindingen van de raad van toezicht of de raad van commissarissen.   
-
-### Artikel  12  
-
-####Eisen aan jaarrekening of verantwoording
-
-1.  De jaarrekening of verantwoording legt een koppeling met de begroting en volgt de systematiek van de begroting. Artikel 8 is van overeenkomstige toepassing. Afwijkingen van de begroting worden toegelicht.   
-2.  De jaarrekening of verantwoording bevat een vergelijking met de realisatie, opgenomen in de jaarrekening of verantwoording van het voorafgaande jaar, en de begroting van het jaar waarop de jaarrekening of verantwoording betrekking heeft.   
-
-### Artikel  13  
-
-####Eisen aan het jaarverslag
-
-1.  In het jaarverslag doet de toezichthouder verslag van: 
-
-a. de activiteiten in het afgelopen kalenderjaar;  
-
-b. de knelpunten bij de uitvoering van het toezicht en de wijze waarop met deze knelpunten is omgegaan;  
-
-c. de wijze waarop wordt voldaan aan de eisen die in [artikel 40 van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](../../../../../../../../AMvB/besluit/uitvoering/pensioenwet/en/wet/verplichte/beroepspensioenregeling/BWBR0020892/README.md) zijn gesteld; en  
-
-d. het op grond van [artikel 209 van de Pensioenwet](../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 203 van de Wet verplichte beroepspensioenregeling](../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) gevoerde overleg met belanghebbenden.     
-2.  Artikel 9, derde lid, is van overeenkomstige toepassing op het jaarverslag.   
-
-### Artikel  14  
-
-####Bevindingen
-
-De raad van toezicht of raad van commissarissen vermeldt in zijn bevindingen of: 
-
-a. de begroting, het jaarverslag en de jaarrekening of verantwoording is opgesteld conform de bij of krachtens de [Pensioenwet](../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en de [Wet verplichte beroepspensioenregeling](../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) daaraan gestelde eisen;  
-
-b. is afgeweken van de afspraken die met Onze Minister zijn gemaakt; en  
-
-c. conform de overeengekomen procedures overleg is gepleegd met belanghebbenden en de wijze waarop is ingegaan op hun bevindingen.    
 
 ### Hoofdstuk  2  
 
@@ -400,88 +325,6 @@ d. 3 jaar voor de mannelijke partner van vrouwelijke deelnemers.
 ### Paragraaf  3  
 
 ####Kosten
-
-### Artikel  21  
-
-Gereserveerd.   
-
-### Artikel  22  
-
-Gereserveerd.   
-
-### Artikel  23  
-
-####Vaststelling verschuldigd bedrag kosten
-
-1.  De minimumbedragen, bedoeld in [artikel 43, tweede lid, onderdeel a, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](../../../../../../../../AMvB/besluit/uitvoering/pensioenwet/en/wet/verplichte/beroepspensioenregeling/BWBR0020892/README.md) bedragen voor het: 
-
-a. prudentieel toezicht voor fondsen: € 400;  
-
-b. materieel toezicht voor fondsen en verzekeraars: € 281;  
-
-c. gedragstoezicht: 
-
-1°. voor het heffingsjaar 2008: 
-
-a. voor fondsen met minder dan 1350 deelnemers: € 921,–  
-
-b. voor fondsen met minstens 1350 deelnemers: € 3.030,–; en  
-
-c. voor verzekeraars: € 921,–    
-
-2°. voor het heffingsjaar 2009 
-
-a. voor fondsen met minder dan 450 deelnemers: € 1.000,–  
-
-b. voor fondsen met minstens 450 deelnemers: € 3.200,–; en  
-
-c. voor verzekeraars: € 1.000,–    
-
-3°. voor het heffingsjaar 2010: 
-
-a. voor fondsen met minder dan 450 deelnemers: € 1150–-;  
-
-b. voor fondsen met minstens 450 deelnemers: € 6800,–; en  
-
-c. voor verzekeraars: € 1000,–.         
-2.  De maatstaven, bedoeld in [artikel 43, tweede lid, onderdeel b, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](../../../../../../../../AMvB/besluit/uitvoering/pensioenwet/en/wet/verplichte/beroepspensioenregeling/BWBR0020892/README.md), bedragen voor het: 
-
-a. prudentieel en materieel toezicht voor fondsen: 
-
-1°. voor toezichtkosten tot 1 januari 2009: de som van de premies en de directe beleggingsopbrengsten, beide zoals omschreven in staat [3.200, 3.201, 3.210 en 3.211 van bijlage A behorende bij artikel 2, vierde lid](../../../../../../../../AMvB/besluit/staten/pensioenfondsen/BWBR0009874/README.md), dan wel van [bijlage B behorende bij artikel 3, vierde lid, van het Besluit staten pensioenfondsen](../../../../../../../../AMvB/besluit/staten/pensioenfondsen/BWBR0009874/README.md), zoals dit luidde op 31 december 2006, met dien verstande dat de directe beleggingsopbrengsten worden bepaald op het bedrag voor aftrek van de afschrijving van de geactiveerde overrente;  
-
-2°. voor toezichtkosten vanaf 1 januari 2009: de som van de premiebaten en de directe beleggingsopbrengsten, beide als bedoeld in het model van staten J401 en J402, genoemd in [artikel 3:1, eerste lid, onderdeel k, van de Regeling informatieverstrekking pensioenfondsen](../../../../../../../../zbo/regeling/informatieverstrekking/pensioenfondsen/BWBR0021659/README.md) en de toelichting op die staten in de Aanwijzingen rapportagekader pensioenfondsen, met dien verstande dat de directe beleggingsopbrengsten worden bepaald op het bedrag voor aftrek van de afschrijving van de geactiveerde overrente;    
-
-b. materieel toezicht voor verzekeraars: het bruto premie inkomen;  
-
-c. gedragstoezicht voor verzekeraars: het bruto premie inkomen in Nederland.     
-3.  De maximummaatstaven, bedoeld in [artikel 43, tweede lid, onderdeel c, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](../../../../../../../../AMvB/besluit/uitvoering/pensioenwet/en/wet/verplichte/beroepspensioenregeling/BWBR0020892/README.md), bedragen voor het: 
-
-a. prudentieel en materieel toezicht voor fondsen: € 544.535.000;  
-
-b. gedrags- en materieel toezicht voor verzekeraars: geen maximummaatstaf.     
-4.  De tarieven, bedoeld in [artikel 43, tweede lid, onderdeel d, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](../../../../../../../../AMvB/besluit/uitvoering/pensioenwet/en/wet/verplichte/beroepspensioenregeling/BWBR0020892/README.md), bedragen voor het heffingsjaar 2009 voor: 
-
-a. prudentieel en materieel toezicht tezamen voor fondsen: 0,0417%;  
-
-b. materieel toezicht voor verzekeraars: 0,000871%;  
-
-c. gedragstoezicht voor verzekeraars: 
-
-1°. voor het bruto premie inkomen tot en met € 500.000.000,– : € 106,– per € 1.000.000,– of gedeelte daarvan;  
-
-2°. voor het bruto premie inkomen boven € 500.000.000,–: € 15,– per € 1.000.000,– of gedeelte daarvan.       
-5.  De tarieven, bedoeld in [artikel 43, tweede lid, onderdeel d, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](../../../../../../../../AMvB/besluit/uitvoering/pensioenwet/en/wet/verplichte/beroepspensioenregeling/BWBR0020892/README.md), bedragen voor het heffingsjaar 2010 voor: 
-
-a. prudentieel en materieel toezicht tezamen voor fondsen: 0,1257%;  
-
-b. materieel toezicht voor verzekeraars: 0,001125%;  
-
-c. gedragstoezicht voor verzekeraars: 
-
-1°. voor het bruto premie inkomen tot en met € 500.000.000,–: € 113,– per € 1.000.000,– of gedeelte daarvan;  
-
-2°. voor het bruto premie inkomen boven € 500.000.000,–: € 16,– per € 1.000.000,– of gedeelte daarvan.       
 
 ### Hoofdstuk  3  
 
@@ -802,7 +645,7 @@ Matrix verzekerde regelingen ten aanzien van toeslagen over pensioenaanspraken e
 
 #### *Artikel 1* 
 
-1. De gehuwdheidsfrequenties, bedoeld in artikel 18, zesde lid, luiden als volgt:  
+1. De gehuwdheidsfrequenties, bedoeld in artikel 18, zevende lid, luiden als volgt:  
 
 |--- | Mannen  | Vrouwen  |
 |:---|:---|:---|
@@ -811,7 +654,7 @@ Matrix verzekerde regelingen ten aanzien van toeslagen over pensioenaanspraken e
 | 25 ≤ × < 30  | 0,50 + 0,04 (x–25)  | 0,75 + 0,02 (x–25)  |
 | 30 ≤ × < 35  | 0,50 + 0,04 (x–25)  | 0,85  |
 | 35 ≤ × < 50  | 0,90  | 0,85  |
-| 50 ≤ × < 65  | 0,90  | 0,85 – 0,01 (x–50)  |
+| 50 ≤ × < 67  | 0,90  | 0,85 – 0,01 (x–50)  |
 
 2. In het eerste lid betekent de aanduiding ‘x’: de leeftijd van de deelnemer.  
 

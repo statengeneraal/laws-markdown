@@ -17,7 +17,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. Minister: Minister van Economische Zaken, Landbouw en Innovatie;  
+a. Minister: de Minister van Economische Zaken;  
 
 b. visserijzone: in [artikel 1, vierde lid, onder a, van de wet](../../../../wet/visserijwet/1963/BWBR0002416/README.md) (Stb. 312) bedoelde zone;  
 
@@ -81,7 +81,7 @@ a. de [artikelen 1, tweede lid, onderdelen a en b](../../../../wet/visserijwet/1
 
 b. de [artikelen 3](../../../../AMvB/reglement/zee-/en/kustvisserij/1977/BWBR0003144/README.md), [4](../../../../AMvB/reglement/zee-/en/kustvisserij/1977/BWBR0003144/README.md) en [6d van het Reglement zee- en kustvisserij 1977](../../../../AMvB/reglement/zee-/en/kustvisserij/1977/BWBR0003144/README.md), en  
 
-c. de [artikelen 1, eerste lid, onderdeel g, tweede en derde lid](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [6, derde lid](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [8](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [10a](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [10b](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [11](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [12](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) en [13 van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md).    
+c. de [artikelen 1, eerste lid, onderdeel g, tweede en derde lid](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [6, derde lid](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [7a](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [8](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [10a](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [10b](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [11](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [12](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) en [13 van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md).    
 
 ### Hoofdstuk  2  
 
@@ -94,10 +94,6 @@ c. de [artikelen 1, eerste lid, onderdeel g, tweede en derde lid](../../../../AM
 ### Artikel  2  
 
 Als vissen, onderscheidenlijk schaal- en schelpdieren als bedoeld in [artikel 1, tweede lid, onderdeel a, onderscheidenlijk onderdeel b, van de wet](../../../../wet/visserijwet/1963/BWBR0002416/README.md), worden aangewezen de in de bijlage 1 opgenomen soorten.  
-
-### Artikel  3  
-
-Als vissoort als bedoeld in [artikel 17, eerste lid, van de wet](../../../../wet/visserijwet/1963/BWBR0002416/README.md) wordt onder de in de artikelen 28 en 62 bepaalde beperkingen en voorschriften aangewezen: de graskarper.  
 
 ### Artikel  4  
 
@@ -121,13 +117,47 @@ Als water waarvoor de bepalingen van [paragraaf 5 van de wet](../../../../wet/vi
 
 Als vissoort als bedoeld in [artikel 54c, derde lid, onderdeel a, van de wet](../../../../wet/visserijwet/1963/BWBR0002416/README.md), worden aangewezen: de aal en de wolhandkrab.  
 
+### Artikel  5b  
+
+De afmeting, bedoeld in [artikel 2a, eerste lid, van de Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md), bedraagt: 
+
+* 20 centimeter voor bot;  
+
+* 25 centimeter voor beekforel;  
+
+* 22 centimeter voor baars;  
+
+* 30 centimeter voor kopvoorn;  
+
+* 25 centimeter voor zeelt;  
+
+* 28 centimeter voor aal;  
+
+* 30 centimeter voor barbeel;  
+
+* 42 centimeter voor snoekbaars;  
+
+* 45 centimeter voor snoek;  
+
+* 20 centimeter voor rivierprik.    
+
+### Artikel  5c  
+
+Het tijdvak, bedoeld in [artikel 2a, tweede lid, van de Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md), is 
+
+* 1 april tot en met 31 mei: baars, barbeel, kopvoorn, snoekbaars en winde;  
+
+* 1 maart tot en met 31 mei: snoek;  
+
+* 1 oktober tot en met 31 maart: beekforel;  
+
+* 1 maart tot en met 30 april en 1 november tot en met 31 januari: rivierprik;  
+
+* 1 januari tot en met 31 december: zalm, zeeforel, elft, fint, kwabaal, meerval, serpeling, sneep, vlagzalm en zeeprik.    
+
 ### §  2.2  
 
 ####Aanwijzingen op grond van het [Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md)
-
-### Artikel  6  
-
-Als maat voor de middellijn van de ringetjes alsmede de gaten, bedoeld in [artikel 1, eerste lid, onderdeel g, van het Reglement voor de Binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) wordt vastgesteld: 12 mm.  
 
 ### §  2.3  
 
@@ -135,7 +165,7 @@ Als maat voor de middellijn van de ringetjes alsmede de gaten, bedoeld in [artik
 
 ### Artikel  7  
 
-1.  Degene die de vissoorten aal, snoekbaars, baars, snoek, zeelt, brasem, karper, ruisvoorn en blankvoorn aanvoert, degene die in de uitoefening van een beroep of bedrijf deze vissoorten afneemt en degene die bemiddeling verleent bij het veilen van deze vissoorten als bedoeld in [artikel 10a, eerste lid, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), zijn verplicht dagelijks een administratie bij te houden van de overdracht en de opslag van deze vissoorten.   
+1.  Degene die in overeenstemming met [artikel 7a van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) vissen aanvoert, degene die in de uitoefening van een beroep of bedrijf deze vissoorten afneemt en degene die bemiddeling verleent bij het veilen van deze vissoorten als bedoeld in [artikel 10a, eerste lid, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), zijn verplicht dagelijks een administratie bij te houden van de overdracht en de opslag van deze vissoorten.   
 2.  Degene die bemiddeling verleent bij het veilen van de vissoorten, genoemd in het eerste lid, is verplicht er voor zorg te dragen dat op bij de op de veiling aanwezige vissoorten de naam van de aanvoerder is vermeld alsmede de herkomst van de vissoorten.   
 
 ### Artikel  8  
@@ -151,7 +181,7 @@ c. de datum van aanvoer en de datum van verkoop;
 d. de herkomst, en  
 
 e. de naam van de afnemer.     
-2.  In het geval een aanvoerder van de vissoorten snoekbaars, baars, snoek, zeelt, brasem, karper, ruisvoorn en blankvoorn meer dan 5 kilogram vis, behorend tot deze soorten, onder zich houdt, als bedoeld in [artikel 10a, eerste lid, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), moet uit de administratie, bedoeld in artikel 7, eerste lid, blijken: 
+2.  In het geval een aanvoerder van vis meer dan 5 kilogram, die in overeenstemming met [artikel 7 van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) is gevangen, onder zich houdt, als bedoeld in [artikel 10a, eerste lid, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), moet uit de administratie, bedoeld in artikel 7, eerste lid, blijken: 
 
 a. de vissoort;  
 
@@ -232,6 +262,10 @@ Het is verboden te vissen in het gebied, genoemd in bijlage 3.
 
 1.  Het is verboden te vissen in het zeegebied en de kustwateren met een aalfuik, staand want, hoekwant, aalkistje, ankerkuil of enig ander vast vistuig, niet zijnde een vistuig, bestemd voor het vangen van schelpdieren.   
 2.  Het is verboden in de kustwateren te vissen met een zegen.   
+
+### Artikel  12a  
+
+Het recreatief gebruik van vistuig van het type staand want in de visserijzone is verboden.  
 
 ### Artikel  13  
 
@@ -336,10 +370,6 @@ Als water waarin het verboden is te vissen met de hengel in de periode van 1 ap
 
 Als water, waarin het verboden is te vissen met enig vistuig wordt aangewezen: de Geul, bovenstrooms van de grens tussen de gemeenten Valkenburg en Meerssen en haar zijbeken, de Voerenbeek en de Noorbeek met dien verstande, dat het van 1 april tot en met 30 september toegestaan is te vissen met de hengel, voor zover deze niet is geaasd met worm of nabootsing daarvan.  
 
-### Artikel  27  
-
-Als wateren, waarin het is verboden te vissen met de vistuigen, genoemd in [artikel 2, eerste lid, onderdelen c tot en met p, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), worden aangewezen de wateren, bedoeld in [artikel 1, vierde lid, onderdeel d, van de wet](../../../../wet/visserijwet/1963/BWBR0002416/README.md) met uitzondering van het IJsselmeer.  
-
 ### Artikel  28  
 
 Het uitzetten van graskarpers is verboden in: 
@@ -390,9 +420,22 @@ g. electrovisapparaat
 
 h. peur  
 
-i. visfuik     
+i. visfuik  
+
+j. de kreeftenkorf     
 2.  Het verbod, bedoeld in het eerste lid, geldt voor het gehele gebied binnen de winterdijken van de wateren, genoemd in bijlage 16, en voor alle havens, plassen, killen, gaten, putten, strangen, kreken, kanalen, beken en rivierarmen die in directe open verbinding staan met de wateren, genoemd in bijlage 16, tot aan de eerste waterkering gerekend vanaf die wateren.   
 3.  Het is verboden aal en wolhandkrab voorhanden of in voorraad te hebben op of in de onmiddellijke nabijheid van de wateren, genoemd in bijlage 16.   
+
+### Artikel  28c  
+
+1.  Het is verboden met enig vistuig te vissen in de rivieren de Neder-Rijn, de Maas, de Lek en de Overijsselsche Vecht: 
+
+a. binnen een afstand van 75 m stroomafwaarts van een stuw;  
+
+b. in een bij een stuw aangebrachte vispassage;  
+
+c. binnen een straal van 25 m voor de bovenmond van een bij een stuw aangebrachte vispassage.     
+2.  Het verbod geldt niet gedurende de tijden dat de stuw buiten werking is gesteld.   
 
 ### §  3.3  
 
@@ -583,7 +626,7 @@ c. bij aanlanding in een Nederlandse haven is de ondernemer verplicht onverwijld
 
 1.  Van het verbod in artikel 13, onderdeel a, is degene die op 15 april 2007 in het bezit was van een vergunning als bedoeld in artikel 36, vrijgesteld onder de voorwaarden dat: 
 
-a. eidragende en pas verschaalde kreeften, als kreeften gevangen in de periode vanaf 1 april tot en met 15 juli, onmiddellijk worden teruggezet, en  
+a. eidragende en pas verschaalde kreeften, als kreeften gevangen in de periode vanaf de laatste donderdag van maart tot en met 15 juli, onmiddellijk worden teruggezet, en  
 
 b. bijgevangen ondermaatse vis dan wel garnalen met behulp van water automatisch naar buitenboord worden afgevoerd via een uit glad materiaal bestaande glijgoot of afvoerpijp;     
 2.  Indien degene als bedoeld in het eerste lid, met een ander vissersvaartuig vist dan met het vaartuig waarvoor de in het eerste lid bedoelde vergunning is verleend, maakt hij hiervan twee weken van tevoren schriftelijk melding bij de Minister.   
@@ -666,7 +709,7 @@ b. een fuik is voorzien van een deugdelijke keerwant met een maaswijdte van 14 c
 
 c. elke maas van iedere rand van het keerwant is dusdanig aan het basisnet van de fuik bevestigd, dat alle organismen in de fuik door de mazen van het keerwant heen moeten kunnen komen;  
 
-d. eidragende kreeften die zijn gevangen in de Oosterschelde, pas verschaalde kreeften die zijn gevangen in de Oosterschelde en kreeften die zijn gevangen in de Oosterschelde tussen 15 juli en 1 april, worden onmiddellijk na de vangst teruggezet;  
+d. eidragende zeekreeften die zijn gevangen in de Oosterschelde, pas verschaalde zeekreeften die zijn gevangen in de Oosterschelde en zeekreeften die zijn gevangen in de Oosterschelde tussen 15 juli en de laatste donderdag van maart, worden onmiddellijk na de vangst teruggezet;  
 
 e. de vistuigen worden in spuikommen en havens minimaal 10 meter en in de overige visvakken minimaal 25 meter vanaf de scheidingslijn van 2 visvakken geplaatst, en  
 
@@ -688,6 +731,30 @@ c. degene die van de vrijstelling gebruik maakt heeft zijn voornemen hiertoe gem
 d. het vistuig is boven elk heersend waterpeil voorzien van een markering waarop duidelijk leesbaar het nummer, bedoeld in vijfde lid, is vermeld.     
 4.  De melding, bedoeld in het derde lid, onderdeel c, geschiedt per kalenderjaar en omvat de naam, het adres, de woonplaats en de geboortedatum van degene die voornemens is van de vrijstelling gebruik te maken.   
 5.  De gemeente verstrekt een uniek nummer aan degene die een melding als bedoeld in het derde lid, onderdeel c, doet.   
+
+### Artikel  52b  
+
+1.  Van het verbod, bedoeld in artikel 12a wordt, voor het grondgebied van de gemeenten, genoemd in bijlage 19, vrijstelling verleend voor het gebruik voor de recreatieve visserij van een vistuig per persoon van het type staand want, mits: 
+
+a. het een vistuig betreft 
+
+1°. met een maaswijdte van ten minste 105 millimeter, gestrekt gemeten;  
+
+2°. dat niet uit meerdere lagen netten bestaat;  
+
+3°. dat bestaat uit enkeldradig of tot één draad gewonden garen;  
+
+4°. met een lengte van ten hoogste 50 meter, gemeten langs de bovenpees van het net, en  
+
+5°. met een hoogte van ten hoogste 110 centimeter, gestrekt gemeten.    
+
+b. het net wordt verankerd aan de bodem, waarbij de bovenpees ten hoogste 65 centimeter boven de bodem aan de verankering wordt bevestigd;  
+
+c. het net wordt geplaatst tussen de hoog- en de laagwaterlijn;  
+
+d. het vistuig ten minste eenmaal per etmaal wordt geïnspecteerd en degene die vist bij de gemeente waar de visserij plaatsvindt in voorkomend geval opgave doet van de aantallen gevangen bruinvis en de plaats waar deze zijn gevangen.     
+2.  Op de vrijstelling, bedoeld in het eerste lid, zijn de voorwaarden bedoeld in artikel 52a, onderdelen c en d, van overeenkomstige toepassing.   
+3.  Artikel 52a, vierde en vijfde lid, zijn van overeenkomstige toepassing.   
 
 ### §  4.7  
 
@@ -711,7 +778,7 @@ Van het bepaalde in [artikel 6, eerste lid, onderdeel a, van het Reglement voor 
 
 ### Artikel  55  
 
-1.  Het verbod, bedoeld in artikel 27, is niet van toepassing op de visrechthebbende en de houder van een schriftelijke toestemming die: 
+1.  Het verbod, bedoeld in [artikel 7a, eerste lid, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), is niet van toepassing op de visrechthebbende en de houder van een schriftelijk toestemming, die: 
 
 a. beschikt over minimaal 250 hectare viswater en daarmee inkomsten uit de visserij genereert van minimaal € 8.500,– bruto per jaar;  
 
@@ -720,12 +787,12 @@ b. zich daartoe heeft gemeld bij de Minister;
 c. de melding, bedoeld in onderdeel b, vergezeld heeft doen gaan van een assurance-rapport van een register-accountant of een accountant-administratieconsulent waaruit blijkt dat in het kalenderjaar voorafgaande aan de melding is voldaan aan het criterium, bedoeld in onderdeel a, en  
 
 d. voorts telkens éénmaal in de vier jaar, te rekenen vanaf de melding, bedoeld in onderdeel b, de Minister een rapport heeft doen toekomen als bedoeld in onderdeel c, waaruit blijkt dat in het kalenderjaar voorafgaande aan de toezending van het assurance-rapport nog steeds is voldaan aan het criterium, bedoeld in onderdeel a.     
-2.  Het verbod, bedoeld in artikel 27, is niet van toepassing op het vissen in een binnen een afgesloten erf gelegen viswater, dat geen voor het doorlaten van vis geschikte verbinding met andere wateren bezit, alsmede op het vissen in een viskwekerij.   
+2.  Het verbod, bedoeld in [artikel 7a, eerste lid, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), is niet van toepassing op het vissen in een binnen een afgesloten erf gelegen viswater, dat geen voor het doorlaten van vis geschikte verbinding met andere wateren bezit, alsmede op het vissen in een viskwekerij.   
 3.  Bij de bepaling van het areaal, bedoeld in het eerste lid, onderdeel a, wordt mede begrepen het oppervlak aan viswater waarvoor vergunning is verleend ingevolge de artikelen 12 en 36, met uitzondering van het viswater waarvoor vergunning is verleend voor recreatief vissen voor uitsluitend eigen gebruik met maximaal twee fuiken of met beperkte lengte hoekwant tot maximaal 200 meter, of met beperkte lengte staand want tot maximaal 150 meter.   
 
 ### Artikel  56  
 
-1.  Van het verbod, bedoeld in artikel 27, is vrijgesteld de visrechthebbende en de houder van een schriftelijke toestemming die: 
+1.  Het verbod, bedoeld in [artikel 7a, eerste lid, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), is niet van toepassing op de visrechthebbende en de houder van een schriftelijk toestemming, die: 
 
 a. beschikt over minimaal 250 hectare viswater;  
 
@@ -738,11 +805,15 @@ c. de melding, bedoeld in onderdeel b, vergezeld heeft doen gaan van:
 2°. een assurance-rapport als bedoeld in artikel 55, eerste lid, onderdeel c, waaruit blijkt dat op het tijdstip van de melding is voldaan aan het areaalcriterium, bedoeld in artikel 55, eerste lid, onderdeel a, en    
 
 d. gedurende een periode van twee jaren voorafgaande aan de melding, bedoeld in onderdeel b, niet heeft gevist op basis van de in het eerste lid bedoelde vrijstelling.     
-2.  De in het eerste lid bedoelde vrijstelling van het in artikel 27 neergelegde verbod, geldt gedurende een periode van twee jaren, te rekenen vanaf de melding, bedoeld in onderdeel b.   
+2.  De in het eerste lid bedoelde vrijstelling van het in [artikel 7a, eerste lid, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) bedoelde verbod, geldt gedurende een periode van twee jaren, te rekenen vanaf de melding, bedoeld in onderdeel b.   
 
 ### Artikel  57  
 
-Van het verbod, bedoeld in artikel 27, is vrijgesteld degene die de visrechthebbende of de houder van de schriftelijke toestemming, bedoeld in de artikelen 55, eerste lid, en 56, eerste lid, behulpzaam is bij het vissen met een vistuig, dat niet door één persoon kan worden bediend.  
+Van het verbod, bedoeld in [artikel 7a, eerste lid, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), is vrijgesteld degene die de visrechthebbende of de houder van de schriftelijke toestemming, bedoeld in de artikelen 55, eerste lid, en 56, eerste lid, behulpzaam is bij het vissen met een vistuig, dat niet door één persoon kan worden bediend.  
+
+### Artikel  57a  
+
+Artikel 55, eerste lid, en de vrijstellingen, bedoeld in de artikelen 56, eerste en tweede lid, en 57 gelden onder de voorwaarde dat eidragende zeekreeften, pas verschaalde zeekreeften en zeekreeften die zijn gevangen tussen 15 juli en de laatste donderdag van maart, onmiddellijk na de vangst worden teruggezet.  
 
 ### Artikel  58  
 
@@ -757,13 +828,17 @@ De Minister bevestigt binnen drie weken de ontvangst van de melding, bedoeld in 
 1.  Indien degene die zich heeft gemeld op grond van artikel 55 , eerste lid, onderdeel b, niet meer voldoet aan het criterium, bedoeld in artikel 55, eerste lid, onderdeel a, doet hij hiervan zo spoedig mogelijk mededeling aan de Minister.   
 2.  Indien niet wordt voldaan aan het bepaalde in het eerste lid, kan de Minister besluiten dat de vrijstelling, bedoeld in artikel 55, eerste lid, niet geldt gedurende een periode van maximaal 2 jaar, te rekenen vanaf de datum van dit besluit.   
 
+### Artikel  60a  
+
+Van [artikel 1](../../../../AMvB/reglement/minimummaten/en/gesloten/tijden/1985/BWBR0003805/README.md) en [2 van het Reglement minimummaten en gesloten tijd 1985](../../../../AMvB/reglement/minimummaten/en/gesloten/tijden/1985/BWBR0003805/README.md) en [artikel 7a van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) is vrijgesteld, degene die ten gevolge van plotselinge vissterfte, of van de dreiging daarvan, gebruik maakt van de vistuigen, bedoeld in artikel 7a van het Reglement voor de binnenvisserij 1985, mits de vis, die met dat gebruik wordt verkregen, onverwijld wordt uitgezet in een nabij gelegen water waar een dergelijke dreiging zich niet voordoet.  
+
 ### §  4.10  
 
 ####Vrijstelling visserij op baars en snoekbaars
 
 ### Artikel  61  
 
-1.  Van het bepaalde in [artikel 6, eerste lid, aanhef en onderdeel a, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) en van het bepaalde in [artikel 2, aanhef en onderdeel a, van het Reglement minimummaten en gesloten tijden 1985](../../../../AMvB/reglement/minimummaten/en/gesloten/tijden/1985/BWBR0003805/README.md), voor zover het betreft de vissoorten baars en snoekbaars wordt jaarlijks vrijstelling verleend vanaf de laatste zaterdag in mei tot en met 31 mei.   
+1.  Van het bepaalde in [artikel 6, eerste lid, aanhef en onderdeel a, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) en van het bepaalde in [artikel 2, aanhef en onderdeel a, van het Reglement minimummaten en gesloten tijden 1985](../../../../AMvB/reglement/minimummaten/en/gesloten/tijden/1985/BWBR0003805/README.md), voor zover het betreft de vissoorten baars, snoek, en snoekbaars wordt jaarlijks vrijstelling verleend vanaf de laatste zaterdag in mei tot en met 31 mei.   
 2.  De vrijstelling, bedoeld in het eerste lid, is niet van toepassing op het vissen in het IJsselmeer.   
 
 ### §  4.11  
@@ -794,10 +869,6 @@ d. aanwezig blijven en in deugdelijke staat te worden gehouden zolang de graskar
 ### §  4.12  
 
 ####Vrijstelling nachtvisserij
-
-### Artikel  63  
-
-Van het verbod in [artikel 7, eerste lid, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) wordt vrijstelling verleend voor het vissen met de hengel tussen twee uur na zonsondergang en één uur vóór zonsopgang in de periode van 1 september tot en met 31 mei van elk kalenderjaar, in de wateren die zijn vermeld in bijlage 11.  
 
 ### §  4.13  
 
@@ -1105,6 +1176,7 @@ Vissen, schaal- en schelpdieren, bedoeld in [artikel 1, tweede lid, letter a, on
 | 23.  | Gewone rog, Raja clavata, Linnaeus, 1758  |
 | 23a.  | Giebel, Carassius gibelio (Bloch, 1782)  |
 | 24.  | Gladde rog, Raja Montagui, Fowler, 1910  |
+| 24a.  | Graskarper, Ctenopharyngodon idella (Valenciennes, 1844)  |
 | 25.  | Grauwe poon, Eutrigia gurnardus (Linnaeus, 1758)  |
 | 26.  | Griet, Scophthalmus rhombus (Linnaeus, 1758)  |
 | 27.  | Groenlandse heilbot/Zwarte heilbot, Reinhardtius hippoglossoides (Walbaum, 1792)  |
@@ -1129,6 +1201,7 @@ Vissen, schaal- en schelpdieren, bedoeld in [artikel 1, tweede lid, letter a, on
 | 46.  | Lodde, Mallotus villosus (Müller, 1777)  |
 | 47.  | Lom, Brosme brosme (Ascanius, 1772)  |
 | 48.  | Makreel, Scomber scombrus, Linnaeus, 1758  |
+| 48a.  | Meerval, Silurus glanis (Linnaeus, 1758)  |
 | 49.  | Meun, Ciliata mustela (Linnaeus, 1758)  |
 | 50.  | Mul, Mullus surmuletus, Linnaeus, 1758  |
 | 51.  | Neushaai, Lamna nasus (Bonnaterre, 1788)  |
@@ -1141,6 +1214,7 @@ Vissen, schaal- en schelpdieren, bedoeld in [artikel 1, tweede lid, letter a, on
 | 58.  | Regenboogforel, Salmo gairdneri, Richardson, 1836  |
 | 59.  | Rietvoorn, Scardinius erythrophthalmus (Linnaeus, 1758)  |
 | 60.  | Riviergrondel, Gobio gobio (Linnaeus, 1758)  |
+| 60a.  | Rivierprik, Lampetra fluviatilis (Linnaeus, 1758)  |
 | 61.  | Rode poon, Trigla lucerna, Linnaeus, 1758  |
 | 62.  | Roodbaars, Sebastes marinus (Linnaeus, 1758)  |
 | 62a.  | Roofblei, Aspius aspius (Linnaeus, 1758)  |
@@ -1171,6 +1245,7 @@ Vissen, schaal- en schelpdieren, bedoeld in [artikel 1, tweede lid, letter a, on
 | 87.  | Wijting, Merlangius merlangus (Linnaeus, 1758)  |
 | 88.  | Winde, Leuciscus idus (Linnaeus, 1758)  |
 | 89.  | Witje/Hondstond, Glyptocephalus cynoglossus (Linnaeus, 1758)  |
+| 89a.  | Witvingrondel, Romanogobio albipinnatus (Lukasch, 1933)  |
 | 90.  | Zalm, Salmo salar, Linnaeus, 1758  |
 | 91.  | Zandspiering, Ammodytidae  |
 | 92.  | Zeebaars, Morone labrax (Linnaeus, 1758)  |
@@ -1258,7 +1333,7 @@ Schelpdieren
 
 ### Bijlage  3  
 
-####Aanduiding van het referentiegebied in de Waddenzee, behorend bij de artikelen 11 , 18, tweede lid , 34  en 35, eerste lid, onderdeel a en b .
+####Aanduiding van het referentiegebied in de Waddenzee, behorend bij de artikelen 11 , 18, tweede lid , 34  en 35, eerste lid, onderdeel a en b 
 
 Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten: 53°29.7110' NB en 06°36.8450' OL 53°31.9450' NB en 06°37.2260' OL 53°32.4210' NB en 06°37.0408' OL 53°32.5704' NB en 06°36.9446' OL 53°32.9445' NB en 06°36.5232' OL 53°32.5774' NB en 06°31.1897' OL 53°33.2763' NB en 06°28.9006' OL 53°33.4951' NB en 06°27.3228' OL 53°32.9249' NB en 06°26.3971' OL 53°32.2225' NB en 06°27.2745' OL 53°31.8188' NB en 06°27.5629' OL 53°31.1084' NB en 06°27.7142' OL 53°30.8232' NB en 06°27.8172' OL 53°30.5652' NB en 06°27.8245' OL 53°30.2091' NB en 06°27.8895' OL 53°29.9693' NB en 06°27.9813' OL 53°29.4464' NB en 06°28.0920' OL 53°28.5000' NB en 06°29.1850' OL 
 
@@ -1320,7 +1395,7 @@ Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:
 
 ### Bijlage  4  
 
-####Gebieden in de visserijzone, buiten de 12-mijlszone, behorend bij artikel 17, sub a .
+####Gebieden in de visserijzone, buiten de 12-mijlszone, behorend bij artikel 17, sub a 
 
 #### *Gebied 1 (het Friese Front)* 
 
@@ -1359,7 +1434,7 @@ Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:
 
 ### Bijlage  5  
 
-####Aanduidingen van gebieden in de Waddenzee en de Oosterschelde, behorend bij de artikelen 13 , 18, derde lid , 35, eerste lid, onderdeel b  en 48 .
+####Aanduidingen van gebieden in de Waddenzee en de Oosterschelde, behorend bij de artikelen 13 , 18, derde lid , 35, eerste lid, onderdeel b  en 48 
 
 #### *Gebied 1 Balgzand en Breehorn* 
 
@@ -1562,7 +1637,7 @@ Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:
 
 ### Bijlage  6  
 
-####Gebiedsaanduiding (Dollard-Zuid) behorend bij de artikelen 20  en 35, onderdeel c .
+####Gebiedsaanduiding (Dollard-Zuid) behorend bij de artikelen 20  en 35, onderdeel c 
 
 Het gebied, begrensd door de lijn lopend over de punten met de coördinaten:  
 
@@ -1762,7 +1837,7 @@ b. Het gebied begrensd door:
 
 ### Bijlage  10  
 
-####Behorend bij artikel 38, vijfde lid .
+####Behorend bij artikel 38, vijfde lid 
 
 | Inschrijvingsletter en nummer vaartuig  | Roepnaam vaartuig  |
 |:---|:---|
@@ -1777,320 +1852,6 @@ b. Het gebied begrensd door:
 | Bou 26  | Sabrina  |
 | Bou 136  | Hurricane  |
 | R 21  | Twee Gebroeders  |
-
-### Bijlage  11  
-
-####Behorend bij artikel 63 , vrijstelling nachtvisserij
-
-1. In de regio Amsterdam: de wateren, vermeld in het vergunningboekje van de Hengelsportvereniging ‘Amsterdam’ onder de nrs. 1 t/m 8, 10, 16 t/m 33, 35, 37 t/m 39, 41 t/m 65, 68, 71 t/m 77, 79a, 81 t/m 93, 97 t/m 99, 101 en 102.  
-
-2. In de provincie Groningen: de wateren in de provincie Groningen met uitzondering van het Zuidlaardermeer, het Drentse Diep, het Lauwersmeer en het Paterswoldermeer.  
-
-3. In Haarlem: de Leidsevaart, de Brouwersvaart, het Spaarne, de Mooie Nel, de Zomervaart, de Houtvaart, de vijver aan de Springerlaan (de Fuikvaart), de Molenplas, de stadssingels en grachten alsmede de Binnen en Buiten Liede.  
-
-4. In Haren: de plassen Sassenheim Noord en Sassenheim Zuid.  
-
-5. In Heemstede: de Zandvaart, de Wippervaart, de Van Merlenvaart, de Glippervaart, de Crayenestersingel, het Heemsteedse kanaal, de Bronsteevaart en -vijver, de Wagnerkade en de Kees van Lentsingel.  
-
-6. In Hellevoetsluis: de Hoofdgracht van Hellevoetsluis met inbegrip van Oost en Westkom, kadastraal bekend gemeente Hellevoetsluis, sectie A, Nrs. 1275, 1276, 1956 (ged.), 1757 (ged.) en 1655.  
-
-7. In de regio Reimerswaal: het nabij de kreekraksluizen gelegen waterbekken ten Westen van het Schelde-Rijnkanaal (putje van Withagen), het nabij voornoemde sluizen gelegen bufferbekken ten Oosten van het Schelde-Rijnkanaal, de spuiboezem en toevoerleiding gelegen tussen het Schelde-Rijnkanaal en de Kern Bath alsmede de watergang gelegen ten Noorden van Bath, de verbinding vormend tussen de Bathse Kreek en de spuiboezem.  
-
-8. In de regio Rosmalen: de Stenenkamerplas.  
-
-9. In de regio Rijsoord: de Waal lopende van Hendrik Ido Ambacht naar Heerjansdam.  
-
-10. In de regio Schagen: alle gemeentelijke vijvers van de gemeente Schagen, Schagen Wiel, alle verbindingssloten behorende tot de wateren van de voormalige Banne en polder Schagen in het waterschap Groot Geestmerambacht met uitzondering van de verbindingssloten in het gebied tussen de West-Friese dijk, de provinciale weg Stolpen-Kolhorn en de Waalweg.  
-
-11. Amstelveen: de Ringvaart Middelpolder onder Amstelveen, de siervijvers in de gemeente Amstelveen, de Weespertrekvaart van de Hulksbrug tot de driesprong bij Diemen, de Purmerlanderpolder, de Grote en Kleine Die, de Meersloot, de Buitenringsloot, de Buikslotermeerpolder en het Zwet, het Buikslotermeer, de Schellingwouderbeek en aangesloten wateren, de Venserpolder, de sierwateren in de Bijlmermeer, de Bijlmerringvaart en de Nieuwe Bullenwijkerpolder.  
-
-12. in Brielle: de Langevest, de Kaaivest, de Molenvest, de Tramvest, het Spui tot aan het gemaal De Klomp en de havens in de gemeente Brielle.  
-
-13. In de regio Eindhoven: het Eindhovens Kanaal vanaf km.paal 76 tot aan de aansluiting van de Zuid-Willemsvaart, het Wilhelminakanaal vanaf de grens tussen de gemeente Son en Breugel en de gemeente Nuenen tot de sluis in de gemeente Lieshout, het Wilhelminakanaal vanaf de voormalige brug onder de gemeente Best tot de grens tussen de gemeente Son en Breugel en de gemeente Nuenen, het Wilhelminakanaal vanaf sluis 4 onder de gemeente Oost-West en Middelbeers tot de Aerlese brug onder Best, het ten zuiden van het Wilhelminakanaal bij sluis 4 te Diessen gelegen zijkanaal vanaf de stuw bij de Emmerscheweg oostwaarts tot aan de uitmonding in het Wilhelminakanaal uitmakende een gedeelte van het perceel, kadastraal bekend gemeente Diessen, sectie B, nr. 1768.  
-
-14. In de regio Enschede: de Enschedese stadsvijvers, de vijvers Smulders en de Enschedese haventak en haven.  
-
-15. In de provincie Friesland: het Koningsdiep tussen Molenlaan en Heidehuizen, het Verbindingskanaal tot de uitstroming in de Drait, de Drait vanaf het Verbindingskanaal tot de Postbrug bij de Wilgen, de Mandewijk vanaf de grens tussen de gemeenten Ooststellingwerf en Opsterland tot de weg Waskermeer-Bakkeveen, de Bakkeveensevaart vanaf de Mandewijk tot de Voorwerkersbrug bij Siegerswoude, de Frieschepalenvaart vanaf de Voorwerkersbrug tot de weg Frieschepalen-Marum, de Nieuwe Ureterpervaart vanaf de Frieschepalenvaart tot de weg Drachten-Oosterwolde, de Vaart langs rijksweg 43 m vanaf de weg Drachten-Oosterwolde tot de uitstroming in de Drait.  
-
-16. In Harderwijk: de Lorentzhaven.  
-
-17. In ’s-Hertogenbosch: de Drainagevijver gelegen tussen rijksweg 265 en de spoorwegdam te Orthen, de Franse Wiel, de Grote Kerkwiel en de Wiel grenzend aan het Fort te Orthen; De Zuiderplas (sectie S, nr. 145), met uitzondering van het gedeelte vanaf de Strandbadweg tot en met de Heemtuin, de Pettelaarse Vaartgraaf (sectie N, nr. 1180), met uitzondering van het gedeelte aan de bewoonde kant vanaf het benzinestation tot en met de Grote Hekel en de IJzeren Vrouw (sectie M, nr. 999).  
-
-18. In de regio Leeuwarden: de Grote- en Kleine Wielen, de Merrie Dobbe, de parkvijvers en openbare boezemwateren van de gemeente Leeuwarden en de wateren in het parkplan Zuid te Dokkum.  
-
-19. In de regio Leiden: de Zijl tussen de Spanjaardsbrug en Huize de Eenzaamheid bij de Kagerplassen alsmede het Nieuwe Rijn- en Schiekanaal vanaf de Rijn bij de Spanjaardsbrug tot de uitmonding in de Vliet bij Cronesteyn (Lammerbrug).  
-
-20. In Neede: de Ballastput.  
-
-21. In Veenendaal: de vijvers gelegen in de wijken De Engelenburg, de Groene Velden en Dragonder Noord en Zuid.  
-
-22. In Zwolle: de Stadskolk, de Riezenboschkolk, de kolk Ruimzicht en de Wijde Aa.  
-
-23. In Maastricht: de Geusseltvijvers  
-
-24. In de regio Doesburg: de Oude IJssel vanaf de sluis te Doesburg tot de Rijksgrens bij grenspaal 723 te Gendringen (instroming Kleefse Graaf), de oude loop van de Oude IJssel te Doesburg vanaf de duikerinlaat bij de Koppelweg tot aan de afdamming bij de huidige loop van de Oude IJssel, de oude loop van de Oude IJssel te Laag-Keppel vanaf de uitmonding in de Oude IJssel tot aan de duikerbrug in de Dorpstraat te Laag Keppel, de Aastrang vanaf de uitmonding in de Oude IJssel tot grenspaal 731a de Dinxperlo (in het grensgedeelte de halve rivierbreedte), de Bielheimerbeek-Boven Slinge vanaf de uitmonding in de Oude IJssel te Gaanderen tot de brug circa 1080 meter stroomafwaarts van de Rijksgrens te Kotten in de gemeente Winterswijk, de Kleefse Graaf vanaf de uitmonding in de Oude IJssel tot aan de Anholtseweg te Gendringen (halve beekbreedte), de Keizersbeek vanaf de uitmonding in de Aastrang tot aan de Hamelandroute te Aalten en vanaf de brug in de Haartseweg te Aalten tot aan het verdeelwerk te Bredevoort, de Schaarsbeek vanaf de uitmonding in de Boven Slinge bij het verdeelwerk te Bredevoort tot aan de Corleseweg, de Zwanenbroeksgraven vanaf de uitmonding in de Keizersbeek benedenstrooms van het verdeelwerk te Bredevoort tot aan de instroming van de Wanders Waterleiding, de Pieriksbeek vanaf de uitmonding in de Schaarsbeek tot aan de brug in de Bessink Goorweg, de Lange Sloot vanaf de uitmonding in de Bielheimerbeek tot de kruising met de Boven Slinge te Varsseveld, de Bergerslagbeek vanaf de uitmonding in de Oude IJssel tot aan de Vaste overlaat nabij de Rijksweg te Silvolde, de Akkermansbeek van de uitmonding in de Beilheimerbeek tot aan de overlaat/brug in de Slakweg/IJsselweg te Gaanderen, vijver Huize Spits, vijver Molengaarde, vijver Hermaat/Zanderskamp, vijver Leigraafseweg, vijver Potsmaat en vijver Ooi.  
-
-25. In de regio Landsmeer: de wateren gelegen binnen de bebouwde kom van de gemeente Landsmeer voor zover eigendom van de gemeente.  
-
-26. In de regio Zierikzee: de Zoute Gracht, de Verse Gracht, de Brakke Gracht, de Zoete Gracht en het Kaaskenswater.  
-
-27. In Voorschoten: de vijver in het Burgemeester van der Hoevenpark en de singels rond de algemene begraafplaats Rosenburgh.  
-
-28. In de regio Axel: de Grote Kreek gelegen in de polder Beoosten en Bewesten Blij, kadastraal bekend gemeente Axel, sectie F, nummers 2209, 474, 1831, 1884, 48 en 34, de Moerspuise Watergang sectie M, nummers 261, 274, 330 en 372, sectie O, nummers 22 en 211, de hoofdwaterloop in de Varempepolder, sectie M, nummer 351, de Kleine Kreek, sectie F, nummer 1595, het Kleine Putje, sectie N, nummers 56 en 57, de IJsbaanvijver, sectie N, nummer 5, de omgelegde Rijkswaterleiding, zijnde het zijkanaal naar Hulst van piketpaal O nabij de platte brug te Hulst tot de brug in de Kinderdijk te Axel.  
-
-29. In IJsselmuiden: de Koerskolk en de Dompekolk.  
-
-30. In de regio Maastricht: de visvijvers ‘Via Regia’ en ‘Vijfkoppen’ gelegen in de gemeente Maastricht, de Maas van kmr. 11.400 ter hoogte van de brug over de sluis te St.-Pieter tot kmr. 15.200 boven de Stuw te Borgharen, met inbegrip van het bovenstroomse toeleidingskanaal tot de sluis in St. Pieter, de Maas van kmr. 15.500 beneden de stuw te Borgharen tot kmr. 17.300 bij de Belgische grens te Smeermaes, het Afleidingskanaal in het Bosscherveld te Maastricht, van het Verbindingskanaal tot aan de uitmonding in de rivier de Maas nabij kmr. 16.600 het Verbindingskanaal in het Bosscherveld te Maastricht vanaf de Maas tot de sluis in dat kanaal, de Maas van grenspaal 49 te Lanaye tot de lijnbrug ter hoogte van de Bergweg te St. Pieter, de Zuid-Willemsvaart van de hoofdsluis binnen Maastricht tot de Belgische grens te Smeermaes, met inbegrip van de nieuwe havenkom ten westen van het kanaal buiten de voormalige Bospoort en het toegangskanaal naar genoemde havenkom.  
-
-31. In de regio Helmond: de Zuid-Willemsvaart vanaf sluis 10 tot aan sluis 6 onder de gemeenten Asten, Lierop, Helmond, Aarle-Rixtel en Beek en Donk, het Wilhelminakanaal vanaf sluis 5 tot aan de uitmonding in de Zuid-Willemsvaart.  
-
-32. In de regio Veghel: de Zuid-Willemsvaart vanaf sluis 5 nabij kmr. 98.300 te Erp tot aan de instroming in de rivier de Dieze onder de gemeente ’s-Hertogenbosch.  
-
-33. In Roosendaal: de Stok, de IJsbaan, de Engebeek en het Bakkersbergkanaal.  
-
-34. In de regio Steenbergen: de Bergse Wateren, de Roosendaalse en Steenbergse Vliet en de Mark en Dintel.  
-
-35. In Almelo: de visvijver ‘Dollegoor’.  
-
-36. In Uden: de visplas ‘De Kleuter’.  
-
-37. In Haarlem: de Delft en de Jan Gijzenvaart.  
-
-38. In de regio Leiden: de Does vanaf de Oude Rijn tot de brug te Hoogmade en de Dwarswetering vanaf de Zijl tot aan de Does te Leiderdorp.  
-
-39. In de regio Doesburg: de IJssel vanaf de Zalm even beneden kmr. 897 tot aan de brug voor Doesburg, met dien verstande dat in de periode van 1 november tot 1 maart de nachtvisserij vanaf de linkeroever van de IJssel tussen kmr. 899 en kmr. 902.550 niet is toegestaan, de afgedamde IJssel nabij de Bingerdenseweg ten zuiden van Doesburg, het gedeelte van de IJssel vanaf de brug voor de stad Doesburg tot de lijn dwars over de rivier getrokken, circa 150 m beneden de boerderij ‘het Zwarte Schaar’, circa 290 m beneden kmr. 906, de rechterhelft van de gekanaliseerde IJssel van kmr. 903.200 N tot kmr. 904.700 N, de Kempermansgracht, de Molenkolk, de Looiersgracht, de Bleekersgracht, de Hessengracht, het water langs de Rijksweg (Flessen), de Koppenbergh en het Hoornwerk.  
-
-40. In Hoogeveen: alle plaatselijke vijvers, met uitzondering van de vijvers in het Burg. Tjalmapark, het park Dwingeland, bij de Westerkom en in het hertenkamp;  
-
-41. In Susteren: visvijver ‘de Bossen’;  
-
-42. In de regio Eindhoven: het Eindhovens kanaal vanaf kmr. 76 tot aan de Zuid-Willemsvaart, het Wilhelminakanaal vanaf sluis 4 (kmr. 37.200) onder de gemeente Oost West Middelbeers tot aan de grens tussen de gemeenten Son en Breugel en de gemeente Nuenen (kmr. 62.200) en het ten zuiden van het Wilhelminakanaal bij sluis 4 te Diessen gelegen zijkanaal vanaf de stuw bij de Emmerscheweg oostwaarts tot aan de uitmonding in het Wilhelminakanaal;  
-
-43. In de regio Goes: het Schelde/Rijnkanaal nabij Bath, vanaf 100 m ten noorden van de verkeersbruggen in de Kreekrakpolder in zuidwaartse richting tot de grens Nederland-België.  
-
-44. In Benschop: de vijver in het park Bosplan.  
-
-45. In de regio Culemborg: de waterput ‘de Lokkershoek’, gelegen nabij de Rietveldseweg te Culemborg, kadastraal bekend gemeente Culemborg, Sektie N nr. 141, het Indundatiekanaal, gelegen tussen de Prijssenweg en de Rietveldseweg, de watergangen van de voormalige polder Culemborg met inbegrip van de nieuwe zuidelijke hoofdleiding vanaf de Paai tot aan de Beedseweg te Culemborg en vanaf de zijleiding naar het gemaal ‘de Horn’ te Leerdam tot aan de Paai, de binnen de bebouwde kom van Culemborg gelegen wateren: de Westergracht, de Oostergracht, de Binnengracht, de Coentjesgracht, de vijvers langs de Parklaan, het water langs de Weidsteeg, de waterpartij gelegen ten westen van de Parallelweg-Oost, de Ronde haven nabij de Kleine Buitenom, de Kleine Lek nabij het voormalige steenoventerrein.  
-
-46. In de regio Nederweert: de Zuid-Willemsvaart met daarbij behorende bermsloten vanaf sluis 15 te Nederweert tot de grensscheiding tussen de provincies Limburg en Noord-Brabant met inbegrip van het beneden toeleidingskanaal, de Zuid-Willemsvaart vanaf de Belgische grens tot aan sluis 15 te Nederweert, de Noordervaart vanaf 30 meter ten noorden van de sluis te Nederweert tot aan de brug in de weg van Meyel naar Roggel, alsmede het toeleidingskanaal vanaf de duiker onder het kanaal Wessem-Nederweert, het voedingskanaal van de Noordervaart, het kanaal Wessem-Nederweert van het bovenhoofd van de sluis te Panheel tot de uitmonding in de Zuid-Willemsvaart.  
-
-47. In Veldhoven: het Philips visvijvercomplex, Dommelstraat zuid, kadaster gemeente Veldhoven sectie B nr. 02810.  
-
-48. In de regio Spijkenisse, Hellevoetsluis, Brielle: de wateren, vermeld in het vergunningenboekje van de Hengelsportvereniging ‘Ons Genoegen’ te Spijkenisse, behoudens de wateren die in dit boekje vermeld zijn onder ‘...met uitzondering van:’.  
-
-49. In de regio Maasbracht: het Julianakanaal tussen Borgharen en Maasbracht en de visvijver Maaren te Stevensweert.  
-
-50. In Hilvarenbeek: het meer Beekse Bergen.  
-
-51. In de regio Leiden: de Oude Rijn vanaf de Haagsche Schouwburg tot de Rijksweg A44 over de gehele breedte, vanaf de brug van de Rijksweg A44 tot aan het voetgangerspontje te Valkenburg voor zover het betreft de linkerhelft, vanaf het punt ter hoogte van garage Jongeneel tot de splitsing Additionele kanaal te Katwijk voorzover het betreft de rechterhelft, vanaf de splitsing Additionele kanaal tot de splitsing ter hoogte van Schutterswei.  
-
-52. In de gemeente Maassluis: de plassen gelegen binnen de Oranjepolder, met dien verstande dat de vrijstelling slechts geldt voor de periode vanaf 1 september tot en met 31 oktober en voor de periode vanaf 1 maart tot en met 31 mei.  
-
-53. In de gemeente Zutphen: de Vispoortgracht, de Slingerbosgracht, de Grote Gracht, de Hoofdgracht, de Kerkhofgracht, de Industriehaven tot aan de uitmonding in de IJssel, de vijver in het Staatsliedenkwartier, de afvoerbeek van de vijver in het Staatsliedenkwartier tot aan de Vierakkerlaak en de Hank in de Hoven, voor zover eigendom van de gemeente Zutphen.  
-
-54. In de gemeente Hattem: het water ‘De Waa’.  
-
-55. In Beilen: de Brunsteringerplas.  
-
-56. In Zuidwolde: de Veeningerplas.  
-
-57. In Emmer-Compascuum: de vis- en recreatievijver.  
-
-58. In de gemeente Velp: de Overhagense vijver, kadestraal bekend gemeente Velp, sectie B, nr. 60 en de oostelijke en westelijke circuitvijver gelegen nabij de President Kennedylaan.  
-
-59. In de gemeente Hengelo: de Markeplas, groot ca. 6.5 ha, gelegen in de driehoek Hengelo, Zelhem, Ruurlo.  
-
-60. In de gemeente Oldenzaal: de visvijver gelegen in het recreatiepark Het Hulsbeek, groot ca. 5 ha.  
-
-61. In de gemeente Oostrum-Venraij: visvijver het Wanssums Ven.  
-
-62. In de gemeente Delft: de wateren gelegen binnen het gemeentelijk recreatiegebied ‘de Delftse Hout’.  
-
-63. In de gemeente Westerhoven: de hengelvijver, gelegen nabij de Eeuwselsedijk-Ganzenbroek en de Wetering, kadastraal bekend nr. D2 317 gedeeltelijk.  
-
-64. In Huissen: de kolk Grote Bloem.  
-
-65. In de gemeente Ridderkerk: de wateren gelegen binnen het gemeentelijk recreatiegebied ‘Oosterpark’.  
-
-66. In de regio Asperen: 
-
-– de Linge onder de gemeente Beesd en Gellicum, vanaf de Rumptse Korenmolen tot aan het gemaal ‘De Laar’, Asperens en Leerdams water: de Linge vanaf het gemaal ‘De Laar’ tot aan Berendrecht. Tevens hierbij de Veerwiel, Munnikenwiel en de Kolk bij het fort Asperen.  
-
-– de Linge vanaf de Berendrecht tot aan de Kedichemse kerk en vandaar Lingebreedte, zuidelijk gedeelte, tot aan de ‘Broekse Uitlaat’.    
-
-67. In de gemeente Coevorden: de grachten gelegen in het Van Heutszpark, alsmede de U van Kilse.  
-
-68. In de gemeente Rheden: de vijver achter het zwembad en de voetbalvelden, alsmede de Laak en de sloot tussen de A48 en de Laakweg.  
-
-69. In de gemeente Almelo: het Overijssels Kanaal, vanaf de haven in de binnenstad tot aan de sluis te Aadorp, en de insteekhavens op het industrieterrein ‘Dollegoor’.  
-
-70. In de gemeente Horssen: de kolk gelegen aan de Goorstraat, kadastraal bekend sectie E, nrs. 191, 192, 193, 538, 539 en 807.  
-
-71. In de gemeente Meppel: het gat ‘De Bloemen’, kadastraal bekend sectie B, nummer 2065.  
-
-72. In de regio Drenthe: de door de Drentse Federatie van Hengelsportverenigingen gehuurde wateren, zoals deze staan vermeld in het boekje ‘Lijst van viswateren’ van de Nederlandse Vereniging van Sportvissersfederaties, met uitzondering van de visplas ‘Exloërkijl’.  
-
-73. In de regio Lingenwaal: de grote vijver in het recreatiegebied ‘Het Lingebos’ te Vuren, gemeente Lingenwaal.  
-
-74. In de regio Epen: 
-
-– het gedeelte van de wateren de Geul, de Terzieterbeek en de Mässel, kadastraal bekend gemeente Wittem, sectie D, nummers 3815 tot en met 3819, en sectie C, nummer 8476;  
-
-– het gedeelte van de wateren de Geul, de Cottesserbeek en de Bervesbergbeek, kadastraal bekend gemeente Vaals, sectie D, nummers 1045 tot en met 1047 en 1239 tot en met 1241 en  
-
-– het gedeelte van het water de Geul, kadastraal bekend gemeente Wittem, sectie D, nummers 3596, 3597 en 3814 en gemeente Vaals, sectie D, nummers 1043 en 1044, met dien verstande dat de vrijstelling slechts geldt voor de maanden april, mei en september.    
-
-75. In de regio Stellendam: de Zuiderdiepboezem, vanaf de uitmonding van de haven van Dirksland tot, en met inbegrip van, de haven van Goedereede.  
-
-76. In de gemeente Voerendaal: de vijver ‘’t Broek’, kadastraal bekend gemeente Voerendaal, sectie F, nr. 1622.  
-
-77. In de gemeente Venray: de visvijver ‘de Ballonzuil’, kadastraal bekend gemeente Venray, sectie H.  
-
-78. In de regio Middelburg: het kanaal door Walcheren vanaf de schutsluis van Vlissingen tot de schutsluis van Veere.  
-
-79. In de gemeente Schiedam: de singels en vijvers binnen de bebouwing van de stadswijken, de havens binnen de gemeente Schiedam, inclusief de Wilhelminahaven, de Spuihaven, de Voorhaven en de Vijfsluizerhaven, de Poldervaart met aansluitende waterpercelen, voor zover die met de Poldervaart in open verbinding staan, de vijvers en singels in het Beatrixpark, inclusief de sloten in het volkstuinencomplex ‘Thurlede’, de vijvers en sloten in het Hargapark en de Polderwatering tussen de Poldervaart en de Schiedamse Schie, met dien verstande dat de vrijstelling geldt voor de periode vanaf 1 september tot en met 31 oktober.  
-
-80. In de regio Liesveld: de Zuidoostgracht van Nieuwpoort, kadastraal bekend gemeente Nieuwpoort, sectie B, nr. 1259.  
-
-81. In de regio Druten: de putten, gelegen tussen de Van Heemstraweg, de Heersweg en de Kerkstraat te Druten, kadastraal bekend sectie C, nrs. 50, 53, 494 en 1136.  
-
-82. In de gemeente Haalderen: 
-
-– de Grote Kolk, kadastraal bekend sectie C, nummer 765;  
-
-– de Kolk aan de Groenestraat, kadastraal bekend sectie C, nummer 765, en  
-
-– de Kleine Kolk, kadastraal bekend sectie G, nummer 87, en sectie C, nummers 111 en 112.    
-
-83. In de gemeente Oldebroek: de vier kolken gelegen langs de rijksweg A28 ter hoogte van Wezep.  
-
-84. In de regio Balkbrug: de zandwinningsplas ‘De Belten’, kadastraal bekend gemeente Avereest, sectie I, nummer 2870.  
-
-85. In de regio Utrecht: 
-
-– het Amsterdam-Rijnkanaal tussen kilometerpalen 29,95 en 58,8;  
-
-– het Lekkanaal;  
-
-– het kanaal langs het tweede veld tussen de Ravense Wetering en het Amsterdam-Rijnkanaal in Nieuwegein.    
-
-86. In de regio Alblasserdam: 
-
-– de Oude Wetering, peilgebied Nieuw-Lekkerland, vanaf de Middelweg tot de Streefkerkse Zijdeweg;  
-
-– het Nieuwe Waterschap van de Nederwaard, vanaf 3 meter uit de brug nabij de Blokweerse molen tot 25 meter voor het boezemgemaal te Kinderdijk;  
-
-– de Alblas/Graafstroom, vanaf de uitmonding in de Noord te Alblasserdam tot aan de Nieuwe Zijdebrug te Oud-Alblas, met inbegrip van de ‘groep’, en  
-
-– de Lage Boezem van de Nederwaard vanaf 3 meter uit de Kortlandse brug (gemeente Alblasserdam) tot 3 meter ten oosten van de eerste voet- en fietsbrug voorbij de Blokweerse molen, met dien verstande dat voor Lage Boezem van de Nederwaard tot aan het meest zuidoostelijk gelegen deel van de kade van de Hoge Boezem van de Overwaard, de vrijstelling slechts geldt voor de periode vanaf 1 september tot en met 14 april.    
-
-87. In de gemeente Nuenen: de visvijver Enode, gelegen aan de Helmondse Dijk, kadastraal bekend sectie C, nr. 2624.  
-
-88. In de gemeente Kersteren: de visvijver De Hel, gelegen aan de Tolsestraat, kadastraal bekend sectie G-89 tot en met G-112.  
-
-89. In de gemeente Gulpen-Wittem: de visvijver te Wijlre, kadastraal bekend sectie E nr. 2503, met dien verstande dat de vrijstelling slechts geldt voor de periode van 1 mei tot en met 31 mei en van 1 september tot en met 30 september.  
-
-90. In de gemeente Blokzijl: 
-
-– de Haven, kadastraal bekend sectie F nrs. 335 en 336 en sectie H nr. 176,  
-
-– de stadsgrachten, kadastraal bekend sectie F nrs. 61 en 356, sectie H nrs. 406, 469, 547, 251, 546, 288, 291 en 340 en sectie G nrs. 544 en 103,  
-
-– de havenkolk, kadastraal bekend sectie H nrs. 175, 514, 500 en 502.    
-
-91. De volgende delen van het Twentekanaal: 
-
-– het hoofdkanaal van de sluis te Eefde (kmr. 3.600) tot nabij de Lonnekerbrug bij Enschede (kmr. 48.290),  
-
-– de zijtak van het hoofdkanaal tot kmr. 15.500.    
-
-92. In de gemeente Ubbergen: 
-
-– viswater in ‘de Kasteelsehof’ te Ooij, kadastraal bekend gemeente Ooij, sectie C nr.1082;  
-
-– viswater ‘de Koekoekskolk’, gelegen aan de Hezelstraat en Spruitenkamp, kadastraal bekend gemeente Ooij, sectie D, nr. 818.    
-
-93. De wateren waarvan de Hengelsport Federatie ‘Oost-Nederland’ visrechthebbende is zoals vermeld in de ‘lijst van Viswateren’ van de Nederlandse Vereniging van Sportvissersfederaties, met uitzondering van: 
-
-– Rayon 1: Het recreatiepark Het Rutbeek te Usselo;  
-
-– Rayon 2: De oostelijke plas in het recreatiegebied Kievietsveld in Emst, gemeente Epe;  
-
-– Rayon 3: De wateren in de Noordoostpolder, zijnde de Lemstervaart, Urkervaart, Zwolsevaart, Creilervaart, Espelervaart, Nagelervaart, Enservaart, Marknesservaart, Luttelgeestervaart. Het Vollenhoverkanaal, het Vollenhovermeer, het Kadoelermeer, de voormalige buitenhaven van Blokzijl, het gedeelte van Blokzijl-Kadoelen van de keersluis van de haven (sas) tot de grens van de Noordoostpolder, het Kanaal Beukerschutsluis tot Blauw Hand, het Kanaal Blauwe Hand – Giethoorn – Steenwijk, het Kanaal Steenwijk – Ossenzijl, het Steenwijkerdiep, de Wetering, de Heuvengracht, de Arembergergracht, de Linde, de Kalembergergracht, de Ossenzijlersloot en het Nieuwe Kanaal;  
-
-– Rayon 4: de Wythemenerplas te Zwolle.    
-
-94. In de gemeente Zaamslag: viswater ‘de Boschkreek’, gelegen in de Beoosten Blijbenoorden polder tot aan de grens met het waterschap De drie Ambachten, kadastraal bekend sectie U, nr. 264, en sectie T, nrs. 105, 153, 312 en 345.  
-
-95. In de regio Gorinchem: 
-
-– het Merwedekanaal vanaf de Bazelbrug, gemeente Hoogblokland, tot de grote Merwedesluis te Gorinchem;  
-
-– het Kanaal van Steenenhoek, vanaf de noordpunt van de landtong van het Merwedekanaal te Gorinchem tot aan de Bullekeslaan in die gemeente;  
-
-– De Linge, de rechterhelft met inbegrip van de Kedichemse wiel, vanaf de Kerkstraat in Kedichem tot plm. 700 meter benedenstrooms van het poldergemaal ‘De Broekse Sluis’ te Heukelum en vanaf dit punt de gehele Linge tot de Oude Merwede schutsluis nabij de tweede Voorhaven te Gorinchem, voorzover het gedeelten van dit water betreft die niet op grond van de Natuurbeschermingswet zijn aangewezen als natuurmonument.    
-
-96. In de gemeente Buren: viswater ‘Put op het Eiland van Maurik’, gelegen aan de noordoostelijke zijde van Maurik, kadastraal bekend sectie A, nr. 777.  
-
-97. In de Gemeente Wijchen: viswater ‘de Vormerse Plas’, gelegen aan de Ravensteinseweg, kadastraal bekend sectie L nr. 2625.  
-
-98. In de gemeente Hilversum: het Hilversumskanaal tussen de brug te ’s-Graveland en de sluis Het Hemeltje.  
-
-99. In de gemeente Heerhugowaard: de wateren gelegen binnen de bebouwde kom en in de parken van de gemeente Heerhugowaard, voorzover eigendom van de gemeente.  
-
-100. In de Gemeente Loosdrecht: de plassen 3, 4 en 5 van de Loosdrechtse Plassen.  
-
-101. In de regio Vianen: 
-
-– De Lek, de linkerhelft na de nieuwe Lekbrug te Vianen vanaf km 948.250 tot km 958.100 te Lexmond tegenover de Kiezersoever;  
-
-– het Merwedekanaal, vanaf de Bullekeslaan te Gorinchem tot en met de Buitenhave te Vianen tot aan het buitensluishoofd van de Grote Sluis;  
-
-– de waterplas, gelegen aan de noordzijde van de Helsdinkse Achterweg, kadastraal bekend gemeente Vianen (sectie d, nr. 484).    
-
-102. In Montfoort: de Grote- en Kleine Gracht te Montfoort.  
-
-103. In Lunteren: de Lunterse waterplas, kadastraal bekend gemeente Lunteren (sectie F, nr. 2712, 2714 en 2826), voor zover het visrecht hierop is verhuurd aan Hengelsportvereniging Barneveld.  
-
-104. In de gemeente Geldermalsen: de Linge, vanaf het gemaal De Neust te Tricht tot stroomafwaarts het zogenoemde Afgebrande Huis te Rumpt, ter hoogte van Kleine Steeg (kadastraal bekend voormalige gemeente Beesd, sectie C8, nr. 405 en sectie L6, nr. 569).  
-
-105. In de gemeente Heerlen: het Sigranomeer (kadastraal bekend gemeente Heerlen, nrs. 6631 en 6641).  
-
-106. In de gemeente Staphorst: de wateren van het Waterschap Groot Salland die gelegen zijn binnen de door de gemalen Kloosterzijl en Kostverlorenzijl bemalen gebieden, het water langs beide zijden van de spoorlijn tussen de Klaas Kloosterweg en de A28, het Kerkenbos en De Spoortippe.  
-
-107. In de gemeente Nijkerk: de plas ‘Watergoor’, gelegen aan de Watergoorweg.  
-
-108. In de gemeente Stevensbeek: de Radioplassen, gelegen aan de Ceresstraat.  
-
-109. In de gemeente Vught: 
-
-– de vijvers in Park Reeburg;  
-
-– de vijvers en singels in de gemeente Vught, voor zover het visrecht hierop verhuurd is aan Hengelsportvereniging Altijd Beet.    
-
-110. In de Gemeente Nieuwegein: 
-
-– de gracht rond Fort Jutphaas gelegen aan Rond het Fort;  
-
-– de gracht rond Fort Vreeswijk gelegen aan de Fortweg;  
-
-– alle singels gelegen op industrieterrein Plettenburg-De Wiers.    
-
-111. In Heerenveen: het Heidemeer en de wateren gelegen op recreatiegebied De Heide, gelegen ten zuidwesten van Heerenveen tussen de Van Engelenvaart/Rotummerweg en Rotstergaasterweg.  
-
-112. in de gemeente De Bilt: de Hooge Kampse plas, kadastraal bekend MTD02 C 2983 ged., 3092 ged. en 3585 ged.  
-
-113. In het buitengebied van Someren en Asten: de Zuidwillemsvaart, vanaf de grensscheiding tussen de provincie Noord-Brabant en Limburg tot aan de sluis 10.  
-
-114. In Dedemsvaart: de zandwinput ten noorden van het viaduct.  
-
-115. In ’s-Hertogenbosch: de Noorderplas.  
-
-116. In de regio Tilburg: het gedeelte van het Wilhelminakanaal vanaf de gemeentegrens Tilburg-Dongen (kmr 13.000) tot aan de sluis IV te Haghorts (kmr 36.860), inclusief de afwateringskanalen nabij sluis II en sluis III, alsmede het benedenstrooms de stuw, nabij sluis IV, gelegen afwateringskanaal.  
-
-117. In Maarssen: Kleine Plas, gelegen aan de Tuinbouwweg.  
-
-118. In de regio Weesp: Amsterdam-Rijnkanaal tussen spoorbrug Weesp (kmr 7.5) en Loenen (kmr 18.85).   
 
 ### Bijlage  12  
 
@@ -2409,3 +2170,8 @@ Voordelta Coördinaten in NB en OL, nummering vanaf linksboven kloksgewijs
 
 5.  *Ten zuiden van Schiermonnikoog:*  De droogvallende aan Schiermonnikoog grenzende wadplaten, gelegen tussen de veersteiger van Schiermonnikoog tot de meest westelijke punt van Schiermonnikoog.    
 
+### Bijlage  19  
+
+####, behorend bij artikel 52b, eerste lid 
+
+Gemeenten waarvoor de vrijstelling, bedoeld in artikel 52b, eerste lid, geldt Schiermonnikoog Ameland Terschelling Vlieland Texel Zijpe Katwijk Westland Zandvoort 

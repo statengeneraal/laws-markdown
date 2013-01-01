@@ -93,7 +93,7 @@ b. deze ambtshalve aanmerken als degene die het motorrijtuig houdt.
 
 ### Artikel  8  
 
-Als degene die het motorrijtuig feitelijk ter beschikking heeft, wordt beschouwd degene ten aanzien van wie het gebruik van de weg is geconstateerd.  
+Als degene die het motorrijtuig feitelijk ter beschikking heeft, wordt beschouwd degene ten aanzien van wie het gebruik van de autosnelweg is geconstateerd, met dien verstande dat ingeval het gebruik van de autosnelweg met een in het buitenland geregistreerd motorrijtuig wordt geconstateerd zonder dat gevorderd wordt het motorrijtuig te doen stilstaan, degene op wiens naam het buitenlandse kenteken is gesteld wordt beschouwd als degene ten aanzien van wie het gebruik van de autosnelweg is geconstateerd.  
 
 ### Hoofdstuk  IV  
 

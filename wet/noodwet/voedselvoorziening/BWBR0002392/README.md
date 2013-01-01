@@ -50,22 +50,26 @@ Onze Minister kan in door hem te bepalen gebieden voedselcommissarissen aanwijze
 
 ### Artikel  6  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Onze Minister kan regelen vaststellen betreffende een of meer der in het tweede lid van dit artikel genoemde gedragingen.   
 2.  De in het eerste lid bedoelde gedragingen zijn: het telen, kweken, fokken, vangen, broeden, bereiden, vervaardigen, oogsten, voorhanden hebben, in voorraad hebben, bewaren, opslaan, inzamelen, bewerken, verwerken, gebruiken, verbruiken, vervoederen, verpakken, slachten, vervoeren, aanvoeren, veilen, ontvangen, afleveren, te koop aanbieden, kopen en vervreemden van produkten.   
 3.  Bij algemene maatregel van bestuur wordt bepaald, in welke gevallen Onze Minister regelen, bedoeld in het eerste lid, ten aanzien van ondernemingen, waarin daarbij aan te wijzen bedrijven op het gebied van industrie, handel en ambacht worden uitgeoefend, niet vaststelt dan in overeenstemming met Onze Minister van Economische Zaken.   
 
 ### Artikel  7  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Onze Minister kan regelen vaststellen betreffende de prijzen voor produkten.   
-2.  Artikel 6, derde en vierde lid, vinden overeenkomstige toepassing.   
+2.  Artikel 6, derde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  8  
 
-1.  Onze Minister kan regelen vaststellen betreffende het betalen van een geldsom ter zake van een of meer der in artikel 6, tweede lid, genoemde gedragingen; het derde lid van dat artikel vindt overeenkomstige toepassing.   
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
+1.  Onze Minister kan regelen vaststellen betreffende het betalen van een geldsom ter zake van een of meer der in artikel 6, tweede lid, genoemde gedragingen.   
 2.  Onze Minister kan in door hem te bepalen gevallen of groepen van gevallen tot gehele of gedeeltelijke restitutie overgaan van hetgeen ingevolge het bepaalde krachtens het eerste lid is betaald.   
 
 ### Artikel  9  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Onze Minister kan regelen vaststellen, betreffende het bereiden, vervaardigen, voorhanden hebben, in voorraad hebben, bewaren, opslaan, bewerken, verwerken, gebruiken, verbruiken, vervoeren, ontvangen, afleveren, te koop aanbieden, kopen, huren, verhuren en vervreemden van: 
 
 a. grondstoffen, hulpstoffen en verpakkingsmateriaal voor produkten;  
@@ -73,39 +77,43 @@ a. grondstoffen, hulpstoffen en verpakkingsmateriaal voor produkten;
 b. fust, machines, werktuigen en gereedschappen - alsmede onderdelen daarvan -, welke worden gebezigd bij het telen, kweken, fokken, vangen, winnen, broeden, bereiden, vervaardigen, oogsten, bewaren, opslaan, bewerken, verwerken, verpakken of slachten van produkten;  
 
 c. merken, kentekenen, alsmede stempels en andere werktuigen, waarmede merken en kentekenen kunnen worden vervaardigd of aangebracht, een en ander voorzover krachtens enige bepaling van deze wet regelen zijn vastgesteld betreffende het voorzien zijn van produkten, verpakkingsmateriaal en fust van zodanige merken of kentekenen, dan wel het voorzien zijn van produkten, verpakkingsmateriaal en fust van zodanige merken of kentekenen als vereiste wordt gesteld voor de bevoegdheid tot enige gedraging met betrekking tot die produkten, dat verpakkingsmateriaal en dat fust.     
-2.  Artikel 6, derde en vierde lid, vinden overeenkomstige toepassing.   
+2.  Artikel 6, derde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  10  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Onze Minister kan regelen vaststellen betreffende het ter beschikking houden van produkten en van goederen, bedoeld in artikel 9, voor of het inleveren daarvan bij een door hem aan te wijzen lichaam, orgaan of persoon.   
-2.  Artikel 6, derde en vierde lid, vinden overeenkomstige toepassing.   
+2.  Artikel 6, derde lid, is van overeenkomstige toepassing.   
 3.  Voor de ingeleverde produkten en goederen wordt door Onze Minister de op het tijdstip van het opleggen van de verplichting tot inlevering voor die produkten en goederen krachtens artikel 7 of enig ander wettelijk voorschrift vastgestelde prijs uitbetaald of, bij het ontbreken daarvan, de dan in de betrokken bedrijfstak voor die produkten en goederen gebruikelijke prijs.   
-4.  Onze Minister kent aan degene, die ingevolge dit artikel produkten of goederen ter beschikking houdt en ten gevolge daarvan schade lijdt, welke redelijkerwijze niet of niet geheel te zijnen laste behoort te blijven, op zijn verzoek een naar billijkheid te bepalen schadevergoeding uit 's Lands kas toe.   
+4.  Onze Minister kent aan degene, die ingevolge dit artikel produkten of goederen ter beschikking houdt en ten gevolge daarvan schade lijdt, welke redelijkerwijze niet of niet geheel te zijnen laste behoort te blijven, op zijn verzoek een naar billijkheid te bepalen schadevergoeding uit ’s Lands kas toe.   
 
 ### Artikel  11  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Krachtens de artikelen 6-10 vastgestelde regelen kunnen onder meer de bepaling inhouden, dat bij of krachtens die regelen gegeven voorschriften niet gelden, indien en voorzover vrijstelling of op aanvraag ontheffing of vergunning is verleend.   
 2.  Aan de vrijstellingen, ontheffingen en vergunningen kunnen voorschriften worden verbonden. Zij kunnen onder beperkingen worden verleend.   
 3.  De ontheffingen en vergunningen, zomede de restituties, bedoeld in artikel 8, tweede lid, kunnen worden ingetrokken, indien de te harer verkrijging verstrekte gegevens zodanig onjuist of onvolledig blijken, dat op de aanvraag een andere beslissing zou zijn genomen, als bij de beoordeling de juiste omstandigheden volledig bekend waren geweest.   
 
 ### Artikel  12  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Onze Minister kan bepalen, dat degenen, die een of meer der in artikel 6, tweede lid, en artikel 9, eerste lid, genoemde gedragingen verrichten of plegen te verrichten, verplicht zijn: 
 
 a. nauwgezet, volledig en naar waarheid aantekening te houden betreffende die gedragingen en daarbij de door Onze Minister of de door hem aangewezen lichamen, organen of personen gegeven voorschriften na te leven;  
 
 b. boeken en bescheiden betreffende die gedragingen aan de lichamen, organen of personen, die Onze Minister daartoe heeft aangewezen, op eerste vordering te tonen of tegen bewijs van ontvangst af te geven of te zenden.     
-2.  Artikel 6, derde en vierde lid, vinden overeenkomstige toepassing.   
+2.  Artikel 6, derde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  13  
 
-1.  Onze Minister kan bepalen, dat verordeningen of andere besluiten, door een orgaan van een produktschap of bedrijfschap krachtens deze wet, de [Landbouwwet](../../../../wet/landbouwwet/BWBR0002252/README.md), de [Wet op de Bedrijfsorganisatie](../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de instellingswet of het instellingsbesluit van het betrokken lichaam vastgesteld, geheel of gedeeltelijk worden geschorst. Hij kan in verband daarmede nadere regelen vaststellen.   
-2.  Artikel 6, derde lid, vindt overeenkomstige toepassing.   
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
+1.  Onze Minister kan bepalen, dat verordeningen of andere besluiten, door een orgaan van een bedrijfslichaam krachtens deze wet, de [Landbouwwet](../../../../wet/landbouwwet/BWBR0002252/README.md) of de [Wet op de bedrijfsorganisatie](../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) vastgesteld, geheel of gedeeltelijk worden geschorst. Hij kan in verband daarmee nadere regels vaststellen.   
 
 ### Artikel  14  
 
-1.  Indien het naar het oordeel van het dagelijks bestuur van een produktschap of bedrijfschap in een der gevallen, genoemd in het tweede lid van artikel 4, niet mogelijk is, dat het bestuur, een commissie uit het midden van het bestuur of een orgaan, bedoeld in [artikel 88 *a* van de Wet op de Bedrijfsorganisatie](../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), bijeenkomt, oefent het dagelijks bestuur de aan het bestuur, die commissie of dat orgaan toekomende bevoegdheden uit.   
-2.  Indien het naar het oordeel van de voorzitter van een produktschap of bedrijfschap in zodanig geval niet mogelijk is, dat het dagelijks bestuur bijeenkomt, oefent hij de aan het dagelijks bestuur toekomende bevoegdheden uit. Indien hij in zodanig geval tevens van oordeel is, dat tengevolge van bedoelde omstandigheden het bestuur, een commissie uit het bestuur of een orgaan, bedoeld in [artikel 88 *a* van de Wet op de Bedrijfsorganisatie](../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), niet kan bijeenkomen, oefent hij ook de aan het bestuur, die commissie of dat orgaan toekomende bevoegdheden uit.   
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
+1.  Indien het naar het oordeel van het dagelijks bestuur van een bedrijfslichaam in een der gevallen, genoemd in het tweede lid van artikel 4, niet mogelijk is, dat het bestuur, een commissie uit het midden van het bestuur of een orgaan, bedoeld in [artikel 88a van de Wet op de Bedrijfsorganisatie](../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), bijeenkomt, oefent het dagelijks bestuur de aan het bestuur, die commissie of dat orgaan toekomende bevoegdheden uit.   
+2.  Indien het naar het oordeel van de voorzitter van een bedrijfslichaam in zodanig geval niet mogelijk is, dat het dagelijks bestuur bijeenkomt, oefent hij de aan het dagelijks bestuur toekomende bevoegdheden uit. Indien hij in zodanig geval tevens van oordeel is, dat tengevolge van bedoelde omstandigheden het bestuur, een commissie uit het bestuur of een orgaan, bedoeld in [artikel 88a van de Wet op de Bedrijfsorganisatie](../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), niet kan bijeenkomen, oefent hij ook de aan het bestuur, die commissie of dat orgaan toekomende bevoegdheden uit.   
 3.  Zo spoedig mogelijk legt het dagelijks bestuur, onderscheidenlijk de voorzitter aan het bestuur verantwoording af van hetgeen krachtens de vorige leden is verricht.   
 
 ### Hoofdstuk  IV  
@@ -120,10 +128,6 @@ b. boeken en bescheiden betreffende die gedragingen aan de lichamen, organen of 
 4.  Regelen, bedoeld in het tweede lid, en nadere regelen, bedoeld in het derde lid, zijn verbindend voor een ieder, voorzover daarbij niet anders is bepaald.   
 5.  Besluiten zonder algemene gelding, tot het nemen waarvan medewerking is gevorderd, kunnen worden genomen ten aanzien van een ieder, voorzover bij die vordering niet anders is bepaald.   
 
-### Artikel  16  
-
-Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.  
-
 ### Artikel  17  
 
 Bij algemene maatregel van bestuur worden regelen gesteld betreffende tegemoetkoming in de kosten van de krachtens dit hoofdstuk verleende medewerking.  
@@ -135,10 +139,6 @@ Bij algemene maatregel van bestuur wijzen Wij de autoriteiten aan, die onder daa
 ### Hoofdstuk  V  
 
 ####Beroep
-
-### Artikel  19  
-
-Tegen een op grond van de artikelen 6, 7, 8, 9, 10 of 29 genomen besluit, kan, behoudens in geval van toepassing van artikel 18, een belanghebbende beroep instellen bij het College.  
 
 ### Artikel  21  
 

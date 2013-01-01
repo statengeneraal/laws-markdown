@@ -345,13 +345,7 @@ a. kan Onze Minister in afwijking van [artikel 2, vierde lid, van de Belemmering
 2e. bepalen dat de zitting wordt geleid door een door Onze Minister van Verkeer en Waterstaat aan te wijzen persoon;    
 
 b. worden in afwijking van de [artikelen 2, vijfde lid](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), en [3, tweede lid, van de Belemmeringenwet Privaatrecht](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) gedeputeerde staten niet gehoord.     
-3.  Indien voor de uitvoering van een of meer besluiten als bedoeld in artikel 3.30, eerste lid, onder a, 3.33, eerste lid, onder a, of  artikel 3.35, eerste lid, onder b, toepassing van de [Belemmeringenwet Privaatrecht](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) noodzakelijk is, geldt in plaats van [artikel 4 van de Belemmeringenwet Privaatrecht](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) dat: 
-
-1e. tegen een besluit als bedoeld in [artikel 2, vijfde lid](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), of [artikel 3, tweede lid, van die wet](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) een belanghebbende beroep kan instellen bij de Afdeling bestuursrechtspraak van de Raad van State;  
-
-2e. [artikel 7:1 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing is;  
-
-3e. de werking van een besluit als bedoeld in [artikel 2, vijfde lid](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), of [artikel 3, tweede lid, van de Belemmeringenwet Privaatrecht](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) opgeschort wordt totdat de termijn voor het indienen van een beroepschrift is verstreken.     
+3.  Indien voor de uitvoering van een of meer besluiten als bedoeld in artikel 3.30, eerste lid, onder a, 3.33, eerste lid, onder a, of 3.35, eerste lid, onder b, toepassing van de [Belemmeringenwet Privaatrecht](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) noodzakelijk is, wordt, in afwijking van [artikel 4 van die wet](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), de werking van een besluit als bedoeld in [artikel 2, vijfde lid](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), of [artikel 3, tweede lid, van die wet](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) opgeschort totdat de termijn voor het indienen van een beroepschrift is verstreken.   
 
 ### Artikel  3.36b  
 
@@ -776,45 +770,24 @@ b. regels die zijn gesteld krachtens deze wet voor zover de overtreding daarvan 
 
 ####Bezwaar en beroep
 
-### Artikel  8.1  
-
-[Artikel 7:1 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op: 
-
-a. een besluit op een verzoek om een kostenvergoeding als bedoeld in artikel 6.8 of 6.9;  
-
-b. een besluit omtrent herziening van een exploitatieplan, dat niet is voorbereid met toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), een besluit omtrent de afrekening en herberekende exploitatiebijdragen van een exploitatieplan alsmede een besluit om geen exploitatieplan vast te stellen als bedoeld in artikel 6.12, tweede lid;  
-
-c. een aanwijzingsbesluit als bedoeld in artikel 3.8, zesde lid, of artikel 3.26, tweede lid, in samenhang met artikel 3.8, zesde lid;  
-
-d. een ontheffing als bedoeld in artikel 4.1a of 4.3a, of een weigering om die ontheffing te verlenen.    
-
 ### Artikel  8.2  
 
-1.  Een belanghebbende kan bij de Afdeling bestuursrechtspraak van de Raad van State beroep instellen tegen: 
+1.  Bij een beroep tegen een besluit omtrent vaststelling van een bestemmingsplan, een inpassingsplan of een rijksbestemmingsplan als bedoeld in artikel 10.3, eerste lid, kunnen geen gronden worden aangevoerd die betrekking hebben op een aanwijzing als bedoeld in artikel 4.2, eerste lid, of artikel 4.4, eerste lid, waarop dat besluit berust, voor zover deze aanwijzing betrekking heeft op een daarbij concreet aangegeven locatie waarvan geen afwijking mogelijk is.   
+2.  De Afdeling bestuursrechtspraak van de Raad van State beslist binnen twaalf maanden na afloop van de beroepstermijn op een beroep tegen: 
 
-a. een besluit omtrent vaststelling van een bestemmingsplan, inpassingsplan of een rijksbestemmingsplan als bedoeld in artikel 10.3, eerste lid;  
+a. een besluit omtrent vaststelling van een bestemmingsplan, een inpassingsplan of een rijksbestemmingsplan als bedoeld in artikel 10.3, eerste lid,  
 
-b. een besluit als bedoeld in artikel 3.1, derde lid;  
+b. een besluit als bedoeld in artikel 3.1, derde lid,  
 
-c. een besluit omtrent wijziging of uitwerking van een bestemmingsplan overeenkomstig artikel 3.6, eerste lid;  
+c. een besluit omtrent wijziging of uitwerking van een bestemmingsplan overeenkomstig artikel 3.6, eerste lid,  
 
-d. een aanwijzingsbesluit als bedoeld in artikel 3.8, zesde lid, of artikel 3.26, tweede lid, in samenhang met artikel 3.8, zesde lid;  
+d. een aanwijzingsbesluit als bedoeld in artikel 3.8, zesde lid, of artikel 3.26, tweede lid, in samenhang met artikel 3.8, zesde lid,  
 
-e. besluiten als bedoeld in artikel 3.30, eerste lid, onder a of b, 3.33, eerste lid, onder a of b, of  3.35, eerste lid;  
+e. een besluit op een verzoek om een kostenvergoeding als bedoeld in artikel 6.8 of 6.9, en  
 
-f. een aanwijzing als bedoeld in artikel 4.2, eerste lid, of artikel 4.4, eerste lid, voor zover deze betrekking heeft op een daarbij concreet aangegeven locatie, waarvan geen afwijking mogelijk is;  
-
-g. een besluit op een verzoek om een kostenvergoeding als bedoeld in artikel 6.8 of 6.9;  
-
-h. een besluit omtrent vaststelling van een exploitatieplan voor gronden, begrepen in een gelijktijdig vastgesteld bestemmingsplan, inpassingsplan of wijzigingsplan als bedoeld in artikel 3.6, eerste lid, alsmede herzieningen van het desbetreffende exploitatieplan en besluiten omtrent de afrekening en herberekende exploitatiebijdragen van het desbetreffende exploitatieplan;  
-
-i. een ontheffing als bedoeld in artikel 4.1a of 4.3a, voor zover die ontheffing betrekking heeft op een bestemmingsplan of een provinciaal inpassingsplan;  
-
-j. een weigering om een ontheffing als bedoeld in artikel 4.1a of 4.3a te verlenen, voor zover die ontheffing betrekking heeft op een bestemmingsplan of een provinciaal inpassingsplan.     
-2.  Bij een beroep tegen een besluit als bedoeld in het eerste lid, onder a, kunnen geen gronden worden aangevoerd die betrekking hebben op een aanwijzing als bedoeld in het eerste lid, onder f, waarop dat besluit berust.   
-3.  De Afdeling bestuursrechtspraak van de Raad van State beslist op een beroep als bedoeld in het eerste lid, onder a, b, c, d, g of h binnen twaalf maanden na afloop van de beroepstermijn.   
-4.  Indien het beroep een bestemmingsplan betreft ter uitvoering waarvan een verzoek tot onteigening is gedaan als bedoeld in [artikel 78 van de onteigeningswet](../../../../../wet/onteigeningswet/BWBR0001842/README.md), dan wel een bestemmingsplan waarin ingevolge artikel 3.4 onderdelen zijn aangewezen ten aanzien waarvan de verwezenlijking in de naaste toekomst nodig wordt geacht, wordt het beroep behandeld voor andere ingestelde beroepen als bedoeld in het derde lid.   
-5.  Als belanghebbende bij een besluit als bedoeld in de artikelen 6.12, eerste en tweede lid, en 6.15, eerste lid, wordt in elk geval aangemerkt degene die een grondexploitatieovereenkomst heeft gesloten met betrekking tot de in het desbetreffende besluit opgenomen gronden, of die eigenaar is van die gronden.   
+f. een besluit omtrent vaststelling van een exploitatieplan voor gronden, begrepen in een gelijktijdig bekendgemaakt bestemmingsplan, inpassingsplan of wijzigingsplan als bedoeld in artikel 3.6, eerste lid, alsmede herzieningen van het desbetreffende exploitatieplan en besluiten omtrent de afrekening en herberekende exploitatiebijdragen van het desbetreffende exploitatieplan.     
+3.  Indien het beroep een bestemmingsplan betreft ter uitvoering waarvan een verzoek tot onteigening is gedaan als bedoeld in [artikel 78 van de onteigeningswet](../../../../../wet/onteigeningswet/BWBR0001842/README.md), dan wel een bestemmingsplan waarin ingevolge artikel 3.4 onderdelen zijn aangewezen ten aanzien waarvan de verwezenlijking in de naaste toekomst nodig wordt geacht, wordt het beroep behandeld voor andere ingestelde beroepen als bedoeld in het tweede lid.   
+4.  Als belanghebbende bij een besluit als bedoeld in de artikelen 6.12, eerste en tweede lid, en 6.15, eerste lid, wordt in elk geval aangemerkt degene die een grondexploitatieovereenkomst heeft gesloten met betrekking tot in het desbetreffende besluit opgenomen gronden, of die eigenaar is van die gronden.   
 
 ### Artikel  8.3  
 
@@ -886,7 +859,7 @@ c. in plaats van «besluit tot vaststelling van een bestemmingsplan» telkens wo
 
 ### Artikel  8.6  
 
-De stichting heeft tot taak aan de administratieve rechter op diens verzoek deskundigenbericht uit te brengen inzake beroepen op grond van deze wet. Op verzoek van de administratieve rechter brengt de stichting tevens deskundigenbericht uit inzake beroepen op grond van andere wetten voor zover het onderwerpen betreft die samenhangen met de ruimtelijke ordening.  
+De stichting heeft tot taak aan de bestuursrechter op diens verzoek deskundigenbericht uit te brengen inzake beroepen op grond van deze wet. Op verzoek van de bestuursrechter brengt de stichting tevens deskundigenbericht uit inzake beroepen op grond van andere wetten voor zover het onderwerpen betreft die samenhangen met de ruimtelijke ordening.  
 
 ### Artikel  8.7  
 

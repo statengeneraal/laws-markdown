@@ -28,7 +28,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  4  
 
-Tegen de beschikking waarbij het verlof is geweigerd, kan alleen de verzoeker binnen een maand na de dag waarop zij is gegeven, hoger beroep bij het gerechtshof instellen. De artikelen 2 en 3 zijn van overeenkomstige toepassing.  
+1.  In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de termijn voor het indienen van een hogerberoepschrift een maand.   
+2.  De artikelen 2 en 3 zijn van overeenkomstige toepassing.   
 
 ### Artikel  5  
 

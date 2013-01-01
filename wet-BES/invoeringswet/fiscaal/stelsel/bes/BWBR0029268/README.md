@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om in verband met de invoering en inwerkingtreding van de [Wet Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), de [Wet Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), de Wet inkomstenbelasting BES en de Wet loonbelasting BES de aanpassing van enige wetten alsmede het overgangsrecht te regelen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om in verband met de invoering en inwerkingtreding van de [Wet Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), de [Wet Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), de [Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) en de [Wet loonbelasting BES](../../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) de aanpassing van enige wetten alsmede het overgangsrecht te regelen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
@@ -150,10 +150,10 @@ b. indien een ondernemer op of na het tijdstip van transitie een onroerende zaak
 
 1.  Voor een belastingplichtige die op de BES eilanden woont en die op de aan tijdstip van inwerkingtreding voorafgaande dag in aanmerking komt voor toepassing van de in de artikelen 23B, 23C, 23D en 23E van de op basis van de [Wet geldstelsel BES](../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) in de overgangsperiode als wet van toepassing zijnde Landsverordening op de inkomstenbelasting 1943 opgenomen regeling voor penshonado’s, dan wel op grond van de artikelen 77 tot en met 82 van die op basis van de Wet geldstelsel BES in de overgangsperiode als wet van toepassing zijnde Landsverordening opgenomen overgangsregeling in aanmerking komt voor toepassing van de in de artikelen 23B, 23C, 23D en 23E opgenomen regeling voor penshonado’s, geldt, voor maximaal vier jaar na het tijdstip van inwerkingtreding voor zover hij op de BES eilanden woont en voldoet aan de in genoemde artikelen gestelde voorwaarden, dat, voor zover de belastbare som bestaat uit opbrengst van buitenlandse bronnen en voor zover dat tezamen met de overige bestanddelen van de belastbare som meer bedraagt dan USD 26 396: 
 
-a. het in de tweede regel van kolom IV in artikel 24A, eerste lid, van de Wet inkomstenbelasting BES genoemde percentage wordt gesteld op 10% of,  
+a. het in de tweede regel van kolom IV in artikel 24A, eerste lid, van de [Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) genoemde percentage wordt gesteld op 10% of,  
 
 b. indien dit in een lagere belastingdruk resulteert, op 30,4% over een belastbare som van maximaal USD 243 934.     
-2.  Ten aanzien van een belastingplichtige die in aanmerking komt voor toepassing van het eerste lid, zijn de in de Wet inkomstenbelasting BES opgenomen bepalingen omtrent persoonlijke lasten en buitengewone lasten, niet van toepassing.   
+2.  Ten aanzien van een belastingplichtige die in aanmerking komt voor toepassing van het eerste lid, zijn de in de [Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) opgenomen bepalingen omtrent persoonlijke lasten en buitengewone lasten, niet van toepassing.   
 
 ### Artikel  XI  
 
@@ -181,10 +181,10 @@ h. opbrengst van rechten op periodieke uitkeringen ten laste van een natuurlijke
 
 i. de kapitaalsuitkering uit levensverzekering welke wordt betaald ten laste van een natuurlijke of rechtspersoon die niet woonachtig of gevestigd is op de BES eilanden.     
 2.  Voor de toepassing van het eerste lid wordt onder opbrengst van een vroegere dienstbetrekking verstaan de opbrengst uit een recht op periodieke uitkering, welke ter zake van een vroegere dienstbetrekking aan de belastingplichtige is toegekend mits dit hoofdzakelijk buiten de BES eilanden is opgebouwd.   
-3.  Voor de toepassing van artikel X blijven de artikelen 12, 16 en 16A van de Wet inkomstenbelasting BES buiten aanmerking.   
+3.  Voor de toepassing van artikel X blijven de [artikelen 12](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md), [16](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) en [16A van de Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) buiten aanmerking.   
 4.  Ten aanzien van de belastingplichtige, bedoeld in artikel X, die in gebreke blijft tijdig volledige aangifte te doen, wordt de in de aanslag te begrijpen belasting verhoogd met de helft van het verschuldigde belastingbedrag.   
-5.  De overige artikelen van de Wet inkomstenbelasting BES blijven onverkort van kracht voor zover niet uitdrukkelijk in dit artikel hiervan is afgeweken.   
-6.  Het deel van de belastbare som waarop het tarief als bedoeld in artikel X niet van toepassing is, wordt belast op basis van artikel 24A van de Wet inkomstenbelasting BES. Bij de berekening van de belasting over het inkomen waarop het tarief van artikel X niet van toepassing is, worden de inkomsten waarop dit tarief wel van toepassing is, buiten beschouwing gelaten.   
+5.  De overige artikelen van de [Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) blijven onverkort van kracht voor zover niet uitdrukkelijk in dit artikel hiervan is afgeweken.   
+6.  Het deel van de belastbare som waarop het tarief als bedoeld in artikel X niet van toepassing is, wordt belast op basis van [artikel 24A van de Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md). Bij de berekening van de belasting over het inkomen waarop het tarief van artikel X niet van toepassing is, worden de inkomsten waarop dit tarief wel van toepassing is, buiten beschouwing gelaten.   
 
 ### Artikel  XII  
 
@@ -219,7 +219,7 @@ Wijzigt de Belastingwet BES.
 
 ### Artikel  XVII  
 
-Bij ministeriële regeling kunnen nadere regels worden vastgesteld ter zake van de overgang van tot het tijdstip van inwerkingtreding op de BES eilanden geheven belastingen naar de [Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), de [Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), de Wet inkomstenbelasting BES en de Wet loonbelasting BES.  
+Bij ministeriële regeling kunnen nadere regels worden vastgesteld ter zake van de overgang van tot het tijdstip van inwerkingtreding op de BES eilanden geheven belastingen naar de [Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), de [Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), de [Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) en de [Wet loonbelasting BES](../../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md).  
 
 ### Hoofdstuk  IIa  
 

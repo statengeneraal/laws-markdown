@@ -123,7 +123,7 @@ b. de duur van het fractievoorzitterschap.
 ### Artikel  9  
 
 1.  De raad kan bij verordening bepalen dat een lid van de raad met ingang van de dag van zijn aftreden een uitkering ten laste van de gemeente ontvangt, naar in de verordening te stellen regels.   
-2.  De uitkering heeft een maximumduur van twee jaar en bedraagt in het eerste jaar ten hoogste 80% en in het tweede jaar ten hoogste 70% van het op het moment van aftreden geldende bedrag van de vergoeding voor de werkzaamheden, eventueel vermeerderd met het bedrag van de in het jaar voor het aftreden ontvangen vergoeding, bedoeld in artikel 4. De uitkering eindigt in ieder geval met ingang van de maand volgend op die waarop de leeftijd van 65 jaar wordt bereikt.   
+2.  De uitkering heeft een maximumduur van twee jaar en bedraagt in het eerste jaar ten hoogste 80% en in het tweede jaar ten hoogste 70% van het op het moment van aftreden geldende bedrag van de vergoeding voor de werkzaamheden, eventueel vermeerderd met het bedrag van de in het jaar voor het aftreden ontvangen vergoeding, bedoeld in artikel 4. De uitkering eindigt in ieder geval met ingang van de maand volgend op die waarop de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), wordt bereikt.   
 3.  De raad kan bij verordening bepalen dat geen recht op uitkering bestaat indien het lid van de raad van zijn lidmaatschap vervallen is verklaard ingevolge [artikel X 8 van de Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md).   
 4.  Dit artikel is niet van toepassing op een lid van de raad dat is benoemd in de plaats die is opengevallen als gevolg van het tijdelijk ontslag van een lid van de raad wegens zwangerschap en bevalling of ziekte, ingevolge [artikel X 12 van de Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md).   
 
@@ -224,15 +224,15 @@ E. van Thijn
 
 | Klasse  | Inwonertal  | Maximum vergoeding werkzaamheden per maand  |
 |:---|:---|:---|
-| 1  | Tot en met 8.000  | € 232,57  |
-| 2  | 8.001–14.000  | € 367,49  |
-| 3  | 14.001–24.000  | € 572,81  |
-| 4  | 24.001–40.000  | € 889,13  |
-| 5  | 40.001–60.000  | € 1157,56  |
-| 6  | 60.001–100.000  | € 1354,52  |
-| 7  | 100.001–150.000  | € 1537,82  |
-| 8  | 150.001–375.000  | € 1791,52  |
-| 9  | 375.001–  | € 2181,10  |
+| 1  | Tot en met 8.000  | € 235,58  |
+| 2  | 8.001–14.000  | € 372,25  |
+| 3  | 14.001–24.000  | € 580,23  |
+| 4  | 24.001–40.000  | € 900,64  |
+| 5  | 40.001–60.000  | € 1172,56  |
+| 6  | 60.001–100.000  | € 1372,07  |
+| 7  | 100.001–150.000  | € 1557,74  |
+| 8  | 150.001–375.000  | € 1814,73  |
+| 9  | 375.001–  | € 2209,35  |
 
 ### Tabel  II  
 
@@ -240,15 +240,15 @@ E. van Thijn
 
 | Klasse  | Inwonertal  | Maximum onkostenvergoeding per maand  |
 |:---|:---|:---|
-| 1  | Tot en met 8.000  | € 43,31  |
-| 2  | 8.001–14.000  | € 57,54  |
-| 3  | 14.001–24.000  | € 76,37  |
-| 4  | 24.001–40.000  | € 104,87  |
-| 5  | 40.001–60.000  | € 135,64  |
-| 6  | 60.001–100.000  | € 154,45  |
-| 7  | 100.001–150.000  | € 172,69  |
-| 8  | 150.001–375.000  | € 205,73  |
-| 9  | 375.001–  | € 246,75  |
+| 1  | Tot en met 8.000  | € 44,31  |
+| 2  | 8.001–14.000  | € 58,86  |
+| 3  | 14.001–24.000  | € 78,13  |
+| 4  | 24.001–40.000  | € 107,28  |
+| 5  | 40.001–60.000  | € 138,76  |
+| 6  | 60.001–100.000  | € 158,00  |
+| 7  | 100.001–150.000  | € 176,66  |
+| 8  | 150.001–375.000  | € 210,46  |
+| 9  | 375.001–  | € 252,43  |
 
 ### Tabel  IV  
 
@@ -256,10 +256,10 @@ E. van Thijn
 
 | Gemeenteklasse  | Aantal inwoners gemeente  | Maximum vergoeding werkzaamheden per vergadering  |
 |:---|:---|:---|
-| 1  | – 10 000  | € 55,87  |
-| 2  | 10 001– 20 000  | € 61,76  |
-| 3  | 20 001– 50 000  | € 74,09  |
-| 4  | 50 001–100 000  | € 91,17  |
-| 5  | 100 001–250 000  | € 116,43  |
-| 6  | 250 001–  | € 147,61  |
+| 1  | – 10 000  | € 56,59  |
+| 2  | 10 001– 20 000  | € 62,56  |
+| 3  | 20 001– 50 000  | € 75,05  |
+| 4  | 50 001–100 000  | € 92,35  |
+| 5  | 100 001–250 000  | € 117,94  |
+| 6  | 250 001–  | € 149,52  |
 

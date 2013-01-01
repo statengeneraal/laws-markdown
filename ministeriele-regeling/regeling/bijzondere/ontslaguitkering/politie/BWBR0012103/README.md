@@ -10,7 +10,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *de Minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
+a. *de Minister:* de Minister van Veiligheid en Justitie;  
 
 b. *bevoegd gezag:* hetgeen daaronder in het [Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) wordt verstaan;  
 

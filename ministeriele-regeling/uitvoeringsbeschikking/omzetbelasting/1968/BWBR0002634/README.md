@@ -10,7 +10,7 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Deze regeling geeft uitvoering aan de [artikelen 1a, derde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [2a, eerste lid, onderdelen l en m, en tweede lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [5a, vierde en vijfde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [7, derde en vierde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [8, zevende lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [11, eerste lid, onderdelen a, onder 2°, b, onder 5°, en p](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [15, eerste lid, onderdeel c, onder 1°, derde en zesde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [17e](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [21](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [23, eerste lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [24, tweede lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [25, tweede, derde en zesde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [26](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [27, negende lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [28d](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [28i](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [28p](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [28zb, vierde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [31, zevende lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [32f, tweede lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [32h](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [32i](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [34, eerste, tweede, derde en vierde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [35, tweede en derde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [35a, vierde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), en [37d, van de Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [onderdeel a, posten 31, 32 en 35, van de bij die wet behorende tabel I](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [onderdeel a, posten 7 en 8, van de bij die wet behorende tabel II](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [artikel II van de wet van 23 december 1994 tot wijziging van de Wet op de omzetbelasting 1968 in verband met de invoering van een bijzondere regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten](../../../../../wet/wijzigingswet/wet/op/de/omzetbelasting/1968/(invoering/van/een/bijzondere/etc/BWBR0007167/README.md), [artikel 62 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), alsmede de [artikelen 4, eerste lid, onderdeel c](../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md), [9, derde lid](../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md), [12, vijfde lid](../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md), [13](../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md), [24b, achtste lid](../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md), [24ba, tweede lid](../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md), en [24c, derde lid, onderdeel c, van het Uitvoeringsbesluit omzetbelasting 1968](../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md).   
+1.  Deze regeling geeft uitvoering aan de [artikelen 1a, derde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [2a, eerste lid, onderdelen l en m, en tweede lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [5a, vierde en vijfde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [7, derde en vierde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [8, zevende lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [11, eerste lid, onderdelen a, onder 2°, b, onder 5°, en p](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [15, eerste lid, onderdeel c, onder 1°, derde en zesde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [17e](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [21](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [23, eerste lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [24, tweede lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [25, tweede, derde en zesde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [26](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [27, negende lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [28d](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [28i](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [28p](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [28zb, vierde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [31, zevende lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [32f, tweede lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [32h](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [32i](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [34, eerste, tweede, derde en vierde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [34c, tweede lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [34e](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [35a, zesde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), en [37d, van de Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [onderdeel a, posten 31, 32 en 35, van de bij die wet behorende tabel I](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [onderdeel a, posten 7 en 8, van de bij die wet behorende tabel II](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [artikel II van de wet van 23 december 1994 tot wijziging van de Wet op de omzetbelasting 1968 in verband met de invoering van een bijzondere regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten](../../../../../wet/wijzigingswet/wet/op/de/omzetbelasting/1968/(invoering/van/een/bijzondere/etc/BWBR0007167/README.md), [artikel 62 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), alsmede de [artikelen 4, eerste lid, onderdeel c](../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md), [9, derde lid](../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md), [12, vijfde lid](../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md), [13](../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md), [24b, achtste lid](../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md), [24ba, tweede lid](../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md), en [24c, derde lid, onderdeel c, van het Uitvoeringsbesluit omzetbelasting 1968](../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md).   
 2.  Deze regeling verstaat onder: 
 
 a. *wet:*[Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md);  
@@ -121,7 +121,7 @@ g. een verklaring van de leverancier dat hij ter zake van de levering aan hem va
 
 a. ingeval het bedrag dat aan de leverancier moet worden voldaan minder dan € 500 bedraagt;  
 
-b. ingeval de leverancier ingevolge [artikel 35 van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) een factuur uitreikt;  
+b. ingeval de leverancier ingevolge [artikel 34c van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) een factuur uitreikt;  
 
 c. ingeval de inkoop van een goed door de wederverkoper gelijktijdig plaatsvindt met de levering door hem van een ander goed aan de leverancier en de wederverkoper een factuur uitreikt die voldoet aan de in de wet gestelde voorwaarden, mits de factuur tevens voldoet aan het bepaalde in het eerste lid.     
 
@@ -285,7 +285,7 @@ Door de ondernemer kan in aftrek worden gebracht de belasting die blijkens zijn 
 
 ### Artikel  10a  
 
-1.  De in [artikel 15, derde lid, eerste volzin, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) bedoelde belasting die in de aankoopprijs is begrepen, wordt gesteld op 19/119 van het bedrag van de aankoopprijs, voorzover deze betrekking heeft op een personenauto, een bestelauto of een motorrijwiel verminderd met het bij de personenauto, de bestelauto of het motorrijwiel nog behorende bedrag aan belasting bedoeld in en berekend overeenkomstig [artikel 10 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md).   
+1.  De in [artikel 15, derde lid, eerste volzin, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) bedoelde belasting die in de aankoopprijs is begrepen, wordt gesteld op 21/121 van het bedrag van de aankoopprijs, voorzover deze betrekking heeft op een personenauto, een bestelauto of een motorrijwiel verminderd met het bij de personenauto, de bestelauto of het motorrijwiel nog behorende bedrag aan belasting bedoeld in en berekend overeenkomstig [artikel 10 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md).   
 2.  Het bedrag van de aankoopprijs dient ten genoegen van de inspecteur te worden aangetoond aan de hand van bescheiden zoals een originele factuur, een inkoopverklaring of een betalingsbewijs.   
 
 ### Artikel  11  
@@ -370,7 +370,7 @@ c. degene die de goederen invoert, verstrekt op verzoek aan de inspecteur de inl
 a. op verzoek van de vergunninghouder;  
 
 b. indien de vergunninghouder niet voldoet aan de aan de vergunning verbonden voorwaarden.     
-6.  De vrijstelling is slechts van toepassing indien wordt aangetoond dat ter zake van de levering is voldaan aan het bepaalde in de [artikelen 14](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [35](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [35a](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) en [37a van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) alsmede in [artikel 12 van het besluit](../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md).   
+6.  De vrijstelling is slechts van toepassing indien wordt aangetoond dat ter zake van de levering is voldaan aan het bepaalde in de [artikelen 14](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [34c](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [35a](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) en [37a van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) alsmede in [artikel 12 van het besluit](../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md).   
 
 ### Artikel  17  
 
@@ -500,7 +500,7 @@ d. meer dan € 1747 nihil.
 
 ### Artikel  25  
 
-1.  Ontheffing van verplichtingen, opgelegd bij of krachtens de [artikelen 34](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) en [35 van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), wordt op verzoek verleend, indien aannemelijk is, dat de ondernemer jaarlijks, na toepassing van [artikel 25, eerste lid, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), geen belasting behoeft te voldoen.   
+1.  Ontheffing van verplichtingen, opgelegd bij of krachtens de [artikelen 34](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) en [34c van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), wordt op verzoek verleend, indien aannemelijk is, dat de ondernemer jaarlijks, na toepassing van [artikel 25, eerste lid, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), geen belasting behoeft te voldoen.   
 2.  De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. De ontheffing gaat in bij het begin van het jaar, volgende op dat waarin het verzoek is gedaan.   
 3.  De ondernemer die ontheffing heeft verkregen, kan volstaan met het ordelijk bewaren van de aan hem uitgereikte facturen gedurende de termijn, bedoeld in [artikel 52, vierde lid, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en in [artikel 34a van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md).   
 4.  De ontheffing vervalt: 
@@ -677,8 +677,8 @@ b. de aantekeningen als bedoeld in onderdeel a zodanig te houden dat de herkomst
 
 ### Artikel  32  
 
-1.  Als ondernemers als bedoeld in [artikel 35, tweede lid, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), worden aangewezen groothandelaren in levensmiddelen, dranken, tandheelkundige grondstoffen, tandtechnische werken en onderdelen van tandtechnische werken.   
-2.  De in [artikel 35, derde lid, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), bedoelde ontheffing van de verplichting om een factuur uit te reiken indien vrijgestelde prestaties worden verricht, geldt niet ter zake van de levering van een roerende zaak als bedoeld in [artikel 11, eerste lid, onderdeel r, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md).   
+1.  Als ondernemers als bedoeld in [artikel 34e van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), worden aangewezen groothandelaren in levensmiddelen, dranken, tandheelkundige grondstoffen, tandtechnische werken en onderdelen van tandtechnische werken.   
+2.  De in [artikel 34c, tweede lid, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), bedoelde ontheffing van de verplichting om een factuur uit te reiken indien vrijgestelde prestaties worden verricht, geldt niet ter zake van de levering van een roerende zaak als bedoeld in [artikel 11, eerste lid, onderdeel r, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md).   
 
 ### Artikel  33  
 
@@ -692,15 +692,7 @@ c. de factuur die bij inruiltransacties wordt uitgereikt en die de gehele inruil
 
 d. de wekelijks of maandelijks uitgereikte verzamelfactuur met betrekking tot leveringen of diensten waarbij bonnen en dergelijke worden uitgereikt die op zich niet voldoen aan de factuurvereisten, mits deze verwijst naar de bonnen en dergelijke, en samen daarmee voldoet aan de factuurvereisten;  
 
-e. het gedeelte van de overschrijvingskaart dat de afnemer behoudt of de aan de afnemer gezonden bank- of giro-afrekening, bij het gebruik van acceptgirokaarten onderscheidenlijk automatische overschrijving;   mits daarin in elk geval de volgende vermeldingen zijn opgenomen: 
-
-1°. de datum van uitreiking;  
-
-2°. een identificatie van de ondernemer die de prestatie verricht;  
-
-3°. een identificatie van de aard van de geleverde goederen of de verrichte diensten;  
-
-4°. het te betalen bedrag van de belasting of de gegevens aan de hand waarvan dat bedrag kan worden berekend.     
+e. het gedeelte van de overschrijvingskaart dat de afnemer behoudt of de aan de afnemer gezonden bank- of giro-afrekening, bij het gebruik van acceptgirokaarten onderscheidenlijk automatische overschrijving;   mits daarop de vermeldingen, bedoeld in [artikel 35a, tweede lid, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) staan.   
 2.  In afwijking in zoverre van de verplichtingen opgelegd bij [artikel 35a van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md): 
 
 a. kan bij de levering van brandstof voor landvoertuigen de vermelding van de naam en het adres van de afnemer achterwege blijven, mits die afnemer kan worden geïdentificeerd doordat zijn gegevens door de wijze van betalen, giraal of anderszins, traceerbaar zijn;  
@@ -754,7 +746,7 @@ c. naam en adres van de leverancier onderscheidenlijk de netbeheerder.
 ### Artikel  34b  
 
 1.  Ter zake van de levering, de invoer en de intracommunautaire verwerving van minerale olie vindt de bij de wet behorende tabel I, onderdeel a, post 32, slechts toepassing bij wijze van teruggaaf van belasting aan de tuinbouwer die de olie gebruikt voor verwarming ter bevordering van het groeiproces van tuinbouwprodukten.   
-2.  De teruggaaf geschiedt op verzoek van de tuinbouwer en bedraagt 13 percent van de aan hem wegens levering van de minerale olie in rekening gebrachte vergoeding.   
+2.  De teruggaaf geschiedt op verzoek van de tuinbouwer en bedraagt 15 percent van de aan hem wegens levering van de minerale olie in rekening gebrachte vergoeding.   
 3.  In afwijking in zoverre van [artikel 33 van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) geschiedt het verzoek om teruggaaf steeds binnen drie maanden na afloop van het kalenderkwartaal waarin de olie is ontvangen, en wel bij een afzonderlijke, ondertekende aangifte welke de volgende gegevens moet bevatten: 
 
 a. de dagtekening;  
@@ -1266,6 +1258,7 @@ b. het verrichten van een zodanige be- of verwerking met betrekking tot in een p
 | turfwas, andere minerale was en dergelijke  | --- |
 | door synthese of op andere wijze verkregen  | --- |
 | produkten, ook indien gekleurd  | --- |
+| Petroleumbitumen  | 2713 20 00  |
 | Elektrische energie met een spanning van ten minste 110 kilovolt  | 2716 0000  |
 | Anorganische chemische produkten; anorganische  | 2801 t/m 2851  |
 | of organische verbindingen van edele metalen,  | --- |
@@ -1325,7 +1318,7 @@ b. het verrichten van een zodanige be- of verwerking met betrekking tot in een p
 | karakter door deze olie wordt bepaald  | --- |
 | Enzymen; bereidingen van enzymen, elders  | 3507  |
 | genoemd noch elders onder begrepen  | --- |
-| Diverse produkten van de chemische industrie  | 3801 t/m 3824  |
+| Diverse producten van de chemische industrie  | 3801 t/m 3826  |
 | Polymeren van ethyleen, in primaire vormen  | 3901  |
 | Polymeren van propyleen of van andere  | 3902  |
 | olefinen, in primaire vormen  | --- |

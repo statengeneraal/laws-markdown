@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Defensie van 19 februari 1999, nr. P/99000777;
 
-Gelet op [artikel 2, vijfde lid, van de Kaderwet militaire pensioenen](../../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md);
+Gelet op artikel 2, vijfde lid, van de Kaderwet militaire pensioenen;
 
 De Raad van State gehoord (advies van 27 april 1999, No. W07.99.0082/II);
 
@@ -24,9 +24,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 a. militair: de beroepsmilitair, dienstplichtige of reservist;  
 
-b. WAO: de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+b. WAO: de Wet op de arbeidsongeschiktheidsverzekering;  
 
-c. arbeidsongeschiktheidsuitkering: een uitkering ingevolge de [WAO](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de aanspraak op vakantie-uitkering daaronder begrepen;  
+c. arbeidsongeschiktheidsuitkering: een uitkering ingevolge de WAO, de aanspraak op vakantie-uitkering daaronder begrepen;  
 
 d. ontslaguitkering: een uitkering ingevolge het Werkloosheidsbesluit defensie-personeel of het Werkloosheidsbesluit beroepsmilitairen bepaalde tijd;  
 
@@ -38,7 +38,7 @@ f. berekeningsgrondslag:
 
 2e voor de reservist en dienstplichtige: het bedrag van de inkomsten die hij in het jaar voorafgaande aan het einde van zijn werkelijke dienst uit hoofde van zijn beroep of bedrijf zou hebben kunnen genieten indien hij niet in werkelijke dienst zou zijn geweest;    
 
-g. suppletieregeling: de [Suppletieregeling gedeeltelijk arbeidsongeschikten sector Defensie](../../../../../../../../AMvB/suppletieregeling/gedeeltelijk/arbeidsongeschikten/sector/defensie/BWBR0008977/README.md).    
+g. suppletieregeling: de Suppletieregeling gedeeltelijk arbeidsongeschikten sector Defensie.    
 
 ### Artikel  2  
 
@@ -62,11 +62,11 @@ b. het verrichten van handelingen of activiteiten in het kader van algemene of b
 c. activiteiten, die gezien het daaraan verbonden dienstbelang als uitoefening van die dienst aangemerkt kunnen worden.     
 5.  Onder buitengewone of daarmee vergelijkbare omstandigheden wordt verstaan: 
 
-a. een uitzonderingstoestand in de zin van de [Coördinatiewet uitzonderingstoestanden](../../../../../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md);  
+a. een uitzonderingstoestand in de zin van de Coördinatiewet uitzonderingstoestanden;  
 
 b. de deelname aan operaties ter bevordering of handhaving van de internationale rechtsorde;  
 
-c. de verlening van bijstand, zoals onder meer bedoeld in [artikel 71 Wetboek van Militair Strafrecht](../../../../../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md), de [artikelen 58](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), [59](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) of  [60 van de Politiewet 1993](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) en [artikel 146, tweede lid, van het Wetboek van Strafvordering](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), voor zover sprake is van een verhoogd risico.     
+c. de verlening van bijstand, zoals onder meer bedoeld in artikel 71 Wetboek van Militair Strafrecht, de artikelen 57, 58 of 59 van de Politiewet 2012 en artikel 146, tweede lid, van het Wetboek van Strafvordering, voor zover sprake is van een verhoogd risico.     
 6.  Tot de buitengewone omstandigheden in de zin van het vijfde lid worden mede gerekend: 
 
 a. het onder oorlogsnabootsende omstandigheden in praktijk brengen van theoretisch onderwezen bekwaamheden teneinde aldus de bedrevenheid in het uitvoeren van oorlogstaken te verwerven, op te voeren of te onderhouden, voor zover sprake is van een verhoogd risico;  
@@ -74,7 +74,7 @@ a. het onder oorlogsnabootsende omstandigheden in praktijk brengen van theoretis
 b. afzonderlijk door Onze Minister te bepalen gevallen die bijzonder van aard zijn en waarbij een verhoogd risico aanwezig is;   een en ander voor zover de gebruikelijke veiligheidsmaatregelen ter bescherming van de gezondheid geheel of gedeeltelijk door de Commandant Zeestrijdkrachten, de Commandant Landstrijdkrachten, de Commandant Luchtstrijdkrachten, of de Commandant Koninklijke Marechaussee buiten werking zijn gesteld.   
 7.  Voor elke verwonding, ziekte of gebrek wordt afzonderlijk vastgesteld of sprake is van invaliditeit met dienstverband.   
 8.  Indien voor een bepaalde verwonding, ziekte of gebrek invaliditeit met dienstverband is vastgesteld betekent dit dat voor die aandoening, indien die aandoening leidt tot arbeidsongeschiktheid en die arbeidsongeschiktheid in overwegende mate haar oorzaak vindt in de invaliditeit met dienstverband, eveneens sprake is van arbeidsongeschiktheid met dienstverband.   
-9.  Op het onderzoek naar de toepasselijkheid van dit besluit is het [Besluit procedure geneeskundig onderzoek blijvende dienstongeschiktheid en pensioenkeuring militairen](../../../../../../../../AMvB/besluit/procedure/geneeskundig/onderzoek/blijvende/dienstongeschiktheid/en/etc/BWBR0008475/README.md) van toepassing.   
+9.  Op het onderzoek naar de toepasselijkheid van dit besluit is het Besluit procedure geneeskundig onderzoek blijvende dienstongeschiktheid en pensioenkeuring militairen van toepassing.   
 10.  Onze Minister kan met betrekking tot dit artikel nadere en, zo nodig, afwijkende regels stellen.   
 
 ### Paragraaf  2  
@@ -91,29 +91,29 @@ b. afzonderlijk door Onze Minister te bepalen gevallen die bijzonder van aard zi
 
 a. indien er sprake is van de onder b bedoelde individuele bijverzekering: bij een arbeidsongeschiktheid van: 80% of meer: 70% 65 tot 80%: 50,75% 55 tot 65%: 42% 45 tot 55%: 35% 35 tot 45%: 28% 25 tot 35%: 21% 15 tot 25%: 14%  
 
-b. indien de rechthebbende als werknemer de keuze heeft gemaakt om af te zien van de individuele bijverzekering tegen de gevolgen van de verlaging van zijn arbeidsongeschiktheidspensioen: in de periode, bedoeld in [artikel 21a van de WAO](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de onder a genoemde percentages, en in de periode, bedoeld in [artikel 21b van de WAO](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md): bij een arbeidsongeschiktheid van: 80% of meer: 65% 65 tot 80%: 47,25% 55 tot 65%: 39% 45 tot 55%: 32,5% 35 tot 45%: 26% 25 tot 35%: 19,5% 15 tot 25%: 13%     
+b. indien de rechthebbende als werknemer de keuze heeft gemaakt om af te zien van de individuele bijverzekering tegen de gevolgen van de verlaging van zijn arbeidsongeschiktheidspensioen: in de periode, bedoeld in artikel 21a van de WAO, de onder a genoemde percentages, en in de periode, bedoeld in artikel 21b van de WAO: bij een arbeidsongeschiktheid van: 80% of meer: 65% 65 tot 80%: 47,25% 55 tot 65%: 39% 45 tot 55%: 32,5% 35 tot 45%: 26% 25 tot 35%: 19,5% 15 tot 25%: 13%     
 4.  Een krachtens het derde lid toepasselijk berekeningspercentage van 70 wordt vervangen door een percentage van 75 indien de militair op het tijdstip van ingang van zijn arbeidsongeschiktheidspensioen 55 jaar of ouder is.   
 5.  Waar sprake is van arbeidsongeschiktheid met dienstverband worden de in het derde en vierde lid bedoelde percentages vervangen door: bij een arbeidsongeschiktheid van: 80% of meer: 90,02% 65 tot 80%: 73,31% 55 tot 65%: 56,59% 45 tot 55%: 45,01% 35 tot 45%: 34,08% 25 tot 35%: 22,50% 15 tot 25%: 15%   
-6.  In afwijking van het derde, vierde en vijfde lid en met inachtneming van het zevende lid, wordt het arbeidsongeschiktheidspensioen van de rechthebbende die in een althans voorlopig blijvende toestand van hulpbehoevendheid verkeert, waardoor hij geregeld oppassing en verzorging nodig heeft, bepaald op het bedrag dat nodig is om de arbeidsongeschiktheidsuitkering aan te vullen tot ten hoogste 100% van de, zo nodig op 261 maal het in het eerste lid van [artikel 17 van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) bedoelde bedrag met betrekking tot een loontijdvak van een dag, berekeningsgrondslag.   
+6.  In afwijking van het derde, vierde en vijfde lid en met inachtneming van het zevende lid, wordt het arbeidsongeschiktheidspensioen van de rechthebbende die in een althans voorlopig blijvende toestand van hulpbehoevendheid verkeert, waardoor hij geregeld oppassing en verzorging nodig heeft, bepaald op het bedrag dat nodig is om de arbeidsongeschiktheidsuitkering aan te vullen tot ten hoogste 100% van de, zo nodig op 261 maal het in het eerste lid van artikel 17 van de Wet financiering sociale verzekeringen bedoelde bedrag met betrekking tot een loontijdvak van een dag, berekeningsgrondslag.   
 7.  Het zesde lid vindt geen toepassing indien de rechthebbende in een inrichting is opgenomen en de kosten van verblijf ten laste van een verzekering inzake ziektekosten komen.   
-8.  Het arbeidsongeschiktheidspensioen wordt uitbetaald voor zover het de arbeidsongeschiktheidsuitkering van de rechthebbende, verhoogd met diens eventuele suppletie krachtens de [suppletieregeling](../../../../../../../../AMvB/suppletieregeling/gedeeltelijk/arbeidsongeschikten/sector/defensie/BWBR0008977/README.md), overschrijdt.   
-9.  Indien ingevolge de [WAO](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) recht bestaat op een zowel aan de militaire als een andere dienstbetrekking te ontlenen uitkering of op een niet rechtstreeks uit de militaire dienstbetrekking voortkomende uitkering waarin de ziekten of gebreken die tot het ontslag als militair hebben geleid een rol of mede een rol spelen, wordt bij de toepassing van de voorgaande leden gerekend met de bij die ziekten of gebreken passende mate van arbeidsongeschiktheid en het bedrag aan arbeidsongeschiktheidsuitkering dat daar ingevolge die wet aan wordt verbonden.   
+8.  Het arbeidsongeschiktheidspensioen wordt uitbetaald voor zover het de arbeidsongeschiktheidsuitkering van de rechthebbende, verhoogd met diens eventuele suppletie krachtens de suppletieregeling, overschrijdt.   
+9.  Indien ingevolge de WAO recht bestaat op een zowel aan de militaire als een andere dienstbetrekking te ontlenen uitkering of op een niet rechtstreeks uit de militaire dienstbetrekking voortkomende uitkering waarin de ziekten of gebreken die tot het ontslag als militair hebben geleid een rol of mede een rol spelen, wordt bij de toepassing van de voorgaande leden gerekend met de bij die ziekten of gebreken passende mate van arbeidsongeschiktheid en het bedrag aan arbeidsongeschiktheidsuitkering dat daar ingevolge die wet aan wordt verbonden.   
 10.  Indien de ziekten of gebreken die tot het ontslag als militair hebben geleid na een periode van arbeidsgeschiktheid opnieuw tot arbeidsongeschiktheid leiden, die arbeidsongeschiktheid niet leidt tot de toekenning van een nieuwe arbeidsongeschiktheidsuitkering en het recht op de oude arbeidsongeschiktheidsuitkering wegens het verstrijken van de daarvoor geldende termijnen niet kan herleven, wordt bij de toepassing van de voorgaande leden gerekend met het bedrag aan arbeidsongeschiktheidsuitkering dat zou zijn toegekend indien die belemmering niet bestond.   
-11.  Bij de toepassing van dit artikel wordt uitgegaan van de met inachtneming van [artikel 44 van de WAO](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) vast te stellen mate van arbeidsongeschiktheid en van het bedrag aan arbeidsongeschiktheidsuitkering waarop recht bestaat voor de mogelijke vermindering daarvan met andere arbeidsongeschiktheidsuitkeringen en voor de eventuele toepassing van een administratieve sanctie.   
+11.  Bij de toepassing van dit artikel wordt uitgegaan van de met inachtneming van artikel 44 van de WAO vast te stellen mate van arbeidsongeschiktheid en van het bedrag aan arbeidsongeschiktheidsuitkering waarop recht bestaat voor de mogelijke vermindering daarvan met andere arbeidsongeschiktheidsuitkeringen en voor de eventuele toepassing van een administratieve sanctie.   
 
 ### Artikel  4  
 
 ####Het garantiepensioen
 
-De som van het arbeidsongeschiktheidspensioen, het invaliditeitspensioen, de suppletie en de arbeidsongeschiktheidsuitkering waarop ingevolge de voorgaande artikelen, artikel 7, de [suppletieregeling](../../../../../../../../AMvB/suppletieregeling/gedeeltelijk/arbeidsongeschikten/sector/defensie/BWBR0008977/README.md) en de [WAO](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) aanspraak bestaat, is over enige betalingstermijn niet lager dan het aan dezelfde militaire betrekking te ontlenen ouderdomspensioen krachtens het pensioenreglement, zonder toepassing van de daarbij te hanteren franchise berekend naar de op het moment van ontslag uit die betrekking aan te wijzen diensttijd. Indien de betreffende som lager is dan dat ouderdomspensioen heeft de belanghebbende bij wijze van garantiepensioen recht op het verschil.  
+De som van het arbeidsongeschiktheidspensioen, het invaliditeitspensioen, de suppletie en de arbeidsongeschiktheidsuitkering waarop ingevolge de voorgaande artikelen, artikel 7, de suppletieregeling en de WAO aanspraak bestaat, is over enige betalingstermijn niet lager dan het aan dezelfde militaire betrekking te ontlenen ouderdomspensioen krachtens het pensioenreglement, zonder toepassing van de daarbij te hanteren franchise berekend naar de op het moment van ontslag uit die betrekking aan te wijzen diensttijd. Indien de betreffende som lager is dan dat ouderdomspensioen heeft de belanghebbende bij wijze van garantiepensioen recht op het verschil.  
 
 ### Artikel  5  
 
 ####Kortingen en beperkingen met betrekking tot het arbeidsongeschiktheidspensioen
 
-1.  Indien de rechthebbende op een arbeidsongeschiktheidspensioen andere inkomsten uit of in verband met arbeid geniet, anders dan de hem op grond van dezelfde dienstbetrekking toekomende arbeidsongeschiktheidsuitkering of suppletie krachtens de [suppletieregeling](../../../../../../../../AMvB/suppletieregeling/gedeeltelijk/arbeidsongeschikten/sector/defensie/BWBR0008977/README.md), zijn daaraan gekoppelde ontslaguitkering of invaliditeitspensioen, dan wel de op dat invaliditeitspensioen verstrekte bijzondere invaliditeitsverhoging, bedraagt de som van die inkomsten en zijn aan de arbeidsongeschiktheid te relateren rechten, het garantiepensioen daaronder begrepen, niet meer dan de berekeningsgrondslag. Een positief verschil tussen die som en de berekeningsgrondslag wordt voor zoveel mogelijk op zijn arbeidsongeschiktheidspensioen en zijn eventuele garantiepensioen in mindering gebracht. Inkomsten die al voor het intreden van de arbeidsongeschiktheid naast de militaire werden genoten en de eventuele vervangende inkomsten in verband daarmee, blijven daarbij, voor zover zij althans niet voortkomen uit een verhoogde werkzaamheid na het ontslag als militair, buiten beschouwing.   
+1.  Indien de rechthebbende op een arbeidsongeschiktheidspensioen andere inkomsten uit of in verband met arbeid geniet, anders dan de hem op grond van dezelfde dienstbetrekking toekomende arbeidsongeschiktheidsuitkering of suppletie krachtens de suppletieregeling, zijn daaraan gekoppelde ontslaguitkering of invaliditeitspensioen, dan wel de op dat invaliditeitspensioen verstrekte bijzondere invaliditeitsverhoging, bedraagt de som van die inkomsten en zijn aan de arbeidsongeschiktheid te relateren rechten, het garantiepensioen daaronder begrepen, niet meer dan de berekeningsgrondslag. Een positief verschil tussen die som en de berekeningsgrondslag wordt voor zoveel mogelijk op zijn arbeidsongeschiktheidspensioen en zijn eventuele garantiepensioen in mindering gebracht. Inkomsten die al voor het intreden van de arbeidsongeschiktheid naast de militaire werden genoten en de eventuele vervangende inkomsten in verband daarmee, blijven daarbij, voor zover zij althans niet voortkomen uit een verhoogde werkzaamheid na het ontslag als militair, buiten beschouwing.   
 2.  Een niet rechtstreeks uit de loonontwikkeling voortkomende algemene neerwaartse wijziging van de WAO-uitkeringen wordt niet door de arbeidsongeschiktheidspensioenen gecompenseerd dan nadat daarover tussen de sociale partners in het Sectoroverleg Defensie overeenstemming is bereikt.   
-3.  Onze Minister kan een arbeidsongeschiktheidspensioen weigeren of verminderen indien ten aanzien van de arbeidsongeschiktheidsuitkering een sanctie overeenkomstig de [WAO](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) is toegepast. Hij neemt daarbij het sanctiebeleid dat ten aanzien van die arbeidsongeschiktheidsuitkering is toegepast voor zoveel mogelijk inacht.   
+3.  Onze Minister kan een arbeidsongeschiktheidspensioen weigeren of verminderen indien ten aanzien van de arbeidsongeschiktheidsuitkering een sanctie overeenkomstig de WAO is toegepast. Hij neemt daarbij het sanctiebeleid dat ten aanzien van die arbeidsongeschiktheidsuitkering is toegepast voor zoveel mogelijk inacht.   
 
 ### Artikel  6  
 
@@ -128,7 +128,7 @@ De som van het arbeidsongeschiktheidspensioen, het invaliditeitspensioen, de sup
 
 1.  De beroepsmilitair bij wie een bepaalde mate van invaliditeit met dienstverband is vastgesteld heeft uit hoofde van zijn ontslag uit de militaire betrekking waarin die invaliditeit is ontstaan recht op een invaliditeitspensioen.   
 2.  Het bedrag van het in het eerste lid bedoelde invaliditeitspensioen is gelijk aan zoveel procent van de bij de betreffende militaire betrekking behorende berekeningsgrondslag als de mate van invaliditeit met dienstverband beloopt.   
-3.  Het in het eerste en tweede lid bedoelde invaliditeitspensioen wordt uitbetaald voor zover het de som van de arbeidsongeschiktheidsuitkering, verhoogd met de eventuele suppletie krachtens de [suppletieregeling](../../../../../../../../AMvB/suppletieregeling/gedeeltelijk/arbeidsongeschikten/sector/defensie/BWBR0008977/README.md) en het arbeidsongeschiktheidspensioen van de rechthebbende overschrijdt.   
+3.  Het in het eerste en tweede lid bedoelde invaliditeitspensioen wordt uitbetaald voor zover het de som van de arbeidsongeschiktheidsuitkering, verhoogd met de eventuele suppletie krachtens de suppletieregeling en het arbeidsongeschiktheidspensioen van de rechthebbende overschrijdt.   
 4.  De berekeningsgrondslag voor het invaliditeitspensioen bedraagt niet minder dan € 17 034,25.   
 
 ### Artikel  8  
@@ -181,7 +181,7 @@ b. niet volledig arbeidsongeschikt is, en
 c. zijn resterende verdiencapaciteit volledig benut.     
 2.  De herplaatsingstoelage bedraagt het nadelig verschil tussen enerzijds de berekeningsgrondslag waarnaar het arbeidsongeschiktheidspensioen moet of zou moeten worden berekend en anderzijds het totaal van de daarmee overeenkomende inkomsten uit de nieuwe dienstbetrekking, de arbeidsongeschiktheidsuitkering en het arbeidsongeschiktheidspensioen.   
 3.  Bij herplaatsing in een dienstbetrekking op grond waarvan de gewezen beroepsmilitair deelnemer is krachtens het pensioenreglement, wordt bij de toepassing van het tweede lid als inkomsten uit de nieuwe dienstbetrekking aangemerkt het inkomen in de nieuwe dienstbetrekking, bedoeld in artikel 3.1. van het vorengenoemde pensioenreglement.   
-4.  De loonsuppletie, bedoeld in [artikel 32 van de Wet op de (re)integratie arbeidsgehandicapten](../../../../../../../../wet/wet/op/de/(re)integratie/arbeidsgehandicapten/BWBR0009565/README.md), wordt gerekend tot de in het tweede lid bedoelde inkomsten uit de nieuwe dienstbetrekking.   
+4.  De loonsuppletie, bedoeld in artikel 32 van de Wet op de (re)integratie arbeidsgehandicapten, wordt gerekend tot de in het tweede lid bedoelde inkomsten uit de nieuwe dienstbetrekking.   
 5.  Het recht op een herplaatsingstoelage vervalt met ingang van de eerste dag van de maand volgende op die waarin niet meer aan de voorwaarden voor de toekenning ervan wordt voldaan.   
 
 ### Paragraaf  3  
@@ -192,9 +192,9 @@ c. zijn resterende verdiencapaciteit volledig benut.
 
 ####Arbeidsongeschiktheidsverhoging
 
-1.  De dienstplichtige of reservist bij wie een bepaalde mate van arbeidsongeschiktheid met dienstverband is vastgesteld die is ontstaan in het met een ontslag als zodanig beëindigde tijdvak van zijn werkelijke dienst en die in verband met die beëindiging in het genot is van een uitkering ingevolge de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md) of een daarmee vergelijkbare andere wettelijke arbeidsongeschiktheidsuitkering, heeft recht op een verhoging van die uitkering tot een percentage van zijn berekeningsgrondslag van: bij een mate van arbeidsongeschiktheid van: 80% of meer: 90,02% 65 tot 80%: 73,31% 55 tot 65%: 56,59% 45 tot 55%: 45,01% 35 tot 45%: 34,08% 25 tot 35%: 22,50% 15 tot 25%: 15,00%   
+1.  De dienstplichtige of reservist bij wie een bepaalde mate van arbeidsongeschiktheid met dienstverband is vastgesteld die is ontstaan in het met een ontslag als zodanig beëindigde tijdvak van zijn werkelijke dienst en die in verband met die beëindiging in het genot is van een uitkering ingevolge de Wet arbeidsongeschiktheidsvoorziening militairen of een daarmee vergelijkbare andere wettelijke arbeidsongeschiktheidsuitkering, heeft recht op een verhoging van die uitkering tot een percentage van zijn berekeningsgrondslag van: bij een mate van arbeidsongeschiktheid van: 80% of meer: 90,02% 65 tot 80%: 73,31% 55 tot 65%: 56,59% 45 tot 55%: 45,01% 35 tot 45%: 34,08% 25 tot 35%: 22,50% 15 tot 25%: 15,00%   
 2.  De artikelen 4, 5 en 6 zijn op de in het eerste lid bedoelde verhoging van overeenkomstige toepassing.   
-3.  De in het eerste lid bedoelde verhoging behoort niet tot de inkomsten die ingevolge de kortingsbepalingen van de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md) of een daarmee vergelijkbare andere wettelijke regeling op een arbeidsongeschiktheidsuitkering kunnen worden gekort.   
+3.  De in het eerste lid bedoelde verhoging behoort niet tot de inkomsten die ingevolge de kortingsbepalingen van de Wet arbeidsongeschiktheidsvoorziening militairen of een daarmee vergelijkbare andere wettelijke regeling op een arbeidsongeschiktheidsuitkering kunnen worden gekort.   
 
 ### Artikel  11  
 
@@ -203,8 +203,8 @@ c. zijn resterende verdiencapaciteit volledig benut.
 1.  De dienstplichtige of reservist bij wie een bepaalde mate van invaliditeit met dienstverband is vastgesteld die is ontstaan in het met een ontslag als zodanig beëindigde tijdvak van zijn werkelijke dienst, heeft recht op een invaliditeitspensioen.   
 2.  De in het eerste lid bedoelde gewezen militair heeft naar de daartoe in artikel 8 neergelegde normen en voorwaarden recht op een bijzondere invaliditeitsverhoging.   
 3.  De in het eerste en tweede lid bedoelde rechten worden vastgesteld met overeenkomstige toepassing van artikel 7, eerste, tweede en vierde lid en artikel 8.   
-4.  Het invaliditeitspensioen voor de dienstplichtige of reservist wordt uitbetaald voor zover het de som van de aan dezelfde dienstverhouding te ontlenen uitkering ingevolge de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md) en de in artikel 10 bedoelde verhoging daarvan overschrijdt.   
-5.  Het in het eerste lid bedoelde invaliditeitspensioen behoort niet tot de inkomsten die ingevolge de kortingsbepalingen van de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md) of een daarmee vergelijkbare andere wettelijke regeling op een arbeidsongeschiktheidsuitkering kunnen worden gekort.   
+4.  Het invaliditeitspensioen voor de dienstplichtige of reservist wordt uitbetaald voor zover het de som van de aan dezelfde dienstverhouding te ontlenen uitkering ingevolge de Wet arbeidsongeschiktheidsvoorziening militairen en de in artikel 10 bedoelde verhoging daarvan overschrijdt.   
+5.  Het in het eerste lid bedoelde invaliditeitspensioen behoort niet tot de inkomsten die ingevolge de kortingsbepalingen van de Wet arbeidsongeschiktheidsvoorziening militairen of een daarmee vergelijkbare andere wettelijke regeling op een arbeidsongeschiktheidsuitkering kunnen worden gekort.   
 6.  Nadere voorschriften voor de vaststelling van de bij toepassing van dit artikel te hanteren berekeningsgrondslag worden neergelegd in een ministeriële regeling.   
 
 ### Paragraaf  4  
@@ -223,14 +223,14 @@ b. 4,5 procent van het totaalbedrag indien de te hanteren berekeningsgrondslag b
 
 c. voor zolang er recht bestaat op een invaliditeitspensioen, 4,5 procent van het totaalbedrag indien de te hanteren berekeningsgrondslag betrekking heeft op een tijdvak na 31 december 1994.     
 2.  De in het eerste lid bedoelde toeslag bedraagt ten hoogste 4,5 procent van € 37 571,59 onderscheidenlijk 15 procent van € 32 812,76.   
-3.  Voor de dienstplichtige of reservist wordt het bedrag van de uitkering ingevolge de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md) bij het in het eerste lid bedoelde totaalbedrag betrokken.   
+3.  Voor de dienstplichtige of reservist wordt het bedrag van de uitkering ingevolge de Wet arbeidsongeschiktheidsvoorziening militairen bij het in het eerste lid bedoelde totaalbedrag betrokken.   
 
 ### Artikel  13  
 
 ####Uitkering bij overlijden
 
 1.  Zo spoedig mogelijk na het overlijden van de rechthebbende op een pensioen, een pensioenverhoging of een herplaatsingtoelage wordt aan de partner van wie hij niet duurzaam gescheiden leefde een uitkering toegekend gelijk aan het totaal van de aanspraken op het overlijdensmoment over een tijdvak van twee maanden. Bij de vaststelling van de uitkering wordt artikel 3, achtste lid, niet toegepast. Een overlijdensuitkering op grond van het genot van de in dat lid bedoelde arbeidsongeschiktheidsuitkering wordt op het gevonden bedrag in mindering gebracht.   
-2.  Bij ontstentenis van een partner als bedoeld in het eerste lid komt de overlijdensuitkering toe aan de wezen die ingevolge het pensioenreglement of het [Besluit bijzondere militaire pensioenen](../../../../../../../../AMvB/besluit/bijzondere/militaire/pensioenen/BWBR0012222/README.md) aan het overlijden recht op wezenpensioen kunnen ontlenen.   
+2.  Bij ontstentenis van een partner als bedoeld in het eerste lid komt de overlijdensuitkering toe aan de wezen die ingevolge het pensioenreglement of het Besluit bijzondere militaire pensioenen aan het overlijden recht op wezenpensioen kunnen ontlenen.   
 3.  Bij ontstentenis van zowel een partner als bedoeld in het eerste lid, als van wezen, bedoeld in het tweede lid, geschiedt de overlijdensuitkering ten behoeve van de ouders, meerderjarige kinderen, broers of zusters, indien de overledene kostwinner was van de genoemde betrekkingen.   
 4.  Indien de overledene geen betrekkingen nalaat als bedoeld in de voorgaande leden, kan het bedrag van de overlijdensuitkering geheel of gedeeltelijk worden uitgekeerd voor de betaling van de kosten van de laatste ziekte en van de lijkbezorging, indien de nalatenschap van de overledene voor de betaling van die kosten ontoereikend is.   
 5.  Het eerste tot en met derde lid zijn van overeenkomstige toepassing in geval van vermissing van een rechthebbende.   
@@ -263,7 +263,7 @@ c. indien het onderzoek naar de mate van invaliditeit met dienstverband uitwijst
 
 ####Einde
 
-1.  De pensioenen, verhogingen en toelagen eindigen met het einde van de maand waarin de rechthebbende is overleden en uiterlijk op de eerste dag van de maand waarin de rechthebbende de leeftijd van 65 jaar bereikt.   
+1.  De pensioenen, verhogingen en toelagen eindigen met het einde van de maand waarin de rechthebbende is overleden en uiterlijk op de dag waarop de rechthebbende de leeftijd van 65 jaar bereikt.   
 2.  In afwijking van het eerste lid eindigen de pensioenen, verhogingen en toelagen bij vermissing op een door Onze Minister te bepalen dag.   
 3.  Indien de vermiste militair, wiens aanspraken op grond van het tweede lid zijn beëindigd, in leven blijkt te zijn, herleven die aanspraken met ingang van een door Onze Minister te bepalen dag.   
 
@@ -315,7 +315,7 @@ De betaling van de pensioenen, toeslagen, verhogingen en toelagen geschiedt in m
 
 9e De invaliditeit met dienstverband, vastgesteld krachtens een in artikel A 1, onder j, van de Algemene militaire pensioenwet genoemde vroegere militaire pensioenwet, zoals deze op de peildatum luidde en behorende bij een levenslang toegekend invaliditeitspensioen, wordt alleen op aanvraag van de belanghebbende en alleen in diens voordeel herzien.  
 
-10e De toeslag, bedoeld in [artikel 74, vijfde lid, van de Wet overheidspersoneel onder de werknemersverzekeringen](../../../../../../../../wet/wet/overheidspersoneel/onder/de/werknemersverzekeringen/BWBR0009267/README.md), wordt onder de daar aangegeven voorwaarden voortgezet.     
+10e De toeslag, bedoeld in artikel 74, vijfde lid, van de Wet overheidspersoneel onder de werknemersverzekeringen, wordt onder de daar aangegeven voorwaarden voortgezet.     
 
 ### Artikel  20  
 
@@ -332,7 +332,7 @@ De betaling van de pensioenen, toeslagen, verhogingen en toelagen geschiedt in m
 
 ####Voorzieningen en verstrekkingen
 
-In aanvulling op de bij of krachtens de [Wet op de (re)integratie arbeidsgehandicapten](../../../../../../../../wet/wet/op/de/(re)integratie/arbeidsgehandicapten/BWBR0009565/README.md), de [Wet maatschappelijke ondersteuning](../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) en de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) gestelde regels, kan Onze Minister ten behoeve van de beroepsmilitair, de dienstplichtige, de reservist en de militair met een recht of uitzicht op pensioen krachtens dit besluit, die lijdt aan een ziekte of gebrek waarvoor in de zin van artikel 2, derde lid, verband met de uitoefening van de militaire dienst is aangenomen, nadere en zonodig afwijkende regels stellen op grond waarvan genoemde militairen dan wel gewezen militairen in aanmerking kunnen worden gebracht voor, naar het oordeel van Onze Minister, noodzakelijke voorzieningen tot behoud of herstel van de arbeidsgeschiktheid of die de arbeidsgeschiktheid bevorderen, voorzieningen ter verbetering van de levensomstandigheden en geneeskundige verstrekkingen. De door Onze Minister krachtens dit artikel te stellen regels mogen niet afwijken ten nadele van de belanghebbenden.  
+In aanvulling op de bij of krachtens de Wet op de (re)integratie arbeidsgehandicapten, de Wet maatschappelijke ondersteuning en de Algemene Wet Bijzondere Ziektekosten gestelde regels, kan Onze Minister ten behoeve van de beroepsmilitair, de dienstplichtige, de reservist en de militair met een recht of uitzicht op pensioen krachtens dit besluit, die lijdt aan een ziekte of gebrek waarvoor in de zin van artikel 2, derde lid, verband met de uitoefening van de militaire dienst is aangenomen, nadere en zonodig afwijkende regels stellen op grond waarvan genoemde militairen dan wel gewezen militairen in aanmerking kunnen worden gebracht voor, naar het oordeel van Onze Minister, noodzakelijke voorzieningen tot behoud of herstel van de arbeidsgeschiktheid of die de arbeidsgeschiktheid bevorderen, voorzieningen ter verbetering van de levensomstandigheden en geneeskundige verstrekkingen. De door Onze Minister krachtens dit artikel te stellen regels mogen niet afwijken ten nadele van de belanghebbenden.  
 
 ### Paragraaf  7  
 

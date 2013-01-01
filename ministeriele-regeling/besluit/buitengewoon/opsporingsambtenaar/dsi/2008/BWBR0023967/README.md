@@ -10,9 +10,9 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. KLPD: Korps landelijke politiediensten;  
+a. Landelijke eenheid: de landelijke eenheid bedoeld in [artikel 25, eerste lid, onder b, van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
-b. DSI: Dienst Speciale Interventies als bedoeld in de Regeling bijzondere bijstandseenheden;  
+b. DSI: Dienst Speciale Interventies als bedoeld in de [Regeling Dienst speciale interventies](../../../../../../../ministeriele-regeling/regeling/dienst/speciale/interventies/BWBR0026381/README.md);  
 
 c. de buitengewoon opsporingsambtenaar: de buitengewoon opsporingsambtenaar te werk gesteld bij de DSI als bedoeld in artikel 2.    
 
@@ -33,13 +33,13 @@ Op grond van dit besluit kunnen maximaal 60 personen als buitengewoon opsporings
 ### Artikel  5  
 
 1.  Als toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de hoofdofficier van justitie bij het Landelijk Parket.   
-2.  Als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de korpschef van het KLPD.   
+2.  Als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de politiechef van de Landelijke eenheid.   
 
 ### Artikel  6  
 
-1.  De buitengewoon opsporingsambtenaar is bevoegd bij de opsporing van de in artikel 3, eerste lid, genoemde strafbare feiten gebruik te maken van de bevoegdheden, bedoeld in [artikel 8, eerste en derde lid, van de Politiewet 1993](../../../../../../../wet/politiewet/1993/BWBR0006299/README.md). Hij gedraagt zich overeenkomstig het bepaalde in [hoofdstuk 7 van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren](../../../../../../../AMvB/ambtsinstructie/voor/de/politie/de/koninklijke/marechaussee/en/andere/etc/BWBR0006589/README.md).   
-2.  De buitengewoon opsporingsambtenaar kan eerst gebruik maken van de bevoegdheden, bedoeld in [artikel 8, eerste en derde lid, van de Politiewet 1993](../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), nadat de direct toezichthouder heeft vastgesteld dat betrokkene beschikt over de vereiste bekwaamheid ten aanzien van het uitoefenen van deze bevoegdheden.   
-3.  De buitengewoon opsporingsambtenaar kan gedurende de uitoefening van zijn functie als buitengewoon opsporingsambtenaar gebruik maken van handboeien van een door de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Justitie goedgekeurd merk en type.   
+1.  De buitengewoon opsporingsambtenaar is bevoegd bij de opsporing van de in artikel 3, eerste lid, genoemde strafbare feiten gebruik te maken van de bevoegdheden, bedoeld in [artikel 7, eerste en derde lid, van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md). Hij gedraagt zich overeenkomstig het bepaalde in [hoofdstuk 7 van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren](../../../../../../../AMvB/ambtsinstructie/voor/de/politie/de/koninklijke/marechaussee/en/andere/etc/BWBR0006589/README.md).   
+2.  De buitengewoon opsporingsambtenaar kan eerst gebruik maken van de bevoegdheden, bedoeld in [artikel 7, eerste en derde lid, van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), nadat de direct toezichthouder heeft vastgesteld dat betrokkene beschikt over de vereiste bekwaamheid ten aanzien van het uitoefenen van deze bevoegdheden.   
+3.  De buitengewoon opsporingsambtenaar kan gedurende de uitoefening van zijn functie als buitengewoon opsporingsambtenaar gebruik maken van handboeien van een door de Minister van Veiligheid en Justitie goedgekeurd merk en type.   
 4.  De buitengewoon opsporingsambtenaar wordt daadwerkelijk uitgerust met handboeien nadat de direct toezichthouder heeft vastgesteld dat betrokkene beschikt over de vereiste bekwaamheid ten aanzien van het gebruik van en het omgaan met handboeien.   
 
 ### Artikel  7  
@@ -53,6 +53,10 @@ De op naam gestelde akten van opsporingsbevoegdheid en beëdiging en de overige 
 ### Artikel  9  
 
 De op naam gestelde akten van opsporingsbevoegdheid en beëdiging, legitimatiebewijzen en de overige benoemingsbescheiden afgegeven mede op basis van het in artikel 8 genoemde besluit, worden voor de duur van hun geldigheid of tot daarover nader zal zijn beslist, geacht te zijn akten, legitimatiebewijzen en overige benoemingsbescheiden afgegeven mede op basis van het onderhavige besluit.  
+
+### Artikel  9a  
+
+Dit besluit berust op [artikel 59, vierde lid, van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
 
 ### Artikel  10  
 

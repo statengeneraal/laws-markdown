@@ -7,11 +7,11 @@ Gelezen het verzoek van het hoofd van de afdeling Handhaving Natuur en Milieu va
 
 Gelet op:
 
-– [artikel 142, eerste lid, aanhef en onder b (en derde lid), van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
+– artikel 142, eerste lid, aanhef en onder b (en derde lid), van het Wetboek van Strafvordering;  
 
-– [artikel 36, eerste lid](../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md);  
+– artikel 36, eerste lid, en artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar;  
 
-– [artikel 17, eerste lid, aanhef en onder 2°, van de Wet op de economische delicten](../../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).     Besluit:    
+– artikel 17, eerste lid, aanhef en onder 2°, van de Wet op de economische delicten.     Besluit:    
 
 ### Artikel  1  
 
@@ -23,7 +23,7 @@ De personen, werkzaam in de functie van milieu opsporingsambtenaar in dienst van
 
 ### Artikel  3  
 
-1.  De in artikel 2 bedoelde ambtenaren zijn bevoegd tot het opsporen van de strafbare feiten behorend tot het domein II Milieu en Welzijn, van [bijlage A-I van de Circulaire Buitengewoon opsporingsambtenaar](../../../../../../../../../../circulaire/circulaire/buitengewoon/opsporingsambtenaar/BWBR0027483/README.md).   
+1.  De in artikel 2 bedoelde ambtenaren zijn bevoegd tot het opsporen van de strafbare feiten behorend tot het domein II Milieu en Welzijn, van bijlage A-I van de Circulaire Buitengewoon opsporingsambtenaar.   
 2.  De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.   
 3.  De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.   
 
@@ -33,8 +33,8 @@ Op grond van dit besluit kunnen maximaal 20 personen als buitengewoon opsporings
 
 ### Artikel  5  
 
-1.  Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de hoofdofficier van justitie bij het Functioneel Parket.   
-2.  Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de korpschef van de regiopolitie Zeeland.   
+1.  Als toezichthouder als bedoeld in artikel 36 van het Besluit buitengewoon opsporingsambtenaar is aangewezen de hoofdofficier van justitie bij het Functioneel Parket.   
+2.  Als direct toezichthouder als bedoeld in artikel 36 van het Besluit buitengewoon opsporingsambtenaar is aangewezen de korpschef, bedoeld in artikel 27 van de Politiewet 2012.   
 
 ### Artikel  6  
 
@@ -49,11 +49,11 @@ c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opspo
 
 ### Artikel  7  
 
-Het [Besluit buitengewoon opsporingsambtenaar milieu-opsporingsambtenaren in dienst van de provincie Zeeland 2005](../../../../../../../../../../ministeriele-regeling/besluit/buitengewoon/opsporingsambtenaar/milieu-opsporingsambtenaren/in/etc/BWBR0018828/README.md) van 5 oktober 2005, nr. 5378527/Justis/05, wordt ingetrokken.  
+Het Besluit buitengewoon opsporingsambtenaar milieu-opsporingsambtenaren in dienst van de provincie Zeeland 2005 van 5 oktober 2005, nr. 5378527/Justis/05, wordt ingetrokken.  
 
 ### Artikel  8  
 
-De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden afgegeven mede op basis van het in [artikel 7 genoemde besluit](../../../../../../../../../../ministeriele-regeling/besluit/buitengewoon/opsporingsambtenaar/milieu-opsporingsambtenaren/in/etc/BWBR0018828/README.md), worden geacht mede te zijn afgegeven op basis van dit besluit.  
+De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden afgegeven mede op basis van het in artikel 7 genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.  
 
 ### Artikel  9  
 

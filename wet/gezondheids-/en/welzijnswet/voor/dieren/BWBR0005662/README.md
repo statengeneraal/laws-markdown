@@ -881,103 +881,13 @@ b. de ondernemer ten behoeve van wiens bedrijf de officiële erkenning is verlee
 
 ####Algemene bepalingen
 
-### Artikel  81a  
-
-1.  In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder: 
-
-a. EG-verordening: verordening van de Raad van de Europese Unie of van het Europees Parlement en de Raad van de Europese Unie gezamenlijk, die geheel of gedeeltelijk berust op de artikelen 37, 95, 152, 153 of 175 van het Verdrag tot oprichting van de Europese Gemeenschap en waarin voorschriften zijn neergelegd ter zake van niet voor menselijke consumptie bestemde dierlijke bijproducten, of op die verordening gebaseerde EG-verordening van de Commissie van de Europese Gemeenschappen;  
-
-b. EG-richtlijn: richtlijn van de Raad van de Europese Unie of van het Europees Parlement en de Raad van de Europese Unie gezamenlijk, die geheel of gedeeltelijk berust op de artikelen 37, 95, 152, 153 of 175 van het Verdrag tot oprichting van de Europese Gemeenschap en waarin voorschriften zijn neergelegd ter zake van niet voor menselijke consumptie bestemde dierlijke bijproducten, of op die richtlijn gebaseerde EG-richtlijn van de Commissie van de Europese Gemeenschappen;  
-
-c. EG-beschikking: beschikking die gebaseerd is op een EG-verordening of EG-richtlijn.     
-2.  Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen gelden de begripsomschrijvingen zoals die zijn neergelegd in EG-verordeningen. Daar waar deze begripsbepalingen afwijken van de in artikel 1 van deze wet opgenomen begripsbepalingen, gelden de begripsbepalingen zoals die zijn neergelegd in EG-verordeningen.   
-
 ### Afdeling  2  
 
 ####Voorschriften ter uitvoering van Europese voorschriften
 
-### Artikel  81b  
-
-Het is verboden te handelen in strijd met bij ministeriële regeling aan te wijzen voorschriften van EG-verordeningen.  
-
-### Artikel  81c  
-
-1.  Bij ministeriële regeling kunnen regels worden gesteld voor een goede uitvoering van EG-verordeningen.   
-2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter implementatie van EG-richtlijnen.   
-3.  Bij ministeriële regeling kunnen regels worden gesteld ter implementatie van EG-beschikkingen.   
-4.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter implementatie van overeenkomsten betreffende niet voor menselijke consumptie bestemde dierlijke bijproducten tussen de Europese Gemeenschap en een of meer derde landen of internationale organisaties.   
-5.  De regels, bedoeld in het eerste tot en met vierde lid, kunnen betrekking hebben op: 
-
-a. het aanwijzen van een bevoegde autoriteit;  
-
-b. het verlenen, schorsen en intrekken van erkenningen en vergunningen;  
-
-c. het behandelen en gebruiken van dierlijke bijproducten en daarvan afgeleide producten;  
-
-d. het handelen in dierlijke bijproducten en daarvan afgeleide producten;  
-
-e. het uitvoeren van controles en inspecties waar dierlijke bijproducten en daarvan afgeleide producten aanwezig zijn of kunnen zijn.     
-
-### Artikel  81d  
-
-1.  Bij ministeriële regeling kunnen in aanvulling op de krachtens artikel 81c, eerste lid, gestelde regels, nadere voorschriften worden gesteld over de onderwerpen die zijn geregeld in de EG-verordeningen.   
-2.  Bij of krachtens algemene maatregel van bestuur kunnen in aanvulling op de krachtens artikel 81c, tweede en vierde lid, gestelde regels, nadere voorschriften worden gesteld over de onderwerpen waarop die regels betrekking hebben.   
-3.  Bij ministeriële regeling kunnen in aanvulling op de krachtens artikel 81c, derde lid, gestelde regels, nadere voorschriften worden gesteld over de onderwerpen waarop die regels betrekking hebben.   
-
 ### Afdeling  3  
 
 ####Overige voorschriften
-
-### Artikel  81e  
-
-In deze afdeling en de daarop berustende bepalingen wordt verstaan onder ondernemer: eigenaar of exploitant van een door Onze Minister erkend categorie 1-verwerkingsbedrijf of een categorie 2-verwerkingsbedrijf.  
-
-### Artikel  81f  
-
-1.  Onze Minister stelt met het oog op de doelmatige voorziening in de verwerking van categorie 1-materiaal of categorie 2-materiaal voor iedere ondernemer een werkgebied vast waarin deze met uitsluiting van andere ondernemers categorie 1-materiaal of categorie 2-materiaal of bepaalde soorten categorie 1-materiaal of categorie 2-materiaal verwerkt.   
-2.  Onze Minister kan: 
-
-a. een in het eerste lid bedoeld werkgebied vaststellen dat zich uitstrekt tot het grondgebied van een andere lidstaat van de Europese Unie of een gedeelte daarvan, indien daarover overeenstemming bestaat met de desbetreffende lidstaat, en  
-
-b. een in het eerste lid bedoeld werkgebied vaststellen voor een categorie 1-verwerkingsbedrijf of categorie 2-verwerkingsbedrijf dat is gevestigd in een andere lidstaat van de Europese Unie en is erkend door de bevoegde autoriteit van die lidstaat.     
-3.  Indien aan een in het tweede lid, onderdeel b, bedoeld categorie 1-verwerkingsbedrijf of categorie 2-verwerkingsbedrijf een werkgebied binnen Nederland is toegewezen, zijn de artikelen 81g, 81h en 81i van overeenkomstige toepassing.   
-4.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de toepassing, vaststelling of wijziging van werkgebieden.   
-5.  Bij of krachtens algemene maatregel van bestuur kunnen in afwijking van het eerste lid tijdelijk regels worden gesteld met betrekking tot situaties waarin de ondernemer als gevolg van overmacht niet in staat is het categorie 1-materiaal of categorie 2-materiaal te verwerken. Deze regels zijn van toepassing zolang de situatie dit vereist.   
-
-### Artikel  81g  
-
-1.  De eigenaar of houder van door Onze Minister aan te wijzen categorie 1-materiaal of categorie 2-materiaal geeft dit materiaal aan bij, houdt het ter beschikking van en staat het af aan de ondernemer binnen wiens werkgebied het materiaal zich bevindt.   
-2.  De ondernemer haalt het bij hem aangegeven categorie 1-materiaal en categorie 2-materiaal op en verwerkt het.   
-3.  Het eerste en tweede lid zijn niet van toepassing op dode gezelschapsdieren en categorie 1-materiaal en categorie 2-materiaal dat als gevolg van contact met of beïnvloeding anderszins door splijtstoffen, ertsen, radioactieve stoffen of ioniserende stralen uitzendende toestellen zodanig is bestraald of besmet dat het een gevaar vormt voor de volksgezondheid.   
-4.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van de in het eerste en tweede lid gestelde verplichtingen.   
-5.  De eigenaar of houder van categorie 3-materiaal bewaart het materiaal overeenkomstig bij ministeriële regeling vast te stellen regels.   
-
-### Artikel  81h  
-
-1.  Bij gemeentelijke verordening worden ten aanzien van dode gezelschapsdieren regels gesteld ter zake van: 
-
-a. het aangeven en bewaren door de eigenaar of houder van dode gezelschapsdieren;  
-
-b. het ophalen van dode gezelschapsdieren;  
-
-c. het overdragen van dode gezelschapsdieren aan de ondernemer binnen wiens werkgebied het materiaal zich bevindt.     
-2.  Indien tussen een gemeente en de in het eerste lid, onderdeel c, bedoelde ondernemer een overeenkomst is gesloten omtrent de in het eerste lid, onderdelen b en c, genoemde onderwerpen, behoeft de gemeentelijke verordening geen voorschriften over die onderwerpen te bevatten.   
-3.  De ondernemer verwerkt de aan hem overgedragen dode gezelschapsdieren.   
-4.  De in het eerste lid bedoelde voorschriften en het derde lid zijn niet van toepassing indien dode gezelschapsdieren worden verwerkt of verwijderd op een wijze die ingevolge de krachtens artikel 81c gestelde voorschriften is toegestaan, niet zijnde de wijze waarop de ondernemer de dode gezelschapsdieren verwerkt.   
-5.  Onze Minister kan het eerste, tweede en derde lid van overeenkomstige toepassing verklaren op soorten categorie 1-materiaal, niet zijnde dode gezelschapsdieren, of categorie 2-materiaal.   
-
-### Artikel  81i  
-
-1.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de vergoeding die een ondernemer voor het ophalen, vervoeren, verwerken of verwijderen van categorie 1-materiaal of categorie 2-materiaal in rekening brengt aan een natuurlijk persoon of rechtspersoon die categorie 1-materiaal of categorie 2-materiaal aanbiedt.   
-2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot een door de ondernemer te betalen vergoeding voor de huiden van eenhoevige en herkauwende dieren aan de eigenaar of houder die categorie 1-materiaal of categorie 2-materiaal aanbiedt.   
-
-### Artikel  81j  
-
-[Hoofdstuk 19 van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is van overeenkomstige toepassing op het verlenen, wijzigen en intrekken van erkenningen krachtens artikel 81c.  
-
-### Artikel  81k  
-
-Voorschriften die krachtens dit hoofdstuk worden gesteld, gewijzigd of ingetrokken, en tevens in het belang zijn van de volksgezondheid, worden genomen in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport.  
 
 ### Hoofdstuk  VIIb  
 
@@ -987,52 +897,9 @@ Voorschriften die krachtens dit hoofdstuk worden gesteld, gewijzigd of ingetrokk
 
 ####Algemene bepalingen
 
-### Artikel  81l  
-
-1.  In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder: 
-
-a. EG-verordening: verordening van de Raad van de Europese Unie of van het Europees Parlement en de Raad van de Europese Unie gezamenlijk, die geheel of gedeeltelijk berust op de artikelen 95 of 133 van het Verdrag tot oprichting van de Europese Gemeenschap en waarin voorschriften zijn neergelegd ter zake van honden- en kattenbont en producten die dergelijk bont bevatten;  
-
-b. EG-richtlijn: richtlijn van de Raad van de Europese Unie of van het Europees Parlement en de Raad van de Europese Unie gezamenlijk, die geheel of gedeeltelijk berust op de artikelen 95 of 133 van het Verdrag tot oprichting van de Europese Gemeenschap en waarin voorschriften zijn neergelegd ter zake van honden- en kattenbont en producten die dergelijk bont bevatten;  
-
-c. EG-beschikking: beschikking die gebaseerd is op een EG verordening of EG-richtlijn.     
-2.  Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen gelden de begripsomschrijvingen zoals die zijn neergelegd in EG-verordeningen. Daar waar deze begripsbepalingen afwijken van de in artikel 1 van deze wet opgenomen begripsbepalingen, gelden de begripsbepalingen zoals die zijn neergelegd in EG-verordeningen.   
-
 ### Afdeling  2  
 
 ####Voorschriften ter uitvoering van Europese voorschriften
-
-### Artikel  81m  
-
-Het is verboden te handelen in strijd met bij ministeriële regeling aan te wijzen voorschriften van EG-verordeningen.  
-
-### Artikel  81n  
-
-1.  Bij ministeriële regeling kunnen regels worden gesteld voor een goede uitvoering van EG-verordeningen.   
-2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter implementatie van EG-richtlijnen.   
-3.  Bij ministeriële regeling kunnen regels worden gesteld ter implementatie van EG-beschikkingen.   
-4.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter implementatie van overeenkomsten betreffende honden- en kattenbont en producten die dergelijk bont bevatten tussen de Europese Gemeenschap en een of meer derde landen of internationale organisaties.   
-5.  De regels, bedoeld in het eerste tot en met vierde lid, kunnen betrekking hebben op: 
-
-a. het aanwijzen van een bevoegde autoriteit;  
-
-b. het verlenen, schorsen en intrekken van erkenningen en vergunningen;  
-
-c. het behandelen en gebruiken van honden- en kattenbont en producten die dergelijk bont bevatten;  
-
-d. de productie van honden- en kattenbont en producten die dergelijk bont bevatten;  
-
-e. het handelen in honden- en kattenbont en producten die dergelijk bont bevatten;  
-
-f. het in en buiten Nederland brengen van honden- en kattenbont en producten die dergelijk bont bevatten;  
-
-g. het uitvoeren van controles en inspecties waar honden- en kattenbont en producten die dergelijk bont bevatten aanwezig zijn of kunnen zijn.     
-
-### Artikel  81o  
-
-1.  Bij ministeriële regeling kunnen in aanvulling op de krachtens artikel 81n, eerste lid, gestelde regels, nadere voorschriften worden gesteld over de onderwerpen die zijn geregeld in de EG-verordeningen.   
-2.  Bij of krachtens algemene maatregel van bestuur kunnen in aanvulling op de krachtens artikel 81n, tweede en vierde lid, gestelde regels, nadere voorschriften worden gesteld over de onderwerpen waarop die regels betrekking hebben.   
-3.  Bij ministeriële regeling kunnen in aanvulling op de krachtens artikel 81n, derde lid, gestelde regels, nadere voorschriften worden gesteld over de onderwerpen waarop die regels betrekking hebben.   
 
 ### Hoofdstuk  VIII  
 
@@ -1478,12 +1345,6 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 2.  De [artikelen 1, onderdeel b](../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md), [2](../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md), [3 tot en met 6](../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md), [15 tot en met 44, eerste lid](../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) en [46 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) zijn van overeenkomstige toepassing, met dien verstande dat de in [artikel 46](../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) genoemde instemming dient te worden verkregen van Onze Minister.   
 3.  Onverminderd artikel 114, eerste lid, kan bij algemene maatregel van bestuur, dan wel bij ministeriële regeling, worden bepaald dat met het toezicht op de naleving van de nadere regels waarvoor tuchtrechtelijke maatregelen zijn of worden opgelegd, de bij besluit van het betrokken bedrijfslichaam of samenwerkingslichaam aangewezen personen zijn belast. Dit besluit behoeft de goedkeuring van Onze Minister. Onze Minister kan het betrokken bedrijfslichaam of samenwerkingslichaam een aanwijzing geven omtrent het aanwijzen van toezichthouders en de wijze waarop toezicht wordt uitgeoefend.   
 
-### Artikel  109  
-
-1.  Tegen een op grond van deze wet genomen besluit, met uitzondering van een besluit als bedoeld in artikel 120b, eerste lid, kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.   
-2.  In afwijking van het eerste lid staat tegen een op grond van hoofdstuk VIIa genomen besluit voor een belanghebbende beroep open overeenkomstig [hoofdstuk 20 van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
-3.  In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten als bedoeld in artikel 120b, eerste lid, de rechtbank te Rotterdam bevoegd.   
-
 ### Artikel  110  
 
 1.  De algemene maatregelen van bestuur, bedoeld in de artikelen 1, tweede lid; 15, eerste lid, onderdeel e; 33, eerste lid; 34, eerste en tweede lid; 35, eerste lid; 38; 39; 40, tweede lid, onderdeel c, en derde lid; 42; 43; 44, eerste en negende lid; 45, eerste en derde lid; 46, eerste lid; 50, tweede lid; 52, eerste lid; 53; 54; 55, eerste, tweede en derde lid; 56; 59a, tweede en vierde lid; 59b, tweede lid; 61, tweede en derde lid; 65; 68; 69, tweede lid; 70; 76, eerste lid, 91a, tweede lid, 91d, tweede lid, 91e, tweede en derde lid, 91h, tweede lid, 91i, tweede lid, 92, tweede lid, 92a, tweede lid, alsmede 96 worden aan beide Kamers der Staten-Generaal overgelegd. Binnen 30 dagen na de overlegging kan door ten minste een vijfde van het grondwettelijk aantal leden van één der Kamers de wens te kennen worden gegeven dat de inwerkingtreding bij wet zal worden geregeld. Indien zodanige wens te kennen wordt gegeven, dienen Wij zo spoedig mogelijk een desbetreffend wetsvoorstel in.   
@@ -1662,6 +1523,11 @@ i. de [Wet houdende vaststelling van minimumeisen voor het houden van legkippen]
 2.  Het gestelde in artikel 41 is niet van toepassing ten aanzien van dieren die geboren zijn voor de eerste dag van de maand volgend op de datum van inwerkingtreding van dat artikel.   
 3.  Ten aanzien van zaken betreffende overtredingen van ingevolge artikel 124 vervallen en ingevolge artikel 129 ingetrokken voorschriften die op het tijdstip van vervallen en intrekking bij de tot dat tijdstip bevoegde rechter aanhangig waren blijft deze rechter bevoegd. Ook in hoger beroep dat in de zaken bedoeld in de vorige volzin wordt ingesteld, blijft de rechter bevoegd die tot het daar bedoelde tijdstip bevoegd was van dat beroep kennis te nemen.   
 4.  De in het derde lid bedoelde zaken worden, onverminderd [artikel 1, tweede lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), afgedaan volgens de tot het in het derde lid bedoelde tijdstip geldende regelen.   
+
+### Artikel  130a  
+
+1.  De verschillende artikelen van deze wet, of onderdelen daarvan, komen te vervallen op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden bepaald.   
+2.  Op het in het eerste lid bedoelde tijdstip vervallen in de [artikelen 1](../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) en [1a van de Wet op de economische delicten](../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) de verwijzingen naar de betrokken artikelen of onderdelen.   
 
 ### Artikel  131  
 

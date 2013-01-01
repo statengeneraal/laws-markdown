@@ -24,7 +24,7 @@ Hebben goedgevonden en verstaan:
 
 a. bevoegd gezag: het bevoegd gezag, bedoeld in [artikel 1, eerste lid, onderdeel l, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
 
-b. betrokkene: de ambtenaar, bedoeld in [artikel 1, eerste lid, onderdeel i, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), die als gevolg van ontslag verleend op grond van de [artikelen 89, eerste tot en met het vierde lid en zesde lid](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), [90, eerste en derde tot en met elfde lid](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), [91, eerste lid](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), [92](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), of  [94, eerste lid, onderdelen e, f of g, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) werkloos is geworden in de zin van de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+b. betrokkene: de ambtenaar, bedoeld in [artikel 1, eerste lid, onderdeel i, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), die als gevolg van ontslag verleend op grond van de [artikelen 89, eerste tot en met het vierde lid en zesde lid](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), [90, eerste, tweede en achtste lid](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), [91, eerste lid](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), [92](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), of  [94, eerste lid, onderdelen e, f of g, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) werkloos is geworden in de zin van de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
 
 c. aanvullende uitkering: de aanvullende uitkering bedoeld in hoofdstuk 2;  
 
@@ -226,7 +226,7 @@ Het bevoegd gezag kan de betrokkene op zijn aanvraag tegemoetkomen in de pensioe
 
 ####Doorwerking wettelijke mutaties
 
-Indien het niveau van de WW-uitkering een algemene verlaging ondergaat, wordt deze verlaging, behoudens indien Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties met de Commissie voor georganiseerd overleg in politie-ambtenarenzaken, bedoeld in [artikel 2 van het Besluit overleg en medezeggenschap politie 1994](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), overeenstemming bereikt binnen de looptijd van het vigerende arbeidsvoorwaardenakkoord, op overeenkomstige wijze doorgevoerd ten aanzien van het totaal aan wettelijke en bovenwettelijke aanspraken van de betrokkene, vanaf de in het Staatsblad vermelde datum van inwerkingtreding van bedoelde verlaging, doch niet eerder dan de eerste dag na de einddatum van het vigerende arbeidsvoorwaardenakkoord.  
+Indien het niveau van de WW-uitkering een algemene verlaging ondergaat, wordt deze verlaging, behoudens indien Onze Minister van Veiligheid en Justitie met de Commissie voor georganiseerd overleg in politie-ambtenarenzaken, bedoeld in [artikel 2 van het Besluit overleg en medezeggenschap politie 1994](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), overeenstemming bereikt binnen de looptijd van het vigerende arbeidsvoorwaardenakkoord, op overeenkomstige wijze doorgevoerd ten aanzien van het totaal aan wettelijke en bovenwettelijke aanspraken van de betrokkene, vanaf de in het Staatsblad vermelde datum van inwerkingtreding van bedoelde verlaging, doch niet eerder dan de eerste dag na de einddatum van het vigerende arbeidsvoorwaardenakkoord.  
 
 ### Artikel  19  
 
@@ -284,6 +284,10 @@ De artikelen 2 en 8 van dit besluit zoals deze luidden op 31 december 2004 blijv
 ### Artikel  26c  
 
 De artikelen 2, 4 en 9 van dit besluit zoals deze luidden op 31 december 2010, blijven van toepassing op de betrokkene van wie de eerste werkloosheidsdag is gelegen voor 1 januari 2011.  
+
+### Artikel  26d  
+
+Dit besluit berust op de [artikelen 47, eerste lid, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md) en [artikel 10, vijfde lid, van de Wet op het LSOP en het politieonderwijs](../../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md).  
 
 ### Artikel  27  
 

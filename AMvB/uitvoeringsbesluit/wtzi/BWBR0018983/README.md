@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 27 september 2004, kenmerk Z/PB-2519449;
 
-Gelet op de [artikelen 1, tweede en derde lid](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), [5, eerste, tweede en derde lid](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), [6](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), [7, derde lid, onder c](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), [9, eerste lid, onder b](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), [16](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) en [17, vierde lid, van de Wet toelating zorginstellingen](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md);
+Gelet op de artikelen 1, tweede en derde lid, 5, eerste, tweede en derde lid, 6, 7, derde lid, onder c, 9, eerste lid, onder b, 16 en 17, vierde lid, van de Wet toelating zorginstellingen;
 
 De Raad van State gehoord (advies van 23 november 2004, nr. W13.04.0473/III);
 
@@ -20,15 +20,15 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt, tenzij anders bepaald, verstaan onder: 
 
-a. de wet: de [Wet toelating zorginstellingen](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md);  
+a. de wet: de Wet toelating zorginstellingen;  
 
-b. AWBZ-verblijf: het verblijf, omschreven in [artikel 9 van het Besluit zorgaanspraken AWBZ](../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md);  
+b. AWBZ-verblijf: het verblijf, omschreven in artikel 9 van het Besluit zorgaanspraken AWBZ;  
 
-c. Zvw-verblijf: het verblijf, omschreven in [artikel 2.10 van het Besluit zorgverzekering](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md).    
+c. Zvw-verblijf: het verblijf, omschreven in artikel 2.10 van het Besluit zorgverzekering.    
 
 ### Artikel  1.2  
 
-Voor de toepassing van [artikel 5, eerste lid, van de wet](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) worden de volgende categorieën van instellingen aangewezen: 
+Voor de toepassing van artikel 5, eerste lid, van de wet worden de volgende categorieën van instellingen aangewezen: 
 
 1. instellingen voor medisch-specialistische zorg;  
 
@@ -68,7 +68,7 @@ Voor de toepassing van [artikel 5, eerste lid, van de wet](../../../../wet/wet/t
 
 19. begeleiding;  
 
-20.  vervallen;   
+20. ADL-assistentie;  
 
 21. behandeling, anders dan bedoeld onder nummer 14;  
 
@@ -85,23 +85,23 @@ Voor de toepassing van [artikel 5, eerste lid, van de wet](../../../../wet/wet/t
 ### Artikel  2.1  
 
 1.  Niet tot de in artikel 1.2 genoemde instellingen behoren militaire instellingen als ziekenboegen, gezondheidscentra en operationeel geneeskundige instellingen.   
-2.  Op de instellingen, genoemd in artikel 1.2, onder nummer 1, voor zover het betreft militaire ziekenhuizen en militaire revalidatiecentra, zijn de [artikelen 7, derde lid, onder c](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), [9, eerste lid, onder b](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), en [13, eerste lid, eerste volzin, van de wet](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) niet van toepassing.   
+2.  Op de instellingen, genoemd in artikel 1.2, onder nummer 1, voor zover het betreft militaire ziekenhuizen en militaire revalidatiecentra, zijn de artikelen 7, derde lid, onder c, 9, eerste lid, onder b, en 13, eerste lid, eerste volzin, van de wet niet van toepassing.   
 3.  Op de instellingen, genoemd in artikel 1.2, onder nummer 1, voor zover het betreft academische ziekenhuizen, zijn de artikelen 6.1 en 6.2 van dit besluit niet van toepassing.   
 4.  Artikel 6.1 is uitsluitend van toepassing op: 
 
 a. de instellingen, bedoeld in het vijfde lid, met uitzondering van academische ziekenhuizen, en  
 
-b. op overige instellingen wanneer daarop [artikel 2, eerste lid, van de Wet op de ondernemingsraden](../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) van toepassing is.     
-5.  De [artikelen 15](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) en [16 van de wet](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) zijn uitsluitend van toepassing op de instellingen, bedoeld in artikel 1.2, onder de nummers 1, 17, 18, 19, en 21.   
-6.  [Artikel 18 van de wet](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) is uitsluitend van toepassing op: 
+b. op overige instellingen wanneer daarop artikel 2, eerste lid, van de Wet op de ondernemingsraden van toepassing is.     
+5.  De artikelen 15 en 16 van de wet zijn uitsluitend van toepassing op de instellingen, bedoeld in artikel 1.2, onder de nummers 1, 17, 18, 19, en 21.   
+6.  Artikel 18 van de wet is uitsluitend van toepassing op: 
 
 a. de instellingen, bedoeld in artikel 1.2, nummer 1, 
 
 – die zorg verlenen in combinatie met Zvw-verblijf;  
 
-– voor welke zorg op grond van de [Wet marktordening gezondheidszorg](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) een tarief is vastgesteld; en  
+– voor welke zorg op grond van de Wet marktordening gezondheidszorg een tarief is vastgesteld; en  
 
-– welke zorg behoort tot de ingevolge de [Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) te verzekeren prestaties,   een en ander met uitzondering van militaire instellingen;  
+– welke zorg behoort tot de ingevolge de Zorgverzekeringswet te verzekeren prestaties,   een en ander met uitzondering van militaire instellingen;  
 
 b. AWBZ-instellingen die een of meer vormen van zorg verlenen als bedoeld in artikel 1.2, nummers 17 tot en met 21, in combinatie met AWBZ-verblijf, in verband met: 
 
@@ -116,7 +116,7 @@ b. AWBZ-instellingen die een of meer vormen van zorg verlenen als bedoeld in art
 5°. een zintuigelijke handicap;    
 
 c. AWBZ-instellingen die zorg verlenen als bedoeld in artikel 1.2, nummer 17 of 19, in combinatie met AWBZ-verblijf, in verband met een psychiatrische aandoening.     
-7.  In afwijking van het zesde lid geldt [artikel 18 van de wet](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) niet voor kleinschalige woonvoorzieningen, zijnde instellingen of delen daarvan waar de desbetreffende zorg wordt verleend: 
+7.  In afwijking van het zesde lid geldt artikel 18 van de wet niet voor kleinschalige woonvoorzieningen, zijnde instellingen of delen daarvan waar de desbetreffende zorg wordt verleend: 
 
 1°. uitsluitend aan personen in verband met een psychiatrische aandoening, gepaard gaande met een beschermende woonomgeving, en 
 
@@ -136,11 +136,11 @@ c. AWBZ-instellingen die zorg verlenen als bedoeld in artikel 1.2, nummer 17 of 
 
 ### Artikel  2.2  
 
-De instellingen, genoemd in artikel 1.2, onder de nummers 5 tot en met 14 en 24 worden voor de toepassing van [artikel 5, eerste lid, van de wet](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) aangemerkt als in het bezit van een toelating.  
+De instellingen, genoemd in artikel 1.2, onder de nummers 5 tot en met 14, 20 en 24 worden voor de toepassing van artikel 5, eerste lid, van de wet aangemerkt als in het bezit van een toelating.  
 
 ### Artikel  2.3  
 
-[Artikel 5 van de Wet toelating zorginstellingen](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) is niet van toepassing voor zover een instelling forensische zorg verleent als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](../../../../AMvB/interimbesluit/forensische/zorg/BWBR0029333/README.md).  
+Artikel 5 van de Wet toelating zorginstellingen is niet van toepassing voor zover een instelling forensische zorg verleent als bedoeld in artikel 2 van het Interimbesluit forensische zorg.  
 
 ### Hoofdstuk  III  
 
@@ -168,11 +168,13 @@ De aanvraag aan Onze Minister om een toelating wordt ingediend onder gebruikmaki
 
 ### Artikel  4.2  
 
-Een aanvraag als bedoeld in [artikel 5, eerste lid, van de wet](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), waarop Onze Minister beslist met toepassing van [artikel 9 van de wet](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), gaat vergezeld van de zienswijze van de zorgverzekeraars als bedoeld in [artikel 1, eerste lid, onder b, van de Algemene Wet Bijzondere Ziektekosten](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), voor zover deze verplicht zijn met de desbetreffende instelling een overeenkomst te sluiten.  
+Een aanvraag als bedoeld in artikel 5, eerste lid, van de wet, waarop Onze Minister beslist met toepassing van artikel 9 van de wet, gaat vergezeld van de zienswijze van de zorgverzekeraars als bedoeld in artikel 1, eerste lid, onder b, van de Algemene Wet Bijzondere Ziektekosten, voor zover deze verplicht zijn met de desbetreffende instelling een overeenkomst te sluiten.  
 
 ### Hoofdstuk  V  
 
 ####Bouw
+
+Vervallen per 22-04-2009   
 
 ### Hoofdstuk  VI  
 
@@ -195,7 +197,7 @@ c. de instelling legt inzichtelijk de verantwoordelijkheidsverdeling tussen het 
 
 ### Artikel  6.2  
 
-Indien de instelling de rechtsvorm van stichting of vereniging als bedoeld in [artikel 344 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) heeft, kent zij in de statuten aan een orgaan dat de cliënten van de instelling vertegenwoordigt, de in [artikel 346, onder c, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) bedoelde bevoegdheid toe tot het indienen van een verzoek als bedoeld in [artikel 345 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). De instelling kan die bevoegdheid daarnaast ook aan anderen toekennen.  
+Indien de instelling de rechtsvorm van stichting of vereniging als bedoeld in artikel 344 van Boek 2 van het Burgerlijk Wetboek heeft, kent zij in de statuten aan een orgaan dat de cliënten van de instelling vertegenwoordigt, de in artikel 346, onder c, van Boek 2 van het Burgerlijk Wetboek bedoelde bevoegdheid toe tot het indienen van een verzoek als bedoeld in artikel 345 van Boek 2 van het Burgerlijk Wetboek. De instelling kan die bevoegdheid daarnaast ook aan anderen toekennen.  
 
 ### §  2  
 
@@ -220,7 +222,7 @@ In de financiële administratie van de instelling zijn ontvangsten en betalingen
 
 ### Artikel  7.1  
 
-Dit hoofdstuk heeft betrekking op de in [artikel 16 van de wet](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) bedoelde gegevens van de in artikel 2.1, vijfde lid, bedoelde instellingen, voor zover die betreffen: 
+Dit hoofdstuk heeft betrekking op de in artikel 16 van de wet bedoelde gegevens van de in artikel 2.1, vijfde lid, bedoelde instellingen, voor zover die betreffen: 
 
 – de structuur van de instellingen;  
 
@@ -259,17 +261,11 @@ Onze Minister stelt regels omtrent de wijze van vergoeding van de kosten, verbon
 
 ### Artikel  8.1  
 
-In dit hoofdstuk wordt verstaan onder sanering: het geheel van de maatregelen die worden genomen: 
-
-1°. op grond van een besluit als bedoeld in [artikel 17, eerste lid, van de wet](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md);  
-
-2°. ter uitvoering van een beslissing als bedoeld in [artikel 18 van de wet](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), of  
-
-3°. op grond van een besluit als bedoeld in [artikel 12a, onder a en b, van de Wet ambulancevervoer](../../../../wet/wet/ambulancevervoer/BWBR0002757/README.md).    
+In dit hoofdstuk wordt verstaan onder sanering: het geheel van de maatregelen die worden genomen op grond van een besluit als bedoeld in artikel 17, eerste lid, van de wet of ter uitvoering van een beslissing als bedoeld in artikel 18 van de wet.  
 
 ### Artikel  8.2  
 
-1.  De financiële gevolgen van sanering, bedoeld in [artikel 17, eerste lid, van de wet](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) bestaan uit het verschil tussen de door het College sanering aanvaardbaar geachte lasten terzake van de sanering en de door het College sanering vastgestelde opbrengsten daarvan. Het College sanering stelt het verschil niet vast dan nadat de liquidatiebegroting is geverifieerd door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+1.  De financiële gevolgen van sanering, bedoeld in artikel 17, eerste lid, van de wet bestaan uit het verschil tussen de door het College sanering aanvaardbaar geachte lasten terzake van de sanering en de door het College sanering vastgestelde opbrengsten daarvan. Het College sanering stelt het verschil niet vast dan nadat de liquidatiebegroting is geverifieerd door een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.   
 2.  Bij het vaststellen van de lasten terzake van sanering neemt het College sanering in beschouwing: 
 
 a. onderbezettingsverliezen;  
@@ -281,35 +277,30 @@ c. uitkeringen aan personen die krachtens overeenkomst met de instelling voor ei
 d. boekverliezen als gevolg van de vervreemding van zaken;  
 
 e. andere uitgaven ten behoeve van de sanering.     
-3.  Voor de toepassing van het tweede lid blijven buiten beschouwing lasten die in aanmerking zijn genomen of kunnen worden genomen bij de vaststelling van een tarief als bedoeld in de [Wet marktordening gezondheidszorg](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).   
-4.  Bij het vaststellen van de opbrengsten van sanering neemt het College sanering in beschouwing de opbrengsten van vermogensbestanddelen die als gevolg van de sanering niet meer bij de instelling in gebruik zullen zijn, met uitzondering van de vermogensbestanddelen die naar het oordeel van het College sanering, gelet op hun herkomst en bestemming, behoren te worden uitgezonderd, alsmede opbrengsten die in aanmerking zijn genomen of kunnen worden genomen bij de vaststelling van een tarief als bedoeld in de [Wet marktordening gezondheidszorg](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).   
+3.  Voor de toepassing van het tweede lid blijven buiten beschouwing lasten die in aanmerking zijn genomen of kunnen worden genomen bij de vaststelling van een tarief als bedoeld in de Wet marktordening gezondheidszorg.   
+4.  Bij het vaststellen van de opbrengsten van sanering neemt het College sanering in beschouwing de opbrengsten van vermogensbestanddelen die als gevolg van de sanering niet meer bij de instelling in gebruik zullen zijn, met uitzondering van de vermogensbestanddelen die naar het oordeel van het College sanering, gelet op hun herkomst en bestemming, behoren te worden uitgezonderd, alsmede opbrengsten die in aanmerking zijn genomen of kunnen worden genomen bij de vaststelling van een tarief als bedoeld in de Wet marktordening gezondheidszorg.   
 5.  Het College sanering kan nadere regels stellen terzake van de lasten en opbrengsten bedoeld in de voorgaande leden.   
 
 ### Artikel  8.3  
 
 1.  Het College sanering kan ten behoeve van de sanering en het toezicht daarop een gemachtigde aanwijzen.   
-2.  De gemachtigde is onder verantwoordelijkheid van het College sanering belast met het toezicht op de naleving van de bij of krachtens [artikel 17 van de wet](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) gestelde regels.   
+2.  De gemachtigde is onder verantwoordelijkheid van het College sanering belast met het toezicht op de naleving van de bij of krachtens artikel 17 van de wet gestelde regels.   
 
 ### Artikel  8.4  
 
 1.  De instelling is verplicht aan het College sanering de gegevens en bescheiden te verstrekken die het in verband met de sanering nodig acht.   
 2.  Het College sanering kan nadere regels stellen terzake van het verstrekken van de gegevens en bescheiden bedoeld in het vorige lid.   
-3.  Het College sanering kan de instelling verplichtingen opleggen als bedoeld in [artikel 4:38 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+3.  Het College sanering kan de instelling verplichtingen opleggen als bedoeld in artikel 4:38 van de Algemene wet bestuursrecht.   
 
 ### Artikel  8.5  
 
 1.  Het College sanering kan de instelling aanwijzingen geven ten behoeve van het goede verloop van de sanering.   
 2.  De instelling is verplicht uitvoering te geven aan aanwijzingen als bedoeld in het eerste lid.   
 
-### Artikel  8.7  
-
-1.  De artikelen 8.2 tot en met 8.5, met uitzondering van artikel 8.2, tweede lid, onder c, zijn van overeenkomstige toepassing ten aanzien van de financiële gevolgen van sanering als bedoeld in [artikel 12a van de Wet ambulancevervoer](../../../../wet/wet/ambulancevervoer/BWBR0002757/README.md).   
-2.  De subsidieverlening in het kader van het eerste lid kan worden geweigerd indien de aanvraag wordt gedaan nadat met de sanering een aanvang is gemaakt.   
-
 ### Artikel  8.8  
 
-1.  Het [Besluit sanering instellingen voor gezondheidszorg](../../../../AMvB/besluit/sanering/instellingen/voor/gezondheidszorg/BWBR0011192/README.md) wordt ingetrokken.   
-2.  Na de inwerkingtreding van dit artikel berusten de regels ter uitvoering van het [Besluit sanering instellingen voor gezondheidszorg](../../../../AMvB/besluit/sanering/instellingen/voor/gezondheidszorg/BWBR0011192/README.md) op de overeenkomstige bepalingen van dit hoofdstuk.   
+1.  Het Besluit sanering instellingen voor gezondheidszorg wordt ingetrokken.   
+2.  Na de inwerkingtreding van dit artikel berusten de regels ter uitvoering van het Besluit sanering instellingen voor gezondheidszorg op de overeenkomstige bepalingen van dit hoofdstuk.   
 
 ### Hoofdstuk  IX  
 
@@ -317,7 +308,7 @@ e. andere uitgaven ten behoeve van de sanering.
 
 ### Artikel  9.1  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet toelating zorginstellingen](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de Wet toelating zorginstellingen in werking treedt.  
 
 ### Artikel  9.2  
 

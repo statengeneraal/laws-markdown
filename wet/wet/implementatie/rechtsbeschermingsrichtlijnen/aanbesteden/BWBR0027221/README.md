@@ -186,10 +186,6 @@ e. voor zover van toepassing alle andere informatie die de aanbestedende dienst 
 
 Indien de aanbestedende dienst, bedoeld in artikel 14, eerste lid, de Nederlandse Mededingingsautoriteit is, worden de bevoegdheden van de artikelen 14 tot en met 16 uitgeoefend door Onze Minister van Economische Zaken, Landbouw en Innovatie.  
 
-### Artikel  18  
-
-In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten op grond van de artikel 14 de rechtbank te Rotterdam bevoegd.  
-
 ### Artikel  19  
 
 Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.   

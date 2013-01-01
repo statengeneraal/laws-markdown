@@ -10,9 +10,9 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. Minister: de Minister van Binnenlandse Zaken en Koninkrijksrelaties  
+a. Minister: de Minister van Veiligheid en Justitie  
 
-b. Ministerie: het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;  
+b. Ministerie: het Ministerie van Veiligheid en Justitie;  
 
 c. commissie: commissie, bedoeld in artikel 2.    
 

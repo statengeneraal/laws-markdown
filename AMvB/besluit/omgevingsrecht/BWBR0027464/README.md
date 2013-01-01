@@ -26,15 +26,19 @@ Hebben goedgevonden en verstaan:
 
 *adviseur:* bij of krachtens [artikel 2.26 van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) aangewezen bestuursorgaan of andere instantie;  
 
+*BBT-conclusies:* document met de conclusies over beste beschikbare technieken, vastgesteld overeenkomstig artikel 13, vijfde lid en zevende lid, van de EU-richtlijn industriële emissies;  
+
 *bijlage:* bij dit besluit behorende bijlage;  
 
 *de betrokken wetten:* de [wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), de in [artikel 5.1 van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) genoemde wetten voor zover in die wetten de [artikelen 5.3 tot en met 5.9 van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing zijn verklaard, alsmede de EG-verordening overbrenging van afvalstoffen, de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen en de EG-verordening PRTR;  
+
+*EU-richtlijn industriële emissies:* Richtlijn 2010/75/EU van het Europees Parlement en de Raad van 24 november 2010 inzake industriële emissies (geïntegreerde preventie en bestrijding van verontreiniging) (herschikking) (PbEU L 334);  
 
 *landelijke voorziening:* landelijke voorziening, bedoeld in [artikel 7.6, eerste lid, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
 
 *wet:*[Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).     
 2.  In dit besluit en de daarop berustende bepalingen wordt, behoudens voor zover daarin gesproken wordt van strafrechtelijke handhaving, onder «handhaving» verstaan bestuursrechtelijke handhaving van het bij of krachtens de betrokken wetten bepaalde.   
-3.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder onderscheidenlijk afvalstoffen, afvalwater, EG-verordening overbrenging van afvalstoffen, EG-richtlijn inzake geïntegreerde preventie en bestrijding van verontreiniging, EG-verordening registratie, evaluatie en autorisatie van chemische stoffen, EG-verordening PRTR, doelmatig beheer van afvalstoffen, emissie, emissiegrenswaarde, inspecteur, de kaderrichtlijn water, preparaten en stoffen, hetgeen daaronder wordt verstaan in [artikel 1.1 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+3.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder onderscheidenlijk afvalstoffen, afvalwater, doelmatig beheer van afvalstoffen, EG-verordening overbrenging van afvalstoffen, EG-verordening PRTR, EG-verordening registratie, evaluatie en autorisatie van chemische stoffen, emissie, emissiegrenswaarde, hergebruik, inspecteur, kaderrichtlijn water, nuttige toepassing, preparaten, recycling, stoffen en verwijdering, hetgeen daaronder wordt verstaan in [artikel 1.1 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
 
 ### Hoofdstuk  2  
 
@@ -49,7 +53,7 @@ Hebben goedgevonden en verstaan:
 ####Inrichting
 
 1.  Als categorieën inrichtingen als bedoeld in [artikel 1.1, derde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) worden aangewezen de categorieën inrichtingen in bijlage I, onderdeel B, en onderdeel C.   
-2.  Als categorieën vergunningplichtige inrichtingen worden aangewezen de categorieën inrichtingen waartoe een gpbv-installatie behoort en de categorieën inrichtingen die als zodanig zijn aangewezen in bijlage I, onderdeel B, en onderdeel C.   
+2.  Als categorieën vergunningplichtige inrichtingen worden aangewezen de categorieën inrichtingen waartoe een IPPC-installatie behoort en de categorieën inrichtingen die als zodanig zijn aangewezen in bijlage I, onderdeel B, en onderdeel C.   
 3.  Als categorieën inrichtingen als bedoeld in [artikel 41, derde lid, van de Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md), die in belangrijke mate geluidhinder kunnen veroorzaken, worden aangewezen de categorieën inrichtingen in bijlage I, onderdeel D.   
 4.  In afwijking van het eerste lid heeft de aanwijzing geen betrekking op inrichtingen voor de uitoefening van detailhandel, voor zover die aanwijzing uitsluitend zou gelden omdat in de inrichting stoffen, preparaten of andere producten worden op- of overgeslagen, die zijn genoemd in bijlage I, onderdeel C, onder de categorieën 4.1, onder b tot en met f, 6.1, 8.1, 9.1, 11.1, met uitzondering van asbest en asbesthoudende producten, 12.1, 15 of 16.1.   
 
@@ -70,35 +74,64 @@ b. het in gebruik nemen of gebruiken van een bouwwerk waarin dagverblijf zal wor
 
 ### Artikel  2.2a  
 
-Als categorieën activiteiten als bedoeld in [artikel 2.1, eerste lid, onder i, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), voor zover deze plaatsvinden binnen een inrichting als bedoeld in [artikel 1.1, derde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), niet zijnde een inrichting waarin zich een gpbv-installatie bevindt, worden aangewezen: 
+####Activiteiten die van invloed kunnen zijn op de fysieke leefomgeving
 
-a. de activiteit, bedoeld in categorie 22.2 van onderdeel D van de [bijlage bij het Besluit milieueffectrapportage](../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md), met dien verstande dat deze aanwijzing niet van toepassing is in de gevallen waarin [artikel 7.18 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is;  
+1.  Als categorieën activiteiten als bedoeld in [artikel 2.1, eerste lid, onder i, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), voor zover deze plaatsvinden binnen een inrichting als bedoeld in [artikel 1.1, derde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), niet zijnde een inrichting waarin zich een gpbv-installatie bevindt, worden aangewezen: 
 
-b. de activiteit, bedoeld in categorie 18.4 van onderdeel D van de [bijlage bij het Besluit milieueffectrapportage](../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md), met dien verstande dat deze aanwijzing niet van toepassing is in de gevallen waarin [artikel 7.18 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is;  
+a. de activiteit, bedoeld in categorie 18.4, 22.2, 32.1, 32.2, 32.3, 32.7, 32.8, 35, 36, 37.1, 37.2, 38.1, 38.2 en 38.3 van onderdeel D van de [bijlage bij het Besluit milieueffectrapportage](../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md), met dien verstande dat deze aanwijzing niet van toepassing is in de gevallen waarin [artikel 7.18 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is;  
 
-c. de activiteit, bedoeld in de categorieën 18.8, 32.1, 32.2, 32.3 en 32.7 van onderdeel D van de [bijlage bij het Besluit milieueffectrapportage](../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md), met dien verstande dat deze aanwijzing niet van toepassing is in de gevallen waarin [artikel 7.18 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is;  
+b. de activiteit, bedoeld in categorie 18.8 van onderdeel D van de [bijlage bij het Besluit milieueffectrapportage](../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md), met dien verstande dat deze aanwijzing niet van toepassing is in de gevallen waarin [artikel 7.18 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is;  
 
-d. het oprichten, het veranderen of veranderen van de werking of het in werking hebben van inrichtingen als bedoeld in categorie 27.3 van onderdeel C van bijlage I;  
+c. de activiteit, bedoeld in categorie 14, van onderdeel D van de [bijlage bij het Besluit milieueffectrapportage](../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md), in de gevallen waarin ten minste 51 en ten hoogste 100 paarden of pony’s, behorend tot de diercategorieën genoemd in kolom 2, onder 12°, van categorie 14, worden gehouden, waarbij het aantal bijbehorende dieren in opfok jonger dan drie jaar niet wordt meegeteld, met dien verstande dat deze aanwijzing niet van toepassing is in de gevallen waarin [artikel 7.18 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is;  
 
-e. het opslaan, verdichten, herverpakken, verkleinen en ontwateren van afvalstoffen voor zover daarmee uitvoering wordt gegeven aan [titel 10.4 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en voor zover deze activiteiten zijn gericht op de verwijdering van afvalstoffen;  
+d. de activiteit, bedoeld in categorie 14, van onderdeel D van de [bijlage bij het Besluit milieueffectrapportage](../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md), in de gevallen waarin ten minste 51 en ten hoogste 2.000 schapen of geiten, behorend tot de diercategorieën genoemd in kolom 2, onder 11°, van categorie14, worden gehouden, met dien verstande dat deze aanwijzing niet van toepassing is in de gevallen waarin [artikel 7.18 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is;  
 
-f. het opslaan van afvalstoffen van de gezondheidszorg bij mens en dier en van gebruikte hygiënische producten, afkomstig van buiten de inrichting;  
+e. de activiteit, bedoeld in categorie 14, van onderdeel D van de [bijlage bij het Besluit milieueffectrapportage](../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md), in de gevallen waarin ten minste 2.500 en ten hoogste 40.000 stuks pluimvee behorend tot de diercategorieën genoemd in kolom 2, onder 1°, van categorie 14, worden gehouden, met dien verstande dat deze aanwijzing niet van toepassing is in de gevallen waarin [artikel 7.18 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is;  
 
-g. het opslaan van ten hoogste 10.000 ton van buiten de inrichting afkomstige afvalstoffen, zijnde banden van voertuigen;  
+f. de activiteit, bedoeld in categorie 14, van onderdeel D van de [bijlage bij het Besluit milieueffectrapportage](../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md), in de gevallen waarin ten minste 51 en ten hoogste 2000 mestvarkens behorend tot de diercategorieën genoemd in kolom 2, onder 2°, van categorie 14, worden gehouden, met dien verstande dat deze aanwijzing niet van toepassing is in de gevallen waarin [artikel 7.18 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is;  
 
-h. het demonteren van autowrakken als bedoeld in [artikel 1.1, eerste lid, van het Besluit algemene regels voor inrichtingen milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), anders dan de activiteiten met autowrakken als bedoeld in [artikel 4.84, tweede lid, van dat besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md);  
+g. de activiteit, bedoeld in categorie 14, van onderdeel D van de [bijlage bij het Besluit milieueffectrapportage](../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md), in de gevallen waarin ten minste 51 en ten hoogste 750 zeugen behorend tot de diercategorieën genoemd in kolom 2, onder 3°, van categorie 14, worden gehouden, met dien verstande dat deze aanwijzing niet van toepassing is in de gevallen waarin [artikel 7.18 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is;  
 
-i. het opslaan van ten hoogste 50.000 ton van buiten de inrichting afkomstige afvalstoffen, zijnde metaal, voor zover geen sprake is van gevaarlijke afvalstoffen;  
+h. de activiteit, bedoeld in categorie 14, van onderdeel D, van de [bijlage bij het Besluit milieueffectrapportage](../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md), in de gevallen waarin ten minste 500 en ten hoogste 3.750 gespeende biggen behorend tot de diercategorieën genoemd in kolom 2, onder 4°, van categorie 14, worden gehouden, met dien verstande dat deze aanwijzing niet van toepassing is in de gevallen waarin [artikel 7.18 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is;  
 
-j. het opslaan van buiten de inrichting afkomstige afvalstoffen, zijnde metalen met aanhangende olie of emulsie en het afscheiden van de oliefractie met een maximale opslagcapaciteit van 50 ton voor de afgescheiden oliefractie;  
+i. de activiteit, bedoeld in categorie 14, van onderdeel D van de [bijlage bij het Besluit milieueffectrapportage](../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md), in de gevallen waarin ten minste 51 en ten hoogste 1.200 vleesrunderen, behorend tot de diercategorieën genoemd in kolom 2, onder 10°, van categorie 14, worden gehouden, met dien verstande dat deze aanwijzing niet van toepassing is in de gevallen waarin [artikel 7.18 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is.     
+2.  Als categorieën activiteiten als bedoeld in [artikel 2.1, eerste lid, onder i, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), voor zover deze plaatsvinden binnen een inrichting als bedoeld in [artikel 1.1, derde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), niet zijnde een inrichting waarin zich een gpbv-installatie bevindt, worden tevens aangewezen: 
 
-k. het opbulken van grond die afkomstig is van buiten de inrichting van de klasse wonen en de klasse industrie, baggerspecie van klasse A of B en grond of baggerspecie als bedoeld in [artikel 39 van het Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), met een capaciteit voor de opslag van grond en baggerspecie van ten minste 25 kubieke meter en ten hoogste 10.000 kubieke meter;  
+a. het opslaan, verdichten, herverpakken, verkleinen en ontwateren van afvalstoffen voor zover daarmee uitvoering wordt gegeven aan [titel 10.4 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en voor zover deze activiteiten zijn gericht op de verwijdering van afvalstoffen;  
 
-l. het opslaan en opbulken van ten hoogste 10.000 ton kunststofafval, ingezameld bij of afgegeven door een andere persoon dan degene die de inrichting drijft, voor zover er geen sprake is van: 
+b. het opslaan van afvalstoffen van de gezondheidszorg bij mens en dier en van gebruikte hygiënische producten, afkomstig van buiten de inrichting;  
 
-a. kunststof dat binnen de inrichting geschikt wordt gemaakt voor materiaalhergebruik, en  
+c. het opslaan van ten hoogste 10.000 ton van buiten de inrichting afkomstige afvalstoffen, zijnde banden van voertuigen;  
 
-b. activiteiten waarmee uitvoering wordt gegeven aan [titel 10.4 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).      
+d. het demonteren van autowrakken als bedoeld in [artikel 1.1, eerste lid, van het Besluit algemene regels voor inrichtingen milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), anders dan de activiteiten met autowrakken, bedoeld in [artikel 4.84, tweede lid, van dat besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md);  
+
+e. het opslaan en opbulken van ten hoogste 10.000 ton kunststofafval, ingezameld bij of afgegeven door een andere persoon dan degene die de inrichting drijft, voor zover er geen sprake is van: 
+
+1°. kunststof die binnen de inrichting geschikt wordt gemaakt voor materiaalhergebruik, en  
+
+2°. activiteiten waarmee uitvoering wordt gegeven aan [titel 10.4 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md);    
+
+f. het mengen van afvalstoffen voor het vervaardigen van betonmortel of betonwaren binnen een inrichting als bedoeld in categorie 11.1, onder b, van onderdeel C van bijlage I.     
+3.  Als categorie activiteiten als bedoeld in [artikel 2.1, eerste lid, onder i, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), voor zover deze plaatsvinden binnen een inrichting als bedoeld in [artikel 1.1, derde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), niet zijnde een inrichting waarin zich een gpbv-installatie bevindt, wordt tevens aangewezen: 
+
+a. het oprichten, het veranderen of veranderen van de werking of het in werking hebben van inrichtingen als bedoeld in categorie 27.3 van onderdeel C van bijlage I;  
+
+b. het oprichten, het veranderen of veranderen van de werking of het inwerking hebben van een inrichting als bedoeld in categorie 11.3, onder c, onder 2° en 3°, van onderdeel C van bijlage I.     
+4.  Als categorie activiteiten als bedoeld in [artikel 2.1, eerste lid, onder i, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), voor zover deze plaatsvinden binnen een inrichting als bedoeld in [artikel 1.1, derde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), niet zijnde een inrichting waarin zich een IPPC-installatie bevindt, wordt tevens aangewezen: het opbulken van grond die afkomstig is van buiten de inrichting van de klasse wonen en de klasse industrie, baggerspecie van klasse A of B en grond of baggerspecie als bedoeld in [artikel 39 van het Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), voor zover het betreft een inrichting met een capaciteit voor de opslag van grond en baggerspecie van ten minste 25 kubieke meter en ten hoogste 10.000 kubieke meter.   
+5.  Als categorieën activiteiten als bedoeld in [artikel 2.1, eerste lid, onder i, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), voor zover deze plaatsvinden binnen een inrichting als bedoeld in artikel 1.1, derde lid, van de Wet milieubeheer, niet zijnde een inrichting als bedoeld in [artikel 1.1, derde lid, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), wordt tevens aangewezen: 
+
+a. het oprichten of wijzigen van een dierenverblijf voor het houden van landbouwhuisdieren of het uitbreiden van het aantal landbouwhuisdieren in een of meer diercategorieën als bedoeld in de regeling op grond van [artikel 1 van de Wet ammoniak en veehouderij](../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md) voor zover sprake is van het houden van: 
+
+1°. ten minste 500 en ten hoogste 1.200 vleesrunderen behorend tot de diercategorieën A4 tot en met A7;  
+
+2°. ten minste 3.000 stuks pluimvee behorend tot de diercategorieën E1 tot en met E5, F1 tot en met F4, G1, G2 en J1;  
+
+3°. ten minste 900 varkens behorend tot de diercategorieën D1 tot en met D3, of  
+
+4°. ten minste 1.500 stuks pluimvee behorend tot de diercategorieën E1 tot en met E5, F1 tot en met F4, G1, G2 en J1, 500 gespeende biggen behorend tot de diercategorie D.1.1, of 500 landbouwhuisdieren anders dan pluimvee en gespeende biggen indien binnen de inrichting landbouwhuisdieren van meer dan een hoofdcategorie als bedoeld in de regeling op grond van [artikel 1 van de Wet ammoniak en veehouderij](../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md) worden gehouden;    
+
+b. het vervaardigen van betonmortel en de daarbij behorende op- en overslag van grind, zand, cement en vulstof, het vervaardigen en bewerken van betonproducten met behulp van persen, triltafels of bekistingstrillers met een capaciteit ten aanzien daarvan van 100.000 kg per dag of meer en het breken van restproducten ten behoeve van de vervaardiging van betonmortel.     
+6.  Als categorie activiteiten als bedoeld in [artikel 2.1, eerste lid, onder i, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), voor zover deze plaatsvinden binnen een inrichting als bedoeld in [artikel 1.1, derde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), wordt tevens aangewezen: het verwerken van polyesterhars.   
 
 ### §  2.2  
 
@@ -116,7 +149,12 @@ b. activiteiten waarmee uitvoering wordt gegeven aan [titel 10.4 van de Wet mili
 ####Veranderen van een inrichting
 
 1.  In afwijking van [artikel 2.1, eerste lid, aanhef en onder e, onder 2°, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is geen omgevingsvergunning vereist met betrekking tot veranderingen van de inrichting of van de werking daarvan die in overeenstemming zijn met de voor de inrichting verleende vergunning en de daaraan verbonden voorschriften.   
-2.  In afwijking van [artikel 2.1, eerste lid, aanhef en onder e, onder 2°, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is geen omgevingsvergunning vereist met betrekking tot veranderingen van de inrichting of van de werking daarvan voor zover die geen betrekking hebben op een gpbv-installatie of voor zover daarop [hoofdstuk 3 van het Besluit algemene regels voor inrichtingen milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) of het [Besluit mestbassins milieubeheer](../../../../AMvB/besluit/mestbassins/milieubeheer/BWBR0004990/README.md) van toepassing is.   
+2.  In afwijking van [artikel 2.1, eerste lid, aanhef en onder e, onder 2°, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is geen omgevingsvergunning vereist met betrekking tot veranderingen van de inrichting of van de werking daarvan voor zover: 
+
+a. die veranderingen geen betrekking hebben op een IPPC-installatie, behoudens wanneer het betreft een installatie die betrekking heeft op het aantal dierplaatsen, en  
+
+b. op die veranderingen [hoofdstuk 3, behoudens paragraaf 3.5.8, van het Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) van toepassing is.     
+3.  In afwijking van [artikel 2.1, eerste lid, aanhef en onder e, onder 2°, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is geen omgevingsvergunning vereist met betrekking tot veranderingen van de inrichting of van de werking daarvan voor zover die activiteiten betreffen die zijn aangewezen op grond van artikel 2.2a en waarop [hoofdstuk 3 van het Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), tenzij het betreft een activiteit die is aangewezen in bijlage I, onderdeel C, categorie 1.4, van toepassing is.   
 
 ### Artikel  2.5  
 
@@ -178,7 +216,7 @@ b. [artikel 2.1, eerste lid, onder c](../../../../wet/wet/algemene/bepalingen/om
 
 ####Inrichting en mijnbouwwerk
 
-1.  Gedeputeerde staten van de provincie waar het betrokken project in hoofdzaak zal worden of wordt uitgevoerd, zijn bevoegd te beslissen op een aanvraag die betrekking heeft op activiteiten met betrekking tot een inrichting die behoort tot een categorie ten aanzien waarvan dat in bijlage I, onderdeel C, is bepaald. De eerste volzin geldt slechts voor activiteiten met betrekking tot een inrichting waartoe een gpbv-installatie behoort of waarop het [Besluit risico’s zware ongevallen 1999](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) van toepassing is.   
+1.  Gedeputeerde staten van de provincie waar het betrokken project in hoofdzaak zal worden of wordt uitgevoerd, zijn bevoegd te beslissen op een aanvraag die betrekking heeft op activiteiten met betrekking tot een inrichting die behoort tot een categorie ten aanzien waarvan dat in bijlage I, onderdeel C, is bepaald. De eerste volzin geldt slechts voor activiteiten met betrekking tot een inrichting waartoe een IPPC-installatie behoort of waarop het [Besluit risico’s zware ongevallen 1999](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) van toepassing is.   
 2.  Onze Minister is bevoegd te beslissen op een aanvraag die betrekking heeft op activiteiten met betrekking tot een inrichting als bedoeld in categorie 29 van bijlage I, onderdeel C.   
 3.  Onze Minister van Verkeer en Waterstaat is bevoegd, in overeenstemming met Onze Minister, te beslissen op een aanvraag die betrekking heeft op activiteiten met betrekking tot een inrichting die behoort tot een categorie die in bijlage I, onderdeel C, is aangewezen en die geheel of in hoofdzaak zal zijn of is gelegen op of in de territoriale zee op een plaats die niet deel uitmaakt van een gemeente of provincie, tenzij het vierde lid van toepassing is.   
 4.  Onze Minister van Economische Zaken is bevoegd te beslissen op een aanvraag die betrekking heeft op: 
@@ -189,7 +227,7 @@ b. mijnbouwwerken, niet zijnde inrichtingen.
 
 ### Artikel  3.3a  
 
-Gedeputeerde staten van de provincie waarin het betrokken project in hoofdzaak zal worden of wordt uitgevoerd, zijn bevoegd te beslissen op een aanvraag om een omgevingsvergunning die betrekking heeft op activiteiten met betrekking tot een inrichting type B of C als bedoeld in het [Besluit algemene regels voor inrichtingen milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), voor zover dit een inrichting is als bedoeld in categorie 28.4 of 28.5 van bijlage 1, onderdeel C, en voor die activiteiten op grond van artikel 2.2a een omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder i, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), is vereist.  
+Gedeputeerde staten van de provincie waarin het betrokken project in hoofdzaak zal worden of wordt uitgevoerd, zijn bevoegd te beslissen op een aanvraag om een omgevingsvergunning die betrekking heeft op activiteiten met betrekking tot een inrichting type B of C als bedoeld in het [Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), voor zover dit een inrichting is als bedoeld in categorie 28.4 of 28.5 van bijlage 1, onderdeel C, en voor die activiteiten op grond van artikel 2.2a een omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder i, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), is vereist.  
 
 ### Artikel  3.4  
 
@@ -297,6 +335,12 @@ e. het beoogde tijdstip dat de omgevingsvergunning zal gaan gelden voor de onder
 
 Bij ministeriële regeling kunnen regels worden gesteld omtrent het heffen van rechten als bedoeld in [artikel 2.9 van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), in gevallen waarin een Onzer ministers bevoegd gezag is.  
 
+### Artikel  4.10  
+
+####(vrijstelling heffing rechten voor aanvraag omgevingsvergunning voor activiteiten als bedoeld in [artikel 2.1, eerste lid, onder i, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md))
+
+Als categorieën gevallen als bedoeld in [artikel 2.9a, eerste lid, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) worden aangewezen de activiteiten, bedoeld in artikel 2.2a.  
+
 ### Hoofdstuk  5  
 
 ####De inhoud van de omgevingsvergunning
@@ -341,19 +385,22 @@ c. de activiteit die tot bodemverstoring leidt, te laten begeleiden door een des
 
 ### Artikel  5.3  
 
-####Beste beschikbare technieken
+####Begripsbepaling
 
-Voor zover de aanvraag betrekking heeft op een activiteit als bedoeld in [artikel 2.1, eerste lid, onder e, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), worden in het belang van het bereiken van een hoog niveau van bescherming van het milieu aan de vergunning voorschriften verbonden die nodig zijn om de nadelige gevolgen die de inrichting voor het milieu kan veroorzaken, te voorkomen of, indien dat niet mogelijk is, zoveel mogelijk – bij voorkeur aan de bron – te beperken of ongedaan te maken. Daarbij wordt ervan uitgegaan dat in de inrichting ten minste de voor de inrichting in aanmerking komende beste beschikbare technieken worden toegepast.  
+1.  Deze subparagraaf heeft betrekking op een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder e, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   
+2.  In deze paragraaf wordt onder bevoegd gezag verstaan: bestuursorgaan dat bevoegd is tot het nemen van een besluit ten aanzien van een aanvraag om een omgevingsvergunning of ten aanzien van een al verleende omgevingsvergunning, dan wel, in gevallen waarin een vergunning krachtens [artikel 6.2 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md) is aangevraagd, bestuursorgaan dat bevoegd is die vergunning te verlenen.   
 
 ### Artikel  5.4  
 
 ####Bepalen van de beste beschikbare technieken
 
-1.  Voor zover de aanvraag betrekking heeft op een activiteit als bedoeld in [artikel 2.1, eerste lid, onder e, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), betrekt het bevoegd gezag, dan wel, in gevallen waarin een vergunning krachtens [artikel 6.2 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md) is aangevraagd, het bestuursorgaan dat bevoegd is die vergunning te verlenen, bij de bepaling van de voor een inrichting, onderscheidenlijk met betrekking tot een lozing in aanmerking komende beste beschikbare technieken, rekening houdend met de voorzienbare kosten en baten van maatregelen, en met het voorzorg- en het preventiebeginsel: 
+1.  Het bevoegd gezag houdt bij de bepaling van de voor een inrichting of met betrekking tot een lozing in aanmerking komende beste beschikbare technieken rekening met BBT-conclusies en bij ministeriële regeling aangewezen informatiedocumenten over beste beschikbare technieken.   
+2.  Indien op een activiteit of op een type productieproces binnen de inrichting, waarvoor een vergunning is aangevraagd, geen BBT-conclusies of informatiedocumenten als bedoeld in het eerste lid van toepassing zijn, of indien de van toepassing zijnde BBT-conclusies of informatiedocumenten niet alle mogelijke milieueffecten van de activiteit of het proces behandelen, stelt het bevoegd gezag de beste beschikbare technieken vast.   
+3.  Bij het vaststellen van de beste beschikbare technieken houdt het bevoegd gezag in ieder geval rekening met: 
 
 a. de toepassing van technieken die weinig afvalstoffen veroorzaken;  
 
-b. de toepassing van minder gevaarlijke stoffen;  
+b. de toepassing van stoffen die minder gevaarlijk zijn dan stoffen of mengsels als omschreven in artikel 3 van de EG-verordening indeling, etiketteringenverpakkingvanstoffenenmengsels;.  
 
 c. de ontwikkeling, waar mogelijk, van technieken voor de terugwinning en het opnieuw gebruiken van de bij de processen in de inrichting uitgestoten en gebruikte stoffen en van afvalstoffen;  
 
@@ -372,35 +419,48 @@ i. het verbruik en de aard van de grondstoffen, met inbegrip van water, en de en
 j. de noodzaak om het algemene effect van de emissies op en de risico’s voor het milieu te voorkomen of tot een minimum te beperken;  
 
 k. de noodzaak ongevallen te voorkomen en de gevolgen daarvan voor het milieu te beperken.     
-2.  Het bevoegd gezag houdt bij de bepaling van de voor een inrichting of met betrekking tot een lozing in aanmerking komende beste beschikbare technieken rekening met bij ministeriële regeling aangewezen: 
+4.  Bij regeling van Onze Minister worden nadere regels gesteld omtrent de wijze waarop aan dit artikel uitvoering wordt gegeven.   
 
-a. documenten waarin door de Commissie van de Europese Gemeenschappen krachtens artikel 17, tweede lid, van de EG-richtlijn inzake geïntegreerde preventie en bestrijding van verontreiniging bekendgemaakte informatie met betrekking tot de bepaling van beste beschikbare technieken is opgenomen;  
+### Artikel  5.4a  
 
-b. door andere internationale organisaties bekendgemaakte informatie met betrekking tot de bepaling van beste beschikbare technieken;  
+####Geologische opslag van kooldioxide
 
-c. andere informatie met betrekking tot de bepaling van die technieken.     
+1.  Voor zover de aanvraag om een omgevingsvergunning betrekking heeft op een stookinstallatie met een nominaal elektrisch vermogen van 300 MW of meer, beoordeelt het bevoegd gezag of het afvangen en comprimeren van kooldioxide en het transporteren daarvan naar een geschikte opslaglocatie in technisch en economisch opzicht haalbaar is. Bij de beoordeling worden de belangen van de bescherming van het milieu en de volksgezondheid in acht genomen.   
+2.  Indien het bevoegd gezag van oordeel is dat het afvangen, comprimeren en transporteren van kooldioxide haalbaar is, verbindt het aan de vergunning het voorschrift dat binnen de inrichting geschikte ruimte wordt vrijgemaakt of vrijgehouden om kooldioxide af te vangen, te comprimeren en te transporteren.   
 
 ### Artikel  5.5  
 
 ####Doelvoorschriften
 
-1.  De voorschriften die aan een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder e, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), worden verbonden, geven de doeleinden aan die de vergunninghouder in het belang van de bescherming van het milieu dient te verwezenlijken op een door hem te bepalen wijze.   
-2.  Bij de voorschriften worden emissiegrenswaarden gesteld voor stoffen of voor daarbij aan te wijzen groepen, families of categorieën stoffen – in het bijzonder die, genoemd in bijlage III bij de EG-richtlijn inzake geïntegreerde preventie en bestrijding van verontreiniging –, die in aanmerkelijke hoeveelheden uit de inrichting kunnen vrijkomen en die direct of door overdracht tussen water, lucht en bodem nadelige gevolgen voor het milieu kunnen veroorzaken.   
-3.  Bij het vaststellen van de emissiegrenswaarden wordt uitgegaan van de emissies op het punt waar zij de bron, in voorkomend geval na reiniging, verlaten, tenzij dat redelijkerwijs niet mogelijk is. De emissiegrenswaarden worden vastgesteld zonder rekening te houden met een mogelijke verdunning. Bij het vaststellen van emissiegrenswaarden voor afvalwater dat in een voorziening voor de inzameling en het transport van afvalwater wordt gebracht, kan rekening worden gehouden met het effect van een zuiveringstechnisch werk waarop die voorziening is aangesloten, voor zover daarvan geen nadeliger gevolgen voor het milieu zijn te verwachten en voldaan wordt aan de bepalingen die gelden ter uitvoering van richtlijn nr. 2006/11/EG van het Europees Parlement en de Raad van de Europese Gemeenschappen van 15 februari 2006 betreffende de verontreiniging veroorzaakt door bepaalde gevaarlijke stoffen die in het aquatisch milieu van de Gemeenschap worden geloosd (PbEU L 64), en de in bijlage IX bij de kaderrichtlijn water genoemde richtlijnen.   
-4.  Voor zover aan een omgevingsvergunning voor een inrichting voorschriften met betrekking tot een gpbv-installatie worden verbonden als bedoeld in het eerste en tweede lid, worden daaraan in ieder geval ook voorschriften verbonden, inhoudende dat: 
+1.  De voorschriften die aan een omgevingsvergunning worden verbonden, geven de doeleinden aan die de vergunninghouder in het belang van de bescherming van het milieu dient te verwezenlijken op een door hem te bepalen wijze.   
+2.  Bij de voorschriften worden emissiegrenswaarden gesteld voor de stoffen, genoemd in bijlage II bij de EU-richtlijn industriële emissies, en voor andere stoffen die in aanmerkelijke hoeveelheden uit de inrichting kunnen vrijkomen en die direct of door overdracht tussen milieucompartimenten nadelige gevolgen voor het milieu kunnen veroorzaken.   
+3.  Bij het vaststellen van de emissiegrenswaarden wordt uitgegaan van de emissies op het punt waar zij de bron, in voorkomend geval na reiniging, verlaten, tenzij dat redelijkerwijs niet mogelijk is. De emissiegrenswaarden worden vastgesteld zonder rekening te houden met een mogelijke voorafgaande verdunning. Bij het vaststellen van emissiegrenswaarden voor afvalwater dat in een voorziening voor de inzameling en het transport van afvalwater wordt gebracht, kan rekening worden gehouden met het effect van een zuiveringstechnisch werk waarop die voorziening is aangesloten, voor zover daarvan geen nadeliger gevolgen voor het milieu zijn te verwachten.   
+4.  Aan een omgevingsvergunning kunnen voorschriften worden verbonden, en voor zover die vergunning betrekking heeft op een IPPC-installatie worden daaraan in ieder geval voorschriften verbonden, inhoudende dat: 
 
-a. moet worden bepaald of aan de eerstbedoelde voorschriften wordt voldaan, waarbij de wijze van bepaling wordt aangegeven, die ten minste betrekking heeft op de methode en de frequentie van de bepaling en de procedure voor de beoordeling van de bij die bepaling verkregen gegevens en die tevens betrekking kan hebben op de organisatie van die bepalingen en beoordelingen en op de registratie van die gegevens en de resultaten van die beoordelingen;  
+a. door monitoring of op een andere wijze wordt bepaald of aan de vergunningvoorschriften, bedoeld in het eerste en tweede lid, wordt voldaan, waarbij: 
 
-b. de bij die bepaling verkregen gegevens aan het bevoegd gezag moeten worden gemeld of ter inzage gegeven of anderszins ter beschikking moeten worden gesteld van het bevoegd gezag.     
+1°. de wijze van bepaling wordt aangegeven, die ten minste betrekking heeft op de methode en frequentie van de bepaling en de procedure voor de beoordeling van de bij die bepaling verkregen gegevens, en die tevens betrekking kan hebben op de organisatie van die bepalingen en beoordelingen en op de registratie van die gegevens en de resultaten van die beoordeling;  
+
+2°. monitoringseisen worden gebaseerd op voor die IPPC-installatie relevante BBT-conclusies en bij ministeriële regeling aangewezen informatiedocumenten over beste beschikbare technieken;    
+
+b. de bij die bepaling verkregen gegevens aan het bevoegd gezag regelmatig en ten minste jaarlijks moeten worden gemeld of ter inzage gegeven of anderszins ter beschikking moeten worden gesteld van het bevoegd gezag.     
 5.  In afwijking van het vierde lid, onder b, worden geen voorschriften aan de omgevingsvergunning verbonden met betrekking tot het ter beschikking stellen van gegevens als bedoeld in dat onderdeel, voor zover die gegevens krachtens [titel 12.3 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) moeten worden opgenomen in een PRTR-verslag dat ten behoeve van een bestuursorgaan moet worden opgesteld, of daardoor anderszins strijd ontstaat met het gestelde bij of krachtens die titel.   
-6.  Voor inrichtingen waartoe geen gpbv-installatie behoort en voor inrichtingen waartoe een gpbv-installatie behoort voor zover het andere activiteiten dan die gpbv-installatie betreft, kunnen voorschriften als bedoeld in het vierde lid, onder a en b, aan een vergunning worden verbonden.   
+6.  De ingevolge het tweede of derde lid vastgestelde emissiegrenswaarden waarborgen dat de emissies onder normale bedrijfsomstandigheden niet hoger zijn dan de met de beste beschikbare technieken geassocieerde emissieniveaus zoals vastgesteld in BBT-conclusies.   
+7.  In afwijking van het zesde lid kan het bevoegd gezag in specifieke gevallen minder strenge emissiegrenswaarden vaststellen, indien het halen van de met de beste beschikbare technieken geassocieerde emissieniveaus zoals vastgesteld in de BBT-conclusies zou leiden tot buitensporig hogere kosten in verhouding tot de milieuvoordelen, als gevolg van: 
+
+a. de geografische ligging van de betrokken inrichting,  
+
+b. de lokale milieuomstandigheden, of  
+
+c. de technische kenmerken van de betrokken installatie.     
+8.  Voor de toepassing van het zesde en zevende lid wordt onder met de beste beschikbare technieken geassocieerde emissieniveaus verstaan: bandbreedte van emissieniveaus verkregen in normale bedrijfsomstandigheden met gebruikmaking van een beste beschikbare techniek of een combinatie van beste beschikbare technieken als omschreven in de BBT-conclusies, uitgedrukt als een gemiddelde over een bepaalde periode, in specifieke referentieomstandigheden.   
 
 ### Artikel  5.6  
 
 ####Technische maatregelen
 
-1.  Voor zover dit naar het oordeel van het bevoegd gezag noodzakelijk is, kunnen aan de omgevingsvergunning voor activiteiten als bedoeld in [artikel 2.1, eerste lid onder e, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), voorschriften worden verbonden, inhoudende de verplichting tot het treffen van technische maatregelen. Voor zover die voorschriften betrekking hebben op een gpbv-installatie, wordt daarbij niet het gebruik van bepaalde technieken of technologieën voorgeschreven.   
-2.  Indien voorschriften als bedoeld in het eerste lid aan de omgevingsvergunning worden verbonden in plaats van voorschriften als bedoeld in artikel 5.5, eerste en tweede lid, leiden de technische maatregelen tot een gelijkwaardige bescherming van het milieu.   
+1.  Het bevoegd gezag verbindt op basis van de aanvraag aan de omgevingsvergunning voorschriften, inhoudende de verplichting tot het treffen van technische maatregelen of de naleving van gelijkwaardige parameters. Voor zover die voorschriften betrekking hebben op een IPPC-installatie, wordt daarbij niet het gebruik van bepaalde technieken of technologieën voorgeschreven.   
+2.  Indien voorschriften als bedoeld in het eerste lid aan de omgevingsvergunning worden verbonden in plaats van voorschriften als bedoeld in artikel 5.5, eerste en tweede lid, leiden de technische maatregelen of gelijkwaardige parameters tot een gelijkwaardige bescherming van het milieu.   
 3.  Voor zover aan een omgevingsvergunning voorschriften worden verbonden als bedoeld in het eerste lid, kunnen daaraan in ieder geval ook voorschriften worden verbonden, inhoudende dat: 
 
 a. over de uitvoering van technische maatregelen waartoe die voorschriften verplichten, verslag wordt gedaan aan het bevoegd gezag;  
@@ -412,24 +472,26 @@ b. daarbij aangegeven metingen, berekeningen of tellingen moeten worden verricht
 
 ####Overige voorschriften
 
-1.  Aan de omgevingsvergunning voor activiteiten als bedoeld in [artikel 2.1, eerste lid onder e, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) worden in ieder geval de voor de betrokken activiteit in aanmerking komende voorschriften verbonden met betrekking tot: 
+1.  Aan de omgevingsvergunning worden in ieder geval de in aanmerking komende voorschriften verbonden met betrekking tot: 
 
 a. een doelmatig gebruik van energie en grondstoffen;  
 
-b. de bescherming van bodem en grondwater;  
+b. de bescherming van bodem en grondwater, alsmede het regelmatig bijhouden en bewaken van maatregelen die worden genomen ter voorkoming van emissies in de bodem en het grondwater, gebaseerd op een systematische evaluatie van het risico op nadelige gevolgen voor het milieu;  
 
-c. het voorkomen van het ontstaan van afvalstoffen en afvalwater en, voor zover dat niet mogelijk is, het doelmatig beheer van afvalstoffen en afvalwater;  
+c. het voorkomen van het ontstaan van afvalstoffen en afvalwater en, voor zover dat niet mogelijk is, het doelmatig beheer alsmede de monitoring van afvalstoffen en afvalwater;  
 
 d. het beperken van de nadelige gevolgen voor het milieu van het verkeer van personen of goederen van en naar de inrichting;  
 
-e. het voorkomen dan wel zo veel mogelijk beperken van door de inrichting veroorzaakte verontreinigingen over lange afstand of grensoverschrijdende verontreinigingen;  
+e. het voorkomen dan wel zo veel mogelijk beperken van door de inrichting veroorzaakte grootschalige of grensoverschrijdende verontreinigingen;  
 
 f. het voorkomen dan wel zo veel mogelijk beperken van de nadelige gevolgen voor het milieu, die kunnen worden veroorzaakt door opstarten, lekken, storingen, korte stilleggingen, definitieve bedrijfsbeëindiging of andere bijzondere bedrijfsomstandigheden;  
 
 g. het voorkomen van ongevallen en het beperken van de gevolgen van ongevallen;  
 
-h. het treffen van maatregelen om bij definitieve bedrijfsbeëindiging de nadelige gevolgen die de inrichting heeft veroorzaakt voor het terrein waarop zij was gevestigd, ongedaan te maken of te beperken voor zover dat nodig is om dat terrein weer geschikt te maken voor een volgende functie.     
-2.  Aan de omgevingsvergunning als bedoeld in het eerste lid kunnen in het belang van de bescherming van het milieu andere voorschriften worden verbonden. Die voorschriften kunnen in ieder geval inhouden: 
+h. het treffen van maatregelen om bij definitieve beëindiging van de inrichting of de IPPC-installatie de nadelige gevolgen die de inrichting onderscheidenlijk de IPPC-installatie heeft veroorzaakt voor het terrein waarop zij was gevestigd, ongedaan te maken of te beperken voor zover dat nodig is om dat terrein weer geschikt te maken voor een volgende functie;  
+
+i. voorwaarden voor het beoordelen van de naleving van de emissiegrenswaarden of een verwijzing naar de elders omschreven toepasselijke eisen.     
+2.  Aan de omgevingsvergunning kunnen in het belang van de bescherming van het milieu andere voorschriften worden verbonden. Die voorschriften kunnen in ieder geval inhouden: 
 
 a. dat daarbij aangegeven metingen, berekeningen of tellingen – andere dan bedoeld in de artikelen 5.5 en 5.6 – moeten worden verricht ter bepaling van de mate waarin de inrichting nadelige gevolgen voor het milieu veroorzaakt;  
 
@@ -448,19 +510,20 @@ g. dat van daarbij aangegeven veranderingen van de inrichting of van de werking 
 h. dat met het oog op het kunnen voldoen aan de andere aan de omgevingsvergunning verbonden voorschriften voor de betrokken activiteiten omtrent de inrichting, daarbij aangegeven organisatorische en administratieve maatregelen moeten worden getroffen;  
 
 i. dat met betrekking tot een bij het voorschrift aangegeven onderwerp waarover geen andere voorschriften aan de omgevingsvergunning zijn verbonden, voldoende zorg in acht moet worden genomen.     
-3.  Indien de omgevingsvergunning betrekking heeft op een activiteit als bedoeld in [artikel 2.1, eerste lid, onder e](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), waarbij vanuit een inrichting of mijnbouwwerk afvalwater of andere afvalstoffen in een voorziening voor de inzameling en het transport van afvalwater worden gebracht, kunnen aan de omgevingsvergunning in het belang van de bescherming van het milieu voorschriften worden verbonden omtrent: 
+3.  Indien vanuit een inrichting of mijnbouwwerk afvalwater of andere afvalstoffen in een voorziening voor de inzameling en het transport van afvalwater worden gebracht, kunnen aan de omgevingsvergunning in het belang van de bescherming van het milieu voorschriften worden verbonden omtrent: 
 
 a. de doelmatige werking van het zuiveringstechnisch werk, of  
 
 b. de krachtens [hoofdstuk 5 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) gestelde grenswaarden voor de kwaliteit van het oppervlaktewater.     
 4.  In afwijking van het tweede lid, onder c, worden geen voorschriften aan de omgevingsvergunning verbonden met betrekking tot het melden of ter beschikking stellen van uitkomsten als bedoeld in dat onderdeel, indien die uitkomsten als gegevens krachtens [titel 12.3 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) moeten worden opgenomen in een PRTR-verslag dat ten behoeve van een bestuursorgaan moet worden opgesteld, of daardoor anderszins strijd ontstaat met het gestelde bij of krachtens die titel.   
 5.  Bij een voorschrift inzake nadere eisen als bedoeld in het tweede lid, onder f, kan worden aangegeven hoe van die eisen door het aangewezen bestuursorgaan openbaar wordt kennisgegeven.   
+6.  Indien maatregelen als bedoeld in het eerste lid, onderdeel h, zijn getroffen, stelt het bevoegd gezag voor het publiek relevante informatie over die maatregelen voor eenieder elektronisch beschikbaar.   
 
 ### Artikel  5.8  
 
 ####Nuttige toepassing of verwijdering van afvalstoffen
 
-1.  Indien een omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, onder e, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) betrekking heeft op een inrichting waarin afvalstoffen nuttig worden toegepast of worden verwijderd, bevat de omgevingsvergunning ten minste de verplichtingen: 
+1.  Indien een omgevingsvergunning betrekking heeft op een inrichting waarin afvalstoffen nuttig worden toegepast of worden verwijderd, bevat de omgevingsvergunning ten minste de verplichtingen: 
 
 a. tot het registreren van: 
 
@@ -481,25 +544,37 @@ b. tot het bewaren van de geregistreerde gegevens gedurende ten minste vijf jare
 
 ####Afwijkende inwerkingtreding en geldingsduur van de voorschriften
 
-In een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder e, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) kan worden bepaald: 
+1.  In een omgevingsvergunning kan worden bepaald dat daarbij aangewezen voorschriften: 
 
-a. dat daarbij aangewezen voorschriften eerst in werking treden op een daarbij aangegeven tijdstip, dan wel wanneer een daarbij aangegeven omstandigheid zich voordoet;  
+a. eerst in werking treden op een daarbij aangegeven tijdstip, dan wel wanneer een daarbij aangegeven omstandigheid zich voordoet;  
 
-b. dat daarbij aangewezen voorschriften slechts gelden tot een daarbij aangegeven tijdstip, dan wel omstandigheid;  
+b. slechts gelden tot een daarbij aangegeven tijdstip, dan wel omstandigheid;  
 
-c. dat daarbij aangewezen voorschriften nadat de omgevingsvergunning haar gelding heeft verloren, gedurende een daarbij aangegeven termijn van kracht blijven.    
+c. niet gelden gedurende een termijn van ten hoogste negen maanden voor het testen of gebruiken van technieken in opkomst;  
+
+d. nadat de omgevingsvergunning haar gelding heeft verloren, gedurende een daarbij aangegeven termijn van kracht blijven.     
+2.  In het eerste lid, onderdeel c, wordt onder techniek in opkomst verstaan: nieuwe techniek die, als zij commercieel zou worden ontwikkeld, hetzij een hoger algemeen beschermingsniveau voor het milieu, hetzij ten minste hetzelfde beschermingsniveau voor het milieu, en grotere kostenbesparingen kan opleveren dan de voor de desbetreffende activiteit bestaande beste beschikbare technieken.   
 
 ### Artikel  5.10  
 
 ####Actualisatieplicht
 
-Het bevoegd gezag geeft in ieder geval toepassing aan het bepaalde in [artikel 2.30, eerste lid, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) indien: 
+1.  Binnen vier jaar na de publicatie in het Publicatieblad van de Europese Unie van, voor de hoofdactiviteit van de betreffende IPPC-installatie, relevante BBT-conclusies: 
+
+a. toetst het bevoegd gezag of de vergunningvoorschriften voldoen aan deze nieuwe BBT-conclusies, aan overige relevante BBT-conclusies en aan bij ministeriële regeling aangewezen informatiedocumenten over beste beschikbare technieken, die sinds het verlenen van de vergunning of de laatste toetsing zijn vastgesteld of herzien,  
+
+b. actualiseert het bevoegd gezag, indien noodzakelijk, de vergunningvoorschriften, en  
+
+c. controleert het bevoegd gezag dat de inrichting na actualisatie van de vergunningvoorschriften aan die voorschriften voldoet.     
+2.  Het bevoegd gezag geeft voorts in ieder geval toepassing aan het bepaalde in [artikel 2.30, eerste lid](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), en [artikel 2.31, eerste lid, aanhef en onder b, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) indien: 
 
 a. de door de inrichting of onderdelen daarvan veroorzaakte verontreiniging van dien aard is dat de emissiegrenswaarden die zijn vastgesteld in de aan de vergunning verbonden voorschriften, gewijzigd moeten worden of daarin nieuwe emissiegrenswaarden vastgesteld moeten worden;  
 
-b. belangrijke veranderingen in de beste beschikbare technieken een aanmerkelijke beperking van de emissies zonder buitensporige kosten mogelijk maken;  
+b. geen BBT-conclusies van toepassing zijn, maar belangrijke veranderingen in de beste beschikbare technieken een aanmerkelijke beperking van de emissies mogelijk maken;  
 
-c. de noodzaak om ongevallen te voorkomen en de gevolgen daarvan voor het milieu te beperken de toepassing van andere technieken vereist.    
+c. de noodzaak om ongevallen te voorkomen en de gevolgen daarvan voor het milieu te beperken de toepassing van andere technieken vereist;  
+
+d. aan een nieuwe of herziene grenswaarde als bedoeld in [artikel 2.14, eerste lid, onder c, sub 2°, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) moet worden voldaan.     
 
 ### Artikel  5.11  
 
@@ -522,6 +597,17 @@ a. inhoudende een emissiegrenswaarde voor de directe emissie van broeikasgassen,
 b. ter bevordering van een zuinig gebruik van energie in de inrichting.     
 2.  Voor zover aan een omgevingsvergunning die betrekking heeft op een inrichting als bedoeld in het eerste lid voorschriften zijn verbonden als in dat lid bedoeld, vervallen die voorschriften.   
 
+### Artikel  5.12a  
+
+####energieverbruik
+
+1.  Aan een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder e, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), worden, indien het een inrichting betreft als bedoeld in [artikel 15.51 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), geen voorschriften verbonden: 
+
+a. inhoudende een emissiegrenswaarde voor de directe emissie van CO <sub>2</sub>, tenzij zulks noodzakelijk is om te verzekeren dat geen significante gevolgen voor het milieu in de onmiddellijke omgeving van de inrichting worden veroorzaakt;  
+
+b. ter bevordering van een zuinig gebruik van energie in de inrichting.     
+2.  Voor zover aan een omgevingsvergunning die betrekking heeft op een inrichting als bedoeld in het eerste lid voorschriften zijn verbonden als in dat lid bedoeld, vervallen die voorschriften.   
+
 ### Artikel  5.13  
 
 ####Overbrenging van afval naar of uit de provincie
@@ -538,11 +624,16 @@ Aan een omgevingsvergunning voor een activiteit die is aangewezen in artikel 2.2
 
 ### Artikel  5.13b  
 
-1.  Een omgevingsvergunning voor de categorieën activiteiten, bedoeld in artikel 2.2a, onder a, b, c, h, i en j wordt geweigerd indien het bevoegd gezag op grond van [artikel 7.17, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), heeft beslist dat bij de voorbereiding van de omgevingsvergunning een milieueffectrapport moet worden gemaakt.   
-2.  Een omgevingsvergunning voor de categorie activiteiten, bedoeld in artikel 2.2a, onder d, wordt geweigerd indien de activiteit niet voldoet aan de grenswaarden voor geluid, bedoeld in [artikel 2.14, eerste lid, onder c, onder 2° en 3°, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   
-3.  Een omgevingsvergunning voor de categorieën activiteiten, bedoeld in artikel 2.2a, onder e tot en met h en l, kan worden geweigerd in het belang van het doelmatig beheer van afvalstoffen.   
-4.  Een omgevingsvergunning voor de categorie activiteiten, bedoeld in artikel 2.2a, onder g tot en met j en l, kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
-5.  Het vierde lid is van overeenkomstige toepassing op de categorie activiteiten, bedoeld in artikel 2.2a, onder k.   
+####Weigeringsgronden omgevingsvergunning voor activiteiten als bedoeld in artikel 2.2a 
+
+1.  Een omgevingsvergunning voor de categorieën activiteiten, bedoeld in artikel 2.2a, eerste lid, onder a tot en met i, wordt geweigerd indien het bevoegd gezag op grond van [artikel 7.17, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), heeft beslist dat een milieueffectrapport moet worden gemaakt.   
+2.  Een omgevingsvergunning voor de categorieën activiteiten, bedoeld in artikel 2.2a, tweede lid, onder a tot en met f, kan worden geweigerd in het belang van het doelmatig beheer van afvalstoffen.   
+3.  Een omgevingsvergunning voor de categorie activiteiten, bedoeld in artikel 2.2a, derde lid, wordt geweigerd indien de activiteit niet voldoet aan de grenswaarden voor geluid, bedoeld in [artikel 2.14, eerste lid, onder c, onder 2° en 3°, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   
+4.  Een omgevingsvergunning voor de categorieën activiteiten, bedoeld in artikel 2.2a, eerste lid, onder b, en tweede lid, onder c tot en met f, kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), met dien verstande dat voor de toepassing van artikel 3 van die wet, voor zover het de wet betreft, onder betrokkene mede wordt verstaan degene die op grond van feiten en omstandigheden redelijkerwijs met de aanvrager van de omgevingsvergunning gelijk kan worden gesteld.   
+5.  Het vierde lid is van overeenkomstige toepassing op de categorie activiteiten, bedoeld in artikel 2.2a, vierde lid.   
+6.  Een omgevingsvergunning voor de categorieën activiteiten, bedoeld in artikel 2.2a, vijfde lid, onder a, wordt geweigerd, indien de activiteit leidt tot overschrijding van de grenswaardenvoor zwevende deeltjes (PM10), bedoeld in [bijlage 2, voorschrift 4.1, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), voor zover de verplichting tot het in acht nemen daarvan is vastgelegd bij of krachtens [artikel 5.16 van die wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+7.  Een omgevingsvergunning voor de categorieën activiteiten, bedoeld in artikel 2.2a, vijfde lid, onder b, wordt geweigerd, indien de activiteit leidt tot overschrijding van de grenswaarden, bedoeld in [bijlage 2 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), voor zover de verplichting tot het in acht nemen daarvan is vastgelegd bij of krachtens [artikel 5.16 van die wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+8.  Een omgevingsvergunning voor de categorieën activiteiten, bedoeld in artikel 2.2a, zesde lid, wordt geweigerd, indien de activiteit leidt tot een niet aanvaardbaar niveau van geurhinder.   
 
 ### §  5.2.3  
 
@@ -670,7 +761,7 @@ a. Onze Minister van Onderwijs, Cultuur en Wetenschap, indien de activiteit betr
 
 4°. het geven van een nieuwe bestemming aan een beschermd monument of een belangrijk deel daarvan;    
 
-b. gedeputeerde staten, indien het beschermde monument buiten de krachtens de [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) vastgestelde bebouwde kom ligt.     
+b. gedeputeerde staten, indien het beschermde monument buiten de krachtens de [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) vastgestelde bebouwde kom ligt en het een activiteit betreft als bedoeld in onderdeel a, onder 1° tot en met 4°.     
 2.  Indien de adviseurs, bedoeld in het eerste lid, advies uitbrengen, geschiedt dit schriftelijk binnen acht weken nadat het bevoegd gezag de gegevens, bedoeld in [artikel 3:7 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), ter beschikking heeft gesteld.   
 3.  Met betrekking tot een aanvraag ten aanzien van een activiteit als bedoeld in [artikel 2.2, eerste lid, onder b, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), worden gedeputeerde staten als adviseur aangewezen, indien het een monument betreft dat krachtens een provinciale verordening is aangewezen dan wel een monument waarop, voordat het is aangewezen, een zodanige verordening van overeenkomstige toepassing is.   
 
@@ -685,7 +776,7 @@ b. gedeputeerde staten, indien het beschermde monument buiten de krachtens de [W
 1.  Voor zover een aanvraag betrekking heeft op een activiteit als bedoeld in [artikel 2.1, eerste lid, onder c, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), wordt de omgevingsvergunning, waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) wordt afgeweken van het bestemmingsplan of de beheersverordening, niet verleend dan nadat de gemeenteraad van de gemeente waar het project geheel of in hoofdzaak zal worden of wordt uitgevoerd, heeft verklaard dat hij daartegen geen bedenkingen heeft, tenzij artikel 3.2, aanhef en onder b, van dit besluit of [artikel 3.36 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) van toepassing is.   
 2.  De verklaring kan slechts worden geweigerd in het belang van een goede ruimtelijke ordening.   
 3.  De gemeenteraad kan categorieën gevallen aanwijzen waarin een verklaring niet is vereist.   
-4.  In gevallen waarin artikel 3.1, aanhef en onder b, van dit besluit of [artikel 3.34 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) van toepassing is, wordt in het eerste lid in plaats van «gemeenteraad van de gemeente» gelezen «provinciale staten van de provincie» en wordt in het derde lid in plaats van «De gemeenteraad kan» gelezen «De provinciale staten kunnen» en in plaats van «burgemeester en wethouders» gelezen: gedeputeerde staten.   
+4.  In gevallen waarin artikel 3.1, aanhef en onder b, van dit besluit of [artikel 3.34 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) van toepassing is, wordt in het eerste lid in plaats van «gemeenteraad van de gemeente» gelezen «provinciale staten van de provincie» en wordt in het derde lid in plaats van «De gemeenteraad kan» gelezen: De provinciale staten kunnen.   
 
 ### Artikel  6.6  
 
@@ -698,7 +789,7 @@ b. gedeputeerde staten, indien het beschermde monument buiten de krachtens de [W
 
 ####Voormalige provinciale inrichtingen
 
-1.  Voor zover een aanvraag betrekking heeft op activiteiten met betrekking tot een inrichting wordt de omgevingsvergunning niet verleend dan nadat gedeputeerde staten van de provincie waar het project geheel of in hoofdzaak zal worden of wordt uitgevoerd, hebben verklaard dat zij daartegen geen bedenkingen hebben. De eerste volzin geldt slechts voor activiteiten met betrekking tot een inrichting die behoort tot een categorie ten aanzien waarvan in bijlage I, onderdeel C, is bepaald dat gedeputeerde staten bevoegd zijn omtrent een verklaring van geen bedenkingen te beslissen. De eerste volzin geldt niet voor activiteiten met betrekking tot een inrichting waartoe een gpbv-installatie behoort of waarop het [Besluit risico’s zware ongevallen 1999](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) van toepassing is.   
+1.  Voor zover een aanvraag betrekking heeft op activiteiten met betrekking tot een inrichting wordt de omgevingsvergunning niet verleend dan nadat gedeputeerde staten van de provincie waar het project geheel of in hoofdzaak zal worden of wordt uitgevoerd, hebben verklaard dat zij daartegen geen bedenkingen hebben. De eerste volzin geldt slechts voor activiteiten met betrekking tot een inrichting die behoort tot een categorie ten aanzien waarvan in bijlage I, onderdeel C, is bepaald dat gedeputeerde staten bevoegd zijn omtrent een verklaring van geen bedenkingen te beslissen. De eerste volzin geldt niet voor activiteiten met betrekking tot een inrichting waartoe een IPPC-installatie behoort of waarop het [Besluit risico’s zware ongevallen 1999](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) van toepassing is.   
 2.  De verklaring kan slechts worden geweigerd in het belang van de bescherming van het milieu.   
 3.  Ten aanzien van inrichtingen als bedoeld in het eerste lid hebben gedeputeerde staten mede tot taak zorg te dragen voor de bestuursrechtelijke handhaving, bedoeld in [artikel 5.2, eerste lid, onder a, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   
 4.  Gedeputeerde staten kunnen categorieën gevallen aanwijzen waarin een verklaring niet is vereist.   
@@ -753,13 +844,14 @@ b. het gebruiken van gronden of bouwwerken ten behoeve van evenementen, bedoeld 
 1.  Het bevoegd gezag zendt een afschrift van de beschikking op de aanvraag toe aan de personen of bestuursorganen, bedoeld in de artikelen 6.1, 6.3, 6.4 en 6.12.   
 2.  Met betrekking tot een aanvraag ten aanzien van een activiteit als bedoeld in [artikel 2.1, eerste lid, onder a of b, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), welke betrekking heeft op een beschermd stads- of dorpsgezicht respectievelijk een archeologisch attentiegebied als bedoeld in de [Monumentenwet 1988](../../../../wet/monumentenwet/1988/BWBR0004471/README.md), zendt het bevoegd gezag gelijktijdig met de toezending aan de aanvrager een afschrift van de beschikking toe aan Onze Minister van Onderwijs, Cultuur en Wetenschap respectievelijk aan gedeputeerde staten.   
 3.  Met betrekking tot een aanvraag ten aanzien van een activiteit als bedoeld in [artikel 2.1, eerste lid, onder f of h, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), zendt het bevoegd gezag gelijktijdig met de toezending aan de aanvrager een afschrift van de beschikking toe aan Onze Minister van Onderwijs, Cultuur en Wetenschap.   
-4.  Het eerste tot en met derde lid is van overeenkomstige toepassing op ambtshalve gegeven beschikkingen tot wijziging van een omgevingsvergunning of voorschriften van een omgevingsvergunning of tot gehele of gedeeltelijke intrekking van een omgevingsvergunning, met dien verstande dat in het tweede en derde lid in plaats van «aanvrager» wordt gelezen «degenen tot wie de beschikking is gericht».   
+4.  Met betrekking tot een aanvraag ten aanzien van een activiteit als bedoeld in [artikel 2.1, eerste lid, onder e, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) met betrekking tot een inrichting als bedoeld in bijlage I, onderdeel C, onder 3.6, onder a of b, zendt het bevoegd gezag langs elektronische weg gelijktijdig met de toezending aan de aanvrager een afschrift van de beschikking toe aan Onze Minister. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de wijze waarop het afschrift wordt verzonden.   
+5.  Het eerste tot en met vierde lid is van overeenkomstige toepassing op ambtshalve gegeven beschikkingen tot wijziging van een omgevingsvergunning of voorschriften van een omgevingsvergunning of tot gehele of gedeeltelijke intrekking van een omgevingsvergunning, met dien verstande dat in het tweede tot en met vierde lid in plaats van «aanvrager» wordt gelezen «degenen tot wie de beschikking is gericht».   
 
 ### Artikel  6.14  
 
 ####Publicatie Staatscourant
 
-1.  Een kennisgeving als bedoeld in de [artikel 3:12](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en een mededeling als bedoeld in [artikel 3:44 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden in de Staatscourant geplaatst, voor zover het betreft een besluit tot verlening van een omgevingsvergunning waarbij sprake is van een geval als bedoeld in [artikel 2.12, eerste lid, aanhef en onder a, onder 3°, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   
+1.  Een kennisgeving als bedoeld in de [artikel 3:12](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en een mededeling als bedoeld in [artikel 3:44 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden in de Staatscourant geplaatst, voor zover het betreft een besluit tot verlening van een omgevingsvergunning waarbij sprake is van een geval als bedoeld in [artikel 2.12, eerste lid, aanhef en onder a, onder 3°, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md). De mededeling, bedoeld in de eerste volzin, wordt tevens langs elektronische weg gedaan en aan eenieder beschikbaar gesteld op de landelijke voorziening, bedoeld in [artikel 1.2.1, tweede lid, van het Besluit ruimtelijke ordening](../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md).   
 2.  Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop de mededeling, bedoeld in het eerste lid, elektronisch wordt gedaan of beschikbaar wordt gesteld.   
 
 ### Artikel  6.15  
@@ -830,7 +922,7 @@ Op de voorbereiding van een omgevingsvergunning die wordt verleend met toepassin
 
 ### Artikel  6.19  
 
-Als categorie van gevallen als bedoeld in [artikel 3.9, derde lid, tweede volzin, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) wordt aangewezen de beslissing op een aanvraag om een omgevingsvergunning voor activiteiten als bedoeld in artikel 2.2a, onder a, b, c, e en f.  
+Als categorie van gevallen als bedoeld in [artikel 3.9, derde lid, tweede volzin, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) wordt aangewezen de beslissing op een aanvraag om een omgevingsvergunning voor activiteiten als bedoeld in artikel 2.2a, eerste lid, onder a tot en met i, tweede lid, onder a en b, vijfde lid, en zesde lid.  
 
 ### Hoofdstuk  7  
 
@@ -990,41 +1082,57 @@ E. M. H.Hirsch Ballin
 
 In deze bijlage wordt verstaan onder: 
 
-a. *ADR:* op 30 september 1957 te Genève totstandgekomen Europese overeenkomst betreffende het internationale vervoer van gevaarlijke stoffen over de weg (Trb. 1959, 71);  
+*ADR:* op 30 september 1957 te Genève totstandgekomen Europese overeenkomst betreffende het internationale vervoer van gevaarlijke stoffen over de weg (Trb. 1959, 71);  
 
-b. *autowrak:* autowrak als bedoeld in [artikel 1.1, eerste lid, van het Besluit algemene regels voor inrichtingen milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md);  
+*autowrak:* autowrak als bedoeld in [artikel 1.1, eerste lid, van het Besluit algemene regels voor inrichtingen milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md);  
 
-c. *bunkerstation:* bunkerstation als bedoeld in [artikel 1 van het Binnenvaartbesluit](../../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md);  
+*biomassa:*  
 
-d. *CMR-stof:* stof of preparaat die volgens bijlage I bij richtlijn nr. 67/548/EEG geclassificeerd is als Kankerverwekkend categorie 1 of 2 of als Mutageen categorie 1 of 2 of als «Voor de voortplanting vergiftig» categorie 1 of 2;  
+– producten die bestaan uit plantaardig landbouw- of bosbouwmateriaal dat gebruikt kan worden als brandstof om de energetische inhoud ervan te benutten;  
 
-e. *EG-verordening dierlijke bijproducten:* verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad van de Europese Unie van 21 oktober 2009 (PbEU L 300) tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002;  
+– de volgende afvalstoffen: 
 
-f. *genetische modificatie, micro-organismen, organismen, genetisch gemodificeerde organismen:* hetgeen daaronder wordt verstaan in het Besluit genetisch gemodificeerde organismen milieubeheer;  
+1°. plantaardig afval uit land- of bosbouw;  
 
-g. *gevaarlijke stoffen:* stoffen en voorwerpen, waarvan het vervoer volgens het ADR is verboden of slechts onder daarin opgenomen voorwaarden is toegestaan, dan wel stoffen, materialen en voorwerpen aangeduid in de International Maritime Dangerous Goods Code;  
+2°. plantaardig afval van de levensmiddelenindustrie, indien de opgewekte warmte wordt teruggewonnen;  
 
-h. *landbouwinrichting:* inrichting als bedoeld in [artikel 2 van het Besluit landbouw milieubeheer](../../../../AMvB/besluit/landbouw/milieubeheer/BWBR0020112/README.md);  
+3°. vezelachtig plantaardig afval afkomstig van de productie van ruwe pulp en van de productie van papier uit pulp, indien het op de plaats van productie wordt meeverbrand en de opgewekte warmte wordt teruggewonnen;  
 
-i. *meststoffengroep:* aanduiding van de gevaarcategorie van vaste minerale anorganische meststoffen overeenkomstig de indeling van PGS 7;  
+4°. kurkafval, en  
 
-j. *opslagtank:* opslagvoorziening voor gas met een inhoud van ten minste 150 liter of een opslagvoorziening voor vloeistof met een inhoud van ten minste 300 liter, uitgezonderd een intermediate bulk container die voldoet aan hoofdstuk 6.5 van het ADR;  
+5°. houtafval, met uitzondering van houtafval dat ten gevolge van een behandeling met houtbeschermingsmiddelen of door het aanbrengen van een beschermingslaag gehalogeneerde organische verbindingen dan wel zware metalen kan bevatten;        
 
-j. *overig voertuigwrak:* motorrijtuig op meer dan twee wielen dat een afvalstof is in de zin van [artikel 1.1, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), niet zijnde een autowrak;  
+*bovengrondse opslagtank:* opslagtank niet zijnde een ondergrondse opslagtank en niet zijnde een ladingtank van een bunkerstation;  
 
-k. *vervoerseenheid met gevaarlijke stoffen:* voertuig, oplegger of aanhanger met een conform het ADR voor het vervoer van gevaarlijke stoffen toegelaten tank, tankcontainer, tankbatterij, laadketel, laadruimte of laadvloer waarin gevaarlijke stoffen aanwezig zijn;  
+*bunkerstation:* bunkerstation als bedoeld in [artikel 1 van het Binnenvaartbesluit](../../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md);  
 
-i. *vloeibare brandstof:* lichte olie, halfzware olie of gasolie als bedoeld in [artikel 26 van de Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md).    
+*CMR-stof:* stof of preparaat die volgens bijlage I bij richtlijn nr. 67/548/EEG geclassificeerd is als Kankerverwekkend categorie 1 of 2 of als Mutageen categorie 1 of 2 of als «Voor de voortplanting vergiftig» categorie 1 of 2;  
+
+*EG-verordening dierlijke bijproducten:* verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad van de Europese Unie van 21 oktober 2009 (PbEU L 300) tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002;  
+
+*genetische modificatie, micro-organismen, organismen, genetisch gemodificeerde organismen:* hetgeen daaronder wordt verstaan in het Besluit genetisch gemodificeerde organismen milieubeheer;  
+
+*gevaarlijke stoffen:* stoffen en voorwerpen, waarvan het vervoer volgens het ADR is verboden of slechts onder daarin opgenomen voorwaarden is toegestaan, dan wel stoffen, materialen en voorwerpen aangeduid in de International Maritime Dangerous Goods Code;  
+
+*meststoffengroep:* aanduiding van de gevaarcategorie van vaste minerale anorganische meststoffen overeenkomstig de indeling van PGS 7;  
+
+*ondergrondse opslagtank:* opslagtank die geheel in de bodem ligt of ingeterpt is;  
+
+*opslagtank:* opslagvoorziening voor gas met een inhoud van ten minste 150 liter of een opslagvoorziening voor vloeistof met een inhoud van ten minste 300 liter, uitgezonderd een intermediate bulk container die voldoet aan hoofdstuk 6.5 van het ADR;  
+
+*overig voertuigwrak:* motorrijtuig op meer dan twee wielen dat een afvalstof is in de zin van [artikel 1.1, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), niet zijnde een autowrak;  
+
+*tijdelijke opslag:* opslag van verpakte gevaarlijke stoffen of CMR-stoffen die zijn geadresseerd aan derden en, voorafgaand aan of aansluitend op transport, buiten een opslagvoorziening voor verpakte gevaarlijke stoffen of CMR-stoffen verblijven;  
+
+*vervoerseenheid met gevaarlijke stoffen:* voertuig, oplegger of aanhanger met een conform het ADR voor het vervoer van gevaarlijke stoffen toegelaten tank, tankcontainer, tankbatterij, laadketel, laadruimte of laadvloer waarin gevaarlijke stoffen aanwezig zijn;  
+
+*vloeibare brandstof:* lichte olie, halfzware olie of gasolie als bedoeld in [artikel 26 van de Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md).    
 
 ####Onderdeel B
 
 1. Onverminderd het bepaalde in onderdeel C van deze bijlage, worden als categorieën vergunningplichtige inrichtingen als bedoeld in artikel 2.1, tweede lid, van dit besluit, aangewezen: 
 
 a. inrichtingen waarop een van de onderstaande besluiten en regelingen van toepassing is: 
-
-– [Besluit glastuinbouw](../../../../AMvB/besluit/glastuinbouw/BWBR0013430/README.md) voor zover het een glastuinbouwbedrijf type A betreft;  
-
-– [Besluit emissie-eisen titaandioxide-inrichtingen](../../../../AMvB/besluit/emissie-eisen/titaandioxide-inrichtingen/BWBR0006013/README.md);  
 
 – [Besluit externe veiligheid inrichtingen](../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md);  
 
@@ -1036,81 +1144,19 @@ a. inrichtingen waarop een van de onderstaande besluiten en regelingen van toepa
 
 – [Besluit risico’s zware ongevallen 1999](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md);  
 
-– [Besluit verbranden afvalstoffen](../../../../AMvB/besluit/verbranden/afvalstoffen/BWBR0016460/README.md);  
-
 – [Regeling grenswaarde VCM-luchtemissies-PVC-inrichtingen milieubeheer](../../../../ministeriele-regeling/regeling/grenswaarde/vcm-luchtemissies/s-pvc-inrichtingen/milieubeheer/BWBR0011472/README.md);  
 
 – [Regeling grenswaarden luchtemissies VCM-inrichtingen milieubeheer](../../../../ministeriele-regeling/regeling/grenswaarden/luchtemissies/vcm-inrichtingen/milieubeheer/BWBR0011473/README.md);  
 
 – [Regeling stortplaatsen voor baggerspecie op land](../../../../ministeriele-regeling/regeling/stortplaatsen/voor/baggerspecie/op/land/BWBR0012665/README.md);    
 
-b. landbouwinrichtingen waarop het [Besluit landbouw milieubeheer](../../../../AMvB/besluit/landbouw/milieubeheer/BWBR0020112/README.md) op grond van [artikel 3](../../../../AMvB/besluit/landbouw/milieubeheer/BWBR0020112/README.md) of [4 van dat besluit](../../../../AMvB/besluit/landbouw/milieubeheer/BWBR0020112/README.md) niet van toepassing is;  
+b. inrichtingen voor activiteiten die zijn aangewezen krachtens [artikel 7.2, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voor zover de ter zake van die activiteiten krachtens het derde en vierde lid, van dat artikel aangewezen categorieën de besluiten zijn waarop [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en een of meer artikelen van [afdeling 13.2 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing zijn, met uitzondering van de categorieën 14, 18.4, 18.8, 22.2, 32.1, 32.2, 32.3 32.7, 32.8, 35, 36, 37.1, 37.2, 38.1, 38.2 en 38.3 van onderdeel D van de [bijlage bij het Besluit milieueffectrapportage](../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md) waarop [artikel 7.18 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet van toepassing is;  
 
-c. inrichtingen voor activiteiten die zijn aangewezen krachtens [artikel 7.2, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voor zover de ter zake van die activiteiten krachtens het derde en vierde lid, van dat artikel aangewezen categorieën de besluiten zijn waarop [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en een of meer artikelen van [afdeling 13.2 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing zijn, met uitzondering van de categorieën 18.4, 18.8, 22.2, 32.1, 32.2, 32.3 en 32.7 van onderdeel D van de [bijlage bij het Besluit milieueffectrapportage](../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md) waarop [artikel 7.18 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet van toepassing is;  
+c. inrichtingen in, op, onder of over een plaats waar de in [artikel 8.49 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bedoelde zorg met betrekking tot een gesloten stortplaats wordt uitgevoerd;  
 
-d. inrichtingen in, op, onder of over een plaats waar de in [artikel 8.49 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bedoelde zorg met betrekking tot een gesloten stortplaats wordt uitgevoerd;  
+d. inrichtingen als bedoeld in artikel 3.3, derde en vierde lid, van het besluit.    
 
-e. inrichtingen als bedoeld in artikel 3.3, derde en vierde lid, van het besluit.    
-
-2. Als categorieën vergunningplichtige inrichtingen als bedoeld in artikel 2.1, tweede lid, van het besluit worden aangewezen: 
-
-a. inrichtingen voor de verwijdering of nuttige toepassing van gevaarlijke afvalstoffen met een capaciteit van meer dan 10 ton per dag door middel van een of meer van de volgende activiteiten: 
-
-1° biologische behandeling;  
-
-2° fysisch-chemische behandeling;  
-
-3° mengen of vermengen voorafgaand aan een van de van de onder het eerste en tweede lid vermelde behandelingen;  
-
-4° herverpakking voorafgaand aan een van de van de onder het eerste en tweede lid vermelde behandelingen;  
-
-5° terugwinning/regeneratie van oplosmiddelen;  
-
-6° recycling/terugwinning van andere anorganische materialen dan metalen of metaalverbindingen;  
-
-7° regeneratie van zuren of basen;  
-
-8° terugwinning van bestanddelen die worden gebruikt om vervuiling tegen te gaan;  
-
-9° terugwinning van bestanddelen uit katalysatoren;  
-
-10° herraffinage van afgewerkte olie als bedoeld in [artikel 1 van het Besluit inzamelen afvalstoffen](../../../../AMvB/besluit/inzamelen/afvalstoffen/BWBR0016530/README.md) en ander hergebruik daarvan;  
-
-11° opslag in waterbekkens;    
-
-b. inrichtingen voor de verwijdering of nuttige toepassing van afvalstoffen in afvalverbrandings- of afvalmeeverbrandingsinstallaties voor: 
-
-1° afvalstoffen niet zijnde gevaarlijke afvalstoffen met een capaciteit van meer dan 3 ton per uur;  
-
-2° gevaarlijke afvalstoffen met een capaciteit van meer dan 10 ton per dag;    
-
-c. inrichtingen voor de verwijdering van afvalstoffen niet zijnde gevaarlijke afvalstoffen met een capaciteit van meer dan 50 ton per dag door middel van een of meer van de volgende activiteiten, met uitzondering van de activiteiten bedoeld in richtlijn nr. 91/271/EEG van de Raad van 21 mei 1991 inzake de behandeling van stedelijk afvalwater: 
-
-1° biologische behandeling;  
-
-2° fysisch-chemische behandeling;  
-
-3° voorbehandeling van afval voor verbranding of meeverbranding;  
-
-4° behandeling van slakken en assen;  
-
-5° behandeling in shredders van metaalafval, met inbegrip van afgedankte elektrische en elektronische apparatuur en autowrakken en de onderdelen daarvan;    
-
-d. inrichtingen voor de nuttige toepassing, of een combinatie van nuttige toepassing en verwijdering, van afvalstoffen niet zijnde gevaarlijke afvalstoffen met een capaciteit van meer dan 75 ton per dag, door middel van een of meer van de volgende activiteiten, met uitzondering van activiteiten die onder richtlijn nr. 91/271/EEG van de Raad van 21 mei 1991 inzake de behandeling van stedelijk afvalwater, vallen: 
-
-1° biologische behandeling;  
-
-2° voorbehandeling van afval voor verbranding of meeverbranding;  
-
-3° behandeling van slakken en as;  
-
-4° behandeling in shredders van metaalafval, met inbegrip van afgedankte elektrische en elektronische apparatuur en autowrakken en de onderdelen daarvan;   Indien de behandeling van het afval beperkt blijft tot anaërobe vergisting, bedraagt de maximale capaciteit voor deze activiteit 100 ton per dag.  
-
-e. stortplaatsen, als gedefinieerd in artikel 2, onder g), van richtlijn nr. 1999/31/EG van de Raad van 26 april 1999 inzake het storten van afvalstoffen, die meer dan 10 ton afval per dag ontvangen of een totale capaciteit van meer dan 25.000 ton hebben, met uitzondering van stortplaatsen voor inerte afvalstoffen;  
-
-f. inrichtingen voor het tijdelijk opslaan van niet onder e vallende gevaarlijke afvalstoffen, in afwachting van een van de onder a en b vermelde behandelingen, met een totale capaciteit van meer dan 50 ton, met uitsluiting van tijdelijke opslag, voorafgaande aan inzameling, op de plaats van productie;  
-
-g. inrichtingen voor het ondergronds opslaan van gevaarlijke afvalstoffen met een totale capaciteit van meer dan 50 ton.      
+2. Als categorie vergunningplichtige inrichtingen als bedoeld in artikel 2.1, tweede lid, worden aangewezen inrichtingen voor het houden van landbouwhuisdieren waarvan op basis van de rapportage bedoeld in [artikel 5.14 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en de beoordeling van de luchtkwaliteit bedoeld in [artikel 5.20, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is gebleken dat ze een overschrijding veroorzaken of dreigen te veroorzaken van een of meer van de grenswaarden voor zwevende deeltjes (PM10), voor zover deze inrichtingen voorkomen op een jaarlijks, aan de hand van deze rapportage en beoordeling, door Onze Minister vastgestelde en bekendgemaakte lijst.    
 
 ####Onderdeel C
 
@@ -1148,29 +1194,43 @@ c. voor het beproeven van:
 
 d. voor het vervaardigen van petrochemische producten of chemicaliën met een niet in een gesloten gebouw geïnstalleerd motorisch vermogen van 1 MW of meer.    
 
-1.4. Als categorieën vergunningplichtige inrichtingen als bedoeld in artikel 2.1, tweede lid, van dit besluit, worden inrichtingen aangewezen: 
+1.4. Als categorieën vergunningplichtige inrichtingen als bedoeld in artikel 2.1, tweede lid, worden inrichtingen aangewezen: 
 
-a. waar een of meer stookinstallaties aanwezig zijn waarin andere stoffen dan aardgas, propaangas, butaangas, vloeibare brandstoffen of biodiesel die voldoet aan NEN-EN 14214 worden verstookt, met nominaal vermogen van meer dan 20 kW thermisch vermogen;  
+a. waar een of meer stookinstallaties met een nominaal vermogen groter dan 20 kilowatt aanwezig zijn, waarin een andere stof wordt verstookt dan: 
+
+– aardgas;  
+
+– propaangas;  
+
+– butaangas;  
+
+– vloeibare brandstoffen, met dien verstande dat voor zover het biodiesel betreft, het gaat om biodiesel die voldoet aan NEN-EN 14214;  
+
+– biomassa, voor zover het verstoken plaatsvindt in stookinstallatie met een thermisch vermogen kleiner dan 15 megawatt;  
+
+– houtpellets, voor zover het geen biomassa betreft en voor zover het verstoken plaatsvindt in stookinstallatie met een thermisch vermogen kleiner dan 15 megawatt, of  
+
+– biogas;    
 
 b. voor het beproeven van verbrandingsmotoren waarbij voorzieningen of installaties aanwezig zijn voor het afremmen van een gezamenlijk motorisch vermogen van 1 megawatt of meer;  
 
 c. waar een of meer elektromotoren of verbrandingsmotoren aanwezig zijn met een totaal geïnstalleerd motorisch vermogen van 15 MW of meer met uitzondering van windturbines;  
 
-d. waar een warmtekrachtinstallatie aanwezig is waarin een andere brandstof dan aardgas, propaangas of butaangas wordt gebruikt;  
+d. voor het beproeven van straalmotoren of -turbines;  
 
-e. voor het beproeven van straalmotoren of -turbines;  
-
-f. waar sprake is van een dierencrematorium.      
+e. waar sprake is van een dierencrematorium.      
 
 ####Categorie 2
 
-2.1. Inrichtingen voor: 
+2.1 Inrichtingen: 
 
-a. het vervaardigen, bewerken, verwerken, opslaan of overslaan van gassen of gasmengsels, al of niet in samengeperste tot vloeistof verdichte of onder druk in vloeistof opgeloste toestand;  
+a. voor het vervaardigen, bewerken, verwerken, opslaan of overslaan van gassen of gasmengsels, al of niet in samengeperste tot vloeistof verdichte of onder druk in vloeistof opgeloste toestand;  
 
-b. het regelen of meten van de druk of stroming van gas of gasstromen.    
+b. voor het regelen of meten van de druk of stroming van gas of gasstromen;  
 
-2.2. Voor de toepassing van onderdeel 2.1 blijven buiten beschouwing: 
+c. waar een installatie aanwezig is waarin gassen worden gemengd en tot ontbranding worden gebracht met als doel het opwekken van een schokgolf.    
+
+2.2. Voor de toepassing van onderdeel 2.1, onderdelen a en b, blijven buiten beschouwing: 
 
 a. een of meer bovengrondse drukhouders of insluitsystemen met een inhoud of een gezamenlijke inhoud kleiner dan 0,025 m <sup>3</sup> voor het opslaan van licht ontvlambare, ontvlambare, schadelijke of irriterende gassen of gasmengsels, al of niet in samengeperste tot vloeistof verdichte of onder druk in vloeistof opgeloste toestand;  
 
@@ -1226,11 +1286,13 @@ l. voor het vullen van gasflessen, met uitzondering van het vullen van:
 
 m. voor het vullen van spuitbussen, uitgezonderd het niet geautomatiseerd afvullen met stoffen anders dan drijfgassen;  
 
-n. waar warmtepompen, koelinstallaties of vriesinstallaties aanwezig zijn, met een inhoud per installatie van meer dan 1.500 liter ammoniak of 100 kg propaan, butaan of een mengsel van propaan en butaan;  
+n. waar warmtepompen, koelinstallaties of vriesinstallaties aanwezig zijn, met een inhoud per installatie van meer dan 1.500 kilogram ammoniak of 100 kg propaan, butaan of een mengsel van propaan en butaan;  
 
 o. voor het reduceren van aardgasdruk of het meten van aardgashoeveelheid, voorzover de maximale inlaatzijdige werkdruk meer dan 10.000 kPa bedraagt of een gasexpansieturbine aanwezig is of drukverhogende installaties aanwezig zijn of de gastoevoerleiding een grotere diameter heeft dan 50,8 cm;  
 
-p. voor het begassen of ontgassen van containers.      
+p. voor het begassen of ontgassen van containers;  
+
+q. waar een installatie aanwezig is waarin gassen worden gemengd en tot ontbranding worden gebracht met als doel het opwekken van een schokgolf.      
 
 ####Categorie 3
 
@@ -1246,7 +1308,7 @@ c. 3 kg tot gevarengroep 1.3 van het [VLG](../../../../ministeriele-regeling/reg
 
 d. 10 kg tot gevarengroep 1.4 van het [VLG](../../../../ministeriele-regeling/regeling/vervoer/over/land/van/gevaarlijke/stoffen/BWBR0010054/README.md) behorend pyrotechnisch speelgoed;  
 
-e. 10 kg tot gevarengroep 1.4 van het [VLG](../../../../ministeriele-regeling/regeling/vervoer/over/land/van/gevaarlijke/stoffen/BWBR0010054/README.md) behorend consumentenvuurwerk in de zin van het [Vuurwerkbesluit](../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md).    
+e. 25 kg tot gevarengroep 1.4 van het [VLG](../../../../ministeriele-regeling/regeling/vervoer/over/land/van/gevaarlijke/stoffen/BWBR0010054/README.md) behorend consumentenvuurwerk in de zin van het [Vuurwerkbesluit](../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md).    
 
 3.3. Voor de toepassing van onderdeel 3.1 blijft buiten beschouwing het herladen als bedoeld in [artikel 17 van de Regeling wapens en munitie](../../../../ministeriele-regeling/regeling/wapens/en/munitie/BWBR0008800/README.md).  
 
@@ -1264,7 +1326,7 @@ c. meer dan 25 kg, maar niet meer dan ten hoogste 50 000 kg in beslag genomen vu
 
 a. meer dan 25 kg theatervuurwerk als bedoeld in [artikel 1.1.1 van het Vuurwerkbesluit](../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md), waarbij voor de bepaling van de hoeveelheid vuurwerk wordt uitgegaan van het gewicht van het vuurwerk als zijnde onverpakt vuurwerk als bedoeld in artikel 1.1.1, vijfde lid, onder b, van het Vuurwerkbesluit;  
 
-b. meer dan 1000 kg consumentenvuurwerk, waarbij voor de bepaling van de hoeveelheid vuurwerk wordt uitgegaan van het gewicht van het vuurwerk, bedoeld in [artikel 1.1.1, vijfde lid, onder b, van het Vuurwerkbesluit](../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md);  
+b. meer dan 10.000 kg consumentenvuurwerk, waarbij voor de bepaling van de hoeveelheid vuurwerk wordt uitgegaan van het gewicht van het vuurwerk, bedoeld in [artikel 1.1.1, vijfde lid, onder b, van het Vuurwerkbesluit](../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md);  
 
 c. meer dan 25 kg in beslag genomen vuurwerk met aan consumentenvuurwerk vergelijkbare eigenschappen in een politiebureau;  
 
@@ -1372,19 +1434,43 @@ e. alle volgende stoffen of producten, met een totale capaciteit ten aanzien daa
 
 4.4. Als categorieën vergunningplichtige inrichtingen als bedoeld in artikel 2.1, tweede lid, van dit besluit, worden inrichtingen aangewezen: 
 
-a. voor het vervaardigen, vormgeven en vulkaniseren van rubber, het blazen, expanderen, gieten, kalanderen, schuimen, sinteren, spuitgietblazen en thermovormen van kunststof, en het verwerken van polyesterhars;  
+a. voor het blazen, expanderen of schuimen van kunststof met een blaasmiddel anders dan lucht, kooldioxide of stikstof;  
 
 b. voor het vervaardigen van gevaarlijke stoffen of voor het vervaardigen van verf, lak, drukinkt, lijm, waspoeder of enzymen;  
 
-c. voor de opslag van stoffen van ADR klasse 5.1 of klasse 8, verpakkingsgroepen II en III, zonder bijkomend gevaar, in bovengrondse opslagtanks met een inhoud van meer dan 10 m <sup>3</sup>;  
+c. voor de opslag van polyesterhars en stoffen van ADR klasse 5.1 of klasse 8, verpakkingsgroepen II en III, zonder bijkomend gevaar, in bovengrondse opslagtanks met een inhoud van meer dan 10 m <sup>3</sup>;  
 
-d. voor de opslag van gevaarlijke stoffen of CMR-stoffen anders dan vloeibare brandstoffen of afgewerkte olie als bedoeld in [artikel 1 van het Besluit inzamelen afvalstoffen](../../../../AMvB/besluit/inzamelen/afvalstoffen/BWBR0016530/README.md) in ondergrondse opslagtanks, uitgezonderd de opslag van condensaat bij een inrichting voor het reduceren van aardgasdruk of het meten van aardgashoeveelheid;  
+d. voor de opslag van gevaarlijke stoffen of CMR-stoffen anders dan propaan, vloeibare brandstoffen, afgewerkte olie als bedoeld in [artikel 1 van het Besluit inzamelen afvalstoffen](../../../../AMvB/besluit/inzamelen/afvalstoffen/BWBR0016530/README.md), butanon, ethanol, ethylethanoaat, 4-methyl-2-pentanon, 1-propanol, 2-propanol of propanon in ondergrondse opslagtanks, uitgezonderd de opslag van condensaat bij een inrichting voor het reduceren van aardgasdruk of het meten van aardgashoeveelheid;  
 
 e. voor de opslag van gevaarlijke stoffen of CMR-stoffen anders dan vloeibare brandstoffen in opslagtanks op een bunkerstation of in de ladingtanks van een bunkerstation;  
 
-f. voor de opslag van gevaarlijke stoffen of CMR-stoffen anders dan gassen, gasolie, afgewerkte olie als bedoeld in [artikel 1 van het Besluit inzamelen afvalstoffen](../../../../AMvB/besluit/inzamelen/afvalstoffen/BWBR0016530/README.md) of stoffen van ADR klasse 5.1 of klasse 8, verpakkingsgroepen II en III, zonder bijkomend gevaar, in bovengrondse opslagtanks, uitgezonderd ten hoogste 15 m <sup>3</sup> opslag van PER bij een inrichting voor de reiniging van textiel, ten hoogste 5 m <sup>3</sup> opslag van tetrahydrothiofeen bij een inrichting waar aardgasdruk wordt gereduceerd of aardgashoeveelheid wordt gemeten en ten hoogste 1,5 m <sup>3</sup> opslag van halfzware olie bij een landbouwinrichting of glastuinbouwbedrijf als bedoeld in [artikel 2, onderdeel a, van het Besluit glastuinbouw](../../../../AMvB/besluit/glastuinbouw/BWBR0013430/README.md);  
+f. voor de opslag van gevaarlijke stoffen of CMR-stoffen anders dan gassen, gasolie, afgewerkte olie, polyesterhars of stoffen van ADR klasse 5.1 of klasse 8, verpakkingsgroepen II en III, zonder bijkomend gevaar, in bovengrondse opslagtanks, uitgezonderd ten hoogste 15 m <sup>3</sup> opslag van PER bij een inrichting voor de reiniging van textiel, ten hoogste 5 m <sup>3</sup> opslag van tetrahydrothiofeen bij een inrichting waar aardgasdruk wordt gereduceerd of aardgashoeveelheid wordt gemeten en ten hoogste 1,5 m <sup>3</sup> opslag van halfzware olie bij een inrichting als bedoeld in [artikel 2 van het Besluit landbouw milieubeheer](../../../../AMvB/besluit/landbouw/milieubeheer/BWBR0020112/README.md) dan wel een glastuinbouwbedrijf als bedoeld in artikel 2, onderdeel a, van het Besluit glastuinbouw zoals deze artikelen luidden onmiddellijk voor het tijdstip waarop deze artikelen zijn vervallen;  
 
-g. voor de opslag van andere gevaarlijke stoffen of CMR-stoffen dan genoemd in categorie 2.7 of 3.6 in verpakking, uitgezonderd: 
+g. voor de opslag in verpakking van stoffen van ADR klasse 5.2, uitgezonderd: 
+
+1°. stoffen behorende tot type C, D, E of F van ADR klasse 5.2, waarvoor volgens het ADR temperatuurbeheersing niet vereist is, in een hoeveelheid van ten hoogste dan 1.000 kilogram per opslagvoorziening en in LQ-verpakking;  
+
+2°. stoffen behorende tot type D, E of F van ADR klasse 5.2, waarvoor volgens het ADR temperatuurbeheersing niet vereist is, in een hoeveelheid van ten hoogste 1.000 kilogram per opslagvoorziening, in andere verpakking dan LQ en voor zover de opslag plaatsvindt bij een inrichting waar rubber of kunststof wordt verwerkt;  
+
+3°. stoffen behorende tot type G van ADR klasse 5.2;    
+
+h. voor de opslag van andere gevaarlijke stoffen of CMR-stoffen in verpakking dan genoemd in categorie 2.7, 3.6 of 4.4, onder g, uitgezonderd: 
+
+1°. stoffen van de klasse 3, 5.1, 7 en 9 van het ADR;  
+
+2°. stoffen van de klasse 4.1, verpakkingsgroep II en III, en klasse 4.2 en 4.3, verpakkingsgroep I, II en III, van het ADR;  
+
+3°. stoffen van de klasse 6.2 van het ADR;  
+
+4°. stoffen van de klasse 6.1 van het ADR, verpakkingsgroep II en III;  
+
+5°. stoffen van de klasse 6.1 van het ADR, verpakkingsgroep I tot 1.000 kg;  
+
+6°. stoffen van de klasse 8, verpakkingsgroep I zonder aanvullend etiket nummer 6.1 en verpakkingsgroep II en III, van het ADR;  
+
+7°. stoffen van de klasse 8, verpakkingsgroep I met aanvullend etiket nummer 6.1, van het ADR tot 1.000 kg;    
+
+i. voor de opslag van andere gevaarlijke stoffen of CMR-stoffen dan genoemd in categorie 2.7 of 3.6 in verpakking, uitgezonderd: 
 
 * stoffen van de klasse 3, 5.1, 7 en 9 van het ADR;  
 
@@ -1402,23 +1488,21 @@ g. voor de opslag van andere gevaarlijke stoffen of CMR-stoffen dan genoemd in c
 
 * stoffen van de klasse 8, verpakkingsgroep I met aanvullend etiket nummer 6.1, van het ADR tot 1.000 kg;    
 
-h. voor de opslag van gevaarlijke stoffen of CMR-stoffen anders dan in verpakking, in opslagtanks van metaal of kunststof of in de ladingstanks van een bunkerstation;  
+j. voor de opslag van gevaarlijke stoffen of CMR-stoffen anders dan in verpakking, in opslagtanks van metaal of kunststof of in de ladingstanks van een bunkerstation;  
 
-i. waar: 
+k. waar: 
 
-1°. een opslagvoorziening voor verpakte gevaarlijke stoffen, anders dan kunstmeststoffen van meststoffengroep 1 of 2, of CMR-stoffen met een opslagcapaciteit van meer dan 10.000 kg aanwezig is;  
+1°. een opslagvoorziening voor verpakte gevaarlijke stoffen, anders dan kunstmeststoffen van meststoffengroep 1 of 2, of CMR-stoffen met een opslagcapaciteit van meer dan 10.000 kg aanwezig is, of  
 
-2°. op enig moment binnen de inrichting in totaal meer dan 10.000 kg gevaarlijke stoffen in verpakking, of CMR-stoffen in verpakking aanwezig is in één of meerdere laad- en losgedeelten voor de tijdelijke opslag van deze stoffen die binnen 48 uur de inrichting verlaten en aan derden zijn geadresseerd, of  
+2°. op enig moment in een brandcompartiment tijdelijke opslag plaats vindt van in totaal meer dan 10.000 kg gevaarlijke stoffen in verpakking of CMR-stoffen in verpakking;    
 
-3°. op enig moment binnen de inrichting in totaal meer dan 10.000 kg gevaarlijke stoffen in verpakking, of CMR-stoffen in verpakking aanwezig is in één of meerdere opslagvoorzieningen voor de tijdelijke opslag van deze stoffen die langer dan 48 uur binnen de inrichting verblijven en aan derden zijn geadresseerd;    
+l. waar een praktijkruimte of laboratorium aanwezig is, waar gericht wordt gewerkt met biologische agentia, uitgezonderd een praktijkruimte of laboratorium waar gewerkt wordt met biologische agentia die ingedeeld zijn of worden in groep 1 of groep 2 ingevolge de indeling van risicogroepen van richtlijn 2000/54/EG van het Europees Parlement en de Raad van 18 september 2000 betreffende de bescherming van de werknemers tegen de risico’s van blootstelling aan biologische agentia op het werk;  
 
-j. waar een praktijkruimte of laboratorium aanwezig is, waar gericht wordt gewerkt met biologische agentia, uitgezonderd een praktijkruimte of laboratorium waar gewerkt wordt met biologische agentia die ingedeeld zijn of worden in groep 1 of groep 2 ingevolge de indeling van risicogroepen van richtlijn 2000/54/EG van het Europees Parlement en de Raad van 18 september 2000 betreffende de bescherming van de werknemers tegen de risico’s van blootstelling aan biologische agentia op het werk;  
+m. voor het afleveren van waterstof;  
 
-k. voor het afleveren van waterstof;  
+n. voor het afleveren van vloeibaar aardgas;  
 
-l. voor het afleveren van vloeibaar aardgas;  
-
-m. voor het verven van bloemen en planten.      
+o. voor het verven van bloemen en planten.      
 
 ####Categorie 5
 
@@ -1440,7 +1524,7 @@ b. het raffineren, kraken of vergassen van aardolie of aardoliefracties met een 
 
 5.4. Als categorieën vergunningplichtige inrichtingen als bedoeld in artikel 2.1, tweede lid, van dit besluit, worden inrichtingen aangewezen voor: 
 
-a. het opslaan van vloeibare brandstoffen of afgewerkte olie als bedoeld in [artikel 1 van het Besluit inzamelen afvalstoffen](../../../../AMvB/besluit/inzamelen/afvalstoffen/BWBR0016530/README.md) in ondergrondse opslagtanks met een inhoud van meer dan 150 m <sup>3</sup>,  
+a. het opslaan van vloeibare brandstoffen, afgewerkte olie, butanon, ethanol, ethylethanoaat, 4-methyl-2-pentanon, 1-propanol, 2-propanol of propanon in ondergrondse opslagtanks met een inhoud van meer dan 150 kubieke meter;  
 
 b. het opslaan van gasolie of afgewerkte olie als bedoeld in [artikel 1 van het Besluit inzamelen afvalstoffen](../../../../AMvB/besluit/inzamelen/afvalstoffen/BWBR0016530/README.md) in bovengrondse opslagtanks in de buitenlucht met een gezamenlijke inhoud van meer dan 150 m <sup>3</sup>;  
 
@@ -1450,9 +1534,7 @@ d. het opslaan van vloeibare brandstoffen in de ladingtanks van een bunkerstatio
 
 e. het afleveren van vloeibare brandstoffen ten behoeve van openbare verkoop voor motorvoertuigen voor het wegverkeer door een afleverzuil waar aflevering zonder direct toezicht mogelijk is en er minder dan 20 meter afstand is tussen de afleverzuil en een woning van derden, sporthal, zwembad, winkel, hotel, restaurant, kantoorgebouw, bedrijfsgebouw, speeltuin, sportveld, camping, volkstuinencomplex, recreatieterrein, bejaardenoord, verpleeginrichting, ziekenhuis, sanatorium, zwakzinnigeninrichting, gezinsvervangend tehuis, school, telefooncentrale, gebouw met vluchtleidingsapparatuur, elektriciteitscentrale, hoofdschakelstation van de hoofdspoorweginfrastructuur, bedoeld in de [Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md), object met een hoge infrastructurele waarde, installatie en bovengrondse opslagtank voor brandbare, explosieve of giftige stoffen, en een plaats ten behoeve van de bewaring van gasflessen waarvan de gezamenlijke inhoud meer dan 2.500 liter (waterinhoud) bedraagt van derden;  
 
-f. het afleveren van vloeibare brandstoffen voor motorvoertuigen voor het wegverkeer waar aflevering plaatsvindt met een pomp die zich onder het vloeistofniveau in een ondergrondse tank bevindt;  
-
-g. het aftappen van LPG uit LPG-tanks.      
+f. het aftappen van LPG uit LPG-tanks.      
 
 ####Categorie 6
 
@@ -1486,13 +1568,23 @@ a. het vervaardigen of bewerken van anorganische nitraathoudende kunstmeststoffe
 
 b. het opslaan van meststoffen behorende tot meststoffengroep 3 of meststoffengroep 4;  
 
-c. het opslaan van meer dan 50.000 kg meststoffen behorende tot meststoffengroep 2;  
+c. het opslaan van meer dan 50.000 kilogram meststoffen behorende tot meststoffengroep 2;  
 
-d. het bewerken of verwerken van dierlijke of overige organische meststoffen, uitgezonderd mengen en roeren;  
+d. het opslaan van meer dan 600 kubieke meter vaste dierlijke mest;  
 
-e. het opslaan van meer dan 600 m <sup>3</sup> vaste dierlijke mest;  
+e. het drogen van dierlijke mest anders dan pluimveemest;  
 
-f. het opslaan van dunne mest waarop het Besluit mestbassins milieubeheer niet van toepassing is en voorzover het niet gaat om een landbouwinrichting.      
+f. het drogen van pluimveemest indien dat geen onderdeel uitmaakt van een huisvestingssysteem waarvoor krachtens de Wet ammoniak en veehouderij een emissiefactor is vastgesteld;  
+
+g. het indampen van dunne mest of van digestaat dat overblijft na het vergisten van dierlijke mest;  
+
+h. het verwerken van dierlijke of overige organische meststoffen of van digestaat dat overblijft na het vergisten van dierlijke mest;  
+
+i. het opslaan van dierlijke meststoffen die verpompbaar zijn in een of meer mestbassins met een gezamenlijke oppervlakte van ten minste 750 vierkante meter of een gezamenlijke inhoud van ten minste 2.500 kubieke meter;  
+
+j. het opslaan van digestaat dat overblijft na het vergisten van ten minste 50% dierlijke uitwerpselen met als nevenbestanddeel uitsluitend producten die krachtens [artikel 5 van het Uitvoeringsbesluit Meststoffenwet](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) zijn aangewezen, in een of meer mestbassins met een gezamenlijke oppervlakte van ten minste 750 vierkante meter of een gezamenlijke inhoud van ten minste 2.500 kubieke meter.    
+
+7.6. Voor de berekening van de gezamenlijke oppervlakte en de gezamenlijke inhoud, bedoeld in onderdeel 7.5, onderdeel i en j, worden de inhoud en oppervlakte van ondergrondse mestbassins die zijn voorzien van een afdekking die als vloer kan fungeren en onderdeel zijn van een dierenverblijf, een voormalig dierenverblijf, werktuigberging, opslagvoorziening of erfverharding, niet meegerekend.    
 
 ####Categorie 8
 
@@ -1524,17 +1616,29 @@ c. het kweken van consumptievis;
 
 d. het kweken van ongewervelde dieren;  
 
-e. het houden van meer dan 10 schapen, 5 paarden, 10 geiten, 25 stuks pluimvee, 25 voedsters of 10 landbouwhuisdieren, niet zijnde schapen, paarden, geiten, pluimvee of konijnen, voor zover het niet gaat om een landbouwinrichting;  
+e. het houden van meer dan 1.200 vleesrunderen, behorend tot de diercategorieën A4 tot en met A7, genoemd in de regeling op grond van [artikel 1 van de Wet ammoniak en veehouderij](../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md);  
 
-f. het tijdelijk huisvesten van landbouwhuisdieren voor transport of handel anders dan bij een landbouwinrichting;  
+f. het houden van meer dan 2.000 schapen, behorend tot de diercategorie B1, genoemd in de regeling op grond van [artikel 1 van de Wet ammoniak en veehouderij](../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md), of geiten, behorend tot de diercategorieën C1 tot en met C3, genoemd in de regeling op grond van artikel 1 van de Wet ammoniak en veehouderij;  
 
-g. het slachten van meer dan 10.000 kilogram levend gewicht aan dieren per week;  
+g. het houden van meer dan 3.750 gespeende biggen, behorend tot de diercategorie D.1.1, genoemd in de regeling op grond van [artikel 1 van de Wet ammoniak en veehouderij](../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md);  
 
-h. het verwerken van dierlijke bijproducten tot eiwit, olie, vet, gelatine, collageen, dicalciumfosfaat, bloedproducten of farmaceutische producten;  
+h. het houden van meer dan 200 stuks melkrundvee, behorend tot de diercategorie A.1 en A.2, genoemd in de regeling op grond van [artikel 1 van de Wet ammoniak en veehouderij](../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md), waarbij het aantal stuks vrouwelijk jongvee tot 2 jaar niet wordt meegeteld;  
 
-i. het vervaardigen of verven van bont, het ontharen of looien van huiden, of het verven of finishen van leer met uitzondering van het finishen van leer, samenhangend met drukprocessen;  
+i. het houden van meer dan 340 stuks vrouwelijk jongvee, behorend tot de diercategorie A.3, genoemd in de regeling op grond van [artikel 1 van de Wet ammoniak en veehouderij](../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md), of indien het totaal aantal gehouden stuks vrouwelijk jongvee tot 2 jaar en overig melkvee meer dan 340 stuks bedraagt;  
 
-j. de verwerking van dierlijke bijproducten, bedoeld in artikel 24, eerste lid, onder a, van de EG-verordening dierlijke bijproducten, voor zover het betreft categorie 1- en categorie 2-materiaal als bedoeld in artikel 8 respectievelijk artikel 9 van die verordening;  
+j. het houden van meer dan 100 paarden, behorend tot de diercategorieën K1 tot en met K4, genoemd in de regeling op grond van [artikel 1 van de Wet ammoniak en veehouderij](../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md), waarbij het aantal bijbehorende dieren in opfok jonger dan 3 jaar niet wordt meegeteld;  
+
+k. het houden van meer dan 50 landbouwhuisdieren, behorend tot de diercategorieën genoemd in de regeling op grond van [artikel 1 van de Wet ammoniak en veehouderij](../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md) of dieren die op vergelijkbare wijze worden gehouden, anders dan bedoeld in de onderdelen e tot en met j en anders dan een gpbv-installatie die betrekking heeft op het aantal dierplaatsen, tenzij de inrichting een kinderboerderij betreft;  
+
+l. het houden van pelsdieren;  
+
+m. het slachten van meer dan 10.000 kilogram levend gewicht aan dieren per week;  
+
+n. het verwerken van dierlijke bijproducten tot eiwit, olie, vet, gelatine, collageen, dicalciumfosfaat, bloedproducten of farmaceutische producten;  
+
+o. het vervaardigen of verven van bont, het ontharen of looien van huiden, of het verven of finishen van leer met uitzondering van het finishen van leer, samenhangend met drukprocessen;  
+
+p. de verwerking van dierlijke bijproducten, bedoeld in artikel 24, eerste lid, onder a, van de EG-verordening dierlijke bijproducten, voor zover het betreft categorie 1- en categorie 2-materiaal als bedoeld in artikel 8 respectievelijk artikel 9 van die verordening;  
 
 k. de verwijdering van dierlijke bijproducten en afgeleide producten, bedoeld in artikel 24, eerste lid, onder b en c, van de EG-verordening dierlijke bijproducten.      
 
@@ -1584,21 +1688,19 @@ j. het opslaan of overslaan van granen, meelsoorten, zaden, gedroogde peulvrucht
 
 9.4. Als categorieën vergunningplichtige inrichtingen als bedoeld in artikel 2.1, tweede lid, van dit besluit, worden inrichtingen aangewezen voor: 
 
-a. het vervaardigen, bewerken of verwerken van voedingsmiddelen, genotmiddelen of grondstoffen daarvoor waarbij: 
+a. het vervaardigen of bewerken van voedingsmiddelen voor dieren met uitzondering van het vervaardigen of bewerken van voedingsmiddelen voor dieren die binnen die inrichting worden gehouden, en hondenkluiven;  
 
-1°. de gezamenlijke nominale belasting op bovenwaarde van continu-ovens meer bedraagt dan 200 kW;  
+b. het vervaardigen van meel en bloem, met uitzondering van wind- en watermolens;  
 
-2°. voor het vervaardigen, bewerken of verwerken gebruik wordt gemaakt van een of meer andere apparaten dan continu-ovens met een individuele nominale belasting op bovenwaarde van meer dan 130 kW of een aansluitwaarde van meer dan 130 kW;    
+c. het opslaan van ruwe cacao;  
 
-b. het vervaardigen of bewerken van voedingsmiddelen voor dieren en hondenkluiven;  
+d. het pasteuriseren van compost voor de champignonteelt;  
 
-c. het vervaardigen van meel en bloem, met uitzondering van wind- en watermolens;  
+e. het kweken van algen;  
 
-d. het opslaan van ruwe cacao;  
+f. de productie van zetmeel of suiker;  
 
-e. het onder een permanente opstand van glas of kunststof telen van gewassen voor zover het niet gaat om een landbouwinrichting of een glastuinbouwbedrijf zoals bedoeld in [artikel 2, onderdeel a, van het Besluit glastuinbouw](../../../../AMvB/besluit/glastuinbouw/BWBR0013430/README.md);  
-
-f. het kweken van algen.      
+g. de productie van alcohol.      
 
 ####Categorie 10
 
@@ -1646,7 +1748,7 @@ c. het vervaardigen van:
 
 4°. glasvezel, glazuren, emailles, glaswol of steenwol met een capaciteit ten aanzien daarvan van 5.000.000 kg per jaar of meer;  
 
-5°. asfalt of asfaltproducten met een capaciteit ten aanzien daarvan van 100.000 kg per uur of meer;  
+5°. asfalt of asfaltproducten in een buiten opgestelde eenheid, met een capaciteit ten aanzien daarvan van 100.000 kg per uur of meer;  
 
 6°. cokes uit steenkool met een capaciteit ten aanzien daarvan van 100.000.000 kg per jaar of meer;    
 
@@ -1664,13 +1766,15 @@ i. het winnen van zand of grind met een capaciteit ten aanzien daarvan van 100.0
 
 j. het breken, malen, zeven of drogen van zand, grond, grind of steen, met uitzondering van mergel, met een capaciteit ten aanzien daarvan van 100.000.000 kg per jaar of meer, indien zodanige inrichting een inrichting is voor zand- of grindwinning waarvoor op grond van [artikel 3 van de Ontgrondingenwet](../../../../wet/ontgrondingenwet/BWBR0002505/README.md) een vergunning is vereist;  
 
-k. het breken, malen, zeven of drogen van : 
+k. het breken, malen, zeven of drogen van: 
 
 1°. zand, grond, grind of steen, met uitzondering van puin en mergel;  
 
 2°. kalkzandsteen, kalk;  
 
-3°. steenkolen of andere mineralen of derivaten daarvan, met een capaciteit ten aanzien daarvan van 100.000.000 kg per jaar of meer, indien zodanige inrichting niet een inrichting is voor zand- of grindwinning, waarvoor op grond van [artikel 3 van de Ontgrondingenwet](../../../../wet/ontgrondingenwet/BWBR0002505/README.md) een vergunning is vereist.      
+3°. steenkolen of andere mineralen of derivaten daarvan, met een capaciteit ten aanzien daarvan van 100.000.000 kg per jaar of meer, indien zodanige inrichting niet een inrichting is voor zand- of grindwinning, waarvoor op grond van [artikel 3 van de Ontgrondingenwet](../../../../wet/ontgrondingenwet/BWBR0002505/README.md) een vergunning is vereist;    
+
+l. het vervaardigen van asfalt of asfaltproducten in een inpandig opgestelde eenheid, met een capaciteit ten aanzien daarvan van 100.000 kg per uur of meer.    
 
 11.4. Als categorieën vergunningplichtige inrichtingen als bedoeld in artikel 2.1, tweede lid, van dit besluit, worden inrichtingen aangewezen voor: 
 
@@ -1680,29 +1784,25 @@ b. het opslaan of overslaan van steenkool en ertsen of derivaten van ertsen;
 
 c. het malen, roosten, pelletiseren of doen sinteren van ertsen of derivaten daarvan;  
 
-d. het vervaardigen van cement of cementklinker en cementmortel of betonmortel;  
+d. het vervaardigen van cement of cementklinker;  
 
-e. het vervaardigen van cementwaren of betonwaren met behulp van persen, triltafels of bekistingstrillers;  
+e. het vervaardigen of bewerken met apparaten met een individuele nominale belasting op bovenwaarde van meer dan 130 kW of een aansluitwaarde van meer dan 130 kW van glas of glazen voorwerpen;  
 
-f. het vervaardigen of bewerken met apparaten met een individuele nominale belasting op bovenwaarde van meer dan 130 kW of een aansluitwaarde van meer dan 130 kW van glas of glazen voorwerpen;  
+f. het vervaardigen van glasvezel, glazuren, emailles, glaswol of steenwol;  
 
-g. het vervaardigen van glasvezel, glazuren, emailles, glaswol of steenwol;  
+g. het vervaardigen van asfalt of asfaltproducten;  
 
-h. het vervaardigen van asfalt of asfaltproducten;  
+h. het vervaardigen van cokes uit steenkool;  
 
-i. het vervaardigen van cokes uit steenkool;  
+i. het vergassen van steenkool;  
 
-j. het vergassen van steenkool;  
+j. het bewerken of verwerken van gesteente, afkomstig uit kolenmijnen;  
 
-k. het bewerken of verwerken van gesteente, afkomstig uit kolenmijnen;  
+k. het winnen van steen, met uitzondering van grind en mergel;  
 
-l. het winnen van steen, met uitzondering van grind en mergel;  
+l. het winnen, breken, malen, zeven of drogen van mergel, zand, grind, kalk, steenkolen of andere mineralen of derivaten daarvan;  
 
-m. het winnen, breken, malen, zeven of drogen van mergel, zand, grind, kalk, steenkolen of andere mineralen of derivaten daarvan;  
-
-n. het vervaardigen of drogen van kalkzandsteen en cellenbeton;  
-
-o. het vervaardigen van composietsteen, terrazzo en granito.      
+m. het vervaardigen of drogen van kalkzandsteen en cellenbeton.      
 
 ####Categorie 12
 
@@ -1736,9 +1836,7 @@ b. het gieten van metalen of hun legeringen;
 
 c. het harden of gloeien van metalen of het diffunderen van stoffen in het metaaloppervlak, indien daarbij zouten, oliën of gassen anders dan inerte gassen of koolzuurgas worden toegepast;  
 
-d. het behandelen van metaaloppervlakken door schoonbranden en pyrolyse;  
-
-e. het aanbrengen van metaallagen met cyanidehoudende baden, met een totale badinhoud van meer dan 100 liter.    
+d. het aanbrengen van metaallagen met cyanidehoudende baden, met een totale badinhoud van meer dan 100 liter.    
 
 12.4. Als categorieën vergunningplichtige inrichtingen als bedoeld in artikel 2.1, tweede lid, van dit besluit, worden tevens aangewezen de inrichtingen als bedoeld in onderdeel 12.2, onder b tot en met g.    
 
@@ -1750,15 +1848,13 @@ a. het vervaardigen, onderhouden, repareren, behandelen van de oppervlakte, keur
 
 1°. vliegtuigen;  
 
-2°. trams of onderdelen daarvan;  
+2°. motoren, motorvoertuigen of -vaartuigen;  
 
-3°. motoren, motorvoertuigen of -vaartuigen;  
+3°. caravans;  
 
-4°. caravans;  
+4°. landbouwwerktuigen;  
 
-5°. landbouwwerktuigen;  
-
-6°. bromfietsen;    
+5°. bromfietsen;    
 
 b. het parkeren van 3 of meer voor het vervoer van goederen langs de weg bestemde motorvoertuigen, gelede motorvoertuigen, aanhangwagens of opleggers, waarvan de massa van het ledige voertuig, vermeerderd met het laadvermogen, meer bedraagt dan 3500 kg.    
 
@@ -1792,11 +1888,19 @@ h. het parkeren van meer dan 3 vervoerseenheden met gevaarlijke stoffen.
 
 ####Categorie 14
 
-14.1. Inrichtingen voor het onderhouden, repareren, behandelen van de oppervlakte, keuren, reinigen, verhandelen, verhuren of proefdraaien van spoorvoertuigen of onderdelen daarvan, alsmede spoorwegemplacementen.  
+14.1. Inrichtingen 
+
+a. voor het onderhouden, repareren, behandelen van de oppervlakte, keuren, reinigen, verhandelen, verhuren of proefdraaien van spoorvoertuigen of onderdelen daarvan,  
+
+b. waarbij sprake is van een spoorwegemplacement.    
 
 14.2. Onverminderd de artikelen 3.3, eerste lid, tweede volzin, en 6.7, eerste lid, derde volzin, zijn gedeputeerde staten bevoegd te beslissen op een aanvraag om een omgevingsvergunning of omtrent een verklaring van geen bedenkingen ten aanzien van inrichtingen, behorende tot deze categorie, voor zover de inrichtingen zijn bestemd voor het samenstellen van treinen of treindelen door middel van het stoten of heuvelen van spoorvoertuigen, bestemd voor goederenvervoer.  
 
-14.3. Als categorieën vergunningplichtige inrichtingen als bedoeld in artikel 2.1, tweede lid, van dit besluit, worden aangewezen de inrichtingen, bedoeld in onderdeel 14.1.    
+14.3. Als categorieën vergunningplichtige inrichtingen als bedoeld in artikel 2.1, tweede lid, van dit besluit, worden aangewezen: 
+
+a. de inrichtingen, bedoeld in categorie 14.1, onderdeel a, voor zover het betreft het onderhouden, repareren, behandelen van de oppervlakte, keuren, reinigen, verhandelen, verhuren of proefdraaien van spoorvoertuigen bestemd voor het vervoer over krachtens [artikel 2 van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md) aangewezen hoofdspoorwegen, of onderdelen daarvan;  
+
+b. de inrichtingen, bedoeld in categorie 14.1, onderdeel b.      
 
 ####Categorie 15
 
@@ -1836,21 +1940,11 @@ b. het vervaardigen van textiel of producten hiervan waar 50 of meer mechanisch 
 
 c. het vervaardigen van tapijt of linoleum;  
 
-d. het vervaardigen van papierstof, papier of karton, het bleken van papier en het vervaardigen van producten van karton en hygiënische papierproducten;  
+d. het vervaardigen van papierstof, papier of karton, het bleken van papier en het vervaardigen van hygiënische papierproducten;  
 
 e. het zelfklevend maken van materialen, met uitzondering van het aanbrengen van lijmlagen en lamineren samenhangend met drukprocessen;  
 
-f. het toepassen van de volgende drukprocessen: 
-
-– illustratiediepdruk;  
-
-– rotatieoffset;  
-
-– flexodruk en verpakkingsdiepdruk;  
-
-– rotatiezeefdruk;  
-
-– zeefdruk met een emissie groter dan 10.000 kg vluchtige organische stoffen per jaar.        
+f. het toepassen van de volgende drukprocessen: illustratiediepdruk of rotatiezeefdruk.      
 
 ####Categorie 17
 
@@ -1858,7 +1952,7 @@ f. het toepassen van de volgende drukprocessen:
 
 17.2. Voor de toepassing van onderdeel 17.1 blijven buiten beschouwing inrichtingen waarop door de Nederlandse of een bondgenootschappelijke krijgsmacht uitsluitend met niet-scherpe patronen wordt geschoten.  
 
-17.3. Als categorieën vergunningplichtige inrichtingen als bedoeld in artikel 2.1, tweede lid, van dit besluit, worden de inrichtingen aangewezen voor schieten met vuurwapens of werpen met ontvlambare of ontplofbare voorwerpen, met uitzondering van inrichtingen voor het traditioneel schieten.    
+17.3. Als categorieën vergunningplichtige inrichtingen als bedoeld in artikel 2.1, tweede lid, van dit besluit, worden de inrichtingen aangewezen voor schieten met vuurwapens of werpen met ontvlambare of ontplofbare voorwerpen, met uitzondering van inrichtingen waar in een gebouw, zonder open zijden en met een gesloten afdekking wordt geschoten met vuurwapens met een kaliber van 0,5 inch of minder of historische vuurwapens als bedoeld in [artikel 18, eerste lid onder b tot en met d van de Regeling wapens en munitie](../../../../ministeriele-regeling/regeling/wapens/en/munitie/BWBR0008800/README.md) en inrichtingen voor het traditioneel schieten.    
 
 ####Categorie 18
 
@@ -1892,7 +1986,7 @@ g. waar gelegenheid wordt geboden tot het gebruiken van:
 
 2°. bromfietsen, motorvoertuigen of andere gemotoriseerde voer- of vaartuigen in wedstrijdverband, ter voorbereiding van wedstrijden of voor recreatieve doeleinden;    
 
-h. tien of meer ligplaatsen voor pleziervaartuigen aanwezig zijn in een jachthaven als bedoeld in [artikel 1 van het Besluit jachthavens](../../../../AMvB/besluit/jachthavens/BWBR0017082/README.md);  
+h. tien of meer ligplaatsen voor pleziervaartuigen aanwezig zijn in een jachthaven als bedoeld in [artikel 1.1, eerste lid, van het Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md);  
 
 i. waar met bogen of boogwapens of met wapens, werkend met luchtdruk of gasdruk, wordt geschoten.    
 
@@ -1912,9 +2006,7 @@ d. het in de buitenlucht beoefenen van wedstrijdsport waar permanente voorzienin
 
 e. het geven van muziekuitvoeringen in de buitenlucht waar tegelijk meer dan 5.000 bezoekers aanwezig kunnen zijn;  
 
-f. het paintballspel;  
-
-g. het schieten in de open lucht met wapens werkend met luchtdruk of gasdruk, met uitzondering van inrichtingen voor het traditioneel schieten.      
+f. het schieten in de open lucht met wapens werkend met luchtdruk of gasdruk, met uitzondering van inrichtingen voor het traditioneel schieten.      
 
 ####Categorie 20
 
@@ -2074,7 +2166,7 @@ a. het opslaan van de volgende afvalstoffen:
 
 2°. van buiten de inrichting afkomstige zuiveringsslib, kolenreststoffen of afvalgips met een capaciteit ten aanzien daarvan van 1.000 m <sup>3</sup> of meer;  
 
-3°. van buiten de inrichting afkomstige verontreinigde grond met een capaciteit ten aanzien daarvan van 10.000 m <sup>3</sup> of meer;  
+3°. van buiten de inrichting afkomstige verontreinigde grond, waaronder begrepen verontreinigde baggerspecie, met een capaciteit ten aanzien daarvan van 10.000 m <sup>3</sup> of meer;  
 
 4°. 5 of meer autowrakken en overige voertuigwrakken;  
 
@@ -2148,15 +2240,15 @@ c. inrichtingen waar uitsluitend gevaarlijke afvalstoffen worden opgeslagen, die
 
 3°. het mechanisch ontwateren van zuiveringsslib, voor zover geen sprake is van gevaarlijke afvalstoffen;  
 
-4°. het opslaan, verdichten, herverpakken, verkleinen en ontwateren van afvalstoffen voor zover daarmee uitvoering wordt gegeven aan [titel 10.4 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+4°. het opslaan, herverpakken, verkleinen en ontwateren van afvalstoffen voor zover daarmee uitvoering wordt gegeven aan [titel 10.4 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of dit afval is ontstaan bij het schoonhouden van de openbare ruimte;  
 
 5°. het opslaan van afval van gezondheidszorg bij mens en dier en van gebruikte hygiënische producten;  
 
-6°. het opslaan van ten hoogste 10.000 ton banden van voertuigen;  
+6°. het opslaan van ten hoogste 10.000 ton banden van voertuigen en het voor producthergebruik geschikt maken hiervan;  
 
-7°. het opslaan, verdichten en verkleinen van metaal, voor zover de capaciteit voor het opslaan niet groter is dan 50.000 ton, de capaciteit voor het shredderen van metalen niet groter is dan 50 ton per dag en voor zover geen sprake is van gevaarlijke afvalstoffen;  
+7°. het opslaan en verkleinen van metaal, en het schoonbranden van spoelen uit een elektromotor, voor zover de capaciteit voor het opslaan niet groter is dan 50.000 ton, de capaciteit voor het shredderen van metalen niet groter is dan 50 ton per dag en voor zover geen sprake is van gevaarlijke afvalstoffen;  
 
-8°. het, met een maximale opslagcapaciteit van 50 ton voor vloeibare gevaarlijke afvalstoffen en 1000 gedemonteerde airbags en gordelspanners, demonteren van autowrakken als bedoeld in [artikel 1.1, eerste lid, van het Besluit algemene regels voor inrichtingen milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en daarbij het: 
+8°. het, met een maximale opslagcapaciteit van 50 ton voor vloeibare gevaarlijke afvalstoffen en 1000 gedemonteerde airbags en gordelspanners, demonteren van autowrakken als bedoeld in [artikel 1.1, eerste lid, van het Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en daarbij het: 
 
 a. aftappen van vloeistoffen uit autowrakken;  
 
@@ -2168,7 +2260,7 @@ d. neutraliseren van airbags en gordelspanners niet zijnde het ontsteken van mec
 
 e. aftanken van bij het demonteren van autowrakken vrijkomende vloeibare brandstofresten ten behoeve van eigen gebruik;    
 
-9°. het opslaan van ten hoogste 100 kubieke meter afgedankte apparatuur als bedoeld in [artikel 1, onderdeel l, van de Regeling beheer elektrische en elektronische apparatuur](../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md) die overeenkomstig artikel 4 van die regeling zijn ingenomen bij het ter beschikking stellen van een nieuw product;  
+9°. het opslaan van ten hoogste 100 kubieke meter afgedankte apparatuur als bedoeld in [artikel 1, onderdeel l, van de Regeling beheer elektrische en elektronische apparatuur](../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md) die overeenkomstig [artikel 3, tweede lid](../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md), en [artikel 4 van die regeling](../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md) zijn ingenomen;  
 
 10°. het opslaan van ten hoogste 5 kubieke meter batterijen, spaarlampen en gasontladingslampen en het opslaan en bijvullen van inkt- en tonercassettes;  
 
@@ -2180,7 +2272,7 @@ a. ten hoogste 50 ton totaal van de volgende afvalstoffen:
 
 1°. smeervet, afgewerkte olie en olie- en vethoudend afval van onderhoud aan voorzieningen en installaties;  
 
-2°. teerhoudend of bitumineus dakafval, composieten van teerhoudend of bitumineus dakafval, dakgrind verkleefd met teer of bitumen;  
+2°. dakafval;  
 
 3°. brandblussers;  
 
@@ -2192,7 +2284,9 @@ b. ten hoogste 45 kubieke meter van de volgende afvalstoffen, voor zover geen sp
 
 1°. keukenafval en etensresten;  
 
-2°. gemengd bouw- en sloopafval;      
+2°. gemengd bouw- en sloopafval;  
+
+3°. afval van onderhoud aan voorzieningen voor het beheer van afvalwater;      
 
 13°. het opslaan van ingenomen smeervet, afgewerkte olie als bedoeld in [artikel 1 van het Besluit inzamelen afvalstoffen](../../../../AMvB/besluit/inzamelen/afvalstoffen/BWBR0016530/README.md), olie- en vethoudend afval van onderhoud aan pleziervaartuigen en bilgewater bij een inrichting waar gelegenheid wordt geboden voor het afmeren van pleziervaartuigen met een maximale opslagcapaciteit van 50 ton;  
 
@@ -2200,7 +2294,7 @@ b. ten hoogste 45 kubieke meter van de volgende afvalstoffen, voor zover geen sp
 
 15°. het scheiden van de olie- en waterfractie van ingenomen bilgewater bij een inrichting waar gelegenheid wordt geboden voor het afmeren van pleziervaartuigen met een slibvangput en olieafscheider met een maximale nominale grootte van 20 volgens NEN-EN 858-1 en 2;  
 
-16°. het opslaan en conform [artikel 4.84 van het Besluit algemene regels voor inrichtingen milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) bewerken van ten hoogste vier autowrakken en overige voertuigwrakken bij inrichtingen voor onderhoud en reparatie van motorvoertuigen;  
+16°. het opslaan en conform [artikel 4.84 van het Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) bewerken van ten hoogste vier autowrakken en overige voertuigwrakken bij inrichtingen voor onderhoud en reparatie van motorvoertuigen;  
 
 17°. het opslaan van autowrakken en overige voertuigwrakken in het kader van hulpverlening aan kentekenhouders door een daartoe aangewezen instantie of in het kader van onderzoek door politie of justitie;  
 
@@ -2208,9 +2302,9 @@ b. ten hoogste 45 kubieke meter van de volgende afvalstoffen, voor zover geen sp
 
 19°. het opslaan van ten hoogste 30 ton loodzuuraccu’s;  
 
-20°. het bij een inrichting voor het sorteren, scheiden en bewerken van metaal- en kunststofafval en afgedankte producten opslaan van ten hoogste 10 ton: 
+20°. het bij een inrichting voor het scheiden en bewerken van metaal- of kunststofafval opslaan van ten hoogste 10 ton: 
 
-a°. afgedankte producten voor zover sprake is van gevaarlijke afvalstoffen, anders dan batterijen, spaarlampen en gasontladingslampen en loodzuuraccu’s;  
+a°. sier- en gebruiksvoorwerpen voor zover sprake is van gevaarlijke afvalstoffen, anders dan batterijen, spaarlampen en gasontladingslampen en loodzuuraccu’s;  
 
 b°. lege, ongereinigde verpakkingen van verf, lijm, kit of hars en van overige gevaarlijke stoffen;    
 
@@ -2226,11 +2320,11 @@ b°. lege, ongereinigde verpakkingen van verf, lijm, kit of hars en van overige 
 
 5°. ten hoogste 10.000 ton voedingsmiddelen afkomstig van detail- en groothandel, voor zover geen sprake is van gevaarlijke afvalstoffen;    
 
-22°. het opslaan, verdichten en verkleinen van hout, voor zover geen sprake is van geïmpregneerd hout of anderszins van gevaarlijke afvalstoffen en met een maximale opslagcapaciteit van 10.000 ton;  
+22°. het opslaan en verkleinen van hout, voor zover geen sprake is van geïmpregneerd hout of anderszins van gevaarlijke afvalstoffen en met een maximale opslagcapaciteit van 10.000 ton;  
 
-23°. het opslaan, verdichten en verkleinen van papier en karton, voor zover geen sprake is van gevaarlijke afvalstoffen en met een maximale opslagcapaciteit van 10.000 ton;  
+23°. het opslaan en verkleinen van papier en karton, voor zover geen sprake is van gevaarlijke afvalstoffen en met een maximale opslagcapaciteit van 10.000 ton;  
 
-24°. het opslaan, verdichten, verkleinen, reinigen, extruderen en spuitgieten van kunststof, voor zover geen sprake is van gevaarlijke afvalstoffen en met een maximale opslagcapaciteit van 10.000 ton;  
+24°. het opslaan, verkleinen, reinigen, extruderen en spuitgieten van kunststof, voor zover geen sprake is van gevaarlijke afvalstoffen en met een maximale opslagcapaciteit van 10.000 ton;  
 
 25°. het opslaan van sier- en gebruiksvoorwerpen en tweedehands bouwmaterialen niet zijnde gevaarlijke afvalstoffen met een maximale opslagoppervlakte van 6.000 vierkante meter, het voor recycling als product geschikt maken hiervan voor zover de oppervlakte voor reparatie niet groter is dan 1.000 vierkante meter en het ten behoeve van recycling als materiaal scheiden, strippen en mechanisch verkleinen van ten hoogste 50 ton per dag sier- en gebruiksvoorwerpen voor zover die uitsluitend bestaan uit een combinatie van metaal, hout, kunststof, textiel, papier of karton en die geen elektronica bevatten;  
 
@@ -2238,13 +2332,23 @@ b°. lege, ongereinigde verpakkingen van verf, lijm, kit of hars en van overige 
 
 27°. het opslaan van ten hoogste 10.000 kubieke meter grond en baggerspecie die voldoet aan de eisen van de [artikelen 39](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [59](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) of [60 van het Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md);  
 
-28°. het opslaan, versnipperen en composteren van ten hoogste 600 kubieke meter groenafval, afgedragen gewas of bloembollenafval ontstaan bij werkzaamheden die buiten de inrichting zijn verricht door degene die de inrichting drijft of niet afkomstig van buiten de inrichting, voor zover geen sprake is van gevaarlijke afvalstoffen;  
+28° 
+
+a. het opslaan van ten hoogste 600 kubieke meter restmateriaal afkomstig van de teelt van landbouwgewassen ontstaan bij werkzaamheden die buiten de inrichting zijn verricht door degene die de inrichting drijft of niet afkomstig is van buiten de inrichting, voor zover geen sprake is van gevaarlijke afvalstoffen;  
+
+b. het versnipperen en composteren van ten hoogste 600 kubieke meter groenafval ontstaan bij werkzaamheden die buiten de inrichting zijn verricht door degene die de inrichting drijft of niet afkomstig is van buiten de inrichting, voor zover geen sprake is van gevaarlijke afvalstoffen;    
 
 29°. het als grondstof inzetten van een niet gevaarlijke afvalstof zijnde metaal, hout, kunststof, textiel, steenachtig materiaal of gips voor het vervaardigen, samenstellen of repareren van producten of onderdelen daarvan bestaande uit metaal, hout, kunststof, textiel, steenachtig materiaal of gips met een maximale capaciteit van 10.000 ton per jaar;  
 
-30°. het opslaan van ten hoogste 1.000 kubieke meter en het als diervoeder binnen de inrichting gebruiken en voor dit gebruik geschikt maken van plantaardige restproducten uit de land- en tuinbouw en uit de voedselbereiding en -verwerking uitgezonderd voedselresten afkomstig van restaurants, cateringfaciliteiten en keukens, met een maximale opslagcapaciteit van 4.000 ton per jaar;  
+30°. het opslaan van ten hoogste 1.000 kubieke meter en het als diervoeder binnen de inrichting gebruiken en voor dit gebruik geschikt maken van plantaardige restproducten uit de land- en tuinbouw en uit de voedselbereiding en -verwerking uitgezonderd voedselresten afkomstig van restaurants, cateringfaciliteiten en keukens, met een maximale capaciteit van 4.000 ton per jaar;  
 
-31°. het overslaan en scheiden en opbulken van de onder 1 tot en met 30 genoemde categorieën van afvalstoffen binnen de aangegeven grenzen.      
+31°. het mengen van afvalstoffen voor het vervaardigen van betonmortel of betonwaren binnen een inrichting als bedoeld in categorie 11.1, onder b van onderdeel C van bijlage I;  
+
+32°. het verbranden van biomassa in een stookinstallatie met een thermisch vermogen van 15 megawatt of kleiner, waarbij de vrijkomende warmte nuttig wordt gebruikt, en de verbranding materiaalhergebruik niet belemmert;  
+
+33°. het verdichten van de onder 1 tot en met 32 genoemde categorieën van afvalstoffen binnen de aangegeven grenzen voor zover het niet gevaarlijke afvalstoffen betreft;  
+
+34°. het overslaan en scheiden en opbulken van de onder 1 tot en met 32 genoemde categorieën van afvalstoffen binnen de aangegeven grenzen.      
 
 ####Categorie 29
 
@@ -2324,13 +2428,13 @@ c. 40 dB(A) tussen 23.00 en 07.00 uur.
 
 ### Bijlage  II  
 
-####Behorende bij de artikelen 2.3  en 2.7 
+####Behorende bij de artikelen 2.3 , 2.5a  en 2.7 
 
 *Aanwijzing van categorieën gevallen waarin:*  
 
-–  *voor bouwactiviteiten en planologische gebruiksactiviteiten geen omgevingsvergunning is vereist,*   
+– voor bouwactiviteiten, planologische gebruiksactiviteiten en activiteiten met betrekking tot een beschermd monument geen omgevingsvergunning is vereist,  
 
-–  *voor planologische gebruiksactiviteiten een omgevingsvergunning als bedoeld in artikel 2.12, eerste lid, onder a, onder 2°, van de wet kan worden verleend*    
+– voor planologische gebruiksactiviteiten een omgevingsvergunning als bedoeld in [artikel 2.12, eerste lid, onder a, onder 2°, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) kan worden verleend   
 
 ### Hoofdstuk  I  
 
@@ -2382,7 +2486,7 @@ c. maten buitenwerks, waarbij uitstekende delen van ondergeschikte aard tot maxi
 
 Een omgevingsvergunning voor activiteiten als bedoeld in [artikel 2.1, eerste lid, onder a en c, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is niet vereist, indien deze activiteiten betrekking hebben op: 
 
-1. gewoon onderhoud;  
+1. gewoon onderhoud, voor zover detaillering, profilering en vormgeving niet wijzigen;  
 
 2. werkzaamheden ingevolge een besluit als bedoeld in [artikel 13](../../../../wet/woningwet/BWBR0005181/README.md), [13a](../../../../wet/woningwet/BWBR0005181/README.md) of [14 van de Woningwet](../../../../wet/woningwet/BWBR0005181/README.md);  
 
@@ -2620,7 +2724,7 @@ a. niet hoger dan 4 m, en
 
 b. uitsluitend functionerend met behulp van de zwaartekracht of de fysieke kracht van de mens;    
 
-5. een zwembad, whirlpool, jacuzzi of vijver op het erf bij een woning of woongebouw, mits deze niet van een overkapping is voorzien;  
+5. een zwembad, bubbelbad of soortgelijke voorziening, dan wel vijver op het erf bij een woning of woongebouw, mits deze niet van een overkapping is voorzien;  
 
 6. een bouwwerk, geen gebouw zijnde, in achtererfgebied ten behoeve van agrarische bedrijfsvoering, voor zover het betreft: 
 
@@ -2634,11 +2738,23 @@ b. een ander bouwwerk niet hoger dan 2 m;
 
 a. geen verandering van de draagconstructie,  
 
-b. geen verandering van de brandcompartimentering of subbrandcompartimentering,  
+b. geen verandering van de brandcompartimentering of beschermde subbrandcompartimentering,  
 
 c. geen uitbreiding van de bebouwde oppervlakte, en  
 
 d. geen uitbreiding van het bouwvolume.      
+
+### Hoofdstuk  IIIa  
+
+####Categorieën gevallen waarin voor activiteiten met betrekking tot een beschermd monument geen omgevingsvergunning is vereist
+
+### Artikel  3a  
+
+Een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder f, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is niet vereist, indien deze activiteit betrekking heeft op: 
+
+1. gewoon onderhoud als bedoeld in artikel 2, onderdeel 1, voor zover ook materiaalsoort en kleur niet wijzigen, en bij een tuin, park of andere aanleg, de aanleg niet wijzigt, of  
+
+2. een activiteit die uitsluitend leidt tot inpandige veranderingen van een onderdeel van het monument dat uit het oogpunt van monumentenzorg geen waarde heeft.    
 
 ### Hoofdstuk  IV  
 
@@ -2702,27 +2818,47 @@ d. de bewoner op 31 oktober 2003 meerderjarig was.
 
 ####Bijzondere bepalingen
 
+### Artikel  4a  
+
+1. Onverminderd artikel 5, zijn de artikelen 2 en 3 slechts van toepassing op een activiteit die plaatsvindt in, aan, op of bij een beschermd monument als bedoeld in [artikel 1, onder d, van de Monumentenwet 1988](../../../../wet/monumentenwet/1988/BWBR0004471/README.md), een monument waarop [artikel 5 van die wet](../../../../wet/monumentenwet/1988/BWBR0004471/README.md) van toepassing is, een krachtens een provinciale of gemeentelijke verordening aangewezen monument dan wel een monument waarop, voordat het is aangewezen, een zodanige verordening van overeenkomstige toepassing is, voor zover het een activiteit betreft als bedoeld in: 
+
+a. artikel 2, onderdelen 1 en 2, of  
+
+b. artikel 2, onderdelen 4 tot en met 21, of artikel 3, onderdelen 4 tot en met 8: 
+
+1°. in, aan of op een onderdeel van het monument dat uit het oogpunt van monumentenzorg geen waarde heeft, of  
+
+2°. bij een monument.      
+
+2. Onverminderd artikel 5, zijn de artikelen 2 en 3 slechts van toepassing op een activiteit die plaatsvindt in een beschermd stads- of dorpsgezicht, voor zover het een activiteit betreft als bedoeld in: 
+
+a. artikel 2, onderdelen 1 en 2, of  
+
+b. artikel 2, onderdelen 3 tot en met 21, of artikel 3 voor zover het betreft: 
+
+1°. inpandige veranderingen,  
+
+2°. een verandering van een achtergevel of achterdakvlak, mits die gevel of dat dakvlak niet naar openbaar toegankelijk gebied is gekeerd,  
+
+3°. een bouwwerk op erf aan de achterkant van een hoofdgebouw, mits dat erf niet ook deel uitmaakt van het erf aan de zijkant van dat gebouw en niet naar openbaar toegankelijk gebied is gekeerd, of  
+
+4°. een bouwwerk op gronden die onderdeel zijn van openbaar toegankelijk gebied.        
+
 ### Artikel  5  
 
 1. Bij de toepassing van de artikelen 2, 3 en 4 blijft het aantal woningen gelijk.  
 
 2. De artikelen 2 en 3 zijn niet van toepassing op een activiteit die plaatsvindt in, aan, op of bij een bouwwerk dat in strijd met [artikel 2.1 van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is gebouwd of wordt gebruikt.  
 
-3. Artikel 2, met uitzondering van de onderdelen 1 en 2, en artikel 3 zijn evenmin van toepassing op een activiteit die plaatsvindt: 
-
-a. in, aan, op of bij een beschermd monument als bedoeld in [artikel 1, onder d, van de Monumentenwet 1988](../../../../wet/monumentenwet/1988/BWBR0004471/README.md), een monument waarop [artikel 5 van die wet](../../../../wet/monumentenwet/1988/BWBR0004471/README.md) van toepassing is, een krachtens een provinciale of gemeentelijke verordening aangewezen monument dan wel een monument waarop, voordat het is aangewezen, een zodanige verordening van overeenkomstige toepassing is, of  
-
-b. in een beschermd stads- of dorpsgezicht en kan leiden tot andere dan uitsluitend inpandige veranderingen.    
-
-4. Artikel 2, onderdeel 3, is evenmin van toepassing op een activiteit die plaatsvindt in: 
+3. Artikel 2, onderdeel 3, is evenmin van toepassing op een activiteit die plaatsvindt in: 
 
 a. een in het bestemmingsplan of de beheersverordening opgenomen veiligheidszone, getypeerd als A-zone of B-zone, rondom een munitieopslag of een inrichting voor activiteiten met ontplofbare stoffen;  
 
 b. een ander gebied waarin die activiteit op grond van het bestemmingsplan of de beheersverordening niet is toegestaan vanwege het overschrijden van het plaatsgebonden risico van 10 <sup>-6</sup> per jaar als gevolg van de aanwezigheid van een inrichting, transportroute of buisleiding dan wel vanwege de ligging in een belemmeringenstrook ten behoeve van het onderhoud van een buisleiding.    
 
-5. Artikel 3, onderdelen 1 en 2, is evenmin van toepassing voor zover voor het bouwwerk waarop de activiteit betrekking heeft krachtens het bestemmingsplan regels gelden die met toepassing van [artikel 40 van de Monumentenwet 1988](../../../../wet/monumentenwet/1988/BWBR0004471/README.md) in het belang van de archeologische monumentenzorg zijn gesteld, tenzij de oppervlakte van het bouwwerk minder dan 50 m <sup>2</sup> bedraagt.  
+4. Artikel 3, onderdelen 1 en 2, is evenmin van toepassing voor zover voor het bouwwerk waarop de activiteit betrekking heeft krachtens het bestemmingsplan regels gelden die met toepassing van [artikel 40 van de Monumentenwet 1988](../../../../wet/monumentenwet/1988/BWBR0004471/README.md) in het belang van de archeologische monumentenzorg zijn gesteld, tenzij de oppervlakte van het bouwwerk minder dan 50 m <sup>2</sup> bedraagt.  
 
-6. Artikel 3, onderdeel 8, is evenmin van toepassing op een activiteit die tevens een activiteit is als bedoeld in artikel 2 of 3, onderdelen 1 tot en met 7, maar niet voldoet aan de in die artikelen ten aanzien van die activiteit gestelde eisen.    
+5. Artikel 3, onderdeel 8, is evenmin van toepassing op een activiteit die tevens een activiteit is als bedoeld in artikel 2 of 3, onderdelen 1 tot en met 7, maar niet voldoet aan de in die artikelen ten aanzien van die activiteit gestelde eisen.    
 
 ### Artikel  6  
 

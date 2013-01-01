@@ -72,10 +72,17 @@ c. de omzetbelasting die is verschuldigd over de vergoedingen, bedoeld onder a e
 
 ### Artikel  3  
 
-1.  Het basisbedrag bedraagt € 95,21 Per 1 juli 2011: € 112,94.   
-2.  Het basisbedrag en de vergoeding, bedoeld in artikel 27, eerste lid, worden jaarlijks aangepast overeenkomstig het voor dat jaar vastgestelde percentage voor de bijdrage in de kosten van de arbeidsvoorwaardenontwikkeling aan niet VWS-gebonden gepremieerde en gesubsidieerde sectoren. Het basisbedrag wordt afgerond op eurocenten. Onze Minister maakt de vastgestelde bedragen bekend door publicatie in de Staatscourant.   
-3.  De aanpassing van het basisbedrag en de vergoeding, bedoeld in artikel 27, eerste lid, vindt plaats met ingang van de eerste dag van de maand volgend op de datum waarop de in het tweede lid bedoelde norm is vastgesteld. Indien de norm wordt vastgesteld op een eerder tijdstip dan de datum waarop zij in werking treedt, worden het basisbedrag en de vergoeding aangepast per laatstbedoelde datum.   
-4.  De vaststelling van de vergoeding, bedoeld in het eerste lid van artikel 2, vindt plaats met toepassing van het basisbedrag en de vergoedingen, bedoeld in de artikelen 25 en 27, eerste lid, die golden ten tijde van de afgifte van de toevoeging op grond waarvan de rechtsbijstand is verleend of het tijdstip waarop rechtsbijstand is verleend in een piketzaak.   
+1.  Het basisbedrag bedraagt € 106,99.   
+2.  Het basisbedrag en de vergoeding, bedoeld in artikel 27, eerste lid, worden jaarlijks met ingang van 1 januari door Onze Minister gewijzigd met een percentage dat overeenkomt met 0,6 x (A – B) + (0,4 x C), waarbij: 
+
+a. A gelijk is aan het procentuele verschil tussen het indexcijfer van de CAO-lonen per uur, inclusief de bijzondere beloningen van het jaargemiddelde van het jaar t-2 en het daaraan voorafgaande jaargemiddelde, zoals die door het Centraal Bureau voor de Statistiek zijn bekendgemaakt;  
+
+b. B gelijk is aan het procentuele verschil tussen het indexcijfer van de arbeidsproductiviteit in alle sectoren van het jaargemiddelde van het jaar t-2 en het daaraan voorafgaande jaargemiddelde, zoals die door het Centraal Bureau voor de Statistiek zijn bekendgemaakt;  
+
+c. C gelijk is aan het procentuele verschil tussen de consumentenprijsindexcijfers voor alle huishoudens op de meest recente tijdsbasis van het jaargemiddelde van het jaar t-2 en het daaraan voorafgaande jaargemiddelde, zoals die door het Centraal Bureau voor de Statistiek zijn bekendgemaakt, en  
+
+d. onder t-2 wordt verstaan het tweede jaar voorafgaand aan het jaar waarin de gewijzigde bedragen zullen gelden.     
+3.  De vaststelling van de vergoeding, bedoeld in het eerste lid van artikel 2, vindt plaats met toepassing van het basisbedrag en de vergoedingen, bedoeld in de artikelen 25 en 27, eerste lid, die golden ten tijde van de afgifte van de toevoeging op grond waarvan de rechtsbijstand is verleend of het tijdstip waarop rechtsbijstand is verleend in een piketzaak.   
 
 ### Artikel  4  
 
@@ -290,7 +297,7 @@ De kosten die de rechtsbijstandverlener heeft moeten maken doordat hij zich bij 
 
 ### Artikel  27  
 
-1.  Voor de administratieve kosten die in het kader van de rechtsbijstandverlening worden gemaakt, wordt per toevoeging een vergoeding van € 16,33 Per 1 juli 2011: € 18,61 toegekend.   
+1.  Voor de administratieve kosten die in het kader van de rechtsbijstandverlening worden gemaakt, wordt per toevoeging een vergoeding van € 18,74 toegekend.   
 2.  Het eerste lid is niet van toepassing in gevallen waarin op grond van de [wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) aan een rechtzoekende op last van de rechter een raadsman wordt toegevoegd door het bestuur, alsmede in geval van een procedure in het kader van de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28, eerste lid, onderdeel a, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
 
 ### Hoofdstuk  IV  
@@ -345,7 +352,7 @@ Indien in een zaak achtereenvolgens door twee of meer rechtsbijstandverleners, n
 ### Artikel  35  
 
 1.  Het bestuur verleent aan de advocaat die is ingeschreven op grond van artikel 14 van de wet, telkens in de eerste maand van elk kwartaal een voorschot voor de krachtens dit besluit toe te kennen vergoedingen.   
-2.  Per jaar is de hoogte van het kwartaalvoorschot gelijk aan 50 procent van het door Onze Minister vast te stellen normbedrag vermenigvuldigd met een vierde deel van het aantal toevoegingen dat aan de advocaat is afgegeven in de periode van 1 september van het voorlaatste jaar tot 1 september van het jaar dat voorafgaat aan het jaar waarin het kwartaalvoorschot wordt verleend.   
+2.  Per jaar is de hoogte van het kwartaalvoorschot gelijk aan 25 procent van het door Onze Minister vast te stellen normbedrag vermenigvuldigd met een vierde deel van het aantal toevoegingen dat aan de advocaat is afgegeven in de periode van 1 september van het voorlaatste jaar tot 1 september van het jaar dat voorafgaat aan het jaar waarin het kwartaalvoorschot wordt verleend.   
 3.  Indien het normbedrag wijzigt, wijzigt het bestuur met ingang van het eerstvolgende kwartaal dienovereenkomstig de verlening van het kwartaalvoorschot.   
 4.  Het voorschot bedraagt ten hoogste een door Onze Minister te bepalen bedrag. Het voorschot wordt op nihil gesteld indien het aantal toevoegingen als bedoeld in het tweede lid blijft beneden een door Onze Minister te bepalen aantal.   
 5.  Indien de hoogte van het kwartaalvoorschot niet overeenkomstig de norm in het tweede lid kan worden berekend kan het bestuur gedurende de periode dat voornoemde norm niet kan worden toegepast, telkens een voorschot verlenen dat is gerelateerd aan het aantal toevoegingen dat aan de advocaat is afgegeven in het voorafgaande kwartaal. In afwijking van de eerste volzin wordt bij het berekenen van het eerste kwartaalvoorschot dat aan de betrokken advocaat wordt verleend het voorschot gerelateerd aan het aantal toevoegingen dat aan de advocaat is afgegeven in de voorafgaande maand. De tweede volzin van het vierde lid is niet van toepassing.   

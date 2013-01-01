@@ -208,11 +208,6 @@ De garanties strekken zich niet uit over het recht op kindertoelage voor kindere
 
 Tenzij bij of krachtens deze wet uitdrukkelijk anders is bepaald, worden de ter uitvoering van deze wet te nemen beslissingen genomen door Onze Minister.  
 
-### Artikel  9c  
-
-1.  In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten op grond van deze wet of een ander wettelijk voorschrift of andere regeling als bedoeld in [onderdeel B van de bijlage die bij de Beroepswet](../../../../../../wet/beroepswet/BWBR0002170/README.md) behoort, de rechtbank te 's-Gravenhage bevoegd.   
-2.  Tegen een besluit op grond van de Algemene Oorlogsongevallenregeling kan een belanghebbende beroep instellen bij de Centrale Raad van Beroep. Het griffierecht bedraagt € 35.   
-
 ### Artikel  10  
 
 Deze wet treedt in werking met ingang van de dag, volgende op die van haar afkondiging. Zij kan worden aangehaald als "Garantiewet Burgerlijk Overheidspersoneel Indonesië".  

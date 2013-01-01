@@ -26,7 +26,7 @@ Voor een afwijkend gebruik van de frequentieruimte is geen toestemming als bedoe
 
 ### Artikel  3  
 
-1.  Aan een afwijkend gebruik van de frequentieruimte ligt een besluit van of namens de Minister van Justitie ten grondslag. Indien de bevoegdheid tot het nemen van besluiten als hier bedoeld door de Minister van Justitie is gemandateerd, wordt van het mandaatbesluit alsmede van wijzigingen daarvan, een afschrift gezonden aan de Minister.   
+1.  Aan een afwijkend gebruik van de frequentieruimte ligt een besluit van of namens de Minister van Veiligheid en Justitie ten grondslag. Indien de bevoegdheid tot het nemen van besluiten als hier bedoeld door de Minister van Veiligheid en Justitie is gemandateerd, wordt van het mandaatbesluit alsmede van wijzigingen daarvan, een afschrift gezonden aan de Minister.   
 2.  Het besluit, bedoeld in het eerste lid, eerste volzin, omvat ten minste de volgende gegevens: 
 
 a. de naam van degene die het besluit heeft genomen, de datum en tijdstip waarop het besluit is genomen;  
@@ -41,8 +41,8 @@ e. een zo nauwkeurig mogelijke aanduiding van de geografische locaties waar de a
 
 ### Artikel  4  
 
-1.  Het besluit tot een afwijkend gebruik wordt door de Minister van Justitie, of door de mandataris als bedoeld in artikel 3, eerste lid, schriftelijk aan de Minister gemeld binnen uiterlijk 24 uur nadat het is genomen.   
-2.  Het besluit tot een afwijkend gebruik dat uit jammen bestaat, wordt door de Minister van Justitie, of door de mandataris als bedoeld in artikel 3, eerste lid, voorafgaand aan de tenuitvoerlegging in ieder geval mondeling aan de Minister gemeld.   
+1.  Het besluit tot een afwijkend gebruik wordt door de Minister van Veiligheid en Justitie, of door de mandataris als bedoeld in artikel 3, eerste lid, schriftelijk aan de Minister gemeld binnen uiterlijk 24 uur nadat het is genomen.   
+2.  Het besluit tot een afwijkend gebruik dat uit jammen bestaat, wordt door de Minister van Veiligheid en Justitie, of door de mandataris als bedoeld in artikel 3, eerste lid, voorafgaand aan de tenuitvoerlegging in ieder geval mondeling aan de Minister gemeld.   
 3.  Bij de melding worden de gegevens, bedoeld in artikel 3, tweede lid, verstrekt. Indien het afwijkend gebruik uit jammen bestaat worden daarbij, voorzover mogelijk, tevens de te hanteren vermogens van de te gebruiken apparatuur verstrekt.   
 
 ### Artikel  5  
@@ -63,7 +63,7 @@ a. voorzover de apparatuur wordt gebruikt voor scannen is zij voorzien van een i
 b. de apparatuur is voorzien van een inrichting waarmee het uitgezonden vermogen kan worden geregeld;  
 
 c. de apparatuur is geregistreerd bij de Minister.     
-2.  De apparatuur waarmee een afwijkend gebruik van de frequentieruimte is toegestaan, wordt opgeslagen op een door de korpsbeheerder aangewezen centrale plaats bij het regionale politiekorps of het Korps landelijke politiediensten.   
+2.  De apparatuur waarmee een afwijkend gebruik van de frequentieruimte is toegestaan, wordt opgeslagen op een door de korpschef aangewezen centrale plaats bij een regionale eenheid van de politie of de Landelijke eenheid.   
 
 ### Artikel  7  
 
@@ -71,7 +71,7 @@ Met de in artikel 6 bedoelde apparatuur wordt gelijkgesteld apparatuur die recht
 
 ### Artikel  8  
 
-Bevoegd tot het bedienen van de apparatuur waarmee een afwijkend gebruik van de frequentieruimte kan plaatsvinden zijn de in [artikel 141, aanhef, onderdeel b, van het Wetboek van Strafvordering](../../../../../../../wet/invoeringswet/wetboek/van/strafvordering/BWBR0001926/README.md) bedoelde opsporingsambtenaren die in het bezit zijn van een door de Minister van Justitie aangewezen verklaring waaruit blijkt dat de desbetreffende opsporingsambtenaar voldoende kennis heeft van de juridische, technische en operationele aspecten van het gebruik van de apparatuur.  
+Bevoegd tot het bedienen van de apparatuur waarmee een afwijkend gebruik van de frequentieruimte kan plaatsvinden zijn de in [artikel 141, aanhef, onderdeel b, van het Wetboek van Strafvordering](../../../../../../../wet/invoeringswet/wetboek/van/strafvordering/BWBR0001926/README.md) bedoelde opsporingsambtenaren die in het bezit zijn van een door de Minister van Veiligheid en Justitie aangewezen verklaring waaruit blijkt dat de desbetreffende opsporingsambtenaar voldoende kennis heeft van de juridische, technische en operationele aspecten van het gebruik van de apparatuur.  
 
 ### Artikel  9  
 

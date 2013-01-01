@@ -102,7 +102,11 @@ c. een persoon, groep of instelling die in het betreffende jaar subsidie van het
 
 ####Vergoeding
 
-De voorzitter en andere leden van de jury, voor zover geen ambtenaar, ontvangen per vergadering een beloning op basis van het [Vacatiegeldenbesluit 1988](../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) en de daarop gebaseerde voor het ministerie van Onderwijs, Cultuur en Wetenschap geldende bepalingen, waarbij de jury als algemene commissie in de zin van het [Vacatiegeldenbesluit 1988](../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) wordt aangemerkt. De vergoeding bedraagt het maximum dat geldt voor een algemene commissie.  
+1.  De voorzitter en andere leden van de jury, voor zover niet vallend onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](../../../../../../../wet/wet/vergoedingen/adviescolleges/en/commissies/BWBR0024775/README.md), ontvangen per vergadering een vergoeding.   
+2.  De vergoeding per vergadering van de leden van de jury bedraagt 2% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md).   
+3.  De vergoeding per vergadering van de voorzitter van de jury bedraagt 130% van de hoogte van de vergoeding per vergadering die aan de andere leden van de jury is toegekend.   
+4.  De voorzitter en andere leden van de jury ontvangen een vergoeding van reis- en verblijfkosten op de voet van het [Reisbesluit binnenland](../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) en het [Reisbesluit buitenland](../../../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md).   
+5.  Twee of meer vergaderingen op dezelfde dag worden als één vergadering aangemerkt.   
 
 ### Artikel  11  
 

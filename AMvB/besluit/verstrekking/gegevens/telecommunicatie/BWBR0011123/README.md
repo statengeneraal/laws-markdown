@@ -8,7 +8,7 @@ Op de voordracht van Onze Minister van Verkeer en Waterstaat van
 
 20 mei 1998, nr. HDTP/98/1553/HW, Hoofddirectie Telecommunicatie en Post in overeenstemming met Onze Ministers van Justitie en van Binnenlandse Zaken en Koninkrijksrelaties;
 
-Gelet op de [artikelen 13.1, tweede lid](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), 13.2, derde lid, 13.4, derde lid, en 20.18 van de Telecommunicatiewet;
+Gelet op de artikelen 13.1, tweede lid, 13.2, derde lid, 13.4, derde lid, en 20.18 van de Telecommunicatiewet;
 
 De Raad van State gehoord (advies van 19 augustus 1998, nr. W09.98.0215);
 
@@ -19,7 +19,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. wet: [Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+a. wet: Telecommunicatiewet;  
 
 b. informatiepunt: het Centraal informatiepunt onderzoek telecommunicatie, bedoeld in artikel 2;  
 
@@ -27,13 +27,13 @@ c. aanbieder: de aanbieder van een openbaar telecommunicatienetwerk of een openb
 
 d. bevoegde autoriteit: 
 
-1°. de rechter-commissaris in strafzaken, de officier van justitie, de beheerder van een politiekorps of het hoofd van een opsporingsdienst, dan wel de door de beheerder voor zijn korps of door het hoofd voor zijn dienst aangewezen opsporingsambtenaar,  
+1°. de rechter-commissaris in strafzaken, de officier van justitie, de korpschef, bedoeld in artikel 27 van de Politiewet 2012, of het hoofd van een opsporingsdienst, dan wel de door de korpschef voor zijn korps of door het hoofd voor zijn dienst aangewezen opsporingsambtenaar,  
 
 2°. het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst, of de door hem aangewezen ambtenaar,  
 
 3°. het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst, of de door hem aangewezen ambtenaar;    
 
-e. informatie: de informatie, bedoeld in [artikel 13.4, eerste lid, van de wet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), voor zover deze informatie geen betrekking heeft op een ander nummer dan het aansluitnummer voor vaste of mobiele openbare telefoonnetwerken, en geen betrekking heeft op een ander nummer dan de inlognaam of gebruikersnaam, een e-mail adres, identificatienummers van randapparaten of een toegewezen Internet-protocol-nummer voor openbare telecommunicatienetwerken en openbare telecommunicatiediensten die uitsluitend bestaan in de verlening van toegang tot Internet of de door middel van Internet te leveren of te verrichten diensten;  
+e. informatie: de informatie, bedoeld in artikel 13.4, eerste lid, van de wet, voor zover deze informatie geen betrekking heeft op een ander nummer dan het aansluitnummer voor vaste of mobiele openbare telefoonnetwerken, en geen betrekking heeft op een ander nummer dan de inlognaam of gebruikersnaam, een e-mail adres, identificatienummers van randapparaten of een toegewezen Internet-protocol-nummer voor openbare telecommunicatienetwerken en openbare telecommunicatiediensten die uitsluitend bestaan in de verlening van toegang tot Internet of de door middel van Internet te leveren of te verrichten diensten;  
 
 f. gebruiker: de natuurlijke of rechtspersoon die met de aanbieder een overeenkomst is aangegaan met betrekking tot het gebruik van een netwerk of de levering van een openbare telecommunicatiedienst, alsmede de natuurlijke of rechtspersoon die daadwerkelijk gebruik maakt van een openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst;  
 
@@ -45,7 +45,7 @@ g. aansluitnummer:
 
 ### Artikel  2  
 
-Onze Minister van Justitie is belast met het langs geautomatiseerde weg doorgeleiden van verzoeken om en verstrekkingen van informatie. Hij voert deze taak uit door middel van het Centraal informatiepunt onderzoek telecommunicatie.  
+Onze Minister van Veiligheid en Justitie is belast met het langs geautomatiseerde weg doorgeleiden van verzoeken om en verstrekkingen van informatie. Hij voert deze taak uit door middel van het Centraal informatiepunt onderzoek telecommunicatie.  
 
 ### Artikel  3  
 
@@ -80,8 +80,8 @@ d. de naam van de aanbieder van het openbare telecommunicatienetwerk met behulp 
 
 ### Artikel  5  
 
-1.  Een verzoek van de bevoegde autoriteit, bedoeld in artikel 3, tweede lid, kan slechts in het systeem worden ingevoerd door een door Onze Minister van Justitie geautoriseerde ambtenaar die daartoe gebruik maakt van een hem toegekende toegangscode.   
-2.  De technische voorzieningen, bedoeld in artikel 3, eerste lid, zijn alleen toegankelijk voor personen die door Onze Minister van Justitie zijn geautoriseerd.   
+1.  Een verzoek van de bevoegde autoriteit, bedoeld in artikel 3, tweede lid, kan slechts in het systeem worden ingevoerd door een door Onze Minister van Veiligheid en Justitie geautoriseerde ambtenaar die daartoe gebruik maakt van een hem toegekende toegangscode.   
+2.  De technische voorzieningen, bedoeld in artikel 3, eerste lid, zijn alleen toegankelijk voor personen die door Onze Minister van Veiligheid en Justitie zijn geautoriseerd.   
 3.  De vergelijking en doorgeleiding, bedoeld in artikel 3, vierde lid, kan 24 uur per dag plaatsvinden.   
 4.  Bij de toegang, bedoeld in artikel 3, derde lid, tot het bestand, bedoeld in artikel 4, eerste lid, en de vergelijking en doorgeleiding, bedoeld in artikel 3, vierde lid, worden: 
 
@@ -95,21 +95,21 @@ c. aan het informatiepunt of de bevoegde autoriteit geen andere gegevens bekend 
 
 ### Artikel  6  
 
-Bij regeling van Onze Minister van Justitie kunnen regels worden gesteld met betrekking tot de werkwijze van het informatiepunt.  
+Bij regeling van Onze Minister van Veiligheid en Justitie kunnen regels worden gesteld met betrekking tot de werkwijze van het informatiepunt.  
 
 ### Artikel  7  
 
-1.  Onze Minister van Justitie draagt er zorg voor dat het informatiepunt voor elke informatieverstrekking een kenmerk vastlegt aan de hand waarvan kan worden herleid door welke aanbieder, aan welke bevoegde autoriteit en op welke rechtsgrondslag informatie is verstrekt. De vastlegging wordt gedurende drie jaren bewaard.   
-2.  Onze Minister van Justitie draagt er zorg voor dat het informatiepunt geen gegevens opslaat als bedoeld in artikel 4, eerste lid, tenzij de gegevens worden opgeslagen onder verantwoordelijkheid van de aanbieder op basis van een overeenkomst als bedoeld in artikel 3, zesde lid. De vastlegging, bedoeld in het eerste lid, vindt op zodanige wijze plaats dat daarin geen gegevens worden opgenomen die herleidbaar zijn tot personen op wie een verzoek om informatie betrekking heeft.   
+1.  Onze Minister van Veiligheid en Justitie draagt er zorg voor dat het informatiepunt voor elke informatieverstrekking een kenmerk vastlegt aan de hand waarvan kan worden herleid door welke aanbieder, aan welke bevoegde autoriteit en op welke rechtsgrondslag informatie is verstrekt. De vastlegging wordt gedurende drie jaren bewaard.   
+2.  Onze Minister van Veiligheid en Justitie draagt er zorg voor dat het informatiepunt geen gegevens opslaat als bedoeld in artikel 4, eerste lid, tenzij de gegevens worden opgeslagen onder verantwoordelijkheid van de aanbieder op basis van een overeenkomst als bedoeld in artikel 3, zesde lid. De vastlegging, bedoeld in het eerste lid, vindt op zodanige wijze plaats dat daarin geen gegevens worden opgenomen die herleidbaar zijn tot personen op wie een verzoek om informatie betrekking heeft.   
 
 ### Artikel  8  
 
-1.  Onze Minister van Justitie stelt jaarlijks een verslag op waarin voor wat betreft de opsporing van strafbare feiten melding wordt gemaakt van het aantal malen waarin door tussenkomst van het informatiepunt aan een bevoegde autoriteit informatie is verstrekt. Deze vermelding is in ieder geval uitgesplitst naar: 
+1.  Onze Minister van Veiligheid en Justitie stelt jaarlijks een verslag op waarin voor wat betreft de opsporing van strafbare feiten melding wordt gemaakt van het aantal malen waarin door tussenkomst van het informatiepunt aan een bevoegde autoriteit informatie is verstrekt. Deze vermelding is in ieder geval uitgesplitst naar: 
 
 a. de rechtsgrondslag van het verzoek van de bevoegde autoriteit,  
 
-b. de arrondissementsparketten en de politiekorpsen, of andere opsporingsdiensten.     
-2.  Onze Minister van Justitie stelt jaarlijks een verslag op van een audit naar de goede uitvoering van dit besluit door de aanbieders van openbare telecommunicatiediensten of van openbare telecommunicatienetwerken, het informatiepunt, de arrondissementsparketten en de politiekorpsen, of andere opsporingsdiensten. Daarbij worden ten minste de volgende onderwerpen behandeld: 
+b. de arrondissementsparketten en de politie, of andere opsporingsdiensten.     
+2.  Onze Minister van Veiligheid en Justitie stelt jaarlijks een verslag op van een audit naar de goede uitvoering van dit besluit door de aanbieders van openbare telecommunicatiediensten of van openbare telecommunicatienetwerken, het informatiepunt, de arrondissementsparketten en de politie, of andere opsporingsdiensten. Daarbij worden ten minste de volgende onderwerpen behandeld: 
 
 a. de werking van het systeem;  
 
@@ -128,7 +128,7 @@ Wijzigt het Besluit aftappen openbare telecommunicatienetwerken en -diensten.
 ### Artikel  11  
 
 1.  De artikelen 2 tot en met 7 zijn tot 1 september 2007 niet van toepassing op verzoeken om informatie gericht tot of verstrekkingen van informatie afkomstig van de aanbieder van een openbare telecommunicatiedienst die uitsluitend bestaat in de verlening van toegang tot Internet en de door middel van Internet te leveren of te verrichten diensten.   
-2.  Onze Minister van Justitie, een aanbieder als bedoeld in het eerste lid en iedere bevoegde autoriteit kunnen gezamenlijk beslissen bij de verzoeken en de verstrekkingen, bedoeld in het eerste lid, gebruik te maken van het informatiepunt en de en daarbij toepassing te geven aan de artikelen 2 tot en met 7.   
+2.  Onze Minister van Veiligheid en Justitie, een aanbieder als bedoeld in het eerste lid en iedere bevoegde autoriteit kunnen gezamenlijk beslissen bij de verzoeken en de verstrekkingen, bedoeld in het eerste lid, gebruik te maken van het informatiepunt en de en daarbij toepassing te geven aan de artikelen 2 tot en met 7.   
 
 ### Artikel  13  
 

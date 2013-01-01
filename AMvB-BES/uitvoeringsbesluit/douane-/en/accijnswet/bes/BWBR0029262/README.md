@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1.1  
 
-1.  Dit besluit geeft uitvoering aan de [artikelen 2.2, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.26, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.34](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.35, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.36, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.37](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.43](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.44, vijfde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.48, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.57, zesde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.66, achtste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.99](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.115](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.135](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.4, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.5, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.24, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.34, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.49](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.58](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) en [4.60, eerste lid, van de Douane- en Accijnswet BES](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md).   
+1.  Dit besluit geeft uitvoering aan de [artikelen 2.2, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.26, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.34](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.35, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.36, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.37](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.43](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.44, vijfde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.48, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.57, zesde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.66, achtste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.99](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.115](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.135](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.4, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.5, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.24, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.34, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.49, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.50a, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.58, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), en [4.60, eerste lid, van de Douane- en Accijnswet BES](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md).   
 2.  Dit besluit verstaat onder wet: [Douane- en Accijnswet BES](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md).   
 
 ### Hoofdstuk  2  
@@ -67,7 +67,7 @@ a. *Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie;
 
 b. *goederen voor tweeërlei gebruik:* goederen die zowel een civiele als een militaire bestemming kunnen hebben, met inbegrip van alle goederen die voor niet-explosieve doeleinden gebruikt kunnen worden en op enige manier bijdragen aan de vervaardiging van nucleaire wapens of andere nucleaire explosiemiddelen;  
 
-c. *militaire goederen:* de militaire goederen, bedoeld in een door Onze Minister na overleg met Onze Minister wie het mede aangaat vast te stellen ministeriële regeling;  
+c. *militaire goederen:* de militaire goederen, bedoeld in een door Onze Minister van Financiën in overeenstemming met Onze Minister na overleg met Onze Minister die het mede aangaat vast te stellen ministeriële regeling;  
 
 d. *verordening 428/2009:*verordening (EG) nr. 428/2009 van de Raad van de Europese Unie van 5 mei 2009 tot instelling van een communautaire regeling voor controle op de uitvoer, de overbrenging, de tussenhandel en de doorvoer van goederen voor tweeërlei gebruik (PbEU L 134);  
 
@@ -85,11 +85,11 @@ a. de exporteur door Onze Minister is meegedeeld dat de goederen geheel of gedee
 b. op het kopende land of het land van bestemming een wapenembargo rust waartoe besloten is in een door de Raad van de Europese Unie aangenomen gemeenschappelijk standpunt of gemeenschappelijk optreden of een besluit van de Organisatie voor Veiligheid en Samenwerking in Europa (OVSE), of een wapenembargo uit hoofde van een bindende resolutie van de Veiligheidsraad van de Verenigde Naties, en indien de exporteur door Onze Minister is meegedeeld dat de goederen geheel of gedeeltelijk bestemd zijn of kunnen zijn voor militair eindgebruik;  
 
 c. de exporteur door Onze Minister is meegedeeld dat de goederen geheel of gedeeltelijk bestemd zijn of kunnen zijn om te worden gebruikt als onderdelen of componenten van militaire goederen.     
-3.  Bij regeling van Onze Minister kan om redenen van openbare veiligheid of uit mensenrechtenoverwegingen een verbod worden ingesteld op, of een vergunning verplicht worden gesteld voor, de uitvoer van goederen voor tweeërlei gebruik die niet zijn genoemd in bijlage I van verordening 428/2009.   
+3.  Bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister kan om redenen van openbare veiligheid of uit mensenrechtenoverwegingen een verbod worden ingesteld op, of een vergunning verplicht worden gesteld voor, de uitvoer van goederen voor tweeërlei gebruik die niet zijn genoemd in bijlage I van verordening 428/2009.   
 
 ### Artikel  2.4  
 
-1.  Doorvoer van goederen voor tweeërlei gebruik, die voorkomen op de lijst in bijlage I van verordening 428/2009, kan bij besluit van Onze Minister worden verboden, indien de goederen geheel of gedeeltelijk bestemd zijn of kunnen zijn voor de in artikel 2.3, tweede lid, onderdeel a, genoemde doeleinden.   
+1.  Doorvoer van goederen voor tweeërlei gebruik, die voorkomen op de lijst in bijlage I van verordening 428/2009, kan bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister worden verboden, indien de goederen geheel of gedeeltelijk bestemd zijn of kunnen zijn voor de in artikel 2.3, tweede lid, onderdeel a, genoemde doeleinden.   
 2.  Voordat hij een besluit neemt over het al dan niet verbieden van doorvoer, kan Onze Minister in individuele gevallen een vergunningsplicht opleggen voor een specifiek geval van doorvoer van goederen voor tweeërlei gebruik.   
 
 ### Artikel  2.5  
@@ -104,12 +104,12 @@ Indien Onze Minister heeft bepaald dat de uitvoer of de doorvoer van daarbij aan
 a. op de doorvoer van militaire goederen die uitsluitend worden vervoerd door de territoriale wateren of door het luchtruim van de BES eilanden;  
 
 b. op de doorvoer van militaire goederen die afkomstig zijn uit, of als eindbestemming hebben Australië, Japan, Nieuw-Zeeland, Zwitserland of één van de lidstaten van de Europese Unie of de Noord-Atlantische verdragsorganisatie (NAVO).     
-3.  Onze Minister kan besluiten dat voor de uitvoer of doorvoer van militaire goederen in situaties als bedoeld in het tweede lid een vergunning is vereist: 
+3.  Bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister kan worden bepaald dat voor de uitvoer of doorvoer van militaire goederen in situaties als bedoeld in het tweede lid een vergunning is vereist: 
 
 a. indien het belang van de internationale rechtsorde of een daarop betrekking hebbende internationale afspraak dat vereist; of  
 
 b. indien Onze Minister dit noodzakelijk acht voor de bescherming van de wezenlijke belangen van de nationale veiligheid.     
-4.  In andere gevallen dan die, bedoeld in het tweede lid, kan bij regeling van Onze Minister vrijstelling worden verleend van het eerste lid.   
+4.  In andere gevallen dan die, bedoeld in het tweede lid, kan bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister vrijstelling worden verleend van het eerste lid.   
 5.  Onze Minister kan op aanvraag ontheffing verlenen van het eerste lid.   
 6.  Vrijstellingen en ontheffingen kunnen onder beperkingen worden verleend en daaraan kunnen voorschriften worden verbonden.   
 7.  Het is verboden om de goederen, bedoeld in lijst 2 van onderdeel B van de bijlage inzake stoffen bij het op 13 januari 1983 tot stand gekomen Verdrag tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens (Trb. 1993, 162) in te voeren op de BES eilanden uit landen, die geen partij zijn bij dit verdrag.   
@@ -117,14 +117,14 @@ b. indien Onze Minister dit noodzakelijk acht voor de bescherming van de wezenli
 ### Artikel  2.7  
 
 1.  Indien op basis van deze afdeling geen vergunning is vereist voor de uitvoer of de doorvoer van militaire goederen, vindt een melding plaats bij Onze Minister.   
-2.  Ten aanzien van de melding, bedoeld in het eerste lid, worden bij regeling van Onze Minister regels gesteld over: 
+2.  Ten aanzien van de melding, bedoeld in het eerste lid, worden bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister regels gesteld over: 
 
 a. de wijze waarop en door wie een melding moet worden gedaan;  
 
 b. het tijdstip van de melding; en  
 
 c. de inhoud van de melding.     
-3.  Bij regeling van Onze Minister kan vrijstelling worden verleend van het eerste lid.   
+3.  Bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister kan vrijstelling worden verleend van het eerste lid.   
 4.  Onze Minister kan op aanvraag ontheffing verlenen van het eerste lid.   
 5.  Vrijstellingen en ontheffingen kunnen onder beperkingen worden verleend en daar kunnen voorschriften aan worden verbonden.   
 
@@ -133,7 +133,7 @@ c. de inhoud van de melding.
 1.  De vergunning, bedoeld in de artikelen 2.3, 2.4, tweede lid, en 2.6 wordt op aanvraag verleend door Onze Minister.   
 2.  Exporteurs verstrekken alle informatie die vereist is voor hun aanvragen van vergunningen, zodat Onze Minister over volledige informatie beschikt, met name ten aanzien van de eindgebruiker, het land van bestemming en het eindgebruik van het uitgevoerde goed.   
 3.  Onze Minister kan aan de vergunning voorschriften en voorwaarden verbinden.   
-4.  Ten aanzien van de vergunningverlening worden bij regeling van Onze Minister nadere regels gesteld over: 
+4.  Ten aanzien van de vergunningverlening worden bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister nadere regels gesteld over: 
 
 a. de wijze waarop en door wie een vergunning wordt aangevraagd;  
 
@@ -513,7 +513,7 @@ a. op welke gronden de vergunning aan de beoogd beheerder is verleend, in het bi
 
 b. op welke voorwaarden de vergunning is verleend, in het bijzonder ten aanzien van de ligging, de afscheiding van andere percelen en de bouw van de betreffende inrichting;  
 
-c. op welke wijze de rekening van de in- en uitslag van goederen wordt bijgehouden;  
+c. op welke wijze de goederenrekening van de in- en uitslag van goederen wordt bijgehouden;  
 
 d. dat een voorraadadministratie en een administratieve organisatie worden gevoerd overeenkomstig de daaraan te stellen eisen, in gevallen waarin wordt afgezien van ambtelijke sluiting van het douane-entrepot;  
 
@@ -558,7 +558,7 @@ c. waarbij de bescherming van intellectuele eigendomsrechten in het geding is.
 
 1.  Goederen die overeenkomstig het bepaalde in [artikel 2.16, derde en vierde lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn overgebracht naar een douane-entrepot, worden, na daartoe verkregen toestemming van de inspecteur op het douanekantoor van bestemming, ingeslagen in het douane-entrepot. Voor de inslag in het douane-entrepot dient het document waarmee de goederen zijn overgebracht.   
 2.  De inspecteur tekent het betreffende exemplaar van het overbrengingsdocument af indien wordt vastgesteld dat de eventueel aangebrachte ambtelijke verzegeling niet is geschonden of verwijderd, de overgebrachte goederen niet zijn gebruikt en de identiteit van de aangebrachte goederen overeenstemt met die van de goederen die bij het kantoor van vertrek werden aangegeven. Dit exemplaar wordt ingezonden aan het kantoor van vertrek ten behoeve van de zuivering.   
-3.  Indien de inslag plaats vindt in een douane-entrepot waar van de goederen een rekening wordt bijgehouden, vindt debitering van die rekening plaats, waarvan aantekening wordt gesteld op het document.   
+3.  Indien de inslag plaats vindt in een douane-entrepot waar van de goederen een goederenrekening wordt bijgehouden, vindt debitering van die goederenrekening plaats, waarvan aantekening wordt gesteld op het document.   
 4.  Opgeslagen goederen kunnen gedurende de opslag worden verhandeld. De aansprakelijkheid voor de nakoming van verplichtingen uit hoofde van de entreposering rust op degene te wiens name de goederen zijn ingeslagen, tenzij de aansprakelijkheid met toestemming van de inspecteur op een ander is overgedragen.   
 
 ### Artikel  2.45  
@@ -624,41 +624,78 @@ Degene die artikel 2.43, eerste lid, overtreedt, maakt zich schuldig aan het ple
 
 ### Artikel  3.1  
 
-1.  Het brengen als bedoeld in [artikel 4.4, tweede lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) van een accijnsgoed vanuit een accijnsgoederenplaats naar één van de in dat lid genoemde bestemmingen wordt aangetoond met een geleidedocument.   
-2.  Het geleidedocument wordt opgemaakt door de vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen worden overgebracht.   
-3.  Het geleidedocument of een afschrift daarvan wordt in het geval van de bestemmingen bedoeld in [artikel 4.4, tweede lid, onderdelen a, b en c](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) binnen één maand na de aanvang van de overbrenging van de goederen terug ontvangen door de vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen zijn overgebracht, voorzien van een verklaring van de vergunninghouder van de accijnsgoederenplaats, het douane-entrepot of het handels- en dienstenentrepot waarnaar de accijnsgoederen zijn overgebracht, dat de accijnsgoederen hun bestemming hebben bereikt en in zijn administratie zijn opgenomen.   
-4.  Het brengen, bedoeld in [artikel 4.4, tweede lid, onderdeel d, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) van een accijnsgoed vanuit een accijnsgoederenplaats naar een plaats buiten de BES eilanden of, indien het de accijnsgoederen bedoeld in [artikel 4.1, tweede lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) betreft, buiten Bonaire, wordt aangetoond met een voor uitvoer afgetekend exemplaar van de aangifte ten uitvoer, bedoeld in [artikel 2.27 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md).   
-5.  De vergunninghouder van de accijnsgoederenplaats, het douane-entrepot of het handels- en dienstenentrepot waarnaar de accijnsgoederen zijn overgebracht, draagt zorg voor de terugzending van het in het derde lid bedoelde geleidedocument of van een afschrift daarvan.   
-6.  Het terugzendingsexemplaar, bedoeld in het derde lid, wordt door de in het eerste lid bedoelde geadresseerde voorzien van de volgende vermeldingen: 
+1.  Het brengen, bedoeld in [artikel 4.4, tweede lid, onderdeel a, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), van een accijnsgoed vanuit een accijnsgoederenplaats naar een andere accijnsgoederenplaats wordt aangetoond met een vormvrij geleidedocument waarin ten minste de volgende gegevens zijn opgenomen: 
 
-a. het adres van het kantoor van de belastingautoriteiten waaronder de geadresseerde ressorteert;  
+a. een uniek doorlopend referentienummer;  
+
+b. naam, adres, woonplaats en vergunningnummer van de vergunninghouder van de accijnsgoederenplaats van verzending;  
+
+c. plaats en datum van verzending;  
+
+d. het soort vervoermiddel onder vermelding van een identificatiegegeven van dat vervoermiddel;  
+
+e. naam, adres, woonplaats en vergunningnummer van de vergunninghouder van de accijnsgoederenplaats van bestemming;  
+
+f. de soort en hoeveelheid accijnsgoederen alsmede de voor de accijnsheffing van belang zijnde samenstelling van de accijnsgoederen;  
+
+g. voor zover het verpakte accijnsgoederen betreft: het bruto- en nettogewicht;  
+
+h. het op de overbrenging betrekking hebbende factuurnummer en de datum van facturering;  
+
+i. naam en telefoonnummer van de persoon die het geleidedocument heeft ondertekend; en  
+
+j. plaats en datum van ondertekening.     
+2.  Het geleidedocument wordt opgemaakt door de vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen worden overgebracht.   
+3.  De vergunninghouder van de accijnsgoederenplaats waar naartoe de accijnsgoederen zijn overgebracht, draagt zorg voor de terugzending van het in het eerste lid bedoelde geleidedocument of van een afschrift daarvan, voorzien van de volgende vermeldingen: 
+
+a. het adres van het kantoor van de belastingautoriteiten waaronder hij ressorteert;  
 
 b. de datum en plaats van ontvangst van de accijnsgoederen;  
 
-c. eventuele verschillen tussen de ontvangen accijnsgoederen en de gegevens met betrekking tot die accijnsgoederen op het geleidedocument. In geval van overeenstemming moet de vermelding «zending conform» worden aangebracht; en  
+c. een eventueel verschil tussen de hoeveelheid ontvangen accijnsgoederen en de op het geleidedocument vermelde hoeveelheid, met dien verstande dat indien er geen verschil is, «zending conform» wordt vermeld; en  
 
-d. de geautoriseerde handtekening van de geadresseerde.     
-7.  Indien het terugzendingsexemplaar van het geleidedocument niet wordt terugontvangen voorzien van de in het zesde lid bedoelde vermeldingen, stelt de vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen zijn verzonden de inspecteur daarvan in kennis uiterlijk binnen drie maanden na de datum van verzending van de accijnsgoederen.   
-8.  Het geleidedocument als bedoeld in het eerste lid kan op verzoek achterwege blijven indien: 
+d. de handtekening van degene die hiertoe door de vergunninghouder is geautoriseerd, van welke autorisatie de belastingautoriteiten in kennis zijn gesteld.     
+4.  Het geleidedocument of een afschrift daarvan wordt binnen vijf werkdagen na de aanvang van de overbrenging van de accijnsgoederen terugontvangen door de vergunninghouder van de accijnsgoederenplaats vanwaaruit de accijnsgoederen zijn overgebracht, voorzien van een verklaring van de vergunninghouder van de accijnsgoederenplaats waar naartoe de accijnsgoederen zijn overgebracht, dat de accijnsgoederen hun bestemming hebben bereikt en in zijn administratie zijn opgenomen.   
+5.  Het brengen, bedoeld in [artikel 4.4, tweede lid, onderdeel b, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), van een accijnsgoed vanuit een accijnsgoederenplaats naar een plaats buiten de BES eilanden wordt aangetoond met een door de inspecteur voor uitvoer afgetekend exemplaar van de aangifte ten uitvoer, bedoeld in [artikel 2.27 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md).   
+6.  Indien het terugzendingsexemplaar van het geleidedocument niet wordt terugontvangen stelt de vergunninghouder van de accijnsgoederenplaats vanwaaruit de accijnsgoederen zijn verzonden de inspecteur daarvan in kennis uiterlijk acht werkdagen na de datum van verzending van de accijnsgoederen.   
+7.  Indien de inspecteur, onverminderd het achtste en negende lid, niet uiterlijk acht werkdagen na de datum, bedoeld in het zesde lid, ervan in kennis is gesteld dat de accijnsgoederen hun bestemming niet hebben bereikt, worden deze goederen aangemerkt als te zijn uitgeslagen uit de accijnsgoederenplaats vanwaaruit de overbrenging is aangevangen.   
+8.  Het geleidedocument, bedoeld in het eerste lid, kan op verzoek achterwege blijven indien: 
 
-a. de vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen worden overgebracht beschikt over een administratie waarin deze overbrengingen afzonderlijk worden bijgehouden en waaruit naar het oordeel van de inspecteur de overbrengingen op overzichtelijke wijze zijn af te lezen; en  
+a. de vergunninghouder van de accijnsgoederenplaats vanwaaruit de accijnsgoederen worden overgebracht beschikt over een administratie waarin deze overbrengingen afzonderlijk worden bijgehouden en waaruit naar het oordeel van de inspecteur de overbrengingen op overzichtelijke wijze zijn af te lezen; en  
 
-b. de vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen worden overgebracht bij zijn aangifte opgave doet van de door hem in het tijdvak waarover aangifte wordt gedaan zonder geleidedocument overgebrachte accijnsgoederen.     
-9.  In de opgave als bedoeld in het achtste lid, onderdeel b, worden per overbrenging vermeld: 
+b. de vergunninghouder van de accijnsgoederenplaats vanwaaruit de accijnsgoederen worden overgebracht bij zijn aangifte opgave doet van de door hem in het tijdvak waarover aangifte wordt gedaan zonder geleidedocument overgebrachte accijnsgoederen.     
+9.  In de opgave, bedoeld in het achtste lid, onderdeel b, worden per overbrenging vermeld: 
 
-a. de naam, het adres en het vergunningnummer van de vergunninghouder van de accijnsgoederenplaats, het douane-entrepot of het handels- en dienstenentrepot waarnaar de accijnsgoederen zijn overgebracht;  
+a. de naam, het adres en het vergunningnummer van de vergunninghouder van de accijnsgoederenplaats waar naartoe de accijnsgoederen zijn overgebracht;  
 
 b. de soort, de hoeveelheid en de voor de accijnsheffing van belang zijnde samenstelling van de accijnsgoederen; en  
 
 c. de datum waarop de overbrenging van de accijnsgoederen is aangevangen.     
-10.  Indien met inachtneming van het achtste en negende lid zonder geleidedocument overgebrachte accijnsgoederen de opgegeven bestemming niet binnen één maand na de aanvang van de overbrenging blijken te hebben bereikt, worden zij aangemerkt als te zijn uitgeslagen uit de accijnsgoederenplaats van waaruit de overbrenging is aangevangen.   
-11.  De toestemming voor toepassing van het achtste lid wordt opgenomen in de vergunning voor de accijnsgoederenplaats van waaruit de accijnsgoederen worden overgebracht. Op de toestemming zijn de [artikelen 4.31, onderdelen a, c, d, e en f](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.32](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) en [4.33 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) van overeenkomstige toepassing.   
+10.  De toestemming voor toepassing van het achtste lid wordt opgenomen in de vergunning voor de accijnsgoederenplaats van waaruit de accijnsgoederen worden overgebracht. Op de toestemming zijn de [artikelen 4.31, onderdelen a, c, d, e en f](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.32](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) en [4.33 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) van overeenkomstige toepassing.   
+11.  Wanneer een overbrenging als bedoeld in het eerste lid niet plaatsvindt terwijl er reeds een geleidedocument is opgesteld, plaatst de vergunninghouder van de accijnsgoederenplaats, bedoeld in het tweede lid, op dit geleidedocument de vermelding «vervallen» en de reden van het niet-plaatsvinden van de overbrenging. Hij neemt dit vervallen geleidedocument op in zijn administratie.   
 
 ### Artikel  3.2  
 
-1.  Het brengen, bedoeld in [artikel 4.5, tweede lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), van een accijnsgoed vanuit een plaats buiten één van de openbare lichamen Bonaire, Sint Eustatius of Saba of vanuit een plaats voor tijdelijke opslag naar een accijnsgoederenplaats die voor dat soort accijnsgoed als zodanig is aangewezen, naar een douane-entrepot of naar een handels- en dienstenentrepot, wordt bij het op grond van de bepalingen van [hoofdstuk II van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) aangeven voor het vrije verkeer van dat accijnsgoed aangetoond met een vervoersopdracht, waarop een verklaring is gesteld van de vergunninghouder van de accijnsgoederenplaats, het douane-entrepot of het handels- en dienstenentrepot waarnaar de accijnsgoederen zullen worden overgebracht, dat deze overbrenging aldus plaatsvindt en in zijn administratie wordt opgenomen.   
-2.  De accijnsgoederen bereiken binnen één maand na het tijdstip waarop de op grond van [hoofdstuk II van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) vereiste aangifte is gedaan hun bestemming.   
-3.  De vervoersopdracht wordt opgemaakt door de vergunninghouder van de accijnsgoederenplaats, het douane-entrepot of het handels- en dienstenentrepot waarnaar de accijnsgoederen worden overgebracht, of in diens opdracht.   
+1.  Het brengen, bedoeld in [artikel 4.5, tweede lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), van een accijnsgoed vanuit een plaats buiten de BES eilanden of vanuit een plaats voor tijdelijke opslag dan wel vanuit een douane-entrepot of een handels- en dienstenentrepot naar een accijnsgoederenplaats, die voor dat soort accijnsgoed als zodanig is aangewezen, wordt bij de aangifte ten invoer met opslag in een accijnsgoederenplaats aangetoond met een vormvrije vervoersopdracht waarop een verklaring is gesteld van de vergunninghouder van de accijnsgoederenplaats waar naartoe de accijnsgoederen worden overgebracht, dat deze overbrenging aldus plaatsvindt en in zijn administratie wordt opgenomen.   
+2.  De vervoersopdracht, bedoeld in het eerste lid, wordt opgemaakt door de vergunninghouder van de accijnsgoederenplaats waar naartoe de accijnsgoederen worden overgebracht, of in diens opdracht.   
+3.  In de vervoersopdracht worden opgenomen: 
+
+a. de naam en het adres van degene die de vervoersopdracht opmaakt dan wel van degene in wiens opdracht zij wordt opgemaakt;  
+
+b. de naam en het adres van degene die de accijnsgoederen overbrengt;  
+
+c. de naam en het adres van de vergunninghouder van de accijnsgoederenplaats waar naartoe de goederen worden overgebracht alsmede het vergunningnummer en het adres van die accijnsgoederenplaats;  
+
+d. de soort en hoeveelheid accijnsgoederen en de voor de accijnsheffing van belang zijnde samenstelling van de accijnsgoederen;  
+
+e. de datum waarop de overbrenging van de accijnsgoederen aanvangt; en  
+
+f. de dagtekening en de ondertekening door de persoon, bedoeld in onderdeel a.     
+4.  Een afschrift van de vervoersopdracht wordt door de vergunninghouder van de accijnsgoederenplaats die de vervoersopdracht heeft opgemaakt of heeft doen opmaken op overzichtelijke wijze in zijn administratie opgenomen.   
+5.  Op als vervoersopdracht gebruikte bescheiden wordt vermeld: vervoersopdracht.   
+6.  De accijnsgoederen bereiken hun bestemming binnen vijf werkdagen na de datum waarop de goederen na aangifte ten invoer met opslag in een accijnsgoederenplaats ter beschikking van de aangever zijn gesteld.   
+7.  Indien de accijnsgoederen niet binnen vijf werkdagen na de datum, bedoeld in het zesde lid, hun bestemming hebben bereikt, wordt de inspecteur hiervan onverwijld in kennis gesteld door de vergunninghouder van de accijnsgoederenplaats waar naartoe de accijnsgoederen zouden worden overgebracht.   
+8.  Indien de inspecteur niet binnen acht werkdagen na de datum, bedoeld in het zesde lid, ervan in kennis is gesteld dat de accijnsgoederen hun bestemming niet hebben bereikt, worden deze goederen aangemerkt als te zijn uitgeslagen uit de accijnsgoederenplaats waar naartoe de accijnsgoederen zouden worden overgebracht.   
 
 ### Artikel  3.3  
 
@@ -689,30 +726,25 @@ c. de betrokken accijnsgoederen en de herkomst daarvan.
 
 ### Artikel  3.6  
 
-Vrijstelling van accijns voor de benzine die door zeeschepen voor eigen gebruik of dat van hun boten is ingeladen, wordt gebruikt voor het schoonmaken van tankschepen of voor oorlogsvaartuigen voor eigen gebruik wordt ingeladen, wordt verleend indien: 
+Vrijstelling van accijns voor benzine die is bestemd te worden gebruikt als brandstof voor schepen, andere dan pleziervaartuigen, dan wel voor het schoonmaken van tankschepen of voor de voortstuwing van luchtvaartuigen, andere dan plezierluchtvaartuigen, wordt verleend indien: 
 
-a. de eigenaar of exploitant van het schip of zijn vertegenwoordiger aan boord van het schip verklaart dat de aan hem te leveren benzine wordt gebruikt voor het in de aanhef bedoelde gebruik;  
+a. de eigenaar of exploitant van het schip of luchtvaartuig dan wel zijn vertegenwoordiger aan boord van het schip of luchtvaartuig verklaart dat de benzine is bestemd voor het in de aanhef bedoelde gebruik;  
 
-b. de verklaring in tweevoud geschiedt met gebruikmaking van een door de vergunninghouder van de accijnsgoederenplaats opgesteld bescheid in geval van uitslag uit de accijnsgoederenplaats of met gebruikmaking van een door degene die de levering verricht opgesteld bescheid in geval van invoer;  
+b. de verklaring geschiedt in tweevoud met gebruikmaking van een door de vergunninghouder van de accijnsgoederenplaats opgesteld bescheid in geval van uitslag uit de accijnsgoederenplaats of met gebruikmaking van een door degene die de levering verricht opgesteld bescheid in geval van invoer;  
 
-c. de eigenaar of exploitant van het schip of zijn vertegenwoordiger aan boord van het schip beide exemplaren van de verklaring ondertekent; en  
+c. de eigenaar of exploitant van het schip of luchtvaartuig dan wel zijn vertegenwoordiger aan boord van het schip of luchtvaartuig beide exemplaren van de verklaring, bedoeld in onderdeel b, ondertekent; en  
 
-d. een exemplaar op overzichtelijke wijze wordt bewaard bij de administratie van de vergunninghouder van de accijnsgoederenplaats in geval van uitslag uit de accijnsgoederenplaats en bij de administratie van degene die de aangifte tot plaatsing onder de douaneregeling brengen in het vrije verkeer doet, in geval van invoer. Het andere exemplaar wordt op overzichtelijke wijze bewaard bij de administratie aan boord van het schip.    
+d. een exemplaar van de verklaring, bedoeld in onderdeel b, op overzichtelijke wijze wordt opgenomen in de administratie van de vergunninghouder van de accijnsgoederenplaats in geval van uitslag uit de accijnsgoederenplaats of in de administratie van degene die de aangifte voor de douanebestemming invoer doet in geval van invoer en het andere exemplaar wordt bewaard aan boord van het schip of luchtvaartuig dan wel wordt opgenomen in de administratie van de eigenaar of exploitant van het schip of luchtvaartuig.    
 
 ### Artikel  3.7  
 
-Onverminderd artikel 3.3, tweede lid, bevat de administratie van de vergunninghouder van een accijnsgoederenplaats in ieder geval de regelmatige aantekening van: 
-
-a. de benzine die door zeeschepen voor eigen gebruik of dat van hun boten is ingeladen, wordt gebruikt voor het schoonmaken van tankschepen of voor oorlogsvaartuigen voor eigen gebruik wordt ingeladen;  
-
-b. de voor de afleveringen, bedoeld in onderdeel a, uitgereikte facturen en de ter zake van die afleveringen opgemaakte en terugontvangen verklaringen, bedoeld in artikel 3.6; en  
-
-c. de ontvangen en afgeleverde hoeveelheden benzine volgens de geleidedocumenten en de verklaringen, bedoeld in artikel 3.6, op zodanige wijze dat aan de hand daarvan het verband tussen ontvangen en afgeleverde hoeveelheden kan worden vastgesteld.    
+1.  Teruggaaf van accijns voor accijnsgoederen die naar een plaats buiten de BES eilanden zijn gebracht, wordt verleend indien een voor uitvoer afgetekend exemplaar van de aangifte ten uitvoer, bedoeld in [artikel 2.27 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), wordt overgelegd.   
+2.  Met betrekking tot teruggaaf van accijns voor benzine die wordt gebruikt voor een van de doeleinden, bedoeld in [artikel 4.49, eerste lid, onderdelen b tot en met d, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), is [artikel 3.6, onderdelen a tot en met d](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), van overeenkomstige toepassing.   
 
 ### Artikel  3.8  
 
-1.  Van accijnsgoederen, andere dan tabaksprodukten die zijn voorzien van de wettelijk voorgeschreven accijnszegels, die worden vervoerd of voorhanden zijn buiten een accijnsgoederenplaats, een douane-entrepot of een handels- en dienstenentrepot kan aan de hand van bescheiden de herkomst worden aangetoond.   
-2.  Het bescheid dat wordt gebruikt om de herkomst aan te tonen van accijnsgoederen die worden vervoerd, is niet ouder dan zes dagen.   
+1.  Van accijnsgoederen die worden vervoerd of voorhanden zijn en waarvan de accijns is voldaan, andere dan tabaksproducten die zijn voorzien van de wettelijk voorgeschreven accijnszegels, wordt aan de hand van bescheiden de herkomst aangetoond.   
+2.  Een bescheid als bedoeld in het eerste lid dat wordt gebruikt om de herkomst aan te tonen van accijnsgoederen die worden vervoerd, mag niet ouder zijn dan zes dagen tenzij wordt aangetoond dat het vervoer langer dan zes dagen geleden is aangevangen.   
 3.  Het eerste lid is niet van toepassing met betrekking tot accijnsgoederen: 
 
 a. beneden de op grond van [artikel 3.45 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) vastgestelde hoeveelheden; en  

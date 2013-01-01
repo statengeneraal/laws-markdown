@@ -189,16 +189,15 @@ Het wegaanpassingsbesluit vervalt van rechtswege indien het niet binnen twee jaa
 
 ### Artikel  13  
 
-####(beroep bij de Afdeling bestuursrechtspraak van de Raad van State)
+####(beroepstermijn)
 
-1.  Tegen een wegaanpassingsbesluit, een besluit ter uitvoering van een wegaanpassingsbesluit als bedoeld in artikel 7, eerste lid, alsmede een plan als bedoeld in artikel 6, vijfde lid, kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
-2.  In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vangt de termijn voor het indienen van een beroepschrift tegen een wegaanpassingsbesluit en de besluiten ter uitvoering van een wegaanpassingsbesluit als bedoeld in artikel 7, eerste lid, aan met ingang van de dag na die waarop de in artikel 10, zevende lid, bedoelde bekendmaking is geschied.   
+In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vangt de termijn voor het indienen van een beroepschrift tegen een wegaanpassingsbesluit en de besluiten ter uitvoering van een wegaanpassingsbesluit als bedoeld in artikel 7, eerste lid, aan met ingang van de dag na die waarop de in artikel 10, zevende lid, bedoelde bekendmaking is geschied.  
 
 ### Artikel  14  
 
 ####(termijn voor de rechter)
 
-1.  De Afdeling bestuursrechtspraak van de Raad van State beslist op de beroepen tegen de in artikel 13, eerste lid, bedoelde besluiten, met uitzondering van het in artikel 6, vijfde lid, bedoelde plan, binnen twaalf weken na ontvangst van de desbetreffende verweerschriften.   
+1.  De Afdeling bestuursrechtspraak van de Raad van State beslist op de beroepen tegen de in artikel 13 bedoelde besluiten binnen twaalf weken na ontvangst van de desbetreffende verweerschriften.   
 2.  In bijzondere omstandigheden kan de Afdeling bestuursrechtspraak deze termijn met ten hoogste twaalf weken verlengen.   
 
 ### Artikel  14a  
@@ -229,13 +228,7 @@ a. kan Onze Minister in afwijking van [artikel 2, vierde lid, van de Belemmering
 
 b. worden in afwijking van de [artikelen 2, vijfde lid](../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), en [3, tweede lid, van de Belemmeringenwet Privaatrecht](../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) gedeputeerde staten niet gehoord;  
 
-c. geldt in plaats van [artikel 4 van de Belemmeringenwet Privaatrecht](../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) dat: 
-
-1°. tegen een besluit als bedoeld in [artikel 2, vijfde lid](../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), of [artikel 3, tweede lid, van die wet](../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) een belanghebbende beroep kan instellen bij de Afdeling bestuursrechtspraak van de Raad van State;  
-
-2°. [artikel 7:1 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing is;  
-
-3°. de werking van een besluit als bedoeld in [artikel 2, vijfde lid](../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), of [artikel 3, tweede lid, van de Belemmeringenwet Privaatrecht](../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) opgeschort wordt totdat de termijn voor het indienen van een beroepschrift is verstreken.       
+c. geldt in plaats van [artikel 4 van de Belemmeringenwet Privaatrecht](../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) dat de werking van een besluit als bedoeld in [artikel 2, vijfde lid](../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), of [artikel 3, tweede lid, van de Belemmeringenwet Privaatrecht](../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) opgeschort wordt totdat de termijn voor het indienen van een beroepschrift is verstreken.     
 3.  De Afdeling bestuursrechtspraak van de Raad van State beslist op beroepen tegen besluiten als bedoeld in [artikel 2, vijfde lid](../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), of [artikel 3, tweede lid, van de Belemmeringenwet Privaatrecht](../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) binnen twaalf weken na ontvangst van de desbetreffende verweerschriften.   
 
 ### Artikel  16  

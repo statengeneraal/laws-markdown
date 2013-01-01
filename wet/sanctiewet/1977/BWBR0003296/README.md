@@ -176,11 +176,6 @@ De Nederlandse strafwet is toepasselijk op de Nederlander die zich buiten Nederl
 
 ####Toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba
 
-### Artikel  14  
-
-1.  Deze wet, met uitzondering van de artikelen 4, 10, tweede en derde lid, en 10a tot en met 11, is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met inachtneming van het in deze afdeling bepaalde.   
-2.  [Titel 5.2 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
-
 ### Artikel  14a  
 
 Voor de toepassing van deze wet in de openbare lichamen Bonaire, Sint Eustatius en Saba gelden bindende besluiten, vastgesteld in het kader van het Gemeenschappelijk Buitenlands en Veiligheidsbeleid van de Europese Unie, als internationale verplichtingen in de zin van artikel 2, tweede lid.  

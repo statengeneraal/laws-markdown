@@ -21,7 +21,7 @@ In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon
 
 ### Artikel  2  
 
-De personen, werkzaam in de functie van medewerker verwerking, radarwaarnemer of verkeersassistent binnen het team verkeershandhaving in dienst van een regionaal politiekorps, zijn aangewezen als buitengewoon opsporingsambtenaar.  
+De personen, werkzaam in de functie van medeweker verwerking, radarwaarnemer of verkeersassistent binnen het team verkeershandhaving in dienst van de nationale politie, zijn aangewezen als buitengewoon opsporingsambtenaar.  
 
 ### Artikel  3  
 
@@ -31,16 +31,16 @@ De personen, werkzaam in de functie van medewerker verwerking, radarwaarnemer of
 
 ### Artikel  4  
 
-De buitengewoon opsporingsambtenaar werkzaam als radarwaarnemer of verkeersassistent kan de in [artikel 8, eerste en derde lid, van de Politiewet 1993](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) omschreven bevoegdheden uitoefenen en daarbij gebruikmaken van handboeien, korte wapenstok en pepperspray.  
+De buitengewoon opsporingsambtenaar, werkzaam als radarwaarnemer of verkeersassistent, kan de in [artikel 7, eerste en derde lid, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien, korte wapenstok en pepperspray.  
 
 ### Artikel  5  
 
-Op grond van dit besluit kunnen maximaal 30 personen per regionaal politiekorps als buitengewoon opsporingsambtenaar worden beëdigd.  
+Op grond van dit besluit kunnen maximaal 75 personen per regionale eenheid als buitengewoon opsporingsambtenaar worden beëdigd.  
 
 ### Artikel  6  
 
-1.  Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de hoofdofficier van justitie bij het arrondissementsparket waarbinnen de standplaats van de buitengewoon opsporingsambtenaar is gelegen.   
-2.  Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de korpschef van de regiopolitie waarbinnen de standplaats van de buitengewoon opsporingsambtenaar is gelegen.   
+1.  Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de hoofdofficier van justitie bij het arrondissementsparket waarbinnen het werkgebied van de buitengewoon opsporingsambtenaar gelegen is.   
+2.  Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).   
 
 ### Artikel  7  
 

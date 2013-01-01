@@ -12,6 +12,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####Inleidende bepalingen
 
+Vervallen per 01-01-2007   
+
 ### Artikel  1  
 
 In deze wet en de daarop berustende bepalingen wordt - voor zover niet anders is bepaald - verstaan onder: 
@@ -52,7 +54,7 @@ m.  vervallen;
 
 n. Onze Minister: Onze Minister van Financiën;  
 
-o. openbaar bod: een door middel van een openbare mededeling gedaan aanbod als bedoeld in [artikel 217, eerste lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) buiten een besloten kring, op effecten, dan wel een uitnodiging tot het doen van een aanbod, buiten een besloten kring, op effecten, waarbij de bieder het oogmerk heeft deze effecten te verwerven;  
+o. openbaar bod: een door middel van een openbare mededeling gedaan aanbod als bedoeld in artikel 217, eerste lid, van Boek 6 van het Burgerlijk Wetboek buiten een besloten kring, op effecten, dan wel een uitnodiging tot het doen van een aanbod, buiten een besloten kring, op effecten, waarbij de bieder het oogmerk heeft deze effecten te verwerven;  
 
 p. bieder: een natuurlijk persoon, rechtspersoon of vennootschap, dan wel enig naar buitenlands recht daarmee vergelijkbaar lichaam of samenwerkingsverband, door wie of namens wie al dan niet tezamen met een of meer andere natuurlijke personen, rechtspersonen, vennootschappen of daarmee vergelijkbare lichamen of samenwerkingsverbanden een openbaar bod wordt voorbereid of uitgebracht, dan wel is uitgebracht;  
 
@@ -70,45 +72,67 @@ b. appartementsrechten.
 
 ####Uitgifte van effecten
 
+Vervallen per 01-01-2007   
+
 ### Hoofdstuk  II A  
 
 ####Openbaar bod op effecten
+
+Vervallen per 01-01-2007   
 
 ### Hoofdstuk  III  
 
 ####Effecteninstellingen
 
+Vervallen per 01-01-2007   
+
 ### §  1  
 
 ####Vereisten voor een vergunning
+
+Vervallen per 01-01-2007   
 
 ### §  2  
 
 ####Regels voor vergunninghouders
 
+Vervallen per 01-01-2007   
+
 ### §  3  
 
 ####Gekwalificeerde deelnemingen in effecteninstellingen
+
+Vervallen per 01-01-2007   
 
 ### Hoofdstuk  III A  
 
 ####Financiële instellingen, niet zijnde vergunningplichtige effecteninstellingen
 
+Vervallen per 01-01-2007   
+
 ### Hoofdstuk  IV  
 
 ####Intrekkingsbepalingen
+
+Vervallen per 01-01-2007   
 
 ### Hoofdstuk  V  
 
 ####Register
 
+Vervallen per 01-01-2007   
+
 ### Hoofdstuk  VI  
 
 ####Effectenbeurzen
 
+Vervallen per 01-01-2007   
+
 ### Hoofdstuk  VII  
 
 ####Bijzondere bepalingen
+
+Vervallen per 01-01-2007   
 
 ### Artikel  28  
 
@@ -123,6 +147,8 @@ b. appartementsrechten.
 ### Hoofdstuk  VIII  
 
 ####Controle, uitvoering en samenwerking
+
+Vervallen per 01-01-2007   
 
 ### Artikel  29  
 
@@ -162,14 +188,14 @@ p.  vervallen;
 
 q.  vervallen;      
 2.  Degene van wie de inlichtingen, bedoeld in het eerste lid, worden verlangd, verstrekt deze binnen de door Onze Minister te stellen termijn.   
-3.  Ten aanzien van de personen die door Onze Minister zijn belast met het inwinnen van inlichtingen of met de uitoefening van andere taken en bevoegdheden die Onze Minister heeft op grond van het bij of krachtens deze wet bepaalde, zijn de [artikelen 5:12](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:16](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:17](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing, met dien verstande dat indien een onderzoek als bedoeld in artikel 36, eerste lid, wordt ingesteld, degene bij wie het onderzoek wordt ingesteld en die niet ingevolge deze wet onder toezicht staat, slechts is gehouden tot het verlenen van inzage in zakelijke gegevens en bescheiden.   
+3.  Ten aanzien van de personen die door Onze Minister zijn belast met het inwinnen van inlichtingen of met de uitoefening van andere taken en bevoegdheden die Onze Minister heeft op grond van het bij of krachtens deze wet bepaalde, zijn de artikelen 5:12, 5:13, 5:15, 5:16, 5:17 en 5:20 van de Algemene wet bestuursrecht van overeenkomstige toepassing, met dien verstande dat indien een onderzoek als bedoeld in artikel 36, eerste lid, wordt ingesteld, degene bij wie het onderzoek wordt ingesteld en die niet ingevolge deze wet onder toezicht staat, slechts is gehouden tot het verlenen van inzage in zakelijke gegevens en bescheiden.   
 
 ### Artikel  31  
 
 1.  Gegevens en inlichtingen die ingevolge het bij of krachtens deze wet bepaalde omtrent afzonderlijke ondernemingen of instellingen zijn verstrekt of zijn verkregen en gegevens en inlichtingen die van een instantie als bedoeld in de artikelen 33, eerste lid, of 33 *a*, eerste lid, zijn ontvangen, worden niet gepubliceerd en zijn geheim.   
 2.  Het is aan een ieder die uit hoofde van de toepassing van deze wet of van krachtens deze wet genomen besluiten enige taak vervult, verboden van gegevens of inlichtingen, ingevolge deze wet verstrekt of van een instantie als bedoeld in de artikelen 33, eerste lid, of 33 *a*, eerste lid, ontvangen, of van gegevens of inlichtingen, bij het onderzoek van zakelijke gegevens en bescheiden verkregen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitoefening van zijn taak of door deze wet wordt geëist.   
-3.  Het eerste en tweede lid laten, ten aanzien van degene op wie het tweede lid van toepassing is, onverlet de toepasselijkheid van de bepalingen van het [Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
-4.  Het eerste en tweede lid laten evenzo, ten aanzien van degene op wie het tweede lid van toepassing is, onverlet de toepasselijkheid van de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en van [artikel 66 van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) die betrekking hebben op het als getuige of als partij in een comparitie van partijen dan wel als deskundige in burgerlijke zaken afleggen van een verklaring omtrent gegevens of inlichtingen verkregen bij de vervulling van zijn ingevolge deze wet opgedragen taak, voor zover het gaat om gegevens of inlichtingen omtrent een effecteninstelling die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden. De vorige volzin is niet van toepassing in geval van gegevens of inlichtingen die betrekking hebben op ondernemingen of instellingen die betrokken zijn of zijn geweest bij een poging de desbetreffende effecteninstelling in staat te stellen haar bedrijf voort te zetten.   
+3.  Het eerste en tweede lid laten, ten aanzien van degene op wie het tweede lid van toepassing is, onverlet de toepasselijkheid van de bepalingen van het Wetboek van Strafvordering.   
+4.  Het eerste en tweede lid laten evenzo, ten aanzien van degene op wie het tweede lid van toepassing is, onverlet de toepasselijkheid van de bepalingen van het Wetboek van Burgerlijke Rechtsvordering en van artikel 66 van de Faillissementswet die betrekking hebben op het als getuige of als partij in een comparitie van partijen dan wel als deskundige in burgerlijke zaken afleggen van een verklaring omtrent gegevens of inlichtingen verkregen bij de vervulling van zijn ingevolge deze wet opgedragen taak, voor zover het gaat om gegevens of inlichtingen omtrent een effecteninstelling die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden. De vorige volzin is niet van toepassing in geval van gegevens of inlichtingen die betrekking hebben op ondernemingen of instellingen die betrokken zijn of zijn geweest bij een poging de desbetreffende effecteninstelling in staat te stellen haar bedrijf voort te zetten.   
 5.  In afwijking van het eerste en tweede lid kan Onze Minister met gebruikmaking van gegevens of inlichtingen verkregen bij de vervulling van de hem ingevolge deze wet opgedragen taak, mededelingen doen mits deze niet kunnen worden herleid tot afzonderlijke ondernemingen of instellingen.   
 6.  In afwijking van het eerste, tweede en vijfde lid kan Onze Minister gegevens of inlichtingen verkregen bij de vervulling van de hem ingevolge deze wet opgedragen taak verstrekken aan de houder van een op grond van artikel 22 erkende effectenbeurs met het oog op de controle op de naleving van de voor die effectenbeurs te hanteren regels. Op de aldus verstrekte gegevens of inlichtingen zijn het eerste en tweede lid van overeenkomstige toepassing.   
 
@@ -209,43 +235,53 @@ e. een termijn als bedoeld in artikel 45, vierde lid, wordt bepaald.
 1.  Het is een rechtspersoon als bedoeld in artikel 40, eerste lid, verboden zijn statuten te wijzigen zonder voorafgaande toestemming van Onze Minister. De artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
 2.  Onze Minister kan een toestemming als bedoeld in het eerste lid weigeren indien de statuten na de wijziging onvoldoende zouden zijn afgestemd op het bepaalde in artikel 40.   
 
-### Artikel  42  
-
-Onze Minister dan wel een rechtspersoon waaraan ingevolge artikel 40 taken en bevoegdheden zijn overgedragen, kan de kosten die worden gemaakt voor de uitvoering van die taken en de uitoefening van die bevoegdheden volgens door Onze Minister te stellen regels in rekening brengen bij houders van effectenbeurzen, bij aanbieders van effecten, bij de personen waarvan de namen zijn opgenomen in het register, bedoeld in artikel 4, derde lid, bij instellingen als bedoeld in artikel 5, eerste lid, bij bieders, bij aanvragers van een ontheffing als bedoeld in artikel 6a, vijfde lid, of artikel 6c, eerste lid, bij effecteninstellingen, bij aanvragers van een vergunning als bedoeld in artikel 7, eerste lid, bij aanvragers van een ontheffing als bedoeld in artikel 4, eerste lid, bij aanvragers van een ontheffing als bedoeld in artikel 5, tweede lid, bij aanvragers van een erkenning als bedoeld in artikel 22, bij aanvragers van een ontheffing als bedoeld in artikel 25, eerste lid, bij aanvragers van een verklaring van geen bezwaar als bedoeld in artikel 16, eerste lid, bij houders van een verklaring van geen bezwaar die is verleend op grond van artikel 16, derde lid, alsmede bij instellingen als bedoeld in artikel 18a, eerste lid.  
-
 ### Hoofdstuk  X  
 
 ####Beroep
 
+Vervallen per 01-01-2007   
+
 ### Artikel  44  
 
-1.  In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten op grond van deze wet de rechtbank te Rotterdam bevoegd.   
-2.  Op een besluit op grond van deze wet terzake van de regels, gesteld bij of krachtens de artikelen 3 tot en met 4 of hoofdstuk II A, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 48c, is [artikel 7:1 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.   
+1.  In afwijking van artikel 8:7 van de Algemene wet bestuursrecht is voor beroepen tegen besluiten op grond van deze wet de rechtbank te Rotterdam bevoegd.   
+2.  Op een besluit op grond van deze wet terzake van de regels, gesteld bij of krachtens de artikelen 3 tot en met 4 of hoofdstuk II A, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 48c, is artikel 7:1 van de Algemene wet bestuursrecht niet van toepassing.   
 3.  In afwijking van het eerste lid is voor beroepen tegen besluiten terzake van de regels, gesteld bij of krachtens de artikelen 3 tot en met 4 of Hoofdstuk IIA, met uitzondering van besluiten tot het opleggen van een bestuurlijke boete als bedoeld in artikel 48c, het College van Beroep voor het bedrijfsleven bevoegd.   
 
 ### Hoofdstuk  XI  
 
 ####Betrekkingen met derde landen
 
+Vervallen per 01-01-2007   
+
 ### Hoofdstuk  XII  
 
 ####Marktmisbruik
+
+Vervallen per 01-01-2007   
 
 ### §  1  
 
 ####Algemeen
 
+Vervallen per 01-01-2007   
+
 ### §  2  
 
 ####Verbodsbepalingen
+
+Vervallen per 01-01-2007   
 
 ### §  3  
 
 ####Openbaarmakings- en meldingsverplichtingen
 
+Vervallen per 01-01-2007   
+
 ### §  4  
 
 ####Aanvullende toezichtsbevoegdheden
+
+Vervallen per 01-01-2007   
 
 ### Hoofdstuk  XIIA  
 
@@ -265,7 +301,7 @@ c. deze zijn ontvangen van een instantie als bedoeld in artikel 33, eerste lid, 
 4.  Onze Minister mag de gegevens of inlichtingen die hij ingevolge het tweede of derde lid heeft verkregen uitsluitend gebruiken voor het vormen van zijn oordeel over de toereikendheid van deze wet of de wijze waarop de rechtspersoon, bedoeld in het eerste lid, deze wet uitvoert of heeft uitgevoerd.   
 5.  Onze Minister en degenen die in zijn opdracht handelen zijn verplicht tot geheimhouding van de op grond van het tweede lid, tweede volzin, ontvangen gegevens of inlichtingen. Artikel 31, eerste en tweede lid, is van toepassing.   
 6.  Niettegenstaande het vierde en vijfde lid kan Onze Minister de aan de gegevens of inlichtingen ontleende bevindingen en de daaruit getrokken conclusies aan de Staten-Generaal mededelen en de conclusies in algemene zin uit het onderzoek openbaar maken.   
-7.  De [Wet openbaarheid van bestuur](../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), de [Wet Nationale ombudsman](../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md) en [titel 9.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing met betrekking tot de in dit artikel bedoelde gegevens of inlichtingen die Onze Minister of de in zijn opdracht werkende derde onder zich heeft.   
+7.  De Wet openbaarheid van bestuur, de Wet Nationale ombudsman en titel 9.2 van de Algemene wet bestuursrecht zijn niet van toepassing met betrekking tot de in dit artikel bedoelde gegevens of inlichtingen die Onze Minister of de in zijn opdracht werkende derde onder zich heeft.   
 
 ### Hoofdstuk  XII B  
 
@@ -375,7 +411,7 @@ Degene jegens wie door Onze Minister een handeling is verricht waaraan hij in re
 ### Artikel  48p  
 
 1.  Onze Minister geeft, indien hij voornemens is op grond van artikel 48n een feit ter openbare kennis te brengen, de betrokkene daarvan kennis onder vermelding van de gronden waarop het voornemen berust.   
-2.  In aanvulling op [artikel 4:8 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is Onze Minister niet gehouden de betrokkene in de gelegenheid te stellen om zijn zienswijze naar voren te brengen, indien van de betrokkene geen adres bekend is en het adres ook niet met een redelijke inspanning kan worden verkregen.   
+2.  In aanvulling op artikel 4:8 van de Algemene wet bestuursrecht, is Onze Minister niet gehouden de betrokkene in de gelegenheid te stellen om zijn zienswijze naar voren te brengen, indien van de betrokkene geen adres bekend is en het adres ook niet met een redelijke inspanning kan worden verkregen.   
 
 ### Artikel  48q  
 
@@ -393,11 +429,11 @@ Tenzij de bevordering van de naleving van deze wet geen uitstel toelaat, wordt d
 
 ### Artikel  48s  
 
-In afwijking van [artikel 3:40 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) treedt de beschikking in werking op de dag waarop het feit ter openbare kennis is gebracht zonder dat de werking voor de duur van de beroepstermijn of, indien beroep is ingesteld, van het beroep wordt opgeschort, indien van de betrokkene geen adres bekend is en het adres ook niet met een redelijke inspanning kan worden verkregen.  
+In afwijking van artikel 3:40 van de Algemene wet bestuursrecht treedt de beschikking in werking op de dag waarop het feit ter openbare kennis is gebracht zonder dat de werking voor de duur van de beroepstermijn of, indien beroep is ingesteld, van het beroep wordt opgeschort, indien van de betrokkene geen adres bekend is en het adres ook niet met een redelijke inspanning kan worden verkregen.  
 
 ### Artikel  48t  
 
-1.  De bevoegdheid om op grond van artikel 48n een feit ter openbare kennis te brengen vervalt indien ter zake van het feit een strafvervolging is ingesteld en het onderzoek ter terechtzitting een aanvang heeft genomen, dan wel het recht tot strafvordering is vervallen ingevolge [artikel 74 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+1.  De bevoegdheid om op grond van artikel 48n een feit ter openbare kennis te brengen vervalt indien ter zake van het feit een strafvervolging is ingesteld en het onderzoek ter terechtzitting een aanvang heeft genomen, dan wel het recht tot strafvordering is vervallen ingevolge artikel 74 van het Wetboek van Strafrecht.   
 2.  Het recht tot strafvervolging met betrekking tot een feit als bedoeld in artikel 48m vervalt, indien Onze Minister het feit reeds ter openbare kennis heeft gebracht.   
 
 ### Artikel  48u  
@@ -413,9 +449,13 @@ De werkzaamheden in verband met het op grond van artikel 48n ter openbare kennis
 
 ####Wijziging van andere wetten
 
+Vervallen per 01-01-2007   
+
 ### Hoofdstuk  XIV  
 
 ####Slotbepalingen
+
+Vervallen per 01-01-2007   
 
 ### Artikel  67  
 

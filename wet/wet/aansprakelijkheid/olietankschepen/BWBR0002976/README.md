@@ -110,7 +110,7 @@ Het recht op schadevergoeding uit hoofde van deze wet vervalt, wanneer niet binn
 
 ### Artikel  8a  
 
-Tot de kennisneming in eerste aanleg van vorderingen tot vergoeding van schade door verontreiniging uit hoofde van het Verdrag en van deze wet is in Nederland bij uitsluiting bevoegd de rechtbank te Rotterdam.  
+Tot de kennisneming in eerste aanleg van vorderingen tot vergoeding van schade door verontreiniging uit hoofde van het Verdrag en van deze wet is in Nederland bij uitsluiting bevoegd de rechtbank Rotterdam.  
 
 ### Artikel  9  
 
@@ -230,7 +230,7 @@ De kapitein van een schip waarmede meer dan 2000 ton olie in bulk als lading wor
 
 1.  Bij vermoeden van overtreding van artikel 24 kan aan de kapitein bevel worden gegeven dat het schip Nederland niet mag verlaten, voordat op een bij het bevel aan te wijzen plaats een bij dat bevel bepaalde geldsom is gestort waarop een ter zake van die overtreding op te leggen geldboete zal kunnen worden verhaald. Het bevel wordt zonodig met behulp van de sterke arm gehandhaafd.   
 2.  Het in het eerste lid bedoelde bevel wordt op vordering van de officier van justitie gegeven door de voorzitter van de rechtbank waarvoor de zaak wordt of zal worden vervolgd. De kapitein wordt vooraf gehoord of althans behoorlijk opgeroepen. Het bevel is dadelijk uitvoerbaar en wordt onverwijld aan de kapitein betekend.   
-3.  Van het bevel of de beschikking tot afwijzing van de vordering kan het openbaar ministerie binnen veertien dagen en de verdachte binnen veertien dagen na de betekening in beroep komen bij het gerechtshof. Het hof beslist zo spoedig mogelijk.   
+3.  Van het bevel of de beschikking tot afwijzing van de vordering kan het openbaar ministerie binnen veertien dagen en de verdachte binnen veertien dagen na de betekening in beroep komen. Het hof beslist zo spoedig mogelijk.   
 4.  Zodra het in de strafzaak gewezen vonnis onherroepelijk is geworden, wordt de gestorte geldsom wederom ter beschikking van de rechthebbende gesteld nadat daarop een bij dat vonnis opgelegde geldboete in mindering is gebracht. Tot dat tijdstip en te rekenen vanaf de dag dat de geldsom werd gestort, wordt over die som rente vergoed.   
 
 ### Artikel  26  

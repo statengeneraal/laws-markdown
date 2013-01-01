@@ -16,7 +16,7 @@ In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon
 
 ### Artikel  2  
 
-De personen, werkzaam in de functie van ambtenaar van politie in dienst van de regiopolitie Gelderland-Zuid, zijn aangewezen als buitengewoon opsporingsambtenaar.  
+Als buitengewoon opsporingsambtenaar worden aangewezen de ambtenaren van politie, bedoeld in [artikel 2, onder b, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) die hun werkgebied hebben in de regionale eenheid Oost-Nederland, voorheen Gelderland-Zuid.  
 
 ### Artikel  3  
 
@@ -30,12 +30,12 @@ Op grond van dit besluit kunnen maximaal 100 personen als buitengewoon opsporing
 
 ### Artikel  5  
 
-1.  Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de hoofdofficier van justitie bij het arrondissementsparket te Arnhem.   
-2.  Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de korpschef van de regiopolitie Gelderland-Zuid te Nijmegen.   
+1.  Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de hoofdofficier van justitie bij het arrondissementsparket Oost-Nederland.   
+2.  Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) te Nijmegen.   
 
 ### Artikel  6  
 
-1.  De korpschef van de regiopolitie Gelderland-Zuid brengt jaarlijks, voor 1 april, verslag uit over: 
+1.  De korpschef brengt jaarlijks, voor 1 april, verslag uit over: 
 
 a. het aantal buitengewoon opsporingsambtenaren werkzaam in de artikel 2 genoemde functie;  
 

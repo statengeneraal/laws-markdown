@@ -48,7 +48,7 @@ l. beschikking 93/444/EEG: Beschikking van de Commissie van de Europese Gemeensc
 
 In deze regeling wordt verstaan onder: 
 
-a. Minister: de Minister van Economische Zaken, Landbouw en Innovatie;  
+a. Minister: de Minister van Economische Zaken;  
 
 b. VWA: Voedsel en Waren Autoriteit;  
 

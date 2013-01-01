@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 7 mei 2012, kenmerk MC-U-3115170;
 
-Gelet op [artikelen 2](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [56a van de Wet marktordening gezondheidszorg](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [artikel 3 van de Kaderwet VWS-subsidies](../../../../../wet/kaderwet/vws-subsidies/BWBR0009455/README.md);
+Gelet op artikelen 2 en 56a van de Wet marktordening gezondheidszorg en artikel 3 van de Kaderwet VWS-subsidies;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 28 juni 2012, nummer W13.12.0155/III);
 
@@ -19,11 +19,11 @@ In dit besluit wordt verstaan onder:
 
 a. *Onze Minister:* de Minister van Volksgezondheid, Welzijn en Sport;  
 
-b. *wet:*[Wet marktordening gezondheidszorg](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+b. *wet:*Wet marktordening gezondheidszorg;  
 
-c. *zorgautoriteit:* Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+c. *zorgautoriteit:* Nederlandse Zorgautoriteit, genoemd in artikel 3 van de wet;  
 
-d. *beschikbaarheidbijdrage:* bijdrage, bedoeld in [artikel 56a van de wet](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).    
+d. *beschikbaarheidbijdrage:* bijdrage, bedoeld in artikel 56a van de wet.    
 
 ### Artikel  2  
 
@@ -61,13 +61,13 @@ Wijzigt het Besluit uitbreiding en beperking werkingssfeer WMG.
 
 1.  De volgende subsidieregelingen worden ingetrokken: 
 
-a. [Subsidieregeling academische functie](../../../../../ministeriele-regeling/subsidieregeling/academische/functie/BWBR0023139/README.md);  
+a. Subsidieregeling academische functie;  
 
 b.  dit onderdeel is nog niet in werking getreden;   
 
-c.  dit onderdeel is nog niet in werking getreden;   
+c. Subsidieregeling zorgopleidingen 1 <sup>e</sup> tranche;  
 
-d.  dit onderdeel is nog niet in werking getreden.      
+d. Subsidieregeling zorgopleidingen 2 <sup>e</sup> tranche.     
 2.  De subsidieregelingen, genoemd in het eerste lid, blijven van toepassingen op de subsidies die voor de intrekking van die regelingen op basis van die regelingen zijn verleend.   
 
 ### Artikel  8  
@@ -106,7 +106,7 @@ Vormen van zorg waarvoor op grond van artikel 4, eerste lid, van het Besluit bes
 
 a. *Ambulancezorg:* zorg, erop gericht een zieke of gewonde ter zake van zijn aandoening of letsel hulp te verlenen en per ambulance te vervoeren, of hulp te verlenen door een ambulanceverpleegkundige met een speciaal daartoe uitgerust en als zodanig herkenbaar motorvoertuig. Hierbij geldt de voorwaarde dat ten minste 97 procent van de bevolking binnen 15 minuten responstijd bereikt moet kunnen worden en in tenminste 95 procentvan de spoedmeldingen een ambulance binnen 15 minuten na aanname van de melding door een centrale post ambulancevervoer ter plaatse moet zijn;  
 
-b.  dit onderdeel is nog niet in werking getreden;   
+b. *spoedeisende hulp:* zorg, bestaande uit de herkenning, stabilisatie en reanimatie van alle acute medische patiënten. Het gaat bij de spoedeisende hulp (SEH) om het behandelen van spoedeisende aandoeningen en het verwijzen naar meer gespecialiseerde behandelaars. Hierbij geldt de voorwaarde dat een afdeling SEH binnen 45 minuten per ambulance bereikbaar is en 7 x 24 uur over minimaal één SEH-arts en één SEH-verpleegkundige beschikt;  
 
 c. *acute verloskunde:* verloskundige zorg in geval van een spoedeisende situatie. Hierbij geldt de voorwaarde dat deze zorg binnen 45 minuten per ambulance bereikbaar is en dat binnen 30 minuten na vaststelling van de diagnose van een spoedeisende situatie door een gynaecoloog of geautoriseerd obstetrisch professional de benodigde medisch specialistische behandeling kan worden gestart; <sup> 1  Als de zwangere vrouw, in het geval van een levensbedreigende situatie thuis, vanuit huis naar het ziekenhuis moet worden vervoerd, is het niet gegarandeerd mogelijk om na het vaststellen van een potentieel levensbedreigende situatie binnen 30 minuten te starten met de behandeling in verband met reistijd naar het ziekenhuis.  </sup>  
 
@@ -116,17 +116,17 @@ e.  *zorg als omschreven bij of krachtens de Algemene Wet Bijzondere Ziektekoste
 
 3. *Zorg, bedoeld in de aanhef en onder 1 en 2, waarvoor terstond een financiële oplossing moet worden geboden* in de vorm van een beschikbaarheidbijdrage ten behoeve van het beschikbaar hebben van die zorg in afwachting van de besluitvorming op grond van de volgende procedures: 
 
-a. de procedure, bedoeld in [artikel 34 van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) tot het oprichten van een vangnetaanbieder, bedoeld in de aanhef en onder 2;  
+a. de procedure, bedoeld in artikel 34 van de Comptabiliteitswet 2001 tot het oprichten van een vangnetaanbieder, bedoeld in de aanhef en onder 2;  
 
-b. de procedure, bedoeld in [artikel 56a van de wet](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) tot opneming van een vorm van zorg in de bijlage bij onderhavig besluit;  
+b. de procedure, bedoeld in artikel 56a van de wet tot opneming van een vorm van zorg in de bijlage bij onderhavig besluit;  
 
-c. de aanwijzingsprocedure, bedoeld in [artikel 59, aanhef en onder j](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), juncto [artikel 7 van de wet](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).      
+c. de aanwijzingsprocedure, bedoeld in artikel 59, aanhef en onder j, juncto artikel 7 van de wet.      
 
 ### Onderdeel  B  
 
 Vormen van zorg waarvoor op grond van artikel 4, eerste lid, van het Besluit beschikbaarheidbijdrage WMG de Nederlandse Zorgautoriteit zonder verklaring van geen bezwaar van Onze Minister een beschikbaarheidbijdrage kan toekennen: 
 
-1. *Opleidingen.* Om zorg als omschreven bij of krachtens de [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) (Zvw) of [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) (AWBZ) beschikbaar te hebben, zijn (medische) vervolgopleidingen noodzakelijk. Dit betreft vervolgopleidingen tot (medisch) specialist (per specialisme), tot huisarts of specialist ouderengeneeskunde, tot gespecialiseerd verpleegkundige en voor medisch ondersteunend personeel. 
+1. *Opleidingen.* Om zorg als omschreven bij of krachtens de Zorgverzekeringswet (Zvw) of Algemene Wet Bijzondere Ziektekosten (AWBZ) beschikbaar te hebben, zijn (medische) vervolgopleidingen noodzakelijk. Dit betreft vervolgopleidingen tot (medisch) specialist (per specialisme), tot huisarts of specialist ouderengeneeskunde, tot gespecialiseerd verpleegkundige en voor medisch ondersteunend personeel. 
 
 a. Bij de vervolgopleidingen tot (medisch) specialist gaat het om: 
 
@@ -154,13 +154,13 @@ c. Bij de vervolgopleidingen tot gespecialiseerd verpleegkundige en medisch onde
 
 5. *Traumazorg voor zover het gaat om coördinatie, opleiden, trainen en oefenen.* Het gaat hierbij om de beschikbaarheid van traumazorg in instellingen voor medisch specialistische zorg. Daarnaast gaat het om het ontwikkelen van de kennisfunctie ten behoeve van zorgverlening bij rampen, de coördinatie van de trauma(keten)zorg en het opleiden, trainen en oefenen ten behoeve van rampen. Deze activiteiten zijn nodig ten behoeve van de beschikbaarheid van goede traumazorg;  
 
-6. *Traumazorg door mobiel medische teams.* Het gaat hierbij om de zorg door mobiel medisch teams, bestaande uit een medisch specialist (meestal anesthesioloog of chirurg/traumatoloog) en een gespecialiseerde verpleegkundige, die op de plek van een ongeval voorbehouden handelingen als bedoeld in de [Wet op de beroepsuitoefening in de individuele gezondheidszorg](../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) kunnen verrichten, waartoe ambulancepersoneel niet bevoegd is. Het gaat om: 
+6. *Traumazorg door mobiel medische teams.* Het gaat hierbij om de zorg door mobiel medisch teams, bestaande uit een medisch specialist (meestal anesthesioloog of chirurg/traumatoloog) en een gespecialiseerde verpleegkundige, die op de plek van een ongeval voorbehouden handelingen als bedoeld in de Wet op de beroepsuitoefening in de individuele gezondheidszorg kunnen verrichten, waartoe ambulancepersoneel niet bevoegd is. Het gaat om: 
 
 a. vier helikopters met 7 x 24 uur parate medisch specialistische teams die binnen twee minuten moeten kunnen uitrukken naar de plek van het ongeval en  
 
 b. twee voertuigen met 7 x 24 uur beschikbare medisch specialistische teams;    
 
-7.  dit onderdeel is nog niet in werking getreden;   
+7. *Spoedeisende hulp.* Het gaat hier om zorg, bestaande uit de herkenning, stabilisatie en reanimatie van alle acute medische patiënten. De spoedeisende hulp (SEH) betreft het behandelen van spoedeisende aandoeningen en het verwijzen naar meer gespecialiseerde behandelaars. Hierbij geldt de voorwaarde dat een afdeling SEH binnen 45 minuten per ambulance bereikbaar is en 7 x 24 uur over minimaal één SEH-arts en één SEH-verpleegkundige beschikt;  
 
 8. *Acute verloskunde.* Verloskundige zorg in geval van een spoedeisende situatie. Hierbij geldt de voorwaarde dat deze zorg binnen 45 minuten per ambulance bereikbaar is en dat binnen 30 minuten na vaststelling van de diagnose van een spoedeisende situatie door een gynaecoloog of geautoriseerd obstetrisch professional de benodigde medisch specialistische behandeling kan worden gestart;  
 
@@ -170,7 +170,7 @@ b. twee voertuigen met 7 x 24 uur beschikbare medisch specialistische teams;
 
 11. *Zorg aan Joodse oorlogsslachtoffers.* Het betreft specifieke zorg voor Joodse oorlogsslachtoffers die samenhangt met het verwerken van de gevolgen van de Tweede Wereldoorlog. Hierbij geldt de voorwaarde dat de zorg wordt geleverd door een zorgaanbieder die specifiek is toegerust voor zorgverlening aan deze doelgroep;  
 
-12. *Zorg verleend tijdens transitie bekostigingssystemen*. Ten behoeve van het beschikbaar hebben van zorg bij zorgaanbieders bij de transitie van de ene vorm van bekostiging naar een andere vorm van bekostiging op grond van een aanwijzing, als bedoeld in [artikel 59](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) jo. [artikel 7 van de wet](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+12. *Zorg verleend tijdens transitie bekostigingssystemen*. Ten behoeve van het beschikbaar hebben van zorg bij zorgaanbieders bij de transitie van de ene vorm van bekostiging naar een andere vorm van bekostiging op grond van een aanwijzing, als bedoeld in artikel 59 jo. artikel 7 van de wet;  
 
-13. *Zorg verleend tijdens overgangsregeling kapitaallasten.* Het wijzigen van de bekostiging van bijvoorbeeld ziekenhuizen is een omvangrijke en ingrijpende operatie en heeft ook effect op de vergoeding van kapitaallasten. De vergoeding voor de kapitaallasten van de – op grond van vergunningen toegekend op basis van de [Wet toelating zorginstellingen](../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) – gefinancierde vaste activa (immateriële, materiële en financiële vaste activa) wordt in de eindsituatie niet langer gebaseerd op een risicoloos systeem van nacalculatie van de werkelijke lasten. De overheid heeft daarom voorzien in een uitgebreide overgangsregeling. Onderdeel hiervan is de garantieregeling kapitaallasten. In de periode die loopt van 2011 tot en met 2016 worden de kapitaallasten in het budget met aflopende percentages gegarandeerd. In die periode moeten ziekenhuizen in staat worden geacht de benodigde aanpassing door te kunnen voeren om voldoende voorbereid te zijn op het uiteindelijke bekostigingsregime. Ook voor andere instellingen kan een overgangsregeling met betrekking tot kapitaallasten (gaan) gelden, zoals voor categorale ziekenhuizen en instellingen voor curatieve geestelijke gezondheidszorg.    
+13. *Zorg verleend tijdens overgangsregeling kapitaallasten.* Het wijzigen van de bekostiging van bijvoorbeeld ziekenhuizen is een omvangrijke en ingrijpende operatie en heeft ook effect op de vergoeding van kapitaallasten. De vergoeding voor de kapitaallasten van de – op grond van vergunningen toegekend op basis van de Wet toelating zorginstellingen – gefinancierde vaste activa (immateriële, materiële en financiële vaste activa) wordt in de eindsituatie niet langer gebaseerd op een risicoloos systeem van nacalculatie van de werkelijke lasten. De overheid heeft daarom voorzien in een uitgebreide overgangsregeling. Onderdeel hiervan is de garantieregeling kapitaallasten. In de periode die loopt van 2011 tot en met 2016 worden de kapitaallasten in het budget met aflopende percentages gegarandeerd. In die periode moeten ziekenhuizen in staat worden geacht de benodigde aanpassing door te kunnen voeren om voldoende voorbereid te zijn op het uiteindelijke bekostigingsregime. Ook voor andere instellingen kan een overgangsregeling met betrekking tot kapitaallasten (gaan) gelden, zoals voor categorale ziekenhuizen en instellingen voor curatieve geestelijke gezondheidszorg.    
 

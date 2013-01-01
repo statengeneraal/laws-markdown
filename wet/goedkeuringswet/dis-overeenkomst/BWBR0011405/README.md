@@ -23,7 +23,7 @@ Het op 29 november 1996 te Brussel tot stand gekomen Protocol, opgesteld op gron
 
 ### Artikel  4  
 
-Indien een vraag die betrekking heeft op de uitlegging van de Overeenkomst opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie inzake het gebruik van informatica op douanegebied, aan de orde komt in een zaak aanhangig voor een tot de rechterlijke macht behorend gerecht dan wel een administratieve rechter waarvan de beslissingen niet vatbaar zijn voor hoger beroep, en deze instantie een beslissing noodzakelijk acht voor haar uitspraak, is deze instantie gehouden zich tot het Hof van Justitie van de Europese Gemeenschappen te wenden.  
+Indien een vraag die betrekking heeft op de uitlegging van de Overeenkomst opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie inzake het gebruik van informatica op douanegebied, aan de orde komt in een zaak aanhangig voor een tot de rechterlijke macht behorend gerecht dan wel een bestuursrechter waarvan de beslissingen niet vatbaar zijn voor hoger beroep, en deze instantie een beslissing noodzakelijk acht voor haar uitspraak, is deze instantie gehouden zich tot het Hof van Justitie van de Europese Gemeenschappen te wenden.  
 
 ### Artikel  5  
 

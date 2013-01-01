@@ -22,6 +22,11 @@ Goederen zijn alle zaken en alle vermogensrechten.
 
 Zaken zijn de voor menselijke beheersing vatbare stoffelijke objecten.  
 
+### Artikel  2a  
+
+1.  Dieren zijn geen zaken.   
+2.  Bepalingen met betrekking tot zaken zijn op dieren van toepassing, met in achtneming van de op wettelijke voorschriften en regels van ongeschreven recht gegronde beperkingen, verplichtingen en rechtsbeginselen, alsmede de openbare orde en de goede zeden.   
+
 ### Artikel  3  
 
 1.  Onroerend zijn de grond, de nog niet gewonnen delfstoffen, de met de grond verenigde beplantingen, alsmede de gebouwen en werken die duurzaam met de grond zijn verenigd, hetzij rechtstreeks, hetzij door vereniging met andere gebouwen of werken.   
@@ -651,7 +656,7 @@ Buiten het vermogensrecht vinden de bepalingen van deze titel overeenkomstige to
 ### Artikel  80  
 
 1.  Men kan goederen onder algemene en onder bijzondere titel verkrijgen.   
-2.  Men verkrijgt goederen onder algemene titel door erfopvolging, door boedelmenging, door fusie als bedoeld in [artikel 309 van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en door splitsing als bedoeld in [artikel 334a van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+2.  Men verkrijgt goederen onder algemene titel door erfopvolging, door boedelmenging, door fusie als bedoeld in [artikel 309 van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), door splitsing als bedoeld in [artikel 334a van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en door de goedkeuring van een overdrachtsplan als bedoeld in de [artikelen 3:159l](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:159p](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [3:159s van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
 3.  Men verkrijgt goederen onder bijzondere titel door overdracht, door verjaring en door onteigening, en voorts op de overige in de wet voor iedere soort aangegeven wijzen van rechtsverkrijging.   
 4.  Men verliest goederen op de voor iedere soort in de wet aangegeven wijzen.   
 
@@ -1258,7 +1263,7 @@ Tot het instellen van rechtsvorderingen en het indienen van verzoekschriften ter
 
 ### Artikel  219  
 
-Buiten de gevallen, geregeld in de [artikelen 88](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [197 van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), en [artikel 123 van Boek 5](../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) blijft de uitoefening van stemrecht, verbonden aan een goed dat aan vruchtgebruik is onderworpen, de hoofdgerechtigde toekomen, tenzij bij de vestiging van het vruchtgebruik anders is bepaald. Bij een vruchtgebruik als bedoeld in de [artikelen 19](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) en [21 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) komt het stemrecht eveneens aan de vruchtgebruiker toe, tenzij bij de vestiging van het vruchtgebruik door partijen of door de kantonrechter op de voet van [artikel 23 lid 4 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) anders wordt bepaald.  
+Buiten de gevallen, geregeld in de [artikelen 88](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [197 van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [artikel 123 van Boek 5](../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md), blijft de uitoefening van stemrecht, verbonden aan een goed dat aan vruchtgebruik is onderworpen, de hoofdgerechtigde toekomen, tenzij bij de vestiging van het vruchtgebruik anders is bepaald. Bij een vruchtgebruik als bedoeld in de [artikelen 19](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) en [21 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) komt het stemrecht eveneens aan de vruchtgebruiker toe, tenzij bij de vestiging van het vruchtgebruik door partijen of door de kantonrechter op de voet van [artikel 23 lid 4 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) anders wordt bepaald.  
 
 ### Artikel  220  
 
@@ -1471,7 +1476,7 @@ Indien degene die uit hoofde van een pandrecht een zaak onder zich heeft, in ern
 ### Artikel  259  
 
 1.  Wanneer iemand door het uitgeven van certificaten derden doet delen in de opbrengst van door hem op eigen naam verkregen aandelen of schuldvorderingen, hebben de certificaathouders een vordering tot uitkering van het hun toegezegde tegen de uitgever van de certificaten.   
-2.  Zijn de oorspronkelijke aandelen of schuldvorderingen op naam gesteld en de certificaten uitgegeven met medewerking van de uitgever van de oorspronkelijke aandelen of schuldvorderingen, dan verkrijgen de certificaathouders tevens gezamenlijk een pandrecht op die aandelen of schuldvorderingen. Zijn de certificaten uitgegeven voor schuldvorderingen op naam zonder medewerking van de schuldenaar, dan verkrijgen de certificaathouders een zodanig pandrecht door mededeling van de uitgifte aan de schuldenaar. Zijn de certificaten uitgegeven voor aandelen of schuldvorderingen aan toonder, dan verkrijgen de certificaathouders een zodanig pandrecht, zonder dat het papier in de macht van de certificaathouders of een derde behoeft te worden gebracht.   
+2.  Zijn de oorspronkelijke aandelen of schuldvorderingen op naam gesteld en de certificaten uitgegeven met medewerking van de uitgever van de oorspronkelijke aandelen of schuldvorderingen of is er bij de statuten vergaderrecht verbonden aan de certificaten van aandelen, dan verkrijgen de certificaathouders tevens gezamenlijk een pandrecht op die aandelen of schuldvorderingen. Zijn de certificaten uitgegeven voor schuldvorderingen op naam zonder medewerking van de schuldenaar, dan verkrijgen de certificaathouders een zodanig pandrecht door mededeling van de uitgifte aan de schuldenaar. Zijn de certificaten uitgegeven voor aandelen of schuldvorderingen aan toonder, dan verkrijgen de certificaathouders een zodanig pandrecht, zonder dat het papier in de macht van de certificaathouders of een derde behoeft te worden gebracht.   
 3.  Dit pandrecht geeft aan de certificaathouders alleen de bevoegdheid in geval van niet-uitbetaling van het hun verschuldigde met inachtneming van de volgende regels het pand geheel of gedeeltelijk te doen verkopen en zich uit de opbrengst te voldoen. Een certificaathouder die hiertoe wenst over te gaan, wendt zich tot de voorzieningenrechter van de rechtbank van het arrondissement waarin de woonplaats van degene die de certificaten heeft uitgegeven, is gelegen met verzoek een bewindvoerder over het pand te benoemen, die voor de verkoop en de verdeling van de opbrengst zorg draagt. Indien niet alle certificaathouders met de verkoop instemmen, wordt slechts een deel van het pand dat overeenkomt met het recht van de andere certificaathouders verkocht; de rechten van deze laatsten gaan door de verdeling van de opbrengst onder hen teniet. De voorzieningenrechter kan op verlangen van elke certificaathouder of ambtshalve maatregelen bevelen in het belang van de certificaathouders die niet met de verkoop hebben ingestemd, en bepalen dat de verkoop door hem moet worden goedgekeurd, wil zij geldig zijn.   
 
 ### Afdeling  4  
@@ -1769,7 +1774,7 @@ De in de voorgaande artikelen van deze titel aan de rechter toegekende bevoegdhe
 
 ### Artikel  305d  
 
-1.  Het gerechtshof te ’s-Gravenhage kan op verzoek van: 
+1.  Het gerechtshof Den Haag kan op verzoek van: 
 
 a. de Consumentenautoriteit;  
 
@@ -1780,7 +1785,7 @@ c. een stichting of vereniging met volledige rechtsbevoegdheid, die krachtens ha
 3.  Het gerechtshof kan voorts worden verzocht degene die de overtreding pleegt, dan wel de houder van de gedragscode die het handelen in strijd met de [artikelen 193a tot en met 193i van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) bevordert, te veroordelen tot het openbaar maken of openbaar laten maken van de beschikking, bedoeld in de leden 1 en 2. Indien er sprake is van een misleidende handelspraktijk als bedoeld in de [artikelen 193c tot en met 193g van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), kan het gerechtshof op verzoek de handelaar tevens veroordelen tot rectificatie van de informatie. De openbaarmaking of rectificatie geschiedt op een door het gerechtshof te bepalen wijze en op kosten van de door het gerechtshof aan te geven partij of partijen.   
 4.  Artikel 305a lid 2 is van overeenkomstige toepassing, indien een stichting of een vereniging met volledige rechtsbevoegdheid die krachtens haar statuten tot taak heeft het behartigen van de collectieve belangen van personen, een verzoek indient als bedoeld in de leden 1, 2 en 3.   
 5.  Het gerechtshof behandelt het verzoek onverwijld.   
-6.  Geschillen ter zake van de tenuitvoerlegging van de in de leden 1, 2 en 3 bedoelde veroordelingen, alsmede van de veroordeling tot betaling van een dwangsom, zo deze is opgelegd, worden bij uitsluiting door het gerechtshof te ’s-Gravenhage beslist.   
+6.  Geschillen ter zake van de tenuitvoerlegging van de in de leden 1, 2 en 3 bedoelde veroordelingen, alsmede van de veroordeling tot betaling van een dwangsom, zo deze is opgelegd, worden bij uitsluiting door het gerechtshof Den Haag beslist.   
 
 ### Artikel  306  
 

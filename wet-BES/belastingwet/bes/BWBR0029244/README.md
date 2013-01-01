@@ -160,7 +160,7 @@ g. natuurterreinen, waaronder mede wordt verstaan duinen, zandverstuivingen, moe
 
 h. onroerende zaken, waarvan het Rijk of de openbare lichamen Bonaire, Sint Eustatius of Saba het genot krachtens eigendom, bezit of beperkt recht hebben, behoudens voor zover die zaak wordt gebruikt in het kader van een onderneming of een andere economische activiteit;  
 
-i. onroerende zaken, voor zover degene of degenen die het genot krachtens eigendom, bezit of beperkt recht heeft of hebben inwoner zijn van de BES eilanden en de waarde van de onroerende zaak niet meer bedraagt dan USD 50 000;  
+i.  vervallen;   
 
 j. onroerende zaken, voor zover een lichaam dat op grond van artikel 5.2, in Nederland wordt geacht te zijn gevestigd het genot krachtens eigendom, bezit of beperkt recht heeft;  
 
@@ -197,7 +197,8 @@ b. de sedert de stichting van de zaak opgetreden technische en functionele verou
 
 ### Artikel  4.8  
 
-Indien de onroerende zaak in het jaar voorafgaand aan het tijdvak van heffing of in de loop van het tijdvak van heffing wijzigt als gevolg van bouw, verbouwing, verbetering, afbraak of vernietiging wordt in afwijking van artikel 4.6, derde en vierde lid, de waarde bepaald naar de staat van die zaak bij het begin van het kalenderjaar volgend op dat waarin de genoemde wijziging zich heeft voorgedaan.  
+1.  Indien de onroerende zaak in het jaar voorafgaand aan het tijdvak van heffing of in de loop van het tijdvak van heffing wijzigt als gevolg van bouw, verbouwing, verbetering, afbraak of vernietiging wordt in afwijking van artikel 4.6, derde en vierde lid, de waarde bepaald naar de staat van die zaak bij het begin van het kalenderjaar volgend op dat waarin de genoemde wijziging zich heeft voorgedaan.   
+2.  Indien de waarde van een onroerende zaak door toepassing van het eerste lid hoger wordt vastgesteld, wordt deze waardestijging, voor zover deze voortvloeit uit bouw, verbouw, verbetering, uitbreiding of renovatie van de desbetreffende onroerende zaak, eerst in aanmerking genomen bij het begin van het zesde kalenderjaar volgend op het kalenderjaar waarin deze waardestijging zich heeft voorgedaan. De eerste volzin is niet van toepassing met betrekking tot onroerende zaken waarvan het genot krachtens eigendom, bezit of beperkt recht berust bij een rechtspersoon die op grond van [artikel 5.4 van de Douane- en Accijnswet BES](../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) is toegelaten tot een handels- en dienstenentrepot.   
 
 ### Titel  5  
 
@@ -205,11 +206,13 @@ Indien de onroerende zaak in het jaar voorafgaand aan het tijdvak van heffing of
 
 ### Artikel  4.9  
 
-De belasting bedraagt 25% van de voordelen uit een onroerende zaak.  
+1.  De belasting bedraagt 20% van de voordelen uit een onroerende zaak.   
+2.  In afwijking van het eerste lid, bedraagt de belasting 10% van de voordelen uit een onroerende zaak indien de onroerende zaak een hotel betreft.   
+3.  Voor de toepassing van het tweede lid wordt onder een hotel verstaan een onroerende zaak die of een complex van onroerende zaken dat bedrijfsmatig door een niet-natuurlijke persoon wordt geëxploiteerd, geheel of nagenoeg geheel gericht is op kortdurend verblijf van toeristen en beschikt over volwaardige gemeenschappelijke hotelvoorzieningen. Bij ministeriële regeling kunnen nadere voorwaarden worden gesteld waaraan een onroerende zaak moet voldoen om voor de toepassing van het tweede lid als hotel te worden aangemerkt.   
 
 ### Artikel  4.10  
 
-1.  De voordelen uit een onroerende zaak worden gesteld op 4% van de waarde van de onroerende zaak.   
+1.  De voordelen uit een onroerende zaak worden gesteld op 4% van de waarde van de onroerende zaak, met dien verstande dat ingeval de onroerende zaak een woning, niet zijnde een woning als bedoeld in artikel 4.4, onderdeel a, betreft en degene die bij het begin van het kalenderjaar het genot krachtens eigendom, bezit of beperkt recht van die onroerende zaak heeft een natuurlijk persoon is de voordelen worden gesteld op 4% van de waarde, voor zover deze waarde meer bedraagt dan USD 50 000. Voor de toepassing van de eerste volzin is, mits alle eigenaren natuurlijke personen zijn, artikel 4.2, derde lid, van overeenkomstige toepassing en kunnen bij ministeriële regeling regels worden gesteld om te bepalen of sprake is van een tweede woning.   
 2.  In afwijking van het eerste lid worden de voordelen uit een onroerende zaak bij een belastingplichtige als bedoeld in artikel 4.2, vierde lid, bepaald op basis van het eerste lid, en vervolgens vermenigvuldigd met een gebruiksfactor. De gebruiksfactor is het aantal dagen in het kalenderjaar dat de belastingplichtige een onroerende zaak waarvan hij het genot krachtens eigendom, bezit of beperkt recht heeft mag gebruiken, gedeeld door het aantal dagen in het kalenderjaar. Indien de hiervoor bedoelde belastingplichtigen de onroerende zaak in totaal minder dan het aantal dagen in het kalenderjaar mogen gebruiken wordt het op grond van de eerste twee volzinnen bepaalde voordeel vermenigvuldigd met een leegstandsfactor. Deze leegstandsfactor bedraagt het aantal dagen in het kalenderjaar gedeeld door het totaal aantal dagen dat deze belastingplichtigen de onroerende zaak mogen gebruiken.   
 
 ### Titel  6  
@@ -500,9 +503,14 @@ De plaats van door een ondernemer, een andere dan een BES ondernemer, verrichte 
 
 ### Artikel  6.7g  
 
-1.  De plaats van dienst van kortdurende verhuur van een vervoermiddel, verricht door een ondernemer, een andere dan een BES ondernemer, is de plaats waar dat vervoermiddel daadwerkelijk ter beschikking van de afnemer wordt gesteld.   
-2.  De plaats van dienst van andere dan kortdurende verhuur van een vervoermiddel, verricht door een ondernemer, een andere dan een BES ondernemer of een ondernemer die in de Gemeenschap zoals bedoeld in [artikel 2a, eerste lid, onderdeel c, van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), de zetel van zijn bedrijfsuitoefening heeft gevestigd of daar over een vaste inrichting beschikt van waaruit de dienst wordt verricht, of, bij gebreke van een dergelijke zetel of vaste inrichting, zijn woonplaats of gebruikelijke verblijfplaats in die Gemeenschap heeft, is de plaats waar dat vervoermiddel daadwerkelijk ter beschikking van de afnemer wordt gesteld.   
-3.  Voor de toepassing van dit artikel wordt onder «kortdurende verhuur» verstaan: het ononderbroken bezit of gebruik van het vervoermiddel gedurende een periode van ten hoogste dertig dagen, en voor schepen ten hoogste negentig dagen.   
+1.  De plaats van dienst van kortdurende en andere dan kortdurende verhuur van een vervoermiddel, verricht door een ondernemer, een andere dan een BES ondernemer, is de plaats waar dat vervoermiddel daadwerkelijk ter beschikking van de afnemer wordt gesteld.   
+2.  In afwijking van het eerste lid is de plaats van dienst van andere dan kortdurende verhuur van een vervoermiddel bij verhuur aan: 
+
+a. een andere dan een ondernemer die gevestigd is of woont in de Gemeenschap zoals bedoeld in [artikel 2a, eerste lid, onderdeel c, van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), de plaats waar die afnemer gevestigd is of woont;  
+
+b. een ondernemer die de zetel van zijn bedrijfsuitoefening heeft in de in onderdeel a bedoelde Gemeenschap of in die Gemeenschap over een vaste inrichting beschikt die de dienst afneemt, of, bij gebreke van een dergelijke zetel of vaste inrichting, zijn woonplaats of gebruikelijke verblijfplaats in die Gemeenschap heeft, de plaats waar die afnemer de zetel van zijn bedrijfsuitoefening heeft gevestigd, of zijn woonplaats of gebruikelijke verblijfplaats heeft.     
+3.  In afwijking van het eerste en tweede lid is de plaats van dienst van andere dan kortdurende verhuur van een pleziervaartuig aan een afnemer, een andere dan een in het tweede lid, onderdeel b, bedoelde ondernemer, de plaats waar het pleziervaartuig effectief ter beschikking van de afnemer wordt gesteld, indien deze dienst daadwerkelijk door de dienstverrichter wordt verricht vanuit de zetel van zijn bedrijfsuitoefening of een vaste inrichting aldaar.   
+4.  Voor de toepassing van dit artikel wordt onder «kortdurende verhuur» verstaan: het ononderbroken bezit of gebruik van het vervoermiddel gedurende een periode van ten hoogste dertig dagen, en voor schepen ten hoogste negentig dagen.   
 
 ### Artikel  6.7h  
 
@@ -529,12 +537,13 @@ g. de verhuur van roerende lichamelijke zaken, met uitzondering van alle vervoer
 
 h. het bieden van toegang tot aardgas- en elektriciteitsdistributiesystemen alsmede het verrichten van transport- en transmissiediensten via deze systemen en het verrichten van andere daarmee rechtstreeks verbonden diensten;  
 
-i. telecommunicatiediensten;  
+i. telecommunicatiediensten als bedoeld in [artikel 2a, eerste lid, onderdeel r, van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md);  
 
 j. radio- en televisieomroepdiensten;  
 
 k. elektronische diensten als bedoeld in [artikel 2a, eerste lid, onderdeel q, van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md).     
-2.  Het feit dat de dienstverrichter en de afnemer langs elektronische weg berichten uitwisselen, betekent op zich niet dat de verrichte dienst een elektronische dienst is.   
+2.  In afwijking van het eerste lid worden de diensten, genoemd in dat lid, die worden verricht voor een andere dan ondernemer, verricht in een openbaar lichaam, wanneer het werkelijk gebruik en de werkelijke exploitatie in dat openbaar lichaam plaatsvinden.   
+3.  Het feit dat de dienstverrichter en de afnemer langs elektronische weg berichten uitwisselen, betekent op zich niet dat de verrichte dienst een elektronische dienst is.   
 
 ### Artikel  6.7j  
 
@@ -620,7 +629,7 @@ c. de in dat tweede lid, onderdeel b, bedoelde belasting 18, 22 of 30 percent, 
 
 1.  Onder bij ministeriële regeling vast te stellen voorwaarden en beperkingen zijn van de belasting vrijgesteld: 
 
-a. de levering van brood, graan, aardappelen en rijst;  
+a. de levering van eerste levensbehoeften, voor zover behorend tot bij ministeriële regeling aan te wijzen hoofdstukken of posten van het geharmoniseerde systeem, genoemd in [artikel 3.1 tweede lid, onderdeel a, van de Douane- en Accijnswet BES](../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md);  
 
 b. de diensten bestaande uit het verzorgen van het openbaar personenvervoer over de weg, schoolbusdiensten daaronder mede begrepen;  
 
@@ -824,7 +833,7 @@ a. op verzoek van een producent om daarvoor voor de invoer van in het kader van 
 
 b. voor de invoer van goederen waarvoor aanspraak op vrijstelling van invoerrechten bestaat;  
 
-c. voor de invoer van brood, graan, aardappelen, rijst, geneesmiddelen en medische kunst- en hulpmiddelen als bedoeld in artikel 6.11, eerste lid, onderdelen d en e, alsmede van andere goederen waarvan de levering in het openbare lichaam is vrijgesteld.     
+c. voor de invoer van eerste levensbehoeften, geneesmiddelen en medische kunst- en hulpmiddelen als bedoeld in artikel 6.11, eerste lid, onderdelen a, d en e, alsmede van andere goederen waarvan de levering in het openbare lichaam is vrijgesteld.     
 2.  De inspecteur beslist bij voor bezwaar vatbare beschikking op een schriftelijk verzoek van een producent voor de in het eerste lid, onderdeel a, bedoelde aanwijzing.   
 
 ### Afdeling  4  
@@ -2601,30 +2610,42 @@ d. zulks overigens naar het oordeel van Onze Minister is geboden.
 ####Onderzoek
 
 1.  Onze Minister laat door een ambtenaar van de rijksbelastingdienst zo nodig een onderzoek instellen ten behoeve van het verstrekken van inlichtingen, bedoeld in de artikelen 8.125, 8.126 of 8.127.   
-2.  Bij het in het eerste lid bedoelde onderzoek zijn de bepalingen van Titel 7 van dit hoofdstuk van overeenkomstige toepassing.   
-3.  Bij of krachtens algemene maatregel van bestuur worden administratieplichtigen aangewezen die gehouden zijn eigener beweging bij of krachtens algemene maatregel van bestuur aan te wijzen gegevens en inlichtingen te verstrekken aan Onze Minister met het oog op de uitvoering van regelingen van internationaal en interregionaal recht tot het verlenen van wederzijdse bijstand bij de heffing en invordering van belastingen. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot het uiterste tijdstip en de wijze waarop de in de eerste volzin bedoelde gegevens en inlichtingen aan Onze Minister dienen te worden verstrekt.   
+2.  Een onderzoek als bedoeld in het eerste lid kan ook plaatsvinden op verzoek van een bevoegde autoriteit van een staat. In voorkomend geval deelt Onze Minister deze bevoegde autoriteit mee op welke gronden hij een onderzoek niet noodzakelijk acht.   
+3.  Bij het in het eerste lid bedoelde onderzoek zijn de bepalingen van Titel 7 van dit hoofdstuk van overeenkomstige toepassing.   
+4.  Bij of krachtens algemene maatregel van bestuur worden administratieplichtigen aangewezen die gehouden zijn eigener beweging bij of krachtens algemene maatregel van bestuur aan te wijzen gegevens en inlichtingen te verstrekken aan Onze Minister met het oog op de uitvoering van regelingen van internationaal en interregionaal recht tot het verlenen van wederzijdse bijstand bij de heffing en invordering van belastingen. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot het uiterste tijdstip en de wijze waarop de in de eerste volzin bedoelde gegevens en inlichtingen aan Onze Minister dienen te worden verstrekt.   
+5.  Geen beroep kan worden ingesteld tegen de aankondiging van een onderzoek als bedoeld in het eerste lid, alsmede tegen het onderzoek zelve.   
 
 ### Artikel  8.130  
 
 ####Gelijktijdig onderzoek
 
-1.  Onze Minister kan na overleg met een of meer bevoegde autoriteiten overgaan tot een gelijktijdig onderzoek.   
-2.  In deze afdeling en de daarop berustende bepalingen wordt onder een gelijktijdig onderzoek verstaan een onderzoek als bedoeld in artikel 8.129, dat gelijktijdig wordt uitgevoerd met een onderzoek in een of meer andere staten.   
-3.  Bij ministeriële regeling kunnen regels worden gesteld betreffende het gelijktijdige onderzoek en de behandeling van een voorstel daartoe.   
+1.  Onze Minister kan met één of meer bevoegde autoriteiten van een staat overeenkomen om gelijktijdig, elk op het eigen grondgebied, bij één of meer personen ten aanzien van wie zij een gezamenlijk of complementair belang hebben, controles te verrichten en de aldus verkregen inlichtingen uit te wisselen.   
+2.  Bij ministeriële regeling kunnen regels worden gesteld betreffende het gelijktijdige onderzoek en de behandeling van een voorstel daartoe.   
 
 ### Artikel  8.131  
 
 ####Aanwezigheid buitenlandse ambtenaar
 
-1.  Onze Minister kan na overleg met een bevoegde autoriteit van een staat toestaan dat een ambtenaar van de belastingadministratie van die staat aanwezig is bij een onderzoek als bedoeld in artikel 8.129.   
-2.  Bij het overleg worden de voorwaarden vastgesteld waaronder Onze Minister de in het eerste lid bedoelde toestemming kan verlenen.   
-3.  Indien een ambtenaar van de rijksbelastingdienst een onderzoek instelt in aanwezigheid van ambtenaren van een andere staat aan wie Onze Minister toestemming heeft verleend als bedoeld in het eerste lid, geeft Onze Minister aan de inwilliging van het verzoek om inlichtingen uitvoering voordat degene van wie de inlichtingen afkomstig zijn, daarvan in kennis is gesteld. Alsdan vindt de kennisgeving zo spoedig mogelijk plaats, doch niet later dan vier maanden na het begin van de uitvoering.   
+1.  Onze Minister kan met een bevoegde autoriteit van een staat overeenkomen dat, ter uitwisseling van inlichtingen in het kader van de in artikel 8.124 bedoelde wederzijdse bijstand, door de bevoegde autoriteit van een staat gemachtigde ambtenaren onder de door Onze Minister gestelde voorwaarden: 
+
+a. aanwezig kunnen zijn in de kantoren van de ambtenaren van de rijksbelastingdienst op de BES eilanden;  
+
+b. aanwezig kunnen zijn bij onderzoeken die op de BES eilanden worden uitgevoerd.   Indien de verlangde inlichtingen vermeld staan in bescheiden waartoe de ambtenaren, bedoeld in onderdeel a, toegang hebben, ontvangen de ambtenaren van de bevoegde autoriteit van de staat een afschrift van die bescheiden.   
+2.  In de overeenkomst, bedoeld in het eerste lid, kan Onze Minister toestaan dat ambtenaren van de bevoegde autoriteit van die staat op de BES eilanden personen kunnen ondervragen en bescheiden kunnen onderzoeken.   
+3.  De door een bevoegde autoriteit van een staat gemachtigde ambtenaren die op de BES eilanden aanwezig zijn, dienen te allen tijde een schriftelijke opdracht te kunnen overleggen waaruit hun identiteit en hun officiële hoedanigheid blijkt.   
+4.  Indien een ambtenaar van de rijksbelastingdienst een onderzoek instelt in aanwezigheid van ambtenaren van een andere staat aan wie Onze Minister toestemming heeft verleend als bedoeld in het eerste lid, geeft Onze Minister aan de inwilliging van het verzoek om inlichtingen uitvoering voordat degene van wie de inlichtingen afkomstig zijn, daarvan in kennis is gesteld. Alsdan vindt de kennisgeving zo spoedig mogelijk plaats, doch niet later dan vier maanden na het begin van de uitvoering.   
 
 ### Artikel  8.132  
 
 ####Aanwezigheid ambtenaar BES
 
-Ten dienste van de heffing van belastingen, alsmede renten daarover of bestuursrechtelijke boeten die daarmee verband houden, kan Onze Minister een ambtenaar van de rijksbelastingdienst aanwijzen om aanwezig te zijn bij een onderzoek in een andere staat, dat door of vanwege de bevoegde autoriteit van die staat wordt ingesteld, in het kader van het verstrekken van inlichtingen aan de BES eilanden.  
+1.  Onze Minister en een bevoegde autoriteit van een staat kunnen overeenkomen dat, in het kader van het verstrekken van inlichtingen aan de BES eilanden, door Onze Minister aangewezen ambtenaren van de rijksbelastingdienst onder de door de bevoegde autoriteit van een staat gestelde voorwaarden: 
+
+a. aanwezig kunnen zijn in de kantoren waar de ambtenaren van de bevoegde autoriteit van een staat hun taken vervullen;  
+
+b. aanwezig kunnen zijn bij administratief onderzoek dat wordt uitgevoerd op het grondgebied van de bevoegde autoriteit van een staat.     
+2.  Voor zover het in de staat van de bevoegde autoriteit wettelijk is toegestaan, kunnen in het kader van de overeenkomst, bedoeld in het eerste lid, de bij een administratief onderzoek aanwezige ambtenaren van de rijksbelastingdienst, personen ondervragen en bescheiden onderzoeken.   
+3.  Ambtenaren van de rijksbelastingdienst, die overeenkomstig het eerste lid op het grondgebied van de bevoegde autoriteit van een staat aanwezig zijn, dienen te allen tijde een schriftelijke opdracht te kunnen overleggen waaruit hun identiteit en hun officiële hoedanigheid blijkt.   
 
 ### Artikel  8.133  
 

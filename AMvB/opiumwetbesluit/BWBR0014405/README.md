@@ -28,7 +28,7 @@ c. regionale inspecteur: de inspecteur voor de gezondheidszorg in regionale dien
 
 d. opiumwetmiddel: een middel waarop [artikel 2](../../../wet/opiumwet/BWBR0001941/README.md) of [artikel 3 van de wet](../../../wet/opiumwet/BWBR0001941/README.md) van toepassing is;  
 
-e. recept: een document als bedoeld in [artikel 1, eerste lid, onder pp, van de Geneesmiddelenwet](../../../wet/geneesmiddelenwet/BWBR0021505/README.md) of [artikel 1, eerste lid, van de Diergeneesmiddelenwet](../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md);  
+e. recept: een document als bedoeld in [artikel 1, eerste lid, onder pp, van de Geneesmiddelenwet](../../../wet/geneesmiddelenwet/BWBR0021505/README.md) of [artikel 1.1 van het Besluit diergeneesmiddelen](../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md);  
 
 f. gevestigde apotheker: een apotheker als bedoeld in [artikel 1, onder c, van het Besluit Geneesmiddelenwet](../../../AMvB/besluit/geneesmiddelenwet/BWBR0021672/README.md);  
 

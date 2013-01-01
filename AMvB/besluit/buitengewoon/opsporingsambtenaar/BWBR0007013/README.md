@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op voordracht van Onze Minister van Justitie van 22 april 1994, Stafafdeling Wetgeving Publiekrecht, nr. 436121/94/6;
 
-Gelet op [artikel 142 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [artikel 17, derde lid](../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md), Wet economische delicten, en artikel 3, hoofdstuk 2, [afdeling 1, van de Invoeringswet Politiewet 1993](../../../../../wet/invoeringswet/politiewet/1993/BWBR0006300/README.md);
+Gelet op artikel 142 van het Wetboek van Strafvordering, artikel 17, derde lid, Wet economische delicten, en artikel 3, hoofdstuk 2, afdeling 1, van de Invoeringswet Politiewet 1993;
 
 De Raad van State gehoord (advies van 30 augustus 1994, nummer W03.94.0246);
 
@@ -20,19 +20,19 @@ Hebben goedgevonden en verstaan:
 
 1.  In dit besluit wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Justitie;  
+a. Onze Minister: Onze Minister van Veiligheid en Justitie;  
 
 b. titel van opsporingsbevoegdheid: de titel van opsporingsbevoegdheid, bedoeld in artikel 3;  
 
-c. akte van opsporingsbevoegdheid: de akte van opsporingsbevoegdheid, bedoeld in [artikel 142, eerste lid, onder a, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
+c. akte van opsporingsbevoegdheid: de akte van opsporingsbevoegdheid, bedoeld in artikel 142, eerste lid, onder a, van het Wetboek van Strafvordering;  
 
-d. aanwijzing: de aanwijzing, bedoeld in [artikel 142, eerste lid, onder b, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
+d. aanwijzing: de aanwijzing, bedoeld in artikel 142, eerste lid, onder b, van het Wetboek van Strafvordering;  
 
-e. aanvullende opsporingsbevoegdheid: de aanvullende opsporingsbevoegdheid, bedoeld in [artikel 142, derde lid, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
+e. aanvullende opsporingsbevoegdheid: de aanvullende opsporingsbevoegdheid, bedoeld in artikel 142, derde lid, van het Wetboek van Strafvordering;  
 
 f. de akte van beëdiging: de akte van beëdiging, bedoeld in artikel 19, eerste lid;  
 
-g. politiebevoegdheden: de bevoegdheden, bedoeld in [artikel 8, eerste en derde lid, van de Politiewet 1993](../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+g. politiebevoegdheden: de bevoegdheden, bedoeld in artikel 7, eerste en derde lid, van de Politiewet 2012;  
 
 h. werkgever: de werkgever van de buitengewoon opsporingsambtenaar;  
 
@@ -43,19 +43,19 @@ j. legitimatiebewijs: een bewijs als bedoeld in artikel 26 van dit besluit;
 k. insigne: het onderscheidingsteken, bedoeld in artikel 26a, eerste lid.     
 2.  Als standplaats in de zin van dit besluit wordt aangemerkt: 
 
-a. indien de buitengewoon opsporingsambtenaar bevoegd is zijn taak in meer politieregio's, dan wel in het gehele land uit te oefenen: de gemeente van vestiging van de werkgever;  
+a. indien de buitengewoon opsporingsambtenaar bevoegd is zijn taak uit te oefenen in een gebied waarin meerdere regionale eenheden van de politie de politietaak uitvoeren, dan wel in het gehele land: de gemeente van vestiging van de werkgever;  
 
-b. indien de buitengewoon opsporingsambtenaar bevoegd is zijn taak in één politieregio uit te oefenen: 
+b. indien de buitengewoon opsporingsambtenaar bevoegd is zijn taak uit te oefenen in het gebied waarin één regionale eenheid van de politie de politietaak uitvoert: 
 
 1°. de gemeente waar hij zijn hoofdwerkzaamheden verricht, dan wel  
 
 2°. een gekozen gemeente uit de gemeenten, waarin hij werkzaam is.       
-3.  In dit besluit wordt verstaan onder het College van procureurs-generaal: het College van procureurs-generaal, bedoeld in [artikel 130 van de Wet op de rechterlijke organisatie](../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md).   
+3.  In dit besluit wordt verstaan onder het College van procureurs-generaal: het College van procureurs-generaal, bedoeld in artikel 130 van de Wet op de rechterlijke organisatie.   
 4.  In dit besluit wordt verstaan onder: 
 
 a. toezichthouder: de hoofdofficier van justitie, bedoeld in artikel 36, tweede lid;  
 
-b. direct toezichthouder: degene, die op grond van artikel 36, derde lid, als direct toezichthouder is aangewezen.   De (direct) toezichthouder is geen toezichthouder bedoeld in [artikel 5:11 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+b. direct toezichthouder: degene, die op grond van artikel 36, derde lid, als direct toezichthouder is aangewezen.   De (direct) toezichthouder is geen toezichthouder bedoeld in artikel 5:11 van de Algemene wet bestuursrecht.   
 
 ### Artikel  2  
 
@@ -65,7 +65,7 @@ a. een titel van opsporingsbevoegdheid,
 
 b. de bekwaamheid en betrouwbaarheid voor het uitoefenen van opsporingsbevoegdheden, en  
 
-c. een akte van beëdiging,   is bevoegd op het grondgebied, vermeld in die akte, de opsporingsbevoegdheden uit te oefenen ter zake van de feiten die in die akte zijn vermeld en daarvan ambtsedig proces-verbaal op te maken als bedoeld in [artikel 152 Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).  
+c. een akte van beëdiging,   is bevoegd op het grondgebied, vermeld in die akte, de opsporingsbevoegdheden uit te oefenen ter zake van de feiten die in die akte zijn vermeld en daarvan ambtsedig proces-verbaal op te maken als bedoeld in artikel 152 Wetboek van Strafvordering.  
 
 ### Hoofdstuk  2  
 
@@ -77,7 +77,7 @@ c. een akte van beëdiging,   is bevoegd op het grondgebied, vermeld in die akte
 
 ### Artikel  3  
 
-De titel van opsporingsbevoegdheid is de rechtsgrond die de bevoegdheid tot opsporen bepaalt van de buitengewoon opsporingsambtenaar, bedoeld in [artikel 142](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [eerste lid, onder *a*, *b* of *c*](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), dan wel [artikel 142, derde lid, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md). De titel, bedoeld in [artikel 142, eerste lid, onder *a* en *b*](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en de aanvullende bevoegdheid op grond van [artikel 142, derde lid, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) worden overeenkomstig dit hoofdstuk verleend.  
+De titel van opsporingsbevoegdheid is de rechtsgrond die de bevoegdheid tot opsporen bepaalt van de buitengewoon opsporingsambtenaar, bedoeld in artikel 142, eerste lid, onder *a*, *b* of *c*, dan wel artikel 142, derde lid, van het Wetboek van Strafvordering. De titel, bedoeld in artikel 142, eerste lid, onder *a* en *b*, en de aanvullende bevoegdheid op grond van artikel 142, derde lid, van het Wetboek van Strafvordering worden overeenkomstig dit hoofdstuk verleend.  
 
 ### Artikel  4  
 
@@ -140,7 +140,7 @@ Onze Minister verleent de akte van opsporingsbevoegdheid, waarin staan vermeld h
 
 ### Artikel  12  
 
-1.  De werkgever dient een aanvraag tot aanwijzing van categorieën of eenheden als bedoeld in [artikel 142, eerste lid, onder *b*, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) in bij Onze Minister.   
+1.  De werkgever dient een aanvraag tot aanwijzing van categorieën of eenheden als bedoeld in artikel 142, eerste lid, onder *b*, van het Wetboek van Strafvordering in bij Onze Minister.   
 2.  De aanvraag bevat, naast de in artikel 5 genoemde gegevens, de volgende gegevens: 
 
 a. een omschrijving van de categorie of eenheid binnen de organisatie en van de functies, waarvan de opsporingsbevoegdheid deel moet uitmaken, en  
@@ -158,7 +158,7 @@ In de beschikking wordt het hoogste aantal personen vermeld dat op grond van de 
 
 ### Artikel  14  
 
-1.  De werkgever dient een aanvraag voor een aanvullende opsporingsbevoegdheid als bedoeld in [artikel 142, derde lid, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) in bij Onze Minister.   
+1.  De werkgever dient een aanvraag voor een aanvullende opsporingsbevoegdheid als bedoeld in artikel 142, derde lid, van het Wetboek van Strafvordering in bij Onze Minister.   
 2.  De aanvraag ten behoeve van de categorie of eenheid bevat, naast de in artikel 5 genoemde gegevens, de volgende gegevens: 
 
 a. een omschrijving van de categorie of eenheid binnen de organisatie en van de functies, waarvan de opsporingsbevoegdheid deel moet uitmaken, en  
@@ -197,12 +197,12 @@ b. een opgave van het hoogste aantal personen dat in die functies moet kunnen wo
 
 1.  Onze Minister maakt ten behoeve van de beëdiging een akte van beëdiging op. Daarbij wordt gebruik gemaakt van een door Onze Minister vastgesteld model.   
 2.  In de akte van beëdiging zijn in elk geval opgenomen de feiten tot de opsporing waarvan de desbetreffende persoon beëdigd is en het grondgebied waarvoor de opsporingsbevoegdheid geldt. Als grondgebied wordt bepaald het gebied waarop de desbetreffende persoon zijn functie uitoefent in verband waarmee hij tot buitengewoon opsporingsambtenaar wordt beëdigd.   
-3.  Indien de buitengewoon opsporingsambtenaar bevoegd is politiebevoegdheden uit te oefenen dan wel geweldmiddelen, als bedoeld in artikel 37, derde lid, van de Ambtsinstructie voor de politie en de Koninklijke marechaussee en de buitengewoon opsporingsambtenaar, te gebruiken, wordt daarvan aantekening gemaakt op de akte.   
+3.  Indien de buitengewoon opsporingsambtenaar bevoegd is politiebevoegdheden uit te oefenen dan wel geweldmiddelen, als bedoeld in artikel 37, derde lid, van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren, te gebruiken, wordt daarvan aantekening gemaakt op de akte.   
 
 ### Artikel  20  
 
 1.  Onze Minister neemt van de te beëdigen persoon de eed, verklaring of belofte van zuivering en een ambtseed of ambtsbelofte, vastgelegd in bijlage A, af. Het proces-verbaal van de aflegging van de eden, verklaring en beloften wordt aan de akte van beëdiging toegevoegd en maakt vanaf dat moment daarvan deel uit.   
-2.  Bij de bekendmaking of de beëdiging ontvangt de buitengewoon opsporingsambtenaar, de akte van beëdiging, het legitimatiebewijs, de tekst van hoofdstuk 5 en, voorzover op hem van toepassing, een afschrift van de [Ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewoon opsporingsambtenaar](../../../../../AMvB/ambtsinstructie/voor/de/politie/de/koninklijke/marechaussee/en/andere/etc/BWBR0006589/README.md).   
+2.  Bij de bekendmaking of de beëdiging ontvangt de buitengewoon opsporingsambtenaar, de akte van beëdiging, het legitimatiebewijs, de tekst van hoofdstuk 5 en, voorzover op hem van toepassing, een afschrift van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren.   
 3.  Onze Minister zendt een afschrift van de akte van beëdiging aan de toezichthouder en de direct toezichthouder.   
 
 ### Artikel  21  
@@ -239,18 +239,18 @@ c. het grondgebied waarvoor de opsporingsbevoegdheid geldt, indien hem van de no
 
 1.  De buitengewoon opsporingsambtenaar beperkt de opsporingshandelingen waartoe hij bevoegd is, tot hetgeen nodig is voor een juiste vervulling van de functie in verband waarmee hij tot buitengewoon opsporingsambtenaar is beëdigd. Hij onthoudt zich van elk optreden waartoe hij niet bevoegd is.   
 2.  De buitengewoon opsporingsambtenaar gedraagt zich bij de uitoefening van zijn opsporingsbevoegdheden overeenkomstig de bij of krachtens de wet gegeven regels.   
-3.  Indien hij bevoegd is politiebevoegdheden uit te oefenen, gedraagt hij zich overeenkomstig [artikel 8, eerste, tweede, derde en vijfde lid, van de Politiewet 1993](../../../../../wet/politiewet/1993/BWBR0006299/README.md) en de op hem van toepassing zijnde bepalingen uit de [Ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewoon opsporingsambtenaar](../../../../../AMvB/ambtsinstructie/voor/de/politie/de/koninklijke/marechaussee/en/andere/etc/BWBR0006589/README.md).   
+3.  Indien hij bevoegd is politiebevoegdheden uit te oefenen, gedraagt hij zich overeenkomstig artikel 7, eerste, tweede, derde en vijfde lid, van de Politiewet 2012 en de op hem van toepassing zijnde bepalingen uit de Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren.   
 
 ### Artikel  26  
 
 1.  Bij het uitoefenen van zijn taak draagt de buitengewoon opsporingsambtenaar een legitimatiebewijs bij zich, waarvan het model door Onze Minister is vastgesteld.   
 2.  Onze Minister kan personen of categorieën aanwijzen die bevoegd zijn een legitimatiebewijs te dragen dat afwijkt van het model, bedoeld in het eerste lid.   
-3.  Onverminderd [artikel 1, eerste en tweede lid, van de Algemene wet op het binnentreden](../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) toont de buitengewoon opsporingsambtenaar zijn legitimatiebewijs desgevraagd aanstonds.   
+3.  Onverminderd artikel 1, eerste en tweede lid, van de Algemene wet op het binnentreden toont de buitengewoon opsporingsambtenaar zijn legitimatiebewijs desgevraagd aanstonds.   
 
 ### Artikel  26a  
 
 1.  Indien de buitengewoon opsporingsambtenaar een uniform of bedrijfskleding draagt, wordt dat uniform of die bedrijfskleding op een duidelijk zichtbare plaats voorzien van een insigne, waarvan het model door Onze Minister wordt vastgesteld.   
-2.  Het eerste lid is niet van toepassing op het uniform van een buitengewoon opsporingsambtenaar werkzaam bij een politiekorps, de Koninklijke marechaussee of de Belastingdienst/Douane.   
+2.  Het eerste lid is niet van toepassing op het uniform van een buitengewoon opsporingsambtenaar werkzaam bij de politie, de Koninklijke marechaussee of de Belastingdienst/Douane.   
 
 ### Artikel  27  
 
@@ -258,11 +258,11 @@ In het proces-verbaal van opsporingshandelingen of in enige andere schriftelijke
 
 ### Artikel  28  
 
-De buitengewoon opsporingsambtenaar volgt bij de opsporing de door of namens het bevoegde gezag, bedoeld in [artikel 148 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), gegeven aanwijzingen op, tenzij [artikel 80, vierde lid, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) of artikel 203 van de Wet inzake de douane van toepassing is. Hij verstrekt het bevoegd gezag de gewenste inlichtingen.  
+De buitengewoon opsporingsambtenaar volgt bij de opsporing de door of namens het bevoegde gezag, bedoeld in artikel 148 van het Wetboek van Strafvordering, gegeven aanwijzingen op, tenzij artikel 80, vierde lid, van de Algemene wet inzake rijksbelastingen of artikel 203 van de Wet inzake de douane van toepassing is. Hij verstrekt het bevoegd gezag de gewenste inlichtingen.  
 
 ### Artikel  29  
 
-1.  De buitengewoon opsporingsambtenaar volgt bij het uitoefenen van de politiebevoegdheden de door of namens de meerdere, bedoeld in [artikel 37, derde lid, van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewoon opsporingsambtenaar](../../../../../AMvB/ambtsinstructie/voor/de/politie/de/koninklijke/marechaussee/en/andere/etc/BWBR0006589/README.md), gegeven aanwijzingen op.   
+1.  De buitengewoon opsporingsambtenaar volgt bij het uitoefenen van de politiebevoegdheden de door of namens de meerdere, bedoeld in artikel 37, derde lid, van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren, gegeven aanwijzingen op.   
 2.  Hij verstrekt de meerdere, bedoeld in het eerste lid, de gewenste inlichtingen.   
 
 ### Artikel  30  
@@ -274,7 +274,7 @@ De buitengewoon opsporingsambtenaar volgt bij de opsporing de door of namens het
 
 1.  De buitengewoon opsporingsambtenaar zorgt ervoor dat hij blijft beschikken over de bekwaamheid en de betrouwbaarheid voor de uitoefening van opsporingsbevoegdheden. Hij werkt mee aan de regelmatige toetsing van de bekwaamheid en volgt in door Onze Minister te bepalen gevallen een bijscholingsprogramma waarmee deze heeft ingestemd.   
 2.  De buitengewoon opsporingsambtenaar woont de door de direct toezichthouder aangewezen bijeenkomsten bij, waarin onderricht wordt gegeven in zaken welke verband houden met de uitoefening van opsporingsbevoegdheden.   
-3.  Indien de uitoefening van politiebevoegdheden mede het gebruik van bepaalde geweldmiddelen, als bedoeld in [artikel 37, derde lid, van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewoon opsporingsambtenaar](../../../../../AMvB/ambtsinstructie/voor/de/politie/de/koninklijke/marechaussee/en/andere/etc/BWBR0006589/README.md), omvat, oefent de buitengewoon opsporingsambtenaar met die middelen.   
+3.  Indien de uitoefening van politiebevoegdheden mede het gebruik van bepaalde geweldmiddelen, als bedoeld in artikel 37, derde lid, van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren, omvat, oefent de buitengewoon opsporingsambtenaar met die middelen.   
 
 ### Hoofdstuk  6  
 
@@ -304,7 +304,7 @@ De buitengewoon opsporingsambtenaar volgt bij de opsporing de door of namens het
 
 1.  De opsporingsbevoegdheid vervalt met ingang van de dag na de datum waarop 
 
-a. de titel van opsporingsbevoegdheid vervalt of wijzigt, tenzij de akte van beëdiging is gewijzigd als bedoeld in artikel 23, tweede lid, onder *a*;  
+a. de titel van opsporingsbevoegdheid vervalt of wijzigt, tenzij de akte van beëdiging is gewijzigd als bedoeld in artikel 23, tweede lid, onder a;  
 
 b. is vastgesteld dat de bekwaamheid of betrouwbaarheid voor de uitvoering van opsporingsbevoegdheden niet meer aanwezig is;  
 
@@ -319,7 +319,7 @@ b. indien de buitengewoon opsporingsambtenaar misbruik maakt van zijn bevoegdhed
 
 c. indien de buitengewoon opsporingsambtenaar de aanwijzingen van het bevoegd gezag, de toezichthouder en de direct toezichthouder niet nakomt;  
 
-d. indien de buitengewoon opsporingsambtenaar heeft gehandeld in strijd met enige andere bepaling bij of krachtens dit besluit of voor zover op hem van toepassing, de [Ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewoon opsporingsambtenaar](../../../../../AMvB/ambtsinstructie/voor/de/politie/de/koninklijke/marechaussee/en/andere/etc/BWBR0006589/README.md).     
+d. indien de buitengewoon opsporingsambtenaar heeft gehandeld in strijd met enige andere bepaling bij of krachtens dit besluit of voor zover op hem van toepassing, de Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren.     
 3.  Onze Minister kan de opsporingsbevoegdheid van een buitengewoon opsporingsambtenaar opschorten voor de duur van het onderzoek naar de in het tweede lid, onder *b* tot en met *d*, genoemde handelingen.   
 
 ### §  2  
@@ -332,11 +332,11 @@ d. indien de buitengewoon opsporingsambtenaar heeft gehandeld in strijd met enig
 2.  Als toezichthouder wordt een hoofdofficier van justitie aangewezen.   
 3.  Als direct toezichthouder wordt aangewezen: 
 
-a. indien het grondgebied, bedoeld in artikel 5, onder b, is gelegen binnen de grenzen van een politieregio: de korpschef, bedoeld in [artikel 24 van de Politiewet 1993](../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+a. indien het grondgebied, bedoeld in artikel 5, onder b, is gelegen binnen het gebied waarin een regionale eenheid van de politie de politietaak uitvoert: de korpschef, bedoeld in artikel 27 van de Politiewet 2012;  
 
-b. indien het grondgebied, bedoeld in artikel 5, onder b, is gelegen in meer dan één politieregio: een korpschef, of het hoofd van een onder de centrale overheid ressorterende landelijke dienst;  
+b. indien het grondgebied, bedoeld in artikel 5, onder b, groter is dan het gebied waarin een regionale eenheid van de politie de politietaak uitvoert: de korpschef, of het hoofd van een onder de centrale overheid ressorterende landelijke dienst;  
 
-c. indien de buitengewoon opsporingsambtenaar werkzaam is bij de krijgsmacht: de commandant van de Koninklijke marechaussee, bedoeld in [artikel 6, derde lid, van de Politiewet 1993](../../../../../wet/politiewet/1993/BWBR0006299/README.md).     
+c. indien de buitengewoon opsporingsambtenaar werkzaam is bij de krijgsmacht: de commandant van de Koninklijke marechaussee, bedoeld in artikel 4, derde lid, van de Politiewet 2012.     
 
 ### Artikel  38  
 
@@ -361,7 +361,7 @@ De toezichthouder ziet er op toe dat de buitengewoon opsporingsambtenaar zijn ta
 ### Artikel  41  
 
 1.  De werkgever verschaft de toezichthouder en de direct toezichthouder alle door hen gewenste informatie met betrekking tot de in zijn dienst werkzame buitengewoon opsporingsambtenaren.   
-2.  Onze Minister kan bepalen dat de werkgever, aan wie hij ingevolge [artikel 142, eerste lid, onder b, en derde lid, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) een categoriale beschikking heeft verleend, een jaarverslag dan wel op andere door hem te bepalen wijze informatie aan hem doet toekomen.   
+2.  Onze Minister kan bepalen dat de werkgever, aan wie hij ingevolge artikel 142, eerste lid, onder b, en derde lid, van het Wetboek van Strafvordering een categoriale beschikking heeft verleend, een jaarverslag dan wel op andere door hem te bepalen wijze informatie aan hem doet toekomen.   
 3.  Onze Minister kan eisen stellen aan het door de werkgever of een categorie van werkgevers te gebruiken systeem voor het registreren en verstrekken van de in het eerste lid bedoelde informatie en van operationele informatie die wordt verkregen in het kader van de taakuitvoering van de buitengewoon opsporingsambtenaar.   
 
 ### Artikel  42  
@@ -382,6 +382,68 @@ De toezichthouder ziet er op toe dat de buitengewoon opsporingsambtenaar zijn ta
 ### Hoofdstuk  8  
 
 ####Overgangs- en slotbepalingen
+
+### Artikel  44  
+
+1.  Indien voor 1 januari 2013 als toezichthouder is aangewezen de hoofdofficier van justitie van het in de linkerkolom bedoelde arrondissementsparket, is met ingang van 1 januari 2013 als toezichthouder aangewezen de hoofdofficier van justitie van het in de rechterkolom bedoelde arrondissementsparket.  
+
+| --- | --- |
+|---|---|
+| Alkmaar  | Noord-Holland  |
+| Almelo  | Oost-Nederland  |
+| Amsterdam  | Amsterdam  |
+| Arnhem  | Oost-Nederland  |
+| Assen  | Noord-Nederland  |
+| Breda  | Zeeland-West-Brabant  |
+| Dordrecht  | Rotterdam  |
+| ’s-Gravenhage  | Den Haag  |
+| Groningen  | Noord-Nederland  |
+| Haarlem  | Noord-Holland  |
+| ’s-Hertogenbosch  | Oost-Brabant  |
+| Leeuwarden  | Noord-Nederland  |
+| Maastricht  | Limburg  |
+| Middelburg  | Zeeland-West-Brabant  |
+| Roermond  | Limburg  |
+| Rotterdam  | Rotterdam  |
+| Utrecht  | Midden-Nederland  |
+| Zutphen  | Oost-Nederland  |
+| Zwolle-Lelystad  | Oost-Nederland  |
+
+2.  In afwijking van het eerste lid is met ingang van 1 januari 2013 als toezichthouder aangewezen de hoofdofficier van justitie van het arrondissementsparket Midden-Nederland, indien voor 1 januari 2013 als toezichthouder is aangewezen de hoofdofficier van justitie van het arrondissementparket Zwolle-Lelystad en het grondgebied, bedoeld in artikel 5, onder b, is gelegen binnen de grenzen van de politieregio Flevoland als bedoeld in de bijlage bij de Politiewet 1993, zoals deze wet luidde voor 1 januari 2013.   
+3.  In afwijking van het eerste lid is met ingang van 1 januari 2013 als toezichthouder aangewezen de hoofdofficier van justitie van het arrondissementsparket Midden-Nederland, indien voor 1 januari 2013 als toezichthouder is aangewezen de hoofdofficier van justitie van het arrondissementsparket Amsterdam en het gebied, bedoeld in artikel 5, onder 5, is gelegen binnen de grenzen van de politieregio Gooi en Vechtstreek als bedoel in de bijlage bij de Politiewet 1993, zoals deze wet luidde voor 1 januari 2013.   
+
+### Artikel  45  
+
+Indien voor 1 januari 2013 als direct toezichthouder is aangewezen de korpschef van een in de tabel genoemd politiekorps als bedoeld in artikel 4 van de Politiewet 1993, zoals deze wet luidde voor 1 januari 2013, is met ingang van 1 januari 2013 als direct toezichthouder aangewezen de korpschef, bedoeld in artikel 27 van de Politiewet 2012.  
+
+| --- |
+|---|
+| Amsterdam-Amstelland  |
+| Brabant-Noord  |
+| Brabant Zuid-Oost  |
+| Drenthe  |
+| Flevoland  |
+| Fryslân  |
+| Gelderland-Midden  |
+| Gelderland-Zuid  |
+| Gooi en Vechtstreek  |
+| Groningen  |
+| Haaglanden  |
+| Hollands Midden  |
+| IJsselland  |
+| Kennemerland  |
+| Limburg-Noord  |
+| Limburg-Zuid  |
+| Midden- en West-Brabant  |
+| Noord-Holland-Noord  |
+| Noord- en Oost-Gelderland  |
+| Rotterdam-Rijnmond  |
+| Twente  |
+| Utrecht  |
+| Zaanstreek-Waterland  |
+| Zeeland  |
+| Zuid-Holland-Zuid  |
+| Korps landelijke politiediensten  |
 
 ### Artikel  48  
 
@@ -411,4 +473,4 @@ Bij aanvaarding van de aanwijzing tot buitengewoon opsporingsambtenaar legt de d
 
 1. De eed (verklaring en belofte) van zuivering: «Ik zweer (verklaar), dat ik middellijk of onmiddellijk, in welke vorm dan ook, tot het verkrijgen van mijn aanstelling of beëdiging als buitengewoon opsporingsambtenaar aan niemand iets heb gegeven of beloofd. Ik zweer (beloof), dat ik, om iets in mijn betrekking als buitengewoon opsporingsambtenaar te doen of te laten, van niemand, middellijk of onmiddellijk, enige beloften of geschenken zal aannemen. Zo waarlijk helpe mij God almachtig (Dat verklaar en beloof ik)!»  
 
-2. De ambtseed of ambtsbelofte: «Ik zweer (beloof) trouw aan de Koning, aan de [Grondwet](../../../../../wet/grondwet/BWBR0001840/README.md) en aan de wetten van ons land. Ik zweer (beloof) dat ik de krachtens de wet uitgevaardigde voorschriften en verordeningen zal nakomen en handhaven, dat ik de aan mij verstrekte opdrachten plichtsgetrouw en nauwgezet zal volbrengen en de zaken, waarvan ik door mijn ambt kennis draag en die mij als geheim zijn toevertrouwd, of waarvan ik het vertrouwelijke karakter moet begrijpen, niet zal openbaren aan anderen dan aan hen, aan wie ik volgens de wet of ambtshalve tot mededeling verplicht ben. Ik zweer (beloof) dat ik mij zal gedragen zoals een goed buitengewoon opsporingsambtenaar betaamt, dat ik zorgvuldig, onkreukbaar en betrouwbaar zal zijn en dat ik niets zal doen dat het aanzien van het ambt zal schaden. Zo waarlijk helpe mij God almachtig (Dat beloof ik)!»   
+2. De ambtseed of ambtsbelofte: «Ik zweer (beloof) trouw aan de Koning, aan de Grondwet en aan de wetten van ons land. Ik zweer (beloof) dat ik de krachtens de wet uitgevaardigde voorschriften en verordeningen zal nakomen en handhaven, dat ik de aan mij verstrekte opdrachten plichtsgetrouw en nauwgezet zal volbrengen en de zaken, waarvan ik door mijn ambt kennis draag en die mij als geheim zijn toevertrouwd, of waarvan ik het vertrouwelijke karakter moet begrijpen, niet zal openbaren aan anderen dan aan hen, aan wie ik volgens de wet of ambtshalve tot mededeling verplicht ben. Ik zweer (beloof) dat ik mij zal gedragen zoals een goed buitengewoon opsporingsambtenaar betaamt, dat ik zorgvuldig, onkreukbaar en betrouwbaar zal zijn en dat ik niets zal doen dat het aanzien van het ambt zal schaden. Zo waarlijk helpe mij God almachtig (Dat beloof ik)!»   

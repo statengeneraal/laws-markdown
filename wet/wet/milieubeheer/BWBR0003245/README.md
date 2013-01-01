@@ -2681,13 +2681,13 @@ c. artikel 35, derde lid, onder c, 38, derde lid, onder b, 42, derde lid, onder 
 
 *geluidsbelasting L <sub>night</sub>:* geluidsbelasting van een plaats en vanwege een bron over alle perioden van 23.00–07.00 uur van een jaar als omschreven in bijlage I, onderdeel 2, van richtlijn nr. 2002/49/EG van het Europees Parlement en de Raad van de Europese Unie van 25 juni 2002 inzake de evaluatie en de beheersing van omgevingslawaai (PbEG L 189);  
 
-*geluidsgevoelig object:* bij algemene maatregel van bestuur als zodanig aangewezen gebouw of terrein dat vanwege de bestemming of het gebruik daarvan bijzondere bescherming tegen geluid behoeft;  
+*geluidsgevoelig object:* bij algemene maatregel van bestuur als zodanig aangewezen gebouw of terrein dat vanwege de bestemming daarvan bijzondere bescherming tegen geluid behoeft, waarbij wat betreft de bestemming wordt uitgegaan van het gebruik dat is toegestaan op grond van het bestemmingsplan, bedoeld in [artikel 3.1 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), een inpassingsplan als bedoeld in [artikel 3.26](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of [3.28 van die wet](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) daaronder mede begrepen, de beheersverordening, bedoeld in [artikel 3.38 van die wet](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), of, indien met toepassing van [artikel 2.12, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan of de beheersverordening is afgeweken, de omgevingsvergunning, bedoeld in [artikel 1.1, eerste lid, van laatstgenoemde wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
 
 *geluidsgevoelige ruimte:* bij algemene maatregel van bestuur als zodanig aangewezen ruimte van een geluidsgevoelig object;  
 
 *geluidwerende maatregel:* maatregel aan een geluidsgevoelig object die de geluidsbelasting binnen de geluidsgevoelige ruimten van dat object beperkt;  
 
-*geprojecteerde weg of spoorweg:* nog niet aangelegde weg of spoorweg, in de aanleg waarvan wordt voorzien door een geldend bestemmingsplan, tracébesluit, of wegaanpassingsbesluit als bedoeld in de Spoedwet wegverbreding, dan wel door een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan wordt afgeweken;  
+*geprojecteerde weg of spoorweg:* nog niet aangelegde weg of spoorweg, in de aanleg waarvan wordt voorzien door een geldend bestemmingsplan, tracébesluit, of wegaanpassingsbesluit als bedoeld in de [Spoedwet wegverbreding](../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md), dan wel door een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan wordt afgeweken;  
 
 *hoofdspoorweg:* krachtens [artikel 2 van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md) aangewezen hoofdspoorweg;  
 
@@ -3738,7 +3738,7 @@ b. worden regels gesteld omtrent de wijze waarop de vergoeding wordt betaald.
 ### Artikel  13.1  
 
 1.  Bij de toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op de voorbereiding van beschikkingen krachtens deze wet en van beschikkingen krachtens de in het tweede lid genoemde wetten of wettelijke bepalingen, wordt afdeling 13.2 in acht genomen, voor zover dat bij of krachtens de betrokken wet is bepaald.   
-2.  De in het eerste lid bedoelde wetten of wettelijke bepalingen zijn: de [Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md), [hoofdstuk VIIa van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md), de [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md), de [Wet inzake de luchtverontreiniging](../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md), de [Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md), de [Ontgrondingenwet](../../../../wet/ontgrondingenwet/BWBR0002505/README.md), de [Wet bescherming Antarctica](../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md), de [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), de [Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   
+2.  De in het eerste lid bedoelde wetten of wettelijke bepalingen zijn: de [Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md), de [artikelen 3.1](../../../../wet/wet/dieren/BWBR0030250/README.md), [3.3](../../../../wet/wet/dieren/BWBR0030250/README.md), [3.4](../../../../wet/wet/dieren/BWBR0030250/README.md), [3.5](../../../../wet/wet/dieren/BWBR0030250/README.md) en [3.6 van de Wet dieren](../../../../wet/wet/dieren/BWBR0030250/README.md), de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md), de [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md), de [Wet inzake de luchtverontreiniging](../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md), de [Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md), de [Ontgrondingenwet](../../../../wet/ontgrondingenwet/BWBR0002505/README.md), de [Wet bescherming Antarctica](../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md), de [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), de [Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   
 
 ### Afdeling  13.2  
 
@@ -4319,7 +4319,7 @@ Indien de hoeveelheid emissies, bedoeld in artikel 15.51, eerste lid, wordt over
 ### Artikel  16.1  
 
 1.  In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder: handelsperiode: periode als bedoeld in artikel 16.24, eerste lid; jaarvracht: totale hoeveelheid van een emissie gedurende een kalenderjaar; nationaal toewijzingsbesluit: besluit als bedoeld in artikel 16.24, eerste lid; projectactiviteit: project of activiteit als bedoeld in artikel 6 onderscheidenlijk artikel 12 van het Protocol van Kyoto; register voor handel in broeikasgasemissierechten: register als bedoeld in artikel 16.43, eerste lid; register voor handel in NO <sub>x</sub> -emissierechten: register als bedoeld in artikel 16.58, eerste lid; toegewezen eenheid: eenheid als bedoeld in artikel 2, onder e, van de EU-verordening register handel in broeikasgasemissierechten (AAU); tonkilometer: één ton vracht, vervoerd over een afstand van één kilometer, waarbij onder vracht wordt verstaan: de totale massa aan vracht, post en passagiers die wordt vervoerd; tonkilometergegevens: gegevens betreffende de omvang van een luchtvaartactiviteit als bedoeld in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten; verkoopplafond: het aantal NO <sub>x</sub> -emissierechten, bedoeld in artikel 16.49, derde lid; verwijderingseenheid: eenheid als bedoeld in artikel 2, onder r, van de EU-verordening register handel in broeikasgasemissierechten (RMU).   
-2.  Voor de toepassing van titel 16.2 en de daarop berustende bepalingen wordt verstaan onder: broeikasgasinstallatie: vaste technische eenheid, waarin een of meer activiteiten worden verricht, die een emissie van een broeikasgas in de lucht veroorzaken en die behoren tot een categorie die met betrekking tot het betrokken broeikasgas bij algemene maatregel van bestuur is aangewezen, alsmede andere activiteiten die met eerstbedoelde activiteiten rechtstreeks samenhangen en daarmee technisch in verband staan en die gevolgen kunnen hebben voor de emissie van het betrokken broeikasgas in de lucht; kalenderjaar: jaar als bedoeld in artikel 2, onder y, van de EG-verordening register handel in broeikasgasemissierechten.   
+2.  Voor de toepassing van titel 16.2 en de daarop berustende bepalingen wordt verstaan onder: broeikasgasinstallatie: vaste technische eenheid, waarin een of meer activiteiten worden verricht, die een emissie van een broeikasgas in de lucht veroorzaken en die behoren tot een categorie die met betrekking tot het betrokken broeikasgas bij algemene maatregel van bestuur is aangewezen, alsmede andere activiteiten die met eerstbedoelde activiteiten rechtstreeks samenhangen en daarmee technisch in verband staan en die gevolgen kunnen hebben voor de emissie van het betrokken broeikasgas in de lucht.   
 3.  Voor de toepassing van titel 16.3 en de daarop berustende bepalingen wordt onder NO <sub>x</sub> -installatie verstaan: vaste technische eenheid die een emissie van stikstofoxiden in de lucht veroorzaakt en die behoort tot een categorie die bij algemene maatregel van bestuur is aangewezen.   
 4.  Voor de toepassing van afdeling 16.2.1 onderscheidenlijk afdeling 16.2.2 wordt verstaan onder: 
 
@@ -4348,18 +4348,18 @@ verificatie: beoordeling als bedoeld in artikel 16.12, eerste lid, onderscheiden
 1.  Deze afdeling is van toepassing op inrichtingen waarin zich een of meer broeikasgasinstallaties bevinden.   
 2.  Een emissie van een broeikasgas in de lucht wordt uitgedrukt in tonnen kooldioxide-equivalent.   
 3.  Voor de toepassing van deze afdeling wordt onder brandstofverbruik en grondstofgebruik verstaan het verbruik van brandstoffen, onderscheidenlijk het gebruik van grondstoffen, voorzover dat verbruik, onderscheidenlijk gebruik, waarschijnlijk tot emissies van een broeikasgas zal leiden.   
-4.  Degene die een inrichting drijft, waarin zich een broeikasgasinstallatie bevindt: 
 
-a. die tot een krachtens het tweede lid aangewezen categorie behoort, kan in bij algemene maatregel van bestuur aangegeven gevallen verzoeken met betrekking tot een planperiode buiten die aanwijzing te blijven;  
+### Artikel  16.2a  
 
-b. die niet tot een krachtens het tweede lid aangewezen categorie behoort, kan in bij algemene maatregel van bestuur aangegeven gevallen verzoeken met betrekking tot een planperiode binnen die aanwijzing te vallen.     
-5.  Degene die een inrichting drijft, waarin zich een NO <sub>x</sub> -installatie bevindt: 
+1.  Deze afdeling is, met uitzondering van paragraaf 16.2.1.3, mede van toepassing op het transport van CO <sub>2</sub> (CCS).   
+2.  Voor de toepassing van deze afdeling op het transport van CO <sub>2</sub> (CCS) wordt onder «degene die de inrichting drijft» verstaan: de natuurlijke persoon of de rechtspersoon die de transportactiviteit verricht of aan wie een doorslaggevende economische zeggenschap over het technisch functioneren van die activiteit is overgedragen.   
 
-a. die tot een krachtens het derde lid aangewezen categorie behoort, kan in bij algemene maatregel van bestuur aangegeven gevallen verzoeken met ingang van een bepaald tijdstip buiten die aanwijzing te blijven;  
+### Artikel  16.2b  
 
-b. die niet tot een krachtens het derde lid aangewezen categorie behoort, kan in bij algemene maatregel van bestuur aangegeven gevallen verzoeken tot en met een bepaald tijdstip binnen die aanwijzing te vallen.     
-6.  Het bestuur van de emissieautoriteit beslist op de verzoeken, bedoeld in het vierde en vijfde lid. De verzoeken worden beoordeeld op grond van bij algemene maatregel van bestuur gestelde criteria.   
-7.  Bij of krachtens algemene maatregel van bestuur kunnen ter uitvoering van het vierde, vijfde en zesde lid regels worden gesteld.   
+1.  De artikelen 16.11a tot en met 16.13, 16.14 tot en met 16.18 en 16.24 tot en met 16.30a zijn van overeenkomstige toepassing op inrichtingen die op grond van artikel 27, eerste lid, van de EG-richtlijn handel in broeikasgasemissierechten zijn uitgesloten van het systeem van handel in broeikasgasemissierechten. Een inrichting als bedoeld in de eerste volzin beschikt over een door het bestuur van de emissieautoriteit goedgekeurd monitoringsplan. Indien bij of krachtens de in de eerste volzin genoemde artikelen regels worden gesteld, kan daarbij worden bepaald dat voor de in artikel 27, eerste lid, onder b, van genoemde richtlijn bedoelde categorie inrichtingen vereenvoudigde eisen gelden met betrekking tot het bepalen en registreren van de jaarvracht, het indienen van een emissieverslag alsmede de inhoud en verificatie van dat verslag.   
+2.  Het eerste lid geldt met ingang van 1 januari van het eerste kalenderjaar van de betrokken handelsperiode.   
+3.  Indien een inrichting op grond van artikel 27, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten weer is opgenomen in het systeem van handel in broeikasgasemissierechten omdat de door die inrichting veroorzaakte emissies de in artikel 27, eerste lid, van die richtlijn opgenomen hoeveelheid overschrijden, is het eerste lid niet langer van toepassing en is deze afdeling, met uitzondering van artikel 16.37, op die inrichting van toepassing met ingang van 1 januari van het kalenderjaar volgend op het kalenderjaar waarin de inrichting niet meer voldoet aan de voorwaarden voor uitsluiting. Artikel 16.37 is van toepassing met ingang van 1 januari van het tweede kalenderjaar volgend op het kalenderjaar waarin de inrichting niet meer aan bedoelde voorwaarden voldoet.   
+4.  Indien een inrichting op grond van artikel 27, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten weer is opgenomen in het systeem van handel in broeikasgasemissierechten omdat de maatregelen die een gelijkwaardige bijdrage leveren tot emissiereductie, niet langer van toepassing zijn, is het eerste lid niet langer van toepassing en is deze afdeling, met uitzondering van artikel 16.37, op die inrichting van toepassing met ingang van de dag volgend op de dag waarop bedoelde maatregelen zijn vervallen. Artikel 16.37 is van toepassing met ingang van 1 januari van het kalenderjaar volgend op het kalenderjaar waarin bedoelde maatregelen zijn vervallen.   
 
 ### Artikel  16.3  
 
@@ -4368,6 +4368,11 @@ Onder inrichtingen als bedoeld in artikel 16.2, eerste lid, worden mede begrepen
 ### Artikel  16.4  
 
 Een wijziging van de EG-richtlijn handel in broeikasgasemissierechten of van een bijlage bij die richtlijn gaat voor de toepassing van deze titel gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij een besluit van Onze Minister, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.  
+
+### Artikel  16.4a  
+
+1.  Het bestuur van de emissieautoriteit draagt er zorg voor dat alle besluiten en verslagen die verband houden met de hoeveelheid emissierechten en de toewijzing daarvan en met de bewaking, rapportage en verificatie van emissies onverwijld op passende wijze openbaar worden gemaakt.   
+2.  [Artikel 10 van de Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) is van overeenkomstige toepassing.   
 
 ### Paragraaf  16.2.1.2  
 
@@ -4390,7 +4395,7 @@ b. het brandstofverbruik en het grondstofgebruik worden bepaald,
 c. gegevens die op het bepaalde onder a en b betrekking hebben, worden geregistreerd en bewaard, en  
 
 d. aan het bestuur van de emissieautoriteit verslag wordt gedaan van de jaarvracht en de gegevens betreffende het brandstofverbruik en het grondstofgebruik.     
-3.  Onze Minister kan nadere regels stellen ter uitvoering van het bepaalde krachtens het eerste of tweede lid. Deze regels voldoen in elk geval aan de beschikking die de Commissie van de Europese Gemeenschappen heeft vastgesteld op grond van artikel 14, eerste lid, van de EG-richtlijn handel in broeikasgasemissierechten.   
+3.  Onze Minister kan nadere regels stellen ter uitvoering van het bepaalde krachtens het eerste of tweede lid.   
 4.  Voor het bepalen van de jaarvracht van een inrichting worden uitsluitend de emissies in aanmerking genomen, die worden veroorzaakt door activiteiten die in een broeikasgasinstallatie worden verricht en die krachtens artikel 16.1, tweede lid, zijn aangewezen.   
 
 ### Artikel  16.7  
@@ -4408,7 +4413,7 @@ Het bestuur van de emissieautoriteit draagt er bij de beslissing op de aanvraag 
 
 ### Artikel  16.10  
 
-1.  De vergunning wordt geweigerd indien het monitoringsplan niet voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld dan wel indien door verlening anderszins strijd zou ontstaan met regels die met betrekking tot de inrichting gelden, gesteld bij of krachtens dit hoofdstuk, of indien het bestuur van de emissieautoriteit van oordeel is dat onvoldoende is gewaarborgd dat de aanvrager in staat is het monitoringsplan naar behoren uit te voeren.   
+1.  De vergunning wordt geweigerd indien het monitoringsplan niet voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk of bij de in artikel 14 dan wel, voor zover van toepassing, artikel 24, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten bedoelde verordening zijn gesteld dan wel indien door verlening anderszins strijd zou ontstaan met regels die met betrekking tot de inrichting gelden, gesteld bij of krachtens dit hoofdstuk, of indien het bestuur van de emissieautoriteit van oordeel is dat onvoldoende is gewaarborgd dat de aanvrager in staat is het monitoringsplan naar behoren uit te voeren.   
 2.  In een geval als bedoeld in artikel 16.5, tweede lid, wordt de vergunning gedeeltelijk geweigerd voorzover het de emissies van broeikasgassen, onderscheidenlijk de emissies van stikstofoxiden, betreft, indien een vergunning krachtens artikel 16.5, eerste lid, onderscheidenlijk artikel 16.49, eerste lid, zou zijn geweigerd in geval uitsluitend het vereiste van een vergunning krachtens artikel 16.5, eerste lid, onderscheidenlijk artikel 16.49, eerste lid, zou gelden.   
 
 ### Artikel  16.11  
@@ -4474,9 +4479,9 @@ e. een aanzienlijke vermindering van de capaciteit van een broeikasgasinstallati
 
 ### Artikel  16.14  
 
-1.  Bij de verificatie wordt nagegaan of het emissieverslag voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld. Indien het emissieverslag niet aan deze eisen voldoet, geeft de verificateur geen verklaring af als bedoeld in artikel 16.12, eerste lid.   
-2.  De verificateur mag niet betrokken zijn geweest bij het opstellen, beoordelen of uitvoeren van het monitoringsplan voor de betrokken inrichting.   
-3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld, inhoudende eisen waaraan een verificateur en een verificatie moeten voldoen. Deze regels voldoen in elk geval aan de eisen die terzake zijn opgenomen in bijlage V bij de EG-richtlijn handel in broeikasgasemissierechten, aan de richtsnoeren die op grond van artikel 14, eerste lid, van die richtlijn zijn gesteld en aan de eisen die op grond van artikel 15 van die richtlijn zijn gesteld.   
+1.  Bij de verificatie wordt nagegaan of het emissieverslag voldoet aan de eisen die daaraan bij de in artikel 15 van de EG-richtlijn handel in broeikasgasemissierechten bedoelde verordening en bij of krachtens dit hoofdstuk zijn gesteld. Indien het emissieverslag niet aan deze eisen voldoet, geeft de verificateur geen verklaring af als bedoeld in artikel 16.12, eerste lid.   
+2.  De verificateur mag in een periode van vijf jaar voorafgaand aan de verificatie niet betrokken zijn geweest bij het opstellen, beoordelen of uitvoeren van het monitoringsplan voor de betrokken inrichting.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld, inhoudende eisen waaraan een verificateur en een verificatie moeten voldoen. Deze regels voldoen in elk geval aan de eisen die terzake zijn opgenomen in bijlage V bij de EG-richtlijn handel in broeikasgasemissierechten.   
 
 ### Artikel  16.15  
 
@@ -4695,43 +4700,64 @@ Bij intrekking of wijziging op grond van artikel 16.34b of artikel 16.34c kan wo
 
 Op de voorbereiding van een krachtens artikel 16.34b of 16.34c genomen besluit, voor zover een dergelijk besluit strekt tot wijziging van het nationale toewijzingsbesluit, zijn artikel 16.30, vierde lid, van deze wet en [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.  
 
+### Subparagraaf  16.2.1.3.3  
+
+####Het verlenen van broeikasgasemissierechten
+
 ### Artikel  16.35  
 
-1.  Broeikasgasemissierechten worden overeenkomstig artikel 46 van de EG-verordening register handel in broeikasgasemissierechten verleend aan degene die de inrichting drijft. Verlening van broeikasgasemissierechten vindt slechts plaats, indien voor de betrokken inrichting een vergunning als bedoeld in artikel 16.5, eerste lid, is verleend.   
-2.  Voorzover het betrokken nationale toewijzingsbesluit daarin voorziet, verleent het bestuur van de emissieautoriteit voor een inrichting als bedoeld in artikel 16.25, tweede lid, onder a, het aantal broeikasgasemissierechten dat aan die inrichting is toegewezen in het besluit, bedoeld in artikel 16.32, tweede lid. Het eerste lid, tweede volzin, is van overeenkomstige toepassing. De verlening vindt plaats overeenkomstig artikel 48 van de EG-verordening register handel in broeikasgasemissierechten.   
+1.  Broeikasgasemissierechten worden overeenkomstig artikel 40 van de EU-verordening register handel in broeikasgasemissierechten verleend aan degene die de inrichting drijft. Verlening van broeikasgasemissierechten vindt slechts plaats, indien voor de betrokken inrichting een vergunning als bedoeld in artikel 16.5, eerste lid, is verleend.   
+2.  Het bestuur van de emissieautoriteit verleent voor een inrichting als bedoeld in artikel 16.32, eerste lid, het aantal broeikasgasemissierechten dat overeenkomstig dat lid aan die inrichting is toegewezen. Het eerste lid, tweede volzin, is van overeenkomstige toepassing. De verlening vindt plaats overeenkomstig artikel 48 van de EG-verordening register handel in broeikasgasemissierechten.   
 
-### Paragraaf  16.2.1.4  
+### Artikel  16.35a  
 
-####De geldigheid van broeikasgasemissierechten, het inleveren van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties, het annuleren van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
+1.  Op verzoek van degene die een inrichting drijft, verleent het bestuur van de emissieautoriteit broeikasgasemissierechten die geldig zijn met ingang van 1 januari 2013 ter vervanging van emissiereductie-eenheden of gecertificeerde emissiereducties die zijn verleend ten behoeve van: 
 
-### Artikel  16.36  
+a. voor 1 januari 2013 gerealiseerde emissiereducties uit projectactiviteiten in het kader van het mechanisme van gemeenschappelijke uitvoering, bedoeld in artikel 6 van het Protocol van Kyoto, onderscheidenlijk het mechanisme voor schone ontwikkeling, bedoeld in artikel 12 van genoemd protocol;  
 
-1.  Een broeikasgasemissierecht dat overeenkomstig de EG-verordening register handel in broeikasgasemissierechten is verleend, is geldig ten behoeve van de planperiode waarin of waarvoor het is verleend.   
-2.  Een broeikasgasemissierecht is geldig met ingang van het tijdstip waarop het overeenkomstig de EG-verordening register handel in broeikasgasemissierechten is verleend.   
-
-### Artikel  16.37  
-
-1.  Onverminderd artikel 67, tweede lid, van de EG-verordening register handel in broeikasgasemissierechten, levert degene die een inrichting drijft, met betrekking tot ieder kalenderjaar voor 1 mei van het daarop volgende kalenderjaar ten minste een aantal broeikasgasemissierechten, niet zijnde broeikasgasemissierechten die zijn verleend krachtens afdeling 16.2.2, in, dat overeenkomt met de hoeveelheid van de emissie, die de inrichting in het eerstbedoelde kalenderjaar heeft veroorzaakt.   
-2.  Ter bepaling van de hoeveelheid van de emissie, bedoeld in het eerste lid, worden de gegevens in acht genomen, die overeenkomstig de EG-verordening register handel in broeikasgasemissierechten in het register voor handel in broeikasgasemissierechten zijn opgenomen.   
-
-### Artikel  16.37a  
-
-1.  Ter voldoening aan artikel 16.37, eerste lid, kan degene die een inrichting drijft, in plaats van broeikasgasemissierechten emissiereductie-eenheden of gecertificeerde emissiereducties inleveren.   
-2.  Voor de toepassing van artikel 16.37, eerste lid, en van het eerste lid van dit artikel wordt één emissiereductie-eenheid of gecertificeerde emissiereductie gelijkgesteld met één broeikasgasemissierecht.   
-
-### Artikel  16.37b  
-
-1.  Artikel 16.37a, eerste lid, is van toepassing zolang het aantal emissiereductie-eenheden of gecertificeerde emissiereducties het gedeelte van het aantal toegewezen broeikasgasemissierechten dat overeenkomstig artikel 16.25, eerste lid, onder e, met betrekking tot de desbetreffende inrichting in het voor de betrokken planperiode geldende nationale toewijzingsplan is aangeduid, niet overschrijdt.   
-2.  Artikel 16.37a, eerste lid, is niet van toepassing met betrekking tot emissiereductie-eenheden en gecertificeerde emissiereducties die afkomstig zijn van projectactiviteiten voor: 
+b. op of na 1 januari 2013 gerealiseerde emissiereducties uit projectactiviteiten als bedoeld onder a die voor die datum zijn geregistreerd.     
+2.  Op verzoek van degene die een inrichting drijft, verleent het bestuur van de emissieautoriteit broeikasgasemissierechten die geldig zijn met ingang van 1 januari 2013 ter vervanging van gecertificeerde emissiereducties die zijn verleend voor emissiereducties uit projectactiviteiten in het kader van het mechanisme voor schone ontwikkeling, bedoeld in artikel 12 van het Protocol van Kyoto, die op of na 1 januari 2013 zijn geregistreerd in een land dat ten tijde van die registratie was opgenomen op de vanwege de Verenigde Naties uitgegeven lijst van minst ontwikkelde landen.   
+3.  Het eerste en tweede lid zijn niet van toepassing op projectactiviteiten voor: 
 
 a. het opwekken van elektriciteit door het vrijmaken van kernenergie;  
 
 b. landgebruik, verandering in het landgebruik en bosbouwactiviteiten.     
-3.  Het tweede lid, aanhef en onder a, geldt met betrekking tot de in artikel 11bis, derde lid, onder a, van de EG-richtlijn handel in broeikasgasemissierechten bedoelde planperiodes.   
+4.  Het eerste en tweede lid zijn van toepassing zolang het aantal emissiereductie-eenheden en gecertificeerde emissiereducties het percentage ten hoogste toegestaan gebruik dat voor de betrokken categorie inrichtingen is gespecificeerd in de overeenkomstig artikel 11bis, achtste lid, van de EG-richtlijn handel in broeikasgasemissierechten vastgestelde maatregelen, niet overschrijdt.   
+5.  Het eerste lid, aanhef en onder a, is van toepassing tot 31 maart 2015.   
+6.  Het tweede lid is van toepassing totdat het betrokken minst ontwikkelde land een op de betrokken emissiereducties betrekking hebbend verdrag met de Europese Unie heeft bekrachtigd, doch, indien voor 1 januari 2020 geen bekrachtiging heeft plaatsgevonden, uiterlijk tot 1 januari 2020.   
+7.  Zodra een internationale overeenkomst over klimaatverandering tot stand is gekomen, is dit artikel uitsluitend van toepassing indien de betrokken derde staat die overeenkomst heeft bekrachtigd.   
+8.  Bij de toepassing van dit artikel neemt het bestuur van de emissieautoriteit de uitvoeringsmaatregelen die de Europese Commissie op grond van artikel 11bis, negende lid, van de EG-richtlijn handel in broeikasgasemissierechten heeft vastgesteld, in acht.   
+
+### Artikel  16.35b  
+
+1.  Op verzoek van degene die een inrichting drijft, verleent het bestuur van de emissieautoriteit broeikasgasemissierechten die geldig zijn met ingang van 1 januari 2013 ter vervanging van kredieten uit projecten of andere emissiereducerende activiteiten in derde staten als bedoeld in artikel 11bis, vijfde lid, van de EG-richtlijn handel in broeikasgasemissierechten.   
+2.  Artikel 16.35a, vierde, zevende en achtste lid, is van overeenkomstige toepassing.   
+
+### Artikel  16.35c  
+
+1.  Het bestuur van de emissieautoriteit kan broeikasgasemissierechten die, gelet op de wijziging van het daaraan ten grondslag liggende toewijzingsbesluit, onverschuldigd zijn verleend, terugvorderen van degene die de betrokken inrichting drijft. Indien degene die de inrichting drijft, onvoldoende broeikasgasemissierechten bezit, kan een met de waarde van die rechten corresponderend bedrag worden teruggevorderd.   
+2.  Het bestuur van de emissieautoriteit kan de terug te vorderen broeikasgasemissierechten dan wel het met de waarde van die rechten corresponderende bedrag bij dwangbevel invorderen.   
+3.  Het bestuur van de emissieautoriteit kan broeikasgasemissierechten die, gelet op de wijziging van het daaraan ten grondslag liggende toewijzingsbesluit, onverschuldigd zijn verleend, verrekenen met de hoeveelheid voor degene die de inrichting drijft, te verlenen broeikasgasemissierechten voor de daarop volgende handelsperiode.   
+4.  Terugvordering vindt niet plaats voor zover na de dag waarop het besluit houdende kosteloze toewijzing van broeikasgasemissierechten is bekendgemaakt, acht jaren zijn verstreken.   
+5.  Bij het bepalen van de waarde van een broeikasgasemissierecht, bedoeld in het eerste lid, tweede volzin, wordt uitgegaan van de gemiddelde marktprijs van een dergelijk recht op het moment van terugvordering. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de wijze waarop de gemiddelde marktprijs van een broeikasgasemissierecht wordt bepaald.   
+
+### Paragraaf  16.2.1.4  
+
+####De geldigheid van broeikasgasemissierechten, het inleveren van broeikasgasemissierechten, het annuleren van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
+
+### Artikel  16.36  
+
+1.  Een broeikasgasemissierecht dat op of na 1 januari 2013 overeenkomstig de EU-verordening register handel in broeikasgasemissierechten is verleend, is geldig ten behoeve van de handelsperiode waarvoor het is verleend.   
+2.  Een broeikasgasemissierecht is geldig met ingang van het tijdstip waarop het overeenkomstig de EU-verordening register handel in broeikasgasemissierechten is verleend.   
+
+### Artikel  16.37  
+
+1.  Onverminderd artikel 27, achtste lid, van de EU-verordening register handel in broeikasgasemissierechten, levert degene die een inrichting drijft, met betrekking tot ieder kalenderjaar voor 1 mei van het daarop volgende kalenderjaar ten minste een aantal broeikasgasemissierechten, niet zijnde broeikasgasemissierechten die zijn verleend krachtens afdeling 16.2.2, in, dat overeenkomt met de hoeveelheid van de emissie, die de inrichting in het eerstbedoelde kalenderjaar heeft veroorzaakt.   
+2.  Ter bepaling van de hoeveelheid van de emissie, bedoeld in het eerste lid, worden de gegevens in acht genomen, die overeenkomstig de EU-verordening register handel in broeikasgasemissierechten in het register voor handel in broeikasgasemissierechten zijn opgenomen.   
 
 ### Artikel  16.39  
 
-Indien degene die een inrichting drijft, ter voldoening aan artikel 16.37, eerste lid, met betrekking tot een kalenderjaar minder broeikasgasemissierechten, emissiereductie-eenheden of gecertificeerde emissiereducties heeft ingeleverd dan overeenkomt met de hoeveelheid van de emissie, die de inrichting gedurende dat kalenderjaar heeft veroorzaakt, wordt het aantal broeikasgasemissierechten dat hij in het daarop volgende kalenderjaar ter uitvoering van dat artikel dient in te leveren, van rechtswege verhoogd met het aantal broeikasgasemissierechten, emissiereductie-eenheden of gecertificeerde emissiereducties dat hij te weinig had ingeleverd.  
+Indien degene die een inrichting drijft, ter voldoening aan artikel 16.37, eerste lid, met betrekking tot een kalenderjaar minder broeikasgasemissierechten heeft ingeleverd dan overeenkomt met de hoeveelheid van de emissie, die de inrichting gedurende dat kalenderjaar heeft veroorzaakt, wordt het aantal broeikasgasemissierechten dat hij in het daarop volgende kalenderjaar ter uitvoering van dat artikel dient in te leveren, van rechtswege verhoogd met het aantal broeikasgasemissierechten dat hij te weinig had ingeleverd.  
 
 ### Afdeling  16.2.2  
 
@@ -4788,9 +4814,9 @@ Een vliegtuigexploitant bepaalt en registreert de jaarvracht overeenkomstig het 
 
 ### Artikel  16.39g  
 
-1.  Bij de verificatie wordt nagegaan of het emissieverslag voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld. Indien het emissieverslag niet aan deze eisen voldoet, geeft de verificateur geen verklaring af als bedoeld in artikel 16.39f, tweede lid.   
-2.  De verificateur mag niet betrokken zijn geweest bij het opstellen, beoordelen of uitvoeren van het monitoringsplan of het plan, bedoeld in artikel 16.39j, derde lid, onder a, voor de betrokken vliegtuigexploitant.   
-3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld, inhoudende eisen waaraan een verificateur en een verificatie moeten voldoen. Deze regels voldoen in elk geval aan de eisen die terzake zijn opgenomen in bijlage V bij de EG-richtlijn handel in broeikasgasemissierechten, aan de richtsnoeren die op grond van artikel 14, eerste lid, van die richtlijn zijn gesteld en aan de eisen die op grond van artikel 15 van die richtlijn zijn gesteld.   
+1.  Bij de verificatie wordt nagegaan of het emissieverslag voldoet aan de eisen die daaraan bij de in artikel 15 van de EG-richtlijn handel in broeikasgasemissierechten bedoelde verordening en bij of krachtens dit hoofdstuk zijn gesteld. Indien het emissieverslag niet aan deze eisen voldoet, geeft de verificateur geen verklaring af als bedoeld in artikel 16.39f, tweede lid.   
+2.  De verificateur mag in een periode van vijf jaar voorafgaand aan de verificatie niet betrokken zijn geweest bij het opstellen, beoordelen of uitvoeren van het monitoringsplan of het plan, bedoeld in artikel 16.39j, derde lid, onder a, voor de betrokken vliegtuigexploitant.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld, inhoudende eisen waaraan een verificateur en een verificatie moeten voldoen. Deze regels voldoen in elk geval aan de eisen die terzake zijn opgenomen in bijlage V bij de EG-richtlijn handel in broeikasgasemissierechten.   
 
 ### Artikel  16.39h  
 
@@ -4816,7 +4842,6 @@ e. het melden van veranderingen en afwijkingen van een monitoringsplan;
 
 f. het emissieverslag.     
 2.  Indien regels worden gesteld krachtens het eerste lid, aanhef en onder e, kan daarbij worden bepaald dat een verandering of afwijking van het monitoringsplan de goedkeuring behoeft van het bestuur van de emissieautoriteit.   
-3.  Krachtens het eerste lid gestelde regels voldoen in elk geval aan de richtsnoeren die de Commissie van de Europese Gemeenschappen op grond van artikel 14, eerste lid, van de EG-richtlijn handel in broeikasgasemissierechten heeft vastgesteld.   
 
 ### Paragraaf  16.2.2.3  
 
@@ -4864,7 +4889,6 @@ f. het melden van veranderingen en afwijkingen van een plan als bedoeld in het d
 
 g. de wijze waarop een aanvraag om toewijzing van emissierechten dient te worden gedaan en de gegevens die door de aanvrager dienen te worden verstrekt.     
 8.  Artikel 16.39i, tweede lid, is van overeenkomstige toepassing.   
-9.  Krachtens het zevende lid gestelde regels voldoen in elk geval aan de richtsnoeren die de Commissie van de Europese Gemeenschappen op grond van artikel 14, eerste lid, van de EG-richtlijn handel in broeikasgasemissierechten heeft vastgesteld.   
 
 ### Artikel  16.39k  
 
@@ -4947,22 +4971,12 @@ De artikelen 16.35a en 16.35b zijn van overeenkomstige toepassing.
 
 ### Paragraaf  16.2.2.4  
 
-####De geldigheid van broeikasgasemissierechten, het inleveren van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties, het annuleren van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
+####De geldigheid van broeikasgasemissierechten, het inleveren van broeikasgasemissierechten, het annuleren van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
 
 ### Artikel  16.39t  
 
 1.  Een vliegtuigexploitant levert met betrekking tot ieder kalenderjaar voor 1 mei van het daarop volgende kalenderjaar ten minste een aantal broeikasgasemissierechten in, dat overeenkomt met de hoeveelheid van de emissie gedurende het eerstbedoelde kalenderjaar van in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten opgenomen luchtvaartactiviteiten waarvoor die vliegtuigexploitant verantwoordelijk is en die op of na 1 januari 2012 hebben plaatsgevonden.   
 2.  Artikel 16.37, tweede lid, is van overeenkomstige toepassing.   
-
-### Artikel  16.39u  
-
-1.  Ter voldoening aan artikel 16.39t, eerste lid, kan een vliegtuigexploitant in plaats van broeikasgasemissierechten emissiereductie-eenheden of gecertificeerde emissiereducties inleveren. Artikel 16.37a, tweede lid, is van overeenkomstige toepassing.   
-2.  Het eerste lid is van toepassing zolang het aantal emissiereductie-eenheden of gecertificeerde emissiereducties het volgende percentage niet overschrijdt: 
-
-a. voor wat betreft de periode, bedoeld in artikel 16.39j, eerste lid, onder a: 15% van het aantal broeikasgasemissierechten dat de vliegtuigexploitant ingevolge artikel 16.39t, eerste lid, dient in te leveren;  
-
-b. voor wat betreft latere periodes: het door de Commissie van de Europese Gemeenschappen voorafgaand aan de betrokken periode overeenkomstig artikel 11bis, lid 1bis, tweede en derde alinea, van de EG-richtlijn handel in broeikasgasemissierechten vastgestelde percentage.     
-3.  Artikel 16.37b, tweede lid, aanhef en onder b, is van overeenkomstige toepassing.   
 
 ### Artikel  16.39v  
 
@@ -4970,7 +4984,7 @@ De artikelen 16.36 en 16.38 zijn van overeenkomstige toepassing.
 
 ### Artikel  16.39w  
 
-Indien een vliegtuigexploitant ter voldoening aan artikel 16.39t, eerste lid, minder broeikasgasemissierechten, emissiereductie-eenheden of gecertificeerde emissiereducties heeft ingeleverd dan overeenkomt met de hoeveelheid van de emissie, die hij gedurende het betrokken kalenderjaar heeft veroorzaakt, wordt het aantal broeikasgasemissierechten dat hij in het daarop volgende kalenderjaar ter uitvoering van dat artikellid dient in te leveren, van rechtswege verhoogd met het aantal broeikasgasemissierechten, emissiereductie-eenheden of gecertificeerde emissiereducties dat hij te weinig had ingeleverd.  
+Indien een vliegtuigexploitant ter voldoening aan artikel 16.39t, eerste lid, minder broeikasgasemissierechten heeft ingeleverd dan overeenkomt met de hoeveelheid van de emissie, die hij gedurende het betrokken kalenderjaar heeft veroorzaakt, wordt het aantal broeikasgasemissierechten dat hij in het daarop volgende kalenderjaar ter uitvoering van dat artikellid dient in te leveren, van rechtswege verhoogd met het aantal broeikasgasemissierechten dat hij te weinig had ingeleverd.  
 
 ### Afdeling  16.2.3  
 
@@ -5051,11 +5065,13 @@ Voor de toepassing van deze afdeling en de daarop berustende bepalingen wordt ve
 
 a. de deelname door de projectdeelnemer aan de projectactiviteit voldoet aan de eisen die in het Protocol van Kyoto en de overeenkomstig dat protocol genomen besluiten aan die deelname zijn gesteld;  
 
-b. voorzover het gaat om projectactiviteiten voor het opwekken van elektriciteit door waterkracht met een opwekkingsvermogen van meer dan 20 MW: bij de projectactiviteit en de uitvoering daarvan de in artikel 11ter, zesde lid, van de EG-richtlijn handel in broeikasgasemissierechten bedoelde richtlijnen van de Wereldcommissie Stuwdammen in acht worden genomen.     
+b. de projectdeelnemer zijn hoofdvestiging heeft in een staat die de internationale overeenkomst, bedoeld in artikel 11ter, eerste lid, van de EG-richtlijn handel in broeikasgasemissierechten, heeft bekrachtigd, of in een staat of een subfederale of regionale entiteit die overeenkomstig artikel 25 van genoemde richtlijn aan het systeem van handel in broeikasgasemissierechten is gekoppeld;  
+
+c. voorzover het gaat om projectactiviteiten voor het opwekken van elektriciteit door waterkracht met een opwekkingsvermogen van meer dan 20 MW: bij de projectactiviteit en de uitvoering daarvan de in artikel 11ter, zesde lid, van de EG-richtlijn handel in broeikasgasemissierechten bedoelde richtlijnen van de Wereldcommissie Stuwdammen in acht worden genomen.     
 4.  Bij regeling van Onze Minister kunnen met betrekking tot het derde lid nadere regels worden gesteld.   
 5.  De instemming kan worden geweigerd indien: 
 
-a. niet is voldaan aan de eisen, bedoeld in het derde lid, onder a, of, voorzover van toepassing, onder b;  
+a. niet is voldaan aan de eisen, bedoeld in het derde lid, onder a of b, of, voor zover van toepassing, onder c;  
 
 b. is gebleken dat bij de uitvoering van een andere projectactiviteit waarbij de projectdeelnemer is of was betrokken en waarvoor Onze Minister reeds instemming heeft verleend, niet is voldaan aan de eisen die in het derde lid met betrekking tot die uitvoering zijn gesteld.     
 6.  Een verleende instemming omvat mede de machtiging van de betrokken projectdeelnemer, voorzover een dergelijke machtiging op grond van artikel 12, negende lid, van het Protocol van Kyoto en de overeenkomstig dat protocol genomen besluiten is vereist. Indien de eerste volzin van toepassing is, wordt in de beslissing op het verzoek aangegeven dat de instemming mede de machtiging omvat.   
@@ -5665,7 +5681,7 @@ Indien de gedraging tevens een strafbaar feit is en de ernst van de overtreding 
 
 1.  Een bestuurlijke boete als bedoeld in artikel 18.16a, eerste lid, bedraagt ten hoogste € 450 000 per overtreding of, indien de omzet van de betrokken onderneming in het boekjaar voorafgaand aan het jaar waarin de beschikking tot oplegging van de bestuurlijke boete is gegeven, meer dan € 4 500 000 bedraagt, ten hoogste 10% van die omzet.   
 2.  In geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste lid, bedraagt een bestuurlijke boete als bedoeld in artikel 18.16a, tweede lid, het in artikel 16, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten genoemde bedrag per ton emissie van een kooldioxide-equivalent, die meer is veroorzaakt dan overeenkomt met het aantal broeikasgasemissierechten, emissiereductie-eenheden of gecertificeerde emissiereducties dat overeenkomstig artikel 16.37, eerste lid, onderscheidenlijk artikel 16.39t, eerste lid, is ingeleverd. [Artikel 5:46, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
-3.  In afwijking van het tweede lid bedraagt de bestuurlijke boete, bedoeld in dat lid, met betrekking tot de periode van 1 januari 2005 tot en met 31 december 2007 het in artikel 16, vierde lid, van de EG-richtlijn handel in broeikasgasemissierechten genoemde bedrag per ton kooldioxide-equivalent.   
+3.  In afwijking van het tweede lid bedraagt de bestuurlijke boete, bedoeld in dat lid, met betrekking tot het kalenderjaar 2013 en daarop volgende kalenderjaren per ton emissie van een kooldioxide-equivalent het in artikel 16, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten genoemde bedrag, jaarlijks verhoogd overeenkomstig de Europese consumentenprijsindex.   
 4.  Artikel 16.4 is van overeenkomstige toepassing.   
 5.  De berekening van de omzet, bedoeld in het eerste lid, geschiedt op de voet van het bepaalde in [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) voor de netto-omzet.   
 
@@ -5811,7 +5827,7 @@ Indien bij de voorbereiding van een besluit dat is aangewezen krachtens artikel 
 
 1.  Tegen een besluit op grond van deze wet - met uitzondering van een besluit als bedoeld in artikel 1.3, eerste lid, 8.40a of 8.42, een besluit met betrekking tot de handhaving van het bepaalde krachtens artikel 8.40 of een besluit ten aanzien waarvan op grond van deze wet een andere beroepsgang is opengesteld - of een van de in het derde lid bedoelde wetten of wettelijke bepalingen kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State. De eerste volzin is van overeenkomstige toepassing op besluiten met betrekking tot de handhaving van bepalingen op basis waarvan besluiten kunnen worden genomen waarop beroep kan worden ingesteld bij de Afdeling.   
 2.  De Afdeling beslist op een beroep als bedoeld in het eerste lid, binnen twaalf maanden na afloop van de beroepstermijn. In afwijking van de eerste volzin beslist de Afdeling op een beroep tegen een nationaal toewijzingsbesluit als bedoeld in artikel 16.24, eerste lid, of een gewijzigd nationaal toewijzingsbesluit als bedoeld in artikel 16.31, eerste lid, binnen veertig weken na afloop van de termijn voor het indienen van een beroepschrift tegen eerstbedoeld besluit.   
-3.  De in het eerste lid bedoelde wetten of wettelijke bepalingen zijn: de [artikelen 34](../../../../wet/mijnbouwwet/BWBR0014168/README.md) en [40 van de Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md), [hoofdstuk VIIa van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md), de [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md), de [Wet inzake de luchtverontreiniging](../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md), de [Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md), de [Wet bescherming Antarctica](../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md), de [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), voor zover besluiten krachtens die wet met toepassing van [artikel 6.27, tweede lid, van die wet](../../../../wet/waterwet/BWBR0025458/README.md) gecoördineerd zijn voorbereid met besluiten krachtens de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md), de EG-verordening overbrenging van afvalstoffen en de [artikelen 125 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md), [122 van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md), [61 van de Waterschapswet](../../../../wet/waterschapswet/BWBR0005108/README.md) en [5:32 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover het besluiten betreft die betrekking hebben op de handhaving van het bepaalde bij of krachtens andere wetten dan de [Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) waarop [hoofdstuk 5 van de laatstgenoemde wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing is.   
+3.  De in het eerste lid bedoelde wetten of wettelijke bepalingen zijn: de [artikelen 34](../../../../wet/mijnbouwwet/BWBR0014168/README.md) en [40 van de Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md), de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md), de [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md), de [Wet inzake de luchtverontreiniging](../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md), de [Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md), de [Wet bescherming Antarctica](../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md), de [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), voor zover besluiten krachtens die wet met toepassing van [artikel 6.27, tweede lid, van die wet](../../../../wet/waterwet/BWBR0025458/README.md) gecoördineerd zijn voorbereid met besluiten krachtens de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md), de EG-verordening overbrenging van afvalstoffen en de [artikelen 125 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md), [122 van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md), [61 van de Waterschapswet](../../../../wet/waterschapswet/BWBR0005108/README.md) en [5:32 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover het besluiten betreft die betrekking hebben op de handhaving van het bepaalde bij of krachtens andere wetten dan de [Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) waarop [hoofdstuk 5 van de laatstgenoemde wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing is.   
 4.  Het beroep tegen een gewijzigd nationaal toewijzingsbesluit als bedoeld in artikel 16.31, eerste lid, kan uitsluitend worden ingesteld door een belanghebbende die rechtstreeks in zijn belang is getroffen door de wijzigingen die ten opzichte van het oorspronkelijke nationale toewijzingsbesluit zijn aangebracht. [Artikel 6:13 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
 5.  In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vangt de termijn voor het instellen van beroep tegen een nationaal toewijzingsbesluit als bedoeld in artikel 16.24, eerste lid, aan met ingang van de dag na die waarop in de Staatscourant een mededeling is gedaan als bedoeld in artikel 16.30a, eerste lid, dan wel met ingang van de dag na die waarop het gewijzigde nationale toewijzingsbesluit overeenkomstig artikel 16.30a, derde lid, tweede volzin, in verbinding met artikel 16.30, vierde lid, in de Staatscourant is bekendgemaakt. In afwijking van artikel 6:8 van de Algemene wet bestuursrecht vangt de termijn voor het instellen van beroep tegen een besluit houdende kosteloze toewijzing van broeikasgasemissierechten op grond van artikel 16.32, eerste lid, aan met ingang van de dag na die waarop aan de aanvrager een mededeling is gedaan als bedoeld in artikel 16.32, vierde lid, dan wel met ingang van de dag na die waarop het overeenkomstig artikel 16.32, vijfde lid, gewijzigde toewijzingsbesluit is bekendgemaakt. In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de termijn voor het instellen van beroep tegen een gewijzigd nationaal toewijzingsbesluit als bedoeld in artikel 16.31, eerste lid, vier weken.   
 6.  In afwijking van [artikel 6:19, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt het beroep tegen het nationale toewijzingsbesluit als bedoeld in artikel 16.24, eerste lid, geacht mede gericht te zijn tegen het gewijzigde nationale toewijzingsbesluit als bedoeld in artikel 16.31, eerste lid.   
@@ -5946,14 +5962,14 @@ Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering 
 ### Artikel  22.1  
 
 1.  De hoofdstukken 8 en 17 en titel 12.3 van deze wet zijn niet van toepassing op inrichtingen waarvoor een vergunning is vereist krachtens [artikel 15, onder b, van de Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md), behoudens voor zover uit de bepalingen van die wet anders blijkt. Die hoofdstukken en die titel zijn evenmin van toepassing op inrichtingen, voor zover daarvoor bij of krachtens andere dan in de eerste volzin genoemde bepalingen van die wet vergunning is vereist of algemene voorschriften gelden, behoudens voor zover uit de bij of krachtens die wet gestelde bepalingen anders blijkt.   
-2.  Hoofdstuk 8 van deze wet is niet van toepassing op inrichtingen, voor zover daarvoor een vergunning of erkenning is vereist of algemene voorschriften gelden krachtens [hoofdstuk VIIa van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) of de [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), behoudens voor zover uit de bepalingen van die wetten anders blijkt.   
+2.  Hoofdstuk 8 van deze wet is niet van toepassing op inrichtingen, voor zover daarvoor een vergunning of erkenning is vereist of algemene voorschriften gelden krachtens [artikel 3.1 van de Wet dieren](../../../../wet/wet/dieren/BWBR0030250/README.md) of de [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), behoudens voor zover uit de bepalingen van die wetten anders blijkt.   
 3.  Hoofdstuk 8 van deze wet is niet van toepassing op inrichtingen waarin van buiten de inrichting afkomstige dierlijke meststoffen in de zin van de [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md) worden bewaard, bewerkt, verwerkt of vernietigd, voor zover het een doelmatig beheer van die stoffen betreft.   
-4.  De titels 9.2, 9.3 en 9.3a zijn niet van toepassing op gedragingen, voorzover daaromtrent regels zijn gesteld bij of krachtens de [Geneesmiddelenwet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), de [Wet gewasbeschermingsmiddelen en biociden](../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) of de [Diergeneesmiddelenwet](../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md).   
+4.  De titels 9.2, 9.3 en 9.3a zijn niet van toepassing op gedragingen, voorzover daaromtrent regels zijn gesteld bij of krachtens de [Geneesmiddelenwet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), de [Wet gewasbeschermingsmiddelen en biociden](../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) of de [hoofdstuk 2, paragraaf 3, van de Wet dieren](../../../../wet/wet/dieren/BWBR0030250/README.md).   
 5.  Titel 9.2 laat het met betrekking tot stoffen of preparaten bij of krachtens de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md) bepaalde onverlet.   
 6.  Titel 9.2 is niet van toepassing op het vervoeren, het ten vervoer aanbieden en het ten vervoer aannemen, het laden en het lossen en het nederleggen tijdens het vervoer van stoffen, preparaten of micro-organismen, alsmede op het laten staan en het laten liggen van een vervoermiddel waarin of waarop zich zodanige stoffen, preparaten of micro-organismen of resten daarvan bevinden, voorzover daaromtrent regels zijn gesteld bij of krachtens de [Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), dan wel op de handelingen, genoemd in [artikel 2, eerste lid, van de Wet vervoer gevaarlijke stoffen](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) ten aanzien van stoffen, preparaten of micro-organismen, voorzover daaromtrent regels zijn gesteld bij of krachtens [die wet](../../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md). In afwijking van de eerste volzin is titel 9.2 van toepassing met betrekking tot de verpakking van micro-organismen, zijnde genetisch gemodificeerde organismen, indien die organismen zich bij de handelingen, bedoeld in de eerste volzin, niet bevinden in een verpakking die voldoet aan de regels die terzake zijn gesteld bij of krachtens de [Wet vervoer gevaarlijke stoffen](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) of de [Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md).   
 7.  Krachtens titel 9.2 worden geen regels gesteld met betrekking tot het zich ontdoen van stoffen en preparaten door het brengen daarvan in oppervlaktewateren, voor zover in het stellen van zodanige regels is voorzien krachtens [artikel 6.6](../../../../wet/waterwet/BWBR0025458/README.md) juncto [artikel 6.2](../../../../wet/waterwet/BWBR0025458/README.md) of [6.3 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md).   
 8.  Titel 9.5 is niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens de [Wet vervoer gevaarlijke stoffen](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md).   
-9.  Artikel 9.5.2 en hoofdstuk 10 zijn niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens: de [Wet gewasbeschermingsmiddelen en biociden](../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), de [Wet voorkoming verontreiniging door schepen](../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md), de [Diergeneesmiddelenwet](../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md), de [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md), de [Scheepvaartverkeerswet](../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), [hoofdstuk VIIa van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md), de [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), behoudens voor zover uit de bepalingen van die wetten of van deze wet anders blijkt.   
+9.  Artikel 9.5.2 en hoofdstuk 10 zijn niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens: de [Wet gewasbeschermingsmiddelen en biociden](../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), de [Wet voorkoming verontreiniging door schepen](../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md), de hoofdstuk 3, paragraaf 3, van de Wet dieren, de [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md), de [Scheepvaartverkeerswet](../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), de [artikelen 3.1](../../../../wet/wet/dieren/BWBR0030250/README.md), [3.3](../../../../wet/wet/dieren/BWBR0030250/README.md), [3.4](../../../../wet/wet/dieren/BWBR0030250/README.md), [3.5](../../../../wet/wet/dieren/BWBR0030250/README.md) en [3.6 van de Wet dieren](../../../../wet/wet/dieren/BWBR0030250/README.md), de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md), de [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), behoudens voor zover uit de bepalingen van die wetten of van deze wet anders blijkt.   
 10.  Artikel 9.5.2 en hoofdstuk 10, met uitzondering van titel 10.7, zijn niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens de [Kaderwet diervoeders](../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md).   
 
 ### Artikel  22.1a  

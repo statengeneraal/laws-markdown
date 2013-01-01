@@ -34,7 +34,7 @@ g. vrijheidsstraf of vrijheidsbenemende maatregel: een bij onherroepelijk geword
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder gewezen zelfstandige: de persoon die voor de voorziening in het bestaan was aangewezen op arbeid in het eigen bedrijf of beroep en die: 
 
-1°. de leeftijd van 65 jaar nog niet heeft bereikt en  
+1°. de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt en  
 
 2°. na het bereiken van de leeftijd van 55 jaar het bedrijf of beroep heeft beëindigd.     
 2.  In deze wet en de daarop berustende bepalingen wordt met de gewezen zelfstandige gelijkgesteld de partner in de zin van [artikel 3.78 van de Wet inkomstenbelasting 2001](../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) die voldoet aan het bepaalde in het eerste lid.   
@@ -118,19 +118,19 @@ c. de alleenstaande gewezen zelfstandige zonder kinderen.
 
 1°. de gewezen zelfstandige heeft gedurende drie jaar, onmiddellijk voorafgaand aan de aanvraag, onafgebroken rechtmatig een bedrijf of beroep in Nederland uitgeoefend en gedurende de zeven jaar daarvoor eveneens rechtmatig een bedrijf of beroep in Nederland uitgeoefend dan wel arbeid in dienstbetrekking verricht;  
 
-2°. het inkomen uit arbeid of overig inkomen van de gewezen zelfstandige bedroeg de laatste drie boekjaren gemiddeld minder dan ƒ 36 800 per 1 januari 2012: € 20.866,00 per jaar;  
+2°. het inkomen uit arbeid of overig inkomen van de gewezen zelfstandige bedroeg de laatste drie boekjaren gemiddeld minder dan ƒ 36 800 per 1 juli 2012: € 21.144,00 per jaar;  
 
-3°. het inkomen uit arbeid of overig inkomen van de gewezen zelfstandige zou bij voortzetting van het bedrijf of beroep naar verwachting duurzaam minder dan ƒ 36 800 per 1 januari 2012: € 21.248,00 per jaar bedragen; en  
+3°. het inkomen uit arbeid of overig inkomen van de gewezen zelfstandige zou bij voortzetting van het bedrijf of beroep naar verwachting duurzaam minder dan ƒ 36 800 per 1 januari 2013: € 22.952,00 per jaar bedragen; en  
 
 4°. de aanvraag is ingediend voor het beëindigen van het bedrijf of beroep en de beëindiging heeft plaatsgevonden binnen een periode van anderhalf jaar, volgend op het tijdstip van aanvraag.     
 3.  Het recht op uitkering komt de gewezen zelfstandige en de echtgenoot gezamenlijk toe. De uitkering wordt aan de gewezen zelfstandige en de echtgenoot ieder voor de helft uitbetaald, dan wel op hun gezamenlijk verzoek aan een van hen voor het geheel.   
 4.  De grondslag bedoeld in het eerste lid, wordt door Onze Minister zodanig vastgesteld dat voor: 
 
-a. de gewezen zelfstandige en de echtgenoot de helft van de grondslag netto gelijk is aan € 668,21;  
+a. de gewezen zelfstandige en de echtgenoot de helft van de grondslag netto gelijk is aan € 660,98;  
 
-b. de alleenstaande gewezen zelfstandige met een of meer kinderen de grondslag netto gelijk is aan € 1.202,78;  
+b. de alleenstaande gewezen zelfstandige met een of meer kinderen de grondslag netto gelijk is aan € 1.189,76;  
 
-c. voor de alleenstaande gewezen zelfstandige zonder kinderen netto gelijk is aan € 935,49.     
+c. voor de alleenstaande gewezen zelfstandige zonder kinderen netto gelijk is aan € 925,37.     
 5.  Onze Minister herziet de bedragen, genoemd in het tweede lid, 2° en 3°, met ingang van een door hem te bepalen dag zodanig, dat deze netto gelijk zijn aan het netto minimumloon.   
 6.  De in het vierde lid genoemde bedragen worden gewijzigd met ingang van de dag waarop het netto minimumloon wijzigt met het percentage van deze wijziging.   
 
@@ -173,14 +173,14 @@ Indien het recht op uitkering als gevolg van werkaanvaarding van de gewezen zelf
 a. voor de gewezen zelfstandige en de echtgenoot: de som van het inkomen uit arbeid of overig inkomen van hemzelf en zijn echtgenoot;  
 
 b. voor de alleenstaande gewezen zelfstandige: zijn inkomen uit arbeid of overig inkomen.     
-2.  Als inkomen wordt voorts aangemerkt het inkomen uit het vermogen waarover de gewezen zelfstandige en zijn echtgenoot na de beëindiging van het bedrijf of beroep beschikken, met dien verstande dat daarbij een vermogen van ƒ 202 000 per 1 januari 2012: € 124.902,00 buiten beschouwing blijft. Het inkomen uit vermogen wordt bepaald op 5% Bij Stcrt. 1996/247 is dit percentage m.i.v. 1 januari 1997 vastgesteld op 4%. per jaar van het vermogen.   
-3.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 291,04 per 1 januari 2012: € 295,06 per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
+2.  Als inkomen wordt voorts aangemerkt het inkomen uit het vermogen waarover de gewezen zelfstandige en zijn echtgenoot na de beëindiging van het bedrijf of beroep beschikken, met dien verstande dat daarbij een vermogen van ƒ 202 000 per 1 januari 2013: € 127.400,00 buiten beschouwing blijft. Het inkomen uit vermogen wordt bepaald op 5% Bij Stcrt. 1996/247 is dit percentage m.i.v. 1 januari 1997 vastgesteld op 4%. per jaar van het vermogen.   
+3.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 291,04 per 1 januari 2013: € 299,54 per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
 4.  Bij algemene maatregel van bestuur wordt bepaald wat wordt verstaan onder inkomen uit arbeid of overig inkomen als bedoeld in het eerste lid en in artikel 5, tweede lid. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.   
 5.  Onze Minister herziet het bedrag, genoemd in het tweede lid, met ingang van een door hem te bepalen dag, voor zover de consumentenprijsindex daartoe aanleiding geeft.   
 6.  Onze Minister herziet het percentage, bedoeld in het tweede lid, zodra de rente-ontwikkeling daartoe aanleiding geeft.   
 7.  Onze Minister stelt regels met betrekking tot de waardering van het vermogen, bedoeld in het tweede lid.   
 8.  Onze Minister herziet het bedrag, genoemd in het derde lid, met ingang van een door hem te bepalen dag, voor zover de ontwikkeling van het in [artikel 31, tweede lid, onderdeel n, van de Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) genoemde bedrag daartoe aanleiding geeft.   
-9.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een alleenstaande ouder tot 12,5 procent van dit inkomen, met een maximum van € 187,28 per 1 januari 2012: € 201,03 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij een uitkering ontvangt, ingeval: 
+9.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een alleenstaande ouder tot 12,5 procent van dit inkomen, met een maximum van € 187,28 per 1 januari 2013: € 196,34 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij een uitkering ontvangt, ingeval: 
 
 a. hij de volledige zorg heeft voor zijn kind tot 12 jaar,  
 
@@ -198,12 +198,6 @@ c. dit volgens het college bijdraagt aan zijn arbeidsinschakeling.
 1.  De uitkering bedraagt het verschil tussen de van toepassing zijnde grondslag en het inkomen.   
 2.  In de in het eerste lid bedoelde uitkering is begrepen een vakantieuitkering ter hoogte van 8/108 van die uitkering.   
 3.  Indien het percentage van de vakantiebijslag, bedoeld in [artikel 15, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](../../../../../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) wordt gewijzigd, wordt de in het tweede lid genoemde verhouding dienovereenkomstig aangepast.   
-
-### Artikel  10  
-
-1.  Op de uitkering wordt een bedrag ingehouden dat gelijk is aan het bedrag van de premie dat een werkgever op grond van [hoofdstuk 3 van de Wet financiering sociale verzekeringen](../../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) op het overeenkomstige loon van een werknemer, die verzekerd is op grond van die wet, inhoudt.   
-2.  Indien ingevolge [hoofdstuk 3 van de Wet financiering sociale verzekeringen](../../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) een premie wordt ingehouden waarvan het percentage per bedrijfstak verschilt, wordt met inachtneming van bij algemene maatregel van bestuur te stellen regels bij ministeriële regeling voor de toepassing van het eerste lid een gemiddeld percentage vastgesteld.   
-3.  Onze Minister kan nadere en zo nodig afwijkende regels stellen met betrekking tot de berekening van de op grond van het eerste lid op de aldaar bedoelde uitkeringen in te houden bedragen.   
 
 ### §  3  
 
@@ -230,8 +224,20 @@ Het recht op uitkering bestaat jegens het college van de gemeente waar de belang
 ### Artikel  14  
 
 1.  Onverminderd [artikel 30c, tweede, vierde en vijfde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), bepaalt het college welke gegevens ten behoeve van de verlening van de uitkering dan wel de voortzetting daarvan door de belanghebbende in ieder geval worden verstrekt en welke bewijsstukken worden overgelegd, alsmede de wijze en het tijdstip waarop de verstrekking van gegevens plaatsvindt. De gegevens en bewijsstukken worden door het college niet verkregen van de belanghebbende voor zover zij verkregen kunnen worden uit de polisadministratie, bedoeld in [artikel 33 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), de verzekerdenadministratie, bedoeld in [artikel 35 van die wet](../../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), alsmede uit de gemeentelijke basisadministratie persoonsgegevens, tenzij hierdoor een goede vervulling van de taak van het college op grond van dit artikel wordt belet of bij wettelijk voorschrift anders is bepaald. Bij of krachtens algemene maatregel van bestuur kunnen andere administraties worden aangewezen waarvoor de tweede zin van toepassing is, worden regels gesteld over de gegevens die het betreft en kunnen administraties worden aangewezen waarvoor de tweede zin tijdelijk niet van toepassing is. Indien het authentieke gegevens uit andere basisregistraties betreft, is dit lid van overeenkomstige toepassing.   
-2.  Het college is bevoegd onderzoek in te stellen naar de juistheid en volledigheid van de verstrekte gegevens en zonodig naar andere gegevens die noodzakelijk zijn voor de vaststelling van het recht op uitkering. Indien het onderzoek daartoe aanleiding geeft kan het college besluiten tot herziening van de uitkering.   
-3.  De voordracht voor een krachtens het eerste lid, derde zin, vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan twee weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd   
+2.  In aanvulling op het eerste lid kan het college de belanghebbende verzoeken aan te tonen dat: 
+
+a. hij een gewezen zelfstandige is als bedoeld in artikel 5, vierde lid, onderdeel b of c;  
+
+b. de feitelijke woonsituatie van hemzelf, van zijn echtgenoot of van een kind in overeenstemming is met het door hem verstrekte adres van hemzelf, zijn echtgenoot of van een kind.   Teneinde hem daartoe in de gelegenheid te stellen kan het college bij die verzoeken de belanghebbende aanbieden met diens toestemming zijn woning binnen te treden.   
+3.  Indien de belanghebbende niet desgevraagd aantoont dat hij een gewezen zelfstandige is als bedoeld in artikel 5, vierde lid, onderdeel b of c: 
+
+a. kent het college de uitkering toe respectievelijk herziet het de uitkering naar de helft van de grondslag, bedoeld in artikel 5, vierde lid, onderdeel a;  
+
+b. wordt de belanghebbende voor de toepassing van de artikelen 37a, tweede lid, en 38 niet als alleenstaande ouder aangemerkt.     
+4.  Indien de belanghebbende niet desgevraagd de woonsituatie, bedoeld in het tweede lid, onderdeel b, aantoont op de wijze bedoeld in de laatste zin van dat lid, schort het college de betaling van de uitkering op, niet dan nadat het college aan belanghebbende gelegenheid heeft gegeven op andere wijze aan te tonen dat het feitelijke woonadres overeenkomt met het verstrekte adres, indien daartoe niet eerder aan belanghebbende gelegenheid is geboden.   
+5.  Het college doet schriftelijke mededeling van de opschorting aan de belanghebbende en stelt hem daarbij in de gelegenheid om aan te tonen dat het feitelijke woonadres overeenstemt met het verstrekte adres. Artikel 17a, vierde lid, tweede zin, is van overeenkomstige toepassing.   
+6.  Het college is bevoegd onderzoek in te stellen naar de juistheid en volledigheid van de verstrekte gegevens en zonodig naar andere gegevens die noodzakelijk zijn voor de vaststelling van het recht op uitkering. Indien het onderzoek daartoe aanleiding geeft kan het college besluiten tot herziening van de uitkering.   
+7.  De voordracht voor een krachtens het eerste lid, derde zin, vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan twee weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd   
 
 ### Artikel  15  
 
@@ -260,18 +266,18 @@ b. indien anderszins de uitkering ten onrechte of tot een te hoog bedrag is verl
 
 ### Artikel  17a  
 
-1.  Indien bij de beoordeling van het recht op uitkering blijkt, dat het door een belanghebbende verstrekte adres van hemzelf, van zijn echtgenoot of van een kind afwijkt van het adres waaronder de betrokkene in de gemeentelijke basisadministratie persoonsgegevens staat ingeschreven, schort het college het recht op uitkering op.   
+1.  Indien bij de beoordeling van het recht op uitkering blijkt, dat het door een belanghebbende verstrekte adres van hemzelf, van zijn echtgenoot of van een kind afwijkt van het adres waaronder de betrokkene in de gemeentelijke basisadministratie persoonsgegevens staat ingeschreven, schort het college de betaling van de uitkering op.   
 2.  Geen opschorting vindt plaats: 
 
 a. indien de afwijking redelijkerwijs geen gevolgen kan hebben voor het recht op of de hoogte van de uitkering;  
 
 b. indien de belanghebbende van de afwijking redelijkerwijs geen verwijt kan worden gemaakt.     
 3.  Het college doet schriftelijk mededeling van de opschorting aan de belanghebbende, en stelt hem daarbij in de gelegenheid de in de gemeentelijke basisadministratie persoonsgegevens opgenomen adresgegevens te doen aanpassen binnen een door het college te stellen termijn.   
-4.  De opschorting wordt beëindigd zodra het aan het college gebleken is dat de afwijking niet meer bestaat. Indien de afwijking ook na de krachtens het derde lid gestelde termijn nog bestaat, herziet het college het besluit tot toekenning van de uitkering, of trekt het dit in, met ingang van de eerste dag waarover het recht op uitkering is opgeschort.   
+4.  De opschorting wordt beëindigd zodra het aan het college gebleken is dat de afwijking niet meer bestaat. Indien de afwijking ook na de krachtens het derde lid gestelde termijn nog bestaat, herziet het college het besluit tot toekenning van de uitkering, of trekt het dit in, met ingang van de eerste dag waarop de betaling van de uitkering is opgeschort.   
 
 ### Artikel  20  
 
-1.  Het college verlaagt de uitkering overeenkomstig de verordening, bedoeld in artikel 35, eerste lid, onderdeel b, ter zake van het niet of onvoldoende nakomen door de belanghebbende van een verplichting als bedoeld in artikel 13, of een op grond van hoofdstuk III aan de uitkering verbonden verplichting, anders dan de verplichting, bedoeld in artikel 37, eerste lid, onderdelen a en c, waaronder begrepen het zich jegens het college zeer ernstig misdragen, in de periode voorafgaand aan de aanvraag om een uitkering of ter zake van het nadien onvoldoende inzetten voor de voorziening in het bestaan.   
+1.  Het college verlaagt de uitkering overeenkomstig de verordening, bedoeld in artikel 35, eerste lid, onderdeel b, ter zake van het niet of onvoldoende nakomen door de belanghebbende van een verplichting als bedoeld in artikel 13, tweede en vierde lid, of een op grond van hoofdstuk III aan de uitkering verbonden verplichting, anders dan de verplichting, bedoeld in artikel 37, eerste lid, onderdelen a en c, waaronder begrepen het zich jegens het college zeer ernstig misdragen, in de periode voorafgaand aan de aanvraag om een uitkering of ter zake van het nadien onvoldoende inzetten voor de voorziening in het bestaan.   
 2.  Het college kan de uitkering blijvend of tijdelijk weigeren tot de mate waarin de belanghebbende die arbeid in dienstbetrekking heeft aanvaard uit of in verband met deze arbeid inkomen als bedoeld in of op grond van artikel 8 zou hebben kunnen verwerven, indien: 
 
 a. aan de beëindiging van zijn dienstbetrekking een dringende reden ten grondslag ligt in de zin van [artikel 678 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en de belanghebbende ter zake een verwijt kan worden gemaakt;  
@@ -284,9 +290,23 @@ d. de belanghebbende door eigen toedoen geen algemeen geaccepteerde arbeid verkr
 3.  Van een verlaging als bedoeld in het eerste lid en een weigering als bedoeld in het tweede lid wordt afgezien, indien elke vorm van verwijtbaarheid ontbreekt.   
 4.  Het niet voeren van verweer door de belanghebbende tegen of het instemmen van de belanghebbende met een beëindiging van de dienstbetrekking door of op het verzoek van de werkgever leidt niet tot het opleggen van een maatregel op grond van het tweede lid.   
 
-### §  3a  
+### Artikel  20a  
 
-####Bestuurlijke boeten
+1.  Het college legt een bestuurlijke boete op van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door de belanghebbende van de verplichting, bedoeld in artikel 13, eerste lid. De bestuurlijke boete is niet lager dan de boete die op grond van het derde lid zou worden opgelegd indien er geen sprake was van een benadelingsbedrag.   
+2.  In dit artikel wordt onder benadelingsbedrag verstaan het brutobedrag dat als gevolg van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 13, eerste lid, ten onrechte of tot een te hoog bedrag aan uitkering is ontvangen.   
+3.  Indien het niet of niet behoorlijk nakomen door de belanghebbende van een verplichting als bedoeld in artikel 13, eerste lid, niet heeft geleid tot een benadelingsbedrag, legt het college een bestuurlijke boete op van ten hoogste het bedrag van de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+4.  Het college kan afzien van het opleggen van een bestuurlijke boete als bedoeld in het derde lid en volstaan met het geven van een schriftelijke waarschuwing wegens het niet of niet behoorlijk nakomen door de belanghebbende van een verplichting als bedoeld in artikel 13, eerste lid, tenzij het niet of niet behoorlijk nakomen van de verplichtingen plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de belanghebbende een zodanige waarschuwing is gegeven.   
+5.  Het college legt een bestuurlijke boete op wegens het niet of niet behoorlijk nakomen door de belanghebbende van de verplichting, bedoeld in artikel 13, eerste lid, als gevolg waarvan ten onrechte of tot een te hoog bedrag aan uitkering is ontvangen, van ten hoogste 150 procent van het benadelingsbedrag indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van het begaan van de overtreding een eerdere bestuurlijke boete of strafrechtelijke sanctie is opgelegd wegens een eerdere overtreding, bestaande uit eenzelfde gedraging, die onherroepelijk is geworden.   
+6.  In afwijking van het vijfde lid is het in dat lid genoemde tijdvak van vijf jaar tien jaar indien wegens de eerdere overtreding, bedoeld in het vijfde lid, de belanghebbende is gestraft met een onvoorwaardelijke gevangenisstraf.   
+7.  Het college kan: 
+
+a. de bestuurlijke boete verlagen indien sprake is van verminderde verwijtbaarheid;  
+
+b. afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende redenen aanwezig zijn.     
+8.  Degene aan wie een bestuurlijke boete is opgelegd, is verplicht desgevraagd aan het college de inlichtingen te verstrekken die voor de tenuitvoerlegging van de bestuurlijke boete van belang zijn.   
+9.  Bij algemene maatregel van bestuur worden nadere regels gesteld over de hoogte van de bestuurlijke boete.   
+10.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van tenuitvoerlegging van de beschikking waarbij de bestuurlijke boete is opgelegd.   
+11.  In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechter in beroep of hoger beroep het bedrag waarop de bestuurlijke boete is vastgesteld ook ten nadele van de belanghebbende wijzigen.   
 
 ### §  4  
 
@@ -299,7 +319,7 @@ d. de belanghebbende door eigen toedoen geen algemeen geaccepteerde arbeid verkr
 
 ### Artikel  22  
 
-De uitkering wordt betaald tot de dag waarop de gewezen zelfstandige de leeftijd van 65 jaar bereikt.  
+De uitkering wordt betaald tot de dag waarop de gewezen zelfstandige de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), bereikt.  
 
 ### Artikel  23  
 
@@ -322,10 +342,21 @@ b. bij ontstentenis van de onder *a* bedoelde persoon, het kind of de kinderen i
 
 ### Artikel  25  
 
-1.  De uitkering die als gevolg van een besluit als bedoeld in artikel 17, derde of vierde lid, of artikel 20 ten onrechte of tot een te hoog bedrag is verleend, alsmede hetgeen anderszins onverschuldigd is betaald, kan van de belanghebbende worden teruggevorderd.   
-2.  De uitkering kan van de belanghebbende worden teruggevorderd indien blijkt dat deze over dezelfde periode waarover een uitkering op grond van deze wet is verleend, later inkomsten ontvangt waarmede bij de vaststelling van de uitkering rekening zou zijn gehouden.   
-3.  Het college is bevoegd tot verrekening van in de voorgaande drie maanden ontvangen middelen met de uitkering.   
-4.  Bij gebreke van tijdige betaling kan de vordering worden verhoogd met de op de terugvordering betrekking hebbende kosten. Loonbelasting en premies volksverzekeringen waarvoor het college dat de uitkering verstrekt krachtens de [Wet op de loonbelasting 1964](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) inhoudingsplichtige is, alsmede de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), kunnen worden teruggevorderd, voor zover deze belasting, premies en vergoeding niet verrekend kunnen worden met de door het college af te dragen loonbelasting, premies volksverzekeringen en vergoeding.   
+1.  Het college van de gemeente die de uitkering heeft verleend, vordert de uitkering terug voor zover de uitkering ten onrechte of tot een te hoog bedrag is ontvangen als gevolg van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 13, eerste lid.   
+2.  De uitkering die als gevolg van een besluit als bedoeld in artikel 17, derde of vierde lid, of artikel 20, anders dan in het eerste lid, ten onrechte of tot een te hoog bedrag is verleend, alsmede hetgeen anderszins onverschuldigd is betaald, kan van de belanghebbende worden teruggevorderd.   
+3.  De uitkering kan van de belanghebbende worden teruggevorderd indien blijkt dat deze over dezelfde periode waarover een uitkering op grond van deze wet is verleend, later inkomsten ontvangt waarmede bij de vaststelling van de uitkering rekening zou zijn gehouden.   
+4.  Het college is bevoegd tot verrekening van in de voorgaande drie maanden ontvangen middelen met de uitkering.   
+5.  Bij gebreke van tijdige betaling kan de vordering worden verhoogd met de op de terugvordering betrekking hebbende kosten. Loonbelasting en de premie voor de volksverzekeringen waarvoor het college dat de uitkering verstrekt krachtens de [Wet op de loonbelasting 1964](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), onderscheidenlijk de [Wet financiering sociale verzekeringen](../../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) inhoudingsplichtige is, kunnen worden teruggevorderd, voor zover deze belasting en premie niet verrekend kunnen worden met de door het college af te dragen loonbelasting en premie volksverzekeringen.   
+6.  In afwijking van het eerste lid kan het college besluiten van terugvordering of van verdere terugvordering als bedoeld in het eerste lid af te zien, indien de persoon van wie de uitkering wordt teruggevorderd: 
+
+a. gedurende tien jaar volledig aan zijn betalingsverplichtingen heeft voldaan;  
+
+b. gedurende tien jaar niet volledig aan zijn betalingsverplichtingen heeft voldaan, maar het achterstallige bedrag over die periode, vermeerderd met de daarover verschuldigde wettelijke rente en de op de invordering betrekking hebbende kosten, alsnog heeft betaald;  
+
+c. gedurende tien jaar geen betalingen heeft verricht en niet aannemelijk is dat hij deze op enig moment zal gaan verrichten; of  
+
+d. een bedrag, overeenkomend met ten minste 50% van de restsom, in één keer aflost.     
+7.  Indien daarvoor dringende redenen aanwezig zijn kan het college besluiten geheel of gedeeltelijk van terugvordering als bedoeld in het eerste lid af te zien.   
 
 ### Artikel  26  
 
@@ -339,15 +370,29 @@ De persoon van wie wordt teruggevorderd is verplicht desgevraagd aan het college
 
 ### Artikel  28  
 
-1.  Het college kan de onverschuldigd betaalde uitkering, bedoeld in artikel 25, eerste en tweede lid, invorderen bij dwangbevel.   
-2.  Indien degene van wie de uitkering wordt teruggevorderd algemene bijstand op grond van de [Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of het [Besluit bijstandverlening zelfstandigen 2004](../../../../../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md) ontvangt, is het college bevoegd tot verrekening van die uitkering met die algemene bijstand of uitkering.   
-3.  Indien degene van wie de uitkering wordt teruggevorderd een uitkering of algemene bijstand ontvangt van een andere gemeente dan de gemeente waarvan het college de uitkering terugvordert, dan wel een uitkering of inkomensvoorziening ontvangt op grond van de [Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md), de [Wet arbeid en zorg](../../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), de [Toeslagenwet](../../../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md), de [Algemene Ouderdomswet](../../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) of de [Algemene nabestaandenwet](../../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), betaalt dat college, het Uitvoeringsinstituut werknemersverzekeringen, onderscheidenlijk de Sociale verzekeringsbank het bedrag van de terugvordering, zonder dat daarvoor een machtiging nodig is van de belanghebbende, op verzoek aan het college, dat besluit tot terugvordering.   
-4.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het college. Indien het college gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan degene van wie uitkering wordt teruggevorderd.   
-5.  Zolang de belanghebbende de verplichting, bedoeld in artikel 27, niet of niet behoorlijk nakomt: 
+1.  Het college kan de onverschuldigd betaalde uitkering, bedoeld in artikel 25, eerste, tweede en derde lid, invorderen bij dwangbevel.   
+2.  Indien degene van wie de uitkering op grond van artikel 25, eerste lid, wordt teruggevorderd dan wel verplicht is tot betaling van een bestuurlijke boete als bedoeld in artikel 20a algemene bijstand op grond van de [Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of het [Besluit bijstandverlening zelfstandigen 2004](../../../../../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md) ontvangt, verrekent het college die uitkering en bestuurlijke boete met die algemene bijstand of uitkering.   
+3.  Indien degene van wie de uitkering op grond van artikel 25, tweede of derde lid, wordt teruggevorderd algemene bijstand op grond van de [Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of het [Besluit bijstandverlening zelfstandigen 2004](../../../../../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md) ontvangt, is het college bevoegd tot verrekening van die uitkering met die algemene bijstand of uitkering.   
+4.  Indien degene van wie de uitkering wordt teruggevorderd dan wel verplicht is tot betaling van een bestuurlijke boete als bedoeld in artikel 20a een uitkering of algemene bijstand ontvangt van een andere gemeente dan de gemeente waarvan het college de uitkering terugvordert of de bestuurlijke boete heeft opgelegd, dan wel een uitkering of inkomensvoorziening ontvangt op grond van de [Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md), de [Wet arbeid en zorg](../../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), de [Toeslagenwet](../../../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md), de [Algemene Ouderdomswet](../../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) of de [Algemene nabestaandenwet](../../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), betaalt dat college, het Uitvoeringsinstituut werknemersverzekeringen, onderscheidenlijk de Sociale verzekeringsbank het bedrag van de terugvordering of de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is van de belanghebbende, op verzoek aan het college, dat besluit tot terugvordering of de bestuurlijke boete heeft opgelegd.   
+5.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het college. Indien het college gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan degene van wie uitkering wordt teruggevorderd.   
+6.  Zolang de belanghebbende de verplichtingen, bedoeld in de artikelen 20a, achtste lid, en 27, niet of niet behoorlijk nakomt: 
 
 a. is het college, in afwijking van [artikel 4:93, vierde lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), bevoegd tot verrekening voor zover beslag op de vordering van de schuldeiser nietig zou zijn;  
 
 b. geldt de beslagvrije voet, bedoeld in de artikelen [475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), in afwijking van [artikel 4:116 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), niet bij invordering van de onverschuldigd betaalde uitkering bij dwangbevel.     
+
+### Artikel  29  
+
+1.  Bij de verrekening, bedoeld in artikel 28, tweede lid, wordt de bestuurlijke boete, bedoeld in artikel 20a, vijfde lid, door het college, in afwijking van [artikel 4:93, vierde lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), verrekend gedurende een tijdvak van ten hoogste vijf jaar vanaf het moment van de dagtekening waarop de bestuurlijke boete is opgelegd.   
+2.  Het college kan op verzoek van de belanghebbende besluiten het eerste lid niet of niet meer toe te passen indien, gelet op bijzondere omstandigheden, dringende redenen daartoe noodzaken.   
+3.  Het eerste lid is van overeenkomstige toepassing bij de betaling, bedoeld in artikel 28, vierde lid, van de bestuurlijke boete, bedoeld in artikel 20a, vijfde lid, door een andere gemeente dan de gemeente waarvan het college de bestuurlijke boete heeft opgelegd met dien verstande dat het college van die andere gemeente de bevoegdheid heeft op verzoek van de belanghebbende bij de verrekening de beslagvrije voet in acht te nemen indien, gelet op bijzondere omstandigheden, dringende redenen daartoe noodzaken.   
+4.  Artikel 28, tweede lid, en het eerste tot en met derde lid zijn van overeenkomstige toepassing op de verrekening van de bestuurlijke boete, bedoeld in artikel 20a, eerste lid, indien en voor zover op het moment van verrekening, bedoeld in het eerste lid, de bestuurlijke boete door de overtreder niet is betaald.   
+5.  De voorgaande leden laten de verrekening van de bestuurlijke boete op grond van de artikelen 28, tweede en vierde lid, na het tijdvak, bedoeld in het eerste lid, onverlet.   
+6.  Indien als gevolg van de verrekening, bedoeld in het eerste en vierde lid, algemene bijstand op grond van de [Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
+
+### Artikel  29a  
+
+Door het college wordt geen medewerking verleend aan een schuldregeling indien een vordering is ontstaan door het niet of niet behoorlijke nakomen door de belanghebbende van de verplichting, bedoeld in artikel 13, eerste lid, en hiervoor een bestuurlijke boete is opgelegd, dan wel met betrekking tot het niet of niet behoorlijk nakomen van die verplichtingen aangifte is gedaan op grond van het [Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).  
 
 ### Artikel  30  
 
@@ -356,7 +401,7 @@ b. geldt de beslagvrije voet, bedoeld in de artikelen [475c tot en met 475e van 
 
 ### Artikel  31  
 
-Onder uitkering in de zin van deze paragraaf wordt verstaan de uitkering, bedoeld in artikel 9, verminderd met de inhouding op grond van artikel 10 en vermeerderd met de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).  
+Onder uitkering in de zin van deze paragraaf wordt verstaan de uitkering, bedoeld in artikel 9.  
 
 ### Hoofdstuk  III  
 
@@ -447,7 +492,7 @@ Gereserveerd.
 
 ### Hoofdstuk  IV  
 
-####Uitvoering en toezicht
+####Uitvoering, gegevensverstrekking en informatievoorziening
 
 ### §  1  
 
@@ -571,22 +616,14 @@ i. Onze Minister van Veiligheid en Justitie in verband met de tenuitvoerlegging 
 
 ### §  3  
 
-####Toezicht
+####Aanwijzingsbevoegdheid en gemeentelijke toezichthouders
 
 ### Artikel  52  
 
-1.  Onze Minister houdt toezicht op: 
-
-a. de rechtmatigheid van de uitvoering van deze wet door het college;  
-
-b. de doeltreffendheid van deze wet.     
-2.  Het toezicht, bedoeld in het eerste lid, wordt onder gezag van Onze Minister uitgeoefend door de Inspectie Werk en Inkomen, genoemd in [hoofdstuk 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), onder leiding van het hoofd van die inspectie. De [artikelen 37](../../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [38](../../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [42](../../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) en [44 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) zijn van overeenkomstige toepassing.   
+1.  Onze Minister kan, indien hij met betrekking tot de rechtmatige uitvoering van deze wet ernstige tekortkomingen vaststelt, aan het college, nadat het college gedurende acht weken in de gelegenheid is gesteld zijn zienswijze naar voren te brengen, een aanwijzing geven. Hij treedt daarbij niet in de besluitvorming inzake individuele gevallen.   
+2.  In de aanwijzing wordt een termijn opgenomen waarbinnen het college de uitvoering in overeenstemming heeft gebracht met de aanwijzing.   
 
 ### Artikel  53  
-
-Onze Minister kan, indien hij met betrekking tot de rechtmatige uitvoering van deze wet ernstige tekortkomingen constateert, aan het college, nadat het college gedurende acht weken in de gelegenheid is gesteld zijn zienswijze naar voren te brengen, een aanwijzing geven. Onze Minister treedt daarbij niet in de besluitvorming inzake individuele gevallen. In een aanwijzing wordt een termijn opgenomen waarbinnen het college de uitvoering in overeenstemming heeft gebracht met deze aanwijzing.  
-
-### Artikel  53a  
 
 Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van het college aangewezen ambtenaren.  
 
@@ -601,9 +638,9 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn 
 
 ### Artikel  55  
 
-1.  Het college en de gemeenteraad verstrekken desgevraagd aan Onze Minister de inlichtingen die hij voor het toezicht, de statistiek, de informatievoorziening en de beleidsvorming met betrekking tot deze wet nodig heeft.   
-2.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze waarop het college en de gemeenteraad de in het eerste lid bedoelde inlichtingen verzamelen en verstrekken, waarbij kan worden bepaald dat categorieën van gemeenten bepaalde inlichtingen niet hoeven te verzamelen en te verstrekken.   
-3.  De inlichtingen, bedoeld in het eerste lid, en het beeld van de uitvoering, bedoeld in artikel 54, worden kosteloos verstrekt.   
+1.  Het college verstrekt desgevraagd aan Onze Minister gegevens en inlichtingen die hij voor de statistiek, informatievoorziening en beleidsvorming met betrekking tot deze wet nodig heeft.   
+2.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de soort informatie die het college verstrekt en de wijze waarop het college de gegevens en inlichtingen verzamelt en verstrekt, waarbij kan worden bepaald, dat categorieën van gemeenten bepaalde inlichtingen niet hoeven te verzamelen en te verstrekken.   
+3.  De gegevens en inlichtingen, bedoeld in het eerste lid, en het beeld van de uitvoering, bedoeld in artikel 54, worden kosteloos verstrekt.   
 
 ### Hoofdstuk  V  
 
@@ -668,11 +705,6 @@ Het recht tot strafvordering vervalt indien het college aan de belanghebbende te
 ### Artikel  63a  
 
 De artikelen 3, zevende en achtste lid, en 4, tweede lid, zijn niet van toepassing, indien voor de inwerkingtreding van deze artikelleden, op grond van artikel 5 recht bestaat op een uitkering voor de zelfstandige en de echtgenoot, omdat de ongehuwde uitkeringsgerechtigde wegens een gezamenlijke huishouding met een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind is aangemerkt als echtgenoot, voor zolang dit recht op uitkering bestaat, tenzij toepassing van de genoemde artikelleden leidt tot een hogere uitkering.  
-
-### Artikel  63b*  
-
-1.  De artikelen 5, tweede lid, en 8 en de daarop berustende bepalingen, zoals deze luidden op de dag voor inwerkingtreding van de [Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving](../../../../../../../../../../wet/wet/harmonisatie/en/vereenvoudiging/socialezekerheidswetgeving/BWBR0029334/README.md), blijven van toepassing op de persoon op wie een op deze artikelen berustende bepaling werden toegepast op de dag voor inwerkingtreding van die wet, voor zolang de toepassing duurt, doch ten hoogste gedurende twee jaar na de dag waarop die wet in werking is getreden.   
-2.  Dit artikel vervalt twee jaar na het tijdstip van inwerkingtreding.   
 
 ### Artikel  63d  
 

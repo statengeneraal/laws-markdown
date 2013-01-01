@@ -17,13 +17,11 @@ Besluit:
 
 1.  In deze regeling wordt verstaan onder: 
 
-– *AID:* Algemene Inspectiedienst van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
-
 – *contingent:* in een kalenderjaar in een vangstgebied te vangen hoeveelheid van een vissoort in kilogrammen levend gewicht uitgedrukt, vermeerderd of verminderd met eventueel op grond van de artikelen 45 of 46 voor het desbetreffende kalenderjaar in gebruik gekregen, of in gebruik gegeven hoeveelheden van de desbetreffende vissoort, die per vissersvaartuig ten hoogste mag worden aangeland;  
 
-– *deelgebied, sector of deelsector:* zeegebied als omschreven in artikel 4 van de verordening vangstmogelijkheden;  
+– *deelgebied, sector of deelsector:* zeegebied als omschreven in artikel 4 van de verordening interne vangstmogelijkheden en artikel 4 van de verordening externe vangstmogelijkheden;  
 
-– *Europees quotum:* totaal voor de gezamenlijke vissers van de lidstaten van de Europese Unie in het kalenderjaar waarop de verordening vangstmogelijkheden betrekking heeft te vangen hoeveelheden vis zoals deze per vissoort en per deelgebied, sector of deelsector voor het desbetreffende kalenderjaar, uitgedrukt in kilogrammen levend gewicht, zijn vermeld in bijlage 6;  
+– *Europees quotum:* totaal voor de gezamenlijke vissers van de lidstaten van de Europese Unie in het kalenderjaar waarop de verordeningen vangstmogelijkheden betrekking hebben te vangen hoeveelheden vis zoals deze per vissoort en per deelgebied, sector of deelsector voor het desbetreffende kalenderjaar, uitgedrukt in kilogrammen levend gewicht, zijn vermeld in bijlage 6;  
 
 – *functionaris:* door de minister voor de registratie- en verificatiewerkzaamheden in het kader van deze regeling aangewezen persoon;  
 
@@ -33,9 +31,11 @@ Besluit:
 
 – *individueel aandeel:* contingent van een vissoort dat een ondernemer heeft ingebracht in een groep, vermeerderd met door hem gekochte en in gebruik gekregen hoeveelheden van die vissoort en verminderd met door hem verkochte en in gebruik gegeven hoeveelheden van die vissoort, waarover hij als deelnemer aan een groepscontingent in een kalenderjaar kan beschikken;  
 
-– *minister:* Minister van Economische Zaken, Landbouw en Innovatie;  
+– *minister:* de Minister van Economische Zaken;  
 
-– *Nederlands quotum:* totaal voor de gezamenlijke Nederlandse vissers in het kalenderjaar waarop de verordening vangstmogelijkheden betrekking heeft te vangen hoeveelheden vis zoals deze per vissoort en per deelgebied, sector of deelsector voor het desbetreffende kalenderjaar, uitgedrukt in kilogrammen levend gewicht, zijn vermeld in bijlage 5;  
+– *Nederlands quotum:* totaal voor de gezamenlijke Nederlandse vissers in het kalenderjaar waarop de verordeningen vangstmogelijkheden betrekking hebben te vangen hoeveelheden vis zoals deze per vissoort en per deelgebied, sector of deelsector voor het desbetreffende kalenderjaar, uitgedrukt in kilogrammen levend gewicht, zijn vermeld in bijlage 5;  
+
+– *NVWA:* Nederlandse Voedsel- en Warenautoriteit;  
 
 – *producentenorganisatie:* producentenorganisatie als bedoeld in artikel 5 van Verordening (EG) nr. 104/2000 van de Raad van 17 december 1999 houdende een gemeenschappelijke ordening der markten in de sector visserijproducten en producten van de aquacultuur (PbEG L 17);  
 
@@ -102,8 +102,6 @@ Besluit:
 
 – *verordening nr. 1415/2004:* Verordening (EG) nr. 1415/2004 van de Raad van 19 juli 2004 tot vaststelling van het maximale jaarlijkse visserij-inspanningsniveau voor bepaalde visserijgebieden en visserijtakken (PbEU L 258);  
 
-– *verordening nr. 356/2005:* Verordening (EG) nr. 356/2005 van de Commissie van 1 maart 2005 houdende uitvoeringsbepalingen voor het merken en identificeren van passief vistuig en boomkorren;  
-
 – *verordening nr. 2115/2005:* Verordening (EG) nr. 2115/2005 van de Raad van 20 december 2005 tot vaststelling van een herstelplan voor zwarte heilbot in het kader van de visserijorganisatie in het noordwestelijk deel van de Atlantische Oceaan (PbEU L 340);  
 
 – *verordening nr. 2187/2005:* Verordening (EG) nr. 2187/2005 van de Raad van 21 december 2005 betreffende de instandhouding door middel van technische maatregelen van de visbestanden in de Oostzee, de Belten en de Sont, tot wijziging van Verordening (EG) nr. 1434/98 en tot intrekking van Verordening (EG) nr. 88/98 (PbEU L 349);  
@@ -148,17 +146,27 @@ Besluit:
 
 – *verordening nr. 1236/2010:* Verordening (EU) nr. 1236/2010 van het Europees Parlement en de Raad van 15 december 2010 tot vaststelling van een controle- en handhavingregeling voor het gebied dat onder het Verdrag inzake toekomstige multilaterale samenwerking op visserijgebied in het noordoostelijke deel van de Atlantische Oceaan valt en tot intrekking van Verordening (EG) nr. 2791/1999 van de Raad (PbEU L 348);  
 
-– *verordening vangstmogelijkheden:* Verordening (EU) nr. 57/2011 van de Raad van 18 januari 2011 tot vaststelling, voor 2011, van de vangstmogelijkheden voor sommige visbestanden en groepen visbestanden welke in de EU-wateren en, voor EU-vaartuigen, in andere wateren met vangstbeperkingen van toepassing zijn (PbEU L 24);  
+– *uitvoeringsverordening controleverordening:* Uitvoeringsverordening (EU) nr. 404/2011 van de Commissie van 8 april 2011 houdende bepalingen voor de uitvoering van Verordening (EG) nr. 1224/2009 van de Raad tot vaststelling van een communautaire controleregeling die de naleving van de regels van het gemeenschappelijk visserijbeleid moet garanderen (PbEU L 112);  
 
-– *uitvoeringsverordening controleverordening:* Uitvoeringsverordening (EU) nr. 404/2011 van de Commissie van 8 april 2011 houdende bepalingen voor de uitvoering van Verordening (EG) nr. 1224/2009 van de Raad tot vaststelling van een communautaire controleregeling die de naleving van de regels van het gemeenschappelijk visserijbeleid moet garanderen (PbEU L 112).     
+– *verordening nr. 1343/2011:* Verordening (EU) nr. 1343/2011 van het Europees Parlement en de Raad van 13 december 2011 tot vaststelling van een aantal bepalingen voor de visserij in het GFCM-overeenkomstgebied (General Fisheries Commission for the Mediterranean – Algemene Visserijcommissie voor de Middellandse Zee) en tot wijziging van Verordening (EG) nr. 1967/2006 van de Raad inzake beheersmaatregelen voor de duurzame exploitatie van visbestanden in de Middellandse Zee (PbEU L, 347);  
+
+– *uitvoeringsverordening nr. 433/2012:* Uitvoeringsverordening (EU) nr. 433/2012 van de Commissie van 23 mei 2012 houdende uitvoeringsbepalingen voor Verordening (EU) nr. 1236/2010 van het Europees Parlement en de Raad tot vaststelling van een controle- en handhavingsregeling voor het gebied dat onder het Verdrag inzake toekomstige multilaterale samenwerking op visserijgebied in het noordoostelijke deel van de Atlantische Oceaan valt (PbEU L, 136);  
+
+– *verordening nr. 1026/2012:* Verordening (EU) nr. 1026/2012 van het Europees Parlement en de Raad van 25 oktober 2012 betreffende bepaalde maatregelen met het oog op de instandhouding van visbestanden ten aanzien van landen die niet-duurzame visserij toelaten (PbEU L, 316);  
+
+– *Verordening interne vangstmogelijkheden:* de verordening van de Raad van 20 december 2012 tot vaststelling, voor 2013, van de vangstmogelijkheden voor sommige visbestanden en groepen visbestanden die voor EU-vissersvaartuigen beschikbaar zijn en die niet zijn onderworpen aan internationale onderhandelingen of overeenkomsten;  
+
+– *Verordening externe vangstmogelijkheden:* de verordening van de Raad van 20 december 2012 tot vaststelling, voor 2013, van de vangstmogelijkheden voor bepaalde visbestanden die in de EU-wateren en, voor EU-vaartuigen, in bepaalde wateren buiten de EU beschikbaar zijn en die zijn onderworpen aan internationale onderhandelingen of overeenkomsten;  
+
+– *Verordeningen vangstmogelijkheden:* Verordening interne vangstmogelijkheden en Verordening externe vangstmogelijkheden.     
 
 ### Artikel  2  
 
 ####Nadere begripsbepalingen
 
-1.  Voor de toepassing van de in artikel 1, tweede lid, genoemde verordeningen is het visserijcontrolecentrum, bedoeld in artikel 4, vijftiende lid, van de controleverordening, van Nederland de meldkamer van de AID te Kerkrade.   
+1.  Voor de toepassing van de in artikel 1, tweede lid, genoemde verordeningen is het visserijcontrolecentrum, bedoeld in artikel 4, vijftiende lid, van de controleverordening, van Nederland de meldkamer van de NVWA te Kerkrade.   
 2.  Voor de toepassing van deze regeling en van de in artikel 1, tweede lid, genoemde verordeningen vindt aanlanden plaats op het tijdstip waarop het vissersvaartuig direct of indirect verbinding met de wal heeft gekregen.   
-3.  Voor de toepassing van verordening nr. 850/98, van de verordening vangstmogelijkheden en van hoofdstuk 2 van deze regeling wordt onder ’ICES-deelgebied IV’ en ’Noordzee’ mede verstaan de in het [Besluit aanwijzing zeegebied en kustwateren 1970](../../../../AMvB/besluit/aanwijzing/zeegebied/en/kustwateren/1970/BWBR0002703/README.md) genoemde wateren.   
+3.  Voor de toepassing van verordening nr. 850/98, van de verordeningen vangstmogelijkheden en van hoofdstuk 2 van deze regeling wordt onder ’ICES-deelgebied IV’ en ’Noordzee’ mede verstaan de in het [Besluit aanwijzing zeegebied en kustwateren 1970](../../../../AMvB/besluit/aanwijzing/zeegebied/en/kustwateren/1970/BWBR0002703/README.md) genoemde wateren.   
 
 ### Artikel  3  
 
@@ -197,8 +205,8 @@ d. voor vissersvaartuigen waarvan de vangst voor ten minste 90% uit ansjovis of 
 
 ####Voorschriften aanlanden
 
-1.  Voor zover niet op grond van de in artikel 2, tweede lid, genoemde verordeningen anders is bepaald wordt, voordat het aanlanden van vis plaatsvindt, melding gedaan aan de AID.   
-2.  De melding vindt ten minste vier uur voor het tijdstip van aanlanding plaats door verzending van een faxbericht door de kapitein, de eigenaar of diens gemachtigde aan de meldkamer van de AID te Kerkrade (045-5461011), waarin ten minste is aangegeven: 
+1.  Voor zover niet op grond van de in artikel 2, tweede lid, genoemde verordeningen anders is bepaald wordt, voordat het aanlanden van vis plaatsvindt, melding gedaan aan de NVWA.   
+2.  De melding vindt ten minste vier uur voor het tijdstip van aanlanding plaats door verzending van een faxbericht door de kapitein, de eigenaar of diens gemachtigde aan de meldkamer van de NVWA te Kerkrade (045-5461011), waarin ten minste is aangegeven: 
 
 a. de haven van aanlanding of de in bijlage 3 bedoelde plaats, onder vermelding van de exacte locatie;  
 
@@ -220,8 +228,8 @@ g. de lettertekens en het nummer van het vissersvaartuig.
 
 ####Voorschriften lossen
 
-1.  Een ambtenaar van de AID heeft toestemming gegeven om te lossen.   
-2.  Op verzoek van degene die vis aanlandt, kan de toestemming, bedoeld in het eerste lid, worden verleend door een functionaris, namens een ambtenaar van de AID.   
+1.  Een ambtenaar van de NVWA heeft toestemming gegeven om te lossen.   
+2.  Op verzoek van degene die vis aanlandt, kan de toestemming, bedoeld in het eerste lid, worden verleend door een functionaris, namens een ambtenaar van de NVWA.   
 3.  Toestemming als bedoeld in het eerste lid wordt gegeven in de volgorde van melding van het tijdstip van aanlanding.   
 4.  Het lossen van vis in de in bijlage 2 A genoemde havens vindt plaats op de in die bijlage achter de desbetreffende haven genoemde losplaatsen.   
 5.  Alle zich aan boord van het vissersvaartuig bevindende vis, met uitzondering van paling, wordt in één ononderbroken losbeurt in zijn geheel gelost.   
@@ -247,17 +255,18 @@ Het is verboden in strijd te handelen met artikel 11, derde en vierde lid, van v
 ####Vangstverboden
 
 1.  Het is verboden met een vissersvaartuig op de vissoorten, genoemd in de bijlagen 4, 5 en 6, in de bij die vissoorten vermelde wateren te vissen dan wel deze vissoorten aan boord te houden of aan te landen.   
-2.  Het verbod, bedoeld in het eerste lid, geldt niet voor zover: 
+2.  Voor zover het de in bijlage 4 genoemde bestanden betreft die niet van een asterisk zijn voorzien, geldt het in het eerste lid bedoelde verbod uitsluitend voor Nederlandse vissersvaartuigen.   
+3.  Het verbod, bedoeld in het eerste lid, geldt niet voor zover: 
 
-a. het Nederlands quotum voor de desbetreffende vissoort, zoals dit ingevolge artikel 33, vijfde lid, van de controleverordening is verminderd, niet is overschreden;  
+a. het Nederlandse vissersvaartuigen betreft en het Nederlands quotum voor de desbetreffende vissoort, zoals dit ingevolge artikel 33, vijfde lid, van de controleverordening is verminderd, niet is overschreden;  
 
-b. het Europees quotum voor de desbetreffende vissoort, zoals dit ingevolge artikel 33, vijfde lid, van de controleverordening is verminderd, niet is overschreden;  
+b. het Europese vissersvaartuigen betreft en het Europees quotum voor de desbetreffende vissoort, zoals dit ingevolge artikel 33, vijfde lid, van de controleverordening is verminderd, niet is overschreden;  
 
-c. het vissersvaartuigen van derde landen betreft, in de gebieden vermeld in bijlage 4, 5 en 6, mits de visserij wordt uitgeoefend overeenkomstig artikel 36 van de verordening vangstmogelijkheden; en  
+c. het vissersvaartuigen van derde landen betreft, in de gebieden vermeld in bijlage 4, 5 en 6, mits de visserij wordt uitgeoefend overeenkomstig artikel 33 van de verordening externe vangstmogelijkheden; en  
 
 d. wordt gehandeld in overeenstemming met de voorschriften die in de vorm van een voetnoot bij de desbetreffende hoeveelheden zijn opgenomen in de bijlagen 5 en 6.     
-3.  De minister kan de in bijlagen 5 of 6 genoemde hoeveelheden wijzigen of op nul stellen, voor zover hij dit noodzakelijk acht voor de nakoming van verplichtingen van de Europese Unie.   
-4.  De minister maakt de datum, bedoeld in artikel 35, eerste lid, onderdeel a, van de controleverordening, bekend. Deze datum kan per vissoort en vangstgebied verschillen.   
+4.  De minister kan de in bijlagen 5 of 6 genoemde hoeveelheden wijzigen of op nul stellen, voor zover hij dit noodzakelijk acht voor de nakoming van verplichtingen van de Europese Unie.   
+5.  De minister maakt de datum, bedoeld in artikel 35, eerste lid, onderdeel a, van de controleverordening, bekend. Deze datum kan per vissoort en vangstgebied verschillen.   
 
 ### Artikel  11  
 
@@ -275,45 +284,45 @@ a. wetenschappelijk onderzoek, voor zover:
 
 4e de resultaten van het onderzoek beschikbaar worden gesteld voor de Nederlandse visserijsector; en  
 
-5e de totale vangsten waarvoor ontheffing wordt verleend het in artikel 33, zesde lid, van de controleverordening, genoemde percentage van de in bijlage I van de verordening vangstmogelijkheden aan Nederland toegewezen vangstmogelijkheden niet te boven gaat; en    
+5e de totale vangsten waarvoor ontheffing wordt verleend het in artikel 33, zesde lid, van de controleverordening, genoemde percentage van de in bijlage I van de verordening interne vangstmogelijkheden en bijlage I van de verordening externe vangstmogelijkheden aan Nederland toegewezen vangstmogelijkheden niet te boven gaat; en    
 
-b. een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in artikel 7 van de verordening vangstmogelijkheden, voor zover wordt voldaan aan het tweede lid, van dat artikel.     
-2.  De op grond van het eerste lid, onderdeel b, verleende ontheffing wordt ingetrokken in de situatie, genoemd in artikel 7, derde lid, van de verordening vangstmogelijkheden.   
+b. een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in artikel 7 van de verordening interne vangstmogelijkheden en artikel 6 van de verordening externe vangstmogelijkheden, voor zover wordt voldaan aan het derde lid van de desbetreffende artikelen.     
+2.  De op grond van het eerste lid, onderdeel b, verleende ontheffing wordt ingetrokken in de situatie, genoemd in artikel 7, zesde lid, van de verordening interne vangstmogelijkheden en artikel 6, zesde lid, van de verordening externe vangstmogelijkheden.   
 
 ### Artikel  12  
 
 ####Reservering vangstmogelijkheden
 
-1.  De minister kan het verschil tussen de in bijlage I van de verordening vangstmogelijkheden aan Nederland toegewezen vangstmogelijkheden en het Nederlands quotum benutten ten behoeve van: 
+1.  De minister kan het verschil tussen de in bijlage I van de verordening interne vangstmogelijkheden en bijlage I van de verordening externe vangstmogelijkheden aan Nederland toegewezen vangstmogelijkheden en het Nederlands quotum benutten ten behoeve van: 
 
 a. ruilen van vangstmogelijkheden met andere lidstaten als bedoeld in artikel 20, vijfde lid, van verordening nr. 2371/2002;  
 
 b. verlaging van de aan Nederland toegewezen vangstmogelijkheden als bedoeld in de artikelen 37, tweede lid, 88, eerste lid, 105 en 107, eerste lid, van de controleverordening; of  
 
 c. toewijzing aan een ondernemer, een groep of een producentenorganisatie, overeenkomstig de door de minister vast te stellen criteria, indien is komen vast te staan dat die ondernemer of de ondernemers die aan de desbetreffende groep of producentenorganisatie deelnemen, in een nader te bepalen periode hebben gehandeld overeenkomstig de artikelen 21, eerste lid, 22, 23, 53, 57 en 105 van deze regeling en aan de artikelen 39, eerste lid, en 49 van de controleverordening.     
-2.  De in het eerste lid, onderdeel c, bedoelde toewijzing bedraagt per vissoort en vangstgebied ten hoogste 10% van de in bijlage I van de verordening vangstmogelijkheden voor die vissoort in het desbetreffende vangstgebied aan Nederland toegedeelde vangstmogelijkheden.   
+2.  De in het eerste lid, onderdeel c, bedoelde toewijzing bedraagt per vissoort en vangstgebied ten hoogste 10% van de in bijlage I van de verordening interne vangstmogelijkheden en bijlage I van de verordening externe vangstmogelijkheden voor die vissoort in het desbetreffende vangstgebied aan Nederland toegedeelde vangstmogelijkheden.   
 3.  De hoeveelheden die resteren na de toepassing van het eerste lid, worden uiterlijk 1 juni van het desbetreffende kalenderjaar aan het Nederlands quotum toegevoegd.   
 
 ### Artikel  13  
 
 ####Overige verboden
 
-1.  Het is verboden in strijd te handelen met de artikelen 8, tweede lid, 13, 17, 19, 20, 21, 24, 28, eerste en derde lid, 29, 31, 32, 34, 36, tweede lid, en 37 van de verordening vangstmogelijkheden.   
-2.  Het is verboden visserijactiviteiten uit te oefenen in strijd met de artikelen 16, 23, eerste en tweede lid, 30 en 33 van de verordening vangstmogelijkheden.   
+1.  Het is verboden in strijd te handelen met de artikelen 11 en 12, tweede lid van de verordening interne vangstmogelijkheden en de artikelen 11, 12, tweede lid, 18, 19, 20, 23, 27, eerste, derde, vierde, vijfde en zesde lid, 28, 30, 32, 34, tweede lid, en 35 van de verordening externe vangstmogelijkheden.   
+2.  Het is verboden visserijactiviteiten uit te oefenen in strijd met de artikelen 16, 22, eerste en tweede lid, 29 en 31 van de verordening externe vangstmogelijkheden.   
 
 ### Artikel  14  
 
 ####Diepzeevisdocumenten
 
-1.  Het is verboden in strijd te handelen met artikel 3, eerste lid, van verordening nr. 2347/2002 in samenhang met artikel 11, eerste lid, van de verordening vangstmogelijkheden, en met de artikelen 5, 6, eerste en tweede lid, en 7 van verordening nr. 2347/2002.   
-2.  Het is verboden per kalenderjaar met een vissersvaartuig meer dan 10 ton van de diepzeesoorten als bedoeld in artikel 2, onderdeel a, van verordening nr. 2347/2002 en in artikel 11, eerste lid, van de verordening vangstmogelijkheden, te vangen, aan boord te houden of aan te landen, tenzij ten behoeve van het vissersvaartuig een diepzeedocument is afgegeven als bedoeld in artikel 2, onderdeel b, van verordening nr. 2347/2002.   
+1.  Het is verboden in strijd te handelen met artikel 3, eerste lid, van verordening nr. 2347/2002 in samenhang met artikel 9, eerste lid, van de verordening externe vangstmogelijkheden, en met de artikelen 5, 6, eerste en tweede lid, en 7 van verordening nr. 2347/2002.   
+2.  Het is verboden per kalenderjaar met een vissersvaartuig meer dan 10 ton van de diepzeesoorten als bedoeld in artikel 2, onderdeel a, van verordening nr. 2347/2002 en in artikel 9, eerste lid, van de verordening externe vangstmogelijkheden, te vangen, aan boord te houden of aan te landen, tenzij ten behoeve van het vissersvaartuig een diepzeedocument is afgegeven als bedoeld in artikel 2, onderdeel b, van verordening nr. 2347/2002.   
 3.  Een diepzeevisdocument wordt slechts verleend ten behoeve van een vissersvaartuig: 
 
 a. waarmee in de jaren 1998, 1999 of 2000 ten minste 100 ton van de in het eerste lid bedoelde soorten is aangeland, of  
 
 b. ten aanzien waarvan een visvergunning is toegekend die eerder was toegekend ten aanzien van een vissersvaartuig als bedoeld in onderdeel a, en waarvan het motorvermogen niet groter is dan het motorvermogen van dat vissersvaartuig.     
 4.  Het is verboden de visserij uit te oefenen op de diepzeesoorten, bedoeld in bijlage I, met uitzondering van de grote zilvervis, en bedoeld in bijlage II van verordening nr. 2347/2002, indien in 2011 de visserij-inspanning van het desbetreffende vaartuig tijdens reizen waarop meer dan 100 kg aan andere diepzeesoorten dan grote zilvervis is gevangen, groter is dan de door de minister vastgestelde visserij-inspanning van dat vaartuig in 2003, verminderd met 35%.   
-5.  De bevoegde autoriteit, bedoeld in artikel 6, tweede lid, van verordening nr. 2347/2002, is de AID.   
+5.  De bevoegde autoriteit, bedoeld in artikel 6, tweede lid, van verordening nr. 2347/2002, is de NVWA.   
 6.  De havens, bedoeld in artikel 7, tweede lid, van verordening nr. 2347/2002, zijn de in bijlage 2 B vermelde havens.   
 7.  Indien de minister een waarnemer als bedoeld in artikel 8 van verordening nr. 2347/2002, aanwijst, draagt de kapitein van het desbetreffende vissersvaartuig er zorg voor dat deze waarnemer de taken, bedoeld in artikel 8, vierde lid, van die verordening, ongehinderd kan uitvoeren.   
 
@@ -321,7 +330,7 @@ b. ten aanzien waarvan een visvergunning is toegekend die eerder was toegekend t
 
 ####Pelagische visserij
 
-1.  Het is verboden met een vissersvaartuig enige visserijactiviteit uit te oefenen in de zone van de SPRFMO, bedoeld in artikel 4, onderdeel m, van de verordening vangstmogelijkheden.   
+1.  Het is verboden met een vissersvaartuig enige visserijactiviteit uit te oefenen in de zone van de SPRFMO, bedoeld in artikel 4, onderdeel k, van de verordening externe vangstmogelijkheden.   
 2.  Het eerste lid is niet van toepassing op vissersvaartuigen die pelagische visserij uitoefenen en die aantoonbaar in 2007, 2008 of 2009 in de in het eerste lid bedoelde zone visserijactiviteiten hebben uitgeoefend of op een vissersvaartuig dat voornoemd vissersvaartuig vervangt, indien: 
 
 a. het vissersvaartuig hetzelfde of een kleiner brutotonnage heeft dan het te vervangen vaartuig;  
@@ -337,7 +346,7 @@ c. de personen op wier naam de vaartuigen staan geregistreerd in het visserijreg
 1.  Het is verboden met een vissersvaartuig met een lengte van over alles van ten minste 10 meter te vissen in de gebieden, bedoeld in artikel 3 van verordening nr. 1342/2008, met typen vistuig behorend tot de in punt 1 van bijlage I bij verordening nr. 1342/2008 vermelde vistuigcategorieën en die typen vistuig aan boord te houden.   
 2.  Het eerste lid is niet van toepassing ten aanzien van een vissersvaartuig, indien: 
 
-a. de voor de beheersperiode, genoemd in artikel 1, eerste lid, onderdeel b, van de verordening vangstmogelijkheden, dan wel, voor zover het de vistuigcategorieën TR1 of TR2 betreft, de voor het desbetreffende gedeelte van die beheersperiode toegestane visserij-inspanning per gebied als bedoeld in artikel 3 van verordening nr. 1342/2008, en per vistuigcategorie, al dan niet onderscheiden naar de maaswijdte van de netten of deelname aan een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in artikel 7 van de verordening vangstmogelijkheden, vermeld in bijlage 7, nog niet is opgebruikt;  
+a. de voor de beheersperiode, genoemd in artikel 1, tweede lid, onderdeel b, van de verordening interne vangstmogelijkheden en artikel 1, tweede lid, onderdeel b, van de verordening externe vangstmogelijkheden, dan wel, voor zover het de vistuigcategorieën TR1 of TR2 betreft, de voor het desbetreffende gedeelte van die beheersperiode toegestane visserij-inspanning per gebied als bedoeld in artikel 3 van verordening nr. 1342/2008, en per vistuigcategorie, al dan niet onderscheiden naar de maaswijdte van de netten of deelname aan een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in artikel 7 van de verordening interne vangstmogelijkheden en artikel 6 van de verordening externe vangstmogelijkheden, vermeld in bijlage 7, nog niet is opgebruikt;  
 
 b. voor zover het de vistuigcategorieën TR1 en TR2 betreft, het vissersvaartuig in tijdvakken van twee aaneengesloten weken telkens ten hoogste tien kalenderdagen in een gebied als bedoeld in artikel 3 van verordening nr. 1342/2008, aanwezig is; en  
 
@@ -358,13 +367,13 @@ c. het de vissoorten betreft waarop het onderzoek betrekking heeft;
 
 d. de resultaten van het onderzoek beschikbaar worden gesteld voor de Nederlandse visserijsector; en  
 
-e. de totale visserij-inspanning waarvoor ontheffing wordt verleend het in artikel 33, negende lid, van de controleverordening, genoemde percentage van de in bijlage IIA van de verordening vangstmogelijkheden aan Nederland toegewezen visserij-inspanning niet te boven gaat.    
+e. de totale visserij-inspanning waarvoor ontheffing wordt verleend het in artikel 33, negende lid, van de controleverordening, genoemde percentage van de in bijlage IIA van de verordening interne vangstmogelijkheden en bijlage IIA van de verordening externe vangstmogelijkheden aan Nederland toegewezen visserij-inspanning niet te boven gaat.    
 
 ### Artikel  18  
 
 ####Reservering visserij-inspanning annex IIA
 
-1.  De minister kan het verschil tussen de in bijlage IIA van de verordening vangstmogelijkheden aan Nederland toegewezen visserij-inspanning en de in bijlage 7 bij deze regeling vermelde hoeveelheden visserij-inspanning benutten ten behoeve van: 
+1.  De minister kan het verschil tussen de in bijlage IIA van de verordening interne vangstmogelijkheden en bijlage IIA van de verordening externe vangstmogelijkheden aan Nederland toegewezen visserij-inspanning en de in bijlage 7 bij deze regeling vermelde hoeveelheden visserij-inspanning benutten ten behoeve van: 
 
 a. het uitwisselen van visserij-inspanning met andere lidstaten, bedoeld in artikel 16, tweede lid, van verordening nr. 1342/2008;  
 
@@ -402,7 +411,7 @@ b. hij dit noodzakelijk acht ter nakoming van Europese verplichtingen.
 
 ####Overige visserij-inspanning
 
-Het is verboden te vissen met de typen vistuigen, bedoeld in onderdeel 1 van bijlage IIB, onderdeel 2 van bijlage IIC en onderdeel 1 van bijlage IID, van de verordening vangstmogelijkheden, in de gebieden, bedoeld in onderdeel 1 van deze bijlagen, en die typen vistuig aan boord te houden.  
+Het is verboden te vissen met de typen vistuigen, bedoeld in onderdeel 1 van bijlage IIB en onderdeel 2 van bijlage IIC van de verordening interne vangstmogelijkheden en onderdeel 1 van bijlage IIB van de verordening externe vangstmogelijkheden, in de gebieden, bedoeld in onderdeel 1 van deze bijlagen, en die typen vistuig aan boord te houden.  
 
 ### §  2  
 
@@ -486,7 +495,7 @@ Het is voor de vissersvaartuigen waarvoor geen contingent horsmakreel voor de EU
 
 ####Volledig gedocumenteerde visserij
 
-Indien op van [artikel 6d van het Reglement zee- en kustvisserij 1977](../../../../AMvB/reglement/zee-/en/kustvisserij/1977/BWBR0003144/README.md) ontheffing wordt verleend van artikel 21 in verband met het uitoefenen van de visserij ten behoeve van een pilot in het kader van volledig gedocumenteerde visserij, geschiedt dit in overeenstemming met artikel 7 van de verordening vangstmogelijkheden.  
+Indien op van [artikel 6d van het Reglement zee- en kustvisserij 1977](../../../../AMvB/reglement/zee-/en/kustvisserij/1977/BWBR0003144/README.md) ontheffing wordt verleend van artikel 21 in verband met het uitoefenen van de visserij ten behoeve van een pilot in het kader van volledig gedocumenteerde visserij, geschiedt dit in overeenstemming met artikel 7 van de verordening interne vangstmogelijkheden en artikel 6 van de verordening externe vangstmogelijkheden.  
 
 ### §  3  
 
@@ -507,7 +516,7 @@ c. bij kabeljauw: wijting;
 
 d. bij wijting: kabeljauw.     
 3.  Voor de bepaling van een contingent voor een kalenderjaar wordt de hoeveelheid waarmee het contingent voor het daaraan voorafgaande jaar ingevolge artikel 39 is gekort, niet meegerekend.   
-4.  De minister wijzigt het in het eerste lid genoemde percentage voor een vissoort indien ten gevolge van een bindende EU-rechtshandeling de in bijlage I van de verordening vangstmogelijkheden aan Nederland toegewezen vangstmogelijkheden van die vissoort worden verlaagd.   
+4.  De minister wijzigt het in het eerste lid genoemde percentage voor een vissoort indien ten gevolge van een bindende EU-rechtshandeling de in bijlage I van de verordening interne vangstmogelijkheden en bijlage I van de verordening externe vangstmogelijkheden aan Nederland toegewezen vangstmogelijkheden van die vissoort worden verlaagd.   
 5.  Tenzij de in bijlage 5 of 6 genoemde hoeveelheden op nul zijn gesteld, kan de minister ten behoeve van een ondernemer die zijn contingent van een vissoort nog niet heeft overschreden, het in het eerste lid genoemde percentage wijzigen indien: 
 
 a. het Nederlands quotum voor die vissoort daartoe ruimte biedt; of  
@@ -607,7 +616,7 @@ f. voert een deugdelijke administratie waaruit te allen tijde de omvang van het 
 
 g. overlegt elke wijziging van de statuten en huishoudelijke reglementen van de groep of de producentenorganisatie onverwijld aan de minister;  
 
-h. verleent ambtenaren van de AID te allen tijde inzage in de gegevens, bedoeld in de onderdelen e en f;  
+h. verleent ambtenaren van de NVWA te allen tijde inzage in de gegevens, bedoeld in de onderdelen e en f;  
 
 i. verstrekt de minister op verzoek een kopie van de gegevens, bedoeld in de onderdelen e en f; en  
 
@@ -638,7 +647,7 @@ c. het groepscontingent van de desbetreffende vissoort of in voorkomend geval va
 
 ####Basis voor bepaling contingenten
 
-Bij de vermindering, bedoeld in de artikelen 36, tweede lid, en 37, tweede lid, gaat de minister uit van de gegevens uit het Visserij Registratie en Informatie Systeem van het Ministerie van Economische Zaken, Landbouw en Innovatie, aangevuld met de gegevens uit de laatste door het bestuur van de groep of van de producentenorganisatie overgelegde kopie van de administratieve gegevens, bedoeld in artikel 35, onderdeel f, behoudens tegenbewijs van de belanghebbende bij het desbetreffende contingent.  
+Bij de vermindering, bedoeld in de artikelen 36, tweede lid, en 37, tweede lid, gaat de minister uit van de gegevens uit het Visserij Registratie en Informatie Systeem van het Ministerie van Economische Zaken, aangevuld met de gegevens uit de laatste door het bestuur van de groep of van de producentenorganisatie overgelegde kopie van de administratieve gegevens, bedoeld in artikel 35, onderdeel f, behoudens tegenbewijs van de belanghebbende bij het desbetreffende contingent.  
 
 ### §  5  
 
@@ -832,6 +841,7 @@ c. wordt voldaan aan de aan de toestemming verbonden voorschriften.
 5.  Op aanvragen tot toestemming als bedoeld in het vierde lid, die zijn ingediend voor het tijdstip van inwerkingtreding van deze regeling, wordt beslist overeenkomstig [artikel 8, derde en vierde lid, van de Regeling technische maatregelen 2000](../../../../ministeriele-regeling/regeling/technische/maatregelen/2000/BWBR0011061/README.md), zoals deze leden luidden voor het tijdstip van inwerkingtreding van deze regeling.   
 6.  Indien een vissersvaartuig wordt overgedragen ten behoeve waarvan toestemming is gegeven op grond van [artikel 8, tweede lid, onderdeel b, van de Regeling technische maatregelen 2000](../../../../ministeriele-regeling/regeling/technische/maatregelen/2000/BWBR0011061/README.md), zoals dit artikelonderdeel luidde voor het tijdstip van inwerkingtreding van deze regeling of op grond van het vijfde lid, en waarmee overeenkomstig het vierde lid, onderdeel b, en met de aan die toestemming verbonden voorschriften daadwerkelijk met een pulskor is gevist, kan de minister de ondernemer op wiens naam dat vissersvaartuig na overdracht is geregistreerd, toestemming geven om te vissen met een pulskor in het gebied, bedoeld in onderdeel 3.1 van bijlage III van verordening nr. 43/2009. De toestemming wordt pas verleend nadat de aan de oorspronkelijke rechthebbende gegeven toestemming op diens verzoek is ingetrokken.   
 7.  De minister kan de aan de toestemming verbonden voorschriften wijzigen.   
+8.  Het is verboden een boomkor met elektrische stroom als bedoeld in onderdeel 3.1 van bijlage III van verordening nr. 43/2009 aan boord te hebben van een vissersvaartuig, indien niet is voldaan aan het vierde lid, onderdelen a tot en met c.   
 
 ### Artikel  54  
 
@@ -921,7 +931,7 @@ Het is verboden in strijd te handelen met de artikelen 3, 4 en 5 van verordening
 
 1.  Het is verboden in strijd te handelen met de artikelen 3, 4, 6, 7, eerste tot en met derde lid, 8, eerste tot en met achtste lid, 9, eerste tot en met derde lid, 10, 11, derde tot en met vijfde lid, 12, eerste tot en met vierde lid, en 14, eerste tot en met derde lid, van verordening nr. 600/2004.   
 2.  Het is verboden in strijd te handelen met de artikelen 3, eerste lid, 4, eerste lid, 6, eerste lid, 7, eerste lid, 7 bis, 7 ter, 9, eerste tot en met derde lid, 13, eerste tot en met derde lid, 14, eerste en tweede lid, 17, eerste en derde lid, 18, eerste en tweede lid, 19, eerste lid, 23, eerste lid, en 24, eerste en tweede lid, van verordening nr. 601/2004.   
-3.  De bevoegde autoriteit, bedoeld in de artikelen 9, derde lid, 13, eerste lid en 17, eerste lid, van verordening nr. 601/2004, is de AID.   
+3.  De bevoegde autoriteit, bedoeld in de artikelen 9, derde lid, 13, eerste lid en 17, eerste lid, van verordening nr. 601/2004, is de NVWA.   
 4.  Het is verboden Dissostichus spp. uit het verdragsgebied, bedoeld in artikel 2, onderdeel a, van verordening nr. 601/2004, aan te landen of over te laden zonder dat de melding, bedoeld in artikel 27, tweede lid, van verordening nr. 601/2004, vergezeld gaan van een door de kapitein of de ondernemer van een vissersvaartuig ondertekende schriftelijke verklaring als bedoeld in dat lid.   
 
 ### Artikel  64  
@@ -952,7 +962,7 @@ Het is verboden in strijd te handelen met de artikelen 5, eerste lid, 7, 9, 10, 
 ####Kwetsbare mariene ecosystemen in volle zee
 
 1.  Het is verboden in strijd te handelen met de artikelen 3, eerste lid, 6, 7 en 9 van verordening nr. 734/2008.   
-2.  De bevoegde autoriteit, bedoeld in artikel 7, derde lid, van verordening nr. 734/2008, is de AID.   
+2.  De bevoegde autoriteit, bedoeld in artikel 7, derde lid, van verordening nr. 734/2008, is de NVWA.   
 
 ### Artikel  68  
 
@@ -987,8 +997,8 @@ Het is verboden in strijd te handelen met de artikelen 5, eerste lid, 7, 9, 10, 
 
 1.  Het is verboden in strijd te handelen met de artikelen 4, 5 bis, 6, eerste en derde lid, 8, eerste lid, 9, 10, tweede en derde lid, en 11 van verordening nr. 2115/2005.   
 2.  Als havens als bedoel in artikel 8, tweede lid, van verordening nr. 2115/2005 worden aangewezen de havens die zijn vermeld in bijlage 2 B.   
-3.  De mededeling, bedoeld in artikel 6, eerste lid, van verordening nr. 2115/2005, wordt gedaan aan de AID.   
-4.  De bevoegde autoriteit, bedoeld in artikel 9 van verordening nr. 2115/2005, is de AID.   
+3.  De mededeling, bedoeld in artikel 6, eerste lid, van verordening nr. 2115/2005, wordt gedaan aan de NVWA.   
+4.  De bevoegde autoriteit, bedoeld in artikel 9 van verordening nr. 2115/2005, is de NVWA.   
 
 ### Artikel  72  
 
@@ -1000,7 +1010,13 @@ Het is verboden in strijd te handelen met artikel 5, tweede lid, van verordening
 
 ####Beheersmaatregelen visbestanden in Middellandse Zee
 
-Het is verboden in strijd te handelen met de artikelen 3, eerste lid, 4, eerste tot en met derde lid, 8, 9, eerste lid, 10, 11, 12, 13, eerste tot en met vierde lid, 15, eerste en tweede lid, 16, vierde lid, 17, eerste lid, 21, 22, eerste lid, 24, vijfde lid, en 27, eerste lid, van verordening nr. 1967/2006.  
+Het is verboden in strijd te handelen met de artikelen 3, eerste lid, 4, eerste en tweede lid, 8, 9, eerste en derde lid, 10, 11, 12, 13, eerste tot en met vierde lid, 15, eerste en tweede lid, 16, vierde lid, 17, eerste lid, 21, en 22, eerste lid, van verordening nr. 1967/2006.  
+
+### Artikel  73a  
+
+####Instandhoudings- en handhavingmaatregelen in GFCM-overeenkomstgebied
+
+Het is verboden in strijd te handelen met de artikelen 10, 12, eerste lid, 15, eerste lid, 16, en 17, vijfde lid, van verordening nr. 1343/2011.  
 
 ### Artikel  74  
 
@@ -1016,7 +1032,7 @@ Het is verboden in strijd te handelen met de artikelen 3, eerste lid, 4, eerste 
 1.  Het is verboden in strijd te handelen met de artikelen 4 tot en met 12, 12 octies, 12 nonies, 13, 18, eerste tot en met vijfde lid, 19, 20, 21, eerste lid, 23, tweede lid, 30, eerste tot en met derde lid, 33, tweede lid, 35, eerste tot en met vierde lid, 36, 47, 63 ter, eerste en derde lid, 63 quater, eerste lid, 63 quinquies, zesde lid, 66, 68, eerste lid, 68 bis, eerste lid, en 69, eerste lid, onderdelen a, b, e en g, van verordening nr. 1386/2007.   
 2.  Het is verboden in strijd te handelen met een op grond van artikel 54, eerste lid, van verordening nr. 1386/2007 gegeven opdracht of met een op grond van artikel 56 van die verordening getroffen maatregel.   
 3.  Als havens als bedoeld in artikel 63 van verordening nr. 1386/2007, worden aangewezen de havens die zijn vermeld in bijlage 2 B.   
-4.  De bevoegde autoriteit, bedoeld in artikel 63bis van verordening nr. 1386/2007, is de AID.   
+4.  De bevoegde autoriteit, bedoeld in artikel 63bis van verordening nr. 1386/2007, is de NVWA.   
 5.  Het is verboden met een vaartuig als bedoeld in artikel 69, eerste lid, van verordening nr. 1386/2007, een Nederlandse haven binnen te varen, dan wel de bemanning van dat vaartuig te vervangen.   
 6.  Het is verboden mariene organismen die afkomstig zijn van een vaartuig als bedoeld in artikel 69, eerste lid, van verordening nr. 1386/2007, te houden, op te slaan, in te voeren, te verkopen, te koop aan te bieden en te verhandelen.   
 
@@ -1024,15 +1040,15 @@ Het is verboden in strijd te handelen met de artikelen 3, eerste lid, 4, eerste 
 
 ####Meerjarig herstelplan blauwvintonijn in O Atlantische Oceaan en Middellandse Zee
 
-1.  Het is verboden in strijd te handelen met de artikelen 4, dertiende lid, 7, eerste tot en met vijfde lid, 8, 11, eerste lid, 12, tweede en derde lid, 13, tweede lid, 14, vierde lid, 15, derde lid, 17, derde lid, 18, 19, eerste lid, 20, eerste en tweede lid, 21, eerste lid, 23, eerste tot en met vierde en zesde lid, 24, vierde lid, 25, eerste lid, 26, eerste lid, 34 en onderdelen 2, onderdeel a, en 5 van Bijlage I van verordening nr. 302/2009.   
+1.  Het is verboden in strijd te handelen met de artikelen 4, dertiende lid, 7, eerste tot en met vijfde lid, 8, 11, eerste lid, 12, tweede en derde lid, 13, tweede lid, 14, vierde lid, 15, derde lid, 17, derde lid, 18, 19, eerste lid, 20, eerste en tweede lid, 21, eerste lid, 22, eerste tot en met vijfde, zevende en negende lid, 23, eerste tot en met vierde en zesde lid, 24, vierde lid, 25, eerste lid, 26, eerste lid, 34, onderdelen 2, onderdeel a, en 5 van Bijlage I en onderdeel 7 van Bijlage VI van verordening nr. 302/2009.   
 2.  Als havens als bedoeld in artikel 17, eerste lid, van verordening nr. 302/2009, worden aangewezen de havens die zijn vermeld in bijlage 2 B.   
 
 ### Artikel  77  
 
 ####Controle- en handhavingregeling in NEAFC-gebied
 
-1.  Het is verboden in strijd te handelen met de artikelen 8, eerste en tweede lid, 9, eerste en tweede lid, 13, 14, 15, 21, 23, 24, eerste lid, 25, tweede lid, 40, eerste lid, 41, eerste lid, en 42 van verordening nr. 1236/2010.   
-2.  De bevoegde instantie, bedoeld in artikel 4, eerste lid, van verordening nr. 1236/2010, is de AID.   
+1.  Het is verboden in strijd te handelen met artikel 8, eerste en tweede lid, in samenhang met artikel 4 van uitvoeringsverordening nr. 433/2012, de artikelen 9, eerste en tweede lid, 13, 14, 15, 21, 23, artikel 24, eerste lid, in samenhang met artikel 12 van uitvoeringsverordening nr. 433/2012, en de artikelen 25, tweede lid, 40, eerste lid, 41, eerste lid, en 42 van verordening nr. 1236/2010.   
+2.  De bevoegde instantie, bedoeld in artikel 4, eerste lid, van verordening nr. 1236/2010, is de NVWA.   
 3.  Het is verboden in het gereglementeerd gebied, bedoeld in artikel 3, onderdeel 3, van verordening nr. 1236/2010, vistuig te gebruiken dat niet is gemarkeerd overeenkomstig artikel 8, eerste lid, van de controleverordening, in samenhang met de artikelen 6 tot en met 17 van de uitvoeringsverordening controleverordening.   
 4.  De minister kan vistuig als bedoeld in artikel 4, tweede lid, van verordening nr. 1236/2010, verwijderen en vernietigen.   
 5.  Als havens als bedoeld in artikel 23 van verordening nr. 1236/2010, worden aangewezen de havens die zijn vermeld in bijlage 2 B.   
@@ -1056,7 +1072,7 @@ Het is verboden met een vissersvaartuig te vissen op haring, koolvis, makreel, s
 ####Verbod uitoefening visserij op gequoteerde soorten met niet vissersvaartuigen
 
 1.  Het is verboden met andere vaartuigen dan vissersvaartuigen de visserij met trawlnetten, vistuig van het type staandwant, Deense zegennetten of soortgelijke netten uit te oefenen op de vissoorten genoemd in de bijlagen 4 tot en met 6 in de bij die vissoorten genoemde wateren alsmede dergelijke netten aan boord te houden van een ander vaartuig dan een vissersvaartuig.   
-2.  In afwijking van het eerste lid is het toegestaan vistuig van het type staandwant aan boord te houden in het zeegebied en de kustwateren, bedoeld in [artikel 1, onderdelen c en d, van de Uitvoeringsregeling visserij](../../../../ministeriele-regeling/uitvoeringsregeling/visserij/BWBR0024539/README.md).   
+2.   Vervallen.    
 3.  Het eerste lid is niet van toepassing op een scheepswerf die daartoe melding heeft gedaan aan de minister met gebruikmaking van het daartoe bestemde formulier, voor zover het betreft de uitoefening van de visserij door een vaartuig: 
 
 a. dat in aanbouw is op die scheepswerf en nog niet is afgeleverd en niet is geregistreerd overeenkomstig het [Registratiebesluit](../../../../AMvB/besluit/registratie/vissersvaartuigen/1998/BWBR0009353/README.md) en  
@@ -1160,9 +1176,11 @@ iii. een maaswijdte hebben van 100 millimeter tot 120 millimeter en zijn voorzie
 
 b. indien het TR2 betreft: 
 
-i. een maaswijdte hebben van 70 millimeter tot 100 millimeter en zijn voorzien van een paneel met vierkante mazen met een maaswijdte van 120 millimeter of meer en met een minimum lengte van 3 meter of van een paneel met vierkante mazen met een maaswijdte van 130 millimeter in de tunnel, waarvan de achterste rij mazen zich ten hoogste 12 meter van de pooklijn bevindt; of  
+i. een maaswijdte hebben van 70 millimeter tot 100 millimeter en zijn voorzien van een paneel met vierkante mazen met een maaswijdte van 120 millimeter of meer en met een minimum lengte van 3 meter of van een paneel met vierkante mazen met een maaswijdte van 130 millimeter in de tunnel, waarvan de achterste rij mazen zich ten hoogste 12 meter van de pooklijn bevindt;  
 
-ii. een maaswijdte hebben van 70 millimeter tot 100 millimeter en ten minste 15 grote mazen van 150 millimeter of meer in de bovenkap hebben en zijn voorzien van een paneel met vierkante mazen met een maaswijdte van 90 millimeter, voor zover ten hoogste 20% van het gewicht van de totale vangst uit kabeljauw bestaat.       
+ii. een maaswijdte hebben van 70 millimeter tot 100 millimeter en ten minste 15 grote mazen van 150 millimeter of meer in de bovenkap hebben en zijn voorzien van een paneel met vierkante mazen met een maaswijdte van 90 millimeter, voor zover ten hoogste 20% van het gewicht van de totale vangst uit kabeljauw bestaat; of  
+
+iii. een maaswijdte hebben van 70 millimeter tot 100 millimeter en ten minste 15 grote mazen van 150 millimeter of meer in de bovenkap hebben en zijn voorzien van een paneel met vierkante mazen met een maaswijdte van 80 millimeter, voor zover ten hoogste 5% van het gewicht van de totale vangst uit kabeljauw bestaat en gevist wordt met Deense zegennetten (SDN), Schotse zegennetten (SSC) of spanzegennetten (SPR).       
 2.  Ten aanzien van de in het eerste lid bedoelde panelen is overigens voldaan aan artikel 7, tweede en derde lid, van verordening nr. 850/98.   
 
 ### Artikel  87  
@@ -1172,9 +1190,9 @@ ii. een maaswijdte hebben van 70 millimeter tot 100 millimeter en ten minste 15 
 1.  Voor de toepassing van het tweede tot en met vijfde lid en de artikelen 88 en 94 wordt onder motorvermogen verstaan: maximaal continue-vermogen zonder aftrek van door de motor aangedreven hulpmachines, uitgedrukt in kW dat de hoofdmotor of hoofdmotoren zonder overbelasting kan onderscheidenlijk, kunnen leveren, en dat mechanisch, elektrisch, hydraulisch of anderszins kan worden aangewend voor de voortstuwing van het vaartuig, zoals dat is vastgesteld door de divisie Scheepvaart van de Inspectie Verkeer en Waterstaat ingevolge het [Vissersvaartuigenbesluit](../../../../KB/vissersvaartuigenbesluit/BWBR0004607/README.md) of het [Vissersvaartuigenbesluit 2002](../../../../rijksKB/vissersvaartuigenbesluit/2002/BWBR0013342/README.md), of in voorkomend geval blijkt uit een verklaring inzake het maximaal continue-vermogen, opgesteld door de fabrikant of de leverancier.   
 2.  Voor zover het motorvermogen van een vissersvaartuig meer dan 100 kW is, is het verboden de visserij uit te oefenen met dat vissersvaartuig, indien de hoofdmotor of de hoofdmotoren van het vaartuig niet door de desbetreffende fabrikant of leverancier of door een meetbureau zijn verzegeld.   
 3.  Terzake van de in het tweede lid bedoelde verzegeling wordt door de desbetreffende fabrikant of leverancier of door het desbetreffende meetbureau overeenkomstig de door de minister beschikbaar gestelde modellen, een zegelplan opgemaakt, dat bestaat uit een tekening en een geschrift, waaruit blijkt welke onderdelen van de hoofdmotor of hoofdmotoren zijn verzegeld, waar de verzegelingen zijn aangebracht en welke kenmerken zij hebben, waar en op welke wijze de stelbouten en breekbouten van de hoofdmotor of hoofdmotoren zijn geplaatst en ingesteld, en waarop door de opsteller ervan is verklaard dat de feitelijke toestand van de motor of hoofdmotoren overeenkomt met de in het overzicht opgenomen gegevens.   
-4.  De ondernemer stuurt na opmaak of wijziging van het zegelplan, bedoeld in het derde lid, een afschrift hiervan aan de AID in Kerkrade   
+4.  De ondernemer stuurt na opmaak of wijziging van het zegelplan, bedoeld in het derde lid, een afschrift hiervan aan de NVWA in Kerkrade   
 5.  Het in het tweede en derde lid bedoelde meetbureau is een instelling met deskundigheid op het gebied van meting van motorvermogens en afstelling van motoren en terzake geaccrediteerd.   
-6.  De zegels bestemd voor verzegeling van de hoofdmotor of hoofdmotoren als bedoeld in het tweede lid, worden beschikbaar gesteld door de AID.   
+6.  De zegels bestemd voor verzegeling van de hoofdmotor of hoofdmotoren als bedoeld in het tweede lid, worden beschikbaar gesteld door de NVWA.   
 
 ### Artikel  88  
 
@@ -1296,7 +1314,7 @@ b. indien het betreft de situatie, bedoeld in het eerste lid, aanhef en onderdee
 ####Verhoging tonnage in visvergunning
 
 1.  De minister kan op verzoek van een ondernemer de in de visvergunning vermelde tonnage van een vissersvaartuig verhogen als bedoeld in artikel 11, vijfde lid, van verordening nr. 2371/2002, indien wordt voldaan aan de voorwaarden, bedoeld in artikel 9 van verordening nr. 1013/2010.   
-2.  Het verzoek tot verhoging van de tonnage wordt schriftelijk gedaan en wordt ingediend bij de directeur Agroketens en Visserij van het Ministerie van Economische Zaken, Landbouw en Innovatie.   
+2.  Het verzoek tot verhoging van de tonnage wordt schriftelijk gedaan en wordt ingediend bij de directeur Dierlijke Agroketens en Dierenwelzijn van het Ministerie van Economische Zaken.   
 3.  Bij het verzoek worden gegevens overgelegd, waaruit blijkt dat wordt voldaan aan artikel 9, onderdelen d, e en f, van verordening nr. 1013/2010. In ieder geval worden de volgende documenten overgelegd: 
 
 a. een beschrijving van de situatie voor en na de verbouwing;  
@@ -1322,7 +1340,7 @@ c. indien de visserijactiviteiten van een vissersvaartuig definitief worden beë
 2.  De minister schorst de visvergunning in de situatie, bedoeld in artikel 6, derde lid, van de controleverordening, en artikel 92, derde lid, van de controleverordening, in samenhang met artikel 129, eerste lid, van de uitvoeringsverordening controleverordening.   
 3.  De minister kan de visvergunning voor een bepaalde periode schorsen of intrekken indien naar het oordeel van de minister: 
 
-a. met het vissersvaartuig de visserij kennelijk is uitgeoefend in strijd met de artikelen 21, eerste lid, 22, 23, 24, 53, 57 of 105 van deze regeling of met de artikelen 39, eerste lid, of 49 van de controleverordening; of  
+a. met het vissersvaartuig de visserij kennelijk is uitgeoefend in strijd met de artikelen 21, eerste lid, 22, 23, 24, of 130, zevende lid, van deze regeling; of  
 
 b. de ondernemer van een vissersvaartuig ten aanzien van wie een visvergunning is verleend, of diens gemachtigde, niet voldoet aan de aan de visvergunning verbonden voorschriften.     
 4.  De periode, bedoeld in het derde lid, is niet korter dan 3 weken en niet langer dan 8 weken en wordt vastgesteld afhankelijk van de ernst en omvang van de overtreding.   
@@ -1352,7 +1370,7 @@ b. de ondernemer van een vissersvaartuig ten aanzien van wie een visvergunning i
 
 a. dat in de kalenderjaren 2006 tot en met 2008 heeft gevist in het desbetreffende gereglementeerde geografische gebied met het desbetreffende gereglementeerde vistuig;  
 
-b. dat, voor zover de aanvraag de vistuigcategorieën TR1 of TR2 betreft, in de kalenderjaren 2001 tot en met 2005 heeft gevist in het desbetreffende gereglementeerde geografische gebied met tot die vistuigcategorieën behorende vistuigen en waarvoor op grond van artikel 29 een recht op contingenten wijting en kabeljauw geldt;  
+b. dat, voor zover de aanvraag de vistuigcategorieën TR1 of TR2 betreft, in de kalenderjaren 2001 tot en met 2005 heeft gevist in het desbetreffende gereglementeerde geografische gebied met tot die vistuigcategorieën behorende vistuigen en waarvoor op 31 december 2011 op grond van artikel 29 een recht op contingenten wijting en kabeljauw gold;  
 
 c. ten aanzien waarvan op 1 januari 2009 een onomkeerbare investeringsverplichting is aangegaan met het oog op de uitoefening van de visserij in het gereglementeerde geografische gebied; of  
 
@@ -1364,37 +1382,15 @@ d. dat dient ter vervanging van een of meer vissersvaartuigen ten aanzien waarva
 ####Schorsing of intrekking vismachtiging
 
 1.  De minister schorst de vismachtiging of trekt deze in in de situatie, bedoeld in artikel 7, vierde lid, van de controleverordening.   
-2.  De minister kan de vismachtiging voor een bepaalde periode schorsen of intrekken indien naar het oordeel van de minister de desbetreffende ondernemer, of diens gemachtigde, niet voldoet aan de aan de vismachtiging verbonden voorschriften.   
+2.  De minister kan de vismachtiging voor een bepaalde periode geheel of gedeeltelijk schorsen of intrekken indien naar het oordeel van de minister de desbetreffende ondernemer, of diens gemachtigde, niet voldoet aan de aan de vismachtiging verbonden voorschriften.   
 
 ### Artikel  101  
 
 ####Markering vissersvaartuig en vistuig
 
-1.  EU-vissersvaartuigen worden als volgt gemarkeerd: 
-
-a. de letter(s) van de haven of het district waarin het EU-vissersvaartuig is geregistreerd, en het nummer (of de nummers) waaronder het vaartuig is geregistreerd, moeten in een kleur die contrasteert met de ondergrond, aan weerszijden van de boeg zo hoog mogelijk boven de waterlijn zijn geschilderd of aangebracht, zodat zij van op zee en vanuit de lucht duidelijk zichtbaar zijn;  
-
-b. voor EU-vissersvaartuigen met een lengte over alles van meer dan 10 m en minder dan 17 m bedraagt de hoogte van de cijfers en letters ten minste 25 cm en de lijndikte ten minste 4 cm. Voor EU-vissersvaartuigen met een lengte over alles van meer dan 17 m bedraagt de hoogte van de cijfers en letters ten minste 45 cm en de lijndikte ten minste 6 cm;  
-
-c. de contrasterende kleuren zijn wit en zwart; en  
-
-d. de externe registratiecijfers en -letters die op de romp van het EU-vissersvaartuig zijn geschilderd of aangebracht, mogen niet verwijderbaar zijn en mogen niet worden uitgewist, worden gewijzigd, onleesbaar worden gelaten, worden bedekt of aan het gezicht worden onttrokken.     
-2.  Het is verboden in strijd te handelen met de artikelen 4 tot en met 14 van verordening nr. 356/2005.   
-3.  De kapitein van een vissersvaartuig met een lengte over alles van 10 m of meer dient documenten aan boord te hebben die door de minister zijn afgegeven en waarin ten minste de volgende gegevens over het vaartuig worden vermeld: 
-
-a. de naam, als het vaartuig een naam heeft;  
-
-b. de letters van de haven of van het district waarin het vaartuig is geregistreerd en het nummer (of de nummers) waaronder het vaartuig is geregistreerd;  
-
-c. de internationale radioroepnaam, als het vaartuig een radioroepnaam heeft;  
-
-d. de naam en het adres van de eigenaar(s) en, indien van toepassing, de charteraar(s); en  
-
-e. de lengte over alles, het vermogen van de voortstuwingsmotor, de brutotonnage en, voor vissersvaartuigen die met ingang van 1 januari 1987 in bedrijf zijn genomen, de datum van inbedrijfname.     
-4.  De kapitein van een vissersvaartuig met een lengte over alles van 17 m of meer dat met visruimen is uitgerust, dient accurate tekeningen met een beschrijving van deze visruimen aan boord te hebben waarin onder meer alle toegangspunten en de in kubieke meter uitgedrukte opslagcapaciteit van deze visruimen zijn aangegeven.   
-5.  De kapitein van vissersvaartuig met tanks voor gekoeld zeewater dient een bijgewerkt document aan boord te hebben waarin de in kubieke meter uitgedrukte capaciteit van de tanks voor iedere 10 cm hoogte van die tanks wordt aangegeven.   
-6.  De in het derde en vierde lid bedoelde documenten alsmede de wijzigingen van de kenmerken die in deze documenten zijn vermeld worden gecertificeerd door de inspectie Verkeer en Waterstaat, divisie Scheepvaart, van het ministerie van Infrastructuur en Milieu. Wijzigingen van de kenmerken die in de documenten, bedoeld in het derde tot en met vijfde lid, zijn vermeld, worden gecertificeerd door een bevoegde autoriteit van de vlaggenlidstaat.   
-7.  De in dit artikel bedoelde documenten worden voor controle- of inspectiedoeleinden voorgelegd op verzoek van de ter zake bevoegde functionarissen.   
+1.  Het is verboden in strijd te handelen met artikel 8 van de controleverordening, in samenhang met de artikelen 6 tot en met 17 van de uitvoeringsverordening controleverordening.   
+2.  De minister is de bevoegde autoriteit, bedoeld in artikel 7, eerste lid, van de uitvoeringsverordening controleverordening.   
+3.  Voor zover het betreft de in het tweede en derde lid van artikel 7 van de uitvoeringsverordening controleverordening bedoelde documenten, is de inspectie Verkeer en Waterstaat, divisie Scheepvaart, van het ministerie van Infrastructuur en Milieu, de bevoegde autoriteit, bedoeld in artikel 7, vierde lid, van de uitvoeringsverordening controleverordening.   
 
 ### Artikel  102  
 
@@ -1406,15 +1402,15 @@ e. de lengte over alles, het vermogen van de voortstuwingsmotor, de brutotonnage
 
 a. laat niet toe dat gegevens handmatig worden ingebracht, gewijzigd, beïnvloed of op andere wijze worden aangepast;  
 
-b. waarborgt een volledige automatische transmissie van juiste en actuele gegevens als bedoeld in artikel 19, eerste lid, van de uitvoeringsverordening controleverordening, naar het visserijcontrolecentrum van de AID te Kerkrade met een frequentie van tenminste eenmaal per twee uur;  
+b. waarborgt een volledige automatische transmissie van juiste en actuele gegevens als bedoeld in artikel 19, eerste lid, van de uitvoeringsverordening controleverordening, naar het visserijcontrolecentrum van de NVWA te Kerkrade met een frequentie van tenminste eenmaal per twee uur;  
 
 c. is voorzien van een reservestroombron die automatisch wordt ingeschakeld indien de hoofdstroom wordt uitgeschakeld of defect raakt en die een werking van ten minste zes uur waarborgt, en  
 
 d. is zodanig met het desbetreffende vissersvaartuig verbonden, dat bij verbreking de reden daarvan wordt aangegeven; en  
 
 e. is goedgekeurd door een ter zake geaccrediteerde instelling en voldoet blijkens die goedkeuring aan de onderdelen a tot en met d.     
-4.  Wijzigingen aan de satellietvolgapparatuur worden schriftelijk gemeld aan de AID.   
-5.  De bevoegde autoriteit, bedoeld in artikel 25, derde tot en met vijfde lid, van de uitvoeringsverordening controleverordening, is de AID.   
+4.  Wijzigingen aan de satellietvolgapparatuur worden schriftelijk gemeld aan de NVWA.   
+5.  De bevoegde autoriteit, bedoeld in artikel 25, derde tot en met vijfde lid, van de uitvoeringsverordening controleverordening, is de NVWA.   
 
 ### Artikel  103  
 
@@ -1436,11 +1432,11 @@ Het is verboden in strijd te handelen met artikel 10, eerste lid, van de control
 4.  Bij aanlanding met een vissersvaartuig in een Nederlandse haven is de termijn voor indiening van de eerste kopie van het logboek, de eerste kopie van de aangifte van overlading en de eerste kopie van de aangifte van aanlanding, bedoeld in artikel 32, van de uitvoeringsverordening controleverordening binnen een half uur na de aanlanding maar vóór de lossing en de termijn voor indiening van het originele logboek, de originele aangifte van overlading en de originele aangifte van aanlanding, bedoeld in artikel 32, van de uitvoeringsverordening controleverordening, binnen 48 uur na aanlanding.   
 5.  De indiening van de in artikel 32, van de uitvoeringsverordening controleverordening bedoelde documenten geschiedt door deze in de haven van aanlanding: 
 
-a. te overhandigen aan een functionaris of aan een ambtenaar van de AID; of  
+a. te overhandigen aan een functionaris of aan een ambtenaar van de NVWA; of  
 
 b. te deponeren in een vangstopgavebus.     
-6.  Indien de aanlanding niet in een haven plaatsvindt, geschiedt de indiening door middel van toezending aan het dichtstbijzijnde havenkantoor van de AID of aan het havenkantoor van de AID in de plaats waar de desbetreffende vis wordt verkocht.   
-7.  De bevoegde autoriteit, bedoeld in de artikelen 14, zesde lid, 21, vierde lid, en 23, derde lid, van de controleverordening en in artikel 32 van de uitvoeringsverordening controleverordening, is de AID.   
+6.  Indien de aanlanding niet in een haven plaatsvindt, geschiedt de indiening door middel van toezending aan het dichtstbijzijnde havenkantoor van de NVWA of aan het havenkantoor van de NVWA in de plaats waar de desbetreffende vis wordt verkocht.   
+7.  De bevoegde autoriteit, bedoeld in de artikelen 14, zesde lid, 21, vierde lid, en 23, derde lid, van de controleverordening en in artikel 32 van de uitvoeringsverordening controleverordening, is de NVWA.   
 8.  Als omrekeningsfactoren als bedoeld in artikel 49, derde lid, van de uitvoeringsverordening controleverordening, worden vastgesteld de omrekeningsfactoren die zijn opgenomen in bijlage 10.   
 
 ### Artikel  105  
@@ -1449,21 +1445,21 @@ b. te deponeren in een vangstopgavebus.
 
 1.  Het is verboden in strijd te handelen met artikel 15, eerste en tweede lid, van de controleverordening en met de artikelen 36, eerste lid, 38, tweede lid, 39, eerste, tweede, vierde en vijfde lid, 40, derde lid, 41, derde en vierde lid, en 47 van de uitvoeringsverordening controleverordening.   
 2.  Het format, bedoeld in artikel 37, van de uitvoeringsverordening controleverordening, is het format dat door de minister beschikbaar wordt gesteld.   
-3.  De bevoegde autoriteit, bedoeld in artikel 15, eerste en tweede lid, van de controleverordening en in de artikelen 39, 40, 41, derde lid, en 47, eerste lid, van de uitvoeringsverordening controleverordening, is de AID.   
+3.  De bevoegde autoriteit, bedoeld in artikel 15, eerste en tweede lid, van de controleverordening en in de artikelen 39, 40, 41, derde lid, en 47, eerste lid, van de uitvoeringsverordening controleverordening, is de NVWA.   
 
 ### Artikel  106  
 
 ####Voorafgaande kennisgeving aanlanding
 
 1.  Het is verboden in strijd te handelen met de artikelen 17, eerste lid, en 18, eerste lid, van de controleverordening.   
-2.  De bevoegde autoriteit, bedoeld in de artikelen 17, eerste, tweede en derde lid, 18 en 19 van de controleverordening, is de AID.   
+2.  De bevoegde autoriteit, bedoeld in de artikelen 17, eerste, tweede en derde lid, 18 en 19 van de controleverordening, is de NVWA.   
 
 ### Artikel  107  
 
 ####Overladen
 
 1.  Het is verboden in strijd te handelen met artikel 20, eerste lid, van de controleverordening.   
-2.  Het is verboden vis over te laden zonder toestemming van een ambtenaar van de AID.   
+2.  Het is verboden vis over te laden zonder toestemming van een ambtenaar van de NVWA.   
 3.  Het verbod, bedoeld in het tweede lid, is van overeenkomstige toepassing in het geval het overladen is onderbroken.   
 4.  Als havens als bedoeld in artikel 20, eerste lid, van de controleverordening, worden aangewezen de voor de desbetreffende vissersvaartuigen op grond van artikel 6, tweede lid, toegelaten havens.   
 
@@ -1472,14 +1468,14 @@ b. te deponeren in een vangstopgavebus.
 ####Elektronisch invullen/verzenden aangifte van overlading
 
 1.  Het is verboden in strijd te handelen met artikel 22, eerste lid, van de controleverordening.   
-2.  De bevoegde autoriteit, bedoeld in artikel 22, eerste en vijfde lid, van de controleverordening, is de AID.   
+2.  De bevoegde autoriteit, bedoeld in artikel 22, eerste en vijfde lid, van de controleverordening, is de NVWA.   
 
 ### Artikel  109  
 
 ####Elektronisch invullen/verzenden aangifte van aanlanding
 
 1.  Het is verboden in strijd te handelen met artikel 24, eerste lid, van de controleverordening.   
-2.  De bevoegde autoriteit, bedoeld in 24, eerste lid, van de controleverordening, is de AID.   
+2.  De bevoegde autoriteit, bedoeld in 24, eerste lid, van de controleverordening, is de NVWA.   
 
 ### §  3  
 
@@ -1503,14 +1499,14 @@ d. het gereglementeerd gebied waar zal worden gevist.
 4.  Ingeval de kapitein van een vissersvaartuig of zijn vertegenwoordiger voornemens is in de beheersperiode hetzelfde type vistuig of dezelfde typen vistuigen te gebruiken als het type vistuig dat of de typen vistuigen die voor het desbetreffende gereglementeerd geografisch gebied is of zijn vermeld in de in artikel 97, bedoelde vismachtiging die betrekking heeft op de daaraan voorafgaande beheersperiode, wordt de kennisgeving tot verkrijging van die vismachtiging aangemerkt als kennisgeving als bedoeld in artikel 27, eerste lid, van de controleverordening.   
 5.  De gegevens die worden vermeld in de voor de beheersperiode af te geven vismachtiging worden gebaseerd op de meest recente kennisgeving.   
 6.  Ter verkrijging van de toestemming, bedoeld in artikel 27, tweede lid, van de controleverordening, meldt de kapitein van een vissersvaartuig of zijn vertegenwoordiger het voornemen tot het gebruik van meer dan één soort vistuig tijdens de visreis onmiddellijk voorafgaand aan de visreis aan de minister.   
-7.  In afwijking van het zesde lid wordt, ingeval de kapitein van een vissersvaartuig of zijn vertegenwoordiger de in het zesde lid bedoelde gegevens onmiddellijk voorafgaand aan de visreis op grond van artikel 15 van de controleverordening elektronisch heeft verstrekt, het in artikel 38, eerste lid, van de uitvoeringsverordening controleverordening bedoelde retourbericht van de AID, aangemerkt als toestemming als bedoeld in artikel 27, tweede lid, van de controleverordening.   
+7.  In afwijking van het zesde lid wordt, ingeval de kapitein van een vissersvaartuig of zijn vertegenwoordiger de in het zesde lid bedoelde gegevens onmiddellijk voorafgaand aan de visreis op grond van artikel 15 van de controleverordening elektronisch heeft verstrekt, het in artikel 38, eerste lid, van de uitvoeringsverordening controleverordening bedoelde retourbericht van de NVWA, aangemerkt als toestemming als bedoeld in artikel 27, tweede lid, van de controleverordening.   
 
 ### Artikel  111  
 
 ####Visserij-inspanningsverslag en uitputting van de visserij-inspanning
 
 1.  Het is verboden in strijd te handelen met de artikelen 28, eerste lid, en 30 van de controleverordening, en artikel 58, eerste lid, van de uitvoeringsverordening controleverordening.   
-2.  De bevoegde autoriteit, bedoeld in 28, eerste lid, van de controleverordening, is de AID.   
+2.  De bevoegde autoriteit, bedoeld in 28, eerste lid, van de controleverordening, is de NVWA.   
 
 ### Artikel  112  
 
@@ -1530,7 +1526,7 @@ c. de aard, datum van aanvang en duur van de activiteiten.
 
 ####Sluiting visserij
 
-1.  Met ingang van de op grond van artikel 35, eerste lid, van de controleverordening vastgestelde datum is het voor Nederlandse vissersvaartuigen verboden de visserij uit te oefenden op de vissoorten waarvoor voornoemde vaststelling geldt en die soorten aan boord te houden, over te laden en in Nederland aan te voeren.   
+1.  Met ingang van de op grond van artikel 35, eerste lid, van de controleverordening vastgestelde datum is het voor Nederlandse vissersvaartuigen verboden de visserij uit te oefenden op de vissoorten waarvoor voornoemde vaststelling geldt en die soorten aan boord te houden, over te laden en aan te landen.   
 2.  Het is verboden in strijd te handelen met een op grond van artikel 36, tweede lid, van de controleverordening vastgesteld verbod.   
 
 ### §  4  
@@ -1547,7 +1543,7 @@ Het is verboden in strijd te handelen met artikel 39, eerste lid, van de control
 
 ####Certificering motorvermogen
 
-gereserveerd  
+Het is verboden in strijd te handelen met artikel 40, vierde lid, van de controleverordening, en artikel 61, derde lid, van de uitvoeringsverordening controleverordening.  
 
 ### §  5  
 
@@ -1559,7 +1555,7 @@ gereserveerd
 
 1.  Het is verboden in strijd te handelen te handelen met de artikelen 42, eerste lid, en 43, tweede lid, en 44 van de controleverordening.   
 2.  Als havens als bedoeld in de artikelen 42, eerste lid, en 43, eerste lid, van de controleverordening, worden aangewezen de voor de desbetreffende vissersvaartuigen op grond van artikel 6, tweede lid, toegelaten havens mits het aanlanden of overladen plaatsvindt binnen de in bijlage 2 C bij die havens vermelde lostijden.   
-3.  Als waarnemer of functionaris als bedoeld in artikel 42, tweede lid, van de controleverordening, wordt aangewezen een functionaris van de AID.   
+3.  Als waarnemer of functionaris als bedoeld in artikel 42, tweede lid, van de controleverordening, wordt aangewezen een functionaris van de NVWA.   
 
 ### §  6  
 
@@ -1570,7 +1566,7 @@ gereserveerd
 ####Vistuig en samenstelling vangst
 
 1.  Het is verboden in strijd te handelen met de artikelen 47, 48, eerste tot en met derde lid, en 49, eerste lid, van de controleverordening.   
-2.  De bevoegde autoriteit, bedoeld in 48, derde lid, van de controleverordening, is de AID.   
+2.  De bevoegde autoriteit, bedoeld in 48, derde lid, van de controleverordening, is de NVWA.   
 
 ### Artikel  118  
 
@@ -1616,13 +1612,18 @@ Het is verboden in strijd te handelen met artikel 55, tweede lid, van de control
 
 ####Traceerbaarheid
 
-gereserveerd  
+1.  Het is verboden in strijd te handelen met artikel 58, eerste tot en met vijfde lid, van de controleverordening, en de artikelen 67, eerste tot en met vijfde en zevende lid, en 68, derde lid, van de uitvoeringsverordening controleverordening.   
+2.  Marktdeelnemers als bedoeld in artikel 4, negentiende lid, van de controleverordening beschikken over systemen en procedures, waarmee kan worden nagegaan van wie zij partijen visserij- en aquacultuurproducten als bedoeld in artikel 66 van de uitvoeringsverordening controleverordening hebben ontvangen en aan wie zij die producten hebben geleverd.   
+3.  In de in het tweede lid bedoelde systemen worden door de desbetreffende marktdeelnemer de in artikel 90 van deze regeling en de in artikel 58, vijfde lid, van controleverordening bedoelde gegevens vastgelegd.   
+4.  De in artikel 58, onderdelen g en h, van de controleverordening bedoelde gegevens zijn in het stadium van de detailhandel voor de consument beschikbaar en worden vermeld op het etiket of het identificatiemerk van de voor de detailverkoop aangeboden visserij- en aquacultuurproducten, dan wel voor zover het de wetenschappelijke naam van de soort op detailhandelniveau betreft, aan de hand van commerciële voorlichtingsmiddelen, zoals borden en posters.   
+5.  Dit artikel is niet van toepassing op hoeveelheden visserij- en aquacultuurproducten die rechtstreeks vanaf een vissersvaartuig aan consumenten worden verkocht, mits deze hoeveelheden per vissersvaartuig en per eindconsument niet meer dan € 50,– per kalenderdag vertegenwoordigen.   
 
 ### Artikel  123  
 
 ####Eerste verkoop visserijproducten
 
-Het is verboden in strijd te handelen met artikel 59, tweede lid, van de controleverordening.  
+1.  Alle visserijproducten die voor het eerst op de markt worden gebracht, worden geregistreerd in een visafslag dan wel worden verkocht aan geregistreerde kopers of producentenorganisaties.   
+2.  Het is verboden in strijd te handelen met artikel 59, tweede lid, van de controleverordening.   
 
 ### Artikel  124  
 
@@ -1630,7 +1631,7 @@ Het is verboden in strijd te handelen met artikel 59, tweede lid, van de control
 
 1.  Visserijproducten worden gewogen met apparatuur die ten genoegen van de minister is goedgekeurd, geijkt en verzegeld.   
 2.  Het is verboden in strijd te handelen met artikel 60, tweede en vijfde lid, van de controleverordening en met de artikelen 70, 71, eerste en tweede lid, 72, tweede en derde lid, 73, tweede lid, 74, 79, eerste lid, 80, eerste en tweede lid, 82, 83, 84, tweede en derde lid, 85, 86, en 87 van de uitvoeringsverordening controleverordening.   
-3.  De bevoegde autoriteit, bedoeld in artikel 60, zesde lid, van de controleverordening en de artikelen 75, 80, eerste lid, 81, 82, eerste lid, en 87, van de uitvoeringsverordening controleverordening, is de AID.   
+3.  De bevoegde autoriteit, bedoeld in artikel 60, zesde lid, van de controleverordening en de artikelen 75, 80, eerste lid, 81, 82, eerste lid, en 87, van de uitvoeringsverordening controleverordening, is de NVWA.   
 4.  Als havens als bedoeld in artikel 79, tweede lid, van de uitvoeringsverordening controleverordening, worden aangewezen de havens die zijn vermeld in bijlage 2 B. Het aanlanden of overladen vindt plaats binnen de in bijlage 2 C bij die havens vermelde lostijden.   
 5.  Het is verboden met een Nederlands vissersvaartuig vis van de in artikel 78 van de uitvoeringsverordening controleverordening genoemde soorten buiten de Europese Unie aan te landen in havens die niet uitdrukkelijk voor weging zijn geselecteerd door derde landen die voor deze soorten overeenkomsten met de Europese Unie hebben gesloten.   
 
@@ -1639,25 +1640,25 @@ Het is verboden in strijd te handelen met artikel 59, tweede lid, van de control
 ####Verkoopdocument
 
 1.  Het is verboden in strijd te handelen met de artikelen 62, eerste en vijfde lid, en 63, eerste lid, van de controleverordening en met artikel 90 van de uitvoeringsverordening controleverordening.   
-2.  Geregistreerde visafslagen als bedoeld in artikel 62, tweede lid, van de controleverordening registreren de in artikel 64, eerste lid, van de controleverordening genoemde gegevens elektronisch en geven deze elektronisch door aan de AID, overeenkomstig de recordstructuur die is opgenomen in bijlage 11.   
-3.  Het verkoopdocument, bedoeld in artikel 62, eerste lid, van de controleverordening bevat de gegevens, bedoeld in artikel 64, eerste lid, van de controleverordening, stemt overeen met de factuur of als zodanig dienstdoend document als bedoeld in de artikelen 218 en 219 van Richtlijn nr. 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEU L 347) en wordt binnen de in artikel 62, eerste lid genoemde termijn overhandigd aan een ambtenaar van de AID of gedeponeerd in een vangstopgavebus.   
-4.  De bevoegde autoriteit, bedoeld in de artikelen 62, eerste lid en vijfde lid, en 63, eerste lid, van de controleverordening en in artikel 87 van de uitvoeringsverordening controleverordening, is de AID.   
+2.  Geregistreerde visafslagen als bedoeld in artikel 62, tweede lid, van de controleverordening registreren de in artikel 64, eerste lid, van de controleverordening genoemde gegevens elektronisch en geven deze elektronisch door aan de NVWA, overeenkomstig de recordstructuur die is opgenomen in bijlage 11.   
+3.  Het verkoopdocument, bedoeld in artikel 62, eerste lid, van de controleverordening bevat de gegevens, bedoeld in artikel 64, eerste lid, van de controleverordening, stemt overeen met de factuur of als zodanig dienstdoend document als bedoeld in de artikelen 218 en 219 van Richtlijn nr. 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEU L 347) en wordt binnen de in artikel 62, eerste lid genoemde termijn overhandigd aan een ambtenaar van de NVWA of gedeponeerd in een vangstopgavebus.   
+4.  De bevoegde autoriteit, bedoeld in de artikelen 62, eerste lid en vijfde lid, en 63, eerste lid, van de controleverordening en in artikel 87 van de uitvoeringsverordening controleverordening, is de NVWA.   
 
 ### Artikel  126  
 
 ####Aangifte van overname
 
 1.  Het is verboden in strijd te handelen met de artikelen 66, eerste lid, en 67, eerste lid, van de controleverordening.   
-2.  De aangifte van overname, bedoeld in artikel 66, eerste lid van de controleverordening wordt binnen de in dat artikelonderdeel genoemde termijn overhandigd aan een ambtenaar van de AID of gedeponeerd in een vangstopgavebus.   
-3.  De bevoegde autoriteit, bedoeld in de artikelen 66, eerste lid, en 67, eerste lid, van de controleverordening, is de AID.   
+2.  De aangifte van overname, bedoeld in artikel 66, eerste lid van de controleverordening wordt binnen de in dat artikelonderdeel genoemde termijn overhandigd aan een ambtenaar van de NVWA of gedeponeerd in een vangstopgavebus.   
+3.  De bevoegde autoriteit, bedoeld in de artikelen 66, eerste lid, en 67, eerste lid, van de controleverordening, is de NVWA.   
 
 ### Artikel  127  
 
 ####Vervoersdocument
 
 1.  Het is verboden in strijd te handelen met artikel 68, eerste, derde, vijfde en zevende lid, van de controleverordening.   
-2.  Het vervoersdocument, bedoeld in artikel 68, eerste lid, van de controleverordening wordt binnen de in dat artikelonderdeel genoemde termijn overhandigd aan een ambtenaar van de AID of gedeponeerd in een vangstopgavebus.   
-3.  De bevoegde autoriteit, bedoeld in artikel 68, eerste, tweede, derde en zesde lid, van de controleverordening, is de AID.   
+2.  Het vervoersdocument, bedoeld in artikel 68, eerste lid, van de controleverordening wordt binnen de in dat artikelonderdeel genoemde termijn overhandigd aan een ambtenaar van de NVWA of gedeponeerd in een vangstopgavebus.   
+3.  De bevoegde autoriteit, bedoeld in artikel 68, eerste, tweede, derde en zesde lid, van de controleverordening, is de NVWA.   
 
 ### §  8  
 
@@ -1682,7 +1683,24 @@ Het is verboden in strijd te handelen met artikel 59, tweede lid, van de control
 
 ####Puntensysteem voor ernstige inbreuken
 
-gereserveerd  
+1.  De bevoegde autoriteit, bedoeld in artikel 125 van de uitvoeringsverordening controleverordening, is de minister.   
+2.  De voor echt verklaarde kopie, bedoeld in artikel 128 van de uitvoeringsverordening controleverordening, wordt op aanvraag van de desbetreffende houder van een visvergunning verstrekt door de minister.   
+3.  Het is verboden in strijd te handelen met artikel 130, tweede lid, van de uitvoeringsverordening controleverordening en met de op grond van artikel 132, eerste lid, van de uitvoeringsverordening controleverordening genomen maatregelen.   
+4.  De minister wijst de kapitein van een vissersvaartuig onder wiens gezag ernstige inbreuken als bedoeld in artikel 42, eerste lid, onderdeel a, van verordening nr. 1005/2008 zijn gepleegd, punten toe overeenkomstig bijlage XXX van de uitvoeringsverordening controleverordening.   
+5.  De artikelen 125, 126, tweede tot en met vijfde lid, 129, 130, eerste lid, 132, eerste lid, en 133, eerste en tweede lid, zijn van overeenkomstige toepassing op de in het vierde lid bedoelde kapitein.   
+6.  Indien aan een kapitein op grond van het vierde lid het navolgende aantal punten is toegewezen, is het hem gedurende de achter dat aantal vermelde periode verboden als kapitein op een vissersvaartuig te varen: 
+
+a. 18 punten: 2 maanden;  
+
+b. 36 punten: 4 maanden;  
+
+c. 54 punten: 8 maanden;  
+
+d. 72 punten: 12 maanden; en  
+
+e. 90 punten 3 jaren.     
+7.  Het is de houder van een visvergunning verboden een kapitein waarop het in het zesde lid bedoelde verbod betrekking heeft op het vissersvaartuig waarop de visvergunning betrekking heeft, als kapitein te laten varen gedurende de desbetreffende periode.   
+8.  Voor de toepassing van het vierde tot en met zevende lid en de artikelen 125 tot en met 134 van de uitvoeringsverordening controleverordening wordt onder kapitein verstaan, hetgeen daaronder wordt verstaan in [artikel 1, onderdeel h, van de Zeevaartbemanningswet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md).   
 
 ### Hoofdstuk  7  
 
@@ -1700,6 +1718,12 @@ gereserveerd
 2.  Een verzoek tot uitreiking van een machtiging als bedoeld in artikel 3 en een verzoek tot machtiging als bedoeld in artikel 11, eerste lid, van verordening nr. 1006/2008, wordt ingediend bij de minister.   
 3.  Het is verboden in strijd te handelen met de artikelen 2, eerste lid, 3, 4, 7, 8, 10 en 11 van verordening nr. 201/2010.   
 4.  De minister trekt de machtiging, bedoeld in artikel 11, eerste lid, van verordening nr. 1006/2008, in ieder geval in indien een vissersvaartuig is opgenomen op de lijst van IOO-vaartuigen, bedoeld in artikel 27 van verordening nr. 1005/2008.   
+
+### Artikel  131a  
+
+####Maatregelen ten aanzien van derde landen die niet-duurzame visserij toelaten
+
+Het is verboden in strijd te handelen met op grond van artikel 4 van verordening nr. 1026/2012 vastgestelde maatregelen.  
 
 ### §  2  
 
@@ -1721,9 +1745,9 @@ Het is verboden in strijd te handelen met artikel 2 van verordening nr. 827/200
 
 1.  Het is verboden in strijd te handelen met de artikelen 5, tweede lid, 6, eerste en tweede lid, 8, eerste lid, en 10, vijfde lid, van verordening nr. 1005/2008.   
 2.  Als havens als bedoeld in artikel 5, eerste lid, van verordening nr. 1005/2008, worden aangewezen de voor de desbetreffende vissersvaartuigen op grond van artikel 6, tweede lid, toegelaten havens.   
-3.  De voorafgaande kennisgeving, bedoeld in artikel 6, eerste lid, van verordening nr. 1005/2008, geschiedt door verzending van een door de desbetreffende kapitein ondertekend elektronisch of faxbericht aan de meldkamer van de AID te Kerkrade.   
-4.  Het is voor vissersvaartuigen van derde landen verboden de haven binnen te varen of zijn vangst aan te landen of over te laden zonder door een ambtenaar van de AID verleende toestemming als bedoeld in artikel 7, eerste lid, onderscheidenlijk artikel 11, tweede lid, van verordening nr. 1005/2008.   
-5.  De aangifte, bedoeld in artikel 8, eerste lid, wordt ingediend bij de meldkamer van de AID te Kerkrade met gebruikmaking van het in artikel 3, eerste lid, van verordening nr. 1010/2009, bedoelde formulier indien de aangifte betrekking heeft op aanlanding, dan wel met gebruikmaking van het in artikel 3, tweede lid, van verordening nr. 1010/2009, bedoelde formulier indien de aangifte betrekking heeft op overlading.   
+3.  De voorafgaande kennisgeving, bedoeld in artikel 6, eerste lid, van verordening nr. 1005/2008, geschiedt door verzending van een door de desbetreffende kapitein ondertekend elektronisch of faxbericht aan de meldkamer van de NVWA te Kerkrade.   
+4.  Het is voor vissersvaartuigen van derde landen verboden de haven binnen te varen of zijn vangst aan te landen of over te laden zonder door een ambtenaar van de NVWA verleende toestemming als bedoeld in artikel 7, eerste lid, onderscheidenlijk artikel 11, tweede lid, van verordening nr. 1005/2008.   
+5.  De aangifte, bedoeld in artikel 8, eerste lid, wordt ingediend bij de meldkamer van de NVWA te Kerkrade met gebruikmaking van het in artikel 3, eerste lid, van verordening nr. 1010/2009, bedoelde formulier indien de aangifte betrekking heeft op aanlanding, dan wel met gebruikmaking van het in artikel 3, tweede lid, van verordening nr. 1010/2009, bedoelde formulier indien de aangifte betrekking heeft op overlading.   
 
 ### Artikel  134  
 
@@ -1789,7 +1813,7 @@ c. het vangstdocument, bedoeld in artikel 3, onderdeel b, van verordening nr. 1
 ####Maatregelen tegen bij IUU betrokken vaartuigen en staten
 
 1.  Het is verboden in strijd te handelen met de artikelen 4, tweede tot en met vierde lid, 37, aanhef en onderdelen 3 tot en met 6, 9 en 10, 38, aanhef en onderdelen 1 tot en met 3 en 5 tot en met 7, 39, eerste lid, 40, tweede lid, en 48, vierde lid, van verordening nr. 1005/2008.   
-2.  Indien een vissersvaartuig van een derde land is opgenomen op de lijst van IOO-vaartuigen, bedoeld in artikel 27 van verordening nr. 1005/2008, is het voor dat vissersvaartuig verboden om zonder door een ambtenaar van de AID verleende toestemming als bedoeld in artikel 37, onderdeel 7, van die verordening, de bemanning te vervangen.   
+2.  Indien een vissersvaartuig van een derde land is opgenomen op de lijst van IOO-vaartuigen, bedoeld in artikel 27 van verordening nr. 1005/2008, is het voor dat vissersvaartuig verboden om zonder door een ambtenaar van de NVWA verleende toestemming als bedoeld in artikel 37, onderdeel 7, van die verordening, de bemanning te vervangen.   
 3.  Het is een vissersvaartuig dat is opgenomen op de lijst van IOO-vaartuigen, bedoeld in artikel 27 van verordening nr. 1005/2008, verboden de Nederlandse vlag te voeren.   
 4.  Het is een Nederlands vissersvaartuig verboden charterovereenkomsten te sluiten met derde landen die zijn opgenomen op de lijst van niet-meewerkende derde landen, bedoeld in artikel 33 van verordening nr. 1005/2008.   
 5.  Het is verboden in strijd te handelen met een krachtens artikel 36 van verordening nr. 1005/2008 vastgestelde noodmaatregel.   
@@ -1815,7 +1839,7 @@ a. artikel 59, tweede lid, van de controleverordening; en
 
 b. artikel 15, eerste lid, van verordening nr. 1005/2008.     
 2.  De in het eerste lid, onderdeel a, bedoelde medewerking bestaat uit het registreren van de kopers van visserijproducten van een vaartuig bij eerste verkoop, bedoeld in artikel 59, tweede lid, van de controleverordening.   
-3.  De in het eerste lid, onderdeel b, bedoelde medewerking bestaat uit het overeenkomstig artikel 12, vierde lid, van verordening nr. 1005/2008 valideren van vangstcertificaten voor zover deze certificaten betrekking hebben op de vangst van garnalen of van platvis.   
+3.  De in het eerste lid, onderdeel b, bedoelde medewerking bestaat uit het overeenkomstig artikel 12, vierde lid, van verordening nr. 1005/2008 valideren van vangstcertificaten voor zover deze certificaten betrekking hebben op de vangst van garnalen.   
 4.  In afwijking van artikel 138, derde lid, wordt het in dat lid bedoelde verzoek tot validatie, voor zover het betrekking heeft op de in het derde lid van dit artikel bedoelde vissoorten, ingediend bij het Productschap Vis.   
 5.  Het Productschap Vis neemt terzake van het de uitvoering van het medebewind de aanwijzingen van de minister in acht.   
 
@@ -2153,332 +2177,327 @@ Nieuwe Statenzijl (gemeente Reiderland) Noordpolderzijl (gemeente Eemsmond) De C
 
 ### Bijlage  4  
 
-####Vangstverboden voor de Nederlandse vissers voor het kalenderjaar 2011 op de vissoorten, bedoeld in artikel 10, eerste lid , van de Uitvoeringsregeling zeevisserij
+####Vangstverboden voor het kalenderjaar 2013 op de vissoorten, bedoeld in artikel 10, eerste lid, van de Uitvoeringsregeling zeevisserij 
 
-| Vissoort  | Gebied  |
-|:---|:---|
-|  *Alaska pollak*    *Theragra chalcogramma*   | De Beringzee  |
-| --- | --- |
-|  *Amerikaanse/Lange schol*    *Hippoglossoides platessoides*   | NAFO gebieden 3LMNO  |
-| --- | --- |
-|  *Ansjovis*    *Engraulis encrasicolus*   | ICES gebieden IX en X en de EU wateren van het CECAF gebied 34.1.1  |
-| --- | --- |
-|  *Antarctische ijsheken*    *Dissostichus spp.*   | Antarctische wateren van het FAO gebied 48.4  |
-| --- | --- |
-|  *Atlantische heilbot*    *Hippoglossus hippoglossus*   | Groenlandse wateren van de ICES gebieden V en XIV en de Groenlandse wateren van de NAFO gebieden 0 en 1  |
-| --- | --- |
-|  *Atlantische slijmkop*    *Hoplostethus atlanticus*   | EU wateren en internationale wateren van de ICES gebieden I, II, III, IV, V, VI, VII, VIII, IX, X, XII, XIV en het SEAFO gebied  |
-| --- | --- |
-|  *Beryciden*    *Beryx spp.*   | EU wateren en internationale wateren van de ICES gebieden III, IV, V, VI, VII, VIII, IX, X, XII, XIV en het SEAFO gebied  |
-| --- | --- |
-|  *Blauwe marlijn*    *Makaira nigricans*   | Atlantische Oceaan  |
-| --- | --- |
-|  *Blauwe leng*    *Molva dypterygia*   | ICES gebied III en de Noorse wateren van de ICES gebieden IIa en IV  |
-| --- | --- |
-|  *Blauwe wijting*    *Micromesistius poutassou*   | Wateren van de Faerøer en de ICES gebieden VIIIc, IX, X en de EU wateren van het CECAF gebied 34.1.1  |
-| --- | --- |
-|  *Blauwvintonijn*    *Thunnus thynnus*   | Atlantische Oceaan, ten oosten van 45º WL en de Middellandse Zee  |
-| --- | --- |
-|  *Chileense horsmakreel*    *Tracherus murphyi*   | SPFO gebied  |
-| --- | --- |
-|  *Diepzeehaaien*    *Portugese hondshaai*    *Centroscymnus coelolepis*    *Donkere doornhaai*    *Centrophorus squamosus*    *Spitssnuitsnavelhaai*    *Deania calceus*    *Zwarte haai*    *Dalatias licha*   | EU wateren en internationale wateren van de ICES gebieden V, VI, VII, VIII, IX en X  |
-|  *Grote lantaarnhaai*    *Etmopterus princeps*    *Zwarte doornhaai*    *Etmopterus spinax*    *Doornhaai*    *Centroscyllium fabricii*    *Ruwe doornhaai*    *Centrophorus granulosos*   | --- |
-|  *Spaanse hondshaai*    *Galeus melastomus*    *Muiskathaai*    *Galeus murinus*    *IJslandse hondshaaien*    *Apristuris spp.*    *Langsnuitdoornhaai*    *Centrocymmus crepidater*   | --- |
-|  *Groenlands haai*    *Sonmousus microcephalus*    *Franjehaai*    *Chlamydoselachus anguineus*    *Zeskieuwige koehaai*    *Hexanchus griseus*    *Grootvindoornhaai*    *Oxynotus paradoxus*    *Mestandijshaai*    *Scymnodon ringens*   | --- |
-| --- | --- |
-|  *Diepzeehaaien*    *Roggen*    *Rajida*    *Gevlekte gladde lantaarnhaai*    *Etmopterus bigelowi*    *Kortstaartlantaarnhaai*    *Etmopterus brachyurus*    *Grote lantaarnhaai*    *Etmopterus princeps*   | SEAFO gebied  |
-|  *Gladde lantaarnhaai*    *Etmopterus pusillus*    *Spookkathaai*    *Apristurus manis*    *Fluweelijshaai*    *Scymnodon squamulosus*    *Diepzeehaaien van de superorde*    *Selachimorpha*   | --- |
-| --- | --- |
-|  *Diepzeehaaien en*    *Deania histricosa en Deania profondorum*   | EU wateren en internationale wateren van het ICES gebied XII  |
-| --- | --- |
-|  *Doornhaai*    *Squalus accanthias*   | ICES gebieden I, II, III, IV, V, VI, VII, VIII, XII, XIV en SEAFO gebied  |
-| --- | --- |
-|  *Gaffelkabeljauwen*    *Phycis spp.*   | EU wateren en internationale wateren van de ICES gebieden I, II, III, IV, V, VI, VII, VIII, IX, X en XII  |
-| --- | --- |
-|  *Geelstaartschar*    *Limanda ferruginea*   | NAFO gebieden 3LNO  |
-| --- | --- |
-|  *Gitaarrog*    *Rhinobatidae*   | EU wateren I, II, III, IV, V, VI, VII, VIII, IX, X en XII  |
-| --- | --- |
-|  *Golfrog*    *Raja undulata*   | EU wateren van de ICES gebieden VI, VII, VIII, IX en X  |
-| --- | --- |
-|  *Grenadiers*    *Macrourus spp.*   | Antarctische wateren van het FAO gebied 58.5.2  |
-| --- | --- |
-|  *Grenadiersvis*    *Coryphaenoides rupestris*   | EU wateren en internationale wateren van de ICES gebieden I, II, III, IV, VIII, IX, X, XIIa, XII, XIV  |
-| --- | --- |
-|  *Grijze zuidpoolkabeljauw*    *Lepidonotothen squamifrons*   | Antarctische wateren van het FAO gebied 58.5.2  |
-| --- | --- |
-|  *Groenlandse heilbot/Zwarte heilbot*    *Reinhardtius hippoglossoides*   | Noorse wateren en internationale wateren van de ICES gebieden I en II, de EU wateren van de ICES gebieden IIa en IV, de EU wateren en internationale wateren van de ICES gebieden Vb en VI, de Groenlandse wateren van de ICES gebieden V en XIV, de Groenlandse wateren van de NAFO gebieden 0 en 1 en de NAFO gebieden 3LMNO  |
-| --- | --- |
-|  *Grootoogtonijn*    *Thunnus obesus*   | Atlantische Oceaan  |
-| --- | --- |
-|  *Haring*    *Clupea harengus*   | ICES gebieden IIIa, VI Clyde, VIIa, VIIe en VIIf  |
-| --- | --- |
-|  *Haringhaai*    *Langna nasus*   | Internationale wateren en de EU wateren van I, II, III, IV, V, VI, VII, VIII, IX en X, XII en XIV  |
-| --- | --- |
-|  *Heek*    *Merluccius merluccius*   | ICES gebieden III, VIIIc, IX, X en de EU wateren van het CECAF gebied 34.1.1  |
-| --- | --- |
-|  *Horsmakreel*    *Trachurus spp.*   | ICES gebieden VIIIc, IX, X en de EU wateren van CECAF  |
-| --- | --- |
-|  *IJsvis*    *Champsocephalus gunnari*   | Antarctische wateren van de FAO gebieden 48.3 en 58.5.2  |
-| --- | --- |
-|  *Kabeljauw*    *Gadus morhua*   | Noorse wateren van de ICES gebieden I en II, het Kattegat de ICES gebieden IIIb, IIIc, IIId, V, VI en VIIa, de EU wateren en internationale wateren van de ICES gebieden XII en XIV, de Groenlandse wateren van het ICES gebied, V en XIV, de Groenlandse wateren van de NAFO gebieden 0 en 1 en de NAFO gebieden 2J en 3KLMNO  |
-| --- | --- |
-|  *Kabeljauw en schelvis*    *Gadus morhua en Melanogrammus aeglefinus*   | Faeröer-wateren van het ICES gebied Vb  |
-| --- | --- |
-|  *Kever*    *Trisopterus esmarki*   | Noorse wateren van het ICES gebied IV, ICES gebied IIIa en de EU wateren van IIa en IV  |
-| --- | --- |
-|  *Koolvis*    *Pollachius virens*   | Het Kattegat, ICES gebieden IIIb, IIIc, IIId, VI, VII, VIII, IX, X, de Noorse wateren en de internationale wateren van de ICES gebieden I en II, de EU wateren en internationale wateren van de ICES gebieden Vb, XII en XIV en de EU wateren van het CECAF gebied 34.1.1 en de Faeröer-wateren van ICES gebied Vb  |
-| --- | --- |
-|  *Kortvinnige pijlinktvis*    *Illex illecebrosus*   | NAFO gebieden 3 en 4  |
-| --- | --- |
-|  *Krabben*    *Paralomis spp.*   | Antarctische wateren van het FAO gebied 48.3  |
-| --- | --- |
-|  *Krielgarnaal*    *Euphausia superba*   | FAO gebied 48 en de Antarctische wateren van de FAO gebieden 58.4.1 en 58.4.2  |
-| --- | --- |
-|  *Langoestine*    *Nephrops norvegicus*   | Noorse wateren van ICES gebied IV, de EU wateren en internationale wateren van ICES gebied Vb, de ICES gebieden III, VI, VII, VIII, IX, X en de EU wateren van het CECAF gebied 34.1.1  |
-| --- | --- |
-|  *Langsnuit ijsvis*    *Channichthys rhinoceratus*   | FAO gebied 58.5.2  |
-| --- | --- |
-|  *Leng*    *Molva molva*   | EU wateren en internationale wateren van de ICES gebieden III, V, VI, VII, VIII, IX, X, XII en XIV  |
-| --- | --- |
-|  *Leng en Blauwe leng*    *Molva molva en Molva dypterygia*   | Faeröer-wateren van het ICES gebied Vb  |
-| --- | --- |
-|  *Lodde*    *Mallotus villosus*   | ICES gebied IIb, de Groenlandse wateren van de ICES gebieden V en XIV en de wateren van de NAFO gebieden 3NO  |
-| --- | --- |
-|  *Makreel*    *Scomber scombrus*   | De wateren van de Faeröer van het ICES gebied Vb,de ICES gebieden VIIIc, IX, X en de EU wateren van het CECAF gebied 34.1.1  |
-| --- | --- |
-|  *Noordse garnaal*    *Pandalus borealis*   | Noorse wateren van de ICES gebieden IV, en ICES gebied III, de Groenlandse wateren van de ICES gebieden V en XIV en de Groenlandse wateren van de NAFO gebieden 0, 1 en 3LM  |
-| --- | --- |
-|  *Peneide garnalen*    *Penaeus spp.*   | De wateren van Frans Guyana  |
-| --- | --- |
-|  *Platvis*    *Pleuronectiformes*   | Faeröer-wateren van het ICES gebied Vb  |
-| --- | --- |
-|  *Pollak*    *Pollachius pollachius*   | EU wateren en internationale wateren van het ICES gebied Vb, de ICES gebieden VI, VII, VIII, IX, X, de internationale wateren van de ICES gebieden XII en XIV en de EU wateren van het CECAF gebied 34.1.1  |
-| --- | --- |
-|  *Reuzenhaai*    *Cetorinhus maximus*   | Alle EU wateren en niet EU wateren  |
-| --- | --- |
-|  *Roggen*    *Rajidae*   | EU wateren van de ICES gebieden III, VIII en IX en de Antarctische wateren van het FAO gebied 58.5.2 en de NAFO gebieden 3LNO  |
-| --- | --- |
-|  *Rode diepzeekrab*    *Chaceon maritae*   | SEAFO gebied  |
-| --- | --- |
-|  *Roodbaarzen*    *Sebastes spp.*   | EU wateren en internationale wateren van het ICES gebied V en de internationale wateren van de ICES gebieden XII en XIV, de IJslandse wateren van het ICES gebied Va, de ICES gebieden I en II, de Groenlandse wateren van de ICES gebieden V en XIV en de NAFO gebieden 2 (sectoren 1F en 3K) en 3LMNO en de wateren van de Faeröer  |
-| --- | --- |
-|  *Schartongen*    *Lepidorhombus spp.*   | EU wateren en internationale wateren van het ICES gebied Vb, de ICES gebieden VI, VII, VIII, IX, X, de internationale wateren van de ICES gebieden XII en XIV en de EU wateren van het CECAF gebied 34.1.1  |
-| --- | --- |
-|  *Schelvis*    *Melanogrammus aeglefinus*   | Noorse wateren van de ICES gebieden I en II, het Kattegat, de EU wateren en internationale wateren van de ICES gebieden IIIbcd, Vb, VI, VII, VIII, IX, X, XII, XIV, de Faeröer-wateren en de EU wateren van het CECAF gebied 34.1.1  |
-| --- | --- |
-|  *Schol*    *Pleuronectes platessa*   | Het Kattegat, de EU wateren en internationale wateren van het ICES gebied Vb, de ICES gebieden I, IIIb, IIIc, IIId, VI, VII, VIII, IX, X, de internationale wateren van de ICES gebieden XII en XIV en de EU wateren van het CECAF gebied 34.1.1  |
-| --- | --- |
-|  *Sneeuwkrabben*    *Chionoecetes spp.*   | Groenlandse wateren van de NAFO gebieden 0 en 1  |
-| --- | --- |
-|  *Sprot*    *Sprattus sprattus*   | ICES gebied IIIa  |
-| --- | --- |
-|  *Tong*    *Solea solea*   | Het Kattegat, de ICES gebieden IIIb, IIIc, IIId, Noorse wateren van het ICES gebied IV, de EU wateren en internationale wateren van het ICES gebied Vb, de ICES gebieden VI, VII, VIII, IX, X en de internationale wateren van de ICES gebieden XII en XIV en de EU wateren van het CECAF gebied 34.1.1  |
-| --- | --- |
-|  *Tong*    *Solea Idae*   | ICES gebieden VIII, IX, X en de EU wateren van het CECAF gebied 34.1.1  |
-| --- | --- |
-|  *Torsk*    *Brosme brosme*   | EU wateren van het ICES gebied III en de Noorse wateren van de ICES gebieden IIa en IV  |
-| --- | --- |
-|  *Vleet*    *Raja Batis*   | EU wateren van de ICES gebieden IIa, III, IV, VI, VII, VIII, IX en X  |
-| --- | --- |
-|  *Voshaaien*    *Alopiidae*   | IOTC gebied  |
-| --- | --- |
-|  *Wijting*    *Merlangius merlangus*   | Het Kattegat, de EU wateren en internationale wateren van het ICES gebied Vb, de ICES gebieden IIIb, IIIc, IIId, VI, VIIa, VIII, IX en X, de internationale wateren van de ICES gebieden XII en XIV en de EU wateren van het CECAF gebied 34.1.1  |
-| --- | --- |
-|  *Witje*    *Glyptocephalus cynoglossus*   | NAFO gebieden 2J en 3KLNO  |
-| --- | --- |
-|  *Witte haai*    *Carcharodon carcharias*   | In alle EU wateren en niet EU wateren  |
-| --- | --- |
-|  *Witte rog*    *Rostroraja alba, Raja alba*   | EU wateren van de ICES gebieden VI, VII, VIII, IX en X  |
-| --- | --- |
-|  *Witte tonijn*    *Thunnus alalunga*   | Atlantische Oceaan  |
-| --- | --- |
-|  *Witte heek*    *Urophysic tenuis*   | NAFO gebieden 3NO  |
-| --- | --- |
-|  *Witte marlijn*    *Tetrapturus alba*   | Atlantische Oceaan  |
-| --- | --- |
-|  *Zandspiering en geassocieerde bijvangst*    *Ammodytidae*   | Noorse wateren en EU wateren van het ICES gebied IV en de EU wateren van de ICES gebieden IIa en IIIa  |
-| --- | --- |
-|  *Zeebrasem*    *Pallelus bogaraveo*   | EU wateren en internationale wateren van de ICES gebieden IX en X  |
-| --- | --- |
-|  *Zeeduivel*    *Lophiidae*   | ICES gebieden VIII, IX en X en de EU wateren van het CECAF gebied 34.1.1  |
-| --- | --- |
-|  *Zee engel*    *Squatina squtina*   | Alle EU wateren  |
-| --- | --- |
-|  *Zwaardvis*    *Xiphias gladius*   | Atlantische Oceaan en de Stille Oceaan  |
-| --- | --- |
-|  *Zwarte haarstaartvis*    *Aphanopus carbo*   | EU wateren en internationale wateren van de ICES gebieden I, II, III, IV, VIII, IX, X en het CECAF gebied 34.1.2  |
-| --- | --- |
-|  *Zwarte patagonische ijsvis*    *Dissostichus eleginoides*   | Antarctische wateren van de FAO gebieden 48.3, 48.4 en 58.5.2 en de SEAFO  |
-| --- | --- |
-|  *Zuidelijke blauwvintonijn*    *Thunnus Maccoyii*   | Alle gebieden  |
+*Voor de met een asterisk gemarkeerde bestanden geldt een vangstverbod voor alle vissersvaartuigen, Nederlands of niet-Nederlands.*   *Voor de niet met een asterisk gemarkeerde bestanden geldt een vangstverbod voor Nederlandse vissersvaartuigen*   
+
+| Vissoort  | Gebied  |--- |
+|:---|:---|:---|
+|  *Alaska pollak*    *Theragra chalcogramma*   | De Beringzee  | --- |
+|  *Amerikaanse/Lange schar*    *Hippoglossoides platessoides*   | De NAFO gebieden 3LMNO  | --- |
+|  *Ansjovis*    *Engraulis encrasicolus*   | De ICES gebieden IX, X en de EU wateren van het CECAF gebied 34.1.1  | --- |
+|  *Antarctische ijsvis*    *Champsocephalus gunnari*   | De Antarctische wateren van het FAO gebied 48.3 en 58.5.2  | --- |
+|  *Antarctische ijsheken*    *Dissostichus spp.*   | De Antarctische wateren van het FAO gebied 48.4  | --- |
+|  *Atlantische heilbot*    *Hippoglossus hippoglossus*   | De Groenlandse wateren van de ICES gebieden V, XIV en van NAFO gebied 1  | --- |
+|  *Atlantische slijmkop **    *Hoplostethus atlanticus*   | De EU wateren en internationale wateren van de ICES gebieden I, II, III, IV, V, VI, VII, VIII, IX, X, XII, XIV en het SEAFO verdragsgebied  | --- |
+|  *Beryciden*    *Beryx spp.*   | De EU wateren en internationale wateren van de ICES gebieden III, IV, V, VI, VII, VIII, IX, X, XII, XIV en het SEAFO verdragsgebied  | --- |
+|  *Blauwe marlijn*    *Makaira nigricans*   | De Atlantische Oceaan  | --- |
+|  *Blauwe leng*    *Molva dypterygia*   | Het ICES gebied III en de Noorse wateren van de ICES gebieden IIa en IV  | --- |
+|  *Blauwe wijting*    *Micromesistius poutassou*   | De EU wateren van het ICES gebied VIIIc en de EU wateren van het CECAF gebied 34.1.1  | --- |
+|  *Blauwvintonijn*    *Thunnus thynnus*   | De Atlantische Oceaan en de Middellandse Zee  | --- |
+|  *Evervissen*    *Caproidae*   | De EU wateren en internationale wateren van de ICES gebieden VI, VII en VIII  | --- |
+|  *Gaffelkabeljauwen*    *Phycis spp.*   | De EU wateren en internationale wateren van de ICES gebieden I, II, III, IV, V, VI, VII, VIII, IX, X en XII  | --- |
+|  *Geelstaartschar*    *Limanda ferruginea*   | De NAFO gebieden 3LNO  | --- |
+|  *Gemarmerde Zuidpoolkabeljauw*    *Notothenia rossii*   | De Antarctische wateren van FAO gebieden 48.3  | --- |
+|  *Georgia-ijsvis*    *Pseudochaenichthys georgianus*   | De Antarctische wateren van FAO gebied 48.3  | --- |
+|  *Grenadiers*    *Macrourus spp.*   | Groenlandse wateren van de ICES gebieden V en XIV en NAFO 1 en de Antarctische wateren van het FAO gebied 58.5.2  | --- |
+|  *Grenadiersvis*    *Coryphaenoides rupestris*   | De EU wateren en internationale wateren van de ICES gebieden I, II, III, IV, VIII, IX, X, XII en XIV  | --- |
+|  *Grijze zuidpoolkabeljauw*    *Lepidonotothen squamifrons*   | De Antarctische wateren van het FAO gebied 48.3 en 58.5.2  | --- |
+|  *Groene Zuidpoolkabeljauw*    *Gobionotothen gibberifrons*   | De Antarctische wateren van FAO gebied 48.3  | --- |
+|  *Groenlandse heilbot/Zwarte heilbot*    *Reinhardtius hippoglossoides*   | De Noorse wateren en internationale wateren van de ICES gebieden I en II, de EU wateren van de ICES gebieden IIa en IV, de EU wateren en internationale wateren van de ICES gebieden Vb en VI, de Groenlandse wateren van de ICES gebieden V, XIV en NAFO gebied 1 en de NAFO gebieden 3LMNO  | --- |
+|  *Grootoogtonijn*    *Thunnus obesus*   | De Atlantische Oceaan  | --- |
+|  *HAAIEN*   | --- |
+| Diepzeehaaien  | De EU en internationale wateren van V, VI, VII, VIII, IX en X  | --- |
+| *Diepzeehaaien* en*   *Deania histricosa*   *en*   *Deania profondorum*  | De Internationale wateren van het ICES gebied XII  | --- |
+|  *Diepzeehaaien van de superorde*   *Selachimorpha* *  | Het SEAFO verdragsgebied  | --- |
+|  *Doornhaai**    *Squalus accanthias*   | De ICES gebieden I, II, III, IV, V, VI, VII, VIII, IX, X, XII, XIV en SEAFO verdragdsgebied  | --- |
+|  *Doornhaai* gevangen met longlines*    *Squalus accanthias*   | De ICES gebieden I, II, IV, V, VI, VII, VIII, XII, XIV  | --- |
+|  *Donkere doornhaai**    *Centrophorus squamosus*   | De EU wateren en internationale wateren van de ICES gebieden V, VI, VII, VIII, IX, X  | 1)  |
+|  *Donkere doornhaai* gevangen met longlines*    *Centrophorus squamosus*   | De ICES gebieden I, II, IV, V, VI, VII, VIII, XII, XIV  | --- |
+|  *Fluweelijshaai**    *Scymnodon squamulosus*   | Het SEAFO verdragsgebied  | --- |
+|  *Franjehaai**    *Chlamydoselachus anguineus*   | De EU wateren en internationale wateren van de ICES gebieden V, VI, VII, VIII, IX, X  | 1)  |
+|  *Gevlekte gladde lantaarnhaai**    *Etmopterus bigelowi*   | Het SEAFO verdragsgebied  | --- |
+|  *Gladde lantaarnhaai**    *Etmopterus pusillus*   | De EU wateren van IIa en IV, de EU en internationale wateren van I, V, VI, VII, VIII, XII, XIV en het SEAFO verdragsgebied  | --- |
+|  *Gladde lantaarnhaai* gevangen met longlines*    *Etmopterus pusillus*   | De ICES gebieden I, II, IV, V, VI, VII, VIII, XII, XIV  | --- |
+|  *Groenlands haai**    *Sonmousus microcephalus*   | De EU wateren en internationale wateren van de ICES gebieden V, VI, VII, VIII, IX, X  | 1)  |
+|  *Grootoogvoshaaien**    *Alopias Super Ciliosus*   | Het ICCAT verdragsgebied  | --- |
+|  *Grootvindoornhaai**    *Oxynotus paradoxus*   | De EU wateren en internationale wateren van de ICES gebieden V, VI, VII, VIII, IX, X  | 1)  |
+|  *Grote lantaarnhaai**    *Etmopterus princeps*   | De EU wateren van IIa en IV, de EU wateren en internationale wateren van de ICES gebieden I, V, VI, VII, VIII, IX, X, XII, XIV en het SEAFO verdragsgebied  | 1)  |
+|  *Grote lantaarnhaai* gevangen met longlines*    *Etmopterus princeps*   | De ICES gebieden I, II, IV, V, VI, VII, VIII, XII, XIV  | --- |
+|  *Hamerhaaien**   *Sphyrnidae* (m.u.v. de kaphamerhaai *Sphyrna tiburo)*  | Het ICCAT verdragsgebied  | --- |
+|  *Haringhaai**    *Lamna nasus*   | Alle wateren  | --- |
+|  *IJslandse hondshaaien**    *Apristuris spp.*   | De EU wateren en internationale wateren van de ICES gebieden V, VI, VII, VIII, IX, X  | 1)  |
+|  *Kortstaartlantaarnhaai*    *Etmopterus brachyurus*   | Het SEAFO verdragsgebied  | --- |
+|  *Langsnuitdoornhaai**    *Centrocymmus crepidater*   | De EU wateren en internationale wateren van de ICES gebieden V, VI, VII, VIII, IX, X  | 1)  |
+|  *Mestandijshaai**    *Scymnodon ringens*   | De EU wateren en internationale wateren van de ICES gebieden V, VI, VII, VIII, IX, X  | 1)  |
+|  *Muiskathaai**    *Galeus murinus*   | De EU wateren en internationale wateren van de ICES gebieden V, VI, VII, VIII, IX, X  | 1)  |
+|  *Portugese ijshaai**    *Centroscymnus coelolepis*   | De EU wateren van ICES gebieden IIa en IV en de EU wateren en internationale wateren van de ICES gebieden I, V, VI, VII, VIII, IX, X. XII en XIV  | 1)  |
+|  *Portugese ijhaai* gevangen met longlines*    *Centroscymnus coelolepis*   | De ICES gebieden I, II, IV, V, VI, VII, VIII, XII, XIV  | --- |
+|  *Reuzenhaai**    *Cetorinhus maximus*   | Alle EU wateren en niet EU wateren  | --- |
+|  *Ruwe haai*    *Galeorhinus galeus*   | De EU wateren van ICES gebieden IIa en IV en de EU en internationale wateren van I, V, VI, VII, VIII, XII en XIV  | --- |
+|  *Ruwe doornhaai**    *Centrophorus granulosos*   | De EU wateren en internationale wateren van de ICES gebieden V, VI, VII, VIII, IX, X  | 1)  |
+|  *Ruwe haai* gevangen met longlines*    *Galeorhinus galeus*   | De ICES gebieden I, II, IV, V, VI, VII, VIII, XII, XIV  | --- |
+|  *Schubzwelghaai**    *Centrophorus squamosus*   | De EU wateren van IIa en IV en de EU en internationale wateren van I, V, VI, VII, VIII, XII en XIV  | --- |
+|  *Spaanse hondshaai**    *Galeus melastomus*   | De EU wateren en internationale wateren van de ICES gebieden V, VI, VII, VIII, IX, X  | 1)  |
+|  *Spookkathaai**    *Apristurus manis*   | Het SEAFO verdragsgebied  | --- |
+|  *Spitssnuitsnavelhaai**    *Deania calceus*   | De EU wateren van IIa en IV en de EU wateren en internationale wateren van de ICES gebieden I, V, VI, VII, VIII, IX, X, XII en XIV  | 1)  |
+|  *Spitssnuitsnavelhaai* gevangen met longlines*    *Deania calceus*   | De ICES gebieden I, II, IV, V, VI, VII, VIII, XII, XIV  | --- |
+|  *Voshaaien**    *Alopiidae*   | Het IOTC verdragsgebied en ICCAT verdragsgebied  | --- |
+|  *Witpunthaai**    *Carcharhinus longimanus*   | Het ICCAT verdragsgebied  | --- |
+|  *Witte haai**    *Carcharodon carcharias*   | Alle EU wateren en niet EU wateren  | --- |
+|  *Zee engel**    *Squatina squatina*   | Alle EU wateren  | --- |
+|  *Zeskieuwige koehaai**    *Hexanchus griseu*   | De EU wateren en internationale wateren van de ICES gebieden V, VI, VII, VIII, IX, X  | 1)  |
+|  *Zijdehaai**    *Carcharhinus falciformis*   | Het ICCAT verdragsgebied  | --- |
+|  *Zwarte doornhaai**    *Etmopterus spinax*   | De EU wateren en internationale wateren van de ICES gebieden V, VI, VII, VIII, IX, X  | 1)  |
+|  *Zwarte haai**    *Dalatias licha*   | De EU wateren van ICES gebieden IIa en IV en de EU wateren en internationale wateren van de ICES gebieden I, V, VI, VII, VIII, IX, X  | 1)  |
+|  *Zwarte haai* gevangen met longlines*    *Dalatias licha*   | De ICES gebieden I, II, IV, V, VI, VII, VIII, XII, XIV  | --- |
+|  *Haring*    *Clupea harengus*   | De ICES gebieden IIIa, VI Clyde, VIIa, VIIe en VIIf  | --- |
+|  *Heek*    *Merluccius merluccius*   | De ICES gebieden III, VIIIc, IX, X en de EU wateren van het CECAF gebied 34.1.1  | --- |
+|  *Horsmakreel*    *Trachurus spp.*   | De ICES gebieden VIIIc, IX, X en de EU wateren van CECAF  | --- |
+|  *IJsvis*    *Champsocephalus gunnari*   | De Antarctische wateren van de FAO gebieden 48.3 en 58.5.2  | --- |
+|  *Kabeljauw*    *Gadus morhua*   | De Noorse wateren van de ICES gebieden I en II, het Kattegat, de ICES gebieden IIIb, IIIc, IIId, V, VI en VIIa, de EU wateren en internationale wateren van de ICES gebieden XII en XIV, de Groenlandse wateren van de ICES gebieden V, XIV, NAFO gebied 1 en de NAFO gebieden 2J en 3KLMNO  | --- |
+|  *Kabeljauw en schelvis**    *Gadus morhua en Melanogrammus aeglefinus*   | De Faeröese wateren van het ICES gebied Vb  | --- |
+|  *Kever**    *Trisopterus esmarki*   | De Noorse wateren van het ICES gebied IV  | --- |
+|  *Koolvis*    *Pollachius virens*   | De Noorse wateren en de internationale wateren van de ICES gebieden I en II, de EU wateren en internationale wateren van de ICES gebieden, IIId, Vb,VI, VII, VIII, IX, X, XII en XIV, de Faeröese wateren van Vb en de EU wateren van het CECAF gebied 34.1.1  | --- |
+|  *Kortvinnige pijlinktvis*    *Illex illecebrosus*   | De NAFO gebieden 3 en 4  | --- |
+|  *Krabben*    *Paralomis spp.*   | De Antarctische wateren van het FAO gebied 48.3  | --- |
+|  *Krielgarnaal*    *Euphausia superba*   | Het CCAMLR-verdragsgebied en FAO gebied 48 en de Antarctische wateren van de FAO gebieden 58.4.1 en 58.4.2  | --- |
+|  *Langoestine*    *Nephrops norvegicus*   | De Noorse wateren van ICES gebied IV, de EU wateren en internationale wateren van ICES gebied Vb, III, VI, VII, VIII, IX, X, de EU wateren van subdivisies 22-32 en het CECAF gebied 34.1.1  | --- |
+|  *Langsnuit ijsvis*    *Channichthys rhinoceratus*   | Het FAO gebied 58.5.2  | --- |
+|  *Leng*    *Molva molva*   | De EU wateren en internationale wateren van de ICES gebieden III, V, VI, VII, VIII, IX, X, XII, XIV en de Noorse wateren van IV  | --- |
+|  *Leng en Blauwe leng*   *Molva molva* en *Molva dypterygia*  | De Faeröese wateren van het ICES gebied Vb  | --- |
+|  *Lodde*    *Mallotus villosus*   | ICES gebied IIb, de Groenlandse wateren van de ICES gebieden V, XIV en de wateren van de NAFO gebieden 3NO  | --- |
+|  *Lom*    *Brosme brosme*   | De Noorse wateren van de ICES gebieden IIa en IV  | --- |
+|  *Makreel*    *Scomber scombrus*   | De wateren van de Faeröer van het ICES gebied Vb, de ICES gebieden VIIIc, IX, X en de EU wateren van het CECAF gebied 34.1.1  | --- |
+|  *Noordse garnaal*    *Pandalus borealis*   | De Noorse wateren ten zuiden van 62ºN en de Noorse wateren van de ICES gebieden IV en III, de Groenlandse wateren van de ICES gebieden V, XIV en NAFO gebied 1 en 3LM  | --- |
+|  *Peneide garnalen*    *Penaeus spp.*   | De wateren van Frans Guyana  | --- |
+|  *Platvissen*    *Pleuronectiformes*   | De Faeröese wateren van het ICES gebied Vb  | --- |
+|  *Pollak*    *Pollachius pollachius*   | De EU wateren en internationale wateren van het ICES gebied Vb, VI, VII, VIII, IX, X, de internationale wateren van de ICES gebieden XII en XIV en de EU wateren van het CECAF gebied 34.1.1  | --- |
+|  *ROGGEN*   | --- |
+|  *Reuzenmanta**    *Manta birostris*   | Alle wateren  | --- |
+|  *Roggen*    *Rajidae*   | De EU wateren van de ICES gebieden III, VIII en IX en de Antarctische wateren van het FAO gebied 58.5.2 en de NAFO gebieden 3LNO  | --- |
+|  *Roggen**    *Rajidae*   | Het SEAFO verdragsgebied  | --- |
+|  *Gitaarrog**    *Rhinobatidae*   | De EU wateren van de ICES gebieden I, II, III, IV, V, VI, VII, VIII, IX, X en XII  | --- |
+|  *Golfrog**    *Raja undulata*   | De EU wateren van de ICES gebieden VI, VII, VIII, IX en X  | --- |
+|  *Witte rog**    *Raja alba*   | De EU wateren van de ICES gebieden VI, VII, VIII, IX en X  | --- |
+|  *Rode diepzeekrab*    *Chaceon maritae*   | Het SEAFO verdragsgebied  | --- |
+|  *Roodbaarzen (ondiep pelagisch)**    *Sebastes spp.*   | De EU wateren en internationale wateren van het ICES gebied V en de internationale wateren van de ICES gebieden XII en XIV  | --- |
+|  *Roodbaarzen*    *Sebastes spp.*   | De Noorse wateren van ICES gebieden I en II en internationale wateren van ICES gebieden I en II, de IJslandse wateren van Va en de Faeröese wateren van Vb en de NAFO gebieden 3KLMNO en de NAFO gebied 1F en deelgebied 2  | --- |
+|  *Roodbaarzen (diep pelagisch)*    *Sebastes spp.*   | De Groenlandse wateren van de NAFO gebied 1F en de Groenlandse wateren van V en XIV  | --- |
+|  *Roodbaarzen (demersaal)*    *Sebastes spp.*   | De Groenlandse wateren van de NAFO gebied 1F en de Groenlandse wateren van V en XIV  | --- |
+|  *Schartong*    *Lepidorhombus spp.*   | De EU wateren en internationale wateren van het ICES gebied Vb, de ICES gebieden VI, VII, VIII, IX, X, de internationale wateren van de ICES gebieden XII en XIV en de EU wateren van het CECAF gebied 34.1.1  | --- |
+|  *Schelvis*    *Melanogrammus aeglefinus*   | De Noorse wateren van de ICES gebieden I en II, het Kattegat, de EU wateren en internationale wateren van de ICES gebieden IIIbcd, Vb, VI, VII, VIII, IX, X, XII, XIV, de Faeröer-wateren en de EU wateren van het CECAF gebied 34.1.1  | --- |
+|  *Schol*    *Pleuronectes platessa*   | Het Kattegat, de EU wateren en internationale wateren van het ICES gebied Vb, de ICES gebieden I, IIIb, IIIc, IIId, VI, VII, VIII, IX, X, de internationale wateren van de ICES gebieden XII en XIV en de EU wateren van het CECAF gebied 34.1.1  | --- |
+|  *Scotiazee ijsvis*    *Chaenocephalus aceratus*   | De Antarctische wateren van FAO gebied 48.3  | --- |
+|  *Sneeuwkrabben*    *Chionoecetes spp.*   | De Groenlandse wateren van de NAFO gebied 1  | --- |
+|  *Sprot*    *Sprattus sprattus*   | Het ICES gebied IIIa  | --- |
+|  *Tong*    *Solea solea*   | Het Kattegat, de ICES gebieden IIIb, IIIc, IIId, de Noorse wateren van het ICES gebied IV, de EU wateren en internationale wateren van het ICES gebied Vb, de ICES gebieden VI, VII, VIII, IX, X en de internationale wateren van de ICES gebieden XII en XIV en de EU wateren van het CECAF gebied 34.1.1  | --- |
+|  *Tongen*    *Solea Idae*   | ICES gebieden VIII, IX, X en de EU wateren van het CECAF gebied 34.1.1  | --- |
+|  *Vleet**    *Dipturus Batis*   | De EU wateren van de ICES gebieden IIa, III, IV, VI, VII, VIII, IX en X  | --- |
+|  *Wijting*    *Merlangius merlangus*   | Het Kattegat, de EU wateren en internationale wateren van het ICES gebied Vb, de ICES gebieden IIIb, IIIc, IIId, VI, VIIa, VIII, IX en X, de internationale wateren van de ICES gebieden XII en XIV en de EU wateren van het CECAF gebied 34.1.1  | --- |
+|  *Witje*    *Glyptocephalus cynoglossus*   | De NAFO gebieden 2J en 3KLNO  | --- |
+|  *Witte tonijn*    *Thunnus alalunga*   | De Atlantische Oceaan  | --- |
+|  *Witte heek*    *Urophysic tenuis*   | De NAFO gebieden 3NO  | --- |
+|  *Witte marlijn*    *Tetrapturus alba*   | De Atlantische Oceaan  | --- |
+|  *Zandspiering en geassocieerde bijvangst*    *Ammodytidae*   | De Noorse wateren IV en EU wateren van het ICES gebied IV en de EU wateren van de ICES gebieden IIa en IIIa  | --- |
+|  *Zeebrasem*    *Pallelus bogaraveo*   | De EU wateren en internationale wateren van de ICES gebieden IX en X  | --- |
+|  *Zeeduivel*    *Lophiidae*   | De ICES gebieden VIII, IX en X, de Noorse wateren van IV en de EU wateren van het CECAF gebied 34.1.1  | --- |
+|  *Zwaardvis**    *Xiphias gladius*   | De Atlantische Oceaan, de Stille Oceaan en WCPFC verdragsgebied  | --- |
+|  *Zwarte haarstaartvis*    *Aphanopus carbo*   | De EU wateren en internationale wateren van de ICES gebieden I, II, III, IV, VIII, IX, X en het CECAF gebied 34.1.2  | --- |
+|  *Zwarte patagonische ijsvis*    *Dissostichus eleginoides*   | De Antarctische wateren van de FAO gebieden 48.3, 48.4 en 58.5.2 en het SEAFO verdragsgebied  | --- |
+|  *Zuidelijke blauwvintonijn*    *Thunnus Maccoyii*   | Alle wateren  | --- |
+
+Voetnoot: 1) Bijvangsten tot 3% van de quota van 2009 zijn toegestaan.  
 
 ### Bijlage  5  
 
-####Nederlands quotum (x 1.000 kg in levend gewicht) in het kalenderjaar 2011 (x 1.000 kg in levend gewicht) als bedoeld in artikel 1, eerste lid , van de Uitvoeringsregeling zeevisserij
+####Nederlands quotum (x 1.000 kg in levend gewicht) in het kalenderjaar 2013 (x 1.000 kg in levend gewicht) als bedoeld in artikel 1, eerste lid , van de Uitvoeringsregeling zeevisserij
 
 | Vissoort  | Gebied  | Hoeveelheid  |--- |
 |:---|:---|:---|:---|
-|  *Blauwe Wijting*    *Micromesistius poutassou*   | EU wateren en internationale wateren van de ICES gebieden I, II, III, IV, V, VI, VII, VIIIa, VIIIb, VIIId, VIIIe, XII en XIV  | 1.869  | 1)  |
+|  *Blauwe Wijting*    *Micromesistius poutassou*   | EU wateren en internationale wateren van de ICES gebieden I, II, III, IV, V, VI, VII, VIIIa, VIIIb, VIIId, VIIIe, XII en XIV  | 20.635  | 1)  |
 | --- | --- | --- | --- |
-|  *Grote Zilversmelt*    *Argentina silus*   | EU wateren en internationale wateren van de ICES gebieden I en II  | 22  | --- |
-| EU wateren van de ICES gebieden III en IV  | 49  | --- |
-| EU wateren en internationale wateren van de ICES gebieden V, VI en VII  | 3.733  | --- |
+|  *Grote Zilversmelt*    *Argentina silus*   | EU wateren en internationale wateren van de ICES gebieden I en II  | 19  | --- |
+| EU wateren van de ICES gebieden III en IV  | 43  | --- |
+| EU wateren en internationale wateren van de ICES gebieden V, VI en VII  | 3.434  | --- |
 | --- | --- | --- | --- |
-|  *Haring*    *Clupea harengus*   | EU wateren, Noorse wateren en internationale wateren van de ICES gebieden I en II  | 7.886  | --- |
-| EU wateren en Noorse wateren van het ICES gebied IV ten noorden van 53º30'NB  | 26.579  | --- |
-| ICES gebieden IVc en VIId  | 10.092  | --- |
-| EU wateren en internationale wateren van de ICES gebieden Vb, VIb en VIa-Noord  | 2.432  | --- |
-| ICES gebieden VIa-Zuid, VIIb en VIIc  | 406  | --- |
-| ICES gebieden VIIg, VIIh, VIIj en VIIk  | 815  | --- |
+|  *Haring*    *Clupea harengus*   | EU wateren, Noorse wateren en internationale wateren van de ICES gebieden I en II  | 4.941  | --- |
+| EU wateren en Noorse wateren van het ICES gebied IV ten noorden van 53º30'NB  | 37.476  | --- |
+| ICES gebieden IV, VIId en EU wateren van IIa  | 62  | 2)  |
+| ICES gebieden IVc en VIId  | 13.483  | --- |
+| EU wateren en internationale wateren van de ICES gebieden Vb, VIb en VIa-Noord  | 3.072  | --- |
+| ICES gebieden VIa-Zuid, VIIb en VIIc  | 136  | --- |
+| --- | ICES gebieden VIIg, VIIh, VIIj en VIIk  | 1.062  | --- |
 | --- | --- | --- | --- |
 |  *Heek*    *Merluccius merluccius*   | EU wateren van de ICES gebieden IIa en IV  | 64  | --- |
 | ICES gebieden VI en VII, de EU wateren en internationale wateren van het ICES gebied Vb en de internationale wateren van de ICES gebieden XII en XIV  | 183  | --- |
 | ICES gebieden VIIIa, VIIIb, VIIId en VIIIe  | 18  | --- |
 | --- | --- | --- | --- |
-|  *Horsmakreel*    *Trachurus spp.*   | EU wateren van de ICES gebieden IVb, IVc en VIId  | 12.310  | --- |
-| EU wateren van de ICES gebieden IIa, IVa, VI, VIIa, VIIb, VIIc, VIIe, VIIf, VIIg VIIh, VIIj, VIIk, VIIIa, VIIIb, VIIId, VIIIe en de EU wateren en internationale wateren van het ICES gebied Vb en de internationale wateren van de ICES gebieden XII en XIV  | 48.719  | --- |
+|  *Horsmakreel*    *Trachurus spp.*   | EU wateren van de ICES gebieden IVb, IVc en VIId  | 9.752  | --- |
+| EU wateren van de ICES gebieden IIa, IVa, VI, VIIa, VIIb, VIIc, VIIe, VIIf, VIIg VIIh, VIIj, VIIk, VIIIa, VIIIb, VIIId, VIIIe en de EU wateren en internationale wateren van het ICES gebied Vb en de internationale wateren van de ICES gebieden XII en XIV  | 48.532  | --- |
 | --- | --- | --- | --- |
-|  *Kabeljauw*    *Gadus morhua*   | ICES gebied IV, de EU wateren van het ICES gebied IIa en het ICES gebied IIIa tot aan het Skagerrak  | 2.575  | --- |
-| ICES gebieden VIIb, VIIc, VIIe, VIIf, VIIg VIIh, VIIj, VIIk, VIII, IX, X en de EU wateren van het CECAF gebied 34.1.1  | 1  | --- |
-| ICES gebied VIId  | 39  | --- |
-| Het Skagerrak  | 19  | --- |
+|  *Horsmakreel*    *Trachurus murphyi*   | Het SPRFMO verdragsgbied  | 7.360  | --- |
 | --- | --- | --- | --- |
-|  *Koolvis*    *Pollachius virens*   | Het Skagerak, ICES gebied IV en de EU wateren van de ICES gebied IIa  | 96  | --- |
+|  *Kabeljauw*    *Gadus morhua*   | ICES gebied IV, de EU wateren van het ICES gebied IIa en het ICES gebied IIIa tot aan het Skagerrak  | 1.778  | --- |
+| ICES gebieden VIIb, VIIc, VIIe, VIIf, VIIg VIIh, VIIj, VIIk, VIII, IX, X en de EU wateren van het CECAF gebied 34.1.1  | 2  | --- |
+| ICES gebied VIId  | 27  | --- |
+| Het Skagerrak  | 13  | --- |
 | --- | --- | --- | --- |
-|  *Langoestine*    *Nephrops norvegicus*   | EU wateren van de ICES gebieden IIa en IV  | 631  | --- |
+|  *Kever*    *Trisopterus esmarkii*   | ICES gebied IIIa en de EU wateren van IIa en IV  | 123  | --- |
+| --- | --- | --- | --- |
+|  *Koolvis*    *Pollachius virens*   | ICES gebied IIIa en IV en de EU wateren van ICES gebied IIa, IIIb, IIIc en de subdivisies van 22-32  | 57  | --- |
+| --- | --- | --- | --- |
+|  *Langoestine*    *Nephrops norvegicus*   | EU wateren van de ICES gebieden IIa en IV  | 467  | --- |
 | --- | --- | --- | --- |
 |  *Leng*    *Molva molva*   | EU wateren van het ICES gebied IV  | 5  | --- |
-| Noorse wateren van het ICES gebied IV  | 1  | --- |
+| --- | --- | --- |
+|  *Makreel*    *Scomber scombrus*   | ICES gebieden IIIa en IV en de EU wateren van IIa, IIIb, IIIc en subdivisies 22-32  | 1.217  | 3)  |
+| ICES gebieden VI, VII en VIIIa, VIIIb, VIIId, VIIIe, de EU wateren en internationale wateren van het ICES gebied Vb en de internationale wateren van de ICES gebieden IIa, XII en XIV  | 22.341  | 4)  |
 | --- | --- | --- | --- |
-|  *Makreel*    *Scomber scombrus*   | ICES gebieden IIIa en IV en de EU wateren van de ICES gebieden IIa, IIIb, IIIc en subdivisies 22-32  | 1.348  | 2)3)  |
-| ICES gebieden VI, VII en VIIIa, VIIIb, VIIId, VIIIe, de EU wateren en internationale wateren van het ICES gebied Vb en de internationale wateren van de ICES gebieden IIa, XII en XIV  | 24.002  | 4)5)  |
+|  *Noordse Garnaal*    *Pandalus borealis*   | EU wateren van de ICES gebieden IIa en IV  | 21  | --- |
 | --- | --- | --- | --- |
-|  *Noordse Garnaal*    *Pandalus borealis*   | EU wateren van de ICES gebieden IIa en IV  | 25  | --- |
+|  *Roggen*    *Rajiformes*   | EU wateren van de ICES gebieden IIa en IV  | 180  | 5)6)  |
+| EU wateren van de ICES gebieden VIa, VIb, VIIa, VIIb, VIIc, VIIe, VIIf, VIIg, VIIh, VIIj en VIIk  | 3  | 7)8)  |
+| EU wateren van het ICES gebied VIId  | 4  | 9)10)  |
 | --- | --- | --- | --- |
-|  *Roggen*    *Rajidae*   | EU wateren van de ICES gebieden IIa en IV  | 201  | 6)7)8)  |
-| EU wateren van de ICES gebieden VIa, VIb, VIIa, VIIb, VIIc, VIIe, VIIf, VIIg, VIIh, VIIj en VIIk  | 4  | 9)10)11)  |
-| EU wateren van het ICES gebied VIId  | 4  | 12)13)14)  |
+|  *Roodbaarzen (diep pelagisch)*    *Sebastes spp.*   | EU en internationale wateren van ICES gebied V en de internationale wateren van de ICES gebieden XII en XIV  | 1  | --- |
 | --- | --- | --- | --- |
-|  *Schar en Bot*    *Limanda limanda en Platichthys flesus*   | EU wateren van de ICES gebieden IIa en IV  | 11.421  | --- |
+|  *Schar en Bot*   *Limanda limanda* en *Platichthys flesus*  | EU wateren van de ICES gebieden IIa en IV  | 11.421  | --- |
 | --- | --- | --- | --- |
-|  *Schartongen*    *Lepidorhombus spp.*   | EU wateren van de ICES gebieden IIa en IV  | 24  | --- |
+|  *Scharretongen*    *Lepidorhombus spp.*   | EU wateren van de ICES gebieden IIa en IV  | 25  | --- |
 | --- | --- | --- | --- |
-|  *Schelvis*    *Melanogrammus aeglefinus*   | ICES gebied IV en de EU wateren van het ICES gebied IIa  | 147  | --- |
+|  *Schelvis*    *Melanogrammus aeglefinus*   | ICES gebied IV en de EU wateren van het ICES gebied IIa  | 218  | --- |
+| --- | ICES gebied IIIa en de EU wateren van subdivisies 22-32  | 1  | --- |
+| --- | --- | --- | --- |
+|  *Schol*    *Pleuronectes platessa*   | ICES gebied IV, de EU wateren van het ICES gebied IIa en het ICES gebied IIIa tot aan het Skagerrak  | 22.726  | --- |
+| Het Skagerrak  | 774  | --- |
+| --- | --- | --- |
+|  *Sprot*    *Sprattus sprattus*   | EU wateren van de ICES gebieden IIa en IV  | 1.726  | --- |
+| ICES gebieden VIId en VIIe  | 361  | --- |
+| --- | --- | --- | --- |
+|  *Tarbot en Griet*   *Psetta maxima* en *Scopthalmus rhombus*  | EU wateren van de ICES gebieden IIa en IV  | 2.579  | --- |
+| --- | --- | --- | --- |
+|  *Tong*    *Solea solea*   | EU wateren van de ICES gebieden II en IV  | 10.492  | --- |
+| ICES gebied IIIa en de EU wateren van subdivisies 22-32  | 45  | --- |
+| --- | --- | --- | --- |
+|  *Tongschar en Witje*   *Microstomus kitt* en *Glyptocephalus cynoglossus*  | EU wateren van de ICES gebieden IIa en IV  | 793  | --- |
+| --- | --- | --- | --- |
+|  *Wijting*    *Merlangius merlangus*   | ICES gebied IV en de EU wateren van het ICES gebied IIa  | 913  | --- |
+| ICES gebieden VIIb, VIIc, VIId, VIIe, VIIf, VIIg, VIIh, VIIj en VIIk  | 120  | --- |
 | Het Skagerrak  | 2  | --- |
 | --- | --- | --- | --- |
-|  *Schol*    *Pleuronectes platessa*   | ICES gebied IV, de EU wateren van het ICES gebied IIa en het ICES gebied IIIa tot aan het Skagerrak  | 26.485  | --- |
-| Het Skagerrak  | 1.190  | --- |
-| --- | --- | --- | --- |
-|  *Sprot*    *Sprattus sprattus*   | EU wateren van de ICES gebieden IIa en IV  | 1.719  | --- |
-| ICES gebieden VIId en VIIe  | 379  | --- |
-| --- | --- | --- | --- |
-|  *Tarbot en Griet*    *Psetta maxima en Scopthalmus rhombus*   | EU wateren van de ICES gebieden IIa en IV  | 2.579  | --- |
-| --- | --- | --- | --- |
-|  *Tong*    *Solea solea*   | EU wateren van de ICES gebieden II en IV  | 10.571  | --- |
-| Het Skagerrak  | 68  | --- |
-| --- | --- | --- | --- |
-|  *Tongschar en Witje*    *Microstomus kitt en Glyptocephalus cynoglossus*   | EU wateren van de ICES gebieden IIa en IV  | 793  | --- |
-| --- | --- | --- | --- |
-|  *Wijting*    *Merlangius merlangus*   | ICES gebied IV en de EU wateren van het ICES gebied IIa  | 714  | --- |
-| ICES gebieden VIIb, VIIc, VIId, VIIe, VIIf, VIIg, VIIh, VIIj en VIIk  | 79  | --- |
-| Het Skagerrak  | 3  | --- |
-| --- | --- | --- | --- |
-|  *Zeeduivel*    *Lophiidae*   | EU wateren van de ICES gebieden IIa en IV  | 258  | 15)  |
-| Noorse wateren van het ICES gebied IV  | 16  | --- |
-| ICES gebied VI, de EU wateren van het ICES gebied Vb en de internationale wateren van de ICES gebieden XII en XIV  | 189  | --- |
-| ICES gebied VII  | 386  | 16)  |
-| --- | --- | --- | --- |
-|  *Andere soorten*   | Noorse wateren van het ICES gebied IV  | 200  | 17)  |
+|  *Zeeduivel*    *Lophiidae*   | EU wateren van de ICES gebieden IIa en IV  | 233  | 11)  |
+| ICES gebied VI, de EU wateren van het ICES gebied Vb en de internationale wateren van de ICES gebieden XII en XIV  | 170  | --- |
+| ICES gebied VII  | 349  | 12)  |
 
-Voetnoten: 1) Waarvan tot 68% mag worden gevangen in de Noorse Economische Zone of in de visserijzone van Jan Mayen. 2) Waarvan niet meer dan 490 ton mag worden gevangen in de ICES gebieden IIIa, IVb en IVc. 3) Mag ook worden gevangen in de Noorse wateren van ICES gebied IVa. 4) Van deze hoeveelheid mag niet meer dan 9.657 ton worden gevangen in de periode van 1 januari tot en met 15 februari en van 1 september tot en met 31 december in de EU en Noorse wateren van het ICES gebied IVa. 5) Van deze hoeveelheid mag niet meer dan 882 ton worden gevangen in de Noorse wateren van het ICES gebied IIa. 6) Vangsten van de Koekoeksrog (Leucoraja naevus) (RJN/2C4-C), Stekelrog (Raja Clavata) (RJC/2AC4-C), Blonde rog (Raja brachyuran) (RJH/2AC4-C), Gevlekte rog (Raja montagui) (RJM/2AC4-C) en de Sterrog (Amblyraja radiata) RJR/2AC4-C) moeten afzonderlijk worden gerapporteerd. 7) Voor vissersvaartuigen met een lengte over alles van meer dan 15 meter geldt dat deze soort per visreis niet meer dan 25% levend gewicht mag bedragen van het totaal van de vangsten aan boord. 8) Geldt niet voor de Vleet (Dipturus batis). Vangsten van deze soort mogen niet aan boord worden gehouden en moeten snel en ongedeerd over boord worden gezet. 9) Vangsten van de Koekoeksrog (Leucoraja naevus) (RJN/67AKXD), Stekelrog (Raja Clavata) (RJC/67AKXD), Blonde rog (Raja brachyuran) (RJH/67AKXD), Gevlekte rog (Raja montagui) (RJM/67AKXD), de Kleinoogrog (Raja micoocellata) (RJE/67AKXD), de Zandrog (Leucoraa circularis) (RJI/67AKXD) en de Shagreenrog (Leucoraja fullonica) RJF/67AKXD) moeten afzonderlijk worden gerapporteerd. 10) Waarvan maximaal 5% mag worden gevangen in het ICES gebied VIId. 11) Geldt niet voor de Golfrog (Raja undulata), de Gewone vleet (Dipturus batis), de Noorse vleet (Raja Dipturus) nidarosiensis) en de Spitsneusrog (Rostroraja alba). Vangsten van deze soort mogen niet aan boord worden gehouden en moeten snel en ongedeerd over boord worden gezet. 12) Vangsten van de Koekoeksrog (Leucoraja naevus) (RJN/07D), Stekelrog (Raja Clavata) (RJC/07D), Blonde rog (Raja brachyuran) (RJH/07D), Gevlekte rog (Raja montagui) (RJM//07D) en de Sterrog (Amblyraja radiata) RJR/07D) moeten afzonderlijk worden gerapporteerd. 13) Waarvan maximaal 5% mag worden gevangen in de EU wateren van de ICES gebieden VIa, VIb, VIIa-c en VIIe-k. 14) Geldt niet voor de Gewone vleet (Dipturus batis) en de Golfrog (Raja undulata). Vangsten van deze soort mogen niet aan boord worden gehouden en moeten snel en ongedeerd over boord worden gezet. 15) Waarvan maximaal 5% mag worden gevangen in de EU-wateren van het ICES gebied VI, EU wateren en internationale wateren van het ICES gebied Vb en internationale wateren van de ICES gebieden XII en XIV. 16) Waarvan maximaal 5% mag worden gevangen in de EU wateren van de ICES gebieden VIIIa, VIIIb, VIIId, VIIIe. 17) Andere soorten dan: haring, kabeljauw, koolvis, makreel, schelvis, schol, blauwe wijting en wijting.  
+Voetnoten: 
+
+1) Waarvan tot 68% mag worden gevangen in de Noorse Economische Zone of in de visserijzone van Jan Mayen.  
+
+2) Aanlanding van haring gevangen met vistuig met een maaswijdte kleiner dan 32 mm.  
+
+3) Waarvan niet meer dan 490 ton mag worden gevangen in de ICES gebieden IIIa, IVb en IVc.  
+
+4) Van deze hoeveelheid mag niet meer dan 8989 ton worden gevangen in de periode van 1 januari tot en met 15 februari en van 1 september tot en met 31 december in de EU en Noorse wateren van het ICES gebied IVa.  
+
+5) Vangsten van de Grootoogrog (Leucoraja naevus) (RJN/2C4-C), Stekelrog (Raja Clavata) (RJC/2AC4-C), Blonde rog (Raja brachyuran)(RJH/2AC4-C), Gevlekte rog (Raja montagui) (RJM/2AC4-C) en de Sterrog (Amblyraja radiata) RJR/2AC4-C) moeten afzonderlijk worden gerapporteerd.  
+
+6) Voor vissersvaartuigen met een lengte over alles van meer dan 15 meter geldt dat deze soort per visreis niet meer dan 25% levend gewicht mag bedragen van het totaal van de vangsten aan boord.  
+
+7) Vangsten van de Grootoogrog (Leucoraja naevus) (RJN/67AKXD), Stekelrog (Raja Clavata) (RJC/67AKXD), Blonde rog (Raja brachyuran)(RJH/67AKXD), Gevlekte rog (Raja montagui) (RJM/67AKXD), de Kleinoogrog (Raja micoocellata)(RJE/67AKXD), de Zandrog (Raja circularis)(RJI/67AKXD) en de kaardrog (Raja fullonica) RJF/67AKXD) moeten afzonderlijk worden gerapporteerd.  
+
+8) Waarvan maximaal 5% mag worden gevangen in het ICES gebied VIId.  
+
+9) Vangsten van de Grootoogrog (Leucoraja naevus) (RJN/07D), Stekelrog (Raja Clavata) (RJC/07D), Blonde rog (Raja brachyuran)(RJH/07D), Gevlekte rog (Raja montagui) (RJM//07D), de Kleinoogrog (Raja micoocellata)(RJE/67AKXD) en de Sterrog (Amblyraja radiata) RJR/07D) moeten afzonderlijk worden gerapporteerd.  
+
+10) Waarvan maximaal 5% mag worden gevangen in de EU wateren van de ICES gebieden VIa, VIb, VIIa-c en VIIe-k.  
+
+11) Waarvan maximaal 5% mag worden gevangen in de EU-wateren van het ICES gebied VI, EU wateren en internationale wateren van het ICES gebied Vb en internationale wateren van de ICES gebieden XII en XIV.  
+
+12) Waarvan maximaal 5% mag worden gevangen in de EU wateren van de ICES gebieden VIIIa, VIIIb, VIIId, VIIIe.    
 
 ### Bijlage  6  
 
-####Europees quotum (x 1.000 kg in levend gewicht) in het kalenderjaar 2011 als bedoeld in artikel 1, eerste lid , van de Uitvoeringsregeling zeevisserij
+####Europees quotum (x 1.000 kg in levend gewicht) in het kalenderjaar 2013 als bedoeld in artikel 1, eerste lid, van de Uitvoeringsregeling zeevisserij 
 
 | Vissoort  | Gebied  | Hoeveelheid  |--- |
 |:---|:---|:---|:---|
 |  *Blauwe leng*    *Molva dypterygia*   | EU wateren en internationale wateren van de ICES gebieden II, IV  | 4  | 1)  |
-| EU wateren en internationale wateren van de ICES gebieden Vb, VI en VII  | 5  | 1)  |
+| EU wateren en internationale wateren van de ICES gebieden Vb, VI en VII  | 6  | 1)  |
 | Internationale wateren van het ICES gebied XII  | 2  | 1)  |
 | --- | --- | --- | --- |
-|  *Evervissen*    *Caproidae*   | EU wateren en internationale wateren van de ICES gebieden VI, VII en VIII  | 1.650  | --- |
-| --- | --- | --- | --- |
-|  *Grenadiervis*    *Coryphaenoides rupestris*   | EU wateren en internationale wateren van de ICES gebieden Vb, VI en VII  | 5  | 2)  |
+|  *Grenadiersvis*    *Coryphaenoides rupestris*   | EU en internationale wateren van ICES gebied Vb, VI en VII  | 8  | 1)  |
 | --- | --- | --- | --- |
 |  *Kabeljauw*    *Gadus morhua*   | EU en internationale wateren van de ICES gebieden I en IIb  | 250  | --- |
 | --- | --- | --- | --- |
 |  *Leng*    *Molva molva*   | EU wateren en internationale wateren van de ICES gebieden I en II  | 4  | 1)  |
 | --- | --- | --- | --- |
-|  *Torsk*    *Brosme brosme*   | EU wateren en internationale wateren van de ICES gebieden I, II en XIV  | 3  | 1)  |
-| EU wateren van het ICES gebied IV  | 5  | 1)  |
-| EU wateren en internationale wateren van de ICES gebieden V, VI en VII  | 4  | 1)  |
+|  *Lom*    *Brosme brosme*   | EU wateren en internationale wateren van de ICES gebieden I, II en XIV  | 3  | 1)  |
+| EU wateren van het ICES gebied IV  | 6  | 1)  |
+| EU wateren en internationale wateren van de ICES gebieden V, VI en VII  | 5  | 1)  |
 | --- | --- | --- | --- |
-|  *Zwarte haarstaartvis*    *Aphanopus carbo*   | EU wateren en internationale wateren van de ICES gebieden V, VI, VII en XII  | 6  | 1)  |
+|  *Zeebrasem*    *Pagellus bogaraveo*   | EU en internationale wateren van ICES gebied VI, VII en VIII  | 6  | 1)  |
 | --- | --- | --- | --- |
-|  *Zeebrasem*    *Pagellus bogaraveo*   | EU-wateren en internationale wateren van de ICES gebieden VI, VII en VIII  | 6  | 1)3)  |
+|  *Zwarte haarstaartvis*    *Aphanopus carbo*   | EU en internationale wateren van ICES gebied V, VI, VII en XII  | 9  | 1)  |
+| --- | --- | --- | --- |
 
-Voetnoten: 1) Uitsluitend voor bijvangsten, gerichte visserij niet toegestaan 2) Waarvan maximaal 8% mag worden gevangen in de EU- en internationale wateren van de ICES gebieden VIII, IX, X, XII en XIV. 3) Van de aangelande hoeveelheden mag niet meer dan 15% een minimummaat van 30 cm hebben. Daarboven geldt een minimummaat van 35 cm.  
+Voetnoot: 1) Uitsluitend voor bijvangsten, gerichte visserij niet toegestaan.  
 
 ### Bijlage  7  
 
-####Totale toegestane visserij-inspanning, uitgedrukt in kW dagen per categorie vistuig en per (gedeelte van de) beheersperiode als bedoeld in artikel 16, tweede lid, onderdeel a 
+####Totale toegestane visserij-inspanning, uitgedrukt in kW dagen per categorie vistuig en per (gedeelte van de) beheersperiode als bedoeld in artikel 16, tweede lid, onderdeel a , van de Uitvoeringsregeling zeevisserij
 
-| --- | --- | --- | --- |
+| Vistuigcategorieën  | Vistuig-categorie code  | Visserij-inspanning in de maanden februari 2012 tot en met september 2012  | Visserij-inspanning in de maanden oktober 2012 tot en met januari 2013  |
 |:---|:---|:---|:---|
-|  *Vistuigcategorieën*   |  *Vistuigcategorie code*   |  *Visserij-inspanning in de maanden februari tot en met september 2011*   |  *Visserij-inspanning in de maanden oktober 2011 tot en met januari 2012 ¹*   |
-|  * *Bodemtrawls en zegens (vistuigtypen OTB, OTT, PTB, SDN, SSC, SPR) met een maaswijdte:* *   | --- | --- | --- |
-| gelijk aan of groter dan 120 mm  | TR1 A ²  | 102.000  | 18.000  |
-| gelijk aan of groter dan 120 mm  | TR1 B ³  | 165.330  | 29.176  |
-| gelijk aan of groter dan 100 mm en kleiner dan 120 mm  | TR1 C  | 779.277  | 137.520  |
-| gelijk aan of groter dan 70 mm en kleiner dan 100 mm  | TR2  | 1.574.154  | 524.718  |
-| --- | --- |
-|  *Vistuigcategorieën*   |  *Vistuigcategorie code*   |  *Visserij-inspanning in de maanden februari 2011 tot en met januari 2012*   |
-|  *Bodemtrawls en zegens (vistuigtypen OTB, OTT, PTB, SDN, SSC, SPR) met een maaswijdte:*   | --- | --- |
-| gelijk aan of groter dan 16 mm en kleiner dan 32 mm;  | TR3  | 36.617  |
+|  *Bodemtrawls en zegens (vistuigtypen OTB, OTT, PTB, SDN, SSC, SPR) met een maaswijdte:*   | --- | --- | --- |
+| gelijk aan of groter dan 120 mm  | TR1 A ¹  | 124.950  | 22.050  |
+| gelijk aan of groter dan 120 mm  | TR1 B ²  | 93.726  | 16.540  |
+| gelijk aan of groter dan 100 mm en kleiner dan 120 mm  | TR1 C  | 779.277  | 137.520  |
+| gelijk aan of groter dan 70 mm en kleiner dan 100 mm  | TR2  | 1.449.331  | 483.110  |
+|  *Bodemtrawls en zegens (vistuigtypen OTB, OTT, PTB, SDN, SSC, SPR) met een maaswijdte:*   | --- | Visserij-inspanning in de maanden februari 2012 tot en met januari 2013  |
+| gelijk aan of groter dan 16 mm en kleiner dan 32 mm  | TR3  | 36.617  |
 |  *Boomkorren (vistuigtype TBB) met een maaswijdte:*   | --- | --- |
-| gelijk aan of groter dan 120 mm;  | BT1  | 999.808  |
-| gelijk aan of groter dan 80 mm en kleiner dan 120 mm;  | BT2  | 25.000.000  |
+| gelijk aan of groter dan 120 mm  | BT1  | 999.808  |
+| gelijk aan of groter dan 80 mm en kleiner dan 120 mm  | BT2  | 22.004.242  |
 |  *Kieuwnetten en warrelnetten (vistuigtype GN)*   | GN  | 438.664  |
 
-¹ De bij dit gedeelte van de beheersperiode vermelde visserij-inspanning wordt vermeerderd of in voorkomend geval verminderd met de visserij-inspanning die in het voorgaande deel van de beheersperiode in 2011 niet respectievelijk te veel, is benut. ² Het vistuig met de desbetreffende maaswijdte is aan boord van een vissersvaartuig dat is geregistreerd op naam van een ondernemer die deelneemt aan een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in artikel 7 van de verordening vangstmogelijkheden. ³ Het vistuig met de desbetreffende maaswijdte is aan boord van een vissersvaartuig dat is geregistreerd op naam van een ondernemer die *niet* deelneemt aan een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in artikel 7 van de verordening vangstmogelijkheden.  
+¹ Het vistuig met de desbetreffende maaswijdte is aan boord van een vissersvaartuig dat is geregistreerd op naam van een ondernemer die deelneemt aan een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in artikel 7 van de verordening interne vangstmogelijkheden en artikel 6 van de verordening externe vangstmogelijkheden. ² Het vistuig met de desbetreffende maaswijdte is aan boord van een vissersvaartuig dat is geregistreerd op naam van een ondernemer die *niet* deelneemt aan een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in artikel 7 van de verordening interne vangstmogelijkheden en artikel 6 van de verordening externe vangstmogelijkheden. 
 
 ### Bijlage  8  
 
-####De vissoorten, bedoeld in artikel 21, eerste lid , de vangstgebieden, bedoeld in artikel 1, eerste lid  en de percentages, bedoeld in artikel 29, eerste lid , van de Uitvoeringsregeling zeevisserij
+####De vissoorten, bedoeld in artikel 21, eerste lid , de vangstgebieden, bedoeld in artikel 1, eerste lid , en de percentages, bedoeld in artikel 29, eerste lid , van de Uitvoeringsregeling zeevisserij
 
 | Vissoort  | Gebied  | Percentage  |
 |:---|:---|:---|
-|  *Blauwe wijting*   | EU wateren en internationale wateren van de ICES gebieden I, II, III, IV, V, VI, VII, VIIIa, VIIIb, VIIId, VIIIe, XII en XIV  | 15,0303  |
-|  *Grote Zilversmelt*   | EU wateren en internationale wateren van de ICES gebieden V, VI en VII  | 91,9841  |
-|  *Haring*   | EU wateren, Noorse wateren en internationale wateren van de ICES gebieden I en II  | 66,5736  |
-| EU wateren en Noorse wateren van het ICES gebied IV ten noorden van 53°30'NB  | 123,1754  |
-| ICES gebieden IVc en VIId  | 123,2210  |
-| EU wateren en internationale wateren van de ICES gebieden Vb, VIb en VIa-Noord  | 91,5186  |
-| ICES gebieden VIa-Zuid, VIIb en VIIc  | 59,0627  |
-| ICES gebieden VIIg, VIIh, VIIj en VIIk  | 130,7200  |
-|  *Horsmakreel*   | EU wateren van de ICES gebieden IIa, IVa, VI, VIIa, VIIb, VIIc, VIIe, VIIf, VIIg, VIIh, VIIj, VIIk, VIIIa, VIIIb, VIIId, VIIIe en de EU wateren en internationale wateren van het ICES gebied Vb en de internationale wateren van de ICES gebieden XII en XIV  | 99,1773  |
-| EU wateren van de ICES gebieden IVb, IVc en VIId  | 97,9438  |
-|  *Kabeljauw*   | ICES gebied IV, de EU wateren van het ICES gebied IIa en het ICES gebied IIIa tot aan het Skagerrak  | 79,8436  |
-|  *Makreel*   | ICES gebieden VI, VII, VIIIa, VIIIb, VIIId en VIIIe, de EU wateren en internationale wateren van het ICES gebied Vb en de internationale wateren van de ICES gebieden IIa, XII en XIV  | 87,5758  |
-|  *Schol*   | ICES gebied IV, de EU wateren van het ICES gebied IIa en het ICES gebied IIIa tot aan het Skagerrak  | 115,6252  |
-|  *Tong*   | EU wateren van de ICES gebieden II en IV  | 99,9139  |
-|  *Wijting*   | ICES gebied IV en de EU wateren van het ICES gebied IIa  | 121,7630  |
+|  *Blauwe wijting*   | EU wateren en internationale wateren van de ICES gebieden I, II, III, IV, V, VI, VII, VIIIa, VIIIb, VIIId, VIIIe, XII en XIV  | 163,2621  |
+|  *Grote Zilversmelt*   | EU wateren en internationale wateren van de ICES gebieden V, VI en VII  | 100,0000  |
+|  *Haring*   | EU wateren, Noorse wateren en internationale wateren van de ICES gebieden I en II  | 74,2538  |
+| --- | EU wateren en Noorse wateren van het ICES gebied IV ten noorden van 53°30'NB  | 69,9918  |
+| --- | ICES gebieden IVc en VIId  | 69,9781  |
+| --- | EU wateren en internationale wateren van de ICES gebieden Vb, VIb en VIa-Noord  | 120,1179  |
+| --- | ICES gebieden VIa-Zuid, VIIb en VIIc  | 32,6132  |
+| --- | ICES gebieden VIIg, VIIh, VIIj en VIIk  | 81,5320  |
+|  *Horsmakreel*   | EU wateren van de ICES gebieden IIa, IVa, VI, VIIa, VIIb, VIIc, VIIe, VIIf, VIIg, VIIh, VIIj, VIIk, VIIIa, VIIIb, VIIId, VIIIe en de EU wateren en internationale wateren van het ICES gebied Vb en de internationale wateren van de ICES gebieden XII en XIV  | 98,7302  |
+| --- | EU wateren van de ICES gebieden IVb, IVc en VIId  | 83,7447  |
+|  *Kabeljauw*   | ICES gebied IV, de EU wateren van het ICES gebied IIa en het ICES gebied IIIa tot aan het Skagerrak  | 69,7617  |
+|  *Makreel*   | ICES gebieden VI, VII, VIIIa, VIIIb, VIIId en VIIIe, de EU wateren en internationale wateren van het ICES gebied Vb en de internationale wateren van de ICES gebieden IIa, XII en XIV  | 74,9875  |
+|  *Schol*   | ICES gebied IV, de EU wateren van het ICES gebied IIa en het ICES gebied IIIa tot aan het Skagerrak  | 74,5858  |
+|  *Tong*   | EU wateren van de ICES gebieden II en IV  | 86,3229  |
+|  *Wijting*   | ICES gebied IV en de EU wateren van het ICES gebied IIa  | 108,4315  |
 
 ### Bijlage  9  
 
-####De hoeveelheden, bedoeld in de artikelen 25 , 26  en 27  van de Uitvoeringsregeling zeevisserij
+De hoeveelheden, bedoeld in de artikelen 25, 26 en 27 van de Uitvoeringsregeling zeevisserij  
 
-| Artikel  | Vissoort  | Hoeveelheid  |
+| --- | --- | --- |
 |:---|:---|:---|
-|  Artikel 25, eerste lid, onderdeel a    | Kabeljauw:  | 130 kilogram  |
-| Wijting:  | 48 kilogram  |
-|  Artikel 25, eerste lid, onderdeel b    | Kabeljauw:  | 40.114 kilogram  |
-| Wijting:  | 8.050 kilogram  |
-|  Artikel 26, eerste lid, onderdeel a    | Makreel:  | 147 kilogram  |
-|  Artikel 26, eerste lid, onderdeel b    | Makreel:  | 4.266 kilogram  |
-|  Artikel 27    | Horsmakreel:  | 490.611 kilogram  |
+|  Artikel 25, eerste lid, onderdeel a    | Kabeljauw:  | 89 kilogram  |
+| Wijting:  | 62 kilogram  |
+|  Artikel 25, eerste lid, onderdeel b    | Kabeljauw:  | 27.601 kilogram  |
+| Wijting:  | 10.440 kilogram  |
+|  Artikel 26, eerste lid, onderdeel a    | Makreel:  | 117 kilogram  |
+|  Artikel 26, eerste lid, onderdeel b    | Makreel:  | 3.846 kilogram  |
+|  Artikel 27, eerste lid    | Horsmakreel:  | 388.538 kilogram  |
 
 ### Bijlage  10  
 

@@ -8,7 +8,7 @@ Stelt de volgende verordening vast:
 
 ### Artikel  1  
 
-Het bedrag, bedoeld in [artikel 60, lid 1, van de Wet op de Registeraccountants](../../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md), dat moet worden betaald bij de indiening van een aanvrage ter inschrijving in het accountantsregister, wordt vastgesteld op € 263,-. Dit bedrag moet worden voldaan aan het Nederlands Instituut van Registeraccountants, te Amsterdam.  
+Het bedrag, bedoeld in [artikel 60, lid 1, van de Wet op de Registeraccountants](../../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md), dat moet worden betaald bij de indiening van een aanvrage ter inschrijving in het accountantsregister, wordt vastgesteld op € 275,-. Dit bedrag moet worden voldaan aan het Nederlands Instituut van Registeraccountants, te Amsterdam.  
 
 ### Artikel  2  
 

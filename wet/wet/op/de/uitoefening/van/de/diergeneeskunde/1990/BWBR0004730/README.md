@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: Onze Minister: Onze Minister van Landbouw, Natuur en Voedselkwaliteit; Onze Ministers: Onze Ministers van Landbouw, Natuur en Voedselkwaliteit en van Justitie gezamenlijk; dierenarts: degene 
+1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie; Onze Ministers: Onze Minister en Onze Minister van Veiligheid en Justitie gezamenlijk; dierenarts: degene 
 
 a. aan wie op grond van het afleggen van een examen van een opleiding in het wetenschappelijk onderwijs door een universiteit dan wel de Open Universiteit waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) betrekking heeft, de graad Master op het gebied van de diergeneeskunde is verleend, of  
 
@@ -28,7 +28,7 @@ c. het verlenen van hulp met betrekking tot de geboorte of verwijdering van een 
 
 d. het onvruchtbaar maken van een dier;  
 
-e. het verrichten op een gezond dier van andere operaties dan die welke behoren tot de onder *c* en *d* genoemde handelingen.     
+e. het verrichten op een gezond dier van andere operaties dan die welke behoren tot de onder c en d genoemde handelingen.     
 2.  Bij algemene maatregel van bestuur kan worden bepaald, dat voor toepassing van deze wet en de daarop berustende bepalingen met uitoefening van de diergeneeskunde wordt gelijkgesteld het als beroep verrichten van bij of krachtens die maatregel aangewezen handelingen met betrekking tot het transplanteren van eicellen of embryo’s van dieren.   
 3.  Voor de toepassing van deze wet en de daarop berustende bepalingen wordt het verrichten van dierproeven of proeven in de zin van de [Wet op de dierproeven](../../../../../../../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) (*Stb.* 1977, 67) niet als "uitoefening van de diergeneeskunde" aangemerkt, tenzij deze handelingen plaatsvinden op verzoek van de houder van het desbetreffende dier met het oog op dat dier zelf.   
 4.  Bij algemene maatregel van bestuur kan worden bepaald dat voor de toepassing van deze wet en de daarop berustende bepalingen in die maatregel aangewezen handelingen, verricht bij daarbij aangewezen dieren of door daarbij aangewezen categorieën van personen, niet als "uitoefening van de diergeneeskunde" worden aangemerkt.   
@@ -344,7 +344,7 @@ d. indien de klacht gericht is tegen een kastreur: twee kastreurs en twee dieren
 ### Artikel  33  
 
 1.  Het veterinair tuchtcollege kan, hetzij ten verzoeke van de persoon over wie geklaagd is, hetzij ten verzoeke van de klager, hetzij ambtshalve, getuigen en deskundigen oproepen en horen. De oproeping geschiedt bij aangetekende brief. Ieder die als getuige of deskundige is opgeroepen, is verplicht aan de oproeping gevolg te geven.   
-2.  Verschijnt een getuige of een deskundige op de oproeping niet, dan doet de officier van justitie bij de rechtbank te 's-Gravenhage op verzoek van het veterinair tuchtcollege hem dagvaarden. Hij is verplicht na dagvaarding te verschijnen.   
+2.  Verschijnt een getuige of een deskundige op de oproeping niet, dan doet de officier van justitie bij het arrondissementsparket Den Haag op verzoek van het veterinair tuchtcollege hem dagvaarden. Hij is verplicht na dagvaarding te verschijnen.   
 3.  Verschijnt een getuige of deskundige op de dagvaarding niet, dan doet de officier van justitie, bedoeld in het vorige lid, op verzoek van het veterinair tuchtcollege hem andermaal dagvaarden, desverzocht met bevel tot medebrenging.   
 4.  [Artikel 556 van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
 5.  De getuigen zijn verplicht getuigenis af te leggen, de deskundigen hun diensten als zodanig te verlenen.   

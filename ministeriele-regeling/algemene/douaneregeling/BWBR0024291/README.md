@@ -29,7 +29,7 @@ c. binnenkomend schip: schip waarvoor de in artikel 40 van het Communautair doua
 
 d. binnenkomend luchtvaartuig: luchtvaartuig waarvoor de in artikel 40 van het Communautair douanewetboek bedoelde formaliteiten moeten worden vervuld;  
 
-e. Algemene Inspectiedienst: Algemene Inspectiedienst van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
+e. *Nederlandse Voedsel- en Warenautoriteit:* Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken;  
 
 f. productschap: productschap of hoofdproductschap dat in kolom 2 van bijlage VII is genoemd als bevoegd productschap ten aanzien van het goed, genoemd in kolom 1 van bijlage VII;  
 
@@ -90,7 +90,7 @@ De verplichtingen die ingevolge [artikel 1:32 van de wet](../../../../wet/algeme
 
 ### Artikel  1:8  
 
-1.  De directeur van de Algemene Inspectiedienst is inspecteur als bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md).   
+1.  De inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit is inspecteur als bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md).   
 2.  De aanwijzing, bedoeld in het eerste lid, geldt alleen voor de bij of krachtens in het derde lid bedoelde wettelijke voorschriften vastgestelde taken. Hierbij kunnen de bevoegdheden, bedoeld in de [artikelen 1:23](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:24](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:25](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:27](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:31 tot en met 1:34 van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md), worden toegepast.   
 3.  De in het tweede lid bedoelde wettelijke voorschriften zijn de in de [bijlage bij de artikelen 1:1 en 1:3 van de wet, onder A](../../../../wet/algemene/douanewet/BWBR0023746/README.md), bedoelde voorschriften voor zover het voorschriften aangaande onderwerpen betreft die vallen onder de reikwijdte van de volgende wettelijke voorschriften en deze wettelijke voorschriften zelf, voor zover deze betrekking hebben op goederen en goederenverkeer: 
 
@@ -294,7 +294,7 @@ c. het aan boord nemen van goederen voor reparatie of vervanging van onderdelen 
 
 ### Artikel  2:3  
 
-1.  De artikelen 2:0, 2:1, 2:2 en 2:5 zijn niet van toepassing op de volgende schepen en luchtvaartuigen: 
+1.  De artikelen 2:0, 2:0a, 2:1, 2:2 en 2:5 zijn niet van toepassing op de volgende schepen en luchtvaartuigen: 
 
 a. oorlogsschepen en militaire luchtvaartuigen;  
 
@@ -584,7 +584,7 @@ b. een administratie voert die inzichtelijk maakt dat de landbouwproducten de be
 
 c. een controleregister bijhoudt als bedoeld in artikel 34, vierde lid, eerste en tweede alinea, van verordening 612/2009, of de bij iedere leverantie gebruikte documenten overlegt waarop de douaneautoriteiten de datum hebben vermeld waarop de producten aan boord zijn gebracht.     
 4.  Het Hoofdproductschap Akkerbouw is bevoegd tot intrekking van de toestemming indien de belanghebbende niet langer voldoet aan de in het derde lid bedoelde eisen of aan de eisen, bedoeld in artikel 34 van verordening 612/2009.   
-5.  De Algemene Inspectiedienst gaat, voorafgaand aan de verlening van de toestemming, bedoeld in het eerste lid, na of aan de in het derde lid bedoelde vereisten is voldaan en doet van zijn bevindingen verslag aan het Hoofdproductschap Akkerbouw.   
+5.  De Nederlandse Voedsel- en Warenautoriteit gaat, voorafgaand aan de verlening van de toestemming, bedoeld in het eerste lid, na of aan de in het derde lid bedoelde vereisten is voldaan en doet van zijn bevindingen verslag aan het Hoofdproductschap Akkerbouw.   
 
 ### Artikel  3:24  
 
@@ -603,7 +603,7 @@ c. een controleregister bijhoudt als bedoeld in artikel 34, vierde lid, eerste e
 1.  Het Hoofdproductschap Akkerbouw is bevoegd tot verlening van een erkenning van de houder van onder douanetoezicht staande bevoorradingsruimten, als bedoeld in de artikelen 37, tweede lid, en 40, tweede lid, tweede alinea, van verordening 612/2009.   
 2.  Een belanghebbende dient een aanvraag om erkenning als bedoeld in het eerste lid, in bij het Hoofdproductschap Akkerbouw.   
 3.  De erkenning, bedoeld in het eerste lid, wordt verleend indien is voldaan aan de voorwaarden, bedoeld in artikel 37, tweede lid, van verordening 612/2009.   
-4.  Het Hoofdproductschap Akkerbouw is bevoegd tot intrekking van de erkenning indien uit onderzoek van de Algemene Inspectiedienst is gebleken dat de erkenninghouder niet langer voldoet aan de voorwaarden, bedoeld in het derde lid.   
+4.  Het Hoofdproductschap Akkerbouw is bevoegd tot intrekking van de erkenning indien uit onderzoek van de Nederlandse Voedsel- en Warenautoriteit is gebleken dat de erkenninghouder niet langer voldoet aan de voorwaarden, bedoeld in het derde lid.   
 
 ### Artikel  3:27  
 
@@ -616,19 +616,19 @@ De verlening van restitutie voor proviandering van zeeschepen, waaronder ook beg
 
 ### Artikel  3:29  
 
-1.  Als bevoegde instantie, bedoeld in artikel 40, eerste lid, van verordening 612/2009, wordt aangewezen de Algemene Inspectiedienst.   
+1.  Als bevoegde instantie, bedoeld in artikel 40, eerste lid, van verordening 612/2009, wordt aangewezen de Nederlandse Voedsel- en Warenautoriteit.   
 2.  Als bevoegde instantie, bedoeld in artikel 40, tweede lid, van verordening 612/2009, wordt aangewezen het Productschap Zuivel. Een belanghebbende kan een aanvraag om landbouwproducten over te brengen naar een tweede bevoorradingsdepot indienen bij dat productschap.   
 
 ### Artikel  3:30  
 
 1.  Levering aan boor- en productieplatforms geschiedt uitsluitend door een door het Hoofdproductschap Akkerbouw erkende exploitant van een bevoorradingsschip of bevoorradingshelikopter.   
 2.  Een belanghebbende dient een aanvraag om erkenning als bedoeld in het eerste lid, schriftelijk in bij het Hoofdproductschap Akkerbouw.   
-3.  De Algemene Inspectiedienst toetst de aanvraag aan de criteria, bedoeld in artikel 41, tweede lid, onder b, tweede streepje, van verordening 612/2009, en doet hiervan verslag aan het Hoofdproductschap Akkerbouw.   
+3.  De Nederlandse Voedsel- en Warenautoriteit toetst de aanvraag aan de criteria, bedoeld in artikel 41, tweede lid, onder b, tweede streepje, van verordening 612/2009, en doet hiervan verslag aan het Hoofdproductschap Akkerbouw.   
 4.  Het Hoofdproductschap Akkerbouw is bevoegd tot intrekking van een erkenning indien de belanghebbende niet langer voldoet aan de criteria, bedoeld in het derde lid.   
 
 ### Artikel  3:31  
 
-1.  De bewijsstukken als bedoeld in artikel 35, tweede lid, van verordening 612/2009 worden door de betrokken deelnemer in zijn administratie bewaard ten behoeve van de Algemene Inspectiedienst. Het bewijs als bedoeld in artikel 36, derde lid, eerste alinea, van verordening 612/2009 wordt ingediend bij de productschappen. Het bewijs als bedoeld in de artikelen 40, vierde en vijfde lid, en 42, tweede lid, van verordening 612/2009 wordt ingediend bij het Productschap Zuivel.   
+1.  De bewijsstukken als bedoeld in artikel 35, tweede lid, van verordening 612/2009 worden door de betrokken deelnemer in zijn administratie bewaard ten behoeve van de Nederlandse Voedsel- en Warenautoriteit. Het bewijs als bedoeld in artikel 36, derde lid, eerste alinea, van verordening 612/2009 wordt ingediend bij de productschappen. Het bewijs als bedoeld in de artikelen 40, vierde en vijfde lid, en 42, tweede lid, van verordening 612/2009 wordt ingediend bij het Productschap Zuivel.   
 2.  Het bewijs, bedoeld in de artikelen 38, tweede lid, eerste alinea, en 40, derde lid, eerste alinea, van verordening 612/2009, wordt ingediend bij de bevoegde autoriteit van de lidstaat waar de aangifte ten uitvoer is gedaan.   
 3.  Op verzoek van een belanghebbende kan het productschap ermee instemmen dat het bewijs, bedoeld in artikel 42, derde lid, onder a of b, tweede streepje, van verordening 612/2009, wordt geleverd met een door de scheepskapitein of een andere scheepsofficier van dienst ondertekend certificaat van ontvangst dat van het scheepsstempel is voorzien.   
 4.  In voorkomend geval kan het productschap op verzoek van een belanghebbende ermee instemmen dat het bewijs, bedoeld in artikel 42, derde lid, onder b, tweede streepje, van verordening 612/2009, wordt geleverd met een door een beambte van de luchtvaartmaatschappij ondertekend certificaat van ontvangst dat van het stempel van de maatschappij is voorzien.   
@@ -642,9 +642,9 @@ De verlening van restitutie voor proviandering van zeeschepen, waaronder ook beg
 1.  Het productschap is bevoegd een toestemming als bedoeld in artikel 76 van het Communautair douanewetboek in samenhang met artikel 282 van de toepassingsverordening Communautair douanewetboek te verlenen.   
 2.  De toestemming, bedoeld in het eerste lid, kan slechts betrekking hebben op het achterwege laten bij de aangifte ten uitvoer van de vermelding van gehalte, samenstelling of hoedanigheid van uit te voeren landbouwproducten.   
 3.  Het productschap kan de toestemming, bedoeld in het eerste lid, onder voorwaarden en beperkingen verlenen.   
-4.  Het productschap verleent een toestemming in overeenstemming met de Algemene Inspectiedienst.   
+4.  Het productschap verleent een toestemming in overeenstemming met de Nederlandse Voedsel- en Warenautoriteit.   
 5.  Het productschap kan een toestemming intrekken, wanneer blijkt dat de voorwaarden en de beperkingen waaronder de toestemming is verleend, niet zijn nageleefd.   
-6.  De Algemene Inspectiedienst houdt toezicht op de naleving van de voorwaarden en beperkingen, bedoeld in het derde lid.   
+6.  De Nederlandse Voedsel- en Warenautoriteit houdt toezicht op de naleving van de voorwaarden en beperkingen, bedoeld in het derde lid.   
 
 ### Afdeling  3.6  
 
@@ -1087,9 +1087,9 @@ Voor goederen, vermeld in onderstaande lijst, die in kleine zendingen of door re
 
 | Omschrijving  | Grondslag  | Tarief  |
 |:---|:---|:---|
-| a. overige alcoholhoudende producten als bedoeld in [artikel 12 van de Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md):  | liter  | € 5,72  |
-| b. rooktabak  | kleinhandelsprijs van  soortgelijke producten  | 56,4%  |
-| c. sigaretten  | kleinhandelsprijs van  soortgelijke producten  | 65,9%  |
+| a. overige alcoholhoudende producten als bedoeld in [artikel 12 van de Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md):  | liter  | € 6,06  |
+| b. rooktabak  | kleinhandelsprijs van  soortgelijke producten  | 66%  |
+| c. sigaretten  | kleinhandelsprijs van  soortgelijke producten  | 69,8%  |
 
 ### Artikel  7:18  
 
@@ -1240,9 +1240,9 @@ Het aanslagbiljet bevat in ieder geval de volgende gegevens:
 
 ### Artikel  8:3  
 
-1.  Voor de berekening van het bedrag aan rechten, andere belastingen, heffingen en retributies, andere belastingen, heffingen en retributies wordt een bedrag dat dient als grondslag voor die berekening zodanig afgerond dat een gedeelte van een euro rekenkundig wordt afgerond op hele euro’s.   
+1.  Voor de berekening van het bedrag aan rechten, andere belastingen, heffingen en retributies wordt een bedrag dat dient als grondslag voor die berekening zodanig afgerond dat een gedeelte van een euro rekenkundig wordt afgerond op hele euro’s.   
 2.  Voor de berekening van het bedrag aan rechten, andere belastingen, heffingen en retributies wordt een hoeveelheid die dient als grondslag voor die berekening, zodanig afgerond dat een gedeelte van een kilogram, van een liter of van een meter in aanmerking wordt genomen als een heel kilogram, een hele liter of een hele meter.   
-3.  Indien de eenheid waarover het bedrag aan rechten moet worden berekend minder is dan een kilogram, een liter of een meter, wordt, in afwijking van het tweede lid, een hoeveelheid die dient als grondslag voor de berekening, bedoeld in het tweede lid, zodanig afgerond dat een gedeelte van 100 gram, van een deciliter of van een decimeter in aanmerking wordt genomen als 100 gram, een hele deciliter of een hele decimeter.   
+3.  Indien de eenheid waarover het bedrag aan rechten, andere belastingen, heffingen en retributies moet worden berekend minder is dan een kilogram, een liter of een meter, wordt, in afwijking van het tweede lid, een hoeveelheid die dient als grondslag voor de berekening, bedoeld in het tweede lid, zodanig afgerond dat een gedeelte van 100 gram, van een deciliter of van een decimeter in aanmerking wordt genomen als 100 gram, een hele deciliter of een hele decimeter.   
 4.  Voor de berekening van het bedrag aan rechten, andere belastingen, heffingen en retributies wordt een volumepercentage ethylalcohol die dient als grondslag voor die berekening, naar beneden afgerond op tiende percent absolute ethylalcohol.   
 
 ### Artikel  8:4  
@@ -1568,7 +1568,7 @@ c. wanneer de communautaire wetgeving daar uitdrukkelijk in voorziet.   De aldus
 
 #### *B. Te vermelden gegevens* 
 
-De invulling van de vakken en deelvakken wordt beheerst door de communautaire matrix van Bijlage 37 TVo.CDW. In de nationale matrix, die hierna is opgenomen, is de communautaire matrix verwerkt en zijn eveneens de nationaal verplicht gestelde vakken opgenomen. Deze nationale matrix bepaalt voor elke douaneregeling of -bestemming, bewijs communautair karakter van de goederen en tijdelijke opslag of een vak of deelvak moet of mag worden gebruikt volgens de kolommen A tot en met L. Voorzover van toepassing zijn daarbij ook vermeld de codes van de gevraagde regelingen als bedoeld voor het eerste deelvak van vak 37:  
+De invulling van de vakken en deelvakken wordt beheerst door de communautaire matrix van Bijlage 37 TVo.CDW. In de nationale matrix, die hierna is opgenomen, is de communautaire matrix verwerkt en zijn eveneens de nationaal verplicht gestelde vakken opgenomen. Deze nationale matrix bepaalt voor elke douaneregeling of -bestemming, bewijs communautair karakter van de goederen en tijdelijke opslag of een vak of deelvak moet of mag worden gebruikt volgens de kolommen A tot en met L. Wanneer de formaliteiten in verband met het douanevervoer door de uitwisseling van EDI-berichten worden vervuld, geldt het bepaalde in deze bijlage behoudens andersluidende bepalingen in de bijlagen 37bis of 37quater van de toepassingsverordening Communautair douanewetboek. Voorzover van toepassing zijn daarbij ook vermeld de codes van de gevraagde regelingen als bedoeld voor het eerste deelvak van vak 37:  
 
 | Opschriften van de kolommen in de nationale matrix  | In het eerste deelvak van vak 37 te gebruiken codes  |
 |:---|:---|
@@ -1608,7 +1608,7 @@ Opgemerkt zij dat indien een vak verplicht is voor de aangever (X), dit geen afb
 | 6  | --- | --- | --- | --- | --- | X <sup>4</sup>  | --- | --- | --- | --- | --- | --- |
 | 7  | X*  | X*  | X*  | X*  | X*  | X <sup>5</sup>  | --- | X*  | X*  | X*  | X*  | X*  |
 | 8  | X <sup>1, 28</sup>  | X  | --- | --- | --- | X <sup>6</sup>  | --- | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  | --- |
-| 8 (No)  | --- | --- | --- | --- | --- | --- | --- | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  | --- |
+| 8 (No)  | --- | --- | --- | --- | --- | X <sup>27</sup>  | --- | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  | --- |
 | 14  | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  | --- | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  |
 | 14 (No)  | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  | --- | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  |
 | 15  | --- | --- | --- | --- | --- | X <sup>2</sup>  | --- | --- | --- | --- | --- | --- |
@@ -2173,7 +2173,7 @@ De nationale codes vermelden. De nationale code bestaat uit een code van 2 teken
 
 – lijkkisten die het stoffelijk overschot en lijkurnen die de as van overledenen bevatten alsmede grafornamenten:  
 
-– goederen voor instellingen met een liefdadig of filantropisch karakter en goederen ten bate van slachtoffers van rampen.   Statistische codes: Voor bepaalde specifieke overbrengingen van goederen aan schepen en luchtvaartuigen geleverde goederen: 9930 24 00: goederen van de hoofdstukken 1 tot en met 24 van de GN 9930 27 00: goederen van hoofdstuk 27 van de GN 9930 99 00: elders ingedeelde goederen 9931 24 00: Goederen die zijn geleverd voor de op de installatie op volle zee werkzame personen of voor de werking van de motoren, machines en andere toestellen op deze installaties. 9950 00 00: Code die uitsluitend in het goederenverkeer tussen lidstaten wordt gebruikt voor afzonderlijke transacties met een waarde van minder dan 200 EUR en voor de aangifte van restgoederen in sommige gevallen. 
+– goederen voor instellingen met een liefdadig of filantropisch karakter en goederen ten bate van slachtoffers van rampen.   9990.99.0200: Bij plaatsing onder de douaneregeling douane-entrepot van de typen B en C, indien op grond van de vergunning van het douane-entrepot de vermelding van de goederencode niet is vereist. Statistische codes: Voor bepaalde specifieke overbrengingen van goederen aan schepen en luchtvaartuigen geleverde goederen: 9930 24 00: goederen van de hoofdstukken 1 tot en met 24 van de GN 9930 27 00: goederen van hoofdstuk 27 van de GN 9930 99 00: elders ingedeelde goederen 9931 24 00: Goederen die zijn geleverd voor de op de installatie op volle zee werkzame personen of voor de werking van de motoren, machines en andere toestellen op deze installaties. 9950 00 00: Code die uitsluitend in het goederenverkeer tussen lidstaten wordt gebruikt voor afzonderlijke transacties met een waarde van minder dan 200 EUR en voor de aangifte van restgoederen in sommige gevallen. 
 ###Vak 34a: Code land van oorsprong
 
 Gebruik de in vak 2 vermelde landencode. 
@@ -2689,7 +2689,8 @@ Verklaring als bedoeld in artikelen 4:2 en 4:3 van de Algemene douaneregeling   
 
 ### Bijlage  IX  
 
-Model van het aangifteformulier, bedoeld in artikel 5:1, eerste lid van de Algemene douaneregeling   ![243641](http://wetten.overheid.nl/Illustration/243641)
+Model van het aangifteformulier als bedoeld in artikel 5:1, eerste lid, van de Algemene douaneregeling   ![243641](http://wetten.overheid.nl/Illustration/243641)
+![243641](http://wetten.overheid.nl/Illustration/243641)
 
 ### Bijlage  IXa  
 
@@ -2781,7 +2782,7 @@ Lijst van functionele gegevenselementen die opgenomen moeten worden in het elekt
 
 ### Bijlage  X  
 
-Instellingen en organisaties als bedoeld in artikel 43, onder b, van Verordening 1186/2009: 
+Instellingen en organisaties als bedoeld in artikel 43, onderdeel b, van Verordening 1186/2009. 
 
 – Algemeen Pedagogisch studiecentrum, Amsterdam  
 
@@ -2793,21 +2794,13 @@ Instellingen en organisaties als bedoeld in artikel 43, onder b, van Verordening
 
 – Avans Hogeschool, locatie Tilburg, Tilburg  
 
-– Center Applied Research, Tilburg  
-
-– Codarts Hogeschool voor de Kunsten, Rotterdam  
-
 – Conservatorium van Amsterdam, Amsterdam  
-
-– Constantijn Huygens Instituut, ’s-Gravenhage  
 
 – De Amsterdamse Toneelschool en Kleinkunstacademie, Amsterdam  
 
 – Fontys Hogescholen, Maastricht  
 
 – Fontys Hogescholen, Venlo  
-
-– Fontys Hogeschool, Eindhoven  
 
 – Fontys Hogeschool, Eindhoven  
 
@@ -2825,141 +2818,117 @@ Instellingen en organisaties als bedoeld in artikel 43, onder b, van Verordening
 
 – Hogeschool Haarlem, Haarlem  
 
-– Institute of Social Studies, ’s-Gravenhage  
-
-– Instituut voor lerarenopleiding, Amsterdam  
+– Instituut voor de Lerarenopleiding, Amsterdam  
 
 – Internationaal Agrarisch Centrum, Wageningen  
 
-– Internationaal instituut voor Sociale Geschiedenis, Amsterdam  
+– Internationaal Instituut voor Sociale Geschiedenis, Amsterdam  
 
-– Koningin Wilhelminafonds, Amsterdam  
+– KWF Kankerbestrijding, Amsterdam  
 
 – Koninklijke Bibliotheek, Den Haag  
 
-– Koninklijk Instituut voor Taal-Land-en Volkenkunde, Leiden  
+– Koninklijk Instituut voor Taal-, Land- en Volkenkunde, Leiden  
 
-– Maatschappij der Nederlandse Letterkunde, Leiden  
-
-– Museum Koninklijke Marechaussee, Buren  
-
-– Nationaal Fonds Geestelijke Volksgezondheid, Utrecht  
-
-– Nederlands Audiovisueel Archief, Hilversum  
+– Museum der Koninklijke Marechaussee, Buren  
 
 – Nederlands Bijbelgenootschap, Haarlem  
 
-– Nederlands Economisch Historisch Archief, Amsterdam  
+– Nederlandsch Economisch Historisch Archief, Amsterdam  
 
 – Nederlandse Hartstichting, ’s-Gravenhage  
 
 – Nederlandse Stichting voor Leprabestrijding, Amsterdam  
 
-– Nederlands Filmmuseum, Amsterdam  
+– EYE Film Instituut, Amsterdam  
 
-– NOS Radio & Televisie, Hilversum  
+– Nederlandse Omroep Stichting, Hilversum  
 
 – Rotary Administratie Nederland, Amsterdam  
 
-– Secretariaat Rooms Katholieke Kerkgenootschap, Utrecht  
+– Secretariaat Rooms Katholiek Kerkgenootschap, Utrecht  
 
 – Stichting Afasietherapie Amsterdam, Amsterdam  
 
-– Stichting Afrika studiecentrum, Leiden  
+– Stichting Afrika Studiecentrum, Leiden  
 
 – Stichting Nederlandse Ontwikkelingsorganisatie (SNV), ’s-Gravenhage  
-
-– Stichting Centrale opleidingscursussen voor middelbare akten (COCMA), Utrecht  
-
-– Stichting Filmcentrum, Hilversum  
 
 – Stichting Gemeentemuseum Den Haag, Den Haag  
 
 – Stichting Hanzehogeschool, Groningen  
 
-– Stichting het Veiligheids Instituut, Amsterdam  
-
 – Stichting Leerplan Ontwikkeling, Enschede  
 
 – Stichting Maritiem Museum, Rotterdam  
 
-– Stichting museon (museum voor het onderwijs), Den Haag  
+– Stichting Museon (Museum voor het Onderwijs), Den Haag  
 
-– Stichting Nationaal Luchtvaartthemapark Aviodrome  
-
-– Stichting Nationaal natuurhistorischmuseum Naturalis, Leiden  
+– Stichting Nationaal Natuurhistorisch Museum Naturalis, Leiden  
 
 – Stichting Natuur en Milieu, Utrecht  
 
+– Stichting Nederlands Instituut voor Beeld en Geluid, Hilversum  
+
 – Stichting Nuffic, Den Haag  
 
-– Stichting Rijksmuseum van oudheden, Leiden  
+– Stichting Rijksmuseum van Oudheden, Leiden  
 
-– Stichting Rijksmuseum voor volkenkunde, Leiden  
+– Stichting Rijksmuseum voor Volkenkunde, Leiden  
 
 – Stichting tot Exploitatie van het Rijksbureau voor Kunsthistorische Documentatie, Den Haag  
 
 – Stichting vrienden van het Mauritshuis, ’s-Gravenhage  
 
-– Stichting Youth for Christ Nederland, Driebergen  
-
-– Stichting Vroege Vogels, Amsterdam  
+– Stichting Vroege Vogels, Lelystad  
 
 – Technische Universiteit Delft, Afdeling Bibliotheek, Delft  
-
-– Theater Instituut Nederland, Amsterdam  
 
 – Theologische Universiteit, Kampen  
 
 – Toneel Academie Maastricht, Maastricht  
 
-– Universiteit Leiden bibliotheek, Leiden  
-
-– Universiteit Leiden Departement culturele antropologie en ontwikkelingssocïologie, Leiden  
-
-– Universiteit Leiden Faculteit Letteren, Leiden  
-
-– Universiteit Leiden, Instituut voor prehistorie, Leiden  
+– Universiteit Leiden, Leiden  
 
 – Universiteit Nyenrode, Breukelen  
 
 – Universiteitsbibliotheek Universiteit van Amsterdam, Amsterdam  
 
-– Vereniging Koninklijk instituut voor de tropen, information and library services, Amsterdam  
+– Vereniging Koninklijk Instituut voor de Tropen, KIT bibliotheek, Amsterdam  
 
-– Vereniging voor Christelijk wetenschappelijk onderwijs t.b.v. VU bibliotheek, Amsterdam  
+– Vereniging voor Christelijk wetenschappelijk onderwijs,Universiteitsbibliotheek Vrije Universiteit, Amsterdam  
 
 – Vrienden van de Hartstichting, ’s-Gravenhage  
 
-– Wereld Esperanto-Vereniging (UEA), Rotterdam  
-
-– Wereld Natuurfonds, Zeist   
+– Wereld Esperanto-Vereniging (UEA), Rotterdam   
 
 ### Bijlage  XI  
 
-Instellingen als bedoeld in artikel 44, tweede lid, onderdeel b, van Verordening 1186/2009: 
+Instellingen als bedoeld in artikel 44, tweede lid, onderdeel b, van Verordening 1186/2009. 
 
 – Academie Jan van Eyck, Maastricht  
 
-– Centraal Bureau voor Schimmelcultures, Utrecht  
+– Academisch Ziekenhuis Leiden, handelend onder de naam Leids Universitair Medisch Centrum, Leiden  
 
-– Erasmus MC-Daniël den Hoed, Rotterdam  
+– Centraalbureau voor Schimmelcultures, Utrecht  
+
+– Centrum Wiskunde & Informatica, Amsterdam  
 
 – Europees Instituut voor Bestuurskunde, Maastricht  
 
-– FOM-Instituut voor Atoom en Molecuulfysica, Amsterdam  
+– FOM-Instituut Nikhef, Amsterdam  
 
-– FOM-Instituut voor Plasmafysica, Nieuwegein  
+– FOM-Instituut AMOLF, Amsterdam  
 
-– Hubrecht Laboratorium, Utrecht  
+– FOM-Instituut DIFFER, Nieuwegein  
+
+– Hubrecht Instituut, Utrecht  
 
 – Instituut Collectie Nederland, Amsterdam  
 
-– Instituut voor Bodemvruchtbaarheid, Groningen  
+– Instituut voor Bodemvruchtbaarheid, Haren, Groningen  
 
-– Instituut voor Doven, Schijndel  
-
-– Integraal Kankercentrum Noord-Nederland, Groningen  
+– Integraal Kankercentrum Nederland, Groningen  
 
 – Interuniversitair Cardiologisch Instituut Nederland, Utrecht  
 
@@ -2967,87 +2936,67 @@ Instellingen als bedoeld in artikel 44, tweede lid, onderdeel b, van Verordening
 
 – Koninklijk Instituut voor de Tropen, Amsterdam  
 
-– Koninklijk Nederlands Instituut voor Onderzoek der zee, Den Burg  
+– Koninklijk Nederlands Instituut voor Zeeonderzoek, Den Burg  
 
 – Koninklijk Nederlands Meteorologisch Instituut, De Bilt  
 
 – Koninklijke Militaire Academie, Breda  
 
-– Koninklijke Nederlandse Akademie van wetenschappen, Amsterdam  
+– Koninklijke Nederlandse Akademie van Wetenschappen, Amsterdam  
 
 – Laboratorium van de Vereniging Natura Docet, Denekamp  
 
-– Laboratorium voor de Volksgezondheid Friesland, Leeuwarden  
+– Laboratorium voor de Volksgezondheid in Friesland, Leeuwarden  
 
-– Leids Sterrewachtfonds, Leiden  
-
-– Mathematisch Centrum, Amsterdam  
-
-– Nationaal Herbarium Nederland Universiteit Leiden Vestiging, Leiden  
-
-– Nationaal Instituut voor Kernfysica en Hoge-energiefysica sectie K, Amsterdam  
-
-– Nationaal Instituut voor Kernfysica en Hoge-energiefysica, sectie Hoge-energiefysica, Amsterdam  
+– Nationaal Herbarium Nederland Universiteit Leiden, Leiden  
 
 – Nationaal Lucht en Ruimtevaartlaboratorium, Amsterdam  
 
-– Nederlands Instituut voor Ecologie, Heteren  
+– Nederlands Instituut voor Ecologie, Wageningen  
 
-– Nederlands Instituut voor Hersenonderzoek, Amsterdam  
-
-– Nederlands Kankerinstituut, Amsterdam  
-
-– Nederlandse Instituut voor Ecologie, Yerseke  
+– Nederlands Kanker Instituut, Amsterdam  
 
 – Nederlandse organisatie voor wetenschappelijk onderzoek, ’s-Gravenhage  
 
-– Nederlandse Rode Kruis Centraal Laboratorium Bloedtransfusiedienst, Amsterdam  
-
-– Plantenziektenkundige Dienst, Wageningen  
-
 – Radbout Universiteit Nijmegen, Nijmegen  
 
-– Rijksuniversiteit Groningen te Groningen  
+– Rijksuniversiteit Groningen, Groningen  
 
-– Rotary Wing Training Center BV te Etten-Leur  
+– Rotary Wing Training Center BV, Etten-Leur  
 
-– Stichting Academisch Rekencentrum, Amsterdam  
+– ECN, Petten  
 
-– Stichting Energieonderzoek Centrum Nederland/ECN, Petten  
-
-– Stichting Internationaal Instituut voor Luchtkartering en Aardkunde (ITC), Enschede  
+– Stichting Internationaal Instituut voor Luchtkartering en Aardkunde, Enschede  
 
 – Stichting Netherlands Institute for Metals Research, Delft  
 
-– Stichting voor Diergeneeskundig Onderzoek, Lelystad  
+– Stichting Dienst Landbouwkundig Onderzoek, Wateringen  
 
-– Stichting voor Fundamenteel Onderzoek Materie, Utrecht  
+– Stichting Sanquin Bloedvoorziening, Amsterdam  
+
+– Stichting voor Fundamenteel Onderzoek der Materie, Utrecht  
 
 – Stichting voor Internationaal Vlamonderzoek, Velsen-Noord  
 
-– Stichting voor Isotopengeologisch Onderzoek, Amsterdam  
+– Stichting Deltares, Delft  
 
-– Stichting Waterbouwkundig Laboratorium, Delft  
-
-– Stichting Wetenschappelijk onderzoek Sophia Kinderziekenhuis, Rotterdam  
-
-– Stichting wetenschappelijk Onderzoek Tropen, ’s-Gravenhage  
+– Stichting voor Wetenschappelijk Onderzoek van de Tropen, ’s-Gravenhage  
 
 – Technische Universiteit Delft, Delft  
 
 – Technische Universiteit Eindhoven, Eindhoven  
 
-– TNO ’s-Gravenhage, ’s-Gravenhage  
+– TNO locatie Den Haag, ’s-Gravenhage  
 
-– Universiteit Leiden Faculteit Der Geneeskunde, Leiden  
+– Universiteit Leiden, Leiden  
 
 – Universiteit Twente, Enschede  
+
+– Universiteit Utrecht, Onderzoek, Utrecht  
 
 – Universiteit van Amsterdam, Amsterdam  
 
 – Universiteit van Tilburg, Tilburg  
-
-– Vereniging Simon Stevin, Hoeven  
 
 – Vrije Universiteit Amsterdam, Amsterdam  
 
@@ -3064,8 +3013,6 @@ Gereserveerd
 ### Bijlage  XIII  
 
 Instellingen en organisaties als bedoeld in artikel 53, tweede lid, onderdeel b, van Verordening 1186/2009. 
-
-– Erasmus M.C., Rotterdam  
 
 – Toegepast Natuurwetenschappelijk Onderzoek (TNO), Delft   
 
@@ -3087,49 +3034,33 @@ Geadresseerden als bedoeld in artikel 59 van Verordening 1186/2009:
 
 ### Bijlage  XV  
 
-Instellingen en organisaties als bedoeld in de artikelen 67 en 68, eerste lid, van Verordening 1186/2009. 
+Instellingen en organisaties als bedoeld in de artikelen 67, eerste lid, onderdeel b, en 68, eerste lid, onderdeel b, van Verordening 1186/2009. 
 
 – Bartiméus Onderwijs, Zeist  
 
-– Bartiméus Vereniging, Doorn  
-
-– Bibliotheek voor Blinden en Slechtzienden (CBB), Ermelo  
-
 – Blindenbibliotheek ‘Le Sage ten Broek’, Nijmegen  
 
-– Bond van Nederlandse Militaire Oorlogs- en Dienstslachtoffers, Doorn  
-
-– Harry Bacon Club, Amsterdam  
-
-– Nederlandse Blindenbibliotheek, ’s-Gravenhage  
+– Loket aangepast lezen, ’s-Gravenhage  
 
 – Nederlandse Schaakvereniging voor Visueel Gehandicapten, Bovensmilde  
 
-– Nederlandse Vereniging Sarcoidose, Amsterdam  
+– Nederlandse Stomavereniging Harry Bacon, Amsterdam  
 
-– Nederlandse Vereniging voor Blinden en Slechtzienden (NVBS), Utrecht  
+– Sarcoidose Belangenvereniging Nederland, Nijkerk  
 
 – Sensis Nijmegen, Nijmegen  
-
-– Sonneheerdt voor Slechtzienden en Blinden, Ermelo  
 
 – Stichting Adriaan Moonen Licht en Liefde verzorgingshuis voor visueel gehandicapten, Maastricht  
 
 – Stichting Bralectah, Zwolle  
 
-– Stichting Federatie Nederlandse Blinden bibliotheek Grave, Grave/Utrecht  
+– Dedicon, Grave  
 
-– Stichting Fokus exploitatie, Groningen  
+– Stichting Fokus Exploitatie, Groningen  
 
-– Stichting Het Loo Erf, Apeldoorn  
+– Stichting Koninklijk Nederlands Geleidehonden Fonds, Amstelveen  
 
-– Stichting Koninklijk Nederlands Geleidehondenfonds, Amstelveen  
-
-– Stichting voor Blinden en Slechtzienden, ’s-Gravenhage  
-
-– Stichting Vriendenkring Le Sage ten Broek, Utrecht  
-
-– Vereniging Anders Lezen, Grave  
+– Landelijke Stichting voor Blinden en Slechtzienden, Utrecht  
 
 – Vereniging spierziekten Nederland, Baarn   
 

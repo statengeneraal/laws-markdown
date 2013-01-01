@@ -369,18 +369,18 @@ Vervallen door vernummering.
 
 ### Artikel  42  
 
-1.  De Afdeling bestuursrechtspraak vormt en bezet op voorstel van de voorzitter enkelvoudige en meervoudige kamers.   
-2.  De meervoudige kamers bestaan uit drie leden, van wie een als voorzitter optreedt.   
+1.  De Afdeling bestuursrechtspraak vormt en bezet op voorstel van de voorzitter enkelvoudige, meervoudige en grote kamers.   
+2.  De meervoudige kamers en grote kamers bestaan uit drie onderscheidenlijk vijf leden, van wie een als voorzitter optreedt.   
 3.  Leden van de Afdeling bestuursrechtspraak die niet voldoen aan het vereiste, gesteld in artikel 2, vierde lid, kunnen: 
 
 a. geen zitting hebben in een enkelvoudige kamer en  
 
-b. niet de meerderheid vormen van de leden van de meervoudige kamer.     
+b. niet de meerderheid vormen van de leden van een meervoudige of grote kamer.     
 4.  Een lid van de Afdeling bestuursrechtspraak dat betrokken is geweest bij de totstandkoming van een advies van de Raad, neemt geen deel aan de behandeling van een geschil over een rechtsvraag waarop dat advies betrekking had.   
 
 ### Artikel  43  
 
-1.  De voorzitter van een meervoudige kamer doet in raadkamer hoofdelijk omvraag. De voorzitter maakt zelf als laatste zijn oordeel kenbaar.   
+1.  De voorzitter van een meervoudige of grote kamer doet in raadkamer hoofdelijk omvraag. De voorzitter maakt zelf als laatste zijn oordeel kenbaar.   
 2.  Ieder lid is verplicht aan de besluitvorming deel te nemen.   
 3.  Een afwezig lid kan zijn oordeel niet door een van de aanwezige leden doen voordragen of het schriftelijk uitbrengen.   
 
@@ -396,111 +396,14 @@ c. over een voor hen aanhangige zaak of over een zaak die naar zij weten of rede
 
 ### Artikel  45  
 
-1.  De Afdeling bestuursrechtspraak stelt een regeling vast voor de behandeling van klachten.   
-2.  Klachten zijn niet mogelijk ten aanzien van gedragingen waartegen ingevolge een wettelijk geregelde voorziening een procedure bij een rechterlijke instantie openstaat of heeft opengestaan, dan wel beroep openstaat of heeft opengestaan tegen een uitspraak die in een zodanige procedure is gedaan. Klachten kunnen evenmin een rechterlijke beslissing betreffen.   
+1.  De voorzitter van de Afdeling bestuursrechtspraak stelt een regeling vast voor de behandeling van klachten.   
+2.  Klachten kunnen niet een rechterlijke uitspraak betreffen.   
 3.  [Titel 9.1 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van de zinsnede «of een ander» in [artikel 9:1, eerste lid](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is van overeenkomstige toepassing, met dien verstande dat onder bestuursorgaan wordt verstaan: de Afdeling bestuursrechtspraak.   
 4.  De regeling, bedoeld in het eerste lid, wordt gepubliceerd in de Staatscourant.   
 
 ### Afdeling  3  
 
 ####Beroep en hoger beroep bij de Afdeling bestuursrechtspraak
-
-### Artikel  46  
-
-1.  Indien bij de Afdeling bestuursrechtspraak beroep kan worden ingesteld, is [hoofdstuk 8 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van de [artikelen 8:1, eerste en tweede lid](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:4](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:5](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:6, eerste lid](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:7](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:8](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:9](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:10](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:13](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [8:51a, eerste lid](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), van overeenkomstige toepassing, met dien verstande dat [artikel 8:86, eerste lid](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), slechts kan worden toegepast indien partijen daarvoor toestemming hebben gegeven. Ook hierop worden partijen in de uitnodiging, bedoeld in [artikel 8:83, eerste lid](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), gewezen.   
-2.  De zaken die bij de Afdeling bestuursrechtspraak aanhangig worden gemaakt, worden in behandeling genomen door een meervoudige kamer.   
-3.  Indien een zaak naar het oordeel van de meervoudige kamer geschikt is voor verdere behandeling door één rechter, kan zij deze verwijzen naar een enkelvoudige kamer.   
-4.  Indien een zaak naar het oordeel van de enkelvoudige kamer ongeschikt is voor behandeling door één rechter, verwijst zij deze naar een meervoudige kamer.   
-5.  Verwijzing kan geschieden in elke stand van het geding. Een verwezen zaak wordt voortgezet in de stand waarin zij zich bevindt.   
-6.  De Afdeling bestuursrechtspraak kan het bestuursorgaan opdragen een gebrek in het bestreden besluit te herstellen of te laten herstellen. De vorige volzin vindt geen toepassing, indien belanghebbenden die niet als partij aan het geding deelnemen daardoor onevenredig kunnen worden benadeeld.   
-
-### Artikel  47  
-
-1.  Een belanghebbende en het bestuursorgaan kunnen bij de Afdeling bestuursrechtspraak hoger beroep instellen tegen een uitspraak van de rechtbank als bedoeld in [afdeling 8.2.6 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en tegen een uitspraak van de voorzieningenrechter van de rechtbank als bedoeld in [artikel 8:86 van die wet](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), tenzij tegen de uitspraak hoger beroep kan worden ingesteld bij de Centrale Raad van Beroep, het College van Beroep voor het bedrijfsleven of het gerechtshof.   
-2.  Geen hoger beroep kan worden ingesteld tegen: 
-
-a. een uitspraak van de rechtbank na toepassing van [artikel 8:54, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md),  
-
-b. een uitspraak van de rechtbank als bedoeld in [artikel 8:54a van die wet](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md),  
-
-c. een uitspraak van de rechtbank als bedoeld in [artikel 8:55, vijfde lid, van die wet](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md),  
-
-d. een uitspraak van de voorzieningenrechter als bedoeld in [artikel 8:84, tweede lid, van die wet](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en  
-
-e. een uitspraak van de voorzieningenrechter als bedoeld in [artikel 8:75a, eerste lid](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), in verband met [artikel 8:84, vierde lid, van die wet](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
-3.  Tegelijkertijd met het hoger beroep tegen de in het eerste lid bedoelde uitspraak kan hoger beroep worden ingesteld tegen: 
-
-a. een tussenuitspraak als bedoeld in [artikel 8:80a van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md); of  
-
-b. een andere beslissing van de rechtbank.     
-
-### Artikel  48  
-
-1.  De secretaris doet van het ingestelde hoger beroep zo spoedig mogelijk mededeling aan de griffier van de rechtbank die de uitspraak heeft gedaan.   
-2.  De griffier van de rechtbank, bedoeld in het eerste lid, zendt de gedingstukken met vier afschriften van het proces-verbaal van de zitting, voor zover dit op de zaak betrekking heeft, en vier afschriften van de uitspraak binnen een week na ontvangst van de in het eerste lid bedoelde mededeling aan de secretaris.   
-
-### Artikel  49  
-
-1.  Op het hoger beroep is [hoofdstuk 8 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van [afdeling 8.1.1](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en de artikelen 8:10, 8:13, 8:41, [8:51a, eerste lid](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), 8:74 en 8:82, van overeenkomstige toepassing, voor zover in deze paragraaf niet anders is bepaald. [Artikel 8:86, eerste lid](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), kan slechts worden toegepast indien een enkelvoudige kamer van de rechtbank uitspraak op het beroep heeft gedaan.   
-2.  De zaken die bij de Afdeling bestuursrechtspraak aanhangig worden gemaakt, worden in behandeling genomen door een meervoudige kamer.   
-3.  Indien een zaak die door een enkelvoudige kamer van de rechtbank is behandeld naar het oordeel van de meervoudige kamer geschikt is voor verdere behandeling door één rechter, kan zij deze verwijzen naar een enkelvoudige kamer.   
-4.  Indien een zaak naar het oordeel van de enkelvoudige kamer ongeschikt is voor behandeling door één rechter, verwijst zij deze naar een meervoudige kamer.   
-5.  Verwijzing kan geschieden in elke stand van het geding. Een verwezen zaak wordt voortgezet in de stand waarin zij zich bevindt.   
-6.  De Afdeling bestuursrechtspraak kan het bestuursorgaan opdragen een gebrek in het bestreden besluit te herstellen of te laten herstellen. De vorige volzin vindt geen toepassing, indien belanghebbenden die niet als partij aan het geding deelnemen daardoor onevenredig kunnen worden benadeeld.   
-
-### Artikel  50  
-
-1.  In geval van intrekking van het hoger beroep door het bestuursorgaan kan het bestuursorgaan op verzoek van een partij bij afzonderlijke uitspraak met overeenkomstige toepassing van [artikel 8:75 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in de kosten worden veroordeeld. Indien het hoger beroep mondeling wordt ingetrokken, wordt het verzoek door de partij die daarbij aanwezig is mondeling gedaan tegelijk met de intrekking van het hoger beroep. Indien aan dit vereiste niet is voldaan, wordt het verzoek niet-ontvankelijk verklaard. Indien het hoger beroep schriftelijk wordt ingetrokken, wordt het verzoek schriftelijk gedaan. De [artikelen 6:5 tot en met 6:9](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [6:11](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [6:14](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [6:15](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [6:17](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [6:21 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
-2.  [Artikel 8:73a, tweede en derde lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
-
-### Artikel  51  
-
-1.  Van de indiener van het beroepschrift wordt door de secretaris een griffierecht geheven. Indien de uitspraak van de rechtbank, voor zover daartegen hoger beroep is ingesteld, betrekking heeft op meer dan één besluit of indien het een gezamenlijk beroepschrift van twee of meer indieners ter zake van dezelfde uitspraak betreft, is eenmaal griffierecht verschuldigd. In die gevallen bedraagt het griffierecht het hoogste op grond van het tweede lid ter zake van een van de besluiten onderscheidenlijk door een van de indieners verschuldigde griffierecht.   
-2.  Het griffierecht bedraagt: 
-
-a. € 232 indien door een natuurlijke persoon hoger beroep is ingesteld, tenzij bij wet anders is bepaald, en  
-
-b. € 466 indien anders dan door een natuurlijke persoon hoger beroep is ingesteld.     
-3.  Indien het bestuursorgaan hoger beroep heeft ingesteld en de uitspraak van de rechtbank wordt in stand gelaten, wordt van het bestuursorgaan een griffierecht geheven van € 466.   
-4.  De secretaris wijst de indiener van het beroepschrift op de verschuldigdheid van het griffierecht en deelt hem mee dat het verschuldigde bedrag binnen vier weken na de dag van verzending van zijn mededeling dient te zijn bijgeschreven op de rekening van de secretarie dan wel ter secretarie dient te zijn gestort. Indien het bedrag niet binnen deze termijn is bijgeschreven of gestort, wordt het hoger beroep niet-ontvankelijk verklaard, tenzij redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest.   
-5.  Indien het hoger beroep wordt ingetrokken omdat het bestuursorgaan geheel of gedeeltelijk aan de indiener van het beroepschrift is tegemoetgekomen, wordt het door de indiener betaalde griffierecht aan hem vergoed door het bestuursorgaan. In de overige gevallen kan het bestuursorgaan, indien het hoger beroep wordt ingetrokken, het betaalde griffierecht geheel of gedeeltelijk vergoeden.   
-6.  De in het tweede en derde lid genoemde bedragen kunnen bij algemene maatregel van bestuur worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.   
-7.  Dit artikel is van overeenkomstige toepassing op een verzoek om herziening.   
-
-### Artikel  52  
-
-1.  Van de verzoeker om een voorlopige voorziening wordt door de secretaris een griffierecht geheven. Artikel 51, eerste lid, tweede en derde volzin, tweede en zesde lid, is van overeenkomstige toepassing.   
-2.  Artikel 51, vierde lid, is van overeenkomstige toepassing, met dien verstande dat de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken bedraagt. De voorzitter kan een kortere termijn stellen.   
-3.  Indien het verzoek wordt ingetrokken omdat het bestuursorgaan, onderscheidenlijk de belanghebbende tot wie het bestreden besluit is gericht, aan de voorzitter schriftelijk heeft medegedeeld de uitvoering van het bestreden besluit hangende de procedure met betrekking tot de hoofdzaak op te schorten dan wel de gevraagde voorlopige maatregelen te zullen nemen, wordt het betaalde griffierecht door de secretaris terugbetaald. In de overige gevallen kan het bestuursorgaan, indien het verzoek wordt ingetrokken, het betaalde griffierecht geheel of gedeeltelijk vergoeden.   
-4.  De uitspraak kan inhouden dat het betaalde griffierecht door het door de voorzitter aangewezen bestuursorgaan geheel of gedeeltelijk wordt vergoed.   
-5.  Indien het verzoek is gedaan door het bestuursorgaan en het verzoek geheel of gedeeltelijk wordt toegewezen, kan de uitspraak inhouden dat het betaalde griffierecht door de secretaris aan het bestuursorgaan wordt terugbetaald.   
-6.  Dit artikel is van overeenkomstige toepassing op een verzoek om voorlopige voorziening dat wordt gedaan nadat een verzoek om herziening is gedaan.   
-
-### Artikel  53  
-
-De Afdeling bestuursrechtspraak bevestigt de uitspraak van de rechtbank, hetzij met overneming, hetzij met verbetering van de gronden, of doet, met gehele of gedeeltelijke vernietiging van de uitspraak, hetgeen de rechtbank zou behoren te doen.  
-
-### Artikel  54  
-
-1.  Indien de Afdeling bestuursrechtspraak de uitspraak van de rechtbank geheel of gedeeltelijk vernietigt, houdt de uitspraak tevens in dat aan de indiener van het beroepschrift het door hem betaalde griffierecht door het door de Afdeling bestuursrechtspraak aangewezen bestuursorgaan wordt vergoed.   
-2.  In de overige gevallen kan de uitspraak inhouden dat het betaalde griffierecht geheel of gedeeltelijk door het door de Afdeling bestuursrechtspraak aangewezen bestuursorgaan wordt vergoed.   
-
-### Artikel  55  
-
-1.  De Afdeling bestuursrechtspraak wijst de zaak terug naar de rechtbank die deze in eerste aanleg heeft behandeld, indien: 
-
-a. de rechtbank haar onbevoegdheid of de niet-ontvankelijkheid van het beroep heeft uitgesproken en de Afdeling bestuursrechtspraak deze uitspraak vernietigt met bevoegdverklaring van de rechtbank onderscheidenlijk ontvankelijkverklaring van het beroep, of  
-
-b. de Afdeling bestuursrechtspraak om andere redenen dan bedoeld in onderdeel *a* van oordeel is dat de zaak opnieuw door de rechtbank moet worden behandeld.     
-2.  De secretaris zendt de gedingstukken, onder medezending van een afschrift van de uitspraak, zo spoedig mogelijk aan de griffier van de rechtbank.   
-
-### Artikel  56  
-
-In de gevallen, bedoeld in artikel 55, eerste lid, onderdeel a, kan de Afdeling bestuursrechtspraak de zaak zonder terugwijzing afdoen, indien zij naar haar oordeel geen nadere behandeling door de rechtbank behoeft.  
-
-### Artikel  57  
-
-Indien de Afdeling bestuursrechtspraak van oordeel is dat de uitspraak is gedaan door een andere rechtbank dan de bevoegde, kan zij de onbevoegdheid voor gedekt verklaren en de uitspraak als bevoegdelijk gedaan aanmerken.  
 
 ### Hoofdstuk  IV  
 

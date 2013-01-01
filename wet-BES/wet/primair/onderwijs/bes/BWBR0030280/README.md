@@ -1848,6 +1848,30 @@ c. de procedure voor het aanvragen van het geschiktheidsonderzoek en voor afgift
 
 Het in artikel 140 en het in artikel 142 bedoelde bestuur verstrekt aan Onze Minister alle inlichtingen die deze nodig acht ten behoeve van een goede naleving van deze afdeling. Het bestuur zendt de inspectie van het onderwijs telkens na zes maanden een overzicht van in die periode afgegeven geschiktheidsverklaringen en bekwaamheidsonderzoeken waaraan met goed gevolg is deelgenomen.  
 
+### Afdeling  10a  
+
+####Experimenten
+
+### Artikel  145a  
+
+#### *Ruimte voor innovatie* 
+
+1.  Met het oog op verbetering van de kwaliteit, toegankelijkheid of doelmatigheid van het basisonderwijs kan bij wijze van experiment bij algemene maatregel van bestuur worden afgeweken van hoofdstuk I, titel I, artikelen 1 en 2, titel II, afdeling 1 en afdeling 2, artikelen 53 en 54 en titel III, afdelingen 1, 2, 4 tot en met 6, afdeling 7, paragrafen 2, 3, 6 en 7, en afdeling 8, paragraaf 1, van de wet.   
+2.  In geval van toepassing van het eerste lid wordt bij algemene maatregel van bestuur in elk geval bepaald: 
+
+a. het doel van het experiment,  
+
+b. op welke wijze van welke in het eerste lid bedoelde voorschriften wordt afgeweken,  
+
+c. de duur van het experiment, en  
+
+d. op welke wijze en aan de hand van welke criteria de met het experiment beoogde effecten worden geëvalueerd.     
+3.  Bij ministeriële regeling kunnen regels worden gesteld over de uitvoering van een experiment.   
+4.  Een experiment duurt ten hoogste zes jaar, tenzij een langere duur gezien de bijzondere aard van het experiment noodzakelijk is. Alsdan wordt de duur van het experiment op ten hoogste acht jaar bepaald. Indien een voorstel van wet is ingediend bij de Staten-Generaal om het experiment om te zetten in een structurele wettelijke regeling, voordat een experiment is afgelopen, kan Onze Minister het experiment verlengen tot het tijdstip waarop het wetsvoorstel tot wet is verheven en in werking treedt.   
+5.  Onze Minister zendt drie maanden voor het einde van de werkingsduur van een algemene maatregel van bestuur als bedoeld in het eerste lid aan de Staten-Generaal, een verslag over de doeltreffendheid en de effecten van het experiment in de praktijk, evenals een standpunt over de voortzetting van die algemene maatregel van bestuur, anders dan een voortzetting als experiment.   
+6.  In verband met een experiment als bedoeld in het eerste lid, kan bij algemene maatregel van bestuur eveneens bij wijze van experiment worden afgeweken van [artikel 1 van de Leerplichtwet BES](../../../../../../wet-BES/leerplichtwet/bes/BWBR0030281/README.md).   
+7.  Dit artikel is van overeenkomstige toepassing op een samenwerkingsverband van een school met een school als bedoeld in artikel 1, of een school als bedoeld in de [Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md). Bij samenwerking met een school als bedoeld in de Wet voortgezet onderwijs BES kan worden afgeweken van [titel II, afdeling I, hoofdstuk I](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) en [titel III, afdeling III van de Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md). Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, wordt geregeld welke bij of krachtens de wet, of de Wet voortgezet onderwijs BES vastgestelde voorschriften van toepassing of van overeenkomstige toepassing zijn op de samenwerking.   
+
 ### Afdeling  11  
 
 ####Overige bepalingen

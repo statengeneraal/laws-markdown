@@ -18,7 +18,11 @@ In deze regeling wordt verstaan onder:
 
 *Nederland:* het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten;  
 
-*podiumkunstenaar:* iemand die artistiek-inhoudelijk actief is in de podiumkunsten en in die hoedanigheid aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland.    
+*podiumkunstenaar:* iemand die artistiek-inhoudelijk actief is in de podiumkunsten en in die hoedanigheid aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland;  
+
+*concours:* een competitie gericht op podiumkunstenaars die aan het begin van een professionele carrière staan waarbij het wedstrijdelement het verbindende element tussen de activiteiten vormt;  
+
+*maker:* iemand die artistiek-inhoudelijk actief is in de podiumkunsten en artistiek-inhoudelijk eindverantwoordelijk is voor het totstandkomen van voorstellingen of concerten.    
 
 ### Artikel  1.2  
 
@@ -101,37 +105,37 @@ Het bestuur verstrekt productiesubsidies voor het ontwikkelen, uitvoeren of hern
 
 ####Aanvrager
 
-1.  Een productiesubsidie kan uitsluitend worden aangevraagd door een instelling die primair gericht is op het zelf ontwikkelen en produceren van voorstellingen of concerten door professionele podiumkunstenaars.   
+1.  Een productiesubsidie kan uitsluitend worden aangevraagd door een instelling die primair gericht is op het zelf ontwikkelen en produceren van voorstellingen of concerten door professionele podiumkunstenaars of het organiseren van een concours.   
 2.  Een aanvrager kan per aanvraagronde maximaal 1 aanvraag indienen.   
 
 ### Artikel  2.3  
 
 ####Subsidieaanvraag
 
-1.  Een aanvraag heeft betrekking op één specifieke productie.   
+1.  Een aanvraag heeft betrekking op één specifieke productie of een specifieke editie van een concours.   
 2.  Als in het kader van de aanvraag tevens een compositie of theatertekst tot stand komt, wordt de aanvraag als geheel beoordeeld op basis van het bepaalde in deze paragraaf.   
 
 ### Artikel  2.4  
 
 ####Vereisten
 
-1.  Subsidie kan worden verstrekt als de artistiek verantwoordelijke podiumkunstenaars minimaal twee jaar actief zijn en meerdere producties hebben voortgebracht en tenminste 50% van de activiteiten waarvoor subsidie wordt aangevraagd in Nederland plaatsvindt.   
+1.  Als de subsidieaanvraag betrekking heeft op een productie kan subsidie alleen worden verstrekt als de verantwoordelijke maker of makers minimaal twee jaar actief zijn, meerdere producties hebben voortgebracht en de activiteiten waarvoor subsidie wordt aangevraagd overwegend in Nederland plaatsvinden.   
 2.  Subsidie wordt niet verstrekt als het gevraagde subsidie niet in een redelijke verhouding staat tot het aantal te realiseren activiteiten of de te behalen eigen inkomsten. Hiervan is in elk geval sprake als niet minimaal 20% van de subsidiabele kosten worden gedekt door eigen inkomsten.   
-3.  Subsidie wordt niet verstrekt aan aanvragers die reeds een instellingssubsidie van de Minister van Onderwijs, Cultuur en Wetenschap of een vierjarige subsidie dan wel een meerjarige productiesubsidie van het Fonds Podiumkunsten ontvangen.   
+3.  Subsidie wordt niet verstrekt aan aanvragers die reeds een instellingssubsidie van de Minister van Onderwijs, Cultuur en Wetenschap of een meerjarige activiteitensubsidie van het Fonds Podiumkunsten ontvangen.   
 
 ### Artikel  2.5  
 
 ####Beoordeling
 
-Aanvragen worden ten opzichte van elkaar afgewogen aan de hand van de volgende criteria: 
+Aanvragen worden beoordeeld aan de hand van de volgende criteria: 
 
-a. artistieke en productionele kwaliteit van het plan;  
+a. artistieke kwaliteit van het plan;  
 
 b. ondernemerschap;  
 
-c. bijdrage aan de diversiteit of verscheidenheid van het podiumkunstenaanbod in Nederland;  
+c. bijdrage aan de pluriformiteit van het podiumkunstenaanbod in Nederland;  
 
-d. bijdrage aan de geografische spreiding.    
+d. geografische spreiding.    
 
 ### Artikel  2.6  
 
@@ -159,9 +163,63 @@ c. kosten die redelijkerwijs niet voor subsidie in aanmerking komen.
 
 ### Paragraaf  3:  
 
-####Gereserveerd
+####Subsidie nieuwe makers
 
-Gereserveerd.    
+### Artikel  3.1  
+
+####Doel
+
+Het bestuur verstrekt subsidies nieuwe makers als bijdrage in een ontwikkelingstraject van makers aan het begin van hun carrière om bij te dragen aan een pluriform en kwalitatief hoogstaand aanbod van podiumkunsten in Nederland.  
+
+### Artikel  3.2  
+
+####Aanvrager
+
+1.  Een subsidie nieuwe maker kan worden aangevraagd door een instelling die primair gericht is op het zelf ontwikkelen en produceren van voorstellingen of concerten op het terrein van de podiumkunsten of het presenteren daarvan.   
+2.  Een aanvrager kan per aanvraagronde maximaal 3 aanvragen indienen.   
+
+### Artikel  3.3  
+
+####Subsidieaanvraag
+
+Een aanvraag heeft betrekking op een ontwikkelingstraject met een looptijd van maximaal twee jaar voor een door de aanvrager gekozen maker of als collectief opererende groep makers die zich nog niet of maar beperkt als zodanig heeft of hebben gemanifesteerd in het Nederlandse podiumkunstenveld.  
+
+### Artikel  3.4  
+
+####Vereisten
+
+1.  Een subsidie nieuwe maker kan worden verstrekt als: 
+
+a. de maker of groep makers op wie de aanvraag betrekking heeft minimaal twee producties zullen maken en deze in Nederland worden gepresenteerd; en  
+
+b. er is voorzien in deskundige begeleiding en ondersteuning; en  
+
+c. voor de betreffende maker of groep makers niet vaker dan eenmaal eerder een subsidie nieuwe maker is toegekend.     
+2.  Als de aanvrager zelf niet beschikt over faciliteiten om de producties die tot stand zullen komen te presenteren, dient de aanvraag vergezeld te gaan van een of meer verklaringen van een of meer instellingen die de voorstellingen of concerten zullen presenteren.   
+
+### Artikel  3.5  
+
+####Beoordeling
+
+1.  Aanvragen worden beoordeeld aan de hand van de volgende criteria: 
+
+a. motivering van de beoogde samenwerking tussen de aanvrager en de maker of groep makers ;  
+
+b. ondernemerschap;  
+
+c. verwachte bijdrage aan de ontwikkeling van de maker of groep makers;  
+
+d. bijdrage aan de pluriformiteit van het podiumkunstenaanbod in Nederland.     
+2.  Als onderdeel van de beoordelingsprocedure kunnen de aanvrager en de maker of groep makers worden uitgenodigd hun plannen mondeling toe te lichten.   
+
+### Artikel  3.6  
+
+####Hoogte subsidie
+
+1.  Het subsidie bedraagt nooit meer dan 50 % van de subsidiabele kosten als deze € 100.000 of meer bedragen en nooit meer dan 80% van de subsidiabele kosten als deze minder dan € 100.000 bedragen.   
+2.  Bij het bepalen van de subsidiabele kosten is het bepaalde in artikel 2.6 van overeenkomstige toepassing.   
+3.  Het bestuur kan bepalen dat een subsidie nieuwe maker nooit meer bedraagt dan een bepaald bedrag.   
+
 ### Paragraaf  4:  
 
 ####Subsidie compositieopdrachten
@@ -190,26 +248,29 @@ Het bestuur verstrekt subsidies compositieopdracht voor het verlenen van een opd
 
 ####Vereisten
 
-1.  Een subsidie compositieopdracht kan worden verstrekt als het te componeren werk minimaal tweemaal zal worden uitgevoerd.   
+1.  Een subsidie compositieopdracht kan worden verstrekt als de aanvraag voldoende aannemelijk maakt dat het te componeren werk minimaal tweemaal zal worden uitgevoerd. Hiervan is in ieder geval sprake als de aanvraag vergezeld gaat van een of meer bevestigingen van instellingen die primair gericht zijn op het presenteren van voorstellingen of concerten waaruit blijkt dat het te componeren werk door hen zal worden geprogrammeerd.   
 2.  Maximaal één uitvoering kan worden vervangen door een televisie- of radio-uitzending van een opname van een onder verantwoordelijkheid van de opdrachtgever verzorgde uitvoering van de compositie of een andere publieke openbaarmaking die daaraan minimaal gelijk gesteld kan worden.   
 
 ### Artikel  4.5  
 
 ####Beoordeling
 
-Aanvragen worden ten opzichte van elkaar afgewogen aan de hand van de volgende criteria: 
+Aanvragen worden beoordeeld aan de hand van de volgende criteria: 
 
-a. kwaliteit van de opdrachtrelatie;  
+a. motivering van de keuze voor de componist;  
 
-b. verwachte uitvoeringsmogelijkheden;  
+b. programmering(sbeleid) waarbinnen de opdracht tot stand komt;  
 
-c. mate waarin het te verwachten resultaat bijdraagt aan de diversiteit in het muziekrepertoire in Nederland.    
+c. verwachte uitvoeringsmogelijkheden;  
+
+d. bijdrage aan de pluriformiteit van het muziekrepertoire in Nederland.    
 
 ### Artikel  4.6  
 
 ####Hoogte subsidie
 
-Het bestuur kan richtlijnen vaststellen aan de hand waarvan de hoogte van het subsidie wordt bepaald.  
+1.  Het bestuur kan richtlijnen vaststellen aan de hand waarvan de hoogte van het subsidie wordt bepaald.   
+2.  Het bestuur kan bepalen dat een subsidie compositieopdracht nooit meer bedraagt dan een bepaald bedrag.   
 
 ### Paragraaf  5:  
 

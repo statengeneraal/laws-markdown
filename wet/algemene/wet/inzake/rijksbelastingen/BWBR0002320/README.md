@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  De bepalingen van deze wet gelden in Nederland bij de heffing van rijksbelastingen, de heffing van heffingsrente, revisierente en bestuurlijke boeten welke ingevolge de belastingwet kunnen worden vastgesteld of opgelegd, alsmede bij de uitvoering van de basisregistratie inkomen, een en ander met uitzondering van de belastingen voor zover voor een belanghebbende na een door de inspecteur gedane uitspraak op bezwaar met betrekking tot deze belastingen beroep openstaat bij de Raad van Beroep voor belastingzaken, bedoeld in [hoofdstuk VIII van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md).   
+1.  De bepalingen van deze wet gelden in Nederland bij de heffing van rijksbelastingen, de heffing van belastingrente, revisierente en bestuurlijke boeten welke ingevolge de belastingwet kunnen worden vastgesteld of opgelegd, alsmede bij de uitvoering van de basisregistratie inkomen, een en ander met uitzondering van de belastingen voor zover voor een belanghebbende na een door de inspecteur gedane uitspraak op bezwaar met betrekking tot deze belastingen beroep openstaat bij de Raad van Beroep voor belastingzaken, bedoeld in [hoofdstuk VIII van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md).   
 2.  Onder rijksbelastingen worden verstaan belastingen welke van rijkswege door de rijksbelastingdienst worden geheven.   
 3.  Met betrekking tot de heffing van rijksbelastingen blijven [titel 5.2](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [afdeling 10.2.1 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) buiten toepassing.   
 
@@ -97,7 +97,7 @@ b. een voorlopige conserverende aanslag niet wordt verrekend met een conserveren
 
 1.  Waar iemand woont en waar een lichaam gevestigd is, wordt naar de omstandigheden beoordeeld.   
 2.  Voor de toepassing van het eerste lid worden schepen en luchtvaartuigen welke in Nederland hun thuishaven hebben, ten opzichte van de bemanning als deel van Nederland beschouwd.   
-3.  Voor de toepassing van de wettelijke bepalingen ter uitvoering van Richtlijn nr. 2009/133/EG van de Raad van de Europese Unie van 19 oktober 2009 betreffende de gemeenschappelijke fiscale regeling voor fusies, splitsingen, gedeeltelijke splitsingen, inbreng van activa en aandelenruil met betrekking tot vennootschappen uit verschillende lidstaten en voor de verplaatsing van de statutaire zetel van een SE of een SCE van een lidstaat naar een andere lidstaat (PbEU L 310), de Richtlijn 90/435/EEG van de Raad van de Europese Gemeenschappen van 23 juli 1990 betreffende de gemeenschappelijke fiscale regeling voor moedermaatschappijen en dochterondernemingen uit verschillende Lid-Staten (*PbEG* L 225) of Richtlijn nr. 2003/49/EG van de Raad van de Europese Unie van 3 juni 2003 betreffende een gemeenschappelijke belastingregeling inzake uitkeringen van interest en royalty's tussen verbonden ondernemingen van verschillende lidstaten (Pb L 157) wordt, in afwijking in zoverre van het eerste lid en voor zover dat voortvloeit uit de genoemde Richtlijnen, een lichaam geacht te zijn gevestigd in een Lid-Staat van de Europese Gemeenschappen indien dat lichaam volgens de fiscale wetgeving van de Lid-Staat aldaar is gevestigd.   
+3.  Voor de toepassing van de wettelijke bepalingen ter uitvoering van Richtlijn nr. 2009/133/EG van de Raad van de Europese Unie van 19 oktober 2009 betreffende de gemeenschappelijke fiscale regeling voor fusies, splitsingen, gedeeltelijke splitsingen, inbreng van activa en aandelenruil met betrekking tot vennootschappen uit verschillende lidstaten en voor de verplaatsing van de statutaire zetel van een SE of een SCE van een lidstaat naar een andere lidstaat (PbEU L 310), Richtlijn 2011/96/EU van de Raad van 30 november 2011 betreffende de gemeenschappelijke fiscale regeling voor moedermaatschappijen en dochterondernemingen uit verschillende lidstaten (PbEU 2011, L 345/8) of Richtlijn nr. 2003/49/EG van de Raad van de Europese Unie van 3 juni 2003 betreffende een gemeenschappelijke belastingregeling inzake uitkeringen van interest en royalty's tussen verbonden ondernemingen van verschillende lidstaten (Pb L 157) wordt, in afwijking in zoverre van het eerste lid en voor zover dat voortvloeit uit de genoemde Richtlijnen, een lichaam geacht te zijn gevestigd in een Lid-Staat van de Europese Gemeenschappen indien dat lichaam volgens de fiscale wetgeving van de Lid-Staat aldaar is gevestigd.   
 4.  Een instelling voor collectieve belegging in effecten als bedoeld in artikel 1 van Richtlijn nr. 2009/65/EU van het Europees Parlement en de Raad van de Europese Unie van 13 juli 2009 tot coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende instellingen voor collectieve belegging in effecten (PbEU L 302/32), wordt geacht te zijn gevestigd in de lidstaat of staat waarvan de bevoegde autoriteit de instelling overeenkomstig artikel 5 van die richtlijn heeft toegelaten.   
 
 ### Artikel  5  
@@ -135,7 +135,7 @@ a. een instelling – niet zijnde een vennootschap met in aandelen verdeeld kapi
 
 3°. gevestigd is in het Koninkrijk, in een andere lidstaat van de Europese Unie of in een bij ministeriële regeling aangewezen staat, en  
 
-4°. door de daartoe bevoegde inspecteur als zodanig is aangemerkt;    
+4°. door de inspecteur als zodanig is aangemerkt;    
 
 b. een niet in het Koninkrijk, in een andere lidstaat van de Europese Unie of in een bij ministeriële regeling aangewezen staat gevestigde, door Onze Minister als zodanig aangemerkte instelling indien en zolang zij voldoet aan de door hem te stellen voorwaarden.     
 2.  Publiekrechtelijke lichamen als bedoeld in [artikel 1, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn algemeen nut beogende instellingen.   
@@ -161,14 +161,17 @@ i. religie, levensbeschouwing en spiritualiteit;
 
 j. de bevordering van de democratische rechtsorde;  
 
-k. een combinatie van de bovengenoemde doelen, alsmede  
+k. volkshuisvesting;  
 
-l. het financieel of op andere wijze ondersteunen van een algemeen nut beogende instelling.     
+l. een combinatie van de bovengenoemde doelen, alsmede  
+
+m. het financieel of op andere wijze ondersteunen van een algemeen nut beogende instelling.     
 4.  Een algemeen nut beogende instelling die zich uitsluitend of nagenoeg uitsluitend richt op cultuur, kan verzoeken tevens te worden aangemerkt als culturele instelling.   
-5.  Het aanmerken als een algemeen nut beogende instelling of als culturele instelling geschiedt op verzoek van de instelling. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking eventueel onder door hem te stellen voorwaarden. In afwijking van de eerste volzin kan de inspecteur een categorie instellingen dan wel een groep met elkaar verbonden instellingen bij één voor bezwaar vatbare beschikking aanmerken als instellingen als bedoeld in het eerste lid, ook zonder dat een daartoe strekkend verzoek is gedaan door die instellingen.   
-6.  Een instelling als bedoeld in het eerste lid, wordt door de inspecteur bij voor bezwaar vatbare beschikking niet meer als zodanig aangemerkt met ingang van het tijdstip waarop deze instelling niet langer uitsluitend of nagenoeg uitsluitend een algemeen nut beogend karakter heeft, niet meer voldoet aan de bij ministeriële regeling gestelde voorwaarden dan wel niet meer is gevestigd als aangegeven in het eerste lid. Een instelling als bedoeld in het vierde lid wordt door de inspecteur bij voor bezwaar vatbare beschikking niet meer als zodanig aangemerkt met ingang van het tijdstip waarop deze instelling zich niet langer uitsluitend of nagenoeg uitsluitend richt op cultuur. Het tijdstip van intrekking kan liggen voor de datum van de dagtekening van de beschikking.   
-7.  Een instelling wordt eveneens door de inspecteur niet, of niet langer, als algemeen nut beogende instelling aangemerkt indien de instelling, een bestuurder van die instelling of een persoon die feitelijk leiding geeft aan die instelling, dan wel een voor de instelling gezichtsbepalend persoon onherroepelijk is veroordeeld wegens aanzetten tot haat, aanzetten tot geweld of gebruik van geweld en nog geen vier kalenderjaren zijn verstreken sinds deze veroordeling.   
-8.  Voor de toepassing van het vierde tot en met zevende lid kunnen bij ministeriële regeling nadere regels worden gesteld.   
+5.  Een instelling die werkzaamheden verricht die gericht zijn op het bieden van volkshuisvesting als bedoeld in het derde lid, onderdeel k, kan slechts worden aangemerkt als algemeen nut beogende instelling, indien zij op de voet van [artikel 70 van de Woningwet](../../../../../../wet/woningwet/BWBR0005181/README.md) bij koninklijk besluit is toegelaten als instelling die in het belang van de volkshuisvesting werkzaam is.   
+6.  Het aanmerken als een algemeen nut beogende instelling of als culturele instelling geschiedt op verzoek van de instelling. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking eventueel onder door hem te stellen voorwaarden. In afwijking van de eerste volzin kan de inspecteur een categorie instellingen dan wel een groep met elkaar verbonden instellingen bij één voor bezwaar vatbare beschikking aanmerken als instellingen als bedoeld in het eerste lid, ook zonder dat een daartoe strekkend verzoek is gedaan door die instellingen.   
+7.  Een instelling als bedoeld in het eerste lid, wordt door de inspecteur bij voor bezwaar vatbare beschikking niet meer als zodanig aangemerkt met ingang van het tijdstip waarop deze instelling niet langer uitsluitend of nagenoeg uitsluitend een algemeen nut beogend karakter heeft, niet meer voldoet aan de bij ministeriële regeling gestelde voorwaarden dan wel niet meer is gevestigd als aangegeven in het eerste lid. Een instelling als bedoeld in het vierde lid wordt door de inspecteur bij voor bezwaar vatbare beschikking niet meer als zodanig aangemerkt met ingang van het tijdstip waarop deze instelling zich niet langer uitsluitend of nagenoeg uitsluitend richt op cultuur. Het tijdstip van intrekking kan liggen voor de datum van de dagtekening van de beschikking.   
+8.  Een instelling wordt eveneens door de inspecteur niet, of niet langer, als algemeen nut beogende instelling aangemerkt indien de instelling, een bestuurder van die instelling of een persoon die feitelijk leiding geeft aan die instelling, dan wel een voor de instelling gezichtsbepalend persoon onherroepelijk is veroordeeld wegens aanzetten tot haat, aanzetten tot geweld of gebruik van geweld en nog geen vier kalenderjaren zijn verstreken sinds deze veroordeling.   
+9.  Voor de toepassing van het vierde en het zesde tot en met achtste lid kunnen bij ministeriële regeling nadere regels worden gesteld.   
 
 ### Artikel  5c  
 
@@ -230,6 +233,12 @@ b. onder welke voorwaarden hiervan door de inspecteur bij voor bezwaar vatbare b
 1.  Met betrekking tot belastingen welke ingevolge de belastingwet op aangifte moeten worden voldaan of afgedragen, wordt de aangifte gedaan bij de inspecteur of de ontvanger die is vermeld in de uitnodiging tot het doen van aangifte.   
 2.  Heeft de aangifte betrekking op een tijdvak, dan wordt zij gedaan binnen een door de inspecteur gestelde termijn van ten minste een maand na het einde van het tijdvak. Heeft de aangifte niet betrekking op een tijdvak, dan wordt zij gedaan binnen een door de inspecteur gestelde termijn van ten minste een maand.   
 3.  De inspecteur kan onder door hem te stellen voorwaarden uitstel van het doen van aangifte verlenen.   
+
+### Artikel  10a  
+
+1.  In bij algemene maatregel van bestuur aan te wijzen gevallen kunnen belastingplichtigen of inhoudingsplichtigen worden gehouden de inspecteur eigener beweging mededeling te doen van onjuistheden of onvolledigheden in voor de belastingheffing van belang zijnde gegevens en inlichtingen die hun bekend zijn of zijn geworden.   
+2.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het uiterste tijdstip en de wijze waarop mededeling als bedoeld in het eerste lid gedaan moet worden.   
+3.  Bij algemene maatregel van bestuur kan het niet nakomen van de in het eerste en tweede lid bedoelde verplichting worden aangemerkt als een overtreding. Indien het niet nakomen van die verplichting is te wijten aan opzet of grove schuld van de belastingplichtige of inhoudingsplichtige, vormt dit een vergrijp ter zake waarvan de inspecteur hem een bestuurlijke boete kan opleggen van ten hoogste 100 percent van het bedrag aan belasting dat als gevolg van het niet nakomen van de in het eerste en tweede lid bedoelde verplichting niet is of zou zijn geheven.   
 
 ### Hoofdstuk  III  
 
@@ -448,7 +457,7 @@ b. met ingang van de dag na die van de voldoening of de inhouding onderscheidenl
 
 1.  Hij die bezwaar heeft tegen meer dan één belastingaanslag of voor bezwaar vatbare beschikking kan daartegen bezwaar maken bij één bezwaarschrift.   
 2.  Indien de bedragen van een belastingaanslag en van een voor bezwaar vatbare beschikking waarbij een bestuurlijke boete wordt opgelegd op één aanslagbiljet zijn vermeld, wordt een bezwaarschrift tegen de belastingaanslag geacht mede te zijn gericht tegen de boete, tenzij uit het bezwaarschrift het tegendeel blijkt.   
-3.  Indien artikel 30j, tweede lid, eerste volzin, van toepassing is, wordt de heffingsrente voor de toepassing van de wettelijke voorschriften over bezwaar en beroep geacht onderdeel uit te maken van de belastingaanslag.   
+3.  Indien artikel 30j, tweede lid, eerste volzin, van toepassing is, wordt de belastingrente voor de toepassing van de wettelijke voorschriften over bezwaar en beroep geacht onderdeel uit te maken van de belastingaanslag.   
 4.  Het derde lid is van overeenkomstige toepassing met betrekking tot de revisierente, bedoeld in artikel 30i, het verzamelinkomen, bedoeld in [artikel 2.18 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en de betalingskorting, bedoeld in [artikel 27a van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
 
 ### Artikel  25  
@@ -462,7 +471,7 @@ b. met ingang van de dag na die van de voldoening of de inhouding onderscheidenl
 
 1.  In afwijking in zoverre van het overigens bij of krachtens deze wet en de [Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bepaalde, zijn met betrekking tot in het tweede lid bedoeld massaal bezwaar de volgende bepalingen van toepassing.   
 2.  Indien naar het oordeel van Onze Minister een groot aantal bezwaren is gericht tegen de beslissing op eenzelfde rechtsvraag, al dan niet met accessoire kwesties die zich lenen voor niet-individuele afdoening (de rechtsvraag), kan hij die bezwaren aanwijzen als massaal bezwaar. Hij doet dit voor bezwaren die alleen de rechtsvraag betreffen, waarop nog geen uitspraak is gedaan en die zijn ingediend tot en met de dag voorafgaande aan de dag waarop de in het zevende lid bedoelde collectieve uitspraak terzake is gedaan, dan wel de dag voorafgaande aan de dag waarop de in het elfde lid eerstbedoelde uitspraak onherroepelijk wordt. Onze Minister zendt een afschrift van de aanwijzing aan de Tweede Kamer der Staten-Generaal.   
-3.  Bij de aanwijzing als massaal bezwaar zondert Onze Minister een of meer bezwaren uit met het oog op beantwoording van de rechtsvraag door de administratieve rechter in belastingzaken.   
+3.  Bij de aanwijzing als massaal bezwaar zondert Onze Minister een of meer bezwaren uit met het oog op beantwoording van de rechtsvraag door de bestuursrechter in belastingzaken.   
 4.  Bij de aanwijzing als massaal bezwaar wijst Onze Minister de inspecteur aan die de in het zevende lid bedoelde collectieve uitspraak zal doen.   
 5.  De aanwijzing als massaal bezwaar treedt in werking vier weken na de toezending van het afschrift ervan aan de Tweede Kamer der Staten-Generaal. De aanwijzing vervalt indien binnen die vier weken de Tweede Kamer besluit zich niet met de aanwijzing te kunnen verenigen. De inspecteur doet gedurende die vier weken geen uitspraak op de bezwaren die Onze Minister als massaal bezwaar heeft aangewezen. Indien de aanwijzing door een besluit van de Tweede Kamer vervalt, wordt de termijn voor het doen van uitspraak op de desbetreffende bezwaarschriften verlengd met vier weken.   
 6.  De belanghebbende wordt ter zake van een als massaal bezwaar aangewezen bezwaar niet gehoord.   
@@ -481,11 +490,11 @@ b. met ingang van de dag na die van de voldoening of de inhouding onderscheidenl
 
 ### Afdeling  2  
 
-####Beroep bij de rechtbank
+####Beroep en hoger beroep
 
 ### Artikel  26  
 
-1.  In afwijking van [artikel 8:1, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan tegen een ingevolge de belastingwet genomen besluit slechts beroep bij de rechtbank worden ingesteld, indien het betreft: 
+1.  In afwijking van [artikel 8:1 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan tegen een ingevolge de belastingwet genomen besluit slechts beroep bij de bestuursrechter worden ingesteld, indien het betreft: 
 
 a. een belastingaanslag, daaronder begrepen de in artikel 15 voorgeschreven verrekening, of  
 
@@ -494,7 +503,7 @@ b. een voor bezwaar vatbare beschikking.
 
 ### Artikel  26a  
 
-1.  In afwijking van [artikel 8:1, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan het beroep slechts worden ingesteld door: 
+1.  In afwijking van [artikel 8:1 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan het beroep slechts worden ingesteld door: 
 
 a. de belanghebbende aan wie de belastingaanslag is opgelegd;  
 
@@ -513,25 +522,9 @@ c. degene tot wie de voor bezwaar vatbare beschikking zich richt.
 
 In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vangt de termijn voor het instellen van beroep aan met ingang van de dag na die van dagtekening van de uitspraak van de inspecteur, tenzij de dag van dagtekening is gelegen vóór de dag van de bekendmaking.  
 
-### Artikel  27  
-
-1.  Voor de toepassing van [artikel 8:7, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) treden de rechtbanken te Leeuwarden, Arnhem, Haarlem, ’s-Gravenhage en Breda in de plaats van de andere rechtbanken in hun ressort.   
-2.  Indien een voortdurend gebrek aan voldoende zittingscapaciteit bij een van de in het eerste lid genoemde rechtbanken daartoe noodzaakt, kan bij algemene maatregel van bestuur voor de duur van ten hoogste twee jaar een andere dan de overeenkomstig het eerste lid bevoegde rechtbank worden aangewezen als bevoegde rechtbank voor zaken die behoren tot een bij die maatregel aangewezen categorie. Onder zittingscapaciteit wordt verstaan hetgeen daaronder wordt verstaan in [artikel 1, onder h, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md).   
-
 ### Artikel  27a  
 
 Indien het beroep is gericht tegen het niet tijdig doen van een uitspraak door de inspecteur, kan de rechtbank bepalen dat hoofdstuk VIII, afdeling 2, gedurende een daarbij te bepalen termijn van toepassing blijft.  
-
-### Artikel  27b  
-
-1.  Het griffierecht bedraagt, in afwijking van [artikel 8:41, derde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md): 
-
-a. € 42 indien door een natuurlijke persoon beroep is ingesteld tegen een ander besluit dan een besluit als bedoeld in onderdeel b;  
-
-b. € 156 indien door een natuurlijke persoon beroep is ingesteld tegen een besluit met betrekking tot de toepassing van de [Wet op de dividendbelasting 1965](../../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md), de [Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), de [Wet op de belasting van personenauto's en motorrijwielen 1992](../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), de [Wet op de accijns](../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), de [Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) of de [Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md);  
-
-c. € 310 indien anders dan door een natuurlijke persoon beroep is ingesteld.     
-2.  De in het eerste lid genoemde bedragen kunnen bij algemene maatregel van bestuur worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.   
 
 ### Artikel  27c  
 
@@ -557,107 +550,21 @@ In afwijking van [artikel 8:67, eerste lid, van de Algemene wet bestuursrecht](.
 1.  In afwijking van [artikel 8:79, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geschiedt de verstrekking overeenkomstig die bepaling van afschriften of uittreksels aan anderen dan partijen met machtiging van de rechtbank.   
 2.  Met betrekking tot schriftelijke uitspraken blijft de machtiging, bedoeld in het eerste lid, slechts achterwege indien op een voor de uitspraak gedaan verzoek van een der partijen de rechtbank oordeelt dat ook na anonimisering de geheimhouding van persoonlijke en financiële gegevens onvoldoende wordt beschermd en bovendien het belang van de openbaarheid van de rechtspraak niet opweegt tegen dit belang.   
 
-### Afdeling  3  
-
-####Hoger beroep bij het gerechtshof
-
 ### Artikel  27h  
 
-1.  De belanghebbende die bevoegd was beroep bij de rechtbank in te stellen en de inspecteur kunnen bij het gerechtshof hoger beroep instellen tegen een uitspraak van de rechtbank als bedoeld in [afdeling 8.2.6 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en tegen een uitspraak van de voorzieningenrechter van de rechtbank als bedoeld in [artikel 8:86 van die wet](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  Geen hoger beroep kan worden ingesteld tegen: 
+1.  In afwijking van [artikel 8:104, eerste lid, aanhef en onder a, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kunnen slechts de belanghebbende die bevoegd was beroep bij de rechtbank in te stellen en de inspecteur hoger beroep instellen.   
+2.  De artikelen 24a, tweede lid, 26a, derde lid, 26b, eerste lid, en 27c tot en met 27g zijn van overeenkomstige toepassing in hoger beroep.   
+3.  De werking van de uitspraak van de rechtbank of van de voorzieningenrechter wordt opgeschort totdat de termijn voor het instellen van hoger beroep is verstreken of, indien hoger beroep is ingesteld, op het hoger beroep onherroepelijk is beslist. De eerste volzin geldt niet indien de uitspraak een beroep tegen het niet tijdig nemen van een besluit betreft.   
 
-a. een uitspraak van de rechtbank na toepassing van [artikel 8:54, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+### Afdeling  3  
 
-b. een uitspraak van de rechtbank als bedoeld in [artikel 8:54a van die wet](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
-
-c. een uitspraak van de rechtbank als bedoeld in [artikel 8:55, vijfde lid, van die wet](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
-
-d. een uitspraak van de voorzieningenrechter van de rechtbank als bedoeld in [artikel 8:84, tweede lid, van die wet](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
-
-e. een uitspraak van de voorzieningenrechter van de rechtbank als bedoeld in [artikel 8:75a, eerste lid](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), in verband met [artikel 8:84, vierde lid, van die wet](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
-3.  Tegelijkertijd met het hoger beroep tegen de in het eerste lid bedoelde uitspraak kan hoger beroep worden ingesteld tegen: 
-
-a. een tussenuitspraak als bedoeld in [artikel 8:80a van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md); of  
-
-b. een andere beslissing van de rechtbank.     
-4.  De artikelen 24a, tweede lid, 26a, derde lid, en 26b, eerste lid, zijn van overeenkomstige toepassing.   
-5.  De werking van de uitspraak van de rechtbank of van de voorzieningenrechter wordt opgeschort totdat de termijn voor het instellen van hoger beroep is verstreken of, indien hoger beroep is ingesteld, op het hoger beroep onherroepelijk is beslist. De eerste volzin geldt niet indien de uitspraak een beroep tegen het niet tijdig nemen van een besluit betreft.   
-
-### Artikel  27i  
-
-1.  De griffier doet van het ingestelde hoger beroep zo spoedig mogelijk mededeling aan de griffier van de rechtbank die de uitspraak heeft gedaan.   
-2.  De griffier van de rechtbank, bedoeld in het eerste lid, zendt de gedingstukken met vier afschriften van het proces-verbaal van de zitting, voorzover dit op de zaak betrekking heeft, en vier afschriften van de uitspraak binnen een week na ontvangst van de in het eerste lid bedoelde mededeling aan de griffier van het gerechtshof.   
-
-### Artikel  27j  
-
-1.  Op het hoger beroep is [hoofdstuk 8 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van [afdeling 8.1.1](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en de [artikelen 8:10](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:41](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:74](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [8:82](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), van overeenkomstige toepassing, voorzover in deze afdeling niet anders is bepaald.   
-2.  De artikelen 27c, 27d, 27e, 27f en 27g zijn van overeenkomstige toepassing.   
-
-### Artikel  27k  
-
-1.  De zaken die bij het gerechtshof aanhangig worden gemaakt, worden in behandeling genomen door een meervoudige kamer.   
-2.  Indien een zaak naar het oordeel van de meervoudige kamer geschikt is voor verdere behandeling door één rechter, kan zij deze verwijzen naar een enkelvoudige kamer.   
-3.  Indien een zaak naar het oordeel van de enkelvoudige kamer ongeschikt is voor behandeling door één rechter, verwijst zij deze naar een meervoudige kamer.   
-4.  Verwijzing kan geschieden in elke stand van het geding. Een verwezen zaak wordt voortgezet in de stand waarin zij zich bevindt.   
-
-### Artikel  27l  
-
-1.  Van de indiener van het beroepschrift wordt door de griffier van het gerechtshof een griffierecht geheven. Indien het een beroepschrift ter zake van twee of meer samenhangende uitspraken betreft, is eenmaal griffierecht verschuldigd. In dat geval bedraagt het griffierecht het hoogste op grond van het tweede lid verschuldigde bedrag.   
-2.  Het griffierecht bedraagt: 
-
-a. € 115 indien door een natuurlijke persoon hoger beroep is ingesteld tegen een uitspraak inzake een ander besluit dan een besluit als bedoeld in onderdeel b;  
-
-b. € 232 indien door een natuurlijke persoon hoger beroep is ingesteld tegen een uitspraak inzake een besluit als bedoeld in artikel 27b, eerste lid, onderdeel b;  
-
-c. € 466 indien anders dan door een natuurlijke persoon hoger beroep is ingesteld.     
-3.  Indien de inspecteur hoger beroep heeft ingesteld en de uitspraak van de rechtbank in stand blijft, wordt van de Staat een griffierecht geheven van € 466.   
-4.  [Artikel 8:41, tweede en vierde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
-5.  De in het tweede en derde lid genoemde bedragen kunnen bij algemene maatregel van bestuur worden gewijzigd voorzover de consumentenprijsindex daartoe aanleiding geeft.   
+####Beroep in cassatie bij de Hoge Raad
 
 ### Artikel  27m  
 
 1.  De andere partij dan de partij die het hoger beroep heeft ingesteld, kan bij haar verweerschrift incidenteel hoger beroep instellen.   
 2.  De partij die het hoger beroep heeft ingesteld, wordt in de gelegenheid gesteld om binnen vier weken na verzending van het verweerschrift het incidentele hoger beroep te beantwoorden.   
 3.  Het gerechtshof kan de in het tweede lid bedoelde termijn verlengen.   
-
-### Artikel  27n  
-
-1.  Van de verzoeker om een voorlopige voorziening wordt door de griffier een griffierecht geheven. Artikel 27l, eerste lid, tweede en derde volzin, tweede en vijfde lid, is van overeenkomstige toepassing.   
-2.  [Artikel 8:41, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing, met dien verstande dat de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken bedraagt. De voorzieningenrechter kan een kortere termijn stellen.   
-3.  Indien een verzoek wordt ingetrokken omdat de inspecteur, onderscheidenlijk de belanghebbende tot wie het bestreden besluit is gericht, aan de voorzieningenrechter schriftelijk heeft medegedeeld de uitvoering van het bestreden besluit hangende de procedure met betrekking tot de hoofdzaak op te schorten dan wel de gevraagde voorlopige maatregelen te zullen nemen, wordt het betaalde griffierecht door de griffier terugbetaald. In de overige gevallen kan de Staat, indien het verzoek wordt ingetrokken, het betaalde griffierecht geheel of gedeeltelijk vergoeden.   
-4.  De uitspraak kan inhouden dat het betaalde griffierecht door de Staat geheel of gedeeltelijk wordt vergoed.   
-5.  Indien het verzoek is gedaan door de inspecteur en het verzoek geheel of gedeeltelijk wordt toegewezen, kan de uitspraak inhouden dat het betaalde griffierecht door de griffier aan de Staat geheel of gedeeltelijk wordt terugbetaald.   
-6.  Dit artikel is van overeenkomstige toepassing op een verzoek om voorlopige voorziening dat wordt gedaan nadat een verzoek om herziening is gedaan.   
-
-### Artikel  27o  
-
-Het gerechtshof bevestigt de uitspraak van de rechtbank, hetzij met overneming, hetzij met verbetering van de gronden, of doet, met gehele of gedeeltelijke vernietiging van de uitspraak, hetgeen de rechtbank had behoren te doen.  
-
-### Artikel  27p  
-
-1.  Indien het gerechtshof de uitspraak van de rechtbank geheel of gedeeltelijk vernietigt, houdt de uitspraak tevens in dat aan de indiener van het beroepschrift het door hem betaalde griffierecht door de Staat wordt vergoed.   
-2.  In de overige gevallen kan de uitspraak inhouden dat het betaalde griffierecht door de Staat geheel of gedeeltelijk wordt vergoed.   
-
-### Artikel  27q  
-
-1.  Het gerechtshof wijst de zaak terug naar de rechtbank die deze in eerste instantie heeft behandeld, indien: 
-
-a. de rechtbank haar onbevoegdheid of de niet-ontvankelijkheid van het beroep heeft uitgesproken en het gerechtshof deze uitspraak vernietigt met bevoegdverklaring van de rechtbank onderscheidenlijk ontvankelijkverklaring van het beroep, of  
-
-b. het gerechtshof om een andere reden dan bedoeld in onderdeel a van oordeel is dat de zaak opnieuw door de rechtbank moet worden behandeld.     
-2.  De griffier zendt de gedingstukken, onder medezending van een afschrift van de uitspraak, zo spoedig mogelijk aan de griffier van de rechtbank.   
-
-### Artikel  27r  
-
-In de gevallen als bedoeld in artikel 27q, eerste lid, onderdeel a, kan het gerechtshof de zaak zonder terugwijzing afdoen, indien zij naar zijn oordeel geen nadere behandeling door de rechtbank behoeft.  
-
-### Artikel  27s  
-
-Indien het gerechtshof van oordeel is dat de uitspraak is gedaan door een andere rechtbank dan de bevoegde, kan het de onbevoegdheid voor gedekt verklaren en de uitspraak als bevoegdelijk gedaan aanmerken.  
-
-### Afdeling  4  
-
-####Beroep in cassatie bij de Hoge Raad
 
 ### Artikel  28  
 
@@ -666,7 +573,7 @@ Indien het gerechtshof van oordeel is dat de uitspraak is gedaan door een andere
 a. een uitspraak van het gerechtshof die overeenkomstig [afdeling 8.2.6 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is gedaan, en  
 
 b. een uitspraak van de voorzieningenrechter van het gerechtshof die overeenkomstig [artikel 8:86 van die wet is gedaan](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
-2.  De belanghebbende en Onze Minister kunnen bij de Hoge Raad voorts beroep in cassatie instellen tegen een uitspraak van de rechtbank als bedoeld in [artikel 8:55, vijfde lid, van die wet](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.  De belanghebbende en Onze Minister kunnen bij de Hoge Raad voorts beroep in cassatie instellen tegen een uitspraak van de rechtbank als bedoeld in [artikel 8:55, zevende lid, van die wet](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 3.  Indien de belanghebbenden en Onze Minister daarmee schriftelijk instemmen, kan bij de Hoge Raad voorts beroep in cassatie worden ingesteld tegen een uitspraak van de rechtbank als bedoeld in [afdeling 8.2.6 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), alsmede tegen een uitspraak van de voorzieningenrechter van de rechtbank als bedoeld in [artikel 8:86 van die wet](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 4.  Geen beroep in cassatie kan worden ingesteld tegen: 
 
@@ -676,7 +583,7 @@ b. een uitspraak van de rechtbank overeenkomstig [artikel 8:54a van die wet](../
 
 c. een uitspraak van de voorzieningenrechter van het gerechtshof of de rechtbank overeenkomstig [artikel 8:84, tweede lid, van die wet](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en  
 
-d. een uitspraak van de voorzieningenrechter van het gerechtshof of de rechtbank overeenkomstig [artikel 8:75a, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), in verband met [artikel 8:84, vierde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
+d. een uitspraak van de voorzieningenrechter van het gerechtshof of de rechtbank overeenkomstig [artikel 8:75a, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), in verband met [artikel 8:84, vijfde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
 5.  Tegen andere beslissingen van het gerechtshof, van de rechtbank of van de voorzieningenrechter kan slechts tegelijkertijd met het beroep in cassatie tegen de in het eerste of het tweede lid bedoelde uitspraak beroep in cassatie worden ingesteld.   
 6.  De artikelen 24a, tweede lid, 26a, derde lid, en 26b, eerste lid, zijn van overeenkomstige toepassing.   
 7.  De werking van de uitspraak van het gerechtshof, de rechtbank of de voorzieningenrechter wordt opgeschort totdat de termijn voor het instellen van beroep in cassatie is verstreken of, indien beroep in cassatie is ingesteld, op het beroep in cassatie is beslist.   
@@ -685,6 +592,7 @@ d. een uitspraak van de voorzieningenrechter van het gerechtshof of de rechtbank
 
 1.  De griffier van de Hoge Raad doet van het ingestelde beroep in cassatie zo spoedig mogelijk mededeling aan de griffier van het gerecht dat de aangevallen uitspraak heeft gedaan.   
 2.  De griffier van dit gerecht zendt een afschrift van de uitspraak en de op de uitspraak betrekking hebbende gedingstukken die onder hem berusten, onverwijld aan de griffier van de Hoge Raad.   
+3.  De griffier maakt zo nodig onverwijld alsnog een proces-verbaal op van de zitting en zendt dit aan de griffier van de Hoge Raad.   
 
 ### Artikel  28b  
 
@@ -694,21 +602,7 @@ d. een uitspraak van de voorzieningenrechter van het gerechtshof of de rechtbank
 
 ### Artikel  29  
 
-Op de behandeling van het beroep in cassatie zijn de [artikelen 8:14 tot en met 8:25](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:27 tot en met 8:29](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:31 tot en met 8:40a](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:43](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:52](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:53](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:60](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:70](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:71](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:72a](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [8:75 tot en met 8:79](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [titel 8.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing , voorzover in deze afdeling niet anders is bepaald.  
-
-### Artikel  29a  
-
-1.  Van de indiener van het beroepschrift wordt door de griffier van de Hoge Raad een griffierecht geheven. Indien het een beroepschrift ter zake van twee of meer samenhangende uitspraken betreft, is eenmaal griffierecht verschuldigd. In dat geval bedraagt het griffierecht het hoogste op grond van het tweede lid verschuldigde bedrag.   
-2.  Het griffierecht bedraagt: 
-
-a. € 115 indien door een natuurlijke persoon beroep in cassatie is ingesteld tegen een uitspraak inzake een ander besluit dan bedoeld in onderdeel b;  
-
-b. € 232 indien door een natuurlijke persoon beroep in cassatie is ingesteld tegen een uitspraak inzake een besluit als bedoeld in artikel 27b, eerste lid, onderdeel b;  
-
-c. € 466 indien anders dan door een natuurlijke persoon beroep in cassatie is ingesteld.     
-3.  Indien Onze Minister beroep in cassatie heeft ingesteld en de uitspraak van het gerechtshof in stand blijft, wordt van de Staat een griffierecht geheven van € 466.   
-4.  [Artikel 8:41, tweede en vierde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
-5.  De in het tweede en derde lid genoemde bedragen kunnen bij algemene maatregel van bestuur worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.   
+Op de behandeling van het beroep in cassatie zijn de [artikelen 8:14 tot en met 8:25](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:27 tot en met 8:29](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:31 tot en met 8:40a](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:41, met uitzondering van het tweede lid](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:41a](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:43 tot en met 8:45](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:52](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:53](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:60](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:70](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:71](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:72a](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:75 tot en met 8:79](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:109](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:110, derde en vijfde lid](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:111](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:112](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:113, tweede lid](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:114](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [titel 8.6 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing, voor zover in deze afdeling niet anders is bepaald.  
 
 ### Artikel  29b  
 
@@ -740,11 +634,6 @@ c. € 466 indien anders dan door een natuurlijke persoon beroep in cassatie is
 2.  De griffier zendt een door hem voor eensluidend getekend afschrift van de intrekking onverwijld aan die belanghebbende.   
 3.  De [artikelen 6:5 tot en met 6:9](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [6:11](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [6:14](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [6:15](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [6:17](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [6:21](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [8:73a, tweede lid, eerste en tweede volzin, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing, alsmede de artikelen 29c en 29d.   
 
-### Artikel  29g  
-
-1.  Indien de Hoge Raad de uitspraak van het gerechtshof, van de rechtbank of van de voorzieningenrechter vernietigt, houdt de uitspraak tevens in dat aan de indiener van het beroepschrift het door hem betaalde griffierecht door de door de Hoge Raad aangewezen rechtspersoon wordt vergoed.   
-2.  In de overige gevallen kan de uitspraak inhouden dat het betaalde griffierecht geheel of gedeeltelijk door de door de Hoge Raad aangewezen rechtspersoon wordt vergoed.   
-
 ### Artikel  29h  
 
 1.  In geval van verwijzing zendt de griffier van de Hoge Raad de stukken en een afschrift van de uitspraak binnen een week aan het gerechtshof of aan de rechtbank waarheen de zaak is verwezen.   
@@ -760,71 +649,98 @@ c. € 466 indien anders dan door een natuurlijke persoon beroep in cassatie is
 1.  In afwijking van [artikel 8:79, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geschiedt de verstrekking overeenkomstig die bepaling van afschriften of uittreksels aan anderen dan partijen met machtiging van de Hoge Raad.   
 2.  Artikel 27g, tweede lid, is van overeenkomstige toepassing.   
 
-### Afdeling  5  
-
-####Bijzondere bepalingen inzake bezwaar en beroep (douane)
-
 ### Hoofdstuk  VA  
 
-####Heffingsrente en revisierente
+####Belastingrente en revisierente
 
 ### Artikel  30f  
 
-1.  Met betrekking tot de inkomstenbelasting, de vennootschapsbelasting en de erfbelasting wordt rente - heffingsrente - berekend ingeval een voorlopige aanslag, een aanslag of een navorderingsaanslag wordt vastgesteld. De eerste volzin is niet van toepassing met betrekking tot inkomstenbelasting ter zake van te conserveren inkomen als bedoeld in [artikel 2.8, tweede lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), uitgezonderd te conserveren inkomen dat is ontstaan door toepassing van [artikel 3.58, eerste lid](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [artikel 3.64, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). De eerste volzin is ook van toepassing met betrekking tot conserverende aanslagen als bedoeld in [artikel 37, tweede lid, van de Successiewet 1956](../../../../../../wet/successiewet/1956/BWBR0002226/README.md).   
-2.  Met betrekking tot de loonbelasting, de omzetbelasting, de overdrachtsbelasting, de belasting van personenauto’s en motorrijwielen, de accijns, de verbruiksbelastingen van alcoholvrije dranken en van pruimtabak en snuiftabak en de in [artikel 1 van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) genoemde belastingen wordt heffingsrente berekend ingeval: 
+1.  Indien met betrekking tot de inkomstenbelasting of de vennootschapsbelasting na het verstrijken van een periode van 6 maanden te rekenen vanaf het einde van het tijdvak waarover de belasting wordt geheven een voorlopige aanslag met een door de belastingplichtige te betalen bedrag aan belasting wordt vastgesteld, wordt met betrekking tot die aanslag aan de belastingplichtige rente – belastingrente – in rekening gebracht.   
+2.  De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt 6 maanden te rekenen vanaf het einde van het tijdvak waarover de belasting wordt geheven en eindigt op de dag voorafgaand aan de dag waarop de voorlopige aanslag invorderbaar is ingevolge [artikel 9 van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en heeft als grondslag het te betalen bedrag aan belasting.   
+3.  Ingeval de voorlopige aanslag is vastgesteld overeenkomstig een op de door de inspecteur aangegeven wijze ingediend verzoek of overeenkomstig de ingediende aangifte met betrekking tot het tijdvak waarover de belasting wordt geheven, eindigt het tijdvak waarover de belastingrente wordt berekend in afwijking in zoverre van het tweede lid, uiterlijk 14 weken na de datum van ontvangst van het verzoek, onderscheidenlijk 19 weken na de datum van ontvangst van deze aangifte.   
+4.  Geen belastingrente wordt in rekening gebracht ingeval de voorlopige aanslag is vastgesteld overeenkomstig een op de door de inspecteur aangegeven wijze ingediend verzoek dat is ontvangen voor de eerste dag van de vijfde maand, onderscheidenlijk overeenkomstig een ingediende aangifte die is ontvangen voor de eerste dag van de vierde maand na afloop van het tijdvak waarover de belasting wordt geheven.   
 
-a. een naheffingsaanslag wordt vastgesteld vanwege de omstandigheid dat de verschuldigde belasting meer beloopt dan die welke is aangegeven, tenzij die naheffingsaanslag het gevolg is van een vrijwillige verbetering van de aangifte, welke wordt gedaan binnen drie maanden na het einde van het kalenderjaar of het boekjaar waarop de nageheven belasting betrekking heeft;  
+### Artikel  30fa  
 
-b. een teruggaaf van belasting plaatsvindt vanwege de omstandigheid dat de verschuldigde belasting minder beloopt dan die welke is aangegeven.   Heffingsrente wordt eveneens berekend indien en voor zover de in onderdeel *a* bedoelde belasting te laat, doch voordat een naheffingsaanslag is vastgesteld, wordt betaald, behoudens ingeval de betaling plaatsvindt binnen drie maanden na het einde van het kalenderjaar of het boekjaar waarop de te laat betaalde belasting betrekking heeft.   
-3.  De heffingsrente wordt enkelvoudig berekend: 
+1.  Indien met betrekking tot de inkomstenbelasting of de vennootschapsbelasting na het verstrijken van een periode van 6 maanden te rekenen vanaf het einde van het tijdvak waarover de belasting wordt geheven een voorlopige aanslag tot een negatief bedrag aan te betalen belasting wordt vastgesteld, wordt met betrekking tot die aanslag aan de belastingplichtige rente – belastingrente – vergoed ingeval wordt voldaan aan de volgende voorwaarden: 
 
-a. met betrekking tot de inkomstenbelasting en de vennootschapsbelasting: over het tijdvak dat aanvangt op de dag na het einde van het tijdvak waarover de belasting wordt geheven en eindigt op de dag van de dagtekening van het aanslagbiljet;  
+a. de voorlopige aanslag is overeenkomstig een op de door de inspecteur aangegeven wijze ingediend verzoek of overeenkomstig de ingediende aangifte met betrekking tot het tijdvak waarover de belasting wordt geheven, en  
 
-b. met betrekking tot de erfbelasting: 
+b. tussen de datum van ontvangst van dat verzoek of die aangifte en de datum van vaststelling van de voorlopige aanslag zijn meer dan 8 weken, onderscheidenlijk meer dan 13 weken, verstreken.     
+2.  De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt 8 weken na ontvangst van het verzoek, onderscheidenlijk 13 weken na ontvangst van de aangifte, doch niet eerder dan 6 maanden te rekenen vanaf het einde van het tijdvak waarover de belasting wordt geheven, en eindigt 6 weken na de dagtekening van het aanslagbiljet en heeft als grondslag het te betalen bedrag aan belasting.   
 
-1°. over het tijdvak dat aanvangt acht maanden na het overlijden of, indien verkregen wordt ten gevolge van de vervulling van een voorwaarde, de dag van de vervulling van deze voorwaarde, en eindigt op de dag van de dagtekening van het aanslagbiljet;  
+### Artikel  30fb  
 
-2°. indien het betreft een aanslag als bedoeld in [artikel 8, vijfde lid, van de Natuurschoonwet 1928](../../../../../../wet/natuurschoonwet/1928/BWBR0001939/README.md): over het tijdvak dat aanvangt op het moment dat zich een van de gevallen, bedoeld in artikel 8, eerste lid, van de Natuurschoonwet 1928 voordoet, en eindigt op de dag van de dagtekening van het aanslagbiljet;    
+1.  Bij herziening van een voorlopige aanslag inkomstenbelasting of vennootschapsbelasting met een positief bedrag tot een voorlopige aanslag met een hoger positief bedrag, wordt met betrekking tot het verschil belastingrente in rekening gebracht over het tijdvak dat aanvangt 6 maanden te rekenen vanaf het tijdvak waarover de belasting wordt geheven en eindigt op de dag voorafgaand aan de dag waarop het verschil invorderbaar is ingevolge [artikel 9 van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md). Ingeval de herziening is vastgesteld overeenkomstig een op de door de inspecteur aangegeven wijze ingediend verzoek of overeenkomstig de ingediende aangifte met betrekking tot het tijdvak waarover de belasting wordt geheven, eindigt het tijdvak waarover de belastingrente wordt berekend in afwijking in zoverre van de eerste volzin, uiterlijk 14 weken na de datum van ontvangst van het verzoek, onderscheidenlijk 19 weken na ontvangst van de aangifte.   
+2.  Bij herziening van een voorlopige aanslag inkomstenbelasting of vennootschapsbelasting met een positief bedrag tot een voorlopige aanslag met een lager positief bedrag, wordt, zo eerder ter zake van dat positieve bedrag belastingrente in rekening is gebracht, die eerder in rekening gebrachte belastingrente voor zover toerekenbaar aan het verschil, verminderd. Ter zake van het verschil in positieve bedragen wordt belastingrente vergoed ingeval wordt voldaan aan de voorwaarden van artikel 30fa, eerste lid, welke wordt berekend volgens het tweede lid van dat artikel.   
+3.  Bij herziening van een voorlopige aanslag inkomstenbelasting of vennootschapsbelasting met een positief bedrag tot een voorlopige aanslag met een negatief bedrag, wordt, zo eerder ter zake van dat positieve bedrag belastingrente in rekening is gebracht, die eerder in rekening gebrachte belastingrente verminderd. Ter zake van het verschil tussen het positieve bedrag en het negatieve bedrag wordt belastingrente vergoed ingeval wordt voldaan aan de voorwaarden van artikel 30fa, eerste lid, welke wordt berekend volgens het tweede lid van dat artikel.   
+4.  Bij herziening van een voorlopige aanslag inkomstenbelasting of vennootschapsbelasting met een negatief bedrag tot een voorlopige aanslag met positief bedrag, wordt met betrekking tot het verschil tussen die bedragen belastingrente in rekening gebracht over het tijdvak dat aanvangt 6 maanden te rekenen vanaf het tijdvak waarover de belasting wordt geheven en eindigt op de dag voorafgaand aan de dag waarop het verschil invorderbaar is ingevolge [artikel 9 van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md). Ingeval de herziening is vastgesteld overeenkomstig een op de door de inspecteur aangegeven wijze ingediend verzoek of overeenkomstig de ingediende aangifte met betrekking tot het tijdvak waarover de belasting wordt geheven, eindigt het tijdvak waarover de belastingrente wordt berekend in afwijking in zoverre van de eerste volzin uiterlijk 14 weken na de datum van ontvangst van het verzoek, onderscheidenlijk 19 weken na de datum van ontvangst van deze aangifte.   
+5.  Bij herziening van een voorlopige aanslag inkomstenbelasting of vennootschapsbelasting met een negatief bedrag tot een voorlopige aanslag met een kleiner negatief bedrag wordt met betrekking tot het verschil tussen die bedragen belastingrente in rekening gebracht over het tijdvak dat aanvangt 6 maanden te rekenen vanaf het tijdvak waarover de belasting wordt geheven en eindigt op de dag voorafgaand aan de dag waarop het verschil invorderbaar is ingevolge [artikel 9 van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md). Ingeval de herziening is vastgesteld overeenkomstig een op de door de inspecteur aangegeven wijze ingediend verzoek of overeenkomstig de ingediende aangifte met betrekking tot het tijdvak waarover de belasting wordt geheven, eindigt het tijdvak waarover de belastingrente wordt berekend in afwijking in zoverre van de eerste volzin, uiterlijk 14 weken na de datum van ontvangst van het verzoek, onderscheidenlijk 19 weken na de datum van ontvangst van de aangifte.   
+6.  Bij herziening van een voorlopige aanslag inkomstenbelasting of vennootschapsbelasting met een negatief bedrag tot een voorlopige aanslag met een groter negatief bedrag wordt, ingeval wordt voldaan aan de voorwaarden van artikel 30fa, eerste lid, belastingrente vergoed, berekend over het tijdvak, bedoeld in het tweede lid van dat artikel, en met als grondslag het verschil tussen de twee negatieve bedragen.   
+7.  Indien naar aanleiding van een bezwaarschrift of een daaropvolgende gerechtelijke procedure een voorlopige aanslag wordt herzien overeenkomstig het tweede, derde of zesde lid, wordt geen rente vergoed. In het geval ter zake van de herziene voorlopige aanslag eerder belastingrente in rekening is gebracht, wordt deze rente verminderd overeenkomstig het tweede lid, onderscheidenlijk derde lid.   
 
-c. met betrekking tot de loonbelasting: 
+### Artikel  30fc  
 
-1°. indien een naheffingsaanslag wordt opgelegd aan de werknemer, de artiest, de beroepssporter of het buitenlandse gezelschap dan wel aan hem een teruggaaf wordt verleend: over het tijdvak dat aanvangt op de dag na het einde van het kalenderjaar waarop de nageheven belasting dan wel de teruggaaf betrekking heeft en eindigt op de dag van de dagtekening van het aanslagbiljet dan wel op de dag van de dagtekening van het afschrift van de beschikking of van de kennisgeving waaruit van de teruggaaf blijkt;  
-
-2°. in de overige gevallen waarin een naheffingsaanslag wordt opgelegd: over het tijdvak dat aanvangt op de dag na het einde van het kalenderjaar waarop de nageheven belasting betrekking heeft en eindigt op de dag van de dagtekening van het aanslagbiljet;  
-
-3°. in de overige gevallen waarin een teruggaaf wordt verleend: over het tijdvak dat aanvangt drie maanden na het einde van het kalenderjaar waarop de teruggaaf betrekking heeft en eindigt op de dag van de dagtekening van het afschrift van de uitspraak of de beschikking of van de kennisgeving waaruit van de teruggaaf blijkt;    
-
-d. met betrekking tot de omzetbelasting, de overdrachtsbelasting, de belasting van personenauto’s en motorrijwielen, de accijns en de verbruiksbelastingen van alcoholvrije dranken en van pruimtabak en snuiftabak en de in [artikel 1 van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) genoemde belastingen: 
-
-1°. indien een naheffingsaanslag wordt opgelegd: over het tijdvak dat aanvangt op de dag na het einde van het kalenderjaar of het boekjaar waarop de nageheven belasting betrekking heeft en eindigt op de dag van de dagtekening van het aanslagbiljet;  
-
-2°. indien een teruggaaf wordt verleend: over het tijdvak dat aanvangt drie maanden na het einde van het kalenderjaar of het boekjaar waarop de teruggaaf betrekking heeft en eindigt op de dag van de dagtekening van het afschrift van de uitspraak of van de kennisgeving waaruit van de teruggaaf blijkt;    
-
-e. ingeval het tweede lid, tweede volzin, van toepassing is: over het tijdvak dat aanvangt op de dag na het einde van het kalenderjaar of het boekjaar waarop de te laat betaalde belasting betrekking heeft en eindigt op de dag van betaling.     
-4.  Voor de toepassing van dit hoofdstuk geldt als het bedrag van de aanslag: het bedrag van de aanslag na de verrekening ingevolge 
+1.  Indien met betrekking tot de inkomstenbelasting of vennootschapsbelasting na het verstrijken van een periode van 6 maanden te rekenen vanaf het einde van het tijdvak waarover de belasting wordt geheven een aanslag of een navorderingsaanslag met een door de belastingplichtige te betalen bedrag aan belasting wordt vastgesteld, wordt met betrekking tot die aanslag, onderscheidenlijk die navorderingsaanslag, aan de belastingplichtige rente – belastingrente – in rekening gebracht.   
+2.  De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt 6 maanden te rekenen vanaf het einde van het tijdvak waarover de belasting wordt geheven en eindigt op de dag voorafgaand aan de dag waarop de aanslag, onderscheidenlijk de navorderingsaanslag, invorderbaar is ingevolge [artikel 9 van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en heeft als grondslag het te betalen bedrag aan belasting.   
+3.  Ingeval de aanslag is vastgesteld overeenkomstig de ingediende aangifte, eindigt het tijdvak waarover de belastingrente wordt berekend in afwijking in zoverre van het tweede lid, uiterlijk 19 weken na de datum van ontvangst van de aangifte.   
+4.  Ingeval de navorderingsaanslag is vastgesteld naar aanleiding van een verzoek, eindigt het tijdvak waarover de belastingrente wordt berekend in afwijking in zoverre van het tweede lid, uiterlijk 12 weken na de datum van ontvangst van het verzoek.   
+5.  Dit artikel is niet van toepassing met betrekking tot inkomstenbelasting ter zake van te conserveren inkomen als bedoeld in [artikel 2.8, tweede lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), uitgezonderd te conserveren inkomen dat is ontstaan door toepassing van [artikel 3.58, eerste lid](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [artikel 3.64, eerste lid, van die wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
+6.  Voor de toepassing van dit artikel geldt als het te betalen bedrag aan belasting: het bedrag na de verrekening ingevolge: 
 
 a. artikel 15;  
 
-b. de [artikelen 3.152, vijfde lid](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en [4.51, vijfde lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+b. de [artikelen 3 152, zesde lid](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en [4.51, zesde lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
 
 c. [artikel 21, derde lid, van de Wet op de vennootschapsbelasting 1969](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).     
-5.  Het percentage van de heffingsrente in een kalenderkwartaal is gelijk aan de op de eerste werkdag van de tweede kalendermaand voorafgaande aan dat kwartaal door de Europese Centrale Bank voor basisherfinancieringstransacties toegepaste interestvoet (de minimale biedrente), dan wel, indien dit lager is, het naar de gemiddelde koers van die dag door Onze Minister berekende, ongewogen gemiddelde effectieve rendement van de laatste drie uitgegeven staatsleningen die zijn toegelaten tot de handel op een gereglementeerde markt waarvoor een vergunning als bedoeld in [artikel 5:26, eerste lid, van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is verleend waarbij dit effectieve rendement naar beneden wordt afgerond op een vijfvoud van honderdstenprocenten en vervolgens wordt verminderd met 0,5 procentpunt, met dien verstande dat het aldus bepaalde percentage van de heffingsrente vervolgens wordt vermeerderd met 1,50 procentpunt.   
+
+### Artikel  30fd  
+
+1.  Indien met betrekking tot de inkomstenbelasting of de vennootschapsbelasting na het verstrijken van een periode van 6 maanden te rekenen vanaf het einde van het tijdvak waarover de belasting wordt geheven een aanslag tot een negatief bedrag aan te betalen belasting wordt vastgesteld, wordt met betrekking tot die aanslag aan de belastingplichtige rente – belastingrente – vergoed ingeval wordt voldaan aan de volgende voorwaarden: 
+
+a. de aanslag is overeenkomstig de ingediende aangifte, en  
+
+b. tussen de datum van ontvangst van die aangifte en de datum van vaststelling van de aanslag zijn meer dan 13 weken verstreken.     
+2.  Artikel 30fc, vijfde en zesde lid, is van overeenkomstige toepassing.   
+3.  Ingeval met de aanslag geen voorlopige aanslag is verrekend, wordt de belastingrente enkelvoudig berekend over het tijdvak dat aanvangt 13 weken na ontvangst van de aangifte doch niet eerder dan 6 maanden te rekenen vanaf het einde van het tijdvak waarover de belasting wordt geheven, en eindigt 6 weken na de dagtekening van het aanslagbiljet en heeft als grondslag het te betalen bedrag aan belasting.   
+4.  Ingeval met de aanslag wel een voorlopige aanslag is verrekend, vindt de renteberekening plaats overeenkomstig de renteberekening bij een herziening van een voorlopige aanslag inkomstenbelasting, onderscheidenlijk vennootschapsbelasting, bedoeld in artikel 30fb.   
+
+### Artikel  30fe  
+
+1.  Indien met betrekking tot de inkomstenbelasting of de vennootschapsbelasting na het verstrijken van een periode van 6 maanden te rekenen vanaf het einde van het tijdvak waarover de belasting wordt geheven naar aanleiding van een bezwaarschrift of een daaropvolgende gerechtelijke procedure een aanslag of een navorderingsaanslag wordt verminderd of wordt vernietigd, dan wel een aanslag of navorderingsaanslag ambtshalve wordt verminderd, wordt geen rente vergoed. In het geval ter zake van de verminderde of vernietigde aanslag of navorderingsaanslag eerder belastingrente in rekening is gebracht, wordt deze rente verminderd overeenkomstig de herziening van een voorlopige aanslag, bedoeld in artikel 30fb, tweede en derde lid.   
+2.  Dit artikel vindt geen toepassing bij een vermindering van een aanslag of navorderingsaanslag die voortvloeit uit een verrekening van een verlies van een volgend jaar.   
 
 ### Artikel  30g  
 
-1.  Heffingsrente wordt vergoed over het negatieve bedrag van de voorlopige aanslag, over het negatieve bedrag van de aanslag, alsmede over het bedrag van de teruggaaf.   
-2.  Heffingsrente wordt mede vergoed bij vermindering van: 
+1.  Indien met betrekking tot de erfbelasting een belastingaanslag met een door de belastingplichtige te betalen bedrag aan belasting wordt vastgesteld, wordt met betrekking tot die belastingaanslag rente – belastingrente – in rekening gebracht.   
+2.  De belastingrente wordt enkelvoudig berekend: 
 
-a. het negatieve bedrag van de aanslag: over die vermindering;  
+a. indien het betreft een belastingaanslag ter zake van een overlijden: over het tijdvak dat aanvangt 8 maanden na het overlijden en eindigt op de dag voorafgaand aan de dag waarop de belastingaanslag invorderbaar is ingevolge [artikel 9 van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md);  
 
-b. de aanslag die geen negatief bedrag beloopt tot een aanslag die wel een negatief bedrag beloopt: over dat negatieve bedrag.     
-3.  Bij vermindering van de aanslag eindigt in afwijking in zoverre van artikel 30 *f*, derde lid, het tijdvak waarover de heffingsrente wordt berekend op de dag van de dagtekening van het afschrift van de uitspraak of van de kennisgeving waaruit van de vermindering blijkt.   
-4.  Het tweede lid vindt geen toepassing bij een vermindering van de aanslag die voortvloeit uit de verrekening van een verlies van een volgend jaar.   
+b. indien het betreft een belastingaanslag ter zake van een verkrijging ten gevolge van de vervulling van een voorwaarde: over het tijdvak dat aanvangt op de dag van de vervulling van de voorwaarde en eindigt op de dag voorafgaand aan de dag waarop de belastingaanslag invorderbaar is ingevolge [artikel 9 van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md);  
+
+c. indien het betreft een belastingaanslag als bedoeld in [artikel 8, vijfde lid, van de Natuurschoonwet 1928](../../../../../../wet/natuurschoonwet/1928/BWBR0001939/README.md): over het tijdvak dat aanvangt op de dag dat zich een van de gevallen, bedoeld in artikel 8, eerste lid, van de Natuurschoonwet 1928, voordoet en eindigt op de dag voorafgaand aan de dag waarop de belastingaanslag invorderbaar is ingevolge [artikel 9 van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   De renteberekening heeft als grondslag het te betalen bedrag aan belasting.   
+3.  Indien de belastingaanslag is vastgesteld overeenkomstig een verzoek of overeenkomstig de aangifte, eindigt het tijdvak waarover de belastingrente wordt berekend in afwijking in zoverre van het tweede lid uiterlijk 14 weken na de datum van ontvangst van het verzoek, onderscheidenlijk 19 weken na de datum van ontvangst van de aangifte. Ingeval het betreft een navorderingsaanslag die is vastgesteld naar aanleiding van een verzoek, eindigt het tijdvak waarover de belastingrente wordt berekend in afwijking in zoverre van de eerste volzin uiterlijk 12 weken na de datum van de ontvangst van het verzoek.   
+4.  Indien een belastingaanslag ter zake waarvan belastingrente in rekening is gebracht naar aanleiding van een bezwaarschrift, een daaropvolgende gerechtelijke procedure of een ambtshalve vermindering wordt verminderd of wordt vernietigd, wordt de eerder in rekening gebrachte rente naar evenredigheid verminderd, onderscheidenlijk vernietigd.   
+5.  Voor de toepassing van dit artikel geldt als het te betalen bedrag aan belasting, het bedrag na de verrekening ingevolge artikel 15.   
 
 ### Artikel  30h  
 
-1.  Heffingsrente wordt in rekening gebracht over het positieve bedrag van de belastingaanslag, dan wel, indien artikel 30 *f*, tweede lid, tweede volzin, van toepassing is, over het bedrag van de te laat betaalde belasting.   
-2.  De in rekening gebrachte heffingsrente wordt verlaagd bij vermindering van het positieve bedrag van de belastingaanslag, tenzij de vermindering voortvloeit uit de verrekening van een verlies van een volgend jaar.   
+1.  Met betrekking tot naheffingsaanslagen ter zake van loonbelasting, omzetbelasting, overdrachtsbelasting, belasting van personenauto’s en motorrijwielen, accijns of een in [artikel 1 van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) genoemde belasting, wordt aan degene ten name van wie de naheffingsaanslag is gesteld, rente – belastingrente – in rekening gebracht, ingeval de naheffingsaanslag is vastgesteld na het einde van het kalenderjaar of boekjaar waarop de nageheven belasting betrekking heeft.   
+2.  De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt op de dag volgend op het kalenderjaar of boekjaar waarop de nageheven belasting betrekking heeft en eindigt op de dag voorafgaand aan de dag waarop de naheffingsaanslag invorderbaar is ingevolge [artikel 9 van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en heeft als grondslag de nageheven belasting.   
+3.  Het eerste lid vindt geen toepassing ingeval de naheffingsaanslag het gevolg is van een verbetering van een aangifte (suppletie), welke is gedaan binnen 3 maanden na het einde van het kalenderjaar of boekjaar waarop de nageheven belasting betrekking heeft.   
+4.  Het eerste en tweede lid zijn van overeenkomstige toepassing voor zover een in het eerste lid bedoelde belasting te laat, doch voordat een naheffingsaanslag is vastgesteld, wordt betaald, behoudens ingeval de betaling plaatsvindt binnen 3 maanden na het einde van het kalenderjaar of boekjaar waarop de te laat betaalde belasting betrekking heeft. Belastingrente wordt berekend over het tijdvak dat aanvangt op de dag volgend op het kalenderjaar of boekjaar waarop de te laat betaalde belasting betrekking heeft en eindigt op de dag van betaling en heeft als grondslag het bedrag van de te laat betaalde belasting.   
+5.  Indien een naheffingsaanslag ter zake waarvan belastingrente in rekening is gebracht naar aanleiding van een bezwaarschrift, een daaropvolgende gerechtelijke procedure of een ambtshalve vermindering wordt verminderd of wordt vernietigd, wordt de eerder in rekening gebrachte rente naar evenredigheid verminderd, onderscheidenlijk vernietigd.   
+
+### Artikel  30ha  
+
+1.  Met betrekking tot de in artikel 30h bedoelde belastingen wordt rente – belastingrente – vergoed ingeval een teruggaafbeschikking niet wordt vastgesteld binnen 8 weken na de ontvangst van het verzoek om die beschikking. De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt 8 weken na ontvangst van het verzoek, doch niet eerder dan 3 maanden na het einde van het kalenderjaar of boekjaar waarop de teruggaaf betrekking heeft en eindigt 14 dagen na de dagtekening van de teruggaafbeschikking.   
+2.  Uitgezonderd bij een vermindering van een naheffingsaanslag, wordt met betrekking tot de in artikel 30h bedoelde belastingen ook belastingrente vergoed indien recht ontstaat op een terug te geven bedrag dat verband houdt met een door de inspecteur ingenomen standpunt ter zake van de bij wege van voldoening of afdracht op aangifte verschuldigde of terug te geven belasting. De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt op de dag na die van de voldoening of afdracht van die belasting, doch niet eerder dan 3 maanden na het einde van het kalenderjaar of boekjaar waarop de teruggaaf betrekking heeft en eindigt 14 dagen na de dagtekening van de teruggaafbeschikking en heeft als grondslag het terug te geven bedrag.   
+3.  Met betrekking tot de in artikel 30h bedoelde belastingen wordt ook belastingrente vergoed indien een afwijzende beschikking op een verzoek om een teruggaaf wordt vervangen door een teruggaafbeschikking. De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt 8 weken na de ontvangst van het verzoek om de teruggaaf, doch niet eerder dan 3 maanden na het einde van het kalenderjaar of boekjaar waarop de teruggaaf betrekking heeft en eindigt 14 dagen na de dagtekening van de teruggaafbeschikking.   
+
+### Artikel  30hb  
+
+Het percentage van de belastingrente is gelijk aan het percentage van de ingevolge [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) bij algemene maatregel van bestuur vastgestelde wettelijke rente, bedoeld in [artikel 119 van Boek 6 van dat wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).  
 
 ### Artikel  30i  
 
@@ -836,22 +752,23 @@ b. ingevolge [artikel 3.133](../../../../../../wet/wet/inkomstenbelasting/2001/B
 
 c. ingevolge [artikel 3.135](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of [7.2, tweede lid, aanhef en onderdeel g, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) premies voor een aanspraak uit een pensioenregeling als bedoeld in [artikel 1.7, tweede lid, onderdeel b, van die wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) als negatieve uitgaven voor inkomensvoorzieningen in aanmerking worden genomen.     
 2.  De revisierente bedraagt 20 percent van de waarde in het economische verkeer van aanspraken als bedoeld in het eerste lid. In afwijking van de eerste volzin bedraagt de revisierente, ingeval [artikel 3.136, tweede, derde of vierde lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) van toepassing is, 20% van het bedrag dat ingevolge die leden als negatieve uitgaven voor inkomensvoorzieningen in aanmerking wordt genomen.   
-3.  Ingeval de aanspraak is bedongen minder dan 10 jaren vóór het jaar waarin de aanspraak ingevolge een pensioenregeling of de aanspraak op periodieke uitkeringen tot loon wordt gerekend dan wel de negatieve uitgaven voor inkomensvoorzieningen worden genoten, wordt, indien de belastingplichtige dit verzoekt, in afwijking van het tweede lid, de revisierente gesteld op het door de belastingplichtige aannemelijk te maken bedrag dat ingevolge de artikelen 30f en 30h aan heffingsrente in rekening zou worden gebracht indien: 
+3.  Ingeval de aanspraak is bedongen minder dan 10 jaren vóór het jaar waarin de aanspraak ingevolge een pensioenregeling of de aanspraak op periodieke uitkeringen tot loon wordt gerekend dan wel de negatieve uitgaven voor inkomensvoorzieningen worden genoten, wordt, indien de belastingplichtige dit verzoekt, in afwijking van het tweede lid, de revisierente gesteld op het door de belastingplichtige aannemelijk te maken bedrag dat ingevolge artikel 30fc aan belastingrente in rekening zou worden gebracht indien: 
 
 a. ingeval het betreft een aanspraak ingevolge een pensioenregeling of negatieve uitgaven voor inkomensvoorzieningen: de mogelijkheid zou bestaan de aftrek van de premies voor de aanspraak ongedaan te maken door navorderingsaanslagen over de jaren van die aftrek, of  
 
-b. ingeval het betreft een aanspraak op periodieke uitkeringen: de mogelijkheid zou bestaan de aanspraak tot inkomen uit werk en woning te rekenen in het jaar waarop de aanspraak is ontstaan en ter zake daarvan een navorderingsaanslag op te leggen.   Hierbij worden de bedragen van die navorderingsaanslagen gesteld op 50 percent van de premies, bedoeld in de vorige volzin onderdeel a, danwel van de aanspraak, bedoeld in de vorige volzin onderdeel b, en wordt het einde van het in artikel 30f, derde lid, onderdeel a, bedoelde tijdvak gesteld op 31 december van het jaar waarin de aanspraak ingevolge een pensioenregeling of de aanspraak op periodieke uitkeringen tot loon wordt gerekend dan wel de negatieve uitgaven voor inkomensvoorzieningen worden genoten.   
-4.  Indien revisierente wordt berekend met betrekking tot inkomstenbelasting die betrekking heeft op inkomsten die in aanmerking zijn genomen op grond van de [artikelen 3.83, eerste of tweede lid](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.133, tweede lid, onderdelen h of j](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.136, eerste, tweede, derde, vierde of vijfde lid](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [7.2, achtste lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), wordt bij de toepassing van het derde lid artikel 30f, eerste lid, tweede volzin, buiten aanmerking gelaten.   
+b. ingeval het betreft een aanspraak op periodieke uitkeringen: de mogelijkheid zou bestaan de aanspraak tot inkomen uit werk en woning te rekenen in het jaar waarop de aanspraak is ontstaan en ter zake daarvan een navorderingsaanslag op te leggen.   Hierbij worden de bedragen van die navorderingsaanslagen gesteld op 50 percent van de premies, bedoeld in de vorige volzin onderdeel a, danwel van de aanspraak, bedoeld in de vorige volzin onderdeel b, en wordt het einde van het in artikel 30fc, tweede lid, bedoelde tijdvak gesteld op 31 december van het jaar waarin de aanspraak ingevolge een pensioenregeling of de aanspraak op periodieke uitkeringen tot loon wordt gerekend dan wel de negatieve uitgaven voor inkomensvoorzieningen worden genoten.   
+4.  Indien revisierente wordt berekend met betrekking tot inkomstenbelasting die betrekking heeft op inkomsten die in aanmerking zijn genomen op grond van de [artikelen 3.83, eerste of tweede lid](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.133, tweede lid, onderdelen h of j](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.136, eerste, tweede, derde, vierde of vijfde lid](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [7.2, achtste lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), wordt bij de toepassing van het derde lid artikel 30fc, vijfde lid, buiten toepassing gelaten.   
 
 ### Artikel  30j  
 
-1.  De inspecteur stelt het bedrag van de heffingsrente vast bij voor bezwaar vatbare beschikking. Met betrekking tot deze beschikking zijn de bepalingen in de belastingwet die gelden voor de belastingaanslag ter zake waarvan heffingsrente wordt berekend, van overeenkomstige toepassing.   
-2.  Het bedrag van de heffingsrente wordt op het aanslagbiljet of op het afschrift van de uitspraak of bij de bekendmaking afzonderlijk vermeld. Ingeval de eerste volzin geen toepassing vindt, blijkt het bedrag van de heffingsrente uit het afschrift van de beschikking.   
+1.  De inspecteur stelt het bedrag van de belastingrente vast bij voor bezwaar vatbare beschikking. Met betrekking tot deze beschikking zijn de bepalingen in de belastingwet die gelden voor de belastingaanslag ter zake waarvan belastingrente wordt berekend, van overeenkomstige toepassing.   
+2.  Het bedrag van de belastingrente wordt op het aanslagbiljet of op het afschrift van de uitspraak of bij de bekendmaking afzonderlijk vermeld. Ingeval de eerste volzin geen toepassing vindt, blijkt het bedrag van de belastingrente uit het afschrift van de beschikking.   
 3.  Met betrekking tot de revisierente bedoeld in artikel 30i zijn het eerste en tweede lid van overeenkomstige toepassing.   
+4.  Bij ministeriële regeling kunnen regels worden gesteld voor de bij de berekening van belastingrente toe te passen afrondingen. Voorts kunnen regels worden gesteld met betrekking tot een doelmatige berekening van de belastingrente.   
 
 ### Artikel  30k  
 
-Onze Minister kan in het kader van een regeling voor onderling overleg op grond van het Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen (*Trb.* 1990, 173), de [Belastingregeling voor het Koninkrijk](../../../../../../rijkswet/belastingregeling/voor/het/koninkrijk/BWBR0002464/README.md) of een verdrag ter voorkoming van dubbele belasting, voor bepaalde gevallen of groepen van gevallen afwijkingen toestaan van de artikelen 30f, 30g en 30h.  
+Onze Minister kan in het kader van een regeling voor onderling overleg op grond van het Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen (*Trb.* 1990, 173), de [Belastingregeling voor het Koninkrijk](../../../../../../rijkswet/belastingregeling/voor/het/koninkrijk/BWBR0002464/README.md) of een verdrag ter voorkoming van dubbele belasting, voor bepaalde gevallen of groepen van gevallen afwijkingen toestaan van de artikelen 30f tot en met 30hb.  
 
 ### Hoofdstuk  VI  
 
@@ -973,7 +890,7 @@ b. de boeken, bescheiden en andere gegevensdragers of de inhoud daarvan - zulks 
 
 ### Artikel  49a  
 
-1.  Bij ministeriële regeling wordt aangewezen degene die is gehouden bij het verrichten van de in die ministeriële regeling aan te wijzen werkzaamheden het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer te gebruiken ten behoeve van de rijksbelastingdienst. Voor aanwijzing komt niet in aanmerking een overheidsorgaan als bedoeld in [artikel 1, onderdeel c, van de Wet algemene bepalingen burgerservicenummer](../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md) of degene aan wie het burgerservicenummer is toegekend.   
+1.  Bij ministeriële regeling wordt aangewezen degene die is gehouden bij het verrichten van de in die ministeriële regeling aan te wijzen werkzaamheden het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer te gebruiken ten behoeve van de rijksbelastingdienst. Voor aanwijzing komt niet in aanmerking een overheidsorgaan als bedoeld in [artikel 1, onderdeel c, van de Wet algemene bepalingen burgerservicenummer](../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md) of degene aan wie het burgerservicenummer is toegekend. Onder werkzaamheden als bedoeld in de eerste volzin wordt mede verstaan het doen van aangifte.   
 2.  Op het ontwerp van een ministeriële regeling als bedoeld in het eerste lid, is [artikel 51, tweede lid, van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) van overeenkomstige toepassing.   
 
 ### Artikel  50  
@@ -1126,8 +1043,8 @@ c. bekendmaking plaatsvindt aan degene op wie de gegevens betrekking hebben voor
 
 ### Artikel  67a  
 
-1.  Indien de belastingplichtige de aangifte voor een belasting welke bij wege van aanslag wordt geheven niet, dan wel niet binnen de ingevolge artikel 9, derde lid, gestelde termijn heeft gedaan, vormt dit een verzuim ter zake waarvan de inspecteur hem, gelijktijdig met de vaststelling van de aanslag, een bestuurlijke boete van ten hoogste € 4 920 kan opleggen.   
-2.  Indien over een jaar zowel een aanslag als een conserverende aanslag wordt vastgesteld, wordt de in het eerste lid bedoelde boete uitsluitend opgelegd bij het vaststellen van de aanslag. Wordt over een jaar uitsluitend een conserverende aanslag vastgesteld, dan wordt die boete opgelegd bij het vaststellen van de conserverende aanslag.   
+1.  Indien de belastingplichtige de aangifte voor een belasting welke bij wege van aanslag wordt geheven niet, dan wel niet binnen de ingevolge artikel 9, derde lid, gestelde termijn heeft gedaan, vormt dit een verzuim ter zake waarvan de inspecteur hem, uiterlijk bij de vaststelling van de aanslag, een bestuurlijke boete van ten hoogste € 4 920 kan opleggen.   
+2.  Indien over een jaar zowel een aanslag als een conserverende aanslag wordt vastgesteld, wordt de in het eerste lid bedoelde boete uitsluitend opgelegd uiterlijk bij het vaststellen van de aanslag. Wordt over een jaar uitsluitend een conserverende aanslag vastgesteld, dan wordt die boete opgelegd bij het vaststellen van de conserverende aanslag.   
 
 ### Artikel  67b  
 
@@ -1150,11 +1067,11 @@ a. de artikelen 6, derde lid, 43, 44, 47b, tweede lid, 49, tweede lid, en 50, ee
 
 b. [artikel 7, tweede lid, van de Wet op de kansspelbelasting](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);  
 
-c. de [artikelen 28, eerste lid, aanhef en onderdelen a, b, d en e](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [29](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35d](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35e, aanhef en onderdelen a, b, d en e](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35k](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35l](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [35m, aanhef en onderdelen a en c, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
+c. de [artikelen 28, eerste lid, aanhef en onderdelen a, b, e en f](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [29](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35d](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35e, aanhef en onderdelen a, b, d en e](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35k](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35l](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [35m, aanhef en onderdelen a en c, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
 
 d. [artikel 9, eerste lid, van de Wet op de dividendbelasting 1965](../../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md);  
 
-e. de [artikelen 35, eerste, tweede en vijfde lid](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), en [35a, eerste lid, van de Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), of  
+e. de [artikelen 34c, eerste lid](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [34e](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [34g](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) en [35a, eerste en tweede lid, van de Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), of  
 
 f. [artikel 54 van de Wet op belastingen van rechtsverkeer](../../../../../../wet/wet/op/belastingen/van/rechtsverkeer/BWBR0002740/README.md), begaat een verzuim ter zake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 4 920 kan opleggen.     
 2.  De bevoegdheid tot het opleggen van de in het eerste lid bedoelde boete vervalt door verloop van vijf jaren na het einde van het kalenderjaar waarin de verplichting is ontstaan.   
@@ -1204,7 +1121,11 @@ b. indien verliezen in aanmerking zijn of worden genomen, het bedrag waarop de n
 
 ### Artikel  67fa  
 
-Bij toepassing van [artikel 5:1, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vervalt de voorwaarde van gelijktijdigheid, bedoeld in de artikelen 67a, eerste lid, 67c, tweede lid, 67d, eerste lid, 67e, eerste lid en 67f, derde lid, voor zover nodig.  
+Bij toepassing van [artikel 5:1, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vervalt voor zover nodig: 
+
+a. de voorwaarde van gelijktijdigheid, bedoeld in de artikelen 67c, tweede lid, 67d, eerste lid, 67e, eerste lid, en 67f, derde lid;  
+
+b. de voorwaarde dat uiterlijk bij het vaststellen van de aanslag een verzuimboete kan worden opgelegd, bedoeld in artikel 67a, eerste lid.    
 
 ### Afdeling  2  
 
@@ -1236,6 +1157,14 @@ Deze afdeling is van overeenkomstige toepassing ten aanzien van anderen dan de b
 ### Artikel  67pb  
 
 In afwijking van [artikel 10:3, vierde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan degene die de overtreding constateert ook worden belast met het opleggen van een bestuurlijke boete.  
+
+### Artikel  67q  
+
+1.  In afwijking van [artikel 5:43 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de inspecteur een vergrijpboete opleggen wegens hetzelfde feit als waarvoor eerder een verzuimboete is opgelegd, indien nieuwe bezwaren bekend zijn geworden.   
+2.  Als nieuwe bezwaren kunnen enkel worden aangemerkt verklaringen van de belastingplichtige of inhoudingsplichtige of van derden en boeken, bescheiden en andere gegevensdragers of de inhoud daarvan, welke later bekend zijn geworden of niet zijn onderzocht.   
+3.  Het rapport, bedoeld in [artikel 5:48 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), vermeldt tevens waaruit de nieuwe bezwaren bestaan.   
+4.  De eerder opgelegde verzuimboete wordt verrekend met de wegens hetzelfde feit opgelegde vergrijpboete.   
+5.  Bij toepassing van dit artikel vervalt de voorwaarde van gelijktijdigheid, bedoeld in de artikelen 67d, eerste lid, 67e, eerste lid, en 67f, derde lid, voor zover nodig.   
 
 ### Hoofdstuk  IX  
 
@@ -1345,7 +1274,7 @@ Ten aanzien van bij de belastingwet strafbaar gestelde feiten worden lichamen vo
 ### Artikel  80  
 
 1.  Met het opsporen van bij de belastingwet strafbaar gestelde feiten zijn, behalve de in [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde personen, de ambtenaren van de rijksbelastingdienst belast.   
-2.  In afwijking van de [artikelen 155](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [156](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [157 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) worden alle processen-verbaal betreffende bij de belastingwet strafbaar gestelde feiten ingezonden bij het bestuur van ’s Rijks belastingen. Het bestuur doet de processen-verbaal betreffende strafbare feiten, ter zake waarvan inverzekeringstelling of voorlopige hechtenis is toegepast dan wel een woning tegen de wil van de bewoner is binnengetreden, met de inbeslaggenomen voorwerpen onverwijld toekomen aan de bevoegde officier van justitie. De overige processen-verbaal doet het bestuur, met de inbeslaggenomen voorwerpen, toekomen aan de officier van justitie, indien het een vervolging of verdere vervolging door deze wenselijk acht.   
+2.  In afwijking van de [artikel 156 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) worden alle processen-verbaal betreffende bij de belastingwet strafbaar gestelde feiten ingezonden bij het bestuur van ’s Rijks belastingen. Het bestuur doet de processen-verbaal betreffende strafbare feiten, ter zake waarvan inverzekeringstelling of voorlopige hechtenis is toegepast dan wel een woning tegen de wil van de bewoner is binnengetreden, met de inbeslaggenomen voorwerpen onverwijld toekomen aan de bevoegde officier van justitie. De overige processen-verbaal doet het bestuur, met de inbeslaggenomen voorwerpen, toekomen aan de officier van justitie, indien het een vervolging of verdere vervolging door deze wenselijk acht.   
 3.  De officier van justitie is bevoegd, de zaak ter afdoening weder in handen van het bestuur van ’s Rijks belastingen te stellen, hetwelk daarmede alsdan kan handelen overeenkomstig artikel 76.   
 4.  Het bepaalde in [artikel 148, tweede lid, van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) vindt geen toepassing in zaken, waarin het bestuur van ’s Rijks belastingen het proces-verbaal niet aan de officier van justitie heeft doen toekomen.   
 
@@ -1372,7 +1301,7 @@ De griffiers verstrekken aan het bestuur van ’s Rijks belastingen desgevraagd 
 
 ### Artikel  86  
 
-Met betrekking tot gerechtelijke mededelingen inzake bij de belastingwet strafbaar gestelde feiten hebben de ambtenaren van de rijksbelastingdienst de bevoegdheden bij het [Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aan ambtenaren, aangesteld voor de uitvoering van de politietaak, toegekend.  
+Met betrekking tot gerechtelijke mededelingen inzake bij de belastingwet strafbaar gestelde feiten hebben de ambtenaren van de rijksbelastingdienst de bevoegdheden bij het [Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aan ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, toegekend.  
 
 ### Artikel  87  
 
@@ -1385,7 +1314,7 @@ Ten aanzien van de tenuitvoerlegging van rechterlijke beslissingen inzake bij de
 a. de misdrijven omschreven in de [artikelen 179 tot en met 182 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), welke jegens hen zijn begaan;  
 
 b. het misdrijf omschreven in [artikel 184 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), indien het bevel of de vordering is gedaan krachtens of de handeling is ondernomen ter uitvoering van de belastingwet.     
-2.  De [artikelen 152](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [153](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [157](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [159 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn te dezen op de ambtenaren van overeenkomstige toepassing.   
+2.  De [artikelen 152](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [153](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [156](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [159 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn te dezen op de ambtenaren van overeenkomstige toepassing.   
 
 ### Afdeling  4  
 

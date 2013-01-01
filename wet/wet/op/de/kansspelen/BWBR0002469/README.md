@@ -813,17 +813,41 @@ b. voor kansspelautomaten bestemd voor opstelling in een speelcasino: € 120 p
 c. voor kansspelautomaten bestemd voor opstelling in een speelautomatenhal: € 80 per spelersplaats;  
 
 d. voor kansspelautomaten bestemd voor opstelling in een hoogdrempelige inrichting: € 40 per spelersplaats;     
-3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de heffing.   
-4.  De kansspelheffing wordt geheven met overeenkomstige toepassing van de Algemene wet inzake rijksbelastingen.   
-5.  De kansspelheffing wordt geheven bij wege van aanslag.   
-6.  Voor de toepassing van de Algemene wet inzake rijksbelastingen treden in de plaats: 
-
-a. voor het bestuur van ’s Rijksbelastingen en de inspecteur: de raad van bestuur, bedoeld in artikel 33a;  
-
-b. voor de ambtenaren van de rijksbelastingdienst: de ambtenaren die ingevolge artikel 34, eerste lid, belast zijn met het toezicht op de naleving.     
-7.  De kansspelheffing wordt ingevorderd met toepassing van de [Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [Kostenwet invordering rijksbelastingen](../../../../../../wet/kostenwet/invordering/rijksbelastingen/BWBR0002645/README.md) als was deze heffing een rijksbelasting in de zin van [artikel 2, eerste lid, onderdeel a, van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en geschiedt door de zorg van de ontvanger, bedoeld in artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990, alsmede door de overige in die wet genoemde functionarissen.   
-8.  Bij de invordering van de kansspelheffing blijven van de [Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) buiten toepassing de [artikelen 5](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [20](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [21](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [59](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [62](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [69](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
+3.  Overeenkomstig bij regeling van Onze Minister van Veiligheid en Justitie te stellen regels verstrekt de vergunninghouder op de daarbij vastgestelde wijze en binnen de daarbij vastgestelde termijn de gegevens en bescheiden die voor de vaststelling van de heffing van belang kunnen zijn en verstrekt hij op verzoek van de kansspelautoriteit de nadere gegevens en bescheiden die de kansspelautoriteit voor de vaststelling van de kansspelheffing behoeft.   
+4.  Indien de vergunninghouder niet binnen de daartoe gestelde termijn de gegevens en bescheiden, bedoeld in het derde lid, heeft verstrekt of kennelijk onjuiste of onvolledige gegevens heeft verstrekt, kan de kansspelautoriteit een schatting doen van de gegevens die voor de vaststelling van de heffing van belang zijn.   
+5.  De kansspelautoriteit kan een voorlopige kansspelheffing opleggen tot ten hoogste het bedrag waarop de kansspelheffing met toepassing van de verrekening, bedoeld in het zesde lid, van eerdere voorlopige kansspelheffingen vermoedelijk zal worden vastgesteld. Indien het bedrag in termijnen kan worden betaald, vermeldt de beschikking de te betalen geldsommen en de termijnen waarbinnen de betalingen moeten plaatsvinden. De voorlopige heffing wordt niet vastgesteld voor aanvang van het kalenderjaar waarop zij betrekking heeft.   
+6.  De voorlopige kansspelheffing wordt verrekend met de kansspelheffing.   
+7.  De kansspelheffing en de voorlopige kansspelheffing kunnen bij dwangbevel worden ingevorderd.   
+8.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de heffing.   
 9.  De in het eerste en tweede lid genoemde bedragen kunnen bij ministeriële regeling worden gewijzigd.   
+
+### Afdeling  3  
+
+####Gegevensverwerking
+
+### Artikel  33g  
+
+1.  De raad van bestuur, bedoeld in artikel 33a, kan persoonsgegevens, daaronder begrepen strafrechtelijke persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), verwerken, voor zover die verwerking noodzakelijk is voor: 
+
+a. de uitvoering van deze wet;  
+
+b. het toezicht op naleving van de bij of krachtens deze wet gestelde of aan de op grond van deze wet verleende vergunning verbonden voorschriften;  
+
+c. de handhaving van de bij of krachtens deze wet gestelde of aan de op grond van deze wet verleende vergunning verbonden voorschriften.     
+2.  De raad van bestuur, bedoeld in artikel 33a, en de ambtenaren en personen, bedoeld in artikel 34, verstrekken elkaar de gegevens die deze behoeven ter uitvoering van hun wettelijke taken.   
+3.  Onze Minister van Veiligheid en Justitie, de rijksbelastingdienst, de Inspectie SZW en andere in het reglement, bedoeld in het zesde lid, aangewezen bestuursorganen en toezichthouders zijn bevoegd uit eigen beweging of verplicht desgevraagd de raad van bestuur, bedoeld in artikel 33a, en de ambtenaren en personen, bedoeld in artikel 34, de gegevens te verstrekken die noodzakelijk zijn voor de uitvoering van hun taken. Daarbij kan gebruik worden gemaakt van het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md), en van andere, bij regeling van Onze Minister van Veiligheid en Justitie aangewezen nummers.   
+4.  De gegevens, bedoeld in het eerste lid, worden niet verwerkt voor een ander doel dan waarvoor zij zijn verstrekt, tenzij bij wettelijk voorschrift anders is bepaald of de uitvoering van de taak met het oog waarop de gegevens zijn verstrekt, daartoe noodzaakt.   
+5.  De in het tweede en derde lid bedoelde gegevensverstrekking vindt niet plaats indien de persoonlijke levenssfeer van de betrokkene daardoor onevenredig wordt geschaad.   
+6.  De raad van bestuur, bedoeld in artikel 33a, beschikt over een reglement waarin in ieder geval regels zijn gesteld met betrekking tot de wijze waarop: 
+
+a. de verwerking van persoonsgegevens plaatsvindt;  
+
+b. de persoonsgegevens door passende technische en organisatorische maatregelen worden beveiligd tegen verlies of onrechtmatige verwerking;  
+
+c. wordt gewaarborgd dat de verwerkte persoonsgegevens slechts worden verwerkt voor het doel waarvoor ze zijn verzameld of voor zover het verwerken met dat doel verenigbaar is, alsmede hoe daarop wordt toegezien.     
+7.  Het reglement, bedoeld in het zesde lid, bevat voorts regels met betrekking tot de bestuursorganen, toezichthouders, instanties of personen waarmee gegevens kunnen worden uitgewisseld, de wijze waarop gegevens kunnen worden verstrekt en de doorlevering en vernietiging van gegevens.   
+8.  Bij regeling van Onze Minister van Veiligheid en Justitie kunnen nadere regels worden gesteld met betrekking tot de vorige leden.   
+9.  De raad van bestuur, bedoeld in artikel 33a, is verantwoordelijke in de zin van [artikel 1, onder d, van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
 
 ### Titel  VIa  
 
@@ -842,11 +866,6 @@ Onder zaak in de zin van [5:18 van de Algemene wet bestuursrecht](../../../../..
 ### Artikel  34b  
 
 De op grond van artikel 34 aangewezen ambtenaren en personen hebben bij de uitoefening van hun taak toegang tot de elektronische apparatuur, met inbegrip van netwerken, die naar vermoeden gebruikt wordt bij kansspelen.  
-
-### Artikel  34c  
-
-1.  Degenen die ingevolge artikel 34 belast zijn met het toezicht op de naleving en degene die ingevolge artikel 33e, eerste lid, bevoegd is tot het opleggen van de kansspelheffing, verstrekken elkaar de gegevens welke zij behoeven voor de uitvoering van hun taak.   
-2.  De gegevens, bedoeld in het eerste lid, worden niet voor een ander doel gebruikt dan waarvoor zij zijn verstrekt, tenzij bij wettelijk voorschrift anders is bepaald dan wel de uitvoering van de taak met het oog waarop de gegevens zijn verstrekt, daartoe noodzaakt.   
 
 ### Titel  VIb  
 

@@ -50,7 +50,7 @@ a. van financiële of organisatorische aard;
 
 b. wegens het niet voorhanden zijn van voldoende werk, of  
 
-c. omdat de vastgestelde formatieruimte of personeelsbegroting van het regionaal politiekorps daartoe ontoereikend is.    
+c. omdat de vastgestelde formatieruimte of personeelsbegroting van de regionale eenheid, de landelijke eenheid of de ondersteunende dienst daartoe ontoereikend is.    
 
 ### Artikel  5  
 

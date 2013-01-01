@@ -20,12 +20,12 @@ In deze regeling wordt onder wet verstaan: [Wet belasting zware motorrijtuigen](
 
 a. het internationale digitale aangiftepunt op internetadres https://www.eurovignettes.eu;  
 
-b. de aangiftepunten opgenomen op een door mij bijgehouden lijst van aangiftepunten, te raadplegen op internetadres www.belastingdienst.nl/tiny/61623_073.     
+b. de aangiftepunten opgenomen op een door mij bijgehouden lijst van aangiftepunten, te raadplegen op internetadres http://www.belastingdienst.nl.     
 2.  Voor bedrijven die daarvoor een overeenkomst hebben afgesloten met de Belastingdienst wordt naast de aangiftepunten in het eerste lid als aangiftepunt, bedoeld in [artikel 11, derde lid, van de wet](../../../../../../wet/wet/belasting/zware/motorrijtuigen/BWBR0007678/README.md) aangewezen het digitale aangiftepunt van de Belastingdienst op internetadres https://secure.eurovignet.nl/nluserportal/login.   
 
 ### Artikel  3a  
 
-1.  Als station van inlading of station van uitlading als bedoeld in [artikel 14a, tweede lid, onderdeel a, van de wet](../../../../../../wet/wet/belasting/zware/motorrijtuigen/BWBR0007678/README.md) worden aangewezen de stations opgenomen op de door mij bijgehouden lijst van stations van in- en uitlading, te raadplegen op internetadres www.belastingdienst.nl/tiny/61623_080.   
+1.  Als station van inlading of station van uitlading als bedoeld in [artikel 14a, tweede lid, onderdeel a, van de wet](../../../../../../wet/wet/belasting/zware/motorrijtuigen/BWBR0007678/README.md) worden aangewezen de stations opgenomen op de door mij bijgehouden lijst van stations van in- en uitlading, te raadplegen op internetadres http://www.belastingdienst.nl.   
 2.  Het verzoek om teruggaaf van belasting, bedoeld in [artikel 14a, negende lid, van de wet](../../../../../../wet/wet/belasting/zware/motorrijtuigen/BWBR0007678/README.md), bevat de volgende gegevens: 
 
 a. de naam en het adres van degene die het verzoek om teruggaaf doet;  

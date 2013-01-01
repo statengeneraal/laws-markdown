@@ -111,7 +111,6 @@ d. voor wie de verzekerde in de zin van de [Algemene Kinderbijslagwet](../../../
 
 e. die, hoewel hij niet op grond van de onderdelen a tot en met d als studerende wordt aangemerkt, niettemin in verband met onderwijs of een beroepsopleiding lessen of stages volgt gedurende gemiddeld ten minste 213 klokuren per kwartaal, voor zolang hij de leeftijd van 30 jaar nog niet heeft bereikt.     
 2.  Bij algemene maatregel van bestuur kunnen ook andere dan de in het eerste lid bedoelde personen als studerende worden aangemerkt.   
-3.  Bij ministeriële regeling kunnen nadere en zonodig afwijkende regels worden gesteld met betrekking tot het eerste lid, onderdeel e.   
 
 ### Hoofdstuk  2  
 
@@ -248,7 +247,7 @@ c. het niet in Nederland wonen;
 
 d. het als vreemdeling niet rechtmatig verblijf houden in de zin van [artikel 8, onderdelen a tot en met e en l, van de Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
 
-e. het bereiken of bereikt hebben van de leeftijd van 65 jaar.     
+e. het bereiken of bereikt hebben van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md).     
 2.  Bij algemene maatregel van bestuur kan worden bepaald dat de uitsluitingsgrond, bedoeld in het eerste lid, onderdeel d, niet geldt ten aanzien van vreemdelingen die, na rechtmatig verblijf te hebben gehouden in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), rechtmatig in Nederland verblijf hebben als bedoeld in artikel 8, onder g of h, van de Vreemdelingenwet 2000.   
 
 ### Artikel  2:12  
@@ -397,7 +396,7 @@ b. binnen drie jaar na de aanvang van de arbeid als zelfstandige is ontstaan, in
 
 ####Proefplaatsing
 
-1.  Het Uitvoeringsinstituut werknemersverzekeringen kan, in het kader van de bevordering van de inschakeling in de arbeid, toestemming verlenen aan de jonggehandicapte die recht heeft op arbeidsondersteuning om op een proefplaats bij een werkgever gedurende maximaal drie maanden onbeloonde werkzaamheden te verrichten.   
+1.  Het Uitvoeringsinstituut werknemersverzekeringen kan, in het kader van de bevordering van de inschakeling in de arbeid, toestemming verlenen aan de jonggehandicapte die recht heeft op arbeidsondersteuning om op een proefplaats bij een werkgever gedurende maximaal zes maanden onbeloonde werkzaamheden te verrichten.   
 2.  Tijdens het verrichten van werkzaamheden op een proefplaats als bedoeld in het eerste lid wordt het recht op arbeidsondersteuning en de inkomensvoorziening niet beëindigd.   
 3.  De onbeloonde werkzaamheden op een proefplaats als bedoeld in het eerste lid zijn: 
 
@@ -777,12 +776,6 @@ Indien de jonggehandicapte, die een inkomensvoorziening op grond van dit hoofdst
 5.  Bij ministeriële regeling kunnen met betrekking tot het eerste lid nadere regels worden gesteld.   
 6.  Het eerste tot en met het derde lid is van overeenkomstige toepassing op de overlijdensuitkering, bedoeld in artikel 2:56.   
 
-### Artikel  2:54  
-
-####Inhouding vereveningsbijdrage
-
-Het Uitvoeringsinstituut werknemersverzekeringen houdt op de inkomensvoorziening, op de vakantiebijslag en op de toeslag op de inkomensvoorziening op grond van de [Toeslagenwet](../../../../../../../wet/toeslagenwet/BWBR0004043/README.md) een bedrag in, dat gelijk is aan het bedrag van de premie die een werkgever op grond van [afdeling 2 van hoofdstuk 3 van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) op het overeenkomstige loon van een werknemer, die verzekerd is op grond van de [Werkloosheidswet](../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), inhoudt.  
-
 ### Artikel  2:55  
 
 ####Betaling aan instellingen
@@ -843,14 +836,15 @@ b. gedurende vijf jaar niet volledig aan zijn betalingsverplichtingen heeft vold
 c. gedurende vijf jaar geen betalingen heeft verricht en niet aannemelijk is dat hij deze op enig moment zal gaan verrichten; of  
 
 d. een bedrag, overeenkomend met ten minste 50% van de restsom in één keer aflost.     
-3.  De in het tweede lid, onderdelen a en b, genoemde termijn is drie jaar indien: 
+3.  De in het tweede lid, onderdelen a, b en c, genoemde termijn is tien jaar indien de terugvordering het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 2:7, eerste lid.   
+4.  De in het tweede lid, onderdelen a en b, genoemde termijn is drie jaar indien: 
 
 a. het gemiddeld inkomen van degene van wie wordt teruggevorderd in die periode de beslagvrije voet, bedoeld in de [artikelen 475c](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [475d van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) niet te boven is gegaan; en  
 
 b. de terugvordering niet het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 2:7, eerste lid.     
-4.  Indien daarvoor dringende redenen aanwezig zijn kan het Uitvoeringsinstituut werknemersverzekeringen besluiten geheel of gedeeltelijk van terugvordering af te zien.   
-5.  Degene van wie wordt teruggevorderd is verplicht desgevraagd aan het Uitvoeringsinstituut werknemersverzekeringen de inlichtingen te verstrekken die voor de terugvordering van belang zijn.   
-6.  Het Uitvoeringsinstituut werknemersverzekeringen kan, onder bij ministeriële regeling te stellen voorwaarden, besluiten van terugvordering af te zien indien het terug te vorderen bedrag een bij ministeriële regeling vast te stellen bedrag niet te boven gaat.   
+5.  Indien daarvoor dringende redenen aanwezig zijn kan het Uitvoeringsinstituut werknemersverzekeringen besluiten geheel of gedeeltelijk van terugvordering af te zien.   
+6.  Degene van wie wordt teruggevorderd is verplicht desgevraagd aan het Uitvoeringsinstituut werknemersverzekeringen de inlichtingen te verstrekken die voor de terugvordering van belang zijn.   
+7.  Het Uitvoeringsinstituut werknemersverzekeringen kan, onder bij ministeriële regeling te stellen voorwaarden, besluiten van terugvordering af te zien indien het terug te vorderen bedrag een bij ministeriële regeling vast te stellen bedrag niet te boven gaat.   
 
 ### Artikel  2:60  
 
@@ -858,6 +852,7 @@ b. de terugvordering niet het gevolg is van het niet of niet behoorlijk nakomen 
 
 1.  Het Uitvoeringsinstituut werknemersverzekeringen kan de onverschuldigd betaalde inkomensvoorziening, bedoeld in artikel 2:59, eerste lid, invorderen bij dwangbevel.   
 2.  Artikel 3:43 is van overeenkomstige toepassing, met dien verstande dat indien het gemiddeld inkomen van de persoon gedurende drie jaar de beslagvrije voet, bedoeld in de [artikelen 475c](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [475d van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) niet te boven is gegaan, het Uitvoeringsinstituut werknemersverzekeringen de aflossingsbedragen lager vaststelt.   
+3.  Artikel 3:44 is van overeenkomstige toepassing.   
 
 ### Artikel  2:61  
 
@@ -942,14 +937,25 @@ b. de jonggehandicapte de verplichting, bedoeld in artikel 2:7, eerste lid, niet
 
 ### Artikel  2:69  
 
-####Bestuurlijke boete bij niet-nakoming inlichtingenverplichting
+####Bestuurlijke boete bij niet-naleving inlichtingenverplichting
 
-1.  Het Uitvoeringsinstituut werknemersverzekeringen legt een bestuurlijke boete op van ten hoogste € 2 269 ter zake van het niet of niet behoorlijk nakomen door de jonggehandicapte of zijn wettelijke vertegenwoordiger of de werkgever, bedoeld in artikel 2:7, zevende lid, van de verplichting, bedoeld in artikel 2:7, eerste of zevende lid.   
-2.  Het Uitvoeringsinstituut werknemersverzekeringen kan afzien van het opleggen van een bestuurlijke boete als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet of niet behoorlijk nakomen door de jonggehandicapte of zijn wettelijk vertegenwoordiger van de verplichting, bedoeld in artikel 2:7, eerste lid, indien dit niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van een inkomensvoorziening, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar, te rekenen vanaf de datum waarop eerder aan de jonggehandicapte een zodanige waarschuwing is gegeven.   
-3.  Het Uitvoeringsinstituut werknemersverzekeringen kan afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende redenen aanwezig zijn.   
-4.  De persoon aan wie een bestuurlijke boete is opgelegd is verplicht desgevraagd aan het Uitvoeringsinstituut werknemersverzekeringen de inlichtingen te verstrekken die voor de tenuitvoerlegging van de boete van belang zijn.   
-5.  Bij algemene maatregel van bestuur worden nadere regels gesteld over de hoogte van de bestuurlijke boete.   
-6.  De artikelen 3:41 tot en met 3:44 zijn van overeenkomstige toepassing op een bestuurlijke boete die op grond van dit artikel is opgelegd.   
+1.  Het Uitvoeringsinstituut werknemersverzekeringen legt een bestuurlijke boete op van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door de jonggehandicapte of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in artikel 2:7, eerste lid. De bestuurlijke boete is niet lager dan de boete die op grond van het derde lid zou worden opgelegd indien er geen sprake was van een benadelingsbedrag.   
+2.  In dit artikel wordt onder benadelingsbedrag verstaan het brutobedrag dat als gevolg van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 2:7, eerste lid, ten onrechte of tot een te hoog bedrag aan inkomensvoorziening is ontvangen.   
+3.  Indien het niet of niet behoorlijk nakomen door de jonggehandicapte of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in artikel 2:7, eerste lid, niet heeft geleid tot een benadelingsbedrag, of indien een werkgever als bedoeld in artikel 2:7, zevende lid, de verplichting, bedoeld in artikel 2:7, zevende lid, niet of niet behoorlijk nakomt, legt het Uitvoeringsinstituut werknemersverzekeringen een bestuurlijke boete op van ten hoogste het bedrag van de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+4.  Het Uitvoeringsinstituut werknemersverzekeringen kan afzien van het opleggen van een bestuurlijke boete als bedoeld in het derde lid en volstaan met het geven van een schriftelijke waarschuwing wegens het niet of niet behoorlijk nakomen door de jonggehandicapte of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in artikel 2:7, eerste lid, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de jonggehandicapte of zijn wettelijke vertegenwoordiger een zodanige waarschuwing is gegeven.   
+5.  Het Uitvoeringsinstituut werknemersverzekeringen legt een bestuurlijke boete op wegens het niet of niet behoorlijk nakomen door de jonggehandicapte of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in artikel 2:7, eerste lid, als gevolg waarvan ten onrechte of tot een te hoog bedrag aan inkomensvoorziening is ontvangen, van ten hoogste 150 procent van het benadelingsbedrag indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van het begaan van de overtreding een eerdere bestuurlijke boete of strafrechtelijke sanctie is opgelegd wegens een eerdere overtreding, bestaande uit eenzelfde gedraging, die onherroepelijk is geworden.   
+6.  Onder eenzelfde gedraging als bedoeld in het vijfde lid wordt verstaan het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 2:7, eerste lid, of [artikel 12 van de Toeslagenwet](../../../../../../../wet/toeslagenwet/BWBR0004043/README.md), als gevolg waarvan ten onrechte of tot een te hoog bedrag aan inkomensvoorziening of toeslag is verleend.   
+7.  In afwijking van het vijfde lid is het in dat lid genoemde tijdvak van vijf jaar tien jaar indien wegens de eerdere overtreding, bedoeld in het vijfde lid, de jonggehandicapte of zijn wettelijke vertegenwoordiger is gestraft met een onvoorwaardelijke gevangenisstraf.   
+8.  Het Uitvoeringsinstituut werknemersverzekeringen kan: 
+
+a. de bestuurlijke boete verlagen indien sprake is van verminderde verwijtbaarheid;  
+
+b. afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende redenen aanwezig zijn.     
+9.  Degene aan wie een bestuurlijke boete is opgelegd, is verplicht desgevraagd aan het Uitvoeringsinstituut werknemersverzekeringen de inlichtingen te verstrekken die voor de tenuitvoerlegging van de bestuurlijke boete van belang zijn.   
+10.  Bij algemene maatregel van bestuur worden nadere regels worden gesteld over de hoogte van de bestuurlijke boete.   
+11.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van tenuitvoerlegging van de beschikking waarbij de bestuurlijke boete is opgelegd.   
+12.  In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechter in beroep of hoger beroep het bedrag waarop de bestuurlijke boete is vastgesteld ook ten nadele van de jonggehandicapte of zijn wettelijke vertegenwoordiger wijzigen.   
+13.  De artikelen 3:43 tot en met 3:44a zijn van overeenkomstige toepassing op een bestuurlijke boete die op grond van dit artikel is opgelegd.   
 
 ### Hoofdstuk  3  
 
@@ -1181,7 +1187,7 @@ d. indien het niet of niet behoorlijk nakomen van een verplichting op grond van 
 
 1.  Het recht op arbeidsongeschiktheidsuitkering eindigt: 
 
-a. met ingang van de dag waarop de jonggehandicapte de leeftijd van 65 jaar bereikt;  
+a. met ingang van de dag waarop de jonggehandicapte de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), bereikt;  
 
 b. wanneer de arbeidsongeschiktheid is geëindigd, of beneden 25% is gedaald, met ingang van de dag, aangegeven in de daartoe strekkende beschikking van het Uitvoeringsinstituut werknemersverzekeringen;  
 
@@ -1429,25 +1435,24 @@ j. indien de belanghebbende die bij deelname aan een reïntegratietraject zijn r
 
 ### Artikel  3:40  
 
-####Bestuurlijke boete bij niet-nakoming inlichtingenverplichting
+####Bestuurlijke boete bij niet-naleving inlichtingenverplichting
 
-1.  Het Uitvoeringsinstituut werknemersverzekeringen legt een bestuurlijke boete op van ten hoogste € 2 269 ter zake van het niet of niet behoorlijk nakomen door de jonggehandicapte of zijn wettelijke vertegenwoordiger of de werkgever van de verplichting, bedoeld in artikel 3:74.   
-2.  Het Uitvoeringsinstituut werknemersverzekeringen kan afzien van het opleggen van een bestuurlijke boete als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet of niet behoorlijk nakomen door de jonggehandicapte of zijn wettelijk vertegenwoordiger van de verplichting, bedoeld in artikel 3:74, indien dit niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van uitkering, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de jonggehandicapte of zijn wettelijke vertegenwoordiger een zodanige waarschuwing is gegeven.   
-3.  Het Uitvoeringsinstituut werknemersverzekeringen kan afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende redenen aanwezig zijn.   
-4.  De persoon aan wie een bestuurlijke boete is opgelegd is verplicht desgevraagd aan het Uitvoeringsinstituut werknemersverzekeringen de inlichtingen te verstrekken die voor de tenuitvoerlegging van de boete van belang zijn.   
-5.  Bij algemene maatregel van bestuur worden nadere regels gesteld over de hoogte van de bestuurlijke boete.   
+1.  Het Uitvoeringsinstituut werknemersverzekeringen legt een bestuurlijke boete op van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door de jonggehandicapte of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in artikel 3:74. De bestuurlijke boete is niet lager dan de boete die op grond van het derde lid zou worden opgelegd indien er geen sprake was van een benadelingsbedrag.   
+2.  In dit artikel wordt onder benadelingsbedrag verstaan het brutobedrag dat als gevolg van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 3:74, ten onrechte of tot een te hoog bedrag aan uitkering is ontvangen.   
+3.  Indien het niet of niet behoorlijk nakomen door de jonggehandicapte of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in artikel 3:74, niet heeft geleid tot een benadelingsbedrag, of indien een werkgever als bedoeld in artikel 3:74, derde lid, de verplichting, bedoeld in artikel 3:74, derde lid, niet of niet behoorlijk nakomt, legt het Uitvoeringsinstituut werknemersverzekeringen een bestuurlijke boete op van ten hoogste het bedrag van de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+4.  Het Uitvoeringsinstituut werknemersverzekeringen kan afzien van het opleggen van een bestuurlijke boete als bedoeld in het derde lid en volstaan met het geven van een schriftelijke waarschuwing wegens het niet of niet behoorlijk nakomen door de jonggehandicapte of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in artikel 3:74, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de jonggehandicapte of zijn wettelijke vertegenwoordiger een zodanige waarschuwing is gegeven.   
+5.  Het Uitvoeringsinstituut werknemersverzekeringen legt een bestuurlijke boete op wegens het niet of niet behoorlijk nakomen door de jonggehandicapte of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in artikel 3:74, als gevolg waarvan ten onrechte of tot een te hoog bedrag aan uitkering is ontvangen, van ten hoogste 150 procent van het benadelingsbedrag indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van het begaan van de overtreding een eerdere bestuurlijke boete of strafrechtelijke sanctie is opgelegd wegens een eerdere overtreding, bestaande uit eenzelfde gedraging, die onherroepelijk is geworden.   
+6.  Onder eenzelfde gedraging als bedoeld in het vijfde lid wordt verstaan het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 3:74 of [artikel 12 van de Toeslagenwet](../../../../../../../wet/toeslagenwet/BWBR0004043/README.md), als gevolg waarvan ten onrechte of tot een te hoog bedrag aan arbeidsongeschiktheidsuitkering of toeslag is verleend.   
+7.  In afwijking van het vijfde lid is het in dat lid genoemde tijdvak van vijf jaar tien jaar indien wegens de eerdere overtreding, bedoeld in het vijfde lid, de jonggehandicapte of zijn wettelijke vertegenwoordiger is gestraft met een onvoorwaardelijke gevangenisstraf.   
+8.  Het Uitvoeringsinstituut werknemersverzekeringen kan: 
 
-### Artikel  3:41  
+a. de bestuurlijke boete verlagen indien sprake is van verminderde verwijtbaarheid;  
 
-####Nadere regels tenuitvoerlegging bestuurlijke boete
-
-Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van tenuitvoerlegging van de beschikking waarbij de bestuurlijke boete is opgelegd.  
-
-### Artikel  3:42  
-
-####Afwijking [8:69 Awb](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)
-
-In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechter in beroep of hoger beroep het bedrag waarop de bestuurlijke boete is vastgesteld ook ten nadele van de jonggehandicapte of zijn wettelijke vertegenwoordiger wijzigen.  
+b. afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende redenen aanwezig zijn.     
+9.  Degene aan wie een bestuurlijke boete is opgelegd, is verplicht desgevraagd aan het Uitvoeringsinstituut werknemersverzekeringen de inlichtingen te verstrekken die voor de tenuitvoerlegging van de bestuurlijke boete van belang zijn.   
+10.  Bij algemene maatregel van bestuur worden nadere regels worden gesteld over de hoogte van de bestuurlijke boete.   
+11.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van tenuitvoerlegging van de beschikking waarbij de bestuurlijke boete is opgelegd.   
+12.  In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechter in beroep of hoger beroep het bedrag waarop de bestuurlijke boete is vastgesteld ook ten nadele van de jonggehandicapte of zijn wettelijke vertegenwoordiger wijzigen.   
 
 ### Artikel  3:43  
 
@@ -1456,13 +1461,23 @@ In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../..
 1.  Het Uitvoeringsinstituut werknemersverzekeringen verrekent de bestuurlijke boete met een uitkering op grond van deze wet, de [Werkloosheidswet](../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), de [Wet arbeid en zorg](../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of een toeslag op grond van de [Toeslagenwet](../../../../../../../wet/toeslagenwet/BWBR0004043/README.md), die de persoon aan wie een bestuurlijke boete is opgelegd ontvangt.   
 2.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het Uitvoeringsinstituut werknemersverzekeringen indien de persoon aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de [Algemene Ouderdomswet](../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [Algemene nabestaandenwet](../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet werk en bijstand](../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md).   
 3.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het Uitvoeringsinstituut werknemersverzekeringen. Indien het Uitvoeringsinstituut werknemersverzekeringen gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan de persoon aan wie de boete is opgelegd.   
-4.  Zolang de jonggehandicapte of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in artikel 3:40, vierde lid, niet of niet behoorlijk nakomt: 
+4.  Zolang de jonggehandicapte of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in artikel 3:40, negende lid, niet of niet behoorlijk nakomt: 
 
 a. is het Uitvoeringsinstituut werknemersverzekeringen in afwijking van [artikel 4.93, vierde lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bevoegd tot verrekening van de bestuurlijke boete voor zover beslag op de vordering van de schuldeiser nietig zou zijn;  
 
 b. geldt de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), in afwijking van [artikel 4:116 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), niet bij de invordering van een bestuurlijke boete bij dwangbevel.     
 
 ### Artikel  3:44  
+
+####Verrekening bestuurlijke boete bij recidive
+
+1.  Bij de verrekening, bedoeld in artikel 3:43, eerste lid, wordt de bestuurlijke boete, bedoeld in artikel 3:40, vijfde lid, door het Uitvoeringsinstituut werknemersverzekeringen, in afwijking van [artikel 4:93, vierde lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), verrekend gedurende een tijdvak van ten hoogste vijf jaar vanaf het moment van de dagtekening waarop de bestuurlijke boete is opgelegd.   
+2.  Artikel 3:43, eerste lid, en het eerste lid zijn van overeenkomstige toepassing op de verrekening van de bestuurlijke boete wegens eenzelfde gedraging als bedoeld in artikel 3:40, zesde lid, indien en voor zover op het moment van verrekening, bedoeld in het eerste lid, de bestuurlijke boete door de overtreder niet is betaald.   
+3.  Het Uitvoeringsinstituut werknemersverzekeringen kan op verzoek van de overtreder besluiten het eerste lid en tweede lid niet of niet meer toe te passen indien, gelet op bijzondere omstandigheden, dringende redenen daartoe noodzaken.   
+4.  De voorgaande leden laten de verrekening van de bestuurlijke boete op grond van artikel 3:43, eerste lid, na het tijdvak, bedoeld in het eerste lid, onverlet.   
+5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de [Wet werk en bijstand](../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
+
+### Artikel  3:44a  
 
 ####In kennisstellen reïntegratiebedrijf van sanctie-oplegging
 
@@ -1488,12 +1503,6 @@ c. de jonggehandicapte of zijn wettelijke vertegenwoordiger een verplichting als
 4.  Wanneer de jonggehandicapte, aan wie een arbeidsongeschiktheidsuitkering is toegekend, een ander machtigt om de uitkering in ontvangst te nemen, onderscheidenlijk een verleende machtiging intrekt, wordt daaraan gevolg gegeven met ingang van een betalingstijdvak, aanvangende na de dag waarop de machtiging wordt ingediend, onderscheidenlijk waarop van haar intrekking mededeling wordt gedaan, doch niet later dan de eerste dag van de tweede maand na de dag van indiening onderscheidenlijk de mededeling.   
 5.  Indien een reïntegratiebedrijf aan het Uitvoeringsinstituut werknemersverzekeringen heeft gemeld dat het gegronde vermoeden bestaat dat een persoon aan wie een uitkering is toegekend onvoldoende medewerking verleent aan de op hem betrekking hebbende werkzaamheden van het reïntegratiebedrijf, neemt het Uitvoeringsinstituut werknemersverzekeringen een besluit omtrent de gehele of gedeeltelijke opschorting of schorsing van de betaling van de uitkering aan die persoon voor de duur van ten hoogste acht weken.   
 6.  Het Uitvoeringsinstituut werknemersverzekeringen stelt het reïntegratiebedrijf in kennis van een besluit tot opschorting of schorsing als bedoeld in het vijfde lid.   
-
-### Artikel  3:46  
-
-####Inhouding vereveningsbijdrage
-
-Het Uitvoeringsinstituut werknemersverzekeringen houdt op de arbeidsongeschiktheidsuitkering, op de vakantie-uitkering en op de toeslag op de uitkering op grond van de [Toeslagenwet](../../../../../../../wet/toeslagenwet/BWBR0004043/README.md) een bedrag in, dat gelijk is aan het bedrag van de premie die een werkgever op grond van [afdeling 2 van hoofdstuk 3 van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) op het overeenkomstige loon van een werknemer, die verzekerd is op grond van de [Werkloosheidswet](../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), inhoudt.  
 
 ### Artikel  3:47  
 
@@ -1539,11 +1548,11 @@ b. indien onderdeel a niet van toepassing is, betaald tot een bedrag ter grootte
 5.  Indien terzake van arbeidsongeschiktheid zowel recht bestaat op wijziging van de uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) als op toekenning van een arbeidsongeschiktheidsuitkering, wordt de arbeidsongeschiktheidsuitkering uitbetaald voorzover deze de gewijzigde uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen overtreft.   
 6.  Voor de toepassing van het eerste tot en met vijfde lid wordt onder arbeidsongeschiktheidsuitkering en uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) tevens verstaan de vakantie-uitkering waarop uit hoofde van die uitkering recht bestaat, voorzover die vakantie-uitkering over dezelfde periode is berekend.   
 7.  Het eerste tot en met zesde lid zijn niet van toepassing op de persoon die een uitkering ontvangt op grond van de vrijwillige verzekering als bedoeld in [paragraaf 2.2 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).   
-8.  Bij of krachtens algemene maatregel van bestuur kunnen nadere en zo nodig afwijkende regels worden gesteld: 
+8.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld: 
 
 a. met betrekking tot het eerste lid;  
 
-b. ter voorkoming van beperking of samenloop van arbeidsongeschiktheidsuitkering met arbeidsongeschiktheidsuitkering op grond van andere wetten.     
+b. ter voorkoming of beperking van samenloop van arbeidsongeschiktheidsuitkering met arbeidsongeschiktheidsuitkering op grond van andere wetten.     
 9.  Voor de toepassing van het eerste en derde tot en met vijfde lid wordt als arbeidsongeschiktheidsuitkering van de jonggehandicapte op wie artikel 3:48 van toepassing is, in aanmerking genomen het bedrag van die uitkering nadat bedoeld artikel toepassing heeft gevonden.   
 10.  Bij algemene maatregel van bestuur kunnen regels worden gesteld ter voorkoming of beperking van samenloop van arbeidsongeschiktheidsuitkering op grond van de sociale wetgeving van Aruba, Curaçao, Sint Maarten, een vergelijkbare regeling van Nederland ten behoeve van de openbare lichamen Bonaire, Sint Eustatius en Saba of een andere Mogendheid.   
 
@@ -1559,7 +1568,7 @@ b. ter voorkoming van beperking of samenloop van arbeidsongeschiktheidsuitkering
 6.  Voor de toepassing van het eerste tot en met het vijfde lid wordt onder arbeidsongeschiktheidsuitkering en arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) en de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) tevens verstaan de vakantie-uitkering waarop uit hoofde van die arbeidsongeschiktheidsuitkeringen recht bestaat, voor zover die vakantie-uitkeringen over dezelfde periode zijn berekend.   
 7.  Het eerste tot en met het zesde lid zijn niet van toepassing op degene die een arbeidsongeschiktheidsuitkering ontvangt op grond van de vrijwillige verzekering als bedoeld in [hoofdstuk VI van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md).   
 8.  Voor de toepassing van het eerste en derde tot en met vijfde lid wordt als arbeidsongeschiktheidsuitkering onderscheidenlijk uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), onderscheidenlijk uitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) van de jonggehandicapte op wie artikel 3:48, onderscheidenlijk [artikel 44](../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of [65 van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), onderscheidenlijk [artikel 58 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) van toepassing is, in aanmerking genomen het bedrag van die uitkeringen nadat bedoelde artikelen toepassing hebben gevonden.   
-9.  Bij of krachtens algemene maatregel van bestuur kunnen nadere en zo nodig afwijkende regels worden gesteld: met betrekking tot het eerste lid.   
+9.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld: met betrekking tot het eerste lid.   
 
 ### Artikel  3:52  
 
@@ -1611,14 +1620,15 @@ b. gedurende vijf jaar niet volledig aan zijn betalingsverplichtingen heeft vold
 c. gedurende vijf jaar geen betalingen heeft verricht en niet aannemelijk is dat hij deze op enig moment zal gaan verrichten; of  
 
 d. een bedrag, overeenkomend met ten minste 50% van de restsom in één keer aflost.     
-3.  De in het tweede lid, onder a en b, genoemde termijn is drie jaar indien: 
+3.  De in het tweede lid, onderdelen a, b en c, genoemde termijn is tien jaar indien de terugvordering het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 3:74.   
+4.  De in het tweede lid, onder a en b, genoemde termijn is drie jaar indien: 
 
 a. het gemiddeld inkomen van de belanghebbende in die periode de beslagvrije voet bedoeld in de [artikelen 475c](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [475d van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) niet te boven is gegaan; en  
 
 b. de terugvordering niet het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 3:74.     
-4.  Indien daarvoor dringende redenen aanwezig zijn kan het Uitvoeringsinstituut werknemersverzekeringen besluiten geheel of gedeeltelijk van terugvordering af te zien.   
-5.  De persoon van wie of de instelling waarvan wordt teruggevorderd is verplicht desgevraagd aan het Uitvoeringsinstituut werknemersverzekeringen de inlichtingen te verstrekken die voor de terugvordering van belang zijn.   
-6.  In afwijking van het eerste lid kan het Uitvoeringsinstituut werknemersverzekeringen, onder voorwaarden die Onze Minister kan stellen, besluiten van terugvordering af te zien indien het terug te vorderen bedrag een door Onze Minister vast te stellen bedrag niet te boven gaat.   
+5.  Indien daarvoor dringende redenen aanwezig zijn kan het Uitvoeringsinstituut werknemersverzekeringen besluiten geheel of gedeeltelijk van terugvordering af te zien.   
+6.  De persoon van wie of de instelling waarvan wordt teruggevorderd is verplicht desgevraagd aan het Uitvoeringsinstituut werknemersverzekeringen de inlichtingen te verstrekken die voor de terugvordering van belang zijn.   
+7.  In afwijking van het eerste lid kan het Uitvoeringsinstituut werknemersverzekeringen, onder voorwaarden die Onze Minister kan stellen, besluiten van terugvordering af te zien indien het terug te vorderen bedrag een door Onze Minister vast te stellen bedrag niet te boven gaat.   
 
 ### Artikel  3:57  
 
@@ -1747,7 +1757,7 @@ b. de overlijdensuitkering, bedoeld in artikel 3:54.
 
 ####Proefplaatsing
 
-1.  Het Uitvoeringsinstituut werknemersverzekeringen kan, in het kader van de bevordering van de inschakeling in de arbeid, toestemming verlenen aan de jonggehandicapte, die recht heeft op een arbeidsongeschiktheidsuitkering om op een proefplaats bij een werkgever gedurende maximaal drie maanden onbeloonde werkzaamheden te verrichten.   
+1.  Het Uitvoeringsinstituut werknemersverzekeringen kan, in het kader van de bevordering van de inschakeling in de arbeid, toestemming verlenen aan de jonggehandicapte, die recht heeft op een arbeidsongeschiktheidsuitkering om op een proefplaats bij een werkgever gedurende maximaal zes maanden onbeloonde werkzaamheden te verrichten.   
 2.  Tijdens het verrichten van werkzaamheden op een proefplaats als bedoeld in het eerste lid wordt de arbeidsongeschiktheidsuitkering niet ingetrokken of herzien.   
 3.  De onbeloonde werkzaamheden op een proefplaats als bedoeld in het eerste lid zijn: 
 
@@ -1831,7 +1841,7 @@ d. de bedragen die het Uitvoeringsinstituut werknemersverzekeringen ontvangt met
 
 a. de op grond van deze wet te betalen uitkeringen en inkomensvoorzieningen;  
 
-b. de op grond van enige wet over de uitkeringen en inkomensvoorzieningen op grond van deze wet door het Uitvoeringsinstituut werknemersverzekeringen verschuldigde premies of vergoedingen als bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) die niet op deze uitkeringen en inkomensvoorzieningen in mindering kunnen worden gebracht;  
+b. de op grond van enige wet over de uitkeringen en inkomensvoorzieningen op grond van deze wet door het Uitvoeringsinstituut werknemersverzekeringen verschuldigde premies die niet op deze uitkeringen en inkomensvoorzieningen in mindering kunnen worden gebracht en de op grond van [artikel 42 van de Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) verschuldigde inkomensafhankelijke bijdrage;  
 
 c. het op grond van artikel 3:48, vierde lid, aan 's Rijks kas af te dragen bedrag;  
 
@@ -1868,12 +1878,6 @@ j. de subsidie, bedoeld in [artikel 32b van de Wet structuur uitvoeringsorganisa
 2.  De redelijke termijn is in ieder geval verstreken wanneer binnen veertien weken na ontvangst van de aanvraag geen beschikking is gegeven, noch een kennisgeving als bedoeld in het derde of vierde lid is gedaan.   
 3.  Indien een beschikking niet binnen de termijn van veertien weken kan worden gegeven, wordt die termijn met een redelijke termijn verlengd en wordt de aanvrager daarvan schriftelijk in kennis gesteld.   
 4.  Indien in verband met het geven van een beschikking als bedoeld in het eerste lid een in het buitenland wonende persoon is opgeroepen en om die reden de beschikking niet binnen veertien weken gegeven kan worden, wordt die termijn verlengd met ten hoogste zes maanden en wordt de aanvrager van deze verlenging schriftelijk in kennis gesteld.   
-
-### Artikel  6:2  
-
-####Afzien van horen belanghebbende
-
-In afwijking van [artikel 7:3 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan van het horen van een belanghebbende worden afgezien indien de belanghebbende niet binnen een door het Uitvoeringsinstituut werknemersverzekeringen gestelde redelijke termijn, verklaart dat hij gebruik wil maken van het recht te worden gehoord.  
 
 ### Artikel  6:3  
 

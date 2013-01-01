@@ -205,14 +205,14 @@ b. de uit de dienstbetrekking voortvloeiende rechtsbetrekking tussen een overhei
 3.  Bij regeling van Onze Minister kan een categorie van personen, niet zijnde werknemers, die werkt in een arbeidsverhouding waarbij tegen beloning persoonlijke arbeid wordt verricht, worden aangewezen die voor de toepassing van deze wet en de daarop berustende bepalingen wordt gelijkgesteld met werknemers.   
 4.  Een geldelijke, vastgestelde uitkering voor een gewezen werknemer die wordt gedaan bij wijze van inkomensvoorziening bij ouderdom in verband met vervroegde uittreding is geen pensioen in de zin van deze wet, indien die uitkering: 
 
-a. uiterlijk eindigt bij het bereiken van de ingangsdatum van de uitkering op grond van de [Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), bij het bereiken van de pensioenleeftijd voor het levenslange ouderdomspensioen of bij eerder overlijden en die gebaseerd is op een overeenkomst die alleen aanspraak op een uitkering toekent aan degenen die tijdens de looptijd van de regeling, welke ten hoogste vijf jaar bedraagt, een bepaalde leeftijd hebben bereikt; of  
+a. uiterlijk eindigt op de datum waarop volgens de [Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) recht op ouderdomspensioen ontstaat, bij het bereiken van de pensioenleeftijd voor het levenslange ouderdomspensioen of bij eerder overlijden en die gebaseerd is op een overeenkomst die alleen aanspraak op een uitkering toekent aan degenen die tijdens de looptijd van de regeling, welke ten hoogste vijf jaar bedraagt, een bepaalde leeftijd hebben bereikt; of  
 
 b. gebaseerd is op de [Wet kaderregeling Vut overheidspersoneel](../../../wet/wet/kaderregeling/vut/overheidspersoneel/BWBR0007792/README.md).     
 5.  Een geldelijke, vastgestelde uitkering voor een gewezen werknemer bij wijze van inkomensvoorziening bij ouderdom is geen pensioen in de zin van deze wet wanneer deze uitkering is gebaseerd op een regeling: 
 
 a. die leidt tot uitkeringen vanaf een bepaalde leeftijd aan werknemers die werkzaamheden verrichten die door de werkgever als substantieel bezwarend zijn aangemerkt;  
 
-b. die leidt tot een uitkering die uiterlijk eindigt bij het bereiken van de ingangsdatum van de uitkering op grond van de [Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), bij het bereiken van de pensioenleeftijd voor het ouderdomspensioen of bij eerder overlijden; en  
+b. die leidt tot een uitkering die uiterlijk eindigt op de datum waarop volgens de [Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) recht op ouderdomspensioen ontstaat, bij het bereiken van de pensioenleeftijd voor het ouderdomspensioen of bij eerder overlijden; en  
 
 c. die bij regeling van Onze Minister is aangewezen.     
 6.  Een uitkering voor een gemoedsbezwaarde als bedoeld in [artikel 64, eerste lid, onderdeel a, van de Wet financiering sociale verzekeringen](../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) is geen pensioen in de zin van deze wet.   
@@ -297,7 +297,7 @@ b. welke diensttijd in het kader van de pensioenovereenkomst relevant is.
 
 a. de werknemer jonger is dan 21 jaar; of  
 
-b. het een ouderdomspensioen betreft dat uitsluitend voorziet in een uitkering tot het bereiken van de pensioenleeftijd op grond van de [Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) of tot het bereiken van de pensioenleeftijd voor het levenslange ouderdomspensioen.     
+b. het een ouderdomspensioen betreft dat uitsluitend voorziet in een uitkering tot het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), of tot het bereiken van de pensioenleeftijd voor het levenslange ouderdomspensioen.     
 
 ### Artikel  9  
 
@@ -344,7 +344,7 @@ In de pensioenovereenkomst wordt bepaald of er toeslagen worden verleend en, zo 
 
 ####Beperking onderscheid naar leeftijd bij verwerving en aanbod
 
-1.  Het verwerven van ouderdomspensioenaanspraken op basis van een pensioenovereenkomst begint uiterlijk op de 21-jarige leeftijd van de werknemer of op de latere datum van indiensttreding, tenzij het een ouderdomspensioen betreft dat uitsluitend voorziet in een uitkering tot het bereiken van de pensioenleeftijd op grond van de [Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) of tot het bereiken van de pensioenleeftijd voor het levenslange ouderdomspensioen.   
+1.  Het verwerven van ouderdomspensioenaanspraken op basis van een pensioenovereenkomst begint uiterlijk op de 21-jarige leeftijd van de werknemer of op de latere datum van indiensttreding, tenzij het een ouderdomspensioen betreft dat uitsluitend voorziet in een uitkering tot het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), of tot het bereiken van de pensioenleeftijd voor het levenslange ouderdomspensioen.   
 2.  Het in het eerste lid genoemde tijdstip waarop de verwerving begint kan, indien in de pensioenovereenkomst is voorzien in een wachttijd of drempelperiode, met betrekking tot ouderdompensioen worden uitgesteld met ten hoogste twee maanden of, indien sprake is van een uitzendovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), tot de werknemer in meer dan 26 weken arbeid heeft verricht. Voor de berekening van de termijn van 26 weken is [artikel 691, vierde en vijfde lid, van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van overeenkomstige toepassing. Wachttijden of drempelperioden zijn niet toegestaan voor het nabestaandenpensioen en het arbeidsongeschiktheidspensioen.   
 3.  In geval een werkgever die nog geen enkele pensioenovereenkomst heeft gesloten of die alleen een pensioenovereenkomst heeft gesloten met werknemers die tot een bepaalde groep behoren, over gaat tot het sluiten van een of meer pensioenovereenkomsten, geldt ten aanzien van zijn werknemers die bij het sluiten van de pensioenovereenkomst ouder zijn dan 21 jaar, niet de eis dat de verwerving van pensioen op 21-jarige leeftijd moet zijn begonnen.   
 4.  Elk beding in strijd met het eerste lid en tweede lid is nietig.   
@@ -353,7 +353,7 @@ In de pensioenovereenkomst wordt bepaald of er toeslagen worden verleend en, zo 
 
 ####Nadere eisen ouderdomspensioen
 
-1.  Indien een pensioenovereenkomst voorziet in een ouderdomspensioen, wordt in de overeenkomst bepaald dat dat pensioen levenslang wordt uitgekeerd aan de gepensioneerde, tenzij het ouderdomspensioen uitsluitend voorziet in een uitkering tot het bereiken van de pensioenleeftijd op grond van de [Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) of tot het bereiken van de pensioenleeftijd voor het levenslange ouderdomspensioen.   
+1.  Indien een pensioenovereenkomst voorziet in een ouderdomspensioen, wordt in de overeenkomst bepaald dat dat pensioen levenslang wordt uitgekeerd aan de gepensioneerde, tenzij het ouderdomspensioen uitsluitend voorziet in een uitkering tot het bereiken van de de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), of tot het bereiken van de pensioenleeftijd voor het levenslange ouderdomspensioen.   
 2.  Elk beding in strijd met het eerste lid is nietig.   
 
 ### Artikel  16  
@@ -1014,7 +1014,8 @@ b. met betrekking tot premieovereenkomsten van toepassing op pensioenaanspraken 
 a. de laagste uitkering niet minder bedraagt dan 75% van de hoogste uitkering; en  
 
 b. de mate van variatie uiterlijk op de ingangsdatum van het pensioen wordt vastgesteld.     
-2.  Voor de toepassing van het eerste lid blijft in de periode tussen de ingangsdatum van het pensioen en het bereiken van de 65-jarige leeftijd, van de uitkering buiten aanmerking het gedeelte dat overeenkomt met het bedrag bedoeld in [artikel 18d, derde lid, van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
+2.  Voor de toepassing van het eerste lid blijft in de periode tussen de ingangsdatum van het pensioen en het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), van de uitkering buiten aanmerking het gedeelte dat overeenkomt met het bedrag bedoeld in [artikel 18d, derde lid, van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
+3.  In afwijking in zoverre van het eerste lid, onderdeel b, kan de mate van variatie uiterlijk bij het bereiken van de 65-jarige leeftijd worden vastgesteld indien het pensioen is ingegaan vóór 1 januari 2013.   
 
 ### Artikel  64  
 
@@ -1044,12 +1045,12 @@ e. in het kader van een verrekening van pensioenrechten bij scheiding de waarde 
 
 ####Afkoop klein ouderdomspensioen bij beëindiging deelneming
 
-1.  De pensioenuitvoerder heeft het recht om op zijn vroegst twee jaar na beëindiging van de deelneming pensioenaanspraken van een gewezen deelnemer af te kopen, indien op basis van de tot het tijdstip van beëindiging opgebouwde aanspraak op ouderdomspensioen de uitkering van het ouderdomspensioen op jaarbasis op de reguliere ingangsdatum minder zal bedragen dan € 400 per 1 januari 2012: € 438,44 per jaar, tenzij: 
+1.  De pensioenuitvoerder heeft het recht om op zijn vroegst twee jaar na beëindiging van de deelneming pensioenaanspraken van een gewezen deelnemer af te kopen, indien op basis van de tot het tijdstip van beëindiging opgebouwde aanspraak op ouderdomspensioen de uitkering van het ouderdomspensioen op jaarbasis op de reguliere ingangsdatum minder zal bedragen dan € 400 per 1 januari 2013: € 451,22 per jaar, tenzij: 
 
 a. dit recht op afkoop in de pensioen- en uitvoeringsovereenkomst is beperkt of uitgesloten; of  
 
 b. de gewezen deelnemer binnen twee jaar na beëindiging van de deelneming een procedure tot waardeoverdracht is gestart.     
-2.  Indien de reguliere ingangsdatum van het ouderdomspensioen ligt voor het verstrijken van de in het eerste lid genoemde termijn van twee jaar, heeft de pensioenuitvoerder het recht om bij de ingang van het ouderdomspensioen een aanspraak op ouderdomspensioen en eventuele andere aanspraken ten behoeve van de gepensioneerde of zijn nabestaanden af te kopen, indien de uitkering van het ouderdomspensioen op de ingangsdatum minder bedraagt dan € 400 per 1 januari 2012: € 438,44 per jaar.   
+2.  Indien de reguliere ingangsdatum van het ouderdomspensioen ligt voor het verstrijken van de in het eerste lid genoemde termijn van twee jaar, heeft de pensioenuitvoerder het recht om bij de ingang van het ouderdomspensioen een aanspraak op ouderdomspensioen en eventuele andere aanspraken ten behoeve van de gepensioneerde of zijn nabestaanden af te kopen, indien de uitkering van het ouderdomspensioen op de ingangsdatum minder bedraagt dan € 400 per 1 januari 2013: € 451,22 per jaar.   
 3.  De pensioenuitvoerder die gebruik wil maken van het in het eerste lid bedoelde recht informeert de gewezen deelnemer over zijn besluit hieromtrent binnen zes maanden na afloop van de periode van twee jaar na beëindiging van de deelneming en gaat over tot de uitbetaling van de afkoopwaarde binnen die termijn van zes maanden.   
 4.  De pensioenuitvoerder die gebruik wil maken van het in het tweede lid bedoelde recht informeert de gepensioneerde over zijn besluit hieromtrent binnen zes maanden na de ingang van het pensioen en gaat over tot de uitbetaling van de afkoopwaarde binnen die termijn van zes maanden.   
 5.  De pensioenuitvoerder stelt de afkoopwaarde van de pensioenaanspraken ter beschikking aan de gewezen deelnemer dan wel de gepensioneerde, met uitzondering van de afkoopwaarde van een bijzonder partnerpensioen, die ter beschikking wordt gesteld aan de gewezen partner.   
@@ -1126,7 +1127,7 @@ b. dat op het tijdstip onmiddellijk voorafgaand aan het tijdstip waarop de deeln
 
 a. er sprake is van een individuele beëindiging van de dienstbetrekking dan wel individuele beëindiging van de deelneming; en  
 
-b. die waardeoverdracht ertoe strekt het de gewezen deelnemer mogelijk te maken pensioenaanspraken te verwerven bij de ontvangende pensioenuitvoerder van de nieuwe werkgever of de beroepspensioenregeling;    tenzij sprake is van een van de in de artikelen 72 en 73 omschreven situaties. Indien het verzoek van de gewezen deelnemer tot waardeoverdracht partnerpensioen betreft is voor de waardeoverdracht van dit partnerpensioen tevens vereist dat de partner die begunstigde is voor het partnerpensioen met de waardeoverdracht instemt.   
+b. die waardeoverdracht ertoe strekt het de gewezen deelnemer mogelijk te maken pensioenaanspraken te verwerven bij de ontvangende pensioenuitvoerder van de nieuwe werkgever of de beroepspensioenregeling;    tenzij sprake is van een van de in de artikelen 72, 72a en 73 omschreven situaties. Indien het verzoek van de gewezen deelnemer tot waardeoverdracht partnerpensioen betreft is voor de waardeoverdracht van dit partnerpensioen tevens vereist dat de partner die begunstigde is voor het partnerpensioen met de waardeoverdracht instemt.   
 2.  De ontvangende pensioenuitvoerder is verplicht om na een verzoek tot waardeoverdracht van een deelnemer de overdrachtswaarde aan te wenden ter verwerving van pensioenaanspraken voor die deelnemer.   
 3.  De plicht van de overdragende pensioenuitvoerder om de waarde rechtstreeks over te dragen en de plicht van de ontvangende pensioenuitvoerder om de waarde aan te wenden ontstaat indien de deelnemer binnen zes maanden na aanvang van de verwerving van pensioenaanspraken in de door de ontvangende pensioenuitvoerder uitgevoerde pensioenregeling een opgave heeft gevraagd van zijn pensioenaanspraken aan de ontvangende pensioenuitvoerder en daarna het verzoek tot waardeoverdracht doet aan de ontvangende pensioenuitvoerder.   
 4.  De ontvangende pensioenuitvoerder waarborgt dat de actuariële waarde van de door de deelnemer te verwerven pensioenaanspraken ten minste gelijk is aan de op dezelfde grondslagen berekende waarde van de over te dragen pensioenaanspraken.   
@@ -1202,6 +1203,11 @@ b. de overdragende en de ontvangende pensioenuitvoerders aan wie door een groep 
 
 c. de toezichthouder binnen drie maanden na de melding geen verbod tot waardeoverdracht heeft opgelegd aan een van beide pensioenuitvoerders.     
 3.  Indien de financiering van de aanspraken van de gewezen deelnemer bij de overdragende pensioenuitvoerder nog niet is voltooid overeenkomstig artikel 55 kan de pensioenuitvoerder ondanks de lagere waarde en de daaruit bij de ontvangende pensioenuitvoerder resulterende lagere pensioenaanspraken de waarde overdragen indien de gewezen deelnemer en zijn partner schriftelijk hiermee instemmen en mits sprake is van de in artikel 72, onderdeel c, of de in artikel 73 bedoelde situatie.   
+4.  Indien in de in artikel 71 bedoelde situatie geen plicht tot waardeoverdracht bestaat omdat sprake is van de in artikel 72a bedoelde situatie is de pensioenuitvoerder bevoegd tot waardeoverdracht indien: 
+
+a. voldaan wordt aan de in artikel 71, eerste en vierde lid, genoemde voorwaarden; en  
+
+b. de oude of nieuwe werkgever bereid is de aanvullende bijdragen te betalen.     
 
 ### Artikel  76  
 
@@ -1613,7 +1619,7 @@ e. een door het bestuur gewaarmerkt afschrift van de wijzigingen in de eventuele
 5.  De werkgever kan de arbeidsovereenkomst niet opzeggen met de werknemer die lid is van een bestuur van een pensioenfonds, een deelnemersraad of van een verantwoordingsorgaan. Indien de werkgever aan een pensioenfonds, deelnemersraad of een verantwoordingsorgaan een secretaris heeft toegevoegd, is de eerste volzin op die secretaris van overeenkomstige toepassing.   
 6.  De werkgever kan zonder voorafgaande toestemming van de kantonrechter de arbeidsovereenkomst niet opzeggen met een werknemer die geplaatst is op een kandidatenlijst voor een bestuur van een pensioenfonds, een deelnemersraad of een verantwoordingsorgaan of die korter dan twee jaar geleden lid is geweest van een bestuur van een pensioenfonds, een deelnemersraad of een verantwoordingsorgaan.   
 7.  De toestemming van de kantonrechter wordt gevraagd bij verzoekschrift. De kantonrechter verleent de toestemming slechts indien de werkgever aannemelijk heeft gemaakt dat opzegging geen verband houdt met een omstandigheid als bedoeld in het eerste lid. Van de uitspraak staat geen hoger beroep of beroep in cassatie open.   
-8.  Ten aanzien van personen die krachtens publiekrechtelijke aanstelling bij de werkgever werkzaam zijn, treedt een andere sector van de rechtbank in de plaats van de kantonrechter.   
+8.  Ten aanzien van personen die krachtens publiekrechtelijke aanstelling bij de werkgever werkzaam zijn, treedt een andere kamer van de rechtbank in de plaats van de kantonrechter.   
 9.  Het vijfde tot en met achtste lid zijn niet van toepassing bij een opzegging gedurende de proeftijd, wegens een dringende reden, indien de werknemer schriftelijk met de opzegging instemt of indien de opzegging geschiedt wegens de beëindiging van de werkzaamheden van de onderneming of van het onderdeel van de onderneming, waarin de werknemer uitsluitend of in hoofdzaak werkzaam is.   
 
 ### Artikel  105  
@@ -2308,94 +2314,10 @@ c. de zorgvuldige behandeling van een ieder die met hem in aanraking komt;
 
 d. de zorgvuldige behandeling van bezwaarschriften en klachten die worden ontvangen.     
 2.  De toezichthouder treft voorzieningen, waardoor een ieder die met hem in aanraking komt in de gelegenheid is voorstellen tot verbetering van werkwijzen en procedures te doen.   
-3.  In het jaarverslag, bedoeld in artikel 156, doet de toezichthouder verslag van hetgeen tot uitvoering van het eerste en het tweede lid is verricht.   
 
 ### §  7.2  
 
 ####Rekening en verantwoording
-
-### Artikel  154  
-
-####Begroting
-
-1.  De toezichthouder stelt jaarlijks een begroting op van de in het daaropvolgende jaar te verwachten baten en lasten, investeringsuitgaven alsmede inkomsten en uitgaven met betrekking tot de uitvoering van de bij en krachtens deze wet opgedragen taken en de daaruit voortvloeiende werkzaamheden. De begroting wordt op een zodanige wijze opgesteld dat de lasten en de uitgaven structureel worden gedekt door de baten en de inkomsten.   
-2.  De begrotingsposten worden van een toelichting voorzien.   
-3.  Tenzij de werkzaamheden waarop de begroting betrekking heeft nog niet eerder werden verricht, bevat de begroting een vergelijking met de begroting van het lopende jaar en de laatste jaarrekening of verantwoording waarmee Onze Minister heeft ingestemd.   
-4.  Indien gedurende het jaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke en de begrote baten en lasten, dan wel inkomsten en uitgaven, of in het in de begroting vervatte beleid, doet de toezichthouder daarvan onverwijld mededeling aan Onze Minister onder vermelding van de verschillen en hun oorzaak en zonodig onder indiening van een gewijzigde of aanvullende begroting.   
-
-### Artikel  155  
-
-####Instemming met begroting
-
-1.  De toezichthouder zendt de begroting, bedoeld in artikel 154, eerste lid, voor 1 december van het aan het begrotingsjaar voorafgaande jaar, en de begroting, bedoeld in artikel 154, vierde lid, onverwijld ter instemming aan Onze Minister.   
-2.  De instemming met de begroting kan worden onthouden wegens strijd met het recht of het algemeen belang. Ingeval van gebleken strijdigheid wordt instemming niet onthouden dan nadat de toezichthouder in de gelegenheid is gesteld de begroting aan te passen, binnen een door Onze Minister te stellen redelijke termijn.   
-3.  De toezichthouder doet onverwijld na instemming mededeling van de begroting in de Staatscourant en houdt deze gedurende ten minste twee jaren na instemming op elektronische wijze ter inzage.   
-4.  Wanneer Onze Minister niet voor 1 januari van het jaar waarop deze betrekking heeft met de begroting heeft ingestemd, kan de toezichthouder, in het belang van een juiste uitvoering van zijn taak, voor het aangaan van verplichtingen en het verrichten van uitgaven beschikken over ten hoogste vier twaalfde gedeelten van de bedragen die bij de overeenkomstige onderdelen in de begroting van het voorafgaande jaar waren toegestaan.   
-
-### Artikel  156  
-
-####Jaarverslag
-
-1.  De toezichthouder stelt jaarlijks een jaarverslag op. Het jaarverslag beschrijft de taakuitoefening en het daartoe gevoerde beleid uit hoofde van deze wet in het voorafgaande jaar. Het jaarverslag beschrijft voorts het gevoerde beleid met betrekking tot de kwaliteitszorg.   
-2.  De toezichthouder zendt het jaarverslag voor 1 mei van het op het boekjaar volgende jaar aan Onze Minister.   
-3.  De toezichthouder houdt het jaarverslag gedurende ten minste twee jaren op elektronische wijze ter inzage.   
-
-### Artikel  157  
-
-####Jaarrekening of verantwoording
-
-1.  De toezichthouder stelt jaarlijks een jaarrekening of verantwoording op van de bij of krachtens deze wet opgedragen taken en de daaruit voortvloeiende werkzaamheden. De jaarrekening van de Stichting Autoriteit Financiële Markten wordt zoveel mogelijk met overeenkomstige toepassing van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) ingericht.   
-2.  De jaarrekening of verantwoording gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de toezichthouder aangewezen accountant.   
-3.  De accountant voegt bij de verklaring, bedoeld in het tweede lid, een verslag van zijn bevindingen omtrent de rechtmatige inning en besteding van de middelen door de toezichthouder uit hoofde van deze wet.   
-4.  De accountant voegt bij de verklaring, bedoeld in het tweede lid, tevens een verslag van zijn bevindingen over de vraag of het beheer en de organisatie van de toezichthouder uit hoofde van deze wet voldoen aan eisen van doelmatigheid.   
-5.  De toezichthouder zendt de jaarrekening of verantwoording voor 1 mei van het op het boekjaar volgende jaar ter instemming aan Onze Minister.   
-6.  De instemming kan worden onthouden wegens strijd met het recht of het algemeen belang.   
-7.  De toezichthouder houdt, na instemming, de jaarrekening of verantwoording gedurende ten minste twee jaren op elektronische wijze ter inzage.   
-
-### Artikel  158  
-
-####Nadere regelgeving
-
-Bij regeling van Onze Minister worden regels gesteld over de inhoud en indiening van de begroting, het jaarverslag en de jaarrekening of verantwoording.  
-
-### Artikel  159  
-
-####Exploitatiesaldo
-
-1.  Het verschil tussen de aan het eind van een begrotingsjaar gerealiseerde baten en inkomsten van de toezichthouder en de gerealiseerde lasten en uitgaven van de toezichthouder vormt het exploitatiesaldo.   
-2.  Indien in enig boekjaar een exploitatiesaldo ontstaat en de toezichthouder dit exploitatiesaldo wil betrekken bij de in het lopende jaar in rekening te brengen kosten, bedoeld in artikel 160, doet de toezichthouder daaromtrent een voorstel in de jaarrekening of verantwoording.   
-
-### Artikel  160  
-
-####Kosten toezicht
-
-1.  De toezichthouder brengt de kosten van de werkzaamheden die hij verricht in verband met de uitvoering van de taken op grond van deze wet in rekening bij de pensioenuitvoerders ten aanzien waarvan die werkzaamheden worden verricht, voor zover deze kosten niet ten laste komen van de Rijksbegroting. Tot de kosten behoren onder meer de kosten die hij ter voorbereiding op de uitvoering van nieuwe onderdelen van zijn taak heeft gemaakt, voordat deze aan hem werden opgedragen. De kosten voor verzekeraars, premiepensioeninstellingen en pensioenfondsen worden gescheiden in rekening gebracht.   
-2.  De kosten worden gebaseerd op de begroting waarmee Onze Minister heeft ingestemd en op het exploitatiesaldo, indien Onze Minister heeft ingestemd met de jaarrekening of verantwoording waarin een voorstel als bedoeld in artikel 159, tweede lid, is opgenomen.   
-3.  Op de begrote kosten worden de opbrengsten uit bestuurlijke boeten en verbeurde lasten onder dwangsom, voor zover de hieraan ten grondslag liggende besluiten van de toezichthouder in het voorafgaande jaar onherroepelijk zijn geworden, in mindering gebracht.   
-4.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot dit artikel waarbij onderscheid kan worden gemaakt tussen incidenteel en jaarlijks in rekening te brengen kosten. De nadere regels hebben onder meer betrekking op de wijze waarop de toezichtkosten worden berekend, de toerekening van toezichthandelingen en -kosten aan pensioenuitvoerders en de doorberekening van de toezichtkosten aan de pensioenuitvoerders.   
-
-### Artikel  161  
-
-####Overleg kosten toezicht
-
-1.  De toezichthouder organiseert overleg over: 
-
-a. de door de toezichthouder op te stellen begroting;  
-
-b. de door de toezichthouder gerealiseerde baten en lasten alsmede inkomsten en uitgaven, en verrichte werkzaamheden;  
-
-c. de kosten voor de pensioenuitvoerders die verband houden met de uitvoering van de taken op grond van deze wet en de daaruit voortvloeiende werkzaamheden; en  
-
-d. de jaarrekening of verantwoording.     
-2.  Het overleg wordt gevoerd door de toezichthouder en een daarvoor in aanmerking komende representatieve vertegenwoordiging van de onder zijn toezicht staande pensioenuitvoerders. Onze Minister kan ambtenaren aanwijzen die namens hem het overleg bijwonen.   
-3.  Het overleg vindt minimaal twee maal per jaar plaats.   
-4.  De toezichthouder maakt het verslag van het overleg binnen een redelijke termijn na het overleg openbaar.   
-
-### Artikel  162  
-
-####Uitsluiting beroep
-
-Tegen besluiten van Onze Minister inzake instemming met de begroting of de jaarrekening of verantwoording kan geen beroep worden ingesteld als bedoeld in [artikel 8:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
 
 ### §  7.3  
 
@@ -2531,7 +2453,7 @@ c. de toezichthouder.
 
 ####Bewindvoerder over een pensioenfonds
 
-1.  Op verzoek van de toezichthouder kan de ondernemingskamer van het gerechtshof te Amsterdam over een pensioenfonds een bewindvoerder aanstellen, indien: 
+1.  Op verzoek van de toezichthouder kan de ondernemingskamer van het gerechtshof Amsterdam over een pensioenfonds een bewindvoerder aanstellen, indien: 
 
 a. een pensioenfonds blijk geeft van een zodanig wanbeleid dat de belangen van de aanspraak- en pensioengerechtigden een onmiddellijke voorziening vereisen; of  
 
@@ -2895,7 +2817,7 @@ c. een of meer van de daaraan verbonden voorschriften niet wordt nageleefd.
 
 ####Informatievoorziening Staten-Generaal
 
-1.  Onze Minister zendt jaarlijks het jaarverslag, de verantwoording en alle andere van belang zijnde door de toezichthouder aan Onze Minister uitgebrachte toezichtrapportages, in de vorm waarin zij aan hem zijn voorgelegd, zonodig voorzien van zijn oordeel, aan de Staten-Generaal.   
+1.  Onze Minister zendt alle van belang zijnde door de toezichthouder aan Onze Minister uitgebrachte toezichtrapportages, in de vorm waarin zij aan hem zijn voorgelegd, zo nodig voorzien van zijn oordeel, aan de Staten-Generaal.   
 2.  Onze Minister zendt elke vijf jaar een verslag aan de Staten-Generaal over de doelmatigheid en doeltreffendheid van het functioneren van de toezichthouder.   
 
 ### Artikel  215  
@@ -2924,7 +2846,7 @@ Zaken betreffende vorderingen uit hoofde van een pensioenovereenkomst, een uitvo
 
 ####Beroep deelnemersraad bij ondernemingskamer
 
-1.  De deelnemersraad kan bij de ondernemingskamer van het gerechtshof te Amsterdam beroep instellen tegen een besluit betreffende een aangelegenheid als bedoeld in artikel 111, eerste lid, indien: 
+1.  De deelnemersraad kan bij de ondernemingskamer van het gerechtshof Amsterdam beroep instellen tegen een besluit betreffende een aangelegenheid als bedoeld in artikel 111, eerste lid, indien: 
 
 a. de deelnemersraad met betrekking tot dat besluit niet voorafgaand in de gelegenheid is gesteld advies uit te brengen;  
 
@@ -2950,26 +2872,20 @@ b. het opleggen van een verbod aan het pensioenfonds om handelingen te verrichte
 
 ####Beroep geleding deelnemersraad bij ondernemingskamer
 
-1.  Een geleding binnen de deelnemersraad kan bij de ondernemingskamer van het gerechtshof te Amsterdam beroep instellen tegen een besluit als bedoeld in artikel 111, tweede lid, onderdeel f of g, van het pensioenfonds, wanneer dat besluit niet in overeenstemming is met het advies van de deelnemersraad.   
+1.  Een geleding binnen de deelnemersraad kan bij de ondernemingskamer van het gerechtshof Amsterdam beroep instellen tegen een besluit als bedoeld in artikel 111, tweede lid, onderdeel f of g, van het pensioenfonds, wanneer dat besluit niet in overeenstemming is met het advies van de deelnemersraad.   
 2.  Artikel 217, tweede tot en met elfde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  219  
 
 ####Enquêterecht
 
-1.  Het verantwoordingsorgaan, bedoeld in artikel 33, eerste lid, onderdeel a, kan een verzoek in het kader van het recht van enquête, bedoeld in [afdeling 2 van titel 8 van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), indienen bij de ondernemingskamer van het gerechtshof te Amsterdam indien voorafgaand aan de indiening van dat verzoek het intern toezicht, bedoeld in artikel 33, eerste lid, onderdeel b, zich daarover heeft uitgesproken.   
+1.  Het verantwoordingsorgaan, bedoeld in artikel 33, eerste lid, onderdeel a, kan een verzoek in het kader van het recht van enquête, bedoeld in [afdeling 2 van titel 8 van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), indienen bij de ondernemingskamer van het gerechtshof Amsterdam indien voorafgaand aan de indiening van dat verzoek het intern toezicht, bedoeld in artikel 33, eerste lid, onderdeel b, zich daarover heeft uitgesproken.   
 2.  De [artikelen 346 tot en met 359 van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn van overeenkomstige toepassing.   
 3.  De kosten die verband houden met het indienen van het in het eerste lid bedoelde verzoek komen ten laste van het pensioenfonds indien zij redelijkerwijs noodzakelijk zijn voor de vervulling van de taak van het verantwoordingsorgaan en het pensioenfonds van de te maken kosten vooraf in kennis is gesteld.   
 
 ### §  8.2  
 
 ####Bestuursrechtelijke geschillen
-
-### Artikel  220  
-
-####Rechtsgang bij Rechtbank Rotterdam
-
-Indien beroep wordt ingesteld tegen een besluit op grond van deze wet is, in afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de rechtbank te Rotterdam bevoegd.  
 
 ### Hoofdstuk  9  
 

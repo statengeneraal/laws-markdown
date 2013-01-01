@@ -148,12 +148,8 @@ De rechter kan op vordering van de houder van het uitsluitend recht gelasten dat
 
 ### Artikel  19  
 
-1.  De rechtbank te 's-Gravenhage en de voorzieningenrechter van die rechtbank in kort geding zijn in eerste aanleg bij uitsluiting bevoegd voor alle vorderingen, ingesteld ingevolge artikel 17, alsmede voor alle vorderingen welke worden ingesteld door een ander dan de houder van het uitsluitend recht op een topografie ten einde te doen vaststellen dat bepaalde, door hem verrichte handelingen niet strijdig zijn met een uitsluitend recht op een topografie.   
+1.  De rechtbank Den Haag en de voorzieningenrechter van die rechtbank in kort geding zijn in eerste aanleg bij uitsluiting bevoegd voor alle vorderingen, ingesteld ingevolge artikel 17, alsmede voor alle vorderingen welke worden ingesteld door een ander dan de houder van het uitsluitend recht op een topografie ten einde te doen vaststellen dat bepaalde, door hem verrichte handelingen niet strijdig zijn met een uitsluitend recht op een topografie.   
 2.  Zij zijn voorts bevoegd tot kennisneming van vorderingen of verzoeken die gelijktijdig zijn ingediend met de in het vorige lid bedoelde vorderingen en daarmee voldoende samenhang vertonen.   
-
-### Artikel  20  
-
-In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is voor beroepen ingesteld tegen besluiten van het bureau omtrent de inschrijving van een depot op grond van deze wet de rechtbank te 's-Gravenhage bevoegd.  
 
 ### Artikel  22  
 

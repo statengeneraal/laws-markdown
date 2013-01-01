@@ -22,17 +22,19 @@ Hebben goedgevonden en verstaan:
 
 1.  Dit besluit is van toepassing voor de heffing van de navolgende belastingen: 
 
-a. inkomstenbelasting  
+a. inkomstenbelasting;  
 
-b. loonbelasting  
+b. loonbelasting;  
 
-c. vennootschapsbelasting  
+c. vennootschapsbelasting;  
 
-d. erfbelasting  
+d. erfbelasting;  
 
-e. schenkbelasting  
+e. schenkbelasting;  
 
-f. kansspelbelasting.     
+f. kansspelbelasting;  
+
+g. bankenbelasting.     
 2.  Dit besluit vindt slechts toepassing voorzover niet op andere wijze in het voorkomen van dubbele belasting is voorzien.   
 
 ### Artikel  2  
@@ -671,6 +673,34 @@ b. artikel 47, zevende lid, en artikel 48, zesde lid, van overeenkomstige toepas
 
 1.  Een in Nederland wonende of gevestigde gerechtigde tot een prijs van een buitenlands kansspel is vrijgesteld van de daarop betrekking hebbende kansspelbelasting, indien die prijs is onderworpen aan een gelijksoortige belasting, die vanwege een ander land of een andere Mogendheid wordt geheven.   
 2.  Het eerste lid vindt geen toepassing, indien de prijs als winst uit onderneming moet worden aangemerkt.   
+
+### Hoofdstuk  VIa  
+
+####Bankenbelasting
+
+### Artikel  53  
+
+####Verrekening bankenbelasting bij dochtermaatschappijen
+
+1.  Aan een belastingplichtige waarvan de financiële gegevens zijn opgenomen in een geconsolideerde jaarrekening die is opgesteld door een in een andere Mogendheid gevestigd lichaam wordt, ter verrekening van vanwege die andere Mogendheid geheven belasting, een vermindering van bankenbelasting verleend indien de activa of passiva van de belastingplichtige in aanmerking zijn genomen bij de vanwege die andere Mogendheid geheven, aan de bankenbelasting soortgelijke, belasting.   
+2.  Het bedrag van de in het eerste lid bedoelde vermindering is gelijk aan het bedrag van de in het kalenderjaar vanwege die andere Mogendheid geheven, aan de bankenbelasting soortgelijke, belasting dat toerekenbaar is aan de bij die heffing in aanmerking genomen activa of passiva van de belastingplichtige. De vermindering volgens dit artikel bedraagt ten hoogste het bedrag aan belasting dat volgens de [Wet bankenbelasting](../../../../../../../wet/wet/bankenbelasting/BWBR0031796/README.md) verschuldigd is.   
+3.  Het eerste lid vindt alleen toepassing indien de aldaar bedoelde andere Mogendheid een overeenkomstige verrekening van Nederlandse bankenbelasting geeft aan een in die Mogendheid gevestigd lichaam dat aldaar is onderworpen aan een soortgelijke belasting en waarvan de financiële gegevens zijn opgenomen in een geconsolideerde jaarrekening die is opgesteld door een in Nederland gevestigd lichaam dat belastingplichtig is voor de bankenbelasting.   
+4.  Bij ministeriële regeling worden regels gesteld voor de bepaling van het gedeelte van de door een andere Mogendheid geheven soortgelijke belasting dat toerekenbaar is aan de bij die heffing in aanmerking genomen activa of passiva van de belastingplichtige.   
+
+### Artikel  54  
+
+####Verrekening bankenbelasting bij bijkantoren
+
+1.  Aan een belastingplichtige met zetel in een andere Mogendheid en met een bijkantoor in Nederland wordt, ter verrekening van vanwege die andere Mogendheid geheven belasting, een vermindering van bankenbelasting verleend indien de aan het bijkantoor toe te rekenen activa of passiva van de belastingplichtige in aanmerking zijn genomen bij de vanwege die andere Mogendheid geheven, aan de bankenbelasting soortgelijke, belasting.   
+2.  Het bedrag van de in het eerste lid bedoelde vermindering is gelijk aan het bedrag van de in het kalenderjaar vanwege die andere Mogendheid geheven, aan de bankenbelasting soortgelijke, belasting dat toerekenbaar is aan de bij die heffing in aanmerking genomen aan het bijkantoor in Nederland toe te rekenen activa of passiva van de belastingplichtige. De vermindering volgens dit artikel bedraagt ten hoogste het bedrag aan belasting dat volgens de [Wet bankenbelasting](../../../../../../../wet/wet/bankenbelasting/BWBR0031796/README.md) verschuldigd is.   
+3.  Het eerste lid vindt alleen toepassing indien de aldaar bedoelde andere Mogendheid een overeenkomstige verrekening van Nederlandse bankenbelasting geeft aan een in Nederland gevestigde belastingplichtige met een bijkantoor in die Mogendheid die aldaar is onderworpen aan een soortgelijke belasting.   
+4.  Bij ministeriële regeling worden regels gesteld voor de bepaling van het gedeelte van de door een andere Mogendheid geheven soortgelijke belasting dat toerekenbaar is aan de bij die heffing in aanmerking genomen aan het bijkantoor in Nederland toe te rekenen activa of passiva van de belastingplichtige.   
+
+### Artikel  55  
+
+####Overeenkomstige verrekening van Nederlandse bankenbelasting
+
+Bij ministeriële regeling kan worden bepaald in welke gevallen aan de in artikel 53, derde lid, onderscheidenlijk artikel 54, derde lid, gestelde voorwaarden in ieder geval wordt voldaan.  
 
 ### Hoofdstuk  VII  
 

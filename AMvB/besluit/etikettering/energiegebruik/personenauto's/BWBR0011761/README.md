@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken van 4 juli 2000, nr. WJZ00042055, gedaan mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en in overeenstemming met Onze Minister van Verkeer en Waterstaat;
 
-Gelet op richtlijn nr. 1999/94/EG van het Europees Parlement en de Raad van de Europese Unie van 13 december 1999 betreffende de beschikbaarheid van consumenteninformatie over het brandstofverbruik en de CO2-uitstoot bij het op de markt brengen van nieuwe personenauto's (PbEG 2000, L 12), op [artikel 6 van de Wet energiebesparing toestellen](../../../../../../wet/wet/energiebesparing/toestellen/BWBR0003916/README.md) en op [artikel 4b, tweede lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
+Gelet op richtlijn nr. 1999/94/EG van het Europees Parlement en de Raad van de Europese Unie van 13 december 1999 betreffende de beschikbaarheid van consumenteninformatie over het brandstofverbruik en de CO2-uitstoot bij het op de markt brengen van nieuwe personenauto's (PbEG 2000, L 12), op artikel 6 van de Wet energiebesparing toestellen en op artikel 4b, tweede lid, van de Wegenverkeerswet 1994;
 
 De Raad van State gehoord (advies van 24 augustus 2000, nr. W10.00.0271/II);
 
@@ -49,13 +49,13 @@ o. officiële specifieke CO <sub>2</sub> -uitstoot: de uitstoot gemeten overeenk
 
 p. reclamemateriaal: al het drukwerk dat wordt gebruikt bij de afzet van, het adverteren voor en het bevorderen van de verkoop van voertuigen aan het publiek, waartoe in ieder geval behoren technische handboeken, brochures en reclame in kranten en tijdschriften, in de vakpers en op affiches;  
 
-q. RDW: de Dienst Wegverkeer, genoemd in [artikel 4a van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+q. RDW: de Dienst Wegverkeer, genoemd in artikel 4a van de Wegenverkeerswet 1994;  
 
 r. brandstofverbruiksgids: een gids met informatie ten behoeve van de consument omtrent het energiegebruik van alle op de Nederlandse markt verkrijgbare nieuwe modellen personenauto's;  
 
 s. relatieve energiezuinigheid: de mate waarin een personenauto meer of minder CO <sub>2</sub> uitstoot dan de referentiewaarde voor de desbetreffende auto;  
 
-t. referentiewaarde: de uitkomst van de formule opgenomen in bijlage 4, onderdeel 5A, voor personenauto's met benzine als brandstof, respectievelijk in bijlage 4, onderdeel 5B, voor personenauto's met diesel als brandstof;  
+t. referentiewaarde: de waarde van de CO <sub>2</sub> -uitstoot als uitkomst van formules die zijn opgenomen de regeling, bedoeld in artikel 6a, respectievelijk voor personenauto's met benzine als brandstof, en personenauto's met diesel als brandstof;  
 
 u. regressieformules: de formules met behulp waarvan de relatieve energiezuinigheid van personenauto's kan worden berekend;  
 
@@ -63,11 +63,13 @@ v. informatie omtrent het energiegebruik: informatie omtrent het officiële bran
 
 w. energie-etiket: een etiket met informatie ten behoeve van de consument omtrent het energiegebruik van de auto waarop het is aangebracht;  
 
-x. richtlijn 92/21/EEG: richtlijn nr. 92/21/EEG van de Raad van de Europese Gemeenschappen van 31 maart 1992 betreffende massa's en afmetingen van motorvoertuigen van categorie M1 (PbEEG 1992, L 129).    
+x. richtlijn 92/21/EEG: richtlijn nr. 92/21/EEG van de Raad van de Europese Gemeenschappen van 31 maart 1992 betreffende massa's en afmetingen van motorvoertuigen van categorie M1 (PbEEG 1992, L 129);  
+
+y. energie-efficiëntieklasse: de klassegewijze indeling van nieuwe modellen personenauto’s op basis van de berekende waarden voor de relatieve energiezuinigheid ten opzichte van een referentiewaarde.    
 
 ### Artikel  2  
 
-1.  De leverancier draagt ervoor zorg dat de handelaren, aan wie hij nieuwe personenauto's levert, beschikken over de voor het desbetreffende kalenderjaar geldende energie-etiketten voor deze personenauto's, die voldoen aan de reisen van bijlage 1 bij dit besluit.   
+1.  De leverancier draagt ervoor zorg dat de handelaren, aan wie hij nieuwe personenauto's levert, beschikken over de voor het desbetreffende kalenderjaar geldende energie-etiketten voor deze personenauto's, die voldoen aan de eisen van bijlage 1 bij dit besluit.   
 2.  De leverancier draagt ervoor zorg dat de handelaren, aan wie hij nieuwe personenauto's levert, met het oog op de naleving van artikel 6, eerste lid, onder b, beschikken over voldoende voor het desbetreffende kalenderjaar geldende brandstofverbruiksgidsen.   
 3.  De leverancier draagt ervoor zorg dat de handelaren, aan wie hij nieuwe personenauto's levert, beschikken over een poster of een display met informatie omtrent het energiegebruik van alle nieuwe personenauto's van de leverancier die door de handelaar zijn uitgestald of te koop of ter leasing worden aangeboden, welke voldoet aan de eisen van bijlage 2 bij dit besluit.   
 4.  De leverancier stelt de energie-etiketten en posters of displays tegen ten hoogste de kostprijs ter beschikking. De leverancier stelt de brandstofverbruiksgidsen kosteloos ter beschikking.   
@@ -77,7 +79,7 @@ x. richtlijn 92/21/EEG: richtlijn nr. 92/21/EEG van de Raad van de Europese Geme
 1.  De RDW stelt jaarlijks vóór 1 december de brandstofverbruiksgids samen voor het eerstvolgende kalenderjaar.   
 2.  De brandstofverbruiksgids voldoet aan de eisen van bijlage II bij richtlijn 1999/94/EG.   
 3.  De RDW stelt de brandstofverbruiksgids kosteloos beschikbaar aan de leveranciers.   
-4.  Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer wijst een of meer instanties aan waar een consument op verzoek kosteloos een brandstofverbruiksgids kan verkrijgen.   
+4.  Onze Minister van Infrastructuur en Milieu wijst een of meer instanties aan waar een consument op verzoek kosteloos een brandstofverbruiksgids kan verkrijgen.   
 
 ### Artikel  4  
 
@@ -103,6 +105,14 @@ c. op het verkooppunt duidelijk zichtbaar voor elk merk van daar te koop of ter 
 2.  Het is een handelaar verboden een nieuwe personenauto ten verkoop of ter leasing tentoon te stellen of aan het publiek te presenteren, terwijl op de etiketten en posters of displays of in de brandstofverbruiksgids merktekens, symbolen of opschriften zijn aangebracht betreffende het energiegebruik, die niet in overeenstemming zijn met dit besluit, indien dit bij potentiële gebruikers van nieuwe personenauto's verwarring kan wekken.   
 3.  Een energie-etiket als bedoeld in het eerste lid, onder a, kan in de periode van 1 november tot en met 31 december in plaats van een voor het desbetreffende kalenderjaar geldend etiket ook een etiket zijn dat betrekking heeft op het eerstvolgende kalenderjaar.   
 
+### Artikel  6a  
+
+Bij regeling van Onze Minister van Infrastructuur en Milieu worden regels vastgesteld voor: 
+
+a. de bepaling van de energie-efficiëntieklasse en  
+
+b. de vaststelling van de constanten en waarden ten behoeve van de berekening van de relatieve zuinigheid.    
+
 ### Artikel  7  
 
 1.  De leverancier verstrekt jaarlijks vóór 1 oktober aan de RDW de volgende gegevens: 
@@ -119,25 +129,19 @@ b. de groepering van varianten of uitvoeringen van een merk tot modellen nieuwe 
 
 a. hij deze gegevens binnen een maand na toevoeging aan de RDW verstrekt en  
 
-b. de groepering van dat model door toevoeging van die variant of uitvoering aan het model niet zodanig wijzigt, dat het model een hoger officieel brandstofverbruik of een hogere officiële specifieke CO <sub>2</sub> -uitstoot krijgt, of dat het model een zodanig andere relatieve energiezuinigheid, berekend overeenkomstig bijlage 4, krijgt dat het model tot een andere energie-efficiëntieklasse gaat behoren.     
+b. de groepering van dat model door toevoeging van die variant of uitvoering aan het model niet zodanig wijzigt, dat het model een hoger officieel brandstofverbruik of een hogere officiële specifieke CO <sub>2</sub> -uitstoot krijgt, of dat het model een zodanig andere relatieve energiezuinigheid, berekend overeenkomstig de regeling, bedoeld in artikel 6a, krijgt dat het model tot een andere energie-efficiëntieklasse gaat behoren.     
 4.  De benamingen van modellen nieuwe personenauto's als bedoeld in het eerste en tweede lid zijn zodanig dat daaruit de verschillen tussen de diverse modellen kunnen worden opgemaakt.   
 5.  Onder één model worden geen varianten of uitvoeringen gegroepeerd die een verschillende soort brandstof gebruiken.   
 
 ### Artikel  8  
 
-1.  De RDW stelt vanaf 1 januari 2011 iedere twee jaar vóór 1 maart de constanten vast voor de in bijlage 4 opgenomen regressieformules, alsmede de daarbij behorende waarden van de gemiddelde CO <sub>2</sub> -uitstoot voor personenauto’s met benzine als brandstof en voor personenauto’s met diesel als brandstof. Deze waarden en constanten gelden voor de twee kalenderjaren die aanvang vinden na de datum van vaststelling.   
+1.  De RDW stelt vanaf 1 januari 2011 iedere twee jaar vóór 1 maart de constanten vast voor de bij regeling van Onze Minister van Infrastructuur en Milieu vast te stellen regressieformules, alsmede de daarbij behorende waarden van de gemiddelde CO <sub>2</sub> -uitstoot voor personenauto’s met benzine als brandstof en voor personenauto’s met diesel als brandstof. Deze waarden en constanten gelden voor de twee kalenderjaren die aanvang vinden na de datum van vaststelling.   
 2.  De constanten en waarden worden vanaf 1 januari 2011 elke twee jaar vóór 1 maart door de RDW bekend gemaakt in de Staatscourant.   
 
 ### Artikel  9  
 
 1.  Een wijziging van de richtlijnen of van een daarbij behorende bijlage waarnaar in dit besluit wordt verwezen, treedt voor de toepassing van dit besluit in werking met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.   
-2.  Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer doet mededeling van een wijziging van richtlijn 1999/94/EG in de Staatscourant.   
-
-### Artikel  10  
-
-1.  In afwijking van artikel 3, eerste lid, stelt de RDW in 2000 de brandstofverbruiksgids samen vóór 30 december.   
-2.  In afwijking van artikel 7, eerste lid, verstrekt de leverancier de in dat lid bedoelde gegevens in 2000 binnen één maand na de bekendmaking, bedoeld in het derde lid van dit artikel, maar in ieder geval vóór 25 november aan de RDW.   
-3.  In afwijking van artikel 8 stelt de RDW in 2000 de in dat artikel bedoelde constanten en waarden vast vóór 8 november en maakt hij deze voor die datum bekend in de Staatscourant.   
+2.  Onze Minister van Infrastructuur en Milieu doet mededeling van een wijziging van richtlijn 1999/94/EG in de Staatscourant.   
 
 ### Artikel  11  
 
@@ -180,7 +184,7 @@ IV. Officieel brandstofverbruik, uitgedrukt in liters per 100 km, tot één deci
 
 V. Officieel brandstofverbruik, uitgedrukt in «1 liter op km», tot één decimaal nauwkeurig voor benzine, LPG of diesel, of «1 m <sup>3</sup> op km» voor aardgas.  
 
-VI. De energie-efficiëntieklasse op basis van de relatieve energiezuinigheid, bepaald overeenkomstig bijlage 4. Deze klasse wordt vermeld op hetzelfde niveau als de van toepassing zijnde pijl.  
+VI. De energie-efficiëntieklasse op basis van de relatieve energiezuinigheid, bepaald overeenkomstig de regeling, bedoeld in artikel 6a. Deze klasse wordt vermeld op hetzelfde niveau als de van toepassing zijnde pijl.  
 
 VII. Officiële specifieke CO <sub>2</sub> -uitstoot, uitgedrukt in gram per kilometer, afgerond op het dichtstbijzijnde gehele cijfer.  
 
@@ -241,50 +245,3 @@ b. «Naast de brandstofefficiëntie van een auto zijn ook het rijgedrag en ander
 ####bij het Besluit etikettering energiegebruik personenauto's
 
 Reclamemateriaal, bedoeld in artikel 4 van het besluit, voldoet aan de volgende vereisten. 1. De informatie is gemakkelijk leesbaar en valt niet minder op dan het hoofdbestanddeel van de in het reclamemateriaal verstrekte informatie. 2. De informatie is, zelfs bij vluchtige inzage van het materiaal, gemakkelijk te begrijpen. 3. In het reclamemateriaal worden het officiële brandstofverbruik en de officiële specifieke CO <sub>2</sub> -uitstoot opgenomen voor het model waarop het reclamemateriaal betrekking heeft. Indien het reclamemateriaal betrekking heeft op meer dan één model, worden hetzij de gegevens met betrekking tot het officiële brandstofverbruik en de officiële specifieke CO <sub>2</sub> -uitstoot voor alle vermelde modellen opgenomen, hetzij een reeks gegevens variërend van het slechtste tot het beste officiële brandstofverbruik en de slechtste tot de beste officiële specifieke CO <sub>2</sub> -uitstoot. 4. Het officiële brandstofverbruik wordt, tot op één decimaal nauwkeurig, uitgedrukt in kilometer per liter en liters per 100 km liter voor benzine, LPG of diesel, of in m3 per 100 kilometer en kilometers per m <sup>3</sup> voor aardgas. De officiële specifieke CO <sub>2</sub> -uitstoot wordt uitgedrukt in gram per kilometer, afgerond op het dichtstbijzijnde gehele cijfer. 
-
-### Bijlage  4  
-
-####bij het Besluit etikettering energiegebruik personenauto's
-
-### I  
-
-####Bepaling energie-efficiëntieklasse
-
-De energie-efficiëntieklasse van een nieuw model personenauto wordt bepaald aan de hand van de relatieve energiezuinigheid van de personenauto volgens de volgende tabel:  
-
-| Energie-efficiëntieklasse  | Relatieve energiezuinigheid [%]  |
-|:---|:---|
-| A  | relatieve energiezuinigheid < – 20%  |
-| B  | – 20 <= relatieve energiezuinigheid < – 10%  |
-| C  | – 10 <= relatieve energiezuinigheid < 0%  |
-| D  | 0 <= relatieve energiezuinigheid < 10%  |
-| E  | 10 <= relatieve energiezuinigheid < 20%  |
-| F  | 20 <= relatieve energiezuinigheid < 30%  |
-| G  | 30 <= relatieve energiezuinigheid  |
-
-Bij de vaststelling van de energie-efficiëntieklasse wordt de relatieve energiezuinigheid uitgedrukt als een percentage en niet afgerond. Wanneer verscheidene varianten of uitvoeringen onder één model zijn gegroepeerd, is de op te geven energie-efficiëntieklasse van het model gebaseerd op de minst zuinige variant of uitvoering binnen die groep. De relatieve energiezuinigheid wordt berekend volgens de volgende 6 stappen: 
-
-1. Berekening van de gemiddelde lengte met behulp van regressieformule voor de lengte: lengte <sub>gem.</sub> = C <sub>1, lengte</sub> + C <sub>2, lengte</sub> x breedte + C <sub>3, lengte</sub> x [breedte] <sup>2</sup>  
-
-2. Berekening van de gecorrigeerde lengte x breedte: (lengte x breedte) <sub>cor.</sub> = [0,7 x lengte + 0,3 x lengte <sub>gem.</sub> ] x breedte  
-
-3A. Controle van het toepassingsgebied van de regressieformule voor de gemiddelde CO <sub>2</sub> -uitstoot van auto's met benzine als brandstof: Als: (lengte x breedte) <sub>cor.</sub> < –0,5 x C <sub>2, benzine</sub> / C <sub>3, benzine</sub> dan: (lengte x breedte) <sub>cor.</sub> = –0,5 x C <sub>2, benzine</sub> / C <sub>3, benzine</sub>  
-
-3B. Controle van het toepassingsgebied van de regressieformule voor de gemiddelde CO <sub>2</sub> -uitstoot van auto's met diesel als brandstof: Als: (lengte x breedte) <sub>cor.</sub> < -0,5 x C <sub>2, diesel</sub> / C <sub>3, diesel</sub> dan: (lengte x breedte) <sub>cor.</sub> = -0,5 x C <sub>2, diesel</sub> / C <sub>3, diesel</sub>  
-
-4A. Berekening van de gemiddelde CO <sub>2</sub> -uitstoot met behulp van regressieformule voor auto's met benzine als brandstof: CO <sub>2</sub> -uitstoot <sub>gem.</sub> = C <sub>1, benzine</sub> + C <sub>2, benzine</sub> x [(lengte x breedte) <sub>cor.</sub> ] + C <sub>3, benzine</sub> x [(lengte x breedte) <sub>cor.</sub> ] <sup>2</sup>  
-
-4B. Berekening van de gemiddelde CO <sub>2</sub> -uitstoot met behulp van regressieformule voor auto's met diesel als brandstof: CO <sub>2</sub> -uitstoot <sub>gem.</sub> = C <sub>1, diesel</sub> + C <sub>2, diesel</sub> x [(lengte x breedte) <sub>cor.</sub> ] + C <sub>3, diesel</sub> x [(lengte x breedte) <sub>cor.</sub> ] <sup>2</sup>  
-
-5A. Berekening van referentie CO <sub>2</sub> -uitstoot voor etikettering van auto's met benzine als brandstof: CO <sub>2</sub> -uitstoot <sub>ref.</sub> = 0,75 x CO <sub>2</sub> -uitstoot <sub>gem.</sub> + 0,25 x CO <sub>2</sub> -uitstoot <sub>totaal gem. benzine</sub>  
-
-5B. Berekening van referentie CO <sub>2</sub> -uitstoot voor etikettering van auto's met diesel als brandstof: CO <sub>2</sub> -uitstoot <sub>ref.</sub> = 0,75 x CO <sub>2</sub> -uitstoot <sub>gem.</sub> + 0,25 x CO <sub>2</sub> -uitstoot <sub>totaal gem. diesel</sub>  
-
-6. Berekening van de relatieve energiezuinigheid: Relatieve energiezuinigheid = [CO <sub>2</sub> -uitstoot – CO <sub>2</sub> -uitstoot <sub>ref.</sub> ]/ CO <sub>2</sub> -uitstoot <sub>ref.</sub> x 100%   Voor het bepalen van de energie-efficiëntieklasse voor personenauto’s waarvoor de test als bedoeld in Richtlijn 80/1268/EG (mede) met LPG of aardgas als brandstof is uitgevoerd, wordt de CO <sub>2</sub> -uitstoot van de auto met LPG of aardgas als brandstof gehanteerd. Hierbij wordt voor deze auto’s daar waar sprake is van de referentie CO <sub>2</sub> -uitstoot (CO <sub>2</sub> -uitstoot <sub>ref</sub>) uitgegaan van de referentiewaarden voor auto’s met benzine als brandstof. Personenauto's met een achteraf ingebouwde LPG- of aardgas installatie hebben de test van richtlijn 80/1268/EEG met benzine als brandstof ondergaan en worden om deze reden beschouwd als personenauto's met benzine als brandstof. De bij toepassing van de formules in te vullen lengte is de voor de variant waartoe de personenauto behoort, laagste lengtewaarde die is vermeld in de aan het EG-typegoedkeuringscertificaat gehechte bijlage I bij richtlijn 2007/46/EG. Indien de variant waartoe de personenauto behoort uitvoeringen met verschillende wielbases kent, dan wordt per wielbasisversie de laagste lengtewaarde van de desbetreffende uitvoeringen genomen die is vermeld in de aan het EG-typegoedkeuringscertificaat gehechte bijlage I bij richtlijn 2007/46/EG. De lengte is gemeten overeenkomstig richtlijn 92/21/EEG. De bij toepassing van de formules in te vullen breedte is de voor de variant waartoe de personenauto behoort, laagste breedtewaarde die is vermeld in de, aan het EG-typegoedkeuringscertificaat gehechte, bijlage I bij richtlijn 2007/46/EG. De breedte is gemeten overeenkomstig richtlijn 92/21/EEG. De waarden voor de lengte en de breedte worden in meters, met een nauwkeurigheid van drie cijfers achter de komma ingevuld. De waarde voor de specifieke CO <sub>2</sub> -uitstoot wordt in gram/km, afgerond op het dichtstbijzijnde gehele cijfer ingevuld.  
-
-### II  
-
-####Vaststelling constanten en waarden ten behoeve van de berekening
-
-De constanten C <sub>1, lengte</sub>, C <sub>2, lengte</sub>, C <sub>3, lengte</sub>, C <sub>1, benzine</sub>, C <sub>2, benzine</sub>, C <sub>3, benzine</sub>, C <sub>1, diesel</sub>, C <sub>2, diesel</sub>, C <sub>3, diesel</sub> worden berekend met behulp van de zogenoemde kleinste-kwadraten-methode. Hierbij wordt het aantal verkochte auto’s van elke uitvoering in rekening gebracht. Varianten van voertuigtypen met een lengte x breedte groter dan 11 m <sup>2</sup> worden bij de berekening van deze constanten buiten beschouwing gelaten. De waarden CO <sub>2</sub> -uitstoot <sub>totaal gem. benzine</sub> en CO <sub>2</sub> -uitstoot <sub>totaal gem. diesel</sub> hebben betrekking op de gemiddelde CO <sub>2</sub> -uitstoot van nieuwe benzine- en dieselpersonenauto’s bij een voertuiggrootte behorend bij de gemiddelde CO <sub>2</sub> -uitstoot van alle auto’s. De waarden CO <sub>2</sub> -uitstoot totaal gem. benzine en CO <sub>2</sub> -uitstoot totaal gem. diesel worden bepaald met behulp van de formules van stap 4 uit onderdeel I van deze bijlage. De voertuiggrootte behorend bij de gemiddelde CO <sub>2</sub> -uitstoot van alle auto’s wordt gevonden in de vorm van de gecorrigeerde lengte x breedte waarde, waarbij het gewogen gemiddelde van de met behulp van de formules van stap 4 gevonden gemiddelde CO <sub>2</sub> -waarden voor benzineauto's resp. dieselauto's gelijk is aan de gemiddelde CO <sub>2</sub> -uitstoot van alle verkochte nieuwe personenauto’s. De constanten en waarden worden berekend op basis van de gegevens omtrent CO <sub>2</sub> -uitstoot, de lengte, de breedte en de aantallen nieuwe personenauto’s, die zijn verkocht in het kalenderjaar voorafgaand aan het kalenderjaar, waarin de constanten en waarden worden vastgesteld.  
-

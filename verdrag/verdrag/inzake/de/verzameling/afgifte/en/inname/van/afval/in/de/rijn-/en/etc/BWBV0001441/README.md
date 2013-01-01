@@ -264,7 +264,7 @@ Vaarwegen als bedoeld in artikel 2
 
 ###Duitsland:
 
-Alle voor het openbaar verkeer openstaande binnenvaarwegen. 
+Alle voor het openbaar verkeer openstaande binnenvaarwegen, met uitzondering van het Duitse gedeelte van het Bodenmeer en het gedeelte van de Rijn boven Rheinfelden. 
 ###België:
 
 Alle voor de binnenvaart openstaande wateren. 
@@ -449,11 +449,11 @@ e) de financiële consequenties van de in artikel 6, eerste lid, vijfde zin, van
 
 ####Procedure van ﬁnanciële verevening
 
-1.  De ﬁnanciële verevening ingevolge de artikelen 4.02 en 4.03 wordt voor elk nationale instituut als volgt berekend:   ![10000054116](http://wetten.overheid.nl/Illustration/10000054116)
+1.  De ﬁnanciële verevening ingevolge de artikelen 4.02 en 4.03 wordt voor elk nationale instituut als volgt berekend:   ![]()
 waarbij verstaan moet worden onder  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Cn  | =  | vereveningsbedrag voor een nationaal instituut N;  positief: het instituut heeft recht op een vereveningsbetaling;  negatief: het instituut is verplicht tot het doen van een vereveningsbetaling  |
 | X <sub>n</sub>  | =  | door een nationaal instituut N geïnde verwijderingsbijdragen ingevolge artikel 4.02, eerste lid.  |
 | Z <sub>n</sub>  | =  | daadwerkelijke inname- en verwijderingskosten van een nationaal instituut N ingevolge artikel 4.02, eerste lid.  |
@@ -559,6 +559,22 @@ b) indien het vloeibare lading betreft:
 4.  Het schip mag na het lossen de reis pas voortzetten, nadat de schipper in de losverklaring heeft bevestigd dat restlading alsmede overslagresten zijn overgenomen.   
 5.  Het vierde lid is niet van toepassing op schepen die eenheidstransporten uitvoeren.   
 6.  Indien laadruimen of ladingtanks gewassen worden en indien het waswater ingevolge de losstandaarden en de afgifte- en innamevoorschriften ingevolge Aanhangsel III niet in het water mag worden geloosd, mag het schip de reis pas voortzetten nadat de schipper in de losverklaring heeft bevestigd dat dit waswater overgenomen is dan wel dat hem een ontvangstinrichting is aangewezen.   
+7.  Het eerste en vierde lid zijn niet van toepassing op schepen die, gezien hun type en bouwwijze, geschikt zijn en gebruikt worden voor: 
+
+a) het vervoer van containers,  
+
+b) het vervoer van verrijdbare lading (Ro-Ro), stukgoed, bijzonder- of zwaar transport, of grote apparaten,  
+
+c) de levering van brandstoffen, drinkwater en boordvoorraden aan zee- en binnenschepen (bevoorradingsschepen),  
+
+d) de verzameling van olie- en vethoudend afval van zee- en binnenschepen,  
+
+e) het vervoer van vloeibare gassen (ADN, type G),  
+
+f) het vervoer van zwavel in vloeibare toestand (bij 180°C), cementpoeder, vliegas, en daarmee vergelijkbare goederen die als stortgoed of als verpompbare lading worden vervoerd en waarbij gebruik wordt gemaakt van een systeem voor het laden, lossen en opslaan aan boord dat uitsluitend voor de betreffende goederensoort geëigend is;  
+
+g) het vervoer van zand, grint of baggerspecie vanaf de baggerput of winlocatie naar een loslocatie, voor zover het betreffende schip uitsluitend gebouwd en ingericht is voor dit vervoer,   en voor zover het betreffende schip de genoemde goederen of ladingen ook daadwerkelijk uitsluitend vervoert of als laatste lading heeft vervoerd. Deze bepaling vindt geen toepassing wanneer het schip meerdere soorten lading tegelijkertijd vervoert. In individuele gevallen kan de bevoegde autoriteit in vergelijkbare omstandigheden een schip in het kader van het uitvoeren van specifiek vervoer ontheffen van de toepassing van het eerste en vierde lid. Het bewijs van deze ontheffing dient aan boord aanwezig te zijn.   
+8.  Het eerste en vierde lid zijn eveneens niet van toepassing in het geval van een lossing van de lading in een zeeschip. De schipper dient de hier bedoelde lossing te kunnen staven met desbetreffende vervoersdocumenten en moet deze op verzoek aan toezichthoudende autoriteiten tonen.   
 
 ### HOOFDSTUK  VII  
 
@@ -728,8 +744,8 @@ De Verdragsluitende Staten kunnen voor schepen als bedoeld in artikel 9.01, derd
 
 Model voor het olie-afgifteboekje  
 
-*Olie-afgifteboekje*  Bladzijde 1   ![10000053077](http://wetten.overheid.nl/Illustration/10000053077)
-*Afgifte van het olie-afgifteboekje*  Het eerste olie-afgifteboekje, daartoe op bladzijde 1 voorzien van het volgnummer 1, wordt slechts afgegeven door de autoriteit die het scheepsattest heeft afgegeven. Deze autoriteit vult tevens de gegevens op bladzijde 1 in. Alle volgende olie-afgifteboekjes worden door een plaatselijke bevoegde autoriteit uitgegeven nadat deze daarop het aansluitende volgnummer heeft aangebracht. Ieder volgend olie-afgifteboekje mag echter slechts na overlegging van het vorige boekje worden afgegeven. Het vorige boekje wordt, nadat het op onuitwisbare wijze is voorzien van een aanduiding „ongeldig”, aan de schipper teruggegeven. Het moet na de laatste vermelding van een afgifte gedurende zes maanden aan boord worden bewaard. Bladzijde 2  *en volgende*    ![10000053077](http://wetten.overheid.nl/Illustration/10000053077)
+*Olie-afgifteboekje*  Bladzijde 1   ![]()
+*Afgifte van het olie-afgifteboekje*  Het eerste olie-afgifteboekje, daartoe op bladzijde 1 voorzien van het volgnummer 1, wordt slechts afgegeven door de autoriteit die het scheepsattest heeft afgegeven. Deze autoriteit vult tevens de gegevens op bladzijde 1 in. Alle volgende olie-afgifteboekjes worden door een plaatselijke bevoegde autoriteit uitgegeven nadat deze daarop het aansluitende volgnummer heeft aangebracht. Ieder volgend olie-afgifteboekje mag echter slechts na overlegging van het vorige boekje worden afgegeven. Het vorige boekje wordt, nadat het op onuitwisbare wijze is voorzien van een aanduiding „ongeldig”, aan de schipper teruggegeven. Het moet na de laatste vermelding van een afgifte gedurende zes maanden aan boord worden bewaard. Bladzijde 2  *en volgende*    ![]()
 
 ### Aanhangsel  II  
 
@@ -761,7 +777,7 @@ b. 15 liter per leidingsysteem.       De als uitkomst van de beproeving van het 
 
 Inrichting voor de afgifte van resthoeveelheden  
 
-![10000053079](http://wetten.overheid.nl/Illustration/10000053079)
+![]()
 
 1. Aansluiting voor de afgifte van resthoeveelheden. Aansluiting conform CEFIC.  
 
@@ -821,7 +837,7 @@ c) het op de volgende plaatsen verzamelen van waterrestanten:
 
 Verklaring inzake de beproeving van het nalenssysteem  
 
-![10000053079](http://wetten.overheid.nl/Illustration/10000053079)
+![]()
 
 ### Aanhangsel  III  
 
@@ -869,7 +885,7 @@ d) Regenwater en ballastwater uit wasschone laadruimen en ladingtanks mag in het
 e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakken bijv. luiken, dekken enz. mag in het water geloosd worden.    
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *0*   |  *LAND -EN BOSBOUWPRODUCTEN EN SOORTGELIJKE PRODUCTEN (inclusief levende dieren)*   | --- | --- | --- | --- |
 |  *00*   |  *LEVENDE DIEREN*   | --- | --- | --- | --- |
 |  *001*   |  *Levende dieren (excl. vissen)*   | --- | --- | --- | --- |
@@ -915,7 +931,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *049*   |  *Lompen en afval van textiel*   | --- | --- | --- | --- |
 | 0490  | Lompen, poetskatoen, textielafval  |  *A*   |  *A*   | --- | --- |
 | --- | --- | --- | --- | --- | --- |
@@ -954,7 +970,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 1) gegarandeerd onbehandeld  2) voor onbehandeld hout: A  voor behandeld (geïmpregneerd) hout: B  | 3) voor gebeitst zaad: S  13) plantaardig: A  dierlijk: B  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *1*   |  *ANDERE LEVENSMIDDELEN EN VOEDERMIDDELEN*   | --- | --- | --- | --- |
 |  *11*   |  *SUIKER*   | --- | --- | --- | --- |
 |  *111*   |  *Ongeraffineerde suiker*   | --- | --- | --- | --- |
@@ -998,7 +1014,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *14*   |  *VLEES, VIS, VLEES- EN VISWAREN, EIEREN, MELK EN MELKPRODUCTEN, SPIJSVETTEN*   | --- | --- | --- | --- |
 |  *141*   |  *Vlees, vers of bevroren*   | --- | --- | --- | --- |
 | 1410  | Vlees, vers of bevroren  |  *A*   |  *A*   | --- | --- |
@@ -1038,7 +1054,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *166*   |  *Gedroogde groenten, groenteconserven en andere groenteproducten*   | --- | --- | --- | --- |
 | 1661  | Groenten, gedroogd, groenteconserven, groentesappen  |  *A*   |  *A*   | --- | --- |
 | 1662  | Groenteproducten, niet nader gespecificeerd, zoals bijv. aardappelmeel, sago, tapiocameel  |  *B*   |  *A*   | --- | --- |
@@ -1072,7 +1088,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 14) Meel: B  16) Afval: S  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *2*   |  *VASTE MINERALE BRANDSTOFFEN*   | --- | --- | --- | --- |
 |  *21*   |  *STEENKOOL EN STEENKOOLBRIKETTEN*   | --- | --- | --- | --- |
 |  *211*   |  *Steenkool*   | --- | --- | --- | --- |
@@ -1100,7 +1116,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 4) S: sproeien over opslag op de wal  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *3*   |  *AARDOLIE, MINERALE OLIE, -PRODUCTEN, GASSEN*   | --- | --- | --- | --- |
 |  *31*   |  *RUWE AARDOLIE, MINERALE OLIE*   | --- | --- | --- | --- |
 |  *310*   |  *Ruwe aardolie, minerale olie*   | --- | --- | --- | --- |
@@ -1137,7 +1153,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 4) S: sproeien over opslag op de wal  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *4*   |  *ERTSEN EN METAALAFVAL*   | --- | --- | --- | --- |
 |  *41*   |  *IJZERERTS (uitgezonderd geroost ijzerkies)*   | --- | --- | --- | --- |
 |  *410*   |  *IJzererts en -concentraten (uitgezonderd geroost ijzerkies)*   | --- | --- | --- | --- |
@@ -1172,7 +1188,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 4) S: sproeien over opslag op de wal  5) S: voor in wateroplosbare metaalzouten  15) bij afval en schroot: A, overig B  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *46*   |  *IJZER- EN STAALAFVAL EN -SCHROOT, GEROOST IJZERKIES*   | --- | --- | --- | --- |
 |  *462*   |  *IJzer- en staalschroot voor herverwerking*   | --- | --- | --- | --- |
 | 4621  | Afval, vijlsel, schroot, voor herverwerking bijv. van ijzer- en staalplaten/blikken, largets, vormstaal  |  *–*   |  *–*   |  *S*   |  *4)*   |
@@ -1194,7 +1210,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 4) S: sproeien over opslag op de wal  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *5*   |  *IJZER, STAAL EN NON-FERROMETALEN (inclusief halffabrikaten)*   | --- | --- | --- | --- |
 |  *51*   |  *GIETIJZER, METAALLEGERINGEN, RUWSTAAL*   | --- | --- | --- | --- |
 |  *512*   |  *Gietijzer, spiegelijzer en koolstofrijk ferromangaan*   | --- | --- | --- | --- |
@@ -1232,7 +1248,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 6) indien met minerale olie besmeurd: S  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *54*   |  *STAALPLAAT, BLIK EN BLIKBAND, BANDSTAAL, OOK VOORZIEN VAN OPPERVLAKTELAGEN*   | --- | --- | --- | --- |
 |  *541*   |  *Staalplaat en breedplaatstaal*   | --- | --- | --- | --- |
 | 5411  | Breedplaatstaal  |  *A*   |  *A*   | --- | --- |
@@ -1266,7 +1282,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 6) indien met minerale olie besmeurd: S  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *568*   |  *Non-ferro-metaalhalffabrikaten*   | --- | --- | --- | --- |
 | 5681  | Banden, blikken, platen, stroken van non-ferrometalen en van de legeringen daarvan  |  *A*   |  *A*   |  *S*   |  *6)*   |
 | 5682  | Draad van non-ferrometalen en van de legeringen daarvan  |  *A*   |  *A*   |  *S*   |  *6)*   |
@@ -1276,7 +1292,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 6) indien met minerale olie besmeurd: S  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *6*   |  *STENEN EN GRONDSOORTEN (inclusief bouwstoffen)*   | --- | --- | --- | --- |
 |  *61*   |  *ZAND, GRIND, PUIM, KLEI, SLAKKEN*   | --- | --- | --- | --- |
 |  *611*   |  *Industriezand*   | --- | --- | --- | --- |
@@ -1311,7 +1327,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 4) S: Sproeien over opslag op de wal  6) indien met minerale olie besmeurd: S  7) indien gedenatuurd: S  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *63*   |  *OVERIGE STENEN, GRONDSOORTEN EN AANVERWANTE RUWE MATERIALEN*   | --- | --- | --- | --- |
 |  *631*   |  *Zwerfsteen, steenslag en andere kleingemaakte stenen*   | --- | --- | --- | --- |
 | 6311  | Veldstenen, zwerfstenen, lavaslakken, steenslag, stenen, steenblokken, ruw, uit steengroeven  |  *A*   |  *–*   | --- | --- |
@@ -1349,7 +1365,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 4) S: sproeien over opslag op de wal  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *65*   |  *GIPS*   | --- | --- | --- | --- |
 |  *650*   |  *Gips*   | --- | --- | --- | --- |
 | 6501  | Gips, gebrand  |  *A*   |  *–*   | --- | --- |
@@ -1375,7 +1391,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 9) i.p.v. asbest: vezelcement  10) voor houtgranietmassa: B, voor alle overigen: A  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *7*   |  *MESTSTOFFEN*   | --- | --- | --- | --- |
 |  *71*   |  *NATUURLIJKE MESTSTOFFEN*   | --- | --- | --- | --- |
 |  *711*   |  *Natuurlijk natronsalpeter*   | --- | --- | --- | --- |
@@ -1412,7 +1428,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 11) Indien vacuümschoon niet mogelijk, dan S  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *8*   |  *CHEMISCHE PRODUCTEN*   | --- | --- | --- | --- |
 |  *81*   |  *CHEMISCHE GRONDSTOFFEN (uitgezonderd*   | --- | --- | --- | --- |
 | --- |  *aluminiumoxide en -hydroxide)*   | --- | --- | --- | --- |
@@ -1436,7 +1452,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 8) vast: B  loog: A  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *82*   |  *ALUMINIUMOXIDE EN -HYDROXIDE*   | --- | --- | --- | --- |
 | 820  |  *Aluminiumoxide en -hydroxide*   | --- | --- | --- | --- |
 | 8201  | Aluminiumoxide  |  *B*   |  *–*   | --- | --- |
@@ -1475,7 +1491,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 4) S: sproeien over opslag op de wal  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *893*   |  *Farmaceutische producten, etherische oliën, reinigings- en lichaamsverzorgingsmiddelen*   | --- | --- | --- | --- |
 | 8930  | Apothekerproducten (geneesmiddelen), cosmetische en farmaceutische producten, reinigingsmiddelen, zeep, wasmiddelen, waspoeder  |  *–*   |  *A*   |  *S*   |  *17)*   |
 | --- | --- | --- | --- | --- | --- |
@@ -1493,7 +1509,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 17) indien geneesmiddelen: S  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *9*   |  *VOERTUIGEN, MACHINES, ANDERE HALF- EN EINDPRODUCTEN, BIJZONDERE TRANSPORTGOEDEREN*   | --- | --- | --- |  *12)*   |
 |  *91*   |  *VOER- EN VAARTUIGEN*   | --- | --- | --- | --- |
 |  *910*   |  *Voer- en vaartuigen*   | --- | --- | --- | --- |
@@ -1523,7 +1539,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 12) bij stukgoed zie inleidende opmerking onder c)  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *94*   |  *METAALPRODUCTEN*   | --- | --- | --- | --- |
 |  *941*   |  *Systeembouwonderdelen en bouwconstructies van metaal*   | --- | --- | --- | --- |
 | 9411  | Barakken, schuren, tribunes van metaal, venster, -delen, palen, poorten, poortkozijnen, deuren, deurkozijnen, van metaal  |  *–*   |  *–*   | --- | --- |
@@ -1557,7 +1573,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *97*   |  *ANDERE HALF- EN EINDPRODUCTEN*   | --- | --- | --- | --- |
 |  *971*   |  *Rubberwaren*   | --- | --- | --- | --- |
 | 9710  | Vloerbedekking, rubberbanden, guttapercha, bewerkt, buizen, schuimrubber  |  *–*   |  *–*   | --- | --- |
@@ -1594,45 +1610,130 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 
 ### Aanhangsel  IV  
 
-####De Uitvoeringsregeling
+####behorende bij de Uitvoeringsregeling
 
-*Model*   
+– Model –  
 
-###Losverklaring
+*(Versie 2010)*   *Losverklaring*  
+###Ladingontvanger/overslaginstallatie
 
-![10000053104](http://wetten.overheid.nl/Illustration/10000053104)
-![10000053104](http://wetten.overheid.nl/Illustration/10000053104)
+| --- | --- | --- | --- |
+|---|---|---|---|
+| --- |
+| ......  | --- | --- |
+| ......  | --- | --- |
+| ......  | --- | --- |
+| (Naam/onderneming, adres)  | --- | --- |
+| --- | --- | --- | --- |
+| 1.  | Wij hebben van het schip  | ......  | ......  |
+| --- | --- | (naam)  | (ENI)  |
+| --- | Laadruim/ladingtank nr. .......  | --- |
+| --- | --- | --- | --- |
+| 2.  | ...... □ kg of  | □ l ...... gelost.  | --- |
+| --- | (hoeveelheid)  | (goederensoort en -nummer volgens Aanhangsel III van de Uitvoeringsregeling)  |
+| --- | --- | --- | --- |
+| 3.  | Aangemeld op  | ......  | ......  |
+| --- | --- | (datum)  | (tijdstip)  |
+| --- | --- | --- | --- |
+| 4.  | Begin van het lossen  | ......  | ......  |
+| --- | --- | (datum)  | (tijdstip)  |
+| --- | --- | --- | --- |
+| 5.  | Einde van het lossen  | ......  | ......  |
+| --- | --- | (datum)  | (tijdstip)  |
+| De laadruimen/ladingtanks nr. ...... zijn  |
+| 6.a.  | □ niet ontdaan van restlading; schipper verklaart eenheidstransporten uit te voeren;  |
+| 6.b.  | □ niet ontdaan van vloeibare restlading, overeenkomstig de overgangsbepalingen zoals voorzien in artikel 6.02, (paragraaf 1. b) van Deel B van bijlage 2;  |
+| 7.  | □ ontdaan van restlading.  |
+| De laadruimen/ladingtanks nr. ...... zijn  |
+| 8.  | □ bezemschoon/nagelensd opgeleverd (standaard A volgens Aanhangsel III van de Uitvoeringsregeling);  |
+| 9.  | □ vacuümschoon opgeleverd (standaard B volgens Aanhangsel III van de Uitvoeringsregeling);  |
+| 10.  | □ wasschoon opgeleverd;  |
+| 11.  | □ ...... m <sup>3</sup> waswater en/of ...... l slops zijn overgenomen;  |
+| 12.  | □ ontdaan van overslagrestanten.  |
+| --- | --- |
+| Het waswater/ballastwater/regenwater van de aangegeven laadruimen/ladingtanks  |
+| 13.  | □ kan in het water worden geloosd op voorwaarde dat aan de bepalingen van Aanhangsel III van de Uitvoeringsregeling wordt voldaan;  |
+| 14.  | □ is overgenomen;  |
+| 15.  | □ moet bij de ontvangstinrichting ...... (Naam/onderneming) afgegeven worden, die door ons daartoe is aangewezen;  |
+| 16.  | □ moet volgens de vervoersovereenkomst worden afgegeven.  |
+| 17.  | ......  | ......  | ......  |
+| --- | (Plaats)  | (Datum)  | (Stempel/naam in blokletters en ondertekening)  |
+
+###Bevestiging door de schipper
+
+| --- | --- | --- | --- | --- |
+|---|---|---|---|---|
+| 18.  | □ De vermeldingen onder de nummers 1 tot en met 16 worden bevestigd.  |
+| 19.  | □ De ladingtanks zijn nagelensd (standaard A volgens Aanhangsel III van de Uitvoeringsregeling) en de restlading is opgeslagen in de  |
+| --- | a)  | □ resttank: ......l  | --- |
+| --- | b)  | □ IBC: .......l  | --- |
+| --- | c)  | □ mobiele tank: ......l  | --- |
+| 20.  | Opmerkingen: ......  |
+| --- | ......  |
+| 21.  | ......  | ......  |
+| --- | (Datum)  | (Naam schipper in blokletters en ondertekening)  |
+|  *Ontvangstinrichting*   | --- | --- |
+| ......  | --- | --- |
+| ......  | --- | --- |
+| ......  | --- | --- |
+| (Naam/firma, adres)  | --- | --- |
+
+###Bevestiging van afgifte
+
+(slechts noodzakelijk indien nr. 15 of 16 werden aangekruist)  
+
+| --- | --- | --- | --- | --- |
+|---|---|---|---|---|
+| 22.  | □ De afgifte van ladingrestanten van de goederensoort en goederennummer zoals bedoeld onder nummer 2 wordt bevestigd:  |
+| --- | a)  | □ waswater: ...... m <sup>3</sup>  | code: ...... <sup>*)</sup>  | --- |
+| --- | b)  | □ ballastwater: ...... m <sup>3</sup>  | code: ...... <sup>*)</sup>  | --- |
+| --- | c)  | □ regenwater: ...... m <sup>3</sup>  | code: ...... <sup>*)</sup>  | --- |
+| --- | d)  | □ slops: □....... kg of □ ......l  | --- |
+| --- | e)  | □ restlading volgens nummer 19  | --- |
+| 23.  | Opmerkingen: ......  | --- |
+| ......  | --- |
+| 24.  | □ Als bewijs voor de afgifte is een aparte verklaring aan de schipper uitgereikt.  |
+| 25.  | ......  | ......  | ......  |
+| --- | (Plaats)  | (Datum)  | (Stempel/naam in blokletters en ondertekening)  |
+
+□ Aankruisen wat van toepassing is. <sup>*)</sup> Gelieve de code in te vullen van de afvalstoffen overeenkomstig de geldende regelgeving van Richtlijn 2006/1013/EG.   
 
 ### Aanhangsel  V  
 
 ####behorende bij de Uitvoeringsregeling
 
-Grens- en controlewaarden voor zuiveringsinstallaties aan boord van passagiersschepen  
+*(Versie 2010)*   
 
-Zuiveringsinstallaties aan boord van passagiersschepen moeten ten minste aan de volgende eisen voldoen: 
+###Grens- en controlewaarden voor zuiveringsinstallaties aan boord van passagiersschepen
 
-1. Bij de typekeuring moet aan de volgende grenswaarden worden voldaan:  
+1. Boordzuiveringsinstallaties moeten bij de typekeuring aan de volgende grenswaarden voldoen: Tabel 1: Grenswaarden bij de afvoer van boordzuiveringsinstallatie (testinstallatie) waar tijdens de typekeuring aan moet worden voldaan  
 
-| parameter  | concentratie  | proef  |
-|:---|:---|:---|
-| biochemisch zuurstofverbruik (BZV <sub>5</sub>)  | 25 mg/l  | 24-uurs mengproef, gehomogeniseerd  |
-| --- | --- | --- |
-| ISO N5815 van 1981  | 40 mg/l  | Steekproef, gehomogeniseerd  |
-| chemisch zuurstofverbruik (CZV)  | 125 mg/l  | 24-uurs mengproef, gehomogeniseerd  |
-| --- | --- | --- |
-| ISO N6060 van 1986  | 180 mg/l  | steekproef, gehomogeniseerd  |
+| Parameter  | Zuurstofconcentratie  | Bemonstering  | Fase I  | Fase II vanaf 1.1.2011  |
+|---|---|---|---|---|
+| Biochemische zuurstofbehoefde (BZB <sub>5</sub>)  | 25 mg/l  | 20 mg/l  | 24u-mengmonster, gehomogeniseerd  |
+| ISO 5815-1 en 5815-2 (2003) <sup>1)</sup>  | 40 mg/l  | 25 mg/l  | Steekproef, gehomogeniseerd  |
+| Chemische zuurstofbehoefte (CZB) <sup>2)</sup>  | 125 mg/l  | 100 mg/l  | 24u-mengmonster, gehomogeniseerd  |
+| ISO 6060 (1989) <sup>1)</sup>  | 180 mg/l  | 125 mg/l  | Steekproef, gehomogeniseerd  |
+| Totaal organisch gebonden koolstof (TOC)  | ---  | 35 mg/l  | 24u-mengmonster, gehomogeniseerd  |
+| EN 1484 (1997) <sup>1)</sup>  | ---  | 45 mg/l  | Steekproef, gehomogeniseerd  |
 
-De Verdragsluitende Staten kunnen gelijkwaardige methodes gebruiken.   
+<sup>1)</sup> De Verdragsluitende Staten kunnen gelijkwaardige procedés voorzien.  
 
-2. Bij in gebruik zijnde installaties moet aan de volgende controlewaarden worden voldaan:  
+<sup>2)</sup> In plaats van de chemische zuurstofbehoefte (CZB) kan voor de typekeuring ook van het totaal organisch gebonden koolstof (TOC) worden uitgegaan.    
 
-| parameter  | concentratie  | proef  |
-|:---|:---|:---|
-| biochemisch zuurstofverbruik (BZV <sub>5</sub>)  ISO N5815 van 1981  | 40 mg/l  | steekproef, gehomogeniseerd  |
-| chemisch zuurstofverbruik (CZV)  ISO N6060 van 1986  | 180 mg/l  | steekproef, gehomogeniseerd  |
+2. Bij gebruik moet aan de volgende controlewaarden worden voldaan: Tabel 2: Grenswaarden bij de afvoer van de boordzuiveringsinstallatie tijdens gebruik aan boord van passagiersschepen  
 
-De Verdragsluitende Staten kunnen gelijkwaardige methodes gebruiken. Bij de steekproef moet voldaan worden aan de waarde.  
+| Parameter  | Zuurstofconcentratie  | Bemonstering  | Fase I  | Fase II vanaf 1.1.2011  |
+|---|---|---|---|---|
+| Biochemische zuurstofbehoefte (BZB <sub>5</sub>)  | 40 mg/l  | 25 mg/l  | Steekproef, gehomogeniseerd  |
+| ISO 5815-1 en 5815-2 (2003) <sup>1)</sup>  | --- | --- | --- |
+| Chemische zuurstofbehoefte (CZB) <sup>2)</sup>  | 180 mg/l  | 125 mg/l  | Steekproef, gehomogeniseerd  |
+| ISO 6060 (1989) <sup>1)</sup>  | ---  | 150 mg/l  | Steekproef  |
+| Totaal organisch gebonden koolstof (TOC)  | ---  | 45 mg/l  | Steekproef, gehomogeniseerd  |
+| EN 1484 (1997) <sup>1)</sup>  |
 
-3. Mechanisch-chemische methodes waarbij gebruik wordt gemaakt van chloorhoudende middelen zijn niet toegestaan.  
+<sup>1)</sup> De Verdragsluitende Staten kunnen gelijkwaardige procedés voorzien.  
 
-4. Voor de opslag en het koelen van het zuiveringsslib dienen toereikende voorzorgsmaatregelen te worden getroffen.     
+<sup>2)</sup> In plaats van de chemische zuurstofbehoefte (CZB) kan voor de typekeuring ook van het totaal organisch gebonden koolstof (TOC) worden uitgegaan.   De steekproef moet aan de desbetreffende waarde voldoen. De bevoegde instanties moeten met onregelmatige tussenpozen steekproeven nemen.  
+
+3. Procedés die gebruikmaken van chloorhoudende stoffen zijn niet toegestaan. Het is evenmin toegelaten, het huishoudelijk afvalwater te verdunnen om de specifieke belasting te verminderen en daardoor lozing mogelijk te maken.     

@@ -56,9 +56,9 @@ q. sectorwerkgever:
 
 3°. van het personeel dat werkzaam is in de sector Onderwijs en Wetenschappen: Onze Minister van Onderwijs, Cultuur en Wetenschappen;  
 
-4°. van het personeel dat werkzaam is in de sector Politie: Onze Minister;  
+4°. van het personeel dat werkzaam is in de sector Politie: Onze Minister van Veiligheid en Justitie;  
 
-5°. van het personeel dat werkzaam is in de sector Rechterlijke Macht: Onze Minister van Justitie;  
+5°. van het personeel dat werkzaam is in de sector Rechterlijke Macht: Onze Minister van Veiligheid en Justitie;  
 
 6°. van het personeel dat werkzaam is in de sector Gemeenten: de Vereniging van Nederlandse Gemeenten;  
 

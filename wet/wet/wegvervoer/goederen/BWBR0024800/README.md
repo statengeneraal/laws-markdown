@@ -302,6 +302,7 @@ g. ondersteuning van onderhandelingen in het kader van verdragen over goederenve
 
 h. het beheer van gegevensbestanden en de verstrekking van gegevens uit die bestanden, uit hoofde van haar publieke taken.     
 2.  Bij regeling van Onze Minister kan de NIWO belast worden met andere taken ten aanzien van het goederenvervoer.   
+3.  Op de NIWO is de [Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing.   
 
 ### Artikel  4.2  
 
@@ -326,9 +327,7 @@ b. twee onafhankelijke leden die worden benoemd door Onze Minister.
 1.  De NIWO brengt geen wijziging aan in haar statuten of neemt geen besluit tot opheffing dan na instemming door Onze Minister.   
 2.  De NIWO maakt jaarlijks een begroting van baten en lasten op, die de instemming van Onze Minister behoeft.   
 3.  De [artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing op het eerste en tweede lid.   
-4.  De NIWO brengt jaarlijks aan Onze Minister voor 1 juli een financieel verslag uit over het voorafgaande kalenderjaar dat vergezeld gaat van een verklaring omtrent de getrouwheid en rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
-5.  De NIWO brengt jaarlijks aan Onze Minister voor 1 juli een verslag uit over de uitvoering van haar taken in het voorafgaande kalenderjaar en maakt dit gelijktijdig openbaar.   
-6.  De NIWO vermeldt in het jaarverslag in ieder geval: 
+4.  De NIWO vermeldt in het jaarverslag in ieder geval: 
 
 a. het aantal houders van een communautaire vergunning, van een CEMT-vergunning of van een vergunning als bedoeld in artikel 7.1, eerste lid op de eerste dag van het kalenderjaar en op de laatste dag van het voorafgaande kalenderjaar;  
 
@@ -344,9 +343,6 @@ e. het aantal vergunningen als bedoeld in artikel 7.1, eerste lid, dat in het vo
 
 1.  Onze Minister kan aan de NIWO aanwijzingen van algemene aard geven met betrekking tot de uitvoering van de in artikel 4.1, bedoelde taken.   
 2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld over de uitoefening van het toezicht op de NIWO.   
-3.  De NIWO verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voorzover dat voor de vervulling van zijn taak redelijkerwijs nodig is.   
-4.  Indien de NIWO naar het oordeel van Onze Minister haar taken ernstig verwaarloost of in gevaar brengt, kan Onze Minister, gehoord de NIWO, de noodzakelijke voorzieningen treffen.   
-5.  Onze Minister zendt binnen vier jaar na de inwerkingtreding van deze wet en vervolgens telkens na vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid en doelmatigheid van het functioneren van de NIWO, waarbij in ieder geval aan de orde komen de rechtsvorm van de NIWO en het arbeidsvoorwaardenregime. De NIWO is gehouden aan deze evaluatie medewerking te verlenen.   
 
 ### Artikel  4.6  
 
@@ -361,9 +357,7 @@ c. is de houder van een vergunning als bedoeld in artikel 7.1, eerste lid, jaarl
 3.  De tarieven voor de vergoedingen, bedoeld in het eerste lid, onderdeel a, worden zodanig vastgesteld dat de begrote baten van die vergoedingen niet uitgaan boven de begrote kosten ter zake van de behandeling van de in het eerste lid bedoelde aanvragen.   
 4.  De tarieven voor de vergoedingen, bedoeld in het eerste lid, onderdelen b en c, worden zodanig vastgesteld dat de begrote baten van die vergoedingen niet uitgaan boven de begrote lasten van de taken, bedoeld in artikel 4.1, anders dan de behandeling van aanvragen.   
 5.  Onder de in het vierde lid bedoelde lasten wordt mede verstaan de bijdragen aan reserves van de NIWO.   
-6.  De besluiten tot vaststelling van de tarieven van de vergoedingen, bedoeld in het eerste lid, zijn onderworpen aan goedkeuring van Onze Minister.   
-7.  Onze Minister kan zijn goedkeuring onthouden aan de vastgestelde tarieven indien ze naar zijn oordeel tot te hoge reserves zouden leiden.   
-8.  De NIWO maakt de besluiten tot vaststelling van de tarieven van de vergoedingen, bedoeld in het eerste lid, bekend in de Staatscourant met vermelding van de dagtekening van het besluit van Onze Minister waarbij de goedkeuring is verleend of met vermelding van de omstandigheid dat ingevolge [artikel 10:31, vierde lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), een besluit tot goedkeuring wordt geacht te zijn genomen.   
+6.  De NIWO maakt de besluiten tot vaststelling van de tarieven van de vergoedingen, bedoeld in het eerste lid, bekend in de Staatscourant met vermelding van de dagtekening van het besluit van Onze Minister waarbij de goedkeuring is verleend of met vermelding van de omstandigheid dat ingevolge [artikel 10:31, vierde lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), een besluit tot goedkeuring wordt geacht te zijn genomen.   
 
 ### Hoofdstuk  5  
 
@@ -392,7 +386,7 @@ De Nederlandse strafwet is mede van toepassing op de in Nederland gevestigde ver
 
 1.  De ambtenaren, die op basis van [artikel 17 van de Wet op de economische delicten](../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) zijn belast met de opsporing van overtredingen van deze wet, zijn bevoegd het vervoer van goederen dat wordt verricht in strijd met de artikelen 2.3, eerste en derde lid en 2.5 te beletten en een mechanisch hulpmiddel aan te brengen of te doen aanbrengen op de vrachtauto waarmee de overtreding is gepleegd waardoor wordt verhinderd dat de vrachtauto wordt weggereden, teneinde de overtreding te doen ophouden.   
 2.  Het aangebrachte mechanisch hulpmiddel wordt verwijderd nadat de overtreding is opgehouden dan wel na het aanbrengen achtenveertig uren zijn verstreken en de kosten van het aanbrengen en het verwijderen ervan zijn voldaan.   
-3.  De betrokken ambtenaar maakt van het aanbrengen van het mechanisch hulpmiddel, bedoeld in het eerste lid, proces-verbaal op. Hij zendt dit proces-verbaal binnen vierentwintig uur aan de officier van justitie bij de rechtbank binnen het rechtsgebied waarvan het aanbrengen van het mechanisch hulpmiddel, bedoeld in het eerste lid, is geschied. Een afschrift van het proces-verbaal wordt gelijktijdig uitgereikt of toegezonden aan de bestuurder.   
+3.  De betrokken ambtenaar maakt van het aanbrengen van het mechanisch hulpmiddel, bedoeld in het eerste lid, proces-verbaal op. Hij zendt dit proces-verbaal binnen vierentwintig uur aan de officier van justitie in het arrondissement waarin de rechtbank is gelegen waar het aanbrengen van het mechanisch hulpmiddel, bedoeld in het eerste lid, is geschied. Een afschrift van het proces-verbaal wordt gelijktijdig uitgereikt of toegezonden aan de bestuurder.   
 
 ### Artikel  5.5  
 
@@ -471,10 +465,6 @@ Een vergunning als bedoeld in [artikel 13, eerste lid, van de Wet goederenvervoe
 ### Hoofdstuk  8  
 
 ####Slotbepalingen
-
-### Artikel  8.1  
-
-Tegen een op grond van de marktverordening voor het wegvervoer of van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.  
 
 ### Artikel  8.2  
 

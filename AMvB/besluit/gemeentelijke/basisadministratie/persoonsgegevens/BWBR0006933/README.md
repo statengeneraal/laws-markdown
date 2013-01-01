@@ -42,9 +42,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 – het vestigingsregister: het register, bedoeld in [artikel 112 van de wet](../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md);  
 
-– de systeembeschrijving: de beschrijving, bedoeld in artikel 11;  
-
 – de verstrekkingsvoorziening: de voorziening, bedoeld in artikel 66a;  
+
+– de systeembeschrijving: de beschrijving, bedoeld in artikel 11;  
 
 – de tabelgegevens: de inhoud van de tabellen, bedoeld in artikel 13;  
 
@@ -56,7 +56,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 – een vrij bericht: een in de systeembeschrijving beschreven bericht dat over het netwerk wordt verzonden of ontvangen, waarbij de informatie die het bericht bevat niet in de systeembeschrijving is vastgelegd;  
 
-– het vreemdelingenadministratiesysteem: het geautomatiseerde systeem waarmee de mededelingen van Onze Minister van Justitie ter uitvoering van [artikel 58 van de wet](../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) worden ontvangen en verzonden;  
+– het vreemdelingenadministratiesysteem: het geautomatiseerde systeem waarmee de mededelingen van Onze Minister voor Immigratie en Asiel ter uitvoering van [artikel 58 van de wet](../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) worden ontvangen en verzonden;  
 
 – het gebruikersoverleg: het overleg, bedoeld in [artikel 23a, van de wet](../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md);  
 
@@ -710,7 +710,7 @@ c. het College bescherming persoonsgegevens over het verzoek is gehoord.
 
 1.  De ambtenaar van de burgerlijke stand bij wie aangifte is gedaan van een levenloos geboren of voor de aangifte overleden kind verstrekt, indien ten aanzien van dat kind geen geboorteakte wordt opgemaakt, aan het college van burgemeester en wethouders van zijn gemeente zo spoedig mogelijk de door het Centraal Bureau voor de Statistiek benodigde gegevens betreffende dat kind.   
 2.  De ambtenaar van de burgerlijke stand maakt bij de in het eerste lid bedoelde gegevensverstrekking gebruik van een formulier, waarvan het model als bijlage 5 bij dit besluit is gevoegd.   
-3.  Onze Minister kan, in overeenstemming met Onze Minister van Economische Zaken, regels stellen omtrent de verzending van de gegevens aan het Centraal Bureau voor de Statistiek.   
+3.  Onze Minister kan, in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie, regels stellen omtrent de verzending van de gegevens aan het Centraal Bureau voor de Statistiek.   
 
 ### §  2a  
 
@@ -731,25 +731,27 @@ Bijzondere derde als bedoeld in [artikel 99, eerste lid, van de wet](../../../..
 
 a. een pensioenfonds als bedoeld in bijlage 5a, onder a, bij dit besluit, voor zover de behoefte van het fonds aan gegevens uit de basisadministraties haar grond vindt in de uitvoering van een algemeen verbindend voorschrift met betrekking tot een pensioenregeling;  
 
-b. een verzekeraar als bedoeld in bijlage 5a, onder b, bij dit besluit, voor zover de behoefte van de verzekeraar aan gegevens uit de basisadministraties haar grond vindt in de uitvoering van pensioenregelingen, waarmee de verzekeraar overeenkomstig een wettelijke regeling betreffende pensioenregelingen is belast;  
+b. een premiepensioeninstelling als bedoeld in bijlage 5a, onder b, bij dit besluit, voor zover de behoefte van de instelling aan gegevens uit de basisadministraties haar grond vindt in de uitvoering van pensioenregelingen, waarmee de premiepensioeninstelling overeenkomstig een wettelijke regeling is belast;  
 
-c. een spaarfonds als bedoeld in bijlage 5a, onder c, bij dit besluit, voor zover de behoefte van het fonds aan gegevens uit de basisadministraties haar grond vindt in de uitvoering van een algemeen verbindend voorschrift met betrekking tot een spaarregeling die is gericht op een uitkering bij wijze van oudedagsvoorziening;  
+c. een verzekeraar als bedoeld in bijlage 5a, onder c, bij dit besluit, voor zover de behoefte van de verzekeraar aan gegevens uit de basisadministraties haar grond vindt in de uitvoering van pensioenregelingen, waarmee de verzekeraar overeenkomstig een wettelijke regeling betreffende pensioenregelingen is belast;  
 
-d. een fonds tot uitvoering van een regeling inzake vervroegd uittreden, als bedoeld in bijlage 5a, onder d, bij dit besluit, voor zover de behoefte van het fonds aan gegevens uit de basisadministraties voortvloeit uit: 
+d. een spaarfonds als bedoeld in bijlage 5a, onder d, bij dit besluit, voor zover de behoefte van het fonds aan gegevens uit de basisadministraties haar grond vindt in de uitvoering van een algemeen verbindend voorschrift met betrekking tot een spaarregeling die is gericht op een uitkering bij wijze van oudedagsvoorziening;  
+
+e. een fonds tot uitvoering van een regeling inzake vervroegd uittreden, als bedoeld in bijlage 5a, onder e, bij dit besluit, voor zover de behoefte van het fonds aan gegevens uit de basisadministraties voortvloeit uit: 
 
 1°. de uitvoering van een algemeen verbindend voorschrift inzake vervroegd uittreden, of  
 
 2°. De verwerking van persoonsgegevens als bedoeld in de [Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) met betrekking tot een regeling inzake vervroegd uittreden;    
 
-e. een kredietinstelling als bedoeld in bijlage 5a, onder e, bij dit besluit, voor zover de behoefte van de instelling aan gegevens uit de basisadministraties haar grond vindt in het honoreren van aanspraken van gerechtigden op, al dan niet op termijn, opvorderbare gelden;  
+f. een bank als bedoeld in bijlage 5a, onder f, bij dit besluit, voor zover de behoefte van de bank aan gegevens uit de basisadministraties haar grond vindt in het honoreren van aanspraken van gerechtigden op, al dan niet op termijn, opvorderbare gelden;  
 
-f. een effecteninstelling als bedoeld in bijlage 5a, onder f, bij dit besluit, voor zover de behoefte van de instelling aan gegevens uit de basisadministraties haar grond vindt in het honoreren van aanspraken van gerechtigden op geld of effecten;  
+g. een effecteninstelling als bedoeld in bijlage 5a, onder g, bij dit besluit, voor zover de behoefte van de instelling aan gegevens uit de basisadministraties haar grond vindt in het honoreren van aanspraken van gerechtigden op geld of effecten;  
 
-g. een verzekeraar als bedoeld in bijlage 5a, onder g, bij dit besluit, voor zover de behoefte van de verzekeraar aan gegevens uit de basisadministraties haar grond vindt in het honoreren van aanspraken van gerechtigden op een uitkering of dienst;  
+h. een verzekeraar als bedoeld in bijlage 5a, onder h, bij dit besluit, voor zover de behoefte van de verzekeraar aan gegevens uit de basisadministraties haar grond vindt in het honoreren van aanspraken van gerechtigden op een uitkering of dienst;  
 
-h. een beleggingsinstelling als bedoeld in bijlage 5a, onder h, bij dit besluit, voor zover de behoefte van de instelling aan gegevens uit de basisadministraties haar grond vindt in het honoreren van aanspraken van gerechtigden op geld of effecten;  
+i. een beleggingsinstelling als bedoeld in bijlage 5a, onder i, bij dit besluit, voor zover de behoefte van de instelling aan gegevens uit de basisadministraties haar grond vindt in het honoreren van aanspraken van gerechtigden op geld of effecten;  
 
-i. een zorgverzekeraar als bedoeld in bijlage 5a, onder i, bij dit besluit, voor zover de behoefte van de verzekeraar aan gegevens uit de basisadministraties haar grond vindt in de uitvoering van de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).    
+j. een zorgverzekeraar als bedoeld in bijlage 5a, onder j, bij dit besluit, voor zover de behoefte van de verzekeraar aan gegevens uit de basisadministraties haar grond vindt in de uitvoering van de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).    
 
 ### Artikel  68c  
 
@@ -823,13 +825,11 @@ De bijzondere derde gebruikt de uit de basisadministraties afkomstige gegevens s
 
 ### Artikel  68i  
 
-1.  Over de verstrekking van gegevens uit de basisadministratie aan de onder a tot en met c bedoelde afnemers wordt geen informatie verstrekt aan een andere afnemer, een derde of de ingeschrevene, voor zover dit noodzakelijk is in het belang van de veiligheid van de staat of de voorkoming, opsporing en vervolging van strafbare feiten en het een verstrekking van gegevens betreft aan: 
+1.  Over de verstrekking van gegevens uit de basisadministratie aan de onder a en b bedoelde afnemers wordt geen informatie verstrekt aan een andere afnemer, een derde of de ingeschrevene, voor zover dit noodzakelijk is in het belang van de veiligheid van de staat of de voorkoming, opsporing en vervolging van strafbare feiten en het een verstrekking van gegevens betreft aan: 
 
-a. de regionale politiekorpsen voor zover de verstrekking noodzakelijk is voor de strafrechtelijke handhaving van de rechtsorde of de handhaving van de openbare orde als bedoeld in [artikel 2 van de Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+a. de politie voor zover de verstrekking noodzakelijk is voor de strafrechtelijke handhaving van de rechtsorde of de handhaving van de openbare orde als bedoeld in [artikel 3 van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
-b. het Korps landelijke politiediensten voor zover de verstrekking noodzakelijk is voor de uitvoering van de in artikel 38 in samenhang met [artikel 2 van de Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md) bedoelde taken.  
-
-c. de Koninklijke marechaussee voor zover de verstrekking noodzakelijk is voor de uitvoering van de in [artikel 6, eerste lid, van de Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md) bedoelde taken.     
+b. de Koninklijke marechaussee voor zover de verstrekking noodzakelijk is voor de uitvoering van de in [artikel 4, eerste lid, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md) bedoelde taken.     
 2.  De verantwoordelijke voor de verwerking van gegevens in de basisadministratie draagt zorg dat over verstrekkingen als bedoeld in het eerste lid geen aantekening wordt gehouden.   
 3.  De verantwoordelijke voor de verwerking van gegevens in de basisadministratie draagt er zorg voor dat van degenen, die zijn belast met de verwerking van de in het eerste lid bedoelde gegevens in zijn basisadministratie, uitsluitend die personen kennis kunnen nemen van de desbetreffende gegevens, die daartoe uitdrukkelijk zijn geautoriseerd en voor zover die kennisneming noodzakelijk is voor: 
 
@@ -1136,11 +1136,11 @@ i. de aantekening dat de ingeschrevene als economisch niet-actieve gemeenschapso
 
 j. de aantekening dat de ingeschrevene ingevolge [artikel 8.11 van het Vreemdelingenbesluit 2000](../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) rechtmatig verblijf heeft gedurende een periode van drie maanden na inreis;  
 
-k. de aantekening dat de ingeschrevene ingevolge [artikel 8, onder f, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft in afwachting van de beslissing op een aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in [artikel 14 van die wet](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), terwijl bij of krachtens diewet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op de aanvraag is beslist, dan wel ingevolge [artikel 8, onder h, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft in afwachting van de beslissing op een bezwaarschrift of beroepschrift tegen de beslissing op de desbetreffende aanvraag, terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op het bezwaarschrift of het beroepschrift is beslist;  
+k. de aantekening dat de ingeschrevene ingevolge [artikel 8, onder f, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft in afwachting van de beslissing op een aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in [artikel 14 van die wet](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op de aanvraag is beslist, dan wel ingevolge [artikel 8, onder h, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft in afwachting van de beslissing op een bezwaarschrift of beroepschrift tegen de beslissing op de desbetreffende aanvraag, terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op het bezwaarschrift of het beroepschrift is beslist;  
 
 l. de aantekening dat de ingeschrevene ingevolge [artikel 8, onder f, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft in afwachting van de beslissing op een aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in [artikel 28 van die wet](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op de aanvraag is beslist, dan wel ingevolge [artikel 8, onder h, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft in afwachting van de beslissing op een beroepschrift tegen de beslissing op de desbetreffende aanvraag, terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op het beroepschrift is beslist;  
 
-m. de aantekening dat de ingeschrevene ingevolge [artikel 8, onder g, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft in afwachting van de beslissing op een door de ingeschrevene tijdig ingediende aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in de [artikelen 20](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [33 van die wet](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), of tot het verlengen van de geldigheidsduur van de verblijfsvergunning, bedoeld in de [artikelen 14](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [28 van die wet](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), of een wijziging ervan, terwijl bij of krachtens diewet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op de aanvraag is beslist, dan wel ingevolge [artikel 8, onder h, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft in afwachting van de beslissing op een bezwaarschrift of beroepschrift tegen de beslissing op de desbetreffende aanvraag of tegen de intrekking van de verblijfsvergunning, bedoeld in de [artikelen 14](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [20](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [28](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [33 van die wet](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), terwijl bij of krachtens die wetdan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op het bezwaarschrift of het beroepschrift is beslist;  
+m. de aantekening dat de ingeschrevene ingevolge [artikel 8, onder g, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft in afwachting van de beslissing op een door de ingeschrevene tijdig ingediende aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in de [artikelen 20](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [33 van die wet](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), of tot het verlengen van de geldigheidsduur van de verblijfsvergunning, bedoeld in de [artikelen 14](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [28 van die wet](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), of een wijziging ervan, terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op de aanvraag is beslist, dan wel ingevolge [artikel 8, onder h, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft in afwachting van de beslissing op een bezwaarschrift of beroepschrift tegen de beslissing op de desbetreffende aanvraag of tegen de intrekking van de verblijfsvergunning, bedoeld in de [artikelen 14](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [20](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [28](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [33 van die wet](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op het bezwaarschrift of het beroepschrift is beslist;  
 
 n. de aantekening dat de ingeschrevene ingevolge [artikel 8, onder g, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft in afwachting van de beslissing op een door de ingeschrevene niet tijdig ingediende aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in de [artikelen 20](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [33 van die wet](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), of tot het verlengen van de geldigheidsduur van de verblijfsvergunning, bedoeld in de [artikelen 14](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [28 van die wet](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), of een wijziging ervan, terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op de aanvraag is beslist, dan wel ingevolge [artikel 8, onder h, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft in afwachting van de beslissing op een bezwaarschrift of beroepschrift tegen de beslissing op de desbetreffende aanvraag, terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op het bezwaarschrift of het beroepschrift is beslist;  
 
@@ -1391,7 +1391,7 @@ omschrijving van de bron waaraan het gewijzigde administratienummer is ontleend;
 
 ####Gegevens ter aanduiding van de bron waaraan gegevens over het verblijfsrecht van de vreemdeling worden ontleend:
 
-omschrijving van de mededeling van Onze Minister van Justitie, waaraan een gegeven over het verblijfsrecht van de vreemdeling is ontleend; gemeentecode van de gemeente die het gegeven over het verblijfsrecht van de vreemdeling heeft ontleend.  
+omschrijving van de mededeling van Onze Minister voor Immigratie en Asiel, waaraan een gegeven over het verblijfsrecht van de vreemdeling is ontleend; gemeentecode van de gemeente die het gegeven over het verblijfsrecht van de vreemdeling heeft ontleend.  
 
 ### c  
 
@@ -1468,19 +1468,25 @@ De pensioenfondsen, bedoeld in [artikel 1 van de Pensioenwet](../../../../../../
 
 ### b  
 
-####De verzekeraars, bedoeld in artikel 68b, onder b :
+####De premiepensioeninstellingen, bedoeld in artikel 68b, onder b :
 
-De verzekeraars, bedoeld in [artikel 1 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 1 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md).  
+De premiepensioeninstellingen, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  
 
 ### c  
 
-####De spaarfondsen, bedoeld in artikel 68b, onder c :
+####De verzekeraars, bedoeld in artikel 68b, onder c :
 
-De ondernemingsspaarfondsen, bedoeld in [artikel 1, eerste lid, onder d, van de Pensioen- en spaarfondsenwet](../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md), zoals de [Pensioen- en spaarfondsenwet](../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md) luidde op de dag voorafgaand aan de inwerkingtreding van de [Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md).  
+De verzekeraars, bedoeld in [artikel 1 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 1 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md).  
 
 ### d  
 
-####De fondsen, bedoeld in artikel 68b, onder d :
+####De spaarfondsen, bedoeld in artikel 68b, onder d :
+
+De ondernemingsspaarfondsen, bedoeld in [artikel 1, eerste lid, onder d, van de Pensioen- en spaarfondsenwet](../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md), zoals de [Pensioen- en spaarfondsenwet](../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md) luidde op de dag voorafgaand aan de inwerkingtreding van de [Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md).  
+
+### e  
+
+####De fondsen, bedoeld in artikel 68b, onder e :
 
 De stichtingen met als doel het toekennen van een uitkering aan personen na ontslag wegens vervroegd uittreden.  
 
@@ -1492,25 +1498,31 @@ De kredietinstellingen, bedoeld in [artikel 1:1 van de Wet op het financieel toe
 
 ### f  
 
-####De effecteninstellingen, bedoeld in artikel 68b, onder f :
+####De banken, bedoeld in artikel 68b, onder f :
 
-De beleggingsondernemingen, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die zijn ingeschreven in het in [artikel 1:107 van die wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedoelde register.  
+De banken, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die zijn ingeschreven in het in [artikel 1:107 van die wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedoelde register.  
 
 ### g  
 
-####De verzekeraars, bedoeld in artikel 68b, onder g :
+####De effecteninstellingen, bedoeld in artikel 68b, onder g :
 
-De verzekeraars, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die zijn ingeschreven in het in [artikel 1:107 van die wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedoelde register.  
+De beleggingsondernemingen, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die zijn ingeschreven in het in [artikel 1:107 van die wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedoelde register.  
 
 ### h  
 
-####De beleggingsinstellingen, bedoeld in artikel 68b, onder h :
+####De verzekeraars, bedoeld in artikel 68b, onder h :
 
-De beleggingsinstellingen, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die zijn ingeschreven in het in [artikel 1:107 van die wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedoelde register.  
+De verzekeraars, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die zijn ingeschreven in het in [artikel 1:107 van die wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedoelde register.  
 
 ### i  
 
-####De zorgverzekeraars, bedoeld in artikel 68b, onder i :
+####De beleggingsinstellingen, bedoeld in artikel 68b, onder i :
+
+De beleggingsinstellingen, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die zijn ingeschreven in het in [artikel 1:107 van die wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedoelde register.  
+
+### j  
+
+####De zorgverzekeraars, bedoeld in artikel 68b, onder j :
 
 – De zorgverzekeraars, bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).  
 

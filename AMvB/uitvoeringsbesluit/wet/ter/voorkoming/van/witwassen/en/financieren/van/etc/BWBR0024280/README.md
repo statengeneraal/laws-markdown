@@ -35,7 +35,7 @@ De indicatoren, bedoeld in [artikel 15, eerste lid, van de wet](../../../../../.
 
 ### Artikel  5  
 
-1.  De bevoegdheden die Onze Minister heeft op grond van de [artikelen 26, eerste lid](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [27, eerste lid](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), en [29 van de wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), worden overgedragen aan De Nederlandsche Bank N.V., de Stichting Autoriteit Financiële Markten en het Bureau Financieel Toezicht.   
+1.  De bevoegdheden die Onze Minister heeft op grond van de [artikelen 26, eerste lid](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [27, eerste lid](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [28, vierde lid](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), en [29 van de wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), worden overgedragen aan De Nederlandsche Bank N.V., de Stichting Autoriteit Financiële Markten en het Bureau Financieel Toezicht.   
 2.  Aan de overdracht van bevoegdheden, bedoeld in het eerste lid, worden de volgende voorschriften verbonden: 
 
 a. de personen, bedoeld in het eerste lid, verstrekken onverwijld aan Onze Minister op zijn verzoek alle inlichtingen die van belang kunnen zijn voor de nakoming van internationale afspraken en verplichtingen of voor een onderzoek naar de toereikendheid van de [wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md);  
@@ -127,7 +127,7 @@ Transacties waarbij de meldingsplichtige aanleiding heeft om te veronderstellen 
 
 ### IIA  
 
-####Kredietinstellingen, financiële instellingen,beleggingsondernemingen, beleggingsinstellingen, geldtransactiekantoren
+####Banken, elektronischgeldinstellingen, financiële instellingen,beleggingsondernemingen, beleggingsinstellingen, geldtransactiekantoren
 
 ####Contante wisseltransacties
 

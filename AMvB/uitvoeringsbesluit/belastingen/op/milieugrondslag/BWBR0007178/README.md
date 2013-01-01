@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Dit besluit geeft uitvoering aan de [artikelen 20, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [33, derde en vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [34, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [35, tweede lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [44, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [45, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [51, eerste lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [54, vijfde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [59, zesde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [64, vijfde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [67, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [68, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [69, zevende lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [70, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [88a](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) en [88b, van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).   
+1.  Dit besluit geeft uitvoering aan de [artikelen 20, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [33, derde en vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [34, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [35, tweede lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [44, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [45, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [51, eerste lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [54, vijfde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [59, zesde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [64, vijfde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [67, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [68, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [69, zevende lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), en [70, vierde lid, van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).   
 2.  In dit besluit wordt verstaan onder de wet: de [Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).   
 
 ### Hoofdstuk  II  
@@ -90,29 +90,27 @@ e. de datum waarop de overbrenging van de kolen aanvangt.
 
 ### Artikel  17  
 
-1.  De vrijstellingen, bedoeld in [artikel 44, eerste, tweede en derde lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), worden verleend, indien: 
+1.  De vrijstellingen, bedoeld in [artikel 44, eerste en tweede lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), worden verleend, indien: 
 
-a. degene die de kolen gebruikt, verklaart dat de aan hem te leveren kolen worden gebruikt op de in [artikel 44, eerste, tweede of derde lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) bedoelde wijze;  
+a. degene die de kolen gebruikt, verklaart dat de aan hem te leveren kolen worden gebruikt op de wijze, bedoeld in [artikel 44, eerste of tweede lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md);  
 
 b. de verklaring geschiedt met gebruikmaking van een door de vergunninghouder van de inrichting opgesteld bescheid in geval van uitslag of met gebruikmaking van een door degene die de levering verricht opgesteld bescheid in geval van invoer;  
 
 c. degene die de kolen gebruikt, de verklaring heeft ondertekend, en  
 
 d. de verklaring op overzichtelijke wijze wordt bewaard bij de administratie van de vergunninghouder van de inrichting in geval van uitslag en bij de administratie van degene die de aangifte tot plaatsing onder de douaneregeling brengen in het vrije verkeer doet, in geval van invoer.     
-2.  De vrijstelling, bedoeld in [artikel 44, tweede lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), wordt niet verleend indien de kolen worden gebruikt in een installatie voor het opwekken van elektriciteit met een elektrisch vermogen van minder dan 60 kW.   
-3.  Degene die de kolen gebruikt, richt zijn administratie zodanig in dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de vrijstellingen, bedoeld in [artikel 44, eerste, tweede en derde lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), van belang zijnde bedrijfshandelingen.   
+2.  Degene die de kolen gebruikt, richt zijn administratie zodanig in dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de vrijstellingen, bedoeld in [artikel 44, eerste en tweede lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), van belang zijnde bedrijfshandelingen.   
 
 ### Artikel  18  
 
 1.  Het tijdvak waarover een teruggaaf van belasting als bedoeld in [artikel 45, eerste of tweede lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), wordt verleend is het kalenderkwartaal. De inspecteur kan op verzoek een ander tijdvak aanwijzen.   
 2.  Het verzoek om teruggaaf wordt gedaan binnen dertien weken: 
 
-a. na het einde van het in het eerste lid bedoelde tijdvak waarin de kolen zijn gebruikt op een in [artikel 44, eerste tot en met derde lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) bedoelde wijze;  
+a. na het einde van het in het eerste lid bedoelde tijdvak waarin de kolen zijn gebruikt op een wijze, bedoeld in [artikel 44, eerste en tweede lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md);  
 
 b. nadat de kolen de in [artikel 45, tweede lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) bedoelde bestemming hebben gevolgd.     
 3.  Bij het verzoek om teruggaaf worden de aankoopfactuur en de van belang zijnde gegevens over de bestemming van de kolen waarop de teruggaaf betrekking heeft overgelegd.   
-4.  Artikel 17, tweede lid, is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 45, eerste lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) met betrekking tot kolen die worden gebruikt op een in [artikel 44, tweede lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) bedoelde wijze.   
-5.  De administratie van degene die om teruggaaf verzoekt, voldoet aan bij ministeriële regeling te stellen voorwaarden.   
+4.  De administratie van degene die om teruggaaf verzoekt, voldoet aan bij ministeriële regeling te stellen voorwaarden.   
 
 ### Hoofdstuk  VI  
 
@@ -152,13 +150,13 @@ c. indien de fiscaal vertegenwoordiger niet meer voldoet aan de aan de vergunnin
 
 ### Artikel  20  
 
-1.  De tarieven voor zakelijk verbruik, bedoeld in [artikel 59, eerste lid, onderdelen a en c, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), zijn van toepassing indien de verbruiker een verklaring heeft overgelegd aan degene die het aardgas of de elektriciteit aan hem levert, dat het verbruik van dat aardgas of die elektriciteit zakelijk verbruik betreft als bedoeld in [artikel 47, eerste lid, onderdeel t, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).   
+1.  Het tarief voor zakelijk verbruik, genoemd in [artikel 59, eerste lid, onderdeel c, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), is van toepassing indien de verbruiker een verklaring heeft overgelegd aan degene die de elektriciteit aan hem levert dat het verbruik van die elektriciteit zakelijk verbruik betreft als bedoeld in [artikel 47, eerste lid, onderdeel t, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).   
 2.  De verbruiker dient: 
 
 a. zijn administratie zodanig in te richten dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van het tarief voor zakelijk verbruik van belang zijnde bedrijfshandelingen;  
 
-b. ter vaststelling van de hoeveelheid aardgas of elektriciteit waarop de tarieven bedoeld in het eerste lid zien, deze hoeveelheid te meten met behulp van meters indien het aardgas of de elektriciteit mede betrokken wordt voor niet-zakelijk verbruik als bedoeld in [artikel 47, eerste lid, onderdeel u, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).     
-3.  Wijzigingen in de situatie die van invloed zijn op de toepassing van de tarieven, bedoeld in het eerste lid, worden onmiddellijk gemeld aan degene die het aardgas of de elektriciteit levert.   
+b. ter vaststelling van de hoeveelheid elektriciteit waarop het tarief, bedoeld in het eerste lid, ziet deze hoeveelheid te meten met behulp van meters indien de elektriciteit mede betrokken wordt voor niet-zakelijk verbruik als bedoeld in [artikel 47, eerste lid, onderdeel u, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).     
+3.  Wijzigingen in de situatie die van invloed zijn op de toepassing van het tarief, bedoeld in het eerste lid, worden onmiddellijk gemeld aan degene die de elektriciteit levert.   
 
 ### Artikel  21  
 
@@ -226,67 +224,9 @@ b. ter vaststelling van de hoeveelheid product waarop de vrijstelling ziet, deze
 
 ####Sierteelt
 
-### Artikel  28  
-
-Voor de toepassing van deze afdeling wordt verstaan onder: 
-
-a. *sierteeltproducten:* snijbloemen beginnend met GN-code 0603 en planten met GN-code 06029091 en 06029099, telkens inclusief het daarbij behorende uitgangsmateriaal, en  
-
-b. *verpakte sierteeltproducten:* sierteeltproducten die verpakt zijn in voor eenmalig gebruik bestemde verpakkingen.    
-
-### Artikel  28a  
-
-De regels, genoemd in deze afdeling, gelden voor de producent van sierteeltproducten die valt onder de werkingssfeer van het [Instellingsbesluit Productschap Tuinbouw](../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md), niet zijnde een in Nederland gevestigde detailhandelaar, en voor de producent van sierteeltproducten die ter beschikking stelt in de hoedanigheid van veilingcoöperatie of bloemenveiling.  
-
-### Artikel  28b  
-
-Voor zover de producent, genoemd in artikel 28a, verpakte sierteeltproducten voor het eerst aan een ander ter beschikking stelt in Nederland of bij de eerste terbeschikkingstelling exporteert vanuit Nederland, geeft hij alle hiermee verband houdende kilogrammen verpakking op bij zijn aangifte en past vervolgens een kortingspercentage toe in verband met kilogrammen verpakking van producten die direct of indirect worden geëxporteerd. Het kortingspercentage, genoemd in de eerste volzin, bedraagt 71%.  
-
-### Artikel  28c  
-
-Voor zover de producent verpakte sierteeltproducten bij de eerste terbeschikkingstelling exporteert vanuit Nederland, is [hoofdstuk VIII](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), met uitzondering van [afdeling 5a, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) voor hem van overeenkomstige toepassing.  
-
-### Artikel  28d  
-
-Op de producent, bedoeld in artikel 28a, is de exportvermindering, bedoeld in [hoofdstuk VIII, afdeling 5a van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), niet van toepassing.  
-
 ### Afdeling  2  
 
 ####Groenten en fruit
-
-### Artikel  28e  
-
-Voor de toepassing van deze afdeling wordt verstaan onder: 
-
-a. *verse groenten en vers fruit:* de producten, genoemd in artikel 1, lid 1, onderdeel i, van Verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten («Integrale-GMO-verordening»), al dan niet bewerkt en bananen met GN-code 0803 00 19, al dan niet bewerkt;  
-
-b. *bewerkte verse groenten en bewerkt vers fruit:* de producten, bedoeld in onderdeel a, die zijn gesneden, gewassen, gemengd of verpakt;  
-
-c. *verpakte verse groenten of verpakt vers fruit:* verse groenten of vers fruit, verpakt in voor eenmalig gebruik bestemde verpakkingen; en  
-
-d. *producentenorganisatie:* de producentenorganisatie in de sector groenten en fruit die op grond van de [artikelen 15](../../../../../../wet/landbouwwet/BWBR0002252/README.md), [19](../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [23 van de Landbouwwet](../../../../../../wet/landbouwwet/BWBR0002252/README.md) in verbinding met [artikel 2, onderdeel e, sub 1, van de Regeling medebewind Gemeenschappelijk Landbouwbeleid](../../../../../../ministeriele-regeling/regeling/medebewind/gemeenschappelijk/landbouwbeleid/BWBR0020360/README.md) door het Productschap Tuinbouw als zodanig is erkend in Nederland.    
-
-### Artikel  28f  
-
-De regels, genoemd in deze afdeling, gelden voor de producent van verse groenten of vers fruit die valt onder de werkingssfeer van het [Instellingsbesluit Productschap Tuinbouw](../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md), niet zijnde een in Nederland gevestigde detailhandelaar, en voor de producent van verse groenten of vers fruit die ter beschikking stelt in de hoedanigheid van producentenorganisatie.  
-
-### Artikel  28g  
-
-1.  Voor zover de producent, bedoeld in artikel 28f, verpakte verse groenten of verpakt vers fruit voor het eerst aan een ander ter beschikking stelt in Nederland of bij de eerste terbeschikkingstelling exporteert vanuit Nederland, geeft hij alle hiermee verband houdende kilogrammen verpakking op bij zijn aangifte en past vervolgens een kortingspercentage toe in verband met kilogrammen verpakking van producten die direct of indirect worden geëxporteerd. Het kortingspercentage, genoemd in de eerste volzin, bedraagt 71%.   
-2.  In afwijking van het eerste lid bedraagt het kortingspercentage voor de producent, bedoeld in het eerste lid, voor zover deze verpakte verse uien ter beschikking stelt, 69%.   
-
-### Artikel  28h  
-
-Voor zover de producent verpakte verse groenten of verpakt vers fruit bij de eerste terbeschikkingstelling exporteert vanuit Nederland, is [hoofdstuk VIII](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), met uitzondering van [afdeling 5a, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) voor hem van overeenkomstige toepassing.  
-
-### Artikel  28i  
-
-1.  Ingeval een producent tevens de teler is van de verse groenten of het vers fruit, en hij deze producten in een verpakking aan een, bij ministeriële regeling aangewezen producentenorganisatie, ter beschikking stelt, wordt de verpakkingenbelasting met betrekking tot die terbeschikkingstelling geheven van deze producentenorganisatie.   
-2.  Ingeval het eerste lid toepassing vindt, kan de producentenorganisatie de belastingvermindering, bedoeld in [artikel 87 van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), één maal toepassen.   
-
-### Artikel  28j  
-
-Op de producent, bedoeld in artikel 28f, is de exportvermindering, bedoeld in [hoofdstuk VIII, afdeling 5a van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), niet van toepassing.  
 
 ### Hoofdstuk  VIII  
 

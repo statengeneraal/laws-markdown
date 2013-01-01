@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 13 februari 1995, directoraat-generaal voor Openbare Orde en Veiligheid, directie Politie, hoofdafdeling Personeel, Onderwijs en Informatievoorziening, afdeling Arbeidsvoorwaardenbeleid, nr. EA94/1434;
 
-Gelet op [artikel 50, eerste lid, van de Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md);
+Gelet op artikel 50, eerste lid, van de Politiewet 1993;
 
 De Raad van State gehoord (advies van 6 maart 1995, nummer W04.95.0071);
 
@@ -20,19 +20,21 @@ Hebben goedgevonden en verstaan:
 
 1.  In dit besluit wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
+a. Onze Minister: Onze Minister van Veiligheid en Justitie;  
 
 b. de vrijwillige ambtenaar in opleiding: degene die door het bevoegd gezag is benoemd tot vrijwillige ambtenaar in opleiding en die is toegelaten tot de opleiding tot vrijwillige ambtenaar van politie;  
 
-c. vrijwillige ambtenaar, aangesteld voor de uitvoering van de politietaak: de ambtenaar, bedoeld in [artikel 3, eerste lid, onderdeel *c*, van de Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+c. vrijwillige ambtenaar, aangesteld voor de uitvoering van de politietaak: de ambtenaar, bedoeld in artikel 2, onderdeel c, van de Politiewet 2012;  
 
-d. de vrijwillige ambtenaar van politie: de vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak en de vrijwillige ambtenaar in opleiding;  
+d. de vrijwillige ambtenaar van politie: de vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak, de vrijwillige ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie en de vrijwillige ambtenaar in opleiding;  
 
 e. bevoegd gezag: 
 
-1e. de korpsbeheerder, voor zover het betreft de vrijwillige ambtenaar van politie, die werkzaam is bij een regionaal politiekorps;  
+1. de korpschef, voor zover het betreft de vrijwillige ambtenaar van politie, die werkzaam is bij het landelijk politiekorps;  
 
-2e. Onze Minister, voor zover het betreft de vrijwillige ambtenaar van politie, die werkzaam is bij het Korps landelijke politiediensten;       
+2. het College van procureurs-generaal, voor zover het betreft ambtenaren van de rijksrecherche;    
+
+f. de vrijwillige ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie: de ambtenaar, bedoeld in artikel 2, eerste lid, onderdeel b, van de Politiewet 2012.     
 2.  Voor de toepassing van dit besluit wordt onder echtgenote of echtgenoot mede verstaan de geregistreerde partner alsmede de levenspartner met wie de niet-gehuwde ambtenaar samenwoont en – met het oogmerk duurzaam samen te leven – een gemeenschappelijke huishouding voert op basis van een notarieel verleden samenlevingscontract bevattende de wederzijdse rechten en verplichtingen ter zake van die samenwoning en gemeenschappelijke huishouding. Onder weduwe of weduwnaar wordt mede begrepen de achtergebleven geregistreerde partner alsmede de nabestaande partner. Tot gezinslid wordt in voorkomend geval mede gerekend de geregistreerde partner alsmede de levenspartner. Tegelijkertijd kan slechts een persoon als echtgenoot of echtgenote dan wel weduwe of weduwnaar worden aangemerkt. Het bevoegd gezag kan verlangen dat een schriftelijke verklaring van een notaris wordt overgelegd waaruit blijkt dat een samenlevingscontract als bedoeld in de eerste volzin is gesloten.   
 
 ### Hoofdstuk  II  
@@ -54,6 +56,23 @@ e. bevoegd gezag:
 2.  Na het voltooien van de opleiding tot vrijwillige ambtenaar van politie vindt een aanstelling in tijdelijke dienst plaats voor een proeftijd van één jaar, zonodig in bijzondere gevallen op verzoek van de ambtenaar met één jaar te verlengen en zonodig ambtshalve te verlengen met de tijd gedurende welke de ambtenaar de proeftijd niet in werkelijke dienst heeft doorgebracht.   
 3.  Degene die de opleiding tot vrijwillige ambtenaar van politie alsmede de daarop volgende proeftijd heeft voltooid, wordt in vaste dienst aangesteld.   
 
+### Artikel  3a  
+
+1.  Een aanstelling van een vrijwillige ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie kan in tijdelijke dienst plaatsvinden: 
+
+a. voor een proeftijd van één jaar, zonodig in bijzondere gevallen op aanvraag van de ambtenaar met één jaar te verlengen en zonodig ambtshalve te verlengen met de tijd, gedurende welke de ambtenaar de proeftijd niet in werkelijke dienst heeft doorgebracht;  
+
+b. ter vervanging van een wegens ziekte of uit anderen hoofde afwezige ambtenaar;  
+
+c. ter uitvoering van werkzaamheden van kennelijk tijdelijk karakter;  
+
+d. indien het een ambtenaar betreft die in dienst wordt genomen als leerling ter opleiding tot een functie binnen de politieorganisatie dan wel in verband met zijn verdere praktische opleiding of vorming, of indien een wijziging in de taak van het betrokken dienstvak is voorgenomen;  
+
+e. indien een wijziging in de taak van het betrokken dienstvak is voorgenomen.     
+2.  Zodra de omstandigheid die leidde tot een aanstelling in tijdelijke dienst als bedoeld in het eerste lid, onderdelen a tot en met e, zich niet meer voordoet, wordt de desbetreffende ambtenaar zo mogelijk in vaste dienst aangesteld.   
+3.  In de gevallen, bedoeld in het eerste lid, onderdelen c en e, wordt in ieder geval aangenomen dat de omstandigheid die leidde tot een aanstelling in tijdelijke dienst zich niet meer voordoet, wanneer de ambtenaar sinds twee jaar zonder onderbreking van langer dan één maand , waarvan laatstelijk gedurende ten minste één jaar in zijn huidige betrekking, in dienst is. Dit geldt echter niet in die gevallen waarin vaststaat dat zijn werkzaamheden in de door hem vervulde betrekking binnen het jaar zullen worden beëindigd.   
+4.  Bij ministeriële regeling worden criteria gegeven op grond waarvan de in het derde lid genoemde periode van twee jaar kan worden verlengd tot vijf jaar.   
+
 ### Artikel  4  
 
 1.  Voor aanstelling als vrijwillige ambtenaar van politie komt uitsluitend in aanmerking degene die: 
@@ -62,7 +81,7 @@ a. Nederlander is;
 
 b. de door Onze Minister vast te stellen minimum leeftijd heeft bereikt;  
 
-c. voldoet aan bij regeling van Onze Minister te stellen eisen met betrekking tot het opleidingsniveau, de psychologische keuring en een geneeskundige keuring als bedoeld in [artikel 1, onder a, van de Wet op de medische keuringen](../../../../../../wet/wet/op/de/medische/keuringen/BWBR0008819/README.md);  
+c. voldoet aan bij regeling van Onze Minister te stellen eisen met betrekking tot het opleidingsniveau, de psychologische keuring en een geneeskundige keuring als bedoeld in artikel 1, onder a, van de Wet op de medische keuringen;  
 
 d. voldoet aan overige bij regeling van Onze Minister te stellen eisen.     
 2.  Teneinde vast te stellen of de ambtenaar in voldoende mate geschikt en bekwaam is voor de vervulling van de functie, kan het bevoegd gezag de gegevens die door de betrokkene desgevraagd zijn verstrekt, verifiëren en zonodig aanvullen.   
@@ -71,8 +90,13 @@ d. voldoet aan overige bij regeling van Onze Minister te stellen eisen.
 ### Artikel  4a  
 
 1.  Aanstelling als vrijwillige ambtenaar van politie in opleiding is slechts mogelijk, indien op grond van een ten aanzien van de betrokkene ingesteld onderzoek naar de betrouwbaarheid en geschiktheid geen bezwaar blijkt te bestaan tegen diens aanstelling.   
-2.  Ten behoeve van een onderzoek als bedoeld in het eerste lid, vraagt het bevoegde gezag om verstrekking van justitiële gegevens als bedoeld in [artikel 23 van het Besluit justitiële gegevens](../../../../../../AMvB/besluit/justitiële/gegevens/BWBR0016544/README.md) en om verstrekking van gegevens als bedoeld in [artikel 4:3 van het Besluit politiegegevens](../../../../../../AMvB/besluit/politiegegevens/BWBR0023086/README.md), tenzij het een functie betreft als bedoeld in [artikel 1, eerste lid, onder a, van de Wet veiligheidsonderzoeken](../../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md).   
+2.  Ten behoeve van een onderzoek als bedoeld in het eerste lid, vraagt het bevoegde gezag om verstrekking van justitiële gegevens als bedoeld in artikel 23 van het Besluit justitiële gegevens en om verstrekking van gegevens als bedoeld in artikel 4:3 van het Besluit politiegegevens, tenzij het een functie betreft als bedoeld in artikel 1, eerste lid, onder a, van de Wet veiligheidsonderzoeken.   
 3.  Een onderzoek als bedoeld in het eerste lid, of een veiligheidsonderzoek wordt ingesteld nadat het bevoegde gezag de betrokkene overigens bekwaam en geschikt acht.   
+4.  Het eerste lid is niet van toepassing indien het een aanstelling betreft in een functie waarin technische, administratieve en andere taken ten dienste van de politie worden uitgevoerd.   
+
+### Artikel  4aa  
+
+Voor de aanstelling als vrijwillige ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie gelden dezelfde eisen, bedoeld in artikel 8 van het Besluit algemene rechtspositie politie.  
 
 ### Artikel  4b  
 
@@ -85,11 +109,11 @@ b. bij aanstelling in een andere functie,
 c. bij de vervulling van de functie gedurende ten minste vijf dienstjaren, of  
 
 d. bij een redelijk vermoeden van ernstig plichtsverzuim dat de integriteit of de verantwoordelijkheid van de betrokkene raakt.     
-2.  Het eerste lid is niet van toepassing indien het een functie als bedoeld in [artikel 1, eerste lid, onder a, van de Wet veiligheidsonderzoeken](../../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md), betreft.   
+2.  Het eerste lid is niet van toepassing indien het een functie als bedoeld in artikel 1, eerste lid, onder a, van de Wet veiligheidsonderzoeken, betreft.   
 
 ### Artikel  4c  
 
-Onze Minister stelt nadere regels vast ter uitvoering van het in de artikelen 4a en 4b bedoelde onderzoek naar de betrouwbaarheid en geschiktheid voor zover ten behoeve van dat onderzoek wordt gevraagd om verstrekking van justitiële gegevens als bedoeld in [artikel 23 van het Besluit justitiële gegevens](../../../../../../AMvB/besluit/justitiële/gegevens/BWBR0016544/README.md) en om verstrekking van gegevens als bedoeld in [artikel 4:3 van het Besluit politiegegevens](../../../../../../AMvB/besluit/politiegegevens/BWBR0023086/README.md). Deze nadere regels bevatten in ieder geval waarborgen omtrent een voldoende bescherming van de persoonlijke levenssfeer van betrokkene.  
+Onze Minister stelt nadere regels vast ter uitvoering van het in de artikelen 4a en 4b bedoelde onderzoek naar de betrouwbaarheid en geschiktheid voor zover ten behoeve van dat onderzoek wordt gevraagd om verstrekking van justitiële gegevens als bedoeld in artikel 23 van het Besluit justitiële gegevens en om verstrekking van gegevens als bedoeld in artikel 4:3 van het Besluit politiegegevens. Deze nadere regels bevatten in ieder geval waarborgen omtrent een voldoende bescherming van de persoonlijke levenssfeer van betrokkene.  
 
 ### Artikel  5  
 
@@ -106,7 +130,7 @@ b. of de aanstelling geschiedt in vaste of in tijdelijke dienst al dan niet met 
 
 c. de functie waarin hij wordt aangesteld;  
 
-d. de plaats van tewerkstelling en het werkgebied, bedoeld in [artikel 1, eerste lid, onderdelen *m* en *n*, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+d. de plaats van tewerkstelling en het werkgebied, bedoeld in artikel 1, eerste lid, onderdelen v en x, van het Besluit algemene rechtspositie politie;  
 
 e. de datum van ingang van de aanstelling;  
 
@@ -148,7 +172,7 @@ Het bevoegd gezag bepaalt de werktijden voor de vrijwillige ambtenaren, aangeste
 ### Artikel  11  
 
 1.  Indien een vrijwillige ambtenaar, aangesteld voor de uitvoering van de politietaak, ten gevolge van een ongeval, in verband met de vervulling van zijn functie, komt te overlijden, hebben zijn echtgenote of echtgenoot en gezinsleden aanspraak op een uitkering overeenkomstig de bepalingen van de ongevallenverzekering, bedoeld in artikel 9, eerste lid.   
-2.  Bij vermissing als bedoeld in [boek 1, titel 18, afdeling 2, van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), van de vrijwillig ambtenaar, aangesteld voor de uitvoering van de politietaak, is het eerste lid van overeenkomstige toepassing.   
+2.  Bij vermissing als bedoeld in boek 1, titel 18, afdeling 2, van het Burgerlijk Wetboek, van de vrijwillig ambtenaar, aangesteld voor de uitvoering van de politietaak, is het eerste lid van overeenkomstige toepassing.   
 3.  Het tweede lid is niet van toepassing indien gegronde vermoedens bestaan dat de vermissing het gevolg is van ongeoorloofde afwezigheid.   
 
 ### Artikel  12  
@@ -183,6 +207,8 @@ Het is de vrijwillige ambtenaar van politie verboden in zijn ambt geld, geschenk
 
 ####Melden van een misstand
 
+Vervallen per 01-01-2010   
+
 ### §  4  
 
 ####Overige rechten en verplichtingen van de ambtenaar
@@ -208,7 +234,7 @@ Indien de vrijwillige ambtenaar, aangesteld voor de uitvoering van de politietaa
 
 ### Artikel  20  
 
-1.  Van de vrijwillig ambtenaar van politie en de gewezen vrijwillig ambtenaar van politie die geheel of gedeeltelijk op kosten van de regio of het Rijk een opleiding hebben verkregen, kunnen deze kosten geheel of gedeeltelijk worden teruggevorderd indien: 
+1.  Van de vrijwillig ambtenaar van politie en de gewezen vrijwillig ambtenaar van politie die geheel of gedeeltelijk op kosten van het bevoegd gezag een opleiding hebben verkregen, kunnen deze kosten geheel of gedeeltelijk worden teruggevorderd indien: 
 
 a. de opleiding niet met goed gevolg is afgerond door toedoen van de vrijwillig ambtenaar van politie of in het geval het niet met goed gevolg afronden aan eigen schuld van de vrijwillig ambtenaar van politie is te wijten;  
 
@@ -221,20 +247,20 @@ c. de vrijwillig ambtenaar van politie binnen een periode van drie jaar na afron
 
 ### Artikel  21  
 
-1.  Het bevoegd gezag kan de vrijwillige ambtenaar van politie verplichten de door de dienst geleden schade, voor zover deze aan de ambtenaar is te wijten, geheel of gedeeltelijk te vergoeden. Ten aanzien van gevallen waarin de schade minder bedraagt dan € 226,89 kan de korpschef dan wel, indien het een vrijwillige ambtenaar in opleiding betreft, de directeur van de instelling waar hij deze opleiding volgt, de in de eerste volzin bedoelde bevoegdheid uitoefenen.   
+1.  Het bevoegd gezag kan de vrijwillige ambtenaar van politie verplichten de door de dienst geleden schade, voor zover deze aan de ambtenaar is te wijten, geheel of gedeeltelijk te vergoeden. Ten aanzien van gevallen waarin de schade minder bedraagt dan € 226,89 kan het bevoegd gezag dan wel, indien het een vrijwillige ambtenaar in opleiding betreft, de directeur van de instelling waar hij deze opleiding volgt, de in de eerste volzin bedoelde bevoegdheid uitoefenen.   
 2.  Het bedrag van de schadevergoeding wordt niet vastgesteld dan nadat de ambtenaar in de gelegenheid is gesteld zich schriftelijk of mondeling te verantwoorden.   
 
 ### Artikel  22  
 
 1.  Aan de vrijwillige ambtenaar van politie wordt de schade aan zijn goederen vergoed die hij buiten zijn schuld lijdt ten gevolge van de uitoefening van zijn dienst, voor zover die schade niet bestaat uit de normale slijtage van die goederen.   
 2.  De ambtenaar heeft geen aanspraak, bedoeld in het eerste lid, indien hij terzake van die schade rechten tegenover derden kan doen gelden. Indien de ambtenaar zijn rechten tegenover derden aan de regio dan wel het Rijk cedeert, wordt hij in het genot gesteld van het in geld uitgedrukte bedrag van de schade.   
-3.  Indien de regio dan wel het Rijk terzake van de door voornoemde cessie verkregen rechten een civiele vordering instelt, worden de kosten die hieruit voor de regio dan wel het Rijk voortvloeien, niet op de ambtenaar verhaald.   
+3.  Indien het bevoegd gezag terzake van de door voornoemde cessie verkregen rechten een civiele vordering instelt, worden de kosten die hieruit voor het bevoegd gezag voortvloeien, niet op de ambtenaar verhaald.   
 
 ### Artikel  22a  
 
 1.  Indien de vrijwillige ambtenaar van politie wegens de uitvoering van de politietaak aansprakelijk wordt gesteld naar burgerlijk recht of als verdachte wordt aangemerkt naar strafrecht, kent het bevoegd gezag hem een tegemoetkoming in de kosten van rechtskundige hulp toe, tenzij hij naar het oordeel van het bevoegd gezag opzettelijk onrechtmatig dan wel opzettelijk wederrechtelijk of bewust roekeloos heeft gehandeld, of grof nalatig is geweest.   
 2.  Indien de vrijwillige ambtenaar van politie schadevergoeding vordert op grond van onrechtmatige daad, jegens hem gepleegd tijdens de uitoefening van de politietaak, kent het bevoegd gezag hem een tegemoetkoming in de kosten van rechtskundige hulp toe, tenzij het bevoegd gezag van oordeel is dat de vordering kennelijk onvoldoende grond heeft of kennelijk onredelijk is.   
-3.  Het eerste en het tweede lid zijn van overeenkomstige toepassing indien de rechtskundige hulp aan de ambtenaar is verleend, op grond van zijn lidmaatschap, door een centrale of een vereniging als bedoeld in [artikel 2, tweede lid, van het Besluit overleg en medezeggenschap politie 1994](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), met dien verstande dat de tegemoetkoming in de kosten van rechtskundige hulp rechtstreeks wordt betaald aan voornoemde centrale of vereniging.   
+3.  Het eerste en het tweede lid zijn van overeenkomstige toepassing indien de rechtskundige hulp aan de ambtenaar is verleend, op grond van zijn lidmaatschap, door een centrale of een vereniging als bedoeld in artikel 2, tweede lid, van het Besluit overleg en medezeggenschap politie 1994, met dien verstande dat de tegemoetkoming in de kosten van rechtskundige hulp rechtstreeks wordt betaald aan voornoemde centrale of vereniging.   
 4.  Het bevoegd gezag kan verdere tegemoetkoming in de kosten van rechtskundige hulp staken of de tegemoetkoming in de kosten van de rechtskundige hulp terugvorderen, indien 
 
 a de aan een derde toegebrachte schade blijkens rechterlijk vonnis het gevolg is van opzettelijk onrechtmatig dan wel opzettelijk wederrechtelijk of bewust roekeloos handelen van de vrijwillige ambtenaar van politie, of  
@@ -245,8 +271,8 @@ b indien de vrijwillige ambtenaar van politie strafrechtelijk wordt veroordeeld.
 
 ### Artikel  23  
 
-1.  De vrijwillige ambtenaar van politie die in contact staat of kort geleden heeft gestaan met een persoon die een ziekte heeft waarvoor krachtens de [Infectieziektenwet](../../../../../../wet/infectieziektenwet/BWBR0009684/README.md) een nominatieve aangifteplicht geldt, mag zijn dienst niet verrichten en heeft geen toegang tot dienstgebouwen, -lokalen en -terreinen dan met toestemming vanwege de deskundige persoon, bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), die is belast met de taken, bedoeld in de onderdelen b of c van dat lid, of de arbodienst, bedoeld in [die wet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).   
-2.  De ambtenaar die verkeert in de situatie, bedoeld in het eerste lid, is verplicht daarvan ten spoedigste kennis te geven aan de deskundige persoon, bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), die is belast met de taken, bedoeld in de onderdelen b of c van dat lid, of de arbodienst, bedoeld in [die wet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). Hij is gehouden zich te gedragen naar de vanwege de bedrijfskundige dienst gegeven aanwijzingen, waaronder die met betrekking tot het ondergaan van een arbeidsgezondheidskundig onderzoek.   
+1.  De vrijwillige ambtenaar van politie die in contact staat of kort geleden heeft gestaan met een persoon die een ziekte heeft waarvoor krachtens de Infectieziektenwet een nominatieve aangifteplicht geldt, mag zijn dienst niet verrichten en heeft geen toegang tot dienstgebouwen, -lokalen en -terreinen dan met toestemming vanwege de deskundige persoon, bedoeld in artikel 14, eerste lid, van de Arbeidsomstandighedenwet, die is belast met de taken, bedoeld in de onderdelen b of c van dat lid, of de arbodienst, bedoeld in die wet.   
+2.  De ambtenaar die verkeert in de situatie, bedoeld in het eerste lid, is verplicht daarvan ten spoedigste kennis te geven aan de deskundige persoon, bedoeld in artikel 14, eerste lid, van de Arbeidsomstandighedenwet, die is belast met de taken, bedoeld in de onderdelen b of c van dat lid, of de arbodienst, bedoeld in die wet. Hij is gehouden zich te gedragen naar de vanwege de bedrijfskundige dienst gegeven aanwijzingen, waaronder die met betrekking tot het ondergaan van een arbeidsgezondheidskundig onderzoek.   
 
 ### Artikel  24  
 
@@ -285,7 +311,7 @@ c. ontslag.
 ### Artikel  28  
 
 1.  Bij het opleggen van een straf kan worden bepaald dat deze niet ten uitvoer zal worden gelegd, indien de vrijwillige ambtenaar van politie zich gedurende de bij het opleggen van de straf te bepalen termijn niet schuldig maakt aan soortgelijk plichtsverzuim als waarvoor de bestraffing plaatsvindt, noch aan enig ander ernstig plichtsverzuim en zich houdt aan bij het opleggen van de straf eventueel te stellen bijzondere voorwaarden.   
-2.  Indien met toepassing van het eerste lid de straf van ontslag wordt opgelegd, kan tegelijk met deze straf één van de in artikel 27, eerste lid, onderdeel *a*, genoemde straffen worden opgelegd.   
+2.  Indien met toepassing van het eerste lid de straf van ontslag wordt opgelegd, kan tegelijk met deze straf één van de in artikel 27, eerste lid, onderdeel a, genoemde straffen worden opgelegd.   
 
 ### Artikel  29  
 
@@ -295,7 +321,7 @@ c. ontslag.
 
 ### Artikel  30  
 
-1.  De vrijwillige ambtenaar van politie kan niet worden gestraft wegens overtreding van [artikel 125 *a*, eerste lid, van de Ambtenarenwet](../../../../../../wet/ambtenarenwet/BWBR0001947/README.md), dan nadat daarover advies is ingewonnen van de Adviescommissie grondrechten- en functieuitoefening politieambtenaren.   
+1.  De vrijwillige ambtenaar van politie kan niet worden gestraft wegens overtreding van artikel 125 *a*, eerste lid, van de Ambtenarenwet, dan nadat daarover advies is ingewonnen van de Adviescommissie grondrechten- en functieuitoefening politieambtenaren.   
 2.  Het bevoegd gezag geeft bij zijn besluit tot strafoplegging te kennen of dit in overeenstemming is met het ingewonnen advies.   
 
 ### Artikel  31  
@@ -312,7 +338,7 @@ De straf, behalve die van schriftelijke berisping, wordt niet ten uitvoer gelegd
 
 ### Artikel  33  
 
-De vrijwillige ambtenaar van politie is van rechtswege in zijn ambt geschorst wanneer hem rechtmatig zijn vrijheid is ontnomen, tenzij de vrijheidsontneming het gevolg is van een maatregel, anders dan op grond van de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), genomen in het belang van de volksgezondheid.  
+De vrijwillige ambtenaar van politie is van rechtswege in zijn ambt geschorst wanneer hem rechtmatig zijn vrijheid is ontnomen, tenzij de vrijheidsontneming het gevolg is van een maatregel, anders dan op grond van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, genomen in het belang van de volksgezondheid.  
 
 ### Artikel  34  
 
@@ -350,9 +376,20 @@ c. wanneer naar het oordeel van het bevoegd gezag het belang van de dienst dit v
 
 1.  Het bevoegd gezag verleent de vrijwillige ambtenaar, aangesteld voor de uitvoering van de politietaak, ongevraagd eervol ontslag met ingang van de eerste van de maand volgend op die waarin hij de zestigjarige leeftijd bereikt.   
 2.  Het in het eerste lid bedoelde ontslag op zestigjarige leeftijd kan op verzoek van de vrijwillige ambtenaar worden uitgesteld mits is vastgesteld dat hiertegen geen bezwaar bestaat.   
-3.  Voor het vaststellen van het in het tweede lid bedoelde bezwaar zijn de [artikelen 88c](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en [50, eerste lid onderdeel g, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) van overeenkomstige toepassing.   
+3.  Voor het vaststellen van het in het tweede lid bedoelde bezwaar zijn de artikelen 88c en 50, eerste lid onderdeel g, van het Besluit algemene rechtspositie politie van overeenkomstige toepassing.   
 4.  Na het in het tweede lid bedoelde uitstel vindt op aanvraag van de vrijwillige ambtenaar eervol ontslag plaats.   
 5.  Het ontslag, bedoeld in het vierde lid, wordt verleend met ingang van een dag niet vroeger dan een maand en niet later dan drie maanden na de dag waarop de aanvraag om ontslag is ontvangen.   
+
+### Artikel  38a  
+
+1.  Aan de vrijwillige ambtenaar, aangesteld voor de uitvoering van technische, administratieve of andere taken ten dienste van de politie, die tegen het einde van de proeftijd, bedoeld in artikel 3a, eerste lid, onderdeel a, niet voldoet aan de eisen van bekwaamheid of geschiktheid, wordt eervol ontslag verleend met ingang van de dag, volgend op die waarop de proeftijd is verstreken.   
+2.  De vrijwillige ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, die is aangesteld voor onbepaalde tijd, kan ontslag worden verleend, mits een opzegtermijn in acht wordt genomen van: 
+
+a. drie maanden, indien de ambtenaar ten tijde van de opzegging direct daaraan voorafgaand ten minste twaalf maanden ononderbroken in dienst is geweest;  
+
+b. twee maanden, indien de ambtenaar ten tijde van opzegging direct daaraan voorafgaand ten minste zes maanden doch korter dan twaalf maanden ononderbroken in dienst is geweest of  
+
+c. één maand, indien de ambtenaar ten tijde van de opzegging direct daaraan voorafgaand korter dan zes maanden ononderbroken in dienst is geweest.     
 
 ### Artikel  39  
 
@@ -389,7 +426,7 @@ Een vrijwillige ambtenaar van politie kan ook op andere gronden, dan die welke i
 
 ### Artikel  42  
 
-De artikelen 3 en 13 van het Besluit overleg en medezeggenschap 1994 zijn van overeenkomstige toepassing op vrijwillige ambtenaren van politie.  
+Artikel 3 van het Besluit overleg en medezeggenschap politie 1994 is van overeenkomstige toepassing op vrijwillige ambtenaren van politie.  
 
 ### Hoofdstuk  III  
 
@@ -401,8 +438,8 @@ Gedurende de tijd dat de vrijwillige ambtenaar in opleiding de opleiding tot vri
 
 ### Artikel  44  
 
-1.  De [hoofdstukken II](../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) en [III van het Besluit reis-, verblijf- en verhuiskosten politie](../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) zijn van overeenkomstige toepassing op vrijwillige ambtenaren van politie.   
-2.  Het bevoegd gezag kan besluiten om in individuele gevallen af te wijken van de [hoofdstukken II](../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) en [III van het Besluit reis-, verblijf- en verhuiskosten politie](../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md), indien de afwijking strekt tot het vermijden van onbillijkheden van overwegende aard welke uit de toepassing van die regels zouden voortkomen.   
+1.  De hoofdstukken II en III van het Besluit reis-, verblijf- en verhuiskosten politie zijn van overeenkomstige toepassing op vrijwillige ambtenaren van politie.   
+2.  Het bevoegd gezag kan besluiten om in individuele gevallen af te wijken van de hoofdstukken II en III van het Besluit reis-, verblijf- en verhuiskosten politie, indien de afwijking strekt tot het vermijden van onbillijkheden van overwegende aard welke uit de toepassing van die regels zouden voortkomen.   
 
 ### Hoofdstuk  IV  
 
@@ -410,11 +447,11 @@ Gedurende de tijd dat de vrijwillige ambtenaar in opleiding de opleiding tot vri
 
 ### Artikel  45  
 
-Een vrijwillige ambtenaar, aangesteld voor de uitvoering van de politietaak, die op grond van afdeling 1, hoofstuk 2, artikel 1, van de Invoeringswet Politiewet 1993 naar een politieregio dan wel het Korps landelijke politiediensten is overgegaan en die op de dag voorafgaande aan de datum van inwerkingtreding van de [Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md) aanspraken had op grond van de Rechtstoestandsregeling reservepolitie behoudt deze aanspraken.  
+Een vrijwillige ambtenaar, aangesteld voor de uitvoering van de politietaak, die op grond van afdeling 1, hoofstuk 2, artikel 1, van de Invoeringswet Politiewet 1993 naar een politieregio dan wel het Korps landelijke politiediensten is overgegaan en die op de dag voorafgaande aan de datum van inwerkingtreding van de Politiewet 1993 aanspraken had op grond van de Rechtstoestandsregeling reservepolitie behoudt deze aanspraken.  
 
 ### Artikel  46  
 
-De [Algemene termijnenwet](../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is niet van toepassing op de in dit besluit genoemde termijnen.  
+De Algemene termijnenwet is niet van toepassing op de in dit besluit genoemde termijnen.  
 
 ### Artikel  47  
 
@@ -422,11 +459,15 @@ Besluiten, genomen in de periode van 1 april 1994 tot en met de dag voorafgaande
 
 ### Artikel  48  
 
-Degene die in de periode van 1 april 1994 tot en met de dag voorafgaand aan de inwerkingtreding van dit besluit ingevolge een opdracht van het bevoegd gezag werkzaamheden als vrijwillige ambtenaar van politie heeft verricht en in verband met die werkzaamheden aanspraak zou hebben gehad op een uitkering of voorziening als bedoeld in [artikel 47, derde lid, van de Wet rechtspositionele voorzieningen rampbestrijders](../../../../../../wet/wet/rechtspositionele/voorzieningen/rampbestrijders/BWBR0005643/README.md) in het geval deze wet voor hem zou hebben gegolden, heeft, indien hij binnen een jaar na de inwerkingtreding van dit besluit een verzoek om toekenning van een zodanige uitkering of voorziening heeft ingediend, aanspraak op een met bedoelde uitkering of voorziening overeenkomende uitkering of voorziening.  
+Degene die in de periode van 1 april 1994 tot en met de dag voorafgaand aan de inwerkingtreding van dit besluit ingevolge een opdracht van het bevoegd gezag werkzaamheden als vrijwillige ambtenaar van politie heeft verricht en in verband met die werkzaamheden aanspraak zou hebben gehad op een uitkering of voorziening als bedoeld in artikel 47, derde lid, van de Wet rechtspositionele voorzieningen rampbestrijders in het geval deze wet voor hem zou hebben gegolden, heeft, indien hij binnen een jaar na de inwerkingtreding van dit besluit een verzoek om toekenning van een zodanige uitkering of voorziening heeft ingediend, aanspraak op een met bedoelde uitkering of voorziening overeenkomende uitkering of voorziening.  
 
 ### Artikel  49  
 
 Het koninklijk besluit van de Ministers van Justitie en van Binnenlandse Zaken van 25 november 1964, houdende wijziging van het koninklijk besluit van 24 december 1957, *Stb.* 559 en vaststelling van de Rechtstoestandsregeling reservepolitie (*Stb.* 473) wordt ingetrokken.  
+
+### Artikel  49a  
+
+Dit besluit berust op artikel 47, eerste lid, Politiewet 2012.  
 
 ### Artikel  50  
 

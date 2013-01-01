@@ -135,10 +135,6 @@ g. de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../../..
 2.  Indien binnen de in het eerste lid genoemde termijn een voorstel van wet is ingediend inzake de toepasselijkheid van [afdeling 7.1](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ten aanzien van de in het eerste lid bedoelde besluiten, blijft [afdeling 7.1](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in ieder geval buiten toepassing totdat die wet in werking treedt, dan wel tot en met de dag waarop vaststaat dat het voorstel van wet niet tot wet zal worden verheven.   
 3.  Indien op grond van het eerste of het tweede lid [afdeling 7.1](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) buiten toepassing blijft, kan het bestuursorgaan in afwijking van [artikel 4:12 van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) toepassing van de [artikelen 4:7](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:8 van die wet](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) achterwege laten bij een beschikking die strekt tot het vaststellen van een financiële verplichting of aanspraak.   
 
-### Artikel  IVA  
-
-Bevat wijzigingen in andere regelgeving.   
-
 ### Artikel  V  
 
 Voor de bekendmaking van deze wet stelt Onze Minister van Justitie de nummering van de artikelen, afdelingen en titels van [hoofdstuk 8 van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van artikelen, afdelingen, titels en hoofdstukken van de [Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in overeenstemming met de opnieuw vastgestelde nummering daarvan.  

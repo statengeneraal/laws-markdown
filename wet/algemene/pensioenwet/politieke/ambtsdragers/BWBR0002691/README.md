@@ -1711,8 +1711,7 @@ b. ten opzichte van de rechthebbende ouderschap komt vast te staan van een een a
 
 ####Beroep
 
-1.  De besluiten ter uitvoering van deze wet, met uitzondering van de Vijfde Afdeling, worden genomen door Onze Minister.   
-2.  Een belanghebbende kan tegen een besluit op grond van deze wet beroep instellen bij de Centrale Raad van Beroep.   
+De besluiten ter uitvoering van deze wet, met uitzondering van de Vijfde Afdeling, worden genomen door Onze Minister.  
 
 ### Artikel  122  
 
@@ -2455,8 +2454,7 @@ Het bepaalde in artikel 116 is ten aanzien van de in deze afdeling bedoelde pens
 
 ####Beroep
 
-1.  De besluiten ter uitvoering van deze afdeling worden genomen door gedeputeerde staten, het college van burgemeester en wethouders onderscheidenlijk het dagelijks bestuur van het waterschap, tenzij anders is bepaald.   
-2.  Een belanghebbende kan tegen een besluit op grond van deze afdeling beroep instellen bij de Centrale Raad van Beroep.   
+De besluiten ter uitvoering van deze afdeling worden genomen door gedeputeerde staten, het college van burgemeester en wethouders onderscheidenlijk het dagelijks bestuur van het waterschap, tenzij anders is bepaald.  
 
 ### Hoofdstuk  29  
 

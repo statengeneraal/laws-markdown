@@ -149,9 +149,9 @@ De burgemeester heeft recht op een eindejaarsuitkering overeenkomstig de regels 
 
 | Inwonersklasse als bedoeld in artikel 5   | Ambtstoelage per maand  |
 |:---|:---|
-| 1 en 2  | € 331,28  |
-| 3 en 4  | € 345,23  |
-| 5 tot en met 9  | € 356,71  |
+| 1 en 2  | € 338,90  |
+| 3 en 4  | € 353,17  |
+| 5 tot en met 9  | € 364,91  |
 
 2.  De bedragen, genoemd in het eerste lid, worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex, geldend voor de maand september van het voorafgaande kalenderjaar.   
 3.  De burgemeester heeft na eervol ontslag of niet-herbenoeming voor een periode van drie maanden aanspraak op een ambtstoelage ter hoogte van de helft van het voor hem bij ontslag of niet-herbenoeming geldende bedrag.   

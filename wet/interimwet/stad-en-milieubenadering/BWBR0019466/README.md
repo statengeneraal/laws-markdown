@@ -242,15 +242,10 @@ b. het toepassen van [artikel 2.31, eerste lid, onder b, en tweede lid, onder b,
 
 ####Beroep
 
-### Artikel  18  
-
-Tegen een besluit als bedoeld in de artikelen 2 en 3 kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.  
-
 ### Artikel  19  
 
-1.  Tegen een besluit omtrent goedkeuring van een besluit als bedoeld in artikel 9 kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
-2.  Voor de mogelijkheid van beroep ingevolge [hoofdstuk 8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden als één besluit aangemerkt een besluit als bedoeld in artikel 9 en een reconstructieplan of een gewijzigd reconstructieplan. [Artikel 29, tweede lid, van de Reconstructiewet concentratiegebieden](../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) is van overeenkomstige toepassing.   
-3.  Het beroep tegen een besluit ter uitvoering van een besluit als bedoeld in artikel 9 kan geen grond vinden in bedenkingen tegen het laatstbedoelde besluit.   
+1.  Voor de mogelijkheid van beroep ingevolge [hoofdstuk 8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden als één besluit aangemerkt een besluit als bedoeld in artikel 9 en een reconstructieplan of een gewijzigd reconstructieplan. [Artikel 29, tweede lid, van de Reconstructiewet concentratiegebieden](../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) is van overeenkomstige toepassing.   
+2.  Het beroep tegen een besluit ter uitvoering van een besluit als bedoeld in artikel 9 kan geen grond vinden in bedenkingen tegen het laatstbedoelde besluit.   
 
 ### §  8  
 

@@ -20,7 +20,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister voor Wonen, Wijken en Integratie;  
+a. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
 
 b. woonruimte: besloten ruimte die, al dan niet te zamen met een of meer andere ruimten, bestemd of geschikt is voor bewoning door een huishouden;  
 
@@ -80,7 +80,7 @@ b. een ligplaats.
 
 1.  Indien een gemeente met een eigenaar van een of meer woonruimten een overeenkomst sluit over het in gebruik geven daarvan, is artikel 2, tweede lid, van overeenkomstige toepassing op de in zodanige overeenkomst op te nemen bepalingen.   
 2.  Indien een gemeente een of meer overeenkomsten sluit, als bedoeld in het eerste lid, draagt zij er zorg voor, dat een belanghebbende bij een besluit ter uitvoering van zodanige overeenkomst, daarover zijn beklag kan doen bij een daartoe door burgemeester en wethouders ingestelde commissie, die haar taak onafhankelijk van de gemeente en van de betrokken eigenaar of eigenaren van woonruimte verricht. Een overeenkomst als bedoeld in het eerste lid, dient een bepaling te bevatten, er toe strekkende dat de uitspraken van de in de eerste volzin bedoelde commissie, voor zover zij betrekking hebben op de uitvoering van die overeenkomst, partijen bij de overeenkomst tot bindend advies strekken.   
-3.  Bij de uitvoering van een overeenkomst als bedoeld in het eerste lid worden de ingevolge artikel 61 ter zake van de woonruimteverdeling vastgestelde richtlijnen en de ingevolge artikel 67 of artikel 68 ter zake van de woonruimteverdeling gegeven aanwijzingen in acht genomen. Op de criteria die worden toegepast bij het in gebruik geven van woonruimten waarop de overeenkomst betrekking heeft, zijn de krachtens artikel 13 en in de artikelen 13a tot en met 13c gestelde regels van overeenkomstige toepassing.   
+3.  Bij de uitvoering van een overeenkomst als bedoeld in het eerste lid worden de ingevolge artikel 68 ter zake van de woonruimteverdeling gegeven aanwijzingen in acht genomen. Op de criteria die worden toegepast bij het in gebruik geven van woonruimten waarop de overeenkomst betrekking heeft, zijn de krachtens artikel 13 en in de artikelen 13a tot en met 13c gestelde regels van overeenkomstige toepassing.   
 
 ### Hoofdstuk  II  
 
@@ -113,7 +113,7 @@ b. andere woonruimten dan bedoeld onder *a*.
 a. voor de aanwijzing van woonruimten als bedoeld in dat lid, onder *a*: het in de betrokken gemeente geldende hoogste bedrag voor de koopsom van een woonruimte, voor het verkrijgen in eigendom waarvan aan degene die zodanige woonruimte als eigenaar zal bewonen, afhankelijk van de hoogte van diens inkomen, krachtens wettelijk voorschrift van overheidswege subsidie kan worden verstrekt;  
 
 b. voor de aanwijzing van woonruimten als bedoeld in dat lid, onder *b*: een twaalfde deel van het bedrag, op het tijdstip van de aanwijzing genoemd in artikel 16 van de Wet individuele huursubsidie (*Stb.* 1990, 394), dan wel het bedrag op het tijdstip van de aanwijzing genoemd in [artikel 13, eerste lid, onder a, van de Huursubsidiewet](../../../wet/huursubsidiewet/BWBR0008659/README.md) dan wel de [Wet op de huurtoeslag](../../../wet/huursubsidiewet/BWBR0008659/README.md).     
-4.  In afwijking van het bepaalde in het tweede lid, kunnen woonruimten als daar bedoeld worden aangewezen, voor zover zodanige aanwijzing in het belang van een evenwichtige en rechtvaardige verdeling van woonruimte noodzakelijk is in verband met uit bovengemeentelijk ruimtelijk beleid voortvloeiende geringe mogelijkheden tot uitbreiding van de woonruimtevoorraad in de betrokken gemeente of in een of meer kernen, behorend tot die gemeente. Zodanige aanwijzing behoeft de goedkeuring van gedeputeerde staten.   
+4.  In afwijking van het bepaalde in het tweede lid, kunnen woonruimten als daar bedoeld worden aangewezen, voor zover zodanige aanwijzing in het belang van een evenwichtige en rechtvaardige verdeling van woonruimte noodzakelijk is in verband met uit bovengemeentelijk ruimtelijk beleid voortvloeiende geringe mogelijkheden tot uitbreiding van de woonruimtevoorraad in de betrokken gemeente of in een of meer kernen, behorend tot die gemeente.   
 
 ### Artikel  7  
 
@@ -164,27 +164,11 @@ Bij algemene maatregel van bestuur kunnen met het oog op de bescherming van daar
 
 ### Artikel  13a  
 
-1.  De gemeenteraad kan voor zover dit noodzakelijk is met het oog op een evenwichtige en rechtvaardige verdeling van woonruimte in de huisvestingsverordening criteria vaststellen voor de verlening van huisvestingsvergunningen, waarbij onderscheid kan worden gemaakt tussen woningzoekenden die al of niet een economische of maatschappelijke binding hebben aan een in die verordening aangeduide regio.   
-2.  Indien de gemeenteraad toepassing geeft aan het eerste lid behoeft de vaststelling van die criteria voorafgaande toestemming van gedeputeerde staten.   
-3.  Gedeputeerde staten kunnen hun toestemming slechts onthouden indien naar hun oordeel: 
-
-a. het aangeduide gebied niet kan worden aangemerkt als een regio in de zin van artikel 1, eerste lid, onderdeel n;  
-
-b. het beoogde onderscheid onnodig belemmerend zou zijn voor de huisvestingsmogelijkheden van woningzoekenden die geen economische of maatschappelijke binding hebben met de regio, mede gelet op de huisvestingsmogelijkheden voor deze woningzoekenden in andere delen van de betrokken regio, of  
-
-c. het beoogde onderscheid onvoldoende is afgestemd op het bovengemeentelijke ruimtelijke beleid of op het huisvestingsbeleid van andere gemeenten.     
-4.  Het tweede lid is niet van toepassing voor zover een onderscheid als bedoeld in het eerste lid, is voorgeschreven in, dan wel uitdrukkelijk is toegelaten bij een beleidsregel als bedoeld in artikel 61.   
+De gemeenteraad kan voor zover dit noodzakelijk is met het oog op een evenwichtige en rechtvaardige verdeling van woonruimte in de huisvestingsverordening criteria vaststellen voor de verlening van huisvestingsvergunningen, waarbij onderscheid kan worden gemaakt tussen woningzoekenden die al of niet een economische of maatschappelijke binding hebben aan een in die verordening aangeduide regio.  
 
 ### Artikel  13b  
 
-1.  De gemeenteraad kan voor zover dit noodzakelijk is met het oog op een evenwichtige en rechtvaardige verdeling van woonruimte in verband met uit bovengemeentelijk ruimtelijk beleid voortvloeiende geringe mogelijkheden tot uitbreiding van de woonruimtevoorraad in de betrokken gemeente of kern, in de huisvestingsverordening criteria vaststellen voor de verlening van huisvestingsvergunningen, waarbij onderscheid kan worden gemaakt tussen woningzoekenden die al of niet een economische of maatschappelijke binding hebben aan de gemeente of aan een tot de gemeente behorende kern.   
-2.  Indien de gemeenteraad toepassing geeft aan het eerste lid, behoeft de vaststelling van die criteria voorafgaande toestemming van gedeputeerde staten.   
-3.  Gedeputeerde staten kunnen hun toestemming slechts onthouden, indien het beoogde onderscheid naar hun oordeel: 
-
-a. onnodig belemmerend zou zijn voor de huisvestingsmogelijkheden van woningzoekenden die geen economische of maatschappelijke binding hebben met de gemeente of kern, mede gelet op de huisvestingsmogelijkheden voor deze woningzoekenden in andere delen van de betrokken regio, of  
-
-b. onvoldoende is afgestemd op het bovengemeentelijke ruimtelijke beleid of op het huisvestingsbeleid van andere gemeenten.     
-4.  Het tweede lid is niet van toepassing voor zover een onderscheid als bedoeld in het eerste lid is voorgeschreven in, dan wel uitdrukkelijk is toegelaten bij een beleidsregel als bedoeld in artikel 61.   
+De gemeenteraad kan voor zover dit noodzakelijk is met het oog op een evenwichtige en rechtvaardige verdeling van woonruimte in verband met uit bovengemeentelijk ruimtelijk beleid voortvloeiende geringe mogelijkheden tot uitbreiding van de woonruimtevoorraad in de betrokken gemeente of kern, in de huisvestingsverordening criteria vaststellen voor de verlening van huisvestingsvergunningen, waarbij onderscheid kan worden gemaakt tussen woningzoekenden die al of niet een economische of maatschappelijke binding hebben aan de gemeente of aan een tot de gemeente behorende kern.  
 
 ### Artikel  13c  
 
@@ -199,7 +183,7 @@ c. aan wie op grond van een asielverzoek een van de verblijfsvergunningen, bedoe
 d. die na echtscheiding, scheiding van tafel en bed of ontbinding van het huwelijk na scheiding van tafel en bed, in verband met die omstandigheid dringend woonruimte behoeven, of  
 
 e. die een procedure tot echtscheiding, scheiding van tafel en bed of ontbinding van het huwelijk na scheiding van tafel en bed aanhangig hebben gemaakt en een voorlopige voorziening als bedoeld in [artikel 822](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [823 van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) hebben verkregen, indien zij in verband met die omstandigheid dringend woonruimte behoeven.     
-2.  Voor zover dat in het belang van een evenwichtige en rechtvaardige verdeling van woonruimte noodzakelijk is in verband met uit bovengemeentelijk ruimtelijk beleid voortvloeiende geringe mogelijkheden tot uitbreiding van de woonruimtevoorraad in de gemeente of in een of meer kernen, behorend tot de gemeente, kunnen gedeputeerde staten bij het verlenen van toestemming als bedoeld in artikel 13b, tweede lid, onderscheidenlijk provinciale staten bij een beleidsregel als bedoeld in artikel 61, toestaan dat wordt afgeweken van het bepaalde in het eerste lid, onder *a, b, d* en *e*.   
+2.  Voor zover dat in het belang van een evenwichtige en rechtvaardige verdeling van woonruimte noodzakelijk is in verband met uit bovengemeentelijk ruimtelijk beleid voortvloeiende geringe mogelijkheden tot uitbreiding van de woonruimtevoorraad in de gemeente of in een of meer kernen, behorend tot de gemeente, kan de gemeenteraad afwijken van het bepaalde in het eerste lid, onder a, b, d en e.   
 
 ### §  4  
 
@@ -452,10 +436,9 @@ d. de tijdsduur waarvoor gevorderd wordt.
 
 ### Artikel  44  
 
-1.  Tegen een besluit tot vordering als bedoeld in artikel 40, eerste lid, kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
-2.  [Artikel 7:1](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [titel 8.3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) blijven buiten toepassing.   
-3.  De werking van het in het eerste lid bedoelde besluit wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.   
-4.  De Afdeling behandelt de zaak met toepassing van [afdeling 8.2.3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en doet uiterlijk acht weken na de dag waarop het beroepschrift is ontvangen, uitspraak. Blijkt aan de Afdeling dat de zaak een gewone behandeling vordert, dan doet zij binnen dertien weken uitspraak.   
+1.  Bij een beroep tegen een besluit tot vordering als bedoeld in artikel 40, eerste lid, blijft [titel 8.3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) buiten toepassing.   
+2.  De werking van het in het eerste lid bedoelde besluit wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.   
+3.  De Afdeling behandelt de zaak met toepassing van [afdeling 8.2.3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en doet uiterlijk acht weken na de dag waarop het beroepschrift is ontvangen, uitspraak. Blijkt aan de Afdeling dat de zaak een gewone behandeling vordert, dan doet zij binnen dertien weken uitspraak.   
 
 ### Artikel  45  
 
@@ -585,7 +568,7 @@ b. taakstelling: het aantal in opvangcentra of op gemeentelijke opvangplaatsen v
 
 - met de letter b: het aantal inwoners van Nederland volgens de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfer per 1 januari van het jaar dat voorafgaat aan het jaar waartoe het kalenderhalfjaar, bedoeld bij de letter c, behoort;  
 
-- met de letter c: het door Onze Minister van Justitie in de *Staatscourant* bekendgemaakte totale aantal verblijfsgerechtigden in wier huisvesting in het bij die bekendmaking aan te geven kalenderhalfjaar naar verwachting zal dienen te worden voorzien.     
+- met de letter c: het door Onze Minister voor Immigratie en Asiel in de *Staatscourant* bekendgemaakte totale aantal verblijfsgerechtigden in wier huisvesting in het bij die bekendmaking aan te geven kalenderhalfjaar naar verwachting zal dienen te worden voorzien.     
 3.  Gedeputeerde staten van de betrokken provincie of de betrokken provincies zijn bevoegd het aantal inwoners van een gemeente per 1 januari van het jaar dat voorafgaat aan het jaar waartoe het kalenderhalfjaar, bedoeld in het tweede lid bij de letter c, behoort, vast te stellen voor de gemeenten die zijn betrokken bij een wijziging van de gemeentelijke indeling en waarvoor de datum van herindeling is gelegen op 1 januari van laatstbedoeld jaar. Bij deze vaststelling wordt zo veel mogelijk rekening gehouden met de inwonertallen van de samenstellende delen van de bij een wijziging van de gemeentelijke indeling betrokken gemeenten. Een vaststelling per 1 januari van het in de eerste volzin eerstbedoelde jaar wordt vóór 1 oktober van dat jaar bekendgemaakt in de *Staatscourant*.   
 4.  De bekendmaking, bedoeld in het tweede lid bij de letter c, geschiedt ten minste dertien weken voor de aanvang van het kalenderhalfjaar waarop zij betrekking heeft.   
 5.  De met toepassing van de formule, bedoeld in het tweede lid, verkregen uitkomst wordt naar boven afgerond op een geheel getal.   
@@ -594,26 +577,14 @@ b. taakstelling: het aantal in opvangcentra of op gemeentelijke opvangplaatsen v
 
 Gedeputeerde staten zijn bevoegd taakstellingen die volgen uit de toepassing van de formule, bedoeld in artikel 60b, tweede lid, te wijzigen, voor zover de verwezenlijking van het bovengemeentelijke ruimtelijke beleid of volkshuisvestingsbeleid of de samenhang tussen het door gemeenten gevoerde volkshuisvestingsbeleid dat vordert, met dien verstande dat de som van de aantallen verblijfsgerechtigden in wier huisvesting na die wijziging in de betrokken gemeenten te zamen dient te worden voorzien, niet afwijkt van de som van de aantallen die worden verkregen met toepassing van de formule, bedoeld in artikel 60b, tweede lid.  
 
-### Artikel  60e  
-
-1.  Indien burgemeester en wethouders geheel of gedeeltelijk nalaten uitvoering te geven aan de verplichting, bedoeld in artikel 60b, eerste lid, voorzien gedeputeerde staten in de uitvoering namens burgemeester en wethouders en ten laste van de gemeente.   
-2.  Alvorens toepassing te geven aan het eerste lid plegen gedeputeerde staten overleg met burgemeester en wethouders van de betrokken gemeente en stellen zij burgemeester en wethouders een termijn, waarbinnen zij alsnog zelf in de uitvoering van de verplichting, bedoeld in artikel 60b, eerste lid, kunnen voorzien, tenzij de geboden spoed zich daartegen verzet. De termijn, bedoeld in de eerste volzin, bedraagt ten hoogste zes maanden gerekend vanaf het einde van het kalenderhalfjaar waarop die verplichting van toepassing was.   
-3.  Indien gedeputeerde staten geheel of gedeeltelijk nalaten uitvoering te geven aan de verplichting, bedoeld in artikel 60b, eerste lid, voorziet Onze Minister in de uitvoering van die verplichting namens gedeputeerde staten en ten laste van de provincie.   
-4.  Alvorens toepassing te geven aan het derde lid pleegt Onze Minister overleg met gedeputeerde staten en stelt hij gedeputeerde staten een termijn, waarbinnen zij alsnog in de uitvoering van die verplichting kunnen voorzien, tenzij de geboden spoed zich daartegen verzet. Het tweede lid is niet van toepassing.   
-
-### Artikel  60f  
-
-1.  Burgemeester en wethouders brengen binnen vier weken na afloop van het kalenderhalfjaar aan gedeputeerde staten verslag uit over de voortgang van de uitvoering van de verplichting, bedoeld in artikel 60b, eerste lid, met toezending van een afschrift van dat verslag aan Onze Minister van Justitie. Burgemeester en wethouders verstrekken daarbij tevens inzicht in de maatregelen die worden voorbereid of zijn genomen teneinde geheel uitvoering te geven aan de bedoelde verplichting.   
-2.  Gedeputeerde staten brengen binnen acht weken na afloop van het kalenderhalfjaar aan Onze Minister gemotiveerd verslag uit over het al dan niet toepassen van artikel 60c of artikel 60e, eerste en tweede lid, met toezending van een afschrift van dat verslag aan Onze Minister van Justitie.   
-
 ### Artikel  60g  
 
-1.  Het dagelijks bestuur van een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat, treedt voor de toepassing van de artikelen 60c, 60e en 60f in de plaats van gedeputeerde staten.   
+1.  Het dagelijks bestuur van een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat, treedt voor de toepassing van artikel 60c in de plaats van gedeputeerde staten.   
 2.  De [artikelen 116](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) en [117 van de Wet gemeenschappelijke regelingen](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) zijn niet van toepassing.   
 
 ### §  2  
 
-####Provinciale beleidsregels en aanwijzingen
+####Provinciale beleidsregels
 
 ### Artikel  61  
 
@@ -627,26 +598,9 @@ Bij de voorbereiding van een beleidsregel als bedoeld in artikel 61 plegen gedep
 
 Tegelijkertijd met de bekendmaking van een beleidsregel doen gedeputeerde staten daarvan mededeling aan Onze Minister.  
 
-### Artikel  64  
-
-1.  Voor zover zulks ter verwezenlijking van een beleidsregel noodzakelijk is, kunnen gedeputeerde staten de gemeenteraad respectievelijk het college van burgemeester en wethouders waarop de beleidsregel betrekking heeft, een aanwijzing geven.   
-2.  Alvorens een aanwijzing te geven plegen gedeputeerde staten overleg met burgemeester en wethouders van de betrokken gemeente.   
-
-### Artikel  65  
-
-Tegelijkertijd met de bekendmaking van een aanwijzing doen gedeputeerde staten daarvan mededeling aan provinciale staten en aan Onze Minister.  
-
-### Artikel  66  
-
-De gemeenteraad respectievelijk het college van burgemeester en wethouders is verplicht aan een aanwijzing gevolg te geven.  
-
 ### §  3  
 
-####Ministeriële aanwijzingen
-
-### Artikel  67  
-
-Indien in een gemeente bij het in gebruik geven van in die gemeente gelegen woonruimten met een verhoudingsgewijs lage prijs naar het oordeel van Onze Minister met het oog op een evenwichtige en rechtvaardige verdeling van woonruimte in onvoldoende mate voorrang wordt gegeven aan woningzoekenden die, gelet op hun inkomen, in het bijzonder op die woonruimten zijn aangewezen, kan hij het bestuur van die gemeente, zo nodig in afwijking van een beleidsregel als bedoeld in artikel 61, een aanwijzing geven met betrekking tot de in de hoofdstukken I, II en III geregelde onderwerpen.  
+####Ministeriële regels
 
 ### Artikel  68  
 
@@ -656,11 +610,7 @@ Indien in een gemeente bij het in gebruik geven van in die gemeente gelegen woon
 
 ### Artikel  69  
 
-Alvorens een aanwijzing te geven pleegt Onze Minister overleg met burgemeester en wethouders van de betrokken gemeente. Indien een aanwijzing als bedoeld in artikel 67 afwijkt van een beleidsregel als bedoeld in artikel 61, pleegt hij tevens vooraf overleg met gedeputeerde staten van de betrokken provincie.  
-
-### Artikel  70  
-
-De gemeenteraad respectievelijk het college van burgemeester en wethouders is verplicht aan een aanwijzing gevolg te geven.  
+Alvorens toepassing te geven aan artikel 68, tweede lid, pleegt Onze Minister overleg met het college van burgemeester en wethouders van de betrokken gemeente. Indien een aanwijzing als bedoeld in artikel 67 afwijkt van een beleidsregel als bedoeld in artikel 61, pleegt hij tevens vooraf overleg met gedeputeerde staten van de betrokken provincie.  
 
 ### Hoofdstuk  VI  
 
@@ -701,12 +651,6 @@ De gemeenteraad respectievelijk het college van burgemeester en wethouders is ve
 ### Artikel  77  
 
 De toezichthouder is bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.  
-
-### Artikel  78  
-
-1.  Met het toezicht op de uitvoering en de handhaving van het bij of krachtens deze wet bepaalde zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.   
-2.  De [artikelen 5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:16](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:17](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
-3.  Onze Minister kan bij ministeriële regeling bepalen dat bestuursorganen die met de uitvoering of de handhaving van het bij of krachtens deze wet bepaalde zijn belast, daarbij aan te geven gegevens verstrekken aan de krachtens het eerste lid aangewezen ambtenaren. Bij de regeling kunnen regels worden gesteld met betrekking tot het tijdstip waarop, de frequentie waarmee en de vorm waarin de gegevens worden verstrekt. Tevens kan bij de regeling worden bepaald dat daarbij gestelde regels slechts gelden in daarbij aangegeven gevallen.   
 
 ### Hoofdstuk  VIII  
 

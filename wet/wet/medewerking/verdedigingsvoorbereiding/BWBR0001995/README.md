@@ -75,10 +75,6 @@ f. het gedoogen van het treffen van eenvoudige, bij algemeenen maatregel van bes
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.   
 3.  De toezichthouder beschikt niet over de bevoegdheden, genoemd in de [artikelen 5:15](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:18](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 
-### Artikel  8  
-
-Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.  
-
 ### Artikel  9  
 
 De kosten, verbonden aan de in deze wet bedoelde medewerking, zullen niet worden vergoed, tenzij de daarbij betrokken Minister anders bepaalt.  

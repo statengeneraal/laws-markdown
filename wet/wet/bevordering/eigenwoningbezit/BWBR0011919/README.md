@@ -77,13 +77,13 @@ b. degene die gezamenlijk met de eigenaar-bewoner de woning bewoont en daarin me
 2.  Naast de eigenaar-bewoner kan slechts één andere persoon tot diens huishouden behoren.   
 3.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. eenpersoonshuishouden: het huishouden van een eigenaar-bewoner die jonger dan 65 jaar was op de datum van de offerte voor een hypothecaire lening ter verkrijging van de onder auspiciën van de Stichting Waarborgfonds Eigen Woningen ontwikkelde Nationale Hypotheek Garantie, en waartoe geen persoon behoort als bedoeld in het eerste lid, onder a en b;  
+a. eenpersoonshuishouden: het huishouden van een eigenaar-bewoner die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet had bereikt op de datum van de offerte voor een hypothecaire lening ter verkrijging van de onder auspiciën van de Stichting Waarborgfonds Eigen Woningen ontwikkelde Nationale Hypotheek Garantie, en waartoe geen persoon behoort als bedoeld in het eerste lid, onder a en b;  
 
-b. tweepersoonshuishouden: het huishouden van een eigenaar-bewoner waartoe een persoon behoort als bedoeld in het eerste lid, onder a en b, als het aandeel in het toetsinkomen, afkomstig van degenen die op de datum van de offerte voor een hypothecaire lening ter verkrijging van de onder auspiciën van de Stichting Waarborgfonds Eigen Woningen ontwikkelde Nationale Hypotheek Garantie 65 jaar of ouder waren, de helft of minder bedraagt;  
+b. tweepersoonshuishouden: het huishouden van een eigenaar-bewoner waartoe een persoon behoort als bedoeld in het eerste lid, onder a en b, als het aandeel in het toetsinkomen, afkomstig van degenen die op de datum van de offerte voor een hypothecaire lening ter verkrijging van de onder auspiciën van de Stichting Waarborgfonds Eigen Woningen ontwikkelde Nationale Hypotheek Garantie de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), hadden bereikt, de helft of minder bedraagt;  
 
-c. eenpersoonsouderenhuishouden: het huishouden van een eigenaar-bewoner die 65 jaar of ouder was op de datum van de offerte voor een hypothecaire lening ter verkrijging van de onder auspiciën van de Stichting Waarborgfonds Eigen Woningen ontwikkelde Nationale Hypotheek Garantie, en waartoe geen persoon behoort als bedoeld in het eerste lid, onder a en b;  
+c. eenpersoonsouderenhuishouden: het huishouden van een eigenaar-bewoner die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), had bereikt op de datum van de offerte voor een hypothecaire lening ter verkrijging van de onder auspiciën van de Stichting Waarborgfonds Eigen Woningen ontwikkelde Nationale Hypotheek Garantie, en waartoe geen persoon behoort als bedoeld in het eerste lid, onder a en b;  
 
-d. tweepersoonsouderenhuishouden: het huishouden van een eigenaar-bewoner waartoe een persoon behoort als bedoeld in het eerste lid, onder a en b, als het aandeel in het toetsinkomen, afkomstig van degenen die op de datum van de offerte voor een hypothecaire lening ter verkrijging van de onder auspiciën van de Stichting Waarborgfonds Eigen Woningen ontwikkelde Nationale Hypotheek Garantie 65 jaar of ouder waren, meer dan de helft bedraagt.     
+d. tweepersoonsouderenhuishouden: het huishouden van een eigenaar-bewoner waartoe een persoon behoort als bedoeld in het eerste lid, onder a en b, als het aandeel in het toetsinkomen, afkomstig van degenen die op de datum van de offerte voor een hypothecaire lening ter verkrijging van de onder auspiciën van de Stichting Waarborgfonds Eigen Woningen ontwikkelde Nationale Hypotheek Garantie de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), hadden bereikt, meer dan de helft bedraagt.     
 
 ### Artikel  3  
 
@@ -198,7 +198,7 @@ c. omdat in een bestaande woning achterstallig onderhoud wordt verricht.
 
 1.  Voor een primaire toekenning is vereist dat: 
 
-a. de koopsom van de woning niet hoger is dan € 168.950, en  
+a. de koopsom van de woning niet hoger is dan € 172.750, en  
 
 b. het bedrag van de hypothecaire lening niet hoger is dan het bedrag, genoemd onder a, vermeerderd met 8 procent.     
 2.  Het in het eerste lid, onder a, genoemde bedrag wordt met ingang van 1 januari van elk jaar gewijzigd overeenkomstig artikel 41.   
@@ -290,9 +290,9 @@ d. voor eenpersoonsouderenhuishoudens en tweepersoonsouderenhuishoudens, indien 
 1.  De financieringslastnorm wordt bij ministeriële regeling vastgesteld.   
 2.  Bij ministeriële regeling wordt een opslagpercentage vastgesteld. Dat percentage wordt: 
 
-a. bij toetsinkomens van € 31.800 of meer zodanig vastgesteld dat met gebruikmaking daarvan een hypothecaire lening in de vorm van een annuïteitenhypotheek kan worden afgesloten ter hoogte van het bedrag, bedoeld in artikel 15, eerste lid, onder b, dan wel  
+a. bij toetsinkomens van € 32.525 of meer zodanig vastgesteld dat met gebruikmaking daarvan een hypothecaire lening in de vorm van een annuïteitenhypotheek kan worden afgesloten ter hoogte van het bedrag, bedoeld in artikel 15, eerste lid, onder b, dan wel  
 
-b. bij toetsinkomens van minder dan € 31.800 zodanig vastgesteld dat dit percentage overeenkomt met het ingevolge onderdeel a vastgestelde percentage dat geldt bij een toetsinkomen van € 31.800.     
+b. bij toetsinkomens van minder dan € 32.525 zodanig vastgesteld dat dit percentage overeenkomt met het ingevolge onderdeel a vastgestelde percentage dat geldt bij een toetsinkomen van € 32.525.     
 3.  De in het eerste en tweede lid bedoelde percentages kunnen bij ministeriële regeling worden gewijzigd als daartoe aanleiding bestaat als gevolg van de ontwikkeling van het rentetarief, bedoeld in artikel 26, eerste lid.   
 4.  Het in het tweede lid genoemde bedrag wordt met ingang van 1 januari van elk jaar gewijzigd overeenkomstig artikel 41.   
 5.  Met het oog op de uitvoering van het eerste en tweede lid worden bij ministeriële regeling de toetsinkomens in inkomensklassen verdeeld, waarbij de toetsrente, de maximale hypothecaire lening, de daarbij behorende financieringslastnorm en het daarbij behorende percentage, bedoeld in het tweede lid, worden vermeld.   

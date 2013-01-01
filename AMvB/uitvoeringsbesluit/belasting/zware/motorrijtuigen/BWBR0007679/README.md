@@ -66,11 +66,11 @@ b. het motorrijtuig is voorzien van:
 - ten minste aan weerszijden één of meer duidelijk zichtbare afbeeldingen van een brandweerembleem dan wel in voorkomend geval van een gemeentewapen, welke afbeeldingen alle een oppervlakte hebben van ten minste 314 cm <sup>2</sup>; en    
 
 c. het motorrijtuig uitsluitend wordt gebruikt door brandweerlieden voor de uitoefening van hun brandweertaak.     
-3.  Onder brandweer-instantie wordt mede begrepen een bedrijf dat beschikt over een eigen bedrijfsbrandweer.   
+3.  Onder brandweer-instantie wordt mede begrepen een aangewezen inrichting als bedoeld in [artikel 31 van de Wet veiligheidsregio’s](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md).   
 
 ### Artikel  5  
 
-Vrijstelling van belasting wordt verleend voor motorrijtuigen die behoren tot een bedrijfsvoorraad als bedoeld in [artikel 2, onderdeel *g*, van de Wet op de motorrijtuigenbelasting 1994](../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), mits met die motorrijtuigen slechts van de autosnelweg gebruik wordt gemaakt met een ten behoeve van die motorrijtuigen opgegeven kenteken als bedoeld in [artikel 37, derde lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en met die motorrijtuigen niet bedrijfsmatig goederen worden vervoerd.  
+Vrijstelling van belasting wordt verleend voor motorrijtuigen die behoren tot een bedrijfsvoorraad als bedoeld in [artikel 2, onderdeel i, van de Wet op de motorrijtuigenbelasting 1994](../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), mits met die motorrijtuigen slechts van de autosnelweg gebruik wordt gemaakt met een ten behoeve van die motorrijtuigen opgegeven kenteken als bedoeld in [artikel 37, derde lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en met die motorrijtuigen niet bedrijfsmatig goederen worden vervoerd.  
 
 ### Artikel  6  
 

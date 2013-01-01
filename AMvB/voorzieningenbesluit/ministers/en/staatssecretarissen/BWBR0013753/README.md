@@ -90,7 +90,7 @@ Ministers en staatssecretarissen hebben recht op de vergoeding van gemaakte kost
 ### Artikel  7  
 
 1.  Ministers en staatssecretarissen hebben voor de duur van de vervulling van hun ambt een dienstauto met chauffeur ter beschikking.   
-2.  De prijs per kilometer van de dienstauto bedraagt niet meer dan € 0,60 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar.   
+2.  De prijs per kilometer van de dienstauto bedraagt niet meer dan € 0,62 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar.   
 3.  Het bedrag, genoemd in het tweede lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van het prijsindexcijfer jaargemiddelde operationele autolease inclusief brandstof, zoals door het Centraal Bureau voor de Statistiek gepubliceerd, over het tweede kalenderjaar voorafgaand aan genoemde datum ten opzichte van hetzelfde indexcijfer over het jaar daaraan voorafgaand.   
 4.  De prijs per kilometer wordt berekend aan de hand van de formule (((n / (l/12)) + o + f + g + h + p) / m) + i waarin: n = (((a-c)/1,19) + (b/1,19) + c) – (d/1,19) afschrijving over looptijd (inclusief BPM en exclusief BTW); o = ((d/1,19) x e) + ((n/2) x e) rente per jaar; p = ((k/1,19) x (m/100) x j) brandstofkosten per jaar; en: a = consumentenprijs inclusief accessoires af fabriek (inclusief BPM en BTW); b = consumentenprijs van accessoires achteraf en/of door derden (inclusief BTW); c = totale BPM; d = totale marktconforme restwaarde inclusief BTW en BPM; e = rentetarief in procenten; f = administratiekosten inclusief management fee per jaar doch exclusief BTW (of interne kosten ingeval niet wordt uitbesteed); g = houderschapsbelasting per jaar; h = het in het kader van het omslagstelsel door het Bureau Schade Afwikkeling vastgestelde bedrag; i = ROB exclusief BTW; j = brandstofverbruik in liters per 100 kilometer; k = tarief bij brandstofsoort inclusief BTW; l = looptijd in maanden; m = jaarkilometrage.   
 5.  De dienstauto wordt slechts in gebruik genomen nadat is vastgesteld dat aan de voorschriften van het tweede tot en met vierde lid is voldaan, tenzij afwijking van deze voorschriften noodzakelijk is om redenen van veiligheid of wegens een individuele werkplekanalyse, verricht of getoetst door een deskundige persoon als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). [Artikel 14, tweede lid, onderdelen b en c, van de Arbeidsomstandighedenwet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) is in het tweede geval van overeenkomstige toepassing.   
@@ -113,13 +113,13 @@ Aan ministers en staatssecretarissen worden de overige voorzieningen ter beschik
 1.  Ministers en staatssecretarissen ontvangen een maandelijkse vergoeding voor de kosten van voorzieningen die voor hun eigen rekening komen en door hen mede worden aangewend ten behoeve van de vervulling van hun ambt.   
 2.  De maandelijkse vergoeding, bedoeld in het eerste lid, bedraagt 
 
-a. voor Onze Minister-President, Minister van Algemene Zaken € 657,27;  
+a. voor Onze Minister-President, Minister van Algemene Zaken € 672,39;  
 
-b. voor Onze Minister van Buitenlandse Zaken € 657,27;  
+b. voor Onze Minister van Buitenlandse Zaken € 672,39;  
 
-c. voor een andere Minister € 328,63;  
+c. voor een andere Minister € 336,19;  
 
-d. voor een Staatssecretaris € 273,50.     
+d. voor een Staatssecretaris € 279,79.     
 3.  De maandelijkse vergoeding, bedoeld in het eerste lid, wordt aangewezen als een eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
 4.  De in het tweede lid genoemde bedragen worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd voor zover de consumentenprijsindex, geldend voor de maand september van het voorafgaande jaar, daartoe aanleiding geeft.   
 

@@ -27,6 +27,15 @@ Dit besluit verstaat onder wet: [Wet op belastingen van rechtsverkeer](../../../
 
 De waarde van een canon, een retributie of een huur als is bedoeld in [artikel 11 van de wet](../../../../../../wet/wet/op/belastingen/van/rechtsverkeer/BWBR0002740/README.md), wordt bepaald met inachtneming van de bij dit besluit behorende bijlage.  
 
+### Artikel  3  
+
+De termijn van zes maanden, genoemd in [artikel 13, eerste lid, van de wet](../../../../../../wet/wet/op/belastingen/van/rechtsverkeer/BWBR0002740/README.md), wordt verruimd tot 36 maanden indien de vorige verkrijging door een ander heeft plaatsgevonden tussen 31 augustus 2012 en 1 januari 2015.  
+
+### Artikel  3a  
+
+1.  De termijn waarbinnen de verkrijging plaatsvindt, bedoeld in [artikel 15, zesde lid, van de wet](../../../../../../wet/wet/op/belastingen/van/rechtsverkeer/BWBR0002740/README.md), bedraagt 24 maanden na het tijdstip van de eerste ingebruikneming of de ingangsdatum van de verhuur als deze vóór het tijdstip van de eerste ingebruikneming ligt en geldt indien het tijdstip van de eerste ingebruikneming of de ingangsdatum van de verhuur als deze vóór het tijdstip van de eerste ingebruikneming ligt, is gelegen tussen 31 oktober 2012 en 1 januari 2015.   
+2.  De verkrijging is opgenomen in een notariële akte die is verleden binnen de in het eerste lid bedoelde termijn waarbinnen de verkrijging plaatsvindt.   
+
 ### Artikel  4  
 
 1.  De in [artikel 15, eerste lid, onderdeel e, onder 1°, van de wet](../../../../../../wet/wet/op/belastingen/van/rechtsverkeer/BWBR0002740/README.md) bedoelde vrijstelling bij inbreng in een vennootschap die geen in aandelen verdeeld kapitaal heeft, van een onderneming, waaronder mede wordt verstaan de onderneming bestaande in een deelgerechtigdheid in een maatschap, vennootschap onder firma of commanditaire vennootschap, is van toepassing indien alle tot het ondernemingsvermogen behorende activa en passiva die een functie vervullen in de onderneming worden ingebracht tegen bijschrijving op de kapitaalrekening van de vennootschap van een bedrag dat ten minste 90 percent is van de waarde in het economische verkeer van het vermogen van de ingebrachte onderneming dan wel de boekwaarde van dat vermogen, zoals die geldt voor de heffing van inkomstenbelasting of vennootschapsbelasting, in gevallen waarin de ondernemer inbrengt met voorbehoud van stille reserves.   

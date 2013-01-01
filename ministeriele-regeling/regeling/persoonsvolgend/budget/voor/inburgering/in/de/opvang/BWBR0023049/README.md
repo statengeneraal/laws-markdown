@@ -13,7 +13,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. Minister: Minister voor Wonen, Wijken en Integratie;  
+a. Minister: Minister van Sociale Zaken en Werkgelegenheid;  
 
 b. persoonsvolgend budget: budget dat aan een PVB-gerechtigde ter beschikking wordt gesteld ten behoeve van diens inburgering;  
 
@@ -37,7 +37,13 @@ k. opvangvoorziening: accommodatie waarin door of onder verantwoordelijkheid van
 
 l. uitstroom: vertrek van de PVB-gerechtigde uit een opvangvoorziening naar een gemeente;  
 
-m. taalkennisvoorziening: voorziening die is gericht op de verwerving van de kennis van de Nederlandse taal die noodzakelijk is voor het kunnen afronden van een beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a en b, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
+m. taalkennisvoorziening: voorziening die is gericht op de verwerving van de kennis van de Nederlandse taal die noodzakelijk is voor het kunnen afronden van een beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a en b, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+
+n. Wet inburgering: [Wet inburgering](../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals die luidde op 31 december 2012;  
+
+o. Besluit inburgering: [Besluit inburgering](../../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), zoals dat luidde op 31 december 2012;  
+
+p. Regeling inburgering: [Regeling inburgering](../../../../../../../../../../ministeriele-regeling/regeling/inburgering/BWBR0020657/README.md), zoals die luidde op 31 december 2012.    
 
 ### Artikel  2  
 

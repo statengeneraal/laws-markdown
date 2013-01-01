@@ -713,9 +713,9 @@ De werkzaamheden in verband met het opleggen van een bestuurlijke boete of een l
 
 ### Artikel  55a  
 
-1.  Voor het betreden of het doorzoeken, bedoeld in artikel 55, eerste lid, is een voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken bij de rechtbank te Rotterdam. De machtiging kan bij wijze van voorzorgsmaatregel worden gevraagd. De machtiging wordt zo mogelijk getoond.   
+1.  Voor het betreden of het doorzoeken, bedoeld in artikel 55, eerste lid, is een voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken bij de rechtbank Rotterdam. De machtiging kan bij wijze van voorzorgsmaatregel worden gevraagd. De machtiging wordt zo mogelijk getoond.   
 2.  [Artikel 171 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen.   
-3.  Tegen de beslissing van de rechter-commissaris staat voor zover het verzoek om een machtiging niet is toegewezen, voor de raad binnen veertien dagen beroep open bij de rechtbank te Rotterdam.   
+3.  Tegen de beslissing van de rechter-commissaris staat voor zover het verzoek om een machtiging niet is toegewezen, voor de raad binnen veertien dagen beroep open bij de rechtbank Rotterdam.   
 4.  Het betreden of het doorzoeken vindt plaats onder toezicht van de rechter-commissaris.   
 5.  De [artikelen 2](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) en [3 van de Algemene wet op het binnentreden](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) zijn niet van toepassing.   
 
@@ -1059,16 +1059,16 @@ Ter zake van de uitoefening van de in artikel 88 bedoelde bevoegdheden zijn de h
 
 ### Artikel  89c  
 
-1.  Voor het verlenen van de nodige bijstand indien een onderneming of ondernemersvereniging zich verzet tegen een inspectie op grond van een mededingingsverordening door de Commissie van de Europese Gemeenschappen is voor zover de inspectie een doorzoeking omvat, een voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken bij de rechtbank te Rotterdam. De machtiging wordt zo mogelijk getoond.   
+1.  Voor het verlenen van de nodige bijstand indien een onderneming of ondernemersvereniging zich verzet tegen een inspectie op grond van een mededingingsverordening door de Commissie van de Europese Gemeenschappen is voor zover de inspectie een doorzoeking omvat, een voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken bij de rechtbank Rotterdam. De machtiging wordt zo mogelijk getoond.   
 2.  De rechter-commissaris gaat bij de toetsing van het verzoek tot machtiging na of de voorgenomen dwangmaatregelen niet willekeurig zijn of onevenredig zijn in verhouding tot het voorwerp van de inspectie, zoals is bepaald in de mededingingsverordeningen en het gemeenschapsrecht. [Artikel 171 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen.   
-3.  Tegen de beslissing van de rechter-commissaris staat voor zover het verzoek om een machtiging niet is toegewezen, voor de raad binnen veertien dagen beroep open bij de rechtbank te Rotterdam.   
+3.  Tegen de beslissing van de rechter-commissaris staat voor zover het verzoek om een machtiging niet is toegewezen, voor de raad binnen veertien dagen beroep open bij de rechtbank Rotterdam.   
 4.  De rechter-commissaris kan bij de inspectie aanwezig zijn.   
 
 ### Artikel  89d  
 
-1.  Voor het uitvoeren van een inspectie als bedoeld in artikel 21, eerste lid, van verordening 1/2003 door de Commissie van de Europese Gemeenschappen in andere gebouwen, terreinen en vervoermiddelen dan die van ondernemingen en ondernemersverenigingen, waaronder de woningen van directeuren, bestuurders en andere personeelsleden, is een voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken bij de rechtbank te Rotterdam. De machtiging wordt zo mogelijk getoond.   
+1.  Voor het uitvoeren van een inspectie als bedoeld in artikel 21, eerste lid, van verordening 1/2003 door de Commissie van de Europese Gemeenschappen in andere gebouwen, terreinen en vervoermiddelen dan die van ondernemingen en ondernemersverenigingen, waaronder de woningen van directeuren, bestuurders en andere personeelsleden, is een voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken bij de rechtbank Rotterdam. De machtiging wordt zo mogelijk getoond.   
 2.  De rechter-commissaris toetst het verzoek tot machtiging overeenkomstig artikel 21, derde lid, van verordening 1/2003. [Artikel 171 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen.   
-3.  Tegen de beslissing van de rechter-commissaris staat voor zover het verzoek om een machtiging niet is toegewezen, voor de raad binnen veertien dagen beroep open bij de rechtbank te Rotterdam.   
+3.  Tegen de beslissing van de rechter-commissaris staat voor zover het verzoek om een machtiging niet is toegewezen, voor de raad binnen veertien dagen beroep open bij de rechtbank Rotterdam.   
 4.  De rechter-commissaris kan bij de inspectie aanwezig zijn.   
 5.  Voor zover het een inspectie in een woning betreft, geldt dit artikel in afwijking van de [artikelen 2](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md), [3](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) en [8 van de Algemene wet op het binnentreden](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md).   
 
@@ -1114,23 +1114,6 @@ g. de namen of nummers en de hoedanigheid van de overige personen die aan de ins
 1.  Met het verrichten van een inspectie op grond van een mededingingsverordening door de mededingingsautoriteit op verzoek van de Commissie van de Europese Gemeenschappen of op verzoek van een mededingingsautoriteit van een andere lidstaat van de Europese Unie, zijn belast de krachtens artikel 50, eerste lid, aangewezen ambtenaren.   
 2.  De aangewezen ambtenaren beschikken voor het verrichten van de inspectie over de bevoegdheden die hun ingevolge hoofdstuk 6 zijn toegekend ter uitoefening van toezicht en onderzoek.   
 
-### Artikel  89h  
-
-1.  De raad of de Commissie van de Europese Gemeenschappen kan, niet optredende als partij, bij de behandeling van een beroep bij de administratieve rechter schriftelijke opmerkingen maken ingevolge artikel 15, derde lid, eerste alinea, van verordening 1/2003, indien de raad of de Commissie van de Europese Gemeenschappen de wens daartoe te kennen heeft gegeven. De rechter kan daarvoor een termijn bepalen. Met toestemming van de rechter kunnen zij ter zitting ook mondelinge opmerkingen maken.   
-2.  Op een verzoek ingevolge artikel 15, derde lid, tweede alinea, van verordening 1/2003 verstrekt de rechter aan de raad en de Commissie van de Europese Gemeenschappen alle in die bepaling bedoelde stukken. Partijen kunnen binnen een door de rechter te bepalen termijn hun mening geven over de te verstrekken stukken.   
-3.  Partijen kunnen binnen een door de rechter te bepalen termijn reageren op de opmerkingen van de raad of de Commissie van de Europese Gemeenschappen. De rechter kan partijen in staat stellen op elkaars opmerkingen te reageren.   
-
-### Artikel  89i  
-
-1.  Indien de administratieve rechter inlichtingen of advies wil vragen ingevolge artikel 15, eerste lid, van verordening 1/2003, doet hij aan partijen schriftelijk opgave van de te stellen vragen en de te verzenden stukken.   
-2.  Partijen kunnen binnen een door de rechter te bepalen termijn schriftelijk hun mening omtrent de te stellen vragen en de te verzenden stukken geven.   
-3.  De griffier zendt een afschrift van het antwoord op het verzoek om inlichtingen of van het advies aan partijen.   
-4.  Partijen kunnen binnen een door de rechter te bepalen termijn hun mening over het antwoord of het advies geven. [Artikel 8:29 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
-
-### Artikel  89j  
-
-Ingevolge artikel 15, tweede lid, van verordening 1/2003 verstrekt de griffier onverwijld een afschrift van de uitspraak van de administratieve rechter met betrekking tot de toepassing van de artikelen 81 en 82 van het Verdrag aan de Commissie van de Europese Gemeenschappen. De verstrekking geschiedt, behalve wanneer het arresten of beschikkingen van de Hoge Raad of uitspraken van de Afdeling bestuursrechtspraak van de Raad van State betreft, door tussenkomst van de Raad voor de rechtspraak. Wanneer naar het oordeel van de administratieve rechter de bescherming van zwaarwegende belangen van partijen of van derden daartoe aanleiding geeft, kan de griffier volstaan met verstrekking van een geanonimiseerd afschrift van de uitspraak.  
-
 ### Hoofdstuk  11  
 
 ####Gebruik van gegevens
@@ -1162,10 +1145,8 @@ b. voldoende is gewaarborgd dat de gegevens of inlichtingen niet zullen worden g
 
 ### Artikel  93  
 
-1.  In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten op grond van deze wet de rechtbank te Rotterdam bevoegd.   
-2.  Ten aanzien van besluiten als bedoeld in de artikelen 37, eerste lid, 44, eerste lid, en 47, eerste lid, blijft [artikel 7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) buiten toepassing.   
-3.  Een consumentenorganisatie wordt geacht belanghebbende te zijn bij besluiten genomen op grond van deze wet.   
-4.  De raad kan bij toepassing van [artikel 3.11, tweede lid van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in zaken waarbij een consumentenorganisatie als bedoeld in het derde lid belanghebbende is, om gewichtige redenen onderscheid maken tussen de overtreder en genoemde consumentenorganisatie bij de beoordeling van de vraag of op de zaak betrekking hebbende stukken of gedeelten van stukken ter inzage worden gelegd.   
+1.  Een consumentenorganisatie wordt geacht belanghebbende te zijn bij besluiten genomen op grond van deze wet.   
+2.  De raad kan bij toepassing van [artikel 3.11, tweede lid van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in zaken waarbij een consumentenorganisatie als bedoeld in het derde lid belanghebbende is, om gewichtige redenen onderscheid maken tussen de overtreder en genoemde consumentenorganisatie bij de beoordeling van de vraag of op de zaak betrekking hebbende stukken of gedeelten van stukken ter inzage worden gelegd.   
 
 ### Hoofdstuk  12a  
 

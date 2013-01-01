@@ -341,45 +341,106 @@ R.H.A.Plasterk
 
 ### Bijlage  
 
-####, behorend bij artikel 17  toezichtskosten commerciële mediadiensten
+####behorende bij artikel 17  bijdrage toezichtskosten commerciële mediadiensten
 
 ### Artikel  1  
 
-1. Een commerciële omroepinstelling is per toestemming voor het verzorgen van een omroepdienst jaarlijks aan het Commissariaat een bedrag verschuldigd overeenkomstig de onderstaande tabel in euro’s:  Tabel 1 
+####Televisieomroepdiensten
 
-| Aantal huishoudens in Nederland dat het programma-aanbod kan ontvangen  | < 25.000  | 25.000–50.000  | 50.000–100.000  | 100.000–500.000  | 500.000–1.000.000  | 1.000.000–3.000.000  | 3.000.000>  | Gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar  |--- |--- |--- |--- |--- |--- |--- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| < 3 uren  | 136  | 272  | 544  | 1632  | 2448  | 3264  | 4080  |
-| 3 – < 6 uren  | 272  | 544  | 1088  | 3264  | 4896  | 6528  | 8160  |
-| 6 – < 9 uren  | 408  | 816  | 1632  | 4896  | 7344  | 9792  | 12.240  |
-| 9 – < 12 uren  | 544  | 1088  | 2176  | 6528  | 9792  | 13.056  | 16.320  |
-| 12 > uren  | 680  | 1360  | 2720  | 8160  | 12.240  | 16.320  | 20.400  |
+Een commerciële media-instelling is per toestemming voor het verzorgen van een televisieomroepdienst jaarlijks aan het Commissariaat een bijdrage in de toezichtskosten verschuldigd volgens de onderstaande tabellen in euro’s:  Tabel 1. Toezichtskosten televisieomroepdiensten die zich uitsluitend of in overwegende mate op het binnenland richten 
 
-2. In afwijking van het eerste lid, gelden per toestemming voor radio-omroep de bedragen van tabel 1 voor vijftig procent met een minimum van € 113.  
+| Tariefgroep  |--- | A  | B  | C  | D  | E  | F  |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| Aantal huishoudens <sup>*</sup>  | --- | <25.000  | 25.000–50.000  | 50.000–100.000  | 100.000–500.000  | >500.000  | --- |
+| Marktaandeel <sup>**</sup>  | --- | <0,3%  | <0,3%  | <0,3%  | <0,3%  | <0,3%  | >=0,3%  |
+| Uitzenduren***  | <12 uur  | 400  | 800  | 1600  | 3200  | 6400  | 12.800  |
+| --- | >=12 uur  | 800  | 1600  | 3200  | 6400  | 12.800  | 25.600  |
 
-3. In afwijking van het eerste lid, gelden per toestemming voor televisieomroep die bestaat uit het veelvuldig en aaneensluitend herhalen van programma-aanbod dat uitsluitend of vrijwel uitsluitend bestaat uit stilstaande beelden, de bedragen van tabel 1 voor vijfentwintig procent met een minimum van € 113.  
+* Voor de toepassing van de tabel wordt onder ‘aantal huishoudens’ verstaan: het aantal huishoudens dat een televisieomroepdienst technisch in Nederland kan ontvangen. ** Voor de toepassing van de tabel wordt onder ‘marktaandeel’ verstaan: het percentage kijkers naar de televisieomroepdienst, gepercenteerd op het totale kijkerspubliek binnen de doelgroep. *** Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.  Tabel 2. Toezichtskosten televisieomroepdiensten die zich uitsluitend of in overwegende mate op het buitenland richten 
 
-4. Als een toestemming in de loop van een kalenderjaar wordt verleend, vervalt of wordt ingetrokken, worden de bedragen in het eerste tot en met derde lid naar evenredigheid van de overgebleven dagen in het kalenderjaar vastgesteld met een minimum van € 113.    
+| Tariefgroep  |--- | A  | B  |
+|:---|:---|:---|:---|
+| Marktaandeel*  | --- | <0,3%  | >=0,3%  |
+| Uitzenduren**  | < 12 uur  | 4200  | 8400  |
+| --- | >= 12 uur  | 8400  | 8400  |
+
+* Voor de toepassing van de tabel wordt onder ‘marktaandeel’ verstaan: het percentage kijkers naar de televisieomroepdienst, gepercenteerd op het totale kijkerspubliek binnen de doelgroep. Als een televisieomroepdienst zich op meerdere landen richt, is het hoogste marktaandeel in één land van toepassing. ** Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.  
 
 ### Artikel  2  
 
-1. In afwijking van artikel 1 van deze bijlage, is een commerciële omroepinstelling per toestemming voor het verzorgen van een omroepdienst die bestaat uit het verspreiden van gecodeerd programma-aanbod verspreid dat bestemd is voor degenen die met de betreffende omroepinstelling een tot de ontvangst van het programma-aanbod strekkende overeenkomst hebben gesloten, jaarlijks een bedrag in euro’s verschuldigd aan het Commissariaat overeenkomstig onderstaande tabel:  Tabel 2 
+####Radio-omroepdiensten
 
-| Aantal huishoudens in Nederland dat het programma kan ontvangen  | < 10.000  | 10.000–50.000  | 50.000 >  | Gemiddelde duur van de uitzendingen per dag in het desbetreffende kalenderjaar  |--- |--- |--- |
+Een commerciële media-instelling is per toestemming voor het verzorgen van een radio-omroepdienst jaarlijks aan het Commissariaat een bijdrage in de toezichtskosten verschuldigd volgens de onderstaande tabellen in euro’s:  Tabel 3. Toezichtskosten radio-omroepdiensten die zich uitsluitend of in overwegende mate op het binnenland richten 
+
+| Tariefgroep  |--- | A  | B  | C  | D  | E  | F  |
 |:---|:---|:---|:---|:---|:---|:---|:---|
-| < 3 uren  | 544  | 1632  | 4080  |
-| 3 – < 6 uren  | 1088  | 3264  | 8160  |
-| 6 – < 9 uren  | 1632  | 4896  | 12.240  |
-| 9 – < 12 uren  | 2176  | 6528  | 16.320  |
-| 12 > uren  | 2720  | 8160  | 20.400  |
+| Aantal huishoudens <sup>*</sup>  | --- | <25.000  | 25.000–50.000  | 50.000–100.000  | 100.000–500.000  | 500.000–3.000.000  | >3.000.000  |
+| Uitzenduren**  | <12 uur  | 200  | 400  | 800  | 1600  | 3200  | 6400  |
+| --- | >=12 uur  | 400  | 800  | 1600  | 3200  | 6400  | 12.800  |
 
-2. Artikel 1, tweede en vierde lid, van deze bijlage zijn van overeenkomstige toepassing op Tabel 2 van het eerste lid.    
+* Voor de toepassing van de tabel wordt onder ‘aantal huishoudens’ verstaan: het aantal huishoudens dat een radio-omroepdienst technisch in Nederland kan ontvangen. ** Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar. *Tabel 4.* Toezichtskosten radio-omroepdiensten die zich uitsluitend of in overwegende mate op het buitenland richten  
+
+| --- | --- | --- |
+|:---|:---|:---|
+| Uitzenduren*  | < 12 uur  | 2100  |
+| --- | >= 12 uur  | 4200  |
+
+* Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.  
 
 ### Artikel  3  
 
-Als een commerciële omroepinstelling beschikt over zowel een toestemming waarop artikel 1 van deze bijlage van toepassing is als een toestemming waarop artikel 2 van deze bijlage van toepassing is, en zij het programma-aanbod van beide toestemmingen steeds aansluitend op hetzelfde kanaal van een omroepnet verspreidt, is de omroepinstelling ten hoogste € 20.400 aan toezichtskosten verschuldigd.  
+####Kabelkranten
+
+Een commerciële media-instelling is per toestemming voor het verzorgen van een televisieomroepdienst die bestaat uit het veelvuldig en aaneensluitend herhalen van programma-aanbod dat uitsluitend of vrijwel uitsluitend bestaat uit stilstaande beelden jaarlijks aan het Commissariaat een bijdrage in de toezichtskosten verschuldigd volgens de onderstaande tabellen in euro’s:  Tabel 5. Toezichtskosten kabelkranten die zich uitsluitend of in overwegende mate op het binnenland richten 
+
+| Tariefgroep  |--- | A  | B  | C  | D  | E  | F  |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| Aantal huishoudens <sup>*</sup>  | --- | <25.000  | 25.000–50.000  | 50.000–100.000  | 100.000–500.000  | 500.000–3.000.000  | >3.000.000  |
+| Uitzenduren**  | <12 uur  | 200  | 200  | 400  | 800  | 1600  | 3200  |
+| --- | >=12 uur  | 200  | 400  | 800  | 1600  | 3200  | 6400  |
+
+* Voor de toepassing van de tabel wordt onder ‘aantal huishoudens’ verstaan: het aantal huishoudens dat een radio-omroepdienst technisch in Nederland kan ontvangen. ** Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.  Tabel 6. Toezichtskosten kabelkranten die zich uitsluitend of in overwegende mate op het buitenland richten 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| Uitzenduren*  | < 12 uur  | 2100  |
+| --- | >= 12 uur  | 4200  |
+
+* Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.  
 
 ### Artikel  4  
 
-Per mediadienst op aanvraag is jaarlijks een bedrag verschuldigd van € 0.  
+####Edities
+
+Een commerciële media-instelling die toestemmingen heeft voor het verzorgen van meerdere televisieomroepdiensten of meerdere radio-omroepdiensten waarbij: 
+
+a. deze televisieomroepdiensten respectievelijk deze radio-omroepdiensten wat betreft inhoud nagenoeg identiek zijn; en  
+
+b. deze televisieomroepdiensten respectievelijk deze radio-omroepdiensten onder dezelfde naam worden verspreid,   is voor deze televisieomroepdiensten respectievelijk deze radio-omroepdiensten tezamen niet meer verschuldigd dan éénmaal het desbetreffende hoogste bedrag uit de toepasselijke tabel.  
+
+### Artikel  5  
+
+####Evenredige vaststelling
+
+Als een toestemming voor het verzorgen van een commeriële omroepdienst in de loop van een kalenderjaar is verleend, vervallen of ingetrokken, worden de bedragen in de tabellen van de artikelen 1 tot en 3 naar evenredigheid van de overgebleven maanden in het kalenderjaar vastgesteld, met een minimum van 200 euro voor radio-omroepdiensten en voor televisieomroepdiensten als bedoeld in tabel 5 van artikel 3 en een minimum van 400 euro voor overige televisie-omroepdiensten.  
+
+### Artikel  6  
+
+####Omroepdiensten uitsluitend via open internet
+
+1. In afwijking van de artikelen 1 tot en met 5 is een commerciële media-instelling per toestemming voor het verzorgen van een omroepdienst die uitsluitend via het open internet wordt verspreid jaarlijks aan het Commissariaat een bedrag van 200 euro verschuldigd.  
+
+2. Voor de toepassing van dit artikel wordt onder verspreiding via het open internet verstaan: technische verspreiding via het internetprotocol op zodanige wijze dat het publiek zonder extra betalingen ten behoeve van de verzorger van de omroepdienst of de aanschaf of gebruik van specifieke apparatuur de omroepdienst kan ontvangen.    
+
+### Artikel  7  
+
+####Mediadiensten op aanvraag
+
+Een commerciële media-instelling is per mediadienst op aanvraag jaarlijks aan het Commissariaat een bedrag van 200 euro voor toezichtskosten verschuldigd.  
+
+### Artikel  8  
+
+####Indexering
+
+De in deze bijlage genoemde bedragen worden jaarlijks bijgesteld met de door het Centraal Planbureau voor het desbetreffende jaar geraamde consumentenprijsindex.  
 

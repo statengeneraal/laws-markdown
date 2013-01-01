@@ -33,7 +33,7 @@ b. hetzij in het bezit is van een recent diploma ioniserende straling niveau 3 v
 
 a. als arts arbeid en gezondheid, bedrijfsarts, is ingeschreven in het register van erkende sociaal geneeskundigen, dat wordt bijgehouden door de Sociaal-Geneeskundigen Registratie Commissie van de Koninklijke Nederlandse Maatschappij tot Bevordering der Geneeskunst en  
 
-b. in de afgelopen inschrijvingsperiode van vijf jaar de noodzakelijke kennis heeft bijgehouden.    Aan de eis, genoemd onder b, wordt in ieder geval voldaan indien de aanvrager voldoet aan de criteria, opgenomen in bijlage A, behorende bij deze regeling.  
+b. in de afgelopen inschrijvingsperiode van vijf jaar de noodzakelijke kennis heeft bijgehouden.   Aan de eis, genoemd onder b, wordt in ieder geval voldaan indien de aanvrager voldoet aan de criteria, opgenomen in bijlage A, behorende bij deze regeling.   
 4.  De aanvrager van een inschrijving verstrekt aan de minister een bewijs van de inschrijving als arts arbeid en gezondheid, bedrijfsarts en een afschrift van het diploma, bedoeld in het tweede lid, onder b.   
 5.  De minister kan de inschrijving doorhalen op verzoek van de geregistreerde of indien hem relevante gegevens bereiken die de doorhaling rechtvaardigen.   
 6.  De minister doet mededeling van een inschrijving, weigering of doorhaling in de Staatscourant.   
@@ -133,8 +133,8 @@ Als model van het stralingspaspoort, bedoeld in [artikel 94 van het besluit](../
 
 ####Kosten
 
-1.  Het stralingspaspoort wordt op aanvraag tegen betaling van € 99,45 afgegeven door de beheerder van het NDRIS. Het eerste inlegvel is hieronder mede begrepen.   
-2.  Inlegvellen worden op aanvraag tegen betaling van € 21,10 afgegeven door de beheerder van het NDRIS.   
+1.  Het stralingspaspoort wordt op aanvraag tegen betaling van 104,40 afgegeven door de beheerder van het NDRIS. Het eerste inlegvel is hieronder mede begrepen.   
+2.  Inlegvellen worden op aanvraag tegen betaling van 22,15 afgegeven door de beheerder van het NDRIS.   
 3.  De in het eerste en tweede lid genoemde bedragen worden aangepast aan de prijsontwikkelingen.   
 
 ### Artikel  10  

@@ -20,7 +20,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. aanbestedende dienst: de Staat, een provincie, een gemeente, een waterschap, een openbaar lichaam als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](../../../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), een politieregio, een openbaar lichaam voor beroep en bedrijf dan wel een ander openbaar lichaam als bedoeld in [artikel 134 van de Grondwet](../../../../../../../../../wet/grondwet/BWBR0001840/README.md), of een zelfstandig bestuursorgaan als bedoeld in het tweede lid;  
+a. aanbestedende dienst: de Staat, een provincie, een gemeente, een waterschap, een openbaar lichaam als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](../../../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), de politie, een openbaar lichaam voor beroep en bedrijf dan wel een ander openbaar lichaam als bedoeld in [artikel 134 van de Grondwet](../../../../../../../../../wet/grondwet/BWBR0001840/README.md), of een zelfstandig bestuursorgaan als bedoeld in het tweede lid;  
 
 b. advies: het advies, bedoeld in artikel 9;  
 
@@ -36,7 +36,7 @@ c. beschikking: een beschikking terzake van een subsidie, alsmede een beschikkin
 
 5°. de [artikelen 4](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [82b, vijfde lid, van de Wet personenvervoer 2000](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);  
 
-6°. [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en het eerste lid, onder e, van dat artikel voor zover dat betrekking heeft op een inrichting als bedoeld in [artikel 1.1, eerste lid, van die wet](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+6°. [artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), artikel 2.1, eerste lid, aanhef en onder e, van die wet voor zover dat onderdeel betrekking heeft op een inrichting als bedoeld in [artikel 1.1, eerste lid, van die wet](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), en artikel 2.1, eerste lid, aanhef en onder i, van die wet voor zover dat onderdeel betrekking heeft op een activiteit waarvoor bij algemene maatregel van bestuur op grond van [artikel 2.17 van die wet](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is bepaald dat de beschikking in het geval en onder de voorwaarden, bedoeld in artikel 3, kan worden geweigerd;  
 
 7°. [artikel 70l van de Woningwet](../../../../../../../../../wet/woningwet/BWBR0005181/README.md);  
 

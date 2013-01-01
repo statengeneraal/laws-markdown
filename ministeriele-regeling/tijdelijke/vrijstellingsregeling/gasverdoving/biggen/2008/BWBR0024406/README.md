@@ -10,15 +10,12 @@ Besluit:
 
 ### Artikel  1  
 
-Van het verbod, gesteld in [artikel 2, eerste lid, van de Diergeneesmiddelenwet](../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md) wordt vrijstelling verleend voor het toepassen van het gasmengsel CO <sub>2</sub> /O <sup>2</sup> als diergeneesmiddel ter algehele verdoving van biggen en voor het met het oog daarop voorhanden of in voorraad hebben en afleveren van dit middel, onder de voorschriften, gesteld in de artikelen 2 tot en met 6.  
+1.  Voor de verdoving van biggen kan een gasmengsel worden toegepast waarvoor bij [artikel 3.12 van de Regeling diergeneesmiddelen](../../../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md) een vrijstelling is verleend.   
+2.  Deze regeling berust mede op [artikel 3.16 van het Besluit diergeneesmiddelen](../../../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).   
 
 ### Artikel  2  
 
 Het toepassen van het gasmengsel, bedoeld in artikel 1, geschiedt ten behoeve van castratie van biggen die niet ouder zijn dan zeven dagen en voorafgaand aan die castratie. Castratie wordt uitgevoerd onder volledige verdoving.  
-
-### Artikel  3  
-
-Het gasmengsel, bedoeld in artikel 1, bestaat uit een gasmengsel van 70% CO <sub>2</sub> en 30% O <sup>2</sup>.  
 
 ### Artikel  4  
 
@@ -30,7 +27,7 @@ Degene die het gasverdovingsapparaat, bedoeld in artikel 4, bedient, heeft zich 
 
 ### Artikel  6  
 
-De eigenaar of houder van biggen meldt vermoedelijke bijwerkingen aan het Bureau Diergeneesmiddelen van het secretariaat van het College ter beoordeling van geneesmiddelen, bedoeld in [artikel 8, van de Geneesmiddelenwet](../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md).  
+De eigenaar of houder van biggen meldt vermoedelijke bijwerkingen aan het Bureau Diergeneesmiddelen bedoeld in [artikel 1.1 van de Regeling diergeneesmiddelen](../../../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md).  
 
 ### Artikel  7  
 

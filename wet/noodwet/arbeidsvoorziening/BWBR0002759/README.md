@@ -67,17 +67,19 @@ Bij algemene maatregel van bestuur worden de autoriteiten aangewezen, die, zolan
 
 ### Artikel  7  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Onze Minister kan bepalen, dat arbeidsverhoudingen in het algemeen, dan wel dat arbeidsverhoudingen, behorende tot bij zijn beschikking aangewezen categorieën, of dat arbeidsverhoudingen, waarbij bij zijn beschikking aangewezen personen partij zijn, niet mogen worden beëindigd zonder vergunning van het Hoofd Arbeidsvoorziening.   
 2.  Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.   
 3.  Een krachtens het eerste lid vastgestelde besluit van algemene strekking wordt ter openbare kennis gebracht.   
 
 ### Artikel  8  
 
-Indien een arbeidsverhouding door één der partijen is beëindigd in strijd met een krachtens artikel 7, eerste lid, gesteld verbod of met een voorschrift, verbonden aan een krachtens dat lid verleende vergunning, kan de wederpartij gedurende zes maanden de nietigheid der beëindiging inroepen.  
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Indien een arbeidsverhouding door één der partijen is beëindigd in strijd met een krachtens artikel 7, eerste lid, gesteld verbod of met een voorschrift, verbonden aan een krachtens dat lid verleende vergunning, kan de wederpartij gedurende zes maanden de nietigheid der beëindiging inroepen.  
 
 ### Artikel  9  
 
-1.  De artikelen 7 en 8 gelden niet ten aanzien van dienstbetrekkingen van personen, die in dienst zijn van een lichaam als bedoeld in één der artikelen B 1, B 2, B 3 en U 2 van de Algemene burgerlijke pensioenwet (*Stb.* 1966, 6).   
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
+1.  De artikelen 7 en 8 gelden niet ten aanzien van dienstbetrekkingen van personen, die overheidswerknemer zijn in de zin van [artikel 2 van de Wet privatisering ABP](../../../../wet/wet/privatisering/abp/BWBR0007791/README.md).   
 2.  Ten aanzien van zodanige dienstbetrekkingen kunnen regelen van overeenkomstige strekking worden gesteld bij algemene maatregel van bestuur.   
 3.  Bij een algemene maatregel van bestuur als in het tweede lid bedoeld kunnen omtrent het vragen van voorziening tegen beschikkingen, krachtens die maatregel genomen, en de rechtsgang ter zake, regelen worden gesteld in afwijking van hoofdstuk III.   
 4.  De voordracht tot een algemene maatregel van bestuur als in het tweede lid bedoeld wordt Ons gedaan door Onze Minister, tezamen met Onze Ministers, wie het mede aangaat.   
@@ -88,18 +90,21 @@ Indien een arbeidsverhouding door één der partijen is beëindigd in strijd met
 
 ### Artikel  10  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Onze Minister kan bepalen, dat arbeidsverhoudingen in het algemeen, dan wel dat arbeidsverhoudingen, behorende tot bij zijn beschikking aangewezen categorieën, of dat arbeidsverhoudingen, waarbij bij zijn beschikking aangewezen personen partij zijn, niet mogen worden aangegaan zonder vergunning van het Hoofd Arbeidsvoorziening.   
 2.  Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.   
 3.  Een krachtens het eerste lid vastgestelde besluit van algemene strekking wordt ter openbare kennis gebracht.   
 
 ### Artikel  11  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Het is zowel de werkgever als de werknemer verboden een arbeidsverhouding, aangegaan in strijd met een krachtens artikel 10, eerste lid, gesteld verbod of met een voorschrift, verbonden aan een krachtens dat lid verleende vergunning, te laten voortduren.   
 2.  Ten aanzien van het beëindigen van zodanige arbeidsverhouding geldt een krachtens artikel 7 gesteld verbod niet.   
 3.  De werkgever is verplicht van de beëindiging van zodanige arbeidsverhouding onverwijld aan het Hoofd Arbeidsvoorziening schriftelijk mededeling te doen.   
 
 ### Artikel  12  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  De artikelen 10 en 11 gelden niet ten aanzien van dienstbetrekkingen van personen als in artikel 9 bedoeld.   
 2.  Ten aanzien van zodanige dienstbetrekkingen kunnen regelen van overeenkomstige strekking worden gesteld bij algemene maatregel van bestuur.   
 3.  Artikel 9, derde en vierde lid, is van overeenkomstige toepassing.   
@@ -110,26 +115,31 @@ Indien een arbeidsverhouding door één der partijen is beëindigd in strijd met
 
 ### Artikel  13  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Het Hoofd Arbeidsvoorziening kan een werknemer op diens verzoek in diens arbeidsverhouding onmisbaar verklaren voor het verrichten van bij zijn beschikking aangewezen arbeid.   
 2.  Van een krachtens het eerste lid tot de werknemer gerichte beschikking wordt mededeling gedaan aan diens werkgever.   
 
 ### Artikel  14  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Het is voor de duur der onmisbaarheid zowel aan de werknemer als aan diens werkgever verboden de arbeidsverhouding te beëindigen.   
 2.  Indien een arbeidsverhouding door één der partijen is beëindigd in strijd met het eerste lid, kan de wederpartij gedurende zes maanden de nietigheid der beëindiging inroepen.   
 
 ### Artikel  15  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  De werkgever is verplicht de onmisbaar verklaarde werknemer voor zover mogelijk de arbeid te laten verrichten, waarvoor deze onmisbaar is verklaard.   
 2.  De onmisbaar verklaarde werknemer is verplicht de arbeid, die hem door de werkgever is opgedragen, te verrichten.   
 
 ### Artikel  16  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Het Hoofd Arbeidsvoorziening kan de onmisbaarverklaring van een werknemer te allen tijde, hetzij ambtshalve, hetzij op verzoek van de werknemer of van diens werkgever, intrekken.   
 2.  Van een krachtens het eerste lid tot de werknemer gerichte beschikking wordt mededeling gedaan aan diens werkgever.   
 
 ### Artikel  17  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Op verzoek van een werknemer of van diens werkgever kan het Hoofd Arbeidsvoorziening, beide partijen gehoord, in verband met het aangaan door die werknemer van een arbeidsverhouding met een andere werkgever, waarin hij onmisbaar wordt verklaard, bepalen, dat, zolang de nieuwe arbeidsverhouding voortduurt, de bestaande arbeidsverhouding geschorst is, doch door partijen niet kan worden beëindigd zonder vergunning van het Hoofd Arbeidsvoorziening.   
 2.  Bij algemene maatregel van bestuur kunnen regelen worden gesteld omtrent de gevolgen van de schorsing voor de rechten en verplichtingen uit de betrokken arbeidsverhouding.   
 3.  Een vergunning als in het eerste lid bedoeld kan onder beperkingen worden verleend. Aan zodanige vergunning kunnen voorschriften worden verbonden.   
@@ -139,21 +149,24 @@ Indien een arbeidsverhouding door één der partijen is beëindigd in strijd met
 
 ### Artikel  18  
 
-Op verzoek van een werknemer kan het Hoofd Arbeidsvoorziening hem in verband met het aangaan van een arbeidsverhouding met een nieuwe werkgever, waarin hij onmisbaar wordt verklaard, ter zake van het beëindigen van de bestaande arbeidsverhouding ontheffing verlenen van de artikelen 1639 *h*, 1639 *i* en 1639 *j* van het Burgerlijk Wetboek.  
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Op verzoek van een werknemer kan het Hoofd Arbeidsvoorziening hem in verband met het aangaan van een arbeidsverhouding met een nieuwe werkgever, waarin hij onmisbaar wordt verklaard, ter zake van het beëindigen van de bestaande arbeidsverhouding ontheffing verlenen van de [artikelen 670](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [671](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [672 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).  
 
 ### Artikel  19  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Aan een persoon als in artikel 9 bedoeld kan in verband met het aangaan van een arbeidsverhouding, waarin hij onmisbaar wordt verklaard, in zijn bestaande dienstbetrekking voor de duur van zijn onmisbaarheid verlof worden verleend. Bij algemene maatregel van bestuur worden hieromtrent nadere regelen gesteld.   
 2.  In geval van toepassing van het eerste lid neemt bij het eindigen van de onmisbaarheid de arbeidsverhouding, waarin de betrokkene onmisbaar was verklaard, van rechtswege een einde.   
-3.  De voordracht tot een algemene maatregel van bestuur als in het eerste lid bedoeld wordt Ons gedaan door Onze Minister van Binnenlandse Zaken, tezamen met Onze Minister en met Onze Ministers, wie het mede aangaat.   
+3.  De voordracht tot een algemene maatregel van bestuur als in het eerste lid bedoeld wordt Ons gedaan door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, tezamen met Onze Minister en met Onze Ministers, wie het mede aangaat.   
 
 ### Artikel  20  
 
-1.  Een beding als bedoeld in artikel 1637 *x* van het Burgerlijk Wetboek is niet van kracht ten aanzien van het werkzaam zijn als onmisbaar verklaarde werknemer.   
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
+1.  Een beding als bedoeld in [artikel 653 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet van kracht ten aanzien van het werkzaam zijn als onmisbaar verklaarde werknemer.   
 2.  Indien het beding voor een bepaalde tijd is gemaakt, wordt de tijd, als onmisbaar verklaarde werknemer bij een derde doorgebracht, voor de berekening van deze termijn medegeteld.   
 
 ### Artikel  21  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  De voorgaande artikelen van deze paragraaf gelden niet met betrekking tot de onmisbaarheid van personen in een dienstbetrekking als in artikel 9 bedoeld.   
 2.  Met betrekking tot de in het eerste lid bedoelde onmisbaarheid kunnen regelen van overeenkomstige strekking worden gesteld bij algemene maatregel van bestuur.   
 3.  Artikel 9, derde en vierde lid, is van overeenkomstige toepassing.   
@@ -164,7 +177,8 @@ Op verzoek van een werknemer kan het Hoofd Arbeidsvoorziening hem in verband met
 
 ### Artikel  22  
 
-1.  Burgerdienstplicht rust op alle Nederlanders en inwoners van Nederland, die de leeftijd van achttien jaar, maar nog niet die van vijfenzestig jaar hebben bereikt, met uitzondering van de Nederlanders, woonachtig in de Nederlandse Antillen of Aruba.   
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
+1.  Burgerdienstplicht rust op alle Nederlanders en inwoners van Nederland, die de leeftijd van achttien jaar, maar nog niet de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), hebben bereikt, met uitzondering van de Nederlanders, woonachtig in Aruba, Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba.   
 2.  Van burgerdienstplicht vrijgesteld zijn: 
 
 a. degenen, die krachtens artikel 13, eerste lid, onmisbaar verklaard zijn;  
@@ -175,6 +189,7 @@ c. de personen, behorende tot bij algemene maatregel van bestuur daartoe aangewe
 
 ### Artikel  23  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Het Hoofd Arbeidsvoorziening kan een burgerdienstplichtige bestemmen voor: 
 
 a. bij zijn beschikking aangewezen arbeid in loondienst;  
@@ -186,6 +201,7 @@ b. een tegen het genot van een toelage te volgen scholing, bij zijn beschikking 
 
 ### Artikel  24  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Het Hoofd Arbeidsvoorziening kan een burgerdienstplichtige oproepen tot het verrichten van werkzaamheden overeenkomstig diens bestemming.   
 2.  Een beschikking krachtens het eerste lid bevat een aanwijzing van de natuurlijke of rechtspersoon, in wiens dienst de arbeid moet worden verricht of bij wie de scholing moet worden gevolgd, alsmede van de plaats en tijd van aanvang der werkzaamheden. Zo mogelijk vermeldt zij voorts de waarschijnlijke beloning of toelage en de waarschijnlijke duur van de uit de oproeping voortvloeiende verplichtingen.   
 3.  De burgerdienstplichtige kan niet worden verplicht tot het verrichten van werkzaamheden op plaatsen buiten Nederland.   
@@ -194,17 +210,20 @@ b. een tegen het genot van een toelage te volgen scholing, bij zijn beschikking 
 
 ### Artikel  25  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  De opgeroepen burgerdienstplichtige is verplicht te verschijnen ter plaatse en ten tijde, overeenkomstig artikel 24, tweede lid, aangewezen.   
 2.  De overeenkomstig artikel 24, tweede lid, aangewezen persoon is verplicht onverwijld aan het Hoofd Arbeidsvoorziening mede te delen, of de opgeroepene al dan niet is verschenen overeenkomstig het eerste lid.   
 3.  De opgeroepen burgerdienstplichtige, die niet is verschenen overeenkomstig het eerste lid, is verplicht ter plaatse, overeenkomstig artikel 24, tweede lid, aangewezen, alsnog zodra mogelijk te verschijnen.   
 
 ### Artikel  26  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  De overeenkomstig artikel 24, tweede lid, aangewezen persoon is verplicht de burgerdienstplichtige voor zover mogelijk de werkzaamheden te laten verrichten, waarvoor deze is opgeroepen.   
 2.  De burgerdienstplichtige is verplicht de werkzaamheden, die hem door de overeenkomstig artikel 24, tweede lid, aangewezen persoon zijn opgedragen, te verrichten.   
 
 ### Artikel  27  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Te rekenen van de dag, waarop een voor arbeid in loondienst opgeroepen burgerdienstplichtige aan zijn verschijningsplicht overeenkomstig artikel 25, eerste of derde lid, heeft voldaan, bestaat tussen hem en degene, in wiens dienst de arbeid moet worden verricht, een rechtsbetrekking, die voor de toepassing van wettelijke voorschriften geacht wordt een rechtsbetrekking uit arbeidsovereenkomst te zijn.   
 2.  De inhoud van de rechtsbetrekking is zoveel mogelijk gelijk aan de wettelijk geoorloofde inhoud van rechtsbetrekkingen uit arbeidsovereenkomsten voor soortgelijke arbeid bij de betrokken onderneming of instelling of, bij ontbreken van zodanige arbeidsovereenkomsten, aan de wettelijk geoorloofde inhoud van rechtsbetrekkingen uit arbeidsovereenkomsten voor soortgelijke arbeid bij vergelijkbare ondernemingen of instellingen. Bij of krachtens algemene maatregel van bestuur kunnen daaromtrent nadere regelen worden gesteld. Partijen bij de rechtsbetrekking zijn bevoegd gezamenlijk haar inhoud nader vast te stellen. Op verzoek van de meest gerede partij geschiedt de nadere vaststelling door het Hoofd Arbeidsvoorziening.   
 3.  De rechtsbetrekking kan door partijen niet worden beëindigd. Zij neemt van rechtswege een einde, zodra artikel 31, eerste lid, ten aanzien van de burgerdienstplichtige is toegepast of de betrokkene heeft opgehouden burgerdienstplichtig te zijn.   
@@ -212,6 +231,7 @@ b. een tegen het genot van een toelage te volgen scholing, bij zijn beschikking 
 
 ### Artikel  28  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Te rekenen van de dag, waarop een voor scholing opgeroepen burgerdienstplichtige aan zijn verschijningsplicht overeenkomstig artikel 25, eerste of derde lid, heeft voldaan, bestaat tussen hem en degene, bij wie de scholing moet worden gevolgd, een rechtsbetrekking als uit een overeenkomst waarbij partijen zich jegens elkaar verbinden enerzijds een scholing te volgen en anderzijds die scholing te geven met betaling van een toelage.   
 2.  Omtrent de inhoud van rechtsbetrekkingen als in het eerste lid bedoeld worden bij of krachtens algemene maatregel van bestuur regelen gesteld. Het Hoofd Arbeidsvoorziening kan in afzonderlijke gevallen de inhoud van de rechtsbetrekking nader vaststellen.   
 3.  Onze Minister kan, met inachtneming van de bij algemene maatregel van bestuur daaromtrent gestelde regelen, aan degene, bij wie de scholing moet worden gevolgd, een vergoeding ten laste van de Staat toekennen.   
@@ -220,6 +240,7 @@ b. een tegen het genot van een toelage te volgen scholing, bij zijn beschikking 
 
 ### Artikel  29  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Zolang een opgeroepen burgerdienstplichtige door het voldoen aan de ingevolge de oproeping op hem rustende verplichtingen verhinderd is te voldoen aan de verplichtingen, welke op hem als werknemer in een bestaande arbeidsverhouding rusten, is deze arbeidsverhouding geschorst, doch kan zij door partijen niet worden beëindigd zonder vergunning van het Hoofd Arbeidsvoorziening.   
 2.  Bij algemene maatregel van bestuur kunnen regelen worden gesteld omtrent de gevolgen van de schorsing voor de rechten en verplichtingen uit zodanige arbeidsverhouding.   
 3.  Een vergunning als in het eerste lid bedoeld kan onder beperkingen worden verleend. Aan zodanige vergunning kunnen voorschriften worden verbonden.   
@@ -227,17 +248,20 @@ b. een tegen het genot van een toelage te volgen scholing, bij zijn beschikking 
 
 ### Artikel  30  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Aan een opgeroepen burgerdienstplichtige, die een persoon is als in artikel 9 bedoeld, wordt voor de tijd, gedurende welke hij door het voldoen aan de ingevolge de oproeping op hem rustende verplichtingen verhinderd is zijn bestaande dienstbetrekking te vervullen, in die betrekking verlof verleend. Bij algemene maatregel van bestuur worden hieromtrent nadere regelen gesteld.   
 2.  Artikel 19, derde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  31  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Het Hoofd Arbeidsvoorziening kan een opgeroepen burgerdienstplichtige van de ingevolge de oproeping op hem rustende verplichtingen te allen tijde, hetzij ambtshalve, hetzij op verzoek van de burgerdienstplichtige of van de overeenkomstig artikel 24, tweede lid, aangewezen persoon, ontslaan.   
 2.  Van een krachtens het eerste lid tot de burgerdienstplichtige gerichte beschikking wordt mededeling gedaan aan de overeenkomstig artikel 24, tweede lid, aangewezen persoon.   
 3.  De burgerdienstplichtige is verplicht van de intrekking van de oproeping binnen driemaal vierentwintig uur mededeling te doen aan de in artikel 24, vijfde lid, bedoelde persoon, zo deze nog zijn werkgever is.   
 
 ### Artikel  32  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Onze Minister kan bepalen, dat het burgerdienstplichtigen verboden is het land te verlaten zonder door hem verleende vergunning.   
 2.  Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.   
 3.  Een krachtens het eerste lid gesteld verbod geldt mede voor degenen, die op grond van artikel 22, tweede lid, onder *a*, van burgerdienstplicht vrijgesteld zijn.   
@@ -245,6 +269,7 @@ b. een tegen het genot van een toelage te volgen scholing, bij zijn beschikking 
 
 ### Artikel  33  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Onze Minister kan in bij algemene maatregel van bestuur daartoe aangewezen gevallen met inachtneming van de bij zodanige maatregel gestelde regelen aan een burgerdienstplichtige de verplichting opleggen tot huisvesting in een bij zijn beschikking aangewezen verblijfplaats.   
 2.  Binnen drie maanden na het in werking treden van een algemene maatregel van bestuur als in het eerste lid bedoeld doen Wij een voorstel van wet aan de Staten-Generaal tot vervanging daarvan. De vervanging geschiedt in de vorm van vaststelling van de regeling, al dan niet gewijzigd, bij de wet. Wordt het voorstel ingetrokken of verworpen, dan vervallen de algemene maatregel van bestuur en de krachtens deze genomen maatregelen met ingang van de veertiende dag na die, waarop de intrekking of verwerping heeft plaats gehad.   
 3.  Onze Minister kan regelen stellen omtrent de orde in de verblijfplaatsen.   
@@ -256,6 +281,7 @@ b. een tegen het genot van een toelage te volgen scholing, bij zijn beschikking 
 
 ### Artikel  34  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Onze Minister kan ten aanzien van ondernemingen, die behoren tot bij zijn beschikking aangewezen categorieën dan wel bij zijn beschikking afzonderlijk zijn aangewezen, vrijstelling onderscheidenlijk ontheffing verlenen van verplichtingen en verboden, gesteld bij of krachtens wettelijke voorschriften ter zake van de beperking van de arbeidsduur en van de veiligheid en de hygiëne bij de arbeid.   
 2.  Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kan ten aanzien van ondernemingen die behoren tot bij zijn beschikking aangewezen categorieën dan wel bij zijn beschikking afzonderlijk zijn aangewezen, vrijstelling onderscheidenlijk ontheffing verlenen van verplichtingen en verboden, gesteld bij of krachtens wettelijke voorschriften ter zake van het tegengaan van gevaar, schade en hinder, teweeggebracht door inrichtingen.   
 3.  Een vrijstelling of ontheffing kan onder beperkingen, alsmede voorwaardelijk worden verleend; zij kan te allen tijde worden ingetrokken. Indien een vrijstelling of ontheffing voorwaardelijk is verleend, geldt zij slechts voor zover de gestelde voorwaarden worden nageleefd.   
@@ -301,7 +327,7 @@ a. tot het geven van inlichtingen, die naar zijn redelijk oordeel in het belang 
 
 b. tot het overleggen van bescheiden, waarvan raadpleging naar zijn redelijk oordeel in het belang van de uitvoering van deze wet nodig is;  
 
-c. voor zover het personen betreft, die de leeftijd van achttien jaar, maar nog niet die van vijfenzestig jaar hebben bereikt: tot het ondergaan van een onderzoek naar hun geschiktheid voor het verrichten van werkzaamheden ingevolge hoofdstuk II, paragraaf 4.    
+c. voor zover het personen betreft, die de leeftijd van achttien jaar, maar nog niet de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), hebben bereikt: tot het ondergaan van een onderzoek naar hun geschiktheid voor het verrichten van werkzaamheden ingevolge hoofdstuk II, paragraaf 4.    
 
 ### Artikel  43  
 

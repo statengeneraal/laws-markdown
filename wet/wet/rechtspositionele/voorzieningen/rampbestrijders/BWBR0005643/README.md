@@ -32,7 +32,7 @@ c. rampbestrijder: degene die
 
 1°. bij wijze van beroep  
 
-2°. als vrijwilliger   de rampbestrijdingsdienst vervult of heeft vervuld bij een gemeentelijke of regionale brandweer, bij een basisgezondheidsdienst, bij een ambulancedienst, bij een gemeenschappelijke meldkamer, bij het Nederlandse Rode Kruis of bij een instelling, zorgaanbieder, of gezondheidsdienst als bedoeld in [artikel 33, eerste lid, van de Wet veiligheidsregio’s](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md);  
+2°. als vrijwilliger   de rampbestrijdingsdienst vervult of heeft vervuld bij een gemeentelijke of regionale brandweer, bij een basisgezondheidsdienst, bij een Regionale Ambulancevoorziening, bij een gemeenschappelijke meldkamer, bij het Nederlandse Rode Kruis of bij een instelling, zorgaanbieder, of gezondheidsdienst als bedoeld in [artikel 33, eerste lid, van de Wet veiligheidsregio’s](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md);  
 
 d. zijn gewone werk: de werkzaamheden die de rampbestrijder voorafgaande aan de rampbestrijdingsdienst gewoonlijk in de uitoefening van zijn bedrijf of beroep heeft verricht;  
 
@@ -80,7 +80,7 @@ a. door ziekten of gebreken ontstaan tijdens de rampbestrijdingsdienst, verhinde
 
 b. door ziekten of gebreken die ontstaan zijn binnen 6 maanden na beëindiging van de rampbestrijdingsdienst en die in overwegende mate hun oorzaak vinden in de rampbestrijdingsdienst, verhinderd wordt zijn gewone werk te verrichten.     
 2.  De ziekengelduitkering, bedoeld in het eerste lid, bedraagt gedurende 12 maanden 100% van de grondslag en daarna gedurende 6 maanden 80% van de grondslag.   
-3.  In afwijking van het tweede lid eindigt de ziekengelduitkering met ingang van de eerste dag van de maand volgende op die waarin de rampbestrijder de leeftijd van 65 jaar heeft bereikt.   
+3.  In afwijking van het tweede lid eindigt de ziekengelduitkering met ingang van de eerste dag van de maand volgende op die waarin de rampbestrijder de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt.   
 
 ### Artikel  8  
 
@@ -155,7 +155,7 @@ Onze Minister wijzigt de invaliditeitsuitkering overeenkomstig de wijziging van 
 
 ### Artikel  18  
 
-De invaliditeitsuitkering eindigt met ingang van de eerste dag van de maand volgende op die waarin de rampbestrijder de leeftijd van 65 jaar heeft bereikt.  
+De invaliditeitsuitkering eindigt met ingang van de eerste dag van de maand volgende op die waarin de rampbestrijder de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt.  
 
 ### Artikel  19  
 
@@ -170,7 +170,7 @@ De invaliditeitsuitkering eindigt met ingang van de eerste dag van de maand volg
 
 1.  De weduwe van de rampbestrijder die tijdens de rampbestrijdingsdienst is komen te overlijden, heeft recht op een weduwenuitkering.   
 2.  Indien het overlijden binnen twee jaar na beëindiging van de rampbestrijdingsdienst plaatsvindt, bestaat eveneens recht op een weduwenuitkering indien het overlijden in overwegende mate zijn oorzaak vindt in de rampbestrijdingsdienst.   
-3.  Het recht op een weduwenuitkering eindigt met ingang van de eerste dag van de maand volgende op die waarin de weduwe de leeftijd van 65 jaar heeft bereikt.   
+3.  Het recht op een weduwenuitkering eindigt met ingang van de eerste dag van de maand volgende op die waarin de weduwe de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt.   
 
 ### Artikel  21  
 
@@ -311,10 +311,6 @@ b. gedurende twee jaar na de dag van betaalbaarstelling in de overige gevallen w
 ### Hoofdstuk  IX  
 
 ####Beroep
-
-### Artikel  43  
-
-In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten op grond van deze wet de rechtbank te 's-Gravenhage bevoegd.  
 
 ### Hoofdstuk  X  
 

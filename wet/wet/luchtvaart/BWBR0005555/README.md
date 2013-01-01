@@ -22,6 +22,8 @@ algemene luchtverkeersleiding: luchtverkeersleiding voor gecontroleerde vluchten
 
 AOC: door Onze Minister van Verkeer en Waterstaat aan een onderneming of groep van ondernemingen afgegeven document waarin wordt verklaard dat de betrokken luchtvaartexploitant beschikt over beroepsbekwaamheid en organisatie om luchtvaartuigen veilig te exploiteren voor de in dat bewijs gespecificeerde luchtvaartactiviteiten (Air Operator's Certificate);  
 
+besluit beperkingengebied buitenlandse luchthaven: besluit als bedoeld in artikel 8a.54;  
+
 burgerexploitant: houder van een vergunning voor burgermedegebruik die is afgegeven voor burgerluchtvaart van commerciële aard onder vaststelling van een grenswaarde voor de geluidbelasting door dat luchthavenluchtverkeer, anders dan in de vorm van een maximum aantal vliegtuigbewegingen;  
 
 burgermedegebruik: gebruik van een militaire luchthaven door andere dan militaire luchtvaart;  
@@ -1161,7 +1163,7 @@ b. plaatselijke luchtvaartnavigatiediensten.
 4.  De Eurocontrol-organisatie int de vergoeding ter bestrijding van de kosten voor luchtvaartnavigatiediensten voor «en route»-verkeer en draagt aan de desbetreffende verleners van deze diensten het hun toekomende deel van het geïnde bedrag af.   
 5.  De verleners van plaatselijke luchtvaartnavigatiediensten dragen zorg voor de inning van de vergoedingen ter bestrijding van de kosten van deze diensten en stemmen daartoe onderling af.   
 6.  Bij algemene maatregel van bestuur worden heffingszones als bedoeld in artikel 4 van de vergoedingenverordening vastgesteld en worden nadere voorschriften gesteld met betrekking tot de bekendmaking en de inning van vergoedingen, bedoeld in het vierde en het vijfde lid, en de termijnen binnen welke betaling van de vergoedingen plaats moet vinden.   
-7.  De Eurocontrol-organisatie kan rechtsvorderingen tot inning van vergoedingen als bedoeld in het vierde lid en van andere vergoedingen uit hoofde van de op 12 februari 1981 te Brussel gesloten Multilaterale Overeenkomst betreffende «en route»-heffingen (Trb. 1981, 181) uitsluitend aanhangig maken bij de arrondissementsrechtbank te Amsterdam.   
+7.  De Eurocontrol-organisatie kan rechtsvorderingen tot inning van vergoedingen als bedoeld in het vierde lid en van andere vergoedingen uit hoofde van de op 12 februari 1981 te Brussel gesloten Multilaterale Overeenkomst betreffende «en route»-heffingen (Trb. 1981, 181) uitsluitend aanhangig maken bij de rechtbank Amsterdam.   
 8.  Bij algemene maatregel van bestuur kan overeenkomstig artikel 9 van de vergoedingenverordening vrijstelling worden verleend van betaling van vergoedingen voor luchtvaartnavigatiediensten.   
 9.  Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen voorschriften worden gesteld met betrekking tot het treffen van stimuleringsmaatregelen ter verbetering van het verlenen van luchtvaartnavigatiediensten.   
 10.  De in het eerste lid, onderdeel b, bedoelde vergoeding moet worden betaald zonder dat dit bij beschikking is vastgesteld.   
@@ -1185,7 +1187,8 @@ b. plaatselijke luchtvaartnavigatiediensten.
 
 ### Artikel  5.22  
 
-Er is een organisatie voor het verlenen van luchtverkeersdiensten. Hij heeft rechtspersoonlijkheid.  
+1.  Er is een organisatie voor het verlenen van luchtverkeersdiensten. Hij heeft rechtspersoonlijkheid.   
+2.  Op de in het eerste lid bedoelde organisatie is de [Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing, met uitzondering van de [artikelen 15](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [18 van die wet](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).   
 
 ### §  5.3.2  
 
@@ -1223,10 +1226,9 @@ De LVNL heeft een bestuur en een raad van toezicht.
 
 ### Artikel  5.25  
 
-1.  Het bestuur bestaat uit ten hoogste drie leden. De raad van toezicht stelt het aantal leden en hun onderlinge taakverdeling vast.   
+1.  Het bestuur bestaat uit ten hoogste drie leden, waaronder de voorzitter.   
 2.  De hoedanigheid van lid van het bestuur is onverenigbaar met het lidmaatschap van de raad van toezicht.   
-3.  Onze Minister van Verkeer en Waterstaat benoemt, schorst en ontslaat de leden van het bestuur op voordracht van de raad van toezicht. De raad van toezicht besluit terzake van de voordracht met een meerderheid van het aantal leden.   
-4.  De leden van het bestuur worden benoemd voor een periode van ten hoogste vijf jaren. Bij afloop van deze termijn kunnen zij worden herbenoemd.   
+3.  De leden van het bestuur worden benoemd voor een periode van ten hoogste vijf jaren. Bij afloop van deze termijn kunnen zij worden herbenoemd.   
 
 ### Artikel  5.26  
 
@@ -1241,7 +1243,7 @@ De LVNL heeft een bestuur en een raad van toezicht.
 
 ### Artikel  5.28  
 
-Ingeval van schorsing of ontstentenis van een lid van het bestuur voorziet de raad van toezicht in de waarneming van zijn functie.  
+Ingeval van schorsing of ontstentenis van een lid van het bestuur voorziet Onze Minister van Infrastructuur en Milieu in de waarneming van zijn functie.  
 
 ### Artikel  5.29  
 
@@ -1254,44 +1256,43 @@ De raad van toezicht bestaat uit zes leden, waaronder de voorzitter, alsmede een
 ### Artikel  5.31  
 
 1.  De leden van de raad van toezicht worden zonder last of ruggespraak benoemd voor een tijdvak van vier jaren en zijn eenmaal voor een tijdvak van vier jaren herbenoembaar. Hun kan tussentijds op eigen verzoek, dan wel om zwaarwichtige redenen ontslag worden verleend.   
-2.  De waarnemer in de raad van toezicht wordt aangewezen voor een tijdvak van vier jaren en kan eenmaal voor een tijdvak van vier jaar opnieuw worden aangewezen. De aanwijzing kan tussentijds op eigen verzoek, dan wel om zwaarwichtige redenen worden ingetrokken.   
-3.  Onze Minister van Verkeer en Waterstaat benoemt, schorst en ontslaat de leden, met dien verstande dat: 
+2.  Onze Minister van Infrastructuur en Milieu benoemt een waarnemer in de raad van toezicht. Het waarnemerschap kan tussentijds op eigen verzoek, dan wel om zwaarwichtige redenen worden beëindigd.   
+3.  Onze Minister van Infrastructuur en Milieu benoemt, schorst en ontslaat de leden van de raad van toezicht, met dien verstande dat: 
 
 a. een lid wordt benoemd op voordracht van Onze Minister van Defensie;  
 
-b. twee leden worden benoemd op voordracht van de raad van toezicht uit verschillende in Nederland werkzame luchtvaartmaatschappijen;  
+b. vier leden worden benoemd op voordracht van de raad van toezicht.  
 
-c. een lid wordt benoemd op voordracht van de raad van toezicht uit de kring van de exploitanten van Nederlandse luchthavens; en  
-
-d. een lid, tevens voorzitter, wordt benoemd op voordracht van de raad van toezicht. Omtrent de voordracht besluiten de leden van de raad van toezicht met gewone meerderheid, met dien verstande dat de voorzitter niet deelneemt aan de vaststelling van de voordracht.     
+c. een lid, tevens voorzitter, wordt benoemd op voordracht van de raad van toezicht. Omtrent de voordracht besluiten de leden van de raad van toezicht met gewone meerderheid, met dien verstande dat de voorzitter niet deelneemt aan de vaststelling van de voordracht.     
 4.  Zolang in een vacature in de raad van toezicht niet is voorzien, vormen de overblijvende leden de raad van toezicht, met de bevoegdheid van de volledige raad.   
+5.  De raad van toezicht verschaft Onze Minister alle verlangde inlichtingen, met inachtneming van het door Onze Minister vastgestelde informatiestatuut.   
 
 ### Artikel  5.32  
 
 1.  De raad van toezicht ziet toe op de werkzaamheden van het bestuur, en staat dit met raad terzijde.   
 2.  Bij de vervulling van hun taak nemen de leden van de raad van toezicht tot richtsnoer de verwezenlijking van de taakstelling en het belang van de LVNL waaronder de continuïteit van zijn bedrijfsvoering.   
-3.  Besluiten van het bestuur betreffende de volgende onderwerpen behoeven voorafgaande instemming van de raad van toezicht: 
+3.  Onze Minister van Infrastructuur en Milieu kan bepalen dat het bestuur de voorafgaande instemming behoeft van de raad van toezicht voor een beslissing als bedoeld in [artikel 32 van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) of dat het bestuur, ingeval Onze Minister van Infrastructuur en Milieu een beslissing als bedoeld in dat artikel aan zijn voorafgaande instemming heeft onderworpen, die beslissing pas aan hem kan voorleggen nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben.   
+4.  Besluiten van het bestuur betreffende de volgende onderwerpen behoeven voorafgaande instemming van de raad van toezicht: 
 
 a. de reglementen bedoeld in de artikelen 5.34, 5.36, 5.37 en 5.39;  
 
-b. voorstellen aan Onze Minister van Verkeer en Waterstaat met betrekking tot de hoogte van het eenheidstarief, bedoeld in artikel 5.20, derde lid, en de hoogte van de vergoeding, bedoeld in artikel 5.21, tweede lid;  
+b. voorstellen aan Onze Minister van Infrastructuur en Milieu met betrekking tot de hoogte van het eenheidstarief, bedoeld in artikel 5.20, derde lid, en de hoogte van de vergoeding, bedoeld in artikel 5.21, tweede lid;  
 
-c. investeringen die een door de raad van toezicht vast te stellen bedrag te boven gaan;  
+c. de financiële begroting, en het financiële meerjarenbeleidsplan;  
 
-d. de financiële begroting, en het financiële meerjarenbeleidsplan;  
+d. het jaarverslag en de jaarrekening;  
 
-e. het jaarverslag en de jaarrekening;  
+e. de bij of krachtens de wet aan Onze Minister van Infrastructuur en Milieu uit te brengen rapportages;  
 
-f. het aangaan of garanderen van geldleningen die een door de raad van toezicht vast te stellen bedrag te boven gaan;  
-
-g. de bij of krachtens de wet aan Onze Minister van Verkeer en Waterstaat uit te brengen rapportages.     
-4.  De raad van toezicht kan geen rechtsgeldige besluiten nemen indien niet tenminste tweederde van het aantal leden ter vergadering aanwezig is.   
-5.  De raad van toezicht stelt bij reglement zijn werkwijze vast.   
+f. de aanwijzing van de externe registeraccountant.     
+5.  Besluiten betreffende het in het vierde lid, onderdeel c, genoemde financiële meerjarenbeleidsplan behoeven bovendien de goedkeuring van Onze Minister van Infrastructuur en Milieu.   
+6.  De raad van toezicht kan geen rechtsgeldige besluiten nemen indien niet tenminste tweederde van het aantal leden ter vergadering aanwezig is.   
+7.  De raad van toezicht stelt bij reglement zijn werkwijze vast. Het reglement behoeft de goedkeuring van Onze Minister van Infrastructuur en Milieu.   
 
 ### Artikel  5.33  
 
 1.  De raad van toezicht heeft een eigen secretariaat; de kosten daarvan komen ten laste van de LVNL.   
-2.  De raad van toezicht kan zijn leden, ten laste van de LVNL, een vergoeding toekennen voor hun werkzaamheden.   
+2.  Onze Minister van Infrastructuur en Milieu kan aan de leden van de raad van toezicht, ten laste van de LVNL, een vergoeding toekennen voor hun werkzaamheden.   
 3.  De leden van de raad van toezicht hebben aanspraak op vergoeding van de door hen in de uitoefening van hun functie gemaakte reis- en verblijfkosten.   
 
 ### §  5.3.4  
@@ -1321,7 +1322,7 @@ Het bestuur van de LVNL voert op bij reglement vast te stellen wijze overleg met
 ### Artikel  5.37  
 
 1.  Het personeel van de LVNL, de leden van het bestuur daaronder begrepen, is ambtenaar in de zin van de [Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md).   
-2.  Het bestuur stelt bij reglement de regeling van de rechtstoestand van het personeel vast.   
+2.  Het bestuur stelt bij reglement de regeling van de rechtspositie van het personeel vast.   
 3.  Onverminderd hetgeen reeds bij of krachtens de wet is geregeld, geeft het reglement bedoeld in het tweede lid van dit artikel in ieder geval voorschriften betreffende de volgende onderwerpen: 
 
 a. aanstelling;  
@@ -1352,7 +1353,7 @@ m. overige rechten en verplichtingen van het personeel;
 
 n. disciplinaire straffen;  
 
-o. de wijze waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtstoestand en de bezoldiging van het personeel van de LVNL;  
+o. de wijze waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtspositie en de bezoldiging van het personeel van de LVNL;  
 
 p. een geschillenregeling met betrekking tot de onder *l* en *o* genoemde onderwerpen.     
 4.  De bepalingen van [artikel 126 van de Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md) zijn van overeenkomstige toepassing op de totstandkoming van het in het tweede lid bedoelde reglement.   
@@ -1377,13 +1378,12 @@ Het bestuur stelt bij reglement de werkwijze vast voor het financiële beheer en
 
 ### Artikel  5.40  
 
-1.  De begroting van de LVNL bevat een raming van alle baten en lasten, de investeringsuitgaven en financiering.   
-2.  De begroting bestaat uit: 
+1.  De begroting bestaat uit: 
 
 a. de jaarlijkse financiële begroting, bestaande uit een exploitatiebegroting en een kapitaalsbegroting;  
 
 b. het financiële meerjarenbeleidsplan.     
-3.  Tot de lasten van de LVNL worden gerekend de kosten voortvloeiende uit de taken van Onze Minister van Verkeer en Waterstaat op het gebied van de luchtverkeersbeveiliging.   
+2.  Tot de lasten van de LVNL worden gerekend de kosten voortvloeiende uit de taken van Onze Minister van Verkeer en Waterstaat op het gebied van de luchtverkeersbeveiliging.   
 
 ### §  5.3.8  
 
@@ -1391,51 +1391,33 @@ b. het financiële meerjarenbeleidsplan.
 
 ### Artikel  5.41  
 
-1.  Het bestuur stelt jaarlijks een jaarverslag en een jaarrekening vast.   
+1.  Het jaarverslag van de LVNL gaat vergezeld van: 
+
+a. een opgave over de toepassing van de arbeidsvoorwaarden;  
+
+b. een document, houdende de instemming bedoeld in artikel 5.32, vierde lid, onder d.     
 2.  Het boekjaar van de LVNL valt samen met het kalenderjaar.   
-3.  Het bestuur zendt jaarlijks voor 1 mei van het jaar volgende op het jaar waarop het betrekking heeft een jaaroverzicht aan Onze Minister van Verkeer en Waterstaat. Het jaaroverzicht omvat: 
-
-a. het jaarverslag;  
-
-b. de jaarrekening;  
-
-c. een opgave over de toepassing van de arbeidsvoorwaarden;  
-
-d. de verklaring van de door de raad van toezicht aangewezen externe registeraccountant; en  
-
-e. een document, houdende de instemming bedoeld in artikel 5.32, derde lid onder e.     
+3.  Het bestuur zendt jaarlijks voor 1 mei van het jaar volgende op het jaar waarop het betrekking heeft het jaarverslag aan Onze Minister van Infrastructuur en Milieu en aan beide Kamers der Staten-Generaal.   
 
 ### Artikel  5.42  
 
-1.  Het bestuur verstrekt desgevraagd aan Onze Minister van Verkeer en Waterstaat de voor de uitoefening van zijn taak benodigde inlichtingen.   
-2.  Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.   
-3.  Onze Minister stelt met betrekking tot het eerste en tweede lid een informatiestatuut vast.   
-4.  Onze Minister van Verkeer en Waterstaat kan het bestuur opdragen periodiek rapportage uit te brengen op een door hem, na overleg met het bestuur, te bepalen wijze.   
-5.  Het bestuur geeft bij het verstrekken van de in het eerste lid bedoelde gegevens waar nodig aan welke gegevens een vertrouwelijk karakter dragen. Dit vertrouwelijke karakter kan voortvloeien uit de aard van de gegevens, dan wel uit het feit dat natuurlijke of rechtspersonen deze aan de LVNL hebben verstrekt onder het beding dat zij als vertrouwelijk zullen gelden.   
+1.  Onze Minister van Infrastructuur en Milieu stelt regels over de uitoefening van het toezicht op de LVNL door Onze Minister van Infrastructuur en Milieu en de raad van toezicht.   
+2.  Onze Minister van Infrastructuur en Milieu stelt een informatiestatuut vast.   
+3.  Onze Minister van Infrastructuur en Milieu kan het bestuur opdragen periodiek rapportage uit te brengen op een door hem, na overleg met het bestuur, te bepalen wijze.   
 
 ### Artikel  5.43  
 
-1.  De volgende stukken worden door het bestuur vastgesteld en behoeven de goedkeuring van Onze Minister van Verkeer en Waterstaat: 
+1.  De volgende stukken worden door het bestuur vastgesteld: 
 
 a. de financiële begroting;  
 
 b. het financiële meerjarenbeleidsplan.     
-2.  Het bestuur stelt de stukken bedoeld in het eerste lid vast en zendt deze aan de Minister van Verkeer en Waterstaat toe vóór 1 november van het jaar voorafgaand aan het begrotingsjaar.   
-3.  Indien Onze Minister van Verkeer en Waterstaat binnen vier weken na de in het tweede lid bedoelde toezending de goedkeuring aan de in het eerste lid, onder *a*, *b* en *c*, genoemde stukken, niet heeft onthouden, wordt deze geacht te zijn verleend.   
-4.  Het bestuur verstrekt Onze Minister van Verkeer en Waterstaat vóór 15 januari van het jaar voorafgaand aan het begrotingsjaar de door Onze Minister van Verkeer en Waterstaat voor het opstellen van de Rijksbegroting vereiste gegevens.   
-5.  Het bestuur verstrekt Onze Minister van Verkeer en Waterstaat de inlichtingen en andere gegevens waarover hij moet beschikken om inzicht in het financiële beheer van de LVNL te verkrijgen.   
+2.  Het bestuur zendt het financiële meerjarenbeleidsplan aan Onze Minister van Infrastructuur en Milieu toe vóór 1 november van het jaar voorafgaand aan het begrotingsjaar.   
+3.  Indien Onze Minister van Verkeer en Waterstaat binnen vier weken na de in het tweede lid bedoelde toezending de goedkeuring aan de in het eerste lid, onder a en b, genoemde stukken, niet heeft onthouden, wordt deze geacht te zijn verleend.   
 
 ### Artikel  5.44  
 
 Waar in deze wet de goedkeuring van Onze Minister van Verkeer en Waterstaat is vereist, verleent dan wel onthoudt hij die, behoudens het bepaalde in artikel 5.43, derde lid, binnen twaalf weken na de datum van ontvangst van de goed te keuren stukken. Indien Onze Minister van Verkeer en Waterstaat goedkeuring onthoudt aan de financiële begroting, is het bestuur gerechtigd voor iedere maand gedurende welke de goedkeuring wordt onthouden, uitgaven te doen ter grootte van maximaal een twaalfde deel van de begroting van het voorafgaande boekjaar.  
-
-### Artikel  5.45  
-
-Indien naar het oordeel van Onze Minister van Verkeer en Waterstaat het bestuur dan wel de raad van toezicht van de LVNL zijn taak niet of niet naar behoren vervult, kan Onze Minister van Verkeer en Waterstaat, na overleg met het betrokken orgaan, de noodzakelijke voorzieningen treffen. Onze Minister stelt de Tweede Kamer der Staten-Generaal onverwijld in kennis van de door hem getroffen voorzieningen.  
-
-### Artikel  5.46  
-
-Onze Minister van Verkeer en Waterstaat zendt binnen vijf jaar na inwerkingtreding van deze wet en vervolgens na iedere vijf jaar aan de Staten-Generaal een verslag over de werking en doeltreffendheid van de LVNL. De LVNL is gehouden aan deze evaluatie medewerking te verlenen.  
 
 ### Hoofdstuk  6  
 
@@ -1603,7 +1585,8 @@ Het is passagiers en leden van het boordpersoneel verboden gevaarlijke stoffen a
 
 ### Artikel  7.3  
 
-Een luchthavencoördinator als bedoeld in Verordening nr. 95/93 van de Raad van de Europese Gemeenschappen van 18 januari 1993 betreffende gemeenschappelijke regels voor de toewijzing van «slots» op communautaire luchthavens (PbEG L 14) die bij de uitvoering van zijn taak krachtens de verordening schade toebrengt aan luchtvaartmaatschappijen of anderen, is te dier zake niet aansprakelijk, tenzij de schade een gevolg is van zijn opzet of roekeloosheid.  
+1.  Een luchthavencoördinator als bedoeld in Verordening nr. 95/93 van de Raad van de Europese Gemeenschappen van 18 januari 1993 betreffende gemeenschappelijke regels voor de toewijzing van «slots» op communautaire luchthavens (PbEG L 14) die bij de uitvoering van zijn taak krachtens de verordening schade toebrengt aan luchtvaartmaatschappijen of anderen, is te dier zake niet aansprakelijk, tenzij de schade een gevolg is van zijn opzet of roekeloosheid.   
+2.  Op de luchthavencoördinator is de [Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing, met uitzondering van de [artikelen 18](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [21](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [22 van die wet](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).   
 
 ### Titel  7.3  
 
@@ -2045,13 +2028,6 @@ De exploitant van de luchthaven zendt de raad en de gebruikers binnen vijf maand
 4.  Onze Minister van Verkeer en Waterstaat en Onze Minister van Justitie verstrekken de raad desgevraagd de inlichtingen en gegevens die deze voor de uitoefening van zijn taak nodig heeft.   
 5.  De raad gebruikt de gegevens of inlichtingen die hij heeft verkregen op grond van deze wet uitsluitend voor de uitoefening van zijn bevoegdheden op grond van deze wet.   
 6.  Ingeval van overtreding van het derde lid is [hoofdstuk 8 van de Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md), met uitzondering van de [artikelen 71 tot en met 76](../../../../wet/mededingingswet/BWBR0008691/README.md) en [artikel 80](../../../../wet/mededingingswet/BWBR0008691/README.md), van overeenkomstige toepassing.   
-
-### Artikel  8.25i  
-
-1.  Een belanghebbende kan beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State tegen een besluit als bedoeld in de artikelen 8.25, tweede lid, 8.25b en 8.25c.   
-2.  Een belanghebbende kan beroep instellen bij het College van Beroep voor het bedrijfsleven tegen een besluit omtrent de voorlopige inwerkingtreding als bedoeld in artikel 8.25f, tweede lid.   
-3.  In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten van de raad op grond van artikel 8.25f, eerste lid, en artikel 8.25g, eerste lid, de rechtbank te Rotterdam bevoegd.   
-4.  In geval van een beroep tegen besluiten als bedoeld in artikel 8.25f, eerste en tweede lid, en artikel 8.25g, eerste lid, blijft [artikel 7:1 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) buiten toepassing.   
 
 ### Artikel  8.25j  
 
@@ -2759,7 +2735,7 @@ Indien de belangrijke luchthaven een luchthaven van regionale betekenis is, tred
 
 ### Titel  8A.5  
 
-####Overige bepalingen
+####Overige bepalingen burgerluchthavens
 
 ### Artikel  8a.50  
 
@@ -2770,8 +2746,7 @@ Indien de belangrijke luchthaven een luchthaven van regionale betekenis is, tred
 
 ### Artikel  8a.50a  
 
-1.  Indien ten aanzien van de burgerluchthaven Twente een vrijstelling, als bedoeld in artikel 8a.50, tweede lid, van het verbod in artikel 8.1a, derde lid, wordt verleend, is op de voorbereiding van die vrijstelling [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
-2.  Tegen een vrijstelling als bedoeld in het eerste lid kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
+Indien ten aanzien van de burgerluchthaven Twente een vrijstelling, als bedoeld in artikel 8a.50, tweede lid, van het verbod in artikel 8.1a, derde lid, wordt verleend, is op de voorbereiding van die vrijstelling [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.  
 
 ### Artikel  8a.51  
 
@@ -3389,10 +3364,12 @@ a. de in [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/va
 
 b. voor zover het betreft de burgerluchtvaart de hiertoe bij besluit van Onze Minister van Verkeer en Waterstaat aangewezen ambtenaren; de aanwijzing kan inhouden, dat de betrokken ambtenaar slechts belast is met het toezicht op de naleving van een of enkele in die aanwijzing genoemde hoofdstukken of artikelen gesteld bij of krachtens deze wet;  
 
-c. voor zover het betreft het vervoer van gevaarlijke stoffen als bedoeld in titel 6.5 en de artikelen 10.7 en 10.8, met luchtvaartuigen waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is, de hiertoe bij besluit van Onze Minister van Defensie aangewezen ambtenaren; de aanwijzing kan inhouden dat de betrokken ambtenaar slechts belast is met het toezicht op de naleving van een of enkele in die aanwijzing genoemde artikelen gesteld bij of krachtens deze wet.     
+c. voor zover het betreft het vervoer van gevaarlijke stoffen als bedoeld in titel 6.5 en de artikelen 10.7 en 10.8, met luchtvaartuigen waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is, de hiertoe bij besluit van Onze Minister van Defensie aangewezen ambtenaren; de aanwijzing kan inhouden dat de betrokken ambtenaar slechts belast is met het toezicht op de naleving van een of enkele in die aanwijzing genoemde artikelen gesteld bij of krachtens deze wet;  
+
+d. voor zover het betreft titel 8A.6 de hiertoe bij besluit van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aangewezen ambtenaren.     
 2.  Met het toezicht op de naleving van hetgeen bepaald is bij of krachtens de kaderverordening, de luchtvaartnavigatiedienstenverordening, de luchtruimverordening en interoperabiliteitsverordening, zijn belast de hiertoe bij besluit van Onze Minister van Verkeer en Waterstaat aangewezen ambtenaren. De aanwijzing kan inhouden, dat de betrokken ambtenaar slechts belast is met het toezicht op de naleving van een of enkele in die aanwijzing genoemde hoofdstukken of artikelen gesteld bij of krachtens een van de genoemde verordeningen.   
 3.  Onze Minister van Verkeer en Waterstaat kan met het oog op de coördinatie van het beleid ten aanzien van het toezicht algemene aanwijzingen geven aan de ambtenaren, bedoeld in het eerste lid, onderdeel a.   
-4.  Van een besluit als bedoeld in het eerste lid, onderdeel b of c, of het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
+4.  Van een besluit als bedoeld in het eerste lid, de onderdelen b tot en met d, of het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
 
 ### Artikel  11.1a  
 
@@ -3761,10 +3738,6 @@ Onze Minister van Verkeer en Waterstaat publiceert, voor zover van toepassing, u
 ### Hoofdstuk  12  
 
 ####Overgangs- en slotbepalingen
-
-### Artikel  12.1  
-
-Tegen een besluit als bedoeld in de artikelen 8.43, eerste lid, 8.64, eerste lid, artikel 8.70, eerste en zesde lid, 8.77, eerste lid, 10.15, eerste lid, en 10.39 kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State. [Artikel 8:2 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.  
 
 ### Artikel  12.2  
 

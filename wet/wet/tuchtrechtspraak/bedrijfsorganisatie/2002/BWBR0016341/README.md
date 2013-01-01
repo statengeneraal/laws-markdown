@@ -140,7 +140,7 @@ b. de mededeling, dat de betrokkene bevoegd is getuigen en deskundigen ter zitti
 ### Artikel  17  
 
 1.  Het tuchtgerecht kan bevelen dat de betrokkene, dan wel, in het geval bedoeld in artikel 6, derde lid, een bestuurder in persoon verschijnt.   
-2.  Indien de betrokkene, dan wel de bestuurder, wiens persoonlijke verschijning is bevolen, niet op de oproeping verschijnt, kan het tuchtgerecht de officier van justitie bij de rechtbank, binnen welker rechtsgebied het tuchtgerecht zitting houdt, verzoeken de betrokkene, dan wel de bestuurder ter terechtzitting van het tuchtgerecht te dagvaarden en daarbij te voegen een bevel tot medebrenging.   
+2.  Indien de betrokkene, dan wel de bestuurder, wiens persoonlijke verschijning is bevolen, niet op de oproeping verschijnt, kan het tuchtgerecht de officier van justitie in het arrondissement waarin het tuchtgerecht zitting houdt, verzoeken de betrokkene, dan wel de bestuurder ter terechtzitting van het tuchtgerecht te dagvaarden en daarbij te voegen een bevel tot medebrenging.   
 
 ### Artikel  18  
 

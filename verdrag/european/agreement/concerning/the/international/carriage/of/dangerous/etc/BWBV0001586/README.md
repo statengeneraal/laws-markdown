@@ -258,7 +258,7 @@ IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed t
 
 ### Annexes  
 
-Ligt ter inzage bij het Ministerie van Buitenlandse Zaken, afdeling Verdragen en gepubliceerd op http://live.unece.org/trans/danger/publi/adn/adn2011/11files_e.html.    
+Ligt ter inzage bij het Ministerie van Buitenlandse Zaken, afdeling Verdragen en gepubliceerd op http://live.unece.org/trans/danger/publi/adn/adn2011/11files_e.html.   De teksten van de wijzigingen van 27 januari 2012 en 31 augustus 2012 liggen ter inzage bij het Ministerie van Buitenlandse Zaken, afdeling Verdragen. Tevens is de Engelse tekst van de wijzigingen te raadplegen op http://www.unece.org/trans/main/dgdb/adn/adn_rep.html.    
 
 ####Europees Verdrag inzake het internationale vervoer van gevaarlijke goederen over de binnenwateren (ADN)
 
@@ -457,7 +457,7 @@ a. Voorgestelde wijzigingen van het Verdrag en besluiten die daarop betrekking h
 
 b. Voorgestelde wijzigingen van de Voorschriften in de bijlagen en besluiten die daarop betrekking hebben worden aangenomen in overeenstemming met de bepalingen van artikel 20, vierde lid;  
 
-c. Voorstellen en besluiten betreffende de aanbeveling van overeengekomen classificatiebureaus, of betreffende het intrekken van die aanbeveling, worden aangenomen in overeenstemming met de procedure van de bepalingen van Voorstellen en besluiten betreffende de aanbeveling van overeengekomen classificatiebureaus, of betreffende het intrekken van die aanbeveling, worden aangenomen in overeenstemming met de procedure van de bepalingen van artikel 20, vierde lid;  
+c. Voorstellen en besluiten betreffende de aanbeveling van overeengekomen classificatiebureaus, of betreffende het intrekken van die aanbeveling, worden aangenomen in overeenstemming met de procedure van de bepalingen van artikel 20, vierde lid;  
 
 d. Elk ander voorstel of besluit dan hiervoor bedoeld onder a tot en met c wordt aangenomen door een meerderheid van de leden van het Administratief Comité die aanwezig zijn en hun stem uitbrengen.     
 8.  Het Administratief Comité kan zodanige werkgroepen instellen als het noodzakelijk acht om het bij te staan bij het uitvoeren van zijn taken.   
@@ -516,4 +516,4 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 ### Bijlagen  
 
-Ligt ter inzage bij het Ministerie van Buitenlandse Zaken, afdeling Verdragen.    
+Ligt ter inzage bij het Ministerie van Buitenlandse Zaken, afdeling Verdragen.   De teksten van de wijzigingen van 27 januari 2012 en 31 augustus 2012 liggen ter inzage bij het Ministerie van Buitenlandse Zaken, afdeling Verdragen. Tevens is de Engelse tekst van de wijzigingen te raadplegen op http://www.unece.org/trans/main/dgdb/adn/adn_rep.html.    

@@ -2,13 +2,18 @@
 
 ##Uitvoeringsregeling Belastingwet BES
 
+De Staatssecretaris van Financiën,  
+Handelende in overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+
+Gelet op de [artikelen 5.7](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.1](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.3](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.7l](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.10](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.11, eerste en tweede lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.12](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.15](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.20](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.21](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.22](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.25, eerste en derde lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.26](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.3, eerste en vijfde lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.8, zevende lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.11, tweede lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.21, tweede lid, onderdeel b](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.57, eerste en vierde lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.58, eerste en tweede lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.63](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.128, derde lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), en [8.130, derde lid, van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md);
+Besluit:     
 ### Hoofdstuk  1  
 
 ####Inleidende bepalingen
 
 ### Artikel  1.1  
 
-1.  Deze regeling geeft uitvoering aan de [artikelen 5.7](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.1](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.3](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.7l](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.10](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.11, eerste en tweede lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.12](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.15](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.20](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.21](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.22](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.25, eerste en derde lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.26](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.3, eerste en vijfde lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.8, zevende lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.11, tweede lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.21, tweede lid, onderdeel b](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.57, eerste en vierde lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.58, eerste en tweede lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.63](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.128, derde lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), en [8.130, derde lid, van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [artikel XVII van de Invoeringswet fiscaal stelsel BES](../../../../../wet-BES/invoeringswet/fiscaal/stelsel/bes/BWBR0029268/README.md).   
+1.  Deze regeling geeft uitvoering aan de [artikelen 5.7](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.1](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.3](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.7l](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.10](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.11, eerste en tweede lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.12](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.15](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.20](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.21](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.22](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.25, eerste en derde lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [6.26](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.3, eerste en vijfde lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.8, zevende lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.11, tweede lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.19, onderdeel a](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.21, tweede lid, onderdeel b](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.57, eerste en vierde lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.58, eerste en tweede lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.63](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.128, derde lid](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), en [8.130, derde lid, van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [artikel XVII van de Invoeringswet fiscaal stelsel BES](../../../../../wet-BES/invoeringswet/fiscaal/stelsel/bes/BWBR0029268/README.md).   
 2.  Deze regeling verstaat hierna onder wet: [Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md).   
 
 ### Hoofdstuk  2  
@@ -79,17 +84,21 @@ a. zijn ingericht om te worden gebruikt door de politie en als zodanig uiterlijk
 
 b. zijn ingericht om te worden gebruikt door de brandweer en als zodanig uiterlijk kenbaar zijn;  
 
-c. zijn ingericht voor het vervoer van zieken en gewonden en als zodanig uiterlijk kenbaar zijn;  
+c. zijn ingericht om te worden gebruikt door de Koninklijke Marechaussee en als zodanig uiterlijk kenbaar zijn;  
 
-d. zijn ingericht voor het vervoer van stoffelijke overschotten en als zodanig uiterlijk kenbaar zijn;  
+d. zijn ingericht om te worden gebruikt door de Belastingdienst/Douane en als zodanig uiterlijk kenbaar zijn;  
 
-e. zijn ingericht voor het vervoer van gevangenen en als zodanig uiterlijk kenbaar zijn;  
+e. zijn ingericht voor het vervoer van zieken en gewonden en als zodanig uiterlijk kenbaar zijn;  
 
-f. zijn ingericht en uitsluitend worden gebruikt voor het vervoer van rolstoelgebruikers in groepsverband;  
+f. zijn ingericht voor het vervoer van stoffelijke overschotten en als zodanig uiterlijk kenbaar zijn;  
 
-g. zijn ingericht voor het vervoer van zieke of gewonde dieren en als zodanig uiterlijk kenbaar zijn; of  
+g. zijn ingericht voor het vervoer van gevangenen en als zodanig uiterlijk kenbaar zijn;  
 
-h. zijn ingericht voor geldtransport en als zodanig uiterlijk kenbaar zijn.    
+h. zijn ingericht en uitsluitend worden gebruikt voor het vervoer van rolstoelgebruikers in groepsverband;  
+
+i. zijn ingericht voor het vervoer van zieke of gewonde dieren en als zodanig uiterlijk kenbaar zijn; of  
+
+j. zijn ingericht voor geldtransport en als zodanig uiterlijk kenbaar zijn.    
 
 ### Artikel  6.3  
 
@@ -120,10 +129,6 @@ Alvorens te beslissen op een verzoek om teruggaaf van belasting als bedoeld in [
 
 ####Plaats van dienst
 
-### Artikel  6.5  
-
-In afwijking in zoverre van de in [hoofdstuk VI van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) opgenomen regels voor de plaats van dienst worden de diensten, bedoeld in [artikel 6.7i, eerste lid, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), die worden verricht aan een andere dan een ondernemer, verricht in een openbaar lichaam, wanneer het werkelijk gebruik en de werkelijke exploitatie in dat openbaar lichaam plaatsvinden.  
-
 ### §  3  
 
 ####Tarief en Vrijstellingen
@@ -135,18 +140,12 @@ De aanspraak op toepassing van het tarief van nihil voor leveringen van goederen
 ### Artikel  6.7  
 
 1.  Voor de toepassing van de in [artikel 6.11 van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) vervatte vrijstellingen is de ondernemer gehouden een boekhouding te voeren waarin de voor die toepassing benodigde gegevens op duidelijke en overzichtelijke wijze zijn vermeld.   
-2.  De vrijstelling van belasting, bedoeld in [artikel 6.11, eerste lid, onderdeel a, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), is slechts van toepassing voor: 
-
-a. brood als basisvoedingsmiddel wordt verkregen door het bakken van gekneed en gegist, of op andere wijze gerezen, deeg, deeg dat is verkregen uit meel of bloem van bakwaardige granen, water, gist, zuurdesem of een ander rijsmiddel en zout;  
-
-b. granen ingedeeld in hoofdstuk 10, alsmede in de posten 1101 tot en met 1104, 1108 11, 1108 12 en 1109 van het geharmoniseerde systeem, bedoeld in [artikel 3.1, tweede lid, onderdeel a, van de Douane- en Accijnswet BES](../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md);  
-
-c. aardappelen ingedeeld in post 0701 van het hiervoor genoemde geharmoniseerde systeem alsmede bataten, vers en bestemd voor menselijke consumptie.     
-3.  Deeg als bedoeld in het tweede lid, onderdeel a, kan een bereidingsmiddel bevatten alsmede melk en komijn en brood als bedoeld in het tweede lid, onderdeel a, mag aan de buitenkant zijn voorzien van zaden of van geklopt ei.   
-4.  De vrijstelling van belasting voor de diensten door artsen en andere medische beroepsbeoefenaren, bedoeld in [artikel 6.11, eerste lid, onderdeel c, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), is alleen van toepassing als die medische beroepsbeoefenaren gediplomeerd zijn en voldoen aan de wettelijke vereisten van het [Besluit beperking vestiging medische beroepsbeoefenaren BES](../../../../../AMvB-BES/besluit/uitoefenen/medisch/beroep/bes/BWBR0028397/README.md).   
-5.  Voor de toepassing van de vrijstelling, bedoeld in [artikel 6.11, eerste lid, onderdeel f, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), wordt onder niet-commercieel onderwijs verstaan: van overheidswege bekostigd en georganiseerd onderwijs en door niet-winstbeogende ondernemers verstrekt algemeen vormend onderwijs, beroepsopleidingen, alsmede aan personen jonger dan 21 jaar verstrekt onderwijs in muziek, dans, drama en beeldende vorming.   
-6.  Onder onderwijs als bedoeld in [artikel 6.11, eerste lid, onderdeel f, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) wordt mede begrepen bijlessen, tentamen- of examentrainingen, en het afnemen van examens in het kader van het onderwijs, bedoeld in het vijfde lid, alsmede met dat onderwijs nauw samenhangende leveringen en diensten.   
-7.  De vrijstelling, bedoeld in [artikel 6.11, eerste lid, onderdeel n, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), wordt alleen toegepast na een schriftelijk verzoek van de in dat onderdeel genoemde personen aan de inspecteur, die aan de inwilliging van dat verzoek voorwaarden en beperkingen kan stellen die overeenkomen met de bepalingen van [Hoofdstuk 9 van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](../../../../../ministeriele-regeling/uitvoeringsregeling/algemene/wet/inzake/rijksbelastingen/1994/BWBR0006736/README.md).   
+2.  De vrijstelling van belasting, bedoeld in [artikel 6.11, eerste lid, onderdeel a, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), is slechts van toepassing voor goederen ingedeeld in de hoofdstukken 4, 7 tot en met 11, 15, 17 en 19 van het geharmoniseerde systeem, genoemd in [artikel 3.1, tweede lid, onderdeel a, van de Douane- en Accijnswet BES](../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md).   
+3.  De vrijstelling van belasting voor de diensten door artsen en andere medische beroepsbeoefenaren, bedoeld in [artikel 6.11, eerste lid, onderdeel c, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), is alleen van toepassing als die medische beroepsbeoefenaren gediplomeerd zijn en voldoen aan de wettelijke vereisten van het [Besluit beperking vestiging medische beroepsbeoefenaren BES](../../../../../AMvB-BES/besluit/uitoefenen/medisch/beroep/bes/BWBR0028397/README.md).   
+4.  Voor de toepassing van de vrijstelling, bedoeld in [artikel 6.11, eerste lid, onderdeel f, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), wordt onder niet-commercieel onderwijs verstaan: van overheidswege bekostigd en georganiseerd onderwijs en door niet-winstbeogende ondernemers verstrekt algemeen vormend onderwijs, beroepsopleidingen, alsmede aan personen jonger dan 21 jaar verstrekt onderwijs in muziek, dans, drama en beeldende vorming.   
+5.  Onder onderwijs als bedoeld in [artikel 6.11, eerste lid, onderdeel f, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) wordt mede begrepen bijlessen, tentamen- of examentrainingen, en het afnemen van examens in het kader van het onderwijs, bedoeld in het vijfde lid, alsmede met dat onderwijs nauw samenhangende leveringen en diensten.   
+6.  De vrijstelling, bedoeld in [artikel 6.11, eerste lid, onderdeel n, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), wordt alleen toegepast na een schriftelijk verzoek van de in dat onderdeel genoemde personen aan de inspecteur, die aan de inwilliging van dat verzoek voorwaarden en beperkingen kan stellen die overeenkomen met de bepalingen van [Hoofdstuk 9 van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](../../../../../ministeriele-regeling/uitvoeringsregeling/algemene/wet/inzake/rijksbelastingen/1994/BWBR0006736/README.md).   
+7.  De vrijstelling, bedoeld in [artikel 6.11, eerste lid, onderdeel w, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), wordt alleen toegepast op schriftelijk verzoek aan de inspecteur door de ondernemer die de vrijstelling op een prestatie of op een deel van die prestatie wil toepassen en die bij zijn verzoek schriftelijke bescheiden overlegt waaruit blijkt dat het een prestatie of een deel daarvan betreft voor projecten die voor rekening komen van de in genoemd artikel van de wet bedoelde donoren. De inspecteur beslist op het verzoek om toepassing van de vrijstelling bij voor bezwaar vatbare beslissing.   
 
 ### Artikel  6.8  
 
@@ -191,7 +190,7 @@ c. op verzoek van de inspecteur de invoerbewijzen ter inzage geven.
 4.  Indien bij de invoer van grond- en hulpstoffen en halffabricaten door een voor de toepassing van de in het tweede lid bedoelde vrijstelling aangewezen producent twijfel bestaat over de aanwending van die goederen door de producent in het kader van zijn onderneming, kan de vrijstelling voor de invoer van die goederen worden geweigerd.   
 5.  De vrijstelling is nog niet definitief verleend zolang en voor zover de goederen nog niet zijn aangewend voor belaste verkopen. De initiële vrijstelling wordt omgezet in verschuldigde belasting ter zake van invoer voor zover de goederen niet binnen vijf jaar na de invoer zijn aangewend voor belaste verkopen. Dit geldt eveneens voor zover de goederen anders worden aangewend dan voor de vrijstelling is vereist. Alsdan is de belasting verschuldigd op het moment van die andere aanwending, of, indien dat moment niet kan worden aangeduid, op het moment waarop de vrijstelling van toepassing werd.   
 6.  De aanwijzing, bedoeld in [artikel 6.20 van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), kan door de inspecteur worden ingetrokken indien de producent op grond van [artikel 6.22 van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) wordt ontheven van het voldoen van belasting, de ondernemer ophoudt producent te zijn, niet aan zijn aangifte- en boekhoudverplichtingen voldoet of niet voldoet aan de ingevolge het eerste en tweede lid geldende voorwaarden.   
-7.  De invoer van de categorieën goederen brood, graan, aardappelen en rijst, bedoeld in [artikel 6.20, eerste lid, onderdeel c, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), is vrijgesteld van belasting, voor zover deze goederen zijn te rangschikken onder de in artikel 6.7, tweede lid, onderdelen a tot en met c, opgesomde goederen, en als voor het overige ter zake van de invoer van deze goederen is voldaan aan de daarvoor in de douanewetgeving opgenomen bepalingen.   
+7.  De invoer van eerste levensbehoeften, bedoeld in [artikel 6.20, eerste lid, onderdeel c, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), is vrijgesteld van belasting, voor zover deze goederen zijn te rangschikken onder de goederen, bedoeld in artikel 6.7, tweede lid, en indien voor het overige is voldaan aan de daarvoor in de douanewetgeving ter zake van de invoer van goederen, bedoeld in artikel 1.1, onderdeel s, van die wetgeving, opgenomen bepalingen.   
 8.  Vrijgesteld van de belasting ter zake van invoer zijn geneesmiddelen en medische kunst- en hulpmiddelen waarvan de levering op grond van [artikel 6.11, eerste lid, onderdelen d en e, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), is vrijgesteld van belasting.   
 
 ### Artikel  6.12  
@@ -233,10 +232,6 @@ c. bij niet-voldoening aan het derde lid.
 2.  Lichamen als bedoeld in [artikel 6.25, derde lid, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), waarvan op grond van [artikel 6.12, tweede lid, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), belasting wordt geheven, zijn, als zij in dat tweede lid bedoelde prestaties afnemen, ter zake van die prestaties gehouden te voldoen aan de verplichtingen, bedoeld in artikel 6.25, eerste lid, van de wet.   
 3.  Een ondernemer aan wie een levering of dienst wordt verricht waarvoor hij ingevolge [artikel 6.12, tweede lid of vierde lid, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), belasting verschuldigd is, is, onverminderd de verplichtingen, bedoeld in [artikel 6.25, eerste lid, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), tevens gehouden aan de verplichting zijn boekhouding zo in te richten dat de door hem ter zake van die levering of dienst verschuldigde belasting op overeenkomstige wijze als bedoeld in artikel 6.25, eerste lid, onderdeel c, van de wet, kan worden vastgesteld.   
 
-### Artikel  6.16  
-
-[Artikel 6.17, tweede lid, aanhef, onderdeel e, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) is slechts van toepassing op accijnsgoederen waaruit of met behulp waarvan accijnsgoederen worden vervaardigd.  
-
 ### Artikel  6.17  
 
 Ter zake van de overgang van de tot 1 januari 2011 op de BES eilanden geheven omzetbelasting en belasting op de bedrijfsomzetten naar de heffing van algemene bestedingsbelasting is [artikel 6.27 van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) van overeenkomstige toepassing.  
@@ -245,7 +240,10 @@ Ter zake van de overgang van de tot 1 januari 2011 op de BES eilanden geheven o
 
 ####Overdrachtsbelasting ([hoofdstuk VII van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md))
 
-Gereserveerd    
+### Artikel  7.1  
+
+De vrijstelling van belasting, bedoeld in [artikel 7.4, eerste lid, onderdeel g, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), is alleen van toepassing voor zover ter zake van de levering van de in dat onderdeel genoemde onroerende zaken algemene bestedingsbelasting verschuldigd is.  
+
 ### Hoofdstuk  8  
 
 ####Formeel belastingrecht en invordering van BES belastingen ([hoofdstuk VIII van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md))
@@ -282,6 +280,18 @@ c. de loonbelasting.
 ### Artikel  8.4  
 
 Van de verplichting de in de uitnodiging tot het doen van aangifte gevraagde gegevens en bescheiden en andere gegevensdragers of de inhoud daarvan in te leveren of toe te zenden, kan de inspecteur ontheffing verlenen ingeval degene die is uitgenodigd tot het doen van aangifte, op een binnen de door de inspecteur ingevolge [artikel 8.6 van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) gestelde termijn ingediend verzoek opnieuw is uitgenodigd tot het doen van aangifte.  
+
+### §  2a  
+
+####Beschikking vermindering loonbelasting
+
+### Artikel  8.4a  
+
+1.  Indien het bedrag van de aan de werknemer, bedoeld in [artikel 2 van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md), op te leggen aanslag inkomstenbelasting zonder toepassing van dit artikel vermoedelijk meer dan een vierde of meer dan USD 560 lager zal zijn dan de van hem over het betreffende jaar in te houden loonbelasting, kan de werknemer bij de inspecteur verzoeken om een voor bezwaar vatbare beschikking vermindering loonbelasting.   
+2.  Binnen dertig dagen na de ontvangst van het verzoek, bedoeld in het eerste lid, beslist de inspecteur bij beschikking. De inspecteur deelt zijn beslissing schriftelijk mee aan de werknemer.   
+3.  In de beschikking wordt een bedrag per loontijdvak genoemd, waarmee de inhoudingsplichtige, bedoeld in [artikel 4 van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md), vanaf het moment dat hij van de werknemer de originele beschikking heeft ontvangen, rekening moet houden bij het bepalen van het per loontijdvak in te houden bedrag aan loonbelasting.   
+4.  De beschikking, bedoeld in het tweede lid, vervalt ingeval de inhoudingsplichtige, bedoeld in het derde lid, niet langer degene is tot wie de werknemer in dienstbetrekking staat.   
+5.  Indien de [artikelen 12a](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) of [12c van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [artikel 24c van de Wet inkomstenbelasting BES](../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) toepassing vinden, zijn de vorige leden van overeenkomstige toepassing met betrekking tot het gezamenlijke bedrag van de belasting, de premies voor de algemene ouderdomsverzekering BES en de algemene weduwen- en wezenverzekering BES en de premie die verschuldigd is ingevolge het [Besluit zorgverzekering BES](../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md).   
 
 ### §  3  
 
@@ -326,7 +336,7 @@ c. een inhoudingsplichtige die hierom verzoekt.
 
 1.  De geheimhoudingsplicht, bedoeld in [artikel 8.21 van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), geldt niet voor verstrekking aan de hierna genoemde bestuursorganen voor zover het betreft de hierna genoemde gegevens ten behoeve van de hierna genoemde publiekrechtelijke taak: 
 
-a. de Minister van Financiën: gegevens die worden gebruikt door de Rijksauditdienst ten behoeve van controles en onderzoeken als bedoeld in [hoofdstuk VI van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), of ten behoeve van door de Belastingdienst aan de Rijksauditdienst opgedragen werkzaamheden;  
+a. de Minister van Financiën: gegevens die worden gebruikt door de Auditdienst Rijk ten behoeve van controles en onderzoeken als bedoeld in [hoofdstuk VI van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), of ten behoeve van door de Belastingdienst aan de Auditdienst Rijk opgedragen werkzaamheden;  
 
 b. de Minister van Binnenlandse Zaken en Koninkrijksrelaties: 
 

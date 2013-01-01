@@ -1389,10 +1389,53 @@ Indien er zekerheid of vermoeden bestaat, dat er verlies of schade is, moeten de
 
 ### Artikel  500  
 
-1.  De overeenkomst van personenvervoer in de zin van deze titel is de overeenkomst van personenvervoer, al dan niet tijd- of reisbevrachting zijnde, waarbij de ene partij (de vervoerder) zich tegenover de andere partij verbindt aan boord van een schip een of meer personen (reizigers) en al dan niet hun bagage uitsluitend over zee te vervoeren. De overeenkomst van personenvervoer aan boord van een luchtkussenvoertuig noch de overeenkomst van personenvervoer als omschreven in artikel 100 is een overeenkomst van personenvervoer in de zin van deze afdeling.   
-2.  Vervoer over zee en binnenwateren aan boord van een en eenzelfde schip, dat deze beide wateren bevaart, wordt als vervoer over zee beschouwd.   
-3.  Hutbagage in de zin van deze afdeling is de bagage, met uitzondering van levende dieren die de reiziger in zijn hut heeft, die hij in zijn bezit, onder zijn toezicht of in zijn macht heeft, alsmede de bagage die hij aan boord heeft van een met hem als bagage ten vervoer aangenomen voertuig of schip, doch niet dit voertuig of schip zelf.   
-4.  Bij algemene maatregel van bestuur kunnen zaken die geen hutbagage zijn voor de toepassing van bepalingen van deze afdeling als hutbagage worden aangewezen, dan wel bepalingen van deze afdeling niet van toepassing worden verklaard op zaken, die hutbagage zijn.   
+In deze afdeling wordt verstaan onder: 
+
+a. *Verdrag:* het Verdrag van Athene betreffende het vervoer van passagiers en hun bagage over zee van 1974, zoals gewijzigd bij het Protocol van 2002 (Trb. 2011, 110);  
+
+b. *Verordening:* Verordening (EG) 392/2009 van het Europees Parlement en de Raad van 23 april 2009 betreffende de aansprakelijkheid van vervoerders van passagiers over zee bij ongevallen (Pb EU L 131);  
+
+c. *Protocol van 2002:* Protocol van 2002 bij het Verdrag van Athene betreffende het vervoer van passagiers en hun bagage over zee van 1974;  
+
+d. *IMO richtsnoeren:* Richtsnoeren van de Internationale Maritieme Organisatie (IMO) voor de uitvoering van het Verdrag van Athene (IMO Circular letter No. 2 758 van 20 november 2006);  
+
+e. *overeenkomst van personenvervoer:* de overeenkomst van personenvervoer, al dan niet tijd- of reisbevrachting zijnde, waarbij de ene partij (de vervoerder) zich tegenover de andere partij verbindt aan boord van een schip een of meer personen (reizigers) en al dan niet hun bagage over zee te vervoeren. De overeenkomst van personenvervoer als omschreven in artikel 100 is geen overeenkomst van personenvervoer in de zin van deze afdeling. Vervoer over zee en binnenwateren aan boord van een en eenzelfde schip, dat deze beide wateren bevaart, wordt in afwijking van artikel 121 als vervoer over zee beschouwd;  
+
+f. *vervoerder:* persoon door of namens wie een overeenkomst van personenvervoer is gesloten, ongeacht of het vervoer feitelijk door deze persoon dan wel door een feitelijke vervoerder wordt verzorgd;  
+
+g. *feitelijke vervoerder:* een andere persoon dan de vervoerder, zijnde de eigenaar, bevrachter of exploitant van een schip, die het vervoer feitelijk geheel of gedeeltelijk verricht;  
+
+h. *vervoerder die het vervoer feitelijk geheel of gedeeltelijk verricht:* de feitelijke vervoerder, of, voor zover de vervoerder zelf het vervoer verricht, de vervoerder.  
+
+i. *reiziger:* iedere persoon vervoerd op een schip krachtens een overeenkomst van personenvervoer en iedere persoon vervoerd op een schip die met toestemming van de vervoerder een voertuig of levend dier begeleidt, waarvoor een overeenkomst van goederenvervoer is gesloten;  
+
+j. *schip:* een zeegaand schip, met uitzondering van luchtkussenvaartuigen;  
+
+k. *bagage:* elk voorwerp of voertuig dat krachtens een overeenkomst van personenvervoer door de vervoerder wordt vervoerd, met uitzondering van: 
+
+1°. goederen of voertuigen die worden vervoerd krachtens een overeenkomst die hoofdzakelijk het vervoer van goederen betreft;  
+
+2°. levende dieren;    
+
+l. *hutbagage:* de bagage die zich in de kajuit van de reiziger bevindt, die in zijn bezit is of die hij onder zijn hoede of toezicht heeft. Behalve voor de toepassing van artikel 501 en van artikel 504, zevende lid, omvat de hutbagage de bagage die een reiziger in of op zijn voertuig heeft;  
+
+m. *verlies of schade aan bagage:* omvat eveneens schade voortvloeiend uit het feit dat de bagage niet binnen een redelijke periode, te rekenen vanaf de aankomst van het schip waarop de bagage is vervoerd of had moeten worden vervoerd, aan de reiziger werd afgeleverd, maar omvat niet de vertraging voortvloeiende uit arbeidsconflicten;  
+
+n. *Onze Minister:* de Minister van Infrastructuur en Milieu.    
+
+### Artikel  500a  
+
+1.  Deze afdeling is van toepassing op de overeenkomst van personenvervoer voor zover daarop niet de Verordening van toepassing is.   
+2.  In afwijking van het eerste lid zijn op de overeenkomst van personenvervoer waarop de Verordening van toepassing is, de artikelen 509 tot en met 510, 512, 514 tot en met 515 en 521 tot en met 529k van deze afdeling van toepassing.   
+3.  In afwijking van het eerste lid zijn op de overeenkomst van internationaal personenvervoer waarop het Verdrag noch de Verordening van toepassing is, de artikelen 529 tot en met 529k niet van toepassing.   
+
+### Artikel  500b  
+
+Deze afdeling is niet van toepassing op vorderingen voor schade voortvloeiend uit een nucleair ongeval indien de exploitant van een nucleaire installatie aansprakelijk is voor dergelijke schade: 
+
+a. krachtens het Verdrag van Parijs van 29 juli 1960 inzake wettelijke aansprakelijkheid op het gebied van de kernenergie (Trb. 1961, 27), zoals dit Verdrag is gewijzigd bij het op 28 januari 1964 te Parijs gesloten Aanvullend Protocol bij dit Verdrag (Trb. 1964, 178); of  
+
+b. krachtens een andere regeling betreffende de aansprakelijkheid voor dergelijke schade, op voorwaarde dat die regeling ten opzichte van de personen die dergelijke schade kunnen ondergaan, tenminste even gunstig is als het onder a genoemde Verdrag.    
 
 ### Artikel  501  
 
@@ -1402,9 +1445,7 @@ a. met betrekking tot personen of hun hutbagage de tijd dat de reiziger of zijn 
 
 b. met betrekking tot hutbagage bovendien de tijd dat de reiziger verblijft in een stationsgebouw, op een kade of enige andere haveninstallatie, indien die bagage is overgenomen door de vervoerder en niet weer aan de reiziger is afgeleverd;  
 
-c. met betrekking tot bagage die geen hutbagage is de tijd tussen het overnemen door de vervoerder hetzij te land, hetzij aan boord en de aflevering door de vervoerder;  
-
-d. met betrekking tot een levend dier de tijd dat het aan boord van het schip verblijft dan wel onder de hoede van de vervoerder is.    
+c. met betrekking tot bagage die geen hutbagage is de tijd tussen het overnemen door de vervoerder hetzij te land, hetzij aan boord en de aflevering door de vervoerder.    
 
 ### Artikel  502  
 
@@ -1417,29 +1458,77 @@ De wetsbepalingen omtrent huur, bewaarneming en bruikleen zijn op ter beschikkin
 
 ### Artikel  504  
 
-1.  De vervoerder is aansprakelijk voor schade veroorzaakt door dood of letsel van de reiziger, indien een voorval dat hiertoe leidde zich voordeed tijdens het vervoer en voor zover dit voorval is veroorzaakt door een omstandigheid die een zorgvuldig vervoerder heeft kunnen vermijden of door een omstandigheid waarvan zulk een vervoerder de gevolgen heeft kunnen verhinderen.   
-2.  Vermoed wordt dat een zorgvuldig vervoerder de omstandigheid die leidde tot schipbreuk, aanvaring, stranding, ontploffing of brand heeft kunnen vermijden, alsmede dat zulk een vervoerder heeft kunnen verhinderen dat deze omstandigheid tot een dergelijk voorval leidde.   
-3.  Gebrekkigheid of slecht functioneren van het schip of van het materiaal, waarvan hij zich voor het vervoer bedient wordt aangemerkt als een omstandigheid die een zorgvuldig vervoerder heeft kunnen vermijden en waarvan hij de gevolgen heeft kunnen verhinderen.   
-4.  Bij de toepassing van dit artikel wordt slechts dan rekening gehouden met een gedraging van een derde, indien geen andere omstandigheid, die mede tot het voorval leidde, voor rekening van de vervoerder is.   
+1.  Voor de toepassing van dit artikel: 
 
-### Artikel  505  
+a. wordt onder scheepvaartincident verstaan: schipbreuk, kapseizen, aanvaring of stranden van het schip, explosie of brand aan boord, of defect aan het schip;  
 
-1.  De vervoerder is aansprakelijk voor schade veroorzaakt door geheel of gedeeltelijk verlies dan wel beschadiging van hutbagage of van een als bagage ten vervoer aangenomen levend dier, indien een voorval dat hiertoe leidde zich voordeed tijdens het vervoer en voor zover dit voorval is veroorzaakt door een omstandigheid die een zorgvuldig vervoerder heeft kunnen vermijden of waarvan zulk een vervoerder de gevolgen heeft kunnen verhinderen.   
-2.  Behalve met betrekking tot een levend dier zijn het tweede en derde lid van artikel 504 van toepassing.   
-3.  Bij de toepassing van dit artikel wordt slechts dan rekening gehouden met een gedraging van een derde, indien geen andere omstandigheid, die mede tot het voorval leidde, voor rekening van de vervoerder is.   
-4.  Dit artikel laat de artikelen 545 en 1006 onverlet.   
+b. omvat schuld of nalatigheid van de vervoerder: de schuld of nalatigheid van ondergeschikten van de vervoerder, handelend binnen het kader van hun dienstverband;  
 
-### Artikel  506  
+c. wordt onder defect aan het schip verstaan: gebrekkig of niet functioneren of iedere niet-overeenstemming met toepasselijke veiligheidsvoorschriften van enig deel van het schip of de uitrusting ervan wanneer deze worden gebruikt voor: 
 
-Onder voorbehoud van artikel 505 is de vervoerder aansprakelijk voor schade veroorzaakt door geheel of gedeeltelijk verlies dan wel beschadiging van bagage, indien een voorval dat hiertoe leidde zich voordeed tijdens het vervoer, tenzij en voor zover dit voorval is veroorzaakt door een omstandigheid die een zorgvuldig vervoerder niet heeft kunnen vermijden en waarvan zulk een vervoerder de gevolgen niet heeft kunnen verhinderen.  
+1° ontsnapping, evacuatie, inscheping en ontscheping van reizigers;  
+
+2° aandrijving, besturing, veilig navigeren, afmeren, ankeren;  
+
+3° het aankomen op of vertrekken van een aanleg- of ankerplaats;  
+
+4° beperking van schade na vollopen van het schip; of  
+
+5° het te water laten van de reddingsuitrusting.       
+2.  De aansprakelijkheid van de vervoerder krachtens dit artikel betreft slechts de schade als gevolg van incidenten die zich tijdens het vervoer hebben voorgedaan.   
+3.  Indien schade door dood of letsel van de reiziger is veroorzaakt door een scheepvaartincident is de vervoerder aansprakelijk tot het in artikel 3, eerste lid, van het Verdrag genoemde bedrag, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 23 van het Protocol. De vervoerder is echter niet aansprakelijk indien: 
+
+a. het incident het gevolg is van een daad van oorlog, vijandigheden, burgeroorlog, opstand of een natuurverschijnsel van uitzonderlijke, onvermijdelijke en onbedwingbare aard, of;  
+
+b. geheel is veroorzaakt door een handeling of verzuim van een derde met het opzet het incident te veroorzaken.     
+4.  Indien en voor zover de in het derde lid bedoelde schade het in artikel 3 van het Verdrag bedoelde bedrag te boven gaat, is de vervoerder verder aansprakelijk tot het in artikel 7, eerste lid, van het Verdrag genoemde bedrag, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 23 van het Protocol. De vervoerder is echter niet verder aansprakelijk indien hij bewijst dat het incident dat het verlies heeft veroorzaakt niet aan zijn schuld of nalatigheid te wijten is.   
+5.  Indien schade door dood of letsel van de reiziger niet is veroorzaakt door een scheepvaartincident, is de vervoerder aansprakelijk indien het incident dat het verlies heeft veroorzaakt aan de schuld of de nalatigheid van de vervoerder te wijten is. De aansprakelijkheid van de vervoerder is beperkt tot het in artikel 7, eerste lid, van het Verdrag genoemde bedrag, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 23 van het Protocol.   
+6.  In afwijking van het derde tot en met het vijfde lid is de vervoerder voor schade door dood of letsel van de reiziger als gevolg van een van de risico’s genoemd in punt 2.2 van de IMO richtsnoeren niet verder aansprakelijk dan het laagste bedrag van de volgende bedragen: 
+
+a. 250 000 rekeneenheden per reiziger, per incident; of  
+
+b. 340 miljoen rekeneenheden per schip, per incident.     
+7.  De vervoerder is aansprakelijk voor schade als gevolg van verlies of beschadiging van hutbagage indien het incident dat de schade heeft veroorzaakt aan de schuld of nalatigheid van de vervoerder te wijten is. Schuld of nalatigheid van de vervoerder wordt aangenomen in geval van een scheepvaartincident. De aansprakelijkheid van de vervoerder is beperkt tot het in artikel 8, eerste lid, van het Verdrag genoemde bedrag, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 23 van het Protocol.   
+8.  De vervoerder is aansprakelijk voor schade veroorzaakt door verlies of beschadiging van andere bagage dan hutbagage tenzij de vervoerder bewijst dat het incident dat de schade heeft veroorzaakt niet aan zijn schuld of nalatigheid te wijten is. De aansprakelijkheid van de vervoerder is beperkt tot de in artikel 8, tweede en derde lid, bedoelde bedragen, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 23 van het Protocol.   
+9.  De vervoerder en de reiziger kunnen overeenkomen dat de aansprakelijkheid van de vervoerder met ten hoogste de in artikel 8, vierde lid, van het Verdrag genoemde bedragen, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 23 van het Protocol, kan worden verminderd in het geval van schade aan een voertuig en verlies van of schade aan andere bagage.   
+10.  Vervoerder en reiziger kunnen uitdrukkelijk en schriftelijk hogere aansprakelijkheidsgrenzen overeenkomen dan bedoeld in dit artikel.   
+11.  De wettelijke rente en proceskosten zijn niet begrepen in de in dit artikel bedoelde aansprakelijkheidsgrenzen.   
+12.  Dit artikel laat onverlet enig recht van verhaal van de vervoerder jegens een derde en enig verweer gebaseerd op de nalatigheid van een reiziger op grond van artikel 513.   
+
+### Artikel  504a  
+
+1.  Indien het vervoer geheel of gedeeltelijk door een feitelijke vervoerder wordt uitgevoerd, blijft de vervoerder aansprakelijk voor het volledige vervoer overeenkomstig de bepalingen van deze afdeling. Bovendien is de feitelijke vervoerder onderworpen aan de bepalingen van deze afdeling en kan hij zich op deze bepalingen beroepen voor het gedeelte van het vervoer dat hij zelf heeft verricht.   
+2.  De vervoerder is met betrekking tot het door de feitelijke vervoerder verrichte vervoer aansprakelijk jegens de reiziger voor schade door de handelingen en het verzuim van de feitelijke vervoerder en van diens ondergeschikten, vertegenwoordigers of lasthebbers in de uitoefening van hun taak.   
+3.  Elke overeenkomst waarbij de vervoerder verplichtingen op zich neemt die niet voortvloeien uit deze afdeling of waarbij de vervoerder afstand doet van rechten die voortvloeien uit deze afdeling, zal ten opzichte van de feitelijke vervoerder slechts gevolg hebben als deze laatste daar uitdrukkelijk en schriftelijk mee heeft ingestemd.   
+4.  Indien en voor zover de vervoerder en de feitelijke vervoerder beiden aansprakelijk zijn, zijn zij hoofdelijk verbonden.   
+5.  Dit artikel laat onverlet enig recht op verhaal van de vervoerder en de feitelijke vervoerder.   
+
+### Artikel  504b  
+
+1.  De in artikel 504 bedoelde aansprakelijkheidsgrenzen worden toegepast op de totale som van de schadevergoeding die kan worden verkregen in het kader van alle aansprakelijkheidsvorderingen bij dood of letsel van een reiziger of bij verlies of beschadiging van zijn bagage.   
+2.  Bij vervoer door een feitelijke vervoerder kan de totale som van de schadevergoeding die kan worden verkregen van de vervoerder, de feitelijke vervoerder, en hun ondergeschikten, vertegenwoordigers en lasthebbers die handelen in de uitoefening van hun taak, niet hoger zijn dan de hoogste vergoeding die de vervoerder of de feitelijke vervoerder krachtens deze afdeling kan worden opgelegd. Geen van de in dit lid genoemde personen kan aansprakelijk worden gesteld voor een bedrag dat de aansprakelijkheidsgrens die voor hem krachtens deze afdeling van toepassing is, te boven gaat.   
+3.  Indien een ondergeschikte, vertegenwoordiger of lasthebber van de vervoerder of van de feitelijke vervoerder zich krachtens artikel 504e kan beroepen op de in artikel 504 bedoelde aansprakelijkheidsgrenzen, gaat de totale som van de schadevergoeding die kan worden verkregen van de vervoerder of van de feitelijke vervoerder en van de ondergeschikte, vertegenwoordiger of lasthebber, die grenzen niet te boven.   
+
+### Artikel  504c  
+
+1.  De vervoerder kan zich niet beroepen op de in artikel 504 bedoelde beperking van aansprakelijkheid, indien bewezen is dat de schade voortvloeit uit een handeling of een verzuim door de vervoerder, hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat dergelijke schade waarschijnlijk daaruit zou voortvloeien.   
+2.  De ondergeschikte, de vertegenwoordiger of de lasthebber van de vervoerder of van de feitelijke vervoerder kan zich niet beroepen op de in het eerste lid bedoelde beperking van aansprakelijkheid indien de schade voortvloeit uit een handeling of verzuim door die ondergeschikte, vertegenwoordiger of lasthebber, hetzij met het opzet dergelijke schade te veroorzaken, hetzij roekeloos en met de wetenschap dat dergelijke schade waarschijnlijk daaruit zou voortvloeien.   
+
+### Artikel  504d  
+
+Geen vordering tot vergoeding van schade als bedoeld in deze afdeling kan tegen de vervoerder of de feitelijke vervoerder worden ingesteld anders dan in overeenstemming met deze afdeling.  
+
+### Artikel  504e  
+
+Indien een rechtsvordering tegen een ondergeschikte, vertegenwoordiger of lasthebber van de vervoerder of van de feitelijke vervoerder wordt ingesteld tot vergoeding van schade waarop deze afdeling van toepassing is, kan die ondergeschikte, vertegenwoordiger of lasthebber, indien hij bewijst dat hij in de uitoefening van zijn functie heeft gehandeld, een beroep doen op de verweren en aansprakelijkheidsgrenzen waarop de vervoerder of de feitelijke vervoerder zich krachtens deze afdeling kan beroepen.  
+
+### Artikel  504f  
+
+Deze afdeling laat de titels 7 en 12 van dit boek onverlet.  
 
 ### Artikel  507  
 
-De vervoerder is niet aansprakelijk in geval van verlies of beschadiging overkomen aan geldstukken, verhandelbare documenten, goud, zilver, juwelen, sieraden, kunstvoorwerpen of andere zaken van waarde, tenzij deze zaken van waarde aan de vervoerder in bewaring zijn gegeven en hij overeengekomen is hen in zekerheid te zullen bewaren.  
-
-### Artikel  508  
-
-De vervoerder is terzake van door de reiziger aan boord gebrachte zaken die hij, indien hij hun aard of gesteldheid had gekend, niet aan boord zou hebben toegelaten en waarvoor hij geen bewijs van ontvangst heeft afgegeven, geen enkele schadevergoeding verschuldigd indien de reiziger wist of behoorde te weten, dat de vervoerder de zaken niet ten vervoer zou hebben toegelaten; de reiziger is alsdan aansprakelijk voor alle kosten en schaden voor de vervoerder voortvloeiend uit de aanbieding ten vervoer of uit het vervoer zelf.  
+De vervoerder is niet aansprakelijk voor verlies of beschadiging van geld, verhandelbare documenten, goud, zilver, juwelen, sieraden, kunstvoorwerpen of andere waardevolle zaken, tenzij deze waardevolle zaken aan de vervoerder in bewaring zijn gegeven en hij overeengekomen is hen in zekerheid te zullen bewaren, in welk geval zijn aansprakelijkheid beperkt is tot het bedrag bedoeld in artikel 504, achtste lid, tenzij, overeenkomstig artikel 504, tiende lid, in overleg tussen vervoerder en reiziger een hogere aansprakelijkheidsgrens werd vastgesteld.  
 
 ### Artikel  509  
 
@@ -1480,28 +1569,10 @@ Indien personen van wier hulp de vervoerder bij de uitvoering van zijn verbinten
 
 Behoudens artikel 516 is de vervoerder die zich, anders dan bij wijze van bevrachting, verbond tot vervoer volgens een dienstregeling, niet aansprakelijk voor schade die is veroorzaakt door vertraging, door welke oorzaak dan ook, vóór, tijdens of na het vervoer opgetreden.  
 
-### Artikel  516  
-
-Onder verlies of beschadiging van bagage wordt mede verstaan vermogensschade geleden doordat de bagage niet binnen een redelijke tijd te rekenen van het ogenblik van aankomst van het schip, waarop deze bagage werd vervoerd of zou worden vervoerd, aan de reiziger werd afgeleverd, doch niet wordt daaronder verstaan vertraging door een arbeidsconflict veroorzaakt.  
-
-### Artikel  517  
-
-1.  Behoudens de artikelen 504 tot en met 507 is de vervoerder niet aansprakelijk voor schade ontstaan door een handeling, onachtzaamheid of nalatigheid van de kapitein of de schipper, een ander lid van de bemanning, de loods of de ondergeschikten van de vervoerder, gepleegd bij de navigatie van het schip.   
-2.  Behoudens de artikelen 504 tot en met 507 wordt generlei afwijking van de koers tot redding of poging tot redding van mensenlevens of goederen en generlei redelijke afwijking van de koers beschouwd als een schending van enige vervoerovereenkomst en de vervoerder is niet aansprakelijk voor enig verlies of enige schade daardoor ontstaan.   
-
-### Artikel  518  
-
-1.  De aansprakelijkheid van de vervoerder is in geval van dood, letsel of vertraging van de reiziger en in geval van verlies, beschadiging of vertraging van diens bagage beperkt tot een bij of krachtens algemene maatregel van bestuur te bepalen bedrag of bedragen.   
-2.  Dit artikel laat de titels 7 en 12 van dit boek onverlet.   
-
-### Artikel  519  
-
-1.  De vervoerder kan zich niet beroepen op enige beperking van zijn aansprakelijkheid voor zover de schade is ontstaan uit zijn eigen handeling of nalaten, geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zou voortvloeien.   
-2.  Nietig is ieder beding, waarbij van dit artikel wordt afgeweken.   
-
 ### Artikel  520  
 
-Nietig is ieder vóór het aan de reiziger overkomen voorval of vóór het verlies of de beschadiging van bagage gemaakt beding, waarbij de ingevolge de artikelen 504 tot en met 507 en 516 op de vervoerder drukkende aansprakelijkheid of bewijslast wordt verminderd op andere wijze dan in deze afdeling is voorzien.  
+1.  Nietig is ieder vóór het aan de reiziger overkomen incident of vóór het verlies of de beschadiging van bagage gemaakt beding, waarbij de ingevolge deze afdeling op de vervoerder of feitelijke vervoerder drukkende aansprakelijkheid of bewijslast wordt verminderd op andere wijze dan in deze afdeling is voorzien.   
+2.  De nietigheid van een beding als bedoeld in het eerste lid leidt niet tot de nietigheid van de vervoerovereenkomst.   
 
 ### Artikel  521  
 
@@ -1543,6 +1614,94 @@ Wanneer de reiziger na verlaten van het schip niet tijdig terugkeert kan de verv
 1.  Wordt terzake van het vervoer een passagebiljet, een ontvangstbewijs voor bagage of enig soortgelijk document afgegeven, dan is de vervoerder verplicht daarin op duidelijke wijze zijn naam en woonplaats te vermelden.   
 2.  Nietig is ieder beding, waarbij van het eerste lid van dit artikel wordt afgeweken.   
 3.  De artikelen 56 tweede lid, 75 eerste lid en 186 eerste lid van Boek 2 zijn niet van toepassing.   
+
+### Artikel  529  
+
+1.  De vervoerder die feitelijk geheel of gedeeltelijk passagiers vervoert aan boord van een in Nederland te boek staand schip dat vergunning heeft voor het vervoeren van meer dan twaalf reizigers, is verplicht een verzekering of andere financiële zekerheid, zoals een bankgarantie, in stand te houden ter dekking van de uit deze afdeling voortvloeiende aansprakelijkheid voor schade door dood of letsel van een reiziger. Het minimumbedrag van deze verplichte verzekering of andere financiële zekerheid beloopt ten minste het in artikel 4bis, eerste lid, van het Verdrag genoemde bedrag, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 23 van het Protocol, per reiziger per incident.   
+2.  De vervoerder die feitelijk geheel of gedeeltelijk reizigers vervoert aan boord van een in Nederland te boek staand schip dat vergunning heeft voor het vervoeren van meer dan twaalf reizigers, is verplicht een verzekering of andere financiële zekerheid, zoals een bankgarantie, in stand te houden ter dekking van de uit deze afdeling voortvloeiende aansprakelijkheid voor schade door dood of letsel van een reiziger ten gevolge van een van de risico’s die zijn genoemd in punt 2.2 van de IMO richtsnoeren. Het minimumbedrag van deze verplichte verzekering of andere financiële zekerheid beloopt ten minste het laagste van de volgende bedragen: 
+
+– 250 000 rekeneenheden per passagier, per afzonderlijk incident, of  
+
+– 340 miljoen rekeneenheden in totaal per schip, per afzonderlijk incident.     
+3.  De vervoerder die feitelijk geheel of gedeeltelijk passagiers vervoert aan boord van een schip dat vergunning heeft voor het vervoeren van meer dan twaalf reizigers en dat te boek staat buiten Nederland of een andere dan de Nederlandse vlag voert, is verplicht om, indien het schip een haven of laad- of losplaats in Nederland aanloopt of verlaat, of een Nederlands binnenwater bevaart, een verzekering of andere financiële zekerheid, zoals een bankgarantie, in stand te houden ter dekking van de uit deze afdeling voortvloeiende aansprakelijkheid voor schade door dood of letsel van een reiziger. Het minimumbedrag van deze verplichte verzekering of andere financiële zekerheid beloopt ten minste het in artikel 4bis, eerste lid, van het Verdrag genoemde bedrag, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 23 van het Protocol, per reiziger per incident.   
+4.  De vervoerder die feitelijk geheel of gedeeltelijk reizigers vervoert aan boord van een schip dat vergunning heeft voor het vervoeren van meer dan twaalf reizigers en dat te boek staat buiten Nederland of een andere dan de Nederlandse vlag voert, is verplicht om, indien het schip een haven of laad- of losplaats in Nederland aanloopt of verlaat, of een Nederlands binnenwater bevaart, een verzekering of andere financiële zekerheid, zoals een bankgarantie, in stand te houden ter dekking van de uit deze afdeling voortvloeiende aansprakelijkheid voor schade door dood of letsel van een reiziger ten gevolge van een van de risico’s die zijn genoemd in punt 2.2 van de IMO richtsnoeren. Het minimumbedrag van deze verplichte verzekering of andere financiële zekerheid beloopt ten minste het laagste van de volgende bedragen: 
+
+– 250 000 rekeneenheden per passagier, per afzonderlijk incident, of  
+
+– 340 miljoen rekeneenheden in totaal per schip, per afzonderlijk incident.     
+
+### Artikel  529a  
+
+De overeenkomst tot verstrekking van financiële zekerheid als bedoeld in artikel 529, moet voldoen aan het volgende: 
+
+a. de overeenkomst moet zijn aangegaan met een verzekeraar, een bank of andere financiële instelling of een andere persoon, van wie Onze Minister, na overleg met Onze Minister van Financiën, de financiële draagkracht tot het geven van dekking voor de uit deze afdeling en het Verdrag voortvloeiende aansprakelijkheid voldoende oordeelt;  
+
+b. de gelden uit de overeenkomst moeten, indien de verstrekker van financiële zekerheid buiten Nederland is gevestigd, ook werkelijk in Nederland ter beschikking kunnen komen;  
+
+c. uit de overeenkomst moet blijken dat de benadeelde, in overeenstemming met artikel 529b en met artikel 7, tiende lid, van het Verdrag, zijn vordering rechtstreeks tegen de verstrekker van financiële zekerheid kan instellen. Indien de overeenkomst een beding inhoudt dat de vervoerder zelf voor een deel in de vergoeding van de schade zal bijdragen, moet uit de overeenkomst blijken dat de verstrekker van financiële zekerheid niettemin jegens de benadeelde terzake van schade gehouden blijft tot betaling ook van dat deel van de schadevergoeding;  
+
+d. uit de overeenkomst moet blijken dat de verstrekker van financiële zekerheid deze binnen de tijdsduur waarvoor het certificaat van artikel 529c is uitgegeven, niet eerder kan schorsen of beëindigen of zodanig wijzigen dat hij niet meer aan dit artikel voldoet, dan na verloop van drie maanden na de datum van ontvangst van een mededeling als bedoeld in artikel 529f, eerste lid, tenzij het certificaat is ingeleverd of een nieuw is afgegeven vóór het verstrijken van de termijn.    
+
+### Artikel  529b  
+
+1.  Vorderingen tot schadevergoeding die krachtens deze afdeling door een verzekering of andere financiële zekerheid worden gedekt, mogen rechtstreeks tegen de verzekeraar of andere persoon die de financiële zekerheid stelt, worden ingesteld. In dit geval kan de verweerder, zelfs indien de vervoerder niet gerechtigd is zijn aansprakelijkheid te beperken, zijn aansprakelijkheid beperken tot het bedrag gelijk aan het verzekerde bedrag of het bedrag van de andere financiële zekerheid als bedoeld in artikel 529.   
+2.  De verweerder komen alle verweermiddelen toe welke de vervoerder tegen de vorderingen zou hebben kunnen aanvoeren, doch hij kan geen beroep doen op de omstandigheid dat de vervoerder surséance van betaling is verleend, dat ten aanzien van de vervoerder de schuldsaneringsregeling natuurlijke personen van toepassing is, of dat de vervoerder zich in staat van faillissement of vereffening bevindt. Hij kan zich voorts verweren met een beroep op het feit dat de schade is veroorzaakt door opzettelijk wangedrag van de vervoerder zelf, doch andere verweermiddelen welke hij zou hebben kunnen aanvoeren tegen een door de vervoerder tegen hem ingestelde vordering komen hem niet toe.   
+3.  De verweerder kan de vervoerder en de feitelijke vervoerder steeds in het geding roepen.   
+
+### Artikel  529c  
+
+1.  Onze Minister geeft aan de vervoerder op diens verzoek een certificaat af als omschreven in artikel 4bis, tweede lid, van het Verdrag, of waarmerkt als certificaat een door de verstrekker van financiële zekerheid in deze vorm ten behoeve van de vervoerder afgegeven document, indien hem is gebleken dat de vervoerder aan zijn in artikel 529 bedoelde verplichting voldoet.   
+2.  Bij het verzoek moet de vervoerder de volgende gegevens en stukken overleggen: 
+
+a. naam en adres van het hoofdkantoor van het bedrijf van de vervoerder die het vervoer feitelijk geheel of gedeeltelijk verricht;  
+
+b. een uittreksel uit de registratie voor schepen als bedoeld in [artikel 101, eerste lid, van de Kadasterwet](../../../../../../wet/kadasterwet/BWBR0004541/README.md), vermeldende ten minste de gegevens bedoeld in [artikel 85, tweede lid, onder a, c, d, e, f, g en j van die wet](../../../../../../wet/kadasterwet/BWBR0004541/README.md), alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen, met dien verstande dat ingeval dat uittreksel meer dan twee dagen vóór de dag der overlegging is afgegeven, op dat uittreksel een verklaring van de bewaarder van het Kadaster en de openbare registers moet voorkomen, afgegeven binnen voornoemde termijn van twee dagen, dat sedert de afgifte de op dat uittreksel vermelde gegevens geen wijziging hebben ondergaan;  
+
+c. een afschrift van de overeenkomst tot verstrekking van financiële zekerheid;  
+
+d. de naam van degene die de financiële zekerheid verstrekt en de plaats waar diens hoofdkantoor is gevestigd, alsmede, zo nodig, het kantoor waar deze zekerheid wordt verstrekt;  
+
+e. het tijdstip waarop de financiële zekerheid ingaat en het tijdstip waarop deze een einde neemt.     
+3.  Het certificaat bevindt zich aan boord van het schip en een afschrift hiervan wordt in bewaring gegeven bij de overheidsinstantie die het register houdt waarin het schip staat ingeschreven of, indien het schip niet te boek staat in een staat die partij is bij het Verdrag, bij de overheidsinstantie van de staat die het certificaat afgeeft of waarmerkt.   
+
+### Artikel  529d  
+
+Geldbedragen die door de verzekeraar of door de verstrekker van een andere overeenkomstig artikel 529a verzorgde financiële zekerheid ter beschikking worden gesteld, dienen uitsluitend voor de voldoening van uit hoofde van deze afdeling ingestelde vorderingen, en enige uitbetaling van deze bedragen heeft tot gevolg dat iedere aansprakelijkheid uit hoofde van deze afdeling met een bedrag ten belope van de uitgekeerde bedragen wordt verminderd.  
+
+### Artikel  529e  
+
+Onze Minister wijst een verzoek als bedoeld in artikel 529c af indien de overgelegde gegevens of stukken onvoldoende of onjuist zijn, of indien de overeenkomst tot verstrekking van financiële zekerheid niet voldoet aan de daaraan bij of krachtens deze afdeling gestelde eisen.  
+
+### Artikel  529f  
+
+1.  De vervoerder aan wie een certificaat is afgegeven, is verplicht om onverwijld aan Onze Minister schriftelijk mededeling te doen van het ongeldig worden, de schorsing of de beëindiging van de overeenkomst tot verstrekking van financiële zekerheid binnen de tijdsduur waarvoor het certificaat is afgegeven, alsmede van elke wijziging welke zich gedurende die tijdsduur voordoet in de gegevens welke bij het in artikel 529c bedoelde verzoek zijn overgelegd.   
+2.  Onze Minister draagt zorg, dat van een mededeling als bedoeld in het eerste lid ten aanzien van een overeenkomst tot verstrekking van financiële zekerheid voor een in Nederland te boek staand schip schriftelijk kennis wordt gegeven aan het kantoor van de Dienst voor het Kadaster en de openbare registers, waar de openbare registers waarin het verzoek tot teboekstelling van het schip is ingeschreven, worden gehouden, welke kennisgeving aldaar wordt bewaard.   
+3.  Het bestaan en de dagtekening van ontvangst van kennisgevingen als bedoeld in het tweede lid worden onverwijld vermeld in de registratie voor schepen, bedoeld in [artikel 85 van de Kadasterwet](../../../../../../wet/kadasterwet/BWBR0004541/README.md). Kennisgevingen als bedoeld in het tweede lid zijn openbaar.   
+4.  De in het eerste lid bedoelde mededeling kan behalve door de vervoerder ook worden gedaan door degene die de financiële zekerheid verstrekt.   
+
+### Artikel  529g  
+
+1.  Onze Minister kan, na overleg met Onze Minister van Financiën, een certificaat intrekken indien door wijziging in de gegevens welke bij het in artikel 529c bedoelde verzoek zijn overgelegd of doordat die gegevens onvoldoende of onjuist blijken te zijn, het niet meer voldoet aan de bij of krachtens deze afdeling gestelde eisen, of indien er goede gronden zijn om aan te nemen dat de financiële draagkracht van de verstrekker van de financiële zekerheid onvoldoende was, of is geworden of, indien deze buiten Nederland is gevestigd, blijkt van een beletsel voor het werkelijk in Nederland beschikbaar komen van die gelden.   
+2.  In de beschikking wordt een termijn gesteld voor de inlevering van het certificaat.   
+3.  De werking van de beschikking wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.   
+
+### Artikel  529h  
+
+1.  De vervoerder is verplicht om het certificaat zo spoedig mogelijk nadat overeenkomstig artikel 529f, eerste lid, mededeling is gedaan van het ongeldig worden, de schorsing of de beëindiging van de overeenkomst tot verstrekking van financiële zekerheid, of nadat de tijdsduur waarvoor het is afgegeven is verstreken, bij Onze Minister in te leveren.   
+2.  De vervoerder is verplicht om het certificaat ingeval van onherroepelijke intrekking bij Onze Minister in te leveren binnen de termijn bedoeld in artikel 529g, tweede lid.   
+
+### Artikel  529i  
+
+1.  Onze Minister zendt een afschrift van elk door hem afgegeven certificaat, alsmede van elke onherroepelijke beschikking tot intrekking van een afgegeven certificaat, aan het kantoor van de Dienst voor het Kadaster en de openbare registers, welke kennisgeving aldaar wordt bewaard.   
+2.  Artikel 529f, derde lid, is van overeenkomstige toepassing.   
+
+### Artikel  529j  
+
+Bij algemene maatregel van bestuur kunnen regels worden gesteld betreffende de voor de afgifte of waarmerking van een certificaat als bedoeld in artikel 529c verschuldigde vergoedingen.  
+
+### Artikel  529k  
+
+In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten op grond van deze afdeling de rechtbank te Rotterdam bevoegd.  
 
 ### Afdeling  4  
 
@@ -2069,10 +2228,6 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld betreffend
 ### Paragraaf  4  
 
 ####beroep
-
-### Artikel  654  
-
-In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten op grond van deze afdeling de rechtbank te Rotterdam bevoegd.  
 
 ### Titel  7  
 
@@ -5460,8 +5615,25 @@ d. de dag waarop de termijn van de verjaring of het verval van de rechtsvorderin
 
 ### Artikel  1750  
 
-1.  Behoudens de artikelen 1751 tot en met 1754 verjaart een op een overeenkomst van personenvervoer, als genoemd in de afdelingen 4 van titel 2, 5 van titel 2, 3 van titel 5, 3 van titel 10 en 3 van titel 13, gegronde rechtsvordering door verloop van één jaar, welke termijn begint met de aanvang van de dag, volgende op die waarop de reiziger het vervoermiddel heeft verlaten of had moeten verlaten.   
+1.  Behoudens de artikelen 1751 tot en met 1754 verjaart een op een overeenkomst van personenvervoer, als genoemd in de afdelingen 4 van titel 2, 5 van titel 2, 3 van titel 10 en 3 van titel 13, gegronde rechtsvordering door verloop van één jaar, welke termijn begint met de aanvang van de dag, volgende op die waarop de reiziger het vervoermiddel heeft verlaten of had moeten verlaten.   
 2.  In afwijking van het eerste lid zijn op de verjaring van een rechtsvordering terzake van het vervoer van bagage, geen hut- of handbagage in de zin van de artikelen 100, 500, 970 of 1141, noch een als bagage ten vervoer aangenomen voertuig of schip of levend dier zijnde, de artikelen 1710 tot en met 1722 van overeenkomstige toepassing.   
+
+### Artikel  1750a  
+
+1.  Elke rechtsvordering tot schadevergoeding op grond van afdeling 3 van titel 5, die voortvloeit uit dood of letsel van de reiziger, of uit verlies of beschadiging van de bagage, verjaart na een termijn van twee jaar.   
+2.  De verjaringstermijn begint te lopen: 
+
+a. bij letsel, vanaf de datum van ontscheping van de reiziger;  
+
+b. bij overlijden tijdens het vervoer, vanaf de datum waarop de reiziger had moeten ontschepen en, in geval van een tijdens het vervoer opgelopen letsel dat de dood van de reiziger na zijn ontscheping tot gevolg heeft, vanaf de datum van het overlijden; de verjaringstermijn mag evenwel niet langer zijn dan 3 jaar te rekenen vanaf de datum van ontscheping;  
+
+c. bij verlies of beschadiging van bagage, vanaf de ontschepingsdatum of de datum waarop deze had moeten plaatsvinden, waarbij de laatste van die twee data in aanmerking wordt genomen.     
+3.  Verlenging of stuiting van de verjaring heeft niet tot gevolg dat een rechtsvordering uit hoofde van afdeling 3 van titel 5 kan worden ingesteld na verloop van een van de volgende termijnen: 
+
+a. een termijn van vijf jaar te rekenen vanaf de datum van de ontscheping van de reiziger of de datum waarop die had moeten plaatsvinden, waarbij de laatste van die twee data in aanmerking wordt genomen; dan wel, indien eerder  
+
+b. een termijn van drie jaar te rekenen vanaf de datum waarop de eiser op de hoogte was van het door het incident veroorzaakte letsel, verlies of schade of hiervan redelijkerwijze op de hoogte had moeten zijn.     
+4.  Ongeacht de bepalingen van de leden 1, 2 en 3 van dit artikel kan de verjaringstermijn worden verlengd op grond van een verklaring van de vervoerder of een overeenkomst die tussen de partijen wordt gesloten nadat de grond voor een aanspraak is ontstaan. Deze verklaring of overeenkomst wordt schriftelijk opgesteld.   
 
 ### Artikel  1751  
 

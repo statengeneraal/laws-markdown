@@ -20,7 +20,7 @@ c. *de buitengewoon opsporingsambtenaar:* de buitengewoon opsporingsambtenaar te
 
 ### Artikel  2  
 
-Het personeel afkomstig van de krijgsmacht, te werk gesteld bij de AOE van het KLPD, belast met de opsporing van strafbare feiten, is tevens aangewezen als buitengewoon opsporingsambtenaar.  
+Als buitengewoon opsporingsambtenaar wordt aangewezen personeel afkomstig van de krijgsmacht, te werk gesteld bij de AOE van de Landelijke eenheid, voorheen Korps landelijke politiediensten.  
 
 ### Artikel  3  
 
@@ -34,13 +34,13 @@ Op grond van dit besluit kunnen maximaal 40 personen als buitengewoon opsporings
 
 ### Artikel  5  
 
-1.  Als toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de hoofdofficier van justitie bij het Landelijk Parket.   
-2.  Als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de korpschef van het KLPD.   
+1.  Als toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de hoofdofficier van justitie bij het landelijk parket.   
+2.  Als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).   
 
 ### Artikel  6  
 
-1.  De buitengewoon opsporingsambtenaar is bevoegd bij de opsporing van de in artikel 3, eerste lid, genoemde strafbare feiten gebruik te maken van de bevoegdheden, bedoeld in [artikel 8, eerste en derde lid, van de Politiewet 1993](../../../../../../../wet/politiewet/1993/BWBR0006299/README.md). Hij gedraagt zich overeenkomstig het bepaalde in [hoofdstuk 7 van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren](../../../../../../../AMvB/ambtsinstructie/voor/de/politie/de/koninklijke/marechaussee/en/andere/etc/BWBR0006589/README.md).   
-2.  De buitengewoon opsporingsambtenaar kan eerst gebruik maken van de bevoegdheden, bedoeld in [artikel 8, eerste en derde lid, van de Politiewet 1993](../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), nadat de direct toezichthouder heeft vastgesteld dat betrokkene beschikt over de vereiste bekwaamheid ten aanzien van het uitoefenen van deze bevoegdheden.   
+1.  De buitengewoon opsporingsambtenaar is bevoegd bij de opsporing van de in artikel 3, eerste lid, genoemde strafbare feiten gebruik te maken van de bevoegdheden, bedoeld in [artikel 7, eerste en derde lid, van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md). Hij gedraagt zich overeenkomstig het bepaalde in [hoofdstuk 7 van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren](../../../../../../../AMvB/ambtsinstructie/voor/de/politie/de/koninklijke/marechaussee/en/andere/etc/BWBR0006589/README.md).   
+2.  De buitengewoon opsporingsambtenaar kan eerst gebruik maken van de bevoegdheden, bedoeld in [artikel 7, eerste en derde lid, van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), nadat de direct toezichthouder heeft vastgesteld dat betrokkene beschikt over de vereiste bekwaamheid ten aanzien van het uitoefenen van deze bevoegdheden.   
 3.  De buitengewoon opsporingsambtenaar kan gedurende de uitoefening van zijn functie als buitengewoon opsporingsambtenaar gebruik maken van handboeien van een door de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Justitie goedgekeurd merk en type.   
 4.  De buitengewoon opsporingsambtenaar wordt daadwerkelijk uitgerust met handboeien nadat de direct toezichthouder heeft vastgesteld dat betrokkene beschikt over de vereiste bekwaamheid ten aanzien van het gebruik van en het omgaan met handboeien.   
 

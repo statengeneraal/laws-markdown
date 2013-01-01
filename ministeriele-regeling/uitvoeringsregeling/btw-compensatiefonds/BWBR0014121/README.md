@@ -126,10 +126,10 @@ b. roerende zaken waarop voor de vennootschapsbelasting zou kunnen worden afgesc
 
 ####Formele bepalingen
 
-1.  De verrekeningsbevoegdheid als bedoeld in artikel 9, derde en vierde lid, van de Wet op het BTW-compensatiefonds komt bij uitsluiting toe aan de inspecteur.   
-2.  Bij de bepaling van het aantal dagen waarover volgens artikel 9, vijfde lid, van de Wet op het BTW-compensatiefonds heffingsrente wordt berekend, wordt een volle kalendermaand gesteld op 30 dagen, met uitzondering van de maand op de laatste dag waarvan het tijdvak waarover de rente wordt berekend eindigt, in welk geval het werkelijke aantal dagen in aanmerking wordt genomen.   
-3.  Het bedrag van de in rekening te brengen heffingsrente wordt naar beneden afgerond op hele euro's.   
-4.  Het bedrag van de te vergoeden heffingsrente wordt naar boven afgerond op hele euro's.   
+1.  De verrekeningsbevoegdheid als bedoeld in [artikel 9, derde en vierde lid, van de Wet op het BTW-compensatiefonds](../../../../wet/wet/op/het/btw-compensatiefonds/BWBR0013817/README.md) komt bij uitsluiting toe aan de inspecteur.   
+2.  Bij de bepaling van het aantal dagen waarover volgens [artikel 9, vijfde lid, van de Wet op het BTW-compensatiefonds](../../../../wet/wet/op/het/btw-compensatiefonds/BWBR0013817/README.md) belastingrente wordt berekend, wordt een volle kalendermaand gesteld op 30 dagen, met uitzondering van de maand op de laatste dag waarvan het tijdvak waarover de rente wordt berekend eindigt, in welk geval het werkelijke aantal dagen in aanmerking wordt genomen.   
+3.  Het bedrag van de in rekening te brengen belastingrente wordt naar beneden afgerond op hele euro's.   
+4.  Het bedrag van de te vergoeden belastingrente wordt naar boven afgerond op hele euro's.   
 
 ### Artikel  11  
 

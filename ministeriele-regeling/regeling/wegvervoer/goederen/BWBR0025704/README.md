@@ -52,13 +52,13 @@ Cabotage als bedoeld in de cabotageverordening voor het wegvervoer is niet toege
 
 ### Artikel  5  
 
-1.  Aan de eis van vakbekwaamheid wordt voldaan door degene die een getuigschrift overlegt, dat is afgegeven door de Stichting Examenbureau Beroepsvervoer (SEB), waarbij ten minste de kennis is vastgesteld van de onderwerpen en het opleidingsniveau van bijlage I van de beroepsrichtlijn voor het wegvervoer en die overeenkomstig die bijlage zijn georganiseerd.   
+1.  Aan de eis van vakbekwaamheid wordt voldaan door degene die een getuigschrift overlegt, dat is afgegeven door het Centraal Bureau Rijvaardigheidsbewijzen, waarbij ten minste de kennis is vastgesteld van de onderwerpen en het opleidingsniveau van bijlage I van de beroepsrichtlijn voor het wegvervoer en die overeenkomstig die bijlage zijn georganiseerd.   
 2.  Aan de eis van vakbekwaamheid wordt tevens voldaan door degene die een verklaring van vakbekwaamheid overlegt die op grond van artikel 3, vierde lid, van de beroepsrichtlijn voor het wegvervoer door een andere lidstaat, door een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of door Zwitserland is afgegeven.   
 
 ### Artikel  6  
 
 1.  Ter voldoening aan de eis van financiële draagkracht beschikt de vervoerder aan kapitaal en reserves over een bedrag van € 9000 wanneer slechts één voertuig wordt gebruikt en € 5000 voor ieder volgend voertuig.   
-2.  Ten aanzien van een beginnende vervoerondernemer wordt als kapitaal en reserves aangemerkt het beschikbare risicodragend vermogen, bestaande uit het eigen vermogen, vermeerderd met een belegging in durfkapitaal, zoals geregeld bij of krachtens de [artikelen 5.17](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [5.18 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
+2.  Ten aanzien van een beginnende vervoerondernemer wordt als kapitaal en reserves aangemerkt het beschikbare risicodragend vermogen, bestaande uit het eigen vermogen.   
 3.  Ingeval van verlenging van de vergunning wordt als kapitaal en reserves aangemerkt het beschikbare risicodragend vermogen, bestaande uit het eigen vermogen, vermeerderd met een ten opzichte van alle andere schulden achtergestelde lening.   
 4.  De vervoerder toont tegenover de NIWO zijn financiële draagkracht aan door het overleggen van een balans en een toelichting daarop, voorzien van een verklaring, inhoudende dat de waardering van het beschikbare risicodragend vermogen is geschied volgens normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd, en dat dit vermogen voldoet aan de in het eerste lid gestelde eisen.   
 5.  Indien de vervoerder een rechtspersoon is, die op grond van [titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) verplicht is om een jaarrekening op te maken, kan hij volstaan met het overleggen van zijn jaarrekening over het voorafgaande kalenderjaar, voorzien van een verklaring waaruit blijkt dat het beschikbare risicodragend vermogen voldoet aan de in het eerste lid gestelde eisen.   

@@ -43,6 +43,7 @@ f. gedwongen zwangerschap: de onrechtmatige gevangenschap van een vrouw die onde
 g. apartheid: onmenselijke handelingen van een vergelijkbare aard als de in artikel 4, eerste lid, bedoelde handelingen, gepleegd in het kader van een geïnstitutionaliseerd regime van systematische onderdrukking en overheersing door een groep van een bepaald ras van een of meer groepen van een ander ras en begaan met de opzet dat regime in stand te houden.     
 2.  De uitdrukking ambtenaar heeft in deze wet dezelfde betekenis als in het [Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), met dien verstande dat voor de toepassing van de Nederlandse strafwet onder ambtenaar mede wordt begrepen degene die ten dienste van een vreemde staat een openbaar ambt bekleedt.   
 3.  De uitdrukkingen samenspanning en zwaar lichamelijk letsel hebben in deze wet dezelfde betekenis als in het [Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+4.  Met een in deze wet omschreven misdrijf wordt gelijkgesteld een van de misdrijven omschreven in de [artikelen 131 tot en met 134](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [140](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [189](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [416 tot en met 417bis](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [420bis tot en met 420quater van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), indien het strafbare feit waarvan in die artikelen gesproken wordt, betrekking heeft op een misdrijf omschreven in de artikelen 3 tot en met 8a van deze wet.   
 
 ### Artikel  2  
 
@@ -53,8 +54,7 @@ a. op ieder die zich buiten Nederland schuldig maakt aan een van de in deze wet 
 b. op ieder die zich buiten Nederland schuldig maakt aan een van de in deze wet omschreven misdrijven, wanneer het feit is begaan tegen een Nederlander;  
 
 c. op de Nederlander die zich buiten Nederland schuldig maakt aan een van de in deze wet omschreven misdrijven.     
-2.  Met «een van de in deze wet omschreven misdrijven» als bedoeld in het eerste lid wordt gelijkgesteld een misdrijf, omschreven in een der [artikelen 131 tot en met 134](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [140](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [189](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [416 tot en met 417 *bis*](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [420 *bis* tot en met 420 *quater* van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), indien het strafbare feit of het misdrijf waarvan in die artikelen gesproken wordt, is een misdrijf als in deze wet omschreven.   
-3.  De vervolging op grond van het eerste lid, onder c, kan ook plaatshebben, indien de verdachte eerst na het begaan van het misdrijf Nederlander wordt.   
+2.  De vervolging op grond van het eerste lid, onder c, kan ook plaatshebben, indien de verdachte eerst na het begaan van het misdrijf Nederlander wordt.   
 
 ### §  2  
 
@@ -338,12 +338,12 @@ d. een groep van personen betreft, wordt de schuldige gestraft met levenslange g
 
 ### Artikel  9  
 
-1.  Met gelijke straf als gesteld op de in § 2 bedoelde feiten wordt gestraft de meerdere die: 
+1.  Met gelijke straf als gesteld op de in § 2 en in artikel 1, vierde lid, bedoelde feiten wordt gestraft de meerdere die: 
 
 a. opzettelijk toelaat dat een aan hem ondergeschikte een zodanig feit begaat;  
 
 b. opzettelijk nalaat maatregelen te nemen, voor zover die nodig zijn en van hem kunnen worden gevergd, indien een aan hem ondergeschikte een zodanig feit heeft gepleegd of voornemens is te plegen.     
-2.  Met een straf van ten hoogste twee derde van het maximum van de hoofdstraffen, gesteld op de in § 2 bedoelde feiten, wordt gestraft hij die door zijn schuld verzuimt maatregelen te nemen, voor zover die nodig zijn en van hem kunnen worden gevergd, indien een aan hem ondergeschikte, naar hij redelijkerwijs moet vermoeden, een zodanig feit heeft gepleegd of voornemens is te plegen.   
+2.  Met een straf van ten hoogste twee derde van het maximum van de hoofdstraffen, gesteld op de in § 2 en in artikel 1, vierde lid, bedoelde feiten, wordt gestraft hij die door zijn schuld verzuimt maatregelen te nemen, voor zover die nodig zijn en van hem kunnen worden gevergd, indien een aan hem ondergeschikte, naar hij redelijkerwijs moet vermoeden, een zodanig feit heeft gepleegd of voornemens is te plegen.   
 3.  Indien in het geval bedoeld in het tweede lid op het feit levenslange gevangenisstraf is gesteld, wordt gevangenisstraf opgelegd van ten hoogste vijftien jaren.   
 
 ### §  4  
@@ -374,7 +374,7 @@ Bij veroordeling tot een gevangenisstraf van ten minste een jaar wegens een der 
 
 ### Artikel  15  
 
-Van de misdrijven omschreven in deze wet neemt de rechtbank te 's-Gravenhage kennis, behoudens de bevoegdheid van de rechter, aangewezen bij de [Wet militaire strafrechtspraak](../../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md).  
+Van de misdrijven omschreven in deze wet neemt de rechtbank Den Haag kennis, behoudens de bevoegdheid van de rechter, aangewezen bij de [Wet militaire strafrechtspraak](../../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md).  
 
 ### Artikel  16  
 
@@ -414,7 +414,7 @@ Voor de toepassing van artikel 14 wordt in plaats van «het in [artikel 28 verme
 
 ### Artikel  16g  
 
-In afwijking van artikel 15 neemt het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba kennis van de misdrijven omschreven in deze wet, voor zover het feit is begaan binnen het rechtsgebied van Bonaire, Sint Eustatius en Saba, en behoudens de bevoegdheid van de rechter, aangewezen bij de [Wet militaire strafrechtspraak](../../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md). De behandeling vindt plaats door een meervoudige kamer, bestaande uit een lid van het Gemeenschappelijk Hof en twee rechters in de rechtbank te ’s-Gravenhage.  
+In afwijking van artikel 15 neemt het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba kennis van de misdrijven omschreven in deze wet, voor zover het feit is begaan binnen het rechtsgebied van Bonaire, Sint Eustatius en Saba, en behoudens de bevoegdheid van de rechter, aangewezen bij de [Wet militaire strafrechtspraak](../../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md). De behandeling vindt plaats door een meervoudige kamer, bestaande uit een lid van het Gemeenschappelijk Hof en twee rechters in de rechtbank Den Haag.  
 
 ### §  5  
 
@@ -449,6 +449,11 @@ De [Uitvoeringswet folteringverdrag](../../../../../wet/uitvoeringswet/foltering
 1.  Wanneer op het tijdstip van inwerkingtreding van deze wet ter zake van genocide, foltering of een misdrijf dat overeenkomt met een misdrijf als omschreven in de artikelen 5, 6of 7 van deze wet, overeenkomstig het oude recht reeds vervolging is ingesteld bij een andere rechter dan bedoeld in artikel 15 van deze wet, wordt de zaak bij dezelfde rechter voortgezet.   
 2.  Artikel 13 is mede van toepassing op feiten, strafbaar gesteld in de [Uitvoeringswet folteringverdrag](../../../../../wet/uitvoeringswet/folteringverdrag/BWBR0004409/README.md) en gepleegd voor het tijdstip van inwerkingtreding van deze wet, tenzij het feit op dat tijdstip reeds is verjaard.   
 3.  Artikel 16g is mede van toepassing op feiten, ter uitvoering van het Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing (*Trb.*  1985, 69) strafbaar gesteld op grond van de Nederlands-Antilliaanse strafwet en gepleegd voor het tijdstip van transitie bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md), tenzij het feit op dat tijdstip reeds is verjaard.   
+4.  Artikel 2 is van toepassing op het misdrijf genocide dat is begaan op of na 24 oktober 1970.   
+
+### Artikel  21a  
+
+In geval van strafvervolging voor een van de in deze wet, de [Uitvoeringswet folteringverdrag](../../../../../wet/uitvoeringswet/folteringverdrag/BWBR0004409/README.md), de [Uitvoeringswet genocideverdrag](../../../../../wet/uitvoeringswet/genocideverdrag/BWBR0002453/README.md), dan wel de [Wet oorlogsstrafrecht](../../../../../wet/wet/oorlogsstrafrecht/BWBR0002099/README.md) omschreven misdrijven begaan voor 1 april 1995, zijn de bepalingen van het [Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) betreffende het slachtoffer en de benadeelde partij van toepassing.  
 
 ### Artikel  22  
 

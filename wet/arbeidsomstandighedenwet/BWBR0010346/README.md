@@ -148,7 +148,7 @@ e. een verbod op de exploitatie van het bedrijf, de inrichting of een deel daarv
 
 f. het toezicht op de naleving van het bij of krachtens dit artikel bepaalde.     
 2.  Onze Minister kan een bedrijf of een inrichting of een deel daarvan afzonderlijk aanwijzen ten aanzien waarvan op de werkgever een of meer van de verplichtingen bedoeld in of krachtens het eerste lid rusten indien zich in verband met de aanwezigheid van gevaarlijke stoffen bijzondere gevaren kunnen voordoen voor de veiligheid en de gezondheid van de daarin werkzame werknemers. Bij de aanwijzing wordt bepaald op welk tijdstip aan de betreffende verplichtingen moet zijn voldaan. De werking van de aanwijzing wordt opgeschort totdat de termijn voor het indienen van een bezwaar- of beroepschrift is verstreken of, indien bezwaar is gemaakt of beroep is ingesteld, op het bezwaar of beroep is beslist.   
-3.  Het niet naleven van de eerste zin van het eerste lid is een overtreding in de zin van [artikel 2, derde lid, van de Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md). Voor zover het niet naleven van de bij of krachtens het eerste lid gestelde regels is aangewezen als een strafbaar feit, is dat feit eveneens een overtreding.   
+3.  Het niet naleven van de bij of krachtens het eerste lid, tweede volzin, gestelde regels wordt aangemerkt als strafbaar feit voor zover dat bij of krachtens algemene maatregel van bestuur is bepaald.   
 
 ####Informatie aan het publiek
 
@@ -187,8 +187,7 @@ b. het belang, bedoeld in [artikel 10, zevende lid, onder b, van de Wet openbaar
 
 ### Artikel  10  
 
-1.  Indien bij of in rechtstreeks verband met de arbeid die de werkgever door zijn werknemers doet verrichten in een bedrijf of een inrichting of in de onmiddellijke omgeving daarvan gevaar kan ontstaan voor de veiligheid of de gezondheid van andere personen dan die werknemers, neemt de werkgever doeltreffende maatregelen ter voorkoming van dat gevaar.   
-2.  Het niet naleven van het eerste lid is een overtreding in de zin van [artikel 2, derde lid, van de Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).   
+Indien bij of in rechtstreeks verband met de arbeid die de werkgever door zijn werknemers doet verrichten in een bedrijf of een inrichting of in de onmiddellijke omgeving daarvan gevaar kan ontstaan voor de veiligheid of de gezondheid van andere personen dan die werknemers, neemt de werkgever doeltreffende maatregelen ter voorkoming van dat gevaar.  
 
 ####Algemene verplichtingen van de werknemers
 
@@ -338,13 +337,15 @@ b. een eis als bedoeld in artikel 27, eerste lid;
 
 c. een bevel als bedoeld in artikel 28, eerste lid;  
 
-d. een verzoek om ontheffing als bedoeld in artikel 30, tweede lid;  
+d. een bevel als bedoeld in artikel 28a, tweede lid;  
 
-e. een beschikking tot oplegging van een last onder bestuursdwang of tot oplegging van een last onder dwangsom als bedoeld in artikel 28a;  
+e. een beschikking tot oplegging van een last onder bestuursdwang of tot oplegging van een last onder dwangsom als bedoeld in artikel 28b;  
 
-f. een rapport als bedoeld in artikel 36, eerste lid;  
+f. een verzoek om ontheffing als bedoeld in artikel 30, tweede lid;  
 
-g. een beschikking als bedoeld in artikel 37, eerste lid.    
+g. een rapport als bedoeld in artikel 36, eerste lid;  
+
+h. een beschikking als bedoeld in artikel 37, eerste lid.    
 
 ### Hoofdstuk  4  
 
@@ -402,7 +403,7 @@ d. een vrijwilliger.
 8.  Bij algemene maatregel van bestuur kan worden bepaald dat de verplichting tot naleving van daarbij aangegeven voorschriften in de gevallen bij die maatregel omschreven rust op een ander dan de werkgever. Aangewezen kunnen worden de eigenaar of beheerder dan wel degene die anderszins bevoegd is te beslissen over het ontwerp, de vervaardiging dan wel het onderhoud van arbeidsplaatsen en arbeidsmiddelen, zoals zonodig nader bij die maatregel is bepaald.   
 9.  De in het eerste lid bedoelde regels kunnen betrekking hebben op andere onderwerpen dan die genoemd in het tweede lid of zich richten tot andere personen dan de werkgever of de in het zevende en achtste lid bedoelde personen, indien dat noodzakelijk is ter uitvoering van krachtens het Verdrag tot oprichting van de Europese Gemeenschap vastgestelde verplichtingen met betrekking tot de bevordering van de verbetering van het arbeidsmilieu.   
 10.  De werkgever, dan wel een ander dan de werkgever bedoeld in het zevende, achtste of negende lid en de werknemers zijn verplicht tot naleving van de voorschriften en verboden vastgesteld bij of krachtens de op grond van dit artikel, artikel 20, eerste lid, en artikel 24, negende lid, vastgestelde algemene maatregel van bestuur voorzover en op de wijze als bij of krachtens deze maatregel is bepaald.   
-11.  Voor zover het niet naleven van de in het tiende lid bedoelde voorschriften en verboden is aangewezen als een strafbaar feit, is dat feit een overtreding in de zin van [artikel 2, derde lid, van de Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).   
+11.  Het niet naleven van de in het tiende lid bedoelde voorschriften en verboden kan worden aangemerkt als strafbaar feit.   
 
 ####Maatwerk door werkgevers en werknemers
 
@@ -514,13 +515,24 @@ De toezichthouders zijn, behoudens tegenover hen aan wier gezag zij uit kracht v
 4.  Zodra naar het oordeel van de toezichthouder die een bevel als bedoeld in het eerste lid gaf, geen ernstig gevaar meer aanwezig is, trekt hij het bevel in.   
 5.  De toezichthouder, die een bevel als bedoeld in het eerste lid gegeven heeft, is bevoegd met betrekking tot dit bevel de nodige maatregelen te treffen, de nodige aanwijzingen te geven en de hulp van de sterke arm in te roepen. De maatregelen en aanwijzingen kunnen onder meer betrekking hebben op het verzegelen van arbeidsmiddelen en arbeidsplaatsen.   
 6.  Ieder wie zulks aangaat is verplicht zich te gedragen overeenkomstig een bevel, als bedoeld in het eerste lid en een aanwijzing als bedoeld in het vijfde lid.   
-7.  Het opzettelijk niet naleven van het zesde lid is een misdrijf in de zin van [artikel 2, derde lid, van de Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).   
 
 ####Last onder bestuursdwang
 
 ### Artikel  28a  
 
-Een daartoe aangewezen toezichthouder is bevoegd tot oplegging van een last onder bestuursdwang ter zake van de naleving van [artikel 5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover het de verplichting betreft tot het verlenen van medewerking aan de toezichthouder, de artikelen 24, negende lid, en 28, eerste lid, en de daartoe bij algemene maatregel van bestuur aangewezen bepalingen krachtens deze wet.  
+####Bevel stillegging van werk in verband met recidive
+
+1.  Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar kan, nadat een overtreding van een voorschrift of verbod bij of krachtens deze wet is geconstateerd die bestuurlijk beboetbaar is gesteld of op grond van de [Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) strafbaar is gesteld, aan de werkgever een schriftelijke waarschuwing geven dat bij herhaling van de overtreding of bij een latere overtreding van eenzelfde in de waarschuwing aangegeven wettelijke verplichting of verbod of bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen of verboden, door hem een bevel kan worden opgelegd dat door hem aangewezen werkzaamheden voor ten hoogste drie maanden worden gestaakt dan wel niet mogen worden aangevangen. De artikelen 24, tweede lid, en 27, vierde lid, zijn van overeenkomstige toepassing.   
+2.  Indien een waarschuwing als bedoeld in het eerste lid is gegeven en herhaling van de overtreding of een latere overtreding als bedoeld in het eerste lid is geconstateerd, kan door de ambtenaar, bedoeld in het eerste lid, aan de werkgever bij beschikking een bevel als bedoeld in het eerste lid worden opgelegd dat wordt opgevolgd met ingang van het in de beschikking aangeven tijdstip. Deze beschikking wordt niet gegeven zolang wegens de eerste overtreding, bedoeld in het eerste lid, nog niet een bestuurlijke boete is opgelegd of een proces-verbaal is opgemaakt.   
+3.  De constatering van de overtreding, bedoeld in het eerste of tweede lid, wordt vastgelegd in een boeterapport of proces-verbaal.   
+4.  De waarschuwing, bedoeld in het eerste lid, vervalt indien na de dagtekening van de waarschuwing vijf jaren zijn verstreken. [Artikel 5:34, tweede lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
+5.  De ambtenaar, bedoeld in het eerste lid, is bevoegd met betrekking tot het bevel, bedoeld in het tweede lid, de nodige maatregelen te treffen, de nodige aanwijzingen te geven en de hulp van de sterke arm in te roepen.   
+6.  Ieder wie zulks aangaat is verplicht zich te gedragen overeenkomstig een bevel als bedoeld in het tweede lid en een maatregel of aanwijzing als bedoeld in het vijfde lid.   
+7.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste en tweede lid.   
+
+### Artikel  28b  
+
+Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar is bevoegd tot oplegging van een last onder bestuursdwang ter zake van de naleving van [artikel 5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover het de verplichting betreft tot het verlenen van medewerking aan de toezichthouder, de artikelen 24, negende lid, 28, eerste lid, en 28a, tweede lid, en de daartoe bij algemene maatregel van bestuur aangewezen bepalingen krachtens deze wet. Artikel 24, tweede lid, is van overeenkomstige toepassing.  
 
 ####Werkonderbreking
 
@@ -568,7 +580,7 @@ c. zich na de verlening zodanige feiten of omstandigheden voordoen dat, indien d
 ### Artikel  31  
 
 1.  Tegen een beschikking op grond van deze wet van een ambtenaar als bedoeld in artikel 24, tweede lid, kan door een belanghebbende administratief beroep worden ingesteld bij Onze Minister.   
-2.  Een beschikking op grond van deze wet van een ambtenaar als bedoeld in de artikelen 24, eerste lid, en 34, eerste lid, wordt gegeven namens Onze Minister.   
+2.  Een beschikking op grond van deze wet van een ambtenaar als bedoeld in de artikelen 24, eerste lid, 28a, eerste lid, 28b, en 34, eerste lid, wordt gegeven namens Onze Minister.   
 
 ### Hoofdstuk  7  
 
@@ -578,18 +590,15 @@ c. zich na de verlening zodanige feiten of omstandigheden voordoen dat, indien d
 
 ### Artikel  32  
 
-1.  Het is de werkgever verboden handelingen te verrichten of na te laten in strijd met deze wet of de daarop berustende bepalingen indien daardoor, naar hij weet of redelijkerwijs moet weten, levensgevaar of ernstige schade aan de gezondheid van een of meer werknemers ontstaat of te verwachten is.   
-2.  Het niet naleven van het eerste lid is een misdrijf in de zin van [artikel 2, derde lid, van de Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).   
+Het is de werkgever verboden handelingen te verrichten of na te laten in strijd met deze wet of de daarop berustende bepalingen indien daardoor, naar hij weet of redelijkerwijs moet weten, levensgevaar of ernstige schade aan de gezondheid van een of meer werknemers ontstaat of te verwachten is.  
 
 ####Overtredingen
 
 ### Artikel  33  
 
-1.  Als overtreding wordt aangemerkt het niet naleven van de artikelen 3, 4, eerste lid, 5, 8, 9, eerste en tweede lid, 11, 13, eerste tot en met vierde lid, negende en tiende lid, 14, eerste, tweede en zevende lid, 14a, tweede, derde en vierde lid, 15, eerste en derde lid, 18 en 19. Ter zake van de overtredingen, bedoeld in de vorige zin, kan een bestuurlijke boete worden opgelegd van de eerste categorie.   
-2.  Als overtreding wordt tevens aangemerkt het niet naleven van artikel 16, tiende lid, voor zover het niet naleven van de in dat artikellid bedoelde voorschriften en verboden bij of krachtens algemene maatregel van bestuur is aangemerkt als overtreding. Ter zake van de overtredingen, bedoeld in de vorige zin, wordt bij of krachtens algemene maatregel van bestuur bepaald of een bestuurlijke boete kan worden opgelegd van de eerste of tweede categorie.   
-3.  Een overtreding als bedoeld in het eerste of tweede lid wordt aangemerkt als een strafbaar feit, indien tweemaal binnen een aan de dag van het constateren van die overtreding voorafgaande periode van 48 maanden, met respectievelijke tussenliggende perioden van ten hoogste 24 maanden, voor een overtreding bestaande uit het niet naleven van eenzelfde wettelijke bepaling een bestuurlijke boete is opgelegd die onherroepelijk is geworden.   
-4.  Geen bestuurlijke boete kan worden opgelegd ter zake van bij of krachtens deze wet strafbaar gestelde feiten.   
-5.  Het strafbaar feit, bedoeld in het derde lid, is een overtreding in de zin van [artikel 2, derde lid, van de Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).   
+1.  Als overtreding wordt aangemerkt het niet naleven van de artikelen 3, 4, eerste lid, 5, 6, eerste lid, eerste volzin, 8, 9, eerste en tweede lid, 10, 11, 13, eerste tot en met vierde lid, negende en tiende lid, 14, eerste, tweede en zevende lid, 14a, tweede, derde en vierde lid, 15, eerste en derde lid, 18 en 19.   
+2.  Als overtreding wordt tevens aangemerkt het niet naleven van de artikelen 6, eerste lid, tweede volzin, en 16, tiende lid, voor zover het niet naleven van de in die artikelleden bedoelde voorschriften en verboden bij of krachtens algemene maatregel van bestuur is aangemerkt als overtreding.   
+3.  Geen bestuurlijke boete kan worden opgelegd ter zake van bij of krachtens deze wet strafbaar gestelde feiten of ter zake van deze wet in de [Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) strafbaar gestelde feiten, met uitzondering van de strafbare feiten, bedoeld in artikel 6, derde lid, van deze wet en [artikel 1, onder 1°, van de Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) ten aanzien van artikel 6, eerste lid, eerste volzin.   
 
 ####Hoogte bestuurlijke boete en recidive
 
@@ -597,14 +606,15 @@ c. zich na de verlening zodanige feiten of omstandigheden voordoen dat, indien d
 
 1.  Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar legt de bestuurlijke boete op aan de overtreder op wie de verplichtingen rusten die voortvloeien uit deze wet en de daarop berustende bepalingen, voor zover het niet naleven daarvan is aangeduid als overtreding.   
 2.  De ambtenaar, bedoeld in het eerste lid, is niet reeds aangewezen als toezichthouder.   
-3.  De hoogte van de bestuurlijke boete die ten hoogste voor een overtreding kan worden opgelegd is gelijk aan de geldsom van de categorie die voor de overtreding is bepaald. [Artikel 5:53 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing indien een artikel gesteld bij of krachtens deze wet op grond waarvan een bestuurlijke boete kan worden opgelegd, niet is nageleefd.   
-4.  Er zijn 2 categorieën: 
-
-1°. de eerste categorie: € 9.000;  
-
-2°. de tweede categorie: € 22.500.     
-5.  Onze Minister stelt beleidsregels vast waarin is aangegeven hoe de hoogte van de op te leggen bestuurlijke boete wordt bepaald.   
-6.  Onverminderd het vierde lid verhoogt de aangewezen ambtenaar, bedoeld in het eerste lid, de op te leggen bestuurlijke boete met 50%, indien op de dag van het constateren van de overtreding nog geen 24 maanden zijn verstreken nadat een eerdere overtreding bestaande uit het niet naleven van eenzelfde wettelijke verplichting is geconstateerd en de bestuurlijke boete wegens de eerdere overtreding onherroepelijk is geworden.   
+3.  De bestuurlijke boete die voor een overtreding kan worden opgelegd bedraagt ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+4.  De bestuurlijke boete die voor een overtreding van artikel 6, eerste lid, of voor het niet naleven van een voorschrift of verbod bij of krachtens de algemene maatregel van bestuur, bedoeld in artikel 6, eerste lid, voor zover aangemerkt als overtreding, kan worden opgelegd bedraagt ten hoogste het bedrag van de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+5.  Onverminderd het derde en vierde lid verhoogt de op grond van het eerste lid aangewezen ambtenaar de op te leggen bestuurlijke boete met 100 procent van het boetebedrag, vastgesteld op grond van het tiende lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boete wegens de eerdere overtreding onherroepelijk is geworden.   
+6.  De verhoging van de bestuurlijke boete, bedoeld in het vijfde lid, bedraagt 200 procent indien zowel de overtreding als de eerdere overtreding, bedoeld in dat lid, bij of krachtens algemene maatregel van bestuur zijn aangewezen als ernstige overtredingen.   
+7.  Onverminderd het derde en vierde lid verhoogt de op grond van het eerste lid aangewezen ambtenaar de op te leggen bestuurlijke boete met 200 procent van het boetebedrag, vastgesteld op grond van het tiende lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding twee maal een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boeten wegens de eerdere overtredingen onherroepelijk zijn geworden.   
+8.  Voor de toepassing van het vijfde en zevende lid wordt met een onherroepelijke bestuurlijke boete gelijkgesteld een onherroepelijke strafrechtelijke sanctie wegens een overtreding als bedoeld in artikel 6, derde lid.   
+9.  In afwijking van het vijfde en zevende lid is het tijdvak van vijf jaar in die leden tien jaar indien de onherroepelijke boetes, bedoeld in die leden, zijn opgelegd wegens bij of krachtens algemene maatregel van bestuur aangewezen ernstige overtredingen.   
+10.  Onze Minister stelt beleidsregels vast waarin de boetebedragen voor de overtredingen worden vastgesteld. [Artikel 5:53 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing indien een artikel gesteld bij of krachtens deze wet op grond waarvan een bestuurlijke boete kan worden opgelegd, niet is nageleefd.   
+11.  In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechter in beroep of hoger beroep de hoogte van de boete ook ten nadele van de belanghebbende wijzigen.   
 
 ####Boeterapport
 
@@ -629,10 +639,6 @@ Degene aan wie een bestuurlijke boete is opgelegd is verplicht desgevraagd aan d
 ####Invordering
 
 ####Wijziging boetebedrag
-
-### Artikel  42  
-
-In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechter in beroep of hoger beroep het bedrag waarop de bestuurlijke boete is vastgesteld ook ten nadele van de belanghebbende wijzigen.  
 
 ####Terugbetaling
 

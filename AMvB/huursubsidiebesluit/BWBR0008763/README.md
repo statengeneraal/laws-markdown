@@ -46,9 +46,9 @@ c. een penitentiaire inrichting.
 
 a. de verzorgingsbehoefte blijkt uit een verklaring van een indicatieorgaan als bedoeld in [artikel 9a van de Algemene Wet Bijzondere Ziektekosten](../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
-b. het voordeel uit sparen en beleggen als bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) over het berekeningsjaar van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 3 850 en  
+b. het voordeel uit sparen en beleggen als bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) over het berekeningsjaar van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 3 945 en  
 
-c. het gezamenlijke toetsingsinkomen van de huurder, diens partner en de medebewoners, met inbegrip van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 42 250.     
+c. het gezamenlijke toetsingsinkomen van de huurder, diens partner en de medebewoners, met inbegrip van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 43 275.     
 3.  Voor de toepassing van het eerste lid wordt geen rekening gehouden met de verzorgingsbehoefte van een minderjarige eerstegraads bloed- of aanverwant in de neergaande lijn.   
 4.  [Artikel 27, eerste lid, van de wet](../../../wet/huursubsidiewet/BWBR0008659/README.md) is van overeenkomstige toepassing op de in het tweede lid, onderdelen b en c, vermelde bedragen, waarbij ten aanzien van het in het tweede lid, onderdeel c, vermelde bedrag het resultaat naar boven wordt afgerond op een veelvoud van € 25.   
 
@@ -79,7 +79,7 @@ e. verhogingen op grond van [artikel 10 van de Wet arbeidsongeschiktheidsverzeke
 
 ### Artikel  3  
 
-1.  Een woongebouw of een woning waarvan onzelfstandige woonruimte deel uitmaakt als bedoeld in [artikel 11, eerste lid, onder b, van de wet](../../../wet/huursubsidiewet/BWBR0008659/README.md), kan op voet van [artikel 11, tweede lid, van de wet](../../../wet/huursubsidiewet/BWBR0008659/README.md), slechts door de Belastingdienst/Toeslagen worden aangewezen indien: 
+1.  Een woongebouw of een woning waarvan onzelfstandige woonruimte deel uitmaakt als bedoeld in [artikel 11, eerste lid, onder b, van de wet](../../../wet/huursubsidiewet/BWBR0008659/README.md), kan op voet van artikel 11, tweede lid, van de wet, slechts door de Belastingdienst/Toeslagen worden aangewezen indien: 
 
 a. de desbetreffende woonruimten geschikt en bestemd zijn voor: 
 
@@ -98,7 +98,7 @@ a. de desbetreffende woonruimten bestemd zijn voor huurders die zonder zorg of b
 
 b. het begeleid wonen of de daarmee vergelijkbare woonvorm gericht is op integratie en acceptatie van de bewoners in de nabije omgeving;  
 
-c. de zorg of begeleiding plaatsvindt door een instelling als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen](../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), die zorg verleent waarop aanspraak bestaat ingevolge de [Algemene Wet Bijzondere Ziektekosten](../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of door een andere deskundige, erkende hulpverleningsinstantie, of de huurders beschikken over een persoonsgebonden budget op grond van [laatstgenoemde wet](../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+c. de zorg of begeleiding plaatsvindt door een instelling als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen](../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), die zorg verleent waarop aanspraak bestaat ingevolge de [Algemene Wet Bijzondere Ziektekosten](../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of door een andere deskundige, erkende hulpverleningsinstantie, of de huurders beschikken over een persoonsgebonden budget op grond van laatstgenoemde wet;  
 
 d. er een gescheiden huur- en zorgovereenkomst is, en  
 
@@ -109,7 +109,7 @@ a. alle huurders van de desbetreffende woonruimten zijn genoemd in één overeen
 
 b. in de desbetreffende woonruimten ten minste drie huishoudens zijn gehuisvest, en  
 
-c. ten minste 80 procent van de huurders van de desbetreffende woonruimten 65 jaar of ouder is.     
+c. ten minste 80 procent van de huurders van de desbetreffende woonruimten de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), hebben bereikt.     
 4.  De Belastingdienst/Toeslagen kan de aanwijzing intrekken indien niet langer wordt voldaan aan het eerste, tweede of derde lid.   
 
 ### Hoofdstuk  4  

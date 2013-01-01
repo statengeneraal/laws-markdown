@@ -344,10 +344,6 @@ Bij ministeriële regeling worden regels gesteld omtrent de gegevensverstrekking
 
 Beslissingen van een aangewezen instantie of van een natuurlijke persoon of een rechtspersoon aan wie op grond van artikel 11 een erkenning is verleend, bij de uitvoering van toetsende werkzaamheden in het kader van een overeenstemmingsbeoordeling van een meetinstrument, die als gevolg of als strekking hebben dat het instrument niet voldoet aan de gestelde eisen, worden aan de betrokkenen schriftelijk en onder opgave van redenen medegedeeld.  
 
-### Artikel  38  
-
-Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.  
-
 ### Hoofdstuk  8  
 
 ####Overige bepalingen

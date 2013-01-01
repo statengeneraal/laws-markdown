@@ -341,14 +341,14 @@ Onder natuurterreinen als bedoeld in [artikel 5.7 van de wet](../../../../../wet
 | meer dan  | maar niet  meer dan  | bedraagt de leegwaarderatio  |
 |:---|:---|:---|
 | 0%  | 1,0%  | 50%  |
-| 1,0%  | 1,5%  | 54%  |
-| 1,5%  | 2,0%  | 58%  |
-| 2,0%  | 2,5%  | 63%  |
-| 2,5%  | 3,0%  | 67%  |
-| 3,0%  | 3,5%  | 72%  |
-| 3,5%  | 4,0%  | 76%  |
-| 4,0%  | 5,0%  | 81%  |
-| 5,0%  | –  | 85%  |
+| 1,0%  | 1,5%  | 53%  |
+| 1,5%  | 2,0%  | 56%  |
+| 2,0%  | 2,5%  | 59%  |
+| 2,5%  | 3,0%  | 62%  |
+| 3,0%  | 3,5%  | 66%  |
+| 3,5%  | 4,0%  | 69%  |
+| 4,0%  | 5,0%  | 73%  |
+| 5,0%  | –  | 78%  |
 
 3.  De jaarlijkse huur of pacht, bedoeld in het tweede lid, wordt gesteld op twaalf maal de maandelijkse huur, onderscheidenlijk pacht, zoals die geldt aan het begin van het kalenderjaar. Indien de huurprijs, onderscheidenlijk pachtprijs, zoals die tussen gelieerde partijen is overeengekomen zodanig is dat deze tussen willekeurige derden niet overeengekomen zou zijn, wordt de huurprijs, onderscheidenlijk pachtprijs, voor de toepassing van het tweede lid gesteld op 3,5% van de WOZ-waarde.   
 4.  Indien de woning een gedeelte van een gebouwd eigendom is als bedoeld in [artikel 16, onderdeel c, van de Wet waardering onroerende zaken](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), en niet als een afzonderlijke zaak vervreemd kan worden, wordt voor de toepassing van het eerste en het tweede lid de WOZ-waarde van die woning verlaagd met een bedrag van € 20 000.   
@@ -523,25 +523,39 @@ a. met betrekking tot betaalproducten, spaarproducten en beleggingsproducten:
 
 5°. de in het kalenderjaar ten laste van de belastingplichtige geheven dividendbelasting en ingehouden buitenlandse bronbelasting;    
 
-b. met betrekking tot schulden als bedoeld in [artikel 3.119a van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en schulden als bedoeld in [artikel 5.3 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md): 
+b. met betrekking tot schulden als bedoeld in [artikel 3.119a van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md): 
+
+1°. de waarde in het economische verkeer aan het einde van het kalenderjaar;  
+
+2°. de rente die in het kalenderjaar is betaald, is verrekend, ter beschikking is gesteld of rentedragend is geworden;  
+
+3°. de datum van aangaan van de schuld;  
+
+4°. het startbedrag van de schuld;  
+
+5°. de maandelijkse rentevoet aan het einde van het kalenderjaar;  
+
+6°. de resterende maximale looptijd in maanden aan het einde van het kalenderjaar;    
+
+c. met betrekking tot schulden als bedoeld in [artikel 10bis.1 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en schulden als bedoeld in [artikel 5.3 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md): 
 
 1°. de waarde in het economische verkeer aan het einde van het kalenderjaar;  
 
 2°. de rente die in het kalenderjaar is betaald, is verrekend, ter beschikking is gesteld of rentedragend is geworden;    
 
-c. met betrekking tot een kapitaalverzekering eigen woning als bedoeld in [artikel 3.116, tweede lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md): 
+d. met betrekking tot een kapitaalverzekering eigen woning als bedoeld in [artikel 10bis.2 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md): 
 
 1°. het in het kalenderjaar genoten bedrag aan uitkering;  
 
-2°. indien de verzekering op grond van [artikel 3.116, derde lid, onderdeel a, b, c, e, f of g, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) in het kalenderjaar wordt geacht tot uitkering te zijn gekomen: de waarde in het economische verkeer van de verzekering op het tijdstip waarop die verzekering wordt geacht tot uitkering te zijn gekomen;    
+2°. indien de verzekering op grond van [artikel 10bis.4, derde lid, onderdelen a, b, c, e, f of g, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) in het kalenderjaar wordt geacht tot uitkering te zijn gekomen: de waarde in het economische verkeer van de verzekering op het tijdstip waarop die verzekering wordt geacht tot uitkering te zijn gekomen;    
 
-d. met betrekking tot een spaarrekening eigen woning of een beleggingsrecht eigen woning als bedoeld in [artikel 3.116a, tweede lid](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), onderscheidenlijk artikel 3.116a, derde lid, van de wet: 
+e. met betrekking tot een spaarrekening eigen woning of een beleggingsrecht eigen woning als bedoeld in [artikel 10bis.2](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) van de wet: 
 
 1°. het in het kalenderjaar gedeblokkeerde tegoed, onderscheidenlijk de in het kalenderjaar gedeblokkeerde waarde;  
 
-2°. indien de spaarrekening of het beleggingsrecht op grond van [artikel 3.116a, vierde lid, onderdeel a, b, d, e of f, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) in het kalenderjaar wordt geacht te zijn gedeblokkeerd: het tegoed op de spaarrekening onderscheidenlijk de waarde in het economische verkeer van het beleggingsrecht op het tijdstip waarop die spaarrekening of dat beleggingsrecht wordt geacht te zijn gedeblokkeerd;    
+2°. indien de spaarrekening of het beleggingsrecht op grond van [artikel 10bis.5, vierde lid, onderdelen a, b, d, e of f, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) in het kalenderjaar wordt geacht te zijn gedeblokkeerd: het tegoed op de spaarrekening onderscheidenlijk de waarde in het economische verkeer van het beleggingsrecht op het tijdstip waarop die spaarrekening of dat beleggingsrecht wordt geacht te zijn gedeblokkeerd;    
 
-e. met betrekking tot een lijfrente als bedoeld in de [artikelen 3.124](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [3.125 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md): 
+f. met betrekking tot een lijfrente als bedoeld in de [artikelen 3.124](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [3.125 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md): 
 
 1°. de in het kalenderjaar betaalde of verrekende premies;  
 
@@ -549,15 +563,15 @@ e. met betrekking tot een lijfrente als bedoeld in de [artikelen 3.124](../../..
 
 3°. de restituties in het kalenderjaar van in een eerder kalenderjaar betaalde of verrekende premies indien de restitutie geen afkoop is in de zin van [artikel 3.133, tweede lid, onderdeel d, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);    
 
-f. met betrekking tot een lijfrentespaarrekening of een lijfrentebeleggingsrecht als bedoeld in [artikel 3.126a van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md): 
+g. met betrekking tot een lijfrentespaarrekening of een lijfrentebeleggingsrecht als bedoeld in [artikel 3.126a van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md): 
 
 1°. de in het kalenderjaar overgemaakte bedragen;  
 
 2°. indien in het kalenderjaar zich een omstandigheid voordoet als bedoeld in [artikel 3.133, achtste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) in samenhang met artikel 3.133, tweede lid, onderdeel a, b, c, d voor zover betrekking hebbend op vervreemding, e, g, h, i of j, van de wet: de omstandigheid die zich heeft voorgedaan en de waarde in het economische verkeer van de aanspraak bepaald met toepassing van [artikel 3.137 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);    
 
-g. met betrekking tot een recht of een tegoed als bedoeld in [artikel 5.10, eerste lid, onderdeel a onderscheidenlijk onderdeel b, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md): waarde in het economische verkeer van het recht onderscheidenlijk het tegoed aan het begin van het kalenderjaar;  
+h. met betrekking tot een recht of een tegoed als bedoeld in [artikel 5.10, eerste lid, onderdeel a onderscheidenlijk onderdeel b, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md): waarde in het economische verkeer van het recht onderscheidenlijk het tegoed aan het begin van het kalenderjaar;  
 
-h. met betrekking tot een recht op kapitaaluitkering uit een op 14 september 1999 bestaande levensverzekering: 
+i. met betrekking tot een recht op kapitaaluitkering uit een op 14 september 1999 bestaande levensverzekering: 
 
 1°. de waarde in het economische verkeer van het recht aan het begin van het kalenderjaar;  
 
@@ -565,15 +579,15 @@ h. met betrekking tot een recht op kapitaaluitkering uit een op 14 september 19
 
 3°. het in het kalenderjaar genoten bedrag aan uitkering;    
 
-i. met betrekking tot een recht op kapitaaluitkering uit een op 31 december 2000 bestaande levensverzekering, niet zijnde een recht als bedoeld in onderdeel h: 
+j. met betrekking tot een recht op kapitaaluitkering uit een op 31 december 2000 bestaande levensverzekering, niet zijnde een recht als bedoeld in onderdeel i: 
 
 1°. de waarde in het economische verkeer van het recht aan het begin van het kalenderjaar;  
 
 2°. het in het kalenderjaar genoten bedrag aan uitkering;    
 
-j. met betrekking tot een recht op kapitaaluitkering of prestatie uit levensverzekering, niet zijnde een recht als bedoeld in de onderdelen c, g, h en i en niet zijnde een recht als bedoeld in [artikel 5.10, eerste lid, onderdeel c, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md): de waarde in het economische verkeer van het recht aan het begin van het kalenderjaar;  
+k. met betrekking tot een recht op kapitaaluitkering of prestatie uit levensverzekering, niet zijnde een recht als bedoeld in de onderdelen d, h, i en j en niet zijnde een recht als bedoeld in [artikel 5.10, eerste lid, onderdeel c, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md): de waarde in het economische verkeer van het recht aan het begin van het kalenderjaar;  
 
-k. met betrekking tot een aanspraak op periodieke uitkeringen of verstrekkingen ter zake van invaliditeit, ziekte of ongeval als bedoeld in [artikel 3.124, eerste lid, onderdeel c, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md): 
+l. met betrekking tot een aanspraak op periodieke uitkeringen of verstrekkingen ter zake van invaliditeit, ziekte of ongeval als bedoeld in [artikel 3.124, eerste lid, onderdeel c, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md): 
 
 1°. indien in het kalenderjaar zich een omstandigheid voordoet als bedoeld in [artikel 3.133, tweede lid, onderdeel a, d voor zover betrekking hebbend op vervreemding, e, g of i, laatstgenoemd onderdeel in samenhang met het vijfde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md): de omstandigheid die zich heeft voorgedaan en de waarde in het economische verkeer van de aanspraak bepaald met toepassing van [artikel 3.137 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
 
@@ -581,8 +595,8 @@ k. met betrekking tot een aanspraak op periodieke uitkeringen of verstrekkingen 
 
 3°. de restituties in het kalenderjaar van betaalde of verrekende premies indien de restitutie geen afkoop is in de zin van [artikel 3.133, tweede lid, onderdeel d, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);    
 
-l. met betrekking tot een aanspraak op periodieke uitkeringen of verstrekkingen, niet zijnde een aanspraak als bedoeld in de onderdelen e, f en k: de waarde in het economische verkeer van het recht aan het begin van het kalenderjaar.     
-3.  Onder rente als bedoeld in het tweede lid, onderdelen a en b, wordt verstaan: hetgeen tussen de geldgever en de geldnemer is overeengekomen als vergoeding voor het gedurende de looptijd van de geldlening ter beschikking stellen van de hoofdsom. Onder spaarproducten in de zin van het tweede lid, onderdeel a, wordt niet verstaan: het geblokkeerde deel van een spaarloonrekening.   
+m. met betrekking tot een aanspraak op periodieke uitkeringen of verstrekkingen, niet zijnde een aanspraak als bedoeld in de onderdelen f, g en l: de waarde in het economische verkeer van het recht aan het begin van het kalenderjaar.     
+3.  Onder rente als bedoeld in het tweede lid, onderdelen a, b en c, wordt verstaan: hetgeen tussen de geldgever en de geldnemer is overeengekomen als vergoeding voor het gedurende de looptijd van de geldlening ter beschikking stellen van de hoofdsom. Onder spaarproducten in de zin van het tweede lid, onderdeel a, wordt niet verstaan: het geblokkeerde deel van een spaarloonrekening.   
 4.  Een administratieplichtige is gehouden de gegevens en inlichtingen te verstrekken op de door de inspecteur voorgeschreven wijze en met een door de inspecteur voorgeschreven frequentie. De gegevens en inlichtingen dienen uiterlijk te worden verstrekt: 
 
 a. indien de inspecteur maandelijkse aanlevering voorschrijft: de laatste dag van de kalendermaand volgend op de kalendermaand waarop de gegevens en inlichtingen betrekking hebben;  
@@ -596,7 +610,7 @@ a. naar het oordeel van de inspecteur het belang van ontvangst van de gegevens e
 
 b. naar het oordeel van de inspecteur de administratieplichtige tijdelijk niet in staat is de gegevens en inlichtingen te verstrekken of niet in de gelegenheid is tijdig de gegevens en inlichtingen te verstrekken en de administratieplichtige met de inspecteur een tijdstip is overeengekomen waarop hij geacht wordt daartoe wel weer in staat onderscheidenlijk in de gelegenheid te zijn;  
 
-c. de waarde in het economische verkeer van het recht, bedoeld in het tweede lid, onderdelen g en h, onder 1°, lager is dan het bedrag, genoemd in [artikel 5.10, eerste lid, onderdeel a, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of  
+c. de waarde in het economische verkeer van het recht, bedoeld in het tweede lid, onderdelen h en i, onder 1°, lager is dan het bedrag, genoemd in [artikel 5.10, eerste lid, onderdeel a, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of  
 
 d. de gegevens of inlichtingen door de inspecteur zijn aangewezen als van verstrekking vrijgestelde gegevens en inlichtingen en aan de voor die vrijstelling verbonden voorwaarden is voldaan.     
 

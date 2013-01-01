@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a.  *ambtenaar:*   de ambtenaar, bedoeld in [artikel 1, onder f, van het Besluit bezoldiging politie](../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md);    b.  *besluit:*   het [Besluit bezoldiging politie](../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md);    c.  *functie:*   de functie, bedoeld in [artikel 1, eerste lid, onder o, van het besluit](../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md);    d.  *bevoegd gezag:*   het bevoegd gezag, bedoeld in [artikel 1, eerste lid, onder g, van het besluit](../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md), met dien verstande dat, behalve voor de toepassing van artikel 4, voor ambtenaren die behoren tot de maximale formatie van de leiding van een regionaal politiekorps de Minister van Binnenlandse Zaken in overeenstemming met de Minister van Justitie het bevoegd gezag is;    e.  *waardering:*   de uitkomst van de bepaling van de salarisschaal van de ambtenaar, bedoeld in [artikel 6, tweede lid, van het besluit](../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md);    f.  *heroverwegingscommissie:*   de door het bevoegd gezag ingestelde commissie, bedoeld in artikel 4;    g.  *bezwarenadviescommissie:*   de commissie, bedoeld in artikel 11.     
+In deze regeling wordt verstaan onder:   a.  *ambtenaar:*   de ambtenaar, bedoeld in [artikel 1, onderdeel i, van het Besluit bezoldiging politie](../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md);    b.  *besluit:*   het [Besluit bezoldiging politie](../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md);    c.  *functie:*   de functie, bedoeld in [artikel 1, eerste lid, onderdeel r, van het besluit](../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md), met dien verstande dat deze regeling niet van toepassing is op het samenstel van door de ambtenaar te verrichten opgedragen werkzaamheden, zoals vastgelegd in het LFNP;    d.  *bevoegd gezag:*   het bevoegd gezag, bedoeld in [artikel 1, eerste lid, onderdeel j, van het besluit](../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md);    e.  *waardering:*   de uitkomst van de bepaling van de salarisschaal van de ambtenaar, bedoeld in [artikel 6, tweede lid, van het besluit](../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md);    f.  *heroverwegingscommissie:*   de door het bevoegd gezag ingestelde commissie, bedoeld in artikel 4;    g.  *bezwarenadviescommissie:*   de commissie, bedoeld in artikel 11.     
 
 ### Artikel  2  
 
@@ -24,13 +24,13 @@ Het bevoegd gezag stelt de ambtenaar schriftelijk en met redenen omkleed in kenn
 1.  Er is een heroverwegingscommissie functiewaardering politie.   
 2.  De heroverwegingscommissie bestaat uit: 
 
-a. een voorzitter, tevens lid, dan wel een plaatsvervangend voorzitter, tevens lid, die worden benoemd door het bevoegd gezag na overleg met de Regionale Commissie, de Commissie Korps landelijke politiediensten of de Commissie bijzondere ambtenaren van politie, bedoeld in [artikel 12](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), [21](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md) onderscheidenlijk [22 van het Besluit overleg en medezeggenschap politie 1994](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md);  
+a. een voorzitter, tevens lid, dan wel een plaatsvervangend voorzitter, tevens lid, die worden benoemd door het bevoegd gezag na overleg met de Commissie voor georganiseerd overleg in politie-ambtenarenzaken, bedoeld in [artikel 2, eerste lid, van het Besluit overleg en medezeggenschap politie 1994](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md);  
 
 b. één lid dat wordt aangewezen door een groep van ten minste zes personen die worden benoemd door het bevoegd gezag;  
 
-c. één lid wordt aangewezen door een groep van ten minste zes personen die worden benoemd door het bevoegd gezag op voordracht van de tot de Regionale Commissie, de Commissie Korps landelijke politiediensten of de Commissie bijzondere ambtenaren van politie toegelaten verenigingen van ambtenaren;     
+c. een lid dat wordt aangewezen door een groep van ten minste zes personen die worden benoemd door het bevoegd gezag op voordracht van de Commissie voor georganiseerd overleg in politie-ambtenarenzaken, bedoeld in [artikel 2, eerste lid, van het Besluit overleg en medezeggenschap politie 1994](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md).     
 3.  De heroverwegingscommissie wordt bijgestaan door een secretaris en een plaatvervangend secretaris die worden benoemd door het bevoegd gezag.   
-4.  Het bevoegd gezag is bevoegd een benoeming in te trekken. Behoudens in geval dat plaatsvindt op verzoek van de betrokkene, vindt een intrekking van een benoeming van de in het tweede lid, onder a, bedoelde personen plaats na overleg met de Regionale Commissie, de Commissie Korps landelijke politiediensten of de Commissie bijzondere ambtenaren van politie.   
+4.  Het bevoegd gezag is bevoegd een benoeming in te trekken. Behoudens in het geval dat plaatsvindt op verzoek van de betrokkene, vindt een intrekking van de benoeming van de in het tweede lid, onderdeel a, bedoelde personen plaats na overleg met de Commissie voor georganiseerd overleg in politie-ambtenarenzaken, bedoeld in [artikel 2, eerste lid, van het Besluit overleg en medezeggenschap politie 1994](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md).   
 
 ### Artikel  5  
 
@@ -67,17 +67,17 @@ De zittingen van de heroverwegingscommissie zijn niet openbaar.
 1.  Er is een commissie van advies bezwaren functiewaardering politie.   
 2.  De bezwarenadviescommissie bestaat uit: 
 
-a. een voorzitter, tevens lid, dan wel een plaatsvervangend voorzitter, tevens lid, die worden benoemd door de Minister van Binnenlandse Zaken op voordracht van de gezamenlijke korpsbeheerders, na overleg met de Commissie voor Georganiseerd Overleg in Politieambtenaren, bedoeld in [artikel 2 van het Besluit overleg en medezeggenschap politie 1994](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md);  
+a. een voorzitter, tevens lid, dan wel een plaatsvervangend voorzitter, tevens lid, die worden benoemd door de Minister van Veiligheid en Justitie op voordracht van de korpschef, na overleg met de Commissie voor Georganiseerd Overleg in Politieambtenaren, bedoeld in [artikel 2 van het Besluit overleg en medezeggenschap politie 1994](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md);  
 
-b. één lid dat wordt aangewezen door een groep van ten minste 6 personen die worden benoemd door de Minister van Binnenlandse Zaken op voordracht van de gezamenlijke korpsbeheerders;  
+b. één lid dat wordt aangewezen door een groep van ten minste 6 personen die worden benoemd door de Minister van Veiligheid en Justitie op voordracht van de korpschef;  
 
-c. één lid dat wordt aangewezen door een groep van ten minste 6 personen die worden benoemd door de Minister van Binnenlandse Zaken op voordracht van de tot de Commissie voor Georganiseerd Overleg in Politieambtenarenzaken toegelaten verenigingen van ambtenaren.     
-3.  De bezwarenadviescommissie wordt bijgestaan door een secretaris en een plaatsvervangend secretaris, die worden benoemd door de Minister van Binnenlandse Zaken.   
-4.  De Minister van Binnenlandse Zaken is bevoegd een benoeming in te trekken. Behoudens in geval dat plaatsvindt op verzoek van de betrokkene, vindt intrekking van een benoeming van de in het tweede lid, onder a, bedoelde personen plaats na overleg met de Commissie voor Georganiseerd Overleg in Politieambtenarenzaken.   
+c. één lid dat wordt aangewezen door een groep van ten minste 6 personen die worden benoemd door de Minister van Veiligheid en Justitie op voordracht van de tot de Commissie voor Georganiseerd Overleg in Politieambtenarenzaken toegelaten verenigingen van ambtenaren.     
+3.  De bezwarenadviescommissie wordt bijgestaan door een secretaris en een plaatsvervangend secretaris, die worden benoemd door de Minister van Veiligheid en Justitie.   
+4.  De Minister van Veiligheid en Justitie is bevoegd een benoeming in te trekken. Behoudens in geval dat plaatsvindt op verzoek van de betrokkene, vindt intrekking van een benoeming van de in het tweede lid, onder a, bedoelde personen plaats na overleg met de Commissie voor Georganiseerd Overleg in Politieambtenarenzaken.   
 
 ### Artikel  12  
 
-Bij de samenstelling van de bezwarenadviescommissie worden geen personen aangewezen die behoren tot het personeel van of ressorteren onder het politiekorps waaronder de ambtenaar wiens bezwaar wordt behandeld, ressorteert.  
+Bij de samenstelling van de bezwarenadviescommissie worden geen personen aangewezen die behoren tot het personeel van of ressorteren onder het onderdeel van de politie, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md) waaronder de ambtenaar wiens bezwaar wordt behandeld, ressorteert.  
 
 ### Artikel  13  
 

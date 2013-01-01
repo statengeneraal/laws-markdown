@@ -66,6 +66,8 @@ m. beroepsbegeleidende leerweg: de leerweg, bedoeld in artikel 7.2.2, tweede lid
 
 n. opleiding educatie: een opleiding als bedoeld in artikel 7.3.1, eerste lid;  
 
+n1. opleiding voortgezet algemeen volwassenenonderwijs: opleiding als bedoeld in artikel 7.3.1, eerste lid, onder a;  
+
 o. examinering: het nemen van beslissingen over inhoud en niveau van examens van een beroepsopleiding, procedures en voorwaarden waaronder examens worden afgenomen, alsmede het vaststellen van de uitslag van examens. De vorige volzin is van overeenkomstige toepassing op examens van de afzonderlijke leerwegen van een opleiding indien Onze Minister ingevolge artikel 7.2.4, tweede lid, heeft besloten dat een opleiding zowel in de beroepsopleidende als in de beroepsbegeleidende leerweg kan worden verzorgd, alsmede op een opleiding educatie;  
 
 p.  vervallen;   
@@ -133,7 +135,7 @@ ee. ondernemingsraad: een ondernemingsraad als bedoeld in de [Wet op de ondernem
 
 ####Doelstellingen onderwijs
 
-1.  Educatie is gericht op de bevordering van de persoonlijke ontplooiing ten dienste van het maatschappelijk functioneren van volwassenen door de ontwikkeling van kennis, inzicht, vaardigheden en houdingen op een wijze die aansluit bij hun behoeften, mogelijkheden en ervaringen alsmede bij maatschappelijke behoeften. Waar mogelijk sluit de educatie aan op het ingangsniveau van het beroepsonderwijs. Educatie omvat niet activiteiten op het niveau van het hoger onderwijs.   
+1.  Educatie is gericht op bevordering van de zelfredzaamheid van volwassenen en sluit waar mogelijk aan op het ingangsniveau van het beroepsonderwijs. Educatie omvat activiteiten op het niveau van het basisonderwijs en het voortgezet onderwijs. Opleidingen voortgezet algemeen volwassenenonderwijs zijn gericht op het behalen van een diploma van onderwijs als bedoeld in de [artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
 2.  Beroepsonderwijs is gericht op de theoretische en praktische voorbereiding voor de uitoefening van beroepen, waarvoor een beroepskwalificerende opleiding is vereist of dienstig kan zijn. Het beroepsonderwijs bevordert tevens de algemene vorming en de persoonlijke ontplooiing van de deelnemers en draagt bij tot het maatschappelijk functioneren. Beroepsonderwijs sluit aan op het voorbereidend beroepsonderwijs en het algemeen voortgezet onderwijs. Beroepsonderwijs omvat niet het hoger onderwijs.   
 
 ### Titel  3  
@@ -148,24 +150,39 @@ ee. ondernemingsraad: een ondernemingsraad als bedoeld in de [Wet op de ondernem
 
 ####Regionale opleidingencentra
 
-1.  Aan regionale opleidingencentra worden opleidingen beroepsonderwijs verzorgd en worden tot op een bij algemene maatregel van bestuur te bepalen tijdstip opleidingen educatie verzorgd. Vanaf het tijdstip, bedoeld in de eerste volzin, kunnen aan regionale opleidingencentra opleidingen educatie worden verzorgd.   
-2.  Het regionaal opleidingencentrum dat daarvoor op grond van artikel 2.1.3, eerste en tweede lid, in aanmerking komt, heeft aanspraak op bekostiging uit 's Rijks kas voor het verzorgen van beroepsopleidingen die op de voet van artikel 2.1.1 voor bekostiging in aanmerking komen.   
-3.  De regionale opleidingencentra die daarvoor op grond van artikel 2.3.3 in aanmerking komen, ontvangen voor het verzorgen van opleidingen educatie een bedrag van het college van burgemeester en wethouders.   
-4.  Aan de met goed gevolg afgelegde examens of onderdelen van examens van opleidingen als bedoeld in het tweede en derde lid, is een bewijsstuk als bedoeld in artikel 7.4.6 verbonden.   
+1.  Aan regionale opleidingencentra worden verzorgd: 
+
+a. opleidingen beroepsonderwijs,  
+
+b. indien de desbetreffende instelling op 1 augustus 2012 een of meer opleidingen voortgezet algemeen volwassenenonderwijs verzorgde: een of meer opleidingen voortgezet algemeen volwassenenonderwijs, en  
+
+c. tot een bij algemene maatregel van bestuur te bepalen tijdstip: opleidingen educatie als bedoeld in artikel 7.3.1, eerste lid, onder b tot en met f.     
+2.  Aan regionale opleidingencentra kunnen worden verzorgd: 
+
+a. indien de desbetreffende instelling op 1 augustus 2012 geen opleidingen voortgezet algemeen volwassenenonderwijs verzorgde: een of meer opleidingen voortgezet algemeen volwassenenonderwijs en  
+
+b. vanaf het tijdstip, bedoeld in het eerste lid, onderdeel c: opleidingen educatie als bedoeld in artikel 7.3.1, eerste lid, onder b tot en met f.     
+3.  Het regionaal opleidingencentrum dat daarvoor op grond van artikel 2.1.3, eerste en tweede lid, in aanmerking komt, heeft aanspraak op bekostiging uit ’s Rijks kas voor 
+
+a. het verzorgen van beroepsopleidingen die op de voet van artikel 2.1.1 voor bekostiging in aanmerking komen en  
+
+b. het verzorgen van opleidingen voortgezet algemeen volwassenenonderwijs die op de voet van artikel 2.1.2 voor bekostiging in aanmerking komen.     
+4.  De regionale opleidingencentra die daarvoor op grond van artikel 2.3.3 in aanmerking komen, ontvangen voor het verzorgen van opleidingen educatie als bedoeld in artikel 7.3.1, eerste lid, onder b tot en met f, een bedrag van het college van burgemeester en wethouders.   
+5.  Aan de met goed gevolg afgelegde examens of onderdelen van examens van opleidingen als bedoeld in het derde en vierde lid is een bewijsstuk als bedoeld in artikel 7.4.6 of, indien het betreft voortgezet algemeen volwassenenonderwijs of Nederlands als tweede taal I en II, 7.4.11, vijfde lid, verbonden.   
 
 ### Artikel  1.3.2a  
 
 ####Vakinstellingen
 
 1.  Aan vakinstellingen worden beroepsopleidingen verzorgd die naar hun aard en onderlinge samenhang aantoonbaar gericht zijn op en van belang zijn voor een specifieke bedrijfstak of groep van bedrijfstakken.   
-2.  Artikel 1.3.1, tweede en vierde lid, is van overeenkomstige toepassing.   
+2.  Artikel 1.3.1, derde lid, onder a, en vijfde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  1.3.3  
 
 ####Agrarische opleidingscentra
 
 1.  Agrarische opleidingscentra zijn instellingen waarin beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel en voorbereidend beroepsonderwijs in de afdeling landbouw, natuurlijke omgeving en voedsel, bedoeld in [artikel 10c, onderdeel d, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), worden verzorgd. Voor zover dat bij wet is bepaald, kan aan een agrarisch opleidingscentrum tevens ander voortgezet onderwijs worden verzorgd.   
-2.  Artikel 1.3.1, tweede en vierde lid, is van overeenkomstige toepassing.   
+2.  Artikel 1.3.1, derde lid, onder a, en vijfde lid, is van overeenkomstige toepassing.   
 
 ### §  2  
 
@@ -252,7 +269,7 @@ f. de opneming in het Centraal register.   Het bevoegd gezag voegt bij deze aanv
 5.  Artikel 1.3.8, eerste tot en met derde lid, is van overeenkomstige toepassing op instellingen als bedoeld in het eerste lid.   
 6.  Voor een andere dan een in artikel 1.1.1, onderdeel b, bedoelde instelling of een instelling zijn voor zover het betreft een beroepsopleiding ten aanzien waarvan toepassing is gegeven aan het eerste lid van overeenkomstige toepassing: 
 
-a. de artikelen 2.5.5a, eerste, tweede, vijfde tot en met zevende, en negende tot en met twaalfde lid, met dien verstande dat van de gegevens, bedoeld in artikel 2.5.5a, tweede lid, uitsluitend worden verstrekt de gegevens, bedoeld in de onderdelen a tot en met d, h tot en met j, en l en o, van dat lid;  
+a. de artikelen 2.5.5a, eerste, tweede, vijfde tot en met zevende, en negende tot en met twaalfde lid, met dien verstande dat van de gegevens, bedoeld in artikel 2.5.5a, tweede lid, uitsluitend worden verstrekt de gegevens, bedoeld in de onderdelen a tot en met d, h tot en met j, en l en o en p, van dat lid;  
 
 b. artikel 2.5.5b;  
 
@@ -273,16 +290,16 @@ f. de artikelen 8.3.1 tot en met 8.3.3.
 
 ####Andere instellingen die een opleiding educatie verzorgen
 
-1.  Onze Minister besluit op aanvraag van het bevoegd gezag van een in het tweede lid bedoelde instelling, dat aan de met goed gevolg afgelegde examens of onderdelen van examens van een opleiding educatie, verzorgd door die instelling, een diploma of certificaat als bedoeld in artikel 7.4.6 is verbonden, indien die instelling in acht neemt hetgeen bij of krachtens deze wet voor die opleiding is bepaald ten aanzien van de kwaliteitszorg, bedoeld in artikel 1.3.6, en ten aanzien van het onderwijs, bedoeld in hoofdstuk 7, met uitzondering van artikel 7.1.1, titel 2, titel 4 voor zover het betreft de artikelen 7.4.3, 7.4.4 en 7.4.7, en titel 6, en eveneens in acht neemt hetgeen is bepaald in artikel 8.1.1, zesde lid, eerste volzin.   
-2.  Een aanvraag als bedoeld in het eerste lid wordt gedaan voor een andere dan een in artikel 1.1.1, onder b, bedoelde instelling of voor een instelling. Het bevoegd gezag voegt bij deze aanvraag in elk geval het ontwerp van de in artikel 7.4.8 bedoelde onderwijs- en examenregeling voor de opleiding educatie waarop de aanvraag betrekking heeft.   
-3.  Een aanvraag als bedoeld in het eerste lid heeft betrekking op een opleiding educatie waarvoor de instelling geen bedrag als bedoeld in artikel 2.3.3 van de gemeente ontvangt.   
+1.  Onze Minister besluit op aanvraag van het bevoegd gezag van een in het tweede lid bedoelde instelling, dat aan de met goed gevolg afgelegde examens of onderdelen van examens van een opleiding educatie, verzorgd door die instelling, een diploma als bedoeld in artikel 7.4.6 of, indien het betreft voortgezet algemeen volwassenenonderwijs of Nederlands als tweede taal I en II, een diploma of certificaat als bedoeld in artikel 7.4.11, vijfde lid, is verbonden, indien die instelling in acht neemt hetgeen bij of krachtens deze wet voor die opleiding is bepaald ten aanzien van de kwaliteitszorg, bedoeld in artikel 1.3.6, en ten aanzien van het onderwijs, bedoeld in hoofdstuk 7, met uitzondering van artikel 7.1.1, titel 2, titel 4 voor zover het betreft de artikelen 7.4.3, 7.4.4 en 7.4.7, en titel 6, en eveneens in acht neemt hetgeen is bepaald in artikel 8.1.1, zesde lid, eerste volzin.   
+2.  Een aanvraag als bedoeld in het eerste lid wordt gedaan voor een andere dan een in artikel 1.1.1, onder b, bedoelde instelling of voor een instelling. Het bevoegd gezag voegt bij deze aanvraag in elk geval het ontwerp van een beschrijving van de regeling voor het onderwijsprogramma en de examens, bedoeld in artikel 7.4.8, voor de opleiding educatie waarop de aanvraag betrekking heeft.   
+3.  Een aanvraag als bedoeld in het eerste lid heeft geen betrekking op een opleiding educatie waarvoor de instelling een rijksbijdrage als bedoeld in artikel 2.2a.1 of een bedrag als bedoeld in artikel 2.3.3 ontvangt of op een opleiding educatie die daarmee overeenkomt.   
 4.  Een aanvraag als bedoeld in het eerste lid heeft uitsluitend betrekking op opleidingen educatie als bedoeld in artikel 7.3.1, eerste lid, onder a, alsmede op andere in dat lid bedoelde opleidingen, voor zover daarvoor bij ministeriële regeling eindtermen zijn vastgesteld.   
 5.  Onze Minister besluit binnen drie maanden na ontvangst van een aanvraag als bedoeld in het eerste lid. Indien de beschikking niet binnen drie maanden kan worden gegeven, stelt Onze Minister de aanvrager daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien. Een begunstigende beschikking is voor het eerst van kracht ten aanzien van een opleiding educatie die aanvangt nadat die beschikking is bekend gemaakt.   
 6.  Het in het eerste lid bedoelde bevoegd gezag verstrekt Onze Minister jaarlijks voor 15 oktober een opgave van de opleidingen educatie, bedoeld in het eerste lid, die de instelling verzorgt in het lopende studiejaar, alsmede van de opleidingen educatie die de instelling heeft verzorgd in het daaraan voorafgaande studiejaar.   
 7.  Voor zover ten aanzien van een instelling die een opleiding educatie verzorgt, toepassing is gegeven aan het eerste lid, wordt die instelling voor de toepassing van deze wet wat deze opleiding betreft, aangemerkt als een andere instelling dan bedoeld in artikel 1.1.1, onder b.   
 8.  Voor een andere dan een in artikel 1.1.1, onderdeel b, bedoelde instelling of een instelling zijn voor zover het betreft een opleiding educatie ten aanzien waarvan toepassing is gegeven aan het eerste lid van overeenkomstige toepassing: 
 
-a. artikel 2.3.6a, eerste, tweede, vierde, vijfde, en zevende tot en met negende lid, met dien verstande dat van de gegevens, bedoeld in artikel 2.3.6a, tweede lid, uitsluitend worden verstrekt de gegevens, bedoeld in de onderdelen a tot en met c, e tot en met i, en k en l, waarbij onderdeel g wordt gelezen als: het uitstroomniveau of het behaalde diploma en de datum waarop het diploma is behaald;  
+a. artikel 2.3.6a, eerste, tweede, vierde, vijfde, en zevende tot en met negende lid, met dien verstande dat van de gegevens, bedoeld in artikel 2.3.6a, tweede lid, uitsluitend worden verstrekt de gegevens, bedoeld in de onderdelen a tot en met c, e tot en met i, en k tot en met m, waarbij onderdeel g wordt gelezen als: het uitstroomniveau of het behaalde diploma en de datum waarop het diploma is behaald;  
 
 b. artikel 2.3.6b;  
 
@@ -364,6 +381,17 @@ c. de rechtsbescherming van de deelnemers, bedoeld in hoofdstuk 7, titel 5.
 ####Bekostiging landelijk aanbod beroepsonderwijs
 
 Onverminderd de artikelen 1.3.2a en 1.3.3 komt een beroepsopleiding bij een instelling voor bekostiging in aanmerking indien zij is gericht op een kwalificatie of kwalificaties als bedoeld in artikel 7.2.4, tweede lid, onder b3° en de rechten, genoemd in artikel 1.3.1, met betrekking tot de desbetreffende beroepsopleiding niet zijn ontnomen op grond van artikel 6.1.4.  
+
+### Artikel  2.1.2  
+
+####Bekostiging aanbod voortgezet algemeen volwassenenonderwijs
+
+1.  Een opleiding voortgezet algemeen volwassenenonderwijs van een instelling als bedoeld in artikel 1.1.1, onder b1°, komt voor bekostiging in aanmerking indien 
+
+a. de instelling op 1 augustus 2012 een of meer opleidingen voortgezet algemeen volwassenenonderwijs verzorgde op grond van een overeenkomst als bedoeld in artikel 2.3.4 zoals luidend op die datum, of  
+
+b. Onze Minister van Onderwijs, Cultuur en Wetenschap op aanvraag van de instelling heeft bepaald dat opleidingen voortgezet algemeen volwassenenonderwijs van de instelling voor bekostiging in aanmerking komen.     
+2.  Onze Minister beoordeelt de aanvraag, bedoeld in het eerste lid, onderdeel b, aan de hand van de maatschappelijke behoefte aan een of meer opleidingen voortgezet algemeen volwassenenonderwijs, in het licht van het onderwijsaanbod verzorgd door andere, al dan niet uit ’s Rijks kas bekostigde instellingen.   
 
 ### Artikel  2.1.3  
 
@@ -556,9 +584,9 @@ b. zij in Nederland, België of een van de bondsstaten Noord-Rijnland-Westfalen,
 
 ### Artikel  2.2.4  
 
-####Bekendmaking, verstrekking en betaling rijksbijdrage
+####Bekendmaking, verstrekking en betaling rijksbijdrage beroepsonderwijs
 
-1.  Onze Minister maakt aan elke instelling jaarlijks in september bekend welke rijksbijdrage voor het daarop volgende jaar wordt verstrekt. Hij deelt daarbij mee op welke wijze de rijksbijdrage is berekend en vermeldt daarbij afzonderlijk het bedrag voor gehandicapte deelnemers.   
+1.  Onze Minister maakt aan elke instelling jaarlijks in september bekend welke rijksbijdrage voor het beroepsonderwijs voor het daarop volgende jaar wordt verstrekt. Hij deelt daarbij mee op welke wijze de rijksbijdrage is berekend en vermeldt daarbij afzonderlijk het bedrag voor gehandicapte deelnemers.   
 2.  De rijksbijdrage wordt betaald volgens een door Onze Minister te bepalen kasritme.   
 3.  Zolang de rijksbijdrage niet is vastgesteld of nader vastgesteld, wordt daarop door Onze Minister een voorschot betaald. Het tweede lid is van overeenkomstige toepassing.   
 4.  Bij of krachtens algemene maatregel van bestuur worden nadere voorschriften gegeven met betrekking tot de uitvoering van deze paragraaf. Deze voorschriften hebben in elk geval betrekking op aard, inrichting en wijze van verstrekking van gegevens met betrekking tot de deelnemers.   
@@ -681,30 +709,30 @@ b. zij in Nederland, België of een van de bondsstaten Noord-Rijnland-Westfalen,
 
 ### Titel  3  
 
-####Uitkering ten behoeve van de educatie
+####Uitkering educatie met uitzondering van opleidingen voortgezet algemeen volwassenenonderwijs; informatie en gegevensverstrekking educatie
 
 ### Artikel  2.3.1  
 
 ####Uitkering educatie
 
-Mede ten behoeve van opleidingen educatie ontvangt de gemeente op grond van de [Wet participatiebudget](../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md) een uitkering.  
+Mede ten behoeve van de opleidingen educatie, bedoeld in artikel 7.3.1, eerste lid, onder b tot en met f, ontvangt de gemeente op grond van de [Wet participatiebudget](../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md) een uitkering.  
 
 ### Artikel  2.3.3  
 
 ####Gemeentelijk besluit educatiebedragen
 
-De gemeente waaraan een uitkering is verstrekt op grond van de [Wet participatiebudget](../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md) waaruit een bedrag moet worden besteed bij regionale opleidingencentra als bedoeld in [artikel 14 van de Wet participatiebudget](../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md), besluit jaarlijks voor 1 november tot een bij algemene maatregel van bestuur te bepalen tijdstip ten behoeve van het daaropvolgende kalenderjaar, welk deel van die uitkering zal worden bestemd voor educatieve activiteiten, onderscheiden naar de opleidingen, bedoeld in artikel 7.3.1, en in voorkomende gevallen naar doelgroepen.  
+De gemeente waaraan een uitkering is verstrekt op grond van de [Wet participatiebudget](../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md) waaruit een bedrag moet worden besteed bij regionale opleidingencentra als bedoeld in [artikel 14 van de Wet participatiebudget](../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md), besluit jaarlijks voor 1 november tot een bij algemene maatregel van bestuur te bepalen tijdstip ten behoeve van het daaropvolgende kalenderjaar, welk deel van die uitkering zal worden bestemd voor educatieve activiteiten, onderscheiden naar de opleidingen, bedoeld in artikel 7.3.1, eerste lid, onder b tot en met f, en in voorkomende gevallen naar doelgroepen.  
 
 ### Artikel  2.3.4  
 
 ####Overeenkomst uitkering educatie
 
-1.  Tot een bij algemene maatregel van bestuur te bepalen tijdstip berust in afwijking van [titel 4.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de betaling van de bedragen aan de regionale opleidingencentra voor opleidingen educatie op een door het college met het bevoegd gezag van het desbetreffende regionale opleidingencentrum gesloten overeenkomst of overeenkomsten. De [titels 4.1](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing.   
+1.  Tot een bij algemene maatregel van bestuur te bepalen tijdstip berust in afwijking van [titel 4.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de betaling van de bedragen aan de regionale opleidingencentra voor de opleidingen educatie, bedoeld in artikel 7.3.1, eerste lid, onder b tot en met f, op een door het college met het bevoegd gezag van het desbetreffende regionale opleidingencentrum gesloten overeenkomst of overeenkomsten. De [titels 4.1](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing.   
 2.  Een overeenkomst als bedoeld in het eerste lid heeft ten minste betrekking op: 
 
 a. de aard van de activiteiten,  
 
-b. het aantal deelnemers, in voorkomende gevallen onderscheiden naar doelgroepen,  
+b. het aantal contacturen, onderscheiden naar opleidingen,  
 
 c. de periode,  
 
@@ -713,7 +741,7 @@ d. de omvang van het bedrag, dan wel de wijze waarop dit berekend wordt,
 e. de wijze waarop het bedrag ter beschikking wordt gesteld, en  
 
 f. de wijze waarop verantwoording jegens het gemeentebestuur wordt afgelegd.     
-3.  Ten aanzien van opleidingen voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onder a, bevat een overeenkomst als bedoeld in het eerste lid geen bepalingen omtrent de combinaties van vakken waarop de diploma’s betrekking dienen te hebben.   
+3.  Bij of krachtens algemene maatregel van bestuur worden voorschriften vastgesteld voor contacturen.   
 
 ### Artikel  2.3.6  
 
@@ -750,10 +778,12 @@ i. indien van toepassing het volgen van de opleiding in voltijd of deeltijd;
 
 j. indien van toepassing het zijn van examendeelnemer;  
 
-k. het aantal uren per week dat onderwijs wordt gevolgd aan de instelling; en  
+k. het aantal uren per week dat onderwijs wordt gevolgd aan de instelling;  
 
-l. indien van toepassing de reden van het uitstromen.     
-3.  Bij ministeriële regeling kan een nadere specificatie worden gegeven van de gegevens, bedoeld in het tweede en vijfde lid, en kan worden bepaald welke van de gegevens, bedoeld in het tweede en vijfde lid, niet langer behoeven te worden verstrekt. Bij ministeriële regeling kunnen voorts regels worden gesteld omtrent de tijdstippen en de wijze van verstrekking van de gegevens, bedoeld in het tweede en vijfde lid.   
+l. indien van toepassing de reden van het uitstromen; en  
+
+m. de locatie waar het onderwijs wordt gevolgd.     
+3.  Bij ministeriële regeling kan een nadere specificatie worden gegeven van de gegevens, bedoeld in het tweede en vijfde lid, en kan worden bepaald welke van de gegevens, bedoeld in het tweede en vijfde lid, niet langer behoeven te worden verstrekt. Bij ministeriële regeling kunnen voorts regels worden gesteld omtrent de tijdstippen en de wijze van verstrekking van de gegevens, bedoeld in het tweede en vijfde lid. Bij de ministeriële regelingen, bedoeld in de eerste en tweede volzin, kan onderscheid worden gemaakt tussen het voortgezet algemeen volwassenenonderwijs en de overige educatie.   
 4.  Het bevoegd gezag gebruikt bij de opgave aan burgemeester en wethouders, bedoeld in artikel 8.1.8, eerste lid, het persoonsgebonden nummer van de betrokkene.   
 5.  Indien de gegevens over de nationaliteit van de deelnemer niet zijn opgenomen in de gemeentelijke basisadministratie persoonsgegevens worden deze gegevens door het bevoegd gezag verstrekt aan Onze Minister.   
 6.  Het bevoegd gezag gebruikt het persoonsgebonden nummer van een deelnemer aan een opleiding in het kader van de uitvoering van subsidieregelingen van het Europees Sociaal Fonds.   
@@ -895,9 +925,11 @@ l. het volgen van de opleiding in voltijd of deeltijd;
 
 m. indien van toepassing het zijn van examendeelnemer;  
 
-n. het al dan niet voor bekostiging in aanmerking komen van de deelnemer of het diploma; en  
+n. het al dan niet voor bekostiging in aanmerking komen van de deelnemer of het diploma;  
 
-o. indien van toepassing de reden van het uitstromen.     
+o. indien van toepassing de reden van het uitstromen; en  
+
+p. de locatie waar het onderwijs wordt gevolgd.     
 3.  Bij ministeriële regeling kan een nadere specificatie worden gegeven van de gegevens, bedoeld in het tweede en zevende lid, en kan worden bepaald welke van de gegevens, bedoeld in het tweede en zevende lid, niet langer behoeven te worden verstrekt. Bij ministeriële regeling kunnen voorts regels worden gesteld omtrent de tijdstippen en de wijze van verstrekking van de gegevens, bedoeld in het tweede en zevende lid.   
 4.  Het bevoegd gezag kan het persoonsgebonden nummer van een deelnemer aan een beroepsopleiding, al dan niet tezamen met een of meer van de gegevens, bedoeld in het tweede en zevende lid, gebruiken in het verkeer met Onze Minister ten behoeve van de vaststelling van de bekostiging van de instelling.   
 5.  Het bevoegd gezag en het hoofd, bedoeld in [artikel 1, onder d, van de Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), gebruiken het persoonsgebonden nummer van een deelnemer aan een beroepsopleiding in contacten met een gemeente in het kader van de [Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), tezamen met de gegevens die noodzakelijk zijn voor het toezicht op de naleving van die wet door de gemeente.   
@@ -968,7 +1000,13 @@ Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven omt
 
 ### §  1a  
 
-####Verantwoording educatiemiddelen
+####Verantwoording middelen voortgezet algemeen volwassenenonderwijs
+
+### Artikel  2.5.9a  
+
+####Verslaglegging, onderzoek minister, controleprotocol en correctie rijksbijdrage
+
+De artikelen 2.5.3, 2.5.4, 2.5.6, 2.5.7, 2.5.7a en 2.5.9 zijn van overeenkomstige toepassing op de rijksbijdrage voor het voortgezet algemeen volwassenenonderwijs.  
 
 ### §  2  
 
@@ -1144,7 +1182,7 @@ a. een disciplinaire maatregel,
 
 b. schorsing,  
 
-c. ontslag anders dan op eigen verzoek, voordat de pensioengerechtigde leeftijd is bereikt,  
+c. ontslag anders dan op eigen verzoek, voordat de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), is bereikt,  
 
 d. het direct of indirect onthouden van bevordering,  
 
@@ -1606,7 +1644,7 @@ b. niet of niet meer wordt voldaan aan hetgeen bij of krachtens deze wet is bepa
 
 ####Taal
 
-Het onderwijs wordt gegeven en de examens worden afgenomen in het Nederlands. Onverminderd artikel 7.3.4, derde lid, kan een andere taal worden gebezigd: 
+Het onderwijs wordt gegeven en de examens worden afgenomen in het Nederlands. Een andere taal kan worden gebezigd: 
 
 a. wanneer het onderwijs met betrekking tot die taal betreft, of  
 
@@ -1826,18 +1864,19 @@ Bij algemene maatregel van bestuur kan worden bepaald dat aan de deelnemers gele
 
 1.  De volgende opleidingen educatie worden onderscheiden: 
 
-a. opleidingen voortgezet algemeen volwassenenonderwijs, gericht op het behalen van een diploma, bedoeld in de [artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), of onderdelen van dat diploma,  
+a. opleidingen voortgezet algemeen volwassenenonderwijs, gericht op het behalen van een diploma van onderwijs als bedoeld in de [artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
 
-b. opleidingen gericht op breed maatschappelijk functioneren,  
+b. opleidingen Nederlandse taal en rekenen, gericht op alfabetisering en op het ingangsniveau van het beroepsonderwijs,  
 
-c. de opleidingen Nederlands als tweede taal I en II, niveaus B1 en B2 van het Raamwerk NT2, die opleiden voor het niveau van het diploma Nederlands als tweede taal, bedoeld in het Staatsexamenbesluit Nederlands als tweede taal,  
+c. de opleidingen Nederlands als tweede taal I en II die opleiden voor het diploma Nederlands als tweede taal, bedoeld in het Staatsexamenbesluit Nederlands als tweede taal,  
 
-d. de opleidingen Nederlands als tweede taal, niveaus A1 en A2 van het Raamwerk NT2,  
+d. de opleidingen Nederlands als tweede taal, gericht op beheersing van een basisniveau Nederlandse taal,  
 
 e. de opleidingen Nederlands als tweede taal, gericht op alfabetisering, en  
 
-f. andere opleidingen, gericht op sociale redzaamheid.     
-2.  De opleidingen, bedoeld in het eerste lid, onder *b*, sluiten aan bij de basisberoepsopleiding, bedoeld in artikel 7.2.2, eerste lid, onder b.   
+f. bij ministeriële regeling aan te wijzen andere opleidingen.     
+2.  De opleidingen, bedoeld in het eerste lid, onder b, zijn afgestemd op het maatschappelijk functioneren van de deelnemers.   
+3.  Bij de opleidingen, bedoeld in het eerste lid, onder b, c en d, kunnen verschillende niveaus worden onderscheiden.   
 
 ### Artikel  7.3.2  
 
@@ -1850,26 +1889,24 @@ f. andere opleidingen, gericht op sociale redzaamheid.
 
 ####Eindtermen opleidingen educatie
 
-1.  Bij ministeriële regeling worden eindtermen vastgesteld voor de opleidingen Nederlands als tweede taal I en II.   
-2.  Bij ministeriële regeling kan worden bepaald welke opleidingen in elk geval behoren tot de opleidingen, bedoeld in artikel 7.3.1, eerste lid, onder b en f, en kunnen daarvoor eindtermen worden vastgesteld.   
-3.  Het bevoegd gezag stelt eindtermen vast voor de overige opleidingen educatie, met uitzondering van de opleidingen, bedoeld in artikel 7.3.1, eerste lid, onder a.   
+1.  Bij ministeriële regeling worden eindtermen vastgesteld voor de opleidingen, bedoeld in artikel 7.3.1, eerste lid, onder c, en kunnen eindtermen worden vastgesteld voor de opleidingen, bedoeld in artikel 7.3.1, eerste lid, onder b, d, e en f.   
+2.  Het bevoegd gezag stelt eindtermen vast voor de opleidingen, bedoeld in artikel 7.3.1, eerste lid, onder b, d, e en f, indien daarvoor geen eindtermen zijn vastgesteld bij ministeriële regeling.   
 
 ### Artikel  7.3.4  
 
 ####Inrichting voortgezet algemeen volwassenenonderwijs
 
-1.  Opleidingen voortgezet algemeen volwassenenonderwijs omvatten het onderwijs dat noodzakelijk is voor het behalen van het diploma voorbereidend wetenschappelijk onderwijs, het diploma hoger algemeen voortgezet onderwijs of het diploma middelbaar algemeen voortgezet onderwijs, dan wel voor het behalen van onderdelen van het diploma.   
-2.  Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden vastgesteld omtrent de voor het behalen van elk der in het eerste lid genoemde diploma’s of onderdelen daarvan noodzakelijke vakken en andere programma-onderdelen, en omtrent de cursusduur.   
-3.  Ten behoeve van deelnemers met een niet-Nederlandse culturele achtergrond kan onderwijs worden gegeven in de taal van het land van oorsprong van die deelnemers.   
-4.  Ten behoeve van de bijzondere inrichting van het onderwijs kan Onze Minister toestaan dat wordt afgeweken van het bepaalde bij of krachtens dit artikel. Onze Minister besluit binnen zes maanden na ontvangst van een aanvraag. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze Minister de aanvrager daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
+1.  Opleidingen voortgezet algemeen volwassenenonderwijs omvatten het onderwijs dat noodzakelijk is voor het behalen van het diploma voorbereidend wetenschappelijk onderwijs, het diploma hoger algemeen voortgezet onderwijs of het diploma middelbaar algemeen voortgezet onderwijs.   
+2.  Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden vastgesteld omtrent de voor het behalen van elk der in het eerste lid genoemde diploma’s noodzakelijke vakken en andere programma-onderdelen, en omtrent de cursusduur.   
+3.  Ten behoeve van de bijzondere inrichting van het onderwijs kan Onze Minister toestaan dat wordt afgeweken van het bepaalde bij of krachtens dit artikel. Onze Minister besluit binnen zes maanden na ontvangst van een aanvraag. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze Minister de aanvrager daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
 
 ### Titel  4  
 
-####Examens
+####Examens, onderwijsprogramma en deelnemersstatuut
 
 ### §  1  
 
-####Examens beroepsopleidingen en opleidingen educatie, met uitzondering van opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als tweede taal
+####Beroepsopleidingen en opleidingen educatie, met uitzondering van opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als tweede taal I en II
 
 ### Artikel  7.4.1  
 
@@ -1981,7 +2018,7 @@ c. indien deze noodzakelijk is voor deelneming van personen met een buitenlandse
 
 ### §  2  
 
-####Examens opleidingen voortgezet algemeen volwassenenonderwijs en Nederlands als tweede taal I en II
+####Opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als tweede taal I en II
 
 ### Artikel  7.4.10  
 
@@ -1991,14 +2028,15 @@ Deze paragraaf is van toepassing op opleidingen voortgezet algemeen volwasseneno
 
 ### Artikel  7.4.11  
 
-####Examenregeling opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als tweede taal
+####Examens, onderwijsprogramma en deelnemersstatuut
 
 1.  Aan de deelnemers wordt gelegenheid gegeven een examen af te leggen.   
 2.  Artikel 7.4.5 is van overeenkomstige toepassing.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden vastgesteld omtrent de examens van de opleidingen voortgezet algemeen volwassenenonderwijs en Nederlands als tweede taal I en II, bedoeld in artikel 7.3.1, eerste lid, onder a en c. Bij deze algemene maatregel van bestuur kunnen tevens voorschriften worden gegeven omtrent de examenprogramma’s en de verdeling daarvan in onderdelen.   
 4.  Ten behoeve van de bijzondere inrichting van het onderwijs aan een instelling kan Onze Minister toestaan dat wordt afgeweken van het bepaalde bij of krachtens het tweede en derde lid. Onze Minister besluit binnen zes maanden na ontvangst van een aanvraag. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze Minister de aanvrager daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
 5.  Artikel 7.4.6 is van toepassing, met dien verstande dat degene die een onderdeel van een examen van de opleiding voortgezet algemeen volwassenenonderwijs of Nederlands als tweede taal I of II met goed gevolg heeft afgelegd een certificaat ontvangt. Bij of krachtens algemene maatregel van bestuur wordt bepaald onder welke voorwaarden het bezit van certificaten aanspraak geeft op een diploma.   
-6.  Bij algemene maatregel van bestuur kunnen in afwijking van de artikelen [6:7](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [7:10](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [7:24 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), kortere termijnen dan in die artikelen vermeld, worden bepaald voor de indiening van een bezwaar- of beroepschrift en voor de daarop te nemen beslissing ter zake van de deelneming aan de in dit artikel bedoelde examens.   
+6.  Artikel 7.4.8, eerste, tweede, vierde en vijfde lid, is van overeenkomstige toepassing.   
+7.  Bij algemene maatregel van bestuur kunnen in afwijking van de artikelen [6:7](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [7:10](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [7:24 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), kortere termijnen dan in die artikelen vermeld, worden bepaald voor de indiening van een bezwaar- of beroepschrift en voor de daarop te nemen beslissing ter zake van de deelneming aan de in dit artikel bedoelde examens.   
 
 ### Paragraaf  3  
 
@@ -2086,13 +2124,7 @@ d. vreemdeling is, niet meer voldoet aan een van de voorwaarden genoemd onder b 
 3.  De inschrijving staat uitsluitend open voor degenen ten aanzien van wie het bevoegd gezag beslist dat zij tot de instelling worden toegelaten, onverminderd het eerste lid, vierde volzin, en het vijfde lid. Het bevoegd gezag kan het nemen van de beslissing over de toelating opdragen aan een door hem in te stellen toelatingscommissie. Het bevoegd gezag regelt de bevoegdheden en de werkzaamheden van de toelatingscommissie.   
 4.  De toelating tot beroepsopleidingen staat voor zover het de beroepsbegeleidende leerweg betreft, uitsluitend open voor degenen voor wie de volledige leerplicht, bedoeld in [paragraaf 2 van de Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), is geëindigd.   
 5.  In afwijking van het derde lid en met inachtneming van artikel 8.2.1 en het krachtens artikel 8.2.2 bepaalde” doch onverminderd de vierde volzin van het eerste lid, staat de inschrijving voor een assistentopleiding of basisberoepsopleiding als bedoeld in artikel 7.2.2, eerste lid, open voor een ieder, met dien verstande dat het bevoegd gezag van een bijzondere instelling kan aangeven dat degenen die wensen te worden ingeschreven, geacht worden de grondslag en de doelstellingen van de instelling te respecteren. De inschrijving kan worden geweigerd dan wel ingetrokken indien de betrokkene de grondslag en de doelstellingen van de instelling niet respecteert. De inschrijving aan een bijzondere instelling kan eveneens worden geweigerd dan wel ingetrokken indien gegronde vrees bestaat dat de betrokkene van die inschrijving en de daaraan verbonden rechten misbruik zal maken door in ernstige mate afbreuk te doen aan de eigen aard van die instelling, dan wel indien is gebleken dat de betrokkene van die inschrijving en de daaraan verbonden rechten een dergelijk misbruik heeft gemaakt. De weigering dan wel intrekking van de inschrijving geschiedt schriftelijk en is met redenen omkleed. De inschrijving kan niet worden ingetrokken op grond van de tweede volzin indien voor betrokkene geen gelegenheid bestaat de opleiding aan een andere instelling te volgen.   
-6.  De toelating tot opleidingen educatie staat uitsluitend open voor volwassenen. De toelating tot de opleidingen educatie, bedoeld in artikel 7.3.1, eerste lid, onderdelen c en d, staat tot een bij algemene maatregel van bestuur te bepalen tijdstip niet open voor volwassenen die: 
-
-a. inburgeringsplichtig zijn in de zin van [artikel 1, aanhef en onder b, van de Wet inburgering](../../../../../../wet/wet/inburgering/BWBR0020611/README.md),  
-
-b. behoren tot de categorie personen voor wie bij regeling van Onze Minister voor Vreemdelingenzaken en Integratie per 1 januari 2007 een voorziening in het kader van inburgering is getroffen en die niet in het kader van die regeling het inburgeringsexamen, bedoeld in [artikel 13 van de Wet inburgering](../../../../../../wet/wet/inburgering/BWBR0020611/README.md), hebben afgelegd, of  
-
-c. vrijwillige inburgeraar zijn in de zin van [artikel 1, eerste lid, onderdeel r, van de Wet inburgering](../../../../../../wet/wet/inburgering/BWBR0020611/README.md) en die niet het inburgeringsexamen, bedoeld in [artikel 13 van de Wet inburgering](../../../../../../wet/wet/inburgering/BWBR0020611/README.md), hebben afgelegd.     
+6.  De toelating tot opleidingen educatie staat uitsluitend open voor volwassenen. De toelating tot de opleidingen educatie, bedoeld in artikel 7.3.1. eerste lid, onderdelen c tot en met e, staat niet open voor volwassenen die inburgeringsplichtig zijn in de zin van [artikel 1, aanhef en onder b, van de Wet inburgering](../../../../../../wet/wet/inburgering/BWBR0020611/README.md). Het bevoegd gezag neemt bij de toelating tot opleidingen educatie de overeenkomst, bedoeld in artikel 2.3.4, in acht.   
 7.  De inschrijving voor een opleidingsdomein kan uitsluitend geschieden voor een beroepsopleiding in de beroepsopleidende leerweg op het tweede, derde of vierde niveau, bedoeld in artikel 7.2.2, derde lid.   
 8.  Bij ministeriële regeling kan een maximum worden vastgesteld voor het percentage van de deelnemers in het beroepsonderwijs dat in een jaar kan worden ingeschreven voor een opleidingsdomein.   
 
@@ -2523,7 +2555,7 @@ c. artikel 8a.4.2, onderdeel c: of het bevoegd gezag bij afweging van betrokken 
 ####Procesbevoegdheid deelnemersraad
 
 1.  De deelnemersraad kan in rechte optreden indien de vordering strekt tot naleving door het bevoegd gezag van de verplichtingen jegens de deelnemersraad, voortvloeiend uit hoofdstuk 8a. Tegen een uitspraak van de commissie op grond van artikel 8a.4.3 staat beroep open.   
-2.  Een vordering of beroep als bedoeld in het eerste lid, wordt ingediend bij de ondernemingskamer van het gerechtshof te Amsterdam.   
+2.  Een vordering of beroep als bedoeld in het eerste lid, wordt ingediend bij de ondernemingskamer van het gerechtshof Amsterdam.   
 3.  Het beroep wordt ingediend bij beroepschrift binnen een maand nadat het bevoegd gezag of de deelnemersraad van de uitspraak op de hoogte is gesteld. De wederpartij wordt van het beroep in kennis gesteld.   
 4.  Het beroep kan uitsluitend worden ingesteld op de grond dat de commissie een onjuiste toepassing heeft gegeven aan de wet.   
 5.  Tegen een uitspraak van de ondernemingskamer kan geen beroep in cassatie worden ingesteld.   
@@ -2678,56 +2710,13 @@ b. ofwel voor de helft uit vertegenwoordigers van werkgeversorganisaties en voor
 
 ### Hoofdstuk  10  
 
-####Beroep bij de administratieve rechter
-
-### Artikel  10.1  
-
-####Beroep bij Afdeling bestuursrechtspraak van de Raad van State
-
-1.  Tegen een besluit van Onze Minister jegens een bepaalde instelling op grond van de in het tweede lid genoemde artikelen kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
-2.  Het eerste lid heeft betrekking op de artikelen: 
-
-a. 1.4.1,  
-
-b. 1.4a.1,  
-
-c. 1.6.1,  
-
-d. 2.1.1, eerste lid,  
-
-e. 2.1.3, tweede en derde lid,  
-
-f. 2.1.5, eerste lid,  
-
-g. 2.1.6,  
-
-h. 2.1.7,  
-
-i. 2.2.3, eerste en derde lid,  
-
-j. 2.5.9,  
-
-k. 2.5.10, voor zover het de overeenkomstige toepassing betreft van artikel 2.5.9,  
-
-l. 6.1.3 tot en met 6.1.6,  
-
-m. 6.2.1 tot en met 6.2.3,  
-
-n. 6.2.3b,  
-
-o. 6.3.1 tot en met 6.3.3,  
-
-p. 6.4.2 en 6.4.4,  
-
-q. 6a.1.2 en 6a.1.3, en  
-
-r. 11.1.     
+####Beroep bij de bestuursrechter
 
 ### Artikel  10.2  
 
 ####Intreden gevolgen van toekennen van rechten na sprongberoep
 
-Indien de uitspraak op een beroep als bedoeld in artikel 10.1 strekt tot onderscheidenlijk het toekennen van de rechten, genoemd in artikel 1.3.1, diploma-erkenning als bedoeld in de artikelen 1.4.1 of  1.4a.1, examinering als bedoeld in artikel 1.6.1, of registratie in het Centraal register, treden de gevolgen daarvan in met ingang van het studiejaar dat aanvangt in het jaar waarin de uitspraak is gedaan.  
+Indien de uitspraak op een beroep als bedoeld in artikel 2 van de bij de Algemene wet bestuursrecht behorende [Bevoegdheidsregeling bestuursrechtspraak](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) strekt tot onderscheidenlijk het toekennen van de rechten, genoemd in artikel 1.3.1, diploma-erkenning als bedoeld in de artikelen 1.4.1 of  1.4a.1, examinering als bedoeld in artikel 1.6.1, of registratie in het Centraal register, treden de gevolgen daarvan in met ingang van het studiejaar dat aanvangt in het jaar waarin de uitspraak is gedaan.  
 
 ### Hoofdstuk  11  
 
@@ -2783,7 +2772,7 @@ c. de duur van het experiment, en
 
 d. op welke wijze en aan de hand van welke criteria de met het experiment beoogde effecten worden geëvalueerd.   De voordracht voor die algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.   
 3.  Bij ministeriële regeling kunnen regels worden gesteld over de uitvoering van een experiment.   
-4.  Een experiment duurt ten hoogste zes jaar. Indien, voordat een experiment is afgelopen, een voorstel van wet is ingediend bij de Staten-Generaal om het experiment om te zetten in een structurele wettelijke regeling, kan Onze Minister het experiment verlengen tot het tijdstip waarop het wetsvoorstel tot wet is verheven en in werking treedt.   
+4.  Een experiment duurt ten hoogste zes jaar, tenzij een langere duur gezien de bijzondere aard van het experiment noodzakelijk is. Alsdan wordt de duur van het experiment op ten hoogste acht jaar bepaald. Indien, voordat een experiment is afgelopen, een voorstel van wet is ingediend bij de Staten-Generaal om het experiment om te zetten in een structurele wettelijke regeling, kan Onze Minister het experiment verlengen tot het tijdstip waarop het wetsvoorstel tot wet is verheven en in werking treedt.   
 5.  Onze Minister zendt drie maanden voor het einde van de werkingsduur van een algemene maatregel van bestuur als bedoeld in het eerste lid aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van het experiment in de praktijk, evenals een standpunt over de voortzetting van die algemene maatregel van bestuur, anders dan een voortzetting als experiment.   
 6.  Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, kan bij wijze van experiment tevens worden afgeweken van: 
 
@@ -2802,7 +2791,14 @@ d. [artikel 1.1 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../
 
 ### Titel  1  
 
-####Intrekking regelingen
+#### *Overgangsbepalingen experiment leergang vm2* 
+
+### Artikel  12.1.1  
+
+#### *Duur van experiment leergang vm2* 
+
+1.  Het experiment leergang vm2, dat is onderverdeeld in zes leergangen van vier jaar die per opvolgend leerjaar zijn of worden gestart, wordt voor de toepassing van artikel 11a.1, vierde lid, geacht te zijn gestart op 1 augustus 2008.   
+2.  Artikel 11a.1, vierde lid, wordt ten aanzien van de duur van het experiment leergang vm2 zodanig toegepast dat een leerling die deelneemt aan een leergang die binnen de termijn van zes jaar is gestart, de leergang van vier jaar kan doorlopen.   
 
 ### Titel  1a  
 
@@ -2829,7 +2825,7 @@ Diploma’s en certificaten ingevolge de [Wet op het voortgezet onderwijs](../..
 
 ####Handhaving inrichtings- en examenvoorschriften v.a.v.o.
 
-De op 31 december 1995 geldende voorschriften met betrekking tot het voortgezet algemeen volwassenenonderwijs die berusten op de [artikelen 23b, tweede lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [29, vijfde lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), berusten ten aanzien van de opleidingen voortgezet algemeen volwassenenonderwijs, bedoeld in artikel 7.3.4, met ingang van 1 januari 1996 op artikel 7.3.4, tweede lid, onderscheidenlijk artikel 7.4.11, derde en zesde lid.  
+De op 31 december 1995 geldende voorschriften met betrekking tot het voortgezet algemeen volwassenenonderwijs die berusten op de [artikelen 23b, tweede lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [29, vijfde lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), berusten ten aanzien van de opleidingen voortgezet algemeen volwassenenonderwijs, bedoeld in artikel 7.3.4, met ingang van 1 januari 1996 op artikel 7.3.4, tweede lid, onderscheidenlijk artikel 7.4.11, derde en zevende lid.  
 
 ### Artikel  12.2.6  
 

@@ -63,11 +63,6 @@ Indien een publieke entiteit verzuimt te voldoen aan een voor haar geldende rech
 
 Indien de in de aanwijzing vermelde termijn verstrijkt zonder dat de aanwijzing is opgevolgd, kan Onze Minister die de aanwijzing heeft gegeven er, namens en op kosten van de publieke entiteit, zowel door het verrichten van publiekrechtelijke of privaatrechtelijke rechtshandelingen als door het verrichten van feitelijke handelingen in voorzien dat alsnog wordt voldaan aan de rechtsplicht in verband waarmee de aanwijzing, bedoeld in artikel 2, is gegeven of dat alsnog het verzuim, bedoeld in artikel 3, wordt hersteld of voorkomen.  
 
-### Artikel  6  
-
-1.  Tegen een aanwijzing of een besluit op grond van artikel 5 kan beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. [Artikel 7:1 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
-2.  In afwijking van [artikel 6:2 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan geen beroep worden ingesteld tegen de weigering om een aanwijzing te geven of een besluit op grond van artikel 5 te nemen.   
-
 ### Artikel  7  
 
 1.  Als Nederland door een instelling van de Europese Unie, de Europese Investeringsbank of een andere lidstaat van de Europese Unie aansprakelijk wordt gesteld voor het niet nakomen van bij of krachtens de Europese verdragen opgelegde verplichtingen en als dit leidt tot een vordering op de staat in de vorm van een verplichting tot een of meer van de navolgende betalingen, kan Onze Minister besluiten deze bedragen te verhalen op een publieke entiteit, voor zover de aansprakelijkheid van Nederland het gevolg is van een verzuim van de betreffende publieke entiteit: 

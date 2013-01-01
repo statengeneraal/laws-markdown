@@ -12,27 +12,27 @@ In deze regeling wordt verstaan onder:
 
 *wet:*[Spoorwegwet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md);  
 
-*deel A:* de constatering, bedoeld in [artikel 16, vierde lid, onder a, van het Besluit bedrijfsvergunning en veiligheidsattest hoofdspoorwegen](../../../../../../AMvB/besluit/bedrijfsvergunning/en/veiligheidsattest/hoofdspoorwegen/BWBR0017623/README.md);  
+*deel A:* de constatering, bedoeld in [artikel 16, vierde lid, onder a, van het Besluit bedrijfsvergunning en veiligheidscertificaat hoofdspoorwegen](../../../../../../AMvB/besluit/bedrijfsvergunning/en/veiligheidsattest/hoofdspoorwegen/BWBR0017623/README.md);  
 
-*deel B:* de constatering, bedoeld in [artikel 16, vierde lid, onder b, van het Besluit bedrijfsvergunning en veiligheidsattest hoofdspoorwegen](../../../../../../AMvB/besluit/bedrijfsvergunning/en/veiligheidsattest/hoofdspoorwegen/BWBR0017623/README.md).    
+*deel B:* de constatering, bedoeld in [artikel 16, vierde lid, onder b, van het Besluit bedrijfsvergunning en veiligheidscertificaat hoofdspoorwegen](../../../../../../AMvB/besluit/bedrijfsvergunning/en/veiligheidsattest/hoofdspoorwegen/BWBR0017623/README.md).    
 
 ### Artikel  2  
 
-1.  Voor de behandeling van een aanvraag tot het verlenen van een vergunning als bedoeld in [artikel 8, eerste lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 106,– per uur.   
-2.  Voor de behandeling van een aanvraag om het geheel of gedeeltelijk buiten toepassing laten van een of meer technische specificaties inzake interoperabiliteit als bedoeld in [artikel 8, derde lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 5.300,–.   
-3.  Voor de behandeling van een aanvraag tot het verlenen van een ontheffing als bedoeld in [artikel 8, zesde lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 106,– per uur.   
+1.  Voor de behandeling van een aanvraag tot het verlenen van een vergunning als bedoeld in [artikel 8, eerste lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 108,– per uur.   
+2.  Voor de behandeling van een aanvraag om het geheel of gedeeltelijk buiten toepassing laten van een of meer technische specificaties inzake interoperabiliteit als bedoeld in [artikel 8, derde lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 5.419,–.   
+3.  Voor de behandeling van een aanvraag tot het verlenen van een ontheffing als bedoeld in [artikel 8, zesde lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 108,– per uur.   
 4.  De kosten, bedoeld in het eerste en derde lid, worden voorafgaand aan het in behandeling nemen van de aanvraag begroot en aan de aanvrager medegedeeld.   
 
 ### Artikel  3  
 
-1.  Voor de behandeling van een aanvraag tot het verlenen van een vergunning als bedoeld in [artikel 9, eerste, lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 106,– per uur.   
-2.  Voor de behandeling van een aanvraag tot beoordeling van een informatiedossier als bedoeld in [artikel 9, derde lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 5.300,–.   
-3.  Voor de behandeling van een aanvraag om het geheel of gedeeltelijk buiten toepassing laten van een of meer technische specificaties inzake interoperabiliteit als bedoeld in [artikel 9, vijfde lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 5.300,–.   
+1.  Voor de behandeling van een aanvraag tot het verlenen van een vergunning als bedoeld in [artikel 9, eerste, lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 108,– per uur.   
+2.  Voor de behandeling van een aanvraag tot beoordeling van een informatiedossier als bedoeld in [artikel 9, derde lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 5.419,–.   
+3.  Voor de behandeling van een aanvraag om het geheel of gedeeltelijk buiten toepassing laten van een of meer technische specificaties inzake interoperabiliteit als bedoeld in [artikel 9, vijfde lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 5.419,–.   
 4.  De kosten, bedoeld in het eerste lid, worden voorafgaand aan het in behandeling nemen van de aanvraag begroot en aan de aanvrager medegedeeld.   
 
 ### Artikel  4  
 
-1.  Voor de behandeling van een aanvraag tot het verlenen van een vergunning als bedoeld in [artikel 16a, tweede lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 106,– per uur.   
+1.  Voor de behandeling van een aanvraag tot het verlenen van een vergunning als bedoeld in [artikel 16a, tweede lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 108,– per uur.   
 2.  De kosten, bedoeld in het eerste lid, worden voorafgaand aan het in behandeling nemen van de aanvraag begroot en aan de aanvrager medegedeeld.   
 
 ### Artikel  5  
@@ -41,72 +41,72 @@ Voor de behandeling van een aanvraag tot het verlenen van een vergunning als bed
 
 | Vergunning  |
 |:---|
-| bedrijfsvergunning als bedoeld in [artikel 28, eerste lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md);  | € 8.701,–  |
-| beperkte bedrijfsvergunning als bedoeld in [artikel 28, tweede lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) en [artikel 8, eerste lid, van het Besluit bedrijfsvergunning en veiligheidsattest](../../../../../../AMvB/besluit/bedrijfsvergunning/en/veiligheidsattest/hoofdspoorwegen/BWBR0017623/README.md);  | € 1.242,–  |
-| beperkte bedrijfsvergunning als bedoeld in [artikel 28, tweede lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) en [artikel 8, tweede lid, van het Besluit bedrijfsvergunning en veiligheidsattest](../../../../../../AMvB/besluit/bedrijfsvergunning/en/veiligheidsattest/hoofdspoorwegen/BWBR0017623/README.md).  | € 4.050,–  |
+| bedrijfsvergunning als bedoeld in [artikel 28, eerste lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md);  | € 8.896,–  |
+| beperkte bedrijfsvergunning als bedoeld in artikel 28, tweede lid, van de wet en [artikel 8, eerste lid, van het Besluit bedrijfsvergunning en veiligheidsattest](../../../../../../AMvB/besluit/bedrijfsvergunning/en/veiligheidsattest/hoofdspoorwegen/BWBR0017623/README.md);  | € 1.270,–  |
+| beperkte bedrijfsvergunning als bedoeld in artikel 28, tweede lid, van de wet en artikel 8, tweede lid, van het Besluit bedrijfsvergunning en veiligheidsattest.  | € 4.141,–  |
 
 ### Artikel  6  
 
-1.  Voor de behandeling van een aanvraag tot het verlenen van een veiligheidsattest als bedoeld in [artikel 32 van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd als opgenomen in onderstaande tabel:  
+1.  Voor de behandeling van een aanvraag tot het verlenen van een veiligheidscertificaat als bedoeld in [artikel 32 van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd als opgenomen in onderstaande tabel:  
 
 | Veiligheidsattest  | Deel A  | Deel B  |
 |:---|:---|:---|
-| veiligheidsattest voor een spoorwegonderneming die minder dan 300 personeelsleden een veiligheidsfunctie laat uitoefenen;  | € 11.933,–  | € 7.954,–  |
-| veiligheidsattest voor een spoorwegonderneming die 300 personeelsleden of meer een veiligheidsfunctie laat uitoefenen;  | € 25.359,–  | € 16.906,–  |
-| veiligheidsattest voor een spoorwegonderneming die gebruik maakt van de hoofdspoorweg op één locatie ten behoeve van overgave van spoorvoertuigen of met zelfrijdend gereedschap of een daarmee vergelijkbaar voertuig om werkzaamheden aan of nabij de hoofdspoorweg uit te voeren op een deel van een hoofdspoorweg dat daartoe buiten dienst is gesteld.  | € 4.555,–  | -  |
+| veiligheidsattest voor een spoorwegonderneming die minder dan 300 personeelsleden een veiligheidsfunctie laat uitoefenen;  | € 12.202,–  | € 8.133,–  |
+| veiligheidsattest voor een spoorwegonderneming die 300 personeelsleden of meer een veiligheidsfunctie laat uitoefenen;  | € 25.930,–  | € 17.287,–  |
+| veiligheidsattest voor een spoorwegonderneming die gebruik maakt van de hoofdspoorweg op één locatie ten behoeve van overgave van spoorvoertuigen of met zelfrijdend gereedschap of een daarmee vergelijkbaar voertuig om werkzaamheden aan of nabij de hoofdspoorweg uit te voeren op een deel van een hoofdspoorweg dat daartoe buiten dienst is gesteld.  | € 4.658,–  | –  |
 
-2.  Voor de behandeling van een aanvraag tot het opnieuw verlenen van een veiligheidsattest als bedoeld in [artikel 32 van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd als opgenomen in onderstaande tabel:  
+2.  Voor de behandeling van een aanvraag tot het opnieuw verlenen van een veiligheidscertificaat als bedoeld in [artikel 32 van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd als opgenomen in onderstaande tabel:  
 
 | Hernieuwd veiligheidsattest  | Deel A  | Deel B  |
 |:---|:---|:---|
-| hernieuwd veiligheidsattest voor een spoorwegonderneming die minder dan 300 personeelsleden een veiligheidsfunctie laat uitoefenen;  | € 9.353,–  | € 5.967,–  |
-| hernieuwd veiligheidsattest voor een spoorwegonderneming die 300 personeelsleden of meer een veiligheidsfunctie laat uitoefenen;  | € 12.798,–  | € 7.060,–  |
-| hernieuwd veiligheidsattest voor een spoorwegonderneming die gebruik maakt van de hoofdspoorweg op één locatie ten behoeve van overgave van spoorvoertuigen of met zelfrijdend gereedschap of een daarmee vergelijkbaar voertuig om werkzaamheden aan of nabij de hoofdspoorweg uit te voeren op een deel van een hoofdspoorweg dat daartoe buiten dienst is gesteld.  | € 4.555,–  | -  |
+| hernieuwd veiligheidsattest voor een spoorwegonderneming die minder dan 300 personeelsleden een veiligheidsfunctie laat uitoefenen;  | € 9.564,–  | € 6.101,–  |
+| hernieuwd veiligheidsattest voor een spoorwegonderneming die 300 personeelsleden of meer een veiligheidsfunctie laat uitoefenen;  | € 13.086,–  | € 7.219,–  |
+| hernieuwd veiligheidsattest voor een spoorwegonderneming die gebruik maakt van de hoofdspoorweg op één locatie ten behoeve van overgave van spoorvoertuigen of met zelfrijdend gereedschap of een daarmee vergelijkbaar voertuig om werkzaamheden aan of nabij de hoofdspoorweg uit te voeren op een deel van een hoofdspoorweg dat daartoe buiten dienst is gesteld.  | € 4.658,–  | –  |
 
 ### Artikel  7  
 
-Voor de behandeling van een aanvraag tot wijziging van een veiligheidsattest als bedoeld in [artikel 33, zesde lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd als opgenomen in onderstaande tabel:  
+Voor de behandeling van een aanvraag tot wijziging van een veiligheidscertificaat als bedoeld in [artikel 33, vierde lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd als opgenomen in onderstaande tabel:  
 
 | Wijziging veiligheidsattest  | Deel A  | Deel B  |
 |:---|:---|:---|
-| wijziging van een veiligheidsattest voor een spoorwegonderneming die minder dan 300 personeelsleden een veiligheidsfunctie laat uitoefenen;  | € 5.967,–  | € 3.978,–  |
-| Wijziging van een veiligheidsattest voor een spoorwegonderneming die 300 personeelsleden of meer een veiligheidsfunctie laat uitoefenen;  | € 8.950,–  | € 5.967,–  |
-| wijziging van een veiligheidsattest voor een spoorwegonderneming die gebruik maakt van de hoofdspoorweg op één locatie ten behoeve van overgave van spoorvoertuigen of met zelfrijdend gereedschap of een daarmee vergelijkbaar voertuig om werkzaamheden aan of nabij de hoofdspoorweg uit te voeren op een deel van een hoofdspoorweg dat daartoe buiten dienst is gesteld.  | € 1.518,–  | -  |
+| wijziging van een veiligheidsattest voor een spoorwegonderneming die minder dan 300 personeelsleden een veiligheidsfunctie laat uitoefenen;  | € 6.101,–  | € 4.067,–  |
+| Wijziging van een veiligheidsattest voor een spoorwegonderneming die 300 personeelsleden of meer een veiligheidsfunctie laat uitoefenen;  | € 9.151,–  | € 6.101,–  |
+| wijziging van een veiligheidsattest voor een spoorwegonderneming die gebruik maakt van de hoofdspoorweg op één locatie ten behoeve van overgave van spoorvoertuigen of met zelfrijdend gereedschap of een daarmee vergelijkbaar voertuig om werkzaamheden aan of nabij de hoofdspoorweg uit te voeren op een deel van een hoofdspoorweg dat daartoe buiten dienst is gesteld.  | € 1.552,–  | --- |
 
 ### Artikel  8  
 
-1.  Voor de behandeling van een aanvraag tot het verlenen van een vergunning voor indienststelling van een spoorvoertuig als bedoeld in [artikel 36, derde lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) of een aanvullende vergunning voor indienststelling van een spoorvoertuig als bedoelde in artikel 36, vijfde lid, van de wet is een tarief verschuldigd van € 5.192,–.   
-2.  Voor de behandeling van een aanvraag om het buiten toepassing laten van een voor een subsysteem geldende technische specificatie inzake interoperabiliteit als bedoeld in [artikel 36, vierde lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 5.300,–.   
-3.  Voor de behandeling van een aanvraag om ontheffing als bedoeld in [artikel 36, negende lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 2.356,–.   
-4.  Voor de behandeling van een aanvraag om ontheffing als bedoeld in [artikel 36, tiende lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 2.356,–.   
+1.  Voor de behandeling van een aanvraag tot het verlenen van een vergunning voor indienststelling van een spoorvoertuig als bedoeld in [artikel 36, derde lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) of een aanvullende vergunning voor indienststelling van een spoorvoertuig als bedoelde in artikel 36, vijfde lid, van de wet is een tarief verschuldigd van € 5.309,–.   
+2.  Voor de behandeling van een aanvraag om het buiten toepassing laten van een voor een subsysteem geldende technische specificatie inzake interoperabiliteit als bedoeld in [artikel 36, vierde lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 5.419,–.   
+3.  Voor de behandeling van een aanvraag om ontheffing als bedoeld in [artikel 36, negende lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 2.409,–.   
+4.  Voor de behandeling van een aanvraag om ontheffing als bedoeld in [artikel 36, tiende lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 2.409,–.   
 
 ### Artikel  9  
 
-1.  Voor het inschrijven van spoorvoertuigen in het register, bedoeld in [artikel 37, derde lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 60,– per voertuig.   
+1.  Voor het inschrijven van spoorvoertuigen in het register, bedoeld in [artikel 37, derde lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 61,– per voertuig.   
 2.  Voor het wijzigen van gegevens, bedoeld in [artikel 37, vijfde lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md), of het schrappen van inschrijvingen, bedoeld in artikel 37, zevende lid, van de wet is per wijziging een tarief verschuldigd van € 20,–   
 
 ### Artikel  10  
 
-Voor de behandeling van een aanvraag voor het verlenen van een vergunning voor indienststelling of een aanvullende vergunning voor indienststelling van een type spoorvoertuigen als bedoeld in [artikel 37a, eerste lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 5.192,–.  
+Voor de behandeling van een aanvraag voor het verlenen van een vergunning voor indienststelling of een aanvullende vergunning voor indienststelling van een type spoorvoertuigen als bedoeld in [artikel 37a, eerste lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 5.309,–.  
 
 ### Artikel  11  
 
-1.  Voor de behandeling van een aanvraag tot beoordeling van een informatiedossier als bedoeld in [artikel 37b, tweede lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 1.000,–.   
-2.  Voor de behandeling van een aanvraag om een of meer voor het betrokken subsysteem vastgestelde technische specificaties inzake interoperabiliteit buiten toepassing te laten als bedoeld in [artikel 37b, vijfde lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 5.300,–.   
+1.  Voor de behandeling van een aanvraag tot beoordeling van een informatiedossier als bedoeld in [artikel 37b, tweede lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 1.023,–.   
+2.  Voor de behandeling van een aanvraag om een of meer voor het betrokken subsysteem vastgestelde technische specificaties inzake interoperabiliteit buiten toepassing te laten als bedoeld in [artikel 37b, vijfde lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 5.419,–.   
 
 ### Artikel  12  
 
-Voor de behandeling van een aanvraag voor het verlenen van een onderhoudscertificaat als bedoeld in [artikel 46, vijfde lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 6.360,–.  
+Voor de behandeling van een aanvraag voor het verlenen van een onderhoudscertificaat als bedoeld in [artikel 46, vijfde lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 6.503,–.  
 
 ### Artikel  13  
 
-1.  Voor de behandeling van een aanvraag tot het verlenen van een erkenning in verband met onderhoud en herstel van spoorvoertuigen als bedoeld in [artikel 48, eerste lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is per locatie een tarief van € 6.713,– verschuldigd.   
-2.  Voor de behandeling van een aanvraag tot het wijzigen van een erkenning als bedoeld in het eerste lid, is per locatie een tarief van € 1.945,– verschuldigd.   
+1.  Voor de behandeling van een aanvraag tot het verlenen van een erkenning in verband met onderhoud en herstel van spoorvoertuigen als bedoeld in [artikel 48, eerste lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is per locatie een tarief van € 6.864,– verschuldigd.   
+2.  Voor de behandeling van een aanvraag tot het wijzigen van een erkenning als bedoeld in het eerste lid, is per locatie een tarief van € 1.989,– verschuldigd.   
 
 ### Artikel  14  
 
-1.  Voor de behandeling van een aanvraag voor het verlenen van een erkenning van een keuringsinstituut als bedoeld in [artikel 50, eerste lid, onder a, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief van € 1.739,– verschuldigd en voor een erkenning van een vestiging waar keuringen worden uitgevoerd is een tarief van € 1.080,– verschuldigd.   
-2.  Voor de behandeling van een aanvraag voor een wijziging van een erkenning als bedoeld in het eerste lid is een tarief van € 1.080,– verschuldigd en de behandeling van een aanvraag voor een wijziging voor een erkenning van een vestiging waar keuringen worden uitgevoerd, is een tarief van € 1.080,– verschuldigd.   
+1.  Voor de behandeling van een aanvraag voor het verlenen van een erkenning van een keuringsinstituut als bedoeld in [artikel 50, eerste lid, onder a, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief van € 1.778,– verschuldigd en voor een erkenning van een vestiging waar keuringen worden uitgevoerd is een tarief van € 1.104,– verschuldigd.   
+2.  Voor de behandeling van een aanvraag voor een wijziging van een erkenning als bedoeld in het eerste lid is een tarief van € 1.104,– verschuldigd en de behandeling van een aanvraag voor een wijziging voor een erkenning van een vestiging waar keuringen worden uitgevoerd, is een tarief van € 1.104,– verschuldigd.   
 
 ### Artikel  15  
 
@@ -150,11 +150,19 @@ Voor de behandeling van een aanvraag voor het verlenen van een onderhoudscertifi
 | module veiligheidscommunicatie;  | € 400,–  |
 | overige losse modules;  | € 200,–  |
 | inzage van een examen.  | € 50,–  |
+| Examen Nederlandse taal en spoorse termen  | € 500,–  |
+
+5.  Voor de examinering en jaarlijkse herinstructie, verband houdende met de erkenning van een examinator als bedoeld in [artikel 7, vierde lid, van het Besluit spoorwegpersoneel 2011](../../../../../../AMvB/besluit/spoorwegpersoneel/2011/BWBR0030006/README.md), is een tarief verschuldigd als opgenomen in onderstaande tabel:  
+
+| --- | --- |
+|:---|:---|
+| Initieel examen voor:  – Praktijkexaminator machinist Reizigers of Goederen;  – Praktijkexaminator rangeerder;  – Praktijkexaminator wagencontroleur;  – Examinator veiligheidscommunicatie.  | € 1.000,–  |
+| Jaarlijkse herinstructie voor:  – Praktijkexaminator machinist Reizigers of Goederen;  – Praktijkexaminator rangeerder;  – Praktijkexaminator wagencontroleur;  – Examinator veiligheidscommunicatie.  | € 500,–  |
 
 ### Artikel  16  
 
-1.  Voor de behandeling van een aanvraag van een machinistenvergunning als bedoeld in [artikel 51a, eerste lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 100,–.   
-2.  Voor het verstrekken van een duplicaat van een machinistenvergunning als bedoeld in [artikel 51a, achtste lid, onder b, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 41,–.   
+1.  Voor de behandeling van een aanvraag van een machinistenvergunning als bedoeld in [artikel 51a, eerste lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 102,–.   
+2.  Voor het verstrekken van een duplicaat van een machinistenvergunning als bedoeld in [artikel 51a, achtste lid, onder b, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief verschuldigd van € 50,–.   
 
 ### Artikel  17  
 
@@ -162,30 +170,30 @@ Voor de behandeling van een aanvraag voor de verlening van een erkenning van een
 
 ### Artikel  18  
 
-1.  Voor de behandeling van een aanvraag voor een aanwijzing van een keuringsinstantie als bedoeld in [artikel 93, eerste lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief van € 3.891,– verschuldigd.   
-2.  Voor de behandeling van een aanvraag voor een wijziging van een aanwijzing als bedoeld in het eerste lid is een tarief van € 1.513,– verschuldigd.   
+1.  Voor de behandeling van een aanvraag voor een aanwijzing van een keuringsinstantie als bedoeld in [artikel 93, eerste lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is een tarief van € 3.987,– verschuldigd.   
+2.  Voor de behandeling van een aanvraag voor een wijziging van een aanwijzing als bedoeld in het eerste lid is een tarief van € 1.547,– verschuldigd.   
 
 ### Artikel  19  
 
-Voor de behandeling van de aanvraag van de goedkeuring van het systeem van personeelsbeheer als bedoeld in [artikel 17, van het Besluit spoorwegpersoneel 2011](../../../../../../AMvB/besluit/spoorwegpersoneel/2011/BWBR0030006/README.md) is een tarief van € 3.891,– verschuldigd.  
+Voor de behandeling van de aanvraag van de goedkeuring van het systeem van personeelsbeheer als bedoeld in [artikel 17, van het Besluit spoorwegpersoneel 2011](../../../../../../AMvB/besluit/spoorwegpersoneel/2011/BWBR0030006/README.md) is een tarief van € 3.978,– verschuldigd.  
 
 ### Artikel  20  
 
-In afwijking van de bedragen genoemd in de eerste en tweede rij van de tabel in artikel 5 en de bedragen genoemd in de artikelen 6, 7, 13, 14 en 18, is voor de behandeling van een aanvraag van de in die artikelen bedoelde beschikkingen een tarief van € 947,– verschuldigd, indien daarvoor een documentatiebeoordeling volstaat.  
+In afwijking van de bedragen genoemd in de eerste en tweede rij van de tabel in artikel 5 en de bedragen genoemd in de artikelen 6, 7, 13, 14 en 18, is voor de behandeling van een aanvraag van de in die artikelen bedoelde beschikkingen een tarief van € 968,– verschuldigd, indien daarvoor een documentatiebeoordeling volstaat.  
 
 ### Artikel  21  
 
-In afwijking van de genoemde bedragen in de artikelen 2 tot en met 20, met uitzondering van artikel 9 en 16, bedraagt het tarief voor de behandeling van een aanvraag die uitsluitend betrekking heeft op een administratieve aanpassing € 134,–.  
+In afwijking van de genoemde bedragen in de artikelen 2 tot en met 20, met uitzondering van artikel 9 en 16, bedraagt het tarief voor de behandeling van een aanvraag die uitsluitend betrekking heeft op een administratieve aanpassing € 137,–.  
 
 ### Artikel  22  
 
-Voor een aanvraag van een beschikking als bedoeld in deze regeling door een organisatie die met historische spoorvoertuigen voor niet commerciële doeleinden gebruik maakt van de hoofdspoorweg, is een vergoeding van 10% van het voor de betreffende beschikking bepaalde tarief verschuldigd, met een minimum van € 215,– met uitzondering van administratieve aanpassingen als bedoeld in artikel 21, waarvoor geen tarief verschuldigd is.  
+Voor een aanvraag van een beschikking als bedoeld in deze regeling door een organisatie die met historische spoorvoertuigen voor niet commerciële doeleinden gebruik maakt van de hoofdspoorweg, is een vergoeding van 10% van het voor de betreffende beschikking bepaalde tarief verschuldigd, met een minimum van € 220,– met uitzondering van administratieve aanpassingen als bedoeld in artikel 21, waarvoor geen tarief verschuldigd is.  
 
 ### Artikel  23  
 
 1.  De beslissing op een aanvraag om verlening van een beschikking als bedoeld in deze regeling wordt niet eerder genomen dan nadat het daarvoor verschuldigde tarief is voldaan.   
 2.  In afwijking van het eerste lid wordt de beslissing op een aanvraag om verlening van een beschikking waarvoor een uurtarief geheven wordt, niet eerder genomen dan nadat het verschuldigde tarief zoals dat ingevolge artikel 2, vierde lid, artikel 3, vierde lid of artikel 4, tweede lid, vooraf is begroot, is voldaan.   
-3.  Bij een beschikking waarvoor een uurtarief geheven wordt, kunnen via een naheffing de werkelijke kosten in rekening gebracht worden. De naheffing wordt berekend door het genoemde uurtarief te vermenigvuldigen met het aantal werkelijk bestede uren, minus het reeds betaalde tarief, bedoeld in het tweede lid. De aanvrager voldoet de naheffing binnen dertig kalenderdagen na de verzending van een betalingsverzoek daartoe.   
+3.  Bij een beschikking waarvoor een uurtarief geheven wordt, kunnen via een naheffing of een terugbetaling de werkelijke kosten in rekening gebracht worden. De naheffing en de terugbetaling wordt berekend door het genoemde uurtarief te vermenigvuldigen met het aantal werkelijk bestede uren, minus het reeds betaalde tarief, bedoeld in het tweede lid. De aanvrager voldoet de naheffing binnen dertig kalenderdagen na de verzending van een betalingsverzoek daartoe.   
 
 ### Artikel  24  
 

@@ -54,7 +54,6 @@ c. het gebied door gedeputeerde staten, in overeenstemming met de lokale en regi
 2.  Bij de voorbereiding van een besluit als bedoeld in artikel 2, eerste lid, plegen gedeputeerde staten in ieder geval overleg met de lokale en regionale organisaties op het terrein van natuur en landbouw die naar het oordeel van gedeputeerde staten representatief zijn alsmede met de colleges van burgemeester en wethouders van de gemeenten waartoe het gebied waarop het besluit betrekking heeft, behoort.   
 3.  Een besluit als bedoeld in artikel 2, eerste lid, gaat vergezeld van een of meer kaarten waarop de begrenzing van de zeer kwetsbare gebieden nauwkeurig wordt aangegeven.   
 4.  Tegen een besluit als bedoeld in artikel 2, eerste lid, staat beroep open bij de Afdeling bestuursrechtspraak van de Raad van State.   
-5.  Indien de begrenzing van de ecologische hoofdstructuur of van een beschermd gebied als bedoeld in [artikel 10, eerste lid](../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), of [artikel 10a, eerste lid, van de Natuurbeschermingswet 1998](../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) wordt gewijzigd, wijzigen provinciale staten het in artikel 2, eerste lid, bedoelde besluit, voorzover dat noodzakelijk is om te voldoen aan artikel 2. Op de wijziging van het besluit zijn het eerste tot en met vierde lid van overeenkomstige toepassing.   
 
 ### Artikel  3  
 

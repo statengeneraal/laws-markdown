@@ -627,10 +627,6 @@ c. de beheerder van het oppervlaktewater, indien het betreft schade ten gevolge 
 
 ####Beroep
 
-### Artikel  50  
-
-Beroep op de administratieve rechter staat open overeenkomstig [hoofdstuk 20 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
-
 ### Hoofdstuk  VIII  
 
 ####Ambtelijke bevoegdheden

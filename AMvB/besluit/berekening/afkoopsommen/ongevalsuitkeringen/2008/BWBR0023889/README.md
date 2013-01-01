@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 4 april 2008, nr. SV/WV/2008/8885;
 
-Gelet op de [artikelen 19](../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md) en [26 van de Liquidatiewet ongevallenwetten](../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md);
+Gelet op de artikelen 19 en 26 van de Liquidatiewet ongevallenwetten;
 
 De Raad van State gehoord (advies van 23 april 2008, nr. W12.08.0122/III);
 
@@ -22,21 +22,21 @@ Voor de toepassing van dit besluit wordt verstaan onder de ongevallenwetten: de 
 
 ### §  2  
 
-####Aanspraken krachtens [artikel 18 van de Liquidatiewet ongevallenwetten](../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md)
+####Aanspraken krachtens artikel 18 van de Liquidatiewet ongevallenwetten
 
 ### Artikel  2  
 
-Voor de berekening van de contante waarde, betrekking hebbend op gevallen als bedoeld in [artikel 18 van de Liquidatiewet ongevallenwetten](../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md), worden deze gevallen onderscheiden in: 
+Voor de berekening van de contante waarde, betrekking hebbend op gevallen als bedoeld in artikel 18 van de Liquidatiewet ongevallenwetten, worden deze gevallen onderscheiden in: 
 
-a. gevallen, waarin tussen de datum, waarop het ongeval plaatsvond en de eerste dag van de maand, waarin de betrokkene 65 jaar wordt, ten minste 2 jaar is verstreken;  
+a. gevallen, waarin tussen de datum, waarop het ongeval plaatsvond en de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, ten minste 2 jaar is verstreken;  
 
-b. gevallen, waarin tussen de datum, waarop het ongeval plaatsvond en de eerste dag van de maand, waarin de betrokkene 65 jaar wordt, minder dan 2 jaar is verstreken, doch die een zodanig blijvend karakter hebben, dat de mate van ongeschiktheid tot werken als definitief kan worden beschouwd;  
+b. gevallen, waarin tussen de datum, waarop het ongeval plaatsvond en de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, minder dan 2 jaar is verstreken, doch die een zodanig blijvend karakter hebben, dat de mate van ongeschiktheid tot werken als definitief kan worden beschouwd;  
 
 c. de overige gevallen.    
 
 ### Artikel  3  
 
-1.  De contante waarde in de gevallen, bedoeld in het voorgaande artikel, wordt vastgesteld per de eerste dag van de maand, waarin de betrokkene 65 jaar wordt.   
+1.  De contante waarde in de gevallen, bedoeld in het voorgaande artikel, wordt vastgesteld per de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet.   
 2.  De contante waarde in de gevallen, bedoeld onder a en b van het voorgaande artikel, omvat de op het in het eerste lid bedoelde tijdstip op contante basis berekende toekomstige uitkering, waarop de betrokkene aanspraak zou hebben gemaakt, indien de ongevallenwetten niet waren ingetrokken, met dien verstande, dat die uitkering niet in aanmerking wordt genomen, voor zover zij hoger zou zijn geweest dan de uitkering, waarop de betrokkene op eerderbedoeld tijdstip aanspraak zou hebben gehad.   
 3.  De contante waarde in de gevallen, bedoeld onder c van het voorgaande artikel, omvat de per een datum liggende 2 jaar na de datum van het ongeval op contante basis berekende toekomstige uitkering, waarop de betrokkene aanspraak zou hebben gehad, indien de ongevallenwetten niet waren ingetrokken – met dien verstande, dat die uitkering niet in aanmerking wordt genomen voor zover zij hoger zou zijn geweest dan de uitkering, waarop de betrokkene op de in het eerste lid bedoelde dag aanspraak zou hebben gehad – vermeerderd met de uitkeringen, welke tot aan eerstbedoelde datum op grond van artikel 5, eerste lid, aan de betrokkene zou zijn verstrekt.   
 4.  Indien de betrokkene vóór de in het voorgaande lid eerstbedoelde datum, per welke de toekomstige uitkering op contante basis wordt berekend, herstelt of overlijdt, omvat de contante waarde de uitkeringen, welke op grond van artikel 5, eerste lid, aan de betrokkene zijn verstrekt.   

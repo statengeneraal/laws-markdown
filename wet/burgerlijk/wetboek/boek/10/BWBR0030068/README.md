@@ -116,7 +116,7 @@ Een persoon die de nationaliteit van meer dan een staat bezit, kan de ambtenaar 
 
 ### Artikel  23  
 
-1.  Indien de ambtenaar van de burgerlijke stand bij het opstellen van een akte waarin de geslachtsnaam en de voornamen van een vreemdeling moeten worden opgenomen het Nederlandse recht toepast omdat hij de inhoud van het recht dat op de vaststelling van die namen toepasselijk is niet kan vaststellen, deelt hij zijn beslissing onverwijld mede aan de officier van justitie bij de arrondissementsrechtbank binnen welker rechtsgebied de akte in de registers van de burgerlijke stand is opgenomen.   
+1.  Indien de ambtenaar van de burgerlijke stand bij het opstellen van een akte waarin de geslachtsnaam en de voornamen van een vreemdeling moeten worden opgenomen het Nederlandse recht toepast omdat hij de inhoud van het recht dat op de vaststelling van die namen toepasselijk is niet kan vaststellen, deelt hij zijn beslissing onverwijld mede aan de officier van justitie in het arrondissement waarin de rechtbank is gelegen waar de akte in de registers van de burgerlijke stand is opgenomen.   
 2.  De aldus opgemaakte akte kan met overeenkomstige toepassing van [artikel 24 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) op verzoek van iedere belanghebbende of op vordering van het openbaar ministerie worden verbeterd. Het verzoek van een belanghebbende wordt met toepassing van de Wet op de rechtsbijstand van rechtswege kosteloos behandeld.   
 
 ### Artikel  24  

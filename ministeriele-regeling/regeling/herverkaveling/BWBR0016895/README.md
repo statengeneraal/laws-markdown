@@ -4495,3 +4495,58 @@ f. de waarde van gebouwen, werken, beplantingen en houtopstanden met een door de
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,7.  
 
 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
+
+### Bijlage  2ttt  
+
+####, behorende bij artikel 25  van de Regeling herverkaveling
+
+###Nadere regels per blok betreffende de tweede schatting voor de herinrichting Noordwest Overijssel, deelgebied Rond de Weerribben
+
+### A  
+
+####(Objectieve en subjectieve factoren)
+
+De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: 
+
+a. de afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 4 klassen van respectievelijk, 0, 5, 10 en 15 punten per hectare;  
+
+b. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
+
+c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelwerken.    
+
+### B  
+
+####(Verandering van de agrarische waarde)
+
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 14.500,– tot en met € 28.000,– per hectare, met intervallen van € 1.500,– (cultuurgrond ‘binnendijks’) of in klassen van € 24.000,– tot en met € 34.000,– per hectare, met intervallen van € 2.000,– (cultuurgrond ‘buitendijks, grenzend aan de Noordoostpolder’).  
+
+### C  
+
+####(Waardeveranderingen als bedoeld in [artikel 49 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
+
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 14.500,– tot en met € 28.000,– per hectare, met intervallen van € 1.500,– (cultuurgrond ‘binnendijks’) of in klassen van € 24.000,– tot en met € 34.000,– perhectare, met intervallen van € 2.000,– (cultuurgrond ‘buitendijks, grenzend aan de Noordoostpolder’).  
+
+### D  
+
+####(Verrekenposten)
+
+De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
+
+a. erfdienstbaarheden over een erf in 3 klassen van € 4.000,– tot en met € 12.000,– per geval met een interval van € 4.000,–;  
+
+b. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
+
+c. de aanwezigheid van puin of afval in of op cultuurgronden in 3 klassen van € 0,50, € 1,00 en € 1,50 per vierkante meter;  
+
+d. de aanwezigheid van andere dan agrarische waarden met een door een deskundige vast te stellen bedrag;  
+
+e. de waarde van gebouwen, werken, beplantingen en houtopstanden met een door deskundigen vast te stellen bedrag.    
+
+### E  
+
+####(Overig)
+
+1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,51.  
+
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+

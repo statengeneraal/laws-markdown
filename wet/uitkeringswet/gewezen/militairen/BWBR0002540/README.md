@@ -144,8 +144,7 @@ Beslissingen ter uitvoering van deze wet worden genomen door Onze Minister.
 ### Artikel  11  
 
 1.  In afwijking van de [artikelen 7:10, eerste lid](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [7:24, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de beslistermijn voor een bezwaarschrift, zomede voor een beroepschrift, dertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaar- of beroepschrift is verstreken.   
-2.  In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroep de rechtbank te 's-Gravenhage bevoegd.   
-3.  Voor een herzienings- of herstelbeslissing zijn de bij of krachtens de [Kaderwet militaire pensioenen](../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) bij algemene maatregel van bestuur vast te stellen bepalingen voor een herzienings- of herstelbeslissing door Onze Minister van overeenkomstige toepassing.   
+2.  Voor een herzienings- of herstelbeslissing zijn de bij of krachtens de [Kaderwet militaire pensioenen](../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) bij algemene maatregel van bestuur vast te stellen bepalingen voor een herzienings- of herstelbeslissing door Onze Minister van overeenkomstige toepassing.   
 
 ### Artikel  13  
 

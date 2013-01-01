@@ -10,12 +10,16 @@ Besluit:
 
 De ambtenaren van de afdelingen regulier en extra beveiligd vervoer van de Unit Vervoer van de Dienst Vervoer en Ondersteuning van het Ministerie van Justitie worden aangewezen voor het vervoer van rechtens van hun vrijheid beroofde personen.  
 
+### Artikel  1a  
+
+Dit besluit berust op [artikel 9, zesde lid, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
+
 ### Artikel  2  
 
 Dit besluit treedt in werking met ingang van de dag waarop de [Penitentiaire beginselenwet](../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) in werking treedt.  
 
 Den Haag 
-28-09-1998    
+28 september 1998    
 
 De 
 Minister van Justitie, 
@@ -34,9 +38,9 @@ A.M. van der Meer.
 *Wettelijke grondslag van het gebruik van geweld en de veiligheidsfouillering*  
 
 | --- | --- | --- |
-|---|---|---|
-| Penitentiaire Beginselenwet  | Artikel 9, lid 6, Politiewet 1993  | Besluit boa's DV&O  |
+|:---|:---|:---|
+| Penitentiaire Beginselenwet  | Artikel 9, lid 6, Politiewet 2012  | Besluit boa's DV&O  |
 | (binnen de inrichting  | (buiten de inrichting)  | (buiten de inrichting)  |
-| Boa's DV&O  | artikel 35, lid 4  | artikel 8, lid 1 en 3, Politiewet 1993  |
-| Unit vervoer  | artikel 35, lid 4  | artikel 8, lid 1 en 3, Politiewet 1993  |
+| Boa's DV&O  | artikel 35, lid 4  | artikel 7, leden 1 en 3, Politiewet 2012  |
+| Unit vervoer  | artikel 35, lid 4  | artikel 7, leden 1 en 3, Politiewet 2012  |
 

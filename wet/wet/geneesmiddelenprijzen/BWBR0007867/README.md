@@ -59,11 +59,6 @@ Het is verboden een geneesmiddel tegen een hogere prijs dan de maximumprijs te k
 
 Onze Minister kan een bestuurlijke boete opleggen van ten hoogste € 45 000 ter zake van overtreding van artikel 4 of 5.  
 
-### Artikel  17  
-
-1.  In afwijking van artikel 8: 2 van de [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is beroep mogelijk tegen een besluit tot vaststelling van een maximumprijs.   
-2.  In afwijking van artikel 8: 7 van de [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroep tegen besluiten op grond van deze wet de rechtbank te 's-Gravenhage bevoegd.   
-
 ### Artikel  18  
 
 Onze Minister zendt binnen achttien maanden nadat voor het eerst een regeling als bedoeld in artikel 2, eerste lid, is vastgesteld, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  

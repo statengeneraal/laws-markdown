@@ -17,23 +17,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. wet: [Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+– *Verordening (EG) nr. 1099/2009:* Verordening (EG) nr. 1099/2009 van de Raad van 24 september 2009 inzake de bescherming van dieren bij het doden (PbEU 2009, L 303);  
 
-b. slachthuis: inrichting of installatie, met inbegrip van voorzieningen voor het verplaatsen of onderbrengen van dieren, die wordt gebruikt voor het commercieel slachten van eenhoevigen, herkauwers, konijnen of pluimvee;  
+– *wet:*[Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md).    
 
-c. verplaatsen: het uitladen van dieren of drijven van dieren van de bij het slachthuis behorende losplaatsen, stallen of hokken naar de lokalen of plaatsen waar zij zullen worden geslacht;  
+### Artikel  1a  
 
-d. onderbrengen: het houden en in voorkomend geval op passende wijze verzorgen door het verschaffen van water, voeder en rust, van dieren in door een slachthuis gebruikte stallen, hokken, overdekte plaatsen of weiden, voordat de dieren worden geslacht;  
-
-e. fixeren: het toepassen op een dier van een methode die erop is gericht de bewegingen van het dier te beperken ten einde het doeltreffend bedwelmen of doden te vergemakkelijken;  
-
-f. bedwelmen: toepassen op een dier van een methode die het dier onmiddellijk brengt in een staat van bewusteloosheid die aanhoudt totdat de dood intreedt;  
-
-g. doden: het toepassen op een dier van een methode die resulteert in de dood van het dier;  
-
-h. slachten: het doden van een dier door het te laten verbloeden;  
-
-i. richtlijn 93/119/EG: richtlijn nr. 93/119/EG van de Raad van de Europese Unie van 22 december 1993 inzake de bescherming van dieren bij het slachten of doden (*PbEG* L 340).    
+Dit besluit berust mede op de [artikelen 44, eerste en tweede lid, van de Gezondheids-en welzijnswet](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) voor dieren.  
 
 ### Artikel  2  
 
@@ -41,56 +31,44 @@ Dit besluit is van toepassing op dieren die zonder voorafgaande bedwelming worde
 
 ### Artikel  3  
 
-Bij het verplaatsen, onderbrengen, fixeren, slachten of doden wordt de dieren elke vermijdbare opwinding of pijn, elk vermijdbaar lijden of vermijdbare verwondingen of kneuzingen bespaard.  
+Het is verboden te handelen in strijd met bij ministeriële regeling aan te wijzen artikelen van Verordening (EG) nr. 1099/2009.   
 
 ### Artikel  4  
 
-Het verplaatsen, onderbrengen, fixeren, slachten of doden van dieren wordt uitgevoerd door personen die de nodige kennis en vaardigheden bezitten om de taken humaan en doeltreffend uit te voeren.  
+1.  Bij ministeriële regeling worden regels gesteld voor een goede uitvoering van Verordening (EG) nr. 1099/2009.   
+2.  De regels, bedoeld in het eerste lid, kunnen betrekking hebben op: 
+
+a. het aanwijzen van een bevoegde autoriteit;  
+
+b. het verstrekken, schorsen en intrekken van getuigschriften van vakbekwaamheid;  
+
+c. het goedkeuren van opleidingsprogramma’s en de inhoud en uitvoeringsbepalingen van examens;  
+
+d. het uitvoeren van controles en inspectie die relevant zijn voor de bescherming van dieren bij het doden en met het doden verband houdende activiteiten;  
+
+e. gidsen voor goede praktijken.     
 
 ### Artikel  5  
 
-1.  Het onbedwelmd slachten van dieren geschiedt overeenkomstig de door de keuringsdierenarts of de keurmeester in het belang van de bescherming van het slachtdier gegeven aanwijzingen.   
+1.  Het onbedwelmd slachten van dieren geschiedt overeenkomstig de door de op grond van [artikel 114, eerste lid, van de wet](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) aangewezen toezichthouders in het belang van de bescherming van het dier gegeven aanwijzingen.   
 2.  De in het eerste lid bedoelde aanwijzingen kunnen betrekking hebben op: 
 
 – de gang van zaken rond het slachtproces, daaronder mede verstaan de wijze waarop en de volgorde waarin dieren worden aangeboden voor de slacht;  
 
 – het aantal personen dat betrokken dient te zijn bij het fixeren, slachten en verbloeden van het dier;  
 
-– het staken van het slachtproces indien onvoldoende is gegarandeerd dat daarbij wordt voldaan aan de eisen van dit besluit.     
+– het staken van het slachtproces indien onvoldoende is gegarandeerd dat daarbij wordt voldaan aan de eisen van Verordening (EG) nr. 1099/2009 en van dit besluit.     
 3.  Onverminderd het tweede lid mag, naast de bij de slachthandelingen betrokken personen en de personen die tijdens de slachthandelingen de israëlitische of islamitische ritus verrichten, ten hoogste één persoon bij het slachten aanwezig zijn.   
-
-### Artikel  6  
-
-1.  De bouw, de inrichting en de voorzieningen van slachthuizen en het gebruik daarvan zijn zodanig, dat de dieren elke vermijdbare opwinding of pijn of elk vermijdbaar lijden wordt bespaard.   
-2.  De instrumenten, de installaties en de verdere voorzieningen voor het fixeren of doden van dieren zijn zo ontworpen, vervaardigd en onderhouden, en worden zo gebruikt dat de dieren snel en doeltreffend worden gedood.   
-3.  In de slachtruimte zijn voor noodgevallen passende vervangende instrumenten, installaties en verdere voorzieningen aanwezig.   
-4.  De in het tweede en derde lid bedoelde instrumenten, installaties en voorzieningen, verkeren in een goede staat van onderhoud en worden met het oog daarop ten minste dagelijks voor het gebruik, onderscheidenlijk regelmatig geïnspecteerd.   
-
-### Artikel  7  
-
-Dieren die in een slachthuis worden binnengebracht om er te worden geslacht, worden verplaatst en zo nodig ondergebracht overeenkomstig bijlage A bij richtlijn 93/119/EG.  
 
 ### Artikel  8  
 
-1.  Dieren worden gefixeerd overeenkomstig bijlage B bij richtlijn 93/119/EG.   
-2.  Runderen worden gefixeerd door middel van een toestel dat is voorzien van een tijd-mechanisme dat gedurende 45 seconden na het bedienen daarvan, de opheffing van de fixatie onmogelijk maakt; dit mechanisme wordt onmiddellijk na het toebrengen van de halssnede in werking gesteld.   
-3.  Schapen en geiten worden gefixeerd met behulp van een burrie door tenminste twee personen, of met behulp van een fixatietoestel door tenminste één persoon; na het toebrengen van de halssnede blijven schapen en geiten gedurende tenminste dertig seconden gefixeerd in de positie die de dieren innamen op het moment van het toebrengen van de halssnede.   
+1.  Runderen worden gefixeerd door middel van een toestel dat is voorzien van een tijd-mechanisme dat gedurende 45 seconden na het bedienen daarvan, de opheffing van de fixatie onmogelijk maakt; dit mechanisme wordt onmiddellijk na het toebrengen van de halssnede in werking gesteld.   
+2.  Na het toebrengen van de halssnede blijven schapen en geiten gedurende tenminste dertig seconden gefixeerd in de positie die de dieren innamen op het moment van het toebrengen van de halssnede.   
 
 ### Artikel  9  
 
 1.  Het toebrengen van de halssnede gebeurt met een vlijmscherp mes door een persoon die niet tevens belast is met het fixeren van de dieren.   
-2.  Dieren worden bij het verbloeden behandeld overeenkomstig bijlage D bij richtlijn 93/119/EG.   
-3.  Bij schapen, geiten en pluimvee worden ten minste gedurende 30 seconden en bij runderen ten minste gedurende 45 seconden na het aanbrengen van de halssnede geen verdere slachthandelingen verricht.   
-
-### Artikel  10  
-
-1.  Een wijziging van één of meer onderdelen van richtlijn 93/119/EG treedt voor de toepassing van de artikelen van dit besluit, waarin naar die onderdelen wordt verwezen, in werking met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij besluit van Onze Minister, dat in de *Staatscourant* wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.   
-2.  Onze Minister doet van een wijzigingsrichtlijn als bedoeld in het eerste lid mededeling in de *Staatscourant*.   
-
-### Artikel  11  
-
-1.  In afwijking van artikel 8, tweede lid, is het gedurende een periode van een jaar na het inwerkingtreden van dit besluit toegestaan om runderen te fixeren door middel van een toestel dat niet is voorzien van een tijdmechanisme; in dat geval wordt de fixatie niet binnen 45 seconden na het aanbrengen van de halssnede opgeheven.   
-2.  In afwijking van artikel 8, derde lid, is het gedurende een periode van zes maanden na het inwerkingtreden van dit besluit toegestaan om schapen en geiten te fixeren zonder gebruik te maken van een burrie of fixatietoestel.   
+2.  Bij schapen, geiten en pluimvee worden ten minste gedurende 30 seconden en bij runderen ten minste gedurende 45 seconden na het aanbrengen van de halssnede geen verdere slachthandelingen verricht.   
 
 ### Artikel  12  
 

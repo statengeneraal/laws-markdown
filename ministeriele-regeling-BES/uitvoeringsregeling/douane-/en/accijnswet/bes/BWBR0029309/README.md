@@ -2,6 +2,11 @@
 
 ##Regeling tot vaststelling van de Uitvoeringsregeling Douane- en Accijnswet BES (Uitvoeringsregeling Douane- en Accijnswet BES)
 
+De Staatssecretaris van Financiën,  
+Handelende in overeenstemming met de Staatssecretaris van Economische Zaken, Landbouw en Innovatie;
+
+Gelet op de [Douane- en Accijnswet BES](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) en de [artikelen 2.2, onderdeel c](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md), [2.6, vierde lid](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md), [2.7, tweede lid](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md), [2.8, vierde lid](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md), en [2.39, vijfde lid, van het Uitvoeringsbesluit Douane- en Accijnswet BES](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md);
+Besluit:     
 ### Hoofdstuk  1  
 
 ####Algemene bepalingen
@@ -12,7 +17,7 @@
 
 ### Artikel  1.1  
 
-1.  Deze regeling geeft uitvoering aan de [artikelen 1.1, onderdeel h](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.2, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.4, eerste en derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.6, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.9, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.10, tweede en vierde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.11, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.18, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.24](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.25, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.40, tweede en zesde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.46, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.48, vijfde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.55, vijfde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.61, vierde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.66, zesde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.67, vijfde en zevende lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.78, vierde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.89, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.115](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.151, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.155, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.9, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.49, eerste en tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.50, aanhef en onderdeel b](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.51, tweede lid, onderdeel b](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.53, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.57, eerste lid, onderdeel a](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.72, eerste lid, onderdelen f, j en q](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.115, tweede lid, onderdeel b](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.117, tweede lid, onderdeel b](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.118, eerste lid, onderdeel c](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.119, eerste lid, onderdeel b](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.133](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.135, tweede lid, onderdeel a](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.137, eerste lid, onderdeel c](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), en [5.7 van de Douane- en Accijnswet BES](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [artikel 4.3 van de Douane- en Accijnswet BES](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) in samenhang met [artikel 8.11, tweede lid, van de Belastingwet BES](../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en de [artikelen 2.2, onderdeel c](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md), [2.6, vierde lid](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md), [2.7, tweede lid](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md), [2.8, vierde lid](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md), en [2.39, vijfde lid, van het Uitvoeringsbesluit Douane- en Accijnswet BES](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md).   
+1.  Deze regeling geeft uitvoering aan de [artikelen 1.1, onderdeel h](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.2, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.4, eerste en derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.6, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.9, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.10, tweede en vierde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.11, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.18, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.24](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.25, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.40, tweede en zesde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.46, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.48, vijfde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.55, vijfde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.61, vierde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.66, zesde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.67, vijfde en zevende lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.78, vierde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.89, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.115](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.151, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.155, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.9, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.49, eerste en tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.50, aanhef en onderdeel b](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.51, tweede lid, onderdeel b](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.53, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.57, eerste lid, onderdeel a](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.72, eerste lid, onderdelen f, j en q](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.115, tweede lid, onderdeel b](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.117, tweede lid, onderdeel b](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.118, eerste lid, onderdeel c](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.119, eerste lid, onderdeel b](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.133](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.135, tweede lid, onderdeel a](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.137, eerste lid, onderdeel c](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.10, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.23, eerste lid, onderdeel b, en derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.24, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.25, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.36, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.39, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.49, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.50](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.50a, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.51, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.53, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.56, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.57, tweede en derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.58, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.60, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.61, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.62, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.65, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.66, zevende lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), en [5.7 van de Douane- en Accijnswet BES](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [artikel 4.3 van de Douane- en Accijnswet BES](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) in samenhang met [artikel 8.11, tweede lid, van de Belastingwet BES](../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en de [artikelen 2.2, onderdeel c](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md), [2.6, vierde lid](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md), [2.7, tweede lid](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md), [2.8, vierde lid](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md), en [2.39, vijfde lid, van het Uitvoeringsbesluit Douane- en Accijnswet BES](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md).   
 2.  Voor de toepassing van deze regeling wordt verstaan onder: 
 
 a. *besluit:*[Uitvoeringsbesluit Douane- en Accijnswet BES](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md);  
@@ -48,6 +53,10 @@ De algemeen directeur Douane, bedoeld in [artikel 4, derde lid, van de Uitvoerin
 ### Artikel  1.4  
 
 De verplichtingen, die ingevolge de [artikelen 2.51 tot en met 2.54 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) gelden jegens de inspecteur, gelden ook jegens de directeur van de FIOD alsmede jegens de door deze directeur aangewezen ambtenaren van de Belastingdienst.  
+
+### Artikel  1.4a  
+
+[Artikel 27 van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) is van overeenkomstige toepassing op de aanwijzingen in deze afdeling.  
 
 ### Afdeling  1.3  
 
@@ -957,7 +966,7 @@ In deze afdeling wordt verstaan onder:   a. de minister:  de Minister van Econom
 
 ### Artikel  2.82  
 
-Als militaire goederen worden aangewezen de goederen, opgenomen in de Gemeenschappelijke EU-lijst van militaire goederen, door de Raad aangenomen op 15 februari 2010 (PB EU nr. C 69).  
+Als militaire goederen worden aangewezen de goederen, opgenomen in de lijst van goederen waarop het Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie van toepassing is.  
 
 ### Artikel  2.83  
 
@@ -1151,10 +1160,10 @@ a. bier 20.000 L;
 
 b. wijn 2.500 L;  
 
-c. gedistilleerd 2.500 L;  
+c. overige alcoholhoudende producten 2.500 L;  
 
 d. benzine 2.500 L.     
-2.  De inspecteur kan, onder door hem te stellen voorwaarden, in afwijking van het eerste lid, een vergunning voor een accijnsgoederenplaats verlenen indien de gemiddelde voorraad lager is dan de daar bedoelde hoeveelheden indien en voor zover de accijnsgoederen vanuit die plaats in belangrijke mate worden overgebracht naar een douane-entrepot of naar het buitenland.   
+2.  De inspecteur kan, onder door hem te stellen voorwaarden, in afwijking van het eerste lid, een vergunning voor een accijnsgoederenplaats verlenen indien de gemiddelde voorraad lager is dan de daar bedoelde hoeveelheden.   
 
 ### Artikel  4.4  
 
@@ -1174,7 +1183,7 @@ a. de voorgenomen te vervaardigen hoeveelheden; en
 
 b. de tijdstippen waarop de vervaardiging wordt aangevangen en beëindigd.     
 4.  De werkaangifte kan per werkweek geschieden.   
-5.  Indien gedistilleerd wordt vervaardigd, kan de inspecteur het gebruik van een ambtelijk afgesloten opvangreservoir voorschrijven.   
+5.  Indien overige alcoholhoudende producten worden vervaardigd, kan de inspecteur het gebruik van een ambtelijk afgesloten opvangreservoir voorschrijven.   
 
 ### Artikel  4.6  
 
@@ -1217,16 +1226,59 @@ a. gemiddeld in de accijnsgoederenplaats voorhanden is;
 
 b. gemiddeld in een aangiftetijdvak wordt uitgeslagen;  
 
-c. gemiddeld in een aangiftetijdvak wordt overgebracht naar een andere accijnsgoederenplaats, een entrepot of het buitenland;  
+c. gemiddeld in een aangiftetijdvak wordt overgebracht naar een andere accijnsgoederenplaats of naar het buitenland;  
 
-d. gemiddeld in een aangiftetijdvak met een vervoersopdracht vanuit het buitenland, vanuit een entrepot of vanuit een plaats voor tijdelijke opslag wordt overgebracht naar de accijnsgoederenplaats.     
+d. gemiddeld in een aangiftetijdvak met een vervoersopdracht vanuit het buitenland, vanuit een douane-entrepot of een handels- en dienstenentrepot dan wel vanuit een plaats voor tijdelijke opslag wordt overgebracht naar de accijnsgoederenplaats.     
 3.  Indien zekerheid wordt gesteld ter verkrijging van uitstel van betaling als bedoeld in [artikel 4.54, tweede lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), van het bedrag aan accijns dat aangevraagde accijnszegels vertegenwoordigen, is het accijnsbelang gelijk aan het bedrag waarvoor gemiddeld uitstel van betaling wordt verleend.   
 4.  Indien op grond van artikel 4.7 toestemming is verleend voor het doen van één aangifte voor twee of meer accijnsgoederenplaatsen worden de afzonderlijke zekerheidstellingen voor de desbetreffende accijnsgoederenplaatsen vervangen door één zekerheid die voor die accijnsgoederenplaatsen tezamen van toepassing is. Het hierbij in acht te nemen accijnsbelang wordt gevormd door het totale accijnsbelang dat op basis van het tweede lid en het derde lid voor de desbetreffende accijnsgoederenplaatsen is vastgesteld.   
 5.  De zekerheid bedraagt ten minste 5 percent en ten hoogste 100 percent van het accijnsbelang met een maximum van USD 6.500.000.   
 
+### Afdeling  4.3A  
+
+####Vrijstelling
+
 ### Artikel  4.9  
 
-De vrijstelling van accijns, bedoeld in [artikel 4.50, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), is uitsluitend van toepassing op gedistilleerd dat is vermengd op een wijze als is omschreven in [bijlage A.2 bij de Uitvoeringsregeling accijns](../../../../../../../ministeriele-regeling/uitvoeringsregeling/accijns/BWBR0005355/README.md).  
+De vrijstelling van accijns, bedoeld in [artikel 4.50, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), is uitsluitend van toepassing op ethylalcohol en andere alcoholhoudende producten als bedoeld in [artikel 4.13, onderdelen a en d, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) die zijn vermengd op een wijze als is omschreven in [bijlage A.2 bij de Uitvoeringsregeling accijns](../../../../../../../ministeriele-regeling/uitvoeringsregeling/accijns/BWBR0005355/README.md).  
+
+### Artikel  4.9a  
+
+De verklaring, bedoeld in [artikel 3.6 van het besluit](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md), bevat ten minste de volgende gegevens: 
+
+a. een uniek doorlopend nummer;  
+
+b. in geval van uitslag van benzine uit een accijnsgoederenplaats, de naam, het adres en het vergunningnummer van de vergunninghouder van die accijnsgoederenplaats;  
+
+c. in geval van invoer, de naam en het adres van degene die de benzine levert;  
+
+d. de naam en het adres van de exploitant van het schip of het luchtvaartuig;  
+
+e. de naam en het registratienummer van het schip of het luchtvaartuig;  
+
+f. de plaats en de datum van levering;  
+
+g. de hoeveelheid benzine die is geleverd;  
+
+h. de naam en de handtekening van de eigenaar of de exploitant van het schip of het luchtvaartuig of van diens vertegenwoordiger aan boord van het schip of het luchtvaartuig;  
+
+i. in geval van aflevering uit een schip, de naam en het registratienummer van het schip vanwaaruit is afgeleverd.    
+
+### Afdeling  4.3B  
+
+####Teruggaaf
+
+### Artikel  4.9b  
+
+1.  Tenzij anders bepaald wordt een verzoek om teruggaaf van accijns ingediend bij de inspecteur uiterlijk drie maanden na afloop van het kalenderkwartaal waarin het recht op teruggaaf is ontstaan.   
+2.  In het verzoek om teruggaaf is een overzichtelijke berekening opgenomen van het terug te vragen bedrag aan accijns.   
+3.  Degene die verzoekt om teruggaaf van accijns neemt in zijn administratie de aankoopfacturen van de desbetreffende accijnsgoederen op alsmede alle andere bescheiden die in verband met het verzoek om teruggaaf zijn vereist.   
+4.  De administratie van degene die verzoekt om teruggaaf van accijns is voorts zodanig ingericht, dat daarin op overzichtelijke wijze alle van belang zijnde gegevens zijn opgenomen voor de beoordeling van het bedrag van de teruggaaf.   
+5.  Voor zover teruggaaf van accijns wordt gevraagd voor sigaretten die naar een plaats buiten de BES eilanden worden gebracht, worden de accijnszegels van deze sigaretten op een door de inspecteur te bepalen wijze door belanghebbende onbruikbaar gemaakt.   
+6.  Teruggaaf van accijns wordt alleen verleend indien het bedrag aan accijns per uitvoerzending ten minste USD 200 bedraagt.   
+
+### Artikel  4.9c  
+
+Voor teruggaaf van accijns op grond van [artikel 4.50a, eerste lid, aanhef en onderdeel b, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), is artikel 4.9a van overeenkomstige toepassing.  
 
 ### Afdeling  4.4  
 
@@ -1297,6 +1349,21 @@ e. de merken en nummers, aantal en soort van de verpakkingen.
 ### Artikel  4.16  
 
 Op het in [artikel 3.9 van het besluit](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md) bedoelde bescheid van herkomst voor ruwe en voor gedeeltelijk tot verbruik bereide tabak is artikel 4.15 van overeenkomstige toepassing.  
+
+### Artikel  4.16a  
+
+Ten behoeve van een onderzoek als bedoeld in [artikel 4.61, tweede lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) is de [Regeling vordering tot stilhouden Belastingdienst/Caribisch Nederland](../../../../../../../ministeriele-regeling/regeling/vordering/tot/stilhouden/belastingdienstcaribisch/nederland/BWBR0029045/README.md) van toepassing.  
+
+### Artikel  4.16b  
+
+1.  Een op grond van [artikel 4.62, eerste lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) gevorderd monster wordt: 
+
+a. genomen onder toezicht van de inspecteur of een door hem aangewezen ambtenaar;  
+
+b. zodanig verpakt, dat de identiteit van het monster is gewaarborgd; en  
+
+c. onderzocht in een door de Belastingdienst aangewezen laboratorium met gebruikmaking van internationaal erkende onderzoeksmethoden.     
+2.  Ter zake van het onderzoek van goederen en het nemen van monsters is artikel 2.35, behoudens het tweede, achtste en negende lid, van overeenkomstige toepassing.   
 
 ### Artikel  4.17  
 

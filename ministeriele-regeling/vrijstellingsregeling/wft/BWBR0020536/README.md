@@ -144,7 +144,7 @@ Ondernemingen die de juridische eigendom verkrijgen van vorderingen uit hoofde v
 
 ### Artikel  3a  
 
-Van [artikel 2:60, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn vrijgesteld instellingen als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), voorzover: 
+Van [artikel 2:60, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn vrijgesteld instellingen als bedoeld in [artikel 5b, eerste lid, van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), voorzover: 
 
 a. zij krediet aanbieden ter overbrugging van tijdelijke liquiditeitstekorten aan natuurlijke personen die op het tijdstip van aangaan van de overeenkomst inzake het krediet over geen of onvoldoende inkomen beschikken om in de noodzakelijke kosten van bestaan te voorzien danwel uitkeringsgerechtigde zijn als bedoeld in [artikel 1, onderdeel l, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
@@ -236,7 +236,7 @@ j. adviseurs voorzover zij adviseren over andere financiële producten dan kredi
 
 ### Artikel  5a  
 
-Van [artikel 2:75, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn vrijgesteld instellingen als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), voorzover: 
+Van [artikel 2:75, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn vrijgesteld instellingen als bedoeld in [artikel 5b, eerste lid, van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), voorzover: 
 
 a. zij adviseren over krediet dat zij tevens aanbieden of waarin zij tevens bemiddelen ter overbrugging van tijdelijke liquiditeitstekorten aan natuurlijke personen die op het tijdstip van aangaan van de overeenkomst inzake het krediet over geen of onvoldoende inkomen beschikken om in de noodzakelijke kosten van bestaan te voorzien danwel uitkeringsgerechtigde zijn als bedoeld in [artikel 1, onderdeel l, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
@@ -283,7 +283,7 @@ b. een andere hoofdberoepswerkzaamheid heeft dan bemiddeling in goederenkrediet 
 
 ### Artikel  6a  
 
-Van [artikel 2:80, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn vrijgesteld instellingen als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), voorzover: 
+Van [artikel 2:80, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn vrijgesteld instellingen als bedoeld in [artikel 5b, eerste lid, van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), voorzover: 
 
 a. zij bemiddelen in krediet ter overbrugging van tijdelijke liquiditeitstekorten ten behoeve van natuurlijke personen die op het tijdstip van aangaan van de overeenkomst inzake het krediet over geen of onvoldoende inkomen beschikken om in de noodzakelijke kosten van bestaan te voorzien danwel uitkeringsgerechtigde zijn als bedoeld in [artikel 1, onderdeel l, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
@@ -629,7 +629,7 @@ Beleggingsondernemingen als bedoeld in artikel 10 zijn vrijgesteld van het ingev
 
 ### Artikel  35a  
 
-1.  Personen als bedoeld in artikel 11 zijn vrijgesteld van hetgeen ingevolge de [afdelingen 4.2.1](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4.2.2](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4.2.3](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4.3.7 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot beleggingsondernemingen is bepaald, met uitzondering van het bepaalde ingevolge: 
+1.  Personen als bedoeld in artikel 11, eerst en tweede lid, zijn vrijgesteld van hetgeen ingevolge de [afdelingen 4.2.1](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4.2.2](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4.2.3](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [4.3.7 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot beleggingsondernemingen is bepaald, met uitzondering van het bepaalde ingevolge: 
 
 a. [artikel 4:9, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met betrekking tot de deskundigheid van de in dat artikel bedoelde personen;  
 
@@ -645,17 +645,42 @@ f. [artikel 4:17, eerste en tweede lid, van de wet](../../../../wet/wet/op/het/f
 
 g. [artikel 4:19 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [artikel 51a van het besluit](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md);  
 
-h. [artikel 4:20, eerste en derde lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en de [artikelen 49a](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [58a](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [58b, eerste lid, onderdelen a tot en met e](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [58c](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) en [58e van het besluit](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md);  
+h. [artikel 4:20, eerste en derde lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en de [artikelen 49a](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [58a](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [58b, eerste lid, onderdelen a tot met e](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [58c](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) en [58e van het besluit](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md);  
 
-i. de [artikelen 4:23, eerste en tweede lid](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:24, eerste, tweede, derde, vierde en zesde lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en de [artikelen 80 a, eerste, tweede en derde lid](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [80b, eerste en derde lid](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [80c](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) en [80d van het besluit](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md);  
+i. de [artikelen 4:23, eerste en tweede lid](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:24, eerste, tweede, derde, vierde en zesde lid](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:25a, eerste lid](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:25b van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en de [artikelen 80a, eerste tot en met derde lid](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [80b, eerste en derde lid](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [80c](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [80d](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) en 86c van het besluit;  
+
+j. de [artikelen 81](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) en [82, eerste lid, van het besluit](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md);  
+
+k. [artikel 4:89, eerste en vijfde lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); en  
+
+l. [artikel 4:90, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).     
+2.  Personen als bedoeld in artikel 11, vierde lid, zijn vrijgesteld van hetgeen ingevolge de [afdelingen 4.2.1](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4.2.2](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4.2.3](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [4.3.7 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot beleggingsondernemingen is bepaald, met uitzondering van het bepaalde ingevolge: 
+
+a. [artikel 4:9, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met betrekking tot de deskundigheid van de in dat artikel bedoelde personen;  
+
+b. [artikel 4:10 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met betrekking tot de betrouwbaarheid van de in dat artikel bedoelde personen;  
+
+c. [artikel 4:13 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+d. [artikel 35, eerste, derde, vierde en vijfde lid, van het besluit](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), met dien verstande dat de beleggingsonderneming de gegevens gedurende ten minste een jaar bewaart;  
+
+e. [artikel 4:16, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [artikel 37 van het besluit](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md);  
+
+f. [artikel 4:17, eerste en tweede lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en de [artikelen 39](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [40](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) en [41 van het besluit](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md);  
+
+g. [artikel 4:19 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [artikel 51a van het besluit](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md);  
+
+h. [artikel 4:20, eerste en derde lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en de [artikelen 49a](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [58a](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [58b, eerste lid, onderdelen a tot met e](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [58c](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) en [58e van het besluit](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md);  
+
+i. de [artikelen 4:23, eerste en tweede lid](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:24, eerste, tweede, derde, vierde en zesde lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en de [artikelen 80a, eerste tot en met derde lid](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [80b, eerste en derde lid](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [80c](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) en [80d van het besluit](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md);  
 
 j. de [artikelen 81](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) en [82, eerste lid, van het besluit](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md);  
 
 k. [artikel 4:89, eerste en vijfde lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); en  
 
 l. [artikel 4:90, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en artikel 168a van het besluit.     
-2.  De [artikelen 4:9, tweede lid](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:11, tweede lid](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:15, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en de [artikelen 28](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [29](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) en [57, eerste lid, onderdeel c, van het besluit](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) zijn van overeenkomstige toepassing, alsmede, voor zover het betreft de vakbekwaamheid, bedoeld in [artikel 4:9, tweede lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), de eindtermen genoemd in de [onderdelen 2.5 tot en met 2.7 en in de onderdelen 5.6 tot en met 5.8 van bijlage B](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) van het besluit.   
-3.  De vrijstelling van het ingevolge [afdeling 4.3.7](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde geldt slechts voor zover de beleggingsonderneming: 
+3.  De [artikelen 4:9, tweede lid](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:11, tweede lid](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:15, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en de [artikelen 28](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [29](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) en [57, eerste lid, onderdeel c, van het besluit](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) zijn van overeenkomstige toepassing, alsmede, voor zover het betreft de vakbekwaamheid, bedoeld in [artikel 4:9, tweede lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), de eindtermen genoemd in de [onderdelen 2.5 tot en met 2.7 en in de onderdelen 5.6 tot en met 5.8 van bijlage B van het besluit](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md).   
+4.  De vrijstelling van het ingevolge [afdeling 4.3.7](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde geldt slechts voor zover de beleggingsonderneming: 
 
 a. met haar cliënt een overeenkomst sluit die: 
 
@@ -701,7 +726,7 @@ c. consumenten of, indien het financiële diensten met betrekking tot verzekerin
 
 ### Artikel  39a  
 
-Instellingen als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) zijn vrijgesteld van het ingevolge het Deel Gedragstoezicht financiële ondernemingen van de wet bepaalde met betrekking tot het aanbieden van, adviseren over en bemiddelen in krediet, voorzover: 
+Instellingen als bedoeld in [artikel 5b, eerste lid, van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) zijn vrijgesteld van het ingevolge het Deel Gedragstoezicht financiële ondernemingen van de wet bepaalde met betrekking tot het aanbieden van, adviseren over en bemiddelen in krediet, voorzover: 
 
 a. zij krediet aanbieden ter overbrugging van tijdelijke liquiditeitstekorten aan natuurlijke personen die op het tijdstip van aangaan van de overeenkomst inzake het krediet over geen of onvoldoende inkomen beschikken om in de noodzakelijke kosten van bestaan te voorzien danwel uitkeringsgerechtigde zijn als bedoeld in [artikel 1, onderdeel l, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 

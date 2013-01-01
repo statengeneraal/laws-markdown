@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 14 januari 2010, nr. WJZ/9218768, houdende aanwijzing van categorieën van productie-installaties voor de stimulering van duurzame energieproductie in het jaar 2010 (Regeling aanwijzing categorieën duurzame energieproductie 2010)
 
 De Minister van Economische Zaken, na overleg met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister van Financiën,  
-Gelet op de [artikelen 31, negende lid](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), en [77c van de Elektriciteitswet 1998](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [7](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [8](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [10](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [11, eerste lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [12, eerste lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [14, zesde lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [15, derde en vierde lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [25](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [27](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [28, eerste lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [29, eerste lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [31, vijfde lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [32, derde lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [42](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [51](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [52, eerste lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [54, derde lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [55, eerste lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [56, eerste en derde lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [61, eerste lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), en [63, tweede lid, van het Besluit stimulering duurzame energieproductie](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);
+Gelet op de artikelen 31, negende lid, en 77c van de Elektriciteitswet 1998 en 7, 8, 10, 11, eerste lid, 12, eerste lid, 14, zesde lid, 15, derde en vierde lid, 25, 27, 28, eerste lid, 29, eerste lid, 31, vijfde lid, 32, derde lid, 42, 51, 52, eerste lid, 54, derde lid, 55, eerste lid, 56, eerste en derde lid, 61, eerste lid, en 63, tweede lid, van het Besluit stimulering duurzame energieproductie;
 Besluit:     
 ### §  1  
 
@@ -15,11 +15,11 @@ In deze regeling wordt verstaan onder:
 
 – *minister:* de Minister van Economische Zaken;  
 
-– *besluit:* het [Besluit stimulering duurzame energieproductie](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+– *besluit:* het Besluit stimulering duurzame energieproductie;  
 
-– *algemene uitvoeringsregeling:* de [Algemene uitvoeringsregeling stimulering duurzame energieproductie](../../../../../../../../ministeriele-regeling/algemene/uitvoeringsregeling/stimulering/duurzame/energieproductie/BWBR0023563/README.md);  
+– *algemene uitvoeringsregeling:* de Algemene uitvoeringsregeling stimulering duurzame energieproductie;  
 
-– *gewogen maandelijks rendement:* het rendement, bedoeld in [artikel 1, vierde lid, van de Regeling garanties van oorsprong voor duurzame elektriciteit](../../../../../../../../ministeriele-regeling/regeling/garanties/van/oorsprong/voor/duurzame/elektriciteit/BWBR0016021/README.md);  
+– *gewogen maandelijks rendement:* het rendement, bedoeld in artikel 1, vierde lid, van de Regeling garanties van oorsprong voor duurzame elektriciteit;  
 
 – *NTA 8003:* 2008: de Nederlandse Technische Afspraak 8003, Classificatie van biomassa voor energietoepassing, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidde op 31 december 2008;  
 
@@ -41,7 +41,7 @@ In deze regeling wordt verstaan onder:
 
 – *productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van waterkracht:* een productie-installatie waarmee door hydro-mechanisch-elektrische omzetting hernieuwbare elektriciteit wordt geproduceerd uit potentiële dan wel kinetische energie van stromend water dat niet specifiek ten behoeve van de elektriciteitsproductie omhoog is gepompt;  
 
-– *productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op land:* een productie-installatie die niet is opgericht in de territoriale zee of in de Nederlandse exclusieve economische zone, waarmee hernieuwbare elektriciteit wordt geproduceerd met behulp van windenergie en die geen productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie is als bedoeld in [artikel 1, onderdeel o, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+– *productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op land:* een productie-installatie die niet is opgericht in de territoriale zee of in de Nederlandse exclusieve economische zone, waarmee hernieuwbare elektriciteit wordt geproduceerd met behulp van windenergie en die geen productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie is als bedoeld in artikel 1, onderdeel o, van het besluit;  
 
 – *productie-installatie voor de productie van hernieuwbaar gas met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties:* een productie-installatie waarmee hernieuwbaar gas wordt geproduceerd: 
 
@@ -59,11 +59,11 @@ In deze regeling wordt verstaan onder:
 
 3°. de verbranding van producten die voortkomen uit thermische behandeling;    
 
-– *vergisting en co-vergisting van dierlijke mest:* de biologische afbraakreacties van in hoofdzaak verpompbare vaste en vloeibare uitwerpselen van dieren, al dan niet aangevuld met een of meer producten genoemd in de [Uitvoeringsregeling Meststoffenwet, bijlage Aa](../../../../../../../../ministeriele-regeling/uitvoeringsregeling/meststoffenwet/BWBR0018989/README.md), onderdeel IV;  
+– *vergisting en co-vergisting van dierlijke mest:* de biologische afbraakreacties van in hoofdzaak verpompbare vaste en vloeibare uitwerpselen van dieren, al dan niet aangevuld met een of meer producten genoemd in de Uitvoeringsregeling Meststoffenwet, bijlage Aa, onderdeel IV;  
 
 – *vergisting van groente-, fruit- en tuinafval:* de biologische afbraakreacties van biomassa als bedoeld in de nummers 251, 252, 253, 254, 600, 610, 620 van de NTA 8003:2008;  
 
-– *warmtebenuttingscoëfficiënt:* de hoeveelheid gedurende een kalenderjaar door een productie-installatie geproduceerde en nuttig aangewende warmte als bedoeld in [artikel 1, eerste lid, onderdeel v, van de Regeling garanties van oorsprong voor duurzame elektriciteit](../../../../../../../../ministeriele-regeling/regeling/garanties/van/oorsprong/voor/duurzame/elektriciteit/BWBR0016021/README.md), gedeeld door de hoeveelheid gedurende hetzelfde kalenderjaar geproduceerde en op het elektriciteitsnet ingevoede hernieuwbare elektriciteit;  
+– *warmtebenuttingscoëfficiënt:* de hoeveelheid gedurende een kalenderjaar door een productie-installatie geproduceerde en nuttig aangewende warmte als bedoeld in artikel 1, eerste lid, onderdeel v, van de Regeling garanties van oorsprong voor duurzame elektriciteit, gedeeld door de hoeveelheid gedurende hetzelfde kalenderjaar geproduceerde en op het elektriciteitsnet ingevoede hernieuwbare elektriciteit;  
 
 – *STEG:* een productie-installatie bestaande uit één of meerdere stoom- en gasturbines, waarbij de warmte uit de gasturbine uitsluitend of in hoofdzaak wordt aangewend voor de productie van stoom, waarmee achtereenvolgens een stoomturbine wordt aangedreven;  
 
@@ -104,7 +104,7 @@ b. met een nominaal vermogen per turbine gelijk aan of groter dan 6,0 MW.
 
 ### Artikel  6  
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 2, eerste lid, bedraagt voor productie- installaties als bedoeld in: 
+Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 2, eerste lid, bedraagt voor productie- installaties als bedoeld in: 
 
 a. artikel 2, eerste lid, onderdeel a: € 0,120 per kWh;  
 
@@ -112,7 +112,7 @@ b. artikel 2, eerste lid, onderdeel b: € 0,120 per kWh.
 
 ### Artikel  7  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 2, eerste lid, bedraagt voor productie- installaties als bedoeld in: 
+De basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit, voor subsidie als bedoeld in artikel 2, eerste lid, bedraagt voor productie- installaties als bedoeld in: 
 
 a. artikel 2, eerste lid, onderdeel a: € 0,049 per kWh;  
 
@@ -128,17 +128,17 @@ b. artikel 2, eerste lid, onderdeel b: € 0,050 per kWh.
 
 a. groter dan of gelijk aan 1,0 kWp en kleiner dan of gelijk aan 15 kWp;  
 
-b. groter dan 15 kWp en kleiner dan of gelijk aan 100 kWp, welke zijn geplaatst op of tegen een gebouw als bedoeld in [artikel 1, onderdeel c, van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md).     
-2.  Productie-installaties als bedoeld in het eerste lid, worden aangewezen als productie-installaties als bedoeld in de [artikelen 15, vierde lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), en [56, eerste lid, tweede volzin, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).   
+b. groter dan 15 kWp en kleiner dan of gelijk aan 100 kWp, welke zijn geplaatst op of tegen een gebouw als bedoeld in artikel 1, onderdeel c, van de Woningwet.     
+2.  Productie-installaties als bedoeld in het eerste lid, worden aangewezen als productie-installaties als bedoeld in de artikelen 15, vierde lid, en 56, eerste lid, tweede volzin, van het besluit.   
 3.  Aanvragen om subsidie als bedoeld in het eerste lid, onderdeel a, worden ontvangen in de periode van 1 maart 2010 tot en met 1 november 2010, 17:00 uur.   
 4.  Aanvragen om subsidie als bedoeld in het eerste lid, onderdeel b, worden ontvangen in de periode van 31 mei 2010 tot en met 1 november 2010, 17:00 uur. Aanvragen, ingediend via www.agentschapnl.nl/sde in de periode van 18 mei 2010 tot en met 30 mei 2010, worden geacht te zijn ontvangen op 31 mei 2010.   
 5.  Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 2.   
-6.  Een gebundelde aanvraag om subsidie als bedoeld in [artikel 56, eerste lid, tweede volzin, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier dat is opgenomen in de bij deze regeling behorende bijlage 3.   
+6.  Een gebundelde aanvraag om subsidie als bedoeld in artikel 56, eerste lid, tweede volzin, van het besluit wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier dat is opgenomen in de bij deze regeling behorende bijlage 3.   
 7.  Een aanvraag om subsidie als bedoeld in het vijfde lid en zesde lid, wordt geacht een aanvraag tot het verstrekken van een voorschot te zijn, tenzij de aanvrager te kennen geeft een aparte aanvraag tot het verstrekken van een voorschot te willen indienen of aangeeft geen voorschot te willen ontvangen.   
 
 ### Artikel  9  
 
-Voor subsidie als bedoeld in artikel 8, eerste lid, onderdeel a, is de rapportageverplichting, bedoeld in [artikel 3, tweede lid, van de algemene uitvoeringsregeling](../../../../../../../../ministeriele-regeling/algemene/uitvoeringsregeling/stimulering/duurzame/energieproductie/BWBR0023563/README.md) niet van toepassing.  
+Voor subsidie als bedoeld in artikel 8, eerste lid, onderdeel a, is de rapportageverplichting, bedoeld in artikel 3, tweede lid, van de algemene uitvoeringsregeling niet van toepassing.  
 
 ### Artikel  10  
 
@@ -158,7 +158,7 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ### Artikel  13  
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 8, eerste lid, bedraagt voor productie-installaties als bedoeld in: 
+Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 8, eerste lid, bedraagt voor productie-installaties als bedoeld in: 
 
 a. artikel 8, eerste lid, onderdeel a, voor de productie tot en met 6375 kWh per jaar: € 0,474 per kWh;  
 
@@ -168,7 +168,7 @@ c. artikel 8, eerste lid, onderdeel b: € 0,430 per kWh.
 
 ### Artikel  14  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 8, eerste lid, bedraagt voor productie-installaties als bedoeld in: 
+De basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit, voor subsidie als bedoeld in artikel 8, eerste lid, bedraagt voor productie-installaties als bedoeld in: 
 
 a. artikel 8, eerste lid, onderdeel a: € 0,202 per kWh;  
 
@@ -186,7 +186,7 @@ b. artikel 8, eerste lid, onderdeel b: € 0,053 per kWh.
 
 ### Artikel  16  
 
-Voor subsidie als bedoeld in artikel 15, eerste lid, is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de algemene uitvoeringsregeling](../../../../../../../../ministeriele-regeling/algemene/uitvoeringsregeling/stimulering/duurzame/energieproductie/BWBR0023563/README.md) niet van toepassing.  
+Voor subsidie als bedoeld in artikel 15, eerste lid, is de rapportageverplichting, bedoeld in artikel 6, eerste lid, van de algemene uitvoeringsregeling niet van toepassing.  
 
 ### Artikel  17  
 
@@ -204,10 +204,10 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ### Artikel  20  
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 15, eerste lid, bedraagt bij een gewogen maandelijks rendement dat groter is dan genoemd in kolom 1 en kleiner is dan of gelijk is aan genoemd in kolom 2, het bedrag in euro per kWh, genoemd in kolom 3.  
+Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 15, eerste lid, bedraagt bij een gewogen maandelijks rendement dat groter is dan genoemd in kolom 1 en kleiner is dan of gelijk is aan genoemd in kolom 2, het bedrag in euro per kWh, genoemd in kolom 3.  
 
 | Kolom 1  | Kolom 2  | Kolom 3  |
-|:---|:---|:---|
+|---|---|---|
 | 22%  | 23%  | 0,114  |
 | 23%  | 24%  | 0,116  |
 | 24%  | 25%  | 0,117  |
@@ -221,7 +221,7 @@ Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../..
 
 ### Artikel  21  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 15, eerste lid, bedraagt € 0,090 per kWh.  
+De basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit, voor subsidie als bedoeld in artikel 15, eerste lid, bedraagt € 0,090 per kWh.  
 
 ### §  2.4  
 
@@ -235,7 +235,7 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../..
 
 ### Artikel  23  
 
-Voor subsidie als bedoeld in artikel 22, eerste lid, is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de algemene uitvoeringsregeling](../../../../../../../../ministeriele-regeling/algemene/uitvoeringsregeling/stimulering/duurzame/energieproductie/BWBR0023563/README.md) niet van toepassing.  
+Voor subsidie als bedoeld in artikel 22, eerste lid, is de rapportageverplichting, bedoeld in artikel 6, eerste lid, van de algemene uitvoeringsregeling niet van toepassing.  
 
 ### Artikel  24  
 
@@ -253,11 +253,11 @@ Het maximaal aantal vollasturen voor een productie-installatie voor de productie
 
 ### Artikel  27  
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 22, eerste lid, bedraagt € 0,059 per kWh.  
+Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 22, eerste lid, bedraagt € 0,059 per kWh.  
 
 ### Artikel  28  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 22, eerste lid, bedraagt € 0,044 per kWh.  
+De basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit, voor subsidie als bedoeld in artikel 22, eerste lid, bedraagt € 0,044 per kWh.  
 
 ### §  2.5  
 
@@ -295,10 +295,10 @@ Het maximaal aantal vollasturen voor productie-installaties als bedoeld in artik
 
 ### Artikel  33  
 
-1.  Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 29, eerste lid, onderdeel a, bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.  
+1.  Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 29, eerste lid, onderdeel a, bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.  
 
 | Kolom 1  | Kolom 2  | Kolom 3  |
-|:---|:---|:---|
+|---|---|---|
 | 0,00 MJ/kWh  | 0,25 MJ/kWh  | 0,165  |
 | 0,25 MJ/kWh  | 0,50 MJ/kWh  | 0,168  |
 | 0,50 MJ/kWh  | 0,75 MJ/kWh  | 0,172  |
@@ -309,10 +309,10 @@ Het maximaal aantal vollasturen voor productie-installaties als bedoeld in artik
 | 1,75 MJ/kWh  | 2,0 MJ/kWh  | 0,190  |
 | 2,0 MJ/kWh  | Onbepaald  | 0,193  |
 
-2.  Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 29, eerste lid, onderdeel b, bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.  
+2.  Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 29, eerste lid, onderdeel b, bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.  
 
 | Kolom1  | Kolom 2  | Kolom 3  |
-|:---|:---|:---|
+|---|---|---|
 | 0,00 MJ/kWh  | 0,25 MJ/kWh  | 0,129  |
 | 0,25 MJ/kWh  | 0,50 MJ/kWh  | 0,132  |
 | 0,50 MJ/kWh  | 0,75 MJ/kWh  | 0,134  |
@@ -323,11 +323,11 @@ Het maximaal aantal vollasturen voor productie-installaties als bedoeld in artik
 | 1,75 MJ/kWh  | 2,0 MJ/kWh  | 0,146  |
 | 2,0 MJ/kWh  | Onbepaald  | 0,149  |
 
-3.  Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 29, eerste lid, onderdeel c, bedraagt € 0,158 per kWh.   
-4.  Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 29, eerste lid, onderdeel d, bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.  
+3.  Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 29, eerste lid, onderdeel c, bedraagt € 0,158 per kWh.   
+4.  Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 29, eerste lid, onderdeel d, bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.  
 
 | Kolom 1  | Kolom 2  | Kolom 3  |
-|:---|:---|:---|
+|---|---|---|
 | 0,00 MJ/kWh  | 0,25 MJ/kWh  | 0,151  |
 | 0,25 MJ/kWh  | 0,50 MJ/kWh  | 0,154  |
 | 0,50 MJ/kWh  | 0,75 MJ/kWh  | 0,157  |
@@ -338,10 +338,10 @@ Het maximaal aantal vollasturen voor productie-installaties als bedoeld in artik
 | 1,75 MJ/kWh  | 2,0 MJ/kWh  | 0,173  |
 | 2,0 MJ/kWh  | Onbepaald  | 0,176  |
 
-5.  Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 29, eerste lid, onderdeel e, bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.  
+5.  Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 29, eerste lid, onderdeel e, bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.  
 
 | Kolom 1  | Kolom 2  | Kolom 3  |
-|:---|:---|:---|
+|---|---|---|
 | 0,00 MJ/kWh  | 0,25 MJ/kWh  | 0,114  |
 | 0,25 MJ/kWh  | 0,50 MJ/kWh  | 0,116  |
 | 0,50 MJ/kWh  | 0,75 MJ/kWh  | 0,119  |
@@ -362,7 +362,7 @@ Het maximaal aantal vollasturen voor productie-installaties als bedoeld in artik
 
 ### Artikel  34  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 29, eerste lid, bedraagt € 0,044 per kWh.  
+De basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit, voor subsidie als bedoeld in artikel 29, eerste lid, bedraagt € 0,044 per kWh.  
 
 ### §  2.6  
 
@@ -398,7 +398,7 @@ b. artikel 35, eerste lid, onderdeel b, bedraagt 4800 uren per jaar.
 
 ### Artikel  39  
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 35, eerste lid, bedraagt voor productie-installaties als bedoeld in: 
+Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 35, eerste lid, bedraagt voor productie-installaties als bedoeld in: 
 
 a. artikel 35, eerste lid, onderdeel a: € 0,123 per kWh;  
 
@@ -406,7 +406,7 @@ b. artikel 35, eerste lid, onderdeel b: € 0,072 per kWh.
 
 ### Artikel  40  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 35, eerste lid, onderdelen a en b, bedraagt € 0,044 per kWh.  
+De basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit, voor subsidie als bedoeld in artikel 35, eerste lid, onderdelen a en b, bedraagt € 0,044 per kWh.  
 
 ### §  2.7  
 
@@ -416,59 +416,59 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../..
 
 1.  De correcties op het basisbedrag voor subsidie als bedoeld in artikel 2, eerste lid, onderdeel a, worden voor 2010 als volgt vastgesteld: 
 
-a. € 0,052 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,052 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artikel 14, eerste lid, onderdeel a, van het besluit;  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).     
+b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.     
 2.  De correcties op het basisbedrag voor subsidie als bedoeld in artikel 2, eerste lid, onderdeel b, worden voor 2010 als volgt vastgesteld: 
 
-a. € 0,054 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,054 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artikel 14, eerste lid, onderdeel a, van het besluit;  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).     
+b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.     
 
 ### Artikel  42  
 
 1.  De correcties op het basisbedrag voor subsidie als bedoeld in artikel 8, eerste lid, onderdeel a, worden voor 2010 als volgt vastgesteld: 
 
-a. € 0,225 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,225 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artikel 14, eerste lid, onderdeel a, van het besluit;  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).     
+b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.     
 2.  De correcties op het basisbedrag voor subsidie als bedoeld in artikel 8, eerste lid, onderdeel b, worden voor 2010 als volgt vastgesteld: 
 
-a. de basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) zoals vastgesteld in artikel 14, onder b, van deze regeling op € 0,053 per kWh;  
+a. de basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit zoals vastgesteld in artikel 14, onder b, van deze regeling op € 0,053 per kWh;  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).     
+b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.     
 
 ### Artikel  43  
 
 De correcties op het basisbedrag voor subsidie als bedoeld in artikel 15, eerste lid, worden voor 2010 als volgt vastgesteld: 
 
-a. € 0,096 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,096 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artikel 14, eerste lid, onderdeel a, van het besluit;  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
+b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.    
 
 ### Artikel  44  
 
 De correcties op het basisbedrag voor subsidie als bedoeld in artikel 22, eerste lid, worden voor 2010 als volgt vastgesteld: 
 
-a. € 0,047 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,047 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artikel 14, eerste lid, onderdeel a, van het besluit;  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
+b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.    
 
 ### Artikel  45  
 
 De correcties op het basisbedrag voor subsidie als bedoeld in artikel 29, eerste lid, worden voor 2010 als volgt vastgesteld: 
 
-a. € 0,047 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,047 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artikel 14, eerste lid, onderdeel a, van het besluit;  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
+b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.    
 
 ### Artikel  46  
 
 De correcties op het basisbedrag voor subsidie als bedoeld in artikel 35, eerste lid, worden voor 2010 als volgt vastgesteld: 
 
-a. € 0,047 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,047 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artikel 14, eerste lid, onderdeel a, van het besluit;  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
+b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.    
 
 ### §  3  
 
@@ -486,7 +486,7 @@ b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, on
 
 ### Artikel  48  
 
-Voor subsidie als bedoeld in artikel 47, eerste lid, is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de algemene uitvoeringsregeling](../../../../../../../../ministeriele-regeling/algemene/uitvoeringsregeling/stimulering/duurzame/energieproductie/BWBR0023563/README.md) niet van toepassing.  
+Voor subsidie als bedoeld in artikel 47, eerste lid, is de rapportageverplichting, bedoeld in artikel 6, eerste lid, van de algemene uitvoeringsregeling niet van toepassing.  
 
 ### Artikel  49  
 
@@ -504,11 +504,11 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ### Artikel  52  
 
-Het basisbedrag, bedoeld in [artikel 28 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 47, eerste lid, bedraagt € 0,218 per Nm <sup>3</sup>.  
+Het basisbedrag, bedoeld in artikel 28 van het besluit, voor subsidie als bedoeld in artikel 47, eerste lid, bedraagt € 0,218 per Nm <sup>3</sup>.  
 
 ### Artikel  53  
 
-De basisgasprijs, bedoeld in [artikel 29 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 47, eerste lid, bedraagt € 0,147 per Nm <sup>3</sup>.  
+De basisgasprijs, bedoeld in artikel 29 van het besluit, voor subsidie als bedoeld in artikel 47, eerste lid, bedraagt € 0,147 per Nm <sup>3</sup>.  
 
 ### §  3.2  
 
@@ -542,7 +542,7 @@ Het maximaal aantal vollasturen voor productie-installaties bedoeld in artikel 5
 
 ### Artikel  58  
 
-Het basisbedrag, bedoeld in [artikel 28 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), bedraagt voor subsidie als bedoeld in: 
+Het basisbedrag, bedoeld in artikel 28 van het besluit, bedraagt voor subsidie als bedoeld in: 
 
 a. artikel 54, eerste lid, onderdeel a: € 0,465 per Nm <sup>3</sup>;  
 
@@ -552,7 +552,7 @@ c. artikel 54, eerste lid, onderdeel c: € 0,583 per Nm <sup>3</sup>.
 
 ### Artikel  59  
 
-De basisgasprijs, bedoeld in [artikel 29 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 54, eerste lid, bedraagt € 0,147 per Nm <sup>3</sup>.  
+De basisgasprijs, bedoeld in artikel 29 van het besluit, voor subsidie als bedoeld in artikel 54, eerste lid, bedraagt € 0,147 per Nm <sup>3</sup>.  
 
 ### §  3.3  
 
@@ -562,17 +562,17 @@ De basisgasprijs, bedoeld in [artikel 29 van het besluit](../../../../../../../.
 
 De correcties op het basisbedrag voor de subsidie, bedoeld in artikel 47, eerste lid, worden voor 2010 als volgt vastgesteld: 
 
-a. € 0,208 per Nm <sup>3</sup> voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,208 per Nm <sup>3</sup> voor wat betreft de gasprijs, bedoeld in artikel 31, eerste lid, onderdeel a, van het besluit;  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, onderdeel b, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
+b. € 0 voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, onderdeel b, van het besluit.    
 
 ### Artikel  61  
 
 De correcties op het basisbedrag voor de subsidie, bedoeld in artikel 54, eerste lid worden voor 2010 als volgt vastgesteld: 
 
-a. € 0,208 per Nm <sup>3</sup> voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,208 per Nm <sup>3</sup> voor wat betreft de gasprijs, bedoeld in artikel 31, eerste lid, onderdeel a, van het besluit;  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, onderdeel b, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
+b. € 0 voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, onderdeel b, van het besluit.    
 
 ### §  4  
 
@@ -580,7 +580,7 @@ b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, on
 
 ### Artikel  62  
 
-1.  De minister verstrekt op aanvraag subsidie aan producenten die elektriciteit opwekken in een installatie voor hoogrenderende warmtekrachtkoppeling als bedoeld in [artikel 1, onderdeel ab, van de Elektriciteitswet 1998](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), die voldoet aan de volgende kenmerken: 
+1.  De minister verstrekt op aanvraag subsidie aan producenten die elektriciteit opwekken in een installatie voor hoogrenderende warmtekrachtkoppeling als bedoeld in artikel 1, onderdeel ab, van de Elektriciteitswet 1998, die voldoet aan de volgende kenmerken: 
 
 a. de installatie is van het type STEG;  
 
@@ -598,13 +598,13 @@ f. minimaal 90% van de door de installatie geproduceerde nuttige warmte wordt ge
 
 ### Artikel  63  
 
-Voor subsidie als bedoeld in artikel 62, eerste lid, is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de algemene uitvoeringsregeling](../../../../../../../../ministeriele-regeling/algemene/uitvoeringsregeling/stimulering/duurzame/energieproductie/BWBR0023563/README.md) niet van toepassing.  
+Voor subsidie als bedoeld in artikel 62, eerste lid, is de rapportageverplichting, bedoeld in artikel 6, eerste lid, van de algemene uitvoeringsregeling niet van toepassing.  
 
 ### Artikel  64  
 
 1.  Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de in artikel 62, tweede lid, bedoelde periode, bedraagt € 168.000.000,–.   
 2.  De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van rangschikking van de aanvragen.   
-3.  De criteria voor rangschikking, bedoeld in [artikel 60, eerste lid, onderdelen c en e, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) zijn niet van toepassing.   
+3.  De criteria voor rangschikking, bedoeld in artikel 60, eerste lid, onderdelen c en e, van het besluit zijn niet van toepassing.   
 
 ### Artikel  65  
 
@@ -617,11 +617,11 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ### Artikel  67  
 
-Het subsidiebedrag, bedoeld in [artikel 52, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 62, eerste en tweede lid, bedraagt voor het kalenderjaar 2010 € 0,0097 per kWh.  
+Het subsidiebedrag, bedoeld in artikel 52, eerste lid, van het besluit, voor subsidie als bedoeld in artikel 62, eerste en tweede lid, bedraagt voor het kalenderjaar 2010 € 0,0097 per kWh.  
 
 ### Artikel  68  
 
-Het bedrag, bedoeld in [artikel 55, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), bedraagt € 0,0097 per kWh.  
+Het bedrag, bedoeld in artikel 55, eerste lid, van het besluit, bedraagt € 0,0097 per kWh.  
 
 ### §  5  
 
@@ -743,7 +743,7 @@ e. Kadastrale aanduiding indien het adres nog onbekend is: .....
 f.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | EAN-code aansluitpunt :  <sup> 4   Dit dient dezelfde code te zijn als de code waarop garanties van oorsprong of certificaten worden geregistreerd.    </sup> | □□□□□□□□□□□□□□□□□□  |
 | --- | ○ nog niet bekend  |
 
@@ -760,7 +760,7 @@ c. Wat is het totaal nominaal vermogen waarvoor u subsidie aanvraagt? : ..... MW
 d. Is in het project sprake van:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | • Uitbreiding van een bestaande productie-installatie?  | ○ ja  | ○ nee  |
 | • Renovatie van een bestaande productie-installatie?  | ○ ja  | ○ nee  |
 | • Vervanging van een bestaande productie-installatie?  | ○ ja  | ○ nee  |
@@ -771,17 +771,17 @@ Indien u één of meer van de vragen met ‘ja’ heeft beantwoord, dan moet uit
 e. Welke vergunningen zijn noodzakelijk voor de realisatie van het project? <sup> 7  In artikel 56 van het Besluit SDE is aangegeven dat de aanvraag vergezeld moet gaan van een kopie van de door het bevoegde gezag verleende vergunningen.  </sup>  
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | Bouwvergunning  | ○ ja  | ○ nee  | --- | afgiftedatum: .....-.....-.......... (dd-mm-jj)  |
 | Milieuvergunning:  | ○ ja  | ○ nee  | ○ nvt  | afgiftedatum: .....-.....-.......... (dd-mm-jj)  |
 | Waterwetvergunning :  <sup> 8   De Waterwet is op 1 januari 2010 in werking getreden en vervangt de Wet beheer rijkswaterstaatwerken. Het is mogelijk dat voor uw project een Wbr-vergunning is verleend. In dat geval vult u de afgiftedatum van de Wbr-vergunning in.    </sup> | ○ ja  | ○ nee  | ○ nvt  | afgiftedatum: .....-.....-.......... (dd-mm-jj)  |
 
-*Let op*: Als bijlage bij deze aanvraag moet u een kopie van de benodigde vergunningen meesturen. * Wanneer het project niet milieuvergunningplichtig is, moet u aangeven of het een Type inrichting A of B betreft volgens het [Besluit algemene regels voor inrichtingen milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) (BARIM). Zie voor verdere informatie hierover de Activiteitenbesluit Internet Module (aim.vrom.nl).  
+*Let op*: Als bijlage bij deze aanvraag moet u een kopie van de benodigde vergunningen meesturen. * Wanneer het project niet milieuvergunningplichtig is, moet u aangeven of het een Type inrichting A of B betreft volgens het Activiteitenbesluit milieubeheer. Zie voor verdere informatie hierover de Activiteitenbesluit Internet Module (aim.vrom.nl).  
 
 f.  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Is de aanvrager tevens eigenaar of pachter/ gebruiker van de grond waar de productie-installatie geplaatst wordt?  | ○ ja  | ○ nee  |
 
 Indien de aanvrager niet de eigenaar of pachter/ gebruiker van de grond is moet u een bijlage meesturen met daarin een aparte verklaring ondertekend door de eigenaar of pachter/gebruiker dat u op de aangegeven locatie de productie-installatie mag plaatsen en exploiteren of anderszins een onderbouwing dat u de installatie op de aangegeven locatie tijdig in gebruik kunt nemen.  
@@ -799,32 +799,32 @@ i. Wat is de verwachte nettoproductie die u gaat invoeden op het elektriciteitsn
 a.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Beoogde datum van opdrachtverstrekking van de windturbine:  | .....-.....-.......... (dd-mm-jj)  |
 
 b.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Beoogde startdatum van de bouw van de windturbine:  | .....-.....-.......... (dd-mm-jj)  |
 
 c.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Beoogde datum ingebruikname:  | .....-.....-.......... (dd-mm-jj)  |
 
 d.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Datum vanaf wanneer u SDE-subsidie wilt ontvangen:  | .....-.....-.......... (dd-mm-jj)  |
 | (De subsidieperiode begint op de eerste van de maand)  | --- |
 
 e.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Projectplan: Geef in aanvulling op de bovengenoemde data een toelichting op de stappen die u neemt om te komen tot de ingebruikname van de installatie. Indien u schrijfruimte tekort komt kunt u het projectplan als aparte bijlage meesturen.  | 01 -.....-.......... (dd-mm-jj)  |
 | .....  | --- |
 | .....  | --- |
@@ -838,7 +838,7 @@ e.
 Maakt u voor deze windturbine(s) gebruik van, of heeft u in het verleden gebruik gemaakt van, of gaat u nog gebruik maken van, de volgende subsidies:  
 
 | Regeling  | ja/nee/niet van toepassing <sup>1</sup>  | Meldingsnummer  | Status aanvraag  [aangevraagd/beschikt/uitbetaald] <sup>1</sup>  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | MEP  | --- | --- | --- |
 | KV-MEP  (kostenvergoeding)  | --- | --- | --- |
 | SDE  (anders dan deze aanvraag)  | --- | --- | --- |
@@ -861,7 +861,7 @@ Zijn er nog andere gegevens, die voor de aanvraag van belang kunnen zijn?
 
 Door het invullen en ondertekenen van deze verklaring verklaart u: 
 
-a. Dat u bekend bent met de inhoud van de voor deze aanvraag relevante verplichtingen en bepalingen uit het [Besluit stimulering duurzame energieproductie](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) en de ministeriële regelingen.  
+a. Dat u bekend bent met de inhoud van de voor deze aanvraag relevante verplichtingen en bepalingen uit het Besluit stimulering duurzame energieproductie en de ministeriële regelingen.  
 
 b. Dat voor de productie-installatie waarvoor u SDE-subsidie aanvraagt, niet eerder SDE- of MEP-subsidie is verleend; ; <sup> 10  De definitie van dezelfde productie-installatie staat in de Algemene uitvoeringsregeling van de Stimuleringsregeling duurzame energieproductie (zie ook www.agentschapnl.nl/sde).  </sup>  
 
@@ -892,7 +892,7 @@ f. Dat u akkoord gaat met het uitwisselen van alle noodzakelijke gegevens voor s
 g. Dat deze verklaring juist, volledig en waarheidsgetrouw is ingevuld.   Dit formulier moet worden ondertekend door de aanvrager. Indien dit formulier wordt ondertekend door *een ander* dan de aanvrager moet een machtiging van de aanvrager worden bijgevoegd. Bij een machtiging kunt u aangeven dat deze geldt voor de gehele looptijd van het SDE-traject van de betreffende installatie. Aldus naar waarheid ingevuld,  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Naam ondertekenaar: .....  | ○ Dhr  | ○ Mw  |
 | Plaats: .....  | --- | --- |
 | Datum: .....  | --- | --- |
@@ -904,7 +904,7 @@ Bij dit aanvraagformulier moet u de volgende bijlagen meesturen:
 
 * Indien sprake is van een VOF, CV of Maatschap: een machtiging of ondertekening van alle maten of vennoten;  
 
-* Indien voor de productie-installatie één of meer vergunningen op grond van de [Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md), de [Wet Milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), de [Waterwet](../../../../../../../../wet/waterwet/BWBR0025458/README.md) of de [Wet op de Ruimtelijke Ordening](../../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md) zijn vereist, kopieën van de door het bevoegde gezag verleende vergunningen (zie ook vraag 4);  
+* Indien voor de productie-installatie één of meer vergunningen op grond van de Woningwet, de Wet Milieubeheer, de Waterwet of de Wet op de Ruimtelijke Ordening zijn vereist, kopieën van de door het bevoegde gezag verleende vergunningen (zie ook vraag 4);  
 
 * Indien de aanvrager niet de eigenaar of pachter/ gebruiker van de grond is: een aparte verklaring ondertekend door de eigenaar of pachter/ gebruiker dat u de productie-installatie op de aangegeven plaats mag plaatsen en exploiteren of anderszins een onderbouwing dat u de installatie op de aangegeven locatie tijdig in gebruik kunt nemen (zie ook vraag 4);  
 
@@ -947,17 +947,17 @@ Dit aanvraagformulier hoort bij de Stimuleringsregeling Duurzame Energieproducti
 Voor het indienen van een *gebundelde* aanvraag voor meerdere zon-PV-installaties is zowel digitaal als in pdf of op papier een apart formulier beschikbaar. U kunt een pdf of een print van de zon-PV formulieren aanvragen bij de helpdesk van de SDE. Deze is op werkdagen te bereiken van 8.30–12.00 uur op telefoonnummer 038 455 34 50. U kunt ook een e-mail sturen naar sde@agentschapnl.nl. Waar u schrijfruimte tekort komt mag u een bijlage toevoegen.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | *Let op:* bovengenoemde categorieën worden in 2010 niet tegelijkertijd opengesteld.  |
 | •  | Zon-PV met een opgesteld vermogen groter dan of gelijk aan 1,0 kWp (kilowatt-piek) en kleiner dan of gelijk aan 15 kWp wordt opengesteld van *1 maart tot en met 1 november 2010*  |
 | •  | Zon-PV met een opgesteld vermogen groter dan 15 kWp (kilowatt-piek) en kleiner dan of gelijk aan 100 kWp wordt opengesteld van *31 mei tot en met 1 november 2010*.  Voor digitale aanvragen zon-PV met een opgesteld vermogen groter dan 15 kWp (kilowatt-piek) en kleiner dan of gelijk aan 100 kWp is voor-indiening mogelijk. Dat betekent dat digitale aanvragen ingediend via www.agentschapnl.nl/sde in de periode van 18 mei tot en met 30 mei 2010 worden beschouwd als zijnde ontvangen op 31 mei 2010.  |
 
-![246524](http://wetten.overheid.nl/Illustration/246524)
-![246524](http://wetten.overheid.nl/Illustration/246524)
-![246524](http://wetten.overheid.nl/Illustration/246524)
-![246524](http://wetten.overheid.nl/Illustration/246524)
-![246524](http://wetten.overheid.nl/Illustration/246524)
-![246524](http://wetten.overheid.nl/Illustration/246524)
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ### Bijlage  3  
 
@@ -972,7 +972,7 @@ Voor het indienen van een *gebundelde* aanvraag voor meerdere zon-PV-installatie
 U kunt uw subsidieaanvraag ook digitaal bij Agentschap NL indienen. Kijk op www.agentschapnl.nl/sde voor meer informatie.  
 
 | --- |
-|:---|
+|---|
 |  *Dit formulier uitsluitendgebruiken als u een gebundelde aanvraag wilt doen voor meerdere zon-PV-installaties uit dezelfde categorie*   |
 |  *Maak bij een enkelvoudige aanvraag voor één zon-PV-installatie gebruik van het ‘aanvraagformulier fotovoltaïsche zonnepanelen (zon-PV)’.*   |
 
@@ -993,18 +993,18 @@ Dit formulier is *specifiek* bedoeld voor subsidieaanvragen in één van bovenge
 Voor het indienen van een *enkelvoudige* aanvraag voor één zon-PV-installatie is zowel digitaal als in pdf of op papier een apart formulier beschikbaar. U kunt een pdf of een print van de zon_PV aanvraagformulieren aanvragen bij de helpdesk van de SDE. Deze is op werkdagen te bereiken van 8.30 - 12.00 uur op telefoonnummer 038 455 34 50. U kunt ook een e-mail sturen naar sde@agentschapnl.nl.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | *Let op*: bovengenoemde categorieën worden in 2010 niet tegelijkertijd opengesteld  |
 | •  | Zon-PV met een opgesteld vermogen groter dan of gelijk aan 1,0 kWp (kilowatt-piek) en kleiner dan of gelijk aan 15 kWp wordt opengesteld van *1 maart tot en met 1 november 2010*  |
 | •  | Zon-PV met een opgesteld vermogen groter dan 15 kWp (kilowatt-piek) en kleiner dan of gelijk aan 100 kWp wordt opengesteld van 3 *1 mei tot en met 1 november 2010*  |
 | --- | Voor digitale aanvragen zon-PV met een opgesteld vermogen groter dan 15 kWp (kilowatt-piek) en kleiner dan of gelijk aan 100 kWp is voor-indiening mogelijk. Dat betekent dat digitale aanvragen ingediend via www.agentschapnl.nl/sde in de periode van 18 mei tot en met 30 mei 2010 worden beschouwd als zijnde ontvangen op 31 mei 2010.  |
 
-![246531](http://wetten.overheid.nl/Illustration/246531)
-![246531](http://wetten.overheid.nl/Illustration/246531)
-![246531](http://wetten.overheid.nl/Illustration/246531)
-![246531](http://wetten.overheid.nl/Illustration/246531)
-![246531](http://wetten.overheid.nl/Illustration/246531)
-![246531](http://wetten.overheid.nl/Illustration/246531)
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ### Bijlage  4  
 
@@ -1111,7 +1111,7 @@ e. Kadastrale aanduiding indien het adres nog onbekend is: .....
 a.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Het project betreft:  | ○ productie van hernieuwbare *elektriciteit*  |
 | --- | ○ productie van hernieuwbaar *gas*  |
 
@@ -1138,7 +1138,7 @@ d. Wat is het nominaal vermogen waarvoor u subsidie aanvraagt? <sup> 3  Onder he
 e. Is in het project sprake van:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | • Uitbreiding van een bestaande productie-installatie?  | ○ ja  | ○ nee  |
 | • Renovatie van een bestaande productie-installatie?  | ○ ja  | ○ nee  |
 | • Vervanging van een bestaande productie-installatie?  | ○ ja  | ○ nee  |
@@ -1149,7 +1149,7 @@ Indien u één of meer van de vragen met ‘ja’ heeft beantwoord, dan moet uit
 f. Welke vergunningen zijn noodzakelijk voor de realisatie van het project ?: <sup> 4  In artikel 56 van het Besluit stimulering duurzame energieproductie is aangegeven dat de aanvraag vergezeld moet gaan van een kopie van de door het bevoegde gezag verleende vergunningen.  </sup>  
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | Bouwvergunning:  | ○ ja  | ○ nee  | --- | afgiftedatum: .....-.....-.......... (dd-mm-jj)  |
 | Milieuvergunning:  | ○ ja  | ○ nee  | ○ nvt .....  | afgiftedatum: .....-.....-.......... (dd-mm-jj)  |
 
@@ -1158,7 +1158,7 @@ f. Welke vergunningen zijn noodzakelijk voor de realisatie van het project ?: <s
 g.  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Is de aanvrager tevens eigenaar of pachter/ gebruiker van de grond waar de productie-installatie geplaatst wordt?  | ○ ja  | ○ nee  |
 
 Indien de aanvrager niet de eigenaar of pachter/gebruiker van de grond is moet u een bijlage meesturen met daarin een aparte verklaring ondertekend door de eigenaar of pachter/ gebruiker dat u op de aangegeven plaats de productie-installatie mag plaatsen en exploiteren of anderszins een onderbouwing dat u de installatie op de aangegeven locatie tijdig in gebruik kunt nemen.  
@@ -1166,7 +1166,7 @@ Indien de aanvrager niet de eigenaar of pachter/gebruiker van de grond is moet u
 h. Geef in onderstaande tabel een beschrijving van de energiebron of brandstofsoort die gebruikt wordt voor de productie van hernieuwbare energie: dat wil zeggen de biomassastromen die de vergister, verbrander etc. ingaan. Geef hierbij ook de tonnages per brandstofsoort op.  
 
 | Biomassastroom  | Ton/jaar  |
-|:---|:---|
+|---|---|
 | --- | --- |
 | --- | --- |
 | --- | --- |
@@ -1184,7 +1184,7 @@ k. Wat is de verwachte nettoproductie die u gaat invoeden op het elektriciteits-
 
 l. Wat is de verwachte jaarlijkse hoeveelheid nuttig aangewende warmte? .....GJ De productieraming van warmte hoeft alleen aangegeven te worden bij opwekking van hernieuwbare elektriciteit met co-vergisting van mest, GFT-vergisting of thermische conversie van vaste of vloeibare biomassa, waarbij het basisbedrag afhankelijk is van de hoeveelheid nuttige aangewende warmte . <sup> 6  De definitie van nuttig aangewende warmte staat in artikel 1 van de Regeling garanties van oorsprong voor duurzame elektriciteit zoals die luidde op 1 april 2009. Deze publicatie kunt u vinden op www.agentschapnl.nl.  </sup> Uw beschikking wordt gebaseerd op de hoeveelheid hernieuwbare elektriciteit of gas die wordt ingevoed op het elektriciteits- of gasnet rekening houdende met het maximum aantal vollasturen. Deze geraamde hoeveelheid kan niet later worden verhoogd voor deze aanvraag. In een bijlage dient u een onderbouwing mee te sturen van de opgegeven productiehoeveelheden van vraag 4i–4l. Hierin moet worden aangegeven hoe de biomassastromen leiden tot de hoeveelheid biogas bij vergisting en hoe de biomassastromen of het biogas leiden tot de hoeveelheid elektriciteit of hernieuwbaar gas dat aan het net wordt geleverd. Bij het nuttige warmtegebruik dient u per maand aan te geven hoeveel warmte en aan welke warmtegebruikers de warmte geleverd wordt. Onderstaande vraag (4m) hoeft u alleen te beantwoorden als bij de categorie, zoals u hebt ingevuld bij vraag 4b, in de Regeling aanwijzing categorieën duurzame energieproductie 2010 is aangegeven, dat voor het project verschillende basisbedragen gelden, afhankelijk van het rendement van de productie-installatie. Dit geldt bij afvalverbrandingsinstallaties.  
 
-m. Geef een onderbouwde raming van het rendement van de installatie. Indien in de [Regeling garanties van oorsprong voor duurzame elektriciteit](../../../../../../../../ministeriele-regeling/regeling/garanties/van/oorsprong/voor/duurzame/elektriciteit/BWBR0016021/README.md) wordt verwezen naar rekenregels voor het bepalen van het rendement dan moet u deze rekenregels in uw onderbouwing hanteren. ..... ..... ..... ..... .....    
+m. Geef een onderbouwde raming van het rendement van de installatie. Indien in de Regeling garanties van oorsprong voor duurzame elektriciteit wordt verwezen naar rekenregels voor het bepalen van het rendement dan moet u deze rekenregels in uw onderbouwing hanteren. ..... ..... ..... ..... .....    
 
 ### 5  
 
@@ -1193,25 +1193,25 @@ m. Geef een onderbouwde raming van het rendement van de installatie. Indien in d
 a.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Beoogde datum van opdrachtverstrekking:  | .....-.....-.......... (dd-mm-jj)  |
 
 b.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Beoogde startdatum van de bouw van de productie-installatie:  | .....-.....-.......... (dd-mm-jj)  |
 
 c.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Beoogde datum ingebruikname:  | .....-.....-.......... (dd-mm-jj)  |
 
 d.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Datum vanaf wanneer u SDE-subsidie wilt ontvangen:  | 01 -.....-.......... (dd-mm-jj)  |
 
 (De subsidieperiode start altijd op de eerste van de maand)  
@@ -1231,7 +1231,7 @@ In een bijlage moet u een onderbouwing meesturen waaruit blijkt dat het project 
 Maakt u voor deze installatie(s) gebruik van, of heeft u in het verleden gebruik gemaakt van, of gaat u nog gebruik maken van, de volgende subsidies:  
 
 | Regeling  | ja/nee/niet van toepassing <sup>1</sup>  | Meldingsnummer  | Status aanvraag [aangevraagd/beschikt/uitbetaald] <sup>1</sup>  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | MEP  | --- | --- | --- |
 | OV-MEP  | --- | --- | --- |
 | KV-MEP  (kostenvergoeding)  | --- | --- | --- |
@@ -1255,9 +1255,9 @@ Zijn er nog andere gegevens, die voor de aanvraag van belang kunnen zijn?
 
 Door het invullen en ondertekenen van deze verklaring verklaart u: 
 
-a. Dat u bekend bent met de inhoud van de voor deze aanvraag relevante verplichtingen en bepalingen uit het [Besluit stimulering duurzame energieproductie](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) en de ministeriële regelingen;  
+a. Dat u bekend bent met de inhoud van de voor deze aanvraag relevante verplichtingen en bepalingen uit het Besluit stimulering duurzame energieproductie en de ministeriële regelingen;  
 
-b. Dat voor de productie-installatie waarvoor u SDE-subsidie aanvraagt, niet eerder SDE-, OV-MEP- ([regeling opwekken duurzame elektriciteit in vergistingsinstallaties](../../../../../../../../ministeriele-regeling/subsidieregeling/opwekken/duurzame/elektriciteit/in/etc/BWBR0023773/README.md)) of MEP-subsidie is verleend; <sup> 8  De definitie van dezelfde productie-installatie staat in de Algemene uitvoeringsregeling van de SDE (zie www.senternovem.nl/sde).  </sup>  
+b. Dat voor de productie-installatie waarvoor u SDE-subsidie aanvraagt, niet eerder SDE-, OV-MEP- (regeling opwekken duurzame elektriciteit in vergistingsinstallaties) of MEP-subsidie is verleend; <sup> 8  De definitie van dezelfde productie-installatie staat in de Algemene uitvoeringsregeling van de SDE (zie www.senternovem.nl/sde).  </sup>  
 
 c. Dat u voor de productie-installatie waarvoor u SDE-subsidie aanvraagt in dezelfde aanvraagperiode maar één aanvraag indient;  
 
@@ -1286,7 +1286,7 @@ f. Dat u akkoord gaat met het uitwisselen van alle noodzakelijke gegevens voor s
 g. Dat deze verklaring juist, volledig en waarheidsgetrouw is ingevuld.   Dit formulier moet worden ondertekend door de aanvrager. Indien dit formulier wordt ondertekend door *een ander* dan de aanvrager moet een machtiging van de aanvrager worden bijgevoegd. Bij een machtiging kunt u aangeven dat deze geldt voor de gehele looptijd van het SDE-traject van de betreffende installatie. Aldus naar waarheid ingevuld,  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Naam ondertekenaar: .....  | ○ Dhr  | ○ Mw  |
 | Plaats: .....  | --- | --- |
 | Datum: .....  | --- | --- |
@@ -1300,7 +1300,7 @@ Bij dit aanvraagformulier moet u de volgende bijlagen meesturen:
 
 * Indien van toepassing: Een omschrijving van de productie-installatie, zoals vermeld bij vraag 4;  
 
-* Indien voor de productie-installatie één of meer vergunningen op grond van de [Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md) of de [Wet Milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) noodzakelijk zijn kopieën van de door het bevoegde gezag verleende vergunningen. (zie ook vraag 4);  
+* Indien voor de productie-installatie één of meer vergunningen op grond van de Woningwet of de Wet Milieubeheer noodzakelijk zijn kopieën van de door het bevoegde gezag verleende vergunningen. (zie ook vraag 4);  
 
 * Indien de aanvrager niet de eigenaar of pachter/ gebruiker van de grond is: een aparte verklaring ondertekend door de eigenaar of pachter/ gebruiker dat u op de aangegeven plaats de productie-installatie mag plaatsen en exploiteren of anderszins een onderbouwing dat u de installatie op de aangegeven locatie tijdig in gebruik kunt nemen. (zie ook vraag 4);  
 
@@ -1416,7 +1416,7 @@ e. Kadastrale aanduiding indien het adres nog onbekend is: .....
 f.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | EAN-code aansluitpunt :  <sup> 3   Dit dient dezelfde code te zijn als de code waarop garanties van oorsprong of certificaten worden geregistreerd.    </sup> | □□□□□□□□□□□□□□□□□□  |
 | --- | ○ nog niet bekend  |
 
@@ -1439,7 +1439,7 @@ d. Wat is het nominaal vermogen waarvoor u subsidie aanvraagt? : ..... MW <sub>e
 e. Is in het project sprake van:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | • Uitbreiding van een bestaande productie-installatie?  | ○ ja  | ○ nee  |
 | • Renovatie van een bestaande productie-installatie?  | ○ ja  | ○ nee  |
 | • Vervanging van een bestaande productie-installatie?  | ○ ja  | ○ nee  |
@@ -1450,7 +1450,7 @@ Indien u één of meer van de vragen met ‘ja’ heeft beantwoord, dan moet uit
 f. Welke vergunningen zijn noodzakelijk voor de realisatie van het project? : <sup> 6  In artikel 56 van het Besluit stimulering duurzame energieproductie is aangegeven dat de aanvraag vergezeld moet gaan van een kopie van de door het bevoegde gezag verleende vergunningen.  </sup>  
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | Bouwvergunning:  | ○ ja  | ○ nee  | --- | afgiftedatum: .....-.....-.......... (dd-mm-jj)  |
 | Milieuvergunning:  | ○ ja  | ○ nee  | ○ nvt  | afgiftedatum: .....-.....-.......... (dd-mm-jj)  |
 | Waterwetvergunning :  <sup> 7   De Waterwet is op 1 januari 2010 in werking getreden en vervangt de Wet beheer rijkswaterstaatwerken. Het is mogelijk dat voor uw project een Wbr-vergunning is verleend. In dat geval vult u de afgiftedatum van de Wbr-vergunning in.    </sup> | ○ ja  | ○ nee  | ○ nvt  | afgiftedatum: .....-.....-.......... (dd-mm-jj)  |
@@ -1461,7 +1461,7 @@ f. Welke vergunningen zijn noodzakelijk voor de realisatie van het project? : <s
 g.  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Is de aanvrager tevens eigenaar of pachter/ gebruiker van de plek waar de productie-installatie geplaatst wordt?  | ○ ja  | ○ nee  |
 
 Indien de aanvrager niet de eigenaar of pachter/ gebruiker van de plek is moet u een bijlage meesturen met daarin een aparte verklaring ondertekend door de eigenaar of pachter/ gebruiker dat u de productie-installatie op de aangegeven plaats mag plaatsen en exploiteren.  
@@ -1479,25 +1479,25 @@ j. Wat is de verwachte nettoproductie die u gaat invoeden op het elektriciteitsn
 a.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Beoogde datum van opdrachtverstrekking:  | .....-.....-.......... (dd-mm-jj)  |
 
 b.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Beoogde startdatum van de bouw van de productie-installatie:  | .....-.....-.......... (dd-mm-jj)  |
 
 c.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Beoogde datum ingebruikname:  | .....-.....-.......... (dd-mm-jj)  |
 
 d.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Datum vanaf wanneer u SDE-subsidie wilt ontvangen:  | 01 -.....-.......... (dd-mm-jj)  |
 
 (De subsidieperiode start altijd op de eerste van de maand.)  
@@ -1511,7 +1511,7 @@ e. Projectplan: Geef in aanvulling op de bovengenoemde data een toelichting op d
 Maakt u voor deze waterkrachtinstallatie gebruik van, of heeft u in het verleden gebruik gemaakt van, of gaat u nog gebruik maken van de volgende subsidies:  
 
 | Regeling  | ja/nee/niet van toepassing <sup>1</sup>  | Meldingsnummer  | Status aanvraag [aangevraagd/beschikt/uitbetaald] <sup>1</sup>  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | MEP  | --- | --- | --- |
 | KV-MEP  (kostenvergoeding)  | --- | --- | --- |
 | SDE  (anders dan deze aanvraag)  | --- | --- | --- |
@@ -1534,7 +1534,7 @@ Zijn er nog andere gegevens die voor de aanvraag van belang kunnen zijn?
 
 Door het invullen en ondertekenen van deze verklaring verklaart u: 
 
-a. Dat u bekend bent met de inhoud van de voor deze aanvraag relevante verplichtingen en bepalingen uit het [Besluit stimulering duurzame energieproductie](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) en de ministeriële regelingen;  
+a. Dat u bekend bent met de inhoud van de voor deze aanvraag relevante verplichtingen en bepalingen uit het Besluit stimulering duurzame energieproductie en de ministeriële regelingen;  
 
 b. Dat voor de productie-installatie waarvoor u SDE-subsidie aanvraagt, niet eerder SDE- of MEP-subsidie is verleend; <sup> 9  De definitie van dezelfde productie-installatie staat in de Algemene uitvoeringsregeling van de Stimuleringsregeling Duurzame Energieproductie (zie ook www.agentschapnl.nl/sde).  </sup>  
 
@@ -1565,7 +1565,7 @@ f. Dat u akkoord gaat met het uitwisselen van alle noodzakelijke gegevens voor s
 g. Dat deze verklaring juist, volledig en waarheidsgetrouw is ingevuld.   Dit formulier moet worden ondertekend door de aanvrager. Indien dit formulier wordt ondertekend door *een ander* dan de aanvrager moet een machtiging van de aanvrager worden bijgevoegd. Bij een machtiging kunt u aangeven, dat deze geldt voor de gehele looptijd van het SDE-traject van de betreffende installatie. Aldus naar waarheid ingevuld,  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Naam ondertekenaar: .....  | ○ Dhr  | ○ Mw  |
 | Plaats: .....  | --- | --- |
 | Datum: .....  | --- | --- |
@@ -1579,7 +1579,7 @@ Bij dit aanvraagformulier moet u de volgende bijlagen meesturen:
 
 * Een onderbouwing van de elektriciteitsproductie van de waterkrachtinstallatie per kalenderjaar in de periode waarover subsidie wordt verstrekt, zoals vermeld bij vraag 4; Deze moet exclusief de hoeveelheid elektriciteit zijn die is opgewekt met water dat eerder specifiek is omhoog is gepompt ten behoeve van elektriciteitsproductie;  
 
-* Indien voor de productie-installatie één of meer vergunningen op grond van de [Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md), de [Wet Milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), de [Waterwet](../../../../../../../../wet/waterwet/BWBR0025458/README.md) of de [Wet op de Ruimtelijke Ordening](../../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md) zijn vereist, kopieën van de door het bevoegde gezag verleende vergunningen (zie ook vraag 4);  
+* Indien voor de productie-installatie één of meer vergunningen op grond van de Woningwet, de Wet Milieubeheer, de Waterwet of de Wet op de Ruimtelijke Ordening zijn vereist, kopieën van de door het bevoegde gezag verleende vergunningen (zie ook vraag 4);  
 
 * Indien de aanvrager niet de eigenaar of pachter/ gebruiker van de grond is: een aparte verklaring ondertekend door de eigenaar of pachter/ gebruiker dat u op de aangegeven plaats de productie-installatie mag plaatsen en exploiteren (zie ook vraag 4);  
 
@@ -1689,7 +1689,7 @@ e. Kadastrale aanduiding indien het adres nog onbekend is: .....
 f.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | EAN-code aansluitpunt :  <sup> 4   Dit dient dezelfde code te zijn als de code waarop garanties van oorsprong of certificaten worden geregistreerd of het hernieuwbare gas wordt gemeten.    </sup> | □□□□□□□□□□□□□□□□□□  |
 | --- | ○ nog niet bekend  |
 
@@ -1702,14 +1702,14 @@ a. Technische gegevens van de warmtekrachtkoppeling met een vermogen groter dan 
 *  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Bestaat de warmtekrachtkoppeling uit één of meerdere gasturbines?  | ○ ja  | ○ nee  |
 | Bestaat de warmtekrachtkoppeling uit één of meerdere stoomturbines?  | ○ ja  | ○ nee  |
 
 *  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Wat is de samenstelling van de brandstof aangeven in percentages op basis van de calorische onderwaarde van de brandstof?  |
 | Aardgas  | .....%  |
 | Overig 1, namelijk .....  | .....%  |
@@ -1720,7 +1720,7 @@ a. Technische gegevens van de warmtekrachtkoppeling met een vermogen groter dan 
 * Wat is het nominale elektrische vermogen van de gasturbine(s)? <sup> 5  Onder het opgesteld nominaal vermogen voor het leveren van elektrische energie wordt verstaan: het maximale vermogen (van een productie-eenheid) uitgedrukt in Watt dat onder nominale condities benut kan worden voor het leveren van elektrische energie. Het opgesteld nominaal vermogen geeft de 'name plate capacity' weer van de productie-eenheid en is zodoende een statisch getal.  </sup>  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | gasturbine 1 .....MWe  | gasturbine 2 .....We  | gasturbine 3 .....MWe  |
 | gasturbine 4 .....MWe  | gasturbine 5 .....MWe  | gasturbine 6 .....MWe  |
 | Wat is het nominale elektrische vermogen van de stoomturbine(s)?  |
@@ -1732,7 +1732,7 @@ b. Wat zijn de condities van de warmtekrachtkoppeling in vollastbedrijf?
 *  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Is het opgesteld elektrisch vermogen nieuw vermogen  | ○ ja  | ○ nee  |
 
 * Totaal opgesteld elektrisch vermogen .....MWe  
@@ -1776,7 +1776,7 @@ e. Het rendement van de warmtekrachtinstallatie in vollastbedrijf:
 f. Welke vergunningen zijn noodzakelijk voor de realisatie van het project? : <sup> 6  In artikel 56 van het besluit SDE is aangegeven dat de aanvraag vergezeld moet gaan van een kopie van de door het bevoegde gezag verleende vergunningen.  </sup>  
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | Bouwvergunning:  | ○ ja  | ○ nee  | --- | afgiftedatum: .....-.....-.......... (dd-mm-jj)  |
 | Milieuvergunning:  | ○ ja  | ○ nee  | ○ nvt ....  <sup> 7   Wanneer in plaats van een nieuwe milieuvergunning kan worden volstaan met een melding voor het realiseren van de installatie dient deze melding met een verklaring (acceptatie) van het bevoegd gezag en de vigerende milieuvergunning als bijlage te worden bijgevoegd.    </sup> | afgiftedatum: .....-.....-.......... (dd-mm-jj)  |
 | Waterwetvergunning :  <sup> 8   De Waterwet is op 1 januari 2010 in werking getreden en vervangt de Wet beheer rijkswaterstaatwerken. Het is mogelijk dat voor uw project een Wbr/vergunning is verleend. Indien dat het geval is vult u de afgiftedatum van de Wbr-vergunning in.    </sup> | ○ ja  | ○ nee  | ○ nvt  | afgiftedatum: .....-.....-.......... (dd-mm-jj)  |
@@ -1788,7 +1788,7 @@ g. Wat is de verwachte totale elektriciteitsproductie van uw installatie per kal
 
 h. Eigen verbruik van de warmtekrachtkoppeling: Hoeveel van de te produceren elektriciteit verwacht u zelf te gebruiken voor de warmtekrachtkoppeling per jaar? ..... MWh  
 
-i. Wat is de verwachte jaarlijkse hoeveelheid nuttig gebruikte warmte? .....GJ   Het aantal subsidiabele vollasturen is gemaximeerd op 5900 per jaar. De werkelijke elektriciteitsproductie kan dus hoger zijn. In een bijlage dient u een onderbouwing mee te sturen van de elektriciteits- en warmteproductie. Indien sprake is van een startdatum gedurende het jaar wordt de jaarproductie naar rato verdeeld, tenzij u in een bijlage een andere gewenste verdeling aangeeft. Uw beschikking wordt gebaseerd op de gegevens die u heeft ingevuld bij vragen g, h en i. Op basis van het rendement van de warmtekrachtinstallatie en de geraamde productie van warmte en elektriciteit wordt bepaald hoeveel elektriciteitsproductie maximaal kan worden gesubsidieerd op basis van de [Regeling certificaten warmtekrachtkoppeling Elektriciteitswet 1998](../../../../../../../../ministeriele-regeling/regeling/certificaten/warmtekrachtkoppeling/elektriciteitswet/1998/BWBR0015182/README.md).  
+i. Wat is de verwachte jaarlijkse hoeveelheid nuttig gebruikte warmte? .....GJ   Het aantal subsidiabele vollasturen is gemaximeerd op 5900 per jaar. De werkelijke elektriciteitsproductie kan dus hoger zijn. In een bijlage dient u een onderbouwing mee te sturen van de elektriciteits- en warmteproductie. Indien sprake is van een startdatum gedurende het jaar wordt de jaarproductie naar rato verdeeld, tenzij u in een bijlage een andere gewenste verdeling aangeeft. Uw beschikking wordt gebaseerd op de gegevens die u heeft ingevuld bij vragen g, h en i. Op basis van het rendement van de warmtekrachtinstallatie en de geraamde productie van warmte en elektriciteit wordt bepaald hoeveel elektriciteitsproductie maximaal kan worden gesubsidieerd op basis van de Regeling certificaten warmtekrachtkoppeling Elektriciteitswet 1998.  
 
 ### 5  
 
@@ -1803,25 +1803,25 @@ U dient hieronder het kortingspercentage aan te geven dat u wilt toepassen bij d
 a.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Beoogde datum van opdrachtverstrekking van de warmtekrachtkoppeling:  | .....-.....-.......... (dd-mm-jj)  |
 
 b.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Beoogde startdatum van de bouw van de warmtekrachtkoppeling:  | .....-.....-.......... (dd-mm-jj)  |
 
 c.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Beoogde datum ingebruikname:  | .....-.....-.......... (dd-mm-jj)  |
 
 d.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Datum vanaf wanneer u SDE-subsidie wilt ontvangen:  | 01 -.....-.......... (dd-mm-jj)  |
 
 (De subsidieperiode start altijd op de eerste van de maand)  
@@ -1835,7 +1835,7 @@ e. Projectplan: Een plan voor het in gebruik nemen en exploiteren van de product
 a. Investeringskosten  
 
 | Component/onderdeel WKK  | Kosten (€ mln)  |
-|:---|:---|
+|---|---|
 | Warmte/kracht-installatie  | --- |
 | Bouwkundig  | --- |
 | Aansluitkosten op het net  | --- |
@@ -1848,7 +1848,7 @@ a. Investeringskosten
 b. Exploitatiekosten  
 
 | Component/onderdeel onderhoud warmte/kacht-installatie  | Kosten (€ mln)/jaar  |
-|:---|:---|
+|---|---|
 | Locatiekosten  (bijvoorbeeld pacht, monitorings-en evaluatieprogramma Wbr-vergunning, ontmantelingskosten, etc)  | --- |
 | Onderhoudskosten  | --- |
 | Management- en verzekeringskosten  | --- |
@@ -1877,14 +1877,14 @@ b. Exploitatiekosten
 c.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Zijn de onder a en b opgenomen kosten inclusief of exclusief BTW?  | ○ exclusief BTW  |
 | --- | ○ inclusief BTW  |
 
 d.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Kunt u BTW verrekenen?  | ○ ja  |
 | --- | ○ nee  |
 
@@ -1895,7 +1895,7 @@ d.
 Maakt u voor deze warmtekrachtkoppeling gebruik van, of heeft u in het verleden gebruik gemaakt van, of gaat u nog gebruik maken van, de volgende subsidies:  
 
 | Regeling  | ja/nee/niet van toepassing <sup>1</sup>  | Meldingsnummer  | Status aanvraag  [aangevraagd/beschikt/uitbetaald] <sup>1</sup>  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | MEP  | --- | --- | --- |
 | KV-MEP  (kostenvergoeding)  | --- | --- | --- |
 | SDE  (anders dan deze aanvraag)  | --- | --- | --- |
@@ -1920,7 +1920,7 @@ Zijn er nog andere gegevens die voor de aanvraag van belang kunnen zijn?
 
 Door het invullen en ondertekenen van deze verklaring verklaart u: 
 
-a. Dat u bekend bent met de inhoud van de voor deze aanvraag relevante verplichtingen en bepalingen uit het [Besluit stimulering duurzame energieproductie](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) en de ministeriële regelingen;  
+a. Dat u bekend bent met de inhoud van de voor deze aanvraag relevante verplichtingen en bepalingen uit het Besluit stimulering duurzame energieproductie en de ministeriële regelingen;  
 
 b. Dat voor de productie-installatie waarvoor u SDE-subsidie aanvraagt, niet eerder SDE- of MEP-subsidie is verleend ; <sup> 10  De definitie van dezelfde productie-installatie staat in de Algemene uitvoeringsregeling stimuleringsregeling duurzame energieproductie (zie www.agentschapnl.nl/sde).  </sup>  
 
@@ -1951,7 +1951,7 @@ f. Dat u akkoord gaat met het uitwisselen van alle noodzakelijke gegevens voor s
 g. Dat deze verklaring juist, volledig en waarheidsgetrouw is ingevuld.   Dit formulier moet worden ondertekend door de aanvrager. Indien dit formulier wordt ondertekend door *een ander* dan de aanvrager moet een machtiging van de aanvrager worden bijgevoegd. Bij een machtiging kunt u aangeven dat deze geldt voor de gehele looptijd van het SDE-traject van de betreffende installatie. Aldus naar waarheid ingevuld,  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Naam ondertekenaar: .....  | ○ Dhr  | ○ Mw  |
 | Plaats: .....  | --- | --- |
 | Datum: .....  | --- | --- |
@@ -1967,7 +1967,7 @@ Bij dit aanvraagformulier moet u de volgende bijlagen meesturen:
 
 * Een onderbouwing van de totale elektriciteitsproductie en productie van nuttig aan te wenden warmte van de warmtekrachtkoppeling per kalenderjaar in de periode waarover subsidie wordt verstrekt, zoals vermeld bij vraag 4;  
 
-* Indien voor de productie-installatie één of meer vergunningen op grond van de [Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md), de [Wet Milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), de [Waterwet](../../../../../../../../wet/waterwet/BWBR0025458/README.md) of de [Wet op de Ruimtelijke Ordening](../../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md) zijn vereist, kopieën van de door het bevoegde gezag verleende vergunningen (zie ook vraag 4);  
+* Indien voor de productie-installatie één of meer vergunningen op grond van de Woningwet, de Wet Milieubeheer, de Waterwet of de Wet op de Ruimtelijke Ordening zijn vereist, kopieën van de door het bevoegde gezag verleende vergunningen (zie ook vraag 4);  
 
 * Indien u schrijfruimte tekort kwam: een projectplan van de installatie als omschreven bij vraag 6;  
 

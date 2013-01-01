@@ -27,9 +27,9 @@ b. de door Onze Minister van Economische Zaken, Landbouw en Innovatie aangewezen
 
 3. levende en dode planten, daaronder begrepen delen en producten van planten, met uitzondering van de planten als bedoeld in de [artikelen 2](../../../../../wet/opiumwet/BWBR0001941/README.md) en [3 van de Opiumwet](../../../../../wet/opiumwet/BWBR0001941/README.md);  
 
-4. diergeneesmiddelen en gemedicineerde voeders als bedoeld in [artikel 1 van de Diergeneesmiddelenwet](../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md), kunstmeststoffen, diervoeders als bedoeld in [artikel 1, eerste lid, onder b, van de Kaderwet diervoeders](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md) en gewasbeschermingsmiddelen of biociden als bedoeld in [artikel 1, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden](../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md);    
+4. diergeneesmiddelen, diervoeders en diervoeders met medicinale werking als bedoeld in [artikel 1.1 van de Wet dieren](../../../../../wet/wet/dieren/BWBR0030250/README.md), kunstmeststoffen, alsmede gewasbeschermingsmiddelen of biociden als bedoeld in [artikel 1, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden](../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md);    
 
-c. de op grond van [artikel 47 van de Politiewet 1993](../../../../../wet/politiewet/1993/BWBR0006299/README.md) opgerichte voorziening tot samenwerking voor de bewaring van wapens en munitie in de zin van [artikel 2 van de Wet wapens en munitie](../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), alsmede de voorwerpen bedoeld in [artikel 3 van die wet](../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md);  
+c. een op grond van [artikel 25, eerste lid, onder c, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md) aangewezen ondersteunende dienst voor de bewaring van wapens en munitie in de zin van [artikel 2 van de Wet wapens en munitie](../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), alsmede de voorwerpen bedoeld in [artikel 3 van die wet](../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md);  
 
 d. de Koninklijke Nederlandse Munt N.V. voor de bewaring van inbeslaggenomen munten, welke vermoed worden vals, vervalst of geschonden te zijn;  
 
@@ -95,9 +95,9 @@ Voorwerpen die om bijzondere redenen niet kunnen worden opgeslagen in een onder 
 
 7°. gewasbeschermingsmiddelen of biociden als bedoeld in [artikel 1, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden](../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md);  
 
-8°. gemedicineerd voeder als bedoeld in [artikel 1 van de Diergeneesmiddelenwet](../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md);  
+8°. diervoeders met gemedicineerde werking als bedoeld in [artikel 1.1 van de Wet dieren](../../../../../wet/wet/dieren/BWBR0030250/README.md);  
 
-9° Diervoeders als bedoeld in [artikel 1, eerste lid, onder b, van de Kaderwet diervoeders](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md);  
+9°. diervoeders als bedoeld in [artikel 1.1 van de Wet dieren](../../../../../wet/wet/dieren/BWBR0030250/README.md);  
 
 10°. vuurwerk en andere snel ontvlambare of ontplofbare stoffen;  
 

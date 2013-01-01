@@ -19,7 +19,7 @@ Wijzigt de Wet financiële markten BES.
 
 ### Artikel  III  
 
-[Artikel 1:25c van de Wet op het financieel toezicht](../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is niet van toepassing op een handelen of nalaten van De Nederlandsche Bank N.V., de stichting Autoriteit Financiële Markten, de leden van hun organen en hun werknemers dat vóór het in werking treden van deze wet heeft plaatsgevonden.  
+[Artikel 1:25d van de Wet op het financieel toezicht](../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is niet van toepassing op een handelen of nalaten van De Nederlandsche Bank N.V., de stichting Autoriteit Financiële Markten, de leden van hun organen en hun werknemers dat vóór het in werking treden van deze wet heeft plaatsgevonden.  
 
 ### Artikel  IV  
 

@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Justitie;  
+a. Onze Minister: Onze Minister van Veiligheid en Justitie;  
 
 b. rechterlijke ambtenaren: de rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md);  
 
@@ -43,11 +43,11 @@ d. ten aanzien van de plaatsvervangend procureur-generaal, de advocaten-generaal
 
 e. ten aanzien van de rechterlijke ambtenaren die werkzaam zijn bij een arrondissementsparket, alsmede de rechterlijke ambtenaren in opleiding, voor zover de opleiding wordt doorgebracht bij een arrondissementsparket: het hoofd van dat arrondissementsparket;  
 
-f. ten aanzien van de rechterlijke ambtenaren die werkzaam zijn bij het landelijk parket: het hoofd van het landelijk parket;  
+f. ten aanzien van de rechterlijke ambtenaren die werkzaam zijn bij het landelijk parket, alsmede de rechterlijke ambtenaren in opleiding, voor zover de opleiding wordt doorgebracht bij het landelijk parket: het hoofd van het landelijk parket;  
 
-g. ten aanzien van de rechterlijke ambtenaren die werkzaam zijn bij het functioneel parket: het hoofd van het functioneel parket;  
+g. ten aanzien van de rechterlijke ambtenaren die werkzaam zijn bij het functioneel parket, alsmede de rechterlijke ambtenaren in opleiding, voor zover de opleiding wordt doorgebracht bij het functioneel parket: het hoofd van het functioneel parket;  
 
-h. ten aanzien van de rechterlijke ambtenaren die werkzaam zijn bij een ressortsparket: het hoofd van dat ressortsparket;  
+h. ten aanzien van de rechterlijke ambtenaren die werkzaam zijn bij het ressortsparket, alsmede de rechterlijke ambtenaren in opleiding, voor zover de opleiding wordt doorgebracht bij het ressortsparket: het hoofd van het ressortsparket;  
 
 i. ten aanzien van de hoofden van de in de onderdelen e tot en met h bedoelde parketten en de rechterlijke ambtenaren die werkzaam zijn bij het parket-generaal: het College van procureurs-generaal;  
 
@@ -78,10 +78,10 @@ k. ten aanzien van de rechterlijke ambtenaren in opleiding gedurende de buitenst
 ### Artikel  2  
 
 1.  De benoeming in het ambt van president van, vice-president van, raadsheer in of raadsheer in buitengewone dienst bij de Hoge Raad, senior raadsheer, raadsheer of raadsheer-plaatsvervanger in een gerechtshof, senior rechter A, senior rechter, rechter of rechter-plaatsvervanger in een rechtbank, of procureur-generaal, plaatsvervangend procureur-generaal, advocaat-generaal of advocaat-generaal in buitengewone dienst bij de Hoge Raad, geschiedt bij koninklijk besluit op voordracht van Onze Minister voor het leven.   
-2.  De benoeming in het ambt van procureur-generaal, deel uitmakend van het College van procureurs-generaal, hoofdadvocaat-generaal, plaatsvervangend hoofdadvocaat-generaal, senior advocaat-generaal of advocaat-generaal bij een ressortsparket of het parket-generaal, dan wel hoofdofficier, fungerend hoofdofficier, plaatsvervangend hoofdofficier, senior officier van justitie A, senior officier van justitie, officier van justitie of substituut-officier van justitie bij een arrondissementsparket, het landelijk parket, het functioneel parket of het parket-generaal geschiedt bij koninklijk besluit op voordracht van Onze Minister.   
-3.  De benoeming in het ambt van plaatsvervangend advocaat-generaal bij een ressortsparket of het parket-generaal, plaatsvervangend officier van justitie, officier enkelvoudige zittingen dan wel plaatsvervangend officier enkelvoudige zittingen geschiedt bij besluit van Onze Minister.   
-4.  In afwijking van het derde lid kan het College van procureurs-generaal een hoofdadvocaat-generaal, plaatsvervangend hoofdadvocaat-generaal, senior advocaat-generaal of advocaat-generaal bij een ressortsparket of het parket-generaal benoemen tot plaatsvervangend officier van justitie bij een arrondissementsparket, het landelijk parket, het functioneel parket of het parket-generaal.   
-5.  In afwijking van het derde lid kan het College van procureurs-generaal een hoofdofficier, fungerend hoofdofficier, plaatsvervangend hoofdofficier, senior officier van justitie A, senior officier van justitie, officier van justitie of substituut-officier van justitie bij een arrondissementsparket, het landelijk parket, het functioneel parket of het parket-generaal benoemen tot plaatsvervangend advocaat-generaal bij een ressortsparket of het parket-generaal.   
+2.  De benoeming in het ambt van procureur-generaal, deel uitmakend van het College van procureurs-generaal, landelijk hoofdadvocaat-generaal bij het ressortsparket, hoofdadvocaat-generaal, senior advocaat-generaal of advocaat-generaal bij het ressortsparket of het parket-generaal, dan wel hoofdofficier van justitie, plaatsvervangend hoofdofficier van justitie, senior officier van justitie A, senior officier van justitie, officier van justitie of substituut-officier van justitie bij een arrondissementsparket, het landelijk parket, het functioneel parket of het parket-generaal geschiedt bij koninklijk besluit op voordracht van Onze Minister.   
+3.  De benoeming in het ambt van plaatsvervangend advocaat-generaal bij het ressortsparket of het parket-generaal, plaatsvervangend officier van justitie, officier enkelvoudige zittingen dan wel plaatsvervangend officier enkelvoudige zittingen geschiedt bij besluit van Onze Minister.   
+4.  In afwijking van het derde lid kan het College van procureurs-generaal de landelijk hoofdadvocaat-generaal of een hoofdadvocaat-generaal, senior advocaat-generaal, advocaat-generaal of plaatsvervangend advocaat-generaal bij het ressortsparket of het parket-generaal benoemen tot plaatsvervangend officier van justitie bij een arrondissementsparket, het landelijk parket, het functioneel parket of het parket-generaal.   
+5.  In afwijking van het derde lid kan het College van procureurs-generaal een hoofdofficier van justitie, plaatsvervangend hoofdofficier van justitie, senior officier van justitie A, senior officier van justitie, officier van justitie, substituut-officieren van justitie of plaatsvervangend officier van justitie bij een arrondissementsparket, het landelijk parket, het functioneel parket of het parket-generaal benoemen tot plaatsvervangend advocaat-generaal bij het ressortsparket of het parket-generaal.   
 6.  De benoeming in het ambt van senior-gerechtsauditeur of gerechtsauditeur geschiedt bij besluit van Onze Minister, indien het een benoeming in tijdelijke dienst betreft, onderscheidenlijk bij koninklijk besluit op voordracht van Onze Minister, indien het een benoeming in vaste dienst betreft. Onze Minister benoemt niet onderscheidenlijk doet geen voordracht voor benoeming dan op voorstel van de betrokken functionele autoriteit.   
 7.  De benoeming in het ambt van griffier dan wel substituut-griffier van de Hoge Raad geschiedt bij koninklijk besluit op voordracht van Onze Minister.   
 8.  De benoeming in het ambt van rechterlijk ambtenaar in opleiding geschiedt bij besluit van Onze Minister.   
@@ -109,9 +109,9 @@ b. die op grond van het met goed gevolg afleggen van het afsluitend examen van e
 ### Artikel  5b  
 
 1.  In geval van benoeming van een rechterlijk ambtenaar in een bij een gerechtshof of rechtbank te vervullen ambt als bedoeld in artikel 2, eerste en zesde lid, wordt bij besluit van de Raad voor de rechtspraak, overeenkomstig de aanbeveling van het betrokken gerechtsbestuur, vastgesteld bij welk gerechtshof of welke rechtbank dat ambt door hem wordt vervuld.   
-2.  In geval van benoeming van een rechterlijk ambtenaar in een bij een tot het openbaar ministerie behorend parket te vervullen ambt als bedoeld in de artikel 2, tweede en derde lid, wordt bij besluit van Onze Minister vastgesteld bij welk parket dat ambt door hem wordt vervuld.   
-3.  Het tweede lid is niet van toepassing in geval van een benoeming in het ambt van procureur-generaal.   
-4.  Wijziging op verzoek van de betrokken rechterlijk ambtenaar van de vaststelling van het gerechtshof of de rechtbank onderscheidenlijk het parket waarbij een ambt als bedoeld in het eerste onderscheidenlijk tweede lid wordt vervuld, geschiedt eveneens bij besluit van de Raad voor de rechtspraak onderscheidenlijk Onze Minister.   
+2.  In geval van benoeming van een rechterlijk ambtenaar in een bij een tot het openbaar ministerie behorend parket te vervullen ambt als bedoeld in artikel 2, tweede en derde lid, wordt bij besluit van Onze Minister vastgesteld bij welk parket dat ambt door hem wordt vervuld. De eerste volzin is niet van toepassing in geval van een benoeming in het ambt van procureur-generaal of landelijk hoofdadvocaat-generaal.   
+3.  In geval van een benoeming van een rechterlijk ambtenaar in een bij een tot het openbaar ministerie behorend parket te vervullen ambt door het College van procureurs-generaal als bedoeld in artikel 2, vierde en vijfde lid, wordt bij besluit van het College van procureurs-generaal vastgesteld bij welk parket dat ambt door hem wordt vervuld.   
+4.  Wijziging op verzoek van de betrokken rechterlijk ambtenaar van de vaststelling van het gerechtshof of de rechtbank onderscheidenlijk het parket waarbij een ambt als bedoeld in het eerste lid, tweede lid onderscheidenlijk derde lid wordt vervuld, geschiedt eveneens bij besluit van de Raad voor de rechtspraak, Onze Minister onderscheidenlijk het College van procureurs-generaal.   
 
 ### Artikel  5c  
 
@@ -169,7 +169,7 @@ Tenzij anders is bepaald, worden de in dit hoofdstuk genoemde bevoegdheden ten a
 ### Artikel  7  
 
 1.  De rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding die hun ambt op basis van een aanstelling vervullen, ontvangen een salaris.   
-2.  Voor de bepaling van hun salaris worden de rechterlijke ambtenaren en de rechterlijke ambtenaren in opleiding, bedoeld in het eerste lid, ingedeeld in de volgende categorieën: *categorie* 1: president van en procureur-generaal bij de Hoge Raad; *categorie* 2: vice-president van en plaatsvervangend procureur-generaal bij de Hoge Raad; *categorie* 3: raadsheer in en advocaat-generaal bij de Hoge Raad; procureur-generaal, lid van het College van procureurs-generaal; hoofdofficier bij de arrondissementsparketten te Amsterdam, ’s-Gravenhage en Rotterdam; hoofdofficier bij het landelijk parket; hoofdofficier bij het functioneel parket; *categorie* 4: hoofdofficier bij de arrondissementsparketten te Arnhem, Breda, ’s-Hertogenbosch, Groningen, Haarlem, Maastricht, Utrecht en Zwolle-Lelystad; *categorie* 5: hoofdadvocaat-generaal; hoofdofficier bij de overige parketten; *categorie* 6: fungerend hoofdofficier; plaatsvervangend hoofdofficier bij het arrondissementsparket te Rotterdam; plaatsvervangend hoofdofficier bij het landelijk parket; plaatsvervangend hoofdofficier bij het functioneel parket; *categorie* 7: senior raadsheer in een gerechtshof; senior rechter A in een rechtbank; plaatsvervangend hoofdadvocaat-generaal; senior advocaat-generaal; plaatsvervangend hoofdofficier bij de overige parketten; senior officier van justitie A; *categorie* 8: raadsheer in een gerechtshof; senior rechter in een rechtbank, advocaat-generaal bij een ressortsparket of het parket-generaal; senior officier van justitie; *categorie* 9: rechter in een rechtbank; officier van justitie; *categorie* 10: griffier van de Hoge Raad; gerechtsauditeur, tevens raadsheer-plaatsvervanger in het gerechtshof waarbij hij is aangesteld; gerechtsauditeur, tevens rechter-plaatsvervanger in de rechtbank waarbij hij is aangesteld; substituut-officier van justitie; officier enkelvoudige zittingen; senior-gerechtsauditeur; *categorie* 11: gerechtsauditeur; substituut-griffier van de Hoge Raad; *categorie* 12: rechterlijk ambtenaar in opleiding.   
+2.  Voor de bepaling van hun salaris worden de rechterlijke ambtenaren en de rechterlijke ambtenaren in opleiding, bedoeld in het eerste lid, ingedeeld in de volgende categorieën: *categorie* 1: president van en procureur-generaal bij de Hoge Raad; *categorie* 2: vice-president van en plaatsvervangend procureur-generaal bij de Hoge Raad; *categorie* 3: raadsheer in en advocaat-generaal bij de Hoge Raad; procureur-generaal, lid van het College van procureurs-generaal; hoofdofficier van justitie bij de arrondissementsparketten Amsterdam, Den Haag, Oost-Nederland en Rotterdam; hoofdofficier van justitie bij het landelijk parket; hoofdofficier van justitie bij het functioneel parket; *categorie* 4: landelijk hoofdadvocaat-generaal; hoofdofficier van justitie bij de overige parketten; *categorie* 5: plaatsvervangend hoofdofficier van justitie bij de arrondissementsparketten Amsterdam, Den Haag, Oost-Nederland en Rotterdam; plaatsvervangend hoofdofficier van justitie bij het landelijk parket; plaatsvervangend hoofdofficier van justitie bij het functioneel parket; *categorie* 6: hoofdadvocaat-generaal; plaatsvervangend hoofdofficier van justitie bij de overige parketten; *categorie* 7: senior raadsheer in een gerechtshof; senior rechter A in een rechtbank; senior advocaat-generaal; senior officier van justitie A; *categorie* 8: raadsheer in een gerechtshof; senior rechter in een rechtbank, advocaat-generaal bij het ressortsparket of het parket-generaal; senior officier van justitie; *categorie* 9: rechter in een rechtbank; officier van justitie; *categorie* 10: griffier van de Hoge Raad; gerechtsauditeur, tevens raadsheer-plaatsvervanger in het gerechtshof waarbij hij is aangesteld; gerechtsauditeur, tevens rechter-plaatsvervanger in de rechtbank waarbij hij is aangesteld; substituut-officier van justitie; officier enkelvoudige zittingen; senior-gerechtsauditeur; *categorie* 11: gerechtsauditeur; substituut-griffier van de Hoge Raad; *categorie* 12: rechterlijk ambtenaar in opleiding.   
 3.  Bij of krachtens algemene maatregel van bestuur worden de hoogten van de salarissen van de rechterlijke ambtenaren en de rechterlijke ambtenaren in opleiding, bedoeld in het eerste lid, overeenkomstig de indeling in het tweede lid vastgesteld.   
 
 ### Artikel  9  
@@ -281,7 +281,7 @@ Aan een rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding worden op zo
 1.  Het bestuur van de rechtbank onderscheidenlijk het gerechtshof verdeelt de werkzaamheden van de rechterlijke ambtenaren die werkzaam zijn bij dat gerecht.   
 2.  Het hoofd van het parket verdeelt de werkzaamheden van de rechterlijke ambtenaren die werkzaam zijn bij dat parket.   
 3.  De president van de Hoge Raad verdeelt de werkzaamheden van de gerechtsauditeurs bij de Hoge Raad.   
-4.  Het bestuur van de rechtbank onderscheidenlijk het hoofd van het parket verdeelt de werkzaamheden van de rechterlijke ambtenaren die de opleiding bij dat gerecht onderscheidenlijk dat parket doorbrengen.   
+4.  Het bestuur van de rechtbank onderscheidenlijk het hoofd van het parket verdeelt de werkzaamheden van de rechterlijke ambtenaren in opleiding die de opleiding bij dat gerecht onderscheidenlijk dat parket doorbrengen.   
 5.  Van de in het eerste tot en met vierde lid bedoelde verdeling van werkzaamheden kan slechts worden afgeweken voor een beperkte duur en indien het dienstbelang dit naar het oordeel van het bestuur van het gerecht, de president van de Hoge Raad onderscheidenlijk het hoofd van het parket onvermijdelijk maakt.   
 
 ### Artikel  42  
@@ -304,9 +304,42 @@ b. een vakvereniging.
 ### Artikel  44  
 
 1.  Rechterlijke ambtenaren – met uitzondering van de plaatsvervangers – en rechterlijke ambtenaren in opleiding gedurende de binnenstage kunnen niet tevens advocaat of notaris zijn dan wel anderszins van het verlenen van rechtskundige bijstand een beroep maken.   
-2.  Rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding gedurende de binnenstage geven de functionele autoriteit kennis van de betrekkingen die zij buiten hun ambt vervullen. Zo mogelijk geschiedt de kennisgeving zodra het voornemen bestaat tot het gaan vervullen van de betrekking.   
-3.  De functionele autoriteit houdt een register bij waarin de in het tweede lid, eerste volzin, bedoelde betrekkingen zijn opgenomen. Het register ligt ter inzage bij het desbetreffende gerecht, het desbetreffende parket dan wel het parket-generaal.   
-4.  Onze Minister geeft de procureur-generaal bij de Hoge Raad kennis van de betrekkingen die de leden van het College van procureurs-generaal buiten hun ambt vervullen.   
+2.  Een advocaat kan niet tevens werkzaam zijn als rechter-plaatsvervanger in de rechtbank waarbij hij als advocaat is ingeschreven onderscheidenlijk als raadsheer-plaatsvervanger in het gerechtshof tot het rechtsgebied waarvan de rechtbank behoort waarbij hij is ingeschreven.   
+3.  Degene die als rechterlijk ambtenaar werkzaam is bij een tot het openbaar ministerie behorend parket, kan niet tevens werkzaam zijn als rechter-plaatsvervanger in een rechtbank of als raadsheer-plaatsvervanger in een gerechtshof. De eerste volzin is niet van toepassing gedurende de periode waarin aan hem voor het gemiddeld aantal uren per week waarvoor hij is aangesteld op zijn verzoek buitengewoon verlof is verleend.   
+4.  Rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding gedurende de binnenstage vervullen geen betrekkingen waarvan de uitoefening ongewenst is met het oog op een goede vervulling van hun ambt of op de handhaving van hun onpartijdigheid en onafhankelijkheid of van het vertrouwen daarin.   
+5.  Rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding gedurende de binnenstage stellen de functionele autoriteit in kennis van de betrekkingen die zij buiten hun ambt vervullen. Zo mogelijk geschiedt de kennisgeving zodra het voornemen bestaat tot het gaan vervullen van de betrekking. Ook indien zij geen betrekkingen buiten het ambt vervullen, stellen zij de functionele autoriteit daarvan in kennis.   
+6.  De functionele autoriteit beoordeelt of de vervulling van de betrekking ongewenst is met het oog op de in het vierde lid genoemde gronden. Ten aanzien van de met rechtspraak belaste rechterlijke ambtenaren, niet zijnde president, wordt deze bevoegdheid uitgeoefend door de president van het gerecht waar betrokkene werkzaam is. Ten aanzien van de rechterlijke ambtenaren die tevens president zijn van een rechtbank binnen het rechtsgebied van een gerechtshof, wordt deze bevoegdheid uitgeoefend door de president van dat gerechtshof. Ten aanzien van de rechterlijke ambtenaren die tevens president zijn van een gerechtshof, wordt deze bevoegdheid uitgeoefend door de president van de Hoge Raad.   
+7.  Bij een kennisgeving als bedoeld in het vijfde lid, eerste volzin, worden de volgende gegevens gemeld: 
+
+a. een korte omschrijving van de betrekking alsmede het soort bedrijf of instantie waar de betrekking wordt vervuld;  
+
+b. de naam van het bedrijf of de instantie waar de betrekking wordt vervuld;  
+
+c. de plaats waar de betrekking wordt vervuld;  
+
+d. of de betrekking bezoldigd is of onbezoldigd;  
+
+e. het tijdstip van aanvang en beëindiging van vervulling van de betrekking;  
+
+f. de omvang van de betrekking in uren per maand; en  
+
+g. de hoogte van de bezoldiging per jaar, aan te geven in categorieën;   met dien verstande dat de plaatsvervangers, in afwijking van de onderdelen f en g, van hun hoofdbetrekking de omvang en de hoogte van de bezoldiging niet behoeven te melden.   
+8.  De kennisgevingen worden jaarlijks geactualiseerd.   
+9.  Onze Minister stelt de procureur-generaal bij de Hoge Raad in kennis van de betrekkingen die de leden van het College van procureurs-generaal buiten hun ambt vervullen.   
+10.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de uitvoering van het vijfde, zevende en achtste lid.   
+
+### Artikel  44a  
+
+1.  In dit artikel en de daarop berustende bepalingen wordt verstaan onder nevenbetrekkingen: de betrekkingen die rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding gedurende de binnenstage buiten hun ambt vervullen.   
+2.  De kennisgevingen, bedoeld in artikel 44, vijfde lid, en de gegevens over een nevenbetrekking, bedoeld in artikel 44, zevende lid, onderdelen a tot en met e, worden per gerecht, parket dan wel parket-generaal opgenomen in een register. De functionele autoriteit is verantwoordelijk voor de juistheid en volledigheid van de in het register opgenomen gegevens van de bij zijn gerecht, parket dan wel parket-generaal werkzame rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding gedurende de binnenstage.   
+3.  Het register wordt jaarlijks geactualiseerd.   
+4.  Het register wordt in elektronische vorm openbaar gemaakt en kan tevens worden ingezien bij het desbetreffende gerecht, het desbetreffende parket dan wel het parket-generaal.   
+5.  Tegen betaling van de kostprijs is een afschrift van een door de aanvrager op te geven gedeelte uit het register verkrijgbaar.   
+6.  In afwijking van het vierde lid kan de functionele autoriteit met betrekking tot een nevenbetrekking van een rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding gedurende de binnenstage beslissen dat de gegevens, bedoeld in artikel 44, zevende lid, onderdelen b en c, met het oog op diens veiligheid, niet of niet volledig openbaar worden gemaakt.   
+7.  Indien op grond van het zesde lid met betrekking tot een nevenbetrekking van een rechterlijk ambtenaar gegevens niet of niet volledig openbaar worden gemaakt, deelt de functionele autoriteit een procespartij in een zaak die door die rechterlijk ambtenaar wordt behandeld, op haar verzoek mee of de desbetreffende nevenbetrekking verband houdt met door haar aan te geven bedrijven en instanties die bij haar zaak betrokken zijn, tenzij dit een gevaar voor de veiligheid van de rechterlijk ambtenaar oplevert.   
+8.  Na beëindiging van een nevenbetrekking blijven de gegevens over de nevenbetrekking gedurende een termijn van drie jaar bewaard in het register.   
+9.  In het register wordt ten aanzien van de plaatsvervangers die gedurende een termijn van twee jaar niet zijn opgeroepen voor het verrichten van werkzaamheden als bedoeld in artikel 5f, tweede lid, en gedurende die termijn evenmin tijdelijk zijn aangewezen als bedoeld in artikel 5f, derde lid, vermeld dat zij gedurende die termijn niet als zodanig zijn opgeroepen of aangewezen.   
+10.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de uitvoering van dit artikel.   
 
 ### Artikel  45  
 
@@ -343,7 +376,7 @@ Dit hoofdstuk is alleen van toepassing op de voor het leven benoemde rechterlijk
 
 a. de waardigheid van zijn ambt, zijn ambtsbezigheden of zijn ambtsplichten verwaarloost;  
 
-b. de bepalingen overtreedt waarbij hem het uitoefenen van een beroep wordt verboden, een vast en voortdurend verblijf wordt aangewezen, verboden wordt zich in een onderhoud of een gesprek in te laten met partijen of haar advocaten of gemachtigden of een bijzondere inlichting of schriftelijk stuk van hen aan te nemen, of de verplichting wordt opgelegd een geheim te bewaren.     
+b. de bepalingen overtreedt waarbij hem het uitoefenen van een beroep wordt verboden, een vast en voortdurend verblijf wordt aangewezen, verboden wordt zich in een onderhoud of een gesprek in te laten met partijen of haar advocaten of gemachtigden of een bijzondere inlichting of schriftelijk stuk van hen aan te nemen, de verplichting wordt opgelegd een geheim te bewaren of de verplichting wordt opgelegd de functionele autoriteit in kennis te stellen van de betrekkingen die hij buiten zijn ambt vervult.     
 2.  Ten aanzien van de rechterlijk ambtenaar kan de disciplinaire maatregel van ontslag worden opgelegd, indien hij door handelen of nalaten ernstig nadeel toebrengt aan de goede gang van zaken bij de rechtspraak of het in haar te stellen vertrouwen.   
 3.  Aan de rechterlijk ambtenaar die zich schuldig maakt aan een van de gedragingen, bedoeld in het eerste lid, onderdeel b, kan de disciplinaire maatregel van ontslag worden opgelegd, indien hem eerder wegens een gelijke overtreding de disciplinaire maatregel van schriftelijke waarschuwing is opgelegd.   
 
@@ -380,9 +413,9 @@ b. hij bij een nog niet onherroepelijk geworden rechterlijke uitspraak wegens ee
 c. hij bij een nog niet onherroepelijk geworden rechterlijke uitspraak onder curatele is gesteld, in staat van faillissement is verklaard, ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, hij surséance van betaling heeft gekregen, dan wel wegens schulden is gegijzeld.     
 2.  Een rechterlijk ambtenaar kan door de Hoge Raad worden geschorst, indien: 
 
-a. tegen hem een gerechtelijk vooronderzoek ter zake van een misdrijf is ingesteld;  
+a. hij wordt vervolgd wegens een misdrijf;  
 
-b. er een ander ernstig vermoeden is voor het bestaan van feiten of omstandigheden die tot ontslag, anders dan op grond van artikel 46h, 46i of 46k zouden kunnen leiden.     
+b. er een ander ernstig vermoeden is voor het bestaan van feiten of omstandigheden die tot ontslag, anders dan op grond van artikel 46h, 46i of 46k, zouden kunnen leiden.     
 3.  Een schorsing als bedoeld in het tweede lid eindigt na drie maanden, met dien verstande dat de Hoge Raad de schorsing telkens voor ten hoogste drie maanden kan verlengen.   
 4.  De Hoge Raad beëindigt een schorsing als bedoeld in het tweede lid zodra de grond hiervoor is vervallen.   
 
@@ -479,11 +512,13 @@ De rechterlijk ambtenaar kan door de Hoge Raad worden ontslagen, indien hij:
 
 a. bij onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld dan wel hem bij een dergelijke uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;  
 
-b. bij onherroepelijk geworden rechterlijke uitspraak onder curatele is gesteld, in staat van faillissement is verklaard, ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, hij surséance van betaling heeft verkregen, dan wel wegens schulden is gegijzeld.    
+b. bij onherroepelijk geworden rechterlijke uitspraak onder curatele is gesteld, in staat van faillissement is verklaard, ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, hij surséance van betaling heeft verkregen, dan wel wegens schulden is gegijzeld;  
+
+c. als raadsheer- of rechter-plaatsvervanger gedurende een termijn van twee jaar niet is opgeroepen voor het verrichten van werkzaamheden als bedoeld in artikel 5f, tweede lid, en gedurende die termijn evenmin aangesteld is geweest of tijdelijk is aangewezen als bedoeld in artikel 5f, eerste of derde lid.    
 
 ### Artikel  46n  
 
-1.  Ingeval van een ontslag ingevolge de artikelen 46c, tweede en derde lid, 46ka, 46l of 46m kan de Hoge Raad een voorziening treffen onderscheidenlijk kan bij koninklijk besluit op voordracht van Onze Minister een voorziening worden getroffen waarbij de rechterlijk ambtenaar een uitkering wordt verleend die naar het oordeel van de Hoge Raad onderscheidenlijk Onze Minister met het oog op de omstandigheden redelijk is te achten.   
+1.  Ingeval van een ontslag ingevolge de artikelen 46c, tweede en derde lid, 46ka, 46l of artikel 46m, onderdelen a en b, kan de Hoge Raad een voorziening treffen onderscheidenlijk kan bij koninklijk besluit op voordracht van Onze Minister een voorziening worden getroffen waarbij de rechterlijk ambtenaar een uitkering wordt verleend die naar het oordeel van de Hoge Raad onderscheidenlijk Onze Minister met het oog op de omstandigheden redelijk is te achten.   
 2.  De uitkering is ten hoogste gelijk aan het voor de rechterlijk ambtenaar geldende totaal van uitkeringen berekend op basis van de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en het krachtens artikel 54 bepaalde ter zake van voorzieningen in geval van werkloosheid, als ware als gevolg van het ontslag geen sprake van verwijtbare werkloosheid als bedoeld in [artikel 24 van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md).   
 3.  Op de uitkering zijn voor het overige de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en het krachtens artikel 54 bepaalde ter zake van voorzieningen in geval van werkloosheid van overeenkomstige toepassing.   
 4.  Indien de rechterlijk ambtenaar ter zake van hetzelfde ontslag recht heeft op een uitkering krachtens de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) of het krachtens artikel 54 bepaalde ter zake van voorzieningen in geval van werkloosheid, vervalt de door de Hoge Raad of bij koninklijk besluit toegekende uitkering.   
@@ -514,17 +549,6 @@ Indien het ontslag, de schorsing of het bij ongeschiktheid wegens ziekte opdrage
 ### Hoofdstuk  7  
 
 ####Beroep
-
-### Artikel  47  
-
-1.  Een belanghebbende kan tegen een besluit of een andere handeling van een bestuursorgaan waarbij een rechterlijk ambtenaar als zodanig of een rechterlijk ambtenaar in opleiding als zodanig, een gewezen rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding als zodanig, hun nagelaten betrekkingen of hun rechtverkrijgenden belanghebbende zijn, beroep instellen bij de Centrale Raad van Beroep.   
-2.  Geen beroep kan worden ingesteld tegen: 
-
-a. een besluit tot benoeming, plaatsing of aanwijzing als bedoeld in hoofdstuk 2, tenzij het beroep wordt ingesteld door een rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding als zodanig, zijn nagelaten betrekkingen of zijn rechtverkrijgenden;  
-
-b. een besluit van de Hoge Raad als bedoeld in hoofdstuk 6A; en  
-
-c. een vordering als bedoeld in artikel 46o.     
 
 ### Hoofdstuk  8  
 
@@ -560,7 +584,7 @@ a. invoering of wijziging van een wettelijke regeling die betrekking heeft op al
 
 b. invoering of wijziging van een wettelijke regeling voor de rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding met een overeenkomstige inhoud als een voorstel tot invoering of wijziging van een wettelijke regeling die betrekking heeft op werknemers die krachtens arbeidsovereenkomst als bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) werkzaam zijn,  
 
-c. vantoepassingverklaring op de rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding van een wettelijke regeling die betrekking heeft op werknemers die krachtens arbeidsovereenkomst als bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) werkzaam zijn en met die vantoepassingverklaring samenhangende wijzigingen in voor functionarissen als bedoeld in artikel 48, eerste lid, geldende regelingen, een en ander mits het totaal van rechten en plichten van de rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding over het geheel beoordeeld niet ongunstiger wordt, of  
+c. vantoepassingverklaring op de rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding van een wettelijke regeling die betrekking heeft op werknemers die krachtens arbeidsovereenkomst als bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) werkzaam zijn en met die vantoepassingverklaring samenhangende wijzigingen in voor rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding geldende regelingen, een en ander mits het totaal van rechten en plichten van de rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding over het geheel beoordeeld niet ongunstiger wordt, of  
 
 d. implementatie van verplichtingen voortvloeiend uit een internationaal verdrag.     
 3.  Bij algemene maatregel van bestuur worden regels gesteld over het inwinnen van advies van een commissie over een geschil en het onderwerpen van een geschil aan een arbitrale uitspraak van een commissie door de deelnemers aan het overleg, bedoeld in artikel 50, eerste lid, waaronder in elk geval regels over de procedure voorafgaand aan het voorleggen van een geschil aan de commissie en over de samenstelling en de werkwijze van de commissie.   

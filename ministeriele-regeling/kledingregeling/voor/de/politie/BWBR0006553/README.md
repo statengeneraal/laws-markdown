@@ -10,16 +10,21 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a.  *uniform:*   het samenstel van de in bijlage 1 genoemde kledingstukken en de in bijlage 2 genoemde uitmonstering;    b.  *dienstkleding:*   de door de beheerder aan de ambtenaar verstrekte kleding, niet zijnde het uniform.    c.  *beheerder:*   
+In deze regeling wordt verstaan onder: 
 
-1º. voor de regionale politiekorpsen de burgemeester, bedoeld in [artikel 23 van de Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+a. *uniform:* het samenstel van de in bijlage 1 genoemde kledingstukken en de in bijlage 2 genoemde uitmonstering;  
 
-2º. voor het Korps landelijke politiediensten de Minister van Veiligheid en Justitie;      d.  *ambtenaar:*   de ambtenaren, genoemd in [artikel 56, eerste lid, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en de vrijwillige ambtenaren van politie, bedoeld in [artikel 15 van het Besluit rechtspositie vrijwillige politie](../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md).     
+b. *dienstkleding:* de door de beheerder aan de ambtenaar verstrekte kleding, niet zijnde het uniform;  
+
+c. *beheerder:* de korpschef;  
+
+d. *ambtenaar:* de ambtenaren, genoemd in [artikel 56, eerste lid, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en de vrijwillige ambtenaren van politie, bedoeld in [artikel 15 van het Besluit rechtspositie vrijwillige politie](../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md).    
 
 ### Artikel  2  
 
 1.  De beheerder draagt er zorg voor dat het uniform en de dienstkleding bestaan uit de in bijlage 1 genoemde kledingstukken voor de basistaken en de door de beheerder toegewezen bijzondere taken.   
-2.  De beheerder draagt er zorg voor dat onder de omstandigheden waarin het nodig is dat de aanwezigheid van de ambtenaar zichtbaar is, deze ambtenaar een zichtbaarheidsvest, blouson, parka, regenkleding of regencape als bedoeld in bijlage 1 draagt.   
+2.  De ambtenaar is verantwoordelijk voor de reiniging van overhemden/blouses, poloshirts, sokken en onderkleding. De aan de reiniging verbonden kosten zijn voor rekening van de ambtenaar.   
+3.  De beheerder draagt er zorg voor dat onder de omstandigheden waarin het nodig is dat de aanwezigheid van de ambtenaar zichtbaar is, deze ambtenaar een zichtbaarheidsvest, blouson, parka, regenkleding of regencape als bedoeld in bijlage 1 draagt.   
 
 ### Artikel  3  
 
@@ -35,7 +40,7 @@ d. op welke wijze het uniform wordt onderhouden.
 
 ### Artikel  4  
 
-1.  Het uniform is eigendom van de regio waar de ambtenaar in dienst is, dan wel van de Staat indien de ambtenaar werkzaam is bij het Korps landelijke politiediensten.   
+1.  Het uniform is eigendom van de politie.   
 2.  De ambtenaar is verantwoordelijk voor het hem verstrekte uniform.   
 
 ### Artikel  5  
@@ -55,6 +60,10 @@ De beheerder draagt er zorg voor dat het uniform niet in handen van onbevoegden 
 ### Artikel  7  
 
 Deze regeling treedt in werking met ingang van 1 april 1994.  
+
+### Artikel  7a  
+
+Deze regeling berust op [artikel 25, eerste lid, van het Besluit bewapening en uitrusting politie](../../../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md).  
 
 ### Artikel  8  
 
@@ -349,23 +358,25 @@ Uitmonstering
 ####De onderscheidingstekens
 
 1. 
-a. hoofdcommissaris en hoofdcommissaris titulair Op de schouderbedekkingen: Een horizontale lauwertak, twee gekruiste zwaarden en een rijkskroon, in goud uitgevoerd. Op de petklep: Een gouden borduursel van eikebladeren, breed 13 mm, bezet met 6 eikels, aangebracht op een afstand van 5 mm van het omboordsel. Dit borduursel is eveneens aangebracht langs de bovenrand, waar de klep aan de opstaande rand van de pet is bevestigd.  
+a. eerste hoofdcommissaris: Op de schouderbedekkingen: Een horizontale lauwertak, vier sterren, twee gekruiste zwaarden en een rijkskroon, in goud uitgevoerd. Op de petklep: Een gouden borduursel van eikenbladeren, breed 13 mm, bezet met 6 eikels, aangebracht op een afstand van 5 mm van het omboordsel. Dit borduursel is tevens aangebracht langs de bovenkant, waar de klep aan de opstaande rand van de pet is bevestigd. De stormband van de pet is in goud uitgevoerd.  
 
-b. commissaris: Op de schouderbedekkingen: Een horizontale lauwertak met rijkskroon, in goud uitgevoerd. Op de petklep: Een gouden borduursel van eikebladeren, breed 13 mm, bezet met 6 eikels, aangebracht op een afstand van 5 mm van het omboordsel.  
+b. hoofdcommissaris en hoofdcommissaris titulair Op de schouderbedekkingen: Een horizontale lauwertak, twee gekruiste zwaarden en een rijkskroon, in goud uitgevoerd. Op de petklep: Een gouden borduursel van eikebladeren, breed 13 mm, bezet met 6 eikels, aangebracht op een afstand van 5 mm van het omboordsel. Dit borduursel is eveneens aangebracht langs de bovenrand, waar de klep aan de opstaande rand van de pet is bevestigd.  
 
-c. hoofdinspecteur: Op de schouderbedekkingen: Een galon met rijkskroon, in goud uitgevoerd. Op de petklep: Een gouden borduursel van eikebladeren, aangebracht op een afstand van 5 mm van het omboordsel.  
+c. commissaris: Op de schouderbedekkingen: Een horizontale lauwertak met rijkskroon, in goud uitgevoerd. Op de petklep: Een gouden borduursel van eikebladeren, breed 13 mm, bezet met 6 eikels, aangebracht op een afstand van 5 mm van het omboordsel.  
 
-d. inspecteur: Op de schouderbedekkingen: Een rijkskroon, in goud uitgevoerd. Op de petklep: Een gouden galon, breed 10 mm, aangebracht op een afstand van 5 mm van het omboordsel.  
+d. hoofdinspecteur: Op de schouderbedekkingen: Een galon met rijkskroon, in goud uitgevoerd. Op de petklep: Een gouden borduursel van eikebladeren, aangebracht op een afstand van 5 mm van het omboordsel.  
 
-e. brigadier: Op de schouderbedekkingen: Twee gebogen lauwertakken, waarin een kleine rijkskroon met zwaard is geplaatst, in goud uitgevoerd.  
+e. inspecteur: Op de schouderbedekkingen: Een rijkskroon, in goud uitgevoerd. Op de petklep: Een gouden galon, breed 10 mm, aangebracht op een afstand van 5 mm van het omboordsel.  
 
-f. hoofdagent: Op de schouderbedekkingen: Vier goudkleurige galons.  
+f. brigadier: Op de schouderbedekkingen: Twee gebogen lauwertakken, waarin een kleine rijkskroon met zwaard is geplaatst, in goud uitgevoerd.  
 
-g. agent: Op de schouderbedekkingen: Drie goudkleurige galons.  
+g. hoofdagent: Op de schouderbedekkingen: Vier goudkleurige galons.  
 
-h. surveillant van politie: Op de schouderbedekkingen: Twee goudkleurige galons.  
+h. agent: Op de schouderbedekkingen: Drie goudkleurige galons.  
 
-i. adspirant: Op de schouderbedekkingen: Eén goudkleurige galon.     
+i. surveillant van politie: Op de schouderbedekkingen: Twee goudkleurige galons.  
+
+j. adspirant: Op de schouderbedekkingen: Eén goudkleurige galon.     
 2.  De onderscheidingstekens voldoen aan de modellen en technische voorschriften, zoals opgenomen in hoofdstuk 7 van het handboek politielogo en huisstijl.   
 3.  De schouderbedekkingen voor de uniformdragende ambtenaar, belast met operationele taken met publiekscontacten, niet zijnde een ambtenaar als bedoeld in [artikel 2, eerste lid](../../../../../../AMvB/besluit/rangen/politie/BWBR0006981/README.md), of [artikel 2a, tweede lid, van het Besluit rangen politie](../../../../../../AMvB/besluit/rangen/politie/BWBR0006981/README.md), maar wel beëdigd als bedoeld in [artikel 9 van het Besluit algemene Rechtspositie Politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), bestaan uit: 
 
@@ -377,7 +388,7 @@ i. adspirant: Op de schouderbedekkingen: Eén goudkleurige galon.
 
 ####Het vangsnoer
 
-Het vangsnoer (voor de heren) en het armsnoer (voor de dames), zoals afgebeeld in hoofdstuk 7 van het handboek politielogo en huisstijl, wordt op aanwijzing van de korpsbeheerder op het colbert gedragen aan de linker schouder, c.q. de linker arm bij officiële of feestelijke gelegenheden.  
+Het vangsnoer (voor de heren) en het armsnoer (voor de dames), zoals afgebeeld in hoofdstuk 7 van het handboek politielogo en huisstijl, wordt op aanwijzing van de korpschef op het colbert gedragen aan de linker schouder, c.q. de linker arm bij officiële of feestelijke gelegenheden.  
 
 ####Dienstonderscheidingstekens
 

@@ -11,8 +11,104 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Deze regeling geeft uitvoering aan de [artikelen 6](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [8](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [13](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [14](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [19](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [21d](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [21k](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [30f, vierde lid](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [38, tweede lid](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [39](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [47b, tweede lid](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [52, vierde lid](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [52a](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [53, tweede lid](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [62](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [67, tweede lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [artikel 67, tweede lid, onderdeel b, van de Invorderingswet 1990](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [artikel 10, tweede lid, onderdeel b, van de Registratiewet 1970](../../../../../../../../wet/registratiewet/1970/BWBR0002739/README.md), de [artikelen 18](../../../../../../../../wet/wet/op/belastingen/van/rechtsverkeer/BWBR0002740/README.md) en [54 van de Wet op belastingen van rechtsverkeer](../../../../../../../../wet/wet/op/belastingen/van/rechtsverkeer/BWBR0002740/README.md) en [artikel 10 van de Wet op de dividendbelasting 1965](../../../../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md).   
+1.  Deze regeling geeft uitvoering aan de [artikelen 5b](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [5c](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [5d](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [6](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [8](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [13](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [14](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [19](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [21d](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [21k](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [38, tweede lid](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [39](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [47b, tweede lid](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [52, vierde lid](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [62](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [67, tweede lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [artikel 67, tweede lid, onderdeel b, van de Invorderingswet 1990](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [artikel 10, tweede lid, onderdeel b, van de Registratiewet 1970](../../../../../../../../wet/registratiewet/1970/BWBR0002739/README.md), de [artikelen 18](../../../../../../../../wet/wet/op/belastingen/van/rechtsverkeer/BWBR0002740/README.md) en [54 van de Wet op belastingen van rechtsverkeer](../../../../../../../../wet/wet/op/belastingen/van/rechtsverkeer/BWBR0002740/README.md) en [artikel 10 van de Wet op de dividendbelasting 1965](../../../../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md).   
 2.  Deze regeling verstaat onder de wet: de [Algemene wet inzake rijksbelastingen](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).   
+
+### Hoofdstuk  1a  
+
+####Voorwaarden algemeen nut beogende instellingen, sociaal belang behartigende instellingen en steunstichtingen SBBI
+
+### Artikel  1a  
+
+1.  Een instelling wordt door de inspecteur aangemerkt als een algemeen nut beogende instelling indien en zolang: 
+
+a. uit de regelgeving en de feitelijke werkzaamheden van de instelling blijkt dat de instelling met het totaal van haar algemeen nuttige activiteiten geen winstoogmerk heeft;  
+
+b. uit de regelgeving en de feitelijke werkzaamheden van de instelling blijkt dat de instelling uitsluitend of nagenoeg uitsluitend het algemeen belang dient;  
+
+c. uit de regelgeving van de instelling en de feiten blijkt dat een natuurlijk persoon noch een rechtspersoon over het vermogen van de instelling kan beschikken als ware het zijn eigen vermogen, met dien verstande dat de inspecteur, zo nodig onder door hem te stellen voorwaarden, kan toestaan dat een steunstichting en de instelling of instellingen welke door deze stichting wordt ondersteund, onderscheidenlijk worden ondersteund, over en weer kunnen beschikken over elkaars vermogen als ware het eigen vermogen;  
+
+d. de instelling niet meer vermogen aanhoudt dan is aangegeven in artikel 1b;  
+
+e. de leden van het orgaan van de instelling dat het beleid bepaalt, ter zake van de door hen in die hoedanigheid voor de instelling verrichte werkzaamheden geen andere beloning ontvangen dan een vergoeding voor gemaakte onkosten en een niet-bovenmatig vacatiegeld;  
+
+f. de instelling beschikt over een actueel beleidsplan dat inzicht geeft in de door de instelling te verrichten werkzaamheden ter verwezenlijking van haar doelstelling, de wijze van werving van inkomsten, het beheer van het vermogen van de instelling en de besteding daarvan;  
+
+g. de beheerkosten van de instelling in redelijke verhouding staan tot de bestedingen ten behoeve van het doel van de instelling;  
+
+h. uit de regelgeving van de instelling blijkt dat bij opheffing van de instelling een batig liquidatiesaldo wordt besteed ten behoeve van een algemeen nut beogende instelling met een soortgelijke doelstelling of van een buitenlandse instelling die uitsluitend of nagenoeg uitsluitend het algemeen nut beoogt en die een soortgelijke doelstelling heeft, en  
+
+i. de administratie van de instelling zodanig is ingericht dat daaruit duidelijk blijkt: 
+
+1°. de aard en omvang van de aan de afzonderlijke leden van het orgaan van de instelling dat het beleid bepaalt toekomende onkostenvergoedingen en vacatiegelden;  
+
+2°. de aard en omvang van de kosten die door de instelling zijn gemaakt ten behoeve van het beheer van de instelling, alsmede de aard en omvang van de andere uitgaven van de instelling;  
+
+3°. de aard en omvang van de inkomsten van de instelling, en  
+
+4°. de aard en omvang van het vermogen van de instelling.       
+2.  Een algemeen nut beogende instelling mag ter financiering van haar doelstelling commerciële activiteiten ontplooien, indien de inkomsten, zijnde het saldo van baten en lasten, gerealiseerd met die activiteiten, in overeenstemming met artikel 1b, binnen een redelijke termijn geheel of nagenoeg geheel ten goede komen aan die doelstelling.   
+3.  De beschikking waarbij een instelling wordt aangemerkt als een algemeen nut beogende instelling kan terugwerken tot en met een voor dagtekening daarvan gelegen datum.   
+4.  De inspecteur maakt het aanmerken van een instelling als een algemeen nut beogende instelling op een daartoe geschikte wijze publiek bekend. Het niet meer als zodanig aanmerken wordt ook op een daartoe geschikte wijze publiek bekendgemaakt.   
+5.  Onder algemeen nuttige activiteiten worden voor de toepassing van dit artikel verstaan: alle activiteiten die erop zijn gericht om de doelstelling van een algemeen nut beogende instelling te verwezenlijken of te bevorderen. Activiteiten zijn geen algemeen nuttige activiteiten indien de instelling het geheel van die activiteiten tegen commerciële tarieven verricht.   
+6.  Onder commerciële activiteiten worden voor de toepassing van dit artikel verstaan: het tegen commerciële tarieven verrichten van werkzaamheden of verlenen van diensten met het oogmerk hiermee ter financiering van de algemeen nuttige activiteiten van de instelling een positief resultaat te behalen.   
+
+### Artikel  1b  
+
+1.  Een algemeen nut beogende instelling houdt niet meer vermogen aan dan redelijkerwijs nodig is voor de continuïteit van de voorziene werkzaamheden ten behoeve van de doelstelling van de instelling.   
+2.  Onder vermogen dat nodig is voor de continuïteit van de voorziene werkzaamheden als bedoeld in het eerste lid worden begrepen: 
+
+a. vermogen of bestanddelen daarvan die krachtens uiterste wilsbeschikking of schenking door de instelling zijn verkregen, en die op grond van aan die uiterste wilsbeschikking of schenking verbonden voorwaarden, al dan niet in reële termen, in stand moeten worden gehouden;  
+
+b. vermogensbestanddelen voor zover de instandhouding daarvan voortvloeit uit de doelstelling van die instelling, en  
+
+c. activa en voor de voorziene aanschaf van activa aangehouden vermogensbestanddelen, voor zover een instelling die activa redelijkerwijs nodig heeft ten behoeve van de doelstelling van de instelling.     
+3.  De algemeen nut beogende instelling vermeldt in haar financiële administratie het doel waarvoor het vermogen wordt aangehouden, alsmede een motivering voor de omvang van dat vermogen.   
+
+### Artikel  1c  
+
+Als staat als bedoeld in [artikel 5b, eerste lid, onderdeel a, onder 3°, en onderdeel b, van de wet](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en als bedoeld in [artikel 5c, onderdeel d, van de wet](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) wordt aangewezen elke mogendheid waarmee in de relatie met Nederland voor de heffing van inkomstenbelasting, vennootschapsbelasting, schenkbelasting en erfbelasting zonder beperkingen of voorbehouden de uitwisseling is geregeld van gegevens, inlichtingen en gegevensdragers.  
+
+### Artikel  1d  
+
+1.  Een algemeen nut beogende instelling wordt door de inspecteur aangemerkt als een culturele instelling, indien en zolang uit de regelgeving en de feitelijke werkzaamheden van de instelling blijkt dat de instelling zich uitsluitend of nagenoeg uitsluitend richt op cultuur.   
+2.  De beschikking waarbij een algemeen nut beogende instelling wordt aangemerkt als een culturele instelling kan terugwerken tot en met een voor dagtekening daarvan gelegen datum.   
+3.  De inspecteur maakt het aanmerken van een instelling als een culturele instelling op een daartoe geschikte wijze publiek bekend. Het niet meer als zodanig aanmerken wordt ook op een daartoe geschikte wijze publiek bekendgemaakt.   
+
+### Artikel  1e  
+
+1.  Bij een verzoek een categorie instellingen dan wel een groep van met elkaar verbonden instellingen bij één voor bezwaar vatbare beschikking aan te merken als algemeen nut beogende instellingen of als culturele instellingen (gemeenschappelijke aanwijzing), wordt in het verzoek vermeld op welke instellingen het verzoek betrekking heeft.   
+2.  Een instelling waarop een verzoek om een gemeenschappelijke aanwijzing betrekking heeft maar die niet voldoet aan de voorwaarden voor aanmerking als algemeen nut beogende instelling, wordt niet in de gemeenschappelijke aanwijzing opgenomen.   
+3.  Een beschikking inzake een gemeenschappelijke aanwijzing kan met betrekking tot elk van de aldus aangemerkte instellingen afzonderlijk worden ingetrokken, met ingang van het tijdstip waarop die instelling niet meer voldoet aan de voorwaarden. Het intrekken van die beschikking kan terugwerken tot en met een voor dagtekening daarvan gelegen datum.   
+
+### Artikel  1f  
+
+1.  Een stichting kwalificeert als een steunstichting SBBI, indien en zolang: 
+
+a. uit haar statuten en feitelijke werkzaamheden blijkt: 
+
+1°. dat zij is opgericht uitsluitend met het doel om geld in te zamelen ter ondersteuning van een bepaalde sociaal belang behartigende instelling die lid is van een landelijke, representatieve koepel op het gebied van sport of muziek;  
+
+2°. dat het ingezamelde geld uitsluitend bestemd is voor een bijzondere investering of uitgave ter gelegenheid van de viering door die instelling van haar 5-jarig bestaan of een veelvoud daarvan;  
+
+3°. de wijze waarop invulling wordt gegeven aan de onder 2° bedoelde viering;  
+
+4°. dat de leden van het orgaan van de stichting dat het beleid bepaalt, ter zake van de door hen in die hoedanigheid voor de stichting verrichte werkzaamheden geen andere beloning ontvangen dan een vergoeding voor gemaakte onkosten en een niet-bovenmatig vacatiegeld;  
+
+5°. dat de stichting het voor de in de onder 2° bedoelde viering ingezamelde geld besteedt in het kalenderjaar van de bedoelde viering, het daaraan voorafgaande kalenderjaar of uiterlijk in het kalenderjaar erna;  
+
+6°. dat bij opheffing van de stichting een batig liquidatiesaldo wordt besteed ten behoeve van een algemeen nut beogende instelling, en  
+
+7°. het kalenderjaar dat zij als steunstichting SBBI wil kwalificeren;    
+
+b. de administratie van de stichting zodanig is ingericht dat daaruit blijkt: 
+
+1°. de aard en omvang van de aan de afzonderlijke leden van het orgaan van de stichting dat het beleid bepaalt toekomende onkostenvergoedingen en vacatiegelden, en  
+
+2°. de aard en omvang van de kosten die door de stichting zijn gemaakt ten behoeve van het beheer van de stichting, alsmede de aard en omvang van de uitgaven van de stichting ten behoeve van de in onderdeel a, onder 2°, bedoelde viering.       
+2.  Bij de geldinzameling door de stichting wordt duidelijk aangegeven wat het doel is van de inzameling, alsmede wat het in het eerste lid, onderdeel a, onder 7°, bedoelde jaar is.   
+3.  Per sociaal belang behartigende instelling kan slechts één stichting per viering als bedoeld in het eerste lid, onderdeel a, onder 2°, als steunstichting SBBI kwalificeren.   
+4.  De inspecteur maakt het bestaan van een steunstichting SBBI op een daartoe geschikte wijze publiek bekend.   
 
 ### Hoofdstuk  2  
 
@@ -116,6 +212,10 @@ b. voor de vennootschapsbelasting: op grond van het gemiddelde dat voortvloeit u
 
 Indien een voorlopige aanslag inkomstenbelasting is of zal worden vastgesteld en een relevante wijziging optreedt in de omstandigheden die van belang zijn voor de opgelegde of op te leggen voorlopige aanslag, doet de belastingplichtige daarvan zo spoedig mogelijk op de door de inspecteur aangewezen wijze mededeling aan de inspecteur. Deze mededeling wordt geacht een verzoek om herziening als bedoeld in [artikel 9.5, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) te zijn.  
 
+### Artikel  24a  
+
+Een verzoek tot vaststelling van een voorlopige aanslag voor de inkomstenbelasting of de vennootschapsbelasting alsmede een verzoek tot herziening als bedoeld in [artikel 9.5, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), onderscheidenlijk [artikel 27, tweede lid, van de Wet op de vennootschapsbelasting 1969](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), van een dergelijke voorlopige aanslag wordt op de door de inspecteur aangegeven wijze langs elektronische weg gedaan, ingeval het verzoek wordt gedaan door een administratieplichtige als bedoeld in [artikel 52, tweede lid, van de wet](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) die binnenlands belastingplichtige is.  
+
 ### Hoofdstuk  6  
 
 ####Tijdvak
@@ -129,18 +229,10 @@ Indien een voorlopige aanslag inkomstenbelasting is of zal worden vastgesteld en
 
 ### Artikel  26  
 
-1.  Het tijdvak waarover de accijnzen, de verbruiksbelastingen van alcoholvrije dranken en van pruimtabak en snuiftabak, de kansspelbelasting geheven van degene die gelegenheid geeft tot deelneming aan binnenlandse casinospelen of aan binnenlandse kansspelen welke via het internet worden gespeeld, of van de exploitant van een kansspelautomatenspel, de belastingen op grondwater, op leidingwater, op afvalstoffen en op kolen, alsmede de energiebelasting, moeten worden betaald, is de kalendermaand.   
+1.  Het tijdvak waarover de accijnzen, de verbruiksbelastingen van alcoholvrije dranken, de kansspelbelasting geheven van degene die gelegenheid geeft tot deelneming aan binnenlandse casinospelen of aan binnenlandse kansspelen welke via het internet worden gespeeld, of van de exploitant van een kansspelautomatenspel, de belastingen op grondwater, op leidingwater, op afvalstoffen en op kolen, alsmede de energiebelasting, moeten worden betaald, is de kalendermaand.   
 2.  Ten aanzien van de belastingplichtige met een boekjaar van twaalf maanden dat niet samenvalt met het kalenderjaar, treden de boekjaarmaanden in de plaats van de kalendermaanden.   
 3.  In bijzondere gevallen kan de inspecteur een ander tijdvak dan de kalendermaand aanwijzen als tijdvak waarover de in het eerste lid bedoelde belastingen moeten worden betaald.   
 4.  Het tijdvak waarover de in het eerste lid bedoelde belastingen moeten worden betaald, wordt ten aanzien van degene die op enig tijdstip - anders dan tijdelijk - ophoudt belastingplichtige te zijn, vervangen door het op dat tijdstip verstreken gedeelte van dat tijdvak.   
-
-### Artikel  27  
-
-1.  Het tijdvak waarover de verpakkingenbelasting moet worden betaald, is het kalenderjaar.   
-2.  De ondernemer die over enig kalenderjaar verpakkingenbelasting moet betalen, doet uiterlijk aan het einde van het eerste, het tweede, het derde en het vierde kwartaal van dat jaar, een voorlopige betaling. Deze betaling bedraagt 25% van de verpakkingenbelasting die over het voorafgaande kalenderjaar verschuldigd zou zijn op basis van het tarief dat geldt voor het kalenderjaar waarin de voorlopige betalingen moeten worden gedaan.   
-3.  De ondernemer die voor het eerst over een kalenderjaar verpakkingenbelasting moet betalen, doet uiterlijk aan het einde van ieder resterend kwartaal van dat jaar, een voorlopige betaling. Deze betaling bedraagt in afwijking van het bepaalde in het tweede lid een evenredig deel van het geschatte bedrag van de over dat jaar verschuldigde verpakkingenbelasting. Het evenredig deel wordt bepaald door 1 te delen door het aantal nog resterende kwartalen van het kalenderjaar. Hierbij wordt een gedeelte van een resterend kwartaal aangemerkt als een vol kwartaal.   
-4.  Voor de ondernemer die in het voorafgaande kalenderjaar voor het eerst verpakkingenbelasting moest betalen, bedraagt de voorlopige betaling in afwijking van het bepaalde in het tweede lid 25% van de verpakkingenbelasting die over het voorafgaande kalenderjaar verschuldigd zou zijn op basis van de fictie dat de ondernemer in het voorafgaande kalenderjaar gedurende het volle kalenderjaar belastingplichtig was voor de verpakkingenbelasting en op basis van het tarief dat geldt voor het kalenderjaar waarin de voorlopige betalingen moeten worden gedaan.   
-5.  De inspecteur kan toestemming geven voorlopige betalingen te doen ter grootte van een ander bedrag.   
 
 ### Artikel  28  
 
@@ -221,9 +313,9 @@ e. sprake is van enig feit waardoor het inkomensgegeven op een te hoog bedrag is
 
 ### Artikel  31  
 
-1.  Bij de bepaling van het aantal dagen waarover ingevolge hoofdstuk VA van de wet heffingsrente wordt berekend, wordt een volle kalendermaand gesteld op 30 dagen, met uitzondering van de maand op de laatste dag waarvan het tijdvak waarover de rente wordt berekend eindigt, in welk geval het werkelijke aantal dagen in aanmerking wordt genomen.   
-2.  Het bedrag van de in rekening te brengen heffingsrente wordt naar beneden afgerond op gehele euro’s.   
-3.  Het bedrag van de te vergoeden heffingsrente wordt naar boven afgerond op gehele euro’s.   
+1.  Bij de bepaling van het aantal dagen waarover ingevolge hoofdstuk VA van de wet belastingrente wordt berekend, wordt een volle kalendermaand gesteld op 30 dagen, met uitzondering van de maand op de laatste dag waarvan het tijdvak waarover de rente wordt berekend eindigt, in welk geval het werkelijke aantal dagen in aanmerking wordt genomen.   
+2.  Het bedrag van de in rekening te brengen belastingrente wordt naar beneden afgerond op gehele euro’s.   
+3.  Het bedrag van de te vergoeden belastingrente wordt naar boven afgerond op gehele euro’s.   
 
 ### Hoofdstuk  8a  
 
@@ -364,8 +456,8 @@ g. het bedrag van de belasting dat ter zake van de levering of de dienst is vers
 
 1.  Een voorwaardelijke vrijstelling van omzetbelasting wordt verleend aan diplomatieke en consulaire vertegenwoordigingen, internationale organisaties en NAVO-strijdkrachten die in een andere lid-staat van de Europese Gemeenschappen zijn gevestigd, dan wel gelegerd, met uitzondering van NAVO-strijdkrachten van die lid-staat zelf.   
 2.  Een voorwaardelijke vrijstelling van omzetbelasting wordt verleend aan personeelsleden van de in het eerste lid bedoelde instellingen.   
-3.  Bij het verlenen van de in het eerste lid bedoelde vrijstellingen zijn de voorwaarden, zoals de andere lid-staat die voor het instelling, dan wel het personeelslid heeft vastgesteld voor de vrijstelling van omzetbelasting ter zake van prestaties in het binnenlandse vrije verkeer, van overeenkomstige toepassing. De vrijstellingen worden niet verleend voor goederen die bestemd zijn voor gebruik binnen Nederland, noch voor diensten verricht met betrekking tot dergelijke goederen.   
-4.  De in het eerste en tweede lid bedoelde vrijstellingen worden slechts verleend, indien het instelling, dan wel het personeelslid een originele, door of namens de andere lid-staat gewaarmerkte verklaring overlegt waaruit blijkt dat ter zake aanspraak op vrijstelling van omzetbelasting bestaat. Voor deze verklaring dient gebruik te worden gemaakt van het communautaire document ter uitvoering van de vrijstelling omzetbelasting en accijns bij intracommunautaire aankopen door ambassades en consulaten en de leden daarvan, internationale organisaties en bepaalde functionarissen daarvan, en NAVO-onderdelen.   
+3.  Bij het verlenen van de in het eerste lid bedoelde vrijstellingen zijn de voorwaarden, zoals de andere lid-staat die voor de instelling, dan wel het personeelslid heeft vastgesteld voor de vrijstelling van omzetbelasting ter zake van prestaties in het binnenlandse vrije verkeer, van overeenkomstige toepassing. De vrijstellingen worden niet verleend voor goederen die bestemd zijn voor gebruik binnen Nederland, noch voor diensten verricht met betrekking tot dergelijke goederen.   
+4.  De in het eerste en tweede lid bedoelde vrijstellingen worden slechts verleend, indien de instelling, dan wel het personeelslid een originele, door of namens de andere lid-staat gewaarmerkte verklaring overlegt waaruit blijkt dat ter zake aanspraak op vrijstelling van omzetbelasting bestaat. Voor deze verklaring dient gebruik te worden gemaakt van het communautaire document ter uitvoering van de vrijstelling omzetbelasting en accijns bij intracommunautaire aankopen door ambassades en consulaten en de leden daarvan, internationale organisaties en bepaalde functionarissen daarvan, en NAVO-onderdelen.   
 5.  De in het eerste lid en tweede lid bedoelde vrijstelling kan direct worden verleend indien de instelling, dan wel het personeelslid, tijdig een geldige verklaring als bedoeld in het vierde lid ter beschikking stelt aan de ondernemer die de prestatie verricht. De in het eerste en tweede lid bedoelde vrijstelling kan worden verleend in de vorm van teruggaaf van belasting indien het bedrag van de vergoeding per factuur ten minste € 225 bedraagt.   
 6.  De vrijstelling vervalt wanneer niet of niet langer wordt voldaan aan de in het derde lid bedoelde voorwaarden. De alsdan verschuldigde omzetbelasting bedraagt ten hoogste het bedrag waarvan vrijstelling werd verleend.   
 
@@ -387,10 +479,6 @@ c. door de Mogendheid op wier grondgebied de dienstbetrekking wordt vervuld een 
 
 Aan de verplichting, bedoeld in [artikel 47b, tweede lid, van de wet](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), wordt voldaan uiterlijk op het moment waarop de gegevens en inlichtingen, bedoeld in [artikel 53, tweede en derde lid, van de wet](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), door een administratieplichtige als bedoeld in [artikel 22, eerste lid, van het Uitvoeringsbesluit inkomstenbelasting 2001](../../../../../../../../AMvB/uitvoeringsbesluit/inkomstenbelasting/2001/BWBR0012066/README.md) aan de inspecteur worden verstrekt.  
 
-### Artikel  43b  
-
-De in [artikel 22, eerste lid, van het Uitvoeringsbesluit inkomstenbelasting 2001](../../../../../../../../AMvB/uitvoeringsbesluit/inkomstenbelasting/2001/BWBR0012066/README.md) aangewezen administratieplichtigen zijn gehouden op de door de inspecteur voorgeschreven wijze de in [artikel 22, tweede lid, van het genoemd besluit](../../../../../../../../AMvB/uitvoeringsbesluit/inkomstenbelasting/2001/BWBR0012066/README.md) aangewezen gegevens en inlichtingen te verstrekken voor 1 maart van het jaar volgend op het kalenderjaar waarover de gegevens en inlichtingen worden verstrekt.  
-
 ### Hoofdstuk  10a  
 
 ####Geen geheimhoudingsplicht
@@ -401,7 +489,7 @@ De in [artikel 22, eerste lid, van het Uitvoeringsbesluit inkomstenbelasting 200
 
 a. de Minister van Financiën: 
 
-1°. gegevens die worden gebruikt door de Rijksauditdienst ten behoeve van controles en onderzoeken als bedoeld in [hoofdstuk VI van de Comptabiliteitswet 2001](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), of ten behoeve van door de Belastingdienst aan de Rijksauditdienst opgedragen werkzaamheden;  
+1°. gegevens die worden gebruikt door de Auditdienst Rijk ten behoeve van controles en onderzoeken als bedoeld in [hoofdstuk VI van de Comptabiliteitswet 2001](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), of ten behoeve van door de Belastingdienst aan de Auditdienst Rijk opgedragen werkzaamheden;  
 
 2°. gegevens over het vermoeden van het bestaan van een onbeheerd gelaten nalatenschap, vermogens- en persoonsgegevens en eventuele andere van belang geachte gegevens die nodig zijn voor de vereffening door het Rijksvastgoed- en ontwikkelingsbedrijf van onbeheerde nalatenschappen;    
 
@@ -437,9 +525,9 @@ e. de Minister van Veiligheid en Justitie:
 
 1°. gegevens over mogelijke ongebruikelijke transacties ten behoeve van de uitvoering en de handhaving van de [Wet ter voorkoming van witwassen financieren van terrorisme](../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) door de Financial Intelligence Unit Nederland;  
 
-2°. gegevens die van belang kunnen zijn bij het uitwisselen van rechtshulpverzoeken in het kader van de aanpak van grensoverschrijdende, zware criminaliteit door het Korps landelijke politiediensten/Dienst IPOL;  
+2°. gegevens die van belang kunnen zijn bij het uitwisselen van rechtshulpverzoeken in het kader van de aanpak van grensoverschrijdende, zware criminaliteit door de dienst IPOL van de Landelijke eenheid;  
 
-3°. gegevens die worden gebruikt voor de uitvoering van de [Politiewet 1993](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) door de Rijksrecherche;    
+3°. gegevens die worden gebruikt voor de uitvoering van de [Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) door de Rijksrecherche;    
 
 f. de Minister van Onderwijs, Cultuur en Wetenschap: gegevens over het inkomen over een bepaalde periode van (voormalige) ambtenaren ten behoeve van de vaststelling van werkloosheidsuitkeringen;  
 
@@ -447,35 +535,39 @@ g. de Minister van Infrastructuur en Milieu:
 
 1°. de aantallen personen die werkzaam zijn in bedrijven en de onttrokken hoeveelheden grondwater waarover grondwaterbelasting is berekend, ten behoeve van het vaststellen van de vervuilingswaarde voor de [Waterwet](../../../../../../../../wet/waterwet/BWBR0025458/README.md);  
 
-2°. gegevens die worden gebruikt door de Inspectie Verkeer en Waterstaat ten behoeve van het toezicht op de naleving van wet- en regelgeving van het Ministerie van Infrastructuur en Milieu, voor zover de Inspectie Verkeer en Waterstaat als toezichthouder is aangewezen, alsmede werkzaamheden ter bevordering van de veiligheid en de kwaliteit van het leefmilieu voor zover vallend binnen de toezichtdomeinen van de Inspectie Verkeer en Waterstaat;  
+2°. gegevens die worden gebruikt door de Inspectie Leefomgeving en Transport ten behoeve van het toezicht op de naleving van wet- en regelgeving van het Ministerie van Infrastructuur en Milieu, voor zover de Inspectie Leefomgeving en Transport als toezichthouder is aangewezen, alsmede werkzaamheden ter bevordering van de veiligheid en de kwaliteit van het leefmilieu voor zover vallend binnen de toezichtdomeinen van de Inspectie Leefomgeving en Transport;  
 
 3°. gegevens omtrent rechthebbenden van auto’s, welke rechthebbenden eerste kentekenhouder zijn van een nieuw motorrijtuig met een roetfilter, ten behoeve van de uitvoering en handhaving door Agentschap NL van de Subsidieregeling voor motorrijtuigen met emissiearme dieselmotor en recht op teruggaaf BPM;  
 
-4°. specifieke branche- en productkennis, resultaten en bevindingen van ingestelde onderzoeken en acties alsmede gegevens van burgers en bedrijven die behoren tot de doelgroep vuurwerkimporteurs, groothandelaren en detailhandelaren, ten behoeve van het selecteren van door de VROM-inspectie te inspecteren vuurwerkbedrijven;    
+4°. specifieke branche- en productkennis, resultaten en bevindingen van ingestelde onderzoeken en acties alsmede gegevens van burgers en bedrijven die behoren tot de doelgroep vuurwerkimporteurs, groothandelaren en detailhandelaren, ten behoeve van het selecteren van door de Inspectie Leefomgeving en Transport te inspecteren vuurwerkbedrijven;    
 
-h. de voorzitter van het managementteam van de FIOD: gegevens die door de FIOD worden gebruikt in het kader van de strafrechtelijke handhaving van de rechtsorde ingevolge [artikel 3 van de Wet op de bijzondere opsporingsdiensten](../../../../../../../../wet/wet/op/de/bijzondere/opsporingsdiensten/BWBR0019919/README.md);  
+h. de directeur van de FIOD: gegevens die door de FIOD worden gebruikt in het kader van de strafrechtelijke handhaving van de rechtsorde ingevolge [artikel 3 van de Wet op de bijzondere opsporingsdiensten](../../../../../../../../wet/wet/op/de/bijzondere/opsporingsdiensten/BWBR0019919/README.md);  
 
-i. de voorzitter van het managementteam van de Belastingdienst/Holland Midden: gegevens die worden gebruikt in het kader van de aan dit organisatieonderdeel toegewezen niet-fiscale toezichts- en opsporingstaken, doch met uitzondering van gegevens die worden gebruikt in het kader van de uitvoering en handhaving van de Wet ter voorkoming van witwassen en financieren van terrorisme;  
+i. de directeur van de Belastingdienst Holland/Midden: gegevens die worden gebruikt in het kader van de aan dit organisatieonderdeel toegewezen niet-fiscale toezichts- en opsporingstaken, doch met uitzondering van gegevens die worden gebruikt in het kader van de uitvoering en handhaving van de Wet ter voorkoming van witwassen en financieren van terrorisme;  
 
 j. gemeenten: 
 
 1°. winst uit onderneming, loon en resultaat uit overige werkzaamheden in de zin van de [Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) over een bepaalde periode en identificerende gegevens van een eventuele inhoudingsplichtige in de zin van de [Wet op de loonbelasting 1964](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) van (voormalige) ambtenaren ten behoeve van de vaststelling van en controle op betalingen van werkloosheidsuitkeringen op grond van gemeentelijke verordeningen;  
 
-2°. gegevens over uit te betalen voorlopige teruggaven inkomstenbelasting wegens toegekende heffingskortingen, op naam van de belastingschuldige staande bankrekeningnummers zoals deze blijken uit de Rentebase, kentekenregistergegevens en identificerende gegevens van een eventuele inhoudingsplichtige in de zin van de [Wet op de loonbelasting 1964](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) ten behoeve van de inning van gemeentelijke belastingen;  
+2°. gegevens over het inkomen van voormalige ambtsdragers over een bepaalde periode ten behoeve van de uitvoering van de wachtgeldregeling op basis van de [Algemene pensioenwet politieke ambtsdragers](../../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md);  
 
-3°. gegevens over bewoning van een eigen woning ten behoeve van het tegengaan van permanente bewoning van recreatiewoningen;  
+3°. gegevens over uit te betalen voorlopige teruggaven inkomstenbelasting wegens toegekende heffingskortingen, op naam van de belastingschuldige staande bankrekeningnummers zoals deze blijken uit de bestanden ten behoeve van rekeningenbeheer, kentekenregistergegevens en identificerende gegevens van een eventuele inhoudingsplichtige in de zin van de [Wet op de loonbelasting 1964](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) ten behoeve van de inning van gemeentelijke belastingen;  
 
-4°. gegevens die bij de aanvraag van een sociaal-fiscaalnummer aan de inspecteur worden verstrekt ten behoeve van de handhaving door gemeenten van de [Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md) een leefmilieuverordening als bedoeld in [artikel 9, derde lid, van de Wet op de stads- en dorpsvernieuwing](../../../../../../../../wet/wet/op/de/stads-/en/dorpsvernieuwing/BWBR0003709/README.md) en overige regelingen betreffende brandgevaar, onhygiënische omstandigheden en overbewoning;  
+4°. gegevens over bewoning van een eigen woning ten behoeve van het tegengaan van permanente bewoning van recreatiewoningen;  
 
-5°. kentekenregistergegevens van circus- en kermisauto’s als bedoeld in [artikel 30, eerste lid, onderdeel b, van de Wet op de motorrijtuigenbelasting 1994](../../../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) ten behoeve van de uitvoering en handhaving van het gemeentelijke ontheffingenbeleid inrijverbod milieuzones;  
+5°. gegevens die bij de aanvraag van een sociaal-fiscaalnummer aan de inspecteur worden verstrekt ten behoeve van de handhaving door gemeenten van de [Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md) een leefmilieuverordening als bedoeld in [artikel 9, derde lid, van de Wet op de stads- en dorpsvernieuwing](../../../../../../../../wet/wet/op/de/stads-/en/dorpsvernieuwing/BWBR0003709/README.md) en overige regelingen betreffende brandgevaar, onhygiënische omstandigheden en overbewoning;  
 
-6°. de naam, het adres en de woonplaats van erfgenamen, ten behoeve van het innen van openstaande gemeentelijke belastingschulden van de overledene;    
+6°. kentekenregistergegevens van circus- en kermisauto’s als bedoeld in [artikel 30, eerste lid, onderdeel b, van de Wet op de motorrijtuigenbelasting 1994](../../../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) ten behoeve van de uitvoering en handhaving van het gemeentelijke ontheffingenbeleid inrijverbod milieuzones;  
+
+7°. de naam, het adres en de woonplaats van erfgenamen, ten behoeve van het innen van openstaande gemeentelijke belastingschulden van de overledene;    
 
 k. waterschappen: 
 
-1°. gegevens over uit te betalen voorlopige teruggaven inkomstenbelasting wegens toegekende heffingskortingen, op naam van de belastingschuldige staande bankrekeningnummers zoals deze blijken uit de Rentebase, kentekenregistergegevens en identificerende gegevens van een eventuele inhoudingsplichtige in de zin van de [Wet op de loonbelasting 1964](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) ten behoeve van de inning van waterschapsbelastingen;  
+1°. gegevens over het inkomen van voormalige ambtsdragers over een bepaalde periode ten behoeve van de uitvoering van de wachtgeldregeling op basis van de [Algemene pensioenwet politieke ambtsdragers](../../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md);  
 
-2°. gegevens die van belang kunnen zijn voor de uitvoering en het toezicht op naleving van de [Waterwet](../../../../../../../../wet/waterwet/BWBR0025458/README.md);    
+2°. gegevens over uit te betalen voorlopige teruggaven inkomstenbelasting wegens toegekende heffingskortingen, op naam van de belastingschuldige staande bankrekeningnummers zoals deze blijken uit de bestanden ten behoeve van rekeningenbeheer, kentekenregistergegevens en identificerende gegevens van een eventuele inhoudingsplichtige in de zin van de [Wet op de loonbelasting 1964](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) ten behoeve van de inning van waterschapsbelastingen;  
+
+3°. gegevens die van belang kunnen zijn voor de uitvoering en het toezicht op naleving van de [Waterwet](../../../../../../../../wet/waterwet/BWBR0025458/README.md);    
 
 l. de officier van justitie: 
 
@@ -489,7 +581,7 @@ l. de officier van justitie:
 
 5°. gegevens die van belang zijn voor de tenuitvoerlegging van rechterlijke beslissingen op grond van [artikel 553 van het Wetboek van Strafvordering](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);    
 
-m. gemeenten, provincies, de politie, de officier van justitie, de Minister van Sociale Zaken en Werkgelegenheid, de Koninklijke marechaussee, de Arbeidsinspectie, de Sociale verzekeringsbank of het Uitvoeringsinstituut werknemersverzekeringen: gegevens die nodig zijn om de samenwerking in het kader van de integrale toepassing en handhaving van overheidsregelingen effectief en efficiënt te laten verlopen voor zover een convenant is gesloten met deze bestuursorganen;  
+m. gemeenten, provincies, de politie, de officier van justitie, de Minister van Sociale Zaken en Werkgelegenheid, de Koninklijke marechaussee, de Inspectie SZW, de Sociale verzekeringsbank of het Uitvoeringsinstituut werknemersverzekeringen: gegevens die nodig zijn om de samenwerking in het kader van de integrale toepassing en handhaving van overheidsregelingen effectief en efficiënt te laten verlopen voor zover een convenant is gesloten met deze bestuursorganen;  
 
 n. academische ziekenhuizen: gegevens over het inkomen en vermogen van (voormalige) werknemers over een bepaalde periode ten behoeve van de vaststelling van werkloosheidsuitkeringen;  
 
@@ -501,7 +593,7 @@ q. de Pensioen- en Uitkeringsraad: gegevens over het inkomen en vermogen over ee
 
 r. de Stichting Administratie Indonesische Pensioenen: gegevens over het inkomen en vermogen over een bepaalde periode ten behoeve van het vaststellen van de buitengewone pensioenen volgens de [Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen](../../../../../../../../wet/uitkeringswet/tegemoetkoming/twee/tot/vijfjarige/diensttijd/veteranen/BWBR0009197/README.md) of de [Uitkeringswet KNIL beroepsmilitairen](../../../../../../../../wet/uitkeringswet/knil-beroepsmilitairen/BWBR0009473/README.md);  
 
-s. De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten: gegevens over opgelegde vergrijpboetes ten behoeve van de uitvoering van de betrouwbaarheidstoetsing, bedoeld in [artikel 14 van het Besluit Gedragstoezicht financiële ondernemingen Wft](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [artikel 7 van het Besluit prudentiële regels Wft](../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), [artikel 2 van de Beleidsregel inzake de betrouwbaarheidstoetsing van (kandidaat)(mede)beleidsbepalers van en houders van gekwalificeerde deelnemingen in onder toezicht staande instellingen](../../../../../../../..//BWBR0011278/README.md) (Stcrt. 2005, 20), artikel 2 van de Beleidsregel 06-1 inzake de betrouwbaarheidstoets van (kandidaat)(mede)beleidsbepalers van accountantsorganisaties van 19 september 2006 (Stcrt. 2006, 90) en [artikel 33 van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](../../../../../../../../AMvB/besluit/uitvoering/pensioenwet/en/wet/verplichte/beroepspensioenregeling/BWBR0020892/README.md);  
+s. De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten: gegevens over opgelegde vergrijpboetes ten behoeve van de uitvoering van de betrouwbaarheidstoetsing, bedoeld in [artikel 14 van het Besluit Gedragstoezicht financiële ondernemingen Wft](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [artikel 7 van het Besluit prudentiële regels Wft](../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), [artikel 2 van de Beleidsregel inzake de betrouwbaarheidstoetsing van (kandidaat)(mede)beleidsbepalers van en houders van gekwalificeerde deelnemingen in onder toezicht staande instellingen](../../../../../../../..//BWBR0011278/README.md) (Stcrt. 2005, 20), artikel 2 van de Beleidsregel 06-1 inzake de betrouwbaarheidstoets van (kandidaat)(mede)beleidsbepalers van accountantsorganisaties van 19 september 2006 (Stcrt. 2006, 190) en [artikel 33 van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](../../../../../../../../AMvB/besluit/uitvoering/pensioenwet/en/wet/verplichte/beroepspensioenregeling/BWBR0020892/README.md);  
 
 t. het Bureau Financieel Toezicht, De Nederlandsche Bank N.V., de voorzitter van het managementteam van de Belastingdienst/Holland Midden en de Stichting Autoriteit Financiële Markten: gegevens die van belang kunnen zijn bij de uitvoering en de handhaving van de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md);  
 
@@ -511,29 +603,31 @@ v. de Consumentenautoriteit: gegevens die van belang kunnen zijn voor de uitvoer
 
 w. provincies: 
 
-1°. gegevens die van belang kunnen zijn voor de uitvoering en het toezicht op naleving van de [Waterwet](../../../../../../../../wet/waterwet/BWBR0025458/README.md);  
+1°. gegevens over het inkomen van voormalige ambtsdragers over een bepaalde periode ten behoeve van de uitvoering van de wachtgeldregeling op basis van de [Algemene pensioenwet politieke ambtsdragers](../../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md);  
 
-2°. gegevens die van belang kunnen zijn voor vergunningverlening en het houden van toezicht in het kader van de [Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);    
+2°. gegevens die van belang kunnen zijn voor de uitvoering en het toezicht op naleving van de [Waterwet](../../../../../../../../wet/waterwet/BWBR0025458/README.md);  
 
-x. de Arbeidsinspectie, het Uitvoeringsinstituut werknemersverzekeringen, gemeenten, de Sociale verzekeringsbank, het openbaar Ministerie, de politie en de Minister van Sociale Zaken en Werkgelegenheid (zoals vertegenwoordigd in de landelijke Stuurgroep Interventieteams): gegevens die nodig zijn voor de uitvoering van samenwerkingsprojecten door middel van interventieteams ter voorkoming en terugdringing van belasting- en premiefraude, uitkeringsfraude, illegale tewerkstelling en de daarmee samenhangende misstanden;  
+3°. gegevens die van belang kunnen zijn voor vergunningverlening en het houden van toezicht in het kader van de [Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);    
+
+x. de Inspectie SZW, het Uitvoeringsinstituut werknemersverzekeringen, gemeenten, de Sociale verzekeringsbank, het openbaar Ministerie, de politie en de Minister van Sociale Zaken en Werkgelegenheid (zoals vertegenwoordigd in de landelijke Stuurgroep Interventieteams): gegevens die nodig zijn voor de uitvoering van samenwerkingsprojecten door middel van interventieteams ter voorkoming en terugdringing van belasting- en premiefraude, uitkeringsfraude, illegale tewerkstelling en de daarmee samenhangende misstanden;  
 
 y. de gemeenschappelijke regeling DCMR Milieudienst Rijnmond: gegevens die van belang kunnen zijn voor de vergunningverlening, en het toezicht en de handhaving van de gemeentelijke en provinciale taken in het kader van de [Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), de [Wet bodembescherming](../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) en de [Wet geluidhinder](../../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md);  
 
-z. de Voedsel en Waren Autoriteit: gegevens met betrekking tot het doen van loonaangifte door horecaondernemers ten behoeve van het op grond van [artikel 11a, eerste en vierde lid, van de Tabakswet](../../../../../../../../wet/tabakswet/BWBR0004302/README.md) te maken onderscheid tussen werkgevers met werknemers en werkgevers zonder werknemers;  
+z. de Nederlandse Voedsel- en Warenautoriteit: gegevens met betrekking tot het doen van loonaangifte door horecaondernemers ten behoeve van het op grond van [artikel 11a, eerste en vierde lid, van de Tabakswet](../../../../../../../../wet/tabakswet/BWBR0004302/README.md) te maken onderscheid tussen werkgevers met werknemers en werkgevers zonder werknemers;  
 
 aa. de inspecteur, bedoeld in [artikel 1, onderdeel h, van het Besluit tegemoetkoming specifieke zorgkosten](../../../../../../../../AMvB/besluit/tegemoetkoming/specifieke/zorgkosten/BWBR0027859/README.md), en de ontvanger, bedoeld in artikel 1, onderdeel i, van dat besluit: gegevens die van belang zijn voor de uitvoering van het Besluit tegemoetkoming specifieke zorgkosten;  
 
-ab. de Minister van Infrastructuur en Milieu of het Centraal Fonds voor de Volkshuisvesting: de resultaten van bestandsbevragingen ter verificatie van bij de VROM-inspectie of het Centraal Fonds voor de Volkshuisvesting aanwezige informatie, voor zover niet afkomstig uit opsporingsonderzoeken, ten behoeve van het toezicht op woningcorporaties.     
-2.  De in het eerste lid bedoelde gegevens worden verstrekt op verzoek van het betreffende bestuursorgaan. De eerste volzin is niet van toepassing op de verstrekking van gegevens als bedoeld in het eerste lid, onderdeel l, onder 3°, alsmede de onderdelen h, i en t, voor zover het gegevens betreft die worden verstrekt aan de voorzitter van het managementteam van de Belastingdienst/Holland Midden.   
+ab. de Minister van Binnenlandse Zaken en Koninkrijksrelaties of het Centraal Fonds voor de Volkshuisvesting: de resultaten van bestandsbevragingen ter verificatie van bij de directie Woningmarkt van het directoraat-generaal Wonen, Bouwen en Integratie van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties of het Centraal Fonds voor de Volkshuisvesting aanwezige informatie, alsmede vastgoedtransactiegegevens en inkomensgegevens van leden van de raad van bestuur en van medewerkers van de woningcorporaties, ten behoeve van het toezicht op de woningcorporaties en ten behoeve van integriteitsonderzoeken;  
+
+ac. Stichting Nationale en Internationale Wegvervoer Organisatie: de controlerapporten en onderzoeksverslagen die zijn opgemaakt naar aanleiding van controles bij vervoerders, gegevens omtrent btw-identificatienummers van vervoerders en gegevens van vervoerders die op één adres staan ingeschreven, ten behoeve van de uitvoering en handhaving van de haar op grond van de [Wet wegvervoer goederen](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) toegekende taken.     
+2.  De in het eerste lid bedoelde gegevens worden verstrekt op verzoek van het betreffende bestuursorgaan. De eerste volzin is niet van toepassing op de verstrekking van gegevens als bedoeld in het eerste lid, onderdeel l, onder 3°, alsmede de onderdelen h, i en t, voor zover het gegevens betreft die worden verstrekt aan de directeur van de Belastingdienst/Holland Midden.   
 3.  Voor de toepassing van het eerste lid wordt verstaan onder: 
 
 a. inkomen: het inkomensgegeven, bedoeld in [artikel 21, onderdeel e, van de wet](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);  
 
 b. vermogen: de rendementsgrondslag, bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
 
-c. Rentebase: op jaarlijkse basis door de Belastingdienst op geautomatiseerde wijze van banken en soortgelijke instellingen verkregen gegevens over rente en saldi van bankrekeningen, gekoppeld aan een burgerservicenummer, of bij het ontbreken daarvan, een sociaal-fiscaalnummer, en opgenomen in een bestand;  
-
-d. kentekenregistergegevens: gegevens afkomstig van de Rijksdienst voor het Wegverkeer, bestaande uit de datum van het afgeven van het kenteken, de naam-, adres- en woonplaatsgegevens van de houder van het kenteken en het merk en type auto.     
+c. kentekenregistergegevens: gegevens afkomstig van de Rijksdienst voor het Wegverkeer, bestaande uit de datum van het afgeven van het kenteken, de naam-, adres- en woonplaatsgegevens van de houder van het kenteken en het merk en type auto.     
 
 ### Hoofdstuk  11  
 
@@ -541,7 +635,7 @@ d. kentekenregistergegevens: gegevens afkomstig van de Rijksdienst voor het Wegv
 
 ### Artikel  43d  
 
-Artikel 43c, eerste lid, onderdeel ab, is van overeenkomstige toepassing op de uitvoering van [artikel 19 van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md).  
+Artikel 43c, eerste lid, onderdeel aa, is van overeenkomstige toepassing op de uitvoering van [artikel 19 van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md).  
 
 ### Artikel  44  
 

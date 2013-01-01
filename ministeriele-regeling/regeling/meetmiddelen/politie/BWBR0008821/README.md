@@ -16,7 +16,7 @@ b. remvertragingsmeters, waaraan al dan niet een pedaalkrachtmeter is verbonden;
 
 c. wiellastmeters;  
 
-d. andere door de Ministers van Binnenlandse Zaken en van Justitie aan te wijzen meetmiddelen.    
+d. andere door de Minister van Veiligheid en Justitie aan te wijzen meetmiddelen.    
 
 ### Artikel  2  
 
@@ -36,6 +36,10 @@ Na de inwerkingtreding van deze regeling berusten de verklaringen, bedoeld in ar
 ### Artikel  5  
 
 De Regeling meetmiddelen politie (Stcrt. 1994, 64) wordt ingetrokken.  
+
+### Artikel  5a  
+
+Deze regeling berust op [artikel 22 van het Besluit bewapening en uitrusting politie](../../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md).  
 
 ### Artikel  6  
 

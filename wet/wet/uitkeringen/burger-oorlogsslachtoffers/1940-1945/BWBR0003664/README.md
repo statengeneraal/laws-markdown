@@ -137,7 +137,7 @@ Recht op een garantie-uitkering heeft het burger-oorlogsslachtoffer, dat ten tij
 ### Artikel  9  
 
 1.  De periodieke uitkering aan de weduwe of weduwnaar van het burger-oorlogsslachtoffer wordt ten hoogste gedurende een tijdvak van twee jaren na de datum van het overlijden verleend, indien de weduwe of weduwnaar op dat tijdstip nog niet de leeftijd van 40 jaren heeft bereikt, tenzij deze arbeidsongeschikt is of een of meer minderjarige kinderen te haren of zijnen laste heeft.   
-2.  Een periodieke uitkering aan de weduwe of weduwnaar van het burger-oorlogsslachtoffer wordt niet toegekend, indien het huwelijk is gesloten, nadat het burger-oorlogsslachtoffer, aan wie voordien een periodieke uitkering in de zin van deze wet was toegekend, de 65-jarige leeftijd heeft bereikt, tenzij de echtgenoten of geregistreerde partners reeds gedurende een periode van ten minste tien jaren met elkaar zijn gehuwd geweest of hebben samengeleefd.   
+2.  Een periodieke uitkering aan de weduwe of weduwnaar van het burger-oorlogsslachtoffer wordt niet toegekend, indien het huwelijk is gesloten, nadat het burger-oorlogsslachtoffer, aan wie voordien een periodieke uitkering in de zin van deze wet was toegekend, de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt, tenzij de echtgenoten of geregistreerde partners reeds gedurende een periode van ten minste tien jaren met elkaar zijn gehuwd geweest of hebben samengeleefd.   
 
 ### §  2  
 
@@ -161,9 +161,9 @@ d. de Raad kan, bij beschikking, van het bepaalde onder c afwijken indien naar z
 7.  Indien het burger-oorlogsslachtoffer voldoet aan het bepaalde in artikel 7, onder c, wordt de grondslag vastgesteld op het bedrag, bedoeld in het achtste lid, onder a, tenzij de Raad, rekening houdende met alle omstandigheden, in een individueel geval van oordeel is, dat een hogere grondslag gerechtvaardigd is. Deze grondslag kan niet op een hoger bedrag worden vastgesteld dan de grondslag die zou zijn vastgesteld, indien het burger-oorlogsslachtoffer zou voldoen aan het bepaalde in het tweede lid, onder a of b.   
 8.  De grondslag wordt bepaald op: 
 
-a. ten minste een bedrag van € 1.867,87 per maand per 1 januari 1983 per 1 juli 2012: € 2 004,74;  
+a. ten minste een bedrag van € 1.867,87 per maand per 1 januari 1983 per 1 januari 2013: € 2 022,98;  
 
-b. ten hoogste een bedrag van € 3.877,64 per maand per 1 januari 1983 per 1 juli 2012: € 4 161,81.     
+b. ten hoogste een bedrag van € 3.877,64 per maand per 1 januari 1983 per 1 januari 2013: € 4 199,68.     
 9.  De grondslag, waarnaar de uitkering aan de weduwe of weduwnaar bedoeld in artikel 7, onder d tot en met f, wordt berekend, wordt vastgesteld op hetzelfde bedrag als waarop de grondslag voor het burger-oorlogsslachtoffer zou zijn vastgesteld, indien hij op de datum van de aanvraag, bedoeld in artikel 35, nog in leven zou zijn geweest en op die datum voldaan zou hebben aan het bepaalde in artikel 7, onder a of b.   
 
 ### Artikel  11  
@@ -184,7 +184,7 @@ De periodieke uitkering bedraagt een percentage van de overeenkomstig het bepaal
 
 ### Artikel  14  
 
-1.  Het in artikel 13 bedoelde percentage bedraagt voor het burger-oorlogsslachtoffer dat de 65-jarige leeftijd nog niet heeft bereikt: 
+1.  Het in artikel 13 bedoelde percentage bedraagt voor het burger-oorlogsslachtoffer dat de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt: 
 
 a. 80, indien het burger-oorlogsslachtoffer is gehuwd, tenzij het bepaalde onder b van toepassing is;  
 
@@ -193,7 +193,7 @@ b. 70, indien het burger-oorlogsslachtoffer is gehuwd en het inkomen van de echt
 c. 75, indien het burger-oorlogsslachtoffer niet is gehuwd en minderjarige kinderen te zijnen laste heeft;  
 
 d. 70, indien het burger-oorlogsslachtoffer als alleenstaande moet worden aangemerkt.     
-2.  Het in artikel 13 bedoelde percentage bedraagt voor het burger-oorlogsslachtoffer met ingang van de dag waarop hij de 65-jarige leeftijd heeft bereikt: 
+2.  Het in artikel 13 bedoelde percentage bedraagt voor het burger-oorlogsslachtoffer met ingang van de dag waarop hij de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt: 
 
 a. 65, indien het burger-oorlogsslachtoffer is gehuwd, tenzij het bepaalde onder *b* van toepassing is;  
 
@@ -206,12 +206,12 @@ d. 55, indien het burger-oorlogsslachtoffer als alleenstaande moet worden aangem
 
 ### Artikel  15  
 
-1.  Behoudens het bepaalde in het derde lid bedraagt het in artikel 13 bedoelde percentage voor de nagelaten betrekking van het burger-oorlogsslachtoffer die de 65-jarige leeftijd nog niet heeft bereikt: 
+1.  Behoudens het bepaalde in het derde lid bedraagt het in artikel 13 bedoelde percentage voor de nagelaten betrekking van het burger-oorlogsslachtoffer die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt: 
 
 a. 75, indien de weduwe of weduwnaar van het burger-oorlogsslachtoffer minderjarige kinderen te haren of zijnen laste heeft;  
 
 b. 70, indien de weduwe of weduwnaar van het burger-oorlogsslachtoffer geen minderjarige kinderen te haren of zijnen laste heeft.     
-2.  Het in artikel 13 bedoelde percentage bedraagt voor de nagelaten betrekking van het burger-oorlogsslachtoffer die de 65-jarige leeftijd heeft bereikt: 
+2.  Het in artikel 13 bedoelde percentage bedraagt voor de nagelaten betrekking van het burger-oorlogsslachtoffer die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt: 
 
 a. 55, indien de weduwe of weduwnaar van het burger-oorlogsslachtoffer minderjarige kinderen te haren of zijnen laste heeft;  
 
@@ -256,9 +256,9 @@ e. 20% van het bedrag, bedoeld in artikel 10, achtste lid, onder *a*, voor een e
 ### Artikel  19  
 
 1.  Behoudens het bepaalde in het vierde lid, wordt aan het burger-oorlogsslachtoffer, wiens invaliditeit, welke het gevolg is van het letsel, bedoeld in artikel 2, zijn vermogen om door arbeid een inkomen te verwerven nadelig beïnvloedt of zou hebben beïnvloed indien hij nog op inkomsten uit arbeid zou zijn aangewezen, een toeslag toegekend voor voorzieningen welke strekken tot verbetering van diens levensomstandigheden.   
-2.  De hoogte van de toeslag, bedoeld in het eerste lid, bedraagt 10% van het bedrag bedoeld in artikel 10, achtste lid, onder a, nadat dit is verminderd met het bedrag, bedoeld in artikel 26, eerste lid, tenzij het bepaalde in het derde lid van toepassing is.   
+2.  De hoogte van de toeslag, bedoeld in het eerste lid, bedraagt 10% van het bedrag bedoeld in artikel 10, achtste lid, onder a, tenzij het bepaalde in het derde lid van toepassing is.   
 3.  Indien aan het burger-oorlogsslachtoffer een periodieke uitkering is toegekend, wordt op de in het tweede lid bedoelde toeslag een bedrag in mindering gebracht, berekend volgens de formule:   ![1541](http://wetten.overheid.nl/Illustration/1541)
-in welke formule A voorstelt: het bedrag bedoeld in artikel 10, achtste lid, onder a, nadat dit is verminderd met het bedrag, bedoeld in artikel 26, eerste lid; B voorstelt: het bedrag bedoeld in artikel 10, achtste lid, onder b; C voorstelt: het bedrag bedoeld in artikel 10, achtste lid, onder a; G voorstelt: de grondslag, waarnaar de uitkering wordt berekend.   
+in welke formule A voorstelt: het bedrag bedoeld in artikel 10, achtste lid, onder a; B voorstelt: het bedrag bedoeld in artikel 10, achtste lid, onder b; C voorstelt: het bedrag bedoeld in artikel 10, achtste lid, onder a; G voorstelt: de grondslag, waarnaar de uitkering wordt berekend.   
 4.  De toeslag, bedoeld in het eerste lid, wordt niet toegekend, indien toepassing is gegeven aan het bepaalde in de artikelen 18, eerste lid, 32, vierde lid, of 42.   
 
 ### Artikel  20  
@@ -269,7 +269,7 @@ in welke formule A voorstelt: het bedrag bedoeld in artikel 10, achtste lid, ond
 
 a. jaarlijks, naar evenredigheid van de ontwikkeling van de standaardpremie, bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet op de zorgtoeslag](../../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md),  
 
-b. bij het door de gerechtigde bereiken van de 65-jarige leeftijd,  
+b. bij het door de gerechtigde bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md),  
 
 c. bij veranderingen in de gezinssituatie van de gerechtigde, of  
 
@@ -284,7 +284,7 @@ d. indien de Sociale verzekeringsbank van oordeel is dat het niet herzien van he
 
 a. jaarlijks, naar evenredigheid van de ontwikkeling van de standaardpremie, bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet op de zorgtoeslag](../../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md),  
 
-b. bij het door de gerechtigde bereiken van de 65-jarige leeftijd,  
+b. bij het door de gerechtigde bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md),  
 
 c. bij veranderingen in de gezinssituatie van de gerechtigde, of  
 
@@ -297,7 +297,7 @@ d. indien de Sociale verzekeringsbank van oordeel is dat het niet herzien van he
 
 ### Artikel  23  
 
-1.  Op de periodieke uitkering wordt, indien de uitkeringsgerechtigde 65 jaar of ouder is, een toeslag verleend. Deze toeslag bedraagt: 
+1.  Op de periodieke uitkering wordt, indien de uitkeringsgerechtigde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt, een toeslag verleend. Deze toeslag bedraagt: 
 
 a. voor de gehuwde uitkeringsgerechtigde 60% van het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in [artikel 9, eerste lid, onder b, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), vermeerderd met de vakantie-uitkering, bedoeld in [artikel 29 van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
 
@@ -315,9 +315,9 @@ c. aan de gehuwde uitkeringsgerechtigde, van wie de echtgenoot recht heeft op en
 
 ### Artikel  23a  
 
-1.  Indien de uitkeringsgerechtigde over zijn periodieke uitkering of garantie-uitkering de inkomensafhankelijke bijdrage, bedoeld in [artikel 41 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), verschuldigd is, heeft hij recht op een toeslag. Deze toeslag bedraagt het percentage van de periodieke uitkering of garantie-uitkering dat overeenkomt met het bijdragepercentage, bedoeld in [artikel 45, tweede lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), vermenigvuldigd met anderhalf, voorzover de uitkering of garantie-uitkering is te rekenen tot het deel van het bijdrage-inkomen, bedoeld in [artikel 43, eerste lid, onderdeel a, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
+1.  Indien de uitkeringsgerechtigde over zijn periodieke uitkering of garantie-uitkering de inkomensafhankelijke bijdrage, bedoeld in [artikel 43 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), verschuldigd is, heeft hij recht op een toeslag. Deze toeslag bedraagt het percentage van de periodieke uitkering of garantie-uitkering dat overeenkomt met het bijdragepercentage, bedoeld in [artikel 45, tweede lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), vermenigvuldigd met anderhalf, voorzover de uitkering of garantie-uitkering is te rekenen tot het deel van het bijdrage-inkomen, bedoeld in [artikel 43, tweede lid, onderdeel a, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
 2.  Indien de uitkeringsgerechtigde over zijn periodieke uitkering of garantie-uitkering de bijdrage, bedoeld in [artikel 69, tweede lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), verschuldigd is, heeft hij recht op een toeslag. Voor de berekening van deze toeslag is het eerste lid, tweede volzin, van overeenkomstige toepassing.   
-3.  Het in aanmerking te nemen bijdrage-inkomen bedraagt op jaarbasis ten hoogste het bedrag, bedoeld in [artikel 43, tweede lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
+3.  Het in aanmerking te nemen bijdrage-inkomen bedraagt op jaarbasis ten hoogste het bedrag, bedoeld in [artikel 43, derde lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
 
 ### §  5  
 
@@ -328,7 +328,7 @@ c. aan de gehuwde uitkeringsgerechtigde, van wie de echtgenoot recht heeft op en
 1.  De garantie-uitkering bedraagt een percentage van het bedrag, bedoeld in artikel 11.   
 2.  Het percentage, bedoeld in het eerste lid, bedraagt: 
 
-a. voor het burger-oorlogsslachtoffer, dat de leeftijd van 65 jaar nog niet heeft bereikt: 
+a. voor het burger-oorlogsslachtoffer, dat de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt: 
 
 1e. 80, indien hij is gehuwd, tenzij hij duurzaam gescheiden leeft van zijn echtgenoot;  
 
@@ -336,7 +336,7 @@ a. voor het burger-oorlogsslachtoffer, dat de leeftijd van 65 jaar nog niet heef
 
 3e. 70, indien hij als alleenstaande moet worden aangemerkt;    
 
-b. voor het burger-oorlogsslachtoffer, dat de leeftijd van 65 jaren heeft bereikt: 
+b. voor het burger-oorlogsslachtoffer, dat de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt: 
 
 1e. 65, indien hij is gehuwd, tenzij hij duurzaam gescheiden leeft van zijn echtgenoot;  
 
@@ -356,14 +356,6 @@ b. voor het burger-oorlogsslachtoffer, dat de leeftijd van 65 jaren heeft bereik
 4.  De aanpassing van een periodieke uitkering of een garantie-uitkering, bedoeld in het eerste lid, vindt plaats zonder dat dit bij beschikking is vastgesteld.   
 5.  De aangepaste periodieke uitkering of garantie-uitkering, bedoeld in het vierde lid, wordt betaald bij de eerste betaling nadat de aanpassing heeft plaatsgevonden.   
 
-### Artikel  26  
-
-1.  Op de periodieke uitkering, waaronder begrepen de met de in artikel 23 genoemde toeslag verhoogde uitkering, wordt, na toepassing van de artikelen 28 en 30, een bedrag ingehouden, dat gelijk is aan het bedrag van de premie dat een werkgever ingevolge [hoofdstuk 3 van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) op het overeenkomstige loon van een werknemer, die verzekerd is ingevolge [die wet](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), inhoudt.   
-2.  Op de garantie-uitkering wordt het in het eerste lid bedoelde bedrag ingehouden.   
-3.  Indien ingevolge de [Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) een premie wordt ingehouden waarvan het percentage per bedrijfstak verschilt, wordt met inachtneming van bij algemene maatregel van bestuur te stellen regelen door Onze Minister voor de toepassing van het eerste lid een gemiddeld percentage vastgesteld.   
-4.  Het bepaalde in het eerste lid is niet van toepassing indien de uitkering is vastgesteld met toepassing van artikel 15, derde lid.   
-5.  Het eerste en tweede lid zijn niet van toepassing indien de uitkeringsgerechtigde 65 jaar of ouder is.   
-
 ### Artikel  27  
 
 Het bedrag, bedoeld in artikel 28, vierde lid, onder a, wordt door Onze Minister herzien, indien en voor zover de ontwikkeling van de consumentenprijsindex daartoe aanleiding geeft.  
@@ -380,9 +372,9 @@ De op grond van de artikelen 20, eerste en tweede lid, en 21, eerste en tweede l
 
 1.  Op de periodieke uitkering vermeerderd met de toeslagen, bedoeld in de artikelen 21 en 23, worden, voor zover deze over de overeenkomstige periode werden genoten, in mindering gebracht: 
 
-a. indien de uitkeringsgerechtigde de leeftijd van 65 jaar nog niet heeft bereikt, de bruto-inkomsten uit tegenwoordige arbeid in beroep of bedrijf, na aftrek van de daarop drukkende verwervingskosten, voor zover deze inkomsten 20% van de grondslag waarnaar de uitkering is berekend te boven gaan;  
+a. indien de uitkeringsgerechtigde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt, de bruto-inkomsten uit tegenwoordige arbeid in beroep of bedrijf, na aftrek van de daarop drukkende verwervingskosten, voor zover deze inkomsten 20% van de grondslag waarnaar de uitkering is berekend te boven gaan;  
 
-b. Indien de uitkeringsgerechtigde 65 jaar of ouder is, en pensioengerechtigd ingevolge de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), het bruto-ouderdomspensioen krachtens die wet van de uitkeringsgerechtigde en de echtgenoot met inbegrip van de toeslag, bedoeld in [artikel 10 van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), en de vakantie-uitkering, bedoeld in [artikel 29 van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), voor zover dit niet meer bedraagt dan tweemaal het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in [artikel 9, eerste lid, onder b, van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), vermeerderd met de vakantie-uitkering, bedoeld in [artikel 29 van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
+b. Indien de uitkeringsgerechtigde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt, en pensioengerechtigd is ingevolge de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), het bruto-ouderdomspensioen krachtens die wet van de uitkeringsgerechtigde en de echtgenoot met inbegrip van de toeslag, bedoeld in [artikel 10 van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), en de vakantie-uitkering, bedoeld in [artikel 29 van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), voor zover dit niet meer bedraagt dan tweemaal het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in [artikel 9, eerste lid, onder b, van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), vermeerderd met de vakantie-uitkering, bedoeld in [artikel 29 van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
 
 c. de inkomsten uit vermogen van de uitkeringsgerechtigde en van diens echtgenoot;  
 
@@ -627,9 +619,7 @@ In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../../../
 
 ### Artikel  56  
 
-1.  Tegen een besluit op grond van deze wet kan een belanghebbende beroep instellen bij de Centrale Raad van Beroep.   
-2.  In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de termijn voor het indienen van een beroepschrift dertien weken, indien de belanghebbende in het buitenland is gevestigd.   
-3.  Het griffierecht bedraagt € 35.   
+In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de termijn voor het indienen van een beroepschrift dertien weken, indien de belanghebbende in het buitenland is gevestigd.  
 
 ### Hoofdstuk  VI  
 
@@ -639,7 +629,7 @@ In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../../../
 
 1.  De periodieke uitkering of de garantie-uitkering wordt, met uitzondering van de op grond van artikel 10 vastgestelde grondslag, opnieuw vastgesteld: 
 
-a. wanneer de uitkeringsgerechtigde of zijn echtgenoot de 65-jarige leeftijd bereikt;  
+a. wanneer de uitkeringsgerechtigde of zijn echtgenoot de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), bereikt;  
 
 b. wanneer de uitkeringsgerechtigde in het huwelijk treedt of zijn huwelijk wordt beëindigd door echtscheiding of overlijden van zijn echtgenoot;  
 

@@ -18,34 +18,21 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. wet: [Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+– *pluimvee:* pluimvee als bedoeld in artikel 2, onderdeel o, van Verordening (EG) nr. 1099/2009;  
 
-b. slachthuis: inrichting of installatie, met inbegrip van voorzieningen voor het verplaatsen of onderbrengen van dieren, die wordt gebruikt voor het commercieel slachten of doden van eenhoevigen, herkauwers, varkens, konijnen en pluimvee;  
+– *slachten:* slachten als bedoeld in artikel 2, onderdeel j, van Verordening (EG) nr. 1099/2009;  
 
-c. verplaatsen: uitladen of drijven van dieren van de bij het slachthuis behorende losplaatsen, stallen of hokken naar de lokalen of plaatsen waar zij zullen worden geslacht of gedood;  
+– *slachthuis:* slachthuis als bedoeld in artikel 2, onderdeel k, van Verordening (EG) nr. 1099/2009;  
 
-d. onderbrengen: houden en in voorkomend geval op passende wijze verzorgen door het verschaffen van water, voeder en rust, van dieren in door een slachthuis gebruikte stallen, hokken, overdekte plaatsen of weiden, voordat de dieren worden geslacht of gedood;  
+– *Verordening (EG) nr. 1099/2009:* Verordening (EG) nr. 1099/2009 van de Raad van 24 september 2009 inzake de bescherming van dieren bij het doden (PbEU 2009, L 303);  
 
-e. fixeren: toepassen op een dier van een methode die erop is gericht de bewegingen van het dier te beperken teneinde het doeltreffend bedwelmen of doden te vergemakkelijken;  
+– *wet:*[Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md).    
 
-f. bedwelmen: toepassen op een dier van een methode die het dier onmiddellijk brengt in een staat van bewusteloosheid die aanhoudt totdat de dood intreedt;  
+### Artikel  1a  
 
-g. doden: toepassen op een dier van een methode die resulteert in de dood van het dier;  
-
-h. slachten: doden van een dier door verbloeding;  
-
-i. productiedieren: eenhoevigen, herkauwers, varkens, konijnen en pluimvee, alle voor zover gehouden met het oog op het verkrijgen van producten, afkomstig van die dieren;  
-
-j. pluimvee: kippen, kalkoenen, parelhoenders, eenden, ganzen, duiven, loopvogels en andere niet-gedomesticeerde vogels die in gevangenschap worden gekweekt of gehouden, anders dan eendagskuikens;  
-
-k. pelsdier: dier dat uitsluitend wordt gefokt en gehouden met het oog op de pelsproductie;  
-
-l. eendagskuikens: pluimvee van alle soorten dat nog geen 72 uur oud is en dat, met uitzondering van muskuseenden, nog niet is gevoerd;  
-
-m. richtlijn: richtlijn nr. 93/119/EG van de Raad van de Europese Unie van 22 december 1993 inzake de bescherming van dieren bij het slachten of doden (*PbEG* L 340).     
-2.  Onder bevoegde autoriteit als bedoeld in de bijlagen C, D, E, F en G van de richtlijn wordt in dit besluit en de daarop rustende bepalingen verstaan: Onze Minister.   
+De artikelen 2 tot en met 6 zijn niet van toepassing op het doden van dieren en op met het doden verband houdende activiteiten, bedoeld in artikel 1, eerste lid, van Verordening (EG) nr. 1099/2009, met uitzondering van pluimvee, konijnen en hazen die door hun eigenaar voor particulier huishoudelijk verbruik buiten een slachthuis worden geslacht.  
 
 ### Artikel  2  
 
@@ -60,16 +47,16 @@ c. vrij wild dat wordt gedood overeenkomstig sectie IV van bijlage III bij veror
 
 ### Artikel  3  
 
-Bij het verplaatsen, onderbrengen, fixeren, bedwelmen, slachten of doden wordt de dieren elke vermijdbare opwinding of pijn of elk vermijdbaar lijden bespaard.  
+Bij het doden van dieren en daarmee verband houdende activiteiten wordt de dieren elke vermijdbare opwinding of pijn of elk vermijdbaar lijden bespaard.  
 
 ### Artikel  4  
 
-1.  Het verplaatsen, onderbrengen, fixeren, bedwelmen, slachten of doden van dieren wordt uitgevoerd door personen die de nodige kennis en vaardigheden bezitten om de taken humaan en doeltreffend uit te voeren.   
-2.  Onze Minister kan bij ministeriële regeling nadere regelen stellen ten aanzien van de kennis en vaardigheden van het personeel dat in een slachthuis met het bedwelmen, slachten of doden is belast.   
+1.  Het doden van dieren en daarmee verband houdende activiteiten wordt uitgevoerd door personen die de nodige kennis en vaardigheden bezitten om de taken humaan en doeltreffend uit te voeren.   
+2.  Onze Minister kan bij ministeriële regeling nadere regelen stellen ten aanzien van de in het eerste lid bedoelde kennis en vaardigheden.   
 
 ### Artikel  5  
 
-Onverminderd paragraaf 2 van dit besluit, wordt een dier gedood door toepassing van een: 
+Een dier wordt gedood door toepassing van een: 
 
 a. dodingsmethode die onmiddellijk na aanvang van de dodingshandeling leidt tot de dood van het dier,  
 
@@ -79,96 +66,49 @@ c. bedwelmingsmethode die zonder onaanvaardbare opwinding of pijn leidt tot bewu
 
 ### Artikel  6  
 
-De artikelen 5, 12, 13 en 15 zijn niet van toepassing indien een dier gedood moet worden: 
+Artikel 5 is niet van toepassing indien een dier gedood moet worden: 
 
 a. ter beëindiging of voorkoming van onmiddellijk gevaar voor mens of dier;  
 
-b. ter beëindiging van ondraaglijk lijden van het dier;  
-
-c. in het kader van de bestrijding van een besmettelijke dierziekte.    
+b. ter beëindiging van ondraaglijk lijden van het dier.    
 
 ### §  2  
 
-####Het slachten en doden van productiedieren in slachthuizen
+####Uitvoering EU-verordening doden van dieren
 
 ### Artikel  7  
 
-1.  De bouw, de inrichting en de voorzieningen van slachthuizen en het gebruik daarvan zijn zodanig, dat de dieren elke vermijdbare opwinding of pijn of elk vermijdbaar lijden wordt bespaard.   
-2.  De instrumenten, de installaties en de verdere voorzieningen in het slachthuis voor het fixeren, bedwelmen of doden van dieren zijn zo ontworpen, vervaardigd en onderhouden, en worden zo gebruikt dat de dieren snel en doeltreffend worden bedwelmd of gedood.   
-3.  Op de slachtplaats zijn voor noodgevallen passende vervangende instrumenten en verdere voorzieningen aanwezig, die in goede staat van onderhoud verkeren en die met het oog daarop regelmatig worden geïnspecteerd.   
+Het is verboden te handelen in strijd met bij ministeriële regeling aan te wijzen artikelen van Verordening (EG) nr. 1099/2009.  
 
 ### Artikel  8  
 
-1.  Productiedieren die in een slachthuis worden binnengebracht om er te worden geslacht, worden verplaatst en zo nodig ondergebracht overeenkomstig bijlage A van de richtlijn.   
-2.  Indien het slachten van meer dan licht zieke of licht gewonde productiedieren, bedoeld in paragraaf l, punt 6, van bijlage A van de richtlijn, binnen twee uur na aankomst bij het slachthuis om enigerlei reden onmogelijk is, doodt de keuringsdierenarts van de Voedsel en Waren Autoriteit, zoals deze is ingesteld bij besluit van de Minister van Volksgezondheid, Welzijn en Sport van 8 juli 2002 (Stcrt. 127) het dier terstond nadat hem die onmogelijkheid is gebleken en ter plaatse waar het zich bevindt door toediening van een letale dosis van een centraal depressief middel, dan wel laat hij het dier onder zijn toezicht doden.   
+1.  Bij ministeriële regeling worden regels gesteld voor een goede uitvoering van Verordening (EG) nr. 1099/2009.   
+2.  De regels, bedoeld in het eerste lid, kunnen betrekking hebben op: 
+
+a. het aanwijzen van een bevoegde autoriteit;  
+
+b. het verstrekken, schorsen en intrekken van getuigschriften van vakbekwaamheid;  
+
+c. het goedkeuren van opleidingsprogramma’s en de inhoud en uitvoeringsbepalingen van examens;  
+
+d. het uitvoeren van controles en inspectie die relevant zijn voor de bescherming van dieren bij het doden en met het doden verband houdende activiteiten;  
+
+e. gidsen voor goede praktijken;  
+
+f. het doden, en daarmee verband houdende activiteiten, van dieren buiten een slachthuis.     
 
 ### Artikel  9  
 
-Productiedieren die in een slachthuis worden binnengebracht om er te worden geslacht, worden gefixeerd overeenkomstig bijlage B van de richtlijn.  
-
-### Artikel  10  
-
-1.  Productiedieren die in een slachthuis worden binnengebracht om er te worden geslacht, worden voor het slachten bedwelmd, dan wel onmiddellijk gedood overeenkomstig bijlage C van de richtlijn.   
-2.  Bijlage C, paragraaf II, onderdeel 3A, punt 2a en 2b, van de richtlijn zijn niet van toepassing op elektrische bedwelming van pluimvee, hazen en konijnen, varkens, schapen en geiten in slachthuizen met een geringe slachtcapaciteit.   
-3.  Onder geringe slachtcapaciteit als bedoeld in het tweede lid wordt verstaan: 
-
-a. voor pluimvee: het aantal behandelde stuks per jaar is minder dan 150 000;  
-
-b. voor tamme hazen en konijnen: het aantal behandelde stuks per jaar is minder dan 150 000;  
-
-c. voor varkens, schapen en geiten en gekweekt grof wild: het aantal behandelde grootvee-eenheden bedraagt per week ten hoogste 30 en per jaar ten hoogste 1 500, waarbij het aantal grootvee-eenheden als volgt wordt berekend: 
-
-1°. varkens en gedomesticeerde wilde soortgenoten: 
-
-– een varken van meer dan 100 kg levend gewicht: 0,2;  
-
-– een ander varken: 0,15;    
-
-2°. andere diersoorten en gedomesticeerde soortgenoten: 
-
-– een schaap, een geit of een gedomesticeerd damhert: 0,10;  
-
-– een lam, een jonge geit, een big, van minder dan 15 kg levend gewicht: 0,05.         
-4.  Het is verboden loopvogels met behulp van een waterbad te bedwelmen.   
-
-### Artikel  11  
-
-Productiedieren die in een slachthuis worden binnengebracht om er te worden geslacht, worden bij de verbloeding behandeld overeenkomstig bijlage D van de richtlijn.  
+1.  Het is verboden buiten het slachthuis rundvee, eenhoevigen of loopvogels te slachten of te doden.   
+2.  Varkens, geiten en schapen worden buiten het slachthuis uitsluitend gedood na voorafgaande bedwelming met een penschiettoestel.   
 
 ### §  3  
 
 ####Het slachten en doden van productiedieren buiten slachthuizen
 
-### Artikel  12  
-
-1.  Het is verboden buiten het slachthuis rundvee, eenhoevigen of loopvogels te slachten of te doden.   
-2.  De artikelen 9, 10 en 11 zijn van overeenkomstige toepassing op het buiten het slachthuis slachten en doden van andere productiedieren dan de in het eerste lid bedoelde dieren, met dien verstande dat varkens, geiten en schapen uitsluitend worden gedood door de dieren te slachten na voorafgaande bedwelming met een penschiettoestel.   
-
-### Artikel  13  
-
-1.  Het doden van productiedieren met behulp van de kogel is zowel in als buiten een slachthuis verboden.   
-2.  Het eerste lid is niet van toepassing op het buiten een slachthuis doden van gekweekt grof wild waarbij de afstand tussen dier en schutter ten hoogste 25 meter bedraagt.   
-
-### Artikel  14  
-
-Het doden van productiedieren in het kader van de bestrijding van dierziekten geschiedt overeenkomstig bijlage E van de richtlijn.  
-
-### Artikel  15  
-
-Pelsdieren worden gedood overeenkomstig bijlage F van de richtlijn.  
-
-### Artikel  16  
-
-Eendagskuikens en embryo's van pluimvee die in broederijen overtollig zijn en die moeten worden verwijderd, worden zo snel mogelijk gedood overeenkomstig bijlage G van de richtlijn.  
-
 ### §  4  
 
 ####Slotbepalingen
-
-### Artikel  17  
-
-1.  Een wijziging van één of meer onderdelen van de richtlijn of van de richtlijnen, bedoeld in artikel 10, tweede lid, gaat voor de toepassing van de artikelen van dit besluit, waarin naar die onderdelen wordt verwezen, gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.   
-2.  Onze Minister doet van een wijzigingsrichtlijn als bedoeld in het eerste lid mededeling in de Staatscourant.   
 
 ### Artikel  18  
 

@@ -353,10 +353,6 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 ####Rechtsbescherming
 
-### Artikel  38  
-
-Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.  
-
 ### Hoofdstuk  X  
 
 ####Overgangs- en slotbepalingen
@@ -371,7 +367,7 @@ Wijzigt de Algemene Wet Bijzondere Ziektekosten.
 
 ### Artikel  41  
 
-1.  Een toelating, verleend krachtens [artikel 8a van de Ziekenfondswet](../../../../../wet/ziekenfondswet/BWBR0002460/README.md) of [artikel 8 van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), zoals die artikelen luidden tot het tijdstip van inwerkingtreding van deze wet, wordt gelijkgesteld met een toelating als bedoeld in artikel 5, eerste lid.   
+1.  Een toelating, verleend krachtens [artikel 8a van de Ziekenfondswet](../../../../../wet/ziekenfondswet/BWBR0002460/README.md) of [artikel 8 van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), zoals die artikelen luidden tot het tijdstip van inwerkingtreding van deze wet, wordt gelijkgesteld met een toelating als bedoeld in artikel 5, eerste lid, voor zover het betreft instellingen die op het grondgebied van het Europese deel van Nederland werkzaam zijn.   
 2.  Een aanvraag om een toelating, waarop op het tijdstip van inwerkingtreding van deze wet nog niet is beslist, wordt gelijkgesteld met een aanvraag om een toelating als bedoeld in artikel 5, eerste lid.   
 
 ### Artikel  42  

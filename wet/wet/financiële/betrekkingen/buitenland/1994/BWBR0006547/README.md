@@ -83,10 +83,6 @@ b. de vaststelling en de uitvoering van de voorschriften, bedoeld in de artikele
 2.  In afwijking van het eerste lid en met inachtneming van de richtsnoeren, instructies en andere verbindende bepalingen van de ECB is de Bank bevoegd gegevens die ingevolge deze wet zijn verkregen uit te wisselen met andere centrale banken van de lid-staten of met de ECB voor zover de taken van de ECB zulks vereisen indien de geheimhouding van die gegevens in voldoende mate is gewaarborgd. De eerste volzin is van overeenkomstige toepassing ten aanzien van gegevens die ingevolge [artikel 40 van de Wet op het Centraal bureau voor de statistiek](../../../../../../../wet/wet/op/het/centraal/bureau/voor/de/statistiek/BWBR0015926/README.md) zijn verkregen. Uitwisseling van tot individuele ingezetenen herleidbare gegevens voor ander dan statistische doeleinden is slechts mogelijk na schriftelijke instemming van de directeur-generaal.   
 3.  In afwijking van het eerste lid en met inachtneming van de richtsnoeren, instructies en andere verbindende bepalingen van de ECB is de Bank bevoegd gegevens die ingevolge deze wet zijn verkregen, te verstrekken aan het Centraal bureau voor de statistiek ten behoeve van de uitoefening van zijn in [artikel 3 van de Wet op het Centraal bureau voor de statistiek](../../../../../../../wet/wet/op/het/centraal/bureau/voor/de/statistiek/BWBR0015926/README.md) bedoelde taak.   
 
-### Artikel  9  
-
-In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten op grond van deze wet de rechtbank te Rotterdam bevoegd.  
-
 ### Artikel  9a  
 
 1.  De Bank kan een last onder dwangsom opleggen ter zake van overtreding van voorschriften gesteld, bij of krachtens artikel 7, eerste tot en met vierde lid.   

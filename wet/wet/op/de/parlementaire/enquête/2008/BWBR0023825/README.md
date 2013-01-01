@@ -71,7 +71,7 @@ c. document: schriftelijk stuk of ander materiaal dat gegevens bevat.
 ### Artikel  7  
 
 1.  De commissie kan, zonder toestemming van de rechthebbende, met de door haar aangewezen personen elke plaats in Nederland, daaronder begrepen de openbare lichamen Bonaire, Sint Eustatius en Saba, betreden.   
-2.  In afwijking van het eerste lid is voor het betreden van woningen toestemming van de bewoner of een machtiging vereist. In afwijking van [artikel 3 van de Algemene wet op het binnentreden](../../../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) is de voorzieningenrechter van de rechtbank ’s-Gravenhage bevoegd tot het verlenen van de machtiging. De artikelen 25, eerste lid, tweede volzin, tot en met 27 zijn van toepassing op de verlening van de machtiging.   
+2.  In afwijking van het eerste lid is voor het betreden van woningen toestemming van de bewoner of een machtiging vereist. In afwijking van [artikel 3 van de Algemene wet op het binnentreden](../../../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) is de voorzieningenrechter van de rechtbank Den Haag bevoegd tot het verlenen van de machtiging. De artikelen 25, eerste lid, tweede volzin, tot en met 27 zijn van toepassing op de verlening van de machtiging.   
 3.  De commissie geeft, voor zover dit niet in strijd is met het belang van de parlementaire enquête, schriftelijk kennis aan de rechthebbende van een plaats van een voornemen een plaats te betreden. Indien sprake is van verhuur, dan wordt de kennisgeving gegeven aan de huurder.   
 4.  De leden van de commissie en de door haar aangewezen personen dragen bij het betreden van de plaats een legitimatiebewijs bij zich, dat is uitgegeven door de voorzitter van de Kamer. Zij tonen het legitimatiebewijs desgevraagd aanstonds.   
 5.  De commissie maakt een schriftelijk verslag op van het betreden van een plaats.   
@@ -198,7 +198,7 @@ Niemand is verplicht informatie aan de commissie te verstrekken, voor zover hij 
 
 ### Artikel  25  
 
-1.  De voorzieningenrechter van de rechtbank te ’s-Gravenhage kan op verzoek van de commissie een persoon die weigert haar medewerking te verlenen bij de uitoefening van de haar bij deze wet verleende bevoegdheden bevelen deze medewerking alsnog te verlenen. Het verzoek wordt ingeleid bij verzoekschrift.   
+1.  De voorzieningenrechter van de rechtbank Den Haag kan op verzoek van de commissie een persoon die weigert haar medewerking te verlenen bij de uitoefening van de haar bij deze wet verleende bevoegdheden bevelen deze medewerking alsnog te verlenen. Het verzoek wordt ingeleid bij verzoekschrift.   
 2.  Het verzoek van de commissie vermeldt welke medewerking van de betrokken persoon wordt verlangd.   
 3.  De commissie kan het verzoek indienen zonder de bijstand van een procureur.   
 4.  De voorzieningenrechter doet uitspraak uiterlijk op de zevende dag nadat hij het verzoek heeft ontvangen, tenzij de commissie hem heeft verzocht onverwijld uitspraak te doen.   
@@ -221,7 +221,7 @@ De voorzieningenrechter kan op verzoek van de commissie bepalen, dat een bevel a
 
 ### Artikel  28  
 
-1.  Indien een getuige of deskundige voor de commissie is verschenen, maar zonder wettelijke grond weigert zijn verklaring af te leggen, kan de voorzieningenrechter van de rechtbank te ’s-Gravenhage op verzoek van de commissie bevelen dat hij op kosten van de staat in gijzeling zal worden gesteld totdat hij aan zijn verplichting zal hebben voldaan. Het verzoek wordt ingeleid bij verzoekschrift.   
+1.  Indien een getuige of deskundige voor de commissie is verschenen, maar zonder wettelijke grond weigert zijn verklaring af te leggen, kan de voorzieningenrechter van de rechtbank Den Haag op verzoek van de commissie bevelen dat hij op kosten van de staat in gijzeling zal worden gesteld totdat hij aan zijn verplichting zal hebben voldaan. Het verzoek wordt ingeleid bij verzoekschrift.   
 2.  De commissie kan het verzoek indienen zonder de bijstand van een procureur.   
 3.  De commissie kan de getuige of deskundige in bewaring houden totdat de voorzieningenrechter uitspraak heeft gedaan. Zij kan daarbij de ondersteuning van de openbare macht inroepen.   
 4.  De voorzieningenrechter doet onverwijld, doch uiterlijk binnen drie dagen na ontvangst van het verzoek uitspraak.   

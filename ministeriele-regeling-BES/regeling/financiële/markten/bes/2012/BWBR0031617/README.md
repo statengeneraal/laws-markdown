@@ -2,6 +2,9 @@
 
 ##Regeling houdende nadere regels ter uitvoering van de Wet financiële markten BES en het Besluit financiële markten BES (Regeling financiële markten BES 2012)
 
+De Minister van Financiën;  
+Gelet op de [artikelen 1:10, derde lid](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [1:26](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [4:19, tweede lid](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), en [6:1, eerste lid, van de Wet financiële markten BES](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en de [artikelen 2:17, eerste lid, onderdeel a, en tweede lid, onderdeel a](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md), [3:4](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md), [3:18, eerste lid](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md), [6:3, eerste lid](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md), [7:17, zesde lid](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md), en [8:1, eerste lid, van het Besluit financiële markten BES](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md);
+Besluit:     
 ### §  1  
 
 ####Inleidende bepalingen
@@ -42,6 +45,12 @@ b. zij reisbureau of reisorganisatie zijn en de verzekeringen waarin zij bemidde
 
 1.  Kredietinstellingen met zetel in het buitenland zijn vrijgesteld van [artikel 5:5, eerste lid, van het besluit](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md).   
 2.  Verzekeraars met zetel in het buitenland zijn vrijgesteld van [artikel 5:6, eerste lid, van het besluit](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md).   
+
+### Artikel  1:6  
+
+####(staat van zetel geldtransactiekantoren)
+
+Het is geldtransactiekantoren tevens toegestaan hun zetel te hebben in Nederland, Aruba, de Verenigde Staten van Amerika of Canada.  
 
 ### §  2  
 
@@ -138,6 +147,19 @@ De normbedragen en de daarin begrepen woonlasten, bedoeld in [artikel 7:16, zes
 | 2 volwassenen, 1 kind  | 1.172  | 1.222  | 1.183  | 184  | 192  | 186  |
 | 3 volwassenen  | 1.301  | 1.357  | 1.314  | 204  | 213  | 206  |
 | 2 volwassenen, 2 kinderen  | 1.367  | 1.426  | 1.380  | 215  | 224  | 217  |
+
+### Artikel  2:5a  
+
+####(maximale kredietvergoeding)
+
+De ten hoogste toegelaten kredietvergoeding, bedoeld in [artikel 7:20, eerste lid, van het besluit](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md), bedraagt 24 procent op jaarbasis.  
+
+### Artikel  2:5b  
+
+####(maximale vertragingsvergoeding)
+
+De ten hoogste toegelaten vertragingsvergoeding, bedoeld in [artikel 7:21 van het besluit](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md), wordt op dagbasis berekend. De ten hoogste toegelaten vertragingsvergoeding per dag wordt als volgt berekend:   ![251504](http://wetten.overheid.nl/Illustration/251504)
+In deze formule is: VV <sub>d</sub>: de ten hoogste toegelaten vertragingsvergoeding over dag d; A <sub>d</sub>: het bedrag in de betaling waarvan de kredietnemer aan het begin van dag d achterstallig is dan wel, indien het een doorlopende krediettransactie met variabele kredietvergoeding betreft, het deel van het uitstaand saldo dat op dag d de kredietlimiet te boven gaat als gevolg van achterstallige betalingen; r: het honderdste deel van het in het kader van de krediettransactie overeengekomen effectieve kredietvergoedingspercentage op jaarbasis; q: het aantal dagen van de maand waarvan dag d deel uitmaakt.  
 
 ### Artikel  2:6  
 

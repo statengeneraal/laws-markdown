@@ -65,9 +65,9 @@ Onze Minister stelt regels over de wijze en het tijdstip waarop de in de artikel
 
 a. afhankelijk van de loonheffing die op de remigratie-uitkering moet worden ingehouden, waarbij: 
 
-1° voor personen jonger dan 65 jaar uitsluitend rekening wordt gehouden met de algemene heffingskorting, bedoeld in [artikel 22 van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), en  
+1° voor personen die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet hebben bereikt uitsluitend rekening wordt gehouden met de algemene heffingskorting, bedoeld in [artikel 22 van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), en  
 
-2° voor personen van 65 jaar of ouder rekening wordt gehouden met de algemene heffingskorting, de ouderenkorting en de aanvullende ouderenkorting, bedoeld in de [artikelen 22](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [22b](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) respectievelijk [22c van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);    
+2° voor personen die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), hebben bereikt rekening wordt gehouden met de algemene heffingskorting, de ouderenkorting en de aanvullende ouderenkorting, bedoeld in de [artikelen 22](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [22b](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) respectievelijk [22c van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);    
 
 b. al naar gelang er wel of niet een verzekering tegen ziektekosten is gesloten.     
 5.  Voor de vraag op welk bruto bedrag van de remigratie-uitkering op grond van het derde lid aanspraak bestaat is bepalend de toestand op de datum van vertrek uit Nederland, een en ander onverminderd de artikelen 14, 15, tweede lid, en 17.   

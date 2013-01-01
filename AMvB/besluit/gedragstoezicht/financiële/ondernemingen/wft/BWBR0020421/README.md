@@ -52,7 +52,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *afsluit
 
 10°. ander financieel product dat bij ministeriële regeling kan worden aangewezen indien dit ten behoeve van de vergelijkbaarheid van de onder 2° tot en met 9° bedoelde complexe producten met dit financiële product in verband met de belangen die het [Deel Gedragstoezicht financiële ondernemingen van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beoogt te beschermen wenselijk is; of  
 
-11°. combinatie van een of meer onder 2° tot en met 10° bedoelde complexe producten met een of meer financiële producten;   *consumptief krediet*: krediet, niet zijnde hypothecair krediet; *debetrentevoet:* verschuldigde rente voor een krediet, uitgedrukt op jaarbasis en toegepast in een vast of variabel percentage; *dekkingspercentage:* een door de aanbieder van krediet vastgesteld percentage van de waarde van de in onderpand gegeven financiële instrumenten, bedoeld in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of van de daartoe behorende afzonderlijke financiële instrumenten aan de hand waarvan de aanbieder van krediet de kredietlimiet bepaalt; *deposito*: tegoed bij een bank dat onmiddellijk kan worden opgevraagd en waarvan de rentetermijn ten hoogste twaalf maanden bedraagt; *doorlopende provisie*: 
+11°. combinatie van een of meer onder 2° tot en met 10° bedoelde complexe producten met een of meer financiële producten;   *consumptief krediet*: krediet, niet zijnde hypothecair krediet; *debetrentevoet:* verschuldigde rente voor een krediet, uitgedrukt op jaarbasis en toegepast in een vast of variabel percentage; *dekkingspercentage:* een door de aanbieder van krediet vastgesteld percentage van de waarde van de in onderpand gegeven financiële instrumenten, bedoeld in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of van de daartoe behorende afzonderlijke financiële instrumenten aan de hand waarvan de aanbieder van krediet de kredietlimiet bepaalt; *deposito:* tegoed bij een bank dat onmiddellijk kan worden opgevraagd en waarvan de rentetermijn ten hoogste twaalf maanden bedraagt; *distributiekosten:* kosten voor het completeren van het dossier ten behoeve van de aanvraag van de offerte, het ondersteunen van de consument of, indien het een verzekering betreft, de cliënt bij de aanvraag en bij het aangaan van een overeenkomst met betrekking tot een financieel product en de kosten voor het maken van reclame-uitingen voor de genoemde werkzaamheden en voor advies; *doorlopende provisie*: 
 
 1°. beloning of vergoeding, in welke vorm dan ook, niet zijnde afsluitprovisie, die een aanbieder van een betalingsbeschermer, een complex product, een hypothecair krediet, een hypothecair krediet gecombineerd met een beleggingsrekening, een schadeverzekering of een uitvaartverzekering, na de totstandkoming van een overeenkomst tussen hem en een consument voor het bemiddelen of adviseren inzake die overeenkomst rechtstreeks of middellijk betaalt; of  
 
@@ -92,7 +92,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *afsluit
 
 a. als onderzoek op beleggingsgebied wordt gepresenteerd of op enigerlei andere wijze wordt voorgesteld als een objectieve of onafhankelijke verklaring van de aangelegenheden die in de aanbeveling aan de orde komen; en  
 
-b. indien het tot een cliënt zou zijn gericht, geen adviseren is;   *op- en afslagen*: bedragen waarmee de door de deelnemers voor rechten van deelneming in een beleggingsinstelling betaalde of ontvangen prijs of terugbetaling worden verhoogd onderscheidenlijk verlaagd ten opzichte van de intrinsieke waarde van de rechten van deelneming; *pensioenverzekering:* levensverzekering die een werkgever afsluit ten behoeve van zijn werknemers, waaronder de directeur-grootaandeelhouder, bestaande uit een ouderdomspensioen of nabestaandenpensioen als bedoeld in [artikel 1 van de Pensioenwet](../../../../../../../wet/pensioenwet/BWBR0020809/README.md); *PE-onderwijsprogramma:* onderwijsprogramma voor permanente educatie; *PE-toets:* toets voor permanente educatie; *PE-toetstermen:* criteria waaraan de vakbekwaamheid van een persoon wordt getoetst om te kunnen vaststellen of deze voldoet aan de eisen voor permanente educatie; *persoonlijke transactie*: een transactie in een financieel instrument door of in naam van een relevante persoon, waarbij: 
+b. indien het tot een cliënt zou zijn gericht, geen adviseren is;   *op- en afslagen*: bedragen waarmee de door de deelnemers voor rechten van deelneming in een beleggingsinstelling betaalde of ontvangen prijs of terugbetaling worden verhoogd onderscheidenlijk verlaagd ten opzichte van de intrinsieke waarde van de rechten van deelneming; *pensioenverzekering:* levensverzekering die een werkgever afsluit ten behoeve van zijn werknemers, waaronder de directeur-grootaandeelhouder, bestaande uit een ouderdomspensioen of nabestaandenpensioen als bedoeld in [artikel 1 van de Pensioenwet](../../../../../../../wet/pensioenwet/BWBR0020809/README.md); *persoonlijke transactie*: een transactie in een financieel instrument door of in naam van een relevante persoon, waarbij: 
 
 1°. de betrokken relevante persoon handelt anders dan in de normale uitoefening van zijn beroep of bedrijf;  
 
@@ -108,17 +108,25 @@ b. indien het tot een cliënt zou zijn gericht, geen adviseren is;   *op- en afs
 
 3°. een werknemer van de beleggingsonderneming of van een verbonden agent van de beleggingsonderneming of een andere natuurlijke persoon wiens diensten ter beschikking en onder zeggenschap staan van een beleggingsonderneming onderscheidenlijk de verbonden agent en die betrokken is bij het verrichten van beleggingsactiviteiten of het verlenen van beleggingsdiensten door de beleggingsonderneming; of  
 
-4°. een natuurlijke persoon die uit hoofde van een overeenkomst tot uitbesteding met het oog op het verlenen of verrichten door de beleggingsonderneming van beleggingsdiensten of beleggingsactiviteiten rechtstreeks betrokken is bij het verrichten van diensten ten behoeve van de beleggingsonderneming of haar verbonden agent;   *retourprovisie*: gedeelte van een door of ten laste van een beleggingsinstelling voor een dienst van een derde te betalen of betaalde vergoeding dat direct of indirect door de ontvanger wordt terugbetaald of doorbetaald; *richtlijn consumentenkrediet:* richtlijn nr. 2008/48/EG van het Europese Parlement en de Raad van de Europese Unie van 23 april 2008 inzake kredietovereenkomsten voor consumenten en tot intrekking van Richtlijn 87/102/EEG van de Raad (PbEU L133); *richtlijn elektronisch geld:* richtlijn nr. 2009/110 van het Europees parlement en de Raad van de Europese Unie van 16 september 2009 betreffende de toegang tot, de uitoefening van en het prudentieel toezicht op de werkzaamheden van instellingen voor elektronisch geld, tot wijziging van de Richtlijnen 2005/60/EG en 2006/48/EG en tot intrekking van Richtlijn 2000/46/EG (Pb EU L 267); *risico-indicator*: weergave van het risiconiveau van een complex product; *serie van beleggingsobjecten*: verzameling van beleggingsobjecten waarvoor hetzelfde beleggingsobjectprospectus, bedoeld in [artikel 4:30a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt opgesteld; *termijnbedrag*: bedrag van de betaling die een consument aan het einde van een betalingstermijn moet hebben gedaan; *toetstermen*: criteria waaraan de vakbekwaamheid van een persoon wordt getoetst om te kunnen vaststellen of deze voldoet aan de eindtermen; *totale door de consument te betalen bedrag:* som van het totale kredietbedrag en de totale kosten van het krediet voor de consument; *totale kosten van het krediet voor de consument:* alle kosten inzake een consumptief krediet, met uitzondering van notariskosten, die de consument in verband met een krediet moet betalen en die de aanbieder bekend zijn, met inbegrip van rente, provisie, belastingen, vergoedingen van welke aard ook en kosten in verband met nevendiensten met betrekking tot het krediet, indien het sluiten van een overeenkomst met betrekking tot die diensten verplicht is om het krediet op de geadverteerde voorwaarden te verkrijgen, of de som van de door een consument te betalen termijnbedragen gedurende de looptijd van een overeenkomst inzake hypothecair krediet; *totale kredietbedrag:* de kredietlimiet of de kredietsom; *uitstaand saldo*: 
+4°. een natuurlijke persoon die uit hoofde van een overeenkomst tot uitbesteding met het oog op het verlenen of verrichten door de beleggingsonderneming van beleggingsdiensten of beleggingsactiviteiten rechtstreeks betrokken is bij het verrichten van diensten ten behoeve van de beleggingsonderneming of haar verbonden agent;   *retourprovisie*: gedeelte van een door of ten laste van een beleggingsinstelling voor een dienst van een derde te betalen of betaalde vergoeding dat direct of indirect door de ontvanger wordt terugbetaald of doorbetaald; *richtlijn consumentenkrediet:* richtlijn nr. 2008/48/EG van het Europese Parlement en de Raad van de Europese Unie van 23 april 2008 inzake kredietovereenkomsten voor consumenten en tot intrekking van Richtlijn 87/102/EEG van de Raad (PbEU L133); *richtlijn elektronisch geld:* richtlijn nr. 2009/110 van het Europees parlement en de Raad van de Europese Unie van 16 september 2009 betreffende de toegang tot, de uitoefening van en het prudentieel toezicht op de werkzaamheden van instellingen voor elektronisch geld, tot wijziging van de Richtlijnen 2005/60/EG en 2006/48/EG en tot intrekking van Richtlijn 2000/46/EG (Pb EU L 267); *risico-indicator*: weergave van het risiconiveau van een complex product; *serie van beleggingsobjecten*: verzameling van beleggingsobjecten waarvoor hetzelfde beleggingsobjectprospectus, bedoeld in [artikel 4:30a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt opgesteld; *termijnbedrag*: bedrag van de betaling die een consument aan het einde van een betalingstermijn moet hebben gedaan; *toetstermen*: criteria waaraan de vakbekwaamheid van een persoon wordt getoetst om te kunnen vaststellen of deze voldoet aan de eindtermen; *totale door de consument te betalen bedrag:* som van het totale kredietbedrag en de totale kosten van het krediet voor de consument; *totale kosten van het krediet voor de consument:* alle kosten inzake een consumptief krediet, met uitzondering van notariskosten, die de consument in verband met een krediet moet betalen en die de aanbieder bekend zijn, met inbegrip van rente, provisie, belastingen, vergoedingen van welke aard ook en kosten in verband met nevendiensten met betrekking tot het krediet, indien het sluiten van een overeenkomst met betrekking tot die diensten verplicht is om het krediet op de geadverteerde voorwaarden te verkrijgen, of de som van de door een consument te betalen termijnbedragen gedurende de looptijd van een overeenkomst inzake hypothecair krediet; *totale kredietbedrag:* de kredietlimiet of de kredietsom;  *uitstaand saldo:*  
 
 1°. indien het geldkrediet betreft: op enig tijdstip bestaand totaal van de tot en met dat tijdstip door de consument opgenomen geldsommen, vermeerderd met de tot en met dat tijdstip aan de consument in rekening gebrachte kredietvergoeding en verminderd met de tot en met dat tijdstip door de consument gedane betalingen;  
 
-2°. indien het goederenkrediet betreft: op enig tijdstip bestaand totaal van de contante waarde van de roerende zaken, financiële instrumenten, beleggingsobjecten of diensten waarvan tot en met dat tijdstip aan de consument het genot is verschaft, of welke tot en met dat tijdstip aan de consument zijn verleend, vermeerderd met het totaalbedrag van de tot en met dat tijdstip aan de consument in rekening gebrachte kredietvergoeding en verminderd met de tot en met dat tijdstip door de consument gedane betalingen;   *uitvaartverzekering:* levensverzekering die uitsluitend strekt tot het doen van geldelijke uitkeringen in verband met de verzorging van de uitvaart van een natuurlijke persoon of een natura-uitvaartverzekering; *wet*: [Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  
+2°. indien het goederenkrediet betreft: op enig tijdstip bestaand totaal van de contante waarde van de roerende zaken, financiële instrumenten, beleggingsobjecten of diensten waarvan tot en met dat tijdstip aan de consument het genot is verschaft, of welke tot en met dat tijdstip aan de consument zijn verleend, vermeerderd met het totaalbedrag van de tot en met dat tijdstip aan de consument in rekening gebrachte kredietvergoeding en verminderd met de tot en met dat tijdstip door de consument gedane betalingen;   *uitvaartverzekering:* levensverzekering die uitsluitend strekt tot het doen van geldelijke uitkeringen in verband met de verzorging van de uitvaart van een natuurlijke persoon of een natura-uitvaartverzekering; *wet*: [Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); *woning:* een gebouw of een afzonderlijk gedeelte daarvan en de bij dat gebouw behorende grond, een duurzaam aan een plaats gebonden woonschip of een woonwagen als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Huisvestingwet](../../../../../../../wet/huisvestingswet/BWBR0005674/README.md) en de daarbij behorende standplaats als bedoeld in artikel 1, eerste lid, onderdeel e, van de Huisvestingswet.  
 
 ### §  1.2  
 
 ####Bijzondere bepalingen
 
-Bepalingen ter uitvoering van de [artikelen 4:3, vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:5, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+Bepalingen ter uitvoering van de [artikelen 1:20, eerste lid, onderdeel f](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:3, vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:5, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+
+### Artikel  1a  
+
+[Artikel 1:20, eerste lid, onderdeel f, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van toepassing indien: 
+
+a. een financiëledienstverlener die adviseert een krediet verleent voor de betaling van de advieskosten en distributiekosten gericht op het tot stand brengen van een overeenkomst inzake een financieel product als bedoeld in artikel 86c waarbij de consument of, indien het een verzekering betreft, de cliënt is gehouden binnen twee jaar af te lossen;  
+
+b. een financiëledienstverlener, voor zover hij niet adviseert, een krediet verleent aan een consument of, indien het een verzekering betreft, de cliënt ten behoeve van de betaling van de distributiekosten gericht op het tot stand brengen van een overeenkomst inzake een financieel product als bedoeld in artikel 86c.    
 
 ### Artikel  2  
 
@@ -227,9 +235,9 @@ b. hij een financiëledienstverlener is met een op jaarbasis gemiddeld aantal vo
 
 1.  Een diploma of een erkenning van beroepskwalificaties is geldig, tenzij de houder ervan: 
 
-a. niet binnen achttien maanden na de inwerkingtreding, bedoeld in artikel 8, derde lid, op de door Onze Minister vastgestelde wijze heeft voldaan aan de in zijn geval relevante toetstermen voor permanente educatie, bedoeld in artikel 8, tweede lid; of  
+a. niet voor 1 januari 2014 op de door Onze Minister vastgestelde wijze heeft voldaan aan de in zijn geval relevante toetstermen voor permanente educatie, bedoeld in artikel 8, tweede lid; of  
 
-b. niet binnen achttien maanden na de inwerkingtreding, bedoeld in artikel 8, derde lid, van toetstermen voor permanente educatie met goed gevolg een examen heeft afgelegd van een door Onze Minister erkend exameninstituut dat voldoet aan de in zijn geval relevante toetstermen die tegelijkertijd met toetstermen voor permanente educatie openbaar zijn gemaakt.     
+b. niet voor 1 januari 2014 met goed gevolg een examen heeft afgelegd van een door Onze Minister erkend exameninstituut dat voldoet aan de in zijn geval relevante toetstermen die tegelijkertijd met toetstermen voor permanente educatie openbaar zijn gemaakt.     
 2.  Indien een houder van een diploma of een erkenning van beroepskwalificaties niet binnen de in het eerste lid bedoelde termijn heeft voldaan aan de in zijn geval relevante toetstermen voor permanente educatie, is het diploma of de erkenning van beroepskwalificaties ongeldig vanaf het einde van die termijn tot hij alsnog daaraan voldoet.   
 
 ### §  2.3  
@@ -460,8 +468,16 @@ c. de aard van de nadere gegevens of inlichtingen.
 
 ### Artikel  15  
 
-1.  De betrouwbaarheid van een persoon als bedoeld in artikel 12 staat niet buiten twijfel indien deze veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van bijlage C, tenzij er sinds het onherroepelijk worden van de uitspraak acht jaren of meer zijn verstreken.   
-2.  De Autoriteit Financiële Markten kan op grond van de omstandigheden of belangen, genoemd in artikel 16, afwijken van het eerste lid.   
+1.  De betrouwbaarheid van een persoon als bedoeld in artikel 12 staat niet buiten twijfel indien: 
+
+a. deze onherroepelijk veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van bijlage C, waarbij sinds het onherroepelijk worden van de uitspraak minder dan acht jaren zijn verstreken;  
+
+b. deze veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van bijlage C, waarbij de uitspraak nog niet onherroepelijk is of waarbij sinds het onherroepelijk worden van de uitspraak acht of meer jaren zijn verstreken;  
+
+c. deze veroordeeld is terzake van een overtreding van [artikel 69 van de Algemene wet inzake de rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) of [artikel 65 van de Invorderingswet 1990](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), waarbij betrokkene veroordeeld is tot een gevangenisstraf of boete; of  
+
+d. deze een vergrijpboete van meer dan € 62.500 opgelegd heeft gekregen terzake van een feit, genoemd in onderdeel 5 van bijlage C, en het besluit waarbij de vergrijpboete is opgelegd onherroepelijk is geworden of waarbij ten minste de rechter in eerste aanleg uitspraak heeft gedaan.     
+2.  De Autoriteit Financiële Markten kan op grond van de omstandigheden of belangen, genoemd in artikel 16, afwijken van het eerste lid, ten aanzien van de onderdelen b, c en d.   
 
 ### Artikel  16  
 
@@ -661,6 +677,24 @@ Bepalingen ter uitvoering van de [artikelen 4:14, tweede lid, aanhef en onderdee
 
 ### Artikel  32  
 
+1.  Een financiële onderneming als bedoeld in [artikel 4:14](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [4:15 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die financiële producten aanbiedt of samenstelt en in de markt verkrijgbaar stelt, beschikt over adequate procedures en maatregelen die waarborgen dat bij de ontwikkeling van het financieel product op een evenwichtige wijze rekening wordt gehouden met de belangen van de consument, cliënt en, indien van toepassing, de begunstigde van het financieel product en dat het financieel product aantoonbaar het resultaat is van deze belangenafweging.   
+2.  De procedures en maatregelen, bedoeld in het eerste lid, worden vastgelegd en waarborgen in ieder geval dat: 
+
+a. de doelgroep van het financieel product is afgebakend, waarbij is geanalyseerd en omschreven wat de beoogde doelstelling van de doelgroep is;  
+
+b. analyses worden uitgevoerd waarin de werking van het financieel product als geheel en de afzonderlijke onderdelen daarvan in verschillende scenario’s wordt vastgesteld en waaruit blijkt dat het financieel product, gelet op de aard van het product, geen afbreuk doet aan de doelstelling, bedoeld in onderdeel a;  
+
+c. de productinformatie en, voor zover redelijkerwijs mag worden verwacht, de distributie van het financieel product is afgestemd op de doelgroep, bedoeld in onderdeel a; en  
+
+d. regelmatig een controle en indien nodig een gepaste bijstelling van de procedures en maatregelen, bedoeld in het eerste lid, plaatsvindt.     
+3.  De financiële onderneming past periodiek, op door haar te bepalen tijdstippen of als daar aanleiding toe is, de procedures en maatregelen, bedoeld in het eerste lid, toe op de financiële producten die door haar worden aangeboden, of zijn samengesteld en in de markt verkrijgbaar worden gesteld.   
+4.  Indien een financieel product afbreuk doet aan de belangen van de consument, cliënt of begunstigde voor wie het product ontwikkeld is, past de financiele onderneming zo spoedig mogelijk het product aan of staakt zij het aanbieden of samenstellen en het in de markt verkrijgbaar stellen van het financieel product.   
+5.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het bepaalde in het eerste lid.   
+6.  Het vierde lid is niet van toepassing op het beheren of uitvoeren van overeenkomsten als bedoeld in de onderdelen a, b en c van de definitie van aanbieden in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+7.  Dit artikel is niet van toepassing op beheerders van een beleggingsinstelling die rechten van deelneming in een beleggingsinstelling aanbieden aan professionele beleggers, beheerders van een instelling voor collectieve belegging in effecten en beleggingsondernemingen.   
+
+### Artikel  32a  
+
 1.  Een aanbieder als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die een consument of, indien het een verzekering betreft, cliënt adviseert, bewaart, indien de advisering leidt tot het aangaan van een overeenkomst inzake het aanbevolen product met de consument onderscheidenlijk de cliënt, de informatie die hij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft ingewonnen, alsmede de gegevens betreffende het verkochte financiële product, gedurende ten minste één jaar vanaf het moment van advisering.   
 2.  Een adviseur als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die een consument of, indien het een verzekering betreft, cliënt adviseert, en het aanbevolen financiële product niet tevens aanbiedt aan de consument of cliënt of met betrekking tot het aanbevolen financiële product niet tevens bemiddelt of optreedt als gevolmachtigde agent of ondergevolmachtigde agent, bewaart de informatie die hij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft ingewonnen, alsmede de gegevens betreffende het aanbevolen financiële product, gedurende ten minste één jaar vanaf het moment van advisering.   
 3.  Een bemiddelaar, gevolmachtigde agent of ondergevolmachtigde agent als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die een consument of, indien het een verzekering betreft, cliënt adviseert bewaart, indien de advisering leidt tot het aangaan van een overeenkomst met de consument onderscheidenlijk de cliënt inzake het aanbevolen product, de informatie die hij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft ingewonnen, alsmede de gegevens betreffende het aanbevolen financiële product, gedurende ten minste één jaar vanaf het moment van advisering.   
@@ -781,6 +815,14 @@ d. een functiescheiding bestaat tussen het verrichten van rechtshandelingen met 
 e. alle rechten en verplichtingen van de pensioenbewaarder juist, tijdig en volledig worden vastgelegd in een daartoe bestemde administratie; en  
 
 f. de administratie van het overgedragen pensioenvermogen ten minste een keer per maand wordt aangesloten met de saldibalans en dat de daaruit voortvloeiende verschillen worden geanalyseerd en gecorrigeerd;    
+
+### Artikel  34f  
+
+De bedrijfsvoering van een premiepensioeninstelling als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) omvat ten minste procedures en maatregelen die waarborgen dat: 
+
+a. er een systematische, toegankelijke en actuele administratie van pensioendeelnemers en pensioengerechtigden is waarin, voor zover van toepassing, de rechten en verplichtingen van die deelnemers en gerechtigden en de daarmee verband houdende afspraken inzichtelijk worden gemaakt;  
+
+b. de administratie, bedoeld in onderdeel a, zodanig is dat deze geen belemmering vormt of kan vormen voor de toepassing van de regeling van [artikel 4:71a van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).    
 
 ### Artikel  35  
 
@@ -1046,30 +1088,39 @@ Bepalingen ter uitvoering van [artikel 4:17, derde lid, van de wet](../../../../
 
 ### Artikel  39  
 
-Een beleggingsonderneming of financiëledienstverlener als bedoeld in [artikel 4:17, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) stelt aan alle personen die binnen haar onderscheidenlijk zijn onderneming betrokken zijn bij de afhandeling van klachten van cliënten of consumenten over financiële diensten of financiële producten van de financiële onderneming, een beschrijving beschikbaar van de te volgen procedure voor de afhandeling van die klachten.  
+Deze paragraaf is van toepassing op financiële ondernemingen waarvoor op grond van [artikel 4:17, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) de verplichting geldt om over een interne klachtenprocedure te beschikken.  
 
 ### Artikel  40  
 
-Met het oog op een adequate behandeling van klachten van cliënten of consumenten over financiële diensten of financiële producten van een beheerder, beleggingsonderneming of financiëledienstverlener als bedoeld in [artikel 4:17, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), beschikt de beheerder, beleggingsonderneming of financiëledienstverlener over een behoorlijke administratie van die klachten, waarin ten minste worden vastgelegd: 
-
-a. de naam en het adres van de cliënt of consument die een klacht heeft ingediend;  
-
-b. de klacht, met de daarbij behorende dagtekening van ontvangst;  
-
-c. een omschrijving van de klacht; en  
-
-d. een beschrijving van de wijze waarop de financiële onderneming de klacht heeft behandeld.    
+De financiële onderneming stelt aan alle personen die binnen de onderneming betrokken zijn bij de afhandeling van klachten van consumenten, cliënten of deelnemers over betaaldiensten, financiële diensten of financiële producten van de financiële onderneming, een beschrijving beschikbaar van de te volgen procedure voor de afhandeling van die klachten.  
 
 ### Artikel  41  
 
-Een beleggingsonderneming of financiëledienstverlener als bedoeld in [artikel 4:17, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bewaart de gegevens, bedoeld in artikel 40, gedurende een periode van ten minste een jaar nadat de klacht door haar onderscheidenlijk hem is afgehandeld.  
+1.  De financiële onderneming beschikt met het oog op een adequate behandeling van klachten als bedoeld in artikel 40 over een behoorlijke administratie van klachten, waarin ten minste worden vastgelegd: 
+
+a. de naam en het adres van de klager;  
+
+b. de klacht, met daarbij behorende dagtekening van ontvangst;  
+
+c. een omschrijving van de klacht;  
+
+d. een beschrijving van de wijze waarop zij de klacht heeft behandeld.     
+2.  De financiële onderneming bewaart de gegevens, bedoeld in het eerste lid, gedurende een periode van ten minste een jaar nadat de klacht door haar is afgehandeld.   
 
 ### Artikel  42  
 
-1.  Een beheerder als bedoeld in [artikel 4:17, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voorziet in procedures en maatregelen die waarborgen dat klachten van deelnemers in door hem beheerde beleggingsinstellingen zorgvuldig, verifieerbaar, consistent en binnen een redelijke termijn worden afgehandeld.   
-2.  De beheerder stelt kosteloos informatie over de procedures, bedoeld in het eerste lid, ter beschikking aan de deelnemers in een door hem beheerde beleggingsinstelling.   
-3.  Een betaaldienstverlener voorziet in procedures en maatregelen die waarborgen dat klachten van cliënten over het verlenen van betaaldiensten door deze betaaldienstverlener, zorgvuldig, verifieerbaar, consistent en binnen een redelijke termijn worden afgehandeld.   
-4.  Een elektronischgeldinstelling voorziet in procedures en maatregelen die waarborgen dat klachten van cliënten over het verlenen van betaaldiensten dan wel over de uitgifte van elektronisch geld door deze elektronischgeldinstelling, zorgvuldig, verifieerbaar, consistent en binnen een redelijke termijn worden afgehandeld.   
+De financiële onderneming informeert de klager bij een gehele of een gedeeltelijke afwijzing van diens klacht over financiële diensten of financiële producten over de mogelijkheid om de klacht voor te leggen aan de erkende geschilleninstantie waarbij zij is aangesloten, onder vermelding van de geldende termijnen. Daarbij wordt tevens vermeld dat een geschil ook direct bij een burgerlijke rechter aanhangig kan worden gemaakt. Indien de afwijzing schriftelijk geschiedt, wordt de desbetreffende informatie eveneens schriftelijk verstrekt.  
+
+### Artikel  43  
+
+1.  De financiële onderneming draagt er zorg voor dat klachten binnen een redelijke termijn worden afgehandeld.   
+2.  De financiële onderneming bevestigt de ontvangst van de klacht en bericht de klager binnen twee weken na ontvangst van de klacht binnen welke termijn de klacht zal worden afgehandeld.   
+3.  De klager kan vanaf zes weken na ontvangst van de ontvangstbevestiging of acht weken na het indienen van de klacht, de klacht rechtstreeks voorleggen aan de erkende geschilleninstantie waarbij de financiële onderneming is aangesloten.   
+4.  Indien de financiële onderneming voor de afwikkeling van de klacht nadere informatie nodig heeft van de klager, verzoekt zij deze informatie van de klager en geeft een termijn voor de beantwoording. De termijnen als bedoeld in het derde lid worden verlengd met de termijn voor beantwoording, of met de termijn waarbinnen de verzochte informatie wordt ontvangen door de financiële onderneming.   
+
+### Artikel  44  
+
+De financiële onderneming voorziet in procedures en maatregelen die waarborgen dat klachten van klagers zorgvuldig, verifieerbaar, consistent en binnen de in artikel 43 gestelde termijn worden afgehandeld.  
 
 ### §  7.2  
 
@@ -1077,39 +1128,50 @@ Een beleggingsonderneming of financiëledienstverlener als bedoeld in [artikel 4
 
 Bepalingen ter uitvoering van [artikel 4:17, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
-### Artikel  43  
+### Artikel  45  
 
-1.  Onze Minister erkent een geschilleninstantie als bedoeld in [artikel 4:17, eerste lid, onderdeel b, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) op aanvraag, indien de aanvrager heeft aangetoond te kunnen voldoen aan de artikelen 44 tot en met 48.   
+1.  Onze Minister kan een geschilleninstantie als bedoeld in [artikel 4:17, eerste lid, onderdeel b, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), slechts erkennen indien: 
+
+a. de bij die geschilleninstantie aangesloten financiële ondernemingen een groep van voldoende betekenis en veelsoortigheid vormen of aannemelijk gemaakt kan worden dat dit op korte termijn na erkenning het geval zal zijn;  
+
+b. de geschilleninstantie in voldoende mate bijdraagt tot het oplossen van geschillen die hun oorsprong vinden in klachten over financiële producten en diensten;  
+
+c. de geschilleninstantie over een adequate financieringssystematiek beschikt en een adequate bezettingsgraad kan realiseren; en  
+
+d. de geschilleninstantie heeft aangetoond te kunnen voldoen aan de artikelen 45 tot en met 48f.     
 2.  Onze Minister beslist op een aanvraag om erkenning binnen vier maanden nadat de aanvraag is ingediend. De beslissingstermijn kan ten hoogste tweemaal met twee maanden worden verlengd.   
-3.  Onze Minister kan aan een erkenning voorschriften verbinden.   
-4.  Een erkende geschilleninstantie verstrekt aan Onze Minister binnen een half jaar na afloop van elk kalenderjaar een opgave van: 
-
-a. de in het afgelopen kalenderjaar bij de geschilleninstantie aangesloten betaaldienstverleners en financiëledienstverleners; en  
-
-b. een opgave van het aantal in het afgelopen kalenderjaar ingediende en behandelde geschillen, alsmede een algemene weergave van de aard van de geschillen en de uitkomst van de geschilbeslechting.     
-5.  Een erkende geschilleninstantie informeert Onze Minister onverwijld over wijzigingen in het reglement, bedoeld in artikel 45, eerste lid, en van de samenstelling van het orgaan, bedoeld in artikel 44. Bij wijzigingen van de samenstelling van dit orgaan vermeldt de geschilleninstantie de leeftijd, genoten opleiding en professionele achtergrond van het betrokken lid.   
-6.  Een erkende geschilleninstantie verstrekt aan Onze Minister op diens verzoek de gegevens die Onze Minister nodig heeft voor de uitoefening van diens in deze paragraaf omschreven taken.   
-7.  Onze Minister kan een erkenning intrekken: 
+3.  Aan een erkenning kunnen voorschriften worden verbonden.   
+4.  Onze Minister kan een erkenning intrekken: 
 
 a. op verzoek van de geschilleninstantie;  
 
-b. indien de gegevens en bescheiden die zijn verstrekt ter verkrijging van de erkenning zodanig onjuist of onvolledig blijken, dat de erkenning zou zijn geweigerd, dan wel niet zonder het verbinden van voorschriften zou zijn verleend, indien bij de behandeling van de aanvraag de juiste gegevens volledig bekend waren geweest;  
+b. indien naar zijn oordeel de geschillencommissie niet in voldoende mate bijdraagt tot het oplossen van geschillen die hun oorsprong vinden in klachten over financiële producten en diensten;  
 
-c. indien de geschilleninstantie niet voldoet aan het vierde of zesde lid, artikel 44, 45, 46, 47 of 48 of een voorschrift, verbonden aan de erkenning.     
-8.  Van een beslissing tot erkenning of tot intrekking van de erkenning van een geschilleninstantie wordt door Onze Minister mededeling gedaan in de Staatscourant.   
+c. indien de geschilleninstantie niet over een adequate financieringssystematiek beschikt of geen adequate bezettingsgraad weet te realiseren;  
 
-### Artikel  44  
+d. indien de bij de geschilleninstantie aangesloten financiële ondernemingen niet langer een groep van voldoende betekenis vormen;  
+
+e. indien de gegevens en bescheiden die zijn verstrekt ter verkrijging van de erkenning zodanig onjuist of onvolledig blijken, dat de erkenning zou zijn geweigerd, dan wel niet zonder het verbinden van voorschriften zou zijn verleend, indien bij de behandeling van de aanvraag de juiste gegevens volledig bekend waren geweest; of  
+
+f. indien de geschilleninstantie niet voldoet aan het eerste of derde lid, de artikelen 45 tot en met 48f of een voorschrift, verbonden aan de erkenning.     
+5.  Van een beslissing tot erkenning of tot intrekking van de erkenning van een geschilleninstantie wordt door Onze Minister mededeling gedaan in de Staatscourant.   
+6.  Onze Minister kan bij de beoordeling van een aanvraag tot erkenning als een geschilleninstantie in de zin van de wet een uitzondering maken op het eerste lid, onderdeel a, indien de groep financiële ondernemingen dezelfde financiële producten of financiële diensten aanbiedt en deze niet verweven zijn met andere financiële producten of financiële diensten.   
+
+### Artikel  46  
+
+1.  Een erkende geschilleninstantie heeft een onafhankelijk en naar behoren samengesteld bestuur.   
+2.  De onafhankelijkheid van het bestuur vereist ten minste dat de leden vanaf de aanvaarding van hun functie en gedurende een jaar voorafgaande aan de aanvaarding van hun functie niet werkzaam zijn of zijn geweest voor of enige functie bekleden of bekleed hebben bij een financiële onderneming of een beroepsorganisatie daarvan.   
+3.  De bij de benoeming van bestuursleden te volgen procedure is schriftelijk vastgelegd. De procedure wordt ter goedkeuring aan Onze Minister voorgelegd.   
+
+### Artikel  47  
 
 1.  Een erkende geschilleninstantie draagt zorg voor de onafhankelijkheid en deskundigheid van het orgaan dat binnen haar organisatie verantwoordelijk is voor de behandeling van het geschil.   
-2.  De onafhankelijkheid van het orgaan wordt voldoende gewaarborgd indien de leden: 
+2.  De onafhankelijkheid van het orgaan vereist ten minste dat de leden vanaf de aanvaarding van hun functie en gedurende een jaar voorafgaande aan de aanvaarding van hun functie niet werkzaam zijn of gewerkt hebben voor of enige functie bekleden of bekleed hebben bij een financiële onderneming of een beroepsorganisatie daarvan.   
+3.  Binnen het orgaan is voldoende kennis en ervaring aanwezig op het gebied van geschillenbeslechting, toepasselijke wet- en regelgeving en financiële producten en diensten.   
+4.  De bij de benoeming van een lid van het orgaan, bedoeld in het eerste lid, te volgen procedure is schriftelijk vastgelegd. De procedure wordt ter goedkeuring aan Onze Minister voorgelegd.   
+5.  Indien de erkende geschilleninstantie een bemiddelende voorfase kent, is het eerste tot en met vierde lid van overeenkomstige toepassing.   
 
-a. gedurende een jaar voorafgaande aan de aanvaarding van hun functie niet gewerkt hebben voor of enige functie bekleed hebben bij een beroepsorganisatie voor betaaldienstverleners of financiëledienstverleners of voor, onderscheidenlijk bij een betaaldienstverlener of financiëledienstverlener, ten aanzien van wiens betaaldiensten, financiële producten en financiële diensten geschillen ter behandeling aan de geschilleninstantie kunnen worden voorgelegd; en  
-
-b. vanaf de aanvaarding van hun functie niet werkzaam zijn voor of enige functie bekleden bij een beroepsorganisatie voor betaaldienstverleners of financiëledienstverleners, of voor, onderscheidenlijk bij een betaaldienstverlener of financiëledienstverlener, ten aanzien van wiens betaaldiensten, financiële producten en financiële diensten geschillen ter behandeling aan de geschilleninstantie kunnen worden voorgelegd.     
-3.  Ter waarborging van de deskundigheid van het orgaan bezit in ieder geval de voorzitter van het orgaan de hoedanigheid van meester in de rechten.   
-4.  De bij de benoeming van een lid van het orgaan te volgen procedure is schriftelijk vastgelegd.   
-
-### Artikel  45  
+### Artikel  48  
 
 1.  Een erkende geschilleninstantie beschikt over en handelt in overeenstemming met een reglement voor de behandeling van geschillen dat ten minste omvat: 
 
@@ -1117,7 +1179,7 @@ a. een duidelijke omschrijving van de geschillen die ter behandeling aan de gesc
 
 b. regels met betrekking tot het aanhangig maken van een geschil en een duidelijke omschrijving van de partijen die een geschil aanhangig kunnen maken;  
 
-c. indien de mogelijkheid daartoe wordt geboden: de regels met betrekking tot wraking van een lid van het orgaan, bedoeld in artikel 44, eerste lid, door partijen, op grond van feiten of omstandigheden die een onpartijdig of onafhankelijk oordeel van dat lid zouden bemoeilijken;  
+c. indien de mogelijkheid daartoe wordt geboden: regels met betrekking tot wraking van een lid van het orgaan, bedoeld in artikel 47, eerste lid, door partijen, op grond van feiten of omstandigheden die een onpartijdig of onafhankelijk oordeel van dat lid zouden bemoeilijken;  
 
 d. regels met betrekking tot de behandeling van een geschil door de geschilleninstantie;  
 
@@ -1131,11 +1193,11 @@ h. regels met betrekking tot de mogelijkheid voor partijen om van alle door hen 
 
 i. regels met betrekking tot de voorwaarden waaronder een geschil door middel van een verkorte schriftelijke procedure of een voorlopig oordeel kan worden afgedaan;  
 
-j. regels met betrekking tot het soort regels waarop de geschilleninstantie haar beslissingen baseert;  
+j. regels op grond waarvan de geschilleninstantie haar beslissingen baseert;  
 
 k. regels met betrekking tot de mogelijkheid dat de beslechting van een geschil resulteert in een niet-bindend advies;  
 
-l. de bepaling dat de beslechting van een geschil slechts resulteert in een bindend advies indien de betaaldienstverlener of financiële dienstverlener daarmee uitdrukkelijk vooraf heeft ingestemd;  
+l. de bepaling dat de beslechting van een geschil slechts resulteert in een bindend advies indien de financiële onderneming daarmee uitdrukkelijk vooraf heeft ingestemd;  
 
 m. regels met betrekking tot de vaststelling van de hoogte van het bedrag dat, zo dit verschuldigd is, bij het aanhangig maken van het geschil dient te worden voldaan;  
 
@@ -1143,20 +1205,43 @@ n. regels met betrekking tot de mogelijkheid om partijen in de kosten van de beh
 
 o. regels met betrekking tot de vorm, inhoud en bekendmaking van de uitkomst van het advies, bedoeld in de onderdelen k en l, waarbij in ieder geval is bepaald dat deze uitkomst, met redenen omkleed, ondertekend en schriftelijk aan partijen wordt medegedeeld; en  
 
-p. indien beroep tegen een uitspraak mogelijk is, de regels met betrekking tot het mededelen van de mogelijkheid van beroep, de wijze en termijn van het instellen, alsmede de behandeling van dit beroep.     
-2.  Een erkende geschilleninstantie houdt het reglement, bedoeld in het eerste lid, beschikbaar en verstrekt het kosteloos op verzoek aan iedere belanghebbende.   
+p. indien beroep tegen een uitspraak mogelijk is: regels met betrekking tot het mededelen van de mogelijkheid van beroep, de wijze en termijn van het instellen, alsmede de behandeling van dit beroep.     
+2.  De geschilleninstantie houdt het reglement, bedoeld in het eerste lid, beschikbaar en verstrekt het kosteloos op verzoek aan iedere belanghebbende.   
 
-### Artikel  46  
+### Artikel  48a  
+
+Een erkende geschilleninstantie kan voorgenomen wijzigingen in de samenstelling van het bestuur, het orgaan bedoeld in artikel 47, eerste lid, of het reglement, bedoeld in artikel 48, niet doorvoeren dan na instemming van Onze Minister. Bij voorgenomen wijzigingen in de samenstelling van het bestuur of het orgaan, bedoeld in artikel 47, eerste lid, vermeldt de geschilleninstantie de leeftijd, genoten opleidingen en professionele achtergrond van de nieuwe leden.  
+
+### Artikel  48b  
 
 Een erkende geschilleninstantie draagt er zorg voor dat de kosten voor het aanhangig maken van een geschil zodanig beperkt blijven dat de toegang tot de geschilleninstantie niet onredelijk wordt belemmerd.  
 
-### Artikel  47  
+### Artikel  48c  
 
 Een erkende geschilleninstantie draagt er zorg voor dat de behandeling van een geschil binnen een redelijke termijn wordt voltooid.  
 
-### Artikel  48  
+### Artikel  48d  
 
-Een erkende geschilleninstantie stelt aan een betaaldienstverlener of financiëledienstverlener die zich bij haar wil aansluiten niet als voorwaarde voor aansluiting dat de betaaldienstverlener of financiëledienstverlener andere regels naleeft dan die welke betrekking hebben op het aanhangig maken van een geschil bij de geschilleninstantie of de verdere behandeling van een geschil door de geschilleninstantie.  
+Een erkende geschilleninstantie stelt aan een financiële onderneming die zich bij haar wil aansluiten niet als voorwaarde voor aansluiting dat de financiële onderneming andere regels naleeft dan die welke betrekking hebben op het aanhangig maken van een geschil bij de geschilleninstantie of de verdere behandeling van een geschil door de geschilleninstantie.  
+
+### Artikel  48e  
+
+Een erkende geschilleninstantie publiceert de bindende adviezen, bedoeld in artikel 48, eerste lid, onderdeel l, en houdt deze elektronisch beschikbaar en algemeen toegankelijk.  
+
+### Artikel  48f  
+
+1.  Een erkende geschilleninstantie verstrekt aan Onze Minister jaarlijks voor 1 juli een opgave van: 
+
+a. de in het afgelopen kalenderjaar bij de geschilleninstantie aangesloten financiële ondernemingen;  
+
+b. het aantal in het afgelopen kalenderjaar ingediende en behandelde geschillen, alsmede een algemene weergave van de aard van de geschillen en de uitkomst van de geschilbeslechting.     
+2.  Een erkende geschilleninstantie verstrekt aan Onze Minister op diens verzoek de gegevens en inlichtingen die Onze Minister nodig heeft voor de uitoefening van diens in deze paragraaf omschreven taken.   
+3.  Een erkende geschilleninstantie verstrekt de Autoriteit Financiële Markten en de Nederlandsche Bank de gegevens en inlichtingen die zij nodig hebben voor de uitoefening van hun taken.   
+4.  Een erkende geschilleninstantie stelt jaarlijks een begroting op en zendt deze voor 1 december van het aan het begrotingsjaar voorafgaande jaar ter instemming aan Onze Minister.   
+5.  Een erkende geschilleninstantie stelt jaarlijks een jaarverslag en een jaarrekening op. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de geschilleninstantie aangewezen accountant.   
+6.  Een erkende geschilleninstantie zendt de jaarrekening voor 1 mei van het op het boekjaar volgende jaar ter instemming aan Onze Minister.   
+7.  Een erkende geschilleninstantie laat iedere vijf jaar een evaluatieonderzoek uitvoeren door een onafhankelijke onderzoeksinstantie en voert periodiek klanttevredenheidsonderzoeken uit. Van deze onderzoeken wordt een afschrift aan Onze Minister versterkt.   
+8.  Onze minister kan de termijn van vijf jaar, bedoeld in het zevende lid, verkorten en, op kosten van de erkende geschilleninstantie, het opdrachtgeverschap van het evaluatieonderzoek, bedoeld in het zevende lid, overnemen.   
 
 ### Hoofdstuk  8  
 
@@ -1168,13 +1253,13 @@ Een erkende geschilleninstantie stelt aan een betaaldienstverlener of financiël
 
 ### §  8.1.1  
 
-####Inleidende bepaling
+####Inleidende bepalingen
 
-Bepaling ter uitvoering van de [artikelen 4:22, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:72, derde lid, aanhef en onderdeel a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:73, derde lid, aanhef en onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+Bepalingen ter uitvoering van de [artikelen 4:22, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:25a, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:25b, eerste en tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
 ### Artikel  49  
 
-1.  Een financiële onderneming verstrekt de ingevolge deze afdeling en de [artikelen 4:72, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:73, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aan de consument of cliënt te verstrekken informatie schriftelijk, tenzij in deze afdeling anders wordt bepaald. De financiële onderneming kan de informatie via een andere duurzame drager verstrekken, indien zij zich ervan heeft vergewist dat de consument onderscheidenlijk cliënt over de benodigde middelen beschikt om kennis te nemen van de aldus te verstrekken informatie.   
+1.  Een financiële onderneming verstrekt de ingevolge deze afdeling en de [artikelen 4:25a, eerste lid, onderdeel a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:25b, eerste en tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aan de consument of cliënt te verstrekken informatie schriftelijk, tenzij in deze afdeling anders wordt bepaald. De financiële onderneming kan de informatie via een andere duurzame drager verstrekken, indien zij zich ervan heeft vergewist dat de consument onderscheidenlijk cliënt over de benodigde middelen beschikt om kennis te nemen van de aldus te verstrekken informatie.   
 2.  De financiële onderneming verstrekt de informatie, bedoeld in het eerste lid, in de Nederlandse taal. De informatie kan in een andere taal worden verstrekt: 
 
 a. indien de consument of cliënt daarom verzoekt en de financiële onderneming hiermee heeft ingestemd;  
@@ -1251,9 +1336,9 @@ Een financiële onderneming maakt een beschrijving van haar beleid inzake beloni
 
 ### §  8.1.2a  
 
-####Informatieverstrekking door beleggingsondernemingen
+####Informatieverstrekking door beleggingsondernemingen en aanbieders van hypothecair krediet
 
-Bepalingen ter uitvoering van [artikel 4:19, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+Bepalingen ter uitvoering van de [artikelen 4:19, vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:22, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
 ### Artikel  51a  
 
@@ -1305,6 +1390,10 @@ d. wordt duidelijk gewaarschuwd dat dergelijke prognoses geen betrouwbare indica
 6.  Indien de informatie verwijst naar een bepaalde fiscale behandeling, wordt duidelijk vermeld dat deze behandeling afhangt van de individuele omstandigheden van de cliënt en in de toekomst aan wijzigingen onderhevig kan zijn.   
 7.  In de informatie wordt de naam van de toezichthouder niet zodanig gebruikt dat daarmee wordt beweerd of gesuggereerd dat deze de producten of diensten van de beleggingsonderneming steunt of aanbeveelt.   
 
+### Artikel  51b  
+
+Een aanbieder van hypothecair krediet publiceert op zijn website de actuele vaste debetrentevoet voor hypothecair krediet bij verschillende rentevastperiodes en, indien van toepassing, de variabele debetrentevoet.  
+
 ### §  8.1.3  
 
 ####Reclame-uitingen en andere onverplichte precontractuele informatie
@@ -1347,7 +1436,8 @@ g. het termijnbedrag.
 5.  Indien een financiële onderneming in een reclame-uiting over krediet reclame maakt voor met krediet aan te schaffen goederen of diensten, verstrekt zij daarbij de informatie, bedoeld in het eerste lid.   
 6.  Indien een reclame-uiting betrekking heeft op een krediet met een debetrentevoet die voor een beperkte duur of een beperkt deel van het krediet geldt, wordt bij het verstrekken van de informatie, bedoeld in het eerste lid, onderdeel a, de hoogste debetrentevoet in aanmerking genomen. Bij een krediet met een variabele debetrentevoet die voor beperkte duur of een beperkt deel van het krediet afwijkt van de variabele debetrentevoet die op het moment van het doen van de reclame-uiting geldt voor overeenkomsten over krediet van gelijke soort, omvang en duur, wordt bij het verstrekken van de informatie, bedoeld in het eerste lid, onderdeel a, de hoogste van genoemde variabele debetrentevoeten genoemd.   
 7.  Een financiële onderneming neemt in een reclame-uiting over krediet een waarschuwing op met betrekking tot de gevolgen die aan het krediet zijn verbonden, tenzij het een reclame-uiting voor hypothecair krediet betreft waarbij geen relatie met een ander bestedingsdoel wordt gelegd dan de verwerving van de eigen woning.   
-8.  Een financiële onderneming: 
+8.  Een financiële onderneming neemt in een reclame-uiting over hypothecair krediet met een variabele debetrentevoet een waarschuwing op met betrekking tot de risico’s die aan een dergelijk krediet zijn verbonden.   
+9.  Een financiële onderneming: 
 
 a. neemt in een reclame-uiting over krediet geen mededelingen op die gericht zijn op het gemak of de snelheid waarmee het krediet wordt verstrekt;  
 
@@ -1356,17 +1446,17 @@ b. brengt in een reclame-uiting over krediet niet tot uiting dat lopende overeen
 c. brengt in een reclame-uiting over krediet niet tot uiting dat met een negatieve uitkomst van de raadpleging van het stelsel van kredietregistratie of anderszins in afwijking van de geldende gedragscode toch een krediet kan worden verkregen; en  
 
 d. geeft in een reclame-uiting over krediet geen kenmerken van het krediet weer waarin fiscale voordelen zijn verwerkt.     
-9.  Indien een financiële onderneming in een reclame-uiting informatie als bedoeld in het eerste of tweede lid of informatie over een specifiek product verstrekt over een krediet, verstrekt zij daarbij informatie over de verkrijgbaarheid van de informatie, bedoeld in [artikel 4:33, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). De eerste volzin is niet van toepassing op reclame-uitingen over krediet, voorzover het krediet onderdeel uitmaakt van een complex product.   
-10.  Indien een financiële onderneming informatie verstrekt over de kenmerken van het krediet, bedoeld in het eerste lid en tweede lid, is het vierde lid van overeenkomstige toepassing.   
-11.  Artikel 49, eerste lid, eerste volzin, is niet van toepassing op het verstrekken van informatie in een reclame-uiting als bedoeld in dit artikel.   
-12.  Indien een financiële onderneming in een reclame-uiting over effectenkrediet melding maakt van een debetrentevoet of andere gegevens betreffende de kosten van een effectenkrediet, meldt zij tevens: 
+10.  Indien een financiële onderneming in een reclame-uiting informatie als bedoeld in het eerste of tweede lid of informatie over een specifiek product verstrekt over een krediet, verstrekt zij daarbij informatie over de verkrijgbaarheid van de informatie, bedoeld in [artikel 4:33, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). De eerste volzin is niet van toepassing op reclame-uitingen over krediet, voorzover het krediet onderdeel uitmaakt van een complex product.   
+11.  Indien een financiële onderneming informatie verstrekt over de kenmerken van het krediet, bedoeld in het eerste lid en tweede lid, is het vierde lid van overeenkomstige toepassing.   
+12.  Artikel 49, eerste lid, eerste volzin, is niet van toepassing op het verstrekken van informatie in een reclame-uiting als bedoeld in dit artikel.   
+13.  Indien een financiële onderneming in een reclame-uiting over effectenkrediet melding maakt van een debetrentevoet of andere gegevens betreffende de kosten van een effectenkrediet, meldt zij tevens: 
 
 a. dat een doorlopend krediet wordt verleend of toegezegd tegen onderpand van financiële instrumenten, en de kredietlimiet afhankelijk is van de waarde daarvan;  
 
 b. de vaste of variabele debetrentevoet en de andere kosten die deel uitmaken van de totale kosten van het effectenkrediet; en  
 
 c. indien een contract voor een nevendienst verplicht is om het effectenkrediet, in voorkomend geval op de geadverteerde voorwaarden te verkrijgen, en de kosten van die dienst niet vooraf bepaald kunnen worden, de verplichting tot het sluiten van die overeenkomst op een duidelijke, beknopte en opvallende wijze,     
-13.  Onverminderd het eerste tot en met twaalfde lid meldt een bemiddelaar in krediet in een reclame-uiting over krediet tevens dat hij: 
+14.  Onverminderd het eerste tot en met twaalfde lid meldt een bemiddelaar in krediet in een reclame-uiting over krediet tevens dat hij: 
 
 a. adviseert op grond van een objectieve analyse;  
 
@@ -1408,7 +1498,7 @@ De Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot d
 
 ####Verplichte precontractuele informatie
 
-Bepalingen ter uitvoering van de [artikelen 4:20, eerste en tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [artikel 4:22, eerste en tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:73, derde lid, aanhef en onderdeel a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:90b, tiende lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  
+Bepalingen ter uitvoering van de [artikelen 4:20, eerste en tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:22, eerste lid en tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:25a, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:25b, eerste en tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:90b, tiende lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
 ### Artikel  57  
 
@@ -1421,16 +1511,7 @@ b. de aard van zijn financiële dienstverlening;
 c. voorzover [artikel 4:17 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing is: zijn interne klachtenprocedure, bedoeld in [artikel 4:17, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en de erkende geschilleninstantie waarbij hij is aangesloten; en  
 
 d. zijn inschrijving in het door de toezichthouder gehouden register.     
-2.  In afwijking van artikel 49, eerste lid, kan de informatie, bedoeld in het eerste lid, en in [artikel 4:73, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), op verzoek van de cliënt mondeling worden verstrekt, indien het financiële product een verzekering is en onmiddellijke dekking noodzakelijk is. In dat geval verstrekt de financiëledienstverlener de informatie tevens onmiddellijk na de totstandkoming van de overeenkomst overeenkomstig artikel 49, eerste lid, aan de cliënt.   
-
-### Artikel  58  
-
-1.  Voorafgaand aan de totstandkoming van een overeenkomst inzake een betalingsbeschermer, complex product, hypothecair krediet of uitvaartverzekering verstrekt een bemiddelaar een consument informatie over de hoogte van de provisie, de afsluitprovisie, het jaarlijkse bedrag aan doorlopende provisie en het aantal termijnen daarvan die de desbetreffende aanbieder rechtstreeks of middellijk zal betalen in verband met de betalingsbeschermer, het complexe product, het hypothecair krediet, onderscheidenlijk de uitvaartverzekering.   
-2.  Het eerste lid is van overeenkomstige toepassing op bemiddelaars die complexe producten als bedoeld in artikel 1, onderdeel d, onder 4°, samenstellen of in de markt verkrijgbaar stellen, voor zover het betreft de financiële producten die onderdeel zijn van die complexe producten.   
-3.  Voorafgaand aan het zonder tussenkomst van een bemiddelaar doen van een voorstel tot het aangaan van een overeenkomst inzake een betalingsbeschermer, complex product, hypothecair krediet of uitvaartverzekering, verstrekt een aanbieder een consument informatie over het feit dat hij kosten maakt ten behoeve van de distributie met inbegrip van het adviseren en dat deze kosten onderdeel uitmaken van de prijs van het product of verwerkt kunnen zijn in het rentepercentage, alsmede informatie over de aard en reikwijdte van zijn dienstverlening.   
-4.  Het in het eerste tot en met derde lid bepaalde is van overeenkomstige toepassing op bemiddelaars die complexe producten als bedoeld in artikel 1, onderdeel d, onder 4°, samenstellen of in de markt verkrijgbaar stellen en bemiddelen in de financiële producten die onderdeel zijn van die complexe producten. Indien een bemiddelaar als bedoeld in de vorige volzin niet kan voldoen aan het tweede lid, verstrekt hij aan de consument de in het derde lid bedoelde informatie.   
-5.  Het eerste tot en met het derde lid zijn niet van toepassing op beleggingsondernemingen voor zover zij beleggingsdiensten of nevendiensten verlenen met betrekking tot deelnemingsrechten in beleggingsinstellingen.   
-5.  De Autoriteit Financiële Markten kan regels stellen met betrekking tot de wijze waarop de informatie, bedoeld in het eerste en derde lid, wordt geformuleerd of gepresenteerd.   
+2.  In afwijking van artikel 49, eerste lid, kan de informatie, bedoeld in het eerste lid, en in [artikel 4:25b, eerste en tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), op verzoek van de cliënt mondeling worden verstrekt, indien het financiële product een verzekering is en onmiddellijke dekking noodzakelijk is. In dat geval verstrekt de financiëledienstverlener de informatie tevens onmiddellijk na de totstandkoming van de overeenkomst overeenkomstig artikel 49, eerste lid, aan de cliënt.   
 
 ### Artikel  58a  
 
@@ -1545,10 +1626,10 @@ c. een duidelijke waarschuwing dat een specifieke instructie van de cliënt de b
 
 ### Artikel  59a  
 
-1.  Een aanbieder verstrekt voorafgaand aan de totstandkoming van een overeenkomst met een consument inzake een complex product of hypothecair krediet, aan de consument informatie over de totale prijs van het complexe product of hypothecaire krediet, met inbegrip van alle bijbehorende kosten.   
+1.  Een aanbieder verstrekt voorafgaand aan de totstandkoming van een overeenkomst inzake een complex product of hypothecair krediet aan de consument informatie over de totale prijs van het desbetreffende product met uitzondering van de advieskosten en distributiekosten, maar met inbegrip van alle bijbehorende kosten.   
 2.  Onverminderd het eerste lid verstrekt een aanbieder voorafgaand aan de totstandkoming van een overeenkomst met een consument inzake een complex product dat strekt tot vermogensopbouw, aan de consument, voor zover van toepassing, ten minste de volgende informatie: 
 
-a. het bedrag van de totale kosten;  
+a. het bedrag van de totale kosten, met uitzondering van de advieskosten en distributiekosten;  
 
 b. de kosten die worden ingehouden op de inleg of de premie, onderverdeeld naar soorten kosten, zoals in elk geval eerste kosten, doorlopende kosten en aan- en verkoopkosten;  
 
@@ -1566,6 +1647,17 @@ a. overeenkomsten met betrekking tot beleggingsobjecten; en
 b. overeenkomsten met betrekking tot het verlenen van een beleggingsdienst of nevendienst.     
 4.  Het tweede lid, aanhef en de onderdelen b tot en met f, zijn niet van toepassing op een levensverzekeraar die een levensverzekering aanbiedt waarbij de uitkering wordt uitgedrukt in rechten van deelneming in een beleggingsinstelling.   
 5.  Het eerste en tweede lid zijn van overeenkomstige toepassing op financiële ondernemingen die een complex product als bedoeld in artikel 1, onderdeel d, onder 1°, 4° of 11° samenstellen en dat product in de markt verkrijgbaar stellen voor consumenten of, indien het een recht van deelneming in een beleggingsinstelling betreft, cliënten.   
+
+### Artikel  59aa  
+
+1.  Een aanbieder verstrekt een consument voorafgaand aan de totstandkoming van een overeenkomst inzake een hypothecair krediet met een variabele debetrentevoet, ten minste informatie over: 
+
+a. de componenten waaruit de variabele debetrentevoet is opgebouwd;  
+
+b. of deze componenten een vast of variabel bestanddeel vormen van de debetrentevoet; en  
+
+c. de risico’s die verbonden zijn aan een variabele debetrentevoet.     
+2.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de door een aanbieder in de informatieverstrekking aan de consument te gebruiken aanduiding van de componenten waaruit de variabele debetrentevoet is opgebouwd.   
 
 ### Artikel  59b  
 
@@ -1875,7 +1967,20 @@ c. bij ministeriële regeling aan te wijzen andere onderwerpen.
 
 ### Artikel  68a  
 
-Gedurende de looptijd van een overeenkomst inzake hypothecair krediet met een variabele kredietvergoeding informeert de aanbieder de consument over elke wijziging van de kredietvergoeding, waarbij hij de consument tevens informeert over het gewijzigde jaarlijks kostenpercentage.  
+Gedurende de looptijd van een overeenkomst inzake hypothecair krediet met een variabele debetrentevoet informeert de aanbieder de consument over elke wijziging van de debetrentevoet, waarbij hij de consument tevens informeert over: 
+
+a. het gewijzigde jaarlijks kostenpercentage; en  
+
+b. de component of componenten waardoor de debetrentevoet is gewijzigd.    
+
+### Artikel  68b  
+
+1.  Indien de rentevastperiode van een overeenkomst inzake hypothecair krediet met een vaste debetrentevoet afloopt na 1 april 2013 informeert de aanbieder de consument ten minste drie maanden voor het aflopen van de rentevastperiode over het aflopen van die periode en verstrekt informatie over de maximale debetrentevoet die zal gelden voor de komende rentevastperiode waarbij de maximale debetrentevoet bij minimaal drie rentevastperiodes, indien aangeboden, wordt aangegeven.   
+2.  Gelijktijdig met het aanbod, bedoeld in het eerste lid, verstrekt de aanbieder tevens informatie over de mogelijkheid: 
+
+a. om boetevrij over te sluiten bij het aflopen van de rentevastperiode; en  
+
+b. om advies over oversluitmogelijkheden in te winnen bij de aanbieder of een andere financiëledienstverlener.     
 
 ### Artikel  69  
 
@@ -2233,9 +2338,9 @@ Gedurende de looptijd van een overeenkomst op afstand verstrekt een financiëled
 
 ### §  8.2.1  
 
-####Verplichting tot inwinnen van informatie door beleggingsondernemingen
+####Inwinnen van informatie door beleggingsondernemingen en financiëledienstverleners
 
-Bepalingen ter uitvoering van de [artikelen 4:23, derde lid, onderdelen a en b](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [artikel 4:24, vierde lid, onderdeel e, en vijfde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+Bepalingen ter uitvoering van de [artikelen 4:23, derde lid, onderdelen a en b](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:24, eerste lid, vierde lid, onderdeel e, en vijfde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
 ### Artikel  80a  
 
@@ -2279,9 +2384,26 @@ b. deze voor de cliënt geen andere verplichtingen met zich brengen dan de betal
 
 c. voor het publiek informatie beschikbaar is over de kenmerken ervan die goed te begrijpen is, zodat cliënten, die geen professionele belegger zijn, met kennis van zaken een beslissing over een eventuele transactie in deze financiële instrumenten kunnen nemen.    
 
+### Artikel  80e  
+
+1.  Een financiëledienstverlener die, zonder daarbij te adviseren, een betalingsbeschermer, complex product, hypothecair krediet, individuele arbeidsongeschiktheidsverzekering of een bij ministeriële regeling aan te wijzen ander financieel product aanbiedt, bemiddelt of ten aanzien van dit financieel product optreedt als gevolmachtigde agent, stelt bij de beoordeling van de passendheid, bedoeld in [artikel 4:24, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), voorafgaand aan de dienstverlening vast of de consument of cliënt over voldoende kennis en ervaring beschikt om te begrijpen welke risico’s zijn verbonden aan het desbetreffende financieel product en het verlenen van de betrokken financiële dienst.   
+2.  Het inwinnen van informatie over de kennis en ervaring van de consument of cliënt, bedoeld in [artikel 4:24, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), is wat de hoeveelheid betreft evenredig aan de aard van het financieel product, de complexiteit daarvan en de daarmee samenhangende risico’s. In ieder geval wordt informatie ingewonnen over: 
+
+a. de financiële producten waarmee de consument of cliënt bekend is;  
+
+b. het inzicht van de consument of cliënt in de eigenschappen en risico’s van het desbetreffende financieel product en de financiële dienst;  
+
+c. de mate waarin de consument of cliënt inzicht heeft in zijn eigen financiële situatie; en  
+
+d. de behoefte van de consument of cliënt aan advies over het desbetreffende financieel product.     
+3.  In de waarschuwing, bedoeld in [artikel 4:24, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wijst de financiëledienstverlener de consument of cliënt erop dat het inwinnen van advies raadzaam is.   
+4.  Een financiëledienstverlener mag vertrouwen op de door de consument of de cliënt verstrekte informatie over de in het tweede lid genoemde onderwerpen, tenzij hij weet of redelijkerwijs kan vermoeden dat deze informatie gedateerd, onnauwkeurig of onvolledig is.   
+5.  Indien meerdere financiëledienstverleners betrokken zijn bij het verlenen van de financiële dienst aan de consument of cliënt wordt de informatie, bedoeld in het eerste lid, ingewonnen door de financiëledienstverlener die rechtstreeks door de consument of cliënt is benaderd voor het verlenen van de financiële dienst.   
+6.  De Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot de wijze waarop de informatie over de kennis en ervaring, bedoeld in het eerste lid, wordt ingewonnen van de consument of cliënt, de informatie, bedoeld in het tweede lid, alsmede de formulering van de waarschuwing, bedoeld in het derde lid.   
+
 ### §  8.2.2  
 
-####Bepalingen ter uitvoering van [artikel 4:25, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)
+####Bepalingen ter uitvoering van de [artikelen 4:25, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:25a, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:25b van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)
 
 ### Artikel  81  
 
@@ -2293,6 +2415,10 @@ c. voor het publiek informatie beschikbaar is over de kenmerken ervan die goed t
 a. de werkelijke identiteit van degene namens wie de communicatie wordt overgebracht, en  
 
 b. een geldig postadres of nummer waaraan de ontvanger een verzoek tot beëindiging van dergelijke communicatie kan richten.     
+
+### Artikel  81a  
+
+Een aanbieder van een hypothecair krediet offreert voor een consument die voornemens is een overeenkomst inzake een hypothecair krediet aan te gaan dezelfde debetrentevoet bij dezelfde rentevastperiode als voor een consument aan wie op dat moment een aanbod wordt gedaan voor de komende rentevastperiode bij een vergelijkbaar risicoprofiel.  
 
 ### Artikel  82  
 
@@ -2337,12 +2463,143 @@ Een financiële onderneming voert een beleid inzake beloningen dat erop is geric
 
 ### Artikel  86b  
 
+Artikelen 86c is uitsluitend van toepassing op overeenkomsten die zijn aangegaan op of na inwerkingtreding van dat artikel.  
+
+### Artikel  86c  
+
+1.  Een financiëledienstverlener verschaft of ontvangt, rechtstreeks of middellijk, geen provisie voor het bemiddelen of adviseren van een betalingsbeschermer, complex product, hypothecair krediet, individuele arbeidsongeschiktheidsverzekering, overlijdensrisicoverzekering, uitvaartverzekering of bij ministeriële regeling aan te wijzen ander financieel product.   
+2.  Het eerste lid is niet van toepassing op: 
+
+a. provisies die rechtstreeks worden verschaft door de consument of, voor zover het een verzekering betreft, de cliënt of degene die namens hem optreedt, tenzij de hoogte van deze provisies kennelijk onredelijk is gelet op de aard en reikwijdte van de dienstverlening;  
+
+b. provisies die noodzakelijk zijn voor het verlenen van de desbetreffende financiële dienst of de desbetreffende financiële dienst mogelijk maken;  
+
+c. provisies die worden verschaft door een bemiddelaar of adviseur, niet zijnde een aanbieder of gevolmachtigde agent, aan een andere bemiddelaar of adviseur;  
+
+d. relatiegeschenken, voor zover de gezamenlijke waarde daarvan op jaarbasis niet meer bedraagt dan € 100.     
+3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op degene die, in combinatie met een complex product of een hypothecair krediet, beleggingsdiensten verleent als bedoeld in onderdeel a of d van de definitie van verlenen van een beleggingsdienst in artikel 1:1 van de wet.   
+
+### Artikel  86d  
+
+1.  Een aanbieder, bemiddelaar of adviseur verschaft of ontvangt voor het bemiddelen of adviseren inzake een schadeverzekering, niet zijnde een betalingsbeschermer, individuele arbeidsongeschiktheidsverzekering of een overlijdensrisicoverzekering, geen andere provisies dan: 
+
+a. provisies die worden verschaft door of aan de cliënt of degene die namens hem optreedt, tenzij de hoogte van deze provisies kennelijk onredelijk is gelet op de aard en reikwijdte van de financiële dienstverlening;  
+
+b. afsluitprovisies of doorlopende provisies, mits de bemiddelaar of adviseur kosteloos op verzoek van de cliënt op begrijpelijke wijze mededeling doet van het bestaan, de aard en het bedrag of, indien het bedrag niet kan worden achterhaald, de wijze van berekening van de provisie of in geval van provisie in natura de waarde in het economisch verkeer voordat de desbetreffende financiële dienst wordt verleend;  
+
+c. provisies die noodzakelijk zijn voor het verlenen van de financiële dienst of de desbetreffende dienst mogelijk maken; of  
+
+d. relatiegeschenken, voor zover de gezamenlijke waarde daarvan op jaarbasis niet meer bedraagt dan € 100.     
+2.  Voor de toepassing van het eerste lid, wordt onder «consument» in de definities van afsluitprovisie en doorlopende provisie in artikel 1, mede verstaan een cliënt, niet zijnde een consument.   
+3.  Dit artikel is van toepassing op overeenkomsten inzake schadeverzekeringen die zijn aangegaan op of na 1 januari 2012.   
+
+### Artikel  86e  
+
 1.  Een aanbieder, gevolmachtigde agent of ondergevolmachtigde agent verschaft of ontvangt voor het optreden als gevolmachtigde agent of ondergevolmachtigde agent rechtstreeks of middellijk geen commissie die niet noodzakelijk is voor het verlenen van de dienst of deze mogelijk maakt.   
 2.  Het eerste lid is niet van toepassing op: 
 
 a. commissies die worden verschaft door of aan een derde of degene die namens hem optreedt, indien de verschaffing van de commissie geen afbreuk doet aan de verplichting van de aanbieder, gevolmachtigde agent of ondergevolmachtigde agent om zich in te zetten voor de belangen van de cliënt; en  
 
 b. relatiegeschenken, voor zover deze gezamenlijk op jaarbasis de waarde van € 100 niet overstijgen.     
+3.  Dit artikel is van toepassing op overeenkomsten die aangegaan zijn op of na 1 januari 2012.   
+
+### Artikel  86f  
+
+1.  Een financiëledienstverlener verstrekt voorafgaand aan het verlenen van een financiële dienst inzake een financieel product als bedoeld in artikel 86c, eerste lid, een dienstverleningsdocument aan de consument of, indien het een verzekering betreft, de cliënt, dat betrekking heeft op de gevraagde dienstverlening.   
+2.  Het dienstverleningsdocument bevat de volgende informatie over de financiëledienstverlener en zijn dienstverlening: 
+
+a. of hij adviseert, en zo ja, of dit geschiedt op grond van een objectieve analyse;  
+
+b. of hij een contractuele verplichting heeft om uitsluitend voor een of meer bepaalde aanbieders te bemiddelen, in welk geval hij desgevraagd aan de consument of de cliënt de namen van deze aanbieders meedeelt;  
+
+c. of hij geen contractuele verplichting heeft uitsluitend voor een of meer aanbieders te bemiddelen, en niet adviseert op grond van een objectieve analyse, in welk geval hij de consument of cliënt desgevraagd tevens de namen meedeelt van de aanbieders waarvoor hij bemiddelt of kan bemiddelen;  
+
+d. of hij naast het geven van advies ook bemiddelt, in welk geval hij de hoogte van de kosten die hiervoor in rekening worden gebracht, weergeeft in de totale kosten van de dienstverlening, bedoeld in de onderdelen i en j;  
+
+e. of hij na de totstandkoming van de overeenkomst andere diensten voor de consument of cliënt kan verrichten, in welk geval hij de wijze waarop hij de kosten die voor deze diensten in rekening worden gebracht, meedeelt;  
+
+f. of hij uitsluitend adviseert over eigen producten, dan wel tevens over producten van andere aanbieders;  
+
+g. of hij een gekwalificeerde deelneming in een bepaalde aanbieder of een moedermaatschappij van een bepaalde aanbieder houdt;  
+
+h. of een bepaalde aanbieder of een moedermaatschappij van een bepaalde aanbieder een gekwalificeerde deelneming in hem houdt;  
+
+i. indien hij een bemiddelaar of adviseur is die niet tevens aanbiedt: het nominale bedrag van de beloning die door hem gemiddeld voor de financiële dienst in rekening wordt gebracht, alsmede de manier waarop deze beloning bij de consument of cliënt in rekening wordt gebracht;  
+
+j. indien hij een aanbieder is: de nominale kosten die door hem gemiddeld bij de consument of cliënt in rekening worden gebracht voor advies en distributie van een financieel product dat beantwoordt aan de dienstverleningsvraag, alsmede de wijze waarop deze kosten in rekening worden gebracht; en  
+
+k. andere bij ministeriële regeling bepaalde informatie.     
+3.  Indien de financiëledienstverlener op grond van het tweede lid, onderdelen f, g, en h, tevens andere belangen bij het verlenen van een financiële dienst heeft dan het belang van de consument of cliënt, wijst hij de consument of cliënt erop dat deze belangen ertoe kunnen leiden dat bepaalde financiële producten worden geadviseerd.   
+4.  Een objectieve analyse als bedoeld in het tweede lid, onderdeel a, is een analyse van een toereikend aantal op de markt verkrijgbare vergelijkbare financiële producten die de adviseur of bemiddelaar in staat stelt een financieel product aan te bevelen dat aan de dienstverleningsvraag van de consument of, indien het een verzekering betreft, de cliënt beantwoordt.   
+5.  De financiëledienstverlener publiceert, indien hij beschikt over een website, het dienstverleningsdocument op zijn website.   
+6.  Het dienstverleningsdocument wordt verstrekt door de financiëledienstverlener die rechtstreeks door de consument of cliënt is benaderd voor het verlenen van de financiële dienst.   
+7.  De Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot de gevraagde dienstverlening, bedoeld in het eerste lid, de informatie, bedoeld in het tweede en derde lid, alsmede de vormgeving en wijze van verstrekking van het dienstverleningsdocument.   
+
+### Artikel  86g  
+
+1.  Een aanbieder die een dienstverleningsdocument dient te verstrekken, stelt een kostprijsmodel op. Dit kostprijsmodel wordt gebruikt voor de berekening van de advieskosten en distributiekosten die zijn gericht op het tot stand brengen van een overeenkomst ten aanzien van producten als bedoeld in artikel 86c met een consument of, indien het een verzekering betreft, cliënt.   
+2.  De aanbieder laat de juistheid van het kostprijsmodel controleren door een accountant. Tevens controleert een accountant jaarlijks of de begrote advieskosten en distributiekosten juist en volledig zijn toegerekend aan de financiële producten, bedoeld in het eerste lid.   
+
+### Artikel  86h  
+
+1.  Een directe aanbieder brengt de advieskosten en distributiekosten gericht op het tot stand brengen van een overeenkomst met betrekking tot een betalingsbeschermer, complex product, hypothecair krediet, individuele arbeidsongeschiktheidsverzekering, overlijdensrisicoverzekering, uitvaartverzekering, of bij ministeriële regeling aan te wijzen ander financieel product rechtstreeks in rekening bij de consument of, indien het een verzekering betreft, de cliënt.   
+2.  De aanbieder brengt geen andere kosten dan de advieskosten en distributiekosten in rekening bij de consument onderscheidenlijk cliënt voor de werkzaamheden gericht op het tot stand brengen van een overeenkomst met betrekking tot de financiële producten, bedoeld in het eerste lid.   
+
+### Artikel  86i  
+
+1.  Een adviseur die de aanbevolen schadeverzekering niet tevens aanbiedt, informeert de cliënt uiterlijk tegelijk met zijn advies inzake een schadeverzekering, niet zijnde een betalingsbeschermer, individuele arbeidsongeschiktheidsverzekering of overlijdensrisicoverzekering, over de volgende onderwerpen: 
+
+a. of hij adviseert op grond van een objectieve analyse;  
+
+b. of hij een contractuele verplichting heeft uitsluitend voor een of meer aanbieders te adviseren, in welk geval hij de cliënt desgevraagd tevens de namen van deze aanbieders meedeelt;  
+
+c. of hij geen contractuele verplichting heeft uitsluitend voor een of meer aanbieders te adviseren en hij niet adviseert op grond van een objectieve analyse, in welk geval hij de cliënt desgevraagd tevens de namen meedeelt van de aanbieders waarvoor hij adviseert of kan adviseren;  
+
+d. op welke wijze hij wordt beloond;  
+
+e. of hij een gekwalificeerde deelneming in een bepaalde aanbieder houdt; en  
+
+f. of een bepaalde aanbieder of een bepaalde moedermaatschappij van een aanbieder een gekwalificeerde deelneming in hem houdt.     
+2.  Een bemiddelaar informeert de cliënt voorafgaande aan de totstandkoming van een overeenkomst inzake een schadeverzekering, met uitzondering van een betalingsbeschermer, individuele arbeidsongeschiktheidsverzekering of een overlijdensrisicoverzekering, over de onderwerpen, bedoeld in het eerste lid.   
+3.  Een objectieve analyse als bedoeld in het eerste lid is een analyse van een toereikend aantal op de markt verkrijgbare vergelijkbare schadeverzekeringen die de adviseur of bemiddelaar in staat stelt een schadeverzekering aan te bevelen dat aan de behoeften van de cliënt voldoet.   
+
+### §  8.2.3  
+
+####Provisies inzake overeenkomsten betreffende betalingsbeschermers, complexe producten, hypothecair krediet en uitvaartverzekeringen die zijn aangegaan voor de inwerkingtreding van artikel 86c 
+
+### Artikel  86j  
+
+1.  Artikel 86k is van toepassing op overeenkomsten inzake betalingsbeschermers en uitvaartverzekeringen die zijn aangegaan vanaf 1 januari 2010 tot de inwerkingtreding van artikel 86c.   
+2.  Artikel 86k is van toepassing op overeenkomsten inzake complexe producten en hypothecair kredieten die zijn aangegaan vanaf 1 januari 2007 tot de inwerkingtreding van artikel 86c.   
+3.  De artikelen 86l en 86m zijn van toepassing op overeenkomsten die zijn aangegaan vanaf 1 januari 2007 tot de inwerkingtreding van artikel 86c.   
+
+### Artikel  86k  
+
+1.  Een aanbieder, bemiddelaar of adviseur verschaft of ontvangt voor het bemiddelen of adviseren inzake een betalingsbeschermer, complex product, hypothecair krediet of uitvaartverzekering, rechtstreeks of middellijk geen provisie die niet noodzakelijk is voor het verlenen van de desbetreffende dienst of deze mogelijk maakt.   
+2.  Het eerste lid is niet van toepassing op: 
+
+a. provisies die worden verschaft door of aan de cliënt of degene die namens hem optreedt; of  
+
+b. afsluitprovisies of doorlopende provisies die worden verschaft door of aan een derde of degene die namens hem optreedt, indien: 
+
+1°. de bemiddelaar of adviseur de cliënt op uitvoerige, accurate en begrijpelijke wijze mededeling doet van het bestaan, de aard en het bedrag of, indien het bedrag niet kan worden achterhaald, de wijze van berekening van de provisie of in geval van provisie in natura de waarde in het economisch verkeer voordat de betreffende dienst wordt verleend; en  
+
+2°. het verschaffen van de provisie de kwaliteit van de betreffende dienst ten goede komt en geen afbreuk doet aan de verplichting van de aanbieder, bemiddelaar of adviseur om zich in te zetten voor de belangen van de cliënt;    
+
+c. relatiegeschenken, voor zover de gezamenlijke waarde daarvan op jaarbasis niet meer bedraagt dan € 100.     
+3.  Voor de toepassing van het tweede lid, onderdeel b, wordt onder «consument» in de definities van afsluitprovisie en doorlopende provisie, bedoeld in artikel 1, mede verstaan een cliënt, niet zijnde een consument.   
+
+### Artikel  86l  
+
+1.  Een aanbieder betaalt geen afsluitprovisie die meer bedraagt dan de helft van de som van die afsluitprovisie en de totale doorlopende provisie terzake van de desbetreffende overeenkomst.   
+2.  Een aanbieder betaalt de doorlopende provisie evenredig uit gedurende ten minste tien jaar na totstandkoming van de desbetreffende overeenkomst. Indien de looptijd van de overeenkomst korter is dan tien jaar, betaalt de aanbieder de doorlopende provisie evenredig uit gedurende die looptijd.   
+3.  Het tweede lid is niet van toepassing op overeenkomsten inzake complexe producten voor zover tussen de desbetreffende aanbieder en de consument door tussenkomst van dezelfde bemiddelaar ten minste drie maanden voorafgaand aan het sluiten daarvan een overeenkomst is gesloten inzake een financieel product dat onderdeel is van het desbetreffende complexe product.   
+4.  Dit artikel is niet van toepassing op overeenkomsten inzake een betalingsbeschermer, een hypothecair krediet, een schadeverzekering of een uitvaartverzekering.   
+
+### Artikel  86m  
+
+1.  Indien een overeenkomst met een consument inzake een complex product of hypothecair krediet tijdens de eerste vijf jaar na de totstandkoming vroegtijdig wordt beëindigd, anders dan door overlijden van de verzekerde of anders dan door verkoop van de onroerende zaak waarop het complexe product of hypothecair krediet betrekking heeft, wordt de afsluitprovisie of provisie evenredig verminderd.   
+2.  Het eerste lid is niet van toepassing op overeenkomsten inzake complexe producten, voor zover tussen de desbetreffende aanbieder en de consument door tussenkomst van dezelfde bemiddelaar ten minste drie maanden voorafgaand aan het sluiten daarvan een overeenkomst is gesloten inzake een financieel product dat onderdeel is van het desbetreffende complexe product.   
 
 ### Hoofdstuk  9  
 
@@ -2622,7 +2879,7 @@ b. de personen die onderdeel zijn van een orgaan dat belast is met het toezicht 
 a. een persoon die het beleid van de financiëledienstverlener bepaalt of mede bepaalt; of  
 
 b. een persoon die onderdeel is van een orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de financiëledienstverlener.     
-2.  Een financiëledienstverlener geeft geen uitvoering aan het voornemen, bedoeld in het eerste lid, voordat de Autoriteit Financiële Markten heeft vastgesteld dat de betrouwbaarheid van de betrokken persoon buiten twijfel staat. De Autoriteit Financiële Markten neemt een besluit omtrent de betrouwbaarheid: 
+2.  Een financiëledienstverlener geeft geen uitvoering aan het voornemen, bedoeld in het eerste lid, voordat de Autoriteit Financiële Markten heeft vastgesteld dat de betrouwbaarheid van de betrokken persoon buiten twijfel staat en deze persoon geschikt is. De Autoriteit Financiële Markten neemt een besluit omtrent de betrouwbaarheid en geschiktheid: 
 
 a. binnen zes weken na ontvangst van de melding; of  
 
@@ -2630,14 +2887,14 @@ b. indien de Autoriteit Financiële Markten binnen twee weken na ontvangst van d
 3.  Indien de Autoriteit Financiële Markten een derde verzoekt om nadere gegevens als bedoeld in het tweede lid, onderdeel b, doet zij daarvan mededeling aan de financiëledienstverlener.   
 4.  Bij de melding legt de financiëledienstverlener ten aanzien van de betrokken persoon de volgende gegevens over: 
 
-a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;  
+a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer, curriculum vitae, een opgave van de relevante geldige diploma's en de functie;  
 
 b. een kopie van een geldig identiteitsbewijs;  
 
 c. gegevens met betrekking tot de antecedenten, bedoeld in artikel 13; en  
 
 d. een opgave van referenten.     
-5.  Het tweede en vierde lid, onderdelen b, c en d, zijn niet van toepassing indien de voorgenomen benoeming een persoon betreft wiens betrouwbaarheid voor de toepassing van de wet reeds is vastgesteld.   
+5.  Het vierde lid, onderdelen b, c en d, is niet van toepassing indien de voorgenomen benoeming een persoon betreft wiens betrouwbaarheid voor de toepassing van de wet reeds is vastgesteld.   
 
 ### Artikel  104  
 
@@ -2862,6 +3119,16 @@ Alvorens met een consument een overeenkomst inzake krediet aan te gaan waarvan h
 
 1.  Ter voorkoming van overkreditering legt een aanbieder van krediet de criteria vast die hij ten grondslag legt aan de beoordeling van een kredietaanvraag van een consument en past hij deze criteria toe bij de beoordeling van een kredietaanvraag.   
 2.  Het eerste lid is niet van toepassing op aanbieders van krediet voor zover zij krediet aanbieden in de vorm van een geoorloofde debetstand die binnen drie maanden dient te worden afgelost en die niet hoger is dan het bedrag dat maandelijks op de rekening wordt gestort.   
+3.  Bij ministeriële regeling worden de inkomenscriteria vastgesteld en de maximale hoogte van het hypothecair krediet in verhouding tot de waarde van de woning.   
+4.  In aanvulling op het eerste lid past een aanbieder van hypothecair krediet de bij ministeriële regeling vastgestelde inkomenscriteria toe bij de beoordeling van een aanvraag voor een hypothecair krediet.   
+5.  Een aanbieder van hypothecair krediet houdt bij de beoordeling van de kredietaanvraag rekening met het bij ministeriële regeling bepaalde maximale hypothecair krediet in verhouding tot de waarde van de woning.   
+6.  De waarde van de woning is: 
+
+1°. het aankoopbedrag van de woning zoals blijkt uit een koopovereenkomst, die is ondertekend door de consument en de verkoper, een akte van levering of een veilingakte indien de woning is gekocht op een veiling;  
+
+2°. de koopsom of aannemingsom dan wel de kosten volgens de begroting van een bouwkundig bedrijf, eventueel vermeerderd met de kosten van de grond, kosten van de bouw, inclusief de kosten voor meerwerk, bouwrente en renteverlies tijdens de bouwperiode, en de aansluiting op nutsvoorzieningen; of  
+
+3°. de marktwaarde van de woning blijkens een door een deskundig taxateur opgemaakt taxatierapport dat op het moment van aangaan van het hypothecair krediet niet ouder is dan een jaar, eventueel na verbouwing.     
 
 ### Artikel  115a  
 
@@ -2938,7 +3205,7 @@ Het registratiedocument, bedoeld in [artikel 4:48, eerste lid, van de wet](../..
 a. de kosten van de beleggingsinstelling en de wijze waarop zij ten laste komen van het resultaat van de beleggingsinstelling, in mindering worden gebracht op het beheerde vermogen of anderszins direct of indirect ten laste komen van de deelnemers in de beleggingsinstelling; en  
 
 b. de aan de beleggingsinstelling verbonden risico’s.     
-3.  De Autoriteit Financiële Markten stelt regels met betrekking tot de wijze waarop in het prospectus inzicht wordt verschaft in het niveau van de kosten van de beleggingsinstelling en de daaraan ten grondslag liggende berekening. Voorts kan de Autoriteit Financiële Markten nadere regels stellen met betrekking tot de wijze waarop de gegevens, bedoeld in bijlage I, worden opgenomen in het prospectus.   
+3.  De Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot de wijze waarop de gegevens, bedoeld in bijlage I, worden opgenomen in het prospectus.   
 
 ### Artikel  119  
 
@@ -3827,24 +4094,6 @@ Bepalingen ter uitvoering van [artikel 4:71, vierde lid, van de wet](../../../..
 
 Bepalingen ter uitvoering van de [artikelen 4:71a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:72, derde lid, aanhef en onderdelen a en c](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [4:73, derde lid, aanhef en onderdelen a en c, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
-### Artikel  149a  
-
-1.  Een aanbieder, bemiddelaar of adviseur verschaft of ontvangt, voor het bemiddelen of adviseren inzake een betalingsbeschermer, complex product, hypothecair krediet, schadeverzekering of uitvaartverzekering, rechtstreeks of middellijk geen provisie die niet noodzakelijk is voor het verlenen van de betreffende dienst of deze mogelijk maakt.   
-2.  Het eerste lid is niet van toepassing op: 
-
-a. provisies die worden verschaft door of aan de cliënt of degene die namens hem optreedt, tenzij de hoogte van de provisies die de bemiddelaar of adviseur bij de cliënt of degene die namens hem optreedt in rekening brengt kennelijk onredelijk is gelet op de aard en reikwijdte van de dienstverlening;  
-
-b. afsluitprovisies of doorlopende provisies ter zake van betalingsbeschermers, complexe producten, hypothecaire kredieten of uitvaartverzekeringen, die worden verschaft door of aan een derde of degene die namens hem optreedt, indien: 
-
-1°. de bemiddelaar of adviseur de cliënt op uitvoerige, accurate en begrijpelijke wijze mededeling doet van het bestaan, de aard en het bedrag of, indien het bedrag niet kan worden achterhaald, de wijze van berekening van de provisie of in geval van provisie in natura de waarde in het economisch verkeer voordat de betreffende dienst wordt verleend; en  
-
-2°. de verschaffing van de provisie de kwaliteit van de betreffende dienst ten goede komt en geen afbreuk doet aan de verplichting van de aanbieder, bemiddelaar of adviseur om zich in te zetten voor de belangen van de cliënt;    
-
-c. afsluitprovisies en doorlopende provisies ter zake van schadeverzekeringen die worden verschaft door of aan een derde of degene die namens hem optreedt, en de bemiddelaar of adviseur op verzoek van de cliënt op uitvoerige, accurate en begrijpelijke wijze mededeling doet van het bestaan, de aard en het bedrag of, indien het bedrag niet kan worden achterhaald, de wijze van berekening van de provisie of in geval van provisie in natura de waarde in het economisch verkeer voordat de desbetreffende dienst wordt verleend;  
-
-d. relatiegeschenken, voor zover deze gezamenlijk op jaarbasis de waarde van € 100 niet overstijgen.     
-3.  Voor de toepassing van het tweede lid, onderdelen b en c, wordt onder «consument» in de definities van afsluitprovisie en doorlopende provisie, bedoeld in artikel 1, mede verstaan een cliënt, niet zijnde een consument.   
-
 ### Artikel  149b  
 
 1.  Een adviseur die niet tevens aanbieder is of een bemiddelaar verstrekt in het kader van het tot stand brengen van een overeenkomst met een consument inzake een complex product of hypothecair krediet een dienstverleningsdocument aan de consument.   
@@ -3855,18 +4104,6 @@ a. de aard en reikwijdte van zijn dienstverlening;
 b. de verschillende wijzen van zijn beloning, onderscheiden naar soort financieel product, alsmede een specificatie van de hoogte van de beloning.     
 3.  Het dienstverleningsdocument wordt voorafgaand aan het adviseren of, indien het een bemiddelaar betreft die niet adviseert voorafgaand aan het bemiddelen verstrekt.   
 4.  De Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot de wijze waarop de informatie, bedoeld in het tweede lid, in het dienstverleningsdocument wordt geformuleerd, gepresenteerd of verstrekt.   
-
-### Artikel  150  
-
-1.  Een aanbieder betaalt geen afsluitprovisie die meer bedraagt dan de helft van de som van die afsluitprovisie en de totale doorlopende provisie terzake van de desbetreffende overeenkomst.   
-2.  Een aanbieder betaalt de doorlopende provisie evenredig uit gedurende ten minste tien jaar na totstandkoming van de desbetreffende overeenkomst. Indien de looptijd van de overeenkomst korter is dan tien jaar, betaalt de aanbieder de doorlopende provisie evenredig uit gedurende die looptijd.   
-3.  Het eerste en tweede lid zijn niet van toepassing op overeenkomsten inzake complexe producten voor zover tussen de desbetreffende aanbieder en de consument door tussenkomst van dezelfde bemiddelaar ten minste drie maanden voorafgaand aan het sluiten daarvan een overeenkomst is gesloten inzake een financieel product dat onderdeel is van het desbetreffende complexe product.   
-4.  Dit artikel is niet van toepassing op overeenkomsten inzake een betalingsbeschermer, een hypothecair krediet, een schadeverzekering of een uitvaartverzekering.   
-
-### Artikel  151  
-
-1.  Indien een overeenkomst met een consument inzake een complex product of hypothecair krediet tijdens de eerste vijf jaar na de totstandkoming vroegtijdig wordt beëindigd, anders dan door overlijden van de verzekerde of anders dan door verkoop van de onroerende zaak waarop het complex product of hypothecair krediet betrekking heeft, wordt de afsluitprovisie of provisie evenredig verminderd.   
-2.  Het eerste lid is niet van toepassing op overeenkomsten inzake complexe producten voor zover tussen de desbetreffende aanbieder en de consument door tussenkomst van dezelfde bemiddelaar ten minste drie maanden voorafgaand aan het sluiten daarvan een overeenkomst is gesloten inzake een financieel product dat onderdeel is van het desbetreffende complexe product.   
 
 ### Afdeling  11.2  
 
@@ -4229,29 +4466,10 @@ Tot 1 oktober 2007 is artikel 6 niet van toepassing op financiëledienstverlene
 
 ### Artikel  171  
 
-1.  Een diploma is voor de toepassing van artikel 6, eerste lid, onderdeel a, en tweede lid, onderdeel a, geldig, indien het diploma: 
-
-a. tussen 1 januari 2000 en 1 oktober 2007 is behaald; en  
-
-b. wordt genoemd in de eerste kolom van bijlage K, en is afgegeven door een in de tweede kolom genoemde instelling, voor de eindtermen, bedoeld in de derde kolom van de tabel.     
-2.  Een diploma is voor de toepassing van artikel 6, eerste lid, onderdeel a, en tweede lid, onderdeel a, geldig, indien het diploma: 
-
-a. vóór 1 januari 2000 is behaald;  
-
-b. wordt genoemd in de eerste kolom van bijlage K, en is afgegeven door een in de tweede kolom genoemde instelling, voor de eindtermen, bedoeld in de derde kolom van de tabel; en  
-
-c. wordt gehouden door een persoon die in de periode van 1 januari 2000 tot 1 januari 2006 ten minste drie jaar relevante werkervaring heeft opgedaan.     
-3.  Indien het diploma, bedoeld in het eerste of tweede lid, een diploma betreft voor hypothecair krediet of levensverzekering, voldoet de houder van het diploma vanaf 1 oktober 2007 tevens op de door Onze Minister bij ministeriële regeling vast te stellen wijze aan de eindtermen, opgenomen in de onderdelen 2.5 tot en met 2.7 onderscheidenlijk 5.6 tot en met 5.8 van bijlage B.   
-4.  Onze Minister kan in aanvulling op het eerste en tweede lid bij ministeriële regeling een ander diploma aanwijzen als geldig diploma, bedoeld in artikel 6, eerste lid, onderdeel a, en tweede lid, onderdeel a. Indien een op grond van de vorige volzin aangewezen diploma is behaald voor 1 januari 2000 is het slechts geldig indien de houder van het diploma in de periode van 1 januari 2000 tot 1 januari 2006 ten minste drie jaar relevante werkervaring heeft opgedaan.   
-5.  De instellingen, genoemd in de tweede kolom van bijlage K beschikken van rechtswege over een erkenning als bedoeld in artikel 9 voor het afgeven van diploma’s genoemd in de eerste kolom. Onverminderd het eerste en tweede lid, is een diploma als genoemd in de eerste kolom van bijlage K dat wordt afgegeven na 1 januari 2006, slechts geldig voor de toepassing van 6, eerste lid, onderdeel a, en tweede lid, onderdeel a, indien de in de tweede kolom genoemde instelling op het moment van het afgeven van het diploma over een erkenning beschikt.   
-
-### Artikel  171a  
-
-1.  Een financiëledienstverlener die op 31 december 2011 voldeed aan het bepaalde ingevolge [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), ten aanzien van het verlenen van financiële diensten met betrekking tot levensverzekeringen, wordt geacht vanaf 1 januari 2012 tot en met 31 december 2013 te voldoen aan het bepaalde ingevolge artikel 4:9, tweede lid, van de wet ten aanzien van het verlenen van financiële diensten met betrekking tot pensioenverzekeringen, indien hij voldoet aan het derde en vierde lid.   
-2.  Een financiëledienstverlener die op 31 december 2011 financiële diensten verleent met betrekking tot premiepensioenvorderingen, wordt geacht vanaf 1 januari 2012 tot 1 januari 2014 te voldoen aan het bepaalde ingevolge artikel [4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) ten aanzien van het verlenen van financiële diensten met betrekking tot premiepensioenvorderingen, indien hij voldoet aan het derde en vierde lid.   
-3.  De financiëledienstverlener, bedoeld in het eerste of tweede lid, geeft voor 1 februari 2012 bij de Autoriteit Financiële Markten aan dat hij voornemens is zijn financiële dienstverlening met betrekking tot pensioenverzekeringen of premiepensioenvorderingen te continueren. Hij doet dit op de door de Autoriteit Financiële Markten voorgeschreven wijze.   
-4.  De financiëledienstverlener, bedoeld in het eerste en tweede lid, toont voor 1 juli 2012 op een door de Autoriteit Financiële Markten voorgeschreven wijze aan dat en op welke wijze hij zal voldoen aan het bepaalde ingevolge [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) ten aanzien van het verlenen van financiële diensten met betrekking tot pensioenverzekeringen of premiepensioenvorderingen.   
-5.  Het eerste tot en met vierde lid zijn van toepassing op de financiëledienstverlener totdat hij, op een door de Autoriteit Financiële Markten voorgeschreven wijze, heeft aangetoond te voldoen aan het bepaalde ingevolge [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), voor zover het betreft het verlenen van financiële diensten met betrekking tot pensioenverzekeringen of premiepensioenvorderingen.   
+1.  Een financiëledienstverlener die op 31 december 2013 over een vergunning beschikt en op die datum voldoet aan [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), hoeft tot en met 30 juni 2015 niet te voldoen aan artikel 4:9, tweede lid, van de wet.   
+2.  Een financiëledienstverlener die voor 1 juli 2014 een vergunning heeft aangevraagd voor het verlenen van financiële diensten, hoeft vanaf de datum dat de vergunning is aangevraagd tot en met 30 juni 2014 niet te voldoen aan [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+3.  Een financiëledienstverlener als bedoeld in het tweede lid die werknemers en andere natuurlijke personen als bedoeld in artikel 6, onderdeel b, in dienst heeft, hoeft voor die personen tot en met 30 juni 2015 niet te voldoen aan [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), voor zover die personen op 31 december 2013 een geldig diploma of geldige erkenning van beroepskwalificaties bezitten.   
+4.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de gelijkstelling van reeds bestaande diploma’s met diploma’s als bedoeld in de artikelen 7 en 8.   
 
 ### Artikel  172  
 
@@ -4269,13 +4487,7 @@ c. de consument adequaat schriftelijk informeren over de verschillen tussen de b
 
 ### Artikel  173a  
 
-1.  De artikelen 58 en 149a zijn uitsluitend van toepassing op overeenkomsten die zijn aangegaan op of na 1 januari 2009, met uitzondering van overeenkomsten inzake schadeverzekeringen.   
-2.  De artikelen 86b en 149a, voorzover van toepassing op overeenkomsten inzake schadeverzekeringen, zijn uitsluitend van toepassing op overeenkomsten die aangegaan zijn op of na 1 januari 2012.   
-
-### Artikel  174  
-
-1.  De artikelen 150 en 151 zijn uitsluitend van toepassing op overeenkomsten aangegaan na inwerkingtreding van dit besluit.   
-2.  In afwijking van artikel 150, eerste lid, betaalt een aanbieder aan een bemiddelaar ter zake van overeenkomsten die voor 1 januari 2008 zijn aangegaan geen afsluitprovisie die meer bedraagt dan tachtig procent van de som van die afsluitprovisie en de doorlopende provisie ter zake van de desbetreffende overeenkomst. Voor overeenkomsten die vanaf 1 januari 2008 tot en met 31 december 2009 en vanaf 1 januari 2010 tot 31 december 2010 worden aangegaan bedraagt het in de vorige volzin benoemde percentage zeventig onderscheidenlijk zestig.   
+Artikel 32 is niet van toepassing op financiële producten ter zake waarvan na 31 december 2012 geen nieuwe overeenkomsten worden aangegaan met een consument of, indien het een verzekering betreft, een cliënt.  
 
 ### Artikel  175  
 
@@ -4329,781 +4541,39 @@ II.  *Aanvullende hypothesen voor de berekening van het jaarlijks kostenpercenta
 
 a) indien de consument op grond van de overeenkomst inzake krediet vrij kan kiezen hoeveel krediet hij opneemt, wordt verondersteld dat het totale kredietbedrag onmiddellijk volledig wordt opgenomen;  
 
-b) indien een overeenkomst inzake krediet mogelijkheden van kredietopneming met verschillende kosten of debetrentevoeten biedt, wordt verondersteld dat het totale kredietbedrag tegen de hoogste kosten en debetrentevoet wordt opgenomen, toegepast op het meest gebruikelijke mechanisme voor kredietopneming waarvan in het kader van dat soort overeenkomst inzake krediet wordt gebruikgemaakt;  
+b) indien een overeenkomst inzake krediet de consument in het algemeen de vrijheid biedt om te kiezen hoeveel krediet hij opneemt, maar bij de verschillende wijzen van kredietopneming een beperking oplegt met betrekking tot het bedrag en de termijn, wordt verondersteld dat het kredietbedrag op de vroegste datum waarin de overeenkomst voorziet, overeenkomstig deze opnemingsbeperkingen wordt opgenomen;  
 
-c) indien een overeenkomst inzake krediet de consument in het algemeen de vrijheid biedt om te kiezen hoeveel krediet hij opneemt, maar bij de verschillende wijzen van kredietopneming een beperking oplegt met betrekking tot het bedrag en de termijn, wordt verondersteld dat het kredietbedrag op de vroegste datum waarin de overeenkomst voorziet overeenkomstig deze kredietopnemingsbeperkingen wordt opgenomen;  
+c) indien een overeenkomst inzake krediet mogelijkheden van kredietopneming met verschillende kosten of debetrentevoeten biedt, wordt verondersteld dat het totale kredietbedrag tegen de hoogste kosten en debetrentevoet wordt opgenomen, toegepast op het meest gebruikelijke mechanisme voor kredietopneming waarvan in het kader van dat soort overeenkomst inzake krediet wordt gebruikgemaakt;  
 
-d) indien er geen aflossingsschema is vastgesteld, wordt ervan uitgegaan: 
+d) in geval van een geoorloofde debetstand op een rekening wordt verondersteld dat het totale kredietbedrag volledig en voor de volledige duur van de overeenkomst inzake krediet wordt opgenomen. Indien de duur van de geoorloofde debetstand onbekend is, wordt bij de berekening van het jaarlijks kostenpercentage uitgegaan van de hypothese dat de duur van het krediet drie maanden bedraagt;  
 
-i) dat het krediet wordt verleend voor een periode van één jaar, en  
+e) in geval van een andere overeenkomst inzake krediet voor onbepaalde tijd dan een geoorloofde debetstand wordt geacht dat: 
 
-ii) dat het krediet in twaalf gelijke maandelijkse termijnen wordt afgelost;    
+i) het krediet vanaf de datum van de eerste kredietopneming voor een periode van één jaar wordt verstrekt en dat de laatste betaling door de consument het saldo van het kapitaal, de rente en de eventuele overige kosten dekt; en  
 
-e) indien er een aflossingsschema is vastgesteld, maar het bedrag van de aflossingen flexibel is, wordt verondersteld dat het bedrag van elke aflossing het laagste is waarin de overeenkomst voorziet;  
+ii) het kapitaal vanaf één maand na de datum van de eerste kredietopneming door de consument in gelijke maandelijkse termijnen wordt terugbetaald. In gevallen waarin het kapitaal binnen elke betalingstermijn uitsluitend volledig in één betaling moet worden terugbetaald, worden achtereenvolgende kredietopnemingen en terugbetalingen door de consument van het gehele kapitaal geacht over de periode van één jaar plaats te vinden. Rente en overige kosten worden overeenkomstig deze kredietopnemingen en terugbetalingen van kapitaal toegepast zoals in de overeenkomst inzake krediet vastgelegd.   In dit punt wordt onder een overeenkomst inzake krediet voor onbepaalde tijd een doorlopend krediet verstaan, met inbegrip van een krediet dat binnen of na een bepaalde periode volledig moet worden terugbetaald, maar vervolgens, na terugbetaling, weer beschikbaar is om te worden opgenomen.  
 
-f) indien in de overeenkomst inzake krediet verscheidene aflossingsdata worden vermeld, wordt het krediet, tenzij anders wordt bepaald, ter beschikking gesteld en worden de aflossingen op de eerste van deze data verricht;  
+f) in geval van andere overeenkomsten inzake krediet dan geoorloofde debetstanden en kredieten voor onbepaalde tijd zoals bedoeld in de hypothesen in de onderdelen d en e: 
 
-g) indien het plafond dat van toepassing is op het krediet nog niet is overeengekomen, wordt het geacht 1500 EUR te zijn;  
+i) indien de datum of het bedrag van een door de consument te verrichten terugbetaling van kapitaal niet kan worden vastgesteld, wordt de terugbetaling geacht te zijn verricht op de vroegste datum en met het laagste bedrag waarin de overeenkomst inzake krediet voorziet;  
 
-h) in geval van een geoorloofde debetstand op een rekening wordt verondersteld dat het totale kredietbedrag volledig en voor de volledige duur van de overeenkomst inzake krediet wordt opgenomen. Indien de duur van de overeenkomst inzake krediet onbekend is, wordt bij de berekening van het jaarlijkse kostenpercentage uitgegaan van de hypothese dat de duur van het krediet drie maanden bedraagt;  
+ii) indien de datum waarop de overeenkomst inzake krediet is gesloten, niet bekend is, wordt de datum van de eerste kredietopneming geacht de datum te zijn met de kortste tijdspanne tussen deze datum en de datum waarop de consument de eerste betaling moet verrichten.    
 
-i) indien voor een beperkte termijn of een beperkt bedrag verschillende rentevoeten en kosten worden aangeboden, worden de hoogste rentevoet en de hoogste kosten geacht de rentevoet en de kosten voor de gehele duur van de overeenkomst inzake krediet te zijn;  
+g) wanneer de datum of het bedrag van een door de consument te verrichten betaling op basis van de overeenkomst inzake krediet of op basis van de hypothesen in onderdeel d, e of f niet kan worden vastgesteld, wordt de betaling geacht te zijn verricht overeenkomstig de data en voorwaarden van de schuldeiser en, indien deze onbekend zijn: 
 
-j) met betrekking tot overeenkomsten inzake krediet waarvoor een vaste debetrentevoet voor de eerste periode is overeengekomen en waarvoor aan het eind van deze periode een nieuwe debetrentevoet wordt vastgesteld die vervolgens periodiek wordt aangepast volgens een overeengekomen indicator, wordt bij de berekening van het jaarlijkse kostenpercentage uitgegaan van de hypothese dat vanaf het eind van de periode met vaste debetrentevoet de debetrentevoet dezelfde is als op het ogenblik van de berekening van het jaarlijkse kostenpercentage, gebaseerd op de waarde van de overeengekomen indicator op dat moment.     
+i) wordt de rente samen met de terugbetalingen van kapitaal betaald;  
 
-### Bijlage  B  
+ii) worden in één bedrag uitgedrukte niet-rentekosten betaald op de datum waarop de overeenkomst inzake krediet wordt gesloten;  
 
-####behorend bij artikel 5 
+iii) worden in verschillende betalingen uitgedrukte niet-rentekosten in periodieke termijnen betaald, te beginnen op de datum van de eerste terugbetaling van kapitaal, en indien het bedrag van dergelijke betalingen onbekend is, worden deze geacht gelijke bedragen te zijn; en  
 
-### 1  
+iv) dekt de laatste betaling het saldo van het kapitaal, de rente en de eventuele overige kosten;    
 
-####Basismodule vakbekwaamheid
+h) indien het plafond dat op het krediet van toepassing is, nog niet is overeengekomen, wordt het geacht € 1500 te bedragen;  
 
-1.1. Voor de vaststelling van de vakbekwaamheid, bedoeld in [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), gelden de eindtermen genoemd in de onderdelen 1.2 tot en met 1.7. 1.2. De personen zijn in staat: 
+i) indien voor een beperkte termijn of een beperkt bedrag verschillende debetrentevoeten en kosten worden aangeboden, worden de hoogste rentevoet en de hoogste kosten geacht de debetrentevoet en de kosten voor de gehele duur van de overeenkomst inzake krediet te zijn;  
 
-a. de begrippen consument, cliënt, producent, sparen, ontsparen en lenen aan de hand van een eenvoudige economische kringloop uit te leggen;  
-
-b. eenvoudige financiële overzichten (opbrengsten/uitgaven en bezittingen/schulden) voor een consumentenhuishouding op te stellen;  
-
-c. eenvoudige financiële overzichten (opbrengsten/uitgaven en bezittingen/schulden) voor een consumentenhuishouding voor een moment in de toekomst, rekening houdend met het levensfasemodel op te stellen;  
-
-d. een eenvoudig vermogensplan voor een consument of cliënt op basis van de huidige en toekomstige financiële positie op te stellen;  
-
-e. aan te geven welke risico’s de consument of cliënt loopt ten aanzien van bezit, vermogen, inkomen en overlijden en welke maatregelen hiervoor getroffen moeten worden;  
-
-f. informatiebronnen die gericht zijn op de consument of cliënt te noemen;  
-
-g. uit te leggen waarom prudentieel toezicht en gedragstoezicht op de financiële markten nodig is om de consument of cliënt te beschermen en vertrouwen in de financiële sector te geven;  
-
-h. aan te geven welke klachtenregelingen en buitengerechtelijke geschillenbeslechtingregelingen voor de consument of cliënt van toepassing zijn;  
-
-i. de juridische positie van een consument of cliënt te inventariseren en omschrijven; en  
-
-j. de fiscale positie van een consument of cliënt te inventariseren en omschrijven.   1.3. De personen zijn in staat met betrekking tot het aanbieden van: 
-
-a. betaal- en spaarrekeningen met inbegrip van de daaraan verbonden betaal- en spaarfaciliteiten: 
-
-1°. de rol en de taken van de aanbieder in het chartale en girale betalingsverkeer te beschrijven; en  
-
-2°. de rol en de taken van de aanbieder bij het aantrekken van spaargeld te beschrijven;    
-
-b. krediet: 
-
-1°. de rol en de taken van de aanbieder bij het verstrekken van consumptief en hypothecair krediet te beschrijven;  
-
-2°. de advies- en bemiddelingstaken van de aanbieder van krediet te beschrijven; en  
-
-3°. aan te geven waar de aanbieder van krediet voor eigen rekening en risico opereert en welke risico’s de aanbieder van krediet daarbij loopt;    
-
-c. verzekeringen: 
-
-1°. de risico’s vast te stellen die de cliënt kan lopen;  
-
-2°. de rol en taken van de aanbieder te beschrijven met betrekking tot het afdekken van de financiële gevolgen van risico’s die de cliënt kan lopen;  
-
-3°. het principe van verzekeren uit te leggen;  
-
-4°. uit te leggen hoe de verzekeringsovereenkomst tot stand komt;  
-
-5°. de hoofdlijnen van het verzekeringsrecht te beschrijven;  
-
-6°. de structuur van de verzekeringssector uit te leggen; en  
-
-7°. uit te leggen wanneer de verzekeringsovereenkomst wordt beëindigd; en    
-
-d. effecten, de rechten van deelneming in beleggingsinstellingen en beleggingsobjecten: 
-
-1°. de rol van beleggingsinstellingen te beschrijven;  
-
-2°. de kenmerken van beleggingsmaatschappijen en beleggingsfondsen te noemen;  
-
-3°. vijf beleggingscategorieën te noemen en toe te lichten;  
-
-4°. te motiveren waarom beleggen in een beleggingsinstelling voor de consument geschikter kan zijn dan beleggen in afzonderlijke fondsen; en  
-
-5°. de kenmerken van giraal beleggen (beleggingsrekening) te benoemen en aan te geven welk verschil er is met beleggen via / in een beleggingsmaatschappij en een beleggingsfonds.     1.4. De personen zijn in staat met betrekking tot het bemiddelen in financiële producten: 
-
-a. het verschil tussen rechtstreekse verkoop door de aanbieder en verkoop via een onafhankelijk distributiekanaal uit te leggen;  
-
-b. de werkzaamheden die de bemiddelaar kan verrichten voor de consument of cliënt, te beschrijven;  
-
-c. de gebieden waarop bemiddelaars actief zijn voor producten van een bank, verzekeraar, pensioenfonds en institutionele beleggers te noemen;  
-
-d. de verschillende soorten bemiddelaars te omschrijven; en  
-
-e. de activiteiten van andere bemiddelaars te beschrijven.   1.5. De personen zijn in staat de schakels tussen uitgevende instellingen en eindbelegger in het kader van het verlenen van beleggingsdiensten te beschrijven. 1.6. De personen zijn in staat met betrekking tot het verlenen van financiële diensten inzake: 
-
-a. betaalrekeningen met inbegrip van de daaraan verbonden betaalfaciliteiten: 
-
-1°. te beschrijven hoe een betaalrekening geopend wordt en waarop in het bijzonder gelet moet worden;  
-
-2°. aan te geven hoe geld omgezet wordt in een andere vorm en waarop in het bijzonder gelet moet worden;  
-
-3°. producten voor toonbankbetaling en girale betalingen te beschrijven;  
-
-4°. toe te lichten op welke punten de koop op afstand afwijkt van koop in de directe aanwezigheid van de financiële onderneming; en  
-
-5°. uit te leggen wat een money transfer is en waarom het ministerie van Justitie dit product nauwlettend observeert;    
-
-b. krediet: 
-
-1°. uit te leggen wat een consumptief krediet is, in welke situaties het product geschikt is en welke factoren een rol spelen bij het verlenen van het krediet;  
-
-2°. uit te leggen wat een hypothecair krediet is, in welke situaties het geschikt is en welke factoren een rol spelen bij het verlenen van het krediet; en  
-
-3°. de belangrijkste hypotheekvormen en rentecondities te omschrijven;    
-
-c. spaarrekeningen met inbegrip van daaraan verbonden spaarfaciliteiten, financiële instrumenten en beleggingsobjecten: 
-
-1°. spaarproducten waarbij het tegoed direct opneembaar is te beschrijven;  
-
-2°. spaarproducten waarbij een looptijd wordt afgesproken te beschrijven; en  
-
-3°. de meest gangbare beleggingsobjecten te beschrijven; en    
-
-d. verzekeringen: 
-
-1°. de producten waarmee de risico’s kunnen worden verzekerd die betrekking hebben op het bezit te beschrijven;  
-
-2°. de producten waarmee de risico’s kunnen worden verzekerd die betrekking hebben op verkeer, aansprakelijkheid en rechtsbijstand, inkomen en arbeidsongeschiktheid te beschrijven; en  
-
-3°. de producten waarmee de risico’s kunnen worden verzekerd die betrekking hebben op het leven, de dood en de gezondheid en zorg te beschrijven.     1.7. De personen zijn in staat met betrekking tot: 
-
-a. de regulering van de financiële sector in algemene zin: 
-
-1°. de voorwaarden voor een rechtsgeldige financiële overeenkomst te noemen;  
-
-2°. toe te lichten waarom de overheid zorgplichten wettelijk regelt, welk type regels hierbij gebruikt worden en op wie deze van toepassing zijn;  
-
-3°. de inhoud van de verschillende type regels te schetsen;  
-
-4°. het werkgebied en de taken van de financiële toezichthouders te omschrijven; en  
-
-5°. het depositogarantiestelsel te omschrijven;    
-
-b. het [Deel Gedragtoezicht financiële ondernemingen van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md): 
-
-1°. de doelstelling en werkwijze weer te geven;  
-
-2°. de terminologie van toe te lichten;  
-
-3°. de reikwijdte aan te geven;  
-
-4°. uit te leggen waarom het [Deel Gedragstoezicht financiële ondernemingen](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) kiest voor consistente regels voor alle distributiekanalen en branches;  
-
-5°. de kwaliteitskenmerken van het distributiekanaal te noemen;  
-
-6°. aan te geven waar en waarom de het [Deel Gedragstoezicht financiële ondernemingen](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) ruimte laat voor zelfregulering;  
-
-7°. uit te leggen waarom een vergunningstelsel nodig is en hoe dit functioneert; en  
-
-8°. uit te leggen waar het [Deel Gedragstoezicht financiële ondernemingen](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) past in de internationale ontwikkelingen; en    
-
-c. het toezicht op gedragsaspecten: 
-
-1°. de eisen waaraan financiële ondernemingen moeten voldoen te noemen; en  
-
-2°. te beschrijven hoe en op welke punten de Autoriteit Financiële Markten toezicht uitoefent op financiële ondernemingen.      
-
-### 2  
-
-####Hypothecair krediet
-
-2.1. Voor de vaststelling van de vakbekwaamheid, bedoeld in [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gelden, met betrekking tot hypothecair krediet, de eindtermen genoemd in de onderdelen 2.2 tot en met 2.7. 2.2. De personen zijn in staat met betrekking tot hypothecair krediet: 
-
-a. ten behoeve van een juist en verantwoord advies de kredietbehoefte van de consument vast te stellen in termen van wensen en mogelijkheden, mede op basis van diens toekomstige situatie;  
-
-b. de benodigde informatie te verzamelen en te beschrijven zodat alle relevante aspecten mee kunnen worden genomen in het advies;  
-
-c. (globaal) de structuur en werking van de woning- en hypotheekmarkt te verduidelijken, inclusief de afweging kopen versus huren;  
-
-d. rekening te houden met de rol en functie van overige partijen die bij het koopproces van de woning betrokken kunnen zijn (makelaar, notaris), teneinde de consument hieromtrent duidelijkheid te kunnen verschaffen; en  
-
-e. provisie- en vergoedingsregels uit te leggen aan de consument en de cliëntovereenkomst correct toe te passen.   2.3. De personen zijn in staat met betrekking tot het bemiddelen in en adviseren over hypothecair krediet: 
-
-a. de consument te informeren over het juridisch kader van koop en eigendomsverkrijging met betrekking tot onroerende zaken en de regelgeving terzake correct toe te passen;  
-
-b. de wettelijke regels rondom de meest relevante zakelijke zekerheids- en genotsrechten toe te passen en de consument dienovereenkomstig te informeren en adviseren;  
-
-c. de wettelijke regels met betrekking tot de financiële dienst alsmede de voorschriften ingevolge zelfregulering toe te passen zodat voldaan wordt aan deze eisen;  
-
-d. de normen en voorwaarden van de Nationale Hypotheek Garantie in een concrete situatie correct toe te passen zodat de consument van deze mogelijkheid gebruik kan maken;  
-
-e. op basis van de beschikbare informatie te bepalen welke aflossingsconstructie aansluit op de gegeven situatie zodat de consument tot een gerichte keuze kan komen;  
-
-f. het beleggingsrisico bij de voor aflossing bestemde vermogensopbouw in kaart te brengen zodat een juiste afstemming op het cliëntenprofiel wordt bereikt;  
-
-g. het overlijdensrisico te vertalen in een correct advies over de aan het krediet gekoppelde overlijdensrisicoverzekering(en);  
-
-h. het aspect van kapitaalverzekering in de voor de aflossing bestemde vermogensopbouw en cliëntenprofiel in kaart te brengen en in een correct advies over het krediet te betrekken;  
-
-i. de betekenis van de relevante schadeverzekeringen (opstal, inboedel) aan de consument duidelijk te maken en deze eventueel in het hypotheekadvies meenemen;  
-
-j. de betekenis van het arbeidsongeschiktheidsrisico in het kader van de hypothecaire financiering uit te leggen en het risico te vertalen in een correct advies over de aan het krediet gekoppelde arbeidsongeschiktheidsverzekering;  
-
-k. de betekenis van de relevante kapitaalverzekeringen aan de consument duidelijk te maken en deze eventueel in het hypotheekadvies mee te nemen;  
-
-l. bijzondere hypotheekconstructies (overbrugging, depot, bankgarantie) aan de consument toe te lichten en in voorkomende gevallen toe te passen;  
-
-m. te bepalen welke (extra) zekerheden vereist zijn teneinde de gevolgen hiervan voor de consument duidelijk te maken;  
-
-n. de fiscale gevolgen van de aankoop van de (eigen) woning of ander bestedingsobject, alsmede van de hypothecaire financiering daarvan, te berekenen zodat de bruto en netto (woon)lasten kunnen worden vastgesteld;  
-
-o. het verloop van de bruto- en nettolasten in de tijd weer te geven zodat deze voor de consument inzichtelijk worden;  
-
-p. op hoofdlijnen de consument te informeren over de schenkings- en successierechtelijke gevolgen van de voorgenomen financiering;  
-
-q. de verschillende rentetypen toe te lichten en het rentetarief te verklaren;  
-
-r. een aanvraag vooraf te beoordelen zodat een inschatting terzake acceptatie kan worden gemaakt;  
-
-s. met de consument een aanvraagformulier voor een hypotheekofferte in te vullen, danwel een reeds ingevuld formulier te controleren;  
-
-t. de consument duidelijk te maken hoe het aanvraagproces verloopt;  
-
-u. de door de aanbieder uitgebrachte hypotheekofferte te interpreteren en de consument dienovereenkomstig te informeren zodat deze de juiste afweging kan maken bij het accepteren van de offerte; en  
-
-v. de hypotheekakte en andere relevante stukken te interpreteren en vragen van de consument hierover te beantwoorden.   2.4. De personen zijn in staat met betrekking tot het beheer en mutatie van de overeenkomst inzake hypothecair krediet: 
-
-a. in een situatie van extra aflossing, op basis van de beschikbare gegevens, de te betalen kredietvergoeding te berekenen;  
-
-b. op grond van signalen of periodieke revisie in te schatten of aanpassing van het krediet wenselijk is;  
-
-c. de belangrijkste begrippen uit het kredietbeheer te benoemen zodat in voorkomende gevallen de consument hierover kan worden geïnformeerd; en  
-
-d. de mogelijke consequenties van non-betaling te benoemen en de consument daarover te informeren.   2.5. De personen zijn in staat met betrekking tot financiële instrumenten: 
-
-a. uit te leggen aan de consument waarom het voor een goed beleggingsadvies belangrijk is een risicoprofiel te maken;  
-
-b. de voor het risicoprofiel benodigde informatie over de financiële positie, ervaring en doelstellingen van de consument te verzamelen, rekening te houden met de periodieke inkomsten, de financiële lasten, de kennis en ervaring, het huidige en het voormalige beroep en het bezit van onroerende zaken;  
-
-c. in actieve dialoog met de consument de risicotolerantie van de consument in kaart te brengen;  
-
-d. op basis van de verzamelde informatie vast te stellen welk risicoprofiel op dit moment past bij de consument en te onderbouwen waarom hij tot dit profiel gekomen is; en  
-
-e. vast te stellen welke vorm van dienstverlening past bij het profiel en de wensen van de consument en, indien van toepassing, door te verwijzen naar een ander type adviseur, en die financiële instrumenten te selecteren die passend zijn binnen hun competenties.   2.6. De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten: 
-
-a. overeenstemming te bereiken met de consument, inclusief ondertekening door de consument, over het risicoprofiel;  
-
-b. aan de consument uit te kunnen leggen wat wordt bedoeld met de risico- en rendementinformatie die wordt gegeven bij de strategische asset allocaties en wat dat voor hem betekent;  
-
-c. uit te kunnen leggen op welke veronderstellingen de strategische asset allocaties zijn gebaseerd en kanttekeningen te plaatsen bij de gehanteerde risico- en rendementinformatie;  
-
-d. in overleg met de consument vast te stellen welke strategische asset allocatie die de diverse aanbieders hanteren, past bij het gekozen risicoprofiel;  
-
-e. uit te kunnen leggen waarom de gemaakte keuze een momentopname is en waarom het belangrijk is periodiek deze keuze te heroverwegen;  
-
-f. uit te leggen op welke wijze spreiding in de portefeuille kan worden gerealiseerd;  
-
-g. de voor- en nadelen te beschrijven van een belegging in beleggingsinstellingen als onderdeel van modelportefeuilles;  
-
-h. uit te leggen wat de meest voorkomende vormen van beleggingsbeleid van beleggingsinstellingen inhouden en wat de kenmerken en risico’s van deze vormen zijn;  
-
-i. uit te leggen in welke objecten of financiële instrumenten beleggingsinstellingen beleggen, en wat de kenmerken en risico’s zijn van deze producten;  
-
-j. de informatie over de invloed van de economische omgeving op de beleggingsportefeuille die de aanbieder van de beleggingsinstellingen bij deze producten geeft, aan de consument uit te leggen en de actuele ontwikkelingen op de financiële markten te duiden voor de consument in relatie tot het daarbij horende risicoprofiel en de asset allocatie;  
-
-k. een concreet advies te geven over welke modelportefeuille (al dan niet in combinatie met andere producten) het beste aansluit bij het risicoprofiel en de wensen van de consument;  
-
-l. de kenmerken en risico’s van financiële producten uit te leggen, waaronder, doch niet uitsluitend, het risico dat de consument tijdens of aan het einde van de looptijd een bijstorting moet doen of een restschuld overhoudt;  
-
-m. financiële producten met elkaar te vergelijken en bepalen of deze producten geschikt zijn voor een specifieke consument; en  
-
-n. met betrekking tot de totstandkoming van transacties, integriteitdilemma’s tussen bedrijfsbelang en klantbelang te analyseren, af te wegen en deze afwegingen te verantwoorden.   2.7. De personen zijn in staat met betrekking tot het beheer en mutatie van de overeenkomst inzake financiële instrumenten: 
-
-a. alle vereiste gegevens op de juiste manier vast te leggen in het klantdossier zodat ten minste aan de regels van de externe toezichthouder is voldaan;  
-
-b. vast te stellen of bijsturing van de portefeuille nodig is, gegeven het eerder vastgestelde risicoprofiel;  
-
-c. tijdens mutatiemomenten of door verstrekte informatie van de consument te signaleren of een wijziging in de persoonlijke financiële situatie een wijziging betekent in het risicoprofiel van de consument, waardoor de strategische asset allocatie bijgesteld zou kunnen worden en andere passende financiële instrumenten zouden kunnen worden geselecteerd; en  
-
-d. deze onder c bedoelde wijzigingen te vertalen in een concreet advies over aanpassing van de strategische asset allocatie.    
-
-### 3  
-
-####Consumptief krediet
-
-3.1. Voor de vaststelling van de vakbekwaamheid, bedoeld in [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), gelden met betrekking tot consumptief krediet de eindtermen genoemd in de onderdelen 3.2 tot en met 3.4. 3.2. De personen zijn in staat met betrekking tot consumptief krediet: 
-
-a. ten behoeve van een juist en verantwoord advies de kredietbehoefte van de consument vast te stellen in termen van wensen en mogelijkheden, mede op basis van diens toekomstige situatie;  
-
-b. te bepalen of voor het realiseren van het financieringsdoel alternatieve oplossingen mogelijk zijn; en  
-
-c. de benodigde informatie te verzamelen om alle relevante aspecten te kunnen meenemen in het advies.   3.3. De personen zijn in staat met betrekking tot het bemiddelen in en adviseren over consumptief krediet: 
-
-a. de wettelijke regels met betrekking tot de financiële dienst alsmede de voorschriften ingevolge zelfregulering toe te passen;  
-
-b. op basis van de beschikbare informatie te bepalen welke kredietvorm aansluit op de gegeven situatie;  
-
-c. te bepalen welke (extra) zekerheden vereist en de gevolgen hiervan voor de consument duidelijk maken;  
-
-d. de regels ten aanzien van beschikkingsbevoegdheid toe te passen;  
-
-e. invulling te geven aan de variabele looptijd en het termijnbedrag zodat de (maand)lasten bij de gevraagde kredietsom voor de consument inzichtelijk worden;  
-
-f. de fiscale gevolgen van het kredietvoorstel in te schatten zodat de bruto- en nettolasten op de juiste wijze kunnen worden berekend, ook in geval van een krediet bestemd voor de eigen woning;  
-
-g. de consument te informeren over de relevante krediettechnische aspecten;  
-
-h. het rentetarief en eventuele andere kosten te verklaren zodat de consument dit kan plaatsen ten opzichte van andere kredietproducten;  
-
-i. een aanvraag vooraf te beoordelen zodat een inschatting ter zake de acceptatie kan worden gemaakt;  
-
-j. met de consument een aanvraagformulier voor een consumptief krediet in te vullen, dan wel een reeds ingevuld formulier te controleren;  
-
-k. de consument duidelijk te maken hoe het aanvraagproces verloopt;  
-
-l. het resultaat van de kredietaanvraag naar de consument terug te koppelen waarbij inzicht wordt verschaft in de afwegingen die bij de beoordeling een rol hebben gespeeld;  
-
-m. de kredietovereenkomst en andere relevante stukken te interpreteren en vragen van de consument hierover te beantwoorden; en  
-
-n. de betekenis van het arbeidsongeschiktheidsrisico in het kader van de kredietovereenkomst uit te leggen en het risico te vertalen in een correct advies over de aan het krediet gekoppelde arbeidsongeschiktheidsverzekering.   3.4. De personen zijn in staat met betrekking tot het beheer en mutatie van de overeenkomst inzake consumptief krediet: 
-
-a. op grond van signalen of periodieke revisie in te schatten of aanpassing van het krediet wenselijk is zodat de verstrekking ook op langere termijn passend is;  
-
-b. de belangrijkste begrippen uit het kredietbeheer toe te lichten zodat in voorkomende gevallen de consument hierover kan worden geïnformeerd;  
-
-c. in een situatie van extra aflossing op basis van de beschikbare gegevens de renterestitutie en administratiekosten voor de consument te berekenen;  
-
-d. de consument duidelijk te maken hoe en wanneer vertragingsrente in rekening wordt gebracht; en  
-
-e. de consument te informeren over de mogelijke consequenties van non-betaling.    
-
-### 4  
-
-####Schadeverzekeringen
-
-4.1. Voor de vaststelling van de vakbekwaamheid, bedoeld in [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gelden met betrekking tot schadeverzekeringen de eindtermen genoemd in de onderdelen 4.2 tot en met 4.5. 4.2. De personen zijn in staat met betrekking tot schadeverzekeringen inzake bezit, verkeer, transport, aansprakelijkheid en rechtsbijstand, inkomen en arbeidsongeschiktheid en gezondheid en zorg, hierna te noemen: «de schadeverzekeringen»: 
-
-a. de behoefte en risico’s te inventariseren en interpreteren ten behoeve van de advisering van de cliënt;  
-
-b. de preventiemaatregelen te inventariseren en interpreteren ten behoeve van de advisering van de cliënt;  
-
-c. de mogelijke preventiemaatregelen te verduidelijken, ten behoeve van de advisering van de cliënt;  
-
-d. de meest geschikte verzekeringsvoorwaarden te selecteren ten behoeve van de advisering van de cliënt; en  
-
-e. de geselecteerde verzekeringsvoorwaarden te vergelijken ten behoeve van de advisering van de cliënt.   4.3. De personen zijn in staat, met betrekking tot het bemiddelen in en adviseren over de schadeverzekeringen: 
-
-a. de mogelijke risico’s en verzekeringsvormen te verduidelijken;  
-
-b. de premie te berekenen met behulp van de beschikbare informatie;  
-
-c. met de cliënt op correcte wijze een aanvraagformulier in te vullen;  
-
-d. een ingevuld aanvraagformulier op juistheid te controleren; en  
-
-e. op correcte wijze een aanvraag te verzenden.   4.4. De personen zijn in staat, met betrekking tot beheer en mutatie van de overeenkomst inzake de schadeverzekeringen: 
-
-a. de cliënt tijdig te informeren over de acceptatiebeslissing en deze, en overige informatie vast te leggen;  
-
-b. de polisdocumenten en overige informatie op juistheid te controleren, te verzenden aan de cliënt en vast te leggen;  
-
-c. het advies te wijzigen, om aan te sluiten bij de gewijzigde persoonlijke situatie van de cliënt; en  
-
-d. de gewenste wijzigingen op een bestaande schadeverzekering te verzenden aan de verzekeraar en deze na acceptatie en ontvangst op juistheid te controleren en vast te leggen.   4.5. De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering: 
-
-a. de cliënt te adviseren en diens belangen te bewaken in de contacten met de verzekeraar;  
-
-b. de cliënt te informeren over de mogelijke aanspraak op vergoeding en de benodigde gegevens te verwerken om;  
-
-c. eventueel een onafhankelijke deskundige in te schakelen;  
-
-d. eventuele gedekte en niet-gedekte aanspraken te verduidelijken aan de cliënt;  
-
-e. met de cliënt op correcte wijze een meldingsformulier in te vullen;  
-
-f. een ingevuld meldingsformulier op juistheid te controleren; en  
-
-g. op correcte wijze het meldingsformulier en overige informatie te verzenden aan de verzekeraar.   4.6. De personen beschikken over een grondige kennis van het algemene verzekeringsrecht en zijn in staat om deze kennis toe te passen bij schadeverzekeringen.  
-
-### 5  
-
-####Levensverzekeringen
-
-5.1. Voor de vaststelling van de vakbekwaamheid, bedoeld in [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gelden met betrekking tot levensverzekeringen de eindtermen genoemd in de onderdelen 5.2 tot en met 5.8. 5.2. De personen zijn in staat: 
-
-a. de behoefte, risico’s en (toekomstige) aanspraken op het gebied van levensverzekeringen te inventariseren en interpreteren;  
-
-b. de (toekomstige) financiële positie van de cliënt te inventariseren;  
-
-c. alternatieve oplossingen te inventariseren voor het realiseren van de zekerheidsbehoefte;  
-
-d. de meest geschikte verzekeringsvoorwaarden te selecteren en te vergelijken; en  
-
-e. provisie- en vergoedingsregels uit te leggen aan de consument en de cliëntovereenkomst correct toe te passen.   5.3. De personen zijn in staat met betrekking tot bemiddelen in en adviseren over levensverzekeringen: 
-
-a. een (aanvullende) levensverzekering te adviseren, om te komen tot een gerichte keuze en aanvraag;  
-
-b. de mogelijke vormen en wettelijke (fiscale) gevolgen te verduidelijken, ten behoeve van de advisering van de cliënt;  
-
-c. de mogelijke voorwaarden en risico’s van deze verzekeringen te verduidelijken  
-
-d. de mogelijkheden op een (aanvullende) levensverzekeringen te verduidelijken bij een minder goede gezondheid;  
-
-e. de premie of koopsom voor een (aanvullende) verzekering te berekenen en te verduidelijken met behulp van de beschikbare informatie;  
-
-f. met de cliënt op correcte wijze een aanvraagformulier inclusief overige bescheiden voor een (aanvullende) verzekering in te vullen;  
-
-g. een ingevuld aanvraagformulier inclusief overige bescheiden op juistheid te controleren;  
-
-h. op correcte wijze een aanvraag inclusief overige bescheiden te verzenden;  
-
-i. de cliënt te informeren over de mogelijkheid dat een aanvraag voor een (aanvullende) verzekering niet (zonder beperkingen) zal worden geaccepteerd; en  
-
-j. de betekenis van het arbeidsongeschiktheidsrisico uit te leggen en het risico te vertalen in een correct advies over de aan levensverzekering gekoppelde arbeidsongeschiktheidsverzekering.   5.4. De personen zijn in staat met betrekking beheer en mutatie van de overeenkomst inzake levensverzekeringen: 
-
-a. de cliënt tijdig te informeren over de acceptatiebeslissing voor een (aanvullende) levensverzekering en deze en overige informatie te vast te leggen;  
-
-b. de polisdocumenten en overige informatie op juistheid te controleren, te verzenden aan de cliënt, en te vast te leggen;  
-
-c. het advies voor een bestaande (aanvullende) verzekering te wijzigen, om aan te sluiten bij de gewijzigde persoonlijke situatie van de cliënt en te komen tot een aanpassing van de verzekering;  
-
-d. de consument te informeren over wijzigingen, wijzigingsmogelijkheden en hun gevolgen voor een bestaande verzekering; en  
-
-e. de gewenste wijzigingen van een bestaande (aanvullende) verzekering te verzenden aan de verzekeraar en na acceptatie en ontvangst te controleren en vast te leggen.   5.5. De personen zijn in staat bij een mogelijke aanspraak/vordering op een bestaande (aanvullende) levensverzekering: 
-
-a. de cliënt te adviseren en diens belangen te bewaken in de contacten met de verzekeraar;  
-
-b. de cliënt te informeren over de mogelijke aanspraak op vergoeding en de benodigde gegevens te verwerken;  
-
-c. eventueel een onafhankelijke deskundige in te schakelen;  
-
-d. de gevolgen van niet-premiebetaling en eventuele niet-toegestane aanspraken te verduidelijken aan de cliënt;  
-
-e. met de cliënt op correcte wijze een meldingsformulier in te vullen;  
-
-f. een ingevuld meldingsformulier op juistheid te controleren; en  
-
-g. op correcte wijze het meldingsformulier en overige informatie te verzenden.   5.6. De personen zijn in staat met betrekking tot financiële instrumenten: 
-
-a. uit te leggen aan de consument waarom het voor een goed beleggingsadvies belangrijk is een risicoprofiel te maken;  
-
-b. de voor het risicoprofiel benodigde informatie over de financiële positie, ervaring en doelstellingen van de consument te verzamelen, rekening te houden met de periodieke inkomsten, de financiële lasten, de kennis en ervaring, het huidige en het voormalige beroep en het bezit van onroerende zaken;  
-
-c. in actieve dialoog met de consument de risicotolerantie van de consument in kaart te brengen;  
-
-d. op basis van de verzamelde informatie vast te stellen welk risicoprofiel op dit moment past bij de consument en te onderbouwen waarom hij tot dit profiel gekomen is; en  
-
-e. vast te stellen welke vorm van dienstverlening past bij het profiel en de wensen van de consument en, indien van toepassing, door te verwijzen naar een ander type adviseur, en die financiële instrumenten te selecteren die passend zijn binnen hun competenties.   5.7. De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten: 
-
-a. overeenstemming te bereiken met de consument, inclusief ondertekening door de consument, over het risicoprofiel;  
-
-b. aan de consument uit te kunnen leggen wat wordt bedoeld met de risico- en rendementinformatie die wordt gegeven bij de strategische asset allocaties en wat dat voor hem betekent;  
-
-c. uit te kunnen leggen op welke veronderstellingen de strategische asset allocaties zijn gebaseerd en kanttekeningen te plaatsen bij de gehanteerde risico- en rendementinformatie;  
-
-d. in overleg met de consument vast te stellen welke strategische asset allocatie die de diverse aanbieders hanteren, past bij het gekozen risicoprofiel;  
-
-e. uit te kunnen leggen waarom de gemaakte keuze een momentopname is en waarom het belangrijk is periodiek deze keuze te heroverwegen;  
-
-f. uit te leggen op welke wijze spreiding in de portefeuille kan worden gerealiseerd;  
-
-g. de voor- en nadelen te beschrijven van een belegging in beleggingsinstellingen als onderdeel van modelportefeuilles;  
-
-h. uit te leggen wat de meest voorkomende vormen van beleggingsbeleid van beleggingsinstellingen inhouden en wat de kenmerken en risico’s van deze vormen zijn;  
-
-i. uit te leggen in welke objecten of financiële instrumenten beleggingsinstellingen beleggen, en wat de kenmerken en risico’s zijn van deze producten;  
-
-j. de informatie over de invloed van de economische omgeving op de beleggingsportefeuille die de aanbieder van de beleggingsinstellingen bij deze producten geeft, aan de consument uit te leggen en de actuele ontwikkelingen op de financiële markten te duiden voor de consument in relatie tot het daarbij horende risicoprofiel en de asset allocatie;  
-
-k. een concreet advies te geven over welke modelportefeuille (al dan niet in combinatie met andere producten) het beste aansluit bij het risicoprofiel en de wensen van de consument;  
-
-l. de kenmerken en risico’s van financiële producten uit te leggen, waaronder, doch niet uitsluitend, het risico dat de consument tijdens of aan het einde van de looptijd een bijstorting moet doen of een restschuld overhoudt;  
-
-m. financiële producten met elkaar te vergelijken en bepalen of deze producten geschikt zijn voor een specifieke consument; en  
-
-n. bij de totstandkoming van transacties, integriteitdilemma’s tussen bedrijfsbelang en klantbelang te analyseren, af te wegen en deze afwegingen te verantwoorden.   5.8. De personen zijn in staat met betrekking tot het beheer en mutatie van de overeenkomst inzake financiële instrumenten: 
-
-a. alle vereiste gegevens op de juiste manier vast te leggen in het klantdossier zodat ten minste aan de regels van de externe toezichthouder is voldaan;  
-
-b. vast te stellen of bijsturing van de portefeuille nodig is, gegeven het eerder vastgestelde risicoprofiel;  
-
-c. tijdens mutatiemomenten of door verstrekte informatie van de consument te signaleren of een wijziging in de persoonlijke financiële situatie een wijziging betekent in het risicoprofiel van de consument, waardoor de strategische asset allocatie bijgesteld zou kunnen worden en andere passende financiële instrumenten zouden kunnen worden geselecteerd;  
-
-d. deze onder c bedoelde wijzigingen te vertalen in een concreet advies over aanpassing van de strategische asset allocatie.    
-
-### 6  
-
-####Volmacht
-
-6.1.1. Voor de vaststelling van de vakbekwaamheid, bedoeld in [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), gelden voor de personen, werkzaam bij een gevolmachtigde agent inzake schadeverzekeringen de eindtermen genoemd in 6.2 tot en met 6.5 en 6.7 tot en met 6.9. 6.1.2. Voor de vaststelling van de vakbekwaamheid, bedoeld in [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), gelden voor de personen, werkzaam bij een gevolmachtigde agent inzake levensverzekeringen de eindtermen genoemd in 6.2, 6.6 en 6.7 tot en met 6.9. 6.2. De personen beschikken over: 
-
-a. grondige kennis van het algemene verzekeringsrecht en de toepassing daarvan;  
-
-b. grondige kennis van algemene verzekeringstechniek en algemene polisbepalingen en de toepassing daarvan;  
-
-c. kennis van het stelsel van sociale zekerheid;  
-
-d. kennis van het algemeen burgerlijk recht en de wijze waarop een civiele procedure en een strafproces verlopen;  
-
-e. kennis van het verbintenissenrecht;  
-
-f. globale kennis van de belastingwetgeving;  
-
-g. globale kennis van herverzekering en reserveren;  
-
-h. globale kennis van preventiemaatregelen;  
-
-i. grondige kennis van de bedrijfsorganisaties, de belangenverenigingen en de samenwerkingsverbanden;  
-
-j. kennis van het wettelijk toezicht en eventuele zelfregulering;  
-
-k. kennis van de rechtspositie van de bemiddelaar; en  
-
-l. kennis van gedragsregels voor verzekeraars en bemiddelaars.   6.3. De personen beschikken met betrekking tot brandverzekeringen over: 
-
-a. globale kennis van de brandverzekeringsmarkt;  
-
-b. grondige kennis van de verschillende vormen van brandverzekering en de toepassing daarvan;  
-
-c. grondige kennis van de uitgebreide gevarenverzekeringen en de toepassing daarvan;  
-
-d. kennis van risicofactoren en preventiemaatregelen;  
-
-e. kennis van de belangrijkste tariefovereenkomsten en calculatiemodellen; en  
-
-f. kennis van de wijze van schaderegeling.   6.4. De personen beschikken met betrekking tot transportverzekeringen over: 
-
-a. kennis van leverings- en vervoerscondities;  
-
-b. globale kennis van het vervoersrecht;  
-
-c. grondige kennis van de verschillende vormen van goederentransportverzekering en de toepassing daarvan;  
-
-d. grondige kennis van de verzekering van landmateriaal;  
-
-e. globale kennis van transportverzekeringen op andere dan Nederlandse condities;  
-
-f. grondige kennis van de pleziervaartuigverzekering; en  
-
-g. kennis van de wijze van schaderegeling.   6.5. De personen beschikken met betrekking tot variaverzekeringen over: 
-
-a. kennis van de sociale verzekeringen voor zover relevant voor de particuliere medische variaverzekering;  
-
-b. grondige kennis van de ziektekosten-, de ongevallen- en de arbeidsongeschiktheidsverzekering en de toepassing daarvan;  
-
-c. grondige kennis van het aansprakelijkheidsrecht en wettelijke verplichtingen voor aansprakelijkheidsverzekeringen;  
-
-d. grondige kennis van de aansprakelijkheidsverzekering voor particulieren en bedrijven en de toepassing daarvan;  
-
-e. kennis van andere algemene aansprakelijkheidsverzekeringen;  
-
-f. grondige kennis van motorrijtuigverzekeringen en de toepassing daarvan;  
-
-g. kennis van andere vormen van variaverzekering; en  
-
-h. kennis van de wijze van schaderegeling.   6.6. De personen beschikken met betrekking tot levensverzekeringen over: 
-
-a. kennis van de sociale verzekeringen voorzover relevant voor de levensverzekering;  
-
-b. kennis van de grondslagen en begrippen bij levensverzekering;  
-
-c. grondige kennis van de belangrijkste vormen van levensverzekering en de toepassing daarvan;  
-
-d. grondige kennis van de uit een levensverzekeringsovereenkomst voortvloeiende rechten;  
-
-e. kennis van de belastingwetgeving voorzover relevant voor de levensverzekering;  
-
-f. kennis van de wet en regelgeving ten aanzien van pensioenen;  
-
-g. kennis van het huwelijksvermogensrecht, het erfrecht en het faillissementsrecht voorzover relevant voor de levensverzekering;  
-
-h. de kennis om, bij combinatie met financiële instrumenten, uit te leggen aan de consument waarom het voor een goed beleggingsadvies belangrijk is een risicoprofiel te maken;  
-
-i. de kennis om, bij combinatie met financiële instrumenten, de voor het risicoprofiel benodigde informatie over de financiële positie, ervaring en doelstellingen van de consument te verzamelen, rekening te houden met de periodieke inkomsten, de financiële lasten, de kennis en de ervaring, het huidige en het voormalige beroep en het bezit van onroerende zaken;  
-
-j. de kennis om, bij combinatie met financiële instrumenten, in actieve dialoog met de consument, de risicotolerantie van de consument in kaart te brengen;  
-
-k. de kennis om, bij combinatie met financiële instrumenten, op basis van de verzamelde informatie vast te stellen welk risicoprofiel op dit moment past bij de consument en te onderbouwen waarom hij tot dit profiel is gekomen;  
-
-l. de kennis om, bij combinatie met financiële instrumenten, vast te stellen welke vorm van dienstverlening past bij het profiel en de wensen van de consument en, indien van toepassing, door te verwijzen naar een ander type adviseur en die financiële instrumenten te selecteren, die passen binnen hun competenties;  
-
-m. de kennis om, bij de totstandkoming van transacties in financiële instrumenten, overeenstemming te bereiken met de consument, inclusief ondertekening door de consument, over het risicoprofiel;  
-
-n. de kennis om, bij de totstandkoming van transacties in financiële instrumenten, aan de consument uit te kunnen leggen wat wordt bedoeld met risico- en rendementinformatie die wordt gegeven bij de strategische asset allocaties en wat dat voor hem betekent;  
-
-o. de kennis om, bij de totstandkoming van transacties in financiële instrumenten, uit te kunnen leggen op welke veronderstellingen de strategische asset allocaties zijn gebaseerd en kanttekeningen te plaatsen bij de gehanteerde risico- en rendementinformatie;  
-
-p. de kennis om, bij de totstandkoming van transacties in financiële instrumenten, in overleg met de consument vast te stellen welke strategische asset allocatie die de diverse aanbieders hanteren, past bij het gekozen risicoprofiel;  
-
-q. de kennis om, bij de totstandkoming van transacties in financiële instrumenten, uit te leggen waarom de gemaakte keuze een momentopname is en waarom het belangrijk is periodiek deze keuze te heroverwegen;  
-
-r. de kennis om, bij de totstandkoming van transacties in financiële instrumenten, uit te leggen op welke wijze spreiding in de portefeuille kan worden gerealiseerd;  
-
-s. de kennis om, bij de totstandkoming van transacties in financiële instrumenten, de voor- en nadelen te beschrijven van een belegging in beleggingsinstellingen als onderdeel van de modelportefeuille;  
-
-t. de kennis om, bij de totstandkoming van transacties van financiële instrumenten, uit te leggen wat de meest voorkomende vormen van beleggingsbeleid van beleggingsinstellingen inhouden en wat de kenmerken en de risico’s van deze vormen zijn;  
-
-u. de kennis om, bij de totstandkoming van transacties in financiële instrumenten, uit te leggen in welke objecten of financiële instrumenten beleggingsinstellingen beleggen, en wat de kenmerken en risico’s zijn van deze producten;  
-
-v. de kennis om, bij de totstandkoming van transacties in financiële instrumenten, de informatie over de invloed van de economische omgeving op de beleggingsportefeuille die de beleggingsinstellingen bij deze producten geven, aan de consument uit te leggen en de actuele ontwikkelingen op de financiële markten te duiden voor de consument in relatie tot het daarbij horende risicoprofiel en asset allocatie;  
-
-w. de kennis om, bij de totstandkoming van transacties in financiële instrumenten, een concreet advies te geven over welke modelportefeuille, al dan niet in combinatie met andere financiële producten, het beste aansluit bij het risicoprofiel en de wensen van de consument;  
-
-x. de kennis om, bij de totstandkoming van transacties in financiële instrumenten, de kenmerken en risico’s van financiële producten uit te leggen, waaronder, doch niet uitsluitend, het risico dat de consument tijdens of aan het einde van de looptijd een bijstorting moet doen of een restschuld overhoudt;  
-
-y. de kennis om, bij de totstandkoming van transacties in financiële instrumenten, financiële producten met elkaar te vergelijken en te bepalen of deze producten geschikt zijn voor een specifieke consument;  
-
-z. de kennis om, bij de totstandkoming van transacties in financiële instrumenten, integriteitsdilemma’s tussen bedrijfsbelang en klantbelang te analyseren, af te wegen en deze afwegingen te verantwoorden;  
-
-aa. de kennis om, bij het beheer en de mutatie van de overeenkomst inzake financiële instrumenten, alle vereiste gegevens op de juiste manier vast te leggen in het klantdossier zodat ten minste aan de regels van de externe toezichthouder is voldaan;  
-
-bb. de kennis om, bij het beheer en de mutatie van de overeenkomsten inzake financiële instrumenten, vast te stellen of bijsturen van de portefeuille nodig is, gegeven het eerder vastgestelde risicoprofiel;  
-
-cc. de kennis om, bij het beheer en de mutatie van de overeenkomst inzake financiële instrumenten, tijdens mutatiemomenten of door verstrekte informatie van de consument te signaleren of wijziging in de persoonlijke financiële situatie een wijziging betekent in het risicoprofiel van de consument, waardoor de strategische asset allocatie bijgesteld zou kunnen worden en andere passende financiële instrumenten kunnen worden geselecteerd; en  
-
-dd. de kennis om, bij het beheer en de mutatie van de overeenkomst inzake financiële instrumenten, de onder cc bedoelde wijzigingen te vertalen in een concreet advies over aanpassing van de strategische asset allocatie.   6.7. De personen beschikken over: 
-
-a. grondige kennis van de structuur van het verzekeringsbedrijf en de bedrijfskolom;  
-
-b. grondige kennis van de verschillende organisaties en samenwerkingsvormen in het provinciale bedrijf en het beursbedrijf;  
-
-c. globale kennis van de interne organisatie van het bedrijf van de verzekeraar;  
-
-d. globale kennis van het financiële beheer en de opbouw en betekenis van de jaarrekening; en  
-
-e. kennis van de verschillende rechtsvormen en de belangrijkste juridische en fiscale consequenties daarvan.   6.8. De personen beschikken met betrekking tot verzekeringstechniek over: 
-
-a. grondige kennis van algemene aspecten van risicobeoordeling en acceptatietechniek bij schade- en levensverzekering;  
-
-b. grondige kennis van het redigeren van polisvoorwaarden en clausules en het kunnen toepassen daarvan;  
-
-c. grondige kennis van algemene aspecten van schaderegeling en van de regeling van uitkeringen bij levensverzekering en het kunnen toepassing daarvan;  
-
-d. kennis van de verschillende vormen van reserves en de wijze waarop deze moeten worden berekend;  
-
-e. grondige kennis van de verschillende soorten herverzekering; en  
-
-f. grondige kennis van de gedragsregels die gelden voor verzekeraars en het kunnen toepassen daarvan.   6.9. De personen beschikken over: 
-
-a. kennis van de wet in het algemeen en grondige kennis van die bepalingen gericht op de gevolmachtigde agent;  
-
-b. kennis van de juridische positie van de gevolmachtigde agent en de vertegenwoordiger volgens het Burgerlijk Wetboek;  
-
-c. kennis van de toezichtwetgeving op het verzekeringsbedrijf; en  
-
-d. globale kennis van andere nationale en Europese wetgeving voorzover deze gevolgen voor de verzekering of de verkoop daarvan heeft.    
-
-### 7  
-
-####Pensioenverzekeringen en premiepensioenvorderingen
-
-7.1. De personen baseren hun advisering met betrekking tot pensioenverzekeringen en premiepensioenvorderingen op: 
-
-a. grondige en actuele kennis met betrekking tot relevante wetgeving inzake pensioen en de directeur-grootaandeelhouder-pensioentoezegging, voor zover deze niet in eigen beheer wordt opgebouwd;  
-
-b. toegepaste begrippen en procedures inzake actuarieel rekenen;  
-
-c. toegepaste juridische kennis met betrekking tot rechtspersonen en ondernemingsstructuren;  
-
-d. grondige en actuele kennis met betrekking tot pensioenverzekeringen als onderdeel van het pakket arbeidsvoorwaarden van een werkgever;  
-
-e. toegepaste kennis met betrekking tot de relevante bedrijfseconomische vraagstukken (zoals groei, stabilisatie en krimp) en financiële verslaglegging van een onderneming;  
-
-f. toegepaste risicoanalyse van de financiële draagkracht van de desbetreffende werkgever;  
-
-g. toegepaste kennis met betrekking tot de wijze van investeren of beleggen van vermogen; en  
-
-h. kennis met betrekking tot de basisprincipes, hoofdlijnen en actuele ontwikkelingen van risicomanagement.   7.2. De personen zijn in staat om: 
-
-a. gesprekken te voeren in de volgende categorieën: gestructureerd interview, slecht nieuws- en adviesgesprek;  
-
-b. ICT-toepassingen, waaronder rekenmodellen, bij de advisering te gebruiken;  
-
-c. mondeling correct en begrijpelijk te communiceren op verschillende persoonlijke en organisatorische niveaus binnen de onderneming van de werkgever, waaronder haar directie, controllers, accountants, vertegenwoordigende overlegorganen en individuele werknemers;  
-
-d. schriftelijk correct en begrijpelijk te communiceren op verschillende persoonlijke en organisatorische niveaus binnen de onderneming van de werkgever, waaronder haar directie, controllers, accountants, vertegenwoordigende overlegorganen en individuele werknemers;  
-
-e. adviestrajecten te plannen, te sturen en tot een succes te brengen, waaronder wordt verstaan: 
-
-1°. het kwalitatief en kwantitatief vergelijken van offertes en lopende pensioenverzekeringen en premiepensioenvorderingen en het verklaren van verschillen hiertussen;  
-
-2°. het beoordelen van en adviseren over collectieve waardeoverdracht;  
-
-3°. het adviseren over winstdelingssystemen;  
-
-4°. het adviseren over excedentregelingen, ook als aanvulling op ondernemingspensioenfondsen en bedrijfstakpensioenfondsen in combinatie met verzekerde regelingen;  
-
-5°. het berekenen van lasten en aanspraken;  
-
-6°. het beheren van een lopend pensioencontract;  
-
-7°. het uitleggen van een individuele waardeoverdracht;  
-
-8°. het vertalen van alle over de werkgever ingewonnen informatie naar een passende pensioenverzekering en premiepensioenvordering;  
-
-9°. het geven van een passend advies aan een directeur-grootaandeelhouder over zijn pensioenverzekering en premiepensioenvordering;  
-
-10°. het interpreteren van effecten van toeslagmodellen;  
-
-11°. het vermogen om relevante wetgeving praktisch te kunnen toepassen;  
-
-12°. het begeleiden van contractverlenging, contractwijziging of contractbeëindiging van een pensioenverzekering en premiepensioenvordering; en  
-
-13°. het controleren van relevante documenten;    
-
-f. het risicomanagement met betrekking tot een pensioenverzekering en premiepensioenvordering in een aantal fasen op procesmatige wijze te plannen, uit te voeren en te beheren en daarbij op hoofdlijnen gebruik te maken van een risicomodel waarmee een risicoprofiel van een organisatie kan worden aangegeven;  
-
-g. mondeling op heldere wijze uitleg te geven over de doelstellingen en resultaten van een organisatie, welke risico’s vanuit de situatie van de pensioenverzekering en premiepensioenvordering een bedreiging voor de onderneming van de werkgever vormen of een kans bieden en op welke wijze deze risico’s op adequate wijze kunnen worden beheerd zodat de risico’s tot een voor de organisatie acceptabel risiconiveau kunnen worden ingevuld; en  
-
-h. met het oog op de pensioenverzekering en premiepensioenvordering de risicobereidheid en het risicoprofiel van de onderneming op heldere wijze in kaart te brengen en vast te leggen.   7.3. De personen demonstreren en bewijzen dat zij: 
-
-a. het adviestraject met betrekking tot pensioenregelingen voor werkgevers met ondernemingen van diverse omvang en complexiteit ten behoeve van diens werknemers zelfstandig, succesvol en correct uit kunnen voeren. In dit adviestraject kunnen zich in ieder geval de volgende zaken voordoen met betrekking tot natuurlijke of rechtspersonen: 
-
-1°. start en einde dienstbetrekking;  
-
-2°. overlijden;  
-
-3°. arbeidsongeschiktheid;  
-
-4°. echtscheiding of ontbinding van partnerregelingen;  
-
-5°. pensioendatum;  
-
-6°. verwachtingen ten aanzien van het pensioen;  
-
-7°. verlenging, wijziging, beëindiging of revisie van een pensioencontract;  
-
-8°. collectieve waardeoverdracht;  
-
-9°. prognosticeren van toekomstige pensioenlasten;  
-
-10°. versobering of uitbreiding van de pensioenregeling; en  
-
-11°. faillissement of mogelijkheid daartoe;    
-
-b. de directeur-grootaandeelhouder met betrekking tot zijn eigen pensioenverzekeringen en premiepensioenvorderingen zelfstandig, correct en passend kunnen adviseren in ten minste de volgende situaties: overlijden, arbeidsongeschiktheid, echtscheiding of ontbinding partnerregeling, pensioendatum, pensioenverwachtingen, faillissement of mogelijkheid daartoe;en  
-
-c. de directeur-grootaandeelhouder kunnen adviseren over de verschillend emogelijkheden om het voor hem benodigde pensioenkapitaal bijeen te brengen alsmede duidelijkheid kunnen verschaffen over het verschil tussen de reële en de fiscale waardering van de pensioenverplichting.   7.4. De personen zijn in staat: 
-
-a. te beschrijven welke invloed de verrichtingen van een financiële onderneming of financiëledienstverlener hebben op het maatschappelijk belang en de samenleving alsmede welke gevolgen deze hebben voor de reputatie van de financiële sector;  
-
-b. het verschil tussen zelfregulering en overheidsregulering uit te leggen en te benoemen en te omschrijven welke toezichthouders, instanties en middelen in de financiële sector moeten zorgen voor de handhaving en naleving van beide vormen van regulering;  
-
-c. de gevolgen van niet-naleving van de relevante wet- en regelgeving te kennen en hierover uitleg te geven;  
-
-d. een passend advies te geven, dat wil zeggen uit te leggen op welke wijze in lijn met de doelstellingen van de onderneming en met de keuzes die daaruit voortvloeien is gehandeld;  
-
-e. de begrippen integer gedrag en integere cultuur te omschrijven alsmede de wijze te benoemen waarop integer gedrag, in de zin van verantwoordelijkheid nemen en verantwoording afleggen, in de bedrijfscultuur van de financiële onderneming of financiëledienstverlener kan worden verankerd;  
-
-f. voorbeelden van integriteitsrisico’s te benoemen alsmede aan te tonen op welke wijze zij tot een aanvaardbaar niveau kunnen worden teruggebracht;  
-
-g. in de dagelijkse adviespraktijk – aan de hand van vier integriteitsassen – de vier belangen die een rol spelen in de financiële dienstverlening te herkennen en bespreekbaar te maken, te weten: 
-
-1°. het financiële belang van de medewerker (persoonlijke beloning, targets, commerciële doelstellingen, en dergelijke);  
-
-2°. het belang van de medewerker om compliant te zijn, waarbij wordt aangetoond dat de controlefunctie naar behoren wordt uitgevoerd;  
-
-3°. het belang van de medewerker om zijn professionele verantwoordelijkheid met betrekking tot integriteit te kennen en dienovereenkomstig te handelen;  
-
-4°. het belang van de medewerker en zijn organisatie om een vertrouwensrelatie te hebben met de klant;    
-
-h. dilemma’s op het gebied van ethisch en integer handelen in de uitoefening van zijn beroep te analyseren en bespreekbaar te maken alsmede de keuzes af te wegen en te verantwoorden;  
-
-i. om adviezen zodanig te communiceren dat deze aansluiten bij het opleidings-, kennis- en ervaringsniveau van de betrokken klant; en  
-
-j. fraudesignalen te onderkennen en hieraan op adequate wijze opvolging te geven.    
+j) met betrekking tot overeenkomsten inzake krediet waarvoor een vaste debetrentevoet voor de eerste periode is overeengekomen en waarvoor aan het eind van deze periode een nieuwe debetrentevoet wordt vastgesteld die vervolgens periodiek wordt aangepast volgens een overeengekomen indicator, wordt bij de berekening van het jaarlijks kostenpercentage uitgegaan van de hypothese dat vanaf het eind van de periode met vaste debetrentevoet de debetrentevoet dezelfde is als op het ogenblik van de berekening van het jaarlijks kostenpercentage, gebaseerd op de waarde van de overeengekomen indicator op dat moment.     
 
 ### Bijlage  C  
 
@@ -5117,7 +4587,7 @@ j. fraudesignalen te onderkennen en hieraan op adequate wijze opvolging te geven
 
 #### *Veroordelingen* 
 
-Bij onherroepelijk vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake van een poging tot, voorbereiding van, doen plegen van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van: 
+Bij vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake van een poging tot, voorbereiding van, doen plegen van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van: 
 
 – het in of vanuit Nederland, beschikkende over voorwetenschap, verrichten of bewerkstelligen van transacties in bepaalde effecten ([artikelen 5:53](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:56 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md));  
 

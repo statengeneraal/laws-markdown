@@ -506,7 +506,6 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 5:25f, eerste tot en met derde lid  | 2  |
 | 5:25h, eerste tot en met derde lid  | 1  |
 | 5:25i, eerste tot en met derde en vijfde lid  | 3  |
-| 5:25ka, tweede lid  | 3  |
 | 5:25m, eerste tot en met derde lid, zesde en achtste lid  | 2  |
 | 5:25n  | 1  |
 | 5:25p, eerste tot en met vijfde lid  | 1  |
@@ -540,7 +539,6 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 5:41, eerste en tweede lid  | 2  |
 | 5:42  | 2  |
 | 5:43, eerste en tweede lid  | 2  |
-| 5:43a, eerste tot en met het derde lid  | 2  |
 | 5:48, derde tot en met achtste lid  | 2  |
 | 5:50  | 1  |
 | 5:51, eerste lid  | 1  |
@@ -787,7 +785,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 51, eerste en tweede lid  | 2  |
 | 51a, eerste tot en met zesde lid  | 2  |
 | 51a, zevende lid  | 3  |
-| 52, eerste tot en met zevende lid  | 2  |
+| 52, eerste tot en met zevende lid  | 3  |
 | 53, eerste tot en met negende en twaalfde en dertiende lid  | 2  |
 | 55, eerste en derde lid  | 2  |
 | 57, eerste en tweede lid  | 2  |
@@ -1051,24 +1049,34 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 27, eerste lid  | 2  |
 | --- | --- |
 |  [Besluit openbare biedingen Wft](../../../../../../../AMvB/besluit/openbare/biedingen/wft/BWBR0022511/README.md)   | --- |
+| 2a, eerste, tweede, vijfde en achtste lid  | 3  |
 | 3,  | 2  |
 | 4, eerste en derde lid  | 3  |
 | 5, eerste, vierde en vijfde lid  | 2  |
+| 5a,  | 2  |
+| 5b, tweede, derde en zesde lid  | 2  |
 | 6,  | 2  |
-| 7,  | 2  |
+| 7, eerste tot en met zesde lid  | 2  |
+| 7, zevende tot en met tiende lid  | 3  |
+| 9a,  | 3  |
 | 10,  | 2  |
 | 11,  | 2  |
-| 12,  | 2  |
+| 12, eerste tot en met derde lid  | 2  |
+| 12, vierde lid  | 3  |
 | 13,  | 2  |
 | 14,  | 2  |
-| 15, eerste tot en met vierde lid  | 2  |
+| 15, eerste tot en met vierde en zevende lid  | 2  |
+| 15a, eerste en tweede lid  | 2  |
 | 16, eerste, tweede en vierde lid  | 2  |
 | 17,  | 2  |
-| 18, eerste tot en met derde lid  | 2  |
+| 18,  | 2  |
+| 18a,  | 2  |
 | 19,  | 2  |
 | 20,  | 2  |
+| 20a,  | 2  |
 | 21,  | 2  |
 | 22,  | 2  |
+| 22a,  | 2  |
 | 23,  | 2  |
 | 24,  | 2  |
 | 25, eerste lid  | 2  |
@@ -1109,56 +1117,6 @@ Overtreding van een op grond van [artikel 54](../../../../../../../AMvB/besluit/
 |  [6:2](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)   | 2  |
 |  [6:3, eerste lid](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)   | 2  |
 
-### Artikel  12  
-
-Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de Prospectusverordening, is als volgt beboetbaar:  
-
-| Artikel  | Boetecategorie  |
-|:---|:---|
-| 26, vijfde lid  | 3  |
-| 27  | 3  |
-| 29  | 3  |
-| 30  | 3  |
-| 34  | 3  |
-
-### Artikel  12a  
-
-Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de verordening (EG) nr. 1060/2009 van het Europees Parlement en de Raad van 16 september 2009 inzake ratingbureaus (PbEU L 302), is als volgt beboetbaar:  
-
-| Artikel  | Boetecategorie  |
-|:---|:---|
-| 4, eerste, derde en vierde lid  | 3  |
-| 5, eerste lid  | 3  |
-| 6, eerste en tweede lid  | 3  |
-| 7, eerste tot en met vijfde lid  | 2  |
-| 8, eerste lid  | 1  |
-| 8, tweede tot en met zesde lid  | 2  |
-| 9  | 2  |
-| 10, eerste tot en met zesde lid  | 1  |
-| 11, eerste tot en met derde lid  | 1  |
-| 12  | 1  |
-| 13  | 1  |
-| 14, eerste lid  | 3  |
-| 14, derde lid  | 2  |
-
-### Artikel  12b  
-
-Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de verordening (EG) nr. 924/2009 van het Europees Parlement en de Raad van 16 september 2009 betreffende grensoverschrijdende betalingen in de Gemeenschap en tot intrekking van Verordening (EG) nr. 2560/2001, is als volgt beboetbaar:  
-
-| Artikel  | Boetecategorie  |
-|:---|:---|
-| 3, eerste en tweede lid  | 2  |
-| 4, eerste en tweede lid  | 1  |
-| 8, eerste, derde en vierde lid  | 1  |
-
-### Artikel  12c  
-
-Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de verordening (EU) nr. 583/2010 van de Europese Commissie van 1 juli 2010 tot uitvoering van Richtlijn 2009/65/EG van het Europees Parlement en de Raad van de Europese Unie wat betreft essentiële beleggersinformatie en de voorwaarden waaraan moet worden voldaan als de essentiële beleggersinformatie of het prospectus op een andere duurzame drager dan papier of via een website wordt verstrekt (PbEU L 176), is als volgt beboetbaar:  
-
-| Artikel  | Boetecategorie  |
-|:---|:---|
-| 3, eerste tot en met derde lid  4, eerste tot en met dertiende lid  5, eerste tot en met derde lid  6  7, eerste tot en met vierde lid  8, eerste tot en met vijfde lid  9  10, eerste en tweede lid  11, eerste en tweede lid  12, eerste tot en met derde lid  13, eerste en tweede lid  14  15, eerste tot en met zesde lid  16  17, eerste en tweede lid  18, eerste en tweede lid  19, eerste tot en met vierde lid  20, eerste tot en met derde lid  21, eerste en tweede lid  22, eerste tot en met derde lid  23, eerste tot en met derde lid  24, eerste en tweede lid  25, eerste tot en met derde lid  26, eerste tot en met vijfde lid  27  28  29  30  31, eerste en tweede lid  32  33  34, eerste en tweede lid  35, eerste en tweede lid  36, eerste tot en met zesde lid  37  38, eerste tot en met derde lid  Bijlage I  Bijlage II  Bijlage III  | 2  2  2  2  2  2  2  2  2  2  2  1  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  |
-
 ### Artikel  13  
 
 Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), is als volgt beboetbaar:  
@@ -1195,7 +1153,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 |:---|:---|
 |  [5, eerste lid](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)   | 3  |
 |  [6, derde lid](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)   | 2  |
-|  [14](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)   | 2  |
+|  [14](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)   | 3  |
 |  [15, eerste lid](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)   | 2  |
 |  [16a](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)   | 2  |
 |  [18, eerste lid](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)   | 3  |
@@ -1218,7 +1176,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van het [
 |  [5](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 1  |
 |  [7](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 1  |
 |  [8, eerste lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 3  |
-|  [8, tweede lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 1  |
+|  [8, tweede lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 2  |
 |  [8, derde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 2  |
 |  [8, vierde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 1  |
 |  [8, vijfde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 1  |
@@ -1229,7 +1187,8 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van het [
 |  [11, tweede lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 1  |
 |  [11, derde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 3  |
 |  [11, vierde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 2  |
-|  [11, vijfde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 1  |
+|  [11, vijfde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 2  |
+|  [11, zesde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 1  |
 |  [12, eerste lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 3  |
 |  [12, tweede lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 1  |
 |  [12, derde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 2  |
@@ -1253,7 +1212,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van het [
 |  [23, eerste lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 3  |
 |  [23, tweede lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 1  |
 |  [23, derde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 1  |
-|  [24, eerste lid, onderdeel a tot en met c](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 1  |
+|  [24, eerste lid, onderdeel a tot en met c](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 2  |
 |  [24, tweede en derde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 1  |
 |  [25](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 1  |
 |  [26, eerste lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 1  |
@@ -1266,7 +1225,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van het [
 |  [31](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 1  |
 |  [32, eerste lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 2  |
 |  [32, tweede lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 1  |
-|  [32, derde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 1  |
+|  [32, derde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 2  |
 |  [32, vierde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 2  |
 |  [33, eerste lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 1  |
 |  [33, tweede lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | 1  |

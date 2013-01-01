@@ -11,32 +11,55 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Van de verboden ingevolge [artikel 40, eerste lid, van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [artikel 4, eerste lid, van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md) wordt, voor zover aan [artikel 3 van dat besluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md) wordt voldaan, vrijstelling verleend tot 1 september 2011 voor het verrichten van de ingrepen: 
+1.  Voor de toepassing van dit artikel wordt verstaan onder: 
 
-a. bedoeld in [artikel 2, eerste lid, onderdelen e en f, van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md), voor zover het betreft het verwijderen van een deel van de achterste teen en de sporen bij mannelijke kippen bestemd voor de fokkerij, waarvan de nakomelingen gewoonlijk worden gehouden voor de menselijke consumptie;  
+a. *jonge moederdieren:* moederdieren met een leeftijd van: 
 
-b. bedoeld in [artikel 2, eerste lid, onderdeel g, van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md), voor zover het betreft het verkorten van de boven- en ondersnavel bij kippen of kalkoenen die worden gehouden of bestemd zijn om te worden gehouden in een huisvestingssysteem waarin de kippen zich vrijelijk over de vloer van de stal of op en naar verschillende niveaus binnen de stal kunnen bewegen of in een aangepast kooihuisvestingssysteem;  
+1°. maximaal 32 weken wanneer het dieren van vleeskuikenrassen betreft of  
 
-c. bedoeld in [artikel 2, eerste lid, onderdeel h, van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md), voor zover het betreft het verwijderen van kammen bij mannelijke kippen bestemd voor de fokkerij, waarvan de nakomelingen gewoonlijk worden gehouden voor het leggen van eieren bestemd voor de menselijke consumptie.     
-2.  Van het verbod ingevolge [artikel 40, eerste lid, van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) wordt, voor zover aan [artikel 3 van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md) wordt voldaan, vrijstelling verleend tot 1 januari 2012 voor zover het betreft het verwijderen van een deel van de staart bij ooien, van de rassen Suffolk, Hampshire Down en Clun Forest, mits: 
+2°. maximaal 30 weken wanneer het dieren van legkippenrassen betreft;    
+
+b. *infraroodmethode:* methode waarbij de snavel van een dier wordt verkort door middel van het gebruik van infraroodstraling.     
+2.  Van de verboden ingevolge [artikel 40, eerste lid, van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [artikel 4, eerste lid, van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md) wordt, voor zover aan [artikel 3 van dat besluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md) wordt voldaan, vrijstelling verleend tot 1 september 2021 voor het verrichten van de ingrepen: 
+
+a. bedoeld in [artikel 2, eerste lid, onderdelen e en f, van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md), voor zover het betreft het verwijderen van een deel van de achterste teen en de sporen bij mannelijke kippen bestemd voor de fokkerij, waarvan de nakomelingen gewoonlijk worden gehouden voor de menselijke consumptie;  
+
+b. bedoeld in [artikel 2, eerste lid, onderdeel g, van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md), voor zover het betreft het verkorten van de boven- en ondersnavel bij kippen of kalkoenen die worden gehouden of bestemd zijn om te worden gehouden in een huisvestingssysteem waarin de kippen of kalkoenen zich vrijelijk over de vloer van de stal of op en naar verschillende niveaus binnen de stal kunnen bewegen of in een aangepast kooihuisvestingssysteem;  
+
+c. bedoeld in [artikel 2, eerste lid, onderdeel h, van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md), voor zover het betreft het verwijderen van kammen bij mannelijke kippen bestemd voor de fokkerij, waarvan de nakomelingen gewoonlijk worden gehouden voor het leggen van eieren bestemd voor de menselijke consumptie.     
+3.  Bij het verrichten van de ingreep, bedoeld in het tweede lid, onderdeel b, wordt met ingang van 1 oktober 2011 gebruik gemaakt van de infraroodmethode om de snavels te verkorten, met uitzondering van gevallen waarin: 
+
+1°. de kuikens zijn geïmporteerd en waarvan in het land van herkomst de snavel niet is verkort;  
+
+2°. de kuikens nakomelingen zijn van jonge moederdieren.     
+4.  In afwijking van het tweede lid wordt van de verboden ingevolge [artikel 40, eerste lid, van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [artikel 4, tweede lid, van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md), voor zover aan [artikel 3 van dat besluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md) wordt voldaan en voor zover de ingrepen worden verricht bij dieren die worden gehouden of aantoonbaar bestemd zijn om te worden gehouden in een huisvestingssysteem waarvan de gebruiker kan aantonen dat het op 1 september 2001 reeds bestond en nadien niet is herbouwd of verbouwd, vrijstelling verleend tot 1 september 2021 voor het verrichten van de ingrepen: 
+
+a. bedoeld in [artikel 2, eerste lid onderdeel g, van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md), waarbij het derde lid van overeenkomstige toepassing is;  
+
+b. bedoeld in [artikel 2, eerste lid, onderdeel h, van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md).     
+5.  Van de verboden ingevolge [artikel 40, eerste lid, van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [artikel 4, tweede lid, van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md), die worden gehouden of aantoonbaar bestemd zijn om te worden gehouden in een huisvestingssysteem waarvan de gebruiker kan aantonen dat het op 1 september 2001 reeds bestond en nadien niet is herbouwd of verbouwd, wordt vrijstelling verleend tot 1 september 2021 voor het verrichten van de ingreep, bedoeld in [artikel 2, eerste lid, onderdeel s, van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md).   
+
+### Artikel  1a  
+
+Van het verbod ingevolge [artikel 40, eerste lid, van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) wordt, voor zover aan [artikel 3 van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md) wordt voldaan, vrijstelling verleend tot 1 mei 2013 voor zover het betreft het verwijderen van een deel van de staart bij ooien, van de rassen Suffolk, Hampshire Down en Clun Forest, mits: 
 
 a. deze ingreep uiterlijk een week na de geboorte plaatsvindt en  
 
-b. documenten kunnen worden overlegd waaruit blijkt dat de ouderdieren van de ooien zijn ingeschreven bij: 
+b. documenten kunnen worden overgelegd waaruit blijkt dat de ouderdieren van de ooien zijn ingeschreven bij: 
 
 1°. een organisatie die het stamboek van genoemde rassen bijhoudt, of  
 
-2°. een organisatie die niet zelf het stamboek voor genoemde rassen bijhoudt, maar die aantoont dat zij de beginselen die zijn vastgelegd door de organisatie of vereniging die het oorspronkelijke stamboek voor genoemde rassen bijhoudt, in acht neemt.       
+2°. een organisatie die niet zelf het stamboek voor genoemde rassen bijhoudt, maar die aantoont dat zij de beginselen die zijn vastgelegd door de organisatie of vereniging die het oorspronkelijke stamboek voor genoemde rassen bijhoudt, in acht neemt.      
 
 ### Artikel  2  
 
 Van de verboden ingevolge [artikel 40, eerste lid, van de wet](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [artikel 4, derde lid, van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md) wordt, voor zover aan [artikel 3 van dat besluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md) wordt voldaan, vrijstelling verleend: 
 
-a. tot 1 januari 2012, voor het verrichten van de ingreep, bedoeld in [artikel 2, tweede lid, onderdeel a, van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md) voor zover het betreft het aanbrengen van één oormerk in een oor bij varkens ten behoeve van herkenning van het dier bij het voederen in groepshuisvesting naast de bij of krachtens enig ander wettelijk voorschrift voorgeschreven of toegestane identificatie-ingrepen;  
+a. tot 1 juli 2014, voor het verrichten van de ingreep, bedoeld in [artikel 2, tweede lid, onderdeel a, van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md) voor zover het betreft het aanbrengen van één oormerk in een oor bij zeugen en gelten kennelijk bestemd voor de fokkerij ten behoeve van herkenning van het dier bij het voederen in groepshuisvesting naast de bij of krachtens enig ander wettelijk voorschrift voorgeschreven of toegestane identificatie-ingrepen;  
 
-b. tot 1 september 2011 voor de ingreep, bedoeld in [artikel 2, tweede lid, onderdeel d, van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md), voor zover het betreft het subcutaan of intramusculair aanbrengen van micro-electronica bij honden en katten, naast de bij of krachtens enig ander wettelijk voorschrift voorgeschreven of toegestane identificatie-ingrepen;  
+b. tot 1 september 2016 voor de ingreep, bedoeld in [artikel 2, tweede lid, onderdeel d, van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md), voor zover het betreft het subcutaan of intramusculair aanbrengen van micro-electronica bij honden en katten, naast de bij of krachtens enig ander wettelijk voorschrift voorgeschreven of toegestane identificatie-ingrepen;  
 
-c. tot 1 juni 2011 voor het verrichten van de ingreep, bedoeld in [artikel 2, tweede lid, onderdeel l, van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md) voor zover het betreft het eenmalig vriesbranden van runderen, naast de bij of krachtens enig ander wettelijk voorschrift voorgeschreven of toegestane identificatie-ingrepen.    
+c. tot 1 juni 2013 voor het verrichten van de ingreep, bedoeld in [artikel 2, tweede lid, onderdeel l, van het Ingrepenbesluit](../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md) voor zover het betreft het eenmalig vriesbranden van runderen, naast de bij of krachtens enig ander wettelijk voorschrift voorgeschreven of toegestane identificatie-ingrepen.    
 
 ### Artikel  3  
 
@@ -181,7 +204,9 @@ c. garnaal (Penaeus vannamei);
 
 d. Beluga steur (Huso huso);  
 
-e. Heterobranchus longifilis x Clarias gariepinus.    
+e. Heterobranchus longifilis x Clarias gariepinus;  
+
+f. Yellowtail Kingfish (Seriola spp.).    
 
 ### Hoofdstuk  VIIa  
 

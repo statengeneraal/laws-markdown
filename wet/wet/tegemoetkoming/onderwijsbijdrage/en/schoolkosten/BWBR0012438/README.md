@@ -331,7 +331,7 @@ De leerling heeft geen aanspraak op tegemoetkoming in de zin van hoofdstuk 4, in
 ####Grensbedrag draagkracht
 
 1.  De tegemoetkoming in de onderwijsbijdrage en in de schoolkosten is afhankelijk van de hoogte van de op grond van [artikel 7, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) berekende draagkracht.   
-2.  Volledige tegemoetkoming ingevolge de hoofdstukken 3, 4 en 5 bestaat tot en met het grensbedrag van de draagkracht. Naar de maatstaf van het schooljaar of studiejaar 2004–2005 bedraagt het grensbedrag € 29 882,93 Met ingang van het schooljaar 2012–2013: € 34.806,36.   
+2.  Volledige tegemoetkoming ingevolge de hoofdstukken 3, 4 en 5 bestaat tot en met het grensbedrag van de draagkracht. Naar de maatstaf van het schooljaar of studiejaar 2004–2005 bedraagt het grensbedrag € 29 882,93 Met ingang van het schooljaar 2013-2014: € 35.244,92.   
 3.  Indien het toe te kennen bedrag per aanvrager minder bedraagt dan € 10,–, wordt de tegemoetkoming op nihil gesteld.   
 
 ### Artikel  2.25  
@@ -438,13 +438,13 @@ De bedragen in onderstaand overzicht luiden per schooljaar en zijn uitgedrukt in
 | b. onderbouw + bovenbouw niet volledig en rechtstreeks bekostigd vo  | € 311,54  |
 | c. vavo  | € 311,54  |
 
-voor de schooljaren 2011−2012 en 2012−2013:   Overzicht bedragen tegemoetkoming schoolkosten per schooljaar 2011−2013 
+voor het schooljaar 2013–2014:   Overzicht bedragen tegemoetkoming schoolkosten per schooljaar 2013–2014 
 
 | --- | --- |
 |:---|:---|
-| a. beroepsonderwijs  | € 658,99  |
-| b. onderbouw + bovenbouw niet volledig en rechtstreeks bekostigd vo  | € 324,44  |
-| c. voortgezet algemeen volwassenen onderwijs (vavo)  | € 324,44  |
+| a. beroepsonderwijs  | € 674,41  |
+| b. onderbouw + bovenbouw niet volledig en rechtstreeks bekostigd vo  | € 332,03  |
+| c. voortgezet algemeen volwassenen onderwijs (vavo)  | € 332,03  |
 
 ### Artikel  3.6  
 
@@ -540,9 +540,9 @@ b. tegemoetkoming in de schoolkosten.
 
 De basistoelage is naar de maatstaf van 1 januari 2001 per kalendermaand voor een: 
 
-a. thuiswonende leerling:  € 84,59 Per 1 januari 2011 tot 1 januari 2013: € 103,77, en  
+a. thuiswonende leerling:  € 84,59 Van 1 januari 2013 tot 1 januari 2014: € 106,20, en  
 
-b. uitwonende leerling:  € 197,21 Per 1 januari 2011 tot 1 januari 2013: € 241,93.    
+b. uitwonende leerling:  € 197,21 Van 1 januari 2013 tot 1 januari 2014: € 247,59.    
 
 ### Artikel  4.4  
 
@@ -577,16 +577,16 @@ De bedragen in onderstaand overzicht luiden per maand en zijn uitgedrukt in euro
 | e. speciaal onderwijs en voortgezet speciaal onderwijs  | €  46,67  |
 | f. vavo  | € 102,89  |
 
-voor de schooljaren 2011−2012 en 2012−2013:   Overzicht bedragen tegemoetkoming schoolkosten per maand 2011–2013 
+voor het schooljaar 2013–2014:   Overzicht bedragen tegemoetkoming schoolkosten per maand 2013–2014 
 
 | --- | --- |
 |:---|:---|
-| a. onderbouw volledig op grond van de [WVO](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) bekostigd onderwijs en onderbouw + bovenbouw volledig op grond van de [WEB](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) bekostigd voorbereidend beroepsonderwijs verzorgd in een agrarisch opleidingscentrum  | € 73,16  |
-| b. bovenbouw volledig op grond van de [WVO](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) bekostigd onderwijs  | € 80,11  |
-| c. onderbouw niet volledig en rechtstreeks bekostigd vo  | € 100,18  |
-| d. bovenbouw niet volledig en rechtstreeks bekostigd vo  | € 107,15  |
-| e. speciaal onderwijs en voortgezet speciaal onderwijs  | € 48,60  |
-| f. voortgezet algemeen volwassenen onderwijs (vavo)  | € 107,15  |
+| a. onderbouw volledig op grond van de [WVO](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) bekostigd onderwijs en onderbouw + bovenbouw volledig op grond van de [WEB](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) bekostigd voorbereidend beroepsonderwijs verzorgd in een agrarisch opleidingscentrum  | € 74,87  |
+| b. bovenbouw volledig op grond van de [WVO](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) bekostigd onderwijs  | € 81,98  |
+| c. onderbouw niet volledig en rechtstreeks bekostigd vo  | € 102,52  |
+| d. bovenbouw niet volledig en rechtstreeks bekostigd vo  | € 109,66  |
+| e. speciaal onderwijs en voortgezet speciaal onderwijs  | € 49,74  |
+| f. voortgezet algemeen volwassenen onderwijs (vavo)  | € 109,66  |
 
 ### Artikel  4.7  
 
@@ -705,7 +705,7 @@ De tegemoetkoming in de onderwijsbijdrage bedraagt € 567,23.
 
 ####Tegemoetkoming schoolkosten
 
-De tegemoetkoming in de schoolkosten bedraagt naar de maatstaf van 1 januari 2008 € 647,16 voor de schooljaren 2011−2012 en 2012−2013: € 673,99.  
+De tegemoetkoming in de schoolkosten bedraagt naar de maatstaf van 1 januari 2008 € 647,16 voor het schooljaar 2013–2014: € 689,76.  
 
 ### Paragraaf  5.1.3  
 
@@ -775,34 +775,34 @@ De bedragen in onderstaande overzichten luiden per schooljaar en zijn uitgedrukt
 | aantal minuten per week  | onderwijsbijdrage  | schoolkosten  |
 |:---|:---|:---|
 | 540 of meer  | onderwijsbijdrage voor een uit 's Rijks kas bekostigde school voor 540 minuten onderwijs (= o <sub>1</sub>)  |  € 226,– 
-voor de schooljaren 2011−2012 en 2012−2013: € 288,37  |
+voor het schooljaar 2013–2014: € 295,12  |
 | 540 of meer en voor 1 januari 270 tot 540  | 0,5 x [o <sub>1</sub> + (o <sub>1</sub> naar rato aantal minuten dat onderwijs wordt gevolgd)]  |  € 113 
-voor de schooljaren 2011−2012 en 2012−2013: € 144,18 + € 113 
-voor de schooljaren 2011−2012 en 2012−2013: € 144,18 naar rato aantal minuten dat onderwijs wordt gevolgd  |
+voor het schooljaar 2013–2014: € 147,56 + € 113 
+voor het schooljaar 2013–2014: € 147,56 naar rato aantal minuten dat onderwijs wordt gevolgd  |
 | 270 tot 540  | onderwijsbijdrage voor een uit 's Rijks kas bekostigde school voor 360 minuten onderwijs (= o <sub>2</sub>)  |  € 152,– 
-voor de schooljaren 2011−2012 en 2012−2013: € 194,28  |
+voor het schooljaar 2013–2014: € 198,83  |
 | 270 tot 540 en voor 1 januari minder dan 270  | 0,5 x [o <sub>2</sub> + (o <sub>2</sub> naar rato aantal minuten dat onderwijs wordt gevolgd)]  |  € 76,- 
-voor de schooljaren 2011−2012 en 2012−2013: € 97,14 + € 76,- 
-voor de schooljaren 2011−2012 en 2012−2013: € 97,14 naar rato aantal minuten dat onderwijs wordt gevolgd  |
+voor het schooljaar 2013–2014: € 99,41 + € 76,- 
+voor het schooljaar 2013–2014: € 99,42 naar rato aantal minuten dat onderwijs wordt gevolgd  |
 | minder dan 270  | nihil  | nihil 
-voor de schooljaren 2011−2012 en 2012−2013: nihil  |
+voor het schooljaar 2013–2014: nihil  |
 
 ### *Overzicht 2. Geen onderwijs meer volgen na 30 september en voor 1 januari* 
 
 | aantal minuten per week  | onderwijsbijdrage  | schoolkosten  |
 |:---|:---|:---|
 | 540 of meer  | de helft van de onderwijsbijdrage voor een uit 's Rijks kas bekostigde school voor 540 minuten onderwijs (= o <sub>1</sub>)  |  € 113,- 
-voor de schooljaren 2011−2012 en 2012−2013: € 144.18  |
+voor het schooljaar 2013–2014: € 147,56  |
 | 540 of meer en voor 1 januari 270 tot 540  | 0,25 x [o <sub>1</sub> + (o <sub>1</sub> naar rato aantal minuten dat onderwijs wordt gevolgd)]  |  € 56,50 
-voor de schooljaren 2011−2012 en 2012−2013: € 72,09 +  € 56,50 
-voor de schooljaren 2011−2012 en 2012−2013: € 72,09 naar rato aantal minuten dat onderwijs wordt gevolgd  |
+voor het schooljaar 2013–2014: € 73,78 +  € 56,50 
+voor het schooljaar 2013–2014: € 73,78 naar rato aantal minuten dat onderwijs wordt gevolgd  |
 | 270 tot 540  | de helft van de onderwijsbijdrage voor een uit 's Rijks kas bekostigde school voor 360 minuten onderwijs (= o <sub>2</sub>)  |  € 76,- 
-voor de schooljaren 2011−2012 en 2012−2013: € 97,14  |
+voor het schooljaar 2013–2014: € 99,41  |
 | 270 tot 540 en voor 1 januari minder dan 270  | 0,25 x [o <sub>2</sub> + (o <sub>2</sub> naar rato aantal minuten dat onderwijs wordt gevolgd)]  |  € 38,- 
-voor de schooljaren 2011−2012 en 2012−2013: € 48,57 +  € 38,- 
-voor de schooljaren 2011−2012 en 2012−2013: € 48,57 naar rato aantal minuten dat onderwijs wordt gevolgd  |
+voor het schooljaar 2013–2014: € 49,71 +  € 38,- 
+voor het schooljaar 2013–2014: € 49,70 naar rato aantal minuten dat onderwijs wordt gevolgd  |
 | minder dan 270  | nihil  | nihil 
-voor de schooljaren 2011−2012 en 2012−2013: nihil  |
+voor het schooljaar 2013–2014: nihil  |
 
 ### *Overzicht 3. Geen onderwijs meer volgen voor 1 oktober* 
 
@@ -1067,7 +1067,7 @@ Voor tegemoetkoming kan een student in aanmerking komen die als student is inges
 ####Grensbedrag toetsingsinkomen
 
 1.  Voor tegemoetkoming kan aanspraak bestaan afhankelijk van de hoogte van het toetsingsinkomen en van de onderwijssoort.   
-2.  Geen aanspraak op een tegemoetkoming bestaat bij een toetsingsinkomen naar de maatstaf van 1 januari 2001 van meer dan € 2 858,- Per 1 januari 2011 tot 1 januari 2013: € 3.613,41.   
+2.  Geen aanspraak op een tegemoetkoming bestaat bij een toetsingsinkomen naar de maatstaf van 1 januari 2001 van meer dan € 2 858,- Van 1 januari 2013 tot 1 januari 2014: € 3.658,94.   
 
 ### Artikel  10.6  
 
@@ -1075,7 +1075,7 @@ Voor tegemoetkoming kan een student in aanmerking komen die als student is inges
 
 1.  Onder toetsingsinkomen wordt verstaan het totaal van de volgende inkomsten: 
 
-a. het door de leerling of student gedurende de maanden mei, juni en juli voorafgaande aan de aanvang van het schooljaar of studiejaar genoten loon in de zin van de [Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) verminderd met het vakantiegeld, de ingehouden loonbelasting, de ingehouden premies volksverzekeringen en de inkomensafhankelijke bijdrage, bedoeld in [artikel 41 van de Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), en  
+a. het door de leerling of student gedurende de maanden mei, juni en juli voorafgaande aan de aanvang van het schooljaar of studiejaar genoten loon in de zin van de [Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) verminderd met het vakantiegeld, de ingehouden loonbelasting, de ingehouden premies volksverzekeringen en de inkomensafhankelijke bijdrage, bedoeld in [artikel 43 van de Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), en  
 
 b. een vierde deel van de winst uit een of meer ondernemingen, bedoeld in [artikel 3.8 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), door de leerling of student genoten in het kalenderjaar voorafgaande aan het jaar waarin het schooljaar of studiejaar aanvangt.     
 2.  Voorzover de leerling of student niet binnenlandse belastingplichtige is in de zin van de [Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), geldt als maatstaf het toetsingsinkomen voor het geval hij voor al zijn inkomensbestanddelen binnenlandse belastingplichtige was geweest.   
@@ -1105,11 +1105,11 @@ b. tegemoetkoming in de schoolkosten.
 4°. voortgezet onderwijs die per week minder dan 270 minuten onderwijs volgt: nihil.     
 3.  De tegemoetkoming in de schoolkosten voor een schooljaar of studiejaar bedraagt naar de maatstaf van 1 augustus 2008 onderscheidenlijk 1 september 2008 voor een leerling of student in het: 
 
-a. hoger onderwijs: € 647,– voor de schooljaren 2011−2012 en 2012−2013: € 674,00,  
+a. hoger onderwijs: € 647,– voor het schooljaar 2013–2014: € 690,00,  
 
-b. voortgezet onderwijs die per week 540 minuten of meer onderwijs volgt: € 276,90 voor de schooljaren 2011−2012 en 2012−2013: € 288,37,  
+b. voortgezet onderwijs die per week 540 minuten of meer onderwijs volgt: € 276,90 voor het schooljaar 2013–2014: € 295,12,  
 
-c. voortgezet onderwijs die per week ten minste 270 minuten en minder dan 540 minuten onderwijs volgt: € 186,54 voor de schooljaren 2011−2012 en 2012-2013: € 194,28,  
+c. voortgezet onderwijs die per week ten minste 270 minuten en minder dan 540 minuten onderwijs volgt: € 186,54 voor het schooljaar 2013–2014: € 198,83,  
 
 d. voortgezet onderwijs die per week minder dan 270 minuten onderwijs volgt: nihil.     
 4.  Bij algemene maatregel van bestuur kunnen de maatstaf genoemd in de aanhef van het derde lid, alsmede de bedragen genoemd in het derde lid, de onderdelen a tot en met c, worden gewijzigd.   

@@ -8,11 +8,12 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: 
+1.  In deze regeling wordt verstaan onder: 
 
 a. *wet:*[Wet op de uitoefening van de diergeneeskunde 1990](../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md);  
 
-b. *UDD-diergeneesmiddel:* diergeneesmiddel als bedoeld in [artikel 78 van de Diergeneesmiddelenregeling](../../../../../ministeriele-regeling/diergeneesmiddelenregeling/BWBR0019277/README.md).    
+b. *UDD-diergeneesmiddel:* diergeneesmiddel dat uitsluitend kan worden afgeleverd door toepassing door de dierenarts als bedoeld in [artikel 2.17, eerste lid, van de Regeling diergeneesmiddelen](../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md).     
+2.  Deze regeling berust mede op [artikel 5.8, eerste lid, onderdelen c en d, van het Besluit diergeneesmiddelen](../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).   
 
 ### Artikel  2  
 
@@ -97,7 +98,7 @@ het afnemen van bloed en het geven van injecties andere dan die voor een algemen
 
 het toepassen bij een dier van een algemene of plaatselijke verdoving;  
 
-het toepassen van diergeneesmiddelen aangewezen krachtens [artikel 29 van de Diergeneesmiddelenwet 1985](../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md) (Stb. 410);  
+het toepassen van diergeneesmiddelen aangewezen krachtens [artikel 2.17, tweede lid](../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md), of [artikel 2.18 van de Regeling diergeneesmiddelen](../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md);  
 
 handelingen waarbij levende weefsels worden verbroken ten behoeve van een door een dierenarts uit te voeren operatie waarbij een dier onvruchtbaar wordt gemaakt of een vrucht wordt verwijderd.     
 

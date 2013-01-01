@@ -29,7 +29,7 @@ d. *minister:* Minister van Landbouw, Natuur en Voedselkwaliteit.
 
 ### Artikel  2  
 
-Van het verbod, bedoeld in [artikel 2, eerste lid, van de Diergeneesmiddelenwet](../../../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md) wordt vrijstelling verleend voor het toepassen van het diergeneesmiddel Gallimune Flu H5N9 van de firma Merial te Amstelveen en van het diergeneesmiddel Nobilis H5N2 van de firma Intervet te Boxmeer, en tevens voor het met het oog daarop bereiden, voorhanden of in voorraad hebben en afleveren van dit diergeneesmiddel onder voorwaarden gesteld, in de artikelen 3 tot en met 11.  
+Ter voorkoming van AI kan een diergeneesmiddel worden toegepast waarvoor bij [artikel 3.12 van de Regeling diergeneesmiddelen](../../../../../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md) een vrijstelling is verleend.  
 
 ### Artikel  3  
 
@@ -81,21 +81,9 @@ b. de identificatienummers van de vogels waarvan bloedmonsters zijn genomen.
 
 De aanwezige voorraad van het middel wordt voor een door de minister nader te bepalen tijdstip teruggezonden naar de producent.  
 
-### Artikel  8  
-
-De vrijstelling voor het bereiden, afleveren, het voorhanden of in voorraad hebben en toepassen van het middel geldt tot een door de minister nader te bepalen tijdstip, dat voor de verschillende handelingen verschillend kan worden gesteld.  
-
 ### §  3  
 
 ####Aanwijzing kanalisatieregime
-
-### Artikel  9  
-
-Het diergeneesmiddel, bedoeld in artikel 2 wordt voor de voor de toepassing van deze regeling aangewezen als: 
-
-a. een middel als bedoeld in [artikel 29, eerste lid, van de Diergeneesmiddelenwet](../../../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md);  
-
-b. een middel als bedoeld in [artikel 30, vierde lid ,van de Diergeneesmiddelenwet](../../../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md).    
 
 ### §  4  
 
@@ -122,7 +110,7 @@ Van het verbod gesteld in [artikel 3 van het Besluit gebruik sera en entstoffen]
 
 ### Artikel  11a  
 
-Deze regeling berust mede op [artikel 17 van de Gezondheids- en Welzijnswet voor dieren](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md).  
+Deze regeling berust mede op [artikel 17 van de Gezondheids- en Welzijnswet voor dieren](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [artikel 3.18 van het Besluit diergeneesmiddelen](../../../../../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).  
 
 ### Artikel  12  
 

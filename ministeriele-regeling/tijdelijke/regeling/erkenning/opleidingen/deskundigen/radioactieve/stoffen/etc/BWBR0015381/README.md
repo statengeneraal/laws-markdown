@@ -24,7 +24,9 @@ Als opleiding op het in de richtlijnen bedoelde niveau 3 worden erkend de opleid
 
 – Technische Universiteit Delft: Reactor Instituut Delft;  
 
-– Technische Universiteit Eindhoven: School of Medical Physics and Enginering.    
+– Technische Universiteit Eindhoven: School of Medical Physics and Enginering;  
+
+– Stichting Hoger Onderwijs Nederland, opleiding voor Medisch Beeldvormende en Radiotherapeutische Technieken, vestiging Haarlem.    
 
 ### Artikel  2  
 
@@ -56,7 +58,11 @@ Als opleiding op het in de richtlijnen bedoelde niveau 3 worden erkend de opleid
 
 – Stichting Ziekenhuisgroep Twente te Almelo, deskundigheidsniveau 4A/M volledig voor medisch specialisten;  
 
-– Stichting Deventer Ziekenhuis te Deventer, deskundigheidsniveau 4A/M volledig voor medische specialisten.     
+– Stichting Deventer Ziekenhuis te Deventer, deskundigheidsniveau 4A/M volledig voor medische specialisten;  
+
+– Stichting Hoger Onderwijs Nederland, opleiding voor Medisch Beeldvormende en Radiotherapeutische Technieken, vestiging Haarlem;  
+
+– Academisch Centrum Tandheelkunde Amsterdam (ACTA), opleiding niveau 4M voor toepassingen met ConeBeamCT.     
 2.  Als opleiding op het in de richtlijnen bedoelde niveau 4B worden erkend de opleidingen van: 
 
 – Leids Universitair Medisch Centrum;  
@@ -89,7 +95,13 @@ Als opleiding op het in de richtlijnen bedoelde niveau 3 worden erkend de opleid
 
 – Technische Universiteit Eindhoven: School of Medical Physics and Enginering;  
 
-– Rijksuniversiteit Groningen: opleiding stralingsdeskundigheid voor tandartsen en orthodontisten.     
+– Rijksuniversiteit Groningen: opleiding stralingsdeskundigheid voor tandartsen en orthodontisten;  
+
+– Applus/Röntgentechnische Dienst, te Rotterdam: cursus stralingshygiëne 5A/M voor tandartsen;  
+
+– Hogeschool van Hall Larenstein/Landbouw Universiteit Wageningen;  
+
+– Medusin medische educatie symposia incompany te Winterwijk; opleiding stralingsbescherming 5M voor medische stralingstoepassingen.     
 2.  Als opleiding op het in de richtlijnen bedoelde niveau 5B worden erkend de opleidingen van: 
 
 – Erasmus MC, Universitair Medisch Centrum Rotterdam;  
@@ -104,7 +116,9 @@ Als opleiding op het in de richtlijnen bedoelde niveau 3 worden erkend de opleid
 
 – Stichting Ziekenhuisgroep Twente te Almelo, deskundigheidsniveau 5B;  
 
-– Technische Universiteit Eindhoven: School of Medical Physics and Enginering.     
+– Technische Universiteit Eindhoven: School of Medical Physics and Enginering;  
+
+– Hogeschool van Hall Larenstein/Landbouw Universiteit Wageningen.     
 
 ### Artikel  4  
 

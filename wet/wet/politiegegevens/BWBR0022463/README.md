@@ -22,7 +22,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 a. politiegegeven: elk persoonsgegeven dat in het kader van de uitoefening van de politietaak wordt verwerkt;  
 
-b. politietaak: de taken, bedoeld in de [artikelen 2](../../../../wet/politiewet/1993/BWBR0006299/README.md) en [6, eerste lid, van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+b. politietaak: de taken, bedoeld in de [artikelen 3](../../../../wet/politiewet/2012/BWBR0031788/README.md) en [4, eerste lid, van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
 c. verwerken van politiegegevens: elke handeling of elk geheel van handelingen met betrekking tot politiegegevens, waaronder in ieder geval het verzamelen, vastleggen, ordenen, bewaren, bijwerken, wijzigen, opvragen, raadplegen, gebruiken, vergelijken, verstrekken door middel van doorzending, verspreiding of enige andere vorm van terbeschikkingstelling, samenbrengen, met elkaar in verband brengen, alsmede het afschermen, uitwissen of vernietigen van politiegegevens;  
 
@@ -32,17 +32,13 @@ e. ter beschikking stellen van politiegegevens: het verstrekken van politiegegev
 
 f. verantwoordelijke: dit is bij: 
 
-1°. een regionaal politiekorps: de korpsbeheerder, bedoeld in [artikel 1, eerste lid, onderdeel c, van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+1°. de politie: de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
-2°. het Korps landelijke politiediensten: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
+2°. de rijksrecherche: het College van procureurs-generaal;  
 
-3°. de rijksrecherche: het College van procureurs-generaal;  
+3°. de Koninklijke marechaussee: Onze Minister van Defensie;  
 
-4°. de Koninklijke marechaussee: Onze Minister van Defensie;  
-
-5°. de bijzondere ambtenaren van politie, bedoeld in [artikel 43 van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md): Onze Minister van Justitie;  
-
-6°. een gemeenschappelijke verwerking van politiegegevens met het oog op een gemeenschappelijk doel door twee of meer organisaties als bedoeld in dit onderdeel dan wel een of meer organisaties als bedoeld in dit onderdeel en de bijzondere ambtenaren van politie: de verantwoordelijke die door de betrokken verantwoordelijken is belast met de feitelijke zorg voor de verwerking en het treffen van de maatregelen, bedoeld in artikel 4;    
+4°. een gemeenschappelijke verwerking van politiegegevens met het oog op een gemeenschappelijk doel door twee of meer organisaties als bedoeld in dit onderdeel: de verantwoordelijke die door de betrokken verantwoordelijken is belast met de feitelijke zorg voor de verwerking en het treffen van de maatregelen, bedoeld in artikel 4;    
 
 g. betrokkene: degene op wie een politiegegeven betrekking heeft;  
 
@@ -50,9 +46,9 @@ h. het College bescherming persoonsgegevens: het College, bedoeld in [artikel 51
 
 i. bewerker: degene die ten behoeve van de verantwoordelijke politiegegevens verwerkt, zonder aan zijn rechtstreeks gezag te zijn onderworpen;  
 
-j. Onze Ministers: Onze Ministers van Justitie, van Binnenlandse Zaken en Koninkrijksrelaties en van Defensie gezamenlijk;  
+j. Onze Ministers: Onze Ministers van Veiligheid en Justitie en van Defensie gezamenlijk;  
 
-k. ambtenaar van politie: de ambtenaar, bedoeld in [artikel 3 van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md), alsmede de ambtenaar van de Koninklijke marechaussee voor zover werkzaam ter uitvoering van de politietaken, bedoeld in [artikel 6, eerste lid, van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md), en, indien artikel 46 wordt toegepast, de ambtenaar, werkzaam bij de in dat artikel bedoelde dienst;  
+k. ambtenaar van politie: de ambtenaar, bedoeld in [artikel 2 van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md), alsmede de ambtenaar van de Koninklijke marechaussee voor zover werkzaam ter uitvoering van de politietaken, bedoeld in [artikel 4, eerste lid, van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md), en, indien artikel 46 wordt toegepast, de ambtenaar, werkzaam bij de in dat artikel bedoelde dienst;  
 
 l. gerelateerde gegevens: de politiegegevens die bij de vergelijking van gegevens, bedoeld in de artikelen 8, tweede lid, 11, eerste en tweede lid, 12, vierde lid en 24, eerste lid, overeenkomen en de erbij behorende gegevens alsmede de politiegegevens waarmee bij het in combinatie met elkaar verwerken van politiegegevens, bedoeld in de artikelen 8, derde lid en 11, vierde lid, verband blijkt te bestaan, voor zover verdere verwerking van de gegevens voor het betreffende doel noodzakelijk is;  
 
@@ -201,7 +197,7 @@ a. de categorieën van gegevens op basis waarvan politiegegevens vergeleken kunn
 b. het coderen van politiegegevens door deze te voorzien van een indicatie over betrouwbaarheid en vertrouwelijkheid en de mogelijkheid deze verder te verwerken voor een onderzoek als bedoeld in artikel 9 of een verwerking als bedoeld in artikel 10;  
 
 c. de wijze waarop de verbanden zichtbaar gemaakt worden.     
-4.  Voor zover dat noodzakelijk is voor een onderzoek als bedoeld in artikel 9, eerste lid, of een verwerking als omschreven in artikel 10, eerste lid, kunnen in bijzondere gevallen in opdracht van het op grond van de [Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md) bevoegde gezag, politiegegevens die worden verwerkt op grond van artikel 8, 9 of 10 in combinatie met elkaar worden verwerkt teneinde vast te stellen of verbanden bestaan tussen de gegevens. Indien zulke verbanden bestaan kunnen de gerelateerde gegevens, na instemming van een daartoe bevoegde functionaris, voor dat onderzoek of die verwerking verder worden verwerkt.   
+4.  Voor zover dat noodzakelijk is voor een onderzoek als bedoeld in artikel 9, eerste lid, of een verwerking als omschreven in artikel 10, eerste lid, kunnen in bijzondere gevallen in opdracht van het bevoegd gezag, bedoeld in de [artikelen 11](../../../../wet/politiewet/2012/BWBR0031788/README.md), [12](../../../../wet/politiewet/2012/BWBR0031788/README.md) en [14 van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md), politiegegevens die worden verwerkt op grond van artikel 8, 9 of 10 in combinatie met elkaar worden verwerkt teneinde vast te stellen of verbanden bestaan tussen de gegevens. Indien zulke verbanden bestaan kunnen de gerelateerde gegevens, na instemming van een daartoe bevoegde functionaris, voor dat onderzoek of die verwerking verder worden verwerkt.   
 5.  Voor zover dat noodzakelijk is voor een onderzoek als bedoeld in artikel 9, eerste lid, of een verwerking als omschreven in artikel 10, eerste lid, kunnen politiegegevens die worden verwerkt op grond van artikel 8, 9 of 10 geautomatiseerd worden vergeleken met andere dan politiegegevens.   
 
 ### Artikel  12  
@@ -253,7 +249,7 @@ c. de gevallen waarin of de termijnen waarbinnen het verder verwerken van de bet
 
 1.  De op grond van de artikelen 8, zesde lid, 9, vierde lid, en artikel 10, zesde lid, verwijderde politiegegevens worden gedurende een termijn van vijf jaar bewaard ten behoeve van verwerking met het oog op de afhandeling van klachten en de verantwoording van verrichtingen en vervolgens vernietigd.   
 2.  De artikelen 16 tot en met 20 alsmede de artikelen 23 en 24 zijn op de overeenkomstig het eerste lid bewaarde politiegegevens niet van toepassing.   
-3.  In bijzondere gevallen en voor zover dat noodzakelijk is voor een doel als bedoeld in artikel 9 of 10, kunnen politiegegevens die overeenkomstig het eerste lid worden bewaard, in opdracht van het op grond van de [Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md) bevoegde gezag ter beschikking worden gesteld voor hernieuwde verwerking op grond van artikel 9 of 10.   
+3.  In bijzondere gevallen en voor zover dat noodzakelijk is voor een doel als bedoeld in artikel 9 of 10, kunnen politiegegevens die overeenkomstig het eerste lid worden bewaard, in opdracht van het bevoegd gezag, bedoeld in de [artikelen 11](../../../../wet/politiewet/2012/BWBR0031788/README.md), [12](../../../../wet/politiewet/2012/BWBR0031788/README.md) en [14 van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md), ter beschikking worden gesteld voor hernieuwde verwerking op grond van artikel 9 of 10.   
 4.  Van de vernietiging, bedoeld in het eerste lid, wordt afgezien voor zover de waarde van de archiefbescheiden als bestanddeel van het cultureel erfgoed of voor historisch onderzoek zich daartegen verzet. De betreffende gegevens worden zo spoedig mogelijk overgebracht naar een archiefbewaarplaats. Daarbij worden met toepassing van [artikel 15 van de Archiefwet 1995](../../../../wet/archiefwet/1995/BWBR0007376/README.md) beperkingen aan de openbaarheid gesteld. Onze Ministers kunnen over het in de eerste en derde volzin bepaalde beleidsregels vaststellen.   
 
 ### Artikel  15  
@@ -287,13 +283,13 @@ c. de burgemeesters voor zover zij deze behoeven:
 
 2°. in het kader van de handhaving van de openbare orde.    
 
-d. de korpsbeheerders, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, Onze Minister van Justitie of Onze Minister van Defensie voor zover zij deze behoeven in verband met: 
+d. de korpschef, het College van procureurs-generaal, Onze Minister van Veiligheid en Justitie of Onze Minister van Defensie voor zover zij deze behoeven in verband met: 
 
-1°. het verrichten van een onderzoek naar aanleiding van klachten, als bedoeld in [artikel 64 van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md), of  
+1°. het verrichten van een onderzoek naar aanleiding van klachten, als bedoeld in [artikel 70 van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md), of  
 
-2°. disciplinaire bestraffing vanwege niet nakoming van verplichtingen of plichtsverzuim, als geregeld bij of krachtens [artikel 50 van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md), of  
+2°. disciplinaire bestraffing vanwege niet nakoming van verplichtingen of plichtsverzuim, als geregeld bij of krachtens [artikel 47 van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md), of  
 
-3°. schorsing of ontslag van de ambtenaar van de Koninklijke marechaussee voor zover werkzaam ter uitvoering van de politietaken, bedoeld in [artikel 6, eerste lid, van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md) vanwege niet nakoming van verplichtingen of plichtsverzuim als geregeld bij of krachtens [artikel 12 van de Militaire Ambtenarenwet 1931](../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md).       
+3°. schorsing of ontslag van de ambtenaar van de Koninklijke marechaussee voor zover werkzaam ter uitvoering van de politietaken, bedoeld in [artikel 4, eerste lid, van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md) vanwege niet nakoming van verplichtingen of plichtsverzuim als geregeld bij of krachtens [artikel 12 van de Militaire Ambtenarenwet 1931](../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md).       
 2.  Op de verstrekkingen, bedoeld in het eerste lid, onderdelen a en d, is artikel 15, tweede lid, van overeenkomstige toepassing.   
 
 ### Artikel  17  
@@ -322,16 +318,16 @@ b. het betreffende land of het ontvangende internationale orgaan passende garant
 
 ### Artikel  18  
 
-####(verstrekking aan derden structureel voor alle regio’s)
+####(verstrekking aan derden structureel)
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen personen en instanties worden aangewezen aan wie of waaraan, met het oog op een zwaarwegend algemeen belang, politiegegevens worden of kunnen worden verstrekt ter uitvoering van de bij of krachtens die algemene maatregel van bestuur aan te geven taak.   
-2.  In bijzondere gevallen kan Onze Minister van Justitie of Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties toestemming of opdracht geven tot het verstrekken van daarbij door hem te omschrijven politiegegevens voor zover dit noodzakelijk is met het oog op een zwaarwegend algemeen belang. Van de desbetreffende beschikking wordt mededeling gedaan aan het College bescherming persoonsgegevens.   
+2.  In bijzondere gevallen kan Onze Minister van Veiligheid en Justitie toestemming of opdracht geven tot het verstrekken van daarbij door hem te omschrijven politiegegevens voor zover dit noodzakelijk is met het oog op een zwaarwegend algemeen belang. Van de desbetreffende beschikking wordt mededeling gedaan aan het College bescherming persoonsgegevens.   
 
 ### Artikel  19  
 
-####(verstrekking aan derden incidenteel voor alle regio’s)
+####(verstrekking aan derden incidenteel)
 
-In bijzondere gevallen kan de verantwoordelijke, voor zover dit noodzakelijk is met het oog op een zwaarwegend algemeen belang, in overeenstemming met het op grond van de [Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md) bevoegde gezag, beslissen tot het verstrekken van politiegegevens aan personen of instanties voor de volgende doeleinden: 
+In bijzondere gevallen kan de verantwoordelijke, voor zover dit noodzakelijk is met het oog op een zwaarwegend algemeen belang, in overeenstemming met het bevoegd gezag, bedoeld in de [artikelen 11](../../../../wet/politiewet/2012/BWBR0031788/README.md), [12](../../../../wet/politiewet/2012/BWBR0031788/README.md) en [14 van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md), beslissen tot het verstrekken van politiegegevens aan personen of instanties voor de volgende doeleinden: 
 
 a. het voorkomen en opsporen van strafbare feiten;  
 
@@ -345,7 +341,7 @@ d. het uitoefenen van toezicht op het naleven van regelgeving.
 
 ####(verstrekking aan derden structureel voor samenwerkingsverbanden)
 
-1.  De verantwoordelijke kan, voor zover dit met het oog op een zwaarwegend algemeen belang noodzakelijk is ten behoeve van een samenwerkingsverband van de politie met personen of instanties, in overeenstemming met het op grond van de [Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md) bevoegd gezag, beslissen tot het verstrekken van politiegegevens aan die personen en instanties voor de volgende doeleinden: 
+1.  De verantwoordelijke kan, voor zover dit met het oog op een zwaarwegend algemeen belang noodzakelijk is ten behoeve van een samenwerkingsverband van de politie met personen of instanties, in overeenstemming met het bevoegd gezag, bedoeld in de [artikelen 11](../../../../wet/politiewet/2012/BWBR0031788/README.md), [12](../../../../wet/politiewet/2012/BWBR0031788/README.md) en [14 van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md), beslissen tot het verstrekken van politiegegevens aan die personen en instanties voor de volgende doeleinden: 
 
 a. het voorkomen en opsporen van strafbare feiten;  
 
@@ -385,8 +381,8 @@ b. bij algemene maatregel van bestuur aan te wijzen beslissingen.
 
 ####(rechtstreekse verstrekking aan inlichtingen- en veiligheidsdiensten)
 
-1.  Voor zover dat noodzakelijk is voor de uitvoering van de taak, bedoeld in [artikel 6, tweede lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md), kunnen door de Algemene Inlichtingen- en Veiligheidsdienst verwerkte gegevens rechtstreeks geautomatiseerd worden vergeleken met bij algemene maatregel van bestuur, op voordracht van Onze minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze minister van Justitie gezamenlijk, te bepalen categorieën van politiegegevens teneinde vast te stellen of verbanden bestaan tussen de betreffende gegevens. De gerelateerde gegevens kunnen daarvoor rechtstreeks worden verstrekt aan ambtenaren werkzaam bij de Algemene Inlichtingen- en Veiligheidsdienst waarbij in bepaalde, door een lid van het College van procureurs-generaal en het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst gezamenlijk vast te stellen gevallen, op een gezamenlijk vast te stellen wijze, daarvan kennis wordt gegeven aan het lid van het openbaar ministerie als bedoeld in [artikel 38 van de Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md).   
-2.  Voor zover dat noodzakelijk is voor de uitvoering van de taak, bedoeld in [artikel 7, tweede lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md), kunnen door de Militaire Inlichtingen- en Veiligheidsdienst verwerkte gegevens rechtstreeks geautomatiseerd worden vergeleken met bij algemene maatregel van bestuur, op voordracht van Onze minister van Defensie en Onze minister van Justitie gezamenlijk, te bepalen categorieën van politiegegevens teneinde vast te stellen of verbanden bestaan tussen de betreffende gegevens. De gerelateerde gegevens kunnen daarvoor rechtstreeks worden verstrekt aan ambtenaren werkzaam bij de Militaire Inlichtingen- en Veiligheidsdienst waarbij in bepaalde, door een lid van het College van procureurs-generaal en het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst gezamenlijk vast te stellen gevallen, op een gezamenlijk vast te stellen wijze, daarvan kennis wordt gegeven aan het lid van het openbaar ministerie als bedoeld in [artikel 38 van de Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md).   
+1.  Voor zover dat noodzakelijk is voor de uitvoering van de taak, bedoeld in [artikel 6, tweede lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md), kunnen door de Algemene Inlichtingen- en Veiligheidsdienst verwerkte gegevens rechtstreeks geautomatiseerd worden vergeleken met bij algemene maatregel van bestuur, op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Veiligheid en Justitie gezamenlijk, te bepalen categorieën van politiegegevens teneinde vast te stellen of verbanden bestaan tussen de betreffende gegevens. De gerelateerde gegevens kunnen daarvoor rechtstreeks worden verstrekt aan ambtenaren werkzaam bij de Algemene Inlichtingen- en Veiligheidsdienst waarbij in bepaalde, door een lid van het College van procureurs-generaal en het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst gezamenlijk vast te stellen gevallen, op een gezamenlijk vast te stellen wijze, daarvan kennis wordt gegeven aan het lid van het openbaar ministerie als bedoeld in [artikel 38 van de Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md).   
+2.  Voor zover dat noodzakelijk is voor de uitvoering van de taak, bedoeld in [artikel 7, tweede lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md), kunnen door de Militaire Inlichtingen- en Veiligheidsdienst verwerkte gegevens rechtstreeks geautomatiseerd worden vergeleken met bij algemene maatregel van bestuur, op voordracht van Onze Minister van Defensie en Onze Minister van Veiligheid en Justitie gezamenlijk, te bepalen categorieën van politiegegevens teneinde vast te stellen of verbanden bestaan tussen de betreffende gegevens. De gerelateerde gegevens kunnen daarvoor rechtstreeks worden verstrekt aan ambtenaren werkzaam bij de Militaire Inlichtingen- en Veiligheidsdienst waarbij in bepaalde, door een lid van het College van procureurs-generaal en het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst gezamenlijk vast te stellen gevallen, op een gezamenlijk vast te stellen wijze, daarvan kennis wordt gegeven aan het lid van het openbaar ministerie als bedoeld in [artikel 38 van de Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md).   
 3.  Artikel 23, derde lid, is van overeenkomstige toepassing.   
 
 ### §  4  
@@ -397,7 +393,7 @@ b. bij algemene maatregel van bestuur aan te wijzen beslissingen.
 
 ####(verzoek om kennisneming)
 
-1.  De verantwoordelijke deelt een ieder op diens schriftelijke verzoek binnen zes weken mede of, en zo ja welke, deze persoon betreffende politiegegevens verwerking ondergaan. Hij verstrekt daarbij tevens desgevraagd inlichtingen over de vraag of de deze persoon betreffende politiegegevens gedurende een periode van vier jaar voorafgaande aan het verzoek zijn verstrekt en over de ontvangers of categorieën van ontvangers aan wie de gegevens zijn verstrekt. De verantwoordelijke kan zijn beslissing voor ten hoogste vier weken verdagen, dan wel voor ten hoogste zes weken indien blijkt dat ook bij andere politiekorpsen politiegegevens over de verzoeker worden verwerkt. Van de verdaging wordt schriftelijk mededeling gedaan.   
+1.  De verantwoordelijke deelt een ieder op diens schriftelijke verzoek binnen zes weken mede of, en zo ja welke, deze persoon betreffende politiegegevens verwerking ondergaan. Hij verstrekt daarbij tevens desgevraagd inlichtingen over de vraag of de deze persoon betreffende politiegegevens gedurende een periode van vier jaar voorafgaande aan het verzoek zijn verstrekt en over de ontvangers of categorieën van ontvangers aan wie de gegevens zijn verstrekt. De verantwoordelijke kan zijn beslissing voor ten hoogste vier weken verdagen, dan wel voor ten hoogste zes weken indien blijkt dat bij verschillende regionale of landelijke eenheden van de politie politiegegevens over de verzoeker worden verwerkt. Van de verdaging wordt schriftelijk mededeling gedaan.   
 2.  Bij regeling van Onze Ministers kunnen nadere regels worden gesteld over het verzoek en de wijze van kennisneming.   
 
 ### Artikel  26  
@@ -433,11 +429,11 @@ c. de veiligheid van de staat.
 
 ####(toepasselijkheid [Awb](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md))
 
-1.  Een beslissing op een verzoek als bedoeld in artikel 25 of 28 geldt als een besluit in de zin van de [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). [Afdeling 7.1 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
+1.  Een beslissing op een verzoek als bedoeld in artikel 25 of 28 geldt als een besluit in de zin van de [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 2.  De [artikelen 47](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [48 van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) zijn van overeenkomstige toepassing.   
-3.  In klachtprocedures waarbij de verantwoordelijke of onder zijn verantwoordelijkheid werkzame personen ingevolge [artikel 9:31 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden verplicht tot het verstrekken van inlichtingen of het overleggen van stukken aan de Nationale ombudsman met betrekking tot politiegegevens die zijn te herleiden tot een informant als bedoeld in artikel 12, zevende lid, kan Onze Minister van Justitie beslissen dat [artikel 9:31, vijfde en zesde lid, van die wet](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) buiten toepassing blijft.   
-4.  Indien Onze Minister van Justitie heeft beslist dat [artikel 9:31, vijfde en zesde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) buiten toepassing blijft en de verantwoordelijke of onder zijn verantwoordelijkheid werkzame personen worden verplicht tot het overleggen van stukken, wordt volstaan met het ter inzage geven van de desbetreffende stukken. Van de desbetreffende stukken wordt op generlei wijze een afschrift vervaardigd.   
-5.  In procedures inzake beslissingen als bedoeld in het eerste lid waarbij de verantwoordelijke of onder zijn verantwoordelijkheid werkzame personen ingevolge [artikel 8:27](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:28](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of [8:45 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden verplicht tot het verstrekken van inlichtingen of het overleggen van stukken met betrekking tot politiegegevens die zijn te herleiden tot een informant als bedoeld in artikel 12, zevende lid, kan Onze Minister van Justitie beslissen dat [artikel 8:29, derde tot en met vijfde lid, van die wet](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) buiten toepassing blijft. Indien aan de rechtbank stukken dienen te worden overgelegd, wordt alsdan met het ter inzage geven van de desbetreffende stukken volstaan. Van de desbetreffende stukken wordt op generlei wijze een afschrift vervaardigd. Indien Onze Minister van Justitie de rechtbank mededeelt dat uitsluitend zij kennis zal mogen nemen van de inlichtingen onderscheidenlijk de stukken, kan de rechtbank slechts met toestemming van de andere partijen mede op grondslag van die inlichtingen of stukken uitspraak doen.   
+3.  In klachtprocedures waarbij de verantwoordelijke of onder zijn verantwoordelijkheid werkzame personen ingevolge [artikel 9:31 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden verplicht tot het verstrekken van inlichtingen of het overleggen van stukken aan de Nationale ombudsman met betrekking tot politiegegevens die zijn te herleiden tot een informant als bedoeld in artikel 12, zevende lid, kan Onze Minister van Veiligheid en Justitie beslissen dat artikel 9:31, vijfde en zesde lid, van die wet buiten toepassing blijft.   
+4.  Indien Onze Minister van Veiligheid en Justitie heeft beslist dat [artikel 9:31, vijfde en zesde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) buiten toepassing blijft en de verantwoordelijke of onder zijn verantwoordelijkheid werkzame personen worden verplicht tot het overleggen van stukken, wordt volstaan met het ter inzage geven van de desbetreffende stukken. Van de desbetreffende stukken wordt op generlei wijze een afschrift vervaardigd.   
+5.  In procedures inzake beslissingen als bedoeld in het eerste lid waarbij de verantwoordelijke of onder zijn verantwoordelijkheid werkzame personen ingevolge [artikel 8:27](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:28](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of [8:45 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden verplicht tot het verstrekken van inlichtingen of het overleggen van stukken met betrekking tot politiegegevens die zijn te herleiden tot een informant als bedoeld in artikel 12, zevende lid, kan Onze Minister van Veiligheid en Justitie beslissen dat [artikel 8:29, derde tot en met vijfde lid, van die wet](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) buiten toepassing blijft. Indien aan de rechtbank stukken dienen te worden overgelegd, wordt alsdan met het ter inzage geven van de desbetreffende stukken volstaan. Van de desbetreffende stukken wordt op generlei wijze een afschrift vervaardigd. Indien Onze Minister van Veiligheid en Justitie de rechtbank mededeelt dat uitsluitend zij kennis zal mogen nemen van de inlichtingen onderscheidenlijk de stukken, kan de rechtbank slechts met toestemming van de andere partijen mede op grondslag van die inlichtingen of stukken uitspraak doen.   
 
 ### Artikel  30  
 
@@ -541,11 +537,11 @@ a. politietaak: de taken, bedoeld in [artikel 5 van de Rijkswet politie van Cura
 
 b. verantwoordelijke: dit is bij: 
 
-1°. het politiekorps: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
+1°. het politiekorps: Onze Minister van Veiligheid en Justitie;  
 
 2°. de Koninklijke marechaussee: Onze Minister van Defensie;  
 
-3°. de buitengewone agenten van politie: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, in overeenstemming met Onze Minister van Justitie;    
+3°. de buitengewone agenten van politie: Onze Minister van Veiligheid en Justitie;    
 
 c. ambtenaar van politie: de ambtenaar, belast met de uitvoering van de taken, bedoeld onder a, alsmede de buitengewone agenten van politie, bedoeld in [artikel 10 van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) voor zover zij werkzaam zijn ter uitvoering van de politietaken.    
 
@@ -563,7 +559,7 @@ c. artikel 10, eerste lid, onder a, sub 1° en 3° wordt in plaats van « [artik
 
 d. de artikelen 10, tweede lid, onder d, derde lid, onder c, vierde lid, onder c, en 12, derde lid, onder c, wordt in plaats van «buitengewoon opsporingsambtenaren als bedoeld in [artikel 142, eerste lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) » gelezen: de buitengewone agenten van politie, bedoeld in [artikel 184, eerste lid, van het Wetboek van Strafvordering BES](../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md);  
 
-e. de artikelen 11, vierde lid, 14, derde lid, en 19, aanhef, wordt in plaats van « [Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md) bevoegde gezag» gelezen: [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) bevoegde gezag op Bonaire, Sint Eustatius of Saba;  
+e. de artikelen 11, vierde lid, 14, derde lid, 19, aanhef, en 20, eerste lid, wordt in plaats van «het bevoegd gezag, bedoeld in de [artikelen 11](../../../../wet/politiewet/2012/BWBR0031788/README.md), [12](../../../../wet/politiewet/2012/BWBR0031788/README.md) en [14 van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md) » gelezen: het bevoegd gezag, bedoeld in de [artikelen 16](../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) en [17 van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) en [artikel 8 van de Veiligheidswet BES](../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md);  
 
 f. artikel 14, vierde lid, wordt in plaats van « [artikel 15 van de Archiefwet 1995](../../../../wet/archiefwet/1995/BWBR0007376/README.md) » gelezen: [artikel 20 van de Archiefwet BES](../../../../wet-BES/archiefwet/bes/BWBR0028369/README.md);  
 
@@ -571,11 +567,11 @@ g. artikel 17, derde lid, wordt in plaats van «het Europese deel van Nederland�
 
 h. de artikelen 18, tweede lid, 32, tweede lid, 33, tweede lid en 34, vierde lid, wordt in plaats van «het College bescherming persoonsgegevens» gelezen: de Commissie van toezicht bescherming persoonsgegevens BES, bedoeld in [artikel 44 van de Wet bescherming persoonsgegevens BES](../../../../wet-BES/wet/bescherming/persoonsgegevens/bes/BWBR0028067/README.md);  
 
-i. artikel 20, eerste lid, wordt in plaats van « [Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md) bevoegd gezag» gelezen: [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) bevoegde gezag op Bonaire, Sint Eustatius of Saba;  
+i. artikel 23, eerste lid, wordt in plaats van «openbaar ministerie als bedoeld in artikel 16, eerste lid, onderdeel b,» gelezen: openbaar ministerie van Bonaire, Sint Eustatius en Saba;  
 
-j. artikel 23, eerste lid, wordt in plaats van «openbaar ministerie als bedoeld in artikel 16, eerste lid, onderdeel b,» gelezen: openbaar ministerie van Bonaire, Sint Eustatius en Saba;  
+j. artikel 24, eerste en tweede lid, wordt in plaats van «een lid van het College van procureurs-generaal» gelezen: de procureur-generaal, bedoeld in [artikel 2 van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../rijkswet/rijkswet/openbare/ministeries/van/curaçao/van/sint/maarten/en/van/bonaire/etc/BWBR0028072/README.md);  
 
-k. artikel 24, eerste en tweede lid, wordt in plaats van «een lid van het College van procureurs-generaal» gelezen: de procureur-generaal, bedoeld in [artikel 2 van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../rijkswet/rijkswet/openbare/ministeries/van/curaçao/van/sint/maarten/en/van/bonaire/etc/BWBR0028072/README.md);  
+k. artikel 25, eerste lid, wordt in plaats van «bij verschillende regionale of landelijke eenheden van de politie» gelezen: bij regionale of landelijke eenheden van de politie, bedoeld in [artikel 25 van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
 l. artikel 28, tweede lid, wordt in plaats van « [Artikel 37, eerste lid, van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) » gelezen: [Artikel 29, eerste lid, van de Wet bescherming persoonsgegevens BES](../../../../wet-BES/wet/bescherming/persoonsgegevens/bes/BWBR0028067/README.md).     
 2.  De artikelen 1, onder h, 17a, 35, 36 en 46 zijn niet van toepassing.   
@@ -590,7 +586,7 @@ a. leden van het openbaar ministerie van Bonaire, Sint Eustatius en Saba, voor z
 
 b. de gezaghebber, voor zover hij deze behoeft in verband met het gezag en zeggenschap over de politie;  
 
-c. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Defensie voor zover zij deze behoeven in verband met: 
+c. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, Onze Minister van Veiligheid en Justitie en Onze Minister van Defensie voor zover zij deze behoeven in verband met: 
 
 1°. het verrichten van onderzoek naar aanleiding van klachten als bedoeld in [artikel 18 van de Veiligheidswet BES](../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md), of  
 
@@ -613,7 +609,7 @@ c. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister 
 
 1.  In afwijking van artikel 29 geldt een beslissing op een verzoek als bedoeld in artikel 25 of 28 gericht aan de verantwoordelijke, bedoeld in artikel 36b, eerste lid, onder b, als een beschikking als bedoeld in [artikel 3 van de Wet administratieve rechtspraak BES](../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md).   
 2.  De [artikelen 38](../../../../wet-BES/wet/bescherming/persoonsgegevens/bes/BWBR0028067/README.md) en [39 van de Wet bescherming persoonsgegevens BES](../../../../wet-BES/wet/bescherming/persoonsgegevens/bes/BWBR0028067/README.md) zijn van overeenkomstige toepassing.   
-3.  In procedures inzake beslissingen als bedoeld in het eerste lid waarbij de verantwoordelijke of onder zijn verantwoordelijkheid werkzame personen ingevolge [artikel 37 van de Wet administratieve rechtspraak BES](../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) worden verplicht tot het geven van inlichtingen met betrekking tot politiegegevens die zijn te herleiden tot een informant als bedoeld in artikel 12, zevende lid, kan Onze Minister van Justitie beslissen dat hieraan geen uitvoering wordt gegeven. Artikel 29, vijfde lid, tweede en derde zin, is van overeenkomstige toepassing.   
+3.  In procedures inzake beslissingen als bedoeld in het eerste lid waarbij de verantwoordelijke of onder zijn verantwoordelijkheid werkzame personen ingevolge [artikel 37 van de Wet administratieve rechtspraak BES](../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) worden verplicht tot het geven van inlichtingen met betrekking tot politiegegevens die zijn te herleiden tot een informant als bedoeld in artikel 12, zevende lid, kan Onze Minister van Veiligheid en Justitie beslissen dat hieraan geen uitvoering wordt gegeven. Artikel 29, vijfde lid, tweede en derde zin, is van overeenkomstige toepassing.   
 
 ### Artikel  36g  
 

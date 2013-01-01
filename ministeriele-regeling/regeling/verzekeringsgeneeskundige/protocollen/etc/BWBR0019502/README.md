@@ -20,13 +20,15 @@ In deze regeling wordt verstaan onder:
 
 – WAZ: [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  
 
-– Wet WIA: [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).    
+– Wet WIA: [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
+
+– ZW: [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md).    
 
 ### Artikel  2  
 
 ####Toepassen protocollen
 
-Bij de beoordeling van arbeidsongeschiktheid als bedoeld in de [Wet Wajong](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [WAZ](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) of [WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of volledige en duurzame arbeidsongeschiktheid , gedeeltelijke arbeidsgeschiktheid of van wat iemand met arbeid kan verdienen als bedoeld in de [Wet WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of de [Wet Wajong](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), waarbij sprake is van de in artikel 3 genoemde diagnoses, maakt de verzekeringsarts als hulpmiddel gebruik van de in de bijlagen bij deze regeling vastgelegde wetenschappelijke inzichten met betrekking tot die diagnoses.  
+Bij de beoordeling van arbeidsongeschiktheid als bedoeld in de [Wet Wajong](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [WAZ](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) of [WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of volledige en duurzame arbeidsongeschiktheid , gedeeltelijke arbeidsgeschiktheid of van wat iemand met arbeid kan verdienen als bedoeld in de [ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of de [Wet Wajong](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), waarbij sprake is van de in artikel 3 genoemde diagnoses, maakt de verzekeringsarts als hulpmiddel gebruik van de in de bijlagen bij deze regeling vastgelegde wetenschappelijke inzichten met betrekking tot die diagnoses.  
 
 ### Artikel  3  
 

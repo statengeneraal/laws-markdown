@@ -85,17 +85,17 @@ c. het bevorderen van maatregelen ter bescherming van de onder a genoemde belang
 
 d. het verrichten van onderzoek betreffende andere landen ten aanzien van onderwerpen die door Onze Minister-President, Minister van Algemene Zaken, in overeenstemming met Onze betrokken Ministers zijn aangewezen;  
 
-e. het opstellen van dreigings- en risicoanalyses op verzoek van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Justitie gezamenlijk ten behoeve van de beveiliging van de personen, bedoeld in de [artikelen 6, derde lid, onderdeel b](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), en [38, eerste lid, onderdeel c, van de Politiewet 1993](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) en de bewaking en de beveiliging van de objecten en de diensten die zijn aangewezen op grond van [artikel 15a van die wet](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md).     
+e. het opstellen van dreigings- en risicoanalyses op verzoek van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Veiligheid en Justitie gezamenlijk ten behoeve van de beveiliging van de personen, bedoeld in de [artikelen 4, derde lid, onderdeel b](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), en [42, eerste lid, onder c, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) en de bewaking en de beveiliging van de objecten en de diensten die zijn aangewezen op grond van [artikel 16 van die wet](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).     
 
 ### Artikel  6a  
 
 1.  De dreigings- en risicoanalyses, bedoeld in artikel 6, tweede lid, onderdeel e, worden opgesteld naar aanleiding van gegevens die worden verstrekt door: 
 
-a. de personen, bedoeld in de [artikelen 6, derde lid, onderdeel b](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), en [38, eerste lid, onderdeel c, van de Politiewet 1993](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+a. de personen, bedoeld in de [artikelen 4, derde lid, onder b](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), en [42, eerste lid, onder c, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
-b. degenen die belast zijn met de behartiging van de belangen van de personen, bedoeld in de [artikelen 6, derde lid, onderdeel b](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), en [38, eerste lid, onderdeel c, van de Politiewet 1993](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+b. degenen die belast zijn met de behartiging van de belangen van de personen, bedoeld in de [artikelen 4, derde lid, onder b](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), en [42, eerste lid, onder c, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
-c. degenen die belast zijn met de behartiging van de belangen van de objecten of de diensten, die zijn aangewezen op grond van [artikel 15a van de Politiewet 1993](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+c. degenen die belast zijn met de behartiging van de belangen van de objecten of de diensten, die zijn aangewezen op grond van [artikel 16 van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
 d. de diensten;  
 
@@ -133,17 +133,17 @@ d. het bevorderen van maatregelen ter bescherming van de onder c genoemde belang
 
 e. het verrichten van onderzoek betreffende andere landen, ten aanzien van onderwerpen met een militaire relevantie die door Onze Minister-President, Minister van Algemene Zaken, in overeenstemming met Onze betrokken Ministers, zijn aangewezen;  
 
-f. het opstellen van dreigingsanalyses op verzoek van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Justitie gezamenlijk ten behoeve van de beveiliging van de personen, bedoeld in de [artikelen 6, derde lid, onderdeel b](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), en [38, eerste lid, onderdeel c, van de Politiewet 1993](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) en de bewaking en de beveiliging van de objecten en de diensten die zijn aangewezen op grond van [artikel 15a van die wet](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), voor zover het betreft personen, objecten en diensten met een militaire relevantie.     
+f. het opstellen van dreigingsanalyses op verzoek van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Veiligheid en Justitie gezamenlijk ten behoeve van de beveiliging van de personen, bedoeld in de [artikelen 4, derde lid, onderdeel b](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), en [42, eerste lid, onder c, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) en de bewaking en de beveiliging van de objecten en de diensten die zijn aangewezen op grond van [artikel 16 van die wet](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), voor zover het betreft personen, objecten en diensten met een militaire relevantie.     
 
 ### Artikel  7a  
 
 1.  De dreigingsanalyses, bedoeld in artikel 7, tweede lid, onderdeel f, worden opgesteld naar aanleiding van gegevens die worden verstrekt door: 
 
-a. de personen, bedoeld in de [artikelen 6, derde lid, onderdeel b](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), en [38, eerste lid, onderdeel c, van de Politiewet 1993](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+a. de personen, bedoeld in de [artikelen 4, derde lid, onder b](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), en [42, eerste lid, onder c, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
-b. degenen die belast zijn met de behartiging van de belangen van de personen, bedoeld in de [artikelen 6, derde lid, onderdeel b](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), en [38, eerste lid, onderdeel c, van de Politiewet 1993](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+b. degenen die belast zijn met de behartiging van de belangen van de personen, bedoeld in de [artikelen 4, derde lid, onder b](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), en [42, eerste lid, onder c, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
-c. degenen die belast zijn met de behartiging van de belangen van de objecten of de diensten, die zijn aangewezen op grond van [artikel 15a van de Politiewet 1993](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+c. degenen die belast zijn met de behartiging van de belangen van de objecten of de diensten, die zijn aangewezen op grond van [artikel 16 van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
 d. de diensten;  
 
@@ -251,7 +251,7 @@ g. omtrent wie dat noodzakelijk is in het kader van een onderzoek als bedoeld in
 
 h. omtrent wie dat noodzakelijk is in het kader van het opstellen van de dreigingsanalyses, bedoeld in artikel 7, tweede lid, onderdeel f;  
 
-i. omtrent wie dat noodzakelijk is in het kader van het opstellen van een analyse door de Militaire Inlichtingen- en Veiligheidsdienst, in opdracht van onze minister van Defensie, van potentiële dreigingen tegen een bij de krijgsmacht werkzaam persoon of een bij de krijgsmacht in gebruik zijnd object, welke niet ingevolge de [artikelen 6, derde lid, onderdeel b](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), en [38, eerste lid, onderdeel c](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), respectievelijk [artikel 15a van de Politiewet 1993](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) is aangewezen.     
+i. omtrent wie dat noodzakelijk is in het kader van het opstellen van een analyse door de Militaire Inlichtingen- en Veiligheidsdienst, in opdracht van onze minister van Defensie, van potentiële dreigingen tegen een bij de krijgsmacht werkzaam persoon of een bij de krijgsmacht in gebruik zijnd object, welke niet ingevolge de [artikelen 4, derde lid, onderdeel b](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), en [42, eerste lid, onderdeel c](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), onderscheidenlijk [artikel 16 van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) is aangewezen.     
 3.  De verwerking van persoonsgegevens wegens iemands godsdienst of levensovertuiging, ras, gezondheid en seksuele leven vindt niet plaats.   
 4.  De verwerking van persoonsgegevens die betrekking hebben op de in het derde lid bedoelde kenmerken vindt slechts plaats in aanvulling op de verwerking van andere gegevens en slechts voor zover dat voor het doel van de gegevensverwerking onvermijdelijk is.   
 
@@ -350,7 +350,7 @@ a. onder welke omstandigheden deze ter uitvoering van de instructie handelingen 
 
 b. de wijze waarop aan de instructie uitvoering dient te worden gegeven, waaronder begrepen de aard van de handelingen, die door de desbetreffende persoon daarbij zullen mogen worden verricht, voor zover deze bij het geven van de instructie zijn te voorzien.     
 6.  De instructie aan de natuurlijke persoon, bedoeld in het eerste lid, onder a, wordt schriftelijk vastgelegd.   
-7.  Bij of krachtens algemene maatregel van bestuur, op voordracht van Onze betrokken Ministers en Onze Minister van Justitie gezamenlijk, kunnen nadere regels worden gesteld met betrekking tot: 
+7.  Bij of krachtens algemene maatregel van bestuur, op voordracht van Onze betrokken Ministers en Onze Minister van Veiligheid en Justitie gezamenlijk, kunnen nadere regels worden gesteld met betrekking tot: 
 
 a. de voorwaarden waaronder en de gevallen waarin ter uitvoering van een instructie door een natuurlijke persoon als bedoeld in het eerste lid, onderdeel a, handelingen mogen worden verricht die tot gevolg kunnen hebben dat medewerking wordt verleend aan het plegen van een strafbaar feit, dan wel een strafbaar feit wordt gepleegd;  
 
@@ -378,7 +378,7 @@ b. de reden waarom de woning dient te worden doorzocht.
 
 ### Artikel  23  
 
-1.  De diensten zijn bevoegd tot het openen van brieven en andere geadresseerde zendingen, zonder goedvinden van de afzender of de geadresseerde, indien de rechtbank te Den Haag daartoe, op verzoek van het hoofd van de dienst, een last heeft afgegeven.   
+1.  De diensten zijn bevoegd tot het openen van brieven en andere geadresseerde zendingen, zonder goedvinden van de afzender of de geadresseerde, indien de rechtbank Den Haag daartoe, op verzoek van het hoofd van de dienst, een last heeft afgegeven.   
 2.  Voor de uitoefening van de bevoegdheid, bedoeld in het eerste lid, is geen toestemming vereist als bedoeld in artikel 19.   
 3.  Het verzoek, bedoeld in het eerste lid, door het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst ten aanzien van brieven en andere geadresseerde zendingen, waarvan het adres van de afzender of de geadresseerde niet overeenstemt met een adres van een plaats in gebruik van het Ministerie van Defensie, wordt gedaan in overeenstemming met het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst.   
 4.  Het verzoek om een last, bedoeld in het eerste lid, bevat ten minste: 
@@ -791,10 +791,6 @@ g. het voorkomen van onevenredige bevoordeling of benadeling van bij de aangeleg
 
 ####Beroep
 
-### Artikel  57  
-
-In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten op grond van dit hoofdstuk de rechtbank te 's-Gravenhage bevoegd.  
-
 ### Hoofdstuk  5  
 
 ####Samenwerking tussen diensten en met andere instanties
@@ -836,10 +832,10 @@ b. een goede taakuitvoering door de diensten zich niet tegen de verlening van de
 
 ### Artikel  60  
 
-1.  De korpschef van een politiekorps, de commandant van de Koninklijke marechaussee, de directeur-generaal van de rijksbelastingdienst van het Ministerie van Financiën verrichten werkzaamheden ten behoeve van de Algemene Inlichtingen- en Veiligheidsdienst.   
-2.  Onze Ministers onder wie de in het eerste lid genoemde ambtenaren ressorteren, onderscheidenlijk de korpsbeheerders van een regionaal politiekorps en de korpsbeheerder van het politiekorps van Bonaire, Sint Eustatius en Saba wijzen in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ondergeschikten van deze ambtenaren aan tot de feitelijke uitvoering van en het toezicht op de aldaar bedoelde werkzaamheden.   
+1.  De korpschef, de politiechef van een regionale eenheid, de commandant van de Koninklijke marechaussee, de directeur-generaal van de rijksbelastingdienst van het Ministerie van Financiën verrichten werkzaamheden ten behoeve van de Algemene Inlichtingen- en Veiligheidsdienst.   
+2.  Onze Ministers onder wie de in het eerste lid genoemde ambtenaren ressorteren, onderscheidenlijk de korpschef en de korpsbeheerder van het politiekorps van Bonaire, Sint Eustatius en Saba wijzen in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ondergeschikten van deze ambtenaren aan tot de feitelijke uitvoering van en het toezicht op de aldaar bedoelde werkzaamheden.   
 3.  De in dit artikel bedoelde werkzaamheden worden verricht onder verantwoordelijkheid van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en overeenkomstig de aanwijzingen van het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst.   
-4.  Met betrekking tot het optreden van ambtenaren van politie ter uitvoering van de in dit artikel bedoelde werkzaamheden blijft [hoofdstuk X van de Politiewet 1993](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) buiten toepassing.   
+4.  Met betrekking tot het optreden van ambtenaren van politie ter uitvoering van de in dit artikel bedoelde werkzaamheden blijft [hoofdstuk 7 van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) buiten toepassing.   
 
 ### Artikel  61  
 
@@ -848,12 +844,12 @@ b. een goede taakuitvoering door de diensten zich niet tegen de verlening van de
 
 ### Artikel  62  
 
-De ambtenaren van politie, de ambtenaren van de rijksbelastingdienst, bevoegd inzake de douane en de ambtenaren van de Koninklijke marechaussee doen mededeling van de te hunner kennis gekomen gegevens die voor een dienst van belang kunnen zijn, aan de in artikel 60, eerste lid, bedoelde ambtenaar aan wie zij ondergeschikt zijn. Deze zendt de gegevens aan die dienst.  
+De ambtenaren van politie, de ambtenaren van de rijksbelastingdienst, bevoegd inzake de douane en de ambtenaren van de Koninklijke marechaussee doen mededeling van de te hunner kennis gekomen gegevens die voor een dienst van belang kunnen zijn, aan de in artikel 60, eerste lid, bedoelde ambtenaar aan wie zij ondergeschikt zijn. In afwijking van de eerste zin vindt de mededeling van ambtenaren van politie die zijn tewerkgesteld bij een regionale eenheid plaats aan de politiechef van de desbetreffende regionale eenheid. De in artikel 60, eerste lid, bedoelde ambtenaar waaraan de mededeling is gedaan, zendt de gegevens aan die dienst.  
 
 ### Artikel  63  
 
 1.  De diensten zijn bevoegd op schriftelijk verzoek van het daartoe bevoegde gezag tot het verlenen van technische ondersteuning aan de met opsporing van strafbare feiten belaste instanties. Artikel 58, derde lid, is van overeenkomstige toepassing.   
-2.  Onze betrokken Minister is bevoegd zich te wenden tot Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties met het schriftelijke verzoek tot het verlenen van technische ondersteuning aan de betrokken dienst bij de uitvoering van diens taak door het Korps Landelijke Politiediensten. Artikel 58, derde lid, is van overeenkomstige toepassing.   
+2.  Onze betrokken Minister is bevoegd zich te wenden tot Onze Minister van Veiligheid en Justitie met het schriftelijke verzoek tot het verlenen van technische ondersteuning aan de betrokken dienst bij de uitvoering van diens taak door een of meerdere landelijke eenheden van de politie. Artikel 58, derde lid, is van overeenkomstige toepassing.   
 
 ### Hoofdstuk  6  
 
@@ -918,7 +914,7 @@ a. hij zich in voorlopige hechtenis bevindt;
 b. hij bij een nog niet onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld, dan wel hem bij zulk een uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;  
 
 c. hij onder curatele is gesteld, in staat van faillissement is verklaard, surseance van betaling heeft verkregen of wegens schulden is gegijzeld ingevolge een nog niet onherroepelijk geworden rechterlijke uitspraak.     
-2.  Door Onze betrokken Ministers gezamenlijk kan een lid van de commissie op non-actief worden gesteld, indien tegen hem een gerechtelijk vooronderzoek ter zake van een misdrijf wordt ingesteld of indien er een ander ernstig vermoeden is voor het bestaan van feiten of omstandigheden die tot ontslag, anders dan op gronden vermeld in artikel 66, onder b, zouden kunnen leiden.   
+2.  Door Onze betrokken Ministers gezamenlijk kan een lid van de commissie op non-actief worden gesteld, indien hij wordt vervolgd wegens een misdrijf of indien er een ander ernstig vermoeden is voor het bestaan van feiten of omstandigheden die tot ontslag, anders dan op gronden vermeld in artikel 66, onder b, zouden kunnen leiden.   
 3.  In het geval, bedoeld in het tweede lid, eindigt de non-activiteit na drie maanden. Door Onze betrokken Ministers gezamenlijk kan de non-activiteit telkens met ten hoogste drie maanden worden verlengd. De non-activiteit wordt door Onze betrokken Ministers gezamenlijk beëindigd zodra de grond voor non-activiteit is vervallen.   
 
 ### Artikel  68  
@@ -1052,7 +1048,7 @@ De artikelen 15 en 16 zijn van overeenkomstige toepassing op de commissie van to
 ### Artikel  86  
 
 1.  De verplichting tot geheimhouding van een ambtenaar die betrokken is bij de uitvoering van deze wet, geldt niet tegenover hem aan wie de ambtenaar middellijk of onmiddellijk ondergeschikt is, noch in zover hij door een boven hem gestelde van die verplichting is ontslagen.   
-2.  De ambtenaar, bedoeld in het eerste lid, die krachtens een wettelijke bepaling verplicht wordt als getuige of deskundige op te treden, legt slechts een verklaring af omtrent datgene waartoe zijn verplichting tot geheimhouding zich uitstrekt, voor zover Onze betrokken Minister en Onze Minister van Justitie gezamenlijk hem daartoe schriftelijk van de verplichting hebben ontheven. Daarbij wordt voor ambtenaren die in hun functie kennis hebben gekregen van gegevens die krachtens artikel 36, eerste lid, onder a en b, door een dienst zijn verstrekt als: «Onze betrokken Minister» aangemerkt: Onze Minister onder wie de dienst ressorteert die de gegevens heeft verstrekt.   
+2.  De ambtenaar, bedoeld in het eerste lid, die krachtens een wettelijke bepaling verplicht wordt als getuige of deskundige op te treden, legt slechts een verklaring af omtrent datgene waartoe zijn verplichting tot geheimhouding zich uitstrekt, voor zover Onze betrokken Minister en Onze Minister van Veiligheid en Justitie gezamenlijk hem daartoe schriftelijk van de verplichting hebben ontheven. Daarbij wordt voor ambtenaren die in hun functie kennis hebben gekregen van gegevens die krachtens artikel 36, eerste lid, onder a en b, door een dienst zijn verstrekt als: «Onze betrokken Minister» aangemerkt: Onze Minister onder wie de dienst ressorteert die de gegevens heeft verstrekt.   
 3.  Dit artikel is van overeenkomstige toepassing in het geval dat het betrokken zijn bij de uitvoering van deze wet is geëindigd.   
 
 ### Artikel  87  

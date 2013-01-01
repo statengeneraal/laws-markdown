@@ -13,7 +13,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder: 
 
-a. *ambtenaar van politie:* ambtenaar van politie, bedoeld in [artikel 3, eerste lid, onderdelen a en c, van de Politiewet 1993](../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+a. *ambtenaar van politie:* de ambtenaar van politie, bedoeld in [artikel 2, onder a, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md), en de ambtenaar van politie, bedoeld in artikel 2, onder c, van die wet, voor zover hij is belast met de uitvoering van de politietaak;  
 
 b. *huisverbod:* beschikking houdende een last tot het onmiddellijk verlaten van een bepaalde woning en een verbod tot het betreden van, zich ophouden bij of aanwezig zijn in die woning en een verbod om contact op te nemen met degenen die met de persoon tot wie de beschikking is gericht in dezelfde woning wonen of daarin anders dan incidenteel verblijven;  
 
@@ -31,7 +31,7 @@ a. een omschrijving van de plaats en de duur waarvoor het geldt;
 b. de feiten en omstandigheden die aanleiding hebben gegeven tot het opleggen van het huisverbod, en  
 
 c. de namen van de personen ten aanzien van wie het verbod om contact op te nemen geldt.     
-5.  Bij regeling van Onze Minister van Justitie kunnen nadere regels worden gegeven met betrekking tot het huisverbod.   
+5.  Bij ministeriële regeling kunnen nadere regels worden gegeven met betrekking tot het huisverbod.   
 6.  De uithuisgeplaatste geeft aan waar of op welke wijze hij bereikbaar is. Indien de uithuisgeplaatste dit niet terstond kan doorgeven, geeft hij dit binnen 24 uur nadat het huisverbod is opgelegd door aan de burgemeester.   
 7.  Indien de situatie dermate spoedeisend is dat het huisverbod niet tevoren op schrift kan worden gesteld, kan het huisverbod mondeling worden aangezegd. De burgemeester draagt alsnog zorg voor spoedige opschriftstelling en bekendmaking. Indien de verblijfplaats van de uithuisgeplaatste niet bekend is, kan bekendmaking plaatsvinden door nederlegging van het huisverbod bij de gemeentesecretarie.   
 8.  De burgemeester deelt onverwijld de inhoud van het huisverbod en de gevolgen van niet-naleving daarvan voor de uithuisgeplaatste mede aan degene met wie de uithuisgeplaatste een huishouden deelt. De burgemeester deelt de inhoud van het huisverbod ook mede aan de door de burgemeester aangewezen instantie voor advies of hulpverlening, en indien het huisverbod wordt opgelegd wegens kindermishandeling of een ernstig vermoeden daarvan aan de stichting, bedoeld in het derde lid.   
@@ -117,7 +117,7 @@ Wijzigt de Wet op de rechtsbijstand.
 
 ### Artikel  15  
 
-Onze Minister van Justitie en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zenden binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister van Veiligheid en Justitie zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
 
 ### Artikel  16  
 

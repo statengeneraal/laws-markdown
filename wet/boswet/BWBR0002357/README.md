@@ -68,10 +68,6 @@ Hij, die de eigendom van grond als bedoeld in artikel 3, eerste lid, overdraagt 
 
 ####Beroep
 
-### Artikel  8  
-
-Tegen een op grond van Afdeling II genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.  
-
 ### Afdeling  IV  
 
 ### Afdeling  V  

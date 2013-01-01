@@ -17,33 +17,29 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. aanhoudings- en ondersteuningseenheid: eenheid als bedoeld in [artikel 8, eerste lid, van het Besluit beheer regionale politiekorpsen](../../../../AMvB/besluit/beheer/regionale/politiekorpsen/BWBR0006560/README.md);  
+a. aanhoudings- en ondersteuningseenheid: eenheid als bedoeld in [artikel 18 van de Regeling beheer politie](../../../../ministeriele-regeling/regeling/beheer/politie/BWBR0032673/README.md);  
 
-b. ambtenaar van politie: ambtenaar als bedoeld in [artikel 3, eerste lid, van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+b. ambtenaar van politie: ambtenaar als bedoeld in [artikel 24, eerste en tweede lid, van het Besluit bewapening en uitrusting politie](../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md);  
 
-c. AOE-hond: hond in eigendom van een regio of de Staat met als doel in politiedienst te worden ingezet bij het optreden van een aanhoudings- en ondersteuningseenheid;  
+c. AOE-hond: hond als bedoeld in [artikel 23, onder b, van het Besluit bewapening en uitrusting politie](../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md);  
 
-d. explosieven: door de Minister van Justitie en de Minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen springstoffen;  
+d. explosieven: door de minister aangewezen springstoffen;  
 
-e. geleider: ambtenaar van politie die toestemming heeft van de korpsbeheerder of de beheerder van het Korps landelijke politiediensten om dienst te doen met een politiespeurhond, politiesurveillancehond of AOE-hond;  
+e. geleider: ambtenaar van politie die toestemming heeft van de korpschef om dienst te doen met een politiespeurhond, politiesurveillancehond of AOE-hond;  
 
 f. keuringsreglement: als bijlage opgenomen reglement op grond waarvan keuringen plaatsvinden;  
 
-g. minister: Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
+g. minister: Minister van Veiligheid en Justitie;  
 
-h. politiespeurhond: hond in eigendom van een regio of de Staat met als doel in politiedienst te worden ingezet voor de taken, genoemd in artikel 3;  
+h. politiespeurhond: hond als bedoeld in [artikel 23, onder c, van het Besluit bewapening en uitrusting politie](../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md);  
 
-i. politiesurveillancehond: hond in eigendom van een regio of de Staat met als doel in politiedienst te worden ingezet bij de surveillancedienst of het optreden van de mobiele eenheid;  
+i. politiesurveillancehond: hond als bedoeld in [artikel 23, onder a, van het Besluit bewapening en uitrusting politie](../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md);  
 
 j. verdovende middelen: producten vermeld op de bij de [Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) behorende [lijsten I](../../../../wet/opiumwet/BWBR0001941/README.md) en [II](../../../../wet/opiumwet/BWBR0001941/README.md).    
 
 ### Paragraaf  2  
 
 ####Algemene bepalingen
-
-### Artikel  2  
-
-Een politiespeurhond, een politiesurveillancehond en een AOE-hond staan onder toezicht van een geleider die beschikt over een geldig certificaat als bedoeld in artikel 13.  
 
 ### Artikel  3  
 
@@ -76,7 +72,7 @@ Bewapening met een AOE-hond geschiedt uitsluitend bij het optreden van een aanho
 ####Keuringscommissies
 
 1.  Er is een keuringscommissie voor de politiespeurhond, waarvan de leden worden aangewezen door de rijksgecommitteerden voor de politiespeurhond. De rijksgecommitteerden bepalen voor welke keuring van geleider en politiespeurhond de verschillende leden van de keuringscommissie worden ingezet.   
-2.  Er is een keuringscommissie voor de politiesurveillancehond waarvan de leden worden aangewezen door de rijksgecommitteerden voor de politiesurveillancehond, bedoeld in artikel 7. De aanwijzing vindt plaats nadat het aan te wijzen lid is aangemeld bij een door de korpschefs getroffen voorziening voor de organisatie en administratie van keuringen. Aanwijzing vindt niet plaats dan nadat het aan te wijzen lid het examen, bedoeld in het keuringsreglement voor de politiesurveillancehond, met goed gevolg heeft afgelegd.   
+2.  Er is een keuringscommissie voor de politiesurveillancehond waarvan de leden worden aangewezen door de rijksgecommitteerden voor de politiesurveillancehond, bedoeld in artikel 7. De aanwijzing vindt plaats nadat het aan te wijzen lid is aangemeld bij een door de korpschef getroffen voorziening voor de organisatie en administratie van keuringen. Aanwijzing vindt niet plaats dan nadat het aan te wijzen lid het examen, bedoeld in het keuringsreglement voor de politiesurveillancehond, met goed gevolg heeft afgelegd.   
 3.  Er is een keuringscommissie voor de AOE-hond waarvan de leden, uit de kring van leden van de keuringscommissie voor de politiesurveillancehond, worden aangewezen door de rijksgecommitteerden voor de AOE-hond, bedoeld in artikel 7.   
 4.  De leden van de keuringscommissie voor de politiespeurhond, van de keuringscommissie voor de politiesurveillancehond en van de keuringscommissie voor de AOE-hond zijn ambtenaar van politie. Van de keuringscommissie voor de politiespeurhond kunnen tevens lid zijn buitengewoon opsporingsambtenaren als bedoeld in [artikel 142 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
 5.  De leden van de keuringscommissie voor de politiespeurhonden, respectievelijk de keuringscommissie voor de politiesurveillancehond, respectievelijk de keuringscommissie voor de AOE-hond beschikken over een ruime dressuur-technische ervaring en praktische politie-ervaring op het gebied van de inzet en het gebruik van de politiespeurhond, respectievelijk de politiesurveillancehond, respectievelijk de AOE-hond. De leden van de keuringscommissie voor de politiespeurhond beschikken tevens over kennis van de toepasselijke bepalingen van het [Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
@@ -213,7 +209,7 @@ e. de toepasselijke bepalingen van het [Wetboek van Strafvordering](../../../../
 ####Keuringsvoorschriften politiesurveillancehond
 
 1.  Aan een keuring van een combinatie van een geleider en een politiesurveillancehond kunnen deelnemen ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, vanaf de rang van surveillant van politie die zijn aangewezen als geleider.   
-2.  De keuring van een combinatie van een geleider en een politiesurveillancehond geschiedt door de keuringscommissie voor de politiesurveillancehond op basis van het keuringsreglement voor de politiesurveillancehond, met dien verstande dat de leden die keuren afkomstig zijn uit een ander politiekorps dan het korps waar de geleider is aangesteld.   
+2.  De keuring van een combinatie van een geleider en een politiesurveillancehond geschiedt door de keuringscommissie voor de politiesurveillancehond op basis van het keuringsreglement voor de politiesurveillancehond, met dien verstande dat de leden die keuren afkomstig zijn uit een andere regionale of landelijke eenheid dan die waarin de geleider feitelijk is tewerkgesteld.   
 3.  Het keuringsreglement voor de politiesurveillancehond bevat tenminste de volgende eisen: 
 
 a. gehoorzaamheid van de politiesurveillancehond aan de geleider;  
@@ -311,6 +307,10 @@ De [Regeling politiesurveillancehonden 1999](../../../../ministeriele-regeling/r
 ### Artikel  19  
 
 De Regeling politiespeurhonden 1997 wordt ingetrokken.  
+
+### Artikel  19a  
+
+Deze regeling berust op [artikel 24, derde lid, van het Besluit bewapening en uitrusting politie](../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md).  
 
 ### Artikel  20  
 

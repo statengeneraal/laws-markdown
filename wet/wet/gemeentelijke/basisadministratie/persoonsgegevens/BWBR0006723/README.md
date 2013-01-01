@@ -534,15 +534,15 @@ Omtrent de beslissing dat een opgenomen algemeen gegeven onjuist is of, indien h
 
 ### Artikel  56  
 
-1.  De griffier van de rechtbank te 's-Gravenhage die in het curateleregister melding heeft gemaakt van een rechterlijke uitspraak waarbij met betrekking tot een persoon een voorziening in de curatele is getroffen, doet daarvan mededeling aan het college van burgemeester en wethouders van de gemeente van inschrijving, dan wel indien deze onbekend is, aan het college van burgemeester en wethouders van de gemeente 's-Gravenhage, onder vermelding welke persoon het betreft en de datum waarop de rechtsgeldigheid van de voorziening ingaat.   
+1.  De griffier van de rechtbank Den Haag die in het curateleregister melding heeft gemaakt van een rechterlijke uitspraak waarbij met betrekking tot een persoon een voorziening in de curatele is getroffen, doet daarvan mededeling aan het college van burgemeester en wethouders van de gemeente van inschrijving, dan wel indien deze onbekend is, aan het college van burgemeester en wethouders van de gemeente 's-Gravenhage, onder vermelding welke persoon het betreft en de datum waarop de rechtsgeldigheid van de voorziening ingaat.   
 2.  De in het eerste lid bedoelde griffier doet overeenkomstige mededeling van elke beslissing, houdende vernietiging van een rechterlijke uitspraak als bedoeld in het eerste lid, en van beëindiging van de curatele.   
-3.  De griffier van de rechtbank die in het gezagsregister aantekening heeft gehouden van een wijziging in het gezag dat over een minderjarige wordt uitgeoefend, welke van belang is voor de bijhouding van een basisadministratie, met betrekking tot de in artikel 34, eerste lid, onder *a*, sub 3°, bedoelde gegevens, doet van de wijziging mededeling aan het college van burgemeester en wethouders van de gemeente van inschrijving van de minderjarige, dan wel indien deze gemeente onbekend is, aan het college van burgemeester en wethouders van de gemeente waar de rechtbank is gevestigd.   
+3.  De griffier van de rechtbank die in het gezagsregister aantekening heeft gehouden van een wijziging in het gezag dat over een minderjarige wordt uitgeoefend, welke van belang is voor de bijhouding van een basisadministratie, met betrekking tot de in artikel 34, eerste lid, onder a, sub 3°, bedoelde gegevens, doet van de wijziging mededeling aan het college van burgemeester en wethouders van de gemeente van inschrijving van de minderjarige, dan wel indien deze gemeente onbekend is, aan het college van burgemeester en wethouders van de gemeente waar het bestuur van de rechtbank is gezeteld.   
 4.  De in het derde lid bedoelde mededeling geeft uitsluitend aan welke minderjarige het betreft, welke van de in bijlage I, onder 3, vermelde aantekeningen door de wijziging van toepassing wordt en welke niet meer van toepassing is, alsmede de datum waarop de wijziging ingaat.   
 
 ### Artikel  57  
 
 1.  Indien Onze Minister van Justitie in het openbaar register, bedoeld in [artikel 22, eerste lid, van de Rijkswet op het Nederlanderschap](../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), melding heeft gemaakt van het feit dat een persoon een verklaring tot verkrijging van het Nederlanderschap of een verklaring van afstand van het Nederlanderschap heeft afgelegd en de verklaring door de betrokkene niet in zijn gemeente van inschrijving is afgelegd, dan wel dat een persoon door verlening het Nederlanderschap heeft verkregen of door intrekking van het besluit waarbij het Nederlanderschap is verleend, het Nederlanderschap heeft verloren, doet hij daarvan mededeling aan het college van burgemeester en wethouders van de gemeente in de basisadministratie waarvan de betreffende persoon is ingeschreven. De mededeling bevat de datum waarop de verklaring in ontvangst is genomen of de datum waarop het Nederlanderschap is verkregen of verloren.   
-2.  De griffier van de rechtbank te 's-Gravenhage dan wel de griffier van de Hoge Raad zendt van een in kracht van gewijsde gegane rechterlijke uitspraak houdende de vaststelling van het Nederlanderschap of de vaststelling van het niet-bezitten van het Nederlanderschap, een afschrift aan het college van burgemeester en wethouders van de gemeente van inschrijving, dan wel indien deze onbekend is aan het college van burgemeester en wethouders van de gemeente 's-Gravenhage.   
+2.  De griffier van de rechtbank Den Haag dan wel de griffier van de Hoge Raad zendt van een in kracht van gewijsde gegane rechterlijke uitspraak houdende de vaststelling van het Nederlanderschap of de vaststelling van het niet-bezitten van het Nederlanderschap, een afschrift aan het college van burgemeester en wethouders van de gemeente van inschrijving, dan wel indien deze onbekend is aan het college van burgemeester en wethouders van de gemeente 's-Gravenhage.   
 
 ### Artikel  58  
 
@@ -764,7 +764,7 @@ f. niet te voldoen aan een verzoek als bedoeld in de artikelen 79 tot en met 82,
 ### Artikel  86  
 
 1.  Indien de rechter het beroep, ingesteld tegen een besluit als bedoeld in artikel 83, gegrond verklaart met toepassing van [artikel 8:72, vierde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), doet hij dat met inachtneming van het bepaalde bij of krachtens de eerste afdeling van dit hoofdstuk.   
-2.  Voor zover een besluit als bedoeld in artikel 83 het Nederlanderschap betreft, kan de betrokkene zich uitsluitend wenden tot de rechtbank te 's-Gravenhage met een verzoek als bedoeld in [artikel 17 van de Rijkswet op het Nederlanderschap](../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md).   
+2.  Voor zover een besluit als bedoeld in artikel 83 het Nederlanderschap betreft, kan de betrokkene zich uitsluitend wenden tot de rechtbank Den Haag met een verzoek als bedoeld in [artikel 17 van de Rijkswet op het Nederlanderschap](../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md).   
 
 ### Hoofdstuk  3  
 
@@ -846,7 +846,7 @@ De verstrekking van gegevens aan een buitengemeentelijke afnemer geschiedt koste
 ### Artikel  96  
 
 1.  Bij of krachtens gemeentelijke verordening worden de systematische verstrekking van gegevens aan binnengemeentelijke afnemers, de toegang van die afnemers tot de basisadministratie alsmede de verbanden tussen de basisadministratie en andere gegevensverzamelingen van de gemeente geregeld. Bij of krachtens deze verordening wordt in ieder geval voorzien in de verstrekking van gegevens uit de basisadministratie aan binnengemeentelijke afnemers, voor zover deze gegevens noodzakelijk zijn voor de vervulling van hun taak.   
-2.  Aan het regionale politiekorps worden door het college van burgemeester en wethouders van de gemeente die behoort tot de regio van het desbetreffende korps, op verzoek op dezelfde voet als aan de binnengemeentelijke afnemers gegevens verstrekt.   
+2.  Aan de politie worden door het college van burgemeester en wethouders op verzoek op dezelfde voet als aan de binnengemeentelijke afnemers gegevens verstrekt.   
 
 ### Afdeling  2  
 

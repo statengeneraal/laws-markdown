@@ -15,7 +15,7 @@ Besluit: Uitvoeringsregeling inkomstenbelasting 2001
 
 ####Reikwijdte en definitie
 
-1.  Deze regeling geeft uitvoering aan de [artikelen 1.5](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [1.7](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.2](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.5](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.14a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.10](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.13](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.16](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.17](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.20](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.22](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.27](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.55](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.56](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.57](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.63](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.83](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.87](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.104](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.119a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.138](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.152](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.154](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.7](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.14](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.17a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.17b](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.17c](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.41](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.51](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.14](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.15](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.17](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.18](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.18a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.14](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.15](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.17](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.23](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.26](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.31](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.33](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [7.2](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [8.9a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [8.14a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [8.14b](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [9.2](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [9.4](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [9.6](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10a.9 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), de [artikelen 14](../../../../../AMvB/uitvoeringsbesluit/inkomstenbelasting/2001/BWBR0012066/README.md) en [14a van het Uitvoeringsbesluit inkomstenbelasting 2001](../../../../../AMvB/uitvoeringsbesluit/inkomstenbelasting/2001/BWBR0012066/README.md) en [artikel XXXIII van het Belastingplan 2010](../../../../../wet/belastingplan/2010/BWBR0026958/README.md).   
+1.  Deze regeling geeft uitvoering aan de [artikelen 1.5](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [1.7](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.2](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.5](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.14a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.10](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.13](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.16](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.17](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.20](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.27](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.55](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.56](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.57](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.63](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.83](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.87](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.104](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.119aa](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.119g](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.138](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.152](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.154](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.7](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.14](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.17a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.17b](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.17c](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.41](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.51](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.14](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.14](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.15](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.17](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.23](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.26](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [7.2](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [8.9a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [8.14a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [8.14b](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [9.2](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [9.4](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [9.6](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [10bis.5](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10a.9 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), de [artikelen 14](../../../../../AMvB/uitvoeringsbesluit/inkomstenbelasting/2001/BWBR0012066/README.md) en [14a van het Uitvoeringsbesluit inkomstenbelasting 2001](../../../../../AMvB/uitvoeringsbesluit/inkomstenbelasting/2001/BWBR0012066/README.md) en [artikel XXXIII van het Belastingplan 2010](../../../../../wet/belastingplan/2010/BWBR0026958/README.md).   
 2.  Deze regeling verstaat onder: 
 
 a. wet: [Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
@@ -182,7 +182,7 @@ d. Mobiliteitsprojecten SLIM Prijzen en SLIM Prijzen Waalbrug als bedoeld in het
 
 e. Mobiliteitproject Beloningsmaatregel Utrecht Oost als bedoeld in het Uitvoeringsconvenant Mobiliteitsproject Beloningsmaatregel Utrecht Oost (Stcrt. 2009, 18120);  
 
-f. Mobiliteitsproject Spitsmijden A12-corridor.    
+f. Mobiliteitsproject Spitsmijden A12-corridor (Stcrt. 2011, 19634).    
 
 ### Artikel  7  
 
@@ -208,12 +208,6 @@ a. merk, type en kenteken van de auto;
 b. periode van terbeschikkingstelling van de auto;  
 
 c. per rit: 10. datum; 20. beginstand en eindstand van de kilometerteller; 30. beginadres en eindadres; 40. de gereden route indien deze afwijkt van de meest gebruikelijke; 50. het karakter van de rit.    
-
-### Artikel  9a  
-
-####Constatering van het niet afgenomen zijn van het aandeel van de netto-tonnage van bepaalde schepen
-
-Met betrekking tot het kalenderjaar 2012 wordt voor de toepassing van [artikel 3.22, zesde lid, onderdeel c, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) vastgesteld dat op landelijk niveau de netto-tonnage van kwalificerende schepen die de vlag voeren van een van de lidstaten van de Europese Unie of van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte als percentage van de netto-tonnage van kwalificerende schepen in de periode 2008 tot en met 2010 ten opzichte van de periode 2007 tot en met 2009 niet is afgenomen.  
 
 ### Artikel  10  
 
@@ -302,23 +296,31 @@ j. uitkeringen en verstrekkingen ingevolge de [Tijdelijke regeling voortzetting 
 2.  Als uitkeringen tot bestrijding van onderhoudskosten van thuiswonende gehandicapte kinderen, bedoeld in [artikel 3.104, onderdeel i, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), worden aangewezen: uitkeringen ingevolge de [Regeling tegemoetkoming onderhoudskosten thuiswonende gehandicapte kinderen 2000](../../../../../ministeriele-regeling/regeling/tegemoetkoming/ouders/van/thuiswonende/gehandicapte/kinderen/BWBR0010997/README.md).   
 3.  Als voorzieningen voor militaire oorlogs- of dienstslachtoffers die verband houden met invaliditeit als bedoeld in [artikel 3.104, onderdeel o, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen: voorzieningen in de zin van de [Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers](../../../../../ministeriele-regeling/voorzieningenregeling/voor/militaire/oorlogs-/en/dienstslachtoffers/BWBR0008406/README.md).   
 
-### Artikel  17bis  
-
-####Verdeling spaarrekening eigen woning en beleggingsrecht eigen woning bij meer dan één gerechtigde
-
-1.  Ingeval een spaarrekening eigen woning meer dan één rekeninghouder heeft, wordt het tegoed van de rekening in gelijke delen toegerekend aan die rekeninghouders.   
-2.  Ingeval een beleggingsrecht eigen woning meer dan één eigenaar heeft, wordt de waarde van het recht in gelijke delen toegerekend aan die eigenaren.   
-
 ### Artikel  17a  
 
 ####Aanvullende bepalingen met betrekking tot de eigenwoningreserve
 
-1.  Voor de toepassing van [artikel 3.119a van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md): 
+Indien in de overeenkomst ter zake van de verwerving van een eigen woning, ten behoeve van de uitvoering van het woonbeleid van de rijksoverheid of een gemeente, een clausule is opgenomen op grond waarvan bij niet-nakoming van die clausule een bedrag verschuldigd is, kan bij de vervreemding van die woning het bedrag dat ter zake van het niet nakomen van de clausule is betaald in mindering worden gebracht op het vervreemdingssaldo eigen woning, bedoeld in [artikel 3.119aa, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).  
 
-a. wordt de eigenwoningreserve die is gevormd voor het ontstaan van een algehele huwelijksgemeenschap bij ontbinding van die gemeenschap op gezamenlijk verzoek van de belastingplichtige en zijn echtgenoot of gewezen echtgenoot verdeeld in de onderlinge verhouding waarin zij tot de gemeenschap gerechtigd zijn. Het verzoek wordt uiterlijk gedaan bij de aangifte over het jaar waarin de algehele huwelijksgemeenschap wordt ontbonden. Op dit verzoek kan niet worden teruggekomen;  
+### Artikel  17b  
 
-b. wordt een woning zolang deze ten aanzien van de echtgenoot van de belastingplichtige als eigen woning wordt aangemerkt ten aanzien van de belastingplichtige mede als eigen woning aangemerkt indien de woning tot een huwelijksgemeenschap behoort of gaat behoren.     
-2.  Indien in de overeenkomst ter zake van de verwerving van een eigen woning, ten behoeve van de uitvoering van het woonbeleid van de rijksoverheid of een gemeente, een clausule is opgenomen op grond waarvan bij niet nakoming van die clausule een bedrag verschuldigd is, kan bij de vervreemding van die woning het bedrag dat terzake van het niet nakomen van de clausule is betaald in mindering worden gebracht op het vervreemdingssaldo eigen woning.   
+####Informatieplicht bij schulden bij niet-administratieplichtigen; te verstrekken gegevens
+
+Als gegevens als bedoeld in [artikel 3.119g van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen: 
+
+a. de datum van aangaan van de schuld;  
+
+b. het startbedrag van de schuld;  
+
+c. de maandelijkse rentevoet;  
+
+d. de contractueel vastgelegde looptijd in maanden;  
+
+e. de contractueel vastgelegde wijze van aflossing;  
+
+f. indien de leningverstrekker een natuurlijk persoon is: de naam, het adres en het burgerservicenummer of, bij het ontbreken van het burgerservicenummer, het sociaal-fiscaalnummer of, bij het ook ontbreken daarvan en indien dat bestaat, een hiermee vergelijkbaar door de fiscale woonstaat toegekend fiscaal identificatienummer van de leningverstrekker;  
+
+g. indien de leningverstrekker een rechtspersoon is: de naam, het adres en een uniek nummer als bedoeld in de [Handelsregisterwet 2007](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) of, bij het ontbreken van een dergelijk nummer en indien dat bestaat, een hiermee vergelijkbaar door de fiscale woonstaat toegekend fiscaal identificatienummer van de leningverstrekker.    
 
 ### Artikel  18  
 
@@ -422,37 +424,23 @@ c. de verkrijger reeds gedurende de 36 maanden die onmiddellijk voorafgaan aan h
 
 ####Reikwijdte en definities
 
-1.  Voor de toepassing van dit hoofdstuk wordt verstaan onder: 
+Voor de toepassing van dit hoofdstuk wordt verstaan onder: 
 
-a. inspecteur: de voorzitter van het managementteam van de Belastingdienst/Amsterdam;  
+a. *inspecteur:* de voorzitter van het managementteam van de Belastingdienst/Amsterdam;  
 
-b. groenproject: een project waarvoor ingevolge de [Regeling groenprojecten 2010](../../../../../ministeriele-regeling/regeling/groenprojecten/2010/BWBR0027439/README.md), de [Regeling groenprojecten buitenland 2002](../../../../../ministeriele-regeling/regeling/groenprojecten/buitenland/2002/BWBR0013272/README.md) dan wel de [Regeling groenprojecten Nederlandse Antillen en Aruba 2002](../../../../../ministeriele-regeling/regeling/groenprojecten/nederlandse/antillen/en/aruba/2002/BWBR0013273/README.md) een verklaring als bedoeld in [artikel 5.14, derde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is afgegeven;  
+b. *project:* groenproject, zijnde een project waarvoor ingevolge de [Regeling groenprojecten 2010](../../../../../ministeriele-regeling/regeling/groenprojecten/2010/BWBR0027439/README.md), de [Regeling groenprojecten buitenland 2002](../../../../../ministeriele-regeling/regeling/groenprojecten/buitenland/2002/BWBR0013272/README.md) dan wel de [Regeling groenprojecten Nederlandse Antillen en Aruba 2002](../../../../../ministeriele-regeling/regeling/groenprojecten/nederlandse/antillen/en/aruba/2002/BWBR0013273/README.md) een verklaring als bedoeld in [artikel 5.14, derde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is afgegeven;  
 
-c. sociaal-ethisch project: een project waarvoor ingevolge de [Regeling sociaal-ethische projecten 2005](../../../../../ministeriele-regeling/regeling/sociaal-ethische/projecten/2005/BWBR0019536/README.md) een verklaring als bedoeld in [artikel 5.15, derde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is afgegeven;  
+c. *fonds:* groenfonds, zijnde een bank of beleggingsinstelling die voldoet aan de voorwaarden van [artikel 5.14, tweede lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en die door de inspecteur ingevolge [artikel 5.14, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is aangewezen;  
 
-d. cultureel project: een project waarvoor ingevolge de [Regeling cultuurprojecten 2004](../../../../../ministeriele-regeling/regeling/cultuurprojecten/2004/BWBR0016112/README.md) een verklaring als bedoeld in [artikel 5.18a, derde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is afgegeven;  
+d. *hoofdzakelijkheidscriterium:* de voorwaarde inzake hoofdzakelijk als bedoeld in [artikel 5.14, tweede lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
 
-e. project: groenproject, sociaal-ethisch project of cultureel project;  
+e. *aanloopperiode:* de periode, bedoeld in [artikel 5.14, vierde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
 
-f. groenfonds: bank of beleggingsinstelling die voldoet aan de voorwaarden van [artikel 5.14, tweede lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en die door de inspecteur ingevolge [artikel 5.14, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is aangewezen;  
-
-g. sociaal-ethisch fonds: bank of beleggingsinstelling die voldoet aan de voorwaarden van [artikel 5.15, tweede lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en die door de inspecteur ingevolge [artikel 5.15, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is aangewezen;  
-
-h. cultuurfonds: bank of beleggingsinstelling die voldoet aan de voorwaarden van [artikel 5.18a, tweede lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en die door de inspecteur ingevolge [artikel 5.18a, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is aangewezen;  
-
-i. fonds: een groenfonds, een sociaal-ethisch fonds of een cultuurfonds;  
-
-j. participatiemaatschappij: een rechtspersoon die voldoet aan de voorwaarden van [artikel 5.18, tweede lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en die door de inspecteur ingevolge [artikel 5.18, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is aangewezen;  
-
-k. hoofdzakelijkheidscriterium: de voorwaarde inzake hoofdzakelijk als bedoeld in [artikel 5.14, tweede lid](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), onderscheidenlijk [artikel 5.15, tweede lid](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [artikel 5.18, tweede lid](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [artikel 5.18a, tweede lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
-
-l. aanloopperiode: de periode, bedoeld in [artikel 5.14, vierde lid](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), onderscheidenlijk [artikel 5.15, vierde lid](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [artikel 5.18, vierde lid](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [artikel 5.18a, vierde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
-
-m. ingroeiperiode: de periode, bedoeld in [artikel 5.14, vijfde lid](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), onderscheidenlijk [artikel 5.15, vijfde lid](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [artikel 5,18, vierde lid](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [artikel 5.18a, vijfde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).     
+f. *ingroeiperiode:* de periode, bedoeld in [artikel 5.14, vijfde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).    
 
 ### Artikel  29  
 
-####Inhoud verzoek om aanwijzing als groenfonds, sociaal-ethisch fonds of cultureel fonds, en afhandeling verzoek
+####Inhoud verzoek om aanwijzing als groenfonds en afhandeling verzoek
 
 1.  Een verzoek om aanwijzing als fonds wordt schriftelijk gedaan bij de inspecteur onder overlegging van: 
 
@@ -468,7 +456,7 @@ a. een ingroeiplan op grond waarvan het aannemelijk is dat binnen drie maanden n
 b. een ingroeischema op grond waarvan het aannemelijk is dat uiterlijk twee jaren na de aanwijzing ten minste 70 percent van het vermogen van het fonds is belegd in projecten dan wel bestaat uit kredieten ten behoeve van projecten.     
 3.  De inspecteur beslist op het verzoek tot aanwijzing bij voor bezwaar vatbare beschikking.   
 4.  De aanwijzing vindt plaats met ingang van de datum waarop het verzoek is ingediend, dan wel met ingang van een latere datum indien daarom is verzocht.   
-5.  De inspecteur maakt het aanwijzen als een fonds als bedoeld in artikel 28, onderdeel i, op een daartoe geschikte wijze publiek bekend. Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking ook op een daartoe geschikte wijze publiek bekend.   
+5.  De inspecteur maakt het aanwijzen als een fonds op een daartoe geschikte wijze publiek bekend. Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking ook op een daartoe geschikte wijze publiek bekend.   
 
 ### Artikel  29a  
 
@@ -499,72 +487,6 @@ c. indien het fonds de in dit hoofdstuk opgenomen informatieverplichtingen jegen
 6.  Indien het fonds de in artikel 29a, vierde lid, bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.   
 7.  Indien het fonds de in artikel 29a, vierde lid, bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.   
 8.  Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking op een daartoe geschikte wijze publiek bekend.   
-
-### Artikel  30  
-
-####Beleggingen in durfkapitaal; vrijstelling directe beleggingen in durfkapitaal; beginnende ondernemer-natuurlijke persoon
-
-Met betrekking tot een kalenderjaar wordt als beginnende ondernemer als bedoeld in [artikel 5.17, derde lid, onderdeel a, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) aangemerkt de natuurlijke persoon die naar verwachting met betrekking tot dat jaar of het daaropvolgende jaar in aanmerking komt voor zelfstandigenaftrek en ten aanzien van wie deze aftrek over nog niet meer dan zeven jaren is toegepast, dan wel, ingeval hij in het kalenderjaar een onderneming of een gedeelte van een onderneming overneemt, over nog niet meer dan veertien jaren is toegepast.  
-
-### Artikel  31  
-
-####Beleggingen in durfkapitaal; vrijstelling directe beleggingen in durfkapitaal; beginnende ondernemer-rechtspersoon
-
-De beginnende ondernemer als bedoeld in [artikel 5.17, derde lid, onderdeel b, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), is een rechtspersoon die ten tijde van het verstrekken van de achtergestelde lening aan hem, onderscheidenlijk het nemen van een deelneming in hem moet voldoen aan de volgende voorwaarden: 
-
-a. de rechtspersoon is een besloten vennootschap met beperkte aansprakelijkheid of naamloze vennootschap, die niet langer dan acht jaren geleden tot stand is gekomen, dan wel een rechtspersoon met een in aandelen verdeeld kapitaal die: 
-
-1°. is opgericht naar het op Aruba, Curaçao, Sint Maarten of de BES eilanden geldende recht, of naar het recht van een lidstaat van de Europese Unie of een staat in de relatie waarmee een met Nederland gesloten verdrag ter voorkoming van dubbele belasting van toepassing is waarin een bepaling is opgenomen die discriminatie naar nationaliteit verbiedt voor rechtspersonen die overigens in dezelfde omstandigheden verkeren als een naar Nederlands recht opgerichte besloten vennootschap met beperkte aansprakelijkheid of naamloze vennootschap;  
-
-2°. naar aard en inrichting vergelijkbaar is met de besloten vennootschap met beperkte aansprakelijkheid of naamloze vennootschap; en  
-
-3°. niet langer dan acht jaren geleden tot stand is gekomen;    
-
-b. voor rekening van de rechtspersoon wordt in Nederland een onderneming gedreven van een zodanige omvang dat de bij hem in dienst zijnde personen te zamen naar verwachting daaraan jaarlijks ten minste 1225 uren besteden;  
-
-c. de voor rekening van de rechtspersoon gedreven onderneming is geen voortzetting van een onderneming die, of een gedeelte van een onderneming, dat meer dan acht jaren geleden direct of indirect is gedreven voor rekening van een persoon die thans onmiddellijk of middellijk aandeelhouder is in de rechtspersoon;  
-
-d. de rechtspersoon voldoet aan ten minste twee van de in [artikel 396, eerste lid, onderdelen a, b, en c, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) vermelde vereisten;  
-
-e. de feitelijke werkzaamheid van de rechtspersoon bestaat niet in het, onmiddellijk of middellijk, beleggen van vermogen of daarmee overeenkomende werkzaamheid.    
-
-### Artikel  32  
-
-####Beleggingen in durfkapitaal; vrijstelling directe beleggingen in durfkapitaal; voorwaarden geldlening
-
-Onder een geregistreerde, achtergestelde geldlening als bedoeld in [artikel 5.17, eerste lid juncto artikel 5.17 vierde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) wordt verstaan een geldlening: 
-
-a. met een hoofdsom van ten minste € 2269 ter zake waarvan een rente wordt vergoed welke niet uitgaat boven de wettelijke rente, bedoeld in [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek;](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md)  
-
-b. ter zake waarvan in de overeenkomst is vermeld: 
-
-1°. indien de beginnende ondernemer een natuurlijk persoon is: het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de beginnende ondernemer en het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van degene die de geldlening verstrekt;  
-
-2°. indien de beginnende ondernemer een rechtspersoon is als bedoeld in [artikel 5.17, derde lid, onderdeel b, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md): het omzetbelastingnummer van de beginnende ondernemer en het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van degene die de geldlening verstrekt;    
-
-c. ter zake waarvan in de overeenkomst is opgenomen dat: 
-
-1°. de lening jegens andere schuldeisers, gedurende ten minste de eerste acht jaren na het overeenkomen van de geldlening, een lagere rang inneemt dan is bepaald in [artikel 277, eerste lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md);  
-
-2°. indien de beginnende ondernemer een natuurlijk persoon is, de lening dient ter financiering van bestanddelen die behoren tot het verplichte ondernemingsvermogen van de beginnende ondernemer, dan wel, indien de beginnende ondernemer een rechtspersoon is, de lening dient ter financiering van bestanddelen die tot het verplichte ondernemingsvermogen zouden behoren zo de onderneming van de rechtspersoon voor rekening van een natuurlijk persoon zou worden gedreven;  
-
-3°. de lening door degene die de geldlening verstrekt niet is gefinancierd met geleend geld, en  
-
-4°. de lening is verstrekt met het oog op het bepaalde in de [artikelen 6.8](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [5.17, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), waarvan melding wordt gemaakt in het opschrift van de overeenkomst;    
-
-d. waarvan de overeenkomst daartoe is ondertekend door de beginnende ondernemer en degene die de geldlening verstrekt, en  
-
-e. welke binnen vier weken na het overeenkomen daarvan is geregistreerd op de voet van de [Registratiewet 1970](../../../../../wet/registratiewet/1970/BWBR0002739/README.md).    
-
-### Artikel  33  
-
-####Participatiemaatschappij; omvang en karakter van het vermogen, alsmede aanwijzing van de participatiemaatschappij en intrekking van de aanwijzing
-
-1.  Het in een participatiemaatschappij gestorte kapitaal en het door die maatschappij aangetrokken vreemd vermogen dienen te zamen ten minste € 4 537 802 te bedragen.   
-2.  De door een participatiemaatschappij verstrekte, achtergestelde geldlening, bedoeld in [artikel 5.18, tweede lid, onderdeel a, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en de door haar gehouden deelneming, bedoeld in het [tweede lid, onderdeel a, van dat artikel](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), bedragen te zamen ten hoogste € 226 890 per beginnende ondernemer. De in de eerste volzin bedoelde leningen en deelnemingen kunnen voor geen langere periode dan voor de duur van acht jaren, te rekenen vanaf het tijdstip van verstrekking van de lening, onderscheidenlijk de verwerving van de deelneming, worden aangemerkt als achtergestelde geldlening als bedoeld in [artikel 5.18, tweede lid, onderdeel a, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), onderscheidenlijk als deelneming als bedoeld in [artikel 5.18, tweede lid, onderdeel a, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
-3.  Als een achtergestelde geldlening als bedoeld in [artikel 5.18, tweede lid, onderdeel a, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) wordt aangemerkt de geldlening ter zake waarvan in de overeenkomst is opgenomen dat de lening jegens andere schuldeisers, gedurende ten minste de eerste acht jaren na het overeenkomen van de geldlening, een lagere rang inneemt dan is bepaald in [artikel 277, eerste lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), en die, in geval de beginnende ondernemer een natuurlijk persoon is, dient ter financiering van bestanddelen die bij de beginnende ondernemer behoren tot het verplichte ondernemingsvermogen van die onderneming en, in geval de beginnende ondernemer een rechtspersoon is, bij de rechtspersoon dient ter financiering van bestanddelen die tot het verplichte ondernemingsvermogen zouden behoren indien de onderneming van de rechtspersoon voor rekening van een natuurlijk persoon zou worden gedreven.   
-4.  Als een deelneming als bedoeld in [artikel 5.18, tweede lid, onderdeel a, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) wordt aangemerkt de deelneming waarbij het in de rechtspersoon te storten kapitaal dient ter financiering van bestanddelen die tot het verplichte ondernemingsvermogen zouden behoren indien de onderneming van de rechtspersoon voor rekening van een natuurlijk persoon zou worden gedreven.   
-5.  Met betrekking tot het verzoek om aanwijzing als participatiemaatschappij, de afhandeling van dat verzoek, de informatieverstrekking , de intrekking, alsmede het publiek bekend maken van de aanwijzing en intrekking van de aanwijzing zijn de artikelen 29 tot en met 29b van overeenkomstige toepassing.   
 
 ### Artikel  33b  
 
@@ -629,44 +551,44 @@ b. € 1065, indien het kind niet tot het huishouden van de belastingplichtige 
 | Hartziekten  | decompensatio cordis, hartfalen  | natriumbeperkt  | € 100  |
 | Infectieziekten  | aids  | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
 | Luchtwegen  | chronische obstructieve longziekten (COPD)  | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
-| energieverrijkt  | € 600  |
-| Maag-, darm- en leverziekten  | dumping syndroom  | lactosebeperkt/lactosevrij  | € 100  |
+| --- | --- | energieverrijkt  | € 600  |
+| Maag-, darm- en leverziekten  | dumpingsyndroom  | lactosebeperkt/lactosevrij  | € 200  |
 | chronische pancreatitis  | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
 | cystic fibrosis  | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
 | energieverrijkt  | € 600  |
-| coeliakie en ziekte van Dühring  | glutenvrij  | € 1300  |
+| coeliakie en ziekte van Dühring  | glutenvrij  | € 1250  |
 | glutenvrij in combinatie met lactosebeperkt/lactosevrij  | € 1400  |
 | overige  | energieverrijkt met vitaminepreparaat  | € 650  |
-| energieverrijkt  | € 600  |
-| energieverrijkt in combinatie met MCT-vetverrijkt (met en zonder vitaminepreparaat)  | € 1350  |
-| energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
-| energieverrijkt in combinatie met eiwitverrijkt en lactosebeperkt/lactosevrij  | € 1000  |
+| --- | --- | energieverrijkt  | € 600  |
+| --- | --- | energieverrijkt in combinatie met  MCT-vetverrijkt (met en zonder vitaminepreparaat)  | € 1500  |
+| --- | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
+| energieverrijkt in combinatie met eiwitverrijkt en lactosebeperkt/lactosevrij  | € 1100  |
 | Metabole ziekten  | hypercholesterolemie  | verzadigd vetbeperkt in combinatie met fyto/plantensterolenverrijkt  | € 100  |
-| vetstofwisselingsstoornis  | vetbeperkt in combinatie met MCT-vetverrijkt  | € 850  |
-| fructose-intolerantie  | fructosebeperkt  | € 50  |
-| galactosemie  | galactosevrij  | € 50  |
-| sacharase isomaltase deficiëntie  | sterk sacharosebeperkt in combinatie met (iso)maltosebeperkt  | € 3550  |
-| eiwitstofwisselingsstoornis (zoals PKU en hyperlysinemie)  | sterk eiwitbeperkt  | € 2700  |
+| vetstofwisselingsstoornis  | vetbeperkt in combinatie met MCT-vetverrijkt  | € 1050  |
+| fructose-intolerantie  | fructosebeperkt  | € 100  |
+| galactosemie  | galactosevrij  | € 100  |
+| --- | sacharase isomaltase deficiëntie  | sterk sacharosebeperkt in combinatie met (iso)maltosebeperkt  | € 3650  |
+| eiwitstofwisselings stoornis (zoals PKU en hyperlysinemie )  | sterk eiwitbeperkt  | € 2850  |
 | Nierziekten  | nierziekten  | natriumbeperkt  | € 100  |
 | chronische nierinsufficiëntie met hemodialyse/peritoneale dialyse  | eiwitverrijkt in combinatie met natriumbeperkt  | € 250  |
 | nefrotisch syndroom  | natriumbeperkt  | € 100  |
 | Oncologie  | oncologie  | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
-| energieverrijkt  | € 600  |
-| Overige  | voedselovergevoeligheid  | koemelkeiwitvrij  | € 100  |
+| --- | --- | energieverrijkt  | € 600  |
+| Overige  | voedselovergevoeligheid  | koemelkeiwitvrij  | € 200  |
 | soja-eiwitvrij  | € 50  |
 | kippenei-eiwitvrij  | € 50  |
-| lactosebeperkt/lactosevrij  | € 100  |
+| lactosebeperkt/lactosevrij  | € 200  |
 | tarwevrij  | € 900  |
 | tarwevrij in combinatie met kippenei-eiwitvrij  | € 1000  |
-| koemelkeiwitvrij in combinatie met kippenei-eiwitvrij  | € 150  |
-| koemelkeiwitvrij in combinatie met soja-eiwitvrij  | € 300  |
-| koemelkeiwitvrij in combinatie met kippenei-eiwitvrij en soja-eiwitvrij  | € 350  |
-| koemelkeiwitvrij in combinatie met kippenei-eiwitvrij, soja-eiwitvrij en tarwevrij  | € 1150  |
-| koemelkeiwitvrij in combinatie met glutenvrij  | € 1300  |
-| koemelkeiwitvrij in combinatie met glutenvrij en tarwevrij  | € 1300  |
+| koemelkeiwitvrij in combinatie met kippenei-eiwitvrij  | € 250  |
+| koemelkeiwitvrij in combinatie met soja-eiwitvrij  | € 400  |
+| koemelkeiwitvrij in combinatie met kippenei-eiwitvrij en soja-eiwitvrij  | € 450  |
+| koemelkeiwitvrij in combinatie met kippenei-eiwitvrij, soja-eiwitvrij en tarwevrij  | € 1250  |
+| koemelkeiwitvrij in combinatie met glutenvrij  | € 1350  |
+| --- | koemelkeiwitvrij in combinatie met glutenvrij en tarwevrij  | € 1350  |
 | brandwonden  | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
-| lymfe lekkage  | eiwitverrijkt in combinatie met sterk (LCT-)vetbeperkt en MCT-vetverrijkt  | € 1100  |
-| Epilepsie  | sterk eiwitbeperkt en koolhydraatbeperkt in combinatie met vetverrijkt en MCT-vetverrijkt  | € 600  |
+| --- | lymfe lekkage  | eiwitverrijkt in combinatie met sterk (LCT-)vetbeperkt en MCT-vetverrijkt  | € 1300  |
+| --- | epilepsie  | sterk eiwitbeperkt en koolhydraatbeperkt in combinatie met vetverrijkt en MCT-vetverrijkt  | € 800  |
 
 Voor overige diëten worden de extra kosten gesteld op nihil.   
 2.  Voor de toepassing van dit artikel wordt verstaan onder: 
@@ -768,6 +690,18 @@ e. het aantal behandelingen dat voortvloeit uit ziekte of invaliditeit;
 
 f. de dagtekening van de verklaring.     
 
+### Artikel  39a  
+
+####Uitgaven voor specifieke zorgkosten; van aftrek uitgesloten aangewezen uitgaven
+
+Als uitgaven als bedoeld in [artikel 6.18, eerste lid, onderdeel h, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen: 
+
+a. uitgaven voor in-vitrofertilisatie voor een vrouw die ten tijde van de behandeling 43 jaar of ouder is;  
+
+b. uitgaven voor de eerste twee in-vitrofertilisatiebehandelingen indien meer dan één embryo per poging wordt teruggeplaatst en de vrouw ten tijde van de behandeling jonger is dan 38 jaar;  
+
+c. uitgaven voor een elleboogkruk, een gipssteun, een looprek, een okselkruk, een onderarmschaalkruk, een rollator of een loophulp met drie of vier poten.    
+
 ### Artikel  40  
 
 ####Weekenduitgaven voor gehandicapten; het in aanmerking te nemen bedrag
@@ -784,68 +718,6 @@ b. € 0,19 per kilometer voor het vervoer per auto van de gehandicapte door de
 ####Scholingsuitgaven; afgifte EVC-verklaringen
 
 De verklaring, bedoeld in [artikel 6.27, tweede lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), wordt afgegeven door de Minister van Onderwijs, Cultuur en Wetenschap.  
-
-### Artikel  41a  
-
-####Aan te merken instellingen voor aftrekbare giften
-
-1.  Een uitsluitend of nagenoeg uitsluitend het algemeen nut beogende instelling wordt door de inspecteur aangemerkt als een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), indien en zolang: 
-
-a. uit de regelgeving van de instelling en de feitelijke werkzaamheid blijkt dat de instelling geen winstoogmerk heeft;  
-
-b. uit de regelgeving van de instelling en de feitelijke werkzaamheid blijkt dat de instelling uitsluitend of nagenoeg uitsluitend het algemeen belang dient;  
-
-c. uit de regelgeving van de instelling en de feiten blijkt dat een natuurlijk persoon noch een rechtspersoon over het vermogen van de instelling kan beschikken als ware het zijn eigen vermogen; de inspecteur kan, zonodig onder door hem te stellen voorwaarden, toestaan dat een steunstichting en de instelling of instellingen welke door deze stichting worden ondersteund, over en weer kunnen beschikken over elkaars vermogen als ware het eigen vermogen;  
-
-d. de instelling niet meer vermogen aanhoudt dan is aangegeven in artikel 41b;  
-
-e. de leden van het orgaan van de instelling dat het beleid bepaalt, ter zake van de door hen voor de instelling verrichte werkzaamheden geen andere beloning ontvangen dan een vergoeding voor gemaakte onkosten en een niet bovenmatig vacatiegeld;  
-
-f. de instelling beschikt over een actueel beleidsplan dat inzicht geeft in de door de instelling te verrichten werkzaamheden, de wijze van werving van gelden, het beheer van het vermogen van de instelling en de besteding daarvan;  
-
-g. de kosten van werving van gelden en de beheerkosten van de instelling in redelijke verhouding staan tot de bestedingen ten behoeve van het doel van de instelling;  
-
-h. uit de regelgeving van de instelling blijkt dat bij opheffing van de instelling een batig liquidatiesaldo moet worden besteed ten behoeve van een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), dan wel op enigerlei andere wijze waarmee het algemeen belang wordt gediend, en  
-
-i. de administratie van de instelling zodanig is ingericht dat daaruit duidelijk blijkt: 
-
-1°. de aard en omvang van de aan de afzonderlijke leden van het orgaan van de instelling dat het beleid bepaalt, toekomende onkostenvergoedingen en vacatiegelden;  
-
-2°. de aard en omvang van de kosten die door de instelling zijn gemaakt ten behoeve van de werving van gelden en het beheer van de instelling, alsmede de aard en omvang van de andere uitgaven van de instelling;  
-
-3°. de aard en omvang van de inkomsten van de instelling;  
-
-4°. de aard en omvang van het vermogen van de instelling.       
-2.  Het tijdstip van aanmerken van een instelling als een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) kan zijn gelegen voor de dagtekening van de beschikking van dat aanmerken.   
-3.  De inspecteur maakt het aanmerken van een instelling als een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) op een daartoe geschikte wijze publiek bekend. Het niet meer als zodanig aanmerken wordt ook op een daartoe geschikte wijze publiek bekend gemaakt.   
-
-### Artikel  41b  
-
-####Plafond vermogen van een aangemerkte instelling
-
-1.  Een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) houdt niet meer vermogen aan dan redelijkerwijs nodig is voor de continuïteit van de voorziene werkzaamheden ten behoeve van de doelstelling van de instelling.   
-2.  Onder vermogen dat nodig is voor de continuïteit van de voorziene werkzaamheden als bedoeld in het eerste lid wordt begrepen: 
-
-1°. vermogen of bestanddelen daarvan welke krachtens uiterste wilsbeschikking of schenking door de instelling zijn verkregen, al dan niet in reële termen in stand te houden, voor zover die instandhouding voortvloeit uit de aan die uiterste wilsbeschikking of schenking verbonden voorwaarden;  
-
-2°. vermogensbestanddelen aan te houden voor zover de instandhouding daarvan voortvloeit uit de doelstelling van de instelling;  
-
-3°. activa aan te houden en vermogen voor de voorziene aanschaf van die activa op te bouwen, voor zover een instelling die activa ten behoeve van de doelstelling van de instelling redelijkerwijs nodig heeft.     
-3.  Een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) vermeldt in haar financiële administratie het doel waarvoor het vermogen wordt aangehouden, alsmede een motivering voor de omvang van dat vermogen.   
-
-### Artikel  41c  
-
-####Bij één beschikking meer instellingen aanmerken
-
-1.  Bij een verzoek een categorie instellingen dan wel een groep van met elkaar verbonden instellingen bij één voor bezwaar vatbare beschikking aan te merken als instellingen als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) (gemeenschappelijke aanwijzing), wordt in het verzoek aangegeven op welke instellingen het verzoek betrekking heeft.   
-2.  Een instelling waarop een verzoek voor een gemeenschappelijke aanwijzing betrekking heeft doch die niet voldoet aan de voorwaarden voor aanmerking als een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), wordt niet in de gemeenschappelijke aanwijzing opgenomen.   
-3.  Een beschikking inzake een gemeenschappelijk aanwijzing kan ten aanzien van ieder van de aldus aangemerkte instellingen afzonderlijk worden ingetrokken, met ingang van het tijdstip waarop die instelling niet meer voldoet aan de voorwaarden voor aanmerking als een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
-
-### Artikel  41d  
-
-####Aangewezen mogendheden buiten de EU, Aruba, Curaçao, Sint Maarten en de BES eilanden
-
-Als mogendheid als bedoeld in [artikel 6.33, eerste lid, onderdeel b en onderdeel c, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) wordt aangewezen elke mogendheid waarmee in de relatie met Nederland voor de heffing van inkomstenbelasting, vennootschapsbelasting, successie- en schenkingsrecht zonder beperkingen of voorbehouden de uitwisseling is geregeld van gegevens, inlichtingen en gegevensdragers.  
 
 ### Hoofdstuk  7  
 
@@ -965,10 +837,9 @@ Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
 ### Artikel  45c  
 
-####Continuering na 1 januari 2008 van aanwijzingen als fonds of participatiemaatschappij van vóór die datum
+####Continuering na 1 januari 2008 van aanwijzingen als fonds van vóór die datum
 
-1.  Een fonds dat voor 1 januari 2008 is aangewezen als fonds als bedoeld in [artikel 5.14](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), onderscheidenlijk [artikel 5.15](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of [artikel 5.18a van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), zoals de wet toen luidde, wordt geacht met ingang van 1 januari 2008 door de inspecteur bij beschikking te zijn aangewezen op de voet van de wet zoals die thans luidt.   
-2.  Een participatiemaatschappij die voor 1 januari 2008 is aangewezen als participatiemaatschappij als bedoeld in [artikel 5.18 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), zoals de wet toen luidde, wordt geacht met ingang van 1 januari 2008 door de inspecteur bij beschikking te zijn aangewezen op de voet van de wet zoals die thans luidt.   
+Een fonds dat voor 1 januari 2008 is aangewezen als fonds als bedoeld in [artikel 5.14 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), zoals de wet toen luidde, wordt geacht met ingang van 1 januari 2008 door de inspecteur bij beschikking te zijn aangewezen op de voet van de wet zoals die thans luidt.  
 
 ### Artikel  45d  
 
@@ -987,6 +858,17 @@ c. indien de woning vanaf enig moment weer belastbare inkomsten uit eigen woning
 ####Overgangsrecht verliezen op geldleningen aan beginnende ondernemers; verliezen op beleggingen in durfkapitaal
 
 Artikel 34, zoals dat artikel op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in [artikel 6.8, eerste lid](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), van de wet, zoals dat lid op 31 december 2010 luidde.  
+
+### Hoofdstuk  10bis  
+
+####Overgangsrecht ten gevolge van [Wet herziening fiscale behandeling eigen woning](../../../../../wet/wet/herziening/fiscale/behandeling/eigen/woning/BWBR0032676/README.md)
+
+### Artikel  10bis.1  
+
+####Verdeling spaarrekening eigen woning en beleggingsrecht eigen woning bij meer dan één gerechtigde
+
+1.  Ingeval een spaarrekening eigen woning meer dan één rekeninghouder heeft, wordt het tegoed van de rekening in gelijke delen toegerekend aan die rekeninghouders.   
+2.  Ingeval een beleggingsrecht eigen woning meer dan één eigenaar heeft, wordt de waarde van het recht in gelijke delen toegerekend aan die eigenaren.   
 
 ### Hoofdstuk  11  
 

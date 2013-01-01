@@ -436,12 +436,6 @@ Alle vermogenbestanddelen die door het Uitvoeringsinstituut werknemersverzekerin
 
 De [Wet op de (re)integratie arbeidsgehandicapten](../../../../../../../../../../../../wet/wet/op/de/(re)integratie/arbeidsgehandicapten/BWBR0009565/README.md) wordt op een bij koninklijk besluit te bepalen tijdstip ingetrokken, waarbij het tijdstip waarop de verschillende artikelen of onderdelen daarvan vervallen, verschillend kan worden vastgesteld.  
 
-### Artikel  2.10a  
-
-####Afzien van horen belanghebbende
-
-In afwijking van [artikel 7:3 van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan van het horen van een belanghebbende worden afgezien indien de belanghebbende niet binnen een door het Uitvoeringsinstituut werknemersverzekeringen gestelde redelijke termijn, verklaart dat hij gebruik wil maken van het recht te worden gehoord.  
-
 ### Artikel  2.11  
 
 ####Slotbepaling betreffende artikel 1.4, onderdeel X , [artikel 76a Ziektewet](../../../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md)

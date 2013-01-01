@@ -21,7 +21,7 @@ In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon
 
 ### Artikel  2  
 
-De personen, werkzaam in de functie van medewerker serviceorganisatie, medewerker HKD, medewerker orde en bewaking, medewerker orde en bewakingsdiensten B, medewerker arrestantenzorg, medewerker frontoffice en rechercheassistent, in dienst van de regiopolitie Haaglanden, zijn aangewezen als buitengewoon opsporingsambtenaar.  
+Als buitengewoon opsporingsambtenaar worden aangewezen de ambtenaren van politie, bedoeld in [artikel 2, onder b, van de Politiewet 2012](../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), werkzaam in de functie van medewerker serviceorganisatie, medewerker HKD, medewerker orde en bewakingsdiensten B, medewerker arrestantenzorg, medewerker frontoffice en rechercheassistent, die hun werkgebied hebben in de regionale eenheid Den Haag, voorheen Haaglanden.  
 
 ### Artikel  3  
 
@@ -35,16 +35,16 @@ Op grond van dit besluit kunnen maximaal 1085 personen als buitengewoon opsporin
 
 ### Artikel  5  
 
-1.  Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoonopsporingsambtenaar](../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de hoofdofficier van justitie bij het Arrondissementsparket te Den Haag.   
-2.  Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de korpschef van de regiopolitie Haaglanden.   
+1.  Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoonopsporingsambtenaar](../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de hoofdofficier van justitie bij het arrondissementsparket Den Haag.   
+2.  Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).   
 
 ### Artikel  6  
 
-De buitengewoon opsporingsambtenaar kan, zover dit in zijn functie is opgenomen, de in [artikel 8, eerste en derde lid, van de Politiewet 1993](../../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) omschreven bevoegdheden uitoefenen en daarbij gebruikmaken van handboeien, korte wapenstok, pepperspray en een vuurwapen.  
+De buitengewoon opsporingsambtenaar kan, zover dit in zijn functie is opgenomen, de in [artikel 7, eerste en derde lid, van de Politiewet 2012](../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) omschreven bevoegdheden uitoefenen en daarbij gebruikmaken van handboeien, korte wapenstok, pepperspray en een vuurwapen.  
 
 ### Artikel  7  
 
-1.  De korpschef van de regiopolitie Haaglanden brengt jaarlijks, voor 1 april, verslag uit over: 
+1.  De korpschef brengt jaarlijks, voor 1 april, verslag uit over: 
 
 a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in artikel 2 genoemde functies;  
 

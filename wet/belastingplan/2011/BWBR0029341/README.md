@@ -73,7 +73,7 @@ Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 ### Artikel  XIV  
 
 1.  [Artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) vindt bij het begin van het kalenderjaar 2011 geen toepassing op de in artikel IX, onderdeel A, genoemde bedragen in de tabellen van [artikel 9, eerste lid, van die wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md).   
-2.  Op 1 januari 2012 is [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) van overeenkomstige toepassing op de in artikel X, onderdeel A, genoemde bedragen in de tabellen van [artikel 9, eerste lid, van die wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md).   
+2.   Vervallen.    
 
 ### Artikel  XV  
 
@@ -110,17 +110,9 @@ Wijzigt de Wet op de omzetbelasting 1968.
 
 Wijzigt de Wet op belastingen van rechtsverkeer.   
 
-### Artikel  XXIbis  
-
-Het in [artikel 23 van de Wet op belastingen van rechtsverkeer](../../../../wet/wet/op/belastingen/van/rechtsverkeer/BWBR0002740/README.md) genoemde percentage wordt met ingang van 1 januari 2015 verlaagd met 0,2 procentpunt.  
-
 ### Artikel  XXIa  
 
 Bij verzekeringen waarbij de laatste prolongatiedatum of datum van stilzwijgende verlenging, of bij afwezigheid van die datum de ingangsdatum van de verzekering, vóór 1 maart 2011 ligt, is het assurantiebelastingtarief van 9,7% van toepassing op de premies die na 28 februari 2011 vervallen.  
-
-### Artikel  XXIb  
-
-Bij verzekeringen waarbij de laatste prolongatiedatum of datum van stilzwijgende verlenging, of bij afwezigheid van die datum de ingangsdatum van de verzekering vóór 1 januari 2015 ligt, is het assurantiebelastingtarief dat op 1 januari 2015 geldt, van toepassing op de premies die na 31 december 2014 vervallen.  
 
 ### Artikel  XXII  
 

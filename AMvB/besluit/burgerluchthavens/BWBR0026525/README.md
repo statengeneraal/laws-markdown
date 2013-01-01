@@ -10,11 +10,11 @@ Gelet op:
 
 – bijlage 14 bij het Verdrag inzake de internationale burgerluchtvaart;  
 
-– de [artikelen 8.1a, derde lid](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [8.41, tweede lid](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [8.44, derde lid](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [8.47, derde lid](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [8.54, derde lid](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [8.64, vijfde lid](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [8a.38, vierde lid](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [8a.42, tweede lid](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [8a.50, eerste lid](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), en [8a.51 van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
+– de artikelen 8.1a, derde lid, 8.41, tweede lid, 8.44, derde lid, 8.47, derde lid, 8.54, derde lid, 8.64, vijfde lid, 8a.38, vierde lid, 8a.42, tweede lid, 8a.50, eerste lid, en 8a.51 van de Wet luchtvaart;  
 
-– [artikel 76, eerste lid, onderdeel a, van de Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md);  
+– artikel 76, eerste lid, onderdeel a, van de Luchtvaartwet;  
 
-– [artikel 23, onder a, van de Wet informatie-uitwisseling ondergrondse netten](../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md);   
+– artikel 23, onder a, van de Wet informatie-uitwisseling ondergrondse netten;   
 De Raad van State gehoord (advies van 19 maart 2009, nr. W09.09.0030/IV);
 
 Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 24 september 2009, nr. CEND/HDJZ-2009/1009 sector LUV, Hoofddirectie Juridische Zaken, uitgebracht mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
@@ -29,21 +29,21 @@ Hebben goedgevonden en verstaan:
 
 *bedrijfswoning:* woning in of bij een gebouw of op of bij een terrein, slechts bestemd voor het huishouden van een persoon wiens huisvesting daar, gelet op de bestemming van het gebouw of terrein, noodzakelijk is;  
 
-*beperkt kwetsbaar gebouw:* gebouw met een kantoor-, cel-, industrie-, sport- of logiesfunctie als bedoeld in [artikel 1.1 van het Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md);  
+*beperkt kwetsbaar gebouw:* gebouw met een kantoor-, cel-, industrie-, sport- of logiesfunctie als bedoeld in artikel 1.1 van het Bouwbesluit 2012;  
 
-*gebouw:* gebouw als bedoeld in [artikel 1 van de Woningwet](../../../../wet/woningwet/BWBR0005181/README.md);  
+*gebouw:* gebouw als bedoeld in artikel 1 van de Woningwet;  
 
-*geluidsgevoelig gebouw:* gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [artikel 1.1 van het Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md);  
+*geluidsgevoelig gebouw:* gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in artikel 1.1 van het Bouwbesluit 2012;  
 
 *handhavingspunt:* locatie waar de geluidbelasting van het luchthavenluchtverkeer niet hoger mag zijn dan de in het luchthavenbesluit of de luchthavenregeling vastgestelde waarde;  
 
 *instrumentbaan categorie I, II, of III:* landingsbaan van het type zoals omschreven in de onderdelen b, c en d van de definitie van het begrip Instrument runway in bijlage 14 bij het Verdrag inzake de internationale burgerluchtvaart (Trb. 2009, 48);  
 
-*kwetsbaar gebouw:* gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [artikel 1.1 van het Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md);  
+*kwetsbaar gebouw:* gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in artikel 1.1 van het Bouwbesluit 2012;  
 
 *L <sub>den</sub>:* geluidbelasting van luchtvaartuigen uitgedrukt in L <sub>den</sub> dB(A) en berekend op de wijze, bedoeld in artikel 3, vierde lid, aanhef en onder a;  
 
-*micro light aeroplane:* MLA als bedoeld in het [Besluit luchtvaartuigen 2008](../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md);  
+*micro light aeroplane:* MLA als bedoeld in het Besluit luchtvaartuigen 2008;  
 
 *obstakel:* object dat zich boven het maaiveld bevindt en zich niet voortbeweegt;  
 
@@ -53,11 +53,11 @@ Hebben goedgevonden en verstaan:
 
 *watervliegtuig:* een luchtvaartuig dat zich te water als schip kan verplaatsen;  
 
-*wet:*[Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
+*wet:*Wet luchtvaart;  
 
 *woning:* gebouw dat geheel of gedeeltelijk voor bewoning is bestemd.     
 2.  In dit besluit en de daarop berustende bepalingen wordt onder woning tevens verstaan woonboot of woonwagen.   
-3.  In dit besluit en de daarop berustende bepalingen wordt onder helikopter, luchtschip, vliegtuig, vrije ballon en zweeftoestel verstaan hetgeen daaronder wordt verstaan in [artikel 1 van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md).   
+3.  In dit besluit en de daarop berustende bepalingen wordt onder helikopter, luchtschip, vliegtuig, vrije ballon en zweeftoestel verstaan hetgeen daaronder wordt verstaan in artikel 1 van het Luchtverkeersreglement.   
 
 ### Hoofdstuk  2  
 
@@ -65,7 +65,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  2  
 
-Dit hoofdstuk is van toepassing op overige burgerluchthavens als bedoeld in [artikel 8.1 van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md).  
+Dit hoofdstuk is van toepassing op overige burgerluchthavens als bedoeld in artikel 8.1 van de wet.  
 
 ### Artikel  3  
 
@@ -78,7 +78,7 @@ a. het berekenen van L <sub>den</sub> -grenswaarden, van de geluidbelasting in h
 
 b. het berekenen en bepalen van de L <sub>den</sub> -contouren en de contouren voor het plaatsgebonden risico;  
 
-c. het registreren van de milieubelasting waarvoor grenswaarden en regels in het luchthavenbesluit of de luchthavenregeling zijn opgenomen en omtrent de gegevensverstrekking bedoeld in [artikel 8.54, vierde lid, van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md).     
+c. het registreren van de milieubelasting waarvoor grenswaarden en regels in het luchthavenbesluit of de luchthavenregeling zijn opgenomen en omtrent de gegevensverstrekking bedoeld in artikel 8.54, vierde lid, van de wet.     
 
 ### Artikel  4  
 
@@ -96,7 +96,7 @@ b. een luchthaven die uitsluitend wordt gebruikt door zweeftoestellen;
 c. een luchthaven die uitsluitend wordt gebruikt door micro light aeroplanes;  
 
 d. een luchthaven met uitsluitend een combinatie van het onder a, b of c bedoelde luchthavenluchtverkeer.     
-3.  Dit artikel is niet van toepassing op burgerluchthavens van nationale betekenis die buiten de provinciegrenzen zijn gelegen als bedoeld in [artikel 8.1, tweede lid, onderdeel a, van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md).   
+3.  Dit artikel is niet van toepassing op burgerluchthavens van nationale betekenis die buiten de provinciegrenzen zijn gelegen als bedoeld in artikel 8.1, tweede lid, onderdeel a, van de wet.   
 
 ### Hoofdstuk  3  
 
@@ -108,7 +108,7 @@ d. een luchthaven met uitsluitend een combinatie van het onder a, b of c bedoeld
 
 ### Artikel  6  
 
-Dit hoofdstuk is van toepassing op burgerluchthavens van regionale betekenis als bedoeld in [artikel 8.1 van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md).  
+Dit hoofdstuk is van toepassing op burgerluchthavens van regionale betekenis als bedoeld in artikel 8.1 van de wet.  
 
 ### Titel  2  
 
@@ -116,9 +116,9 @@ Dit hoofdstuk is van toepassing op burgerluchthavens van regionale betekenis als
 
 ### Artikel  7  
 
-1.  Indien bovenprovinciale belangen vorderen dat gebruik van een luchthaven essentieel is voor vluchten van algemeen maatschappelijk belang, regeringsvluchten, operationeel noodzakelijke militaire vluchten of vluchten in bondgenootschappelijk verband en dit gebruik op grond van het luchthavenbesluit of de luchthavenregeling voor die luchthaven niet mogelijk is, kan bij regeling van Onze Minister van Verkeer en Waterstaat worden bepaald welke van deze soorten vluchten tot die luchthaven toegang hebben en op welke periode van het etmaal. Indien het hierbij militaire vluchten betreft wordt de regeling in overeenstemming met Onze Minister van Defensie vastgesteld.   
+1.  Indien bovenprovinciale belangen vorderen dat gebruik van een luchthaven essentieel is voor vluchten van algemeen maatschappelijk belang, regeringsvluchten, operationeel noodzakelijke militaire vluchten of vluchten in bondgenootschappelijk verband en dit gebruik op grond van het luchthavenbesluit of de luchthavenregeling voor die luchthaven niet mogelijk is, kan bij regeling van Onze Minister van Infrastructuur en Milieu worden bepaald welke van deze soorten vluchten tot die luchthaven toegang hebben en op welke periode van het etmaal. Indien het hierbij militaire vluchten betreft wordt de regeling in overeenstemming met Onze Minister van Defensie vastgesteld.   
 2.  Bij de ministeriële regeling kan worden bepaald welke grenswaarden voor de geluidbelasting voor dit luchthavenluchtverkeer ter beschikking moeten worden gesteld.   
-3.  Alvorens de ministeriële regeling wordt vastgesteld, worden gedeputeerde staten, de exploitant en de gebruikers van de luchthaven en de luchtverkeersdienstverlener in de gelegenheid gesteld binnen zes weken hun zienswijze op een ontwerp van de regeling bij Onze Minister van Verkeer en Waterstaat naar voren te brengen.   
+3.  Alvorens de ministeriële regeling wordt vastgesteld, worden gedeputeerde staten, de exploitant en de gebruikers van de luchthaven en de luchtverkeersdienstverlener in de gelegenheid gesteld binnen zes weken hun zienswijze op een ontwerp van de regeling bij Onze Minister van Infrastructuur en Milieu naar voren te brengen.   
 
 ### Titel  3  
 
@@ -290,7 +290,7 @@ Bij de vaststelling van het luchthavenbesluit wordt een afweging gemaakt over de
 
 ### Artikel  20  
 
-Als luchtvaartuig als bedoeld in [artikel 8a.50, eerste lid, van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) worden aangewezen: 
+Als luchtvaartuig als bedoeld in artikel 8a.50, eerste lid, van de wet worden aangewezen: 
 
 a. modelvliegtuigen waarvan de totale massa ten hoogste 25 kilogram bedraagt;  
 
@@ -310,19 +310,19 @@ h. zweeftoestellen voor zover het betreft de landing daarvan;
 
 i. vrije ballonnen bestemd en ingericht voor het vervoer van bemande vluchten voor zover het betreft de landing daarvan;  
 
-j. helikopters die worden gebruikt ten behoeve van de uitoefening van politietaken als bedoeld in [artikel 2 van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+j. helikopters die worden gebruikt ten behoeve van de uitoefening van politietaken als bedoeld in artikel 3 van de Politiewet 2012;  
 
 k. helikopters die worden gebruikt ten behoeve van het voorkomen, beperken of bestrijden van brand;  
 
-l. helikopters die worden gebruikt door de SAR-dienst als bedoeld in [artikel 1 van de Regeling inzake de SAR-dienst 1994](../../../../ministeriele-regeling/regeling/inzake/de/sar-dienst/1994/BWBR0006895/README.md), ten behoeve van de opsporing en redding van een mens of dier in levensbedreigende omstandigheden;  
+l. helikopters die worden gebruikt door de SAR-dienst als bedoeld in artikel 1 van de Regeling inzake de SAR-dienst 1994, ten behoeve van de opsporing en redding van een mens of dier in levensbedreigende omstandigheden;  
 
-m. helikopters die worden gebruikt door de houder van een HEMS-vergunning krachtens [artikel 16b van de Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md) ten behoeve van het verlenen van spoedeisende medische hulp;  
+m. helikopters die worden gebruikt door de houder van een HEMS-vergunning krachtens artikel 16b van de Luchtvaartwet ten behoeve van het verlenen van spoedeisende medische hulp;  
 
 n. helikopters die worden gebruikt ten behoeve van het treffen van spoedeisende maatregelen om schade aan transportleidingen te voorkomen, te beperken of te verhelpen.    
 
 ### Artikel  21  
 
-Als luchtvaartuig als bedoeld in [artikel 8a.51 van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) worden aangewezen: 
+Als luchtvaartuig als bedoeld in artikel 8a.51 van de wet worden aangewezen: 
 
 a. helikopters;  
 
@@ -348,7 +348,7 @@ i. luchtschepen die op zeeniveau in de internationale standaard-atmosfeer in geh
 
 ### Artikel  22  
 
-De formules ter bepaling van de geluidsproductie met betrekking tot de luchthaven Schiphol, bedoeld in [artikel 8a.38, vierde lid, van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), en de formules met betrekking tot burgerluchthavens van nationale betekenis met luchthavenbesluit, bedoeld in dat lid, in samenhang met [artikel 8a.42, tweede lid, van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), worden bepaald bij regeling van Onze Minister van Verkeer en Waterstaat.  
+De formules ter bepaling van de geluidsproductie met betrekking tot de luchthaven Schiphol, bedoeld in artikel 8a.38, vierde lid, van de wet, en de formules met betrekking tot burgerluchthavens van nationale betekenis met luchthavenbesluit, bedoeld in dat lid, in samenhang met artikel 8a.42, tweede lid, van de wet, worden bepaald bij regeling van Onze Minister van Infrastructuur en Milieu.  
 
 ### Hoofdstuk  6  
 
@@ -364,7 +364,7 @@ Wijzigt het Besluit informatie-uitwisseling ondergrondse netten.
 
 ### Artikel  24  
 
-Het [Besluit geluidsbelasting kleine luchtvaart](../../../../AMvB/besluit/geluidsbelasting/kleine/luchtvaart/BWBR0004958/README.md) wordt ingetrokken.  
+Het Besluit geluidsbelasting kleine luchtvaart wordt ingetrokken.  
 
 ### Artikel  25  
 

@@ -197,11 +197,11 @@ d. heeft een nitrietgehalte, berekend als nitrietion NO2, van ten hoogste 2 mg p
 2°. verwijdering van wei; en  
 
 3°. rijping tot de waar gereed is voor consumptie.     
-2.  In plaats van de aanduiding kaas mag een van de namen, bedoeld in de bijlage en de Landbouwkwaliteitsregeling kaasprodukten, worden gebezigd, voor zover het een waar betreft waarvan de aard en samenstelling voldoet aan: 
+2.  Voor kaas mag een van de namen, bedoeld in de bijlage en [hoofdstuk 2, paragraaf 2, van de Regeling dierlijke producten](../../../../ministeriele-regeling/regeling/dierlijke/producten/BWBR0032462/README.md) worden gebezigd, voor zover het een waar betreft waarvan de aard en de samenstelling voldoet aan: 
 
 a. de desbetreffende kaasstandaard; of  
 
-b. de Landbouwkwaliteitsregeling kaasprodukten.     
+b. [hoofdstuk 2, paragraaf 2, van de Regeling dierlijke producten](../../../../ministeriele-regeling/regeling/dierlijke/producten/BWBR0032462/README.md).     
 
 ### Artikel  10  
 

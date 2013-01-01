@@ -175,17 +175,9 @@ Een beschikking op grond van Hoofdstuk II van deze wet tot verlening, wijziging 
 
 ####Beroep
 
-### Artikel  17  
-
-Tegen een beschikking op grond van Hoofdstuk II van deze wet of een ander in artikel 10a, eerste lid, bedoeld besluit kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.  
-
 ### Artikel  20  
 
 Indien het beroep is ingesteld door een ander dan de aanvrager of houder van de vergunning, wordt aan deze door de secretaris van de Raad van State terstond schriftelijk medegedeeld, dat het beroep is ingesteld.  
-
-### Artikel  21d  
-
-Niet vatbaar voor afzonderlijk beroep is een mededeling inzake het verlenen van planologische medewerking als bedoeld in artikel 10, tweede en derde lid.  
 
 ### Hoofdstuk  IIIA  
 
@@ -249,13 +241,9 @@ Indien door Onze Minister of door gedeputeerde staten ten behoeve van belangen, 
 
 Indien bij een beschikking als bedoeld in artikel 8 geen vergoeding is toegekend, kan zij worden aangevraagd.  
 
-### Artikel  29  
-
-Tegen een door Onze Minister of gedeputeerde staten gegeven beschikking op grond van artikel 26, eerste lid, dan wel artikel 27, alsmede tegen een beschikking van gedeputeerde staten op grond van het eerste lid kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.  
-
 ### Artikel  29a  
 
-1.  De artikelen 26 tot en met 29 zijn van overeenkomstige toepassing ten aanzien van schade die een rechthebbende als bedoeld in artikel 21g lijdt of zal lijden tengevolge van het opleggen van een gedoogplicht als bedoeld in dat artikel in andere gevallen dan bedoeld in het tweede lid.   
+1.  De artikelen 26 tot en met 28 zijn van overeenkomstige toepassing ten aanzien van schade die een rechthebbende als bedoeld in artikel 21g lijdt of zal lijden tengevolge van het opleggen van een gedoogplicht als bedoeld in dat artikel in andere gevallen dan bedoeld in het tweede lid.   
 2.  De schade tengevolge van het in artikel 21h bedoelde onderzoek wordt vergoed door degene op wiens verzoek de gedoogplicht is opgelegd.   
 
 ### Hoofdstuk  VI  

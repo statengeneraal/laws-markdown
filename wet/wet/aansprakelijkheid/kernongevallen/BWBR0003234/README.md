@@ -25,7 +25,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Bij de toepassing van het Verdrag van Parijs worden de bepalingen van deze wet in acht genomen.  
 
-### Artikel  2a  
+### Artikel  2a   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Indien de exploitant van een in Nederland gelegen kerninstallatie aantoont dat de door een kernongeval veroorzaakte schade geheel of gedeeltelijk het gevolg is van hetzij grove nalatigheid van de persoon die de schade lijdt, hetzij een handelen of nalaten van die persoon met het opzet schade te veroorzaken, kan de bevoegde rechter de exploitant geheel of gedeeltelijk ontslaan van de verplichting schadevergoeding te betalen ter zake van de door die persoon geleden schade.  
 
@@ -39,7 +40,7 @@ Iedere persoon die met betrekking tot door een kernongeval veroorzaakte schade w
 
 ### Artikel  5  
 
-1.  Het maximumbedrag van de aansprakelijkheid van de exploitant van een in Nederland gelegen kerninstallatie wordt overeenkomstig artikel 7, onder *(b)* (i), van het Verdrag van Parijs vastgesteld op € 226 890 108,05.   
+1.  Het maximumbedrag van de aansprakelijkheid van de exploitant van een in Nederland gelegen kerninstallatie wordt overeenkomstig artikel 7, onder *(b)* (i), van het Verdrag van Parijs vastgesteld op € 1,2 miljard.   
 2.  Bij algemene maatregel van bestuur kan, gelet op de mogelijkheden tot het verkrijgen van dekking, het in het eerste lid bedoelde maximumbedrag worden gewijzigd.   
 3.  In de gevallen waarin naar het oordeel van Onze Minister van Financiën de aard van de desbetreffende kerninstallatie of van de desbetreffende nucleaire stoffen, alsmede de te verwachten gevolgen van een ongeval waarbij deze betrokken zijn dit rechtvaardigt, kan hij in overeenstemming met Onze Minister van Justitie het ingevolge het eerste en tweede lid geldende maximumbedrag van de aansprakelijkheid van de betrokken exploitant op een lager bedrag vaststellen.   
 
@@ -128,7 +129,8 @@ b. ten aanzien van degene die ten tijde van het kernongeval de daarbij betrokken
 
 2e. dat een ander ingevolge het eerste lid voor de schade aansprakelijk zou zijn en deze beschikte over een door Onze Minister van Financiën goedgekeurde verzekering of andere financiële zekerheid ter dekking van diens aansprakelijkheid.       
 
-### Artikel  17a  
+### Artikel  17a   
+Treedt in werking op een nader te bepalen tijdstip   
 
 De exploitant van een in Nederland gelegen kerninstallatie die nucleaire stoffen laat vervoeren naar of van een exploitant op het grondgebied van een Staat, partij bij het Gezamenlijk Protocol, doch geen partij bij het Verdrag van Parijs, is aansprakelijk voor schade tijdens dat vervoer, indien op dat vervoer het Verdrag van Brussel van toepassing zou zijn geweest in het geval de betrokken Staat geen partij was bij het Gezamenlijk Protocol.  
 
@@ -158,8 +160,8 @@ Onze Minister van Financiën is gemachtigd ten behoeve van de exploitant van een
 
 ### Artikel  22  
 
-1.  In eerste aanleg is bij uitsluiting bevoegd de rechtbank te 's-Gravenhage.   
-2.  Indien redelijkerwijs rekening moet worden gehouden met de mogelijkheid dat het totaal der vorderingen het maximumbedrag van de aansprakelijkheid van de exploitant uit hoofde van artikel 5 van deze wet overtreft, legt de rechtbank te 's-Gravenhage op verzoek van een belanghebbende, de exploitant en Onze Minister van Financiën gehoord, ter zake van de vergoeding van de schade een verbod van betaling op, wijst zij een rechter-commissaris aan ter vaststelling van de staten van verdeling van de bedragen bedoeld in artikel 27, eerste lid, aanhef en stelt zij tevens een commissie van vereffenaars in, hierna te noemen: de commissie. De rechtbank kan meer dan één rechter-commissaris benoemen en kan een rechter-commissaris bij defungeren vervangen. Zij kan wijzigingen aanbrengen in de samenstelling van de commissie.   
+1.  In eerste aanleg is bij uitsluiting bevoegd de rechtbank Den Haag.   
+2.  Indien redelijkerwijs rekening moet worden gehouden met de mogelijkheid dat het totaal der vorderingen het maximumbedrag van de aansprakelijkheid van de exploitant uit hoofde van artikel 5 van deze wet overtreft, legt de rechtbank Den Haag op verzoek van een belanghebbende, de exploitant en Onze Minister van Financiën gehoord, ter zake van de vergoeding van de schade een verbod van betaling op, wijst zij een rechter-commissaris aan ter vaststelling van de staten van verdeling van de bedragen bedoeld in artikel 27, eerste lid, aanhef en stelt zij tevens een commissie van vereffenaars in, hierna te noemen: de commissie. De rechtbank kan meer dan één rechter-commissaris benoemen en kan een rechter-commissaris bij defungeren vervangen. Zij kan wijzigingen aanbrengen in de samenstelling van de commissie.   
 3.  De beschikking, bedoeld in het tweede lid, wordt door de griffier aanstonds ter kennis gebracht van de exploitant en de verzekeraars of andere personen die financiële zekerheid als bedoeld in artikel 10, onder *(a)*, van het Verdrag van Parijs hebben gesteld, de personen die ingevolge het Gezamenlijk Protocol gehouden zijn tot betaling, alsmede van Onze Minister van Financiën. De beschikking wordt voorts door de griffier aanstonds bekend gemaakt in de *Staatscourant*, onder vermelding van het bepaalde in de tweede zin van het vierde lid.   
 4.  Betalingen in strijd met een verbod als bedoeld in het tweede lid zijn van rechtswege nietig vanaf het moment waarop degene die de betaling verrichtte kennis heeft verkregen van de beschikking. Vanaf dat moment worden alle vorderingen tot vergoeding van de schade ter verificatie ingediend bij de commissie door de overlegging van een rekening of andere schriftelijke verklaring aangevende de aard en het bedrag der vordering vergezeld van de bewijsstukken of een afschrift daarvan. De commissie zendt aanstonds een afschrift van alle ingediende stukken aan de exploitant en aan Onze Minister van Financiën.   
 5.  De exploitant en de verzekeraars of andere personen die financiële zekerheid als bedoeld in artikel 10, onder *(a)*, van het Verdrag van Parijs hebben gesteld, de personen die ingevolge het Gezamenlijk Protocol gehouden zijn tot betaling, alsmede de Staat, zijn verplicht op bevel van de rechter-commissaris op een door de commissie aan te wijzen rekening de bedragen te storten benodigd voor de voldoening aan het bepaalde in artikel 29, met dien verstande dat het totale door ieder van deze personen afzonderlijk te storten bedrag wordt verminderd met de bedragen die deze persoon ter zake van de vergoeding van de schade heeft betaald voor het moment waarop hij kennis heeft gekregen van de beschikking bedoeld in het tweede lid.   

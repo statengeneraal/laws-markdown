@@ -37,7 +37,7 @@ e. plaatselijk overlegorgaan: het overlegorgaan, bedoeld in artikel 14 van het K
 
 ### Artikel  14  
 
-1.  De ambtenaar dan wel werknemer die is benoemd tot lid van het college van bestuur of van een faculteitsbestuur dan wel tot rector magnificus, wordt in verband daarmee ontheven van de vervulling van zijn betrekking. De ambtenaar die is benoemd tot rector magnificus behoudt zijn bezoldiging onverminderd het bepaalde in artikel 127, eerste lid van de Wet op het wetenschappelijk onderwijs.   
+1.  De ambtenaar dan wel werknemer die is benoemd tot lid van het college van bestuur of van een faculteitsbestuur dan wel tot rector magnificus, wordt in verband daarmee ontheven van de vervulling van zijn betrekking.   
 2.  Voor de vervulling van de betrekking van de ambtenaar dan wel werknemer, bedoeld in het eerste lid, wordt in elk geval gedurende diens eerste bestuursperiode geen voorziening getroffen die de terugkeer van de betrokkene naar die betrekking onmogelijk maakt.   
 
 ### Artikel  15  

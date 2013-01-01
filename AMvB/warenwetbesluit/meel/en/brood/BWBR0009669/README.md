@@ -88,7 +88,7 @@ c. onkruidzaden.
 
 ### Artikel  8  
 
-De aanduiding *brood* mag uitsluitend worden gebezigd voor brood met een vochtgehalte van ten minste 20%, en een gehalte aan keukenzout van ten hoogste 2,1% berekend op de droge stof.  
+De aanduiding *brood* mag uitsluitend worden gebezigd voor brood met een vochtgehalte van ten minste 20%, en een gehalte aan keukenzout van ten hoogste 1,8%, berekend op de droge stof.  
 
 ### Artikel  9  
 
@@ -96,7 +96,7 @@ De aanduiding *wit(te)brood* mag uitsluitend worden gebezigd voor brood:
 
 – met een vochtgehalte van ten minste 20%;  
 
-– met een gehalte aan keukenzout van ten hoogste 2,1% berekend op de droge stof;  
+– met een gehalte aan keukenzout van ten hoogste 1,8%, berekend op de droge stof;  
 
 – waarvan tarwebloem het voornaamste meelbestanddeel is; en  
 
@@ -108,7 +108,7 @@ De aanduiding *bruinbrood* of *tarwebrood* mag uitsluitend worden gebezigd voor 
 
 – met een vochtgehalte van ten minste 20%;  
 
-– met een gehalte aan keukenzout van ten hoogste 2,1% berekend op de droge stof;  
+– met een gehalte aan keukenzout van ten hoogste 1,8%, berekend op de droge stof;  
 
 – waarvan (volkoren)tarwemeel, al dan niet gemengd met gebroken tarwe en tarwevlokken, het voornaamste meelbestanddeel is; en  
 
@@ -120,7 +120,7 @@ De aanduiding *melkbrood* mag uitsluitend worden gebezigd voor brood:
 
 – met een vochtgehalte van ten minste 20%;  
 
-– met een gehalte aan keukenzout van ten hoogste 2,1% berekend op de droge stof; en  
+– met een gehalte aan keukenzout van ten hoogste 1,8%, berekend op de droge stof; en  
 
 – waaraan melkbestanddelen in hun natuurlijke verhouding zijn toegevoegd, zodat het melkvetgehalte ten minste 1,5% van de droge stof bedraagt.    
 

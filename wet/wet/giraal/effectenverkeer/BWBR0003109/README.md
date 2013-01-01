@@ -34,7 +34,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 2.  De toezichthouder heeft het recht de vergaderingen van de organen van het centraal instituut bij te wonen en aldaar een raadgevende stem uit te brengen.   
 3.  Het bestuur van het centraal instituut is gehouden aan de toezichthouder al die inlichtingen te verstrekken welke deze tot een behoorlijke uitoefening van het toezicht nodig acht.   
 4.  Onze Minister kan nadere regels vaststellen betreffende dit toezicht. Deze regels worden bekend gemaakt in de Nederlandse Staatscourant.   
-5.  De toezichthouder brengt de kosten van de werkzaamheden die hij verricht in verband met de uitvoering van zijn taak op grond van deze wet in rekening bij het centraal instituut. De kosten worden gebaseerd op de begroting. [Artikel 1:40 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van overeenkomstige toepassing.   
+5.   vervallen.    
 6.  Wijziging van de statuten van het centraal instituut behoeft de voorafgaande instemming van Onze Minister.   
 
 ### Artikel  3  
@@ -339,6 +339,78 @@ Het centraal instituut is tot uitlevering bevoegd zonder medewerking van de ande
 
 1.  Bij uitlevering van effecten uit hoofde van een aandeel waarop een pandrecht rust, komt dit pandrecht mede op de uitgeleverde effecten te rusten.   
 2.  Het eerste lid is bij uitkeringen als bedoeld in artikel 27, tweede lid, tweede zin, en derde lid van overeenkomstige toepassing.   
+
+### Hoofdstuk  3a  
+
+####Identificatie van investeerders
+
+### Artikel  49a  
+
+Voor de toepassing van het ingevolge dit hoofdstuk bepaalde wordt verstaan onder: 
+
+a.  *effecten met een aandelenkarakter:*  
+
+1°. verhandelbare aandelen als bedoeld in [artikel 79, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+
+2°. verhandelbare aandelen die zijn uitgegeven door een rechtspersoon, opgericht naar het recht van een andere staat dan Nederland, die gelijk te stellen zijn met aandelen als bedoeld onder 1°;  
+
+3°. certificaten van aandelen of andere met certificaten van aandelen gelijk te stellen verhandelbare waardebewijzen;    
+
+b. *instelling in het buitenland:* een instelling met zetel in het buitenland waaraan het op grond van het op die instelling van toepassing zijnde recht is toegestaan ten name van cliënten rekeningen in effecten te administreren of aan te houden.  
+
+c.  *investeerder:*  
+
+1°. degene die voor eigen rekening een tegoed, luidend in effecten met een aandelenkarakter aanhoudt bij een aangesloten instelling, intermediair of instelling in het buitenland, of  
+
+2°. beheerder van een belegginginstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).    
+
+d. *uitgevende instelling:* naamloze vennootschap naar Nederlands recht of een rechtspersoon opgericht naar het recht van een andere staat dan Nederland, niet zijnde een beleggingsinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt waarvoor een vergunning als bedoeld in [artikel 5:26, eerste lid, van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is verleend, of op een multilaterale handelsfaciliteit waarvoor een vergunning als bedoeld in [artikel 2:96 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is verleend.    
+
+### Artikel  49b  
+
+1.  Een uitgevende instelling kan: 
+
+a. het centraal instituut schriftelijk verzoeken tot verstrekking van de naam, het adres, en, indien aanwezig, het emailadres van iedere aangesloten instelling of intermediair ten name van wie in het girodepot door de uitgevende instelling of met haar medewerking uitgegeven effecten met een aandelenkarakter worden bewaard, alsmede van het tegoed van iedere aangesloten instelling of intermediair luidend in zodanige effecten in dat girodepot;  
+
+b. een aangesloten instelling of intermediair van wie de uitgevende instelling weet of redelijkerwijs mag aannemen dat deze een verzameldepot aanhoudt van door de uitgevende instelling of met haar medewerking uitgegeven effecten met een aandelenkarakter, schriftelijk verzoeken tot verstrekking van de naam, het adres en, indien aanwezig, het emailadres van iedere deelgenoot in dat verzameldepot alsmede van het tegoed van iedere deelgenoot luidend in zodanige effecten in dat verzameldepot;  
+
+c. een instelling in het buitenland van wie de uitgevende instelling weet of redelijkerwijs mag aannemen dat zij, beroepsmatig en anders dan als investeerder, door de uitgevende instelling of met haar medewerking uitgegeven effecten met een aandelenkarakter administreert of aanhoudt, schriftelijk verzoeken tot verstrekking van de naam, het adres, het tegoed luidend in zodanige effecten en, indien aanwezig, het emailadres van iedere cliënt voor wie zij een tegoed luidend in effecten met een aandelenkarakter administreert of aanhoudt alsmede van het tegoed van iedere cliënt luidend in zodanige effecten dat bij de instelling wordt aangehouden; of  
+
+d. een bewaarder van een beleggingsinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van wie de uitgevende instelling weet of redelijkerwijs mag aannemen dat hij door de uitgevende instelling of met haar medewerking uitgegeven effecten met een aandelenkarakter administreert of aanhoudt, schriftelijk verzoeken tot verstrekking van de naam, het adres en, indien aanwezig, het emailadres van de beheerder van die beleggingsinstelling alsmede van het tegoed van de beheerder luidend in zodanige effecten dat door de bewaarder wordt bewaard.     
+2.  Degene tot wie het verzoek als bedoeld in het eerste lid zich richt, verstrekt geen informatie over investeerders die elk minder dan een tweehonderdste deel van het geplaatste kapitaal van een uitgevende instelling vertegenwoordigen.   
+3.  De uitgevende instelling doet een verzoek als bedoeld in het eerste lid alleen in een periode vanaf zestig dagen tot en met de dag van een algemene vergadering van aandeelhouders. De uitgevende instelling vermeldt in het verzoek de peildatum waarop het verzoek, bedoeld in het eerste lid, is gericht.   
+4.  Degene tot wie het verzoek, bedoeld in het eerste lid, is gericht, beantwoordt dit binnen drie werkdagen na ontvangst door middel van verstrekking van de verzochte gegevens of een verklaring dat hij geen door of met medewerking van de verzoeker uitgegeven effecten met een aandelenkarakter administreert of aanhoudt. Indien de geadresseerde wegens omstandigheden die buiten zijn macht liggen niet in staat is tot beantwoording binnen de genoemde termijn informeert hij de verzoeker daarover binnen drie werkdagen na ontvangst van het verzoek, onder vermelding van de reden en de termijn waarbinnen het verzoek beantwoord zal worden. De termijn bedraagt maximaal zeven werkdagen gerekend vanaf het moment van ontvangst van het verzoek.   
+5.  Op schriftelijk verzoek, gedaan in een periode vanaf zestig dagen tot de tweeënveertigste dag voor die van de algemene vergadering, van een investeerder die op het moment van het verzoek alleen of gezamenlijk met andere investeerders tenminste een tiende gedeelte van het geplaatste kapitaal van een uitgevende instelling vertegenwoordigt, identificeert de uitgevende instelling investeerders van door haar of met haar medewerking uitgegeven effecten met een aandelenkarakter door middel van het doen van verzoeken als bedoeld in het eerste lid.   
+6.  Uiterlijk op het moment van het eerste verzoek als bedoeld in het eerste lid doet de uitgevende instelling hierover een mededeling op haar website, onder vermelding van de mogelijkheid van verzending van informatie overeenkomstig artikel 49c, de mogelijke data van die verzending en de uiterlijke data voor terbeschikkingstelling van informatie door investeerders.   
+7.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze waarop een verzoek op grond van het eerste of vijfde lid wordt gedaan en beantwoord.   
+
+### Artikel  49c  
+
+1.  Op schriftelijk verzoek van een investeerder die alleen of gezamenlijk met andere investeerders tenminste een honderdste gedeelte van het geplaatste kapitaal van een uitgevende instelling vertegenwoordigt of rechthebbende is op een bedrag van aandelen of certificaten daarvan met een gezamenlijke waarde van tenminste € 250 000, verzendt de uitgevende instelling, indien deze beschikt over op grond van artikel 49b, eerste lid, onder b, c of d, verkregen gegevens, door de investeerder ter beschikking gestelde informatie welke verband houdt met een onderwerp dat is geagendeerd voor de algemene vergadering aan de investeerders van de uitgevende instelling. De uitgevende instelling verzendt de informatie met de meeste spoed, in elk geval binnen drie werkdagen na ontvangst van het verzoek of plaatst deze informatie met de meeste spoed, in elk geval binnen drie werkdagen, op haar website, waar deze informatie tenminste tot en met de dag van de algemene vergadering beschikbaar wordt gehouden.   
+2.  In afwijking van het eerste lid is de uitgevende instelling niet verplicht tot verzending van informatie die minder dan zeven werkdagen voor de algemene vergadering door haar wordt ontvangen.   
+3.  Indien een uitgevende instelling ter uitvoering van het eerste lid informatie verzendt, vermeldt zij de naam van de verzoeker.   
+4.  In afwijking van het eerste lid is een uitgevende instelling evenmin verplicht informatie te verzenden: 
+
+a. waarvan een onjuist of misleidend signaal uitgaat of te duchten is met betrekking tot de uitgevende instelling; of  
+
+b. die van zodanige aard is dat verzending naar maatstaven van redelijkheid en billijkheid niet van de uitgevende instelling kan worden verlangd.     
+5.  De uitgevende instelling plaatst informatie die zij uit eigen beweging of op schriftelijk verzoek van een investeerder heeft verzonden onverwijld na verzending op haar website. De uitgevende instelling houdt de informatie gedurende tenminste een jaar op de website toegankelijk.   
+6.  Voor de toepassing van dit artikel wordt als investeerder beschouwd degene die investeerder is op de peildatum die is vermeld in het laatst gedane verzoek, bedoeld in artikel 49b, eerste lid.   
+7.  Indien door de investeerder, bedoeld in het zesde lid, een overeenkomst is gesloten met een derde op grond waarvan deze derde naar eigen goeddunken stemmen kan uitbrengen en de investeerder informatie van de uitgevende instelling ontvangt, verstrekt hij de naam, het adres en het emailadres van de derde aan de uitgevende instelling en stuurt hij de informatie die van de uitgevende instelling is ontvangen onverwijld door aan de derde.   
+8.  Indien door de investeerder, bedoeld in het zesde lid, toepassing is gegeven aan [artikel 88, derde lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), onderscheidenlijk [89, derde lid, van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en de investeerder informatie van de uitgevende instelling ontvangt, verstrekt hij de naam, het adres en het emailadres van de vruchtgebruiker of pandhouder aan de uitgevende instelling en stuurt hij de informatie die van de uitgevende instelling is ontvangen onverwijld door aan de vruchtgebruiker of pandhouder.   
+9.  Bij ministeriële regeling kunnen regels worden gesteld voor de wijze waarop het in het eerste lid bedoelde verzoek wordt gedaan en de wijze waarop een uitgevende instelling hieraan uitvoering geeft.   
+
+### Artikel  49d  
+
+1.  De uitgevende instelling is verplicht tot geheimhouding van de in artikel 49b, eerste lid en artikel 49c, zevende en achtste lid bedoelde gegevens, waarvan zij kennis neemt en verwerkt deze gegevens op een behoorlijke en zorgvuldige wijze.   
+2.  Indien een uitgevende instelling aan een derde volmacht heeft verleend om namens haar een verzoek als bedoeld in artikel 49b, eerste lid, te doen en de verzochte gegevens te ontvangen, is deze derde verplicht tot geheimhouding van de in artikel 49b, eerste lid en artikel 49c, zevende en achtste lid, bedoelde gegevens waarvan hij kennis neemt en verwerkt deze gegevens op een behoorlijke en zorgvuldige wijze.   
+3.  De uitgevende instelling of, indien van toepassing, de derde aan wie de uitgevende instelling een volmacht heeft verleend om namens haar een verzoek als bedoeld in artikel 49b, eerste lid, te doen, verwerkt de in artikel 49b, eerste lid en artikel 49c, zevende en achtste lid, bedoelde gegevens niet verder op een wijze die onverenigbaar is met de doeleinden waarvoor ze zijn verkregen.   
+4.  De uitgevende instelling of, indien van toepassing, de derde aan wie de uitgevende instelling een volmacht heeft verleend om namens haar een verzoek als bedoeld in artikel 49b, eerste lid, te doen, legt passende technische en organisatorische maatregelen ten uitvoer om de in de in artikel 49b, eerste lid en artikel 49c, zevende en achtste lid, bedoelde gegevens te beveiligen tegen verlies of enige vorm van onrechtmatige verwerking.   
+
+### Artikel  49e  
+
+1.  Indien een verzoek als bedoeld in artikel 49b, eerste lid, onderdeel a, b of d, geheel of gedeeltelijk niet wordt beantwoord, kan de rechtbank binnen wiens arrondissement de uitgevende instelling die het verzoek heeft gedaan is gevestigd, op vordering van die uitgevende instelling of een derde aan wie de uitgevende instelling een volmacht heeft verleend degene tot wie het verzoek is gericht bevelen het gedane verzoek na te komen.   
+2.  De bevoegdheid om de vordering in te stellen vervalt door verloop van drie maanden vanaf de dag waarop de uitgevende instelling van de niet-beantwoording kennis heeft genomen of heeft kunnen nemen.   
 
 ### Hoofdstuk  4  
 

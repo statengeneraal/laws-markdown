@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 5 november 2001, nr. MJZ2001120 768, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
 
-Gelet op richtlijn nr. 2000/53/EG van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende autowrakken (PbEG L 269), de [artikelen 1.1, derde lid](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.2, tweede lid](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.40](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.44, eerste lid](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.45](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [10.15 tot en met 10.17](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [10.22, tweede lid](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [10.61 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [artikel 119a van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);
+Gelet op richtlijn nr. 2000/53/EG van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende autowrakken (PbEG L 269), de artikelen 1.1, derde lid, 8.2, tweede lid, 8.40, 8.44, eerste lid, 8.45, 10.15 tot en met 10.17, 10.22, tweede lid, en 10.61 van de Wet milieubeheer en artikel 119a van het Wetboek van Strafvordering;
 
 De Raad van State gehoord (advies van 22 maart 2002, nr. W08.01.0588/V);
 
@@ -18,17 +18,17 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit en de daarop berustende bepalingen wordt, voor zover het betreft de onderdelen e en f in afwijking van [artikel 1.1, eerste lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), verstaan onder: 
+In dit besluit en de daarop berustende bepalingen wordt, voor zover het betreft de onderdelen e en f in afwijking van artikel 1.1, eerste lid, van de Wet milieubeheer, verstaan onder: 
 
 a. voertuig: 
 
-1°. bedrijfsauto als bedoeld in [artikel 1.1 van de Regeling voertuigen](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) met een maximum gewicht van ten hoogste 3500 kilogram;  
+1°. bedrijfsauto als bedoeld in artikel 1.1 van de Regeling voertuigen met een maximum gewicht van ten hoogste 3500 kilogram;  
 
-2°. personenauto als bedoeld in [artikel 1.1 van de Regeling voertuigen](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), of;  
+2°. personenauto als bedoeld in artikel 1.1 van de Regeling voertuigen, of;  
 
-3°. bromfiets als bedoeld in [artikel 1.1 van de Regeling voertuigen](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), niet zijnde een voertuig op twee wielen;     
+3°. bromfiets als bedoeld in artikel 1.1 van de Regeling voertuigen, niet zijnde een voertuig op twee wielen;     
 
-b. autowrak: voertuig dat een afvalstof is in de zin van [artikel 1.1, eerste lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+b. autowrak: voertuig dat een afvalstof is in de zin van artikel 1.1, eerste lid, van de Wet milieubeheer;  
 
 c. de producent: degene onder wiens verantwoordelijkheid in de uitoefening van zijn beroep of bedrijf voertuigen worden vervaardigd en als eerste in Nederland aan een ander ter beschikking worden gesteld;  
 
@@ -67,7 +67,7 @@ m. autowrakkenrichtlijn: richtlijn nr. 2000/53/EG van het Europees Parlement en 
 ### Artikel  2  
 
 1.  De artikelen 3, 4, 8, onder b en c, 9 tot en met 11 en 15, vierde lid, zijn niet van toepassing op voertuigen als bedoeld in artikel 1, onder a, onderdeel 2°.   
-2.  Dit besluit is niet van toepassing op producten voorzover daaromtrent regels zijn gesteld in het [Besluit beheer elektrische en elektronische apparatuur](../../../../../AMvB/besluit/beheer/elektrische/en/elektronische/apparatuur/BWBR0016990/README.md), de [Regeling beheer elektrische en elektronische apparatuur](../../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md), het [Besluit beheer batterijen of accu’s 2008](../../../../../AMvB/besluit/beheer/batterijen/en/accu's/2008/BWBR0024491/README.md) of de [Regeling beheer batterijen en accu’s 2008](../../../../../ministeriele-regeling/regeling/beheer/batterijen/en/accu's/2008/BWBR0024492/README.md).   
+2.  Dit besluit is niet van toepassing op producten voorzover daaromtrent regels zijn gesteld in het Besluit beheer elektrische en elektronische apparatuur, de Regeling beheer elektrische en elektronische apparatuur, het Besluit beheer batterijen of accu’s 2008 of de Regeling beheer batterijen en accu’s 2008.   
 
 ### §  2  
 
@@ -99,17 +99,17 @@ c. steeds meer hergebruikt materiaal in voertuigen en in andere producten wordt 
 
 ### Artikel  6  
 
-Bij de afvalstoffenverordening, bedoeld in [artikel 10.23, eerste lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), wordt bepaald dat een autowrak, zijnde een huishoudelijke afvalstof, slechts mag worden afgegeven aan: 
+Bij de afvalstoffenverordening, bedoeld in artikel 10.23, eerste lid, van de Wet milieubeheer, wordt bepaald dat een autowrak, zijnde een huishoudelijke afvalstof, slechts mag worden afgegeven aan: 
 
-a. een autodemontagebedrijf als bedoeld in [artikel 1.1, eerste lid, van het Besluit algemene regels voor inrichtingen milieubeheer](../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md);  
+a. een autodemontagebedrijf als bedoeld in artikel 1.1, eerste lid, van het Activiteitenbesluit milieubeheer;  
 
-b. degene die een inrichting drijft waar onderhoud en reparatie van motorvoertuigen plaatsvindt als bedoeld in categorie 28.10 van [bijlage I, onder C, bij het Besluit omgevingsrecht](../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), of  
+b. degene die een inrichting drijft waar onderhoud en reparatie van motorvoertuigen plaatsvindt als bedoeld in categorie 28.10 van bijlage I, onder C, bij het Besluit omgevingsrecht, of  
 
-c. degene die in een ander land dan Nederland is gevestigd en die overeenkomstig de EG-verordening overbrenging van afvalstoffen en [titel 10.7 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) het autowrak naar dat land brengt.    
+c. degene die in een ander land dan Nederland is gevestigd en die overeenkomstig de EG-verordening overbrenging van afvalstoffen en titel 10.7 van de Wet milieubeheer het autowrak naar dat land brengt.    
 
 ### Artikel  7  
 
-[Artikel 10.22, eerste lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) blijft buiten toepassing met betrekking tot autowrakken.  
+Artikel 10.22, eerste lid, van de Wet milieubeheer blijft buiten toepassing met betrekking tot autowrakken.  
 
 ### Artikel  8  
 
@@ -191,7 +191,7 @@ f. gegevens omtrent de wijze waarop hetgeen in de mededeling staat vermeld ten a
 ### Artikel  13  
 
 1.  De mededeling, bedoeld in artikel 12, eerste lid, behoeft de instemming van Onze Minister.   
-2.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op het verzoek tot instemming.   
+2.  Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht is van toepassing op het verzoek tot instemming.   
 3.  Onze Minister kan voorschriften of beperkingen verbinden aan de instemming met de mededeling.   
 4.  Onze Minister kan de voorschriften of beperkingen, bedoeld in het tweede lid, ambtshalve of op een daartoe strekkend verzoek wijzigen of intrekken.   
 

@@ -43,8 +43,7 @@ b. publiekrechtelijke regeling:
 1.  Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder werknemer verstaan de natuurlijke persoon, die in dienstbetrekking staat.   
 2.  Wie zijn dienstbetrekking niet binnen het Rijk vervult, wordt slechts als werknemer beschouwd, indien hij binnen het Rijk woont en zijn werkgever eveneens binnen het Rijk woont of gevestigd is. Voor zover een werkgever binnen het Rijk een vaste inrichting voor de uitoefening van zijn bedrijf of beroep of een binnen het Rijk wonende of gevestigde vaste vertegenwoordiger heeft, wordt hij voor de toepassing van de vorige volzin gelijkgesteld met een binnen het Rijk gevestigde werkgever.   
 3.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald, dat personen, die niet binnen het Rijk wonen, ook als werknemer worden beschouwd, voor zover zij hun dienstbetrekking buiten het Rijk vervullen.   
-4.  Bij of krachtens algemene maatregel van bestuur kan van het bepaalde in het eerste en het tweede lid worden afgeweken ten aanzien van personen, die slechts tijdelijk binnen het Rijk wonen of tijdelijk binnen het Rijk werkzaam zijn.   
-5.  Voor de toepassing van de vorige leden worden schepen en luchtvaartuigen, welke binnen het Rijk hun thuishaven hebben, ten opzichte van de werkgever en de bemanning beschouwd als deel van het Rijk.   
+4.  Voor de toepassing van de vorige leden worden schepen en luchtvaartuigen, welke binnen het Rijk hun thuishaven hebben, ten opzichte van de werkgever en de bemanning beschouwd als deel van het Rijk.   
 
 ### Artikel  5  
 
@@ -74,7 +73,7 @@ h. uitkeringen ingevolge een spaarloonregeling als bedoeld in [artikel 32, eerst
 
 i. eindejaarsuitkeringen;  
 
-j. een vergoeding als bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of een werkgeversbijdrage in de premie voor de ziektekostenverzekering van een persoon, bedoeld in [artikel 2, tweede lid, onderdeel a, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).     
+j. een werkgeversbijdrage in de premie voor de ziektekostenverzekering van een persoon, bedoeld in [artikel 2, tweede lid, onderdeel a, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).     
 2.  Bij algemene maatregel van bestuur kunnen andere uitzonderingen dan de in het eerste lid genoemde worden gesteld.   
 3.  Onze Minister kan regelen stellen naar welke wordt beoordeeld welke inkomsten moeten worden aangemerkt als uitkeringen of vergoedingen als bedoeld in het eerste lid, onder *c-i*.   
 
@@ -84,7 +83,7 @@ j. een vergoeding als bedoeld in [artikel 46 van de Zorgverzekeringswet](../../.
 
 ### Artikel  7  
 
-1.  Uit de overeenkomst, waarop een dienstbetrekking berust, heeft de werknemer, die de leeftijd van 23 jaar doch niet die van 65 jaar heeft bereikt, voor de arbeid door hem in dien dienstbetrekking verricht, jegens de werkgever aanspraak op een loon ten minste tot het bedrag, bij of krachtens de volgende artikelen onder de benaming minimumloon vastgesteld.   
+1.  Uit de overeenkomst, waarop een dienstbetrekking berust, heeft de werknemer die de leeftijd van 23 jaar heeft bereikt doch niet de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), voor de arbeid door hem in dien dienstbetrekking verricht, jegens de werkgever aanspraak op een loon ten minste tot het bedrag, bij of krachtens de volgende artikelen onder de benaming minimumloon vastgesteld.   
 2.  Indien daartoe naar Ons oordeel aanleiding bestaat op grond van de ontwikkeling in collectieve arbeidsovereenkomsten ter zake van de leeftijd waarop aanspraak op een loon tenminste tot de in artikel 8, eerste lid, genoemde bedragen ontstaat, kan bij algemene maatregel van bestuur worden bepaald, dat werknemers beneden de leeftijd van 23 jaar, die de leeftijd van 22 jaar dan wel die de leeftijd van 21 jaar hebben bereikt, eveneens de in het eerste lid bedoelde aanspraak hebben.   
 3.  Bij algemene maatregel van bestuur kan worden bepaald, dat werknemers - dan wel dat werknemers, behorende tot een bij de maatregel aangewezen categorie - beneden de leeftijd van 23 jaar of, zo toepassing is gegeven aan het tweede lid, beneden de krachtens dat lid bepaalde leeftijd, die een bij de maatregel aangewezen lagere leeftijd hebben bereikt, eveneens de in het eerste lid bedoelde aanspraak hebben.   
 4.  Beloningen, die de werknemer voor arbeid, door hem in de dienstbetrekking verricht, van derden ontvangt, worden, voor zover zij deel uitmaken van de arbeidsvoorwaarden, voor de toepassing van het bij of krachtens het eerste, tweede of derde lid bepaalde geacht van de werkgever te zijn ontvangen.   
@@ -94,11 +93,11 @@ j. een vergoeding als bedoeld in [artikel 46 van de Zorgverzekeringswet](../../.
 
 1.  Het minimumloon bedraagt over elke uitbetalingstermijn van: 
 
-a. een maand of een veelvoud van een maand: € 1264,80 per 1 januari 2012: € 1446,60, onderscheidenlijk een gelijk veelvoud hiervan;  
+a. een maand of een veelvoud van een maand: € 1264,80 per 1 januari 2013: € 1469,40, onderscheidenlijk een gelijk veelvoud hiervan;  
 
-b. een week of een veelvoud van een week: € 291,90 per 1 januari 2012: € 333,85, onderscheidenlijk een gelijk veelvoud hiervan;  
+b. een week of een veelvoud van een week: € 291,90 per 1 januari 2013: € 339,10, onderscheidenlijk een gelijk veelvoud hiervan;  
 
-c. een andere tijdsduur: € 58,38 per 1 januari 2012: € 66,77 vermenigvuldigd met het aantal van de in die termijn begrepen werkdagen. Onder werkdag wordt verstaan een dag, waarop de werknemer arbeid heeft verricht of waarover hij recht op loon heeft als bedoeld in artikel 7, vijfde lid.     
+c. een andere tijdsduur: € 58,38 per 1 januari 2013: € 67,82 vermenigvuldigd met het aantal van de in die termijn begrepen werkdagen. Onder werkdag wordt verstaan een dag, waarop de werknemer arbeid heeft verricht of waarover hij recht op loon heeft als bedoeld in artikel 7, vijfde lid.     
 2.  Waar in deze wet wordt verwezen naar de in het vorige lid genoemde bedragen, worden als zodanig, indien toepassing is gegeven aan artikel 14, de daarbij laatstelijk in hun plaats gestelde bedragen aangemerkt.   
 3.  In afwijking van het eerste lid bedraagt het minimumloon voor werknemers aan wie de in artikel 7, eerste lid, bedoelde aanspraak is toegekend bij een algemene maatregel van bestuur als bedoeld in het derde lid van dat artikel, een bij die maatregel vast te stellen percentage van de in het eerste lid van het onderhavige artikel genoemde bedragen. Dit percentage kan voor naar leeftijd en tak van bedrijf of beroep te onderscheiden categorieën van deze werknemers verschillend zijn.   
 
@@ -199,13 +198,17 @@ b. het verschil tussen de ontwikkeling van de contractlonen zoals deze voor het 
 ### Artikel  18b  
 
 1.  Als overtreding wordt aangemerkt het door een werkgever niet of onvoldoende nakomen van de op hem op grond van artikel 7 rustende verplichting aangaande het voldoen van hetgeen in hoofdstuk II is aangeduid als minimumloon alsmede het door de werkgever niet of onvoldoende nakomen van de op hem op grond van artikel 15 rustende verplichting.   
-2.  Als overtreding wordt tevens aangemerkt het door de werkgever niet of onvoldoende kunnen overleggen van enige schriftelijke bescheiden waaruit de aard van de arbeidsrelatie, het door hem betaalde loon of de door hem betaalde vakantiebijslag of het aantal gewerkte uren blijkt van een in zijn onderneming, bedrijf of inrichting aangetroffen persoon.   
+2.  Als overtreding wordt tevens aangemerkt het door de werkgever desgevraagd niet of niet tijdig aan de toezichthouder verstrekken van bescheiden waaruit blijkt: 
+
+a. het aan de werknemer betaalde loon en de betaalde vakantiebijslag; en  
+
+b. het aantal door de werknemer gewerkte uren.     
+3.  Voor de toepassing van het tweede lid wordt als werkgever aangemerkt degene in of ten behoeve van wiens onderneming, bedrijf of inrichting een persoon arbeid verricht of heeft verricht of waarvan op grond van feiten en omstandigheden naar redelijk vermoeden een persoon arbeid verricht of heeft verricht. De in de eerste zin bedoelde persoon wordt in dat geval voor de toepassing van het tweede lid aangemerkt als werknemer. Hetgeen in de eerste zin is bepaald geldt behoudens tegenbewijs.   
 
 ### Artikel  18c  
 
 1.  Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar legt namens hem de bestuurlijke boete op aan degene op wie de verplichtingen rusten welke voortvloeien uit deze wet, voor zover het niet naleven daarvan is aangeduid als een overtreding.   
 2.  De ter zake van de bij of krachtens deze wet gestelde overtredingen gelden ten opzichte van elke persoon met of ten aanzien van wie de overtreding is begaan.   
-3.  Een beschikking op grond van deze wet van de ambtenaar, bedoeld in het eerste lid, wordt genomen namens Onze Minister.   
 
 ### Artikel  18e  
 
@@ -218,10 +221,13 @@ b. het officiële nummer waaronder het betreffende vervoermiddel is geregistreer
 
 ### Artikel  18f  
 
-1.  De bestuurlijke boete bedraagt per overtreding ten hoogste € 6 700, behoudens het tweede lid.   
-2.  Onverminderd het eerste lid verhoogt de aangewezen ambtenaar, bedoeld in artikel 18c, eerste lid, de op te leggen bestuurlijke boete met 50%, indien op de dag van het constateren van de overtreding nog geen 24 maanden zijn verstreken nadat een eerdere overtreding bestaande uit het niet naleven van eenzelfde wettelijke verplichting is geconstateerd en de bestuurlijke boete wegens de eerdere overtreding onherroepelijk is geworden.   
-3.  Onze Minister stelt beleidsregels vast waarin onder meer de boetebedragen voor iedere overtreding worden vastgesteld. [Artikel 5:53 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing indien een artikel gesteld bij of krachtens deze wet op grond waarvan een bestuurlijke boete kan worden opgelegd, niet is nageleefd.   
-4.  In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechter in beroep of hoger beroep de hoogte van de bestuurlijke boete ook ten nadele van de belanghebbende wijzigen.   
+1.  De bestuurlijke boete die voor een overtreding kan worden opgelegd bedraagt ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+2.  Onverminderd het eerste lid verhoogt de op grond van artikel 18c, eerste lid, aangewezen ambtenaar de op te leggen bestuurlijke boete met 100 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen, is geconstateerd en de bestuurlijke boete wegens de eerdere overtreding onherroepelijk is geworden.   
+3.  De verhoging van de bestuurlijke boete, bedoeld in het tweede lid, bedraagt 200 procent indien zowel de overtreding als de eerdere overtreding, bedoeld in dat lid, bij of krachtens algemene maatregel van bestuur zijn aangewezen als ernstige overtredingen.   
+4.  Onverminderd het eerste lid verhoogt de op grond van artikel 18c, eerste lid, aangewezen ambtenaar de op te leggen bestuurlijke boete met 200 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding twee maal een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen, is geconstateerd en de bestuurlijke boeten wegens de eerdere overtredingen onherroepelijk zijn geworden.   
+5.  In afwijking van het tweede en vierde lid is het tijdvak van vijf jaar in die leden tien jaar indien de onherroepelijke boetes, bedoeld in die leden, zijn opgelegd wegens bij of krachtens algemene maatregel van bestuur aangewezen ernstige overtredingen.   
+6.  Onze Minister stelt beleidsregels vast waarin onder meer de boetebedragen voor iedere overtreding worden vastgesteld. [Artikel 5:53 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing indien een artikel gesteld bij of krachtens deze wet op grond waarvan een bestuurlijke boete kan worden opgelegd, niet is nageleefd.   
+7.  In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechter in beroep of hoger beroep de hoogte van de bestuurlijke boete ook ten nadele van de belanghebbende wijzigen.   
 
 ### Artikel  18g  
 
@@ -230,6 +236,20 @@ Degene aan wie een bestuurlijke boete is opgelegd, verstrekt desgevraagd aan de 
 ### Artikel  18h  
 
 Indien een bestuurlijke boete ten onrechte is opgelegd, wordt deze binnen zes weken nadat is vastgesteld dat de bestuurlijke boete ten onrechte is opgelegd, aan de rechthebbende terugbetaald.  
+
+### §  2a  
+
+####Stillegging van werkzaamheden
+
+### Artikel  18i  
+
+1.  Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar kan, nadat een overtreding van een voorschrift bij of krachtens deze wet is geconstateerd die bestuurlijk beboetbaar is gesteld, aan de werkgever een schriftelijke waarschuwing geven dat bij herhaling van de overtreding of bij een latere overtreding van eenzelfde in de waarschuwing aangegeven wettelijke verplichting of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen, door hem een bevel kan worden opgelegd dat door hem aangewezen werkzaamheden voor ten hoogste drie maanden worden gestaakt dan wel niet mogen worden aangevangen. Artikel 18a, tweede lid, is van overeenkomstige toepassing.   
+2.  Indien een waarschuwing als bedoeld in het eerste lid is gegeven en herhaling van de overtreding of een latere overtreding als bedoeld in het eerste lid is geconstateerd, kan door de ambtenaar, bedoeld in het eerste lid, aan de werkgever bij beschikking een bevel als bedoeld in het eerste lid worden opgelegd dat wordt opgevolgd met ingang van het in de beschikking aangeven tijdstip. Deze beschikking wordt niet gegeven zolang wegens de eerste overtreding, bedoeld in het eerste lid, nog niet een bestuurlijke boete is opgelegd.   
+3.  De constatering van de overtreding, bedoeld in het eerste of tweede lid, wordt vastgelegd in een boeterapport.   
+4.  De waarschuwing, bedoeld in het eerste lid, vervalt indien na de dagtekening van de waarschuwing vijf jaren zijn verstreken. [Artikel 5:34, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
+5.  De ambtenaar, bedoeld in het eerste lid, is bevoegd met betrekking tot het bevel, bedoeld in het tweede lid, met inbegrip van de oplegging van een last onder bestuursdwang, de nodige maatregelen te treffen, de nodige aanwijzingen te geven en de hulp van de sterke arm in te roepen.   
+6.  Ieder wie zulks aangaat is verplicht zich te gedragen overeenkomstig een bevel als bedoeld in het tweede lid en een maatregel of aanwijzing als bedoeld in het vijfde lid.   
+7.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste en tweede lid.   
 
 ### §  3  
 
@@ -264,7 +284,7 @@ Indien een dwangsom ten onrechte is ingevorderd, wordt de betaalde geldsom, verm
 
 ### Artikel  18q  
 
-Een beschikking op grond van deze wet van de ambtenaar, bedoeld in de artikelen 18e, eerste lid, en 18n, eerste lid, wordt genomen namens Onze Minister.  
+Een beschikking op grond van deze wet van de ambtenaar, bedoeld in de artikelen 18c, eerste lid, 18i, eerste lid, en 18n, eerste lid, wordt genomen namens Onze Minister.  
 
 ### Artikel  19  
 
