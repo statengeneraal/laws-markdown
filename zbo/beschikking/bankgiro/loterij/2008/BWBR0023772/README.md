@@ -3,25 +3,26 @@
 ##Beschikking van de Minister van Justitie van 4 april 2008, nr. 5539317/08/DSP, houdende verlening van een vergunning tot het organiseren van een BankGiro Loterij
 
 De Minister van Justitie,  
-Overwegende dat de geldigheidsduur van de [beschikking BankGiro Loterij](../../../../../../zbo/beschikking/bankgiroloterij/BWBR0015027/README.md) op 30 april 2008 verstrijkt;
+Overwegende dat de geldigheidsduur van de beschikking BankGiro Loterij op 30 april 2008 verstrijkt;
 
 Overwegende dat BankGiro Loterij N.V., gevestigd te Amsterdam, bij brief van 9 augustus 2007 heeft verzocht haar opnieuw vergunning te verlenen voor het organiseren van de BankGiro Loterij;
 
-Gelet op de [artikelen 3](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), [5](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) en [34 van de Wet op de kansspelen](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), en de [artikelen 2](../../../../../../AMvB/kansspelenbesluit/BWBR0009067/README.md) en [5 van het Kansspelenbesluit](../../../../../../AMvB/kansspelenbesluit/BWBR0009067/README.md);
+Gelet op de artikelen 3, 5 en 34 van de Wet op de kansspelen, en de artikelen 2 en 5 van het Kansspelenbesluit;
 
 Gezien het advies van het College van toezicht op de kansspelen van 27 september 2007, nr. C.821/07;
 Besluit:    
 
-### Artikel  I  
+### Artikel  I   
+Materieel uitgewerkt per 01-05-2013   
 
 Een beschikking af te geven die komt luiden als volgt: 
 ###Artikel 1
 
 In deze beschikking wordt verstaan onder: 
 
-a. de wet: de [Wet op de kansspelen](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);  
+a. de wet: de Wet op de kansspelen;  
 
-b. het besluit: het [Kansspelenbesluit](../../../../../../AMvB/kansspelenbesluit/BWBR0009067/README.md);  
+b. het besluit: het Kansspelenbesluit;  
 
 c. de Minister: de Minister van Justitie;  
 
@@ -31,11 +32,11 @@ e. de holding: Holding Nationale Goede Doelen Loterijen N.V., gevestigd te Amste
 
 f. de stichting aandelen: de Stichting Aandelen Nationale Goede Doelen Loterijen, gevestigd te Amsterdam;  
 
-g. BankGiro Loterij: een kansspel als bedoeld in [artikel 1, onder a, van de wet](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), waarbij het nummer van een bankrekening, onderscheidenlijk een girorekening, deel uitmaakt van het lotnummer waarmee de deelnemers meedingen naar prijzen die door loting of trekking worden verkregen;  
+g. BankGiro Loterij: een kansspel als bedoeld in artikel 1, onder a, van de wet, waarbij het nummer van een bankrekening, onderscheidenlijk een girorekening, deel uitmaakt van het lotnummer waarmee de deelnemers meedingen naar prijzen die door loting of trekking worden verkregen;  
 
-h. extra spel: een kansspel als bedoeld in [artikel 1, onder a, van de wet](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), waaraan de deelnemers aan de BankGiro Loterij kunnen deelnemen door middel van door de vennootschap om niet verstrekte deelnemingsbewijzen;  
+h. extra spel: een kansspel als bedoeld in artikel 1, onder a, van de wet, waaraan de deelnemers aan de BankGiro Loterij kunnen deelnemen door middel van door de vennootschap om niet verstrekte deelnemingsbewijzen;  
 
-i. het college: het College van toezicht op de kansspelen als bedoeld in [artikel 33 van de wet](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md).   
+i. het college: het College van toezicht op de kansspelen als bedoeld in artikel 33 van de wet.   
 ###Artikel 2
 
 1. Aan de vennootschap wordt voor de duur van vijf jaren, te rekenen vanaf 1 mei 2008 tot en met 30 april 2013, vergunning verleend tot het organiseren van de BankGiro Loterij en het extra spel.  
@@ -91,7 +92,7 @@ Eventuele provisie aan verkopers van deelnemingsbewijzen dient te worden beperkt
 2. De prijsbepaling en de vaststelling van de winnaars geschiedt op een door een notaris in een trekkingsprocedure vastgelegde wijze, welke deel uitmaakt van de reglementen van de vennootschap.   
 ###Artikel 9
 
-Onverminderd de voorschriften bij en krachtens de [Wet op de kansspelbelasting](../../../../../../wet/wet/op/de/kansspelbelasting/BWBR0002359/README.md), dienen na elke prijsbepaling de prijzen onverkort zo spoedig mogelijk aan de winnaars te worden uitgekeerd. Indien dit niet mogelijk is, dienen de prijzen overeenkomstig [artikel 38 van de wet](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) gedurende één jaar na de prijsbepaling te hunner beschikking te worden gehouden. 
+Onverminderd de voorschriften bij en krachtens de Wet op de kansspelbelasting, dienen na elke prijsbepaling de prijzen onverkort zo spoedig mogelijk aan de winnaars te worden uitgekeerd. Indien dit niet mogelijk is, dienen de prijzen overeenkomstig artikel 38 van de wet gedurende één jaar na de prijsbepaling te hunner beschikking te worden gehouden. 
 ###Artikel 10
 
 1. De mechanische, elektrische en elektronische processen die gebezigd worden bij de deelneming, prijsbepaling en vaststelling van de winnaars van de krachtens deze vergunning georganiseerde kansspelen, zijn onderworpen aan een voorafgaande goedkeuring en periodieke controle door één of meer door de Minister aangewezen onafhankelijke deskundigen of keuringsinstellingen.  
@@ -126,9 +127,9 @@ e. Andere instellingen werkzaam op de in het eerste lid genoemde terreinen, in d
 De vennootschap zendt binnen één maand na het einde van elk kwartaal aan de Minister en het college een verslag betreffende het financiële verloop, alsmede andere door de Minister noodzakelijk geachte gegevens, over dat kwartaal. 
 ###Artikel 14
 
-1. De vennootschap stelt een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). De Minister kan, gehoord het college, aanwijzingen geven omtrent de inrichting van de jaarrekening en het jaarverslag.  
+1. De vennootschap stelt een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in Boek 2, Titel 9, van het Burgerlijk Wetboek. De vergunninghouder kan de jaarrekening en het jaarverslag laten opstellen door de holding, zolang in de jaarrekening en het jaarverslag verantwoording wordt afgelegd over de verschillende kansspelen waarop de jaarrekening en het jaarverslag betrekking hebben. De Minister kan, gehoord het college, aanwijzingen geven omtrent de inrichting van de jaarrekening en het jaarverslag.  
 
-2. De vennootschap verleent aan een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) opdracht tot onderzoek van de jaarrekening. De uitslag van dit onderzoek wordt weergegeven in een verslag en een verklaring als bedoeld in onderscheidenlijk het vierde en het [vijfde lid van artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). Het onderzoek dient mede betrekking te hebben op de naleving door de vennootschap van het bepaalde in deze beschikking.  
+2. De vennootschap verleent aan een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek opdracht tot onderzoek van de jaarrekening. De uitslag van dit onderzoek wordt weergegeven in een verslag en een verklaring als bedoeld in onderscheidenlijk het vierde en het vijfde lid van artikel 393 van Boek 2 van het Burgerlijk Wetboek. Het onderzoek dient mede betrekking te hebben op de naleving door de vennootschap van het bepaalde in deze beschikking.  
 
 3. De vennootschap voert een zodanig beheer dat een goedkeurende verklaring als bedoeld in het tweede lid kan worden afgegeven.  
 
@@ -137,7 +138,7 @@ De vennootschap zendt binnen één maand na het einde van elk kwartaal aan de Mi
 
 1. De kosten verbonden aan toezicht, goedkeuring, controle en onderzoek ingevolge de artikelen 8, eerste lid, 10, eerste lid, en 14, tweede lid, zijn voor rekening van de vennootschap.  
 
-2. De jaarlijkse vergoeding bedoeld in [artikel 3a van het besluit](../../../../../../AMvB/kansspelenbesluit/BWBR0009067/README.md) bedraagt € 2.268,– en dient binnen vier maanden na aanvang van een kalenderjaar door de vennootschap te worden voldaan aan de Minister.   
+2. De jaarlijkse vergoeding bedoeld in artikel 3a van het besluit bedraagt € 2.268,– en dient binnen vier maanden na aanvang van een kalenderjaar door de vennootschap te worden voldaan aan de Minister.   
 ###Artikel 16
 
 1. De door de Minister aangewezen ambtenaren en andere personen zijn bevoegd inlichtingen van de vennootschap te verlangen, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.  
@@ -149,15 +150,16 @@ De vennootschap zendt binnen één maand na het einde van elk kwartaal aan de Mi
 4. Indien het maken van kopieën niet ter plaatse kan geschieden, zijn zij bevoegd de gegevens en bescheiden voor dat doel voor korte tijd mee te nemen tegen een door hen af te geven schriftelijk bewijs.   
 ###Artikel 17
 
-Na de inwerkingtreding van deze beschikking berusten de krachtens de [Beschikking BankGiro Loterij](../../../../../../zbo/beschikking/bankgiroloterij/BWBR0015027/README.md) (Stcrt. 2003, 90) vastgestelde besluiten op deze beschikking. 
+Na de inwerkingtreding van deze beschikking berusten de krachtens de Beschikking BankGiro Loterij (Stcrt. 2003, 90) vastgestelde besluiten op deze beschikking. 
 ###Artikel 18
 
-De [Beschikking BankGiro Loterij](../../../../../../zbo/beschikking/bankgiroloterij/BWBR0015027/README.md) (Stcrt. 2003, 90), zoals gewijzigd bij beschikkingen van 4 mei 2004, Stcrt. 2004, 92, 29 april 2004, Stcrt. 2004, 112, 17 juni 2004, Stcrt. 2004, 116, 31 augustus 2004, Stcrt. 2004, 181, 28 april 2006, Stcrt. 2006, 89, en 30 juli 2007, Stcrt. 2007, 154, wordt ingetrokken. 
+De Beschikking BankGiro Loterij (Stcrt. 2003, 90), zoals gewijzigd bij beschikkingen van 4 mei 2004, Stcrt. 2004, 92, 29 april 2004, Stcrt. 2004, 112, 17 juni 2004, Stcrt. 2004, 116, 31 augustus 2004, Stcrt. 2004, 181, 28 april 2006, Stcrt. 2006, 89, en 30 juli 2007, Stcrt. 2007, 154, wordt ingetrokken. 
 ###Artikel 19
 
 Deze beschikking wordt aangehaald als: Beschikking BankGiro Loterij 2008.  
 
-### Artikel  II  
+### Artikel  II   
+Materieel uitgewerkt per 01-05-2013   
 
 Deze beschikking treedt in werking op 1 mei 2008 en wordt gepubliceerd in de Staatscourant.  
 

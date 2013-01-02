@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 26 juni 1998, nr. MJZ 98058648, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
 
-Gelet op [artikel 24 van de Wet milieugevaarlijke stoffen](../../../../../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md);
+Gelet op artikel 24 van de Wet milieugevaarlijke stoffen;
 
 De Raad van State gehoord (advies van 24 juli 1998, nr. W08.98.0289);
 
@@ -21,15 +21,15 @@ Hebben goedgevonden en verstaan:
 ### Artikel  1.1  
 
 1.  In dit besluit wordt verstaan onder kwikhoudend product: product of onderdeel daarvan, waarin kwik of een kwikverbinding is toegepast of waaraan kwik of een kwikverbinding is toegevoegd.   
-2.  Onder kwikhoudend product wordt niet verstaan een stof of een preparaat als bedoeld in [artikel 1.1, eerste lid, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+2.  Onder kwikhoudend product wordt niet verstaan een stof of een preparaat als bedoeld in artikel 1.1, eerste lid, van de Wet milieubeheer.   
 
 ### Artikel  1.2  
 
-1.  Dit besluit geldt niet met betrekking tot een kwikhoudend product, voor zover daaromtrent regels zijn gesteld in de [Regeling beheer batterijen en accu’s 2008](../../../../../../../ministeriele-regeling/regeling/beheer/batterijen/en/accu's/2008/BWBR0024492/README.md).   
-2.  Dit besluit geldt evenmin met betrekking tot het zich ontdoen van kwikhoudende producten overeenkomstig [hoofdstuk 10 van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
-3.  Dit besluit geldt voorts niet met betrekking tot kwikhoudende producten ten aanzien waarvan in de [Regeling verpakking en verpakkingsafval](../../../../../../../ministeriele-regeling/regeling/verpakking/en/verpakkingsafval/BWBR0008775/README.md) regels zijn gesteld.   
-4.  Dit besluit geldt voorts niet met betrekking tot een stof als bedoeld in [artikel 1, onderdeel a, van de Wet op de medische hulpmiddelen](../../../../../../../wet/wet/op/de/medische/hulpmiddelen/BWBR0002697/README.md), die kwik bevat.   
-5.  Dit besluit geldt voorts niet met betrekking tot kwikhoudende producten ten aanzien waarvan in het [Besluit beheer elektrische en elektronische apparatuur](../../../../../../../AMvB/besluit/beheer/elektrische/en/elektronische/apparatuur/BWBR0016990/README.md) regels zijn gesteld.   
+1.  Dit besluit geldt niet met betrekking tot een kwikhoudend product, voor zover daaromtrent regels zijn gesteld in de Regeling beheer batterijen en accu’s 2008.   
+2.  Dit besluit geldt evenmin met betrekking tot het zich ontdoen van kwikhoudende producten overeenkomstig hoofdstuk 10 van de Wet milieubeheer.   
+3.  Dit besluit geldt voorts niet met betrekking tot kwikhoudende producten ten aanzien waarvan in de Regeling verpakking en verpakkingsafval regels zijn gesteld.   
+4.  Dit besluit geldt voorts niet met betrekking tot een stof als bedoeld in artikel 1, onderdeel a, van de Wet op de medische hulpmiddelen, die kwik bevat.   
+5.  Dit besluit geldt voorts niet met betrekking tot kwikhoudende producten ten aanzien waarvan op grond van een ander wettelijk voorschrift krachtens artikel 9.2.2.1, van de Wet milieubeheer regels zijn gesteld.   
 
 ### §  2  
 
@@ -46,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 3°. afkomstig is uit een lid-staat van de Europese Unie of uit een Staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte en niet bestemd is voor het in Nederland in de handel brengen.     
 3.  Het verbod geldt evenmin met betrekking tot een kwikhoudend meettoestel dat op 3 oktober 2007 ten minste 50 jaar oud was en bedoeld is voor verkoop aan het grote publiek.   
-4.  Een wijziging van de [douaneregeling](../../../../../../../ministeriele-regeling/douaneregeling/BWBR0008032/README.md) geldt voor de toepassing van dit besluit met ingang van de dag waarop die wijziging van kracht wordt.   
+4.  Een wijziging van de douaneregeling geldt voor de toepassing van dit besluit met ingang van de dag waarop die wijziging van kracht wordt.   
 5.  De uitzonderingen, genoemd in het tweede en derde lid, gelden niet voor kwikhoudende koortsthermometers.   
 
 ### Artikel  2.3  
@@ -115,7 +115,7 @@ c. artikel 2.
 
 ### Artikel  3.1  
 
-Dit besluit berust op [artikel 9.2.2.1 van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
+Dit besluit berust op artikel 9.2.2.1 van de Wet milieubeheer.  
 
 ### Artikel  3.2  
 
