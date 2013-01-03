@@ -10,9 +10,9 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *de minister:* de Minister van Economische Zaken;  
+a.  *de minister:* de Minister van Economische Zaken;  
 
-b. *commissie:* de Beheeradviescommissie Oostvaardersplassen.    
+b.  *commissie:* de Beheeradviescommissie Oostvaardersplassen.   
 
 ### Artikel  2  
 
@@ -23,19 +23,19 @@ a. Staatsbosbeheer te adviseren, uit eigen beweging of naar aanleiding van een v
 
 b. te rapporteren aan de minister over de adviezen die zij aan Staatsbosbeheer verstrekt;  
 
-c. desgevraagd de minister te adviseren over de uitvoering van de adviezen uit het rapport van de Commissie evaluatie grote grazers in de Oostvaardersplassen.     
+c. desgevraagd de minister te adviseren over de uitvoering van de adviezen uit het rapport van de Commissie evaluatie grote grazers in de Oostvaardersplassen.    
 
 ### Artikel  3  
 
 1.  De commissie bestaat uit een voorzitter en ten hoogste vijf andere leden.   
-2.  De voorzitter en de andere leden worden door de minister benoemd. De voorzitter en de andere leden kunnen door de minister worden geschorst en ontslagen.   
+2.  De voorzitter en de andere leden worden door de minister benoemd. De voorzitter en de andere leden kunnen door de minister worden geschorst en ontslagen.  
 
 ### Artikel  4  
 
 1.  De commissie stelt haar eigen werkwijze schriftelijk vast.   
 2.  De minister voorziet in het secretariaat van de commissie.   
 3.  Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken. De bescheiden worden na beëindiging van de werkzaamheden van de commissie bewaard in het archief van dat ministerie.   
-4.  De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.   
+4.  De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.  
 
 ### Artikel  5  
 
@@ -51,29 +51,29 @@ d. de heer ir. H.R. Oosterveld, te Veendam;
 
 e. de heer ir. W.G. de Raad, te Kraggenburg;  
 
-f. de heer ing. G.J. Spek, te Vaassen.    
+f. de heer ing. G.J. Spek, te Vaassen.   
 
 ### Artikel  6  
 
 1.  De voorzitter van de commissie ontvangt een vergoeding per vergadering van € 333,11.   
-2.  De andere leden van de commissie ontvangen een vergoeding per vergadering van € 256,24.   
+2.  De andere leden van de commissie ontvangen een vergoeding per vergadering van € 256,24.  
 
 ### Artikel  7  
 
-Wijzigt het Instellingsbesluit kennisgroepen en commissies LNV.   
+Wijzigt het Instellingsbesluit kennisgroepen en commissies LNV.
 
 ### Artikel  8  
 
-Dit besluit treedt in werking met ingang van 1 januari 2013.  
+Dit besluit treedt in werking met ingang van 1 januari 2013. 
 
 ### Artikel  9  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Beheeradviescommissie Oostvaardersplassen.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Beheeradviescommissie Oostvaardersplassen. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.   
 
 ’s- Gravenhage 
 12 december 2012   
 
 De 
-Minister van Economische Zaken,
-H.G.J.Kamp   
+Minister van Economische Zaken, 
+H.G.J. Kamp     

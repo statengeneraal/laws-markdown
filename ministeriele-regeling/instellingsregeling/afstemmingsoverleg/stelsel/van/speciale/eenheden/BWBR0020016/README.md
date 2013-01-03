@@ -8,13 +8,13 @@ De Minister van Justitie en de Minister van Binnenlandse Zaken en Koninkrijksrel
 
 ####Begripsbepaling
 
-In het kader van deze regeling wordt verstaan onder Dienst Speciale Interventies, hierna te noemen DSI, de eigenstandige organisatie van de DSI met daarbij inbegrepen de eenheden die onder operationele aansturing van de commandant interventie DSI kunnen worden ingezet.  
+In het kader van deze regeling wordt verstaan onder Dienst Speciale Interventies, hierna te noemen DSI, de eigenstandige organisatie van de DSI met daarbij inbegrepen de eenheden die onder operationele aansturing van de commandant interventie DSI kunnen worden ingezet. 
 
 ### Artikel  2  
 
 ####Afstemmingsoverleg
 
-Er is een Afstemmingsoverleg voor het stelsel van speciale eenheden, in samenhang met de DSI, hierna te noemen het Afstemmingsoverleg.  
+Er is een Afstemmingsoverleg voor het stelsel van speciale eenheden, in samenhang met de DSI, hierna te noemen het Afstemmingsoverleg. 
 
 ### Artikel  3  
 
@@ -45,7 +45,7 @@ e. de vast te stellen jaarverslagen van de DSI;
 
 f. de afstemming bij de beheercyclus van (de betrokken eenheden binnen) binnen het stelsel;  
 
-g. de voorbereiding en actualisering van de ministeriële regelingen betrekking hebbende op de DSI.     
+g. de voorbereiding en actualisering van de ministeriële regelingen betrekking hebbende op de DSI.    
 
 ### Artikel  4  
 
@@ -53,7 +53,7 @@ g. de voorbereiding en actualisering van de ministeriële regelingen betrekking 
 
 1.  Het Afstemmingsoverleg komt periodiek, tenminste 3 maal per jaar, bijeen;   
 2.  De advisering aan de betrokken ministers vindt primair plaats op grond van de beoordeling en accordering van de opgestelde jaarverslagen en jaar- en beleidsplannen;   
-3.  Het Afstemmingsoverleg kan, met inachtneming van de bepalingen van dit besluit, haar werkwijze en de taken van het secretariaat naar eigen inzicht regelen.   
+3.  Het Afstemmingsoverleg kan, met inachtneming van de bepalingen van dit besluit, haar werkwijze en de taken van het secretariaat naar eigen inzicht regelen.  
 
 ### Artikel  5  
 
@@ -71,20 +71,20 @@ d. de Defensiestaf van het ministerie van Defensie en
 
 e. het landelijk parket van het Openbaar Ministerie.     
 2.  Het hoofd DSI neemt deel aan het overleg;   
-3.  Het secretariaat van de commissie berust bij de Nationaal Coördinator Terrorismebestrijding en Veiligheid.   
+3.  Het secretariaat van de commissie berust bij de Nationaal Coördinator Terrorismebestrijding en Veiligheid.  
 
 ### Artikel  6  
 
 ####Inwerkingtreding
 
 1.  De confidentiële regeling van de Minister van Justitie (nr. R45/99 d.d. 6 juni 2005) houdende instelling van de Begeleidingscommissie ten behoeve van de bijzondere bijstandseenheden (BELCOM-BBE) wordt met inwerkingtreding van deze regeling ingetrokken;   
-2.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.   
+2.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
 
 ### Artikel  7  
 
 ####Instellingsregeling
 
-Deze regeling wordt aangehaald als: Instellingsregeling Afstemmingsoverleg stelsel van speciale eenheden.  
+Deze regeling wordt aangehaald als: Instellingsregeling Afstemmingsoverleg stelsel van speciale eenheden. 
 De regeling zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -92,12 +92,12 @@ Den Haag
 
 De 
 Minister van Justitie, 
-J.P.H.Donner 
+J.P.H. Donner   
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-J.W.Remkes 
+J.W. Remkes   
 
 De 
 Minister van Defensie, 
-H.G.J.Kamp   
+H.G.J. Kamp     

@@ -24,17 +24,17 @@ Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventaris
 
 ### Artikel  2  
 
-Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in artikel 1 is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemeen rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.  
+Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in artikel 1 is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemeen rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden. 
 
 ### Artikel  3  
 
-Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in artikel 1, is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemeen rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.  
+Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in artikel 1, is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemeen rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. 
 
 De 
-minister van Financiën,namens deze,
-R. vanZwol
-Secretaris-generaal   
+minister van Financiën, namens deze, 
+R. van Zwol  
+Secretaris-generaal    

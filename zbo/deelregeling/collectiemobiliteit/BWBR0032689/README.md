@@ -2,7 +2,7 @@
 
 ##Deelregeling Collectiemobiliteit
 
-Het bestuur van het Mondriaan Fonds,  
+Het bestuur van het Mondriaan Fonds,   
 Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);
 Besluit:    
 
@@ -10,7 +10,7 @@ Besluit:
 
 ####Doel
 
-Doel is het verhogen van de kwaliteit en de zichtbaarheid voor het publiek van de Collectie Nederland. Om de zichtbaarheid voor het publiek en de focus van het collectieprofiel te vergroten, worden initiatieven gestimuleerd die leiden tot selectie en afstoten van collectieonderdelen. Afstoten en selectie betekenen meer overzicht en inzicht in wat belangrijk is en bevorderen dat instellingen zich meer onderscheiden.  
+Doel is het verhogen van de kwaliteit en de zichtbaarheid voor het publiek van de Collectie Nederland. Om de zichtbaarheid voor het publiek en de focus van het collectieprofiel te vergroten, worden initiatieven gestimuleerd die leiden tot selectie en afstoten van collectieonderdelen. Afstoten en selectie betekenen meer overzicht en inzicht in wat belangrijk is en bevorderen dat instellingen zich meer onderscheiden. 
 
 ### Artikel  2  
 
@@ -31,13 +31,13 @@ d. passieve conservering of documentatie van de collectie,
 e. aankopen die reeds met rijkscultuurmiddelen worden ondersteund en  
 
 f. aankopen die redelijkerwijs uit de reguliere budgetten gefinancierd kunnen worden.     
-4.  Het afstoten van collecties wordt volgens de Leidraad Afstoting Museale Objecten (LAMO) uitgevoerd.   
+4.  Het afstoten van collecties wordt volgens de Leidraad Afstoting Museale Objecten (LAMO) uitgevoerd.  
 
 ### Artikel  3  
 
 ####De aanvraag
 
-Naast de bepalingen vastgesteld in het Algemeen reglement, in het aanvraagformulier en in de toelichting daarop, dient de aanvraag te zijn voorzien van een motivering waarin de aanvrager aangeeft waarom het voorgenomen plan tot selectie of afstoten belangrijk is voor de verbetering van de Collectie Nederland en de relatie die de voorgenomen selectie of afstootactie heeft met de collectie van de aanvrager zoals geformuleerd in het collectiebeleid. Daarnaast dient de aanvraag voorzien te zijn van een collectieplan en een dekkende begroting.  
+Naast de bepalingen vastgesteld in het Algemeen reglement, in het aanvraagformulier en in de toelichting daarop, dient de aanvraag te zijn voorzien van een motivering waarin de aanvrager aangeeft waarom het voorgenomen plan tot selectie of afstoten belangrijk is voor de verbetering van de Collectie Nederland en de relatie die de voorgenomen selectie of afstootactie heeft met de collectie van de aanvrager zoals geformuleerd in het collectiebeleid. Daarnaast dient de aanvraag voorzien te zijn van een collectieplan en een dekkende begroting. 
 
 ### Artikel  4  
 
@@ -55,21 +55,21 @@ c. de kwaliteit van het presentatieplan en de mate van zichtbaarheid.
 4.  Indien het bevoegde adviesorgaan de in het eerste lid van dit artikel bedoelde aspecten en voorzover van toepassing de in het tweede lid genoemde aspecten niet van voldoende belang acht, komt het tot een negatief advies over de aanvraag.   
 5.  Indien het bevoegde adviesorgaan de in het eerste lid van dit artikel bedoelde aspecten en voorzover van toepassing de in het tweede lid genoemde aspecten wel van voldoende belang acht, komt het tot een positief advies over de aanvraag.   
 6.  Een positief advies kan vergezeld gaan van een aanbeveling over de hoogte de toe te kennen financiële bijdrage.   
-7.  Het bestuur kan het bevoegde adviesorgaan verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in het eerste en, voor zover van toepassing, tweede lid. Alsdan onderbouwt het adviesorgaan zijn prioritering.   
+7.  Het bestuur kan het bevoegde adviesorgaan verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in het eerste en, voor zover van toepassing, tweede lid. Alsdan onderbouwt het adviesorgaan zijn prioritering.  
 
 ### Artikel  5  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2013. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2012, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2013.  
+Deze regeling treedt in werking met ingang van 1 januari 2013. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2012, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2013. 
 
 ### Artikel  6  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Deelregeling Collectiemobiliteit.  
+Deze regeling wordt aangehaald als: Deelregeling Collectiemobiliteit. 
 Deze regeling zal in de Staatscourant worden geplaatst.  
 
-De stichting Mondriaan Fonds, 
+De stichting Mondriaan Fonds,
 B. Donker  
 (directeur/bestuurder)    

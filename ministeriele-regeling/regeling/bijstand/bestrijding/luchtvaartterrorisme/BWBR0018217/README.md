@@ -2,11 +2,11 @@
 
 ##Regeling van 20 april 2005, nr. 5348913/505, houdende het verlenen van militaire bijstand ten behoeve van de bewaking van het Nederlandse luchtruim en de inzet van defensiemiddelen tegen terroristische dreigingen vanuit de lucht (Regeling bijstand bestrijding luchtvaartterrorisme)
 
-De Minister van Justitie,  
+De Minister van Justitie,
 Handelende in overeenstemming met de Minister van Defensie;
 
 Gelet op [artikel 59, tweede lid, van de Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md);
-Besluit:    
+Besluit:  
 
 ### Artikel  1  
 
@@ -24,13 +24,13 @@ d. Militaire bijstand: bijstand ingevolge [artikel 58 van de Politiewet 2012](..
 
 e. Nationaal Actieplan (NAP): het gerubriceerde nationaal draaiboek voor de uitvoering van de militaire bijstand door de QRA in het kader van de bestrijding van luchtvaartterrorisme;  
 
-f. NAVO: de Noord Atlantische Verdragsorganisatie.    
+f. NAVO: de Noord Atlantische Verdragsorganisatie.   
 
 ### Artikel  2  
 
 ####Terbeschikkingstelling van defensiemiddelen in het kader van militaire bijstand
 
-In aangelegenheden waarin sprake is van een terroristische dreiging vanuit de lucht verleent de krijgsmacht bijstand op de wijze als bepaald in deze regeling. De Minister van Defensie stelt daartoe de QRA en het AOCS NM, voorzover dit station als schakel in de uitvoering van de militaire bijstand fungeert, ter beschikking aan de Minister van Veiligheid en Justitie.  
+In aangelegenheden waarin sprake is van een terroristische dreiging vanuit de lucht verleent de krijgsmacht bijstand op de wijze als bepaald in deze regeling. De Minister van Defensie stelt daartoe de QRA en het AOCS NM, voorzover dit station als schakel in de uitvoering van de militaire bijstand fungeert, ter beschikking aan de Minister van Veiligheid en Justitie. 
 
 ### Artikel  3  
 
@@ -39,7 +39,7 @@ In aangelegenheden waarin sprake is van een terroristische dreiging vanuit de lu
 1.  De NAVO, de Master Controller, dan wel de Minister van Veiligheid en Justitie kan een civiel vliegtuig aanmerken als een terroristische dreiging vanuit de lucht.   
 2.  Voor het aanmerken van een civiel vliegtuig als een terroristische dreiging vanuit de lucht zijn de criteria van de NAVO van toepassing. Deze criteria zijn opgenomen in het Nationaal Actieplan.   
 3.  De Minister van Veiligheid en Justitie kan ook op andere gronden een civiel vliegtuig aanmerken als een terroristische dreiging vanuit de lucht.   
-4.  Van een terroristische dreiging vanuit de lucht is in ieder geval sprake indien wordt voldaan aan ten minste twee van de in het tweede lid bedoelde criteria.   
+4.  Van een terroristische dreiging vanuit de lucht is in ieder geval sprake indien wordt voldaan aan ten minste twee van de in het tweede lid bedoelde criteria.  
 
 ### Artikel  4  
 
@@ -61,7 +61,7 @@ b. alle bij de Master Controller bekende informatie over het civiele vliegtuig, 
 c. de overeenkomstig het eerste lid verstrekte opdrachten, en  
 
 d. alle overige bij hem bekende relevante informatie.     
-3.  De Master Controller informeert na de alarmering van de Minister van Veiligheid en Justitie terstond de Minister van Defensie.   
+3.  De Master Controller informeert na de alarmering van de Minister van Veiligheid en Justitie terstond de Minister van Defensie.  
 
 ### Artikel  5  
 
@@ -75,38 +75,38 @@ a. het afdwingen van een koerswijziging en/of landing van het civiele vliegtuig 
 b. het lossen van een waarschuwingsschot;  
 
 c. het geven van gericht vuur.     
-3.  Op de inzet van de QRA voor de bestrijding van luchtvaartterrorisme is een specifieke geweldsinstructie van toepassing. Deze geweldsinstructie is gerubriceerd.   
+3.  Op de inzet van de QRA voor de bestrijding van luchtvaartterrorisme is een specifieke geweldsinstructie van toepassing. Deze geweldsinstructie is gerubriceerd.  
 
 ### Artikel  6  
 
 ####Verslaglegging
 
-Van iedere inzet van de QRA in geval van een terroristische dreiging vanuit de lucht wordt zowel door de Minister van Veiligheid en Justitie als door de Minister van Defensie een verslag opgemaakt ten behoeve van een gezamenlijke evaluatie. Deze verslagen zijn gerubriceerd.  
+Van iedere inzet van de QRA in geval van een terroristische dreiging vanuit de lucht wordt zowel door de Minister van Veiligheid en Justitie als door de Minister van Defensie een verslag opgemaakt ten behoeve van een gezamenlijke evaluatie. Deze verslagen zijn gerubriceerd. 
 
 ### Artikel  7  
 
 ####Vergoeding van de kosten van de bijstand
 
-De additionele kosten van de inzet van de QRA onder verantwoordelijkheid van de Minister van Veiligheid en Justitie komen voor vergoeding in aanmerking conform de vigerende afspraken tussen de Minister van Defensie en de Minister van Veiligheid en Justitie.  
+De additionele kosten van de inzet van de QRA onder verantwoordelijkheid van de Minister van Veiligheid en Justitie komen voor vergoeding in aanmerking conform de vigerende afspraken tussen de Minister van Defensie en de Minister van Veiligheid en Justitie. 
 
 ### Artikel  7a  
 
 Deze regeling berust op [artikel 58, tweede lid, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
 
-### Artikel  8  
+###Artikel 8 
 
 ####Slotbepaling
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-### Artikel  9  
+###Artikel 9 
 
-Deze regeling wordt aangehaald als: Regeling bijstand bestrijding luchtvaartterrorisme.  
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
+Deze regeling wordt aangehaald als: Regeling bijstand bestrijding luchtvaartterrorisme.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-Den Haag 
-20 april 2005    
+Den Haag
+20 april 2005
 
 De 
 Minister van Justitie, 
-J.P.H.Donner    
+J.P.H.Donner  

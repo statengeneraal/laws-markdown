@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling zorgaanspraken AWBZ.   
+Wijzigt de Regeling zorgaanspraken AWBZ. 
 
 ### Artikel  II  
 
@@ -21,7 +21,7 @@ b. na 31 december 2012 een zodanig indicatiebesluit heeft gekregen op een aanvra
 
 a. een indicatiebesluit als bedoeld in [artikel 1, onderdeel d, van het Zorgindicatiebesluit](../../../../../../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) had voor een ZZP 3 of hoger en nadien op een ZZP als bedoeld in het eerste lid is aangewezen, of  
 
-b. onmiddellijk voorafgaande aan een verblijf als bedoeld in [artikel 2.10 van het Besluit zorgverzekering](../../../../../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) of op een verblijf in verband met forensische zorg als bedoeld in [artikel 1, eerste lid, onderdeel d, van het Interimbesluit forensische zorg](../../../../../../../../../../../AMvB/interimbesluit/forensische/zorg/BWBR0029333/README.md) een indicatiebesluit als bedoeld in [artikel 1, onderdeel d, van het Zorgindicatiebesluit](../../../../../../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) voor een ZZP had en onmiddellijk aansluitend op genoemd verblijf op een ZZP 1 of 2 is aangewezen.     
+b. onmiddellijk voorafgaande aan een verblijf als bedoeld in [artikel 2.10 van het Besluit zorgverzekering](../../../../../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) of op een verblijf in verband met forensische zorg als bedoeld in [artikel 1, eerste lid, onderdeel d, van het Interimbesluit forensische zorg](../../../../../../../../../../../AMvB/interimbesluit/forensische/zorg/BWBR0029333/README.md) een indicatiebesluit als bedoeld in [artikel 1, onderdeel d, van het Zorgindicatiebesluit](../../../../../../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) voor een ZZP had en onmiddellijk aansluitend op genoemd verblijf op een ZZP 1 of 2 is aangewezen.    
 
 ### Artikel  III  
 
@@ -34,14 +34,14 @@ b. na 31 december 2013 een zodanig indicatiebesluit heeft gekregen op een aanvra
 
 a. een indicatiebesluit als bedoeld in [artikel 1, onderdeel d, van het Zorgindicatiebesluit](../../../../../../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) had voor een ZZP 4 of hoger en nadien op een ZZP 3 is aangewezen, of  
 
-b. onmiddellijk voorafgaande aan een verblijf als bedoeld in [artikel 2.10 van het Besluit zorgverzekering](../../../../../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) of op een verblijf in verband met forensische zorg als bedoeld in [artikel 1, eerste lid, onderdeel d, van het Interimbesluit forensische zorg](../../../../../../../../../../../AMvB/interimbesluit/forensische/zorg/BWBR0029333/README.md) een indicatiebesluit als bedoeld in [artikel 1, onderdeel d, van het Zorgindicatiebesluit](../../../../../../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) voor een ZZP had en onmiddellijk aansluitend op genoemd verblijf op een ZZP 3 is aangewezen.     
+b. onmiddellijk voorafgaande aan een verblijf als bedoeld in [artikel 2.10 van het Besluit zorgverzekering](../../../../../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) of op een verblijf in verband met forensische zorg als bedoeld in [artikel 1, eerste lid, onderdeel d, van het Interimbesluit forensische zorg](../../../../../../../../../../../AMvB/interimbesluit/forensische/zorg/BWBR0029333/README.md) een indicatiebesluit als bedoeld in [artikel 1, onderdeel d, van het Zorgindicatiebesluit](../../../../../../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) voor een ZZP had en onmiddellijk aansluitend op genoemd verblijf op een ZZP 3 is aangewezen.    
 
 ### Artikel  IV  
 
 1.  Artikel I, onderdelen 1, 2 en 3, en artikel II treden in werking met ingang van 1 januari 2013.   
-2.  Artikel I, onderdeel 4, en artikel III treden in werking met ingang van 1 januari 2014.   
+2.  Artikel I, onderdeel 4, en artikel III treden in werking met ingang van 1 januari 2014.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Volksgezondheid, Welzijn en Sport,
-M.J. vanRijn   
+Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
+M.J. van Rijn     

@@ -13,6 +13,8 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
+*de Minister:* de Minister van Economische Zaken;  
+
 *traaggroeiend pluimveeras:* pluimveeras waarvan de daartoe behorende dieren gemiddeld met maximaal 40 gram per dag groeien;  
 
 *verordening (EG) 889/2008:* verordening (EG) nr. 889/2008 van de Commissie van 5 september 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) 834/2007 van de Raad inzake de biologische productie en de etikettering van biologische producten, wat de biologische productie, de etikettering en de controle betreft (PbEU L 250);  
@@ -28,26 +30,11 @@ In deze regeling wordt verstaan onder:
 
 Indien de Stichting Skal constateert dat de bepalingen van verordening (EG) 834/2007 in samenhang met verordening (EG) 889/2008 niet worden nageleefd met betrekking tot een product waarvoor overeenkomstig die verordeningen aanduidingen worden gebezigd, kan zij de betreffende marktdeelnemers de verplichting opleggen om de aanduidingen van de desbetreffende producten te verwijderen of te doen verwijderen overeenkomstig artikel 30, eerste lid, van verordening (EG) 834/2007.  
 
-### Artikel  4  
-
-1.  Het aantal grootvee-eenheden, bedoeld in artikel 15 van verordening (EG) 889/2008, wordt vastgesteld door 170 kg stikstof per jaar per hectare te delen door de omvang van de mestproductie per dier van de desbetreffende diercategorie per jaar uitgedrukt in kilogrammen stikstof, zoals opgenomen in bijlage I bij deze regeling.   
-2.  Ingeval de desbetreffende diercategorie in bijlage I ontbreekt, is [bijlage D van de Uitvoeringsregeling Meststoffenwet](../../../../ministeriele-regeling/uitvoeringsregeling/meststoffenwet/BWBR0018989/README.md) van toepassing.   
-
-### Artikel  5  
-
-De duur van de periode waarin de uitlopen leeg moeten blijven als bedoeld in artikel 23, vijfde lid, van verordening (EG) 889/2008 bedraagt telkens na het houden van een koppel pluimvee: 
-
-a. 60 dagen voor legkippen;  
-
-b. 30 dagen voor vleeskuikens.    
-
 ### Artikel  6  
 
 1.  De Minister kan op aanvraag een vergunning verlenen als bedoeld in artikel 29, eerste lid van verordening (EG) 889/2008.   
 2.  De Minister kan op aanvraag een ontheffing verlenen voor de import van producten van gegarandeerde gelijkwaardigheid afkomstig uit derde landen die niet zijn opgenomen op de lijst, bedoeld in artikel 33, tweede lid, van verordening (EG) 834/2007, overeenkomstig de bij verordening (EG) 1235/2008 vastgestelde communautaire voorschriften.   
 3.  De Stichting Skal kan op aanvraag ontheffing verlenen voor het gebruik van niet overeenkomstig de biologische productiemethode verkregen zaaizaad en pootgoed overeenkomstig artikel 45 van verordening (EG) 889/2008.   
-4.  De stichting Skal kan op aanvraag tot uiterlijk 31 december 2013 toestemming verlenen voor het aanbinden van runderen overeenkomstig artikel 95, eerste lid, van verordening (EG) 889/2008.   
-5.  De stichting Skal kan op aanvraag tot uiterlijk 31 december 2013 toestemming verlenen voor de bezetting van de uitloop voor vleeskuikens overeenkomstig artikel 95, tweede lid, van verordening (EG) 889/2008.   
 
 ### Artikel  7  
 
@@ -112,83 +99,34 @@ c. het verlenen van vrijstellingen en de afgifte van vrijstellingscertificaten, 
 
 ####Het in de handel brengen van vlees van pluimvee
 
-### Artikel  15  
-
-Een slachterij die op grond van artikel 11, eerste lid, van verordening (EG) 543/2008 het houderijsysteem bij de etikettering van zijn producten vermeldt, wordt overeenkomstig artikel 12, eerste lid, van die verordening geregistreerd bij de Stichting COKZ.  
-
-### Artikel  16  
-
-Indien pluimveevlees afkomstig uit landen buiten de Europese Unie de vermeldingen en aanduidingen vastgesteld op grond van artikelen 10 en 11 van verordening (EG) 543/2008 voert, gaat dit vlees vergezeld van een certificaat dat is afgegeven door de bevoegde autoriteit van het land van oorsprong overeenkomstig artikel 14 van verordening (EG) 543/2008.  
-
-### Artikel  16a  
-
-1.  In afwijking van de in bijlage XIV bij verordening (EG) 1234/2007, deel B, onderdeel II, punt 2, vastgestelde temperatuurvoorschriften, mag de temperatuur van vers vlees van pluimvee, voor zover dat nodig is, gedurende een periode van ten hoogste 24 uur omlaag worden gebracht, tot een temperatuur van ten laagste -8°C in de kern, voor: 
-
-a. het snijden en behandelen in detailhandelszaken of in aan verkooppunten grenzende lokalen, waar het vlees uitsluitend wordt versneden en behandeld om het ter plaatse rechtstreeks aan de consument te kunnen leveren; en  
-
-b. het snijden en behandelen van vers vlees van pluimvee in de fabriek tijdens de productie van bereidingen op basis van vers vlees van pluimvee.     
-
 ### Hoofdstuk  4  
 
 ####Het in de handel brengen van landbouwproducten en levensmiddelen met een beschermde geografische aanduiding, oorsprongsbenaming en een bescherming als een gegarandeerde traditionele specialiteit
 
 ### Artikel  17  
 
-Een aanvraag tot registratie als bedoeld in artikel 5 van verordening (EG) 510/2006 dan wel in artikel 7 van verordening (EG) 509/2006, alsmede een verzoek tot wijziging van een productdossier als bedoeld in artikel 9, eerste lid, van verordening (EG) 510/2006 dan wel artikel 11, eerste lid, van verordening (EG) 509/2006, alsmede een verzoek tot annulering van een registratie als bedoeld in artikel 12, tweede lid, van verordening (EG) 510/2006 wordt ingediend bij het Hoofdproductschap Akkerbouw.  
+1.  Bij het Hoofdproductschap Akkerbouw worden ingediend: 
+
+a. een aanvraag tot registratie als bedoeld in artikel 49 van verordening (EU) 1151/2012;  
+
+b. een verzoek tot wijziging van een productdossier als bedoeld in artikel 53 van verordening (EU) 1151/2012;  
+
+c. een verzoek tot annulering van een registratie als bedoeld in artikel 54 van verordening (EU) 1151/2012.     
+2.  Het Hoofdproductschap Akkerbouw geeft kennis van een aanvraag tot registratie en een verzoek tot niet-minimale wijziging van een productdossier als bedoeld in artikel 49 dan wel 53 van verordening (EU) 1151/2012 in het Mededelingen- en Verordeningenblad Bedrijfsorganisatie.   
+3.  Binnen vier weken na de kennisgeving, bedoeld in het tweede lid, kan een belanghebbende als bedoeld in artikel 49, derde lid, van verordening (EU) 1151/2012 bedenkingen tegen de aanvraag of het verzoek kenbaar maken bij het Hoofdproductschap Akkerbouw.   
+4.  Indien de aanvraag tot registratie of het verzoek tot wijziging of annulering aan de voorschriften van verordening (EU) 1151/2012 voldoet, zendt de minister deze door naar de Europese Commissie.   
+5.  Indien de Minister besluit tot doorzending van een aanvraag tot registratie of van een verzoek tot niet-minimale wijziging van een productdossier, wordt dit besluit tezamen met de versie van het productdossier waarop het besluit betrekking heeft, gepubliceerd in de Staatscourant.   
+6.  Het Hoofdproductschap Akkerbouw voorziet in de openbaarmaking, bedoeld in artikel 49, vierde lid, laatste alinea, van verordening (EU) 1151/2012.   
 
 ### Artikel  18  
 
-1.  De aanvragen tot registratie, de verzoeken tot wijziging van een productdossier dan wel de verzoeken tot annulering van een registratie, worden door het Hoofdproductschap Akkerbouw bekendgemaakt in het Mededelingen- en Verordeningenblad Bedrijfsorganisatie.   
-2.  Iedere belanghebbende kan binnen vier weken na de bekendmaking als bedoeld in het eerste lid in het Mededelingen- en Verordeningenblad Bedrijfsorganisatie van een aanvraag tot registratie, een verzoek tot wijziging van een productdossier of een verzoek tot annulering van een registratie, bezwaar als bedoeld in artikel 5, vijfde lid, van verordening 510/2006, dan wel bezwaar als bedoeld in artikel 7, vijfde lid, van verordening 509/2006 indienen bij het Hoofdproductschap Akkerbouw.   
-3.  De Minister beslist met inachtneming van de voorgaande leden en de artikelen 7 en 11 van verordening (EG) 509/2006 en de artikelen 5, 9 en 12 van verordening (EG) 510/2006 omtrent: 
-
-a. de doorzending aan de Commissie van de aanvragen tot registratie;  
-
-b. de doorzending aan de Commissie van verzoeken tot wijziging van een productdossier;  
-
-c. de doorzending aan de Commissie van verzoeken tot annulering van een registratie.     
-
-### Artikel  19  
-
-1.  Door de Commissie voorgenomen registraties, alsmede door de Commissie voorgenomen wijzigingen van een productdossier of voorgenomen annuleringen van registraties worden door het Hoofdproductschap Akkerbouw onmiddellijk na publicatie daarvan in het Publicatieblad van de Europese Unie, bekendgemaakt in het Mededelingen- en Verordeningenblad Bedrijfsorganisatie.   
-2.  Door de Commissie ingeschreven registraties, alsmede door de Commissie ingeschreven wijzigingen van een productdossier alsmede door de Commissie geannuleerde registraties worden door het Hoofdproductschap Akkerbouw onmiddellijk na publicatie daarvan in het Publicatieblad van de Europese Unie, bekendgemaakt in het Mededelingen en Verordeningenblad Bedrijfsorganisatie.   
-
-### Artikel  20  
-
-1.  Iedere belanghebbende kan binnen 4 maanden na de datum van bekendmaking in het Publicatieblad van de Europese Unie, zijn bedenkingen daartegen kenbaar maken overeenkomstig artikel 9, tweede lid van verordening (EG) 509/2006 dan wel artikel 7, tweede lid van verordening (EG) 510/2006 door middel van toezending van een gemotiveerde verklaring aan het Hoofdproductschap Akkerbouw.   
-2.  De Minister betrekt de in het eerste lid bedoelde verklaring in zijn overweging om al dan niet bezwaar tegen de registratie, wijziging of annulering aan te tekenen bij de Commissie als bedoeld in artikel 9, eerste lid, van verordening (EG) 509/2006 dan wel artikel 7, eerste lid, van verordening (EG) 510/2006.   
-
-### Artikel  21  
-
-Als producten als bedoeld in [artikel 16, eerste lid, onderdeel a, van het besluit](../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md) worden aangewezen: 
-
-a. Boeren-Leidse met sleutels in relatie tot het productdossier Boeren-Leidse met sleutels op grond van verordening (EG) 510/2006;  
-
-b. Kanterkaas, Kanternagelkaas, Kanterkomijnekaas in relatie tot het productdossier Kanterkaas, Kanternagelkaas, Kanterkomijnekaas op grond van verordening (EG) 510/2006;  
-
-c. Noord-Hollandse Edammer in relatie tot het productdossier Noord-Hollandse Edammer op grond van verordening (EG) 510/2006;  
-
-d. Noord-Hollandse Gouda in relatie tot het productdossier Noord-Hollandse Gouda op grond van verordening (EG) 510/2006;  
-
-e. Boerenkaas in relatie tot het productdossier Boerenkaas op grond van verordening (EG) 509/2006;  
-
-f. Edam Holland in relatie tot het productdossier Edam Holland op grond van verordening (EG) 510/2006;  
-
-g. Gouda Holland in relatie tot het productdossier Gouda Holland op grond van verordening (EG) 510/2006.    
+1.  Het Hoofdproductschap Akkerbouw geeft kennis van een door de Europese Commissie voorgenomen of ingeschreven registratie, wijziging van een productdossier of annulering van een registratie onmiddellijk na publicatie daarvan in het Publicatieblad van de Europese Unie in het Mededelingen- en Verordeningenblad Bedrijfsorganisatie.   
+2.  Binnen 8 weken na de datum van publicatie in het Publicatieblad van de Europese Unie kan een belanghebbende als bedoeld in artikel 51, eerste lid, tweede alinea, van verordening (EU) 1151/2012 bedenkingen tegen een voorgenomen registratie als bedoeld in artikel 49 van verordening (EU) 1151/2012 of niet-minimale wijziging van een productdossier als bedoeld in artikel 53 van verordening (EU) 1151/2012 kenbaar maken door middel van toezending van een gemotiveerde verklaring aan het Hoofdproductschap Akkerbouw.   
+3.  De minister betrekt de verklaring, bedoeld in het tweede lid, bij de overweging omtrent het instellen van bezwaar tegen een registratie of niet-minimale wijziging van een productdossier bij de Europese Commissie als bedoeld in artikel 51 van verordening (EU) 1151/2012.   
 
 ### Hoofdstuk  5  
 
 ####Zuigelingenvoeding bestemd voor derde landen
-
-### Artikel  22  
-
-Volledige zuigelingenvoeding en opvolgzuigelingenvoeding worden slechts uit Nederland uitgevoerd naar derde landen indien deze voldoen aan: 
-
-a. de [Warenwetregeling zuigelingenvoeding 2007](../../../../ministeriele-regeling/warenwetregeling/zuigelingenvoeding/2007/BWBR0021907/README.md);  
-
-b. hetgeen de Codex Alimentarius voorschrijft inzake volledige zuigelingenvoeding dan wel opvolgzuigelingenvoeding, of  
-
-c. de regels van het land van bestemming.    
 
 ### Hoofdstuk  6  
 
@@ -220,13 +158,11 @@ Als personen belast met het toezicht op de naleving als bedoeld in [artikel 15, 
 
 a. de keurmeesters van de Stichting BKD;  
 
-b. de controleurs, inspecteurs en keurmeesters van de Stichting COKZ;  
+b. de daartoe gekwalificeerde medewerkers van de Stichting KCB;  
 
-c. de daartoe gekwalificeerde medewerkers van de Stichting KCB;  
+c. de inspecteurs van de Stichting Skal;  
 
-d. de inspecteurs van de Stichting Skal;  
-
-e. de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit te ’s-Gravenhage;    
+d. de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit te ’s-Gravenhage;    
 
 ### Hoofdstuk  8  
 
@@ -266,10 +202,6 @@ b. een heffing op basis van het verrichten van activiteiten door marktdeelnemers
 ### Artikel  26c  
 
 Een controle-instelling maakt de tarieven, bedoeld in [artikel 11, eerste lid, van de wet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md), bekend op haar website.  
-
-### Artikel  27  
-
-Het RIKILT-Instituut voor Voedselveiligheid te Wageningen wordt aangewezen als erkend nationaal referentielaboratorium voor onderzoek naar watergehalte pluimveevlees als bedoeld in artikel 14bis, tiende lid, van verordening (EEG) 1538/91.  
 
 ### Artikel  28  
 

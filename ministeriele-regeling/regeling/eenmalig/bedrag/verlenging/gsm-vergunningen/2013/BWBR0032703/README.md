@@ -12,26 +12,26 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *wet:*[Telecommunicatiewet](../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+a.  *wet:* [Telecommunicatiewet](../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
 
-b. *Minister:* Minister van Economische Zaken;  
+b.  *Minister:* Minister van Economische Zaken;  
 
-c. *eenmalig bedrag:* eenmalig bedrag als bedoeld in [artikel 3.3a, tweede lid, onder a, van de wet](../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+c.  *eenmalig bedrag:* eenmalig bedrag als bedoeld in [artikel 3.3a, tweede lid, onder a, van de wet](../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
 
-d. *intrekken:* intrekken van de vergunning krachtens [artikel 3.7, eerste lid, onderdeel a, van de wet](../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) of een wijziging van de vergunning op verzoek van de vergunninghouder, voor zover deze tot gevolg heeft dat in heel Nederland aaneengesloten frequentieruimte van ten minste 1 MHz die voorafgaand aan deze wijziging in de vergunning werd genoemd, niet langer mag worden gebruikt;  
+d.  *intrekken:* intrekken van de vergunning krachtens [artikel 3.7, eerste lid, onderdeel a, van de wet](../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) of een wijziging van de vergunning op verzoek van de vergunninghouder, voor zover deze tot gevolg heeft dat in heel Nederland aaneengesloten frequentieruimte van ten minste 1 MHz die voorafgaand aan deze wijziging in de vergunning werd genoemd, niet langer mag worden gebruikt;  
 
-e. *ingetrokken vergunning:* de ingetrokken vergunning of het deel van de vergunning dat is ingetrokken als bedoeld in onderdeel d.    
+e.  *ingetrokken vergunning:* de ingetrokken vergunning of het deel van de vergunning dat is ingetrokken als bedoeld in onderdeel d.   
 
 ### Artikel  2  
 
-Degene die op 26 februari 2013 om 0:00 uur houder is van een vergunning voor het gebruik van frequentieruimte genoemd in de eerste kolom van tabel 1 in de bijlage is voor het gebruik van de onder de verlengde vergunning vallende frequentieruimte genoemd in de tweede kolom van tabel 1, een eenmalig bedrag verschuldigd. Dit bedrag wordt berekend door de respectievelijke volgens de derde kolom van tabel 1 bij deze frequentieruimte behorende rekenprijs in tabel 2, te vermenigvuldigen met het respectievelijke aantal eenheden van 100 KHz van de betreffende frequentieruimte in de verlengde vergunning, en dit bedrag te vermenigvuldigen met de in tabel 3 opgenomen factor behorend bij het totale aantal maanden waarmee de vergunning voor deze frequentieruimte wordt verlengd.  
+Degene die op 26 februari 2013 om 0:00 uur houder is van een vergunning voor het gebruik van frequentieruimte genoemd in de eerste kolom van tabel 1 in de bijlage is voor het gebruik van de onder de verlengde vergunning vallende frequentieruimte genoemd in de tweede kolom van tabel 1, een eenmalig bedrag verschuldigd. Dit bedrag wordt berekend door de respectievelijke volgens de derde kolom van tabel 1 bij deze frequentieruimte behorende rekenprijs in tabel 2, te vermenigvuldigen met het respectievelijke aantal eenheden van 100 KHz van de betreffende frequentieruimte in de verlengde vergunning, en dit bedrag te vermenigvuldigen met de in tabel 3 opgenomen factor behorend bij het totale aantal maanden waarmee de vergunning voor deze frequentieruimte wordt verlengd. 
 
 ### Artikel  3  
 
 1.  De vergunninghouder, bedoeld in artikel 2, betaalt het op grond van artikel 2 verschuldigde bedrag binnen zes weken nadat het besluit tot vaststelling van het bedrag door de Minister aan hem is bekendgemaakt.   
 2.  De betalingen worden verricht door bijschrijving op bankrekeningnummer 569994039 ten name van Ministerie van EZ, Agentschap Telecom onder vermelding van het kenmerknummer van het besluit, bedoeld in het eerste lid.   
 3.  Indien op verzoek van de vergunninghouder, bedoeld in artikel 2, in afwijking van het eerste lid uitstel van betaling wordt verleend, wordt aan de beschikking tot uitstel van betaling het voorschrift verbonden dat het op het lopende kalenderjaar betrekking hebbende deel van het verschuldigde bedrag jaarlijks wordt betaald op dezelfde datum, voor het eerst op de datum, bedoeld in het eerste lid.   
-4.  De Minister kan een geldschuld jegens de vergunninghouder die verband houdt met een bij of krachtens [hoofdstuk 3 van de Telecommunicatiewet](../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) genomen besluit, verrekenen met een vordering op de vergunninghouder op grond van artikel 2.   
+4.  De Minister kan een geldschuld jegens de vergunninghouder die verband houdt met een bij of krachtens [hoofdstuk 3 van de Telecommunicatiewet](../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) genomen besluit, verrekenen met een vordering op de vergunninghouder op grond van artikel 2.  
 
 ### Artikel  4  
 
@@ -43,27 +43,27 @@ a. het verschil tussen het deel van het bedrag in de beschikking op grond van ar
 b. vermeerderd met de wettelijke rente als bedoeld in [artikel 119 van boek 6 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) over de periode tussen de datum waarop het op dit verschil betrekking hebbende bedrag in de beschikking op grond van artikel 2 verschuldigd is en de datum waarop de Minister het verschil op grond van dit lid betaalt.     
 3.  De beschikking tot vaststelling van de herberekening, bedoeld in het eerste lid, en het aan de vergunninghouder te betalen bedrag op grond van het tweede lid, wordt uiterlijk twee weken na de dagtekening van het besluit waarmee de vergunning wordt ingetrokken, toegezonden aan de vergunninghouder bedoeld in het tweede lid.   
 4.  Dit artikel is van toepassing onverminderd verplichtingen op grond van artikel 3 en de besluiten op grond van artikel 2.   
-5.  De Minister kan een vordering van de vergunninghouder op grond van dit artikel verrekenen met een geldschuld jegens de vergunninghouder die verband houdt met een bij of krachtens [hoofdstuk 3 van de Telecommunicatiewet](../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) genomen besluit.   
+5.  De Minister kan een vordering van de vergunninghouder op grond van dit artikel verrekenen met een geldschuld jegens de vergunninghouder die verband houdt met een bij of krachtens [hoofdstuk 3 van de Telecommunicatiewet](../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) genomen besluit.  
 
 ### Artikel  5  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Regeling eenmalig bedrag verlenging GSM-vergunningen 2013.  
+Deze regeling wordt aangehaald als: Regeling eenmalig bedrag verlenging GSM-vergunningen 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 19 december 2012   
 
 De 
-Minister van Economische Zaken,
-H.G.J.Kamp.  
+Minister van Economische Zaken, 
+H.G.J. Kamp.    
 
-### Bijlage  
+### Bijlage 
 
-####behorende bij artikel 2  van de Regeling eenmalig bedrag verlenging GSM-vergunningen 2013
+#### behorende bij artikel 2  van de Regeling eenmalig bedrag verlenging GSM-vergunningen 2013
 
 *Tabel 1 Toewijzing rekenprijs aan frequenties binnen verlengde vergunningen*   
 
@@ -114,54 +114,54 @@ Tabel 2 Rekenprijzen per 100 KHz per geveilde vergunning
 
 | Vergunningtype en -nummer in de veiling  | Rekenprijs per 100 KHz  |
 |:---|:---|
-| C1  | € 3,958,676  |
-| C2  | € 3,958,676  |
-| C3  | € 3,978,676  |
-| C4  | € 3,978,676  |
-| C5  | € 3,958,676  |
-| C6  | € 3,958,676  |
-| C7  | € 3,958,676  |
-| D1  | € 929,863  |
-| D2  | € 929,863  |
-| D3  | € 929,863  |
-| D4  | € 929,863  |
-| D5  | € 929,863  |
-| D6  | € 929,863  |
-| D7  | € 929,863  |
-| D8  | € 929,863  |
-| D9  | € 930,193  |
-| D10  | € 930,193  |
-| D11  | € 930,193  |
-| D12  | € 930,193  |
-| D13  | € 930,193  |
-| D14  | € 930,193  |
+| C1  |  € 3,958,676   |
+| C2  |  € 3,958,676   |
+| C3  |  € 3,978,676   |
+| C4  |  € 3,978,676   |
+| C5  |  € 3,958,676   |
+| C6  |  € 3,958,676   |
+| C7  |  € 3,958,676   |
+| D1  |  € 929,863   |
+| D2  |  € 929,863   |
+| D3  |  € 929,863   |
+| D4  |  € 929,863   |
+| D5  |  € 929,863   |
+| D6  |  € 929,863   |
+| D7  |  € 929,863   |
+| D8  |  € 929,863   |
+| D9  |  € 930,193   |
+| D10  |  € 930,193   |
+| D11  |  € 930,193   |
+| D12  |  € 930,193   |
+| D13  |  € 930,193   |
+| D14  |  € 930,193   |
 
 Tabel 3 Alpha’s behorend bij het aantal maanden verlenging 
 
 | Aantal maanden verlenging  | Alpha (factor waarmee de rekenprijs uit tabel 2 vermenigvuldigd wordt)  |
 |:---|:---|
-| 1  | 0.008841  |
-| 2  | 0.018400  |
-| 3  | 0.027793  |
-| 4  | 0.037493  |
-| 5  | 0.047022  |
-| 6  | 0.056866  |
-| 7  | 0.066782  |
-| 8  | 0.076522  |
-| 9  | 0.086585  |
-| 10  | 0.096468  |
-| 11  | 0.106543  |
-| 12  | 0.116678  |
-| 13  | 0.126175  |
-| 14  | 0.136452  |
-| 15  | 0.146543  |
-| 16  | 0.156967  |
-| 17  | 0.167202  |
-| 18  | 0.177776  |
-| 19  | 0.188428  |
-| 20  | 0.198883  |
-| 21  | 0.209687  |
-| 22  | 0.220292  |
-| 23  | 0.231093  |
-| 24  | 0.241953  |
+| 1  |  0.008841   |
+| 2  |  0.018400   |
+| 3  |  0.027793   |
+| 4  |  0.037493   |
+| 5  |  0.047022   |
+| 6  |  0.056866   |
+| 7  |  0.066782   |
+| 8  |  0.076522   |
+| 9  |  0.086585   |
+| 10  |  0.096468   |
+| 11  |  0.106543   |
+| 12  |  0.116678   |
+| 13  |  0.126175   |
+| 14  |  0.136452   |
+| 15  |  0.146543   |
+| 16  |  0.156967   |
+| 17  |  0.167202   |
+| 18  |  0.177776   |
+| 19  |  0.188428   |
+| 20  |  0.198883   |
+| 21  |  0.209687   |
+| 22  |  0.220292   |
+| 23  |  0.231093   |
+| 24  |  0.241953   |
 

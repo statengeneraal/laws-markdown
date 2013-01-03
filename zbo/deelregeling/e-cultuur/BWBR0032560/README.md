@@ -6,7 +6,7 @@
 
 ####Doelstellingen Deelregeling e-Cultuur
 
-Deze deelregeling bevordert hoogwaardige kwaliteit in e-Cultuur en versterkt vanuit een culturele invalshoek haar maatschappelijke en economische meerwaarde. Daarbij gaat het om projecten die gericht zijn op het verdiepen, innoveren, zichtbaar maken en de belangstelling wekken voor e-Cultuur en die de profilering en beleving ervan binnen de samenleving, zowel nationaal als internationaal, stimuleren.  
+Deze deelregeling bevordert hoogwaardige kwaliteit in e-Cultuur en versterkt vanuit een culturele invalshoek haar maatschappelijke en economische meerwaarde. Daarbij gaat het om projecten die gericht zijn op het verdiepen, innoveren, zichtbaar maken en de belangstelling wekken voor e-Cultuur en die de profilering en beleving ervan binnen de samenleving, zowel nationaal als internationaal, stimuleren. 
 
 ### Artikel  2  
 
@@ -26,25 +26,25 @@ Het Bestuur kan met toepassing van deze deelregeling projectsubsidies verstrekke
 
 – internationale positionering ontwerpsector;  
 
-– publieke belangstelling.    
+– publieke belangstelling.   
 
 ### Artikel  3  
 
 ####Advies voorafgaand aan subsidieverlening
 
-Het bestuur beslist over de subsidieverlening op basis van het advies van een door het bestuur in te stellen adviesorgaan. Dit adviesorgaan betrekt in zijn oordeel de mate waarin het project consistent is in doel, opzet, betrokken deskundigheid, wijze en mate van cofinanciering en publieksbereik.  
+Het bestuur beslist over de subsidieverlening op basis van het advies van een door het bestuur in te stellen adviesorgaan. Dit adviesorgaan betrekt in zijn oordeel de mate waarin het project consistent is in doel, opzet, betrokken deskundigheid, wijze en mate van cofinanciering en publieksbereik. 
 
 ### Artikel  4  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2013. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 december 2012, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2013.  
+Deze regeling treedt in werking met ingang van 1 januari 2013. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 december 2012, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2013. 
 
 ### Artikel  5  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Deelregeling e-Cultuur.  
+Deze regeling wordt aangehaald als: Deelregeling e-Cultuur. 
 Deze deelregeling zal in de Staatscourant worden geplaatst.  
 
 De stichting Stimuleringsfonds Creatieve Industrie, 

@@ -5,7 +5,7 @@
 De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,  
 Gelet op [artikel 7, eerste lid, onderdelen b, c en d, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);
 Besluit:     
-### Hoofdstuk  1  
+### Hoofdstuk 1  
 
 ####Algemene bepaling
 
@@ -13,28 +13,28 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. de Minister: de Minister van Veiligheid en Justitie;  
+a. de Minister: de Minister van Veiligheid en Justitie; 
 
-b. bevoegd gezag: de korpschef, voor zover het betreft een kandidaat-aspirant respectievelijk een kandidaat vrijwillige ambtenaar in opleiding die, indien hij het gehele selectietraject met goed gevolg heeft doorlopen, bij de politie, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md) kan worden aangesteld als aspirant in de zin van [artikel 1, eerste lid, onderdeel b, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) respectievelijk als vrijwillige ambtenaar in opleiding;  
+b. bevoegd gezag: de korpschef, voor zover het betreft een kandidaat-aspirant respectievelijk een kandidaat vrijwillige ambtenaar in opleiding die, indien hij het gehele selectietraject met goed gevolg heeft doorlopen, bij de politie, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md) kan worden aangesteld als aspirant in de zin van [artikel 1, eerste lid, onderdeel b, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) respectievelijk als vrijwillige ambtenaar in opleiding; 
 
-c. aspirant: de aspirant, bedoeld in [artikel 1, eerste lid, onderdeel b, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+c. aspirant: de aspirant, bedoeld in [artikel 1, eerste lid, onderdeel b, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md); 
 
-d. vrijwillige ambtenaar in opleiding: de ambtenaar, bedoeld in [artikel 1, eerste lid, onderdeel b, van het Besluit rechtspositie vrijwillige politie](../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md);  
+d. vrijwillige ambtenaar in opleiding: de ambtenaar, bedoeld in [artikel 1, eerste lid, onderdeel b, van het Besluit rechtspositie vrijwillige politie](../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md); 
 
-e. betrokkene: de kandidaat-aspirant of de kandidaat vrijwillige ambtenaar in opleiding;  
+e. betrokkene: de kandidaat-aspirant of de kandidaat vrijwillige ambtenaar in opleiding; 
 
-f. EQF: European Qualifications Framework, het Europees raamwerk van de Europese Unie waarin alle kwalificaties van diploma’s en certificaten onderverdeeld zijn in het kader van leven lang leren.    
+f. EQF: European Qualifications Framework, het Europees raamwerk van de Europese Unie waarin alle kwalificaties van diploma’s en certificaten onderverdeeld zijn in het kader van leven lang leren.  
 
-### Hoofdstuk  2  
+### Hoofdstuk 2  
 
 ####Minimumleeftijd
 
 ### Artikel  2  
 
 1.  De minimumleeftijd voor aanstelling bedraagt 18 jaar.   
-2.  De minimumleeftijd voor aanstelling bedraagt 17 jaar voor de aspirant die de opleiding assistent politiemedewerker (kwalificatieniveau 2/EQF niveau 2) gaat volgen en de vrijwillige ambtenaar in opleiding.   
+2.  De minimumleeftijd voor aanstelling bedraagt 17 jaar voor de aspirant die de opleiding assistent politiemedewerker (kwalificatieniveau 2/EQF niveau 2) gaat volgen en de vrijwillige ambtenaar in opleiding.  
 
-### Hoofdstuk  3  
+### Hoofdstuk 3  
 
 ####Eisen met betrekking tot opleidingsniveau
 
@@ -42,9 +42,9 @@ f. EQF: European Qualifications Framework, het Europees raamwerk van de Europese
 
 1.  De vooropleidingseisen zoals deze ook gelden voor het reguliere onderwijs als bedoeld in de [artikelen 7.4.7.](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [8.2.1](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [8.2.2 van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) voor de politieopleidingen op het MBO niveau en de [artikelen 7.24 tot en met 7.28 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) voor de politieopleidingen op de niveaus HBO en master, zijn onverkort van toepassing om tot de initiële politieopleidingen, bedoeld in [artikel 13 van de Wet op het LSOP en het Politieonderwijs](../../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md), te kunnen worden toegelaten.   
 2.  Het Landelijk selectie- en opleidingsinstituut politie, Politie onderwijs- en kenniscentrum controleert of betrokkene voldoet aan de vereiste minimale vooropleidingseisen om tot een bepaald opleidingsniveau te kunnen worden toegelaten.   
-3.  Kandidaten die niet voldoen aan de in het eerste lid gestelde eisen, kunnen een toelatingstoets afleggen bij het Landelijk selectie- en opleidingsinstituut, Politie onderwijs- en kenniscentrum. Indien deze toets met goed gevolg wordt afgelegd, komt de kandidaat alsnog in aanmerking voor toelating tot één van de initiële opleidingen.   
+3.  Kandidaten die niet voldoen aan de in het eerste lid gestelde eisen, kunnen een toelatingstoets afleggen bij het Landelijk selectie- en opleidingsinstituut, Politie onderwijs- en kenniscentrum. Indien deze toets met goed gevolg wordt afgelegd, komt de kandidaat alsnog in aanmerking voor toelating tot één van de initiële opleidingen.  
 
-### Hoofdstuk  4  
+### Hoofdstuk 4  
 
 ####Het geschiktheidsonderzoek
 
@@ -53,7 +53,7 @@ f. EQF: European Qualifications Framework, het Europees raamwerk van de Europese
 1.  De betrokkene wordt onderworpen aan een geschiktheidonderzoek, bestaande uit twee delen, deel A en deel B, waarbij deel A bestaat uit: een taalvaardigheidonderzoek, een cognitief capaciteitenonderzoek, en een fysiek motorisch onderzoek en deel B uit een psychologisch onderzoek.   
 2.  De betrokkene moet op elk van de genoemde onderdelen van deel A voldoende scoren om deel te mogen nemen aan deel B van het geschiktheidonderzoek. Het taalvaardigheidonderzoek wordt niet afgenomen bij de kandidaat-aspirant die, indien tot aanstelling zou worden overgegaan, de initiële politieopleiding gaat volgen op het kwalificatieniveau 5/EQF 6 of 6/EQF 7.   
 3.  Het geschiktheidonderzoek (deel A en deel B) wordt afgenomen het Instituut voor Werving en Selectie Politie, met inachtneming van de richtlijnen opgenomen in de bij deze regeling behorende bijlagen 1, 2, 3 en 4. Deel B wordt afgenomen onder verantwoordelijkheid van een psycholoog die is aangesloten bij het Nederlands Instituut van Psychologen.   
-4.  De kosten van het geschiktheidonderzoek komen ten laste van het bevoegd gezag.   
+4.  De kosten van het geschiktheidonderzoek komen ten laste van het bevoegd gezag.  
 
 ### Artikel  5  
 
@@ -63,13 +63,13 @@ f. EQF: European Qualifications Framework, het Europees raamwerk van de Europese
 4.  Als de uitslag van het fysiek motorisch onderzoek onvoldoende is, kan binnen twee weken nadat deze uitslag is meegedeeld een tweede fysiek motorisch onderzoek worden aangevraagd door het bevoegd gezag. Binnen drie maanden na deze aanvraag vindt het tweede fysiek motorisch onderzoek plaats.   
 5.  Als de uitslag van het taalvaardigheidonderzoek of het cognitief capaciteitenonderzoek van deel A onvoldoende is, kan na drie maanden door het bevoegd gezag opnieuw een geschiktheidonderzoek deel A worden aangevraagd.   
 6.  Als de uitslag van deel B onvoldoende is, kan door het bevoegd gezag na 12 maanden opnieuw een deel B worden aangevraagd.   
-7.  De kosten van het gesprek, bedoeld in het tweede lid en de kosten van het tweede onderzoek, bedoeld in het vierde, vijfde en zesde lid, komen ten laste van het bevoegd gezag, met uitzondering van de reiskosten voor het gesprek bedoeld in het tweede lid.   
+7.  De kosten van het gesprek, bedoeld in het tweede lid en de kosten van het tweede onderzoek, bedoeld in het vierde, vijfde en zesde lid, komen ten laste van het bevoegd gezag, met uitzondering van de reiskosten voor het gesprek bedoeld in het tweede lid.  
 
 ### Artikel  6  
 
-1.  Het Instituut Werving en Selectie Politie rapporteert het bevoegd gezag naar aanleiding van de uitkomsten van het geschiktheidsonderzoek.   
+1. Het Instituut Werving en Selectie Politie rapporteert het bevoegd gezag naar aanleiding van de uitkomsten van het geschiktheidsonderzoek.  
 2.  Betrokkene heeft het recht van weerhouding ten aanzien van de rapportage van de uitkomst van het geschiktheidonderzoek aan het bevoegd gezag.   
-3.  Het Instituut, bedoeld in het eerste lid, stelt de betrokkene in de gelegenheid zich uiterlijk binnen twee weken te beroepen op dit recht van weerhouding.   
+3.  Het Instituut, bedoeld in het eerste lid, stelt de betrokkene in de gelegenheid zich uiterlijk binnen twee weken te beroepen op dit recht van weerhouding. 
 
 ### Artikel  7  
 
@@ -81,17 +81,17 @@ b. de betrokkene die aan het cognitief capaciteitenonderzoek is onderworpen het 
 
 c. de betrokkene die aan het fysiek motorisch onderzoek is onderworpen de in bijlage 3 aangegeven minimale vereisten niet heeft behaald, of  
 
-d. de betrokkene die aan het psychologisch onderzoek is onderworpen het in bijlage 4 genoemde minimale vereiste niveau niet heeft behaald.    
+d. de betrokkene die aan het psychologisch onderzoek is onderworpen het in bijlage 4 genoemde minimale vereiste niveau niet heeft behaald.   
 
-### Hoofdstuk  5  
+### Hoofdstuk 5  
 
 ####Rijbewijs
 
 ### Artikel  8  
 
-De aspirant is op het moment van zijn aanstelling in het bezit van het rijbewijs B of behaalt dit binnen twee jaar na zijn aanstelling.  
+De aspirant is op het moment van zijn aanstelling in het bezit van het rijbewijs B of behaalt dit binnen twee jaar na zijn aanstelling. 
 
-### Hoofdstuk  6  
+### Hoofdstuk 6  
 
 ####Het geneeskundig onderzoek
 
@@ -100,7 +100,7 @@ De aspirant is op het moment van zijn aanstelling in het bezit van het rijbewijs
 1.  Nadat alle overige beoordelingen van de geschiktheid van de betrokkene hebben plaatsgevonden en het bevoegd gezag op grond daarvan voornemens is de betrokkene aan te stellen, wordt de betrokkene onderworpen aan een geneeskundig onderzoek. Dit onderzoek geschiedt door een door het bevoegd gezag aangewezen geneeskundige, niet zijnde de behandelend arts van de betrokkene met inachtneming van de richtlijnen die als bijlage 5 bij deze regeling zijn opgenomen.   
 2.  De keuring wordt verricht voorafgaande aan een met betrekking tot de betrokkene in te stellen antecedentenonderzoek als bedoeld in [artikel 8a van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en [artikel 4a van het Besluit rechtspositie vrijwillige politie](../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md) of veiligheidsonderzoek als bedoeld in [artikel 1, eerste lid, onder a, van de Wet op de veiligheidsonderzoeken](../../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md).   
 3.  De uitslag van het geneeskundig onderzoek wordt de betrokkene zo spoedig mogelijk medegedeeld.   
-4.  De kosten van het geneeskundige onderzoek komen niet ten laste van de betrokkene.   
+4.  De kosten van het geneeskundige onderzoek komen niet ten laste van de betrokkene.  
 
 ### Artikel  10  
 
@@ -109,41 +109,41 @@ De aspirant is op het moment van zijn aanstelling in het bezit van het rijbewijs
 3.  De herkeuring geschiedt door een commissie van drie geneeskundigen.   
 4.  Het bevoegd gezag en de betrokkene wijzen elk een geneeskundige aan voor de commissie. Deze geneeskundigen wijzen een derde geneeskundige voor de commissie aan.   
 5.  De geneeskundige die het geneeskundig onderzoek, bedoeld in artikel 9, eerste lid, heeft verricht en de behandelend arts van de betrokkene maken geen deel uit van de commissie.   
-6.  De kosten van de herkeuring komen ten laste van het bevoegd gezag. Het bevoegd gezag kan van de betrokkene een redelijke bijdrage verlangen.   
+6.  De kosten van de herkeuring komen ten laste van het bevoegd gezag. Het bevoegd gezag kan van de betrokkene een redelijke bijdrage verlangen.  
 
-### Hoofdstuk  7  
+### Hoofdstuk 7  
 
 ####Slotbepalingen
 
 ### Artikel  11  
 
-De Regeling aanstellingseisen politie wordt ingetrokken.  
+De Regeling aanstellingseisen politie wordt ingetrokken. 
 
 ### Artikel  12  
 
-Deze regeling treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  13  
 
-Deze regeling wordt aangehaald als: Regeling aanstellingseisen politie 2002. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen (1 tot en met 5) die ter inzage worden gelegd in de bibliotheek van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.  
+Deze regeling wordt aangehaald als: Regeling aanstellingseisen politie 2002. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen (1 tot en met 5) die ter inzage worden gelegd in de bibliotheek van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. 
 
 ### Artikel  14  
 
-Deze regeling berust op [artikel 7, eerste lid, onderdelen b, c en d, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en [artikel 4, eerste lid, onderdelen b, c en d, van het Besluit rechtspositie vrijwillige politie](../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md).  
+Deze regeling berust op [artikel 7, eerste lid, onderdelen b, c en d, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en [artikel 4, eerste lid, onderdelen b, c en d, van het Besluit rechtspositie vrijwillige politie](../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md). 
 
 De 
 Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, 
-R.Hessing   
+R. Hessing     
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####behorende bij artikel 4, derde lid , van de Regeling aanstellingseisen politie 2002
 
 ### * *Het taalvaardigheidonderzoek* * 
 
-De kandidaat die solliciteert naar een executieve functie bij de Nederlandse politie, wordt onderworpen aan een geschiktheidonderzoek. Voor kandidaten die de selectie ondergaan voor de opleidingen op de kwalificatieniveaus 2 (EQF 2), 3 (EQF 3) en 4 (EQF 4) maakt een taalvaardigheidonderzoek deel uit van dit geschiktheidonderzoek. De taaltoets bestaat uit een voorschatter, een leestoets en een schrijftoets. Bij een score van 0–25 punten stopt de taaltoets, het taalniveau van de kandidaat is zodanig dat verder testen niet mogelijk is. De procedure wordt door het Instituut voor Werving en Selectie Politie beëindigd. De niet testbare kandidaten kunnen op grond van artikel 7, onder a, van de Regeling aanstellingseisen politie 2002 niet worden aangesteld. Op de lees- en schrijftoets wordt de volgende cesuur gehanteerd: minimaal een A2 beoordeling in combinatie met een B1 beoordeling (of hoger) voor lezen en schrijven levert een positief advies op. Met het taalvaardigheidonderzoek wordt in eerste instantie de testbaarheid van de kandidaat bepaald. Bezien wordt of de kandidaat over een voldoende taalvaardigheid beschikt om de instructies en vragen te begrijpen van de overige tot het geschiktheidonderzoek behorende onderzoeken. Daarnaast wordt bepaald of de taalvaardigheid van de kandidaat voldoende is om direct te kunnen deelnemen aan het politieonderwijs. Tenslotte wordt bepaald of de taalvaardigheid van de kandidaat voldoende is voor de uitoefening van de executieve functie bij de Nederlandse politie. De taaltoets bestaat uit een voorschatter, een leestoets en een schrijftoets. De voorschatter is het eerste onderdeel. Op basis van deze voorschatter wordt het niveau bepaald waarop de leestoets aangeboden wordt. Resultaten op de voorschatter kunnen variëren van 0 tot 80 punten. Bij een score van 0–25 punten stopt de taaltoets, het taalniveau van de kandidaat is zodanig dat verder testen niet mogelijk is. Bij een score van 26–54 punten wordt de leestoets niveau A2-B1 aangeboden, bij een score van 55–68 wordt een leestoets niveau B1-B2 aangeboden en bij een score van 69–80 wordt een leestoets B2-C1 niveau aangeboden. Resultaten op de leestoets kunnen variëren van 0 tot 30 punten. De score op de leestoets wordt omgezet naar een score/uitslaglabel lezen. Dit is het eerste eindresultaat dat meegenomen wordt in de eindbeslissing door/af. Het tweede deel van het eindresultaat wordt gevormd door de eindscore op het onderdeel schrijven. De schrijftoets wordt door een beoordelaar beoordeelt aan de hand van een voorgeschreven systematiek. 
+De kandidaat die solliciteert naar een executieve functie bij de Nederlandse politie, wordt onderworpen aan een geschiktheidonderzoek. Voor kandidaten die de selectie ondergaan voor de opleidingen op de kwalificatieniveaus 2 (EQF 2), 3 (EQF 3) en 4 (EQF 4) maakt een taalvaardigheidonderzoek deel uit van dit geschiktheidonderzoek. De taaltoets bestaat uit een voorschatter, een leestoets en een schrijftoets. Bij een score van 0–25 punten stopt de taaltoets, het taalniveau van de kandidaat is zodanig dat verder testen niet mogelijk is. De procedure wordt door het Instituut voor Werving en Selectie Politie beëindigd. De niet testbare kandidaten kunnen op grond van artikel 7, onder a, van de Regeling aanstellingseisen politie 2002 niet worden aangesteld. Op de lees- en schrijftoets wordt de volgende cesuur gehanteerd: minimaal een A2 beoordeling in combinatie met een B1 beoordeling (of hoger) voor lezen en schrijven levert een positief advies op. Met het taalvaardigheidonderzoek wordt in eerste instantie de testbaarheid van de kandidaat bepaald. Bezien wordt of de kandidaat over een voldoende taalvaardigheid beschikt om de instructies en vragen te begrijpen van de overige tot het geschiktheidonderzoek behorende onderzoeken. Daarnaast wordt bepaald of de taalvaardigheid van de kandidaat voldoende is om direct te kunnen deelnemen aan het politieonderwijs. Tenslotte wordt bepaald of de taalvaardigheid van de kandidaat voldoende is voor de uitoefening van de executieve functie bij de Nederlandse politie. De taaltoets bestaat uit een voorschatter, een leestoets en een schrijftoets. De voorschatter is het eerste onderdeel. Op basis van deze voorschatter wordt het niveau bepaald waarop de leestoets aangeboden wordt. Resultaten op de voorschatter kunnen variëren van 0 tot 80 punten. Bij een score van 0–25 punten stopt de taaltoets, het taalniveau van de kandidaat is zodanig dat verder testen niet mogelijk is. Bij een score van 26–54 punten wordt de leestoets niveau A2-B1 aangeboden, bij een score van 55–68 wordt een leestoets niveau B1-B2 aangeboden en bij een score van 69–80 wordt een leestoets B2-C1 niveau aangeboden. Resultaten op de leestoets kunnen variëren van 0 tot 30 punten. De score op de leestoets wordt omgezet naar een score/uitslaglabel lezen. Dit is het eerste eindresultaat dat meegenomen wordt in de eindbeslissing door/af. Het tweede deel van het eindresultaat wordt gevormd door de eindscore op het onderdeel schrijven. De schrijftoets wordt door een beoordelaar beoordeelt aan de hand van een voorgeschreven systematiek.  
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####behorende bij artikel 4, derde lid , van de Regeling aanstellingseisen politie 2002
 
@@ -151,7 +151,7 @@ De kandidaat die solliciteert naar een executieve functie bij de Nederlandse pol
 
 De kandidaat die solliciteert naar een executieve functie bij de Nederlandse politie, wordt onderworpen aan een geschiktheidonderzoek. Van dit geschiktheidonderzoek maakt deel uit het cognitieve capaciteitenonderzoek. Het cognitieve capaciteitenonderzoek biedt het bevoegd gezag, naast het behaalde diploma van de kandidaat, een graadmeter om de geschiktheid van een kandidaat te beoordelen. De minimaal te behalen score op het cognitieve capaciteitenonderzoek is een 7 (op een schaal van 1 tot en met 20), op het beoogde opleidingsniveau van betreffende kandidaat. De score is bepalend voor het niveau waarop de kandidaat in het onderwijs kan instromen. Een korps kan bepalen dat een kandidaat de status doelgroepenkandidaat krijgt. Voor deze doelgroepenkandidaat geldt geen minimale norm op het cognitieve capaciteitenonderzoek. Het cognitieve capaciteitenonderzoek bestaat uit een aantal tests waarmee de intellectuele capaciteiten worden gemeten. De cognitieve capaciteitentest is een adaptieve test. Dit houdt in dat de te presenteren items voortdurend worden aangepast aan het geschatte niveau van de kandidaat. Elk onderdeel start met voorbeeldvragen. Hierin wordt duidelijk wat de bedoeling is. Na de voorbeeldvragen krijgt men oefenvragen om zich voor te bereiden, deze dienen als warming-up. Bij deze oefenvragen ontvangt de kandidaat feedback op de door hem gemaakte fouten. Als men de oefenvragen heeft gemaakt, dan krijgt men de testvragen. De antwoorden op de voorbeeld- en oefenvragen tellen niet mee voor het resultaat. Gedurende de test is het van belang dat de kandidaat op de tijd let, deze is voor iedere vraag beperkt. De gehele test duurt ongeveer 1 uur en 40 minuten en wordt per computer afgenomen. De score per onderdeel wordt weergegeven op een schaal van 1 tot en met 20 (vigintielscore). De uiteindelijke score is afhankelijk van het niveau, waarop de score van een sollicitant wordt geprojecteerd: een sollicitant kan dus voor niveau 2 een 10 scoren en voor niveau 3 een 7 scoren. De eindscore van iedere kandidaat wordt vergeleken met de resultaten van normgroepen. Er zijn vijf normgroepen die elk afzonderlijk bestaan uit meer dan 2000 kandidaten die de test eerder hebben afgelegd en die een opleiding hebben genoten die toegang geeft tot eenzelfde aan het politieonderwijs verbonden kwalificatieniveau. De eindscore van de Cognitieve Capaciteitentest wordt derhalve vergeleken met de resultaten van vijf normgroepen. Dit zijn de groep eerder geteste kandidaten op het kwalificatieniveau 2 (EQF2), 3 (EQF3), 4 (EQF4), 5 (EQF 6) en 6 (EQF 7). Voor de cognitieve capaciteitentest geldt dat de vergelijking van de eindscore met de resultaten van een normgroep wordt gepresenteerd op een 20-puntsschaal. Daarbij staat elk punt voor 5 % van de normgroep. Scoort een kandidaat in deze vergelijking 12 punten dan betekent dit dat (11 x 5=) 55 procent van de desbetreffende normgroep een lager resultaat heeft behaald en (8x5=) 40 procent een hoger resultaat. 
 
-### Bijlage  3  
+### Bijlage 3 
 
 ####behorende bij artikel 4, derde lid , van de Regeling aanstellingseisen politie 2002
 
@@ -266,7 +266,7 @@ De kandidaat dient na ronde 1 t/m 4 telkens de startlijn te passeren. Hierbij mo
 
 Nadat de kandidaat in de 5e en laatste ronde de aangegeven pion is gepasseerd moet er gefinished worden. Via de kortste weg sprint de kandidaat naar de finishlijn. De kandidaat dient de finishlijn te passeren en moet daarbij tussen de tijdwaarnemingsapparatuur door lopen. Hierbij zal de tijdswaarneming stoppen. 
 
-### Bijlage  4  
+### Bijlage 4 
 
 ####behorende bij artikel 4, derde lid , van de Regeling aanstellingseisen politie 2002
 
@@ -357,7 +357,7 @@ Elke competentie heeft een schaalwaarde (of schaalanker) met een waarde van 1 to
 
 2. verwacht worden dat zij anderen zullen aanspreken op ontoelaatbaar gedrag.   
 
-### Bijlage  5  
+### Bijlage 5 
 
 ####behorende bij artikel 9, eerste lid , van de Regeling aanstellingseisen politie 2002
 
@@ -367,19 +367,19 @@ PERSONEEL IN EXECUTIEVE DIENST Agent van politie
 
 [Artikel 2 van de politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md) luidt:  *De politie heeft tot taak in ondergeschiktheid aan het bevoegde gezag en in overeenstemming met de geldende rechtsregels te zorgen voor de daadwerkelijke handhaving van de rechtsorde en het verlenen van hulp aan hen die deze behoeven.*  In de uitvoering van deze taak zijn de volgende elementen te onderscheiden: 
 
-– *Surveillance:* Hierbij moet vaak gedurende lange tijd eenzelfde houding worden aangenomen.  
+–  *Surveillance:* Hierbij moet vaak gedurende lange tijd eenzelfde houding worden aangenomen.  
 
-– *Achtervolging:* Veel (vaak hard en soepel) lopen, kruipen, klimmen, springen en zwemmen.  
+–  *Achtervolging:* Veel (vaak hard en soepel) lopen, kruipen, klimmen, springen en zwemmen.  
 
-– *Aanhouding:* Verdachte personen moeten worden achtervolgd, aangehouden en – zonodig met geweld – worden overmeesterd, waarbij niet te snel gebruik mag worden gemaakt van (vuur)wapens.   De diensten zijn onregelmatig (dag-, avond-, en nachtdiensten) ook tijdens het weekeinde, waarbij geen vaste maaltijden kunnen worden gegarandeerd. De diensten worden te voet, per (motor)rijwiel of per auto verricht en moeten onder alle weersomstandigheden doorgang vinden. Expositie aan gevaarlijke stoffen – ook radioactieve – komt voor. Het dragen van een helm, beschermende kleding en een gasmasker is soms noodzakelijk. 
+–  *Aanhouding:* Verdachte personen moeten worden achtervolgd, aangehouden en – zonodig met geweld – worden overmeesterd, waarbij niet te snel gebruik mag worden gemaakt van (vuur)wapens.   De diensten zijn onregelmatig (dag-, avond-, en nachtdiensten) ook tijdens het weekeinde, waarbij geen vaste maaltijden kunnen worden gegarandeerd. De diensten worden te voet, per (motor)rijwiel of per auto verricht en moeten onder alle weersomstandigheden doorgang vinden. Expositie aan gevaarlijke stoffen – ook radioactieve – komt voor. Het dragen van een helm, beschermende kleding en een gasmasker is soms noodzakelijk. 
 
 ####Surveillant van politie
 
-De surveillant is een ambtenaar met een lagere opleiding dan agent. In de meeste regio’s verricht de surveillant dezelfde taken als de agent doch heeft hij hierbij minder bevoegdheden. In een aantal regio’s heeft de surveillant een ander takenpakket dan de agent van politie, zoals specifieke beveiligingsfuncties of de taken van parketpolitie. De surveillant is in de meeste korpsen niet met een vuurwapen bewapend. Bij een aantal korpsen zijn zij met een wapenstok en pepperspray en in sommige regio’s met een vuurwapen uitgerust. Het diploma surveillant is landelijk geldig. Bij doorstroming naar de functie van agent dient de surveillant een aanzienlijk aantal cursusmodulen te volgen. Gezien het takenpakket en de opleiding worden bij de selectie in de meeste regio’s dezelfde eisen gesteld als aan de aspirant van de politie. Surveillanten worden bij benoeming tot agent van politie niet opnieuw gekeurd.  
+De surveillant is een ambtenaar met een lagere opleiding dan agent. In de meeste regio’s verricht de surveillant dezelfde taken als de agent doch heeft hij hierbij minder bevoegdheden. In een aantal regio’s heeft de surveillant een ander takenpakket dan de agent van politie, zoals specifieke beveiligingsfuncties of de taken van parketpolitie. De surveillant is in de meeste korpsen niet met een vuurwapen bewapend. Bij een aantal korpsen zijn zij met een wapenstok en pepperspray en in sommige regio’s met een vuurwapen uitgerust. Het diploma surveillant is landelijk geldig. Bij doorstroming naar de functie van agent dient de surveillant een aanzienlijk aantal cursusmodulen te volgen. Gezien het takenpakket en de opleiding worden bij de selectie in de meeste regio’s dezelfde eisen gesteld als aan de aspirant van de politie. Surveillanten worden bij benoeming tot agent van politie niet opnieuw gekeurd. 
 
 ####Vrijwillig politiepersoneel
 
-Het vrijwillig politiepersoneel doet alleen dienst in bijzondere situaties (grote werkdruk, uitzonderlijke evenementen). Zij kunnen aan dezelfde werkbelasting blootstaan als de surveillant van politie. Voor deze categorie worden dezelfde keuringseisen gehanteerd.  
+Het vrijwillig politiepersoneel doet alleen dienst in bijzondere situaties (grote werkdruk, uitzonderlijke evenementen). Zij kunnen aan dezelfde werkbelasting blootstaan als de surveillant van politie. Voor deze categorie worden dezelfde keuringseisen gehanteerd. 
 
 ####Hoger politiepersoneel
 
@@ -397,7 +397,7 @@ Hoger politiepersoneel heeft in het algemeen fysiek gesproken bij aanvang dezelf
 
 * Horen  
 
-* Verhoogde waakzaamheid en oordeelsvermogen   Ten aanzien van de energetische belastbaarheid is voor het executieve politiepersoneel de Fysieke Vaardigheids Toets (FVT) maatgevend. De ergometrie dient om relevante cardiovasculaire pathologie uit te sluiten en de bepaalde VO2max dient bij het behalen van de Fysieke Vaardigheids Toets als bevestiging. In de uitzonderlijke situatie dat de keuring plaatsvindt zonder voorafgaande Fysieke Vaardigheids Toets of bij het niet gehaald hebben van de minimumnorm tijdens de selectie, geldt de minimale norm voor de VO2max. Deze norm is voor leeftijd en geslacht minus 10% in de bijlage gecorrigeerd.  
+* Verhoogde waakzaamheid en oordeelsvermogen   Ten aanzien van de energetische belastbaarheid is voor het executieve politiepersoneel de Fysieke Vaardigheids Toets (FVT) maatgevend. De ergometrie dient om relevante cardiovasculaire pathologie uit te sluiten en de bepaalde VO2max dient bij het behalen van de Fysieke Vaardigheids Toets als bevestiging. In de uitzonderlijke situatie dat de keuring plaatsvindt zonder voorafgaande Fysieke Vaardigheids Toets of bij het niet gehaald hebben van de minimumnorm tijdens de selectie, geldt de minimale norm voor de VO2max. Deze norm is voor leeftijd en geslacht minus 10% in de bijlage gecorrigeerd. 
 
 ####Onderzoeksmethode en normering
 
@@ -405,11 +405,11 @@ Bijzondere functie-eisen Bijzondere belastbaarheideisen
 
 | --- | --- |
 |:---|:---|
-|  *Klauteren en klimmen*   | – geen beperkingen van de bovenste ledematen  – geen beperkingen van de onderste ledematen  – een belastbaarheid van minimaal 8 MET’s, overeenkomend met een VO2-max van tenminste 28 ml/min/kg <sup>1</sup>  – longfunctie: FEV1 en (F)VC: tenminste de voorspelde waarde minus 1,6 × standaarddeviatie (FEV1 en (F)VC ≥80% en : FEV1/FVC (Tiffenau) >70%) ; zijn FEV1 en (F)VC lager, dan is aanvullend longfunctie-onderzoek nodig  |
+|  *Klauteren en klimmen*   | – geen beperkingen van de bovenste ledematen  – geen beperkingen van de onderste ledematen  – een belastbaarheid van minimaal 8 MET’s, overeenkomend met een VO2-max van tenminste 28 ml/min/kg<sup>1</sup>   – longfunctie: FEV1 en (F)VC: tenminste de voorspelde waarde minus 1,6 × standaarddeviatie (FEV1 en (F)VC ≥80% en : FEV1/FVC (Tiffenau) >70%) ; zijn FEV1 en (F)VC lager, dan is aanvullend longfunctie-onderzoek nodig  |
 | --- | --- |
 | --- | Geen duidelijke cardiale beperkingen zoals:  – decompensatio cordis vanaf NYHA-klasse 2 ( = probleemloos in rust maar normale fysieke activiteit resulteert in vermoeidheid, hartkloppingen, dyspnoe of angineuze pijn)  – angina pectoris vanaf NYHA-klasse 3 ( = klachten bij normale dagelijkse activiteiten)  – ritmestoornissen  |
 | --- | --- |
-| --- | Geen bewustzijnsdalingen of evenwichtsstoornissen. De volgende specifieke eisen zijn in dit opzicht van belang:  – bij type I diabetes: een goede instelling blijkend uit de HbA1c-waarde, zelfcontrole, ziekte-inzicht, hypo-herkenning, de vaardigheid om de insulinedosering aan te passen  – bij epilepsie: minimaal twee jaar aanvalsvrij  – geen gebruik van psychofarmaca die het bewustzijn kunnen beïnvloeden  – geen syndroom of ziekte van Menière  – visus met eventuele correctie, van beide ogen tezamen ≥ 0,8 D <sup>2</sup>  |
+| --- | Geen bewustzijnsdalingen of evenwichtsstoornissen. De volgende specifieke eisen zijn in dit opzicht van belang:  – bij type I diabetes: een goede instelling blijkend uit de HbA1c-waarde, zelfcontrole, ziekte-inzicht, hypo-herkenning, de vaardigheid om de insulinedosering aan te passen  – bij epilepsie: minimaal twee jaar aanvalsvrij  – geen gebruik van psychofarmaca die het bewustzijn kunnen beïnvloeden  – geen syndroom of ziekte van Menière  – visus met eventuele correctie, van beide ogen tezamen ≥ 0,8 D<sup>2</sup>   |
 | --- | --- |
 |  *Energetische belasting*   | – geen hoogtevrees in de anamnese  – een goede functie van het cardiorespiratoir systeem (afhankelijk van de daadwerkelijk vereiste belasting betekent dit meestal een belastbaarheid van minimaal 10 MET ofwel een VO2-max van minimaal 35 ml/kg/min)*  – afwezigheid van aandoeningen die deze functie kunnen verminderen, zoals hartfalen, sommige hartritmestoornissen, astma en COPD, overgewicht  |
 | --- | --- |
@@ -425,5 +425,5 @@ Bijzondere functie-eisen Bijzondere belastbaarheideisen
 | --- | --- |
 |  *Fysieke piekbelasting houdings- en bewegingsapparaat*   | – geen beperkingen van de bovenste ledematen  – geen beperkingen van de onderste ledematen  – gedurende de laatste vijf jaar geen langdurige rugklachten (langer dan drie maanden) of frequent voorkomende rugklachten  |
 
-<sup>1</sup> Bij overlappende belastbaarheideisen van de diverse functie-eisen belastbaarheideisen moet de zwaarste eis als beoordelingscriterium genomen worden. <sup>2</sup> Bij overlappende belastbaarheideisen van de diverse functie-eisen belastbaarheideisen moet de zwaarste eis als beoordelingscriterium genomen worden.  
+<sup>1</sup> Bij overlappende belastbaarheideisen van de diverse functie-eisen belastbaarheideisen moet de zwaarste eis als beoordelingscriterium genomen worden.<sup>2</sup> Bij overlappende belastbaarheideisen van de diverse functie-eisen belastbaarheideisen moet de zwaarste eis als beoordelingscriterium genomen worden.
 

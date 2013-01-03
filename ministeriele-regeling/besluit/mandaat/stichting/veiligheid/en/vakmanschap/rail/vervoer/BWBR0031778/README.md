@@ -14,17 +14,17 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-*de minister:* de minister van Infrastructuur en Milieu;  
+* de minister:* de minister van Infrastructuur en Milieu;  
 
-*de Stichting:* de Stichting Veiligheid en Vakmanschap Rail Vervoer;  
+* de Stichting:* de Stichting Veiligheid en Vakmanschap Rail Vervoer;  
 
-*mandaat:* de bevoegdheid om in naam van de minister besluiten te nemen;  
+* mandaat:* de bevoegdheid om in naam van de minister besluiten te nemen;  
 
-*volmacht:* de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten;  
+* volmacht:* de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten;  
 
-*machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die een publiekrechtelijke noch een privaatrechtelijke rechtshandeling zijn;  
+* machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die een publiekrechtelijke noch een privaatrechtelijke rechtshandeling zijn;  
 
-*het bestuur:* het bestuur van de Stichting.    
+* het bestuur:* het bestuur van de Stichting.   
 
 ### Artikel  2  
 
@@ -35,7 +35,7 @@ a. de afgifte van beoordelingen als bedoeld in de [artikelen 50, eerste en tweed
 b. de vaststelling van een examenprogramma als bedoeld in [artikel 6, eerste en tweede lid, van het Besluit spoorwegpersoneel 2011](../../../../../../../../../../AMvB/besluit/spoorwegpersoneel/2011/BWBR0030006/README.md);  
 
 c. de erkenning van examinatoren als bedoeld in [artikel 7, vierde lid, van het Besluit spoorwegpersoneel 2011](../../../../../../../../../../AMvB/besluit/spoorwegpersoneel/2011/BWBR0030006/README.md).     
-2.  Het bestuur kan ten aanzien van de aan hem ingevolge het eerste lid verleende bevoegdheden ondermandaat verlenen aan één of meerdere van de leden van het bestuur of aan één of meerdere van de onder het bestuur ressorterende functionarissen.   
+2.  Het bestuur kan ten aanzien van de aan hem ingevolge het eerste lid verleende bevoegdheden ondermandaat verlenen aan één of meerdere van de leden van het bestuur of aan één of meerdere van de onder het bestuur ressorterende functionarissen.  
 
 ### Artikel  3  
 
@@ -46,29 +46,29 @@ a. het ontwikkelen van examenprogramma’s;
 b. het voorzien in en uitvoering geven aan een door de minister goed te keuren examenreglement en het behandelen en nemen van beslissingen krachtens het goedgekeurde examenreglement, waaronder omtrent ingediende verzoeken om herziening en ingediende klachten;  
 
 c. het houden van een register van erkende examinatoren.     
-2.  Het bestuur kan de in het eerste lid verleende volmacht en machtiging doorgeven aan één of meerdere van de leden van het bestuur of aan één of meerdere van de onder het bestuur ressorterende functionarissen.   
+2.  Het bestuur kan de in het eerste lid verleende volmacht en machtiging doorgeven aan één of meerdere van de leden van het bestuur of aan één of meerdere van de onder het bestuur ressorterende functionarissen.  
 
 ### Artikel  4  
 
-Van de verlening van ondermandaat en van het doorgeven van de volmacht en machtiging doet het bestuur schriftelijk mededeling aan de minister.  
+Van de verlening van ondermandaat en van het doorgeven van de volmacht en machtiging doet het bestuur schriftelijk mededeling aan de minister. 
 
 ### Artikel  5  
 
-Het bestuur voert bij de uitoefening van de aan hem verleende bevoegdheid een ordentelijke en voor de minister transparante administratie.  
+Het bestuur voert bij de uitoefening van de aan hem verleende bevoegdheid een ordentelijke en voor de minister transparante administratie. 
 
 ### Artikel  6  
 
-Een besluit als bedoeld in artikel 2 vermeldt aan het slot: ‘De Minister van Infrastructuur en Milieu, namens deze:’ gevolgd door de functieaanduiding, de handtekening en de naam.  
+Een besluit als bedoeld in artikel 2 vermeldt aan het slot: ‘De Minister van Infrastructuur en Milieu, namens deze:’ gevolgd door de functieaanduiding, de handtekening en de naam. 
 
 ### Artikel  7  
 
-Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 juli 2012, met uitzondering van de artikelen 2, eerste lid, onderdeel c, en 3, eerste lid, onderdeel c, van dit besluit, die in werking treden met ingang van de datum van inwerkingtreding van [artikel 7, vierde lid, van het Besluit spoorwegpersoneel 2011](../../../../../../../../../../AMvB/besluit/spoorwegpersoneel/2011/BWBR0030006/README.md).  
+Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 juli 2012, met uitzondering van de artikelen 2, eerste lid, onderdeel c, en 3, eerste lid, onderdeel c, van dit besluit, die in werking treden met ingang van de datum van inwerkingtreding van [artikel 7, vierde lid, van het Besluit spoorwegpersoneel 2011](../../../../../../../../../../AMvB/besluit/spoorwegpersoneel/2011/BWBR0030006/README.md). 
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Besluit mandaat Stichting Veiligheid en Vakmanschap Rail Vervoer.  
+Dit besluit wordt aangehaald als: Besluit mandaat Stichting Veiligheid en Vakmanschap Rail Vervoer. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Infrastructuur en Milieu,
-M.H.Schultz van Haegen-Maas Geesteranus   
+Minister van Infrastructuur en Milieu, 
+M.H. Schultz van Haegen-Maas Geesteranus     

@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet op het financieel toezicht.   
+Wijzigt de Wet op het financieel toezicht. 
 
 ### Artikel  II  
 
-In de artikelen III tot en met XVIII wordt verstaan onder «de wet»: de [Wet op het financieel toezicht](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  
+In de artikelen III tot en met XVIII wordt verstaan onder «de wet»: de [Wet op het financieel toezicht](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). 
 
 ### Artikel  III  
 
@@ -48,7 +48,7 @@ k. [artikel 3:70 van de wet](../../../../../../../../../../../../wet/wet/op/het/
 a. het intrekken van de vergunning uitsluitend vanwege het feit dat de herverzekeraar niet voldoet aan [artikel 3:53, eerste, tweede en vierde lid](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 3:57, eerste, derde en vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
 b. het geven van een aanwijzing als bedoeld in [artikel 1:75 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tot overdracht van de gehele portefeuille uitsluitend vanwege het feit dat de herverzekeraar niet voldoet aan [artikel 3:53, eerste, tweede en vierde lid](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 3:57, eerste, derde en vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).     
-4.  De herverzekeraar die overeenkomstig het eerste lid een vergunning heeft, wordt als aanvrager ingeschreven in het register, bedoeld in [artikel 1:107 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). De Nederlandsche Bank haalt deze inschrijving door zodra zij onherroepelijk op de aanvraag heeft beslist.   
+4.  De herverzekeraar die overeenkomstig het eerste lid een vergunning heeft, wordt als aanvrager ingeschreven in het register, bedoeld in [artikel 1:107 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). De Nederlandsche Bank haalt deze inschrijving door zodra zij onherroepelijk op de aanvraag heeft beslist.  
 
 ### Artikel  IV  
 
@@ -61,7 +61,7 @@ b. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wor
 
 c. bescheiden waaruit zijn financiële positie en zijn juridische groepsstructuur blijken.     
 3.  Indien het een gekwalificeerde deelneming betreft als bedoeld in [artikel 3:97, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zendt de Nederlandsche Bank de gegevens en bescheiden, vergezeld van haar advies, door aan Onze Minister.   
-4.  Tot 10 december 2008 kan de Nederlandsche Bank de ingevolge het eerste lid verkregen verklaring van geen bezwaar niet intrekken.   
+4.  Tot 10 december 2008 kan de Nederlandsche Bank de ingevolge het eerste lid verkregen verklaring van geen bezwaar niet intrekken.  
 
 ### Artikel  V  
 
@@ -118,7 +118,7 @@ b. een kopie van een geldig identiteitsbewijs;
 c. gegevens met betrekking tot de antecedenten, bedoeld in de [bijlage bij het Besluit Markttoegang financiële ondernemingen Wft](../../../../../../../../../../../../AMvB/besluit/markttoegang/financiële/ondernemingen/wft/BWBR0020413/README.md); en  
 
 d. een opgave van referenten.     
-4.  Het eerste lid, aanhef en onderdelen h en m, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) door een toezichthouder reeds is vastgesteld.   
+4.  Het eerste lid, aanhef en onderdelen h en m, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) door een toezichthouder reeds is vastgesteld.  
 
 ### Artikel  VI  
 
@@ -138,7 +138,7 @@ f. een raming voor de eerste drie boekjaren van de premies en van de schaden;
 
 g. een raming voor de eerste drie boekjaren van de liquiditeitspositie; en  
 
-h. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).    
+h. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
 
 ### Artikel  VII  
 
@@ -167,7 +167,7 @@ i. [artikel 3:70 van de wet](../../../../../../../../../../../../wet/wet/op/het/
 a. het intrekken van de vergunning uitsluitend vanwege het feit dat de herverzekeraar niet voldoet aan [artikel 3:53, eerste, tweede en vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); en  
 
 b. het geven van een aanwijzing als bedoeld in [artikel 1:75 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tot overdracht van de gehele portefeuille uitsluitend vanwege het feit dat de herverzekeraar niet voldoet aan [artikel 3:53, eerste, tweede en vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).     
-4.  De herverzekeraar die overeenkomstig het eerste lid een vergunning heeft, wordt als aanvrager ingeschreven in het register, bedoeld in [artikel 1:107 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). De Nederlandsche Bank haalt deze inschrijving door zodra zij onherroepelijk op de aanvraag heeft beslist.   
+4.  De herverzekeraar die overeenkomstig het eerste lid een vergunning heeft, wordt als aanvrager ingeschreven in het register, bedoeld in [artikel 1:107 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). De Nederlandsche Bank haalt deze inschrijving door zodra zij onherroepelijk op de aanvraag heeft beslist.  
 
 ### Artikel  VIII  
 
@@ -224,7 +224,7 @@ b. een kopie van een geldig identiteitsbewijs;
 c. gegevens met betrekking tot de antecedenten, bedoeld in de [bijlage bij het Besluit Markttoegang financiële ondernemingen Wft](../../../../../../../../../../../../AMvB/besluit/markttoegang/financiële/ondernemingen/wft/BWBR0020413/README.md); en  
 
 d. een opgave van referenten.     
-4.  Het eerste lid, aanhef en onderdelen h en m, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) door een toezichthouder reeds is vastgesteld.   
+4.  Het eerste lid, aanhef en onderdelen h en m, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) door een toezichthouder reeds is vastgesteld.  
 
 ### Artikel  IX  
 
@@ -244,7 +244,7 @@ f. een raming voor de eerste drie boekjaren van de premies en van de schaden;
 
 g. een raming voor de eerste drie boekjaren van de liquiditeitspositie; en  
 
-h. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).    
+h. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
 
 ### Artikel  X  
 
@@ -275,7 +275,7 @@ j. [artikel 3:70 van de wet](../../../../../../../../../../../../wet/wet/op/het/
 a. het intrekken van de vergunning uitsluitend vanwege het feit dat de entiteit voor risico-acceptatie niet voldoet aan [artikel 3:53, eerste, tweede en vierde lid](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 3:57, eerste, derde en vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
 b. het geven van een aanwijzing als bedoeld in [artikel 1:75 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tot overdracht van de gehele portefeuille uitsluitend vanwege het feit dat de entiteit voor risico-acceptatie niet voldoet aan [artikel 3:53, eerste, tweede en vierde lid](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 3:57, eerste, derde en vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).     
-4.  De entiteit voor risico-acceptatie die overeenkomstig het eerste lid een vergunning heeft, wordt als aanvrager ingeschreven in het register, bedoeld in [artikel 1:107 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). De Nederlandsche Bank haalt deze inschrijving door zodra zij onherroepelijk op de aanvraag heeft beslist.   
+4.  De entiteit voor risico-acceptatie die overeenkomstig het eerste lid een vergunning heeft, wordt als aanvrager ingeschreven in het register, bedoeld in [artikel 1:107 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). De Nederlandsche Bank haalt deze inschrijving door zodra zij onherroepelijk op de aanvraag heeft beslist.  
 
 ### Artikel  XI  
 
@@ -288,7 +288,7 @@ b. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wor
 
 c. bescheiden waaruit zijn financiële positie en zijn juridische groepsstructuur blijken.     
 3.  Indien het een gekwalificeerde deelneming betreft als bedoeld in [artikel 3:97, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zendt de Nederlandsche Bank de gegevens en bescheiden, vergezeld van haar advies, door aan Onze Minister.   
-4.  Tot 10 december 2008 kan de Nederlandsche Bank de ingevolge het eerste lid verkregen verklaring van geen bezwaar niet intrekken.   
+4.  Tot 10 december 2008 kan de Nederlandsche Bank de ingevolge het eerste lid verkregen verklaring van geen bezwaar niet intrekken.  
 
 ### Artikel  XII  
 
@@ -345,7 +345,7 @@ b. een kopie van een geldig identiteitsbewijs;
 c. gegevens met betrekking tot de antecedenten, bedoeld in de [bijlage bij het Besluit Markttoegang financiële ondernemingen Wft](../../../../../../../../../../../../AMvB/besluit/markttoegang/financiële/ondernemingen/wft/BWBR0020413/README.md); en  
 
 d. een opgave van referenten.     
-4.  Het eerste lid, aanhef en onderdelen h en m, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) door een toezichthouder reeds is vastgesteld.   
+4.  Het eerste lid, aanhef en onderdelen h en m, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) door een toezichthouder reeds is vastgesteld.  
 
 ### Artikel  XIII  
 
@@ -365,7 +365,7 @@ f. een raming voor de eerste drie boekjaren van de premies en van de schaden;
 
 g. een raming voor de eerste drie boekjaren van de liquiditeitspositie; en  
 
-h. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).    
+h. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
 
 ### Artikel  XIV  
 
@@ -392,7 +392,7 @@ h. [artikel 3:70](../../../../../../../../../../../../wet/wet/op/het/financieel/
 a. het intrekken van de vergunning uitsluitend vanwege het feit dat de entiteit voor risico-acceptatie niet voldoet aan [artikel 3:53, eerste, tweede en vierde lid](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 3:57, eerste, derde en vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); en  
 
 b. het geven van een aanwijzing als bedoeld in [artikel 1:75 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tot overdracht van de gehele portefeuille uitsluitend vanwege het feit dat de entiteit voor risico-acceptatie niet voldoet aan [artikel 3:53, eerste, tweede en vierde lid](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 3:57, eerste, derde en vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).     
-4.  De entiteit voor risico-acceptatie die overeenkomstig het eerste lid een vergunning heeft, wordt als aanvrager ingeschreven in het register, bedoeld in [artikel 1:107 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). De Nederlandsche Bank haalt deze inschrijving door zodra zij onherroepelijk op de aanvraag heeft beslist.   
+4.  De entiteit voor risico-acceptatie die overeenkomstig het eerste lid een vergunning heeft, wordt als aanvrager ingeschreven in het register, bedoeld in [artikel 1:107 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). De Nederlandsche Bank haalt deze inschrijving door zodra zij onherroepelijk op de aanvraag heeft beslist.  
 
 ### Artikel  XV  
 
@@ -449,7 +449,7 @@ b. een kopie van een geldig identiteitsbewijs;
 c. gegevens met betrekking tot de antecedenten, bedoeld in de [bijlage bij het Besluit Markttoegang financiële ondernemingen Wft](../../../../../../../../../../../../AMvB/besluit/markttoegang/financiële/ondernemingen/wft/BWBR0020413/README.md); en  
 
 d. een opgave van referenten.     
-4.  Het eerste lid, aanhef en onderdelen h en m, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) door een toezichthouder reeds is vastgesteld.   
+4.  Het eerste lid, aanhef en onderdelen h en m, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) door een toezichthouder reeds is vastgesteld.  
 
 ### Artikel  XVI  
 
@@ -467,29 +467,29 @@ e. een raming voor de eerste drie boekjaren van de premies en van de schaden;
 
 f. een raming voor de eerste drie boekjaren van de liquiditeitspositie; en  
 
-g. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).    
+g. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
 
 ### Artikel  XVII  
 
-Wanneer op grond van deze wet de betrouwbaarheid van een persoon is vastgesteld, wordt die vaststelling voor de toepassing van de [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschouwd als een vaststelling van de betrouwbaarheid ingevolge de [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  
+Wanneer op grond van deze wet de betrouwbaarheid van een persoon is vastgesteld, wordt die vaststelling voor de toepassing van de [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschouwd als een vaststelling van de betrouwbaarheid ingevolge de [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). 
 
 ### Artikel  XVIII  
 
-De [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met uitzondering van het [Algemeen Deel](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), de [hoofdstukken 5.1](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [5.3](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5.5](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [afdeling 5.4.2](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), is niet van toepassing op herverzekeraars met zetel in Nederland of herverzekeraars met zetel in een niet-aangewezen staat die op het tijdstip van inwerkingtreding van deze wet niet langer herverzekeringen sluiten en uitsluitend hun bestaande portefeuille beheren met het oog op de beëindiging van de uitoefening van het bedrijf van herverzekeraar.  
+De [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met uitzondering van het [Algemeen Deel](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), de [hoofdstukken 5.1](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [5.3](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5.5](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [afdeling 5.4.2](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), is niet van toepassing op herverzekeraars met zetel in Nederland of herverzekeraars met zetel in een niet-aangewezen staat die op het tijdstip van inwerkingtreding van deze wet niet langer herverzekeringen sluiten en uitsluitend hun bestaande portefeuille beheren met het oog op de beëindiging van de uitoefening van het bedrijf van herverzekeraar. 
 
 ### Artikel  XVIIIa  
 
-Wijzigt het Burgerlijk Wetboek Boek 2.   
+Wijzigt het Burgerlijk Wetboek Boek 2. 
 
 ### Artikel  XIX  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  XX  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te 
 
 ’s-Gravenhage 
 3 juli 2008  
@@ -500,5 +500,5 @@ W. J. Bos
 
 de *zesentwintigste* augustus 2008 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    

@@ -8,34 +8,34 @@ Besluit:
 
 ### Artikel  1  
 
-De ambtenaren van de afdelingen regulier en extra beveiligd vervoer van de Unit Vervoer van de Dienst Vervoer en Ondersteuning van het Ministerie van Justitie worden aangewezen voor het vervoer van rechtens van hun vrijheid beroofde personen.  
+De ambtenaren van de afdelingen regulier en extra beveiligd vervoer van de Unit Vervoer van de Dienst Vervoer en Ondersteuning van het Ministerie van Justitie worden aangewezen voor het vervoer van rechtens van hun vrijheid beroofde personen. 
 
 ### Artikel  1a  
 
-Dit besluit berust op [artikel 9, zesde lid, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
+Dit besluit berust op [artikel 9, zesde lid, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md). 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag waarop de [Penitentiaire beginselenwet](../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) in werking treedt.  
+Dit besluit treedt in werking met ingang van de dag waarop de [Penitentiaire beginselenwet](../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) in werking treedt. 
 
 Den Haag 
 28 september 1998    
 
 De 
-Minister van Justitie, 
+Minister van Justitie,  
 
 namens deze, 
 
 het 
 wnd. hoofd directie Opsporingsbeleid, 
 
-A.M. van der Meer.     
+A.M. van der Meer.    
 
 ### Bijlage  
 
 ####Tabel 1
 
-*Wettelijke grondslag van het gebruik van geweld en de veiligheidsfouillering*  
+*Wettelijke grondslag van het gebruik van geweld en de veiligheidsfouillering* 
 
 | --- | --- | --- |
 |:---|:---|:---|

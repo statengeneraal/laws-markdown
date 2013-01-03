@@ -10,14 +10,14 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *de minister:* de Minister van Economische Zaken;  
+a.  *de minister:* de Minister van Economische Zaken;  
 
-b. *regiekamer:* de Regiekamer van het Programma ‘Naar een rijke Waddenzee’.    
+b.  *regiekamer:* de Regiekamer van het Programma ‘Naar een rijke Waddenzee’.   
 
 ### Artikel  2  
 
 1.  Er is een Regiekamer van het Programma ‘Naar een rijke Waddenzee’.   
-2.  De regiekamer ziet toe op de uitvoering van het Programma ‘Naar een rijke Waddenzee’ (Kamerstukken II 2009/2010, 29 675, nr. 92) en geeft sturing aan de uitvoering, zoals in het programma omschreven.   
+2.  De regiekamer ziet toe op de uitvoering van het Programma ‘Naar een rijke Waddenzee’ (Kamerstukken II 2009/2010, 29 675, nr. 92) en geeft sturing aan de uitvoering, zoals in het programma omschreven.  
 
 ### Artikel  3  
 
@@ -33,14 +33,14 @@ c. drie regionale vertegenwoordigers, zijnde een vertegenwoordiger van de Wadden
 d. drie vertegenwoordigers van de natuurorganisaties, verenigd in de Coalitie Wadden Natuurlijk;  
 
 e. drie vertegenwoordigers van de gebruikers van het Wad, te weten de sector recreatie, de sector visserij en de sector economie;     
-3.  De voorzitter en de andere leden worden door de minister benoemd. De voorzitter en de andere leden kunnen door de minister worden geschorst en ontslagen.   
+3.  De voorzitter en de andere leden worden door de minister benoemd. De voorzitter en de andere leden kunnen door de minister worden geschorst en ontslagen.  
 
 ### Artikel  4  
 
 1.  De regiekamer stelt haar eigen werkwijze schriftelijk vast, binnen de richtlijnen van het ‘Afsprakenkader Programma naar een rijke Waddenzee’.   
 2.  De minister voorziet in het secretariaat van de regiekamer.   
 3.  Het beheer van de bescheiden betreffende de werkzaamheden van de regiekamer geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken. De bescheiden worden na beëindiging van de werkzaamheden van de regiekamer bewaard in het archief van dat ministerie.   
-4.  De regiekamer verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.   
+4.  De regiekamer verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.  
 
 ### Artikel  5  
 
@@ -66,28 +66,28 @@ i. de heer D. Van Tuinen, te Workum;
 
 j. de heer J. Verhulst, te Utrecht;  
 
-k. de heer F. Wouters, te Austerlitz.    
+k. de heer F. Wouters, te Austerlitz.   
 
 ### Artikel  6  
 
-Aan de voorzitter van de regiekamer wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en de arbeidsduurfactor op 0,114.  
+Aan de voorzitter van de regiekamer wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en de arbeidsduurfactor op 0,114. 
 
 ### Artikel  7  
 
-Wijzigt het Instellingsbesluit kennisgroepen en commissies LNV.   
+Wijzigt het Instellingsbesluit kennisgroepen en commissies LNV. 
 
 ### Artikel  8  
 
-Dit besluit treedt in werking met ingang van 1 januari 2013.  
+Dit besluit treedt in werking met ingang van 1 januari 2013. 
 
 ### Artikel  9  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Regiekamer van het Programma ‘Naar een rijke Waddenzee’.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Regiekamer van het Programma ‘Naar een rijke Waddenzee’. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.   
 
 ’s- Gravenhage 
 12 december 2012   
 
 De 
-Minister van Economische Zaken,
-H.G.J.Kamp   
+Minister van Economische Zaken, 
+H.G.J. Kamp     

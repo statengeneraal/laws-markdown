@@ -8,19 +8,19 @@ Besluit:
 
 ### Artikel  1  
 
-De functies bij de politie die krachtens [artikel 6, tweede lid van het Besluit bezoldiging politie](../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) zijn vastgesteld en die onderdeel uitmaken van de operationele sterkte zijn opgenomen in de bij deze regeling behorende bijlage.  
+De functies bij de politie die krachtens [artikel 6, tweede lid van het Besluit bezoldiging politie](../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) zijn vastgesteld en die onderdeel uitmaken van de operationele sterkte zijn opgenomen in de bij deze regeling behorende bijlage. 
 
 ### Artikel  2  
 
-Deze regeling treedt in werking op 1 januari 2013.  
+Deze regeling treedt in werking op 1 januari 2013. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling operationele functies politie.  
+Deze regeling wordt aangehaald als: Regeling operationele functies politie. 
 
 De 
-Minister van Veiligheid en Justitie,
-I.W.Opstelten  
+Minister van Veiligheid en Justitie, 
+I.W. Opstelten    
 
 ### Bijlage  
 
@@ -28,7 +28,7 @@ Functies die deel uitmaken van de operationele sterkte
 
 | Categorie  | Functie  |
 |:---|:---|
-| Leiding <sup>1</sup>  | Korpschef  |
+| Leiding<sup>1</sup>   | Korpschef  |
 | --- | Directeur  |
 | --- | Sectorhoofd  |
 | --- | Teamchef C  |
@@ -85,6 +85,6 @@ Functies die deel uitmaken van de operationele sterkte
 | --- | Operationeel Specialist D 1+3  |
 | --- | Operationeel Specialist C 1+3  |
 | --- | Operationeel Specialist B 1+3  |
-| --- | Operationeel Specialist A  |
+| --- | Operationeel Specialist A   |
 
-<sup>1</sup> De functie uit de kolom leiding wordt als operationeel gezien indien de functie ingevuld wordt binnen de uitvoering. Een functie uit de kolom leiding wordt als niet-operationeel gezien als de functie ingevuld wordt binnen de ondersteuning. 
+<sup>1</sup>De functie uit de kolom leiding wordt als operationeel gezien indien de functie ingevuld wordt binnen de uitvoering. Een functie uit de kolom leiding wordt als niet-operationeel gezien als de functie ingevuld wordt binnen de ondersteuning.

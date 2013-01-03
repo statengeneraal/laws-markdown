@@ -58,7 +58,7 @@ D Managers, adviseurs, werving & selectie functionarissen, senioren van afdeling
 
 * is tezamen met een procuratiehouder A, B of C bevoegd de AFM te binden betreffende het aangaan van verplichtingen namens de AFM tot een maximumbedrag van € 50.000.  
 
-* is tezamen met een procuratiehouder D bevoegd de AFM te binden betreffende het aangaan van verplichtingen namens de AFM tot een maximumbedrag van € 20.000;   De omvang van de bevoegdheden categorie 1 en 2 ziet er schematisch weergegeven als volgt uit:  
+* is tezamen met een procuratiehouder D bevoegd de AFM te binden betreffende het aangaan van verplichtingen namens de AFM tot een maximumbedrag van € 20.000;    De omvang van de bevoegdheden categorie 1 en 2 ziet er schematisch weergegeven als volgt uit:  
 
 |--- | Alleen  | Samen met  | Procuratiehouder A  | Procuratiehouder B  | Procuratiehouder C  | Procuratiehouder D  |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -73,7 +73,7 @@ D Managers, adviseurs, werving & selectie functionarissen, senioren van afdeling
 
 * Met betrekking tot specifieke inkopen kunnen medewerkers van een afdeling die met inkoopbevoegdheid is belast, door een procuratiehouder B of C bevoegd worden gemaakt om bestellingen te plaatsen bij een leverancier (al dan niet door middel van een elektronisch bestelsysteem) mits met deze leverancier een (raam-)overeenkomst is afgesloten onder welke voorwaarden deze inkopen worden geplaatst.  
 
-* Het Hoofd van een afdeling (procuratiehouder C) kan een medewerker van die afdeling machtigen mondeling of schriftelijk een verplichting aan te gaan namens het Hoofd, zulks tot een maximumbedrag van € 1.000,– .       
+* Het Hoofd van een afdeling (procuratiehouder C) kan een medewerker van die afdeling machtigen mondeling of schriftelijk een verplichting aan te gaan namens het Hoofd, zulks tot een maximumbedrag van € 1.000,– .        
 
 Amsterdam 
 17 december 2012   
@@ -87,4 +87,4 @@ Bestuurder
 
 ####Bijlage
 
-Gepubliceerd op www.afm.nl.  
+Gepubliceerd op www.afm.nl.

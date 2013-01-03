@@ -8,7 +8,7 @@ Besluit: De Minister van Binnenlandse Zaken, Gelet op [artikel 13 van het Beslui
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. het handboek:  het handboek politielogo en huisstijl, dat als bijlage bij deze regeling behoort;    b. het politielogo:  het politielogo, als omschreven en afgebeeld in hoofdstuk 2 van het handboek.     
+In deze regeling wordt verstaan onder: a. het handboek:   het handboek politielogo en huisstijl, dat als bijlage bij deze regeling behoort;  b. het politielogo:   het politielogo, als omschreven en afgebeeld in hoofdstuk 2 van het handboek.    
 
 ### Artikel  2  
 
@@ -18,15 +18,15 @@ Het politielogo wordt door de politie slechts gebruikt overeenkomstig de beschri
 
 1.  Het politielogo wordt door de politie in ieder geval aangebracht op: 
 
-a. de gebouwen van politie;  
+a.  de gebouwen van politie; 
 
-b. de voertuigen van politie;  
+b.  de voertuigen van politie; 
 
-c. de vaartuigen en luchtvaartuigen van de politie;  
+c.  de vaartuigen en luchtvaartuigen van de politie; 
 
-d. het correspondentie-papier dat door de politie wordt gebruikt, en  
+d.  het correspondentie-papier dat door de politie wordt gebruikt, en 
 
-e. de uniform-kleding van de politie.     
+e.  de uniform-kleding van de politie.    
 2.  Het politielogo wordt op de in het eerste lid genoemde zaken, aangebracht op de wijze, zoals is omschreven en afgebeeld in het handboek.   
 
 ### Artikel  4  
@@ -47,7 +47,7 @@ Deze regeling berust op [artikel 30, tweede lid, van de Politiewet 2012](../../.
 
 ### Artikel  8  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage, die bij de bibliotheek van het Ministerie van Binnenlandse Zaken ter inzage wordt gelegd.   
 
 ’s-Gravenhage 
@@ -55,8 +55,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 De 
 Minister van Binnenlandse Zaken, 
-H.F.Dijkstal   
+H.F. Dijkstal     
 
-### Bijlage  
+###Bijlage 
 
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken.  
+Ligt ter inzage bij het Ministerie van Binnenlandse Zaken. 

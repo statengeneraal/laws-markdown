@@ -10,7 +10,7 @@ Besluit:
 
 ####Doel
 
-Deze regeling is bedoeld om instellingen te stimuleren beeldende kunst en cultureel erfgoed op een inspirerende manier aan de burger te tonen. Dit gebeurt in de vorm van bijdragen voor programma’s van instellingen die op een aansprekende manier vorm en inhoud geven aan relevante ontwikkelingen op het gebied van de hedendaagse beeldende kunst en cultureel erfgoed, al dan niet in samenwerking met andere instellingen of kunstenaars.  
+Deze regeling is bedoeld om instellingen te stimuleren beeldende kunst en cultureel erfgoed op een inspirerende manier aan de burger te tonen. Dit gebeurt in de vorm van bijdragen voor programma’s van instellingen die op een aansprekende manier vorm en inhoud geven aan relevante ontwikkelingen op het gebied van de hedendaagse beeldende kunst en cultureel erfgoed, al dan niet in samenwerking met andere instellingen of kunstenaars. 
 
 ### Artikel  2  
 
@@ -24,13 +24,13 @@ Deze regeling is bedoeld om instellingen te stimuleren beeldende kunst en cultur
 6.  Indien de aanvraag gezamenlijk met een kunstenaar wordt ingediend dient de financiële bijdrage die de aanvrager levert in een aanvaardbare verhouding te staan tot de bijdrage van het fonds.   
 7.  Geen bijdrage wordt toegekend voor bouwkundige voorzieningen, voor behoud van monumenten, voor opgraving van archeologische objecten die een overwegend toeristisch karakter hebben en voor documentaires die geen deel uitmaken van een meeromvattende activiteit.   
 8.  In de toelichting bij het aanvraagformulier is het minimale bedrag van de bijdrage en de hoogte van de eigen bijdrage genoemd.   
-9.  Een bijdrage in de kosten van vaste lasten kan uitsluitend worden verleend aan presentatie-instellingen.   
+9.  Een bijdrage in de kosten van vaste lasten kan uitsluitend worden verleend aan presentatie-instellingen.  
 
 ### Artikel  3  
 
 ####Aanvraag
 
-Naast de bepalingen vastgesteld in het Algemeen reglement, in het aanvraagformulier en in de toelichting daarop, dient de aanvraag voor een meerjarenprogrammering vergezeld te gaan van een plan, een presentatieplan een motivering, een begroting met offertes en, indien van toepassing, toezeggingen van uitnodigende en/of deelnemende partijen.  
+Naast de bepalingen vastgesteld in het Algemeen reglement, in het aanvraagformulier en in de toelichting daarop, dient de aanvraag voor een meerjarenprogrammering vergezeld te gaan van een plan, een presentatieplan een motivering, een begroting met offertes en, indien van toepassing, toezeggingen van uitnodigende en/of deelnemende partijen. 
 
 ### Artikel  4  
 
@@ -49,19 +49,19 @@ Naast de bepalingen vastgesteld in het Algemeen reglement, in het aanvraagformul
 3.  Indien het bevoegde adviesorgaan de in het eerste lid en voorzover van toepassing het in het tweede lid van dit artikel bedoelde aspecten niet van voldoende belang acht, komt het tot een negatief advies over de aanvraag.   
 4.  Indien het bevoegde adviesorgaan de in het in het eerste lid en voorzover van toepassing het in het tweede lid van dit artikel bedoelde aspecten wel van voldoende belang acht, komt het tot een positief advies over de aanvraag.   
 5.  Een positief advies kan vergezeld gaan van een aanbeveling over de hoogte van de toe te kennen bijdrage alsmede de periode waarover de bijdrage verstrekt wordt.   
-6.  Het bestuur kan het bevoegd adviesorgaan verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel als bedoeld in het eerste lid . Bij deze prioritering mag ook de regionale spreiding worden betrokken. Het adviesorgaan onderbouwt zijn keuze.   
+6.  Het bestuur kan het bevoegd adviesorgaan verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel als bedoeld in het eerste lid . Bij deze prioritering mag ook de regionale spreiding worden betrokken. Het adviesorgaan onderbouwt zijn keuze.  
 
 ### Artikel  5  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2013. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2012, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2013.  
+Deze regeling treedt in werking met ingang van 1 januari 2013. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2012, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2013. 
 
 ### Artikel  6  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Deelregeling Meerjarenprogramma’s Presentatie en Erfgoedinstellingen  
+Deze regeling wordt aangehaald als: Deelregeling Meerjarenprogramma’s Presentatie en Erfgoedinstellingen 
 Deze regeling zal in de Staatscourant worden geplaatst.  
 
 De stichting Mondriaan Fonds, 

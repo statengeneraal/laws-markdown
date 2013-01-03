@@ -15,36 +15,36 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit bedrijfsvergunning en veiligheidsattest hoofdspoorwegen.   
+Wijzigt het Besluit bedrijfsvergunning en veiligheidsattest hoofdspoorwegen.
 
 ### Artikel  II  
 
-Wijzigt het Besluit Onderzoeksraad voor veiligheid.   
+Wijzigt het Besluit Onderzoeksraad voor veiligheid.
 
 ### Artikel  III  
 
-Wijzigt het Besluit keuring spoorvoertuigen.   
+Wijzigt het Besluit keuring spoorvoertuigen.
 
 ### Artikel  IV  
 
-Wijzigt het Besluit spoorweginfrastructuur.   
+Wijzigt het Besluit spoorweginfrastructuur.
 
 ### Artikel  V  
 
-Wijzigt het Besluit spoorverkeer.   
+Wijzigt het Besluit spoorverkeer.
 
 ### Artikel  VI  
 
 1.  Onze Minister brengt ambtshalve de inzetcertificaten die hij voor de inwerkingtreding van dit besluit heeft verleend, binnen drie jaren in overeenstemming met het [Besluit keuring spoorvoertuigen](../../../../../../../../AMvB/besluit/keuring/spoorvoertuigen/BWBR0017622/README.md) zoals dat luidt na de inwerkingtreding van het onderhavige besluit.   
-2.  Het [Besluit keuring spoorvoertuigen](../../../../../../../../AMvB/besluit/keuring/spoorvoertuigen/BWBR0017622/README.md) zoals dat luidde voor de inwerkingtreding van dit besluit blijft van toepassing op een inzetcertificaat dat Onze Minister voor de inwerkingtreding van dit besluit heeft verleend tot het tijdstip waarop de wijziging ingevolge het eerste lid van dat certificaat in werking treedt.   
+2.  Het [Besluit keuring spoorvoertuigen](../../../../../../../../AMvB/besluit/keuring/spoorvoertuigen/BWBR0017622/README.md) zoals dat luidde voor de inwerkingtreding van dit besluit blijft van toepassing op een inzetcertificaat dat Onze Minister voor de inwerkingtreding van dit besluit heeft verleend tot het tijdstip waarop de wijziging ingevolge het eerste lid van dat certificaat in werking treedt.  
 
 ### Artikel  VII  
 
-De [Regeling veiligheidsattest hoofdspoorwegen](../../../../../../../../ministeriele-regeling/regeling/veiligheidsattest/hoofdspoorwegen/BWBR0017713/README.md) berust na de inwerkingtreding van dit besluit op [artikel 16, eerste en tweede lid, van het Besluit bedrijfsvergunning en veiligheidsattest hoofdspoorwegen](../../../../../../../../AMvB/besluit/bedrijfsvergunning/en/veiligheidsattest/hoofdspoorwegen/BWBR0017623/README.md).  
+De [Regeling veiligheidsattest hoofdspoorwegen](../../../../../../../../ministeriele-regeling/regeling/veiligheidsattest/hoofdspoorwegen/BWBR0017713/README.md) berust na de inwerkingtreding van dit besluit op [artikel 16, eerste en tweede lid, van het Besluit bedrijfsvergunning en veiligheidsattest hoofdspoorwegen](../../../../../../../../AMvB/besluit/bedrijfsvergunning/en/veiligheidsattest/hoofdspoorwegen/BWBR0017623/README.md). 
 
 ### Artikel  VIII  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -52,10 +52,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 18 april 2007  
 Beatrix  
 
-De Minister van Verkeer en Waterstaat, 
-C. M. P. S.Eurlings 
+De Minister van Verkeer en Waterstaat , 
+C. M. P. S. Eurlings   
 
 de *vijftiende* mei 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

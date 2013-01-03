@@ -19,18 +19,18 @@ b. rivierbed: de oppervlakte begrensd ingevolge [artikel 3.1, tweede lid, van de
 c. bergend regime: het afwegingskader dat geldt op het gedeelte van het rivierbed aangegeven op de bij dit besluit behorende detailkaart;  
 
 d. stroomvoerend regime: het afwegingskader dat geldt op het gedeelte van het rivierbed aangegeven op de bij dit besluit behorende detailkaart.     
-2.  Maatregelen, ingrepen, bouwen en soortgelijke begrippen worden voor de toepassing van dit besluit als activiteit aangemerkt.   
+2.  Maatregelen, ingrepen, bouwen en soortgelijke begrippen worden voor de toepassing van dit besluit als activiteit aangemerkt.  
 
 ### Artikel  1a  
 
-Deze beleidsregels berusten op [artikel 6.12 van het Waterbesluit](../../../../../AMvB/waterbesluit/BWBR0026872/README.md).  
+Deze beleidsregels berusten op [artikel 6.12 van het Waterbesluit](../../../../../AMvB/waterbesluit/BWBR0026872/README.md). 
 
 ### Artikel  2  
 
 ####Toepassingsbereik
 
 1.  De artikelen 3 tot en met 7 zijn van toepassing op de waterstaatswerken in beheer bij het Rijk, voor zover aangegeven op de in bijlage 1 bij dit besluit opgenomen overzichtskaart en detailkaarten.   
-2.  De artikelen 3 tot en met 7 zijn niet van toepassing op de in bijlage 2 bij dit besluit aangewezen activiteiten of locaties.   
+2.  De artikelen 3 tot en met 7 zijn niet van toepassing op de in bijlage 2 bij dit besluit aangewezen activiteiten of locaties.  
 
 ### Artikel  3  
 
@@ -38,17 +38,17 @@ In het rivierbed wordt, onverminderd het bepaalde in artikel 7, eerste lid, toes
 
 a. een eenmalige uitbreiding van ten hoogste tien procent van de bestaande bebouwing;  
 
-b. activiteiten ten behoeve van rivierbeheer of -verruiming;  
+b. activiteiten ten behoeve van rivierbeheer of -verruiming; 
 
 c. tijdelijke activiteiten, anders dan bedoeld in [artikel 6.11, eerste lid, onderdeel b, van de Waterregeling](../../../../../ministeriele-regeling/waterregeling/BWBR0026845/README.md), en  
 
-d. overige activiteiten van rivierkundig ondergeschikt belang.    
+d. overige activiteiten van rivierkundig ondergeschikt belang.   
 
 ### Artikel  4  
 
 ####Activiteiten bergend regime
 
-Voor activiteiten in het gedeelte van het rivierbed waarop het bergend regime van toepassing is, wordt, onverminderd het bepaalde in artikel 7, eerste en tweede lid, toestemming gegeven.  
+Voor activiteiten in het gedeelte van het rivierbed waarop het bergend regime van toepassing is, wordt, onverminderd het bepaalde in artikel 7, eerste en tweede lid, toestemming gegeven. 
 
 ### Artikel  5  
 
@@ -72,7 +72,7 @@ g. de uitbreiding van bestaande steenfabrieken;
 
 h. de realisatie van voorzieningen die onlosmakelijk met de waterrecreatie zijn verbonden; of  
 
-i. de winning van oppervlaktedelfstoffen.    
+i. de winning van oppervlaktedelfstoffen.   
 
 ### Artikel  6  
 
@@ -88,7 +88,7 @@ c. een functieverandering binnen de bestaande bebouwing;
 
 d. een activiteit die per saldo meer ruimte voor de rivier oplevert op een rivierkundig bezien aanvaardbare locatie; of  
 
-e. een activiteit die onderdeel uitmaakt van een projectbesluit als bedoeld in de planologische kernbeslissing Ruimte voor de Rivier en waarvan de uitvoering door de Staatssecretaris wordt gefinancierd.    
+e. een activiteit die onderdeel uitmaakt van een projectbesluit als bedoeld in de planologische kernbeslissing Ruimte voor de Rivier en waarvan de uitvoering door de Staatssecretaris wordt gefinancierd.   
 
 ### Artikel  7  
 
@@ -100,38 +100,38 @@ b. er geen sprake is van een feitelijke belemmering voor vergroting van de afvoe
 
 c. er sprake is van een zodanige situering en uitvoering van de activiteit dat de waterstandsverhoging of de afname van het bergend vermogen zo gering mogelijk is.     
 2.  Het eerste lid is van overeenkomstige toepassing voor het geven van de toestemming, bedoeld in de artikelen 4, 5 en 6, aanhef en de onderdelen a, b en c, met dien verstande datde resterende waterstandseffecten of de afname van het bergend vermogen duurzaam worden gecompenseerd waarbij de financiering en de tijdige realisering van de maatregelen gezekerd zijn.   
-3.  Het eerste lid is van overeenkomstige toepassing voor het geven van de toestemming, bedoeld in artikel 6, aanhef en onderdeel d, met dien verstande dat de gevraagde rivierverruimende maatregelen genomen worden, waarbij de financiering en de tijdige realisering van de maatregelen gezekerd zijn.   
+3.  Het eerste lid is van overeenkomstige toepassing voor het geven van de toestemming, bedoeld in artikel 6, aanhef en onderdeel d, met dien verstande dat de gevraagde rivierverruimende maatregelen genomen worden, waarbij de financiering en de tijdige realisering van de maatregelen gezekerd zijn.  
 
 ### Artikel  8  
 
 ####Intrekking
 
-De Beleidslijn ruimte voor de rivier (Stcrt. 1997, 87, p. 6) wordt ingetrokken.  
+De Beleidslijn ruimte voor de rivier (Stcrt. 1997, 87, p. 6) wordt ingetrokken. 
 
 ### Artikel  10  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  11  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Beleidsregels grote rivieren.  
+Dit besluit wordt aangehaald als: Beleidsregels grote rivieren. 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-M.H.Schultz van Haegen  
+M.H. Schultz van Haegen    
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####, behorend bij artikel 2, eerste lid 
 
-Ligt ter inzage op het Ministerie van Infrastructuur en Milieu, Hoofddirectie Juridische Zaken, en is tevens raadpleegbaar op en te downloaden van www.waterwet.nl.  
+Ligt ter inzage op het Ministerie van Infrastructuur en Milieu, Hoofddirectie Juridische Zaken, en is tevens raadpleegbaar op en te downloaden van www.waterwet.nl.
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####behorend bij artikel 2, tweede lid 
 
@@ -195,4 +195,4 @@ ab. Visserweert 51, Roosteren (Echt-Susteren);
 
 ac. Kulturhus, Alem (Maasdriel);  
 
-ad. Camping Oosterdriessen, Oost-Maarland (gemeente Eijsden-Margraten).   
+ad. Camping Oosterdriessen, Oost-Maarland (gemeente Eijsden-Margraten).  

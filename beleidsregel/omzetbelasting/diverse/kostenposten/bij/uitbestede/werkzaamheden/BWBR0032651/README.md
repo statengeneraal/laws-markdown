@@ -2,7 +2,7 @@
 
 ##Omzetbelasting, diverse kostenposten bij uitbestede werkzaamheden
 
-De staatssecretaris van Financiën heeft het volgende besloten.     *Dit besluit is een actualisering van het* [besluit van 23 november 2009](../../../../../../../../beleidsregel/omzetbelasting/diverse/kostenposten/bij/uitbestede/werkzaamheden/BWBR0026728/README.md) *, nr. CPP2009/674M.*   *Het besluit is als volgt gewijzigd:*   *Dit besluit bevat een uitbreiding van de opsomming van kostenposten waarvoor wordt goedgekeurd dat deze buiten de heffing van btw blijven (* onderdeel 3.3 *). In de opsomming zijn nu ook opgenomen de uitgaven voor het afnemen van theorie- en praktijkexamens (inclusief tussentijdse toetsen) voor motorvoertuigen, de verstrekking van Eigen verklaringen (benodigd voor afgifte Verklaring van geschiktheid) en examinerende, certificerende en toezichthoudende activiteiten op het vlak van de vakbekwaamheid van medewerkers in transport, personenvervoer en logistiek door het Centraal Bureau Rijvaardigheidsbewijzen (CBR). Opname van deze kostenposten houdt verband met het omvormen per 1 januari 2013 van de huidige Stichting Centraal Bureau Rijvaardigheidsbewijzen tot een publiekrechtelijk zelfstandig bestuursorgaan. Verder zijn enkele redactionele wijzigingen doorgevoerd.*    
+De staatssecretaris van Financiën heeft het volgende besloten.     *Dit besluit is een actualisering van het *[besluit van 23 november 2009](../../../../../../../../beleidsregel/omzetbelasting/diverse/kostenposten/bij/uitbestede/werkzaamheden/BWBR0026728/README.md)*, nr. CPP2009/674M.*   *Het besluit is als volgt gewijzigd:*  * Dit besluit bevat een uitbreiding van de opsomming van kostenposten waarvoor wordt goedgekeurd dat deze buiten de heffing van btw blijven (*onderdeel 3.3*). In de opsomming zijn nu ook opgenomen de uitgaven voor het afnemen van theorie- en praktijkexamens (inclusief tussentijdse toetsen) voor motorvoertuigen, de verstrekking van Eigen verklaringen (benodigd voor afgifte Verklaring van geschiktheid) en examinerende, certificerende en toezichthoudende activiteiten op het vlak van de vakbekwaamheid van medewerkers in transport, personenvervoer en logistiek door het Centraal Bureau Rijvaardigheidsbewijzen (CBR). Opname van deze kostenposten houdt verband met het omvormen per 1 januari 2013 van de huidige Stichting Centraal Bureau Rijvaardigheidsbewijzen tot een publiekrechtelijk zelfstandig bestuursorgaan. Verder zijn enkele redactionele wijzigingen doorgevoerd.*    
 ### 1  
 
 ####Inleiding
@@ -12,17 +12,17 @@ In verschillende beroepen komt het regelmatig voor dat ten behoeve van een opdra
 
 ####Gebruikte begrippen en afkortingen
 
-*Wet:* [Wet op de omzetbelasting 1968](../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)   
+*Wet:* [Wet op de omzetbelasting 1968](../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)  
 
-*Uitvoeringsbesluit:* [Uitvoeringsbesluit omzetbelasting 1968](../../../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md)   
+*Uitvoeringsbesluit:* [Uitvoeringsbesluit omzetbelasting 1968](../../../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md)  
 
-*Uitvoeringsbeschikking:* [Uitvoeringsbeschikking omzetbelasting 1968](../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md)   
+*Uitvoeringsbeschikking:* [Uitvoeringsbeschikking omzetbelasting 1968](../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md)  
 
 *btw:* omzetbelasting  
 
-*btw-richtlijn:*Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijk stelsel van belasting over de toegevoegde waarde  
+*btw-richtlijn:* Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijk stelsel van belasting over de toegevoegde waarde  
 
-*AWR:* [Algemene wet inzake rijksbelastingen](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)        
+*AWR:* [Algemene wet inzake rijksbelastingen](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)       
 ### 2  
 
 ####Juridisch kader
@@ -129,5 +129,5 @@ Den Haag
 21 november 2012   
 
 De 
-staatssecretaris van Financiën,
-F.H.H.Weekers   
+staatssecretaris van Financiën, 
+F.H.H. Weekers     

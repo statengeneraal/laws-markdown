@@ -50,7 +50,7 @@ q. het uitreiken van het inburgeringsdiploma, bedoeld in [artikel 3.10, eerste l
 
 r. het vaststellen van een examenreglement, als bedoeld in [artikel 3.10, eerste lid, van de Regeling inburgering](../../../../../../../../../../../../../ministeriele-regeling/regeling/inburgering/BWBR0020657/README.md);  
 
-s. het afgeven van een kennisgeving inzake de inburgeringsplicht aan de inburgeringsplichtige.    
+s. het afgeven van een kennisgeving inzake de inburgeringsplicht aan de inburgeringsplichtige.   
 
 ### Artikel  2  
 
@@ -58,9 +58,9 @@ s. het afgeven van een kennisgeving inzake de inburgeringsplicht aan de inburger
 
 1.  In dit artikel wordt verstaan onder: 
 
-a. *Wet inburgering:*[Wet inburgering](../../../../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) zoals die gold op 31 december 2012;  
+a.  *Wet inburgering:* [Wet inburgering](../../../../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) zoals die gold op 31 december 2012;  
 
-b. *Besluit inburgering:*[Besluit inburgering](../../../../../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) zoals dat gold op 31 december 2012;     
+b.  *Besluit inburgering:* [Besluit inburgering](../../../../../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) zoals dat gold op 31 december 2012;     
 2.  Aan de Directeur-Generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend om de bevoegdheden uit te oefenen die verband houden met: 
 
 a. het uitreiken van het inburgeringsdiploma, bedoeld in [artikel 14, tweede lid, van de Wet inburgering](../../../../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md);  
@@ -75,32 +75,32 @@ e. het verstrekken van vergoedingen als bedoeld in [artikel 18, eerste en vierde
 
 f. het beheren van het Informatiesysteem Inburgering, bedoeld in [artikel 47 van de Wet inburgering](../../../../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md), en het verwerken van gegevens in het Informatiesysteem Inburgering, bedoeld in [artikel 6.2, eerste lid, van het Besluit inburgering](../../../../../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md);  
 
-g. het verstrekken van gegevens uit het Informatiesysteem inburgering, bedoeld in [artikel 47, tweede lid, van de Wet inburgering](../../../../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) en [artikel 13 van de Regeling persoonsvolgend budget voor inburgering in de opvang](../../../../../../../../../../../../../ministeriele-regeling/regeling/persoonsvolgend/budget/voor/inburgering/in/de/opvang/BWBR0023049/README.md).     
+g. het verstrekken van gegevens uit het Informatiesysteem inburgering, bedoeld in [artikel 47, tweede lid, van de Wet inburgering](../../../../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) en [artikel 13 van de Regeling persoonsvolgend budget voor inburgering in de opvang](../../../../../../../../../../../../../ministeriele-regeling/regeling/persoonsvolgend/budget/voor/inburgering/in/de/opvang/BWBR0023049/README.md).    
 
 ### Artikel  3  
 
-Aan de Directeur-Generaal van de Dienst Uitvoering Onderwijs wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten op bezwaar, het voeren van gerechtelijke procedures en het behandelen van klachten voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in artikel 1 en 2, en met dien verstande dat hij geen besluit op bezwaar neemt met betrekking tot een bezwaarschrift tegen een besluit dat hij in mandaat heeft genomen.  
+Aan de Directeur-Generaal van de Dienst Uitvoering Onderwijs wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten op bezwaar, het voeren van gerechtelijke procedures en het behandelen van klachten voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in artikel 1 en 2, en met dien verstande dat hij geen besluit op bezwaar neemt met betrekking tot een bezwaarschrift tegen een besluit dat hij in mandaat heeft genomen. 
 
 ### Artikel  4  
 
-De Directeur-Generaal van de Dienst Uitvoering Onderwijs kan met betrekking tot zijn bevoegdheden, genoemd in de artikelen 1 en 2, ondermandaat, volmacht en machtiging in een door hem te bepalen omvang verlenen aan onder hem ressorterende functionarissen, met dien verstande dat hij geen ondermandaat verleent aan de functionaris aan wie door hem ondermandaat tot het nemen van het besluit waartegen het bezwaar zich richt is verleend.  
+De Directeur-Generaal van de Dienst Uitvoering Onderwijs kan met betrekking tot zijn bevoegdheden, genoemd in de artikelen 1 en 2, ondermandaat, volmacht en machtiging in een door hem te bepalen omvang verlenen aan onder hem ressorterende functionarissen, met dien verstande dat hij geen ondermandaat verleent aan de functionaris aan wie door hem ondermandaat tot het nemen van het besluit waartegen het bezwaar zich richt is verleend. 
 
 ### Artikel  5  
 
-Indien uitvoering wordt gegeven aan dit besluit, luidt de ondertekening: De Minister van Sociale Zaken en Werkgelegenheid, voor deze, gevolgd door functieaanduiding, handtekening en naam van de betrokken functionaris.  
+Indien uitvoering wordt gegeven aan dit besluit, luidt de ondertekening: De Minister van Sociale Zaken en Werkgelegenheid, voor deze, gevolgd door functieaanduiding, handtekening en naam van de betrokken functionaris. 
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van 1 januari 2013.  
+Dit besluit treedt in werking met ingang van 1 januari 2013. 
 
 ### Artikel  7  
 
-Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Dienst Uitvoering Onderwijs Wet- en regelgeving inburgering 2013.  
+Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Dienst Uitvoering Onderwijs Wet- en regelgeving inburgering 2013. 
 Deze regeling zal met de toelichting (en de bijlage(n)) in de Staatscourant worden geplaatst.   
 
 Den Haag 
 14 december 2012   
 
 De 
-Minister van Sociale Zaken en Werkgelegenheid,
-L.F.Asscher   
+Minister van Sociale Zaken en Werkgelegenheid, 
+L.F. Asscher     

@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Vreemdelingenbesluit 2000.   
+Wijzigt het Vreemdelingenbesluit 2000. 
 
 ### Artikel  II  
 
-De vervoerder, bedoeld in [artikel 4, eerste lid, van de Vreemdelingenwet 2000](../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), die op het tijdstip waarop dit besluit in werking treedt nog niet in staat is de in [artikel 2.2a, derde lid, onderdeel c, onder 3° en 4°, van het Vreemdelingenbesluit 2000](../../../../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) bedoelde gegevens te verstrekken, kan in afwijking van artikel 2.2a, derde lid, van het Vreemdelingenbesluit 2000 het verstrekken van die gegevens achterwege laten tot uiterlijk 1 april 2013.  
+De vervoerder, bedoeld in [artikel 4, eerste lid, van de Vreemdelingenwet 2000](../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), die op het tijdstip waarop dit besluit in werking treedt nog niet in staat is de in [artikel 2.2a, derde lid, onderdeel c, onder 3° en 4°, van het Vreemdelingenbesluit 2000](../../../../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) bedoelde gegevens te verstrekken, kan in afwijking van artikel 2.2a, derde lid, van het Vreemdelingenbesluit 2000 het verstrekken van die gegevens achterwege laten tot uiterlijk 1 april 2013. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

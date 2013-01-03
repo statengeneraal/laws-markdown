@@ -13,7 +13,7 @@ Besluit:
 ####Doelstelling
 
 1.  Het Stimuleringsfonds Creatieve Industrie verstrekt, in overeenstemming met zijn statuten en overeenkomstig de bepalingen vastgesteld in de wet en het onderhavige reglement, subsidies voor de uitvoering van projecten die: de kwaliteit van de disciplines architectuur, vormgeving en e-cultuur bevorderen en vanuit een culturele invalshoek hun maatschappelijke en economische meerwaarde vergroten. Daarbij gaat het ook om de versterking van de sectoroverschrijdende aanpak en de samenwerking tussen private partijen, particulieren en overheid, zowel in Nederland als in het buitenland.   
-2.  Het Bestuur stelt in aanvulling op dit Subsidiereglement in een of meer Deelregelingen nadere formele, financiële, inhoudelijke, kwalitatieve en kwantitatieve eisen alsmede uitzonderingen vast.   
+2.  Het Bestuur stelt in aanvulling op dit Subsidiereglement in een of meer Deelregelingen nadere formele, financiële, inhoudelijke, kwalitatieve en kwantitatieve eisen alsmede uitzonderingen vast.  
 
 ### Artikel  2  
 
@@ -45,7 +45,7 @@ In dit reglement en deelregelingen wordt verstaan onder:
 
 *Talent:* uitzonderlijke professionele begaafdheid met de potentie en eigenschappen om deze verder te ontwikkelen tot een inspirerend voorbeeld voor vakgenoten en een breder geïnteresseerd publiek.  
 
-*Vormgeving:* de werkterreinen mode en sieraden, industriële vormgeving, product- en meubelontwerp, grafische vormgeving, vrije vormgeving, illustraties en strips, animatie en theatervormgeving, inclusief aanverwante activiteiten gericht op analyse van en reflectie op deze disciplines.    
+*Vormgeving:* de werkterreinen mode en sieraden, industriële vormgeving, product- en meubelontwerp, grafische vormgeving, vrije vormgeving, illustraties en strips, animatie en theatervormgeving, inclusief aanverwante activiteiten gericht op analyse van en reflectie op deze disciplines.   
 
 ### Artikel  3  
 
@@ -60,7 +60,7 @@ a. het beschikbare budget van het Stimuleringsfonds;
 b. door het Bestuur geformuleerde prioriteiten;  
 
 c. het oormerken van bedragen ten behoeve van de uitvoering van deelregelingen.     
-4.  De verlening van een subsidie wordt geweigerd wanneer door verstrekking van het subsidie het financieel plafond van de regeling of deelregelingen zou worden overschreden.   
+4.  De verlening van een subsidie wordt geweigerd wanneer door verstrekking van het subsidie het financieel plafond van de regeling of deelregelingen zou worden overschreden.  
 
 ### Artikel  4  
 
@@ -117,7 +117,7 @@ j. bouw- en restauratiekosten;
 
 k. inrichtings-, restauratie- en verbouwingsplannen;  
 
-l. projecten met een looptijd langer dan 24 maanden.     
+l. projecten met een looptijd langer dan 24 maanden.    
 
 ### Artikel  5  
 
@@ -127,13 +127,13 @@ l. projecten met een looptijd langer dan 24 maanden.
 2.  Het Activiteitenplan behoeft de goedkeuring van de Raad van Toezicht en wordt aansluitend openbaar gemaakt, ten minste door vermelding op de website.   
 3.  Het Bestuur neemt binnen 10 weken na de bepaalde inzendtermijn een besluit, tenzij in een deelregeling een andere termijn is bepaald. Indien de gestelde termijn niet wordt gehaald, wordt de aanvrager hiervan schriftelijk op de hoogte gesteld.   
 4.  Met de uitvoering van een voorstel kan niet eerder dan de datum waarop het Bestuur besluit worden aangevangen.   
-5.  Voor het indienen van een aanvraag stelt het Bestuur een aanvraagformulier vast en maakt dat bekend op haar website. Dit formulier dient volledig te worden ingevuld overeenkomstig de richtlijnen die in de toelichting staan omschreven.   
+5.  Voor het indienen van een aanvraag stelt het Bestuur een aanvraagformulier vast en maakt dat bekend op haar website. Dit formulier dient volledig te worden ingevuld overeenkomstig de richtlijnen die in de toelichting staan omschreven.  
 
 ### Artikel  6  
 
 ####Bijzondere aanvraagprocedure: Open Call
 
-De aanvraagprocedure kan ten behoeve van het ontwikkelen van een uitgewerkt projectvoorstel de vorm krijgen van een zogeheten Open Call. Alsdan maakt het Bestuur een oproep openbaar waarin het doel van de oproep, het te verlenen bedrag en de te volgen procedure zijn opgenomen. De Open Call wordt minimaal vier weken voor de vastgestelde sluitingsdatum openbaar gemaakt, ten minste door vermelding op de website.  
+De aanvraagprocedure kan ten behoeve van het ontwikkelen van een uitgewerkt projectvoorstel de vorm krijgen van een zogeheten Open Call. Alsdan maakt het Bestuur een oproep openbaar waarin het doel van de oproep, het te verlenen bedrag en de te volgen procedure zijn opgenomen. De Open Call wordt minimaal vier weken voor de vastgestelde sluitingsdatum openbaar gemaakt, ten minste door vermelding op de website. 
 
 ### Artikel  7  
 
@@ -142,7 +142,7 @@ De aanvraagprocedure kan ten behoeve van het ontwikkelen van een uitgewerkt proj
 1.  Een aanvraag wordt niet in behandeling genomen als de uitvoering van de beoogde activiteiten – blijkens de aanvraag – niet binnen twaalf maanden na het besluit van het Bestuur wordt aangevangen.   
 2.  Aanvragen moeten in de Nederlandse of Engelse taal zijn gesteld.   
 3.  Indien een aanvrager na een geheel of gedeeltelijk afwijzend besluit door het Bestuur binnen zes maanden na dat besluit een nieuwe aanvraag indient voor hetzelfde project, wordt deze aanvraag zonder nader onderzoek of advies afgewezen, tenzij gewijzigde omstandigheden of nieuwe feiten worden vermeld.   
-4.  Het Bestuur kan besluiten een aanvraag zonder nader onderzoek of advies af te wijzen wanneer over een voorafgaand project van dezelfde aanvrager, waarvoor het Stimuleringsfonds een subsidie heeft verleend, niet binnen de gestelde termijn of niet naar genoegen van het Bestuur verantwoording is afgelegd.   
+4.  Het Bestuur kan besluiten een aanvraag zonder nader onderzoek of advies af te wijzen wanneer over een voorafgaand project van dezelfde aanvrager, waarvoor het Stimuleringsfonds een subsidie heeft verleend, niet binnen de gestelde termijn of niet naar genoegen van het Bestuur verantwoording is afgelegd.  
 
 ### Artikel  8  
 
@@ -156,7 +156,7 @@ b. een omschrijving van het belang van het project, die het mogelijk maakt te be
 
 c. vermelding van de hoogte van het verlangde subsidie;  
 
-d. een beschrijving van het project waarvoor deze subsidie wordt aangevraagd. In die beschrijving moet worden vermeld wat de doelstelling van het project is; waar, wanneer,door wie en hoe het project wordt uitgevoerd en voor wie het project bestemd is;  
+d.  een beschrijving van het project waarvoor deze subsidie wordt aangevraagd. In die beschrijving moet worden vermeld wat de doelstelling van het project is; waar, wanneer,door wie en hoe het project wordt uitgevoerd en voor wie het project bestemd is;  
 
 e. een communicatiestrategie, waarin duidelijk gemaakt op welk publiek de bekendmaking van de resultaten gericht is en op welke wijze deze plaats vindt.  
 
@@ -166,7 +166,7 @@ g. een opgave van aanvragen die bij derden zijn ingediend voor een subsidie, bij
 
 h. een kopie van de voor de aanvrager geldende statuten en een uittreksel uit het handelsregister dat niet ouder is dan twaalf maanden;  
 
-i. het in de toelichting bij het formulier voorgeschreven documentatiemateriaal en informatiemateriaal, opdat beoordeeld kan worden of de aanvraag aan de criteria, zoals geformuleerd in het Subsidiereglement en de betreffende deelregeling, voldoet.    
+i. het in de toelichting bij het formulier voorgeschreven documentatiemateriaal en informatiemateriaal, opdat beoordeeld kan worden of de aanvraag aan de criteria, zoals geformuleerd in het Subsidiereglement en de betreffende deelregeling, voldoet.   
 
 ### Artikel  9  
 
@@ -207,7 +207,7 @@ d. de noodzaak en omvang van het subsidie;
 
 e. de statutaire doelstelling van de aanvrager;  
 
-f. het advies dat naar aanleiding van een aanvraag aan het Bestuur is uitgebracht.     
+f. het advies dat naar aanleiding van een aanvraag aan het Bestuur is uitgebracht.    
 
 ### Artikel  10  
 
@@ -218,7 +218,7 @@ f. het advies dat naar aanleiding van een aanvraag aan het Bestuur is uitgebrach
 3.  Het adviesorgaan wordt een oordeel gevraagd over de mate waarin een aanvraag voldoet aan het bepaalde in het Subsidiereglement en de betreffende deelregeling, met name aan de in artikel 9 lid 1 en in een van toepassing zijnde deelregeling gestelde inhoudelijke criteria.   
 4.  Een positief advies kan vergezeld gaan van een aanbeveling over de hoogte van de te verlenen subsidie en van aanbevelingen met betrekking tot de uitvoering van het project.   
 5.  Het Bestuur kan het adviesorgaan verzoeken bij de beoordeling van aanvragen rekening te houden met door hem vastgestelde prioriteiten.   
-6.  De werkwijze, benoemingen, benoemingstermijnen en nadere regels ten aanzien van het functioneren van een adviesorgaan legt het Bestuur vast in het Protocol Advisering van aanvragen.   
+6.  De werkwijze, benoemingen, benoemingstermijnen en nadere regels ten aanzien van het functioneren van een adviesorgaan legt het Bestuur vast in het Protocol Advisering van aanvragen.  
 
 ### Artikel  11  
 
@@ -228,13 +228,13 @@ f. het advies dat naar aanleiding van een aanvraag aan het Bestuur is uitgebrach
 2.  Besluiten over aanvragen worden genomen binnen tien weken, tenzij in een deelregeling een andere beslistermijn is bepaald.   
 3.  Het besluit en alle daaruit voortvloeiende aanspraken vervallen indien het project binnen twaalf maanden na het besluit tot verlening geen aanvang heeft genomen. Hiervoor is geen verdere mededeling door het Bestuur vereist. Het Bestuur kan bij deelregeling een afwijkende termijn vaststellen.   
 4.  In het verleningbesluit kan het Bestuur voorbehouden maken en voorschriften en voorwaarden stellen, in elk geval ter zake van de voorbereiding en uitvoering van het project, de presentatie van de resultaten, de wijze van betaalbaarstelling, de verslaglegging en de wijze van financiële en inhoudelijke verantwoording.   
-5.  Aan het verlenen van een subsidie kunnen door de aanvrager nooit rechten worden ontleend met betrekking tot de honorering van een volgende aanvraag voor een subsidie.   
+5.  Aan het verlenen van een subsidie kunnen door de aanvrager nooit rechten worden ontleend met betrekking tot de honorering van een volgende aanvraag voor een subsidie.  
 
 ### Artikel  12  
 
 ####Voorschotten
 
-Het Bestuur kan een voorschot betaalbaar stellen. In het besluit tot verlening van het subsidie worden de hoogte en het tempo van de bevoorschotting vastgesteld. De verlening van het voorschot geschiedt gelijktijdig met de beschikking tot subsidieverlening. Het voorschot bedraagt maximaal 100 procent van het verleende subsidie. Het Bestuur kan met betrekking tot de bevoorschotting nadere regels stellen in deelregelingen.  
+Het Bestuur kan een voorschot betaalbaar stellen. In het besluit tot verlening van het subsidie worden de hoogte en het tempo van de bevoorschotting vastgesteld. De verlening van het voorschot geschiedt gelijktijdig met de beschikking tot subsidieverlening. Het voorschot bedraagt maximaal 100 procent van het verleende subsidie. Het Bestuur kan met betrekking tot de bevoorschotting nadere regels stellen in deelregelingen. 
 
 ### Artikel  13  
 
@@ -242,13 +242,13 @@ Het Bestuur kan een voorschot betaalbaar stellen. In het besluit tot verlening v
 
 1.  De aanvrager dient in alle publieke uitingen het Stimuleringsfonds te vermelden als subsidieverstrekker. In publicaties en verslagen, op uitnodigingen aankondigingen, websites en audiovisuele producties dient het logo van het Stimuleringsfonds te worden opgenomen. Wanneer een aanvrager logo’s opneemt van commerciële sponsors dient ook het logo van het Stimuleringsfonds te worden gebruikt.   
 2.  De ontvanger garandeert het Bestuur dat het project op doelmatige en financieel verantwoorde wijze wordt uitgevoerd. In dat kader voert de ontvanger een goed beleid en beheer, gebruikt hij het subsidie op efficiënte wijze voor het doel waarvoor ze is verleend en leeft hij alle verplichtingen na die door het Bestuur zijn verbonden aan de verlening van het subsidie.   
-3.  De subsidieontvanger doet onverwijld een melding bij het Bestuur van feiten en omstandigheden die van belang kunnen zijn voor de subsidieverstrekking. Bij de melding worden de stukken overgelegd die betrekking hebben op de gemelde feiten en omstandigheden en wordt de oorzaak van de gemelde feiten en omstandigheden toegelicht.   
+3.  De subsidieontvanger doet onverwijld een melding bij het Bestuur van feiten en omstandigheden die van belang kunnen zijn voor de subsidieverstrekking. Bij de melding worden de stukken overgelegd die betrekking hebben op de gemelde feiten en omstandigheden en wordt de oorzaak van de gemelde feiten en omstandigheden toegelicht.  
 
 ### Artikel  14  
 
 ####Desgevraagd verantwoorden bij subsidies minder dan € 25.000
 
-Indien het subsidie minder dan € 25.000 bedraagt, toont de subsidieontvanger op verzoek van het Bestuur aan dat de activiteiten waarvoor het subsidie is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan het subsidie zijn verbonden. Bij deelregeling of bij beschikking wordt aangegeven op welke wijze dit wordt aangetoond.  
+Indien het subsidie minder dan € 25.000 bedraagt, toont de subsidieontvanger op verzoek van het Bestuur aan dat de activiteiten waarvoor het subsidie is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan het subsidie zijn verbonden. Bij deelregeling of bij beschikking wordt aangegeven op welke wijze dit wordt aangetoond. 
 
 ### Artikel  15  
 
@@ -258,7 +258,7 @@ Indien het subsidie minder dan € 25.000 bedraagt, toont de subsidieontvanger 
 2.  Het activiteitenverslag bevat een overzicht van de werkzaamheden waarvoor subsidie is verstrekt en van de daarmee bereikte resultaten.   
 3.  De inrichting van het verslag komt overeen met de inrichting van de beschrijving van het project.   
 4.  Het verslag bevat, voor zover van toepassing, een analyse van verschillen tussen de voorgenomen activiteiten en beoogde resultaten, vermeld in de beschrijving van het project, en de feitelijke realisatie.   
-5.  Bij deelregeling of bij beschikking kan worden bepaald dat het subsidieontvanger op een andere wijze aantoont dat de activiteiten waarvoor het subsidie is verstrekt, zijn verricht en dat is voldaan aan de aan het subsidie verbonden verplichtingen.   
+5.  Bij deelregeling of bij beschikking kan worden bepaald dat het subsidieontvanger op een andere wijze aantoont dat de activiteiten waarvoor het subsidie is verstrekt, zijn verricht en dat is voldaan aan de aan het subsidie verbonden verplichtingen.  
 
 ### Artikel  16  
 
@@ -277,13 +277,13 @@ d. wat, in voorkomend geval, de stand van de egalisatiereserve is,
 
 e. wat het totale bedrag van de gerealiseerde opbrengsten, inclusief bijdragen van derden, is, en  
 
-f. wat het totale bedrag van de gerealiseerde eigen bijdrage is.     
+f. wat het totale bedrag van de gerealiseerde eigen bijdrage is.    
 
 ### Artikel  17  
 
 ####Verantwoording bij subsidies van € 125.000 of meer
 
-Indien het subsidie € 125.000 of meer bedraagt, legt de subsidieontvanger, onverminderd artikel 15, rekening en verantwoording af aan de hand van een financieel verslag. [Artikel 4:76 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.  
+Indien het subsidie € 125.000 of meer bedraagt, legt de subsidieontvanger, onverminderd artikel 15, rekening en verantwoording af aan de hand van een financieel verslag. [Artikel 4:76 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing. 
 
 ### Artikel  18  
 
@@ -291,46 +291,46 @@ Indien het subsidie € 125.000 of meer bedraagt, legt de subsidieontvanger, on
 
 1.  Het financieel verslag, bedoeld in artikel 17, gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
 2.  De subsidieontvanger bedingt bij de accountant dat deze zijn onderzoek inricht overeenkomstig een controleprotocol indien dat door het Bestuur is vastgesteld.   
-3.  In de verklaring, bedoeld in het eerste lid, geeft de accountant tevens een oordeel over de naleving door de subsidieontvanger van de in het controleprotocol genoemde voorschriften.   
+3.  In de verklaring, bedoeld in het eerste lid, geeft de accountant tevens een oordeel over de naleving door de subsidieontvanger van de in het controleprotocol genoemde voorschriften.  
 
 ### Artikel  19  
 
 ####Vaststelling van het subsidie
 
 1.  Uiterlijk 22 weken nadat het project heeft plaatsgevonden, moet de aanvraag tot subsidievaststelling zijn ingediend.   
-2.  Het Bestuur kan de ontvanger nadere aanwijzingen geven over de controle op de naleving van de voorwaarden die zijn verbonden aan de verlening van het subsidie.   
+2.  Het Bestuur kan de ontvanger nadere aanwijzingen geven over de controle op de naleving van de voorwaarden die zijn verbonden aan de verlening van het subsidie.  
 
 ### Artikel  20  
 
 ####Bezwaar
 
-Een belanghebbende kan bezwaar maken door een bezwaarschrift in te dienen bij het Bestuur. De termijn voor het indienen van een bezwaarschrift bedraagt zes weken. De termijn vangt aan op de dag nadat het besluit bekend is gemaakt.  
+Een belanghebbende kan bezwaar maken door een bezwaarschrift in te dienen bij het Bestuur. De termijn voor het indienen van een bezwaarschrift bedraagt zes weken. De termijn vangt aan op de dag nadat het besluit bekend is gemaakt. 
 
 ### Artikel  21  
 
 ####Bescherming persoonsgegevens
 
-Het Bestuur verstrekt geen vertrouwelijke informatie over een aanvraag aan derden. Het gaat hier om bedrijfs- en fabricagegegevens die door een aanvrager vertrouwelijk aan het Stimuleringsfonds zijn medegedeeld of om persoonsgegevens als bedoeld in [hoofdstuk 2, paragraaf 2 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), tenzij de verstrekking kennelijk geen inbreuk op de persoonlijke levenssfeer maakt.  
+Het Bestuur verstrekt geen vertrouwelijke informatie over een aanvraag aan derden. Het gaat hier om bedrijfs- en fabricagegegevens die door een aanvrager vertrouwelijk aan het Stimuleringsfonds zijn medegedeeld of om persoonsgegevens als bedoeld in [hoofdstuk 2, paragraaf 2 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), tenzij de verstrekking kennelijk geen inbreuk op de persoonlijke levenssfeer maakt. 
 
 ### Artikel  22  
 
 ####Termijn
 
-Dit reglement is van toepassing op alle aanvragen die vanaf 1 januari 2013 bij het Stimuleringsfonds worden ingediend. Op die datum vervallen alle reglementen en (deel)regelingen welke op 31 december 2012 binnen het Stimuleringsfonds van kracht waren, onder welke benaming dan ook, met dien verstande dat zij van toepassing blijven op alle voor 1 januari 2013 ingediende aanvragen.  
+Dit reglement is van toepassing op alle aanvragen die vanaf 1 januari 2013 bij het Stimuleringsfonds worden ingediend. Op die datum vervallen alle reglementen en (deel)regelingen welke op 31 december 2012 binnen het Stimuleringsfonds van kracht waren, onder welke benaming dan ook, met dien verstande dat zij van toepassing blijven op alle voor 1 januari 2013 ingediende aanvragen. 
 
 ### Artikel  22  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Subsidiereglement Creatieve Industrie.  
+Deze regeling wordt aangehaald als: Subsidiereglement Creatieve Industrie. 
 
 ### Artikel  23  
 
 ####Slotbepalingen
 
-In gevallen waarin de wet, de statuten, dit reglement of deelregelingen niet voorzien, beslist het Bestuur.  
+In gevallen waarin de wet, de statuten, dit reglement of deelregelingen niet voorzien, beslist het Bestuur. 
 Deze regeling zal in de Staatscourant worden geplaatst.  
 
 De stichting Stimuleringsfonds Creatieve Industrie, 
-J. Rodermond,  
+J.  Rodermond,  
 (directeur/bestuurder).    

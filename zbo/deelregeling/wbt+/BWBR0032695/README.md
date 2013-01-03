@@ -10,7 +10,7 @@ Besluit:
 
 ####Doel
 
-De regeling is bedoeld voor het stimuleren van initiatieven uit het professionele veld waardoor het werk van kunstenaars met bewezen talent zich verder ontwikkelt tot een betekenisvolle bijdrage en de zichtbaarheid daarvan vergroot wordt en een (passend) publiek kennis kan nemen van het werk. De regeling is van toepassing op een opdrachtgever voor plannen voor een bijzondere samenwerking met een beeldende kunstenaar met bewezen talent, zoals de productie van nieuw werk, het aankopen van het werk en het intensief volgen van het werk van de kunstenaar, waarbij de aanvrager het werk onder de aandacht brengt van een (passend) publiek.  
+De regeling is bedoeld voor het stimuleren van initiatieven uit het professionele veld waardoor het werk van kunstenaars met bewezen talent zich verder ontwikkelt tot een betekenisvolle bijdrage en de zichtbaarheid daarvan vergroot wordt en een (passend) publiek kennis kan nemen van het werk. De regeling is van toepassing op een opdrachtgever voor plannen voor een bijzondere samenwerking met een beeldende kunstenaar met bewezen talent, zoals de productie van nieuw werk, het aankopen van het werk en het intensief volgen van het werk van de kunstenaar, waarbij de aanvrager het werk onder de aandacht brengt van een (passend) publiek. 
 
 ### Artikel  2  
 
@@ -26,13 +26,13 @@ De regeling is bedoeld voor het stimuleren van initiatieven uit het professionel
 8.  Indien het inkomen van de aanvrager in de twee kalenderjaren voorafgaand aan zijn aanvraag door van tevoren voorziene omstandigheden hoger is dan het in het vijfde lid van dit artikel bepaalde, of indien de aanvrager in de twee kalenderjaren voorafgaand aan zijn aanvraag geen aangifte inkomstenbelasting in Nederland heeft gedaan, dient het inkomen van de aanvrager in het jaar van verlening en in het daaropvolgende jaar gelijk of lager te zijn dan het krachtens het vijfde lid van dit artikel door het bestuur vastgestelde bedrag. Dit zal getoetst worden aan de hand van de definitieve aanslagen inkomstenbelasting over het jaar van verlening en het daaropvolgende jaar. Deze opgaaf dient zo spoedig mogelijk na afloop van dat jaar doch uiterlijk vóór 15 juli van het jaar, volgend op het jaar waarop de aanslag betrekking heeft, te geschieden.   
 9.  Het in het derde lid gestelde geldt niet voor die instellingen waarvoor een beurs praktijkverdieping kan worden aangevraagd die door het fonds gesubsidieerd kan worden   
 10.  Geen werkbijdrage kan worden verstrekt aan hbo-opleidingen en aan instellingen waarvoor een beurs praktijkverdieping kan worden aangevraagd.   
-11.  De bijdrage die de aanvrager van een aanvrager van een werkbijdrage WBT+ levert dient in een aanvaardbare verhouding te staan tot de bijdrage van het fonds.   
+11.  De bijdrage die de aanvrager van een aanvrager van een werkbijdrage WBT+ levert dient in een aanvaardbare verhouding te staan tot de bijdrage van het fonds.  
 
 ### Artikel  3  
 
 ####Aanvraag
 
-Naast de bepalingen vastgesteld in het Algemeen Reglement, in het aanvraagformulier en in de toelichting daarop dient de aanvraag voor een werkbijdrage WBT+ vergezeld te gaan van visueel documentatiemateriaal, een cv, een onderbouwd plan en een presentatievoorstel waarin de aanvrager toelicht welke bijdrage op het gebied van presentatie of aankoop en zichtbaarheid wordt geleverd en een motivering waarin de ideeën over keuze voor en de relatie met de kunstenaar worden onderbouwd. In deze plannen en motivering dient de aanvrager zijn inhoudelijke inbreng en eigen financiële bijdrage duidelijk te omschrijven.  
+Naast de bepalingen vastgesteld in het Algemeen Reglement, in het aanvraagformulier en in de toelichting daarop dient de aanvraag voor een werkbijdrage WBT+ vergezeld te gaan van visueel documentatiemateriaal, een cv, een onderbouwd plan en een presentatievoorstel waarin de aanvrager toelicht welke bijdrage op het gebied van presentatie of aankoop en zichtbaarheid wordt geleverd en een motivering waarin de ideeën over keuze voor en de relatie met de kunstenaar worden onderbouwd. In deze plannen en motivering dient de aanvrager zijn inhoudelijke inbreng en eigen financiële bijdrage duidelijk te omschrijven. 
 
 ### Artikel  4  
 
@@ -50,7 +50,7 @@ Naast de bepalingen vastgesteld in het Algemeen Reglement, in het aanvraagformul
 * de wijze waarop de kunstenaar naar buiten treedt en een publiek voor zijn werk weet te vinden.     
 3.  Indien het bevoegd adviesorgaan de in het eerste en tweede lid genoemde aspecten in onderlinge samenhang positief beoordeelt brengt het een positief advies uit.   
 4.  Indien het bevoegd adviesorgaan de in het eerste en tweede lid genoemde aspecten in onderlinge samenhang negatief beoordeelt, brengt het een negatief advies uit.   
-5.  Het bestuur kan het bevoegd adviesorgaan verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in het eerste lid en die prioritering te onderbouwen.   
+5.  Het bestuur kan het bevoegd adviesorgaan verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in het eerste lid en die prioritering te onderbouwen.  
 
 ### Artikel  5  
 
@@ -58,19 +58,19 @@ Naast de bepalingen vastgesteld in het Algemeen Reglement, in het aanvraagformul
 
 1.  Aanspraak op een toegekende werkbijdrage bewezen talent geschiedt in vier gelijke, halfjaarlijkse tranches, tenzij de beeldend kunstenaar schriftelijk een ander ritme met het fonds overeenkomt, met dien verstande dat op jaarbasis maximaal de helft van de toegekende werkbijdrage kan worden verleend, met inachtneming van het bepaalde in het tweede lid.   
 2.  Tijdens de periode waarin een beeldend kunstenaar gebruik maakt van een andere subsidie van het fonds die, naar het oordeel van het bestuur, in dekking van dezelfde kosten voorziet als de werkbijdrage op grond van deze regeling kunnen geen verstrekkingen op grond van een reeds toegekende werkbijdrage plaatsvinden. Indien de gebruikmaking van de in dit artikel bedoelde andere subsidie aanvangt in hetzelfde jaar als waarin een of meerdere verstrekkingen van de werkbijdrage hebben plaats gevonden, heeft het bestuur het recht om deze geheel of gedeeltelijk terug te vorderen c.q. te verrekenen met de andere subsidie. Deze terugvordering of verrekening laat onverlet het recht om het desbetreffende bedrag op een later tijdstip alsnog, conform het in deze regeling ten aanzien van verstrekkingen bepaalde, op te nemen.   
-3.  Degene ten behoeve van wie een werkbijdrage is toegekend dient op het moment dat hij een deel van het bijdrage verstrekt krijgt in Nederland gevestigd te zijn en indien hij niet de Nederlandse nationaliteit bezit te beschikken over een geldige verblijfstitel op grond van de Vreemdelingenwet. Bij het verzoek tot verstrekking kan het bestuur vragen om een afschrift van documenten, waaruit dit blijkt.   
+3.  Degene ten behoeve van wie een werkbijdrage is toegekend dient op het moment dat hij een deel van het bijdrage verstrekt krijgt in Nederland gevestigd te zijn en indien hij niet de Nederlandse nationaliteit bezit te beschikken over een geldige verblijfstitel op grond van de Vreemdelingenwet. Bij het verzoek tot verstrekking kan het bestuur vragen om een afschrift van documenten, waaruit dit blijkt.  
 
 ### Artikel  6  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2013. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2012, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2013.  
+Deze regeling treedt in werking met ingang van 1 januari 2013. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2012, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2013. 
 
 ### Artikel  7  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Deelregeling WBT+.  
+Deze regeling wordt aangehaald als: Deelregeling WBT+. 
 Deze regeling zal in de Staatscourant worden geplaatst.  
 
 De stichting Mondriaan Fonds, 

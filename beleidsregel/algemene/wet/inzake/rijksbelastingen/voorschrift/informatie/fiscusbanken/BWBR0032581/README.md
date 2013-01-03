@@ -2,7 +2,7 @@
 
 ##Algemene wet inzake rijksbelastingen, voorschrift informatie fiscus/banken
 
-De staatssecretaris van Financiën heeft het volgende besloten. Dit besluit vervangt het [besluit van 28 januari 2011](../../../../../../../../../beleidsregel/algemene/wet/inzake/rijksbelastingen/voorschrift/informatie/fiscusbanken/BWBR0029530/README.md), nr. BLKB2011/109M.  *In de praktijk bleek dat* [§ 7.1 van dat besluit](../../../../../../../../../beleidsregel/algemene/wet/inzake/rijksbelastingen/voorschrift/informatie/fiscusbanken/BWBR0029530/README.md) *aanleiding gaf tot interpretatieverschillen. Om discussies op dit punt tussen de Belastingdienst en de banken te voorkomen wordt deze paragraaf ingetrokken. Dit houdt in dat het verkrijgen van inzage in het krediet- of cliëntendossier zal plaatsvinden overeenkomstig de wettelijke bepalingen. Verder zijn er enkele aanpassingen van redactionele aard aangebracht.*    
+De staatssecretaris van Financiën heeft het volgende besloten. Dit besluit vervangt het [besluit van 28 januari 2011](../../../../../../../../../beleidsregel/algemene/wet/inzake/rijksbelastingen/voorschrift/informatie/fiscusbanken/BWBR0029530/README.md), nr. BLKB2011/109M. * In de praktijk bleek dat *[§ 7.1 van dat besluit](../../../../../../../../../beleidsregel/algemene/wet/inzake/rijksbelastingen/voorschrift/informatie/fiscusbanken/BWBR0029530/README.md)* aanleiding gaf tot interpretatieverschillen. Om discussies op dit punt tussen de Belastingdienst en de banken te voorkomen wordt deze paragraaf ingetrokken. Dit houdt in dat het verkrijgen van inzage in het krediet- of cliëntendossier zal plaatsvinden overeenkomstig de wettelijke bepalingen. Verder zijn er enkele aanpassingen van redactionele aard aangebracht.*    
 ### 1  
 
 ####Inleiding
@@ -57,12 +57,12 @@ Den Haag
 13 december 2012   
 
 De 
-staatssecretaris van Financiën,
-F.H.H.Weekers.  
+staatssecretaris van Financiën, 
+F.H.H. Weekers.    
 
-### Bijlage  
+### Bijlage 
 
-####bij het voorschriftinformatiefiscus/banken
+#### bij het voorschriftinformatiefiscus/banken
 
 Bancaire activiteiten: 
 
@@ -80,15 +80,15 @@ Bancaire activiteiten:
 
 7. Transacties voor eigen rekening van de instelling of voor rekening van cliënten met betrekking tot: 
 
-a geldmarktinstrumenten (cheques, wissels, depositocertificaten, CD’s, enz.);  
+a  geldmarktinstrumenten (cheques, wissels, depositocertificaten, CD’s, enz.);  
 
-b valuta's;  
+b  valuta's;  
 
-c financiële futures en opties;  
+c  financiële futures en opties;  
 
-d swaps en soortgelijke financieringsinstrumenten;  
+d  swaps en soortgelijke financieringsinstrumenten;  
 
-e effecten;    
+e  effecten;    
 
 8. Deelneming aan effectenemissies en dienstverrichtingen in verband daarmee;  
 

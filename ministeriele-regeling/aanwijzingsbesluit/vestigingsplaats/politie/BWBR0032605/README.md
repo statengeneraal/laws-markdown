@@ -8,13 +8,13 @@ Besluit:
 
 ### Artikel  1  
 
-De politie is gevestigd te Den Haag.  
+De politie is gevestigd te Den Haag. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking op 1 januari 2013.  
+Dit besluit treedt in werking op 1 januari 2013. 
 Dit besluit zal in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Veiligheid en Justitie,
-I.W.Opstelten   
+Minister van Veiligheid en Justitie, 
+I.W. Opstelten     

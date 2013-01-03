@@ -22,7 +22,7 @@ Hebben goedgevonden en verstaan:
 
 a. beschikking nr. 2000/532/EG: beschikking nr. 2000/532/EG van de Commissie van de Europese Gemeenschappen van 3 mei 2000 tot vervanging van beschikking nr. 94/3/EG houdende vaststelling van een lijst van afvalstoffen overeenkomstig artikel 1, onder a), van Richtlijn 75/442/EEG van de Raad van de Europese Gemeenschappen betreffende afvalstoffen en Beschikking nr. 94/904/EG van de Raad van de Europese Unie tot vaststelling van een lijst van gevaarlijke afvalstoffen overeenkomstig artikel 1, lid 4, van Richtlijn nr. 91/689/EEG van de Raad van de Europese Gemeenschappen betreffende gevaarlijke afvalstoffen (PbEG L 226/3);  
 
-b. afgewerkte olie: elke soort minerale of synthetische smeerolie die ongeschikt is geworden voor het gebruik waarvoor zij oorspronkelijk bestemd was, waaronder in ieder geval worden begrepen gebruikte olie van verbrandingsmotoren en versnellingsbakken, alsmede smeerolie, olie voor turbines en hydraulische oliën;  
+b.  afgewerkte olie: elke soort minerale of synthetische smeerolie die ongeschikt is geworden voor het gebruik waarvoor zij oorspronkelijk bestemd was, waaronder in ieder geval worden begrepen gebruikte olie van verbrandingsmotoren en versnellingsbakken, alsmede smeerolie, olie voor turbines en hydraulische oliën; 
 
 c. klein gevaarlijk afval: gevaarlijke afvalstoffen als bedoeld in een van de volgende categorieën waarvan de houder zich ontdoet door afgifte: 
 
@@ -51,7 +51,7 @@ d. scheepsafvalstoffen: afvalstoffen die bij het in bedrijf zijn of het onderhou
 e. lijst van inzamelaars: lijst van inzamelaars als bedoeld in [artikel 10.45, eerste lid, onder a, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
 
 f. instantie: instantie als bedoeld in [artikel 10.45, derde lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).     
-2.  Een wijziging van de bijlage bij beschikking nr. 2000/532/EG gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan die wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.   
+2.  Een wijziging van de bijlage bij beschikking nr. 2000/532/EG gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan die wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.  
 
 ### §  2  
 
@@ -59,31 +59,31 @@ f. instantie: instantie als bedoeld in [artikel 10.45, derde lid, van de Wet mil
 
 ### Artikel  2  
 
-Een aanvraag voor vermelding op de lijst van inzamelaars wordt gedaan bij de instantie.  
+Een aanvraag voor vermelding op de lijst van inzamelaars wordt gedaan bij de instantie. 
 
 ### Artikel  3  
 
-Bij regeling van Onze Minister wordt bepaald op welke wijze de aanvraag geschiedt en welke gegevens daarbij worden verstrekt.  
+Bij regeling van Onze Minister wordt bepaald op welke wijze de aanvraag geschiedt en welke gegevens daarbij worden verstrekt. 
 
 ### Artikel  4  
 
-Een inzamelaar die staat vermeld op de lijst van inzamelaars, meldt een verandering van de gegevens, bedoeld in artikel 3, onverwijld aan de instantie op een door Onze Minister te bepalen wijze.  
+Een inzamelaar die staat vermeld op de lijst van inzamelaars, meldt een verandering van de gegevens, bedoeld in artikel 3, onverwijld aan de instantie op een door Onze Minister te bepalen wijze. 
 
 ### Artikel  5  
 
-De instantie legt de gegevens, bedoeld in de artikelen 3 of  4, gedurende vier weken voor een ieder ter inzage.  
+De instantie legt de gegevens, bedoeld in de artikelen 3 of 4, gedurende vier weken voor een ieder ter inzage. 
 
 ### Artikel  6  
 
-De inzamelaar heeft tijdens het inzamelen een gewaarmerkte kopie, zichtbaar ten behoeve van de handhaving, aanwezig van het certificaat waaruit blijkt dat hij op de lijst van inzamelaars staat vermeld.  
+De inzamelaar heeft tijdens het inzamelen een gewaarmerkte kopie, zichtbaar ten behoeve van de handhaving, aanwezig van het certificaat waaruit blijkt dat hij op de lijst van inzamelaars staat vermeld. 
 
 ### Artikel  7  
 
-Een beschikking tot vermelding op de lijst van inzamelaars wordt voor vijf jaar afgegeven.  
+Een beschikking tot vermelding op de lijst van inzamelaars wordt voor vijf jaar afgegeven. 
 
 ### Artikel  8  
 
-Het verbod, bedoeld in [artikel 10.45, eerste lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), om zonder vermelding op een lijst van inzamelaars bedrijfsafvalstoffen of gevaarlijke afvalstoffen in te zamelen, geldt niet voor het niet-beroepsmatig inzamelen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen.  
+Het verbod, bedoeld in [artikel 10.45, eerste lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), om zonder vermelding op een lijst van inzamelaars bedrijfsafvalstoffen of gevaarlijke afvalstoffen in te zamelen, geldt niet voor het niet-beroepsmatig inzamelen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen. 
 
 ### §  3  
 
@@ -97,7 +97,7 @@ a. afgewerkte olie die behoort tot categorie I of II als bedoeld in de bijlage b
 
 b. klein gevaarlijk afval, met uitzondering van klein gevaarlijk afval afkomstig van schepen, of  
 
-c. scheepsafvalstoffen.    
+c. scheepsafvalstoffen.   
 
 ### Artikel  10  
 
@@ -117,7 +117,7 @@ f. een beschrijving van de voorzieningen die worden getroffen om te voorkomen da
 
 g. een beschrijving van de wijze waarop de ingezamelde afvalstoffen verder worden beheerd.     
 2.  De aanvraag om een vergunning wordt gedaan met een daartoe door Onze Minister vastgesteld formulier.   
-3.  De aanvraag om een vergunning wordt in vijfvoud ingediend.   
+3.  De aanvraag om een vergunning wordt in vijfvoud ingediend.  
 
 ### Artikel  11  
 
@@ -139,12 +139,12 @@ c. een door een daartoe bevoegde instantie afgegeven verklaring waaruit blijkt d
 
 a. het registratienummer van de communautaire vergunning, bedoeld in [artikel 1.1 van de Wet wegvervoer goederen](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), of van de vergunning, bedoeld in [artikel 7.1 van die wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md);  
 
-b. een kopie van een door een andere lidstaat van de Europese Unie afgegeven communautaire vergunning als bedoeld in verordening (EEG) nr. 881/92 van de Raad van de Europese Gemeenschappen van 26 maart 1992 betreffende de toegang tot de markt van het goederenvervoer over de weg in de Gemeenschap van of naar het grondgebied van een Lid-Staat of over het grondgebied van een of meer Lid-Staten (PbEG L 95);  
+b.een kopie van een door een andere lidstaat van de Europese Unie afgegeven communautaire vergunning als bedoeld in verordening (EEG) nr. 881/92 van de Raad van de Europese Gemeenschappen van 26 maart 1992 betreffende de toegang tot de markt van het goederenvervoer over de weg in de Gemeenschap van of naar het grondgebied van een Lid-Staat of over het grondgebied van een of meer Lid-Staten (PbEG L 95);
 
 c. een vergunning als bedoeld in [artikel 28, eerste lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) en een veiligheidscertificaat als bedoeld in [artikel 32, eerste lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).     
-4.  In plaats van de gegevens, bedoeld in het eerste lid, onder c, of het tweede lid, onder c, kan de aanvrager een afschrift verstrekken van het bewijs van vakbekwaamheid, bedoeld in [artikel 6, eerste lid, van de Binnenvaartwet](../../../../../wet/binnenvaartwet/BWBR0023009/README.md).   
+4.  In plaats van de gegevens, bedoeld in het eerste lid, onder c, of het tweede lid, onder c, kan de aanvrager een afschrift verstrekken van het bewijs van vakbekwaamheid, bedoeld in [artikel 6, eerste lid, van de Binnenvaartwet](../../../../../wet/binnenvaartwet/BWBR0023009/README.md).  
 
-### §  4  
+###§ 4 
 
 ####Overgangs- en slotbepalingen
 
@@ -154,29 +154,29 @@ c. een vergunning als bedoeld in [artikel 28, eerste lid, van de Spoorwegwet](..
 2.  De instantie verstrekt de aanvrager die een ontvankelijke aanvraag heeft ingediend per omgaand een bewijs van ontvangst.   
 3.  Voor de aanvrager die onmiddellijk voor het tijdstip van inwerkingtreding van dit besluit stond vermeld op de lijst van inzamelaars, blijft deze vermelding geldig totdat is beslist op de aanvraag.   
 4.  Voor de aanvrager die onmiddellijk voor het tijdstip van inwerkingtreding van dit besluit beschikt over een rechtsgeldige vergunning voor het inzamelen van de afvalstoffen, bedoeld in het eerste lid, geldt die vergunning als een vermelding op de lijst totdat is beslist op de aanvraag.   
-5.  In andere gevallen dan bedoeld in het derde en vierde lid, geldt het bewijs van ontvangst van een ontvankelijke aanvraag als vermelding op de lijst van inzamelaars totdat is beslist op de aanvraag.   
+5.  In andere gevallen dan bedoeld in het derde en vierde lid, geldt het bewijs van ontvangst van een ontvankelijke aanvraag als vermelding op de lijst van inzamelaars totdat is beslist op de aanvraag.  
 
 ### Artikel  13  
 
 1.  Degene die op het tijdstip van inwerkingtreding van dit besluit bedrijfsafvalstoffen of gevaarlijke afvalstoffen inzamelt waarvoor een vergunning is vereist, maar waarvoor voor dat tijdstip geen vergunning was vereist, dient zo spoedig mogelijk doch uiterlijk binnen drie maanden na dat tijdstip een aanvraag om een vergunning in.   
-2.  Onze Minister verstrekt de aanvrager die een ontvankelijke aanvraag heeft ingediend per omgaand een bewijs van ontvangst van de aanvraag. Dit bewijs geldt als een vergunning als bedoeld in artikel 9 totdat op de aanvraag is beslist.   
+2.  Onze Minister verstrekt de aanvrager die een ontvankelijke aanvraag heeft ingediend per omgaand een bewijs van ontvangst van de aanvraag. Dit bewijs geldt als een vergunning als bedoeld in artikel 9 totdat op de aanvraag is beslist.  
 
 ### Artikel  14  
 
 1.  In afwijking van artikel 11, eerste en tweede lid, kan tot uiterlijk drie jaar na het tijdstip van inwerkingtreding van dit besluit worden volstaan met het verstrekken van de gegevens, bedoeld in artikel 11, eerste lid, onderdelen a en b, of artikel 11, tweede lid, onderdelen a en b.   
-2.  Indien toepassing wordt gegeven aan het eerste lid, verstrekt de aanvrager uiterlijk op het tijdstip, bedoeld in het eerste lid, de gegevens, bedoeld in artikel 11, eerste lid, onderdeel c, of artikel 11, tweede lid, onderdeel c.   
+2.  Indien toepassing wordt gegeven aan het eerste lid, verstrekt de aanvrager uiterlijk op het tijdstip, bedoeld in het eerste lid, de gegevens, bedoeld in artikel 11, eerste lid, onderdeel c, of artikel 11, tweede lid, onderdeel c.  
 
 ### Artikel  15  
 
-Vergunningen voor het inzamelen van afgewerkte olie, klein gevaarlijk afval of scheepsafvalstoffen, die zijn verleend voor het tijdstip van inwerkingtreding van dit besluit, worden aangemerkt als vergunningen verleend op grond van dit besluit.  
+Vergunningen voor het inzamelen van afgewerkte olie, klein gevaarlijk afval of scheepsafvalstoffen, die zijn verleend voor het tijdstip van inwerkingtreding van dit besluit, worden aangemerkt als vergunningen verleend op grond van dit besluit. 
 
 ### Artikel  16  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  17  
 
-Dit besluit wordt aangehaald als: Besluit inzamelen afvalstoffen.  
+Dit besluit wordt aangehaald als: Besluit inzamelen afvalstoffen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -192,7 +192,7 @@ de *eenendertigste* maart 2004
 De Minister van Justitie , 
 J. P. H. Donner    
 
-### Bijlage  
+### Bijlage 
 
 ####behorende bij de artikelen 1  en 9  van het Besluit inzamelen afvalstoffen
 
@@ -216,5 +216,5 @@ I. Afgewerkte olie behoort tot categorie I, indien:
 
 3º. het vlampunt groter is dan of gelijk is aan 55 °C, en  
 
-4º. de olie na bewerking als brandstof dan wel als component ter vervaardiging van een brandstof kan worden aangewend.    
+4º. de olie na bewerking als brandstof dan wel als component ter vervaardiging van een brandstof kan worden aangewend.   
 

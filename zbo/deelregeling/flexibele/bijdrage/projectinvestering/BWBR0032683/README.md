@@ -10,7 +10,7 @@ Besluit:
 
 ####Doel
 
-Doel is de realisatie van uiteenlopende waardevolle artistieke plannen die leiden tot kennisverdieping, zichtbaarheid en/of inzichtelijkheid die uitmonden in de productie van werk dat van belang is voor de kwaliteit en de zichtbaarheid van de hedendaagse beeldende kunst en of cultureel erfgoed in Nederland. De regeling is van toepassing op kunstenaars en bemiddelaars en is bedoeld als bijdrage voor artistieke werkplannen die hetzij in de tijd begrensd zijn, hetzij leiden tot een concreet resultaat of beide, zoals onderzoek, werkperiodes en productie van nieuw werk. Deze zijn al dan niet aan te vragen gezamenlijk met een instelling, andere kunstenaars, bemiddelaars of een andere partij.  
+Doel is de realisatie van uiteenlopende waardevolle artistieke plannen die leiden tot kennisverdieping, zichtbaarheid en/of inzichtelijkheid die uitmonden in de productie van werk dat van belang is voor de kwaliteit en de zichtbaarheid van de hedendaagse beeldende kunst en of cultureel erfgoed in Nederland. De regeling is van toepassing op kunstenaars en bemiddelaars en is bedoeld als bijdrage voor artistieke werkplannen die hetzij in de tijd begrensd zijn, hetzij leiden tot een concreet resultaat of beide, zoals onderzoek, werkperiodes en productie van nieuw werk. Deze zijn al dan niet aan te vragen gezamenlijk met een instelling, andere kunstenaars, bemiddelaars of een andere partij. 
 
 ### Artikel  2  
 
@@ -22,7 +22,7 @@ Doel is de realisatie van uiteenlopende waardevolle artistieke plannen die leide
 4.  Indien de aan een kunstenaar of bemiddelaar toegekende bijdrage, exclusief de projectkosten, in een periode van 48 kalendermaanden gedurende 24 maanden een bijdrage in de investering in tijd is verstrekt, kan gedurende de resterende periode uitsluitend nog een bijdrage in de projectkosten worden verstrekt.   
 5.  Indien bij een aanvraag voor een bijdrage een andere partij is betrokken zoals een museum, een galerie, een bedrijf of een (particuliere) opdrachtgever dient de financiële bijdrage die deze bij het project betrokken partijen leveren in een aanvaardbare verhouding te staan tot de bijdrage van het fonds.   
 6.  Geen bijdrage wordt verstrekt voor productie van een reguliere publicatie, voor reguliere werkzaamheden, voor reguliere tentoonstellingskosten voor reguliere beroepskosten of voor een werkperiode in een gastatelier in binnen- of buitenland die jaarlijks via een 'open call' (openbare oproep) door het fonds worden aangeboden.   
-7.  Een bijdrage wordt voor een periode van ten hoogste twaalf maanden verstrekt.   
+7.  Een bijdrage wordt voor een periode van ten hoogste twaalf maanden verstrekt.  
 
 ### Artikel  3  
 
@@ -42,7 +42,7 @@ Naast de bepalingen vastgesteld in het Algemeen reglement, in het aanvraagformul
 
 * een dekkende begroting met offertes en,  
 
-* indien van toepassing, toezeggingen van uitnodigende of deelnemende partijen.    
+* indien van toepassing, toezeggingen van uitnodigende of deelnemende partijen.   
 
 ### Artikel  4  
 
@@ -68,19 +68,19 @@ Naast de bepalingen vastgesteld in het Algemeen reglement, in het aanvraagformul
 4.  Indien het bevoegde adviesorgaan de in het eerste lid van dit artikel bedoelde functioneren in samenhang met het plan van de aanvrager bedoeld in het tweede lid en voor zover van toepassing het plan voor de samenwerking zoals bedoeld in het derde lid niet van voldoende belang acht, komt het tot een negatief advies over de aanvraag.   
 5.  Indien het bevoegde adviesorgaan op de in het eerste lid van dit artikel bedoelde functioneren van de aanvrager in samenhang met het plan bedoeld in het tweede lid en voor zover van toepassing het plan voor de samenwerking zoals bedoeld in het derde lid wel van voldoende belang acht, brengt het een positief advies uit.   
 6.  Een positief advies kan vergezeld worden van een aanbeveling over de hoogte van de toe te kennen bijdrage alsmede de periode waarover de financiële bijdrage verstrekt wordt.   
-7.  Het bestuur kan het bevoegd adviesorgaan verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in het eerste, tweede en derde lid. Alsdan onderbouwt het adviesorgaan zijn prioritering.   
+7.  Het bestuur kan het bevoegd adviesorgaan verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in het eerste, tweede en derde lid. Alsdan onderbouwt het adviesorgaan zijn prioritering.  
 
 ### Artikel  5  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2013. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2012, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2013.  
+Deze regeling treedt in werking met ingang van 1 januari 2013. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2012, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2013. 
 
 ### Artikel  6  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Deelregeling Flexibele Bijdrage Projectinvestering.  
+Deze regeling wordt aangehaald als: Deelregeling Flexibele Bijdrage Projectinvestering. 
 Deze regeling zal in de Staatscourant worden geplaatst.  
 
 De stichting Mondriaan Fonds, 

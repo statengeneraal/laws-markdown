@@ -7,7 +7,7 @@ De staatssecretaris van Financiën heeft het volgende besloten. In dit besluit i
 
 ####Inleiding
 
-Per 1 januari 2013 wijzigt de pensioenleeftijd in de [Algemene ouderdomswet](../../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) (AOW) door inwerkingtreding van de [Wet verhoging AOW- en pensioenrichtleeftijd](../../../../../../../../../../wet/wet/verhoging/aow-/en/pensioenrichtleeftijd/BWBR0031799/README.md). Deze wet regelt naast een stapsgewijze verhoging van de AOW-gerechtigde leeftijd vanaf 1 januari 2013, ook de verhoging van de pensioenrichtleeftijd voor het aanvullende ouderdomspensioen naar 67 jaar per 1 januari 2014. Tijdens de behandeling van deze wet in de Eerste Kamer is een motie aangenomen over het laten vervallen van het wettelijke doorwerkvereiste bij uitstel van het aanvullend pensioen. In deze motie wordt geconstateerd dat het vanaf 1 januari 2013 om fiscale redenen niet altijd mogelijk is om het aanvullend pensioen gelijktijdig te laten ingaan met de AOW-uitkering en dat dit tot onduidelijke situaties leidt voor zowel pensioenuitvoerders als burgers. Ook zou dit anders hoge uitvoeringslasten meebrengen. Dit besluit strekt ertoe het wettelijke doorwerkvereiste tijdelijk buiten werking te laten. <sup> 1  Motie-Noten (PvdA) c.s. over het laten vervallen van het doorwerkvereiste (kamerstuk EK 33.290, I).  </sup> <sup> 2  Zie artikel 18a, vierde lid, onder 2°, van de Wet op de loonbelasting 1964.  </sup>    
+Per 1 januari 2013 wijzigt de pensioenleeftijd in de [Algemene ouderdomswet](../../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) (AOW) door inwerkingtreding van de [Wet verhoging AOW- en pensioenrichtleeftijd](../../../../../../../../../../wet/wet/verhoging/aow-/en/pensioenrichtleeftijd/BWBR0031799/README.md). Deze wet regelt naast een stapsgewijze verhoging van de AOW-gerechtigde leeftijd vanaf 1 januari 2013, ook de verhoging van de pensioenrichtleeftijd voor het aanvullende ouderdomspensioen naar 67 jaar per 1 januari 2014. Tijdens de behandeling van deze wet in de Eerste Kamer is een motie<sup> 1  Motie-Noten (PvdA) c.s. over het laten vervallen van het doorwerkvereiste (kamerstuk EK 33.290, I). </sup> aangenomen over het laten vervallen van het wettelijke doorwerkvereiste<sup> 2  Zie artikel 18a, vierde lid, onder 2°, van de Wet op de loonbelasting 1964. </sup> bij uitstel van het aanvullend pensioen. In deze motie wordt geconstateerd dat het vanaf 1 januari 2013 om fiscale redenen niet altijd mogelijk is om het aanvullend pensioen gelijktijdig te laten ingaan met de AOW-uitkering en dat dit tot onduidelijke situaties leidt voor zowel pensioenuitvoerders als burgers. Ook zou dit anders hoge uitvoeringslasten meebrengen. Dit besluit strekt ertoe het wettelijke doorwerkvereiste tijdelijk buiten werking te laten.    
 ### 2  
 
 ####Het wettelijke doorwerkvereiste
@@ -32,5 +32,5 @@ Den Haag
 5 december 2012   
 
 De 
-staatssecretaris van Financiën,
-F.H.H.Weekers.   
+staatssecretaris van Financiën, 
+F.H.H. Weekers.     

@@ -33,8 +33,8 @@ Den Haag
 27 november 2012   
 
 De 
-staatssecretaris van Financiën,
-F.H.H.Weekers.  
+staatssecretaris van Financiën, 
+F.H.H. Weekers.    
 
 ### Bijlage  
 
@@ -56,11 +56,11 @@ Vanaf 2014 geldt voor de opbouw in een middelloonstelsel een maximaal opbouwperc
 
 4. Voor een hoger pensioengevend loon wordt de verhoogde franchise berekend door het sleutelbedrag van stap 3 te verhogen met: (1 - de factor van stap 1) * (het geldende pensioengevend loon – € 20.000). Wederom in cijfers: Stel pensioengevend loon is € 25.000. De verhoogde franchise wordt dan afgerond: € 13.370,36 + [(1 – 0,955556) * (€ 25.000 – € 20.000)] = € 13.592,58.  
 
-5. Bij toepassing van deze verhoogde franchise blijft de opbouw van 2,25% van (€ 25.000 – € 13.592,58) binnen de kaders van hoofdstuk IIB, Wet LB. Ter controle: 2,25% van (€ 25.000 – € 13.592,58) = € 256,67. De opbouw volgens de wet vanaf 2014 bedraagt 2,15% van (€ 25.000 – € 13.062) = € 256,67 (NB. Er is gerekend met de franchise van 2012).   Een andere mogelijkheid is een vaste franchise overeen te komen. Die kan op een zodanig niveau worden vastgesteld dat alle overschrijdingen worden gecompenseerd. Dit is goed mogelijk in pensioenregelingen met een gemaximeerde pensioengrondslag. Er hoeft dan niet steeds te worden gerekend bij verschillende pensioengrondslagen.  
+5. Bij toepassing van deze verhoogde franchise blijft de opbouw van 2,25% van (€ 25.000 – € 13.592,58) binnen de kaders van hoofdstuk IIB, Wet LB. Ter controle: 2,25% van (€ 25.000 – € 13.592,58) = € 256,67. De opbouw volgens de wet vanaf 2014 bedraagt 2,15% van (€ 25.000 – € 13.062) = € 256,67 (NB. Er is gerekend met de franchise van 2012).   Een andere mogelijkheid is een vaste franchise overeen te komen. Die kan op een zodanig niveau worden vastgesteld dat alle overschrijdingen worden gecompenseerd. Dit is goed mogelijk in pensioenregelingen met een gemaximeerde pensioengrondslag. Er hoeft dan niet steeds te worden gerekend bij verschillende pensioengrondslagen. 
 
 ### II  
 
 ####Verlaagde pensioengrondslag
 
-Een andere mogelijkheid is het verlagen van de pensioengrondslag. Vanaf 2014 geldt voor de opbouw in een eindloonstelsel een maximaal opbouwpercentage van 1,9%. Door bijvoorbeeld de pensioengrondslag in een eindloonstelsel te vermenigvuldigen met de factor 1,9/2, is 2% van deze gecorrigeerde pensioengrondslag gelijk aan 1,9% van de niet gecorrigeerde pensioengrondslag. In cijfers: [(€ 20.000 – € 13.062) * 1,9/2] * 2% = € 131,82 deze uitkomst is gelijk aan (€ 20.000 – € 13.062) * 1,9% = € 131,82. Bij toepassing van een opbouwpercentage van 2,25% in een middelloonstelsel zal de correctiefactor 2,15/2,25 moeten worden toegepast.  
+Een andere mogelijkheid is het verlagen van de pensioengrondslag. Vanaf 2014 geldt voor de opbouw in een eindloonstelsel een maximaal opbouwpercentage van 1,9%. Door bijvoorbeeld de pensioengrondslag in een eindloonstelsel te vermenigvuldigen met de factor 1,9/2, is 2% van deze gecorrigeerde pensioengrondslag gelijk aan 1,9% van de niet gecorrigeerde pensioengrondslag. In cijfers: [(€ 20.000 – € 13.062) * 1,9/2] * 2% = € 131,82 deze uitkomst is gelijk aan (€ 20.000 – € 13.062) * 1,9% = € 131,82. Bij toepassing van een opbouwpercentage van 2,25% in een middelloonstelsel zal de correctiefactor 2,15/2,25 moeten worden toegepast. 
 

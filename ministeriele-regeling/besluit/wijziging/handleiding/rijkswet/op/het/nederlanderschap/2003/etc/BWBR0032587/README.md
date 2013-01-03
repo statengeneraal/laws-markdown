@@ -8,21 +8,21 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Handleiding Rijkswet op het Nederlanderschap 2003.   
+Wijzigt de Handleiding Rijkswet op het Nederlanderschap 2003. 
 
 ### Artikel  II  
 
-De in artikel I genoemde wijzigingen zijn niet van toepassing op verklaringen tot verkrijging van het Nederlanderschap en verzoeken om verlening van het Nederlanderschap ingediend vóór de inwerkingtreding van dit besluit.  
+De in artikel I genoemde wijzigingen zijn niet van toepassing op verklaringen tot verkrijging van het Nederlanderschap en verzoeken om verlening van het Nederlanderschap ingediend vóór de inwerkingtreding van dit besluit. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking op 1 april 2013.  
+Dit besluit treedt in werking op 1 april 2013. 
 Dit besluit zal (met de toelichting) in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 13 december 2012   
 
 De 
-Staatssecretaris van Veiligheid en Justitie,namens deze:
-L.Mulder,
-Directeur-generaal Vreemdelingenzaken.   
+Staatssecretaris van Veiligheid en Justitie, namens deze: 
+L. Mulder,  
+Directeur-generaal Vreemdelingenzaken.    

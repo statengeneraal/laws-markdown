@@ -16,24 +16,24 @@ b. het stoppen van een bloeding in de geboorteweg;
 
 c. het behandelen van een uterusprolaps indien deze tijdens de geboorte van de vrucht ontstaat;  
 
-d. het afbinden van een bloedende navelstreng van een pasgeboren vrucht.    
+d. het afbinden van een bloedende navelstreng van een pasgeboren vrucht.   
 
 ### Artikel  3  
 
-Deze regeling treedt in werking op hetzelfde tijdstip als waarop de [artikelen 5](../../../../../../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) en [6 van de Wet op de uitoefening van de diergeneeskunde 1990](../../../../../../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) in werking treden.  
+Deze regeling treedt in werking op hetzelfde tijdstip als waarop de [artikelen 5](../../../../../../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) en [6 van de Wet op de uitoefening van de diergeneeskunde 1990](../../../../../../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) in werking treden. 
 
 ### Artikel  4  
 
-Deze regeling kan worden aangehaald als: Regeling ingevolge artikelen 5 en 6 van de WUD 1990.  
+Deze regeling kan worden aangehaald als: Regeling ingevolge artikelen 5 en 6 van de WUD 1990. 
 
 's-Gravenhage 
 3 december 1991    
 
 De 
-Staatssecretaris van Landbouw, Natuurbeheer en Visserij, 
+Staatssecretaris van Landbouw, Natuurbeheer en Visserij,  
 
 voor deze: 
 
 De 
 secretaris-generaal, 
-T. H. J.Joustra    
+T. H. J. Joustra      

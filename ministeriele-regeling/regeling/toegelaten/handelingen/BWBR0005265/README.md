@@ -8,28 +8,28 @@ Besluit:
 
 ### Artikel  1  
 
-1.  In deze regeling wordt verstaan onder: 
+1. In deze regeling wordt verstaan onder: 
 
-a. *wet:*[Wet op de uitoefening van de diergeneeskunde 1990](../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md);  
+a.  *wet:* [Wet op de uitoefening van de diergeneeskunde 1990](../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md);  
 
-b. *UDD-diergeneesmiddel:* diergeneesmiddel dat uitsluitend kan worden afgeleverd door toepassing door de dierenarts als bedoeld in [artikel 2.17, eerste lid, van de Regeling diergeneesmiddelen](../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md).     
-2.  Deze regeling berust mede op [artikel 5.8, eerste lid, onderdelen c en d, van het Besluit diergeneesmiddelen](../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).   
+b.  *UDD-diergeneesmiddel:* diergeneesmiddel dat uitsluitend kan worden afgeleverd door toepassing door de dierenarts als bedoeld in [artikel 2.17, eerste lid, van de Regeling diergeneesmiddelen](../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md).   
+2.  Deze regeling berust mede op [artikel 5.8, eerste lid, onderdelen c en d, van het Besluit diergeneesmiddelen](../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md). 
 
-### Artikel  2  
+###Artikel 2 
 
-Het onvruchtbaar maken van mannelijke biggen, bedoeld in [artikel 7, tweede lid, onderdeel c, van de wet](../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md), is de houders van die biggen toegestaan tot een leeftijd van deze dieren van ten hoogste zeven dagen.  
+Het onvruchtbaar maken van mannelijke biggen, bedoeld in [artikel 7, tweede lid, onderdeel c, van de wet](../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md), is de houders van die biggen toegestaan tot een leeftijd van deze dieren van ten hoogste zeven dagen.
 
 ### Artikel  3  
 
 Van het verbod tot het verrichten van operaties, bedoeld in [artikel 7, eerste lid, van de wet](../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) wordt vrijstelling verleend: 
 
-a. een personen die bedrijfsmatig dieren houden op een landbouwbedrijf met betrekking tot de in artikel 4 genoemde handelingen;  
+a. een personen die bedrijfsmatig dieren houden op een landbouwbedrijf met betrekking tot de in artikel 4 genoemde handelingen; 
 
-b. aan houders van gezelschapsdieren voor zover het betreft het subcutaan of intramusculair toedienen van andere dan UDD-diergeneesmiddelen;  
+b. aan houders van gezelschapsdieren voor zover het betreft het subcutaan of intramusculair toedienen van andere dan UDD-diergeneesmiddelen; 
 
-c. aan personen die bedrijfsmatig ongewervelde dieren houden;  
+c. aan personen die bedrijfsmatig ongewervelde dieren houden; 
 
-d. aan houders van vissen met betrekking tot de in artikel 4, onderdelen l, r en s genoemde handelingen.    
+d. aan houders van vissen met betrekking tot de in artikel 4, onderdelen l, r en s genoemde handelingen.  
 
 ### Artikel  4  
 
@@ -69,25 +69,25 @@ p. het verwijderen van staartjes bij lammeren tot de leeftijd van twee dagen en 
 
 q. het openleggen van zoolzweren bij runderen, schapen en geiten;  
 
-r. het aanbrengen van uitwendige merktekens bij vissen;  
+r.  het aanbrengen van uitwendige merktekens bij vissen;  
 
-s. het verwijderen of perforeren van delen van vinnen, vetvinnen of vinstralen bij vissen;  
+s.  het verwijderen of perforeren van delen van vinnen, vetvinnen of vinstralen bij vissen;  
 
-t. het aanbrengen van een neuskapje bij fazanten;  
+t.  het aanbrengen van een neuskapje bij fazanten;  
 
-u. het verwijderen van bijspenen bij runderen tot de leeftijd van vier weken, en  
+u.  het verwijderen van bijspenen bij runderen tot de leeftijd van vier weken, en  
 
-v. het verwijderen van neuslellen bij kalkoenen tot de leeftijd van twee dagen;  
+v.  het verwijderen van neuslellen bij kalkoenen tot de leeftijd van twee dagen;  
 
-w. afnemen van bloed bij kalkoenen en eenden in het kader van het monitoringsprogramma, bedoeld in de regels die het Productschap Pluimvee en Eieren heeft gesteld op grond van [artikel 91, tweede lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md).    
+w. afnemen van bloed bij kalkoenen en eenden in het kader van het monitoringsprogramma, bedoeld in de regels die het Productschap Pluimvee en Eieren heeft gesteld op grond van [artikel 91, tweede lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md).   
 
 ### Artikel  5  
 
-Van het verbod tot het verrichten van handelingen, bedoeld in [artikel 7, eerste lid, van de wet](../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) wordt, doch uitsluitend voor zover die handelingen worden verricht onder de leiding van een dierenarts en gedurende de periode waarbinnen de opleiding wordt gevolgd, vrijstelling verleend aan personen, die een opleiding volgen ter verkrijging van de hoedanigheid van dierenarts.  
+Van het verbod tot het verrichten van handelingen, bedoeld in [artikel 7, eerste lid, van de wet](../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) wordt, doch uitsluitend voor zover die handelingen worden verricht onder de leiding van een dierenarts en gedurende de periode waarbinnen de opleiding wordt gevolgd, vrijstelling verleend aan personen, die een opleiding volgen ter verkrijging van de hoedanigheid van dierenarts. 
 
 ### Artikel  6  
 
-Van het verbod tot het verrichten van operaties, bedoeld in [artikel 7, eerste lid, van de wet](../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md), wordt voor zover het betreft het toepassen van epiduraalanesthesie bij runderen, doch uitsluitend voor zover deze handelingen worden verricht onder de leiding van een dierenarts en gedurende de periode waarbinnen de opleiding wordt gevolgd, vrijstelling verleend aan personen, die een opleiding volgen in het kader van [artikel 6 van het Besluit paraveterinairen](../../../../../AMvB/besluit/paraveterinairen/BWBR0005210/README.md) (Stb. 1991, 526).  
+Van het verbod tot het verrichten van operaties, bedoeld in [artikel 7, eerste lid, van de wet](../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md), wordt voor zover het betreft het toepassen van epiduraalanesthesie bij runderen, doch uitsluitend voor zover deze handelingen worden verricht onder de leiding van een dierenarts en gedurende de periode waarbinnen de opleiding wordt gevolgd, vrijstelling verleend aan personen, die een opleiding volgen in het kader van [artikel 6 van het Besluit paraveterinairen](../../../../../AMvB/besluit/paraveterinairen/BWBR0005210/README.md) (Stb. 1991, 526). 
 
 ### Artikel  7  
 
@@ -100,15 +100,15 @@ het toepassen bij een dier van een algemene of plaatselijke verdoving;
 
 het toepassen van diergeneesmiddelen aangewezen krachtens [artikel 2.17, tweede lid](../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md), of [artikel 2.18 van de Regeling diergeneesmiddelen](../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md);  
 
-handelingen waarbij levende weefsels worden verbroken ten behoeve van een door een dierenarts uit te voeren operatie waarbij een dier onvruchtbaar wordt gemaakt of een vrucht wordt verwijderd.     
+handelingen waarbij levende weefsels worden verbroken ten behoeve van een door een dierenarts uit te voeren operatie waarbij een dier onvruchtbaar wordt gemaakt of een vrucht wordt verwijderd.    
 
 ### Artikel  8  
 
-Deze regeling treedt in werking met ingang van hetzelfde tijdstip als waarop [artikel 7 van de wet](../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) in werking treedt.  
+Deze regeling treedt in werking met ingang van hetzelfde tijdstip als waarop [artikel 7 van de wet](../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) in werking treedt. 
 
 ### Artikel  9  
 
-Deze regeling kan worden aangehaald als: Regeling toegelaten handelingen.  
+Deze regeling kan worden aangehaald als: Regeling toegelaten handelingen. 
 
 's-Gravenhage 
 11 november 1991    
@@ -120,4 +120,4 @@ voor deze:
 
 De 
 secretaris-generaal, 
-T. H. J.Joustra    
+T. H. J. Joustra      

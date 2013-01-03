@@ -12,17 +12,17 @@ Als personen belast met het toezicht op de naleving van de [Wet normering bezold
 
 a. de controller en de assistent-controller (kolom Services) van het CIBG;  
 
-b. het Kolomhoofd Financiën van het CIBG.    
+b. het Kolomhoofd Financiën van het CIBG.   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 januari 2013.  
+Dit besluit treedt in werking met ingang van 1 januari 2013. 
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders WNT / VWS.  
+Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders WNT / VWS. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers   
+E.I. Schippers     

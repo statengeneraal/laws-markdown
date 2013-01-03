@@ -2,7 +2,7 @@
 
 ##Omzetbelasting, AWBZ- en Wmo- geïndiceerde zorg
 
-De staatssecretaris van Financiën heeft het volgende besloten.     *Dit besluit is een actualisering van het besluit van 21 maart 2007, nr.* *2006/2764M. Het besluit bevat goedkeuringen waaronder een nieuwe goedkeuring dat de vrijstelling tot nader order van toepassing blijft op de diensten op het gebied van de AWBZ-en de Wmozorg die tot 1 januari 2013 onder de reikwijdte vielen van* [artikel 11, eerste lid, onderdeel g, onder 2°, van de wet](../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) *. Ook bevat het besluit een goedkeuring voor doventolken om een tijdelijke vrijstelling voor sommige prestaties buiten toepassing te laten.*    
+De staatssecretaris van Financiën heeft het volgende besloten.     *Dit besluit is een actualisering van het besluit van 21 maart 2007, nr.* *2006/2764M. Het besluit bevat goedkeuringen waaronder een nieuwe goedkeuring dat de vrijstelling tot nader order van toepassing blijft op de diensten op het gebied van de AWBZ-en de Wmozorg die tot 1 januari 2013 onder de reikwijdte vielen van *[artikel 11, eerste lid, onderdeel g, onder 2°, van de wet](../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)*. Ook bevat het besluit een goedkeuring voor doventolken om een tijdelijke vrijstelling voor sommige prestaties buiten toepassing te laten.*   
 ### 1  
 
 ####Inleiding
@@ -14,22 +14,22 @@ Dit besluit behandelt de vrijstelling voor diensten op het gebied van de AWBZ- e
 
 *Btw:* omzetbelasting  
 
-*Wet:* [wet op de omzetbelasting 1968](../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)   
+*Wet:* [wet op de omzetbelasting 1968](../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)  
 
-*Besluit:* [Uitvoeringsbesluit omzetbelasting 1968](../../../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md)   
+*Besluit:* [Uitvoeringsbesluit omzetbelasting 1968](../../../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md)  
 
-*btw-richtlijn:*Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijk stelsel van belasting over de toegevoegde waarde (PbEU L 347 van 11 december 2006)  
+*btw-richtlijn:* Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijk stelsel van belasting over de toegevoegde waarde (PbEU L 347 van 11 december 2006)  
 
 *AMvB:* Algemene maatregel van bestuur  
 
-*AWBZ:* [algemene Wet Bijzondere Ziektekosten](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)   
+*AWBZ:* [algemene Wet Bijzondere Ziektekosten](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)  
 
-*Wmo:* [Wet maatschappelijke ondersteuning](../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md)   
+*Wmo:* [Wet maatschappelijke ondersteuning](../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md)  
 
 *CIZ:* Centrum Indicatiestelling       
 ### 2  
 
-#### [Artikel 11, eerste lid, onderdeel g, 2°, van de wet](../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) 
+####[Artikel 11, eerste lid, onderdeel g, 2°, van de wet](../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)
 
 ### 2.1  
 
@@ -77,11 +77,11 @@ De vrijstelling is alleen van toepassing voor het verlenen van daadwerkelijke kr
 
 ####Goedkeuring doventolken
 
-In [artikel 11, eerste lid, onderdeel g,2 <sup>e</sup>, van de wet](../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) is een verwijzing opgenomen naar [artikel 2, eerste lid, onderdeel h, van het Besluit zorgaanspraken AWBZ](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md). De herschikking van dit artikel 2 leidt ertoe dat vanaf 1 januari 2013 onderdeel h daarvan een regeling bevat voor de zorg voor doventolken bij het voeren van een gesprek in de leefsituatie. De verwijzing naar artikel 2, eerste lid, onderdeel h, zal bij de eerstvolgende gelegenheid komen te vervallen. Dit heeft tot gevolg dat de hiervoor genoemde prestaties van doventolken slechts tijdelijk zijn vrijgesteld. In verband daarmee en vooruitlopend op een aanpassing van de wetgeving keur ik daarom het volgende goed.   
+In [artikel 11, eerste lid, onderdeel g,2<sup>e</sup>, van de wet](../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) is een verwijzing opgenomen naar [artikel 2, eerste lid, onderdeel h, van het Besluit zorgaanspraken AWBZ](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md). De herschikking van dit artikel 2 leidt ertoe dat vanaf 1 januari 2013 onderdeel h daarvan een regeling bevat voor de zorg voor doventolken bij het voeren van een gesprek in de leefsituatie. De verwijzing naar artikel 2, eerste lid, onderdeel h, zal bij de eerstvolgende gelegenheid komen te vervallen. Dit heeft tot gevolg dat de hiervoor genoemde prestaties van doventolken slechts tijdelijk zijn vrijgesteld. In verband daarmee en vooruitlopend op een aanpassing van de wetgeving keur ik daarom het volgende goed.   
 
 ####Goedkeuring
 
-Ik keur goed dat doventolken de vrijstelling buiten toepassing laten zoals die vanaf 1 januari 2013 op hen van toepassing is ingevolge [artikel 11, eerste lid, onderdeel g,2 <sup>e</sup> van de wet](../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) j <sup>o</sup>[artikel 2, eerste lid, onderdeel h, van het Besluit zorgaanspraken AWBZ](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md).      
+Ik keur goed dat doventolken de vrijstelling buiten toepassing laten zoals die vanaf 1 januari 2013 op hen van toepassing is ingevolge [artikel 11, eerste lid, onderdeel g,2<sup>e</sup> van de wet](../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) j<sup>o</sup> [artikel 2, eerste lid, onderdeel h, van het Besluit zorgaanspraken AWBZ](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md).      
 ### 3  
 
 ####Ingetrokken regeling[en]
@@ -99,5 +99,5 @@ Den Haag
 21 december 2012   
 
 De 
-staatssecretaris van Financiën,
-F.H.H.Weekers.   
+staatssecretaris van Financiën, 
+F.H.H. Weekers.     

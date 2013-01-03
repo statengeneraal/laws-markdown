@@ -2,7 +2,7 @@
 
 ##Tariefbeschikking tweedelijns curatieve GGZ
 
-De Nederlandse Zorgautoriteit heeft met inachtneming van [Hoofdstuk 4, paragrafen 4.2](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [4.4, van de Wet marktordening gezondheidszorg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg), <sup> 1  De term ‘tweedelijns’ is hier bewust gekozen ter onderscheiding van de eerstelijns psychologische zorg, waarvoor vrije tarieven gelden als bedoeld in artikel 50, eerste lid, onderdeel a, van de Wmg. Op laatstgenoemde categorie zorg is deze tariefbeschikking derhalve niet van toepassing.  </sup>  *en meer in het bijzonder:*  de [artikelen 35](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [50, eerste lid, onderdelen a, b en c, van de Wmg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), alsmede de beleidsregels: 
+<sup>1De term ‘tweedelijns’ is hier bewust gekozen ter onderscheiding van de eerstelijns psychologische zorg, waarvoor vrije tarieven gelden als bedoeld in artikel 50, eerste lid, onderdeel a, van de Wmg. Op laatstgenoemde categorie zorg is deze tariefbeschikking derhalve niet van toepassing.</sup>De Nederlandse Zorgautoriteit heeft met inachtneming van [Hoofdstuk 4, paragrafen 4.2](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [4.4, van de Wet marktordening gezondheidszorg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg),  *en meer in het bijzonder:*  de [artikelen 35](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [50, eerste lid, onderdelen a, b en c, van de Wmg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), alsmede de beleidsregels: 
 
 – Invoering normatieve huisvestingscomponent (NHC) in de curatieve GGZ, kenmerk BR/CU-5064;  
 
@@ -18,13 +18,13 @@ De Nederlandse Zorgautoriteit heeft met inachtneming van [Hoofdstuk 4, paragrafe
 
 – Verplichte aanlevering minimale dataset GGZ Zvw, kenmerk [NR/CU-519](../../../../../../zbo/regeling/verplichte/aanlevering/minimale/dataset/ggz/zvw/BWBR0031643/README.md);  
 
-– Informatieverstrekking DBC-informatie, kenmerk [NR/CU-528](../../../../../../zbo/regeling/informatieverstrekking/gebudgetteerde/zorgaanbieders/van/etc/BWBR0032495/README.md);    *besloten:*  dat rechtsgeldig  *door:*  gebudgetteerde en niet-gebudgetteerde zorgaanbieders als bedoeld in artikel 4, onder d en e, van de beleidsregel ‘Invoering DBC-bekostiging gebudgetteerde zorgaanbieders in de curatieve GGZ’(BR/CU-5073)  *aan:*  ziektekostenverzekeraars en (niet-)verzekerden <sup> 2  Voor de toepassing van deze tariefbeschikking wordt een persoon, die:    *  krachtens de sociale ziektekostenwetgeving van een andere staat verzekerd is en    *  in Nederland woont of hier tijdelijk verblijft en    *  krachtens een Verordening van de Raad van de Europese Unie, dan wel krachtens een door Nederland ondertekend bilateraal of multilateraal verdrag, recht heeft op verstrekkingen overeenkomstig het bepaalde bij of krachtens de Zorgverzekeringswet en de Algemene Wet Bijzondere Ziektekosten,     gelijkgesteld met een Zorgverzekeringswet-, respectievelijk AWBZ-verzekerde.  </sup> in rekening mag worden gebracht: de prestaties en maximaal de bijbehorende bedragen (in euro’s) zoals opgenomen in bijlage 1 van deze beschikking (Bijlage 1 maakt integraal deel uit van deze beschikking), met inachtneming van de hierna genoemde voorwaarden <sup> 3  Voor de prestatiebeschrijving ‘onderlinge dienstverlening’ geldt een vrij tarief als bedoeld in artikel 50, eerste lid, onder a, Wmg.  </sup>   
+– Informatieverstrekking DBC-informatie, kenmerk [NR/CU-528](../../../../../../zbo/regeling/informatieverstrekking/gebudgetteerde/zorgaanbieders/van/etc/BWBR0032495/README.md);    *besloten:*  dat rechtsgeldig  *door:*  gebudgetteerde en niet-gebudgetteerde zorgaanbieders als bedoeld in artikel 4, onder d en e, van de beleidsregel ‘Invoering DBC-bekostiging gebudgetteerde zorgaanbieders in de curatieve GGZ’(BR/CU-5073)  *aan:*  ziektekostenverzekeraars en (niet-)verzekerden<sup> 2  Voor de toepassing van deze tariefbeschikking wordt een persoon, die:   * krachtens de sociale ziektekostenwetgeving van een andere staat verzekerd is en    * in Nederland woont of hier tijdelijk verblijft en    * krachtens een Verordening van de Raad van de Europese Unie, dan wel krachtens een door Nederland ondertekend bilateraal of multilateraal verdrag, recht heeft op verstrekkingen overeenkomstig het bepaalde bij of krachtens de Zorgverzekeringswet en de Algemene Wet Bijzondere Ziektekosten,    gelijkgesteld met een Zorgverzekeringswet-, respectievelijk AWBZ-verzekerde. </sup>  in rekening mag worden gebracht: de prestaties en maximaal de bijbehorende bedragen<sup> 3  Voor de prestatiebeschrijving ‘onderlinge dienstverlening’ geldt een vrij tarief als bedoeld in artikel 50, eerste lid, onder a, Wmg. </sup> (in euro’s) zoals opgenomen in bijlage 1 van deze beschikking (Bijlage 1 maakt integraal deel uit van deze beschikking), met inachtneming van de hierna genoemde voorwaarden   
 
 ####Aanvullende voorschriften
 
 ####Maximumtarieven
 
-De in deze tariefbeschikking weergegeven tarieven zijn maximumtarieven als bedoeld in [artikel 50, eerste lid, onder c, van de Wmg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md). <sup> 4  Met uitzondering van de prestatiebeschrijving ‘onderlinge dienstverlening’, waarvoor een vrij tarief als bedoeld in artikel 50, eerste lid, onder a, Wmg, geldt.  </sup>    
+De in deze tariefbeschikking weergegeven tarieven zijn maximumtarieven<sup> 4  Met uitzondering van de prestatiebeschrijving ‘onderlinge dienstverlening’, waarvoor een vrij tarief als bedoeld in artikel 50, eerste lid, onder a, Wmg, geldt. </sup> als bedoeld in [artikel 50, eerste lid, onder c, van de Wmg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).    
 
 ####Bandbreedte
 
@@ -84,231 +84,231 @@ unitmanager Geestelijke Gezondheidszorg
 | --- |  *Geen behandeling bij 24-uurs verblijf*   | --- |
 | --- | 000  | Geen behandeling bij 24-uursverblijf  |  *€ 0,00*   |
 | --- |  *Indirecte tijd*   | --- |
-| --- | 002  | Indirect - vanaf 0 tot en met 49 minuten  |  *€ 42,16*   |
-| --- | 003  | Indirect - vanaf 50 tot en met 99 minuten  |  *€ 120,74*   |
+| --- | 002  | Indirect - vanaf 0 tot en met 49 minuten  |  *€ 42,16 *   |
+| --- | 003  | Indirect - vanaf 50 tot en met 99 minuten  |  *€ 120,74 *   |
 | --- | 259  | Indirect - vanaf 100 minuten  |  *€ 234,81*   |
 | --- |  *Diagnostiek*   | --- |
 | --- | 007  | Diagnostiek - vanaf 0 tot en met 99 minuten  |  *€ 127,41*   |
-| --- | 008  | Diagnostiek - vanaf 100 tot en met 199 minuten  |  *€ 266,41*   |
+| --- | 008  | Diagnostiek - vanaf 100 tot en met 199 minuten  |  *€ 266,41 *   |
 | --- | 009  | Diagnostiek - vanaf 200 tot en met 399 minuten  |  *€ 510,81*   |
-| --- | 162  | Diagnostiek - vanaf 400 tot en met 799 minuten  |  *€ 970,58*   |
-| --- | 261  | Diagnostiek - vanaf 800 tot 1.199 minuten  |  *€ 1.704,05*   |
-| --- | 262  | Diagnostiek - vanaf 1.200 tot en met 1.799 minuten (alleen jeugd)  |  *€ 2.492,71*   |
+| --- | 162  | Diagnostiek - vanaf 400 tot en met 799 minuten  |  *€ 970,58 *   |
+| --- | 261  | Diagnostiek - vanaf 800 tot 1.199 minuten  |  *€ 1.704,05 *   |
+| --- | 262  | Diagnostiek - vanaf 1.200 tot en met 1.799 minuten (alleen jeugd)  |  *€ 2.492,71 *   |
 | --- | 263  | Diagnostiek - vanaf 1.800 minuten (alleen jeugd)  |  *€ 4.113,43*   |
 | --- |  *Crisis*   | --- | --- |
-| --- | 013  | Crisis - vanaf 0 tot en met 99 minuten  |  *€ 117,80*   |
+| --- | 013  | Crisis - vanaf 0 tot en met 99 minuten  |  *€ 117,80 *   |
 | --- | 014  | Crisis - vanaf 100 tot en met 199 minuten  |  *€ 261,83*   |
 | --- | 015  | Crisis - vanaf 200 tot en met 399 minuten  |  *€ 512,07*   |
 | --- | 016  | Crisis - vanaf 400 tot en met 799 minuten  |  *€ 967,49*   |
 | --- | 165  | Crisis - vanaf 800 tot en met 1.199 minuten  |  *€ 1.681,04*   |
 | --- | 213  | Crisis - vanaf 1.200 tot en met 1.799 minuten  |  *€ 2.475,99*   |
-| --- | 214  | Crisis - vanaf 1.800 minuten  |  *€ 4.054,10*   |
+| --- | 214  | Crisis - vanaf 1.800 minuten  |  *€ 4.054,10 *   |
 |  *Productgroepen Behandeling Kort*   | --- |
-| --- | 215  | Behandeling kort - vanaf 0 tot en met 99 minuten  |  *€ 124,88*   |
-| --- | 216  | Behandeling kort - vanaf 100 tot en met 199 minuten  |  *€ 292,46*   |
-| --- | 217  | Behandeling kort - vanaf 200 tot en met 399 minuten  |  *€ 536,37*   |
-| --- | 264  | Behandeling kort - vanaf 400 minuten  |  *€ 901,05*   |
+| --- | 215  | Behandeling kort - vanaf 0 tot en met 99 minuten   |  *€ 124,88 *   |
+| --- | 216  | Behandeling kort - vanaf 100 tot en met 199 minuten   |  *€ 292,46 *   |
+| --- | 217  | Behandeling kort - vanaf 200 tot en met 399 minuten   |  *€ 536,37*   |
+| --- | 264  | Behandeling kort - vanaf 400 minuten   |  *€ 901,05*   |
 |  *Productgroepen Langdurende of intensieve behandeling*   | --- |
 | --- |  *Aandachtstekort- en gedragsstoornissen*   | --- |
-| --- | 027  | Aandachtstekort - en gedrag - vanaf 250 tot en met 799 minuten  |  *€ 1.104,60*   |
+| --- | 027  | Aandachtstekort - en gedrag - vanaf 250 tot en met 799 minuten  |  *€ 1.104,60 *   |
 | --- | 169  | Aandachtstekort - en gedrag - vanaf 800 tot en met 1.799 minuten  |  *€ 2.184,82*   |
-| --- | 030  | Aandachtstekort - en gedrag - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.917,39*   |
-| --- | 031  | Aandachtstekort - en gedrag - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.721,94*   |
-| --- | 131  | Aandachtstekort - en gedrag - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.913,16*   |
-| --- | 170  | Aandachtstekort - en gedrag - vanaf 12.000 tot en met 17.999 minuten  |  *€ 24.674,42*   |
-| --- | 221  | Aandachtstekort - en gedrag - vanaf 18.000 tot en met 23.999 minuten  |  *€ 35.120,78*   |
-| --- | 222  | Aandachtstekort - en gedrag - vanaf 24.000 minuten  |  *€ 53.862,64*   |
+| --- | 030  | Aandachtstekort - en gedrag - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.917,39 *   |
+| --- | 031  | Aandachtstekort - en gedrag - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.721,94 *   |
+| --- | 131  | Aandachtstekort - en gedrag - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.913,16 *   |
+| --- | 170  | Aandachtstekort - en gedrag - vanaf 12.000 tot en met 17.999 minuten  |  *€ 24.674,42 *   |
+| --- | 221  | Aandachtstekort - en gedrag - vanaf 18.000 tot en met 23.999 minuten   |  *€ 35.120,78 *   |
+| --- | 222  | Aandachtstekort - en gedrag - vanaf 24.000 minuten  |  *€ 53.862,64 *   |
 | --- |  *Pervasieve stoornissen*   | --- |
-| --- | 033  | Pervasief - vanaf 250 tot en met 799 minuten  |  *€ 1.052,52*   |
-| --- | 172  | Pervasief - vanaf 800 tot en met 1.799 minuten  |  *€ 2.146,08*   |
-| --- | 223  | Pervasief - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.858,32*   |
-| --- | 038  | Pervasief - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.588,23*   |
-| --- | 133  | Pervasief - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.200,66*   |
-| --- | 173  | Pervasief - vanaf 12.000 tot en met 17.999 minuten  |  *€ 23.850,68*   |
-| --- | 224  | Pervasief - vanaf 18.000 tot en met 23.999 minuten  |  *€ 34.053,50*   |
-| --- | 225  | Pervasief - vanaf 24.000 minuten  |  *€ 54.540,25*   |
+| --- | 033  | Pervasief - vanaf 250 tot en met 799 minuten  |  *€ 1.052,52 *   |
+| --- | 172  | Pervasief - vanaf 800 tot en met 1.799 minuten  |  *€ 2.146,08 *   |
+| --- | 223  | Pervasief - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.858,32 *   |
+| --- | 038  | Pervasief - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.588,23 *   |
+| --- | 133  | Pervasief - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.200,66 *   |
+| --- | 173  | Pervasief - vanaf 12.000 tot en met 17.999 minuten  |  *€ 23.850,68 *   |
+| --- | 224  | Pervasief - vanaf 18.000 tot en met 23.999 minuten  |  *€ 34.053,50 *   |
+| --- | 225  | Pervasief - vanaf 24.000 minuten  |  *€ 54.540,25 *   |
 | --- |  *Overige stoornissen in de kindertijd*   | --- |
-| --- | 040  | Overige kindertijd - vanaf 250 tot en met 799 minuten  |  *€ 1.044,77*   |
-| --- | 041  | Overige kindertijd - vanaf 800 tot en met 1.799 minuten  |  *€ 2.139,99*   |
-| --- | 042  | Overige kindertijd - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.879,65*   |
-| --- | 135  | Overige kindertijd - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.553,07*   |
-| --- | 175  | Overige kindertijd - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.210,65*   |
-| --- | 226  | Overige kindertijd - vanaf 12.000 tot en met 17.999 minuten  |  *€ 24.402,47*   |
-| --- | 227  | Overige kindertijd - vanaf 18.000 minuten  |  *€ 46.274,49*   |
+| --- | 040  | Overige kindertijd - vanaf 250 tot en met 799 minuten  |  *€ 1.044,77 *   |
+| --- | 041  | Overige kindertijd - vanaf 800 tot en met 1.799 minuten  |  *€ 2.139,99 *   |
+| --- | 042  | Overige kindertijd - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.879,65 *   |
+| --- | 135  | Overige kindertijd - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.553,07 *   |
+| --- | 175  | Overige kindertijd - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.210,65 *   |
+| --- | 226  | Overige kindertijd - vanaf 12.000 tot en met 17.999 minuten  |  *€ 24.402,47 *   |
+| --- | 227  | Overige kindertijd - vanaf 18.000 minuten  |  *€ 46.274,49 *   |
 | --- |  *Delirium, dementie, amnestische en overige cognitieve stoornissen*   | --- | --- |
-| --- | 228  | Delirium dementie en overig - vanaf 250 tot en met 799 minuten  |  *€ 1.088,32*   |
-| --- | 229  | Delirium dementie en overig - vanaf 800 tot en met 1.799 minuten  |  *€ 2.046,43*   |
-| --- | 048  | Delirium dementie en overig - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.820,99*   |
-| --- | 049  | Delirium dementie en overig - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.781,06*   |
-| --- | 137  | Delirium dementie en overig - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.104,72*   |
-| --- | 177  | Delirium dementie en overig - vanaf 12.000 tot en met 17.999 minuten  |  *€ 22.706,76*   |
-| --- | 178  | Delirium dementie en overig - vanaf 18.000 minuten  |  *€ 38.300,08*   |
+| --- | 228  | Delirium dementie en overig - vanaf 250 tot en met 799 minuten  |  *€ 1.088,32 *   |
+| --- | 229  | Delirium dementie en overig - vanaf 800 tot en met 1.799 minuten  |  *€ 2.046,43 *   |
+| --- | 048  | Delirium dementie en overig - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.820,99 *   |
+| --- | 049  | Delirium dementie en overig - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.781,06 *   |
+| --- | 137  | Delirium dementie en overig - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.104,72 *   |
+| --- | 177  | Delirium dementie en overig - vanaf 12.000 tot en met 17.999 minuten  |  *€ 22.706,76 *   |
+| --- | 178  | Delirium dementie en overig - vanaf 18.000 minuten  |  *€ 38.300,08 *   |
 | --- |  *Aan alcohol gebonden stoornissen*   | --- | --- |
-| --- | 051  | Alcohol - vanaf 250 tot en met 799 minuten  |  *€ 970,90*   |
-| --- | 052  | Alcohol - vanaf 800 tot en met 1.799 minuten  |  *€ 1.960,35*   |
-| --- | 053  | Alcohol - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.751,52*   |
-| --- | 054  | Alcohol - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.644,91*   |
-| --- | 139  | Alcohol - vanaf 6.000 tot en met 11.999 minuten  |  *€ 12.928,38*   |
-| --- | 179  | Alcohol - vanaf 12.000 tot en met 17.999 minuten  |  *€ 22.414,68*   |
-| --- | 180  | Alcohol - vanaf 18.000 minuten  |  *€ 34.606,96*   |
+| --- | 051  | Alcohol - vanaf 250 tot en met 799 minuten  |  *€ 970,90 *   |
+| --- | 052  | Alcohol - vanaf 800 tot en met 1.799 minuten  |  *€ 1.960,35 *   |
+| --- | 053  | Alcohol - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.751,52 *   |
+| --- | 054  | Alcohol - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.644,91 *   |
+| --- | 139  | Alcohol - vanaf 6.000 tot en met 11.999 minuten  |  *€ 12.928,38 *   |
+| --- | 179  | Alcohol - vanaf 12.000 tot en met 17.999 minuten  |  *€ 22.414,68 *   |
+| --- | 180  | Alcohol - vanaf 18.000 minuten  |  *€ 34.606,96 *   |
 | --- |  *Aan overige middelen gebonden stoornissen*   | --- | --- |
-| --- | 056  | Overige aan een middel - vanaf 250 tot en met 799 minuten  |  *€ 947,58*   |
-| --- | 181  | Overige aan een middel - vanaf 800 tot en met 1.799 minuten  |  *€ 1.941,44*   |
-| --- | 059  | Overige aan een middel - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.683,62*   |
-| --- | 060  | Overige aan een middel - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.542,36*   |
-| --- | 141  | Overige aan een middel - vanaf 6.000 tot en met 11.999 minuten  |  *€ 12.830,91*   |
-| --- | 182  | Overige aan een middel - vanaf 12.000 tot en met 17.999 minuten  |  *€ 22.352,60*   |
-| --- | 183  | Overige aan een middel - vanaf 18.000 minuten  |  *€ 34.088,42*   |
+| --- | 056  | Overige aan een middel - vanaf 250 tot en met 799 minuten  |  *€ 947,58 *   |
+| --- | 181  | Overige aan een middel - vanaf 800 tot en met 1.799 minuten  |  *€ 1.941,44 *   |
+| --- | 059  | Overige aan een middel - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.683,62 *   |
+| --- | 060  | Overige aan een middel - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.542,36 *   |
+| --- | 141  | Overige aan een middel - vanaf 6.000 tot en met 11.999 minuten  |  *€ 12.830,91 *   |
+| --- | 182  | Overige aan een middel - vanaf 12.000 tot en met 17.999 minuten  |  *€ 22.352,60 *   |
+| --- | 183  | Overige aan een middel - vanaf 18.000 minuten  |  *€ 34.088,42 *   |
 | --- |  *Schizofrenie en andere psychotische stoornissen*   | --- | --- |
-| --- | 230  | Schizofrenie - vanaf 250 tot en met 799 minuten  |  *€ 1.076,35*   |
-| --- | 184  | Schizofrenie - vanaf 800 tot en met 1.799 minuten  |  *€ 2.153,36*   |
-| --- | 066  | Schizofrenie - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.918,61*   |
-| --- | 067  | Schizofrenie - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.952,48*   |
-| --- | 068  | Schizofrenie - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.379,35*   |
-| --- | 143  | Schizofrenie - vanaf 12.000 tot en met 17.999 minuten  |  *€ 23.128,61*   |
-| --- | 144  | Schizofrenie - vanaf 18.000 tot en met 23.999 minuten  |  *€ 32.899,56*   |
-| --- | 185  | Schizofrenie - vanaf 24.000 tot en met 29.999 minuten  |  *€ 41.997,11*   |
-| --- | 186  | Schizofrenie - vanaf 30.000 minuten  |  *€ 62.334,70*   |
+| --- | 230  | Schizofrenie - vanaf 250 tot en met 799 minuten  |  *€ 1.076,35 *   |
+| --- | 184  | Schizofrenie - vanaf 800 tot en met 1.799 minuten  |  *€ 2.153,36 *   |
+| --- | 066  | Schizofrenie - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.918,61 *   |
+| --- | 067  | Schizofrenie - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.952,48 *   |
+| --- | 068  | Schizofrenie - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.379,35 *   |
+| --- | 143  | Schizofrenie - vanaf 12.000 tot en met 17.999 minuten  |  *€ 23.128,61 *   |
+| --- | 144  | Schizofrenie - vanaf 18.000 tot en met 23.999 minuten  |  *€ 32.899,56 *   |
+| --- | 185  | Schizofrenie - vanaf 24.000 tot en met 29.999 minuten  |  *€ 41.997,11 *   |
+| --- | 186  | Schizofrenie - vanaf 30.000 minuten  |  *€ 62.334,70 *   |
 | --- |  *Depressieve Stoornissen*   | --- |
-| --- | 231  | Depressie - vanaf 250 tot en met 799 minuten  |  *€ 1.082,47*   |
-| --- | 232  | Depressie - vanaf 800 tot en met 1.799 minuten  |  *€ 2.172,60*   |
-| --- | 233  | Depressie - vanaf 1.799 tot en met 2.999 minuten  |  *€ 3.992,90*   |
-| --- | 234  | Depressie - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.926,64*   |
-| --- | 235  | Depressie - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.405,05*   |
-| --- | 146  | Depressie - vanaf 12.000 tot en met 17.999 minuten  |  *€ 23.527,52*   |
-| --- | 187  | Depressie - vanaf 18.000 tot en met 23.999 minuten  |  *€ 33.680,69*   |
-| --- | 188  | Depressie - vanaf 24.000 minuten  |  *€ 47.573,33*   |
+| --- | 231  | Depressie - vanaf 250 tot en met 799 minuten  |  *€ 1.082,47 *   |
+| --- | 232  | Depressie - vanaf 800 tot en met 1.799 minuten  |  *€ 2.172,60 *   |
+| --- | 233  | Depressie - vanaf 1.799 tot en met 2.999 minuten  |  *€ 3.992,90 *   |
+| --- | 234  | Depressie - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.926,64 *   |
+| --- | 235  | Depressie - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.405,05 *   |
+| --- | 146  | Depressie - vanaf 12.000 tot en met 17.999 minuten  |  *€ 23.527,52 *   |
+| --- | 187  | Depressie - vanaf 18.000 tot en met 23.999 minuten  |  *€ 33.680,69 *   |
+| --- | 188  | Depressie - vanaf 24.000 minuten  |  *€ 47.573,33 *   |
 | --- |  *Bipolaire en overige stemmingsstoornissen*   | --- | --- |
-| --- | 189  | Bipolair en overig - vanaf 250 tot en met 799 minuten  |  *€ 1.107,28*   |
-| --- | 236  | Bipolair en overig - vanaf 800 tot en met 1.799 minuten  |  *€ 2.212,03*   |
-| --- | 190  | Bipolair en overig - vanaf 1.800 tot en met 2.999 minuten  |  *€ 4.057,62*   |
-| --- | 087  | Bipolair en overig - vanaf 3.000 tot en met 5.999 minuten  |  *€ 7.147,50*   |
-| --- | 148  | Bipolair en overig - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.719,34*   |
-| --- | 191  | Bipolair en overig - vanaf 12.000 tot en met 17.999 minuten  |  *€ 23.424,51*   |
-| --- | 192  | Bipolair en overig - vanaf 18.000 minuten  |  *€ 37.557,88*   |
+| --- | 189  | Bipolair en overig - vanaf 250 tot en met 799 minuten  |  *€ 1.107,28 *   |
+| --- | 236  | Bipolair en overig - vanaf 800 tot en met 1.799 minuten  |  *€ 2.212,03 *   |
+| --- | 190  | Bipolair en overig - vanaf 1.800 tot en met 2.999 minuten  |  *€ 4.057,62 *   |
+| --- | 087  | Bipolair en overig - vanaf 3.000 tot en met 5.999 minuten  |  *€ 7.147,50 *   |
+| --- | 148  | Bipolair en overig - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.719,34 *   |
+| --- | 191  | Bipolair en overig - vanaf 12.000 tot en met 17.999 minuten  |  *€ 23.424,51 *   |
+| --- | 192  | Bipolair en overig - vanaf 18.000 minuten  |  *€ 37.557,88 *   |
 | --- |  *Angststoornissen*   | --- | --- |
-| --- | 237  | Angst - vanaf 250 tot en met 799 minuten  |  *€ 1.070,26*   |
-| --- | 238  | Angst - vanaf 800 tot en met 1.799 minuten  |  *€ 2.155,92*   |
-| --- | 239  | Angst - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.975,76*   |
-| --- | 193  | Angst - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.761,05*   |
-| --- | 194  | Angst - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.302,51*   |
-| --- | 150  | Angst - vanaf 12.000 tot en met 17.999 minuten  |  *€ 23.161,22*   |
-| --- | 195  | Angst - vanaf 18.000 tot en met 23.999 minuten  |  *€ 32.777,79*   |
-| --- | 196  | Angst - vanaf 24.000 minuten  |  *€ 48.089,52*   |
+| --- | 237  | Angst - vanaf 250 tot en met 799 minuten  |  *€ 1.070,26 *   |
+| --- | 238  | Angst - vanaf 800 tot en met 1.799 minuten  |  *€ 2.155,92 *   |
+| --- | 239  | Angst - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.975,76 *   |
+| --- | 193  | Angst - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.761,05 *   |
+| --- | 194  | Angst - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.302,51 *   |
+| --- | 150  | Angst - vanaf 12.000 tot en met 17.999 minuten  |  *€ 23.161,22 *   |
+| --- | 195  | Angst - vanaf 18.000 tot en met 23.999 minuten  |  *€ 32.777,79 *   |
+| --- | 196  | Angst - vanaf 24.000 minuten  |  *€ 48.089,52 *   |
 | --- |  *Aanpassingsstoornissen*   | --- |
-| --- | 240  | Aanpassingsstoornissen - vanaf 250 tot en met 799 minuten  |  *€ 1.068,81*   |
-| --- | 197  | Aanpassingsstoornissen - vanaf 800 tot en met 1.799 minuten  |  *€ 2.179,35*   |
-| --- | 104  | Aanpassingsstoornissen - vanaf 1.800 tot en met 2.999 minuten  |  *€ 4.088,07*   |
-| --- | 105  | Aanpassingsstoornissen - vanaf 3.000 tot en met 5.999 minuten  |  *€ 7.023,93*   |
-| --- | 152  | Aanpassingsstoornissen - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.754,96*   |
-| --- | 198  | Aanpassingsstoornissen - vanaf 12.000 tot en met 17.999 minuten  |  *€ 24.483,53*   |
-| --- | 199  | Aanpassingsstoornissen - vanaf 18.000 minuten  |  *€ 39.139,35*   |
+| --- | 240  | Aanpassingsstoornissen - vanaf 250 tot en met 799 minuten  |  *€ 1.068,81 *   |
+| --- | 197  | Aanpassingsstoornissen - vanaf 800 tot en met 1.799 minuten  |  *€ 2.179,35 *   |
+| --- | 104  | Aanpassingsstoornissen - vanaf 1.800 tot en met 2.999 minuten  |  *€ 4.088,07 *   |
+| --- | 105  | Aanpassingsstoornissen - vanaf 3.000 tot en met 5.999 minuten  |  *€ 7.023,93 *   |
+| --- | 152  | Aanpassingsstoornissen - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.754,96 *   |
+| --- | 198  | Aanpassingsstoornissen - vanaf 12.000 tot en met 17.999 minuten  |  *€ 24.483,53 *   |
+| --- | 199  | Aanpassingsstoornissen - vanaf 18.000 minuten  |  *€ 39.139,35 *   |
 | --- |  *Andere aandoeningen en problemen die een reden voor zorg kunnen zijn*   | --- |
-| --- | 241  | Andere aandoeningen - vanaf 250 tot en met 799 minuten  |  *€ 992,23*   |
-| --- | 200  | Andere aandoeningen - vanaf 800 tot en met 1.799 minuten  |  *€ 2.049,24*   |
-| --- | 111  | Andere aandoeningen - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.888,45*   |
-| --- | 112  | Andere aandoeningen - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.668,51*   |
-| --- | 154  | Andere aandoeningen - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.426,21*   |
-| --- | 201  | Andere aandoeningen - vanaf 12.000 tot en met 17.999 minuten  |  *€ 22.964,53*   |
-| --- | 202  | Andere aandoeningen - vanaf 18.000 minuten  |  *€ 39.547,84*   |
+| --- | 241  | Andere aandoeningen - vanaf 250 tot en met 799 minuten   |  *€ 992,23 *   |
+| --- | 200  | Andere aandoeningen - vanaf 800 tot en met 1.799 minuten  |  *€ 2.049,24 *   |
+| --- | 111  | Andere aandoeningen - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.888,45 *   |
+| --- | 112  | Andere aandoeningen - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.668,51 *   |
+| --- | 154  | Andere aandoeningen - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.426,21 *   |
+| --- | 201  | Andere aandoeningen - vanaf 12.000 tot en met 17.999 minuten  |  *€ 22.964,53 *   |
+| --- | 202  | Andere aandoeningen - vanaf 18.000 minuten  |  *€ 39.547,84 *   |
 | --- |  *Restgroep diagnoses*   | --- | --- |
-| --- | 242  | Restgroep diagnoses - vanaf 250 tot en met 799 minuten  |  *€ 1.031,57*   |
-| --- | 203  | Restgroep diagnoses - vanaf 800 tot en met 1.799 minuten  |  *€ 2.105,25*   |
-| --- | 118  | Restgroep diagnoses - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.965,86*   |
-| --- | 119  | Restgroep diagnoses - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.881,71*   |
-| --- | 156  | Restgroep diagnoses - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.584,69*   |
-| --- | 204  | Restgroep diagnoses - vanaf 12.000 tot en met 17.999 minuten  |  *€ 23.430,52*   |
-| --- | 205  | Restgroep diagnoses - vanaf 18.000 minuten  |  *€ 38.992,05*   |
+| --- | 242  | Restgroep diagnoses - vanaf 250 tot en met 799 minuten  |  *€ 1.031,57 *   |
+| --- | 203  | Restgroep diagnoses - vanaf 800 tot en met 1.799 minuten  |  *€ 2.105,25 *   |
+| --- | 118  | Restgroep diagnoses - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.965,86 *   |
+| --- | 119  | Restgroep diagnoses - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.881,71 *   |
+| --- | 156  | Restgroep diagnoses - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.584,69 *   |
+| --- | 204  | Restgroep diagnoses - vanaf 12.000 tot en met 17.999 minuten  |  *€ 23.430,52 *   |
+| --- | 205  | Restgroep diagnoses - vanaf 18.000 minuten  |  *€ 38.992,05 *   |
 | --- |  *Persoonlijkheidsstoornissen*   | --- |
-| --- | 121  | Persoonlijkheid - vanaf 250 tot en met 799 minuten  |  *€ 1.063,74*   |
-| --- | 206  | Persoonlijkheid - vanaf 800 tot en met 1.799 minuten  |  *€ 2.197,00*   |
-| --- | 243  | Persoonlijkheid - vanaf 1.800 tot en met 2.999 minuten  |  *€ 4.034,39*   |
-| --- | 207  | Persoonlijkheid - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.988,19*   |
-| --- | 208  | Persoonlijkheid - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.420,61*   |
-| --- | 158  | Persoonlijkheid - vanaf 12.000 tot en met 17.999 minuten  |  *€ 23.361,37*   |
-| --- | 209  | Persoonlijkheid - vanaf 18.000 tot en met 23.999 minuten  |  *€ 32.844,05*   |
-| --- | 244  | Persoonlijkheid - vanaf 24.000 tot en met 29.999 minuten  |  *€ 42.688,71*   |
-| --- | 245  | Persoonlijkheid - vanaf 30.000 minuten  |  *€ 59.552,18*   |
+| --- | 121  | Persoonlijkheid - vanaf 250 tot en met 799 minuten  |  *€ 1.063,74 *   |
+| --- | 206  | Persoonlijkheid - vanaf 800 tot en met 1.799 minuten  |  *€ 2.197,00 *   |
+| --- | 243  | Persoonlijkheid - vanaf 1.800 tot en met 2.999 minuten  |  *€ 4.034,39 *   |
+| --- | 207  | Persoonlijkheid - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.988,19 *   |
+| --- | 208  | Persoonlijkheid - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.420,61 *   |
+| --- | 158  | Persoonlijkheid - vanaf 12.000 tot en met 17.999 minuten  |  *€ 23.361,37 *   |
+| --- | 209  | Persoonlijkheid - vanaf 18.000 tot en met 23.999 minuten  |  *€ 32.844,05 *   |
+| --- | 244  | Persoonlijkheid - vanaf 24.000 tot en met 29.999 minuten  |  *€ 42.688,71 *   |
+| --- | 245  | Persoonlijkheid - vanaf 30.000 minuten  |  *€ 59.552,18 *   |
 | --- |  *Somatoforme stoornissen*   | --- | --- |
-| --- | 246  | Somatoforme - vanaf 250 tot en met 799 minuten  |  *€ 1.056,63*   |
-| --- | 247  | Somatoforme - vanaf 800 tot en met 1.799 minuten  |  *€ 2.112,16*   |
-| --- | 248  | Somatoforme - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.936,77*   |
-| --- | 249  | Somatoforme - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.830,33*   |
-| --- | 250  | Somatoforme - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.554,48*   |
-| --- | 251  | Somatoforme - vanaf 12.000 minuten  |  *€ 25.693,66*   |
+| --- | 246  | Somatoforme - vanaf 250 tot en met 799 minuten  |  *€ 1.056,63 *   |
+| --- | 247  | Somatoforme - vanaf 800 tot en met 1.799 minuten  |  *€ 2.112,16 *   |
+| --- | 248  | Somatoforme - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.936,77 *   |
+| --- | 249  | Somatoforme - vanaf 3.000 tot en met 5.999 minuten  |  *€ 6.830,33 *   |
+| --- | 250  | Somatoforme - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.554,48 *   |
+| --- | 251  | Somatoforme - vanaf 12.000 minuten  |  *€ 25.693,66 *   |
 | --- |  *Eetstoornissen*   | --- | --- |
-| --- | 252  | Eetstoornis - vanaf 250 tot en met 799 minuten  |  *€ 1.043,68*   |
-| --- | 253  | Eetstoornis - vanaf 800 tot en met 1.799 minuten  |  *€ 2.163,31*   |
-| --- | 254  | Eetstoornis - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.960,75*   |
-| --- | 255  | Eetstoornis - vanaf 3.000 tot en met 5.999 minuten  |  *€ 7.065,72*   |
-| --- | 256  | Eetstoornis - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.623,57*   |
-| --- | 257  | Eetstoornis - vanaf 12.000 tot en met 17.999 minuten  |  *€ 24.481,18*   |
-| --- | 258  | Eetstoornis - vanaf 18.000 minuten  |  *€ 36.102,60*   |
+| --- | 252  | Eetstoornis - vanaf 250 tot en met 799 minuten  |  *€ 1.043,68 *   |
+| --- | 253  | Eetstoornis - vanaf 800 tot en met 1.799 minuten  |  *€ 2.163,31 *   |
+| --- | 254  | Eetstoornis - vanaf 1.800 tot en met 2.999 minuten  |  *€ 3.960,75 *   |
+| --- | 255  | Eetstoornis - vanaf 3.000 tot en met 5.999 minuten  |  *€ 7.065,72 *   |
+| --- | 256  | Eetstoornis - vanaf 6.000 tot en met 11.999 minuten  |  *€ 13.623,57 *   |
+| --- | 257  | Eetstoornis - vanaf 12.000 tot en met 17.999 minuten  |  *€ 24.481,18 *   |
+| --- | 258  | Eetstoornis - vanaf 18.000 minuten  |  *€ 36.102,60 *   |
 
 | Deelprestaties verblijf GGZ (24 uurs verblijf)  | Tarief  | Component zorg  | Component  NHC  |
 |:---|:---|:---|:---|
-| Deelprestatie verblijf A (Lichte verzorgingsgraad)  | € 182,43  | € 148,54  | € 33,89  |
-| Deelprestatie verblijf B (Beperkte verzorgingsgraad)  | € 219,66  | € 186,78  | € 32,88  |
-| Deelprestatie verblijf C (Matige verzorgingsgraad)  | € 243,89  | € 210,93  | € 32,96  |
-| Deelprestatie verblijf D (Gemiddelde verzorgingsgraad)  | € 248,32  | € 217,15  | € 31,17  |
+| Deelprestatie verblijf A (Lichte verzorgingsgraad)   | € 182,43  | € 148,54  | € 33,89  |
+| Deelprestatie verblijf B (Beperkte verzorgingsgraad)   | € 219,66  | € 186,78  | € 32,88  |
+| Deelprestatie verblijf C (Matige verzorgingsgraad)   | € 243,89  | € 210,93  | € 32,96  |
+| Deelprestatie verblijf D (Gemiddelde verzorgingsgraad)   | € 248,32  | € 217,15  | € 31,17  |
 | Deelprestatie verblijf E (Intensieve verzorgingsgraad)  | € 316,90  | € 283,30  | € 33,60  |
-| Deelprestatie verblijf F (Extra intensieve verzorgingsgraad)  | € 375,80  | € 343,52  | € 32,28  |
-| Deelprestatie verblijf G (Zeer intensieve verzorgingsgraad)  | € 724,57  | € 685,23  | € 39,34  |
+| Deelprestatie verblijf F (Extra intensieve verzorgingsgraad)   | € 375,80  | € 343,52  | € 32,28  |
+| Deelprestatie verblijf G (Zeer intensieve verzorgingsgraad)   | € 724,57  | € 685,23  | € 39,34  |
 
 | Vergelijking NHC PMU met NHC regulier voor de berekening van de toeslag  | NHC PMU  | Reguliere  NHC  | Verschil  |
 |:---|:---|:---|:---|
-| Deelprestatie verblijf A (Lichte verzorgingsgraad)  | € 40,28  | € 33,89  | € 6,39  |
-| Deelprestatie verblijf B (Beperkte verzorgingsgraad)  | € 40,28  | € 32,88  | € 7,40  |
-| Deelprestatie verblijf C (Matige verzorgingsgraad)  | € 40,28  | € 32,96  | € 7,32  |
-| Deelprestatie verblijf D (Gemiddelde verzorgingsgraad)  | € 40,28  | € 31,17  | € 9,11  |
+| Deelprestatie verblijf A (Lichte verzorgingsgraad)   | € 40,28  | € 33,89  | € 6,39  |
+| Deelprestatie verblijf B (Beperkte verzorgingsgraad)   | € 40,28  | € 32,88  | € 7,40  |
+| Deelprestatie verblijf C (Matige verzorgingsgraad)   | € 40,28  | € 32,96  | € 7,32  |
+| Deelprestatie verblijf D (Gemiddelde verzorgingsgraad)   | € 40,28  | € 31,17  | € 9,11  |
 | Deelprestatie verblijf E (Intensieve verzorgingsgraad)  | € 40,28  | € 33,60  | € 6,68  |
-| Deelprestatie verblijf F (Extra intensieve verzorgingsgraad)  | € 40,28  | € 32,28  | € 8,00  |
-| Deelprestatie verblijf G (Zeer intensieve verzorgingsgraad)  | € 40,28  | € 39,34  | € 0,94  |
+| Deelprestatie verblijf F (Extra intensieve verzorgingsgraad)   | € 40,28  | € 32,28  | € 8,00  |
+| Deelprestatie verblijf G (Zeer intensieve verzorgingsgraad)   | € 40,28  | € 39,34  | € 0,94  |
 
 | Vergelijking NHC beveiligde setting met reguliere NHC voor de berekening van de toeslag  | NHC Beveiligingsniveau 2  | Reguliere  NHC  | Verschil  |
 |:---|:---|:---|:---|
-| Deelprestatie verblijf A (Lichte verzorgingsgraad)  | € 40,27  | € 33,89  | € 6,38  |
-| Deelprestatie verblijf B (Beperkte verzorgingsgraad)  | € 40,27  | € 32,88  | € 7,39  |
-| Deelprestatie verblijf C (Matige verzorgingsgraad)  | € 40,27  | € 32,96  | € 7,31  |
-| Deelprestatie verblijf D (Gemiddelde verzorgingsgraad)  | € 40,27  | € 31,17  | € 9,10  |
+| Deelprestatie verblijf A (Lichte verzorgingsgraad)   | € 40,27  | € 33,89  | € 6,38  |
+| Deelprestatie verblijf B (Beperkte verzorgingsgraad)   | € 40,27  | € 32,88  | € 7,39  |
+| Deelprestatie verblijf C (Matige verzorgingsgraad)   | € 40,27  | € 32,96  | € 7,31  |
+| Deelprestatie verblijf D (Gemiddelde verzorgingsgraad)   | € 40,27  | € 31,17  | € 9,10  |
 | Deelprestatie verblijf E (Intensieve verzorgingsgraad)  | € 40,27  | € 33,60  | € 6,67  |
-| Deelprestatie verblijf F (Extra intensieve verzorgingsgraad)  | € 40,27  | € 32,28  | € 7,99  |
-| Deelprestatie verblijf G (Zeer intensieve verzorgingsgraad)  | € 40,27  | € 39,34  | € 0,93  |
+| Deelprestatie verblijf F (Extra intensieve verzorgingsgraad)   | € 40,27  | € 32,28  | € 7,99  |
+| Deelprestatie verblijf G (Zeer intensieve verzorgingsgraad)   | € 40,27  | € 39,34  | € 0,93  |
 
 | Vergelijking NHC beveiligde setting met reguliere NHC voor de berekening van de toeslag  | NHC Beveiligingsniveau 3  | Reguliere  NHC  | Verschil  |
 |:---|:---|:---|:---|
-| Deelprestatie verblijf A (Lichte verzorgingsgraad)  | € 53,09  | € 33,89  | € 19,20  |
-| Deelprestatie verblijf B (Beperkte verzorgingsgraad)  | € 53,09  | € 32,88  | € 20,21  |
-| Deelprestatie verblijf C (Matige verzorgingsgraad)  | € 53,09  | € 32,96  | € 20,13  |
-| Deelprestatie verblijf D (Gemiddelde verzorgingsgraad)  | € 53,09  | € 31,17  | € 21,92  |
+| Deelprestatie verblijf A (Lichte verzorgingsgraad)   | € 53,09  | € 33,89  | € 19,20  |
+| Deelprestatie verblijf B (Beperkte verzorgingsgraad)   | € 53,09  | € 32,88  | € 20,21  |
+| Deelprestatie verblijf C (Matige verzorgingsgraad)   | € 53,09  | € 32,96  | € 20,13  |
+| Deelprestatie verblijf D (Gemiddelde verzorgingsgraad)   | € 53,09  | € 31,17  | € 21,92  |
 | Deelprestatie verblijf E (Intensieve verzorgingsgraad)  | € 53,09  | € 33,60  | € 19,49  |
-| Deelprestatie verblijf F (Extra intensieve verzorgingsgraad)  | € 53,09  | € 32,28  | € 20,81  |
-| Deelprestatie verblijf G (Zeer intensieve verzorgingsgraad)  | € 53,09  | € 39,34  | € 13,75  |
+| Deelprestatie verblijf F (Extra intensieve verzorgingsgraad)   | € 53,09  | € 32,28  | € 20,81  |
+| Deelprestatie verblijf G (Zeer intensieve verzorgingsgraad)   | € 53,09  | € 39,34  | € 13,75  |
 
 | Overige prestaties  | Tarief  | Eenheid  |
 |:---|:---|:---|
 | Beschikbaarheidscomponent crisis (BCC)  | € 435,66  | per crisis-DBC  |
 | ECT  | € 185,71  | per behandeling  |
-| Verblijf zonder overnachting (VZO)  | € 62,73  | per dag  |
-| Methadon  | € 18,64  | per maand  |
+| Verblijf zonder overnachting (VZO)   | € 62,73  | per dag  |
+| Methadon   | € 18,64  | per maand  |
 | Onderlinge dienstverlening  | Vrij  | -  |
 
 Prestatiebeschrijvingen deelprestaties verblijf (24-uurs verblijf)  
 
 | Deelprestatie verblijf A (Lichte verzorgingsgraad)  |
 |:---|
-| Verblijfszorg  | Deze deelprestatie verblijf is bedoeld voor ggz patiënten met een lichte verstoring in het psychiatrisch ziektebeeld (psychisch, sociaal en somatisch functioneren), waardoor er een noodzaak tot opname is om de geneeskundige zorg te leveren.  De behoefte aan begeleiding <sup>1</sup> door het VOV-personeel <sup>2</sup> is beperkt. De nadruk ligt op het zelf oplossend vermogen en zelfregie van de patiënten.  VOV-personeel is op afstand oproepbaar.  Voor zover patiënten mobiliteitsproblemen hebben, vergen deze geen extra verzorging of toezicht.  Wat betreft de zelfstandigheid in de ADL <sup>3</sup> /BDL <sup>4</sup> is er geen begeleiding noodzakelijk. De zelfredzaamheid van de patiënten is groot.  |
-| Inzet VOV-personeel  | Op deze setting wordt niet meer dan 0,3 fte <sup>5</sup> per bed/plaats ingezet.  |
+| Verblijfszorg  | Deze deelprestatie verblijf is bedoeld voor ggz patiënten met een lichte verstoring in het psychiatrisch ziektebeeld (psychisch, sociaal en somatisch functioneren), waardoor er een noodzaak tot opname is om de geneeskundige zorg te leveren.  De behoefte aan begeleiding<sup>1</sup> door het VOV-personeel<sup>2</sup> is beperkt. De nadruk ligt op het zelf oplossend vermogen en zelfregie van de patiënten.  VOV-personeel is op afstand oproepbaar.  Voor zover patiënten mobiliteitsproblemen hebben, vergen deze geen extra verzorging of toezicht.  Wat betreft de zelfstandigheid in de ADL<sup>3</sup>/BDL<sup>4</sup> is er geen begeleiding noodzakelijk. De zelfredzaamheid van de patiënten is groot.  |
+| Inzet VOV-personeel  | Op deze setting wordt niet meer dan 0,3 fte<sup>5</sup> per bed/plaats ingezet.  |
 | Bedbezetting  | Het merendeel van de patiënten gaat in het kader van het behandelplan regelmatig enkele dagen (in het weekend of doordeweeks) naar huis en maakt dan geen gebruik van de verblijfsfaciliteiten.  |
 | Toezicht/beveiliging  | Patiënten kunnen zonder toestemming de setting verlaten, tenzij er vrijheidsbeperkende maatregelen zijn opgelegd.  |
 | Fysieke setting/Kenmerken huisvesting  | Open setting voor basisverblijf zonder aanpassingen. Voor mobiliteit geldt een algemene toeslag voor rolstoelgebruik.  |
 
-<sup>1</sup> Onder begeleiding is mede begrepen: verzorging en bescherming/structurering <sup>2</sup> VOV personeel staat voor Verzorgend Opvoedkundig en Verplegend personeel en is in deze context uitwisselbaar met de term ‘24-uurs continuïteitsdienst’. <sup>3</sup> ADL staat voor Algemene Dagelijkse Levensverrichtingen (bv. wassen, aankleden, eten, toiletgang). <sup>4</sup> BDL staat voor Bijzondere Dagelijkse Levensverrichtingen (bv. huishoudelijk werk, koken , administratie doen, gebruikmaken van het openbaar vervoer). <sup>5</sup> fte staat voor fulltime-equivalent en staat gelijk aan 1 volledige werkweek.  
+<sup>1</sup> Onder begeleiding is mede begrepen: verzorging en bescherming/structurering<sup>2</sup> VOV personeel staat voor Verzorgend Opvoedkundig en Verplegend personeel en is in deze context uitwisselbaar met de term ‘24-uurs continuïteitsdienst’.<sup>3</sup> ADL staat voor Algemene Dagelijkse Levensverrichtingen (bv. wassen, aankleden, eten, toiletgang).<sup>4</sup> BDL staat voor Bijzondere Dagelijkse Levensverrichtingen (bv. huishoudelijk werk, koken , administratie doen, gebruikmaken van het openbaar vervoer).<sup>5</sup> fte staat voor fulltime-equivalent en staat gelijk aan 1 volledige werkweek. 
 
 | Deelprestatie verblijf B (Beperkte verzorgingsgraad)  |
 |:---|
 | Verblijfszorg  | Deze deelprestatie verblijf is bedoeld voor ggz-patiënten met een beperkte verstoring in het psychiatrisch ziektebeeld (psychisch, sociaal en somatisch functioneren), waardoor er een noodzaak tot opname is om de geneeskundige zorg te leveren.  De behoefte aan begeleiding door het VOV-personeel is beperkt. De nadruk ligt op het bevorderen van het zelf oplossend vermogen/zelfregie van de patiënt. Het VOV-Personeel is op afstand oproepbaar.  Voor wat betreft de zelfstandigheid in ADL/BDL is beperkte begeleiding nodig. De zelfredzaamheid van de patiënten is groot. Wel is stimulatie en toezicht door het VOV-personeel noodzakelijk.  |
-| Inzet VOV-personeel  | Op deze setting wordt meer dan 0,3 fte tot en met 0,5 fte per bed/plaats ingezet.  |
+| Inzet VOV-personeel  | Op deze setting wordt meer dan 0,3 fte tot en met 0,5 fte per bed/plaats ingezet.   |
 | Bedbezetting  | Het merendeel van de patiënten gaat in het kader van het behandelplan regelmatig enkele dagen (weekend of doordeweeks) naar het eigen huis en maakt dan geen gebruik van de verblijfsfaciliteiten.  |
 | Toezicht/beveiliging  | Het betreft een overwegend open setting die licht beschermend is, waar het grootste deel van de patiënten met toestemming de setting mag verlaten. Voor een deel van de patiënten geldt dat vrijheidsbeperkende maatregelen zijn opgelegd.  |
 | Fysieke setting/Kenmerken huisvesting  | Open setting voor basisverblijf zonder aanpassingen. Voor mobiliteit geldt een algemene toeslag voor rolstoelgebruik.  |

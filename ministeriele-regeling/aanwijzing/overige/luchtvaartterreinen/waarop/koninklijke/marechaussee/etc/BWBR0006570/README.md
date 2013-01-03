@@ -10,9 +10,9 @@ Besluiten:
 
 De Koninklijke marechaussee voert de politietaak uit op de volgende luchtvaartterreinen: 
 
-a. Rotterdam, Eelde en Maastricht;  
+a. Rotterdam, Eelde en Maastricht; 
 
-b. Eindhoven en Twente, voor zover het de burgerluchtvaart betreft.    
+b. Eindhoven en Twente, voor zover het de burgerluchtvaart betreft.  
 
 ### Artikel  1a  
 
@@ -20,19 +20,19 @@ Deze regeling berust op [artikel 4, eerste lid, onder c, van de Politiewet 2012]
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 april 1994. Deze regeling wordt gepubliceerd in de Staatscourant en het Algemeen Politieblad.  
+Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 april 1994. Deze regeling wordt gepubliceerd in de Staatscourant en het Algemeen Politieblad. 
 
 's-Gravenhage 
 29 maart 1994    
 
 De 
-Minister van Justitie, a.i. 
-E. vanThijn 
+Minister van Justitie, a.i.
+E. vanThijn
 
 De 
-Minister van Binnenlandse Zaken, 
+Minister van Binnenlandse Zaken,
 E. vanThijn 
 
 De 
 Minister van Defensie, 
-A.L. terBeek    
+A.L. ter Beek      

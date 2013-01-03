@@ -10,7 +10,7 @@ Besluit:
 
 ####Doel
 
-Deze regeling is bedoeld om werk van hoge kwaliteit te realiseren door opdrachtgevers te stimuleren om relevante artistiek inhoudelijke projecten tot stand te brengen die openbaar toegankelijk zijn. Dit moet leiden tot meer betrokkenheid van (markt)partijen bij de totstandkoming van beeldende kunst en daarmee tot het vergroten van de kwaliteit en de zichtbaarheid van de hedendaagse Nederlandse beeldende kunst voor een zo groot mogelijk publiek.  
+Deze regeling is bedoeld om werk van hoge kwaliteit te realiseren door opdrachtgevers te stimuleren om relevante artistiek inhoudelijke projecten tot stand te brengen die openbaar toegankelijk zijn. Dit moet leiden tot meer betrokkenheid van (markt)partijen bij de totstandkoming van beeldende kunst en daarmee tot het vergroten van de kwaliteit en de zichtbaarheid van de hedendaagse Nederlandse beeldende kunst voor een zo groot mogelijk publiek. 
 
 ### Artikel  2  
 
@@ -19,7 +19,7 @@ Deze regeling is bedoeld om werk van hoge kwaliteit te realiseren door opdrachtg
 1.  Een aanvraag kan worden verstrekt aan instellingen voor beeldende kunst en cultureel erfgoed en (markt)partijen die met kunstenaars samenwerken om bijzonder nieuw werk te realiseren.   
 2.  Een bijdrage kan worden verstrekt als tegemoetkoming in de ontwikkelfase en/of de productie van een werk.   
 3.  Een opdracht dient betrekking te hebben op een kunstenaar die artistiek inhoudelijk actief is in de beeldende kunsten en in die hoedanigheid geïntegreerd is in de professionele praktijk van de beeldende kunst in Nederland.   
-4.  De opdracht dient betrekking te hebben op een kunstenaar die ten minste vier jaar professioneel werkzaam is als kunstenaar dan wel ten minste drie jaar een hbo-opleiding aan een opleidingsinstituut voor beeldende kunsten heeft gevolgd en minimaal één jaar professioneel werkzaam is als beeldend kunstenaar.   
+4.  De opdracht dient betrekking te hebben op een kunstenaar die ten minste vier jaar professioneel werkzaam is als kunstenaar dan wel ten minste drie jaar een hbo-opleiding aan een opleidingsinstituut voor beeldende kunsten heeft gevolgd en minimaal één jaar professioneel werkzaam is als beeldend kunstenaar.  
 
 ### Artikel  3  
 
@@ -37,7 +37,7 @@ Naast de bepalingen vastgesteld in het Algemeen reglement, op het aanvraagformul
 
 * een dekkende begroting, inclusief een voor zover mogelijk reëel honorarium voor de kunstenaar alsmede,  
 
-* een verklaring dat het project niet tot stand kan komen zonder de bijdrage van het fonds.    
+* een verklaring dat het project niet tot stand kan komen zonder de bijdrage van het fonds.   
 
 ### Artikel  4  
 
@@ -58,19 +58,19 @@ e. de context van het ingediende plan.
 3.  Indien het bevoegde adviesorgaan de de in het eerste lid van dit artikel bedoelde aspecten niet van voldoende belang acht, komt het tot een negatief advies over de aanvraag.   
 4.  Indien het bevoegde adviesorgaan de de in het eerste lid dit artikel bedoelde aspecten wel van voldoende belang acht, komt het tot een positief advies over de aanvraag.   
 5.  Een positief advies kan vergezeld gaan van een aanbeveling over de hoogte van de toe te kennen financiële bijdrage.   
-6.  Het bestuur kan het bevoegd adviesorgaan verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in lid 1 van dit artikel. Alsdan onderbouwt het zijn prioritering.   
+6.  Het bestuur kan het bevoegd adviesorgaan verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in lid 1 van dit artikel. Alsdan onderbouwt het zijn prioritering.  
 
 ### Artikel  5  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2013. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2012, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2013.  
+Deze regeling treedt in werking met ingang van 1 januari 2013. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2012, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2013. 
 
 ### Artikel  6  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Deelregeling Opdrachtgeverschap.  
+Deze regeling wordt aangehaald als: Deelregeling Opdrachtgeverschap. 
 Deze regeling zal in de Staatscourant worden geplaatst.  
 
 De stichting Mondriaan Fonds, 

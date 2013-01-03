@@ -14,13 +14,13 @@ a. € 47 miljoen wordt toegerekend aan de variabele kosten van medisch-speciali
 
 b. € 8 miljoen wordt toegerekend aan de vaste zorgkosten, en  
 
-c. € 146 miljoen wordt toegerekend aan de kosten van geneeskundige geestelijke gezondheidszorg.    
+c. € 146 miljoen wordt toegerekend aan de kosten van geneeskundige geestelijke gezondheidszorg.   
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van 1 januari 2013.  
+Deze regeling treedt in werking met ingang van 1 januari 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers.   
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers.     

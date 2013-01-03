@@ -8,28 +8,28 @@ Besluit:
 
 ### Artikel  I  
 
-#### [Wijziging dagloonregels](../../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) 
+####[Wijziging dagloonregels](../../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md)
 
-Wijzigt de regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 april 1967, nr. 61524.   
+Wijzigt de regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 april 1967, nr. 61524. 
 
 ### Artikel  II  
 
-#### [Wijziging dagloonregels](../../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) [Ziektewet](../../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) 
+####[Wijziging dagloonregels](../../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) [Ziektewet](../../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md)
 
-Wijzigt de regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 april 1967.   
+Wijzigt de regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 april 1967. 
 
 ### Artikel  III  
 
-#### [Wijziging Dagloonregels Invoeringswet stelselherziening sociale zekerheid](../../../../../../../../../../../ministeriele-regeling/wijziging/dagloonregels/invoeringswet/stelselherziening/sociale/zekerheid/BWBR0010484/README.md) 
+####[Wijziging Dagloonregels Invoeringswet stelselherziening sociale zekerheid](../../../../../../../../../../../ministeriele-regeling/wijziging/dagloonregels/invoeringswet/stelselherziening/sociale/zekerheid/BWBR0010484/README.md)
 
-Wijzigt de Dagloonregels Invoeringswet stelselherziening sociale zekerheid.   
+Wijzigt de Dagloonregels Invoeringswet stelselherziening sociale zekerheid. 
 
 ### Artikel  IV  
 
 ####Overgangsbepaling dagloonregels [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md)
 
 1.  De regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 april 1967, nr. 61524 (Stcrt. 126), zoals die regeling luidde op de dag voorafgaand aan de inwerkingtreding van artikel I van deze regeling, blijft van toepassing op de persoon wiens recht op arbeidsongeschiktheidsuitkering is ontstaan voor de datum van inwerkingtreding van dat artikel, met betrekking tot die arbeidsongeschiktheidsuitkering.   
-2.  Het eerste lid is niet van toepassing met betrekking tot het dagloon dat opnieuw wordt vastgesteld op grond van artikel 40, eerste lid, van de Wet op de arbeidsongeschiktheidsuitkering.   
+2.  Het eerste lid is niet van toepassing met betrekking tot het dagloon dat opnieuw wordt vastgesteld op grond van artikel 40, eerste lid, van de Wet op de arbeidsongeschiktheidsuitkering.  
 
 ### Artikel  V  
 
@@ -41,13 +41,13 @@ De regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 april 19
 
 ####Overgangsbepaling Dagloonregels Invoeringswet stelselherziening sociale zekerheid
 
-De Dagloonregels Invoeringswet stelselherziening sociale zekerheid, zoals die regeling luidde op de dag voorafgaand aan de inwerkingtreding van artikel III van deze regeling, blijven van toepassing op de persoon wiens recht op uitkering op grond van de [Werkloosheidswet](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) is ontstaan voor de datum van inwerkingtreding van dat artikel, met betrekking tot dat recht.  
+De Dagloonregels Invoeringswet stelselherziening sociale zekerheid, zoals die regeling luidde op de dag voorafgaand aan de inwerkingtreding van artikel III van deze regeling, blijven van toepassing op de persoon wiens recht op uitkering op grond van de [Werkloosheidswet](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) is ontstaan voor de datum van inwerkingtreding van dat artikel, met betrekking tot dat recht. 
 
 ### Artikel  VII  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2001.  
+Deze regeling treedt in werking met ingang van 1 januari 2001. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 `s-Gravenhage 
@@ -55,4 +55,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
-J. F.Hoogervorst    
+J. F. Hoogervorst      

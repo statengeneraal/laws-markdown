@@ -2,7 +2,7 @@
 
 ##Deelregeling Werkbijdrage WJT+
 
-Het bestuur van het Mondriaan Fonds,  
+Het bestuur van het Mondriaan Fonds,   
 Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);
 Besluit:    
 
@@ -10,7 +10,7 @@ Besluit:
 
 ####Doel
 
-De regeling is bedoeld om initiatieven uit het professionele veld te stimuleren, waardoor talentvolle startende kunstenaars werk tot stand brengen, de zichtbaarheid van dit werk vergroot wordt en een (passend) publiek ervan kennis kan nemen. De regeling is van toepassing op opdrachtgevers die veelbelovende plannen hebben voor een bijzondere samenwerking met een startende kunstenaar, zoals de productie van nieuw werk, het aankopen van werk en het intensief volgen van de kunstenaar en diens werk, waarbij de aanvrager het werk onder de aandacht brengt van een (passend) publiek.  
+De regeling is bedoeld om initiatieven uit het professionele veld te stimuleren, waardoor talentvolle startende kunstenaars werk tot stand brengen, de zichtbaarheid van dit werk vergroot wordt en een (passend) publiek ervan kennis kan nemen. De regeling is van toepassing op opdrachtgevers die veelbelovende plannen hebben voor een bijzondere samenwerking met een startende kunstenaar, zoals de productie van nieuw werk, het aankopen van werk en het intensief volgen van de kunstenaar en diens werk, waarbij de aanvrager het werk onder de aandacht brengt van een (passend) publiek. 
 
 ### Artikel  2  
 
@@ -24,13 +24,13 @@ De regeling is bedoeld om initiatieven uit het professionele veld te stimuleren,
 6.  Geen werkbijdrage kan worden aangevraagd door hbo-opleidingen en door instellingen waarvoor een beurs praktijkverdieping kan worden aangevraagd.   
 7.  De financiële bijdrage die de aanvrager van een werkbijdrage levert dient in een aanvaardbare verhouding te staan tot de bijdrage van het Mondriaan Fonds.   
 8.  Een werkbijdrage kan slechts een keer ten gunste van dezelfde kunstenaar komen.   
-9.  Een werkbijdrage kan slechts worden verstrekt voor zover het belastbaar inkomen van de kunstenaar in de periode waarvoor deze wordt aangevraagd naar verwachting lager zal zijn dan een door het bestuur vast te stellen bedrag.   
+9.  Een werkbijdrage kan slechts worden verstrekt voor zover het belastbaar inkomen van de kunstenaar in de periode waarvoor deze wordt aangevraagd naar verwachting lager zal zijn dan een door het bestuur vast te stellen bedrag.  
 
 ### Artikel  3  
 
 ####Aanvraag
 
-Naast de bepalingen vastgesteld in het Algemeen reglement, in het aanvraagformulier en in de toelichting daarbij dient de aanvraag voor een werkbijdrage vergezeld te gaan van visueel documentatiemateriaal, toelichting op het werk en het cv van de kunstenaar, een onderbouwd werkplan en een presentatievoorstel waarin de aanvrager toelicht welke bijdrage op het gebied van presentatie en/of aankoop en zichtbaarheid wordt geleverd en een motivering waarin de ideeën over keuze voor en de relatie met de kunstenaar worden onderbouwd. In deze plannen en motivering dient de aanvrager zijn inhoudelijke inbreng en financiële bijdrage duidelijk te omschrijven.  
+Naast de bepalingen vastgesteld in het Algemeen reglement, in het aanvraagformulier en in de toelichting daarbij dient de aanvraag voor een werkbijdrage vergezeld te gaan van visueel documentatiemateriaal, toelichting op het werk en het cv van de kunstenaar, een onderbouwd werkplan en een presentatievoorstel waarin de aanvrager toelicht welke bijdrage op het gebied van presentatie en/of aankoop en zichtbaarheid wordt geleverd en een motivering waarin de ideeën over keuze voor en de relatie met de kunstenaar worden onderbouwd. In deze plannen en motivering dient de aanvrager zijn inhoudelijke inbreng en financiële bijdrage duidelijk te omschrijven. 
 
 ### Artikel  4  
 
@@ -54,19 +54,19 @@ Naast de bepalingen vastgesteld in het Algemeen reglement, in het aanvraagformul
 – de allianties die de kunstenaar aangaat om zijn werk geproduceerd te krijgen.       
 3.  Indien het bevoegd adviesorgaan de in het eerste en tweede lid genoemde aspecten in onderlinge samenhang positief beoordeelt brengt het een positief advies uit.   
 4.  Indien het bevoegd adviesorgaan de in het eerste en tweede lid genoemde aspecten in onderlinge samenhang negatief beoordeelt brengt het een negatief advies uit.   
-5.  Het bestuur kan het bevoegd adviesorgaan in verband met het beperkte budget verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in lid 1 van dit artikel. Alsdan onderbouwt het adviesorgaan zijn prioritering.   
+5.  Het bestuur kan het bevoegd adviesorgaan in verband met het beperkte budget verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in lid 1 van dit artikel. Alsdan onderbouwt het adviesorgaan zijn prioritering.  
 
 ### Artikel  6  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2013. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2012, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2013.  
+Deze regeling treedt in werking met ingang van 1 januari 2013. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2012, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2013. 
 
 ### Artikel  7  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Deelregeling Werkbijdrage WJT+.  
+Deze regeling wordt aangehaald als: Deelregeling Werkbijdrage WJT+. 
 Deze regeling zal in de Staatscourant worden geplaatst.  
 
 De stichting Mondriaan Fonds, 
