@@ -75,7 +75,7 @@ n. *peildatum:* 1 april of 1 oktober van enig kalenderjaar.
 
 ####Aanvullende personele bekostiging
 
-1.  De verstrekking van de aanvullende personele bekostiging, bedoeld in artikel 2, eerste lid, vindt telkens plaats voor twee kalenderjaren.   
+1.  De verstrekking van aanvullende personele bekostiging, bedoeld in artikel 2, eerste lid, vindt plaats voor één kalenderjaar.   
 2.  De aanvullende personele bekostiging wordt bepaald op grond van het aantal L+A-leerlingen dat op de teldatum van enig kalenderjaar bij de school als werkelijk schoolgaand staat ingeschreven.   
 3.  Verstrekking van de aanvullende personele bekostiging vindt uiterlijk in de maand mei plaats na de teldatum waarop voor de tweede maal de drempel, bedoeld in artikel 4, eerste lid, is gehaald.   
 4.  De betaling van de aanvullende personele bekostiging vindt plaats volgens het betaalritme van de reguliere personele bekostiging.   
@@ -110,9 +110,9 @@ f. minimaal 50% apc-leerlingen in gedeelde onderbouw zonder vmbo.
 
 1.  De aanvullende personele bekostiging voor het Leerplusarrangement VO wordt berekend door het aantal L+A-leerlingen op basis van de tweede achtereenvolgende teldatum, te vermenigvuldigen met het bedrag per L+A-leerling.   
 2.  Het bedrag per L+A-leerling, bedoeld in het eerste lid, wordt bepaald door het beschikbare budget per kalenderjaar te delen door het totaal aantal L+A-leerlingen van de scholen op de tweede teldatum, met uitzondering van het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum.   
-3.  Het beschikbare budget en het bedrag per L+A-leerling worden elk tweede kalenderjaar uiterlijk in de maand december in de Staatscourant bekend gemaakt als bijlage 4 bij deze regeling. Voor de twee kalenderjaren kunnen verschillende budgetten verstrekt worden.   
+3.  Het beschikbare budget en het bedrag per L+A-leerling worden uiterlijk in december in de Staatscourant bekendgemaakt als bijlage 4 bij deze regeling.   
 4.  Het bedrag per L+A-leerling, bedoeld in het eerste lid, wordt voor het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum gelijkgesteld aan het bedrag per L+A-leerling als berekend op grond van het tweede lid.   
-5.  De lijst met postcodes van de armoedeprobleemcumulatiegebieden wordt elk tweede kalenderjaar uiterlijk in augustus van het tweede kalenderjaar in de Staatscourant bekendgemaakt als bijlage 5 bij deze regeling.   
+5.  De lijst met postcodes van de armoedeprobleemcumulatiegebieden wordt uiterlijk in december in de Staatscourant bekendgemaakt als bijlage 5 bij deze regeling.   
 
 ### Artikel  6  
 
@@ -758,57 +758,18 @@ Elementcodetabel VO schooljaar 2010–2011
 
 Het totaal beschikbare budget en het bedrag per L+A leerling is:  
 
-|--- | 2011  | 2012  |
-|:---|:---|:---|
-| Totaal beschikbare budget per jaar voor L+A  | € 60.700.000  | € 50.700.000  |
-| Bedrag per L+A-leerling  | € 892  | € 750  |
+|--- | 2013  |
+|:---|:---|
+| Totaal beschikbare budget per jaar voor L+A  | € 50.728.00  |
+| Bedrag per L+A-leerling  | € 750  |
 
 ### Bijlage  5  
 
 ####bij artikel 5 
 
-Lijst met postcodes van de armoedeprobleemcumulatiegebieden L+A 2011 en 2012 
+Lijst met postcodes van de armoedeprobleemcumulatiegebieden L+A 2013 
 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | 1011  | 1092  | 2315  | 2905  | 3086  | 4536  | 5701  | 6823  | 7942  |
-| 2  | 1013  | 1093  | 2316  | 3012  | 3087  | 4537  | 5702  | 6826  | 8021  |
-| 3  | 1014  | 1094  | 2321  | 3014  | 3089  | 4613  | 5703  | 6827  | 8022  |
-| 4  | 1015  | 1095  | 2511  | 3021  | 3111  | 4621  | 5705  | 6828  | 8031  |
-| 5  | 1016  | 1097  | 2512  | 3022  | 3112  | 4623  | 5914  | 6831  | 8223  |
-| 6  | 1018  | 1102  | 2513  | 3023  | 3114  | 4811  | 5915  | 6832  | 8224  |
-| 7  | 1019  | 1103  | 2515  | 3024  | 3118  | 4812  | 5921  | 6833  | 8225  |
-| 8  | 1021  | 1104  | 2516  | 3025  | 3119  | 4814  | 5922  | 6834  | 8226  |
-| 9  | 1022  | 1106  | 2518  | 3026  | 3122  | 4816  | 5925  | 6841  | 8231  |
-| 10  | 1023  | 1107  | 2521  | 3027  | 3192  | 4822  | 5932  | 6845  | 8243  |
-| 11  | 1024  | 1212  | 2524  | 3028  | 3193  | 4826  | 5935  | 6982  | 8251  |
-| 12  | 1025  | 1221  | 2525  | 3029  | 3222  | 4827  | 6042  | 7202  | 8442  |
-| 13  | 1031  | 1314  | 2526  | 3031  | 3311  | 5011  | 6043  | 7204  | 8911  |
-| 14  | 1032  | 1324  | 2531  | 3032  | 3314  | 5014  | 6044  | 7323  | 8918  |
-| 15  | 1033  | 1333  | 2532  | 3033  | 3317  | 5018  | 6045  | 7331  | 8922  |
-| 16  | 1034  | 1334  | 2533  | 3034  | 3431  | 5021  | 6134  | 7413  | 8923  |
-| 17  | 1051  | 1353  | 2541  | 3035  | 3513  | 5022  | 6163  | 7415  | 8924  |
-| 18  | 1052  | 1354  | 2542  | 3036  | 3515  | 5025  | 6165  | 7416  | 8937  |
-| 19  | 1053  | 1443  | 2543  | 3037  | 3524  | 5042  | 6214  | 7417  | 9202  |
-| 20  | 1054  | 1502  | 2544  | 3038  | 3525  | 5044  | 6217  | 7511  | 9602  |
-| 21  | 1055  | 1503  | 2545  | 3042  | 3526  | 5046  | 6222  | 7512  | 9645  |
-| 22  | 1056  | 1504  | 2551  | 3045  | 3527  | 5049  | 6224  | 7513  | 9711  |
-| 23  | 1057  | 1505  | 2561  | 3052  | 3551  | 5063  | 6411  | 7514  | 9713  |
-| 24  | 1058  | 1508  | 2562  | 3053  | 3552  | 5212  | 6412  | 7521  | 9714  |
-| 25  | 1059  | 1622  | 2563  | 3061  | 3554  | 5213  | 6415  | 7523  | 9715  |
-| 26  | 1061  | 1784  | 2571  | 3063  | 3555  | 5223  | 6531  | 7533  | 9716  |
-| 27  | 1062  | 1813  | 2572  | 3066  | 3561  | 5224  | 6534  | 7541  | 9732  |
-| 28  | 1063  | 1823  | 2573  | 3071  | 3562  | 5231  | 6535  | 7542  | 9733  |
-| 29  | 1064  | 1946  | 2591  | 3072  | 3563  | 5344  | 6537  | 7543  | 9736  |
-| 30  | 1065  | 1951  | 2595  | 3073  | 3564  | 5348  | 6538  | 7544  | 9737  |
-| 31  | 1067  | 1966  | 2612  | 3074  | 3706  | 5462  | 6541  | 7545  | 9741  |
-| 32  | 1068  | 2033  | 2624  | 3075  | 3765  | 5612  | 6542  | 7553  | 9742  |
-| 33  | 1069  | 2034  | 2625  | 3076  | 3814  | 5621  | 6543  | 7556  | 9743  |
-| 34  | 1072  | 2035  | 2715  | 3077  | 3816  | 5622  | 6544  | 7557  | 9931  |
-| 35  | 1073  | 2037  | 2717  | 3078  | 3843  | 5625  | 6546  | 7601  | 9933  |
-| 36  | 1074  | 2262  | 2722  | 3079  | 4006  | 5642  | 6702  | 7603  | --- |
-| 37  | 1076  | 2263  | 2802  | 3081  | 4142  | 5643  | 6714  | 7604  | --- |
-| 38  | 1078  | 2273  | 2806  | 3082  | 4337  | 5645  | 6717  | 7605  | --- |
-| 39  | 1079  | 2287  | 2808  | 3083  | 4382  | 5651  | 6811  | 7606  | --- |
-| 40  | 1091  | 2312  | 2903  | 3085  | 4383  | 5654  | 6822  | 7824  | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  35  36  37  38  39  40  | 1013  1014  1015  1016  1018  1021  1022  1024  1025  1031  1032  1033  1034  1036  1051  1052  1053  1054  1055  1056  1057  1058  1059  1061  1062  1063  1064  1065  1067  1068  1069  1072  1073  1074  1076  1079  1083  1086  1087  1091  | 1092  1093  1094  1095  1097  1102  1103  1104  1106  1107  1212  1221  1314  1324  1334  1353  1354  1503  1504  1505  1622  1784  1813  1946  1951  2033  2034  2035  2262  2263  2273  2287  2315  2316  2321  2511  2512  2513  2515  2516  | 2518  2521  2524  2525  2526  2531  2532  2533  2541  2542  2543  2544  2545  2562  2563  2571  2572  2584  2591  2592  2595  2612  2624  2625  2715  2717  2722  2802  2905  3012  3014  3021  3022  3023  3024  3025  3026  3027  3028  3029  | 3031  3032  3033  3034  3035  3036  3037  3038  3042  3052  3053  3061  3063  3071  3072  3073  3074  3075  3076  3077  3078  3079  3081  3082  3083  3084  3085  3086  3087  3089  3112  3114  3118  3119  3122  3192  3193  3194  3311  3314  | 3317  3333  3511  3513  3515  3525  3526  3527  3551  3552  3554  3555  3561  3562  3563  3564  3706  3765  3816  4006  4142  4337  4382  4383  4463  4537  4621  4812  4814  4816  4826  4827  5011  5014  5022  5025  5042  5044  5046  5049  | 5212  5213  5224  5231  5233  5462  5612  5615  5621  5622  5625  5632  5641  5642  5643  5651  5654  5665  5701  5702  5703  5705  5914  5915  5921  5922  5925  6042  6043  6044  6045  6163  6165  6214  6217  6224  6412  6415  6534  6535  | 6537  6538  6541  6542  6543  6544  6545  6546  6714  6811  6822  6823  6826  6828  6831  6832  6833  6834  6841  7002  7202  7204  7323  7413  7415  7416  7417  7511  7512  7513  7514  7523  7533  7541  7543  7544  7545  7553  7556  7557  | 7574  7601  7603  7604  7605  7606  7824  7942  8021  8022  8031  8223  8224  8225  8226  8231  8233  8243  8442  8911  8918  8921  8923  8924  8937  9602  9711  9713  9715  9716  9732  9733  9736  9737  9741  9742  9743  9931  9933  |
 

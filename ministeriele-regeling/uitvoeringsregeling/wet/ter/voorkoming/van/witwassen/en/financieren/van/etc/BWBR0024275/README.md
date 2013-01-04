@@ -28,7 +28,11 @@ b. de [Successiewet 1956](../../../../../../../../../../../../wet/successiewet/1
 
 ### Artikel  3  
 
-Als staat in de zin van [artikel 6, eerste lid, onderdeel b, van de wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) worden aangewezen: Argentinië, Aruba, Australië, Brazilië, Canada, Frans Polynesië, Guernsey, Hongkong, Japan, Jersey, het eiland Man, Mayotte, Mexico, de Nederlandse Antillen, Nieuw Zeeland, de Russische Federatie, Singapore, Sint Pierre en Miquelon, de Verenigde Staten van Amerika, de Wallis-archipel en Futuna-eiland, Zuid-Afrika en Zwitserland.  
+Als staat in de zin van [artikel 6, eerste lid, onderdeel b, van de wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) worden aangewezen: Argentinië, Aruba, Australië, Brazilië, Canada, Curaçao, Frans Polynesië, Guernsey, Hongkong, Japan, Jersey, het eiland Man, Mayotte, Mexico, Nieuw Zeeland, de Russische Federatie, Singapore, Sint Maarten, Sint Pierre en Miquelon, de Verenigde Staten van Amerika, de Wallis-archipel en Futuna-eiland, Zuid-Afrika en Zwitserland.  
+
+### Artikel  3a  
+
+Van [artikel 8, vierde en vijfde lid, van de wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) zijn ter zake van personen die in Nederland wonen, vrijgesteld instellingen als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 5°, van de wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md).  
 
 ### Artikel  4  
 
