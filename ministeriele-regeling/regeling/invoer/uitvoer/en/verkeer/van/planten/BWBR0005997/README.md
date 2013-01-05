@@ -243,26 +243,61 @@ c. beschikking nr. 2007/410/EG: beschikking nr. 2007/410/EG van de Commissie van
 
 a. het schadelijke organisme: Anoplophora chinensis (Forster);  
 
-b. gevoelige planten: voor opplant bestemde planten, met uitzondering van zaden, van Acer spp., Aesculus hippocastanum, Alnus spp., Betula spp., Carpinus spp., Citrus spp., Corylus spp., Cotoneaster spp., Fagus spp., Lagerstroemia spp., Malus spp., Platanus spp., Populus spp., Prunus spp., Pyrus spp., Salix spp., en Ulmus spp.;  
+b. gevoelige planten: voor opplant bestemde planten met een stam- of wortelhalsdiameter van tenminste 1 centimeter op het dikste punt, met uitzondering van zaden, van Acer spp., Aesculus hippocastanum, Alnus spp., Betula spp., Carpinus spp., Citrus spp., Cornus spp., Corylus spp., Cotoneaster spp., Crataegus spp., Fagus spp., Lagerstroemia spp., Malus spp., Platanus spp., Populus spp., Prunus laurocerasus, Pyrus spp., Rosa spp., Salix spp. en Ulmus spp.;  
 
-c. beschikking nr. 2008/840/EG: beschikking nr. 2008/840/EG van de Commissie van 7 november 2008 tot vaststelling van noodmaatregelen om het binnenbrengen en de verspreiding in de Gemeenschap van Anoplophora chinensis (Forster) te voorkomen (PbEU L 300/36).     
+c. uitvoeringsbesluit nr. 2012/138/EU: uitvoeringsbesluit nr. 2012/138/EU van de Commissie van 1 maart 2012 tot vaststelling van noodmaatregelen om het binnenbrengen en de verspreiding in de Unie van Anoplophora chinensis (Forster) te voorkomen (PbEU 2012 L 64).     
 2.  Gevoelige planten afkomstig uit derde landen, met uitzondering van gevoelige planten afkomstig uit China, waarvan bekend is dat het schadelijke organisme er voorkomt, mogen slechts in de Gemeenschap worden binnengebracht als: 
 
-a. zij voldoen aan de specifieke invoervoorschriften van bijlage I, onderdeel I, onder A, sub 1, bij beschikking nr. 2008/840/EG; en  
+a. zij voldoen aan de specifieke invoervoorschriften van bijlage I, onderdeel 1, onder A, sub 1, bij uitvoeringsbesluit nr. 2012/138/EU; en  
 
-b. zij, onverminderd artikel 12, bij binnenkomst in de Gemeenschap overeenkomstig bijlage I, onderdeel I, onder A, sub 2, bij beschikking nr. 2008/840/EG worden geïnspecteerd op de aanwezigheid van het schadelijke organisme en geen tekenen van aanwezigheid van dat schadelijke organisme zijn gevonden.     
-3.  Voor opplant bestemde planten van Acers spp, met uitzondering van zaden daarvan, afkomstig uit China mogen tot de datum, genoemd in artikel 2 bis, tweede lid, eerste alinea, van beschikking nr. 2008/840/EG niet in de Gemeenschap worden binnengebracht.   
+b. zij, onverminderd artikel 12, bij binnenkomst in de Gemeenschap overeenkomstig bijlage I, onderdeel 1, onder A, sub 2, bij uitvoeringsbesluit nr. 2012/138/EU worden geïnspecteerd op de aanwezigheid van het schadelijke organisme en geen tekenen van aanwezigheid van dat schadelijke organisme zijn gevonden.     
+3.  Voor opplant bestemde planten van Acer spp, met uitzondering van zaden daarvan, afkomstig uit China mogen tot en met de datum, genoemd in artikel 3, tweede lid, eerste alinea, van uitvoeringsbesluit nr. 2012/138/EU niet in de Gemeenschap worden binnengebracht.   
 4.  Onverminderd het derde lid mogen gevoelige planten afkomstig uit China slechts in de Gemeenschap worden binnengebracht als: 
 
-a. zij voldoen aan de specifieke invoervoorschriften van bijlage I, onderdeel I, onder B, sub 1, bij beschikking nr. 2008/840/EG,  
+a. zij voldoen aan de specifieke invoervoorschriften van bijlage I, onderdeel 1, onder B, sub 1 bij uitvoeringsbesluit nr. 2012/138/EU,  
 
-b. zij, onverminderd artikel 12, bij binnenkomst in de Gemeenschap overeenkomstig bijlage I, onderdeel I, onder B, sub 2, bij beschikking nr. 2008/840/EG worden geïnspecteerd op de aanwezigheid van het schadelijke organisme en geen tekenen van aanwezigheid van dat schadelijke organisme zijn gevonden, en  
+b. zij, onverminderd artikel 12, bij binnenkomst in de Gemeenschap overeenkomstig bijlage I, onderdeel 1, onder B, sub 2 bij uitvoeringsbesluit nr. 2012/138/EU worden geïnspecteerd op de aanwezigheid van het schadelijke organisme en geen tekenen van aanwezigheid van dat schadelijke organisme zijn gevonden, en  
 
-c. zij voldoen aan artikel 2 bis, eerste lid, onderdeel c, van beschikking nr. 2008/840/EG.     
+c. zij voldoen aan artikel 3, eerste lid, onderdeel c, van uitvoeringsbesluit nr. 2012/138/EU.     
 
 ### Artikel  12j  
 
 Onverminderd de artikelen 10, tweede lid, en 12, mogen planten of delen van planten van het geslacht Castanea Mill., bestemd voor opplant, met uitzondering van vruchten en zaden, afkomstig uit derde landen, slechts in de Gemeenschap worden binnengebracht indien zij voldoen aan bijlage I, onderdeel 1, bij beschikking 2006/464/EG en indien ze bij binnenkomst in de Gemeenschap overeenkomstig artikel 13bis, lid 1, van richtlijn nr. 2000/29/EG zijn gecontroleerd op de aanwezigheid van Dryocosmus kuriphilus Yasumatsu en daarvan vrij zijn bevonden.  
+
+### Artikel  12k  
+
+1.  Onverminderd artikel 1 wordt voor de toepassing van dit artikel verstaan onder: 
+
+a. schadelijk organisme: Epitrix cucumeris (Harris), Epitrix similaris (Gentner), Epitrix subcrinita (Lec.) of Epitrix tuberis (Gentner);  
+
+b. uitvoeringsbesluit 2012/270/EU: uitvoeringsbesluit 2012/270/EU van de Commissie van 16 mei 2012 betreffende noodmaatregelen om het binnenbrengen en de verspreiding in de Unie van Epitrix cucumeris (Harris), Epitrix similaris (Gentner), Epitrix subcrinita (Lec.) en Epitrix tuberis (Gentner) te voorkomen (PbEU 2012, L132).     
+2.  Het is verboden het schadelijke organisme in te voeren en binnen Nederland te verspreiden.   
+3.  Knollen van Solanum tuberosum L. van oorsprong uit derde landen waarvan bekend is dat het schadelijke organisme er voorkomt, mogen slechts in de Europese Unie worden binnengebracht als: 
+
+a. zij voldoen aan de specifieke invoervoorschriften van punt 1 van sectie 1 van bijlage I van uitvoeringsbesluit nr. 2012/270/EU en  
+
+b. zij, onverminderd de artikelen 12 en 12a, bij binnenkomst in de Europese Unie overeenkomstig punt 5 van sectie 1 van bijlage I van uitvoeringsbesluit nr. 2012/270/EU zijn geïnspecteerd.     
+4.  Knollen van Solanum tuberosum L. van oorsprong uit derde landen waarvan bekend is dat het schadelijke organisme er voorkomt en die zijn ingevoerd overeenkomstig het derde lid, mogen alleen binnen de Europese Unie worden vervoerd indien zij voldoen aan de voorwaarden van punt 3 van sectie 2 van bijlage I van uitvoeringsbesluit nr. 2012/270/EU.   
+5.  Knollen van Solanum tuberosum L. van oorsprong uit gebieden in de Europese Unie die overeenkomstig artikel 5 van uitvoeringsbesluit nr. 2012/270/EU zijn afgebakend, mogen alleen binnen de Europese Unie worden vervoerd als zij voldoen aan de voorwaarden zoals gesteld in punt 1 van sectie 2 van bijlage I van uitvoeringsbesluit nr. 2012/270/EU.   
+
+### Artikel  12l  
+
+1.  Voor de toepassing van dit artikel verstaan onder: 
+
+*uitvoeringsbesluit nr. 2012/697/EU:* uitvoeringsbesluit 2012/697/EU van de Commissie van 8 november 2012 wat betreft maatregelen het binnenbrengen en de verspreiding in de Unie van het geslacht Pomacea (Perry) te voorkomen (PbEU 2012, L 311).     
+2.  Het is verboden het geslacht Pomacea (Perry) in te voeren en binnen Nederland te verspreiden.   
+3.  Voor opplant bestemde planten, met uitzondering van zaden, die alleen groeien in water of in grond die permanent is verzadigd met water, van oorsprong uit derde landen, mogen slechts in de Europese Unie worden binnengebracht als: 
+
+a. zij voldoen aan de invoervoorschriften van punt 1 van sectie 1 van bijlage I van uitvoeringsbesluit nr. 2012/697/EU en  
+
+b. zij, onverminderd de artikelen 12, bij binnenkomst in de Europese Unie overeenkomstig punt 2 van sectie 1 van bijlage I van uitvoeringsbesluit nr. 2012/697/EU zijn geïnspecteerd.     
+4.  Voor opplant bestemde planten, met uitzondering van zaden, die alleen groeien in water of in grond die permanent is verzadigd met water, van oorsprong uit gebieden in de Europese Unie die overeenkomstig artikel 5 van uitvoeringsbesluit nr. 2012/697/EU zijn afgebakend, mogen alleen binnen de Europese Unie in het verkeer worden gebracht als zij voldoen aan de voorwaarden zoals gesteld in sectie 2 van bijlage I van uitvoeringsbesluit nr. 2012/697/EU.   
+
+### Artikel  12m  
+
+1.  Voor de toepassing van dit artikel wordt verstaan onder uitvoeringsbesluit 2012/756/EU: uitvoeringsbesluit 2012/756/EU van de Commissie van 5 december 2012 betreffende maatregelen om het binnenbrengen en de verspreiding in de Unie van Pseudomonas syringae pv. actinidiae Takikawa, Serizawa, Ichikawa, Tsuyumu & Goto te voorkomen (PbEU 2012, L 335).   
+2.  Levende pollen en voor opplant bestemde planten, met uitzondering van zaden, van Actinidia Lindl. van oorsprong uit derde landen, mogen slechts in de Europese Unie worden binnengebracht als zij voldoen aan de specifieke invoervoorschriften van bijlage I van uitvoeringsbesluit 2012/756/EU.   
+3.  Levende pollen en voor opplant bestemde planten, met uitzondering van zaden, van Actinidia Lindl. mogen slechts binnen de Europese Unie worden vervoerd als zij voldoen aan de voorwaarden van bijlage II van uitvoeringsbesluit 2012/756/EU.   
 
 ### Artikel  13  
 

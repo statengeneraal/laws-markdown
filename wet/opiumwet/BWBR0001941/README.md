@@ -120,7 +120,7 @@ a. dat daarmee het belang van de volksgezondheid of dat van de gezondheid van di
 
 b. deze nodig te hebben voor het verrichten van wetenschappelijk of analytisch-chemisch onderzoek dan wel voor instructieve doeleinden, voor zover het belang van de volksgezondheid zich hier niet tegen verzet, of  
 
-deze nodig te hebben voor het verrichten van een handeling als bedoeld in artikel 2 of  3 krachtens een overeenkomst met: 
+c. deze nodig te hebben voor het verrichten van een handeling als bedoeld in artikel 2 of  3 krachtens een overeenkomst met: 
 
 1. een ander aan wie krachtens artikel 6, eerste lid, een ontheffing is verleend;  
 
@@ -320,7 +320,7 @@ den 12den Mei 1928
 WILHELMINA.  
 
 De Minister van Arbeid, Handel en Nijverheid, 
-J. R. SLOTEMAKER DE BRUINE.   
+J. R. SLOTEMAKER DE BRUÏNE.   
 
 De Minister van Binnenlandsche Zaken en Landbouw, 
 J. B. KAN.   
@@ -338,7 +338,7 @@ J. DONNER.
 
 ### Lijst  I  
 
-| International Non-proprietary Name (INN)  <sup> 1   De door de Wereldgezondheidsorganisatie vastgestelde generieke benaming.    </sup> | andere benamingen  | nadere omschrijving  |
+| International Non-proprietary Name (INN) ¹  | andere benamingen  | nadere omschrijving  |
 |:---|:---|:---|
 | acetorfine  | –  | --- |
 | –  | acetyl- *alfa* -methylfentanyl  | *N* -[1-(*alfa* -methylfenethyl)-4-piperidyl]-acetanilide  |
@@ -365,7 +365,7 @@ J. DONNER.
 | betaprodine  | –  | --- |
 | bezitramide  | –  | --- |
 | –  | bolkaf  | alle delen van de plant Papaver somniferum L. na het oogsten, met uitzondering van het zaad  |
-| brolamfetamine  | –  | --- |
+| brolamfetamine  | DOB  | --- |
 | cathinon  | –  | --- |
 | --- | 2C-B  | 4-bromo-2,5-dimethoxyfenetylamine  |
 | –  | 2C-I  | 2,5-dimethoxy-4-iodofenethylamine  |
@@ -420,6 +420,7 @@ J. DONNER.
 | fentanyl  | –  | --- |
 | folcodine  | –  | --- |
 | –  | furethidine  | 1-(2-tetrahydrofurfuryloxyethyl)-4-fenyl-piperidine-4-carbonzure ethylester  |
+| –  | GHB  | 4-hydroxyboterzuur  |
 | –  | hennepolie  | concentraat van planten van het geslacht Cannabis (hennep) verkregen door extractie van hennep of hasjiesj, al dan niet vermengd met olie  |
 | –  | heroïne, diamorfine  | 4,5-epoxy-17-methylmorfinan-3,6-diyl-diacetaat  |
 | hydrocodon  | –  | --- |
@@ -435,8 +436,9 @@ J. DONNER.
 | levomethorfan  | –  | --- |
 | levomoramide  | –  | --- |
 | levorfanol  | –  | --- |
-| lysergide  | --- | --- |
+| lysergide  | LSD  | --- |
 | mecloqualon  | –  | --- |
+| –  | mefedron  | 4-methylmethcathinon  |
 | –  | mescaline  | 3,4,5-trimethoxyfenethylamine  |
 | metamfetamine  | –  | --- |
 | metamfetamine racemaat  | –  | --- |
@@ -446,7 +448,8 @@ J. DONNER.
 | methaqualon  | –  | --- |
 | –  | methcathinon  | (2-methylamino)-1-fenylpropaan-1-on  |
 | –  | 2-methoxy-4,5-methyleendioxyamfetamine, MMDA  | 2-methoxy- *alfa* -methyl-4,5-(methyleendioxy)- fenethylamine  |
-| –  | 4-methylaminorex  | (±)- *cis-* 2-amino-4-methyl-5-fenyl-2-oxazoline  |
+| –  | 4-methylamfetamine, 4-MA  | –  |
+| –  | 4-methylaminorex  | (±)-cis-2-amino-4-methyl-5-fenyl-2-oxazoline  |
 | methyldesorfine  | –  | --- |
 | methyldihydromorfine  | –  | --- |
 | –  | 3,4-methyleendioxymethamfetamine, MDMA  | (±)- *N*, *alfa* -dimethyl-3,4-(methyleendioxy)-fenethylamine  |
@@ -472,7 +475,7 @@ J. DONNER.
 | normorfine  | –  | --- |
 | norpipanon  | –  | --- |
 | –  | opium  | het gestremde melksap, verkregen van de plant Papaver somniferum L.  |
-| oripavine  | 3- *O* -demethylthebaine  | 6,7,8,14-tetradehydro-4,5- *alpha* -epoxy-6-methoxy-17-methylmorphinan-3-ol»  |
+| oripavine  | 3- *O* -demethylthebaine  | 6,7,8,14-tetradehydro-4,5- *alpha* -epoxy-6-methoxy-17-methylmorphinan-3-ol  |
 | oxycodon  | –  | --- |
 | oxymorfon  | –  | --- |
 | –  | *para* -fluorfentanyl  | 4'-fluoro- *N* -(1-fenethyl-4-piperidyl)propion-anilide  |
@@ -498,6 +501,7 @@ J. DONNER.
 | rolicyclidine  | –  | --- |
 | secobarbital  | –  | --- |
 | sufentanil  | –  | --- |
+| tapentadol  | –  | –  |
 | tenamfetamine  | –  | --- |
 | tenocyclidine  | –  | --- |
 | –  | tetrahydrocannabinol  | (6 *aR*,10 *aR*)-6 *a*,7,8,10 *a* -tetrahydro-6,6,9-trimethyl-3-pentyl-6 *H* -dibenzo[ *b,d* ]pyran-1-ol  |
@@ -510,7 +514,7 @@ J. DONNER.
 | –  | 3,4,5-trimethoxyamfetamine, TMA  | (±)-3,4,5-trimethoxy- *alfa* -methylfenethylamine  |
 | zipeprol  | –  | --- |
 
-de esters en derivaten van ecgonine, die kunnen worden omgezet in ecgonine en cocaïne; de mono- en di-alkylamide-, de pyrrolidine- en morfolinederivaten van lyserginezuur, en de daarvan door invoering van methyl-, acetyl- of halogeengroepen verkregen middelen; vijfwaardige stikstof-gesubstitueerde morfinederivaten, waaronder begrepen morfine- *N* -oxide-derivaten, zoals codeïne- *N* -oxide; de isomeren en stereoisomeren van tetrahydrocannabinol; de ethers, esters en enantiomeren van de bovengenoemde substanties, met uitzondering van dextromethorfan (INN) als enantiomeer van levomethorfan en racemethorfan, en met uitzondering van dextrorfanol (INN) als enantiomeer van levorfanol en racemorfan; preparaten die één of meer van de bovengenoemde substanties bevatten. 
+¹ De door de Wereldgezondheidsorganisatie vastgestelde generieke benaming. de esters en derivaten van ecgonine, die kunnen worden omgezet in ecgonine en cocaïne; de mono- en di-alkylamide-, de pyrrolidine- en morfolinederivaten van lyserginezuur, en de daarvan door invoering van methyl-, acetyl- of halogeengroepen verkregen middelen; vijfwaardige stikstof-gesubstitueerde morfinederivaten, waaronder begrepen morfine- *N* -oxide-derivaten, zoals codeïne- *N* -oxide; de isomeren en stereoisomeren van tetrahydrocannabinol; de ethers, esters en enantiomeren van de bovengenoemde substanties, met uitzondering van dextromethorfan (INN) als enantiomeer van levomethorfan en racemethorfan, en met uitzondering van dextrorfanol (INN) als enantiomeer van levorfanol en racemorfan; preparaten die één of meer van de bovengenoemde substanties bevatten. 
 
 ### Lijst  II  
 
@@ -557,7 +561,6 @@ de esters en derivaten van ecgonine, die kunnen worden omgezet in ecgonine en co
 | haloxazolam  | –  | --- |
 | –  | hasjiesj  | een gebruikelijk vast mengsel van de afgescheiden hars verkregen van planten van het geslacht Cannabis (hennep), met plantaardige elementen van deze planten  |
 | –  | hennep  | elk deel van de plant van het geslacht Cannabis (hennep), waaraan de hars niet is onttrokken, met uitzondering van de zaden  |
-| --- | --- | 4-hydroxyboterzuur  |
 | ketazolam  | –  | --- |
 | lefetamine  | –  | --- |
 | loprazolam  | –  | --- |
@@ -583,6 +586,7 @@ de esters en derivaten van ecgonine, die kunnen worden omgezet in ecgonine en co
 | pipradrol  | –  | --- |
 | prazepam  | –  | --- |
 | pyrovaleron  | –  | --- |
+| –  | Qat  | de bladeren en takjes van de plant Catha Edulis Forsk  |
 | secbutabarbital  | –  | --- |
 | temazepam  | –  | --- |
 | tetrazepam  | –  | --- |
