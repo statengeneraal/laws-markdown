@@ -20,7 +20,19 @@ In deze verordening wordt verstaan onder:
 
 a. *bestuur:* het bestuur van de KNB, genoemd in [artikel 64, eerste lid, Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md);  
 
-b. *notaris:* de notaris, genoemd in [artikel 1, onder a, Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md), alsmede de kandidaat-notaris, genoemd in artikel 1, onder b, Wet op het notarisambt, tenzij uit de aard van de bepaling anders voortvloeit.    
+b. *notaris:* de notaris, genoemd in [artikel 1, onder a, Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md), alsmede de kandidaat-notaris, genoemd in artikel 1, onder b, Wet op het notarisambt, tenzij uit de aard van de bepaling anders voortvloeit.  
+
+c. *Protocol:* het protocol, genoemd in [artikel 1, eerste lid, sub e Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md), van de notaris en zijn voorgangers;  
+
+d. *Rechtsvorm:* de al dan niet rechtspersoonlijkheid bezittende juridische vorm waarin de notarispraktijk is uitgeoefend;  
+
+e. *Protocolopvolger:* de notaris die een protocol heeft overgenomen in de zin van de [Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md);  
+
+f. *Protocolvoorganger:* de oud-notaris als voorganger van de protocolopvolger waaronder begrepen zijn waarnemer(s) in de zin van de [Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md) en de rechtsvorm waarin de praktijk is uitgeoefend;  
+
+g. *Werknemers:* personen die, al dan niet in loondienst, onder verantwoordelijkheid van de hiervoor onder d., e. en f genoemde personen of rechtsvormen werkzaamheden hebben verricht, of hebben doen verrichten;  
+
+h. *Protocolverzekerden:* de hiervoor onder f. en g. genoemde personen of rechtsvormen, inclusief hun rechtsvoorgangers, rechtsopvolgers, rechtsvertegenwoordigers of andere niet onder f. en g. genoemde personen of rechtsvormen voor zover die andere personen of rechtsvormen waren meeverzekerd onder een beroepsaansprakelijkheidsverzekering van de betreffende protocolvoorganger.    
 
 ### Artikel  2  
 
@@ -110,9 +122,38 @@ De notaris dient ervoor zorg te dragen dat de inrichting en organisatie van zijn
 
 ### Artikel  15  
 
-####Verzekeringsplicht
+1.  De notaris moet voldoende verzekerd zijn tegen vermogensschade als gevolg van aansprakelijkheid, ongeacht uit welken hoofde deze aansprakelijkheid kan ontstaan.   
+2.  Voor de verzekering van het risico van beroepsaansprakelijkheid van de notaris en zijn protocolvoorgangers geldt het volgende: 
 
-De notaris moet voldoende verzekerd zijn tegen vermogensschade als gevolg van aansprakelijkheid, ongeacht uit welken hoofde deze aansprakelijkheid kan ontstaan.  
+a. schaden die lopen tot vijfentwintig miljoen euro (€ 25.000.000) moeten zijn gedekt;  
+
+b. deelname aan de verzekering die de KNB collectief ten behoeve van de leden sluit en die schaden dekt, lopende van een miljoen euro (€ 1.000.000) tot vijfentwintig miljoen euro (€ 25.000.000), is verplicht. Een aandeel in de kosten van deze verzekering wordt via de jaarlijkse ledenbijdrage bij de verzekerde notaris in rekening gebracht;  
+
+c. het zelf te verzekeren risico van nul tot een miljoen euro (€ 1.000.000) moet zijn gedekt via een te goeder naam en faam bekend staande verzekeringsmaatschappij;  
+
+d. de onder c. bedoelde verzekering dient te voldoen aan de volgende voorwaarden: 
+
+1. de verzekering van de notaris dekt ook in geval van zijn schorsing of ontzetting mede de aansprakelijkheid van de protocolverzekerden en de kandidaat-notaris die het notarisambt waarneemt in de zin van de Wet op het notarisambt;  
+
+2. de verzekering dekt mede de burgerrechtelijke aansprakelijkheid van de notaris voor handelen en nalaten van personen die onder zijn verantwoordelijkheid werkzaam zijn;  
+
+3. de verzekerde limieten vormen het minimaal door de notaris te verzekeren bedrag van één miljoen euro (€ 1.000.000) per aanspraak en twee miljoen euro (€ 2.000.000) per verzekeringsjaar; zij gelden onafhankelijk van elkaar voor de notaris en per individuele protocolvoorganger;  
+
+4. voor de protocolverzekerden mag geen eigen risico gelden;  
+
+5. indien een schade van de protocolverzekerden niet gedekt is op basis van de polisvoorwaarden van de protocolopvolger dient dekking te worden geboden overeenkomstig de polisvoorwaarden die voor de protocolvoorganger(s) van kracht waren ten tijde van het begaan van de fout, echter als waren die polisvoorwaarden op basis van het systeem waarbij voor de polisdekking het moment van de aanspraak of de omstandighedenmelding bepalend is voor de polisdekking (claims made basis);  
+
+6. aan de polisrechten van protocolverzekerden mag geen afbreuk worden gedaan door een schending van een premiebetalings- of polisverplichting door de protocolopvolger, voor zover die schending heeft plaatsgevonden buiten weten of wil van de protocolverzekerde die aanspraak maakt op verzekeringsdekking. Omgekeerd mag aan polisrechten van de protocolopvolger geen afbreuk worden gedaan bij schending van polisverplichtingen door de protocolvoorganger welke schending buiten weten of wil van de protocolopvolger heeft plaatsgevonden;  
+
+7. een vordering van de verzekeraar op de protocolverzekerden mag niet in de weg staan aan het recht op uitkering van de protocolopvolger. Omgekeerd mag een vordering van de verzekeraar op de protocolopvolger niet in de weg staan aan het recht op uitkering van de protocolverzekerden;  
+
+8. indien verzekeraars bij de aanvang van de verzekering van de protocolopvolger geen door de protocolvoorganger(s) ingevuld aanvraagformulier hebben ontvangen, mag de verzekeraar tegenover de protocolvoorganger van wie geen formulier is ontvangen, geen beroep meer doen op een schending van de mededelingsplicht;  
+
+9. de verzekering van de notaris biedt, met een minimum van 3 maanden, dekking gedurende de periode waarin nog geen aanwijzing van diens protocolopvolger heeft plaatsgevonden (zwevend protocol).  
+
+10. de dekking voor de protocolverzekerden dient in de polissen te zijn geregeld van de protocolopvolger die vanaf 1 januari 2004 een notaris in het protocol is opgevolgd;  
+
+11. de protocolopvolger dient te beschikken over een verklaring waarin de verzekeraar bevestigt dat de verzekering voldoet aan het in dit reglement bepaalde.       
 
 ### Artikel  16  
 
