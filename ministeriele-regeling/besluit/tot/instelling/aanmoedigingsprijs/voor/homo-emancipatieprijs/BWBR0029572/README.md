@@ -10,13 +10,13 @@ De Minister van Onderwijs, Cultuur en Wetenschap,  Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *minister:* de Minister van Onderwijs, Cultuur en Wetenschap;  
+a.  *minister:* de Minister van Onderwijs, Cultuur en Wetenschap;  
 
-b. *prijs:* de Innovatieprijs voor de emancipatie van lesbische, homoseksuele, biseksuele en transgender personen (LHBT);  
+b.  *prijs:* de Innovatieprijs voor de emancipatie van lesbische, homoseksuele, biseksuele en transgender personen (LHBT);  
 
-c. *Jos Brink homo-emancipatieprijs:* de regeringsprijs op homo-emancipatiegebied, ingesteld bij het [Besluit instelling Jos Brink homo-emancipatieprijs](../../../../../../../../KB/besluit/instelling/jos/brink/homo-emancipatieprijs/BWBR0024802/README.md);  
+c.  *Jos Brink homo-emancipatieprijs:* de regeringsprijs op homo-emancipatiegebied, ingesteld bij het [Besluit instelling Jos Brink homo-emancipatieprijs](../../../../../../../../KB/besluit/instelling/jos/brink/homo-emancipatieprijs/BWBR0024802/README.md);  
 
-d. *jury:* de jury, bedoeld in [artikel 2 van het Instellingsbesluit Jos Brink homo-emancipatieprijs](../../../../../../../../ministeriele-regeling/instellingsbesluit/jury/jos/brink/homo-emancipatieprijs/BWBR0025130/README.md).    
+d.  *jury:* de jury, bedoeld in [artikel 2 van het Instellingsbesluit Jos Brink homo-emancipatieprijs](../../../../../../../../ministeriele-regeling/instellingsbesluit/jury/jos/brink/homo-emancipatieprijs/BWBR0025130/README.md).   
 
 ### Artikel  2  
 
@@ -24,45 +24,45 @@ d. *jury:* de jury, bedoeld in [artikel 2 van het Instellingsbesluit Jos Brink h
 
 1.  Er is een Innovatieprijs op het gebied van de homo-emancipatie, genaamd de Innovatieprijs voor de emancipatie van lesbische, homoseksuele, biseksuele en transgender personen.   
 2.  De Innovatieprijs voor de emancipatie van lesbische, homoseksuele, biseksuele en transgender personen kan eenmaal in de twee jaar worden toegekend aan een persoon, een groep of een instelling die zich inzet of recent heeft ingezet voor een inspirerende activiteit ter verbetering van de positie van homoseksuelen in de samenleving.   
-3.  De prijs bestaat uit een geldbedrag van € 1.000.   
+3.  De prijs bestaat uit een geldbedrag van € 1.000.  
 
 ### Artikel  3  
 
 ####Toekenning
 
 1.  De toekenning van de Innovatieprijs voor de emancipatie van lesbische, homoseksuele, biseksuele en transgender personen geschiedt door de minister.   
-2.  Alvorens de prijs uit te reiken wint de minister daarover het advies in van de jury die is ingesteld voor de Jos Brink homo-emancipatieprijs.   
+2.  Alvorens de prijs uit te reiken wint de minister daarover het advies in van de jury die is ingesteld voor de Jos Brink homo-emancipatieprijs.  
 
 ### Artikel  4  
 
 ####Taak jury
 
-In aanvulling op [artikel 2, derde lid, van het Instellingsbesluit jury Jos Brink homo-emancipatieprijs](../../../../../../../../ministeriele-regeling/instellingsbesluit/jury/jos/brink/homo-emancipatieprijs/BWBR0025130/README.md), heeft de jury voorts tot taak uit de voorgedragen kandidaten, conform deze regeling en de selectiecriteria opgenomen in de bij deze regeling behorende bijlage, voor 1 april aan de minister een advies uit te brengen waarin zij een kandidaat voordraagt voor de Innovatieprijs voor de emancipatie van lesbische, homoseksuele, biseksuele en transgender personen. Dit advies maakt deel uit van het advies als bedoeld in [artikel 6 van het Instellingsbesluit jury Jos Brink homo-emancipatieprijs](../../../../../../../../ministeriele-regeling/instellingsbesluit/jury/jos/brink/homo-emancipatieprijs/BWBR0025130/README.md).  
+In aanvulling op [artikel 2, derde lid, van het Instellingsbesluit jury Jos Brink homo-emancipatieprijs](../../../../../../../../ministeriele-regeling/instellingsbesluit/jury/jos/brink/homo-emancipatieprijs/BWBR0025130/README.md), heeft de jury voorts tot taak uit de voorgedragen kandidaten, conform deze regeling en de selectiecriteria opgenomen in de bij deze regeling behorende bijlage, voor 1 april aan de minister een advies uit te brengen waarin zij een kandidaat voordraagt voor de Innovatieprijs voor de emancipatie van lesbische, homoseksuele, biseksuele en transgender personen. Dit advies maakt deel uit van het advies als bedoeld in [artikel 6 van het Instellingsbesluit jury Jos Brink homo-emancipatieprijs](../../../../../../../../ministeriele-regeling/instellingsbesluit/jury/jos/brink/homo-emancipatieprijs/BWBR0025130/README.md). 
 
 ### Artikel  5  
 
 ####Aandragen kandidaten
 
-De minister deelt in een persbericht mede dat belangstellenden voor een bepaalde datum voorstellen aan de jury kunnen doen over mogelijke kandidaten voor de Innovatieprijs voor de emancipatie van lesbische, homoseksuele, biseksuele en transgender personen.  
+De minister deelt in een persbericht mede dat belangstellenden voor een bepaalde datum voorstellen aan de jury kunnen doen over mogelijke kandidaten voor de Innovatieprijs voor de emancipatie van lesbische, homoseksuele, biseksuele en transgender personen. 
 
 ### Artikel  6  
 
 ####Werkwijze jury
 
-Bij de vaststelling van haar advies zal de jury te werk gaan conform de werkwijze als bedoeld in [artikel 5 van het Instellingsbesluit jury Jos Brink homo-emancipatieprijs](../../../../../../../../ministeriele-regeling/instellingsbesluit/jury/jos/brink/homo-emancipatieprijs/BWBR0025130/README.md).  
+Bij de vaststelling van haar advies zal de jury te werk gaan conform de werkwijze als bedoeld in [artikel 5 van het Instellingsbesluit jury Jos Brink homo-emancipatieprijs](../../../../../../../../ministeriele-regeling/instellingsbesluit/jury/jos/brink/homo-emancipatieprijs/BWBR0025130/README.md). 
 
 ### Artikel  7  
 
 ####Advies
 
 1.  De minister deelt zo spoedig mogelijk na de ontvangst van het schriftelijk advies van de jury mee of hij zich met dit advies kan verenigen.   
-2.  Indien de minister zich niet met het advies kan verenigen of de voorgedragen kandidaat kenbaar heeft gemaakt niet voor toekenning van de Innovatieprijs voor de emancipatie van lesbische, homoseksuele, biseksuele en transgender personen in aanmerking te willen komen, kan de minister de jury verzoeken een nieuw advies uit te brengen.   
+2.  Indien de minister zich niet met het advies kan verenigen of de voorgedragen kandidaat kenbaar heeft gemaakt niet voor toekenning van de Innovatieprijs voor de emancipatie van lesbische, homoseksuele, biseksuele en transgender personen in aanmerking te willen komen, kan de minister de jury verzoeken een nieuw advies uit te brengen.  
 
 ### Artikel  8  
 
 ####Informatieplicht
 
-De jury verstrekt aan de minister desgevraagd de door hem gewenste inlichtingen.  
+De jury verstrekt aan de minister desgevraagd de door hem gewenste inlichtingen. 
 
 ### Artikel  9  
 
@@ -78,37 +78,37 @@ c. een persoon die deel uitmaakt van de jury,
 
 d. een persoon, groep of instelling die subsidie van het Rijk heeft ontvangen waarmee de voorgedragen activiteit is gefinancierd.     
 2.  Kandidaten kunnen alleen bij leven worden voordragen.   
-3.  De Innovatieprijs voor de emancipatie van lesbische, homoseksuele, biseksuele en transgender personen kan niet worden gesplitst.   
+3.  De Innovatieprijs voor de emancipatie van lesbische, homoseksuele, biseksuele en transgender personen kan niet worden gesplitst.  
 
 ### Artikel  10  
 
 ####Uitreiking
 
 1.  De uitreiking van de Innovatieprijs voor de emancipatie van lesbische, homoseksuele, biseksuele en transgender personen vindt tegelijkertijd plaats met die van de Jos Brink homo-emancipatieprijs.   
-2.  De uitreiking vindt voor de eerste maal plaats in de eerste helft van het jaar 2011.   
+2.  De uitreiking vindt voor de eerste maal plaats in de eerste helft van het jaar 2011.  
 
 ### Artikel  11  
 
 ####Overige bepalingen
 
-De [artikelen 12 tot en met 15 van het Instellingsbesluit jury Jos Brink homo-emancipatieprijs](../../../../../../../../ministeriele-regeling/instellingsbesluit/jury/jos/brink/homo-emancipatieprijs/BWBR0025130/README.md) zijn van overeenkomstige toepassing op de werkzaamheden van de jury op de Innovatieprijs voor de emancipatie van lesbische, homoseksuele, biseksuele en transgender personen.  
+De [artikelen 12 tot en met 15 van het Instellingsbesluit jury Jos Brink homo-emancipatieprijs](../../../../../../../../ministeriele-regeling/instellingsbesluit/jury/jos/brink/homo-emancipatieprijs/BWBR0025130/README.md) zijn van overeenkomstige toepassing op de werkzaamheden van de jury op de Innovatieprijs voor de emancipatie van lesbische, homoseksuele, biseksuele en transgender personen. 
 
 ### Artikel  12  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  13  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Innovatieprijs voor de emancipatie van LHBT-personen.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Innovatieprijs voor de emancipatie van LHBT-personen. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap,
-J.M. vanBijsterveldt-Vliegenthart  
+Minister van Onderwijs, Cultuur en Wetenschap, 
+J.M. van Bijsterveldt-Vliegenthart    
 
 ### Bijlage  
 

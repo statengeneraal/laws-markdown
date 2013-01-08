@@ -14,59 +14,59 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-[vervallen]  
+[vervallen]
 
 ### Artikel  II  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  III  
 
-Wijzigt de Algemene wet inzake rijksbelastingen.   
+Wijzigt de Algemene wet inzake rijksbelastingen. 
 
 ### Artikel  IV  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  V  
 
-Wijzigt de Invorderingswet 1990.   
+Wijzigt de Invorderingswet 1990. 
 
 ### Artikel  VI  
 
-Wijzigt de Kostenwet invordering rijksbelastingen.   
+Wijzigt de Kostenwet invordering rijksbelastingen. 
 
 ### Artikel  VII  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  VIII  
 
-Wijzigt de Wet inkomstenbelasting 2001.   
+Wijzigt de Wet inkomstenbelasting 2001. 
 
 ### Artikel  IX  
 
-Wijzigt de Wet op de dividendbelasting 1965.   
+Wijzigt de Wet op de dividendbelasting 1965. 
 
 ### Artikel  X  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  XI  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  XII  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  XIII  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  XIV  
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.   
+Wijzigt de Wet op de vennootschapsbelasting 1969. 
 
 ### Hoofdstuk  II  
 
@@ -85,23 +85,23 @@ a. *tijdstip van transitie:* het tijdstip waarop [artikel I, tweede lid, van de 
 b. *het tijdstip van inwerkingtreding:* het tijdstip waarop de [hoofdstukken IV tot en met VII](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [IX van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en de [hoofdstukken III](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) en [V van de Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) in werking treden;  
 
 c. *overgangsperiode:* de periode vanaf het tijdstip van transitie tot het tijdstip van inwerkingtreding.     
-2.  Op dit hoofdstuk zijn [artikel 1.3 van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [artikel 1.1 van de Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) van overeenkomstige toepassing.   
+2.  Op dit hoofdstuk zijn [artikel 1.3 van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [artikel 1.1 van de Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) van overeenkomstige toepassing.  
 
 ### Artikel  II  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  III  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  IV  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  V  
 
-[vervallen]  
+[vervallen] 
 
 ### Afdeling  2  
 
@@ -109,7 +109,7 @@ c. *overgangsperiode:* de periode vanaf het tijdstip van transitie tot het tijds
 
 ### Artikel  VI  
 
-De in [artikel 8 121, tweede lid, van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [artikel 37, tweede lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) bedoelde algemene maatregel van bestuur behoeft niet te worden overgelegd aan beide kamers der Staten-Generaal indien de datum van plaatsing van deze wet in het Staatsblad is gelegen binnen twee maanden voorafgaand aan het tijdstip van inwerkingtreding.  
+De in [artikel 8 121, tweede lid, van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [artikel 37, tweede lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) bedoelde algemene maatregel van bestuur behoeft niet te worden overgelegd aan beide kamers der Staten-Generaal indien de datum van plaatsing van deze wet in het Staatsblad is gelegen binnen twee maanden voorafgaand aan het tijdstip van inwerkingtreding. 
 
 ### Artikel  VII  
 
@@ -120,13 +120,13 @@ a. degenen van wie de in het eerste lid bedoelde vergunning ingevolge dat lid is
 
 b. de plaatsen waarvan de in het eerste lid bedoelde vergunning ingevolge dat lid wordt aangemerkt als een vergunning voor een accijnsgoederenplaats, voldoen aan de bij of krachtens de [Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) gestelde voorwaarden voor het verkrijgen van een vergunning voor een accijnsgoederenplaats.     
 3.  Houders van accijnsgoederenplaatsen voor wijn, sigaren, cigarillo’s of rooktabak doen binnen een week na inwerkingtreding van de [artikelen 4.1, onderdelen e en f](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.15, onderdelen b, c en d](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), en [4.18 tot en met 4.21 van de Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) aangifte van de op het tijdstip van deze inwerkingtreding in hun accijnsgoederenplaats aanwezige hoeveelheden wijn, sigaren, cigarillo’s en rooktabak.   
-4.  In afwijking van [artikel 4.53 van de Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) kunnen tot inwerkingtreding van de [artikelen 4.1, onderdelen e en f](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.15, onderdelen b, c en d](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), en [4.18 tot en met 4.21 van de Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) accijnszegels voor sigaren, cigarillo’s en rooktabak worden aangevraagd door degene die een verzoek om vergunning voor een accijnsgoederenplaats op grond van [hoofdstuk IV, titel 3, eerste](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) en [tweede afdeling van de Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) heeft gedaan.   
+4.  In afwijking van [artikel 4.53 van de Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) kunnen tot inwerkingtreding van de [artikelen 4.1, onderdelen e en f](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.15, onderdelen b, c en d](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), en [4.18 tot en met 4.21 van de Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) accijnszegels voor sigaren, cigarillo’s en rooktabak worden aangevraagd door degene die een verzoek om vergunning voor een accijnsgoederenplaats op grond van [hoofdstuk IV, titel 3, eerste](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) en [tweede afdeling van de Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) heeft gedaan.  
 
 ### Artikel  VIII  
 
 1.  Een op grond van de in de overgangsperiode als wet van toepassing zijnde Landsverordening economische zones 2000 ingestelde economische zone op de BES eilanden wordt aangemerkt als een krachtens de [Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) door onze Minister ingesteld handels- en dienstenentrepot.   
 2.  Een op grond van de in de overgangsperiode als wet van toepassing zijnde Landsverordening economische zones 2000 verleende toelating tot een economische zone op de BES eilanden wordt aangemerkt als een krachtens de [Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) door de inspecteur verleende toelating tot een handels- en dienstenentrepot.   
-3.  De inspecteur beslist bij voor bezwaar vatbare beschikking binnen twee jaar na het tijdstip van inwerkingtreding of de ingevolge het tweede lid toegelaten bedrijven tot een handels- en dienstenentrepot voldoen aan de bij of krachtens de [Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) gestelde voorwaarden voor de toelating tot een handels- en dienstenentrepot met uitzondering van de in [artikel 5.4, tweede lid, onderdeel c, van de Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) bedoelde voorwaarde. Een ingevolge het tweede lid toegelaten bedrijf dat niet voldoet aan de bij of krachtens de [Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) gestelde voorwaarden voor de toelating tot een handels- en dienstenentrepot wordt na twee jaar na het tijdstip van inwerkingtreding geacht uit de handels- en dienstenentrepot te zijn verwijderd.   
+3.  De inspecteur beslist bij voor bezwaar vatbare beschikking binnen twee jaar na het tijdstip van inwerkingtreding of de ingevolge het tweede lid toegelaten bedrijven tot een handels- en dienstenentrepot voldoen aan de bij of krachtens de [Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) gestelde voorwaarden voor de toelating tot een handels- en dienstenentrepot met uitzondering van de in [artikel 5.4, tweede lid, onderdeel c, van de Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) bedoelde voorwaarde. Een ingevolge het tweede lid toegelaten bedrijf dat niet voldoet aan de bij of krachtens de [Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) gestelde voorwaarden voor de toelating tot een handels- en dienstenentrepot wordt na twee jaar na het tijdstip van inwerkingtreding geacht uit de handels- en dienstenentrepot te zijn verwijderd.  
 
 ### Artikel  IX  
 
@@ -144,7 +144,7 @@ b. *belasting:* de belastingen geheven krachtens de in onderdeel a bedoelde land
 a. indien een ondernemer ingevolge een vóór het tijdstip van inwerkingtreding gesloten overeenkomst op of na het tijdstip van inwerkingtreding een onroerende zaak levert tegen een vergoeding welke vervalt in termijnen, ten aanzien van het gedeelte van de vergoeding dat gelijk is aan de som van de termijnen die op grond van die overeenkomst vóór dat tijdstip zijn vervallen; of  
 
 b. indien een ondernemer op of na het tijdstip van transitie een onroerende zaak levert in de zin van [artikel 6.4, eerste lid, onderdeel f, van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), welke onroerende zaak ingevolge een vóór het tijdstip van inwerkingtreding gesloten overeenkomst in opdracht is vervaardigd onder terbeschikkingstelling van stoffen, waaronder grond is begrepen, ten aanzien van het gedeelte van de vergoeding dat gelijk is aan de som van de termijnen die op grond van die overeenkomst vóór het tijdstip van inwerkingtreding zijn vervallen en de in de vergoeding begrepen kosten van de vóór die datum gestelde stoffen;   de ter zake verschuldigde belasting bij wijze van verrekening in mindering gebracht op de ter zake van die leveringen verschuldigde algemene bestedingsbelasting.   
-7.  De verrekening bedoeld in het zesde lid, vindt slechts toepassing op verzoek van de ondernemer en voor zover de ondernemer de in het zesde lid bedoelde verschuldigde belasting heeft voldaan. De verrekening wordt slechts toegepast voor zover de ondernemer zijn verzoek vóór het tijdstip van verschuldigdheid van de in het zesde lid bedoelde algemene bestedingsbelasting schriftelijk indient bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.   
+7.  De verrekening bedoeld in het zesde lid, vindt slechts toepassing op verzoek van de ondernemer en voor zover de ondernemer de in het zesde lid bedoelde verschuldigde belasting heeft voldaan. De verrekening wordt slechts toegepast voor zover de ondernemer zijn verzoek vóór het tijdstip van verschuldigdheid van de in het zesde lid bedoelde algemene bestedingsbelasting schriftelijk indient bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.  
 
 ### Artikel  X  
 
@@ -153,7 +153,7 @@ b. indien een ondernemer op of na het tijdstip van transitie een onroerende zaak
 a. het in de tweede regel van kolom IV in artikel 24A, eerste lid, van de [Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) genoemde percentage wordt gesteld op 10% of,  
 
 b. indien dit in een lagere belastingdruk resulteert, op 30,4% over een belastbare som van maximaal USD 243 934.     
-2.  Ten aanzien van een belastingplichtige die in aanmerking komt voor toepassing van het eerste lid, zijn de in de [Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) opgenomen bepalingen omtrent persoonlijke lasten en buitengewone lasten, niet van toepassing.   
+2.  Ten aanzien van een belastingplichtige die in aanmerking komt voor toepassing van het eerste lid, zijn de in de [Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) opgenomen bepalingen omtrent persoonlijke lasten en buitengewone lasten, niet van toepassing.  
 
 ### Artikel  XI  
 
@@ -184,26 +184,26 @@ i. de kapitaalsuitkering uit levensverzekering welke wordt betaald ten laste van
 3.  Voor de toepassing van artikel X blijven de [artikelen 12](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md), [16](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) en [16A van de Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) buiten aanmerking.   
 4.  Ten aanzien van de belastingplichtige, bedoeld in artikel X, die in gebreke blijft tijdig volledige aangifte te doen, wordt de in de aanslag te begrijpen belasting verhoogd met de helft van het verschuldigde belastingbedrag.   
 5.  De overige artikelen van de [Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) blijven onverkort van kracht voor zover niet uitdrukkelijk in dit artikel hiervan is afgeweken.   
-6.  Het deel van de belastbare som waarop het tarief als bedoeld in artikel X niet van toepassing is, wordt belast op basis van [artikel 24A van de Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md). Bij de berekening van de belasting over het inkomen waarop het tarief van artikel X niet van toepassing is, worden de inkomsten waarop dit tarief wel van toepassing is, buiten beschouwing gelaten.   
+6.  Het deel van de belastbare som waarop het tarief als bedoeld in artikel X niet van toepassing is, wordt belast op basis van [artikel 24A van de Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md). Bij de berekening van de belasting over het inkomen waarop het tarief van artikel X niet van toepassing is, worden de inkomsten waarop dit tarief wel van toepassing is, buiten beschouwing gelaten.  
 
 ### Artikel  XII  
 
 1.  Indien een op de BES eilanden gevestigd lichaam op het tijdstip dat onmiddellijk voorafgaat aan het tijdstip van inwerkingtreding eindafrekeningswinst geniet als bedoeld in artikel 4, derde lid, van de op basis van de [Wet geldstelsel BES](../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) in de overgangsperiode als wet van toepassing zijnde Landsverordening op de winstbelasting 1940 en het lichaam vanaf het tijdstip van inwerkingtreding door de toepassing van [artikel 5.2 van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) in Nederland wordt geacht te zijn gevestigd, wordt de verschuldigde winstbelasting over die eindafrekeningswinst niet ingevorderd. In dat geval wordt voor de toepassing van de [Wet op de vennootschapsbelasting 1969](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) bij het in de eerste volzin bedoelde lichaam vanaf het tijdstip van inwerkingtreding de boekwaarde van de vermogensbestanddelen gesteld op de boekwaarde zoals deze gold bij de op het tijdstip dat onmiddellijk voorafging aan het tijdstip van inwerkingtreding nog op de BES eilanden gevestigde lichaam.   
-2.  Indien een niet op de BES eilanden gevestigd lichaam, dat met behulp van een vaste inrichting of een vaste vertegenwoordiger op de BES eilanden een onderneming drijft, op het tijdstip dat onmiddellijk voorafgaat aan het tijdstip van inwerkingtreding eindafrekeningswinst geniet als bedoeld in artikel 4, vierde lid, van de op basis van de [Wet geldstelsel BES](../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) in de overgangsperiode als wet van toepassing zijnde Landsverordening op de winstbelasting 1940 en het bedoelde lichaam vanaf het tijdstip van inwerkingtreding in Nederland als buitenlandse belastingplichtige wordt aangemerkt op grond van [artikel 3, onderdeel d](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), in samenhang met [artikel 17, derde lid, onderdeel c, van de Wet op de vennootschapsbelasting 1969](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), wordt de verschuldigde winstbelasting over die eindafrekeningswinst niet ingevorderd. In dat geval wordt voor de toepassing van de [Wet op de vennootschapsbelasting 1969](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) bij de in de eerste volzin bedoelde vaste inrichting of vaste vertegenwoordiger vanaf het tijdstip van inwerkingtreding de boekwaarde van de vermogensbestanddelen gesteld op de boekwaarde zoals deze gold bij de op het tijdstip dat onmiddellijk voorafging aan het tijdstip van inwerkingtreding nog op de BES eilanden gevestigde vaste inrichting of vaste vertegenwoordiger.   
+2.  Indien een niet op de BES eilanden gevestigd lichaam, dat met behulp van een vaste inrichting of een vaste vertegenwoordiger op de BES eilanden een onderneming drijft, op het tijdstip dat onmiddellijk voorafgaat aan het tijdstip van inwerkingtreding eindafrekeningswinst geniet als bedoeld in artikel 4, vierde lid, van de op basis van de [Wet geldstelsel BES](../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) in de overgangsperiode als wet van toepassing zijnde Landsverordening op de winstbelasting 1940 en het bedoelde lichaam vanaf het tijdstip van inwerkingtreding in Nederland als buitenlandse belastingplichtige wordt aangemerkt op grond van [artikel 3, onderdeel d](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), in samenhang met [artikel 17, derde lid, onderdeel c, van de Wet op de vennootschapsbelasting 1969](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), wordt de verschuldigde winstbelasting over die eindafrekeningswinst niet ingevorderd. In dat geval wordt voor de toepassing van de [Wet op de vennootschapsbelasting 1969](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) bij de in de eerste volzin bedoelde vaste inrichting of vaste vertegenwoordiger vanaf het tijdstip van inwerkingtreding de boekwaarde van de vermogensbestanddelen gesteld op de boekwaarde zoals deze gold bij de op het tijdstip dat onmiddellijk voorafging aan het tijdstip van inwerkingtreding nog op de BES eilanden gevestigde vaste inrichting of vaste vertegenwoordiger.  
 
 ### Artikel  XIII  
 
 1.  Indien een op de BES eilanden gevestigd lichaam op het tijdstip dat onmiddellijk voorafgaat aan het tijdstip van inwerkingtreding eindafrekeningswinst geniet als bedoeld in artikel 4, derde lid, van de op basis van de [Wet geldstelsel BES](../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) in de overgangsperiode als wet van toepassing zijnde Landsverordening op de winstbelasting 1940 en het lichaam vanaf het tijdstip van inwerkingtreding door de toepassing van [artikel 5.2 van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) wordt geacht op de BES eilanden te zijn gevestigd, verleent de ontvanger voor de periode lopend vanaf het tijdstip van inwerkingtreding tot en met 31 december 2015 renteloos uitstel van betaling voor de verschuldigde belasting ter zake van die eindafrekeningswinst. Het uitstel wordt beëindigd ingeval [artikel 5.8 van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) toepassing vindt.   
 2.  Indien een niet op de BES eilanden gevestigd lichaam, dat met behulp van een vaste inrichting of vaste vertegenwoordiger op de BES eilanden een onderneming drijft, op het tijdstip dat onmiddellijk voorafgaat aan het tijdstip van inwerkingtreding eindafrekeningswinst geniet als bedoeld in artikel 4, vierde lid, van de op basis van de [Wet geldstelsel BES](../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) in de overgangsperiode als wet van toepassing zijnde Landsverordening op de winstbelasting 1940 en het bedoelde lichaam vanaf het tijdstip van inwerkingtreding niet in Nederland als buitenlandse belastingplichtige wordt aangemerkt op grond van [artikel 3, onderdeel d](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), in samenhang met [artikel 17, derde lid, onderdeel c, van de Wet op de vennootschapsbelasting 1969](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), verleent de ontvanger voor de periode lopend vanaf het tijdstip van inwerkingtreding tot en met 31 december 2015 renteloos uitstel van betaling voor de verschuldigde belasting ter zake van die eindafrekeningswinst. Het uitstel wordt beëindigd ingeval de in de eerste volzin bedoelde vaste inrichting of vaste vertegenwoordiger wordt opgeheven of ophoudt op de BES eilanden activiteiten te verrichten.   
-3.  De ontvanger verleent op verzoek van het in het eerste of tweede lid bedoelde lichaam kwijtschelding van de in het eerste onderscheidenlijk tweede lid bedoelde winstbelasting tot een bedrag gelijk aan de door dat lichaam onderscheidenlijk de op de vaste inrichting of vaste vertegenwoordiger betrekking hebbende, verschuldigde vastgoedbelasting als bedoeld in [hoofdstuk IV van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md). Voorts wordt het op 1 januari 2016 nog openstaande bedrag kwijtgescholden.   
+3.  De ontvanger verleent op verzoek van het in het eerste of tweede lid bedoelde lichaam kwijtschelding van de in het eerste onderscheidenlijk tweede lid bedoelde winstbelasting tot een bedrag gelijk aan de door dat lichaam onderscheidenlijk de op de vaste inrichting of vaste vertegenwoordiger betrekking hebbende, verschuldigde vastgoedbelasting als bedoeld in [hoofdstuk IV van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md). Voorts wordt het op 1 januari 2016 nog openstaande bedrag kwijtgescholden.  
 
 ### Artikel  XIV  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  XV  
 
-[vervallen]  
+[vervallen] 
 
 ### Afdeling  3  
 
@@ -211,7 +211,7 @@ i. de kapitaalsuitkering uit levensverzekering welke wordt betaald ten laste van
 
 ### Artikel  XVI  
 
-Wijzigt de Belastingwet BES.   
+Wijzigt de Belastingwet BES. 
 
 ### Afdeling  4  
 
@@ -219,80 +219,82 @@ Wijzigt de Belastingwet BES.
 
 ### Artikel  XVII  
 
-Bij ministeriële regeling kunnen nadere regels worden vastgesteld ter zake van de overgang van tot het tijdstip van inwerkingtreding op de BES eilanden geheven belastingen naar de [Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), de [Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), de [Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) en de [Wet loonbelasting BES](../../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md).  
+Bij ministeriële regeling kunnen nadere regels worden vastgesteld ter zake van de overgang van tot het tijdstip van inwerkingtreding op de BES eilanden geheven belastingen naar de [Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), de [Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), de [Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) en de [Wet loonbelasting BES](../../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md). 
 
-### Hoofdstuk  IIa  
+###Hoofdstuk  IIa 
 
 ####Wet inkomstenbelasting BES
 
-Wijzigt de Wet inkomstenbelasting BES.     
+Wijzigt de Wet inkomstenbelasting BES.  
 ### Hoofdstuk  IIb  
 
 ####Wet loonbelasting BES
 
-Wijzigt de Wet loonbelasting BES.     
+Wijzigt de Wet loonbelasting BES.  
 ### Hoofdstuk  IIc  
 
-#### [Wet algemene ouderdomsverzekering BES](../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) 
+####[Wet algemene ouderdomsverzekering BES](../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md)
 
-Wijzigt de Wet algemene ouderdomsverzekering BES.     
+Wijzigt de Wet algemene ouderdomsverzekering BES.  
 ### Hoofdstuk  IId  
 
-#### [Wet algemene weduwen- en wezenverzekering BES](../../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md) 
+####[Wet algemene weduwen- en wezenverzekering BES](../../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md)
 
-Wijzigt de Wet algemene weduwen- en wezenverzekering BES.     
+Wijzigt de Wet algemene weduwen- en wezenverzekering BES.  
 ### Hoofdstuk  IIe  
 
-#### [Cessantiawet BES](../../../../../../wet-BES/cessantiawet/bes/BWBR0028304/README.md) 
+####[Cessantiawet BES](../../../../../../wet-BES/cessantiawet/bes/BWBR0028304/README.md)
 
-Wijzigt de Cessantiawet BES.     
+Wijzigt de Cessantiawet BES.  
 ### Hoofdstuk  IIf  
 
-#### [Wet ziekteverzekering BES](../../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md) 
+####[Wet ziekteverzekering BES](../../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md)
 
-Wijzigt de Wet ziekteverzekering BES.     
+Wijzigt de Wet ziekteverzekering BES.  
 ### Hoofdstuk  IIg  
 
-#### [Wet ongevallenverzekering BES](../../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md) 
+####[Wet ongevallenverzekering BES](../../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md)
 
-Wijzigt de Wet ongevallenverzekering BES.     
+Wijzigt de Wet ongevallenverzekering BES.  
 ### Hoofdstuk  IIh  
 
 ####Vervallen voorzieningen van overgangsrechtelijke aard in [Wet geldstelsel BES](../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md)
 
-Wijzigt de Wet geldstelsel BES.     
+Treedt in werking op een nader te bepalen tijdstip 
+
+Wijzigt de Wet geldstelsel BES. 
 ### Hoofdstuk  III  
 
 ####Slotbepalingen
 
 ### Artikel  I  
 
-Bij ministeriële regeling kunnen regels worden gesteld ter zake van de uitvoering van deze wet.  
+Bij ministeriële regeling kunnen regels worden gesteld ter zake van de uitvoering van deze wet. 
 
 ### Artikel  II  
 
 1.  Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende hoofdstukken, artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
 2.  In afwijking van het eerste lid treedt hoofdstuk II, artikel XVI, onderdeel A, in werking met ingang van 1 januari 2013.   
 3.  In afwijking van het eerste lid treedt hoofdstuk II, artikel XVI, onderdelen B tot en met D, in werking met ingang van 1 januari 2015.   
-4.  In afwijking van het eerste lid, treedt hoofdstuk II, artikel XVI, onderdeel E, in werking vijf jaar na het ingevolge het eerste lid bepaalde tijdstip.   
+4.  In afwijking van het eerste lid, treedt hoofdstuk II, artikel XVI, onderdeel E, in werking vijf jaar na het ingevolge het eerste lid bepaalde tijdstip.  
 
 ### Artikel  III  
 
-Deze wet wordt aangehaald als: Invoeringswet fiscaal stelsel BES.  
+Deze wet wordt aangehaald als: Invoeringswet fiscaal stelsel BES. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 16 december 2010  
 Beatrix  
 
-De Staatssecretaris van Financiën, 
+De Staatssecretaris van Financiën,  
 F. H. H. Weekers   
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 J. P. H. Donner   
 
 de *achtentwintigste* december 2010 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

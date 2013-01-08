@@ -34,7 +34,7 @@ Als de woning geheel tenietgaat, bijvoorbeeld door brand, dan staat deze woning 
 
 ####Aangaan (beperkte) huwelijksgemeenschap
 
-Boedelmenging door voltrekking van een huwelijk of wijziging van huwelijkse voorwaarden heeft geen gevolgen voor de bijleenregeling ([artikel 3.119a, zevende lid, tweede volzin, van de Wet IB 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)). Dit geldt bij een huwelijk en het daarmee gelijkgestelde geregistreerd partnerschap. In de wetsgeschiedenis is het voorbeeld genoemd dat een boedelmenging door het ontstaan van een algehele gemeenschap van goederen niet leidt tot een verwerving of een vervreemding in de zin van de bijleenregeling (*NV, Kamerstukken II 2003/04,**29 210, nr. 22**, blz. 50).* Ook het aangaan van een partiële gemeenschap (bijvoorbeeld alleen het huis behoort tot een gemeenschap), heeft geen gevolgen voor de bijleenregeling. Het maakt daarbij niet uit of de echtgenoot die het huis inbrengt daarvoor een vergoeding krijgt (de zogenoemde reprise).    
+Boedelmenging door voltrekking van een huwelijk of wijziging van huwelijkse voorwaarden heeft geen gevolgen voor de bijleenregeling ([artikel 3.119a, zevende lid, tweede volzin, van de Wet IB 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)). Dit geldt bij een huwelijk en het daarmee gelijkgestelde geregistreerd partnerschap. In de wetsgeschiedenis is het voorbeeld genoemd dat een boedelmenging door het ontstaan van een algehele gemeenschap van goederen niet leidt tot een verwerving of een vervreemding in de zin van de bijleenregeling (*NV, Kamerstukken II 2003/04, * *29 210, nr. 22* *, blz. 50).* Ook het aangaan van een partiële gemeenschap (bijvoorbeeld alleen het huis behoort tot een gemeenschap), heeft geen gevolgen voor de bijleenregeling. Het maakt daarbij niet uit of de echtgenoot die het huis inbrengt daarvoor een vergoeding krijgt (de zogenoemde reprise).    
 ### 1.3  
 
 ####In aanmerking te nemen eigenwoningschuld
@@ -235,5 +235,5 @@ Den Haag
 26 augustus 2010   
 
 De 
-minister van Financiën,
-J.C. deJager   
+minister van Financiën, 
+J.C. de Jager     

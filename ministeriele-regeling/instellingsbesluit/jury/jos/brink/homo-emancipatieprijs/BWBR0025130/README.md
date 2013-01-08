@@ -12,11 +12,11 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *minister:* de Minister van Onderwijs, Cultuur en Wetenschap;  
+a.  *minister:* de Minister van Onderwijs, Cultuur en Wetenschap;  
 
-b. *de Jos Brink homo-emancipatieprijs:* de regeringsprijs op homo-emancipatiegebied, ingesteld bij het [Besluit instelling Jos Brink homo-emancipatieprijs](../../../../../../../KB/besluit/instelling/jos/brink/homo-emancipatieprijs/BWBR0024802/README.md);  
+b.  *de Jos Brink homo-emancipatieprijs:* de regeringsprijs op homo-emancipatiegebied, ingesteld bij het [Besluit instelling Jos Brink homo-emancipatieprijs](../../../../../../../KB/besluit/instelling/jos/brink/homo-emancipatieprijs/BWBR0024802/README.md);  
 
-c. *jury:* de jury, bedoeld in artikel 2.    
+c.  *jury:* de jury, bedoeld in artikel 2.   
 
 ### Artikel  2  
 
@@ -24,7 +24,7 @@ c. *jury:* de jury, bedoeld in artikel 2.
 
 1.  Er is een onafhankelijke jury voor de Jos Brink homo-emancipatieprijs.   
 2.  De jury bestaat uit ten minste drie en ten hoogste vijf leden.   
-3.  De jury heeft tot taak uit de voorgedragen kandidaten, conform deze regeling en de selectiecriteria, opgenomen in de bij deze regeling behorende bijlage, voor 1 april aan de minister een advies uit te brengen waarin zij een kandidaat voordraagt voor de Jos Brink homo-emancipatieprijs.   
+3.  De jury heeft tot taak uit de voorgedragen kandidaten, conform deze regeling en de selectiecriteria, opgenomen in de bij deze regeling behorende bijlage, voor 1 april aan de minister een advies uit te brengen waarin zij een kandidaat voordraagt voor de Jos Brink homo-emancipatieprijs.  
 
 ### Artikel  3  
 
@@ -35,14 +35,14 @@ c. *jury:* de jury, bedoeld in artikel 2.
 3.  Bij tussentijds vertrek van een lid kan de minister een ander lid benoemen.   
 4.  De minister wijst twee ambtenaren van zijn departement aan als secretaris en plaatsvervangend secretaris. De secretaris en de plaatsvervangend secretaris adviseren de jury en voeren het secretariaat.   
 5.  De commissie bestaat uit een voorzitter, tevens lid, en minimaal twee leden.   
-6.  De benoeming geschiedt tot en met drie maanden na het uitbrengen van het eindrapport genoemd in artikel 10.   
+6.  De benoeming geschiedt tot en met drie maanden na het uitbrengen van het eindrapport genoemd in artikel 10.  
 
 ### Artikel  4  
 
 ####Bekendmaking jury
 
 1.  De minister doet van de samenstelling van de jury mededeling in de vorm van een persbericht.   
-2.  De minister deelt daarbij mede, dat belangstellenden voor een bepaalde datum voorstellen aan de jury kunnen doen over mogelijke kandidaten voor de Jos Brink homo-emancipatieprijs.   
+2.  De minister deelt daarbij mede, dat belangstellenden voor een bepaalde datum voorstellen aan de jury kunnen doen over mogelijke kandidaten voor de Jos Brink homo-emancipatieprijs.  
 
 ### Artikel  5  
 
@@ -62,20 +62,20 @@ e. Bij gewone meerderheid van stemmen wordt beslist wie van de kandidaten van wi
 
 f. Bij staking van stemmen vindt herstemming plaats. In geval de stemmen wederom staken beslist de stem van de voorzitter.  
 
-g. In alle zaken waarin dit besluit niet voorziet beslist de jury bij gewone meerderheid van stemmen.    
+g. In alle zaken waarin dit besluit niet voorziet beslist de jury bij gewone meerderheid van stemmen.   
 
 ### Artikel  6  
 
 ####Advies
 
 1.  De minister deelt zo spoedig mogelijk na de ontvangst van het schriftelijk advies van de jury mee of hij zich met dit advies kan verenigen.   
-2.  Indien de minister zich niet met het jury-advies kan verenigen of de voorgedragen kandidaat kenbaar heeft gemaakt niet voor toekenning van de Jos Brink homo-emancipatieprijs in aanmerking te willen komen, kan de minister de jury verzoeken een nieuw advies uit te brengen.   
+2.  Indien de minister zich niet met het jury-advies kan verenigen of de voorgedragen kandidaat kenbaar heeft gemaakt niet voor toekenning van de Jos Brink homo-emancipatieprijs in aanmerking te willen komen, kan de minister de jury verzoeken een nieuw advies uit te brengen.  
 
 ### Artikel  7  
 
 ####Informatieplicht
 
-De jury verstrekt aan de minister desgevraagd de door hem gewenste inlichtingen.  
+De jury verstrekt aan de minister desgevraagd de door hem gewenste inlichtingen. 
 
 ### Artikel  8  
 
@@ -89,14 +89,14 @@ b. een persoon die deel uitmaakt van de jury,
 
 c. een persoon, groep of instelling die in het betreffende jaar subsidie van het Rijk heeft ontvangen waarmee de voorgedragen activiteit is gefinancierd.     
 2.  Kandidaten kunnen alleen bij leven worden voordragen.   
-3.  De Jos Brink homo-emancipatieprijs kan niet worden gesplitst.   
+3.  De Jos Brink homo-emancipatieprijs kan niet worden gesplitst.  
 
 ### Artikel  9  
 
 ####Uitreiking
 
 1.  De uitreiking van de Jos Brink homo-emancipatieprijs vindt voor de eerste maal plaats in de eerste helft van het jaar 2009.   
-2.  De volgende uitreikingen vinden zoveel mogelijk plaats in de eerste helft van het betrokken jaar.   
+2.  De volgende uitreikingen vinden zoveel mogelijk plaats in de eerste helft van het betrokken jaar.  
 
 ### Artikel  10  
 
@@ -106,7 +106,7 @@ c. een persoon, groep of instelling die in het betreffende jaar subsidie van het
 2.  De vergoeding per vergadering van de leden van de jury bedraagt 2% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md).   
 3.  De vergoeding per vergadering van de voorzitter van de jury bedraagt 130% van de hoogte van de vergoeding per vergadering die aan de andere leden van de jury is toegekend.   
 4.  De voorzitter en andere leden van de jury ontvangen een vergoeding van reis- en verblijfkosten op de voet van het [Reisbesluit binnenland](../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) en het [Reisbesluit buitenland](../../../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md).   
-5.  Twee of meer vergaderingen op dezelfde dag worden als één vergadering aangemerkt.   
+5.  Twee of meer vergaderingen op dezelfde dag worden als één vergadering aangemerkt.  
 
 ### Artikel  11  
 
@@ -117,48 +117,48 @@ c. een persoon, groep of instelling die in het betreffende jaar subsidie van het
 a. de kosten voor vergaderingen,  
 
 b. de kosten voor publicatie van rapportages.     
-2.  De jury biedt binnen één maand na haar instelling een begroting en een planning aan de minister aan.   
+2.  De jury biedt binnen één maand na haar instelling een begroting en een planning aan de minister aan.  
 
 ### Artikel  12  
 
 ####Verantwoording
 
-De jury biedt de minister voor 1 juli een verslag aan waarin wordt gerapporteerd over de activiteiten van de voorafgaande juryperiode.  
+De jury biedt de minister voor 1 juli een verslag aan waarin wordt gerapporteerd over de activiteiten van de voorafgaande juryperiode. 
 
 ### Artikel  13  
 
 ####Geheimhouding
 
-Een ieder die betrokken is geweest bij de werkzaamheden van de jury en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij deze werkzaamheden de noodzaak tot bekendmaking voortvloeit.  
+Een ieder die betrokken is geweest bij de werkzaamheden van de jury en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij deze werkzaamheden de noodzaak tot bekendmaking voortvloeit. 
 
 ### Artikel  14  
 
 ####Openbaarmaking
 
-Rapporten, notities, verslagen en andere producten welke door of namens de jury worden vervaardigd, worden niet door de jury openbaar gemaakt, maar uitsluitend aan de minister uitgebracht.  
+Rapporten, notities, verslagen en andere producten welke door of namens de jury worden vervaardigd, worden niet door de jury openbaar gemaakt, maar uitsluitend aan de minister uitgebracht. 
 
 ### Artikel  15  
 
 ####Archiefbescheiden
 
-De jury draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van de directie Concernondersteuning van het Ministerie van Onderwijs, Cultuur en Wetenschap.  
+De jury draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van de directie Concernondersteuning van het Ministerie van Onderwijs, Cultuur en Wetenschap. 
 
 ### Artikel  16  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking op het tijdstip waarop het Besluit instelling Jos Brink homo-emancipatieprijs in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop het Besluit instelling Jos Brink homo-emancipatieprijs in werking treedt. 
 
 ### Artikel  17  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Instellingsbesluit jury Jos Brink homo-emancipatieprijs.  
+Dit besluit wordt aangehaald als: Instellingsbesluit jury Jos Brink homo-emancipatieprijs. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, 
-R.H.A.Plasterk  
+R.H.A. Plasterk    
 
 ### Bijlage  
 

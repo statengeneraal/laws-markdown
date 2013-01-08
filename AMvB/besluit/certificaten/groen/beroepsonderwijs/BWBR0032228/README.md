@@ -17,25 +17,25 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. *certificaat:* een certificaat als bedoeld in [artikel 7.2.3 van de wet](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+a.  *certificaat:* een certificaat als bedoeld in [artikel 7.2.3 van de wet](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
-b. *wet:* de [Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
+b.  *wet:* de [Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
 
 ### Artikel  2  
 
-Dit besluit is uitsluitend van toepassing op beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel.  
+Dit besluit is uitsluitend van toepassing op beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel. 
 
 ### Artikel  3  
 
-Bij regeling van Onze Minister van Economische Zaken, Landbouw en Innovatie kunnen onderdelen van een kwalificatie of kwalificaties worden aangewezen waaraan een certificaat is verbonden.  
+Bij regeling van Onze Minister van Economische Zaken, Landbouw en Innovatie kunnen onderdelen van een kwalificatie of kwalificaties worden aangewezen waaraan een certificaat is verbonden. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Besluit certificaten groen beroepsonderwijs.  
+Dit besluit wordt aangehaald als: Besluit certificaten groen beroepsonderwijs. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -43,10 +43,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 2 november 2012  
 Beatrix  
 
-De Minister van Economische Zaken, Landbouw en Innovatie 
+De Minister van Economische Zaken, Landbouw en Innovatie  
 M. J. M. Verhagen   
 
 de *zestiende* november 2012 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

@@ -14,40 +14,49 @@ Gezien het nader rapport van de Minister van Financiën van 25 oktober 2011, nr
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-01-2014 
 
-Wijzigt het Besluit bekostiging financieel toezicht.   
+Wijzigt het Besluit bekostiging financieel toezicht. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-01-2014 
 
-Wijzigt het Besluit bestuurlijke boetes financiële sector.   
+Wijzigt het Besluit bestuurlijke boetes financiële sector. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-01-2014 
 
-Wijzigt het Besluit definitiebepalingen Wft.   
+Wijzigt het Besluit definitiebepalingen Wft. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 01-01-2014 
 
-Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.   
+Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft. 
 
 ### Artikel  V  
+Materieel uitgewerkt per 01-01-2014 
 
-Wijzigt het Besluit melding zeggenschap en kapitaalbelang in uitgevende instellingen Wft.   
+Wijzigt het Besluit melding zeggenschap en kapitaalbelang in uitgevende instellingen Wft. 
 
 ### Artikel  VI  
+Materieel uitgewerkt per 01-01-2014 
 
-Wijzigt het Besluit prudentiële regels Wft.   
+Wijzigt het Besluit prudentiële regels Wft. 
 
 ### Artikel  VII  
+Materieel uitgewerkt per 01-01-2014 
 
-Wijzigt het Besluit toezicht financiële verslaggeving.   
+Wijzigt het Besluit toezicht financiële verslaggeving. 
 
 ### Artikel  VIII  
+Materieel uitgewerkt per 01-01-2014 
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  IX  
+Materieel uitgewerkt per 01-01-2014 
 
-Dit besluit wordt aangehaald als: Wijzigingsbesluit financiële markten 2012.  
+Dit besluit wordt aangehaald als: Wijzigingsbesluit financiële markten 2012. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -55,10 +64,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 27 oktober 2011  
 Beatrix  
 
-De Minister van Financiën, 
+De Minister van Financiën,  
 J. C. de Jager   
 
 de *tiende* november 2011 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

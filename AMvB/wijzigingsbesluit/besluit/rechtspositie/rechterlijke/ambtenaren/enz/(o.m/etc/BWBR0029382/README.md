@@ -15,47 +15,47 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit rechtspositie rechterlijke ambtenaren.   
+Wijzigt het Besluit rechtspositie rechterlijke ambtenaren. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak.   
+Wijzigt het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak. 
 
 ### Artikel  III  
 
-Wijzigt het Besluit opleiding rechterlijke ambtenaren.   
+Wijzigt het Besluit opleiding rechterlijke ambtenaren. 
 
 ### Artikel  IV  
 
-Wijzigt het Kostuum- en titulatuurbesluit rechterlijke organisatie.   
+Wijzigt het Kostuum- en titulatuurbesluit rechterlijke organisatie. 
 
 ### Artikel  V  
 
-Wijzigt het Beroepsreglement.   
+Wijzigt het Beroepsreglement. 
 
 ### Artikel  VI  
 
-Wijzigt het Besluit rechtspositie leden met rechtspraak belast en gerechtsauditeurs CRvB en CBb.   
+Wijzigt het Besluit rechtspositie leden met rechtspraak belast en gerechtsauditeurs CRvB en CBb. 
 
 ### Artikel  VII  
 
-Wijzigt het Besluit samenstelling en werkwijze toetsingscommissie uittreding zittende magistratuur.   
+Wijzigt het Besluit samenstelling en werkwijze toetsingscommissie uittreding zittende magistratuur. 
 
 ### Artikel  VIII  
 
-Wijzigt de Regelen omtrent onverenigbaarheid van het lidmaatschap van de SER met enige andere werkzaamheden.   
+Wijzigt de Regelen omtrent onverenigbaarheid van het lidmaatschap van de SER met enige andere werkzaamheden. 
 
 ### Artikel  IX  
 
-Wijzigt het Wijzigingsbesluit Algemene wet bestuursrecht, enz. (indexering griffierechten bestuursrechtelijke wetten 2011.)   
+Wijzigt het Wijzigingsbesluit Algemene wet bestuursrecht, enz. (indexering griffierechten bestuursrechtelijke wetten 2011.) 
 
 ### Artikel  X  
 
-Wijzigt de Wet op de rechtsbijstand.   
+Wijzigt de Wet op de rechtsbijstand. 
 
 ### Artikel  XI  
 
-Degenen die op de dag voorafgaand aan de inwerkingtreding van dit besluit als directeur bedrijfsvoering bij de rechtbank te Groningen, Leeuwarden en Zutphen zijn aangesteld, blijven in het genot van het bij salarisschaal 16 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) behorende bedrag voor zolang zij zijn benoemd als directeur bedrijfsvoering bij die rechtbank.  
+Degenen die op de dag voorafgaand aan de inwerkingtreding van dit besluit als directeur bedrijfsvoering bij de rechtbank te Groningen, Leeuwarden en Zutphen zijn aangesteld, blijven in het genot van het bij salarisschaal 16 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) behorende bedrag voor zolang zij zijn benoemd als directeur bedrijfsvoering bij die rechtbank. 
 
 ### Artikel  XII  
 
@@ -67,7 +67,7 @@ b. wat artikel I, onderdeel D, betreft: tot en met 1 augustus 2007;
 
 c. wat artikel I, onderdeel E, betreft: tot en met 1 april 2008;  
 
-d. wat artikel I, onderdeel F, betreft: tot en met 1 april 2009.    
+d. wat artikel I, onderdeel F, betreft: tot en met 1 april 2009.   
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -75,10 +75,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 17 december 2010  
 Beatrix  
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten   
 
 de *eenendertigste* december 2010 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

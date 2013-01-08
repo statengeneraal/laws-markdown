@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  1  
 
-Er is een Commissie toegang notariaat, verder te noemen de Commissie.  
+Er is een Commissie toegang notariaat, verder te noemen de Commissie. 
 
 ### Artikel  2  
 
-De Commissie heeft tot taak: de Minister adviseren omtrent de persoonlijke geschiktheid van kandidaat-notarissen voor het ambt van notaris en toegevoegd notaris.  
+De Commissie heeft tot taak: de Minister adviseren omtrent de persoonlijke geschiktheid van kandidaat-notarissen voor het ambt van notaris en toegevoegd notaris. 
 
 ### Artikel  3  
 
-Een ieder die betrokken is bij de werkzaamheden van de Commissie en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voorzover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij deze werkzaamheden de noodzaak tot bekendmaking voortvloeit.  
+Een ieder die betrokken is bij de werkzaamheden van de Commissie en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voorzover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij deze werkzaamheden de noodzaak tot bekendmaking voortvloeit. 
 
 ### Artikel  4  
 
@@ -43,19 +43,19 @@ c. plaatsvervangende leden:
 
 d. secretaris: 
 
-○ mevrouw mr. K.A.J. van Geest (Koninklijke Notariële Beroepsorganisatie).       
+○ mevrouw mr. K.A.J. van Geest (Koninklijke Notariële Beroepsorganisatie).      
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van 1 januari 2013.  
+Dit besluit treedt in werking met ingang van 1 januari 2013. 
 
 ### Artikel  6  
 
-Dit besluit wordt gepubliceerd in de Staatscourant.  
+Dit besluit wordt gepubliceerd in de Staatscourant. 
 
 ’s-Gravenhage 
 20 december 2012   
 
 De 
-Staatssecretaris van Veiligheid en Justitie,
-F.Teeven.   
+Staatssecretaris van Veiligheid en Justitie, 
+F. Teeven.     

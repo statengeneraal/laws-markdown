@@ -31,11 +31,11 @@ c. de prenatale screening van zwangeren op infectieziekten en erytrocytenimmunis
 
 d. de neonatale hielprikscreening (NHS) en de gehoorscreening bij pasgeborenen, en  
 
-e. het Nationaal programma grieppreventie (NPG).       
+e. het Nationaal programma grieppreventie (NPG).      
 
 ### Artikel  2  
 
-Het RIVM heeft tot taak om namens de Minister van Volksgezondheid, Welzijn en Sport de landelijke aansturing en begeleiding van het Rijksvaccinatieprogramma uit te voeren en de regionale uitvoering te coördineren. Het RIVM heeft tot taak de inkoop, opslag en distributie van de vaccins te verzorgen, en de noodzakelijke gegevensverwerking voor de uitvoering van het RVP alsmede voor de monitoring en evaluatie van het programma uit te voeren.  
+Het RIVM heeft tot taak om namens de Minister van Volksgezondheid, Welzijn en Sport de landelijke aansturing en begeleiding van het Rijksvaccinatieprogramma uit te voeren en de regionale uitvoering te coördineren. Het RIVM heeft tot taak de inkoop, opslag en distributie van de vaccins te verzorgen, en de noodzakelijke gegevensverwerking voor de uitvoering van het RVP alsmede voor de monitoring en evaluatie van het programma uit te voeren. 
 
 ### Artikel  3  
 
@@ -44,17 +44,17 @@ Het RIVM heeft tot taak om namens de Minister van Volksgezondheid, Welzijn en Sp
 a. de bestrijding van infectieziekten, en  
 
 b. het uitvoeren van programma’s op het gebied van seksuele gezondheid, zoals soa-onderzoek.     
-2.  De taak, bedoeld in het eerste lid, onderdeel a, omvat het via het Centrum Infectieziektebestrijding ondersteuning bieden aan de organisaties die een uitvoerende taak hebben bij de infectieziektebestrijding, onder meer door het verstrekken van subsidies aan deze organisaties.   
+2.  De taak, bedoeld in het eerste lid, onderdeel a, omvat het via het Centrum Infectieziektebestrijding ondersteuning bieden aan de organisaties die een uitvoerende taak hebben bij de infectieziektebestrijding, onder meer door het verstrekken van subsidies aan deze organisaties.  
 
 ### Artikel  4  
 
-Het besluit van 12 september 2005, kenmerk PG-2.612.655, wordt ingetrokken.  
+Het besluit van 12 september 2005, kenmerk PG-2.612.655, wordt ingetrokken. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 Dit besluit wordt in de Staatscourant geplaatst.  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers   
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers     

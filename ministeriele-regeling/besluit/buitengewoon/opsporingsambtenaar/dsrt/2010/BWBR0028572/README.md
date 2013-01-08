@@ -15,26 +15,26 @@ Gelet op:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in artikel 2.  
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in artikel 2. 
 
 ### Artikel  2  
 
-Als buitengewoon opsporingsambtenaar worden aangewezen de ambtenaren van politie, bedoeld in [artikel 2, onder b, van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) in dienst van de dienst Specialistische recherche toepassingen van de Landelijke eenheid, voorheen Korps landelijke politiediensten.  
+Als buitengewoon opsporingsambtenaar worden aangewezen de ambtenaren van politie, bedoeld in [artikel 2, onder b, van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) in dienst van de dienst Specialistische recherche toepassingen van de Landelijke eenheid, voorheen Korps landelijke politiediensten. 
 
 ### Artikel  3  
 
 1.  De in artikel 2 bedoelde ambtenaren zijn bevoegd tot het opsporen van de strafbare feiten behorend tot het domein Generieke Opsporing, van [bijlage A-I van de Circulaire Buitengewoon opsporingsambtenaar](../../../../../../../circulaire/circulaire/buitengewoon/opsporingsambtenaar/BWBR0027483/README.md).   
 2.  De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.   
-3.  De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.   
+3.  De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.  
 
 ### Artikel  4  
 
-Op grond van dit besluit kunnen maximaal 100 personen als buitengewoon opsporingsambtenaar worden beëdigd.  
+Op grond van dit besluit kunnen maximaal 100 personen als buitengewoon opsporingsambtenaar worden beëdigd. 
 
 ### Artikel  5  
 
 1.  Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de hoofdofficier van justitie bij het landelijk parket.   
-2.  Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).   
+2.  Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
 
 ### Artikel  6  
 
@@ -43,33 +43,33 @@ Op grond van dit besluit kunnen maximaal 100 personen als buitengewoon opsporin
 a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in artikel 2 genoemde functie;  
 
 b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;     
-2.  Dit verslag wordt toegezonden aan in artikel 5 bedoelde toezichthouders en aan het Ministerie van Justitie, dienst Justis, afdeling BTR, postbus 20300, 2500 EH Den Haag.   
+2.  Dit verslag wordt toegezonden aan in artikel 5 bedoelde toezichthouders en aan het Ministerie van Justitie, dienst Justis, afdeling BTR, postbus 20300, 2500 EH Den Haag.  
 
 ### Artikel  7  
 
-Aan de buitengewoon opsporingsambtenaar wordt op grond van het gestelde in het onderdeel Beperkte opsporingsbevoegdheden van [bijlage B-IV van de Circulaire Buitengewoon opsporingsambtenaar](../../../../../../../circulaire/circulaire/buitengewoon/opsporingsambtenaar/BWBR0027483/README.md), ontheffing verleend van het bepaalde in [artikel 16, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md), voor zover de buitengewoon opsporingsbevoegdheid alleen nodig heeft voor het opmaken van technische processen-verbaal, waarbij hij geen verklaringen van verdachten of getuigen behoeft op te nemen.  
+Aan de buitengewoon opsporingsambtenaar wordt op grond van het gestelde in het onderdeel Beperkte opsporingsbevoegdheden van [bijlage B-IV van de Circulaire Buitengewoon opsporingsambtenaar](../../../../../../../circulaire/circulaire/buitengewoon/opsporingsambtenaar/BWBR0027483/README.md), ontheffing verleend van het bepaalde in [artikel 16, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md), voor zover de buitengewoon opsporingsbevoegdheid alleen nodig heeft voor het opmaken van technische processen-verbaal, waarbij hij geen verklaringen van verdachten of getuigen behoeft op te nemen. 
 
 ### Artikel  8  
 
-Het [Besluit buitengewoon opsporingsambtenaar DSRT 2005](../../../../../../../ministeriele-regeling/besluit/buitengewoon/opsporingsambtenaar/dsrt/2005/BWBR0019294/README.md) van 16 december 2005, nr. 5393650/505/CBK, wordt ingetrokken.  
+Het [Besluit buitengewoon opsporingsambtenaar DSRT 2005](../../../../../../../ministeriele-regeling/besluit/buitengewoon/opsporingsambtenaar/dsrt/2005/BWBR0019294/README.md) van 16 december 2005, nr. 5393650/505/CBK, wordt ingetrokken. 
 
 ### Artikel  9  
 
-De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden afgegeven mede op basis van het in artikel 8 genoemde [besluit](../../../../../../../ministeriele-regeling/besluit/buitengewoon/opsporingsambtenaar/dsrt/2005/BWBR0019294/README.md), worden geacht mede te zijn afgegeven op basis van dit besluit.  
+De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden afgegeven mede op basis van het in artikel 8 genoemde [besluit](../../../../../../../ministeriele-regeling/besluit/buitengewoon/opsporingsambtenaar/dsrt/2005/BWBR0019294/README.md), worden geacht mede te zijn afgegeven op basis van dit besluit. 
 
 ### Artikel  10  
 
-Dit besluit treedt in werking met ingang van 1 oktober 2010 en vervalt op 1 oktober 2015.  
+Dit besluit treedt in werking met ingang van 1 oktober 2010 en vervalt op 1 oktober 2015. 
 
 ### Artikel  11  
 
-Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar DSRT 2010.  
+Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar DSRT 2010. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 23 september 2010   
 
 De 
-Minister van Justitie,namens deze:
-P.W.C.Collard,
-Teammanager BTR.   
+Minister van Justitie, namens deze: 
+P.W.C. Collard,  
+Teammanager BTR.    

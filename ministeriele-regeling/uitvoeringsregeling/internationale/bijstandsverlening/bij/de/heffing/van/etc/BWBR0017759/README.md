@@ -2,37 +2,37 @@
 
 ##Uitvoeringsregeling internationale bijstandsverlening bij de heffing van belastingen
 
-De Staatssecretaris van Financiën,  
+De Staatssecretaris van Financiën,
 Gelet op [artikel 7a, derde lid](../../../../../../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md), en [artikel 8a, derde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](../../../../../../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md);
-Besluit:    
+Besluit:
 
 ### Artikel  1  
 
-Deze regeling berust op de [artikelen 4a, derde lid](../../../../../../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md), en [22 van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](../../../../../../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md).  
+Deze regeling berust op de [artikelen 4a, derde lid](../../../../../../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md), en [22 van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](../../../../../../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md). 
 
-### Hoofdstuk  1  
+###Hoofdstuk 1 
 
 ####Definitiebepaling
 
-### Artikel  2  
+###Artikel 2 
 
-Deze regeling verstaat onder wet: [Wet op de internationale bijstandsverlening bij de heffing van belastingen](../../../../../../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md).  
+Deze regeling verstaat onder wet: [Wet op de internationale bijstandsverlening bij de heffing van belastingen](../../../../../../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md).
 
-### Artikel  2a  
+###Artikel 2a 
 
-1.  Voor de toepassing van [afdeling 2 van Hoofdstuk IA van de wet](../../../../../../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md) worden met een lidstaat gelijkgesteld: 
+1. Voor de toepassing van [afdeling 2 van Hoofdstuk IA van de wet](../../../../../../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md) worden met een lidstaat gelijkgesteld: 
 
 a. Aruba;  
 
-b. Curaçao;  
+b.Curaçao;
 
-c. Sint Maarten;  
+c.Sint Maarten;
 
-d. Bonaire;  
+d.Bonaire;
 
-e. Sint Eustatius;  
+e.Sint Eustatius;
 
-f. Saba;  
+f.Saba;
 
 g. de Britse Maagdeneilanden;  
 
@@ -42,37 +42,37 @@ i. Guernsey;
 
 j. Jersey;  
 
-k. Montserrat.     
+k. Montserrat.   
 2.  Voor de toepassing van [artikel 4b, tweede lid, onderdeel b, van de wet](../../../../../../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md) wordt voorts met een lidstaat gelijkgesteld: 
 
 a. de Turks- en Caicoseilanden;  
 
 b. de Kaaimaneilanden;  
 
-c. Anguilla.     
+c. Anguilla.  
 
-### Hoofdstuk  2  
+###Hoofdstuk 2 
 
 ####Bijstand bij heffing
 
 ### Artikel  3  
 
 1.  De Minister van Financiën draagt zorg voor de uitvoering van een verzoek van een bevoegde autoriteit van een lidstaat tot betekening van stukken met toepassing van de wettelijke voorschriften betreffende de betekening van stukken van een overeenkomstig Nederlands document.   
-2.  Ingeval het niet mogelijk is in een verzoek tot betekening van stukken te bewilligen, stelt de Minister van Financiën de bevoegde autoriteit, bedoeld in het eerste lid, onverwijld op de hoogte van de redenen die zich verzetten tegen de bewilliging in het verzoek.   
+2.  Ingeval het niet mogelijk is in een verzoek tot betekening van stukken te bewilligen, stelt de Minister van Financiën de bevoegde autoriteit, bedoeld in het eerste lid, onverwijld op de hoogte van de redenen die zich verzetten tegen de bewilliging in het verzoek.  
 
-### Hoofdstuk  3  
+###Hoofdstuk 3 
 
 ####Slotbepalingen
 
-### Artikel  5  
+###Artikel 5 
 
-Deze regeling treedt in werking op 31 december 2004.  
+Deze regeling treedt in werking op 31 december 2004.
 
-### Artikel  6  
+###Artikel 6 
 
-Deze regeling wordt aangehaald als: Uitvoeringsregeling internationale bijstandsverlening bij de heffing van belastingen.  
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
+Deze regeling wordt aangehaald als: Uitvoeringsregeling internationalebijstandsverlening bij de heffing van belastingen.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Staatssecretaris van Financiën, 
-J.G.Wijn    
+J.G.Wijn

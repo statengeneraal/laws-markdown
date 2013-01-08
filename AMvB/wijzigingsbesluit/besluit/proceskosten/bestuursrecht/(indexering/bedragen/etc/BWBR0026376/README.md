@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit proceskosten bestuursrecht.   
+Wijzigt het Besluit proceskosten bestuursrecht. 
 
 ### Artikel  II  
 
-Ten aanzien van bezwaar of beroep dat vóór de datum van inwerkingtreding van dit besluit is ingesteld, blijft de [bijlage bij het Besluit proceskosten bestuursrecht](../../../../../../../../../AMvB/besluit/proceskosten/bestuursrecht/BWBR0006358/README.md) van toepassing zoals die luidde vóór de inwerkingtreding van dit besluit.  
+Ten aanzien van bezwaar of beroep dat vóór de datum van inwerkingtreding van dit besluit is ingesteld, blijft de [bijlage bij het Besluit proceskosten bestuursrecht](../../../../../../../../../AMvB/besluit/proceskosten/bestuursrecht/BWBR0006358/README.md) van toepassing zoals die luidde vóór de inwerkingtreding van dit besluit. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de eerste dag van de eerste kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag van de eerste kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
