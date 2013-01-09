@@ -16,7 +16,7 @@ M. intern accountant en overheidsaccountant € 810
 
 L. accountant in business € 405  
 
-Z. lid zonder arbeidsinkomen € 155    
+Z. lid zonder arbeidsinkomen € 155   
 
 ### Artikel  2  
 
@@ -28,22 +28,22 @@ M. intern accountant en overheidsaccountant € 0
 
 L. accountant in business € 0  
 
-Z. lid zonder arbeidsinkomen € 0    
+Z. lid zonder arbeidsinkomen € 0   
 
 ### Artikel  3  
 
-De korting, bedoeld in [artikel 7 van de Algemene contributieverordening 2013](../../../../pbo/algemene/contributieverordening/2013/BWBR0031866/README.md), wordt vastgesteld op: 0.  
+De korting, bedoeld in [artikel 7 van de Algemene contributieverordening 2013](../../../../pbo/algemene/contributieverordening/2013/BWBR0031866/README.md), wordt vastgesteld op: 0. 
 
 ### Artikel  4  
 
-Het percentage, bedoeld in [artikel 8, eerste lid, van de Algemene contributieverordening 2013](../../../../pbo/algemene/contributieverordening/2013/BWBR0031866/README.md), wordt vastgesteld op: 4.  
+Het percentage, bedoeld in [artikel 8, eerste lid, van de Algemene contributieverordening 2013](../../../../pbo/algemene/contributieverordening/2013/BWBR0031866/README.md), wordt vastgesteld op: 4. 
 
 ### Artikel  5  
 
-Deze verordening treedt in werking op 1 januari 2013.  
+Deze verordening treedt in werking op 1 januari 2013. 
 
 ### Artikel  6  
 
-Deze verordening wordt aangehaald als: Contributieverordening 2013.  
+Deze verordening wordt aangehaald als: Contributieverordening 2013. 
 
-De ledenvergadering van de Nederlandse Orde van Accountants-Administratieconsulenten,    
+De ledenvergadering van de Nederlandse Orde van Accountants-Administratieconsulenten,   

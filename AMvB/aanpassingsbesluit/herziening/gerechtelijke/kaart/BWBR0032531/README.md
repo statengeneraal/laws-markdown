@@ -15,87 +15,87 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Beroepsreglement.   
+Wijzigt het Beroepsreglement. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit bewaren en vernietigen niet-gevoegde stukken.   
+Wijzigt het Besluit bewaren en vernietigen niet-gevoegde stukken. 
 
 ### Artikel  III  
 
-Wijzigt het Besluit College van afgevaardigden.   
+Wijzigt het Besluit College van afgevaardigden. 
 
 ### Artikel  IV  
 
-Wijzigt het Besluit curateleregister, het Vreemdelingenbesluit 2000, het Besluit boedelregister en het Reglement voor de Kamer voor de Binnenvisserij 1964.   
+Wijzigt het Besluit curateleregister, het Vreemdelingenbesluit 2000, het Besluit boedelregister en het Reglement voor de Kamer voor de Binnenvisserij 1964. 
 
 ### Artikel  V  
 
-Wijzigt het Besluit gezagsregisters.   
+Wijzigt het Besluit gezagsregisters. 
 
 ### Artikel  VI  
 
-Wijzigt het Besluit openbare biedingen Wft.   
+Wijzigt het Besluit openbare biedingen Wft. 
 
 ### Artikel  VII  
 
-Wijzigt het Besluit orde van dienst gerechten.   
+Wijzigt het Besluit orde van dienst gerechten. 
 
 ### Artikel  VIII  
 
-Wijzigt het Besluit prudentiële regels Wft.   
+Wijzigt het Besluit prudentiële regels Wft. 
 
 ### Artikel  IX  
 
-Het [Besluit tijdelijke aanwijzing bevoegde rechtbanken](../../../../../../AMvB/besluit/tijdelijke/aanwijzing/bevoegde/rechtbanken/BWBR0030170/README.md) wordt ingetrokken.  
+Het [Besluit tijdelijke aanwijzing bevoegde rechtbanken](../../../../../../AMvB/besluit/tijdelijke/aanwijzing/bevoegde/rechtbanken/BWBR0030170/README.md) wordt ingetrokken. 
 
 ### Artikel  X  
 
-Wijzigt het Besluit regelen nopens beheer Grootboek 1946.   
+Wijzigt het Besluit regelen nopens beheer Grootboek 1946. 
 
 ### Artikel  XI  
 
-Wijzigt het Besluit ex artikel 4 Wet installaties Noordzee.   
+Wijzigt het Besluit ex artikel 4 Wet installaties Noordzee. 
 
 ### Artikel  XII  
 
-Wijzigt het Reglement dienst hoofd- en lokaalspoorwegen.   
+Wijzigt het Reglement dienst hoofd- en lokaalspoorwegen. 
 
 ### Artikel  XIII  
 
-Wijzigt het Besluit ex artikel 2 Uitvoeringswet Europees Verdrag inzake rechtspositie migrerende werknemers.   
+Wijzigt het Besluit ex artikel 2 Uitvoeringswet Europees Verdrag inzake rechtspositie migrerende werknemers. 
 
 ### Artikel  XIV  
 
-Wijzigt het Besluit vaststelling van het aantal raden van tucht voor registeraccountants en Accountants-Administratieconsulenten, van hun zetel en rechtsgebied, alsmede van hun relatieve bevoegdheid.   
+Wijzigt het Besluit vaststelling van het aantal raden van tucht voor registeraccountants en Accountants-Administratieconsulenten, van hun zetel en rechtsgebied, alsmede van hun relatieve bevoegdheid. 
 
 ### Artikel  XV  
 
-Wijzigt het Vaststellingsbesluit regels met betrekking tot commissies bedoeld in Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding.   
+Wijzigt het Vaststellingsbesluit regels met betrekking tot commissies bedoeld in Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding. 
 
 ### Artikel  XVI  
 
-Wijzigt het Reglement op de Raccordementen 1966.   
+Wijzigt het Reglement op de Raccordementen 1966. 
 
 ### Artikel  XVII  
 
-Wijzigt het Reglement verpleging ter beschikking gestelden.   
+Wijzigt het Reglement verpleging ter beschikking gestelden. 
 
 ### Artikel  XVIII  
 
-Wijzigt het Tramwegreglement.   
+Wijzigt het Tramwegreglement. 
 
 ### Artikel  XIX  
 
-Wijzigt het Tuchtrechtbesluit Landbouwkwaliteitswet.   
+Wijzigt het Tuchtrechtbesluit Landbouwkwaliteitswet. 
 
 ### Artikel  XX  
 
-Wijzigt het Uitvoeringsbesluit pacht.   
+Wijzigt het Uitvoeringsbesluit pacht. 
 
 ### Artikel  XXI  
 
-Wijzigt het Uitvoeringsbesluit pacht.   
+Wijzigt het Uitvoeringsbesluit pacht. 
 
 ### Artikel  XXII  
 
@@ -111,11 +111,11 @@ In afwijking van [artikel 3, tweede lid, van het Besluit College van afgevaardig
 
 ### Artikel  XXIII  
 
-De Commissies bedoeld in [artikel 3 van het Besluit College van afgevaardigden](../../../../../../AMvB/besluit/college/van/afgevaardigden/BWBR0013128/README.md) wijzen onder degenen die op de dag voorafgaand aan de inwerkingtreding van dit besluit namens het ressort Amsterdam, onderscheidenlijk het ressort Arnhem of het ressort Leeuwarden, onderscheidenlijk het ressort ’s-Gravenhage, onderscheidenlijk het ressort ’s-Hertogenbosch deel uitmaken van het College, bedoeld in [artikel 90 van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), de leden aan die namens het ressort Amsterdam, onderscheidenlijk het ressort Arnhem-Leeuwarden, onderscheidenlijk het ressort Den Haag, onderscheidenlijk het ressort ’s-Hertogenbosch deel uitmaken van het College. Voor hen vangt geen nieuwe termijn als bedoeld in [artikel 2, vijfde lid, van het Besluit College van afgevaardigden](../../../../../../AMvB/besluit/college/van/afgevaardigden/BWBR0013128/README.md) aan.  
+De Commissies bedoeld in [artikel 3 van het Besluit College van afgevaardigden](../../../../../../AMvB/besluit/college/van/afgevaardigden/BWBR0013128/README.md) wijzen onder degenen die op de dag voorafgaand aan de inwerkingtreding van dit besluit namens het ressort Amsterdam, onderscheidenlijk het ressort Arnhem of het ressort Leeuwarden, onderscheidenlijk het ressort ’s-Gravenhage, onderscheidenlijk het ressort ’s-Hertogenbosch deel uitmaken van het College, bedoeld in [artikel 90 van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), de leden aan die namens het ressort Amsterdam, onderscheidenlijk het ressort Arnhem-Leeuwarden, onderscheidenlijk het ressort Den Haag, onderscheidenlijk het ressort ’s-Hertogenbosch deel uitmaken van het College. Voor hen vangt geen nieuwe termijn als bedoeld in [artikel 2, vijfde lid, van het Besluit College van afgevaardigden](../../../../../../AMvB/besluit/college/van/afgevaardigden/BWBR0013128/README.md) aan. 
 
 ### Artikel  XXIV  
 
-Dit besluit treedt in werking op 1 januari 2013.  
+Dit besluit treedt in werking op 1 januari 2013. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -123,10 +123,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 13 december 2012  
 Beatrix  
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten   
 
 de *twintigste* december 2012 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

@@ -94,11 +94,15 @@ Hebben goedgevonden en verstaan:
 
 – *generiek diergeneesmiddel:* diergeneesmiddel met dezelfde kwalitatieve en kwantitatieve samenstelling aan werkzame stoffen en dezelfde farmaceutische vorm als het referentiegeneesmiddel, waarvan de biologische equivalentie met het referentiegeneesmiddel is aangetoond;  
 
+– *gevoeligheidsbepaling:* test die de gevoeligheid van een bacterie voor antibiotica vaststelt;  
+
 – *groothandel:* handel in diergeneesmiddelen met uitzondering van verstrekking aan eindgebruikers, waaronder houders van dieren;  
 
 – *invoer:* in Nederland brengen;  
 
 – *importeur:* degene die een vergunning als bedoeld in artikel 4.21, eerste lid, is verstrekt of die diergeneesmiddelen in Nederland brengt overeenkomstig de artikelen 4.20 of 4.21, tweede lid;  
+
+– *kiemisolatie:* verkrijging van een zuivere kweek van bacteriën;  
 
 – *kleinhandel:* handel in diergeneesmiddelen met het oog op verstrekking aan eindgebruikers, waaronder het ter hand stellen aan personen die krachtens wettelijk voorschrift gerechtigd zijn een diergeneesmiddel toe te passen;  
 
@@ -1699,6 +1703,16 @@ Een persoon die een beroep uitoefent als bedoeld in de [artikelen 3](../../../..
 
 Dierenartsen en andere personen die bevoegd zijn tot het verrichten van diergeneeskundige handelingen verstrekken, onverminderd [artikel 8.4, tweede lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md), aan de door Onze Minister krachtens [artikel 8.1, eerste lid](../../../../wet/wet/dieren/BWBR0030250/README.md), en [artikel 8.14, eerste lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md) aangewezen ambtenaren en aan de officiële dierenarts desgevraagd alle inlichtingen over het voorschrijven van diergeneesmiddelen en diervoeders met medicinale werking alsmede het uitvoeren van behandelingen met diergeneesmiddelen en diervoeders met medicinale werking bij dieren die voor de productie van levensmiddelen bestemd zijn en aan laatstgenoemde meer bepaald de inlichtingen betreffende de naleving door een bepaald bedrijf van krachtens artikel 8.4, tweede lid, van dit besluit gestelde eisen.  
 
+### Artikel  8A.6a  
+
+####Gevoeligheidsbepaling bij toepassing aangewezen diergeneesmiddelen
+
+1.  Bij ministeriële regeling kunnen diergeneesmiddelen aangewezen worden die niet zonder voorafgaande kiemisolatie en gevoeligheidsbepaling mogen worden toegepast.   
+2.  Bij ministeriële regeling kunnen regels gesteld worden ten aanzien van de kwaliteit, betrouwbaarheid en controleerbaarheid met betrekking tot de uitvoering van de kiemisolatie en gevoeligheidsbepaling.   
+3.  Het is verboden de diergeneesmiddelen, bedoeld in het eerste lid, toe te passen, indien uit de gevoeligheidsbepaling blijkt dat andere diergeneesmiddelen toepasbaar zijn.   
+4.  Een dierenarts of andere persoon als bedoeld in [artikel 4.1, eerste lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md), kan van het bepaalde bij in het eerste tot en met het derde lid, afwijken indien vanwege diergeneeskundige noodzaak een gevoeligheidsbepaling onmogelijk is of onmiddellijke toepassing van het diergeneesmiddel noodzakelijk is.   
+5.  Bij onmiddellijke toepassing van het diergeneesmiddel wordt een gevoeligheidsbepaling zo snel mogelijk alsnog uitgevoerd.   
+
 ### §  2  
 
 ####Houders van dieren
@@ -1759,6 +1773,12 @@ a. dat een maximum residulimiet overschrijdt als bedoeld in artikel 1, eerste li
 b. waarvoor een actiedrempel als bedoeld in artikel 1, eerste lid, onderdeel b, van deze verordening is vastgesteld.     
 2.  Het eerste lid is van overeenkomstige toepassing na de behandeling van een dier met een diervoerder met medicinale werking.   
 3.  Bij ministeriële regeling worden regels gesteld voor de uitvoering van EU-rechtshandelingen met betrekking tot farmacologische werkzame stoffen als bedoeld in het eerste lid.   
+
+### Artikel  8A.14  
+
+####gevoeligheidsbepaling bij toepassing aangewezen diergeneesmiddelen
+
+Artikel 8A.6a, eerste tot en met derde lid, zijn van overeenkomstige toepassing op houders van dieren.  
 
 ### Hoofdstuk  9  
 

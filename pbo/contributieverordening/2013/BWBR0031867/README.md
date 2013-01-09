@@ -16,7 +16,7 @@ M. intern accountant en overheidsaccountant € 810
 
 L. accountant in business € 405  
 
-Z. lid zonder arbeidsinkomen € 155    
+Z. lid zonder arbeidsinkomen € 155   
 
 ### Artikel  2  
 
@@ -28,7 +28,7 @@ M. intern accountant en overheidsaccountant € 0
 
 L. accountant in business € 0  
 
-Z. lid zonder arbeidsinkomen € 0    
+Z. lid zonder arbeidsinkomen € 0   
 
 ### Artikel  3  
 
@@ -40,10 +40,10 @@ Het percentage, bedoeld in [artikel 8, eerste lid, van de Algemene contributieve
 
 ### Artikel  5  
 
-Deze verordening treedt in werking op 1 januari 2013.  
+Deze verordening treedt in werking op 1 januari 2013. 
 
 ### Artikel  6  
 
-Deze verordening wordt aangehaald als: Contributieverordening 2013.  
+Deze verordening wordt aangehaald als: Contributieverordening 2013. 
 
 De ledenvergadering van het Nederlands Instituut van Registeraccountants.    
