@@ -30,5 +30,5 @@ Den Haag
 20 december 2012   
 
 De 
-staatssecretaris van Financiën,
-F.H.H.Weekers   
+staatssecretaris van Financiën, 
+F.H.H. Weekers     

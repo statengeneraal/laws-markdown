@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Als gevallen waarin het geslacht bepalend is, bedoeld in [artikel 2, tweede lid, onderdeel a, van de Algemene wet gelijke behandeling](../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), alsmede waarin het de bescherming van de vrouw betreft, bedoeld in [artikel 2, tweede lid, onderdeel b, van die wet](../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), worden aangemerkt die gevallen die behoren tot één of meer van de volgende categorieën: 
+Als gevallen waarin het geslacht bepalend is, bedoeld in [artikel 2, tweede lid, onderdeel a, van de Algemene wet gelijke behandeling](../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), alsmede waarin het de bescherming van de vrouw betreft, bedoeld in [artikel 2, tweede lid, onderdeel b, van die wet](../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), worden aangemerkt die gevallen die behoren tot één of meer van de volgende categorieën:  
 
 a. de toegang tot de beroepsactiviteiten en de hiervoor noodzakelijke opleidingen, bedoeld in [artikel 1 van het Besluit beroepsactiviteiten waarvoor het geslacht bepalend kan zijn](../../../../../AMvB/besluit/beroepsactiviteiten/waarvoor/het/geslacht/bepalend/kan/zijn/BWBR0004551/README.md);  
 
@@ -39,29 +39,29 @@ h. de verzekering van een risico dat afhankelijk is van het leven van een persoo
 
 2°. in de overeenkomst op of na 21 december 2012 een wijziging is aangebracht, waarmee alle partijen uitdrukkelijk moeten instemmen, of  
 
-3°. een partij de voor het sluiten van de overeenkomst vereiste instemming laatstelijk heeft betuigd op of na 21 december 2012;    
+3°. een partij de voor het sluiten van de overeenkomst vereiste instemming laatstelijk heeft betuigd op of na 21 december 2012;   
 
-i. het verlenen van diensten die uitsluitend kunnen worden verleend aan mannen dan wel vrouwen.    
+i. het verlenen van diensten die uitsluitend kunnen worden verleend aan mannen dan wel vrouwen.   
 
 ### Artikel  2  
 
-Als gevallen waarin uiterlijke kenmerken die samenhangen met het ras van een persoon bepalend zijn, bedoeld in [artikel 2, vierde lid, van de Algemene wet gelijke behandeling](../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md) worden aangemerkt, die gevallen die behoren tot één of meer van de volgende categorieën: 
+Als gevallen waarin uiterlijke kenmerken die samenhangen met het ras van een persoon bepalend zijn, bedoeld in [artikel 2, vierde lid, van de Algemene wet gelijke behandeling](../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md) worden aangemerkt, die gevallen die behoren tot één of meer van de volgende categorieën:  
 
 a. de uitoefening van het beroep of de activiteit van acteur, danser of kunstenaar, voor zover het beroep of de activiteit betrekking heeft op het vertolken van een bepaalde rol;  
 
-b. de uitoefening van het beroep of de activiteit van mannequin die bepaalde kledingstukken moet tonen door deze te dragen, van model voor beeldend kunstenaars, fotografen, cineasten, kappers, grimeurs en schoonheidsspecialisten, voor zover in redelijkheid eisen kunnen worden gesteld aan uiterlijke kenmerken.    
+b. de uitoefening van het beroep of de activiteit van mannequin die bepaalde kledingstukken moet tonen door deze te dragen, van model voor beeldend kunstenaars, fotografen, cineasten, kappers, grimeurs en schoonheidsspecialisten, voor zover in redelijkheid eisen kunnen worden gesteld aan uiterlijke kenmerken.   
 
 ### Artikel  3  
 
-Als gevallen waarin de nationaliteit bepalend is, bedoeld in [artikel 2, vijfde lid, onderdeel *b*, van de Algemene wet gelijke behandeling](../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), worden aangemerkt de gevallen waarin het op grond van een regeling of praktijk van een organisatie op het gebied van sport of spel aan Nederlanders is voorbehouden om deel te nemen aan wedstrijden ter vertegenwoordiging van het land.  
+Als gevallen waarin de nationaliteit bepalend is, bedoeld in [artikel 2, vijfde lid, onderdeel *b*, van de Algemene wet gelijke behandeling](../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), worden aangemerkt de gevallen waarin het op grond van een regeling of praktijk van een organisatie op het gebied van sport of spel aan Nederlanders is voorbehouden om deel te nemen aan wedstrijden ter vertegenwoordiging van het land. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de dag waarop de [Algemene wet gelijke behandeling](../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md) in werking treedt.  
+Dit besluit treedt in werking met ingang van de dag waarop de [Algemene wet gelijke behandeling](../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md) in werking treedt. 
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Besluit gelijke behandeling.  
+Dit besluit wordt aangehaald als: Besluit gelijke behandeling. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

@@ -9,9 +9,13 @@ Besluit:
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 08-12-2009 
+
 ### Artikel  1  
 
 ####definities
+
+Materieel uitgewerkt per 08-12-2009 
 
 In dit reglement wordt verstaan onder: 
 
@@ -19,19 +23,25 @@ a. de wet: [Wet op de toelating van gewasbeschermingsmiddelen en biociden](../..
 
 b. College: het in [artikel 3 van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) bedoelde College voor de toelating van gewasbeschermingsmiddelen en biociden;  
 
-c. Onze Minister: de in [artikel 1, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) bedoelde Minister.    
+c. Onze Minister: de in [artikel 1, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) bedoelde Minister.   
 
 ### Hoofdstuk  2  
 
 ####Gewasbeschermingsmiddelen op basis van in Bijlage I bij Richtlijn 91/414/EEG opgenomen werkzame stoffen
 
+Materieel uitgewerkt per 08-12-2009 
+
 ### §  1  
 
 ####Aanvraag
 
+Materieel uitgewerkt per 08-12-2009 
+
 ### Artikel  2  
 
 ####algemeen
+
+Materieel uitgewerkt per 08-12-2009 
 
 Voor de indiening van de navolgende aanvragen zijn de volgende bedragen verschuldigd: 
 
@@ -63,15 +73,19 @@ j. een wijziging van de samenstelling van een toegelaten gewasbeschermingsmiddel
 
 2. indien sprake is van wijziging van de technische werkzame stof (nieuwe bron of andere aanpassing): € 656,–   
 
-3. overige gevallen: € 513,–.      
+3. overige gevallen: € 513,–.     
 
 ### §  2  
 
 ####Samenvatten en evalueren
 
+Materieel uitgewerkt per 08-12-2009 
+
 ### Artikel  3  
 
 ####algemeen
+
+Materieel uitgewerkt per 08-12-2009 
 
 Voor het samenvatten en evalueren van de navolgende gegevens, die zijn overlegd bij een aanvraag als bedoeld in artikel 2, onder a zijn de volgende bedragen verschuldigd: 
 
@@ -115,7 +129,7 @@ a. onderzoek over 28 dagen bij orale toediening: € 538,–
 
 b. onderzoek over 90 dagen bij orale toediening (rat): € 1.117,–  
 
-c. onderzoek over 90 dagen bij orale toediening (2 <sup>de</sup> dier): € 1.117,–  
+c. onderzoek over 90 dagen bij orale toediening (2<sup>de</sup> dier): € 1.117,–  
 
 d. onderzoek over 1–2 jaar bij orale toediening (hond): € 2.228,–  
 
@@ -377,11 +391,13 @@ k. voor het afleiden van een Maximaal Residu Limiet (MRL) zijn de volgende bedra
 
 1. voor het samenvatten en evalueren van de residugegevens: de bedragen als genoemd in onderdeel e.  
 
-2. voor het afleiden van een MRL per gewasgroep: € 164,–.      
+2. voor het afleiden van een MRL per gewasgroep: € 164,–.     
 
 ### Artikel  4  
 
 ####micro-organismen
+
+Materieel uitgewerkt per 08-12-2009 
 
 In afwijking van artikel 3 zijn voor het samenvatten en evalueren van de navolgende gegevens, die zijn overlegd bij een aanvraag als bedoeld in artikel 2, onder a betreffende een gewasbeschermingsmiddel op basis van micro-organismen, de volgende bedragen verschuldigd: 
 
@@ -517,15 +533,19 @@ d. effecten op andere planten dan algen: € 462,–
 
 7. aanvullend onderzoek: € 924,–    
 
-g. indien voor enig aspect studies overlegd worden, welke niet onder de voornoemde posten vallen, zijn de tarieven van artikel 3 van toepassing.    
+g. indien voor enig aspect studies overlegd worden, welke niet onder de voornoemde posten vallen, zijn de tarieven van artikel 3 van toepassing.   
 
 ### §  3  
 
 ####Beoordelen
 
+Materieel uitgewerkt per 08-12-2009 
+
 ### Artikel  5  
 
 ####algemeen
+
+Materieel uitgewerkt per 08-12-2009 
 
 Voor de beoordeling van de navolgende aspecten en criteria in het kader van een aanvraag als bedoeld in artikel 2 zijn de volgende bedragen verschuldigd: 
 
@@ -539,11 +559,13 @@ d. criteria ten aanzien van het milieu: € 3.752,–
 
 e. criteria ten aanzien van het welzijn van te bestrijden dieren: € 924,–  
 
-f. het eindoordeel over de toelaatbaarheidsaspecten: € 1.066,–.    
+f. het eindoordeel over de toelaatbaarheidsaspecten: € 1.066,–.   
 
 ### Artikel  6  
 
 ####wederzijdse erkenning
+
+Materieel uitgewerkt per 08-12-2009 
 
 In afwijking van artikel 5, aanhef en onder a, b, c, en d zijn voor de beoordeling van de navolgende aspecten en criteria in het kader van een wederzijdse erkenning van een toelating als bedoeld in [artikel 36 van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), de volgende bedragen verschuldigd: 
 
@@ -553,43 +575,45 @@ b. criteria ten aanzien van de toepasser: € 1.148,–
 
 c. criteria ten aanzien van de volksgezondheid: € 1.148,–  
 
-d. criteria ten aanzien van het milieu: € 1.804,–    
+d. criteria ten aanzien van het milieu: € 1.804,–   
 
 ### Artikel  7  
 
 ####vereenvoudigde uitbreiding
 
+Materieel uitgewerkt per 08-12-2009 
+
 In afwijking van artikel 5 zijn voor de beoordeling van de navolgende aspecten en criteria in het kader van een aanvraag tot uitbreiding van de toepassing van een toegelaten gewasbeschermingsmiddel als bedoeld in [artikel 31 van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) (vereenvoudigde uitbreiding), de volgende bedragen verschuldigd: 
 
-1. Fysisch/chemische eigenschappen: € 82,–  
+1. Fysisch/chemische eigenschappen: € 82,–   
 
-2. Werkzaamheid: 
+2. Werkzaamheid:  
 
-a. effectiviteit: € 82,–  
+a. effectiviteit: € 82,–   
 
-b. schadelijke nevenwerkingen: € 41,–  
+b. schadelijke nevenwerkingen: € 41,–   
 
-c. resistentie: € 41,–    
+c. resistentie: € 41,–     
 
-3. Humane toxicologische/toepasser&werker: € 82,–  
+3. Humane toxicologische/toepasser&werker: € 82,–   
 
-4. Milieu: 
+4. Milieu:  
 
 a. persistentie: € 41,–  
 
-b. uitspoeling: € 41,–  
+b. uitspoeling: € 41,–   
 
-c. vogels/zoogdieren: € 41,–  
+c. vogels/zoogdieren: € 41,–   
 
-d. waterorganismen (incl. sedimentorganismen + bioaccumulatie): € 41,–  
+d.  waterorganismen (incl. sedimentorganismen + bioaccumulatie): € 41,–  
 
-e. bijen/hommels: € 41,–  
+e. bijen/hommels: € 41,–   
 
-f. niet-doelwit arthropoden: € 41,–  
+f. niet-doelwit arthropoden: € 41,–   
 
-g. regenwormen: € 41,–  
+g. regenwormen: € 41,–   
 
-h. bodem micro-organismen: € 41,  
+h. bodem micro-organismen: € 41,   
 
 i. emissie naar RWZI: € 41,–    
 
@@ -598,6 +622,8 @@ i. emissie naar RWZI: € 41,–
 ### Artikel  8  
 
 ####herregistratie
+
+Materieel uitgewerkt per 08-12-2009 
 
 1.  In afwijking van artikel 5 zijn voor de beoordeling van de navolgende aspecten en criteria in het kader van een aanvraag tot herregistratie van een in Nederland voorlopig toegelaten gewasbeschermingsmiddel als bedoeld in [artikel 34 van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), op basis van een nieuwe stof die is geplaatst op Annex I van Richtlijn 91/414/EEG, de volgende bedragen verschuldigd: 
 
@@ -616,62 +642,80 @@ b. voor de beoordeling van het risico ‘toepasser’: € 1.148,–
 
 c. voor de beoordeling van het risico ‘volksgezondheid’: € 1.148,–  
 
-d. voor de beoordeling van het risico ‘milieu’: € 1.804,–.     
+d. voor de beoordeling van het risico ‘milieu’: € 1.804,–.    
 
 ### §  4  
 
-####Plaatsing werkzame stof op Bijlage I Richtlijn 91/414/EEG
+####Plaatsing werkzame stof op Bijlage I Richtlijn 91/414/EEG 
+
+Materieel uitgewerkt per 08-12-2009 
 
 ### Artikel  9  
 
 ####aanvraag
 
+Materieel uitgewerkt per 08-12-2009 
+
 1.  Voor het in behandeling nemen van een aanvraag tot plaatsing van een (nieuwe) werkzame stof op Bijlage I bij Richtlijn 91/414/EEG, is het volgende bedrag verschuldigd: € 11.165,–   
-2.   Dit lid is nog niet in werking getreden.    
+2.  Dit lid is nog niet in werking getreden.  
 
 ### Artikel  10  
 
 ####samenvatten en beoordelen
+
+Materieel uitgewerkt per 08-12-2009 
 
 1.  Voor het samenvatten en beoordelen (monograph) van de aanvraag tot plaatsing als bedoeld in het eerste lid van artikel 9, is het volgende bedrag verschuldigd: 
 
 a. het basisbedrag: € 236.800,–; of  
 
 b. het navolgende bedrag als bij de in behandelingname van de aanvraag blijkt dat met een gedeeltelijk beperkte samenvatting of beoordeling kan worden volstaan: € 160.675,–     
-2.   Dit lid is nog niet in werking getreden.    
+2.  Dit lid is nog niet in werking getreden.  
 
 ### Artikel  11  
 
 ####overige werkzaamheden
 
+Materieel uitgewerkt per 08-12-2009 
+
 1.  Voor de werkzaamheden die na het uitbrengen van de samenvatting en beoordeling (de monograph) aan de Europese Commissie voor werkzame stoffen als bedoeld in het eerste lid van artikel 9, nodig zijn voor de afronding van de Europese besluitvorming is een bedrag op basis van nacalculatie van de werkelijk gemaakte kosten verschuldigd. Het voorschot bedraagt: € 77.140,–-.   
-2.  In afwijking van het eerste lid is voor de werkzaamheden die na het uitbrengen van de samenvatting en beoordeling (de monograph) aan de Europese Commissie als bedoeld in artikel 9, tweede lid nodig zijn voor de afronding van de Europese besluitvorming een bedrag op basis van nacalculatie van de werkelijk gemaakte kosten verschuldigd. Het voorschot bedraagt: € 7.500,–-.   
+2.  In afwijking van het eerste lid is voor de werkzaamheden die na het uitbrengen van de samenvatting en beoordeling (de monograph) aan de Europese Commissie als bedoeld in artikel 9, tweede lid nodig zijn voor de afronding van de Europese besluitvorming een bedrag op basis van nacalculatie van de werkelijk gemaakte kosten verschuldigd. Het voorschot bedraagt: € 7.500,–-.  
 
 ### §  5  
 
 ####Vrijstelling en ontheffing
 
+Materieel uitgewerkt per 08-12-2009 
+
 ### Artikel  12  
 
 ####proefontheffing
+
+Materieel uitgewerkt per 08-12-2009 
 
 Voor de indiening van een aanvraag voor een vrijstelling of ontheffing ten behoeve van een proef of experiment als bedoeld in [artikel 37 van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), is het volgende bedrag verschuldigd: 
 
 a. indien residugegevens moeten worden overgelegd een bedrag van € 513,–;  
 
-b. in overige gevallen een bedrag van € 157,–.    
+b. in overige gevallen een bedrag van € 157,–.   
 
 ### Hoofdstuk  3  
 
 ####Biociden op basis van in Bijlage I of IA bij Richtlijn 98/8/EG opgenomen werkzame stoffen
 
+Materieel uitgewerkt per 08-12-2009 
+
 ### §  1  
 
 ####Aanvraag
 
+Materieel uitgewerkt per 08-12-2009 
+
 ### Artikel  13  
 
 ####algemeen
+
+Materieel uitgewerkt per 08-12-2009 
 
 Voor de indiening van de navolgende aanvragen zijn de volgende bedragen verschuldigd: 
 
@@ -701,15 +745,19 @@ i. een wijziging van de samenstelling van een toegelaten biocide:
 
 2. indien sprake is van wijziging van de technische werkzame stof (nieuwe bron of andere aanpassing): € 656,–  
 
-3. overige gevallen: € 513,–.      
+3. overige gevallen: € 513,–.     
 
 ### §  2  
 
 ####Samenvatten en evalueren
 
+Materieel uitgewerkt per 08-12-2009 
+
 ### Artikel  14  
 
 ####algemeen
+
+Materieel uitgewerkt per 08-12-2009 
 
 Voor het samenvatten en evalueren van de navolgende gegevens, die zijn overlegd bij een aanvraag als bedoeld in artikel 13, onder a zijn de volgende bedragen verschuldigd: 
 
@@ -747,7 +795,7 @@ c. onderzoek over 28 dagen bij inhalatoire toediening: € 538,–
 
 a. onderzoek over 90 dagen bij orale toediening (rat): € 1.117,–  
 
-b. onderzoek over 90 dagen bij orale toediening (2 <sup>de</sup> dier): € 1.117,–  
+b. onderzoek over 90 dagen bij orale toediening (2<sup>de</sup> dier): € 1.117,–  
 
 c. onderzoek over 1-2 jaar bij orale toediening (hond): € 2.228,–  
 
@@ -835,7 +883,7 @@ e. metabolisme en kinetiek bij overige landbouwhuisdieren: € 2.309,–
 
 7. gegevens over ruimteconcentraties van werkzame stoffen en toxicologisch relevante hulpstoffen bij toepassing d.m.v. ruimtesprays: € 1.391,–  
 
-8. gegevens over migratie naar (grondstoffen voor) levensmiddelen of veevoeders:  
+8. gegevens over migratie naar (grondstoffen voor) levensmiddelen of veevoeders:   
 
 9. € 1.391,–  
 
@@ -965,15 +1013,19 @@ j. voor het afleiden van een Maximaal Toelaatbaar Risico (MTR) zijn de volgende 
 
 4. voor het evalueren van relevante gegevens uit de openbare literatuur over het middel onderscheidenlijk voer elk van de daarin voorkomende werkzame stoffen en omzettingsproducten: € 1.200,–  
 
-5. voor het afleiden van een MTR voor de werkzame stof onderscheidenlijk de omzettingsproducten: € 1.200,–      
+5. voor het afleiden van een MTR voor de werkzame stof onderscheidenlijk de omzettingsproducten: € 1.200,–     
 
 ### §  3  
 
 ####Beoordelen
 
+Materieel uitgewerkt per 08-12-2009 
+
 ### Artikel  15  
 
 ####algemeen
+
+Materieel uitgewerkt per 08-12-2009 
 
 Voor de beoordeling van de navolgende aspecten en criteria in het kader van een aanvraag als bedoeld in artikel 13 zijn de volgende bedragen verschuldigd: 
 
@@ -987,21 +1039,27 @@ d. criteria ten aanzien van het milieu: € 3.752,–
 
 e. criteria ten aanzien van het welzijn van te bestrijden dieren: € 924,–  
 
-f. het eindoordeel over de toelaatbaarheidsaspecten: € 1.066,–.    
+f. het eindoordeel over de toelaatbaarheidsaspecten: € 1.066,–.   
 
 ### §  4  
 
-####Plaatsing werkzame stof op Bijlage I Richtlijn 98/8/EG
+####Plaatsing werkzame stof op Bijlage I Richtlijn 98/8/EG 
+
+Materieel uitgewerkt per 08-12-2009 
 
 ### Artikel  16  
 
 ####aanvraag
 
-Voor het in behandeling nemen van een aanvraag tot plaatsing van een (nieuwe) werkzame stof op Bijlage I van Richtlijn 98/8/EG is het volgende bedrag verschuldigd: € 11.165,–.  
+Materieel uitgewerkt per 08-12-2009 
+
+Voor het in behandeling nemen van een aanvraag tot plaatsing van een (nieuwe) werkzame stof op Bijlage I van Richtlijn 98/8/EG is het volgende bedrag verschuldigd: € 11.165,–. 
 
 ### Artikel  17  
 
 ####samenvatten en beoordelen
+
+Materieel uitgewerkt per 08-12-2009 
 
 Voor het samenvatten en beoordelen van de aanvraag tot plaatsing als bedoeld in artikel 16 en het opstellen van een verslag en aanbeveling omtrent het te nemen besluit, is het volgende bedrag verschuldigd: 
 
@@ -1011,65 +1069,86 @@ b. het navolgende bedrag als bij de in behandelingname blijkt dat extra gegevens
 
 c. het navolgende bedrag als bij de in behandelingname blijkt dat met een gedeeltelijk beperkte evaluatie kan worden volstaan: € 160.675,– ; of  
 
-d. het navolgende bedrag als bij de in behandelingname blijkt dat met een beperkte evaluatie kan worden volstaan: € 109.925,– .    
+d. het navolgende bedrag als bij de in behandelingname blijkt dat met een beperkte evaluatie kan worden volstaan: € 109.925,– .   
 
 ### Artikel  18  
 
 ####overige werkzaamheden
 
-Voor de werkzaamheden die na het uitbrengen van het verslag en advies aan de Europese Commissie nodig zijn voor de afronding van de Europese besluitvorming is een bedrag op basis van nacalculatie van de werkelijk gemaakte kosten verschuldigd. Het voorschot bedraagt: € 77.140,–.  
+Materieel uitgewerkt per 08-12-2009 
+
+Voor de werkzaamheden die na het uitbrengen van het verslag en advies aan de Europese Commissie nodig zijn voor de afronding van de Europese besluitvorming is een bedrag op basis van nacalculatie van de werkelijk gemaakte kosten verschuldigd. Het voorschot bedraagt: € 77.140,–. 
 
 ### §  5  
 
 ####Vrijstelling en ontheffing
 
+Materieel uitgewerkt per 08-12-2009 
+
 ### Artikel  19  
 
 ####proefontheffing
+
+Materieel uitgewerkt per 08-12-2009 
 
 Voor de indiening van een aanvraag voor een vrijstelling of ontheffing ten behoeve van een proef of experiment als bedoeld in [artikel 64 van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), is het volgende bedrag verschuldigd: 
 
 a. indien residugegevens moeten worden overgelegd een bedrag van € 513,–;  
 
-b. in overige gevallen een bedrag van € 157,–.    
+b. in overige gevallen een bedrag van € 157,–.   
 
 ### Hoofdstuk  4  
 
 ####Bijzondere procedures voor aanvragen inzake nog niet in bijlage I bij Richtlijn 91/414/EEG en bijlagen I, IA of IB bij Richtlijn 98/8/EG opgenomen werkzame stoffen
 
+Materieel uitgewerkt per 08-12-2009 
+
 ### §  1  
 
 ####Toepassingsbereik
 
-### Artikel  20  
+Materieel uitgewerkt per 08-12-2009 
 
-Dit hoofdstuk heeft betrekking op gewasbeschermingsmiddelen en biociden als bedoeld in [artikel 121, eerste lid van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md).  
+### Artikel  20  
+Materieel uitgewerkt per 08-12-2009 
+
+Dit hoofdstuk heeft betrekking op gewasbeschermingsmiddelen en biociden als bedoeld in [artikel 121, eerste lid van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md). 
 
 ### §  2  
 
 ####Verlenging van besluiten tot toelating
 
+Materieel uitgewerkt per 08-12-2009 
+
 ### Artikel  21  
+Materieel uitgewerkt per 08-12-2009 
 
 1.  Voor de beoordeling van de verlenging van de toelating van een middel als bedoeld in [artikel 122, eerste lid van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), is het volgende bedrag verschuldigd: € 1.650,–.   
-2.  Voor de beoordeling van de verlenging van de afgeleide of parallelle toelating van een middel als bedoeld in [artikel 122, eerste lid van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), is het volgende bedrag verschuldigd: € 123,–.   
+2.  Voor de beoordeling van de verlenging van de afgeleide of parallelle toelating van een middel als bedoeld in [artikel 122, eerste lid van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), is het volgende bedrag verschuldigd: € 123,–.  
 
 ### §  3  
 
 ####Overige aanvragen
 
+Materieel uitgewerkt per 08-12-2009 
+
 ### Artikel  22  
+Materieel uitgewerkt per 08-12-2009 
 
 1.  Voor de indiening van een aanvraag als bedoeld in [artikel 121, eerste lid van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), zijn de bedragen voor gewasbeschermingsmiddelen als genoemd in artikel 2 en voor biociden als genoemd in artikel 13 verschuldigd.   
-2.  Voor de beoordeling van een aanvraag als bedoeld in [artikel 121a van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) zijn de bedragen voor gewasbeschermingsmiddelen als genoemd in artikel 3 en voor biociden als genoemd in artikel 14 verschuldigd.   
+2.  Voor de beoordeling van een aanvraag als bedoeld in [artikel 121a van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) zijn de bedragen voor gewasbeschermingsmiddelen als genoemd in artikel 3 en voor biociden als genoemd in artikel 14 verschuldigd.  
 
 ### §  4  
 
 ####Overige bepalingen
 
+Materieel uitgewerkt per 08-12-2009 
+
 ### Artikel  23  
 
 ####dringend vereist gewasbeschermingsmiddel of biocide
+
+Materieel uitgewerkt per 08-12-2009 
 
 1.  Voor de indiening van een aanvraag als bedoeld in [artikel 123, eerste lid van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), is het volgende bedrag verschuldigd: € 1.722,–   
 2.  Voor de beoordeling van de navolgende aspecten en criteria in het kader van een aanvraag als bedoeld in [artikel 123, eerste lid van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) zijn de volgende bedragen verschuldigd: 
@@ -1121,61 +1200,67 @@ d. werkzaamheid:
 
 1. Etikettering: € 492,–    
 
-e. Het eindoordeel over de toelaatbaarheidsaspecten: € 1.066,–     
+e. Het eindoordeel over de toelaatbaarheidsaspecten: € 1.066,–    
 
 ### Artikel  24  
 
 ####vierde fase werkprogramma en biologische landbouw
 
+Materieel uitgewerkt per 08-12-2009 
+
 1.  Voor de indiening van een aanvraag als bedoeld in [artikel 124, eerste lid van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), is het bedrag genoemd in artikel 2, onderdeel a verschuldigd.   
-2.  Voor de beoordeling van een aanvraag als bedoeld in [artikel 124, eerste lid van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) zijn, voor zover van toepassing, de bedragen als genoemd in artikel 3 verschuldigd:   
+2.  Voor de beoordeling van een aanvraag als bedoeld in [artikel 124, eerste lid van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) zijn, voor zover van toepassing, de bedragen als genoemd in artikel 3 verschuldigd:  
 
 ### Artikel  25  
 
 ####wijziging samenstelling
 
-Voor de indiening van een aanvraag als bedoeld in [artikel 125 van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), is het bedrag verschuldigd als bedoeld in artikel 2, eerste lid, onder i of artikel 13, eerste lid, onder i van dit besluit.  
+Materieel uitgewerkt per 08-12-2009 
+
+Voor de indiening van een aanvraag als bedoeld in [artikel 125 van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), is het bedrag verschuldigd als bedoeld in artikel 2, eerste lid, onder i of artikel 13, eerste lid, onder i van dit besluit. 
 
 ### Artikel  26  
 
 ####vereenvoudigde uitbreiding biocide
 
+Materieel uitgewerkt per 08-12-2009 
+
 1.  Voor de indiening van een aanvraag als bedoeld in [artikel 126 van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), is het navolgende bedrag verschuldigd: € 1968,–.   
 2.  Voor de beoordeling van de navolgende aspecten en criteria in het kader van een aanvraag tot uitbreiding van de toepassing van een toegelaten biocide als bedoeld in [artikel 126 van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) (vereenvoudigde uitbreiding), zijn de volgende bedragen verschuldigd: 
 
-1. Fysisch/chemische eigenschappen: € 82,–  
+1. Fysisch/chemische eigenschappen: € 82,–   
 
-2. Werkzaamheid: 
+2. Werkzaamheid:  
 
-a. effectiviteit: € 82,–  
+a. effectiviteit: € 82,–   
 
-b. schadelijke nevenwerkingen: € 41,–  
+b. schadelijke nevenwerkingen: € 41,–   
 
-c. resistentie: € 41,–    
+c. resistentie: € 41,–     
 
-3. Humane toxicologische/toepasser&werker: € 82,–  
+3.  Humane toxicologische/toepasser&werker: € 82,–  
 
-4. Milieu: 
+4. Milieu:  
 
-a. persistentie: € 41,–  
+a. persistentie: € 41,–   
 
-b. uitspoeling: € 41,–  
+b. uitspoeling: € 41,–   
 
-c. vogels/zoogdieren: € 41,–  
+c. vogels/zoogdieren: € 41,–   
 
-d. waterorganismen (incl. sedimentorganismen + bioaccumulatie): € 41,–  
+d. waterorganismen (incl. sedimentorganismen + bioaccumulatie): € 41,–   
 
-e. bijen/hommels: € 41,–  
+e. bijen/hommels: € 41,–   
 
-f. niet-doelwit arthropoden: € 41,–  
+f. niet-doelwit arthropoden: € 41,–   
 
-g. regenwormen: € 41,–  
+g. regenwormen: € 41,–   
 
-h. bodem micro-organismen: € 41,–  
+h. bodem micro-organismen: € 41,–   
 
 i. emissie naar RWZI: € 41,–    
 
-5. Volksgezondheid: € 82,–  
+5. Volksgezondheid: € 82,–   
 
 6. het eindoordeel over de toelaatbaarheidsaspecten, bedoeld in de [artikel 126 van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md): € 1.066,–     
 
@@ -1183,92 +1268,120 @@ i. emissie naar RWZI: € 41,–
 
 ####Overige tarieven
 
+Materieel uitgewerkt per 08-12-2009 
+
 ### Artikel  27  
 
 ####afleiden MTR niet in het kader van een toelating
 
+Materieel uitgewerkt per 08-12-2009 
+
 1.  Voor een verzoek tot het afleiden van een Maximaal Toelaatbaar Risico (MTR) buiten het kader van een (aanvraag tot) toelating is het volgende bedrag verschuldigd: € 513,–.   
-2.  Voor het afleiden van een MTR zijn de bedragen verschuldigd als genoemd in artikel 3, onderdeel j. van dit besluit.   
+2.  Voor het afleiden van een MTR zijn de bedragen verschuldigd als genoemd in artikel 3, onderdeel j. van dit besluit.  
 
 ### Artikel  28  
 
 ####afleiden MRL niet in het kader van een toelating
 
+Materieel uitgewerkt per 08-12-2009 
+
 1.  Voor het verzoek tot het afleiden van een Maximaal Residu Limiet (MRL) buiten het kader van een (aanvraag tot) toelating is het volgende bedrag verschuldigd: € 513,–.   
-2.  Voor het afleiden van een MRL zijn de bedragen verschuldigd als genoemd in artikel 3, onderdeel k. van dit besluit.   
+2.  Voor het afleiden van een MRL zijn de bedragen verschuldigd als genoemd in artikel 3, onderdeel k. van dit besluit.  
 
 ### Artikel  29  
 
 ####beoordeling technische werkzame stof niet in het kader van een toelating
 
-Voor het beoordelen buiten het kader van een (aanvraag tot) toelating van de technische werkzame stof uit andere bronnen is het volgende bedrag verschuldigd: € 656,–.  
+Materieel uitgewerkt per 08-12-2009 
+
+Voor het beoordelen buiten het kader van een (aanvraag tot) toelating van de technische werkzame stof uit andere bronnen is het volgende bedrag verschuldigd: € 656,–. 
 
 ### Artikel  30  
 
 ####jaarlijkse vergoeding
 
+Materieel uitgewerkt per 08-12-2009 
+
 1.  De jaarlijkse vergoeding voor registratie van een op 1 februari van het jaar waarvoor dit besluit is vastgesteld, toegelaten gewasbeschermingsmiddel of biocide bedraagt: € 1.240,– respectievelijk € 1.140,–.   
-2.  De betaling van het in het eerste lid bedoelde bedrag geschiedt binnen één maand na dagtekening van het verzoek tot betaling op de bij dit verzoek aangegeven wijze.   
+2.  De betaling van het in het eerste lid bedoelde bedrag geschiedt binnen één maand na dagtekening van het verzoek tot betaling op de bij dit verzoek aangegeven wijze.  
 
 ### Artikel  31  
 
 ####inlichtingen omtrent proeven op gewervelde dieren
 
+Materieel uitgewerkt per 08-12-2009 
+
 1.  Ter zake van het inwinnen van inlichtingen bij het College omtrent proeven op gewervelde dieren die bij een eerdere aanvraag tot toelating van een gewasbeschermingsmiddel of biocide zijn uitgevoerd als bedoeld in [artikel 26, eerste lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) en [artikel 46, eerste lid van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) is een bedrag verschuldigd van € 162,–.   
-2.  De betaling van het in het eerste lid bedoelde bedrag geschiedt door overmaking van het verschuldigde bedrag aan het Ctgb tegelijkertijd met het indienen van een aanvraag.   
+2.  De betaling van het in het eerste lid bedoelde bedrag geschiedt door overmaking van het verschuldigde bedrag aan het Ctgb tegelijkertijd met het indienen van een aanvraag.  
 
 ### Artikel  32  
 
 ####bemiddeling uitwisseling dierproefgegevens
 
-Ter zake de bemiddeling door het College als bedoeld in [artikel 8:3, tweede lid, Besluit Bestuursreglement regeling toelating gewasbeschermingsmiddelen en biociden Ctgb 2007](../../../../../../zbo/besluit/bestuursreglement/regeling/toelating/gewasbeschermingsmiddelen/en/etc/BWBR0022969/README.md), is het volgende tarief verschuldigd: kostprijs.  
+Materieel uitgewerkt per 08-12-2009 
+
+Ter zake de bemiddeling door het College als bedoeld in [artikel 8:3, tweede lid, Besluit Bestuursreglement regeling toelating gewasbeschermingsmiddelen en biociden Ctgb 2007](../../../../../../zbo/besluit/bestuursreglement/regeling/toelating/gewasbeschermingsmiddelen/en/etc/BWBR0022969/README.md), is het volgende tarief verschuldigd: kostprijs. 
 
 ### Artikel  33  
 
 ####Helpdesk Toelatingen
 
+Materieel uitgewerkt per 08-12-2009 
+
 1.  Bij een verzoek om inlichtingen aan de Helpdesk Toelatingen over aanvragen tot (uitbreiding van de) toelating is het volgende bedrag verschuldigd: € 487,–.   
 2.  Voor het uitvoering geven aan een verzoek aan de Helpdesk Toelatingen gelden advieskosten die worden berekend op basis van het aantal te besteden uren en een tarief van € 82,– per uur, tot een maximum van € 2.047,–.   
-3.  De advieskosten als bedoeld in het tweede lid kunnen worden verrekend met de in artikel 2, onder a, b, f, h en i, sub 1, artikel 13, onder a, f en i, sub 1 en artikel 26, lid 1 genoemde bedragen, tot een maximum van € 2.047,–, indien het advies van de Helpdesk Toelatingen heeft geleid tot een aanvraag als bedoeld in genoemde onderdelen van artikel 2 en 13.   
+3.  De advieskosten als bedoeld in het tweede lid kunnen worden verrekend met de in artikel 2, onder a, b, f, h en i, sub 1, artikel 13, onder a, f en i, sub 1 en artikel 26, lid 1 genoemde bedragen, tot een maximum van € 2.047,–, indien het advies van de Helpdesk Toelatingen heeft geleid tot een aanvraag als bedoeld in genoemde onderdelen van artikel 2 en 13.  
 
 ### Artikel  34  
 
 ####toezending register
 
+Materieel uitgewerkt per 08-12-2009 
+
 1.  Ter zake van een verzoek om toezending van een register is verschuldigd: € 28,–.   
-2.  De betaling van het in het eerste lid bedoelde bedrag geschiedt vooraf door overmaking van het verschuldigde bedrag aan het Ctgb onder vermelding van het type register.   
+2.  De betaling van het in het eerste lid bedoelde bedrag geschiedt vooraf door overmaking van het verschuldigde bedrag aan het Ctgb onder vermelding van het type register.  
 
 ### Artikel  35  
 
 ####exportverklaring
 
-Voor het op verzoek verstrekken van een verklaring ten behoeve van de export van een gewasbeschermingsmiddel of een biocide, is een bedrag verschuldigd van € 61,–.  
+Materieel uitgewerkt per 08-12-2009 
+
+Voor het op verzoek verstrekken van een verklaring ten behoeve van de export van een gewasbeschermingsmiddel of een biocide, is een bedrag verschuldigd van € 61,–. 
 
 ### Hoofdstuk  6  
 
 ####Slotbepalingen
 
+Materieel uitgewerkt per 08-12-2009 
+
 ### Artikel  36  
 
 ####overgangsregime
 
-1.  De op het tijdstip van inwerkingtreding van dit besluit aanhangige aanvragen worden met ingang van dat tijdstip overeenkomstig de bepalingen van dit besluit behandeld.   
+Materieel uitgewerkt per 08-12-2009 
+
+1.  De op het tijdstip van inwerkingtreding van dit besluit aanhangige aanvragen worden met ingang van dat tijdstip overeenkomstig de bepalingen van dit besluit behandeld.  
 
 ### Artikel  37  
 
 ####inwerkingtreding
 
+Materieel uitgewerkt per 08-12-2009 
+
 1.  Dit besluit treedt, na goedkeuring door Onze Minister, in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin dit besluit wordt geplaatst.   
 2.  In afwijking van het eerste lid treden artikel 9, tweede lid en artikel 10, tweede lid in werking met ingang van de eerste dag na de kalendermaand waarin het besluit van de Europese Commissie houdende bepalingen voor de uitvoering van de vierde fase van het werkprogramma als bedoeld in artikel 8, tweede lid, Richtlijn 91/414/EEG is gepubliceerd in het Publicatieblad van de Europese Gemeenschappen.   
-3.  Het [Tarievenbesluit CTB 2007](../../../../../../zbo/tarievenbesluit/ctb/2007/BWBR0020884/README.md) wordt ingetrokken.   
+3.  Het [Tarievenbesluit CTB 2007](../../../../../../zbo/tarievenbesluit/ctb/2007/BWBR0020884/README.md) wordt ingetrokken.  
 
 ### Artikel  38  
 
 ####citeertitel
 
-Dit besluit wordt aangehaald als: Besluit Tarieven Ctgb 2007.  
+Materieel uitgewerkt per 08-12-2009 
+
+Dit besluit wordt aangehaald als: Besluit Tarieven Ctgb 2007. 
 Vastgesteld in de vergadering van het College voor de toelating van gewasbeschermingsmiddelen en biociden op d.d. 10 oktober 2007 (C-186).  
 
-Het College voor de toelating van gewasbeschermingsmiddelen en biociden, voor deze: de 
+Het College voor de toelating van gewasbeschermingsmiddelen en biociden, voor deze:de 
 Voorzitter, 
-D.K.J.Tommel   
+D.K.J. Tommel     
