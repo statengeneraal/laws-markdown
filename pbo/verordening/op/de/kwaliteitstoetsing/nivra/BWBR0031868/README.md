@@ -39,7 +39,7 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 – *Orde:* het Nederlands Instituut van Registeraccountants, bedoeld in [artikel 1, eerste lid, van de Wet op de Registeraccountants](../../../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md);  
 
-– *College:* het College Kwaliteitsonderzoek, bedoeld in [artikel 21 van de Verordening Kwaliteitsonderzoek](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md);  
+– *Raad:* de individuele personen die op grond van [artikel 3, eerste lid, van de Verordening op de Raad voor Toezicht](../../../../../../../pbo/verordening/op/de/raad/voor/toezicht/BWBR0032734/README.md) zijn benoemd als lid van de Raad voor Toezicht;  
 
 – *thematisch onderzoek:* een onderzoek naar een bepaald aspect van de uitvoering van assurance- of aan assurance verwante opdrachten;  
 
@@ -57,8 +57,6 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 – *systeem van kwaliteitsborging:* de door een organisatie getroffen maatregelen en ingestelde procedures ten aanzien van het onderzoek naar de opzet en de werking van het stelsel van kwaliteitsbeheersing van de bij de organisatie aangesloten accountants, accountantspraktijken of accountantsafdelingen;  
 
-– *toetsingsteam:* het team dat door het bestuur voor een toetsing, een hertoetsing, een thematisch onderzoek of een incidentenonderzoek wordt samengesteld en belast is met de uitvoering van de toetsing of het onderzoek bij een accountantspraktijk of accountantsafdeling;  
-
 – *verbeterplan:* een op de in artikel 13, vierde en vijfde lid, bedoelde aanwijzingen en aanbevelingen gebaseerd document, waarin op planmatige en gestructureerde wijze wordt aangegeven welke maatregelen worden getroffen ter correctie van de geconstateerde tekortkomingen van de opzet en werking van het in artikel 3 bedoelde stelsel van kwaliteitsbeheersing;  
 
 – *voorzitter:* de voorzitter van de Orde;  
@@ -67,9 +65,9 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 ### Artikel  2  
 
-1.  Het bestuur verleent, voor zover dat zich verdraagt met [afdeling 10.1.1 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor de uitoefening van de in deze verordening aan hem verstrekte bevoegdheden mandaat, volmacht en machtiging aan het College.   
-2.  Namens het bestuur kan het College binnen het gestelde in het eerste lid ondermandaat verlenen.   
-3.  Over de inrichting en samenstelling van het College worden bij verordening nadere regels gesteld.   
+1.  Het bestuur verleent, voor zover dat zich verdraagt met [afdeling 10.1.1 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor de uitoefening van de in deze verordening aan hem verstrekte bevoegdheden mandaat, volmacht en machtiging aan de Raad.   
+2.  Namens het bestuur kan de Raad binnen het gestelde in het eerste lid ondermandaat verlenen.   
+3.  Over de inrichting en samenstelling van de Raad worden bij verordening nadere regels gesteld.   
 
 ### Hoofdstuk  2  
 
@@ -106,6 +104,7 @@ Een accountantspraktijk of accountantsafdeling wordt, om de kwaliteit van de ber
 
 1.  Teneinde inzicht te krijgen in de specifieke situatie van de accountantspraktijk of de accountantsafdeling wordt er door het bestuur aan de accountantspraktijk of aan de accountantsafdeling een jaarlijkse monitoringvragenlijst gestuurd. De dagelijks beleidsbepaler zorgt ervoor dat deze vragenlijst binnen een termijn van zes weken na ontvangst door de accountantspraktijk of de accountantsafdeling ingevuld wordt geretourneerd.   
 2.  Het bestuur kan een accountantspraktijk of accountantsafdeling op basis van risico-indicatoren aan een nader onderzoek onderwerpen.   
+3.  Het bestuur kan een accountantsorganisatie welke beschikt over een vergunning als bedoeld in [artikel 6 van de Wet toezicht accountantsorganisaties](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) periodiek bezoeken ter verkrijging van nadere inlichtingen.   
 
 ### Artikel  9  
 
@@ -122,38 +121,38 @@ Een accountantspraktijk of accountantsafdeling wordt, om de kwaliteit van de ber
 ### Artikel  11  
 
 1.  Het bestuur stelt vast welke accountantspraktijken en accountantsafdelingen in een bepaald jaar in aanmerking komen voor een toetsing.   
-2.  Het bestuur stelt ten behoeve van elke toetsing of hertoetsing een toetsingsteam samen.   
-3.  Het toetsingsteam is belast met de uitvoering van de toetsing of de hertoetsing van de accountantspraktijk of de accountantsafdeling.   
-4.  Bij het samenstellen van het toetsingsteam wordt rekening gehouden met de aard en de omvang van de te toetsen accountantspraktijk of accountantsafdeling en met mogelijke feiten en omstandigheden waardoor de objectiviteit van de toetsers zou kunnen worden aangetast.   
+2.  Het bestuur wijst ten behoeve van elke toetsing of hertoetsing een toetser aan of stelt een toetsingsteam samen.   
+3.  De toetser of het toetsingsteam is belast met de uitvoering van de toetsing of de hertoetsing van de accountantspraktijk of de accountantsafdeling.   
+4.  Bij de aanwijzing van de toetser of bij het samenstellen van het toetsingsteam wordt rekening gehouden met de aard en de omvang van de te toetsen accountantspraktijk of accountantsafdeling en met mogelijke feiten en omstandigheden waardoor de objectiviteit van de toetsers zou kunnen worden aangetast.   
 
 ### Artikel  12  
 
 1.  Het bestuur maakt de datum waarop de (her)toetsing zal plaatsvinden ten minste zes weken van tevoren bekend.   
 2.  Indien een accountantspraktijk of een accountantsafdeling aannemelijk maakt dat een (her)toetsing op de datum welke op grond van het eerste lid bekend is gemaakt, niet mogelijk is, kan het bestuur een andere datum bekend maken waarop de (her)toetsing zal plaatsvinden.   
 3.  Indien het tweede lid toepassing vindt, kan het bestuur in overleg met een accountantspraktijk of een accountantsafdeling afwijken van de in het eerste lid genoemde termijn van zes weken.   
-4.  Het bestuur doet mededeling van de samenstelling van het toetsingsteam, alsmede van de termijn waarbinnen een verzoek als bedoeld in het vijfde lid van dit artikel kan worden ingediend.   
+4.  Het bestuur doet mededeling van de naam van de toetser of de samenstelling van het toetsingsteam, alsmede van de termijn waarbinnen een verzoek als bedoeld in het vijfde lid van dit artikel kan worden ingediend.   
 5.  De accountantspraktijk of de accountantsafdeling kan binnen een door het bestuur te stellen termijn aan het bestuur schriftelijk verzoeken elk van de toetsers die de (her)toetsing uitvoert te wraken op grond van objectieve feiten en omstandigheden waardoor gerede twijfel is ontstaan met betrekking tot de objectiviteit van de toetser.   
-6.  Indien het bestuur van oordeel is dat er sprake is van feiten en omstandigheden waardoor de objectiviteit van de toetser aangetast zou kunnen worden of de schijn wordt gewekt dat de objectiviteit van de toetsers aangetast zou kunnen worden, wijzigt het de samenstelling van het toetsingsteam.   
+6.  Indien het bestuur van oordeel is dat er sprake is van feiten en omstandigheden waardoor de objectiviteit van de toetser aangetast zou kunnen worden of de schijn wordt gewekt dat de objectiviteit van de toetsers aangetast zou kunnen worden, wijst het een andere toetser aan of wijzigt het de samenstelling van het toetsingsteam.   
 
 ### Artikel  13  
 
-1.  Het toetsingsteam bespreekt direct na afloop van de (her)toetsing met de accountantspraktijk of de accountantsafdeling de bevindingen van het toetsingsteam op hoofdlijnen.   
-2.  Het toetsingsteam stelt binnen een door het bestuur te stellen termijn na de eindbespreking een concept toetsingsverslag samen.   
-3.  Het toetsingsverslag als bedoeld in het tweede lid omvat naast de bevindingen van het toetsingsteam tevens een gemotiveerd voorstel voor een oordeel als bedoeld in artikel 15, derde lid of artikel 15, vierde lid.   
-4.  Het toetsingsteam kan bij het voorstel voor een oordeel als bedoeld in artikel 15, derde lid, onderdeel a, of artikel 15, vierde lid, onderdeel a, aanbevelingen doen voor het treffen van maatregelen ter verbetering van het stelsel van kwaliteitsbeheersing.   
-5.  Bij een voorstel voor een oordeel als bedoeld in artikel 15, derde lid, onderdeel b, doet het toetsingsteam tevens een voorstel voor aanwijzingen voor het treffen van maatregelen ter verbetering van het stelsel van kwaliteitsbeheersing.   
-6.  Bij een voorstel voor een oordeel als bedoeld in artikel 15, derde lid, onderdeel c, of artikel 15, vierde lid, onderdeel b, doet het toetsingsteam tevens een voorstel voor aanwijzingen voor het treffen van maatregelen ter verbetering van het stelsel van kwaliteitsbeheersing en motiveert de ernst van de geconstateerde tekortkomingen.   
-7.  Het toetsingsteam draagt zorg voor de verzending van het concept toetsingsverslag binnen een door het bestuur te stellen termijn aan de accountantspraktijk of de accountantsafdeling.   
-8.  De accountantspraktijk of de accountantsafdeling kan binnen een door het bestuur te stellen termijn schriftelijk commentaar op het concept toetsingsverslag, bedoeld in het tweede lid, aan het toetsingsteam zenden dat na verwerking van het commentaar het toetsingsverslag definitief maakt en aan de accountantspraktijk of accountantsafdeling en aan het bestuur zendt.   
+1.  De toetser of het toetsingsteam bespreekt direct na afloop van de (her)toetsing met de accountantspraktijk of de accountantsafdeling de bevindingen op hoofdlijnen.   
+2.  De toetser of het toetsingsteam stelt binnen een door het bestuur te stellen termijn na de eindbespreking een concept toetsingsverslag samen.   
+3.  Het toetsingsverslag als bedoeld in het tweede lid omvat naast de bevindingen van de toetser of het toetsingsteam tevens een gemotiveerd voorstel voor een oordeel als bedoeld in artikel 15, derde lid of artikel 15, vierde lid.   
+4.  De toetser of het toetsingsteam kan bij het voorstel voor een oordeel als bedoeld in artikel 15, derde lid, onderdeel a, of artikel 15, vierde lid, onderdeel a, aanbevelingen doen voor het treffen van maatregelen ter verbetering van het stelsel van kwaliteitsbeheersing.   
+5.  Bij een voorstel voor een oordeel als bedoeld in artikel 15, derde lid, onderdeel b, doet de toetser of het toetsingsteam tevens een voorstel voor aanwijzingen voor het treffen van maatregelen ter verbetering van het stelsel van kwaliteitsbeheersing.   
+6.  Bij een voorstel voor een oordeel als bedoeld in artikel 15, derde lid, onderdeel c, of artikel 15, vierde lid, onderdeel b, doet de toetser of het toetsingsteam tevens een voorstel voor aanwijzingen voor het treffen van maatregelen ter verbetering van het stelsel van kwaliteitsbeheersing en motiveert de ernst van de geconstateerde tekortkomingen.   
+7.  De toetser of het toetsingsteam draagt zorg voor de verzending van het concept toetsingsverslag binnen een door het bestuur te stellen termijn aan de accountantspraktijk of de accountantsafdeling.   
+8.  De accountantspraktijk of de accountantsafdeling kan binnen een door het bestuur te stellen termijn schriftelijk commentaar op het concept toetsingsverslag, bedoeld in het tweede lid, aan de toetser of het toetsingsteam zenden welke na verwerking van het commentaar het toetsingsverslag definitief maakt en aan de accountantspraktijk of accountantsafdeling en aan het bestuur zendt.   
 9.  De accountantspraktijk of de accountantsafdeling kan binnen een door het bestuur te stellen termijn schriftelijk commentaar op het definitieve toetsingsverslag, bedoeld het achtste lid, aan het bestuur zenden.   
 
 ### Artikel  14  
 
-Indien zich over de wijze van uitvoering van de (her)toetsing een meningsverschil voordoet tussen de aan toetsing onderworpen accountantspraktijk of accountantsafdeling en het toetsingsteam, doet het bestuur op verzoek van de accountantspraktijk of de accountantsafdeling of het toetsingsteam een bindende uitspraak.  
+Indien zich over de wijze van uitvoering van de (her)toetsing een meningsverschil voordoet tussen de aan toetsing onderworpen accountantspraktijk of accountantsafdeling en de toetser of het toetsingsteam, doet het bestuur op verzoek van de accountantspraktijk of de accountantsafdeling of de toetser of het toetsingsteam een bindende uitspraak.  
 
 ### Artikel  15  
 
-1.  Het bestuur beperkt zich tot een marginale toetsing van het definitieve toetsingsverslag en stelt naar aanleiding hiervan en het eventuele commentaar als bedoeld in artikel 13, negende lid, een eindoordeel vast, al dan niet voorzien van aanbevelingen of aanwijzingen voor het treffen van maatregelen ter verbetering van geconstateerde tekortkomingen, dat hij binnen zes weken na afloop van de in artikel 13, negende lid, bedoelde termijn ter kennis brengt van de accountantspraktijk of de accountantsafdeling. Het bestuur kan gemotiveerd afwijken van het voorstel van het toetsingsteam.   
+1.  Het bestuur beperkt zich tot een marginale toetsing van het definitieve toetsingsverslag en stelt naar aanleiding hiervan en het eventuele commentaar als bedoeld in artikel 13, negende lid, een eindoordeel vast, al dan niet voorzien van aanbevelingen of aanwijzingen voor het treffen van maatregelen ter verbetering van geconstateerde tekortkomingen, dat hij binnen zes weken na afloop van de in artikel 13, negende lid, bedoelde termijn ter kennis brengt van de accountantspraktijk of de accountantsafdeling. Het bestuur kan gemotiveerd afwijken van het voorstel van de toetser of het toetsingsteam.   
 2.  Het bestuur kan de in het eerste lid genoemde termijn van zes weken verlengen.   
 3.  Een eindoordeel na een toetsing kan als volgt luiden: 
 
@@ -170,8 +169,9 @@ b. het stelsel van kwaliteitsbeheersing voldoet in opzet en werking niet aan het
 5.  In het geval aan een accountantspraktijk of de accountantsafdeling een eindoordeel als bedoeld in het derde lid, onderdeel b, wordt gegeven, dan dient de accountantspraktijk of de accountantsafdeling binnen een door het bestuur te stellen termijn een door het bestuur goed te keuren verbeterplan in.   
 6.  Het bestuur stelt een termijn waarbinnen het stelsel van kwaliteitsbeheersing dient te worden aangepast en moet voldoen aan het bepaalde bij of krachtens de [Wet op de Registeraccountants](../../../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md).   
 7.  Het bestuur kan volstaan met een gedeeltelijke goedkeuring van het verbeterplan. Het bestuur vermeldt daarbij op welke onderdelen het verbeterplan tekort schiet.   
-8.  De tijd welke het bestuur besteedt aan de beoordeling van een verbeterplan, schort niet de termijn op bedoeld in het zesde lid.   
-9.  In het geval een eindoordeel luidt als bedoeld in het derde lid, onderdeel c, kan de voorzitter een tuchtrechtelijke procedure aanhangig maken bij de Accountantskamer.   
+8.  Voor het beoordelen van het verbeterplan, bedoeld in het vijfde lid, wordt een tarief in rekening gebracht waarvan de hoogte bij verordening wordt vastgesteld.   
+9.  De tijd welke het bestuur besteedt aan de beoordeling van een verbeterplan, schort niet de termijn op bedoeld in het zesde lid.   
+10.  In het geval een eindoordeel luidt als bedoeld in het derde lid, onderdeel c, kan de voorzitter een tuchtrechtelijke procedure aanhangig maken bij de Accountantskamer.   
 
 ### Artikel  16  
 
@@ -248,21 +248,22 @@ Het bestuur kan naar aanleiding van een daartoe door een accountantspraktijk of 
 
 ### Artikel  25  
 
-1.  Een tijdelijke vrijstelling van een (her)toetsing wordt slechts verleend wanneer tijdelijk niet kan worden voldaan aan de normen, bedoeld in artikel 3 doordat: 
+1.  Een verzoek tot tijdelijke vrijstelling of de verlenging daarvan wordt eerst in behandeling genomen nadat het tarief hiervoor, waarvan de hoogte bij verordening word vastgesteld, door de desbetreffende accountantspraktijk of accountantsafdeling is voldaan.   
+2.  Een tijdelijke vrijstelling van een (her)toetsing wordt slechts verleend wanneer tijdelijk niet kan worden voldaan aan de normen, bedoeld in artikel 3 doordat: 
 
 a. de accountantspraktijk of de accountantsafdeling binnen afzienbare termijn ophoudt te bestaan;  
 
 b. een accountantspraktijk of accountantsafdeling als partij minder dan een jaar geleden betrokken is geweest, dan wel betrokken is bij een fusie met of een overname van of door een accountantspraktijk of accountantsafdeling van vergelijkbare omvang; of  
 
 c. de samenwerking tussen een aanzienlijk deel van de bij een accountantspraktijk of accountantafdeling werkzame accountants of de aan een accountantspraktijk of accountantsafdeling verbonden accountants minder dan een jaar geleden is verbroken.     
-2.  Een tijdelijke vrijstelling van een (her)toetsing kan slechts worden verleend voor de duur van maximaal één jaar met de mogelijkheid tot verlenging voor de duur van maximaal één jaar.   
-3.  Het bestuur neemt een beslissing binnen acht weken na in behandeling nemen van het verzoek tot tijdelijke vrijstelling van een (her)toetsing.   
-4.  Het bestuur kan de in het derde lid genoemde termijn verlengen met maximaal zes weken.   
-5.  Accountantspraktijken of accountantsafdelingen die lid zijn van of aangesloten zijn bij een organisatie waarmee het bestuur samenwerkt op grond van [artikel 23](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md) of [24 van de Verordening Kwaliteitsonderzoek](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md), zijn voor de duur van deze samenwerking vrijgesteld van toetsing door het bestuur.   
-6.  Accountantspraktijken of accountantsafdelingen die lid zijn van of aangesloten zijn bij een organisatie waarmee samenwerking op grond van [artikel 23](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md) of [24 van de Verordening Kwaliteitsonderzoek](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md) wordt voorbereid, zijn gedurende de periode waarin de samenwerking nog niet op enige wijze is vastgelegd, vrijgesteld van toetsing door het bestuur.   
-7.  Accountantspraktijken of accountantsafdelingen die een aanvraag hebben ingediend voor het lidmaatschap van of de aansluiting bij een organisatie waarmee het bestuur samenwerkt op grond van [artikel 23](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md) of [24 van de Verordening Kwaliteitsonderzoek](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md), zijn gedurende de periode waarin de organisatie op het verzoek nog geen beslissing heeft genomen, vrijgesteld van toetsing door het bestuur.   
-8.  Het vijfde en zesde lid vinden geen toepassing in het geval de accountantspraktijk of de accountantsafdeling een aanvraag heeft ingediend voor het lidmaatschap van of de aansluiting bij een organisatie waarmee het bestuur samenwerkt op grond van [artikel 23](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md) of [24 van de Verordening Kwaliteitsonderzoek](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md) nadat een accountantspraktijk of een accountantsafdeling is aangewezen voor een toetsing op grond van artikel 11, eerste lid.   
-9.  Het zevende lid vindt geen toepassing in het geval de in dat lid bedoelde aanvraag is ingediend nadat een accountantspraktijk of een accountantsafdeling is aangewezen voor een toetsing op grond van artikel 11, eerste lid.   
+3.  Een tijdelijke vrijstelling van een (her)toetsing kan slechts worden verleend voor de duur van maximaal één jaar met de mogelijkheid tot verlenging voor de duur van maximaal één jaar.   
+4.  Het bestuur neemt een beslissing binnen acht weken na in behandeling nemen van het verzoek tot tijdelijke vrijstelling van een (her)toetsing.   
+5.  Het bestuur kan de in het derde lid genoemde termijn verlengen met maximaal zes weken.   
+6.  Accountantspraktijken of accountantsafdelingen die lid zijn van of aangesloten zijn bij een organisatie waarmee het bestuur samenwerkt op grond van [artikel 23](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md) of [24 van de Verordening Kwaliteitsonderzoek](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md), zijn voor de duur van deze samenwerking vrijgesteld van toetsing door het bestuur.   
+7.  Accountantspraktijken of accountantsafdelingen die lid zijn van of aangesloten zijn bij een organisatie waarmee samenwerking op grond van [artikel 23](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md) of [24 van de Verordening Kwaliteitsonderzoek](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md) wordt voorbereid, zijn gedurende de periode waarin de samenwerking nog niet op enige wijze is vastgelegd, vrijgesteld van toetsing door het bestuur.   
+8.  Accountantspraktijken of accountantsafdelingen die een aanvraag hebben ingediend voor het lidmaatschap van of de aansluiting bij een organisatie waarmee het bestuur samenwerkt op grond van [artikel 23](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md) of [24 van de Verordening Kwaliteitsonderzoek](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md), zijn gedurende de periode waarin de organisatie op het verzoek nog geen beslissing heeft genomen, vrijgesteld van toetsing door het bestuur.   
+9.  Het zesde en zevende lid vinden geen toepassing in het geval de accountantspraktijk of de accountantsafdeling een aanvraag heeft ingediend voor het lidmaatschap van of de aansluiting bij een organisatie waarmee het bestuur samenwerkt op grond van [artikel 23](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md) of [24 van de Verordening Kwaliteitsonderzoek](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md) nadat een accountantspraktijk of een accountantsafdeling is aangewezen voor een toetsing op grond van artikel 11, eerste lid.   
+10.  Het achtste lid vindt geen toepassing in het geval de in dat lid bedoelde aanvraag is ingediend nadat een accountantspraktijk of een accountantsafdeling is aangewezen voor een toetsing op grond van artikel 11, eerste lid.   
 
 ### Hoofdstuk  8  
 
@@ -278,9 +279,8 @@ In situaties die procedureel van aard zijn en waarin deze verordening niet voorz
 
 ### Artikel  28  
 
-1.  De kosten van een toetsing, een hertoetsing of een thematisch onderzoek komen voor rekening van de getoetste accountantspraktijk of de onderneming, instelling of de overheid en een daarmee gelijk te stellen dienst waartoe een getoetste accountantsafdeling behoort.   
-2.  De kosten van een toetsing, een hertoetsing of een thematisch onderzoek worden gevormd door het aantal aangevangen dagdelen dat de toetsers gezamenlijk bij de accountantspraktijk of accountantsafdeling aan de toetsing, de hertoetsing of het thematisch onderzoek hebben besteed, vermenigvuldigd met het per toetser geldende tarief.   
-3.  Het tarief wordt door de ledenvergadering vastgesteld in de [Verordening tarieven kwaliteitstoetsing NIVRA](../../../../../../../pbo/verordening/tarieven/kwaliteitstoetsing/nivra/BWBR0031869/README.md).   
+1.  De kosten van de werkzaamheden die worden verricht ter zake van de beoordeling van de kwaliteit van de beroepsuitoefening van een accountant, komen voor rekening van de accountantspraktijk waarbij de accountant werkzaam is of waaraan de accountant is verbonden, of de onderneming, de instelling of de overheid en de daarmee gelijk te stellen dienst waartoe de accountantsafdeling behoort waarbij de accountant werkzaam is of waaraan de accountant is verbonden.   
+2.  De toerekening van de kosten van de werkzaamheden die worden verricht ter zake van de beoordeling van de kwaliteit van de beroepsuitoefening van een accountant, wordt bij verordening vastgesteld.   
 
 ### Artikel  29  
 
@@ -297,5 +297,5 @@ Wijzigt de Verordening Kwaliteitsonderzoek.
 
 ### Artikel  31  
 
-1.  Een periodiek onderzoek van een accountantskantoor of een accountantsafdeling welke op grond van [artikel 9, derde lid, van de Verordening Kwaliteitsonderzoek](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md) is geselecteerd voor een periodiek onderzoek, wordt met inachtneming van de bepalingen uit de [Verordening Kwaliteitsonderzoek](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md), zoals deze luidde voor de inwerkingtreding van deze verordening en de [Beleidsregel Kwaliteitsonderzoek](../../../../../../../pbo/beleidsregel/kwaliteitsonderzoek/BWBR0025090/README.md) afgerond door het bestuur.   
-2.  Een vervolgonderzoek van een accountantskantoor of een accountantsafdeling welke op grond van [artikel 12, eerste lid, van de Verordening Kwaliteitsonderzoek](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md) is aangewezen voor een vervolgonderzoek, wordt met inachtneming van de bepalingen uit [Verordening Kwaliteitsonderzoek](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md), zoals deze luidde voor de inwerkingtreding van deze verordening, en de [Beleidsregel Kwaliteitsonderzoek](../../../../../../../pbo/beleidsregel/kwaliteitsonderzoek/BWBR0025090/README.md) afgerond door het bestuur.   
+1.  Een periodiek onderzoek van een accountantskantoor of een accountantsafdeling, welke op grond van [artikel 9, derde lid, van de Verordening Kwaliteitsonderzoek](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md) is geselecteerd voor een periodiek onderzoek, wordt met inachtneming van de bepalingen uit de [Verordening Kwaliteitsonderzoek](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md), zoals deze luidde voor de inwerkingtreding van deze verordening en de [Beleidsregel Kwaliteitsonderzoek](../../../../../../../pbo/beleidsregel/kwaliteitsonderzoek/BWBR0025090/README.md) afgerond door het bestuur.   
+2.  Een vervolgonderzoek van een accountantskantoor of een accountantsafdeling, welke op grond van [artikel 12, eerste lid, van de Verordening Kwaliteitsonderzoek](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md) is aangewezen voor een vervolgonderzoek, wordt met inachtneming van de bepalingen uit [Verordening Kwaliteitsonderzoek](../../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md), zoals deze luidde voor de inwerkingtreding van deze verordening, en de [Beleidsregel Kwaliteitsonderzoek](../../../../../../../pbo/beleidsregel/kwaliteitsonderzoek/BWBR0025090/README.md) afgerond door het bestuur.   

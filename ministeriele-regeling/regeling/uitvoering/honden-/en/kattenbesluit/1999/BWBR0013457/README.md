@@ -8,21 +8,24 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a.  *besluit:*   [Honden- en kattenbesluit 1999](../../../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md);    b.  *SRGN:*   Stichting Registratie Gezelschapsdieren Nederland;    c.  *Bureau I&R-HKB:*   Bureau Identificatie & Registratie van het [Honden- en kattenbesluit 1999](../../../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md);    d.  *deelkwalificatie:*   combinatie van eindtermen, vastgesteld voor een bepaalde beroepsopleiding, bedoeld in [artikel 7.2.3. van de Wet educatie beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);    e.  *UBN:*   uniek bedrijfsnummer, bedoeld in [artikel 5, eerste lid, van het besluit](../../../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md);    f.  *wet:*   [Algemene wet erkenning EG-beroepskwalificaties](../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);    g.  *aanvrager:*   migrerende beroepsbeoefenaar die erkenning van beroepskwalificaties aanvraagt;    h.  *Bureau Erkenningen:*   organisatie die belast is met het uitgeven van bewijzen van vakbekwaamheid in opdracht van de Minister van Landbouw, Natuur en Voedselkwaliteit;    i.  *beheerder:*   beheerder als bedoeld in [artikel 1, onderdeel g, van het Honden- en kattenbesluit 1999](../../../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md);    j.  *bedrijfsinrichting:*   perceelsgebonden ruimte of ruimtes bestemd of gebruikt voor het houden van honden of katten ten behoeve van fokdoelen of voor het houden van honden of katten ten behoeve van verkoop of aflevering;    k.  *asiel:*   perceelsgebonden ruimte of ruimtes bestemd of gebruikt voor het in bewaring houden van honden of katten die zwervend zijn aangetroffen, dan wel waarvan door de eigenaar permanent afstand is gedaan;    l.  *pension:*   perceelsgebonden ruimte of ruimtes, niet zijnde een asiel, bestemd of gebruikt voor het in bewaring houden van honden en katten.     
+In deze regeling wordt verstaan onder:   a.  *besluit:*   [Honden- en kattenbesluit 1999](../../../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md);    b.  *SRGN:*   Stichting Registratie Gezelschapsdieren Nederland;    c.  *Bureau I&R-HKB:*   Bureau Identificatie & Registratie van het [Honden- en kattenbesluit 1999](../../../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md);    d.  *deelkwalificatie:*   combinatie van eindtermen, vastgesteld voor een bepaalde beroepsopleiding, bedoeld in [artikel 7.2.3. van de Wet educatie beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), zoals die gold voor 1 januari 2012;    e.  *UBN:*   uniek bedrijfsnummer, bedoeld in [artikel 5, eerste lid, van het besluit](../../../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md);    f.  *wet:*   [Algemene wet erkenning EG-beroepskwalificaties](../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);    g.  *aanvrager:*   migrerende beroepsbeoefenaar die erkenning van beroepskwalificaties aanvraagt;    h.  *Bureau Erkenningen:*   organisatie die belast is met het uitgeven van bewijzen van vakbekwaamheid in opdracht van de Minister van Landbouw, Natuur en Voedselkwaliteit;    i.  *beheerder:*   beheerder als bedoeld in [artikel 1, onderdeel g, van het Honden- en kattenbesluit 1999](../../../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md);    j.  *bedrijfsinrichting:*   perceelsgebonden ruimte of ruimtes bestemd of gebruikt voor het houden van honden of katten ten behoeve van fokdoelen of voor het houden van honden of katten ten behoeve van verkoop of aflevering;    k.  *asiel:*   perceelsgebonden ruimte of ruimtes bestemd of gebruikt voor het in bewaring houden van honden of katten die zwervend zijn aangetroffen, dan wel waarvan door de eigenaar permanent afstand is gedaan;    l.  *pension:*   perceelsgebonden ruimte of ruimtes, niet zijnde een asiel, bestemd of gebruikt voor het in bewaring houden van honden en katten.     
 
 ### Artikel  2  
 
-1.  Een erkend bewijs van vakbekwaamheid als bedoeld in [artikel 7, eerste lid, van het besluit](../../../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md), omvat ten minste de volgende deelkwalificaties: 
+1.  Een erkend bewijs van vakbekwaamheid als bedoeld in [artikel 7, eerste lid, van het besluit](../../../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md), omvat het certificaat ‘Wettelijke beroepsvereisten gezelschapdieren HKB’ of ‘Wettelijke beroepsvereisten recreatiedieren HKB’, bedoeld in [artikel 1, onderdelen d en e, van de Regeling certificaten groen beroepsonderwijs](../../../../../../../../ministeriele-regeling/regeling/certificaten/groen/beroepsonderwijs/BWBR0032494/README.md), of het diploma van een opleiding behorende bij de kwalificaties, bedoeld in artikel 1, onderdelen d en e van de Regeling certificaten groen beroepsonderwijs.   
+2.  Onverminderd het eerste lid wordt als erkend bewijs van vakbekwaamheid als bedoeld in [artikel 7, eerste lid, van het besluit](../../../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md) aangemerkt: 
 
-a. Voeren van (gezelschaps)dieren;  
+a. een tot 1 januari 2007 door de Stichting Examens Vakbekwaamheid afgegeven bewijs van vakbekwaamheid;  
 
-b. Verzorgen van (gezelschaps)dieren;  
+b. een erkend bewijs van vakbekwaamheid dat tenminste de volgende deelkwalificaties bevat: 
 
-c. Begeleiding voortplanting (gezelschaps)dieren, en  
+1°. Voeren van (gezelschaps)dieren;  
 
-d. Nemen van hygiënische maatregelen.     
-2.  De deelkwalificaties, bedoeld in het eerste lid, kunnen met ingang van 1 augustus 2001 worden behaald.   
-3.  Tot 1 januari 2007 wordt een door de Stichting Examens Vakbekwaamheid afgegeven bewijs van vakbekwaamheids, aangemerkt als het bewijs van vakbekwaamheid, bedoeld in [artikel 7, eerste lid, van het besluit](../../../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md).   
+2°. Verzorgen van (gezelschaps)dieren;  
+
+3°. Begeleiding voortplanting (gezelschaps)dieren, en  
+
+4°. Nemen van hygiënische maatregelen.       
 
 ### Artikel  3  
 
@@ -139,14 +142,14 @@ C.J. Kalden
 
 ####UBN aanmeldingsformulier Beheerder/Inrichting
 
-![36212](http://wetten.overheid.nl/Illustration/36212)
+![36211](http://wetten.overheid.nl/Illustration/36211)
 ![36212](http://wetten.overheid.nl/Illustration/36212)
 
 ### Bijlage  2  
 
 ####UBN mutatieformulier Beheerder/Inrichting
 
-![36214](http://wetten.overheid.nl/Illustration/36214)
+![36213](http://wetten.overheid.nl/Illustration/36213)
 ![36214](http://wetten.overheid.nl/Illustration/36214)
 
 ### Bijlage  3  
