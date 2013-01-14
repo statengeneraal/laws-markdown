@@ -10,31 +10,31 @@ Besluiten:
 
 In deze regeling wordt verstaan onder: 
 
-a. aanhoudings- en ondersteuningseenheid: onderdeel als bedoeld in artikel 18 van de Regeling beheer politie;  
+a. aanhoudings- en ondersteuningseenheid: onderdeel als bedoeld in [artikel 18 van de Regeling beheer politie](../../../../../../../../../../ministeriele-regeling/regeling/beheer/politie/BWBR0032673/README.md);  
 
 b. aanhoudings- en ondersteuningseenheid van de Koninklijke marechaussee: aanhoudings- en ondersteuningseenheid die is ondergebracht bij de Brigade Speciale Beveiligingsopdrachten van de Koninklijke marechaussee;  
 
 c. de Dienst Speciale Interventies: de dienst, bedoeld in [artikel 2 van de Regeling Dienst speciale interventies](../../../../../../../../../../ministeriele-regeling/regeling/dienst/speciale/interventies/BWBR0026381/README.md);  
 
-d. regionale eenheid: de regionale eenheid waar een aanhoudings- en ondersteuningseenheid organisatorisch is ondergebracht.    
+d. regionale eenheid: de regionale eenheid waar een aanhoudings- en ondersteuningseenheid organisatorisch is ondergebracht.   
 
 ### Artikel  2  
 
-Er is binnen een samenwerkingsgebied van regionale eenheden, genoemd in de bijlage bij deze regeling, een aanhoudings- en ondersteuningseenheid, die als herkenbare organisatorische en bedrijfsmatige eenheid deel uit maakt van de regionale eenheid.  
+Er is binnen een samenwerkingsgebied van regionale eenheden, genoemd in de bijlage bij deze regeling, een aanhoudings- en ondersteuningseenheid, die als herkenbare organisatorische en bedrijfsmatige eenheid deel uit maakt van de regionale eenheid. 
 
 ### Artikel  3  
 
 1.  Een aanhoudings- en ondersteuningseenheid bestaat uit twee secties, een eenheidscommandant en een ondersteunend medewerker.   
-2.  Een sectie bestaat uit elf leden en twee sectiecommandanten.   
+2.  Een sectie bestaat uit elf leden en twee sectiecommandanten.  
 
 ### Artikel  4  
 
-De korpschef stelt de termijn vast gedurende welke een ambtenaar van politie ononderbroken deel uit maakt van een aanhoudings- en ondersteuningseenheid, tot een maximum van 6 jaar.  
+De korpschef stelt de termijn vast gedurende welke een ambtenaar van politie ononderbroken deel uit maakt van een aanhoudings- en ondersteuningseenheid, tot een maximum van 6 jaar. 
 
 ### Artikel  5  
 
 1.  De ambtenaar van politie die deel uitmaakt van een aanhoudings- en ondersteuningseenheid, voldoet aan de eindtermen van de door de Minister van Veiligheid en Justitie aan te wijzen vervolgopleiding.   
-2.  De korpschef draagt er zorg voor dat de kennis en vaardigheden van de ambtenaar van politie die deel uitmaakt van een aanhoudings- en ondersteuningseenheid worden onderhouden op minimaal het niveau van de eindtermen, bedoeld in het eerste lid.   
+2.  De korpschef draagt er zorg voor dat de kennis en vaardigheden van de ambtenaar van politie die deel uitmaakt van een aanhoudings- en ondersteuningseenheid worden onderhouden op minimaal het niveau van de eindtermen, bedoeld in het eerste lid.  
 
 ### Artikel  8  
 
@@ -42,7 +42,7 @@ De korpschef en de Minister van Defensie maken afspraken over beheersmatige same
 
 a. de afstemming van uitrusting en opleidingen;  
 
-b. het op een gelijk niveau brengen van de frequentie van inzet van een eenheid.    
+b. het op een gelijk niveau brengen van de frequentie van inzet van een eenheid.   
 
 ### Artikel  9  
 
@@ -50,11 +50,11 @@ De korpschef en de Minister van Defensie maken afspraken over beheersmatige same
 
 a. de opleiding, uitrusting en beschikbaarheid van personeel van de aanhoudings- en ondersteuningseenheden en de aanhoudings- en ondersteuningseenheid van de Koninklijke marechaussee, ten behoeve van het gezamenlijk optreden met de Dienst Speciale Interventies;  
 
-b. stages door het personeel van de Dienst Speciale Interventies bij de aanhoudings- en ondersteuningseenheden en de aanhoudings- en ondersteuningseenheid van de Koninklijke marechaussee.    
+b. stages door het personeel van de Dienst Speciale Interventies bij de aanhoudings- en ondersteuningseenheden en de aanhoudings- en ondersteuningseenheid van de Koninklijke marechaussee.   
 
 ### Artikel  10  
 
-De [Organisatieregeling aanhoudings- en ondersteuningseenheden](../../../../../../../../../../ministeriele-regeling/organisatieregeling/aanhoudings-/en/ondersteuningseenheid/BWBR0006551/README.md) wordt ingetrokken.  
+De [Organisatieregeling aanhoudings- en ondersteuningseenheden](../../../../../../../../../../ministeriele-regeling/organisatieregeling/aanhoudings-/en/ondersteuningseenheid/BWBR0006551/README.md) wordt ingetrokken.
 
 ### Artikel  10a  
 
@@ -62,26 +62,26 @@ Deze regeling berust op de [artikelen 5](../../../../../../../../../../wet/polit
 
 ### Artikel  11  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  12  
 
-Deze regeling wordt aangehaald als: Regeling aanhoudings- en ondersteuningseenheid en samenwerking speciale eenheden.  
+Deze regeling wordt aangehaald als: Regeling aanhoudings- en ondersteuningseenheid en samenwerking speciale eenheden. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-J.W.Remkes 
+J.W. Remkes   
 
 De 
 Minister van Justitie, 
-E.M.H.Hirsch Ballin 
+E.M.H. Hirsch Ballin   
 
 De 
 Minister van Defensie, 
-H.G.J.Kamp  
+H.G.J. Kamp    
 
-### Bijlage  
+### Bijlage 
 
 #### *Indeling samenwerkingsgebieden en aanwijzing centrumkorpsen (behorende bij artikel 2 van deze regeling)* 
 

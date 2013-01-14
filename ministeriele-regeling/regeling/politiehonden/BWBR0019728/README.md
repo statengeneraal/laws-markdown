@@ -35,7 +35,7 @@ h. politiespeurhond: hond als bedoeld in [artikel 23, onder c, van het Besluit b
 
 i. politiesurveillancehond: hond als bedoeld in [artikel 23, onder a, van het Besluit bewapening en uitrusting politie](../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md);  
 
-j. verdovende middelen: producten vermeld op de bij de [Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) behorende [lijsten I](../../../../wet/opiumwet/BWBR0001941/README.md) en [II](../../../../wet/opiumwet/BWBR0001941/README.md).    
+j. verdovende middelen: producten vermeld op de bij de [Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) behorende [lijsten I](../../../../wet/opiumwet/BWBR0001941/README.md) en [II](../../../../wet/opiumwet/BWBR0001941/README.md).   
 
 ### Paragraaf  2  
 
@@ -49,19 +49,19 @@ j. verdovende middelen: producten vermeld op de bij de [Opiumwet](../../../../we
 2.  Uitrusting met een politiespeurhond verdovende middelen geschiedt uitsluitend voor het opsporen van verdovende middelen.   
 3.  Uitrusting met een politiespeurhond explosieven geschiedt uitsluitend voor het opsporen van explosieven, vuurwapens en munitie.   
 4.  Uitrusting met een politiespeurhond stoffelijke resten geschiedt uitsluitend voor het opsporen van stoffelijke resten van mensen.   
-5.  Uitrusting met een politiespeurhond brandversnellende middelen geschiedt uitsluitend voor het opsporen van brandversnellende middelen.   
+5.  Uitrusting met een politiespeurhond brandversnellende middelen geschiedt uitsluitend voor het opsporen van brandversnellende middelen.  
 
 ### Artikel  4  
 
 ####Bewapening met politiesurveillancehond
 
-Bewapening met een politiesurveillancehond geschiedt uitsluitend bij het optreden van de surveillancedienst of de mobiele eenheid.  
+Bewapening met een politiesurveillancehond geschiedt uitsluitend bij het optreden van de surveillancedienst of de mobiele eenheid. 
 
 ### Artikel  5  
 
 ####Bewapening met AOE-hond
 
-Bewapening met een AOE-hond geschiedt uitsluitend bij het optreden van een aanhoudings- en ondersteuningseenheid.  
+Bewapening met een AOE-hond geschiedt uitsluitend bij het optreden van een aanhoudings- en ondersteuningseenheid. 
 
 ### Paragraaf  3  
 
@@ -75,16 +75,16 @@ Bewapening met een AOE-hond geschiedt uitsluitend bij het optreden van een aanho
 2.  Er is een keuringscommissie voor de politiesurveillancehond waarvan de leden worden aangewezen door de rijksgecommitteerden voor de politiesurveillancehond, bedoeld in artikel 7. De aanwijzing vindt plaats nadat het aan te wijzen lid is aangemeld bij een door de korpschef getroffen voorziening voor de organisatie en administratie van keuringen. Aanwijzing vindt niet plaats dan nadat het aan te wijzen lid het examen, bedoeld in het keuringsreglement voor de politiesurveillancehond, met goed gevolg heeft afgelegd.   
 3.  Er is een keuringscommissie voor de AOE-hond waarvan de leden, uit de kring van leden van de keuringscommissie voor de politiesurveillancehond, worden aangewezen door de rijksgecommitteerden voor de AOE-hond, bedoeld in artikel 7.   
 4.  De leden van de keuringscommissie voor de politiespeurhond, van de keuringscommissie voor de politiesurveillancehond en van de keuringscommissie voor de AOE-hond zijn ambtenaar van politie. Van de keuringscommissie voor de politiespeurhond kunnen tevens lid zijn buitengewoon opsporingsambtenaren als bedoeld in [artikel 142 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
-5.  De leden van de keuringscommissie voor de politiespeurhonden, respectievelijk de keuringscommissie voor de politiesurveillancehond, respectievelijk de keuringscommissie voor de AOE-hond beschikken over een ruime dressuur-technische ervaring en praktische politie-ervaring op het gebied van de inzet en het gebruik van de politiespeurhond, respectievelijk de politiesurveillancehond, respectievelijk de AOE-hond. De leden van de keuringscommissie voor de politiespeurhond beschikken tevens over kennis van de toepasselijke bepalingen van het [Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
+5.  De leden van de keuringscommissie voor de politiespeurhonden, respectievelijk de keuringscommissie voor de politiesurveillancehond, respectievelijk de keuringscommissie voor de AOE-hond beschikken over een ruime dressuur-technische ervaring en praktische politie-ervaring op het gebied van de inzet en het gebruik van de politiespeurhond, respectievelijk de politiesurveillancehond, respectievelijk de AOE-hond. De leden van de keuringscommissie voor de politiespeurhond beschikken tevens over kennis van de toepasselijke bepalingen van het [Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).  
 
 ### Artikel  7  
 
 ####Rijksgecommitteerden
 
-1.  De minister wijst rijksgecommitteerden aan voor de politiespeurhond, de politiesurveillancehond en de AOE-hond.   
-2.  Artikel 6, vierde en vijfde lid, zijn van overeenkomstige toepassing op de rijksgecommitteerden voor de politiespeurhond, respectievelijk voor de politiesurveillancehond en voor de AOE-hond.   
+1.  De minister wijst rijksgecommitteerden aan voor de politiespeurhond, de politiesurveillancehond en de AOE-hond.  
+2.  Artikel 6, vierde en vijfde lid, zijn van overeenkomstige toepassing op de rijksgecommitteerden voor de politiespeurhond, respectievelijk voor de politiesurveillancehond en voor de AOE-hond.  
 3.  De rijksgecommitteerden voor de politiespeurhond, respectievelijk de rijksgecommitteerden voor de politiesurveillancehond, respectievelijk de rijksgecommitteerden voor de AOE-hond houden toezicht op de kwaliteit en de objectiviteit van de keuringen en herkeuringen door de keuringscommissie voor de politiespeurhond, respectievelijk de keuringscommissie voor de politiesurveillancehond, respectievelijk de keuringscommissie voor de AOE-hond en de juiste naleving van de regels terzake.   
-4.  De rijksgecommitteerden rapporteren jaarlijks over hun activiteiten aan de minister.   
+4.  De rijksgecommitteerden rapporteren jaarlijks over hun activiteiten aan de minister.  
 
 ### Artikel  8  
 
@@ -94,7 +94,7 @@ Voor een keuring komen in aanmerking honden die:
 
 a. door een gediplomeerd dierenarts gezond zijn verklaard; en  
 
-b. ingeënt zijn tegen de in het keuringsreglement aangewezen ziekten.    
+b. ingeënt zijn tegen de in het keuringsreglement aangewezen ziekten.   
 
 ### Artikel  9  
 
@@ -145,12 +145,12 @@ g. voor de politiespeurhond brandversnellende middelen:
 
 2°. het vermogen om binnen een redelijke tijd alleen die brandversnellende middelen, die in het keuringsreglement zijn aangewezen, op te sporen;    
 
-h. voor de politiespeurhond geld: het zelfstandig willen en kunnen zoeken van een aantal bankbiljetten van verschillende soorten, verborgen bij personen, in handbagage, in kluisjes, in kasten en andere plaatsen.     
+h.voor de politiespeurhond geld: het zelfstandig willen en kunnen zoeken van een aantal bankbiljetten van verschillende soorten, verborgen bij personen, in handbagage, in kluisjes, in kasten en andere plaatsen.   
 5.  De politiespeurhond menselijke geur voert geuridentificatieproeven uit op de wijze waarop deze hond gecertificeerd zal worden.   
 6.  De verdovende middelen, bedoeld in het vierde lid, onderdeel d, onder 2°, worden geplaatst en verborgen in kleine hoeveelheden, op locaties en in verpakkingen overeenkomstig de praktijk.   
 7.  De politiespeurhond wordt gedurende de keuring geleid door zijn geleider.   
 8.  Indien de keuring niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen. Voor een combinatie van een geleider en een politiespeurhond menselijke geur die wordt gekeurd voor de geuridentificatietaak bestaat de mogelijkheid van meer herkansingen.   
-9.  De rijksgecommitteerden voor de politiespeurhond stellen de voor de keuring en opleiding van geleiders en politiespeurhonden benodigde hoeveelheden verdovende middelen en explosieven vast.   
+9.  De rijksgecommitteerden voor de politiespeurhond stellen de voor de keuring en opleiding van geleiders en politiespeurhonden benodigde hoeveelheden verdovende middelen en explosieven vast.  
 
 ### Artikel  10  
 
@@ -189,7 +189,7 @@ a. de theorie inzake het werken met een speurhond stoffelijke resten;
 
 b. factoren die van invloed zijn op het functioneren van de politiespeurhond stoffelijke resten; en  
 
-c. toepasselijke bepalingen van het [Wetboek van strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en van de [Wet op de lijkbezorging](../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md).     
+c. toepasselijke bepalingen van het [Wetboek van strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en van de [Wet op de lijkbezorging](../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md).    
 5.  De geleider van de politiespeurhond geld wordt door de keuringscommissie voor de politiespeurhond geëxamineerd over kennis van: 
 
 a. bankbiljetten;  
@@ -200,9 +200,9 @@ c. het africhten van de politiespeurhond geld;
 
 d. de inzetbaarheid van de politiespeurhond geld bij opsporingsonderzoeken;  
 
-e. de toepasselijke bepalingen van het [Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).     
+e. de toepasselijke bepalingen van het [Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).    
 6.  De examenvragen en de examenstof worden door de keuringscommissie voor de politiespeurhond in overeenstemming met de rijksgecommitteerden voor de politiespeurhond vastgesteld.   
-7.  Indien het examen niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen.   
+7.  Indien het examen niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen.  
 
 ### Artikel  11  
 
@@ -220,7 +220,7 @@ c. de vaardigheid van de politiesurveillancehond in het kunnen nemen van alle hi
 
 d. het vermogen van de surveillancehond om op commando van de geleider geweld tegen derden toe te passen respectievelijk te beëindigen.     
 4.  De politiesurveillancehond wordt gedurende de keuring geleid door zijn geleider.   
-5.  Indien de keuring niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen.   
+5.  Indien de keuring niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen.  
 
 ### Artikel  12  
 
@@ -240,7 +240,7 @@ d. de vaardigheid van de AOE-hond in het kunnen nemen van alle hindernissen die 
 
 e. het vermogen van de AOE-hond om op commando van de geleider geweld tegen derden toe te passen respectievelijk te beëindigen.     
 4.  De AOE-hond wordt gedurende de keuring geleid door zijn geleider.   
-5.  Indien de keuring niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen.   
+5.  Indien de keuring niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen.  
 
 ### Artikel  13  
 
@@ -253,7 +253,7 @@ e. het vermogen van de AOE-hond om op commando van de geleider geweld tegen derd
 
 a. de speurtaak van de politiespeurhonden menselijke geur; of  
 
-b. de geuridentificatietaak van de politiespeurhond menselijk geur.     
+b. de geuridentificatietaak van de politiespeurhond menselijk geur.    
 
 ### Paragraaf  4  
 
@@ -264,12 +264,12 @@ b. de geuridentificatietaak van de politiespeurhond menselijk geur.
 ####Herkeuring
 
 1.  Een combinatie van een geleider en een politiespeurhond, respectievelijk een combinatie van een geleider en een politiesurveillancehond, respectievelijk een combinatie van een geleider en een AOE-hond, wordt binnen twee jaar na het behalen van het certificaat, bedoeld in artikel 13, opnieuw gekeurd door de keuringscommissie voor de politiespeurhond, respectievelijk de keuringscommissie voor de politiesurveillancehond, respectievelijk de keuringscommissie voor de AOE-hond.   
-2.  De herkeuring van een combinatie van een geleider en een politiespeurhond vindt alleen plaats als de geleider aantoont dat hij sinds de laatste keuring of herkeuring jaarlijks een door de rijksgecommitteerden voor de politiespeurhond aangewezen bijscholingscursus heeft gevolgd.   
+2.   De herkeuring van een combinatie van een geleider en een politiespeurhond vindt alleen plaats als de geleider aantoont dat hij sinds de laatste keuring of herkeuring jaarlijks een door de rijksgecommitteerden voor de politiespeurhond aangewezen bijscholingscursus heeft gevolgd.   
 3.  Indien de herkeuring met goed gevolg wordt afgelegd, wordt het certificaat verlengd met de duur van twee jaar en drie maanden.   
 4.  Indien de herkeuring niet met goed gevolg wordt afgelegd, kan binnen de geldigheidsduur van het certificaat een tweede of derde herkeuring plaatsvinden.   
-5.  Indien een eerste, tweede of derde herkeuring niet met goed gevolg wordt afgelegd kan het certificaat voor het verstrijken van de geldigheidsduur worden ingetrokken, indien het naar het oordeel van de keuringscommissie voor de politiespeurhond, respectievelijk de keuringscommissie voor de politiesurveillancehond, respectievelijk de keuringscommissie voor de AOE-hond noodzakelijk is de inzet in politiedienst van de desbetreffende combinatie van geleider en hond met onmiddellijke ingang te beëindigen.   
+5.  Indien een eerste, tweede of derde herkeuring niet met goed gevolg wordt afgelegd kan het certificaat voor het verstrijken van de geldigheidsduur worden ingetrokken, indien het naar het oordeel van de keuringscommissie voor de politiespeurhond, respectievelijk de keuringscommissie voor de politiesurveillancehond, respectievelijk de keuringscommissie voor de AOE-hond noodzakelijk is de inzet in politiedienst van de desbetreffende combinatie van geleider en hond met onmiddellijke ingang te beëindigen.  
 
-### Paragraaf  4a  
+###Paragraaf  4a 
 
 ####Protest
 
@@ -278,7 +278,7 @@ b. de geuridentificatietaak van de politiespeurhond menselijk geur.
 1.  Betrokkenen bij de keuring of herkeuring kunnen bij de voorzitter van de rijksgecommitteerden die toezicht houden op de betreffende keuring of herkeuring, een gemotiveerd schriftelijk protest indienen tegen het keurings- of herkeuringsbesluit van de keuringscommissie. Het protest kan tot acht dagen na ontvangst van het keuringsrapport worden ingediend.   
 2.  Om het protest te beoordelen wijst de voorzitter van de rijksgecommitteerden die het protest ontvangt drie rijksgecommitteerden aan die niet betrokken zijn geweest bij de desbetreffende keuring of herkeuring.   
 3.  De aangewezen rijksgecommitteerden onderzoeken de gronden van het protest en beslissen binnen drie maanden schriftelijk over het protest.   
-4.  De aangewezen rijksgecommitteerden kunnen het besluit van de keuringscommissie bekrachtigen of vernietigen. Bij vernietiging kunnen zij in de plaats van de keuringscommissie een nieuw besluit nemen of bepalen dat er een nieuwe keuring of herkeuring zal plaatsvinden. De rijksgecommitteerden nemen hierbij de keuringsreglementen in acht.   
+4.  De aangewezen rijksgecommitteerden kunnen het besluit van de keuringscommissie bekrachtigen of vernietigen. Bij vernietiging kunnen zij in de plaats van de keuringscommissie een nieuw besluit nemen of bepalen dat er een nieuwe keuring of herkeuring zal plaatsvinden. De rijksgecommitteerden nemen hierbij de keuringsreglementen in acht.  
 
 ### Paragraaf  5  
 
@@ -286,15 +286,15 @@ b. de geuridentificatietaak van de politiespeurhond menselijk geur.
 
 ### Artikel  15  
 
-Na inwerkingtreding van deze regeling berust het besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Justitie van 29 oktober 2003 tot aanwijzing van rijksgecommitteerden politiespeurhond en politiesurveillancehond en samenstelling keuringscommissies op de artikelen 6, eerste lid, en 7, eerste lid, van deze regeling.  
+Na inwerkingtreding van deze regeling berust het besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Justitie van 29 oktober 2003 tot aanwijzing van rijksgecommitteerden politiespeurhond en politiesurveillancehond en samenstelling keuringscommissies op de artikelen 6, eerste lid, en 7, eerste lid, van deze regeling. 
 
 ### Artikel  16  
 
-Na inwerkingtreding van deze regeling berusten de op grond van de Regeling politiespeurhonden 1997 en de [Regeling politiesurveillancehonden 1999](../../../../ministeriele-regeling/regeling/politiesurveillancehonden/1999/BWBR0010333/README.md) afgegeven certificaten op artikel 13 van deze regeling.  
+Na inwerkingtreding van deze regeling berusten de op grond van de Regeling politiespeurhonden 1997 en de [Regeling politiesurveillancehonden 1999](../../../../ministeriele-regeling/regeling/politiesurveillancehonden/1999/BWBR0010333/README.md) afgegeven certificaten op artikel 13 van deze regeling. 
 
 ### Artikel  17  
 
-Na inwerkingtreding van deze regeling berust het certificaat voor de combinatie van een geleider en een AOE-hond, dat op grond van de [Regeling pilot AOE-hond](../../../../ministeriele-regeling/regeling/pilot/aoe-hond/BWBR0016003/README.md) is afgegeven en nadien is verlengd, op artikel 13 van deze regeling.  
+Na inwerkingtreding van deze regeling berust het certificaat voor de combinatie van een geleider en een AOE-hond, dat op grond van de [Regeling pilot AOE-hond](../../../../ministeriele-regeling/regeling/pilot/aoe-hond/BWBR0016003/README.md) is afgegeven en nadien is verlengd, op artikel 13 van deze regeling. 
 
 ### Paragraaf  6  
 
@@ -302,11 +302,11 @@ Na inwerkingtreding van deze regeling berust het certificaat voor de combinatie 
 
 ### Artikel  18  
 
-De [Regeling politiesurveillancehonden 1999](../../../../ministeriele-regeling/regeling/politiesurveillancehonden/1999/BWBR0010333/README.md) wordt ingetrokken.  
+De [Regeling politiesurveillancehonden 1999](../../../../ministeriele-regeling/regeling/politiesurveillancehonden/1999/BWBR0010333/README.md) wordt ingetrokken.
 
 ### Artikel  19  
 
-De Regeling politiespeurhonden 1997 wordt ingetrokken.  
+De Regeling politiespeurhonden 1997 wordt ingetrokken.
 
 ### Artikel  19a  
 
@@ -314,45 +314,45 @@ Deze regeling berust op [artikel 24, derde lid, van het Besluit bewapening en ui
 
 ### Artikel  20  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  21  
 
-Deze regeling wordt aangehaald als: Regeling politiehonden.  
+Deze regeling wordt aangehaald als: Regeling politiehonden. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.  
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-J.W.Remkes  
+J.W. Remkes    
 
-### Bijlage  1  
+###Bijlage 1 
 
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.  
+Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-### Bijlage  2  
+###Bijlage 2 
 
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.  
+Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-### Bijlage  3  
+###Bijlage 3 
 
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.  
+Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-### Bijlage  4  
+###Bijlage 4 
 
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.  
+Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-### Bijlage  5  
+###Bijlage 5 
 
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.  
+Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-### Bijlage  6  
+###Bijlage 6 
 
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.  
+Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-### Bijlage  7  
+###Bijlage 7 
 
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.  
+Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-### Bijlage  8  
+###Bijlage 8 
 
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.  
+Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.

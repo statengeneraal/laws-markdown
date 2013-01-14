@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Uitvoeringsbesluit Tijdelijke wet pilot loondispensatie.   
+Wijzigt het Uitvoeringsbesluit Tijdelijke wet pilot loondispensatie. 
 
 ### Artikel  II  
 
-Op de persoon die op de dag voor inwerkingtreding van de [Wet afschaffing huishoudinkomenstoets](../../../../../../../../../wet/wet/afschaffing/huishoudinkomenstoets/BWBR0031793/README.md) recht heeft op een aanvullende uitkering als bedoeld in [artikel 8 van de Tijdelijke wet pilot loondispensatie](../../../../../../../../../wet/tijdelijke/wet/pilot/loondispensatie/BWBR0027707/README.md), wordt tot het tijdstip waarop het recht op die aanvullende uitkering eindigt doch uiterlijk met ingang van 1 januari 2013 in [artikel 6 van het Uitvoeringsbesluit Tijdelijke wet pilot loondispensatie](../../../../../../../../../AMvB/uitvoeringsbesluit/tijdelijke/wet/pilot/loondispensatie/BWBR0027709/README.md) in het eerste lid, onderdeel a, voor «gehuwd is» gelezen «tot een gezin behoort» en in het vierde lid voor «gehuwde» telkens gelezen «gezin» indien dit leidt tot een hogere aanvullende uitkering.  
+Op de persoon die op de dag voor inwerkingtreding van de [Wet afschaffing huishoudinkomenstoets](../../../../../../../../../wet/wet/afschaffing/huishoudinkomenstoets/BWBR0031793/README.md) recht heeft op een aanvullende uitkering als bedoeld in [artikel 8 van de Tijdelijke wet pilot loondispensatie](../../../../../../../../../wet/tijdelijke/wet/pilot/loondispensatie/BWBR0027707/README.md), wordt tot het tijdstip waarop het recht op die aanvullende uitkering eindigt doch uiterlijk met ingang van 1 januari 2013 in [artikel 6 van het Uitvoeringsbesluit Tijdelijke wet pilot loondispensatie](../../../../../../../../../AMvB/uitvoeringsbesluit/tijdelijke/wet/pilot/loondispensatie/BWBR0027709/README.md) in het eerste lid, onderdeel a, voor «gehuwd is» gelezen «tot een gezin behoort» en in het vierde lid voor «gehuwde» telkens gelezen «gezin» indien dit leidt tot een hogere aanvullende uitkering. 
 
 ### Artikel  III  
 
@@ -31,10 +31,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 24 augustus 2012  
 Beatrix  
 
-De Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,  
 P. de Krom   
 
 de *vierde* september 2012 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    
