@@ -1236,7 +1236,7 @@ a. onteigening, daaronder begrepen minnelijke onteigening en verkoop ter voorkom
 
 b. een besluit, daaronder begrepen een regeling, op het gebied van ruimtelijke ordening, natuur of milieu van een publiekrechtelijke rechtspersoon dat de mogelijkheden om de onderneming of een gedeelte daarvan op de huidige locatie in de huidige vorm voort te zetten of uit te breiden in belangrijke mate beperkt;  
 
-c. bij algemene maatregel van bestuur aangewezen communautaire of nationale regelgeving die leidt tot herstructurering van een bedrijfstak.     
+c. bij algemene maatregel van bestuur aangewezen communautaire of nationale regelgeving die leidt tot herstructurering of beëindiging van een bedrijfstak.     
 13.  Indien een besluit of regeling als bedoeld in het twaalfde lid, onderdeel b, de mogelijkheden om de onderneming of een gedeelte daarvan op de huidige locatie in de huidige vorm voort te zetten of uit te breiden in belangrijke mate beperkt, wordt voor de toepassing van het negende en tiende lid een vervreemding van bedrijfsmiddelen van de onderneming respectievelijk het gedeelte daarvan die plaatsvindt binnen drie jaar nadat een dergelijk besluit of een dergelijke regeling in werking is getreden, geacht een gevolg te zijn van overheidsingrijpen, met dien verstande dat een latere vervreemding ook nog geacht wordt een gevolg te zijn van overheidsingrijpen indien deze vervreemding door bijzondere omstandigheden is vertraagd en daaraan binnen de hiervoor bedoelde periode van drie jaar reeds een begin van uitvoering is gegeven.   
 
 ### Artikel  3.54a  
@@ -3827,11 +3827,27 @@ b. in ontwikkelingslanden en daarmee gelijk te stellen gebieden gelegen projecte
 
 ####Vrijstelling MKB-beleggingen
 
-1.  MKB-beleggingen zijn aandelen in een vennootschap waarvan het kapitaal geheel of ten dele in aandelen is verdeeld en waarvan doel en feitelijke werkzaamheden bestaan in andere activiteiten dan het beleggen van vermogen en welker aandelen zijn toegelaten tot de handel op Alternext Amsterdam, alsmede aandelen in aangewezen MKB-fondsen.   
-2.  Aanwijzing als MKB-fonds geschiedt op verzoek van het fonds bij voor bezwaar vatbare beschikking van de inspecteur. Bij ministeriële regeling worden regels gesteld met betrekking tot de aanwijzing en de intrekking van de aanwijzing.   
-3.  Als MKB-fondsen kunnen voor de toepassing van dit artikel worden aangewezen: beleggingsinstellingen als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), waarvan het doel en de feitelijke werkzaamheden hoofdzakelijk bestaan in het beleggen van vermogen in aandelen van vennootschappen als bedoeld in het eerste lid.   
-4.  Aanwijzing als bedoeld in het tweede lid is ook reeds mogelijk in een aanloopperiode van drie maanden waarin een beleggingsinstelling nog niet voldoet aan de in het derde lid opgenomen voorwaarde dat het doel en de feitelijke werkzaamheden hoofdzakelijk bestaan in het beleggen van vermogen in aandelen van vennootschappen als bedoeld in het eerste lid.   
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2012/321.   
+1.  MKB-beleggingen zijn in het kalenderjaar of in een van de vijf voorafgaande kalenderjaren door een MKB-onderneming geëmitteerde aandelen, alsmede aandelen in een MKB-fonds. Een MKB-onderneming is een vennootschap: 
+
+a. waarvan het kapitaal geheel of ten dele in aandelen is verdeeld;  
+
+b. waarvan doel en feitelijke werkzaamheden bestaan in andere activiteiten dan het beleggen van vermogen;  
+
+c. die ten tijde van de emissie van de in de eerste volzin bedoelde aandelen, geconsolideerd beschouwd: 
+
+1°. minder dan 250 werknemers heeft;  
+
+2°. in enig jaar nog niet een omzet heeft behaald van meer dan € 50 000 000;  
+
+3°. in enig jaar nog niet een balanstotaal heeft gehad van meer dan € 43 000 000; en    
+
+d. die is gevestigd in een gebied dat steun ontvangt van het Europees Fonds voor Regionale Ontwikkeling.   Een MKB-fonds is een op grond van het derde lid aangewezen beleggingsinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), waarvan het doel en de feitelijke werkzaamheden uitsluitend of nagenoeg uitsluitend bestaan in het beleggen van vermogen in door MKB-ondernemingen in het kalenderjaar of in een van de vijf voorafgaande kalenderjaren geëmitteerde aandelen.   
+2.  De in het eerste lid, onderdeel d, opgenomen voorwaarde geldt niet ingeval – beoordeeld overeenkomstig het eerste lid, onderdeel c – de desbetreffende vennootschap minder dan 50 werknemers heeft en de omzet en het balanstotaal niet meer bedragen dan € 10 000 000.   
+3.  Aanwijzing als MKB-fonds geschiedt op verzoek van een beleggingsinstelling bij voor bezwaar vatbare beschikking. Bij ministeriële regeling worden regels gesteld met betrekking tot de aanwijzing en de intrekking van de aanwijzing.   
+4.  Aanwijzing als bedoeld in het derde lid is ook reeds mogelijk in een aanloopperiode van drie maanden waarin een beleggingsinstelling nog niet voldoet aan de in het eerste lid opgenomen voorwaarde dat het doel en de feitelijke werkzaamheden uitsluitend of nagenoeg uitsluitend bestaan in het beleggen van vermogen in door MKB-ondernemingen in het kalenderjaar of in een van de vijf voorafgaande kalenderjaren geëmitteerde aandelen.   
 5.  Op verzoek van een beleggingsinstelling wordt de in het vierde lid bedoelde aanloopperiode van drie maanden vervangen door een ingroeiperiode van maximaal twee jaar, indien de beleggingsinstelling voldoet aan bij ministeriële regeling te stellen voorwaarden.   
+6.  Bij ministeriële regeling kunnen voor de toepassing van dit artikel nadere regels worden gesteld.   
 
 ### Afdeling  5.4  
 

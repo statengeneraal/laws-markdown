@@ -25,7 +25,11 @@ e. *de bedrijfsruimte van de erkende:* de ruimte waarin de erkende de handelinge
 
 f. *buitengewoon opsporingsambtenaar:* de buitengewoon opsporingsambtenaar, bedoeld in [artikel 142, eerste lid, van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
 
-g. *schietvereniging:* de vereniging die blijkens de in een notariële akte opgenomen statuten tot doel heeft haar leden in de gelegenheid te stellen de schietsport te beoefenen.     
+g. *schietvereniging:* de vereniging die blijkens de in een notariële akte opgenomen statuten tot doel heeft haar leden in de gelegenheid te stellen de schietsport te beoefenen;  
+
+h. *airsoftapparaat:* lucht-, gas-, of veerdrukwapen met een maximum schotkracht van 3,5 joules, welk wapen voor wat betreft zijn vorm en afmetingen een sprekende gelijkenis toont met vuurwapens;  
+
+i. *airsoftvereniging:* de vereniging die blijkens de in een notariële akte opgenomen statuten tot doel heeft haar leden de gelegenheid te bieden de airsoftsport te beoefenen.     
 2.  Overige in deze regeling voorkomende begrippen hebben dezelfde betekenis als in [de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md).   
 
 ### 2  
@@ -106,7 +110,7 @@ b. personen die werkzaam zijn bij het Landelijk selectie- en opleidingsinstituut
 
 Het voorschrift, bedoeld in artikel 4, eerste lid, kan uitsluitend betrekking hebben op: 
 
-a. een korte wapenstok, van een door de Minister en de Minister van Binnenlandse Zaken en Koninkrijksrelaties goedgekeurd merk en type;  
+a. een korte wapenstok, van een door de Minister goedgekeurd merk en type;  
 
 b. het door de Minister aangewezen pistool;  
 
@@ -156,7 +160,7 @@ g. de [Opiumwet](../../../../../../wet/opiumwet/BWBR0001941/README.md).
 
 ### Artikel  8a  
 
-1.  Een erkenninghouder die een vuurwapen van de categorie II of III of munitie vervaardigt, transformeert of in de uitoefening van een bedrijf uitwisselt, verhuurt of anderszins ter beschikking stelt, herstelt beproeft of verhandelt, stelt geen personen te werk die belast zullen worden met werkzaamheden dan nadat ten aanzien van deze personen een gunstig luidende verklaring omtrent het gedrag is verkregen.   
+1.  Een erkenninghouder die een vuurwapen van de categorie II of III, munitie of airsoftapparaten vervaardigt, transformeert of in de uitoefening van een bedrijf uitwisselt, verhuurt of anderszins ter beschikking stelt, herstelt beproeft of verhandelt, stelt geen personen te werk die belast zullen worden met werkzaamheden dan nadat ten aanzien van deze personen een gunstig luidende verklaring omtrent het gedrag is verkregen.   
 2.  De erkenninghouder stuurt een afschrift van de verklaring omtrent het gedrag zoals genoemd in het eerste lid aan de korpschef.   
 
 ### Artikel  9  
@@ -230,7 +234,7 @@ f. een registratie betreffende ter beproeving gegeven wapens en munitie.
 7.  De in het tweede lid onder e genoemde registratie bevat kolomsgewijs en achtereenvolgens: het volgnummer, de datum van ontvangst, het aantal, een omschrijving van het wapen met vermelding van fabrikaat, type, kaliber en nummer, een omschrijving van de munitie met vermelding van fabrikaat, type en kaliber, de naam en het adres van degene die in bewaring of in reparatie heeft gegeven, de soort, het nummer en de afgevende instantie van het document waaruit de bevoegdheid blijkt van degene die in bewaring of in reparatie heeft gegeven, gegevens betreffende de doorgifte van het wapen aan degene die het wapen in reparatie of bewaring heeft gegeven.   
 8.  De in het tweede lid onder f genoemde registratie bevat kolomsgewijs en achtereenvolgens: het volgnummer, de datum van ontvangst, het aantal, een omschrijving van het wapen met vermelding van het fabrikaat, type, kaliber en nummer, een omschrijving van de munitie met vermelding van fabrikaat, type en kaliber, de naam en het adres van degene die ter beproeving heeft gegeven, de soort, het nummer en de afgevende instantie van het document waaruit de bevoegdheid blijkt van degene die ter beproeving heeft gegeven, gegevens betreffende de doorgifte van het wapen aan degene die het wapen ter beproeving heeft gegeven.   
 9.  De erkenninghouder of de in het bewijs van erkenning genoemde beheerder verstrekt voor de zevende dag van elke kalendermaand aan de korpschef een door hem per bladzijde ondertekende en gedateerde kopie dan wel, voorzover het een geautomatiseerd te verwerken registratie betreft, een uitdraai van het gedeelte van elk van de in het tweede lid onder a t/m d genoemde registraties, dat betrekking heeft op de voorgaande kalendermaand, onder gelijktijdige afgifte van de door hem in die periode ingenomen verloven tot verkrijging. Op verzoek van de korpschef overlegt hij tevens maandelijks een kopie dan wel, voorzover het een geautomatiseerd te verwerken registratie betreft, een uitdraai van het desbetreffende gedeelte van de in het tweede lid onder e genoemde registratie.   
-10.  De erkenninghouder of de in het bewijs van erkenning genoemde beheerder die handelt in lucht-, gas-, of veerdrukwapens van categorie IV, patroonhouders of -magazijnen bedoeld in artikel 18, onder g, van deze regeling, stroomstootwapens bedoeld in artikel 21, van deze regeling, of in noodsignaalmiddelen en bijbehorende munitie bedoeld in artikel 22, eerste en tweede lid, van deze regeling houdt ten aanzien van de verkoop van die lucht-, gas-, of veerdrukwapens, stroomstootwapens of noodsignaalmiddelen een register waarin kolomsgewijs en achtereenvolgens wordt aangetekend: de datum van overdracht, het aantal, het fabrikaat en type van de overgedragen voorwerpen, de naam en het adres van degene aan wie wordt overgedragen, alsmede het soort en nummer van diens legitimatiebewijs. De in dit register opgenomen gegevens blijven tenminste gedurende zeven jaren bewaard.   
+10.  De erkenninghouder of de in het bewijs van erkenning genoemde beheerder die handelt in lucht-, gas-, of veerdrukwapens van categorie IV, airsoftapparaat, patroonhouders of -magazijnen bedoeld in artikel 18, onder g, van deze regeling, stroomstootwapens bedoeld in artikel 21, van deze regeling, of in noodsignaalmiddelen en bijbehorende munitie bedoeld in artikel 22, eerste en tweede lid, van deze regeling houdt ten aanzien van de verkoop van die lucht-, gas-, of veerdrukwapens, airsoftapparaten, patroonhouders of -magazijnen, stroomstootwapens of noodsignaalmiddelen een register waarin kolomsgewijs en achtereenvolgens wordt aangetekend: de datum van overdracht, het aantal, het fabrikaat en type van de overgedragen voorwerpen, de naam en het adres van degene aan wie wordt overgedragen, alsmede het soort en nummer van diens legitimatiebewijs. De in dit register opgenomen gegevens blijven tenminste gedurende zeven jaren bewaard.   
 
 ### Artikel  13  
 
@@ -494,7 +498,7 @@ d. door middel van gravering zijn voorzien van de postcode en het huisnummer van
 
 ### Artikel  24  
 
-Van het verbod in [artikel 22, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt vrijstelling verleend voor het vervoeren van andere noodsignaalmiddelen dan bedoeld in artikel 22, tweede lid, van deze regeling, aan de door de Minister van Infrastructuur en Milieu aangewezen ambtenaren van de Vaarwegmarkeringsdienst van het Ministerie van Infrastructuur en Milieu.’  
+Van het verbod in [artikel 22, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt vrijstelling verleend voor het vervoeren van andere noodsignaalmiddelen dan bedoeld in artikel 22, tweede lid, van deze regeling, aan de door de Minister van Infrastructuur en Milieu aangewezen ambtenaren van de Markeerdienst van het Ministerie van Infrastructuur en Milieu.’  
 
 ### Artikel  25  
 
@@ -603,7 +607,7 @@ b. wapens van categorie III en de bijbehorende munitie die aan boord van het sch
 
 ### Artikel  38a  
 
-De in de artikelen 34 eerste lid en artikel 40, derde lid genoemde melding omvat een omschrijving van de goederen alsmede de vermelding van: 
+De in de artikelen 34, tweede lid, onderdeel a, en 40, derde lid, genoemde melding omvat een omschrijving van de goederen alsmede de vermelding van: 
 
 a. de hoeveelheid goederen;  
 
