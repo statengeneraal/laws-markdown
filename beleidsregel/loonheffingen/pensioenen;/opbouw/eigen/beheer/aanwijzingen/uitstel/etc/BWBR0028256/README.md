@@ -7,7 +7,7 @@ De minister van Financiën heeft het volgende besloten.  *Dit besluit is een sam
 
 ####Inleiding
 
-Dit besluit is een samenvoeging en actualisering van eerdere beleidsbesluiten over pensioenen en stamrechten. Onderdeel 2 betreft de dienstjaren en diensttijd. Onderdeel 2.2 bevat een goedkeuring over perioden van verlof, vooruitlopend op een wijziging van het [UBLB](../../../../../../../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md). Onderdeel 3 betreft het pensioengevend loon. Onderdeel 4 gaat in op het pensioengevend loon bij de toepassing van de zogenoemde cafetariaregelingen. Daarbij is in onderdeel 4.3 een goedkeuring gegeven om bij ruil van loonbestanddelen een verlaging van het pensioengevend loon achterwege te laten. Onderdeel 5 geeft de kaders aan voor de vaststelling van de pensioenbijdragen en de verdeling daarvan over werkgever en werknemer bij eigen beheer. Onderdeel 6 bevat een goedkeuring om onder bepaalde voorwaarden de pensioendatum uit te stellen bij doorwerken als ondernemer na het einde van de dienstbetrekking. In onderdeel 7 wijs ik op basis van [artikel 19d van de Wet LB](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) bepaalde regelingen aan als pensioenregeling. Onderdeel 8 is van belang voor prepensioenen en overbruggingspensioenen waarop het overgangsrecht van [artikel 38d](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) respectievelijk  [38f van de Wet LB](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) van toepassing is. Dit onderdeel bevat een drietal goedkeuringen. Onderdeel 9 bevat ten slotte een goedkeuring op het gebied van loonstamrechten.   
+Dit besluit is een samenvoeging en actualisering van eerdere beleidsbesluiten over pensioenen en stamrechten. Onderdeel 2 betreft de dienstjaren en diensttijd. Onderdeel 2.2 bevat een goedkeuring over perioden van verlof, vooruitlopend op een wijziging van het [UBLB](../../../../../../../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md). Onderdeel 3 betreft het pensioengevend loon. Onderdeel 4 gaat in op het pensioengevend loon bij de toepassing van de zogenoemde cafetariaregelingen. Daarbij is in onderdeel 4.3 een goedkeuring gegeven om bij ruil van loonbestanddelen een verlaging van het pensioengevend loon achterwege te laten. Onderdeel 5 geeft de kaders aan voor de vaststelling van de pensioenbijdragen en de verdeling daarvan over werkgever en werknemer bij eigen beheer. Onderdeel 6 bevat een goedkeuring om onder bepaalde voorwaarden de pensioendatum uit te stellen bij doorwerken als ondernemer na het einde van de dienstbetrekking. In onderdeel 7 wijs ik op basis van [artikel 19d van de Wet LB](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) bepaalde regelingen aan als pensioenregeling. Onderdeel 8 is van belang voor prepensioenen en overbruggingspensioenen waarop het overgangsrecht van [artikel 38d](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) respectievelijk [38f van de Wet LB](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) van toepassing is. Dit onderdeel bevat een drietal goedkeuringen. Onderdeel 9 bevat ten slotte een goedkeuring op het gebied van loonstamrechten.   
 
 ####Voorgaande besluiten
 
@@ -20,8 +20,8 @@ De onderdelen 2 tot en met 4, 8 en 9 zijn inhoudelijk gelijk aan respectievelijk
 |:---|:---|
 | Artikel 18e (oud) van de Wet LB  | [artikel 18e van de Wet LB](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) zoals dit artikel luidde op 31 december 2004  |
 | Artikel 38a (oud) van de Wet LB  | [artikel 38a van de Wet LB](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) zoals dit artikel luidde op 31 december 2004  |
-| AOW  |  [Algemene ouderdomswet](../../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md)   |
-| AWR  |  [Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)   |
+| AOW  | [Algemene ouderdomswet](../../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md)  |
+| AWR  | [Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)  |
 | dga  | directeur-grootaandeelhouder  |
 | inspecteur  | de bevoegde inspecteur van de Belastingdienst  |
 | loon  | loon in de zin van [hoofdstuk II van de Wet LB](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)  |
@@ -32,12 +32,12 @@ De onderdelen 2 tot en met 4, 8 en 9 zijn inhoudelijk gelijk aan respectievelijk
 | (pre)pensioendatum  | de in een (pre)pensioenregeling vastgestelde ingangsdatum van het prepensioen of het ouderdomspensioen  |
 | salaris  | het privaatrechtelijk of publiekrechtelijk overeengekomen salaris  |
 | Stcrt.  | Staatscourant  |
-| UBLB  |  [Uitvoeringsbesluit loonbelasting 1965](../../../../../../../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md)   |
+| UBLB  | [Uitvoeringsbesluit loonbelasting 1965](../../../../../../../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md)  |
 | VUT  | vervroegde uittreding  |
 | werkgever  | inhoudingsplichtige voor de loonheffingen  |
-| Wet IB 2001  |  [Wet inkomstenbelasting 2001](../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)   |
-| Wet LB  |  [Wet op de loonbelasting 1964](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)   |
-| Wet VPL  |  [Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling](../../../../../../../../../../wet/wet/aanpassing/fiscale/behandeling/vutprepensioen/en/introductie/etc/BWBR0018053/README.md)   |
+| Wet IB 2001  | [Wet inkomstenbelasting 2001](../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)  |
+| Wet LB  | [Wet op de loonbelasting 1964](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)  |
+| Wet VPL  | [Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling](../../../../../../../../../../wet/wet/aanpassing/fiscale/behandeling/vutprepensioen/en/introductie/etc/BWBR0018053/README.md)  |
 
 ### 2  
 
@@ -61,7 +61,7 @@ Ik keur goed dat over perioden van geheel of gedeeltelijk onbetaald verlof de to
 
 ####Vut- en prepensioenjaren volgend op uitkeringen na onvrijwillig ontslag
 
-*VUT- of prepensioenjaren tellen alleen mee als dienstjaren als zij direct volgen op de periode van de actieve dienstbetrekking (de periode van artikel 10a, eerste lid, onderdelen a en b, van het UBLB). Dit volgt uit de letterlijke tekst van artikel 10a, eerste lid, onderdelen d en e, van het UBLB.* Dit voor zover die jaren voortvloeien uit een regeling als bedoeld in [artikel 38c](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), respectievelijk [38d van de Wet LB](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md). Strikt genomen zijn de onderdelen d en e dus niet van toepassing als de (ex)werknemer in aansluiting op het einde van de actieve dienstbetrekking door onvrijwillig ontslag eerst inkomensvervangende loongerelateerde uitkeringen ontvangt als bedoeld in [artikel 10a, eerste lid, onderdeel c, van het UBLB](../../../../../../../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md). Het is echter in overeenstemming met de strekking van artikel 10a van het UBLB om de onderdelen d en e ook van toepassing te achten als de VUT- of prepensioenperiode aansluit op een dergelijke uitkeringsperiode. Hierom keur ik met toepassing van [artikel 63 van de AWR](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (hardheidsclausule) het volgende goed.   
+*VUT- of prepensioenjaren tellen alleen mee als dienstjaren als zij direct volgen op de periode van de actieve dienstbetrekking (de periode van artikel 10a, eerste lid, onderdelen a en b, van het UBLB). Dit volgt uit de letterlijke tekst van artikel 10a, eerste lid, onderdelen d en e, van het UBLB.*Dit voor zover die jaren voortvloeien uit een regeling als bedoeld in [artikel 38c](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), respectievelijk [38d van de Wet LB](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md). Strikt genomen zijn de onderdelen d en e dus niet van toepassing als de (ex)werknemer in aansluiting op het einde van de actieve dienstbetrekking door onvrijwillig ontslag eerst inkomensvervangende loongerelateerde uitkeringen ontvangt als bedoeld in [artikel 10a, eerste lid, onderdeel c, van het UBLB](../../../../../../../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md). Het is echter in overeenstemming met de strekking van artikel 10a van het UBLB om de onderdelen d en e ook van toepassing te achten als de VUT- of prepensioenperiode aansluit op een dergelijke uitkeringsperiode. Hierom keur ik met toepassing van [artikel 63 van de AWR](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (hardheidsclausule) het volgende goed.   
 
 ####Goedkeuring
 
@@ -476,7 +476,7 @@ De opbouw van een prepensioen moet tijdsevenredig plaatsvinden in ten minste tie
 
 Ik keur goed dat partijen in een regeling de opbouw van een prepensioen of een overbruggingspensioen beëindigen op een datum vóór de ingangsdatum van het prepensioen of het ouderdomspensioen. Hierbij geldt als voorwaarde dat dit niet leidt tot bovenmatigheid van de jaarlijkse opbouw. Daartoe moet toetsing plaatsvinden van de opbouw aan de wettelijke maxima onder de veronderstelling dat de opbouw wel doorloopt tot aan de ingangsdatum van het prepensioen of het ouderdomspensioen. Het feit dat de pensioenopbouw eerder stopt dan op de (pre)pensioendatum mag dus niet tot gevolg hebben dat de opbouw per jaar (in een of meer jaren) hoger wordt dan wettelijk is toegestaan bij een regeling waarin wel opbouw tot aan de (pre)pensioendatum plaatsvindt. Als het opbouwpercentage het wettelijk toegestane opbouwpercentage per dienstjaar niet overschrijdt, mag worden aangenomen dat geen motief aanwezig is om lasten naar voren te halen.    
 
-####Voorbeeld
+####Voorbeeld 
 
 ### *Gegevens:* 
 
@@ -574,5 +574,5 @@ Den Haag
 9 september 2010   
 
 De 
-minister van Financiën,
-J.C. deJager   
+minister van Financiën, 
+J.C. de Jager     
