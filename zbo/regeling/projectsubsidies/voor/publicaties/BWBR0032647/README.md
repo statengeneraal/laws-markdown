@@ -7,7 +7,7 @@ Gelet op de [Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/best
 
 Gelet op [artikel 10, vierde lid, van de Wet op het specifiek cultuurbeleid](../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);
 
-Gelet op het Algemeen reglement Nederlands Letterenfonds;
+Gelet op het [Algemeen reglement Nederlands Letterenfonds](../../../../../../zbo/algemeen/reglement/nederlands/letterenfonds/BWBR0032735/README.md);
 Besluit:    
 
 ### Artikel  1  
@@ -16,25 +16,25 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-1. *belastbaar verzamelinkomen:* het bedrag, zoals gedefinieerd in [artikel 2.18 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en zoals definitief vastgesteld door de inspecteur van de belastingdienst in de definitieve aanslag inkomstenbelasting;  
+1.  *belastbaar verzamelinkomen:* het bedrag, zoals gedefinieerd in [artikel 2.18 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en zoals definitief vastgesteld door de inspecteur van de belastingdienst in de definitieve aanslag inkomstenbelasting;  
 
-2. *bestuur:* het bestuur van het Letterenfonds;  
+2.  *bestuur:* het bestuur van het Letterenfonds;  
 
-3. *debuut:* het eerste gepubliceerde literaire werk van een schrijver;  
+3.  *debuut:* het eerste gepubliceerde literaire werk van een schrijver;  
 
-4. *het Letterenfonds:* Stichting Nederlands Letterenfonds;  
+4.  *het Letterenfonds:* Stichting Nederlands Letterenfonds;  
 
-5. *publicatie:* een door het Letterenfonds te subsidiëren oorspronkelijk, literair werk in boekvorm in de Nederlandse of Friese taal;  
+5.  *publicatie:* een door het Letterenfonds te subsidiëren oorspronkelijk, literair werk in boekvorm in de Nederlandse of Friese taal;  
 
-6. *uitgave-overeenkomst:* een overeenkomst tussen auteur en uitgeverij betreffende de exploitatierechten op de publicatie waarin minimaal de bepalingen over het royalty-percentage en de licentie zijn overeengekomen, zoals geregeld in het Modelcontract GAU/VvL voor de uitgave van oorspronkelijk Nederlandstalig literair werk.  
+6.  *uitgave-overeenkomst:* een overeenkomst tussen auteur en uitgeverij betreffende de exploitatierechten op de publicatie waarin minimaal de bepalingen over het royalty-percentage en de licentie zijn overeengekomen, zoals geregeld in het Modelcontract GAU/VvL voor de uitgave van oorspronkelijk Nederlandstalig literair werk.  
 
-7. *uitgeverij:* een rechtspersoon die op continue basis bedrijfsactiviteiten ontplooit ten behoeve van de uitgave van literaire werken.    
+7.  *uitgeverij:* een rechtspersoon die op continue basis bedrijfsactiviteiten ontplooit ten behoeve van de uitgave van literaire werken.   
 
 ### Artikel  2  
 
 ####Toepasselijkheid
 
-Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt voor de totstandkoming van publicaties.  
+Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt voor de totstandkoming van publicaties. 
 
 ### Artikel  3  
 
@@ -46,8 +46,8 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt vo
 4.  Het werk, genoemd in het vorige lid, is uitgegeven in een oplage van ten minste 500 exemplaren met uitzondering van poëziebundels en Friestalige literaire werken waarvoor een minimum geldt van 300 exemplaren en Friestalige poëzie waarvoor een minimum van 200 exemplaren geldt.   
 5.  Het werk, genoemd in het derde lid, heeft een omvang van ten minste 20 bladzijden (poëzie), 35.000 woorden (fictie en non-fictie) en 7.000 woorden (kinder- en jeugdliteratuur).   
 6.  De toneeltekst, genoemd in het derde lid, is ten minste tien maal opgevoerd door een professioneel theatergezelschap en betrof een stuk voor meerdere personages waarvan de totale opvoeringsduur ten minste 90 speelminuten besloeg.   
-7.  Indien het werk, genoemd in het derde lid, een debuut betreft is het gepubliceerd in de periode tussen de sluitingsdatum van de subsidieronde en de 1 <sup>e</sup> januari van het twee jaar daarvoor gelegen jaar.   
-8.  Indien een eerdere aanvraag is afgewezen op grond van het criterium literaire kwaliteit, zoals genoemd in artikel 6, eerste lid, onderdeel b, kan pas een nieuwe aanvraag worden ingediend als een nieuw werk op dat criterium kan worden beoordeeld.   
+7.  Indien het werk, genoemd in het derde lid, een debuut betreft is het gepubliceerd in de periode tussen de sluitingsdatum van de subsidieronde en de 1<sup>e</sup> januari van het twee jaar daarvoor gelegen jaar.   
+8.  Indien een eerdere aanvraag is afgewezen op grond van het criterium literaire kwaliteit, zoals genoemd in artikel 6, eerste lid, onderdeel b, kan pas een nieuwe aanvraag worden ingediend als een nieuw werk op dat criterium kan worden beoordeeld.  
 
 ### Artikel  4  
 
@@ -61,7 +61,7 @@ Een subsidie kan slechts worden verstrekt indien:
 
 3. subsidieverlening er niet toe leidt dat meer dan twee aanvragen van dezelfde aanvrager tegelijkertijd worden gesubsidieerd zolang de betreffende publicaties nog niet zijn gepubliceerd;  
 
-4. het (gemiddelde) belastbaar verzamelinkomen van de aanvrager in het tijdvak waarvoor (een gedeelte van) het subsidiebedrag wordt verleend, welk tijdvak maximaal drie jaar zal beslaan, niet hoger is dan een door het bestuur vastgestelde inkomensgrens.    
+4. het (gemiddelde) belastbaar verzamelinkomen van de aanvrager in het tijdvak waarvoor (een gedeelte van) het subsidiebedrag wordt verleend, welk tijdvak maximaal drie jaar zal beslaan, niet hoger is dan een door het bestuur vastgestelde inkomensgrens.   
 
 ### Artikel  5  
 
@@ -77,7 +77,7 @@ Een subsidie kan slechts worden verstrekt indien:
 8.  Een aanvrager kan op grond van deze regeling per jaar maximaal twee aanvragen bij het Letterenfonds indienen.   
 9.  Voor zover de aanvrager voor dezelfde in de aanvraag begrote kosten tevens subsidie of andere geldelijke middelen heeft aangevraagd bij of ontvangen van een of meer andere publieke of private organisaties, doet hij daarvan mededeling in de aanvraag, onder vermelding van de stand van zaken met betrekking tot de beoordeling van die aanvraag of aanvragen.   
 10.  Aanvragen kunnen, na een afwijzend besluit op grond van de toets aan de beoordelingscriteria, als genoemd in artikel 6, niet meer opnieuw worden ingediend.   
-11.  Een aanvraag kan uitsluitend bij ofwel het Letterenfonds ofwel het Vlaams Fonds voor de Letteren worden ingediend.   
+11.  Een aanvraag kan uitsluitend bij ofwel het Letterenfonds ofwel het Vlaams Fonds voor de Letteren worden ingediend.  
 
 ### Artikel  6  
 
@@ -102,7 +102,7 @@ b) de mate waarin de publicatie bijdraagt aan de diversiteit van het literaire a
 – de mate waarin de publicatie een aanvulling vormt op het bestaande literaire aanbod;  
 
 – de mate waarin de publicatie bijdraagt aan een evenwichtige balans tussen de verschillende door het Letterenfonds te subsidiëren literaire genres en aan de verscheidenheid binnen elk genre.     
-4.  Voor toekenning van de aanvraag dient in ieder geval het oordeel over de te verwachten literaire kwaliteit van de publicatie positief te zijn.   
+4.  Voor toekenning van de aanvraag dient in ieder geval het oordeel over de te verwachten literaire kwaliteit van de publicatie positief te zijn.  
 
 ### Artikel  7  
 
@@ -110,13 +110,13 @@ b) de mate waarin de publicatie bijdraagt aan de diversiteit van het literaire a
 
 1.  De minimale en maximale hoogte van de subsidie is afhankelijk van de bandbreedte waarbinnen de aanvrager valt op grond van zijn opgebouwde oeuvre en de door hem reeds ontvangen subsidies van het Letterenfonds.   
 2.  De bandbreedtes worden bekendgemaakt op de website van het Letterenfonds.   
-3.  Binnen een bandbreedte wordt de hoogte van de subsidie bepaald op grond van de beoordelingscriteria, zoals genoemd in artikel 6, en de verwachte tijdsinvestering in de totstandkoming van de publicatie.   
+3.  Binnen een bandbreedte wordt de hoogte van de subsidie bepaald op grond van de beoordelingscriteria, zoals genoemd in artikel 6, en de verwachte tijdsinvestering in de totstandkoming van de publicatie.  
 
 ### Artikel  8  
 
 ####Adviescommissie
 
-Het bestuur laat zich over de toets aan de beoordelingscriteria en de hoogte van de subsidie adviseren door een adviescommissie samengesteld uit leden van de raad van advies als bedoeld in het Huishoudelijk reglement van het Letterenfonds. Het bestuur betrekt bij zijn besluit over de aanvraag het advies van de adviescommissie. De adviescommissie kan zich laten bijstaan door één of meer externe adviseurs.  
+Het bestuur laat zich over de toets aan de beoordelingscriteria en de hoogte van de subsidie adviseren door een adviescommissie samengesteld uit leden van de raad van advies als bedoeld in het Huishoudelijk reglement van het Letterenfonds. Het bestuur betrekt bij zijn besluit over de aanvraag het advies van de adviescommissie. De adviescommissie kan zich laten bijstaan door één of meer externe adviseurs. 
 
 ### Artikel  9  
 
@@ -130,7 +130,7 @@ b. een subsidieronde voor aanvragers die minimaal drie literaire werken hebben g
 
 c. een subsidieronde voor aanvragers die minimaal vijf subsidies op basis van deze regeling of regelingen die door deze regeling zijn vervangen, hebben ontvangen.     
 2.  Het Letterenfonds publiceert de sluitingsdata van de subsidierondes op de website www.letterenfonds.nl.   
-3.  Het bestuur stelt per subsidieronde een subsidieplafond in. Het besluit hiertoe wordt bekendgemaakt via de website van het Letterenfonds.   
+3.  Het bestuur stelt per subsidieronde een subsidieplafond in. Het besluit hiertoe wordt bekendgemaakt via de website van het Letterenfonds.  
 
 ### Artikel  10  
 
@@ -146,7 +146,7 @@ c: niet honoreren.
 2.  Als een subsidieplafond ontoereikend is om alle aanvragen in de categorieën a en b te honoreren, wijst het bestuur, in geval een aanvrager in de betreffende subsidieronde twee aanvragen heeft ingediend, eerst de aanvraag af van de in de rangorde laatst geplaatste aanvraag van deze aanvrager.   
 3.  Als een subsidieplafond dan nog ontoereikend is om alle aanvragen in de categorieën a en b te honoreren, wijst het bestuur vervolgens de aanvraag af van een aanvrager die nog werkt aan de totstandkoming van een eerdere door het Letterenfonds gesubsidieerde publicatie.   
 4.  Als een subsidieplafond dan nog ontoereikend is om alle aanvragen in de categorieën a en b te honoreren honoreert het bestuur eerst de aanvragen in categorie a en vervolgens de aanvragen in categorie b in volgorde van de rangorde als bedoeld in artikel 6, eerste lid, totdat het subsidieplafond is bereikt. De resterende aanvragen worden afgewezen.   
-5.  Bij onderbesteding van het budget in een subsidieronde kan het bestuur besluiten om in het laatste kwartaal van het jaar de afgewezen aanvragen alsnog toe te wijzen met inachtneming van de rangorde als bedoeld in artikel 6, eerste lid.   
+5.  Bij onderbesteding van het budget in een subsidieronde kan het bestuur besluiten om in het laatste kwartaal van het jaar de afgewezen aanvragen alsnog toe te wijzen met inachtneming van de rangorde als bedoeld in artikel 6, eerste lid.  
 
 ### Artikel  11  
 
@@ -159,21 +159,21 @@ c: niet honoreren.
 5.  De subsidieontvanger verplicht zich de publicatie direct na publicatie in vijfvoud toe te (laten) zenden aan het Letterenfonds.   
 6.  In de publicatie is het Letterenfonds vermeld als subsidieverstrekker op een door het Letterenfonds aangegeven wijze.   
 7.  Indien de inkomensgrens, bedoeld in artikel 4, onder d, is overschreden in het tijdvak waarvoor de subsidie is verleend, meldt de subsidieontvanger dit onverwijld aan het Letterenfonds na ontvangst van de definitieve aanslag inkomstenbelasting over de jaren in dat betreffende tijdvak.   
-8.  Indien bij de aanvraag een intentieverklaring van de uitgever was gevoegd, dient de uitgave-overeenkomst uiterlijk binnen één maand na de uitgave van de publicatie te worden overgelegd.   
+8.  Indien bij de aanvraag een intentieverklaring van de uitgever was gevoegd, dient de uitgave-overeenkomst uiterlijk binnen één maand na de uitgave van de publicatie te worden overgelegd.  
 
 ### Artikel  12  
 
 ####Subsidieverlening en -vaststelling
 
 1.  Bij het verlenen van de subsidie geeft het bestuur direct een beschikking tot subsidievaststelling.   
-2.  In de beschikking wordt de wijze van betaling van de subsidie bepaald.   
+2.  In de beschikking wordt de wijze van betaling van de subsidie bepaald.  
 
 ### Artikel  13  
 
 ####Termijnen
 
 1.  Het bestuur beslist binnen 13 weken na afloop van de periode waarin aanvragen kunnen worden ingediend.   
-2.  De termijn genoemd in het vorige lid bedraagt 22 weken, indien over de aanvraag advies wordt ingewonnen bij een adviescommissie dan wel een nader onderzoek wordt ingesteld.   
+2.  De termijn genoemd in het vorige lid bedraagt 22 weken, indien over de aanvraag advies wordt ingewonnen bij een adviescommissie dan wel een nader onderzoek wordt ingesteld.  
 
 ### Artikel  14  
 
@@ -181,7 +181,7 @@ c: niet honoreren.
 
 1.  Het bestuur kan in samenwerking met andere (subsidie verlenende) instellingen subsidies verstrekken ten behoeve van de totstandkoming van publicaties en daartoe samenwerkingsovereenkomsten met deze instellingen aangaan.   
 2.  Het bestuur kent een subsidie in het kader van een samenwerking, voor zover mogelijk en relevant, overeenkomstig deze regeling toe.   
-3.  Het bestuur publiceert op de website van het Letterenfonds de nadere voorwaarden, procedures en werkwijze van de samenwerkingsprojecten.   
+3.  Het bestuur publiceert op de website van het Letterenfonds de nadere voorwaarden, procedures en werkwijze van de samenwerkingsprojecten.  
 
 ### Artikel  15  
 
@@ -193,13 +193,13 @@ c: niet honoreren.
 4.  Het bestuur is bevoegd de subsidievaststelling te wijzigen dan wel in te trekken wanneer de inkomensgrens zoals bedoeld in artikel 4, vierde lid, is overschreden.   
 5.  Het bestuur is bevoegd de subsidievaststelling te wijzigen dan wel in te trekken op grond van het overlijden van de aanvrager.   
 6.  De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is vastgesteld, tenzij bij de intrekking of wijziging anders is bepaald.   
-7.  Het bedrag waarmee de subsidie eventueel wordt verlaagd wordt verrekend met eventueel nog te betalen gedeelten van de subsidie of teruggevorderd.   
+7.  Het bedrag waarmee de subsidie eventueel wordt verlaagd wordt verrekend met eventueel nog te betalen gedeelten van de subsidie of teruggevorderd.  
 
 ### Artikel  16  
 
 ####Hardheidsclausule
 
-Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een artikel buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.  
+Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een artikel buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard. 
 
 ### Artikel  17  
 
@@ -210,17 +210,17 @@ Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een
 3.  Subsidies die voor de inwerkingtreding van deze regeling zijn verleend op grond van de [Werkbeursregeling Schrijvers (nieuwe stijl)](../../../../../../zbo/werkbeursregeling/schrijvers/(nieuwe/stijl)/BWBR0011873/README.md) en de [Regeling Stimuleringsbeurzen Schrijvers](../../../../../../zbo/regeling/stimuleringsbeurzen/schrijvers/BWBR0027425/README.md) worden vastgesteld in de eerste helft van 2013 conform deze regeling met uitzondering van artikel 12 en artikel 15, vierde lid.   
 4.  Indien op het moment van de vaststelling zoals bedoeld in het vorige lid de subsidie nog niet geheel is bevoorschot, vindt uitbetaling van het gehele subsidiebedrag, verminderd met de reeds betaalde voorschotten, plaats in de tweede helft van 2013.   
 5.  Bij de toepassing van de inkomensgrens voor in 2013 op basis van deze regeling vastgestelde en betaalde subsidies blijft het in het vierde lid bedoelde bedrag buiten beschouwing.   
-6.  De in 2013 op grond van de [Werkbeursregeling Schrijvers (nieuwe stijl)](../../../../../../zbo/werkbeursregeling/schrijvers/(nieuwe/stijl)/BWBR0011873/README.md) vastgestelde cofinancierings- en uitbetalingsafspraken met het Vlaams Fonds voor de Letteren blijven van kracht.   
+6.  De in 2013 op grond van de [Werkbeursregeling Schrijvers (nieuwe stijl)](../../../../../../zbo/werkbeursregeling/schrijvers/(nieuwe/stijl)/BWBR0011873/README.md) vastgestelde cofinancierings- en uitbetalingsafspraken met het Vlaams Fonds voor de Letteren blijven van kracht.  
 
 ### Artikel  18  
 
 ####Slotbepalingen
 
 1.  In alle gevallen waarin deze regeling niet voorziet, beslist het bestuur.   
-2.  Naast en in aanvulling op deze regeling is het Algemeen reglement Nederlands Letterenfonds van toepassing.   
+2.  Naast en in aanvulling op deze regeling is het [Algemeen reglement Nederlands Letterenfonds](../../../../../../zbo/algemeen/reglement/nederlands/letterenfonds/BWBR0032735/README.md) van toepassing.   
 3.  Deze regeling is vastgesteld op 1 november 2012 door het op die datum vigerende bestuur van de Stichting Nederlands Letterenfonds.   
 4.  De [Werkbeursregeling Schrijvers (nieuwe stijl)](../../../../../../zbo/werkbeursregeling/schrijvers/(nieuwe/stijl)/BWBR0011873/README.md) en de [Regeling Stimuleringsbeurzen Schrijvers](../../../../../../zbo/regeling/stimuleringsbeurzen/schrijvers/BWBR0027425/README.md) zijn met ingang van 1 januari 2013 ingetrokken.   
-5.  Deze regeling wordt aangehaald als Regeling projectsubsidies voor publicaties.   
+5.  Deze regeling wordt aangehaald als Regeling projectsubsidies voor publicaties.  
 Deze regeling wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de website van het Letterenfonds (www.letterenfonds.nl).  
 
 Het bestuur van het Nederlands Letterenfonds, voor deze, 

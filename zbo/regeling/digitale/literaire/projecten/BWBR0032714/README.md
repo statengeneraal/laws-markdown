@@ -7,7 +7,7 @@ Gelet op het bepaalde in de [Algemene wet bestuursrecht](../../../../../../wet/a
 
 Gelet op [artikel 10, lid 4, van de Wet op het specifiek cultuurbeleid](../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);
 
-Gelet op artikel 5*, lid 2, van het Algemeen Reglement;
+Gelet op [artikel 5*, lid 2, van het Algemeen Reglement](../../../../../../zbo/algemeen/reglement/nederlands/letterenfonds/BWBR0032735/README.md);
 Besluit:    
 
 ### Artikel  1  
@@ -16,21 +16,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *Letterenfonds:* de Stichting Nederlands Letterenfonds.  
+a.  *Letterenfonds:* de Stichting Nederlands Letterenfonds.  
 
-b. *Bestuur:* het bestuur van het Letterenfonds.  
+b.  *Bestuur:* het bestuur van het Letterenfonds.  
 
-c. *Digitaal literair project:* een digitaal literair product of productie, (hierna te noemen: project), met een overwegend in het Nederlands of Fries gestelde literaire inhoud, waarbij de digitale omgeving van wezenlijke invloed is op de inhoud.  
+c.  *Digitaal literair project:* een digitaal literair product of productie, (hierna te noemen: project), met een overwegend in het Nederlands of Fries gestelde literaire inhoud, waarbij de digitale omgeving van wezenlijke invloed is op de inhoud.  
 
-d. *Online literair tijdschrift:* podium op internet met een professionele redactie waarop auteurs, vertalers, kunstenaars en critici hun Nederlands- of Friestalig werk publiceren.  
+d.  *Online literair tijdschrift:* podium op internet met een professionele redactie waarop auteurs, vertalers, kunstenaars en critici hun Nederlands- of Friestalig werk publiceren.  
 
-e. *Nederland:* het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius, Saba en Aruba, Curaçao en Sint Maarten.    
+e.  *Nederland:* het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius, Saba en Aruba, Curaçao en Sint Maarten.   
 
 ### Artikel  2  
 
 ####Doel
 
-Het stimuleren van de ontwikkeling van projecten en online tijdschriften met een landelijk belang alsmede het verruimen van het publieksbereik van deze tijdschriften.  
+Het stimuleren van de ontwikkeling van projecten en online tijdschriften met een landelijk belang alsmede het verruimen van het publieksbereik van deze tijdschriften. 
 
 ### Artikel  3  
 
@@ -43,7 +43,7 @@ a. een incidentele subsidie voor een project of
 b. een tweejarige subsidie voor een online literair tijdschrift of  
 
 c. een tweejarige subsidie voor een tijdschrift in het kader van een initiatief met het Prins Bernhard Cultuurfonds, met als doelstelling literaire tijdschriften online en offline te versterken en het publieksbereik ervan te verruimen.     
-2.  Indien een aanvraag als bedoeld in het vorige lid onder c is afgewezen, kan voor het online tijdschrift alsnog een subsidie als bedoeld in het vorige lid onder b worden aangevraagd.   
+2.  Indien een aanvraag als bedoeld in het vorige lid onder c is afgewezen, kan voor het online tijdschrift alsnog een subsidie als bedoeld in het vorige lid onder b worden aangevraagd.  
 
 ### Artikel  4  
 
@@ -52,7 +52,7 @@ c. een tweejarige subsidie voor een tijdschrift in het kader van een initiatief 
 1.  Een aanvraag kan worden ingediend door een in Nederland gevestigde rechtspersoon met volledige rechtsbevoegdheid en aantoonbare ervaring in het literaire veld.   
 2.  Geen aanvraag kan worden ingediend voor projecten of online tijdschriften van in hoofdzaak commerciële, vaktechnische of wetenschappelijke aard.   
 3.  Geen aanvraag kan worden ingediend voor projecten of online tijdschriften die niet financieel worden ondersteund door ten minste één andere partij.   
-4.  Geen aanvraag kan worden ingediend voor een project als bedoeld in artikel 3, eerste lid onder a, als de aanvrager een subsidie voor een tijdschrift als bedoeld in artikel 3, eerste lid onder b of c, is toegekend of geweigerd.   
+4.  Geen aanvraag kan worden ingediend voor een project als bedoeld in artikel 3, eerste lid onder a, als de aanvrager een subsidie voor een tijdschrift als bedoeld in artikel 3, eerste lid onder b of c, is toegekend of geweigerd.  
 
 ### Artikel  5  
 
@@ -64,7 +64,7 @@ c. een tweejarige subsidie voor een tijdschrift in het kader van een initiatief 
 4.  Voor de subsidie, genoemd in artikel 3, eerste lid onder c, zijn in 2013 inclusief de bijdragen van het Prins Bernhard Cultuurfonds drie subsidies beschikbaar van maximaal € 25.000, € 30.000 en € 45.000. In 2014 ontvangt elk van de drie tijdschriften een bedrag van € 16.667. Het in totaal beschikbare budget, het subsidieplafond, is € 150.000.   
 5.  Het bestuur kan een eerder vastgesteld subsidieplafond verhogen of verlagen.   
 6.  Een besluit tot het vaststellen, verhogen of verlagen van een subsidieplafond wordt bekendgemaakt via de website van het Letterenfonds.   
-7.  De toe te kennen subsidie is maximaal 70% van de begrote kosten.   
+7.  De toe te kennen subsidie is maximaal 70% van de begrote kosten.  
 
 ### Artikel  6  
 
@@ -72,7 +72,7 @@ c. een tweejarige subsidie voor een tijdschrift in het kader van een initiatief 
 
 1.  Het Letterenfonds maakt de informatie over de regeling via zijn website bekend.   
 2.  Aanvragen moeten worden ingediend volgens de daartoe vastgestelde aanvraagformulieren.   
-3.  Er zijn drie aanvraagformulieren, één voor een aanvraag in het kader van artikel 3, eerste lid onder a, één voor 3, eerste lid onder b en één voor 3, eerste lid onder c.   
+3.  Er zijn drie aanvraagformulieren, één voor een aanvraag in het kader van artikel 3, eerste lid onder a, één voor 3, eerste lid onder b en één voor 3, eerste lid onder c.  
 
 ### Artikel  7  
 
@@ -98,7 +98,7 @@ h. de technologie en hoe die wordt ingezet voor de inhoud;
 
 i. (audiovisueel) documentatiemateriaal;  
 
-j. een kopie van de oprichtingsakte en de statuten van de aanvrager.    
+j. een kopie van de oprichtingsakte en de statuten van de aanvrager.   
 
 ### Artikel  8  
 
@@ -106,7 +106,7 @@ j. een kopie van de oprichtingsakte en de statuten van de aanvrager.
 
 1.  Aanvragen als bedoeld in artikel 3, eerste lid onder a zullen in 2013 en 2014 telkens in twee rondes beoordeeld worden.   
 2.  Aanvragen als bedoeld in artikel 3, eerste lid onder b en c kennen ieder één beoordelingsronde voor de periode 2013–2014.   
-3.  De bijbehorende indiendata worden bekendgemaakt via de website van het Letterenfonds.   
+3.  De bijbehorende indiendata worden bekendgemaakt via de website van het Letterenfonds.  
 
 ### Artikel  9  
 
@@ -114,7 +114,7 @@ j. een kopie van de oprichtingsakte en de statuten van de aanvrager.
 
 1.  Een aanvraag wordt niet in behandeling genomen als het aanvraagformulier onjuist of onvolledig is ingevuld of als de informatie, bedoeld in artikel 7, ontbreekt, nadat de aanvrager gedurende een periode van twee weken in staat is gesteld de benodigde gegevens alsnog te verstrekken.   
 2.  Een aanvraag die niet voldoet aan het gestelde onder artikel 3, 4, 5, 6 of 7 wordt afgewezen.   
-3.  Het Letterenfonds wijst aanvragen af als het budget van de regeling is uitgeput.   
+3.  Het Letterenfonds wijst aanvragen af als het budget van de regeling is uitgeput.  
 
 ### Artikel  10  
 
@@ -123,7 +123,7 @@ j. een kopie van de oprichtingsakte en de statuten van de aanvrager.
 1.  Het Letterenfonds legt de aanvraag die aan de formele eisen voldoet ter advisering voor aan een adviescommissie die is samengesteld uit leden van de Raad van advies en zo nodig wordt aangevuld met een of meer andere deskundigen.   
 2.  De adviescommissie kan bij de advisering gebruik maken van de adviezen van een externe adviseur.   
 3.  De adviescommissie kan de aanvragers uitnodigen de aanvraag mondeling toe te lichten.   
-4.  De adviescommissie brengt advies uit aan het bestuur per ronde op basis van de inhoudelijke beoordeling.   
+4.  De adviescommissie brengt advies uit aan het bestuur per ronde op basis van de inhoudelijke beoordeling.  
 
 ### Artikel  11  
 
@@ -133,7 +133,7 @@ j. een kopie van de oprichtingsakte en de statuten van de aanvrager.
 2.  Een project dient ten minste op één van deze functies gericht te zijn: Creatie: het creëren van nieuwe vormen van literatuur in een digitale omgeving; Gids: het op internet duiden en interpreteren van en/of reflecteren op literaire inhoud, mogelijk in combinatie met berichtgeving over literatuur of literaire ontwikkelingen; Erfgoed: het archiveren, op toegankelijke wijze ontsluiten en contextualiseren van literaire digitale inhoud.   
 3.  Er kan pas weer een aanvraag worden ingediend voor een nieuw project, nadat een eerder digitaal project dat met subsidie van deze regeling is gerealiseerd, is afgerond.   
 4.  Het project is bij de indiening van de aanvraag nog niet gestart.   
-5.  Een project moet binnen twee jaar na subsidieverlening zijn afgerond.   
+5.  Een project moet binnen twee jaar na subsidieverlening zijn afgerond.  
 
 ### Artikel  12  
 
@@ -166,7 +166,7 @@ c. verhouding tussen de aantoonbare ervaring van de makers en het ambitieniveau 
 3.  De beoordelingsfactoren voor projecten worden in onderlinge samenhang gewogen, waarbij de criteria onder eerste lid onder a, b, c en d voorop staan en projecten die grotendeels gericht zijn op Creatie als omschreven in artikel 11 sub 2 voorrang krijgen.   
 4.  Aanvragen voor online tijdschriften conform artikel 3, eerste lid onder b en sub c worden tevens beoordeeld op de toekomstvisie voor het tijdschrift.   
 5.  De beoordelingsfactoren voor online tijdschriften worden in onderlinge samenhang gewogen.   
-6.  Voor aanvragen als bedoeld in artikel 3, eerste lid onder c wordt tevens de verbinding tussen het online tijdschrift, het publieksbereik en de fysieke verschijningsvormen beoordeeld. Bij de subsidietoekenning wordt gekozen voor drie onderling verschillend georiënteerde online tijdschriften.   
+6.  Voor aanvragen als bedoeld in artikel 3, eerste lid onder c wordt tevens de verbinding tussen het online tijdschrift, het publieksbereik en de fysieke verschijningsvormen beoordeeld. Bij de subsidietoekenning wordt gekozen voor drie onderling verschillend georiënteerde online tijdschriften.  
 
 ### Artikel  13  
 
@@ -176,13 +176,13 @@ c. verhouding tussen de aantoonbare ervaring van de makers en het ambitieniveau 
 2.  De termijn, genoemd in het eerste lid, bedraagt maximaal 22 weken indien over de aanvraag advies wordt ingewonnen bij een adviescommissie dan wel een nader onderzoek wordt ingesteld.   
 3.  De beschikking tot subsidieverlening vermeldt de datum waarop de activiteiten dienen te zijn verricht, de datum waarop de subsidie wordt vastgesteld en de wijze waarop dient te worden aangetoond dat de gesubsidieerde activiteiten zijn verricht.   
 4.  Binnen 4 weken na de beschikking tot subsidieverlening wordt 100% van het voorschot uitbetaald.   
-5.  In het geval de subsidie gelijktijdig met de verlening wordt vastgesteld, wordt de subsidie binnen 4 weken uitbetaald.   
+5.  In het geval de subsidie gelijktijdig met de verlening wordt vastgesteld, wordt de subsidie binnen 4 weken uitbetaald.  
 
 ### Artikel  14  
 
 ####Termijn subsidievaststelling
 
-De subsidie wordt, indien hij niet direct bij subsidieverlening wordt vastgesteld, binnen 22 weken na de datum waarop de activiteiten waarvoor de subsidie moeten zijn verricht, vastgesteld.  
+De subsidie wordt, indien hij niet direct bij subsidieverlening wordt vastgesteld, binnen 22 weken na de datum waarop de activiteiten waarvoor de subsidie moeten zijn verricht, vastgesteld. 
 
 ### Artikel  15  
 
@@ -199,14 +199,14 @@ De subsidie wordt, indien hij niet direct bij subsidieverlening wordt vastgestel
 a. de activiteiten waarvoor de subsidie is verleend niet, niet tijdig of niet geheel zijn verricht of zullen worden verricht, of  
 
 b. niet, niet tijdig of niet geheel aan de subsidieverplichtingen wordt voldaan of zal worden voldaan.     
-8.  De ontvanger zorgt voor een goed beleid en beheer van de financiële middelen en een efficiënt gebruik van de subsidie.   
+8.  De ontvanger zorgt voor een goed beleid en beheer van de financiële middelen en een efficiënt gebruik van de subsidie.  
 
 ### Artikel  16  
 
 ####Verantwoording subsidie
 
 1.  Indien subsidie is verleend, maar nog niet direct is vastgesteld, dient de subsidieontvanger aan te tonen dat de activiteiten waarvoor subsidie is verleend, zijn verricht en aan de subsidieverplichtingen is voldaan.   
-2.  Het Letterenfonds behoudt zich het recht voor nadere voorwaarden te stellen aan de verantwoording.   
+2.  Het Letterenfonds behoudt zich het recht voor nadere voorwaarden te stellen aan de verantwoording.  
 
 ### Artikel  17  
 
@@ -219,31 +219,31 @@ a. op grond van feiten of omstandigheden waarvan het bij de subsidievaststelling
 b. indien de subsidievaststelling onjuist was en de ontvanger dit wist of behoorde te weten, of  
 
 c. indien de ontvanger na de subsidievaststelling niet heeft voldaan aan de aan subsidie verbonden verplichtingen.     
-2.  Het Letterenfonds kan op grond van [artikel 4: 49 Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de subsidievaststelling wijzigen tot vijf jaar na de subsidievaststelling of in het geval, bedoeld in eerste lid onder c, tot vijf jaar na de dag waarop aan de verplichting had moeten zijn voldaan.   
+2.  Het Letterenfonds kan op grond van [artikel 4: 49 Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de subsidievaststelling wijzigen tot vijf jaar na de subsidievaststelling of in het geval, bedoeld in eerste lid onder c, tot vijf jaar na de dag waarop aan de verplichting had moeten zijn voldaan.  
 
 ### Artikel  18  
 
 ####Desgevraagd verantwoorden
 
-De aanvrager toont op verzoek van het Letterenfonds aan dat de activiteiten waarvoor de subsidie is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan de subsidie zijn verbonden.  
+De aanvrager toont op verzoek van het Letterenfonds aan dat de activiteiten waarvoor de subsidie is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan de subsidie zijn verbonden. 
 
 ### Artikel  19  
 
 ####Hardheidsclausule
 
-Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een artikel buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.  
+Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een artikel buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard. 
 
 ### Artikel  20  
 
 ####Inwerkingtreding en vervaldatum
 
-Deze regeling treedt met ingang van 1 januari 2013 in werking en vervalt met ingang van 1 januari 2015.  
+Deze regeling treedt met ingang van 1 januari 2013 in werking en vervalt met ingang van 1 januari 2015. 
 
 ### Artikel  21  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling digitale literaire projecten.  
+Deze regeling wordt aangehaald als: Regeling digitale literaire projecten. 
 Deze regeling wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de website van het Letterenfonds (www.letterenfonds.nl).  
 
 Het bestuur van het Nederlands Letterenfonds, voor deze: 

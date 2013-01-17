@@ -4,7 +4,7 @@
 
 Gelet op de [Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md),
 
-Gelet op artikel 4, zesde lid, Algemeen reglement.
+Gelet op [artikel 4, zesde lid, Algemeen reglement](../../../../../../../../../zbo/algemeen/reglement/nederlands/letterenfonds/BWBR0032735/README.md).
 Het bestuur besluit:     
 
 1. Regeling projectsubsidies voor publicaties Voor subsidies als bedoeld in [artikel 2](../../../../../../../../../zbo/regeling/projectsubsidies/voor/publicaties/BWBR0032647/README.md) jo [artikel 9, eerste lid, van de Regeling projectsubsidies voor publicaties](../../../../../../../../../zbo/regeling/projectsubsidies/voor/publicaties/BWBR0032647/README.md) gelden in 2013 de volgende subsidieplafonds: 
@@ -21,8 +21,8 @@ c. voor aanvragers die minimaal vijf subsidies hebben ontvangen op basis van dez
 
 4. [Herziene regeling projectwerkbeurzen voor literaire vertalers](../../../../../../../../../zbo/herziene/regeling/projectwerkbeurzen/voor/literaire/vertalers/BWBR0027430/README.md): €1.700.000,=  
 
-5.  [Regeling meerjarige subsidies Nederlands Letterenfonds 2013 - 2016](../../../../../../../../../zbo/regeling/meerjarige/subsidies/nederlands/letterenfonds/2013–2016/BWBR0030661/README.md)    Voor manifestatiesubsidies als bedoeld in [artikel 2.2 van de Regeling meerjarige subsidies Nederlands Letterenfonds 2013 - 2016](../../../../../../../../../zbo/regeling/meerjarige/subsidies/nederlands/letterenfonds/2013–2016/BWBR0030661/README.md) geldt in 2013 het volgende subsidieplafond: € 1.010.000,=    
+5. [Regeling meerjarige subsidies Nederlands Letterenfonds 2013 - 2016](../../../../../../../../../zbo/regeling/meerjarige/subsidies/nederlands/letterenfonds/2013–2016/BWBR0030661/README.md)   Voor manifestatiesubsidies als bedoeld in [artikel 2.2 van de Regeling meerjarige subsidies Nederlands Letterenfonds 2013 - 2016](../../../../../../../../../zbo/regeling/meerjarige/subsidies/nederlands/letterenfonds/2013–2016/BWBR0030661/README.md) geldt in 2013 het volgende subsidieplafond: € 1.010.000,=    
 
 Namens het bestuur: 
 w.g. Pieter Steinz,  
-directeur.    
+directeur.   
