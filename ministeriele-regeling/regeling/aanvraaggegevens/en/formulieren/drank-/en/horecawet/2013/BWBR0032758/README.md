@@ -8,35 +8,35 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder de wet: de [Drank- en Horecawet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md).  
+In deze regeling wordt verstaan onder de wet: de [Drank- en Horecawet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md). 
 
 ### Artikel  2  
 
 1.  Een aanvraag tot het verlenen van een vergunning als bedoeld in artikel 3, of een ontheffing als bedoeld in [artikel 35 van de wet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), geschiedt door het indienen van een volledig ingevuld formulier of elektronische informatiedrager dat in ieder geval de in dit artikel genoemde elementen bevat, zoals opgenomen in het corresponderende deel van de bijlage bij deze regeling.   
 2.  De aanvraag van een vergunning tot het uitoefenen van het horecabedrijf of het slijtersbedrijf door natuurlijke personen of rechtspersonen, met uitzondering van een paracommerciële rechtspersoon als genoemd in [artikel 1 van de wet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), dient de in Model A van de bijlage genoemde elementen te bevatten, een en ander vergezeld van de benodigde verklaringen.   
 3.  De aanvraag van een vergunning tot het uitoefenen van het horecabedrijf door een paracommerciële rechtspersoon als genoemd in [artikel 1 van de wet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md) dient de in Model B van de bijlage genoemde elementen te bevatten.   
-4.  De aanvraag van een ontheffing als bedoeld in [artikel 35 van de wet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md) dient de in Model C van de bijlage genoemde elementen te bevatten.   
+4.  De aanvraag van een ontheffing als bedoeld in [artikel 35 van de wet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md) dient de in Model C van de bijlage genoemde elementen te bevatten.  
 
 ### Artikel  3  
 
-Een besluit tot het verlenen van een vergunning als bedoeld in [artikel 3 van de wet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), wordt gesteld op een formulier dat overeen komt met het daartoe als model D in de bijlage bij deze regeling opgenomen model.  
+Een besluit tot het verlenen van een vergunning als bedoeld in [artikel 3 van de wet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), wordt gesteld op een formulier dat overeen komt met het daartoe als model D in de bijlage bij deze regeling opgenomen model. 
 
 ### Artikel  4  
 
-De [Regeling aanvraaggegevens en formulieren Drank- en Horecawet](../../../../../../../../../../ministeriele-regeling/regeling/aanvraaggegevens/en/formulieren/drank-/en/horecawet/BWBR0007743/README.md) wordt ingetrokken.  
+De [Regeling aanvraaggegevens en formulieren Drank- en Horecawet](../../../../../../../../../../ministeriele-regeling/regeling/aanvraaggegevens/en/formulieren/drank-/en/horecawet/BWBR0007743/README.md) wordt ingetrokken. 
 
 ### Artikel  5  
 
-Deze regeling treedt in werking met ingang van 1 januari 2013.  
+Deze regeling treedt in werking met ingang van 1 januari 2013. 
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Regeling aanvraaggegevens en formulieren Drank- en Horecawet 2013.  
+Deze regeling wordt aangehaald als: Regeling aanvraaggegevens en formulieren Drank- en Horecawet 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Volksgezondheid, Welzijn en Sport,
-M.J. vanRijn  
+Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
+M.J. van Rijn    
 
 ### Bijlage  
 
@@ -140,7 +140,7 @@ a. Straatnaam en huisnummer:
 
 b. Postcode en plaatsnaam:    
 
-7. Omschrijving van de tot de inrichting behorende lokaliteiten, terrassen of slijtlokaliteiten waarvoor de vergunning moet gelden Plaats in de inrichting, eventuele benaming en oppervlakte in m <sup>2</sup> a. b. c. d. 
+7. Omschrijving van de tot de inrichting behorende lokaliteiten, terrassen of slijtlokaliteiten waarvoor de vergunning moet gelden Plaats in de inrichting, eventuele benaming en oppervlakte in m<sup>2</sup>  a. b. c. d. 
 
 □ De inrichting voldoet aan de eisen als genoemd in het [Besluit eisen inrichtingen Drank- en Horecawet](../../../../../../../../../../AMvB/besluit/eisen/inrichtingen/drank-/en/horecawet/BWBR0011700/README.md). Wordt een beroep gedaan op [artikel 46 van de Drank- en Horecawet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md)?  
 
@@ -162,7 +162,7 @@ b. Postcode en plaatsnaam:
 
 □ Ja  
 
-□ Nee     Aldus naar waarheid ingevuld op *datum*, te *woonplaats*, *land*. Op grond van [artikel 29, tweede lid, van de Drank- en Horecawet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), hoort bij deze vergunning een aanhangsel waarop de leidinggevenden van het horecabedrijf of slijtersbedrijf staan vermeld. Ten aanzien van een leidinggevende bij wie sprake is van een situatie als bedoeld in [artikel 8, vierde lid, van de Drank- en Horecawet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), maakt de burgemeester daaromtrent een aantekening. Dit aanhangsel wordt gewijzigd bij toevoeging of wijziging van leidinggevenden. Voor het aanmelden van een leidinggevende wordt verwezen naar de bijlage behorende bij Model A.  
+□ Nee     Aldus naar waarheid ingevuld op *datum*, te *woonplaats*, *land*. Op grond van [artikel 29, tweede lid, van de Drank- en Horecawet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), hoort bij deze vergunning een aanhangsel waarop de leidinggevenden van het horecabedrijf of slijtersbedrijf staan vermeld. Ten aanzien van een leidinggevende bij wie sprake is van een situatie als bedoeld in [artikel 8, vierde lid, van de Drank- en Horecawet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), maakt de burgemeester daaromtrent een aantekening. Dit aanhangsel wordt gewijzigd bij toevoeging of wijziging van leidinggevenden. Voor het aanmelden van een leidinggevende wordt verwezen naar de bijlage behorende bij Model A. 
 
 ####Bijlage behorende bij Model A
 
@@ -200,7 +200,7 @@ f. Geboorteplaats:
 
 □ Ja  
 
-□ Nee Is .. .. uren per week werkzaam in de inrichting.       Aldus naar waarheid ingevuld op *datum*, te *woonplaats*, *land*.  
+□ Nee Is .. .. uren per week werkzaam in de inrichting.       Aldus naar waarheid ingevuld op *datum*, te *woonplaats*, *land*. 
 
 ### Model  B  
 
@@ -250,7 +250,7 @@ a. Straatnaam en huisnummer:
 
 b. Postcode en plaatsnaam:    
 
-5. Omschrijving van de tot de inrichting behorende lokaliteiten en terrassen waarvoor de vergunning moet gelden Plaats in de inrichting, eventuele benaming en oppervlakte in m <sup>2</sup> a. b. c. d. 
+5. Omschrijving van de tot de inrichting behorende lokaliteiten en terrassen waarvoor de vergunning moet gelden Plaats in de inrichting, eventuele benaming en oppervlakte in m<sup>2</sup>  a. b. c. d. 
 
 □ De inrichting voldoet aan de eisen als genoemd in het [Besluit eisen inrichtingen Drank- en Horecawet](../../../../../../../../../../AMvB/besluit/eisen/inrichtingen/drank-/en/horecawet/BWBR0011700/README.md). Wordt een beroep gedaan op [artikel 46 van de Drank- en Horecawet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md)?  
 
@@ -282,7 +282,7 @@ b. Postcode en plaatsnaam:
 
 □ Zaterdag van .. .. uur tot .. .. uur.  
 
-□ Zondag van .. .. uur tot .. .. uur.   Gedurende de volgende dagen en tijdstippen wordt in de inrichting bedrijfsmatig of anders dan om niet alcoholhoudende drank verstrekt binnen de in de gemeentelijke verordening genoemde tijden.   Aldus naar waarheid ingevuld op *datum*, te *woonplaats*, *land*. Op grond van [artikel 29, tweede lid, van de Drank- en Horecawet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), hoort bij deze vergunning een aanhangsel waarop de leidinggevenden van het horecabedrijf staan vermeld. Dit aanhangsel wordt gewijzigd bij toevoeging of wijziging van leidinggevenden. Voor het aanmelden van een leidinggevende wordt verwezen naar de bijlage behorende bij Model B.  
+□ Zondag van .. .. uur tot .. .. uur.   Gedurende de volgende dagen en tijdstippen wordt in de inrichting bedrijfsmatig of anders dan om niet alcoholhoudende drank verstrekt binnen de in de gemeentelijke verordening genoemde tijden.   Aldus naar waarheid ingevuld op *datum*, te *woonplaats*, *land*. Op grond van [artikel 29, tweede lid, van de Drank- en Horecawet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), hoort bij deze vergunning een aanhangsel waarop de leidinggevenden van het horecabedrijf staan vermeld. Dit aanhangsel wordt gewijzigd bij toevoeging of wijziging van leidinggevenden. Voor het aanmelden van een leidinggevende wordt verwezen naar de bijlage behorende bij Model B. 
 
 ####Bijlage behorende bij Model B
 
@@ -312,7 +312,7 @@ e. Geboortedatum:
 
 f. Geboorteplaats: 
 
-□ beschikt over een verklaring sociale hygiëne Verklaart leiding te geven aan de uitoefening van het paracommerciële horecabedrijf met ingang van:       Aldus naar waarheid ingevuld op *datum*, te *woonplaats*, *land*.  
+□ beschikt over een verklaring sociale hygiëne Verklaart leiding te geven aan de uitoefening van het paracommerciële horecabedrijf met ingang van:       Aldus naar waarheid ingevuld op *datum*, te *woonplaats*, *land*. 
 
 ### Model  C  
 
@@ -336,7 +336,7 @@ f. Geboorteplaats:
 
 □ Het betreft een bijzondere gelegenheid van zeer tijdelijke aard voor een aaneengesloten periode van ten hoogste twaalf dagen.    
 
-3. Voor welke dagen en welke tijdstippen wordt de ontheffing gevraagd? .. .. dag, *datum,* van .. .. uur tot .. .. uur. .. .. dag, *datum,* van .. .. uur tot .. .. uur. .. .. dag, *datum,* van .. .. uur tot .. .. uur. .. .. dag, *datum,* van .. .. uur tot .. .. uur. .. .. dag, *datum,* van .. .. uur tot .. .. uur. .. .. dag, *datum,* van .. .. uur tot .. .. uur. .. .. dag, *datum,* van .. .. uur tot .. .. uur. .. .. dag, *datum,* van .. .. uur tot .. .. uur. .. .. dag, *datum,* van .. .. uur tot .. .. uur. .. .. dag, *datum,* van .. .. uur tot .. .. uur. .. .. dag, *datum,* van .. .. uur tot .. .. uur. .. .. dag, *datum,* van .. .. uur tot .. .. uur.   
+3. Voor welke dagen en welke tijdstippen wordt de ontheffing gevraagd? .. .. dag, *datum, *van .. .. uur tot .. .. uur. .. .. dag, *datum, *van .. .. uur tot .. .. uur. .. .. dag, *datum, *van .. .. uur tot .. .. uur. .. .. dag, *datum, *van .. .. uur tot .. .. uur. .. .. dag, *datum, *van .. .. uur tot .. .. uur. .. .. dag, *datum, *van .. .. uur tot .. .. uur. .. .. dag, *datum, *van .. .. uur tot .. .. uur. .. .. dag, *datum, *van .. .. uur tot .. .. uur. .. .. dag, *datum, *van .. .. uur tot .. .. uur. .. .. dag, *datum, *van .. .. uur tot .. .. uur. .. .. dag, *datum, *van .. .. uur tot .. .. uur. .. .. dag, *datum, *van .. .. uur tot .. .. uur.   
 
 4. Persoonlijke gegevens van degene(n) onder wiens onmiddellijke leiding de verstrekking van zwak-alcoholhoudende drank zal plaatsvinden: Verantwoordelijke 1 
 
@@ -376,7 +376,7 @@ f. Geboorteplaats:
 
 □ Het betreft een jaarlijks terugkerende identieke bijzondere gelegenheid van zeer tijdelijke aard  
 
-□ De verstrekking van zwak-alcoholhoudende drank geschiedt telkenmale onder onmiddellijke leiding van dezelfde persoon of personen als hierboven genoemd.     Aldus naar waarheid ingevuld op *datum*, te *woonplaats*, *land*.  
+□ De verstrekking van zwak-alcoholhoudende drank geschiedt telkenmale onder onmiddellijke leiding van dezelfde persoon of personen als hierboven genoemd.     Aldus naar waarheid ingevuld op *datum*, te *woonplaats*, *land*. 
 
 ### Model  D  
 
@@ -396,7 +396,7 @@ f. Geboorteplaats:
 | Kenmerk:  |
 | --- |
 | --- |
-| De burgemeester van bovengenoemde gemeente, gelet op [artikel 3 van de Drank- en Horecawet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md)  |
+| De burgemeester van bovengenoemde gemeente, gelet op [artikel 3 van de Drank- en Horecawet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md)   |
 | --- |
 | BESLUIT  |
 | --- |
