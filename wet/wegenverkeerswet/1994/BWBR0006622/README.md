@@ -216,6 +216,8 @@ h. het verwerken van gegevens met betrekking tot opgegeven kentekens, afgegeven 
 
 i. het overeenkomstig de bij of krachtens deze wet vastgestelde bepalingen verstrekken van gegevens uit de in onderdeel h bedoelde registers alsmede het houden van toezicht als bedoeld in artikel 45a, eerste lid,  
 
+i1. het overeenkomstig het bij of krachtens deze wet bepaalde doen van informatieverzoeken aan de daartoe bevoegde autoriteiten van een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of Zwitserland, ten behoeve van de beoordeling door de Dienst Wegverkeer of een andere rijbewijsafgevende autoriteit in Nederland van aanvragen tot afgifte van een rijbewijs;  
+
 j. het verlenen van erkenningen als bedoeld in de artikelen 62, 70a, 83 en 101, en het verlenen van de bevoegdheid voertuigen aan een keuring te onderwerpen als bedoeld in artikel 85a alsmede het schorsen, wijzigen en intrekken van erkenningen en van de bevoegdheid voertuigen aan een keuring te onderwerpen,  
 
 j1: de bevoegdheid tot het aanwijzen van een technische dienst voor het uitvoeren van bepaalde tests ten behoeve van het verlenen van typegoedkeuringen of individuele goedkeuringen of voor het uitvoeren van bepaalde toezichtstaken,  
@@ -226,7 +228,7 @@ l. het verlenen van ontheffingen als bedoeld in artikel 149a,
 
 m. het opsporen van bij of krachtens deze wet strafbaar gestelde feiten, voor zover de ambtenaren van de Dienst Wegverkeer daarmee ingevolge artikel 159 zijn belast, en  
 
-n. het met inachtneming van het bepaalde in artikel 4q vaststellen van de tarieven, bedoeld in de artikelen 22, eerste lid, 22a, eerste lid, 22b, tweede lid, 23, tweede lid, 23a, tweede lid, 25a, eerste lid, 25b, tweede lid26, eerste lid, 26a, tweede lid, 29, tweede lid, 30, 31, 37, vierde lid, 43, zesde en zevende lid, 45a, derde lid, 48, eerste lid, 55, eerste lid, 63, eerste lid, 64, tweede lid, 67, eerste lid, 70, tweede lid, 70d, eerste lid, 70e, tweede lid, 70k, vierde en vijfde lid, 70l, vierde lid, 75, eerste lid, 80, eerste lid, 84, eerste lid, 86, vijfde lid, 90, vierde lid, 91, vierde lid, 99, eerste lid, 101, eerste lid, 102, tweede lid, 106, eerste lid, 106a, derde lid, jo. 101, eerste lid, respectievelijk jo. 102, eerste lid, 111, vijfde lid, 128, eerste lid, 132e, eerste en tweede lid, 132g, eerste lid, 132h, derde lid, 132l, eerste lid, en tweede lid, onderdeel f, 132m, vierde lid, 144, eerste lid, en 149a, vierde lid, het vaststellen van het tarief voor de in onderdeel g1 bedoelde verklaring, alsmede het vaststellen van de wijze van betaling van deze tarieven,  
+n. het met inachtneming van het bepaalde in artikel 4q vaststellen van de tarieven, bedoeld in de artikelen 22, eerste lid, 22a, eerste lid, 22b, tweede lid, 23, tweede lid, 23a, tweede lid, 25a, eerste lid, 25b, tweede lid26, eerste lid, 26a, tweede lid, 29, tweede lid, 30, 31, 37, vierde lid, 43, zesde en zevende lid, 45a, derde lid, 48, eerste lid, 55, eerste lid, 63, eerste lid, 64, tweede lid, 67, eerste lid, 70, tweede lid, 70d, eerste lid, 70e, tweede lid, 70k, vierde en vijfde lid, 70l, vierde lid, 75, eerste lid, 80, eerste lid, 84, eerste lid, 86, vijfde lid, 90, vierde lid, 91, vierde lid, 99, eerste lid, 101, eerste lid, 102, tweede lid, 106, eerste lid, 106a, derde lid, jo. 101, eerste lid, respectievelijk jo. 102, eerste lid, 111, vijfde lid, 127, derde en vierde lid, 128, eerste lid, 132e, eerste en tweede lid, 132g, eerste lid, 132h, derde lid, 132l, eerste lid, en tweede lid, onderdeel f, 132m, vierde lid, 144, eerste lid, en 149a, vierde lid, het vaststellen van het tarief voor de in onderdeel g1 bedoelde verklaring, alsmede het vaststellen van de wijze van betaling van deze tarieven,  
 
 o. het sluiten van overeenkomsten met betrekking tot de productie van rijbewijzen, de aflevering ervan en het beheer van de daartoe benodigde voorzieningen;  
 
@@ -468,6 +470,10 @@ Indien de Dienst Wegverkeer een bij of krachtens een andere wet dan deze wet opg
 
 1.  Er is een Centraal Bureau Rijvaardigheidsbewijzen, in het maatschappelijk verkeer aangeduid als CBR. Het bureau bezit rechtspersoonlijkheid en is gevestigd te Rijswijk.   
 2.  Op het Centraal Bureau Rijvaardigheidsbewijzen is de [Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing, met uitzondering van [artikel 15 van die wet](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).   
+
+### Artikel  4z1  
+
+Bij de toepassing van de taken op het gebied van de beoordeling van de rijvaardigheid, neemt het CBR de bij ministeriële regeling aangewezen richtlijn, of de aangewezen onderdelen daarvan, in acht.  
 
 ### Paragraaf  2  
 
@@ -2057,22 +2063,31 @@ f. motorrijtuigen, anders dan bromfietsen, indien die bestuurders buiten Nederla
 
 g. motorrijtuigen, anders dan bromfietsen, indien die bestuurders in Nederland woonachtig zijn en aan hen door het daartoe bevoegde gezag buiten Nederland, anders dan in een andere Lid-Staat van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, een rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig als waarmee wordt gereden, zo lang sedert de dag waarop zij zich in Nederland hebben gevestigd, nog geen 185 dagen zijn verstreken;  
 
-h. motorrijtuigen, indien die bestuurders in Nederland woonachtig zijn en aan hen door het daartoe bevoegde gezag in een andere Lid-Staat van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, een rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig als waarmee wordt gereden, gedurende de periode die is gelegen tussen de datum van vestiging van die bestuurders in Nederland en de datum waarop sedert de datum van afgifte van dat rijbewijs tien jaren zijn verstreken dan wel, indien die periode korter is dan een jaar, gedurende een jaar vanaf het moment van vestiging van die bestuurders in Nederland;  
+h. motorrijtuigen, indien die bestuurders in Nederland woonachtig zijn en aan hen door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of Zwitserland een rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig van de categorie waarmee wordt gereden: 
+
+1°. indien het een rijbewijs betreft dat is afgegeven overeenkomstig richtlijn nr. 2006/126/EG van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 betreffende het rijbewijs (PbEU L 403), gedurende de periode die is gelegen tussen de datum van vestiging van die bestuurders in Nederland en de datum waarop sedert de datum van afgifte van dat rijbewijs maximaal vijftien jaren zijn verstreken, dan wel;  
+
+2°. indien het een rijbewijs betreft dat niet overeenkomstig vorengenoemde richtlijn is afgegeven, gedurende de periode die is gelegen tussen de datum van vestiging van die bestuurders in Nederland en de datum waarop sedert de datum van afgifte van dat rijbewijs tien jaren zijn verstreken dan wel, indien die periode korter is dan twee jaar, gedurende twee jaar vanaf het moment van vestiging van die bestuurders in Nederland.    
 
 i. bromfietsen, indien: 
 
-1°. die bestuurders buiten Nederland woonachtig zijn en zij zich bevinden in het internationaal verkeer;  
+1°. die bestuurders buiten Nederland, anders dan in een andere lidstaat van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, woonachtig zijn en zij zich bevinden in het internationale verkeer;  
 
-2°. die bestuurders die afkomstig zijn uit een Staat anders dan een andere Lid-Staat van de Europese Gemeenschappen, een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland en die in Nederland woonachtig zijn, zo lang sedert de dag waarop zij zich in Nederland hebben gevestigd, nog geen 185 dagen zijn verstreken;  
+2°. die bestuurders afkomstig zijn uit een staat anders dan een andere lidstaat van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland en zij in Nederland woonachtig zijn, zolang sedert de dag waarop zij zich in Nederland hebben gevestigd, nog geen 185 dagen verstreken zijn;  
 
-3°. die bestuurders die afkomstig zijn uit een andere Lid-Staat van de Europese Gemeenschappen, een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland en in Nederland woonachtig zijn, en die niet beschikken over een rijbewijs dat de bevoegdheid geeft tot het besturen van motorrijtuigen van een andere categorie dan bromfietsen, zolang sedert de dag waarop zij zich in Nederland hebben gevestigd, nog geen 185 dagen zijn verstreken.       
+3°. die bestuurders in een andere lidstaat van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, woonachtig zijn en zij zich in het internationale verkeer bevinden, en zij beschikken over een door het daartoe bevoegd gezag in een van deze staten afgegeven: 
+
+a. rijbewijs dat geldig is voor de categorie AM, of  
+
+b. rijbewijs dat geldig is voor een andere categorie dan AM, of    
+
+4°. die bestuurders in Nederland woonachtig zijn en aan hen door het daartoe bevoegd gezag in een andere lidstaat van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende Europese Economische Ruimte of Zwitserland, een rijbewijs is afgegeven dat geldig is voor een andere categorie dan AM, gedurende de in onderdeel h bedoelde periode.       
 2.  Bij ministeriële regeling worden voorschriften vastgesteld ter uitvoering van de in het eerste lid, onderdelen *b* en *c*, bedoelde algemene maatregel van bestuur.   
+3.  In afwijking van het eerste lid, onderdeel i, onder 3°, is artikel 107 niet van toepassing op bestuurders van bromfietsen die in een andere lidstaat van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, woonachtig zijn en die zich bevinden in het internationaal verkeer, indien het een bromfiets betreft waarop richtlijn nr. 2006/126/EG van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 betreffende het rijbewijs (PbEU L 403) niet van toepassing is.   
 
 ### Artikel  110  
 
-1.  Motorrijtuigen mogen slechts worden bestuurd door personen die de leeftijd van achttien jaren of, voor zover het betreft motorrijtuigen, al dan niet met aanhangwagen, die zijn ingericht voor het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen, de leeftijd van eenentwintig jaren hebben bereikt.   
-2.  Bij algemene maatregel van bestuur kan een lagere minimumleeftijd dan die in het eerste lid genoemd, worden vastgesteld voor het besturen van bromfietsen, gehandicaptenvoertuigen, landbouw- of bosbouwtrekkers en motorrijtuigen met beperkte snelheid, niet zijnde stoom- en motorwalsen.   
-3.  Het eerste lid geldt niet voor degene aan wie rijonderricht wordt gegeven in het kader van een opleiding voor beroepschauffeur, mits is voldaan aan de bij algemene maatregel van bestuur gestelde voorwaarden.   
+Motorrijtuigen mogen slechts worden bestuurd door personen die een bij algemene maatregel van bestuur vastgestelde minimumleeftijd hebben bereikt. Daarbij kan voor het ontvangen van rijonderricht in de zin van de [Wet rijonderricht motorrijtuigen 1993](../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md) in de bij algemene maatregel van bestuur vastgestelde gevallen en onder de bij algemene maatregel van bestuur gestelde voorwaarden een lagere leeftijd worden vastgesteld.  
 
 ### Afdeling  2  
 
@@ -2093,7 +2108,7 @@ b. in het kader van een door of vanwege de overheid ingesteld onderzoek naar de 
 
 a. het motorrijtuig waarmee rijonderricht wordt gegeven, niet voldoet aan de daaraan ingevolge artikel 110a gestelde eisen;  
 
-b. degene aan wie rijonderricht wordt gegeven, de leeftijd van achttien jaren of, voor zover het betreft motorrijtuigen, al dan niet met aanhangwagen, die zijn ingericht voor het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen, de leeftijd van eenentwintig jaren, dan wel, voor zover het bromfietsen betreft, de leeftijd van zestien jaren nog niet heeft bereikt;  
+b. degene aan wie rijonderricht wordt gegeven nog niet de bij algemene maatregel van bestuur vastgestelde minimumleeftijd heeft bereikt voor het besturen van een motorrijtuig van de categorie waarvoor rijonderricht wordt gegeven;  
 
 c. niet wordt voldaan aan de overigens bij algemene maatregel van bestuur ten aanzien van het geven van rijonderricht gestelde eisen.     
 2.  Het eerste lid, aanhef en onderdeel b, geldt niet voor zover het rijonderricht betreft dat plaatsvindt in het kader van een opleiding voor beroepschauffeur, mits is voldaan aan de bij algemene maatregel van bestuur gestelde voorwaarden.   
@@ -2106,7 +2121,7 @@ c. niet wordt voldaan aan de overigens bij algemene maatregel van bestuur ten aa
 
 1.  Een rijbewijs wordt op aanvraag en tegen betaling van het daarvoor vastgestelde tarief, slechts afgegeven aan degene die: 
 
-a. de leeftijd van achttien jaren of, voor zover het betreft een rijbewijs voor het besturen van motorrijtuigen, al dan niet met aanhangwagen, die zijn ingericht voor het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen, de leeftijd van eenentwintig jaren heeft bereikt, dan wel, indien de aanvraag betrekking heeft op afgifte van een rijbewijs dat geldig is voor het besturen van bromfietsen, de leeftijd van zestien jaren heeft bereikt en  
+a. de bij algemene maatregel van bestuur vastgestelde minimumleeftijd heeft bereikt voor het besturen van een motorrijtuig van de categorie waarop de aanvraag tot afgifte van een rijbewijs betrekking heeft en  
 
 b. blijkens een overeenkomstig bij algemene maatregel van bestuur vastgestelde regels door of vanwege de overheid ingesteld onderzoek dan wel blijkens een eerder aan hem afgegeven rijbewijs of een hem door het daartoe bevoegde gezag buiten Nederland afgegeven rijbewijs dat voldoet aan de bij algemene maatregel van bestuur vastgestelde eisen, beschikt over een voldoende mate van rijvaardigheid en geschiktheid, dan wel, indien de aanvraag betrekking heeft op afgifte van een rijbewijs dat geldig is voor het besturen van bromfietsen, over een voldoende mate van rijvaardigheid.     
 2.  De aanvrager van een rijbewijs dient zich zowel bij de indiening van de aanvraag als bij de uitreiking van het rijbewijs te identificeren met een op zijn naam gesteld identiteitsbewijs als bedoeld in [artikel 1, eerste lid, onder 1°, 2° of 3° van de Wet op de identificatieplicht](../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md), een geldig rijbewijs, dan wel een eerder aan hem afgegeven rijbewijs dat zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur. Degene ten aanzien van wie een onderzoek als bedoeld in het eerste lid, onderdeel b, wordt ingesteld, dient zich te identificeren met een op zijn naam gesteld identiteitsbewijs als bedoeld in [artikel 1, eerste lid, onder 1°, 2° of 3° van de Wet op de identificatieplicht](../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md), een geldig rijbewijs dan wel een eerder aan hem afgegeven rijbewijs dat zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur.   
@@ -2125,10 +2140,12 @@ b. van wie ingevolge een der artikelen 130, tweede lid, of 164 de overgifte van 
 
 c. ten aanzien van wie ingevolge artikel 131, tweede lid, onderdeel a, de geldigheid van het rijbewijs is geschorst, voor de categorie of categorieën van motorrijtuigen waarop de schorsing betrekking heeft, voor de duur van de schorsing;  
 
-d. van wie ingevolge de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../wet/wet/mulder/BWBR0004581/README.md) de inlevering van het rijbewijs is gevorderd dan wel wiens rijbewijs krachtens die wet is ingenomen, of  
+d. van wie ingevolge de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../wet/wet/mulder/BWBR0004581/README.md) de inlevering van het rijbewijs is gevorderd dan wel wiens rijbewijs krachtens die wet is ingenomen;  
 
-e. van wie is gebleken dat die houder is van een rijbewijs, afgegeven door het daartoe bevoegde gezag in een andere Lid-Staat van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, tenzij de afgifte van een rijbewijs plaatsvindt tegen overlegging van dat rijbewijs.     
-2.  Voor de toepassing van het eerste lid, onderdelen *b*, *c* en *d*, wordt onder rijbewijs mede verstaan een rijbewijs, afgegeven door het daartoe bevoegde gezag buiten Nederland, waarvan de houder in Nederland woonachtig is.   
+e. van wie is gebleken dat die houder is van een rijbewijs, afgegeven door het daartoe bevoegde gezag in een andere Lid-Staat van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, tenzij de afgifte van een rijbewijs plaatsvindt tegen overlegging van dat rijbewijs;  
+
+f. ten aanzien van wie is gebleken dat in een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland het rijbewijs is geschorst of een beperkende maatregel met betrekking tot het rijbewijs of de rijbevoegdheid onherroepelijk is geworden, tenzij is voldaan aan bij algemene maatregel van bestuur gestelde voorwaarden.     
+2.  Voor de toepassing van het eerste lid, onderdelen, b, c, d en f, wordt onder rijbewijs mede verstaan een rijbewijs, afgegeven door het daartoe bevoegde gezag buiten Nederland, waarvan de houder in Nederland woonachtig is.   
 
 ### Afdeling  4  
 
@@ -2223,14 +2240,7 @@ b. verloren geraakte of tenietgegane rijbewijzen buiten de gevallen waarin daarv
 
 ### Artikel  122  
 
-1.  Behoudens artikel 123 of 123b is een rijbewijs, afgegeven aan een aanvrager die de leeftijd van 
-
-a. 60 jaren nog niet heeft bereikt, geldig voor de duur van tien achtereenvolgende jaren, gerekend vanaf de in het rijbewijs vermelde datum van afgifte;  
-
-b. 60 jaren doch nog niet die van 65 jaren heeft bereikt, geldig vanaf de in het rijbewijs vermelde datum van afgifte tot de dag waarop hij de leeftijd van 70 jaren bereikt;  
-
-c. 65 jaren heeft bereikt, geldig voor de duur van vijf achtereenvolgende jaren, gerekend vanaf de in het rijbewijs vermelde datum van afgifte.     
-2.  In afwijking van het eerste lid is een rijbewijs, afgegeven aan degene die naar verwachting op grond van zijn lichamelijke of geestelijke geschiktheid voor een beperkte termijn geschikt zal zijn voor het besturen van motorrijtuigen, geldig vanaf de in het rijbewijs vermelde datum van afgifte tot de dag waarop de termijn waarvoor de houder naar verwachting geschikt zal zijn voor het besturen van motorrijtuigen, verstrijkt.   
+Met in achtneming van de artikelen 123, 123a en 123b wordt de geldigheidsduur van het rijbewijs bij algemene maatregel van bestuur vastgelegd.  
 
 ### Afdeling  7  
 
@@ -2242,7 +2252,7 @@ c. 65 jaren heeft bereikt, geldig voor de duur van vijf achtereenvolgende jaren,
 
 a. door uitreiking van een nieuw of vervangend rijbewijs;  
 
-b. door omwisseling tegen een rijbewijs dat aan de houder door het daartoe bevoegde gezag buiten Nederland is afgegeven, voor de categorie of categorieën van motorrijtuigen waarop de omwisseling betrekking heeft;  
+b. door omwisseling tegen een rijbewijs dat aan de houder door het daartoe bevoegde gezag buiten Nederland is afgegeven, voor de categorie of categorieën van motorrijtuigen waarop de omwisseling betrekking heeft, dan wel door uitreiking van een rijbewijs dat aan de houder door het daartoe bevoegde gezag buiten Nederland is afgegeven, terwijl betrokkene op dat tijdstip houder was van een rijbewijs en in Nederland woonachtig is;  
 
 c. gedurende de tijd dat aan de houder de bevoegdheid tot het besturen van motorrijtuigen is ontzegd;  
 
@@ -2311,7 +2321,9 @@ II. buiten de gevallen waarin de verklaring wordt overgelegd door een houder die
 
 e. in de in het eerste lid, onderdeel d, bedoelde gevallen door het CBR;  
 
-f. in het in het eerste lid, onderdeel e, bedoelde geval door degene die is belast met de afgifte van rijbewijzen, indien de ongeldigverklaring betrekking heeft op een rijbewijs dat niet is afgegeven door het daartoe bevoegde gezag in een andere Lid-Staat van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland.     
+f. in het in het eerste lid, onderdeel e, bedoelde geval door degene die is belast met de afgifte van rijbewijzen, indien de ongeldigverklaring betrekking heeft op een rijbewijs dat niet is afgegeven door het daartoe bevoegde gezag in een andere Lid-Staat van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland;  
+
+g. in afwijking van onderdeel c vindt ongeldigverklaring plaats door de Dienst Wegverkeer, indien deze dienst beschikt over gegevens uit het buitenland waaruit blijkt dat betrokkene tevens houder is van een rijbewijs afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland.     
 3.  De ongeldigverklaring is van kracht met ingang van de zevende dag na die waarop het besluit tot ongeldigverklaring aan de houder van het rijbewijs is bekend gemaakt.   
 4.  De houder van het ongeldig verklaarde rijbewijs dient dat rijbewijs zodra de ongeldigverklaring van kracht is geworden, in te leveren bij degene die het ongeldig heeft verklaard.   
 5.  Bij ministeriële regeling kunnen nadere regels worden vastgesteld omtrent de wijze waarop de inlevering van ongeldig verklaarde rijbewijzen dient plaats te vinden.   
@@ -2383,8 +2395,9 @@ b. voor de handhaving van de bij of krachtens deze wet vastgestelde voorschrifte
 
 1.  Aan autoriteiten die betrokken zijn bij de uitvoering van deze wet of die zijn belast met de handhaving van de bij of krachtens deze wet vastgestelde voorschriften, worden op de door de Dienst Wegverkeer te bepalen wijze uit het register desgevraagd de gegevens verstrekt die zij voor de uitoefening van hun taak behoeven.   
 2.  Aan bij algemene maatregel van bestuur aangewezen autoriteiten die betrokken zijn bij de uitvoering van een andere wet dan deze wet of zijn belast met de handhaving van de bij of krachtens een andere wet dan deze wet gestelde voorschriften, worden in de bij algemene maatregel van bestuur te bepalen gevallen op de door de Dienst Wegverkeer te bepalen wijze desgevraagd de gegevens verstrekt die zij voor de uitoefening van hun taak behoeven.   
-3.  Aan de met de afgifte van rijbewijzen belaste autoriteiten buiten Nederland worden in de bij algemene maatregel van bestuur te bepalen gevallen op de door de Dienst Wegverkeer te bepalen wijze en tegen betaling van het door deze dienst vastgestelde tarief, inlichtingen uit het register verstrekt.   
-4.  De autoriteiten, bedoeld in het eerste en tweede lid, zijn bevoegd tot het invoeren, wijzigen en verwijderen van de bij algemene maatregel van bestuur aangewezen gegevens die van belang zijn voor het bijhouden van het register.   
+3.  Aan de met de afgifte van rijbewijzen belaste autoriteiten buiten Nederland anders dan in een andere lidstaat van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, worden in de bij algemene maatregel van bestuur te bepalen gevallen op de door de Dienst Wegverkeer te bepalen wijze en tegen betaling van het door deze dienst vastgestelde tarief, inlichtingen uit het register verstrekt.   
+4.  Aan de met afgifte van rijbewijzen, dan wel met de beoordeling van de geldigheid van afgegeven rijbewijzen, belaste autoriteiten binnen de andere lidstaten van de Europese Unie, de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland worden in de bij algemene maatregel van bestuur te bepalen gevallen in het kader van de uitwisseling van gegevens op de door de Dienst Wegverkeer te bepalen wijze en tegen betaling van het door deze dienst vastgestelde tarief desgevraagd gegevens verstrekt die zij voor de uitvoering van hun taak behoeven.   
+5.  De autoriteiten, bedoeld in het eerste en tweede lid, zijn bevoegd tot het invoeren, wijzigen en verwijderen van de bij algemene maatregel van bestuur aangewezen gegevens die van belang zijn voor het bijhouden van het in artikel 126, eerste lid, bedoelde register.   
 
 ### Artikel  128  
 

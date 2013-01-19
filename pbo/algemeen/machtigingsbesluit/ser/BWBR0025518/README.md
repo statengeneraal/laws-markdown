@@ -27,6 +27,16 @@ b. wet: [Wet op de bedrijfsorganisatie](../../../../../wet/wet/op/de/bedrijfsorg
 2.  Het dagelijks bestuur is gemachtigd om bij de toewijzing van de behandeling van een adviesaanvraag aan een commissie te bepalen dat de commissie op grond van [artikel 44 van de wet](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) namens de Raad van advies dient.   
 3.  Het dagelijks bestuur informeert de Raad regelmatig over de gebruikmaking van de bevoegdheden in het eerste en tweede lid van dit artikel.   
 
+### Artikel  2a  
+
+1.  De bevoegdheid tot het instellen van commissies, alsmede tot het samenstellen daarvan, wordt gemandateerd aan het dagelijks bestuur.   
+2.  Het dagelijks bestuur informeert de Raad regelmatig over de gebruikmaking van het in het eerste lid verleende mandaat.   
+
+### Artikel  2b  
+
+1.  Het dagelijks bestuur wordt mandaat verleend met betrekking tot het nemen van besluiten ten aanzien van de taken en bevoegdheden die in de statuten van de Stichting Certificering Opleiding Ondernemingsraden aan de Raad zijn opgedragen.   
+2.  Het dagelijks bestuur informeert de Raad regelmatig over de gebruikmaking van het in het eerste lid verleende mandaat.   
+
 ### Artikel  3  
 
 Het dagelijks bestuur is gemachtigd namens de Raad voordrachten te doen voor benoeming van leden en plaatsvervangende leden van adviesorganen van de Europese Unie, indien daartoe een verzoek wordt ontvangen.  
@@ -39,9 +49,9 @@ Het dagelijks bestuur is gemachtigd namens de Raad voordrachten te doen voor ben
 
 ### Artikel  5  
 
-1.   De Commissie Arbeid, Onderneming en Medezeggenschap is gemachtigd namens de Raad van advies te dienen over verzoeken om ontheffing als bedoeld in de [artikelen 63d, tweede lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [156](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [266 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).  
-2.   De in het eerste lid bedoelde adviezen van de Commissie Arbeid, Onderneming en Medezeggenschap worden voorbereid door haar Subcommissie Ontheffingen Structuurwet.  
-3.   De Commissie Arbeid, Onderneming en Medezeggenschap kan de Subcommissie Ontheffingen Structuurwet machtigen namens haar de adviezen uit te brengen.  
+1.   De Commissie Arbeids- en Ondernemingsrecht is gemachtigd namens de Raad van advies te dienen over verzoeken om ontheffing als bedoeld in de [artikelen 63d, tweede lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [156](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [266 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).  
+2.   De in het eerste lid bedoelde adviezen van de Commissie Arbeids- en Ondernemingsrecht worden voorbereid door haar Subcommissie Ontheffingen Structuurwet.  
+3.   De Commissie Arbeids- en Ondernemingsrecht kan de Subcommissie Ontheffingen Structuurwet machtigen namens haar de adviezen uit te brengen.  
 
 ### Artikel  6  
 

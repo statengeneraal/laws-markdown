@@ -75,12 +75,13 @@ k. het bijhouden van het register, bedoeld in artikel 4,
 l. de ongeldigverklaring van certificaten, bedoeld in artikel 15, eerste lid,  
 
 m. de vaststelling van de tarieven voor de activiteiten, bedoeld in de onderdelen a tot en met d, en f tot en met j.     
-2.  Het instituut voert de taken, genoemd in het eerste lid, onderdelen a tot en met d, en f tot en met j, uit overeenkomstig het daarvoor geldende reglement. Het instituut stelt dit reglement vast met inachtneming van de regels, bedoeld in het derde lid.   
-3.  Onze Minister stelt, het instituut gehoord, regels met betrekking tot de uitvoering door het instituut van de taken, genoemd in het eerste lid, onderdelen a tot en met d, en f tot en met j.   
-4.  Onze Minister kan rijksgecommitteerden aanwijzen die zijn belast met het toezicht op de uitvoering door het instituut van de taken, genoemd in het eerste lid, onderdelen a tot en met d, en h tot en met j. Onze Minister kan een rijksgecommitteerde schorsen of ontslaan wegens ongeschiktheid of onbekwaamheid voor de vervulde functie, dan wel wegens andere zwaarwegende redenen. Onze Minister stelt regels voor het door de rijksgecommitteerden uitgeoefende toezicht.   
-5.  Het examen militair rijinstructeur afgenomen door of vanwege Onze Minister van Defensie, alsmede het examen politierijinstructeur afgenomen door of vanwege hetzij Onze Minister van Justitie, hetzij Onze Minister van Binnenlandse Zaken, dienen te worden afgenomen overeenkomstig een door Onze Minister goedgekeurd examenreglement waarin tevens het namens Onze Minister te houden toezicht op de examens is geregeld.   
-6.  Het instituut onthoudt zich van actieve deelname aan opleidingen gericht op het afleggen van de examens, bedoeld in het eerste lid, onderdelen a tot en met d, en h tot en met j.   
-7.  De door het instituut vastgestelde tarieven behoeven de goedkeuring van Onze Minister. Het voor het uitvoeren door het instituut van de taken, genoemd in het eerste lid, onderdelen a tot en met d, en h tot en met j te betalen tarief bestaat mede uit een vergoeding van de kosten van de in het vierde lid bedoelde rijksgecommitteerden. Het instituut draagt het in de tweede volzin bedoelde, door Onze Minister vast te stellen deel van het tarief dat de vergoeding van de kosten van de rijksgecommitteerden betreft aan hen af overeenkomstig bij regeling van Onze Minister vast te stellen regels.   
+2.  Op het instituut is de [Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing.   
+3.  Het instituut voert de taken, genoemd in het eerste lid, onderdelen a tot en met d, en f tot en met j, uit overeenkomstig het daarvoor geldende reglement. Het instituut stelt dit reglement vast met inachtneming van de regels, bedoeld in het derde lid.   
+4.  Onze Minister stelt, het instituut gehoord, regels met betrekking tot de uitvoering door het instituut van de taken, genoemd in het eerste lid, onderdelen a tot en met d, en f tot en met j.   
+5.  Onze Minister kan rijksgecommitteerden aanwijzen die zijn belast met het toezicht op de uitvoering door het instituut van de taken, genoemd in het eerste lid, onderdelen a tot en met d, en h tot en met j. Onze Minister kan een rijksgecommitteerde schorsen of ontslaan wegens ongeschiktheid of onbekwaamheid voor de vervulde functie, dan wel wegens andere zwaarwegende redenen. Onze Minister stelt regels voor het door de rijksgecommitteerden uitgeoefende toezicht.   
+6.  Het examen militair rijinstructeur afgenomen door of vanwege Onze Minister van Defensie, alsmede het examen politierijinstructeur afgenomen door of vanwege hetzij Onze Minister van Justitie, hetzij Onze Minister van Binnenlandse Zaken, dienen te worden afgenomen overeenkomstig een door Onze Minister goedgekeurd examenreglement waarin tevens het namens Onze Minister te houden toezicht op de examens is geregeld.   
+7.  Het instituut onthoudt zich van actieve deelname aan opleidingen gericht op het afleggen van de examens, bedoeld in het eerste lid, onderdelen a tot en met d, en h tot en met j.   
+8.  Het voor het uitvoeren door het instituut van de taken, genoemd in het eerste lid, onderdelen a tot en met d, en h tot en met j te betalen tarief bestaat mede uit een vergoeding van de kosten van de in het vijfde lid bedoelde rijksgecommitteerden. Het instituut draagt het in de eerste volzin bedoelde, vast te stellen deel van het tarief dat de vergoeding van de kosten van de rijksgecommitteerden betreft aan hen af overeenkomstig bij regeling van Onze Minister vast te stellen regels.   
 
 ### Artikel  3  
 
@@ -128,9 +129,9 @@ Indien het instituut is of wordt ontbonden dan wel indien zich andere omstandigh
 1.  Degene die bedrijfsmatig rijonderricht geeft in het besturen van enige motorrijtuigcategorie is in het bezit van een door het instituut afgegeven certificaat voor de motorrijtuigcategorie B als bedoeld in de richtlijn rijbewijzen. Daarnaast is degene die bedrijfsmatig rijonderricht geeft voor de in de richtlijn rijbewijzen genoemde motorrijtuigcategorieën in het bezit van een door het instituut afgegeven certificaat voor de desbetreffende motorrijtuigcategorie.   
 2.  In afwijking van het eerste lid is geen certificaat vereist voor: 
 
-a. de voertuigintroductie in een voor de bestuurder nieuw motorrijtuig voor de categorieën C, CE, D of DE als bedoeld in de richtlijn rijbewijzen;  
+a. de voertuigintroductie in een voor de bestuurder nieuw motorrijtuig voor C, C1, CE, C1E, D, D1, DE of D1E als bedoeld in de richtlijn rijbewijzen;  
 
-b. het theoretische rijonderricht, anders dan het vak verkeer, voor het rijbewijs in de motorrijtuigcategorieën C of D, en de theoretische scholing en theoretische bijscholing in het kader van de vakbekwaamheid van bestuurders van die motorrijtuigcategorieën, voor zover de betrokken docent voldoet aan de bekwaamheidseisen bedoeld in [artikel 4.2.1., tweede lid, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en  
+b. het theoretische rijonderricht, anders dan het vak verkeer, voor het rijbewijs in de motorrijtuigcategorieën C, C1, D of D1, en de theoretische scholing en theoretische bijscholing in het kader van de vakbekwaamheid van bestuurders van die motorrijtuigcategorieën, voor zover de betrokken docent voldoet aan de bekwaamheidseisen bedoeld in [artikel 4.2.1., tweede lid, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en  
 
 c. het rijonderricht in het kader van een door het CBR opgelegde verplichting zich te onderwerpen aan een scholing educatieve maatregel.     
 3.  Het certificaat dient: 
@@ -140,7 +141,7 @@ a. geldig te zijn voor het rijonderricht dat wordt gegeven,
 b. te voldoen aan de bij regeling van Onze Minister vastgestelde eisen inzake inrichting en uitvoering, en  
 
 c. behoorlijk leesbaar te zijn.     
-4.  In afwijking van het eerste lid, tweede volzin, is degene die bedrijfsmatig rijonderricht geeft voor het besturen van een bromfiets in het bezit van een door het instituut afgegeven certificaat voor de motorrijtuigcategorie A als bedoeld in de richtlijn rijbewijzen en is degene die bedrijfsmatig rijonderricht geeft voor het besturen van een brommobiel in het bezit van een door het instituut afgegeven certificaat voor de motorrijtuigcategorie B als bedoeld in de richtlijn rijbewijzen.   
+4.  In afwijking van het eerste lid, tweede volzin, is degene die bedrijfsmatig rijonderricht geeft voor het besturen van een bromfiets in het bezit van een door het instituut afgegeven certificaat voor de motorrijtuigcategorieën A1, A2 en A als bedoeld in de richtlijn rijbewijzen en is degene die bedrijfsmatig rijonderricht geeft voor het besturen van een brommobiel in het bezit van een door het instituut afgegeven certificaat voor de motorrijtuigcategorie B als bedoeld in de richtlijn rijbewijzen.   
 5.  In afwijking van het derde lid, onderdeel a, is een certificaat als bedoeld in artikel 13, onderdeel a, alleen geldig voor het rijonderricht dat wordt gegeven onder directe begeleiding van de stagebegeleider.   
 
 ### Artikel  8  
@@ -157,7 +158,8 @@ c. behoorlijk leesbaar te zijn.
 5.  Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.   
 6.  Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het *Staatsblad*.   
 
-### Artikel  8b  
+### Artikel  8b   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Artikel 7 is niet van toepassing op militaire rij-instructeurs voor zover zij werkzaam zijn binnen hun dienstverband.  
 
@@ -212,7 +214,7 @@ b. de beoordeling van de competenties van de betrokkene en de wijze waarop die b
 
 ### Artikel  12a  
 
-1.  Degene die blijkens een door het instituut afgegeven certificaat voldoet aan de in artikel 9, eerste lid, onderdeel a, bedoelde eisen van vakbekwaamheid, doorloopt na de afgifte van dat certificaat een stage door middel van het geven van rijonderricht in die motorrijtuigcategorie. Het voldoen aan de regels voor de stage in de motorrijtuigcategorieën B, C of D wordt gelijkgesteld met het voldoen aan de regels voor de stage voor de motorrijtuigcategorieën BE, CE of DE.   
+1.  Degene die blijkens een door het instituut afgegeven certificaat voldoet aan de in artikel 9, eerste lid, onderdeel a, bedoelde eisen van vakbekwaamheid, doorloopt na de afgifte van dat certificaat een stage door middel van het geven van rijonderricht in die motorrijtuigcategorie. Het voldoen aan de regels voor de stage in de motorrijtuigcategorieën B, C1, C, D1 of D wordt gelijkgesteld met het voldoen aan de regels voor de stage in de motorrijtuigcategorieën BE, C1E, CE, D1E of DE.   
 2.  Het instituut kan stagebegeleiders aanwijzen.   
 3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot: 
 
@@ -264,7 +266,7 @@ a.
 
 1. indien het wordt afgegeven aansluitend op het behalen van het examen voor de categorie B als bedoeld in de richtlijn rijbewijzen, voor de duur van twaalf achtereenvolgende maanden;  
 
-2. indien het wordt afgegeven aansluitend op het behalen van het examen voor de categorie A, C of D als bedoeld in de richtlijn rijbewijzen, voor de duur van zes achtereenvolgende maanden.   In bijzondere bij of krachtens algemene maatregel van bestuur aan te geven gevallen, kan de geldigheidsduur door het instituut eenmalig met ten hoogste vier achtereenvolgende maanden worden verlengd,  
+2. indien het wordt afgegeven aansluitend op het behalen van het examen voor de categorie A1, A2, A, C1, C, D1 of D als bedoeld in de richtlijn rijbewijzen, voor de duur van zes achtereenvolgende maanden.   In bijzondere bij of krachtens algemene maatregel van bestuur aan te geven gevallen, kan de geldigheidsduur door het instituut eenmalig met ten hoogste vier achtereenvolgende maanden worden verlengd,  
 
 b. in de overige gevallen: voor de duur van vijf achtereenvolgende jaren. In bijzondere bij of krachtens algemene maatregel van bestuur aan te geven gevallen, kan de geldigheidsduur door het instituut eenmalig met ten hoogste twaalf achtereenvolgende maanden worden verlengd.    
 
@@ -379,6 +381,8 @@ Een certificaat voor het geven van scholing educatieve maatregel alsmede een cer
 
 ####Ontheffingen
 
+Vervallen per 01-06-2009   
+
 ### Hoofdstuk  VII  
 
 ####Straf-, overgangs- en slotbepalingen
@@ -399,7 +403,8 @@ Bij veroordeling wegens overtreding van artikel 7 of van artikel 16 kan de recht
 2.  Indien rijonderricht wordt gegeven in een motorrijtuig, is de rijinstructeur verplicht dit motorrijtuig op eerste vordering van de in [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde ambtenaren te doen stilhouden en het hem afgegeven instructeursbewijs dan wel bewijs van ontheffing aan die ambtenaren behoorlijk ter inzage af te geven.   
 3.  Indien bij de in [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde ambtenaren een ernstig vermoeden bestaat dat de houder van een instructeursbewijs als bedoeld in artikel 27 kennelijk niet voldoet aan de bij algemene maatregel van bestuur vastgestelde eisen van bekwaamheid, doen zij daarvan zo spoedig mogelijk schriftelijk mededeling aan Onze Minister onder vermelding van de feiten en omstandigheden die aan het vermoeden ten grondslag liggen. De artikelen 21, tweede tot en met vijfde lid, 22 en 23 zijn van overeenkomstige toepassing.   
 
-### Artikel  28  
+### Artikel  28   
+Vervallen per 01-06-2009   
 
 Door vernummering vervallen.   
 

@@ -3,7 +3,7 @@
 ##Regeling houdende regels betreffende de bestelling, het transport en de beveiliging van rijbewijzen en wijziging van enkele regelingen op het gebied van de rijbewijsreglementering (Regeling bestelling, transport en beveiliging rijbewijzen)
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 107, derde lid](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en [116, tweede lid, van de Wegenverkeerswet 1994](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [119, derde lid](../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [120](../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) en [122, eerste en tweede lid, van het Reglement rijbewijzen](../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md);
+Gelet op de artikelen 107, derde lid, en 116, tweede lid, van de Wegenverkeerswet 1994 en 119, derde lid, 120 en 122, eerste en tweede lid, van het Reglement rijbewijzen;
 Besluit:    
 
 ### Artikel  1  
@@ -44,9 +44,9 @@ b. ten minste twee personen om leveringen van die bestellingen in ontvangst te n
 
 1.  De bestelde rijbewijzen worden maximaal vier werkdagen na ontvangst van de in artikel 3 bedoelde aanvraag vóór 9.00 uur bij de in de aanvraag genoemde afgiftelocatie afgeleverd. Indien de bestelling een spoedaanvraag betreft, die op een werkdag vóór 16.00 uur door de leverancier is ontvangen, wordt het aangevraagde rijbewijs de volgende werkdag vóór 9.00 uur bij de in de aanvraag genoemde afgiftelocatie afgeleverd.   
 2.  De leverancier zorgt voor de aflevering van de bestelde rijbewijzen door middel van een beveiligd transport.   
-3.  De tot het in ontvangst nemen van de bestelde rijbewijzen bevoegde persoon legitimeert zich met een geldig identiteitsdocument als bedoeld in [artikel 1, eerste lid, onder 1°, 2° of 3°, van de Wet op de identificatieplicht](../../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md), dan wel met een geldig rijbewijs.   
-4.  Bij aflevering kan de tot het in ontvangst nemen bevoegde persoon de transporteur verplichten zich te identificeren met een geldig identiteitsdocument als bedoeld in [artikel 1, eerste lid, onder 1°, 2° of 3°, van de Wet op de identificatieplicht](../../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md), dan wel met een geldig rijbewijs, en een identificatiebewijs van de leverancier.   
-5.  De aflevering van de bestelde rijbewijzen vindt plaats in de ruimte waarin de in [artikel 125 van het Reglement rijbewijzen](../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) bedoelde voorziening is geplaatst.   
+3.  De tot het in ontvangst nemen van de bestelde rijbewijzen bevoegde persoon legitimeert zich met een geldig identiteitsdocument als bedoeld in artikel 1, eerste lid, onder 1°, 2° of 3°, van de Wet op de identificatieplicht, dan wel met een geldig rijbewijs.   
+4.  Bij aflevering kan de tot het in ontvangst nemen bevoegde persoon de transporteur verplichten zich te identificeren met een geldig identiteitsdocument als bedoeld in artikel 1, eerste lid, onder 1°, 2° of 3°, van de Wet op de identificatieplicht, dan wel met een geldig rijbewijs, en een identificatiebewijs van de leverancier.   
+5.  De aflevering van de bestelde rijbewijzen vindt plaats in de ruimte waarin de in artikel 125 van het Reglement rijbewijzen bedoelde voorziening is geplaatst.   
 6.  Indien aflevering op de in het vijfde lid bedoelde wijze niet mogelijk of niet doelmatig is, vindt aflevering plaats in een voor het publiek afgesloten ruimte, zo dicht mogelijk bij de in dat lid bedoelde voorziening.   
 7.  De tot het in ontvangst nemen bevoegde persoon controleert in het bijzijn van de transporteur de zending, alsmede de verzegeling daarvan.   
 8.  Indien de tot het in ontvangst nemen bevoegde persoon beschadigingen van de zending constateert, wordt hiervan een aantekening gemaakt op het bewijs van ontvangst en wordt dat met proces-verbaal aan de Dienst Wegverkeer medegedeeld. Een afschrift van het proces-verbaal blijft bij de afgiftelocatie.   
@@ -85,7 +85,7 @@ Rijbewijzen die niet binnen drie maanden na de datum waarop het besluit tot afgi
 
 ####Procesbeschrijvingen
 
-De tot afgifte van rijbewijzen bevoegde autoriteiten nemen bij de aanvraag en afgifte van rijbewijzen de procesbeschrijvingen rijbewijzen in acht die als bijlagen 1 tot en met 6 bij deze regeling zijn opgenomen.  
+De tot afgifte van rijbewijzen bevoegde autoriteiten nemen bij de aanvraag en afgifte de procesbeschrijving rijbewijzen in acht die als bijlage bij deze regeling is opgenomen.  
 
 ### Artikel  10  
 
@@ -104,7 +104,7 @@ De tot afgifte van rijbewijzen bevoegde autoriteiten maken voor de aanvraag van 
 
 ####Intrekking van de Regeling bestelling rijbewijzen
 
-De [Regeling bestelling rijbewijzen](../../../../../../../../ministeriele-regeling/regeling/bestelling/rijbewijzen/BWBR0010553/README.md) wordt ingetrokken.  
+De Regeling bestelling rijbewijzen wordt ingetrokken.  
 
 ### Artikel  13  
 
@@ -177,66 +177,44 @@ De
 Minister van Verkeer en Waterstaat, 
 K.M.H.Peijs  
 
-### Bijlage  1  
+### Bijlage  
 
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.  
-
-### Bijlage  2  
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.  
-
-### Bijlage  3  
-
-####Procesbeschrijving Omwisseling buitenlands rijbewijs
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.  
-
-### Bijlage  4  
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.  
-
-### Bijlage  5  
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.  
-
-### Bijlage  6  
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.  
+Ligt ter inzage bij het Ministerie van Infrastructuur en Milieu, Hoofddirectie Bestuurlijke en Juridische Zaken, Koningskade 4, te Den Haag.  
 
 ### Bijlage  7  
 
-![240507](http://wetten.overheid.nl/Illustration/240507)
+![]()
 
 ### Bijlage  8  
 
-![240508](http://wetten.overheid.nl/Illustration/240508)
+![]()
 
 ### Bijlage  9  
 
-![240509](http://wetten.overheid.nl/Illustration/240509)
+![]()
 
 ### Bijlage  10  
 
-![240510](http://wetten.overheid.nl/Illustration/240510)
+![]()
 
 ### Bijlage  11  
 
-![240511](http://wetten.overheid.nl/Illustration/240511)
+![]()
 
 ### Bijlage  12  
 
-![240512](http://wetten.overheid.nl/Illustration/240512)
+![]()
 
 ### Bijlage  13  
 
-![240513](http://wetten.overheid.nl/Illustration/240513)
+![]()
 
 ### Bijlage  14  
 
-![240514](http://wetten.overheid.nl/Illustration/240514)
+![]()
 
 ### Bijlage  15  
 
-![240516](http://wetten.overheid.nl/Illustration/240516)
-![240516](http://wetten.overheid.nl/Illustration/240516)
+![]()
+![]()
 

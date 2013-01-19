@@ -22,8 +22,8 @@ Besluit:
 | a.  | wet:  | [Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);  |
 | b.  | bedrijfslichaam:  | een bedrijfslichaam als bedoeld in [artikel 66, vierde lid, van de wet](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);  |
 | c.  | Raad:  | Sociaal-Economische Raad;  |
-| d.  | Bestuurskamer:  | commissie ex [artikel 2 van de Instellingsverordening Bestuurskamer 2008](../../../../../../pbo/instellingsverordening/bestuurskamer/2008/BWBR0024271/README.md);  |
-| e.  | Toezichtkamer:  | commissie ex [artikel 8 van de Instellingsverordening Bestuurskamer 2008](../../../../../../pbo/instellingsverordening/bestuurskamer/2008/BWBR0024271/README.md);  |
+| d.  | Bestuurskamer:  | commissie ex [artikel 3 van de Verordening bestuurlijke taken SER](../../../../../../pbo/verordening/bestuurlijke/taken/ser/BWBR0032870/README.md);  |
+| e.  | Toezichtkamer:  | commissie ex [artikel 7 van de Verordening bestuurlijke taken SER](../../../../../../pbo/verordening/bestuurlijke/taken/ser/BWBR0032870/README.md);  |
 | f.  | bestemmingsheffing:  | een heffing als bedoeld in [artikel 126, vierde lid, van de wet](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);  |
 | g.  | algemene heffing:  | een heffing op grond van [artikel 126, eerste lid, van de wet](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), niet zijnde een bestemmingsheffing;  |
 | h.  | retributie:  | een retributie als bedoeld in [artikel 126, tweede lid, van de wet](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);  |
