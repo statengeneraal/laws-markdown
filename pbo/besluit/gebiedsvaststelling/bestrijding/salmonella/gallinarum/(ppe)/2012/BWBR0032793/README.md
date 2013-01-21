@@ -8,22 +8,22 @@ Gelet op [artikel 3, eerste lid, van de Verordening tijdelijke en preventieve ma
 Gehoord het advies van de Adviescommissie pluimveegezondheidszorg,
 Besluit:    
 
-### Artikel  1  
+###Artikel 1 
 
-In het gebied aangegeven op de kaart in de bijlage is op 11 december 2012 de aanwezigheid van Salmonella Gallinarum vastgesteld.  
+In het gebied aangegeven op de kaart in de bijlage is op 11 december 2012 de aanwezigheid van Salmonella Gallinarum vastgesteld. 
 
-### Artikel  2  
+###Artikel 2 
 
-1.  Dit besluit wordt aangehaald als: Besluit gebiedsvaststelling bestrijding Salmonella Gallinarum (PPE) 2012.   
-2.  Dit besluit wordt gepubliceerd op het internet en in het Verordeningenblad Bedrijfsorganisatie en treedt in werking met ingang van de dag na publicatie.   
+1. Dit besluit wordt aangehaald als: Besluit gebiedsvaststelling bestrijding Salmonella Gallinarum (PPE) 2012. 
+2. Dit besluit wordt gepubliceerd op het internet en in het Verordeningenblad Bedrijfsorganisatie en treedt in werking met ingang van de dag na publicatie.
 
 Zoetermeer 
 11 december 2012   
 
 B.J. Krouwel  
-voorzitter   
+voorzitter  
 
-### Bijlage  
+###Bijlage 
 
 ####bij het Besluit gebiedsvaststelling bestrijding Salmonella Gallinarum (PPE) 2012
 
