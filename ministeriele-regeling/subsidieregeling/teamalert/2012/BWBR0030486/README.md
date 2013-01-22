@@ -20,7 +20,7 @@ In deze regeling wordt verstaan onder:
 
 *subsidieontvanger:* Stichting TeamAlert, statutair gevestigd te Amsterdam;  
 
-*wet:*[Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
+*wet:* [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 
 ### Artikel  2  
 
@@ -31,13 +31,13 @@ In deze regeling wordt verstaan onder:
 a. het creëren van bewustwording bij verkeersdeelnemers van 12 tot en met 24 jaar door het realiseren van verandering in kennis, houding en risicoperceptie ten aanzien van verkeersveiligheid via educatieve projecten en voorlichtingscampagnes, en  
 
 b. het versterken van participatie van jongeren van 12 tot en met 24 jaar bij beleidsontwikkeling op het gebied van verkeersveiligheid.     
-2.  Geen subsidie wordt verstrekt voor zover voor een activiteit als bedoeld in het eerste lid, een subsidie is of wordt verstrekt door een ander bestuursorgaan dan wel andere inkomsten van derden zonder tegenprestatie zijn verkregen.   
+2.  Geen subsidie wordt verstrekt voor zover voor een activiteit als bedoeld in het eerste lid, een subsidie is of wordt verstrekt door een ander bestuursorgaan dan wel andere inkomsten van derden zonder tegenprestatie zijn verkregen.  
 
 ### Artikel  3  
 
 ####Toepassing [Algemene wet bestuursrecht Afdeling 4.2.8](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)
 
-[Afdeling 4.2.8 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing. [Artikel 4:76 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.  
+[Afdeling 4.2.8 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing. [Artikel 4:76 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing. 
 
 ### Artikel  4  
 
@@ -45,7 +45,7 @@ b. het versterken van participatie van jongeren van 12 tot en met 24 jaar bij be
 
 1.  Het subsidieplafond bedraagt voor het boekjaar 2012 € 1.000.000,–, voor het boekjaar 2013 € 950.000,–, voor het boekjaar 2014 € 850.000,– en voor het boekjaar 2015 € 750.000,–.   
 2.  Het in het eerste lid genoemde bedrag is exclusief de compensatie voor de arbeidskostenontwikkeling, bedoeld in artikel 8, eerste lid.   
-3.  Als subsidiabele kosten worden uitsluitend in aanmerking genomen het totaal aantal uren dat daadwerkelijk aan de uitvoering van de subsidiabele activiteiten is besteed onder toepassing van de door de minister goedgekeurde forfaitaire uurtarieven, alsmede de kosten derden.   
+3.  Als subsidiabele kosten worden uitsluitend in aanmerking genomen het totaal aantal uren dat daadwerkelijk aan de uitvoering van de subsidiabele activiteiten is besteed onder toepassing van de door de minister goedgekeurde forfaitaire uurtarieven, alsmede de kosten derden.  
 
 ### Artikel  5  
 
@@ -58,7 +58,7 @@ a. een indicatie van het tijdstip waarop de subsidieontvanger gehouden is de act
 
 b. een indicatie van het maximale beschikbare bedrag per activiteit, en  
 
-c. het geraamde aantal uren per activiteit, de geraamde forfaitaire uurtarieven en de geraamde kosten derden per activiteit.     
+c. het geraamde aantal uren per activiteit, de geraamde forfaitaire uurtarieven en de geraamde kosten derden per activiteit.    
 
 ### Artikel  6  
 
@@ -83,7 +83,7 @@ d. een rapport van feitelijke bevindingen van een accountant ten aanzien van de 
 
 4°. de gehanteerde tarieven zijn gebaseerd op de in het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) vastgelegde salarisschalen, en    
 
-e. een prognose van de liquiditeitsbehoefte per kalenderkwartaal.     
+e. een prognose van de liquiditeitsbehoefte per kalenderkwartaal.    
 
 ### Artikel  7  
 
@@ -100,14 +100,14 @@ c. de wijze waarop het subsidiebedrag wordt bepaald en het bedrag waarop de subs
 
 d. het geraamde aantal uren per activiteit, de goedgekeurde forfaitaire uurtarieven alsmede de geraamde kosten derden per activiteit, en  
 
-e. de inhoud van het controleprotocol.     
+e. de inhoud van het controleprotocol.    
 
 ### Artikel  8  
 
 ####Compensatie voor de arbeidskostenontwikkeling
 
 1.  Zolang de subsidie niet is vastgesteld, kan de minister ambtshalve het maximale subsidiebedrag, genoemd in artikel 4, eerste lid, verhogen met een bedrag dat ten hoogste bedraagt het bedrag dat wordt verkregen door het bedrag van de looncomponent in de subsidie te indexeren met het percentage voor de arbeidskostenontwikkeling, genoemd in de desbetreffende loonbijstellingsbrief van het Ministerie van Financiën met betrekking tot compensatie voor de arbeidskostenontwikkeling van instellingen in de g&g-sector (code 935).   
-2.  De beschikking, bedoeld in het eerste lid, vermeldt tevens het bedrag van de looncomponent in de subsidie voor het volgende boekjaar. Voor het boekjaar 2012 vermeldt de beschikking tot subsidieverlening het bedrag van de looncomponent (prijspeil 2011).   
+2.  De beschikking, bedoeld in het eerste lid, vermeldt tevens het bedrag van de looncomponent in de subsidie voor het volgende boekjaar. Voor het boekjaar 2012 vermeldt de beschikking tot subsidieverlening het bedrag van de looncomponent (prijspeil 2011).  
 
 ### Artikel  9  
 
@@ -119,20 +119,20 @@ a. de aanvraag tot subsidieverlening niet in overeenstemming is met de wensen di
 
 b. de aanvraag niet voldoet aan artikel 6;  
 
-c. er in voorgaande boekjaren ten aanzien van de subsidieverlening dan wel subsidievaststelling toepassing is gegeven aan de [artikelen 4:48](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:49](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:50 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
+c. er in voorgaande boekjaren ten aanzien van de subsidieverlening dan wel subsidievaststelling toepassing is gegeven aan de [artikelen 4:48](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:49](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:50 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 
 ### Artikel  10  
 
 ####Voorwaarde begrotingsvoorbehoud
 
-Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-Generaal aangenomen rijksbegroting, onderdeel Infrastructuur en Milieu, wordt in de beschikking tot subsidieverlening vermeld dat de subsidieverlening plaatsvindt onder de voorwaarde dat voldoende gelden ter beschikking worden gesteld in de wet tot vaststelling van de rijksbegroting, onderdeel Infrastructuur en Milieu.  
+Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-Generaal aangenomen rijksbegroting, onderdeel Infrastructuur en Milieu, wordt in de beschikking tot subsidieverlening vermeld dat de subsidieverlening plaatsvindt onder de voorwaarde dat voldoende gelden ter beschikking worden gesteld in de wet tot vaststelling van de rijksbegroting, onderdeel Infrastructuur en Milieu. 
 
 ### Artikel  11  
 
 ####Voorschotverlening
 
 1.  De minister kan ambtshalve en gelijktijdig met de beschikking tot subsidieverlening een beschikking tot bevoorschotting verstrekken.   
-2.  Het voorschot wordt uitgekeerd in termijnen waarvan de hoogte en de tijdstippen in de beschikking tot bevoorschotting worden bepaald met dien verstande dat de voorschotverlening ten hoogste 95 procent van de verleende subsidie per boekjaar bedraagt.   
+2.  Het voorschot wordt uitgekeerd in termijnen waarvan de hoogte en de tijdstippen in de beschikking tot bevoorschotting worden bepaald met dien verstande dat de voorschotverlening ten hoogste 95 procent van de verleende subsidie per boekjaar bedraagt.  
 
 ### Artikel  12  
 
@@ -164,7 +164,7 @@ b. andere verplichtingen die de minister wenselijk acht ter verwezenlijking van 
 
 a. een administratie wordt gevoerd die zodanig is ingericht dat een gescheiden administratie van kosten en baten wordt gevoerd voor de gesubsidieerde activiteiten enerzijds en de overige activiteiten anderzijds, en  
 
-b. een onderzoek als bedoeld in [artikel 4:79, eerste lid, van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt uitgevoerd en dat dit onderzoek geschiedt met inachtneming van hetgeen daarover is bepaald in het controleprotocol.     
+b. een onderzoek als bedoeld in [artikel 4:79, eerste lid, van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt uitgevoerd en dat dit onderzoek geschiedt met inachtneming van hetgeen daarover is bepaald in het controleprotocol.    
 
 ### Artikel  13  
 
@@ -176,7 +176,7 @@ a. het oprichten van dan wel deelnemen in een rechtspersoon;
 
 b. het ontbinden van de rechtspersoon, of  
 
-c. het doen van aangifte tot faillissement of het aanvragen van surseance van betaling.    
+c. het doen van aangifte tot faillissement of het aanvragen van surseance van betaling.   
 
 ### Artikel  14  
 
@@ -191,35 +191,35 @@ b. een financieel verslag als bedoeld in [artikel 4:75, eerste lid, van de wet](
 
 c. een verklaring van een accountant als bedoeld in [artikel 4:78, derde lid, van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en  
 
-d. een verklaring van een accountant als bedoeld in [artikel 4:79, derde lid, van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
+d. een verklaring van een accountant als bedoeld in [artikel 4:79, derde lid, van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
 
 ### Artikel  15  
 
 ####Beschikking tot subsidievaststelling
 
 1.  De minister geeft een beschikking tot subsidievaststelling binnen tweeëntwintig weken na ontvangst van de aanvraag tot subsidievaststelling.   
-2.  De minister is bevoegd tot ambtshalve vaststelling van de subsidie indien de subsidieontvanger niet tijdig de aanvraag tot vaststelling heeft ingediend.   
+2.  De minister is bevoegd tot ambtshalve vaststelling van de subsidie indien de subsidieontvanger niet tijdig de aanvraag tot vaststelling heeft ingediend.  
 
 ### Artikel  16  
 
 ####Toezicht
 
-Met het toezicht op de naleving van de aan de subsidie verbonden verplichtingenzijn belast de directeur en medewerkers van de auditdienst van het Ministerie van Infrastructuur en Milieu en, zonodig, andere bij besluit van de minister aangewezen personen.  
+Met het toezicht op de naleving van de aan de subsidie verbonden verplichtingenzijn belast de directeur en medewerkers van de auditdienst van het Ministerie van Infrastructuur en Milieu en, zonodig, andere bij besluit van de minister aangewezen personen. 
 
 ### Artikel  17  
 
 ####Inwerkingtreding
 
 1.  Deze regeling treedt in werking met ingang van 1 januari 2012 en werkt terug tot en met 1 september 2011.   
-2.  Deze regeling vervalt met ingang van 1 januari 2015, met dien verstande dat zij van toepassing blijft op de subsidies die voor die datum zijn verleend.   
+2.  Deze regeling vervalt met ingang van 1 januari 2015, met dien verstande dat zij van toepassing blijft op de subsidies die voor die datum zijn verleend.  
 
 ### Artikel  18  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Subsidieregeling TeamAlert 2012.  
+Deze regeling wordt aangehaald als: Subsidieregeling TeamAlert 2012. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Infrastructuur en Milieu,
-M.H.Schultz van Haegen-Maas Geesteranus   
+Minister van Infrastructuur en Milieu, 
+M.H. Schultz van Haegen-Maas Geesteranus     

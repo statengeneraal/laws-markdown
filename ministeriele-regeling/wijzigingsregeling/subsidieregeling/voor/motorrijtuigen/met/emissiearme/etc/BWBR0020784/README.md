@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Subsidieregeling voor motorrijtuigen met emissiearme dieselmotor en recht op teruggaaf BPM.   
+Wijzigt de Subsidieregeling voor motorrijtuigen met emissiearme dieselmotor en recht op teruggaaf BPM. 
 
 ### Artikel  II  
 
-Op een aanvraag tot subsidievaststelling, als bedoeld in [artikel 4, eerste lid, van de Subsidieregeling voor motorrijtuigen met emissiearme dieselmotor en recht op teruggaaf BPM](../../../../../../../../../ministeriele-regeling/subsidieregeling/voor/motorrijtuigen/met/een/emissiearme/dieselmotor/BWBR0019692/README.md) voor een motorrijtuig ten aanzien waarvan teruggaaf van belasting is verleend, als bedoeld in [artikel 15b, eerste lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) zoals die luidde voor de inwerkingtreding van artikel I van de wet tot wijziging van de Wet op de belasting van personenauto’s en motorrijwielen 1992 en van enige andere wetten (omzetting teruggaafregeling bestelauto’s ondernemers in vrijstellingsregeling) blijft de [Subsidieregeling voor motorrijtuigen met emissiearme dieselmotor en recht op teruggaaf BPM](../../../../../../../../../ministeriele-regeling/subsidieregeling/voor/motorrijtuigen/met/een/emissiearme/dieselmotor/BWBR0019692/README.md) van toepassing zoals die luidde voor de inwerkingtreding van deze regeling.  
+Op een aanvraag tot subsidievaststelling, als bedoeld in [artikel 4, eerste lid, van de Subsidieregeling voor motorrijtuigen met emissiearme dieselmotor en recht op teruggaaf BPM](../../../../../../../../../ministeriele-regeling/subsidieregeling/voor/motorrijtuigen/met/een/emissiearme/dieselmotor/BWBR0019692/README.md) voor een motorrijtuig ten aanzien waarvan teruggaaf van belasting is verleend, als bedoeld in [artikel 15b, eerste lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) zoals die luidde voor de inwerkingtreding van artikel I van de wet tot wijziging van de Wet op de belasting van personenauto’s en motorrijwielen 1992 en van enige andere wetten (omzetting teruggaafregeling bestelauto’s ondernemers in vrijstellingsregeling) blijft de [Subsidieregeling voor motorrijtuigen met emissiearme dieselmotor en recht op teruggaaf BPM](../../../../../../../../../ministeriele-regeling/subsidieregeling/voor/motorrijtuigen/met/een/emissiearme/dieselmotor/BWBR0019692/README.md) van toepassing zoals die luidde voor de inwerkingtreding van deze regeling. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking op het tijdstip waarop artikel I van de wet van 22 november 2006 tot wijziging van de Wet op de belasting van personenauto’s en motorrijwielen 1992 en van enige andere wetten (omzetting teruggaafregeling bestelauto’s ondernemers in vrijstellingsregeling) (Stb. 607) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop artikel I van de wet van 22 november 2006 tot wijziging van de Wet op de belasting van personenauto’s en motorrijwielen 1992 en van enige andere wetten (omzetting teruggaafregeling bestelauto’s ondernemers in vrijstellingsregeling) (Stb. 607) in werking treedt. 
 Deze regeling zal met de toelichting in de S taatscourant worden geplaatst.   
 
 Den Haag 
@@ -24,4 +24,4 @@ Den Haag
 
 De 
 Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-P.L.B.A. vanGeel   
+P.L.B.A. van Geel     

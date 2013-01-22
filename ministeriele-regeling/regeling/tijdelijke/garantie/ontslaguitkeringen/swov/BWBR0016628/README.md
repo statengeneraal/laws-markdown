@@ -14,7 +14,7 @@ a. Minister: Minister van Verkeer en Waterstaat;
 
 b. SWOV: Stichting Wetenschappelijk Onderzoek Verkeersveiligheid SWOV;  
 
-c. fonds: fonds van de Stichting Wachtgeldfonds SWOV.    
+c. fonds: fonds van de Stichting Wachtgeldfonds SWOV.   
 
 ### Artikel  2  
 
@@ -31,23 +31,23 @@ d. de ontslaguitkeringen leiden tot uitkeringen aan ex-werknemers die niet afwij
 e. de SWOV aantoonbaar al het mogelijke heeft gedaan om aanspraken op ontslaguitkeringen te minimaliseren, en  
 
 f. de SWOV van de werking van deze regeling jaarlijks verslag doet in het jaarverslag, bedoeld in [artikel 391, van Boek 2, van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).     
-2.  De aanvulling, bedoeld in het eerste lid, zal een formatieve omvang van 50 fte’s niet overschrijden.   
+2.  De aanvulling, bedoeld in het eerste lid, zal een formatieve omvang van 50 fte’s niet overschrijden.  
 
 ### Artikel  3  
 
 1.  Geen aanvulling als bedoeld in artikel 2, heeft plaats voorzover deze betrekking heeft op tekorten in het fonds die voortvloeien uit ontslaguitkeringen die zijn ingegaan nadat de SWOV de B3-status heeft verloren.   
 2.  Evenmin heeft aanvulling plaats als bedoeld in artikel 2, indien de SWOV in de periode waarop de aanvulling betrekking heeft, activiteiten verricht of heeft verricht die in concurrentie met derden zijn of worden ontplooid dan wel zouden kunnen zijn of worden ontplooid.   
-3.  Indien in de gevallen, genoemd in het eerste en tweede lid, reeds aanvullingen zijn gedaan, kan het teveel betaalde worden teruggevorderd of verrekend met andere betalingsverplichtingen.   
+3.  Indien in de gevallen, genoemd in het eerste en tweede lid, reeds aanvullingen zijn gedaan, kan het teveel betaalde worden teruggevorderd of verrekend met andere betalingsverplichtingen.  
 
 ### Artikel  4  
 
-Wijzigt de Subsidieregeling SWOV 2003.   
+Wijzigt de Subsidieregeling SWOV 2003. 
 
 ### Artikel  5  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
-Minister van Verkeer en Waterstaat
-K.M.H.Peijs    
+Minister van Verkeer en Waterstaat 
+K.M.H. Peijs      

@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  1  
 
-Het tijdvak voor de subsidieverstrekking ten behoeve van sanering van verkeerslawaai als bedoeld in de [Subsidieregeling sanering verkeerslawaai](../../../../../../../../ministeriele-regeling/subsidieregeling/sanering/verkeerslawaai/BWBR0020731/README.md) wordt vastgesteld voor de periode van 1 januari 2010 tot en met 31 december 2010.  
+Het tijdvak voor de subsidieverstrekking ten behoeve van sanering van verkeerslawaai als bedoeld in de [Subsidieregeling sanering verkeerslawaai](../../../../../../../../ministeriele-regeling/subsidieregeling/sanering/verkeerslawaai/BWBR0020731/README.md) wordt vastgesteld voor de periode van 1 januari 2010 tot en met 31 december 2010. 
 
 ### Artikel  2  
 
-Het subsidieplafond voor het in artikel 1 vastgestelde tijdvak ten behoeve van de sanering van verkeerslawaai wordt vastgesteld op: € 17.459.000,–.  
+Het subsidieplafond voor het in artikel 1 vastgestelde tijdvak ten behoeve van de sanering van verkeerslawaai wordt vastgesteld op: € 17.459.000,–. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van 1 januari 2010.  
+Deze regeling treedt in werking met ingang van 1 januari 2010. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -25,4 +25,4 @@ Den Haag
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, voor deze: de 
 directeur-generaal Ruimte, 
-C.B.F.Kuijpers   
+C.B.F. Kuijpers     

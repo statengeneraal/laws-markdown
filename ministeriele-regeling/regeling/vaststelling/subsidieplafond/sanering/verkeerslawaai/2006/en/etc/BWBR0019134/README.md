@@ -8,11 +8,11 @@ Besluit:
 
 ### Artikel  1  
 
-Het tijdvak voor de subsidieverstrekking als bedoeld in deze regeling wordt vastgesteld voor de periode van 1 januari 2006 tot en met 31 december 2006.  
+Het tijdvak voor de subsidieverstrekking als bedoeld in deze regeling wordt vastgesteld voor de periode van 1 januari 2006 tot en met 31 december 2006. 
 
 ### Artikel  2  
 
-Het subsidieplafond voor het in artikel 1 vastgestelde tijdvak ten behoeve van de sanering van verkeerslawaai als bedoeld in artikel 3 wordt vastgesteld op: € 22 911 000,00.  
+Het subsidieplafond voor het in artikel 1 vastgestelde tijdvak ten behoeve van de sanering van verkeerslawaai als bedoeld in artikel 3 wordt vastgesteld op: € 22 911 000,00. 
 
 ### Artikel  3  
 
@@ -46,7 +46,7 @@ a. het eerst in aanmerking komen, projecten als bedoeld in het tweede lid onder 
 
 b. vervolgens projecten als bedoeld in het tweede lid, onder c, in aanmerking komen, onder de voorwaarde dat, maximaal 20 procent van het na toepassing van onderdeel a nog beschikbare budget besteed wordt;  
 
-c. vervolgens projecten als bedoeld in het tweede lid, onder b, in aanmerking komen.     
+c. vervolgens projecten als bedoeld in het tweede lid, onder b, in aanmerking komen.    
 
 ### Artikel  4  
 
@@ -58,15 +58,15 @@ b. dit, gelet op het belang van het voorkomen of beperken van geluidhinder, zal 
 
 c. toepassing wordt gegeven aan [artikel 1a van het Besluit geluidhinder spoorwegen](../../../../../../../../../../AMvB/besluit/geluidhinder/spoorwegen/BWBR0004137/README.md);  
 
-d. toepassing wordt gegeven aan [artikel 99a van de Wet geluidhinder](../../../../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md).    
+d. toepassing wordt gegeven aan [artikel 99a van de Wet geluidhinder](../../../../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md).   
 
 ### Artikel  5  
 
-Aanvragen als bedoeld in artikel 3, eerste lid, onder d, e, f en g, worden voor 1 februari 2006 ingediend bij de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, p/a Bureau Sanering Verkeerslawaai, Postbus 97, 3440 AB Woerden.  
+Aanvragen als bedoeld in artikel 3, eerste lid, onder d, e, f en g, worden voor 1 februari 2006 ingediend bij de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, p/a Bureau Sanering Verkeerslawaai, Postbus 97, 3440 AB Woerden. 
 
 ### Artikel  6  
 
-Deze regeling treedt in werking met ingang van 1 januari 2006.  
+Deze regeling treedt in werking met ingang van 1 januari 2006. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -74,4 +74,4 @@ Den Haag
 
 De 
 Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-P.L.B.A. vanGeel   
+P.L.B.A. van Geel     

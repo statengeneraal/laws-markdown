@@ -8,13 +8,13 @@ Besluit:
 
 ### Artikel  1  
 
-####Begripsbepalingen
+####Begripsbepalingen 
 
-In deze regeling wordt verstaan onder:   a. de Minister:  de Minister van Verkeer en Waterstaat;    b. gecombineerd goederenvervoer:  vervoer van goederen in dezelfde laadeenheid, met uitzondering van eenheden die onder de ISO serie I freight containers vallen, door middel van een combinatie van tenminste twee vervoersmodaliteiten die behoren tot de categorieën wegvervoer, binnenvaart, spoorvervoer of kustvaart, zonder dat daarbij de goederen zelf worden behandeld;    c. transportonderneming:  
+In deze regeling wordt verstaan onder: a. de Minister:   de Minister van Verkeer en Waterstaat;  b. gecombineerd goederenvervoer:   vervoer van goederen in dezelfde laadeenheid, met uitzondering van eenheden die onder de ISO serie I freight containers vallen, door middel van een combinatie van tenminste twee vervoersmodaliteiten die behoren tot de categorieën wegvervoer, binnenvaart, spoorvervoer of kustvaart, zonder dat daarbij de goederen zelf worden behandeld;  c. transportonderneming:  
 
-1º. de in Nederland gevestigde natuurlijke persoon of rechtspersoon die zelfstandig activiteiten uitoefent die geheel of gedeeltelijk bestaan uit het beroepsmatig exploiteren van vervoermaterieel ten behoeve van het gecombineerd goederenvervoer, of  
+1º.  de in Nederland gevestigde natuurlijke persoon of rechtspersoon die zelfstandig activiteiten uitoefent die geheel of gedeeltelijk bestaan uit het beroepsmatig exploiteren van vervoermaterieel ten behoeve van het gecombineerd goederenvervoer, of 
 
-2º. twee of meer in Nederland gevestigde rechtspersonen of natuurlijke personen die te samen in de vorm van een vennootschap onder firma of commanditaire vennootschap activiteiten uitoefenen die geheel of gedeeltelijk bestaan uit het beroepsmatig exploiteren van vervoermaterieel ten behoeve van het gecombineerd goederenvervoer;      d. groep:  een economische eenheid, waarin organisatorisch zijn verbonden: 
+2º. twee of meer in Nederland gevestigde rechtspersonen of natuurlijke personen die te samen in de vorm van een vennootschap onder firma of commanditaire vennootschap activiteiten uitoefenen die geheel of gedeeltelijk bestaan uit het beroepsmatig exploiteren van vervoermaterieel ten behoeve van het gecombineerd goederenvervoer;   d. groep:   een economische eenheid, waarin organisatorisch zijn verbonden: 
 
 1º. 1 een natuurlijke persoon of rechtspersoon die direct of indirect: 
 
@@ -22,13 +22,13 @@ meer dan de helft van het geplaatste kapitaal verschaft aan,
 
 volledig aansprakelijk vennoot is van, of  
 
-overwegende zeggenschap heeft over een of meer rechtspersonen of vennootschappen, en    
+overwegende zeggenschap heeft over een of meer rechtspersonen of vennootschappen, en   
 
-2º. laatstbedoelde rechtspersonen of vennootschappen;      e. leasen:  
+2º.  laatstbedoelde rechtspersonen of vennootschappen;   e. leasen:  
 
-1º. het aangaan van een lease-overeenkomst met een looptijd van minimaal 24 maanden waarin aan de lessee het recht is toegekend het geleaste object aan het einde van de lease-periode te kopen voor een bedrag van maximaal 5% van de oorspronkelijke kostprijs, of  
+1º.  het aangaan van een lease-overeenkomst met een looptijd van minimaal 24 maanden waarin aan de lessee het recht is toegekend het geleaste object aan het einde van de lease-periode te kopen voor een bedrag van maximaal 5% van de oorspronkelijke kostprijs, of 
 
-2º. het aangaan van een overeenkomst tot huurkoop als bedoeld in artikel 1576h van boek 7A van het Burgerlijk Wetboek;      f. Senter:  het agentschap Senter van het Ministerie van Economische Zaken.     
+2º.  het aangaan van een overeenkomst tot huurkoop als bedoeld in artikel 1576h van boek 7A van het Burgerlijk Wetboek;   f. Senter:   het agentschap Senter van het Ministerie van Economische Zaken.    
 
 ### Artikel  2  
 
@@ -36,25 +36,25 @@ overwegende zeggenschap heeft over een of meer rechtspersonen of vennootschappen
 
 1.  De Minister kan ter bevordering van het gebruik van het gecombineerd goederenvervoer subsidie verlenen voor de koop of lease van specifiek op het gecombineerd goederenvervoer afgestemd nieuw vervoermaterieel indien het betreft: 
 
-a. wissellaadbakken met speciale voorzieningen;  
+a.  wissellaadbakken met speciale voorzieningen; 
 
-b. containers, tenminste twee Euro-pallets breed;  
+b.  containers, tenminste twee Euro-pallets breed; 
 
-c. draaisystemen voor wissellaadbakken als bedoeld onder a;  
+c.  draaisystemen voor wissellaadbakken als bedoeld onder a; 
 
-d. wissellaadbakken van ten minste 20 ft, voorzien van rollerbaansysteem voor het vervoer van 3 meter hoge main-deck luchtvrachtpallets;  
+d.  wissellaadbakken van ten minste 20 ft, voorzien van rollerbaansysteem voor het vervoer van 3 meter hoge main-deck luchtvrachtpallets; 
 
-e. wissellaadbakken van ten minste 40 ft, voorzien van rollerbaansysteem voor het vervoer van 3 meter hoge main-deck luchtvrachtpallets;  
+e.  wissellaadbakken van ten minste 40 ft, voorzien van rollerbaansysteem voor het vervoer van 3 meter hoge main-deck luchtvrachtpallets; 
 
-f. Huckepack-opleggers;  
+f.  Huckepack-opleggers; 
 
-g. wissellaadketels en tankcontainers;  
+g.  wissellaadketels en tankcontainers; 
 
-h. druk- en bulk-containers van minimaal 30 ft;  
+h.  druk- en bulk-containers van minimaal 30 ft; 
 
-i. ECO-carriers.     
+i.  ECO-carriers.    
 2.  De verplichting tot koop of lease van het in het eerste lid genoemde materieel wordt aangegaan uiterlijk binnen vier weken na dagtekening van de beschikking tot subsidieverlening, waarbij de levering en de betaling of, ingeval van lease, de betaling van de eerste termijn in ieder geval plaatsvinden in de periode van 15 oktober 1999 tot en met 14 oktober 2000.   
-3.  Onverminderd artikel 5, tweede lid, bedraagt de subsidie voor materieel genoemd in het eerste lid, onder:    a :  f 1.750,- per eenheid;    b:  f 1.750,- per eenheid;    c:  f 5.000,- per eenheid;    d:  f 5.000,- per eenheid;    e:  f 10.000,- per eenheid;    f:  f 3.500,- per eenheid;    g:  f 10.000,- per eenheid;    h:  f 10.000,- per eenheid;    i:  f 10.000,- per eenheid.     
+3.  Onverminderd artikel 5, tweede lid, bedraagt de subsidie voor materieel genoemd in het eerste lid, onder:    a :  f 1.750,- per eenheid;     b:  f 1.750,- per eenheid;     c:   f 5.000,- per eenheid;     d:   f 5.000,- per eenheid;    e:   f 10.000,- per eenheid;     f:   f 3.500,- per eenheid;    g:   f 10.000,- per eenheid;     h:   f 10.000,- per eenheid;     i:   f 10.000,- per eenheid.     
 4.  Per aanvraag wordt voor maximaal 40 eenheden materieel subsidie toegekend.   
 
 ### Artikel  3  
@@ -71,13 +71,13 @@ Het subsidieplafond dat aan het toekennen van subsidies ingevolge deze regeling 
 2.  Aanvragen worden per post ingediend.   
 3.  Voor het indienen van de aanvraag wordt gebruik gemaakt van een bij Senter verkrijgbaar aanvraagformulier waaraan wordt toegevoegd: 
 
-a. een recent uittreksel van de inschrijving van de aanvragende onderneming in het handelsregister van de Kamer van Koophandel;  
+a.  een recent uittreksel van de inschrijving van de aanvragende onderneming in het handelsregister van de Kamer van Koophandel; 
 
-b. een toelichting op de voorgenomen wijze van inzet van het materieel en het vervoertraject;  
+b.  een toelichting op de voorgenomen wijze van inzet van het materieel en het vervoertraject; 
 
-c. een afschrift van de koopovereenkomst onder aanduiding van het geïnvesteerde bedrag per bestelde eenheid dan wel een door de leverancier gespecificeerde offerte, of  
+c.  een afschrift van de koopovereenkomst onder aanduiding van het geïnvesteerde bedrag per bestelde eenheid dan wel een door de leverancier gespecificeerde offerte, of 
 
-d. een afschrift van de lease-overeenkomst dan wel een door een lease-maatschappij gespecificeerde offerte.     
+d.  een afschrift van de lease-overeenkomst dan wel een door een lease-maatschappij gespecificeerde offerte.    
 4.  Per transportonderneming wordt slechts één aanvraag in behandeling genomen.   
 
 ### Artikel  5  
@@ -88,13 +88,13 @@ d. een afschrift van de lease-overeenkomst dan wel een door een lease-maatschapp
 2.  Indien de ontvangen aanvragen betrekking hebben op een totaalbedrag dat aan subsidie toegekend zou kunnen worden dat hoger is dan het subsidieplafond, dan wordt het subsidieplafond naar evenredigheid over deze aanvragen verdeeld.   
 3.  De aanvraag wordt in ieder geval afgewezen: 
 
-a. indien hij niet binnen de in artikel 4, eerste lid, genoemde periode bij Senter is ingediend;  
+a.  indien hij niet binnen de in artikel 4, eerste lid, genoemde periode bij Senter is ingediend; 
 
-b. voorzover de aanvraag geen betrekking heeft op de aanschaf van materieel als bedoeld in artikel 2, eerste lid;  
+b.  voorzover de aanvraag geen betrekking heeft op de aanschaf van materieel als bedoeld in artikel 2, eerste lid; 
 
-c. voor het gedeelte waarmee het in artikel 2, vierde lid, genoemde maximum wordt overschreden;  
+c.  voor het gedeelte waarmee het in artikel 2, vierde lid, genoemde maximum wordt overschreden; 
 
-d. indien gegronde reden bestaat om aan te nemen dat het materieel waarvoor subsidie wordt aangevraagd niet voor het overgrote deel voor het gecombineerd goederenvervoer gebruikt zal worden.     
+d.  indien gegronde reden bestaat om aan te nemen dat het materieel waarvoor subsidie wordt aangevraagd niet voor het overgrote deel voor het gecombineerd goederenvervoer gebruikt zal worden.    
 
 ### Artikel  6  
 
@@ -102,9 +102,9 @@ d. indien gegronde reden bestaat om aan te nemen dat het materieel waarvoor subs
 
 De beschikking tot subsidieverlening bevat in elk geval: 
 
-a. een aanduiding van het soort en het aantal eenheden materieel waarvoor subsidie wordt verleend, voorzover mogelijk onder vermelding van de registratienummers;  
+a.  een aanduiding van het soort en het aantal eenheden materieel waarvoor subsidie wordt verleend, voorzover mogelijk onder vermelding van de registratienummers; 
 
-b. het bedrag waarop de subsidie ten hoogste kan worden vastgesteld.    
+b.  het bedrag waarop de subsidie ten hoogste kan worden vastgesteld.   
 
 ### Artikel  7  
 
@@ -132,9 +132,9 @@ b. het bedrag waarop de subsidie ten hoogste kan worden vastgesteld.
 2.  Aanvragen worden per post ingediend.   
 3.  Voor het indienen van de aanvraag wordt gebruik gemaakt van een bij Senter verkrijgbaar aanvraagformulier, waaraan de volgende gegevens worden toegevoegd: 
 
-a. bij koop van het te subsidiëren materieel: een leverings- en betalingsbewijs, onder vermelding van het per eenheid geïnvesteerde bedrag exclusief BTW;  
+a.  bij koop van het te subsidiëren materieel: een leverings- en betalingsbewijs, onder vermelding van het per eenheid geïnvesteerde bedrag exclusief BTW; 
 
-b. bij lease van het te subsidiëren materieel: het betalingsbewijs van de eerste termijn.     
+b.  bij lease van het te subsidiëren materieel: het betalingsbewijs van de eerste termijn.    
 
 ### Artikel  10  
 
@@ -159,9 +159,9 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Stimuleringsregeling gecombineerd goederenvervoer 2000.  
+Deze regeling wordt aangehaald als: Stimuleringsregeling gecombineerd goederenvervoer 2000. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Verkeer en Waterstaat, 
-T.Netelenbos    
+T. Netelenbos      

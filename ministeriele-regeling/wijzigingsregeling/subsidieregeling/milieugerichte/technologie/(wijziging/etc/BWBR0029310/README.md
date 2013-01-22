@@ -8,20 +8,20 @@ Besluit:
 
 ### Artikel  I  
 
-wijzigt de Subsidieregeling milieugerichte technologie.   
+wijzigt de Subsidieregeling milieugerichte technologie. 
 
 ### Artikel  II  
 
-[Paragraaf 2.2 van de Subsidieregeling milieugerichte technologie](../../../../../../../../ministeriele-regeling/subsidieregeling/milieugerichte/technologie/BWBR0016362/README.md), zoals deze laatstelijk luidde voor het tijdstip van inwerkingtreding van deze regeling, blijft van toepassing op subsidies voor projecten als bedoeld in die paragraaf die voor dat tijdstip zijn aangevraagd.  
+[Paragraaf 2.2 van de Subsidieregeling milieugerichte technologie](../../../../../../../../ministeriele-regeling/subsidieregeling/milieugerichte/technologie/BWBR0016362/README.md), zoals deze laatstelijk luidde voor het tijdstip van inwerkingtreding van deze regeling, blijft van toepassing op subsidies voor projecten als bedoeld in die paragraaf die voor dat tijdstip zijn aangevraagd. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van 1 januari 2011.  
+Deze regeling treedt in werking met ingang van 1 januari 2011. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 24 december 2010   
 
 De 
-Staatssecretaris van Infrastructuur en Milieu,
-J.J.Atsma   
+Staatssecretaris van Infrastructuur en Milieu, 
+J.J. Atsma     

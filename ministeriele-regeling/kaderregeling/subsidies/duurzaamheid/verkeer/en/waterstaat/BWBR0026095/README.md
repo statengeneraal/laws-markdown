@@ -15,27 +15,27 @@ Besluit:
 
 In deze regeling en in de op grond van deze regeling vastgestelde subsidieprogramma’s wordt verstaan onder: 
 
-– *aanvrager:* natuurlijke persoon of rechtspersoon die een subsidie op grond van deze regeling aanvraagt of heeft aangevraagd;  
+–  *aanvrager:* natuurlijke persoon of rechtspersoon die een subsidie op grond van deze regeling aanvraagt of heeft aangevraagd;  
 
-– *adviescommissie:* adviescommissie duurzaamheid verkeer en waterstaat, bedoeld in artikel 30;  
+–  *adviescommissie:* adviescommissie duurzaamheid verkeer en waterstaat, bedoeld in artikel 30;  
 
-– *eco-innovatie:* alle vormen van innovatie die leiden tot of gericht zijn op een aanzienlijke verbetering van de milieubescherming;  
+–  *eco-innovatie:* alle vormen van innovatie die leiden tot of gericht zijn op een aanzienlijke verbetering van de milieubescherming;  
 
-– *grote onderneming:* onderneming die geen MKB-onderneming is;  
+–  *grote onderneming:* onderneming die geen MKB-onderneming is;  
 
-– *innovatiecluster:* een samenwerkingsverband van onafhankelijke ondernemingen of onderzoeksinstellingen, die in een bepaalde sector en regio actief zijn en die tot doel hebben innovatieve activiteiten te stimuleren door het bevorderen van een intensieve onderlinge kruisbestuiving, het delen van faciliteiten en de uitwisseling van kennis en deskundigheid en door daadwerkelijk bij te dragen aan technologieoverdracht, netwerking en informatieverspreiding tussen de ondernemingen binnen het cluster;  
+–  *innovatiecluster:* een samenwerkingsverband van onafhankelijke ondernemingen of onderzoeksinstellingen, die in een bepaalde sector en regio actief zijn en die tot doel hebben innovatieve activiteiten te stimuleren door het bevorderen van een intensieve onderlinge kruisbestuiving, het delen van faciliteiten en de uitwisseling van kennis en deskundigheid en door daadwerkelijk bij te dragen aan technologieoverdracht, netwerking en informatieverspreiding tussen de ondernemingen binnen het cluster;  
 
-– *kleine onderneming:* kleine onderneming in de zin van Verordening (EG) 800/2008 van de Commissie van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard (Pb EU 2008, L 214);  
+–  *kleine onderneming:* kleine onderneming in de zin van Verordening (EG) 800/2008 van de Commissie van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard (Pb EU 2008, L 214);  
 
-– *middelgrote onderneming:* middelgrote onderneming in de zin van Verordening (EG) 800/2008 van de Commissie van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard (Pb EU 2008, L 214);  
+–  *middelgrote onderneming:* middelgrote onderneming in de zin van Verordening (EG) 800/2008 van de Commissie van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard (Pb EU 2008, L 214);  
 
-– *minister:* Minister van Verkeer en Waterstaat;  
+–  *minister:* Minister van Verkeer en Waterstaat;  
 
-– *MKB-onderneming:* kleine of middelgrote onderneming;  
+–  *MKB-onderneming:* kleine of middelgrote onderneming;  
 
-– *onderneming:* iedere eenheid, ongeacht haar rechtsvorm en de wijze waarop zij wordt gefinancierd, die een economische activiteit uitoefent;  
+–  *onderneming:* iedere eenheid, ongeacht haar rechtsvorm en de wijze waarop zij wordt gefinancierd, die een economische activiteit uitoefent;  
 
-–  *onderzoeksinstelling:*  
+– *onderzoeksinstelling:*
 
 a. een in [onderdelen a of b van de bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) genoemde instelling voor hoger onderwijs;  
 
@@ -57,7 +57,7 @@ e. een andere entiteit als zodanig door de minister aangewezen;
 
 – uitvoeringsinstantie: de door de minister aan te wijzen organisatie belast met de uitvoering van het subsidieprogramma;      
 
-– *verstrekken:* verlenen, dan wel ingeval de subsidie direct wordt vastgesteld, vaststellen.    
+–  *verstrekken:* verlenen, dan wel ingeval de subsidie direct wordt vastgesteld, vaststellen.  
 
 ### Artikel  2  
 
@@ -114,21 +114,21 @@ a. aanvullende beoordelingscriteria betreffende de kwaliteit van samenwerking me
 
 b. voorschriften die het desbetreffende European Research Area Network programma aan het subsidieprogramma stelt.     
 11.  Indien een subsidieprogramma voorziet in subsidie voor innovatiecluster-investeringsprojecten of innovatiecluster-exploitatieprojecten, bevat het subsidieprogramma de verplichting dat de aanvrager een analyse verstrekt van de technologische specialisatie van het innovatiecluster, het bestaande regionale potentieel, de bestaande onderzoekscapaciteit, het bestaan van clusters met vergelijkbare doelstellingen binnen de Europese Gemeenschap, en potentiële marktvolumes van de activiteiten binnen het cluster.   
-12.  Indien in een subsidieprogramma is opgenomen dat tevens subsidie kan worden verleend aan een provincie, gemeente of waterschap voor activiteiten die geen economisch karakter hebben kunnen in dat subsidieprogramma andere maximale subsidiepercentages, maximale subsidiebedragen en subsidiabele kosten voor deze entiteiten worden vastgesteld dan opgenomen in deze regeling.   
+12.  Indien in een subsidieprogramma is opgenomen dat tevens subsidie kan worden verleend aan een provincie, gemeente of waterschap voor activiteiten die geen economisch karakter hebben kunnen in dat subsidieprogramma andere maximale subsidiepercentages, maximale subsidiebedragen en subsidiabele kosten voor deze entiteiten worden vastgesteld dan opgenomen in deze regeling.  
 
 ### Artikel  3  
 
 ####Vaststellen subsidieprogramma de-minimis
 
 1.  Indien in een subsidieprogramma is opgenomen dat subsidie kan worden verleend als de-minimissteun in de zin van Verordening (EG) nr. 1998/2006 van de Commissie van Europese Gemeenschappen van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (Pb EG 2006, L379), bevat het subsidieprogramma, naast het bepaalde in artikel 2, derde lid, tevens de voorschriften die de genoemde verordening daaraan stelt.   
-2.  In het subsidieprogramma, bedoeld in het eerste lid, kunnen andere maximale subsidiepercentages, maximale subsidiebedragen en subsidiabele kosten worden vastgesteld dan opgenomen in deze regeling.   
+2.  In het subsidieprogramma, bedoeld in het eerste lid, kunnen andere maximale subsidiepercentages, maximale subsidiebedragen en subsidiabele kosten worden vastgesteld dan opgenomen in deze regeling.  
 
 ### Artikel  4  
 
 ####Wijze van verdeling subsidiegelden
 
 1.  De beschikbare gelden van een subsidieprogramma worden verdeeld in volgorde van ontvangst van de aanvragen die voldoen aan het vereiste van artikel 7, met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvulling compleet is ontvangen als datum van ontvangst van de aanvraag geldt.   
-2.  In afwijking van het eerste lid worden, indien het subsidieprogramma bepaalt dat de gelden worden verdeeld in volgorde van rangschikking van de aanvragen, de beschikbare gelden verdeeld over de aanvragen op basis van de beoordelingscriteria zoals vastgelegd in het desbetreffende subsidieprogramma, te beginnen met het hoogst gerangschikte project.   
+2.  In afwijking van het eerste lid worden, indien het subsidieprogramma bepaalt dat de gelden worden verdeeld in volgorde van rangschikking van de aanvragen, de beschikbare gelden verdeeld over de aanvragen op basis van de beoordelingscriteria zoals vastgelegd in het desbetreffende subsidieprogramma, te beginnen met het hoogst gerangschikte project.  
 
 ### Artikel  5  
 
@@ -179,13 +179,13 @@ o. een vervoermiddelproject, hieronder wordt verstaan:
 p. een aanpassingsproject, hieronder wordt verstaan een samenhangend geheel van activiteiten dat door een onderneming wordt uitgevoerd, gericht op het aanschaffen of voortbrengen en tevens installeren en in gebruik nemen van gebouwen, installaties en uitrustingen, alsmede van gronden die absoluut noodzakelijk zijn om aan de voorgenomen milieudoelstellingen te voldoen, ter aanpassing aan nieuwe communautaire normen die het niveau van de milieubescherming doen toenemen maar die nog niet in werking zijn getreden, wanneer de investering ten uitvoer wordt gelegd en is beëindigd minimaal één jaar vóór de inwerkingtreding van de norm;  
 
 q. een milieu-haalbaarheidsproject, hieronder wordt verstaan het tot stand brengen van een rapport inzake de haalbaarheid van een milieu-investeringsproject of een exploitatieproject voor energiebesparing.     
-2.  Voor kredietsubsidie komen in aanmerking de projecten als bedoeld in het eerste lid, onderdelen a, c en e.   
+2.  Voor kredietsubsidie komen in aanmerking de projecten als bedoeld in het eerste lid, onderdelen a, c en e.  
 
 ### Artikel  6  
 
 ####Cumulatie
 
-Indien ter zake van een project reeds door een ander bestuursorgaan of door de Commissie van de Europese Gemeenschappen subsidie is verstrekt, wordt slechts een zodanig bedrag aan subsidie verstrekt dat voor het totale bedrag aan subsidies het van toepassing zijnde subsidiepercentage als percentage van de subsidiabele kosten niet wordt overschreden.  
+Indien ter zake van een project reeds door een ander bestuursorgaan of door de Commissie van de Europese Gemeenschappen subsidie is verstrekt, wordt slechts een zodanig bedrag aan subsidie verstrekt dat voor het totale bedrag aan subsidies het van toepassing zijnde subsidiepercentage als percentage van de subsidiabele kosten niet wordt overschreden. 
 
 ### §  2  
 
@@ -197,7 +197,7 @@ Indien ter zake van een project reeds door een ander bestuursorgaan of door de C
 
 1.  De minister kan op aanvraag subsidie verstrekken voor het uitvoeren van een project.   
 2.  Een aanvraag tot subsidieverlening wordt ingediend bij de in het subsidieprogramma genoemde uitvoeringsinstantie, met gebruikmaking van het bij die instantie verkrijgbaar formulier, vastgesteld door de minister.   
-3.  De aanvraag gaat vergezeld van een begroting voor het project en een activiteitenplan, alsmede van de andere in het formulier bedoelde bescheiden en gegevens.   
+3.  De aanvraag gaat vergezeld van een begroting voor het project en een activiteitenplan, alsmede van de andere in het formulier bedoelde bescheiden en gegevens.  
 
 ### §  3  
 
@@ -295,7 +295,7 @@ c. er wordt niet meer subsidie verstrekt dan strikt noodzakelijk is voor een zo 
 
 d. met het beschikbare subsidieplafond worden niet alle aanvragen gehonoreerd;  
 
-e. de rangschikking vindt plaats op basis van ingediende volledige aanvragen, zonder dat daarop inhoudelijke aanvullingen of aanpassingen mogelijk zijn.     
+e. de rangschikking vindt plaats op basis van ingediende volledige aanvragen, zonder dat daarop inhoudelijke aanvullingen of aanpassingen mogelijk zijn.    
 
 ### Artikel  9  
 
@@ -306,19 +306,19 @@ e. de rangschikking vindt plaats op basis van ingediende volledige aanvragen, zo
 a. voor een industrieel onderzoeksproject: 60 procent van de subsidiabele projectkosten;  
 
 b. voor een experimenteel ontwikkelingsproject: 40 procent van de subsidiabele projectkosten.     
-2.  Artikel 8, derde, vijfde en zesde lid zijn van overeenkomstige toepassing.   
+2.  Artikel 8, derde, vijfde en zesde lid zijn van overeenkomstige toepassing.  
 
 ### Artikel  10  
 
 ####Gemaakte en betaalde kosten
 
-Subsidiabele projectkosten komen uitsluitend in aanmerking voor subsidie voor zover deze rechtstreeks aan de uitvoering van een project, als bedoeld in artikel 5, zijn toe te rekenen en na de datum van indienen van de subsidieaanvraag door de subsidieontvanger worden gemaakt en, indien de aard van deze kosten met zich meebrengt dat zij kunnen worden betaald, vóór de indiening van het verzoek tot subsidievaststelling zijn betaald.  
+Subsidiabele projectkosten komen uitsluitend in aanmerking voor subsidie voor zover deze rechtstreeks aan de uitvoering van een project, als bedoeld in artikel 5, zijn toe te rekenen en na de datum van indienen van de subsidieaanvraag door de subsidieontvanger worden gemaakt en, indien de aard van deze kosten met zich meebrengt dat zij kunnen worden betaald, vóór de indiening van het verzoek tot subsidievaststelling zijn betaald. 
 
 ### Artikel  11  
 
 ####Subsidiabele kosten van haalbaarheidsprojecten
 
-De subsidiabele kosten van een haalbaarheidsproject gericht op industrieel onderzoek, van een haalbaarheidsproject gericht op experimentele ontwikkeling en van een milieu-haarheidsproject zijn uitsluitend de studiekosten voor zover deze behoren tot de in artikel 12 genoemde kosten.  
+De subsidiabele kosten van een haalbaarheidsproject gericht op industrieel onderzoek, van een haalbaarheidsproject gericht op experimentele ontwikkeling en van een milieu-haarheidsproject zijn uitsluitend de studiekosten voor zover deze behoren tot de in artikel 12 genoemde kosten. 
 
 ### Artikel  12  
 
@@ -343,13 +343,13 @@ b. een opslag voor algemene kosten van ten hoogste 50 procent van de in het eers
 3.  Bij toepassing van het tweede lid berekent de aanvrager het integrale uurtarief op basis van een binnen zijn organisatie gebruikelijke en controleerbare methodiek, gebaseerd op bedrijfseconomische en maatschappelijk aanvaardbare grondslagen. Dit wordt onderbouwd met een accountantsverklaring.   
 4.  Het integrale uurtarief is samengesteld uit de directe loonkosten en de indirecte kosten en betreft uitsluitend de kosten uit de gewone bedrijfsvoering en bevat geen winstopslag.   
 5.  Indien de aanvrager bij toepassing van het tweede lid geen integraal uurtarief hanteert, kan op diens verzoek dit tarief worden vervangen door een uurtarief van € 35,−. In het desbetreffende subsidieprogramma wordt dit tarief geïndexeerd met het jaarcijfer voor de consumentenprijsindex, de CPI, gepubliceerd door het Centraal Bureau voor de Statistiek.   
-6.  Indien geen loonkosten als bedoeld in het eerste lid, onderdeel a, worden gemaakt, maar niettemin arbeid ten behoeve van het project wordt verricht, geldt daarvoor een uurtarief van € 35,−. In het desbetreffende subsidieprogramma wordt dit tarief geïndexeerd met het jaarcijfer voor de consumentenprijsindex, de CPI, gepubliceerd door het Centraal Bureau voor de statistiek. Het bepaalde in het eerste lid, onderdeel b, is op dit tarief niet van toepassing.   
+6.  Indien geen loonkosten als bedoeld in het eerste lid, onderdeel a, worden gemaakt, maar niettemin arbeid ten behoeve van het project wordt verricht, geldt daarvoor een uurtarief van € 35,−. In het desbetreffende subsidieprogramma wordt dit tarief geïndexeerd met het jaarcijfer voor de consumentenprijsindex, de CPI, gepubliceerd door het Centraal Bureau voor de statistiek. Het bepaalde in het eerste lid, onderdeel b, is op dit tarief niet van toepassing.  
 
 ### Artikel  13  
 
 ####Subsidiabele kosten van een detacheringsproject
 
-Subsidiabele kosten van een detacheringsproject zijn uitsluitend de loonkosten voor het inlenen van hooggekwalificeerd personeel en een opslag voor algemene kosten van ten hoogste 50 procent van de loonkosten.  
+Subsidiabele kosten van een detacheringsproject zijn uitsluitend de loonkosten voor het inlenen van hooggekwalificeerd personeel en een opslag voor algemene kosten van ten hoogste 50 procent van de loonkosten. 
 
 ### Artikel  14  
 
@@ -368,7 +368,7 @@ d. opleiding;
 e. consultancy in verband met de verwerving, de bescherming of het verhandelen van intellectuele eigendomsrechten of in verband met licentieovereenkomsten;  
 
 f. consultancy in verband met het gebruik van normen.     
-2.  Indien de dienstverlener een entiteit zonder winstoogmerk is, geschiedt de inkoop van de diensten, genoemd in het eerste lid, tegen een prijs die de volledige kosten plus een redelijke marge weergeeft. Op verzoek van de minister wordt dit inzichtelijk gemaakt door een financiële onderbouwing van de volledige kosten van de te verlenen innovatieadviesdiensten in relatie tot de prijs die daarvoor wordt betaald.   
+2.  Indien de dienstverlener een entiteit zonder winstoogmerk is, geschiedt de inkoop van de diensten, genoemd in het eerste lid, tegen een prijs die de volledige kosten plus een redelijke marge weergeeft. Op verzoek van de minister wordt dit inzichtelijk gemaakt door een financiële onderbouwing van de volledige kosten van de te verlenen innovatieadviesdiensten in relatie tot de prijs die daarvoor wordt betaald.  
 
 ### Artikel  15  
 
@@ -385,7 +385,7 @@ c. het doen van marktonderzoek;
 d. het ter beschikking stellen van laboratoriumruimte;  
 
 e. diensten in verband met kwaliteitslabels, testen en certificeren.     
-2.  Indien de dienstverlener een entiteit zonder winstoogmerk is, geschiedt de inkoop van de diensten, genoemd in het eerste lid, tegen een prijs die de volledige kosten plus een redelijke marge weergeeft. Op verzoek van de minister wordt dit inzichtelijk gemaakt door een financiële onderbouwing van de volledige kosten van de te verlenen innovatieondersteuning in relatie tot de prijs die daarvoor wordt betaald.   
+2.  Indien de dienstverlener een entiteit zonder winstoogmerk is, geschiedt de inkoop van de diensten, genoemd in het eerste lid, tegen een prijs die de volledige kosten plus een redelijke marge weergeeft. Op verzoek van de minister wordt dit inzichtelijk gemaakt door een financiële onderbouwing van de volledige kosten van de te verlenen innovatieondersteuning in relatie tot de prijs die daarvoor wordt betaald.  
 
 ### Artikel  16  
 
@@ -395,7 +395,7 @@ De subsidiabele kosten van een advies- of andere dienstenproject zijn uitsluiten
 
 a. de kosten van externe adviseurs. De betrokken diensten mogen niet van permanente of periodieke aard zijn, noch tot de gewone bedrijfsactiviteiten van de onderneming behoren;  
 
-b. de kosten van deelneming aan vakbeurzen en tentoonstellingen voor het huren, opzetten en gebruiken van een standplaats, uitsluitend wanneer de onderneming voor de eerste keer aan een bepaalde vakbeurs of tentoonstelling deelneemt.    
+b. de kosten van deelneming aan vakbeurzen en tentoonstellingen voor het huren, opzetten en gebruiken van een standplaats, uitsluitend wanneer de onderneming voor de eerste keer aan een bepaalde vakbeurs of tentoonstelling deelneemt.   
 
 ### Artikel  17  
 
@@ -418,7 +418,7 @@ d. de afschrijving van werktuigen en uitrusting, in de mate waarin deze uitsluit
 e. de kosten van diensten inzake begeleiding en advisering met betrekking tot het opleidingsproject. Indien de begeleiding geschiedt door personeel van de aanvrager, worden deze kosten berekend op basis van loonkosten.  
 
 f. de loonkosten van degenen die de opleiding volgen, tot ten hoogste het totaal van de onderdelen a tot met e, bedoelde kosten waarbij slechts rekening mag worden gehouden met de uren die de deelnemers daadwerkelijk aan de opleiding besteden.     
-2.  Voor de berekening van de in het eerste lid, onderdelen a, sub 1°, e en f genoemde loonkosten is artikel 12, van overeenkomstige toepassing.   
+2.  Voor de berekening van de in het eerste lid, onderdelen a, sub 1°, e en f genoemde loonkosten is artikel 12, van overeenkomstige toepassing.  
 
 ### Artikel  18  
 
@@ -434,9 +434,9 @@ f. de loonkosten van degenen die de opleiding volgen, tot ten hoogste het totaal
 
 a. in de eerste drie jaar van de levensduur van de investering indien de aanvrager een MKB-onderneming is;  
 
-b. in de eerste vier jaar van de levensduur van de investering indien de aanvrager een grote onderneming is die niet deel neemt aan het EU-systeem inzake CO <sub>2</sub> -emmissiehandel;  
+b. in de eerste vier jaar van de levensduur van de investering indien de aanvrager een grote onderneming is die niet deel neemt aan het EU-systeem inzake CO<sub>2</sub>-emmissiehandel;  
 
-c. in de eerste vijf jaar van de levensduur van de investering indien de aanvrager een grote onderneming is die deel neemt aan het EU-systeem inzake CO <sub>2</sub> -emissiehandel.     
+c. in de eerste vijf jaar van de levensduur van de investering indien de aanvrager een grote onderneming is die deel neemt aan het EU-systeem inzake CO<sub>2</sub>-emissiehandel.     
 8.  In afwijking van het zevende lid, onderdelen b en c, geldt een periode van drie jaar indien de aanvrager aantoont dat de afschrijvingstermijn van de investering niet meer dan drie jaar bedraagt.   
 9.  Indien het milieu-investeringsproject tevens voorziet in uitgaven voor technologieoverdracht in de vorm van verwerving van exploitatielicenties of licenties voor al dan niet geoctrooieerde technische kennis, kan de minister in een subsidieprogramma bepalen dat deze uitgaven tot het milieu-investeringsproject worden gerekend. De verkregen immateriële activa dienen: 
 
@@ -444,13 +444,13 @@ a. als activa te kunnen worden afgeschreven;
 
 b. tegen marktvoorwaarden te worden verworven van een onderneming waarover de verwerver al dan niet middelijk zeggenschap uitoefent;  
 
-c. bij de subsidieontvanger voor een periode van ten minste vijf jaar, te rekenen vanaf de datum van de verlening van de subsidie, te blijven en te worden geëxploiteerd en bij de activa van de subsidieontvanger zijn opgenomen.     
+c. bij de subsidieontvanger voor een periode van ten minste vijf jaar, te rekenen vanaf de datum van de verlening van de subsidie, te blijven en te worden geëxploiteerd en bij de activa van de subsidieontvanger zijn opgenomen.    
 
 ### Artikel  19  
 
 ####Subsidiabele projectkosten van een vervoermiddelproject
 
-Artikel 18, eerste, vierde, vijfde, zesde en negende lid zijn van overeenkomstige toepassing op een vervoermiddelproject.  
+Artikel 18, eerste, vierde, vijfde, zesde en negende lid zijn van overeenkomstige toepassing op een vervoermiddelproject. 
 
 ### Artikel  20  
 
@@ -460,7 +460,7 @@ Artikel 18, eerste, vierde, vijfde, zesde en negende lid zijn van overeenkomstig
 2.  Bij de berekening van de netto extra productiekosten bedoeld in het eerste lid worden in aanmerking genomen de kosten zonder subsidie in het kader van de aanvraag, maar met inbegrip van een normale winst.   
 3.  Bij de berekening van de netto productiekosten bedoeld in het eerste lid wordt in mindering gebracht elke investeringssubsidie die door de aanvrager voor de desbetreffende installatie wordt ontvangen.   
 4.  Onder investeringssubsidie als bedoeld in het derde lid wordt eveneens verstaan elke belastingverminderende maatregel die de initiële investeringskosten van de betreffende installatie vermindert.   
-5.  Artikel 12 is van overeenkomstige toepassing.   
+5.  Artikel 12 is van overeenkomstige toepassing.  
 
 ### Artikel  21  
 
@@ -472,7 +472,7 @@ a. opleidingsfaciliteiten en onderzoekcentra;
 
 b. open acces-onderzoeksinfrastructuur zoals laboratoria en testfaciliteiten;  
 
-c. breedbandnetwerkinfrastructuur.    
+c. breedbandnetwerkinfrastructuur.   
 
 ### Artikel  22  
 
@@ -484,13 +484,13 @@ a. marketing van het cluster om nieuwe ondernemingen aan te trekken die in het c
 
 b. beheer van de open acces-faciliteiten van het cluster;  
 
-c. organisatie van opleidingsprogramma’s, workshops en conferenties om kennisdeling en netwerking tussen de clusterleden te bevorderen.    
+c. organisatie van opleidingsprogramma’s, workshops en conferenties om kennisdeling en netwerking tussen de clusterleden te bevorderen.   
 
 ### Artikel  23  
 
 ####Subsidiabele kosten aanpassingsproject
 
-Artikel 18, eerste, vierde, vijfde, zesde en negende lid zijn van overeenkomstige toepassing op een aanpassingsproject.  
+Artikel 18, eerste, vierde, vijfde, zesde en negende lid zijn van overeenkomstige toepassing op een aanpassingsproject. 
 
 ### Artikel  24  
 
@@ -515,7 +515,7 @@ a. een natuurlijke persoon of privaatrechtelijke rechtspersoon, die direct of in
 
 – overwegend zeggenschap heeft over een of meer rechtspersonen of vennootschappen, en    
 
-b. laatstbedoelde rechtspersonen of vennootschappen.     
+b. laatstbedoelde rechtspersonen of vennootschappen.    
 
 ### §  4  
 
@@ -559,13 +559,13 @@ i. het maximale aantal vouchers dat door een organisatie, een instelling of de o
 j. de aanvraagformulieren;  
 
 k. de uitvoeringsinstantie.     
-3.  Indien in een subsidieprogramma, bedoeld in het eerste lid is opgenomen dat een aanvrager de vouchers kan uitgeven aan gebruikers van vouchers bevat het subsidieprogramma bepalingen omtrent de wijze van deze uitgifte.   
+3.  Indien in een subsidieprogramma, bedoeld in het eerste lid is opgenomen dat een aanvrager de vouchers kan uitgeven aan gebruikers van vouchers bevat het subsidieprogramma bepalingen omtrent de wijze van deze uitgifte.  
 
 ### Artikel  26  
 
 ####Vaststellen subsidieprogramma de-minimis met uitgifte van vouchers
 
-Indien in een subsidieprogramma is opgenomen dat vouchers kunnen worden verleend als de-minimissteun in de zin van Verordening (EG) nr. 1998/2006 van de Commissie van Europese Gemeenschappen van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (Pb EU 2006, L379), bevat het subsidieprogramma, naast het bepaalde in artikel 25, tevens de voorschriften die de genoemde verordening daaraan stelt.  
+Indien in een subsidieprogramma is opgenomen dat vouchers kunnen worden verleend als de-minimissteun in de zin van Verordening (EG) nr. 1998/2006 van de Commissie van Europese Gemeenschappen van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (Pb EU 2006, L379), bevat het subsidieprogramma, naast het bepaalde in artikel 25, tevens de voorschriften die de genoemde verordening daaraan stelt. 
 
 ### Artikel  27  
 
@@ -574,7 +574,7 @@ Indien in een subsidieprogramma is opgenomen dat vouchers kunnen worden verleend
 1.  De minister kan op aanvraageen voucher verstrekken ten behoeve van een project.   
 2.  Een aanvraag voor een voucher wordt ingediend bij de in het subsidieprogramma genoemde uitvoeringsinstantie, met gebruikmaking van het bij die instantie verkrijgbaar formulier, vastgesteld door de minister.   
 3.  De aanvraag gaat vergezeld van een activiteitenplan en een begroting voor het project, alsmede van andere in het formulier bedoelde bescheiden en gegevens.   
-4.  De vouchers worden verstrekt in volgorde van ontvangst van de aanvragen, met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvulling is ontvangen als datum van ontvangst van de aanvraag geldt.   
+4.  De vouchers worden verstrekt in volgorde van ontvangst van de aanvragen, met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvulling is ontvangen als datum van ontvangst van de aanvraag geldt.  
 
 ### Artikel  28  
 
@@ -584,14 +584,14 @@ Indien in een subsidieprogramma is opgenomen dat vouchers kunnen worden verleend
 2.  De subsidie is niet hoger dan de tegenwaarde van de voucher.   
 3.  De aanvraag wordt ingediend na afloop van de uitvoering van het project waarop de voucher betrekking heeft, en wordt ingediend binnen de geldigheidsduur die op de voucher staat vermeld.   
 4.  In afwijking van artikel 7, tweede en derde lid, gaat een aanvraag als bedoeld in het eerste lid vergezeld van een kopie van de factuur die bij de aanvrager of gebruiker van de voucher is ingediend en een verklaring van de organisatie, instelling of onderneming bedoeld in het eerste lid dat het project waarop de voucher betrekking heeft is uitgevoerd.   
-5.  Subsidie als bedoeld in het eerste lid wordt niet verstrekt indien met de uitvoering van het project al is begonnen voordat de voucher is verstrekt.   
+5.  Subsidie als bedoeld in het eerste lid wordt niet verstrekt indien met de uitvoering van het project al is begonnen voordat de voucher is verstrekt.  
 
 ### Artikel  29  
 
 ####Kosten die in aanmerking komen bij de uitvoering van een project op basis van een voucher
 
 1.  De artikelen 8, 11, 13, 14, 15, en 17 zijn van overeenkomstige toepassing op de aanvraag voor een voucher.   
-2.  In het subsidieprogramma, bedoeld in artikel 26 kunnen andere maximale subsidiepercentages, maximale subsidiebedragen en subsidiabele kosten worden vastgesteld dan opgenomen in deze regeling.   
+2.  In het subsidieprogramma, bedoeld in artikel 26 kunnen andere maximale subsidiepercentages, maximale subsidiebedragen en subsidiabele kosten worden vastgesteld dan opgenomen in deze regeling.  
 
 ### §  5  
 
@@ -613,14 +613,14 @@ Indien in een subsidieprogramma is opgenomen dat vouchers kunnen worden verleend
 10.  De minister voorziet in het secretariaat van de adviescommissie.   
 11.  De bescheiden van de adviescommissie worden na beëindiging van de werkzaamheden van de adviescommissie, per subsidieprogramma, opgenomen in het archief van het Ministerie van Verkeer en Waterstaat.   
 12.  De adviescommissie verstrekt desgevraagd aan de minister de voor de uitoefening van diens taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak in relatie tot het uitvoeren van deze regeling redelijkerwijs nodig is.   
-13.  De adviescommissie stelt na afloop van haar werkzaamheden voor een subsidieprogramma daarover een verslag op. Het verslag wordt aan de minister toegezonden.   
+13.  De adviescommissie stelt na afloop van haar werkzaamheden voor een subsidieprogramma daarover een verslag op. Het verslag wordt aan de minister toegezonden.  
 
 ### Artikel  31  
 
 ####Advisering
 
 1.  De adviescommissie brengt binnen een termijn van acht weken na het in artikel 30, eerste lid bedoelde verzoek een schriftelijk advies uit.   
-2.  Indien het subsidieprogramma voorziet in een verdeling van de subsidie op basis van rangschikking van de aanvragen als bedoeld in artikel 4, tweede lid, geeft de adviescommissie tevens een rangorde van de projecten aan.   
+2.  Indien het subsidieprogramma voorziet in een verdeling van de subsidie op basis van rangschikking van de aanvragen als bedoeld in artikel 4, tweede lid, geeft de adviescommissie tevens een rangorde van de projecten aan.  
 
 ### §  6  
 
@@ -638,8 +638,8 @@ a. sprake is van cofinanciering van een door de Raad van de Europese Unie, het E
 b. over de aanvraag advies wordt ingewonnen, of  
 
 c. een nader onderzoek is ingesteld.     
-3.  De minister beslist over een aanvraag als bedoeld in deze regeling binnen veertig weken indien bij de beoordeling van de aanvraag internationale peerreviews of internationale beoordelingscommissies zijn betrokken.   
-4.  Indien de beslissing op een aanvraag als bedoeld in het eerste lid of tweede lid niet binnen de daar genoemde termijn kan worden gegeven, stelt de minister de aanvrager daarvan in kennis en noemt daarbij een redelijke termijn waarbinnen de beslissing wel tegemoet kan worden gezien.   
+3.  De minister beslist over een aanvraag als bedoeld in deze regeling binnen veertig weken indien bij de beoordeling van de aanvraag internationale peerreviews of internationale beoordelingscommissies zijn betrokken.  
+4.  Indien de beslissing op een aanvraag als bedoeld in het eerste lid of tweede lid niet binnen de daar genoemde termijn kan worden gegeven, stelt de minister de aanvrager daarvan in kennis en noemt daarbij een redelijke termijn waarbinnen de beslissing wel tegemoet kan worden gezien.  
 
 ### Artikel  33  
 
@@ -649,7 +649,7 @@ c. een nader onderzoek is ingesteld.
 2.  Indien het subsidiebedrag dat verleend kan worden aan de subsidieaanvrager wiens aanvraag als eerste in de rangorde is geplaatst lager is dan het subsidieplafond als opgenomen in het subsidieprogramma verleent de minister dat subsidiebedrag.   
 3.  Indien aan de aanvrager van de volgende aanvraag een subsidiebedrag verleend kan worden dat lager is dan het bedrag dat na de beslissing op de eerste aanvraag resteert, verleent de minister ook aan die aanvrager dat subsidiebedrag. Dit wordt herhaald bij de volgende aanvragen in de rangschikking.   
 4.  Indien in de rangorde een aanvraag aan de orde is, waarop een hoger bedrag kan worden verleend dan het bedrag dat van het subsidieplafond resteert, wordt het subsidiebedrag bepaald gelijk aan dat bedrag dat van het subsidieplafond resteert.   
-5.  De minister wijst indien het subsidieplafond is bereikt de resterende aanvragen van de rangschikking af.   
+5.  De minister wijst indien het subsidieplafond is bereikt de resterende aanvragen van de rangschikking af.  
 
 ### Artikel  34  
 
@@ -676,7 +676,7 @@ a. een grote onderneming in moeilijkheden in de zin van de communautaire richtsn
 
 b. een MKB-onderneming in moeilijkheden in de zin van de communautaire richtsnoeren inzake reddings- en herstructureringssteun aan ondernemingen in moeilijkheden (PbEU 2004 C 244) voor projecten als bedoeld in artikel 5, eerste lid, onderdelen k, l, m, n, o en p en kredietsubsidie voor projecten als bedoeld in artikel 5, eerste lid, onderdelen c en e.  
 
-c. een MKB-onderneming in moeilijkheden in de zin van artikel 1, zevende lid, van Verordening (EG) 800/2008 van de Commissie van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard (Pb EU 2008, L 214), voor projecten als bedoeld in artikel 5, eerste lid, onderdelen a, b, c, d, e, f, g, h, i, j en q, met uitzondering van kredietsubsidies voor projecten als bedoeld in artikel 5, onderdelen c en e.     
+c. een MKB-onderneming in moeilijkheden in de zin van artikel 1, zevende lid, van Verordening (EG) 800/2008 van de Commissie van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard (Pb EU 2008, L 214), voor projecten als bedoeld in artikel 5, eerste lid, onderdelen a, b, c, d, e, f, g, h, i, j en q, met uitzondering van kredietsubsidies voor projecten als bedoeld in artikel 5, onderdelen c en e.    
 
 ### §  7  
 
@@ -692,13 +692,13 @@ c. een MKB-onderneming in moeilijkheden in de zin van artikel 1, zevende lid, va
 a. de activiteiten waarvoor de subsidie is verstrekt niet, niet tijdig of niet geheel zullen worden verricht, of  
 
 b. niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.     
-3.  Indien de subsidieontvanger niet aan zijn verplichtingen als bedoeld in het eerste lid kan voldoen, kan de minister op verzoek van de subsidieontvanger in het geval van het vertragen, het essentieel wijzigen of het stopzetten van het project de beschikking tot subsidieverlening wijzigen of intrekken met in achtneming van het bepaalde in het subsidieprogramma.   
+3.  Indien de subsidieontvanger niet aan zijn verplichtingen als bedoeld in het eerste lid kan voldoen, kan de minister op verzoek van de subsidieontvanger in het geval van het vertragen, het essentieel wijzigen of het stopzetten van het project de beschikking tot subsidieverlening wijzigen of intrekken met in achtneming van het bepaalde in het subsidieprogramma. 
 
 ### Artikel  36  
 
 ####Administratieve verplichtingen
 
-1.  De subsidieontvanger voert een zodanige administratie waaruit te allen tijde op eenvoudige en eenduidige wijze valt af te leiden: 
+1. De subsidieontvanger voert een zodanige administratie waaruit te allen tijde op eenvoudige en eenduidige wijze valt af te leiden: 
 
 a. de aard, inhoud en voortgang van de verrichte werkzaamheden;  
 
@@ -706,9 +706,9 @@ b. indien van toepassing het aantal uren dat per werknemer is besteed aan het pr
 
 c. voor zover van toepassing de berekening en samenstelling van het integrale uurtarief en de specifiek ten behoeve van het project gemaakte en betaalde kosten voor zover deze niet zijn opgenomen in het integrale uurtarief;  
 
-d. de aan de activiteiten verbonden uitgaven en inkomsten.     
+d. de aan de activiteiten verbonden uitgaven en inkomsten.   
 2.  Indien de subsidie minder bedraagt dan € 125.000,– is het eerste lid niet van toepassing. In dat geval beschikt de subsidieontvanger tot vijf jaar na datum van de beschikking tot subsidievaststelling over die gegevens die nodig zijn om desgevraagd aan te tonen dat de subsidiabele activiteiten zijn verricht en dat is voldaan aan de verplichtingen.   
-3.  Indien de risico-analyse van het subsidieprogramma daartoe aanleiding geeft, kan in het in het subsidieprogramma aangegeven worden in hoeverre toepassing wordt gegeven aan het eerste lid.   
+3.  Indien de risico-analyse van het subsidieprogramma daartoe aanleiding geeft, kan in het in het subsidieprogramma aangegeven worden in hoeverre toepassing wordt gegeven aan het eerste lid. 
 
 ### Artikel  37  
 
@@ -717,19 +717,19 @@ d. de aan de activiteiten verbonden uitgaven en inkomsten.
 1.  De subsidieontvanger doet onverwijld mededeling aan de minister van de indiening bij de rechtbank van een verzoek tot surseance van betaling, tot faillietverklaring of van andere omstandigheden die voor de subsidieverlening van belang kunnen zijn.   
 2.  De subsidieontvanger doet onverwijld nadat de rechtspersoon of vennootschap is vervreemd dan wel de statutaire zetel is verplaatst, daarvan mededeling aan de minister.   
 3.  De subsidieontvanger doet onverwijld nadat een of meer deelnemers van een vennootschap zijn uitgetreden, daarvan mededeling aan de minister.   
-4.  Bij het voornemen tot ontbinding van de rechtspersoon of vennootschap doet degene die feitelijk leiding geeft aan de rechtspersoon of vennootschap, daarvan onverwijld mededeling aan de minister.   
+4.  Bij het voornemen tot ontbinding van de rechtspersoon of vennootschap doet degene die feitelijk leiding geeft aan de rechtspersoon of vennootschap, daarvan onverwijld mededeling aan de minister.  
 
 ### Artikel  38  
 
 ####Openbaarmaking
 
 1.  De subsidieontvanger verleent op verzoek van de minister medewerking aan openbaarmaking van de gegevens en de resultaten van het project.   
-2.  De subsidieontvanger verleent medewerking aan een door of vanwege de minister ter zake van de toepassing en de effecten van het desbetreffende subsidieprogramma of de toepassing van deze regeling ingesteld evaluatieonderzoek.   
+2.  De subsidieontvanger verleent medewerking aan een door of vanwege de minister ter zake van de toepassing en de effecten van het desbetreffende subsidieprogramma of de toepassing van deze regeling ingesteld evaluatieonderzoek.  
 
 ### Artikel  39  
 
-1.  Indien bij een subsidie van € 25.000,– of meer de periode van uitvoering van de activiteiten die voor subsidie in aanmerking komen, meer dan twaalf maanden in beslag neemt, kan in de beschikking tot subsidieverlening de verplichting worden opgelegd tot indiening van één of meer rapportages, waarbij geldt dat ten hoogste één rapportage per periode van twaalf maanden kan worden voorgeschreven.   
-2.  In de beschikking tot subsidieverlening kan worden opgenomen op welke wijze de subsidieontvanger op verzoek kan aantonen dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.   
+1. Indien bij een subsidie van € 25.000,– of meer de periode van uitvoering van de activiteiten die voor subsidie in aanmerking komen, meer dan twaalf maanden in beslag neemt, kan in de beschikking tot subsidieverlening de verplichting worden opgelegd tot indiening van één of meer rapportages, waarbij geldt dat ten hoogste één rapportage per periode van twaalf maanden kan worden voorgeschreven. 
+2. In de beschikking tot subsidieverlening kan worden opgenomen op welke wijze de subsidieontvanger op verzoek kan aantonen dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
 ### Artikel  40  
 
@@ -745,7 +745,7 @@ c. de subsidieontvanger draagt zorg voor de bescherming van octrooieerbare kenni
 
 d. de subsidieontvanger draagt kennis en andere resultaten over aan derden, al dan niet op verzoek van derden, op basis van marktconforme voorwaarden.     
 2.  De minister kan bij een samenwerkingsverband tussen een onderneming en een onderzoeksinstelling bepalen dat de subsidieontvanger er voor zorg draagt dat de onderzoeksinstelling een vergoeding ontvangt die overeenstemt met de marktprijs voor de intellectuele-eigendomsrechten die voortvloeien uit de door de onderzoeksinstelling uitgevoerde activiteit en die worden overgedragen aan de onderneming.   
-3.  De minister kan in de beschikking tot subsidieverlening nadere verplichtingen opleggen, voor zover zij gericht zijn op het verwezenlijken van het doel van de subsidie.   
+3.  De minister kan in de beschikking tot subsidieverlening nadere verplichtingen opleggen, voor zover zij gericht zijn op het verwezenlijken van het doel van de subsidie.  
 
 ### §  8  
 
@@ -758,7 +758,7 @@ d. de subsidieontvanger draagt kennis en andere resultaten over aan derden, al d
 1.  Indien een kredietsubsidie is verstrekt betaalt de subsidieontvanger de verleende subsidie, vermeerderd met de rente ingevolge het in het subsidieprogramma opgenomen rentepercentage, terug aan de minister.   
 2.  Bij toepassing van het bepaalde in artikel 2, negende lid, onderdeel d, betaalt de subsidieontvanger tevens de daar bedoelde vergoeding aan de minister.   
 3.  In de beschikking tot subsidieverlening bepaalt de minister wanneer uiterlijk welk deel van de verstrekte subsidie, inclusief de rente wordt terugbetaald en wanneer uiterlijk welk deel van de vergoeding bedoeld in het tweede lid, indien van toepassing wordt betaald.   
-4.  De minister kan in de beschikking tot subsidieverlening nadere verplichtingen opleggen, die in ieder geval betrekking kunnen hebben op de zekerheidsstelling voor de terugbetaling van de subsidie.   
+4.  De minister kan in de beschikking tot subsidieverlening nadere verplichtingen opleggen, die in ieder geval betrekking kunnen hebben op de zekerheidsstelling voor de terugbetaling van de subsidie.  
 
 ### Artikel  42  
 
@@ -766,7 +766,7 @@ d. de subsidieontvanger draagt kennis en andere resultaten over aan derden, al d
 
 1.  Indien toepassing is gegeven aan artikel 35, derde lid in verband met onoverkomelijke problemen of het verloren gaan van het marktperspectief, kan de minister bij een kredietsubsidie, totdat een aanvraag tot subsidievaststelling is ingediend, op aanvraag van de subsidieontvanger, ontheffing verlenen van de verplichting de verstrekte subsidie inclusief rente, terug te betalen.   
 2.  De minister kan nadat een aanvraag tot subsidievaststelling is ingediend, op aanvraag van de subsidieontvanger, ontheffing verlenen van de terugbetalingsverplichting indien deze verplichting leidt tot zodanige financiële problemen voor de subsidieontvanger dat het voortbestaan van zijn onderneming in gevaar komt.   
-3.  Aan de ontheffingen, bedoeld in het eerste en tweede lid, kunnen voorschriften worden verbonden.   
+3.  Aan de ontheffingen, bedoeld in het eerste en tweede lid, kunnen voorschriften worden verbonden.  
 
 ### §  9  
 
@@ -776,7 +776,7 @@ d. de subsidieontvanger draagt kennis en andere resultaten over aan derden, al d
 
 ####Voorwaarde garantiesubsidie
 
-Indien een garantiesubsidie is verstrekt, verbindt de minister aan de subsidie de opschortende voorwaarde dat een in het vastgesteld subsidieprogramma bepaalde gebeurtenis binnen een in het subsidieprogramma vermelde termijn zich voordoet.  
+Indien een garantiesubsidie is verstrekt, verbindt de minister aan de subsidie de opschortende voorwaarde dat een in het vastgesteld subsidieprogramma bepaalde gebeurtenis binnen een in het subsidieprogramma vermelde termijn zich voordoet. 
 
 ### §  10  
 
@@ -784,10 +784,10 @@ Indien een garantiesubsidie is verstrekt, verbindt de minister aan de subsidie d
 
 ### Artikel  44  
 
-1.  De minister verstrekt ambtshalve voorschotten voor een subsidie die nog niet is vastgesteld.   
-2.  Indien de subsidie € 25.000,– of minder bedraagt vindt betaling van het voorschot van 100% van de maximale hoogte van de subsidie in één keer plaats na de datum genoemd in de beschikking tot subsidieverlening.   
-3.  Indien op basis van het subsidieprogramma subsidies kunnen worden verleend van € 25.000,– of meer bedraagt het maximaal te verlenen voorschot 80 procent van de maximale hoogte van de subsidie. In het subsidieprogramma kan een ander percentage worden opgenomen, tot een maximum van 90 procent.   
-4.  Indien de subsidie € 25.000,– of meer bedraagt worden de tijdstippen van uitbetaling van de voorschotbedragen, de hoogte van de voorschotbedragen en eventuele mijlpalen in de beschikking tot subsidieverlening opgenomen.   
+1.  De minister verstrekt ambtshalve voorschotten voor een subsidie die nog niet is vastgesteld.  
+2.  Indien de subsidie € 25.000,– of minder bedraagt vindt betaling van het voorschot van 100% van de maximale hoogte van de subsidie in één keer plaats na de datum genoemd in de beschikking tot subsidieverlening.  
+3.  Indien op basis van het subsidieprogramma subsidies kunnen worden verleend van € 25.000,– of meer bedraagt het maximaal te verlenen voorschot 80 procent van de maximale hoogte van de subsidie. In het subsidieprogramma kan een ander percentage worden opgenomen, tot een maximum van 90 procent.  
+4.  Indien de subsidie € 25.000,– of meer bedraagt worden de tijdstippen van uitbetaling van de voorschotbedragen, de hoogte van de voorschotbedragen en eventuele mijlpalen in de beschikking tot subsidieverlening opgenomen. 
 
 ### §  11  
 
@@ -795,9 +795,9 @@ Indien een garantiesubsidie is verstrekt, verbindt de minister aan de subsidie d
 
 ### Artikel  45  
 
-1.  Een aanvraag tot subsidievaststelling, indien daaraan voorafgaand een beschikking tot subsidieverlening is gegeven, wordt ingediend binnen dertien weken na het tijdstip waarop de activiteiten waarvoor de subsidie is verleend zijn voltooid dan wel binnen een in het subsidieprogramma of de beschikking tot subsidieverlening opgenomen langere termijn.   
-2.  De aanvraag wordt ingediend met gebruikmaking van een bij de in het subsidieprogramma genoemde uitvoeringsinstantie verkrijgbaar formulier, en gaat vergezeld van de in het formulier aangegeven bescheiden.   
-3.  In het subsidieprogramma wordt voor subsidies die tussen € 25.000,– en € 125.000,– bedragen, opgenomen of een verklaring inzake werkelijke kosten en opbrengsten is vereist. Indien een dergelijke verklaring is vereist, geeft de subsidieontvanger hierbij aan: 
+1. Een aanvraag tot subsidievaststelling, indien daaraan voorafgaand een beschikking tot subsidieverlening is gegeven, wordt ingediend binnen dertien weken na het tijdstip waarop de activiteiten waarvoor de subsidie is verleend zijn voltooid dan wel binnen een in het subsidieprogramma of de beschikking tot subsidieverlening opgenomen langere termijn.
+2. De aanvraag wordt ingediend met gebruikmaking van een bij de in het subsidieprogramma genoemde uitvoeringsinstantie verkrijgbaar formulier, en gaat vergezeld van de in het formulier aangegeven bescheiden.
+3. In het subsidieprogramma wordt voor subsidies die tussen € 25.000,– en € 125.000,– bedragen, opgenomen of een verklaring inzake werkelijke kosten en opbrengsten is vereist. Indien een dergelijke verklaring is vereist, geeft de subsidieontvanger hierbij aan:
 
 a. dat de activiteiten waarvoor de subsidie is verleend zijn verricht, voorzien van een korte toelichting;  
 
@@ -809,50 +809,50 @@ d. wat, in voorkomend geval, de stand van de egalisatiereserve is;
 
 e. wat het totale bedrag van de gerealiseerde opbrengsten inclusief bijdragen van derden is, en,  
 
-f. wat het totale bedrag van de gerealiseerde eigen bijdrage is.     
-4.  Indien het subsidiebedrag € 125.000,– of meer bedraagt, wordt rekening en verantwoording afgelegd omtrent de verrichte activiteiten en de daaraan verbonden kosten en een accountantsverklaring overlegd volgens het in de bijlage opgenomen model.   
-5.  Indien de risico-analyse van het subsidieprogramma daartoe aanleiding geeft kan in het subsidieprogramma worden opgenomen dat de aanvraag niet vergezeld hoeft te gaan van een accountantsverklaring.   
+f. wat het totale bedrag van de gerealiseerde eigen bijdrage is.  
+4. Indien het subsidiebedrag € 125.000,– of meer bedraagt, wordt rekening en verantwoording afgelegd omtrent de verrichte activiteiten en de daaraan verbonden kosten en een accountantsverklaring overlegd volgens het in de bijlage opgenomen model.
+5. Indien de risico-analyse van het subsidieprogramma daartoe aanleiding geeft kan in het subsidieprogramma worden opgenomen dat de aanvraag niet vergezeld hoeft te gaan van een accountantsverklaring.
 
 ### Artikel  46  
 
-1.  De minister geeft een beschikking tot subsidievaststelling binnen tweeëntwintig weken na ontvangst van de aanvraag tot vaststelling van de subsidie.   
-2.  In afwijking van het eerste lid geeft de minister, indien een beschikking tot subsidieverlening tevens de subsidievaststelling inhoudt, de beschikking binnen dertien weken na ontvangst van de aanvraag van de subsidie.   
-3.  Indien de beschikking niet tijdig kan worden gegeven, stelt de minister de betrokkene daarvan in kennis en noemt daarbij een redelijke termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
+1.  De minister geeft een beschikking tot subsidievaststelling binnen tweeëntwintig weken na ontvangst van de aanvraag tot vaststelling van de subsidie.  
+2.  In afwijking van het eerste lid geeft de minister, indien een beschikking tot subsidieverlening tevens de subsidievaststelling inhoudt, de beschikking binnen dertien weken na ontvangst van de aanvraag van de subsidie. 
+3. Indien de beschikking niet tijdig kan worden gegeven, stelt de minister de betrokkene daarvan in kennis en noemt daarbij een redelijke termijn waarbinnen de beschikking wel tegemoet kan worden gezien.
 
 ### Artikel  47  
 
 ####Afwijkende verantwoordingsprocedure
 
 1.  De minister kan, indien een provincie of een gemeente voor een subsidie in aanmerking komt, in een subsidieprogramma afwijken van het bepaalde in de artikelen 35 tot en met 40 en 44 tot en met 46.   
-2.  De minister kan, indien het project waarvoor een subsidie wordt verleend niet valt onder de reikwijdte van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie (Pb EU 2006/C 323), de Communautaire richtsnoeren inzake staatssteun voor milieubescherming (PB EU 2008/ C 82), of de Verordening (EG) 800/2008 van de Commissie van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard (Pb EU 2008, L 214), in een subsidieprogramma afwijken van het bepaalde in de artikelen 36 tot en met 40 en 44 tot en met 46.   
+2.  De minister kan, indien het project waarvoor een subsidie wordt verleend niet valt onder de reikwijdte van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie (Pb EU 2006/C 323), de Communautaire richtsnoeren inzake staatssteun voor milieubescherming (PB EU 2008/ C 82), of de Verordening (EG) 800/2008 van de Commissie van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard (Pb EU 2008, L 214), in een subsidieprogramma afwijken van het bepaalde in de artikelen 36 tot en met 40 en 44 tot en met 46.  
 
 ### Artikel  48  
 
 ####Intrekking [Regeling personenvervoer van deur tot deur en op maat](../../../../../../../../ministeriele-regeling/regeling/personenvervoer/van/deur/tot/deur/en/op/maat/BWBR0010372/README.md)
 
-De [Regeling personenvervoer van deur tot deur en op maat](../../../../../../../../ministeriele-regeling/regeling/personenvervoer/van/deur/tot/deur/en/op/maat/BWBR0010372/README.md) wordt ingetrokken met dien verstande dat deze van toepassing blijft op subsidies die voor de inwerkingtreding van deze regeling zijn verleend.  
+De [Regeling personenvervoer van deur tot deur en op maat](../../../../../../../../ministeriele-regeling/regeling/personenvervoer/van/deur/tot/deur/en/op/maat/BWBR0010372/README.md) wordt ingetrokken met dien verstande dat deze van toepassing blijft op subsidies die voor de inwerkingtreding van deze regeling zijn verleend. 
 
 ### Artikel  49  
 
 ####Inwerkingtreding
 
 1.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.   
-2.  Deze regeling vervalt zes jaar na het tijdstip van inwerkingtreding daarvan, met dien verstande dat zij van toepassing blijft op subsidies die voor de vervaldatum zijn verleend.   
+2.  Deze regeling vervalt zes jaar na het tijdstip van inwerkingtreding daarvan, met dien verstande dat zij van toepassing blijft op subsidies die voor de vervaldatum zijn verleend.  
 
 ### Artikel  50  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Kaderregeling subsidies duurzaamheid verkeer en waterstaat.  
+Deze regeling wordt aangehaald als: Kaderregeling subsidies duurzaamheid verkeer en waterstaat. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings 
+C.M.P.S. Eurlings   
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-J.C.Huizinga-Heringa  
+J.C. Huizinga-Heringa    
 
 ### Bijlage  
 
@@ -862,25 +862,25 @@ J.C.Huizinga-Heringa
 
 ### 1  
 
-####Uitgangspunten
+#### Uitgangspunten
 
 ### 1.1  
 
-####Doelstelling
+#### Doelstelling
 
-Dit controleprotocol heeft als doel het geven van aanwijzingen omtrent de reikwijdte en de intensiteit van de controle aan de accountant, die is belast met de controle van de, door de subsidieontvanger, bij het Ministerie van Infrastructuur en Milieu (hierna te noemen IenM) in te dienen aanvraag om subsidievaststelling. De controle kan worden uitgevoerd door een accountant als bedoeld in [artikel 393, eerste lid van boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).  
+Dit controleprotocol heeft als doel het geven van aanwijzingen omtrent de reikwijdte en de intensiteit van de controle aan de accountant, die is belast met de controle van de, door de subsidieontvanger, bij het Ministerie van Infrastructuur en Milieu (hierna te noemen IenM) in te dienen aanvraag om subsidievaststelling. De controle kan worden uitgevoerd door een accountant als bedoeld in [artikel 393, eerste lid van boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). 
 
 ### 1.2  
 
-####Procedures
+#### Procedures
 
 ####Reviewbeleid Ministerie van Infrastructuur en Milieu
 
-De Departementale Auditdienst van het Ministerie van Infrastructuur en Milieu of een andere door deze dienst aangewezen accountant(sdienst) kan een review uitvoeren op de uitgevoerde accountantscontrole inzake deze subsidie. De accountant, die de controle uitvoert, verstrekt de Auditdienst desgevraagd alle inlichtingen en bescheiden . De eventuele extra kosten van deze accountant in verband met de review zijn niet voor rekening van het ministerie. <sup> 1  Krachtens de Comptabiliteitswet 2001 (artikelen 43, 43a) heeft de Minister bij – commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen die een beroep of bedrijf uitoefenen aan wie door de Staat of een derde voor rekening of risico van de Staat rechtstreeks of middellijk een subsidie, een lening of garantie wordt verstrekt – het recht nadere inlichtingen in te winnen n.a.v. terzake ontvangen bescheiden.   Ook zijn onze Ministers bevoegd inzage te vorderen in de controledossiers van de accountant die de betreffende bescheiden heeft gecontroleerd om te bepalen of bij de vaststelling kan worden gesteund op de door deze accountant uitgevoerde controle. Met betrekking tot het verlenen van inzage in het controledossier kan de accountant zich niet beroepen op de omstandigheid dat hij op grond van andere bij of krachtens de wet opgelegde verplichtingen tot geheimhouding is verplicht van in dit dossier opgenomen vertrouwelijke gegevens. Onze Ministers zijn bevoegd van stukken inzake de betreffende controle uit de controledossiers kopieën te maken.  </sup>  
+De Departementale Auditdienst van het Ministerie van Infrastructuur en Milieu of een andere door deze dienst aangewezen accountant(sdienst) kan een review uitvoeren op de uitgevoerde accountantscontrole inzake deze subsidie. De accountant, die de controle uitvoert, verstrekt de Auditdienst desgevraagd alle inlichtingen en bescheiden<sup> 1 Krachtens de Comptabiliteitswet 2001 (artikelen 43, 43a) heeft de Minister bij – commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen die een beroep of bedrijf uitoefenen aan wie door de Staat of een derde voor rekening of risico van de Staat rechtstreeks of middellijk een subsidie, een lening of garantie wordt verstrekt – het recht nadere inlichtingen in te winnen n.a.v. terzake ontvangen bescheiden. Ook zijn onze Ministers bevoegd inzage te vorderen in de controledossiers van de accountant die de betreffende bescheiden heeft gecontroleerd om te bepalen of bij de vaststelling kan worden gesteund op de door deze accountant uitgevoerde controle. Met betrekking tot het verlenen van inzage in het controledossier kan de accountant zich niet beroepen op de omstandigheid dat hij op grond van andere bij of krachtens de wet opgelegde verplichtingen tot geheimhouding is verplicht van in dit dossier opgenomen vertrouwelijke gegevens. Onze Ministers zijn bevoegd van stukken inzake de betreffende controle uit de controledossiers kopieën te maken. </sup>. De eventuele extra kosten van deze accountant in verband met de review zijn niet voor rekening van het ministerie. 
 
 ### 1.3  
 
-####Wet- en regelgeving
+#### Wet- en regelgeving
 
 Voor de controle van de rechtmatigheid volgens dit protocolis de volgende wet- en regelgeving (incl. eventuele wijzigingen) van toepassing: 
 
@@ -888,11 +888,11 @@ Voor de controle van de rechtmatigheid volgens dit protocolis de volgende wet- e
 
 – Het subsidieprogramma op basis waarvan de subsidie verleend is;  
 
-– Eventuele specifieke subsidievoorwaarden volgens de beschikking tot subsidieverlening met directe financiële gevolgen voor de subsidieverantwoording;    
+– Eventuele specifieke subsidievoorwaarden volgens de beschikking tot subsidieverlening met directe financiële gevolgen voor de subsidieverantwoording;   
 
 ### 2  
 
-####Controleaanpak
+#### Controleaanpak
 
 ### 2.1  
 
@@ -916,11 +916,11 @@ o welke de aard en de omvang is van verrichte deelwaarnemingen op in de verantwo
 
 o dat een cijferbeoordeling is uitgevoerd van de werkelijk verantwoorde kosten ten opzichte van de begrote kosten;  
 
-o dat de accountant heeft gecontroleerd of de Europese aanbestedingsrichtlijnen door de instelling – indien van toepassing – zijn nageleefd; <sup> 2  Bedrijven/instellingen die in totaal voor meer dan 50% gesubsidieerd worden door aanbestedende diensten zijn daarmee zelf ook aanbestedende dienst geworden.  </sup>      
+o dat de accountant heeft gecontroleerd of de Europese aanbestedingsrichtlijnen door de instelling – indien van toepassing<sup> 2 Bedrijven/instellingen die in totaal voor meer dan 50% gesubsidieerd worden door aanbestedende diensten zijn daarmee zelf ook aanbestedende dienst geworden. </sup>– zijn nageleefd;     
 
 ### 2.2  
 
-####Goedkeuringstoleranties en gewenste zekerheid
+#### Goedkeuringstoleranties en gewenste zekerheid
 
 Bij zijn oordeelsvorming over de naleving van de subsidievoorwaarden streeft de accountant naar een redelijke mate van zekerheid. Indien dit begrip voor het gebruik van statistische technieken gekwantificeerd moet worden, moet uitgegaan worden van een betrouwbaarheid van 95 procent. Een accountantsverklaring met een goedkeurende strekking impliceert dat, gegeven eerder genoemde betrouwbaarheid, de meest waarschijnlijke fout in de financiële verantwoording niet groter is dan één procent van het totaal financieel belang van die verantwoording. De hierna vermelde tabel van toepassing.  
 
@@ -929,17 +929,17 @@ Bij zijn oordeelsvorming over de naleving van de subsidievoorwaarden streeft de 
 | Fouten in de verantwoording  | ≤1%  | > 1% en ≤ 3%  | N.v.t.  | > 3%  |
 | Onzekerheden in de controle  | ≤3%  | > 3% en ≤ 10%  | > 10%  | N.v.t.  |
 
-Genoemde percentages zijn ontleend aan het Handboek Auditing Rijksoverheid (HARo) van het Interdepartementaal Overleg Departementale Auditdiensten (IODAD).  
+Genoemde percentages zijn ontleend aan het Handboek Auditing Rijksoverheid (HARo) van het Interdepartementaal Overleg Departementale Auditdiensten (IODAD). 
 
 ### 2.3  
 
-####Definitie rechtmatigheidsfouten en -onzekerheden
+#### Definitie rechtmatigheidsfouten en -onzekerheden
 
 Van een rechtmatigheidsfout in de verantwoording is sprake indien naar aanleiding van het uitgevoerde onderzoek is gebleken dat een (gedeelte van een) post niet voldoet aan de geldende wet- en regelgeving (zie ook paragraaf 1.3). Rechtmatigheidsfouten worden in absolute zin opgevat; saldering van fouten isdaarom niet toegestaan. Van een rechtmatigheidsonzekerheid in het onderzoek is sprake als er onvoldoende controle-informatie beschikbaar is om een (gedeelte van een) post als goed of fout aan te merken. Kortom als onzekerheid bestaat over het wel of niet voldoen aan de eisen. Bij fouten in de verantwoording kan onderscheid gemaakt worden in incidentele en structurele fouten. Van een incidentele fout is sprake als het een toevallige fout betreft. Kenmerkend voor incidentele fouten is dat in principe geen herhaling optreedt van de geconstateerde fout. Van een structurele fout is sprake als de oorzaak van de fout is gelegen in (onderdelen van) het systeem van uitvoering, waardoor fouten met een (zeker) herhalingskarakter (kunnen) optreden. Het voorgaande is van overeenkomstige toepassing op onzekerheden in de controles. Voor een adequate onderbouwing van het oordeel is het noodzakelijk dat de accountant fouten en onzekerheden zoveel mogelijk kwantificeert. 
 
 ####Omgaan met geconstateerde fouten en onzekerheden
 
-Onderscheid moet gemaakt worden tussen materiële en niet-materiële fouten. Materiële fouten, die niet worden gecorrigeerd, leiden tot een andere dan een goedkeurende strekking van de accountantsverklaring (cf. tabel par. 2.2). Voor niet-materiële fouten, die bij de accountantscontrole blijken, is het uitgangspunt dat gevonden fouten in eerste instantie worden gecorrigeerd. Voor zover dat niet gebeurt, worden individuele fouten boven een belang van 0,1% van het absolute financieel belang (dus geen saldering van uitgaven en inkomsten) van de financiële verantwoording door de accountant in zijn bevindingen rapport gerapporteerd. Het ministerie van VenW beoordeelt in hoeverre deze fouten tot correcties leiden.  
+Onderscheid moet gemaakt worden tussen materiële en niet-materiële fouten. Materiële fouten, die niet worden gecorrigeerd, leiden tot een andere dan een goedkeurende strekking van de accountantsverklaring (cf. tabel par. 2.2). Voor niet-materiële fouten, die bij de accountantscontrole blijken, is het uitgangspunt dat gevonden fouten in eerste instantie worden gecorrigeerd. Voor zover dat niet gebeurt, worden individuele fouten boven een belang van 0,1% van het absolute financieel belang (dus geen saldering van uitgaven en inkomsten) van de financiële verantwoording door de accountant in zijn bevindingen rapport gerapporteerd. Het ministerie van VenW beoordeelt in hoeverre deze fouten tot correcties leiden. 
 
 ### 3  
 
@@ -953,17 +953,17 @@ De accountant legt de uitkomsten van de controle vast in een accountantsverslag,
 
 ####Opdracht
 
-Wij hebben bijgevoegde en door ons gewaarmerkte aanvraag tot subsidievaststelling ingevolge het Subsidieprogramma ...........(naam subsidieprogramma) van ........... (naam entiteit) te ........... (statutaire vestigingsplaats) over de periode dd/mm/jj tot en met dd/mm/jj gecontroleerd. De aanvraag tot subsidievaststelling is opgesteld onder verantwoordelijkheid van het bestuur van de entiteit . Het is onze verantwoordelijkheid een accountantsverklaring inzake de declaratie te verstrekken. <sup> 3  Aanvangsdatum activiteiten  </sup> <sup> 4  Einddatum van het project waarvoor subsidie is verleend (zie hiervoor de beschikking tot subsidieverlening)  </sup> <sup> 5  Afhankelijk van de aard van de entiteit te vervangen door een meer passende aanduiding zoals ‘het bestuur van de vennootschap’(BV/NV), ‘vereniging’, ‘stichting’ enz.  </sup>  
+Wij hebben bijgevoegde en door ons gewaarmerkte aanvraag tot subsidievaststelling ingevolge het Subsidieprogramma ...........(naam subsidieprogramma) van ........... (naam entiteit) te ........... (statutaire vestigingsplaats) over de periode dd/mm/jj<sup> 3 Aanvangsdatum activiteiten </sup>tot en met dd/mm/jj<sup> 4 Einddatum van het project waarvoor subsidie is verleend (zie hiervoor de beschikking tot subsidieverlening) </sup>gecontroleerd. De aanvraag tot subsidievaststelling is opgesteld onder verantwoordelijkheid van het bestuur van de entiteit<sup> 5 Afhankelijk van de aard van de entiteit te vervangen door een meer passende aanduiding zoals ‘het bestuur van de vennootschap’(BV/NV), ‘vereniging’, ‘stichting’ enz. </sup>. Het is onze verantwoordelijkheid een accountantsverklaring inzake de declaratie te verstrekken. 
 
 ####Werkzaamheden
 
-Wij hebben onze controle verricht in overeenstemming met Nederlands recht, en het controleprotocol voor subsidies waarop de Kaderregeling subsidies duurzaamheid verkeer en waterstaat van toepassing is. Dienovereenkomstig dienen wij onze controle zodanig te plannen en uit te voeren, dat een redelijke mate van zekerheid wordt verkregen dat de subsidiedeclaratie geen afwijkingen van materieel belang bevat. Een controle omvat onder meer een onderzoek door middel van deelwaarnemingen van relevante gegevens. Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel.  
+Wij hebben onze controle verricht in overeenstemming met Nederlands recht, en het controleprotocol voor subsidies waarop de Kaderregeling subsidies duurzaamheid verkeer en waterstaat van toepassing is. Dienovereenkomstig dienen wij onze controle zodanig te plannen en uit te voeren, dat een redelijke mate van zekerheid wordt verkregen dat de subsidiedeclaratie geen afwijkingen van materieel belang bevat. Een controle omvat onder meer een onderzoek door middel van deelwaarnemingen van relevante gegevens. Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel. 
 
 ####Oordeel
 
-Naar ons oordeel geeft de aanvraag tot subsidievaststelling de financiële verantwoording ten bedrage van EUR................. in alle van materieel belang zijnde aspecten juist en volledig weer, in overeenstemming met het controleprotocol van het Ministerie van IenM van toepassing op subsidieprogramma’s gepubliceerd onder de Kaderregeling subsidies duurzaamheid verkeer en waterstaat en de relevante wet- en regelgeving genoemd in dit controleprotocol. <sup> 6  Het bedrag van de totale subsidiabele projectkosten waarover subsidie wordt aangevraagd conform het formulier ‘aanvraag tot subsidievaststelling’.  </sup> Indien sprake is van een investeringssubsidie dient in het oordeel aangegeven worden dat de gesubsidieerde voorzieningen in Nederland in gebruik zijn genomen.  
+Naar ons oordeel geeft de aanvraag tot subsidievaststelling de financiële verantwoording ten bedrage van EUR.................<sup> 6 Het bedrag van de totale subsidiabele projectkosten waarover subsidie wordt aangevraagd conform het formulier ‘aanvraag tot subsidievaststelling’. </sup>in alle van materieel belang zijnde aspecten juist en volledig weer, in overeenstemming met het controleprotocol van het Ministerie van IenM van toepassing op subsidieprogramma’s gepubliceerd onder de Kaderregeling subsidies duurzaamheid verkeer en waterstaat en de relevante wet- en regelgeving genoemd in dit controleprotocol. Indien sprake is van een investeringssubsidie dient in het oordeel aangegeven worden dat de gesubsidieerde voorzieningen in Nederland in gebruik zijn genomen. 
 
-####Overige aspecten- beperking in het gebruik (en verspreidingskring)
+####Overige aspecten- beperking in het gebruik (en verspreidingskring)<sup> 7  Deze paragraaf kan, vooruitlopend op de implementatie van ISA 800 (revised) optioneel worden toegepast.  </sup> 
 
-<sup> 7  Deze paragraaf kan, vooruitlopend op de implementatie van ISA 800 (revised) optioneel worden toegepast.  </sup>  De subsidiedeclaratie van ............... (naam entiteit) en onze verklaring daarbij zijn uitsluitend bedoeld voor ............... (naam entiteit) ter verantwoording aan ............... (naam subsidiegever) en kunnen derhalve niet voor andere doeleinden worden gebruikt. Plaats, datum Naam accountantspraktijk Naam externe accountant en ondertekening met die naam  
+De subsidiedeclaratie van ............... (naam entiteit) en onze verklaring daarbij zijn uitsluitend bedoeld voor ............... (naam entiteit) ter verantwoording aan ............... (naam subsidiegever) en kunnen derhalve niet voor andere doeleinden worden gebruikt. Plaats, datum Naam accountantspraktijk Naam externe accountant en ondertekening met die naam 
 

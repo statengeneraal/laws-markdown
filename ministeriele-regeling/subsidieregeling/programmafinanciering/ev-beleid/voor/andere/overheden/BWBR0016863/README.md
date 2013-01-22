@@ -18,14 +18,14 @@ b. provinciaal programma: een samenhangende verzameling van deelprojecten binnen
 
 c. externeveiligheidsbeleid: het beleid gericht op de verbetering van de veiligheid buiten inrichtingen waar gevaarlijke stoffen aanwezig zijn en buiten transportroutes en buisleidingen waarover of waardoor gevaarlijke stoffen worden vervoerd, voor zover die veiligheid kan worden beïnvloed door een ongeval waarbij gevaarlijke stoffen zijn betrokken, alsmede verbetering van de veiligheid buiten luchthaventerreinen;  
 
-d. de minister: de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.    
+d. de minister: de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.   
 
 ### Artikel  2  
 
 ####Doel
 
 1.  Deze regeling heeft tot doel het stimuleren van de uitvoering van het externeveiligheidsbeleid en het bevorderen van de samenwerking door gemeenten, provincies en regionale samenwerkingsverbanden op het gebied van externe veiligheid.   
-2.  Subsidie kan worden verstrekt op aanvraag van een provincie ter zake van de kosten van activiteiten die zijn opgenomen in een provinciaal programma als bedoeld in artikel 3 en naar het oordeel van de minister bijdragen aan de realisatie van de doelstellingen van de subsidieregeling. De activiteiten moeten voor 1 april 2006 zijn afgerond.   
+2.  Subsidie kan worden verstrekt op aanvraag van een provincie ter zake van de kosten van activiteiten die zijn opgenomen in een provinciaal programma als bedoeld in artikel 3 en naar het oordeel van de minister bijdragen aan de realisatie van de doelstellingen van de subsidieregeling. De activiteiten moeten voor 1 april 2006 zijn afgerond.  
 
 ### Artikel  3  
 
@@ -56,7 +56,7 @@ i. organisatorische versterking en professionalisering op het gebied van externe
 2°. externe veiligheid onderdeel maken van gemeentelijk en provinciaal handhavingsprogramma,  
 
 3°. versterking van de kennis op het gebied van externe veiligheid bij gemeenten en provincies.       
-2.  Het programma mag naast de in het eerste lid genoemde onderdelen voor ten hoogste eenderde van de middelen bestaan uit regiospecifieke projecten gericht op externe veiligheid.   
+2.  Het programma mag naast de in het eerste lid genoemde onderdelen voor ten hoogste eenderde van de middelen bestaan uit regiospecifieke projecten gericht op externe veiligheid.  
 
 ### Artikel  4  
 
@@ -80,7 +80,7 @@ d. in het programma wordt indien dit nodig is voor de realisatie van een gekozen
 
 e. in het provinciaal programma wordt de stand van zaken met betrekking tot de uitvoering van externeveiligheidsbeleid weergegeven en wat men na afloop van het programma per gekozen menukaartonderdeel wil hebben bereikt;  
 
-f. het ingediende provinciaal programma is in afstemming met de gemeenten opgesteld.    
+f. het ingediende provinciaal programma is in afstemming met de gemeenten opgesteld.   
 
 ### Artikel  5  
 
@@ -94,7 +94,7 @@ b. de uitvoering van het programma levert een aantoonbare kwaliteitsimpuls aan e
 
 c. taakuitvoering die wettelijk verplicht is of binnenkort wordt, wordt door middel van het provinciaal programma versterkt.  
 
-d. het programma streeft een evenwichtige keuze van activiteiten na.    
+d. het programma streeft een evenwichtige keuze van activiteiten na.   
 
 ### Artikel  6  
 
@@ -108,7 +108,7 @@ b. een opslag voor eigen algemene kosten, groot 25% van de loonkosten, bedoeld i
 
 c. aan derden verschuldigde kosten terzake van door hen verleende diensten en terzake van verwerving van kennis en intellectuele eigendomsrechten, alsmede terzake van bescherming van die rechten, exclusief winstopslagen bij transacties binnen een groep.     
 2.  Indien geen loonkosten als bedoeld in het eerste lid, onderdeel a, worden gemaakt, maar niettemin arbeid ten behoeve van het project uit het provinciaal programma wordt verricht, kan het Ministerie van VROM daarvoor een redelijk bedrag vaststellen dat als uitvoeringskosten in aanmerking wordt genomen.   
-3.  In afwijking van het eerste lid, mag de berekening van het uurloon en de vaststelling van het opslagpercentage voor algemene kosten met inbegrip van indirecte loonkosten en kosten van toezichthoudend personeel geschieden overeenkomstig een voor de gehele organisatie van de aanvrager tot subsidieverlening geldende en controleerbare methodiek.   
+3.  In afwijking van het eerste lid, mag de berekening van het uurloon en de vaststelling van het opslagpercentage voor algemene kosten met inbegrip van indirecte loonkosten en kosten van toezichthoudend personeel geschieden overeenkomstig een voor de gehele organisatie van de aanvrager tot subsidieverlening geldende en controleerbare methodiek.  
 
 ### Artikel  7  
 
@@ -120,7 +120,7 @@ a. de kosten gemaakt voor het opstellen van het provinciaal programma;
 
 b. de kosten gemaakt voor 1 januari 2004;  
 
-c. de kosten gemaakt na 31 maart 2006.    
+c. de kosten gemaakt na 31 maart 2006.   
 
 ### Artikel  8  
 
@@ -136,8 +136,8 @@ Het subsidieplafond bedraagt voor subsidies als bedoeld in artikel 7 voor de kal
 | Gelderland  | 2.172.000  | 1.448.000  | 724.000  |
 | Groningen  | 999.000  | 666.000  | 333.000  |
 | Limburg  | 1.473.000  | 982.000  | 491.000  |
-| Noord-Brabant  | 3.476.000  | 2.317.000  | 1.159.000  |
-| Noord-Holland  | 1.592.000  | 1.061.000  | 531.000  |
+|  Noord-Brabant   |  3.476.000   | 2.317.000   | 1.159.000   |
+| Noord-Holland   | 1.592.000   |  1.061.000   |  531.000   |
 | Overijssel  | 1.048.000  | 699.000  | 349.000  |
 | Utrecht  | 782.000  | 521.000  | 261.000  |
 | Zeeland  | 1.091.000  | 727.000  | 364.000  |
@@ -153,7 +153,7 @@ a. het provinciaal programma, waarvoor subsidie is verleend, uit te voeren voor 
 
 b. het geactualiseerde overzicht van activiteiten te overhandigen waarvoor subsidie is verleend als bedoeld in [artikel 13, eerste lid van het Besluit milieusubsidies](../../../../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md). Dit in de zesde maand na de datum van toekenning van de subsidie en vervolgens in elke zesde maand daarna;  
 
-c. het verslag te overhandigen omtrent het verloop, de uitvoering en de resultaten van het plan van aanpak, bedoeld in [artikel 14, tweede lid, onderdeel a, van het Besluit milieusubsidies](../../../../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md). Het verslag dient in afwijking van het gestelde in [artikel 14 van het Besluit milieusubsidies](../../../../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md) binnen zes maanden na uitvoering van het plan van aanpak aan de Minister te worden verstrekt.    
+c. het verslag te overhandigen omtrent het verloop, de uitvoering en de resultaten van het plan van aanpak, bedoeld in [artikel 14, tweede lid, onderdeel a, van het Besluit milieusubsidies](../../../../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md). Het verslag dient in afwijking van het gestelde in [artikel 14 van het Besluit milieusubsidies](../../../../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md) binnen zes maanden na uitvoering van het plan van aanpak aan de Minister te worden verstrekt.   
 
 ### Artikel  10  
 
@@ -161,24 +161,24 @@ c. het verslag te overhandigen omtrent het verloop, de uitvoering en de resultat
 
 1.  Een aanvraag tot subsidieverlening en subsidievaststelling kan alleen worden ingediend door een provincie.   
 2.  Een aanvraag tot subsidieverlening en subsidievaststelling, het provinciaal programma en een gespecificeerde begroting worden ingediend bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, met gebruikmaking van een aldaar verkrijgbaar formulier.   
-3.  Een aanvraag tot subsidieverlening in dit kader, kan eenmalig worden gedaan en dient voor 1 juli 2004 te geschieden.   
+3.  Een aanvraag tot subsidieverlening in dit kader, kan eenmalig worden gedaan en dient voor 1 juli 2004 te geschieden.  
 
 ### Artikel  11  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking na de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking na de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  12  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Subsidieregeling Programmafinanciering EV-beleid voor andere overheden.  
+Deze regeling wordt aangehaald als: Subsidieregeling Programmafinanciering EV-beleid voor andere overheden. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 11 juni 2004    
 
 De 
-Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
-P.L.B.A. vanGeel    
+Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer 
+P.L.B.A. van Geel      

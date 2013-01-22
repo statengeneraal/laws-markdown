@@ -16,31 +16,31 @@ In deze regeling wordt verstaan onder:
 
 *subsidieontvanger:* De stichting International Groundwater Rescources Assesment Centre IGRAC, gevestigd te Delft;  
 
-*wet:*[Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
+*wet:* [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 
 ### Artikel  2  
 
-De minister kan voor de periode van 1 januari 2011 tot en met 31 december 2015 op aanvraag eenmalig subsidie verstrekken aan de subsidieontvanger voor het verrichten van activiteiten door IGRAC als bedoeld in artikel 6 van het verdrag tussen de United Nations Educational, Scientific and Cultural Organisation (UNESCO) en het Koninkrijk der Nederlanden inzake het vestigen en functioneren van het ‘International Groundwater Resources Assesment Centre’ in Nederland als een categorie II instituut onder auspiciën van UNESCO.  
+De minister kan voor de periode van 1 januari 2011 tot en met 31 december 2015 op aanvraag eenmalig subsidie verstrekken aan de subsidieontvanger voor het verrichten van activiteiten door IGRAC als bedoeld in artikel 6 van het verdrag tussen de United Nations Educational, Scientific and Cultural Organisation (UNESCO) en het Koninkrijk der Nederlanden inzake het vestigen en functioneren van het ‘International Groundwater Resources Assesment Centre’ in Nederland als een categorie II instituut onder auspiciën van UNESCO. 
 
 ### Artikel  3  
 
-[Afdeling 4.2.8 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing, met uitzondering van [artikel 4:60](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+[Afdeling 4.2.8 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing, met uitzondering van [artikel 4:60](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
 
 ### Artikel  4  
 
-Het subsidieplafond voor de boekjaren 2011 tot en met 2015 bedraagt € 2.500.000,–.  
+Het subsidieplafond voor de boekjaren 2011 tot en met 2015 bedraagt € 2.500.000,–. 
 
 ### Artikel  5  
 
-Als subsidiabele kosten worden uitsluitend in aanmerking genomen de naar het oordeel van de minister noodzakelijke, rechtstreeks aan de activiteiten als bedoeld in artikel 2 toe te rekenen en door de subsidieontvanger gemaakte en betaalde kosten.  
+Als subsidiabele kosten worden uitsluitend in aanmerking genomen de naar het oordeel van de minister noodzakelijke, rechtstreeks aan de activiteiten als bedoeld in artikel 2 toe te rekenen en door de subsidieontvanger gemaakte en betaalde kosten. 
 
 ### Artikel  6  
 
-De aanvraag tot subsidie wordt uiterlijk 1 oktober 2011 schriftelijk ingediend bij de minister.  
+De aanvraag tot subsidie wordt uiterlijk 1 oktober 2011 schriftelijk ingediend bij de minister. 
 
 ### Artikel  7  
 
-Onverminderd [artikel 4:35 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de minister de subsidieverlening geheel of gedeeltelijk weigeren indien naar zijn oordeel de aanvraag niet voldoet aan artikel 6.  
+Onverminderd [artikel 4:35 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de minister de subsidieverlening geheel of gedeeltelijk weigeren indien naar zijn oordeel de aanvraag niet voldoet aan artikel 6. 
 
 ### Artikel  8  
 
@@ -53,11 +53,11 @@ b. de looptijd van de subsidie;
 
 c. het bedrag waarop de subsidie ten hoogste kan worden vastgesteld;  
 
-d. de inhoud van het controleprotocol.     
+d. de inhoud van het controleprotocol.    
 
 ### Artikel  9  
 
-De subsidieverlening geschiedt onder de voorwaarde dat voor het deel van de subsidie dat ten laste van een nog niet vastgestelde begroting komt voldoende gelden ter beschikking worden gesteld.  
+De subsidieverlening geschiedt onder de voorwaarde dat voor het deel van de subsidie dat ten laste van een nog niet vastgestelde begroting komt voldoende gelden ter beschikking worden gesteld. 
 
 ### Artikel  10  
 
@@ -73,7 +73,7 @@ e. het verlenen van medewerking binnen een door de minister te stellen termijn a
 
 f. het vormen van een egalisatiereserve;  
 
-g. het in acht nemen van het bij de subsidiebeschikking gevoegde controleprotocol.    
+g. het in acht nemen van het bij de subsidiebeschikking gevoegde controleprotocol.   
 
 ### Artikel  11  
 
@@ -92,13 +92,13 @@ e. andere verplichtingen die de minister wenselijk acht ter verwezenlijking van 
 
 a. een administratie wordt gevoerd die zodanig is ingericht dat een gescheiden administratie van kosten en baten wordt gevoerd voor de gesubsidieerde activiteiten enerzijds en de overige activiteiten anderzijds; en  
 
-b. een onderzoek als bedoeld in [artikel 4:79, eerste lid, van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt uitgevoerd en dat dit onderzoek geschiedt met inachtneming van hetgeen daarover is bepaald in het controleprotocol.     
+b. een onderzoek als bedoeld in [artikel 4:79, eerste lid, van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt uitgevoerd en dat dit onderzoek geschiedt met inachtneming van hetgeen daarover is bepaald in het controleprotocol.    
 
 ### Artikel  12  
 
 1.  De minister kan ambtshalve en gelijktijdig met de beschikking tot subsidieverlening een beschikking tot bevoorschotting verstrekken.   
 2.  Het voorschot wordt uitgekeerd in termijnen waarvan de hoogte en de tijdstippen in de beschikking tot bevoorschotting worden bepaald met dien verstande dat de voorschotverlening ten hoogste 100 procent van de verleende subsidie bedraagt.   
-3.  De minister verleent geen voorschot indien de subsidieontvanger niet heeft voldaan aan ingevolge de subsidieverlening voor hem geldende verplichtingen, dan wel indien de subsidieontvanger failliet is verklaard of hem surseance van betaling is verleend of op hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel een verzoek daartoe bij de rechtbank is ingediend.   
+3.  De minister verleent geen voorschot indien de subsidieontvanger niet heeft voldaan aan ingevolge de subsidieverlening voor hem geldende verplichtingen, dan wel indien de subsidieontvanger failliet is verklaard of hem surseance van betaling is verleend of op hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel een verzoek daartoe bij de rechtbank is ingediend.  
 
 ### Artikel  13  
 
@@ -110,36 +110,36 @@ b. het wijzigen van de statuten;
 
 c. het ontbinden van de rechtspersoon; of  
 
-d. het doen van aangifte tot faillissement of het aanvragen van surseance van betaling.    
+d. het doen van aangifte tot faillissement of het aanvragen van surseance van betaling.   
 
 ### Artikel  14  
 
-De subsidieontvanger dient de aanvraag tot subsidievaststelling, waarop [paragraaf 4.2.8.5 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is, in binnen zes maanden volgend op het boekjaar 2015.  
+De subsidieontvanger dient de aanvraag tot subsidievaststelling, waarop [paragraaf 4.2.8.5 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is, in binnen zes maanden volgend op het boekjaar 2015. 
 
 ### Artikel  15  
 
 1.  De minister geeft een beschikking tot subsidievaststelling binnen tweeëntwintig weken na ontvangst van de aanvraag tot subsidievaststelling.   
 2.  Indien de beschikking niet binnen tweeëntwintig weken kan worden gegeven, stelt de minister betrokkenen daarvan in kennis en noemt hij daarbij een redelijke termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
-3.  De minister is bevoegd tot ambtshalve vaststelling van de subsidie indien de subsidieontvanger niet tijdig de aanvraag tot vaststelling heeft ingediend.   
+3.  De minister is bevoegd tot ambtshalve vaststelling van de subsidie indien de subsidieontvanger niet tijdig de aanvraag tot vaststelling heeft ingediend.  
 
 ### Artikel  16  
 
-De omvang van de egalisatiereserve aan het einde van het laatste boekjaar wordt bestemd ten gunste van het ministerie van Infrastructuur en Milieu ingeval van beëindiging van de subsidieverstrekking. De subsidieontvanger draagt in het laatste geval zorg voor storting van het bedrag binnen een door de minister te stellen termijn.  
+De omvang van de egalisatiereserve aan het einde van het laatste boekjaar wordt bestemd ten gunste van het ministerie van Infrastructuur en Milieu ingeval van beëindiging van de subsidieverstrekking. De subsidieontvanger draagt in het laatste geval zorg voor storting van het bedrag binnen een door de minister te stellen termijn. 
 
 ### Artikel  17  
 
-Met het toezicht op de naleving van de aan de subsidie verbonden verplichtingen zijn belast de directeur en medewerkers van de auditdienst van het Ministerie van Infrastructuur en Milieu en, zo nodig, andere bij besluit van de minister aangewezen personen.  
+Met het toezicht op de naleving van de aan de subsidie verbonden verplichtingen zijn belast de directeur en medewerkers van de auditdienst van het Ministerie van Infrastructuur en Milieu en, zo nodig, andere bij besluit van de minister aangewezen personen. 
 
 ### Artikel  18  
 
 1.  Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.   
-2.  Deze regeling vervalt met ingang van 1 januari 2016, met dien verstande dat zij van toepassing blijft op de subsidies die voor die datum zijn verleend.   
+2.  Deze regeling vervalt met ingang van 1 januari 2016, met dien verstande dat zij van toepassing blijft op de subsidies die voor die datum zijn verleend.  
 
 ### Artikel  19  
 
-Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling IGRAC.  
+Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling IGRAC. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Infrastructuur en Milieu,
-J.J.Atsma   
+Staatssecretaris van Infrastructuur en Milieu, 
+J.J. Atsma     

@@ -51,13 +51,13 @@ k. groep: economische eenheid waarin organisatorisch zijn verbonden:
 – overwegende zeggenschap heeft over een of meer rechtspersonen of vennootschappen, en    
 
 2°. rechtspersonen of vennootschappen.       
-2.  Deze regeling is van toepassing op de volgende categorieën van huishoudelijke afvalstoffen: groente-, fruit- en tuinafval, papier en karton, glas, textiel, wit- en bruingoed, klein chemisch afval en grove huishoudelijke afvalstoffen.   
+2.  Deze regeling is van toepassing op de volgende categorieën van huishoudelijke afvalstoffen: groente-, fruit- en tuinafval, papier en karton, glas, textiel, wit- en bruingoed, klein chemisch afval en grove huishoudelijke afvalstoffen.  
 
 ### Artikel  2  
 
 ####Doel
 
-Op grond van deze regeling wordt subsidie verleend aan gemeenten, stadsdelen of samenwerkingsverbanden voor het nemen van maatregelen om het niveau van afvalpreventie en afvalscheiding, voor zover het huishoudelijke afvalstoffen betreft, te verhogen en daarmee de milieudruk, veroorzaakt door het verwijderen van deze afvalstoffen, zo veel mogelijk te verminderen.  
+Op grond van deze regeling wordt subsidie verleend aan gemeenten, stadsdelen of samenwerkingsverbanden voor het nemen van maatregelen om het niveau van afvalpreventie en afvalscheiding, voor zover het huishoudelijke afvalstoffen betreft, te verhogen en daarmee de milieudruk, veroorzaakt door het verwijderen van deze afvalstoffen, zo veel mogelijk te verminderen. 
 
 ### Artikel  3  
 
@@ -82,7 +82,7 @@ a. de resultaten van een nulmeting, en
 
 b. het plan van aanpak waarop het plusproject betrekking heeft.     
 3.  Een aanvraag tot subsidieverlening voor een tweede plusproject kan slechts worden ingediend indien het eerste plusproject inhoudelijk is afgerond.   
-4.  In het kalenderjaar 2007 wordt per gemeente of stadsdeel voor slechts één plusproject subsidie verstrekt.   
+4.  In het kalenderjaar 2007 wordt per gemeente of stadsdeel voor slechts één plusproject subsidie verstrekt.  
 
 ### Artikel  4  
 
@@ -96,7 +96,7 @@ b. de kosten van het project in relatie tot de kwaliteit, de beoogde resultaten 
 
 c. de volledigheid en representativiteit van de resultaten van de nulmeting;  
 
-d. de wijze waarop de maatregelen in het plan van aanpak aansluiten op de resultaten van de nulmeting.    
+d. de wijze waarop de maatregelen in het plan van aanpak aansluiten op de resultaten van de nulmeting.   
 
 ### Artikel  5  
 
@@ -106,7 +106,7 @@ Een aanvraag tot subsidieverlening wordt afgewezen indien:
 
 a. niet wordt voldaan aan de voorwaarden, bedoeld in artikel 3;  
 
-b. op grond van de aspecten, genoemd in artikel 4, wordt vastgesteld dat het project een te geringe bijdrage levert aan de in artikel 2 genoemde doelstelling.    
+b. op grond van de aspecten, genoemd in artikel 4, wordt vastgesteld dat het project een te geringe bijdrage levert aan de in artikel 2 genoemde doelstelling.   
 
 ### Artikel  6  
 
@@ -133,25 +133,25 @@ b. inzamelvoertuigen en overig materieel voor huishoudelijke afvalstoffen;
 
 c. soft- en hardware van registratiesystemen voor huishoudelijke afvalstoffen;  
 
-d. onderzoek naar en planvorming voor mogelijk uit te voeren maatregelen.     
+d. onderzoek naar en planvorming voor mogelijk uit te voeren maatregelen.    
 
 ### Artikel  7  
 
 ####Hoogte van de subsidie
 
-De subsidie voor een plusproject bedraagt 50% van de subsidiabele kosten met een maximumbedrag van € 2,– per inwoner van het gebied waarop het project betrekking heeft.  
+De subsidie voor een plusproject bedraagt 50% van de subsidiabele kosten met een maximumbedrag van € 2,– per inwoner van het gebied waarop het project betrekking heeft. 
 
 ### Artikel  8  
 
 ####Verplichtingen van de subsidieontvanger
 
-De subsidieontvanger is verplicht een geactualiseerd overzicht van activiteiten als bedoeld in [artikel 13, eerste lid, onderdeel a, van het Besluit milieusubsidies](../../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md) elk jaar aan SenterNovem te verstrekken overeenkomstig een door SenterNovem vastgesteld model.  
+De subsidieontvanger is verplicht een geactualiseerd overzicht van activiteiten als bedoeld in [artikel 13, eerste lid, onderdeel a, van het Besluit milieusubsidies](../../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md) elk jaar aan SenterNovem te verstrekken overeenkomstig een door SenterNovem vastgesteld model. 
 
 ### Artikel  9  
 
 ####Subsidieplafond
 
-Het subsidieplafond voor het kalenderjaar 2007 bedraagt € 1.500.000,–.  
+Het subsidieplafond voor het kalenderjaar 2007 bedraagt € 1.500.000,–. 
 
 ### Artikel  10  
 
@@ -162,32 +162,32 @@ Het subsidieplafond voor het kalenderjaar 2007 bedraagt € 1.500.000,–.
 3.  Een aanvraag tot subsidieverlening wordt voor 6 oktober 2007 ontvangen.   
 4.  Bij de subsidieverlening wordt beslist in volgorde van ontvangst van de aanvragen, met inachtneming van het vijfde lid, met dien verstande dat, wanneer de aanvrager tot subsidieverlening krachtens [artikel 4.5 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvulling is ontvangen, als datum van ontvangst van de aanvraag geldt.   
 5.  Voor zover door verstrekking van subsidie voor aanvragen, die op dezelfde dag zijn ontvangen, het subsidieplafond, genoemd in artikel 9, wordt overschreden, wordt de onderlinge rangschikking van de aanvragen vastgesteld door middel van loting.   
-6.  Een aanvraag tot subsidievaststelling wordt in het jaar na voltooiing van het project ingediend door aan Onze Minister de verantwoordingsinformatie te verstrekken op de wijze, bedoeld in [artikel 27 van het Besluit financiële verhouding 2001](../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md).   
+6.  Een aanvraag tot subsidievaststelling wordt in het jaar na voltooiing van het project ingediend door aan Onze Minister de verantwoordingsinformatie te verstrekken op de wijze, bedoeld in [artikel 27 van het Besluit financiële verhouding 2001](../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md). 
 
 ### Artikel  11  
 
 1.  De [Subsidieregeling aanpak milieudrukvermindering 2006](../../../../../../ministeriele-regeling/subsidieregeling/aanpak/milieudrukvermindering/2006/BWBR0019855/README.md) wordt ingetrokken.   
-2.  De in het eerste lid genoemde regeling, zoals ze luidde voor het tijdstip waarop deze regeling in werking is getreden, blijft van toepassing op subsidies voor projecten die vóór dat tijdstip op grond van die regeling zijn aangevraagd.   
+2.  De in het eerste lid genoemde regeling, zoals ze luidde voor het tijdstip waarop deze regeling in werking is getreden, blijft van toepassing op subsidies voor projecten die vóór dat tijdstip op grond van die regeling zijn aangevraagd.  
 
 ### Artikel  12  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 27 maart 2007.  
+Deze regeling treedt in werking met ingang van 27 maart 2007. 
 
 ### Artikel  13  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Subsidieregeling aanpak milieudrukvermindering 2007.  
+Deze regeling wordt aangehaald als: Subsidieregeling aanpak milieudrukvermindering 2007. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 9 maart 2007   
 
 De 
-Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
-J.M.Cramer  
+Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
+J.M. Cramer    
 
 ####Bijlage behorende bij artikel 1, eerste lid, onder g 
 

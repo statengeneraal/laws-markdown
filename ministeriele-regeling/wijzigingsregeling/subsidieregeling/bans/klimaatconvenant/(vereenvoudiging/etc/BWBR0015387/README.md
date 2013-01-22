@@ -6,9 +6,9 @@ De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
 Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
 Besluit:    
 
-### Artikel  I  
+###Artikel I  
 
-Wijzigt de [Subsidieregeling BANS klimaatconvenant](../../../../../../../../ministeriele-regeling/subsidieregeling/bans/klimaatconvenant/BWBR0013383/README.md).   
+Wijzigt de [Subsidieregeling BANS klimaatconvenant](../../../../../../../../ministeriele-regeling/subsidieregeling/bans/klimaatconvenant/BWBR0013383/README.md). 
 
 ### Artikel  II  
 
@@ -16,13 +16,13 @@ De [Subsidieregeling BANS klimaatconvenant](../../../../../../../../ministeriele
 
 a. subsidie die is aangevraagd voor de datum van inwerkingtreding van deze regeling;  
 
-b. subsidie die op of na die datum wordt aangevraagd door een gemeente, een stadsdeel van de gemeente Amsterdam of een samenwerkingsverband van gemeenten, ingeval voor de aanvraag tot subsidieverlening gebruik is gemaakt van het formulier, bedoeld in artikel 8, tweede lid, van die regeling, zoals dat formulier voor die datum verkrijgbaar was bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.    
+b. subsidie die op of na die datum wordt aangevraagd door een gemeente, een stadsdeel van de gemeente Amsterdam of een samenwerkingsverband van gemeenten, ingeval voor de aanvraag tot subsidieverlening gebruik is gemaakt van het formulier, bedoeld in artikel 8, tweede lid, van die regeling, zoals dat formulier voor die datum verkrijgbaar was bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.   
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
-Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
-P.L.B.A. vanGeel    
+Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer 
+P.L.B.A. van Geel      

@@ -22,16 +22,16 @@ e. [Regeling van 29 december 2004, nr. LMV 2004128891, houdende vaststelling va
 
 f. [Regeling van 29 april 2005, nr. LMV 2005047127, houdende vaststelling van het subsidieplafond sanering spoorweglawaai 2005](../../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/subsidieplafond/sanering/spoorweglawaai/2005/BWBR0018278/README.md) (Stcrt. 2005, 90);  
 
-g. [Regeling van 12 mei 2005, nr. LMV 2005028502, houdende vaststelling van de subsidieplafonds en de vaststelling van de projecten die in aanmerking komen voor subsidie voor de uitvoeringskosten van verkeerslawaai in 2005](../../../../../../../../../../../ministeriele-regeling/besluit/vaststelling/subsidieplafond/en/projecten/die/in/aanmerking/komen/etc/BWBR0018332/README.md) (Stcrt. 2005, 98).    
+g. [Regeling van 12 mei 2005, nr. LMV 2005028502, houdende vaststelling van de subsidieplafonds en de vaststelling van de projecten die in aanmerking komen voor subsidie voor de uitvoeringskosten van verkeerslawaai in 2005](../../../../../../../../../../../ministeriele-regeling/besluit/vaststelling/subsidieplafond/en/projecten/die/in/aanmerking/komen/etc/BWBR0018332/README.md) (Stcrt. 2005, 98).  
 
 ### Artikel  2  
 
 1.  Voorzover er ter zake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regelingen, genoemd in artikel 1, plaats.   
-2.  Bestaande aanspraken en verplichtingen bij, ingevolge de regelingen, genoemd in artikel I, blijven in stand.   
+2.  Bestaande aanspraken en verplichtingen bij, ingevolge de regelingen, genoemd in artikel I, blijven in stand.  
 
 ### Artikel  3  
 
-Deze regeling treedt in werking op het tijdstip waarop de [wet van 5 juli 2006 houdende wijziging van de Wet geluidhinder](../../../../../../../../../../../wet/wijzigingswet/wet/geluidhinder/(modernisering/instrumentarium/geluidbeleid/etc/BWBR0020051/README.md) (modernisering instrumentarium geluidbeleid, eerste fase; Stb. 2006, 350) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop de [wet van 5 juli 2006 houdende wijziging van de Wet geluidhinder](../../../../../../../../../../../wet/wijzigingswet/wet/geluidhinder/(modernisering/instrumentarium/geluidbeleid/etc/BWBR0020051/README.md) (modernisering instrumentarium geluidbeleid, eerste fase; Stb. 2006, 350) in werking treedt. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -39,4 +39,4 @@ Den Haag
 
 De 
 Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-P.L.B.A. vanGeel   
+P.L.B.A. van Geel     

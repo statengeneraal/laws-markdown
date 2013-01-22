@@ -8,33 +8,33 @@ Besluit:
 
 ### Artikel  I  
 
-1.  De volgende regelingen worden ingetrokken: 
+1. De volgende regelingen worden ingetrokken: 
 
-a. de [Projectstimuleringsregeling INTERREG IV](../../../../../../../../../ministeriele-regeling/projectstimuleringsregeling/interreg/iv/BWBR0022526/README.md);  
+a.de [Projectstimuleringsregeling INTERREG IV](../../../../../../../../../ministeriele-regeling/projectstimuleringsregeling/interreg/iv/BWBR0022526/README.md);
 
-b. de [RijksCofinancieringsregeling INTERREG IV](../../../../../../../../../ministeriele-regeling/rijkscofinancieringsregeling/interreg/iv/BWBR0023149/README.md);  
+b.de [RijksCofinancieringsregeling INTERREG IV](../../../../../../../../../ministeriele-regeling/rijkscofinancieringsregeling/interreg/iv/BWBR0023149/README.md);
 
-c. de [Subsidieregeling aanpak zwerfafval](../../../../../../../../../ministeriele-regeling/subsidieregeling/aanpak/zwerfafval/BWBR0022499/README.md);  
+c.de [Subsidieregeling aanpak zwerfafval](../../../../../../../../../ministeriele-regeling/subsidieregeling/aanpak/zwerfafval/BWBR0022499/README.md);
 
-d. de [Subsidieregeling dieselmotoren voor binnenvaartschepen](../../../../../../../../../ministeriele-regeling/subsidieregeling/dieselmotoren/voor/binnenvaartschepen/BWBR0018788/README.md);  
+d.de [Subsidieregeling dieselmotoren voor binnenvaartschepen](../../../../../../../../../ministeriele-regeling/subsidieregeling/dieselmotoren/voor/binnenvaartschepen/BWBR0018788/README.md);
 
-e. de [Subsidieregeling maatschappelijke organisaties en milieu 2009](../../../../../../../../../ministeriele-regeling/subsidieregeling/maatschappelijke/organisaties/en/milieu/2009/BWBR0025911/README.md), en  
+e.de [Subsidieregeling maatschappelijke organisaties en milieu 2009](../../../../../../../../../ministeriele-regeling/subsidieregeling/maatschappelijke/organisaties/en/milieu/2009/BWBR0025911/README.md), en
 
-f. de [Subsidieregeling milieugerichte technologie](../../../../../../../../../ministeriele-regeling/subsidieregeling/milieugerichte/technologie/BWBR0016362/README.md).     
-2.   Wijzigt de Subsidieregeling emissieverminderende voorzieningen voor voertuigen.    
+f.de [Subsidieregeling milieugerichte technologie](../../../../../../../../../ministeriele-regeling/subsidieregeling/milieugerichte/technologie/BWBR0016362/README.md).
+2. Wijzigt de Subsidieregeling emissieverminderende voorzieningen voor voertuigen.
 
 ### Artikel  II  
 
-De regelingen en de paragraaf, genoemd in artikel I, eerste lid, respectievelijk, tweede lid, zoals zij luidden voor 1 januari 2012, blijven van toepassing op subsidies die voor 1 januari 2012 zijn aangevraagd of verleend op grond van die regelingen of die paragraaf.  
+De regelingen en de paragraaf, genoemd in artikel I, eerste lid, respectievelijk, tweede lid, zoals zij luidden voor 1 januari 2012, blijven van toepassing op subsidies die voor 1 januari 2012 zijn aangevraagd of verleend op grond van die regelingen of die paragraaf. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van 1 januari 2012. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 30 december 2011, treedt zij in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van 1 januari 2012. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 30 december 2011, treedt zij in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 6 december 2011   
 
 De 
-Minister van Infrastructuur en Milieu,
-M.H.Schultz van Haegen   
+Minister van Infrastructuur en Milieu, 
+M.H. Schultz van Haegen     

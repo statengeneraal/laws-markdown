@@ -8,17 +8,17 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Tijdelijke subsidieregeling innovatieketen water.   
+Wijzigt de Tijdelijke subsidieregeling innovatieketen water. 
 
 ### Artikel  II  
 
-Op de subsidies waarvoor de aanvraag voor 1 december 2008 is gedaan blijft de [Tijdelijke subsidieregeling innovatieketen water](../../../../../../../ministeriele-regeling/tijdelijke/subsidieregeling/innovatieketen/water/BWBR0024750/README.md) zoals die luidde op het tijdstip direct voorafgaand aan de inwerkingtreding van deze regeling van toepassing.  
+Op de subsidies waarvoor de aanvraag voor 1 december 2008 is gedaan blijft de [Tijdelijke subsidieregeling innovatieketen water](../../../../../../../ministeriele-regeling/tijdelijke/subsidieregeling/innovatieketen/water/BWBR0024750/README.md) zoals die luidde op het tijdstip direct voorafgaand aan de inwerkingtreding van deze regeling van toepassing. 
 
 ### Artikel  III  
 
-De regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+De regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-J.C.Huizinga-Heringa   
+J.C. Huizinga-Heringa     

@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Subsidieregeling milieugerichte technologie.   
+Wijzigt de Subsidieregeling milieugerichte technologie. 
 
 ### Artikel  II  
 
-[Paragraaf 2.2 van de Subsidieregeling milieugerichte technologie](../../../../../../../ministeriele-regeling/subsidieregeling/milieugerichte/technologie/BWBR0016362/README.md), zoals deze luidde voor het tijdstip waarop deze regeling in werking is getreden, blijft van toepassing op subsidies voor projecten als bedoeld in die paragraaf die voor dat tijdstip zijn aangevraagd.  
+[Paragraaf 2.2 van de Subsidieregeling milieugerichte technologie](../../../../../../../ministeriele-regeling/subsidieregeling/milieugerichte/technologie/BWBR0016362/README.md), zoals deze luidde voor het tijdstip waarop deze regeling in werking is getreden, blijft van toepassing op subsidies voor projecten als bedoeld in die paragraaf die voor dat tijdstip zijn aangevraagd. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van 1 januari 2008.  
+Deze regeling treedt in werking met ingang van 1 januari 2008. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -24,4 +24,4 @@ Den Haag
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.M.Cramer   
+J.M. Cramer     

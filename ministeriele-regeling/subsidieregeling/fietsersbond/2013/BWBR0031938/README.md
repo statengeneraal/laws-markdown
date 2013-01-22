@@ -20,7 +20,7 @@ In deze regeling wordt verstaan onder:
 
 *subsidieontvanger:* Vereniging Fietsersbond, statutair gevestigd te Utrecht;  
 
-*wet:*[Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
+*wet:* [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 
 ### Artikel  2  
 
@@ -31,13 +31,13 @@ In deze regeling wordt verstaan onder:
 a. de behartiging van belangen van fietsers in de besluitvorming van overheden, openbaar vervoersbedrijven en marktpartijen, en  
 
 b. het verkrijgen van gegevens over de lokale, regionale of landelijke staat van de fietsvoorzieningen of over het beleid van overheden en vervoerbedrijven ten gunste van de belangenbehartiging.     
-2.  Geen subsidie wordt verstrekt voor zover voor een project als bedoeld in het eerste lid, een subsidie is of wordt verstrekt door een ander bestuursorgaan dan wel andere inkomsten van derden zonder tegenprestatie zijn of worden verkregen.   
+2.  Geen subsidie wordt verstrekt voor zover voor een project als bedoeld in het eerste lid, een subsidie is of wordt verstrekt door een ander bestuursorgaan dan wel andere inkomsten van derden zonder tegenprestatie zijn of worden verkregen.  
 
 ### Artikel  3  
 
 ####Toepassing [Algemene wet bestuursrecht Afdeling 4.2.8](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)
 
-[Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.  
+[Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing. 
 
 ### Artikel  4  
 
@@ -46,7 +46,7 @@ b. het verkrijgen van gegevens over de lokale, regionale of landelijke staat van
 1.  Het subsidieplafond bedraagt €573.436,-.   
 2.  Het in het eerste lid genoemde bedrag is exclusief de compensatie voor de arbeidskostenontwikkeling, bedoeld in artikel 8, eerste lid.   
 3.  Als subsidiabele kosten worden uitsluitend in aanmerking genomen het totaal aantal uren dat daadwerkelijk aan de uitvoering van de subsidiabele projecten is besteed onder toepassing van het door de minister goedgekeurde forfaitair uurtarief, alsmede de kosten derden.   
-4.  Het goedgekeurde forfaitair uurtarief geldt voor de looptijd van deze regeling.   
+4.  Het goedgekeurde forfaitair uurtarief geldt voor de looptijd van deze regeling.  
 
 ### Artikel  5  
 
@@ -57,7 +57,7 @@ b. het verkrijgen van gegevens over de lokale, regionale of landelijke staat van
 
 a. een indicatie van het tijdstip waarop de subsidieontvanger gehouden is de projecten te hebben afgerond voor zover van toepassing, en  
 
-b. het geraamde aantal uren per project, het forfaitair uurtarief en de geraamde kosten derden per project.     
+b. het geraamde aantal uren per project, het forfaitair uurtarief en de geraamde kosten derden per project.    
 
 ### Artikel  6  
 
@@ -77,7 +77,7 @@ c. een begroting als bedoeld in [artikel 4:61, eerste lid, onder b, van de wet](
 
 2°. de berekening is gebaseerd op de systematiek van de Handleiding Overheidstarieven 2012, en  
 
-3°. het gehanteerde tarief is gebaseerd op de in de cao voor de welzijnssector vastgelegde salarisschalen.     
+3°. het gehanteerde tarief is gebaseerd op de in de cao voor de welzijnssector vastgelegde salarisschalen.    
 
 ### Artikel  7  
 
@@ -94,14 +94,14 @@ c. de wijze waarop het subsidiebedrag wordt bepaald en het bedrag waarop de subs
 
 d. het geraamde aantal uren per project, het goedgekeurde forfaitair uurtarief alsmede de geraamde kosten derden per project, en  
 
-e. de inhoud van het controleprotocol.     
+e. de inhoud van het controleprotocol.    
 
 ### Artikel  8  
 
 ####Compensatie voor de arbeidskostenontwikkeling
 
 1.  Zolang de subsidie niet is vastgesteld, kan de minister ambtshalve het maximale subsidiebedrag, genoemd in artikel 4, eerste lid, verhogen met een bedrag dat ten hoogste bedraagt het bedrag dat wordt verkregen door het bedrag van de looncomponent in de subsidie te indexeren met het percentage voor de arbeidskostenontwikkeling, genoemd in de desbetreffende loonbijstellingsbrief van het Ministerie van Financiën met betrekking tot compensatie voor de arbeidskostenontwikkeling van B3-instellingen in de g&g-sector (code 905).   
-2.  De looncomponent bedraagt 68 procent van het goedgekeurde forfaitair uurtarief, vermenigvuldigd met het aantal uren dat aan de gesubsidieerde projecten is besteed.   
+2.  De looncomponent bedraagt 68 procent van het goedgekeurde forfaitair uurtarief, vermenigvuldigd met het aantal uren dat aan de gesubsidieerde projecten is besteed.  
 
 ### Artikel  9  
 
@@ -113,20 +113,20 @@ a. de aanvraag tot subsidieverlening niet in overeenstemming is met de wensen di
 
 b. de aanvraag niet voldoet aan artikel 6, of  
 
-c. er in voorgaande boekjaren ten aanzien van de subsidieverlening dan wel subsidievaststelling toepassing is gegeven aan de [artikelen 4:48](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:49](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:50 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
+c. er in voorgaande boekjaren ten aanzien van de subsidieverlening dan wel subsidievaststelling toepassing is gegeven aan de [artikelen 4:48](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:49](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:50 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 
 ### Artikel  10  
 
 ####Voorwaarde begrotingsvoorbehoud
 
-Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-Generaal aangenomen rijksbegroting, onderdeel Infrastructuur en Milieu, wordt in de beschikking tot subsidieverlening vermeld dat de subsidieverlening plaatsvindt onder de voorwaarde dat voldoende gelden ter beschikking worden gesteld in de wet tot vaststelling van de rijksbegroting, onderdeel Infrastructuur en Milieu.  
+Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-Generaal aangenomen rijksbegroting, onderdeel Infrastructuur en Milieu, wordt in de beschikking tot subsidieverlening vermeld dat de subsidieverlening plaatsvindt onder de voorwaarde dat voldoende gelden ter beschikking worden gesteld in de wet tot vaststelling van de rijksbegroting, onderdeel Infrastructuur en Milieu. 
 
 ### Artikel  11  
 
 ####Voorschotverlening
 
 1.  De minister kan ambtshalve en gelijktijdig met de beschikking tot subsidieverlening een beschikking tot bevoorschotting nemen.   
-2.  Het voorschot wordt uitgekeerd in termijnen waarvan de hoogte en de tijdstippen in de beschikking tot bevoorschotting worden bepaald met dien verstande dat de voorschotverlening ten hoogste 95 procent van de verleende subsidie per boekjaar bedraagt.   
+2.  Het voorschot wordt uitgekeerd in termijnen waarvan de hoogte en de tijdstippen in de beschikking tot bevoorschotting worden bepaald met dien verstande dat de voorschotverlening ten hoogste 95 procent van de verleende subsidie per boekjaar bedraagt.  
 
 ### Artikel  12  
 
@@ -164,7 +164,7 @@ b. andere verplichtingen die de minister wenselijk acht ter verwezenlijking van 
 
 a. een administratie wordt gevoerd die zodanig is ingericht dat een gescheiden administratie van kosten en baten wordt gevoerd voor de gesubsidieerde projecten enerzijds en de overige activiteiten anderzijds, en  
 
-b. een onderzoek als bedoeld in [artikel 4:79, eerste lid, van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt uitgevoerd en dat dit onderzoek geschiedt met inachtneming van hetgeen daarover is bepaald in het controleprotocol.     
+b. een onderzoek als bedoeld in [artikel 4:79, eerste lid, van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt uitgevoerd en dat dit onderzoek geschiedt met inachtneming van hetgeen daarover is bepaald in het controleprotocol.    
 
 ### Artikel  13  
 
@@ -179,34 +179,34 @@ b. een financieel verslag als bedoeld in [artikel 4:75, eerste lid, van de wet](
 
 c. een verklaring van een accountant als bedoeld in [artikel 4:78, derde lid, van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en  
 
-d. een verklaring van een accountant als bedoeld in [artikel 4:79, derde lid, van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
+d. een verklaring van een accountant als bedoeld in [artikel 4:79, derde lid, van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
 
 ### Artikel  14  
 
 ####Beschikking tot subsidievaststelling
 
-De minister neemt de beschikking tot subsidievaststelling binnen tweeëntwintig weken na ontvangst van de aanvraag.  
+De minister neemt de beschikking tot subsidievaststelling binnen tweeëntwintig weken na ontvangst van de aanvraag. 
 
 ### Artikel  15  
 
 ####Toezicht
 
-Met het toezicht op de naleving van de aan de subsidie verbonden verplichtingen zijn belast de directeur en medewerkers van de auditdienst van het Ministerie van Infrastructuur en Milieu en, zo nodig, andere bij besluit van de minister aangewezen personen.  
+Met het toezicht op de naleving van de aan de subsidie verbonden verplichtingen zijn belast de directeur en medewerkers van de auditdienst van het Ministerie van Infrastructuur en Milieu en, zo nodig, andere bij besluit van de minister aangewezen personen. 
 
 ### Artikel  16  
 
 ####Inwerkingtreding
 
 1.  Deze regeling treedt in werking met ingang van 1 oktober 2012.   
-2.  Deze regeling vervalt met ingang van 1 januari 2017, met dien verstande dat zij van toepassing blijft op de subsidies die voor die datum zijn verleend.   
+2.  Deze regeling vervalt met ingang van 1 januari 2017, met dien verstande dat zij van toepassing blijft op de subsidies die voor die datum zijn verleend.  
 
 ### Artikel  17  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Subsidieregeling Fietsersbond 2013.  
+Deze regeling wordt aangehaald als: Subsidieregeling Fietsersbond 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Infrastructuur en Milieu,
-M.H.Schultz van Haegen-Maas Geesteranus   
+Minister van Infrastructuur en Milieu, 
+M.H. Schultz van Haegen-Maas Geesteranus     
