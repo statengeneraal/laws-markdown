@@ -2,28 +2,27 @@
 
 ##Schenk- en erfbelasting, vrijstellingen, omzetting, fusie of taakafsplitsing
 
-De staatssecretaris van Financiën heeft het volgende besloten.  *Dit besluit actualiseert het* [besluit van 15 september 2010](../../../../../../../../../../beleidsregel/schenk-/en/erfbelasting/vrijstellingen/omzetting/fusie/of/taakafsplitsing/BWBR0028390/README.md) *, nr. DGB2010/602M. Onderdeel 8 is aangepast aan de gewijzigde wetgeving. Verder is* onderdeel 8.1 *aangevuld met nieuwe goedkeuringen.* Onderdeel 8.2 *is verduidelijkt. In het nieuwe* onderdeel 10 *is goedgekeurd dat de verkrijging door een steunstichting SBBI is vrijgesteld voor de schenk- en erfbelasting. Ook zijn enkele redactionele aanpassingen opgenomen waarmee geen wijziging is beoogd.*    
+De staatssecretaris van Financiën heeft het volgende besloten.  *Dit besluit actualiseert het besluit van 15 september 2010, nr. DGB2010/602M. Onderdeel 8 is aangepast aan de gewijzigde wetgeving. Verder is onderdeel 8.1 aangevuld met nieuwe goedkeuringen. De onderdelen 4 en 8.2 zijn verduidelijkt. Ook zijn enkele redactionele aanpassingen opgenomen waarmee geen wijziging is beoogd.*    
 ### 1  
 
 ####Inleiding
 
-Het besluit bevat het beleid over de vrijstellingen van de [artikelen 32](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) en [33 van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) zoals die luiden vanaf 2010. Ook wordt behandeld de belastingheffing bij een omzetting, fusie of taakafsplitsing. Dit besluit actualiseert het [besluit van 15 september 2010](../../../../../../../../../../beleidsregel/schenk-/en/erfbelasting/vrijstellingen/omzetting/fusie/of/taakafsplitsing/BWBR0028390/README.md), nr. DGB2010/602M. Onderdeel 8 is aangepast aan de gewijzigde wetgeving. Onderdeel 8.2 is verduidelijkt. Daarnaast zijn nieuwe goedkeuringen opgenomen voor: 
+Het besluit bevat het beleid over de vrijstellingen van de [artikelen 32](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) en [33 van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) zoals die luiden vanaf 2010. Ook wordt behandeld de belastingheffing bij een omzetting, fusie of taakafsplitsing. Dit besluit actualiseert het [besluit van 15 september 2010](../../../../../../../../../../beleidsregel/schenk-/en/erfbelasting/vrijstellingen/omzetting/fusie/of/taakafsplitsing/BWBR0028390/README.md), nr. DGB2010/602M. Onderdeel 8 is aangepast aan de gewijzigde wetgeving. De onderdelen 4 en 8.2 zijn verduidelijkt. Daarnaast zijn nieuwe goedkeuringen opgenomen voor: 
 
-– de eis van een notariële akte voor de schenking (onderdeel 8.1.1);  
+– de eis van een notariële akte voor de schenking (onderdeel 8.1.1); en  
 
-– een schenking aan een kind voor zijn eigen woning die in het buitenland is gelegen (onderdeel 8.1.2); en   Ook zijn enkele redactionele aanpassingen opgenomen waarmee geen wijziging is beoogd. De goedkeuringen in dit besluit zijn verleend met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule).   
+– een schenking aan een kind voor zijn eigen woning die in het buitenland is gelegen (onderdeel 8.1.2).   Ook zijn enkele redactionele aanpassingen opgenomen waarmee geen wijziging is beoogd. De goedkeuringen in dit besluit zijn verleend met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule).   
 ### 1.1  
 
 ####Lijst van afkortingen
 
-| --- | --- |
-|:---|:---|
-| Successiewet  | [Successiewet 1956](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md)    |
-| ANBI   | Algemeen nut beogende instelling als bedoeld in [artikel 5b van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)  |
-| SBBI   | Sociaal belang behartigende instelling als bedoeld in [artikel 5c van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)  |
-| Steunstichting SBBI  | Steunstichting SBBI als bedoeld in [artikel 5d van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)  |
-| URSE  |  [Uitvoeringsregeling schenk- en erfbelasting](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/schenk-/en/erfbelasting/BWBR0027018/README.md)   |
+*Successiewet:* [Successiewet 1956](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md)  
 
+*ANBI:* Algemeen nut beogende instelling als bedoeld in [artikel 5b van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)  
+
+*SBBI:* Sociaal belang behartigende instelling als bedoeld in [artikel 5c van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)  
+
+*URSE:* [Uitvoeringsregeling schenk- en erfbelasting](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/schenk-/en/erfbelasting/BWBR0027018/README.md)       
 ### 2  
 
 ####Omzetting, fusie of taakafsplitsing
@@ -99,12 +98,15 @@ Erflater B wijst ANBI Z aan als enig erfgenaam onder de last om daarmee voer te 
 
 ####Samenloop erfbelasting en loon- of inkomstenbelasting
 
-Een eenmalige ongevalsuitkering kan belast zijn voor de erfbelasting ([artikel 13 van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md)). De uitkering kan bovendien voor de loon- of inkomstenbelasting zijn belast als loon uit dienstbetrekking. De [Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) kent geen bepaling die voorziet in verrekening of aftrek van over de uitkering verschuldigde loon- of inkomstenbelasting. Hierdoor wordt de uitkering tweemaal in de belastingheffing betrokken. Die dubbele heffing vind ik niet gewenst. Daarom keur ik het volgende goed.  *Goedkeuring*  Ik keur onder een voorwaarde goed dat een eenmalige ongevalsuitkering is vrijgesteld voor de erfbelasting. 
+Een eenmalige ongevalsuitkering kan belast zijn voor de erfbelasting ([artikel 13 van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md)). De uitkering kan bovendien voor de loon- of inkomstenbelasting zijn belast als loon uit dienstbetrekking. De [Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) kent geen bepaling die voorziet in verrekening of aftrek van over de uitkering verschuldigde loon- of inkomstenbelasting. Hierdoor wordt de uitkering tweemaal in de belastingheffing betrokken. Die dubbele heffing vind ik niet gewenst. Daarom keur ik het volgende goed. 
+### *Goedkeuring* 
+
+Ik keur onder een voorwaarde goed dat een eenmalige ongevalsuitkering is vrijgesteld voor de erfbelasting. 
 ### *Voorwaarde* 
 
 Voor de goedkeuring geldt de volgende voorwaarde: 
 
-– over de ongevalsuitkering wordt bij de verkijger inkomstenbelasting of loonbelasting geheven.      
+– over de ongevalsuitkering wordt bij de verkrijger inkomstenbelasting of loonbelasting geheven.      
 ### 6  
 
 ####Liquidatie-uitkering aan leden brancheorganisatie
@@ -136,14 +138,14 @@ Ik keur goed dat in de volgende gevallen op verzoek heffing van schenkbelasting 
 
 – de (voormalige) beherend vennoot van de vennootschap waarbij de werknemers in dienst zijn;  
 
-– een stichting werknemersbelangen aan een andere stichting werknemersbelangen die de belangen behartigt van dezelfde groep werknemers. Dit geldt bijvoorbeeld bij de overheveling van (overtollig) vermogen uit een VUT-fonds naar een prepensioenfonds voor werknemers uit dezelfde branche; en  
+– een stichting werknemersbelangen aan een andere stichting werknemersbelangen die de belangen behartigt van dezelfde groep werknemers. Dit geldt bijvoorbeeld bij de overheveling van (overtollig) vermogen uit een VUT-fonds naar een prepensioenfonds voor werknemers uit dezelfde branche; en  
 
 – een stichting werknemersbelangen aan een andere stichting werknemersbelangen die de belangenbehartiging van een groep werknemers heeft overgenomen. Voorbeelden hiervan zijn de herstructurering van een concern waarbij een bedrijfsonderdeel wordt afgesplitst en een fusie van bedrijven.      
 ### 8  
 
 ####Eenmalig verhoogde vrijstelling voor schenking aan kind
 
-Voor een schenking aan een kind tussen de 18 en 40 jaar (tot 2013: 35 jaar) kan een beroep worden gedaan op de eenmalig verhoogde vrijstelling (in 2012: € 24.144). Zie [artikel 33, onder 5°, van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md). Voor een schenking voor de eigen woning van het kind of voor een studie of de opleiding voor een beroep voor het kind kan de eenmalig verhoogde vrijstelling worden verhoogd (in 2012: met € 26.156 tot € 50.300). De verhoogde vrijstelling is eenmalig, en kan dus niet worden gespreid over meerdere kalenderjaren. Er is wel een overgangsregeling in [artikel 33, onder 6°, van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md). Als het kind vóór 1 januari 2010 de eenmalig verhoogde vrijstelling al heeft genoten, kan het kind toch de aanvullende eenmalig verhoogde vrijstelling nog genieten voor een schenking voor zijn eigen woning. Deze overgangsregeling geldt niet voor de betaling van kosten van een studie of opleiding. In alle gevallen moet in de aangifte schenkbelasting een beroep worden gedaan op de verhoogde vrijstelling.   
+Voor een schenking aan een kind tussen de 18 en 40 jaar (tot 2013: 35 jaar) kan een beroep worden gedaan op de eenmalig verhoogde vrijstelling (in 2012: € 24.144). Zie [artikel 33, onder 5°, van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md). Voor een schenking voor de eigen woning van het kind of voor een studie of de opleiding voor een beroep voor het kind kan de eenmalig verhoogde vrijstelling worden verhoogd (in 2012: met € 26.156 tot € 50.300). De verhoogde vrijstelling is eenmalig, en kan dus niet worden gespreid over meerdere kalenderjaren. Er is wel een overgangsregeling in [artikel 33, onder 6°, van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md). Als het kind vóór 1 januari 2010 de eenmalig verhoogde vrijstelling al heeft genoten, kan het kind toch de aanvullende eenmalig verhoogde vrijstelling nog genieten voor een schenking voor zijn eigen woning. Deze overgangsregeling geldt niet voor de betaling van kosten van een studie of opleiding. In alle gevallen moet in de aangifte schenkbelasting een beroep worden gedaan op de verhoogde vrijstelling.   
 ### 8.1  
 
 ####Eenmalig verhoogde vrijstelling voor de eigen woning
@@ -154,7 +156,7 @@ Voor het jaar 2010 gold de verhoogde vrijstelling voor een schenking voor de eig
 Ik keur onder een voorwaarde goed dat voor de verhoogde vrijstelling voor een schenking in 2010 voor de eigen woning van een kind kan worden uitgegaan van de wettekst van [artikel 33, onder 5° en 6°, van de Successiewet 1956](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) die geldt voor het jaar 2011. 
 ### *Voorwaarde* 
 
-De goedkeuring geldt onder de voorwaarden van [artikel 5, onderdelen a en c, van de URSE](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/schenk-/en/erfbelasting/BWBR0027018/README.md) die gelden voor 2011. Gelet op de goedkeuring onder 8.1.2 is een notariële akte niet nodig. Hierna volgen vier voorbeelden waarin bij een eigen woning die al is aangeschaft de verhoogde vrijstelling kan gelden. 
+De goedkeuring geldt onder de voorwaarden van [artikel 5, onderdelen a en c, van de URSE](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/schenk-/en/erfbelasting/BWBR0027018/README.md) die gelden voor 2011. Gelet op de goedkeuring in onderdeel 8.1.1 is een notariële akte niet nodig. Hierna volgen vier voorbeelden waarin bij een eigen woning die al is aangeschaft de verhoogde vrijstelling kan gelden. 
 ### *Voorbeeld 1* 
 
 X woont in zijn eigen woning die hij wil opknappen. Hij krijgt daarvoor van zijn ouders een schenking van € 50.000 waarmee hij het onderhoud en verbetering aan zijn eigen woning betaalt. Voor een schenking voor de eigen woning van het kind in 2010 geldt de vrijstelling door de goedkeuring. Voor een schenking in de jaren 2011 en verder geldt de vrijstelling op grond van de wet. 
@@ -171,7 +173,7 @@ X heeft een woning gekocht met de bedoeling in die woning te gaan wonen. Hij is 
 
 ####Notariële akte
 
-In [artikel 5 van de URSE](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/schenk-/en/erfbelasting/BWBR0027018/README.md) zijn nadere voorwaarden opgenomen voor de verhoogde vrijstellingen voor een schenking voor de eigen woning van een kind. Voor een vrijstelling moet van die schenking in 2010 en 2011 een notariële akte zijn opgemaakt (artikel 5, eerste lid, onderdeel b, van de URSE). Die eis is in 2012 vervallen. In 2010 en 2011 zijn schenkingen gedaan zonder notariële akte. Vanaf 1 januari 2010 tot de datum van publicatie van het [besluit DGB2010/602M](../../../../../../../../../../beleidsregel/schenk-/en/erfbelasting/vrijstellingen/omzetting/fusie/of/taakafsplitsing/BWBR0028390/README.md) kunnen schenkingen zijn gedaan voor de eigen woning van het kind die achteraf bezien materieel al wel, maar door de ontbrekende notariële akte formeel niet voldeden aan de voorwaarden van de goedkeuring. Daarnaast was er in 2010 onduidelijkheid over de eis van een notariële akte in relatie tot [artikel 33, onder 6°, van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md). In de praktijk zijn er ook discussies over de mogelijkheden het vormgebrek van de notariële akte te repareren dan wel de schenking te herroepen en opnieuw te doen. Mede door de wijziging in 2012, vind ik de door deze discussies ontstane onzekerheid niet gewenst. Daarom keur ik het volgende goed. 
+In [artikel 5 van de URSE](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/schenk-/en/erfbelasting/BWBR0027018/README.md) zijn nadere voorwaarden opgenomen voor de verhoogde vrijstellingen voor een schenking voor de eigen woning van een kind. Voor een vrijstelling moet van die schenking in 2010 en 2011 een notariële akte zijn opgemaakt (artikel 5, eerste lid, onderdeel b, van de URSE). Die eis is in 2012 vervallen. In 2010 en 2011 zijn schenkingen gedaan zonder notariële akte. Vanaf 1 januari 2010 tot de datum van publicatie van het besluit DGB2010/602M kunnen schenkingen zijn gedaan voor de eigen woning van het kind die achteraf bezien materieel al wel, maar door de ontbrekende notariële akte formeel niet voldeden aan de voorwaarden van de goedkeuring. Daarnaast was er in 2010 onduidelijkheid over de eis van een notariële akte in relatie tot [artikel 33, onder 6°, van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md). In de praktijk zijn er ook discussies over de mogelijkheden het vormgebrek van de notariële akte te repareren dan wel de schenking te herroepen en opnieuw te doen. Mede door de wijziging in 2012, vind ik de door deze discussies ontstane onzekerheid niet gewenst. Daarom keur ik het volgende goed. 
 ### *Goedkeuring* 
 
 Ik keur goed dat voor schenkingen gedaan in 2010 of 2011 [artikel 5, onderdeel b, van de URSE](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/schenk-/en/erfbelasting/BWBR0027018/README.md), zoals die bepaling luidde voor 2010 en 2011, niet geldt.    
@@ -179,12 +181,12 @@ Ik keur goed dat voor schenkingen gedaan in 2010 of 2011 [artikel 5, onderdeel b
 
 ####Eigen woning in het buitenland
 
-Een verhoogde vrijstelling geldt voor de schenking voor een eigen woning van een kind als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet IB 2001](../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). De vrijstelling is daarmee in beginsel alleen van toepassing op de eigen woning die daadwerkelijk in de heffing van de Nederlandse inkomstenbelasting is betrokken. Ook voor een buitenlandse eigen woning die niet in de Nederlandse inkomstenbelasting wordt betrokken, kan de vrijstelling worden verleend. Belangrijk daarbij is de controlemogelijkheid. De vrijstelling geldt namelijk alleen als de schenking daadwerkelijk is besteed aan de eigen woning ([artikel 5 van de URSE](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/schenk-/en/erfbelasting/BWBR0027018/README.md)). Ik leg daarom [artikel 33, onder 5° en onder 6°, van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) zo uit dat de vrijstelling ook kan worden verleend voor een schenking voor de eigen woning van een kind gelegen in een land waarmee Nederland een verdrag ter voorkoming van dubbele belasting heeft afgesloten waarin de uitwisseling van fiscale informatie is geregeld. De vrijstelling geldt uiteraard alleen als de woning voor het kind voldoet aan de uitgangspunten van artikel 3.111, eerste of derde lid, van de Wet IB 2001.     
+Een verhoogde vrijstelling geldt voor de schenking voor een eigen woning van een kind als bedoeld in artikel 3.111, eerste of derde lid, van de Wet IB 2001. De vrijstelling is daarmee in beginsel alleen van toepassing op de eigen woning die daadwerkelijk in de heffing van de Nederlandse inkomstenbelasting is betrokken. Ook voor een buitenlandse eigen woning die niet in de Nederlandse inkomstenbelasting wordt betrokken, kan de vrijstelling worden verleend. Belangrijk daarbij is de controlemogelijkheid. De vrijstelling geldt namelijk alleen als de schenking daadwerkelijk is besteed aan de eigen woning ([artikel 5 van de URSE](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/schenk-/en/erfbelasting/BWBR0027018/README.md)). Ik leg daarom [artikel 33, onder 5° en onder 6°, van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) zo uit dat de vrijstelling ook kan worden verleend voor een schenking voor de eigen woning van een kind gelegen in een land waarmee Nederland een verdrag ter voorkoming van dubbele belasting heeft afgesloten waarin de uitwisseling van fiscale informatie is geregeld. De vrijstelling geldt uiteraard alleen als de woning voor het kind voldoet aan de uitgangspunten van artikel 3.111, eerste of derde lid, van de Wet IB 2001.     
 ### 8.2  
 
 ####Invloed leeftijd partner
 
-Voor de berekening van de schenkbelasting worden partners als één en dezelfde persoon aangemerkt. Voor het tarief en de vrijstelling geldt alsdan de naaste verwantschap tussen de schenker of zijn partner en de verkrijger of zijn partner. Zie [artikel 26, eerste lid, van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md). De vrijstellingen van [artikel 33, onder 5 <sup>o</sup> en 6 <sup>o</sup>, van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) zijn echter alleen van toepassing als het verkrijgende kind zelf voldoet aan de voorwaarden. Het is niet van belang of de partner van het kind aan de voorwaarden voldoet. Voor de eenmalig verhoogde vrijstelling moet het verkrijgende kind op het moment van de schenking tussen de 18 en 40 jaar (tot 2013: 35 jaar) oud zijn (artikel 33, onder 5° en 6° van de Successiewet). Als het kind op het tijdstip van de schenking zelf 40 jaar (tot 2013: 35 jaar) of ouder is, maar zijn partner nog niet, hanteer ik van oudsher een soepel beleid. Daarom keur ik het volgende goed. 
+Voor de berekening van de schenkbelasting worden partners als één en dezelfde persoon aangemerkt. Voor het tarief en de vrijstelling geldt alsdan de naaste verwantschap tussen de schenker of zijn partner en de verkrijger of zijn partner. Zie [artikel 26, eerste lid, van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md). De vrijstellingen van [artikel 33, onder 5° en 6°, van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) zijn echter alleen van toepassing als het verkrijgende kind zelf voldoet aan de voorwaarden. Het is niet van belang of de partner van het kind aan de voorwaarden voldoet. Voor de eenmalig verhoogde vrijstelling moet het verkrijgende kind op het moment van de schenking tussen de 18 en 40 jaar (tot 2013: 35 jaar) oud zijn (artikel 33, onder 5° en 6° van de Successiewet). Als het kind op het tijdstip van de schenking zelf 40 jaar (tot 2013: 35 jaar) of ouder is, maar zijn partner nog niet, hanteer ik van oudsher een soepel beleid. Daarom keur ik het volgende goed. 
 ### *Goedkeuring* 
 
 Ik keur onder voorwaarden goed dat de eenmalig verhoogde vrijstelling van [artikel 33, onder 5° en 6°, van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md), ook geldt als het kind aan wie is geschonken op het tijdstip van de schenking zelf niet voldoet aan de in die bepalingen gestelde leeftijdsgrens. 
@@ -192,9 +194,9 @@ Ik keur onder voorwaarden goed dat de eenmalig verhoogde vrijstelling van [artik
 
 Voor de goedkeuring gelden de volgende voorwaarden: 
 
-– De partner als bedoeld in [artikel 1a van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) van het kind is op het tijdstip van een schenking die is gedaan tot en met 31 december 2012 tussen de 18 en 35 jaar oud.  
+– De partner als bedoeld in [artikel 1a van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) van het kind is op het tijdstip van een schenking die is gedaan tot en met 31 december 2012 tussen de 18 en 35 jaar oud.  
 
-– De partner als bedoeld in [artikel 1a van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) van het kind is op het tijdstip van een schenking die is gedaan op of na 1 januari 2013 tussen de 18 en 40 jaar oud.  
+– De partner als bedoeld in [artikel 1a van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) van het kind is op het tijdstip van een schenking die is gedaan op of na 1 januari 2013 tussen de 18 en 40 jaar oud.  
 
 – De partner heeft geen beroep gedaan en zal geen beroep doen op de eenmalig verhoogde vrijstelling voor een schenking door de ouder(s) van het kind.   
 ### *Voorbeeld 1* 
@@ -202,7 +204,7 @@ Voor de goedkeuring gelden de volgende voorwaarden:
 Een ouder schenkt in 2013 aan zijn gehuwde dochter van 41 jaar € 24.000. De echtgenoot van de dochter is op het moment van de schenking 39 jaar oud. In de aangifte voor de schenkbelasting wordt een beroep gedaan op de eenmalig verhoogde vrijstelling. De vrijstelling kan in dit geval worden toegepast. Voor een schenking aan de schoonzoon door dezelfde ouder(s) mag uiteraard geen beroep zijn of worden gedaan op de eenmalig verhoogde vrijstelling. De schoonzoon mag wel een beroep doen of hebben gedaan op de eenmalig verhoogde vrijstelling van een schenking van zijn eigen ouder(s). 
 ### *Voorbeeld 2* 
 
-Een ouder schonk in 2008 aan zijn toen 34-jarige zoon € 20.000. Op die schenking is de eenmalig verhoogde vrijstelling toegepast die gold voor het schenkingsrecht in 2008. In 2012 schonk de vader € 30.000 aan zijn zoon voor de verwerving van een eigen woning door de zoon. De zoon zelf is dan ouder dan 35 jaar, maar zijn partner niet. Op grond van de goedkeuring kan de vrijstelling van [artikel 33, onder 6°, van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) toch gelden. Die vrijstelling is in 2011 maximaal € 26.156. De belastbare schenking is daarvan uitgaande dan € 3.844.     
+Een ouder schonk in 2008 aan zijn toen 34-jarige zoon € 20.000. Op die schenking is de eenmalig verhoogde vrijstelling toegepast die gold voor het schenkingsrecht in 2008. In 2012 schonk de vader € 30.000 aan zijn zoon voor de verwerving van een eigen woning door de zoon. De zoon zelf is dan ouder dan 35 jaar, maar zijn partner niet. Op grond van de goedkeuring kan de vrijstelling van [artikel 33, onder 6°, van de Successiewet](../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) toch gelden. Die vrijstelling is in 2012 maximaal € 26.156. De belastbare schenking is daarvan uitgaande dan € 3844.     
 ### 9  
 
 ####Lijfrentevrijstelling
@@ -225,16 +227,16 @@ Voor de goedkeuring geldt de volgende voorwaarde:
 
 ####Ingetrokken regeling
 
-Het [besluit van 15 september 2010](../../../../../../../../../../beleidsregel/schenk-/en/erfbelasting/vrijstellingen/omzetting/fusie/of/taakafsplitsing/BWBR0028390/README.md), nr. DGB2010/602M, is ingetrokken met ingang van de inwerkingtreding van dit besluit.    
+Het [besluit van 15 september 2010](../../../../../../../../../../beleidsregel/schenk-/en/erfbelasting/vrijstellingen/omzetting/fusie/of/taakafsplitsing/BWBR0028390/README.md), nr. DGB2010/602M, is ingetrokken met ingang van de inwerkingtreding van dit besluit.    
 ### 11  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Onderdeel 8.1 van dit besluit werkt terug tot en met 1 januari 2010.      Dit besluit zal in de Staatscourant worden geplaatst.   
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Onderdeel 8.1 van dit besluit werkt terug tot en met 1 januari 2010.      Dit besluit zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
-20 december 2012   
+20 december 2012   
 
 De 
-Staatssecretaris van Financiën,
-F.H.H.Weekers.   
+staatssecretaris van Financiën 
+F.H.H. Weekers     
