@@ -10,9 +10,9 @@ Nederlandse Zorgautoriteit
 Berkelmans  
 waarnemend unitmanager Eerstelijns Zorg en Ketens   
 
-### Bijlage  1  
+### Bijlage 1 
 
-####bij Tariefbeschikking tarievenlijst verloskunde
+#### bij Tariefbeschikking tarievenlijst verloskunde
 
 *TB/CU-7058-02 van 9 januari 2013*   *De maximumtarieven die door zorgaanbieders die geneeskundige zorg leveren zoals verloskundigen die bieden in rekening kunnen worden gebracht voor prestaties met ingang van 1 januari 2013*  
 
@@ -149,7 +149,7 @@ H.  *Aanvullende bepalingen*
 
 5) Het maximumtarief voor de module “geboortecentrum” zoals vermeld onder H4 kan boven de eerder vermeldde € 518,50 tot maximaal € 759,45 worden overeengekomen onder de aanvullende voorwaarde dat de betrokken zorgverzekeraar en zorgaanbieder in voornoemde overeenkomst inzichtelijk maken dat de overeengekomen zorgverlening leidt tot een aannemelijke besparing op de kosten elders in de zorgketen.     
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####bij Tariefbeschikking tarievenlijst verloskunde
 

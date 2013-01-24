@@ -12,25 +12,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####Begripsbepalingen
 
-### Artikel  1  
+###Artikel 1 
 
 In deze wet wordt verstaan onder: 
 
-a. zeeschepen: schepen die blijkens hun constructie uitsluitend of in hoofdzaak voor drijven in zee zijn bestemd, met uitzondering van: 
+a.zeeschepen: schepen die blijkens hun constructie uitsluitend of in hoofdzaak voor drijven in zee zijn bestemd, met uitzondering van: 
 
-1°. oorlogsschepen,  
+1°.oorlogsschepen,
 
-2°. reddingsschepen, en  
+2°.reddingsschepen, en
 
-3°. zeevissersschepen;    
+3°.zeevissersschepen;
 
-b. rompbevrachting: de overeenkomst, waarbij de ene partij, de rompvervrachter, zich verbindt een zeeschip zonder bemanning voor een bepaalde tijd ter beschikking te stellen van haar wederpartij, de rompbevrachter, zonder daarover nog enige zeggenschap te houden, en de rompbevrachter het schip exploiteert;  
+b.rompbevrachting: de overeenkomst, waarbij de ene partij, de rompvervrachter, zich verbindt een zeeschip zonder bemanning voor een bepaalde tijd ter beschikking te stellen van haar wederpartij, de rompbevrachter, zonder daarover nog enige zeggenschap te houden, en de rompbevrachter het schip exploiteert;
 
-c. Onze Minister: Onze Minister van Verkeer en Waterstaat;  
+c.Onze Minister: Onze Minister van Verkeer en Waterstaat;
 
-d. buiten Nederland te boek staan: buiten Nederland te boek staan in een register soortgelijk aan de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md);  
+d.buiten Nederland te boek staan: buiten Nederland te boek staan in een register soortgelijk aan de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md);
 
-e. notaris: een in Nederland gevestigde notaris.    
+e.notaris: een in Nederland gevestigde notaris.
 
 ### Hoofdstuk  II  
 
@@ -39,7 +39,7 @@ e. notaris: een in Nederland gevestigde notaris.
 ### Artikel  2  
 
 1.  Er is een openbaar rompbevrachtingsregister, dat door Onze Minister wordt gehouden.   
-2.  Het rompbevrachtingsregister bevat ten aanzien van elk daarin ingeschreven zeeschip de volgende gegevens: 
+2.   Het rompbevrachtingsregister bevat ten aanzien van elk daarin ingeschreven zeeschip de volgende gegevens:  
 
 a. de naam die het schip voert;  
 
@@ -47,7 +47,7 @@ b. de naam waaronder het schip buiten Nederland teboekstaat;
 
 c. de bruto en netto tonnage van het schip volgens de door Onze Minister afgegeven meetbrief;  
 
-d. de beschrijving van het schip, welke de volgende gegevens dient te bevatten: 
+d. de beschrijving van het schip, welke de volgende gegevens dient te bevatten:  
 
 1°. het type en de inrichting van het schip,  
 
@@ -72,7 +72,7 @@ f. de naam en het adres van de eigenaar;
 g. de naam en het adres van de rompbevrachter;  
 
 h. de dagtekening van de rompbevrachtingsovereenkomst en de tijdsduur waarvoor die overeenkomst is afgesloten.     
-3.  Desgevraagd verleent Onze Minister kosteloos inzage in het rompbevrachtingsregister, en geeft hij tegen kostprijs voor eensluidend gewaarmerkte uittreksels daaruit af.   
+3.   Desgevraagd verleent Onze Minister kosteloos inzage in het rompbevrachtingsregister, en geeft hij tegen kostprijs voor eensluidend gewaarmerkte uittreksels daaruit af.   
 4.  Het doel van het rompbevrachtingsregister is de goede uitvoering van de bij of krachtens deze wet vastgestelde regels.   
 
 ### Artikel  3  
@@ -97,11 +97,11 @@ e. de eigenaar en de rompvervrachter – indien deze een ander is dan de eigena
 
 f. de rompbevrachter aanvaardt de verantwoordelijkheid voor het schip en zijn opvarenden die voortvloeit uit de hoedanigheid van Nederlands schip, en  
 
-g. ingevolge de wetgeving van de staat waar het schip te boek staat, zijn er geen beletselen voor het verkrijgen van de hoedanigheid van Nederlands schip in verband met het aangaan van een rompbevrachtingsovereenkomst met een in Nederland gevestigde rompbevrachter.    
+g. ingevolge de wetgeving van de staat waar het schip te boek staat, zijn er geen beletselen voor het verkrijgen van de hoedanigheid van Nederlands schip in verband met het aangaan van een rompbevrachtingsovereenkomst met een in Nederland gevestigde rompbevrachter.   
 
 ### Artikel  4  
 
-1.  Bij de aanvraag tot inschrijving van een zeeschip in het rompbevrachtingsregister verschaft de rompbevrachter de volgende gegevens: 
+1.  Bij de aanvraag tot inschrijving van een zeeschip in het rompbevrachtingsregister verschaft de rompbevrachter de volgende gegevens:  
 
 a. een recent authentiek afschrift van de teboekstelling van het zeeschip buiten Nederland;  
 
@@ -118,28 +118,28 @@ f. een in de Nederlandse of Engelse taal gestelde schriftelijke verklaring van d
 g. een schriftelijke verklaring van de rompbevrachter waaruit blijkt dat hij de verantwoordelijkheid voor het schip en zijn opvarenden aanvaardt die voortvloeit uit de hoedanigheid van Nederlands schip;  
 
 h. de door Onze Minister afgegeven meetbrief.     
-2.  Voorts toont de rompbevrachter ten genoegen van Onze Minister aan, dat het schip niet gerechtigd is de vlag te voeren van de staat waar het schip buiten Nederland teboekstaat, zolang het schip in Nederland in het rompbevrachtingsregister is ingeschreven.   
-3.  Onze Minister kan een verklaring omtrent de echtheid van het in het eerste lid, onder *a*, genoemde afschrift verlangen. Hij kan tevens een vertaling van het afschrift door een beëdigd vertaler in de Nederlandse of Engelse taal verlangen.   
-4.  Onze Minister kan voor de in het eerste lid, onder *e*, *f* en *g*, genoemde verklaringen nadere voorschriften vaststellen. Deze verklaringen dienen vergezeld te gaan van een door een notaris opgemaakte verklaring omtrent de identiteit en de vertegenwoordigingsbevoegdheid van de ondertekenende personen.   
-5.  Onze Minister weigert de inschrijving dan wel staat deze toe onder voorwaarden, indien de verkrijging van de hoedanigheid van Nederlands schip niet verenigbaar is met volkenrechtelijke verplichtingen van het Koninkrijk, onderscheidenlijk zonder het stellen van voorwaarden niet verenigbaar zou zijn.   
-6.  Onze Minister kan aan de inschrijving voorwaarden verbinden teneinde de voldoening van vorderingen uit de arbeidsovereenkomsten van de kapitein en de andere leden van de bemanning steeds gedurende ten minste één jaar te verzekeren.   
+2.   Voorts toont de rompbevrachter ten genoegen van Onze Minister aan, dat het schip niet gerechtigd is de vlag te voeren van de staat waar het schip buiten Nederland teboekstaat, zolang het schip in Nederland in het rompbevrachtingsregister is ingeschreven.   
+3.   Onze Minister kan een verklaring omtrent de echtheid van het in het eerste lid, onder *a*, genoemde afschrift verlangen. Hij kan tevens een vertaling van het afschrift door een beëdigd vertaler in de Nederlandse of Engelse taal verlangen.   
+4.   Onze Minister kan voor de in het eerste lid, onder *e*, *f* en *g*, genoemde verklaringen nadere voorschriften vaststellen. Deze verklaringen dienen vergezeld te gaan van een door een notaris opgemaakte verklaring omtrent de identiteit en de vertegenwoordigingsbevoegdheid van de ondertekenende personen.   
+5.   Onze Minister weigert de inschrijving dan wel staat deze toe onder voorwaarden, indien de verkrijging van de hoedanigheid van Nederlands schip niet verenigbaar is met volkenrechtelijke verplichtingen van het Koninkrijk, onderscheidenlijk zonder het stellen van voorwaarden niet verenigbaar zou zijn.   
+6.   Onze Minister kan aan de inschrijving voorwaarden verbinden teneinde de voldoening van vorderingen uit de arbeidsovereenkomsten van de kapitein en de andere leden van de bemanning steeds gedurende ten minste één jaar te verzekeren.  
 
 ### Artikel  5  
 
 1.  Door inschrijving in het rompbevrachtingsregister verkrijgt een zeeschip, dat buiten Nederland teboekstaat, de hoedanigheid van Nederlands schip.   
-2.  Het zeeschip verliest de hoedanigheid van Nederlands schip met ingang van de dagtekening van de doorhaling van de inschrijving in het rompbevrachtingsregister.   
+2.   Het zeeschip verliest de hoedanigheid van Nederlands schip met ingang van de dagtekening van de doorhaling van de inschrijving in het rompbevrachtingsregister.  
 
 ### Artikel  6  
 
-Onze Minister stelt de representatieve organisaties van reders en zeevarenden, alsmede de bevoegde autoriteit van het kantoor, waar het schip buiten Nederland teboekstaat, onverwijld in kennis van elke inschrijving van een zeeschip in het rompbevrachtingsregister, en van elke wijziging of aanvulling van ingeschreven gegevens.  
+Onze Minister stelt de representatieve organisaties van reders en zeevarenden, alsmede de bevoegde autoriteit van het kantoor, waar het schip buiten Nederland teboekstaat, onverwijld in kennis van elke inschrijving van een zeeschip in het rompbevrachtingsregister, en van elke wijziging of aanvulling van ingeschreven gegevens. 
 
 ### Artikel  7  
 
-De rompbevrachter stelt Onze Minister onverwijld schriftelijk in kennis van wijzigingen in gegevens betreffende de rompbevrachtingsovereenkomst, van het aangaan van enige nadere overeenkomst, alsmede van alle wijzigingen in de omstandigheden, welke van belang kunnen zijn in verband met de inschrijving dan wel de doorhaling van een inschrijving van een zeeschip in het rompbevrachtingsregister.  
+De rompbevrachter stelt Onze Minister onverwijld schriftelijk in kennis van wijzigingen in gegevens betreffende de rompbevrachtingsovereenkomst, van het aangaan van enige nadere overeenkomst, alsmede van alle wijzigingen in de omstandigheden, welke van belang kunnen zijn in verband met de inschrijving dan wel de doorhaling van een inschrijving van een zeeschip in het rompbevrachtingsregister. 
 
 ### Artikel  8  
 
-1.  Onze Minister haalt de inschrijving van een zeeschip in het rompbevrachtingsregister door: 
+1.  Onze Minister haalt de inschrijving van een zeeschip in het rompbevrachtingsregister door:  
 
 a. bij het einde van de rompbevrachtingsovereenkomst;  
 
@@ -154,7 +154,7 @@ e. indien Onze Minister is gebleken van feiten of omstandigheden, voorgevallen o
 f. indien Onze Minister is gebleken dat de rompbevrachter overeenkomsten heeft aangegaan die tot gevolg hebben dat de zeggenschap, onderscheidenlijk de verantwoordelijkheid van de rompbevrachter wezenlijk wordt aangetast;  
 
 g. indien de hoedanigheid van Nederlands schip niet langer verenigbaar is met volkenrechtelijke verplichtingen van het Koninkrijk en de onverenigbaarheid niet kan worden opgeheven door het stellen van voorwaarden.     
-2.  Onze Minister kan de inschrijving van een zeeschip in het rompbevrachtingsregister doorhalen: 
+2.   Onze Minister kan de inschrijving van een zeeschip in het rompbevrachtingsregister doorhalen:  
 
 a. wegens overtreding van [artikel 3, tweede lid, van de Zeebrievenwet](../../../../../../../wet/zeebrievenwet/BWBR0001933/README.md) (*Stb.* 1963, 229);  
 
@@ -165,7 +165,7 @@ c. indien het schip wordt gebruikt voor het vervoer van verdovende middelen in d
 d. indien het schip op een zodanige wijze is gebruikt dat dientengevolge de betrekkingen van het Koninkrijk met één of meer andere staten ernstig worden benadeeld;  
 
 e. indien door Onze Minister op grond van artikel 4, vijfde of zesde lid, gestelde voorwaarden niet worden nageleefd.     
-3.  Onze Minister stelt de representatieve organisaties van reders en zeevarenden, alsmede de bevoegde autoriteit van het kantoor, waar het schip buiten Nederland teboekstaat, onverwijld in kennis van elke beschikking tot doorhaling van de inschrijving van een zeeschip in het rompbevrachtingsregister.   
+3.   Onze Minister stelt de representatieve organisaties van reders en zeevarenden, alsmede de bevoegde autoriteit van het kantoor, waar het schip buiten Nederland teboekstaat, onverwijld in kennis van elke beschikking tot doorhaling van de inschrijving van een zeeschip in het rompbevrachtingsregister.  
 
 ### Hoofdstuk  III  
 
@@ -174,21 +174,21 @@ e. indien door Onze Minister op grond van artikel 4, vijfde of zesde lid, gestel
 ### Artikel  9  
 
 1.  Het tweede lid van artikel 4 is niet van toepassing op zeeschepen die teboekstaan in het openbaar register, genoemd in het [Wetboek van Koophandel](../../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md) van Aruba, Curaçao, onderscheidenlijk Sint Maarten.   
-2.  Van een inschrijving in het rompbevrachtingsregister, van elke wijziging of aanvulling van ingeschreven gegevens, alsmede van een doorhaling van de inschrijving van een zeeschip dat teboekstaat in Aruba, Curaçao of Sint Maarten, wordt de Bewaarder der Scheepsbewijzen in Aruba, de Hoofdbewaarder der Scheepsbewijzen in Curaçao, onderscheidenlijk de Hoofdbewaarder der Scheepsbewijzen in Sint Maarten onverwijld schriftelijk in kennis gesteld.   
+2.   Van een inschrijving in het rompbevrachtingsregister, van elke wijziging of aanvulling van ingeschreven gegevens, alsmede van een doorhaling van de inschrijving van een zeeschip dat teboekstaat in Aruba, Curaçao of Sint Maarten, wordt de Bewaarder der Scheepsbewijzen in Aruba, de Hoofdbewaarder der Scheepsbewijzen in Curaçao, onderscheidenlijk de Hoofdbewaarder der Scheepsbewijzen in Sint Maarten onverwijld schriftelijk in kennis gesteld.  
 
 ### Artikel  10  
 
-De rompbevrachter is terzake van iedere inschrijving alsmede iedere wijziging van de inschrijving van een zeeschip in het rompbevrachtingsregister een vergoeding verschuldigd ter dekking van de door de Staat gemaakte kosten. De hoogte van de vergoeding en de wijze waarop deze wordt geïnd worden vastgesteld door Onze Minister.  
+De rompbevrachter is terzake van iedere inschrijving alsmede iedere wijziging van de inschrijving van een zeeschip in het rompbevrachtingsregister een vergoeding verschuldigd ter dekking van de door de Staat gemaakte kosten. De hoogte van de vergoeding en de wijze waarop deze wordt geïnd worden vastgesteld door Onze Minister. 
 
 ### Artikel  10a  
 
 1.  Met het toezicht op de naleving van het bij de artikelen 3 en 8 bepaalde, zijn belast de bij besluit van Onze Minister van Verkeer en Waterstaat aangewezen ambtenaren.   
-2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.   
+2.   Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.   
 3.  De toezichthouders beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:15](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:17 tot en met 5:20 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 
 ### Artikel  12  
 
-Onze Minister brengt vijf jaren na het in werking treden van deze wet aan de Staten-Generaal verslag uit over de wijze waarop zij is toegepast.  
+Onze Minister brengt vijf jaren na het in werking treden van deze wet aan de Staten-Generaal verslag uit over de wijze waarop zij is toegepast. 
 
 ### Hoofdstuk  IV  
 
@@ -196,40 +196,40 @@ Onze Minister brengt vijf jaren na het in werking treden van deze wet aan de Sta
 
 ### Artikel  13  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  14  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  15  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  16  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  17  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  18  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  19  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  20  
 
 1.  Deze wet treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.   
-2.  De tekst van de [Zeebrievenwet](../../../../../../../wet/zeebrievenwet/BWBR0001933/README.md) wordt door Onze Minister van Justitie in het *Staatsblad* geplaatst.   
+2.   De tekst van de [Zeebrievenwet](../../../../../../../wet/zeebrievenwet/BWBR0001933/README.md) wordt door Onze Minister van Justitie in het *Staatsblad* geplaatst.  
 
 ### Artikel  21  
 
-Deze wet kan worden aangehaald als: Wet nationaliteit zeeschepen in rompbevrachting.  
+Deze wet kan worden aangehaald als: Wet nationaliteit zeeschepen in rompbevrachting. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
