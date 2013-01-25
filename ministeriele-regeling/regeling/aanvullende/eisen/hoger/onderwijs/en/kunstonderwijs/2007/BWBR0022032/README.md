@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 mei 2007, nr. HO/BL/2007/6117, houdende vaststelling van aanvullende eisen voor opleidingen in het hoger onderwijs, daarbij inbegrepen opleidingen en lerarenopleidingen op het gebied van de kunst (Regeling aanvullende eisen hoger onderwijs en kunstonderwijs 2007)
 
 De Minister van Onderwijs, Cultuur en Wetenschap,  
-Gelet op [artikel 7.26, eerste lid](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en [7.26a, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);
+Gelet op artikel 7.26, eerste lid, en 7.26a, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;
 Besluit:    
 
 ### Artikel  1  
@@ -12,13 +12,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. WHW: [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+a. WHW: Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
-b. instelling voor hoger onderwijs: een instelling als bedoeld in [artikel 1.3, eerste en tweede lid, van de WHW](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+b. instelling voor hoger onderwijs: een instelling als bedoeld in artikel 1.3, eerste en tweede lid, van de WHW;  
 
-c. opleiding: een opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel a, en tweede lid, onderdeel a, van de WHW](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+c. opleiding: een opleiding als bedoeld in artikel 7.3a, eerste lid, onderdeel a, en tweede lid, onderdeel a, van de WHW;  
 
-d. aanvullende eisen: eisen als bedoeld in [artikel 7.26, eerste lid](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en [7.26a, eerste lid](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).    
+d. aanvullende eisen: eisen als bedoeld in artikel 7.26, eerste lid, en 7.26a, eerste lid.    
 
 ### Artikel  2  
 
@@ -65,7 +65,7 @@ R.H.A.Plasterk
 1. Opleidingen in het hoger onderwijs 
 
 | Opleidingen  | Aanvullendeeisen  |
-|:---|:---|
+|---|---|
 | B Bewegingsagogie/  Psychomotorische therapie  | Voldoende aanleg en geschiktheid voor de uitoefening van het beroep waarop de opleiding voorbereidt voor wat betreft de ontwikkeling van de vereiste praktische bedrevenheid in bewegingsactiviteiten. Het onderzoek omvat tevens een positieve medische keuring door een arts.  |
 | B Business Administration in Hotel Management  | Voldoende aanleg en geschiktheid voor de desbetreffende opleiding, gelet op de organisatie en inrichting van het onderwijs.  |
 | B Creatieve therapie  | Voldoende aanleg en geschiktheid.  |
@@ -82,20 +82,19 @@ R.H.A.Plasterk
 <sup>1</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  2. Lerarenopleidingen in het hoger onderwijs 
 
 | Opleidingen  | Aanvullende eisen  |
-|:---|:---|
-| B Lichamelijke oefening <sup>1</sup>  | Voldoende aanleg en geschiktheid.  |
-| B Nederlandse gebarentaal/tolkenopleiding <sup>2, 3</sup>  | Benodigde spreekvaardigheid, motoriek en mimiek voor de uitoefening van het beroep waarop de opleiding voorbereidt.  |
+|---|---|
+| B Lichamelijke opvoeding <sup>1</sup>  | Voldoende aanleg en geschiktheid.  |
 
 <sup>1</sup> Opleiding tot leraar in de eerste graad. <sup>2</sup> Opleiding tot leraar in de tweede graad. <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden. 
 
 ### Bijlage  2  
 
-####bij artikel 3  van de Regeling aanvullende eisen hoger onderwijs en kunstonderwijs 2007
+####behorende bij artikel 3  van de Regeling aanvullende eisen hoger onderwijs en kunstonderwijs 2007
 
 1. Opleidingen op het gebied van de kunst 
 
 | Opleidingen  | Aanvullende eisen  |
-|:---|:---|
+|---|---|
 |  *B Autonome beeldende kunst*   |  *artistieke aanleg die blijkt uit:*   • beeldend vermogen, werken vanuit waarneming en vanuit fantasie  • gevoel voor kleur, vorm en materiaal  • oorspronkelijkheid en eigenzinnigheid  |
 | --- | --- |
 |  *B Circus and Performance Arts*   |  *technische en fysieke vaardigheid blijkend uit:*   • basis circustechnische vaardigheden en ontwikkelingsmogelijkheden  • fysieke mogelijkheden en aanleg  • natuurlijke bewegingscoördinatie  |
@@ -106,7 +105,7 @@ R.H.A.Plasterk
 | --- | --- |
 | --- |  *artistieke aanleg die blijkt uit:*   • creativiteit, inlevingsvermogen en zeggingskracht  • authenticiteit en originaliteit bij improvisatie en het creëren van circusmateriaal  • stijlgevoel en presentatie  |
 | --- | --- |
-|  *B Dans*   |  *technische en fysieke vaardigheid blijkend uit:*   • basis danstechnische vaardigheden en ontwikkelingsmogelijkheden  • fysieke mogelijkheden en aanleg  • natuurlijke bewegingscoördinatie  |
+|  *B Dans <sup>1</sup>*   |  *technische en fysieke vaardigheid blijkend uit:*   • basis danstechnische vaardigheden en ontwikkelingsmogelijkheden  • fysieke mogelijkheden en aanleg  • natuurlijke bewegingscoördinatie  |
 | --- | --- |
 | --- |  *artistieke aanleg die blijkt uit:*   • zeggingskracht als danser  • creativiteit bij improvisatie  • originaliteit bij het creëren van bewegingsmateriaal  • stijlgevoel en presentatie  |
 | --- | --- |
@@ -131,14 +130,14 @@ R.H.A.Plasterk
 <sup>1</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  2. Lerarenopleidingen op het gebied van de kunst 
 
 | Opleidingen  | Specifieke eisen  |
-|:---|:---|
+|---|---|
 |  *B Beeldende kunst en vormgeving, docent*   |  *artistieke aanleg die blijkt uit:*   • beeldend vermogen, werken vanuit waarneming en vanuit fantasie;  • gevoel voor kleur, vorm, materiaal  • oorspronkelijkheid en eigenzinnigheid  |
 | --- | --- |
 |  *B Dans, docent*   |  *technische en fysieke vaardigheid blijkend uit:*   • basis danstechnische vaardigheden en ontwikkelingsmogelijkheden;  • fysieke mogelijkheden en aanleg  • natuurlijke bewegingscoördinatie  |
 | --- | --- |
 | --- |  *artistieke aanleg die blijkt uit:*   • zeggingskracht als danser  • creativiteit bij improvisatie  • originaliteit bij het creëren van bewegingsmateriaal  • stijlgevoel en presentatie  |
 | --- | --- |
-|  *B Drama, docent*   |  *technische en fysieke vaardigheid blijkend uit:*   • dramatische technieken, onderverdeeld in ritme, klank, detail, articulatie, coördinatie, beweging, vermogen tot transformeren en schakelen  • vermogen tot concentratie, inleving, gevoelsuiting en observatie.  |
+|  *B Theater, docent*   |  *technische en fysieke vaardigheid blijkend uit:*   • dramatische technieken, onderverdeeld in ritme, klank, detail, articulatie, coördinatie, beweging, vermogen tot transformeren en schakelen  • vermogen tot concentratie, inleving, gevoelsuiting en observatie.  |
 | --- | --- |
 | --- |  *artistieke aanleg die blijkt uit:*   • creativiteit, inlevingsvermogen, transformeren en samenspel  • zelfacceptatie en authenticiteit, verbeelding en fantasie, verbeelde werkelijkheid en geloofwaardig personage  • klank- en tekstgevoeligheid, muzikaliteit  • originaliteit bij improvisatie  • presentatie  |
 | --- | --- |

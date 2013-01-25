@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-De op 18 december 1997 te Brussel totstandgekomen Overeenkomst opgesteld op grond van Artikel K.3 van het Verdrag betreffende de Europese Unie inzake wederzijdse bijstand en samenwerking tussen de douaneadministraties, waarvan de Nederlandse tekst is geplaatst in Tractatenblad 1998, 174, wordt goedgekeurd voor Nederland.  
+De op 18 december 1997 te Brussel totstandgekomen Overeenkomst opgesteld op grond van Artikel K.3 van het Verdrag betreffende de Europese Unie inzake wederzijdse bijstand en samenwerking tussen de douaneadministraties, waarvan de Nederlandse tekst is geplaatst in Tractatenblad 1998, 174, wordt goedgekeurd voor Nederland. 
 
 ### Artikel  2  
 
@@ -23,7 +23,7 @@ Het College bescherming persoonsgegevens, bedoeld in [artikel 51 van de Wet besc
 
 ### Artikel  5  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad, waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad, waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -43,4 +43,4 @@ A. H. Korthals
 de *zesde* juli 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

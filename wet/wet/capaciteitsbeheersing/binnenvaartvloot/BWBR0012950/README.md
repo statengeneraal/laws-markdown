@@ -19,7 +19,7 @@ b. Onze Minister: Onze Minister van Verkeer en Waterstaat;
 
 c. lidstaten: de betrokken lidstaten, bedoeld in artikel 3, eerste lid, van de Raadsverordening;  
 
-d. fonds voor de binnenvaart: artikel 05.34 van de begroting van Verkeer en Waterstaat.    
+d. fonds voor de binnenvaart: artikel 05.34 van de begroting van Verkeer en Waterstaat.   
 
 ### Artikel  2  
 
@@ -30,23 +30,23 @@ d. fonds voor de binnenvaart: artikel 05.34 van de begroting van Verkeer en Wate
 a. bijdragen als bedoeld in artikel 3, derde lid, van de Raadsverordening;  
 
 b. bijdragen van lidstaten en van Zwitserland als bedoeld in artikel 3, zesde lid, van de Raadsverordening.     
-4.  De uitgaven zijn uitgaven als bedoeld in artikel 3, vierde, vijfde en zesde lid, van de Raadsverordening.   
+4.  De uitgaven zijn uitgaven als bedoeld in artikel 3, vierde, vijfde en zesde lid, van de Raadsverordening.  
 
 ### Artikel  3  
 
-De organisaties, bedoeld in artikel 3, tweede lid, van de Raadsverordening zijn de organisaties op het terrein van de binnenvaart, vertegenwoordigd in het Overlegorgaan verkeer en waterstaat, bedoeld in [artikel 4 van de Wet advies en overleg verkeer en waterstaat](../../../../../wet/wet/overleg/verkeer/en/waterstaat/BWBR0008410/README.md).  
+De organisaties, bedoeld in artikel 3, tweede lid, van de Raadsverordening zijn de organisaties op het terrein van de binnenvaart, vertegenwoordigd in het Overlegorgaan verkeer en waterstaat, bedoeld in [artikel 4 van de Wet advies en overleg verkeer en waterstaat](../../../../../wet/wet/overleg/verkeer/en/waterstaat/BWBR0008410/README.md). 
 
 ### Artikel  4  
 
-Onze Minister legt speciale bijdragen als bedoeld in artikel 4, eerste lid, tweede gedachtenstreepje, van de Raadsverordening op en doet de uitgaven in het kader van artikel 3, vierde, vijfde en zesde lid, van de Raadsverordening.  
+Onze Minister legt speciale bijdragen als bedoeld in artikel 4, eerste lid, tweede gedachtenstreepje, van de Raadsverordening op en doet de uitgaven in het kader van artikel 3, vierde, vijfde en zesde lid, van de Raadsverordening. 
 
 ### Artikel  5  
 
-Bij ministeriële regeling worden regels gesteld met betrekking tot de uitvoering van de artikelen 4 en 6 van de Raadsverordening.  
+Bij ministeriële regeling worden regels gesteld met betrekking tot de uitvoering van de artikelen 4 en 6 van de Raadsverordening. 
 
 ### Artikel  6  
 
-Het is de eigenaar verboden zijn binnenschip in de vaart te brengen in afwijking van artikel 4, eerste lid, van de Raadsverordening.  
+Het is de eigenaar verboden zijn binnenschip in de vaart te brengen in afwijking van artikel 4, eerste lid, van de Raadsverordening. 
 
 ### Artikel  7  
 
@@ -54,37 +54,37 @@ Met het toezicht op de naleving van het bij of krachtens deze wet en de Raadsver
 
 a. de bij of krachtens [artikel 141 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen ambtenaren,  
 
-b. de door Onze Minister aangewezen ambtenaren van het Ministerie van Verkeer en Waterstaat.    
+b. de door Onze Minister aangewezen ambtenaren van het Ministerie van Verkeer en Waterstaat.   
 
 ### Artikel  8  
 
-Een speciale bijdrage als bedoeld in artikel 4, eerste lid, van de Raadsverordening wordt voldaan op het moment, bedoeld in artikel 4, derde lid, van de Raadsverordening, zonder dat dit bij beschikking is vastgesteld. Onze Minister is bevoegd tot uitvaardiging van een dwangbevel tot betaling van de speciale bijdrage.  
+Een speciale bijdrage als bedoeld in artikel 4, eerste lid, van de Raadsverordening wordt voldaan op het moment, bedoeld in artikel 4, derde lid, van de Raadsverordening, zonder dat dit bij beschikking is vastgesteld. Onze Minister is bevoegd tot uitvaardiging van een dwangbevel tot betaling van de speciale bijdrage. 
 
 ### Artikel  9  
 
-Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.  
+Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen. 
 
 ### Artikel  11  
 
-De Wet sloopregeling binnenvaart wordt ingetrokken.  
+De Wet sloopregeling binnenvaart wordt ingetrokken. 
 
 ### Artikel  12  
 
 1.   Wijzigt de Wet op de economische delicten.    
-2.   Wijzigt de Wet vervoer binnenvaart.    
+2.   Wijzigt de Wet vervoer binnenvaart.   
 
 ### Artikel  13  
 
-Met betrekking tot de behandeling van bezwaar of beroep tegen een krachtens de Wet structurele sanering binnenvaart genomen beschikking die voor het tijdstip van inwerkingtreding van deze wet is bekendgemaakt, blijft de Wet structurele sanering binnenvaart van toepassing.  
+Met betrekking tot de behandeling van bezwaar of beroep tegen een krachtens de Wet structurele sanering binnenvaart genomen beschikking die voor het tijdstip van inwerkingtreding van deze wet is bekendgemaakt, blijft de Wet structurele sanering binnenvaart van toepassing. 
 
 ### Artikel  14  
 
 1.  Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 29 april 1999, met uitzondering van de artikelen 6, 8, 9, 10 en 12, eerste lid, die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.   
-2.  Deze wet vervalt op het tijdstip waarop de Raadsverordening vervalt.   
+2.  Deze wet vervalt op het tijdstip waarop de Raadsverordening vervalt.  
 
 ### Artikel  15  
 
-Deze wet wordt aangehaald als: Wet capaciteitsbeheersing binnenvaartvloot.  
+Deze wet wordt aangehaald als: Wet capaciteitsbeheersing binnenvaartvloot. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat aan de nauwkeurige uitvoering de hand zullen houden.   
 

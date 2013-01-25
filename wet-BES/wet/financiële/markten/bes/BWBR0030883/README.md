@@ -84,7 +84,7 @@ d. certificaten en recepissen van waarden als hiervoor bedoeld, met uitzondering
 
 *elektronischgeldinstelling:* degene die, geen kredietinstelling zijnde, zijn bedrijf maakt van het ter beschikking verkrijgen van gelden in ruil waarvoor elektronisch geld wordt uitgegeven waarmee betalingen kunnen worden verricht aan anderen dan degene die het elektronische geld uitgeeft;  
 
-*externe deskundige:* deskundige als bedoeld in [artikel 121 van Boek 2 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md);  
+*externe deskundige:* deskundige als bedoeld in artikel 121 van Boek 2 van het Burgerlijk Wetboek BES;  
 
 *financieel product:*  
 
@@ -184,7 +184,7 @@ a. het in opdracht van een derde, niet zijnde een derde die behoort tot een groe
 
 1°. optreden als bestuurder of vennoot van een rechtspersoon of vennootschap;  
 
-2°. ter beschikking stellen van een adres of correspondentieadres als bedoeld in de [artikelen 12, eerste lid, onderdeel b](../../../../../../AMvB-BES/handelsregisterbesluit/2009/bes/BWBR0028479/README.md), en [13, onderdeel a, van het Handelsregisterbesluit BES](../../../../../../AMvB-BES/handelsregisterbesluit/2009/bes/BWBR0028479/README.md) aan een rechtspersoon of vennootschap, in combinatie met administratieve of adviserende werkzaamheden;  
+2°. ter beschikking stellen van een adres of correspondentieadres als bedoeld in de artikelen 12, eerste lid, onderdeel b, en 13, onderdeel a, van het Handelsregisterbesluit BES aan een rechtspersoon of vennootschap, in combinatie met administratieve of adviserende werkzaamheden;  
 
 3°. oprichten of liquideren dan wel doen oprichten of liquideren van rechtspersonen;  
 
@@ -220,7 +220,7 @@ Deze wet is van toepassing in Bonaire, Sint Eustatius en Saba.
 
 1.  Deze wet is niet van toepassing op de uitvoering van socialezekerheidsregelingen en zorgverzekeringen onder verantwoordelijkheid van Onze Minister van Sociale Zaken en Werkgelegenheid of van Onze Minister van Volksgezondheid, Welzijn en Sport.   
 2.  De Nederlandsche Bank is geen financiële onderneming in de zin van deze wet.   
-3.  Een pensioenfonds als bedoeld in [artikel 1, eerste lid, van de Pensioenwet BES](../../../../../../wet-BES/pensioenwet/bes/BWBR0028712/README.md) is geen verzekeraar in de zin van deze wet.   
+3.  Een pensioenfonds als bedoeld in artikel 1, eerste lid, van de Pensioenwet BES is geen verzekeraar in de zin van deze wet.   
 4.  Bij algemene maatregel van bestuur kunnen categorieën financiële ondernemingen worden aangewezen waarop in bij of krachtens die maatregel te bepalen gevallen deze wet geheel of gedeeltelijk niet van toepassing is.   
 
 ### Artikel  1:4  
@@ -279,8 +279,8 @@ a. betrekking hebben of herleidbaar zijn tot afzonderlijke personen;
 
 b. zijn ontvangen van de andere toezichtautoriteit of een buitenlandse toezichthoudende instantie, tenzij die autoriteit of instantie instemt met het verstrekken van de gegevens.     
 2.  De uitzondering, bedoeld in het eerste lid, onderdeel a, geldt niet voor zover het gegevens betreft die betrekking hebben op of herleidbaar zijn tot een financiële onderneming waarvan op grond van deze wet de vergunning is ingetrokken, of een financiële onderneming ten aanzien waarvan surseance van betaling is verleend of ten aanzien waarvan de noodregeling, bedoeld in artikel 8:9, is uitgesproken, of die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden.   
-3.  [Artikel 1:42, derde tot en met zesde lid, van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van overeenkomstige toepassing op de verstrekking van gegevens als bedoeld in het tweede lid.   
-4.  De [Wet openbaarheid van bestuur](../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) en de [Wet openbaarheid van bestuur BES](../../../../../../wet-BES/wet/openbaarheid/van/bestuur/bes/BWBR0028154/README.md), de [Wet Nationale ombudsman](../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md) en [titel 9.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing op gegevens die Onze Minister of een in zijn opdracht werkende derde uit hoofde van dit artikel onder zich heeft.   
+3.  Artikel 1:42, derde tot en met zesde lid, van de Wet op het financieel toezicht is van overeenkomstige toepassing op de verstrekking van gegevens als bedoeld in het tweede lid.   
+4.  De Wet openbaarheid van bestuur en de Wet openbaarheid van bestuur BES, de Wet Nationale ombudsman en titel 9.2 van de Algemene wet bestuursrecht zijn niet van toepassing op gegevens die Onze Minister of een in zijn opdracht werkende derde uit hoofde van dit artikel onder zich heeft.   
 
 ### Artikel  1:13a  
 
@@ -322,7 +322,7 @@ c. de benoeming van een curator op grond van artikel 7:14 of 7:15;
 
 d. het opleggen van een verbod als bedoeld in artikel 7:20, eerste of tweede lid.     
 2.  De zienswijze wordt schriftelijk naar voren gebracht, tenzij de vereiste spoed zich daartegen verzet.   
-3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op het aanvragen van een faillissement op grond van de [Faillissementswet BES](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md) of het aanvragen van de noodregeling op grond van artikel 8:9.   
+3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op het aanvragen van een faillissement op grond van de Faillissementswet BES of het aanvragen van de noodregeling op grond van artikel 8:9.   
 
 ### Artikel  1:17  
 
@@ -396,7 +396,7 @@ De toezichtautoriteit is in afwijking van artikel 1:20, eerste lid, bevoegd ver
 
 ####(bewindvoerder, curator en rechter-commissaris)
 
-1.  De toezichtautoriteit is in afwijking van artikel 1:20, eerste lid, bevoegd vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van een haar op grond van deze wet opgedragen taak, te verstrekken aan een op grond van de [Faillissementswet BES](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md) of op grond van hoofdstuk 8 benoemde of aangestelde rechter-commissaris, bewindvoerder of curator, voor zover die gegevens of inlichtingen dienstig zijn voor de uitoefening van diens taak.   
+1.  De toezichtautoriteit is in afwijking van artikel 1:20, eerste lid, bevoegd vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van een haar op grond van deze wet opgedragen taak, te verstrekken aan een op grond van de Faillissementswet BES of op grond van hoofdstuk 8 benoemde of aangestelde rechter-commissaris, bewindvoerder of curator, voor zover die gegevens of inlichtingen dienstig zijn voor de uitoefening van diens taak.   
 2.  De toezichtautoriteit verstrekt geen vertrouwelijke gegevens of inlichtingen als bedoeld in het eerste lid, indien verstrekking van die gegevens redelijkerwijs in strijd is of zou kunnen komen met de belangen die deze wet beoogt te beschermen. Voorts verstrekt zij geen vertrouwelijke gegevens of inlichtingen, verkregen van de andere toezichtautoriteit of een buitenlandse toezichthoudende instantie, indien de andere toezichtautoriteit of die toezichthoudende instantie niet instemt met het verstrekken van die gegevens of inlichtingen.   
 3.  Een curator die is aangesteld in het faillissement van een financiële onderneming, is in afwijking van artikel 1:20, eerste lid, bevoegd vertrouwelijke gegevens of inlichtingen als bedoeld in het eerste lid te verstrekken aan het Gerecht, voor zover dat voor de afwikkeling van het faillissement nodig is.   
 4.  Het eerste tot en met derde lid is van overeenkomstige toepassing op een naar het recht van het Europese deel van Nederland of het recht van Aruba, Curaçao of Sint Maarten benoemde of aangestelde rechter-commissaris, bewindvoerder of curator.   
@@ -418,7 +418,7 @@ c. de houder van een effectenbeurs, voor zover de gegevens of inlichtingen nodig
 
 ####(verklaringen in burgerlijke zaken)
 
-Artikel 1:20, eerste lid, laat onverlet de toepasselijkheid van de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) die betrekking hebben op het als getuige of als partij in een comparitie van partijen dan wel als deskundige in burgerlijke zaken afleggen van een verklaring omtrent gegevens of inlichtingen, verkregen bij de vervulling van een op grond van deze wet opgedragen taak, voor zover het gaat om vertrouwelijke gegevens of inlichtingen omtrent een financiële onderneming die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden.  
+Artikel 1:20, eerste lid, laat onverlet de toepasselijkheid van de bepalingen van het Wetboek van Burgerlijke Rechtsvordering BES die betrekking hebben op het als getuige of als partij in een comparitie van partijen dan wel als deskundige in burgerlijke zaken afleggen van een verklaring omtrent gegevens of inlichtingen, verkregen bij de vervulling van een op grond van deze wet opgedragen taak, voor zover het gaat om vertrouwelijke gegevens of inlichtingen omtrent een financiële onderneming die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden.  
 
 ### §  5  
 
@@ -561,7 +561,7 @@ c. zolang de toezichtautoriteit door overmacht niet in staat is de beslissing te
 ####(aanhouden beslissing in verband met vvgb)
 
 1.  In afwijking van artikel 2:8, eerste lid, houdt de toezichtautoriteit, indien er tevens een aanvraag van een verklaring van geen bezwaar als bedoeld in artikel 3:28 is ingediend, de beslissing op een aanvraag om vergunning aan, tot uiterlijk zes weken na het tijdstip waarop de beslissing op de aanvraag van de verklaring van geen bezwaar is bekendgemaakt.   
-2.  Indien binnen de in het eerste lid genoemde termijn een verzoek als bedoeld in [artikel 85, eerste lid, van de Wet administratieve rechtspraak BES](../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) is ingediend tegen de beslissing op de aanvraag van een verklaring van geen bezwaar, houdt de toezichtautoriteit de beslissing op de aanvraag om vergunning aan tot uiterlijk twee weken na het tijdstip waarop op dat verzoek is beslist.   
+2.  Indien binnen de in het eerste lid genoemde termijn een verzoek als bedoeld in artikel 85, eerste lid, van de Wet administratieve rechtspraak BES is ingediend tegen de beslissing op de aanvraag van een verklaring van geen bezwaar, houdt de toezichtautoriteit de beslissing op de aanvraag om vergunning aan tot uiterlijk twee weken na het tijdstip waarop op dat verzoek is beslist.   
 
 ### §  3  
 
@@ -615,7 +615,7 @@ d. uit de verklaring omtrent de getrouwheid, bedoeld in artikel 3:35, tweede li
 
 e. de vergunninghouder geen of onvolledig gevolg heeft gegeven aan een krachtens artikel 7:12 of 7:13 gegeven aanwijzing;  
 
-f. de vergunninghouder de bij of krachtens de [Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) of de [Sanctiewet 1977](../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) gestelde regels niet naleeft;  
+f. de vergunninghouder de bij of krachtens de Wet ter voorkoming van witwassen en financieren van terrorisme BES of de Sanctiewet 1977 gestelde regels niet naleeft;  
 
 g. niet binnen twaalf maanden na verlening van de vergunning met de vergunde activiteit daadwerkelijk een aanvang is gemaakt;  
 
@@ -802,7 +802,7 @@ d. te voldoen aan de bij of krachtens artikel 3:17 met betrekking tot solvabili
 
 a. het tegengaan van belangenverstrengeling;  
 
-b. het tegengaan van het witwassen van geld of de financiering van terrorisme, alsmede de naleving van de bij of krachtens de [Sanctiewet 1977](../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md) met betrekking tot het financieel verkeer gestelde regels;  
+b. het tegengaan van het witwassen van geld of de financiering van terrorisme, alsmede de naleving van de bij of krachtens de Sanctiewet 1977 met betrekking tot het financieel verkeer gestelde regels;  
 
 c. het tegengaan van strafbare feiten of andere wetsovertredingen door de onderneming of haar werknemers, die het vertrouwen in de onderneming of in de financiële markten kunnen schaden;  
 
@@ -998,7 +998,7 @@ c. de financiële soliditeit van de aanvrager, rekening houdend met de bedrijfsa
 
 d. de financiële onderneming als gevolg van de gekwalificeerde deelneming niet zal kunnen blijven voldoen aan de op grond van deze wet gestelde prudentiële eisen;  
 
-e. er goede redenen zijn om te vermoeden dat er sprake is of zal zijn van het witwassen van geld of de financiering van terrorisme in de zin van de [Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md), dan wel dat de voorgenomen verwerving of vergroting van de deelneming het risico daarop zou kunnen vergroten.     
+e. er goede redenen zijn om te vermoeden dat er sprake is of zal zijn van het witwassen van geld of de financiering van terrorisme in de zin van de Wet ter voorkoming van witwassen en financieren van terrorisme BES, dan wel dat de voorgenomen verwerving of vergroting van de deelneming het risico daarop zou kunnen vergroten.     
 2.  De artikelen 2:12, 2:14, aanhef en onderdelen a tot en met e, en 2:16 zijn van overeenkomstige toepassing.   
 3.  Het eerste lid, onderdelen c en d, is niet van toepassing op trustkantoren.   
 4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de weigeringsgronden in het eerste lid.   
@@ -1330,6 +1330,8 @@ f. doeltreffende regels voor een doelmatige en tijdige afhandeling van via de ef
 
 ####(deelname aan depositogarantiestelsel)
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  Een kredietinstelling waaraan op grond van deze wet vergunning tot uitoefening van het bedrijf van kredietinstelling is verleend, neemt deel aan het depositogarantiestelsel, bedoeld in artikel 8:26.   
 2.  De Nederlandsche Bank stelt met inachtneming van artikel 8:26, derde lid, de door kredietinstellingen als bedoeld in het eerste lid verschuldigde bijdragen aan het depositogarantiestelsel vast. De bijdrageplichtige kredietinstellingen voldoen deze bijdragen binnen een door de Nederlandsche Bank vastgestelde termijn.   
 3.  Een deelnemende kredietinstelling als bedoeld in het eerste lid stelt op verzoek en op eigen initiatief informatie ter beschikking over het depositogarantiestelsel waaraan zij deelneemt. De informatie is zodanig dat depositohouders of potentiële depositohouders in staat worden gesteld om na te gaan of een vordering onder de dekking van het depositogarantiestelsel valt.   
@@ -1474,7 +1476,7 @@ Kredietverzekeringen, borgtochtverzekeringen en rechtsbijstandsverzekeringen mog
 
 ####(aansprakelijkheid motorrijtuigen)
 
-Een verzekeraar die verzekeringen aanbiedt tot dekking van wettelijke aansprakelijkheid, voortvloeiend uit het gebruik van motorrijtuigen, voldoet aan de in de [Wet aansprakelijkheidsverzekering motorrijtuigen BES](../../../../../../wet-BES/wet/aansprakelijkheidsverzekering/motorrijtuigen/bes/BWBR0028254/README.md) ter zake van de verzekeringsvoorwaarden gestelde eisen.  
+Een verzekeraar die verzekeringen aanbiedt tot dekking van wettelijke aansprakelijkheid, voortvloeiend uit het gebruik van motorrijtuigen, voldoet aan de in de Wet aansprakelijkheidsverzekering motorrijtuigen BES ter zake van de verzekeringsvoorwaarden gestelde eisen.  
 
 ### Artikel  4:33  
 
@@ -1886,7 +1888,7 @@ c. waarbij gebruik wordt gemaakt van bedrog of misleiding.
 
 *aandeel:*  
 
-1°. verhandelbaar aandeel als bedoeld in [titel 5 van Boek 2 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md);  
+1°. verhandelbaar aandeel als bedoeld in titel 5 van Boek 2 van het Burgerlijk Wetboek BES;  
 
 2°. certificaat van een aandeel of een daarmee gelijk te stellen verhandelbaar waardebewijs;  
 
@@ -2153,7 +2155,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ####(overtredingen door rechtspersonen)
 
-Overtredingen kunnen worden begaan door natuurlijke personen en rechtspersonen. [Artikel 53, tweede en derde lid, van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) is van overeenkomstige toepassing.  
+Overtredingen kunnen worden begaan door natuurlijke personen en rechtspersonen. Artikel 53, tweede en derde lid, van het Wetboek van Strafrecht BES is van overeenkomstige toepassing.  
 
 ### Artikel  7:3  
 
@@ -2181,7 +2183,7 @@ Overtredingen kunnen worden begaan door natuurlijke personen en rechtspersonen. 
 
 1.  Bij de uitoefening van zijn taak draagt een toezichthouder een legitimatiebewijs bij zich, dat is uitgegeven door het bestuursorgaan onder verantwoordelijkheid waarvan de toezichthouder werkzaam is.   
 2.  Een toezichthouder toont zijn legitimatiebewijs desgevraagd aanstonds.   
-3.  Het legitimatiebewijs voldoet aan de bij en krachtens [artikel 5:12, derde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gestelde regels.   
+3.  Het legitimatiebewijs voldoet aan de bij en krachtens artikel 5:12, derde lid, van de Algemene wet bestuursrecht gestelde regels.   
 
 ### Artikel  7:6  
 
@@ -2196,7 +2198,7 @@ Een toezichthouder maakt van zijn bevoegdheden slechts gebruik voor zover dat re
 1.  Een toezichthouder is bevoegd, met medeneming van de benodigde apparatuur, elke plaats te betreden.   
 2.  Zo nodig verschaft hij zich toegang met behulp van de sterke arm.   
 3.  Hij is bevoegd zich te doen vergezellen door personen die daartoe door hem zijn aangewezen.   
-4.  Op het binnentreden van woningen zonder de toestemming van de bewoner is [Titel X van het Derde Boek van het Wetboek van Strafvordering BES](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) van overeenkomstige toepassing, met uitzondering van de [artikelen 155, vierde lid](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [156, tweede lid](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [157, tweede en derde lid](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [158, eerste lid, laatste zinsnede](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), en [160, eerste lid](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), en met dien verstande dat de machtiging wordt verleend door de procureur-generaal.   
+4.  Op het binnentreden van woningen zonder de toestemming van de bewoner is Titel X van het Derde Boek van het Wetboek van Strafvordering BES van overeenkomstige toepassing, met uitzondering van de artikelen 155, vierde lid, 156, tweede lid, 157, tweede en derde lid, 158, eerste lid, laatste zinsnede, en 160, eerste lid, en met dien verstande dat de machtiging wordt verleend door de procureur-generaal.   
 
 ### Artikel  7:8  
 
@@ -2208,7 +2210,7 @@ Een toezichthouder is bevoegd inlichtingen te vorderen.
 
 ####(inzage van identiteitsdocument)
 
-Een toezichthouder is bevoegd van personen inzage te vorderen van een identiteitsdocument als bedoeld in [artikel 2 van de Wet identificatieplicht BES](../../../../../../wet-BES/wet/identificatieplicht/bes/BWBR0028575/README.md).  
+Een toezichthouder is bevoegd van personen inzage te vorderen van een identiteitsdocument als bedoeld in artikel 2 van de Wet identificatieplicht BES.  
 
 ### Artikel  7:10  
 
@@ -2411,7 +2413,7 @@ Een verbeurde dwangsom wordt betaald binnen zes weken nadat zij van rechtswege i
 1.  Het bedrag van de bestuurlijke boete wordt bepaald bij algemene maatregel van bestuur. Het bedrag van de bestuurlijke boete voor een afzonderlijke overtreding bedraagt ten hoogste USD 250 000, tenzij ten tijde van het plegen van de overtreding nog geen vijf jaren zijn verstreken sinds het opleggen aan de overtreder van een bestuurlijke boete ter zake van eenzelfde overtreding, in welk geval het bedrag van de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste USD 500 000 bedraagt.   
 2.  De maatregel, bedoeld in het eerste lid, bepaalt voor elke daarin omschreven overtredingen het bedrag van de deswege op te leggen bestuurlijke boete. De overtredingen worden gerangschikt in categorieën naar zwaarte van de overtreding met de daarbij behorende basisbedragen, minimumbedragen en maximumbedragen.   
 3.  In afwijking van het eerste lid kan de toezichtautoriteit, indien het voordeel dat de overtreder door de overtreding heeft verkregen, groter is dan de helft van het bedrag dat op grond van de in het eerste lid bedoelde maatregel ten hoogste voor die overtreding kan worden opgelegd, het bedrag van de bestuurlijke boete vaststellen op ten hoogste twee keer het bedrag van dat voordeel.   
-4.  [Artikel 1, tweede lid, van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) is van overeenkomstige toepassing.   
+4.  Artikel 1, tweede lid, van het Wetboek van Strafrecht BES is van overeenkomstige toepassing.   
 
 ### Artikel  7:32  
 
@@ -2425,7 +2427,7 @@ b. de overtreder is overleden;
 
 c. aan de overtreder wegens dezelfde overtreding reeds eerder een bestuurlijke boete is opgelegd, dan wel een kennisgeving als bedoeld in artikel 7:36, derde lid, is bekendgemaakt dat voor de overtreding geen bestuurlijke boete zal worden opgelegd;  
 
-d. tegen de overtreder wegens dezelfde gedraging een strafvervolging is ingesteld en het onderzoek ter terechtzitting is begonnen of het recht tot strafvervolging is vervallen ingevolge [artikel 76 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md).    
+d. tegen de overtreder wegens dezelfde gedraging een strafvervolging is ingesteld en het onderzoek ter terechtzitting is begonnen of het recht tot strafvervolging is vervallen ingevolge artikel 76 van het Wetboek van Strafrecht BES.    
 
 ### Artikel  7:33  
 
@@ -2446,7 +2448,7 @@ a. de naam van de overtreder;
 b. de overtreding, alsmede het overtreden voorschrift;  
 
 c. zo nodig een aanduiding van de plaats waar en het tijdstip of de periode waarop de overtreding is geconstateerd.     
-3.  Indien van de overtreding een proces-verbaal als bedoeld in [artikel 186 van het Wetboek van Strafvordering BES](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) is opgemaakt, treedt dit voor de toepassing van deze paragraaf in de plaats van het rapport.   
+3.  Indien van de overtreding een proces-verbaal als bedoeld in artikel 186 van het Wetboek van Strafvordering BES is opgemaakt, treedt dit voor de toepassing van deze paragraaf in de plaats van het rapport.   
 
 ### Artikel  7:35  
 
@@ -2486,7 +2488,7 @@ e. de termijn waarbinnen de boete moet worden betaald.
 ####(vervallen van bestuurlijke boete)
 
 1.  Een bestuurlijke boete vervalt, indien zij op het tijdstip van het overlijden van de overtreder niet onherroepelijk is. Een onherroepelijke boete vervalt, voor zover zij op dat tijdstip nog niet is betaald.   
-2.  Een reeds opgelegde bestuurlijke boete vervalt, indien het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba met toepassing van [artikel 25 van het Wetboek van Strafvordering BES](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) voor de desbetreffende overtreding de vervolging van de overtreder beveelt.   
+2.  Een reeds opgelegde bestuurlijke boete vervalt, indien het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba met toepassing van artikel 25 van het Wetboek van Strafvordering BES voor de desbetreffende overtreding de vervolging van de overtreder beveelt.   
 3.  De bevoegdheid tot het opleggen van een bestuurlijke boete vervalt vijf jaren na de dag waarop de overtreding heeft plaatsgevonden.   
 4.  Indien tegen de bestuurlijke boete bezwaar wordt gemaakt of beroep wordt ingesteld, wordt de vervaltermijn opgeschort tot onherroepelijk op het bezwaar of beroep is beslist.   
 
@@ -2514,7 +2516,7 @@ Voor zover een bestuurlijke sanctie verplicht tot betaling van een geldsom, komt
 ####(verzuim bij niet-betaling)
 
 1.  De overtreder is in verzuim, indien hij de verbeurde dwangsom of de bestuurlijke boete niet binnen de in artikel 7:25, onderscheidenlijk artikel 7:37, onderdeel e, bedoelde termijn heeft betaald.   
-2.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de [artikelen 119, eerste en tweede lid](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md), en [120 van Boek 6 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md).   
+2.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de artikelen 119, eerste en tweede lid, en 120 van Boek 6 van het Burgerlijk Wetboek BES.   
 3.  De toezichtautoriteit stelt het bedrag van verschuldigde wettelijke rente bij beschikking vast.   
 
 ### §  7  
@@ -2532,7 +2534,7 @@ Voor zover een bestuurlijke sanctie verplicht tot betaling van een geldsom, komt
 
 ####(stuiten van verjaring)
 
-1.  De verjaring wordt gestuit door een daad van rechtsvervolging overeenkomstig [artikel 316, eerste lid, van Boek 3 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md). Artikel 316, tweede lid, van Boek 3 van het Burgerlijk Wetboek BES is van overeenkomstige toepassing.   
+1.  De verjaring wordt gestuit door een daad van rechtsvervolging overeenkomstig artikel 316, eerste lid, van Boek 3 van het Burgerlijk Wetboek BES. Artikel 316, tweede lid, van Boek 3 van het Burgerlijk Wetboek BES is van overeenkomstige toepassing.   
 2.  De toezichtautoriteit kan de verjaring ook stuiten door de schuldenaar schriftelijk aan te manen tot betaling.   
 
 ### Artikel  7:44  
@@ -2540,7 +2542,7 @@ Voor zover een bestuurlijke sanctie verplicht tot betaling van een geldsom, komt
 ####(nieuwe verjaringstermijn na stuiting)
 
 1.  Door stuiting van de verjaring begint een nieuwe verjaringstermijn te lopen met de aanvang van de volgende dag. De nieuwe termijn is gelijk aan de oorspronkelijke.   
-2.  Wordt de verjaring echter gestuit door het instellen van een eis die door toewijzing wordt gevolgd, dan is [artikel 324 van Boek 3 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) van overeenkomstige toepassing.   
+2.  Wordt de verjaring echter gestuit door het instellen van een eis die door toewijzing wordt gevolgd, dan is artikel 324 van Boek 3 van het Burgerlijk Wetboek BES van overeenkomstige toepassing.   
 
 ### Artikel  7:45  
 
@@ -2581,7 +2583,7 @@ De beslissing tot uitvaardiging van een openbare waarschuwing wordt op schrift g
 ####(uitvaardigen van de openbare waarschuwing)
 
 1.  Het uitvaardigen van een openbare waarschuwing geschiedt niet eerder dan nadat vijf werkdagen zijn verstreken na de dag waarop betrokkene overeenkomstig artikel 7:47 in kennis is gesteld van de voorgenomen beslissing om een openbare waarschuwing uit te vaardigen.   
-2.  Indien ter zake van de beslissing tot het uitvaardiging van een openbare waarschuwing een verzoek als bedoeld in [artikel 85, eerste lid, van de Wet administratieve rechtspraak BES](../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) wordt ingediend, wordt de werking van de beslissing opgeschort totdat het Gerecht op dat verzoek heeft beslist.   
+2.  Indien ter zake van de beslissing tot het uitvaardiging van een openbare waarschuwing een verzoek als bedoeld in artikel 85, eerste lid, van de Wet administratieve rechtspraak BES wordt ingediend, wordt de werking van de beslissing opgeschort totdat het Gerecht op dat verzoek heeft beslist.   
 3.  Het eerste lid is niet van toepassing, indien van de betrokken persoon geen adres bekend is en zijn adres ook niet met een redelijke inspanning kan worden verkregen.   
 4.  De toezichtautoriteit kan, in afwijking van het eerste en tweede lid, de openbare waarschuwing onverwijld uitvaardigen, indien de bescherming van de belangen die deze wet beoogt te beschermen geen uitstel toelaat.   
 
@@ -2615,8 +2617,8 @@ De toezichtautoriteit maakt een beslissing tot het opleggen van een last onder d
 
 ####(behandeling achter gesloten deuren)
 
-1.  Indien een verzoek als bedoeld in [artikel 85, eerste lid, van de Wet administratieve rechtspraak BES](../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) is ingediend tegen een beslissing tot uitvaardiging van een openbare waarschuwing of tegen openbaarmaking van een beslissing als bedoeld in artikel 7:50, eerste lid, 7:51 of 7:52, vindt het onderzoek ter zitting plaats met gesloten deuren.   
-2.  Indien het Gerecht naar aanleiding van een verzoek als bedoeld in [artikel 85, eerste lid, van de Wet administratieve rechtspraak BES](../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) een verbod tot uitvaardiging van een openbare waarschuwing of tot openbaarmaking van een beslissing als bedoeld in artikel 7:50, eerste lid, 7:51 of 7:52 heeft opgelegd, vindt: 
+1.  Indien een verzoek als bedoeld in artikel 85, eerste lid, van de Wet administratieve rechtspraak BES is ingediend tegen een beslissing tot uitvaardiging van een openbare waarschuwing of tegen openbaarmaking van een beslissing als bedoeld in artikel 7:50, eerste lid, 7:51 of 7:52, vindt het onderzoek ter zitting plaats met gesloten deuren.   
+2.  Indien het Gerecht naar aanleiding van een verzoek als bedoeld in artikel 85, eerste lid, van de Wet administratieve rechtspraak BES een verbod tot uitvaardiging van een openbare waarschuwing of tot openbaarmaking van een beslissing als bedoeld in artikel 7:50, eerste lid, 7:51 of 7:52 heeft opgelegd, vindt: 
 
 a. indien tegen de bestreden beslissing een beroepschrift is ingediend, het onderzoek ter zitting plaats met gesloten deuren;  
 
@@ -2785,20 +2787,20 @@ c. naheffingen op te leggen en te innen tot het in de statuten bepaalde maximum,
 
 ####(gevolgen voor schuldeisers)
 
-1.  Het uitspreken van de noodregeling heeft tot gevolg dat de kredietinstelling of verzekeraar niet kan worden genoodzaakt tot nakoming van schulden die voor de uitspraak zijn ontstaan. Aangevangen executiën worden geschorst en gelegde beslagen vervallen. [Artikel 32 van de Faillissementswet BES](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md) is van overeenkomstige toepassing op de in de eerste volzin bedoelde schulden.   
+1.  Het uitspreken van de noodregeling heeft tot gevolg dat de kredietinstelling of verzekeraar niet kan worden genoodzaakt tot nakoming van schulden die voor de uitspraak zijn ontstaan. Aangevangen executiën worden geschorst en gelegde beslagen vervallen. Artikel 32 van de Faillissementswet BES is van overeenkomstige toepassing op de in de eerste volzin bedoelde schulden.   
 2.  De Nederlandsche Bank kan uitkeringen doen op vorderingen waarop het eerste lid van toepassing is, voor zover dit gelet op de liquiditeitspositie van de kredietinstelling of verzekeraar verantwoord is.   
 3.  Het eerste lid is niet van toepassing op vorderingen die door pand of hypotheek op goederen van de verzekeraar zijn gedekt, en termijnen van huurkoop.   
 4.  Voor zover vorderingen die door pand of hypotheek zijn gedekt, niet op de verbonden zaak kunnen worden verhaald, werkt de uitspraak wel ten aanzien van deze vorderingen.   
 5.  Het uitspreken van de noodregeling werkt niet ten voordele van de medeschuldenaren en borgen van de kredietinstelling of verzekeraar.   
-6.  [Artikel 231a van de Faillissementswet BES](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md) is van overeenkomstige toepassing.   
+6.  Artikel 231a van de Faillissementswet BES is van overeenkomstige toepassing.   
 
 ### Artikel  8:17  
 
 ####(schuldvergelijking en schuldoverneming)
 
-1.  Met betrekking tot schuldvergelijking en schuldoverneming vinden de [artikelen 224](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md) en [225 van de Faillissementswet BES](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md) overeenkomstige toepassing, met dien verstande dat de schuldenaar van de kredietinstelling of verzekeraar die zijn schuld wil vergelijken met een schuldvordering aan order of toonder, gehouden is te bewijzen dat hij reeds op het ogenblik van de uitspraak waarbij het verzoek tot machtiging werd toegewezen, te goeder trouw eigenaar was van het order- of toonderpapier.   
-2.  Met betrekking tot wederkerige overeenkomsten in het algemeen en tot termijnzaken, overeenkomsten van huurkoop, huurovereenkomsten en arbeidsovereenkomsten in het bijzonder, waarbij een kredietinstelling of verzekeraar ten aanzien waarvan de noodregeling is uitgesproken, partij is, vinden de [artikelen 226](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md), [226a](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md), [227](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md), [227a](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md), [228](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md) en [229 van de Faillissementswet BES](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md) overeenkomstige toepassing.   
-3.  Met betrekking tot de voldoening van een schuld aan de kredietinstelling of verzekeraar nadat de noodregeling is uitgesproken, vindt [artikel 230 van de Faillissementswet BES](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md) overeenkomstige toepassing.   
+1.  Met betrekking tot schuldvergelijking en schuldoverneming vinden de artikelen 224 en 225 van de Faillissementswet BES overeenkomstige toepassing, met dien verstande dat de schuldenaar van de kredietinstelling of verzekeraar die zijn schuld wil vergelijken met een schuldvordering aan order of toonder, gehouden is te bewijzen dat hij reeds op het ogenblik van de uitspraak waarbij het verzoek tot machtiging werd toegewezen, te goeder trouw eigenaar was van het order- of toonderpapier.   
+2.  Met betrekking tot wederkerige overeenkomsten in het algemeen en tot termijnzaken, overeenkomsten van huurkoop, huurovereenkomsten en arbeidsovereenkomsten in het bijzonder, waarbij een kredietinstelling of verzekeraar ten aanzien waarvan de noodregeling is uitgesproken, partij is, vinden de artikelen 226, 226a, 227, 227a, 228 en 229 van de Faillissementswet BES overeenkomstige toepassing.   
+3.  Met betrekking tot de voldoening van een schuld aan de kredietinstelling of verzekeraar nadat de noodregeling is uitgesproken, vindt artikel 230 van de Faillissementswet BES overeenkomstige toepassing.   
 
 ### Artikel  8:18  
 
@@ -2831,7 +2833,7 @@ Een overdracht van rechten en verplichtingen ingevolge dit hoofdstuk mag geen na
 
 ####(gelijkstelling noodregeling met faillissement)
 
-Voor de toepassing van de [artikelen 200](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [355](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [356](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) en [360 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) wordt met faillissement gelijkgesteld de rechtstoestand waarin een kredietinstelling of verzekeraar verkeert zolang te zijnen aanzien de noodregeling van kracht is.  
+Voor de toepassing van de artikelen 200, 355, 356 en 360 van het Wetboek van Strafrecht BES wordt met faillissement gelijkgesteld de rechtstoestand waarin een kredietinstelling of verzekeraar verkeert zolang te zijnen aanzien de noodregeling van kracht is.  
 
 ### Artikel  8:22  
 
@@ -2839,7 +2841,7 @@ Voor de toepassing van de [artikelen 200](../../../../../../wet-BES/wetboek/van/
 
 1.  De Nederlandsche Bank dient een verzoek tot faillietverklaring van de kredietinstelling of verzekeraar in, indien haar blijkt dat de betrokken onderneming een negatief eigen vermogen heeft en hetzij het met de noodregeling te bereiken doel is of niet meer kan worden verwezenlijkt, hetzij – indien niet tevoren de noodregeling werd uitgesproken – geen redelijk vooruitzicht meer bestaat dat het met de noodregeling te bereiken doel alsnog kan worden verwezenlijkt.   
 2.  Bij de beoordeling van de omvang van het eigen vermogen van een verzekeraar met zetel in het buitenland worden uitsluitend de activa en passiva in aanmerking genomen die naar het oordeel van de Nederlandsche Bank behoren tot het vanuit de vestigingen in de openbare lichamen uitgeoefende verzekeringsbedrijf.   
-3.  De faillietverklaring wordt uitgesproken ongeacht of de kredietinstelling of verzekeraar verkeert in een toestand van te hebben opgehouden te betalen. De [eerste titel van de Faillissementswet BES](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md) is overigens van toepassing.   
+3.  De faillietverklaring wordt uitgesproken ongeacht of de kredietinstelling of verzekeraar verkeert in een toestand van te hebben opgehouden te betalen. De eerste titel van de Faillissementswet BES is overigens van toepassing.   
 
 ### Artikel  8:23  
 
@@ -2847,15 +2849,15 @@ Voor de toepassing van de [artikelen 200](../../../../../../wet-BES/wetboek/van/
 
 De noodregeling houdt van rechtswege op van kracht te zijn, indien de kredietinstelling of verzekeraar in staat van faillissement wordt verklaard. Alsdan, zomede indien de faillietverklaring wordt uitgesproken binnen een maand na het intrekken van de noodregeling, gelden de volgende bepalingen: 
 
-a. het tijdstip waarop de termijn, bedoeld in [artikel 39 van de Faillissementswet BES](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md), aanvangt, wordt berekend vanaf het tijdstip waarop de beschikking tot het uitspreken van de noodregeling uitvoerbaar is geworden;  
+a. het tijdstip waarop de termijn, bedoeld in artikel 39 van de Faillissementswet BES, aanvangt, wordt berekend vanaf het tijdstip waarop de beschikking tot het uitspreken van de noodregeling uitvoerbaar is geworden;  
 
-b. een beroep op schuldvergelijking kan in afwijking van [artikel 49 van de Faillissementswet BES](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md) slechts worden gedaan, indien de schuldvordering en de schuldplichtigheid beide zijn ontstaan vóór het tijdstip waarop de beschikking tot het uitspreken van de noodregeling uitvoerbaar is geworden, dan wel voortvloeien uit een handeling vóór dat tijdstip met de gefailleerde verricht;  
+b. een beroep op schuldvergelijking kan in afwijking van artikel 49 van de Faillissementswet BES slechts worden gedaan, indien de schuldvordering en de schuldplichtigheid beide zijn ontstaan vóór het tijdstip waarop de beschikking tot het uitspreken van de noodregeling uitvoerbaar is geworden, dan wel voortvloeien uit een handeling vóór dat tijdstip met de gefailleerde verricht;  
 
 c. handelingen, ingevolge de artikelen 8:13, 8:14 en 8:15 door of namens de Nederlandsche Bank verricht gedurende de tijd dat de noodregeling van kracht was, gelden als handelingen van de curator, terwijl boedelschulden, gedurende die tijd ontstaan, ook in het faillissement als boedelschulden gelden;  
 
 d. de boedel is niet aansprakelijk voor verbintenissen van de kredietinstelling of verzekeraar die in strijd met artikel 8:13, eerste en derde lid, zijn aangegaan gedurende de tijd dat de noodregeling van kracht was, behoudens voor zover deze daardoor is gebaat;  
 
-e. vorderingen uit overeenkomsten van levensverzekering kunnen in afwijking van [artikel 105, eerste lid, van de Faillissementswet BES](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md) worden ingediend door overlegging van de polis of een afschrift daarvan, zonder dat het bedrag van de vordering behoeft te worden vermeld. Voor zover de curator de vordering erkent, stelt hij de omvang daarvan vast.    
+e. vorderingen uit overeenkomsten van levensverzekering kunnen in afwijking van artikel 105, eerste lid, van de Faillissementswet BES worden ingediend door overlegging van de polis of een afschrift daarvan, zonder dat het bedrag van de vordering behoeft te worden vermeld. Voor zover de curator de vordering erkent, stelt hij de omvang daarvan vast.    
 
 ### Artikel  8:24  
 
@@ -2867,7 +2869,7 @@ De Nederlandsche Bank brengt na beëindiging van en desgevraagd tijdens de noodr
 
 ####(bevoorrechte vorderingen)
 
-1.  In geval van noodregeling of faillissement worden de boedelschulden van een verzekeraar, overeenkomstig de [Faillissementswet BES](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md), al naar gelang de aard van de betrokken boedelschuld hetzij mede over de in artikel 3:19 bedoelde waarden omgeslagen, hetzij uitsluitend van een bepaalde bate van de boedel afgetrokken.   
+1.  In geval van noodregeling of faillissement worden de boedelschulden van een verzekeraar, overeenkomstig de Faillissementswet BES, al naar gelang de aard van de betrokken boedelschuld hetzij mede over de in artikel 3:19 bedoelde waarden omgeslagen, hetzij uitsluitend van een bepaalde bate van de boedel afgetrokken.   
 2.  Onverminderd het eerste lid dienen in geval van noodregeling of faillissement de in het eerste lid bedoelde waarden uitsluitend tot voldoening van de vorderingen ten laste van de verzekeraar ter zake van uitkeringen krachtens de vanuit de vestigingen in de openbare lichamen gesloten overeenkomsten van verzekering, niet zijnde uitkeringen, krachtens overeenkomst van herverzekering aan een andere verzekeraar verschuldigd.   
 3.  Op de in het eerste lid bedoelde waarden zijn, behoudens vorderingen die door pand of hypotheek op deze waarden zijn gedekt, geen andere vorderingen verhaalbaar, tenzij vaststaat dat alle vorderingen, bedoeld in het tweede lid, kunnen worden voldaan en dat in de toekomst zodanige vorderingen niet meer zullen ontstaan.   
 4.  Ingeval de in het tweede lid bedoelde vorderingen niet volledig uit de in het eerste lid bedoelde waarden zijn voldaan, nemen de betrokken schuldeisers voor het overblijvende deel van hun vorderingen rang na de overige schuldeisers bij de verdeling van de opbrengst van de overige goederen van de verzekeraar.   
@@ -2879,6 +2881,8 @@ De Nederlandsche Bank brengt na beëindiging van en desgevraagd tijdens de noodr
 ### Artikel  8:26  
 
 ####(depositogarantiestelsel)
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Er is een depositogarantiestelsel dat tot doel heeft depositohouders te compenseren in het geval een kredietinstelling niet in staat is te voldoen aan haar verplichtingen die voortvloeien uit vorderingen uit deposito’s. Kredietinstellingen dragen de kosten van het depositogarantiestelsel.   
 2.  Het depositogarantiestelsel, bedoeld in het eerste lid, kan deel uitmaken van een Caribisch depositogarantiestelsel waarin ook andere landen uit het Caribische deel van het Koninkrijk deelnemen.   
@@ -2944,7 +2948,7 @@ De samenloop van vorderingen van depositohouders op een kredietinstelling ten aa
 
 ####(opsporing van strafbare feiten)
 
-1.  Met de opsporing van de in de artikelen 9:1 en 9:2 strafbaar gestelde feiten zijn, onverminderd [artikel 184 van het Wetboek van Strafvordering BES](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), belast de daartoe bij besluit van Onze Minister van Justitie in overeenstemming met Onze Minister aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 185 tot en met 188](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) en [190 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
+1.  Met de opsporing van de in de artikelen 9:1 en 9:2 strafbaar gestelde feiten zijn, onverminderd artikel 184 van het Wetboek van Strafvordering BES, belast de daartoe bij besluit van Onze Minister van Justitie in overeenstemming met Onze Minister aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de artikelen 185 tot en met 188 en 190 van het Wetboek van Strafrecht BES, voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
 
 ### Hoofdstuk  10  
@@ -2959,19 +2963,19 @@ De samenloop van vorderingen van depositohouders op een kredietinstelling ten aa
 
 ####(vergunningen)
 
-1.  Vergunningen tot uitoefening van het bedrijf van kredietinstelling of geldtransactiekantoor, verleend op grond van [artikel 2 van de Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md), berusten na de inwerkingtreding van deze wet op artikel 2:1, eerste lid, onderdeel a, onder 1°, met dien verstande dat vergunningen tot uitoefening van het bedrijf van kredietinstelling die zijn verleend aan een kredietaanbieder, niet zijnde een kredietinstelling, na de inwerkingtreding van deze wet op artikel 2:3, eerste lid, onderdeel c, berusten.   
-2.  Vergunningen tot uitoefening van het verzekeringsbedrijf, verleend op grond van [artikel 9 van de Wet toezicht verzekeringsbedrijf BES](../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md), berusten na de inwerkingtreding van deze wet op artikel 2:1, eerste lid, onderdeel b.   
-3.  Vergunningen voor het werkzaam zijn als trustkantoor, verleend op grond van [artikel 4 van de Wet toezicht trustwezen BES](../../../../../../wet-BES/wet/toezicht/trustwezen/bes/BWBR0028368/README.md), berusten, met uitzondering van bij die vergunningen behorende bijlagen als bedoeld in de [artikelen 6](../../../../../../wet-BES/wet/toezicht/trustwezen/bes/BWBR0028368/README.md) en [7 van die wet](../../../../../../wet-BES/wet/toezicht/trustwezen/bes/BWBR0028368/README.md), na de inwerkingtreding van deze wet op artikel 2:1, eerste lid, onderdeel a, onder 2°.   
-4.  Vergunningen voor het houden van een effectenbeurs, verleend op grond van [artikel 2 van de Wet toezicht effectenbeurzen BES](../../../../../../wet-BES/wet/toezicht/effectenbeurzen/bes/BWBR0028366/README.md), berusten na de inwerkingtreding van deze wet op artikel 2:3, eerste lid, onderdeel d.   
-5.  Vergunningen aan beleggingsinstellingen, verleend op grond van [artikel 3 van de Wet toezicht beleggingsinstellingen en administrateurs BES](../../../../../../wet-BES/wet/toezicht/beleggingsinstellingen/en/administrateurs/bes/BWBR0028553/README.md), berusten na de inwerkingtreding van deze wet op artikel 2:3, tweede lid.   
+1.  Vergunningen tot uitoefening van het bedrijf van kredietinstelling of geldtransactiekantoor, verleend op grond van artikel 2 van de Wet toezicht bank- en kredietwezen 1994 BES, berusten na de inwerkingtreding van deze wet op artikel 2:1, eerste lid, onderdeel a, onder 1°, met dien verstande dat vergunningen tot uitoefening van het bedrijf van kredietinstelling die zijn verleend aan een kredietaanbieder, niet zijnde een kredietinstelling, na de inwerkingtreding van deze wet op artikel 2:3, eerste lid, onderdeel c, berusten.   
+2.  Vergunningen tot uitoefening van het verzekeringsbedrijf, verleend op grond van artikel 9 van de Wet toezicht verzekeringsbedrijf BES, berusten na de inwerkingtreding van deze wet op artikel 2:1, eerste lid, onderdeel b.   
+3.  Vergunningen voor het werkzaam zijn als trustkantoor, verleend op grond van artikel 4 van de Wet toezicht trustwezen BES, berusten, met uitzondering van bij die vergunningen behorende bijlagen als bedoeld in de artikelen 6 en 7 van die wet, na de inwerkingtreding van deze wet op artikel 2:1, eerste lid, onderdeel a, onder 2°.   
+4.  Vergunningen voor het houden van een effectenbeurs, verleend op grond van artikel 2 van de Wet toezicht effectenbeurzen BES, berusten na de inwerkingtreding van deze wet op artikel 2:3, eerste lid, onderdeel d.   
+5.  Vergunningen aan beleggingsinstellingen, verleend op grond van artikel 3 van de Wet toezicht beleggingsinstellingen en administrateurs BES, berusten na de inwerkingtreding van deze wet op artikel 2:3, tweede lid.   
 
 ### Artikel  10:2  
 
 ####(van rechtswege vergunningen)
 
-1.  Aan personen die op het tijdstip van inwerkingtreding van deze wet waren vermeld op een bijlage als bedoeld in [artikel 6](../../../../../../wet-BES/wet/toezicht/trustwezen/bes/BWBR0028368/README.md) of [7 van de Wet toezicht trustwezen BES](../../../../../../wet-BES/wet/toezicht/trustwezen/bes/BWBR0028368/README.md), wordt van rechtswege vergunning als bedoeld in artikel 2:1, eerste lid, onderdeel a, onder 2°, verleend, met dien verstande dat die vergunning uitsluitend strekt tot het verlenen van beheersdiensten als bedoeld in [artikel 1 van de Wet toezicht trustwezen BES](../../../../../../wet-BES/wet/toezicht/trustwezen/bes/BWBR0028368/README.md).   
+1.  Aan personen die op het tijdstip van inwerkingtreding van deze wet waren vermeld op een bijlage als bedoeld in artikel 6 of 7 van de Wet toezicht trustwezen BES, wordt van rechtswege vergunning als bedoeld in artikel 2:1, eerste lid, onderdeel a, onder 2°, verleend, met dien verstande dat die vergunning uitsluitend strekt tot het verlenen van beheersdiensten als bedoeld in artikel 1 van de Wet toezicht trustwezen BES.   
 2.  De op grond van het eerste lid verleende vergunningen vervallen na verloop van zes maanden, gerekend vanaf het tijdstip van inwerkingtreding van deze wet.   
-3.  Aan bemiddelaars die op het tijdstip van inwerkingtreding van deze wet waren ingeschreven in het register voor assurantiebemiddelaars op grond van [artikel 4 van de Wet assurantiebemiddelingsbedrijf BES](../../../../../../wet-BES/wet/assurantiebemiddelingsbedrijf/bes/BWBR0028566/README.md), wordt van rechtswege vergunning als bedoeld in artikel 2:3, eerste lid, onderdeel a, verleend om als bemiddelaar in verzekeringen op te treden.   
+3.  Aan bemiddelaars die op het tijdstip van inwerkingtreding van deze wet waren ingeschreven in het register voor assurantiebemiddelaars op grond van artikel 4 van de Wet assurantiebemiddelingsbedrijf BES, wordt van rechtswege vergunning als bedoeld in artikel 2:3, eerste lid, onderdeel a, verleend om als bemiddelaar in verzekeringen op te treden.   
 
 ### Artikel  10:3  
 
@@ -2983,35 +2987,35 @@ Artikel 3:1, eerste lid, is, zolang een onderneming haar zetel niet verplaatst 
 
 ####(ontheffingen)
 
-1.  Ontheffingen, verleend op grond van de [Wet assurantiebemiddelingsbedrijf BES](../../../../../../wet-BES/wet/assurantiebemiddelingsbedrijf/bes/BWBR0028566/README.md), de [Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md), de [Wet toezicht beleggingsinstellingen en administrateurs BES](../../../../../../wet-BES/wet/toezicht/beleggingsinstellingen/en/administrateurs/bes/BWBR0028553/README.md), de [Wet toezicht effectenbeurzen BES](../../../../../../wet-BES/wet/toezicht/effectenbeurzen/bes/BWBR0028366/README.md), de [Wet toezicht trustwezen BES](../../../../../../wet-BES/wet/toezicht/trustwezen/bes/BWBR0028368/README.md) of de [Wet toezicht verzekeringsbedrijf BES](../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md), die betrekking hebben op een mede op grond van deze wet bestaande verplichting, berusten, voor zover van die verplichting ingevolge de bij of krachtens artikel 1:27 gestelde regels ontheffing kan worden verleend, na de inwerkingtreding van deze wet op artikel 1:27.   
-2.  Ontheffingen, verleend op grond van [artikel 9 van de Wet zeggenschap in ter beurze genoteerde vennootschappen BES](../../../../../../wet-BES/wet/zeggenschap/in/ter/beurze/genoteerde/vennootschappen/bes/BWBR0028364/README.md), worden na de inwerkingtreding van deze wet aangemerkt als ontheffingen, bedoeld in artikel 6:10.   
+1.  Ontheffingen, verleend op grond van de Wet assurantiebemiddelingsbedrijf BES, de Wet toezicht bank- en kredietwezen 1994 BES, de Wet toezicht beleggingsinstellingen en administrateurs BES, de Wet toezicht effectenbeurzen BES, de Wet toezicht trustwezen BES of de Wet toezicht verzekeringsbedrijf BES, die betrekking hebben op een mede op grond van deze wet bestaande verplichting, berusten, voor zover van die verplichting ingevolge de bij of krachtens artikel 1:27 gestelde regels ontheffing kan worden verleend, na de inwerkingtreding van deze wet op artikel 1:27.   
+2.  Ontheffingen, verleend op grond van artikel 9 van de Wet zeggenschap in ter beurze genoteerde vennootschappen BES, worden na de inwerkingtreding van deze wet aangemerkt als ontheffingen, bedoeld in artikel 6:10.   
 
 ### Artikel  10:5  
 
 ####(betrouwbaarheid en geschiktheid beleidsbepalers)
 
-1.  Indien de Nederlandsche Bank of de Autoriteit Financiële Markten op grond van de [Wet assurantiebemiddelingsbedrijf BES](../../../../../../wet-BES/wet/assurantiebemiddelingsbedrijf/bes/BWBR0028566/README.md), de [Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md), de [Wet toezicht beleggingsinstellingen en administrateurs BES](../../../../../../wet-BES/wet/toezicht/beleggingsinstellingen/en/administrateurs/bes/BWBR0028553/README.md), de [Wet toezicht effectenbeurzen BES](../../../../../../wet-BES/wet/toezicht/effectenbeurzen/bes/BWBR0028366/README.md), de [Wet toezicht trustwezen BES](../../../../../../wet-BES/wet/toezicht/trustwezen/bes/BWBR0028368/README.md) of de [Wet toezicht verzekeringsbedrijf BES](../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md) de betrouwbaarheid heeft vastgesteld van een persoon als bedoeld in artikel 3:4, eerste lid, staat de betrouwbaarheid van die persoon voor de toepassing van deze wet buiten twijfel, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling en zolang geen nieuwe beoordeling als bedoeld in artikel 3:4, vierde lid, is voorgeschreven.   
+1.  Indien de Nederlandsche Bank of de Autoriteit Financiële Markten op grond van de Wet assurantiebemiddelingsbedrijf BES, de Wet toezicht bank- en kredietwezen 1994 BES, de Wet toezicht beleggingsinstellingen en administrateurs BES, de Wet toezicht effectenbeurzen BES, de Wet toezicht trustwezen BES of de Wet toezicht verzekeringsbedrijf BES de betrouwbaarheid heeft vastgesteld van een persoon als bedoeld in artikel 3:4, eerste lid, staat de betrouwbaarheid van die persoon voor de toepassing van deze wet buiten twijfel, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling en zolang geen nieuwe beoordeling als bedoeld in artikel 3:4, vierde lid, is voorgeschreven.   
 2.  Indien een persoon als bedoeld in artikel 3:5, eerste lid, op grond van een in het eerste lid genoemde wet voldoende deskundig is bevonden, wordt hij voor de toepassing van deze wet eveneens geschikt geacht, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling.   
 
 ### Artikel  10:6  
 
 ####(verklaringen van geen bezwaar)
 
-Verklaringen van geen bezwaar, verkregen op grond van [artikel 46 van de Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md) of [artikel 81 van de Wet toezicht verzekeringsbedrijf BES](../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md), worden vanaf het tijdstip van inwerkingtreding van deze wet aangemerkt als een op grond van artikel 3:28 verkregen verklaring van geen bezwaar.  
+Verklaringen van geen bezwaar, verkregen op grond van artikel 46 van de Wet toezicht bank- en kredietwezen 1994 BES of artikel 81 van de Wet toezicht verzekeringsbedrijf BES, worden vanaf het tijdstip van inwerkingtreding van deze wet aangemerkt als een op grond van artikel 3:28 verkregen verklaring van geen bezwaar.  
 
 ### Artikel  10:7  
 
 ####(aanwijzingen en aanzeggingen)
 
-1.  Een op grond van de [Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md), de [Wet toezicht beleggingsinstellingen en administrateurs BES](../../../../../../wet-BES/wet/toezicht/beleggingsinstellingen/en/administrateurs/bes/BWBR0028553/README.md), de [Wet toezicht trustwezen BES](../../../../../../wet-BES/wet/toezicht/trustwezen/bes/BWBR0028368/README.md) of de [Wet toezicht verzekeringsbedrijf BES](../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md), gegeven aanwijzing wordt vanaf het tijdstip van inwerkingtreding van deze wet gelijkgesteld met een op grond van artikel 7:12 gegeven aanwijzing.   
-2.  Een op grond van [artikel 22, eerste lid, van de Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md) gedaan verzoek om bepaalde maatregelen te nemen of een bepaalde gedragslijn te volgen wordt voor de toepassing van het eerste lid aangemerkt als aanwijzing.   
-3.  Een op grond van de [Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md), de [Wet toezicht beleggingsinstellingen en administrateurs BES](../../../../../../wet-BES/wet/toezicht/beleggingsinstellingen/en/administrateurs/bes/BWBR0028553/README.md) of de [Wet toezicht verzekeringsbedrijf BES](../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md) gedane aanzegging wordt vanaf het tijdstip van inwerkingtreding van deze wet aangemerkt als een besluit op grond van artikel 7:14.   
+1.  Een op grond van de Wet toezicht bank- en kredietwezen 1994 BES, de Wet toezicht beleggingsinstellingen en administrateurs BES, de Wet toezicht trustwezen BES of de Wet toezicht verzekeringsbedrijf BES, gegeven aanwijzing wordt vanaf het tijdstip van inwerkingtreding van deze wet gelijkgesteld met een op grond van artikel 7:12 gegeven aanwijzing.   
+2.  Een op grond van artikel 22, eerste lid, van de Wet toezicht bank- en kredietwezen 1994 BES gedaan verzoek om bepaalde maatregelen te nemen of een bepaalde gedragslijn te volgen wordt voor de toepassing van het eerste lid aangemerkt als aanwijzing.   
+3.  Een op grond van de Wet toezicht bank- en kredietwezen 1994 BES, de Wet toezicht beleggingsinstellingen en administrateurs BES of de Wet toezicht verzekeringsbedrijf BES gedane aanzegging wordt vanaf het tijdstip van inwerkingtreding van deze wet aangemerkt als een besluit op grond van artikel 7:14.   
 
 ### Artikel  10:8  
 
 ####(bestuurlijke boeten)
 
-1.  Een bestuurlijke boete, opgelegd terzake van overtreding van een voorschrift, gesteld bij of krachtens de [Wet assurantiebemiddelingsbedrijf BES](../../../../../../wet-BES/wet/assurantiebemiddelingsbedrijf/bes/BWBR0028566/README.md), de [Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md), de [Wet toezicht beleggingsinstellingen en administrateurs BES](../../../../../../wet-BES/wet/toezicht/beleggingsinstellingen/en/administrateurs/bes/BWBR0028553/README.md), de [Wet toezicht trustwezen BES](../../../../../../wet-BES/wet/toezicht/trustwezen/bes/BWBR0028368/README.md) of de [Wet toezicht verzekeringsbedrijf BES](../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md), wordt vanaf het tijdstip van inwerkingtreding van deze wet gelijkgesteld met een op grond van artikel 7:30 opgelegde bestuurlijke boete.   
+1.  Een bestuurlijke boete, opgelegd terzake van overtreding van een voorschrift, gesteld bij of krachtens de Wet assurantiebemiddelingsbedrijf BES, de Wet toezicht bank- en kredietwezen 1994 BES, de Wet toezicht beleggingsinstellingen en administrateurs BES, de Wet toezicht trustwezen BES of de Wet toezicht verzekeringsbedrijf BES, wordt vanaf het tijdstip van inwerkingtreding van deze wet gelijkgesteld met een op grond van artikel 7:30 opgelegde bestuurlijke boete.   
 2.  De toezichtautoriteit kan na de inwerkingtreding van deze wet tot een jaar na de dag waarop de overtreding is begaan, een bestuurlijke boete opleggen terzake van overtreding van een voorschrift, gesteld bij of krachtens een in het eerste lid genoemde wet. Op het opleggen van de boete blijft het recht van toepassing dat gold voor het tijdstip van inwerkingtreding van deze wet.   
 3.  De artikelen 7:50 en 7:51 zijn niet van toepassing op boeten als bedoeld in het eerste en tweede lid.   
 
@@ -3025,13 +3029,13 @@ Op de afhandeling van een noodregeling of faillietverklaring van een kredietinst
 
 ####(geheimhoudingsplicht en vertrouwelijke gegevens)
 
-De artikelen 1:20 tot en met 1:25 zijn van overeenkomstige toepassing op gegevens en inlichtingen die zijn verstrekt of verkregen op grond van de [Wet assurantiebemiddelingsbedrijf BES](../../../../../../wet-BES/wet/assurantiebemiddelingsbedrijf/bes/BWBR0028566/README.md), de [Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md), de [Wet toezicht beleggingsinstellingen en administrateurs BES](../../../../../../wet-BES/wet/toezicht/beleggingsinstellingen/en/administrateurs/bes/BWBR0028553/README.md), de [Wet toezicht effectenbeurzen BES](../../../../../../wet-BES/wet/toezicht/effectenbeurzen/bes/BWBR0028366/README.md), de [Wet toezicht trustwezen BES](../../../../../../wet-BES/wet/toezicht/trustwezen/bes/BWBR0028368/README.md) of de [Wet toezicht verzekeringsbedrijf BES](../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md).  
+De artikelen 1:20 tot en met 1:25 zijn van overeenkomstige toepassing op gegevens en inlichtingen die zijn verstrekt of verkregen op grond van de Wet assurantiebemiddelingsbedrijf BES, de Wet toezicht bank- en kredietwezen 1994 BES, de Wet toezicht beleggingsinstellingen en administrateurs BES, de Wet toezicht effectenbeurzen BES, de Wet toezicht trustwezen BES of de Wet toezicht verzekeringsbedrijf BES.  
 
 ### Artikel  10:10a  
 
 ####(aansprakelijkheidsbeperking toezichtautoriteiten)
 
-Artikel 1:13a is niet van toepassing op een handelen of nalaten van de Nederlandsche Bank, de Autoriteit Financiële Markten, de leden van hun organen of hun werknemers dat heeft plaatsgevonden voor de inwerkingtreding van [artikel II van de Wet aansprakelijkheidsbeperking DNB en AFM en bonusverbod staatsgesteunde ondernemingen](../../../../../../wet/wet/aansprakelijkheidsbeperking/dnb/en/afm/en/bonusverbod/staatsgesteunde/etc/BWBR0031680/README.md).  
+Artikel 1:13a is niet van toepassing op een handelen of nalaten van de Nederlandsche Bank, de Autoriteit Financiële Markten, de leden van hun organen of hun werknemers dat heeft plaatsgevonden voor de inwerkingtreding van artikel II van de Wet aansprakelijkheidsbeperking DNB en AFM en bonusverbod staatsgesteunde ondernemingen.  
 
 ### §  2  
 
@@ -3043,19 +3047,19 @@ Artikel 1:13a is niet van toepassing op een handelen of nalaten van de Nederland
 
 De volgende wetten worden ingetrokken: 
 
-a. de [Wet assurantiebemiddelingsbedrijf BES](../../../../../../wet-BES/wet/assurantiebemiddelingsbedrijf/bes/BWBR0028566/README.md);  
+a. de Wet assurantiebemiddelingsbedrijf BES;  
 
-b. de [Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md);  
+b. de Wet toezicht bank- en kredietwezen 1994 BES;  
 
-c. de [Wet toezicht beleggingsinstellingen en administrateurs BES](../../../../../../wet-BES/wet/toezicht/beleggingsinstellingen/en/administrateurs/bes/BWBR0028553/README.md);  
+c. de Wet toezicht beleggingsinstellingen en administrateurs BES;  
 
-d. de [Wet toezicht effectenbeurzen BES](../../../../../../wet-BES/wet/toezicht/effectenbeurzen/bes/BWBR0028366/README.md);  
+d. de Wet toezicht effectenbeurzen BES;  
 
-e. de [Wet toezicht trustwezen BES](../../../../../../wet-BES/wet/toezicht/trustwezen/bes/BWBR0028368/README.md);  
+e. de Wet toezicht trustwezen BES;  
 
-f. de [Wet toezicht verzekeringsbedrijf BES](../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md);  
+f. de Wet toezicht verzekeringsbedrijf BES;  
 
-g. de [Wet zeggenschap in ter beurze genoteerde vennootschappen BES](../../../../../../wet-BES/wet/zeggenschap/in/ter/beurze/genoteerde/vennootschappen/bes/BWBR0028364/README.md).    
+g. de Wet zeggenschap in ter beurze genoteerde vennootschappen BES.    
 
 ### Artikel  10:12  
 
@@ -3066,49 +3070,49 @@ g. de [Wet zeggenschap in ter beurze genoteerde vennootschappen BES](../../../..
 
 ### Artikel  10:13  
 
-####([Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md))
+####(Comptabiliteitswet 2001)
 
 Wijzigt de Comptabiliteitswet 2001.   
 
 ### Artikel  10:14  
 
-####([Deurwaarderswet BES](../../../../../../wet-BES/deurwaarderswet/bes/BWBR0028261/README.md))
+####(Deurwaarderswet BES)
 
 Wijzigt de Deurwaarderswet BES.   
 
 ### Artikel  10:15  
 
-####([Pensioenwet BES](../../../../../../wet-BES/pensioenwet/bes/BWBR0028712/README.md))
+####(Pensioenwet BES)
 
 Wijzigt de Pensioenwet BES.   
 
 ### Artikel  10:16  
 
-####([Wet aansprakelijkheidsverzekering motorrijtuigen BES](../../../../../../wet-BES/wet/aansprakelijkheidsverzekering/motorrijtuigen/bes/BWBR0028254/README.md))
+####(Wet aansprakelijkheidsverzekering motorrijtuigen BES)
 
 Wijzigt de Wet aansprakelijkheidsverzekering motorrijtuigen BES.   
 
 ### Artikel  10:17  
 
-####([Wet algemene verzekering bijzondere ziektekosten BES](../../../../../../wet-BES/wet/algemene/verzekering/bijzondere/ziektekosten/bes/BWBR0028294/README.md))
+####(Wet algemene verzekering bijzondere ziektekosten BES)
 
 Wijzigt de Wet algemene verzekering bijzondere ziektekosten BES.   
 
 ### Artikel  10:18  
 
-####([Wet geldstelsel BES](../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md))
+####(Wet geldstelsel BES)
 
 Wijzigt de Wet geldstelsel BES.   
 
 ### Artikel  10:19  
 
-####([Wet op het notarisambt BES](../../../../../../wet-BES/wet/op/het/notarisambt/bes/BWBR0028457/README.md))
+####(Wet op het notarisambt BES)
 
 Wijzigt de Wet op het notarisambt BES.   
 
 ### Artikel  10:20  
 
-####([Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md))
+####(Wetboek van Burgerlijke Rechtsvordering BES)
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering BES.   
 
