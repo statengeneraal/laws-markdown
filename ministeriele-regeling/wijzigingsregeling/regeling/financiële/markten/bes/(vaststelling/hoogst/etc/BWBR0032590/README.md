@@ -9,17 +9,17 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling financiële markten BES 2012.   
+Wijzigt de Regeling financiële markten BES 2012. 
 
 ### Artikel  II  
 
-De [artikelen 2:5a](../../../../../../../../../../ministeriele-regeling-BES/regeling/financiële/markten/bes/2012/BWBR0031617/README.md) en [2:5b](../../../../../../../../../../ministeriele-regeling-BES/regeling/financiële/markten/bes/2012/BWBR0031617/README.md) zijn niet van toepassing op kredietovereenkomsten met een vaste kredietvergoeding die zijn afgesloten voor 1 januari 2013.  
+De [artikelen 2:5a](../../../../../../../../../../ministeriele-regeling-BES/regeling/financiële/markten/bes/2012/BWBR0031617/README.md) en [2:5b](../../../../../../../../../../ministeriele-regeling-BES/regeling/financiële/markten/bes/2012/BWBR0031617/README.md) zijn niet van toepassing op kredietovereenkomsten met een vaste kredietvergoeding die zijn afgesloten voor 1 januari 2013. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van 1 januari 2013.  
+Deze regeling treedt in werking met ingang van 1 januari 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Financiën,
-J.R.V.A.Dijsselbloem   
+Minister van Financiën, 
+J.R.V.A. Dijsselbloem     
