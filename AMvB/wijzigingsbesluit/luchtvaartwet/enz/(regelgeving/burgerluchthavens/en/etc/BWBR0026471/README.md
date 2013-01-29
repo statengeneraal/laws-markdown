@@ -28,75 +28,75 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.   
+Wijzigt het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit beperking geluidhinder luchtvaartuigen.   
+Wijzigt het Besluit beperking geluidhinder luchtvaartuigen. 
 
 ### Artikel  III  
 
-Wijzigt het Besluit beperkingen burgerluchtverkeer Waddenzee.   
+Wijzigt het Besluit beperkingen burgerluchtverkeer Waddenzee. 
 
 ### Artikel  IV  
 
-Wijzigt het Besluit bewijzen van bevoegdheid voor de luchtvaart.   
+Wijzigt het Besluit bewijzen van bevoegdheid voor de luchtvaart. 
 
 ### Artikel  V  
 
-Wijzigt het Besluit geluidhinder.   
+Wijzigt het Besluit geluidhinder. 
 
 ### Artikel  VI  
 
-Wijzigt het Besluit milieu-effectrapportage 1994.   
+Wijzigt het Besluit milieu-effectrapportage 1994. 
 
 ### Artikel  VII  
 
-Wijzigt het Besluit milieuverslaglegging.   
+Wijzigt het Besluit milieuverslaglegging. 
 
 ### Artikel  VIII  
 
-Wijzigt het Besluit omgevingslawaai.   
+Wijzigt het Besluit omgevingslawaai. 
 
 ### Artikel  IX  
 
-Wijzigt het Besluit slotallocatie.   
+Wijzigt het Besluit slotallocatie. 
 
 ### Artikel  X  
 
-Wijzigt het Besluit vervoer gevaarlijke stoffen door de lucht.   
+Wijzigt het Besluit vervoer gevaarlijke stoffen door de lucht. 
 
 ### Artikel  XI  
 
-Wijzigt het Besluit vervoer gevaarlijke stoffen door de lucht met militaire luchtvaartuigen.   
+Wijzigt het Besluit vervoer gevaarlijke stoffen door de lucht met militaire luchtvaartuigen. 
 
 ### Artikel  XII  
 
-Wijzigt het Bouwbesluit 2003.   
+Wijzigt het Bouwbesluit 2003. 
 
 ### Artikel  XIII  
 
-Wijzigt het Luchtverkeersreglement.   
+Wijzigt het Luchtverkeersreglement. 
 
 ### Artikel  XIV  
 
-Wijzigt het Mijnbouwbesluit.   
+Wijzigt het Mijnbouwbesluit. 
 
 ### Artikel  XV  
 
-Wijzigt de Regeling Toezicht Luchtvaart.   
+Wijzigt de Regeling Toezicht Luchtvaart. 
 
 ### Artikel  XVI  
 
-De algemene maatregelen van bestuur, genoemd in de artikelen I tot en met VIII en X tot en met XIV, zoals zij luidden vóór inwerkingtreding van die artikelen, blijven van toepassing op een luchtvaartterrein, aangewezen op grond van [artikel 18 van de Luchtvaartwet](../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md), zolang op dat luchtvaartterrein het bepaalde bij of krachtens de [Luchtvaartwet](../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) van toepassing blijft krachtens [artikel IX, tweede lid](../../../../../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md), of [artikel XVIII, derde lid, van de Wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](../../../../../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md) (Stb. 561).  
+De algemene maatregelen van bestuur, genoemd in de artikelen I tot en met VIII en X tot en met XIV, zoals zij luidden vóór inwerkingtreding van die artikelen, blijven van toepassing op een luchtvaartterrein, aangewezen op grond van [artikel 18 van de Luchtvaartwet](../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md), zolang op dat luchtvaartterrein het bepaalde bij of krachtens de [Luchtvaartwet](../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) van toepassing blijft krachtens [artikel IX, tweede lid](../../../../../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md), of [artikel XVIII, derde lid, van de Wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](../../../../../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md) (Stb. 561). 
 
 ### Artikel  XVII  
 
-Wijzigt het Besluit geluidhinder, het Besluit omgevingslawaai en het Bouwbesluit 2003.   
+Wijzigt het Besluit geluidhinder, het Besluit omgevingslawaai en het Bouwbesluit 2003.
 
 ### Artikel  XVIII  
 
-De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -124,5 +124,5 @@ J. G. de Vries
 
 de *zesde* oktober 2009 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    

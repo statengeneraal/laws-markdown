@@ -14,9 +14,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *Minister:* Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs op het gebied van landbouw en natuurlijke omgeving, de Minister van Landbouw, Natuur en Voedselkwaliteit;  
+a.  *Minister:* Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs op het gebied van landbouw en natuurlijke omgeving, de Minister van Landbouw, Natuur en Voedselkwaliteit;  
 
-b. 
+b. *instelling:*
 
 1°. school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 1 van de Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md);  
 
@@ -24,15 +24,15 @@ b.
 
 3°. instelling als bedoeld in [art. 1.1.1, onderdeel b, 4 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), waaraan voortgezet beroepsonderwijs op het gebied van landbouw en natuurlijke omgeving wordt verzorgd;    
 
-c. *internationalisering:* het ontwikkelen van een open houding, kennis en vaardigheden van lerenden om te kunnen werken en leven in een internationale context;  
+c.  *internationalisering:* het ontwikkelen van een open houding, kennis en vaardigheden van lerenden om te kunnen werken en leven in een internationale context;  
 
-d. *schooljaar:* tijdvak van 1 augustus tot en met 31 juli daaraanvolgend.    
+d.  *schooljaar:* tijdvak van 1 augustus tot en met 31 juli daaraanvolgend.   
 
 ### Artikel  2  
 
 ####Mandaat Europees Platform
 
-De directeur van de Stichting Europees Platform – internationaliseren in onderwijs is bevoegd om namens de Minister vanaf het tijdstip van inwerkingtreding van deze regeling tot en met 31 december 2013 besluiten te nemen en bezwaren af te handelen voor zover die strekken tot uitvoering van deze subsidieregeling. Hij is daarbij tevens bevoegd tot het treffen van een ondermandaatregeling.  
+De directeur van de Stichting Europees Platform – internationaliseren in onderwijs is bevoegd om namens de Minister vanaf het tijdstip van inwerkingtreding van deze regeling tot en met 31 december 2013 besluiten te nemen en bezwaren af te handelen voor zover die strekken tot uitvoering van deze subsidieregeling. Hij is daarbij tevens bevoegd tot het treffen van een ondermandaatregeling. 
 
 ### Artikel  3  
 
@@ -51,21 +51,21 @@ d. introductie van tweetalig onderwijs in een school voor voortgezet onderwijs;
 
 e. introductie van versterkt talenonderwijs in een school voor voortgezet onderwijs; of  
 
-f. introductie van vroeg vreemde talenonderwijs in een school voor primair onderwijs.     
+f. introductie van vroeg vreemde talenonderwijs in een school voor primair onderwijs.    
 
 ### Artikel  4  
 
 ####Subsidieplafonds
 
 1.  Het subsidieplafond voor de schooljaren 2010–2011, 2011–2012, 2012–2013 en 2013–2014 bedraagt jaarlijks € 2.900.000.   
-2.  De subsidieplafonds voor het onderwijs op het gebied van landbouw en natuurlijke omgeving bedragen voor de schooljaren 2010–2011, 2011–2012, 2012–2013 en 2013 jaarlijks € 4.000 voor de lerarenopleidingen en € 74.000 voor het voortgezet beroepsonderwijs.   
+2.  De subsidieplafonds voor het onderwijs op het gebied van landbouw en natuurlijke omgeving bedragen voor de schooljaren 2010–2011, 2011–2012, 2012–2013 en 2013 jaarlijks € 4.000 voor de lerarenopleidingen en € 74.000 voor het voortgezet beroepsonderwijs.  
 
 ### Artikel  5  
 
 ####Subsidieaanvraag
 
-1.  Een aanvraag wordt ingediend met gebruikmaking van het toepasselijke aanvraagformulier zoals dat is opgenomen in de bij deze regeling behorende bijlage I.   
-2.  In het geval de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de aanvraag dient aan te vullen, geldt de dag waarop de aanvraag is aangevuld als datum van ontvangst.   
+1.  Een aanvraag wordt ingediend met gebruikmaking van het toepasselijke aanvraagformulier zoals dat is opgenomen in de bij deze regeling behorende bijlage I .   
+2.  In het geval de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de aanvraag dient aan te vullen, geldt de dag waarop de aanvraag is aangevuld als datum van ontvangst.  
 
 ### Artikel  6  
 
@@ -85,7 +85,7 @@ c. toekenning zou leiden tot overschrijding van de subsidieplafonds, bedoeld in 
 a. de activiteiten, mede gelet op het beschikbare budget, bedoeld in artikel 4, in onvoldoende mate bijdragen aan de internationalisering in het primair en het voortgezet onderwijs; of  
 
 b. de activiteiten in onvoldoende mate een relatie hebben met de leerdoelen van de instelling.     
-5.  Indien, na de gelijktijdige beslissing, bedoeld in het tweede lid, de subsidieplafonds, bedoeld in artikel 4, niet zijn bereikt, wordt het resterende budget aangewend voor aanvragen die na de termijn, bedoeld in het tweede lid, zijn ingediend, mits die aanvragen tevens 9 weken voordat de activiteiten zullen plaatsvinden, zijn ingediend. De aanvragen worden beoordeeld overeenkomstig het derde en het vierde lid en met inachtneming van de maximumbedragen genoemd in artikel 7.   
+5.  Indien, na de gelijktijdige beslissing, bedoeld in het tweede lid, de subsidieplafonds, bedoeld in artikel 4, niet zijn bereikt, wordt het resterende budget aangewend voor aanvragen die na de termijn, bedoeld in het tweede lid, zijn ingediend, mits die aanvragen tevens 9 weken voordat de activiteiten zullen plaatsvinden, zijn ingediend. De aanvragen worden beoordeeld overeenkomstig het derde en het vierde lid en met inachtneming van de maximumbedragen genoemd in artikel 7.  
 
 ### Artikel  7  
 
@@ -107,20 +107,20 @@ f. voor tweetalig onderwijs in het voortgezet onderwijs: maximaal € 6.000 per
 
 g. voor versterkt talenonderwijs in het voortgezet onderwijs: maximaal € 2.500 per instelling per schooljaar,  
 
-h. voor vroeg vreemde talenonderwijs in het primair onderwijs: maximaal € 3.000 per instelling per schooljaar.    
+h. voor vroeg vreemde talenonderwijs in het primair onderwijs: maximaal € 3.000 per instelling per schooljaar.   
 
 ### Artikel  8  
 
 ####Betaling
 
-De betaling van het subsidiebedrag vindt plaats binnen 6 weken nadat de subsidie is verstrekt.  
+De betaling van het subsidiebedrag vindt plaats binnen 6 weken nadat de subsidie is verstrekt. 
 
 ### Artikel  9  
 
 ####Niet vervullen begrotingsvoorwaarde
 
 1.  Subsidie ten laste van een begroting die nog niet is vastgesteld wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden de verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na vaststelling of goedkeuring van de begroting ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen.   
+2.  In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden de verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na vaststelling of goedkeuring van de begroting ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen.  
 
 ### Artikel  10  
 
@@ -128,31 +128,31 @@ De betaling van het subsidiebedrag vindt plaats binnen 6 weken nadat de subsidi
 
 1.  Binnen 6 weken na afronding van de gesubsidieerde activiteiten,legt de subsidieontvanger daarover verantwoording af door middel van een verslag.   
 2.  Voor de verantwoording maakt de subsidieontvanger gebruik van het toepasselijke formulier zoals dat is opgenomen in de bij deze regeling behorende bijlage II.   
-3.  Indien de activiteiten waarvoor de subsidie is verstrekt, niet of niet geheel zijn verricht of niet is voldaan aan de verplichtingen die aan de subsidie zijn verbonden, kan de Minister besluiten tot gehele of gedeeltelijke terugvordering.   
+3.  Indien de activiteiten waarvoor de subsidie is verstrekt, niet of niet geheel zijn verricht of niet is voldaan aan de verplichtingen die aan de subsidie zijn verbonden, kan de Minister besluiten tot gehele of gedeeltelijke terugvordering.  
 
 ### Artikel  11  
 
 ####Informatieplichten
 
 1.  De subsidieontvanger werkt mee aan door of namens de Minister ingestelde onderzoekingen die erop gericht zijn de Minister inlichtingen te verschaffen.   
-2.  De instelling informeert de Minister onverwijld schriftelijk indien de activiteiten niet of niet geheel worden gestart, aanzienlijk zijn vertraagd, gedeeltelijk zijn uitgevoerd of voortijdig worden beëindigd.   
+2.  De instelling informeert de Minister onverwijld schriftelijk indien de activiteiten niet of niet geheel worden gestart, aanzienlijk zijn vertraagd, gedeeltelijk zijn uitgevoerd of voortijdig worden beëindigd.  
 
 ### Artikel  12  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  13  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Subsidieregeling BIOS PO en VO.  
+Deze regeling wordt aangehaald als: Subsidieregeling BIOS PO en VO. 
 Deze regeling zal met bijlagen en toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-J.M. vanBijsterveldt-Vliegenthart  
+J.M. van Bijsterveldt-Vliegenthart    
 
 ### Bijlage  I  
 
