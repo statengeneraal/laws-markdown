@@ -12,13 +12,13 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder: 
 
-a. *de minister:* de Minister van Verkeer en Waterstaat;  
+a.  *de minister:* de Minister van Verkeer en Waterstaat;  
 
-b. *aanvraag:* aanvraag om schadevergoeding of tegemoetkoming in de schade als bedoeld in artikel 2;  
+b.  *aanvraag:* aanvraag om schadevergoeding of tegemoetkoming in de schade als bedoeld in artikel 2;  
 
-c. *de Overeenkomst:* de overeenkomst inzake verleggingen van kabels en leidingen buiten beheersgebied tussen de Minister van Verkeer en Waterstaat en Energie-Ned, VELIN en VEWIN (Stcrt. 1999, 97).  
+c.  *de Overeenkomst:* de overeenkomst inzake verleggingen van kabels en leidingen buiten beheersgebied tussen de Minister van Verkeer en Waterstaat en Energie-Ned, VELIN en VEWIN (Stcrt. 1999, 97).  
 
-d. *de PKB Ruimte voor de Rivier:* de bij besluit van 19 december 2006 vastgestelde Planologische Kernbeslissing Ruimte voor de Rivier, deel 4, die op 26 januari 2007 van kracht is geworden (Stcrt. 2007, 18).    
+d.  *de PKB Ruimte voor de Rivier:* de bij besluit van 19 december 2006 vastgestelde Planologische Kernbeslissing Ruimte voor de Rivier, deel 4, die op 26 januari 2007 van kracht is geworden (Stcrt. 2007, 18).   
 
 ### Artikel  2  
 
@@ -47,26 +47,27 @@ h. besluiten of handelingen waarop deze beleidsregel door de minister van toepas
 5.  Deze beleidsregel is ook van toepassing op schade in verband met wateroverlast of overstromingen, voorzover deze het gevolg zijn van de verlegging van een waterkering of van andere maatregelen gericht op het vergroten van de afvoer- of bergingscapaciteit van watersystemen ter uitvoering van de PKB Ruimte voor de Rivier.   
 6.  De vergoeding wordt bepaald in geld. Nochtans kan de minister de vergoeding toekennen in andere vorm dan betaling van een geldsom.   
 7.  Indien de schade beweerdelijk is veroorzaakt door een besluit, is de datum waarop het beweerdelijk schadeveroorzakende besluit rechtskracht verkrijgt beslissend voor het antwoord op de vraag of ten gevolge van dit besluit schade is geleden.   
+8.   Deze beleidsregel is niet van toepassing op besluiten of handelingen die verband houden met de maatregel Uiterwaardvergraving Huissense Waarden, genoemd in de bijlage behorende bij de PKB Ruimte voor de Rivier. 
 
 ### Artikel  3  
 
 ####Overeenkomstige toepassing procedurebepalingen [RNC VenW 1999](../../../../../../../../ministeriele-regeling/regeling/nadeelcompensatie/verkeer/en/waterstaat/1999/BWBR0010692/README.md)
 
-De [artikelen 12 tot en met 20 van de Regeling nadeelcompensatie Verkeer en Waterstaat 1999](../../../../../../../../ministeriele-regeling/regeling/nadeelcompensatie/verkeer/en/waterstaat/1999/BWBR0010692/README.md) zijn van overeenkomstige toepassing op het aanvragen en behandelen van een aanvraag, tenzij en voorzover dit niet verenigbaar is met een in artikel 2, eerste lid, bedoeld wettelijk voorschrift.  
+De [artikelen 12 tot en met 20 van de Regeling nadeelcompensatie Verkeer en Waterstaat 1999](../../../../../../../../ministeriele-regeling/regeling/nadeelcompensatie/verkeer/en/waterstaat/1999/BWBR0010692/README.md) zijn van overeenkomstige toepassing op het aanvragen en behandelen van een aanvraag, tenzij en voorzover dit niet verenigbaar is met een in artikel 2, eerste lid, bedoeld wettelijk voorschrift. 
 
 ### Artikel  4  
 
 ####Citeertitel
 
-Deze beleidsregel wordt aangehaald als: Beleidsregel schadevergoeding Ruimte voor de Rivier.  
+Deze beleidsregel wordt aangehaald als: Beleidsregel schadevergoeding Ruimte voor de Rivier. 
 
 ### Artikel  5  
 
 ####Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-J.C.Huizinga-Heringa   
+J.C. Huizinga-Heringa     
