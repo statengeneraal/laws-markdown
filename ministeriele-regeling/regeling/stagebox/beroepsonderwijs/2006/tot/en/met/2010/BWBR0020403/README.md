@@ -5,7 +5,7 @@
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
 Mede namens de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-Gelet op de [artikelen 2.2.3, derde en vijfde lid](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.4.3](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.5.4, tweede lid](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.5.10](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) juncto [2.5.4, tweede lid](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [2.7 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);
+Gelet op de artikelen 2.2.3, derde en vijfde lid, 2.4.3, 2.5.4, tweede lid, 2.5.10 juncto 2.5.4, tweede lid, en 2.7 van de Wet educatie en beroepsonderwijs;
 Besluit:    
 
 ### Artikel  1  
@@ -16,11 +16,11 @@ In deze regeling wordt verstaan onder:
 
 a. minister: de Minister van Onderwijs, Cultuur en Wetenschap, en voor zover het betreft het beroepsonderwijs op het gebied van de landbouw en de natuurlijke omgeving, de Minister van Landbouw, Natuur en Voedselkwaliteit;  
 
-b. WEB: de [Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+b. WEB: de Wet educatie en beroepsonderwijs;  
 
-c. instelling: een onderwijsinstelling als bedoeld in [artikel 1.1.1, onder b](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), een instituut als bedoeld in [artikel 12.3.8](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), dan wel een hogeschool als bedoeld in [artikel 12.3.9 van de WEB](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+c. instelling: een onderwijsinstelling als bedoeld in artikel 1.1.1, onder b, een instituut als bedoeld in artikel 12.3.8, dan wel een hogeschool als bedoeld in artikel 12.3.9 van de WEB;  
 
-d. kenniscentrum: een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.5.1 van de WEB](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+d. kenniscentrum: een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in artikel 1.5.1 van de WEB;  
 
 e. Colo: de Vereniging van kenniscentra beroepsonderwijs bedrijfsleven;  
 
@@ -28,7 +28,7 @@ f.  vervallen.
 
 g. simulatieplaats: een leerplaats buiten een leerbedrijf voor de beroepspraktijkvorming, als aanloop naar een leerplaats bij een erkend leerbedrijf;  
 
-h. stageplaats: een erkende beroepspraktijkvormingsplaats als bedoeld in [artikel 7.2.8 van de WEB](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor hetzij de beroepsopleidende leerweg dan wel de beroepsbegeleidende leerweg, bedoeld in [artikel 7.2.2, tweede lid, van de WEB](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
+h. stageplaats: een erkende beroepspraktijkvormingsplaats als bedoeld in artikel 7.2.8 van de WEB, voor hetzij de beroepsopleidende leerweg dan wel de beroepsbegeleidende leerweg, bedoeld in artikel 7.2.2, tweede lid, van de WEB.    
 
 ### Artikel  2  
 
@@ -48,7 +48,7 @@ d. Colo.
 
 ####Aanwending aanvullende vergoeding instellingen
 
-1.  De minister verstrekt per kalenderjaar aan instellingen een aanvullende vergoeding als bedoeld in [artikel 2.2.3, derde lid, van de WEB](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), om in samenwerking met relevante partijen uit de regio zorg te dragen voor: 
+1.  De minister verstrekt per kalenderjaar aan instellingen een aanvullende vergoeding als bedoeld in artikel 2.2.3, derde lid, van de WEB, om in samenwerking met relevante partijen uit de regio zorg te dragen voor: 
 
 a. passende stageplaatsen dan wel simulatieplaatsen voor deelnemers, in het bijzonder moeilijk plaatsbare deelnemers;  
 
@@ -62,7 +62,7 @@ b. het waar nodig creëren van simulatieplaatsen, met als doel geleiding naar st
 c. een adequate opleiding van deelnemerbegeleiders van instellingen.     
 3.  Een instelling richt zich bij de uitvoering van de taken, genoemd in het tweede lid, met name op: 
 
-a. moeilijk plaatsbare deelnemers in de assistentopleiding en basisberoepsopleiding, genoemd in [artikel 7.2.2, eerste lid, onderdelen a en b, van de WEB](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met name door middel van intensieve begeleiding;  
+a. moeilijk plaatsbare deelnemers in de assistentopleiding en basisberoepsopleiding, genoemd in artikel 7.2.2, eerste lid, onderdelen a en b, van de WEB, met name door middel van intensieve begeleiding;  
 
 b. de positie van allochtone jongeren; en  
 
@@ -73,14 +73,14 @@ c. de competentiegerichte beroepsopleidingen.
 
 ####Aanwending aanvullende vergoeding kenniscentrum
 
-1.  De minister verstrekt per kalenderjaar aan kenniscentra een aanvullende vergoeding als bedoeld in [artikel 2.4.3 van de WEB](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor het opleiden van praktijkbegeleiders bij leerbedrijven.   
+1.  De minister verstrekt per kalenderjaar aan kenniscentra een aanvullende vergoeding als bedoeld in artikel 2.4.3 van de WEB, voor het opleiden van praktijkbegeleiders bij leerbedrijven.   
 2.  Een kenniscentrum maakt, in samenwerking met de betrokken instellingen, afspraken met leerbedrijven over het aantal praktijkbegeleiders dat wordt opgeleid en de inhoud en de inrichting van de opleidingsactiviteiten.   
 
 ### Artikel  5  
 
 ####Aanwending aanvullende vergoeding Colo
 
-De minister verstrekt per kalenderjaar aan Colo een aanvullende vergoeding als bedoeld in [artikel 2.7 van de WEB](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor coördinatie van de voortgang van de uitvoering van de taken door de kenniscentra, bedoeld in artikel 4, kennisuitwisseling ter zake van goede praktijkvoorbeelden en informatielevering ten behoeve van de stagemonitor.  
+De minister verstrekt per kalenderjaar aan Colo een aanvullende vergoeding als bedoeld in artikel 2.7 van de WEB, voor coördinatie van de voortgang van de uitvoering van de taken door de kenniscentra, bedoeld in artikel 4, kennisuitwisseling ter zake van goede praktijkvoorbeelden en informatielevering ten behoeve van de stagemonitor.  
 
 ### Artikel  7  
 
@@ -108,12 +108,12 @@ c. voor Colo voor de taak, genoemd in artikel 5: € 75.000,–.
 
 ####Subsidiebedrag
 
-1.  De aanvullende vergoeding voor de instellingen wordt per kalenderjaar berekend naar rato van het aantal deelnemers dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende kalenderjaar per instelling aan de opleidingen, bedoeld in [artikel 7.2.2, eerste lid onderdelen a en b, van de WEB](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) is ingeschreven en dat daadwerkelijk die opleiding volgt. Hierbij geldt dat: 
+1.  De aanvullende vergoeding voor de instellingen wordt per kalenderjaar berekend naar rato van het aantal deelnemers dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende kalenderjaar per instelling aan de opleidingen, bedoeld in artikel 7.2.2, eerste lid onderdelen a en b, van de WEB is ingeschreven en dat daadwerkelijk die opleiding volgt. Hierbij geldt dat: 
 
-a. het aantal deelnemers aan de opleiding, bedoeld in [artikel 7.2.2, eerste lid onderdeel a, van de WEB](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met de factor 1 wordt vermenigvuldigd, en  
+a. het aantal deelnemers aan de opleiding, bedoeld in artikel 7.2.2, eerste lid onderdeel a, van de WEB, met de factor 1 wordt vermenigvuldigd, en  
 
-b. het aantal deelnemers aan de opleiding, bedoeld in [artikel 7.2.2, eerste lid onderdeel b, van de WEB](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met de factor 0,4 wordt vermenigvuldigd.     
-2.  Bij de toepassing van het eerste lid worden de deeltijddeelnemers, bedoeld in [artikel 2.1.2 van het Uitvoeringsbesluit WEB](../../../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), in de beroepsopleidende leerweg buiten beschouwing gelaten.   
+b. het aantal deelnemers aan de opleiding, bedoeld in artikel 7.2.2, eerste lid onderdeel b, van de WEB, met de factor 0,4 wordt vermenigvuldigd.     
+2.  Bij de toepassing van het eerste lid worden de deeltijddeelnemers, bedoeld in artikel 2.1.2 van het Uitvoeringsbesluit WEB, in de beroepsopleidende leerweg buiten beschouwing gelaten.   
 3.   vervallen.    
 4.  De aanvullende vergoeding voor de kenniscentra wordt berekend naar rato van de omvang van de vergoeding voor exploitatiekosten die het kenniscentrum ontvangt voor dat kalenderjaar.   
 5.  De aanvullende vergoeding voor Colo bedraagt € 75.000.   
@@ -139,9 +139,9 @@ Instellingen en kenniscentra leggen jaarlijks in ieder geval via het jaarverslag
 2.  Middelen die zijn verstrekt aan instellingen en kenniscentra, die op 1 januari 2014 niet zijn besteed worden teruggevorderd.   
 3.  De aanvullende vergoeding die is verstrekt aan instellingen en kenniscentra, wordt verantwoord in de jaarrekening die betrekking heeft op het jaar of de jaarrekeningen die betrekking hebben op de jaren waarin de aanvullende vergoeding wordt ontvangen of besteed.   
 4.  De verklaring van de accountant bij de jaarrekening, bedoeld in het derde lid, omvat tevens een oordeel over de rechtmatige besteding van de aanvullende vergoeding.   
-5.  Colo dient binnen zes maanden na afloop van het boekjaar een verzoek tot subsidievaststelling in bij de minister. Het verzoek omvat een financieel verslag en een activiteitenverslag als bedoeld in [artikel 4:75 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+5.  Colo dient binnen zes maanden na afloop van het boekjaar een verzoek tot subsidievaststelling in bij de minister. Het verzoek omvat een financieel verslag en een activiteitenverslag als bedoeld in artikel 4:75 van de Algemene wet bestuursrecht.   
 6.  In het financieel verslag en in het activiteitenverslag toont Colo aan dat de aanvullende vergoeding op doelmatige en rechtmatige wijze is besteed.   
-7.  Het procesmanagement dient binnen zes maanden na afloop van het boekjaar een verzoek tot subsidievaststelling in bij de minister. Het verzoek omvat een financieel verslag en een activiteitenverslag als bedoeld in [artikel 4:75 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+7.  Het procesmanagement dient binnen zes maanden na afloop van het boekjaar een verzoek tot subsidievaststelling in bij de minister. Het verzoek omvat een financieel verslag en een activiteitenverslag als bedoeld in artikel 4:75 van de Algemene wet bestuursrecht.   
 8.  In het financieel verslag en in het activiteitenverslag toont het procesmanagement aan dat de aanvullende vergoeding op doelmatige en rechtmatige wijze is besteed.   
 
 ### Artikel  13  
