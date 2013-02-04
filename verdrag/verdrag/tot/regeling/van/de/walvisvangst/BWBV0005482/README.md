@@ -36,7 +36,7 @@ As used in this Convention—
 
 ### Article  IV  
 
-1.  The Commission may either in collaboration with or through independent agencies of the Contracting Governments or other public or private agencies, establishments, or organizations or independently 
+1.  The Commission may either in collaboration with or through independent agencies of the Contracting Governments or other public or private agencies, establishments, or organizations, or independently 
 
 (a) encourage, recommend, or if necessary, organize studies and investigations relating to whales and whaling;  
 
@@ -88,62 +88,62 @@ Any Contracting Government may withdraw from this Convention on 30th June, of an
 
 In witness whereof the undersigned, being duly authorized, have signed this Convention. Done in Washington this second day of December, 1946, in the English language, the original of which shall be deposited in the archives of the Government of the United States of America. The Government of the United States of America shall transmit certified copies thereof to all the other signatory and adhering Governments.  
 
-####SCHEDULE
+####Schedule
 
-As amended by the Commission at the 59th Annual Meeting, Anchorage, Alaska, 28-31 May 2007  
+As amended by the Commission at the 64 <sup>th</sup> Annual Meeting Panama City, Panama, July 2012  
 
-###I. INTERPRETATION
+###I. Interpretation
 
 1. The following expressions have the meanings respectively assigned to them, that is to say: 
 
-A. Baleen whales “baleen whale” means any whale which has baleen or whale bone in the mouth, i.e. any whale other than a toothed whale. “blue whale” (*Balaenoptera musculus*) means any whale known as blue whale, Sibbald’s rorqual, or sulphur bottom, and including pygmy blue whale. “bowhead whale” (*Balaena mysticetus*) means any whale known as bowhead, Arctic right whale, great polar whale, Greenland right whale, Greenland whale. “Bryde’s whale” (*Balaenoptera edeni, B. brydei*) means any whale known as Bryde’s whale. “fin whale” (*Balaenoptera physalus*) means any whale known as common finback, common rorqual, fin whale, herring whale, or true fin whale. “gray whale” (*Eschrichtius robustus*) means any whale known as gray whale, California gray, devil fish, hard head, mussel digger, gray back, or rip sack. “humpback whale” (*Megaptera novaeangliae*) means any whale known as bunch, humpback, humpback whale, humpbacked whale, hump whale or hunchbacked whale. “minke whale” (*Balaenoptera acutorostrata, B. bonaerensis*) means any whale known as lesser rorqual, little piked whale, minke whale, pike-headed whale or sharp headed finner. “pygmy right whale” (*Caperea marginata*) means any whale known as southern pygmy right whale or pygmy right whale. “right whale” (*Eubalaena glacialis, E. australis*) means any whale known as Atlantic right whale, Arctic right whale, Biscayan right whale, Nordkaper, North Atlantic right whale, North Cape whale, Pacific right whale, or southern right whale. “sei whale” (*Balaenoptera borealis*) means any whale known as sei whale, Rudolphi’s rorqual, pollack whale, or coalfish whale.  
+A. Baleen whales “baleen whale” means any whale which has baleen or whale bone in the mouth, i.e. any whale other than a toothed whale. “blue whale” (*Balaenoptera musculus*) means any whale known as blue whale, Sibbald’s rorqual, or sulphur bottom, and including pygmy blue whale. “bowhead whale” (*Balaena mysticetus*) means any whale known as bowhead, Arctic right whale, great polar whale, Greenland right whale, Greenland whale. “Bryde’s whale” (*Balaenoptera edeni*, *B. brydei*) means any whale known as Bryde’s whale. “fin whale” (*Balaenoptera physalus*) means any whale known as common finback, common rorqual, fin whale, herring whale, or true fin whale. “gray whale” (*Eschrichtius robustus*) means any whale known as gray whale, California gray, devil fish, hard head, mussel digger, gray back, or rip sack. “humpback whale” (*Megaptera novaeangliae*) means any whale known as bunch, humpback, humpback whale, humpbacked whale, hump whale or hunchbacked whale. “minke whale” (*Balaenoptera acutorostrata*, *B. bonaerensis*) means any whale known as lesser rorqual, little piked whale, minke whale, pike-headed whale or sharp headed finner. “pygmy right whale” (*Caperea marginata*) means any whale known as southern pygmy right whale or pygmy right whale. “right whale” (*Eubalaena glacialis*, *E. australis*) means any whale known as Atlantic right whale, Arctic right whale, Biscayan right whale, Nordkaper, North Atlantic right whale, North Cape whale, Pacific right whale, or southern right whale. “sei whale” (*Balaenoptera borealis*) means any whale known as sei whale, Rudolphi’s rorqual, pollack whale, or coalfish whale.  
 
-B. Toothed whales “toothed whale” means any whale which has teeth in the jaws. “beaked whale” means any whale belonging to the genus *Mesoplodon*, or any whale known as Cuvier’s beaked whale (*Ziphius cavirostris*), or Shepherd’s beaked whale (*Tasmacetus shepherdi*). “bottlenose whale” means any whale known as Baird’s beaked whale (*Berardius bairdii*), Arnoux’s whale (*Berardius arnuxii*), southern bottlenose whale (*Hyperoodon planifrons*), or northern bottlenose whale (*Hyperoodon ampullatus*). “killer whale” (*Orcinus orca*) means any whale known as killer whale or orca. “pilot whale” means any whale known as long-finned pilot whale (*Globicephala melaena*) or short-finned pilot whale (*G. macrorhynchus*). “sperm whale” (*Physeter macrocephalus*) means any whale known as sperm whale, spermacet whale, cachalot or pot whale.  
+B. Toothed whales “toothed whale” means any whale which has teeth in the jaws. “beaked whale” means any whale belonging to the genus Mesoplodon, or any whale known as Cuvier’s beaked whale (*Ziphius cavirostris*), or Shepherd’s beaked whale (*Tasmacetus shepherdi*). “bottlenose whale” means any whale known as Baird’s beaked whale (*Berardius bairdii*), Arnoux’s whale (*Berardius arnuxii*), southern bottlenose whale (*Hyperoodon planifrons*), or northern bottlenose whale (*Hyperoodon ampullatus*). “killer whale” (*Orcinus orca*) means any whale known as killer whale or orca. “pilot whale” means any whale known as long-finned pilot whale (*Globicephala melaena*) or short-finned pilot whale (*G. macrorhynchus*). “sperm whale” (*Physeter macrocephalus*) means any whale known as sperm whale, spermacet whale, cachalot or pot whale.  
 
-C. General “strike” means to penetrate with a weapon used for whaling. “land” means to retrieve to a factory ship, land station, or other place where a whale can be treated. “take” means to flag, buoy or make fast to a whale catcher. “lose” means to either strike or take but not to land. “dauhval” means any unclaimed dead whale found floating. “lactating whale” means a) with respect to baleen whales – a female which has any milk present in a mammary gland, b) with respect to sperm whales – a female which has milk present in a mammary gland the maximum thickness (depth) of which is 10cm or more. This measurement shall be at the mid ventral point of the mammary gland perpendicular to the body axis, and shall be logged to the nearest centimetre; that is to say, any gland between 9.5cm and 10.5cm shall be logged as 10cm. The measurement of any gland which falls on an exact 0.5 centimetre shall be logged at the next 0.5 centimetre, e.g. 10.5cm shall be logged as 11.0cm. However, notwithstanding these criteria, a whale shall not be considered a lactating whale if scientific (histological or other biological) evidence is presented to the appropriate national authority establishing that the whale could not at that point in its physical cycle have had a calf dependent on it for milk. “small-type whaling” means catching operations using powered vessels with mounted harpoon guns hunting exclusively for minke, bottlenose, beaked, pilot or killer whales.     
+C. General “strike” means to penetrate with a weapon used for whaling. “land” means to retrieve to a factory ship, land station, or other place where a whale can be treated. “take” means to flag, buoy or make fast to a whale catcher. “lose” means to either strike or take but not to land. “dauhval” means any unclaimed dead whale found floating. “lactating whale” means (a) with respect to baleen whales – a female which has any milk present in a mammary gland, (b) with respect to sperm whales – a female which has milk present in a mammary gland the maximum thickness (depth) of which is 10cm or more. This measurement shall be at the mid ventral point of the mammary gland perpendicular to the body axis, and shall be logged to the nearest centimetre; that is to say, any gland between 9.5cm and 10.5cm shall be logged as 10cm. The measurement of any gland which falls on an exact 0.5 centimetre shall be logged at the next 0.5 centimetre, e.g. 10.5cm shall be logged as 11.0cm. However, notwithstanding these criteria, a whale shall not be considered a lactating whale if scientific (histological or other biological) evidence is presented to the appropriate national authority establishing that the whale could not at that point in its physical cycle have had a calf dependent on it for milk. “small-type whaling” means catching operations using powered vessels with mounted harpoon guns hunting exclusively for minke, bottlenose, beaked, pilot or killer whales.     
 ###II. SEASONS
 
 ###Factory Ship Operations
 
 2. 
-a) It is forbidden to use a factory ship or whale catcher attached thereto for the purpose of taking or treating baleen whales except minke whales, in any waters south of 40° South Latitude except during the period from 12th December to 7th April following, both days inclusive.  
+a) It is forbidden to use a factory ship or whale catcher attached thereto for the purpose of taking or treating baleen whales except minke whales, in any waters south of 40° South Latitude except during the period from 12 <sup>th</sup> December to 7 <sup>th</sup> April following, both days inclusive.  
 
-b) It is forbidden to use a factory ship or whale catcher attached thereto for the purpose of taking or treating sperm or minke whales, except as permitted by the Contracting Governments in accordance with sub-paragraphs c and d of this paragraph, and paragraph 5.  
+b) It is forbidden to use a factory ship or whale catcher attached thereto for the purpose of taking or treating sperm or minke whales, except as permitted by the Contracting Governments in accordance with sub-paragraphs (*c*) and (*d*) of this paragraph, and paragraph 5.  
 
 c) Each Contracting Government shall declare for all factory ships and whale catchers attached thereto under its jurisdiction, an open season or seasons not to exceed eight months out of any period of twelve months during which the taking or killing of sperm whales by whale catchers may be permitted; provided that a separate open season may be declared for each factory ship and the whale catchers attached thereto.  
 
 d) Each Contracting Government shall declare for all factory ships and whale catchers attached thereto under its jurisdiction one continuous open season not to exceed six months out of any period of twelve months during which the taking or killing of minke whales by the whale catchers may be permitted provided that: 
 
-1) a separate open season may be declared for each factory ship and the whale catchers attached thereto;  
+1. a separate open season may be declared for each factory ship and the whale catchers attached thereto;  
 
-2) the open season need not necessarily include the whole or any part of the period declared for other baleen whales pursuant to sub-paragraph a) of this paragraph.      
+2. the open season need not necessarily include the whole or any part of the period declared for other baleen whales pursuant to subparagraph (*a*) of this paragraph.      
 
-3. It is forbidden to use a factory ship which has been used during a season in any waters south of 40° South Latitude for the purpose of treating baleen whales, except minke whales, in any other area except the North Pacific Ocean and its dependent waters north of the Equator for the same purpose within a period of one year from the termination of that season; provided that catch limits in the North Pacific Ocean and dependent waters are established as provided in paragraphs 12 and 16 of this Schedule and provided that this paragraph shall not apply to a ship which has been used during the season solely for freezing or salting the meat and entrails of whales intended for human food or feeding animals.   
+3. It is forbidden to use a factory ship which has been used during a season in any waters south of 40° South Latitude for the purpose of treating baleen whales, except minke whales, in any other area except the North Pacific Ocean and its dependent waters north of the Equator for the same purpose within a period of one year from the termination of that season; provided that catch limits in the North Pacific Ocean and dependent waters are established as provided in paragraphs 12 and 16 of this Schedule and provided that this paragraph shall not apply to a ship which has been used during the season solely for freezing or salting the meat and entrails of whales intended for human food or feeding animals.    
 ###Land Station Operations
 
 4. 
 
-a) It is forbidden to use a whale catcher attached to a land station for the purpose of killing or attempting to kill baleen and sperm whales except as permitted by the Contracting Government in accordance with sub-paragraphs b), c) and d) of this paragraph.  
+a) It is forbidden to use a whale catcher attached to a land station for the purpose of killing or attempting to kill baleen and sperm whales except as permitted by the Contracting Government in accordance with sub-paragraphs (*b*), (*c*) and (*d*) of this paragraph.  
 
-b) Each Contracting Government shall declare for all land stations under its jurisdiction, and whale catchers attached to such land stations, one open season during which the taking or killing of baleen whales, except minke whales, by the whale catchers shall be permitted. Such open season shall be for a period of not more than six consecutive months in any period of twelve months and shall apply to all land stations under the jurisdiction of the Contracting Government: provided that a separate open season may be declared for any land station used for the taking or treating of baleen whales, except minke whales, which is more than 1,000 miles from the nearest land station used for the taking or treating of baleen whales, except minke whales, under the jurisdiction of the same Contracting Government.  
+b) Each Contracting Government shall declare for all land stations under its jurisdiction, and whale catchers attached to such land stations, one open season during which the taking or killing of baleen whales, except minke whales, by the whale catchers shall be permitted. Such open season shall be for a period of not more than six consecutive months in any period of twelve months and shall apply to all land stations under the jurisdiction of the Contracting Government; provided that a separate open season may be declared for any land station used for the taking or treating of baleen whales, except minke whales, which is more than 1,000 miles from the nearest land station used for the taking or treating of baleen whales, except minke whales, under the jurisdiction of the same Contracting Government.  
 
-c) Each Contracting Government shall declare for all land stations under its jurisdiction and for whale catchers attached to such land stations, one open season not to exceed eight continuous months in any one period of twelve months, during which the taking or killing of sperm whales by the whale catchers shall be permitted, provided that a separate open season may be declared for any land station used for the taking or treating of sperm whales which is more than 1,000 miles from the nearest land station used for the taking or treating of sperm whales under the jurisdiction of the same Contracting Government.  
+c) Each Contracting Government shall declare for all land stations under its jurisdiction and for whale catchers attached to such land stations, one open season not to exceed eight continuous months in any one period of twelve months, during which the taking or killing of sperm whales by the whale catchers shall be permitted; provided that a separate open season may be declared for any land station used for the taking or treating of sperm whales which is more than 1,000 miles from the nearest land station used for the taking or treating of sperm whales under the jurisdiction of the same Contracting Government.  
 
-d) Each Contracting Government shall declare for all land stations under its jurisdiction and for whale catchers attached to such land stations one open season not to exceed six continuous months in any period of twelve months during which the taking or killing of minke whales by the whale catchers shall be permitted (such period not being necessarily concurrent with the period declared for other baleen whales, as provided for in sub-paragraph b) of this paragraph); provided that a separate open season may be declared for any land station used for the taking or treating of minke whales which is more than 1,000 miles from the nearest land station used for the taking or treating of minke whales under the jurisdiction of the same Contracting Government. Except that a separate open season may be declared for any land station used for the taking or treating of minke whales which is located in an area having oceanographic conditions clearly distinguishable from those of the area in which are located the other land stations used for the taking or treating of minke whales under the jurisdiction of the same Contracting Government; but the declaration of a separate open season by virtue of the provisions of this sub-paragraph shall not cause thereby the period of time covering the open seasons declared by the same Contracting Government to exceed nine continuous months of any twelve months.  
+d) Each Contracting Government shall declare for all land stations under its jurisdiction and for whale catchers attached to such land stations one open season not to exceed six continuous months in any period of twelve months during which the taking or killing of minke whales by the whale catchers shall be permitted (such period not being necessarily concurrent with the period declared for other baleen whales, as provided for in subparagraph (*b*) of this paragraph); provided that a separate open season may be declared for any land station used for the taking or treating of minke whales which is more than 1,000 miles from the nearest land station used for the taking or treating of minke whales under the jurisdiction of the same Contracting Government. Except that a separate open season may be declared for any land station used for the taking or treating of minke whales which is located in an area having oceanographic conditions clearly distinguishable from those of the area in which are located the other land stations used for the taking or treating of minke whales under the jurisdiction of the same Contracting Government; but the declaration of a separate open season by virtue of the provisions of this sub-paragraph shall not cause thereby the period of time covering the open seasons declared by the same Contracting Government to exceed nine continuous months of any twelve months.  
 
 e) The prohibitions contained in this paragraph shall apply to all land stations as defined in Article II of the Whaling Convention of 1946.     
 ###Other Operations
 
 5. Each Contracting Government shall declare for all whale catchers under its jurisdiction not operating in conjunction with a factory ship or land station one continuous open season not to exceed six months out of any period of twelve months during which the taking or killing of minke whales by such whale catchers may be permitted. Notwithstanding this paragraph one continuous open season not to exceed nine months may be implemented so far as Greenland is concerned.   
-###III. CAPTURE
+###III. Capture
 
-6. The killing for commercial purposes of whales, except minke whales using the cold grenade harpoon shall be forbidden from the beginning of the 1980/81 pelagic and 1981 coastal seasons. The killing for commercial purposes of minke whales using the cold grenade harpoon shall be forbidden from the beginning of the 1982/83 pelagic and the 1983 coastal seasons. <sup> 1)  The Governments of Brazil, Iceland, Japan, Norway and the Union of Soviet Socialist Republics lodged objections to the second sentence of paragraph 6 within the prescribed period. For all other Contracting Governments this sentence came into force on 8 March 1982. Norway withdrew its objection on 9 July 1985 and Brazil on 8 January 1992.Iceland withdrew from the Convention with effect from 30 June 1992. The objections of Japan and the Russian Federation not having been withdrawn, this sentence is not binding upon these governments.  </sup>  
+6. The killing for commercial purposes of whales, except minke whales using the cold grenade harpoon shall be forbidden from the beginning of the 1980/81 pelagic and 1981 coastal seasons. The killing for commercial purposes of minke whales using the cold grenade harpoon shall be forbidden from the beginning of the 1982/83 pelagic and the 1983 coastal seasons. <sup> 1)  The Governments of Brazil, Iceland, Japan, Norway and the Union of Soviet Socialist Republics lodged objections to the second sentence of paragraph 6 within the prescribed period. For all other Contracting Governments this sentence came into force on 8 March 1982. Norway withdrew its objection on 9 July 1985 and Brazil on 8 January 1992. Iceland withdrew from the Convention with effect from 30 June 1992. The objections of Japan and the Russian Federation not having been withdrawn, this sentence is not binding upon these governments.  </sup>  
 
 7. 
 
-a) In accordance with Article V(1)(c) of the Convention, commercial whaling, whether by pelagic operations or from land stations, is prohibited in a region designated as the Indian Ocean Sanctuary. This comprises the waters of the Northern Hemisphere from the coast of Africa to 100°E, including the Red and Arabian Seas and the Gulf of Oman; and the waters of the Southern Hemisphere in the sector from 20°E to 130°E, with the Southern boundary set at 55°S. This prohibition applies irrespective of such catch limits for baleen or toothed whales as may from time to time be determined by the Commission. This prohibition shall be reviewed by the Commission at its Annual Meeting in 2002.  
+a) In accordance with Article V(1)(*c*) of the Convention, commercial whaling, whether by pelagic operations or from land stations, is prohibited in a region designated as the Indian Ocean Sanctuary. This comprises the waters of the Northern Hemisphere from the coast of Africa to 100°E, including the Red and Arabian Seas and the Gulf of Oman; and the waters of the Southern Hemisphere in the sector from 20°E to 130°E, with the Southern boundary set at 55°S. This prohibition applies irrespective of such catch limits for baleen or toothed whales as may from time to time be determined by the Commission. This prohibition shall be reviewed by the Commission at its Annual Meeting in 2002. <sup> 2)  At its 54 <sup>th</sup> Annual Meeting in 2002, the Commission agreed to continue this prohibition but did not discuss whether or not it should set a time when it should be reviewed again.  </sup>  
 
-b) In accordance with Article V(1)(c) of the Convention, commercial whaling, whether by pelagic operations or from land stations, is prohibited in a region designated as the Southern Ocean Sanctuary. This Sanctuary comprises the waters of the Southern Hemisphere southwards of the following line: starting from 40 degrees S, 50 degrees W; thence due east to 20 degrees E; thence due south to 55 degrees S; thence due east to 130 degrees E; thence due north to 40 degrees S; thence due east to 130 degrees W; thence due south to 60 degrees S; thence due east to 50 degrees W; thence due north to the point of beginning. This prohibition applies irrespective of the conservation status of baleen and toothed whale stocks in this Sanctuary, as may from time to time be determined by the Commission. However, this prohibition shall be reviewed ten years after its initial adoption and at succeeding ten year intervals, and could be revised at such times by the Commission. Nothing in this sub-paragraph is intended to prejudice the special legal and political status of Antarctica. <sup> 2)  The Government of Japan lodged an objection within the prescribed period to paragraph 7(b) to the extent that it applies to the Antarctic minke whale stocks. The Government of the Russian Federation also lodged an objection to paragraph 7b) within the prescribed period but withdrew it on 26 October 1994.   For all Contracting Governments except Japan paragraph 7b) came into force on 6 December 1994.  </sup>     
+b) In accordance with Article V(1)(*c*) of the Convention, commercial whaling, whether by pelagic operations or from land stations, is prohibited in a region designated as the Southern Ocean Sanctuary. This Sanctuary comprises the waters of the Southern Hemisphere southwards of the following line: starting from 40 degrees S, 50 degrees W; thence due east to 20 degrees E; thence due south to 55 degrees S; thence due east to 130 degrees E; thence due north to 40 degrees S; thence due east to 130 degrees W; thence due south to 60 degrees S; thence due east to 50 degrees W; thence due north to the point of beginning. This prohibition applies irrespective of the conservation status of baleen and toothed whale stocks in this Sanctuary, as may from time to time be determined by the Commission. However, this prohibition shall be reviewed ten years after its initial adoption and at succeeding ten year intervals, and could be revised at such times by the Commission. Nothing in this sub-paragraph is intended to prejudice the special legal and political status of Antarctica. <sup> 3)  The Government of Japan lodged an objection within the prescribed period to paragraph 7(*b*) to the extent that it applies to the Antarctic minke whale stocks.   The Government of the Russian Federation also lodged an objection to paragraph 7(*b*) within the prescribed period but withdrew it on 26 October 1994. For all Contracting Governments except Japan paragraph 7(*b*) came into force on 6 December 1994.  </sup> <sup> 4)  Paragraph 7(*b*) contains a provision for review of the Southern Ocean Sanctuary “ten years after its initial adoption”. Paragraph 7(*b*) was adopted at the 46 <sup>th</sup> (1994) Annual Meeting. Therefore, the first review is due in 2004.  </sup>     
 ###Area Limits for Factory Ships
 
 8. It is forbidden to use a factory ship or whale catcher attached thereto, for the purpose of taking or treating baleen whales, except minke whales, in any of the following areas: 
@@ -165,11 +165,11 @@ a)  *Classification of Areas*  Areas relating to Southern Hemisphere baleen whal
 
 b)  *Classification of Divisions*  Divisions relating to Southern Hemisphere sperm whales are those waters between the ice-edge and the Equator and between the meridians of longitude listed in Table 3.  
 
-c)  *Geographical boundaries in the North Atlantic*  The geographical boundaries for the fin, minke and sei whale stocks in the North Atlantic are:  *FIN WHALE STOCKS*  NOVA SCOTIA South and West of a line through: 47°N 54°W, 46°N 54°30’W, 46°N 42°W, 20°N 42°W. NEWFOUNDLAND-LABRADOR West of a line through: 75°N 73°30’W, 69°N 59°W, 61°N 59°W 52°20’N 42°W, 46°N 42°W and North of a line through: 46°N 42°W, 46°N 54°30’W, 47°N 54°W. WEST GREENLAND East of a line through: 75°N 73°30’W, 69°N 59°W, 61°N 59°W, 52°20’N 42°W, and West of a line through 52°20’N 42°W, 59°N 42°W, 59°N 44°W, Kap Farvel. EAST GREENLAND-ICELAND East of a line through: Kap Farvel (South Greenland), 59°N 44°W, 59°N 42°W, 20°N 42°W and West of a line through: 20°N 18°W, 60°N 18°W, 68°N 3°E, 74°N 3°E, and South of 74°N. NORTH NORWAY North and East of a line through: 74°N 22°W, 74°N 3°E, 68°N 3°E, 67°N 0°, 67°N 14°E. WEST NORWAY-FAROE ISLANDS South of a line through: 67°N 14°E, 67°N 0°, 60°N 18°W, and North of a line through: 61°N 16°W, 61°N 0°, Thyborøn (Western entrance to Limfjorden, Denmark). SPAIN-PORTUGAL-BRITISH ISLES South of a line through: Thyborøn (Denmark), 61°N 0°, 61°N 16°W, and East of a line through: 63°N 11°W, 60°N 18°W, 22°N 18°W.  *MINKE WHALE STOCKS*  CANADIAN EAST COAST West of a line through: 75°N 73°30’W, 69°N 59°W, 61°N 59°W, 52°20’N 42°W, 20°N 42°W. CENTRAL East of a line through: Kap Farvel (South Greenland), 59°N 44°W, 59°N 42°W, 20°N 42°W, and West of a line through: 20°N 18°W, 60°N 18°W, 68°N 3°E, 74°N 3°E, and South of 74°N. WEST GREENLAND East of a line through: 75°N 73°30’W, 69°N 59°W, 61°N 59°W 52°20’N 42°W, and West of a line through: 52°20’N 42°W, 59°N 42°W, 59°N 44°W, Kap Farvel. NORTHEASTERN East of a line through: 20°N 18°W, 60°N 18°W, 68°N 3°E, 74°N 3°E, and North of a line through: 74°N 3°E, 74°N 22°W.  *SEI WHALE STOCKS*  NOVA SCOTIA South and West of a line through: 47°N 54°W, 46°N 54°30’W, 46°N 42°W, 20°N 42°W. ICELAND-DENMARK STRAIT East of a line through: Kap Farvel (South Greenland), 59°N 44°W, 59°N 42°W, 20°N 42°W, and West of a line through: 20°N 18°W, 60°N 18°W, 68°N 3°E, 74°N 3°E, and South of 74°N. EASTERN East of a line through: 20°N 18°W, 60°N 18°W, 68°N 3°E, 74°N 3°E, and North of a line through: 74°N 3°E, 74°N 22°W.  
+c)  *Geographical boundaries in the North Atlantic*  The geographical boundaries for the fin, minke and sei whale stocks in the North Atlantic are:  *FIN WHALE STOCKS*  NOVA SCOTIA South and West of a line through: 47°N 54°W, 46°N 54°30’W, 46°N 42°W, 20°N 42°W. NEWFOUNDLAND-LABRADOR West of a line through: 75°N 73°30’W, 69°N 59°W, 61°N 59°W, 52°20’N 42°W, 46°N 42°W and North of a line through: 46°N 42°W, 46°N 54°30’W, 47°N 54°W. WEST GREENLAND East of a line through: 75°N 73°30’W, 69°N 59°W, 61°N 59°W, 52°20’N 42°W, and West of a line through 52°20’N 42°W, 59°N 42°W, 59°N 44°W, Kap Farvel. EAST GREENLAND-ICELAND East of a line through: Kap Farvel (South Greenland), 59°N 44°W, 59°N 42°W, 20°N 42°W, and West of a line through: 20°N 18°W, 60°N 18°W, 68°N 3°E, 74°N 3°E, and South of 74°N. NORTH NORWAY North and East of a line through: 74°N 22°W, 74°N 3°E, 68°N 3°E, 67°N 0°, 67°N 14°E. WEST NORWAY-FAROE ISLANDS South of a line through: 67°N 14°E, 67°N 0°, 60°N 18°W, and North of a line through: 61°N 16°W, 61°N 0°, Thyborøn (Western entrance to Limfjorden, Denmark). SPAIN-PORTUGAL-BRITISH ISLES South of a line through: Thyborøn (Denmark), 61°N 0°, 61°N 16°W, and East of a line through: 63°N 11°W, 60°N 18°W, 22°N 18°W.  *MINKE WHALE STOCKS*  CANADIAN EAST COAST West of a line through: 75°N 73°30’W, 69°N 59°W, 61°N 59°W, 52°20’N 42°W, 20°N 42°W. CENTRAL East of a line through: Kap Farvel (South Greenland), 59°N 44°W, 59°N 42°W, 20°N 42°W, and West of a line through: 20°N 18°W, 60°N 18°W, 68°N 3°E, 74°N 3°E, and South of 74°N. WEST GREENLAND East of a line through: 75°N 73°30’W, 69°N 59°W, 61°N 59°W, 52°20’N 42°W, and West of a line through: 52°20’N 42°W, 59°N 42°W, 59°N 44°W, Kap Farvel. NORTHEASTERN East of a line through: 20°N 18°W, 60°N 18°W, 68°N 3°E, 74°N 3°E, and North of a line through: 74°N 3°E, 74°N 22°W.  *SEI WHALE STOCKS*  NOVA SCOTIA South and West of a line through: 47°N 54°W, 46°N 54°30’W, 46°N 42°W, 20°N 42°W. ICELAND-DENMARK STRAIT East of a line through: Kap Farvel (South Greenland), 59°N 44°W, 59°N 42°W, 20°N 42°W, and West of a line through: 20°N 18°W, 60°N 18°W, 68°N 3°E, 74°N 3°E, and South of 74°N. EASTERN East of a line through: 20°N 18°W, 60°N 18°W, 68°N 3°E, 74°N 3°E, and North of a line through: 74°N 3°E, 74°N 22°W.  
 
-d)  *Geographical boundaries in the North Pacific*  The geographical boundaries for the sperm, Bryde’s and minke whale stocks in the North Pacific are:  *SPERM WHALE STOCKS*  WESTERN DIVISION West of a line from the ice-edge south along the 180° meridian of longitude to 180°, 50°N, then east along the 50°N parallel of latitude to 160°W, 50°N, then south along the 160°W meridian of longitude to 160°W, 40°N, then east along the 40°N parallel of latitude to 150°W, 40°N, then south along the 150°W meridian of longitude to the Equator. EASTERN DIVISION East of the line described above.  *BRYDE’S WHALE STOCKS*  EAST CHINA SEA West of the Ryukyu Island chain. EASTERN East of 160°W (excluding the Peruvian stock area). WESTERN West of 160°W (excluding the East China Sea stock area).  *MINKE WHALE STOCKS*  SEA OF JAPAN-YELLOW SEA- EAST CHINA SEA West of a line through the Philippine Islands, Taiwan, Ryukyu Islands, Kyushu, Honshu, Hokkaido and Sakhalin Island, north of the Equator. OKHOTSK SEA-WEST PACIFIC East of the Sea of Japan-Yellow Sea- East China Sea stock and west of 180°, north of the Equator. REMAINDER East of the Okhotsk Sea-West Pacific stock, north of the Equator.  
+d)  *Geographical boundaries in the North Pacific*  The geographical boundaries for the sperm, Bryde’s and minke whale stocks in the North Pacific are:  *SPERM WHALE STOCKS*  WESTERN DIVISION West of a line from the ice-edge south along the 180° meridian of longitude to 180°, 50°N, then east along the 50°N parallel of latitude to 160°W, 50°N, then south along the 160°W meridian of longitude to 160°W, 40°N, then east along the 40°N parallel of latitude to 150°W, 40°N, then south along the 150°W meridian of longitude to the Equator. EASTERN DIVISION East of the line described above.  *BRYDE’S WHALE STOCKS*  EAST CHINA SEA West of the Ryukyu Island chain. EASTERN East of 160°W (excluding the Peruvian stock area). WESTERN West of 160°W (excluding the East China Sea stock area).  *MINKE WHALE STOCKS*  SEA OF JAPAN-YELLOW SEA-EAST CHINA SEA West of a line through the Philippine Islands, Taiwan, Ryukyu Islands, Kyushu, Honshu, Hokkaido and Sakhalin Island, north of the Equator. OKHOTSK SEA-WEST PACIFIC East of the Sea of Japan-Yellow Sea- East China Sea stock and west of 180°, north of the Equator. REMAINDER East of the Okhotsk Sea-West Pacific stock, north of the Equator.  
 
-e)  *Geographical boundaries for Bryde’s whale stocks in the Southern Hemisphere*  SOUTHERN INDIAN OCEAN 20°E to 130°E, South of the Equator. SOLOMON ISLANDS 150°E to 170°E, 20°S to the Equator. PERUVIAN 110°W to the South American coast, 10°S to 10°N. EASTERN SOUTH PACIFIC 150°W to 70°W, South of the Equator (excluding the Peruvian stock area), WESTERN SOUTH PACIFIC 130°E to 150°W, South of the Equator (excluding the Solomon Islands stock area). SOUTH ATLANTIC 70°W to 20°E, South of the Equator (excluding the South African inshore stock area). SOUTH AFRICAN INSHORE South African coast west of 27°E and out to the 200 metre isobath.     
+e)  *Geographical boundaries for Bryde’s whale stocks in the Southern Hemisphere*  SOUTHERN INDIAN OCEAN 20°E to 130°E, South of the Equator. SOLOMON ISLANDS 150°E to 170°E, 20°S to the Equator. PERUVIAN 110°W to the South American coast, 10°S to 10°N. EASTERN SOUTH PACIFIC 150°W to 70°W, South of the Equator (excluding the Peruvian stock area). WESTERN SOUTH PACIFIC 130°E to 150°W, South of the Equator (excluding the Solomon Islands stock area). SOUTH ATLANTIC 70°W to 20°E, South of the Equator (excluding the South African inshore stock area). SOUTH AFRICAN INSHORE South African coast west of 27°E and out to the 200 metre isobath.     
 ###Classification of Stocks
 
 10. All stocks of whales shall be classified in one of three categories according to the advice of the Scientific Committee as follows: 
@@ -182,52 +182,150 @@ c) A Protection Stock (PS) is a stock which is below 10 per cent of MSY stock le
 
 d) Notwithstanding the other provisions of paragraph 10 there shall be a moratorium on the taking, killing or treating of whales, except minke whales, by factory ships or whale catchers attached to factory ships. This moratorium applies to sperm whales, killer whales and baleen whales, except minke whales.  
 
-e) Notwithstanding the other provisions of paragraph 10, catch limits for the killing for commercial purposes of whales from all stocks for the 1986 coastal and the 1985/86 pelagic seasons and thereafter shall be zero. This provision will be kept under review, based upon the best scientific advice, and by 1990 at the latest the Commission will undertake a comprehensive assessment of the effects of this decision on whale stocks and consider modification of this provision and the establishment of other catch limits. <sup> 3)  The Governments of Japan, Norway, Peru and the Union of Soviet Socialist Republics lodged objection to paragraph 10(e) within the prescribed period. For all other Contracting Governments this paragraph came into force on 3 February 1983. Peru withdrew its objection on 22 July 1983.   The Government of Japan withdrew its objections with effect from 1 May 1987 with respect to commercial pelagic whaling; from 1 October 1987 with respect to commercial coastal whaling for minke and Bryde’s whales; and from 1 April 1988 with respect to commercial coastal sperm whaling. The objections of Norway and the Russian Federation not having been withdrawn, the paragraph is not binding upon these Governments.  </sup>     
+e) Notwithstanding the other provisions of paragraph 10, catch limits for the killing for commercial purposes of whales from all stocks for the 1986 coastal and the 1985/86 pelagic seasons and thereafter shall be zero. This provision will be kept under review, based upon the best scientific advice, and by 1990 at the latest the Commission will undertake a comprehensive assessment of the effects of this decision on whale stocks and consider modification of this provision and the establishment of other catch limits. <sup> 5)  The Governments of Japan, Norway, Peru and the Union of Soviet Socialist Republics lodged objection to paragraph 10(*e*) within the prescribed period. For all other Contracting Governments this paragraph came into force on 3 February 1983. Peru withdrew its objection on 22 July 1983. The Government of Japan withdrew its objections with effect from 1 May 1987 with respect to commercial pelagic whaling; from 1 October 1987 with respect to commercial coastal whaling for minke and Bryde’s whales; and from 1 April 1988 with respect to commercial coastal sperm whaling. The objections of Norway and the Russian Federation not having been withdrawn, the paragraph is not binding upon these Governments.  </sup> <sup> 6)  Iceland’s instrument of adherence to the International Convention for the Regulation of Whaling and the Protocol to the Convention deposited on 10 October 2002 states that Iceland “adheres to the aforesaid Convention and Protocol with a reservation with respect to paragraph 10(*e*) of the Schedule attached to the Convention”. The instrument further states the following:   “Notwithstanding this, the Government of Iceland will not authorise whaling for commercial purposes by Icelandic vessels before 2006 and, thereafter, will not authorise such whaling while progress is being made in negotiations within the IWC on the RMS. This does not apply, however, in case of the so-called moratorium on whaling for commercial purposes, contained in paragraph 10(*e*) of the Schedule not being lifted within a reasonable time after the completion of the RMS. Under no circumstances will whaling for commercial purposes be authorised without a sound scientific basis and an effective management and enforcement scheme.”  </sup> <sup> 7)  The Governments of Argentina, Australia, Brazil, Chile, Finland, France, Germany, Italy, Mexico, Monaco, the Netherlands, New Zealand, Peru, San Marino, Spain, Sweden, UK and the USA have lodged objections to Iceland’s reservation to paragraph 10(*e*).  </sup>  Table 1 BALEEN WHALE STOCK CLASSIFICATIONS AND CATCH LIMITS <sup>1)</sup> (excluding Bryde’s whales) 
+
+|--- |--- | SEI  | MINKE  | FIN  | BLUE  | RIGHT, BOWHEAD, HUMPBACK  | PYGMY RIGHT  | GRAY  |
+|---|---|---|---|---|---|---|---|---|
+| --- | --- | Classification  | Catch limit  | Classification  | Catch limit  | Classification  | Catch limit  | Classification  | Catch limit  | Classification  | Catch limit  | Classification  | Catch limit  | Classification  | Catch limit  |
+| SOUTHERN HEMISPHERE- *2012/2013* pelagic season and *2013* coastal season <sup>2)</sup>  |
+| Area  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | .  |
+| I  | 120°W-60°W  | PS  | 0  | –  | 0  | PS  | 0  | PS  | 0  | PS  | 0  | PS  | 0  | .  | .  |
+| II  | 60°W-0°  | PS  | 0  | –  | 0  | PS  | 0  | PS  | 0  | PS  | 0  | PS  | 0  | .  | .  |
+| III  | 0°-70°E  | PS  | 0  | –  | 0  | PS  | 0  | PS  | 0  | PS  | 0  | PS  | 0  | .  | .  |
+| IV  | 70°E-130°E  | PS  | 0  | –  | 0  | PS  | 0  | PS  | 0  | PS  | 0  | PS  | 0  | .  | .  |
+| V  | 130°E-170°W  | PS  | 0  | –  | 0  | PS  | 0  | PS  | 0  | PS  | 0  | PS  | 0  | .  | .  |
+| VI  | 170°W-120°W  | PS  | 0  | –  | 0  | PS  | 0  | PS  | 0  | PS  | 0  | PS  | 0  | .  | .  |
+| Total catch not to exceed:  | --- | --- | --- | --- | 0  | --- | 0  | --- | 0  | --- | 0  | --- | --- |
+| NORTHERN HEMISPHERE-2013 season <sup>2)</sup>  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ARCTIC  | .  | .  | .  | .  | .  | .  | .  | .  | .  | .  | PS.  | 0  | .  | .  |
+| NORTH PACIFIC  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Whole region  | PS  | 0  | .  | .  | PS  | 0  | PS  | 0  | PS  | 0  | PS  | 0  | .  | .  |
+| Okhotsk Sea-West Pacific Stock  | .  | .  | –  | 0  | .  | .  | .  | .  | .  | .  | .  | .  | .  | .  |
+| Sea of Japan-Yellow Sea-East China Sea Stock  | .  | .  | PS  | 0  | .  | .  | .  | .  | .  | .  | .  | .  | .  | .  |
+| Remainder  | .  | .  | IMS  | 0  | .  | .  | .  | .  | .  | .  | .  | .  | .  | .  |
+| Eastern Stock  | .  | .  | .  | .  | .  | .  | .  | .  | .  | .  | .  | .  | SMS  |  *. <sup>3)</sup>*   |
+| Western Stock  | .  | .  | .  | .  | .  | .  | .  | .  | .  | .  | .  | .  | PS  | 0  |
+| NORTH ATLANTIC  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Whole region  | .  | .  | .  | .  | .  | .  | PS  | 0  | PS  | 0  | PS  | 0  | .  | .  |
+| West Greenland Stock  | .  | .  | PS  | 0  | –  | 16 <sup>4)</sup><sup>5)</sup>  | .  | .  | .  | .  | .  | --- | .  | .  |
+| Newfoundland-Labrador Stock  | .  | .  | .  | .  | –  | 0  | .  | .  | .  | .  | .  | .  | .  | .  |
+| Canadian East Coast Stock  | .  | .  | –  | 0  | .  | .  | .  | .  | .  | .  | .  | .  | .  | .  |
+| Nova Scotia Stock  | PS  | 0  | .  | .  | PS  | 0  | .  | .  | .  | .  | .  | .  | .  | .  |
+| Central Stock  | .  | .  | –  |  *.*   | .  | .  | .  | .  | .  | .  | .  | .  | .  | .  |
+| East Greenland-Iceland Stock  | .  | .  | .  | .  | SMS  | 0  | .  | .  | .  | .  | .  | .  | .  | .  |
+| Iceland-Denmark Strait Stock  | -  | 0  | .  | .  | .  | .  | .  | .  | .  | .  | .  | --- | .  | .  |
+| Spain-Portugal-British Isles Stock  | .  | .  | .  | .  | –  | 0  | .  | .  | .  | .  | .  | .  | .  | .  |
+| Northeastern Stock  | .  | .  | PS <sup>6)</sup>  | 0  | .  | .  | .  | .  | .  | .  | .  | .  | .  | .  |
+| West Norway-Faroe Islands Stock  | .  | .  | .  | .  | PS  | 0  | .  | .  | .  | .  | .  | .  | .  | .  |
+| North Norway Stock  | .  | .  | .  | .  | –  | 0  | .  | .  | .  | .  | .  | .  | .  | .  |
+| Eastern Stock  | –  | 0  | .  | .  | .  | .  | .  | .  | .  | .  | .  | .  | .  | .  |
+| NORTHERN INDIAN OCEAN  | .  | .  | IMS  | 0  | .  | .  | PS  | 0  | PS  | 0  | PS  | 0  | .  | .  |
+
+<sup>1)</sup> The catch limits of zero introduced into Table 1 as editorial amendments as a result of the coming into effect of paragraph 10 *(e)* are not binding upon the governments of the countries which lodged and have not withdrawn objections to the said paragraph.  
+
+<sup>2)</sup> The Government of the Czech Republic lodged an objection within the prescribed period to the amendments to the Schedule arising from the 64 <sup>th</sup> Annual Meeting of the Commission. These amendments related to the establishment of Aboriginal Subsistence Whaling catch numbers for the period 2013-2018 in paragraph 13(*b*) subparagraphs (1), (2) and (4) and amendments to the dates of the coastal whaling seasons given in paragraphs 11 and 12 and Tables 1, 2 and 3. For all other Contracting Governments, these provisions came into force on 4 February 2013. The Czech Republic lodged similar objections to the Schedule amendments arising from the 60 <sup>th</sup>, 61 <sup>st</sup>, 62 <sup>nd</sup> and 63 <sup>rd</sup> Annual Meetings of the Commission. These objections to the amendments of the 60 <sup>th</sup>, 61 <sup>st</sup> and 62 <sup>nd</sup> meetings were withdrawn by the Government of the Czech Republic on 8 June 2011.  
+
+<sup>3)</sup> Available to be taken by aborigines or a Contracting Government on behalf of aborigines pursuant to paragraph 13 *(b)* 2.  
+
+<sup>4)</sup> Available to be struck by aborigines pursuant to paragraph 13 *(b)* 3. Catch limit for each of the years 2010, 2011 and 2012.  
+
+<sup>5)</sup> In IWC/62 in Agadir, Morocco, June 2010, Denmark and Greenland agreed to voluntarily reduce further the catch limit for the West Greenland stock of fin whales from 16 to 10 for each of the years 2010, 2011 and 2012.  
+
+<sup>6)</sup> The Government of Norway presented objection to the classification of the Northeastern Atlantic stock of minke whales as a Protection Stock within the prescribed period. This classification came into force on 30 January 1986 but is not binding on the Government of Norway.    Table 2 Bryde’s whale stock classifications and catch limits. <sup>1)</sup> 
+
+|--- | Classification  | Catch limit  |
+|---|---|---|
+| SOUTHERN HEMISPHERE- *2012/2013* pelagic season and *2013* coastal season <sup>2)</sup>  | --- | --- |
+| South Atlantic Stock  | –  | 0  |
+| Southern Indian Ocean Stock  | IMS  | 0  |
+| South African Inshore Stock  | –  | 0  |
+| Solomon Islands Stock  | IMS  | 0  |
+| Western South Pacific Stock  | IMS  | 0  |
+| Eastern South Pacific Stock  | IMS  | 0  |
+| Peruvian Stock  | –  | 0  |
+| NORTH PACIFIC- *2013* season <sup>2)</sup>  | --- | --- |
+| Eastern Stock  | IMS  | 0  |
+| Western Stock  | IMS  | 0  |
+| East China Sea Stock  | PS  | 0  |
+| NORTH ATLANTIC- *2013* season <sup>2)</sup>  | IMS  | 0  |
+| NORTHERN INDIAN OCEAN- *2013* season <sup>2)</sup>  | –  | 0  |
+
+<sup>1)</sup> The catch limits of zero introduced in Table 2 as editorial amendments as a result of the coming into effect of paragraph 10 *(e)* are not binding upon the governments of the countries which lodged and have not withdrawn objections to the said paragraph.  
+
+<sup>2)</sup> See footnote to Table 1.    Table 3 Toothed whale stock classifications and catch limits. <sup>1)</sup> 
+
+| SOUTHERN HEMISPHERE- *2012/2013* pelagic season and *2013* coastal season <sup>2)</sup>  |--- |--- |--- | SPERM  |--- | Division  | Longitudes  | Classification  |--- | Catch limit  |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1  | 60°W-30°W  | –  | --- | 0  |
+| 2  | 30°W-20°E  | –  | --- | 0  |
+| 3  | 20°E-60°E  | –  | --- | 0  |
+| 4  | 60°E-90°E  | –  | --- | 0  |
+| 5  | 90°-130°E  | –  | --- | 0  |
+| 6  | 130°E-160°E  | –  | --- | 0  |
+| 7  | 160°E-170°W  | –  | --- | 0  |
+| 8  | 170°W-100°W  | –  | --- | 0  |
+| 9  | 100°W-60°W  | –  | --- | 0  |
+| NORTHERN HEMISPHERE- *2013* season <sup>2)</sup>  | --- | --- | --- |
+| NORTH PACIFIC  | --- | --- | --- |
+| Western Division  | PS  | --- | 0 <sup>3)</sup>  |
+| Eastern Division  | –  | --- | 0  |
+| NORTH ATLANTIC  | –  | --- | 0  |
+| NORTHERN INDIAN OCEAN  | –  | --- | 0  |
+| --- | --- | --- | BOTTLENOSE  | --- |
+| NORTH ATLANTIC  | PS  | --- | 0  |
+
+<sup>1)</sup> The catch limits of zero introduced in Table 3 as editorial amendments as a result of the coming into effect of paragraph 10 *(e)* are not binding upon the governments of the countries which lodged and have not withdrawn objections to the said paragraph.  
+
+<sup>2)</sup> See footnote to Table 1.  
+
+<sup>3)</sup> No whales may be taken from this stock until catch limits including any limitations on size and sex are established by the Commission.       
 ###Baleen Whale Catch Limits
 
-11. The number of baleen whales taken in the Southern Hemisphere in the 2007/2008 pelagic season and the 2008 coastal season shall not exceed the limits shown in Tables 1 and 2.  
+11. The number of baleen whales taken in the Southern Hemisphere in the *2012/2013* pelagic season and the *2013* coastal season shall not exceed the limits shown in Tables 1 and 2. <sup> 8)  See footnote to Table 1.  </sup>  
 
-12. The number of baleen whales taken in the North Pacific Ocean and dependent waters in 2008 and in the North Atlantic Ocean in 2008 shall not exceed the limits shown in Tables 1 and 2.  
+12. The number of baleen whales taken in the North Pacific Ocean and dependent waters in *2013* and in the North Atlantic Ocean in *2013* shall not exceed the limits shown in Tables 1 and 2. <sup> 9)  See footnote to Table 1.  </sup>  
 
 13. 
 
 a) Notwithstanding the provisions of paragraph 10, catch limits for aboriginal subsistence whaling to satisfy aboriginal subsistence need for the 1984 whaling season and each whaling season thereafter shall be established in accordance with the following principles: 
 
-1) For stocks at or above MSY level, aboriginal subsistence catches shall be permitted so long as total removals do not exceed 90 per cent of MSY.  
+1. For stocks at or above MSY level, aboriginal subsistence catches shall be permitted so long as total removals do not exceed 90 per cent of MSY.  
 
-2) For stocks below the MSY level but above a certain minimum level, aboriginal subsistence catches shall be permitted so long as they are set at levels which will allow whale stocks to move to the MSY level. <sup> 4)  The Commission, on advice of the Scientific Committee, shall establish as far as possible a) a minimum stock level for each stock below which whales shall not be taken, and b) a rate of increase towards the MSY level for each stock. The Scientific Committee shall advise on a minimum stock level and on a range of rates of increase towards the MSY level under different catch regimes.  </sup>  
+2. For stocks below the MSY level but above a certain minimum level, aboriginal subsistence catches shall be permitted so long as they are set at levels which will allow whale stocks to move to the MSY level. <sup> 10)  The Commission, on advice of the Scientific Committee, shall establish as far as possible (a) a minimum stock level for each stock below which whales shall not be taken, and (b) a rate of increase towards the MSY level for each stock. The Scientific Committee shall advise on a minimum stock level and on a range of rates of increase towards the MSY level under different catch regimes.  </sup>  
 
-3) The above provisions will be kept under review, based upon the best scientific advice, and by 1990 at the latest the Commission will undertake a comprehensive assessment of the effects of these provisions on whale stocks and consider modification.  
+3. The above provisions will be kept under review, based upon the best scientific advice, and by 1990 at the latest the Commission will undertake a comprehensive assessment of the effects of these provisions on whale stocks and consider modification.  
 
-4) For aboriginal whaling conducted under subparagraphs b)1), b)2), and b)3) of this paragraph, it is forbidden to strike, take or kill calves or any whale accompanied by a calf. For aboriginal whaling conducted under subparagraphs b)4) of this paragraph, it is forbidden to strike, take or kill suckling calves or female whales accompanied by calves.  
+4. For aboriginal whaling conducted under subparagraphs (*b*)(1), (*b*)(2), and (*b*)(3) of this paragraph, it is forbidden to strike, take or kill calves or any whale accompanied by a calf. For aboriginal whaling conducted under subparagraphs (*b*)(4) of this paragraph, it is forbidden to strike, take or kill suckling calves or female whales accompanied by calves.  
 
-5) All aboriginal whaling shall be conducted under national legislation that accords with this paragraph.    
+5. All aboriginal whaling shall be conducted under national legislation that accords with this paragraph.    
 
 b) Catch limits for aboriginal subsistence whaling are as follows: 
 
-1) The taking of bowhead whales from the Bering-Chukchi-Beaufort Seas stock by aborigines is permitted, but only when the meat and products of such whales are to be used exclusively for local consumption by the aborigines and further provided that: 
+1. The taking of bowhead whales from the Bering-Chukchi-Beaufort Seas stock by aborigines is permitted, but only when the meat and products of such whales are to be used exclusively for local consumption by the aborigines and further provided that: 
 
-(i) For the years 2008, 2009, 2010, 2011 and 2012, the number of bowhead whales landed shall not exceed 280. For each of these years the number of bowhead whales struck shall not exceed 67, except that any unused portion of a strike quota from any year (including 15 unused strikes from the 2003-2007 quota) shall be carried forward and added to the strike quotas of any subsequent years, provided that no more than 15 strikes shall be added to the strike quota for any one year.  
-
-(ii) This provision shall be reviewed annually by the Commission in light of the advice of the Scientific Committee.    
-
-2) The taking of gray whales from the Eastern stock in the North Pacific is permitted, but only by aborigines or a Contracting Government on behalf of aborigines, and then only when the meat and products of such whales are to be used exclusively for local consumption by the aborigines. 
-
-(i) For the years 2008, 2009, 2010, 2011 and 2012, the number of gray whales taken in accordance with this sub-paragraph shall not exceed 620, provided that the number of gray whales taken in any one of the years 2008, 2009, 2010, 2011 and 2012 shall not exceed 140.  
+(i) For the years *2013, 2014, 2015, 2016 2017* and *2018*, the number of bowhead whales landed shall not exceed *336*. For each of these years the number of bowhead whales struck shall not exceed 67, except that any unused portion of a strike quota from any year (including 15 unused strikes from the *2008-2012* quota) shall be carried forward and added to the strike quotas of any subsequent years, provided that no more than 15 strikes shall be added to the strike quota for any one year. <sup> 11)  See footnote to Table 1.  </sup>  
 
 (ii) This provision shall be reviewed annually by the Commission in light of the advice of the Scientific Committee.    
 
-3) The taking by aborigines of minke whales from the West Greenland and Central stocks and fin whales from the West Greenland stock and bowhead whales from the West Greenland feeding aggregation is permitted and then only when the meat and products are to be used exclusively for local consumption. 
+2. The taking of gray whales from the Eastern stock in the North Pacific is permitted, but only by aborigines or a Contracting Government on behalf of aborigines, and then only when the meat and products of such whales are to be used exclusively for local consumption by the aborigines. 
 
-(i) The number of fin whales struck from the West Greenland stock in accordance with this sub-paragraph shall not exceed 19 in each of the years 2008, 2009, 2010, 2011 and 2012.  
+(i) For the years *2013, 2014, 2015, 2016, 2017* and *2018*, the number of gray whales taken in accordance with this sub-paragraph shall not exceed *744*, provided that the number of gray whales taken in any one of the years *2013, 2014, 2015, 2016, 2017* and *2018* shall not exceed 140. <sup> 12)  See footnote to Table 1.  </sup>  
 
-(ii) The number of minke whales struck from the Central stock in accordance with this sub-paragraph shall not exceed 12 in each of the years 2008, 2009, 2010, 2011 and 2012, except that any unused portion of the quota for each year shall be carried forward from that year and added to the quota of any subsequent years, provided that no more than 3 shall be added to the quota for any one year.  
+(ii) This provision shall be reviewed annually by the Commission in light of the advice of the Scientific Committee.    
 
-(iii) The number of minke whales struck from the West Greenland stock shall not exceed 200 in each of the years 2008, 2009, 2010, 2011 and 2012, except that any unused portion of the quota for each year shall be carried forward from that year and added to the strike quota of any of the subsequent years, provided that no more than 15 strikes shall be added to the strike quota for any one year. This provision will be reviewed annually by the Commission, according to the findings and recommendations by the Scientific Committee, which shall be binding.  
+3. The taking by aborigines of minke whales from the West Greenland and Central stocks and fin whales from the West Greenland stock and bowhead whales from the West Greenland feeding aggregation and humpback whales from the West Greenland feeding aggregation is permitted and then only when the meat and products are to be used exclusively for local consumption. 
 
-(iv) The number of bowhead whales struck off West Greenland in accordance with this sub-paragraph shall not exceed 2 in each of the years 2008, 2009, 2010, 2011 and 2012, except that any unused portion of the quota for each year shall be carried forward from that year and added to the quota of any subsequent years, provided that no more than 2 shall be added to the quota for any one year. Furthermore, the quota for each year shall only become operative when the Commission has received advice from the Scientific Committee that the strikes are unlikely to endanger the stock.    
+(i) The number of fin whales struck from the West Greenland stock in accordance with this sub-paragraph shall not exceed 16 in each of the years 2010, 2011 and 2012. <sup> 13)  At IWC/62 in Agadir, Morocco, June 2010, Denmark and Greenland agreed to voluntarily reduce further the catch limit for the West Greenland stock of fin whales from 16 to 10 for each of the years 2010, 2011 and 2012.  </sup> <sup> 14)  At the Commission’s 64 <sup>th</sup> Annual Meeting held in 2012 a proposal by Denmark (document number IWC/64/12) regarding the Greenland Aboriginal Subsistence Whaling hunts for the period 2013 to 2018 failed to gain the necessary three-quarters majority support.  </sup>  
 
-4) For the seasons 2008-2012 the number of humpback whales to be taken by the Bequians of St. Vincent and The Grenadines shall not exceed 20. The meat and products of such whales are to be used exclusively for local consumption in St. Vincent and The Grenadines.      
+(ii) The number of minke whales struck from the Central stock in accordance with this sub-paragraph shall not exceed 12 in each of the years 2008, 2009, 2010, 2011 and 2012, except that any unused portion of the quota for each year shall be carried forward from that year and added to the quota of any subsequent years, provided that no more than 3 shall be added to the quota for any one year. <sup> 15)  At the Commission’s 64 <sup>th</sup> Annual Meeting held in 2012 a proposal by Denmark (document number IWC/64/12) regarding the Greenland Aboriginal Subsistence Whaling hunts for the period 2013 to 2018 failed to gain the necessary three-quarters majority support.  </sup>  
+
+(iii) The number of minke whales struck from the West Greenland stock shall not exceed 178 in each of the years 2010, 2011 and 2012, except that any unused portion of the quota for each year shall be carried forward from that year and added to the strike quota of any of the subsequent years, provided that no more than 15 strikes shall be added to the strike quota for any one year. This provision will be reviewed if new scientific data become available within the 5 year period and if necessary amended on basis of the advice of the Scientific Committee. <sup> 16)  At the Commission’s 64 <sup>th</sup> Annual Meeting held in 2012 a proposal by Denmark (document number IWC/64/12) regarding the Greenland Aboriginal Subsistence Whaling hunts for the period 2013 to 2018 failed to gain the necessary three-quarters majority support.  </sup>  
+
+(iv) The number of bowhead whales struck off West Greenland in accordance with this sub-paragraph shall not exceed 2 in each of the years 2008, 2009, 2010, 2011 and 2012, except that any unused portion of the quota for each year shall be carried forward from that year and added to the quota of any subsequent years, provided that no more than 2 shall be added to the quota for any one year. This provision will be reviewed if new scientific data become available within the 5 year period and if necessary amended on basis of the advice of the Scientific Committee. <sup> 17)  At the Commission’s 64 <sup>th</sup> Annual Meeting held in 2012 a proposal by Denmark (document number IWC/64/12) regarding the Greenland Aboriginal Subsistence Whaling hunts for the period 2013 to 2018 failed to gain the necessary three-quarters majority support.  </sup>  
+
+(v) The number of humpback whales struck off West Greenland in accordance with this sub-paragraph shall not exceed 9 in each of the years 2010, 2011 and 2012, except that any unused portion of the quota for each year shall be carried forward from that year and added to the strike quota of any of the subsequent years, provided that no more than 2 strikes shall be added to the strike quota for any one year. This provision will be reviewed if new scientific data become available within the remaining quota period and if necessary amended on the basis of the advice of the Scientific Committee. <sup> 18)  At the Commission’s 64 <sup>th</sup> Annual Meeting held in 2012 a proposal by Denmark (document number IWC/64/12) regarding the Greenland Aboriginal Subsistence Whaling hunts for the period 2013 to 2018 failed to gain the necessary three-quarters majority support.  </sup>    
+
+4. For the seasons *2013-2018* the number of humpback whales to be taken by the Bequians of St. Vincent and The Grenadines shall not exceed *24*. The meat and products of such whales are to be used exclusively for local consumption in St. Vincent and The Grenadines. <sup> 19)  See footnote to Table 1.  </sup>      
 
 14. It is forbidden to take or kill suckling calves or female whales accompanied by calves.   
 ###Baleen Whale Size Limits
@@ -250,8 +348,8 @@ a) It is forbidden to take or kill any sperm whales below 30 feet (9.2 metres) i
 
 b) It is forbidden to take or kill any sperm whale over 45 feet (13.7 metres) in length in the Southern Hemisphere north of 40° South Latitude during the months of October to January inclusive.  
 
-c) It is forbidden to take or kill any sperm whale over 45 feet (13.7 metres) in length in the North Pacific Ocean and dependent water south of 40° North Latitude during the months of March to June inclusive.     
-###IV. TREATMENT
+c) It is forbidden to take or kill any sperm whale over 45 feet (13.7 metres) in length in the North Pacific Ocean and dependent waters south of 40° North Latitude during the months of March to June inclusive.     
+###IV. Treatment
 
 19. 
 
@@ -266,7 +364,7 @@ c) Complete treatment of the carcases of “dauhval” and of whales used as fen
 a) The taking of whales for treatment by a factory ship shall be so regulated or restricted by the master or person in charge of the factory ship that no whale carcase (except of a whale used as a fender, which shall be processed as soon as is reasonably practicable) shall remain in the sea for a longer period than thirty-three hours from the time of killing to the time when it is hauled up for treatment.  
 
 b) Whales taken by all whale catchers, whether for factory ships or land stations, shall be clearly marked so as to identify the catcher and to indicate the order of catching.     
-###V. SUPERVISION AND CONTROL
+###V. Supervision and control
 
 21. 
 
@@ -276,48 +374,48 @@ b) Adequate inspection shall be maintained at each land station. The inspectors 
 
 c) There shall be received such observers as the member countries may arrange to place on factory ships and land stations or groups of land stations of other member countries. The observers shall be appointed by the Commission acting through its Secretary and paid by the Government nominating them.    
 
-22. Gunners and crews of factory ships, land stations, and whale catchers, shall be engaged on such terms that their remuneration shall depend to a considerable extent upon such factors as the species, size and yield of whales and not merely upon the number of the whales taken. No bonus or other remuneration shall be paid to the gunners or crews of whale catchers in respect of the taking of lactating whales.  
+22. Gunners and crews of factory ships, land stations, and whale catchers, shall be engaged on such terms that their remuneration shall depend to a considerable extent upon such factors as the species, size and yield of whales and not merely upon the number of the whales taken. No bonus or other remuneration shall be paid to the gunners or crews of whale catchers in respect of the taking of lactating whales.   
 
-23. Whales must be measured when at rest on deck or platform after the hauling out wire and grasping device have been released, by means of a tape-measure made of a non-stretching material. The zero end of the tape-measure shall be attached to a spike or stable device to be positioned on the deck or platform abreast of one end of the whale. Alternatively the spike may be stuck into the tail fluke abreast of the apex of the notch. The tape-measure shall be held taut in a straight line parallel to the deck and the whale’s body, and other than in exceptional circumstances along the whale’s back, and read abreast of the other end of the whale. The ends of the whale for measurement purposes shall be the tip of the upper jaw, or in sperm whales the most forward part of the head, and the apex of the notch between the tail flukes. Measurements shall be logged to the nearest foot or 0.1 metre. That is to say, any whale between 75 feet 6 inches and 76 feet 6 inches shall be logged as 76 feet, and any whale between 76 feet 6 inches and 77 feet 6 inches shall be logged as 77 feet. Similarly, any whale between 10.15 metres and 10.25 metres shall be logged as 10.2 metres, and any whale between 10.25 metres and 10.35 metres shall be logged as 10.3 metres. The measurement of any whale which falls on an exact half foot or 0.05 metre shall be logged at the next half foot or 0.05 metre, e.g. 76 feet 6 inches precisely shall be logged as 77 feet and 10.25 metres precisely shall be logged as 10.3 metres.   
-###VI. INFORMATION REQUIRED
+23. Whales must be measured when at rest on deck or platform after the hauling out wire and grasping device have been released, by means of a tape-measure made of a non-stretching material. The zero end of the tapemeasure shall be attached to a spike or stable device to be positioned on the deck or platform abreast of one end of the whale. Alternatively the spike may be stuck into the tail fluke abreast of the apex of the notch. The tape-measure shall be held taut in a straight line parallel to the deck and the whale’s body, and other than in exceptional circumstances along the whale’s back, and read abreast of the other end of the whale. The ends of the whale for measurement purposes shall be the tip of the upper jaw, or in sperm whales the most forward part of the head, and the apex of the notch between the tail flukes. Measurements shall be logged to the nearest foot or 0.1 metre. That is to say, any whale between 75 feet 6 inches and 76 feet 6 inches shall be logged as 76 feet, and any whale between 76 feet 6 inches and 77 feet 6 inches shall be logged as 77 feet. Similarly, any whale between 10.15 metres and 10.25 metres shall be logged as 10.2 metres, and any whale between 10.25 metres and 10.35 metres shall be logged as 10.3 metres. The measurement of any whale which falls on an exact half foot or 0.05 metre shall be logged at the next half foot or 0.05 metre, e.g. 76 feet 6 inches precisely shall be logged as 77 feet and 10.25 metres precisely shall be logged as 10.3 metres.   
+###VI. Information required
 
 24. 
 
 a) All whale catchers operating in conjunction with a factory ship shall report by radio to the factory ship: 
 
-1) the time when each whale is taken  
+1. the time when each whale is taken  
 
-2) its species, and  
+2. its species, and  
 
-3) its marking effected pursuant to paragraph 20(b).    
+3. its marking effected pursuant to paragraph 20(*b*).    
 
-b) The information specified in sub-paragraph a) of this paragraph shall be entered immediately by a factory ship in a permanent record which shall be available at all times for examination by the whaling inspectors; and in addition there shall be entered in such permanent record the following information as soon as it becomes available: 
+b) The information specified in sub-paragraph (*a*) of this paragraph shall be entered immediately by a factory ship in a permanent record which shall be available at all times for examination by the whaling inspectors; and in addition there shall be entered in such permanent record the following information as soon as it becomes available: 
 
-1) time of hauling up for treatment  
+1. time of hauling up for treatment  
 
-2) length, measured pursuant to paragraph 23  
+2. length, measured pursuant to paragraph 23  
 
-3) sex  
+3. sex  
 
-4) if female, whether lactating  
+4. if female, whether lactating  
 
-5) length and sex of foetus, if present, and  
+5. length and sex of foetus, if present, and  
 
-6) a full explanation of each infraction.    
+6. a full explanation of each infraction.    
 
-c) A record similar to that described in sub-paragraph (b) of this paragraph shall be maintained by land stations, and all of the information mentioned in the said sub-paragraph shall be entered therein as soon as available.  
+c) A record similar to that described in sub-paragraph (*b*) of this paragraph shall be maintained by land stations, and all of the information mentioned in the said sub-paragraph shall be entered therein as soon as available.  
 
-d) A record similar to that described in sub-paragraph (b) of this paragraph shall be maintained by “small-type whaling” operations conducted from shore or by pelagic fleets, and all of this information mentioned in the said sub-paragraph shall be entered therein as soon as available.    
+d) A record similar to that described in sub-paragraph (*b*) of this paragraph shall be maintained by “small-type whaling” operations conducted from shore or by pelagic fleets, and all of this information mentioned in the said sub-paragraph shall be entered therein as soon as available.    
 
 25. 
 
 a) All Contracting Governments shall report to the Commission for all whale catchers operating in conjunction with factory ships and land stations the following information: 
 
-1) methods used to kill each whale, other than a harpoon, and in particular compressed air  
+1. methods used to kill each whale, other than a harpoon, and in particular compressed air;  
 
-2) number of whales struck but lost.    
+2. number of whales struck but lost.    
 
-b) A record similar to that described in sub-paragraph a) of this paragraph shall be maintained by vessels engaged in “small-type whaling” operations and by native peoples taking species listed in paragraph 1, and all the information mentioned in the said sub-paragraph shall be entered therein as soon as available, and forwarded by Contracting Governments to the Commission.    
+b) A record similar to that described in sub-paragraph (*a*) of this paragraph shall be maintained by vessels engaged in “small-type whaling” operations and by native peoples taking species listed in paragraph 1, and all the information mentioned in the said sub-paragraph shall be entered therein as soon as available, and forwarded by Contracting Governments to the Commission.    
 
 26. 
 
@@ -333,15 +431,15 @@ a) concerning the number of whales of each species taken, the number thereof los
 
 b) as to the aggregate amounts of oil of each grade and quantities of meal, fertiliser (guano), and other products derived from them, together with  
 
-c) particulars with respect to each whale treated in the factory ship, land station or “small-type whaling” operations as to the date and approximate latitude and longitude of taking, the species and sex of the whale, its length and, if it contains a foetus, the length and sex, if ascertainable, of the foetus.   The data referred to in a) and c) above shall be verified at the time of the tally and there shall also be notification to the Commission of any information which may be collected or obtained concerning the calving grounds and migration of whales.  
+c) particulars with respect to each whale treated in the factory ship, land station or “small-type whaling” operations as to the date and approximate latitude and longitude of taking, the species and sex of the whale, its length and, if it contains a foetus, the length and sex, if ascertainable, of the foetus.   The data referred to in (*a*) and (*c*) above shall be verified at the time of the tally and there shall also be notification to the Commission of any information which may be collected or obtained concerning the calving grounds and migration of whales.  
 
 28. 
 
 a) Notification shall be given in accordance with the provisions of Article VII of the Convention with regard to all factory ships and catcher ships of the following statistical information: 
 
-1) the name and gross tonnage of each factory ship,  
+1. the name and gross tonnage of each factory ship,  
 
-2) for each catcher ship attached to a factory ship or land station: 
+2. for each catcher ship attached to a factory ship or land station: 
 
 (i) the dates on which each is commissioned and ceases whaling for the season,  
 
@@ -349,27 +447,27 @@ a) Notification shall be given in accordance with the provisions of Article VII 
 
 (iii) the gross tonnage, horsepower, length and other characteristics of each; vessels used only as tow boats should be specified.    
 
-3) A list of the land stations which were in operation during the period concerned, and the number of miles searched per day by aircraft, if any.    
+3. A list of the land stations which were in operation during the period concerned, and the number of miles searched per day by aircraft, if any.    
 
-b) The information required under paragraph a)2)iii) should also be recorded together with the following information, in the log book format shown in Appendix A, and forwarded to the Commission: 
+b) The information required under paragraph (*a*)(2) (iii) should also be recorded together with the following information, in the log book format shown in Appendix A, and forwarded to the Commission: 
 
-1) where possible the time spent each day on different components of the catching operation,  
+1. where possible the time spent each day on different components of the catching operation,  
 
-2) any modifications of the measures in paragraphs a)2)i)-iii) or b)1) or data from other suitable indicators of fishing effort for “small-type whaling” operations.      
+2. any modifications of the measures in paragraphs (*a*)(2)(i)-(iii) or (*b*)(1) or data from other suitable indicators of fishing effort for “small-type whaling” operations.      
 
 29. 
 
 a) Where possible all factory ships and land stations shall collect from each whale taken and report on: 
 
-1) both ovaries or the combined weight of both testes,  
+1. both ovaries or the combined weight of both testes,  
 
-2) at least one ear plug, or one tooth (preferably first mandibular).    
+2. at least one ear plug, or one tooth (preferably first mandibular).    
 
-b) Where possible similar collections to those described in sub-paragraph a) of this paragraph shall be undertaken and reported by “small-type whaling” operations conducted from shore or by pelagic fleets.  
+b) Where possible similar collections to those described in sub-paragraph (*a*) of this paragraph shall be undertaken and reported by “small-type whaling” operations conducted from shore or by pelagic fleets.  
 
-c) All specimens collected under sub-paragraphs a) and b) shall be properly labelled with platform or other identification number of the whale and be appropriately preserved.  
+c) All specimens collected under sub-paragraphs (*a*) and (*b*) shall be properly labelled with platform or other identification number of the whale and be appropriately preserved.  
 
-d) Contracting Governments shall arrange for the analysis as soon as possible of the tissue samples and specimens collected under sub-paragraphs a) and b) and report to the Commission on the results of such analyses.    
+d) Contracting Governments shall arrange for the analysis as soon as possible of the tissue samples and specimens collected under sub-paragraphs (*a*) and (*b*) and report to the Commission on the results of such analyses.    
 
 30. A Contracting Government shall provide the Secretary to the International Whaling Commission with proposed scientific permits before they are issued and in sufficient time to allow the Scientific Committee to review and comment on them. The proposed permits should specify: 
 
@@ -383,42 +481,129 @@ d) possible effect on conservation of stock.   Proposed permits shall be reviewe
 
 31. A Contracting Government shall transmit to the Commission copies of all its official laws and regulations relating to whales and whaling and changes in such laws and regulations.     
 
-####INTERNATIONAL CONVENTION FOR THE REGULATION OF WHALING 1946, SCHEDULE APPENDIX A
+####International Convention for the Regulation of Whaling, 1946
 
-TITLEPAGE (one logbook per catcher per season)  
+Schedule Appendix A  
 
 | --- | --- |
-|:---|:---|
-| Catcher name . . . . . . . . . .  | Year built . . . . . . . . . .  |
-| Attached to expedition/land station . . . . . . . . . .  | --- |
-| Season . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  |
-| Overall length . . . . . . . . . .  | Wooden/steel hull . . . . . . . . . .  |
-| Gross tonnage . . . . . . . . . .  | --- |
-| Type of engine . . . . . . . . . .  | H.P. . . . . . . . . . .  |
-| Maximum speed . . . . . . . . . .  | Average searching speed . . . . . . . . . .  |
-| Asdic set, make and model no. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  |
-| Date of installation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  |
-| Make and size of cannon . . . . . . . . . .  | --- |
-| Type of first harpoon used . . . . . . . . . .  | explosive/electric/non-explosive  |
-| Type of killer harpoon used . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  |
-| Length and type of forerunner . . . . . . . . . .  |
-| Type of whaleline . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  |
-| Height of barrel above sea level . . . . . . . . . .  | --- |
+|---|---|
+| TITLE PAGE  |
+| (one logbook per catcher per season)  |
+| --- |
+| Catcher name.....  | Year built.....  |
+| Attached to expedition/land station.....  |
+| Season.....  | --- |
+| Overall length.....  | Wooden/steel hull.....  |
+| Gross tonnage.....  | --- |
+| Type of engine.....  | H.P.....  |
+| Maximum speed.....  | Average searching speed.....  |
+| Asdic set, make and model no.....  | --- |
+| Date of installation.....  | --- |
+| Make and size of cannon.....  | --- |
+| Type of first harpoon used.....  | Explosive/electric/non-explosive  |
+| Type of killer harpoon used.....  | --- |
+| Length and type of forerunner.....  | --- |
+| Type of whaleline.....  | --- |
+| Height of barrel above sea level.....  | --- |
 | Speedboat used, Yes/No  | --- |
-| Name of Captain . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  |
-| Number of years experience . . . . . . . . . .  | --- |
-| Name of gunner . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  |
-| Number of years experience . . . . . . . . . .  | --- |
-| Number of crew . . . . . . . . . .  | --- |
+| Name of Captain.....  | --- |
+| Number of years experience.....  | --- |
+| Name of gunner.....  | --- |
+| Number of years experience.....  | --- |
+| Number of crew.....  | --- |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|---|---|---|---|---|---|---|---|---|---|---|
+| INTERNATIONAL CONVENTION FOR THE REGULATION OF WHALING, 1946  |
+| --- |
+| --- | DAILY RECORD SHEET  | TABLE 1  |
+| Date .....  | Catcher name .....  | Sheet No .....  |
+| Searching:  | Time started (or resumed) searching  | .....  | .....  | .....  | .....  | .....  |
+| --- | <sup>1)</sup> Time whales seen or reported to catcher  | .....  | .....  | .....  | .....  | .....  |
+| --- | Whale species  | .....  | .....  | .....  | .....  | .....  |
+| --- | Number seen and no. of groups  | .....  | .....  | .....  | .....  | .....  |
+| --- | Position found  | .....  | .....  | .....  | .....  | .....  |
+| --- | Name of catcher that found whales  | .....  | .....  | .....  | .....  | .....  |
+| Chasing:  | Time started chasing (or confirmed whales)  | .....  | .....  | .....  | .....  | .....  |
+| --- | Time whale shot or chasing discontinued  | .....  | .....  | .....  | .....  | .....  |
+| --- | Asdic used (Yes/No)  | .....  | .....  | .....  | .....  | .....  |
+| Handling:  | Time whale flagged or alongside for towing  | .....  | .....  | .....  | .....  | .....  |
+| --- | Serial No. of catch  | .....  | .....  | .....  | .....  | .....  |
+| Towing:  | Time started picking up  | .....  | .....  | .....  | .....  | .....  |
+| --- | Time finished picking up or started towing  | .....  | .....  | .....  | .....  | .....  |
+| --- | Date and time delivered to factory  | .....  | .....  | .....  | .....  | .....  |
+| Resting:  | Time stopped (for drifting or resting)  | .....  | .....  | .....  | .....  | .....  |
+| --- | Time finished drifting/resting  | .....  | .....  | .....  | .....  | .....  |
+| --- | Time ceased operations  | .....  | .....  | .....  | .....  | .....  |
+| --- | --- | WEATHER CONDITIONS .  |
+| Total searching time .....  | --- | --- | --- | --- | --- |
+| Total chasing time .....  | --- | --- | --- | --- | --- |
+| A) with asdic .....  | Time  | Sea state  | Wind force and direction  | Visibility  |
+| B) without asdic .....  | .....  | .....  | .....  | --- | .....  |
+| Total handling time .....  | --- | --- | --- | --- | --- |
+| Total towing time .....  | .....  | .....  | .....  | --- | .....  |
+| Total resting time .....  | --- | --- | --- | --- | --- |
+| Other time (e.g. bunkering, in port) .....  | .....  | .....  | .....  | --- | .....  |
+| Whales Seen (No. and No. of schools)  |
+| Blue.....  | Bryde’s .....  |
+| Fin.....  | Minke .....  |
+| Humpback.....  | Sperm .....  |
+| Right.....  | Others (specify) .....  |
+| Sei.....  | .....  |
+| Signed.....  | .....  |
+
+<sup>1)</sup> Time whales reported to catcher means the time when the catcher is told of the position of a school and starts to move towards it to chase it.    
+
+| --- | --- | --- | --- | --- |
+|---|---|---|---|---|
+| SCHEDULE APPENDIX A  |
+| --- |
+| SCHOOLING REPORT  | TABLE 2  | --- |
+| --- | --- | --- | --- |
+| To be completed by pelagic expedition or coastal station for each sperm whale school chased. A separate form to be used each day.  |
+| --- | --- | --- | --- |
+| Name of expedition or coastal station .....  |
+| --- | --- | --- | --- |
+| Date .....  | Noon position of factory ship .....  |
+| --- | --- |
+| Time School Found .....  | --- | --- |
+| --- | --- | --- | --- |
+| Total Number of Whales in School .....  | --- | --- |
+| --- | --- | --- | --- |
+| Number of Takeable Whales in School ….  | --- | --- |
+| --- | --- | --- | --- |
+| Number of Whales Caught from School by each Catcher .....  | --- | --- |
+| --- | --- | --- | --- |
+| Name of Catcher .....  | --- | --- |
+| --- | --- | --- | --- |
+| Name of Catcher .....  | --- | --- |
+| --- | --- | --- | --- |
+| Name of Catcher .....  | --- | --- |
+| --- | --- | --- | --- |
+| Name of Catcher .....  | --- | --- |
+| --- | --- | --- | --- |
+| Total Number Caught from School .....  | --- | --- |
+| --- | --- | --- | --- |
+| Remarks:  | --- | --- |
+| --- | --- | --- | --- |
+| Explanatory Notes  | --- | --- |
+| --- | --- | --- | --- |
+| A.  | Fill in one column for each school chased with number of whales caught by each catcher taking part in the chase; if catchers chase the school but do not catch from it, enter 0; for catchers in fleet which do not chase that school enter X.  |
+| --- | --- | --- | --- |
+| B.  | A school on this form means a group of whales which are sufficiently close together that a catcher having completed handling one whale can start chasing another whale almost immediately without spending time searching. A solitary whale should be entered as a school of 1 whale.  |
+| --- | --- | --- | --- |
+| C.  | A takeable whale is a whale of a size or kind which the catchers would take if possible. It does not necessarily include all whales above legal size, e.g. if catchers are concentrating on large whales only these would be counted as takeable.  |
+| --- | --- | --- | --- |
+| D.  | Information about catchers from other expeditions or companies operating on the same school should be recorded under Remarks.  |
 
 ####INTERNATIONAL CONVENTION FOR THE REGULATION OF WHALING, 1946
 
 | --- | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 | --- | DAILY RECORD SHEET  | TABLE 1 ..................................................  |
 | Date .......  | Catcher name.........  | Sheet No. ............................................................  |
 | Searching:  | Time started (or resumed) searching  | ........  | ........  | ........  | ........  | ........  |
-| --- | * Time whales seen or reported to catcher  | ........  | ........  | ........  | ........  | ........  |
+| --- | <sup>1)</sup> Time whales seen or reported to catcher  | ........  | ........  | ........  | ........  | ........  |
 | --- | Whale species  | ........  | ........  | ........  | ........  | ........  |
 | --- | Number seen and no. of groups  | ........  | ........  | ........  | ........  | ........  |
 | --- | Position found  | ........  | ........  | ........  | ........  | ........  |
@@ -451,7 +636,7 @@ TITLEPAGE (one logbook per catcher per season)
 Whales Seen (No. and No. of schools) 
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Blue ..................  | Bryde's ..................  |
 | Fin ..................  | Minke ..................  |
 | Humpback ..................  | Sperm ..................  |
@@ -459,16 +644,18 @@ Whales Seen (No. and No. of schools)
 | Sei ..................  | ..................  |
 | Signed ..................  | ..................  |
 
-* Time whales reported to catcher means the time when the catcher is told of the position of a school and starts to move towards it to chase it.    
+<sup>1)</sup> Time whales reported to catcher means the time when the catcher is told of the position of a school and starts to move towards it to chase it.   
+###SCHEDULE APPENDIX A
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | SCHOOLING REPORT  | TABLE 2  |
 | To be completed by pelagic expedition or coastal station for each sperm whale school chased. A separate form to be used each day.  Name of expedition or coastal station ..................  |
 | Date ..................  | Noon position of factory ship ..................  |
 | Time School Found ..................  |
 | Total Number of Whales in School ..................  |
 | Number of Takeable Whales in School ..................  |
+| Number of Whales Caught from School by each Catcher ..................  |
 | Name of Catcher ..................  |
 | Name of Catcher ..................  |
 | Name of Catcher ..................  |
@@ -480,7 +667,7 @@ Explanatory Notes
 
 A. Fill in one column for each school chased with number of whales caught by each catcher taking part in the chase; if catchers chase the school but do not catch any whales from it, enter 0; for catchers in fleet which do not chase that school enter X.  
 
-B. A school on this form moans a group of whales which are sufficiently close together that a catcher having completed handling one whale can start chasing another whale almost immediately without spending time searching. A solitary whale should be entered as a school of 1 whale.  
+B. A school on this form means a group of whales which are sufficiently close together that a catcher having completed handling one whale can start chasing another whale almost immediately without spending time searching. A solitary whale should be entered as a school of 1 whale.  
 
 C. A takeable whale is a whale of a size or kind which the catchers would take if possible. It does not necessarily include all whales above legal size, e.g. if catchers are concentrating on large whales only these would be counted as takeable.  
 
@@ -592,7 +779,7 @@ De verdragsluitende Regeringen zorgen voor prompte toezending aan het Internatio
 
 ### Artikel  X  
 
-1.  Dit Verdrag wordt bekrachtigd en de bekrachtigingsoorkonden worden gedeponeerd bii de Regering van de Verenigde Staten van Amerika.   
+1.  Dit Verdrag wordt bekrachtigd en de bekrachtigingsoorkonden worden gedeponeerd bij de Regering van de Verenigde Staten van Amerika.   
 2.  Elke Regering, die dit Verdrag niet heeft getekend, kan, nadat het van kracht geworden is, toetreden. Dit geschiedt door een schriftelijke mededeling aan de Regering van de Verenigde Staten van Amerika.   
 3.  De Regering van de Verenigde Staten van Amerika zal alle Regeringen, die dit Verdrag getekend hebben of zijn toegetreden, op de hoogte houden van alle ontvangen bekrachtigingsoorkonden en berichten van toetreding.   
 4.  Nadat de betreffende bekrachtigingsoorkonden door ten minste zes van de ondertekenende Regeringen, waaronder de Regeringen van Nederland, Noorwegen, de Unie van Socialistische Sovjet Republieken, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Verenigde Staten van Amerika, zijn gedeponeerd, wordt dit Verdrag van kracht ten aanzien van genoemde Regeringen en wordt het ten aanzien van iedere andere Regering, die het bekrachtigt of op een later tijdstip toetreedt, van kracht vanaf de dag, waarop deze haar bekrachtigingsoorkonde deponeert of waarop haar bericht van toetreding ontvangen wordt.   
