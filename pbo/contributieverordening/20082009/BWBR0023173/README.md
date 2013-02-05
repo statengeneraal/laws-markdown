@@ -8,6 +8,7 @@ gelet op [artikel 27, eerste lid, van de Wet op de Registeraccountants](../../..
 stelt met betrekking tot de contributie wegens het lidmaatschap van het Nederlands Instituut van Registeraccountant voor het boekjaar 1 september 2008 tot en met 31 augustus 2009 de volgende verordening vast:
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-09-2009 
 
 De contributie voor de contributiegroepen als bedoeld in artikel 2, eerste lid, van de Algemene Contributieverordening 2007 bedraagt:  
 
@@ -19,13 +20,16 @@ De contributie voor de contributiegroepen als bedoeld in artikel 2, eerste lid, 
 | G (leden die niet actief bij het arbeidsproces betrokken zijn)  | 152  |
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-09-2009 
 
-Het percentage, bedoeld in artikel 6, eerste lid, van de Algemene Contributieverordening 2007 wordt vastgesteld op: vier.  
+Het percentage, bedoeld in artikel 6, eerste lid, van de Algemene Contributieverordening 2007 wordt vastgesteld op: vier. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-09-2009 
 
-Deze verordening treedt in werking met ingang van 1 september 2008.  
+Deze verordening treedt in werking met ingang van 1 september 2008. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-09-2009 
 
-Deze verordening wordt aangehaald als: Contributieverordening 2008/2009.  
+Deze verordening wordt aangehaald als: Contributieverordening 2008/2009. 

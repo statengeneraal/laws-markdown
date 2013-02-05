@@ -9,8 +9,8 @@ Besluit:     De Minister van Sociale Zaken en Werkgelegenheid maakt op grond van
 Hoogachtend, 
 
 De 
-Minister van Sociale Zaken en Werkgelegenheid,namens deze:
-M.P.Flier  
+Minister van Sociale Zaken en Werkgelegenheid, namens deze: 
+M.P. Flier    
 
 ####Bijlage
 

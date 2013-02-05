@@ -15,26 +15,26 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-A.      Bevat wijzigingen in andere regelgeving.      
-B.     Degene, die vóór 1 april 1994 als ambtenaar, bedoeld in artikel 1, sub *e*, van het Ambtenarenreglement voor de gemeentepolitie 1958, en na 1 april 1994 als ambtenaar, bedoeld in [artikel 1 van het Besluit algemene rechtspositie politie](../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), en degene die als ambtenaar, bedoeld in het Ambtenarenreglement LSOP, voor de datum van inwerkingtreding van dit besluit belanghebbende was in de zin van artikel 1, eerste lid, onder *a*, van de Premiespaarregeling Rijksambtenaren 1968 en die op zijn bijzondere spaarrekening in de zin van artikel 4 van de Premiespaarregeling Rijksambtenaren 1968 een op zijn bezoldiging ingehouden bedrag had uitstaan, komt in aanmerking voor de toekenning van een spaarpremie over dat bedrag met overeenkomstige toepassing van die regeling.     
-C.     Ten aanzien van het op grond van artikel 4 van de Premiespaarregeling Rijksambtenaren 1968 op de bezoldiging ingehouden en op de bijzondere spaarrekening, van de onder B bedoelde ambtenaar, uitstaande bedrag dat nog niet voldoet aan de in die regeling gestelde voorwaarden voor toekenning van de spaarpremie, geldt, dat dit uitstaande bedrag gelijk gesteld wordt met het bedrag dat de volle termijn van vier jaren heeft vastgestaan en derhalve in aanmerking komt voor de toekenning van een spaarpremie over dat bedrag met overeenkomstige toepassing van die regeling.     
-D.     De onder B bedoelde ambtenaar, die voor de inwerkingtreding van dit besluit belanghebbende was in de zin van artikel 1, eerste lid, onder *a*, van de Premiespaarregeling Rijksambtenaren 1968 en betalingen heeft verricht in de zin van artikel 5 van de Premiespaarregeling Rijksambtenaren 1968 komt in aanmerking voor de toekenning van een premie met overeenkomstige toepassing van die regeling.     
+A.   Bevat wijzigingen in andere regelgeving.    
+B.  Degene, die vóór 1 april 1994 als ambtenaar, bedoeld in artikel 1, sub *e*, van het Ambtenarenreglement voor de gemeentepolitie 1958, en na 1 april 1994 als ambtenaar, bedoeld in [artikel 1 van het Besluit algemene rechtspositie politie](../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), en degene die als ambtenaar, bedoeld in het Ambtenarenreglement LSOP, voor de datum van inwerkingtreding van dit besluit belanghebbende was in de zin van artikel 1, eerste lid, onder *a*, van de Premiespaarregeling Rijksambtenaren 1968 en die op zijn bijzondere spaarrekening in de zin van artikel 4 van de Premiespaarregeling Rijksambtenaren 1968 een op zijn bezoldiging ingehouden bedrag had uitstaan, komt in aanmerking voor de toekenning van een spaarpremie over dat bedrag met overeenkomstige toepassing van die regeling.   
+C.  Ten aanzien van het op grond van artikel 4 van de Premiespaarregeling Rijksambtenaren 1968 op de bezoldiging ingehouden en op de bijzondere spaarrekening, van de onder B bedoelde ambtenaar, uitstaande bedrag dat nog niet voldoet aan de in die regeling gestelde voorwaarden voor toekenning van de spaarpremie, geldt, dat dit uitstaande bedrag gelijk gesteld wordt met het bedrag dat de volle termijn van vier jaren heeft vastgestaan en derhalve in aanmerking komt voor de toekenning van een spaarpremie over dat bedrag met overeenkomstige toepassing van die regeling.   
+D.  De onder B bedoelde ambtenaar, die voor de inwerkingtreding van dit besluit belanghebbende was in de zin van artikel 1, eerste lid, onder *a*, van de Premiespaarregeling Rijksambtenaren 1968 en betalingen heeft verricht in de zin van artikel 5 van de Premiespaarregeling Rijksambtenaren 1968 komt in aanmerking voor de toekenning van een premie met overeenkomstige toepassing van die regeling. 
 
 ### Artikel  V  
 
-Voor de toepassing van hoofdstuk II van het koninklijk besluit van 5 juli 1993, houdende 
+Voor de toepassing van hoofdstuk II van het koninklijk besluit van 5 juli 1993, houdende  
 
 1e. wijziging van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en enige andere rechtspositionele regelingen in verband met algemene salarismaatregelen per 1 april 1992 en per 1 januari 1993;  
 
@@ -42,12 +42,12 @@ Voor de toepassing van hoofdstuk II van het koninklijk besluit van 5 juli 1993, 
 
 3e. intrekking van de Bezoldigingsregeling leerlingverpleegkundigen en leerling-ziekenverzorgenden 1978;  
 
-4e. enkele wijzigingen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) (*Stb.* 417), worden onder de belanghebbenden mede verstaan de ambtenaren in de zin van het Ambtenarenreglement voor de rijkspolitie 1975 en het Ambtenarenreglement voor de gemeentepolitie 1958.    
+4e. enkele wijzigingen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) (*Stb.* 417), worden onder de belanghebbenden mede verstaan de ambtenaren in de zin van het Ambtenarenreglement voor de rijkspolitie 1975 en het Ambtenarenreglement voor de gemeentepolitie 1958.   
 
 ### Artikel  VI  
 
 1.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug wat betreft Artikel I, onderdeel C, en Artikel II, onderdeel C, tot en met 18 april 1990, wat betreft Artikel I, onderdelen A en D, Artikel II, onderdelen A en D, en Artikel III, onderdeel B, tot en met 1 juli 1990, wat betreft Artikel I, onderdeel G, en Artikel II, onderdeel G, tot en met 1 april 1991, wat betreft Artikel I, onderdelen B en E, en Artikel II, onderdelen B en E, tot en met 1 april 1992, wat betreft Artikel I, onderdeel F, en Artikel II, onderdeel F, tot en met 1 juli 1992, wat betreft Artikel III, onderdeel A, tot en met 22 december 1992 en wat betreft Artikel V tot en met 1 september 1992.   
-2.  In afwijking van het eerste lid vindt ten aanzien van de gevallen waarin voor de inwerkingtreding van dit besluit een verlofperiode is aangevangen volgens de regels van artikel 51 *a*, derde lid, van het Ambtenarenreglement voor de rijkspolitie 1975 en het Ambtenarenreglement voor de gemeentepolitie 1958 geen terugwerkende kracht plaats.   
+2.   In afwijking van het eerste lid vindt ten aanzien van de gevallen waarin voor de inwerkingtreding van dit besluit een verlofperiode is aangevangen volgens de regels van artikel 51*a*, derde lid, van het Ambtenarenreglement voor de rijkspolitie 1975 en het Ambtenarenreglement voor de gemeentepolitie 1958 geen terugwerkende kracht plaats.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

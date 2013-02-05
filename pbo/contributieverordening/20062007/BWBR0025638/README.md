@@ -7,21 +7,24 @@ Gelet op [artikel 27, eerste lid, van de Wet op de Registeraccountants](../../..
 Stelt met betrekking tot de contributie wegens het lidmaatschap van de Orde voor het boekjaar 1 september 2006 tot en met 31 augustus 2007 de volgende verordening vast:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2007 
 
-De contributie voor de contributiegroepen als bedoeld in artikel 2, eerste lid, van de Algemene Contributieverordening 2007 bedraagt:  
+De contributie voor de contributiegroepen als bedoeld in artikel 2, eerste lid, van de Algemene Contributieverordening 2007 bedraagt: 
 
 | --- | --- |
 |:---|:---|
-| groep H (hoog)  | € 1.452  |
-| groep M (midden)  | € 726  |
-| groep L (laag)  | € 363  |
-| groep G (niet bij het arbeidsproces betrokken)  | € 68  |
+|groep H (hoog) |€ 1.452 |
+|groep M (midden) |€ 726 |
+|groep L (laag) |€ 363 |
+|groep G (niet bij het arbeidsproces betrokken) |€ 68 |
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2007 
 
-Het percentage, bedoeld in artikel 6, eerste lid, van de Algemene Contributieverordening 2007 wordt vastgesteld op: vier.  
+Het percentage, bedoeld in artikel 6, eerste lid, van de Algemene Contributieverordening 2007 wordt vastgesteld op: vier.
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-01-2007 
 
-1.  Deze verordening treedt in werking met ingang van 1 september 2006.   
-2.  Deze verordening kan worden aangehaald onder de naam “Contributieverordening 2006/2007”.   
+1. Deze verordening treedt in werking met ingang van 1 september 2006.
+2. Deze verordening kan worden aangehaald onder de naam “Contributieverordening 2006/2007”.

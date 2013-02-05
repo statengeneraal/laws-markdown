@@ -19,14 +19,14 @@ De contributie voor de contributiegroepen, bedoeld in [artikel 2, eerste lid, va
 
 ### Artikel  2  
 
-Het percentage, bedoeld in [artikel 6, eerste lid, van de Algemene Contributieverordening 2007](../../../../pbo/algemene/contributieverordening/2007/BWBR0025949/README.md) wordt vastgesteld op: vier.  
+Het percentage, bedoeld in [artikel 6, eerste lid, van de Algemene Contributieverordening 2007](../../../../pbo/algemene/contributieverordening/2007/BWBR0025949/README.md) wordt vastgesteld op: vier. 
 
 ### Artikel  3  
 
-Deze verordening treedt in werking op 1 januari 2012.  
+Deze verordening treedt in werking op 1 januari 2012. 
 
 ### Artikel  4  
 
-Deze verordening wordt aangehaald als: Contributieverordening 2012.  
+Deze verordening wordt aangehaald als: Contributieverordening 2012. 
 
-De ledenvergadering van het Nederlands Instituut van Registeraccountants    
+De ledenvergadering van het Nederlands Instituut van Registeraccountants   

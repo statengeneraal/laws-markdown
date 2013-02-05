@@ -22,61 +22,63 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
 1.  Voor zover artikel I aanleiding geeft tot het wijzigen van de bedragen van toelagen, toegekend met toepassing van artikel 19 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1948, die ingevolge het bepaalde in [artikel 13 van de Overgangsregeling Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/overgangsregeling/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003631/README.md) nog worden gehandhaafd, geschiedt zulks door Onze Minister, hoofd van het daarbij betrokken ministerie, met inachtneming van de daarvoor door Onze Minister van Binnenlandse Zaken te geven richtlijnen.   
-2.  Voor zover artikel I aanleiding geeft tot het wijzigen van bijzondere regelingen, getroffen met toepassing van [artikel 26 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), geschiedt dit bij gemeenschappelijke beschikking van Onze Minister, hoofd van het daarbij betrokken ministerie, en van Onze Minister van Binnenlandse Zaken.   
+2.   Voor zover artikel I aanleiding geeft tot het wijzigen van bijzondere regelingen, getroffen met toepassing van [artikel 26 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), geschiedt dit bij gemeenschappelijke beschikking van Onze Minister, hoofd van het daarbij betrokken ministerie, en van Onze Minister van Binnenlandse Zaken.  
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  V  
 
-A.     De bij artikel I, onder B en C, aangebrachte wijzigingen in de bezoldiging van het burgerlijk rijkspersoneel dragen een algemeen karakter.     
-B.      Bevat wijzigingen in andere regelgeving.      
-C.      Bevat wijzigingen in andere regelgeving.        
+A.  De bij artikel I, onder B en C, aangebrachte wijzigingen in de bezoldiging van het burgerlijk rijkspersoneel dragen een algemeen karakter.   
+B.   Bevat wijzigingen in andere regelgeving.    
+C.   Bevat wijzigingen in andere regelgeving.  
+
 ### §  II  
 
 ####Wijziging per 1 januari 1993
 
 ### Artikel  VI  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VII  
 
 1.  Voor zover artikel VI aanleiding geeft tot het wijzigen van de bedragen van toelagen, toegekend met toepassing van artikel 19 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1948, die ingevolge het bepaalde in [artikel 13 van de Overgangsregeling Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/overgangsregeling/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003631/README.md) nog worden gehandhaafd, geschiedt zulks door Onze Minister, hoofd van het daarbij betrokken ministerie, met inachtneming van de daarvoor door Onze Minister van Binnenlandse Zaken te geven richtlijnen.   
-2.  Voor zover artikel VI aanleiding geeft tot het wijzigen van bijzondere regelingen, getroffen met toepassing van [artikel 26 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), geschiedt dit bij gemeenschappelijke beschikking van Onze Minister, hoofd van het daarbij betrokken ministerie, en van Onze Minister van Binnenlandse Zaken.   
+2.   Voor zover artikel VI aanleiding geeft tot het wijzigen van bijzondere regelingen, getroffen met toepassing van [artikel 26 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), geschiedt dit bij gemeenschappelijke beschikking van Onze Minister, hoofd van het daarbij betrokken ministerie, en van Onze Minister van Binnenlandse Zaken.  
 
 ### Artikel  VIII  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IX  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  X  
 
-A.     De bij artikel VI, onder B en C, aangebrachte wijzigingen in de bezoldiging van het burgerlijk rijkspersoneel dragen een algemeen karakter.     
-B.      Bevat wijzigingen in andere regelgeving.      
-C.      Bevat wijzigingen in andere regelgeving.         
+A.  De bij artikel VI, onder B en C, aangebrachte wijzigingen in de bezoldiging van het burgerlijk rijkspersoneel dragen een algemeen karakter.   
+B.   Bevat wijzigingen in andere regelgeving.    
+C.   Bevat wijzigingen in andere regelgeving.  
+
 ### Hoofdstuk  II  
 
 ####Toekenning van een eenmalige uitkering in 1992 aan burgerlijk rijkspersoneel en ander personeel
 
 ### Artikel  XI  
 
-1.  Voor de toepassing van dit hoofdstuk wordt verstaan onder: 
+1.  Voor de toepassing van dit hoofdstuk wordt verstaan onder:  
 
-a. de belanghebbenden: 
+a. de belanghebbenden:  
 
 1°. de ambtenaren in de zin van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en zij, voor wie krachtens [artikel 26 van dat besluit](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) een bezoldigingsregeling is vastgesteld;  
 
@@ -96,26 +98,26 @@ a. de belanghebbenden:
 
 9°. de gewezen noodwachters die op grond van het bepaalde in de [artikelen 16](../../../../../../../../wet/intrekkingswet/bb/BWBR0003986/README.md) en [17 van de Intrekkingswet BB](../../../../../../../../wet/intrekkingswet/bb/BWBR0003986/README.md) een wachtgeld of een uitkering genieten.    
 
-b. de berekeningsbasis: 
+b. de berekeningsbasis:  
 
 1°. voor de belanghebbende, genoemd onder *a*.1° tot en met *a*.7°: het salaris, bedoeld in het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), dan wel hetgeen daarmee overeenkomt in andere bezoldigingsregelingen, dat over de maand september 1992 mede met inachtneming van de bepalingen van het [Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) ter zake van vermindering van de bezoldiging in geval van non-activiteit, militaire dienst, buitengewoon verlof, ouderschapsverlof, ziekte of schorsing, dan wel op grond van overeenkomstige bepalingen in andere rechtspositieregelingen, wordt genoten, met dien verstande dat hierbij onder salaris tevens wordt verstaan het zakgeld c.q. de vergoeding bij opleidingen, als bedoeld in de Bezoldigingsregeling leerling-verpleegkundigen en leerling-ziekenverzorgenden 1978 c.q. de [Rechtspositieregeling voor deelnemers aan opleidingen in het kader van het leerlingwezen](../../../../../../../../AMvB/rechtspositieregeling/voor/deelnemers/aan/opleidingen/in/het/kader/van/het/etc/BWBR0003965/README.md), dan wel hetgeen daarmee overeenkomt in andere rechtspositieregelingen;  
 
 2°. voor de belanghebbende, genoemd onder *a*.8° en *a*.9°: het bedrag van het wachtgeld of de uitkering dat met inachtneming van de bepalingen van de van toepassing zijnde ontslaguitkeringsregeling over de maand september 1992 wordt uitgekeerd.       
-2.  De belanghebbende, genoemd in het eerste lid, onder *a*.1° tot en met *a*.7° wordt voor de toepassing van dit hoofdstuk niet als belanghebbende aangemerkt voor de tijd dat hij ingevolge een wettelijke verplichting als militair in werkelijke dienst is voor eerste oefening en in verband daarmee de aan zijn ambt verbonden bezoldiging geniet tot een bedrag, dat gelijk is aan het bedrag van het op hem te verhalen gedeelte van de pensioenbijdrage.   
+2.   De belanghebbende, genoemd in het eerste lid, onder *a*.1° tot en met *a*.7° wordt voor de toepassing van dit hoofdstuk niet als belanghebbende aangemerkt voor de tijd dat hij ingevolge een wettelijke verplichting als militair in werkelijke dienst is voor eerste oefening en in verband daarmee de aan zijn ambt verbonden bezoldiging geniet tot een bedrag, dat gelijk is aan het bedrag van het op hem te verhalen gedeelte van de pensioenbijdrage.  
 
 ### Artikel  XII  
 
 1.  Aan de belanghebbende, genoemd in artikel XI, eerste lid, onder a.1° tot en met a.7°, juncto tweede lid, wordt een eenmalige uitkering verleend ter grootte van 6% van de voor hem geldende berekeningsbasis.   
-2.  Aan de belanghebbende, genoemd in artikel XI, eerste lid, onder a.8° en a.9°, wordt een eenmalige uitkering verleend ter grootte van 5,56% van de voor hem geldende berekeningsbasis, dan wel ter grootte van 6% van die berekeningsbasis indien daaruit het effect van de vakantie-uitkering is verwijderd.   
+2.   Aan de belanghebbende, genoemd in artikel XI, eerste lid, onder a.8° en a.9°, wordt een eenmalige uitkering verleend ter grootte van 5,56% van de voor hem geldende berekeningsbasis, dan wel ter grootte van 6% van die berekeningsbasis indien daaruit het effect van de vakantie-uitkering is verwijderd.  
 
 ### Artikel  XIII  
 
-Hij die na zijn ontslag uit hoofde van ziekte aan [hoofdstuk VI van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), dan wel aan daarmede overeenkomende voorzieningen in andere rechtspositieregelingen, aanspraak kan ontlenen op bezoldiging of loon, wordt voor de toepassing van dit hoofdstuk behandeld alsof hij in dienst is gebleven.  
+Hij die na zijn ontslag uit hoofde van ziekte aan [hoofdstuk VI van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), dan wel aan daarmede overeenkomende voorzieningen in andere rechtspositieregelingen, aanspraak kan ontlenen op bezoldiging of loon, wordt voor de toepassing van dit hoofdstuk behandeld alsof hij in dienst is gebleven. 
 
 ### Artikel  XIV  
 
 1.  Onder ambtelijk inkomen, bedoeld in artikel C 1 van de Algemene burgerlijke pensioenwet, wordt niet mede verstaan de in dit hoofdstuk bedoelde eenmalige uitkering, dan wel de overeenkomstige uitkering in andere rechtspositieregelingen.   
-2.  De in dit hoofdstuk bedoelde eenmalige uitkering wordt aangewezen als een uitkering bedoeld in artikel 4, tweede lid, van de Wet van 17 juli 1923, *Stb.* 364.   
+2.   De in dit hoofdstuk bedoelde eenmalige uitkering wordt aangewezen als een uitkering bedoeld in artikel 4, tweede lid, van de Wet van 17 juli 1923, *Stb.* 364.  
 
 ### Hoofdstuk  III  
 
@@ -123,23 +125,23 @@ Hij die na zijn ontslag uit hoofde van ziekte aan [hoofdstuk VI van het Algemeen
 
 ### Artikel  XV  
 
-De Bezoldigingsregeling leerling-verpleegkundigen en leerling-ziekenverzorgenden 1978 wordt ingetrokken.  
+De Bezoldigingsregeling leerling-verpleegkundigen en leerling-ziekenverzorgenden 1978 wordt ingetrokken. 
 
 ### Artikel  XVI  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Hoofdstuk  IV  
 
-####Enkele wijzigingen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md)
+####Enkele wijzigingen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) 
 
 ### Artikel  XVII  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  XVIII  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Hoofdstuk  V  
 
@@ -147,13 +149,13 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  XIX  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug: 
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug:  
 
 a. tot en met 1 april 1992 voor wat betreft paragraaf I van hoofdstuk I;  
 
 b. tot en met 1 januari 1993 voor wat betreft paragraaf II van hoofdstuk I; en  
 
-c. tot en met 1 september 1992 voor wat betreft hoofdstuk II.    
+c. tot en met 1 september 1992 voor wat betreft hoofdstuk II.   
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

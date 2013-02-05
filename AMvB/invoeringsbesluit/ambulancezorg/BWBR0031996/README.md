@@ -15,43 +15,43 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit zorgverzekering.   
+Wijzigt het Besluit zorgverzekering. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit uitbreiding en beperking werkingssfeer WMG.   
+Wijzigt het Besluit uitbreiding en beperking werkingssfeer WMG. 
 
 ### Artikel  III  
 
-Wijzigt het Besluit personenvervoer 2000.   
+Wijzigt het Besluit personenvervoer 2000.
 
 ### Artikel  IV  
 
-Wijzigt het Besluit rijksbijdragen bijstands- en bestrijdingskosten.   
+Wijzigt het Besluit rijksbijdragen bijstands- en bestrijdingskosten. 
 
 ### Artikel  V  
 
-Wijzigt het Uitvoeringsbesluit WTZi.   
+Wijzigt het Uitvoeringsbesluit WTZi. 
 
 ### Artikel  VI  
 
-Wijzigt het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992.   
+Wijzigt het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992. 
 
 ### Artikel  VII  
 
-Wijzigt het Uitvoeringsbesluit motorrijtuigenbelasting 1994.   
+Wijzigt het Uitvoeringsbesluit motorrijtuigenbelasting 1994. 
 
 ### Artikel  VIII  
 
-Wijzigt het Reglement verkeersregels en verkeerstekens 1990.   
+Wijzigt het Reglement verkeersregels en verkeerstekens 1990. 
 
 ### Artikel  IX  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Tijdelijke wet ambulancezorg](../../../../wet/tijdelijke/wet/ambulancezorg/BWBR0031557/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [Tijdelijke wet ambulancezorg](../../../../wet/tijdelijke/wet/ambulancezorg/BWBR0031557/README.md) in werking treedt. 
 
 ### Artikel  X  
 
-Dit besluit wordt aangehaald als: Invoeringsbesluit ambulancezorg.  
+Dit besluit wordt aangehaald als: Invoeringsbesluit ambulancezorg. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -59,10 +59,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 5 september 2012  
 Beatrix  
 
-De Minister van Volksgezondheid, Welzijn en Sport, 
+De Minister van Volksgezondheid, Welzijn en Sport,  
 E. I. Schippers   
 
 de *negentiende* september 2012 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

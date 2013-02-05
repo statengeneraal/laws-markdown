@@ -6,67 +6,67 @@ Het bestuur van het Hoofdbedrijfschap Ambachten;
 Gelet op [artikel 95, tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
 
 Gezien het advies van de Commissie naaimachinebedrijf;
-Besluit:     
-### §  1  
+Besluit:    
+###§ 1 
 
 ####Begripsbepaling en toepassingsgebied
 
-### Artikel  1  
+###Artikel 1 
 
-In deze verordening wordt verstaan onder: 
+In deze verordening wordt verstaan onder:
 
-a. de ondernemer: degene die een onderneming drijft, dan wel degenen die gezamenlijk een onderneming drijven;  
+a.de ondernemer: degene die een onderneming drijft, dan wel degenen die gezamenlijk een onderneming drijven;
 
-b. de voorzitter: de voorzitter van het Hoofdbedrijfschap Ambachten;  
+b.de voorzitter: de voorzitter van het Hoofdbedrijfschap Ambachten;
 
-c. bestemmingsheffing: heffing die gebaseerd is op [artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten](../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md).    
+c.bestemmingsheffing: heffing die gebaseerd is op [artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten](../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md). 
 
-### Artikel  2  
+###Artikel 2 
 
-Deze verordening is van toepassing op de ondernemers die een onderneming drijven waarin het naaimachinebedrijf wordt uitgeoefend.  
+Deze verordening is van toepassing op de ondernemers die een onderneming drijven waarin het naaimachinebedrijf wordt uitgeoefend. 
 
-### §  2  
+###§ 2 
 
 ####De heffing
 
-### Artikel  3  
+###Artikel 3 
 
-1.  Aan de ondernemers die op of na de dag van inwerkingtreding van deze verordening een onderneming drijven waarin het naaimachinebedrijf wordt uitgeoefend, wordt voor het jaar 2013 een heffing opgelegd ten behoeve van versterking van ondernemerschap en verbetering van de communicatie tussen ondernemers in de branche.   
-2.  De heffing wordt vastgesteld op grondslag van het aantal vestigingen waarin door de ondernemer het naaimachinebedrijf wordt uitgeoefend. De heffing bedraagt € 65,- voor iedere vestiging waarin het naaimachinebedrijf wordt uitgeoefend.   
-3.  In afwijking van het tweede lid, bedraagt de heffing, indien de ondernemer het bedrijf uitsluitend anders dan in een vestiging uitoefent € 65,- per onderneming.   
+1. Aan de ondernemers die op of na de dag van inwerkingtreding van deze verordening een onderneming drijven waarin het naaimachinebedrijf wordt uitgeoefend, wordt voor het jaar 2013 een heffing opgelegd ten behoeve van versterking van ondernemerschap en verbetering van de communicatie tussen ondernemers in de branche. 
+2. De heffing wordt vastgesteld op grondslag van het aantal vestigingen waarin door de ondernemer het naaimachinebedrijf wordt uitgeoefend. De heffing bedraagt € 65,- voor iedere vestiging waarin het naaimachinebedrijf wordt uitgeoefend. 
+3. In afwijking van het tweede lid, bedraagt de heffing, indien de ondernemer het bedrijf uitsluitend anders dan in een vestiging uitoefent € 65,- per onderneming.
 
-### §  3  
+###§ 3 
 
 ####Vermindering van heffing
 
-### Artikel  4  
+###Artikel 4 
 
-1.  Bij cumulatie van onderhavige bestemmingsheffing met een of meer andere aan het Hoofdbedrijfschap Ambachten te betalen bestemmingsheffingen, wordt de heffing tot nihil verminderd, indien de uitoefening van het naaimachinebedrijf kan worden aangemerkt als een nevenactiviteit ten opzichte van die andere bedrijfsuitoefening of bedrijfsuitoefeningen waarvoor een bestemmingsheffing is opgelegd.   
-2.  De vermindering wordt alleen toegepast ten aanzien van de onderneming waarin één persoon alle bedrijven uitoefent waarvoor bestemmingsheffingen zijn opgelegd.   
+1. Bij cumulatie van onderhavige bestemmingsheffing met een of meer andere aan het Hoofdbedrijfschap Ambachten te betalen bestemmingsheffingen, wordt de heffing tot nihil verminderd, indien de uitoefening van het naaimachinebedrijf kan worden aangemerkt als een nevenactiviteit ten opzichte van die andere bedrijfsuitoefening of bedrijfsuitoefeningen waarvoor een bestemmingsheffing is opgelegd. 
+2. De vermindering wordt alleen toegepast ten aanzien van de onderneming waarin één persoon alle bedrijven uitoefent waarvoor bestemmingsheffingen zijn opgelegd.
 
-### Artikel  5  
+###Artikel 5 
 
-Vermindering als bedoeld in artikel 4 wordt slechts verleend op aanvraag. De aanvrager toont ten genoegen van de voorzitter aan dat aan de in het betreffende artikel genoemde voorwaarden wordt voldaan. Een aanvraag wordt binnen 6 weken nadat de heffing is opgelegd bij de voorzitter ingediend.  
+Vermindering als bedoeld in artikel 4 wordt slechts verleend op aanvraag. De aanvrager toont ten genoegen van de voorzitter aan dat aan de in het betreffende artikel genoemde voorwaarden wordt voldaan. Een aanvraag wordt binnen 6 weken nadat de heffing is opgelegd bij de voorzitter ingediend. 
 
-### §  4  
+###§ 4 
 
 ####Overige bepalingen
 
-### Artikel  6  
+###Artikel 6 
 
-De [artikelen 5 tot en met 14 van de Heffingsverordening Hoofdbedrijfschap Ambachten 2013](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2013/BWBR0032779/README.md) zijn van overeenkomstige toepassing.  
+De [artikelen 5 tot en met 14 van de Heffingsverordening Hoofdbedrijfschap Ambachten 2013](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2013/BWBR0032779/README.md) zijn van overeenkomstige toepassing.
 
-### Artikel  7  
+###Artikel 7 
 
-De voorzitter neemt de besluiten op grond van de artikelen 3 en 4.  
+De voorzitter neemt de besluiten op grond van de artikelen 3 en 4. 
 
-### Artikel  8  
+###Artikel 8 
 
-Deze verordening treedt in werking met ingang van de dag na afkondiging in het Verordeningenblad Bedrijfsorganisatie.  
+Deze verordening treedt in werking met ingang van de dag na afkondiging in het Verordeningenblad Bedrijfsorganisatie. 
 
-### Artikel  9  
+###Artikel 9 
 
-Deze verordening wordt aangehaald als: Verordening bestemmingsheffing naaimachinebedrijf 2013. Deze regeling zal met de toelichting in het Verordeningenblad Bedrijfsorganisatie worden geplaatst.  
+Deze verordening wordt aangehaald als: Verordening bestemmingsheffing naaimachinebedrijf 2013. Deze regeling zal met de toelichting in het Verordeningenblad Bedrijfsorganisatie worden geplaatst.
 
 Den Haag 
 7 november 2012   
