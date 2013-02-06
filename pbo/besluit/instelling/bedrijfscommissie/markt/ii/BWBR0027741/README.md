@@ -12,7 +12,7 @@ Besluit:
 
 ### Artikel  1  
 
-Er is een Bedrijfscommissie Markt II. Deze is ingesteld voor de ondernemingen in de marktsector waarin in hoofdzaak activiteiten worden uitgevoerd op het gebied van zorg, welzijn, cultuur, onderwijs, sport dan wel in het kader van overige sociale, culturele en maatschappelijke voorzieningen en belangen.  
+Er is een Bedrijfscommissie Markt II. Deze is ingesteld voor de ondernemingen in de marktsector waarin in hoofdzaak activiteiten worden uitgevoerd op het gebied van zorg, welzijn, cultuur, onderwijs, sport dan wel in het kader van overige sociale, culturele en maatschappelijke voorzieningen en belangen. 
 
 ### Artikel  2  
 
@@ -39,19 +39,19 @@ b. organisaties van werknemers
 
 – 1 lid en 1 plaatsvervangend lid door: De Unie en Federatie Onderwijsbonden CMHF gezamenlijk;  
 
-– 1 lid en 1 plaatsvervangend lid door: Federatie van beroepsorganisaties in de zorg (FBZ), Landelijke vereniging van Artsen in Dienstverband (LAD) en Nieuwe Unie ’91 (NU ’91) gezamenlijk.       
+– 1 lid en 1 plaatsvervangend lid door: Federatie van beroepsorganisaties in de zorg (FBZ), Landelijke vereniging van Artsen in Dienstverband (LAD) en Nieuwe Unie ’91 (NU ’91) gezamenlijk.      
 
 ### Artikel  3  
 
-Dit besluit wordt bekendgemaakt in het Verordeningenblad Bedrijfsorganisatie en de Staatscourant.  
+Dit besluit wordt bekendgemaakt in het Verordeningenblad Bedrijfsorganisatie en de Staatscourant. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van 1 juli 2010.  
+Dit besluit treedt in werking met ingang van 1 juli 2010. 
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als Besluit instelling Bedrijfscommissie Markt II.  
+Dit besluit wordt aangehaald als Besluit instelling Bedrijfscommissie Markt II. 
 
 Den Haag 
 27 mei 2010   

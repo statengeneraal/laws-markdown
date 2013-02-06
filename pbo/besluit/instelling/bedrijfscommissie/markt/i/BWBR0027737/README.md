@@ -12,7 +12,7 @@ Besluit:
 
 ### Artikel  1  
 
-Er is een Bedrijfscommissie Markt I. Deze is ingesteld voor de ondernemingen in de marktsector waarin in hoofdzaak activiteiten worden uitgevoerd die gericht zijn op het produceren en leveren van commerciële producten en diensten. De ondernemingen die vallen binnen de werkingssfeer van de Bedrijfscommissie Markt II vallen niet onder de Bedrijfscommissie Markt I.  
+Er is een Bedrijfscommissie Markt I. Deze is ingesteld voor de ondernemingen in de marktsector waarin in hoofdzaak activiteiten worden uitgevoerd die gericht zijn op het produceren en leveren van commerciële producten en diensten. De ondernemingen die vallen binnen de werkingssfeer van de Bedrijfscommissie Markt II vallen niet onder de Bedrijfscommissie Markt I. 
 
 ### Artikel  2  
 
@@ -31,19 +31,19 @@ b. organisaties van werknemers:
 
 – 2 leden en 2 plaatsvervangende leden door het Christelijk Nationaal Vakverbond;  
 
-– 1 lid en 1 plaatsvervangend lid door de Vakcentrale voor middengroepen en hoger personeel.       
+– 1 lid en 1 plaatsvervangend lid door de Vakcentrale voor middengroepen en hoger personeel.      
 
 ### Artikel  3  
 
-Dit besluit wordt bekendgemaakt in het Verordeningenblad Bedrijfsorganisatie en de Staatscourant.  
+Dit besluit wordt bekendgemaakt in het Verordeningenblad Bedrijfsorganisatie en de Staatscourant. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van 1 september 2010.  
+Dit besluit treedt in werking met ingang van 1 september 2010. 
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als het Besluit instelling Bedrijfscommissie Markt I.  
+Dit besluit wordt aangehaald als het Besluit instelling Bedrijfscommissie Markt I. 
 
 Den Haag 
 27 mei 2010   

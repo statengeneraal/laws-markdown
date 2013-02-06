@@ -48,27 +48,27 @@ Besluit:
 
 18. Het [besluit van 22 december 1999 tot instelling van een bedrijfscommissie voor het Wegvervoer](../../../../../../../pbo/besluit/tot/instelling/van/een/bedrijfscommissie/voor/het/wegvervoer/BWBR0011041/README.md) (RE 31/1999) wordt ingetrokken.  
 
-19. Het [besluit van 22 december 1999 tot instelling van een bedrijfscommissie voor de Woningcorporaties](../../../../../../../pbo/besluit/tot/instelling/van/een/bedrijfscommissie/voor/de/woningcorporaties/BWBR0011037/README.md) (RE 33/1999) wordt ingetrokken.    
+19. Het [besluit van 22 december 1999 tot instelling van een bedrijfscommissie voor de Woningcorporaties](../../../../../../../pbo/besluit/tot/instelling/van/een/bedrijfscommissie/voor/de/woningcorporaties/BWBR0011037/README.md) (RE 33/1999) wordt ingetrokken.   
 
 ### Artikel  2  
 
-Het [Besluit aanwijzing bedrijfschappen als bedrijfscommissie, besluit van 2 december 2002](../../../../../../../pbo/besluit/aanwijzing/bedrijfschappen/als/bedrijfscommissie/BWBR0014370/README.md) (RE 8/2002), laatstelijk gewijzigd bij besluit van 17 december 2003 (RE 11/2003), wordt ingetrokken.  
+Het [Besluit aanwijzing bedrijfschappen als bedrijfscommissie, besluit van 2 december 2002](../../../../../../../pbo/besluit/aanwijzing/bedrijfschappen/als/bedrijfscommissie/BWBR0014370/README.md) (RE 8/2002), laatstelijk gewijzigd bij besluit van 17 december 2003 (RE 11/2003), wordt ingetrokken. 
 
 ### Artikel  3  
 
-Een verzoek om bemiddeling als bedoeld in [artikel 36, derde lid, van de Wet op de ondernemingsraden](../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md), dat in behandeling is bij één van de bedrijfscommissies ingesteld bij de in artikel 1 of artikel 2 genoemde besluiten, wordt vanaf de datum van intrekking van het instellings- of aanwijzingsbesluit van de desbetreffende bedrijfscommissie behandeld door de Bedrijfscommissie Markt I dan wel de Bedrijfscommissie Markt II, afhankelijk van de sector waartoe de betrokken onderneming behoort.  
+Een verzoek om bemiddeling als bedoeld in [artikel 36, derde lid, van de Wet op de ondernemingsraden](../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md), dat in behandeling is bij één van de bedrijfscommissies ingesteld bij de in artikel 1 of artikel 2 genoemde besluiten, wordt vanaf de datum van intrekking van het instellings- of aanwijzingsbesluit van de desbetreffende bedrijfscommissie behandeld door de Bedrijfscommissie Markt I dan wel de Bedrijfscommissie Markt II, afhankelijk van de sector waartoe de betrokken onderneming behoort. 
 
 ### Artikel  4  
 
-Dit besluit wordt bekendgemaakt in het Verordeningenblad Bedrijfsorganisatie en de Staatscourant.  
+Dit besluit wordt bekendgemaakt in het Verordeningenblad Bedrijfsorganisatie en de Staatscourant. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van 1 juli 2010, met uitzondering van artikel 1, vierde tot en met negentiende lid, en artikel 2, die in werking treden met ingang van 1 september 2010.  
+Dit besluit treedt in werking met ingang van 1 juli 2010, met uitzondering van artikel 1, vierde tot en met negentiende lid, en artikel 2, die in werking treden met ingang van 1 september 2010. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als Besluit tot intrekking instellingsbesluiten bedrijfscommissies.  
+Dit besluit wordt aangehaald als Besluit tot intrekking instellingsbesluiten bedrijfscommissies. 
 
 Den Haag 
 27 mei 2010   

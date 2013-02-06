@@ -1,86 +1,99 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Verordening van het Hoofdbedrijfschap Detailhandel van 1 november 2011, houdende vaststelling bestemmingsheffing MKB-sportdetailhandel voor het jaar 2012 (Verordening bestemmingsheffing MKB-sportdetailhandel 2012)
+##Verordening van het Hoofdbedrijfschap Detailhandel van 1 november 2011, houdende vaststelling bestemmingsheffing MKB-sportdetailhandel voor het jaar 2012 (Verordening bestemmingsheffing MKB-sportdetailhandel 2012) 
 
-Het bestuur van het Hoofdbedrijfschap Detailhandel;  
+Het bestuur van het Hoofdbedrijfschap Detailhandel; 
 Gelet op de [artikelen 95, tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
 
 Gezien het advies van de Adviescommissie sportdetailhandel;
-Besluit:     
-### §  1  
+Besluit: 
+###§  1  
 
 ####Begripsbepaling en toepassingsgebied
 
-### Artikel  1  
+Materieel uitgewerkt per 11-01-2013 
+
+###Artikel  1 
+Materieel uitgewerkt per 11-01-2013 
 
 In deze verordening wordt verstaan onder: 
 
-a. midden- en kleinbedrijf: ondernemingen met één of meer verkoopplaatsen waarin hoofdzakelijk de sportdetailhandel wordt uitgeoefend met een maximum van 15 verkoopplaatsen en 100 medewerkers;  
+a.midden- en kleinbedrijf: ondernemingen met één of meer verkoopplaatsen waarin hoofdzakelijk de sportdetailhandel wordt uitgeoefend met een maximum van 15 verkoopplaatsen en 100 medewerkers;
 
-b. een onderneming: een onderneming waarvoor het hoofdbedrijfschap is ingesteld als bedoeld in [artikel 3 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);  
+b.een onderneming: een onderneming waarvoor het hoofdbedrijfschap is ingesteld als bedoeld in [artikel 3 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);
 
-c. de ondernemer: degene die een onderneming drijft dan wel degenen die gezamenlijk een onderneming drijven;  
+c.de ondernemer: degene die een onderneming drijft dan wel degenen die gezamenlijk een onderneming drijven;
 
-d. sportdetailhandel: het aan particulieren verkopen van sportartikelen en sportkleding;  
+d.sportdetailhandel: het aan particulieren verkopen van sportartikelen en sportkleding;
 
-e. ambulante handel: markthandel, straathandel en handel te water;  
+e.ambulante handel: markthandel, straathandel en handel te water;
 
-f. verkoopplaats: iedere plaats waar de detailhandel anders dan in de uitoefening van de ambulante handel wordt uitgeoefend, alsmede elke voor het publiek toegankelijke besloten ruimte waar waren aan particulieren te koop worden aangeboden;  
+f.verkoopplaats: iedere plaats waar de detailhandel anders dan in de uitoefening van de ambulante handel wordt uitgeoefend, alsmede elke voor het publiek toegankelijke besloten ruimte waar waren aan particulieren te koop worden aangeboden;
 
-g. bestemmingsheffing: de heffing die is gebaseerd op [artikel twaalf, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);  
+g.bestemmingsheffing: de heffing die is gebaseerd op [artikel twaalf, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);
 
-h. de voorzitter: de voorzitter van het Hoofdbedrijfschap Detailhandel.    
+h.de voorzitter: de voorzitter van het Hoofdbedrijfschap Detailhandel. 
 
-### Artikel  2  
+###Artikel  2 
+Materieel uitgewerkt per 11-01-2013 
 
 1.  Deze verordening is van toepassing op de ondernemers die: 
 
-a. een onderneming drijven waarin hoofdzakelijk de sportdetailhandel wordt uitgeoefend, en  
+a. een onderneming drijven waarin hoofdzakelijk de sportdetailhandel wordt uitgeoefend, en 
 
-b. behoren tot het midden- en kleinbedrijf.     
+b. behoren tot het midden- en kleinbedrijf. 
 2.  Deze verordening is niet van toepassing op de ondernemers die: 
 
-a. een onderneming drijven waarin de sportdetailhandel uitsluitend in de vorm van ambulante handel wordt uitgeoefend;  
+a. een onderneming drijven waarin de sportdetailhandel uitsluitend in de vorm van ambulante handel wordt uitgeoefend; 
 
-b. een onderneming drijven waarin uitsluitend de detailhandel in kampeerartikelen, wapensport, sportschoenen, detailhandel in boten en vaartuigen, hengelsportartikelen of sportprijzen wordt uitgeoefend.     
+b. een onderneming drijven waarin uitsluitend de detailhandel in kampeerartikelen, wapensport, sportschoenen, detailhandel in boten en vaartuigen, hengelsportartikelen of sportprijzen wordt uitgeoefend.
 
-### §  2  
+###§  2  
 
 ####De bestemmingsheffing
 
-### Artikel  3  
+Materieel uitgewerkt per 11-01-2013 
 
-1.  Aan de ondernemers die een onderneming drijven als bedoeld in artikel 2, eerste lid, van deze verordening, wordt voor het jaar 2012 een bestemmingsheffing opgelegd. Doel van deze bestemmingsheffing is bevordering van een gezonde sociaaleconomische ontwikkeling van de sportdetailhandel door middel van enerzijds het bevorderen van een meer professionele bedrijfsvoering bij ondernemers en werknemers in de branche en anderzijds het uitvoeren van een bewustwordingscampagne.   
+###Artikel  3 
+Materieel uitgewerkt per 11-01-2013 
+
+1.  Aan de ondernemers die een onderneming drijven als bedoeld in artikel 2, eerste lid, van deze verordening, wordt voor het jaar 2012 een bestemmingsheffing opgelegd. Doel van deze bestemmingsheffing is bevordering van een gezonde sociaaleconomische ontwikkeling van de sportdetailhandel door middel van enerzijds het bevorderen van een meer professionele bedrijfsvoering bij ondernemers en werknemers in de branche en anderzijds het uitvoeren van een bewustwordingscampagne. 
 2.  De bestemmingsheffing bestaat uit: 
 
-a. een basisheffing van € 150,- per onderneming; en  
+a. een basisheffing van € 150,- per onderneming; en 
 
-b. een filiaalheffing van € 100,- voor elke tweede en volgende verkoopplaats van de onderneming.     
+b. een filiaalheffing van € 100,- voor elke tweede en volgende verkoopplaats van de onderneming.
 
-### §  3  
+###§  3  
 
 ####Overige bepalingen
 
-### Artikel  4  
+Materieel uitgewerkt per 11-01-2013 
 
-De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2012](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2012/BWBR0031127/README.md) zijn van overeenkomstige toepassing.  
+###Artikel  4 
+Materieel uitgewerkt per 11-01-2013 
 
-### Artikel  5  
+De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2012](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2012/BWBR0031127/README.md) zijn van overeenkomstige toepassing.
 
-Het besluit tot het opleggen van de bestemmingsheffing als bedoeld in artikel 3 en besluiten voortvloeiend uit artikel 4 van deze verordening worden genomen door de voorzitter.  
+###Artikel  5 
+Materieel uitgewerkt per 11-01-2013 
 
-### Artikel  6  
+Het besluit tot het opleggen van de bestemmingsheffing als bedoeld in artikel 3 en besluiten voortvloeiend uit artikel 4 van deze verordening worden genomen door de voorzitter.
 
-Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad Bedrijfsorganisatie.  
+###Artikel  6 
+Materieel uitgewerkt per 11-01-2013 
 
-### Artikel  7  
+Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad Bedrijfsorganisatie.
 
-Deze verordening wordt aangehaald als: Verordening bestemmingsheffing MKB-sportdetailhandel 2012. Deze verordening zal worden afgekondigd in het Verordeningenblad Bedrijfsorganisatie.  
+###Artikel  7 
+Materieel uitgewerkt per 11-01-2013 
+
+Deze verordening wordt aangehaald als: Verordening bestemmingsheffing MKB-sportdetailhandel 2012. Deze verordening zal worden afgekondigd in het Verordeningenblad Bedrijfsorganisatie.
 
 Den Haag 
-1 november 2011   
+1 november 2011 
 
-E.H.M. Bakker-Derks  
+E.H.M. Bakker-Derks 
 voorzitter 
-R.C.B. de Jong  
-secretaris    
+R.C.B. de Jong 
+secretaris  
