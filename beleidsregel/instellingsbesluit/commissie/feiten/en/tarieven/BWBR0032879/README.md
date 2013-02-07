@@ -18,11 +18,11 @@ b. overig strafvorderingsbeleid van het openbaar ministerie inzake (kanton) over
 
 a. de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../../../../wet/wet/mulder/BWBR0004581/README.md), respectievelijk de bijlage daarbij;  
 
-b. het [Besluit OM-afdoening](../../../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md) / [Transactiebesluit 1994](../../../../../../../AMvB/transactiebesluit/1994/BWBR0006664/README.md), respectievelijk de bijlage(n) daarbij.    
+b. het [Besluit OM-afdoening](../../../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md)/[Transactiebesluit 1994](../../../../../../../AMvB/transactiebesluit/1994/BWBR0006664/README.md), respectievelijk de bijlage(n) daarbij.    
 
 3. De advisering als bedoeld onder 1 en 2 betreft vooral: 
 
-a. de feiten die dienen te worden opgenomen in de bijlage van de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../../../../wet/wet/mulder/BWBR0004581/README.md), het [Besluit OM-afdoening](../../../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md) / [Transactiebesluit 1994](../../../../../../../AMvB/transactiebesluit/1994/BWBR0006664/README.md);  
+a. de feiten die dienen te worden opgenomen in de bijlage van de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../../../../wet/wet/mulder/BWBR0004581/README.md), het [Besluit OM-afdoening](../../../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md)/[Transactiebesluit 1994](../../../../../../../AMvB/transactiebesluit/1994/BWBR0006664/README.md);  
 
 b. de omschrijvingen van deze feiten;  
 

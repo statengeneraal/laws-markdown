@@ -15,9 +15,9 @@ Besluit:
 
 a. wet: [Elektriciteitswet 1998](../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);  
 
-b. Minister: de Minister van Economische Zaken;  
+b. *Minister:* de Minister van Economische Zaken, Landbouw en Innovatie;  
 
-c. garantie van oorsprong voor niet-netlevering: een garantie van oorsprong die op een installatie ingevoede elektriciteit betreft;  
+c. garantie van oorsprong voor niet-netlevering: een garantie van oorsprong die op een installatie of een directe lijn ingevoede elektriciteit betreft;  
 
 d. toegelaten meetbedrijf: een meetbedrijf dat op grond van de voorwaarden, bedoeld in [artikel 31, eerste lid, onderdeel b, van de wet](../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), is toegelaten en dat de hoeveelheid elektriciteit meet die afkomstig is van een productie-installatie;  
 
@@ -75,13 +75,11 @@ ii. de inzet bij aardgasexpansie;
 
 iii. het drogen en verwarmen van inputstromen van een productie-installatie voor het opwekken van elektriciteit, inclusief het voorverwarmen van verbrandingslucht;  
 
-iv. het drogen van eindproducten van energieproductie;  
+iv. de inzet voor rookgasreiniging en waterzuivering van een productie-installatie voor het opwekken van elektriciteit;  
 
-v. de inzet voor rookgasreiniging en waterzuivering van een productie-installatie voor het opwekken van elektriciteit;  
+v. de verwarming van een installatie of een onderdeel daarvan, waarmee energie of een energiedrager wordt geproduceerd;  
 
-vi. de verwarming van een installatie of een onderdeel daarvan, waarmee energie of een energiedrager wordt geproduceerd;  
-
-vii. de verwarming van opslagtanks van grondstoffen en producten die gebruikt worden om energie mee op te wekken;    
+vi. de verwarming van opslagtanks van grondstoffen en producten die gebruikt worden om energie mee op te wekken;    
 
 4°. klimaatregeling van koelcellen en industriële koelingstoepasssingen;  
 
@@ -101,7 +99,7 @@ b. gedeeld door het product van:
 
 2°. de calorische waarde van het verwerkte afval en overige brandstoffen.       
 4.  Het gewogen maandelijks rendement van een afvalverbrandingsinstallatie of van een AVI-eenheid bedraagt de uitkomst van: (E <sub>m</sub> *R <sub>m</sub> + E <sub>m-1</sub> *R <sub>m-1</sub> + ...E <sub>m-11</sub> *R <sub>m-11</sub>) / (E <sub>m</sub> + E <sub>m-1</sub> + ...E <sub>m-11</sub>) waarbij E <sub>m</sub> = de hoeveelheid opgewekte elektriciteit in maand m R <sub>m</sub> = het rendement als bedoeld in het derde lid voor maand m E <sub>m-1</sub> = de hoeveelheid opgewekte elektriciteit in de maand voorafgaand aan m R <sub>m-1</sub> = het rendement als bedoeld in het derde lid voor de maand voorafgaand aan m   
-5.  Een producent die een afvalverbrandingsinstallatie instandhoudt en aan wie subsidie op grond van [artikel 72m van de wet](../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 2 van het Besluit stimulering duurzame energieproductie](../../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) is verleend, ontvangt subsidie voor het gewogen maandelijkse rendement.   
+5.  Een producent die een afvalverbrandingsinstallatie instandhoudt en aan wie voor 1 januari 2012 subsidie op grond van [artikel 72m van de wet](../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 2 van het Besluit stimulering duurzame energieproductie](../../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) is verleend, ontvangt subsidie voor het gewogen maandelijkse rendement.   
 
 ### Artikel  1a  
 
@@ -113,7 +111,7 @@ Deze regeling berust op de [artikelen 31, negende lid](../../../../../../../../.
 
 ### Artikel  1b  
 
-1.  De producent die een afvalverbrandingsinstallatie instandhoudt waarvoor subsidie op grond van [artikel 72m van de wet](../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 2 van het Besluit stimulering duurzame energieproductie](../../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) is verleend: 
+1.  De producent die een afvalverbrandingsinstallatie instandhoudt waarvoor voor 1 januari 2012 subsidie op grond van [artikel 72m van de wet](../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 2 van het Besluit stimulering duurzame energieproductie](../../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) is verleend: 
 
 a. draagt er zorg voor dat ten aanzien van zijn installatie iedere vijf jaar een meetprotocol opgesteld wordt, dat voldoet aan de AVI-meetvoorwaarden, opgenomen in de bij deze regeling behorende bijlage 1, en  
 
@@ -143,7 +141,7 @@ b. laat het meetprotocol voor de eerste dag van de kalendermaand waarin het verz
 
 ### Artikel  2a  
 
-1.  De producent die een afvalverbrandingsinstallatie instandhoudt en waarvoor hij subsidie op grond van [artikel 72m van de wet](../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 2 van het Besluit stimulering duurzame energieproductie](../../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) aanvraagt draagt er zorg voor dat de hoeveelheden brandstof die zijn installatie verbruikt en de hoeveelheden elektriciteit en warmte die zijn installatie opwekt, gemeten worden volgens het meetprotocol.   
+1.  De producent die een afvalverbrandingsinstallatie instandhoudt en waarvoor hij voor 1 januari 2012 subsidie op grond van [artikel 72m van de wet](../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 2 van het Besluit stimulering duurzame energieproductie](../../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) heeft aangevraagd draagt er zorg voor dat de hoeveelheden brandstof die zijn installatie verbruikt en de hoeveelheden elektriciteit en warmte die zijn installatie opwekt, gemeten worden volgens het meetprotocol.   
 2.  De producent draagt er zorg voor dat per kalendermaand onder toepassing van het meetprotocol een meetrapport wordt opgesteld, dat: 
 
 a. voldoet aan de AVI-meetvoorwaarden, opgenomen in de bij deze regeling behorende bijlage 1;  
@@ -168,14 +166,16 @@ a. voldoet aan de meetvoorwaarden, opgenomen in de bij deze regeling behorende b
 b. de wijze van totstandkoming van de meetgegevens beschrijft en  
 
 c. geverifieerd wordt door een toegelaten meetbedrijf.     
-3.  De producent legt het meetrapport uiterlijk vier maanden na afloop van het kalenderjaar waarvan de kalendermaand waarop het meetrapport betrekking heeft, deel uitmaakt, over aan de garantiebeheerinstantie.   
-4.  Indien het meetrapport niet of niet tijdig wordt ingediend, stelt de garantiebeheerinstantie de nuttig aangewende warmte over de desbetreffende kalendermaand vast op nul GJ.   
+3.  De producent legt het meetrapport, bedoeld in artikel 3, eerste lid, uiterlijk vier maanden na afloop van het kalenderjaar waarvan de kalendermaand waarop het meetrapport betrekking heeft, deel uitmaakt, over aan de garantiebeheerinstantie.   
+4.  De producent legt het meetrapport, bedoeld in artikel 3, tweede lid, uiterlijk vier maanden na afloop van het kalenderjaar waarop het meetrapport betrekking heeft, over aan de garantiebeheersinstantie.   
+5.  Indien het meetrapport, bedoeld in het derde en vierde lid, niet tijdig wordt ingediend, verlaagt de garantiebeheerinstantie de hoeveelheid nuttig aangewende warmte over het desbetreffende kalenderjaar iedere maand dat de termijn, bedoeld in het derde en vierde lid, wordt overschreden met één twaalfde deel van de in het kalenderjaar nuttig aangewende warmte.   
+6.  Indien het meetrapport, bedoeld in het derde en vierde lid, niet binnen 16 maanden na afloop van het kalenderjaar waarop het meetrapport betrekking heeft aan de garantiebeheerinstantie wordt overlegd, stelt de garantiebeheerinstantie de hoeveelheid hoeveelheid nuttig aangewende warmte over het desbetreffende kalenderjaar vast op nul GJ.   
 
 ### Artikel  3  
 
-1.  Bij productie-installaties met een aansluitwaarde groter dan 3 x 80 A wordt de hoeveelheid opgewekte duurzame elektriciteit iedere kalendermaand gemeten.   
-2.  Bij productie-installaties met een aansluitwaarde gelijk aan of kleiner dan 3 x 80 A geschiedt de meting gelijktijdig met de jaarlijkse bepaling van de meterstanden, tenzij de producent de netbeheerder of het toegelaten meetbedrijf verzoekt iedere kalendermaand te meten.   
-3.  Indien de duurzame elektriciteit jaarlijks wordt gemeten, verdeelt de netbeheerder de meetgegevens in gelijke delen over de twaalf voorafgaande kalendermaanden, tenzij de producent aantoont dat deze meetgegevens op een andere wijze over de twaalf voorafgaande kalendermaanden verdeeld moeten worden.   
+1.  Bij productie-installaties met een aansluitwaarde groter dan 3 x 80 A worden de hoeveelheid opgewekte duurzame elektriciteit of de hoeveelheid nuttig aangewende warmte iedere kalendermaand gemeten.   
+2.  Bij productie-installaties met een aansluitwaarde gelijk aan of kleiner dan 3 x 80 A geschiedt de meting, bedoeld in het eerste lid, jaarlijks en gelijktijdig met de jaarlijkse bepaling van de meterstanden, tenzij de producent de netbeheerder of het toegelaten meetbedrijf verzoekt iedere kalendermaand te meten.   
+3.  Indien de duurzame elektriciteit of nuttig aangewende warmte jaarlijks wordt gemeten, verdeelt de netbeheerder of het toegelaten meetbedrijf de meetgegevens in gelijke delen over de twaalf voorgaande kalendermaanden, tenzij de producent aantoont dat deze meetgegevens op een andere wijze over de twaalf voorafgaande kalendermaanden verdeeld moeten worden.   
 
 ### Artikel  4  
 
@@ -201,7 +201,7 @@ b. de hoeveelheid duurzame elektriciteit die de betreffende productie-installati
 
 ### Artikel  5  
 
-1.  Een garantie van oorsprong heeft betrekking op een hoeveelheid duurzame elektriciteit ter grootte van 1 MWh of een veelvoud daarvan.   
+1.  Een garantie van oorsprong heeft betrekking op een hoeveelheid duurzame elektriciteit ter grootte van 1 MWh.   
 2.  De garanties van oorsprong die de garantiebeheerinstantie boekt overeenkomstig [artikel 77, derde lid, van de wet](../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), hebben betrekking op de duurzame elektriciteit die is opgewekt vanaf de eerste dag van de kalendermaand waarin de producent het verzoek, bedoeld in artikel 2, eerste lid, heeft gedaan, voor zover: 
 
 a. de netbeheerder de aldaar bedoelde vaststelling daadwerkelijk heeft verricht, en  
@@ -226,7 +226,6 @@ f. dat de garantie van oorsprong betrekking heeft op elektriciteit;
 g. een uniek identificatienummer;  
 
 h. de datum en het land van afgifte.     
-6.  Indien de duurzame elektriciteit waarvoor boeking van garanties van oorsprong wordt aangevraagd, is opgewekt in een afvalverbrandingsinstallatie waarvoor de producent subsidie op grond van [artikel 72m van de wet](../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 2 van het Besluit stimulering duurzame energieproductie](../../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) aanvraagt, geeft de garantiebeheerinstantie op de garanties van oorsprong het gewogen maandelijks rendement, de soort afval en de AVI-eenheid aan, met in achtneming van hetgeen is bepaald in artikel 2a, vierde lid, onderdeel b.   
 
 ### Artikel  5a  
 
@@ -264,7 +263,7 @@ c. [artikel 8, eerste lid, onderdeel a, van de Regeling aanwijzing categorieën 
 ### Artikel  8  
 
 1.  Indien in de productie-installatie zuivere biomassa wordt verwerkt, verklaart de producent dat hij door middel van een daartoe geëigende methode aan de hand van bemonstering per partij vaststelt dat het materiaal waaruit de duurzame elektriciteit wordt opgewekt, is aan te merken als zuivere biomassa.   
-2.  In afwijking van het eerste lid, hanteert de producent, indien in de productie-installatie getorreficeerde biomassa wordt verwerkt , een daartoe geëigende methode om vast te stellen dat de biomassa vóór torrefactie is aan te merken als zuivere biomassa.   
+2.  In afwijking van het eerste lid, hanteert de producent, indien in de productie-installatie biomassa die een behandeling heeft ondergaan, zoals pyrolyse, torrefactie of carbonisatie, wordt verwerkt, een daartoe geëigende methode om vast te stellen dat de biomassa vóór de behandeling is aan te merken als zuivere biomassa.   
 3.  Indien in de productie-installatie niet-zuivere biomassa wordt verwerkt, verklaart de producent dat hij door middel van een daartoe geëigende methode aan de hand van bemonstering per partij vaststelt wat het biologisch afbreekbare gedeelte is van de niet-zuivere biomassa waaruit de duurzame elektriciteit wordt opgewekt. Het biologisch afbreekbare gedeelte dient te worden bepaald op grond van de energiebasis met twee decimalen nauwkeurigheid.   
 4.  Indien de duurzame elektriciteit uitsluitend wordt opgewekt door middel van naar haar aard zuivere biomassa of naar zijn aard zuiver biogas, verklaart de producent dat hij gedurende de periode waarop de verklaring betrekking heeft, uitsluitend door middel van naar haar aard zuivere biomassa of naar zijn aard zuiver biogas duurzame elektriciteit zal opwekken.   
 
@@ -313,10 +312,11 @@ b. de wijze van totstandkoming van de meetgegevens beschrijft;
 
 c. geverifieerd wordt door een toegelaten meetbedrijf.     
 3.  Een producent als bedoeld in artikel 1b, derde lid, legt het meetrapport uiterlijk vier maanden na afloop van het kalenderjaar waarop het meetrapport betrekking heeft over aan de garantiebeheerinstanstie.   
+4.  Indien in de productie-installatie naar zijn aard zuiver biogas wordt verwerkt en de producent subsidie ontvangt op grond van [artikel 2 van het Besluit stimulering duurzame energieproductie](../../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), rapporteert de subsidie-ontvanger gelijktijdig met de overlegging van het meetrapport over de ingezette biomassa middels het formulier dat is opgenomen in de bij deze regeling behorende bijlage 5.   
 
 ### Artikel  12a  
 
-1.  Uiterlijk vier maanden na afloop van het kalenderjaar legt de producent, niet zijnde een producent als bedoeld in artikel 1b, derde lid, een assurancerapport over aan de garantiebeheerinstantie dat betrekking heeft op dat kalenderjaar en dat is opgesteld met inachtneming van het onderzoeksprotocol assurancerapport biomassa, opgenomen in de bij deze regeling behorende bijlage 5.   
+1.  Uiterlijk vier maanden na afloop van het kalenderjaar legt de producent, niet zijnde een producent als bedoeld in artikel 1b, derde lid, een assurancerapport van een externe accountant over aan de garantiebeheerinstantie dat betrekking heeft op dat kalenderjaar en dat is opgesteld met inachtneming van het onderzoeksprotocol assurancerapport biomassa, opgenomen in de bij deze regeling behorende bijlage 5.   
 2.  Uit het assurancerapport blijkt eenduidig: 
 
 a. per kalendermaand wat de aard en de verhouding van de in de productie-installatie verwerkte brandstoffen is in honderdste van procenten nauwkeurig;  
@@ -325,18 +325,19 @@ b. of de door de producent op grond van artikel 11, eerste lid, meegedeelde perc
 
 c. of uit de administratie van de producent of uit andere de accountant ter beschikking staande gegevens volgt dat er gedurende het afgelopen jaar in overeenstemming is gehandeld met de overgelegde verklaring, bedoeld in artikel 11, derde lid.     
 3.  Ten behoeve van het bepalen van de gegevens, bedoeld in het tweede lid, gaat de accountant na of een juiste toepassing is gegeven aan de geëigende methode, bedoeld in de artikelen 8 tot en met 10.   
+4.  Indien in de productie-installatie naar zijn aard zuiver biogas wordt verwerkt en de producent subsidie ontvangt op grond van [artikel 2 van het Besluit stimulering duurzame energieproductie](../../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), rapporteert de subsidie-ontvanger gelijktijdig met de overlegging van het assurancerapport over de ingezette biomassa middels het formulier dat is opgenomen in de bij deze regeling behorende bijlage 5.   
 
 ### Artikel  13  
 
 1.  Indien de overeenkomstig artikel 11, eerste lid, meegedeelde percentages afwijken van de percentages die uit het meetrapport of het assurancerapport blijken, corrigeert de garantiebeheerinstantie het ten gevolge van deze afwijking ontstane verschil door garanties van oorsprong bij te boeken op of af te boeken van de desbetreffende rekening.   
 2.  Indien het in artikel 12, derde lid of artikel 12a, eerste lid, bedoelde tijdstip van indiening van het meetrapport of het assurancerapport wordt overschreden, boekt de garantiebeheerinstantie in de komende periode garanties van oorsprong af met toepassing van de formule: hoeveelheid af te boeken garanties van oorsprong = [DE/KM * OT] / 1 MWh, waarbij: DE = de hoeveelheid duurzame elektriciteit, opgewekt in de periode waarop het meetrapport of het assurancerapport betrekking heeft; KM = aantal kalendermaanden in die periode; OT = aantal overschrijdingstijdvakken van een dag tot en met een maand.   
-3.  Indien het meetrapport of het assurancerapport niet voldoet aan de vereisten, bedoeld in artikel 12, eerste en tweede lid of artikel 12 a, tweede en derde lid, geeft de garantiebeheerinstantie de producent vier weken de tijd om het meetrapport of het assurancerapport alsnog aan deze eisen te laten voldoen. Indien de producent hieraan geen gehoor geeft, merkt de garantiebeheerinstantie de in de desbetreffende periode opgewekte elektriciteit aan als niet-duurzaam. De garantiebeheerinstantie boekt de ten onrechte geboekte garanties van oorsprong af van de desbetreffende rekening.   
+3.  Indien het meetrapport of het assurancerapport niet voldoet aan de vereisten, bedoeld in artikel 12, eerste en tweede lid of artikel 12 a, tweede en derde lid, geeft de garantiebeheerinstantie de producent vier weken de tijd om het meetrapport of het assurancerapport alsnog aan deze eisen te laten voldoen. Indien de producent hieraan geen gehoor geeft, boekt de garantiebeheerinstantie garanties van oorsprong af met toepassing van de in het tweede lid opgenomen formule.   
 
 ### Artikel  14  
 
-1.  Indien duurzame elektriciteit wordt opgewekt door middel van niet-zuivere biomassa in een afvalverbrandingsinstallatie gaat de garantiebeheerinstantie uit van het percentage, bedoeld in het tweede lid. De artikelen 8 tot en met 13 zijn in dat geval niet van toepassing.   
-2.  De Minister stelt jaarlijks uiterlijk op 1 december ten behoeve van het daaropvolgende kalenderjaar een percentage vast, dat uitdrukt welk gedeelte van de totale hoeveelheid elektriciteit die wordt opgewekt door middel van niet-zuivere biomassa in een afvalverbrandingsinstallatie, duurzame elektriciteit is.   
-3.  Indien de garantiebeheerinstantie constateert dat in een afvalverbrandingsinstallatie of in een AVI-eenheid substantiële hoeveelheden homogene afvalstromen worden verwerkt met een substantieel ander percentage dan het percentage bedoeld in het tweede lid of dat er substantiële hoeveelheden fossiele brandstoffen worden gebruikt, stelt de garantiebeheerinstantie de minister hiervan op de hoogte. In afwijking van het tweede lid kan de minister voor die afvalverbrandingsinstallatie of die AVI-eenheid het percentage vaststellen dat uitdrukt welk gedeelte van de totale hoeveelheid elektriciteit die wordt opgewekt door middel van die homogene afvalstromen, duurzame elektriciteit is.   
+1.  Indien duurzame elektriciteit of warmte wordt opgewekt door middel van huishoudelijk afval of vergelijkbaar bedrijfsafval in een afvalverbrandingsinstallatie gaat de garantiebeheerinstantie uit van het percentage, bedoeld in het tweede lid. De artikelen 8 tot en met 13 zijn in dat geval niet van toepassing.   
+2.  De Minister stelt jaarlijks uiterlijk op 1 december ten behoeve van het daaropvolgende kalenderjaar een percentage vast, dat uitdrukt welk gedeelte van de totale hoeveelheid elektriciteit die wordt opgewekt door middel van huishoudelijk afval of vergelijkbaar bedrijfsafval in een afvalverbrandingsinstallatie, duurzame elektriciteit is.   
+3.  Indien de garantiebeheerinstantie constateert dat in een afvalverbrandingsinstallatie of in een AVI-eenheid waarin duurzame elektriciteit wordt opgewekt door middel van huishoudelijk afval of vergelijkbaar bedrijfsafval, substantiële hoeveelheden homogene afvalstromen worden verwerkt met een substantieel ander percentage dan het percentage bedoeld in het tweede lid of dat er substantiële hoeveelheden fossiele brandstoffen worden gebruikt, stelt de garantiebeheerinstantie de minister hiervan op de hoogte. In afwijking van het tweede lid kan de minister voor die afvalverbrandingsinstallatie of die AVI-eenheid het percentage vaststellen dat uitdrukt welk gedeelte van de totale hoeveelheid elektriciteit die wordt opgewekt door middel van die homogene afvalstromen, duurzame elektriciteit is.   
 
 ### §  6  
 
@@ -362,6 +363,10 @@ d. de hoeveelheid en soorten duurzame elektriciteit waarvoor garanties van oorsp
 
 ####Overgangs- en slotbepalingen
 
+### Artikel  18  
+
+Een producent als bedoeld in artikel 1b, derde lid, beschikt uiterlijk 1 januari 2012 over een meetprotocol, dat voldoet aan de meetvoorwaarden, opgenomen in bijlage 4, en dat is goedgekeurd door een toegelaten meetbedrijf. Indien de producent voor de kalenderjaren voor 2012 geen meetrapport als bedoeld in artikel 12, tweede lid, kan overleggen is artikel 12a van overeenkomstige toepassing, met dien verstande dat het assurancerapport over het kalenderjaar 2010 uiterlijk 1 oktober 2011 wordt overgelegd.  
+
 ### Artikel  19  
 
 De [Regeling groencertificaten Elektriciteitswet 1998](../../../../../../../../../ministeriele-regeling/regeling/groencertificaten/elektriciteitswet/1998/BWBR0012463/README.md) wordt ingetrokken.  
@@ -384,13 +389,252 @@ L.J.Brinkhorst
 
 ### Bijlage  1  
 
-Ligt ter inzage bij de netbeheerder van het landelijk hoogspanningsnet te Arnhem.  
+####behorende bij artikel 1b, eerste lid, onderdeel a , van de Regeling garanties van oorsprong voor duurzame elektriciteit
+
+####AVI-MEETVOORWAARDEN
+
+####Bijlage 1 bij artikel 1b, eerste lid, onderdeel a , van de Regeling garanties van oorsprong voor duurzame elektriciteit
+
+### 1  
+
+####DEFINITIES
+
+1.1. Meten: het vaststellen en registreren van de hoeveelheid energie die over een kalendermaand de systeemgrens van de AVI-eenheid is gepasseerd.  
+
+1.2. Meetgegeven: het resultaat van het meten voor één vorm van energie. Er is ten minste één meetgegeven van elk van de afzonderlijke energievormen, te weten brandstof, elektriciteit en warmte. Indien een energievorm op meer dan één punt op de systeemgrens wordt gemeten, zullen er ook meer meetgegevens voor die energievorm zijn.  
+
+1.3. Bemetering: het geheel van alle meetinrichtingen en systemen voor dataopslag en datatransmissie dat nodig is om alle energie die de systeemgrens van de AVI-eenheid passeert, te meten en te waarborgen.  
+
+1.4. Meetinrichting: het totaal van onderling samenhangende meters en meetmiddelen die nodig zijn om een hoeveelheid energie te meten. Er is ten minste één meetinrichting voor het meten van elk van de afzonderlijke energievormen, te weten brandstof, elektriciteit en warmte.  
+
+1.5. Meter: een toestel dat één parameter meet, nodig voor het vaststellen van de hoeveelheid energie.  
+
+1.6. Meetmiddel: een onderdeel van de meetinrichting, nodig voor het meten, anders dan een meter.  
+
+1.7. Systeemgrens: een fictieve gesloten omhulling van de AVI-eenheid die de AVI-eenheid onderscheidt van de andere AVI-eenheden binnen het bedrijf.  
+
+1.8. Brandstof: alle afvalstoffen die in een afvalverbrandingsinstallatie gebruikt worden, alsmede de overige gebruikte brandstoffen  
+
+1.9. Calorische waarde: de onderste verbrandingswaarde (stookwaarde) van de brandstof    
+
+### 2  
+
+####ALGEMENE EISEN
+
+### *Meetprotocol* 
+
+2.1. Het meetprotocol van de afvalverbrandingsinstallatie bevat ten minste de volgende elementen: 
+
+a. beschrijving van de verschillende componenten van de afvalverbrandingsinstallatie, inclusief de eventuele afzonderlijke AVI-eenheden en de verschillende hulpinstallaties daarbij;  
+
+b. beschrijving en schets van de systeemgrens of systeemgrenzen van de AVI-eenheden waaruit de afvalverbrandingsinstallatie bestaat zoals uitgewerkt in hoofdstuk 3;  
+
+c. beschrijving en schets van de bemetering van elk van de AVI-eenheden;  
+
+d. beschrijving van de meters en meetmiddelen van elk van de meetinrichtingen;  
+
+e. beschrijving van het onderhoud van elk van de meetinrichtingen;  
+
+f. beschrijving van de apparatuur voor de opslag en de verwerking van de gegevens afkomstig van de meetinrichtingen;  
+
+g. beschrijving van de onnauwkeurigheid van elk van de meetinrichtingen;  
+
+h. beschrijving van de borging van de kwaliteit van de metingen;  
+
+i. beschrijving van de wijze van reparatie van meetgegevens en alternatieve meetmethoden in geval van storing van de meetinrichting;  
+
+j. beschrijving van de borging van de kwaliteit van de verwerking van de gegevens afkomstig van de meetinrichtingen;  
+
+k. beschrijving van de frequentie van ijking van elk van de meetinrichtingen;  
+
+l. Beschrijving van de berekening van de drie per AVI-eenheid geaggregeerde energiehoeveelheden, die in de formule, bedoeld in artikel 1, derde lid, van de Regeling garanties van oorsprong voor duurzame elektriciteit moeten worden gebruikt ter bepaling van het rendement.     
+### *Administratie* 
+
+2.2. Bij het meetprotocol behoort een administratie waarin per meetinrichting de volgende gegevens worden geregistreerd: 
+
+a. fabrikaat, type, fabrieksnummer en bouwjaar van de geïnstalleerde meetinrichtingen, meters en meetmiddelen;  
+
+b. kalibratiecertificaten van de meetinrichting en de meters en meetmiddelen daarvan;  
+
+c. het jaar waarin de meetinrichting is geïnstalleerd dan wel voor het laatst is gereviseerd;  
+
+d. het soort zegel waarmee de meetinrichting is verzegeld, dan wel de wijze van borging die voor de meetinrichting is aangebracht;  
+
+e. het jaar en de maand, waarin de meetinrichting voor het laatst is gecontroleerd;  
+
+f. het jaar en de maand, waarin de meetinrichting voor het laatst is geijkt;  
+
+g. de resultaten van de aan de meetinrichting uitgevoerde controles en ijkingen;  
+
+h. een overzicht van de functionarissen die bevoegd zijn metingen uit te voeren en meetinrichtingen te onderhouden respectievelijk te beheren.   De producent is verantwoordelijk voor het actueel houden van deze administratie.   
+### *Onzekerheid* 
+
+2.3. De onzekerheid van een meetgegeven wordt berekend uit de onnauwkeurigheden van de afzonderlijke meetinrichtingen op de wijze als beschreven in de ‘Guide to the expression of uncertainty in measurement’ (uitgave van BIPM, IEC, IFCC, ISO, IUPAC, IUPAP en OIML; International Organization for Standardization, Geneva, 1995, ISBN 92-67-10188-9).   
+### *Meetrapport* 
+
+2.4. Het meetrapport bevat voor elk van de AVI-eenheden tenminste de meetgegevens van het brandstofverbruik, de totale hoeveelheid netto opgewekte elektriciteit, de netto opgewekte warmte, het aantal draaiuren, en het rendement van de afvalverbrandingsinstallatie in het geheel en de AVI-eenheden afzonderlijk. Indien er (hulp)installaties buiten de systeemgrenzen van de AVI-eenheden aanwezig zijn, dan dienen deze naar rato van de energie-output van de AVI-eenheden te worden toegerekend aan die eenheden.  
+
+2.5. Het meetrapport bevat een samenvatting, bestaande uit de geaggregeerde meetgegevens, die in de formule, bedoeld in artikel 1, derde lid van de Regeling garanties van oorsprong voor duurzame elektriciteit moeten worden gebruikt  
+
+2.6. Indien aardgas als brandstof wordt gebruikt, wordt de hoeveelheid aardgas gerapporteerd in kubieke meters van standaard Groningen-kwaliteit (met een energie-inhoud van 35,17 MJ/Nm <sup>3</sup>) onder normaalcondities. De omrekening van de gemeten hoeveelheid aardgas naar aardgas van standaard Groningen-kwaliteit geschiedt aan de hand van de feitelijke energie-inhoud van het gebruikte aardgas, zoals de leverancier deze bij de facturering van het aardgas aan de producent opgeeft. Het meetrapport bevat een opgave van de gemeten hoeveelheid aardgas, de door de leverancier opgegeven energie-inhoud van het aardgas en de omgerekende hoeveelheid aardgas van standaard Groningen-kwaliteit.  
+
+2.7. In het meetrapport wordt tevens vermeld, voor zover van toepassing, 
+
+a. storingen van meetinrichtingen en daarmee samenhangende reparatie van meetgegevens;  
+
+b. storingen in andere onderdelen van de bemetering en de gevolgen daarvan voor de betrouwbaarheid van de meetgegevens,  
+
+c. dat meetgegevens door middel van alternatieve meting zijn bepaald;  
+
+d. correctie van meetgegevens, en  
+
+e. wijzigingen in installatie, bemetering en andere omstandigheden die van belang kunnen zijn voor het bepalen van de hoeveelheid AVI-certificaten.    
+
+2.8. Het meetrapport bevat voorts een verklaring dat de meetgegevens zijn totstandgekomen door onverkorte toepassing van het meetprotocol.   
+### *Storingen* 
+
+2.9. De meetgegevens van een meetinrichting, die door een storing niet langer functioneert of niet langer voldoet aan de gestelde meeteisen, mogen voor een periode van maximaal vier werkdagen nadat de storing is opgemerkt worden berekend uit controlemetingen.  
+
+2.10. Indien de storing niet binnen vier werkdagen verholpen is, kan de producent meten volgens de in hoofdstuk 5 beschreven methode en procedure.  
+
+2.11. Indien een storing is opgetreden, wordt dit vermeld in het meetrapport over de desbetreffende kalendermaand. Hierbij wordt aangegeven welke meetgegevens het betreft en op welke wijze de reparatie is aangebracht.   
+### *Eisen aan meetinrichtingen en meters* 
+
+2.12. Het meten van de hoeveelheden energie geschiedt volgens algemeen geaccepteerde comptabele meetinrichtingen.  
+
+2.13. Voor zover een meetinrichting of meter onder de IJkwet valt, zijn deze meetvoorwaarden niet van toepassing ten aanzien van het (de) onderwerp(en) dat (die) voor die meetinrichting of meter in de IJkwet word(t)(en) geregeld.  
+
+2.14. De meters en meetmiddelen voldoen aan de typekeuringseisen van de voor die meters en meetmiddelen van toepassing zijnde EN-normen of daarmee vergelijkbare nationale normen. Het bewijs van typegoedkeuring is verstrekt conform de IJkwet of door een organisatie die gecertificeerd is conform NEN-ISO 17025.  
+
+2.15. De capaciteit, het ontwerp en de aanleg van de meetinrichtingen is in overeenstemming met de maximale hoeveelheden energie die de AVI-eenheid kan consumeren respectievelijk produceren.  
+
+2.16. Plaatsing van de meters voldoet aan de plaatsingsvoorschriften die onderdeel uitmaken van de genoemde normen en aangevuld met de plaatsingsvoorschriften van de fabrikant van de meter of meetmiddel.  
+
+2.17. Elk van de meters en de meetmiddelen is geborgd dan wel verzegeld. De borging is zodanig dat een meting niet kan worden beïnvloed, zonder dat dit duidelijk gesignaleerd wordt. De verzegeling is zodanig dat een meting niet kan worden beïnvloed zonder de verzegeling zichtbaar te verbreken.  
+
+2.18. De meetinrichting wordt zodanig onderhouden dat deze voortdurend aan deze meetvoorwaarden voldoet.    
+
+### 3  
+
+####SYSTEEMGRENS
+
+3.1. De systeemgrens omsluit één AVI-eenheid van een afvalverbrandingsinstallatie.  
+
+3.2. Op de systeemgrens van de AVI-eenheid worden alle vormen van energie-input en energie-output gemeten. Indien er (hulp)installaties buiten de systeemgrenzen van de AVI-eenheden aanwezig zijn, dan dienen deze naar rato van de energie-output van de AVI-eenheden te worden toegerekend aan die eenheden.  
+
+3.3. Alle onderdelen van de AVI-eenheid bevinden zich binnen de systeemgrens.  
+
+3.4. Niet aan de AVI-eenheid gerelateerde systemen die elektriciteit of warmte opwekken vallen buiten de systeemgrens.  
+
+3.5. De consumptie van elektriciteit of warmte van systemen die zich binnen de systeemgrens bevinden, wordt niet gemeten.  
+
+3.6. Voor elke AVI-eenheid wordt een schema opgesteld met daarop aangegeven de systeemgrens, de energiestromen die de systeemgrens passeren en voor elk van deze energiestromen de meetinrichtingen die zich op de systeemgrens van de AVI-eenheid bevinden.  
+
+3.7. Voor de gehele afvalverbrandingsinstallatie wordt in een schets aangegeven waarop de systeemgrenzen van de AVI-eenheden in onderling verband zijn aangegeven.    
+
+### 4  
+
+####NAUWKEURIGHEIDSEISEN AAN MEETINRICHTINGEN EN METERS
+
+### *Brandstof* 
+
+4.1. Elke brandstof die in de AVI-eenheid wordt verbruikt, wordt afzonderlijk gemeten.  
+
+4.2. Het volume aardgas of een ander gas wordt gemeten en naar normaalcondities herleid met een meetinrichting die voldoet aan de IJkregeling gasmeters, waarbij voor balgengasmeters de eisen voor nauwkeurigheidsklasse I gelden.  
+
+4.3. De hoeveelheid kolen wordt gemeten op basis van weging dan wel op basis van de inkoop en voorraadbalans, met een maximaal toelaatbare afwijking van 1,0%, zoals bepaald in ISO 9411-1 (monstername voor de bepaling van de onderste verbrandingswaarde).  
+
+4.4. De hoeveelheid vloeibare brandstof wordt gemeten door middel van een meetinrichting die voldoet aan de IJkregeling vloeistofmeters en vloeistofmeetinstallaties, waarbij de eisen voor klasse 1.0 gelden.  
+
+4.5. De hoeveelheid andere brandstof wordt bepaald volgens een algemeen geaccepteerde comptabele meting, met een maximaal toelaatbare afwijking van 1,0%.   
+### *Elektriciteit* 
+
+4.6. Alle hoeveelheden door de afvalverbrandingsinstallatie opgewekte elektriciteit worden bepaald met een meetinrichting die voldoet aan de bepalingen met betrekking tot de nauwkeurigheidseisen die de Meetcode Elektriciteit stelt voor een meetinrichting op een aansluiting.   
+### *Warmte* 
+
+4.7. De hoeveelheid warmte, getransporteerd als warm water, wordt gemeten met een meetinrichting die voldoet aan die voldoet aan EN 1434 sectie 1, klasse 1, dan wel een vergelijkbare norm.  
+
+4.8. De hoeveelheid warmte, getransporteerd als stoom en eventueel verminderd met retourcondensaat, wordt gemeten met een meetinrichting die voldoet aan norm ISO 5167-1 of aan een vergelijkbare norm. Voor een stoomdebiet van 50% tot 100% van het meetbereik van de meetinrichting bedraagt de maximaal toelaatbare afwijking van de meting 2% van de volle schaal van de meetinrichting. Voor een stoomdebiet van minder dan 50 % van het meetbereik van de meetinrichting bedraagt de maximaal toelaatbare afwijking van de meting 4% van de meetwaarde. De temperatuur wordt gemeten met een weerstandsthermometer die voldoet aan norm IEC-751, nauwkeurigheidsklasse B, een thermokoppel die voldoet aan norm IEC-584, nauwkeurigheidsklasse 2, of een meter die voldoet aan een vergelijkbare norm.   
+### *Bagatelbepaling* 
+
+4.9. Voor ten hoogste 2,5% van de per energievorm in totaal gemeten hoeveelheid energie, kunnen de maximaal toelaatbare afwijkingen ten hoogste tweemaal zoveel bedragen als de volgens de voorgaande bepalingen van dit hoofdstuk voorgeschreven maximaal toelaatbare afwijkingen.    
+
+### 5  
+
+####ALTERNATIEVE METING
+
+5.1. De producent kan een meetgegeven via een alternatieve meting bepalen, indien meten met meetinrichtingen als bedoeld in hoofdstuk 4 niet mogelijk is omdat: 
+
+a. geen goede meting mogelijk is van de energiehoeveelheid,  
+
+b. het plaatsen van een meetinrichting tot aantasting van de veiligheid van de installatie zou leiden,  
+
+c. het plaatsen of verbeteren van een meetinrichting tot onevenredig hoge kosten zou leiden, of  
+
+d. een meetinrichting in storing is geraakt als bedoeld onder 2.10 tot en met 2.12.    
+
+5.2. De alternatieve meting voldoet aan de hieronder genoemde voorwaarden.  
+
+5.3. De producent verstrekt in het meetprotocol een uitvoerige motivatie voor het afwijken van hoofdstuk 4, waarin tenminste wordt opgenomen: 
+
+a. een beschrijving van de technische onmogelijkheid om hoofdstuk 4 toe te passen, of  
+
+b. de overwegingen omtrent de veiligheid van de installatie op grond waarvan hoofdstuk 4 niet toegepast kan worden, of  
+
+c. een onderbouwde raming van de kosten die het aanpassen van de betrokken meetinrichting aan het toepassen van hoofdstuk 4 zouden vergen, en  
+
+d. de onnauwkeurigheid die bij toepassing van hoofdstuk 4 bereikt zou zijn, en  
+
+e. de onnauwkeurigheid die bij toepassing van de alternatieve meting bereikt zal worden.    
+
+5.4. De wijze van het bepalen van de meetgegevens door middel van alternatieve meting wordt nauwkeurig vastgelegd in het meetprotocol voor de AVI-installatie en wordt voorafgaand aan de toepassing daarvan goedgekeurd door een gecertificeerd meetbedrijf.  
+
+5.5. De alternatieve meting gebruikt geen kentallen of andere gegevens die het meten van de daadwerkelijke hoeveelheid energie beïnvloeden.  
+
+5.6. De onnauwkeurigheid van een meetgegeven, vastgesteld op grond van alternatieve meting, is in beginsel gelijk aan of lager dan de onnauwkeurigheid die hoofdstuk 4 ten aanzien van de desbetreffende meting vereist.  
+
+5.7. Indien de onnauwkeurigheid van een meetgegeven, vastgesteld op grond van alternatieve meting, hoger is dan de onnauwkeurigheid die hoofdstuk 4 ten aanzien van de desbetreffende meting vereist, wordt het opgegeven meetgegeven als volgt gecorrigeerd, 
+
+a. voor energie die aan de AVI-eenheid wordt toegevoerd: de meetwaarde wordt vermeerderd met het verschil tussen de feitelijke onnauwkeurigheid en de vereiste onnauwkeurigheid en  
+
+b. voor energie die de AVI-eenheid produceert: de meetwaarde wordt verminderd met het verschil tussen de feitelijke onnauwkeurigheid en de vereiste onnauwkeurigheid.    
+
+5.8. De wijze waarop de correctie volgens 5.7 wordt aangebracht, wordt beschreven in het meetprotocol.  
+
+5.9. Zowel het oorspronkelijke meetgegeven als het meetgegeven na de correctie volgens 5.7 wordt in het meetrapport opgenomen.    
+
+### 6  
+
+####ITERATIEVE BEREKENING DIE MEDE GEBRUIKT MAAKT VAN DE INDIRECTE METHODE
+
+6.1. De iteratieve berekening is een ‘bijzondere alternatieve meting’ zoals bedoeld in hoofdstuk 5, die moet voldoen aan alle punten genoemd in hoofdstuk 5.  
+
+6.2. De toegevoerde energie uit de brandstof is veelal niet nauwkeurig meetbaar. Indien de producent om deze reden gebruik maakt van een alternatieve meetmethode zoals in hoofdstuk 5 omschreven zal de garantiebeheerinstantie de opgegeven hoeveelheid brandstof en calorische waarde van de brandstof controleren met behulp van de in artikel 6._ opgenomen berekening. Deze berekening is uit te voeren overeenkomstig de norm EN 12952-15:2003.  
+
+6.3. Ter bepaling van het product van de massa van het in de afvalverbrandingsinstallatie of de AVI-eenheid per kalendermaand verwerkte afval en overige brandstoffen, en de calorische waarde van het verwerkte afval en overige brandstoffen, wordt de volgende formule gehanteerd: Qtoegevoerd = Qafgevoerd QB + QL + Qhulp = QN + QRG + QF + QS + QSTR + QCO QB =[GJ] = QN + QRG + QF + QS + QSTR + QCO- QL – Qhulp Met: QB = de met de brandstof toegevoerde energie QN = de nuttig door de ketel geproduceerde energie QRG = de met de rookgassen afgevoerde energie verliezen QF = de met de vlieg- en ketel as afgevoerde energie verliezen QS = de met de slak afgevoerde energie verliezen QSTR = de door straling optredende energie verliezen QCO = het door onvolledige verbranding optredende energie verlies QL = de middels voelbare warmte in de lucht toegevoerde energie Qhulp = de aan hulpwerktuigen binnen de systeemgrens toegevoerde energie Teneinde de controle door de garantiebeheerinstantie mogelijk te maken dienen de bovenstaande grootheden op overzichtelijke en inzichtelijke wijze te worden gerapporteerd in de maandelijkse meetrapporten geverifieerd door het toegelaten meetbedrijf. Tevens dient onder andere het volgende inzichtelijk te worden: de hoeveelheden die over de meetbrug zijn binnengekomen en in de bunker zijn opgeslagen, hoe deze hoeveelheden zijn verdeeld over de AVI-eenheden en in welke mate de voorraadverschillen in de bunker de hoeveelheden die naar de AVI-eenheden worden toegevoerd, bepalen.  
+
+6.4. Voor bovenstaande berekening zijn de volgende normen van toepassing:  
+
+| Norm  | Omschrijving  | Uitgave  |
+|:---|:---|:---|
+| EN 12952  Part 15  | Water-tube boilers and auxiliary installations Acceptance tests  | 2003  |
+| ISO 5167  Part 1 t/m 4  | Measurements of flows by means of pressure differential devices  | 2003  |
+| VDI 2048  | Messunsicherheiten bei Abnahmemessungen  Blatt 1 grundlagen  | 2000-10  |
+| IAPWS-IF97  | Properties of water and steam  | 1997  |
+| FDBR-richtlinie  | Abnahmeversuche an Abfallverbrennungsanlagen  Mit Rostfeurungen  | 04/2000  |
+| Slakbemonstering volgens:  |
+| EN 14899:2005  | Characterization of waste – Sampling of waste materials  Framework for the preparation and application of a Sampling Plan  | --- |
+| of volgens de NEN 7300 serie  |
+| Slak analyse volgens:  |
+| EWAG  | V4002 Onverbrand percentage in slak  | --- |
+| EWAG  | V4004 percentage verteerbaar in slak  | --- |
+| Vliegas Onverbrand bepaling vliegas  |
 
 ### Bijlage  2  
 
-####behorende bij artikel 2, eerste lid , van de regeling garanties van oorsprong voor duurzame elektriciteit
+####behorende bij artikel 2, eerste lid , van de Regeling garanties van oorsprong voor duurzame elektriciteit
 
-####Verzoek tot vaststelling van een productie-installatie voor de opwekking van duurzame elektriciteit en mededeling van meetgegevens omtrent duurzame elektriciteit
+####VERZOEK TOT VASTSTELLING VAN EEN PRODUCTIE-INSTALLATIE VOOR DE OPWEKKING VAN DUURZAME ELEKTRICITEIT EN MEDEDELING VAN MEETGEGEVENS OMTRENT DUURZAME ELEKTRICITEIT
 
 ####Bijlage 2 bij artikel 2, eerste lid , van de Regeling garanties van oorsprong voor duurzame elektriciteit
 
@@ -416,11 +660,9 @@ g. Faxnummer:
 
 h. E-mail adres:  
 
-i. Inschrijfnummer Kamer van Koophandel, te ............:  
+i. Inschrijfnummer Kamer van Koophandel, te .....................:  
 
-j. BSN-nummer:  
-
-k. SBI-code * *niet verplicht* *:    
+j. BSN-nummer:    
 
 ### 2  
 
@@ -450,7 +692,7 @@ h. EAN-code van de productie-installatie waarop dit verzoek tot vaststelling bet
 
 ####Typegegevens productie-installatie.
 
-*Kruis aan om wat voor soort installatie het gaat bij deze aanvraag. Er is slechts één antwoord mogelijk.*  
+Kruis aan om wat voor soort installatie het gaat bij deze aanvraag. Er is slechts één antwoord mogelijk. 
 
 a. De aanvraag betreft een productie-installatie voor opwekking van duurzame elektriciteit door middel van: 
 
@@ -468,7 +710,9 @@ a. De aanvraag betreft een productie-installatie voor opwekking van duurzame ele
 
 0 afvalverbranding  
 
-0 verwerking van biomassa   Indien uw aanvraag een productie-installatie voor de opwekking van duurzame elektriciteit door middel van biomassa betreft, welke soort brandstof wordt ingezet? 
+0 verwerking van biomassa    
+
+b. Indien uw aanvraag een productie-installatie voor de opwekking van duurzame elektriciteit door middel van biomassa betreft, welke soort brandstof wordt ingezet? 
 
 0 uitsluitend biogas uit vergisting  
 
@@ -482,19 +726,43 @@ a. De aanvraag betreft een productie-installatie voor opwekking van duurzame ele
 
 0 huishoudelijk en vergelijkbaar bedrijfsafval  
 
-0 overig (bijvoorbeeld combinaties van bovenstaande brandstoffen, combinaties met fossiele brandstoffen etc.)   Indien uw aanvraag een afvalverbrandingsinstallatie betreft, wenst u voor deze afvalverbrandingsinstallatie MEP-subsidie of subsidie op grond van het Besluit stimulering duurzame energieproductie te ontvangen? 
+0 overig (bijvoorbeeld combinaties van bovenstaande brandstoffen, combinaties met fossiele brandstoffen etc.)    
+
+c. Indien uw installatie elektriciteit opwekt door middel van thermische verwerking van brandstoffen: Wilt u dat op de GvO ook wordt geregistreerd of certificaten aangaande duurzaamheidscriteria met betrekking tot (een deel van) de gebruikte brandstoffen zijn afgegeven? 
 
 0 Ja  
 
-0 Nee   Indien u hierboven ‘Ja’ heeft ingevuld, dient u tevens een meetprotocol over te leggen, dat voldoet aan de AVI-meetvoorwaarden (bijlage 1 bij de Regeling garanties van oorsprong voor duurzame elektriciteit). Indien uw aanvraag een productie-installatie voor de opwekking van duurzame elektriciteit door middel van verwerking van biomassa betreft, wenst u voor deze productie-installatie registratie van nuttige aangewende warmte te laten plaatsvinden? 
+0 Nee    
+
+d. Indien uw aanvraag een afvalverbrandingsinstallatie betreft: heeft u een MEP subsidiebeschikking of een SDE subsidiebeschikking voor het jaar 2008, 2009 of 2010? 
 
 0 Ja  
 
-0 Nee   Indien u hierboven ‘Ja’ heeft ingevuld, dient u tevens een meetprotocol over te leggen, dat voldoet aan de meetvoorwaarden nuttige aanwending van warmte (bijlage 4 bij de Regeling garanties van oorsprong voor duurzame elektriciteit). Indien in de productie installatie naar zijn aard zuiver biogas wordt verwerkt dient u tevens een meetprotocol over te leggen, dat voldoet aan de meetvoorwaarden (bijlage 4 bij de Regeling garanties van oorsprong voor duurzame elektriciteit).  
+0 Nee   Indien u hierboven ‘Ja’ heeft ingevuld, dient u tevens een meetprotocol over te leggen, dat voldoet aan de AVI-meetvoorwaarden (bijlage 1 bij de Regeling garanties van oorsprong voor duurzame elektriciteit).  
 
-b. Datum waarop de installatie in gebruik is genomen:  
+e. Indien u subsidie voor deze productie-installatie ontvangt of heeft ontvangen, of indien u in het bezit bent van een subsidiebeschikking of andere financiële ondersteuning geef dan hieronder aan in welke categorie deze ondersteuning valt: 
 
-c. Elektrisch vermogen installatie (MW):    
+0 geen subsidie  
+
+0 investeringssubsidie  
+
+0 productie subsidie  
+
+0 combinatie van productie en investeringssubsidie    
+
+f. Indien u een subsidiebeschikking hebt ontvangen op basis van het Besluit stimulering duurzame energieproductie, vul dan hier het projectnummer in:  
+
+g. Indien uw aanvraag een productie-installatie voor de opwekking van duurzame elektriciteit door middel van verwerking van biomassa betreft, wenst u voor deze productie-installatie registratie van nuttige aangewende warmte te laten plaatsvinden? 
+
+0 Ja  
+
+0 Nee   Indien u hierboven ‘Ja’ heeft ingevuld, dient u tevens een meetprotocol over te leggen, dat voldoet aan de meetvoorwaarden nuttige aanwending van warmte (bijlage 4 bij de Regeling garanties van oorsprong voor duurzame elektriciteit).  
+
+h. Indien in de productie installatie naar zijn aard zuiver biogas wordt verwerkt dient u tevens een meetprotocol over te leggen, dat voldoet aan de meetvoorwaarden (bijlage 4 bij de Regeling garanties van oorsprong voor duurzame elektriciteit).  
+
+i. Datum waarop de installatie in gebruik is genomen:  
+
+j. Elektrisch vermogen installatie (MW):    
 
 ### 4  
 
@@ -520,7 +788,7 @@ c. EAN-code van de rekeninghouder (‘handelaar’) op wiens rekening de Garanti
 
 ####Algemene verklaring
 
-U verklaart door het invullen en ondertekenen van dit formulier: 
+*U verklaart door het invullen en ondertekenen van dit formulier:*  
 
 a. Dat de in dit formulier bedoelde installatie zodanig op een net of op een (andere) installatie is aangesloten en voorzien is van (een) meter(s) die voldoe(t)(n) aan de criteria gesteld in de Meetcode Elektriciteit, dat door de netbeheerder dan wel door het toegelaten meetbedrijf de op een net of een installatie ingevoede elektriciteit eenduidig kan worden gemeten, dan wel uit een combinatie van metingen eenduidig kan worden berekend;  
 
@@ -538,8 +806,21 @@ f. Dat u deze verklaring naar waarheid heeft ingevuld.
 
 ####Ondertekening
 
-Plaats: Datum: Handtekening aanvrager: Bijlage(n): *Let op!* Maak een kopie van dit ingevulde aanvraagformulier voor eigen gebruik. Ruimte voor opmerkingen producent:   ![248259](http://wetten.overheid.nl/Illustration/248259)
-Plaats: Datum: Naam netbeheerder: Handtekening netbeheerder: Ruimte voor opmerkingen netbeheerder:   ![248259](http://wetten.overheid.nl/Illustration/248259)
+Plaats: Datum: Handtekening aanvrager: Bijlage(n):  **Let op!* Maak een kopie van dit ingevulde aanvraagformulier voor eigen gebruik.*  Ruimte voor opmerkingen producent:  
+
+| --- |
+|:---|
+| --- |
+| --- |
+| --- |
+
+Plaats: Datum: Naam netbeheerder: Handtekening netbeheerder: Ruimte voor opmerkingen netbeheerder:  
+
+| --- |
+|:---|
+| --- |
+| --- |
+| --- |
 
 ### Bijlage  4  
 
@@ -757,50 +1038,45 @@ b. voor warmte die de productie- installatie produceert: de meetwaarde wordt ver
 
 ### Bijlage  5  
 
-####behorende bij artikel 12a, eerste lid , van de regeling garanties van oorsprong voor duurzame elektriciteit
+####behorende bij artikel 12a, eerste lid , van de Regeling garanties van oorsprong voor duurzame elektriciteit
 
 ####Controle op biomassa: Een inleiding
 
-Dit document geeft een toelichting op de controle die moet worden uitgevoerd op elektriciteit opgewekt met biomassa op grond van de Regeling garanties van oorsprong voor duurzame elektriciteit (verder: de regeling). Afhankelijk van het type biomassa installatie dient een assurancerapport of een meetrapport te worden ingediend. Na afloop van ieder kalenderjaar dienen biomassa elektriciteitsproducenten een controle te laten uitvoeren op de groenpercentages die in het betreffende kalenderjaar hebben geleid tot uitgifte van Garanties van Oorsprong. Producenten die uitsluitend één soort naar zijn aard zuiver biogas verwerken met een nominaal elektrisch vermogen van ten hoogste 2 MW dienen daartoe een meetrapport in te dienen dat is goedgekeurd door een toegelaten meetbedrijf (artikel 12). De betreffende producenten dienen eenmaal in de vijf jaar voorafgaand aan de periode waarover dient te worden gemeten een meetprotocol te laten goedkeuren door een toegelaten meetbedrijf en in te dienen bij CertiQ. De overige producenten dienen na afloop van ieder kalenderjaar een assurancerapport in te dienen dat is goedgekeurd door een accountant. Dit document is met name bedoeld als een onderzoeksprotocol voor de uit te voeren werkzaamheden door de accountant om bij deze opgave tot een assurancerapport te komen, conform artikel 12a van de regeling voor duurzame elektriciteit. Voor de groep van producenten die geen assurancerapport maar een meetrapport dienen te overleggen zijn de vereisten weergegeven in bijlage 4 van de regeling. In de praktijk blijkt de regeling met betrekking tot ‘biomassa’ complexe materie. Dit document bevat een toelichting bij het format van de jaarlijks op te stellen opgave en de daarbij te hanteren biomassa indeling, type installaties en de vereisten waaraan het assurancerapport moet voldoen. Verder bevat dit document enkele instructies voor stortgas- en vergistingsinstallaties. Naast de inleiding is een onderzoeksprotocol opgenomen dat de accountant conform artikel 12a van de regeling dient te hanteren bij de onderzoekswerkzaamheden ten behoeve van het af te geven assurancerapport. Het is de bedoeling dat de accountant het protocol toepast en in het assurancerapport verwijst naar het stramien voor Assurance-opdrachten en de nadere voorschriften zoals opgenomen in de controle- en overige standaard (NV COS richtlijn 3000), zoals vermeld op de website van het NIVRA , en naar de aanvullende specifieke punten van aandacht zoals vermeld in het betreffende protocol. <sup> 1  www.Nivra.nl  </sup> Daarnaast is een voorbeeld van het assurancerapport opgenomen. Tenslotte bevat dit document ook een voorbeeld meetrapport. Dit voorbeeld is ook afzonderlijk te downloaden vanaf de website van de garantiebeheerinstantie (verder CertiQ) op www.certiq.nl.  
+Dit document geeft een toelichting op de controle die moet worden uitgevoerd op elektriciteit opgewekt met biomassa op grond van de Regeling garanties van oorsprong voor duurzame elektriciteit (verder: de regeling). Afhankelijk van het type biomassa installatie dient een assurancerapport of een meetrapport te worden ingediend. Na afloop van ieder kalenderjaar dienen biomassa elektriciteitsproducenten een controle te laten uitvoeren op de groenpercentages die in het betreffende kalenderjaar hebben geleid tot uitgifte van Garanties van Oorsprong. Producenten die uitsluitend één soort naar zijn aard zuiver biogas verwerken met een nominaal elektrisch vermogen van ten hoogste 2 MW dienen daartoe een meetrapport in te dienen dat is goedgekeurd door een toegelaten meetbedrijf (artikel 12). De betreffende producenten dienen eenmaal in de vijf jaar voorafgaand aan de periode waarover dient te worden gemeten een meetprotocol te laten goedkeuren door een toegelaten meetbedrijf en in te dienen bij CertiQ. De overige producenten dienen na afloop van ieder kalenderjaar een assurancerapport in te dienen dat is goedgekeurd door een accountant. Dit document is met name bedoeld als een onderzoeksprotocol voor de uit te voeren werkzaamheden door de accountant om bij deze opgave tot een assurancerapport te komen, conform artikel 12a van de regeling voor duurzame elektriciteit. Voor de groep van producenten die geen assurancerapport maar een meetrapport dienen te overleggen zijn de vereisten weergegeven in bijlage 4 van de regeling. In de praktijk blijkt de regeling met betrekking tot ‘biomassa’ complexe materie. Dit document bevat een toelichting bij het format van de jaarlijks op te stellen opgave en de daarbij te hanteren biomassa indeling, type installaties en de vereisten waaraan het assurancerapport moet voldoen. Verder bevat dit document enkele instructies voor stortgas- en vergistingsinstallaties. Naast de inleiding is een onderzoeksprotocol opgenomen dat de accountant conform artikel 12a van de regeling dient te hanteren bij de onderzoekswerkzaamheden ten behoeve van het af te geven assurancerapport. Het is de bedoeling dat de accountant het protocol toepast en in het assurancerapport verwijst naar het stramien voor Assurance-opdrachten en de nadere voorschriften zoals opgenomen in de controle- en overige standaard (NV COS richtlijn 3000), zoals vermeld op de website van het NIVRA <sup>1</sup>, en naar de aanvullende specifieke punten van aandacht zoals vermeld in het betreffende protocol. Daarnaast is een voorbeeld van het assurancerapport opgenomen. Tenslotte bevat dit document ook een voorbeeld van de bij het assurancerapport behorende rapportagetabel. Dit voorbeeld is ook afzonderlijk te downloaden vanaf de website van de garantiebeheerinstantie (verder CertiQ) op www.certiq.nl. <sup>1</sup> www.Nivra.nl.  
 
 ####Biomassa: ‘Zuiver’, ‘naar haar/zijn aard zuiver’, ‘niet zuiver’
 
 Op basis van de regeling is biomassa ingedeeld in ‘zuiver’ en ‘niet zuiver’. Zuivere biomassa bevat niet meer dan drie massaprocent onvermijdbare kunststoffen. 
+### *Zuivere biomassa: Een nadere indeling* 
 
-####Zuivere biomassa: Een nadere indeling
+Zuivere biomassa kan worden verdeeld in twee groepen: 1) ‘Naar haar aard zuiver’ en 2) ‘niet naar haar aard zuiver’. Voor biogassen wordt gesproken over resp. ‘naar zijn aard zuiver’ en ‘niet naar zijn aard zuiver’. De definitie van naar haar aard zuivere biomassa is opgenomen in artikel 1, eerste lid, onder j, van de regeling. 
+### *Niet zuivere biomassa* 
 
-Zuivere biomassa kan worden verdeeld in twee groepen: 1) ‘Naar haar aard zuiver’ en 2) ‘niet naar haar aard zuiver’. Voor biogassen wordt gesproken over resp. ‘naar zijn aard zuiver’ en ‘niet naar zijn aard zuiver’. De definitie van naar haar aard zuivere biomassa is opgenomen in artikel 1, eerste lid, onder j, van de regeling.  
+‘Niet zuivere biomassa’ wordt in de regeling ook wel aangeduid als ‘mengstromen’. Het dient bemonsterd te worden (volgens BRL-K10016). Bepaald dient te worden in welke mate het biogene gedeelte bijdraagt in de elektriciteitsopwek. Dat betekent dat het calorische aandeel van het biogene deel dient te worden bepaald in verhouding tot de totale calorische waarde. 
+### *Biogassen* 
 
-####Niet zuivere biomassa
+De volgende soorten biogassen worden beschouwd ‘als naar zijn aard zuiver’: Stortgas, rioolwaterzuiveringsgas, afvalwaterzuiveringsgas en biogas dat ontstaat door middel van vergisting. Voor overige soorten biogas dient te worden aangetoond of het gaat om zuiver biogas. Hiertoe dient het basismateriaal waaruit het biogas ontstaat te worden bemonsterd. 
+### *Afvalverbrandingsinstallaties* 
 
-‘Niet zuivere biomassa’ wordt in de regeling ook wel aangeduid als ‘mengstromen’. Het dient bemonsterd te worden (volgens BRL-K10016). Bepaald dient te worden in welke mate het biogene gedeelte bijdraagt in de elektriciteitsopwek. Dat betekent dat het calorische aandeel van het biogene deel dient te worden bepaald in verhouding tot de totale calorische waarde.  
+De elektriciteit die wordt opgewekt in afvalverbrandingsinstallaties (AVI’s) die huishoudelijk en vergelijkbaar bedrijfsafval verwerken, wordt deels beschouwd als duurzaam. Hoewel het dus niet-zuivere biomassa betreft, hoeven AVI’s niet maandelijks een groenpercentage te bepalen. Het groenpercentage wordt jaarlijks vanuit de overheid vastgesteld en bedraagt voor bijvoorbeeld 2011 51%. AVI’s hoeven dan ook geen assurancerapport of meetrapport in te dienen om de groenpercentages te onderbouwen. 
+### *Gebruikte biomassa* 
 
-####Biogassen
+Producenten die gebruik maken van biogas als brandstof dienen tevens te rapporteren over de biomassagrondstoffen waaruit het biogas is geproduceerd, gespecificeerd in NTA-codes. 
+### *Achtergrond groenpercentages* 
 
-De volgende soorten biogassen worden beschouwd ‘als naar zijn aard zuiver’: Stortgas, rioolwaterzuiveringsgas, afvalwaterzuiveringsgas en biogas dat ontstaat door middel van vergisting. Voor overige soorten biogas dient te worden aangetoond of het gaat om zuiver biogas. Hiertoe dient het basismateriaal waaruit het biogas ontstaat te worden bemonsterd.  
+Voor iedere elektriciteitsproducent worden maandelijks meetgegevens door de regionale netbeheerder naar CertiQ gestuurd. Vervolgens stuurt de producent de groenpercentages naar CertiQ. De groenpercentages volgen uit berekeningen van de elektriciteitsproducent. Daarna maakt CertiQ garanties van oorsprong voor duurzame elektriciteit aan en kan AgentschapNL vervolgens eventueel subsidie uitbetalen. Voor installaties die 100% duurzame elektriciteit opwekken worden de garanties van oorsprong automatisch aangemaakt. Bij de definitieve jaarlijkse vaststelling van de groenpercentages baseert CertiQ zich op een assurancerapport van een accountant of een meetrapport van een toegelaten meetbedrijf. Eventuele verschillen tussen het assurance-rapport en de eerder ingediende percentages dienen gecorrigeerd te worden door CertiQ. 
+### *Termijn voor het indienen* 
 
-####Afvalverbrandingsinstallaties
+Na afloop van een kalenderjaar hebben biomassa elektriciteitsproducenten uiterlijk vier maanden de tijd (artikel 12, derde lid, van de regeling) om een meetrapport of een assurancerapport te overleggen. Voor productie over jaar t dient dus uiterlijk 30 april van jaar t+1 een assurancerapport of een meetrapport bij CertiQ te worden ingediend. Bij te laat indienen dient CertiQ (op grond van artikel 13 van de regeling) een deel van de uitgegeven garanties van oorsprong voor duurzame elektriciteit af te boeken: indien de opgave met assurancerapport of meetrapport binnen een maand na het verstrijken van de deadline wordt ingediend, wordt een hoeveelheid garanties van oorsprong voor duurzame elektriciteit afgeboekt ter grootte van de gemiddelde hoeveelheid opgewekte duurzame elektriciteit in één kalendermaand in jaar t. Indien de opgave met assurancerapport of meetrapport tussen één en twee maanden te laat wordt ingeleverd, wordt de hoeveelheid garanties van oorsprong voor duurzame elektriciteit van twee kalendermaanden afgeboekt, enz. Als de installatie in aanmerking komt voor subsidie, dan zal het afboeken van garanties van oorsprong voor duurzame elektriciteit ook leiden tot verrekeningen bij de betalingen. 
+### *Assurance-werkzaamheden accountant* 
 
-De elektriciteit die wordt opgewekt in afvalverbrandingsinstallaties (AVI’s), wordt deels beschouwd als duurzaam. Hoewel het dus niet-zuivere biomassa betreft, hoeven AVI’s niet maandelijks een groenpercentage te bepalen. Het groenpercentage wordt jaarlijks vanuit de overheid vastgesteld en bedraagt voor bijvoorbeeld 2010 49%. AVI’s hoeven dan ook geen assurancerapport of meetrapport in te dienen om de groenpercentages te onderbouwen.   ![248167](http://wetten.overheid.nl/Illustration/248167)
-Schematische weergave biomassa   
-
-####Achtergrond groenpercentages
-
-Voor iedere elektriciteitsproducent worden maandelijks meetgegevens door de regionale netbeheerder naar CertiQ gestuurd. Vervolgens stuurt de producent de groenpercentages naar CertiQ. De groenpercentages volgen uit berekeningen van de elektriciteitsproducent. Daarna maakt CertiQ garanties van oorsprong voor duurzame elektriciteit aan en kan AgentschapNL vervolgens eventueel subsidie uitbetalen. Voor installaties die 100% duurzame elektriciteit opwekken worden de garanties van oorsprong automatisch aangemaakt. Bij de definitieve jaarlijkse vaststelling van de groenpercentages baseert CertiQ zich op een assurancerapport van een accountant of een meetrapport van een toegelaten meetbedrijf. Eventuele verschillen tussen het assurance-rapport en de eerder ingediende percentages dienen gecorrigeerd te worden door CertiQ.  
-
-####Termijn voor het indienen
-
-Na afloop van een kalenderjaar hebben biomassa elektriciteitsproducenten uiterlijk vier maanden de tijd (artikel 12, derde lid, van de regeling) om een meetrapport of een assurancerapport te overleggen. Voor productie over jaar t dient dus uiterlijk 30 april van jaar t+1 een assurancerapport of een meetrapport bij CertiQ te worden ingediend. Bij te laat indienen dient CertiQ (op grond van artikel 13 van de regeling) een deel van de uitgegeven garanties van oorsprong voor duurzame elektriciteit af te boeken: indien de opgave met assurancerapport of meetrapport binnen een maand na het verstrijken van de deadline wordt ingediend, wordt een hoeveelheid garanties van oorsprong voor duurzame elektriciteit afgeboekt ter grootte van de gemiddelde hoeveelheid opgewekte duurzame elektriciteit in één kalendermaand in jaar t. Indien de opgave met assurancerapport of meetrapport tussen één en twee maanden te laat wordt ingeleverd, wordt de hoeveelheid garanties van oorsprong voor duurzame elektriciteit van twee kalendermaanden afgeboekt, enz. Als de installatie in aanmerking komt voor subsidie, dan zal het afboeken van garanties van oorsprong voor duurzame elektriciteit ook leiden tot verrekeningen bij de betalingen.  
-
-####Assurance-werkzaamheden accountant
-
-In het geval van een assurancerapport dient de accountant te onderzoeken welke brandstoffen zijn ingezet en in welke (calorische) verhouding dat heeft plaatsgevonden. De accountant dient deze verhoudingen te vergelijken met de groenpercentages zoals die in de loop van het kalenderjaar naar CertiQ zijn gestuurd en te constateren of er verschillen zijn. Het is de bedoeling dat de producent de groenpercentages bepaalt op maandniveau en dat de accountant hierbij redelijke mate van zekerheid verschaft over de conformiteit van deze opgave conform artikel 12a, tweede lid, van de regeling. Om CertiQ een goede consistentiecheck te kunnen laten uitvoeren, kan CertiQ om onderliggende gegevens vragen. Daarbij moet worden gedacht aan hoeveelheden ingezette biomassa (tonnen) en bijbehorende calorische waarden.  
+In het geval van een assurancerapport dient de accountant te onderzoeken welke brandstoffen zijn ingezet en in welke (calorische) verhouding dat heeft plaatsgevonden. De accountant dient deze verhoudingen te vergelijken met de groenpercentages zoals die in de loop van het kalenderjaar naar CertiQ zijn gestuurd en te constateren of er verschillen zijn. Het is de bedoeling dat de producent de groenpercentages bepaalt op maandniveau en dat de accountant hierbij redelijke mate van zekerheid verschaft over de conformiteit van deze opgave conform artikel 12a, tweede lid, van de regeling. Om CertiQ een goede consistentiecheck te kunnen laten uitvoeren, kan CertiQ om onderliggende gegevens vragen. Daarbij moet worden gedacht aan hoeveelheden ingezette biomassa (tonnen) en bijbehorende calorische waarden.  
 
 ####Onderzoeksprotocol assurancerapport biomassa
 
 ####Inleiding
 
-In artikel 12a, derde lid, van de regeling, is bepaald dat de producent, niet zijnde een producent als bedoeld in artikel 1b, derde lid, uiterlijk binnen vier maanden na afloop van ieder kalenderjaar aan de garantiebeheerinstantie (TenneT )een assurancerapport (conform NV COS richtlijn 3000 ) overlegt inzake, onder meer, de aard en de verhouding van de in de installatie verwerkte brandstoffen. <sup> 2  Tennet heeft deze taak belegd bij CERTIQ B.V., een specifiek voor de uitvoering van deze taak opgerichte rechtspersoon.  </sup> <sup> 3  3000 assurance-opdrachten anders dan opdrachten tot controle of beoordeling van historische financiële informatie.  </sup> In artikel 13, tweede lid, van de regeling is bepaald dat wanneer deze termijn wordt overschreden, een hoeveelheid garanties van oorsprong wordt afgeboekt, afhankelijk van de overschrijdingstijd. Dit onderzoeksprotocol beoogt in aanvulling op (het stramien voor Assurance-opdrachten en) de nadere voorschriften Controle- en overige standaarden richtlijn 3000 (zie website NIVRA.nl) een handreiking aan de controlerend accountant te geven met specifieke aandachtspunten bij de inrichting van zijn onderzoek. Het doel van het assurancerapport is om – met redelijke mate van zekerheid – een oordeel te verstrekken aan CertiQ over de juistheid van de door de producent (of zijn gemachtigde) opgegeven verhouding van de in de installatie verwerkte brandstoffen. In geval de opgewekte elektriciteit wordt aangemerkt als duurzame energie zullen er door CertiQ garanties van oorsprong worden aangemaakt overeenkomstig het aantal MWh duurzaam opgewekte elektriciteit. Deze vertegenwoordigen een waarde en zijn verhandelbaar. Daarnaast kan de Minister van Economische Zaken op basis van de aangemaakte garanties van oorsprong subsidie verstrekken, waarvan de hoogte afhankelijk is van het type installatie en de aard en de verhouding van de in de installatie verwerkte brandstoffen. De accountant dient derhalve rekening te houden met een tendentie in de opgegeven verhouding.  
+In artikel 12a, derde lid, van de regeling, is bepaald dat de producent, niet zijnde een producent als bedoeld in artikel 1b, derde lid, uiterlijk binnen vier maanden na afloop van ieder kalenderjaar aan de garantiebeheerinstantie (TenneT <sup>2</sup>)een assurancerapport (conform NV COS richtlijn 3000) overlegt inzake, onder meer, de aard en de verhouding van de in de installatie verwerkte brandstoffen. In artikel 13, tweede lid, van de regeling is bepaald dat wanneer deze termijn wordt overschreden, een hoeveelheid garanties van oorsprong wordt afgeboekt, afhankelijk van de overschrijdingstijd. Dit onderzoeksprotocol beoogt in aanvulling op (het stramien voor Assurance-opdrachten en) de nadere voorschriften Controle- en overige standaarden richtlijn 3000 <sup>3</sup> (zie website NIVRA.nl) een handreiking aan de controlerend accountant te geven met specifieke aandachtspunten bij de inrichting van zijn onderzoek. Het doel van het assurancerapport is om – met redelijke mate van zekerheid – een oordeel te verstrekken aan CertiQ over de juistheid van de door de producent (of zijn gemachtigde) opgegeven verhouding van de in de installatie verwerkte brandstoffen. In geval de opgewekte elektriciteit wordt aangemerkt als duurzame energie zullen er door CertiQ garanties van oorsprong worden aangemaakt overeenkomstig het aantal MWh duurzaam opgewekte elektriciteit. Deze vertegenwoordigen een waarde en zijn verhandelbaar. Daarnaast kan de Minister van Economische Zaken op basis van de aangemaakte garanties van oorsprong subsidie verstrekken, waarvan de hoogte afhankelijk is van het type installatie en de aard en de verhouding van de in de installatie verwerkte brandstoffen. De accountant dient derhalve rekening te houden met een tendentie in de opgegeven verhouding. <sup>2</sup> Tennet heeft deze taak belegd bij CERTIQ B.V., een specifiek voor de uitvoering van deze taak opgerichte rechtspersoon. <sup>3</sup> 3000 assurance-opdrachten anders dan opdrachten tot controle of beoordeling van historische financiële informatie.  
 
 ####Procedure
 
@@ -808,7 +1084,7 @@ Na afloop van een maand wordt door de netbeheerder een meetbericht verzonden aan
 
 ####Rol van de accountant
 
-Als sluitstuk onderzoekt de accountant de definitieve opgave van de producent met toelichtingen op conformiteit met artikel 12a van de regeling (zie NV COS 3000 nr. 33). Dit ter onderbouwing van zijn assurance-rapport. Hiertoe onderzoekt de accountant de door de producent verantwoorde definitieve uitkomsten van de verhouding voor wat betreft aard en verhouding van de in de productie-installatie verwerkte brandstoffen. De accountant: 
+Als sluitstuk onderzoekt de accountant de definitieve opgave van de producent met toelichtingen op conformiteit met artikel 12a van de regeling (zie NV COS 3000 nr. 33). Dit ter onderbouwing van zijn assurance-rapport. Hiertoe onderzoekt de accountant de door de producent verantwoorde definitieve uitkomsten van de verhouding voor wat betreft aard en verhouding van de in de productie-installatie verwerkte brandstoffen. De accountant: 
 
 – stelt vast of deze verhouding gelijk is of afwijkt van de verhouding zoals die destijds is doorgegeven aan CertiQ  
 
@@ -816,7 +1092,7 @@ Als sluitstuk onderzoekt de accountant de definitieve opgave van de producent me
 
 ####Reviewbeleid Ministerie van Economische Zaken
 
-De Auditdienst van het ministerie van Economische Zaken kan een review uitvoeren op de uitgevoerde accountantscontrole inzake deze subsidie. De accountant, die de controle heeft uitgevoerd, verstrekt de Auditdienst desgevraagd alle inlichtingen en bescheiden . De eventuele extra kosten van deze accountant in verband met de review zijn niet voor rekening van het ministerie. <sup> 4  Krachtens de Comptabiliteitswet 2001 (artikelen 43, 43a) heeft de Minister – bij commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen die een beroep of bedrijf uitoefenen aan wie door de Staat of een derde voor rekening of risico van de Staat rechtstreeks of middellijk een subsidie, een lening of garantie wordt verstrekt – het recht nadere inlichtingen in te winnen n.a.v. terzake ontvangen bescheiden.   Ook zijn onze Ministers bevoegd inzage te vorderen in de controledossiers van de accountant die de betreffende bescheiden heeft gecontroleerd om te bepalen of bij de vaststelling kan worden gesteund op de door deze accountant uitgevoerde controle. Met betrekking tot het verlenen van inzage in het controledossier kan de accountant zich niet beroepen op de omstandigheid dat hij op grond van andere bij of krachtens de wet opgelegde verplichtingen tot geheimhouding is verplicht van in dit dossier opgenomen vertrouwelijke gegevens. Onze Ministers zijn bevoegd van stukken inzake de betreffende controle uit de controledossiers kopieën te maken.  </sup>  
+De Auditdienst van het ministerie van Economische Zaken kan een review uitvoeren op de uitgevoerde accountantscontrole inzake deze subsidie. De accountant, die de controle heeft uitgevoerd, verstrekt de Auditdienst desgevraagd alle inlichtingen en bescheiden <sup>4</sup>. De eventuele extra kosten van deze accountant in verband met de review zijn niet voor rekening van het ministerie. <sup>4</sup> Krachtens de Comptabiliteitswet 2001 ([artikelen 43](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), [43a](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md)) heeft de Minister - bij commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen die een beroep of bedrijf uitoefenen aan wie door de Staat of een derde voor rekening of risico van de Staat rechtstreeks of middellijk een subsidie, een lening of garantie wordt verstrekt - het recht nadere inlichtingen in te winnen n.a.v. terzake ontvangen bescheiden. Ook zijn onze Ministers bevoegd inzage te vorderen in de controledossiers van de accountant die de betreffende bescheiden heeft gecontroleerd om te bepalen of bij de vaststelling kan worden gesteund op de door deze accountant uitgevoerde controle. Met betrekking tot het verlenen van inzage in het controledossier kan de accountant zich niet beroepen op de omstandigheid dat hij op grond van andere bij of krachtens de wet opgelegde verplichtingen tot geheimhouding is verplicht van in dit dossier opgenomen vertrouwelijke gegevens. Onze Ministers zijn bevoegd van stukken inzake de betreffende controle uit de controledossiers kopieën te maken.  
 
 ####Onderzoekstolerantie en gewenste zekerheid
 
@@ -832,73 +1108,87 @@ De aan de individuele regels van de rapportage toegerekende onderzoekstolerantie
 
 4. Het uitvoeren van een cijfervergelijking tussen de definitieve opgave van de producent en de eerder door de producent gedane maandelijkse opgaven en beoordelen van de toelichting door de producent bij de definitieve opgave op verschillen.  
 
-5. Aansluiten van de verantwoorde brandstoffen met de administratie, uitgesplitst naar maand en soort biomassa, waarbij eventuele gecertificeerde stromen als bedoeld in artikel 11, derde lid, van de regeling dienen te worden onderscheiden van niet gecertificeerde stromen. In het verlengde hiervan stelt de accountant vast in welke verhouding deze brandstoffen zijn verwerkt en of deze verhouding inderdaad heeft geleid tot de percentages opgewekte duurzame elektriciteit zoals deze door de producent of zijn gemachtigde zijn opgegeven. Indien een geëigende methode dient te worden toegepast, stelt de accountant vast of een juiste toepassing is gegeven aan de geëigende methode.  
+5. Aansluiten van de verantwoorde brandstoffen met de administratie, uitgesplitst naar maand en soort biomassa, waarbij eventuele gecertificeerde stromen als bedoeld in artikel 11, derde lid, van de regeling dienen te worden onderscheiden van niet gecertificeerde stromen. In het verlengde hiervan stelt de accountant vast in welke verhouding deze brandstoffen zijn verwerkt en of deze verhouding inderdaad heeft geleid tot de percentages opgewekte duurzame elektriciteit zoals deze door de producent of zijn gemachtigde zijn opgegeven. Indien een geëigende methode dient te worden toegepast, stelt de accountant vast of een juiste toepassing is gegeven aan de geëigende methode.  
 
 6. Vaststellen dat de definitieve opgave van de producent en de daarin opgenomen verhouding van de verwerkte brandstoffen in honderdste van procenten nauwkeurig is.    
 
 ####Voorbeeld assurancerapport
 
-Naam accountantskantoor Aan: Opdrachtgever/producent  
+Naam accountantskantoor Aan: Opdrachtgever/producent 
 
 ####Assurancerapport
 
-####Opdracht
+### *Opdracht* 
 
-Ingevolge uw opdracht hebben wij het bijgevoegde, door ons gewaarmerkte meetrapport betreffende de aard en de verhouding van de in de installatie, bekend onder EAN-code <123456789012345678>, verwerkte brandstoffen met betrekking tot de periode van <datum> t/m <datum> onderzocht op conformiteit met artikel 12a van de Regeling garanties van oorsprong voor duurzame elektriciteit (hierna aangeduid als de regeling), Dit meetrapport is opgesteld onder verantwoordelijkheid van <het bestuur van de vennootschap/de leiding van de huishouding>. Het is onze verantwoordelijkheid om een assurancerapport inzake dit meetrapport te verstrekken.  
+Ingevolge uw opdracht hebben wij het bijgevoegde, door ons gewaarmerkte rapportage betreffende de aard en de verhouding van de in de installatie, bekend onder EAN-code <123456789012345678>, verwerkte brandstoffen met betrekking tot de periode van <datum> t/m <datum> onderzocht op conformiteit met artikel 12a van de Regeling garanties van oorsprong voor duurzame elektriciteit (hierna aangeduid als de regeling), Deze rapportage is opgesteld onder verantwoordelijkheid van <het bestuur van de vennootschap/de leiding van de huishouding>. Het is onze verantwoordelijkheid om een assurancerapport inzake deze rapportage te verstrekken. 
+### *Werkzaamheden* 
 
-####Werkzaamheden
+Wij hebben ons onderzoek verricht in overeenstemming met het Nederlands recht, waaronder Standaard 3000 assurance-opdrachten anders dan opdrachten tot controle en beoordeling van historische financiële informatie’ en het onderzoeksprotocol dat als bijlage bij de regeling is gepubliceerd. Dienovereenkomstig dient het onderzoek zodanig te worden gepland en uitgevoerd dat een redelijke mate van zekerheid wordt verkregen dat de rapportage geen afwijkingen van materieel belang bevat. Wij zijn van mening dat de door ons verkregen assurance-informatie voldoende en geschikt is voor onze conclusie. 
+### *Conclusie* 
 
-Wij hebben ons onderzoek verricht in overeenstemming met het Nederlands recht, waaronder Standaard 3000 assurance-opdrachten anders dan opdrachten tot controle en beoordeling van historische financiële informatie’ en het onderzoeksprotocol dat als bijlage bij de regeling is gepubliceerd. Dienovereenkomstig dient het onderzoek zodanig te worden gepland en uitgevoerd dat een redelijke mate van zekerheid wordt verkregen dat het meetrapport geen afwijkingen van materieel belang bevat. Wij zijn van mening dat de door ons verkregen assurance-informatie voldoende en geschikt is voor onze conclusie.  
+Op grond van onze werkzaamheden concluderen wij dat bovengenoemde de rapportage de aard en de verhouding van de in de installatie verwerkte brandstoffen per maand juist weergeeft, in overeenstemming met de wettelijke bepalingen zoals opgenomen in de artikelen 8 tot en met 12a van de regeling. Tevens concluderen wij dat de door de <producent/gemachtigde van de producent> op grond van artikel 11, eerste lid, van de regeling meegedeelde percentages <niet> overeenstemmen met de in bovengenoemde rapportage weergegeven verhouding van de brandstoffen.......... {Ingeval van zuivere en ‘niet naar haar aard zuivere’ biomassa} <en dat de geëigende methode voor de vaststelling of het in de installatie verwerkte materiaal als zuivere biomassa kan worden aangemerkt ten behoeve van de berekening van de verhouding, op een juiste wijze is toegepast.> {Ingeval van niet zuivere biomassa} <en dat de geëigende methode voor de vaststelling van het gedeelte van de in de installatie verwerkte niet-zuivere biomassa dat biologisch afbreekbaar is, ten behoeve van de berekening van de verhouding, op een juiste wijze is toegepast> 
+### *Overige informatie* 
 
-####Conclusie
+De accountant kan hier overige informatie en uiteenzettingen opnemen die niet als doel hebben afbreuk te doen aan zijn conclusie. 
+### *Beperking in gebruik (en verspreidingskring)* 
 
-Op grond van onze werkzaamheden concluderen wij dat bovengenoemde het meetrapport de aard en de verhouding van de in de installatie verwerkte brandstoffen per maand juist weergeeft, in overeenstemming met de wettelijke bepalingen zoals opgenomen in de artikelen 8 tot en met 12a van de regeling. Tevens concluderen wij dat de door de <producent/gemachtigde van de producent> op grond van artikel 11, eerste lid, van de regeling meegedeelde percentages <niet> overeenstemmen met de in bovengenoemde rapportage weergegeven verhouding van de brandstoffen ............ {Ingeval van zuivere en ‘niet naar haar aard zuivere’ biomassa} <en dat de geëigende methode voor de vaststelling of het in de installatie verwerkte materiaal als zuivere biomassa kan worden aangemerkt ten behoeve van de berekening van de verhouding, op een juiste wijze is toegepast.> {Ingeval van niet zuivere biomassa} <en dat de geëigende methode voor de vaststelling van het gedeelte van de in de installatie verwerkte niet-zuivere biomassa dat biologisch afbreekbaar is, ten behoeve van de berekening van de verhouding, op een juiste wijze is toegepast>  
+Dit assurancerapport is uitsluitend bedoeld ter onderbouwing van het jaarlijks door de directie van de onderneming te verstrekken rapportage aan de garantiebeheerinstantie (artikel 12a van de regeling) en kan derhalve niet voor andere doeleinden worden gebruikt. Plaats en datum Ondertekening   ![249867](http://wetten.overheid.nl/Illustration/249867)
 
-####Overige informatie
+### *Gebruikte biomassagrondstoffen.* 
 
-De accountant kan hier overige informatie en uiteenzettingen opnemen die niet als doel hebben afbreuk te doen aan zijn conclusie.  
+Deze tabel moet alleen worden ingevuld door installaties met biogas als grondstof. In de tabel moet de grondstof worden ingevuld die is gebruikt voor de productie van het biogas.  
 
-####Beperking in gebruik (en verspreidingskring)
+| Grondstof  | Code NTA 8003 (dec 2008)  | Hoeveelheid (ton)  | Opmerkingen  |
+|:---|:---|:---|:---|
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| Totaal:  | --- | --- | --- |
 
-Dit assurancerapport is uitsluitend bedoeld ter onderbouwing van het jaarlijks door de directie van de onderneming te verstrekken meetrapport aan de garantiebeheerinstantie (artikel 12a van de regeling) en kan derhalve niet voor andere doeleinden worden gebruikt. Plaats en datum Ondertekening  
-
-Jaarlijkse opgave Biomassa (Opgave in de zin van artikel 12a van de Regeling garanties van oorsprong voor duurzame elektriciteit ) 
-
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|  *Jaar*   | --- | 2010  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  *Naam producent:*   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  *Adres:*   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  *PC/Woonplaats:*   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  *EAN-code:*   | 1234567890123645678  | (18 cijferige EAN-code)  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  *Type installatie:*   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  *A*   |  *B*   |  *C*   |  *D*   |  *NTA 8003*   |  *Vergassing*   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- |  *Jan*   |  *Feb*   |  *Mrt*   |  *Apr*   |  *Mei*   |  *Jun*   |  *Jul*   |  *Aug*   |  *Sep*   |  *Okt*   |  *Nov*   |  *Dec*   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Biomassa  | Zuiver  | Naar haar aard zuiver  | --- |    | ja/nee  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | ja/nee  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | ja/nee  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | ja/nee  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | ja/nee  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | ja/nee  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Zuiver  | Niet naar haar aard zuiver  | --- | ja/nee  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Niet zuiver  | Biologisch afbreekbaar  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | Niet biologisch afbreekbaar  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Biogas  | Zuiver  | Naar zijn aard zuiver  | Stortgas  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Zuiver  | Naar zijn aard zuiver  | RWZI-gas (uit slibvergisting)  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Zuiver  | Naar zijn aard zuiver  | AWZI gas (uit slibvergisting)  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Zuiver  | Naar zijn aard zuiver  | Uit vergisting  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Zuiver  | Niet naar zijn aard zuiver  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Niet zuiver  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Overige (fossiel)  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | Totaal  | --- | --- | 0,00%  | 0,00%  | 0,00%  | 0,00%  | 0,00%  | 0,00%  | 0,00%  | 0,00%  | 0,00%  | 0,00%  | 0,00%  | 0,00%  |
+### *Toelichting op de tabel* 
 
 | --- | --- |
 |:---|:---|
-| Datum rapportage:  | Firmastempel  |
+| Grondstof  | De biomassa inputstroom. Tabel 3 geeft een overzicht met mogelijke invulwaarden. Bij vergisters moeten de grondstoffen worden aangegeven, die zijn ingevoed in de vergister.  |
+| Code NTA 8003  | De classificatie van de gebruikte biomassa conform de NTA 8003 (december, 2008). Hierbij moet u in deze Nederlandse Technische Afspraak opzoeken welke classificatie voor de door U gebruikte biomassastroom van toepassing is.  |
+| Hoeveelheid  | Hier vult u de hoeveelheid tonnen biomassa in, die gedurende het rapportagejaar gebruikt is voor de productie van hernieuwbare elektriciteit of hernieuwbaar gas.  |
+| Opmerkingen  | Ruimte voor overige relevante informatie, bijvoorbeeld verdere specificatie van de grondstof of informatie over de duurzaamheid van vloeibare biomassa.  |
+
+Administratieve batches van grondstoffen (hoeveelheid product met identieke eigenschappen qua grondstof) mogen in één regel worden samengevoegd. Er mogen meerdere fysieke ladingen van dezelfde grondstof bij elkaar opgeteld worden.  Grondstofsoorten en indeling in hoofd- of bijproduct, ten behoeve van de gegevens in de tabel ‘Gebruikte biomassagrondstoffen’ 
+
+| Grondstof  | NTA 8003  |
+|:---|:---|
+| Pluimveemest, rundermest, varkensmest, overige mest  | 310, 320, 330, 301 of 309 of 340  |
+| Maïs  | 241  |
+| Tarwe  | 242  |
+| Overig graan of overige gewassen  | 242/249  |
+| Reststoffen VGI: reststoffen uit de voedings- en genotsmiddelenindustrie niet zijnde plantaardige of dierlijke oliën of vetten  | 500 – 539 of 580 – 589  |
+| Plantaardige vetten of oliën: specificeer in rapportage  | 550 – 559 of 570 – 573  |
+| Dierlijke vetten of oliën  | 561 – 569 of 570 – 573  |
+| Veilingafval, tuinbouwafval, fruitteeltrestproduct, bloembollenpelsel  | 251, 252, 253, 254  |
+| Restproducten uit land- en tuinbouw, zoals doppen  | 200 – 249  |
+| Slib  | 400 – 440  |
+| Restproduct biotransportbrandstoffen zoals bostels, oliezadenmeel/ schroot) niet zijnde glycerine of vetzuren  | 590 – 599  |
+| Gras  | 210 – 219  |
+| Zetmeel  | 589  |
+| Bieten  | 249 of 533  |
+| Aardappelen  | 249  |
+| GFT: Groente Fruit en Tuinafval/ organisch afval van huishoudens en bedrijven  | 600 – 620  |
+| Glycerine (niet van petrochemische origine)  | 592  |
+| Vetzuren, die vrijkomen bij de raffinage van oliën  | 587  |
+| Papier  | 710  |
+| Slachtbijproducten, diermeel  | 586, 585  |
+| Zaagsel  | 115  |
+| Vers (primair) hout, inclusief de boomstam zelf  | 110 – 132  |
+| Vers resthout/ vers snoeihout/ park- of plantsoenhout  | 113 – 115  |
+| Schors  | 112  |
+| Gebruikt onbehandeld hout, Gebruikt geverfd of verlijmd hout, Gebruikt geïmpregneerd hout, Hout uit verwerking <sup>1</sup>  | 150 – 199  |
+| Stro  | 220 – 229  |
+| Overige vaste biomassa; specificeer in rapportage  | --- |
+| Overige biomassa; specificeer in rapportage  | --- |
 
