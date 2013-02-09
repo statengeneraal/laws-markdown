@@ -4,8 +4,8 @@
 
 ### Artikel  1  
 
-1.  De leden van de eilandsraad van het openbaar lichaam Bonaire genieten per jaar een vergoeding voor hun werkzaamheden van ten hoogste USD 6.629 en een tegemoetkoming in de kosten van ten hoogste USD 1125.   
-2.  De leden van de eilandsraden van de openbare lichamen Sint Eustatius en Saba genieten per jaar een vergoeding voor hun werkzaamheden van ten hoogste USD 5.417 en een tegemoetkoming in de kosten van ten hoogste USD 1017.   
+1.  De eilandsraadsleden van het openbaar lichaam Bonaire genieten per jaar een vergoeding voor hun werkzaamheden van ten hoogste USD 7020 en een tegemoetkoming in de kosten daarvan van ten hoogste USD 1188.   
+2.  De eilandsraadsleden van de openbare lichamen Sint Eustatius en Saba genieten per jaar een vergoeding voor hun werkzaamheden van ten hoogste USD 5593 en een tegemoetkoming in de kosten daarvan van ten hoogste USD 1050.   
 3.  Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), wijziging ondergaat, wordt met ingang van de datum waarop die wijziging ingaat bij ministeriële regeling de vergoeding voor de werkzaamheden van de eilandsraadsleden en de tegemoetkoming in de kosten dienovereenkomstig gewijzigd, onder nadere vaststelling voor zoveel nodig, van de bedragen, genoemd in het eerste en tweede lid.   
 4.  De maandelijkse uitbetaling van de vergoeding voor de werkzaamheden en de tegemoetkoming in de kosten worden naar boven afgerond in hele dollars.   
 
@@ -15,8 +15,8 @@ Artikel 1 is van overeenkomstige toepassing op het lid van de eilandsraad aan wi
 
 ### Artikel  2  
 
-1.  De eilandgedeputeerden van het openbaar lichaam Bonaire genieten per jaar een bezoldiging van USD 62.008.   
-2.  De eilandgedeputeerden van de openbare lichamen Sint Eustatius en Saba genieten per jaar een bezoldiging van USD 49.652.   
+1.  De eilandgedeputeerden van het openbaar lichaam Bonaire genieten per jaar een bezoldiging van USD 65.660.   
+2.  De eilandgedeputeerden van de openbare lichamen Sint Eustatius en Saba genieten per jaar een bezoldiging van USD 51.266.   
 3.  Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), wijziging ondergaat, wordt met ingang van de datum waarop die wijziging ingaat bij ministeriële regeling de bezoldiging van de eilandgedeputeerden dienovereenkomstig gewijzigd, onder nadere vaststelling voor zoveel nodig, van de bedragen, genoemd in het eerste en tweede lid.   
 4.  De maandelijkse uitbetaling van de bezoldiging wordt naar boven afgerond in hele dollars.   
 

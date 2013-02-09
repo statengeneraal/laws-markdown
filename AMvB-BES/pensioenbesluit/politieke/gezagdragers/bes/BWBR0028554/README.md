@@ -117,7 +117,7 @@ c. de eisen die worden gesteld aan de organisatie die de planmatige ondersteunin
 1.  De uitkering bedraagt gedurende de eerste drie maanden 95 procent, de daarop volgende zeven maanden 85 procent, de daarop volgende tien maanden 75 procent en vervolgens 70 procent van de bezoldiging als politieke gezagdrager.   
 2.  Onder bezoldiging bedoeld in het eerste lid wordt verstaan de vaste inkomensbestanddelen waarop de politieke gezagdrager op de dag voorafgaande aan het ontslag aanspraak had.   
 3.  In afwijking van het tweede lid, worden onkostenvergoedingen, onder welke benaming dan ook, niet gerekend tot de bezoldiging.   
-4.  Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Wet materieel ambtenarenrecht BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), wijziging ondergaat, wordt met ingang van de datum waarop die wijziging ingaat de uitkering, bedoeld in het eerste lid, overeenkomstig deze wijziging aangepast, onder nadere vaststelling voor zoveel nodig, van de bedragen, genoemd in artikel 1, eerste lid.   
+4.  Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), wijziging ondergaat, wordt met ingang van de datum waarop die wijziging ingaat de uitkering, bedoeld in het eerste lid, overeenkomstig deze wijziging aangepast, onder nadere vaststelling voor zoveel nodig, van de bedragen, genoemd in artikel 1, eerste lid.   
 5.  Bij ministeriële regeling, kunnen omtrent de vaststelling van de bezoldiging bedoeld in het tweede lid, en de overeenkomstige wijziging bedoeld in het vierde lid, nadere regels worden gesteld.   
 
 ### Artikel  5  
@@ -156,7 +156,7 @@ a. is overleden;
 
 b. de leeftijd als bedoeld in [artikel 6 van de Wet algemene ouderdomsverzekering BES](../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) heeft bereikt;  
 
-c. opnieuw politieke gezagdrager wordt;  
+c. opnieuw in hetzelfde ambt optreedt;  
 
 d. [vervallen]  
 
@@ -209,12 +209,12 @@ a. voor ieder geheel jaar diensttijd drie percent van de pensioengrondslag en
 b. voor elke resterende gehele maand diensttijd 1/12 deel van drie percent, tot een maximum van 70%.     
 2.  Voor de toepassing van het eerste lid, sub b, wordt een resterende diensttijd van minder dan een maand voor een gehele maand gerekend.   
 3.  Het pensioen van de politieke gezagdrager en gewezen politieke gezagdrager die in meerdere categorieën als bedoeld in artikel 1, sub a, een functie als politieke gezagdrager heeft vervuld, bedraagt de som van de voor ieder van die categorieën afzonderlijk berekende bedragen op basis van de bij de onderscheiden categorieën behorende diensttijd, berekeningsgrondslag en pensioengrondslag.   
-4.  Indien de vervulling van de functie van politieke gezagdrager niet een volledige dagtaak in beslag neemt, wordt de berekeningsgrondslag vastgesteld op basis van de bezoldiging van de politieke gezagdrager alsof deze bezoldiging een volledige dagtaak besloeg. Het ingevolge het eerste tot en met derde lid van dit artikel aldus berekende pensioen wordt tot een pensioenbedrag teruggebracht in dezelfde mate waarin de bezoldiging van de politieke gezagdrager is verhoogd tot een bezoldiging met een volledige dagtaak.   
-5.  Bij ministeriële regeling, kunnen omtrent de verhouding tussen de bezoldiging van een in het vierde lid bedoelde functie en de bezoldiging in een functie met een volledige dagtaak, nadere regels worden gesteld.   
+4.  Bij de toepassing van het eerste tot en met derde lid wordt, indien het bedrag van de berekeningsgrondslag kleiner is dan drie keer het bedrag van de franchise en voor zover het die berekeningsgrondslag betreft, het pensioen berekend als percentage van de berekeningsgrondslag waarbij 2,25% als jaarlijks percentage geldt en 52,5% als maximum.   
+5.  In de gevallen dat de tijd doorgebracht als politieke gezagdrager in eenzelfde categorie in totaal langer dan twaalf maanden heeft geduurd, bedraagt het ingevolge dit artikel voor de desbetreffende categorie berekende pensioen ten minste USD 161 voor ieder geheel jaar in die hoedanigheid doorgebrachte tijd, welk bedrag wordt verhoogd met USD 13,50 voor elke resterende gehele maand met dien verstande dat een resterende tijd van minder dan een maand voor een gehele maand wordt gerekend.   
 
 ### Artikel  14  
 
-1.  Indien de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), wordt verhoogd in verband met de stijging van het prijsindexcijfer van de gezinsconsumptie en wordt bepaald dat die wijziging een algemeen karakter draagt, wordt de pensioengrondslag met ingang van de dag waarop die bezoldigingswijziging ingaat overeenkomstig deze wijziging aangepast. De toegekende pensioenen worden dienovereenkomstig opnieuw vastgesteld.   
+1.  Indien de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), wijziging ondergaat, wordt de pensioengrondslag met ingang van de datum waarop die wijziging ingaat overeenkomstig deze wijziging aangepast. De toegekende pensioenen worden dienovereenkomstig opnieuw vastgesteld.   
 2.  Indien een wijziging van de bezoldigingen bedoeld in het eerste lid, een verlaging van deze bezoldigingen inhoudt ten opzichte van het van het voorafgaande peil, vindt aanpassing van de pensioengrondslag niet plaats. Indien een later volgende wijziging als hiervoor bedoeld, een verhoging inhoudt, wordt deze verhoging geheel of gedeeltelijk achterwege gelaten totdat de aanpassing die de pensioengrondslag bij toepassing van het eerste lid zou hebben ondergaan, geheel is gecompenseerd.   
 3.  Bij ministeriële regeling, kunnen voor de uitvoering van het eerste en tweede lid nadere regels worden gesteld.   
 

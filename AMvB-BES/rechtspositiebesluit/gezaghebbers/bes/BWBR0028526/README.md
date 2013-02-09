@@ -4,13 +4,12 @@
 
 ### Artikel  1  
 
-1.  De bezoldiging voor de gezaghebber bedraagt: 
+1. 
+a. USD 80.817 per jaar voor de gezaghebber van het openbaar lichaam Bonaire;  
 
-a. USD 70.845 per jaar voor de gezaghebber van het openbaar lichaam Bonaire;  
+b. USD 58.522 per jaar voor de gezaghebber van het openbaar lichaam Sint Eustatius;  
 
-b. USD 56.680 per jaar voor de gezaghebber van het openbaar lichaam Sint Eustatius;  
-
-c. USD 56.680 per jaar voor de gezaghebber van het openbaar lichaam Saba.     
+c. USD 58.522 per jaar voor de gezaghebber van het openbaar lichaam Saba.     
 2.  De maandelijkse uitbetaling van de bezoldiging wordt naar boven afgerond op hele dollars.   
 3.  De pensioengrondslag bedraagt 100% van de bezoldiging.   
 
