@@ -7,18 +7,21 @@ Gelet op [artikel 4, eerste lid, van de Wet op de zorgtoeslag](../../../../../..
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2008 
 
-De standaardpremie wordt voor het jaar 2006 vastgesteld op € 1015.  
+De standaardpremie wordt voor het jaar 2006 vastgesteld op € 1015. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2008 
 
-Deze regeling treedt in werking met ingang van 1 januari 2006.  
+Deze regeling treedt in werking met ingang van 1 januari 2006. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2008 
 
-Deze regeling wordt aangehaald als: Regeling vaststelling standaardpremie 2006.  
+Deze regeling wordt aangehaald als: Regeling vaststelling standaardpremie 2006. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-J.F.Hoogervorst   
+J.F. Hoogervorst     

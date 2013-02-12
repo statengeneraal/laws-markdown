@@ -36,13 +36,13 @@ i. ZEUS: het reorganisatietraject ‘Zeer Excellente Uitvoering Secundaire Proce
 
 j. ZEUS Centraal: de invulling van de nieuw te vormen gemeenschappelijke dienst vanuit de Centrale Sector en de bedrijfsvoeringsonderdelen van DG Milieu, DG Wonen, DG Ruimte en het Inspectoraat Generaal VROM en de invulling van de nieuw te vormen Concernstaf;  
 
-k. ZEUS Decentraal: de aanpassing van de organisaties en inrichting van een minimaal in te vullen bedrijfsvoeringsfunctie door DG Milieu, DG Wonen, DG Ruimte en de VROM Inspectie.    
+k. ZEUS Decentraal: de aanpassing van de organisaties en inrichting van een minimaal in te vullen bedrijfsvoeringsfunctie door DG Milieu, DG Wonen, DG Ruimte en de VROM Inspectie.   
 
 ### Artikel  2  
 
 ####Eén reorganisatie
 
-De reorganisaties van ZEUS Centraal en ZEUS Decentraal worden aangemerkt als één reorganisatie, waarbij de plaatsvervangend secretaris-generaal voor het gehele reorganisatietraject wordt aangewezen als bevoegd gezag, als bedoel in artikel 1 van het Besluit Reorganisaties VROM 2001.  
+De reorganisaties van ZEUS Centraal en ZEUS Decentraal worden aangemerkt als één reorganisatie, waarbij de plaatsvervangend secretaris-generaal voor het gehele reorganisatietraject wordt aangewezen als bevoegd gezag, als bedoel in artikel 1 van het Besluit Reorganisaties VROM 2001. 
 
 ### Artikel  3  
 
@@ -54,26 +54,26 @@ a. de voor dit doel noodzakelijk geachte taken en bevoegdheden, zoals bedoeld in
 
 b. de taken en bevoegdheden, zoals bedoeld onder a, aan de plaatsvervangend secretaris-generaal toegekend;  
 
-c. de taken en bevoegdheden, zoals bedoeld in de [artikelen twee tot en met vier van de Regeling taken en bevoegdheden VROM 2002](../../../../../../../../../ministeriele-regeling/regeling/taken/en/bevoegdheden/vrom/2002/BWBR0013199/README.md) toegekend aan de plaatsvervangend –secretaris-generaal. Dit voor zover deze betrekking hebben op ZEUS Centraal en ZEUS Decentraal.     
+c. de taken en bevoegdheden, zoals bedoeld in de [artikelen twee tot en met vier van de Regeling taken en bevoegdheden VROM 2002](../../../../../../../../../ministeriele-regeling/regeling/taken/en/bevoegdheden/vrom/2002/BWBR0013199/README.md) toegekend aan de plaatsvervangend –secretaris-generaal. Dit voor zover deze betrekking hebben op ZEUS Centraal en ZEUS Decentraal.    
 
 ### Artikel  4  
 
 ####Volmacht en machtiging
 
 1.  Aan de plaatsvervangend secretaris-generaal wordt volmacht en machtiging verleend voor het verrichten van (rechts-)handelingen, voor zover het aangelegenheden betreft die verband houden met de taken, bedoeld in artikel 3 van deze regeling, waarvan het naar zijn oordeel en te zijner verantwoording niet noodzakelijk is dat de minister of staatssecretaris deze verricht;   
-2.  De plaatsvervangend secretaris-generaal wordt toegestaan het hem verleende mandaat, de hem verleende volmacht of de hem verleende machtiging door te geven aan onder hem ressorterende functionarissen.   
+2.  De plaatsvervangend secretaris-generaal wordt toegestaan het hem verleende mandaat, de hem verleende volmacht of de hem verleende machtiging door te geven aan onder hem ressorterende functionarissen.  
 
-### Artikel  5  
+### Artikel   5  
 
 ####Ondertekening
 
 1.  Ingeval van schriftelijke vastlegging van een handeling van de plaatsvervangend secretaris-generaal, luidt de ondertekening: ‘De minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, voor deze: de plaatsvervangend secretaris generaal’   
-2.  Indien het een handeling van een onder de plaatsvervangend secretaris-generaal ressorterende daartoe bevoegde functionaris betreft, luidt de ondertekening: ‘De minister van Volkshuisvesting, Ruimtelijke Ordening en Milieu voor deze: de plaatsvervangend secretaris-generaal   
+2.  Indien het een handeling van een onder de plaatsvervangend secretaris-generaal ressorterende daartoe bevoegde functionaris betreft, luidt de ondertekening: ‘De minister van Volkshuisvesting, Ruimtelijke Ordening en Milieu voor deze: de plaatsvervangend secretaris-generaal  
 Deze regeling zal met de daarbij behorende toelichting worden geplaatst in de Staatscourant.   
 
 Den Haag 
 7 oktober 2003    
 
 De 
-Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
-S.M.Dekker    
+Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer 
+S.M. Dekker      
