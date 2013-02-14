@@ -26,7 +26,8 @@ Als buitengewoon opsporingsambtenaar worden aangewezen de ambtenaren van politie
 
 ### Artikel  4  
 
-Op grond van dit besluit kunnen maximaal 100 personen als buitengewoon opsporingsambtenaar worden beëdigd.  
+1.  Op grond van dit besluit kunnen maximaal 100 personen als buitengewoon opsporingsambtenaar worden beëdigd.   
+2.  De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) omschreven bevoegdheden uitoefenen en daarbij gebruikmaken van handboeien.   
 
 ### Artikel  5  
 

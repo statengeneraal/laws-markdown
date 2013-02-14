@@ -18,9 +18,11 @@ b. *het onderzoek:* het experiment waarmee wordt onderzocht of persoonlijke onde
 
 c. *werkgever:* een werkgever als bedoeld in [artikel 11 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
 
-d. *persoon:* persoon als bedoeld in [artikel 35 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of [artikel 22:2 van de Wet Wajong](../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) bij wie UWV heeft vastgesteld dat hij zonder persoonlijke ondersteuning zoals bedoeld in [artikel 18, tweede lid, onder a, van het Reïntegratiebesluit](../../../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md), niet in staat is de hem door de werkgever opgedragen taken te verrichten;  
+d. *persoon:* persoon als bedoeld in [artikel 35 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of [artikel 2:22 van de Wet Wajong](../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) bij wie UWV heeft vastgesteld dat hij zonder persoonlijke ondersteuning zoals bedoeld in [artikel 18, tweede lid, onder a, van het Reïntegratiebesluit](../../../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md), niet in staat is de hem door de werkgever opgedragen taken te verrichten;  
 
-e. *jobcoachorganisatie:* een door UWV erkende rechtspersoon als bedoeld in [artikel 18 van het Reïntegratiebesluit](../../../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md).    
+e. *jobcoachorganisatie:* een door UWV erkende rechtspersoon als bedoeld in [artikel 18 van het Reïntegratiebesluit](../../../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md);  
+
+f. *proefplaatsing:* onbeloonde werkzaamheden op een proefplaats als bedoeld in [artikel 37 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [artikel 2:24 van de Wet Wajong](../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md).    
 
 ### Artikel  2  
 
@@ -34,7 +36,9 @@ b. de persoon voor wie de subsidie wordt gevraagd een arbeidsovereenkomst heeft 
 
 c. de persoonlijke ondersteuning waarvoor de subsidie wordt aangevraagd van voldoende omvang en kwaliteit is;  
 
-d. de persoon voor wie subsidie wordt gevraagd daarvan op de hoogte is en instemt met de persoonlijke ondersteuning door de werkgever.    
+d. de persoon voor wie subsidie wordt gevraagd daarvan op de hoogte is en instemt met de persoonlijke ondersteuning door de werkgever;  
+
+e. de persoon voor wie de subsidie wordt aangevraagd werkzaamheden verricht op basis van proefplaatsing, mits deze proefplaatsing bij dezelfde werkgever direct aansluitend en aantoonbaar wordt gevolgd door een arbeidsovereenkomst als omschreven onder b van dit artikel.    
 
 ### Artikel  3  
 
@@ -57,7 +61,7 @@ d. de persoon voor wie subsidie wordt gevraagd daarvan op de hoogte is en instem
 * of er sprake is van groepsbegeleiding;  
 
 * het gevraagde subsidiebedrag voor het lopende jaar onderbouwd met een begroting.     
-2.  Voor de aanvraag om voortzetting van de subsidie voor 2012 wordt eveneens een formulier beschikbaar gesteld.   
+2.  Voor de aanvraag om voortzetting van de subsidie voor 2012 en 2013 wordt eveneens een formulier beschikbaar gesteld.   
 3.  De aanvraag gaat vergezeld van: 
 
 * de arbeidsovereenkomst van de persoon op wie de aanvraag betrekking heeft;  
@@ -92,7 +96,11 @@ b. de omvang en kwaliteit van de door de werkgever geboden persoonlijke onderste
 
 a. de mate waarin de persoon begeleid wordt aan de hand van het schema van de begeleidingsregimes zoals opgenomen in de toelichting bij deze beleidsregel;  
 
-b. een maximum vergoeding per te begeleiden persoon afhankelijk van het toegekende begeleidingsregime en het aantal werkuren per week.     
+b. een maximum vergoeding per te begeleiden persoon afhankelijk van het toegekende begeleidingsregime en het aantal werkuren per week;  
+
+c. het middenregime geldt voor de standaardsituatie als passend. Alleen in uitzonderingsgevallen kan het intensieve regime worden ingezet;  
+
+d. uitgangspunt is dat de begeleiding zo snel mogelijk doch uiterlijk na 3 jaar is afgebouwd. Is direct voorafgaand aan subsidieverlening op grond van dit besluit begeleiding toegekend op grond van [artikel 35 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of [artikel 2:22 van de Wet Wajong](../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), dan wordt de periode waarover deze begeleiding is toegekend mede in aanmerking genomen voor de vaststelling van de periode van 3 jaar.     
 2.  Bij het intensieve begeleidingsregime en een dienstverband van tenminste 24 uur per week bedraagt de maximum vergoeding op jaarbasis per persoon € 6800,–, bij het midden regime € 4500,– , bij het lichte regime € 2700,– en bij het zeer lichte regime € 1400,–.   
 3.  Bij een dienstverband van minder dan 24 uur per week wordt de maximum vergoeding naar rato vastgesteld.   
 4.  Bij de verlening van de subsidie gaat UWV uit van de aanname dat het dienstverband van de te begeleiden persoon doorloopt tot het einde van het lopende kalenderjaar.   
@@ -104,22 +112,34 @@ b. een maximum vergoeding per te begeleiden persoon afhankelijk van het toegeken
 ####Verplichtingen voor de werkgever
 
 1.  De werkgever die subsidie ontvangt houdt een administratie bij van de activiteiten met betrekking tot de persoonlijke ondersteuning van de persoon waarvoor de werkgever subsidie ontvangt en maakt bij de rapportage gebruik van het hiertoe door UWV beschikbaar gestelde formulier.   
-2.  UWV behoudt zich het recht voor om gericht de administratie van een bij de subsidieverlening betrokken werkgever door te nemen wanneer omstandigheden daartoe aanleiding geven.   
-3.  De werkgever die subsidie ontvangt deelt UWV op diens verzoek en uit eigen beweging onverwijld alle feiten en omstandigheden mee waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op de verstrekte subsidie.   
-4.  De werkgever die subsidie ontvangt verstrekt desgevraagd aan UWV of aan een door UWV aangewezen onderzoeksbureau, informatie die nodig is voor de met betrekking tot het onderzoek uit te voeren evaluatie.   
+2.  De werkgever die vanaf 1 januari 2013 deelneemt aan het onderzoek werkt desgevraagd mee aan de ontwikkeling van een digitale verantwoording van de activiteiten met betrekking tot de persoonlijke ondersteuning van de persoon waarvoor deze werkgever subsidie ontvangt.   
+3.  UWV behoudt zich het recht voor om gericht de administratie van een bij de subsidieverlening betrokken werkgever door te nemen wanneer omstandigheden daartoe aanleiding geven.   
+4.  De werkgever die subsidie ontvangt deelt UWV op diens verzoek en uit eigen beweging onverwijld alle feiten en omstandigheden mee waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op de verstrekte subsidie.   
+5.  De werkgever die subsidie ontvangt verstrekt desgevraagd aan UWV of aan een door UWV aangewezen onderzoeksbureau, informatie die nodig is voor de met betrekking tot het onderzoek uit te voeren evaluatie.   
+
+### Artikel  6a  
+
+####Aanvragen door Wajong georiënteerde werkgevers
+
+1.  Een wajong georiënteerde werkgever is een werkgever die een arbeidsovereenkomst heeft met ten minste 6 personen als bedoeld in artikel 1 onder d.   
+2.  Een werkgever als bedoeld in het eerste lid kan voor een subsidie in aanmerking komen indien hij voor al zijn werknemers, voor wie persoonlijke ondersteuning noodzakelijk is, kiest voor deelname aan het onderzoek zoals bedoeld in artikel 1 onderdeel b en de werknemers in staat zijn ten minste 30% van het wettelijk minimumloon te verdienen.   
+3.  De subsidie kan uitsluitend worden ingezet voor een collectieve vorm van persoonlijke ondersteuning.   
+4.  De arbeidsdeskundige van UWV stelt per werknemer vast of hij in aanmerking komt voor persoonlijke ondersteuning en stelt daarbij tevens het begeleidingsregime vast. Indien drie begeleidingsjaren zijn verstreken, beoordeelt de arbeidsdeskundige of de werknemer in aanmerking komt voor voortzetting van persoonlijke ondersteuning. Indien de werknemer na drie begeleidingsjaren in aanmerking komt voor voortzetting wordt uitgegaan van persoonlijke ondersteuning volgens het laagste regime.   
+5.  De arbeidsdeskundige van UWV beoordeelt bij de toekenning van de aanvragen of de interne begeleider, gelet op de bijzonderheden van de werknemers, in staat is collectieve jobcoaching te bieden.   
+6.  In afwijking van artikel 6, tweede lid wordt de verantwoording op groepsniveau verricht door de werkgever.   
 
 ### Artikel  7  
 
 ####Looptijd van het onderzoek
 
-1.  Een aanvraag voor subsidie op grond van dit besluit kan worden ingediend vanaf de datum van inwerkingtreding van dit besluit tot en met 31 december 2011.   
-2.  De subsidie kan worden verleend ten behoeve van persoonlijke ondersteuning die wordt gegeven vanaf 1 januari 2011 tot en met 31 december 2012.   
+1.  Een aanvraag voor subsidie op grond van dit besluit kan worden ingediend vanaf de datum van inwerkingtreding van dit besluit tot en met 31 december 2011 en vanaf 1 januari 2013 tot en met 31 december 2013.   
+2.  De subsidie kan worden verleend ten behoeve van persoonlijke ondersteuning die wordt gegeven vanaf 1 januari 2011 tot en met 31 december 2013.   
 
 ### Artikel  8  
 
 ####Subsidieplafond
 
-1.  Het voor de werkgevers beschikbare subsidiebedrag voor de subsidieperiode als bedoeld in artikel 7, tweede lid, bedraagt € 4.3 miljoen.   
+1.  Het beschikbare subsidiebedrag voor de subsidieperiode van 1 januari 2011 tot en met 31 december 2013 bedraagt € 4.3 miljoen.   
 2.  Aanvragen worden behandeld op volgorde van binnenkomst, voor zover zij volledig zijn.   
 
 ### Artikel  9  

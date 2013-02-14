@@ -14,11 +14,11 @@ De Nederlandse Zorgautoriteit, heeft krachtens de [paragrafen 2](../../../../../
 
 Hoogachtend, 
 
-Nederlandse Zorgautoriteit 
+Nederlandse Zorgautoriteit
 J.C.E. Kursten  
 unitmanager Eerstelijns Zorg en Ketens   
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####bij Tariefbeschikking
 
@@ -158,23 +158,23 @@ unitmanager Eerstelijns Zorg en Ketens
 | 239023  | Eenvoudige, korte rapporten  | € 62,60  |
 | 239024  | Meer gecompliceerde, tijdrovende rapporten  | € 125,00  |
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####bij Tariefbeschikking
 
 *TB/CU-7059-02 van 23 januari 2013*  Onder techniekkosten worden te dezen verstaan de door de zorgaanbieders die mondzorg leveren zoals tandartsspecialisten voor mondziekten en kaakchirurgie die bieden, betaalde of verschuldigde techniekkosten, respectievelijk de hiermee vergelijkbare door de zorgaanbieder gemaakte kosten. De eventueel door de zorgaanbieder gemaakte techniekkosten mogen in ieder geval niet hoger zijn dan de maximumtarieven voor de tandtechniek in eigen beheer, zoals deze zijn vastgesteld door de NZa. 
 
-### Bijlage  3  
+### Bijlage 3 
 
 ####bij Tariefbeschikking
 
-*TB/CU-7059-02 van 23 januari 2013*   *Inleidende en Algemene Bepalingen bij de maximumtarieven voor zorgaanbieders die mondzorg leveren zoals tandartsspecialisten voor mondziekten en kaakchirurgen die bieden met ingang van 1 januari 2013*  *01.* Deze tarieven gelden als maximumtarieven voor zorgaanbieders die mondzorg leveren zoals tandartsspecialisten voor mondziekten en kaakchirurgen die bieden (hierna te noemen: zorgaanbieder) met betrekking tot kaakchirurgische hulp. *02.* De zorgaanbieder is in principe gehouden persoonlijk en op eigen naam zijn declaraties in te dienen. *03.* Voor consulten buiten de werkgemeente geldt een maximum vacatiegeld per dag van € 435,50, inclusief reis- en verblijfkosten, maar exclusief het tarief voor consult of verrichting(en). *04.* Het tarief voor een (vervolg)consult en/of verrichting(en) mag worden verhoogd met: 
+*TB/CU-7059-02 van 23 januari 2013*   *Inleidende en Algemene Bepalingen bij de maximumtarieven voor zorgaanbieders die mondzorg leveren zoals tandartsspecialisten voor mondziekten en kaakchirurgen die bieden met ingang van 1 januari 2013*   *01.* Deze tarieven gelden als maximumtarieven voor zorgaanbieders die mondzorg leveren zoals tandartsspecialisten voor mondziekten en kaakchirurgen die bieden (hierna te noemen: zorgaanbieder) met betrekking tot kaakchirurgische hulp.  *02.* De zorgaanbieder is in principe gehouden persoonlijk en op eigen naam zijn declaraties in te dienen.  *03.* Voor consulten buiten de werkgemeente geldt een maximum vacatiegeld per dag van € 435,50, inclusief reis- en verblijfkosten, maar exclusief het tarief voor consult of verrichting(en).  *04.* Het tarief voor een (vervolg)consult en/of verrichting(en) mag worden verhoogd met: 
 
 – maximaal 50% voor consulten en/of verrichtingen op werkdagen tussen 23.00 en 08.00 uur;  
 
 – maximaal 50% voor consulten en/of verrichtingen op andere dagen dan werkdagen tussen 08.00 en 23.00 uur;  
 
-– maximaal 100% voor consulten en/of verrichtingen op andere dagen dan werkdagen tussen 23.00 en 08.00 uur.   Onder werkdagen wordt verstaan: maandag van 08.00 uur tot en met vrijdag 23.00 uur; met uitzondering van de nationale feestdagen: Nieuwjaarsdag, Tweede Paasdag, Koninginnedag, Hemelvaartsdag, Tweede Pinksterdag en beide Kerstdagen. Deze regeling is alleen van toepassing indien de zorgaanbieder voor het desbetreffende consult en/of de desbetreffende verrichting speciaal wordt geroepen, dus niet als de zorgaanbieder reeds in het ziekenhuis aanwezig is. *05.* Op de nota dienen onderstaande gegevens te worden vermeld: Persoonsgegevens: naam/adres zorgaanbieder/patiënt; Aard van de hulp: klinisch: – opgenomen van ... tot ...; 
+– maximaal 100% voor consulten en/of verrichtingen op andere dagen dan werkdagen tussen 23.00 en 08.00 uur.   Onder werkdagen wordt verstaan: maandag van 08.00 uur tot en met vrijdag 23.00 uur; met uitzondering van de nationale feestdagen: Nieuwjaarsdag, Tweede Paasdag, Koninginnedag, Hemelvaartsdag, Tweede Pinksterdag en beide Kerstdagen. Deze regeling is alleen van toepassing indien de zorgaanbieder voor het desbetreffende consult en/of de desbetreffende verrichting speciaal wordt geroepen, dus niet als de zorgaanbieder reeds in het ziekenhuis aanwezig is.  *05.* Op de nota dienen onderstaande gegevens te worden vermeld: Persoonsgegevens: naam/adres zorgaanbieder/patiënt; Aard van de hulp: klinisch: – opgenomen van ... tot ...; 
 
 – verrichtingen met vermelding van de codenummers;   poliklinisch: – soort consult; 
 
@@ -190,13 +190,13 @@ Tariefgroep I betreft de maximumtarieven voor consulten.
 
 ####Consult
 
-Er is alleen sprake van een consult als er een uitgebreid onderzoek wordt verricht. Indien een consult direct wordt gevolgd door een verrichting uit Tariefgroep II van de tarievenlijst, wordt het consult niet in rekening gebracht. Het opnemen van een eenvoudige anamnese over aard en duur van de klachten, behalve informatie naar de algemene gezondheid, dienen als een geheel met de daaropvolgende behandeling en behorende bij de behandeling te worden beschouwd. Voor het maximumtarief van het consult verleent de zorgaanbieder gedurende één maand na de datum waarop de patiënt zich voor het eerst bij de zorgaanbieder meldt, consultatieve poliklinische hulp betreffende hetzelfde ziektegeval.  
+Er is alleen sprake van een consult als er een uitgebreid onderzoek wordt verricht. Indien een consult direct wordt gevolgd door een verrichting uit Tariefgroep II van de tarievenlijst, wordt het consult niet in rekening gebracht. Het opnemen van een eenvoudige anamnese over aard en duur van de klachten, behalve informatie naar de algemene gezondheid, dienen als een geheel met de daaropvolgende behandeling en behorende bij de behandeling te worden beschouwd. Voor het maximumtarief van het consult verleent de zorgaanbieder gedurende één maand na de datum waarop de patiënt zich voor het eerst bij de zorgaanbieder meldt, consultatieve poliklinische hulp betreffende hetzelfde ziektegeval. 
 
 ### b  
 
 ####Telefonisch consult
 
-Voor telefonisch verstrekte adviezen kan geen bedrag gedeclareerd worden.  
+Voor telefonisch verstrekte adviezen kan geen bedrag gedeclareerd worden. 
 
 ####Algemene bepalingen betreffende tariefgroep ii
 
@@ -206,7 +206,7 @@ Tariefgroep II regelt de maximum tarieven van met name genoemde verrichtingen.
 
 ####Verrichtingen
 
-Dit zijn de poliklinische en klinische verrichtingen, vermeld in Tariefgroep II van de verrichtingenlijst. Daarin zijn begrepen de controlebezoeken, voor zover deze binnen 30 dagen na de ingreep plaatsvinden.  
+Dit zijn de poliklinische en klinische verrichtingen, vermeld in Tariefgroep II van de verrichtingenlijst. Daarin zijn begrepen de controlebezoeken, voor zover deze binnen 30 dagen na de ingreep plaatsvinden. 
 
 ### b  
 
@@ -218,7 +218,7 @@ Als algemene regel geldt dat het tarief de volledige behandeling van die aandoen
 
 – de verrichting, ongeacht of die in één of meer zittingen plaatsvindt, ongeacht of deze poliklinisch of klinisch plaatsvindt, ook ongeacht het aantal opnames dat noodzakelijk is;  
 
-– de nabehandeling totdat de patiënt voor de desbetreffende aandoening, waarvoor het verrichtingstariefnummer is gedeclareerd, genezen verklaard wordt, dan wel uit de behandeling ontslagen wordt.    
+– de nabehandeling totdat de patiënt voor de desbetreffende aandoening, waarvoor het verrichtingstariefnummer is gedeclareerd, genezen verklaard wordt, dan wel uit de behandeling ontslagen wordt.   
 
 ### c  
 
@@ -228,25 +228,25 @@ Assistentie kan alleen in rekening worden gebracht indien het noodzakelijk was d
 
 – de kaakchirurg zich op medische gronden doet bijstaan door een collega kaakchirurg of tandartsspecialist. Hierbij mag het desbetreffende honorariumtarief door de kaakchirurg met maximaal 25% worden verhoogd; of  
 
-– de kaakchirurg zich bij een klinische verrichting op medische gronden doet bijstaan door een tandarts of arts, niet zijnde een tandartsspecialist of medisch specialist. Hierbij mag het desbetreffende honorariumtarief van de kaakchirurg met maximaal 25% worden verhoogd.    
+– de kaakchirurg zich bij een klinische verrichting op medische gronden doet bijstaan door een tandarts of arts, niet zijnde een tandartsspecialist of medisch specialist. Hierbij mag het desbetreffende honorariumtarief van de kaakchirurg met maximaal 25% worden verhoogd.   
 
 ### d  
 
 ####Anesthesie
 
-Anesthesie, gegeven door een zorgaanbieder die de operatie verricht, kan niet afzonderlijk worden gedeclareerd.  
+Anesthesie, gegeven door een zorgaanbieder die de operatie verricht, kan niet afzonderlijk worden gedeclareerd. 
 
 ### e  
 
 ####Meer dan één kaakchirurgische ingreep en/of verrichting in één zitting
 
-De volgende bepalingen gelden voor zowel het kostenbedrag als voor het honorariumbedrag (kaakchirurg en indien van toepassing anesthesioloog). Indien meer kaakchirurgische ingrepen en/of verrichtingen in één zitting door dezelfde wond plaatsvinden, wordt alleen de ingreep of verrichting met het hoogste maximumtarief gedeclareerd. Indien meer kaakchirurgische ingrepen en/of verrichtingen in één zitting, maar niet door dezelfde wond plaatsvinden, wordt de ingreep of verrichting met het hoogste maximumtarief volledig berekend, vermeerderd met de helft van het tarief dat voor elk andere soort ingreep of verrichting geldt. Dubbelzijdige of in onder- en bovenkaak gecombineerde kaakchirurgische ingrepen en/of verrichtingen in één zitting worden gedeclareerd met anderhalf maal het maximumtarief dat voor een enkelzijdige ingreep of verrichting is vastgesteld, tenzij de prestatiebeschrijving anders vermeldt. Bij een combinatie van een dubbelzijdige of in onder- en bovenkaak gecombineerde kaakchirurgische ingreep of verrichting en nog een andere ingreep in dezelfde zitting door een andere wond, wordt als volgt gedeclareerd: éénmaal de verrichting met het hoogste maximumtarief vermeerderd met de helft van het maximumtarief van de andere soort verrichtingen.  
+De volgende bepalingen gelden voor zowel het kostenbedrag als voor het honorariumbedrag (kaakchirurg en indien van toepassing anesthesioloog). Indien meer kaakchirurgische ingrepen en/of verrichtingen in één zitting door dezelfde wond plaatsvinden, wordt alleen de ingreep of verrichting met het hoogste maximumtarief gedeclareerd. Indien meer kaakchirurgische ingrepen en/of verrichtingen in één zitting, maar niet door dezelfde wond plaatsvinden, wordt de ingreep of verrichting met het hoogste maximumtarief volledig berekend, vermeerderd met de helft van het tarief dat voor elk andere soort ingreep of verrichting geldt. Dubbelzijdige of in onder- en bovenkaak gecombineerde kaakchirurgische ingrepen en/of verrichtingen in één zitting worden gedeclareerd met anderhalf maal het maximumtarief dat voor een enkelzijdige ingreep of verrichting is vastgesteld, tenzij de prestatiebeschrijving anders vermeldt. Bij een combinatie van een dubbelzijdige of in onder- en bovenkaak gecombineerde kaakchirurgische ingreep of verrichting en nog een andere ingreep in dezelfde zitting door een andere wond, wordt als volgt gedeclareerd: éénmaal de verrichting met het hoogste maximumtarief vermeerderd met de helft van het maximumtarief van de andere soort verrichtingen. 
 
 ### f  
 
 ####Preventieve parodontale behandeling (234027 en 234028)
 
-Het gaat hierbij uitsluitend om door de behandelend zorgaanbieder die geneeskundige zorg levert zoals medisch specialisten die bieden, verwezen gehospitaliseerde patiënten, bij wie deze behandeling geïndiceerd is, alsmede om patiënten bij wie preventieve parodontale behandeling noodzakelijk en urgent is, en die redelijkerwijs niet verwezen kunnen worden naar de eerste lijn. Hierbij valt te denken aan: patiënten die chemotherapie en/of radiotherapie (moeten) ondergaan; patiënten in afwachting van open hartchirurgie; patiënten met HIV/aids; patiënten in afwachting van nierdialyse; patiënten bij wie een transplantatie moet geschieden.  
+Het gaat hierbij uitsluitend om door de behandelend zorgaanbieder die geneeskundige zorg levert zoals medisch specialisten die bieden, verwezen gehospitaliseerde patiënten, bij wie deze behandeling geïndiceerd is, alsmede om patiënten bij wie preventieve parodontale behandeling noodzakelijk en urgent is, en die redelijkerwijs niet verwezen kunnen worden naar de eerste lijn. Hierbij valt te denken aan: patiënten die chemotherapie en/of radiotherapie (moeten) ondergaan; patiënten in afwachting van open hartchirurgie; patiënten met HIV/aids; patiënten in afwachting van nierdialyse; patiënten bij wie een transplantatie moet geschieden. 
 
 ### g  
 
@@ -282,25 +282,25 @@ In het maximum tarief van kleine verrichtingen (234030) zijn begrepen onderstaan
 
 – fistulografie;  
 
-– neurolyse door middel van injecties.    
+– neurolyse door middel van injecties.   
 
 ### h  
 
 ####Fractuurbehandeling
 
-De fractuurbehandeling door middel van external fixation wordt gelijkgesteld aan operatieve fractuurbehandeling. Indien in het beloop van een conservatieve fractuurbehandeling overgegaan wordt op een operatieve behandeling van die fractuur, kan slechts één verrichtingsnummer gedeclareerd worden en wel de hoogst genoteerde verrichting. Indien de fractuurbehandeling niet tot consolidatie leidt en klinische, röntgenologische en/of andere onderzoekingen de diagnose pseudo-arthrose doen stellen, dan kan de eerdere behandeling als afgesloten worden beschouwd (in de betekenis van volledige behandeling). De kaakchirurgische ingreep of verrichting, gericht op die pseudo-arthrose, kan als een nieuwe volledige behandeling worden gedeclareerd.  
+De fractuurbehandeling door middel van external fixation wordt gelijkgesteld aan operatieve fractuurbehandeling. Indien in het beloop van een conservatieve fractuurbehandeling overgegaan wordt op een operatieve behandeling van die fractuur, kan slechts één verrichtingsnummer gedeclareerd worden en wel de hoogst genoteerde verrichting. Indien de fractuurbehandeling niet tot consolidatie leidt en klinische, röntgenologische en/of andere onderzoekingen de diagnose pseudo-arthrose doen stellen, dan kan de eerdere behandeling als afgesloten worden beschouwd (in de betekenis van volledige behandeling). De kaakchirurgische ingreep of verrichting, gericht op die pseudo-arthrose, kan als een nieuwe volledige behandeling worden gedeclareerd. 
 
 ### i  
 
 ####Gebruik van operatiekamer
 
-Het gebruik van de kleine operatiekamer, de verstrekking van medicamenten en bacteriologisch en/of pathologisch-anatomisch onderzoek kunnen alleen door de instelling aan de patiënten in rekening worden gebracht. Het gebruik van een behandelkamer binnen of buiten een erkende instelling kan door een zorgaanbieder niet apart worden berekend.  
+Het gebruik van de kleine operatiekamer, de verstrekking van medicamenten en bacteriologisch en/of pathologisch-anatomisch onderzoek kunnen alleen door de instelling aan de patiënten in rekening worden gebracht. Het gebruik van een behandelkamer binnen of buiten een erkende instelling kan door een zorgaanbieder niet apart worden berekend. 
 
 ### j  
 
 ####Intermaxillaire fixatie
 
-Het tarief voor intermaxillaire fixatie (238048) kan niet worden gedeclareerd in combinatie met een osteotomie, een fractuurbehandeling en/of een reconstructieve behandeling.  
+Het tarief voor intermaxillaire fixatie (238048) kan niet worden gedeclareerd in combinatie met een osteotomie, een fractuurbehandeling en/of een reconstructieve behandeling. 
 
 ####Algemene bepalingen betreffende tariefgroep iii
 
@@ -328,11 +328,11 @@ Tariefgroep III regelt de maximum tarieven van diagnostische en niet-operatieve 
 
 6. In het geval het MRA gemaakt wordt vanwege OSAS (Obstructief Slaap Apneu Syndroom) zal multidisciplinaire diagnostiek tot de indicatie MRA-behandeling hebben geleid. Voor de keuze van een type MRA kan het noodzakelijk zijn om aanvullend onderzoek te doen. Dit aanvullend onderzoek kan apart in rekening worden gebracht met behulp van de prestatiebeschrijvingen uit tariefgroep I Consultatie en tariefgroep III Diagnostische en niet-operatieve ingrepen.  
 
-7. In het geval er voor het repareren van het MRA (code 234192) opnieuw moet worden geregistreerd, is het vervaardigen en declareren van een nieuwe MRA mogelijk (code 234190 plus techniekkosten).    
+7. In het geval er voor het repareren van het MRA (code 234192) opnieuw moet worden geregistreerd, is het vervaardigen en declareren van een nieuwe MRA mogelijk (code 234190 plus techniekkosten).   
 
 ####Algemene bepalingen betreffende tariefgroep iv
 
-Tariefgroep IV regelt de kostenvergoedingen voor gebruik van eigen apparatuur, techniekkosten en vacatiegelden.  
+Tariefgroep IV regelt de kostenvergoedingen voor gebruik van eigen apparatuur, techniekkosten en vacatiegelden. 
 
 ####Algemene bepalingen betreffende tariefgroep v
 
@@ -342,11 +342,11 @@ Tariefgroep V regelt de maximum tarieven voor inlichtingen en rapporten.
 
 ####Schriftelijke informatieverstrekking aan bedrijfsarts of verzekeringsarts (239022)
 
-Deze prestatie kan in rekening worden gebracht voor informatieverstrekking aan een bedrijfsarts of verzekeringsarts binnen het kader van sociaalrechtelijke wetgeving. Voor een gevraagde toelichting/verduidelijking op de verstrekte informatie kan niet iets aanvullends in rekening worden gebracht.  
+Deze prestatie kan in rekening worden gebracht voor informatieverstrekking aan een bedrijfsarts of verzekeringsarts binnen het kader van sociaalrechtelijke wetgeving. Voor een gevraagde toelichting/verduidelijking op de verstrekte informatie kan niet iets aanvullends in rekening worden gebracht. 
 
 ### b  
 
 ####Rapporten (239023 en 239024)
 
-Hieronder niet te verstaan rapport aan patiënt, ziektekostenverzekeraar en zorgaanbieder zijnde behandelend arts, behandelend tandarts of behandelend tandartsspecialist. Geldt tevens niet voor informatieverstrekking aan zorgaanbieder zijnde bedrijfsarts of verzekeringsarts.  
+Hieronder niet te verstaan rapport aan patiënt, ziektekostenverzekeraar en zorgaanbieder zijnde behandelend arts, behandelend tandarts of behandelend tandartsspecialist. Geldt tevens niet voor informatieverstrekking aan zorgaanbieder zijnde bedrijfsarts of verzekeringsarts. 
 
