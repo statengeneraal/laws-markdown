@@ -51,39 +51,40 @@ Deze verordening is van toepassing op de ondernemers die een onderneming drijven
 
 a. een algemene heffing van: 
 
-€ 79,- per onderneming, of  
+- € 110,- per onderneming, of  
 
-€ 60,50 per onderneming, indien uitsluitend de ambulante handel wordt uitgeoefend;    
+- € 84,- per onderneming, indien uitsluitend de ambulante handel wordt uitgeoefend;    
 
-b. een filiaalheffing van € 48,30 voor elke tweede en volgende verkoopplaats van een onderneming; en  
+b. een filiaalheffing van € 67,- voor elke tweede en volgende verkoopplaats van een onderneming; en  
 
-c. een heffing werkzame personen waarvan de hoogte afhankelijk is van de klasse waarin de onderneming op onderstaande wijze is ingedeeld.  
+c. een heffing werkzame personen waarvan de hoogte afhankelijk is van de klasse waarin de onderneming op onderstaande wijze is ingedeeld:  
 
-|  *klasse*   |  *aantal werkzame personen*   |  *heffing werkzame personen*   |
+| --- | --- | --- |
 |:---|:---|:---|
+|  *klasse*   |  *aantal werkzame personen*   |  *heffing werkzame personen*   |
 | 1  | 0  | nihil  |
 | 2  | 1  | nihil  |
-| 3  | 2 tot 5  | € 10,50  |
-| 4  | 5 tot 10  | € 42,50  |
-| 5  | 10 tot 20  | € 66,30  |
-| 6  | 20 tot 50  | € 92,80  |
-| 7  | 50 tot 100  | € 132,50  |
-| 8  | 100 tot 200  | € 212,20  |
-| 9  | 200 tot 500  | € 318,20  |
-| 10  | 500 en meer  | € 397,60  |
+| 3  | 2 tot 5  | € 15,-  |
+| 4  | 5 tot 10  | € 59,-  |
+| 5  | 10 tot 20  | € 92,-  |
+| 6  | 20 tot 50  | € 129,-  |
+| 7  | 50 tot 100  | € 184,-  |
+| 8  | 100 tot 200  | € 295,-  |
+| 9  | 200 tot 500  | € 442,-  |
+| 10  | 500 en meer  | € 552,-  |
 
-Geen heffing werkzame personen is verschuldigd door de ondernemer in wiens onderneming uitsluitend de ambulante handel wordt uitgeoefend.     
-2.  De som van de algemene heffing, de filiaalheffing en de heffing werkzame personen bedraagt ten hoogste € 3.473,20.   
+Geen heffing werkzame personen is verschuldigd door de ondernemer in wiens onderneming uitsluitend de ambulante handel wordt uitgeoefend.   
+2.  De som van de algemene heffing, de filiaalheffing en de heffing werkzame personen bedraagt ten hoogste € 4.816,-.   
 
 ### Artikel  4  
 
-1.  Indien voor de ondernemer tevens het Hoofdbedrijfschap Ambachten is ingesteld en door dit hoofdbedrijfschap heffing wordt opgelegd, wordt de door de ondernemer verschuldigde algemene heffing verminderd tot € 44,90. De heffing werkzame personen wordt in dat geval tot de helft verminderd.   
-2.  Indien voor de ondernemer die uitsluitend de ambulante handel uitoefent tevens het Hoofdbedrijfschap Ambachten is ingesteld en door dit hoofdbedrijfschap heffing wordt opgelegd, wordt de door de ondernemer verschuldigde algemene heffing verminderd tot € 35,30.   
-3.  Indien voor één of meer verkoopplaatsen van de onderneming tevens het Bedrijfschap Horeca en Catering is ingesteld en door dit bedrijfschap heffing wordt opgelegd, wordt de door de ondernemer verschuldigde algemene heffing verminderd tot € 60,--. De filiaalheffing voor de betrokken verkoopplaats wordt verminderd tot € 42,30.   
-4.  Indien voor de onderneming tevens het Hoofdbedrijfschap Ambachten en het Bedrijfschap Horeca en Catering is ingesteld en aan deze onderneming door beide bedrijfschappen heffing wordt opgelegd, wordt de door de ondernemer verschuldigde algemene heffing verminderd tot € 35,90. Indien de ondernemer uitsluitend ambulante handel uitoefent, bedraagt deze heffing € 30,80.   
+1.  Indien voor de ondernemer tevens het Hoofdbedrijfschap Ambachten is ingesteld en door dit hoofdbedrijfschap heffing wordt opgelegd, wordt de door de ondernemer verschuldigde algemene heffing verminderd tot € 62,30. De heffing werkzame personen wordt in dat geval tot de helft verminderd.   
+2.  Indien voor de ondernemer die uitsluitend de ambulante handel uitoefent tevens het Hoofdbedrijfschap Ambachten is ingesteld en door dit hoofdbedrijfschap heffing wordt opgelegd, wordt de door de ondernemer verschuldigde algemene heffing verminderd tot € 48,90.   
+3.  Indien voor één of meer verkoopplaatsen van de onderneming tevens het Bedrijfschap Horeca en Catering is ingesteld en door dit bedrijfschap heffing wordt opgelegd, wordt de door de ondernemer verschuldigde algemene heffing verminderd tot € 83,20. De filiaalheffing voor de betrokken verkoopplaats wordt verminderd tot € 58,70.   
+4.  Indien voor de onderneming tevens het Hoofdbedrijfschap Ambachten en het Bedrijfschap Horeca en Catering is ingesteld en aan deze onderneming door beide bedrijfschappen heffing wordt opgelegd, wordt de door de ondernemer verschuldigde algemene heffing verminderd tot € 49,80. Indien de ondernemer uitsluitend ambulante handel uitoefent, bedraagt deze heffing € 42,70.   
 5.  Indien voor één of meer verkoopplaatsen van de onderneming tevens het Bedrijfschap Horeca en Catering is ingesteld en door dit bedrijfschap heffing wordt opgelegd, is door de ondernemer geen algemene heffing respectievelijk filiaalheffing verschuldigd, indien door de ondernemer wordt aangetoond dat de detailhandelsomzet in de betrokken verkoopplaats of -plaatsen van zijn onderneming minder dan € 45.378,- per jaar bedraagt. Als maatstaf geldt de omzet in het jaar voorafgaande aan het heffingsjaar.   
-6.  Indien voor de onderneming tevens het Hoofdbedrijfschap Afbouw en Onderhoud is ingesteld en aan deze onderneming door dit hoofdbedrijfschap heffing wordt opgelegd, wordt de door de ondernemer verschuldigde algemene heffing verminderd tot € 62,60.   
-7.  Indien voor de onderneming tevens het Productschap Dranken, commissie Slijters is ingesteld en aan deze onderneming door dit productschap heffing wordt opgelegd, wordt de door de ondernemer verschuldigde algemene heffing verminderd met € 2,-.   
+6.  Indien voor de onderneming tevens het Hoofdbedrijfschap Afbouw en Onderhoud is ingesteld en aan deze onderneming door dit hoofdbedrijfschap heffing wordt opgelegd, wordt de door de ondernemer verschuldigde algemene heffing verminderd tot € 86,40.   
+7.  Indien voor de onderneming tevens het Productschap Dranken, commissie Slijters is ingesteld en aan deze onderneming door dit productschap heffing wordt opgelegd, wordt de door de ondernemer verschuldigde algemene heffing verminderd met € 2,80.   
 
 ### Artikel  5  
 
@@ -93,7 +94,7 @@ a. de Koninklijke Vereniging MKB-Nederland,
 
 b. de Raad Nederlandse Detailhandel,  
 
-c. de Centrale Vereniging voor de Ambulante Handel,   en over het jaar 2012 de volledige contributie heeft betaald, wordt een aftrek toegestaan van € 26,60 op de algemene heffing met dien verstande dat de aftrek niet meer mag bedragen dan de helft van de verenigingscontributie of de algemene heffing. De aftrek bedraagt € 13,30 op de algemene heffing indien deze reeds is verminderd op grond van artikel 4, leden 1 tot en met 6.   
+c. de Centrale Vereniging voor de Ambulante Handel, en over het jaar 2012 de volledige contributie heeft betaald, wordt een aftrek toegestaan van € 36,90 op de algemene heffing met dien verstande dat de aftrek niet meer mag bedragen dan de helft van de verenigingscontributie of de algemene heffing. De aftrek bedraagt € 18,45 op de algemene heffing indien deze reeds is verminderd op grond van artikel 4, leden 1 tot en met 6.     
 2.  Onder indirecte leden worden in dit verband verstaan leden van een branche- of regionale/lokale organisatie, die is aangesloten bij een in het eerste lid, onder a of b genoemde koepelorganisatie.   
 3.  Het eerste lid is van overeenkomstige toepassing op de ondernemers die lid, of indirect lid zijn, van een organisatie van ondernemers die een vereniging met volledige rechtsbevoegdheid is en die: 
 

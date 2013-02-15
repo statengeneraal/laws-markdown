@@ -19,7 +19,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder verdrag: het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109).  
+In deze regeling wordt verstaan onder verdrag: het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109). 
 
 ### §  2  
 
@@ -27,7 +27,7 @@ In deze regeling wordt verstaan onder verdrag: het op 7 december 1944 te Chicag
 
 ### Artikel  2  
 
-Deze paragraaf is van toepassing op luchtwerk tegen vergoeding en op een vlucht niet tegen vergoeding.  
+Deze paragraaf is van toepassing op luchtwerk tegen vergoeding en op een vlucht niet tegen vergoeding. 
 
 ### Artikel  3  
 
@@ -37,7 +37,7 @@ a. in geval van een vliegtuig: de voorschriften van deel II en aanbeveling 3.5 v
 
 b. in geval van een helikopter: de voorschriften van deel III, sectie III, en aanbeveling 1.1.5 van die sectie.     
 2.  Deel II en sectie III van deel III van bijlage 6 bij het verdrag zijn opgenomen in de bijlage bij deze regeling.   
-3.  Een vlucht met een vliegtuig of een helikopter wordt slechts uitgevoerd indien voor iedere persoon van zes jaar of ouder een zit- of ligplaats aanwezig is.   
+3.  Een vlucht met een vliegtuig of een helikopter wordt slechts uitgevoerd indien voor iedere persoon van zes jaar of ouder een zit- of ligplaats aanwezig is.  
 
 ### Artikel  4  
 
@@ -54,7 +54,7 @@ d. de naam en taak van elk lid van het boordpersoneel;
 
 e. technische storingen, opgelopen schade en verrichte herstellingen die tijdens de vlucht zijn voorgekomen, respectievelijk zijn uitgevoerd;  
 
-f. ongevallen, bijzondere voorvallen en overschrijding van de gestelde gebruiksgrenzen die zich hebben voorgedaan.     
+f. ongevallen, bijzondere voorvallen en overschrijding van de gestelde gebruiksgrenzen die zich hebben voorgedaan.    
 
 ### Artikel  5  
 
@@ -72,7 +72,7 @@ e. het journaal, bedoeld in artikel 4;
 
 f. indien van toepassing: het geluidscertificaat of de geluidsverklaring, bedoeld in [artikel 3.19a van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
 
-g. indien het luchtvaartuig is uitgerust met vast ingebouwde radioapparatuur: de vergunning voor gebruik van frequentieruimte, bedoeld in [artikel 3.3 van de Telecommunicatiewet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+g.indien het luchtvaartuig is uitgerust met vast ingebouwde radioapparatuur: de vergunning voor gebruik van frequentieruimte, bedoeld in [artikel 3.13 van de Telecommunicatiewet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md); 
 
 h. bij een internationale vlucht: 
 
@@ -80,11 +80,11 @@ h. bij een internationale vlucht:
 
 2°. indien het luchtvaartuig lading vervoert: een manifest en een gespecificeerde verklaring omtrent de lading als bedoeld in artikel 29 van het verdrag;  
 
-3°. indien het luchtvaartuig gevaarlijke stoffen vervoert: de NOTOC, bedoeld in de Regeling meldings- en informatieplicht vervoer gevaarlijke stoffen door de lucht.      
+3°. indien het luchtvaartuig gevaarlijke stoffen vervoert: de NOTOC, bedoeld in de Regeling meldings- en informatieplicht vervoer gevaarlijke stoffen door de lucht.     
 
 ### Artikel  6  
 
-Een vlucht met een vliegtuig waarvan de maximale startmassa meer dan 5700 kg bedraagt, wordt slechts uitgevoerd indien het cockpitpersoneel bestaat uit ten minste een eerste en een tweede bestuurder.  
+Een vlucht met een vliegtuig waarvan de maximale startmassa meer dan 5700 kg bedraagt, wordt slechts uitgevoerd indien het cockpitpersoneel bestaat uit ten minste een eerste en een tweede bestuurder. 
 
 ### §  3  
 
@@ -110,7 +110,7 @@ g. instructies voor het bepalen van de mee te voeren hoeveelheid brandstof;
 
 h. de wijze waarop de bekwaamheid van de leden van het boordpersoneel wordt vastgesteld;  
 
-i. de beschrijving van een controlesysteem dat voor de start, tijdens de vlucht, bij de landing en in noodgevallen wordt gebruikt om te waarborgen dat de aanwijzingen van het vaarthandboek en van de fabrikant van de ballon worden opgevolgd.    
+i. de beschrijving van een controlesysteem dat voor de start, tijdens de vlucht, bij de landing en in noodgevallen wordt gebruikt om te waarborgen dat de aanwijzingen van het vaarthandboek en van de fabrikant van de ballon worden opgevolgd.   
 
 ### Artikel  8  
 
@@ -120,11 +120,11 @@ i. de beschrijving van een controlesysteem dat voor de start, tijdens de vlucht,
 a. de in artikel 4, tweede lid, bedoelde gegevens;  
 
 b. de meteorologische invloeden die de navigatie hebben bemoeilijkt.     
-3.  Het journaal wordt ten minste drie maanden bewaard.   
+3.  Het journaal wordt ten minste drie maanden bewaard.  
 
 ### Artikel  9  
 
-Artikel 5 is van overeenkomstige toepassing op een vlucht met een vrije ballon tegen vergoeding.  
+Artikel 5 is van overeenkomstige toepassing op een vlucht met een vrije ballon tegen vergoeding. 
 
 ### §  4  
 
@@ -132,11 +132,11 @@ Artikel 5 is van overeenkomstige toepassing op een vlucht met een vrije ballon t
 
 ### Artikel  10  
 
-Wijzigt de Regeling logboeken.   
+Wijzigt de Regeling logboeken. 
 
 ### Artikel  11  
 
-Wijzigt de Regeling tarieven luchtvaart 2008.   
+Wijzigt de Regeling tarieven luchtvaart 2008. 
 
 ### Artikel  12  
 
@@ -144,7 +144,7 @@ De volgende regelingen worden ingetrokken:
 
 a. [Regeling boorddocumenten luchtvaart](../../../../ministeriele-regeling/regeling/boorddocumenten/luchtvaart/BWBR0018245/README.md);  
 
-b. [Tarievenregeling](../../../../ministeriele-regeling/tarievenregeling/BWBR0005818/README.md).    
+b. [Tarievenregeling](../../../../ministeriele-regeling/tarievenregeling/BWBR0005818/README.md).  
 
 ### Artikel  13  
 
@@ -157,8 +157,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings  
+C.M.P.S. Eurlings    
 
-### Bijlage  
+###Bijlage 
 
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.  
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
