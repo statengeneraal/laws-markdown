@@ -22,7 +22,7 @@ In dit besluit wordt verstaan onder:
 
 a. Onze Minister: Onze Minister van Economische Zaken;  
 
-b. Commissie: de Commissie van de Europese Gemeenschappen;  
+b. Commissie: de Europese Commissie;  
 
 c. Overeenkomst inzake overheidsopdrachten: de op 15 april 1995 te Marrakech tot stand gekomen Overeenkomst inzake overheidsopdrachten (Trb. 1994, 235);  
 
@@ -375,6 +375,14 @@ Dit besluit is niet van toepassing op een concessieovereenkomst voor werken of e
 ### Artikel  18  
 
 Dit besluit is niet van toepassing op opdrachten die geheim zijn verklaard of waarvan de uitvoering overeenkomstig de geldende wettelijke en bestuursrechtelijke bepalingen met bijzondere veiligheidsmaatregelen gepaard moet gaan of wanneer de bescherming van de fundamentele belangen van de staatsveiligheid van het land zulks vereist.  
+
+### Artikel  18a  
+
+Het bij of krachtens dit besluit bepaalde is niet van toepassing op het plaatsen van opdrachten waarop: 
+
+a. de [Aanbestedingswet op defensie- en veiligheidsgebied](../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md) van toepassing is;  
+
+b. de [Aanbestedingswet op defensie- en veiligheidsgebied](../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md) niet van toepassing is ingevolge de [artikelen 2.3](../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md), [2.16](../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md) en [2.17 van die wet](../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md).    
 
 ### Artikel  19  
 

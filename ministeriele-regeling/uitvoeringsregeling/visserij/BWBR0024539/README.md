@@ -273,7 +273,7 @@ Het is verboden te vissen met:
 
 a. sleepnetten al dan niet met wekkerkettingen in de Oosterschelde ten oosten van de Oosterscheldekering, en  
 
-b. sleepnetten met wekkerkettingen in de gebieden genoemd in bijlage 3a en 5.    
+b. sleepnetten met wekkerkettingen in de gebieden genoemd in bijlage 3a, 3b en 5.    
 
 ### Artikel  14  
 
@@ -541,9 +541,9 @@ Een vrijstelling als bedoeld in artikel 33, wordt niet verleend voor het rapen v
 
 a. het vissen in het gebied, genoemd in bijlage 3;  
 
-b. het vissen met vistuigen geschikt voor het vangen van schelpdieren in de gebieden genoemd in bijlage 3, 3a en 5, en  
+b. het vissen met vistuigen geschikt voor het vangen van schelpdieren in de gebieden genoemd in bijlage 3, 3a, 3b en 5, en  
 
-c. het vissen met vistuigen, geschikt voor het vangen van garnalen in het gebied, genoemd in bijlage 3a en 6.     
+c. het vissen met vistuigen, geschikt voor het vangen van garnalen in de gebieden genoemd in bijlage 3a, 3b en 6.     
 2.  In afwijking van het eerste lid, aanhef en onderdeel b, kan wel een vergunning worden verleend voor het zonder mechanische hulpmiddelen vissen op kokkels in de gebieden, genoemd in bijlage 5a.   
 
 ### Artikel  35a  
@@ -1392,6 +1392,49 @@ Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:
 | 53  | 10 300  | 5  | 20 411  |
 | 53  | 10 030  | 5  | 20 411  |
 | 53  | 10 030  | 5  | 19 055  |
+
+### Bijlage  3b  
+
+####Aanduidingen van gebieden in de Vlakte van de Raan, behorend bij artikel 13, onder b , en bij artikel 35, eerste lid 
+
+### I  
+
+####Vlakte van de Raan, nr. 13
+
+Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:  
+
+| NB  |--- | OL  |--- |
+|:---|:---|:---|:---|
+| 51  | 31 062  | 3  | 21 612  |
+| 51  | 30 902  | 3  | 21 966  |
+| 51  | 30 682  | 3  | 21 706  |
+| 51  | 30 842  | 3  | 21 352  |
+
+### II  
+
+####Vlakte van de Raan, nr. 14
+
+Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:  
+
+| NB  |--- | OL  |--- |
+|:---|:---|:---|:---|
+| 51  | 33 004  | 3  | 16 858  |
+| 51  | 32 806  | 3  | 17 157  |
+| 51  | 32 618  | 3  | 16 839  |
+| 51  | 32 818  | 3  | 16 537  |
+
+### III  
+
+####Vlakte van de Raan, nr. 15
+
+Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:  
+
+| NB  |--- | OL  |--- |
+|:---|:---|:---|:---|
+| 51  | 30 815  | 3  | 16 479  |
+| 51  | 30 682  | 3  | 16 861  |
+| 51  | 30 445  | 3  | 16 644  |
+| 51  | 30 578  | 3  | 16 263  |
 
 ### Bijlage  4  
 

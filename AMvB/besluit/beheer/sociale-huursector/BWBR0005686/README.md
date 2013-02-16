@@ -662,7 +662,508 @@ Ligt ter inzage bij de bibliotheek van het Ministerie van Volkshuisvesting, Ruim
 
 ### Bijlage  III  
 
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties te ’s-Gravenhage.  
+####bij artikel 29, derde lid , en 39a, tweede lid , van het Besluit beheer sociale-huursector
+
+####Controleprotocol Besluit beheer sociale-huursector (Bbsh) 2012
+
+### 1  
+
+####Algemeen
+
+####Belangrijke wijzigingen
+
+Nieuw in het controleprotocol 2012 is de opname van controlewerkzaamheden in relatie tot de [Beleidsregels gebruik financiële derivaten door toegelaten instellingen volkshuisvesting](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md). Verder is de beschrijving van de controlewerkzaamheden in relatie tot de toewijzingsgegevens aangepast. Daarnaast zijn er enkele wijzigingen (actualisering, verduidelijking en aanscherping) doorgevoerd in de beschrijving van de controlewerkzaamheden van de overige onderdelen van de dVi. Net zoals in het controleprotocol 2011 is er uitsluitend nog sprake van assurance-werkzaamheden leidend tot een controleverklaring en twee assurance-rapporten met een redelijke mate van zekerheid. Bij het opstellen van het protocol is gebruik gemaakt van de Handreiking Controleprotocollen van de Nederlandse Beroepsvereniging van Accountants (NBA). De voorgeschreven werkzaamheden van de accountant hebben betrekking op de jaarrekening en het jaarverslag, alsmede de daarvoor aangewezen onderdelen van de dVi, de verkoop van woongelegenheden, de aanbesteding van maatschappelijk vastgoed en de naleving van de voorwaarden bij derivatentransacties vanaf 1 oktober 2012. In paragraaf 2 zijn de controle op de sponsoractiviteiten, financiële ondersteuning aan buitenlandse instellingen en de grondaankopen vervallen. Het is gebleken dat de verantwoording over de sponsoractiviteiten op orde is en derhalve een laag risicoprofiel kent. De controle op de financiële ondersteuning aan buitenlandse instellingen is overgeheveld naar rubriek C. Voor wat betreft de verantwoording over de grondaankopen wordt voldoende informatie verkregen via de verantwoordingsinformatie (dVi, Assurance rapport, *Onderdeel dVi 3.4.1B*). Opname in dit protocol is daarom geschrapt.  
+
+####Doelstelling
+
+Conform o.a. artikel 28 van het Besluit beheer sociale-huursector (Bbsh) dient een toegelaten instelling ([artikel 70, eerste lid, van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md)) een accountant als bedoeld in artikel 27 van het Bbsh, te laten onderzoeken, of: 
+
+– de jaarrekening, bedoeld in artikel 26, eerste lid, van het Bbsh, het in [artikel 362 lid 1 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) (hierna: BW) vereiste inzicht geeft en voldoet aan de overige krachtens artikel 26, eerste lid, van het Bbsh daarop van toepassing zijnde voorschriften;  
+
+– het jaarverslag, bedoeld in artikel 26, eerste lid, en het volkshuisvestingsverslag, bedoeld in artikel 26, tweede lid, van het Bbsh voor zover deze dat kan beoordelen, overeenkomstig die leden zijn opgesteld en met de jaarrekening verenigbaar zijn, en  
+
+– het overzicht, bedoeld in artikel 26, derde lid, van het Bbsh (dVi), in overeenstemming is met de vastgestelde jaarrekening.   Conform artikel 29, derde lid, en artikel 39a, tweede lid, van het Bbsh, worden in bijlage III bij het Bbsh nadere voorwaarden gesteld aan de werkzaamheden van de accountants van de toegelaten instellingen. Dit controleprotocol is de invulling hiervan en heeft als doel nadere aanwijzingen te geven voor de werkzaamheden en rapportage van de accountant. Het controleprotocol beoogt echter geen onderzoeksaanpak voor te schrijven en is evenmin een (uitputtend) werkprogramma. Het controleprotocol is getoetst op uitvoerbaarheid door de werkgroep Controleprotocollen (COPRO) van de Nederlandse Beroepsorganisatie van Accountants (NBA). In geval van fusie (in het verslagjaar) tussen toegelaten instellingen zal overleg plaatsvinden tussen het Centraal Fonds Volkshuisvesting (CFV), de betrokken toegelaten instellingen en de accountant over de toepassing van het controleprotocol en de tekst van de assurance-rapporten.  
+
+####Onderzoeksobjecten
+
+De onderzoeksobjecten voor de accountantswerkzaamheden bij toegelaten instellingen zijn: 
+
+– de jaarrekening en het jaarverslag;  
+
+– de naleving van specifieke wet- en regelgeving inzake de melding van verkoop bezit, de aanbesteding van maatschappelijk vastgoed en de naleving van de [Beleidsregels](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md) voor derivatentransacties vanaf 1 oktober 2012;  
+
+– de verantwoordingsgegevens over het verslagjaar in de vorm van de dVi.   Bovengenoemde onderzoeksobjecten en de daaraan gekoppelde accountantswerkzaamheden worden in dit controleprotocol achtereenvolgens behandeld in de rubrieken A, B en C. Hierbij zijn de nadere doelstellingen per onderdeel uitgewerkt en is de specifiek van toepassing zijnde regelgeving weergegeven. Verder zijn per onderdeel nadere aanwijzingen voor de werkzaamheden van de accountant benoemd. Zie hiervoor hoofdstuk 2 tot en met 4. Verder dienen te worden uitgevoerd de algemene accountantswerkzaamheden inzake de controle op de bezoldigingsgegevens die uit hoofde van de [Wet openbaarmaking publiek gefinancierde topinkomens](../../../../../wet/wet/openbaarmaking/uit/publieke/middelen/gefinancierde/topinkomens/BWBR0019562/README.md) (Wopt) en de reguliere jaarrekeningvereisten van [artikel 383 van Boek 2 van het BW](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) gepubliceerd dienen te worden. Deze werkzaamheden maken onderdeel uit van de controle van de jaarrekening en de daarbij af te geven controleverklaring (rubriek A).  
+
+####De accountantsproducten
+
+De accountantswerkzaamheden met betrekking tot de hiervoor genoemde onderzoeksobjecten monden uit in een aantal accountantsrapportages zoals opgenomen in rubriek D. Zie hiervoor hoofdstuk 5. De accountant dient de volgende producten te leveren: 
+
+A. De accountantscontrole op de jaarrekening en het jaarverslag mondt uit in een controleverklaring waarvoor de accountant de tekst dient te hanteren zoals opgenomen in het onder rubriek D opgenomen model I.  
+
+B. De werkzaamheden van de accountant met betrekking tot de naleving van de specifieke wet- en regelgeving zijn aan te merken als het uitvoeren van een assurance-opdracht overeenkomstig Standaard 3000, leidend tot een assurance-rapport (rubriek D model II).  
+
+C. De werkzaamheden met betrekking tot de dVi over het verslagjaar, inclusief de verantwoording omtrent de woningtoewijzing uit hoofde van de EU-beschikking zijn eveneens aan te merken als het uitvoeren van een assurance-opdracht overeenkomstig Standaard 3000, leidend tot een assurance-rapport (rubriek D model III).  
+
+D. Het accountantsverslag als bedoeld in [artikel 393 lid 4 van Boek 2 van het BW](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).    
+
+####Procedures verslaggeving toegelaten instellingen
+
+Conform artikel 30 van het Bbsh dient de toegelaten instelling jaarlijks voor 1 juli de jaarrekening en het jaarverslag, het volkshuisvestingsverslag en de dVi over het voorafgaande verslagjaar, alsmede de bij die stukken behorende accountantsrapportages, in te dienen bij de minister, het college van burgemeester en wethouders van de gemeente waar zij haar woonplaats heeft of feitelijk werkzaam is, en het bestuur van het CFV. Conform artikel 30, tweede lid, van het Bbsh zendt de toegelaten instelling jaarlijks het accountantsverslag als bedoeld in [artikel 393 lid 4 van Boek 2 van het BW](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) naar de Minister voor Wonen en Rijksdienst en het CFV. Indien een toegelaten instelling een of meer van de bescheiden op 1 juli van een jaar niet heeft verstrekt wordt, conform artikel 31 van het Bbsh, een termijn van ten hoogste vier weken gesteld binnen welke de ontbrekende bescheiden alsnog moeten worden verstrekt. Indien de ontbrekende bescheiden ook binnen deze termijn niet door de toegelaten instelling zijn verstrekt kan de minister, eigener beweging of op een daartoe strekkende aanvraag van het college van burgemeester en wethouders, en kan het bestuur van het CFV bepalen, dat zij, totdat zij die bescheiden alsnog verstrekt, de door hem aangegeven rechtshandelingen slechts kan verrichten na zijn instemming of de instemming van dat bestuur.  
+
+### 2  
+
+####Rubriek A: De controleverklaring met betrekking tot de jaarrekening en het jaarverslag
+
+### 2.1.1  
+
+####Doelstelling
+
+1. De werkzaamheden van de accountant, bedoeld in artikel 28, aanhef en onderdelen b en c, en 29 van het Bbsh hebben ten doel: 
+
+a. na te gaan of de jaarrekening, bedoeld in artikel 26, eerste lid, van het Bbsh, een getrouw beeld geeft van vermogen en resultaat en ook overigens voldoet aan de vereisten krachtens artikel 26, eerste lid, van het Bbsh;  
+
+b. na te gaan of het jaarverslag, voor zover de accountant dat kan beoordelen, overeenkomstig de vereisten krachtens artikel 26, eerste lid, van het Bbsh is opgesteld en met de jaarrekening verenigbaar is;  
+
+c. na te gaan of de gegevens, bedoeld in artikel [392 lid 1, onderdeel g, van Boek 2 van het BW](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn toegevoegd. Dit betreft de opgave van de gebeurtenissen na balansdatum met belangrijke financiële gevolgen voor de rechtspersoon en de in zijn geconsolideerde jaarrekening betrokken maatschappijen tezamen, onder mededeling van de omvang van die gevolgen.    
+
+2. De accountant geeft de uitslag van zijn onderzoek als bedoeld onder punt 1a en 1b weer in een controleverklaring omtrent de getrouwheid van de jaarrekening en de overige bij of krachtens de wet gestelde eisen.  
+
+3. Voor de uitkomst van het onderzoek als bedoeld onder punt 1c mag de accountant volstaan met de vermelding van hem gebleken tekortkomingen in de paragraaf overige bij of krachtens de wet gestelde eisen in de controleverklaring.    
+
+### 2.1.2  
+
+####Specifiek van toepassing zijnde regelgeving
+
+* [Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md) ([artikel 70 e.v](../../../../../wet/woningwet/BWBR0005181/README.md).);  
+
+* Besluit beheer sociale-huursector;  
+
+* Richtlijnen voor de jaarverslaggeving (RJ);  
+
+* [Wet openbaarmaking publiek gefinancierde topinkomens](../../../../../wet/wet/openbaarmaking/uit/publieke/middelen/gefinancierde/topinkomens/BWBR0019562/README.md);  
+
+* [Beleidsregels gebruik financiële derivaten door toegelaten instellingen volkshuisvesting](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md).    
+
+### 2.1.3  
+
+####Materialiteit (betrouwbaarheid en nauwkeurigheid)
+
+Bij de controle dienen de algemene (voor de jaarrekeningcontrole geldende) betrouwbaarheids- en nauwkeurigheidsnormen te worden gehanteerd. Voor de bezoldigingsgegevens die op grond van [artikel 383 van Boek 2 van het BW](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en de [Wopt](../../../../../wet/wet/openbaarmaking/uit/publieke/middelen/gefinancierde/topinkomens/BWBR0019562/README.md) in de jaarrekening zijn vermeld, geldt een controle- en rapporteringstolerantie van respectievelijk 2% en 0%. Hierbij geldt als omvangsbasis het totale bezoldigingsbedrag van de medewerkers waarvan, op grond van artikel 383 van Boek 2 van het BW en de Wopt, de bezoldiging in de jaarrekening is vermeld. De specifieke toleranties gelden alleen voor de post bezoldigingen, de overige posten in de jaarrekening controleert de accountant met de algemene jaarrekeningtolerantie. De accountant dient zijn controle, mede op basis van een risicoanalyse, zodanig in te richten dat voldoende zekerheid ontstaat over de volledigheid en juistheid van de bezoldigingsgegevens in de jaarrekening. Belangrijke aandachtspunten hierbij zijn mogelijke looncomponenten in onder meer onkostendeclaraties en creditcarduitgaven, betalingen die zijn verantwoord onder de ‘algemene kosten’, loon in natura, afkoopsommen, bonussen en getroffen voorzieningen voor beloningen betaalbaar op termijn. Een rapporteringstolerantie van 0% betekent dat de accountant alle ontdekte fouten moet rapporteren in het accountantsverslag, ongeacht de omvang hiervan.  
+
+### 2.1.4  
+
+####Controleverklaring
+
+Voor een goedkeurende controleverklaring dient de accountant de tekst te hanteren als opgenomen in het onder rubriek D opgenomen model I. Indien een accountant een andere dan een goedkeurende verklaring afgeeft, sluit hij aan bij de voorbeeldteksten zoals gepubliceerd op de website van de NBA.  
+
+### 2.1.5  
+
+####Controle Financiële instrumenten
+
+In RJ 645 is in alinea 102 aangegeven dat de bepalingen van [Titel 9 van Boek 2 BW](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en de Richtlijnen voor de Jaarverslaggeving van toepassing zijn voor zover niet anders aangegeven. Dit is ook zo verwoord in [artikel 9, derde lid, van de beleidsregels gebruik financiële derivaten door toegelaten instellingen volkshuisvesting](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md) van 5 september 2012. Dit betekent dat RJ 290 onverkort van toepassing is voor toegelaten instellingen. De accountant dient voortkomend uit de ‘ [beleidsregels gebruik financiële derivaten door toegelaten instellingen](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md) ’ bijzondere aandacht te besteden aan paragraaf 290.5 ‘Waardering en resultaatbepaling’ en paragraaf 290.6 ‘Hedge accounting’ van de RJ. Accountants van toegelaten instellingen worden geacht in het controleteam voldoende deskundigheid te hebben op het gebied van financiële instrumenten. Op 5 november 2012 heeft de NBA de concept handreiking 1000 ‘Speciale overwegingen bij het controleren van financiële instrumenten’ gepubliceerd. Deze NBA-handreiking is bedoeld om accountants achtergrondinformatie over financiële instrumenten te verstrekken en een nadere uitwerking te bieden van de eisen die in de controlestandaarden gesteld worden. Accountants in de sector van de toegelaten instellingen worden geacht kennis te nemen van deze NBA-handreiking aangezien dit kan helpen bij het controleren van financiële instrumenten.  
+
+### 3  
+
+####Rubriek B: het assurance-rapport inzake de naleving van specifieke wet- en regelgeving (melding verkoop bezit, aanbesteding maatschappelijk vastgoed en naleving [Beleidsregels](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md) bij derivatentransacties met ingang van 1 oktober 2012)
+
+### 3.1.1  
+
+####Doelstelling
+
+De werkzaamheden van de accountant die leiden tot een assurance-rapport hebben ten doel een redelijke mate van zekerheid te verschaffen over de naleving van de regelgeving inzake de melding van verkoop bezit, de aanbestedingsplicht voor maatschappelijk vastgoed uit hoofde van de [Tijdelijke regeling DAEB](../../../../../ministeriele-regeling/tijdelijke/regeling/diensten/van/algemeen/economisch/belang/toegelaten/etc/BWBR0028918/README.md) en de naleving van de voorwaarden uit de ‘ [beleidsregels gebruik financiële derivaten door toegelaten instellingen volkshuisvesting](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md) ’ bij nieuwe derivatentransacties vanaf 1 oktober 2012.  
+
+### 3.1.2  
+
+####Specifiek van toepassing zijnde regelgeving
+
+– Besluit beheer sociale-huursector;  
+
+– [Regeling vervreemdingen woongelegenheden](../../../../../ministeriele-regeling/regeling/vervreemdingen/woongelegenheden/BWBR0030560/README.md);  
+
+– MG 2011-04;  
+
+– [Tijdelijke regeling diensten van algemeen economisch belang toegelaten instellingen volkshuisvesting](../../../../../ministeriele-regeling/tijdelijke/regeling/diensten/van/algemeen/economisch/belang/toegelaten/etc/BWBR0028918/README.md);  
+
+– [Beleidsregels gebruik financiële derivaten door toegelaten instellingen volkshuisvesting](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md) van 5 september 2012;  
+
+– Q&A inzake de [beleidsregels gebruik financiële derivaten door toegelaten instellingen volkshuisvesting](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md) (www.cfv.nl) van 26 november 2012.    
+
+### 3.1.3  
+
+####Materialiteit (betrouwbaarheid en nauwkeurigheid)
+
+De controletolerantie is gelijk aan de bij rubriek A gehanteerde algemene (voor de jaarrekeningcontrole geldende) controletolerantie. De rapporteringstolerantie bedraagt 0%. De accountant dient daarbij alle geconstateerde afwijkingen toe te lichten in een aparte paragraaf in het assurance-rapport (‘overige aangelegenheden’), ook als dit geen invloed heeft op het afgegeven oordeel.  
+
+### 3.1.4  
+
+####Nadere uitwerking
+
+### 3.1.4.1  
+
+####Verkoop woongelegenheden
+
+De accountant dient na te gaan of er voldaan is aan de verkoopregels, zoals die zijn vastgelegd in artikel 11c en 11d van het Bbsh, alsmede in MG 2011-04 en de [Regeling vervreemding woongelegenheden](../../../../../ministeriele-regeling/regeling/vervreemdingen/woongelegenheden/BWBR0030560/README.md). 
+
+1. De accountant stelt vast dat de toegelaten instelling de bepalingen in artikel 11c van het Bbsh heeft nageleefd. Als verkoop van woongelegenheden aan natuurlijke personen voor eigen bewoning heeft plaatsgevonden voor een prijs die lager is dan 90% van de onderhandse verkoopwaarde vrij van huur en gebruik, dan dient er te worden nagegaan of er voldaan is aan hetgeen hierover is vastgelegd in de [Regeling vervreemding woongelegenheden](../../../../../ministeriele-regeling/regeling/vervreemdingen/woongelegenheden/BWBR0030560/README.md) en MG 2011-04 (het delen van de waardeontwikkeling en het terugbetalen van de korting bij doorverkoop). Een gegevensgerichte deelwaarneming op vervreemdingen van woongelegenheden aan natuurlijke personen voor eigen bewoning tegen een prijs lager dan 90% van de onderhandse verkoopwaarde vrij van huur en gebruik maakt onderdeel uit van deze werkzaamheden. De omvang van de deelwaarneming wordt overgelaten aan het ‘professional judgement’ van de accountant. Deze zal, mede op basis van risico-inschatting, een verantwoorde omvang van de deelwaarneming moeten bepalen waarmee, in samenhang met de overige werkzaamheden, tot een deugdelijke grondslag voor het oordeel wordt gekomen. De populatie waarbinnen de deelwaarneming moet worden uitgevoerd betreft alle vervreemdingen van woongelegenheden aan natuurlijke personen voor eigen bewoning tegen een prijs lager dan 90% van de onderhandse verkoopwaarde vrij van huur en gebruik.  
+
+2. De accountant stelt vast dat de toegelaten instelling de regelgeving met betrekking tot de bepaling van de onderhandse verkoopwaarde vrij van huur en gebruik bij verkoop van woongelegenheden aan natuurlijke personen voor eigen bewoning heeft nageleefd. Een gegevensgerichte deelwaarneming maakt onderdeel uit van deze werkzaamheden. Er dient gebruik te zijn gemaakt van een actueel *gevalideerd* taxatierapport, of de meest recente WOZ-beschikking (zie MG 2011-04). In alle gevallen mag het taxatierapport niet zijn opgesteld door de verkopende makelaar (onafhankelijkheidseis). Let op: voor *nieuwbouwwoningen* geldt dat het taxatierapport niet ouder mag zijn dan een jaar, waarbij als ijkpunt de datum van de verkoopovereenkomst dient te worden aangehouden. Dit wijkt dus af van de MG 2011-04 waarin de datum van overdracht als ijkpunt wordt genoemd. Voor nieuwbouwwoningen is dat in de praktijk een onredelijk ijkpunt, omdat overdracht soms lang op zich laat wachten na ondertekening van de koopovereenkomst.  
+
+3. De accountant stelt vast dat de toegelaten instelling de bepalingen in artikel 11d van het Bbsh (de zogenaamde meldingsplicht) heeft nageleefd. Hierbij wordt de juiste toepassing van de meldingsvereisten conform artikel 11d van het Bbsh en de [Regeling vervreemding woongelegenheden](../../../../../ministeriele-regeling/regeling/vervreemdingen/woongelegenheden/BWBR0030560/README.md) vastgesteld. Per 1 november 2011 zijn verkopen van woningen aan eerstegraads bloed- en aanverwanten van de koper gelijk gesteld aan verkoop aan natuurlijke personen voor eigen bewoning. Een integrale gegevensgerichte controle op vervreemdingen aan andere dan natuurlijke personen voor eigen bewoning c.q. toegelaten instellingen maakt onderdeel uit van deze werkzaamheden waarbij de accountant vaststelt dat aan de meldingsplicht is voldaan.   
+### *Verkoop onder voorwaarden* 
+
+Op 31 januari 2011 heeft de Raad voor de jaarverslaggeving RJ-Uiting 2011-02: ‘Richtlijn 645 Toegelaten instellingen volkshuisvesting' gepubliceerd. In deze Richtlijn wordt verkoop door de toegelaten instelling van een woning met een terugkoopplicht en verkoop met een terugkooprecht tegen een prijs die significant lager is dan de verwachte reële waarde op het terugkoopmoment, niet gekwalificeerd als een verkooptransactie conform RJ 270 omdat de toegelaten instelling niet alle belangrijke rechten op economische voordelen alsmede alle belangrijkste risico’s heeft overgedragen aan de koper. Dergelijke transacties kwalificeren in het kader van de regelgeving van het Bbsh en de bepalingen in de MG’s als verkooptransactie zodat de ‘normale’ bepalingen inzake de juiste toepassing van de kortingspercentages, melding van verkopen en de bepaling van de onderhandse verkoopwaarde bij vervreemdingen van toepassing zijn.  
+
+### 3.1.4.2  
+
+####Aanbesteding maatschappelijk vastgoed
+
+De accountant dient na te gaan of wet- en regelgeving wordt nageleefd inzake de aanbestedingsplicht voor maatschappelijk vastgoed uit hoofde van de [Tijdelijke regeling diensten van algemeen economisch belang toegelaten instellingen volkshuisvesting](../../../../../ministeriele-regeling/tijdelijke/regeling/diensten/van/algemeen/economisch/belang/toegelaten/etc/BWBR0028918/README.md). Met ingang van 2011 heeft de toegelaten instelling uit hoofde van deze tijdelijke regeling een aanbestedingsplicht voor maatschappelijk vastgoed. Er bestaat inzake de aanbesteding van maatschappelijk vastgoed een eis van meervoudige aanbesteding hetgeen inhoudt dat er minimaal twee partijen meedingen. De toegelaten instelling is vrij in de keuze van de aanbestedingsvorm (Europees, openbaar of onderhands). De tijdelijke regeling stelt hieromtrent geen nadere regels. De in de Tijdelijke regeling diensten van algemeen economisch belang toegelaten instellingen volkshuisvesting opgenomen verplichting om het aantal verstrekte opdrachten inzake aanbestedingen gebouwen met een maatschappelijke gebruiksbestemming op te geven, is met de Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 juni 2011 tot wijziging van de Tijdelijke regeling diensten van algemeen economisch belang toegelaten instellingen volkshuisvesting en het Besluit beheer sociale-huursector (Stcrt. 2011 nr. 11161) komen te vervallen.  
+
+### 3.1.4.3  
+
+#### [Beleidsregels gebruik financiële derivaten door toegelaten instellingen volkshuisvesting](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md) 
+
+Op 5 september 2012 heeft de Minister van Binnenlandse Zaken en Koninkrijksrelaties [beleidsregels inzake het gebruik van financiële derivaten door toegelaten instellingen volkshuisvesting](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md) gepubliceerd (verder: ‘beleidsregels’). Deze beleidsregels zijn op 1 oktober 2012 in werking getreden. Met ingang van die datum mogen er door toegelaten instellingen uitsluitend nog derivatencontracten worden afgesloten die voldoen aan de voorwaarden in de [artikelen 1 tot en met 7 van die beleidsregels](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md). De accountant dient na te gaan of de derivatentransacties vanaf 1 oktober 2012 zijn toegestaan conform de beleidsregels. De accountant stelt vast dat met ingang van 1 oktober 2012: 
+
+1. Er geen andere derivaten zijn afgesloten dan rentecaps en payer swaps, gericht op het afdekken van opwaartse renterisico’s op bestaande variabele leningen ([artikel 4, eerste lid](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md), en [artikel 7, eerste lid, van de beleidsregels](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md)). Voor de payer swaps geldt dat de looptijd niet langer is dan het lopende jaar en de eerstvolgende negen kalenderjaren daarna (artikel 7, tweede lid, van de beleidsregels). Voor de rentecaps geldt de algemene bepaling dat de looptijd van het derivaat die van de te hedgen variabele lening niet overtreft (toelichting bij artikel 7 van de beleidsregels);  
+
+2. Financiële derivaten uitsluitend zijn aangetrokken in euro’s, en van financiële instellingen met minimaal een single A rating of een daarmee vergelijkbare rating, afgegeven door ten minste twee van de drie ratingbureaus Moody’s, Standard and Poor’s en Fitch. De minimale rating van tegenpartijen was op het moment van afsluiten van het derivaat single A ([artikel 4, tweede lid, van de beleidsregels](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md));  
+
+3. De toegelaten instelling uitsluitend financiële derivaten heeft aangetrokken van een financiële instelling, als zij door deze instelling in het kader van de zorgplichtregels van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), in het bijzonder [artikel 4:90](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), als ‘niet professionele belegger’ is beschouwd ([artikel 6, eerste lid, van de beleidsregels](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md));  
+
+4. Er in of ten aanzien van de aangetrokken derivatencontracten geen clausules zijn gehanteerd die op enigerlei wijze de uitoefening van het toezicht op de toegelaten instellingen kunnen belemmeren ([artikel 5, eerste lid, van de beleidsregels](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md));  
+
+5. De modelovereenkomst en raamovereenkomst uit de [bijlagen I](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md) en [II](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md) bij de beleidsregels zijn gehanteerd ([artikel 5, tweede lid](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md), en [artikel 6, tweede lid, van de beleidsregels](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md)). De verplichting voor toegelaten instellingen om de modelovereenkomst en raamovereenkomst te hanteren geldt uitsluitend vanaf het moment dat deze door het ministerie van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar zijn gesteld.   De accountant betrekt bij zijn onderzoek van bovenstaande punten ook de ‘Q&A’ inzake de beleidsregels zoals het CFV die op zijn website heeft gepubliceerd. De accountant stelt vast dat aan de volgende punten uit de Q&A (versie 26 november 2012) is voldaan: 
+
+* [Artikel 1, onderdeel a, sub b](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md): Vraag: Worden de embedded swaps in basisrenteleningen ook beschouwd als ‘onderdelen van financiële contracten’? Antwoord: Het ministerie heeft inderdaad besloten om basisrenteleningen onder de werking van de [beleidsregels](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md) te laten vallen (het ministerie van Binnenlandse Zaken en Koninkrijksrelaties heeft dit op 23 november 2012 aan het CFV laten weten). Dit betekent dat nieuwe transacties inzake basisrenteleningen per 1 oktober 2012 aan alle voorwaarden van de beleidsregels (inclusief looptijd swaps conform [artikel 7, tweede lid](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md)) dienen te voldoen. Aangezien er in de afgelopen tijd bij veel partijen onduidelijkheid was over de vraag of basisrenteleningen onder de werking van de beleidsregels vallen, is door het ministerie besloten om basisrenteleningen die tussen 1 oktober 2012 en 1 december 2012 zijn afgesloten niet als onrechtmatig te beschouwen. Basisrenteleningen die vanaf 1 december 2012 worden afgesloten en die niet aan alle voorwaarden van de beleidsregels voldoen, zullen wel als onrechtmatig worden aangemerkt. De contracten inzake de basisrenteleningen dienen door zowel de toegelaten instelling als de bank vóór 1 december 2012 getekend te zijn.  
+
+* [Artikel 2, derde lid, van de beleidsregels](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md): Vraag: Wat wordt bedoeld met ‘het sluiten’ van derivaatposities? Antwoord: Met het sluiten van derivatenposities wordt het ondubbelzinnig unwinden (en verrekenen van de marktwaarde) van de betreffende derivaten bedoeld. In aanvulling daarop: Indien er sprake is van herstructurering van derivaten geldt dat het nieuwe (of omgevormde) derivaat na 1 oktober 2012 aan alle spelregels van de [beleidsregels](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md) dient te voldoen. Indien een toegelaten instelling gestructureerde derivaten bijvoorbeeld wil omzetten in plain vanilla payer swaps geldt er een maximale looptijd van tien jaar, dient de payer swap gekoppeld te kunnen worden aan een bestaande variabele lening en gelden ook de andere spelregels conform de beleidsregels inzake onder meer rating tegenpartijen, zorgplicht, toezichtbelemmerende bepalingen en model overeenkomsten. Ten aanzien van deze hoofdlijn wordt een uitzondering gemaakt voor het naar achteren schuiven van breakclauses (onder de voorwaarde dat alle overige modaliteiten van het derivaat ongewijzigd blijven), looptijdverkorting van bestaande derivatencontracten en het schrappen van toezichtbelemmerende clausules. De reden dat daarvoor een uitzondering wordt gemaakt is dat dit gericht is op het verlagen van het liquiditeitsrisico, hetgeen ‘in de geest’ is van de overige bepalingen in de beleidsregels.  
+
+* [Artikel 4, tweede lid, van de beleidsregels](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md): Vraag: Wat is de consequentie als na afsluiten de rating onder de norm komt? Antwoord: Het ratingvereiste in artikel 4, tweede lid, van de beleidsregels geldt op het moment van aangaan van de derivatencontracten. Indien de rating van de tegenpartij daarna lager wordt dan single A is de toegelaten instelling niet verplicht deze derivaten af te stoten.  
+
+* [Artikel 5 van de beleidsregels](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md): Vraag: Wat wordt verstaan onder toezichtbelemmerende bepalingen? Antwoord: Voorbeelden van toezichtbelemmerende bepalingen zijn de directe verwijzingen in de derivatencontracten naar de artikelen 41 en 43 van het Bbsh, maar er kunnen ook andere bepalingen (of een samenstel van bepalingen) zijn die in materiële zin het toezicht belemmeren. Soms is in de derivatencontracten opgenomen dat een wijziging in de directe of indirecte zeggenschap van de toegelaten instelling aanleiding kan zijn om de derivatencontracten te ontbinden. Indien de minister voor Wonen en Rijksdienst een externe toezichthouder/bewindvoerder zou aanstellen of indien een toegelaten instelling onder het regime van verscherpt toezicht door het CFV bijvoorbeeld is opgedragen bepaalde zaken na te laten, dan wel voor te leggen zou dit kunnen leiden tot een situatie waarbij de bank deze bepalingen wil ‘activeren’.  
+
+* [Artikel 7 van de beleidsregels](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md): Vraag: Is de looptijd van caps slechts beperkt door de looptijd van de onderliggende variabele leningen? Antwoord: Ja. De bepalingen in artikel 7, tweede lid, zien alleen op payer swaps. Voor caps geldt de algemene bepaling in artikel 7, eerste lid dat de looptijd van het derivaat die van de te hedgen variabele lening niet mag overtreffen.  
+
+* [Artikel 7 van de beleidsregels](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md): Vraag: Klopt het dat een payer swap die ingaat op 1 januari een looptijd heeft van maximaal tien jaar en een payer swap die op 31 december ingaat maximaal negen jaar? Antwoord: Ja.  
+
+* [Artikel 7 van de beleidsregels](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md): Vraag: Klopt het dat er geen payer swaps mogen worden afgesloten met een ingangsdatum na het lopende kalenderjaar (‘forwards’)? Antwoord: Ja.    
+
+### 4  
+
+####Rubriek C: het assurance-rapport inzake het de dVi over het verslagjaar (inclusief verantwoording over de woningtoewijzingen)
+
+####Doelstelling
+
+De werkzaamheden van de accountant, bedoeld in artikel 28, aanhef en lid c, van het Bbsh die leiden tot een assurance-rapport hebben ten doel een redelijke mate van zekerheid te verlenen omtrent de juiste en volledige weergave van een specifiek aantal onderdelen uit het overzicht van de dVi over het verslagjaar, inclusief verantwoording omtrent woningtoewijzingen.  
+
+####Specifiek van toepassing zijnde regelgeving
+
+* [Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md) ([artikel 70 e.v](../../../../../wet/woningwet/BWBR0005181/README.md).);  
+
+* Besluit beheer sociale-huursector;  
+
+* [Besluit Centraal Fonds voor de Volkshuisvesting (artikel 5](../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md));  
+
+* [MG 2005-04](../../../../../circulaire/circulaire/besluit/beheer/sociale-huursector/(bbsh)/BWBR0018120/README.md), MG 2010-03, MG 2011-02;  
+
+* Richtlijnen voor de jaarverslaggeving;  
+
+* [Tijdelijke regeling diensten van algemeen economisch belang toegelaten instellingen volkshuisvesting](../../../../../ministeriele-regeling/tijdelijke/regeling/diensten/van/algemeen/economisch/belang/toegelaten/etc/BWBR0028918/README.md).    
+
+####Werkwijze
+
+De verantwoordingsgegevens zijn vastgelegd in de dVi. De dVi bestaat uit diverse onderdelen. Bij een specifiek aantal onderdelen wordt een oordeel van de accountant gevraagd. Hierna is aangegeven voor welke onderdelen dat geldt. In het kader van de woningtoewijzing dient de accountant een oordeel te verstrekken over de juistheid en de volledigheid van de toewijzingsgegevens. Het assurance-rapport vereist een redelijke mate van zekerheid. Dit is hierna uitgewerkt.  
+
+####Onderzoekstolerantie
+
+Voor een 23-tal onderdelen van de dVi (zie verder paragraaf: Onderdelen Assurance-rapport) wordt een oordeel van de accountant gevraagd. Voor de overige dVi-onderdelen 1 tot en met 19 en 21 is de onderzoekstolerantie nihil aangezien het bij deze onderdelen gaat om het vaststellen van de aansluiting van de dVi-informatie met de gecontroleerde en gecertificeerde jaarrekening. In dat geval is de uitkomst goed (geen verschil) of fout (wel verschil). Ook hier bedraagt de rapporteringstolerantie 0%. Dit betekent dat de accountant alle geconstateerde afwijkingen toelicht in een aparte paragraaf in het assurance-rapport (‘overige aangelegenheden’), ook als dit geen invloed heeft op het afgegeven oordeel. Bij de dVi-onderdelen 20, 22 en 23 dient de accountant een deelwaarneming uit te voeren die mede als basis geldt om een oordeel te formuleren. In de tabel ‘Vertaling naar oordeel’ hierna is aangegeven hoe hiermee wordt omgegaan in relatie tot het oordeel. De percentages hebben betrekking op aantallen (toewijzingen) en niet op geld (financiële omvang).  Tabel: Vertaling naar oordeel 
+
+|--- | Goedkeurend  | Met beperking  | Oordeelonthouding  | Afkeurend  |
+|:---|:---|:---|:---|:---|
+| Deelwaarnemingen  (% fout op onderdeel)  | ≤ 1%  | > 1% en ≤ 3%  | Nvt  | > 3%  |
+| Onzekerheid in controle  | ≤ 3%  | > 3% en ≤ 10%  | > 10%  | Nvt  |
+
+*Genoemde percentages zijn ontleend aan het Handboek Auditing Rijksoverheid (HARo) 2006 van het Interdepartementaal Overleg Departementale Auditdiensten (IODAD).*  In de benadering van de onzekerheid wordt de weging op basis van professional judgement bepaald. De toepassing van de tabel ‘Vertaling naar oordeel’ is per onderdeel aangegeven (zie onderdelen 20, 22 en 23).  
+
+####Fout- en onzekerheidsdefinities
+
+Bij deze tabel worden de volgende fout- en onzekerheidsdefinities gehanteerd. Van een fout in de verantwoording is sprake indien naar aanleiding van het uitgevoerde onderzoek is gebleken dat een (gedeelte van een) post niet in overeenstemming is met één of meer aspecten van de wet- en regelgeving. Fouten worden in absolute zin opgevat, saldering van fouten is daarom niet toegestaan. Van een onzekerheid in het onderzoek is sprake als er onvoldoende (controle-) informatie beschikbaar is om een (gedeelte van een) post als goed of fout aan te merken. Kortom als onzekerheid bestaat over het wel of niet voldoen aan de wet- en regelgeving. Bij fouten in de verantwoording kan onderscheid gemaakt worden in incidentele en structurele fouten. Van een incidentele (geïsoleerde) fout is sprake als het een toevallige fout betreft. Kenmerkend voor incidentele fouten is dat in principe geen herhaling optreedt van de geconstateerde fout. Hierbij dient de accountant de bepaling uit NBA Standaard 530.13 (Het gebruikmaken van steekproeven bij een controle) in acht te nemen. Van een structurele fout is sprake als de oorzaak van de fout is gelegen in (onderdelen van) het systeem van uitvoering, waardoor fouten met een (zeker) herhalingskarakter (kunnen) optreden. Het voorgaande is van overeenkomstige toepassing op onzekerheden in de controles. Voor een adequate onderbouwing van het oordeel is het noodzakelijk dat de accountant fouten en onzekerheden zoveel mogelijk kwantificeert.  
+
+####Oordelen in het assurance-rapport
+
+Het assurance-rapport strekt zich uit over de genoemde 23 onderdelen; de accountant moet per onderdeel een afzonderlijk oordeel formuleren. Uit praktisch oogpunt is Model III zo ingericht dat de accountant daarin alleen de niet-goedkeurende oordelen hoeft te vermelden. De accountant moet de onderbouwing van deze afwijkende oordelen in het assurance-rapport omschrijven.  
+
+####Onderdelen assurance-rapport
+
+Inzake de hierna genoemde elementen uit de dVi over het verslagjaar, inclusief verantwoording omtrent woningtoewijzingen, zal een oordeel afgegeven moeten worden. Hieronder wordt per onderdeel een nadere toelichting verstrekt waarbij tevens wordt ingegaan op de mate van diepgang van de uit te voeren werkzaamheden: 
+
+1.  *Onderdeel dVi 2.1 – Ontwikkeling vastgoedportefeuille*  De accountant stelt vast dat de ontwikkeling van de voorraad woongelegenheden in overeenstemming is met het feitelijke verloop van de voorraad woongelegenheden volgens de administratie en de jaarrekening. De accountant dient een oordeel te geven over de juistheid en volledigheid van de opgevoerde aantallen (beginstand, nieuwbouw huur, aankoop, verkoop, sloop, overige mutaties en eindstand) per woningtype (goedkoop Wht, betaalbaar Wht, duur tot huurtoeslaggrens Wht, duur boven huurtoeslaggrens Wht en onzelfstandige overige wooneenheden). Dit oordeel dient ook gegeven te worden voor de aantallen nieuwbouw koop, nieuwbouw voor derden voor verhuur en verbeteringen > € 20.000.  
+
+2.  *Onderdeel dVi 2.2A – Kenmerken vastgoedportefeuille – Samenstelling bezit verslagjaar*  De accountant stelt vast dat de in onderdeel 2.2A van de dVi opgenomen toelichting in overeenstemming is met de feitelijke voorraad woongelegenheden volgens de administratie. De accountant stelt vast dat de opgegeven heffingsgrondslag in overeenstemming is met de voorwaarden in het [Besluit Centraal Fonds voor de Volkshuisvesting](../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md) (in beheer versus in eigendom). De accountant stelt vast dat de uitsplitsing naar type woongelegenheden en niet-woongelegenheden juist is weergegeven, waarbij de accountant voor niet-woongelegenheden ook de juistheid en de volledigheid van het aantal vierkante meters bij zijn controle betrekt. De juistheid en volledigheid van het aantal vierkante meters kan onder meer worden vastgesteld door aansluiting te zoeken met periodieke inventarisaties die door de toegelaten instelling zijn uitgevoerd, huurcontracten of gegevens in het kadaster.  
+
+3.  *Onderdeel dVi 3.1.1 – Balans en Winst- en verliesrekening enkelvoudig*  De accountant stelt vast dat de financiële gegevens inzake de enkelvoudige balans en winst- en verliesrekening in overeenstemming zijn met de (eerdere) enkelvoudige jaarrekening(en), bedoeld in artikel 26, eerste lid, van het Bbsh waarbij door de accountant een controleverklaring is afgegeven. Indien de toegelaten instelling in de jaarrekening is afgeweken van de modellen zoals die zijn opgenomen in de nieuwe RJ 645 (2011) (en die volledig zijn overgenomen in de dVi over verslagjaar 2012) stelt de accountant vast dat de vertaling vanuit de jaarrekening naar de dVi op een juiste wijze heeft plaatsgevonden. In de dVi over verslagjaar 2012 is overigens uitsluitend het categoriale model van de winst- en verliesrekening opgenomen  
+
+4.  *Onderdeel dVi 3.1.2 – Balans en Winst- en verliesrekening geconsolideerd*  De accountant stelt vast dat de financiële gegevens inzake de geconsolideerde balans en winst- en verliesrekening in overeenstemming zijn met de (eerdere) geconsolideerde jaarrekening(en), bedoeld in artikel 26, eerste lid, van het Bbsh waarbij door de accountant een controleverklaring is afgegeven. Indien de toegelaten instelling in de jaarrekening is afgeweken van de modellen zoals die zijn opgenomen in de nieuwe RJ 645 (2011) (en die volledig zijn overgenomen in de dVi over verslagjaar 2012) stelt de accountant vast dat de vertaling vanuit de jaarrekening naar de dVi op een juiste wijze heeft plaatsgevonden. In de dVi over verslagjaar 2012 is overigens uitsluitend het categoriale model van de winst- en verliesrekening opgenomen.  
+
+5.  *Onderdeel dVi 3.2.4 – Toelichting onrendabele investeringen*  De accountant stelt vast dat de gegevens inzake de onrendabele investering in overeenstemming zijn met de administratie en de door de accountant gecontroleerde jaarrekening over betreffend boekjaar. Hierbij dient onderscheid gemaakt te worden tussen de onrendabele investering die in mindering is gebracht op de post materiële vaste activa in ontwikkeling en de onrendabele investering welke in de voorziening onrendabele investering nieuwbouw is opgenomen. De accountant stelt hierbij vast dat het onderscheid tussen investeringen waarvoor feitelijke verplichtingen (intern geformaliseerd en extern gecommuniceerd) zijn aangegaan en investeringen waarvoor juridische verplichtingen zijn aangegaan op een juiste wijze is weergegeven.  
+
+6.  *Onderdeel dVi 3.2.5 – Toelichting resultaat verkoop*  De accountant stelt vast dat de opgenomen gegevens omtrent het resultaat dat reeds is verantwoord op de nog lopende nieuwbouwprojecten koopwoningen binnen de toegelaten instelling, welke na balansdatum worden opgeleverd, in overeenstemming zijn met administratie en de door de accountant gecontroleerde jaarrekening(en) over het betreffende verslagjaar en voorgaande verslagjaren. Indien in deze lopende nieuwbouwprojecten koopwoningen zijn opgenomen welke verkocht worden onder voorwaarden dient het (niet gerealiseerde) resultaat op deze verkopen op een afzonderlijke regel verantwoord te worden.  
+
+7.  *Onderdeel dVi 3.2.7 – Latente Belastingvorderingen*  De accountant stelt vast dat de opgenomen gegevens omtrent de latente belastingvordering in overeenstemming zijn met de administratie en de door de accountant gecontroleerde jaarrekening over het betreffende boekjaar.  
+
+8.  *Onderdeel dVi 3.2.8 – Verliezen van niet gerealiseerde projecten*  De accountant stelt vast dat de opgenomen gegevens omtrent de verliezen van niet gerealiseerde projecten binnen de toegelaten instelling in overeenstemming zijn met de administratie en de door de accountant gecontroleerde jaarrekening over het betreffende boekjaar. Het betreft alle projectverliezen van niet gerealiseerde projecten die via het resultaat ten laste van het vermogen zijn gebracht. De accountant beoordeelt hiertoe alle in het boekjaar verwerkte afboekingen en stelt vast of deze betrekking hebben op niet gerealiseerde projecten.  
+
+9.  *Onderdeel dVi 3.3.1 – Verbindingen*  De accountant stelt vast dat alle verbindingen die in de jaarrekening zijn genoemd ook zijn opgenomen in hoofdstuk 3.3.1. Verder onderzoekt de accountant of er (naast de verbindingen die in de jaarrekening zijn vermeld) nog andere samenwerkingsverbanden zijn die op grond van de definitie (zie: artikel 2a van het Bbsh) kwalificeren als verbinding en of deze in de dVi zijn opgenomen. Voorts stelt de accountant vast dat de financiële gegevens over verbindingen, zoals deze in hoofdstuk 3.3.1. en 3.3.11 zijn opgenomen, overeenkomen met de vergelijkbare financiële gegevens in de jaarrekening en het jaarverslag van de toegelaten instelling en de verbinding. De accountant stemt deze toelichtingen integraal af met betreffende bescheiden. De accountant stelt hierbij specifiek vast dat ook alle overige verbindingen (conform definitie in artikel 2a van het Bbsh) zijn opgenomen (met uitzondering van verbindingen die de toegelaten instelling heeft ten gevolge van financiële of bestuurlijke banden met verenigingen van eigenaren).  
+
+10.  *Onderdeel dVi 3.3.11 – Ontwikkeling totale actuele waarde verbindingen*  De accountant stelt voor de verantwoorde verbindingen vast dat de opgenomen actuele waarde van de materiële vaste activa in exploitatie overeenkomt met de bepaling van de nettovermogenswaarde volgens de waarderingsgrondslagen van de toegelaten instelling.  
+
+11.  *Onderdeel dVi 3.4.1B – Grondposities*  De accountant stelt vast dat de gegevens inzake de grondposities in overeenstemming zijn met de administratie en de door de accountant gecontroleerde (geconsolideerde) jaarrekening over het betreffende boekjaar. De accountant stelt hierbij vast dat alle bijbehorende mutaties (gesplitst naar lopend boekjaar en cumulatief) zijn verantwoord. De accountant stelt vast dat de uitsplitsing naar voorraad- en waardemutaties op een juiste wijze is weergegeven. Daarnaast stelt de accountant vast dat het aantal opgegeven m <sup>2</sup> in overeenstemming is met de (project-)administratie. Grondaankopen in het kader van de MG betreffen de aankoop van alle grondposities zowel met bouw- als zonder bouwbestemming (eventueel inclusief onroerende zaken). Dit betreft ook posities die tijdelijk geëxploiteerd worden en waar derhalve nog geen sprake is van directe sloop om daarna (vervangende) nieuwbouw te plegen. Indien de bouw feitelijk van start is gegaan in het verslagjaar is er geen sprake (meer) van een grondpositie. Voor aankopen van woningbezit (met bouwbestemming) dat vervolgens (door)geëxploiteerd gaat worden is er geen sprake van een te verantwoorden grondaankoop. Aankoop van bezit niet zijnde woongelegenheden kwalificeert als grondaankoop in de zin van de MG, ongeacht of de niet-woongelegenheden zullen worden doorgeëxploiteerd (denk aan industrie- of golfterreinen).  
+
+12.  *Onderdeel dVi 3.4.3 – Niet verkochte nieuwbouw koopwoongelegenheden*  De accountant stelt vast dat de gegevens inzake de niet verkochte nieuwbouw koopwoongelegenheden in overeenstemming zijn met de administratie en de door de accountant gecontroleerde (geconsolideerde) jaarrekening over het betreffend boekjaar. Hierbij dient de toegelaten instelling tevens afzonderlijk inzicht te geven in de niet verkochte nieuwbouw koopwoongelegenheden in de verbindingen van de toegelaten instelling.  
+
+13.  *Onderdeel dVi 4.1.1 – Specificatie bedrijfswaarde door te exploiteren woongelegenheden DAEB*  Indien de toegelaten instelling in de jaarrekening heeft gekozen om het sociaal vastgoed te kwalificeren als bedrijfsmiddel en zij daarbij de actuele waarde variant heeft toegepast stelt de accountant vast dat de specificatie bedrijfswaarde inzake de door te exploiteren woongelegenheden overeenstemt met de bedrijfswaardeberekening, welke is opgenomen in de enkelvoudige jaarrekening van de toegelaten instelling. Indien de toegelaten instelling in de jaarrekening voor dit bezit een andere waarderingsmogelijkheid heeft toegepast stelt de accountant vast dat de specificatie bedrijfswaarde inzake de door te exploiteren woongelegenheden overeenstemt met de bedrijfswaardeberekening, welke is opgenomen in de toelichting bij de (geconsolideerde) jaarrekening van de toegelaten instelling (zie RJ 645.515). De accountant stelt daarbij vast dat mogelijke afwijkingen tussen de in hoofdstuk 4 opgenomen bedrijfswaarde en die in de (geconsolideerde) jaarrekening juist zijn toegelicht. De accountant stelt in alle gevallen vast dat de bedrijfswaardeberekening is opgesteld op basis van de voor de toegelaten instelling geldende veronderstellingen en parameters in hoofdstuk 4.2.1 (bijlage II bij het Bbsh). De accountant stelt tevens vast dat de opgegeven gemiddelde restant levensduur is gebaseerd op een weging naar aantallen eenheden. Dit aangezien de opgegeven gemiddelde restant levensduur in de praktijk bij de financiële beoordeling tot veel aanpassingen leidt.  
+
+14.  *Onderdeel dVi 4.1.2 – WoongelegenhedenDaeb met bijzondere bestemming en overige in de bedrijfswaarde opgenomen posten*  Indien de toegelaten instelling in de jaarrekening heeft gekozen om het sociaal vastgoed te kwalificeren als bedrijfsmiddel en zij daarbij de actuele waarde variant heeft toegepast stelt de accountant vast dat de specificatie bedrijfswaarde inzake de in deze categorie bedoelde woongelegenheden overeenstemt met de bedrijfswaardeberekening, welke is opgenomen in de enkelvoudige jaarrekening van de toegelaten instelling. Indien de toegelaten instelling in de jaarrekening voor dit bezit een andere waarderingsmogelijkheid heeft toegepast stelt de accountant vast dat de specificatie bedrijfswaarde inzake de door te exploiteren woongelegenheden overeenstemt met de bedrijfswaardeberekening, welke is opgenomen in de toelichting bij de (geconsolideerde) jaarrekening van de toegelaten instelling (zie RJ 645.515). De accountant stelt daarbij vast dat de mogelijke afwijkingen tussen de in hoofdstuk 4 opgenomen bedrijfswaarde en die in de enkelvoudige (geconsolideerde) jaarrekening juist zijn toegelicht. De accountant stelt in alle gevallen vast dat de bedrijfswaardeberekening is opgesteld op basis van de voor de toegelaten instelling geldende veronderstellingen en parameters in hoofdstuk 4.2.1 (bijlage II bij het Bbsh). De accountant stelt tevens vast dat de opgegeven gemiddelde restant levensduur is gebaseerd op een weging naar aantallen eenheden.  
+
+15.  *Onderdeel dVi 4.1.3 – Specificatie bedrijfswaarde niet woongelegenheden Daeb*  Indien de toegelaten instelling in de jaarrekening heeft gekozen om het sociaal vastgoed te kwalificeren als bedrijfsmiddel en zij daarbij de actuele waarde variant heeft toegepast stelt de accountant vast dat de specificatie bedrijfswaarde inzake de door te exploiteren woongelegenheden overeenstemt met de bedrijfswaardeberekening, welke is opgenomen in de enkelvoudige jaarrekening van de toegelaten instelling. Indien de toegelaten instelling in de jaarrekening voor dit bezit een andere waarderingsmogelijkheid heeft toegepast stelt de accountant vast dat de specificatie bedrijfswaarde inzake de door te exploiteren woongelegenheden overeenstemt met de bedrijfswaardeberekening, welke is opgenomen in de toelichting bij de (geconsolideerde) jaarrekening van de toegelaten instelling (zie RJ 645.515). De accountant stelt daarbij vast dat de mogelijke afwijkingen tussen de in hoofdstuk 4 opgenomen bedrijfswaarde en die in de (geconsolideerde) jaarrekening juist zijn toegelicht. De accountant stelt in alle gevallen vast dat de bedrijfswaardeberekening is opgesteld op basis van de voor de toegelaten instelling geldende veronderstellingen en parameters in hoofdstuk 4.2.1 (bijlage II bij het Bbsh). De accountant stelt tevens vast dat de opgegeven gemiddelde restant levensduur is gebaseerd op een weging naar aantallen eenheden.  
+
+16.  *Onderdeel dVi 4.1.4 – Specificatie bedrijfswaarde obv verhuurexploitatie verhuureenheden niet Daeb*  De accountant stelt vast dat de specificatie bedrijfswaarde inzake de door te exploiteren woongelegenheden niet Daeb overeenstemt met de bedrijfswaardeberekening, welke is opgenomen in de toelichting bij de (geconsolideerde) jaarrekening van de toegelaten instelling (zie RJ 645.515). De accountant stelt daarbij vast dat de mogelijke afwijkingen tussen de in hoofdstuk 4 opgenomen bedrijfswaarde en die in de (geconsolideerde) jaarrekening juist zijn toegelicht. De accountant stelt in alle gevallen vast dat de bedrijfswaardeberekening is opgesteld op basis van de voor de toegelaten instelling geldende veronderstellingen en parameters in hoofdstuk 4.2.1 (bijlage II bij het Bbsh). De accountant stelt tevens vast dat de opgegeven gemiddelde restant levensduur is gebaseerd op een weging naar aantallen eenheden.  
+
+17.  *Onderdeel dVi 4.1.5 – Totaal bedrijfswaarde toegelaten instelling*  De accountant stelt vast dat de in onderdeel 4.1.5 opgenomen bedrijfswaarde overeenkomt met de bedrijfswaardeberekening, welke is opgenomen in de toelichting bij de enkelvoudige jaarrekening van de toegelaten instelling (zie RJ 645.515). De accountant stelt daarbij vast dat de mogelijke afwijkingen tussen de in hoofdstuk 4 opgenomen bedrijfswaarde en die in de (geconsolideerde) jaarrekening juist zijn toegelicht. De accountant stelt in alle gevallen vast dat de bedrijfswaardeberekening is opgesteld op basis van de voor de toegelaten instelling geldende veronderstellingen en parameters in hoofdstuk 4.2.1 (bijlage II bij het Bbsh). De accountant stelt tevens vast dat de opgegeven gemiddelde restant levensduur is gebaseerd op een weging naar aantallen eenheden.  
+
+18.  *Onderdeel dVi 4.1.6 – Rentabiliteitswaarde correctie*  De accountant stelt vast dat de verantwoorde rentabiliteitscorrectie is berekend conform hetgeen daarover is opgenomen in de toelichting bij de dVi.  
+
+19.  *Onderdeel dVi 4.2.1 – Uitgangspunten en parameters bedrijfswaarde*  Bij het beoordelen van de uitgangspunten en parameters van de bedrijfswaarde stelt de accountant vast dat: 
+
+* voor zover in de bedrijfswaarde geschatte verkoopopbrengsten van voor verkoop aangewezen huurwoningen zijn opgenomen, deze verkoopopbrengsten maximaal voor een periode van vijf jaar in de bedrijfswaardeberekening zijn betrokken;  
+
+* de toegepaste parameters voor huurstijging voor de eerste vijf prognosejaren in de bedrijfswaarde vermeld in hoofdstuk 4.1 (bijlage II bij het Bbsh), gebaseerd zijn op het beleid van de toegelaten instelling. Voor de huurstijging na het vijfde prognosejaar stelt de accountant vast dat deze is gebaseerd op sectorbreed gebruikelijke parameters (zoals jaarlijks vastgesteld door CFV/WSW). Voor de overige indexeringen van kosten en opbrengsten en de gehanteerde disconteringsvoet stelt de accountant vast of deze de generieke, sectorbreed gebruikelijke parameters volgen (zoals jaarlijks vastgesteld door het CFV/WSW). Indien is afgeweken van de sectorparameters dient de accountant hier melding van te maken in het assurance-rapport;  
+
+* de restwaarde bij het einde van de economische exploitatie in de bedrijfswaarde, vermeld in hoofdstuk 4.1 (bijlage II bij het Bbsh), de resultante is van de contante waarde van de op kasstromen gebaseerde waarde van de grond, gegeven de verwachte bestemming (uitgangspunt is sociale huurbestemming, tenzij bestemmingswijziging) aan het eind van de levensduur, gecorrigeerd voor te maken kosten zoals uitplaatsingskosten en kosten van sloop en opnieuw bouwrijp maken;  
+
+* de toerekening van de indirecte kosten aan het vastgoed ten behoeve van de bedrijfswaardeberekening is gebaseerd op de meest recente, door het bestuur goedgekeurde budgetten, en  
+
+* de feitelijke dan wel in rechte afdwingbare verplichtingen in de bedrijfswaardeberekening vermeld in hoofdstuk 4.1 (bijlage II bij het Bbsh), zijn verwerkt voor zover deze betrekking hebben op toekomstige herstructureringen. Ten aanzien van overige toekomstige investeringen (woningverbetering, na-investeringen) worden geen in rechte afdwingbare verplichtingen in de bedrijfswaardeberekening verwerkt.    
+
+20.  *Onderdeel dVi 4.2.3 – Overige waardebepalingen ultimo verslagjaar*  De accountant stelt vast dat de in hoofdstuk 4.2.3 (bijlage II bij het Bbsh) vermelde WOZ-waarden van de verhuureenheden die de toegelaten instelling ultimo van het (betreffende) verslagjaar in eigendom had en die betrekking hebben op de waardepeildatum 1 januari van het betreffende verslagjaar, zijn ontleend aan de meest actuele WOZ-beschikkingen. De accountant stelt vast dat alle woningen zijn opgenomen en voert een deelwaarneming uit om vast te stellen dat de waarde is ontleend aan de meest recente WOZ-beschikking. De omvang van deze deelwaarneming wordt overgelaten aan het ‘professional judgement’ van de accountant. De tabel Vertaling naar oordeel is hierop van toepassing.  
+
+21.  *Onderdeel dVi 5.7.d – inzet middelen buitenland*  Toegelaten instellingen mogen jaarlijks tot 0,3 promille van het totaal van het balanstotaal van hun enkelvoudige jaarrekening (gebaseerd op de methodiek van CFV-waardering) aan financiële ondersteuning verlenen. Deze ondersteuning mag uitsluitend bestaan uit schenkingen (in het verslagjaar op kasbasis) en te verstrekken garanties (toezeggingen in het verslagjaar of in eerdere verslagjaren waarvoor geldt dat garantstelling in het verslagjaar nog steeds aan de orde is voor de rente en aflossing in dat jaar). Deze garanties mogen alleen betrekking hebben op rente- en aflossingsverplichtingen van een door de buitenlandse instelling aangetrokken lening. De financiële steun mag slechts worden gegeven aan instellingen in bepaalde, in de [bijlage van MG 2005-04](../../../../../circulaire/circulaire/besluit/beheer/sociale-huursector/(bbsh)/BWBR0018120/README.md) en geactualiseerd bij MG 2010-03 genoemde, landen. De accountant dient vast te stellen of de verantwoording op dit punt in de dVi juist en volledig is.  
+
+22.  *Onderdeel dVi 5.8 – Aantal aangegane huurovereenkomsten in het verslagjaar*  De accountant stelt vast dat de aantallen aangegane huurovereenkomsten in het verslagjaar die zijn opgenomen in onderdeel 5.8 overeenstemmen met de huuradministratie. De tabel ‘Vertaling naar oordeel’ is hierop van toepassing.  
+
+23.  *Onderdeel dVi 5.8 punt 5 Aangegane huurovereenkomsten met betrekking tot woongelegenheden in de gevallen dat het huishoudinkomen ten hoogste € 34.085 per jaar is, danwel op basis van een CIZ-besluit:*  In de dVi wordt verantwoording afgelegd over het aantal aangegane huurovereenkomsten boven en op/onder de grens van een gezamenlijk verzamelinkomen € 34.085, alsmede op basis van een CIZ-besluit. De accountant dient over de juistheid en volledigheid (zie ook 22) van de betreffende gegevens te rapporteren in het assurance-rapport. In de artikelsgewijze toelichting bij [artikel 8 van de Tijdelijke regeling diensten van algemeen economisch belang toegelaten instellingen volkshuisvesting](../../../../../ministeriele-regeling/tijdelijke/regeling/diensten/van/algemeen/economisch/belang/toegelaten/etc/BWBR0028918/README.md) is hierover opgenomen: ‘De accountantscontrole (...) zal daarbij betrekking hebben op de naleving van de inkomenstoets ten behoeve van de toewijzing en de juistheid en volledigheid van de verslaglegging’. In bepaalde gevallen (zie verder) zal de accountant zich daarbij (enkel) moeten baseren op een verklaring van de woningzoekende(n). Als verificatiemogelijkheden op basis van onafhankelijke bronnen ontbreken, brengt dat een risico met zich mee op het punt van juistheid en volledigheid. Dat risico is in die situatie echter onontkoombaar en het zou niet redelijk zijn om dat (standaard) uit te laten monden in oordeelonthouding. Daarmee wordt de toegelaten instelling mogelijk op enig moment benadeeld. Aan de andere kant is het ook onredelijk om een accountant te laten verklaren dat de verantwoording op dit onderdeel juist en volledig is met voorbijgaan aan dit onontkoombare risico. Dit wordt ondervangen door in het assurancerapport op te nemen dat een eventuele conclusie op het punt van juistheid en volledigheid mede is gebaseerd op de gegevens die door de woningzoekende is aangeleverd (inclusief een eventuele verklaring).    
+
+####Randvoorwaarden woningtoewijzing
+
+Om zekerheid te kunnen geven omtrent de woningtoewijzing zal de toegelaten instelling aan een aantal randvoorwaarden moeten voldoen, zodat gewaarborgd is dat de gegevens juist zijn en de toegelaten instelling kan aantonen op welke wijze de aangegane huurovereenkomsten hebben plaatsgevonden in relatie tot de regelgeving. Als aanvulling op de [Tijdelijke regeling diensten van algemeen economisch belang toegelaten instellingen volkshuisvesting](../../../../../ministeriele-regeling/tijdelijke/regeling/diensten/van/algemeen/economisch/belang/toegelaten/etc/BWBR0028918/README.md) heeft het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties de brochure ‘Schema toetsing huishoudinkomen2012’ opgesteld. Hierin is de volgende samenvatting van het begrip inkomenstoetsing opgenomen: 
+
+* Het toetsinkomen is het verwachte gezamenlijke verzamelinkomen van woningzoekende en medebewoner(s) in het jaar waarin het huurcontract zal ingaan (2012);  
+
+* Inkomens van minder- en meerderjarige kinderen kunnen buiten beschouwing blijven;  
+
+* De toegelaten instelling kan de woningzoekende en eventuele partner verzoeken een zogeheten IB60-formulier over jaar 2010 of 2011 aan te vragen bij de Belastingdienst en te overleggen tenzij een aanslag inkomensbelasting over één van deze jaren kan worden overlegd;  
+
+* Ter bepaling van het toetsinkomen worden verzamelinkomens uit 2011 respectievelijk 2010 geïndexeerd met index I1 (=1,0140) respectievelijk index I2 (=1,0329). Deze indices hebben betrekking op de gemiddelde inkomensstijging weer van de afgelopen 1 respectievelijk 2 jaren. De hoogten van I1 en I2 zullen jaarlijks door het Rijk worden gepubliceerd;  
+
+* Indien het op deze wijze bepaalde toetsinkomen volgens de woningzoekende leidt tot een toetsinkomen dat wezenlijk (voor definitie: zie verder) afwijkt van het actuele inkomen, bijvoorbeeld vanwege verandering van baan, ontslag, andere gezinssituatie, maar bijvoorbeeld ook vanwege het meegerekend zijn van het inkomen van inwonende kinderen in het IB60-formulier, kan bijstelling ervan plaatsvinden op basis van eigen verklaringen van de aanvrager onderbouwd met bewijsstukken als jaaropgaven, loonstroken, uitkeringsspecificaties e.d.   De onderzoekswerkzaamheden hebben betrekking op de naleving van de inkomenstoets ten behoeve van de toewijzing en de juistheid en volledigheid van de verslaglegging en documentatie. In de ministeriële regeling van 20 december 2011 tot wijziging van de Tijdelijke regeling diensten van algemeen economisch belang toegelaten instellingen volkshuisvesting is geregeld dat aangegane huurovereenkomsten op grond van een zorgindicatiebesluit beschouwd worden als een toewijzing aan de doelgroep (ongeacht de hoogte van het huishoudinkomen). Dat betekent er sprake is van een juiste toewijzing als er een indicatiebesluit aan ten grondslag heeft gelegen, als bedoeld in [artikel 1 van het Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), voor: 
+
+* persoonlijke verzorging als bedoeld in [artikel 4 van het Besluit zorgaanspraken AWBZ](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), verpleging als bedoeld in [artikel 5 van dat besluit](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) of begeleiding als bedoeld in [artikel 6 van dat besluit](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), telkens met de leveringsvoorwaarde ’volgens afspraak en direct oproepbaar’, ’voortdurend in de nabijheid’ of ’24 uur per dag aanwezig’;  
+
+* verblijf als bedoeld in [artikel 9 van het Besluit zorgaanspraken AWBZ](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), of  
+
+* ADL-assistentie als bedoeld in [artikel 34 van het Besluit zorgaanspraken AWBZ](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md).   Aspecten die de accountant in zijn werkzaamheden betrekt zijn onder andere: 
+
+* Het woningbezit moet zijn ingedeeld in woningbezit met een maandhuur tot en met € 664,66 en daarboven.  
+
+* De toegelaten instelling dient een totaalaansluiting te kunnen overleggen waarin de totale toewijzing in het verslagjaar wordt onderverdeeld tot en met € 664,66 en daarboven.  
+
+* De toegelaten instelling dient over een woningtoewijzingsprocedure te beschikken waarin de toetsing van inkomensgegevens is opgenomen, bijvoorbeeld een afgeleide van het hiervoor genoemde ‘Schema toetsing huishoudinkomen 2012’.  
+
+* De bescheiden die worden gebruikt bij de inkomenstoetsing dienen te worden bewaard en controleerbaar te zijn.  
+
+* De toegelaten instelling moet in staat zijn informatie te genereren om het onderscheid te kunnen maken (< € 34.085 en daarboven). Voor de verantwoording over de toewijzing moet worden vastgesteld dat dit betrouwbaar is.  
+
+* Het betreft alle huurovereenkomsten met een ingangsdatum vanaf 1 januari 2012. De gegevens dienen dus ook beschikbaar te zijn voor overeenkomsten met ingangsdatum op of na 1 januari 2012 die voor 1 januari 2012 zijn ondertekend.    
+
+####Uitgangspunten accountantswerkzaamheden
+
+De toegelaten instelling dient maatregelen te treffen (die door de accountant dienen te worden getoetst) om te waarborgen dat in de documentatie van het toewijzingsproces de volgende punten terugkomen: 
+
+– Het verzamelinkomen van de woningzoekende en de medebewoner(s) (met uitzondering van inwonende kinderen) dienen te worden opgeteld. Dit geldt overigens niet voor toewijzingen op basis van een CIZ-indicatie.  
+
+– De gebruikte informatie dient op een betrouwbare bron te zijn gebaseerd. Geschikte informatie is: 
+
+○ Jaaropgave,  
+
+○ Salarisstrook (volstaan kan worden met een enkele maandsalarisstrook of vier opeenvolgende weeksalarisstroken),  
+
+○ Uitkeringsspecificatie (volstaan kan worden met een maandspecificatie),  
+
+○ (definitieve of voorlopige) IB-aanslag over 2010 of 2011,  
+
+○ IB 60 formulier over 2010 of 2011,  
+
+○ Inkomensverklaring van COA,  
+
+○ Bewijs van studiefinanciering/opgave van Informatie Beheer Groep,  
+
+○ (Kopie van) CIZ-besluit.    
+
+– De toegelaten instelling waarborgt dat inkomen uit vermogen wordt meegenomen in de toetsing (via IB-aanslag of IB 60 formulier). Als er geen IB-aanslag of IB 60 formulier kan worden overlegd, dan kan op het punt van inkomen uit vermogen worden volstaan met een inkomensverklaring van de woningzoekende.  
+
+– Er wordt indexering toegepast zoals vermeld in de toelichting bij de brochure ‘Schema toetsing huishoudinkomen 2012’, indien documentatie niet uit het jaar zelf stamt.  
+
+– De rekenkundige juistheid van berekeningen wordt door de accountant getoetst (ook als er bijvoorbeeld gebruik is gemaakt van rekentools). Dergelijke tools ontslaan de toegelaten instelling overigens niet van de verantwoordelijkheid voor een juiste berekening van het verzamelinkomen en dossiervorming aangaande de documentatie.  
+
+– Bij verhuringen via derden (bijvoorbeeld zorginstellingen) gelden de toewijzingsnormen en documentatieplicht eveneens. Een inkomenstoets kan alleen achterwege blijven als sprake is van bekostiging vanuit de [AWBZ](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of een CIZ-besluit Bij verhuur via derden zal de toegelaten instelling afspraken moeten maken over de inkomensregistratie en registratie CIZ-besluiten.   Indien het inkomen van de huurder wezenlijk (wezenlijk in de zin dat woningzoekende alsnog tot de doelgroep kan worden gerekend) is veranderd, dient hiervoor een inkomensverklaring te worden overlegd door de woningzoekende. Dit is bijvoorbeeld in het geval de woningzoekende aangeeft dat er sprake is van een negatieve inkomensontwikkeling door toekomstige aftrekposten in het belastbaar inkomen of in het geval men aangeeft minder uren te zullen gaan werken. Aanvullende maatregelen die de kwaliteit van de documentatie verhogen zijn: 
+
+– De huurder tekent voor een juiste en volledige opgave van inkomen en situatie.  
+
+– De toegelaten instelling voert een interne controle uit op documentatie en berekeningen.   Er kan worden volstaan met kopieën van documenten (dit omvat ook digitale scans van documenten).  
+
+####Uitgangspunten deelwaarneming
+
+De accountant voert een a-selecte steekproef uit op de deelgroep ‘Aantal aangegane huurovereenkomsten met betrekking tot zodanige woongelegenheden in de gevallen dat het huishoudinkomen ten hoogste € 34.085 per jaar is, danwel op basis van een CIZ-besluit’ waarbij 10% van het aantal aangegane huurovereenkomsten wordt beoordeeld met een minimumaantal van 25 en een maximumaantal van 50. Middels het uitvoeren van deze deelwaarneming stelt de accountant vast dat op een juiste wijze verantwoording op dit punt is afgelegd in de dVi. Indien uit de deelwaarneming fouten blijken, worden deze fouten vertaald naar de massa van de genoemde deelgroep en gaat de accountant na wat de impact is van deze fouten op de totale hoeveelheid aangegane huurovereenkomsten met betrekking tot zodanige woongelegenheden in de gevallen dat het huishoudinkomen ten hoogste € 34.085 per jaar is, danwel een CIZ-besluit. Dit leidt mogelijk tot een aanvullende deelwaarneming. De rapporteringstolerantie bedraagt 0%. Dit betekent dat de accountant alle geconstateerde afwijkingen dient toe te lichten een aparte paragraaf in het assurance-rapport (‘overige aangelegenheden’), ook als dit geen invloed heeft op het afgegeven oordeel. De tabel ‘Vertaling naar oordeel’ is hierop van toepassing. Bij de hiervoor beschreven deelwaarneming op de woningtoewijzing baseert de accountant zich op de volgende informatie: 
+
+– Aansluiting tussen totale woningtoewijzing uit het verhuursysteem met verdeling naar woningbezit < € 664,66.  
+
+– Aansluiting van woningtoewijzing < € 664,66 met totaallijst van aangegane huurovereenkomsten in de gevallen dat het huishoudinkomen ten hoogste € 34.085 per jaar is, danwel dat op basis van een CIZ-besluit is toegewezen, welke de basis is voor selectie van de deelwaarneming.  
+
+– Selectielijst op basis van het huishoudinkomen en CIZ-besluit.   Naast de hierboven beschreven waarschijnlijkheidstoetsen dient de accountant tevens als volgt aandacht te besteden aan getoetste inkomens die net onder de grens van € 34.085 liggen. De accountant voert, afhankelijk van de omvang, een gegevengerichte deelwaarneming uit. De omvang van deze deelwaarneming dient de accountant te baseren op basis van ‘professional judgement’. De accountant voert geen werkzaamheden uit met betrekking totde verantwoording over toewijzing aan de andere deelgroep in de dVi onder 5.8.5: 
+
+* Aantal aangegane huurovereenkomsten met betrekking tot zodanige woongelegenheden in de gevallen dat het huishoudinkomen hoger dan € 34.085 per jaar is.    
+
+### 5  
+
+####Rubriek D: Modelteksten
+
+### Model  I  
+
+####Model goedkeurende controleverklaring als bedoeld in artikel 29, eerste lid, onderdeel a , van het Besluit beheer sociale-huursector (Bbsh) met betrekking tot de jaarrekening en het jaarverslag
+
+(enkelvoudig/geconsolideerd ) <sup> 1  Indien de jaarrekening alleen bestaat uit een enkelvoudige jaarrekening, derhalve als geen geconsolideerde jaarrekening opgesteld behoeft te worden, dient het woord ‘enkelvoudige’ in de gehele verklaring niet te worden opgenomen. In alle overige gevallen dienen, afhankelijk van de feitelijke situatie, de woorden ‘geconsolideerde jaarrekening’ of ‘enkelvoudige jaarrekening’ of ‘enkelvoudige en geconsolideerde jaarrekening’ in de gehele verklaring gebruikt te worden.  </sup> 
+
+####CONTROLEVERKLARING VAN DE ONAFHANKELIJKE ACCOUNTANT
+
+Aan: Opdrachtgever 
+
+####Verklaring betreffende de jaarrekening
+
+Wij hebben de (in dit rapport/verslag opgenomen ) jaarrekening XXXX van ... (naam toegelaten instelling) te ... (statutaire vestigingsplaats) gecontroleerd. Deze jaarrekening bestaat uit de balans per ... XXXX en de winst-en-verliesrekening over XXXX met de toelichting, waarin zijn opgenomen een overzicht van de gehanteerde grondslagen voor financiële verslaggeving en andere toelichtingen. <sup> 2  Verwijzing kan geschieden met behulp van paginanummers.  </sup>  
+
+####Verantwoordelijkheid van het bestuur
+
+Het bestuur van de toegelaten instelling is verantwoordelijk voor het opmaken van de jaarrekening die het vermogen en het resultaat getrouw dient weer te geven, alsmede voor het opstellen van het jaarverslag, beide in overeenstemming met de bepalingen inzake de jaarrekening en het jaarverslag als opgenomen in artikel 26, eerste lid, van het Bbsh, richtlijn 645 van de Raad voor de Jaarverslaggeving en de [Wet openbaarmaking uit publieke middelen gefinancierde topinkomens](../../../../../wet/wet/openbaarmaking/uit/publieke/middelen/gefinancierde/topinkomens/BWBR0019562/README.md). Het bestuur van de toegelaten instelling is tevens verantwoordelijk voor een zodanige interne beheersing als het noodzakelijk acht om het opmaken van de jaarrekening mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten.  
+
+####Verantwoordelijkheid van de accountant
+
+Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op basis van onze controle. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse controlestandaarden en het controleprotocol in rubriek A van bijlage III bij het Bbsh. Dit vereist dat wij voldoen aan de voor ons geldende ethische voorschriften en dat wij onze controle zodanig plannen en uitvoeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen afwijkingen van materieel belang bevat. Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de jaarrekening. De geselecteerde werkzaamheden zijn afhankelijk van de door de accountant toegepaste oordeelsvorming, met inbegrip van het inschatten van de risico’s dat de jaarrekening een afwijking van materieel belang bevat als gevolg van fraude of fouten. Bij het maken van deze risico-inschattingen neemt de accountant de interne beheersing in aanmerking die relevant is voor het opmaken van de jaarrekening en voor het getrouwe beeld daarvan, gericht op het opzetten van controlewerkzaamheden die passend zijn in de omstandigheden. Deze risico-inschattingen hebben echter niet tot doel een oordeel tot uitdrukking te brengen over de effectiviteit van de interne beheersing van de toegelaten instelling. Een controle omvat tevens het evalueren van de geschiktheid van de gebruikte grondslagen voor financiële verslaggeving en van de redelijkheid van de door het bestuur van de toegelaten instelling gemaakte schattingen, alsmede een evaluatie van het algehele beeld van de jaarrekening. Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is om een onderbouwing voor ons oordeel te bieden.  
+
+####Oordeel
+
+<sup> 3  Indien niet is voldaan aan de wettelijke verplichting tot vermelding van de informatie over topinkomens (artikel 6 van de Wet openbaarmaking uit publieke middelen gefinancierde topinkomens), vervalt de optie van een goedkeurend getrouwheidsoordeel en dient de accountant de ontbrekende informatie in zijn verklaring op te nemen.  </sup>  Naar ons oordeel geeft de jaarrekening een getrouw beeld van de grootte en de samenstelling van het vermogen van ... (naam entiteit) per ... XXXX en van het resultaat over XXXX in overeenstemming met artikel 26, eerste lid, van het Bbsh, richtlijn 645 van de Raad voor de Jaarverslaggeving en de [Wet openbaarmaking uit publieke middelen gefinancierde topinkomens](../../../../../wet/wet/openbaarmaking/uit/publieke/middelen/gefinancierde/topinkomens/BWBR0019562/README.md).  
+
+####Verklaring betreffende overige bij of krachtens de wet gestelde eisen
+
+Ingevolge artikel 28, onderdeel b, van het Bbsh, voor wat betreft het in dit artikel genoemde jaarverslag, melden wij dat ons geen tekortkomingen zijn gebleken naar aanleiding van het onderzoek of het jaarverslag, voor zover wij dat kunnen beoordelen, overeenkomstig de van toepassing zijnde bepalingen van [titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is opgesteld, en of de in [artikel 2: 392 lid 1 onder g, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) bedoelde gegevens zijn toegevoegd. Tevens vermelden wij dat het jaarverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening zoals vereist in [artikel 391 lid 4 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).  
+Plaats, datum Naam accountantsorganisatie Naam externe accountant  
+
+### Model  II  
+
+####Model assurance-rapport inzake de naleving van specifieke wet- en regelgeving (melding verkoop bezit, aanbesteding maatschappelijk vastgoed en naleving voorwaarden bij derivatentransacties met ingang van 1 oktober 2012)
+
+Aan: Opdrachtgever 
+
+####ASSURANCE-RAPPORT
+
+####Opdracht en verantwoordelijkheden
+
+Wij hebben onderzoek gedaan naar de naleving van de wet- en regelgeving inzake de verkoop van bezit, de aanbesteding van maatschappelijk vastgoed en naleving voorwaarden bij derivatentransacties met ingang van 1 oktober 2012 van ... (naam toegelaten instelling) te ... (statutaire vestigingsplaats) gedurende verslagjaar XXXX. Het bestuur van ... (naam toegelaten instelling) is verantwoordelijk voor de juiste naleving van deze wet- en regelgeving. Het is onze verantwoordelijkheid een assurance-rapport over de naleving van de wet- en regelgeving inzake de verkoop van bezit, de aanbesteding van maatschappelijk vastgoed en de [Beleidsregels gebruik financiële derivaten door toegelaten instellingen volkshuisvesting](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md) te verstrekken.  
+
+####Werkzaamheden
+
+Wij hebben ons onderzoek verricht in overeenstemming met Nederlands recht, waaronder Standaard 3000 ‘Assurance-opdrachten anders dan opdrachten tot controle en beoordeling van historische financiële informatie’ en het controleprotocol in rubriek B van bijlage III bij het Besluit beheer sociale-huursector (Bbsh). Dienovereenkomstig dienen wij ons onderzoek zodanig te plannen en uit te voeren, dat een redelijke mate van zekerheid wordt verkregen over de juiste naleving van de regelgeving inzake de verkoop van bezit, de aanbesteding van maatschappelijk vastgoed en het afsluiten van derivatentransacties met ingang van 1 oktober 2012 zoals vastgelegd in het Bbsh, de [Tijdelijke regeling diensten van algemeen economisch belang toegelaten instellingen volkshuisvesting](../../../../../ministeriele-regeling/tijdelijke/regeling/diensten/van/algemeen/economisch/belang/toegelaten/etc/BWBR0028918/README.md), de vigerende MG’s en de [Beleidsregels](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md) gebruik financiële derivaten door toegelaten instellingen. Wij hebben onderzoek gedaan naar: 
+
+1. de naleving van de bepalingen in artikel 11c van het Bbsh. Hierbij is ondermeer de juiste toepassing van de uitzonderingsbepalingen conform artikel 11c, tweede, derde en vierde lid, van dat Besluit, en de vigerende MG vastgesteld. Een gegevensgerichte deelwaarneming op vervreemdingen van woongelegenheden tegen een prijs lager dan 90% van de onderhandse verkoopwaarde vrij van huur en gebruik heeft onderdeel uitgemaakt van deze werkzaamheden.  
+
+2. de naleving van de bepalingen in artikel 11d van het Bbsh. Hierbij is de juiste toepassing van de meldingsvereisten conform artikel 11d, van dat Besluit, en de vigerende MG vastgesteld. Een integrale gegevensgerichte controle op vervreemdingen aan andere dan natuurlijke personen voor eigen bewoning heeft onderdeel uitgemaakt van deze werkzaamheden.  
+
+3. de naleving van de regelgeving (MG 2011-04) met betrekking tot de bepaling van de onderhandse verkoopwaarde vrij van huur en gebruik bij vervreemdingen. Een integrale controle op de juiste naleving van de regelgeving met betrekking tot de bepaling van de onderhandse verkoopwaarde bij vervreemdingen aan andere dan natuurlijke personen voor eigen bewoning heeft onderdeel uitgemaakt van deze werkzaamheden. Voor de overige vervreemdingen heeft een gegevensgerichte deelwaarneming onderdeel uitgemaakt van de werkzaamheden.  
+
+4. de naleving van de aanbestedingsplicht voor maatschappelijk vastgoed uit hoofde van de [Tijdelijke regeling diensten van algemeen economisch belang toegelaten instellingen volkshuisvesting](../../../../../ministeriele-regeling/tijdelijke/regeling/diensten/van/algemeen/economisch/belang/toegelaten/etc/BWBR0028918/README.md), zoals die luidt na de wijziging door de Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 juni 2011 tot wijziging van de Tijdelijke regeling diensten van algemeen economisch belang toegelaten instellingen volkshuisvesting en het Besluit Beheer sociale-huursector (Stcrt. 2011 nr. 11161).  
+
+5. de naleving van de bepalingen zoals opgenomen in de [Beleidsregels gebruik financiële derivaten door toegelaten instellingen volkshuisvesting](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md) bij het afsluiten van nieuwe derivatentransacties met ingang van 1 oktober 2012. Wij hebben daarbij onderzocht of: 
+
+* 5.1 Er geen andere derivaten zijn afgesloten dan rentecaps en payer swaps, gericht op het afdekken van opwaartse renterisico’s op bestaande variabele leningen ([artikel 4 lid 1](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md) en [artikel 7 lid 1](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md)). Voor de payer swaps geldt dat de looptijd niet langer is dan het lopende jaar en de eerstvolgende negen kalenderjaren daarna (artikel 7 lid 2). Voor de rentecaps geldt de algemene bepaling dat de looptijd van het derivaat die van te hedgen variabele lening niet overtreft (toelichting bij artikel 7);  
+
+* 5.2 Financiële derivaten uitsluitend zijn aangetrokken in euro’s, en van financiële instellingen met minimaal een single A rating of een daarmee vergelijkbare rating, afgegeven door ten minste twee van de drie ratingbureaus Moody’s, Standard and Poor’s en Fitch. De minimale rating van tegenpartijen was op het moment van afsluiten van het derivaat single A ([artikel 4 lid 2](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md));  
+
+* 5.3 De toegelaten instelling uitsluitend financiële derivaten heeft aantrokken van een financiële instelling, als zij door deze instelling in het kader van de zorgplichtregels van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), in het bijzonder [artikel 4:90](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), als ‘niet professionele belegger’ is beschouwd ([artikel 6 lid 1](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md));  
+
+* 5.4 Er in of ten aanzien van de aangetrokken derivatencontracten geen clausules zijn gehanteerd die op enigerlei wijze de uitoefening van het toezicht op de toegelaten instellingen kunnen belemmeren ([artikel 5 lid 1](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md));  
+
+* 5.5 De modelovereenkomst en raamovereenkomst uit de [bijlagen I](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md) en [II bij de beleidsregels](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md) zijn gehanteerd ([artikel 5 lid 2](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md) en [artikel 6 lid 2](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md)). De verplichting voor toegelaten instellingen om de modelovereenkomst en raamovereenkomst te hanteren geldt uitsluitend vanaf het moment dat deze door het ministerie van Wonen en Rijksdienst beschikbaar zijn gesteld.     Wij zijn van mening dat de door ons verkregen onderzoeksinformatie voldoende en geschikt is als basis voor ons oordeel.  
+
+####Oordeel
+
+Naar ons oordeel is de specifieke wet- en regelgeving inzake de verkoop van bezit, de aanbesteding van maatschappelijk vastgoed en de [Beleidsregels](../../../../../ministeriele-regeling/beleidsregels/gebruik/financiële/derivaten/door/toegelaten/instellingen/etc/BWBR0031957/README.md) gebruik fianciële derivaten door toegelaten instellingen zoals vastgelegd in het Bbsh, de [Tijdelijke regeling diensten van algemeen economisch belang toegelaten instellingen volkshuisvesting](../../../../../ministeriele-regeling/tijdelijke/regeling/diensten/van/algemeen/economisch/belang/toegelaten/etc/BWBR0028918/README.md), de vigerende MG’s en de Beleidsregels gebruik fianciële derivaten door toegelaten instellingen van ... (naam toegelaten instelling) te ... (statutaire vestigingsplaats) in alle van materieel belang zijnde aspecten juist nageleefd.  *Aanvullende tekst indien van toepassing:*  Met uitzondering van de volgende onderdelen: 
+
+– ...  
+
+– ...    *(Indien op één van de vijf assurance-onderdelen sprake is van een niet-goedkeurend oordeel dan wordt dit afzonderlijk toegelicht).*   *Optioneel:*   
+
+####Overige aangelegenheden
+
+Zonder afbreuk te doen aan ons oordeel, merken wij nog het volgende op: 
+
+– ...  
+
+– ...  
+
+– Als de toegelaten instelling in het verslagjaar geen woongelegenheden heeft verkocht en/of geen aanbestedingsplichtige activiteiten inzake maatschappelijk vastgoed heeft verricht in het verslagjaar, dan dient dat hier te worden vermeld    *(Deze paragraaf is bedoeld voor het rapporteren van geconstateerde afwijkingen in het kader van de 0% rapporteringstolerantie)*   
+
+####Overige aspecten- beperking in het gebruik (en verspreidingskring)
+
+Ons assurance-rapport is uitsluitend bedoeld voor het bestuur van ... (naam toegelaten instelling) ter verantwoording aan de door de Minister van Wonen en Rijksdienst aangewezen bevoegde instanties en dient niet te worden verspreid aan of te worden gebruikt door anderen.  
+Plaats, datum Naam accountantsorganisatie Naam externe accountant  
+
+### Model  III  
+
+####Model assurance-rapport inzake de dVi (bijlage II  bij het Bbsh)
+
+Aan: Opdrachtgever 
+
+####ASSURANCE-RAPPORT
+
+####Opdracht en verantwoordelijkheden
+
+Wij hebben onderzocht of het overzicht van de dVi de assurance-onderdelen uit het controleprotocol van ... (naam toegelaten instelling) te ... (statutaire vestigingsplaats) over verslagjaar XXXX juist weergeeft. Het bestuur van ... (naam toegelaten instelling) is verantwoordelijk voor het in het overzicht van de dVi juist en volledig weergeven van de assurance-onderdelen 1 tot en met 23 zoals vermeld in rubriek C van bijlage III bij het Bbsh. Het is onze verantwoordelijkheid een assurance-rapport omtrent de juiste weergave van deze assurance-onderdelen in de dVi te verstrekken.  
+
+####Werkzaamheden
+
+Wij hebben ons onderzoek verricht in overeenstemming met Nederlands recht, waaronder Standaard 3000 ‘Assurance-opdrachten anders dan opdrachten tot controle en beoordeling van historische financiële informatie’ en het controleprotocol in rubriek C van bijlage III bij het Bbsh. Dienovereenkomstig dienen wij ons onderzoek zodanig te plannen en uit te voeren, dat een redelijke mate van zekerheid wordt verkregen dat de assurance-onderdelen uit het controleprotocol, zoals vastgelegd in het Bbsh en de vigerende MG’s die zijn opgenomen in de dVi geen afwijkingen van materieel belang bevatten. Wij zijn van mening dat de door ons verkregen onderzoeksinformatie voldoende en geschikt is als basis voor onze oordeel.  
+
+####Oordeel
+
+Naar ons oordeel zijn de in de dVi opgenomen assurance-onderdelen uit het controleprotocol, welke onder ‘Opdracht en verantwoordelijkheden’ zijn benoemd van ... (naam toegelaten instelling) te ... in alle van materieel belang zijnde aspecten juist en volledig weergegeven. Ten aanzien van het dVi onderdeel 5.8 punt 5 is dat oordeel mede gebaseerd op de aangeleverde gegevens van de woningzoekende(n) (inclusief eventueel afgegeven verklaring of verklaringen waarvan wij de juistheid en volledigheid niet verder hebben onderzocht). Het overzicht bedoeld in bijlage II bij het Besluit beheer sociale-huursector van cijfermatige kerngegevens, sluit met een checksum van.......  *Aanvullende tekst indien van toepassing:*  Met uitzondering van de volgende onderdelen: 
+
+– ...  
+
+– ...    *(Indien op één van de 23 assurance-onderdelen sprake is van een niet-goedkeurend oordeel dan wordt dit afzonderlijk toegelicht).*   *Optioneel:*   
+
+####Overige aangelegenheden
+
+Zonder afbreuk te doen aan ons oordeel, merken wij nog het volgende op: 
+
+– ...  
+
+– ...    *(Deze paragraaf is bedoeld voor het rapporteren van geconstateerde afwijkingen in het kader van de 0% rapporteringstolerantie)*   
+
+####Overige aspecten- beperking in het gebruik (en verspreidingskring)
+
+Ons assurance-rapport is uitsluitend bedoeld voor het bestuur van ... (naam toegelaten instelling) ter verantwoording aan de door de Minister voor Wonen en Rijksdienst aangewezen bevoegde instanties en dient niet te worden verspreid aan of te worden gebruikt door anderen.  
+Plaats, datum Naam accountantsorganisatie Naam externe accountant  
 
 ### Bijlage  IV  
 

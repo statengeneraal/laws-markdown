@@ -22,7 +22,7 @@ In dit besluit wordt verstaan onder:
 
 a. Onze Minister: Onze Minister van Economische Zaken;  
 
-b. Commissie: de Commissie van de Europese Gemeenschappen;  
+b. Commissie: de Europese Commissie;  
 
 c. Overeenkomst inzake overheidsopdrachten: de op 15 april 1995 te Marrakech tot stand gekomen Overeenkomst inzake overheidsopdrachten (Trb. 1994, 235);  
 
@@ -302,6 +302,23 @@ e. wanneer het overheidsopdrachten betreft waarin geen totale prijs is vermeld e
 ### Artikel  10  
 
 Dit besluit is niet van toepassing op overheidsopdrachten die door aanbestedende diensten op het gebied van defensie worden gegund en die vallen onder de reikwijdte van artikel 296 van het Verdrag tot oprichting van de Europese Gemeenschap.  
+
+### Artikel  10a  
+
+1.  Dit besluit is niet van toepassing op overheidsopdrachten: 
+
+a. waarop de [Aanbestedingswet op defensie- en veiligheidsgebied](../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md) van toepassing is;  
+
+b. waarop de [Aanbestedingswet op defensie- en veiligheidsgebied](../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md) niet van toepassing is ingevolge de [artikelen 2.3](../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md), [2.16](../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md) en [2.17 van die wet](../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md);  
+
+c. voor civiele aankopen die worden geplaatst in een derde land, indien strijdkrachten zijn ingezet buiten het grondgebied van de Europese Unie en de operationele omstandigheden vereisen dat de overheidsopdracht wordt gegund aan ondernemers die in het operatiegebied gevestigd zijn;     
+2.  Voor de toepassing van het eerste lid, onder c, wordt onder civiele aankopen verstaan opdrachten die: 
+
+a. niet onder het toepassingsgebied van [artikel 2.1 van de Aanbestedingswet op defensie- en veiligheidsgebied](../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md) vallen,  
+
+b. betrekking hebben op niet-militaire producten, werken of diensten voor logistieke doeleinden en  
+
+c. worden aanbesteed overeenkomstig een procedure als bedoeld in de [hoofdstukken 2.3 tot en met 3.2 van de Aanbestedingswet op defensie- en veiligheidsgebied](../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md) zonder dat daartoe een verplichting bestaat.     
 
 ### Artikel  11  
 
@@ -800,7 +817,7 @@ g. die zich in ernstige mate schuldig heeft gemaakt aan valse verklaringen bij h
 ### Artikel  46  
 
 1.  Als instantie die bevoegd is tot het afgeven van een bewijsstuk waaruit blijkt dat een gegadigde of inschrijver voor een overheidsopdracht niet verkeert in een van de omstandigheden, bedoeld in artikel 45, derde lid, onderdelen a en b, geldt de griffier van de rechtbank die op grond van [artikel 2 van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) bevoegd is tot het uitspreken van de faillietverklaring van de gegadigde of tot het op die gegadigde of inschrijver van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen.   
-2.  Als instantie die bevoegd is tot het afgeven van een verklaring waaruit blijkt dat een gegadigde of inschrijver niet verkeert in de omstandigheden, bedoeld in artikel 45, eerste of derde lid, onderdeel c, geldt de Minister van Justitie die op grond van [artikel 35 van de Wet justitiële en strafvorderlijke gegevens](../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) bevoegd is een verklaring omtrent gedrag af te geven.   
+2.  Als instantie die bevoegd is tot het afgeven van een verklaring waaruit blijkt dat een gegadigde of inschrijver niet verkeert in de omstandigheden, bedoeld in artikel 45, eerste of derde lid, onderdeel c, geldt Onze Minister van Veiligheid en Justitie die op grond van [artikel 35 van de Wet justitiële en strafvorderlijke gegevens](../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) bevoegd is een verklaring omtrent gedrag af te geven.   
 3.  Als instantie die bevoegd is tot het afgeven van een verklaring waaruit blijkt dat een gegadigde of inschrijver voor een overheidsopdracht niet verkeert in de omstandigheid, bedoeld in artikel 45, derde lid, onderdeel e, geldt voor zowel de bijdragen ten behoeve van werknemersverzekeringen, als voor de bijdragen ten behoeve van de volksverzekeringen, de ontvanger onder wie de gegadigde ressorteert voor de inning van belastingen.   
 4.  Als instantie die bevoegd is tot het afgeven van een bewijsstuk waaruit blijkt dat een gegadigde of inschrijver voor een overheidsopdracht niet verkeert in de omstandigheid, bedoeld in artikel 45, derde lid, onderdeel f, geldt de ontvanger onder wie de gegadigde ressorteert voor de inning van belastingen.   
 5.  Wanneer in het land waarin de gegadigde of inschrijver gevestigd is niet een bewijsstuk of verklaring als bedoeld in het eerste tot en met het vierde lid, wordt afgegeven, kan de gegadigde of inschrijver volstaan met een verklaring onder ede of een plechtige verklaring die door betrokkene ten overstaan van een bevoegde rechterlijke of administratieve instantie, een notaris of een bevoegde beroepsorganisatie van het land van oorsprong of herkomst wordt afgelegd.   

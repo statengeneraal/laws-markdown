@@ -92,7 +92,11 @@ l. verzoek tot teboekstelling van een luchtvaartuig;
 
 m. verzoek tot doorhaling van de teboekstelling van een luchtvaartuig;  
 
-n. aangifte tot doorhaling van de teboekstelling van een luchtvaartuig.    
+n. aangifte tot doorhaling van de teboekstelling van een luchtvaartuig;  
+
+o. rechterlijke uitspraak;  
+
+p. besluit van een bestuursorgaan.    
 
 ### Artikel  5  
 
