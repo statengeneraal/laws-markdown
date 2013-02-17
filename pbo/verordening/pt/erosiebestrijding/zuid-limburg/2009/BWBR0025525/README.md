@@ -33,7 +33,7 @@ Deze verordening verstaat onder:
 | h.  | erosiebevorderend gewas  | :  | alle eenjarige gewassen die worden gezaaid, geplant of gepoot na 1 januari van het betreffende teeltjaar;  |
 | i.  | perceel  | :  | een oppervlakte grond, in eigendom of in gebruik bij een onderneming;  |
 | j.  | hellinglengte  | :  | lengte van de zijde van het perceel, die het minst parallel loopt met de hoofdrichting van de hoogtelijnen;  |
-| k.  | hellingspercentage  | :  | een gemiddeld in een absoluut getal uitgedrukt hellingspercentage van het perceel, bepaald volgens de in bijlage 2 weergegeven methode dan wel beschikbaar gesteld door LNV-DR;  |
+| k.  | hellingspercentage  | :  | een gemiddeld in een absoluut getal uitgedrukt hellingspercentage van het perceel, bepaald volgens de in bijlage 2 weergegeven methode dan wel beschikbaar gesteld door de provincie Limburg;  |
 | l.  | grondbewerking  | :  | het verplaatsen van bodemdeeltjes door middel van een werktuig als ook de verplaatsing door bijvoorbeeld een zaaicouter of mestinjectie;  |
 | m.  | niet-kerende grondbewerking  | :  | grondbewerking waarbij de vermenging van de bodem zich beperkt tot de bovenste 12 centimeter, eventueel gecombineerd met het breken van de bodem op grotere diepte waarbij geen verstoring van de bodemopbouw plaatsvindt;  |
 | n.  | bodembedekking  | :  | een gewas dat in het najaar direct na de oogst van het hoofdgewas, doch uiterlijk 15 oktober, wordt ingezaaid en als levend gewas of als licht dan wel niet ingewerkte gewasresten overwintert;  |
@@ -80,7 +80,7 @@ b. alle door de onder a bedoelde personen gewenste gegevens te verstrekken voor 
 
 ### Artikel  5  
 
-1.  Het is tot en met 31 december 2012 een ondernemer verboden een perceel met een hellinglengte van meer dan 50 meter en een hellingspercentage van 2% of meer, met een erosiebevorderend gewas te betelen.   
+1.  Het is tot en met 31 december 2013 een ondernemer verboden een perceel met een hellinglengte van meer dan 50 meter en een hellingspercentage van 2% of meer, met een erosiebevorderend gewas te betelen.   
 2.  De ondernemer mag van het bepaalde in het eerste lid afwijken op voorwaarde dat hij op het perceel: 
 
 a. in het betreffende teeltjaar geen andere dan de niet-kerende grondbewerking toepast en een bodembedekking inzaait, of  
@@ -94,7 +94,7 @@ c. in het jaar voorafgaand aan de teelt van het hoofdgewas een bodembedekking he
 
 ### Artikel  5a  
 
-Een ondernemer is tot en met 31 december 2012 verplicht tot het melden van het toepassen van een andere dan een niet-kerende grondbewerking op een perceel met een hellinglengte van meer dan 60 meter en een hellingspercentage van 2% of meer in geval van de teelt van een niet-erosiebevorderend gewas. De ondernemer doet uiterlijk zeven dagen na toepassing hiervan mededeling aan de secretaris.  
+Een ondernemer is tot en met 31 december 2013 verplicht tot het melden van het toepassen van een andere dan een niet-kerende grondbewerking op een perceel met een hellinglengte van meer dan 60 meter en een hellingspercentage van 2% of meer in geval van de teelt van een niet-erosiebevorderend gewas. De ondernemer doet uiterlijk zeven dagen na toepassing hiervan mededeling aan de secretaris.  
 
 ### Artikel  6  
 
@@ -112,7 +112,7 @@ d. op een perceel met een hellingspercentage van 5% of meer het mulch/snoeihout 
 
 ### Artikel  7  
 
-1.  Het is met ingang van 1 januari 2013 een ondernemer verboden een perceel met een hellingspercentage van 2% of meer, met een erosiebevorderend gewas te betelen.   
+1.  Het is met ingang van 1 januari 2014 een ondernemer verboden een perceel met een hellingspercentage van 2% of meer, met een erosiebevorderend gewas te betelen.   
 2.  De ondernemer mag van het bepaalde in het eerste lid afwijken op voorwaarde dat hij in het teeltjaar op het perceel: 
 
 a. geen andere dan de niet-kerende grondbewerking toepast en  
