@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. wet: [Telecommunicatiewet;](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md)  
+a. wet: [Telecommunicatiewet;](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md)   
 
 b. aanbieder: de aanbieder van een openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst;  
 
@@ -32,7 +32,7 @@ c. bevoegde autoriteit:
 
 3°. het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst, dan wel door hem schriftelijk aangewezen functionarissen optredend in het kader van de uitvoering van hun taak.    
 
-d. gebruiker: de natuurlijke of rechtspersoon die met de aanbieder een overeenkomst is aangegaan met betrekking tot het gebruik van een openbaar telecommunicatienetwerk of de levering van een openbare telecommunicatiedienst, alsmede de natuurlijke of rechtspersoon die daadwerkelijk gebruik maakt van een openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst.    
+d. gebruiker: de natuurlijke of rechtspersoon die met de aanbieder een overeenkomst is aangegaan met betrekking tot het gebruik van een openbaar telecommunicatienetwerk of de levering van een openbare telecommunicatiedienst, alsmede de natuurlijke of rechtspersoon die daadwerkelijk gebruik maakt van een openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst.   
 
 ### §  2  
 
@@ -40,7 +40,7 @@ d. gebruiker: de natuurlijke of rechtspersoon die met de aanbieder een overeenko
 
 ### Artikel  2  
 
-1.  De apparatuur waarmee op grond van [artikel 3.10, vierde lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) een gebruik van frequentieruimte is toegestaan dat afwijkt van het bepaalde bij of krachtens [hoofdstuk 3 van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) voldoet aan de volgende eisen: 
+1.  De apparatuur waarmee op grond van [artikel 3.22, eerste lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) een gebruik van frequentieruimte is toegestaan dat afwijkt van het bepaalde bij of krachtens [hoofdstuk 3 van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) voldoet aan de volgende eisen: 
 
 a. de apparatuur is voorzien van een inrichting die de nummergegevens, bedoeld in [artikel 13.4, eerste lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) zodanig selecteert dat het selectieproces niet meer dan een plaatselijke, zeer geringe verandering van de functionaliteiten van het desbetreffende netwerk veroorzaakt;  
 
@@ -49,15 +49,15 @@ b. de apparatuur is voorzien van een inrichting waarmee het uitgezonden vermogen
 c. indien de apparatuur is voorzien van een inrichting die het, al dan niet in combinatie met het selectieproces, bedoeld onder a, mogelijk maakt om telecommunicatie af te luisteren of op te nemen, dient deze inrichting uitgeschakeld en vergrendeld te zijn;  
 
 d. de apparatuur is geregistreerd bij Onze Minister.     
-2.  De apparatuur, bedoeld in het eerste lid, is opgeslagen bij een door de korpschef aangewezen onderdeel van een landelijke eenheid als bedoeld in [artikel 25, eerste lid, onderdeel b, van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).   
+2.  Door of namens de korpschef of Onze Minister van Defensie wordt een plaats aangewezen voor de opslag van de apparatuur, bedoeld in het eerste lid, en wordt ervoor zorg gedragen dat deze plaats beveiligd is en uitsluitend toegankelijk is voor of onder begeleiding van daartoe geautoriseerd personeel.  
 
-### Artikel  3  
+###Artikel 3 
 
-Met de in artikel 2 bedoelde apparatuur wordt gelijkgesteld apparatuur die rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig is vervaardigd in een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, en die aan tenminste gelijkwaardige technische eisen voldoet.  
+Met de in artikel 2 bedoelde apparatuur wordt gelijkgesteld apparatuur die rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig is vervaardigd in een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, en die aan tenminste gelijkwaardige technische eisen voldoet.
 
 ### Artikel  4  
 
-1.  Bevoegd tot het gebruik van de apparatuur, bedoeld in artikel 2, is de door de korpschef aangewezen opsporingsambtenaar die is tewerkgesteld bij een landelijke eenheid als bedoeld in [artikel 25, eerste lid, onderdeel b, van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) die voldoet aan de door Onze Minister van Veiligheid en Justitie vastgestelde eisen betreffende kennis van de juridische, operationele en technische aspecten van het gebruik van de apparatuur.   
+1.  Bevoegd tot het gebruik van de apparatuur, bedoeld in artikel 2, is de door de korpschef of Onze Minister van Defensie aangewezen opsporingsambtenaar die voldoet aan de door Onze Minister van Veiligheid en Justitie vastgestelde eisen betreffende kennis van de juridische, operationele en technische aspecten van het gebruik van de apparatuur.   
 2.  De opsporingsambtenaar maakt van het gebruik van de apparatuur proces-verbaal op. Het proces-verbaal vermeldt: 
 
 a. of gebruik is gemaakt van apparatuur als bedoeld in artikel 2, eerste lid, onder c, en of de inrichting die het mogelijk maakt om telecommunicatie af te luisteren of op te nemen is uitgeschakeld en vergrendeld,  
@@ -65,7 +65,7 @@ a. of gebruik is gemaakt van apparatuur als bedoeld in artikel 2, eerste lid, on
 b. de data en de tijdstippen waarop en de plaatsen waar de apparatuur is gebruikt, en  
 
 c. de gegevens die door het gebruik van de apparatuur zijn verkregen.     
-3.  De opsporingsambtenaar vermeldt de gegevens, bedoeld in het tweede lid, onder b, alsmede de tijdens het gebruik van de apparatuur gehanteerde instellingen en vermogens van de apparatuur in een daartoe aan te leggen registratie en doet mededeling van deze gegevens aan Onze Minister.   
+3.  De opsporingsambtenaar vermeldt de gegevens, bedoeld in het tweede lid, onder b, alsmede de tijdens het gebruik van de apparatuur gehanteerde instellingen en vermogens van de apparatuur in een daartoe aan te leggen registratie en doet mededeling van deze gegevens aan Onze Minister.  
 
 ### §  3  
 
@@ -85,23 +85,23 @@ a. de locatie, wanneer het een locatie betreft waar weinig telecommunicatieverke
 
 b. het tijdstip, wanneer het een tijdstip betreft waarop weinig telecommunicatieverkeer plaatsvindt,  
 
-c. een geval waarin het nummer waarmee de gebruiker van telecommunicatie contact zoekt, bekend is.     
+c. een geval waarin het nummer waarmee de gebruiker van telecommunicatie contact zoekt, bekend is.    
 
-### Artikel  6  
+###Artikel 6 
 
-1.  De aanbieder achterhaalt het nummer, bedoeld in artikel 5, eerste lid, door een bewerking toe te passen op de gegevens betreffende het gebruik van het door hem aangeboden openbare telecommunicatienetwerk of de door hem aangeboden openbare telecommunicatiedienst.   
-2.  Nadat de aanbieder het verzoek als bedoeld in artikel 5, eerste lid, heeft ontvangen, verstrekt hij het nummer onverwijld aan de bevoegde autoriteit. De verstrekking is schriftelijk en vermeldt het nummer, dan wel indien de bewerking meer dan één nummer heeft opgeleverd, de nummers. In geval van spoed vindt de verstrekking mondeling plaats, waarna deze schriftelijk wordt bevestigd.   
-3.  De aanbieder verstrekt, in afwijking van het tweede lid, het nummer zo spoedig mogelijk indien het verzoek niet ten minste de gegevens bevat, genoemd in artikel 5, tweede lid.   
+1. De aanbieder achterhaalt het nummer, bedoeld in artikel 5, eerste lid, door een bewerking toe te passen op de gegevens betreffende het gebruik van het door hem aangeboden openbare telecommunicatienetwerk of de door hem aangeboden openbare telecommunicatiedienst.
+2. Nadat de aanbieder het verzoek als bedoeld in artikel 5, eerste lid, heeft ontvangen, verstrekt hij het nummer onverwijld aan de bevoegde autoriteit. De verstrekking is schriftelijk en vermeldt het nummer, dan wel indien de bewerking meer dan één nummer heeft opgeleverd, de nummers. In geval van spoed vindt de verstrekking mondeling plaats, waarna deze schriftelijk wordt bevestigd.
+3. De aanbieder verstrekt, in afwijking van het tweede lid, het nummer zo spoedig mogelijk indien het verzoek niet ten minste de gegevens bevat, genoemd in artikel 5, tweede lid.
 
 ### Artikel  7  
 
-Als gegevens, bedoeld in [artikel 13.4, tweede lid, tweede volzin, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), worden aangewezen: 
+Als gegevens, bedoeld in[ artikel 13.4, tweede lid, tweede volzin, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), worden aangewezen: 
 
 a. de tijdstippen waarop telecommunicatie heeft plaatsgevonden,  
 
 b. de met die tijdstippen en de desbetreffende telecommunicatie corresponderende nummers,  
 
-c. bij welk basisstation elk van de gegevens onder a en b zijn binnengekomen.    
+c. bij welk basisstation elk van de gegevens onder a en b zijn binnengekomen.   
 
 ### §  4  
 
@@ -109,11 +109,11 @@ c. bij welk basisstation elk van de gegevens onder a en b zijn binnengekomen.
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Besluit bijzondere vergaring nummergegevens telecommunicatie.  
+Dit besluit wordt aangehaald als: Besluit bijzondere vergaring nummergegevens telecommunicatie. 
 
 ### Artikel  9  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

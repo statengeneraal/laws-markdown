@@ -25,23 +25,23 @@ e. GMDSS: Global Martime Distress and Safety System, het wereldwijde radiocommun
 
 f. zeevaartschool: een door de Minister van Onderwijs, Cultuur en Wetenschap als zodanig erkende instelling, welke op MBO-niveau 3 en 4 een opleiding verzorgt op basis van crebo-codes, KOAS 91940/KOAL 91930 en Maritiem Officier op HBO-niveau, met credo-codes 34384;  
 
-g. radiozendamateur: degene die vanuit een persoonlijke belangstelling en zonder financieel oogmerk gebruik maakt van frequentieruimte ten behoeve van het opdoen van vaardigheden, het communiceren via de radio en het doen van technisch onderzoekingen.    
+g. radiozendamateur: degene die vanuit een persoonlijke belangstelling en zonder financieel oogmerk gebruik maakt van frequentieruimte ten behoeve van het opdoen van vaardigheden, het communiceren via de radio en het doen van technisch onderzoekingen.   
 
 ### Artikel  2  
 
 1.  De Minister stelt de examenopgaven en de daarbij behorende juiste antwoorden vast.   
 2.  De Minister kan zelf examens afnemen.   
-3.  De Minister stelt voor elke deelnemer het resultaat van het examen vast.   
+3.  De Minister stelt voor elke deelnemer het resultaat van het examen vast.  
 
 ### Artikel  3  
 
-Indien een examen door een kandidaat wordt afgelegd bij een examinerende instelling wordt de vergoeding voor het afnemen van het examen, door die kandidaat, voorafgaand aan het examen, aan die instelling voldaan.  
+Indien een examen door een kandidaat wordt afgelegd bij een examinerende instelling wordt de vergoeding voor het afnemen van het examen, door die kandidaat, voorafgaand aan het examen, aan die instelling voldaan. 
 
 ### Artikel  4  
 
 1.  Indien een kandidaat zich schuldig heeft gemaakt aan onregelmatigheden voor, tijdens of na een examen, kan de Minister het examen van de desbetreffende kandidaat ongeldig verklaren.   
 2.  Indien feiten of omstandigheden daartoe aanleiding geven, kan de Minister beslissen dat het examen geheel of gedeeltelijk opnieuw moet worden afgenomen.   
-3.  De Minister informeert de betrokken kandida(a)t(en) uiterlijk binnen tien werkdagen na de datum waarop het verslag, bedoeld in bijlage 6, is opgemaakt, over de verdere gang van zaken met betrekking tot het geconstateerde voorval.   
+3.  De Minister informeert de betrokken kandida(a)t(en) uiterlijk binnen tien werkdagen na de datum waarop het verslag, bedoeld in bijlage 6, is opgemaakt, over de verdere gang van zaken met betrekking tot het geconstateerde voorval.  
 
 ### Artikel  5  
 
@@ -49,11 +49,11 @@ Indien een examen door een kandidaat wordt afgelegd bij een examinerende instell
 2.  De toestemming is drie maanden geldig en wordt niet verlengd.   
 3.  Een verzoek voor het afleggen van een bijzonder examen wordt gemotiveerd bij de Minister ingediend. Indien nodig verzoekt de kandidaat gemotiveerd om een tijdsduur voor het afleggen van het examen die afwijkt van de tijdsduur als bedoeld in de artikelen 10 en 15.   
 4.  De Minister bepaalt hoe het bijzondere examen wordt afgenomen en stelt zonodig eisen aan de examinator.   
-5.  De kandidaat heeft het bijzondere examen met goed gevolg afgelegd indien de Minister, in voorkomend geval aan de hand van de door een examinerende instelling verstrekte gegevens, heeft vastgesteld dat de kandidaat heeft aangetoond dat hij voldoende kennis en indien nodig voldoende vaardigheden bezit in relatie tot de op het examen van toepassing zijnde exameneisen.   
+5.  De kandidaat heeft het bijzondere examen met goed gevolg afgelegd indien de Minister, in voorkomend geval aan de hand van de door een examinerende instelling verstrekte gegevens, heeft vastgesteld dat de kandidaat heeft aangetoond dat hij voldoende kennis en indien nodig voldoende vaardigheden bezit in relatie tot de op het examen van toepassing zijnde exameneisen.  
 
 ### Artikel  6  
 
-Examens worden in Nederland afgenomen.  
+Examens worden in Nederland afgenomen. 
 
 ### Paragraaf  2  
 
@@ -69,25 +69,25 @@ b. een andere administratie van de Conférence Européenne des Postes et des Té
 
 c. de Minister heeft vastgesteld dat een kandidaat met goed gevolg een examen voor de categorie F heeft afgelegd voor het gebruik van frequentiebanden die in [bijlage 10 van de Regeling gebruik van frequentieruimte zonder vergunning 2008](../../../../../ministeriele-regeling/regeling/gebruik/van/frequentieruimte/zonder/vergunning/2008/BWBR0023553/README.md) zijn aangeduid met de categorie F, of  
 
-d. een andere administratie van de Conférence Européenne des Postes et des Télécommunications aan hem een HAREC-certificaat heeft verstrekt, voor het gebruik van frequentiebanden die in [bijlage 10 van de Regeling gebruik van frequentieruimte zonder vergunning 2008](../../../../../ministeriele-regeling/regeling/gebruik/van/frequentieruimte/zonder/vergunning/2008/BWBR0023553/README.md) zijn aangeduid met de categorie F.    
+d. een andere administratie van de Conférence Européenne des Postes et des Télécommunications aan hem een HAREC-certificaat heeft verstrekt, voor het gebruik van frequentiebanden die in [bijlage 10 van de Regeling gebruik van frequentieruimte zonder vergunning 2008](../../../../../ministeriele-regeling/regeling/gebruik/van/frequentieruimte/zonder/vergunning/2008/BWBR0023553/README.md) zijn aangeduid met de categorie F.   
 
 ### Artikel  8  
 
 1.  De Minister verleent op verzoek een N-certificaat, indien de Minister heeft vastgesteld dat een kandidaat met goed gevolg een examen voor de categorie N heeft afgelegd.   
-2.  De Minister verstrekt op verzoek een HAREC-certificaat, indien de Minister heeft vastgesteld dat een kandidaat met goed gevolg een examen voor de categorie F heeft afgelegd.   
+2.  De Minister verstrekt op verzoek een HAREC-certificaat, indien de Minister heeft vastgesteld dat een kandidaat met goed gevolg een examen voor de categorie F heeft afgelegd.  
 
 ### Artikel  9  
 
-De examens in de categorie N, genoemd in artikel 7, onder a en b en de examens in de categorie F, genoemd in artikel 7, onder c en d, voldoen aan respectievelijk de bijlagen 1 en 2.  
+De examens in de categorie N, genoemd in artikel 7, onder a en b en de examens in de categorie F, genoemd in artikel 7, onder c en d, voldoen aan respectievelijk de bijlagen 1 en 2. 
 
 ### Artikel  10  
 
-De examens hebben een tijdsduur van minimaal dertig minuten en van maximaal twee uur en worden schriftelijk afgenomen.  
+De examens hebben een tijdsduur van minimaal dertig minuten en van maximaal twee uur en worden schriftelijk afgenomen. 
 
 ### Artikel  11  
 
 1.  Het examen voor de categorie N bestaat uit veertig vragen met elk drie antwoordmogelijkheden. Indien de Minister heeft vastgesteld dat de kandidaat ten minste 29 vragen goed heeft beantwoord, heeft de kandidaat het examen met goed gevolg afgelegd.   
-2.  Het examen voor de categorie F bestaat uit vijftig vragen met vier antwoordmogelijkheden. Indien de Minister heeft vastgesteld dat de kandidaat ten minste 35 vragen goed heeft beantwoord, heeft de kandidaat het examen met goed gevolg afgelegd.   
+2.  Het examen voor de categorie F bestaat uit vijftig vragen met vier antwoordmogelijkheden. Indien de Minister heeft vastgesteld dat de kandidaat ten minste 35 vragen goed heeft beantwoord, heeft de kandidaat het examen met goed gevolg afgelegd.  
 
 ### Paragraaf  3  
 
@@ -103,18 +103,18 @@ b. hij beschikt over het beperkte certificaat maritieme radiocommunicatie, voor 
 
 c. hij beschikt over het algemeen certificaat maritieme radiocommunicatie, voor het gebruik van apparatuur waarbij in [bijlage 11, punt 5, van de Regeling gebruik van frequentieruimte zonder vergunning 2008](../../../../../ministeriele-regeling/regeling/gebruik/van/frequentieruimte/zonder/vergunning/2008/BWBR0023553/README.md) de aanduiding ‘X’ is geplaatst in de kolom ‘MARCOM A’, of  
 
-d. hij beschikt over een erkenning als bedoeld in artikel 18, eerste lid, voor het betreffende frequentiegebruik.    
+d. hij beschikt over een erkenning als bedoeld in artikel 18, eerste lid, voor het betreffende frequentiegebruik.   
 
 ### Artikel  13  
 
 1.  De Minister verleent op verzoek een basiscertificaat marifonie, indien de Minister heeft vastgesteld dat een kandidaat met goed gevolg het examen basiscertificaat marifonie heeft afgelegd.   
 2.  De Minister verleent op verzoek een beperkt certificaat maritieme radiocommunicatie, indien de Minister heeft vastgesteld dat een kandidaat met goed gevolg de examens voor het basiscertificaat marifonie en de module GMDSS-B heeft afgelegd.   
 3.  De Minister verleent op verzoek een algemeen certificaat maritieme radiocommunicatie, indien de Minister heeft vastgesteld dat een kandidaat met goed gevolg het examen voor het algemene certificaat maritieme radiocommunicatie heeft afgelegd.   
-4.  Een verzoek als bedoeld in het eerste tot en met derde lid wordt uiterlijk vijf jaar na het met goed gevolg afleggen van het examen ingediend.   
+4.  Een verzoek als bedoeld in het eerste tot en met derde lid wordt uiterlijk vijf jaar na het met goed gevolg afleggen van het examen ingediend.  
 
 ### Artikel  14  
 
-De examens, bedoeld in artikel 13, eerste, tweede en derde lid, voldoen aan respectievelijk de bijlagen 3, 4 en 5.  
+De examens, bedoeld in artikel 13, eerste, tweede en derde lid, voldoen aan respectievelijk de bijlagen 3, 4 en 5. 
 
 ### Artikel  15  
 
@@ -132,21 +132,21 @@ a. voorschriften, procedures en techniek: minimaal dertig minuten en maximaal ne
 b. Engels: dertig minuten;  
 
 c. topografie: dertig minuten.       
-3.  De Minister kan een kandidaat die een voltijdopleiding volgt aan een zeevaartschool, vrijstelling geven voor de onderdelen Engels en topografie, indien de kandidaat in het kader van zijn opleiding aan die zeevaartschool voor de toetsen op deze onderdelen voor elk onderdeel afzonderlijk tenminste een 6,0 heeft behaald.   
+3.  De Minister kan een kandidaat die een voltijdopleiding volgt aan een zeevaartschool, vrijstelling geven voor de onderdelen Engels en topografie, indien de kandidaat in het kader van zijn opleiding aan die zeevaartschool voor de toetsen op deze onderdelen voor elk onderdeel afzonderlijk tenminste een 6,0 heeft behaald.  
 
 ### Artikel  16  
 
 1.  Het schriftelijke examen geschiedt volgens het systeem van meerkeuze. Hierbij wordt slechts voor het juiste antwoord het daarbij behorende aantal punten van de vastgestelde waarderingsgraad toegekend. De kandidaat behaald een voldoende voor een onderdeel van het examen indien hij tenminste 70% van het totaal van de punten heeft behaald.   
-2.  Bij een praktijkexamen heeft een kandidaat het examen met goed gevolg afgelegd indien de Minister aan de hand van de door de examinerende instelling verstrekte gegevens heeft vastgesteld dat de kandidaat ten aanzien van het betreffende onder voldoende kennis bezit op het gebied van radiotechniek en de voorschriften.   
+2.  Bij een praktijkexamen heeft een kandidaat het examen met goed gevolg afgelegd indien de Minister aan de hand van de door de examinerende instelling verstrekte gegevens heeft vastgesteld dat de kandidaat ten aanzien van het betreffende onder voldoende kennis bezit op het gebied van radiotechniek en de voorschriften.  
 
 ### Artikel  17  
 
-Voor deelname aan een examen als bedoeld in artikel 13 moet de kandidaat de leeftijd van elf jaar hebben bereikt.  
+Voor deelname aan een examen als bedoeld in artikel 13 moet de kandidaat de leeftijd van elf jaar hebben bereikt. 
 
 ### Artikel  18  
 
 1.  De Minister erkent op verzoek geldige buitenlandse maritieme certificaten van bediening, indien de aanvrager kan aantonen dat de exameneisen van het buitenlandse examen overeenkomen met de eisen gesteld in de ERC/DEC (99)01 of in het Regionaal akkoord met betrekking tot de radiotelefoondienst voor de binnenvaart (Basel-overeenkomst, Stcrt. 2003, 153).   
-2.  Het verzoek wordt door de kandidaat schriftelijk onderbouwd ingediend bij Agentschap Telecom van het Ministerie van Economische Zaken.   
+2.  Het verzoek wordt door de kandidaat schriftelijk onderbouwd ingediend bij Agentschap Telecom van het Ministerie van Economische Zaken.  
 
 ### Paragraaf  4  
 
@@ -156,12 +156,12 @@ Voor deelname aan een examen als bedoeld in artikel 13 moet de kandidaat de leef
 
 1.  De Minister kan, in het kader van de door hem af te nemen examens, op aanvraag examinerende instellingen aanwijzen waar kandidaten hun examen feitelijk kunnen afleggen.   
 2.  De aanwijzing wordt afgegeven voor ten hoogste vijf jaar en is niet overdraagbaar.   
-3.  De Minister kan op aanvraag een aanwijzing verlengen met een door hem te bepalen termijn die niet langer is dan vijf jaar.   
+3.  De Minister kan op aanvraag een aanwijzing verlengen met een door hem te bepalen termijn die niet langer is dan vijf jaar.  
 
 ### Artikel  20  
 
 1.  De aanvraag heeft betrekking op één of meer examensoorten.   
-2.  De Minister toetst de aanvraag aan de criteria, bedoeld in artikel 21.   
+2.  De Minister toetst de aanvraag aan de criteria, bedoeld in artikel 21.  
 
 ### Artikel  21  
 
@@ -179,28 +179,28 @@ c. ten aanzien van de examens genoemd in artikel 13, tweede en derde lid, beschi
 
 1. toereikende technische middelen om de vaardigheden te toetsen;  
 
-2. personen die op basis van een te overleggen certificaat, verkregen na het met goed gevolg afleggen van een examen genoemd in artikel 13, tweede en derde lid, in staat worden geacht om de praktische vaardigheden te toetsen.       
+2. personen die op basis van een te overleggen certificaat, verkregen na het met goed gevolg afleggen van een examen genoemd in artikel 13, tweede en derde lid, in staat worden geacht om de praktische vaardigheden te toetsen.      
 
 ### Artikel  22  
 
-Indien de examinerende instelling niet meer voldoet aan de criteria op basis waarvan hij is aangewezen, bericht hij dit onverwijld schriftelijk aan de Minister.  
+Indien de examinerende instelling niet meer voldoet aan de criteria op basis waarvan hij is aangewezen, bericht hij dit onverwijld schriftelijk aan de Minister. 
 
 ### Artikel  23  
 
 1.  De examinerende instelling neemt examens af in overeenstemming met bijlage 6.   
-2.  De examinerende instelling verleent op verzoek van de Minister een bijdrage aan het actueel houden van de vragen uit examencategorieën waarvoor zij is aangewezen.   
+2.  De examinerende instelling verleent op verzoek van de Minister een bijdrage aan het actueel houden van de vragen uit examencategorieën waarvoor zij is aangewezen.  
 
 ### Artikel  24  
 
 De examinerende instelling neemt per examencategorie, waarvoor zij is aangewezen ten minste het volgens onderstaande tabel bepaalde aantal examens af.  
 
-| Examensoort  | Minimaal aantal af te nemen examens per jaar  |
+|  Examensoort   |  Minimaal aantal af te nemen examens per jaar   |
 |:---|:---|
-| Basiscertificaat marifonie  | 4  |
-| Module GMDSS-B  | 2  |
-| Algemeen certificaat maritieme radiocommunicatie  | 2  |
-| Examen categorie N  | 2  |
-| Examen categorie F  | 2  |
+|  Basiscertificaat marifonie   |  4   |
+|  Module GMDSS-B   |  2   |
+|  Algemeen certificaat maritieme radiocommunicatie   |  2   |
+|  Examen categorie N   |  2   |
+|  Examen categorie F   |  2   |
 
 ### Artikel  25  
 
@@ -208,7 +208,7 @@ De Minister kan de aanwijzing opschorten indien:
 
 a. de examinerende instelling naar oordeel van de Minister tijdelijk niet meer voldoet aan de criteria voor aanwijzing;  
 
-b. de examinerende instelling tijdelijk niet geacht wordt in staat te zijn om examens af te nemen in overeenstemming met de procedurele eisen, bedoeld in bijlage 6.    
+b. de examinerende instelling tijdelijk niet geacht wordt in staat te zijn om examens af te nemen in overeenstemming met de procedurele eisen, bedoeld in bijlage 6.   
 
 ### Artikel  26  
 
@@ -218,7 +218,7 @@ a. de examinerende instelling daarom verzoekt;
 
 b. de examinerende instelling gedurende een jaar niet het minimale aantal examens heeft afgenomen en ook niet aannemelijk is dat dit binnen afzienbare termijn nog zal gebeuren;  
 
-c. de examinerende instelling tekort is geschoten bij de uitvoering van procedurele eisen als bedoeld bijlage 6.    
+c. de examinerende instelling tekort is geschoten bij de uitvoering van procedurele eisen als bedoeld bijlage 6.   
 
 ### Paragraaf  5  
 
@@ -226,7 +226,7 @@ c. de examinerende instelling tekort is geschoten bij de uitvoering van procedur
 
 ### Artikel  27  
 
-In gevallen waarin deze regeling niet voorziet beslist de Minister.  
+In gevallen waarin deze regeling niet voorziet beslist de Minister. 
 
 ### Artikel  28  
 
@@ -235,27 +235,27 @@ In gevallen waarin deze regeling niet voorziet beslist de Minister.
 a. een instelling waarmee de Minister ter uitvoering van [artikel 39 van de Examenregeling frequentiegebruik](../../../../../ministeriele-regeling/examenregeling/frequentiegebruik/BWBR0010039/README.md) een overeenkomst heeft gesloten;  
 
 b. de examencommissie, bedoeld in [artikel 30 van de Examenregeling frequentiegebruik](../../../../../ministeriele-regeling/examenregeling/frequentiegebruik/BWBR0010039/README.md).     
-2.  Vaststellingen van examenresultaten op basis van de [Examenregeling frequentiegebruik](../../../../../ministeriele-regeling/examenregeling/frequentiegebruik/BWBR0010039/README.md) of door instellingen, genoemd in het eerste lid, gelden als krachtens onderhavige regeling vastgestelde resultaten.   
+2.  Vaststellingen van examenresultaten op basis van de [Examenregeling frequentiegebruik](../../../../../ministeriele-regeling/examenregeling/frequentiegebruik/BWBR0010039/README.md) of door instellingen, genoemd in het eerste lid, gelden als krachtens onderhavige regeling vastgestelde resultaten.  
 
 ### Artikel  29  
 
-De [Examenregeling frequentiegebruik](../../../../../ministeriele-regeling/examenregeling/frequentiegebruik/BWBR0010039/README.md) wordt ingetrokken.  
+De [Examenregeling frequentiegebruik](../../../../../ministeriele-regeling/examenregeling/frequentiegebruik/BWBR0010039/README.md) wordt ingetrokken.
 
 ### Artikel  30  
 
-Wijzigt de Regeling vergoedingen Agentschap Telecom 2008.   
+Wijzigt de Regeling vergoedingen Agentschap Telecom 2008. 
 
 ### Artikel  31  
 
-Wijzigt de Regeling gebruik van frequentieruimte zonder vergunning 2008.   
+Wijzigt de Regeling gebruik van frequentieruimte zonder vergunning 2008. 
 
 ### Artikel  32  
 
-Deze regeling treedt in werking per 1 augustus 2008.  
+Deze regeling treedt in werking per 1 augustus 2008. 
 
 ### Artikel  33  
 
-Deze regeling wordt aangehaald als: Examenregeling frequentiegebruik 2008.  
+Deze regeling wordt aangehaald als: Examenregeling frequentiegebruik 2008. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -263,7 +263,7 @@ Den Haag
 
 De 
 Staatssecretaris van Economische Zaken, 
-F.Heemskerk  
+F. Heemskerk    
 
 ### Bijlage  1  
 
@@ -303,9 +303,9 @@ d. Kandidaten moeten de formules die in dit programma zijn opgenomen kennen, kun
 
 – De eenheden ampere, volt en ohm.  
 
-– De wet van Ohm [ *U = I • R* ]  
+– De wet van Ohm [*U = I • R*]  
 
-– Elektrisch vermogen [ *P = U • I* ]  
+– Elektrisch vermogen [*P = U • I*]  
 
 – De eenheid watt.   
 ###1.2. Bronnen
@@ -319,7 +319,7 @@ d. Kandidaten moeten de formules die in dit programma zijn opgenomen kennen, kun
 
 – Radiogolven als electromagnetische golven.  
 
-– De voortplantingssnelheid en het verband hiervan met de frequentie en met de golflengte [ *v = ƒ • λ* ]  
+– De voortplantingssnelheid en het verband hiervan met de frequentie en met de golflengte [*v = ƒ • λ*]  
 
 – Polarisatie.   
 ###1.4. Sinusvormige signalen
@@ -346,12 +346,12 @@ d. Kandidaten moeten de formules die in dit programma zijn opgenomen kennen, kun
 
 * Frequentiemodulatie.  
 
-* Draaggolf, zijbanden en bandbreedte.     
+* Draaggolf, zijbanden en bandbreedte.    
 ###1.7. Vermogen
 
 – Gelijkstroom-ingangsvermogen.  
 
-– Hf-uitgangsvermogen.    
+– Hf-uitgangsvermogen.   
 
 #### *Hoofdstuk 2. Componenten* 
 
@@ -386,7 +386,7 @@ d. Kandidaten moeten de formules die in dit programma zijn opgenomen kennen, kun
 
 – Transistor (toepassing als versterker).  
 
-– Transistor (toepassing als oscillator).    
+– Transistor (toepassing als oscillator).   
 
 #### *Hoofdstuk 3. Schakelingen* 
 
@@ -405,7 +405,7 @@ d. Kandidaten moeten de formules die in dit programma zijn opgenomen kennen, kun
 
 – Resonantiefrequentie.  
 
-– Laagdoorlatende, hoogdoorlatende, banddoorlatende en bandsperrende filters, opgebouwd uit passieve elementen (alleen toepassingen en gebruik).    
+– Laagdoorlatende, hoogdoorlatende, banddoorlatende en bandsperrende filters, opgebouwd uit passieve elementen (alleen toepassingen en gebruik).   
 
 #### *Hoofdstuk 4. Ontvangers* 
 
@@ -443,7 +443,7 @@ d. Kandidaten moeten de formules die in dit programma zijn opgenomen kennen, kun
 
 – Ruisonderdrukker [squelch] (alleen doel).  
 
-– Voeding.    
+– Voeding.   
 
 #### *Hoofdstuk 5. Zenders* 
 
@@ -489,7 +489,7 @@ d. Kandidaten moeten de formules die in dit programma zijn opgenomen kennen, kun
 
 – Ongewenste hf-uitstralingen.  
 
-– Harmonischen.    
+– Harmonischen.   
 
 #### *Hoofdstuk 6. Antennes en transmissielijnen* 
 
@@ -508,7 +508,7 @@ d. Kandidaten moeten de formules die in dit programma zijn opgenomen kennen, kun
 
 – Voor- en nadelen van open lijn en coaxiale kabel.  
 
-– Antenne aanpassingseenheid (alleen doel).    
+– Antenne aanpassingseenheid (alleen doel).   
 
 #### *Hoofdstuk 7. Propagatie en frequentiespectrum* 
 
@@ -525,7 +525,7 @@ d. Kandidaten moeten de formules die in dit programma zijn opgenomen kennen, kun
 – De invloed van de meteorologische omstandigheden op de VHF/UHF-propagatie.   
 ###7.2. Frequentiespectrum
 
-– HF, VHF, UHF frequentiegebieden.    
+– HF, VHF, UHF frequentiegebieden.   
 
 #### *Hoofdstuk 8. Metingen* 
 
@@ -558,7 +558,7 @@ Het meten met:
 
 – Dipmeter.  
 
-– Kunstantenne [dummy load].    
+– Kunstantenne [dummy load].   
 
 #### *Hoofdstuk 9. Storing en immuniteit* 
 
@@ -600,7 +600,7 @@ Voorzieningen ter voorkoming en opheffing van storingen:
 
 – Goede hf-aarding.  
 
-– Sociale aspecten (goede relatie met de buren).    
+– Sociale aspecten (goede relatie met de buren).   
 
 #### *Hoofdstuk 10. Veiligheid* 
 
@@ -627,7 +627,7 @@ Voorzieningen ter voorkoming en opheffing van storingen:
 
 – Bescherming.  
 
-– Uitvoering van aarding.    
+– Uitvoering van aarding.   
 
 #### *Hoofdstuk 11. Nationale en internationale gebruiksregels en procedures* 
 
@@ -639,7 +639,7 @@ Voorzieningen ter voorkoming en opheffing van storingen:
 
 – Roepletters in Nederland.  
 
-– IARU aanbeveling.    
+– IARU aanbeveling.   
 
 #### *Hoofdstuk 12. Nationale en internationale regelgeving amateurdienst en amateursatellietdienst* 
 
@@ -647,7 +647,7 @@ Voorzieningen ter voorkoming en opheffing van storingen:
 
 – CEPT aanbevelingen.  
 
-– Bij of krachtens de Telecommunicatiewet gestelde regels.    
+– Bij of krachtens de Telecommunicatiewet gestelde regels.   
 
 ### Bijlage  2  
 
@@ -691,15 +691,15 @@ d. Kandidaten moeten de formules die in dit programma zijn opgenomen kennen, kun
 
 – De eenheden ampère, volt en ohm.  
 
-– De wet van Ohm [ *U = I • R* ].  
+– De wet van Ohm [*U = I • R*].  
 
 – De wetten van Kirchhoff.  
 
-– Elektrisch vermogen [ *P = U • I* ].  
+– Elektrisch vermogen [*P = U • I*].  
 
 – De eenheid watt.  
 
-– Elektrische energie [ *W = P • t* ].  
+– Elektrische energie [*W = P • t*].  
 
 – De eenheid joule.  
 
@@ -725,12 +725,12 @@ d. Kandidaten moeten de formules die in dit programma zijn opgenomen kennen, kun
 
 – Radiogolven als elektromagnetische golven.  
 
-– De voortplantingssnelheid en het verband hiervan met de frequentie en de golflengte [ *v = ƒ= • λ* ].  
+– De voortplantingssnelheid en het verband hiervan met de frequentie en de golflengte [*v = ƒ= • λ*].  
 
 – Polarisatie.   
 ###1.6. Sinusvormige signalen
 
-– De grafische voorstelling in de tijd.   ![243627](http://wetten.overheid.nl/Illustration/243627)
+– De grafische voorstelling in de tijd.  ![243627](http://wetten.overheid.nl/Illustration/243627)
 
 – Periode en periodeduur.  
 
@@ -749,7 +749,7 @@ d. Kandidaten moeten de formules die in dit programma zijn opgenomen kennen, kun
 
 – Gelijkspanningscomponent, grondgolf en zijn harmonischen.  
 
-– Ruis [ *P <sub>N</sub> = kTB* ], thermische ruis, via de antenne ontvangen ruis, ruisvermogen per Hz, ruis-vermogen in de bandbreedte.   
+– Ruis [*P<sub>N</sub> = kTB*], thermische ruis, via de antenne ontvangen ruis, ruisvermogen per Hz, ruis-vermogen in de bandbreedte.   
 ###1.8. Gemoduleerde signalen
 
 – CW.  
@@ -758,7 +758,7 @@ d. Kandidaten moeten de formules die in dit programma zijn opgenomen kennen, kun
 
 – Enkelzijbandmodulatie.  
 
-– Fase- en frequentiemodulatie.   ![243628](http://wetten.overheid.nl/Illustration/243628)
+– Fase- en frequentiemodulatie.  ![243628](http://wetten.overheid.nl/Illustration/243628)
 
 – Draaggolf, zijbanden en bandbreedte.  
 
@@ -773,7 +773,7 @@ d. Kandidaten moeten de formules die in dit programma zijn opgenomen kennen, kun
 – Foutdetectie en -correctie: CRC (packet radio), ARQ en FEC (toepassing AMTOR).   
 ###1.9. Vermogen en energie
 
-– Het vermogen van sinusvormige signalen   ![243629](http://wetten.overheid.nl/Illustration/243629)
+– Het vermogen van sinusvormige signalen  ![243629](http://wetten.overheid.nl/Illustration/243629)
 
 – Vermogensverhoudingen die overeenkomen met de volgende dB-waarden: 0dB, 3dB, 6dB, 10dB en 20dB [zowel positief als negatief].  
 
@@ -781,7 +781,7 @@ d. Kandidaten moeten de formules die in dit programma zijn opgenomen kennen, kun
 
 – Aanpassing [maximale vermogensoverdracht].  
 
-– De relatie tussen ingangsvermogen, uitgangsvermogen en rendement.   ![243630](http://wetten.overheid.nl/Illustration/243630)
+– De relatie tussen ingangsvermogen, uitgangsvermogen en rendement.  ![243630](http://wetten.overheid.nl/Illustration/243630)
 
 – Peak Envelope Power [PEP].   
 ###1.10. Digitalisering van analoge signalen
@@ -794,7 +794,7 @@ d. Kandidaten moeten de formules die in dit programma zijn opgenomen kennen, kun
 
 – Convolutie (tijddomein/-frequentiedomein, grafische voorstelling).  
 
-– ADC en DAC.    
+– ADC en DAC.   
 
 #### *Hoofdstuk 2. Componenten* 
 
@@ -815,7 +815,7 @@ d. Kandidaten moeten de formules die in dit programma zijn opgenomen kennen, kun
 
 – De relatie tussen capaciteit, afmetingen en diëlektricum.  
 
-– De reactantie   ![243631](http://wetten.overheid.nl/Illustration/243631)
+– De reactantie  ![243631](http://wetten.overheid.nl/Illustration/243631)
 
 – Faseverschil tussen stroom en spanning.  
 
@@ -828,15 +828,15 @@ d. Kandidaten moeten de formules die in dit programma zijn opgenomen kennen, kun
 
 – Het effect van aantal windingen, diameter, lengte en kernmateriaal op de zelfinductie.  
 
-– De reactantie [ *X <sub>L</sub> = 2πƒ • L* ].  
+– De reactantie [*X<sub>L</sub> = 2πƒ • L*].  
 
-– Faseverschil tussen stroom en spanning.   ![243632](http://wetten.overheid.nl/Illustration/243632)
+– Faseverschil tussen stroom en spanning.  ![243632](http://wetten.overheid.nl/Illustration/243632)
 
 ###2.4. Toepassing en gebruik van transformatoren
 
-– Ideale transformator [ *P <sub>prim</sub> = P <sub>sec</sub>* ]  
+–  Ideale transformator [*P<sub>prim</sub> = P<sub>sec</sub> *]  
 
-– De relatie tussen wikkelverhouding en:   ![243633](http://wetten.overheid.nl/Illustration/243633)
+– De relatie tussen wikkelverhouding en:  ![243633](http://wetten.overheid.nl/Illustration/243633)
 ![243634](http://wetten.overheid.nl/Illustration/243634)
 ![243635](http://wetten.overheid.nl/Illustration/243635)
 
@@ -891,7 +891,7 @@ Gebruik en toepassing van diodes:
 
 – Flipflop;  
 
-– Deler.      
+– Deler.     
 
 ####Hoofdstuk 3. Schakelingen
 
@@ -908,11 +908,11 @@ Gebruik en toepassing van diodes:
 
 – Seriekring en parallelkring.  
 
-– Impedantie.  
+–  Impedantie.  
 
-– Frequentiekarakteristiek.   ![243636](http://wetten.overheid.nl/Illustration/243636)
+– Frequentiekarakteristiek.  ![243636](http://wetten.overheid.nl/Illustration/243636)
 
-– Kwaliteitsfactor van een afgestemde kring   ![243637](http://wetten.overheid.nl/Illustration/243637)
+– Kwaliteitsfactor van een afgestemde kring  ![243637](http://wetten.overheid.nl/Illustration/243637)
 
 – Bandbreedte.  
 
@@ -1003,7 +1003,7 @@ Gebruik en toepassing van diodes:
 
 – FFT.    
 
-– Directe digitale frequentiesynthese (DDS).    
+– Directe digitale frequentiesynthese (DDS).   
 
 #### *Hoofdstuk 4. Ontvangers* 
 
@@ -1062,7 +1062,7 @@ Gebruik en toepassing van diodes:
 
 – Gevoeligheidsvermindering (desensitization).  
 
-– Blokkering.    
+– Blokkering.   
 
 #### *Hoofdstuk 5. Zenders* 
 
@@ -1134,7 +1134,7 @@ Gebruik en toepassing van diodes:
 
 – Faseruis.  
 
-– Kaststraling.    
+– Kaststraling.   
 
 #### *Hoofdstuk 6. Antennes en transmissielijnen* 
 
@@ -1180,19 +1180,19 @@ Gebruik en toepassing van diodes:
 
 – Golfpijp.  
 
-– Karakteristieke impedantie [ *Z <sub>0</sub>* ].  
+– Karakteristieke impedantie [*Z<sub>0</sub> *].  
 
 – Verkortingsfactor.  
 
-– Staandegolfverhouding   ![243638](http://wetten.overheid.nl/Illustration/243638)
+– Staandegolfverhouding  ![243638](http://wetten.overheid.nl/Illustration/243638)
 
 – Verliezen.  
 
 – Balun.  
 
-– Kwartgolf lijn als impedantie-transformator [ *Z <sub>0</sub><sup>2</sup> = Z <sub>in</sub> • Z <sub>uit</sub>* ].  
+– Kwartgolf lijn als impedantie-transformator [*Z<sub>0</sub> <sup>2</sup> = Z<sub>in</sub> • Z<sub>uit</sub> *].  
 
-– Antenne aanpassingseenheid.    
+– Antenne aanpassingseenheid.   
 
 #### *Hoofdstuk 7. Propagatie* 
 
@@ -1258,7 +1258,7 @@ Gebruik en toepassing van diodes:
 
 – Maanreflectie (EME).  
 
-– Thermische ruis van het aardoppervlak.    
+– Thermische ruis van het aardoppervlak.   
 
 #### *Hoofdstuk 8. Metingen* 
 
@@ -1303,7 +1303,7 @@ Het meten met:
 
 – Oscilloscoop;  
 
-– Kunstantenne [dummy load], HF-vermogensmeter.    
+– Kunstantenne [dummy load], HF-vermogensmeter.   
 
 #### *Hoofdstuk 9. Storing en immuniteit* 
 
@@ -1337,7 +1337,7 @@ Voorzieningen ter voorkoming en opheffing van storingen:
 
 – Ontkoppelen;  
 
-– Afscherming.    
+– Afscherming.   
 
 #### *Hoofdstuk 10. Veiligheid* 
 
@@ -1349,7 +1349,7 @@ Voorzieningen ter voorkoming en opheffing van storingen:
 
 – De gevolgen van elektrische schok.  
 
-– Toegelaten vermogensdichtheid van een hoogfrequentveld [watt/m <sup>2</sup> ].   
+– Toegelaten vermogensdichtheid van een hoogfrequentveld [watt/m<sup>2</sup>].   
 ###10.2. Netvoeding
 
 – Verschil tussen fase, nul en aarde [kleurcode].  
@@ -1379,7 +1379,7 @@ Voorzieningen ter voorkoming en opheffing van storingen:
 
 – Apparatuur buiten.  
 
-– Antenne.    
+– Antenne.   
 
 #### *Hoofdstuk 11. Nationale en internationale gebruiksregels en procedures* 
 
@@ -1397,7 +1397,7 @@ Voorzieningen ter voorkoming en opheffing van storingen:
 
 * In Nederland.    
 
-– Internationaal spellingsalfabet.    
+–  Internationaal spellingsalfabet.   
 
 #### *Hoofdstuk 12. Nationale en internationale regelgeving amateurdienst en amateursatellietdienst* 
 
@@ -1405,7 +1405,7 @@ Voorzieningen ter voorkoming en opheffing van storingen:
 
 – CEPT aanbevelingen.  
 
-– Bij of krachtens de Telecommunicatiewet gestelde regels.    
+– Bij of krachtens de Telecommunicatiewet gestelde regels.   
 
 #### *Hoofdstuk 13. Gedragsregels* 
 
@@ -1428,7 +1428,7 @@ Voorzieningen ter voorkoming en opheffing van storingen:
 
 – Verbindingsprocedures.  
 
-– Aanpassen vermogen aan situatie.    
+– Aanpassen vermogen aan situatie.   
 
 ### Bijlage  3  
 
@@ -1471,7 +1471,7 @@ Het examen bestaat uit een theoretische toets en omvat in elk geval de volgende 
 
 – Het begrip radiokanaal. Simplex, semi-duplex and duplex. Relay walstation.  
 
-– Oproepkanalen    
+– Oproepkanalen   
 
 #### *B. Kennis van het gebruik van de basisapparatuur van een scheepsstation* 
 
@@ -1501,11 +1501,11 @@ Het examen bestaat uit een theoretische toets en omvat in elk geval de volgende 
 
 – Onderhoud  
 
-– Risico’s    
+– Risico’s   
 
 #### *B2. Digital Selective Calling (DSC)* 
 
-2.1. Begrip MMSI 2.2. Gebruik van het VHF-kanaal 70  
+2.1. Begrip MMSI 2.2. Gebruik van het VHF-kanaal 70 
 
 #### *C. Grondige kennis van de operationele procedures* 
 
@@ -1529,23 +1529,23 @@ Het examen bestaat uit een theoretische toets en omvat in elk geval de volgende 
 
 – Medisch advies  
 
-– Veiligheidssein    
+– Veiligheidssein   
 
 #### *C2. Search and rescue operation (SAR)* 
 
 – De functie van RCC’s  
 
-– SAR-kanalen    
+– SAR-kanalen   
 
 #### *D. Overige kennis en operationele procedures voor algemene communicatie* 
 
 #### *D1. Taalgebruik voor een goede communicatie met betrekking tot de veiligheid van mensenlevens en navigatie* 
 
-1.1. Gebruik van het internationale fonetisch alfabet 1.2. Keuze van de juiste taal in het radioverkeer op de binnenwateren  
+1.1. Gebruik van het internationale fonetisch alfabet 1.2. Keuze van de juiste taal in het radioverkeer op de binnenwateren 
 
 #### *D2. Verplichte procedures en handelingen* 
 
-2.1 Effectief gebruik van verplichte documenten en publicaties  
+2.1 Effectief gebruik van verplichte documenten en publicaties 
 
 #### *D3. Praktische en theoretische kennis van algemene communicatieprocedures* 
 
@@ -1592,7 +1592,7 @@ Het examen bestaat uit een theoretische toets en omvat in elk geval de volgende 
 
 – Controle op het ether en frequentiegebruik  
 
-– Overtredingen van de (radio)voorschriften en de daarbij behorende maatregelen    
+– Overtredingen van de (radio)voorschriften en de daarbij behorende maatregelen   
 
 #### *D4. Internationale en nationale regelgeving met betrekking tot de radiodienst* 
 
@@ -1610,7 +1610,7 @@ Het examen bestaat uit een theoretische toets en omvat in elk geval de volgende 
 
 – Regionale Regeling betreffende de radiodienst op de binnenwateren  
 
-– De [Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) (inclusief onderliggende regelgeving)    
+– De [Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) (inclusief onderliggende regelgeving)   
 
 ### Bijlage  4  
 
@@ -1661,7 +1661,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – GMDSS nood- en veiligheidsfrequenties  
 
-– Oproepfrequenties    
+– Oproepfrequenties   
 
 #### *B. Grondige kennis van de praktijk en vaardigheid in het gebruik van de basisapparatuur van een scheepsstation* 
 
@@ -1706,7 +1706,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – SART  
 
-– EPIRB    
+– EPIRB   
 
 #### *B2. Digital Selective Calling (DSC)* 
 
@@ -1756,7 +1756,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 #### *C1. Global Maritime Distress and Safety System (GMDSS)* 
 
-1.1. Indeling van de zeegebieden A1 t/m A4 en het GMDSS masterplan 1.2. Bewaken van noodfrequenties zoals vermeld in het Radio Reglement, het SOLAS-verdrag en het STCW-verdrag 1.3. Functionele eisen voor scheepsstations 1.4. Uitrustingseisen voor scheepsstations 1.5. Energievoorzieningen van scheepsstations inclusief hoofd-, nood- en reservebronnen 1.6. Waarborgen van de beschikbaarheid van het scheepsradiostation 1.7. Vergunningen, (radio)veiligheidscertificaten, bedieningscertificaten, inspecties en periodieke onderzoeken.  
+1.1. Indeling van de zeegebieden A1 t/m A4 en het GMDSS masterplan 1.2. Bewaken van noodfrequenties zoals vermeld in het Radio Reglement, het SOLAS-verdrag en het STCW-verdrag 1.3. Functionele eisen voor scheepsstations 1.4. Uitrustingseisen voor scheepsstations 1.5. Energievoorzieningen van scheepsstations inclusief hoofd-, nood- en reservebronnen 1.6. Waarborgen van de beschikbaarheid van het scheepsradiostation 1.7. Vergunningen, (radio)veiligheidscertificaten, bedieningscertificaten, inspecties en periodieke onderzoeken. 
 
 #### *C2. NAVTEX* 
 
@@ -1777,7 +1777,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – Berichten die niet kunnen worden onderdrukt  
 
-– Gebruik van supplementaire bediening en bijvullen papier    
+– Gebruik van supplementaire bediening en bijvullen papier   
 
 #### *C3. Emergency Position Indicating Radio Beacons (EPIRB’s)* 
 
@@ -1801,7 +1801,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 * Controleren van de vervangingsdatum van de batterij  
 
-* Controleren van de vervangingsdatum van het hydrostatische ontgrendelingsmechanisme      
+* Controleren van de vervangingsdatum van het hydrostatische ontgrendelingsmechanisme     
 
 #### *C4. Search and Rescue Radar Transponder (SART)* 
 
@@ -1821,7 +1821,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – Testen  
 
-– Controleren van de vervangingsdatum van de batterij      
+– Controleren van de vervangingsdatum van de batterij     
 
 #### *C5. Nood-, spoed- en veiligheidscommunicatieprocedures in het GMDSS* 
 
@@ -1888,7 +1888,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – Vermijden van schadelijke storing  
 
-– Voorkomen van ongeautoriseerde uitzendingen    
+– Voorkomen van ongeautoriseerde uitzendingen   
 
 #### *C6. Nood-, spoed- en veiligheidscommunicatie met schepen die uitsluitend radiotelefonie gebruiken (non SOLAS)* 
 
@@ -1910,11 +1910,11 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – Medisch advies  
 
-– Veiligheidssein    
+– Veiligheidssein   
 
 #### * *C7. Search and rescue operation (SAR)* * 
 
-7.1. De functie van RCC’s 7.2. International Aeronautical and Maritime Search and Rescue Manual (IAMSAR) 7.3. Maritieme reddingsorganisaties 7.4. Meldingssystemen voor schepen  
+7.1. De functie van RCC’s 7.2. International Aeronautical and Maritime Search and Rescue Manual (IAMSAR) 7.3. Maritieme reddingsorganisaties 7.4. Meldingssystemen voor schepen 
 
 #### *C8. GMDSS portofoons* 
 
@@ -1928,17 +1928,17 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 * Testen  
 
-* Controleren van de batterijen      
+* Controleren van de batterijen     
 
 #### *D. Overige kennis en vaardigheden en operationele procedures voor algemene communicatie* 
 
 #### *D1. Taalvaardigheid in het Engels, zowel schriftelijk als mondeling, voor een goede communicatie met betrekking tot de veiligheid van mensenlevens op zee* 
 
-1.1. Gebruik van het Internationale Seinboek en het Standard Marine Communication Phrases (SMCP) 1.2. Erkende standaardafkortingen en veel gebruikte woorden en uitdrukkingen 1.3. Gebruik van het internationale fonetisch alfabet (ITU) 1.4.. Gebruik van de voorgeschreven boekwerken inclusief technische handleidingen 1.5. Begrip van ontvangen berichten  
+1.1. Gebruik van het Internationale Seinboek en het Standard Marine Communication Phrases (SMCP) 1.2. Erkende standaardafkortingen en veel gebruikte woorden en uitdrukkingen 1.3. Gebruik van het internationale fonetisch alfabet (ITU) 1.4.. Gebruik van de voorgeschreven boekwerken inclusief technische handleidingen 1.5. Begrip van ontvangen berichten 
 
 #### *D2. Verplichte procedures en handelingen* 
 
-2.1. Effectief gebruik van verplichte documenten en publicaties 2.2. Bijhouden van radiogegevens 2.3. Kennis van de het reglement en de afspraken met betrekking tot de tot de Maritime Mobile Service en de Maritime Mobile Satellite Service  
+2.1. Effectief gebruik van verplichte documenten en publicaties 2.2. Bijhouden van radiogegevens 2.3. Kennis van de het reglement en de afspraken met betrekking tot de tot de Maritime Mobile Service en de Maritime Mobile Satellite Service 
 
 #### *D3. Praktische en theoretische kennis van algemene communicatieprocedures* 
 
@@ -1972,7 +1972,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – Controle op het ether en frequentiegebruik  
 
-– Overtredingen van de (radio)voorschriften en de daarbij behorende maatregelen    
+– Overtredingen van de (radio)voorschriften en de daarbij behorende maatregelen   
 
 #### *D4. Internationale en nationale regelgeving met betrekking tot de radiodienst* 
 
@@ -1990,7 +1990,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – De Nederlandse [Schepenwet](../../../../../rijkswet/schepenwet/BWBR0001876/README.md) en het daarbij behorende [Schepenbesluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md)  
 
-– Bij of krachtens de [Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) gestelde regels    
+– Bij of krachtens de [Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) gestelde regels   
 
 ### Bijlage  5  
 
@@ -2096,7 +2096,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – Nood- spoed- en veiligheidsfrequenties van het pre-GMDSS-systeem  
 
-– Oproepfrequenties      
+– Oproepfrequenties     
 
 #### *A2. De algemene principes en basiskenmerken van de Maritime Mobile-Satellite Service* 
 
@@ -2135,7 +2135,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – Ship Earth Stations (SES)  
 
-– Network Controlling Centre (NCC)    
+– Network Controlling Centre (NCC)   
 
 #### *B. Grondige kennis van de praktijk en vaardigheid in het gebruik van de basisapparatuur van een scheepsstation* 
 
@@ -2212,7 +2212,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – SART  
 
-– EPIRB    
+– EPIRB   
 
 #### *B2. Digital Selective Calling (DSC)* 
 
@@ -2283,7 +2283,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – Bedieningsknoppen en indicatoren  
 
-– Bediening van het toetsenbord    
+– Bediening van het toetsenbord   
 
 #### *B4. Kennis van het gebruik van INMARSAT-systemen. Vaardigheid in het gebruik van INMARSAT-apparatuur of -simulator in de praktijk* 
 
@@ -2313,17 +2313,17 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – Sturen en ontvangen van tekstberichten  
 
-– 2 cijferige code    
+– 2 cijferige code   
 
 #### *B5. Kennis en vaardigheid in het opsporen van fouten* 
 
-5.1. Het opsporen van elementaire van fouten met behulp van ingebouwde meetinstrumenten of software in overeenstemming met de handleidingen van de apparatuur. Het herstellen van elementaire fouten, zoals vervangen van zekeringen, controlelampjes, e.d.  
+5.1. Het opsporen van elementaire van fouten met behulp van ingebouwde meetinstrumenten of software in overeenstemming met de handleidingen van de apparatuur. Het herstellen van elementaire fouten, zoals vervangen van zekeringen, controlelampjes, e.d. 
 
 #### *C. Grondige kennis van de operationele procedures en uitgebreide vaardigheden met het het GMDSS-systeem en de subsystemen* 
 
 #### *C1. Global Maritime Distress and Safety System (GMDSS)* 
 
-1.1. Zeegebieden en het GMDSS masterplan 1.2. Bewaken van noodfrequenties zoals vermeld in het Radio Reglement, het SOLAS-verdrag en het STCW-verdrag 1.3. Functionele eisen voor scheepsstations 1.4. Uitrustingseisen voor scheepsstations 1.5. Energievoorzieningen van scheepsstations inclusief hoofd-, nood- en reservebronnen 1.6. Waarborgen van de beschikbaarheid van het scheepsradiostation 1.7. Vergunningen, (radio)veiligheidscertificaten, bedieningscertificaten, inspecties en periodieke onderzoeken 1.8. Het selecteren van het (de) meest geschikte communicatiemiddel(en) en de daarmee verband houdende routering van de berichtgeving 1.9. Het kunnen opzoeken, cq beschikbaar hebben en gebruiken van de noodfrequenties in de VHF-MF- en HF-banden.  
+1.1. Zeegebieden en het GMDSS masterplan 1.2. Bewaken van noodfrequenties zoals vermeld in het Radio Reglement, het SOLAS-verdrag en het STCW-verdrag 1.3. Functionele eisen voor scheepsstations 1.4. Uitrustingseisen voor scheepsstations 1.5. Energievoorzieningen van scheepsstations inclusief hoofd-, nood- en reservebronnen 1.6. Waarborgen van de beschikbaarheid van het scheepsradiostation 1.7. Vergunningen, (radio)veiligheidscertificaten, bedieningscertificaten, inspecties en periodieke onderzoeken 1.8. Het selecteren van het (de) meest geschikte communicatiemiddel(en) en de daarmee verband houdende routering van de berichtgeving 1.9. Het kunnen opzoeken, cq beschikbaar hebben en gebruiken van de noodfrequenties in de VHF-MF- en HF-banden. 
 
 #### *C2. Het gebruik van INMARSAT in het GMDSS* 
 
@@ -2369,7 +2369,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – Berichten naar alle schepen en INMARSAT-systeemberichten  
 
-– Klasse INMARSAT-C-scheepsapparatuur en hun EGC-ontvangst    
+– Klasse INMARSAT-C-scheepsapparatuur en hun EGC-ontvangst   
 
 #### *C3. NAVTEX* 
 
@@ -2390,7 +2390,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – Berichten die niet kunnen worden onderdrukt  
 
-– Gebruik van supplementaire bediening en bijvullen papier    
+– Gebruik van supplementaire bediening en bijvullen papier   
 
 #### *C4. Emergency Position Indicating Radio Beacons (EPIRB’s)* 
 
@@ -2414,7 +2414,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 * Controleren van de vervangingsdatum van de batterij  
 
-* Controleren van de vervangingsdatum van het hydrostatische ontgrendelingsmechanisme      
+* Controleren van de vervangingsdatum van het hydrostatische ontgrendelingsmechanisme     
 
 #### *C5. Search and Rescue Radar Transponder (SART)* 
 
@@ -2434,7 +2434,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – Testen  
 
-– Controleren van de vervangingsdatum van de batterij      
+– Controleren van de vervangingsdatum van de batterij     
 
 #### *C6. Nood-, spoed- en veiligheidscommunicatieprocedures in het GMDSS* 
 
@@ -2511,7 +2511,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – Vermijden van schadelijke storing  
 
-– Voorkomen van ongeautoriseerde uitzendingen    
+– Voorkomen van ongeautoriseerde uitzendingen   
 
 #### *C7. Nood-, spoed- en veiligheidscommunicatie met schepen die uitsluitend radiotelefonie gebruiken (non SOLAS)* 
 
@@ -2533,11 +2533,11 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – Medisch advies  
 
-– Veiligheidssein    
+– Veiligheidssein   
 
 #### *C8. Search and rescue operation (SAR)* 
 
-8.1. De functie van RCC’s 8.2. International Aeronautical and Maritime Search and Rescue Manual ( IAMSAR) 8.3. Maritieme reddingsorganisaties 8.4. Meldingssystemen voor schepen  
+8.1. De functie van RCC’s 8.2. International Aeronautical and Maritime Search and Rescue Manual ( IAMSAR) 8.3. Maritieme reddingsorganisaties 8.4. Meldingssystemen voor schepen 
 
 #### *C9. GMDSS portofoons* 
 
@@ -2551,17 +2551,17 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – Testen  
 
-– Controleren van de batterijen      
+– Controleren van de batterijen     
 
 #### *D. Overige kennis en vaardigheden, en operationele procedures voor algemene communicatie* 
 
 #### *D1. Taalvaardigheid in het Engels, zowel schriftelijk als mondeling, voor een goede communicatie met betrekking tot de veiligheid van mensenlevens op zee* 
 
-1.1. Gebruik van het Internationale Seinboek en het Standard Marine Communication Phrases (SMCP) 1.2. Erkende standaardafkortingen en veel gebruikte woorden en uitdrukkingen 1.3. Gebruik van het internationale fonetisch alfabet (ITU) 1.4. Gebruik van de boekwerken inclusief technische handleidingen 1.5. Begrip van ontvangen berichten  
+1.1. Gebruik van het Internationale Seinboek en het Standard Marine Communication Phrases (SMCP) 1.2. Erkende standaardafkortingen en veel gebruikte woorden en uitdrukkingen 1.3. Gebruik van het internationale fonetisch alfabet (ITU) 1.4. Gebruik van de boekwerken inclusief technische handleidingen 1.5. Begrip van ontvangen berichten 
 
 #### *D2. Verplichte procedures en handelingen* 
 
-2.1. Effectief gebruik van verplichte documenten, voorgeschreven boekwerken en publicaties 2.2. Bijhouden van radiogegevens 2.3. Kennis van het reglement en de afspraken met betrekking tot de Maritime Mobile Service en de Maritime Mobile-Satellite Service  
+2.1. Effectief gebruik van verplichte documenten, voorgeschreven boekwerken en publicaties 2.2. Bijhouden van radiogegevens 2.3. Kennis van het reglement en de afspraken met betrekking tot de Maritime Mobile Service en de Maritime Mobile-Satellite Service 
 
 #### *D3. Praktische en theoretische kennis van algemene communicatieprocedures* 
 
@@ -2626,7 +2626,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – Controle op het ether en frequentiegebruik  
 
-– Overtredingen van de (radio)voorschriften en de daarbij behorende maatregelen    
+– Overtredingen van de (radio)voorschriften en de daarbij behorende maatregelen   
 
 #### *D4. Internationale en nationale regelgeving met betrekking tot de radiodienst* 
 
@@ -2646,7 +2646,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – De Regionale regeling betreffende de radiodienst op de binnenwateren  
 
-– De [Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) (incl. Voorschriften en Beperkingen)    
+– De [Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) (incl. Voorschriften en Beperkingen)   
 
 ### Bijlage  6  
 
@@ -2680,7 +2680,7 @@ d. Opgave van de behaalde examenonderdelen (relevant bij module GMDSS-B en bij h
 
 9. De examinerende instelling draagt zorg voor het overhandigen van de examenopgaven aan de examinator in een verzegeld omhulsel.  
 
-10. De examinator stelt bij overhandiging vast dat het zegel op het omhulsel niet verbroken is.    
+10. De examinator stelt bij overhandiging vast dat het zegel op het omhulsel niet verbroken is.   
 
 #### *Tijdens het schriftelijke examen* 
 
@@ -2700,7 +2700,7 @@ d. Opgave van de behaalde examenonderdelen (relevant bij module GMDSS-B en bij h
 
 8. Indien mogelijk mogen examenkandidaten de vragen van het gemaakte examen meenemen. Schriftelijke examenvragen hoeven dus niet te worden ingenomen.  
 
-9. Indien er sprake is van het afnemen van een bijzonder examen dienen er minimaal twee examinatoren aanwezig te zijn.    
+9. Indien er sprake is van het afnemen van een bijzonder examen dienen er minimaal twee examinatoren aanwezig te zijn.   
 
 #### *Na afloop van het schriftelijke examen* 
 
@@ -2742,13 +2742,13 @@ i. het rapport wordt zo mogelijk voorzien van originele bewijsstukken die de bev
 
 10. De nagekeken examens worden gedurende een jaar door de examinerende instelling bewaard in een afgesloten ruimte of afgesloten kast.  
 
-11. Na ontvangst van de vastgestelde resultaten meldt de examinerende instelling de resultaten binnen een redelijke termijn aan de kandidaten.    
+11. Na ontvangst van de vastgestelde resultaten meldt de examinerende instelling de resultaten binnen een redelijke termijn aan de kandidaten.   
 
 #### *Procedurele eisen voor het afnemen van praktijktoetsen* 
 
 #### *Voorafgaand aan het praktijkexamen* 
 
-1. De examinerende instelling deelt ten minste tien werkdagen vóór afname van het praktijkexamen datum, tijd en plaats van het examen mee aan de Minister. Indien dit niet tijdig gebeurt en er wordt een examen afgenomen, dan is er geen sprake van een geldig examen. Instructie en examen vinden niet op dezelfde dag plaats.    
+1. De examinerende instelling deelt ten minste tien werkdagen vóór afname van het praktijkexamen datum, tijd en plaats van het examen mee aan de Minister. Indien dit niet tijdig gebeurt en er wordt een examen afgenomen, dan is er geen sprake van een geldig examen. Instructie en examen vinden niet op dezelfde dag plaats.   
 
 #### *Tijdens het examen* 
 
@@ -2756,7 +2756,7 @@ i. het rapport wordt zo mogelijk voorzien van originele bewijsstukken die de bev
 
 3. De examinator draagt er zorg voor dat de examens op een ordelijke en eerlijke manier worden afgelegd.  
 
-4. Elke proeve van bekwaamheid wordt afgelegd in de aanwezigheid van ten minste twee, door de examinerende instelling daartoe aangewezen personen, waarvan ten minste één persoon voldoet aan de eisen van kennis en bekwaamheid waaraan voldaan moet worden ten tijde van de aanwijzing van de examinerende instelling door de Minister.    
+4. Elke proeve van bekwaamheid wordt afgelegd in de aanwezigheid van ten minste twee, door de examinerende instelling daartoe aangewezen personen, waarvan ten minste één persoon voldoet aan de eisen van kennis en bekwaamheid waaraan voldaan moet worden ten tijde van de aanwijzing van de examinerende instelling door de Minister.   
 
 #### *Na afloop van het examen* 
 
@@ -2766,5 +2766,5 @@ i. het rapport wordt zo mogelijk voorzien van originele bewijsstukken die de bev
 
 7. De Minister stelt binnen vijf werkdagen na ontvangst van de stukken zoals genoemd onder 5 het examenresultaat vast. De Minister kan deze termijn verlengen met vijf werkdagen. Na afloop van deze termijn verstuurt de Minister de vastgestelde resultaten aan de examinerende instelling  
 
-8. Na ontvangst van de vastgestelde resultaten meldt de examinerende instelling de resultaten binnen een redelijke termijn aan de kandidaten.    
+8. Na ontvangst van de vastgestelde resultaten meldt de examinerende instelling de resultaten binnen een redelijke termijn aan de kandidaten.   
 

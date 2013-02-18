@@ -13,58 +13,58 @@ Besluit:
 
 1.  In deze regeling wordt verstaan onder: 
 
-a. *aanvrager:* degene die een aanvraag heeft ingediend;  
+a.  *aanvrager:* degene die een aanvraag heeft ingediend;  
 
-b. *nieuwkomer:* de aanvrager die op het in artikel 9, eerste lid, genoemde tijdstip geen vergunninghouder is van een of meer vergunningen voor frequentieruimte binnen het bereik van 880–915 MHz en 925–960 MHz en die ook geen deel uitmaakt van een groep waarvan een of meer leden vergunninghouder zijn van een of meer vergunningen voor frequentieruimte binnen het bereik van 880–915 MHz en 925–960 MHz;  
+b.  *nieuwkomer:* de aanvrager die op het in artikel 9, eerste lid, genoemde tijdstip geen vergunninghouder is van een of meer vergunningen voor frequentieruimte binnen het bereik van 880–915 MHz en 925–960 MHz en die ook geen deel uitmaakt van een groep waarvan een of meer leden vergunninghouder zijn van een of meer vergunningen voor frequentieruimte binnen het bereik van 880–915 MHz en 925–960 MHz;  
 
-c. *biedronde:* een primaire biedronde, de aanvullende biedronde of de toewijzingsbiedronde;  
+c.  *biedronde:* een primaire biedronde, de aanvullende biedronde of de toewijzingsbiedronde;  
 
-d. *onderband 800 MHz:* het frequentiebereik van 791–821 MHz;  
+d.  *onderband 800 MHz:* het frequentiebereik van 791–821 MHz;  
 
-e. *bovenband 800 MHz:* het frequentiebereik van 832–862 MHz;  
+e.  *bovenband 800 MHz:* het frequentiebereik van 832–862 MHz;  
 
-f. *onderband 900 MHz:* het frequentiebereik van 880–915 MHz;  
+f.  *onderband 900 MHz:* het frequentiebereik van 880–915 MHz;  
 
-g. *bovenband 900 MHz:* het frequentiebereik van 925–960 MHz;  
+g.  *bovenband 900 MHz:* het frequentiebereik van 925–960 MHz;  
 
-h. *onderband 1800 MHz:* het frequentiebereik van 1710–1780 MHz;  
+h.  *onderband 1800 MHz:* het frequentiebereik van 1710–1780 MHz;  
 
-i. *bovenband 1800 MHz:* het frequentiebereik van 1805–1875 MHz;  
+i.  *bovenband 1800 MHz:* het frequentiebereik van 1805–1875 MHz;  
 
-j. *onderband 2100 MHz:* het frequentiebereik van 1959,7–1969,7 MHz;  
+j.  *onderband 2100 MHz:* het frequentiebereik van 1959,7–1969,7 MHz;  
 
-k. *bovenband 2100 MHz:* het frequentiebereik van 2149,7–2159,7 MHz;  
+k.  *bovenband 2100 MHz:* het frequentiebereik van 2149,7–2159,7 MHz;  
 
-l.  *deelnemer:*  
+l. *deelnemer:*
 
 1°. in de artikelen 14 tot en met 23, in bijlage II, in de primaire biedronden en in de aanvullende biedronde: de aanvrager die voldoet aan de in artikel 11 gestelde eisen en wiens aanvraag voldoet aan de in de artikelen 8 tot en met 10 gestelde eisen en aan wie is meegedeeld dat hij is toegelaten tot de veiling;  
 
 2°. in de toewijzingsbiedronde: de aanvrager, bedoeld onder 1°, wiens bieding onderdeel uitmaakt van de combinatie van winnende biedingen, bedoeld in artikel 31;    
 
-m.  *winnende deelnemer:*  
+m. *winnende deelnemer:*
 
 1°. in bijlage III: de deelnemer wiens bieding deel uitmaakt van de combinatie van winnende biedingen, bedoeld in artikel 31;  
 
 2°. in de toewijzingsbiedronde, in bijlage IV en in artikel 43: de deelnemer wiens bieding deel uitmaakt van de finale combinatie van winnende biedingen, bedoeld in artikel 40;    
 
-n. *groep:* een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+n.  *groep:* een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
 
-o. *rente:* de volgens actual/360 berekende rente op basis van de door de Europese Centrale Bank vastgestelde Euro Overnight Index Average, minus 100 basispunten, met een minimum van 0%;  
+o.  *rente:* de volgens actual/360 berekende rente op basis van de door de Europese Centrale Bank vastgestelde Euro Overnight Index Average, minus 100 basispunten, met een minimum van 0%;  
 
-p.  *winnende bieding:*  
+p. *winnende bieding:*
 
 1°. in de aanvullende biedronde en bijlage III: de bieding die deel uitmaakt van de combinatie van winnende biedingen, bedoeld in artikel 31;  
 
 2°. in de toewijzingsbiedronde: de bieding die deel uitmaakt van de finale combinatie van winnende biedingen, bedoeld in artikel 40;    
 
-q. *vertrouwelijke informatie:* informatie over een aanvrager die niet openbaar is en die, wanneer kenbaar gemaakt aan een andere aanvrager, diens beslissingen met betrekking tot de veiling beïnvloedt of kan beïnvloeden;  
+q.  *vertrouwelijke informatie:* informatie over een aanvrager die niet openbaar is en die, wanneer kenbaar gemaakt aan een andere aanvrager, diens beslissingen met betrekking tot de veiling beïnvloedt of kan beïnvloeden;  
 
-r. *finale primaire bieding:* de laatste bieding met een activiteitsniveau hoger dan nul die een deelnemer in de primaire biedronde heeft uitgebracht;  
+r.  *finale primaire bieding:* de laatste bieding met een activiteitsniveau hoger dan nul die een deelnemer in de primaire biedronde heeft uitgebracht;  
 
-s. *pakket:* de specifieke combinatie van vergunningen in een bieding van een deelnemer;  
+s.  *pakket:* de specifieke combinatie van vergunningen in een bieding van een deelnemer;  
 
-t. *finale pakket:* het pakket waarop een deelnemer in zijn finale primaire bieding heeft geboden.     
-2.  Onder een groep wordt mede verstaan een rechtspersoon of andere juridische entiteit waarin twee of meer aanvragers gelijke aandelen houden of gelijke juridische zeggenschap hebben.   
+t.  *finale pakket:* het pakket waarop een deelnemer in zijn finale primaire bieding heeft geboden.     
+2.  Onder een groep wordt mede verstaan een rechtspersoon of andere juridische entiteit waarin twee of meer aanvragers gelijke aandelen houden of gelijke juridische zeggenschap hebben.  
 
 ### §  2  
 
@@ -117,37 +117,37 @@ a. de vergunningen G binnen het frequentiebereik van 2565 en 2615 MHz van alle a
 
 b. de vergunningen G per aanvrager steeds betrekking hebben op aaneengesloten frequentieruimte.     
 11.  Per nieuwkomer worden niet meer vergunningen A1, A2, B, C, D, E, F of G verleend dan die gezamenlijk overeenkomen met 220 activiteitspunten.   
-12.  Per aanvrager anders dan een nieuwkomer worden niet meer vergunningen B, C, D, E, F of G verleend dan die gezamenlijk overeenkomen met 190 activiteitspunten.   
+12.  Per aanvrager anders dan een nieuwkomer worden niet meer vergunningen B, C, D, E, F of G verleend dan die gezamenlijk overeenkomen met 190 activiteitspunten.  
 
 ### Artikel  3  
 
 1.  Indien aanvragen die overeenkomstig de artikelen 8 tot en met 10 zijn ingediend door nieuwkomers en die voldoen aan de in artikel 11 gestelde eisen, in totaal ten aanzien van vergunningen A1 en A2 betrekking hebben op twee of meer vergunningen A1 en geen betrekking hebben op een vergunning A2, zijn in afwijking van artikel 2, tweede lid, voor de verdeling, bedoeld in artikel 2, eerste lid, twee vergunningen A1, vier vergunningen B, zeven vergunningen C, veertien vergunningen D, twee vergunningen E, één vergunning F, tien vergunningen G en één vergunning H beschikbaar.   
 2.  In het geval, bedoeld in het eerste lid, is artikel 2, achtste lid, van toepassing, met dien verstande dat dit uitsluitend betrekking heeft op de verlening van vergunningen C.   
-3.  In het geval, bedoeld in het eerste lid, worden in afwijking van artikel 2, twaalfde lid, per aanvrager anders dan een nieuwkomer niet meer vergunningen verleend dan die gezamenlijk overeenkomen met 205 activiteitspunten.   
+3.  In het geval, bedoeld in het eerste lid, worden in afwijking van artikel 2, twaalfde lid, per aanvrager anders dan een nieuwkomer niet meer vergunningen verleend dan die gezamenlijk overeenkomen met 205 activiteitspunten.  
 
 ### Artikel  4  
 
 1.  Indien aanvragen die overeenkomstig de artikelen 8 tot en met 10 zijn ingediend door nieuwkomers en die voldoen aan de in artikel 11 gestelde eisen, in totaal ten aanzien van vergunningen A1 en A2 uitsluitend betrekking hebben op één vergunning A1 en geen betrekking hebben op een vergunning A2, zijn in afwijking van artikel 2, tweede lid, voor de verdeling, bedoeld in artikel 2, eerste lid, één vergunning A1, vijf vergunningen B, zeven vergunningen C, veertien vergunningen D, twee vergunningen E, één vergunning F, tien vergunningen G en één vergunning H beschikbaar.   
 2.  In het geval, bedoeld in het eerste lid, is artikel 2, achtste lid, van toepassing, met dien verstande dat dit uitsluitend betrekking heeft op de verlening van vergunningen C.   
-3.  In het geval, bedoeld in het eerste lid, worden in afwijking van artikel 2, twaalfde lid, per aanvrager anders dan een nieuwkomer niet meer vergunningen verleend dan die gezamenlijk overeenkomen met 220 activiteitspunten.   
+3.  In het geval, bedoeld in het eerste lid, worden in afwijking van artikel 2, twaalfde lid, per aanvrager anders dan een nieuwkomer niet meer vergunningen verleend dan die gezamenlijk overeenkomen met 220 activiteitspunten.  
 
 ### Artikel  5  
 
 1.  Indien aanvragen die overeenkomstig de artikelen 8 tot en met 10 zijn ingediend door nieuwkomers en die voldoen aan de in artikel 11 gestelde eisen, in totaal ten aanzien van vergunningen A1 en A2 uitsluitend betrekking hebben op één vergunning A1 en één of meer vergunningen A2, zijn in afwijking van artikel 2, tweede lid, voor de verdeling, bedoeld in artikel 2, eerste lid, één vergunning A1, één vergunning A2, vijf vergunningen B, zes vergunningen C, veertien vergunningen D, twee vergunningen E, één vergunning F, tien vergunningen G en één vergunning H beschikbaar.   
-2.  In het geval, bedoeld in het eerste lid, worden in afwijking van artikel 2, twaalfde lid, per aanvrager anders dan een nieuwkomer niet meer vergunningen verleend dan die gezamenlijk overeenkomen met 205 activiteitspunten.   
+2.  In het geval, bedoeld in het eerste lid, worden in afwijking van artikel 2, twaalfde lid, per aanvrager anders dan een nieuwkomer niet meer vergunningen verleend dan die gezamenlijk overeenkomen met 205 activiteitspunten.  
 
 ### Artikel  6  
 
 1.  Indien aanvragen die overeenkomstig de artikelen 8 tot en met 10 zijn ingediend door nieuwkomers en die voldoen aan de in artikel 11 gestelde eisen, in totaal ten aanzien van vergunningen A1 en A2 geen betrekking hebben op een vergunning A1 en betrekking hebben op één of meer vergunningen A2, zijn in afwijking van artikel 2, tweede lid, voor de verdeling, bedoeld in artikel 2, eerste lid, één vergunning A2, zes vergunningen B, zes vergunningen C, veertien vergunningen D, twee vergunningen E, één vergunning F, tien vergunningen G en één vergunning H beschikbaar.   
 2.  In het geval, bedoeld in het eerste lid, is artikel 2, zevende lid, van toepassing, met dien verstande dat dit uitsluitend betrekking heeft op de verlening van vergunningen B.   
-3.  In het geval, bedoeld in het eerste lid, worden in afwijking van artikel 2, twaalfde lid, per aanvrager anders dan een nieuwkomer niet meer vergunningen verleend dan die gezamenlijk overeenkomen met 220 activiteitspunten.   
+3.  In het geval, bedoeld in het eerste lid, worden in afwijking van artikel 2, twaalfde lid, per aanvrager anders dan een nieuwkomer niet meer vergunningen verleend dan die gezamenlijk overeenkomen met 220 activiteitspunten.  
 
 ### Artikel  7  
 
 1.  Indien geen aanvraag overeenkomstig de artikelen 8 tot en met 10 door een nieuwkomer wordt ingediend of indien aanvragen die overeenkomstig de artikelen 8 tot en met 10 zijn ingediend door nieuwkomers en die voldoen aan de in artikel 11 gestelde eisen, geen betrekking hebben op een vergunning A1 en A2, zijn in afwijking van artikel 2, tweede lid, voor de verdeling, bedoeld in artikel 2, eerste lid, zes vergunningen B, zeven vergunningen C, veertien vergunningen D, twee vergunningen E, één vergunning F, tien vergunningen G en één vergunning H beschikbaar.   
 2.  In het geval, bedoeld in het eerste lid, is artikel 2, zevende lid, van toepassing, met dien verstande dat dit uitsluitend betrekking heeft op de verlening van vergunningen B.   
 3.  In het geval, bedoeld in het eerste lid, is voorts artikel 2, achtste lid, van toepassing, met dien verstande dat dit uitsluitend betrekking heeft op de verlening van vergunningen C.   
-4.  In het geval, bedoeld in het eerste lid, worden in afwijking van artikel 2, twaalfde lid, per aanvrager anders dan een nieuwkomer niet meer vergunningen verleend dan die gezamenlijk overeenkomen met 235 activiteitspunten.   
+4.  In het geval, bedoeld in het eerste lid, worden in afwijking van artikel 2, twaalfde lid, per aanvrager anders dan een nieuwkomer niet meer vergunningen verleend dan die gezamenlijk overeenkomen met 235 activiteitspunten.  
 
 ### §  3  
 
@@ -168,12 +168,12 @@ b. de vergunningen G per aanvrager steeds betrekking hebben op aaneengesloten fr
 11.  De aanvraag is in de Nederlandse taal gesteld.   
 12.  Met de gegevens en bescheiden, bedoeld in het tiende lid, worden gelijkgesteld zodanige gegevens en bescheiden krachtens het recht van een van de andere lidstaten van de Europese Unie of een van de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte.   
 13.  De gegevens en bescheiden, bedoeld in het twaalfde lid, mogen in afwijking van het elfde lid, in een van de officiële talen van de Europese Unie of de Europese Economische Ruimte worden gesteld. In dat geval worden die gegevens en bescheiden vergezeld van een Nederlandse vertaling van die gegevens en bescheiden.   
-14.  Op het tijdstip, bedoeld in artikel 9, eerste lid, heeft de aanvrager overeenkomstig artikel 15 een bedrag tot zekerheid van de gestanddoening van zijn bieding gedaan.   
+14.  Op het tijdstip, bedoeld in artikel 9, eerste lid, heeft de aanvrager overeenkomstig artikel 15 een bedrag tot zekerheid van de gestanddoening van zijn bieding gedaan.  
 
 ### Artikel  9  
 
 1.  De aanvraag wordt uiterlijk op 16 juli 2012 om 14.00 uur per post ontvangen dan wel door persoonlijke overhandiging ontvangen op het volgende adres: Agentschap Telecom Ter attentie van: Veilingteam 800, 900 en 1800 MHz Emmasingel 1 9726 AH Groningen   
-2.  Indien de aanvrager niet heeft voldaan aan de in het eerste lid gestelde eisen, wordt de aanvraag afgewezen.   
+2.  Indien de aanvrager niet heeft voldaan aan de in het eerste lid gestelde eisen, wordt de aanvraag afgewezen.  
 
 ### Artikel  10  
 
@@ -195,7 +195,7 @@ d. het in artikel 8, veertiende lid, gestelde vereiste,   deelt de minister dit 
 8.  Indien het verzuim, bedoeld in het derde lid, onder b, binnen de termijn, genoemd in het vierde lid, niet is hersteld of de aanvraag na herstel niet voldoet aan het in artikel 8, vierde lid, gestelde vereisten, wordt de aanvraag afgewezen voor zover deze betrekking heeft op meer vergunningen A1 en A2 dan waarvoor de nieuwkomer op grond van artikel 2, vierde lid, in aanmerking kan komen.   
 9.  Indien het verzuim, bedoeld in het derde lid, onder c, binnen de termijn, genoemd in het vierde lid, niet is hersteld of de aanvraag na herstel niet voldoet aan de in artikel 8, vijfde, zesde, zevende of achtste lid gestelde eisen, wordt de aanvraag afgewezen voor zover deze betrekking heeft op meer activiteitspunten dan waarvoor de aanvrager op grond van artikel 2, elfde of twaalfde lid, artikel 3, derde lid, artikel 4, derde lid, artikel 5, tweede lid, artikel 6, derde lid, of artikel 7, vierde lid, in aanmerking kan komen.   
 10.  Indien het verzuim betrekking heeft op artikel 8, tiende lid, bestaande uit een aangegeven voorkeur voor vergunning A1 of A2 terwijl de aanvrager geen nieuwkomer is, wordt de aanvraag afgewezen voor zover die betrekking heeft op vergunning A1 of A2 en wordt het aantal aangevraagde activiteitspunten dienovereenkomstig verminderd. Voordat de aanvraag wordt afgewezen, deelt de minister het voorgenomen besluit mee aan de betrokken aanvrager en wordt de aanvrager overeenkomstig het vierde lid in de gelegenheid gesteld om aan te geven naar welke vergunningen en welke frequentieruimte zijn voorkeur uitgaat.   
-11.  Uiterlijk binnen twee weken nadat de minister overeenkomstig het zevende lid heeft besloten de aanvraag niet te behandelen, stort de minister de waarborgsom terug aan de betreffende aanvrager of stuurt de minister een schriftelijke verklaring als bedoeld in bijlage II, onder II, onder 4, aan de bank van die aanvrager die ter zekerstelling een bankgarantie heeft overgelegd. De minister stuurt een kopie van deze verklaring aan de aanvrager. Artikel 44, tweede lid, is van overeenkomstige toepassing.   
+11.  Uiterlijk binnen twee weken nadat de minister overeenkomstig het zevende lid heeft besloten de aanvraag niet te behandelen, stort de minister de waarborgsom terug aan de betreffende aanvrager of stuurt de minister een schriftelijke verklaring als bedoeld in bijlage II, onder II, onder 4, aan de bank van die aanvrager die ter zekerstelling een bankgarantie heeft overgelegd. De minister stuurt een kopie van deze verklaring aan de aanvrager. Artikel 44, tweede lid, is van overeenkomstige toepassing.  
 
 ### Artikel  11  
 
@@ -209,7 +209,7 @@ b. de aanvrager is geen surseance van betaling verleend, noch is door de aanvrag
 c. er is geen beslag gelegd op een aanmerkelijk deel van het vermogen dan wel een of meer bedrijfsmiddelen van de aanvrager die een aanmerkelijk deel van het vermogen van de aanvrager vormen.     
 3.  Met de eisen van het tweede lid worden gelijkgesteld zodanige eisen volgens het recht van een van de andere lidstaten van de Europese Unie of een van de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte.   
 4.  Binnen zes weken na het tijdstip, bedoeld in artikel 9, eerste lid, stelt de minister vast of de aanvrager wiens aanvraag in behandeling is genomen, voldoet aan de eisen, bedoeld in het eerste en tweede lid, en of hij een nieuwkomer is. Deze termijn kan eenmalig met ten hoogste vier weken worden verlengd.   
-5.  Indien uit de aanvraag niet blijkt dat aan de eisen, bedoeld in het eerste en tweede lid, is voldaan, wijst de minister de aanvraag af.   
+5.  Indien uit de aanvraag niet blijkt dat aan de eisen, bedoeld in het eerste en tweede lid, is voldaan, wijst de minister de aanvraag af.  
 
 ### §  4  
 
@@ -259,12 +259,12 @@ b. een aanvrager voorkeur heeft uitgesproken voor specifieke frequentieruimte al
 a. voldaan kan worden aan de vraag naar de vergunningen B tot en met G, en  
 
 b. een aanvrager voorkeur heeft uitgesproken voor specifieke frequentieruimte als bedoeld in bijlage I, onder B.2, onderdeel f.     
-15.  In de gevallen, bedoeld in het negende tot en met veertiende lid, zijn de artikelen 14 tot en met 23 van toepassing.   
+15.  In de gevallen, bedoeld in het negende tot en met veertiende lid, zijn de artikelen 14 tot en met 23 van toepassing.  
 
 ### Artikel  13  
 
 1.  De minister deelt de aanvragers zo spoedig mogelijk mee welke vergunningen overeenkomstig artikel 12 worden verleend.   
-2.  Nadat de vergunningen, bedoeld in het eerste lid, zijn verleend, deelt de minister de aanvragers mee aan wie welke vergunningen zijn verleend.   
+2.  Nadat de vergunningen, bedoeld in het eerste lid, zijn verleend, deelt de minister de aanvragers mee aan wie welke vergunningen zijn verleend.  
 
 ### §  5  
 
@@ -289,7 +289,7 @@ f. de combinatie van zijn inlogcode en zijn wachtwoord;
 
 g. het internetadres waarop de deelnemer inlogt teneinde aan de veiling deel te nemen;  
 
-h. de voor de veiling benodigde programmatuur.     
+h. de voor de veiling benodigde programmatuur.    
 
 ### Artikel  15  
 
@@ -306,7 +306,7 @@ a. is het bedrag voor de aanvraag, bedoeld in bijlage I, onder B.1, die betrekki
 b. is voor het bedrag voor de aanvraag, bedoeld in bijlage I, onder B.1, die betrekking heeft op het hoogste aantal activiteitspunten, ter zekerheidstelling een bankgarantie volgens het model dat als bijlage II bij deze regeling is gevoegd, per post ontvangen op, dan wel door persoonlijke overhandiging ingediend op het adres, bedoeld in artikel 9, eerste lid.     
 8.  De deelnemer die heeft voldaan aan de verplichtingen, bedoeld in het eerste tot en met zevende lid, is gerechtigd om een bieding uit te brengen tijdens de eerste primaire biedronde of in een procedure als bedoeld in artikel 12, negende tot en met veertiende lid.   
 9.  Indien het op grond van het zevende lid, onder a, betaalde bedrag op meer activiteitspunten betrekking heeft dan het aantal activiteitspunten dat is genoemd in de mededeling, bedoeld in artikel 14, eerste lid, stort de minister uiterlijk twee weken nadat de mededeling is gedaan, dat deel van het bedrag terug dat betrekking heeft op het verschil in aantal activiteitspunten.   
-10.  In het geval, bedoeld in het negende lid, vergoedt de minister de rente vanaf de dag waarop hij het bedrag, bedoeld in het zevende lid, onder a, heeft ontvangen op het bankrekeningnummer, genoemd in het zevende lid, tot en met de dag voorafgaand aan de dag waarop hij het deel van het bedrag, bedoeld in het negende lid, terugstort. De minister stort de rente terug op dezelfde dag waarop hij het deel van het bedrag, bedoeld in het negende lid, terugstort.   
+10.  In het geval, bedoeld in het negende lid, vergoedt de minister de rente vanaf de dag waarop hij het bedrag, bedoeld in het zevende lid, onder a, heeft ontvangen op het bankrekeningnummer, genoemd in het zevende lid, tot en met de dag voorafgaand aan de dag waarop hij het deel van het bedrag, bedoeld in het negende lid, terugstort. De minister stort de rente terug op dezelfde dag waarop hij het deel van het bedrag, bedoeld in het negende lid, terugstort.  
 
 ### §  6  
 
@@ -322,7 +322,7 @@ b. is voor het bedrag voor de aanvraag, bedoeld in bijlage I, onder B.1, die bet
 
 a. de uitkomst van een of meer biedingen of biedronden ongeldig verklaren, of  
 
-b. besluiten dat een of meer biedronden opnieuw moeten worden gehouden.     
+b. besluiten dat een of meer biedronden opnieuw moeten worden gehouden.    
 
 ### Artikel  17  
 
@@ -334,7 +334,7 @@ a. de minister uitsluitend door middel van het elektronisch systeem met de deeln
 b. een deelnemer uitsluitend per fax met de minister,   met dien verstande dat de minister ingeval van bijzondere omstandigheden communicatie per telefoon kan toestaan.   
 3.  In afwijking van het tweede lid, onder a, kan gedurende de veiling de communicatie tussen de minister en een deelnemer schriftelijk plaatsvinden door middel van het in artikel 14, tweede lid, onder d, bedoelde faxnummer, indien sprake is van een elektronische storing als bedoeld in artikel 21, eerste lid.   
 4.  De veiling wordt uitsluitend op werkdagen gehouden.   
-5.  De minister leidt de veiling en draagt zorg voor een goed verloop van de veiling.   
+5.  De minister leidt de veiling en draagt zorg voor een goed verloop van de veiling.  
 
 ### Artikel  18  
 
@@ -347,12 +347,12 @@ b. een of meer biedingen of de uitkomst van van of meer biedronden ongeldig verk
 
 c. besluiten dat een of meer biedronden opnieuw moeten worden gehouden.     
 3.  De minister kan een aanvrager die niet langer voldoet aan de eisen die in artikel 11 zijn gesteld aan een aanvrager, uitsluiten van deelname of van verdere deelname aan de veiling.   
-4.  Indien twee of meer aanvragers lid worden van één groep, sluit de minister aanvragers uit van deelname of van verdere deelname aan de veiling zodat niet meer dan één aanvrager per groep deelneemt aan de veiling.   
+4.  Indien twee of meer aanvragers lid worden van één groep, sluit de minister aanvragers uit van deelname of van verdere deelname aan de veiling zodat niet meer dan één aanvrager per groep deelneemt aan de veiling.  
 
 ### Artikel  19  
 
 1.  De minister bepaalt wanneer de biedronden van de veiling plaatsvinden en de duur van die biedronden.   
-2.  Een deelnemer is onvoorwaardelijk en onherroepelijk aan zijn bieding gebonden.   
+2.  Een deelnemer is onvoorwaardelijk en onherroepelijk aan zijn bieding gebonden.  
 
 ### Artikel  20  
 
@@ -405,7 +405,7 @@ d. de bieding is leesbaar en eenduidig.
 
 a. per fax meegedeeld dat hij niet aan de gestelde voorwaarden heeft voldaan, en  
 
-b. gelegenheid gegeven om het verzuim binnen een door de minster gestelde termijn te herstellen, met dien verstande dat de minister per deelnemer ten hoogste tienmaal gedurende de gehele veiling de gelegenheid kan geven om het verzuim te herstellen.     
+b. gelegenheid gegeven om het verzuim binnen een door de minster gestelde termijn te herstellen, met dien verstande dat de minister per deelnemer ten hoogste tienmaal gedurende de gehele veiling de gelegenheid kan geven om het verzuim te herstellen.    
 
 ### Artikel  21  
 
@@ -413,7 +413,7 @@ b. gelegenheid gegeven om het verzuim binnen een door de minster gestelde termij
 2.  Een verzoek tot toestemming als bedoeld in het eerste lid, wordt schriftelijk ingediend via het in artikel 14, tweede lid, onder d, bedoelde faxnummer, is met redenen omkleed en wordt door de minister ontvangen uiterlijk binnen 10 minuten na afloop van de biedronde.   
 3.  De minister kan toestemming als bedoeld in het eerste lid geven voor een enkele primaire biedronde of voor meerdere primaire biedronden, voor de aanvullende biedronde of voor de toewijzingsbiedronde.   
 4.  Aan de toestemming, bedoeld in het eerste lid, kunnen voorschriften worden verbonden.   
-5.  De minister kan de toestemming, bedoeld in het eerste lid, op verzoek van de deelnemer intrekken, wanneer dit verzoek door middel van het in artikel 14, tweede lid, onder d, bedoelde faxnummer schriftelijk wordt gedaan uiterlijk 10 minuten na afloop van de voorgaande biedronde, dan wel de verlengde biedronde, bedoeld in artikel 23, eerste of tweede lid, onder b.   
+5.  De minister kan de toestemming, bedoeld in het eerste lid, op verzoek van de deelnemer intrekken, wanneer dit verzoek door middel van het in artikel 14, tweede lid, onder d, bedoelde faxnummer schriftelijk wordt gedaan uiterlijk 10 minuten na afloop van de voorgaande biedronde, dan wel de verlengde biedronde, bedoeld in artikel 23, eerste of tweede lid, onder b.  
 
 ### Artikel  22  
 
@@ -438,7 +438,7 @@ b. in elke volgende primaire biedronde: het aantal activiteitspunten van de bied
 c. in de aanvullende biedronde: het aantal activiteitspunten van de bieding van de deelnemer in de laatste primaire biedronde, of, indien de deelnemer in de laatste primaire biedronde een activiteitsniveau van nul had: nul.     
 4.  Indien een deelnemer in een primaire biedronde geen bieding uitbrengt of een ongeldige bieding uitbrengt, is het activiteitsniveau van de betreffende deelnemer in de volgende biedronde nul.   
 5.  Het activiteitsniveau van de bieding die een deelnemer in een biedronde uitbrengt is niet hoger dan het activiteitsniveau van de deelnemer in die biedronde.   
-6.  In afwijking van het vijfde lid kan het activiteitsniveau van een bieding in de aanvullende biedronde hoger zijn dan het activiteitsniveau van de deelnemer, maar niet hoger dan het aantal activiteitspunten dat hem op grond van artikel 14, eerste lid, is meegedeeld.   
+6.  In afwijking van het vijfde lid kan het activiteitsniveau van een bieding in de aanvullende biedronde hoger zijn dan het activiteitsniveau van de deelnemer, maar niet hoger dan het aantal activiteitspunten dat hem op grond van artikel 14, eerste lid, is meegedeeld.  
 
 ### Artikel  23  
 
@@ -455,7 +455,7 @@ b. wordt, indien aan een deelnemer toestemming als bedoeld in artikel 21, eerste
 a. alle deelnemers wier biedronde is verlengd, een bieding hebben uitgebracht, of  
 
 b. de biedronde dan wel de verlengde biedronde voor een deelnemer is verstreken.     
-6.  De minister deelt zo spoedig mogelijk aan alle deelnemers mee dat een biedronde voor een of meer deelnemers is verlengd.   
+6.  De minister deelt zo spoedig mogelijk aan alle deelnemers mee dat een biedronde voor een of meer deelnemers is verlengd.  
 
 ### §  7  
 
@@ -470,7 +470,7 @@ b. de biedronde dan wel de verlengde biedronde voor een deelnemer is verstreken.
 1.  De primaire biedronde bestaat uit één of meer biedronden.   
 2.  Een deelnemer brengt in een primaire biedronde per biedronde ten hoogste één bieding uit.   
 3.  Een bieding in een primaire biedronde kan betrekking hebben op andere vergunningen dan waarvoor een deelnemer in zijn aanvraag, bedoeld in bijlage I, onderdeel B, een voorkeur heeft uitgesproken, alsmede op andere vergunningen dan waarop zijn bieding in een voorgaande primaire biedronde betrekking had.   
-4.  Een bieding in een primaire biedronde ziet op het aantal vergunningen waarop een deelnemer biedt gelet op de in die biedronde geldende rondeprijs voor die vergunningen, bedoeld in artikel 26.   
+4.  Een bieding in een primaire biedronde ziet op het aantal vergunningen waarop een deelnemer biedt gelet op de in die biedronde geldende rondeprijs voor die vergunningen, bedoeld in artikel 26.  
 
 ### Artikel  25  
 
@@ -490,7 +490,7 @@ e. de aanvangstijd en de duur van de volgende biedronde;
 f. de rondeprijzen die in de volgende biedronde gelden per type vergunning, en  
 
 g. de totale vraag in de vorige biedronde per type vergunning.     
-3.  In afwijking van het tweede lid, onder e en f, wordt geen informatie over een volgende primaire biedronde gegeven indien de primaire biedronden op grond van artikel 27 eindigen.   
+3.  In afwijking van het tweede lid, onder e en f, wordt geen informatie over een volgende primaire biedronde gegeven indien de primaire biedronden op grond van artikel 27 eindigen.  
 
 ### Artikel  26  
 
@@ -521,12 +521,12 @@ f. € 585.000,00 voor een vergunning G.
 13.  De rondeprijs van vergunning F wordt verhoogd indien in de direct daaraan voorafgaande biedronde de vraag naar deze vergunning groter is dan één.   
 14.  De rondeprijs van vergunning G wordt verhoogd indien in de direct daaraan voorafgaande biedronde de vraag naar deze vergunningen groter is dan tien.   
 15.  In de in het derde tot en met veertiende lid bedoelde gevallen verhoogt de minister in eenheden van € 1.000 de rondeprijs van een vergunning zodanig dat de verhoging van de rondeprijs van een vergunning in een biedronde ten hoogste 100% is ten opzichte van de rondeprijs voor die vergunning in de daaraan voorafgaande ronde.   
-16.  Indien dit naar het oordeel van de minister nodig is voor een evenwichtige vraagontwikkeling of een efficiënt verloop van de veiling kan hij afwijken van het vijftiende lid.   
+16.  Indien dit naar het oordeel van de minister nodig is voor een evenwichtige vraagontwikkeling of een efficiënt verloop van de veiling kan hij afwijken van het vijftiende lid.  
 
 ### Artikel  27  
 
 1.  De primaire biedronden eindigen indien met inachtneming van het bepaalde in de artikelen 2, derde tot en met twaalfde lid, 3, tweede en derde lid, 4, tweede en derde lid, 5, tweede lid, 6, tweede en derde lid, of 7, tweede tot en met vierde lid, voldaan kan worden aan de vraag naar vergunningen.   
-2.  In afwijking van het eerste lid, kan de minister de primaire biedronden beëindigen indien dat naar de mening van de minister geboden is ten behoeve van een efficiënt veilingproces.   
+2.  In afwijking van het eerste lid, kan de minister de primaire biedronden beëindigen indien dat naar de mening van de minister geboden is ten behoeve van een efficiënt veilingproces.  
 
 ### §  7.2  
 
@@ -541,14 +541,14 @@ a. dat de primaire biedronden zijn geëindigd;
 b. wanneer de aanvullende biedronde een aanvang neemt, en  
 
 c. de duur van de aanvullende biedronde.     
-2.  De minister deelt elke deelnemer voor aanvang van de aanvullende biedronde zijn activiteitsniveau als bedoeld in artikel 22, derde lid, onder c, mee.   
+2.  De minister deelt elke deelnemer voor aanvang van de aanvullende biedronde zijn activiteitsniveau als bedoeld in artikel 22, derde lid, onder c, mee.  
 
 ### Artikel  29  
 
 1.  De aanvullende biedronde bestaat uit één biedronde waarin door een deelnemer meerdere biedingen kunnen worden gedaan.   
 2.  Een deelnemer brengt in de aanvullende biedronde ten hoogste 2000 biedingen uit.   
 3.  Een bieding in de aanvullende biedronde kan betrekking hebben op andere vergunningen dan waarvoor een deelnemer in zijn aanvraag, bedoeld in bijlage I, onderdeel B, een voorkeur heeft uitgesproken, alsmede op andere vergunningen dan waarop zijn bieding in enige primaire biedronde betrekking had.   
-4.  De aanvang van de aanvullende biedronde is niet eerder dan ten minste een werkdag na het einde van de primaire biedronden.   
+4.  De aanvang van de aanvullende biedronde is niet eerder dan ten minste een werkdag na het einde van de primaire biedronden.  
 
 ### Artikel  30  
 
@@ -574,7 +574,7 @@ f. € 585.000,00 voor een vergunning G.
 
 – pakket Y het pakket is waarop de deelnemer in primaire biedronde n een bieding uitbracht.     
 4.  Onverminderd artikel 22, zesde lid, geldt voor een deelnemer die zijn finale primaire bieding in een andere primaire biedronde dan de laatste primaire biedronde heeft uitgebracht, dat het biedbedrag in de aanvullende biedronde voor een bieding van deze deelnemer op zijn finale pakket niet hoger is dan de prijs voor dit pakket tegen de rondeprijzen in de primaire biedronde na de biedronde waarin hij zijn finale primaire bieding heeft uitgebracht.   
-5.  Indien een deelnemer zijn finale primaire bieding in de laatste primaire biedronde heeft uitgebracht, geldt in de aanvullende biedronde voor deze deelnemer geen maximumbedrag voor een bieding op zijn finale pakket.   
+5.  Indien een deelnemer zijn finale primaire bieding in de laatste primaire biedronde heeft uitgebracht, geldt in de aanvullende biedronde voor deze deelnemer geen maximumbedrag voor een bieding op zijn finale pakket.  
 
 ### Artikel  31  
 
@@ -587,12 +587,12 @@ b. met inachtneming van het bepaalde in de artikelen 2, derde tot en met twaalfd
 
 c. de combinatie heeft de hoogste opbrengst van de combinaties van biedingen die voldoen aan de onder a en b genoemde voorwaarden.     
 3.  Indien er meerdere combinaties van winnende biedingen voldoen aan het tweede lid wordt er opnieuw een aanvullende biedronde gehouden, met dien verstande dat er ten hoogste driemaal opnieuw een aanvullende biedronde wordt gehouden.   
-4.  Indien na het driemaal opnieuw houden van een aanvullende biedronde er nog steeds meerdere combinaties van winnende biedingen kunnen worden vastgesteld op basis van het tweede lid, wordt door middel van loting tussen alle combinaties van winnende biedingen, vastgesteld wat de combinatie van winnende biedingen is.   
+4.  Indien na het driemaal opnieuw houden van een aanvullende biedronde er nog steeds meerdere combinaties van winnende biedingen kunnen worden vastgesteld op basis van het tweede lid, wordt door middel van loting tussen alle combinaties van winnende biedingen, vastgesteld wat de combinatie van winnende biedingen is.  
 
 ### Artikel  32  
 
 1.  Nadat de combinatie van winnende biedingen door de minister is vastgesteld overeenkomstig artikel 31, bepaalt de minister voor iedere winnende bieding een basisprijs op grond van bijlage III.   
-2.  De basisprijzen worden naar boven afgerond op eenheden van € 1.000, met dien verstande dat een deelnemer na afronding niet meer betaalt dan het biedbedrag van zijn winnende bieding.   
+2.  De basisprijzen worden naar boven afgerond op eenheden van € 1.000, met dien verstande dat een deelnemer na afronding niet meer betaalt dan het biedbedrag van zijn winnende bieding.  
 
 ### Artikel  33  
 
@@ -621,13 +621,13 @@ b. is het derde lid, onder a, van toepassing, met dien verstande dat dit betrekk
 
 a. zijn het eerste lid, onder a, en derde lid, onder b, van toepassing, met dien verstande dat deze betrekking hebben op de vergunningen B, C, D, E of G, en  
 
-b. is het derde lid, onder a, van toepassing, met dien verstande dat dit betrekking heeft op de vergunningen B, C, D, E, F of G.     
+b. is het derde lid, onder a, van toepassing, met dien verstande dat dit betrekking heeft op de vergunningen B, C, D, E, F of G.    
 
 ### Artikel  34  
 
 1.  Vergunning F wordt verleend aan de deelnemer die op vergunning F de winnende bieding heeft gedaan.   
 2.  De minister deelt iedere deelnemer mee aan wie vergunning F is verleend.   
-3.  De totaalprijs van vergunning F bestaat uit de op grond van artikel 32 afgeronde basisprijs voor die vergunning.   
+3.  De totaalprijs van vergunning F bestaat uit de op grond van artikel 32 afgeronde basisprijs voor die vergunning.  
 
 ### Artikel  35  
 
@@ -636,7 +636,7 @@ b. is het derde lid, onder a, van toepassing, met dien verstande dat dit betrekk
 3.  In het geval, bedoeld in artikel 6, eerste lid, is het eerste lid van toepassing, met dien verstande dat dit een vergunning A2, B, C, D, E of G betreft.   
 4.  In het geval, bedoeld in artikel 7, eerste lid, is het eerste lid van toepassing, met dien verstande dat dit een vergunning B, C, D, E of G betreft.   
 5.  De minister deelt iedere deelnemer mee aan wie de vergunningen, bedoeld in het eerste lid, zijn verleend, alsmede voor welke frequentieruimte de vergunningen zijn verleend.   
-6.  De totaalprijs voor de in het eerste lid bedoelde vergunningen bestaat uit de op grond van artikel 32 afgeronde basisprijs voor die vergunningen.   
+6.  De totaalprijs voor de in het eerste lid bedoelde vergunningen bestaat uit de op grond van artikel 32 afgeronde basisprijs voor die vergunningen.  
 
 ### §  8  
 
@@ -649,7 +649,7 @@ b. is het derde lid, onder a, van toepassing, met dien verstande dat dit betrekk
 a. wanneer de toewijzingsbiedronde een aanvang neemt, en  
 
 b. de duur van de toewijzingsbiedronde.     
-2.  De minister deelt voorts elke deelnemer voor aanvang van de toewijzingsbiedronde mee wat de alternatieven zijn waarop de betreffende deelnemer op grond van artikel 38 kan bieden.   
+2.  De minister deelt voorts elke deelnemer voor aanvang van de toewijzingsbiedronde mee wat de alternatieven zijn waarop de betreffende deelnemer op grond van artikel 38 kan bieden.  
 
 ### Artikel  37  
 
@@ -659,7 +659,7 @@ b. de duur van de toewijzingsbiedronde.
 4.  In het geval, bedoeld in artikel 6, eerste lid, is het eerste lid van toepassing, met dien verstande dat de toewijzingsbiedronde uit een aparte toewijzingsbiedronde bestaat voor de typen vergunningen A2 en C tezamen, B, C, D, E en G.   
 5.  In het geval, bedoeld in artikel 7, eerste lid, is het eerste lid van toepassing, met dien verstande dat de toewijzingsbiedronde uit een aparte toewijzingsbiedronde bestaat voor elk van het type vergunning B, C, D, E en G.   
 6.  Een deelnemer kan in de toewijzingsbiedronde uitsluitend bieden op het type vergunningen, zoals voorkomend op de voor hem samengestelde lijst met alternatieven, bedoeld in artikel 38.   
-7.  De aanvang van de toewijzingsbiedronde is niet eerder dan ten minste een werkdag na het einde van de aanvullende biedronde.   
+7.  De aanvang van de toewijzingsbiedronde is niet eerder dan ten minste een werkdag na het einde van de aanvullende biedronde.  
 
 ### Artikel  38  
 
@@ -667,11 +667,11 @@ b. de duur van de toewijzingsbiedronde.
 2.  In het geval, bedoeld in de artikelen 3, eerste lid, en 4, eerste lid, is het eerste lid van toepassing, met dien verstande dat dit betrekking heeft op de vergunningen A1, B, C, D, E en G.   
 3.  In het geval, bedoeld in artikel 5, eerste lid, is het eerste lid van toepassing.   
 4.  In het geval, bedoeld in artikel 6, eerste lid, is het eerste lid van toepassing, met dien verstande dat dit betrekking heeft op de vergunningen A2, B, C, D, E en G.   
-5.  In het geval, bedoeld in artikel 7, eerste lid, is het eerste lid van toepassing, met dien verstande dat dit betrekking heeft op de vergunningen B, C, D, E en G.   
+5.  In het geval, bedoeld in artikel 7, eerste lid, is het eerste lid van toepassing, met dien verstande dat dit betrekking heeft op de vergunningen B, C, D, E en G.  
 
 ### Artikel  39  
 
-Indien voor een alternatief voor frequentieruimte als bedoeld in artikel 38 geen bieding wordt ontvangen, wordt voor dat alternatief uitgegaan van een biedbedrag van nul euro.  
+Indien voor een alternatief voor frequentieruimte als bedoeld in artikel 38 geen bieding wordt ontvangen, wordt voor dat alternatief uitgegaan van een biedbedrag van nul euro. 
 
 ### Artikel  40  
 
@@ -685,13 +685,13 @@ b. de combinatie heeft de hoogste opbrengst.
 4.  Indien na het driemaal opnieuw houden van een toewijzingsbiedronde er nog steeds meerdere finale combinaties van winnende biedingen voor de typen vergunningen A1 en B tezamen, A2 en C tezamen, D, E of G kunnen worden vastgesteld op basis van het eerste en tweede lid, wordt door middel van loting tussen alle combinaties van winnende biedingen voor dat type vergunning uit de laatste toewijzingsbiedronde die voldoen aan het tweede lid, vastgesteld wat de finale combinatie van winnende biedingen voor dat type vergunning is.   
 5.  In het geval, bedoeld in de artikelen 3, eerste lid, en 4, eerste lid, zijn het eerste, derde en vierde lid, van toepassing, met dien verstande dat deze betrekking hebben op de vergunningen A1 en B tezamen, C, D, E en G.   
 6.  In het geval, bedoeld in artikel 6, eerste lid, zijn het eerste, derde en vierde lid, van toepassing, met dien verstande dat deze betrekking hebben op de vergunningen A2 en C tezamen, B, D, E en G.   
-7.  In het geval, bedoeld in artikel 7, eerste lid, zijn het eerste, derde en vierde lid, van toepassing, met dien verstande dat deze betrekking hebben op de vergunningen B, C, D, E en G.   
+7.  In het geval, bedoeld in artikel 7, eerste lid, zijn het eerste, derde en vierde lid, van toepassing, met dien verstande dat deze betrekking hebben op de vergunningen B, C, D, E en G.  
 
 ### Artikel  41  
 
 1.  Nadat de finale combinatie van winnende biedingen is vastgesteld, bepaalt de minister de extra prijzen op grond van bijlage IV.   
 2.  De extra prijzen, bedoeld in het eerste lid, worden naar boven afgerond op eenheden van € 1000, met dien verstande dat een deelnemer na afronding niet meer betaalt dan het biedbedrag van zijn winnende bieding.   
-3.  De totaalprijs die een winnende deelnemer verschuldigd is voor de door hem gewonnen vergunningen, bestaat uit de op grond van artikel 32, tweede lid, afgeronde basisprijs voor die vergunningen en de op grond van het tweede lid afgeronde extra prijs voor die vergunningen.   
+3.  De totaalprijs die een winnende deelnemer verschuldigd is voor de door hem gewonnen vergunningen, bestaat uit de op grond van artikel 32, tweede lid, afgeronde basisprijs voor die vergunningen en de op grond van het tweede lid afgeronde extra prijs voor die vergunningen.  
 
 ### Artikel  42  
 
@@ -701,7 +701,7 @@ a. dat de veiling is afgelopen;
 
 b. de identiteit van de winnende deelnemers en de door hen gewonnen vergunningen, en  
 
-c. de totaalprijzen die op grond van artikel 41 zijn vastgesteld, inclusief een overzicht van basisprijzen en extra prijzen.    
+c. de totaalprijzen die op grond van artikel 41 zijn vastgesteld, inclusief een overzicht van basisprijzen en extra prijzen.   
 
 ### §  9  
 
@@ -711,7 +711,7 @@ c. de totaalprijzen die op grond van artikel 41 zijn vastgesteld, inclusief een 
 
 1.  Aan een winnende deelnemer wordt een vergunning verleend voor de door hem gewonnen vergunningen. De totaalprijs voor die vergunningen is gelijk aan het bedrag dat op grond van artikel 41, derde lid, is vastgesteld.   
 2.  De minister wijst de overige aanvragen, voor zover dat nog niet is gebeurd op grond van de artikelen 9, tweede lid, 10, achtste of negende lid, of 11, vijfde lid, af.   
-3.  De minister maakt na de veiling de informatie, bedoeld in de artikelen 34, tweede lid, 35, vijfde lid, en 42 openbaar.   
+3.  De minister maakt na de veiling de informatie, bedoeld in de artikelen 34, tweede lid, 35, vijfde lid, en 42 openbaar.  
 
 ### §  10  
 
@@ -746,7 +746,7 @@ a. voorafgaand aan de dag waarop de waarborgsom door de minister wordt teruggest
 
 b. waarop de mededeling, bedoeld in artikel 42, is gedaan: voor de deelnemer wiens bieding onderdeel uitmaakt van de finale combinatie van winnende biedingen of aan wie een vergunning is verleend op grond van de artikelen 34, eerste lid, of 35, eerste lid.     
 3.  De minister vergoedt voorts aan een deelnemer van wie de waarborgsom meer bedraagt dan de totaalprijs, rente over het restant, bedoeld in het eerste lid, onder d, sub 2°, over de periode vanaf de dag waarop de mededeling, bedoeld in artikel 42, is gedaan tot en met de dag voorafgaand aan de dag waarop de waarborgsom door de minister wordt teruggestort, met dien verstande dat er alleen rente wordt betaald over dat restant.   
-4.  De minister stort de rente, bedoeld in het tweede en derde lid, terug op dezelfde dag waarop hij de waarborgsom of het bedrag dat resteert van de waarborgsom, terugstort.   
+4.  De minister stort de rente, bedoeld in het tweede en derde lid, terug op dezelfde dag waarop hij de waarborgsom of het bedrag dat resteert van de waarborgsom, terugstort.  
 
 ### §  11  
 
@@ -754,21 +754,21 @@ b. waarop de mededeling, bedoeld in artikel 42, is gedaan: voor de deelnemer wie
 
 ### Artikel  45  
 
-Deze regeling treedt in werking met ingang van 16 april 2012.  
+Deze regeling treedt in werking met ingang van 16 april 2012. 
 
 ### Artikel  46  
 
-Deze regeling wordt aangehaald als: Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz.  
+Deze regeling wordt aangehaald als: Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 22 december 2011   
 
 De 
-Minister van Economische Zaken, Landbouw en Innovatie,
-M.J.M.Verhagen  
+Minister van Economische Zaken, Landbouw en Innovatie, 
+M.J.M. Verhagen    
 
-### Bijlage  I  
+### Bijlage I 
 
 ####als bedoeld in artikel 8, tiende lid , van de Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz
 
@@ -783,13 +783,13 @@ M.J.M.Verhagen
 Statutaire naam aanvrager: ..... Nummer van inschrijving in het handelsregister of daarmee vergelijkbaar register: ..... Land van inschrijving in het handelsregister of daarmee vergelijkbaar register: ..... Beherende instantie van het handelsregister of daarmee vergelijkbaar register: .... Faxnummer: ..... Het telefoonnummer waarop in geval van bijzondere omstandigheden als bedoeld in artikel 17, tweede lid, de vertegenwoordigingsbevoegde tijdens de veiling bereikbaar is: ..... 
 ### *Recent uittreksel uit het handelsregister* 
 
-□ Een recent uittreksel, niet ouder dan een maand gerekend vanaf de datum van indiening van de aanvraag, van het handelsregister of daarmee vergelijkbaar register is bijgevoegd.  
+□ Een recent uittreksel, niet ouder dan een maand gerekend vanaf de datum van indiening van de aanvraag, van het handelsregister of daarmee vergelijkbaar register is bijgevoegd. 
 
 ### A.2  
 
 ####Vertegenwoordigingsbevoegdheid
 
-Opgave van degene(n) die bevoegd zijn (is) om de aanvrager rechtsgeldig te vertegenwoordigen in verband met deze aanvraag en alle handelingen gedurende de veilingprocedure, met opgave van eventuele beperkingen met betrekking tot die vertegenwoordigingsbevoegdheid: A.2.1 Functionaris 1 Naam: ..... Volledige voornamen: ..... Functie bij aanvrager: ..... Soort identiteitsbewijs: ..... Nummer identiteitsbewijs: ..... Vertegenwoordigingsbevoegdheid: ..... Opgave van beperkingen van bevoegdheid: ..... Bevoegdheid en beperkingen blijken uit: ..... Handtekening: ..... A.2.2 Functionaris 2 Naam: ..... Volledige voornamen: ..... Functie bij aanvrager: ..... Soort identiteitsbewijs: ..... Nummer identiteitsbewijs: ..... Vertegenwoordigingsbevoegdheid: ..... Opgave van beperkingen van bevoegdheid: ..... Bevoegdheid en beperkingen blijken uit: .... Handtekening ..... A.2.3 Functionaris 3 Naam: ..... Volledige voornamen: ..... Functie bij aanvrager: ..... Soort identiteitsbewijs: ..... Nummer identiteitsbewijs: ..... Vertegenwoordigingsbevoegdheid: ..... Opgave van beperkingen van bevoegdheid: ..... Bevoegdheid en beperkingen blijken uit: ..... Handtekening ..... A.2.4 Functionaris 4 Naam: ..... Volledige voornamen: ..... Functie bij aanvrager: ..... Soort identiteitsbewijs: ..... Nummer identiteitsbewijs: ..... Vertegenwoordigingsbevoegdheid: ..... Opgave van beperkingen van bevoegdheid: ..... Bevoegdheid en beperkingen blijken uit: ..... Handtekening .....  *Indien de vertegenwoordigingsbevoegdheid niet blijkt uit het handelsregister of een daarmee vergelijkbaar register, maar uit een volmacht, moet een kopie van de volmacht worden bijgevoegd.*   
+Opgave van degene(n) die bevoegd zijn (is) om de aanvrager rechtsgeldig te vertegenwoordigen in verband met deze aanvraag en alle handelingen gedurende de veilingprocedure, met opgave van eventuele beperkingen met betrekking tot die vertegenwoordigingsbevoegdheid: A.2.1 Functionaris 1 Naam: ..... Volledige voornamen: ..... Functie bij aanvrager: ..... Soort identiteitsbewijs: ..... Nummer identiteitsbewijs: ..... Vertegenwoordigingsbevoegdheid: ..... Opgave van beperkingen van bevoegdheid: ..... Bevoegdheid en beperkingen blijken uit: ..... Handtekening: ..... A.2.2 Functionaris 2 Naam: ..... Volledige voornamen: ..... Functie bij aanvrager: ..... Soort identiteitsbewijs: ..... Nummer identiteitsbewijs: ..... Vertegenwoordigingsbevoegdheid: ..... Opgave van beperkingen van bevoegdheid: ..... Bevoegdheid en beperkingen blijken uit: .... Handtekening ..... A.2.3 Functionaris 3 Naam: ..... Volledige voornamen: ..... Functie bij aanvrager: ..... Soort identiteitsbewijs: ..... Nummer identiteitsbewijs: ..... Vertegenwoordigingsbevoegdheid: ..... Opgave van beperkingen van bevoegdheid: ..... Bevoegdheid en beperkingen blijken uit: ..... Handtekening ..... A.2.4 Functionaris 4 Naam: ..... Volledige voornamen: ..... Functie bij aanvrager: ..... Soort identiteitsbewijs: ..... Nummer identiteitsbewijs: ..... Vertegenwoordigingsbevoegdheid: ..... Opgave van beperkingen van bevoegdheid: ..... Bevoegdheid en beperkingen blijken uit: ..... Handtekening .....  *Indien de vertegenwoordigingsbevoegdheid niet blijkt uit het handelsregister of een daarmee vergelijkbaar register, maar uit een volmacht, moet een kopie van de volmacht worden bijgevoegd.*  
 
 ### A.3  
 
@@ -803,7 +803,7 @@ b. de onderlinge band tussen die groepsmaatschappijen voortvloeiend uit aandelen
 
 c. ieder lid van het bestuur en voor, zover aanwezig, toezichthoudend orgaan van iedere groepsmaatschappij;  
 
-d. het nummer van inschrijving in het handelsregister of daarmee vergelijkbaar register van iedere groepsmaatschappij.    *Gebruik een bijlage.*   
+d. het nummer van inschrijving in het handelsregister of daarmee vergelijkbaar register van iedere groepsmaatschappij.    *Gebruik een bijlage.*  
 
 ### A.4  
 
@@ -811,19 +811,19 @@ d. het nummer van inschrijving in het handelsregister of daarmee vergelijkbaar r
 
 A.4.1 De aanvrager is een rechtspersoon, opgericht in overeenstemming met het recht van een van de lidstaten van de Europese Unie of een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en heeft zijn statutaire zetel, zijn hoofdbestuur of zijn hoofdvestiging binnen de Europese Economische Ruimte.  
 
-A.4.2 De aanvrager is wel/niet ontbonden. <sup> 1  Doorhalen wat niet van toepassing is.  </sup>  
+A.4.2 De aanvrager is wel/niet<sup> 1 Doorhalen wat niet van toepassing is. </sup>ontbonden.  
 
-A.4.3 De aanvrager is wel/niet failliet verklaard. <sup> 1  Doorhalen wat niet van toepassing is.  </sup>  
+A.4.3 De aanvrager is wel/niet<sup> 1 Doorhalen wat niet van toepassing is. </sup> failliet verklaard.  
 
-A.4.4 De aanvrager heeft wel/niet eigen aangifte tot faillissement gedaan. <sup> 1  Doorhalen wat niet van toepassing is.  </sup>  
+A.4.4 De aanvrager heeft wel/niet<sup> 1 Doorhalen wat niet van toepassing is. </sup> eigen aangifte tot faillissement gedaan.  
 
-A.4.5 Een verzoek tot faillissement van de aanvrager is wel/niet ingediend. <sup> 1  Doorhalen wat niet van toepassing is.  </sup>  
+A.4.5 Een verzoek tot faillissement van de aanvrager is wel/niet<sup> 1 Doorhalen wat niet van toepassing is. </sup> ingediend.  
 
-A.4.6 Aan de aanvrager is wel/geen surseance van betaling verleend. <sup> 1  Doorhalen wat niet van toepassing is.  </sup>  
+A.4.6 Aan de aanvrager is wel/geen<sup> 1 Doorhalen wat niet van toepassing is. </sup> surseance van betaling verleend.  
 
-A.4.7 De aanvrager heeft wel/geen aanvraag tot surseance van betaling gedaan. <sup> 1  Doorhalen wat niet van toepassing is.  </sup>  
+A.4.7 De aanvrager heeft wel/geen<sup> 1 Doorhalen wat niet van toepassing is. </sup> aanvraag tot surseance van betaling gedaan.  
 
-A.4.8 Op goederen als bedoeld in [artikel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) van de aanvrager is wel/geen beslag gelegd. <sup> 1  Doorhalen wat niet van toepassing is.  </sup> *Indien beslag is gelegd op het vermogen dan wel een of meer bedrijfsmiddelen van de aanvrager,* omvang beslag: ..... ..... ......   
+A.4.8 Op goederen als bedoeld in [artikel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) van de aanvrager is wel/geen<sup> 1 Doorhalen wat niet van toepassing is. </sup> beslag gelegd.  *Indien beslag is gelegd op het vermogen dan wel een of meer bedrijfsmiddelen van de aanvrager,* omvang beslag: ..... ..... ......   
 ### *Verklaring notaris* 
 
 Ondergetekende, notaris te .....(plaatsnaam) Verklaart, zonder voorbehoud, dat: 
@@ -832,7 +832,7 @@ Ondergetekende, notaris te .....(plaatsnaam) Verklaart, zonder voorbehoud, dat:
 
 (ii) dat de informatie die in deze aanvraag is verstrekt onder A.3, A.4.4, A.4.5, A.4.7 en A.4.8 door hem naar beste kunnen is geverifieerd en naar zijn oordeel juist en volledig is;  
 
-(iii) de personen genoemd bij A.2 door hem/haar zijn geïdentificeerd in persoon, volgens de regels van de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), ten behoeve van de minister, ten bewijze waarvan een kopie van het identiteitsbewijs aan de hand waarvan verificatie van de identiteit heeft plaatsgevonden hierbij wordt gevoegd, en dat die personen in zijn bijzijn zijn/haar handtekening heeft geplaatst bij A.2.   Naam:..... Plaats..... Datum: .... Handtekening .....  *De verklaring van de notaris mag desgewenst door middel van een bijlage worden verstrekt.*   
+(iii) de personen genoemd bij A.2 door hem/haar zijn geïdentificeerd in persoon, volgens de regels van de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), ten behoeve van de minister, ten bewijze waarvan een kopie van het identiteitsbewijs aan de hand waarvan verificatie van de identiteit heeft plaatsgevonden hierbij wordt gevoegd, en dat die personen in zijn bijzijn zijn/haar handtekening heeft geplaatst bij A.2.   Naam:..... Plaats..... Datum: .... Handtekening .....  *De verklaring van de notaris mag desgewenst door middel van een bijlage worden verstrekt.*  
 
 ### Onderdeel  B  
 
@@ -846,8 +846,8 @@ Ik vraag de navolgende vergunningen aan ter grootte van ...... activiteitspunten
 
 | Vergunning  | Aantal vergunningen  | Aantal vergunningen met onderstaande factor omzetten naar activiteitspunten  | Aantal activiteitspunten  |
 |:---|:---|:---|:---|
-| A1 <sup>1</sup>  | ..........  (maximaal 2)  | Vermenigvuldigen met 15  | --- |
-| A2 <sup>1</sup>  | ...........  (maximaal 1)  | Vermenigvuldigen met 15  | --- |
+| A1<sup>1</sup>   | ..........  (maximaal 2)  | Vermenigvuldigen met 15  | --- |
+| A2<sup>1</sup>   | ...........  (maximaal 1)  | Vermenigvuldigen met 15  | --- |
 | B  | ..........  (maximaal 4)  | Vermenigvuldigen met 15  | --- |
 | C  | ..........  (maximaal 6)  | Vermenigvuldigen met 15  | --- |
 | D  | ..........  (maximaal 14)  | Vermenigvuldigen met 2  | --- |
@@ -856,7 +856,7 @@ Ik vraag de navolgende vergunningen aan ter grootte van ...... activiteitspunten
 | G  | ..........  (maximaal 10)  | Verminderen met 1  | --- |
 |  *Totaal aantal activiteitspunten*   | --- |
 
-<sup>1</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b en in totaal maximaal twee vergunningen A1 of A2 per nieuwkomer.  
+<sup>1</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b en in totaal maximaal twee vergunningen A1 of A2 per nieuwkomer.
 
 ### Onderdeel  b  
 
@@ -864,7 +864,7 @@ In het geval, bedoeld in artikel 3, eerste lid, vraag ik de navolgende vergunnin
 
 | Vergunning  | Aantal vergunningen  | Aantal vergunningen met onderstaande factor omzetten naar activiteitspunten  | Aantal activiteitspunten  |
 |:---|:---|:---|:---|
-| A1 <sup>1</sup>  | ..........  (maximaal 2)  | Vermenigvuldigen met 15  | --- |
+| A1<sup>1</sup>  | ..........  (maximaal 2)  | Vermenigvuldigen met 15  | --- |
 | B  | ..........  (maximaal 4)  | Vermenigvuldigen met 15  | --- |
 | C  | ..........  (maximaal 7)  | Vermenigvuldigen met 15  | --- |
 | D  | ..........  (maximaal 14)  | Vermenigvuldigen met 2  | --- |
@@ -873,7 +873,7 @@ In het geval, bedoeld in artikel 3, eerste lid, vraag ik de navolgende vergunnin
 | G  | ..........  (maximaal 10)  | Verminderen met 1  | --- |
 |  *Totaal aantal activiteitspunten*   | --- |
 
-<sup>1</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b.  
+<sup>1</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b.
 
 ### Onderdeel  c  
 
@@ -881,7 +881,7 @@ In het geval, bedoeld in artikel 4, eerste lid, vraag ik de navolgende vergunnin
 
 | Vergunning  | Aantal vergunningen  | Aantal vergunningen met onderstaande factor omzetten naar activiteitspunten  | Aantal activiteitspunten  |
 |:---|:---|:---|:---|
-| A1 <sup>1</sup>  | ...........  (maximaal 1)  | Vermenigvuldigen met 15  | --- |
+| A1<sup>1</sup>  | ...........  (maximaal 1)  | Vermenigvuldigen met 15  | --- |
 | B  | ..........  (maximaal 5)  | Vermenigvuldigen met 15  | --- |
 | C  | ..........  (maximaal 7)  | Vermenigvuldigen met 15  | --- |
 | D  | ..........  (maximaal 14)  | Vermenigvuldigen met 2  | --- |
@@ -890,7 +890,7 @@ In het geval, bedoeld in artikel 4, eerste lid, vraag ik de navolgende vergunnin
 | G  | ..........  (maximaal 10)  | Verminderen met 1  | --- |
 |  *Totaal aantal activiteitspunten*   | --- |
 
-<sup>1</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b.  
+<sup>1</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b.
 
 ### Onderdeel  d  
 
@@ -898,8 +898,8 @@ In het geval, bedoeld in artikel 5, eerste lid, vraag ik de navolgende vergunnin
 
 | Vergunning  | Aantal vergunningen  | Aantal vergunningen met onderstaande factor omzetten naar activiteitspunten  | Aantal activiteitspunten  |
 |:---|:---|:---|:---|
-| A1 <sup>1</sup>  | ..........  (maximaal 1)  | Vermenigvuldigen met 15  | --- |
-| A2 <sup>1</sup>  | ...........  (maximaal 1)  | Vermenigvuldigen met 15  | --- |
+| A1<sup>1</sup>   | ..........  (maximaal 1)  | Vermenigvuldigen met 15  | --- |
+| A2<sup>1</sup>   | ...........  (maximaal 1)  | Vermenigvuldigen met 15  | --- |
 | B  | ..........  (maximaal 5)  | Vermenigvuldigen met 15  | --- |
 | C  | ..........  (maximaal 6)  | Vermenigvuldigen met 15  | --- |
 | D  | ..........  (maximaal 14)  | Vermenigvuldigen met 2  | --- |
@@ -908,7 +908,7 @@ In het geval, bedoeld in artikel 5, eerste lid, vraag ik de navolgende vergunnin
 | G  | ..........  (maximaal 10)  | Verminderen met 1  | --- |
 |  *Totaal aantal activiteitspunten*   | --- |
 
-<sup>1</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b.  
+<sup>1</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b.
 
 ### Onderdeel  e  
 
@@ -916,7 +916,7 @@ In het geval, bedoeld in artikel 6, eerste lid, vraag ik de navolgende vergunnin
 
 | Vergunning  | Aantal vergunningen  | Aantal vergunningen met onderstaande factor omzetten naar activiteitspunten  | Aantal activiteitspunten  |
 |:---|:---|:---|:---|
-| A2 <sup>1</sup>  | ..........  (maximaal 1)  | Vermenigvuldigen met 15  | --- |
+| A2<sup>1</sup>   | ..........  (maximaal 1)  | Vermenigvuldigen met 15  | --- |
 | B  | ..........  (maximaal 6)  | Vermenigvuldigen met 15  | --- |
 | C  | ..........  (maximaal 6)  | Vermenigvuldigen met 15  | --- |
 | D  | ..........  (maximaal 14)  | Vermenigvuldigen met 2  | --- |
@@ -925,7 +925,7 @@ In het geval, bedoeld in artikel 6, eerste lid, vraag ik de navolgende vergunnin
 | G  | ..........  (maximaal 10)  | Verminderen met 1  | --- |
 |  *Totaal aantal activiteitspunten*   | --- |
 
-<sup>1</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b.  
+<sup>1</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b.
 
 ### Onderdeel  f  
 
@@ -949,10 +949,10 @@ In het geval, bedoeld in artikel 7, eerste lid, vraag ik de navolgende vergunnin
 
 Hieronder geef ik per type vergunning aan of ik een voorkeur heb voor specifieke frequentieruimte indien de vergunningen A1 tot en met G op grond van artikel 12, tweede lid, zonder veiling worden verleend.  
 
-| Vergunning  | Voorkeur specifieke frequentieruimte <sup>1</sup>  |
+| Vergunning  | Voorkeur specifieke frequentieruimte<sup>1</sup>   |
 |:---|:---|
-| A1 <sup>2</sup>  | Ja / Nee  |
-| A2 <sup>2</sup>  | Ja / Nee  |
+| A1<sup>2</sup>   | Ja / Nee  |
+| A2<sup>2</sup>   | Ja / Nee  |
 | B  | Ja / Nee  |
 | C  | Ja / Nee  |
 | D  | Ja / Nee  |
@@ -960,15 +960,15 @@ Hieronder geef ik per type vergunning aan of ik een voorkeur heb voor specifieke
 | F  | n.v.t.  |
 | G  | Ja / Nee  |
 
-<sup>1</sup> Doorhalen wat niet van toepassing is. <sup>2</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b.  
+<sup>1</sup> Doorhalen wat niet van toepassing is.<sup>2</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b.
 
 ### Onderdeel  b  
 
 Hieronder geef ik per type vergunning aan of ik een voorkeur heb voor specifieke frequentieruimte indien de vergunningen A1 en B tot en met G op grond van artikel 12, derde lid, zonder veiling worden verleend.  
 
-| Vergunning  | Voorkeur specifieke frequentieruimte <sup>1</sup>  |
+| Vergunning  | Voorkeur specifieke frequentieruimte<sup>1</sup>   |
 |:---|:---|
-| A1 <sup>2</sup>  | Ja / Nee  |
+| A1<sup> 2</sup>   | Ja / Nee  |
 | B  | Ja / Nee  |
 | C  | Ja / Nee  |
 | D  | Ja / Nee  |
@@ -976,15 +976,15 @@ Hieronder geef ik per type vergunning aan of ik een voorkeur heb voor specifieke
 | F  | n.v.t.  |
 | G  | Ja / Nee  |
 
-<sup>1</sup> Doorhalen wat niet van toepassing is. <sup>2</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b.  
+<sup>1</sup> Doorhalen wat niet van toepassing is.<sup> 2</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b.
 
 ### Onderdeel  c  
 
 Hieronder geef ik per type vergunning aan of ik een voorkeur heb voor specifieke frequentieruimte indien de vergunningen A1 en B tot en met G op grond van artikel 12, vierde lid, zonder veiling worden verleend.  
 
-| Vergunning  | Voorkeur specifieke frequentieruimte <sup>1</sup>  |
+| Vergunning  | Voorkeur specifieke frequentieruimte<sup>1</sup>   |
 |:---|:---|
-| A1 <sup>2</sup>  | Ja / Nee  |
+| A1<sup>2</sup>   | Ja / Nee  |
 | B  | Ja / Nee  |
 | C  | Ja / Nee  |
 | D  | Ja / Nee  |
@@ -992,16 +992,16 @@ Hieronder geef ik per type vergunning aan of ik een voorkeur heb voor specifieke
 | F  | n.v.t.  |
 | G  | Ja / Nee  |
 
-<sup>1</sup> Doorhalen wat niet van toepassing is. <sup>2</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b.  
+<sup>1</sup> Doorhalen wat niet van toepassing is.<sup>2</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b.
 
 ### Onderdeel  d  
 
 Hieronder geef ik per type vergunning aan of ik een voorkeur heb voor specifieke frequentieruimte indien de vergunningen A1 tot en met G op grond van artikel 12, vijfde lid, zonder veiling worden verleend.  
 
-| Vergunning  | Voorkeur specifieke frequentieruimte <sup>1</sup>  |
+| Vergunning  | Voorkeur specifieke frequentieruimte<sup>1</sup>   |
 |:---|:---|
-| A1 <sup>2</sup>  | Ja / Nee  |
-| A2 <sup>2</sup>  | Ja / Nee  |
+| A1<sup>2</sup>   | Ja / Nee  |
+| A2<sup>2</sup>   | Ja / Nee  |
 | B  | Ja / Nee  |
 | C  | Ja / Nee  |
 | D  | Ja / Nee  |
@@ -1009,15 +1009,15 @@ Hieronder geef ik per type vergunning aan of ik een voorkeur heb voor specifieke
 | F  | n.v.t.  |
 | G  | Ja / Nee  |
 
-<sup>1</sup> Doorhalen wat niet van toepassing is. <sup>2</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b.  
+<sup>1</sup> Doorhalen wat niet van toepassing is.<sup>2</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b.
 
 ### Onderdeel  e  
 
 Hieronder geef ik per type vergunning aan of ik een voorkeur heb voor specifieke frequentieruimte indien de vergunningen A2 tot en met G op grond van artikel 12, zesde lid, zonder veiling worden verleend.  
 
-| Vergunning  | Voorkeur specifieke frequentieruimte <sup>1</sup>  |
+| Vergunning  | Voorkeur specifieke frequentieruimte<sup>1</sup>   |
 |:---|:---|
-| A2 <sup>2</sup>  | Ja / Nee  |
+| A2<sup>2</sup>   | Ja / Nee  |
 | B  | Ja / Nee  |
 | C  | Ja / Nee  |
 | D  | Ja / Nee  |
@@ -1025,13 +1025,13 @@ Hieronder geef ik per type vergunning aan of ik een voorkeur heb voor specifieke
 | F  | n.v.t.  |
 | G  | Ja / Nee  |
 
-<sup>1</sup> Doorhalen wat niet van toepassing is. <sup>2</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b.  
+<sup>1</sup> Doorhalen wat niet van toepassing is.<sup>2</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b.
 
 ### Onderdeel  f  
 
 Hieronder geef ik per type vergunning aan of ik een voorkeur heb voor specifieke frequentieruimte indien de vergunningen B tot en met G op grond van artikel 12, zevende lid, zonder veiling worden verleend.  
 
-| Vergunning  | Voorkeur specifieke frequentieruimte <sup>1</sup>  |
+| Vergunning  | Voorkeur specifieke frequentieruimte<sup>1</sup>   |
 |:---|:---|
 | B  | Ja / Nee  |
 | C  | Ja / Nee  |
@@ -1040,7 +1040,7 @@ Hieronder geef ik per type vergunning aan of ik een voorkeur heb voor specifieke
 | F  | n.v.t.  |
 | G  | Ja / Nee  |
 
-<sup>1</sup> Doorhalen wat niet van toepassing is. 
+<sup>1</sup> Doorhalen wat niet van toepassing is.
 ### *Bestuurdersverklaring* 
 
 Ondergetekende verklaart dat 
@@ -1049,15 +1049,15 @@ Ondergetekende verklaart dat
 
 (ii) deze aanvraag niet tot stand is gekomen onder invloed van een afspraak of overeenkomst met een ander dan wel een besluit of gedraging, die afbreuk doet of kan doen aan een goed verloop van de veiling, de mededinging daaronder begrepen;  
 
-(iii) aanvrager zich gedurende de veilingprocedure onthoudt van het maken van afspraken of het sluiten van overeenkomsten met een ander en aanvrager zich onthoudt van ieder besluit of iedere gedraging, die afbreuk doet of kan doen aan een goed verloop van de veiling, de mededinging daaronder begrepen.   Naam :.... Plaats :..... Datum :..... Handtekening: .....  
+(iii) aanvrager zich gedurende de veilingprocedure onthoudt van het maken van afspraken of het sluiten van overeenkomsten met een ander en aanvrager zich onthoudt van ieder besluit of iedere gedraging, die afbreuk doet of kan doen aan een goed verloop van de veiling, de mededinging daaronder begrepen.   Naam :.... Plaats :..... Datum :..... Handtekening: ..... 
 
-### Bijlage  II  
+### Bijlage II 
 
 ####als bedoeld in artikel 15, zevende lid, onder b , van de Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz
 
 ####– Model bankgarantie –
 
-I. De ondergetekende .... (*naam van een bank die is gevestigd in een van de lidstaten van de Europese Unie of in een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte*) , gevestigd te ...., mede kantoorhoudende te ....., hierna te noemen: ‘de Bank’; <sup> 1  Hetgeen in het bovenstaande cursief is gedrukt moet door de Bank worden ingevuld.  </sup> In aanmerking nemende: 
+I. De ondergetekende .... (*naam van een bank die is gevestigd in een van de lidstaten van de Europese Unie of in een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte*)<sup> 1 Hetgeen in het bovenstaande cursief is gedrukt moet door de Bank worden ingevuld. </sup>, gevestigd te ...., mede kantoorhoudende te ....., hierna te noemen: ‘de Bank’; In aanmerking nemende: 
 
 A. dat [artikel 3.3, eerste lid, van de Telecommunicatiewet](../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) bepaalt dat voor het gebruik van frequentieruimte een vergunning is vereist van de Minister van Economische Zaken (hierna: ‘de Minister’);  
 
@@ -1081,67 +1081,67 @@ II. Verbindt zich tot het navolgende:
 
 5. Deze bankgarantie wordt beheerst door Nederlands recht. Geschillen ter zake van deze bankgarantie kunnen uitsluitend worden voorgelegd aan de bevoegde Nederlandse rechter te ’s-Gravenhage.  
 
-6. Na verval van deze bankgarantie kan de Staat geen enkele aanspraak meer maken jegens de Bank uit hoofde van deze bankgarantie tenzij de Bank voorafgaande aan het moment waarop deze bankgarantie zou vervallen een mededeling ontving als bedoeld onder 2 waaraan de Bank nog niet voldeed. Op verzoek van de Bank zal de Staat deze bankgarantie nadat deze is vervallen retourneren aan de Bank.     Plaats: ..... Datum: ..... Naam Bank en ondertekening .....  
+6. Na verval van deze bankgarantie kan de Staat geen enkele aanspraak meer maken jegens de Bank uit hoofde van deze bankgarantie tenzij de Bank voorafgaande aan het moment waarop deze bankgarantie zou vervallen een mededeling ontving als bedoeld onder 2 waaraan de Bank nog niet voldeed. Op verzoek van de Bank zal de Staat deze bankgarantie nadat deze is vervallen retourneren aan de Bank.     Plaats: ..... Datum: ..... Naam Bank en ondertekening ..... 
 
-### Bijlage  III  
+### Bijlage III 
 
 ####als bedoeld in artikel 32, eerste lid , van de Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz
 
 ####– Basisprijzen –
 
-Door toepassing van artikel 31 zijn n winnende biedingen wb <sub>1</sub>, wb <sub>2</sub>, wb <sub>3</sub>, ..., wb <sub>n</sub> bepaald, uitgebracht door de deelnemers w <sub>1</sub>, w <sub>2</sub>, w <sub>3</sub>, ..., w <sub>n</sub>. Voor een winnende bieding wb <sub>i</sub> is de prijs p <sub>i</sub> geboden. De totale opbrengst van de winnende biedingen wb <sub>1</sub>, wb <sub>2</sub>, wb <sub>3</sub>, ..., wb <sub>n</sub> is gelijk aan T, ofwel T =   ![249746](http://wetten.overheid.nl/Illustration/249746)
+Door toepassing van artikel 31 zijn n winnende biedingen wb<sub>1</sub>, wb<sub>2</sub>, wb<sub>3</sub>, ..., wb<sub>n</sub> bepaald, uitgebracht door de deelnemers w<sub>1</sub>, w<sub>2</sub>, w<sub>3</sub>, ..., w<sub>n</sub>. Voor een winnende bieding wb<sub>i</sub> is de prijs p<sub>i</sub> geboden. De totale opbrengst van de winnende biedingen wb<sub>1</sub>, wb<sub>2</sub>, wb<sub>3</sub>, ..., wb<sub>n</sub> is gelijk aan T, ofwel T =   ![249746](http://wetten.overheid.nl/Illustration/249746)
 De basisprijs wordt vastgesteld overeenkomstig het bepaalde onder 1 en 2: 
 
-1. Voor elke winnende bieding wb <sub>i</sub> wordt een basisprijs b <sub>i</sub> bepaald, die aan de volgende voorwaarden voldoet: 
+1. Voor elke winnende bieding wb<sub>i</sub> wordt een basisprijs b<sub>i</sub> bepaald, die aan de volgende voorwaarden voldoet: 
 
-a. b <sub>i</sub> is groter dan of gelijk aan de som van de prijzen van vergunningen zoals vastgesteld in artikel 30, eerste lid, waarop de bieding wb <sub>i</sub> betrekking heeft;  
+a. b<sub>i</sub> is groter dan of gelijk aan de som van de prijzen van vergunningen zoals vastgesteld in artikel 30, eerste lid, waarop de bieding wb<sub>i</sub> betrekking heeft;  
 
-b. b <sub>i</sub> is kleiner dan of gelijk aan p <sub>i</sub>, en  
+b. b<sub>i</sub> is kleiner dan of gelijk aan p<sub>i</sub>, en  
 
-c. de verzameling {b <sub>1</sub>, b <sub>2</sub>, b <sub>3</sub>, ..., b <sub>n</sub> } voldoet aan de volgende voorwaarde: als bij ongewijzigde biedingen van de deelnemers die geen winnende bieding hebben uitgebracht alle biedingen van een winnende deelnemer w <sub>i</sub> worden verlaagd met (p <sub>i</sub> – b <sub>i</sub>), voor i = 1, 2, ..., n, leidt toepassing van artikel 31, tweede lid, onderdelen a en b, niet tot een andere bieding of een andere combinatie van biedingen die een hogere opbrengst heeft dan wb <sub>1</sub>, wb <sub>2</sub>, wb <sub>3</sub>, ..., wb <sub>n</sub>;  
+c. de verzameling {b<sub>1</sub>, b<sub>2</sub>, b<sub>3</sub>, ..., b<sub>n</sub>} voldoet aan de volgende voorwaarde: als bij ongewijzigde biedingen van de deelnemers die geen winnende bieding hebben uitgebracht alle biedingen van een winnende deelnemer w<sub>i</sub> worden verlaagd met (p<sub>i</sub> – b<sub>i</sub>), voor i = 1, 2, ..., n, leidt toepassing van artikel 31, tweede lid, onderdelen a en b, niet tot een andere bieding of een andere combinatie van biedingen die een hogere opbrengst heeft dan wb<sub>1</sub>, wb<sub>2</sub>, wb<sub>3</sub>, ..., wb<sub>n</sub>;  
 
-d. de verzameling {b <sub>1</sub>, b <sub>2</sub>, b <sub>3</sub>, ..., b <sub>n</sub> } heeft de laagst mogelijke opbrengst, ofwel de som van de basisprijzen   ![249747](http://wetten.overheid.nl/Illustration/249747)
-is minimaal.    
+d. de verzameling {b<sub>1</sub>, b<sub>2</sub>, b<sub>3</sub>, ..., b<sub>n</sub>} heeft de laagst mogelijke opbrengst, ofwel de som van de basisprijzen   ![249747](http://wetten.overheid.nl/Illustration/249747)
+is minimaal.     
 
-2. Indien meer verzamelingen {b <sub>1</sub>, b <sub>2</sub>, b <sub>3</sub>, ..., b <sub>n</sub> } aan de onder 1 gestelde voorwaarden voldoen, wordt uit deze verzamelingen de verzameling basisprijzen gekozen met de laagste opportuniteitskostenvariantie OV. De opportuniteitskostenvariantie OV is de som van de kwadratische verschillen tussen de basisprijzen en de bijbehorende opportuniteitskosten, ofwel OV =   ![249748](http://wetten.overheid.nl/Illustration/249748)
-, met dien verstande dat: 
+2. Indien meer verzamelingen {b<sub>1</sub>, b<sub>2</sub>, b<sub>3</sub>, ..., b<sub>n</sub>} aan de onder 1 gestelde voorwaarden voldoen, wordt uit deze verzamelingen de verzameling basisprijzen gekozen met de laagste opportuniteitskostenvariantie OV. De opportuniteitskostenvariantie OV is de som van de kwadratische verschillen tussen de basisprijzen en de bijbehorende opportuniteitskosten, ofwel OV =   ![249748](http://wetten.overheid.nl/Illustration/249748)
+, met dien verstande dat:  
 
-a. O <sub>i</sub> de opportuniteitskosten zijn van de winnende bieding wb <sub>i</sub>, bepaald door: O <sub>i</sub> = p <sub>i</sub> –T + Z <sub>i</sub> en  
+a. O<sub>i</sub> de opportuniteitskosten zijn van de winnende bieding wb<sub>i</sub> , bepaald door: O<sub>i</sub> = p<sub>i</sub> –T + Z<sub>i</sub> en  
 
-b. Z <sub>i</sub> de totale opbrengst is van de overeenkomstig artikel 31 bepaalde combinatie van winnende biedingen, indien deelnemer w <sub>i</sub> niet aan de veiling zou hebben deelgenomen.      
+b. Z<sub>i</sub> de totale opbrengst is van de overeenkomstig artikel 31 bepaalde combinatie van winnende biedingen, indien deelnemer w<sub>i</sub> niet aan de veiling zou hebben deelgenomen.     
 
-### Bijlage  IV  
+### Bijlage IV 
 
 ####als bedoeld in artikel 41, eerste lid , van de Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz
 
 ####– Extra prijzen –
 
-Door toepassing van artikel 40 zijn n winnende biedingen wb <sub>1</sub>, wb <sub>2</sub>, wb <sub>3</sub>, ..., wb <sub>n</sub> bepaald, uitgebracht door de deelnemers w <sub>1</sub>, w <sub>2</sub>, w <sub>3</sub>, ..., w <sub>n</sub>. Voor een winnende bieding wb <sub>i</sub> is de prijs p <sub>i</sub> geboden. De totale opbrengst van de winnende biedingen wb <sub>1</sub>, wb <sub>2</sub>, wb <sub>3</sub>, ..., wb <sub>n</sub> is gelijk aan T, ofwel T =   ![249749](http://wetten.overheid.nl/Illustration/249749)
+Door toepassing van artikel 40 zijn n winnende biedingen wb<sub>1</sub>, wb<sub>2</sub>, wb<sub>3</sub>, ..., wb<sub>n</sub> bepaald, uitgebracht door de deelnemers w<sub>1</sub>, w<sub>2</sub>, w<sub>3</sub>, ..., w<sub>n</sub>. Voor een winnende bieding wb<sub>i</sub> is de prijs p<sub>i</sub> geboden. De totale opbrengst van de winnende biedingen wb<sub>1</sub>, wb<sub>2</sub>, wb<sub>3</sub>, ..., wb<sub>n</sub> is gelijk aan T, ofwel T =   ![249749](http://wetten.overheid.nl/Illustration/249749)
 De extra prijs wordt vastgesteld overeenkomstig het bepaalde onder 1 en 2: 
 
-1. Voor elke winnende bieding wb <sub>i</sub> wordt een extra prijs eb <sub>i</sub> bepaald, met dien verstande dat aan de volgende voorwaarden wordt voldaan: 
+1. Voor elke winnende bieding wb<sub>i</sub> wordt een extra prijs eb<sub>i</sub> bepaald, met dien verstande dat aan de volgende voorwaarden wordt voldaan: 
 
-a. eb <sub>i</sub> is gelijk aan of groter dan 0;  
+a. eb<sub>i</sub> is gelijk aan of groter dan 0;  
 
-b. eb <sub>i</sub> is kleiner dan of gelijk aan p <sub>i</sub>, en  
+b. eb<sub>i</sub> is kleiner dan of gelijk aan p<sub>i</sub>, en  
 
-c. de verzameling {eb <sub>1</sub>, eb <sub>2</sub>, eb <sub>3</sub>, ..., eb <sub>n</sub> } voldoet aan de volgende voorwaarde: als alle biedingen in de toewijzingsbiedronde van een winnende deelnemer 
+c. de verzameling {eb<sub>1</sub>, eb<sub>2</sub>, eb<sub>3</sub>, ..., eb<sub>n</sub>} voldoet aan de volgende voorwaarde: als alle biedingen in de toewijzingsbiedronde van een winnende deelnemer 
 
-– worden verlaagd met (p <sub>i</sub> – eb <sub>i</sub>), voor i = 1, 2, ..., n, en  
+– worden verlaagd met (p<sub>i</sub> – eb<sub>i</sub>), voor i = 1, 2, ..., n, en  
 
-– niet verder dan tot nul worden verlaagd,   leidt toepassing van artikel 40, tweede lid, onderdeel a, niet tot een andere bieding of een andere combinatie van biedingen die een hogere opbrengst heeft dan wb <sub>1</sub>, wb <sub>2</sub>, wb <sub>3</sub>, ..., wb <sub>n</sub>;  
+– niet verder dan tot nul worden verlaagd,   leidt toepassing van artikel 40, tweede lid, onderdeel a, niet tot een andere bieding of een andere combinatie van biedingen die een hogere opbrengst heeft dan wb<sub>1</sub>, wb<sub>2</sub>, wb<sub>3</sub>, ..., wb<sub>n</sub>;  
 
-d. de verzameling {eb <sub>1</sub>, eb <sub>2</sub>, eb <sub>3</sub>, ..., eb <sub>n</sub> } heeft de laagst mogelijke opbrengst, ofwel de som van de extra prijzen   ![249750](http://wetten.overheid.nl/Illustration/249750)
-is minimaal.    
+d. de verzameling {eb<sub>1</sub>, eb<sub>2</sub>, eb<sub>3</sub>, ..., eb<sub>n</sub>} heeft de laagst mogelijke opbrengst, ofwel de som van de extra prijzen   ![249750](http://wetten.overheid.nl/Illustration/249750)
+is minimaal.     
 
-2. Indien meer verzamelingen {eb <sub>1</sub>, eb <sub>2</sub>, eb <sub>3</sub>, ..., eb <sub>n</sub> } aan de onder 1 gestelde voorwaarden voldoen, wordt uit deze verzamelingen de verzameling extra prijzen gekozen met de laagste opportuniteitskostenvariantie OV. De opportuniteitskostenvariantie OV is de som van de kwadratische verschillen tussen de extra prijzen en de bijbehorende opportuniteitskosten, ofwel OV =   ![249751](http://wetten.overheid.nl/Illustration/249751)
-, met dien verstande dat: 
+2. Indien meer verzamelingen {eb<sub>1</sub>, eb<sub>2</sub>, eb<sub>3</sub>, ..., eb<sub>n</sub>} aan de onder 1 gestelde voorwaarden voldoen, wordt uit deze verzamelingen de verzameling extra prijzen gekozen met de laagste opportuniteitskostenvariantie OV. De opportuniteitskostenvariantie OV is de som van de kwadratische verschillen tussen de extra prijzen en de bijbehorende opportuniteitskosten, ofwel OV =   ![249751](http://wetten.overheid.nl/Illustration/249751)
+, met dien verstande dat:  
 
-a. O <sub>i</sub> de opportuniteitskosten zijn van de winnende bieding wb <sub>i</sub>, bepaald door: O <sub>i</sub> = p <sub>i</sub> – T + Z <sub>i</sub>. en  
+a. O<sub>i</sub> de opportuniteitskosten zijn van de winnende bieding wb<sub>i</sub> , bepaald door: O<sub>i</sub> = p<sub>i</sub> – T + Z<sub>i</sub>. en  
 
-b. Z <sub>i</sub> de totale opbrengst is van de overeenkomstig artikel 40 bepaalde finale combinatie van winnende biedingen, indien deelnemer w <sub>i</sub> € 0,00 had uitgebracht voor alle mogelijke combinaties van biedingen.      
+b. Z<sub>i</sub> de totale opbrengst is van de overeenkomstig artikel 40 bepaalde finale combinatie van winnende biedingen, indien deelnemer w<sub>i</sub> € 0,00 had uitgebracht voor alle mogelijke combinaties van biedingen.     
 
-### Bijlage  V  
+### Bijlage V 
 
 ####als bedoeld in artikel 20, vierde lid, onder b , van de Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz
 
@@ -1178,8 +1178,8 @@ b. Z <sub>i</sub> de totale opbrengst is van de overeenkomstig artikel 40 bepaal
 
 | Vergunning  | Bedrag in € per vergunning  | Aantal  | Het aantal voluit en in blokletters geschreven in de Nederlandse taal  | Geen bieding  |
 |:---|:---|:---|:---|:---|
-| A1 <sup>1</sup>  | In te vullen door de Minister  | --- | --- | □  |
-| A2 <sup>1</sup>  | In te vullen door de Minister  | --- | --- | □  |
+| A1<sup> 1</sup>   | In te vullen door de Minister  | --- | --- | □  |
+| A2<sup> 1</sup>   | In te vullen door de Minister  | --- | --- | □  |
 | B  | In te vullen door de Minister  | --- | --- | □  |
 | C  | In te vullen door de Minister  | --- | --- | □  |
 | D  | In te vullen door de Minister  | --- | --- | □  |
@@ -1194,16 +1194,16 @@ b. Z <sub>i</sub> de totale opbrengst is van de overeenkomstig artikel 40 bepaal
 | --- |
 | --- |
 
-<sup>1</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b.  
+<sup> 1</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b.
 
 ####Aanvullende biedronde
 
 | Bieding  | Totaalbedrag in €  | Het totaalbedrag voluit en in blokletters geschreven in de Nederlandse taal  |
 |:---|:---|:---|
-| ..... x vergunning A1 <sup>1</sup>  ..... x vergunning A2 <sup>1</sup>  ..... x vergunning B  ..... x vergunning C  ..... x vergunning D  ..... x vergunning E  ..... x vergunning F  ..... x vergunning G  | --- | --- |
-| ..... x vergunning A1 <sup>1</sup>  ..... x vergunning A2 <sup>1</sup>  ..... x vergunning B  ..... x vergunning C  ..... x vergunning D  ..... x vergunning E  ..... x vergunning F  ..... x vergunning G  | --- | --- |
+| ..... x vergunning A1<sup>1</sup>   ..... x vergunning A2<sup>1</sup>   ..... x vergunning B  ..... x vergunning C  ..... x vergunning D  ..... x vergunning E  ..... x vergunning F  ..... x vergunning G  | --- | --- |
+| ..... x vergunning A1<sup>1</sup>   ..... x vergunning A2<sup>1</sup>   ..... x vergunning B  ..... x vergunning C  ..... x vergunning D  ..... x vergunning E  ..... x vergunning F  ..... x vergunning G  | --- | --- |
 
-<sup>1</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b  
+<sup>1</sup> Alleen voor een nieuwkomer als bedoeld in artikel 1, onder b 
 
 | --- |
 |:---|
