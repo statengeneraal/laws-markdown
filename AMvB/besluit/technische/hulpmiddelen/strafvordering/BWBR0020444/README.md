@@ -34,27 +34,27 @@ e. Onze Minister: Onze Minister van Veiligheid en Justitie;
 
 f. de korpschef: de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
-g. AIVD: de Algemene Inlichtingen- en Veiligheidsdienst, bedoeld in [artikel 6, eerste lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md).    
+g. AIVD: de Algemene Inlichtingen- en Veiligheidsdienst, bedoeld in [artikel 6, eerste lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md).   
 
 ### Artikel  2  
 
 ####Overeenkomstige toepassing werkgever
 
-Hetgeen in dit besluit wordt bepaald over de korpschef is van overeenkomstige toepassing op de werkgever van de ambtenaren bedoeld in [artikel 141, onderdeel b en c van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).  
+Hetgeen in dit besluit wordt bepaald over de korpschef is van overeenkomstige toepassing op de werkgever van de ambtenaren bedoeld in [artikel 141, onderdeel b en c van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md). 
 
 ### Artikel  3  
 
 ####Reikwijdte
 
 1.  Opsporingsambtenaren als bedoeld in de [artikelen 141, onderdelen b tot en met d](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [142 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) kunnen worden belast met de plaatsing, verwijdering en inzet van een technisch hulpmiddel voor observatie.   
-2.  Opsporingsambtenaren als bedoeld in [artikel 141, onderdeel b, van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) kunnen worden belast met de plaatsing, verwijdering en inzet van een technisch hulpmiddel voor het opnemen van vertrouwelijke communicatie en het opnemen van telecommunicatie.   
+2.  Opsporingsambtenaren als bedoeld in [artikel 141, onderdeel b, van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) kunnen worden belast met de plaatsing, verwijdering en inzet van een technisch hulpmiddel voor het opnemen van vertrouwelijke communicatie en het opnemen van telecommunicatie.  
 
 ### Artikel  4  
 
 ####Wederzijdse erkenningsclausules
 
 1.  Met technische hulpmiddelen in dit besluit worden gelijkgesteld technische hulpmiddelen die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd in een staat, niet zijnde een lid van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.   
-2.  Met een keuringsrapport als bedoeld in dit besluit wordt gelijkgesteld een verklaring van goedkeuring, afgegeven door een onafhankelijke keuringsinstelling in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lid van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, welke verklaring is afgegeven op basis van onderzoekingen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale onderzoekingen wordt nagestreefd.   
+2.  Met een keuringsrapport als bedoeld in dit besluit wordt gelijkgesteld een verklaring van goedkeuring, afgegeven door een onafhankelijke keuringsinstelling in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lid van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, welke verklaring is afgegeven op basis van onderzoekingen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale onderzoekingen wordt nagestreefd.  
 
 ### Hoofdstuk  2  
 
@@ -64,8 +64,8 @@ Hetgeen in dit besluit wordt bepaald over de korpschef is van overeenkomstige to
 
 ####Opslag technische hulpmiddelen
 
-1.  Door of namens de korpschef wordt een plaats aangewezen voor de opslag van technische hulpmiddelen en wordt ervoor zorggedragen dat deze plaats beveiligd is en uitsluitend toegankelijk is voor of onder begeleiding van daartoe geautoriseerd personeel.   
-2.  Door of namens de korpschef worden één of meer terzake deskundige ambtenaren aangewezen, die belast zijn met de opslag van technische hulpmiddelen.   
+1.  Door of namens de korpschef of Onze Minister van Defensie wordt een plaats aangewezen voor de opslag van technische hulpmiddelen en wordt ervoor zorggedragen dat deze plaats beveiligd is en uitsluitend toegankelijk is voor of onder begeleiding van daartoe geautoriseerd personeel.   
+2.  Door of namens de korpschef of Onze Minister van Defensie worden één of meer terzake deskundige ambtenaren aangewezen, die belast zijn met de opslag van technische hulpmiddelen.  
 
 ### Artikel  6  
 
@@ -74,7 +74,7 @@ Hetgeen in dit besluit wordt bepaald over de korpschef is van overeenkomstige to
 1.  De ambtenaar, bedoeld in artikel 5, tweede lid, verstrekt, na ontvangst van een kopie van het daarop betrekking hebbende bevel, het voor de uitvoering daarvan benodigde technische hulpmiddel aan de met de uitvoering belaste ambtenaar. Indien het bevel mondeling is gegeven wordt, in afwijking van de eerste volzin, binnen drie dagen een kopie van het schriftelijke bevel overgelegd.   
 2.  De ambtenaar, bedoeld in artikel 5, tweede lid, verstrekt, na ontvangst van een verzoek door of namens de korpschef voor verstrekking van technische hulpmiddelen voor oefendoeleinden het benodigde technische hulpmiddel aan de met de uitvoering belaste ambtenaar.   
 3.  De ambtenaar, bedoeld in artikel 5, tweede lid, registreert de verstrekking van het technische hulpmiddel. De registratie bevat ten minste de aanduiding van het technische hulpmiddel, het tijdstip van de verstrekking en de verwachte duur van de inzet van het hulpmiddel en de naam van de officier van justitie die het bevel heeft gegeven onderscheidenlijk de korpschef die het verzoek heeft ingediend.   
-4.  Het technische hulpmiddel wordt verstrekt voor de periode die nodig is voor de uitvoering van het bevel onderscheidenlijk de duur van de oefening.   
+4.  Het technische hulpmiddel wordt verstrekt voor de periode die nodig is voor de uitvoering van het bevel onderscheidenlijk de duur van de oefening.  
 
 ### Artikel  7  
 
@@ -83,20 +83,20 @@ Hetgeen in dit besluit wordt bepaald over de korpschef is van overeenkomstige to
 1.  De plaatsing van het technische hulpmiddel geschiedt door een daartoe door of namens de korpschef aangewezen en terzake deskundige opsporingsambtenaar.   
 2.  Opsporingsambtenaren belast met het plaatsen van een technisch hulpmiddel voor het opnemen van vertrouwelijke communicatie in een woning of andere besloten plaats zijn in het bezit van een door Onze Minister aangewezen document.   
 3.  Opsporingsambtenaren belast met het plaatsen van een technisch hulpmiddel voor het opnemen van telecommunicatie zijn in het bezit van een door Onze Minister aangewezen document.   
-4.  De opsporingsambtenaar maakt van het plaatsen van het technische hulpmiddel proces-verbaal op.   
+4.  De opsporingsambtenaar maakt van het plaatsen van het technische hulpmiddel proces-verbaal op.  
 
 ### Artikel  8  
 
 ####Controle technische hulpmiddelen
 
-Voorafgaand aan en na afloop van de daadwerkelijke inzet van een technisch hulpmiddel controleert de met de uitvoering belaste opsporingsambtenaar of wordt voldaan aan de eisen, gesteld in de artikelen 10 tot en met 14 en legt daarvan verantwoording af in het proces-verbaal als bedoeld in artikel 7, vierde lid. Indien bij de controle een technische afwijking, defect, verwijdering of verandering van de oorspronkelijke beveiliging of enige andere onregelmatigheid wordt geconstateerd, maakt de opsporingsambtenaar daarvan proces-verbaal op dat aan de officier van justitie wordt gezonden.  
+Voorafgaand aan en na afloop van de daadwerkelijke inzet van een technisch hulpmiddel controleert de met de uitvoering belaste opsporingsambtenaar of wordt voldaan aan de eisen, gesteld in de artikelen 10 tot en met 14 en legt daarvan verantwoording af in het proces-verbaal als bedoeld in artikel 7, vierde lid. Indien bij de controle een technische afwijking, defect, verwijdering of verandering van de oorspronkelijke beveiliging of enige andere onregelmatigheid wordt geconstateerd, maakt de opsporingsambtenaar daarvan proces-verbaal op dat aan de officier van justitie wordt gezonden. 
 
 ### Artikel  9  
 
 ####Verwijdering technische hulpmiddelen
 
 1.  De verwijdering van het technische hulpmiddel geschiedt door een daartoe door of namens de korpschef aangewezen en terzake deskundige opsporingsambtenaar.   
-2.  Na verwijdering van het technische hulpmiddel stelt de in het eerste lid bedoelde ambtenaar het technische hulpmiddel weer in handen van de ambtenaar, bedoeld in het artikel 5, tweede lid. Deze registreert de ontvangst van de technische hulpmiddelen. De registratie bevat ten minste de aanduiding van het technische hulpmiddel, van de staat waarin het verkeert en van het tijdstip van ontvangst.   
+2.  Na verwijdering van het technische hulpmiddel stelt de in het eerste lid bedoelde ambtenaar het technische hulpmiddel weer in handen van de ambtenaar, bedoeld in het artikel 5, tweede lid. Deze registreert de ontvangst van de technische hulpmiddelen. De registratie bevat ten minste de aanduiding van het technische hulpmiddel, van de staat waarin het verkeert en van het tijdstip van ontvangst.  
 
 ### Hoofdstuk  3  
 
@@ -106,25 +106,25 @@ Voorafgaand aan en na afloop van de daadwerkelijke inzet van een technisch hulpm
 
 ####Datum en tijdregistratie
 
-Het technische hulpmiddel legt de datum en tijd waarop de signalen worden gedetecteerd, automatisch en doorlopend op de gegevensdrager vast.  
+Het technische hulpmiddel legt de datum en tijd waarop de signalen worden gedetecteerd, automatisch en doorlopend op de gegevensdrager vast. 
 
 ### Artikel  11  
 
 ####Gericht opnemen telecommunicatie
 
-Het technische hulpmiddel voor het opnemen van telecommunicatie neemt slechts de communicatie op die plaatsvindt met gebruikmaking van één of meer nummers van de individuele gebruiker of gebruikers, op wie het bevel tot het opnemen van de communicatie is gericht.  
+Het technische hulpmiddel voor het opnemen van telecommunicatie neemt slechts de communicatie op die plaatsvindt met gebruikmaking van één of meer nummers van de individuele gebruiker of gebruikers, op wie het bevel tot het opnemen van de communicatie is gericht. 
 
 ### Artikel  12  
 
 ####Beveiliging technisch hulpmiddel
 
-Indien de opsporingsambtenaar niet voortdurend aanwezig is gedurende de inzet van het technische hulpmiddel wordt het technische hulpmiddel zodanig beveiligd dat technische veranderingen achteraf zo veel mogelijk zijn vast te stellen.  
+Indien de opsporingsambtenaar niet voortdurend aanwezig is gedurende de inzet van het technische hulpmiddel wordt het technische hulpmiddel zodanig beveiligd dat technische veranderingen achteraf zo veel mogelijk zijn vast te stellen. 
 
 ### Artikel  13  
 
 ####Beveiliging transport signalen
 
-Het transport van het signaal wordt dusdanig beveiligd dat manipulatie van de signalen wordt voorkomen of achteraf is vast te stellen.  
+Het transport van het signaal wordt dusdanig beveiligd dat manipulatie van de signalen wordt voorkomen of achteraf is vast te stellen. 
 
 ### Artikel  14  
 
@@ -133,7 +133,7 @@ Het transport van het signaal wordt dusdanig beveiligd dat manipulatie van de si
 1.  De inhoud van de gedetecteerde signalen is identiek aan de op de gegevensdrager opgeslagen signalen.   
 2.  De op een gegevensdrager opgeslagen signalen worden niet bewerkt.   
 3.  Bij de opslag van signalen worden maatregelen genomen om manipulatie van de opgeslagen signalen te voorkomen en om achteraf te kunnen vaststellen of niettemin manipulatie heeft plaatsgevonden.   
-4.  Indien het technische hulpmiddel mede bestaat uit een component die selecteert welke signalen worden opgeslagen, legt de opsporingsambtenaar vast welk selectiecriterium is gehanteerd.   
+4.  Indien het technische hulpmiddel mede bestaat uit een component die selecteert welke signalen worden opgeslagen, legt de opsporingsambtenaar vast welk selectiecriterium is gehanteerd.  
 
 ### Artikel  15  
 
@@ -141,7 +141,7 @@ Het transport van het signaal wordt dusdanig beveiligd dat manipulatie van de si
 
 1.  Indien dat voor de waarneming van de opgeslagen signalen noodzakelijk is, kan een kopie van de opgeslagen signalen technisch worden bewerkt.   
 2.  De in het eerste lid bedoelde bewerking wordt uitgevoerd door een daartoe door of namens de korpschef aangewezen en terzake deskundige ambtenaar. De officier van justitie kan bepalen dat een technische bewerking wordt uitgevoerd door een deskundige, niet zijnde een ambtenaar.   
-3.  Van de bewerking wordt een schriftelijk verslag opgemaakt, waarin het proces van bewerking wordt beschreven.   
+3.  Van de bewerking wordt een schriftelijk verslag opgemaakt, waarin het proces van bewerking wordt beschreven.  
 
 ### Hoofdstuk  4  
 
@@ -149,29 +149,29 @@ Het transport van het signaal wordt dusdanig beveiligd dat manipulatie van de si
 
 ### Artikel  16  
 
-####Opnemen telecommunicatie
+####Inzet technische hulpmiddelen bij afwijkend gebruik frequentieruimte
 
-Het opnemen van telecommunicatie waarmee overeenkomstig [artikel 3.10 van de Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) een gebruik van frequentieruimte wordt gemaakt dat afwijkt van het bepaalde bij of krachtens [hoofdstuk 3 van de Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), geschiedt door een door of namens de korpschef aangewezen en terzake deskundige opsporingsambtenaar die in het bezit is van een door Onze Minister aangewezen document.  
+Bevoegd tot het gebruik van de technische hulpmiddelen, waarmee overeenkomstig [artikel 3.22 van de Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) een gebruik van frequentieruimte wordt gemaakt dat afwijkt van het bepaalde bij of krachtens [hoofdstuk 3 van de Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), is de door de korpschef of Onze Minister van Defensie aangewezen opsporingsambtenaar die voldoet aan de door Onze Minister vastgestelde eisen betreffende kennis van de juridische, operationele en technische aspecten van het gebruik van de technische hulpmiddelen. 
 
 ### Artikel  17  
 
-####Inzet technische hulpmiddelen opnemen telecommunicatie
+####Technische hulpmiddelen bij afwijkend gebruik frequentieruimte
 
-1.  Een technisch hulpmiddel voor het opnemen van telecommunicatie, waarmee overeenkomstig [artikel 3.10 van de Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) een gebruik van frequentieruimte wordt gemaakt dat afwijkt van het bepaalde bij of krachtens [hoofdstuk 3 van de Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), voldoet aan de volgende eisen: 
+1.  Een technisch hulpmiddel voor observatie of het opnemen van telecommunicatie, waarmee overeenkomstig [artikel 3.22, eerste lid, van de Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) een gebruik van frequentieruimte wordt gemaakt dat afwijkt van het bepaalde bij of krachtens [hoofdstuk 3 van de Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), voldoet aan de volgende eisen: 
 
 a. het technische hulpmiddel veroorzaakt niet meer dan een plaatselijke, zeer geringe verandering van de functionaliteiten van het desbetreffende netwerk;  
 
 b. de apparatuur is voorzien van een inrichting waarmee het uitgezonden vermogen kan worden geregeld;  
 
 c. het technische hulpmiddel is geregistreerd bij Onze Minister van Economische Zaken, Landbouw en Innovatie.     
-2.  De opsporingsambtenaar registreert de data en de tijdstippen waarop en de plaatsen waar het technische hulpmiddel is gebruikt en de tijdens het gebruik van het technische hulpmiddel gehanteerde instellingen en vermogens van het technische hulpmiddel en doet mededeling van deze gegevens aan Onze Minister van Economische Zaken, Landbouw en Innovatie.   
+2.  De opsporingsambtenaar registreert de data en de tijdstippen waarop en de plaatsen waar het technische hulpmiddel is gebruikt en de tijdens het gebruik van het technische hulpmiddel gehanteerde instellingen en vermogens van het technische hulpmiddel en doet mededeling van deze gegevens aan Onze Minister van Economische Zaken, Landbouw en Innovatie.  
 
 ### Artikel  18  
 
 ####Inzet gekeurd technisch hulpmiddel
 
 1.  Uit een keuringsrapport van het technische hulpmiddel als zodanig of van de componenten waaruit het is samengesteld blijkt dat een technisch hulpmiddel voor observatie of voor het opnemen van vertrouwelijke communicatie voldoet aan de in artikelen 10, 12, 13 en 14 gestelde eisen.   
-2.  Uit een keuringsrapport van het technische hulpmiddel als zodanig blijkt dat een technisch hulpmiddel voor het opnemen van telecommunicatie voldoet aan de in artikelen 10 tot en met 14 gestelde eisen.   
+2.  Uit een keuringsrapport van het technische hulpmiddel als zodanig blijkt dat een technisch hulpmiddel voor het opnemen van telecommunicatie voldoet aan de in artikelen 10 tot en met 14 gestelde eisen.  
 
 ### Artikel  19  
 
@@ -179,7 +179,7 @@ c. het technische hulpmiddel is geregistreerd bij Onze Minister van Economische 
 
 1.  Indien het onderzoeksbelang dit dringend vordert, kan de officier van justitie bepalen dat een technisch hulpmiddel voor observatie of voor het opnemen van vertrouwelijke communicatie wordt ingezet, hoewel niet of niet geheel wordt voldaan aan artikel 18, eerste lid.   
 2.  Het bevel van de officier van justitie vermeldt dat toepassing is gegeven aan het eerste lid en bevat een omschrijving van de aard en technische mogelijkheden van het technische hulpmiddel.   
-3.  Na afloop van de inzet wordt voor het technische hulpmiddel of de componenten waarvoor geen keuringsrapport is vastgesteld alsnog een keuringsrapport vastgesteld, tenzij de aard van het technische hulpmiddel of de betrokken componenten zich daartegen naar het oordeel van de officier van justitie verzet.   
+3.  Na afloop van de inzet wordt voor het technische hulpmiddel of de componenten waarvoor geen keuringsrapport is vastgesteld alsnog een keuringsrapport vastgesteld, tenzij de aard van het technische hulpmiddel of de betrokken componenten zich daartegen naar het oordeel van de officier van justitie verzet.  
 
 ### Artikel  20  
 
@@ -187,14 +187,14 @@ c. het technische hulpmiddel is geregistreerd bij Onze Minister van Economische 
 
 1.  Indien het onderzoeksbelang dit dringend vordert, kan de officier van justitie bepalen dat een technisch hulpmiddel voor observatie of voor het opnemen van vertrouwelijke communicatie, dat bij de AIVD in gebruik is, wordt ingezet hoewel niet of niet geheel wordt voldaan aan artikel 18, eerste lid.   
 2.  De officier van justitie doet een schriftelijk verzoek aan het hoofd van de AIVD voor de inzet van het technische hulpmiddel.   
-3.  Het bevel van de officier van justitie vermeldt dat toepassing is gegeven aan het eerste lid.   
+3.  Het bevel van de officier van justitie vermeldt dat toepassing is gegeven aan het eerste lid.  
 
 ### Artikel  21  
 
 ####Inzet internationale samenwerking
 
 1.  Indien het technische hulpmiddel wordt ingezet ter uitvoering van een rechtshulpverzoek of ten behoeve van een gemeenschappelijk onderzoeksteam als bedoeld in [artikel 552qa van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en het technische hulpmiddel in het buitenland door buitenlandse autoriteiten is geplaatst en op Nederlands grondgebied wordt ingezet, kan de officier van justitie bepalen dat een technisch hulpmiddel wordt ingezet hoewel niet of niet geheel wordt voldaan aan artikel 18, eerste lid.   
-2.  Het bevel van de officier van justitie vermeldt dat toepassing is gegeven aan het eerste lid.   
+2.  Het bevel van de officier van justitie vermeldt dat toepassing is gegeven aan het eerste lid.  
 
 ### Hoofdstuk  5  
 
@@ -206,14 +206,14 @@ c. het technische hulpmiddel is geregistreerd bij Onze Minister van Economische 
 
 1.  Onze Minister wijst een onderdeel van een landelijke eenheid als bedoeld in [artikel 25, eerste lid, onderdeel b, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md) aan als keuringsdienst.   
 2.  Onze Minister kan één of meer andere organisaties aanwijzen als keuringsdienst.   
-3.  Onze Minister kan regels stellen bij de aanwijzing van een keuringsdienst.   
+3.  Onze Minister kan regels stellen bij de aanwijzing van een keuringsdienst.  
 
 ### Artikel  23  
 
 ####Keuringsprotocol
 
 1.  De keuringsdienst legt de wijze van keuring vast in een keuringsprotocol.   
-2.  Het keuringsprotocol behoeft voorafgaande goedkeuring door Onze Minister.   
+2.  Het keuringsprotocol behoeft voorafgaande goedkeuring door Onze Minister.  
 
 ### Artikel  24  
 
@@ -229,13 +229,13 @@ b. een categoriale aanduiding;
 
 c. de periode waarvoor de keuring geldt;  
 
-d. relevante informatie met betrekking tot de inzet als technisch hulpmiddel.     
+d. relevante informatie met betrekking tot de inzet als technisch hulpmiddel.    
 
 ### Artikel  25  
 
 ####Registratie van de keuringsrapporten
 
-De keuringsdienst van de landelijke eenheid, bedoeld in artikel 22, eerste lid, houdt een centrale registratie bij van de keuringsrapporten.  
+De keuringsdienst van de landelijke eenheid, bedoeld in artikel 22, eerste lid, houdt een centrale registratie bij van de keuringsrapporten. 
 
 ### Hoofdstuk  6  
 
@@ -245,25 +245,25 @@ De keuringsdienst van de landelijke eenheid, bedoeld in artikel 22, eerste lid, 
 
 ####Overgangsbepalingen
 
-Een geldige verklaring van goedkeuring verleend op grond van het [Besluit technische hulpmiddelen bijzondere opsporingsbevoegdheden](../../../../../../AMvB/besluit/technische/hulpmiddelen/bijzondere/opsporingsbevoegdheden/BWBR0010974/README.md) wordt gelijkgesteld aan een keuringsrapport als bedoeld in artikel 24.  
+Een geldige verklaring van goedkeuring verleend op grond van het [Besluit technische hulpmiddelen bijzondere opsporingsbevoegdheden](../../../../../../AMvB/besluit/technische/hulpmiddelen/bijzondere/opsporingsbevoegdheden/BWBR0010974/README.md) wordt gelijkgesteld aan een keuringsrapport als bedoeld in artikel 24. 
 
 ### Artikel  27  
 
 ####Intrekking besluit
 
-Het [Besluit technische hulpmiddelen bijzondere opsporingsbevoegdheden](../../../../../../AMvB/besluit/technische/hulpmiddelen/bijzondere/opsporingsbevoegdheden/BWBR0010974/README.md) wordt ingetrokken.  
+Het [Besluit technische hulpmiddelen bijzondere opsporingsbevoegdheden](../../../../../../AMvB/besluit/technische/hulpmiddelen/bijzondere/opsporingsbevoegdheden/BWBR0010974/README.md) wordt ingetrokken. 
 
 ### Artikel  28  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking op 1 januari 2007.  
+Dit besluit treedt in werking op 1 januari 2007. 
 
 ### Artikel  29  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit technische hulpmiddelen strafvordering.  
+Dit besluit wordt aangehaald als: Besluit technische hulpmiddelen strafvordering. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -271,10 +271,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 20 oktober 2006  
 Beatrix  
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin 
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin   
 
 de *zevende* november 2006 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

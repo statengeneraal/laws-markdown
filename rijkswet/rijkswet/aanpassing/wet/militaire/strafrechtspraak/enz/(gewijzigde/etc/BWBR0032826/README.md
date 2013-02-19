@@ -11,58 +11,58 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State van het Koninkr
 
 ### Artikel  I  
 
-Wijzigt de Wet militaire strafrechtspraak.   
+Wijzigt de Wet militaire strafrechtspraak. 
 
 ### Artikel  II  
 
-Wijzigt het Wetboek van Militair Strafrecht.   
+Wijzigt het Wetboek van Militair Strafrecht. 
 
-### Artikel  III  
+### Artikel  III 
 
-Wijzigt de Wet militair tuchtrecht.   
+Wijzigt de Wet militair tuchtrecht. 
 
 ### Artikel  IV  
 
-Wijzigt de Wet militaire strafrechtspraak en de Wet oorlogsstrafrecht.   
+Wijzigt de Wet militaire strafrechtspraak en de Wet oorlogsstrafrecht. 
 
 ### Artikel  V  
 
-Wijzigt de Wet militaire strafrechtspraak en de Wet oorlogsstrafrecht.   
+Wijzigt de Wet militaire strafrechtspraak en de Wet oorlogsstrafrecht. 
 
 ### Artikel  VI  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  VII  
 
-Wijzigt de Wet militaire strafrechtspraak.   
+Wijzigt de Wet militaire strafrechtspraak. 
 
 ### Artikel  VIII  
 
-Wijzigt het Wetboek van Militair Strafrecht.   
+Wijzigt het Wetboek van Militair Strafrecht. 
 
 ### Artikel  IX  
 
 1.  In strafzaken waarin voor de datum van inwerkingtreding van artikel II, onderdeel O, eerste lid, van deze rijkswet voorwaarden ter voorkoming van strafvervolging zijn gesteld overeenkomstig [artikel 59 van het Wetboek van Militair Strafrecht](../../../../../../../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md), blijven de wettelijke bepalingen die door de artikelen II, onderdeel O, en III, onderdeel C, van deze rijkswet worden gewijzigd, van toepassing zoals deze luidden voor de inwerkingtreding van de desbetreffende onderdelen van deze rijkswet.   
-2.  In strafzaken waarin voor de datum van inwerkingtreding van [artikel II, onderdeel O, van de Wet OM-afdoening](../../../../../../../../../../wet/wet/om-afdoening/BWBR0020074/README.md) voorwaarden ter voorkoming van strafvervolging zijn gesteld overeenkomstig [artikel 74 van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), blijft de wettelijke bepaling die door artikel III, onderdeel D, van deze rijkswet wordt gewijzigd, van toepassing zoals die luidde voor de inwerkingtreding van het desbetreffende onderdeel van de [Wet OM-afdoening](../../../../../../../../../../wet/wet/om-afdoening/BWBR0020074/README.md).   
+2.  In strafzaken waarin voor de datum van inwerkingtreding van [artikel II, onderdeel O, van de Wet OM-afdoening](../../../../../../../../../../wet/wet/om-afdoening/BWBR0020074/README.md) voorwaarden ter voorkoming van strafvervolging zijn gesteld overeenkomstig [artikel 74 van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), blijft de wettelijke bepaling die door artikel III, onderdeel D, van deze rijkswet wordt gewijzigd, van toepassing zoals die luidde voor de inwerkingtreding van het desbetreffende onderdeel van de [Wet OM-afdoening](../../../../../../../../../../wet/wet/om-afdoening/BWBR0020074/README.md).  
 
 ### Artikel  X  
 
-Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
-Lasten en bevelen dat deze in het Staatsblad, in het Afkondigingsblad van Aruba, in het Publicatieblad van Curaçao en in het Afkondigingsblad van Sint Maarten zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad, in het Afkondigingsblad van Aruba, in het Publicatieblad van Curaçao en in het Afkondigingsblad van Sint Maarten zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 13 december 2012  
 Beatrix  
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten   
 
-De Minister van Defensie, 
+De Minister van Defensie,  
 J. A. Hennis-Plasschaert   
 
 de *vierentwintigste* januari 2013 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

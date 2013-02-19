@@ -24,7 +24,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 *geavanceerde elektronische handtekening:* een handtekening die voldoet aan de eisen van [artikel 15a, tweede lid, onderdelen a tot en met f, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md);  
 
-*wet:* de [Aanbestedingswet op defensie- en veiligheidsgebied](../../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md).    
+*wet:* de [Aanbestedingswet op defensie- en veiligheidsgebied](../../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md).   
 
 ### Hoofdstuk  2  
 
@@ -44,7 +44,7 @@ d. een verklaring aangaande de wijze waarop voldaan wordt aan de selectiecriteri
 
 e. een verklaring aangaande de juistheid van de ingevulde eigen verklaring, de bevoegdheid van de ondertekenaar;  
 
-f. de datum en de handtekening.    
+f. de datum en de handtekening.   
 
 ### Hoofdstuk  3  
 
@@ -56,12 +56,12 @@ f. de datum en de handtekening.
 2.  Een aanbestedende dienst of speciale-sectorbedrijf maakt gebruik van communicatiemiddelen die algemeen beschikbaar zijn en waardoor de toegang van de ondernemers tot de aanbestedingsprocedure niet wordt beperkt.   
 3.  Een aanbestedende dienst of speciale-sectorbedrijf waarborgt bij de mededelingen, uitwisselingen en opslag van informatie de integriteit van de gegevens en de vertrouwelijkheid van de inschrijvingen en van de verzoeken tot deelneming.   
 4.  Een aanbestedende dienst of speciale-sectorbedrijf neemt pas na het verstrijken van de uiterste termijn voor de indiening kennis van de inhoud van de verzoeken tot deelneming en van de inschrijvingen.   
-5.  Een aanbestedende dienst of speciale-sectorbedrijf gebruikt voor mededelingen langs elektronische weg middelen die, evenals de technische kenmerken daarvan, niet-discriminerend zijn en algemeen beschikbaar en welke in combinatie met algemeen gebruikte informatie- en communicatietechnologieproducten kunnen functioneren.   
+5.  Een aanbestedende dienst of speciale-sectorbedrijf gebruikt voor mededelingen langs elektronische weg middelen die, evenals de technische kenmerken daarvan, niet-discriminerend zijn en algemeen beschikbaar en welke in combinatie met algemeen gebruikte informatie- en communicatietechnologieproducten kunnen functioneren.  
 
 ### Artikel  4  
 
 1.  Een aanbestedende dienst of speciale-sectorbedrijf waarborgt dat verzoeken tot deelneming aan een procedure voor de gunning van een opdracht schriftelijk of telefonisch gedaan kunnen worden.   
-2.  Wanneer verzoeken tot deelneming telefonisch worden gedaan, zendt de aanbestedende dienst of het speciale-sectorbedrijf vóór het verstrijken van de ontvangsttermijn een schriftelijke bevestiging.   
+2.  Wanneer verzoeken tot deelneming telefonisch worden gedaan, zendt de aanbestedende dienst of het speciale-sectorbedrijf vóór het verstrijken van de ontvangsttermijn een schriftelijke bevestiging.  
 
 ### Artikel  5  
 
@@ -85,11 +85,11 @@ f. tijdens de verschillende fasen van de aanbestedingsprocedure alleen een gelij
 
 g. het gelijktijdig optreden van de gemachtigde personen slechts na de opgegeven datum toegang tot de verstrekte informatie kan geven, en  
 
-h. de ontvangen en openbaar gemaakte informatie uitsluitend toegankelijk blijft voor de tot inzage gemachtigde personen.     
+h. de ontvangen en openbaar gemaakte informatie uitsluitend toegankelijk blijft voor de tot inzage gemachtigde personen.    
 
 ### Artikel  6  
 
-Een aanbestedende dienst of speciale-sectorbedrijf kan vrijwillige accreditatieregelingen instellen of handhaven om te komen tot een hoger niveau van de certificeringsdienst van de middelen, bedoeld in artikel 5, vijfde lid.  
+Een aanbestedende dienst of speciale-sectorbedrijf kan vrijwillige accreditatieregelingen instellen of handhaven om te komen tot een hoger niveau van de certificeringsdienst van de middelen, bedoeld in artikel 5, vijfde lid. 
 
 ### Hoofdstuk  4  
 
@@ -97,11 +97,11 @@ Een aanbestedende dienst of speciale-sectorbedrijf kan vrijwillige accreditatier
 
 ### Artikel  7  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Aanbestedingsbesluit op defensie- en veiligheidsgebied.  
+Dit besluit wordt aangehaald als: Aanbestedingsbesluit op defensie- en veiligheidsgebied. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -109,13 +109,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 5 februari 2013  
 Beatrix  
 
-De Minister van Economische Zaken, 
+De Minister van Economische Zaken,  
 H.G.J. Kamp   
 
-De Minister van Defensie, 
+De Minister van Defensie,  
 J.A. Hennis-Plasschaert   
 
 de *vijftiende* februari 2013 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    

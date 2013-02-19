@@ -92,40 +92,23 @@ In witness whereof, the undersigned, being duly authorised by their respective G
 
 ### Annex  
 
-1. The Government of the Netherlands grants to the Government of Israel the right to conduct air transport services by an air carrier of Israel nationality designated by the latter country on the routes specified in Schedule I.  
+1, 2 Each Contracting Party shall have the right to designate in writing to the other Contracting Party one or more airlines for the purpose of operating the agreed services on the specified routes  
 
-2. The Government of Israel grants to the Government of the Netherlands the right to conduct air transport services by an air carrier of Netherlands nationality designated by the latter country on the routes specified in Schedule II.  
+3.  Vervallen.   
 
-3. The air carrier designated by each of the Contracting Parties under the conditions provided in this Agreement will, in accordance with the provisions of this Agreement and Annex, enjoy in the territory of the other Contracting Party.rights of transit, of stops for non-traffic purposes and of commercial entry and departure for international traffic in passengers, cargo and mail on each of the routes specified in the Schedules attached.  
+4.  Vervallen.   
 
-4. In the operation by the air carrier of either Contracting Party of trunk services described in the present Annex, the interests of the air carriers of the other Contracting Party shall be taken into consideration so as not to affect unduly the services which the latter provides on all or part of the same route.  
+5.  Vervallen.   
 
-5. The air transport services offered by the carriers of both, countries shall bear a close relationship to the requirements of the public for such services.  
+6.  Vervallen.   
 
-6. The services provided by a designated air carrier under this Agreement and its Annex shall retain as their primary objective the provision, at a reasonable load factor, of capacity adequate to the traffic demands between the territory of the country of which such air carrier is a national and the country of ultimate destination of the traffic, and the right of the air carrier of either country to embark and to disembark at points in the territory of the other country international traffic destined for or coming from third countries at a point or points specified in the Schedules attached, shall be applied in accordance with the general principles of orderly development to which both Governments subscribe and shall be subject to the general principle that capacity shall be related: 
-
-a. to traffic requirements between the country of which the air carrier is a national and the countries of destination of the traffic;  
-
-(b) to the requirements of trough airline operations; and  
-
-(c) to the traffic requirements of the area through which the airline passes after taking account of local and regional services.    
-
-7. 
-(1) The tariffs on any agreed service shall be established at reasonable levels, due regard being paid to all relevant factors including cost of operation, reasonable profit, characteristics of service (such as standards of speed and accomodation) and the tariffs of other airlines for any part of the specified route.  
-
-(2) These tariffs, together with the rates of any agency commission used in conjunction with them shall, if possible, be agreed between the designated airlines concerned, in consultation with other airlines operating over the whole or part of the route, and such agreement shall, where possible, be reached through the rate-fixing machinery of the International Air Transport Association. The tariffs so agreed shall be subject to the approval of the aeronautical authorities of both Contracting Parties.  
-
-(3) If the designated airlines cannot agree, or if for some other reason a tariff cannot be agreed in accordance with the provisions of paragraph (2), the aeronautical authorities of the Contracting Parties shall try to determine the tariffs by agreement between themselves.  
-
-(4) If the aeronautical authorities cannot agree the dispute shall be settled in accordance with the provisions of Article 9.  
-
-(5) No tariff shall come into effect if the aeronautical authorities of either Contracting Party are dissatisfied with it except under the terms of paragraph (3) of Article 9.    
+7.  Vervallen.   
 
 8. The aeronautical authorities of either Contracting Party shall supply to the aeronautical authorities of the other Contracting Party at their request such periodic or other statements of statistics as may be reasonably required for the purpose of keeping under review the implementation of the Agreement and in particular the capacity provided on the agreed services by the designated airlines of the first Contracting Party. Such statements shall include all information required to determine the amount of traffic carried by those airlines on the agreed services and the origins and destinations of such traffic.     
 
 ### Schedule  I  
 
-Routes on which air services may be operated by the designated airline of the State of Israel:  
+Routes on which air services may be operated by the designated airline of the State of Israël:  
 
 |
 |
@@ -137,7 +120,7 @@ Routes on which air services may be operated by the designated airline of the Ki
 
 |
 |
-| Points in the Netherlands:  Intermediate points:  Points in Israel:  Points beyond:  | any point  any point  any point  any point  |
+| Points in the Netherlands:  Intermediate points:  Points in Israël:  Points beyond:  | any point  any point  any point  any point  |
 
 ####Luchtvaartovereenkomst tussen de Nederlandse Regering en de Regering van Israel
 
@@ -175,7 +158,19 @@ Bewijzen van luchtwaardigheid, bewijzen van geschiktheid en vergunningen, uitger
 
 ### Artikel  IV bis  
 
-De tekst van de vertaling is niet beschikbaar.   
+####VEILIGHEIDSCLAUSULE
+
+1.  Elke Partij kan te allen tijde verzoeken om overleg inzake veiligheidsnormen op elk gebied met betrekking tot bemanning, luchtvaartuigen of de exploitatie ervan die zijn aangenomen door de andere Partij. Dit overleg vindt plaats binnen dertig dagen na dat verzoek.   
+2.  Indien na dit overleg de ene Partij van mening is dat de andere Partij niet op doeltreffende wijze veiligheidsnormen handhaaft en toepast die ten minste gelijk zijn aan de minimumnormen die op dat moment krachtens het Verdrag van Chicago worden gesteld, stelt de eerste Partij de andere Partij in kennis van deze opvatting en van de maatregelen die nodig worden geacht om te voldoen aan deze minimumnormen en neemt de andere Partij passende corrigerende maatregelen. Indien de andere Partij niet binnen vijftien dagen of binnen een tijdvak dat zoveel langer is als kan worden overeengekomen passende maatregelen neemt, is dit een reden voor de toepassing van artikel VI van deze Overeenkomst.   
+3.  Niettegenstaande de verplichtingen genoemd in artikel 33 van het Verdrag van Chicago, wordt overeengekomen dat elk luchtvaartuig dat door de luchtvaartmaatschappij van de ene Partij wordt geëxploiteerd voor diensten naar of vanuit het grondgebied van de andere Partij, tijdens zijn verblijf binnen het grondgebied van de andere Partij, het onderwerp kan worden van onderzoek aan boord en rond het luchtvaartuig door de bevoegde vertegenwoordigers van de andere Partij ten teneinde de geldigheid van zowel de documenten van het luchtvaartuig als die van zijn bemanning en de kennelijke staat van het luchtvaartuig en zijn uitrusting (in dit artikel aangeduid als „platforminspecties”) te controleren, mits dit niet leidt tot onredelijke vertraging.   
+4.  Wanneer een dergelijke platforminspectie of reeks platforminspecties aanleiding geeft tot: 
+
+a. ernstige bezorgdheid dat een luchtvaartuig of de exploitatie van een luchtvaartuig niet voldoet aan de op dat tijdstip krachtens het Verdrag van Chicago gestelde minimumnormen, of  
+
+b. ernstige bezorgdheid dat het ontbreekt aan doeltreffend onderhoud en doeltreffende toepassing van op dat moment krachtens het Verdrag van Chicago gestelde veiligheidsnormen, dient het de Partij die de inspectie verricht, ten behoeve van de toepassing van artikel 33 van het Verdrag van Chicago, vrij te staan te concluderen dat de vereisten volgens welke het bewijs of de vergunning ten aanzien van dat luchtvaartuig of ten aanzien van de bemanning van dat luchtvaartuig was afgegeven of geldig verklaard, of dat de vereisten volgens welke dat luchtvaartuig wordt geëxploiteerd, niet gelijk zijn aan of hoger dan de krachtens het Verdrag van Chicago gestelde minimumnormen.     
+5.  In het geval dat toegang ten behoeve van het verrichten van een platforminspectie van een luchtvaartuig dat wordt geëxploiteerd door de luchtvaartmaatschappij van de ene Partij in overeenstemming met het derde lid van dit artikel wordt geweigerd door de vertegenwoordiger van die luchtvaartmaatschappij, staat het de andere Partij vrij daaruit af te leiden dat ernstige bezorgdheid als bedoeld in het vierde lid van dit artikel ontstaat en de in dat lid bedoelde conclusies te trekken.   
+6.  Elke Partij behoudt zich het recht voor de exploitatievergunning van een luchtvaartmaatschappij van de andere Partij onmiddellijk op te schorten of te wijzigen in het geval de eerste Partij concludeert, hetzij als gevolg van een platforminspectie, een reeks platforminspecties, een weigering van toegang ten behoeve van een platforminspectie, overleg of op andere gronden, dat onmiddellijke maatregelen essentieel zijn voor de veiligheid van een vlucht door de luchtvaartmaatschappij.   
+7.  Elke maatregel van de ene Partij in overeenstemming met het tweede of zesde lid van dit artikel wordt beëindigd zodra de grond voor het nemen van die maatregel ophoudt te bestaan.   
 
 ### Artikel  V  
 
@@ -217,35 +212,17 @@ Ter oorkonde waarvan de ondergetekenden, daartoe behoorlijk gemachtigd door hun 
 
 ### Bijlage  
 
-1. De Nederlandse Regering verleent aan de Regering van Israel het recht om luchtvervoersdiensten door een luchtvaartmaatschappij van Israelische nationaliteit, aangewezen door laatstgenoemd land, uit te oefenen op de in Tabel I omschreven routes.  
+1, 2 Elk van de Overeenkomstsluitende Partijen heeft het recht schriftelijk aan de andere Overeenkomstsluitende Partij een of meer luchtvaartmaatschappijen aan te wijzen voor het uitoefenen van de overeengekomen diensten op de omschreven routes  
 
-2. De Regering van Israel verleent aan de Nederlandse Regering het recht om luchtvervoersdiensten door een luchtvaartmaatschappij van Nederlandse nationaliteit, aangewezen door laatstgenoemd land, uit te oefenen op de in Tabel II omschreven routes.  
+3.  Vervallen.   
 
-3. De luchtvaartmaatschappij, welke door elk van de Overeenkomstsluitende Partijen volgens de voorwaarden van deze Overeenkomst is aangewezen, zal in overeenstemming met de bepalingen van deze Overeenkomst en Bijlage op het grondgebied van de andere Overeenkomstsluitende Partij de rechten genieten van overvliegen, van landingen voor niet verkeersdoeleinden en voor commerciële doeleinden van binnenkomst en vertrek voor internationaal verkeer van passagiers, vracht en post op elk van de, in de aangehechte Tabellen omschreven, routes.  
+4.  Vervallen.   
 
-4. Bij de exploitatie door de luchtvaartmaatschappij van elk der Overeenkomstsluitende Partijen van lange afstandsdiensten, omschreven in deze Bijlage, zullen de belangen van de luchtvaartmaatschappijen van de andere Overeenkomstsluitende Partij in aanmerking worden genomen, opdat de diensten, die deze laatste over het geheel of een gedeelte van de route verschaft, niet onredelijk worden getroffen.  
+5.  Vervallen.   
 
-5. De luchtvervoersdiensten, die worden aangeboden door de maatschappijen van beide landen, moeten nauw verband houden met de behoeften van het publiek aan zodanige diensten.  
+6.  Vervallen.   
 
-6. De diensten van een volgens deze Overeenkomst en haar Bijlage aangewezen luchtvaartmaatschappij zullen als eerste doel behouden het met een redelijke bezettingsgraad verschaffen van een vervoerscapaciteit, welke alleszins voldoet aan de behoeften aan vervoersgelegenheid tussen het grondgebied van het land, welks nationaliteit zulk een luchtvaartmaatschappij heeft, en het land van uiteindelijke bestemming van het verkeer en het recht van de luchtvaartmaatschappij van elk der landen om op punten in het grondgebied van het andere land internationale lading op te nemen of af te zetten, bestemd voor of afkomstig uit een punt of punten van derde landen als omschreven in de aangehechte Tabellen, zal worden toegepast in overeenstemming met de algemene beginselen van een ordelijke ontwikkeling, welke beide Regeringen onderschrijven en zal onderworpen zijn aan het algemene beginsel, dat de vervoerscapaciteit verband moet houden: 
-
-a. met de behoefte aan vervoersgelegenheid tussen het land, welks nationaliteit de luchtvaartmaatschappij heeft, en de landen van bestemming van het verkeer;  
-
-b. met de eisen, welke de exploitatie van doorgaande luchtlijnen stelt; en  
-
-c. met de behoefte aan vervoersgelegenheid van de gebieden waarover de luchtlijn voert, nadat rekening is gehouden met de plaatselijke en regionale diensten.    
-
-7. 
-
-(1) De tarieven op elke overeengekomen dienst zullen op een redelijk peil worden vastgesteld, waarbij behoorlijk rekening zal worden gehouden met alle terzake dienende factoren, daaronder begrepen kosten van exploitatie, redelijke winst, hoedanigheden van de dienst (zoals maatstaven voor snelheid en accomodatie) en de tarieven van andere luchtvaartmaatschappijen voor enig gedeelte van de omschreven route.  
-
-(2) Deze tarieven, tezamen met de maatstaven voor de agentencommissie die in verband daarmede gebruikelijk zijn, zullen indien mogelijk overeengekomen worden tussen de betrokken aangewezen luchtvaartmaatschappijen, in overleg met andere luchtvaartmaatschappijen, die diensten onderhouden op het geheel of een gedeelte van de route, en zulk een overeenkomst zal, zo mogelijk, worden bereikt door middel van de tarievenafspraken van de „International Air Transport Association”. De aldus overeengekomen tarieven zullen onderworpen zijn aan de goedkeuring van de luchtvaartautoriteiten van beide Overeenkomstsluitende Partijen.  
-
-(3) Indien de aangewezen luchtvaartmaatschappijen niet tot overeenstemming komen of, indien om een of andere reden een tarief niet kan worden overeengekomen in overeenstemming met de bepalingen van lid (2), dan zullen de luchtvaartautoriteiten van de Overeenkomstsluitende Partijen trachten in onderling overleg de tarieven vast te stellen.  
-
-(4) Indien de luchtvaartautoriteiten geen overeenstemming kunnen bereiken, zal het geschil worden opgelost volgens het bepaalde in Artikel IX.  
-
-(5) Geen tarief zal in werking treden, indien de luchtvaartautoriteiten van een der Overeenkomstsluitende Partijen daarmede niet tevreden zijn, tenzij de bepalingen van lid (3) van Artikel IX toegepast zijn.    
+7.  Vervallen.   
 
 8. De luchtvaartautoriteiten van elk der Overeenkomstsluitende Partijen zullen de luchtvaartautoriteiten van de andere Overeenkomstsluitende Partij op hun verzoek zodanige periodieke of andere statistische gegevens verschaffen, als redelijker wijze geëist kunnen worden voor het beoordelen van de naleving van de Overeenkomst en in het bijzonder van de capaciteit, die door de aangewezen luchtvaartmaatschappijen van de eerste Overeenkomstsluitende Partij op de overeengekomen diensten wordt aangeboden. Zodanige gegevens zullen alle inlichtingen bevatten, welke nodig zijn om de omvang van het vervoer, dat door die luchtvaartmaatschappijen op de overeengekomen diensten wordt vervoerd, alsmede de herkomst en bestemming van zodanig vervoer vast te stellen.     
 
