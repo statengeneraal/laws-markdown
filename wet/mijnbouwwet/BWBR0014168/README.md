@@ -887,13 +887,13 @@ g. de ontvanger: de door Onze Minister van Financiën bij ministeriële regeling
 | Tijdvak  | Bedrag per km <sup>2</sup>  |
 |:---|:---|
 | 1e tot en met 6e tijdvak  | € 200   
-per 2 februari 2012 € 238.   |
+per 1 januari 2013 € 242.   |
 | 7e tot en met 9e tijdvak  | € 400   
-per 2 februari 2012 € 477.   |
+per 1 januari 2013 € 485.   |
 | Volgende tijdvakken  | € 600   
-per 2 februari 2012 € 713.   |
+per 1 januari 2013 € 725.   |
 
-2.  Het tarief over 2003 voor het houden van een winningsvergunning bedraagt € 600 per 2 februari 2012 € 713. per vierkante kilometer.   
+2.  Het tarief over 2003 voor het houden van een winningsvergunning bedraagt € 600 per 1 januari 2013 € 725. per vierkante kilometer.   
 3.  Bij het begin van ieder kalenderjaar worden de voor dat jaar geldende tarieven, bedoeld in het eerste en tweede lid, bij ministeriële regeling vastgesteld. Deze tarieven worden berekend aan de hand van het indexcijfer, bedoeld in [artikel 1, van het koninklijk besluit van 28 september 1992, houdende begripsomschrijving van het indexcijfer der lonen](../../../AMvB/besluit/begripsomschrijving/indexcijfer/der/lonen/BWBR0005666/README.md) (Stb. 507), zoals dat gold op 31 december van het voorgaande jaar.   
 
 ### Artikel  59  
@@ -1758,9 +1758,8 @@ d. de procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel a](..
 
 ### Artikel  142  
 
-1.  Tegen een op grond van deze wet genomen besluit dat van toepassing is op het continentaal plat kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State. De eerste volzin geldt niet voor een besluit op grond van hoofdstuk 5, met uitzondering van afdeling 5.2.   
-2.  Ten aanzien van een besluit omtrent een mijnbouwmilieuvergunning en instemming met een winningsplan is [hoofdstuk 20 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) van overeenkomstige toepassing, met dien verstande dat [artikel 20.3 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet van toepassing is op een besluit omtrent een mijnbouwmilieuvergunning voor een mijnbouwwerk te plaatsen of geplaatst aan de zeezijde van de in de bijlage bij deze wet vastgelegde lijn en een winningsplan voorzover het winnen van delfstoffen geschiedt vanuit een voorkomen dat is gelegen aan de zeezijde van de in de bijlage bij deze wet vastgelegde lijn.   
-3.  Op het beroep tegen besluiten op grond van hoofdstuk 5, met uitzondering van de in het eerste lid, tweede volzin, genoemde afdeling, is [hoofdstuk V, afdelingen 2 tot en met 4 van de Algemene wet rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing, met dien verstande dat hoger beroep en beroep in cassatie kunnen worden ingesteld door de belanghebbende die bevoegd was beroep bij de rechtbank, onderscheidenlijk hoger beroep bij het gerechtshof, in te stellen en door het bestuursorgaan dat bevoegd was het bestreden besluit te nemen.   
+1.  Ten aanzien van een besluit omtrent een mijnbouwmilieuvergunning en instemming met een winningsplan is [hoofdstuk 20 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) van overeenkomstige toepassing, met dien verstande dat [artikel 20.3 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet van toepassing is op een besluit omtrent een mijnbouwmilieuvergunning voor een mijnbouwwerk te plaatsen of geplaatst aan de zeezijde van de in de bijlage bij deze wet vastgelegde lijn en een winningsplan voorzover het winnen van delfstoffen geschiedt vanuit een voorkomen dat is gelegen aan de zeezijde van de in de bijlage bij deze wet vastgelegde lijn. De eerste volzin is van overeenkomstige toepassing op een besluit omtrent instemming met een winningsplan of opslagplan als bedoeld in artikel 39, eerste lid.   
+2.  Op het beroep tegen besluiten op grond van de afdelingen 5.1.1, 5.1.2, 5.3, 5.4 en 5.5 is [hoofdstuk V, afdelingen 2](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [3, van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.   
 
 ### Hoofdstuk  11  
 
