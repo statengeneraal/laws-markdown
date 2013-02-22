@@ -61,17 +61,19 @@ h. het behandelen van klachten als bedoeld in [artikel 9:1 van de Algemene wet b
 
 a. het ontwikkelen van het departementale persvoorlichtingsbeleid en het leveren van een bijdrage aan het interdepartementale persvoorlichtingsbeleid;  
 
-b. het ten behoeve van de beleidsontwikkeling beoordelen en signaleren van publicitaire aspecten van beleidsvoornemens en het adviseren van de bewindspersonen, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal, de inspecteur-generaal Sociale Zaken en Werkgelegenheid en de directies over de presentatie van beleid aan de pers;  
+b. het ten behoeve van de beleidsontwikkeling beoordelen en signaleren van publicitaire aspecten van beleidsvoornemens en het strategisch adviseren van de bewindspersonen, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal, de inspecteur-generaal Sociale Zaken en Werkgelegenheid en de directeuren over de presentatie van beleid aan de pers;  
 
-c. het adviseren van de bewindspersonen over contacten met de pers en externe optredens;  
+c. het adviseren en begeleiden van de bewindspersonen, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal, de inspecteur-generaal Sociale Zaken en Werkgelegenheid en de directeuren over en tijdens contacten met de pers en bij externe optredens;  
 
-d. het coördineren en uitvoeren van de persvoorlichting en de woordvoering en het organiseren en tot stand brengen van externe optredens en toespraken van de bewindspersonen, de secretaris-generaal en de plaatsvervangend secretaris-generaal;  
+d. het coördineren en uitvoeren van de persvoorlichting en de woordvoering en het organiseren en tot stand brengen van externe optredens en toespraken van de bewindspersonen, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal, de inspecteur-generaal Sociale Zaken en Werkgelegenheid en de directeuren;  
 
 e. het waarborgen van een goede technische, organisatorische en sociale infrastructuur voor de communicatie met de pers;  
 
-f. het leveren van bijdragen aan de internetsites van het ministerie, met name gericht op de nieuwsrubrieken;  
+f. het leveren van bijdragen aan de internetsites en sociale media van het ministerie, met name gericht op de nieuwsrubrieken;  
 
-g. het registreren van de uitnodigingen van de bewindspersonen.     
+g. het registreren van en adviseren over de uitnodigingen van de bewindspersonen;  
+
+h. het onderhouden van contacten met de afdelingen persvoorlichting van voor het ministerie cruciale stakeholders, zoals het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de sociale partners.     
 2.  Het hoofd van de afdeling Woordvoering en Publiciteit wordt bijgestaan door onder hem ressorterende teamleiders.   
 
 ### Artikel  5  
@@ -108,7 +110,13 @@ n. het adviseren van de communicatieadviseurs en woordvoerders, beleidsdirecties
 
 o. het vergaren, analyseren en duiden van omgevingskennis;  
 
-p. het verzorgen van de eindredactie en het coördineren van de samenstelling van het personeelsblad van het ministerie.    
+p. het verzorgen van de eindredactie en het coördineren van de samenstelling van het personeelsblad van het ministerie;  
+
+q. het verzorgen van de eindredactie van het intranet;  
+
+r. het verzorgen van de nieuwsvoorziening op het intranet;  
+
+s. het onderhouden van de contacten met de afdelingen communicatie van voor het ministerie cruciale stakeholders, zoals het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de sociale partners.    
 
 ### Artikel  6  
 
@@ -120,17 +128,11 @@ b. het onderhouden van de liaisonfunctie met interdepartementaal georganiseerde 
 
 c. het opzetten en onderhouden van diverse internetsites en voeren van de eindredactie van de internetsites;  
 
-d. het samenstellen, afstemmen en logistiek coördineren van brochures voor diverse doelgroepen;  
+d. het beantwoorden van specialistische vragen die via de telefoon, per e-mail en de backoffice binnenkomen bij de Arbeidsinspectie, Postbus 51 en Antwoordvoorbedrijven;  
 
-e. het beantwoorden van specialistische vragen die via de telefoon, per e-mail en de backoffice binnenkomen bij de Arbeidsinspectie, Postbus 51 en Antwoordvoorbedrijven;  
+e. het publiceren van persberichten;  
 
-f. het verzorgen van de eindredactie van het Intranet;  
-
-g. het verzorgen van de nieuwsvoorziening op het Intranet;  
-
-h. het publiceren van persberichten;  
-
-i. het publiceren van kamerstukken.     
+f. het publiceren van kamerstukken.     
 2.  Het hoofd van de afdeling Publiek en Informatie wordt bijgestaan door een onder hem ressorterende teamleider.   
 
 ### Artikel  7  
@@ -146,7 +148,7 @@ c. het directiebreed leveren van de geïntegreerde managementinformatie op het g
 d. het adviseren over en het monitoren van de organisatorische, financiële en personele consequenties van de interdepartementale ontwikkelingen in Voorlichtingsraad-verband;  
 
 e. het monitoren van de implementatie van de taakstelling binnen de directie Communicatie.     
-2.  Het hoofd van de afdeling Stafbureau is verantwoordelijk voor de Secretariaatsunit. Op de Secretariaatsunit worden secretariaatstaken uitgevoerd, zoals het agendabeheer, de postverwerking, het beantwoorden van de telefoon, het voorbereiden van vergaderingen, het archiveren en administreren van stukken, het notuleren, het coördineren van de huisvesting en het beheren van kantoorartikelen.   
+2.  Het hoofd van de afdeling Stafbureau is verantwoordelijk voor de Secretariaatsunit. Op de Secretariaatsunit worden secretariaatstaken uitgevoerd, zoals het agendabeheer, de digitale postverwerking, het beantwoorden van de telefoon, het voorbereiden van vergaderingen, het archiveren en administreren van stukken, het notuleren, het coördineren van de huisvesting en het beheren van kantoorartikelen.   
 
 ### §  3  
 
@@ -165,7 +167,11 @@ b. het houden van manager-medewerkergesprekken;
 c. verlof van medewerkers;  
 
 d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.     
-4.  In aanvulling op het eerste lid wordt mandaat en machtiging verleend aan het hoofd en de teamleider van de afdeling Publiek en Informatie met betrekking tot het paraferen van concepten van antwoorden op persoonlijke brieven van burgers, die direct aan bewindspersonen gericht zijn.   
+4.  In aanvulling op het eerste lid wordt aan het hoofd en de teamleider van de afdeling Publiek en Informatie mandaat en machtiging verleend met betrekking tot: 
+
+a. het paraferen van concepten van antwoorden op persoonlijke brieven en e-mails van burgers, die direct aan bewindspersonen gericht zijn;  
+
+b. het ondertekenen van de vervolgcorrespondentie naar aanleiding van persoonlijke brieven en e-mails van burgers die aan bewindspersonen gericht zijn en persoonlijke brieven en e-mails die aan het ministerie gericht zijn.     
 
 ### Artikel  9  
 

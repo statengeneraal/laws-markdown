@@ -29,7 +29,7 @@ In deze regeling wordt verstaan onder:
 
 – *industrieel onderzoek:* industrieel onderzoek als bedoeld in paragraaf 2.2, onderdeel f, van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);  
 
-– 
+–  *kennisinstelling:*  
 
 1° een onder a, b, c, f, g of h van de [bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) genoemde instelling voor hoger onderwijs,  
 
@@ -696,21 +696,49 @@ In deze paragraaf wordt verstaan onder:
 
 – *aardwarmte:* aardwarmte in de zin van [artikel 1, onderdeel b, van de Mijnbouwwet](../../../../../../wet/mijnbouwwet/BWBR0014168/README.md);  
 
-– *aardwarmteproject:* het mogelijk maken van de winning en toepassing van aardwarmte van ten minste 500 meter diepte door het boren van een productieput en een injectieput en het plaatsen van een pompinstallatie;  
+– *aardwarmteproject:* het mogelijk maken van de winning en toepassing van aardwarmte met een diepte van de top van de aquifer van ten minste 500 meter tot ten hoogste 3500 meter, door het boren van een doublet of een half doublet zonder putstimulatie en het plaatsen van een pompinstallatie;  
+
+– *alternatiefwerkzaamheden:* activiteiten om het alternatief gebruik van een put met een lager dan verwacht gerealiseerd vermogen in MW mogelijk te maken;  
+
+– *alternatief gebruik:* het gebruiken van een aardwarmteput voor andere doeleinden dan het overeenkomstig de aanvraag winnen en toepassen van aardwarmte;  
+
+– *diep aardwarmteproject:* het mogelijk maken van de winning en toepassing van aardwarmte vanaf ten minste 3500 meter diepte van de top van de aquifer door het boren van een doublet of een half doublet zonder putstimulatie en het plaatsen van een pompinstallatie;  
+
+– *doublet:* een productieput en een injectieput;  
 
 – *geologisch onderzoek:* geologisch onderzoek, inclusief het rapport opgesteld overeenkomstig het model in bijlage D bij bijlage 3.4.1;  
+
+– *geologisch risico:* het risico op een te laag gerealiseerd vermogen voor zover dit te wijten is aan specifieke aquifer parameters bestaande uit: 
+
+a. de bruto aquiferdikte,  
+
+b. de netto-bruto verhouding van de aquifer,  
+
+c. de aquifer permeabiliteit,  
+
+d. de diepte van de top van de aquifer,  
+
+e. de saliniteit van het formatiewater, of  
+
+f. de geothermische gradient;    
 
 – *gerealiseerde subsidiabele kosten:* de rechtstreeks aan het aardwarmteproject toe te rekenen, door de subsidie-ontvanger gemaakte en betaalde subsidiabele kosten;  
 
 – *gerealiseerd vermogen:* het uit de puttest gebleken werkelijke vermogen in MW, met een correctie op skin = 0;  
 
-– *maximale subsidiebedrag:* het in de beschikking tot subsidieverlening vermelde maximale subsidiebedrag, bestaande uit 85 procent van de verwachte subsidiabele kosten met een maximum van € 7.225.000;  
+– *half-doublet:* de eerste put van een doublet;  
 
-– *niet-geologische parameters:* de niet-geologische parameters, genoemd in de tabel in hoofdstuk 1, paragraaf 1.1, van het geologisch onderzoek;  
+– *maximale subsidiebedrag:* het in de beschikking tot subsidieverlening vermelde maximale subsidiebedrag, bestaande uit 85  procent van de verwachte subsidiabele kosten met een maximum van € 7.225.000 voor een aardwarmteproject en € 12.750.000 voor een diep aardwarmteproject;  
 
-– *puttest:* test van het vermogen van de putten, uitgevoerd en geïnterpreteerd overeenkomstig bijlage B bij bijlage 3.4.2;  
+– *niet-geologische parameters:* de niet-geologische parameters, genoemd in de tabel in hoofdstuk 1, paragraaf 1.1, van het geologisch onderzoek;  
 
-– *restwaarde:* de opbrengst van het project bij de economisch meest rendabele alternatieve toepassing gedurende twaalf jaar;  
+– *puttest:* test van het vermogen van de put of putten, uitgevoerd en geïnterpreteerd overeenkomstig bijlage B bij bijlage 3.4.2;  
+
+– *putstimulatie:* het uitvoeren van technieken die leiden tot een verlaagde weerstand voor het toestromen van vloeistof van het reservoir naar de put of vice versa, zodat de productiviteit of injectiviteit van de put wordt verhoogd;  
+
+– *restwaarde:* de opbrengst van het project bij de economisch meest rendabele alternatieve toepassing gedurende 15 jaar;  
+
+– *verbeterwerkzaamheden:* werkzaamheden aan de productieput, injectieput of pompinstallatie om het gerealiseerde vermogen van het doublet in MW te verhogen;  
 
 – *verwachte subsidiabele kosten:* de in de beschikking tot subsidieverlening vermelde subsidiabele kosten;  
 
@@ -718,178 +746,220 @@ In deze paragraaf wordt verstaan onder:
 
 ### Artikel  3.4.2  
 
-1.  De minister, in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit, verstrekt op aanvraag een subsidie aan degene die in Nederland een aardwarmteproject uitvoert.   
-2.  De subsidie wordt verstrekt onder de opschortende voorwaarde dat op het beoogde stratigrafische niveau op de beoogde locatie en bij de in de beschikking tot subsidieverlening vermelde niet-geologische parameters, het gerealiseerd vermogen lager is dan het verwacht vermogen.   
+1.  De minister verstrekt op aanvraag een subsidie aan degene die in Nederland uitvoert: 
+
+a. een aardwarmteproject;  
+
+b. een diep aardwarmteproject.     
+2.  De minister verdeelt het beschikbare bedrag in de volgorde van binnenkomst van de aanvragen.   
+3.  De subsidie wordt verstrekt onder de opschortende voorwaarde dat door het geologische risico op het beoogde stratigrafische niveau op de beoogde locatie en bij de in de beschikking tot subsidieverlening vermelde niet-geologische parameters, het gerealiseerd vermogen lager is dan het verwacht vermogen.   
 
 ### Artikel  3.4.3  
 
-1.  De subsidie bedraagt maximaal € 7.225.000 per project. Indien verscheidene aanvragen worden gedaan die betrekking hebben op hetzelfde project en die tezamen een subsidiebedrag van meer dan € 7.225.000 betreffen, of indien het totale subsidiebedrag voor de deelnemers van een samenwerkingsverband meer bedraagt dan € 7.225.000, wordt het meerdere naar rato in mindering gebracht op de aan de betrokken aanvragers te verstrekken subsidie.   
-2.  Indien de bij de aanvraag om subsidie opgegeven subsidiabele kosten per MW vermogen lager zijn dan € 1.200.000 wordt het vermogen in de beschikking tot subsidieverlening zodanig verlaagd dat de verwachte subsidiabele kosten per MW verwacht vermogen € 1.200.000 bedragen.   
-3.  Het subsidiebedrag wordt zodanig verminderd, dat de som van de volgende bedragen niet meer dan 95 procent van de gerealiseerde subsidiabele kosten bedraagt: 
+1.  De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is twee jaar.   
+2.  De minister beslist afwijzend op een aanvraag indien: 
+
+a. uit het geologisch onderzoek blijkt dat de geschatte kans op het realiseren van het verwachte vermogen kleiner is dan 90 procent;  
+
+b. op het moment van indiening van de aanvraag om subsidie geen vergunning als bedoeld in [artikel 6 van de Mijnbouwwet](../../../../../../wet/mijnbouwwet/BWBR0014168/README.md) is afgegeven voor het betreffende gebied;  
+
+c. in het projectplan niet aannemelijk is gemaakt dat het aardwarmteproject of diep aardwarmteproject binnen twee jaar na voltooiing van de boringen zal leiden tot de start van toepassing van aardwarmte in Nederland;  
+
+d. het verwacht vermogen lager is dan 2 MW.     
+3.  Bij de beoordeling van de aanvragen wint de minister advies in van TNO.   
+
+### Artikel  3.4.4  
+
+1.  De subsidie bedraagt maximaal € 7.225.000 per aardwarmteproject.   
+2.  De subsidie bedraagt maximaal € 12.750.000 per diep aardwarmteproject.   
+3.  Het subsidiebedrag wordt zodanig verminderd, dat de som van de volgende bedragen niet meer dan 95 procent van de gerealiseerde subsidiabele kosten bedraagt: 
 
 – het subsidiebedrag,  
 
 – het bedrag aan overige voor het betreffende project aan de subsidie-ontvanger verleende dan wel vastgestelde subsidies, en  
 
-– het bedrag waarop de subsidie-ontvanger voor het betreffende project op grond van een private verzekering aanspraak kan doen.     
-
-### Artikel  3.4.4  
-
-1.  Indien het gerealiseerde vermogen van de eerste boring gelijk aan of meer dan 75% van het verwacht vermogen is, vervalt de subsidie indien de subsidie-ontvanger het aardwarmteproject staakt na de eerste boring.   
-2.  Indien het gerealiseerd vermogen van de eerste boring meer dan een derde van het verwacht vermogen is en de subsidie-ontvanger het aardwarmteproject voltooit, is artikel 3.4.6 van toepassing of, bij een verwacht vermogen groter dan 7 5/60 MW en verwachte subsidiabele kosten van meer dan € 8.500.000, artikel 3.4.7.   
-3.  Indien het gerealiseerd vermogen van de eerste boring meer dan een derde, maar minder dan 75% van het verwacht vermogen is en de subsidie-ontvanger het aardwarmteproject na de eerste boring staakt, is artikel 3.4.5 van toepassing.   
-4.  Indien het gerealiseerd vermogen van de eerste boring een derde of minder van het verwacht vermogen is, of lager dan 0,75 MW, is artikel 3.4.5 van toepassing.   
-5.  De subsidie-ontvanger staakt het aardwarmteproject op eigen aangifte dan wel door niet binnen een jaar na voltooiing van de eerste boring de tweede boring te voltooien.   
+– het bedrag waarop de subsidie-ontvanger voor het desbetreffende project op grond van een verzekering of garantstelling aanspraak kan doen.     
 
 ### Artikel  3.4.5  
 
-1.  De hoogte van de subsidie wordt berekend overeenkomstig de formule: subsidiebedrag = 0,85 * (a – b) In deze formule betekent: 
+1.  De [artikelen 10 tot en met 14a van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) zijn niet van toepassing.   
+2.  Bij een doublet komen de volgende kosten voor subsidie in aanmerking: 
 
-a: de gerealiseerde subsidiabele kosten,  
+a. kosten boring productie- en injectieput;  
 
-b: de restwaarde.   De eventuele kosten voor een tweede boring komen niet voor subsidie in aanmerking. Indien de put wordt afgedicht is de restwaarde nul. Indien de restwaarde negatief is wordt de restwaarde op nul gesteld.   
-2.  De subsidie bedraagt ten hoogste 70 procent van het maximale subsidiebedrag.   
-3.  Indien de formule in het eerste lid een negatieve uitkomst oplevert wordt de subsidie op nul gesteld.   
-4.  De betaalde premie minus 5,95 procent van de tot en met de eerste boring gerealiseerde subsidiabele kosten wordt gerestitueerd.   
+b. premie die door de subsidie-ontvanger krachtens artikel 3.4.10 wordt betaald;  
 
-### Artikel  3.4.6  
+c. kosten op- en afbouwen boorinstallatie;  
 
-1.  De hoogte van de subsidie wordt berekend overeenkomstig de formule: subsidiebedrag = 0,85 * a – ((b / c) * d) In deze formule betekent: 
+d. kosten boormanagement en -toezicht;  
 
-a: de gerealiseerde subsidiabele kosten, tot een maximum van de verwachte subsidiabele kosten, en in ieder geval niet meer dan € 8.500.000,  
+e. kosten locatie boorgereed maken;  
 
-b: het gerealiseerd vermogen in MW,  
+f. cuttings/spoeling afvoeren;  
 
-c: het verwacht vermogen,  
+g. kosten puttest en rapportage;  
 
-d: het maximale subsidiebedrag.     
-2.  De subsidie bedraagt ten hoogste het maximale subsidiebedrag.   
-3.  Indien de formule in het eerste lid een negatieve uitkomst oplevert wordt de subsidie op nul gesteld.   
-4.  Indien het gerealiseerd vermogen na de tweede boring lager is dan 0,75 MW wordt de hoogte van de subsidie berekend overeenkomstig de formule: subsidiebedrag = 0,85 * (a – b) In deze formule betekent: 
+h. kosten voor de acquisitie van data ten behoeve van de geologische evaluatie van het boorgat;  
 
-a. de gerealiseerde subsidiabele kosten,  
+i. additionele kosten voor de realisatie van alternatief gebruik voor ten hoogste 15 jaar;  
 
-b. de restwaarde.   Indien de putten worden afgedicht is de restwaarde nul. Indien de restwaarde negatief is wordt de restwaarde op nul gesteld.   
+j. additionele kosten voor de verbeterwerkzaamheden voor ten hoogste 15 jaar;  
 
-### Artikel  3.4.7  
+k. kosten onvoorzien.     
+3.  Bij een half-doublet komen de volgende kosten voor de subsidie in aanmerking: 
 
-1.  De hoogte van de subsidie wordt berekend overeenkomstig de formule: subsidiebedrag = ((a/b) * c) – ((d/e) * a) In deze formule betekent: 
+a. kosten boring eerste put;  
 
-a: het maximale subsidiebedrag,  
+b. premie die door de subsidie-ontvanger krachtens artikel 3.4.10 wordt betaald;  
 
-b: de verwachte subsidiabele kosten,  
+c. kosten opbouwen boorinstallatie;  
 
-c: de gerealiseerde subsidiabele kosten, tot een maximum van de verwachte subsidiabele kosten,  
+d. kosten boormanangement en -toezicht tot en met de realisatie van de eerste boring met inbegrip van de puttest van de eerste boring;  
 
-d: het gerealiseerde vermogen in MW,  
+e. kosten locatie bouwgereed maken;  
 
-e: het verwachte vermogen zoals vermeld in de beschikking.     
-2.  De subsidie bedraagt ten hoogste het maximale subsidiebedrag.   
-3.  Indien de formule in het eerste lid een negatieve uitkomst oplevert wordt de subsidie op nul gesteld.   
-4.  Indien het gerealiseerde vermogen na de tweede boring lager is dan 0,75 MW wordt de hoogte van de subsidie berekend overeenkomstig de formule: subsidiebedrag = (a/b) * (c – d). In deze formule betekent: 
+f. cuttings/spoeling afvoeren voor eerste boring;  
 
-a: het maximale subsidiebedrag zoals vermeld in de beschikking,  
+g. kosten puttest eerste boring en rapportage;  
 
-b: de verwachte subsidiabele kosten,  
+h. kosten voor de acquisitie van data ten behoeve van de geologische evaluatie van het boorgat van de eerste put;  
 
-c: de gemaakte subsidiabele kosten,  
+i. de additionele kosten voor de realisatie van alternatief gebruik voor de eerste put;  
 
-d: de restwaarde.   Indien de putten worden afgedicht is de restwaarde nul. Indien de restwaarde negatief is wordt de restwaarde op nul gesteld.   
+j. de additionele kosten voor de verbeterwerkzaamheden voor de eerste put;  
 
-### Artikel  3.4.8  
-
-1.  De [artikelen10 tot en met 14a van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) zijn niet van toepassing.   
-2.  Voor subsidie komen in aanmerking de ondergrondse investeringskosten, bestaande uit: 
-
-– kosten boring productie- en injectieput;  
-
-– kosten op- en afbouwen boorinstallatie;  
-
-– kosten boormanagement en -toezicht;  
-
-– kosten locatie boorgereed maken;  
-
-– cuttings/spoeling afvoeren;  
-
-– kosten puttest en rapportage;  
-
-– kosten onvoorzien.     
-3.  Voor subsidie komt in aanmerking een vast bedrag van € 500.000 voor het plaatsen van een pompinstallatie of het dichten van de put of putten.   
-4.  Indien het verwacht vermogen 7 5/60 MW of kleiner is bedraagt het totaal van de in het tweede en derde lid genoemde subsidiabele kosten maximaal € 8.500.000.   
-5.  Voor zover kosten uit andere hoofde zijn of worden gesubsidieerd of gefinancierd van overheidswege komen zij niet in aanmerking voor subsidie.   
+k. onvoorziene kosten tot en met de realisatie van de eerste boring met inbegrip van de puttest van de eerste boring.     
+4.  Indien subsidie wordt verstrekt voor een doublet komt voor subsidie in aanmerking een vast bedrag van € 500.000 voor het plaatsen van een pompinstallatie of het dichten van de put of putten.   
+5.  Indien subsidie wordt verstrekt voor een half-doublet komt voor subsidie in aanmerking een vast bedrag van € 250.000 voor het plaatsen van een pompinstallatie voor de gegarandeerde put of het dichten van deze put.   
 6.  Bij de toepassing van [artikel 6, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) blijven buiten beschouwing: 
 
 a. de subsidies op grond van: 
 
-– hoofdstuk 2 van [bijlage 2 Marktintroductie energie-innovaties van de Regeling LNV-subsidies](../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md),  
+1°. hoofdstuk 2 van [bijlage 2 Marktintroductie energie-innovaties van de Regeling LNV-subsidies](../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md),  
 
-– de Unieke kansen regeling,  
+2°. de [Unieke kansen regeling](../../../../../../ministeriele-regeling/unieke/kansen/regeling/BWBR0017364/README.md),  
 
-– de Subsidieregeling internationaal innoveren, en  
+3°. de Subsidieregeling internationaal innoveren,  
 
-– hoofdstuk 3 van de Tijdelijke energieregeling markt en innovatie; en    
+4°. [hoofdstuk 3 van de Tijdelijke energieregeling markt en innovatie](../../../../../../ministeriele-regeling/tijdelijke/energieregeling/markt/en/innovatie/BWBR0024452/README.md),  
 
-b. bijdragen van de Commissie van de Europese Gemeenschappen op grond van: 
+5°. het [Besluit stimulering duurzame energieproductie](../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md); en    
 
-– het Zevende Kaderprogramma voor activiteiten op het gebied van onderzoek, technologische ontwikkeling en demonstratie,  
+b. bijdragen van de Europese Commissie op grond van: 
 
-– het Kaderprogramma voor concurrentievermogen en innovatie,  
+1°. het Zevende Kaderprogramma voor activiteiten op het gebied van onderzoek, technologische ontwikkeling en demonstratie,  
 
-– het meerjarenprogramma voor acties op energiegebied: ‘Intelligente energie-Europa’,  
+2°. het Kaderprogramma voor concurrentievermogen en innovatie,  
 
-– het financieringsinstrument voor het Milieu: ‘LIFE+’,  
+3°. het meerjarenprogramma voor acties op energiegebied: ‘Intelligente energie- Europa’,  
 
-– Richtlijn 2003/87/EG van het Europees Parlement en de Raad van de Europese Unie van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van Richtlijn 96/61/EG van de Raad (Pb EG 2003/L275),  
+4°. het financieringsinstrument voor het Milieu: ‘Life’,  
 
-– Verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (Integrale-GMO-verordening),  
+5°. Richtlijn 2003/87/EG van het Europees Parlement en de Raad van de Europese Unie van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasemmissierechten binnen de Gemeenschap en tot wijziging van Richtlijn 96/61/EG van de Raad (Pb EG 2003/L275),  
 
-– het Europees Fonds voor Regionale Ontwikkeling,  
+6°. Verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (Integrale-GMO-verordening),  
 
-– INTERREG, en  
+7°. Het Europees Fonds voor Regionale Ontwikkeling,  
 
-– de Europese Structuur- en Cohesiefondsen.       
+8°. INTERREG, en  
+
+9°. de Europese Structuur- en Cohesiefondsen.       
 7.  Bijdragen van gemeenten en provincies worden aangemerkt als publieke cofinanciering, en blijven bij de toepassing van [artikel 6, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) buiten beschouwing.   
+
+### Artikel  3.4.6  
+
+1.  Indien subsidie is verstrekt voor het boren van een doublet geldt dat: 
+
+a. indien het gerealiseerde vermogen van de eerste boring gelijk aan of meer dan 75% is en de subsidie-ontvanger het project staakt, de subsidie op nihil wordt vastgesteld;  
+
+b. indien het gerealiseerd vermogen van de eerste boring meer dan 50% van het verwacht vermogen is en de subsidie-ontvanger het project voltooit, artikel 3.4.9 van toepassing is;  
+
+c. indien het gerealiseerd vermogen van de eerste boring meer dan 50%, maar minder dan 75% van het verwacht vermogen is en de subsidie-ontvanger het project na de eerste boring staakt, artikel 3.4.8 van toepassing is;  
+
+d. indien het gerealiseerd vermogen van de eerste boring 50% of minder van het verwacht vermogen is, artikel 3.4.8 van toepassing is.     
+2.  De subsidie-ontvanger staakt het aardwarmteproject of diep aardwarmteproject door eigen aangifte dan wel wordt geacht dit project te staken door niet binnen een jaar na voltooiing van de eerste boring het doublet te voltooien.   
+
+### Artikel  3.4.7  
+
+1.  Indien subsidie is verstrekt voor het boren van een half-doublet geldt dat: 
+
+a. indien het gerealiseerde vermogen van de eerste put gelijk aan of meer dan 75% van het verwacht vermogen is, de subsidie op nihil wordt vastgesteld indien de subsidie-ontvanger niet overgaat tot het boren van het doublet en het plaatsen van een pompinstallatie;  
+
+b. indien de subsidie-ontvanger na het boren van de eerste put overgaat tot het boren van het doublet en het plaatsen van een pompinstallatie, artikel 3.4.9 van toepassing is op de eerste put;  
+
+c. indien het gerealiseerde vermogen van de eerste put minder dan 75% van het verwacht vermogen is, artikel 3.4.8 van toepassing is wanneer de subsidieontvanger niet overgaat tot het boren van het doublet en het plaatsen van een pompinstallatie.     
+2.  Artikel 3.4.6, tweede lid, is van overeenkomstige toepassing op een aardwarmteproject en een diep aardwarmteproject waarbij de subsidie is verstrekt voor het boren van een half-doublet.   
+
+### Artikel  3.4.8  
+
+1.  De hoogte van de subsidie wordt berekend overeenkomstig de formule: Subsidiebedrag = e/f * (a – c + d) en maximaal: Subsidiebedrag = e/f * (a – b) In deze formules betekent: 
+
+a: de gerealiseerde subsidiabele kosten van de eerste boring, tot een maximum van de verwachte subsidiabele kosten,  
+
+b: de restwaarde bij alternatief gebruik zonder alternatiefwerkzaamheden,  
+
+c: de restwaarde bij alternatief gebruik na alternatiefwerkzaamheden,  
+
+d: de additionele kosten voor de realisatie van alternatief gebruik voor ten hoogste 15 jaar,  
+
+e: het maximale subsidiebedrag,  
+
+f: de verwachte subsidiabele kosten.     
+2.  Indien de put definitief wordt afgedicht is de restwaarde nul. Indien de restwaarde negatief is wordt de restwaarde op nul gesteld.   
+3.  Indien subsidie is verstrekt voor een doublet dan bedraagt de subsidie ten hoogste 60 procent van het maximale subsidiebedrag. Indien subsidie is verstrekt voor een half-doublet dan bedraagt het subsidiebedrag ten hoogste het maximale subsidiebedrag.   
+4.  Indien de formule in het eerste lid een negatieve uitkomst oplevert wordt de subsidie op nul gesteld.   
+5.  Indien subsidie is verstrekt voor een doublet dan wordt de betaalde premie minus 5,95 procent van de tot en met de eerste boring gerealiseerde subsidiabele kosten gerestitueerd.   
 
 ### Artikel  3.4.9  
 
-1.  De minister verdeelt het beschikbare bedrag in de volgorde van binnenkomst van de aanvragen.   
-2.  Bij de beoordeling van de aanvragen wint de minister advies in van TNO.   
+1.  De hoogte van de subsidie wordt berekend overeenkomstig de formule: Subsidiebedrag = f/g * a * (1 - d / c) + f/g * e en maximaal: Subsidiebedrag = f/g * a * (1 – b / c) In deze formules betekent: 
+
+a: de gerealiseerde subsidiabele kosten, tot een maximum van de verwachte subsidiabele kosten,  
+
+b: het gerealiseerd vermogen in MW, zonder verbeterwerkzaamheden,  
+
+c: het verwacht vermogen in MW, zoals vermeld in de beschikking,  
+
+d: het gerealiseerd vermogen in MW, na verbeterwerkzaamheden,  
+
+e: de additionele kosten voor de verbeterwerkzaamheden voor ten hoogste 15 jaar,  
+
+f: het maximale subsidiebedrag,  
+
+g: de verwachte subsidiabele kosten.     
+2.  De subsidie wordt op nul gesteld indien het gerealiseerd vermogen in MW, zonder verbeterwerkzaamheden, meer bedraagt dan het verwacht vermogen in MW, zoals vermeld in de beschikking.   
+3.  Indien het gerealiseerd vermogen in MW, na verbeterwerkzaamheden, meer bedraagt dan het verwacht vermogen in MW, zoals vermeld in de beschikking, wordt de term f/g * a (1 – d / c) in het eerste lid op nul gesteld.   
 
 ### Artikel  3.4.10  
 
-1.  De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is twee jaar.   
-2.  De minister beslist afwijzend op een aanvraag indien: 
-
-a. uit het geologisch onderzoek blijkt dat de geschatte kans op het realiseren van het verwachte vermogen kleiner is dan 90 procent;  
-
-b. op het moment van indiening van de aanvraag om subsidie geen vergunning als bedoeld in [artikel 6 van de Mijnbouwwet](../../../../../../wet/mijnbouwwet/BWBR0014168/README.md) is afgegeven voor het betreffende gebied;  
-
-c. in het projectplan niet aannemelijk is gemaakt dat het aardwarmteproject binnen twee jaar na voltooiing van de boringen zal leiden tot de start van toepassing van aardwarmte in Nederland;  
-
-d. het verwacht vermogen lager is dan 2 MW.     
+1.  De subsidie-ontvanger betaalt voorafgaand aan de start van het aardwarmteproject of diep aardwarmteproject een premie van 7 procent van het maximale subsidiebedrag.   
+2.  Bij verwachte subsidiabele kosten van meer dan € 8.500.000 bedraagt de premie, bedoeld in het eerste lid, € 505.750.   
+3.  Bij een diep aardwarmteproject en verwachte subsidiabele kosten van meer dan € 15.000.000 bedraagt de premie, bedoeld in het eerste lid, € 892.500.   
 
 ### Artikel  3.4.11  
 
-1.  De subsidie-ontvanger betaalt voorafgaand aan de start van het aardwarmteproject een premie van 7 procent van het maximale subsidiebedrag.   
-2.  Bij een verwacht vermogen groter dan 7 5/60 MW en verwachte subsidiabele kosten van meer dan € 8.500.000 bedraagt de premie, bedoeld in het eerste lid, € 505.750.   
+1.  De subsidie-ontvanger start binnen zes maanden na de datum van de beschikking tot subsidieverlening de uitvoering van het aardwarmteproject of diep aardwarmteproject en meldt de datum van aanvang binnen twee dagen na aanvang aan de minister. De minister kan op voorafgaand verzoek van de subsidie-ontvanger uitstel verlenen.   
+2.  Het boorgereed maken van de locatie wordt aangemerkt als start van het aardwarmteproject of diep aardwarmteproject.   
 
 ### Artikel  3.4.12  
 
-1.  De subsidie-ontvanger verstrekt de resultaten van de puttest binnen vier weken na de boring van een put.   
-2.  Het geologisch onderzoek en de puttest worden uitgevoerd door een ISO 9001 gecertificeerde instelling.   
-3.  De subsidie-ontvanger maakt de resultaten van het geologisch onderzoek en de puttest binnen vier weken na voltooiing van het aardwarmteproject openbaar.   
+1.  Een subsidie-ontvanger doet na de puttest of puttesten mededeling aan de minister over het al dan niet uitvoeren van verbeterwerkzaamheden of alternatiefwerkzaamheden.   
+2.  Onverminderd het eerste lid meldt een subsidie-ontvanger verbeterwerkzaamheden of alternatiefwerkzaamheden tot vijf jaar na de subsidievaststelling bij de minister.   
+3.  De subsidievaststelling wordt ingevolge [artikel 4:49 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), ten nadele van de ontvanger gewijzigd indien tot vijf jaar na de subsidievaststelling sprake is van een toename van het gerealiseerde vermogen als gevolg van verbeterwerkzaamheden of verhoging van de restwaarde door alternatiefwerkzaamheden als bedoeld in het eerste lid.   
 
 ### Artikel  3.4.13  
 
-1.  De subsidie-ontvanger start binnen zes maandenna de datum van de beschikking tot subsidieverlening de uitvoering van het aardwarmteproject en meldt de datum van aanvang binnen twee dagen na aanvang aan de minister. De minister kan op voorafgaand verzoek van de subsidie-ontvanger uitstel verlenen.   
-2.  Het boorgereed maken van de locatie wordt aangemerkt als start van het aardwarmteproject.   
+1.  De subsidie-ontvanger verstrekt binnen vier weken na de boring van een put en het uitvoeren van de puttest, de resultaten van deze puttest aan de Minister.   
+2.  De subsidie-ontvanger verstrekt binnen vier weken na verbeterwerkzaamheden en het uitvoeren van de puttest, de resultaten van deze puttest aan de Minister.   
+3.  Het geologisch onderzoek en de puttest worden uitgevoerd door een ISO 9001 gecertificeerde instelling.   
+4.  De subsidie-ontvanger maakt de resultaten van het geologische onderzoek binnen acht weken na de start, bedoeld in artikel 3.4.11, eerste lid, openbaar.   
+5.  De subsidie-ontvanger maakt binnen vier weken na datum van de beschikking tot subsidievaststelling de resultaten openbaar van de puttest of puttesten en overige onderzoeksresultaten die door de subsidie-ontvanger als subsidiabele kosten als bedoeld in artikel 3.4.5 worden aangemerkt.   
 
 ### Artikel  3.4.14  
 
-1.  De subsidie-ontvanger voltooit de aardwarmteboringen uiterlijk twaalf maanden na de datum van aanvang van het aardwarmteproject, bedoeld in artikel 3.4.13, eerste lid.   
-2.  De aardwarmteboringen zijn voltooid op het moment dat de productieput en de injectieput zijn geboord en de puttesten zijn uitgevoerd.   
-3.  Indien de subsidie-ontvanger het aardwarmteproject staakt na de eerste boring wordt de aardwarmteboring geacht te zijn voltooid op het moment dat de puttest na de eerste boring is uitgevoerd.   
-4.  De minister kan voor het vertragen, essentieel wijzigen of het stopzetten van activiteiten op voorafgaand verzoek van de subsidie-ontvanger ontheffing verlenen van de verplichting, bedoeld in het eerste lid.   
+1.  De subsidie-ontvanger voltooit de aardwarmteboringen uiterlijk twaalf maanden na de datum van aanvang van het aardwarmteproject of diep aardwarmteproject, bedoeld in artikel 3.4.13, eerste lid.   
+2.  De termijn, bedoeld in het eerste lid, wordt met twaalf maanden verlengd indien uit de mededeling, bedoeld in artikel 3.4.12, eerste lid, blijkt dat de subsidie-ontvanger verbeterwerkzaamheden of alternatiefwerkzaamheden wil uitvoeren.   
+3.  De minister kan voor het vertragen, essentieel wijzigen of het stopzetten van activiteiten op voorafgaand verzoek van de subsidie-ontvanger ontheffing verlenen van de verplichting, bedoeld in het eerste of tweede lid.   
 
 ### Artikel  3.4.15  
 
@@ -899,11 +969,6 @@ De [artikelen 45 tot en met 47 van het Kaderbesluit EZ-subsidies](../../../../..
 
 1.  Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier, opgenomen in bijlage 3.4.1.   
 2.  Een aanvraag om subsidievaststelling wordt ingediend met gebruikmaking van het formulier, opgenomen in bijlage 3.4.2.   
-3.  Geen accountantsverklaring wordt bijgevoegd indien: 
-
-a. bij de aanvraag om een subsidievaststelling geen aanspraak op de subsidie wordt gemaakt; of  
-
-b. het subsidiebedrag waarop bij de aanvraag om een subsidievaststelling aanspraak wordt gemaakt minder dan € 125.000 bedraagt.     
 
 ### §  3.5  
 
@@ -1143,69 +1208,95 @@ b. een subsidievaststelling is opgenomen in bijlage 2.1.3.
 
 ### §  3.7  
 
-####Experimenteerregeling Wind op Zee
+####Wind op zee-projecten
 
 ### Artikel  3.7.1  
 
-In deze paragraaf wordt verstaan onder wind-op-zeeproject: project voor industrieel onderzoek, experimentele ontwikkeling of demonstratie op het gebied van ondersteuningsconstructies of op het gebied elektriciteitsopwekking op zee door middel van windturbines met een vermogen van ten minste 4 MW, of een combinatie van beide.  
+In deze paragraaf wordt verstaan onder: 
+
+– *wind op zee-project:* een project bestaande uit fundamenteel onderzoek, industrieel onderzoek of experimentele ontwikkeling of zijnde een demonstratieproject of een combinatie van deze vormen, dat past binnen bijlage 3.7.1, met uitzondering van paragraaf 4.2.2, activiteiten 1 tot en met 3.    
 
 ### Artikel  3.7.2  
 
-De minister verstrekt op aanvraag een subsidie aan degene die in Nederland een wind-op-zeeproject uitvoert dat: 
-
-– geschikt is voor gebruik in windparken op zee, en  
-
-– bijdraagt aan kostenreductie van windenergie op zee.    
+1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een wind op zee project.   
+2.  Een samenwerkingsverband bestaat ten minste uit een onderneming en een kennisinstelling.   
+3.  Subsidie kan ook worden verstrekt aan een niet in Nederland gevestigde deelnemer in een samenwerkingsverband waarvan de penvoerder in Nederland is gevestigd.   
+4.  De subsidieontvanger voert het wind op zee project hoofdzakelijk in Nederland uit, behoudens voorafgaande schriftelijke ontheffing van de minister voor gedeeltelijke uitvoering buiten Nederland.   
+5.  In afwijking van [artikel 11, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) kiest een buiten Nederland gevestigde aanvrager voor de berekening van de subsidiabele kosten uit de integrale kostensystematiek of de loonkosten plus vaste-opslag-systematiek, opgenomen in de [artikelen 12](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) onderscheidenlijk [13 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md).   
 
 ### Artikel  3.7.3  
 
-1.  De subsidie bedraagt maximaal € 4.500.000 per aanvraag.   
-2.  De subsidie voor demonstratie van nieuwe technieken bedraagt 50 procent van de subsidiabele kosten. Het percentage wordt verhoogd met 10 procentpunten voor iedere aanvrager die een middelgrote onderneming in stand houdt en met 20 procentpunten voor iedere aanvrager die een kleine onderneming in stand houdt voor zover de subsidiabele kosten worden gemaakt en betaald door die ondernemer.   
-3.  Voor de berekening van de subsidiabele kosten met betrekking tot demonstratie van nieuwe technieken is [artikel 14a van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) van toepassing. In afwijking van artikel 1.4, derde lid, maken de aan derden verschuldigde kosten, bedoeld in [artikel 14a, tweede lid, onderdeel h, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) ten hoogste 70 procent uit van de som van de per kostensoort berekende investeringskosten van het project verminderd met de referentiekosten.   
-4.  Bij de toepassing van [artikel 6, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) worden buiten beschouwing gelaten subsidies op grond van het [Besluit stimulering duurzame energieproductie](../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) en het [Besluit subsidies regionale investeringsprojecten 2000](../../../../../../AMvB/besluit/subsidies/regionale/investeringsprojecten/2000/BWBR0011582/README.md), en bijdragen van de Commissie van de Europese Gemeenschappen op grond van het Zevende Kaderprogramma voor activiteiten op het gebied van onderzoek, technologische ontwikkeling en demonstratie.   
+1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie voor een demonstratieproject wind op zee 40 procent van de subsidiabele kosten, voor zover die kosten betrekking hebben op activiteiten, niet zijnde fundamenteel onderzoek, industrieel onderzoek of experimentele ontwikkeling.   
+2.  De subsidie bedraagt voor een wind op zee project: 
+
+a. in afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) ten hoogste 100 procent van de subsidiabele kosten voor zover deze betrekking hebben op fundamenteel onderzoek;  
+
+b. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
+
+c. 25 procent van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling.     
+3.  Indien de subsidiabele kosten betrekking hebben op een combinatie van fundamenteel onderzoek, industrieel onderzoek en experimentele ontwikkeling, bedraagt de subsidie het gewogen gemiddelde van de in het tweede lid genoemde percentages van de desbetreffende subsidiabele kosten.   
+4.  De in het eerste en tweede lid genoemde percentages worden, met uitzondering van het percentage genoemd in het tweede lid, onder a, met 10 procentpunten verhoogd, voor zover de aanvrager een MKB-ondernemer is en de subsidiabele kosten worden gemaakt en betaald door de MKB-ondernemer.   
 
 ### Artikel  3.7.4  
 
-De minister verdeelt het beschikbare bedrag op volgorde van rangschikking van de aanvragen.  
+Bij de toepassing van [artikel 6, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) worden buiten beschouwing gelaten subsidies op grond van het [Besluit stimulering duurzame energieproductie](../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) en bijdragen van de Commissie van de Europese Gemeenschappen op grond van het Zevende Kaderprogramma voor activiteiten op het gebied van onderzoek, technologische ontwikkeling en demonstratie.  
 
 ### Artikel  3.7.5  
 
-De in artikel 2.1.7 bedoelde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in [artikel 23, onderdeel e, g en h van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en de rangschikkingscriteria, bedoeld in artikel 3.7.6, tweede lid.  
+Voor zover de projectkosten betrekking hebben op activiteiten als bedoeld in artikel 3.7.3, eerste lid, is [artikel 14a van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) van toepassing en zijn de [artikelen 10, derde lid](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [38, eerste lid, onder b t/m d](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), en [41 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) niet van toepassing.  
 
 ### Artikel  3.7.6  
 
-1.  De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), is vier jaar.   
-2.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist, zodanig dat een project hoger gerangschikt wordt naarmate het meer bijdraagt aan de criteria omtrent: 
-
-a. technologische innovatie;  
-
-b. duurzaamheid;  
-
-c. technologische samenwerking;  
-
-d. economisch perspectief.     
-3.  Als criteria voor technologische innovatie, duurzaamheid, technologische samenwerking en economisch perspectief als bedoeld in het tweede lid worden respectievelijk vastgesteld: 
-
-a. de mate waarin wordt bijgedragen aan technologische vernieuwing of aan wezenlijk nieuwe toepassingen van bestaande technologieën, met name gericht op offshore windturbine ontwikkelingen en daarbij behorende ondersteuningsconstructies;  
-
-b. de mate waarin wordt bijgedragen aan verduurzaming van de energiehuishouding, met name in Nederland, in vermeden PJ’s of vermeden CO <sub>2</sub> -emissies in 2020 en in 2025;  
-
-c. de mate van doelmatigheid en doeltreffendheid van een eventueel samenwerkingsverband en de expertise van de partijen die het project uitvoeren, waaronder mede verstaan de leveranciers;  
-
-d. de mate waarin de projectresultaten bijdragen aan de kostprijsdaling van windenergie op zee en economische meerwaarde creëren in Nederland.     
-4.  Voor de rangschikking wegen de criteria genoemd in het tweede lid even zwaar.   
+De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aanvragen.  
 
 ### Artikel  3.7.7  
 
-De subsidie-ontvanger voltooit de activiteiten uiterlijk vier jaar na de datum van de beschikking tot subsidieverlening.  
+De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), is vier jaar.  
 
 ### Artikel  3.7.8  
 
+1.  Er is een Adviescommissie Wind op Zee die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in [artikel 23, aanhef en onder e tot en met h, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 3.7.9, en de rangschikkingscriteria, bedoeld in artikel 3.7.10.   
+2.  De commissie bestaat uit ten minste vijf en ten hoogste tien leden.   
+3.  De voorzitter en de andere leden worden door de minister voor een termijn van ten hoogste vier jaar benoemd.   
+
+### Artikel  3.7.9  
+
+De minister beslist afwijzend op een aanvraag indien: 
+
+a. per criterium als bedoeld in artikel 3.7.10 niet minimaal 3 van de maximaal 5 punten zijn verkregen;  
+
+b. in totaal voor de gezamenlijke criteria als bedoeld in artikel 3.7.10 niet 14 punten of meer verkregen zijn;  
+
+c. de subsidiabele kosten niet minimaal € 1 miljoen en maximaal € 3 miljoen per wind op zee-project bedragen of  
+
+d. eerder op grond van deze paragraaf een subsidie is verstrekt voor een soortgelijk project.    
+
+### Artikel  3.7.10  
+
+1.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist, hoger naarmate: 
+
+a. het project meer bijdraagt aan de kwantitatieve reductie van de kostprijs van windenergie op zee in 2020;  
+
+b. het project meer bijdraagt aan omzet en werkgelegenheid van de Nederlandse windenergie op zee sector in 2020;  
+
+c. de samenstelling van het consortium meer kwaliteit heeft, blijkend uit deelname van cruciale partijen uit de waardeketen of van het MKB en naarmate het publicatieplan en de plannen voor het intellectuele eigendom beter zijn;  
+
+d. de technische of wetenschappelijke onderzoeksmethode en het projectplan beter zijn en de projectorganisatie effectiever is.     
+2.  Voor de rangschikking tellen de criteria even zwaar.   
+3.  Geen subsidie wordt verleend voor een project dat lager is gerangschikt dan een soortgelijk project.   
+
+### Artikel  3.7.11  
+
+1.  De subsidie-ontvanger start binnen zes maanden na de datum van de beschikking tot subsidieverlening de uitvoering van het wind op zee-project.   
+2.  De subsidie-ontvanger draagt zorg voor de openbaarmaking en verspreiding van de resultaten van het project conform het publicatieplan.   
+
+### Artikel  3.7.12  
+
 Het formulier voor het indienen van een aanvraag voor: 
 
-a. een subsidie is opgenomen in bijlage 3.7.1;  
+a. een subsidie, bedoeld in artikel 3.7.2, is opgenomen in bijlage 3.7.2;  
 
-b. een subsidievaststelling is opgenomen in bijlage 2.1.3.    
+b. subsidievaststelling is opgenomen in bijlage 3.7.3.    
 
 ### §  3.8  
 
@@ -1463,30 +1554,36 @@ b. een subsidievaststelling is opgenomen in bijlage 2.1.3.
 
 ### §  3.10  
 
-#### *Proeftuinen intelligente netten* 
+#### *Smart grids* 
 
 ### Artikel  3.10.1  
 
 In deze paragraaf wordt verstaan onder: 
 
-− *proeftuinproject intelligente netten:* een demonstratieproject, geheel of nagenoeg geheel bestemd voor het vergroten van inzicht in de geschiktheid van toepassing in de praktijk van een innovatief product, proces of dienst, of een innovatieve samenwerking, dat een technisch, economisch of maatschappelijk risico inhoudt, dat bijdraagt aan doorbraken ten behoeve van de verduurzaming van de Nederlandse energiehuishouding en dat past binnen bijlage 3.10.1.    
+– *innovatiecontract smart grids:* innovatiecontract smart grids dat als bijlage is gevoegd bij de Rapportage Topsector Energie van april 2012 ; <sup> 1  (http://www.top-sectoren.nl/energie/sites/default/files/documents/Rapportage%20bij%20Innovatiecontracten%20Topsector%20Energie.docx.pdf).  </sup>  
+
+– *programmalijn:* in bijlage 3.10.1 opgenomen programmalijn;  
+
+– *smart-grids-project:* geheel van activiteiten bestaande uit een demonstratieproject, fundamenteel onderzoek, industrieel onderzoek of experimentele ontwikkeling of een combinatie daarvan, dat past binnen een programmalijn.    
 
 ### Artikel  3.10.2  
 
-De minister verstrekt op aanvraag subsidie aan een deelnemer in een samenwerkingsverband, waarvan een ondernemer penvoerder is, die een proeftuinproject intelligente netten uitvoert.  
+De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband, waarvan ten minste een ondernemer deel uitmaakt, die een smart-grids-project uitvoert.  
 
 ### Artikel  3.10.3  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie voor een proeftuinproject intelligente netten 40 procent van de subsidiabele kosten, voor zover die kosten betrekking hebben op activiteiten, niet zijnde fundamenteel onderzoek, industrieel onderzoek of experimentele ontwikkeling.   
-2.  Voor andere activiteiten bedraagt de subsidie voor een proeftuinproject intelligente netten: 
+1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie: 
 
-a. 50% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
+a. ten hoogste 80% van de subsidiabele kosten voor zover deze betrekking hebben op fundamenteel onderzoek;  
 
-b. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling.     
-3.  Indien de subsidiabele kosten betrekking hebben op een combinatie van industrieel onderzoek en experimentele ontwikkeling, bedraagt de subsidie het gewogen gemiddelde van de in het tweede lid genoemde percentages van de desbetreffende subsidiabele kosten.   
-4.  De in het eerste en tweede lid genoemde percentages worden met 10 procentpunten verhoogd, indien de aanvrager een MKB-ondernemer is voor zover de subsidiabele kosten worden gemaakt en betaald door de ondernemer.   
+b. ten hoogste 50% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
+
+c. ten hoogste 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling.     
+2.  Indien de subsidiabele kosten betrekking hebben op een combinatie van fundamenteel onderzoek, industrieel onderzoek en experimentele ontwikkeling, bedraagt de subsidie het gewogen gemiddelde van de in het tweede lid genoemde percentages van de desbetreffende subsidiabele kosten.   
+3.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie ten hoogste 40 procent van de subsidiabele kosten voor zover die kosten betrekking hebben op activiteiten, niet zijnde fundamenteel onderzoek, industrieel onderzoek of experimentele ontwikkeling.   
+4.  De in het eerste en derde lid genoemde percentages, met uitzondering van het percentage, genoemd in het eerste lid, onder a, worden verhoogd met 10 procentpunten, voor zover de subsidiabele kosten worden gemaakt en betaald door een MKB-ondernemer.   
 5.  Indien de subsidieontvanger een ondernemer in de landbouwsector is, is de verhoging, bedoeld in het vierde lid, niet van toepassing voor zover de subsidiabele kosten betrekking hebben op investeringen waardoor de productiecapaciteit zal toenemen.   
-6.  Het maximum subsidiebedrag voor een proeftuinproject intelligente netten bedraagt € 4.000.000. Indien verscheidene aanvragen worden gedaan die betrekking hebben op hetzelfde project en die tezamen een subsidiebedrag van meer dan € 4.000.000 betreffen, of indien het totale subsidiebedrag voor de deelnemers van een samenwerkingsverband meer bedraagt dan € 4.000.000, wordt het meerdere naar rato in mindering gebracht op de aan de betrokken aanvragers te verstrekken subsidie.   
+6.  Het maximum subsidiebedrag bedraagt € 1.000.000 per project. Indien verscheidene aanvragen worden gedaan die betrekking hebben op hetzelfde project en die tezamen een subsidiebedrag van meer dan € 1.000.000 betreffen of indien het totale subsidiebedrag voor de deelnemers van een samenwerkingsverband meer bedraagt dan € 1.000.000, wordt het meerdere naar rato in mindering gebracht op de aan de betrokken aanvragers te verstrekken subsidie.   
 
 ### Artikel  3.10.4  
 
@@ -1494,26 +1591,21 @@ Bij de toepassing van [artikel 6 van het Kaderbesluit EZ-subsidies](../../../../
 
 ### Artikel  3.10.5  
 
-1.  Voor zover de projectkosten betrekking hebben op activiteiten als bedoeld in artikel 3.10.3, eerste lid, is [artikel 14a van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) van toepassing en zijn de [artikelen 10, derde lid](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [38, eerste lid, onder b t/m d](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), en [41 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) niet van toepassing.   
-2.  Voor zover de projectkosten betrekking hebben op activiteiten als bedoeld in artikel 3.10.3, tweede lid, is [artikel 14a van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) niet van toepassing en zijn de [artikelen 10, derde lid](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [38, eerste lid, onder b t/m d](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), en [41 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) wel van toepassing.   
+Op projectkosten als bedoeld in artikel 3.10.3, derde lid, is [artikel 14a van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) van toepassing en zijn de [artikelen 10, derde lid](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [38, eerste lid, onder b tot en met d](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), en [41 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) niet van toepassing.  
 
 ### Artikel  3.10.6  
 
-De minister verdeelt het subsidieplafond voor proeftuinprojecten intelligente netten op volgorde van rangschikking van de aanvragen.  
+De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aanvragen.  
 
 ### Artikel  3.10.7  
 
-1. De Adviescommissie energiedemonstratieprojecten en energietransitie-experimenten heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in artikel 3.10.9 onderdelen a tot en met d en [artikel 23, onderdeel e, f, g en h van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en de rangschikkingscriteria, bedoeld in artikel 3.10.10.  
+De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), is vier jaar.  
 
 ### Artikel  3.10.8  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), is voor een proeftuinproject intelligente netten drie jaar.  
-
-### Artikel  3.10.9  
-
 De minister beslist afwijzend op een aanvraag: 
 
-a. voor zover de te verwachte resultaten onvoldoende bijdrage leveren aan de verduurzaming van de Nederlandse energiehuishouding, mede gelet op het herhalingspotentieel;  
+a. voor zover de te verwachten resultaten onvoldoende bijdrage leveren aan de verduurzaming van de Nederlandse energiehuishouding, mede gelet op het herhalingspotentieel;  
 
 b. voor zover het project onvoldoende innovatief is; de internationale stand van de techniek is de referentie;  
 
@@ -1521,47 +1613,108 @@ c. indien er onvoldoende vertrouwen is in de doelmatigheid en doeltreffendheid v
 
 d. indien er onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn;  
 
-e. indien de subsidie minder bedraagt dan € 125.000;  
+e. indien de subsidie minder bedraagt dan € 125.000;  
 
 f. indien reeds eerder op grond van deze paragraaf een subsidie is verstrekt voor een soortgelijk project.    
 
-### Artikel  3.10.10  
+### Artikel  3.10.9  
 
 1.  De minister rangschikt aanvragen waarop niet afwijzend is beslist, hoger naarmate het project meer bijdraagt aan de criteria omtrent: 
 
-a. innovatie,  
+a. maatschappelijk-economische impact: de mate waarin, bezien vanuit de doelstelling en de focus van het innovatiecontract smart grids, wordt bijgedragen aan verduurzaming van de Nederlandse energiehuishouding in combinatie met de mate waarin projectresultaten meer economische waarde creëren voor Nederland, mede gelet op de toepassingsmogelijkheden van de projectresultaten en het in Nederland en daarbuiten optredende herhalingspotentieel;  
 
-b. duurzaamheid,  
+b. projectorganisatie: de mate van doelmatigheid en doeltreffendheid van de bij het project betrokken partijen en de mate van kwaliteit van de projectorganisatie;  
 
-c. projectorganisatie,  
+c. kosteneffectiviteit: de mate waarin de aanvrager verhoudingsgewijs minder subsidie vraagt dan op basis van de regeling is toegestaan;  
 
-d. economisch perspectief.     
-2.  Als criteria voor innovatie, duurzaamheid, projectorganisatie en economisch perspectief worden respectievelijk vastgesteld: 
+d. innovatie: de mate waarin wordt bijgedragen aan technologische vernieuwing – afgelezen aan de internationale stand der techniek – of aan wezenlijk nieuwe toepassingen van bestaande technologie of vernieuwing in de organisatie van de keten.     
+2.  Geen subsidie wordt verleend voor een project dat lager is gerangschikt dan een soortgelijk project.   
+3.  Voor de rangschikking weegt het criterium, genoemd in het eerste lid, onder a, 50%, het eerste lid, onder b, 20%, het eerste lid, onder c, 20% en het eerste lid, onder d, 10%.   
 
-a. de mate waarin wordt bijgedragen aan technologische vernieuwing of aan wezenlijk nieuwe toepassingen van bestaande technologie, of de mate van vernieuwing in de organisatie van de keten;  
+### Artikel  3.10.10  
 
-b. de mate waarin wordt bijgedragen aan verduurzaming van de Nederlandse energiehuishouding, mede gelet op het in Nederland optredende herhalingspotententieel;  
-
-c. de mate van doelmatigheid en doeltreffendheid van de bij het project betrokken partijen en de mate van kwaliteit van de projectorganisatie;  
-
-d. de mate waarin de projectresultaten meer economische waarde creëren voor Nederland, mede gelet op de toepassingsmogelijkheden van de projectresultaten.     
-3.  Geen subsidie wordt verleend voor een proeftuinproject intelligente netten dat lager is gerangschikt dan een soortgelijk project.   
-4.  Voor de rangschikking wegen de criteria genoemd in het eerste lid even zwaar.   
-5.  Bij de rangschikking van projecten wordt mede rekening gehouden met een evenwichtige spreiding van de te subsidiëren projecten over de in bijlage 3.10.1 genoemde leereffecten.   
+1.  De subsidieontvanger start binnen zes maanden na de datum van de beschikking tot subsidieverlening de uitvoering van het project.   
+2.  De subsidieontvanger draagt zorg voor de openbaarmaking en verspreiding van de resultaten van het project.   
 
 ### Artikel  3.10.11  
-
-1.  De subsidie-ontvanger start binnen zes maanden na de datum van de beschikking tot subsidieverlening de uitvoering van het proeftuinproject intelligente netten.   
-2.  De subsidie-ontvanger draagt zorg voor de openbaarmaking en verspreiding van de resultaten van het project.   
-3.  De verplichting, bedoeld in het tweede lid, geldt tot vijf jaar na de datum van de beschikking tot subsidievaststelling.   
-
-### Artikel  3.10.12  
 
 Het formulier voor het indienen van een aanvraag voor: 
 
 a. een subsidie is opgenomen in bijlage 3.10.2;  
 
 b. een subsidievaststelling is opgenomen in bijlage 3.10.3.    
+
+### §  3.11  
+
+#### *Fotovoltaïsche zonnepanelen* 
+
+### Artikel  3.11.1  
+
+1.  In deze paragraaf wordt verstaan onder: 
+
+− aansluiting: een aansluiting als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);  
+
+− elektriciteitsnet: een net als bedoeld in [artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);  
+
+− productie-installatie: een samenstel van voorzieningen waarmee hernieuwbare elektriciteit wordt geproduceerd, waarbij onder een samenstel van voorzieningen wordt verstaan alle aanwezige middelen die onderling met elkaar zijn verbonden voor de productie van hernieuwbare elektriciteit;  
+
+− zonnepanelen: een productie-installatie voor de productie van hernieuwbare elektriciteit uit zonlicht met behulp van fotovoltaïsche zonnepanelen.     
+2.  Onder koop wordt in deze paragraaf mede verstaan huurkoop.   
+
+### Artikel  3.11.2  
+
+De minister verstrekt op aanvraag subsidie aan een natuurlijk persoon, niet zijnde een ondernemer, voor de koop van zonnepanelen met een vermogen groter dan 0,6 kWp die in Nederland op een onroerende zaak of een woonboot worden geïnstalleerd.  
+
+### Artikel  3.11.3  
+
+1.  De subsidie voor de koop van zonnepanelen met een vermogen tot en met 3,5 kWp bedraagt 15% van de subsidiabele kosten, maar niet meer dan € 650.   
+2.  De subsidie voor de koop van zonnepanelen met een vermogen groter dan 3,5 kWp bedraagt 15% van de subsidiabele kosten gedeeld door het vermogen van de zonnepanelen in kWp vermenigvuldigd met 3,5, maar niet meer dan € 650.   
+
+### Artikel  3.11.4  
+
+In afwijking van de [artikelen 10, eerste en tweede lid](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), en [11 tot en met 14a van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) komen: 
+
+a. de rechtstreeks aan de koop van niet eerder gebruikte zonnepanelen inclusief niet eerder gebruikte toebehoren toe te rekenen betaalde of te betalen kosten van derden in aanmerking voor subsidie;  
+
+b. vóór indiening van de aanvraag door de subsidieontvanger gemaakte kosten in aanmerking voor subsidie.    
+
+### Artikel  3.11.5  
+
+De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanvragen.  
+
+### Artikel  3.11.6  
+
+1.  De minister beslist afwijzend op een aanvraag om subsidie indien: 
+
+a. er door de aanvrager geen overeenkomst voor de koop van fotovoltaïsche zonnepanelen waarop de aanvraag betrekking heeft is gesloten;  
+
+b. de aanvrager op grond van een bepaling in de overeenkomst voor de koop van fotovoltaïsche zonnepanelen waarop de aanvraag betrekking heeft, de overeenkomst kan ontbinden op andere gronden dan dat er geen subsidie wordt verstrekt op grond van deze paragraaf;  
+
+c. de aanvrager vóór 2 juli 2012 ter zake van de koop van de zonnepanelen waarop de aanvraag betrekking heeft, verplichtingen is aangegaan;  
+
+d. er voor het adres waarop de zonnepanelen worden geïnstalleerd reeds subsidie is verstrekt op grond van deze paragraaf;  
+
+e. er voor de koop of het installeren van de zonnepanelen waarop de aanvraag betrekking heeft een subsidie van meer dan € 0,- is verstrekt door een bestuursorgaan;  
+
+f. op het moment van indienen van de aanvraag geen toestemming van de eigenaar van de onroerende zaak waarop de zonnepanelen worden geïnstalleerd is verkregen;  
+
+g. de zonnepanelen worden aangesloten op een elektriciteitsnet via een aansluiting met een doorlaatwaarde van meer dan 3*80 A;  
+
+h. in de aanvraag wordt verzocht om uitbetaling van de subsidie op een rekening die niet van de aanvrager is.     
+2.  De afwijzingsgronden, genoemd in [artikel 23 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), zijn niet van toepassing.   
+
+### Artikel  3.11.7  
+
+1.  De subsidie-ontvanger draagt er zorg voor dat de zonnepanelen binnen 6 maanden na de beschikking tot subsidieverlening zijn geïnstalleerd.   
+2.  De verplichtingen, genoemd in de [artikelen 36](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [37](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [40 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), zijn niet van toepassing.   
+
+### Artikel  3.11.8  
+
+De subsidie wordt ambtshalve vastgesteld binnen 9 maanden na de beschikking tot subsidieverlening.  
+
+### Artikel  3.11.9  
+
+Het formulier voor het indienen van een aanvraag om een subsidie is opgenomen in bijlage 3.11.1.  
 
 ### Hoofdstuk  4  
 
@@ -1747,21 +1900,8 @@ De subsidie voor de warmtepomp, niet zijnde een lucht/waterwarmtepomp, wordt bep
 
 ### Bijlage  3.4.1  
 
-####, behorende bij artikel 3.4.16, eerste lid , van de Subsidieregeling energie en innovatie
+####, behorende bij artikel 3.4.16, eerste lid 
 
-![247051](http://wetten.overheid.nl/Illustration/247051)
-![247051](http://wetten.overheid.nl/Illustration/247051)
-![247051](http://wetten.overheid.nl/Illustration/247051)
-![247051](http://wetten.overheid.nl/Illustration/247051)
-![247051](http://wetten.overheid.nl/Illustration/247051)
-![247051](http://wetten.overheid.nl/Illustration/247051)
-![247051](http://wetten.overheid.nl/Illustration/247051)
-![247051](http://wetten.overheid.nl/Illustration/247051)
-![247051](http://wetten.overheid.nl/Illustration/247051)
-![247051](http://wetten.overheid.nl/Illustration/247051)
-![247051](http://wetten.overheid.nl/Illustration/247051)
-![247051](http://wetten.overheid.nl/Illustration/247051)
-![247051](http://wetten.overheid.nl/Illustration/247051)
 ![247051](http://wetten.overheid.nl/Illustration/247051)
 ![247051](http://wetten.overheid.nl/Illustration/247051)
 ![247051](http://wetten.overheid.nl/Illustration/247051)
@@ -1779,8 +1919,10 @@ De subsidie voor de warmtepomp, niet zijnde een lucht/waterwarmtepomp, wordt bep
 
 ### Bijlage  3.4.2  
 
-####, behorende bij artikel 3.4.16, tweede lid , van de Subsidieregeling energie en innovatie
+####, behorende bij artikel 3.4.16, tweede lid 
 
+![247078](http://wetten.overheid.nl/Illustration/247078)
+![247078](http://wetten.overheid.nl/Illustration/247078)
 ![247078](http://wetten.overheid.nl/Illustration/247078)
 ![247078](http://wetten.overheid.nl/Illustration/247078)
 ![247078](http://wetten.overheid.nl/Illustration/247078)
@@ -2000,12 +2142,79 @@ Contactpersoon deelnemer 1 <sup>1</sup>
 
 ### Bijlage  3.7.1  
 
-####, behorende bij artikel 3.7.8 
+####InnovatieContract Wind op Zee
 
 ![246026](http://wetten.overheid.nl/Illustration/246026)
 ![246026](http://wetten.overheid.nl/Illustration/246026)
 ![246026](http://wetten.overheid.nl/Illustration/246026)
 ![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+![246026](http://wetten.overheid.nl/Illustration/246026)
+
+### Bijlage  3.7.2  
+
+####Aanvraag Subsidie Wind op Zee 2012
+
+![250614](http://wetten.overheid.nl/Illustration/250614)
+![250614](http://wetten.overheid.nl/Illustration/250614)
+![250614](http://wetten.overheid.nl/Illustration/250614)
+
+###Bijlage bij aanvraag subsidie
+
+###Aanmelding + Machtiging Deelnemer samenwerkingsverband
+
+![250614](http://wetten.overheid.nl/Illustration/250614)
+![250614](http://wetten.overheid.nl/Illustration/250614)
+
+### Bijlage  3.7.3  
+
+####Aanvraag Vaststelling subsidie
+
+![250616](http://wetten.overheid.nl/Illustration/250616)
+![250616](http://wetten.overheid.nl/Illustration/250616)
 
 ### Bijlage  3.8.1  
 
@@ -2095,115 +2304,144 @@ De volgende fasen dienen gedurende het project minimaal te worden doorlopen:
 
 ### Bijlage  3.10.1  
 
-####: Proeftuinen Intelligente Netten
+####, behorende bij artikel 3.10.1 
 
-####Inleiding
+De doelstellingen van het innovatiecontract smart grids zijn vertaald in een viertal programmalijnen met daarbinnen de onderwerpen voor smart-grids-projecten die kunnen bijdragen aan het realiseren van de beoogde doelen: 
 
-Het realiseren van een reeks demonstratieprojecten of proeftuinen was de 1 <sup>e</sup> aanbeveling in het discussiedocument ‘Op weg naar Intelligente Netten in Nederland’ van de Taskforce Intelligente netten: “omdat het eindbeeld van de intelligente netten robuust is, maar er tijd nodig is daar op een kosteneffectieve manier naar toe te werken”. Specifiek voor de proeftuinen Intelligente netten is er in 2011 een budget van € 16 miljoen beschikbaar.  
+1. *Diensten en producten* (B2C, B2B en C2B), met de volgende onderwerpen: intelligente applicaties, energiemanagement (balanceren van het energieaanbod en ‘vraagsturing’) en energieopslag en conversie. De focus ligt op intelligente applicaties en energiemanagement. Verwacht wordt dat energieopslag pas in een later stadium waarde gaat creëren en ondersteunend zal zijn in energiemanagement, waarbij energieopslag vooral ingezet zal worden als optimalisatietool.  
 
-####Afbakening
+2. *Virtuele infrastructuur* (o.a. ICT), met de onderwerpen: open generiek ICT platform ten behoeve van dienstontwikkeling, ICT architecturen ten behoeve van demand side management, data management en asset management, standaardisatie roadmap, veiligheid en privacy. De focus ligt op internationale standaardisering van protocollen en interfaces (niet alleen voor communicatie, maar ook voor demand side management, asset management en data management) en ‘security by design’. Bedrijven zijn bij voorkeur vanaf de start betrokken bij concrete implementaties, omdat kleine en praktische implementaties de richting zullen bepalen.  
 
-‘Intelligente netten’ is een overkoepelend begrip voor de innovaties op en rondom de energie-infrastructuur (veelal elektriciteitsnetten, van het hoogspanningsnet tot en met het laagspanningsnet in de wijk en de energietoepassingen bij de consument) die het mogelijk maken dat: 
+3. *Fysieke infrastructuur*, onderverdeeld in: toenemende flexibiliteit, nieuwe componenten, veiligheid/betrouwbaarheid (‘security’), oplaadpunten voor elektrisch rijden, (fysieke) energieopslag en smart gas grids. Voor deze tender ligt de focus op: standaardisatie, energieconversie en netintegratietechnologieën voor optimale inzet van energiebronnen op diverse spanningniveaus, asset management van de Smart Grid infrastructuur en sensoring waaronder de ontwikkeling van nieuwe meetmethodologieën.  
 
-* decentrale opwekking van energie ingepast kan worden (tweerichtingsverkeer) in plaats van grootschalige centrale opwekking met alleen energiestromen naar de afnemers;  
+4. *Institutionele en sociale innovatie*. Deze spelen in samenhang met de technologische vernieuwingen een hoofdrol. Maatschappelijke acceptatie, het ontwikkelen van strategieën voor de interventie in het gedrag van eindgebruikers, het ontwerpen van nieuwe marktmodellen en business concepten en aanpassingen in de wet- en regelgeving zijn noodzakelijke randvoorwaarden voor het succes van smart grids – en zelfs voor de energietransitie. De focus ligt op onderzoek naar belangen en drijfveren van energieconsumenten (onder andere samenwerking met de creatieve industrie) en onderzoek naar nieuwe rollen in de energieservice economie en bijbehorende aanpassing van wet- en regelgeving.   
 
-* energieafnemers met een flexibele vraag reageren op (duurzame) ‘fluctuerende bronnen’ zoals zon- en windvermogen en micro-WKK;  
-
-* inpassing van (duurzame) energietoepassingen zoals elektrisch vervoer, warmtepompen en mogelijkheden voor energieopslag;  
-
-* de energienetten veiliger en efficiënter functioneren (bijvoorbeeld met minder zware kabels en met minder transport- en distributieverliezen);  
-
-* de gebruiker allerlei intelligente toepassingen ter beschikking krijgt ten behoeve van zijn energievoorziening en -gebruik.   Het gebied omvat verschillende soorten technologie (vermogenselektronica in de netten en bij de gebruikers, ICT gerelateerd aan vermogenselektronica, overkoepelende ICT-systemen). Minstens zo belangrijk als de verandering in de technologie is echter de verandering in de rollen van gebruikers (die ‘prosumers’ worden), energieleveranciers, leveranciers van energiediensten, toeleveranciers en netbeheerders.  
-
-####Uitgangspunten
-
-1) De proeftuinen hebben een transitiefunctie. In de visie van de Taskforce passen proeftuinen in een roadmap voor Nederland op een hoger abstractieniveau, waarbij de proeftuinen inzichten opleveren die essentieel zijn voor de Nederlandse situatie vanaf 2020. Na de proeftuinen (in periode 2015–2020) volgt de implementatiefase waarin zaken grootschalig worden opgepakt (opschalen naar 10.000 aansluitingen). In de transitiefase (2010–2015) wordt praktijkervaring opgedaan met technologie, met name waar het gaat om de interactie met niet-technologische aspecten en validatie van businesscases aangezien de uitdaging niet zozeer zit in de techniek zelf. Er wordt gekeken welke ‘problemen’ nog niet adequaat zijn opgelost of over het hoofd zijn gezien. Ook verkenningen van de juridische ruimte voor nieuwe arrangementen en van mogelijke oplossingen voor knelpunten in de sfeer van de regelgeving maken deel uit van de proeftuinen. De ontwikkeling van intelligente netten en nieuwe slimme arrangementen kent zowel technische risico’s, sociale risico’s als maatschappelijke kosten/baten risico’s. Het gaat om de beheersing van alle drie de risico’s.  
-
-2) Robuustheid als randvoorwaarde. Toevoeging van intelligentie mag niet leiden tot een aantasting van de robuustheid van het systeem. Dat is een randvoorwaarde in de architectuur, en dat is mogelijk.  
-
-3) Het gaat om gedrag én om de institutionele context (marktmodellen, rolverdelingen). Een focus op gedrag alleen leidt tot een lock-in. Het gaat ook om andere wijzen van verrekening en sturing (marktmodellen), met daarbij gedragsaspecten, als ook standaarden. Verschillende zaken grijpen hierbij op elkaar in. Het huidige marktmodel gaat uit van centraal opwekken en een geliberaliseerde productie- en retailmarkt. Een model dat vertrekt vanuit een het realiseren van een duurzame energievoorziening en het zelf opwekken van energie past hier niet vanzelfsprekend in, en kan dus ook om toekomstige aanpassingen in wet- en regelgeving vragen. De ontwikkeling naar een micromarkt is een mogelijke maar geen vooropgezette route.  
-
-4) Focus op optimale maatschappelijke winst. Een belangrijke vraag bij het toevoegen van intelligentie is waar de grootste winst zit van deze toevoeging: a) in het net, b) bij de klant, c) bij de interface? De essentie zit niet in het meten maar in het sturen/beïnvloeden en in het afrekenen (de facturering).  
-
-5) Simulaties waar mogelijk. Verschillende technologische en gedragsvragen kunnen ook meer of minder adequaat door middel van simulaties benaderd worden. Simulatiemodellen moeten worden gevalideerd zodat ze representatief worden voor de werkelijkheid. Er zal grote behoefte zijn aan het koppelen van simulatiemodellen met proeftuinen.    
-
-####Positionering van de Nederlandse proeftuinen
-
-De proeftuinen staan niet op zichzelf. In verschillende landen in de wereld vinden er demonstratieprojecten plaats. In opdracht van Netbeheer Nederland heeft KEMA een internationale inventarisatie uitgevoerd, en gekeken welke kansen en conclusies hieruit voor Nederland getrokken kunnen worden met betrekking tot demonstratieprojecten. Belangrijke conclusies zijn: 
-
-1) Het optimaal benutten van het netwerk vereist de ontwikkeling van ICT dat kan omgaan met een groot volume aan data en dit als informatie beschikbaar kan stellen aan relevante stakeholders (er zijn nu alleen nog kleine projecten);  
-
-2) Ook zijn er nog geen projecten die grote aantallen kleinschalige opwekkers combineren d.m.v. een aggregator;  
-
-3) Wat nog ontbreekt bij de gebruikers (consumenten en kleinschalige producenten) is ‘awareness’ en beloningen om interactief deel te nemen. Daarom noemt de Taskforce de eindgebruiker ook het startpunt voor de proeftuinen, niet het sluitstuk van de overwegingen  
-
-4) Er is op verschillende plaatsen sprake van technologie-ontwikkeling op het gebied van: 
-
-a. Het testen van netcomponenten en -systemen,  
-
-b. De toepassing van gebruikerselektronica, slimme meters, laadinfrastructuur voor elektrisch vervoer.    
-
-5) Er is nog geen business model voor energieopslag in het netwerk (en voor de handel in energie);  
-
-6) De combinatie met gas-toepassingen is specifiek voor Nederland-gasland;  
-
-7) Intelligente wasmachines e.d. kunnen ook effect hebben op stabiliteit van de netten;  
-
-8) Slimme woningen en gebouwen bieden integrale toepassingsmogelijkheden voor typische Nederlandse componenten en systemen.   Daarnaast is er in Nederland sprake van verschillende ontwikkelingen die meer of minder raken aan intelligente netten zoals de ontwikkeling naar energieneutrale gebouwde omgeving, lokale energiebedrijven, uitwisseling van energietekorten en -overschotten tussen bedrijven en woningen. De beoogde proeftuinen zouden ook hiermee een kennisuitwisselingsrelatie moeten hebben.  
-
-####Beoogde leereffecten van de proeftuinen
-
-De proeftuinen hebben een functie in het leren over de mogelijkheden van intelligente toepassingen in het licht van een bredere maatschappelijke kosten/baten analyse. Zijn decentrale opwekking en opslag van energie beter in te passen? Is vraagrespons bij verschillende soorten gebruikers te activeren? Welke diensten en producten zijn hierbij mogelijk cases (met o.a. real time tarieven en capaciteitstarieven) in verschillend denkbare institutionele settings? En leidt dit tot de beoogde systeemeffecten? Overall gaat het over: 
-
-* het ontwikkelen en testen van een aantal 'sets' geïntegreerde, interoperabele bestaande en nieuwe diensten en producten  
-
-* met verschillende infrastructuren (E, G, W, ICT)  
-
-* die opschaalbaar zijn,  
-
-* waarmee geld te verdienen valt,  
-
-* die een meerwaarde bieden aan de eindgebruikers, en  
-
-* die werken in de richting van een duurzame energievoorziening.   Onderstaande tabel geeft het (niet-uitputtende) palet aan intelligente toepassingen en de effecten daarvan. Doel is om zoveel mogelijk te leren uit de proeftuinen, wat onder meer vereist dat de verschillende toepassingen en effecten in de tender aan bod komen, ofwel dat er een evenwichtige spreiding van de proeftuinen over deze tabel komt.  Tabel: Effecten van typen intelligente toepassingen 
-
-| Effecten:  Intelligente toepassingen:  | Energie besparing  | Optimale vraag/aanbod afstemming  | Besparing op net-investering  | Vergroten markt-participatie  | Nieuwe dienst of product  | Flexibiliteit en beperken reserve-vermogen  |
-|:---|:---|:---|:---|:---|:---|:---|
-| Energiegedrag huishouden  | --- | --- | --- | --- | --- | --- |
-| Energiegedrag  bedrijf  | --- | --- | --- | --- | --- | --- |
-| e-auto laden  | --- | --- | --- | --- | --- | --- |
-| Warmte  Pompen  | --- | --- | --- | --- | --- | --- |
-| HRe-ketel  | --- | --- | --- | --- | --- | --- |
-| Duurzame energie (Zon-PV, wind, ..)  | --- | --- | --- | --- | --- | --- |
-
-Idealiter wordt bijvoorbeeld in een proeftuin voor een lokaal energiesysteem aangetoond dat: 
-
-1) decentraal opgewekte energie kan worden geïntegreerd in een slim, lokaal energiesysteem;  
-
-2) verschillende partijen gezamenlijk in staat zijn slimme, lokale energiesystemen te realiseren waar ze allemaal aan kunnen verdienen en/of meerwaarde aan kunnen ontlenen;  
-
-3) een slim, lokaal energiesysteem nieuwe functionaliteiten (via nieuwe diensten en producten) kan bieden die een meerwaarde hebben voor eindgebruikers;  
-
-4) eindgebruikers interesse hebben of zelfs actief willen participeren in 'het' toekomstige energiesysteem / een intelligent net.    
-
-####Meerdere proeftuinen en proeftuinoverstijgend leren
-
-In de keuze tussen één grote fysieke proeftuin met enkele duizenden gebruikers versus enkele kleinere proeftuinen lijkt het laatste meer voor de hand te liggen. Er is een breed palet aan ontwikkelingspaden voor intelligente toepassingen. Diversiteit leidt tot meer inzicht op een hoger niveau en meer mogelijkheden in soorten toepassingen en in kennisuitwisseling. De praktische realisatie van een locatie van zeer grote omvang lijkt bovendien niet eenvoudig. Dit leidt tot de conclusie dat het niet wenselijk noch mogelijk lijkt om één grote geconcentreerde proeftuin in Nederland te realiseren waarin voldoende verscheidenheid voor de leerdoelen aanwezig is. Wel is er behoefte om leerervaringen als die van het project te Hoogkerk (Powermatching City) enigszins op te schalen, met gebruikmaking van bijvoorbeeld de eerste resultaten van het programma e-Energy in Duitsland (6 proeftuinen op een schaal van enkele honderden huishoudens). Opschaling is wellicht ook virtueel mogelijk waar het gaat om bepaalde effecten te bereiken. Met name gaat het dan het effect van de inzet van meerdere technologieën, concepten of diensten. Aan een dergelijke opschaling zitten echter ook beperkingen als het belemmerend werkt voor de flexibiliteit in de verschillende proeftuinen, en als het de deelname van meerdere (competitieve) consortia tegenhoudt. Naar verwachting komen er 5 tot 10 niet te complexe proeftuinen, veelal op het niveau van een woonwijk, stadscentrum, industrieterrein, kantorenomgeving, e.d. De focus en de doelen van proeftuinen zullen verschillend zijn. Van belang is dat het doel, de beoogde resultaten en leereffecten duidelijk zijn omschreven. Daarnaast is van belang dat er, ook gedurende de looptijd van de proeftuinen, daadwerkelijk geleerd en voortgebouwd kan worden op de resultaten (adequate kennisverzameling en onderzoek ten aanzien van kosten en baten, gebruikersgedrag, diensten en producten, systeemeffecten, etc). Met name ook ten aanzien van de ITC-aspecten is van belang dat de architectuur breder toepasbaar is: toekomstbestendig (met oog op wijzigingen in functionaliteit en technologie), interoperabel (standaarden), breder bruikbaar (ook buiten de betreffende proeftuin), robuust (bestand tegen verstoringen en uitval), flexibel (bij veranderingen vraag en aanbod van energie) en met aandacht voor security en privacy aspecten. De proeftuinen, die elk een verschillende focus hebben, zullen vanuit het innovatieprogramma voor intelligente netten geflankeerd worden door een proeftuinoverstijgend leerprogramma gericht op de uitgangspunten en de beoogde leereffecten. Naast dit flankerende leerprogramma zal er een proeftuinoverstijgende maatschappelijke kosten/baten analyse, een R&D-programma voor 2012 en verder, en een communicatieprogramma worden opgezet. Communicatie, zowel tussen proeftuinen onderling als met de buitenwereld is immers van groot belang. In onderstaande figuur is dit schematisch weergegeven.  *Figuur: Proeftuinoverstijgend leren*    ![248954](http://wetten.overheid.nl/Illustration/248954)
-
-### Bijlage  3.10.2  
-
-####Aanvraag Subsidie Proeftuinen Intelligente Netten
+### Bijlage  3.10.2  Aanvraag subsidie smart grids  
 
 ![248957](http://wetten.overheid.nl/Illustration/248957)
+![248957](http://wetten.overheid.nl/Illustration/248957)
+![248957](http://wetten.overheid.nl/Illustration/248957)
+
+###AANMELDING + MACHTIGING DEELNEMER SAMENWERKINGSVERBAND (BIJLAGE BIJ AANVRAAG SUBSIDIE)
+
 ![248957](http://wetten.overheid.nl/Illustration/248957)
 ![248957](http://wetten.overheid.nl/Illustration/248957)
 
 ### Bijlage  3.10.3  
 
-####Aanmelding + Machtiging Deelnemer samenwerkingsverband
+####Aanvraag vaststelling subsidie
 
 ![248961](http://wetten.overheid.nl/Illustration/248961)
 ![248961](http://wetten.overheid.nl/Illustration/248961)
-*Aanvraag Vaststelling subsidie*    ![248961](http://wetten.overheid.nl/Illustration/248961)
-![248961](http://wetten.overheid.nl/Illustration/248961)
+
+### Bijlage  3.11.1  
+
+####behorende bij artikel 3.11.9  van de Subsidieregeling energie en innovatie
+
+*AANVRAAGFORMULIER*  Naam van de regeling:  *Zonnepanelen particulieren 2012*  
+
+####Welkom
+
+Met dit formulier kunnen particulieren subsidie aanvragen voor zonnepanelen.  
+
+### 0  
+
+####Kom ik in aanmerking voor subsidie?
+
+0.1  *Bent u een aankoopverplichting aangegaan op of na 2 juli 2012 voor niet eerder gebruikte zonnepanelen?*  
+
+o Ja, ga verder met 0.2.  
+
+o Nee: u heeft *geen* recht op subsidie en u hoeft het formulier daarom niet verder in te vullen. Alleen nieuwe zonnepanelen waar een verplichting is aangegaan op of na 2 juli 2012 komen in aanmerking voor subsidie.    
+
+0.2  *Is het totaal geïnstalleerd vermogen per woning 0,6 kilo Wattpiek (kWp) of minder?*  
+
+o  *(Uw installateur kan u informeren over het vermogen in kWp of het staat vermeld in de offerte en/of overeenkomst.)*   
+
+o Ja: u heeft *geen* recht op subsidie en u hoeft het formulier daarom niet verder in te vullen.  
+
+o Er is alleen subsidie mogelijk voor installaties met een vermogen boven de 0,6 kWp.  
+
+o Nee: ga verder met 0.3.    
+
+0.3 *Sluit u de zonnepanelen aan op een elektriciteitsnet via een aansluiting met een doorlaatwaarde van meer dan 3 * 80 Ampère?* (Aansluiting met doorlaatwaarde van meer dan 3*80 Ampère is een zogenaamde grootverbruikersaansluiting. Uw installateur kan u hierover informeren.) 
+
+o Ja: u heeft *geen* recht op subsidie en u hoeft het formulier daarom niet verder in te vullen. Alleen een aansluiting met een doorlaatwaarde van minder dan 3 * 80 Ampère komt in aanmerking voor subsidie.  
+
+o Nee: ga verder met 0.4.    
+
+0.4  *Is de locatie waar de zonnepanelen wordt geplaatst in Nederland?*  
+
+o Ja, ga verder met 0.5.  
+
+o Nee: u heeft *geen* recht op subsidie en u hoeft het formulier daarom niet verder in te vullen. Alleen in Nederland geplaatste zonnepanelen komen in aanmerking voor subsidie.    
+
+0.5  *Bent u een in Nederland gevestigde natuurlijk persoon (particulier) of dient u in namens een in Nederland gevestigde natuurlijk persoon (particulier)?*  
+
+o Ja, ga verder met 0.6.  
+
+o Nee: u heeft *geen* recht op subsidie en u hoeft het formulier daarom niet verder in te vullen. Deze subsidie is alleen bedoeld voor Nederlandse particulieren en niet voor ondernemers.    
+
+0.6  *Is er voor deze zonnepanelen eerder subsidie verstrekt door een gemeente, provincie of rijksoverheid (hieronder valt ook een voor uw woning afgegeven SDE beschikking)?* *(Verstrek betekent dat subsidie is uitgekeerd of dat u bericht heeft ontvangen dat u recht heeft op subsidie.)*  
+
+o Ja: u heeft *geen* recht op subsidie en u hoeft het formulier daarom niet verder in te vullen. Aangezien voor uw zonnepanelen al subsidie is verstrekt, kunt u geen gebruik meer maken van deze subsidie.  
+
+o Nee: ga verder met deel 1.      
+
+### 1  
+
+####Algemene gegevens Aanvrager
+
+Gegevens eigenaar van de zonnepanelen (u kunt huurder zijn van de woning of eigenaar-bewoner) Burgerservicenummer : Achternaam: Tussenvoegsel: Voorletters: Geslacht: M / V Straat: Huisnummer: Toevoeging: Postcode: Plaats: Land: Telefoon: E-mailadres: IBAN-nummer: *(International Bank Account Number (IBAN) en Bank Identifier Code (BIC). U kunt met uw huidige rekeningnummer de juiste BIC-code en het juiste IBAN-nummer opvragen via* www.ibanbicservice.nl*)* BIC-code: *(International Bank Account Number (IBAN) en Bank Identifier Code (BIC). U kunt met uw huidige rekeningnummer de juiste BIC-code en het juiste IBAN-nummer opvragen via* www.ibanbicservice.nl*)*  
+
+### 2  
+
+####Specifieke gegevens
+
+2.1  *Datum aankoopverplichting* *(Verplichtingen aangegaan voor 2 juli 2012 komen niet in aanmerking voor deze subsidie):*   
+
+2.2  *Wanneer verwacht u dat de zonnepanelen worden geïnstalleerd?* *(Let op: binnen zes maanden na subsidieverlening moeten de zonnepanelen zijn geïnstalleerd. Installaties voor 2 juli 2012 komen niet in aanmerking voor deze subsidie):*   
+
+2.3  *In wat voor type woning zijn/worden de zonnepanelen geïnstalleerd?*   
+
+| --- | --- |
+|:---|:---|
+| □  | Appartementencomplex  |
+| □  | Galerijcomplex  |
+| □  | Hoekwoning  |
+| □  | Tussenwoning  |
+| □  | twee-onder-een-kapwoning  |
+| □  | vrijstaande woning  |
+| □  | Woonboot  |
+| □  | anders, nl.  |
+
+2.4  *Gegevens van de locatie waar de zonnepanelen worden gerealiseerd* *(alleen invullen als deze afwijken van de onder 1 ingevulde gegevens)*  Straat: Huisnummer: Toevoeging: Postcode: Plaats:  
+
+2.5 *Gegevens zonne-energie installatie* (Voor het beantwoorden van de hier gestelde vragen over de gegevens van uw zonne-energie installatie: raadpleeg uw installateur of de aankoopovereenkomst):  
+
+2.5a  *Is er sprake van: directe aanschaf of huurkoop?*  
+
+o directe aanschaf  
+
+o huurkoop    
+
+2.5b  *Wat is het totaal geïnstalleerd vermogen in kWatt piek [kWp].* *(Er is alleen subsidie mogelijk voor installaties met een vermogen van meer dan 0,6 kWp.)*   
+
+2.5c  *Wat is het aankoopbedrag in totaal* *(incl. BTW en excl. arbeidskosten):*  (Of u vult onderstaande specifikatie in): Prijs Zonnepanelen (*incl. BTW)*: Prijs Omvormer (*incl. BTW)*: Prijs Bekabeling (*incl. BTW)*: Totaal (*incl. BTW* en *excl*. arbeidskosten):    
+
+### 3  
+
+####Bijlagen
+
+*Bijlagen:*   *Ter onderbouwing moet u de volgende stukken meesturen:*  
+
+* kopie(ën) Aankoopverplichting (maximaal 3)  
+
+* Machtiging (ingeval een intermediair invult) (maximaal 1)    
+
+### 4  
+
+####Ondertekening
+
+*Ondertekening*  Als dit formulier wordt ondertekend door een ander dan de aanvrager, dan moet een machtiging bijgevoegd worden. Een voorbeeld van een machtiging kunt u downloaden op www.agentschapnl.nl/zonnepanelen. Aldus naar waarheid ingevuld, Naam ondertekenaar: Plaats: Datum: Handtekening:  
 

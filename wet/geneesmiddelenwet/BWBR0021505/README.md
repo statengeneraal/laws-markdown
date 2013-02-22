@@ -114,7 +114,7 @@ qq. onderzoeksdossier: het dossier, bedoeld in [artikel 1, onder p, van de Wet m
 
 rr. proefpersoon: de persoon, bedoeld in [artikel 1, eerste lid, onder c, van de Wet medisch-wetenschappelijk onderzoek met mensen](../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md);  
 
-ss. bijwerking: een reactie op een geneesmiddel die schadelijk en onbedoeld is en optreedt indien het geneesmiddel in gebruikelijke doses wordt toegediend aan of aangewend bij de mens;  
+ss. bijwerking: een reactie op een geneesmiddel die schadelijk en onbedoeld is;  
 
 tt. ernstige bijwerking: een bijwerking die tot de dood leidt, levensgevaar oplevert, opneming in een ziekenhuis of verlenging van het verblijf in een ziekenhuis vereist, blijvende invaliditeit of arbeidsongeschiktheid veroorzaakt dan wel zich uit in een geboorteafwijking of -misvorming;  
 
@@ -122,7 +122,21 @@ uu. onverwachte bijwerking: een bijwerking waarvan de aard, de ernst of het gevo
 
 vv. misbruik van geneesmiddelen: een opzettelijk overmatig gebruik van geneesmiddelen dat gepaard gaat met schadelijke lichamelijke of psychische effecten;  
 
-ww. geneesmiddelenbewaking: het systematisch verzamelen en beheren van gegevens over bijwerkingen en het gebruik en misbruik van geneesmiddelen waarvoor een handelsvergunning is verleend, alsmede het leggen van verbindingen tussen deze gegevens en de nationale geneesmiddelenconsumptie;  
+ww. geneesmiddelenbewaking: het geheel van werkzaamheden gericht op het identificeren, beoordelen en voorkomen van bijwerkingen van geneesmiddelen waarvoor een handelsvergunning is verleend, alsmede de aanpak van aangrenzende aan geneesmiddelen gerelateerde problemen;  
+
+ww.1. periodiek veiligheidsverslag: een verslag, inhoudende de samenvatting en wetenschappelijke afweging van voordelen en risico’s en alle beschikbare gegevens van een geneesmiddel;  
+
+ww.2. veiligheidsstudie na toelating: een onderzoek dat met een toegelaten geneesmiddel wordt uitgevoerd om het veiligheidsprofiel van het geneesmiddel te bevestigen, een veiligheidsrisico vast te stellen, te typeren of te kwantificeren, of de doeltreffendheid van risicomanagementmaatregelen te meten;  
+
+ww.3. risicomanagementsysteem: het geheel van geneesmiddelenbewakingswerkzaamheden en -interventies ter vaststelling, typering, vermijding of minimalisering van risico’s van een geneesmiddel, met inbegrip van de beoordeling van de doeltreffendheid van deze werkzaamheden en interventies;  
+
+ww.4. risicomanagementplan: een nauwkeurige beschrijving van het risicomanagementsysteem;  
+
+ww.5. geneesmiddelenbewakingssysteem: een systeem dat de houder van de handelsvergunning en het College elk afzonderlijk hanteren om de taken in het kader van de geneesmiddelenbewaking te vervullen en dat wordt toegepast om toezicht te houden op de veiligheid van toegelaten geneesmiddelen en eventuele wijzigingen in de verhouding tussen voordelen en risico’s van die geneesmiddelen;  
+
+ww.6. basisdossier geneesmiddelenbewakingssysteem: een gedetailleerde beschrijving van het door de houder van de handelsvergunning gehanteerde geneesmiddelenbewakingssysteem;  
+
+ww.7. Europees webportaal voor geneesmiddelen: het Europese webportaal voor geneesmiddelen, opgericht krachtens artikel 26 van de verordening;  
 
 xx. reclame: elke vorm van beïnvloeding met het kennelijke doel het voorschrijven, ter hand stellen of gebruiken van een geneesmiddel te bevorderen, dan wel het geven van de opdracht daartoe;  
 
@@ -149,6 +163,12 @@ ggg. Commissie: de Commissie van de Europese Gemeenschappen;
 hhh. Bureau: het Europees Geneesmiddelenbureau, opgericht krachtens artikel 55 van verordening 726/2004;  
 
 iii. Geneesmiddelencomité: het comité voor geneesmiddelen voor menselijk gebruik, opgericht krachtens artikel 5 van verordening 726/2004;  
+
+iii.1. coördinatiegroep: de coördinatiegroep voor de wederzijdse erkennings- en decentrale procedure-humaan, opgericht krachtens artikel 27 van richtlijn 2001/83;  
+
+iii.2. Risicobeoordelingscomité: het Risicobeoordelingscomité voor geneesmiddelenbewaking, opgericht krachtens artikel 56 van de verordening;  
+
+iii.3. Eudravigilance-databank: de databank en het bijbehorende netwerk voor gegevensverwerking, ingesteld krachtens artikel 24 van de verordening;  
 
 jjj. Comité voor kruidengeneesmiddelen: het Comité, opgericht krachtens artikel 16 nonies van richtlijn 2001/83;  
 
@@ -548,11 +568,11 @@ b. bij beslissing van het College, de bevoegde autoriteit van een andere lidstaa
 
 a. indien voor hetzelfde geneesmiddel in verschillende lidstaten aanvragen om een handelsvergunning zijn ingediend en de betrokken bevoegde instanties op de aanvragen onderscheidenlijk met betrekking tot de op de aanvragen verleende vergunning onderling afwijkende besluiten hebben genomen omtrent het verlenen onderscheidenlijk het schorsen of intrekken van de handelsvergunning;  
 
-b. in bijzondere gevallen, wanneer de belangen van de Gemeenschap in het geding zijn en in de Coördinatiegroep, bedoeld in artikel 27 van richtlijn 2001/83, geen overeenstemming is bereikt, voordat het College een besluit neemt over het verlenen, schorsen of intrekken van een handelsvergunning;  
-
-c. artikel 36 van richtlijn 2001/83 van toepassing is.     
+b. in bijzondere gevallen, wanneer de belangen van de Gemeenschap in het geding zijn en in de Coördinatiegroep, bedoeld in artikel 27 van richtlijn 2001/83, geen overeenstemming is bereikt, voordat het College een besluit neemt over het verlenen, schorsen, intrekken of wijzigen van een handelsvergunning.     
 7.  De aanvrager of houder van een handelsvergunning kan eveneens de arbitrageprocedure, bedoeld in zesde lid, aanhangig maken indien hij van oordeel is dat ten aanzien van het geneesmiddel waarvoor die handelsvergunning is verleend een situatie als bedoeld in dat lid van toepassing is.   
 8.  Binnen dertig dagen na de kennisgeving van de beslissing van de Commissie in de arbitrageprocedure geeft het College aan die beslissing uitvoering. Het College stelt de Commissie en het Bureau hiervan in kennis.   
+9.  Ingeval de arbitrageprocedure, bedoeld in het zesde lid, verband houdt met de beoordeling van gegevens met betrekking tot geneesmiddelenbewaking van het geneesmiddel, wordt de zaak verwezen naar het Risicobeoordelingscomité en kan artikel 107undecies, tweede lid, van richtlijn 2001/83 worden toegepast, in welk geval artikel 107duodecies van richtlijn 2001/83 tevens van toepassing is.   
+10.  Indien echter dringend optreden noodzakelijk is, zijn, in afwijking van het negende lid, de artikelen 107decies tot en met 107duodecies van richtlijn 2001/83 van toepassing.   
 
 ### Artikel  45  
 
@@ -577,25 +597,34 @@ d. de farmaceutische kwaliteit afdoende is aangetoond en
 
 e. het middel geen homeopathisch geneesmiddel als bedoeld in artikel 42, derde lid, betreft.     
 3.  De aanvrager of houder van een handelsvergunning is verantwoordelijk voor de juistheid van de ingediende gegevens en bescheiden.   
-4.  In uitzonderlijke omstandigheden kan het College, na overleg met de aanvrager, een handelsvergunning verlenen mits de aanvrager aan voorwaarden voldoet wat betreft de veiligheid van het geneesmiddel, de melding aan het College van elk met het gebruik verband houdende ongunstige gebeurtenis en de te treffen maatregelen. Deze vergunning is gebaseerd op een van gronden, beschreven in bijlage 1 bij richtlijn 2001/83. De voorwaarden betreffen de veiligheid van het geneesmiddel, de melding van elk met het gebruik verband houdend incident aan het College, alsmede de dan te treffen maatregelen. Deze voorwaarden worden, tezamen met de termijnen en de data waarop aan deze voorwaarden moet zijn voldaan, onverwijld door het College voor het publiek toegankelijk gemaakt.   
-5.  De verlenging van een handelsvergunning als bedoeld in het vierde lid, wordt gekoppeld aan een jaarlijkse herbeoordeling van de voorwaarden waaronder zij is verleend.   
-6.  Het College betrekt in zijn beoordeling van een aanvraag om een handelsvergunning voor een traditioneel kruidengeneesmiddel door het Comité voor kruidengeneesmiddelen opgestelde communautaire kruidenmonografieën en, zonodig, handelsvergunningen of soortgelijke vergunningen die in een andere lidstaat zijn verleend.   
-7.  Het College stelt de Commissie alsmede de bevoegde autoriteit van een andere lidstaat die daarom verzoekt, in kennis van een door hem genomen beslissing tot weigering van een handelsvergunning voor een traditioneel kruidengeneesmiddel.   
+4.  Het College betrekt in zijn beoordeling van een aanvraag om een handelsvergunning voor een traditioneel kruidengeneesmiddel door het Comité voor kruidengeneesmiddelen opgestelde communautaire kruidenmonografieën en, zonodig, handelsvergunningen of soortgelijke vergunningen die in een andere lidstaat zijn verleend.   
+5.  Het College stelt de Commissie alsmede de bevoegde autoriteit van een andere lidstaat die daarom verzoekt, in kennis van een door hem genomen beslissing tot weigering van een handelsvergunning voor een traditioneel kruidengeneesmiddel.   
+
+### Artikel  45a  
+
+1.  Het College kan bij ministeriële regeling vastgestelde voorschriften aan de handelsvergunning verbinden. Het College stelt het Bureau hier steeds van in kennis.   
+2.  Ter uitvoering van de richtlijn worden bij ministeriële regeling nadere regels gesteld omtrent de voorwaarden waaraan dient te worden voldaan ter verkrijging van de handelsvergunning en de voorschriften die het College aan de handelsvergunning kan verbinden.   
+
+### Artikel  45b  
+
+1.  In uitzonderlijke omstandigheden kan het College een voorwaardelijke handelsvergunning verlenen, Bij ministeriële regeling wordt bepaald onder welke omstandigheden de vergunning kan worden verleend en welke voorschriften aan de vergunning kunnen worden verbonden. Het College stelt het Bureau hier steeds van in kennis.   
+2.  De verlenging van een handelsvergunning als bedoeld in het eerste lid wordt gekoppeld aan een jaarlijkse herbeoordeling.   
 
 ### Artikel  46  
 
-1.  Het besluit van het College tot het verlenen van de handelsvergunning bevat tevens het besluit dat de samenvatting van de kenmerken van het geneesmiddel is goedgekeurd.   
-2.  Het College maakt zo spoedig mogelijk de handelsvergunning alsmede de samenvatting van de kenmerken van het geneesmiddel toegankelijk voor het publiek.   
-3.  Het College stelt een rapport op met een beoordeling van en opmerkingen over het dossier voor zover het de resultaten van de farmaceutische, preklinische en klinische proeven met het desbetreffende geneesmiddel betreft. Dit beoordelingsrapport wordt bijgewerkt zodra er nieuwe gegevens beschikbaar komen die voor de beoordeling van de kwaliteit, de veiligheid en de werkzaamheid van het geneesmiddel van belang zijn.   
-4.  Het College maakt het beoordelingsrapport onverwijld toegankelijk voor het publiek, inclusief de motieven van zijn besluit en met weglating van alle commercieel vertrouwelijke gegevens. De motivering wordt voor iedere aangevraagde indicatie afzonderlijk aangegeven.   
-5.  Het College brengt zijn besluiten, strekkende tot het verlenen, weigeren, schorsen of intrekken van een handelsvergunning of tot het vernietigen van een besluit tot weigering of intrekking van een handelsvergunning, terstond ter kennis van het Bureau. De kennisgeving van een besluit, strekkende tot het verlenen van een handelsvergunning, gaat vergezeld van de samenvatting van de kenmerken van het geneesmiddel.   
-6.  Het College maakt zijn besluiten, strekkende tot het weigeren, schorsen of intrekken van een handelsvergunning, toegankelijk voor het publiek, met weglating van alle commercieel vertrouwelijke informatie. Het College maakt voorts de intrekking van een aanvraag om een handelsvergunning of om een uitbreiding van die vergunning met een nieuwe indicatie op een voor het publiek toegankelijke manier bekend, met weglating van alle commercieel vertrouwelijke informatie.   
+1.  Het College stelt een beoordelingsrapport op ten aanzien van het betreffende geneesmiddel en neemt een besluit over de aanvraag van de handelsvergunning, met inachtneming van de bij ministeriële regeling te stellen regels.   
+2.  Indien de handelsvergunning wordt verleend, bevat deze tevens de goedkeuring van de samenvatting van productkenmerken.   
+3.  Ten aanzien van het toegankelijk maken van besluiten en stukken van het College ten behoeve van het Staatstoezicht op de volksgezondheid, het Bureau of het publiek worden bij ministeriële regeling regels gesteld.   
 
 ### Artikel  47  
 
 1.  Een handelsvergunning is vijf jaren geldig, onverminderd het derde en het vierde lid.   
-2.  De houder van de handelsvergunning legt ten minste zes maanden voordat de vergunning haar geldigheid verliest, aan het College een versie van het dossier over dat betrekking heeft op de kwaliteit, veiligheid en werkzaamheid van het geneesmiddel, waaronder begrepen de wijzigingen die ter zake van die aspecten zijn aangebracht sinds de verlening van de handelsvergunning.   
-3.  Na afweging van de voordelen en risico’s kan het College de handelsvergunning voor onbepaalde tijd verlengen dan wel, in verband met de geneesmiddelenbewaking, éénmaal voor vijf jaar.   
+2.  De houder van de handelsvergunning legt ten minste negen maanden voordat de handelsvergunning haar geldigheid verliest, aan het College een geconsolideerde versie van het dossier voor dat betrekking heeft op de kwaliteit, veiligheid en werkzaamheid van het geneesmiddel, waarin tevens zijn opgenomen: 
+
+a. wijzigingen die zijn aangebracht sinds de verlening van de handelsvergunning, en  
+
+b. beoordeling van meldingen van vermoedelijke bijwerkingen en periodieke veiligheidsverslagen die overeenkomstig hoofdstuk 8 van deze wet zijn ingediend.     
+3.  Na afweging van de voordelen en risico’s, verlengt het College de handelsvergunning voor onbepaalde tijd, dan wel eenmalig voor de duur van vijf jaar, indien de geneesmiddelenbewaking daartoe aanleiding geeft of een onvoldoende aantal patiënten aan het betrokken geneesmiddel is blootgesteld.   
 4.  Indien een geneesmiddel gedurende drie opeenvolgende jaren niet daadwerkelijk in de handel is gebracht of is geweest, vervalt de desbetreffende handelsvergunning. In uitzonderlijke omstandigheden kan het College, om redenen van volksgezondheid, de handelsvergunning in stand laten.   
 
 ### Artikel  48  
@@ -615,13 +644,14 @@ e. het middel geen homeopathisch geneesmiddel als bedoeld in artikel 42, derde l
 ### Artikel  49  
 
 1.  De houder van de handelsvergunning brengt na voorafgaande toestemming van het College wijziging aan in de methoden van bereiding van een geneesmiddel en van controle daarop indien deze wijziging strekt tot het in overeenstemming brengen van de desbetreffende methoden met de vooruitgang van de wetenschap en de techniek ter zake en noodzaakt tot aanpassing van de bij de aanvraag om de handelsvergunning overgelegde bescheiden met betrekking tot de methoden.   
-2.  De houder van de handelsvergunning stelt het College onverwijld in kennis van alle nieuwe informatie die kan leiden tot wijziging van de gegevens en bescheiden, bedoeld in 42, tweede lid, en in bijlage 1 bij richtlijn 2001/83.   
-3.  De houder van de handelsvergunning stelt het College onverwijld in kennis van alle door de bevoegde autoriteiten van andere lidstaten opgelegde verboden en beperkingen alsmede van alle andere nieuwe gegevens die op de beoordeling van de voordelen en risico’s van het geneesmiddel van invloed kunnen zijn.   
-4.  De houder van de handelsvergunning verstrekt te allen tijde op verzoek van het College gegevens waaruit blijkt dat de afweging van voordelen en risico’s van het geneesmiddel gunstig blijft uitvallen.   
-5.  De houder van de handelsvergunning deelt het College de datum mee waarop het geneesmiddel daadwerkelijk in de handel wordt gebracht.   
-6.  De houder van de handelsvergunning deelt het College mee wanneer de handel in een geneesmiddel tijdelijk of blijvend wordt stopgezet. Behoudens uitzonderlijke omstandigheden, vindt deze mededeling plaats uiterlijk twee maanden voor de onderbreking of stopzetting.   
-7.  Onverminderd artikel 77, eerste lid, onder d, verstrekt de houder van de handelsvergunning voor een geneesmiddel desgevraagd aan het College gegevens over het afzetvolume van het geneesmiddel en de in zijn bezit zijnde gegevens betreffende het aantal recepten.   
-8.  De houder van een handelsvergunning draagt ervoor zorg dat het geneesmiddel waarop de handelsvergunning betrekking heeft, in voldoende mate voorradig is voor groothandelaren of apothekers teneinde in de behoeften van patiënten te kunnen voorzien.   
+2.  De houder van de handelsvergunning draagt zorg voor de aanpassing van de productinformatie aan de actuele wetenschappelijke kennis, met inbegrip van de conclusies van beoordelingen en aanbevelingen die openbaar worden gemaakt via het Europese webportaal voor geneesmiddelen.   
+3.  De houder van de handelsvergunning stelt het College onverwijld in kennis van alle nieuwe informatie die kan leiden tot wijziging van de gegevens en bescheiden, bedoeld in 42, tweede lid, en in bijlage 1 bij richtlijn 2001/83.   
+4.  De houder van de handelsvergunning stelt het College onverwijld in kennis van alle door de bevoegde autoriteiten van andere lidstaten opgelegde verboden en beperkingen alsmede van alle andere nieuwe gegevens die op de afweging van de voordelen en risico’s van het geneesmiddel van invloed kunnen zijn. De informatie betreft zowel positieve als negatieve resultaten van klinische proeven of andere onderzoeken voor indicaties en populaties, ongeacht of deze in de handelsvergunning zijn opgenomen, alsmede gegevens over gebruik van het geneesmiddel in afwijking van de voorschriften van de handelsvergunning.   
+5.  De houder van de handelsvergunning verstrekt te allen tijde op verzoek van het College gegevens waaruit blijkt dat de afweging van voordelen en risico’s van het geneesmiddel gunstig blijft uitvallen. Op verzoek van het College of het Staatstoezicht op de volksgezondheid verstrekt de houder van de handelsvergunning binnen zeven dagen een kopie van het basisdossier geneesmiddelenbewakingssysteem.   
+6.  De houder van de handelsvergunning deelt het College de datum mee waarop het geneesmiddel daadwerkelijk in de handel wordt gebracht.   
+7.  De houder van de handelsvergunning deelt het College mee wanneer de handel in een geneesmiddel tijdelijk of blijvend wordt stopgezet. Behoudens uitzonderlijke omstandigheden, vindt deze mededeling plaats uiterlijk twee maanden voor de onderbreking of stopzetting.   
+8.  Onverminderd artikel 77, eerste lid, onder d, verstrekt de houder van de handelsvergunning voor een geneesmiddel desgevraagd aan het College gegevens over het afzetvolume van het geneesmiddel en de in zijn bezit zijnde gegevens betreffende het aantal recepten.   
+9.  De houder van een handelsvergunning draagt ervoor zorg dat het geneesmiddel waarop de handelsvergunning betrekking heeft, in voldoende mate voorradig is voor groothandelaren of apothekers teneinde in de behoeften van patiënten te kunnen voorzien.   
 
 ### Artikel  50  
 
@@ -638,17 +668,23 @@ e. het middel geen homeopathisch geneesmiddel als bedoeld in artikel 42, derde l
 
 1.  Het College schorst een handelsvergunning, wijzigt deze of trekt deze in indien: 
 
-a. het geneesmiddel bij normaal gebruik schadelijk is,  
+a. het geneesmiddel schadelijk is,  
 
-b. de therapeutische werking ontbreekt dan wel indien de afweging van voordelen en risico’s bij normaal gebruik niet gunstig is,  
+b. de therapeutische werking ontbreekt dan wel indien de afweging van voordelen en risico’s niet gunstig is,  
 
 c. het geneesmiddel niet de opgegeven kwalitatieve en kwantitatieve eigenschappen bezit,  
 
-d. de krachtens artikel 42 overgelegde gegevens en bescheiden onjuist zijn of niet zijn gewijzigd overeenkomstig artikel 49, of  
+d. de krachtens artikel 42 overgelegde gegevens en bescheiden onjuist zijn of niet zijn gewijzigd overeenkomstig artikel 49,  
 
 e. de in artikel 28, eerste lid, bedoelde controles niet hebben plaatsgevonden,  
 
-f. de etikettering of de bijsluiter niet voldoet aan de daaromtrent in hoofdstuk 7 gestelde eisen.     
+f. de etikettering of de bijsluiter niet voldoet aan de daaromtrent in hoofdstuk 7 gestelde eisen,  
+
+g. niet aan voorschriften gesteld krachtens artikel 45a of 45b is voldaan,  
+
+h. de houder van de handelsvergunning de in hoofdstuk 8 neergelegde verplichtingen niet nakomt, of  
+
+i. indien de coördinatiegroep zulks op grond van artikel 107octies van richtlijn 2001/83 heeft besloten.     
 2.  Indien werkzame bestanddelen van een kruidengeneesmiddel als bedoeld in artikel 42, achtste lid, worden afgevoerd van de door het Comité voor kruidengeneesmiddelen opgestelde lijst van zodanige bestanddelen, trekt het College de desbetreffende handelsvergunning voor een traditioneel kruidengeneesmiddel in.   
 3.  Het College trekt een handelsvergunning in op schriftelijk verzoek van de houder.   
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het verlenen, wijzigen, schorsen en intrekken van een handelsvergunning.   
@@ -658,7 +694,7 @@ f. de etikettering of de bijsluiter niet voldoet aan de daaromtrent in hoofdstuk
 
 1.  Het College kan om volksgezondheidsredenen een handelsvergunning verlenen aan een naar zijn oordeel daarvoor in aanmerking komende rechtspersoon die met de verlening kan instemmen, indien het desbetreffende geneesmiddel niet in Nederland in de handel is, maar wel in een andere lidstaat.   
 2.  Het College brengt de houder van de handelsvergunning in de andere lidstaat op de hoogte van zijn voornemen een vergunning te verlenen op de voet van het eerste lid.   
-3.  Het College verzoekt de bevoegde autoriteit van de andere lidstaat om toezending van een kopie van het beoordelingsrapport en van de in de andere lidstaat geldende handelsvergunning.   
+3.  Het College kan de bevoegde autoriteit van de andere lidstaat om toezending van een kopie van het beoordelingsrapport en van de in de andere lidstaat geldende handelsvergunning verzoeken. Indien het College een dergelijk verzoek van een andere lidstaat ontvangt, verzendt het College binnen dertig dagen na ontvangst van het verzoek de opgevraagde stukken.   
 4.  Het College stelt de Commissie in kennis van de verlening van een handelsvergunning overeenkomstig het eerste lid. Deze kennisgeving gaat vergezeld van een opgave van de naam en het adres van de rechtspersoon aan wie de vergunning is verleend. Hetzelfde geldt indien het College de desbetreffende handelsvergunning intrekt.   
 
 ### §  4  
@@ -944,9 +980,7 @@ f. de informatie die noodzakelijk is voor een goed en veilig gebruik van het gen
 
 g. een beschrijving van de bijwerkingen die kunnen optreden bij een normaal gebruik van het geneesmiddel en, indien deze zich voordoen, van de maatregelen die alsdan dienen te worden getroffen;  
 
-h. een vermelding waarin de gebruiker uitdrukkelijk wordt verzocht aan zijn arts of apotheker iedere bijwerking te melden die niet in de bijsluiter is vermeld;  
-
-i. een verwijzing naar de uiterste gebruiksdatum op de verpakking die tevens omvat: 
+h. een verwijzing naar de uiterste gebruiksdatum op de verpakking die tevens omvat: 
 
 1°. een waarschuwing tegen gebruik na overschrijding van deze datum;  
 
@@ -954,27 +988,33 @@ i. een verwijzing naar de uiterste gebruiksdatum op de verpakking die tevens omv
 
 3°. een waarschuwing tegen bepaalde tekenen van bederf, indien van toepassing;    
 
-j. voor elke aandieningsvorm een kwalitatieve en kwantitatieve opgave van werkzame bestanddelen alsmede een kwalitatieve opgave van hulpstoffen, waarbij de algemene benaming van de werkzame stoffen wordt gebruikt;  
+i. voor elke aandieningsvorm een kwalitatieve en kwantitatieve opgave van werkzame bestanddelen alsmede een kwalitatieve opgave van hulpstoffen, waarbij de algemene benaming van de werkzame stoffen wordt gebruikt;  
 
-k. voor elke aandieningsvorm de farmaceutische vorm en de inhoud, uitgedrukt in gewichts-, volume- of doseringseenheden;  
+j. voor elke aandieningsvorm de farmaceutische vorm en de inhoud, uitgedrukt in gewichts-, volume- of doseringseenheden;  
 
-l. de naam en het adres van de houder van de handelsvergunning en, indien hij niet in Nederland is gevestigd, de naam van degene die hem vertegenwoordigt in Nederland;  
+k. de naam en het adres van de houder van de handelsvergunning en, indien hij niet in Nederland is gevestigd, de naam van degene die hem vertegenwoordigt in Nederland;  
 
-m. de naam en het adres van de fabrikant;  
+l. de naam en het adres van de fabrikant;  
 
-n. indien het geneesmiddel onder andere namen in andere lidstaten in de handel is, een lijst van die namen;  
+m. indien het geneesmiddel onder andere namen in andere lidstaten in de handel is, een lijst van die namen;  
 
-o. de datum waarop de bijsluiter voor het laatst is herzien.     
-3.  De bijsluiter is in overeenstemming met de uitkomsten van het overleg dat degene die een handelsvergunning heeft aangevraagd voor het desbetreffende geneesmiddel, op verzoek van de organisatie van patiënten voor wie het geneesmiddel bestemd is, dan wel, indien zodanige organisatie niet bestaat, met de overkoepelende instantie van patiëntenorganisaties heeft gevoerd over de duidelijkheid en gebruiksvriendelijkheid van de bijsluiter. Het verslag van dit overleg maakt deel uit van het dossier dat bij de aanvrage om de handelsvergunning wordt overgelegd. De houder van de handelsvergunning draagt ervoor zorg dat op verzoek van patiëntenorganisaties de bijsluiter in een voor blinden en slechtzienden geschikte vorm beschikbaar is.   
-4.  De bijsluiter is zodanig geschreven en ontworpen dat deze de gebruiker in staat stelt, zonodig met hulp van de beroepsbeoefenaar in de individuele gezondheidszorg die het geneesmiddel heeft voorgeschreven of ter hand gesteld, het geneesmiddel op de juiste wijze te gebruiken.   
-5.  Artikel 69, tweede lid, is van overeenkomstige toepassing ten aanzien van de bijsluiter.   
+n. de datum waarop de bijsluiter voor het laatst is herzien.     
+3.  De bijsluiter bevat een vermelding waarin de patiënt uitdrukkelijk wordt verzocht alle vermoedelijke bijwerkingen aan zijn arts, apotheker, of andere beroepsbeoefenaar te melden, dan wel die vermoedelijke bijwerkingen rechtstreeks te melden aan een orgaan van beroepsbeoefenaren en patiëntenorganisaties in de gezondheidszorg als bedoeld in artikel 76, derde lid. In de bijsluiter wordt aangegeven op welke wijze dergelijke meldingen kunnen worden gemaakt.   
+4.  Indien sprake is van een geneesmiddel als bedoeld in artikel 23 van de verordening, wordt de volgende vermelding opgenomen: «Dit geneesmiddel is onderworpen aan aanvullende monitoring». Deze vermelding wordt voorafgegaan door het in artikel 23 van de verordening bedoelde zwarte symbool en gevolgd door een standaardtoelichting.   
+5.  De bijsluiter is in overeenstemming met de uitkomsten van het overleg dat degene die een handelsvergunning heeft aangevraagd voor het desbetreffende geneesmiddel, op verzoek van de organisatie van patiënten voor wie het geneesmiddel bestemd is, dan wel, indien zodanige organisatie niet bestaat, met de overkoepelende instantie van patiëntenorganisaties heeft gevoerd over de duidelijkheid en gebruiksvriendelijkheid van de bijsluiter. Het verslag van dit overleg maakt deel uit van het dossier dat bij de aanvrage om de handelsvergunning wordt overgelegd. De houder van de handelsvergunning draagt ervoor zorg dat op verzoek van patiëntenorganisaties de bijsluiter in een voor blinden en slechtzienden geschikte vorm beschikbaar is.   
+6.  De bijsluiter is zodanig geschreven en ontworpen dat deze de gebruiker in staat stelt, zonodig met hulp van de beroepsbeoefenaar in de individuele gezondheidszorg die het geneesmiddel heeft voorgeschreven of ter hand gesteld, het geneesmiddel op de juiste wijze te gebruiken.   
+7.  Artikel 69, tweede lid, is van overeenkomstige toepassing ten aanzien van de bijsluiter.   
 
 ### Artikel  72  
 
 1.  De gegevens, bedoeld in de artikelen 69, 70 en 71, worden duidelijk leesbaar, in de Nederlandse taal, goed te begrijpen en onuitwisbaar op de verpakking en in de bijsluiter aangebracht.   
 2.  De gegevens, bedoeld in het eerste lid, kunnen tevens in een andere taal worden vermeld, mits de gegevens in iedere taal dezelfde zijn.   
 3.  Het College kan op een met redenen omkleed verzoek besluiten dat op de buitenverpakking van bepaalde weesgeneesmiddelen de in artikel 69 bedoelde gegevens in één van de officiële talen van de Europese Gemeenschap worden vermeld.   
-4.  Het College kan, desgevraagd, wanneer het geneesmiddel niet bestemd is om rechtstreeks aan de patiënt ter hand te worden gesteld, ontheffing verlenen van de verplichting om bepaalde gegevens op het etiket en in de bijsluiter van het betrokken geneesmiddel te vermelden en van de verplichting om de bijsluiter in het Nederlands op te stellen.   
+4.  Behoudens maatregelen die het College en het Staatstoezicht op de volksgezondheid ter bescherming van de volksgezondheid noodzakelijk achten, kan het College ontheffing verlenen van de verplichting om bepaalde gegevens op het etiket en in de bijsluiter van het betrokken geneesmiddel te vermelden, onderscheidenlijk volledige of gedeeltelijke ontheffing verlenen van de verplichting om het etiket en de bijsluiter in het Nederlands op te stellen, wanneer: 
+
+a. het geneesmiddel niet bestemd is om rechtstreeks aan de patiënt ter hand te worden gesteld, of  
+
+b. er ernstige problemen zijn in verband met de beschikbaarheid van het geneesmiddel.     
 
 ### Artikel  73  
 
@@ -1026,56 +1066,96 @@ b. ter hand worden gesteld door daartoe opgeleide militairen van de krijgsmacht 
 
 ####Geneesmiddelenbewaking
 
+### §  1  
+
+####Het geneesmiddelenbewakingssysteem
+
 ### Artikel  76  
 
-1.  Het College is belast met de geneesmiddelenbewaking.   
-2.  Onze Minister bevordert de totstandkoming en samenwerking van organen van beroepsbeoefenaren en patiëntenorganisaties in de gezondheidszorg die tot doel hebben gegevens over bijwerkingen en het gebruik en misbruik van geneesmiddelen waarvoor een handelsvergunning is verleend, te verzamelen, te registreren en te analyseren.   
+1.  Het College is belast met de geneesmiddelenbewaking. Het College past een geneesmiddelenbewakingssysteem toe om zijn taken op dit gebied te vervullen en aan de geneesmiddelenbewakingswerkzaamheden van de Europese Unie deel te nemen.   
+2.  Bij ministeriële regeling worden nadere regels gesteld omtrent de geneesmiddelenbewakingstaken en -bevoegdheden van het College.   
+3.  Onze Minister bevordert de totstandkoming van en samenwerking tussen organen van beroepsbeoefenaren en patiëntenorganisaties in de gezondheidszorg die tot doel hebben gegevens over bijwerkingen en het gebruik en misbruik van geneesmiddelen waarvoor een handelsvergunning is verleend te verzamelen, te registreren en te analyseren, en andere organisaties werkzaam op dit terrein.   
+
+### Artikel  76a  
+
+1.  De houder van de handelsvergunning draagt bij aan de bewaking van geneesmiddelen waarop de handelsvergunning betrekking heeft door een geneesmiddelenbewakingssysteem toe te passen dat aansluit op het geneesmiddelenbewakingssysteem, bedoeld in artikel 76, eerste lid.   
+2.  Bij ministeriële regeling worden nadere regels gesteld omtrent de geneesmiddelenbewakingstaken van de houder van de handelsvergunning.   
+
+### §  2  
+
+#### *Transparantie en communicatie* 
 
 ### Artikel  77  
 
-1.  De houder van de handelsvergunning draagt bij aan de bewaking van de geneesmiddelen waarop de vergunning betrekking heeft, door: 
+1.  Het College draagt zorg voor een nationaal webportaal voor geneesmiddelen dat overeenkomt met het Europese webportaal voor geneesmiddelen.   
+2.  Bij ministeriële regeling worden regels gesteld over openbaarmakingen door het College via het nationaal webportaal voor geneesmiddelen.   
 
-a. het systematisch verzamelen, registreren, ordenen en beheren van gegevens over alle vermoedelijke bijwerkingen die ter kennis komen van hem en degenen die in dienst van of ten behoeve van zijn onderneming werken;  
+### Artikel  77a  
 
-b. het systeem, bedoeld onder a, op ten minste één plaats in de Gemeenschap toegankelijk te doen zijn voor daartoe bevoegden;  
+De houder van de handelsvergunning en het College dragen ieder afzonderlijk zorg voor openbare mededelingen op basis van geneesmiddelenbewakingsgegevens over risico’s in het gebruik van geneesmiddelen. Over deze openbare mededelingen worden bij ministeriële regeling regels gesteld.  
 
-c. het melden van bijwerkingen aan het Bureau, het College of de desbetreffende bevoegde autoriteit van een andere lidstaat;  
+### §  3  
 
-d. op verzoek van het College, binnen een door het College gestelde termijn, de aanvullende gegevens te verstrekken ten behoeve van de afweging van voordelen en risico’s, met inbegrip van gegevens over het afzetvolume van of het aantal recepten voor het desbetreffende geneesmiddel.     
-2.  De houder van de handelsvergunning belast een daartoe gekwalificeerde persoon met de werkzaamheden, bedoeld in het eerste lid, alsmede met de voorbereiding van de veiligheidsverslagen, bedoeld in het derde lid. Deze persoon heeft zijn woonplaats in de Gemeenschap.   
-3.  Tenzij als voorwaarde aan de verlening van een handelsvergunning of, nadien, krachtens ministeriële regeling, andere eisen zijn gesteld, worden meldingen van alle bijwerkingen door de houder van de handelsvergunning in de vorm van een periodiek veiligheidsverslag bij het College ingediend, hetzij onmiddellijk op verzoek van het College, hetzij ten minste elke zes maanden, te rekenen vanaf de datum van de verlening van de handelsvergunning tot aan de datum waarop het geneesmiddel in de handel wordt gebracht. Voorts dient de houder van de handelsvergunning geactualiseerde veiligheidsverslagen bij het College in, hetzij onmiddellijk op verzoek van het College, hetzij ten minste elke zes maanden, te rekenen vanaf de datum waarop het geneesmiddel in de handel is gebracht, gedurende de eerste twee jaren nadat het geneesmiddel in de handel is gebracht. Gedurende de daarop volgende twee jaren dient de houder van de handelsvergunning zodanig verslag eenmaal per jaar in bij het College. Na laatstbedoelde periode van twee jaren wordt zodanig verslag om de drie jaren ingediend dan wel onmiddellijk indien het College daarom verzoekt. Het periodieke veiligheidsverslag bevat een wetenschappelijke afweging van voordelen en risico’s van het geneesmiddel.   
-4.  De houder van de handelsvergunning kan het College verzoeken om de in het derde lid genoemde perioden te wijzigen volgens de procedure van Verordening (EG) nr. 1084/2003 van de Commissie betreffende het onderzoek van wijzigingen in de voorwaarden van een door een bevoegde instantie van een lidstaat verleende vergunning voor het in de handel brengen van geneesmiddelen voor menselijk gebruik en geneesmiddelen voor diergeneeskundig gebruik (PbEG L 159).   
-5.  De houder van de handelsvergunning stelt het College in kennis van elke vermoedelijke ernstige bijwerking in Nederland waarvan hij door een beroepsbeoefenaar in de gezondheidszorg in kennis is gesteld, onmiddellijk en uiterlijk binnen vijftien dagen nadat de desbetreffende bijwerking te zijner kennis is gekomen. Indien hij in kennis is gesteld van een vermoedelijke ernstige bijwerking op het grondgebied van een andere lidstaat, stelt hij de bevoegde autoriteit van die lidstaat onmiddellijk en uiterlijk binnen vijftien dagen van die bijwerking in kennis.   
-6.  Indien het gaat om een geneesmiddel ter zake waarvan Nederland referentielidstaat is en: 
-
-a. zodanig geneesmiddel viel binnen het toepassingsgebied van richtlijn 87/22/EEG van de Raad van de Europese Gemeenschappen van 22 december 1986 tot onderlinge aanpassing van de nationale maatregelen inzake het in de handel brengen van met behulp van hoogwaardige technieken, met name biotechnieken, vervaardigde geneesmiddelen (PbEG L 15), of  
-
-b. waarvoor een handelsvergunning is verleend nadat de procedure, bedoeld in artikel 44, derde lid, is gevolgd, dan wel  
-
-c. waarvoor een handelsvergunning is verleend nadat de arbitrageprocedure, bedoeld in de artikelen 32, 33 en 34 van richtlijn 2001/83 is gevolgd,   draagt de houder van de handelsvergunning er bovendien voor zorg dat alle vermoedelijke ernstige bijwerkingen die zich in de Gemeenschap voordoen, aan het College worden gemeld binnen vijftien dagen nadat de desbetreffende bijwerkingen te zijner kennis zijn gekomen.   
-7.  De houder van de handelsvergunning meldt aan het College elke vermoedelijke ernstige onverwachte bijwerking en elke vermoedelijke overdracht via een geneesmiddel van infecties veroorzakende agentia op het grondgebied van een derde land die hem ter kennis komen, binnen vijftien dagen na ontvangst van de informatie.   
-8.  De houder van de handelsvergunning verstrekt aan het publiek alleen objectieve informatie betreffende mogelijke bijwerkingen van het geneesmiddel waarop de handelsvergunning betrekking heeft. Hij verstrekt geen informatie aan het publiek over bezorgdheid in verband met geneesmiddelenbewaking dan nadat hij het College ter zake heeft geïnformeerd.   
+#### *Registratie, melding en beoordeling van geneesmiddelenbewakingsgegevens* 
 
 ### Artikel  78  
 
-1.  Beroepsbeoefenaren in de gezondheidszorg melden aan de instantie die in opdracht van de overheid tot doel heeft gegevens over vermoedelijke bijwerkingen van geneesmiddelen waarvoor een handelsvergunning is verleend, te verzamelen, te registreren en te analyseren, onmiddellijk elke vermoedelijke bijwerking die leidt tot overlijden, blijvende invaliditeit, ziekenhuisopname of verlenging hiervan of aangeboren afwijking, alsmede elke vermoedelijke overdracht via een geneesmiddel van infecties veroorzakende agentia. Deze verplichting geldt ook voor bij ministeriële regeling aan te wijzen geneesmiddelen, indien een vermoeden bestaat op een bijzonder gezondheidsrisico.   
-2.  De instantie die in opdracht van de overheid tot doel heeft gegevens over vermoedelijke bijwerkingen van geneesmiddelen waarvoor een handelsvergunning is verleend, te verzamelen, te registreren en te analyseren draagt er zorg voor dat alle gemelde bijwerkingen voor iedereen toegankelijk zijn, met inachtneming de regels die gelden voor de bescherming van de persoonlijke levenssfeer.   
-3.  Ten minste elke drie maanden wordt door de instantie die in opdracht van de overheid tot doel heeft gegevens over vermoedelijke bijwerkingen van geneesmiddelen waarvoor een handelsvergunning is verleend, te verzamelen, te registreren en te analyseren een overzicht van gevonden signalen aan het College ter Beoordeling van Geneesmiddelen ter kennis gesteld. Deze informatie is voor iedereen toegankelijk.   
+1.  De houder van de handelsvergunning registreert alle vermoedelijke bijwerkingen die zich voordoen in de Europese Unie of in derdelanden en hem ter kennis worden gebracht, ongeacht van welk meldingssysteem of welke studie na toelating deze afkomstig zijn. Over de registratie en melding van vermoedelijke bijwerkingen door de houder van de handelsvergunning worden bij ministeriële regeling nadere regels gesteld.   
+2.  Het College registreert alle op Nederlands grondgebied optredende vermoedelijke bijwerkingen die hem door beroepsbeoefenaren en patiënten worden gemeld en maakt daar melding van volgens bij ministeriële regeling te stellen regels.   
+3.  Beroepsbeoefenaren melden onmiddellijk elke vermoedelijke ernstige bijwerking aan een orgaan van beroepsbeoefenaren en patiëntenorganisaties als bedoeld in artikel 76, derde lid, alsmede elke vermoedelijke overdracht via een geneesmiddel van infecties veroorzakende agentia.   
+4.  Het orgaan, bedoeld in het derde lid, draagt er zorg voor dat alle gemelde signalen voor eenieder toegankelijk zijn, met inachtneming van de regels die gelden voor de bescherming van de persoonlijke levenssfeer. Het orgaan doet het College ten minste elke drie maanden een overzicht van alle signalen van bijwerkingen toekomen.   
+
+### Artikel  78a  
+
+1.  De houder van de handelsvergunning dient elektronisch periodieke veiligheidsverslagen in bij het Bureau.   
+2.  Bij ministeriële regeling worden nadere regels gesteld over de inhoud, indiening en indieningsfrequentie van periodieke veiligheidsverslagen.   
+
+### Artikel  78b  
+
+1.  Het College beoordeelt periodieke veiligheidsverslagen ter vaststelling van nieuwe of gewijzigde risico’s of wijzigingen in de afweging van de voordelen en risico’s van geneesmiddelen.   
+2.  Op grond van de beoordeling, bedoeld in het eerste lid, treft het College zo nodig maatregelen betreffende de handelsvergunning van het betrokken geneesmiddel.   
 
 ### Artikel  79  
 
-1.  Het College stelt het Bureau, de desbetreffende bevoegde autoriteiten van de andere lidstaten en de houder van de handelsvergunning voor het desbetreffende geneesmiddel onmiddellijk en in elk geval binnen vijftien dagen in kennis van een vermoedelijke ernstige bijwerking die zich in Nederland heeft voorgedaan.   
-2.  Indien het College van mening is dat een vergunning voor het in de handel brengen van een geneesmiddel moet worden geschorst, ingetrokken of gewijzigd, stelt hij het Bureau, de bevoegde autoriteiten van de andere lidstaten en de houder van de handelsvergunning hiervan onmiddellijk in kennis.   
-3.  Indien zulks in het belang van de volksgezondheid dringend noodzakelijk is, kan het College een handelsvergunning onmiddellijk schorsen. Het College stelt het Bureau, de Europese Commissie en de desbetreffende bevoegde autoriteiten van de andere lidstaten op de eerste werkdag, volgend op de dag van de schorsing, hiervan in kennis.   
+Indien een van de volgende gevallen zich voordoet, zijn de artikelen 107decies tot en met 107duodecies van richtlijn 2001/83 van toepassing: 
+
+a. wanneer wordt overwogen een handelsvergunning te schorsen of in te trekken;  
+
+b. wanneer wordt overwogen de verstrekking van een geneesmiddel te verbieden;  
+
+c. wanneer wordt overwogen de verlenging van een handelsvergunning te weigeren;  
+
+d. wanneer de houder van de handelsvergunning mededeling doet van onderbreking van het in de handel brengen van een geneesmiddel, of maatregelen heeft getroffen tot intrekking van een handelsvergunning, althans voornemens is dergelijke maatregelen te treffen wegens risico’s omtrent de veiligheid van een geneesmiddel;  
+
+e. wanneer een nieuwe contraindicatie, een verlaging van de aanbevolen dosering of een beperking van de indicaties noodzakelijk wordt geacht.    
+
+### §  4  
+
+#### *Uitvoering van niet-interventionele veiligheidsstudies na toelating* 
 
 ### Artikel  80  
 
-1.  Bij ministeriele regeling kunnen, in verband met de vooruitgang van de wetenschap of de techniek, ter zake van de geneesmiddelenbewaking nadere regels worden gesteld.   
-2.  Bij ministeriële regeling kunnen voorts eisen worden gesteld aan de vorm waarin een melding van vermoedelijke ernstige of onverwachte bijwerkingen door de houder van de handelsvergunning wordt gedaan. Tevens kunnen bij de regeling regels worden gesteld ter zake van de vorm waarin andere gegevens dan die, bedoeld in de eerste volzin, krachtens artikel 77 of 79 moeten worden gemeld door of aan het College dan wel aan het Bureau of de desbetreffende bevoegde autoriteit van een andere lidstaat.   
+1.  Niet-interventionele veiligheidsstudies na toelating worden niet uitgevoerd wanneer de uitvoering van de studie het gebruik van een geneesmiddel zou bevorderen.   
+2.  Voor hun deelname aan niet-interventionele veiligheidsstudies na toelating ontvangen beroepsbeoefenaren uitsluitend een vergoeding voor de daaraan bestede tijd en daarvoor gemaakte kosten.   
+3.  Onze Minister belast een of meer instanties met de beoordeling van ontwerpprotocollen van niet-interventionele veiligheidsstudies na toelating als bedoeld in artikel 107quindecies van richtlijn 2001/83 die uitsluitend in Nederland plaatsvinden. Bij de uitvoering van zijn taken neemt de aangewezen instantie artikel 107quindecies tot en met 107octodecies van richtlijn 2001/83 in acht.   
+4.  Bij ministeriële regeling worden omtrent de uitvoering van niet-interventionele veiligheidsstudies na toelating en de taken en bevoegdheden van de houder van de handelsvergunning en het College nadere regels gesteld.   
+
+### §  5  
+
+#### *Overige bepalingen* 
 
 ### Artikel  81  
 
-Dit hoofdstuk is niet van toepassing op homeopathische geneesmiddelen als bedoeld in artikel 42, derde lid.  
+Dit hoofdstuk is niet van toepassing op homeopathische geneesmiddelen als bedoeld in artikel 42, derde lid, van deze wet.  
+
+### Artikel  81a  
+
+In het kader van werkzaamheden op het gebied van signaaldetectie met betrekking tot dit hoofdstuk nemen het College en de houder van de handelsvergunning artikel 107nonies, eerste en derde lid, van richtlijn 2001/83 in acht.  
+
+### Artikel  81b  
+
+1.  Het College kan zijn geneesmiddelenbewakingstaken op grond van dit hoofdstuk aan maximaal één bevoegde autoriteit van een andere lidstaat delegeren of de geneesmiddelenbewakingstaken van maximaal één bevoegde autoriteit van een andere lidstaat overnemen, mits die bevoegde autoriteit hier schriftelijk mee instemt.   
+2.  Indien delegatie als bedoeld in het eerste lid plaatsvindt, stelt het College het Staatstoezicht op de volksgezondheid, de Commissie, het Bureau en alle andere lidstaten hiervan schriftelijk in kennis. Het College maakt deze informatie tevens voor het publiek toegankelijk.   
 
 ### Hoofdstuk  9  
 
@@ -1260,14 +1340,13 @@ Het uitzenden van telewinkelboodschappen is verboden.
 
 ### Artikel  97  
 
-1.  Onze Minister draagt ervoor zorg dat aan een verzoek van het Bureau of een instantie die in een andere lidstaat is belast met het verlenen van vergunningen als bedoeld in artikel 18, eerste lid, om informatie te verstrekken over de naleving van de wettelijke verplichtingen of de aan een vergunning verbonden voorwaarden die op een fabrikant of een groothandelaar van toepassing zijn, zo spoedig mogelijk gevolg wordt gegeven. Hetzelfde geldt voor een verzoek van het Bureau of van zodanige instantie om informatie over een certificaat als bedoeld in artikel 99, tweede of vierde lid.   
+1.  Onze Minister draagt ervoor zorg dat aan een verzoek van het Bureau of een instantie die in een andere lidstaat is belast met het verlenen van vergunningen als bedoeld in artikel 18, eerste lid, om informatie te verstrekken over de naleving van de wettelijke verplichtingen of de aan een vergunning verbonden voorwaarden die op een fabrikant of een groothandelaar van toepassing zijn, zo spoedig mogelijk gevolg wordt gegeven. Hetzelfde geldt voor een verzoek van het Bureau of van zodanige instantie om informatie over een certificaat als bedoeld in artikel 99, tweede of derde lid.   
 2.  Het College draagt ervoor zorg dat aan een verzoek van het Bureau of een instantie die in een andere lidstaat is belast met het verlenen van vergunningen voor het in de handel brengen van geneesmiddelen, om informatie te verstrekken over de naleving van de wettelijke verplichtingen of de aan een handelsvergunning verbonden voorwaarden die op de houder van een handelsvergunning van toepassing zijn, zo spoedig mogelijk gevolg wordt gegeven.   
-3.  Aan een met redenen omkleed verzoek om een afschrift van een verslag als bedoeld in artikel 99, tweede lid, wordt terstond gevolg gegeven.   
-4.  Een certificaat dat in een andere lidstaat is verstrekt krachtens een bepaling die materieel overeenkomt met artikel 99, derde of vierde lid, heeft dezelfde rechtsgevolgen als een in Nederland krachtens de desbetreffende bepaling afgegeven certificaat.   
-5.  Een verslag dat in een andere lidstaat is opgesteld krachtens een bepaling die materieel overeenkomt met artikel 99, tweede lid, heeft dezelfde rechtsgevolgen als een in Nederland krachtens die bepaling opgesteld verslag.   
-6.  Indien Onze Minister om redenen die verband houden met de volksgezondheid, van mening is dat een in een andere lidstaat afgegeven certificaat als bedoeld in het vierde lid, of een in een andere lidstaat opgesteld verslag als bedoeld in het vijfde lid, voor Nederland niet dezelfde rechtsgevolgen dient te hebben als de rechtsgevolgen voor de andere lidstaat, stelt hij de Commissie, het Bureau en de betrokken lidstaat daarvan onverwijld in kennis.   
-7.  Indien een andere lidstaat van mening is dat een in Nederland afgegeven certificaat als bedoeld in het vierde lid, of een in Nederland opgesteld verslag als bedoeld in artikel 99, tweede lid, niet dezelfde rechtsgevolgen dient te hebben als de rechtsgevolgen daarvan in Nederland en de Commissie de inspecteur die de inspectie heeft uitgevoerd, verzoekt een nieuwe inspectie uit te voeren, wordt aan dit verzoek gevolg gegeven.   
-8.  De hoofdinspecteur, bedoeld in 99, eerste lid, draagt ervoor zorg dat een besluit tot het uit de handel nemen of het verbieden van de aflevering een geneesmiddel terstond ter kennis wordt gebracht van het Bureau. Indien zodanig besluit een weerslag kan hebben op de volksgezondheid in een derde land, draagt Onze Minister ervoor zorg dat die informatie ook ter kennis wordt gebracht van de Wereldgezondheidsorganisatie.   
+3.  Een certificaat dat in een andere lidstaat is verstrekt krachtens een bepaling die materieel overeenkomt met artikel 99, tweede of derde lid, heeft dezelfde rechtsgevolgen als een in Nederland krachtens de desbetreffende bepaling afgegeven certificaat.   
+4.  Een verslag dat in een andere lidstaat is opgesteld krachtens een bepaling die materieel overeenkomt met artikel 100a, eerste lid, heeft dezelfde rechtsgevolgen als een in Nederland krachtens die bepaling opgesteld verslag.   
+5.  Indien Onze Minister om redenen die verband houden met de volksgezondheid, van mening is dat een in een andere lidstaat afgegeven certificaat als bedoeld in het derde lid, of een in een andere lidstaat opgesteld verslag als bedoeld in het vierde lid, voor Nederland niet dezelfde rechtsgevolgen dient te hebben als de rechtsgevolgen voor de andere lidstaat, stelt hij de Commissie, het Bureau en de betrokken lidstaat daarvan onverwijld in kennis.   
+6.  Indien een andere lidstaat van mening is dat een in Nederland afgegeven certificaat als bedoeld in het derde lid, of een in Nederland opgesteld verslag als bedoeld in artikel 100a, eerste lid, niet dezelfde rechtsgevolgen dient te hebben als de rechtsgevolgen daarvan in Nederland en de Commissie de inspecteur die de inspectie heeft uitgevoerd, verzoekt een nieuwe inspectie uit te voeren, wordt aan dit verzoek gevolg gegeven.   
+7.  De functionaris, bedoeld in 99, eerste lid, draagt ervoor zorg dat een besluit tot het uit de handel nemen of het verbieden van de aflevering een geneesmiddel terstond ter kennis wordt gebracht van het Bureau. Indien zodanig besluit een weerslag kan hebben op de volksgezondheid in een derde land, draagt Onze Minister ervoor zorg dat die informatie ook ter kennis wordt gebracht van de Wereldgezondheidsorganisatie.   
 
 ### Artikel  98  
 
@@ -1276,12 +1355,10 @@ Het uitzenden van telewinkelboodschappen is verboden.
 
 ### Artikel  99  
 
-1.  De functionaris die aan het hoofd staat van het onderdeel van het Staatstoezicht op de volksgezondheid dat is aangewezen krachtens het besluit van Onze Minister, bedoeld in artikel 100, eerste lid, draagt ervoor zorg dat gevolg wordt gegeven aan het verzoek van de Commissie, het Bureau, de toezichthoudende instantie van een andere lidstaat of de instantie die in een andere lidstaat bevoegd is tot het verlenen van handelsvergunningen, om een inspectie uit te voeren bij de fabrikant van een bepaald geneesmiddel, bij degene die een werkzame grondstof voor een bepaald geneesmiddel bereidt, niet zijnde de fabrikant, of bij de houder van de handelsvergunning voor een bepaald geneesmiddel, indien de verzoeker het vermoeden heeft geuit dat de voorschriften inzake goede praktijken bij de vervaardiging, bedoeld in artikel 27, niet worden nageleefd.   
-2.  De functionaris, bedoeld in het eerste lid, draagt ervoor zorg dat van een inspectie naar de naleving van de voorschriften inzake goede praktijken bij de vervaardiging, verslag wordt gemaakt en dat de inhoud daarvan wordt meegedeeld aan degene bij wie de inspectie is verricht. Hetzelfde geldt indien een inspectie is uitgevoerd naar de naleving van de bepalingen inzake geneesmiddelenbewaking.   
-3.  Indien een inspectie is uitgevoerd bij een natuurlijke persoon of een rechtspersoon die in een derde land geneesmiddelen geheel of gedeeltelijk vervaardigt dan wel grondstoffen als bedoeld in het eerste lid vervaardigt, draagt de functionaris ervoor zorg dat, indien de betrokken persoon bij de vervaardiging voorschriften naleeft die gelijkwaardig zijn aan die, bedoeld in artikel 27, binnen negentig dagen, te rekenen vanaf de dag van de beëindiging van de inspectie, een certificaat wordt verstrekt aan de betrokkene waarin de naleving is vastgelegd.   
-4.  Indien een inspectie is uitgevoerd in het kader van de krachtens het verdrag, bedoeld in artikel 1, eerste lid, onder f, vastgestelde procedure voor het verkrijgen van een certificaat van overeenstemming met de monografieën van de Europese Farmacopee, draagt de functionaris ervoor zorg dat er een certificaat wordt opgesteld en overgelegd aan degene die om de inspectie heeft gevraagd. Een afschrift van het certificaat wordt verstrekt aan degene bij wie de inspectie is uitgevoerd.   
-5.  De functionaris draagt ervoor zorg dat een afschrift van een certificaat als bedoeld in het derde en vierde lid, wordt gezonden aan het Bureau met het verzoek om dit op te nemen in de door het Bureau opgezette communautaire databank voor zodanige certificaten.   
-6.  Indien tijdens een inspectie is geconstateerd dat een fabrikant zich niet houdt aan de beginselen inzake goede praktijken bij de vervaardiging, bedoeld in artikel 27, draagt de functionaris er voorts voor zorg dat deze informatie wordt gezonden aan het Bureau teneinde dit te doen opnemen in de databank, bedoeld in het vijfde lid, en aan het College.   
+1.  De functionaris die aan het hoofd staat van het onderdeel van het Staatstoezicht op de volksgezondheid dat is aangewezen krachtens het besluit van Onze Minister, bedoeld in artikel 100, eerste lid, draagt ervoor zorg dat gevolg wordt gegeven aan het verzoek van de Commissie, het Bureau, de toezichthoudende instantie van een andere lidstaat of de instantie die in een andere lidstaat bevoegd is tot het verlenen van handelsvergunningen, om een inspectie uit te voeren bij de fabrikant van een bepaald geneesmiddel, bij degene die een werkzame grondstof voor een bepaald geneesmiddel bereidt, niet zijnde de fabrikant, of bij de houder van de handelsvergunning voor een bepaald geneesmiddel, indien de verzoeker het vermoeden heeft geuit dat de voorschriften inzake goede praktijken bij de vervaardiging, bedoeld in artikel 27, niet worden nageleefd. De functionaris kan ook op uitdrukkelijk verzoek van een fabrikant van werkzame stoffen of hulpstoffen een inspectie bij hem uitvoeren.   
+2.  Indien een inspectie is uitgevoerd bij een natuurlijke persoon of een rechtspersoon die in een derde land geneesmiddelen geheel of gedeeltelijk vervaardigt dan wel grondstoffen als bedoeld in het eerste lid vervaardigt, draagt de functionaris ervoor zorg dat, indien de betrokken persoon bij de vervaardiging voorschriften naleeft die gelijkwaardig zijn aan die, bedoeld in artikel 27, binnen negentig dagen, te rekenen vanaf de dag van de beëindiging van de inspectie, een certificaat wordt verstrekt aan de betrokkene waarin de naleving is vastgelegd.   
+3.  Indien een inspectie is uitgevoerd in het kader van de krachtens het verdrag, bedoeld in artikel 1, eerste lid, onder f, vastgestelde procedure voor het verkrijgen van een certificaat van overeenstemming met de monografieën van de Europese Farmacopee, draagt de functionaris ervoor zorg dat er een certificaat wordt opgesteld en overgelegd aan degene die om de inspectie heeft gevraagd. Een afschrift van het certificaat wordt verstrekt aan degene bij wie de inspectie is uitgevoerd.   
+4.  De functionaris draagt ervoor zorg dat een afschrift van een certificaat in het tweede en derde lid, wordt gezonden aan het Bureau met het verzoek om dit op te nemen in de EudraGMP-databank.   
 
 ### Hoofdstuk  11  
 
@@ -1295,9 +1372,16 @@ Het uitzenden van telewinkelboodschappen is verboden.
 4.  Voor de toepassing van dit hoofdstuk wordt onder Onze Minister tevens verstaan Onze Minister van Verkeer en Waterstaat of Onze Minister van Defensie voor zover het toezicht op de naleving van deze wet plaatsvindt op grond van het tweede onderscheidenlijk het derde lid.   
 5.  De ambtenaren, bedoeld in het eerste en tweede lid, en de ambtenaren die door en namens Onze Minister van Defensie belast zijn met de in het derde lid bedoelde taak, hebben geen financiële belangen of andere belangen in de farmaceutische industrie die hun onpartijdigheid in het gedrang kunnen brengen. Zij verstrekken jaarlijks een verklaring omtrent hun financiële belangen aan de minister onder wie zij ressorteren.   
 
+### Artikel  100a  
+
+1.  Indien in verband met het toezicht op de naleving van voorschriften inzake goede praktijken bij de vervaardiging, onderscheidenlijk voorschriften inzake goede distributiepraktijken, bedoeld in artikel 27 en 36, dan wel het bepaalde in hoofdstuk 8 van deze wet een inspectie volgt, wordt hiervan een verslag gemaakt. De functionaris, bedoeld in artikel 99, eerste lid, draagt ervoor zorg dat de inhoud van het verslag wordt medegedeeld aan degene bij wie de inspectie is verricht, waarna deze in de gelegenheid wordt gesteld om opmerkingen te maken voordat het verslag wordt vastgesteld.   
+2.  Indien tijdens een inspectie wordt vastgesteld dat de houder van de handelsvergunning zich niet houdt aan het geneesmiddelenbewakingssysteem zoals beschreven in het betreffende basisdossier geneesmiddelenbewakingssysteem of aan andere verplichtingen op grond van hoofdstuk 8 van deze wet, wijst de functionaris hem daarop en stelt hij hem in de gelegenheid om opmerkingen te maken. De functionaris stelt het College, de andere lidstaten, het Bureau en de Commissie hiervan in kennis.   
+3.  Indien een inspectie uitwijst dat er sprake is van niet-naleving van voorschriften inzake goede praktijken bij de vervaardiging of voorschriften inzake goede distributiepraktijken als bedoeld in het eerste lid, maakt de functionaris hiervan melding in de EudraGMP-databank.   
+4.  Het Staatstoezicht op de volksgezondheid, het College en het Bureau informeren elkaar over geplande en uitgevoerde inspecties. Zij werken samen op het gebied van de coördinatie van inspecties in derdelanden. Op een met redenen omkleed verzoek doet de functionaris verslagen als bedoeld in het eerste lid aan een andere lidstaat of het Bureau elektronisch toekomen.   
+
 ### Artikel  101  
 
-1.  Onze Minister kan een bestuurlijke boete opleggen van ten hoogste € 450 000 ter zake van overtreding van het bepaalde bij of krachtens artikel 18, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 48, 49, 50, 61, 62, 64, 65, 66, 66a, 67, 68, 69, 70, 71, 72, 73, 74, 75, 77, 78, 80, 84, 85, 86, 87, 88, 89, 91, 92, 93, 94, 95 of 96.   
+1.  Onze Minister kan een bestuurlijke boete opleggen van ten hoogste € 450 000 ter zake van overtreding van het bepaalde bij of krachtens artikel 18, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 48, 49, 50, 61, 62, 64, 65, 66, 66a, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76a, 77a, 78, eerste en vierde lid, 78a, 84, 85, 86, 87, 88, 89, 91, 92, 93, 94, 95 of 96.   
 2.  Een gedraging als bedoeld in het eerste lid die geen economisch delict is in de zin van de [Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md), is een strafbaar feit indien in de daaraan voorafgaande 24 maanden tweemaal een bestuurlijke boete ter zake van een zelfde gedraging is opgelegd.   
 3.  Met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft degene die een strafbaar feit als bedoeld in het tweede lid pleegt.   
 4.  Een strafbaar feit als bedoeld in het tweede lid, is een overtreding.   
@@ -1336,7 +1420,7 @@ c. een apotheek te sluiten indien in die apotheek, naar hun oordeel, niet de nod
 3.  De vergunningen die vóór de inwerkingtreding van deze wet krachtens de [Wet op de Geneesmiddelenvoorziening](../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md) zijn verleend voor het uitsluitend afleveren van geneesmiddelen anders dan na invoer, worden voor de toepassing van deze wet gelijkgesteld met vergunningen voor het drijven van een groothandel.   
 4.  De inschrijvingen in een register als bedoeld in [artikel 3 van de Wet op de Geneesmiddelenvoorziening](../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md) die vóór de inwerkingtreding van deze wet zijn geschied dan wel de vergunningen die krachtens die wet zijn verleend voor het verpakken, etiketteren en afleveren van uit een andere lidstaat betrokken geneesmiddelen worden voor de toepassing van deze wet gelijkgesteld met handelsvergunningen onderscheidenlijk parallelhandelsvergunningen.   
 5.  De inschrijvingen in een register als bedoeld in [artikel 3 van de Wet op de Geneesmiddelenvoorziening](../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md) onderscheidenlijk de aanvragen om zodanige inschrijving die vóór de inwerkingtreding van deze wet zijn geschied onderscheidenlijk zijn ingediend en waarop nog niet onherroepelijk is beslist, worden voor de toepassing van deze wet gelijkgesteld met handelsvergunningen onderscheidenlijk aanvragen om een handelsvergunning. De in de eerste volzin bedoelde gelijkstelling geldt evenwel niet voor de toepassing van de in de artikelen 42, vijfde lid, onder a, en 43, tweede lid, bedoelde perioden ten aanzien van referentiegeneesmiddelen waarvoor vóór de inwerkingtreding van deze wet een inschrijving of een aanvraag om inschrijving als bedoeld in de eerste volzin, is geschied onderscheidenlijk is ingediend en waarop nog niet onherroepelijk is beslist. Ten aanzien van de inschrijvingen in een register als bedoeld in de eerste volzin, die vóór 30 oktober 2005 zijn geschied, en de vóór die datum ingediende aanvragen om inschrijving, blijft de beschermingsperiode, bedoeld in [artikel 2, achtste lid, aanhef en onder a, van het Besluit registratie geneesmiddelen](../../../AMvB/besluit/registratie/geneesmiddelen/BWBR0003114/README.md) zoals dat luidde vóór de inwerkingtreding van deze wet, van toepassing, onverminderd het recht met betrekking tot de bescherming van de industriële en commerciële eigendom.   
-6.  De vergunningen die krachtens de [Wet op de Geneesmiddelenvoorziening](../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md) zijn verleend voor het verpakken, etiketteren en afleveren van uit een andere lidstaat betrokken geneesmiddelen, onderscheidenlijk de aanvragen tot zodanige vergunningen die zijn ingediend vóór de inwerkingtreding van deze wet en waarop nog niet onherroepelijk is beslist, worden voor de toepassing van deze wet gelijkgesteld met parallelhandelsvergunningen onderscheidenlijk aanvragen om een parallelhandelsvergunning.   
+6.   Vervallen.    
 7.  De geneesmiddelen, bedoeld in de bijlagen VII, IX, XI, XII en XIII bij de Toetredingsakte waarvoor onderscheidenlijk in Cyprus, Litouwen, Malta, Polen en Slovenië een handelsvergunning is verleend, komen niet in aanmerking voor behandeling door het College in het kader van de procedure, bedoeld in artikel 44, derde lid, totdat die geneesmiddelen in overeenstemming zijn gebracht met de bepalingen van deze wet inzake kwaliteit, veiligheid en werkzaamheid van geneesmiddelen, doch uiterlijk tot onderscheidenlijk 31 december 2005, 1 januari 2007, 31 december 2006, 31 december 2008 en 31 december 2007.   
 8.  Aanvragen om een vergunning voor het bereiden en afleveren of het uitsluitend afleveren van geneesmiddelen die zijn ingediend vóór de inwerkingtreding van deze wet en waarop nog niet onherroepelijk is beslist, worden voor de toepassing van deze wet gelijkgesteld met aanvragen voor vergunningen als bedoeld in artikel 18, eerste lid, tweede en derde volzin.   
 9.  De vergunningen die vóór de inwerkingtreding van deze wet op grond van de [Wet op de Geneesmiddelenvoorziening](../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md) zijn verleend voor het bereiden of het invoeren van geneesmiddelen voor onderzoek, worden voor de toepassing van deze wet gelijkgesteld met de vergunningen voor het bereiden of invoeren van geneesmiddelen voor onderzoek. Aanvragen om vergunningen voor het bereiden of invoeren van geneesmiddelen voor onderzoek die zijn ingediend vóór de inwerkingtreding van deze wet en waarop nog niet onherroepelijk is beslist, worden voor de toepassing van deze wet gelijkgesteld met aanvragen daarvoor op grond van deze wet.   
@@ -1344,12 +1428,10 @@ c. een apotheek te sluiten indien in die apotheek, naar hun oordeel, niet de nod
 
 ### Artikel  118  
 
-1.  Degene die een aanvraag voor een handelsvergunning voor een traditioneel kruidengeneesmiddel wil indienen voor een product dat ten tijde van de inwerkingtreding van deze wet in de handel was, dient binnen acht maanden na de inwerkingtreding van deze wet een aanvraag tot voorlopige toelating in, onder overlegging van de gegevens waaruit blijkt dat het desbetreffende product voldoet aan de voorwaarden van artikel 42, achtste lid.   
-2.  Het College beslist zo spoedig mogelijk, doch uiterlijk binnen acht weken, of het desbetreffende product naar zijn oordeel voldoet aan de voorwaarden van artikel 42, achtste lid.   
+1.   Vervallen.    
+2.   Vervallen.    
 3.  Ter zake van producten die naar het oordeel van het College voldoen aan artikel 42, achtste lid, wordt de aanvraag voor een handelsvergunning voor een traditioneel kruidengeneesmiddel binnen één jaar en acht maanden na de inwerkingtreding van deze wet ingediend, onder overlegging van de desbetreffende krachtens artikel 42, tweede lid, aangewezen gegevens en bescheiden.   
 4.  Op verzoek van de aanvrager kan het College tot vier jaren en acht maanden na de inwerkingtreding van deze wet uitstel verlenen voor het overleggen van de gegevens en bescheiden, bedoeld in het derde lid.   
-5.  Tot acht maanden na de inwerkingtreding van deze wet of, indien voor de afloop van deze periode een aanvraag als bedoeld in het eerste lid is ingediend, tot twee maanden na het moment waarop onherroepelijk is beslist op die aanvraag, is artikel 40, eerste en tweede lid, niet van toepassing op kruidengeneesmiddelen als bedoeld in artikel 42, achtste lid.   
-6.  Tot twee jaren en acht maanden na de inwerkingtreding van deze wet of, indien vóór deze datum een aanvraag als bedoeld in het derde lid is ingediend, tot twee maanden na het moment waarop onherroepelijk is beslist op die aanvraag doch uiterlijk tot 27 januari 2011, is artikel 40, eerste en tweede lid, niet van toepassing op overeenkomstig het eerste en tweede lid voorlopig toegelaten kruidengeneesmiddelen.   
 
 ### Artikel  119  
 
@@ -1357,8 +1439,8 @@ De arts die onmiddellijk vóór de inwerkingtreding van deze wet krachtens [arti
 
 ### Artikel  120  
 
-1.  Voor middelen, bedoeld in [bijlage II, behorende bij artikel 21, eerste lid, van het Besluit registratie geneesmiddelen](../../../AMvB/besluit/registratie/geneesmiddelen/BWBR0003114/README.md), zoals deze luidde voor het tijdstip van inwerkintreding van deze wet, is artikel 40, eerste en tweede lid, gedurende vijf jaren, te rekenen vanaf dat tijdstip, niet van toepassing.   
-2.   Wijzigt deze wet.    
+1.   Vervallen.    
+2.   Vervallen.    
 3.  Een wijziging van: 
 
 a. richtlijn 85/374/EEG van de Raad van 25 juli 1985 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de aansprakelijkheid voor producten met gebreken (PbEG L 210),  
@@ -1374,7 +1456,18 @@ c. richtlijn 2001/83,   gaat voor de toepassing van deze wet gelden met ingang v
 
 ### Artikel  122  
 
-Waar in deze wet wordt verwezen naar de [Wet medisch-wetenschappelijk onderzoek met mensen](../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md), wordt daaronder verstaan de [Wet medisch-wetenschappelijk onderzoek met mensen](../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) zoals deze komt te luiden indien het bij koninklijke boodschap van 27 februari 2003 ingediende voorstel van Wet tot wijziging van de Wet medisch-wetenschappelijk onderzoek met mensen ter implementatie van richtlijn nr. 2001/20/EG inzake de toepassing van goede klinische praktijken bij de uitvoering van klinische proeven met geneesmiddelen voor menselijk gebruik (Wetenschappelijk onderzoek met geneesmiddelen), Kamerstukken II, nr. 28 804, tot wet zal zijn verheven en in werking is getreden.  
+1.  Voor handelsvergunningen die vóór 21 juli 2012 zijn verleend geldt de verplichting van de houder van de handelsvergunning, opgelegd bij en krachtens artikel 76a, tweede lid, van deze wet om een basisdossier geneesmiddelenbewakingssysteem bij te houden en dit op verzoek ter beschikking te stellen, vanaf de datum waarop die handelsvergunningen worden verlengd, doch uiterlijk vanaf 21 juli 2015.   
+2.  Artikel 80 van deze wet is uitsluitend van toepassing op veiligheidsstudies na toelating die na 21 juli 2012 zijn aangevangen.   
+3.  De verplichting van de houder van de handelsvergunning bij en krachtens artikel 78 van deze wet om melding te maken van vermoedelijke bijwerkingen in de Eudravigilance-databank geldt vanaf zes maanden nadat de functiespecificaties van de Eudravigilance-databank tot stand zijn gebracht en door het Bureau bekend zijn gemaakt.   
+4.  Totdat het Bureau er zorg voor heeft gedragen dat de Eudravigilance-databank voldoet aan de functiespecificaties als bedoeld in het derde lid: 
+
+a. maakt de houder van de handelsvergunning uiterlijk binnen vijftien dagen na kennisneming van vermoedelijke ernstige bijwerkingen die zich binnen de Europese Unie voordoen, melding hiervan aan de bevoegde autoriteit van de lidstaat waar deze zich hebben voorgedaan. Indien het gaat om een derdeland, maakt de houder van de handelsvergunning tevens melding aan het Bureau, en, op verzoek, aan de bevoegde autoriteiten van de lidstaten waar het geneesmiddel is toegelaten;  
+
+b. kan het College de houder van de handelsvergunning verplichten hem alle vermoedelijke bijwerkingen die zich binnen het Nederlands grondgebied voordoen, te melden, uiterlijk binnen negentig dagen na kennisneming;  
+
+c. ziet het College erop toe dat meldingen van vermoedelijke ernstige bijwerkingen die betrekking hebben op het Nederlands grondgebied, onverwijld, doch uiterlijk binnen vijftien dagen na kennisneming, worden doorgegeven aan de Eudravigilance-databank.     
+5.  De verplichting van de houder van de handelsvergunning om bij of krachtens artikel 78a van deze wet periodieke veiligheidsverslagen aan het Bureau te doen toekomen geldt vanaf twaalf maanden nadat de functiespecificaties van het centrale register van periodieke veiligheidsverslagen tot stand zijn gebracht en door het Bureau bekend zijn gemaakt.   
+6.  Totdat het Bureau er zorg voor heeft gedragen dat het register van periodieke veiligheidsverslagen voldoet aan de overeengekomen functiespecificaties, zendt de houder van de handelsvergunning periodieke veiligheidsverslagen aan de lidstaten waar het geneesmiddel is toegelaten.   
 
 ### §  2  
 

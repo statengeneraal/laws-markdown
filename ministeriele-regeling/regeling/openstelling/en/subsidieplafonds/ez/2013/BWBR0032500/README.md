@@ -112,7 +112,8 @@ Besluit:
 | 5.4  | Subsidieregeling energie en innovatie (duurzame warmte voor bestaande woningen)  | 3.1.2  | --- | --- | --- |
 | 5.5  | Subsidieregeling energie en innovatie (duurzame biomassa-import)  | 3.2.2  | --- | --- | --- |
 | 5.6  | Subsidieregeling energie en innovatie (investeringen verlaging elektriciteitsaansluiting warmtepomphouders)  | 3.3.2  | --- | --- | --- |
-| 5.7  | Subsidieregeling energie en innovatie (aardwarmteprojecten)  | 3.4.2  | --- | --- | --- |
+| 5.7  | Subsidieregeling energie en innovatie (aardwarmteproject)  | 3.4.2, eerste lid, onder a  | --- | 18-03 t/m 14-06  | 30.600.000  |
+| 5.7.a  | Subsidieregeling energie en innovatie (diep aardwarmteproject)  | 3.4.2, eerste lid, onder b  | --- | 18-03 t/m 13-05  | 12.750.000  |
 | 5.8  | Subsidieregeling energie en innovatie (bioraffinage)  | 3.5.2  | Demonstratieproject bioraffinage  | --- | --- |
 | --- | Subsidieregeling energie en innovatie (bioraffinage)  | 3.5.2  | Pilotproject bioraffinage  | --- | --- |
 | 5.9  | Subsidieregeling energie en innovatie (vergassing)  | 3.6.2  | Voorbereidingsstudies vergassing  | --- | --- |
