@@ -30,11 +30,26 @@ In deze regeling wordt verstaan onder:
 
 Indien de Stichting Skal constateert dat de bepalingen van verordening (EG) 834/2007 in samenhang met verordening (EG) 889/2008 niet worden nageleefd met betrekking tot een product waarvoor overeenkomstig die verordeningen aanduidingen worden gebezigd, kan zij de betreffende marktdeelnemers de verplichting opleggen om de aanduidingen van de desbetreffende producten te verwijderen of te doen verwijderen overeenkomstig artikel 30, eerste lid, van verordening (EG) 834/2007.  
 
+### Artikel  4  
+
+1.  Het aantal grootvee-eenheden, bedoeld in artikel 15 van verordening (EG) 889/2008, wordt vastgesteld door 170 kg stikstof per jaar per hectare te delen door de omvang van de mestproductie per dier van de desbetreffende diercategorie per jaar uitgedrukt in kilogrammen stikstof, zoals opgenomen in bijlage I bij deze regeling.   
+2.  Ingeval de desbetreffende diercategorie in bijlage I ontbreekt, is [bijlage D van de Uitvoeringsregeling Meststoffenwet](../../../../ministeriele-regeling/uitvoeringsregeling/meststoffenwet/BWBR0018989/README.md) van toepassing.   
+
+### Artikel  5  
+
+De duur van de periode waarin de uitlopen leeg moeten blijven als bedoeld in artikel 23, vijfde lid, van verordening (EG) 889/2008 bedraagt telkens na het houden van een koppel pluimvee: 
+
+a. 60 dagen voor legkippen;  
+
+b. 30 dagen voor vleeskuikens.    
+
 ### Artikel  6  
 
 1.  De Minister kan op aanvraag een vergunning verlenen als bedoeld in artikel 29, eerste lid van verordening (EG) 889/2008.   
 2.  De Minister kan op aanvraag een ontheffing verlenen voor de import van producten van gegarandeerde gelijkwaardigheid afkomstig uit derde landen die niet zijn opgenomen op de lijst, bedoeld in artikel 33, tweede lid, van verordening (EG) 834/2007, overeenkomstig de bij verordening (EG) 1235/2008 vastgestelde communautaire voorschriften.   
 3.  De Stichting Skal kan op aanvraag ontheffing verlenen voor het gebruik van niet overeenkomstig de biologische productiemethode verkregen zaaizaad en pootgoed overeenkomstig artikel 45 van verordening (EG) 889/2008.   
+4.  De stichting Skal kan op aanvraag tot uiterlijk 31 december 2013 toestemming verlenen voor het aanbinden van runderen overeenkomstig artikel 95, eerste lid, van verordening (EG) 889/2008.   
+5.  De stichting Skal kan op aanvraag tot uiterlijk 31 december 2013 toestemming verlenen voor de bezetting van de uitloop voor vleeskuikens overeenkomstig artikel 95, tweede lid, van verordening (EG) 889/2008.   
 
 ### Artikel  7  
 

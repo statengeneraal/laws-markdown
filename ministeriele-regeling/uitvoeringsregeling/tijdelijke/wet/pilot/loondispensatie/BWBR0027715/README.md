@@ -51,13 +51,12 @@ b. Arbolabmethode, aangeboden door Melba en Arbolab;
 c. Dariuz, aangeboden door TNO, Chainworks en Mensenwerk;  
 
 d. Loonbalans, aangeboden door Eduper.     
-2.  Indien de gemeente op het moment van indiening van het verzoek tot deelname aan de pilot een overeenkomst heeft met één van de vier bovengenoemde marktaanbieders voor de toepassing van de aldaar genoemde methode past het college deze methode toe bij de pilot, tenzij het college in het verzoek tot deelname heeft aangegeven die methode niet toe te willen passen.   
+2.  Indien de gemeente die deelneemt aan de pilot een overeenkomst sluit met één van de vier bovengenoemde marktaanbieders voor de toepassing van de aldaar genoemde methode, past het college vanaf de ingangsdatum van de overeenkomst deze methode toe bij de pilot.   
 3.  Indien de gemeente op het moment van indiening van het verzoek tot deelname aan de pilot een andere methode dan de in het eerste lid genoemde methoden toepast, kan het college aan de Minister van Sociale Zaken en Werkgelegenheid verzoeken om deze methode toe te mogen passen bij de pilot. De Minister kan dit toestaan, indien: 
 
 a. de beschreven methode de arbeidsprestatie van een werknemer op de werkplek meet gegeven diens eventuele arbeidsbeperkingen in een bepaalde functie op een bepaald moment, en  
 
 b. deze methode een waarde als uitkomst heeft.     
-4.  Voor de colleges die niet op basis van het tweede of het derde lid een methode bij de pilot toepassen, geldt dat het college één van de in het eerste lid genoemde methoden krijgt toegewezen waarbij de verdeling van de vier methoden op een zodanige wijze geschiedt dat er een zoveel mogelijke evenwichtige verdeling van de in het eerste lid genoemde methoden over de deelnemende gemeenten plaatsvindt. Dit geschiedt door middel van loting.   
 
 ### Artikel  5  
 

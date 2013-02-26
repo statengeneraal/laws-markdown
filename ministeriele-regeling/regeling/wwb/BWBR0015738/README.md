@@ -252,8 +252,9 @@ b. de uitstroom van de tekortgemeente in jaar [t] ten opzichte van de gemiddelde
 
 a. beslist uiterlijk 31 december van het kalenderjaar waarin het verzoek als bedoeld in het eerste lid is ingediend of dat verzoek wordt gehonoreerd en of de eigen bijdrage 2,5%, 5% of 7,5% bedraagt;  
 
-b. stelt, na toewijzing van het verzoek, de hoogte van elk van de delen vast binnen zes weken na 15 juli van het kalenderjaar volgend op het kalenderjaar waarop het desbetreffende deel betrekking heeft of, indien een gemeente haar verantwoording over de uitvoering van de [wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) op de wijze als bedoeld in [artikel 17a van de Financiële verhoudingswet](../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) niet uiterlijk 15 juli bij Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties heeft ingediend, binnen zes weken na indiening van de verantwoordingsinformatie.     
+b. stelt, na toewijzing van het verzoek, de hoogte van elk van de delen vast binnen zes weken na 15 juli van het kalenderjaar volgend op het kalenderjaar waarop het desbetreffende deel betrekking heeft of, indien een gemeente haar verantwoording over de uitvoering van de [wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) op de wijze als bedoeld in [artikel 17a van de Financiële verhoudingswet](../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) niet uiterlijk 15 juli bij Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties heeft ingediend, binnen zes weken na indiening van de verantwoordingsinformatie.     
 6.  Het percentage, bedoeld in [artikel 10a, eerste lid, onderdeel c, van het Besluit WWB 2007](../../../../AMvB/besluit/wwb/2007/BWBR0020183/README.md), bedraagt 4,2% voor de kalenderjaren 2010 en 2011 en 0% voor het kalenderjaar 2012.   
+7.  Het Digitaal Verantwoordingssysteem, genoemd in het derde lid, wordt tot een nader door de minister te bepalen tijdstip niet gebruikt bij de indiening van een formulier houdende een verzoek tot een meerjarige aanvullende uitkering.   
 
 ### §  8  
 
