@@ -13,11 +13,11 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *ministerie:* het ministerie van Sociale Zaken en Werkgelegenheid;  
+a.  *ministerie:* het ministerie van Sociale Zaken en Werkgelegenheid;  
 
-b. *directie Communicatie:* de directie Communicatie van het ministerie;  
+b.  *directie Communicatie:* de directie Communicatie van het ministerie;  
 
-c. *directeur:* de functionaris die leiding geeft aan de directie Communicatie.    
+c.  *directeur:* de functionaris die leiding geeft aan de directie Communicatie.   
 
 ### §  2  
 
@@ -33,7 +33,7 @@ b. de afdeling Communicatieadvies en Onderzoek;
 
 c. de afdeling Publiek en Informatie;  
 
-d. de afdeling Stafbureau.    
+d. de afdeling Stafbureau.   
 
 ### Artikel  3  
 
@@ -53,7 +53,7 @@ f. het zorgdragen voor de administratieve en financiële voorbereiding van het f
 
 g. het zorgdragen voor de binnen de eigen afdeling vastgelegde mandaten;  
 
-h. het behandelen van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover deze betrekking hebben op gedragingen van de onder hen ressorterende functionarissen.    
+h. het behandelen van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover deze betrekking hebben op gedragingen van de onder hen ressorterende functionarissen.   
 
 ### Artikel  4  
 
@@ -73,8 +73,8 @@ f. het leveren van bijdragen aan de internetsites en sociale media van het minis
 
 g. het registreren van en adviseren over de uitnodigingen van de bewindspersonen;  
 
-h. het onderhouden van contacten met de afdelingen persvoorlichting van voor het ministerie cruciale stakeholders, zoals het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de sociale partners.     
-2.  Het hoofd van de afdeling Woordvoering en Publiciteit wordt bijgestaan door onder hem ressorterende teamleiders.   
+h.  het onderhouden van contacten met de afdelingen persvoorlichting van voor het ministerie cruciale stakeholders, zoals het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de sociale partners.    
+2.  Het hoofd van de afdeling Woordvoering en Publiciteit wordt bijgestaan door onder hem ressorterende teamleiders.  
 
 ### Artikel  5  
 
@@ -116,7 +116,7 @@ q. het verzorgen van de eindredactie van het intranet;
 
 r. het verzorgen van de nieuwsvoorziening op het intranet;  
 
-s. het onderhouden van de contacten met de afdelingen communicatie van voor het ministerie cruciale stakeholders, zoals het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de sociale partners.    
+s.  het onderhouden van de contacten met de afdelingen communicatie van voor het ministerie cruciale stakeholders, zoals het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de sociale partners.  
 
 ### Artikel  6  
 
@@ -133,7 +133,7 @@ d. het beantwoorden van specialistische vragen die via de telefoon, per e-mail e
 e. het publiceren van persberichten;  
 
 f. het publiceren van kamerstukken.     
-2.  Het hoofd van de afdeling Publiek en Informatie wordt bijgestaan door een onder hem ressorterende teamleider.   
+2.  Het hoofd van de afdeling Publiek en Informatie wordt bijgestaan door een onder hem ressorterende teamleider.  
 
 ### Artikel  7  
 
@@ -148,7 +148,7 @@ c. het directiebreed leveren van de geïntegreerde managementinformatie op het g
 d. het adviseren over en het monitoren van de organisatorische, financiële en personele consequenties van de interdepartementale ontwikkelingen in Voorlichtingsraad-verband;  
 
 e. het monitoren van de implementatie van de taakstelling binnen de directie Communicatie.     
-2.  Het hoofd van de afdeling Stafbureau is verantwoordelijk voor de Secretariaatsunit. Op de Secretariaatsunit worden secretariaatstaken uitgevoerd, zoals het agendabeheer, de digitale postverwerking, het beantwoorden van de telefoon, het voorbereiden van vergaderingen, het archiveren en administreren van stukken, het notuleren, het coördineren van de huisvesting en het beheren van kantoorartikelen.   
+2.  Het hoofd van de afdeling Stafbureau is verantwoordelijk voor de Secretariaatsunit. Op de Secretariaatsunit worden secretariaatstaken uitgevoerd, zoals het agendabeheer, de digitale postverwerking, het beantwoorden van de telefoon, het voorbereiden van vergaderingen, het archiveren en administreren van stukken, het notuleren, het coördineren van de huisvesting en het beheren van kantoorartikelen.  
 
 ### §  3  
 
@@ -171,7 +171,7 @@ d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling 
 
 a. het paraferen van concepten van antwoorden op persoonlijke brieven en e-mails van burgers, die direct aan bewindspersonen gericht zijn;  
 
-b. het ondertekenen van de vervolgcorrespondentie naar aanleiding van persoonlijke brieven en e-mails van burgers die aan bewindspersonen gericht zijn en persoonlijke brieven en e-mails die aan het ministerie gericht zijn.     
+b. het ondertekenen van de vervolgcorrespondentie naar aanleiding van persoonlijke brieven en e-mails van burgers die aan bewindspersonen gericht zijn en persoonlijke brieven en e-mails die aan het ministerie gericht zijn.    
 
 ### Artikel  9  
 
@@ -182,15 +182,15 @@ a. het aangaan van overeenkomsten met betrekking tot de levering van goederen en
 
 b. het aangaan van overeenkomsten voor het inhuren van personeel voor de uitvoering van werkzaamheden die onder directe verantwoordelijkheid van het departementale management worden verricht;  
 
-c. het aangaan van overeenkomsten voor het opleiden van medewerkers van de directie Communicatie.     
+c. het aangaan van overeenkomsten voor het opleiden van medewerkers van de directie Communicatie.    
 
 ### Artikel  10  
 
-Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken waargenomen door het afdelingshoofd dat hiervoor door de directeur is aangewezen.  
+Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken waargenomen door het afdelingshoofd dat hiervoor door de directeur is aangewezen. 
 
 ### Artikel  11  
 
-De hoofden van de afdelingen kunnen, na voorafgaande schriftelijke toestemming van de directeur, hun bevoegdheden doorverlenen aan onder hen ressorterende functionarissen.  
+De hoofden van de afdelingen kunnen, na voorafgaande schriftelijke toestemming van de directeur, hun bevoegdheden doorverlenen aan onder hen ressorterende functionarissen. 
 
 ### §  4  
 
@@ -198,17 +198,17 @@ De hoofden van de afdelingen kunnen, na voorafgaande schriftelijke toestemming v
 
 ### Artikel  12  
 
-Het [Organisatie-, mandaat en volmachtbesluit directie Communicatie 2009](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directie/communicatie/2009/BWBR0026506/README.md) wordt ingetrokken.  
+Het [Organisatie-, mandaat en volmachtbesluit directie Communicatie 2009](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directie/communicatie/2009/BWBR0026506/README.md) wordt ingetrokken. 
 
 ### Artikel  13  
 
 1.  Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2011.   
-2.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2011.   
+2.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2011.  
 Deze regeling zal in de Staatscourant worden geplaatst.  
 
 Hoogachtend, 
 
 de 
-Minister van Sociale Zaken en Werkgelegenheid,namens deze:
-de directeur Communicatie,
-P.J.A.Idenburg   
+Minister van Sociale Zaken en Werkgelegenheid, namens deze: 
+de directeur Communicatie, 
+P.J.A. Idenburg     

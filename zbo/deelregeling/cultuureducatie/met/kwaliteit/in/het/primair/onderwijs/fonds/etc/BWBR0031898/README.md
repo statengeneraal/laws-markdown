@@ -37,25 +37,25 @@ In deze regeling wordt verstaan onder:
 
 *evaluatie:* het door middel van wetenschappelijk verantwoord onderzoek of door raadpleging van betrokkenen en deskundigen, al dan niet met gebruikmaking van monitorgegevens, tot een weloverwogen oordeel komen over de doeltreffendheid van de activiteiten die in het kader van deze regeling worden gesubsidieerd;  
 
-*centrale aanvrager:* een culturele instelling die voor zichzelf, of in samenwerking met een aantal andere culturele instellingen, een plan indient. De centrale aanvrager is in die hoedanigheid degene met wie het Fonds voor Cultuurparticipatie de subsidierelatie aangaat en daardoor volledig verantwoordelijk voor de naleving van de subsidieverplichtingen en voor de financiële en inhoudelijke subsidieverantwoording.    
+*centrale aanvrager:* een culturele instelling die voor zichzelf, of in samenwerking met een aantal andere culturele instellingen, een plan indient. De centrale aanvrager is in die hoedanigheid degene met wie het Fonds voor Cultuurparticipatie de subsidierelatie aangaat en daardoor volledig verantwoordelijk voor de naleving van de subsidieverplichtingen en voor de financiële en inhoudelijke subsidieverantwoording.   
 
 ### Artikel  1.2  
 
 ####Doel
 
-Het bestuur kan meerjarige stimuleringssubsidies verstrekken voor activiteiten op het gebied van cultuureducatie die bijdragen aan het realiseren van één of meerdere van de vier hoofddoelen van het beleidsprogramma *Cultuureducatie met Kwaliteit in het primair* onderwijs zoals nader uitgewerkt in artikel 3.2 van deze regeling.  
+Het bestuur kan meerjarige stimuleringssubsidies verstrekken voor activiteiten op het gebied van cultuureducatie die bijdragen aan het realiseren van één of meerdere van de vier hoofddoelen van het beleidsprogramma *Cultuureducatie met Kwaliteit in het primair* onderwijs zoals nader uitgewerkt in artikel 3.2 van deze regeling. 
 
 ### Artikel  1.3  
 
 ####Subsidieperiode
 
-Subsidie wordt verstrekt voor een periode van vier jaar.  
+Subsidie wordt verstrekt voor een periode van vier jaar. 
 
 ### Artikel  1.4  
 
 ####Beschikbare subsidiebedragen
 
-1.  Voor de periode 2013–2016 heeft het Fonds voor Cultuurparticipatie per kalenderjaar het volgende bedrag beschikbaar voor het verstrekken van stimuleringsubsidies voor cultuureducatie als bedoeld in paragraaf 3 van deze regeling: € 9.664.897.   
+1.  Voor de periode 2013–2016 heeft het Fonds voor Cultuurparticipatie per kalenderjaar het volgende bedrag beschikbaar voor het verstrekken van stimuleringsubsidies voor cultuureducatie als bedoeld in paragraaf 3 van deze regeling: € 9.901.856.   
 2.  Voor aanvragen uit provincies en gemeenten is voor de periode 2013–2016 het volgende matchingsbedrag per jaar beschikbaar: 
 
 a) per provincie een bedrag van € 0,55 per inwoner van de provincie, met aftrek van de inwoners waarvoor gemeenten reeds een bijdrage ontvangen;  
@@ -64,7 +64,7 @@ b) per gemeente een bedrag van € 0,55 per inwoner van de gemeente, met uitzon
 
 c) voor Amsterdam, Rotterdam, Den Haag, Utrecht, Eindhoven, Maastricht, Arnhem, Enschede, Almere en Groningen een bedrag van € 0,79 per inwoner van de gemeente.     
 3.  Het aantal inwoners van een provincie of gemeente wordt voor de volledige looptijd van de regeling vastgesteld op basis van de CBS-gegevens per 1 januari 2012.   
-4.  Een besluit tot het verhogen of verlagen van het subsidieplafond, bedoeld in het eerste lid, wordt genomen op basis van wijzigingen in de Rijksbegroting en wordt bekendgemaakt via de website van het Fonds voor Cultuurparticipatie.   
+4.  Een besluit tot het verhogen of verlagen van het subsidieplafond, bedoeld in het eerste lid, wordt genomen op basis van wijzigingen in de Rijksbegroting en wordt bekendgemaakt via de website van het Fonds voor Cultuurparticipatie.  
 
 ### Artikel  1.5  
 
@@ -89,20 +89,20 @@ g) als meer dan 7% van de begrote totale lasten van de activiteit blijkens de aa
 
 h) als er in de aanvraag een beargumenteerde relatie met het doel van de [Regeling prestatiebox primair onderwijs](../../../../../../../../../../../../ministeriele-regeling/regeling/prestatiebox/primair/onderwijs/BWBR0031184/README.md) ontbreekt of als deze niet aannemelijk is;  
 
-i) als de aanvraag geen uitsluitsel biedt over de mate waarin scholen inhoudelijk en financieel betrokken zijn doordat een belangstellingsregistratie van scholen ontbreekt en in het plan de financiële inzet van de scholen evenmin wordt toegelicht.     
+i) als de aanvraag geen uitsluitsel biedt over de mate waarin scholen inhoudelijk en financieel betrokken zijn doordat een belangstellingsregistratie van scholen ontbreekt en in het plan de financiële inzet van de scholen evenmin wordt toegelicht.    
 
 ### Artikel  1.6  
 
 ####Beperking
 
-Instellingen die op basis van deze regeling subsidie ontvangen, kunnen voor de activiteiten waarop die subsidie betrekking heeft, in de periode waarop die subsidie betrekking heeft, geen aanspraak maken op subsidie voor deze activiteiten op basis van andere deelregelingen van het Fonds voor Cultuurparticipatie.  
+Instellingen die op basis van deze regeling subsidie ontvangen, kunnen voor de activiteiten waarop die subsidie betrekking heeft, in de periode waarop die subsidie betrekking heeft, geen aanspraak maken op subsidie voor deze activiteiten op basis van andere deelregelingen van het Fonds voor Cultuurparticipatie. 
 
 ### Artikel  1.7  
 
 ####Fusie
 
 1.  Als er sprake is of zal zijn van een juridische fusie tussen twee of meer instellingen wordt bij het bepalen of de aanvraag voldoet aan het bepaalde in deze regeling uitgegaan van het totaal van de individuele prestaties.   
-2.  Aan de subsidieverlening kunnen verplichtingen worden verbonden met betrekking tot de termijn waarbinnen het in de aanvraag opgenomen voornemen tot fusie gerealiseerd moet zijn.   
+2.  Aan de subsidieverlening kunnen verplichtingen worden verbonden met betrekking tot de termijn waarbinnen het in de aanvraag opgenomen voornemen tot fusie gerealiseerd moet zijn.  
 
 ### Paragraaf  2  
 
@@ -113,14 +113,14 @@ Instellingen die op basis van deze regeling subsidie ontvangen, kunnen voor de a
 ####Aanvraagformulier
 
 1.  Een aanvraag voor subsidie als bedoeld in paragraaf 3 van deze regeling wordt in beginsel digitaal ingediend via de website van het Fonds voor Cultuurparticipatie met behulp van een door het bestuur opgesteld formulier voor de betreffende periode.   
-2.  Een aanvraag wordt alleen in behandeling genomen als het volledig ingevulde aanvraagformulier tijdig is ontvangen door het Fonds voor Cultuurparticipatie en vergezeld gaat van de gevraagde bijlagen zoals op het formulier gemeld.   
+2.  Een aanvraag wordt alleen in behandeling genomen als het volledig ingevulde aanvraagformulier tijdig is ontvangen door het Fonds voor Cultuurparticipatie en vergezeld gaat van de gevraagde bijlagen zoals op het formulier gemeld.  
 
 ### Artikel  2.2  
 
 ####Indiening aanvraag en herkansingsronde
 
 1.  Aanvragen voor deze tenderregeling dienen uiterlijk 14 december 2012 voor 17:00 uur te zijn ontvangen.   
-2.  Voor aanvragers die niet gehonoreerd zijn bestaat de mogelijkheid om, zolang het subsidieplafond nog niet is bereikt, voor 31 mei 2013 voor 17:00 uur een aangepast plan in te dienen waarin de opmerkingen van het bestuur zijn verwerkt.   
+2.  Voor aanvragers die niet gehonoreerd zijn bestaat de mogelijkheid om, zolang het subsidieplafond nog niet is bereikt, voor 31 mei 2013 voor 17:00 uur een aangepast plan in te dienen waarin de opmerkingen van het bestuur zijn verwerkt.  
 
 ### Artikel  2.3  
 
@@ -140,7 +140,7 @@ e) toegelicht hoe de aanvraag past binnen de lokale of provinciale beleidspriori
 
 f) toegelicht hoe de aanvraag samenhangt met eventuele andere aanvragen uit dezelfde gemeente of provincie;  
 
-g) aangegeven of er sprake is van een omstandigheid zoals bedoeld in artikel 3.3 lid 2 van deze regeling.    
+g) aangegeven of er sprake is van een omstandigheid zoals bedoeld in artikel 3.3 lid 2 van deze regeling.   
 
 ### Artikel  2.4  
 
@@ -149,13 +149,13 @@ g) aangegeven of er sprake is van een omstandigheid zoals bedoeld in artikel 3.3
 1.  Het totaal van de aan het Fonds voor Cultuurparticipatie en de gemeente of provincie gevraagde subsidie bedraagt ten minste € 90.000 per jaar.   
 2.  De subsidie van het Fonds voor Cultuurparticipatie bedraagt nooit meer dan 100% van de bijdrage afkomstig van gemeente of provincie.   
 3.  Het door gemeente of provincie gematchte bedrag mag niet afkomstig zijn uit de onderwijsbekostiging die scholen van het rijk ontvangen. Evenmin kunnen de middelen die verbonden zijn aan de *Impuls brede scholen, sport en cultuur* als matching worden opgevoerd.   
-4.  Het door gemeente of provincie te matchen bedrag mag, met in achtneming van in lid 3 bepaalde, mede gefinancierd worden door andere partners.   
+4.  Het door gemeente of provincie te matchen bedrag mag, met in achtneming van in lid 3 bepaalde, mede gefinancierd worden door andere partners.  
 
 ### Artikel  2.5  
 
 ####Besluit
 
-Het bestuur informeert de aanvrager uiterlijk 1 maart 2013 schriftelijk over zijn besluit op de aanvraag zoals bedoeld in artikel 2.2. lid 1.  
+Het bestuur informeert de aanvrager uiterlijk 1 maart 2013 schriftelijk over zijn besluit op de aanvraag zoals bedoeld in artikel 2.2. lid 1. 
 
 ### Paragraaf  3  
 
@@ -165,7 +165,7 @@ Het bestuur informeert de aanvrager uiterlijk 1 maart 2013 schriftelijk over zij
 
 ####Wie kan aanvragen
 
-Een aanvraag kan worden gedaan door een instelling met rechtspersoonlijkheid zonder winstoogmerk en met een culturele doelstelling.  
+Een aanvraag kan worden gedaan door een instelling met rechtspersoonlijkheid zonder winstoogmerk en met een culturele doelstelling. 
 
 ### Artikel  3.2  
 
@@ -179,7 +179,7 @@ Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren 
 
 – activiteiten gericht op het versterken van de relatie van de school met de lokale culturele en sociale omgeving ten behoeve van de kunstzinnige en culturele ontwikkeling van leerlingen. Het gaat om duurzame en intensieve samenwerking;  
 
-– activiteiten die bijdragen aan het ontwikkelen en toepassen van een instrumentarium voor het beoordelen van de culturele ontwikkeling van leerlingen. Hierbij wordt de leeropbrengst centraal gesteld en een duidelijke relatie gelegd met de kerndoelen op het gebied van kunstzinnige oriëntatie binnen het primair onderwijs.    
+– activiteiten die bijdragen aan het ontwikkelen en toepassen van een instrumentarium voor het beoordelen van de culturele ontwikkeling van leerlingen. Hierbij wordt de leeropbrengst centraal gesteld en een duidelijke relatie gelegd met de kerndoelen op het gebied van kunstzinnige oriëntatie binnen het primair onderwijs.   
 
 ### Artikel  3.3  
 
@@ -191,13 +191,13 @@ Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren 
 a. voortkomt uit een fusie van instellingen die voordien structureel gesubsidieerd werden; of,  
 
 b. beschikt over een adhesieverklaring van de betrokken lokale overheid waarin deze uitdrukkelijk het vertrouwen in het duurzame potentieel van de aanvrager uitspreekt.     
-3.  Een centrale aanvrager zendt jaarrekeningen over de jaren 2009, 2010 en 2011 mee bij de aanvraag, tenzij deze al in het bezit zijn van het Fonds voor Cultuurparticipatie.   
+3.  Een centrale aanvrager zendt jaarrekeningen over de jaren 2009, 2010 en 2011 mee bij de aanvraag, tenzij deze al in het bezit zijn van het Fonds voor Cultuurparticipatie.  
 
 ### Artikel  3.4  
 
 ####Beoordeling
 
-Aanvragen die voldoen aan de formele vereisten om voor subsidie in aanmerking te komen worden ter advies voorgelegd aan het bureau van het Fonds voor Cultuurparticipatie.  
+Aanvragen die voldoen aan de formele vereisten om voor subsidie in aanmerking te komen worden ter advies voorgelegd aan het bureau van het Fonds voor Cultuurparticipatie. 
 
 ### Artikel  3.5  
 
@@ -210,14 +210,14 @@ a. de kwaliteit van de aanvraag in relatie tot de doeleinden van deze regeling;
 b. de gerichtheid op verankering van cultuureducatie in het primair onderwijs; en  
 
 c. de mate van afstemming en samenwerking tussen het culturele veld en het onderwijs.     
-2.  Om voor subsidie in aanmerking te komen moet een aanvraag op alle in het vorige lid genoemde criteria positief beoordeeld zijn.   
+2.  Om voor subsidie in aanmerking te komen moet een aanvraag op alle in het vorige lid genoemde criteria positief beoordeeld zijn.  
 
 ### Artikel  3.6  
 
 ####Toekenning
 
 1.  Het Fonds voor Cultuurparticipatie kent de subsidie toe aan de centrale aanvrager.   
-2.  De centrale aanvrager geeft de ontvangen subsidie, overeenkomstig de in de aanvraag aangegeven verdeelwijze, door aan de overige bij de aanvraag betrokken culturele instellingen.   
+2.  De centrale aanvrager geeft de ontvangen subsidie, overeenkomstig de in de aanvraag aangegeven verdeelwijze, door aan de overige bij de aanvraag betrokken culturele instellingen.  
 
 ### Paragraaf  4  
 
@@ -235,7 +235,7 @@ b. niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaa
 
 c. er aanzienlijke artistieke of zakelijke wijzigingen zijn ten opzichte van het plan op basis waarvan subsidie is verstrekt.     
 2.  De subsidieontvanger is verplicht tot evaluatie en monitoring van de activiteiten waarvoor subsidie is verstrekt als bedoeld in artikel 5.1.   
-3.  De centrale aanvrager is eindverantwoordelijk voor correcte naleving van het bepaalde als bedoeld in lid 1 en lid 2.   
+3.  De centrale aanvrager is eindverantwoordelijk voor correcte naleving van het bepaalde als bedoeld in lid 1 en lid 2.  
 
 ### Artikel  4.2  
 
@@ -244,16 +244,17 @@ c. er aanzienlijke artistieke of zakelijke wijzigingen zijn ten opzichte van het
 1.  De subsidieontvanger stuurt jaarlijks voor 1 juni een verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar teneinde het Fonds voor Cultuurparticipatie in staat te stellen om te beoordelen of de toegekende middelen rechtmatig zijn besteed.   
 2.  De verantwoording omvat een inhoudelijk en een financieel deel. De inhoudelijke verantwoording bestaat uit een overzicht van verrichte activiteiten per onderdeel van het ingediende plan. Wanneer de uitvoering afwijkt van het plan, dient dat te worden toegelicht.   
 3.  De financiële verantwoording sluit aan op de ingediende begroting en gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). De verklaring dient te zijn opgesteld overeenkomstig een door het bestuur vast te stellen protocol. [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), met uitzondering van de [afdelingen 1](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [7](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [11](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [12](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [14](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [15](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), is van toepassing op de financiële verantwoording, met dien verstande dat de winst- en verliesrekening wordt vervangen door een exploitatierekening.   
-4.  Het bestuur kan nadere voorwaarden aan de inrichting van de verantwoording stellen.   
-5.  De subsidieontvanger werkt mee dan wel draagt er zorg voor dat de accountant meewerkt aan onderzoeken naar de door de accountant verrichte (controle)werkzaamheden door een door het bestuur aan te wijzen partij. De daaraan voor de subsidieontvanger verbonden kosten komen voor zijn rekening.   
-6.  De centrale aanvrager is eindverantwoordelijk voor het in de voorgaande artikelleden bepaalde over de subsidieverantwoording. Zulks met inbegrip van de projectonderdelen die niet door de organisatie van de centrale aanvrager zelf zijn uitgevoerd.   
+4.  Uit de financiële verantwoording blijkt het bedrag waarvoor de subsidieontvanger door provincie of gemeente wordt gematcht. In geval van indirecte matching dient tevens een verklaring te worden bijgevoegd van de betrokken gemeente of provincie over op welke wijze aan de matching is voldaan en welke activiteiten in het kader van deze regeling met de indirecte matchingsgelden worden uitgevoerd.  
+5.  Het bestuur kan nadere voorwaarden aan de inrichting van de verantwoording stellen.   
+6.  De subsidieontvanger werkt mee dan wel draagt er zorg voor dat de accountant meewerkt aan onderzoeken naar de door de accountant verrichte (controle)werkzaamheden door een door het bestuur aan te wijzen partij. De daaraan voor de subsidieontvanger verbonden kosten komen voor zijn rekening.   
+7.  De centrale aanvrager is eindverantwoordelijk voor het in de voorgaande artikelleden bepaalde over de subsidieverantwoording. Zulks met inbegrip van de projectonderdelen die niet door de organisatie van de centrale aanvrager zelf zijn uitgevoerd.  
 
 ### Artikel  4.3  
 
 ####Vaststelling subsidie
 
 1.  Het bestuur stelt de subsidie vast na ontvangst van de complete verantwoording over de subsidieperiode.   
-2.  Als de activiteiten volgens plan zijn uitgevoerd en is voldaan aan alle aan de subsidie verbonden verplichtingen stelt het bestuur de subsidie binnen 22 weken overeenkomstig de verlening vast.   
+2.  Als de activiteiten volgens plan zijn uitgevoerd en is voldaan aan alle aan de subsidie verbonden verplichtingen stelt het bestuur de subsidie binnen 22 weken overeenkomstig de verlening vast.  
 
 ### Paragraaf  5  
 
@@ -266,7 +267,7 @@ c. er aanzienlijke artistieke of zakelijke wijzigingen zijn ten opzichte van het
 1.  De monitoring en evaluatie van activiteiten die in het kader van de regeling worden ontwikkeld en uitgevoerd geschiedt enerzijds via een individueel traject waarbij de centrale aanvrager uitvoering geeft aan het bepaalde in artikel 4.1 lid 2 en anderzijds via een landelijk traject dat door het Fonds voor Cultuurparticipatie wordt geïnitieerd in overleg met de betrokken gemeenten, provincies en het Kennisinstituut Cultuureducatie en Amateurkunst.   
 2.  De centrale aanvrager reserveert op de begroting minimaal 2% van de totale activiteitslasten voor monitoring en evaluatie van activiteiten die in het kader van de regeling verricht worden.   
 3.  De centrale aanvrager zet in het plan uiteen op welke wijze hij uitvoering geeft aan het individuele monitoring en evaluatietraject.   
-4.  Binnen het individuele monitoring en evaluatietraject geeft de centrale aanvrager tevens uitvoering aan een tussentijdse evaluatie van de uitgevoerde activiteiten door deze ultimo 2014, in overleg met de betrokken gemeente of provincie, te verrichten. De inzichten die hiermee verkregen worden zullen, waar nodig, benut worden voor het tussentijds aanscherpen van de activiteiten zoals die voor de periode 2015–2016 gepland staan.   
+4.  Binnen het individuele monitoring en evaluatietraject geeft de centrale aanvrager tevens uitvoering aan een tussentijdse evaluatie van de uitgevoerde activiteiten door deze ultimo 2014, in overleg met de betrokken gemeente of provincie, te verrichten. De inzichten die hiermee verkregen worden zullen, waar nodig, benut worden voor het tussentijds aanscherpen van de activiteiten zoals die voor de periode 2015–2016 gepland staan.  
 
 ### Paragraaf  6  
 
@@ -276,20 +277,20 @@ c. er aanzienlijke artistieke of zakelijke wijzigingen zijn ten opzichte van het
 
 ####Begrotingsvoorbehoud
 
-Subsidie wordt verleend onder voorbehoud van verstrekking van de middelen door de minister van Onderwijs, Cultuur en Wetenschap.  
+Subsidie wordt verleend onder voorbehoud van verstrekking van de middelen door de minister van Onderwijs, Cultuur en Wetenschap. 
 
 ### Artikel  6.2  
 
 ####Inwerkingtreding en vervaldatum
 
 1.  Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.   
-2.  Deze regeling vervalt met ingang van 1 januari 2018. Op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond, blijft het bepaalde in deze regeling van overeenkomstige toepassing.   
+2.  Deze regeling vervalt met ingang van 1 januari 2018. Op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond, blijft het bepaalde in deze regeling van overeenkomstige toepassing.  
 
 ### Artikel  6.3  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Deelregeling Cultuureducatie met Kwaliteit in het primair onderwijs Fonds voor Cultuurparticipatie 2013–2016.  
+Deze regeling wordt aangehaald als: Deelregeling Cultuureducatie met Kwaliteit in het primair onderwijs Fonds voor Cultuurparticipatie 2013–2016. 
 Dit besluit zal in de Staatscourant worden geplaatst.  
 
 Het bestuur van het Fonds voor Cultuurparticipatie, namens dit: 
@@ -298,21 +299,19 @@ directeur / voorzitter van het bestuur.
 
 ### Bijlage  1a  
 
-####: Deelnemende gemeenten en provincies, bedragen in euro’s per jaar
-
 |--- | Matchingsbedragen 2013–2016  |
 |:---|:---|
-|  *Noord-Brabant*   |  *€ 897.410*   |
+|  *Noord-Brabant *   | € 897.410  |
 | Breda  | € 97.079  |
 | Eindhoven  | € 171.610  |
 | Helmond  | € 48.839  |
-| ‘s Hertogenbosch  | € 78.021  |
+| ’s-Hertogenbosch  | € 78.021  |
 | Tilburg  | € 114.131  |
 |  *Drenthe*   | € 210.013  |
 | Emmen  | € 59.871  |
 |  *Flevoland*   | € 111.273  |
 | Almere  | € 152.589  |
-|  *Friesland*   | € 303.577  |
+| Friesland  | € 303.577  |
 | Leeuwarden  | € 52.427  |
 |  *Gelderland*   | € 786.416  |
 | Apeldoorn  | € 86.307  |
@@ -325,12 +324,13 @@ directeur / voorzitter van het bestuur.
 | Heerlen  | € 48.946  |
 | Maastricht  | € 95.630  |
 | Sittard-Geleen  | € 51.974  |
-|  *Noord-Holland*   | € 759.562  |
-| Alkmaar  | € 51.822  |
+| Venlo  | € 54.982  |
+|  *Noord-Holland*   | € 713.293  |
+| Alkmaar  | € 75.242  |
 | Amsterdam  | € 623.535  |
-| Haarlem  | € 83.519  |
+| Haarlem  | € 92.676  |
 | Haarlemmermeer  | € 79.136  |
-| Zaanstad  | € 81.510  |
+| Zaanstad  | € 95.202  |
 |  *Overijssel*   | € 373.130  |
 | Deventer  | € 54.267  |
 | Enschede  | € 124.892  |
@@ -339,22 +339,20 @@ directeur / voorzitter van het bestuur.
 |  *Utrecht*   | € 424.922  |
 | Amersfoort  | € 81.527  |
 | Utrecht  | € 249.766  |
-|  *Zuid-Holland (totaal RAS-regio's)*   | € 769.953  |
+|  *Zuid-Holland (totaal RAS-regio’s)*   | € 951.930  |
 | Delft  | € 54.273  |
 | Dordrecht  | € 65.384  |
 | Leiden  | € 65.310  |
 | Rotterdam  | € 486.590  |
-| ‘s Gravenhage  | € 395.828  |
+| ’s-Gravenhage  | € 395.828  |
 | Westland  | € 56.085  |
 | Zoetermeer  | € 67.272  |
 |  *Zeeland*   | € 209.750  |
-|  *TOTAAL*   |  *€ 9.664.897*   |
+|  *TOTAAL*   |  *€ 9.901.856*   |
 
 ### Bijlage  1b  
 
-####: Deelnemende ras-gemeenten, bedragen in euro’s per jaar
-
-| RAS-regio's Zuid-Holland  | Matchingsbedragen 2013–2016  |
+| RAS-regio’s Zuid-Holland  | Matchingsbedragen 2013–2016  |
 |:---|:---|
 |  *Alblasserwaard-Vijfheerenlanden*   |  *€ 71.748*   |
 | Graafstroom  | € 5.387  |
@@ -376,7 +374,7 @@ directeur / voorzitter van het bestuur.
 | Zuidplas  | € 22.360  |
 | Waddinxveen  | € 13.901  |
 |  *Holland-Rijnland*   |  *€ 247.340*   |
-| Boskoop <sup>1</sup>  | € 8.300  |
+| Boskoop  | € 8.300  |
 | Voorschoten  | € 13.369  |
 | Zoeterwoude  | € 4.490  |
 | Leiderdorp  | € 14.688  |
@@ -391,31 +389,33 @@ directeur / voorzitter van het bestuur.
 | Nieuwkoop  | € 14.828  |
 | Lisse  | € 12.409  |
 | Hillegom  | € 11.459  |
-| Wassenaar <sup>2</sup>  | € 14.152  |
-
-<sup>1</sup> Overgestapt van Midden-Holland naar Holland-Rijnland. <sup>2</sup> Overgestapt van Haaglanden naar Holland-Rijnland.  
-
-| RAS-regio's Zuid-Holland  | Matchingsbedragen 2013–2016  |
-|:---|:---|
-|  *Haaglanden*   |  *€ 67.380*   |
+| Wassenaar  | € 14.152  |
+|  *Haaglanden*   |  *€ 93.210*   |
 | Leidschendam-Voorburg  | € 39.821  |
+| Rijswijk  | € 25.830  |
 | Pijnacker-Nootdorp  | € 27.559  |
-|  *Stadregio Rotterdam*   |  *€ 110.576*   |
+|  *Stadregio Rotterdam*   |  *€ 264.333*   |
 | Barendrecht  | € 25.880  |
 | Brielle  | € 8.839  |
+| Schiedam  | € 41.871  |
 | Hellevoetsluis  | € 21.689  |
+| Maassluis  | € 17.517  |
 | Westvoorne  | € 7.642  |
+| Ridderkerk  | € 24.866  |
 | Spijkenisse  | € 39.694  |
+| Vlaardingen  | € 39.111  |
+| Lansingerland  | € 30.392  |
 | Bernisse  | € 6.832  |
 |  *Goeree-Overflakkee*   |  *€ 26.567*   |
 | Goedereede  | € 6.256  |
 | Dirksland  | € 4.663  |
 | Middelharnis  | € 9.927  |
 | Oostflakkee  | € 5.721  |
-|  *Hoeksche Waard*   |  *€ 41.761*   |
+|  *Hoeksche Waard*   |  *€ 44.151*   |
 | Korendijk  | € 5.939  |
 | Oud-Beijerland  | € 12.879  |
 | Binnenmaas  | € 15.914  |
+| Strijen  | € 2.390  |
 | Cromstrijen  | € 7.029  |
 |  *Drechtsteden*   |  *€ 81.644*   |
 | Sliedrecht  | € 13.320  |
@@ -423,5 +423,5 @@ directeur / voorzitter van het bestuur.
 | Alblasserdam  | € 10.693  |
 | Hendrik-Ido-Ambacht  | € 15.537  |
 | Zwijndrecht  | € 24.477  |
-|  *Totaal*   |  *€ 769.953*   |
+|  *Totaal*   |  *€ 951.930*   |
 

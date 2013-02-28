@@ -8,17 +8,17 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Bekostigingsregeling Wuvo.   
+Wijzigt de Bekostigingsregeling Wuvo. 
 
 ### Artikel  II  
 
-In afwijking van het bepaalde in [artikel 8e, eerste lid, van de Bekostigingsregeling Wuvo](../../../../../ministeriele-regeling/bekostigingsregeling/wuvo/BWBR0030188/README.md) doet de minister de Sociale verzekeringsbank ten aanzien van de begroting, genoemd in [artikel 7, onder a](../../../../../ministeriele-regeling/bekostigingsregeling/wuvo/BWBR0030188/README.md), voor het jaar 2013 voor 1 april een vaststelling van de bijdragen, bedoeld in de [artikelen 8c](../../../../../ministeriele-regeling/bekostigingsregeling/wuvo/BWBR0030188/README.md) en [9](../../../../../ministeriele-regeling/bekostigingsregeling/wuvo/BWBR0030188/README.md), toekomen.  
+In afwijking van het bepaalde in [artikel 8e, eerste lid, van de Bekostigingsregeling Wuvo](../../../../../ministeriele-regeling/bekostigingsregeling/wuvo/BWBR0030188/README.md) doet de minister de Sociale verzekeringsbank ten aanzien van de begroting, genoemd in [artikel 7, onder a](../../../../../ministeriele-regeling/bekostigingsregeling/wuvo/BWBR0030188/README.md), voor het jaar 2013 voor 1 april een vaststelling van de bijdragen, bedoeld in de [artikelen 8c](../../../../../ministeriele-regeling/bekostigingsregeling/wuvo/BWBR0030188/README.md) en [9](../../../../../ministeriele-regeling/bekostigingsregeling/wuvo/BWBR0030188/README.md), toekomen. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2013.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Volksgezondheid, Welzijn en Sport,
-M.J. vanRijn   
+Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
+M.J. van Rijn     

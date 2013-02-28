@@ -12,48 +12,48 @@ Besluit:
 
 ####Toetsen als bedoeld in [artikel 34.1 van het Besluit bekostiging WPO](../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md)
 
-De toetsen die zijn opgenomen in bijlage A, voldoen aan de criteria, bedoeld in [artikel 34.1, eerste lid, van het Besluit bekostiging WPO](../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md).  
+De toetsen die zijn opgenomen in bijlage A, voldoen aan de criteria, bedoeld in [artikel 34.1, eerste lid, van het Besluit bekostiging WPO](../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md). 
 
 ### Artikel  2  
 
 ####Normering toetsen
 
-De uitwerking van de wijze waarop de beoordeling van de leerresultaten, met in achtneming van de leerlingpopulatie, tot stand komt, wordt per toets als bedoeld in [artikel 34.1 van het Besluit bekostiging WPO](../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) vastgesteld als aangegeven in bijlage B.  
+De uitwerking van de wijze waarop de beoordeling van de leerresultaten, met in achtneming van de leerlingpopulatie, tot stand komt, wordt per toets als bedoeld in [artikel 34.1 van het Besluit bekostiging WPO](../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) vastgesteld als aangegeven in bijlage B. 
 
 ### Artikel  3  
 
 ####Wijze van correctie van de meting
 
-De correctie van de meting en de gevallen waarin correctie van de meting plaatsvindt als bedoeld in [artikel 34.2 van het Besluit bekostiging WPO](../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), geschiedt volgens het bepaalde in bijlage C.  
+De correctie van de meting en de gevallen waarin correctie van de meting plaatsvindt als bedoeld in [artikel 34.2 van het Besluit bekostiging WPO](../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), geschiedt volgens het bepaalde in bijlage C. 
 
 ### Artikel  4  
 
 ####Meting onmogelijk of incomplete gegevens
 
-De wijze waarop omgegaan wordt met scholen waar de meting van leerresultaten niet mogelijk is of bij scholen met incomplete gegevens, als bedoeld in [artikel 34.6 van het Besluit bekostiging WPO](../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), geschiedt volgens het bepaalde in bijlage D.  
+De wijze waarop omgegaan wordt met scholen waar de meting van leerresultaten niet mogelijk is of bij scholen met incomplete gegevens, als bedoeld in [artikel 34.6 van het Besluit bekostiging WPO](../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), geschiedt volgens het bepaalde in bijlage D. 
 
 ### Artikel  5  
 
 ####Beoordeling leerresultaten
 
-De normering waarop de inspectie het oordeel voldoende dan wel onvoldoende leerresultaat baseert, geschiedt volgens het bepaalde in bijlage E.  
+De normering waarop de inspectie het oordeel voldoende dan wel onvoldoende leerresultaat baseert, geschiedt volgens het bepaalde in bijlage E. 
 
 ### Artikel  6  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 augustus 2010.  
+Deze regeling treedt in werking met ingang van 1 augustus 2010. 
 
 ### Artikel  7  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling leerresultaten PO.  
+Deze regeling wordt aangehaald als: Regeling leerresultaten PO. 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap,
-A.Rouvoet  
+Minister van Onderwijs, Cultuur en Wetenschap, 
+A. Rouvoet    
 
 ### Bijlage  A  
 
@@ -77,7 +77,7 @@ De basisschool verantwoordt zich over de leerresultaten met door haar gebruikte 
 
 – DLE-toetsen Rekenen en wiskunde en Begrijpend lezen van Boom test uitgevers (zie verder bijlage B, onder 5.2);  
 
-– Begrijpend lezen toets van 678 Onderwijs Advisering (zie verder bijlage B, onder 5.3).      
+– Begrijpend lezen toets van 678 Onderwijs Advisering (zie verder bijlage B, onder 5.3).     
 
 ### Bijlage  C  
 
@@ -85,13 +85,13 @@ De basisschool verantwoordt zich over de leerresultaten met door haar gebruikte 
 
 ####Correctie op meting leerresultaten en bijzondere omstandigheden
 
-In deze bijlage staat beschreven hoe en wanneer een correctie (zijnde een herberekening) van de leerresultaten plaatsvindt voor bepaalde groepskenmerken of individuele kenmerken van leerlingen en voor enkele specifieke omstandigheden.  
+In deze bijlage staat beschreven hoe en wanneer een correctie (zijnde een herberekening) van de leerresultaten plaatsvindt voor bepaalde groepskenmerken of individuele kenmerken van leerlingen en voor enkele specifieke omstandigheden. 
 
 ### 1  
 
 ####Leerlingen die uitstromen naar het praktijkonderwijs of voortgezet speciaal onderwijs
 
-Leerlingen met een indicatie voor het voortgezet speciaal onderwijs (vso) of praktijkonderwijs (pro) houdt de inspectie buiten de beoordeling van de eindresultaten. Dit doet zij ook als deze leerlingen de indicatie hebben, maar hier in de praktijk niet daadwerkelijk naar uitstromen. Als leerlingen met een pro- of vso-indicatie wel hebben deelgenomen aan de toets, herberekent de inspectie het schoolgemiddelde, waarbij de resultaten van deze leerlingen buiten beschouwing worden gelaten.  
+Leerlingen met een indicatie voor het voortgezet speciaal onderwijs (vso) of praktijkonderwijs (pro) houdt de inspectie buiten de beoordeling van de eindresultaten. Dit doet zij ook als deze leerlingen de indicatie hebben, maar hier in de praktijk niet daadwerkelijk naar uitstromen. Als leerlingen met een pro- of vso-indicatie wel hebben deelgenomen aan de toets, herberekent de inspectie het schoolgemiddelde, waarbij de resultaten van deze leerlingen buiten beschouwing worden gelaten. 
 
 ### 2  
 
@@ -109,19 +109,19 @@ De inspectie verstaat hierbij onder het hebben van een indicatie het volgende:
 
 * van deze einddoelen tussendoelen zijn afgeleid, en  
 
-* de school kan aantonen op basis van ten minste twee evaluaties dat de leerling zich op beide vakgebieden naar verwachting ontwikkelt (dus volgens de gestelde doelen).   Het gaat hier dus om uitzonderingsgevallen.  
+* de school kan aantonen op basis van ten minste twee evaluaties dat de leerling zich op beide vakgebieden naar verwachting ontwikkelt (dus volgens de gestelde doelen).   Het gaat hier dus om uitzonderingsgevallen. 
 
 ### 3  
 
 ####Leerlingen die kort in Nederland verblijven èn om die reden het Nederlands minder goed beheersen
 
-Bij de beoordeling van de eindresultaten mogen de resultaten van leerlingen die sinds kort in Nederland verblijven *én* het Nederlands onvoldoende beheersen in sommige gevallen buiten beschouwing worden gelaten. De richtlijn is dat de leerlingen aan het begin van het schooljaar korter dan vier jaar in Nederland verblijven én om die reden het Nederlands minder goed beheersen. De resultaten van leerlingen die al langer in Nederland verblijven en het Nederlands nog steeds onvoldoende beheersen, worden wel bij de beoordeling van de toetsen betrokken. Dit geldt ook voor de resultaten van leerlingen die korter in Nederland verblijven, maar het Nederlands wel goed beheersen.  
+Bij de beoordeling van de eindresultaten mogen de resultaten van leerlingen die sinds kort in Nederland verblijven *én* het Nederlands onvoldoende beheersen in sommige gevallen buiten beschouwing worden gelaten. De richtlijn is dat de leerlingen aan het begin van het schooljaar korter dan vier jaar in Nederland verblijven én om die reden het Nederlands minder goed beheersen. De resultaten van leerlingen die al langer in Nederland verblijven en het Nederlands nog steeds onvoldoende beheersen, worden wel bij de beoordeling van de toetsen betrokken. Dit geldt ook voor de resultaten van leerlingen die korter in Nederland verblijven, maar het Nederlands wel goed beheersen. 
 
 ### 4  
 
 ####Leerlingen die in groep 7 of 8 zijn ingestroomd
 
-De inspectie kan de resultaten van leerlingen die in groep 7 of 8 zijn ingestroomd buiten beschouwing laten bij de beoordeling van de eindresultaten. Als de inspectie dit doet, corrigeert zij voor alle leerlingen die dit betreft en niet alleen voor de zwakst scorende leerlingen.  
+De inspectie kan de resultaten van leerlingen die in groep 7 of 8 zijn ingestroomd buiten beschouwing laten bij de beoordeling van de eindresultaten. Als de inspectie dit doet, corrigeert zij voor alle leerlingen die dit betreft en niet alleen voor de zwakst scorende leerlingen. 
 
 ### 5  
 
@@ -131,7 +131,7 @@ De inspectie baseert haar oordeel over de eindresultaten in principe op de leerr
 
 * < 15% gewogen leerlingen: maximaal 25 procent leerlingen met D/E-score;  
 
-* ≥ 15% gewogen leerlingen: maximaal 30 procent leerlingen met D/E-score.    
+* ≥ 15% gewogen leerlingen: maximaal 30 procent leerlingen met D/E-score.   
 
 ### Bijlage  D  
 
@@ -139,25 +139,25 @@ De inspectie baseert haar oordeel over de eindresultaten in principe op de leerr
 
 ####Meting onmogelijk of incomplete gegevens
 
-In deze bijlage staat beschreven hoe de inspectie scholen beoordeelt waarbij de meting van leerresultaten onmogelijk is of waarbij de gegevens over de leerresultaten incompleet zijn.  
+In deze bijlage staat beschreven hoe de inspectie scholen beoordeelt waarbij de meting van leerresultaten onmogelijk is of waarbij de gegevens over de leerresultaten incompleet zijn. 
 
 ### 1  
 
 ####Nieuw opgerichte scholen
 
-Scholen die nieuw zijn beginnen vaak met een klein aantal leerlingen, dat veelal in de onderbouw verblijft. De eerste jaren dat de school bestaat, zullen in de midden- en bovenbouw vooral leerlingen de school bezoeken die eerst op andere scholen hebben gezeten. De resultaten van deze leerlingen kunnen dan ook niet direct toegeschreven worden aan de nieuwe school. Desondanks beoordeelt de inspectie de eindresultaten van deze scholen in eerste instantie volgens de reguliere werkwijze. Als blijkt dat de eindresultaten onvoldoende zijn, gaat de inspectie nader analyseren waardoor dit wordt veroorzaakt en wordt dezelfde werkwijze gevolgd als voor leerlingen die recent op school zijn ingestroomd.  
+Scholen die nieuw zijn beginnen vaak met een klein aantal leerlingen, dat veelal in de onderbouw verblijft. De eerste jaren dat de school bestaat, zullen in de midden- en bovenbouw vooral leerlingen de school bezoeken die eerst op andere scholen hebben gezeten. De resultaten van deze leerlingen kunnen dan ook niet direct toegeschreven worden aan de nieuwe school. Desondanks beoordeelt de inspectie de eindresultaten van deze scholen in eerste instantie volgens de reguliere werkwijze. Als blijkt dat de eindresultaten onvoldoende zijn, gaat de inspectie nader analyseren waardoor dit wordt veroorzaakt en wordt dezelfde werkwijze gevolgd als voor leerlingen die recent op school zijn ingestroomd. 
 
 ### 2  
 
 ####Verouderde, onvoldoende of ondeugdelijke toetsen of te weinig beschikbare gegevens
 
-Scholen die zich niet over hun eindresultaten kunnen verantwoorden omdat zij bijvoorbeeld niet beschikken over de leerresultaten van drie cohorten leerlingen of omdat deze gegevens incompleet zijn, krijgen het oordeel: niet te beoordelen. Deze scholen krijgen iedere twee jaar een kwaliteitsonderzoek.  
+Scholen die zich niet over hun eindresultaten kunnen verantwoorden omdat zij bijvoorbeeld niet beschikken over de leerresultaten van drie cohorten leerlingen of omdat deze gegevens incompleet zijn, krijgen het oordeel: niet te beoordelen. Deze scholen krijgen iedere twee jaar een kwaliteitsonderzoek. 
 
 ### 3  
 
 ####Beoordeling eindresultaten scholen met kopklassen
 
-Kopklassen hebben tot doel de leerlingen (veelal leerlingen met een taalachterstand) die hieraan deelnemen een betere uitgangspositie te geven voor het vervolgonderwijs. In de meeste gevallen gaat het om landelijke projecten of door de overheid erkende experimenten. De inspectie baseert zich bij de beoordeling van de eindresultaten van deze scholen op de meest recente resultaten van de totale groep leerlingen die aan de eindtoets heeft meegedaan. NB. Het komt voor dat sommige leerlingen alleen de kopklas volgen en dus recent zijn ingestroomd. Deze leerlingen worden bij de beoordeling buiten beschouwing gelaten.  
+Kopklassen hebben tot doel de leerlingen (veelal leerlingen met een taalachterstand) die hieraan deelnemen een betere uitgangspositie te geven voor het vervolgonderwijs. In de meeste gevallen gaat het om landelijke projecten of door de overheid erkende experimenten. De inspectie baseert zich bij de beoordeling van de eindresultaten van deze scholen op de meest recente resultaten van de totale groep leerlingen die aan de eindtoets heeft meegedaan. NB. Het komt voor dat sommige leerlingen alleen de kopklas volgen en dus recent zijn ingestroomd. Deze leerlingen worden bij de beoordeling buiten beschouwing gelaten. 
 
 ### 4  
 
@@ -179,7 +179,7 @@ Toetsresultaten zijn alleen betrouwbaar en valide als de toetsen zijn afgenomen 
 
 * Is op grond van eerder behaalde resultaten te verwachten dat de toetsresultaten aan het eind van de basisschool anders waren geweest als de afnamevoorschriften wel correct waren gevolgd? Zou dit een onvoldoende inspectieoordeel tot resultaat kunnen hebben gehad?  
 
-* Is er mogelijk doelbewust door de betrokkenen afgeweken van de afnamevoorschriften om betere resultaten te verkrijgen?   Als één of beide overwegingen van toepassing zijn of hier serieuze twijfels over bestaan, kan de inspectie besluiten de resultaten niet te beoordelen.  
+* Is er mogelijk doelbewust door de betrokkenen afgeweken van de afnamevoorschriften om betere resultaten te verkrijgen?   Als één of beide overwegingen van toepassing zijn of hier serieuze twijfels over bestaan, kan de inspectie besluiten de resultaten niet te beoordelen. 
 
 ### Bijlage  E  
 
@@ -199,7 +199,7 @@ De school verantwoordt zich over de leerresultaten met door haar gebruikte betro
 
 2. Entreetoets van het Cito (tot en met schooljaar 2010–2011);  
 
-3. Landelijk genormeerde methodeonafhankelijke toetsen uit groep 8.   Bij voorkeur baseert de inspectie haar oordeel op de toets waarvoor van twee of meer jaren gegevens beschikbaar zijn. De inspectie beoordeelt de eindresultaten op basis van de resultaten van de leerlingen in groep 8 van de afgelopen 3 jaar (cohorten). Als de resultaten slechts één keer voldoende zijn, en het aantal in de beoordeling betrokken leerlingen is minder dan 10, dan betrekt de inspectie de resultaten van groep 7 bij de beoordeling. Als de resultaten van groep 7 onvoldoende zijn, dan betrekt de inspectie de leerresultaten van een vierde jaargroep 8 bij de beoordeling.  
+3. Landelijk genormeerde methodeonafhankelijke toetsen uit groep 8.   Bij voorkeur baseert de inspectie haar oordeel op de toets waarvoor van twee of meer jaren gegevens beschikbaar zijn. De inspectie beoordeelt de eindresultaten op basis van de resultaten van de leerlingen in groep 8 van de afgelopen 3 jaar (cohorten). Als de resultaten slechts één keer voldoende zijn, en het aantal in de beoordeling betrokken leerlingen is minder dan 10, dan betrekt de inspectie de resultaten van groep 7 bij de beoordeling. Als de resultaten van groep 7 onvoldoende zijn, dan betrekt de inspectie de leerresultaten van een vierde jaargroep 8 bij de beoordeling. 
 
 ####Beslisregel beoordeling eindresultaten
 
@@ -211,7 +211,7 @@ De school verantwoordt zich over de leerresultaten met door haar gebruikte betro
 | onvoldoende (‘2’):  | • drie keer onvoldoende; of  • één keer voldoende (aantal in de beoordeling betrokken leerlingen minder dan 10), onvoldoende resultaten in groep 7 en onvoldoende resultaten in een vierde groep 8.  |
 | niet te beoordelen (‘5’):  | • bijzondere omstandigheden (zie bijlage D  van deze regeling).  |
 
-In omstandigheden waarin deze regeling niet voorziet, geeft de hoofdinspecteur po/ec een gemotiveerd oordeel over de leerresultaten.  
+In omstandigheden waarin deze regeling niet voorziet, geeft de hoofdinspecteur po/ec een gemotiveerd oordeel over de leerresultaten. 
 
 ####Toelichting op de beslisregel
 
@@ -223,7 +223,7 @@ Het oordeel op jaarbasis voor de verschillende (eind)toetsen wordt bepaald confo
 
 3. Als slechts één van de afgelopen drie jaren voldoende is en het aantal leerlingen waarop dat oordeel is gebaseerd, is 10 of meer, dan is het oordeel voldoende.  
 
-4. Als slechts één van de afgelopen drie jaren voldoende is en het aantal leerlingen waarop dat oordeel is gebaseerd, is minder dan 10, dan worden de resultaten van groep 7 bij de beoordeling betrokken. Als de resultaten van groep 7, ongeacht het leerlingenaantal, voldoende zijn, is het oordeel over de eindresultaten ‘voldoende’. Is het oordeel over de resultaten van groep 7 onvoldoende, dan worden de resultaten van een vierde groep 8 bij de beoordeling betrokken. Als de resultaten van die vierde groep 8, ongeacht het leerlingenaantal, voldoende zijn, is het oordeel over de eindresultaten ‘voldoende’. Is het oordeel over de resultaten van de vierde groep 8 onvoldoende, dan zijn de eindresultaten ‘onvoldoende’.) <sup> 1  Het oordeel voor groep 7 moet gebaseerd zijn op een nieuwe groep. Dus niet de toets uit leerjaar 7 van een groep 8 die al in de analyse is betrokken. De inspectie gaat uit van de laatste beschikbare gegevens van de leerlingvolgsysteemtoetsen voor Rekenen en wiskunde en Begrijpend lezen. Voor een voldoende oordeel moeten zowel Rekenen en wiskunde als Begrijpend lezen van groep 7 voldoende zijn.   Ook kan het kan voorkomen dat bij het ‘overstappen’ van bijvoorbeeld de Cito Entreetoets naar een andere eindtoets of omgekeerd, twee keer de gegevens van hetzelfde cohort worden betrokken bij de beoordeling. Dit is niet de bedoeling. In dit geval beschouwt de inspectie slechts één van beide schooljaren en wordt een extra cohort toegevoegd ten behoeve van de beoordeling.  </sup>  
+4. Als slechts één van de afgelopen drie jaren voldoende is en het aantal leerlingen waarop dat oordeel is gebaseerd, is minder dan 10, dan worden de resultaten van groep 7 bij de beoordeling betrokken. Als de resultaten van groep 7, ongeacht het leerlingenaantal, voldoende zijn, is het oordeel over de eindresultaten ‘voldoende’. Is het oordeel over de resultaten van groep 7 onvoldoende, dan worden de resultaten van een vierde groep 8 bij de beoordeling betrokken. Als de resultaten van die vierde groep 8, ongeacht het leerlingenaantal, voldoende zijn, is het oordeel over de eindresultaten ‘voldoende’. Is het oordeel over de resultaten van de vierde groep 8 onvoldoende, dan zijn de eindresultaten ‘onvoldoende’.)<sup> 1 Het oordeel voor groep 7 moet gebaseerd zijn op een nieuwe groep. Dus niet de toets uit leerjaar 7 van een groep 8 die al in de analyse is betrokken. De inspectie gaat uit van de laatste beschikbare gegevens van de leerlingvolgsysteemtoetsen voor Rekenen en wiskunde en Begrijpend lezen. Voor een voldoende oordeel moeten zowel Rekenen en wiskunde als Begrijpend lezen van groep 7 voldoende zijn. Ook kan het kan voorkomen dat bij het ‘overstappen’ van bijvoorbeeld de Cito Entreetoets naar een andere eindtoets of omgekeerd, twee keer de gegevens van hetzelfde cohort worden betrokken bij de beoordeling. Dit is niet de bedoeling. In dit geval beschouwt de inspectie slechts één van beide schooljaren en wordt een extra cohort toegevoegd ten behoeve van de beoordeling. </sup>   
 
-5. Scholen die zich niet over hun eindresultaten kunnen verantwoorden omdat zij bijvoorbeeld niet beschikken over de leerresultaten van drie cohorten leerlingen of omdat deze gegevens incompleet zijn, krijgen het oordeel: ‘niet te beoordelen’. Indien dit het geval is beoordeelt de inspectie de kwaliteitszorg. Deze scholen krijgen iedere twee jaar een kwaliteitsonderzoek.    
+5. Scholen die zich niet over hun eindresultaten kunnen verantwoorden omdat zij bijvoorbeeld niet beschikken over de leerresultaten van drie cohorten leerlingen of omdat deze gegevens incompleet zijn, krijgen het oordeel: ‘niet te beoordelen’. Indien dit het geval is beoordeelt de inspectie de kwaliteitszorg. Deze scholen krijgen iedere twee jaar een kwaliteitsonderzoek.   
 

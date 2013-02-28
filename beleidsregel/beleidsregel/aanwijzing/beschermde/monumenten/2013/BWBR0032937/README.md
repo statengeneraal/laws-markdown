@@ -17,23 +17,23 @@ In deze beleidsregel wordt verstaan onder:
 
 *Minister:* Minister van Onderwijs, Cultuur en Wetenschap;  
 
-*wet:*[Monumentenwet 1988](../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md);  
+*wet:* [Monumentenwet 1988](../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md);  
 
 *gebouwd monument:* monument als bedoeld in [artikel 1, onderdeel b, subonderdeel 1, van de wet](../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), voor zover onroerend;  
 
-*aanwijzingsprogramma:* overzicht van gebouwde monumenten of archeologische monumenten die de Minister voornemens is op grond van [artikel 3, eerste lid, van de wet](../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md) aan te wijzen als beschermd monument.    
+*aanwijzingsprogramma:* overzicht van gebouwde monumenten of archeologische monumenten die de Minister voornemens is op grond van [artikel 3, eerste lid, van de wet](../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md) aan te wijzen als beschermd monument.   
 
 ### Artikel  2  
 
 ####Reikwijdte
 
-Deze beleidsregel heeft betrekking op de wijze waarop de Minister gebruik maakt van de bevoegdheid tot het aanwijzen van onroerende monumenten als beschermd monument, bedoeld in [artikel 3, eerste lid, van de wet](../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md).  
+Deze beleidsregel heeft betrekking op de wijze waarop de Minister gebruik maakt van de bevoegdheid tot het aanwijzen van onroerende monumenten als beschermd monument, bedoeld in [artikel 3, eerste lid, van de wet](../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md). 
 
 ### Artikel  3  
 
 ####Aanwijzingsprogramma
 
-Met het oog op de aanwijzing van gebouwde monumenten of archeologische monumenten als beschermd monument kan de Minister, de Raad voor cultuur gehoord, een aanwijzingsprogramma vaststellen.  
+Met het oog op de aanwijzing van gebouwde monumenten of archeologische monumenten als beschermd monument kan de Minister, de Raad voor cultuur gehoord, een aanwijzingsprogramma vaststellen. 
 
 ### Paragraaf  2  
 
@@ -52,7 +52,7 @@ b. het monument
 1. vanwege zijn schoonheid, betekenis voor de wetenschap of cultuurhistorische waarde kan worden aangemerkt als een nationaal of internationaal erkend monument van de Nederlandse architectuur, stedenbouw, landinrichting, bouwtechniek of ruimtegebonden kunst, en  
 
 2. vanwege zijn hoge zeldzaamheid een onmiskenbare aanvulling vormt op de beschermde monumenten.       
-2.  Een aanwijzingsprogramma als bedoeld in het eerste lid, onderdeel a, is in elk geval het aanwijzingsprogramma voor monumenten van de Nieuwe Hollandse Waterlinie.   
+2.  Een aanwijzingsprogramma als bedoeld in het eerste lid, onderdeel a, is in elk geval het aanwijzingsprogramma voor monumenten van de Nieuwe Hollandse Waterlinie.  
 
 ### Artikel  5  
 
@@ -67,7 +67,7 @@ b. het monument:
 1. vanwege zijn schoonheid, betekenis voor de wetenschap of cultuurhistorische waarde kan worden aangemerkt als een nationaal of internationaal erkend kenmerkend monument van de Nederlandse architectuur, stedenbouw, landinrichting, bouwtechniek of ruimtegebonden kunst, en  
 
 2. vergelijkbare monumentale waarde heeft als de gebouwde monumenten die behoren tot de ongeveer 100 meest waardevolle monumenten die zijn gebouwd in de periode vanaf 1940 tot en met 1958, bedoeld in [artikel 3, onderdeel b, van de Tijdelijke beleidsregel aanwijzing beschermde monumenten 2007](../../../../../../../beleidsregel/tijdelijke/beleidsregel/aanwijzing/beschermde/monumenten/2007/BWBR0022114/README.md).       
-2.  Een aanwijzingsprogramma als bedoeld in het eerste lid, onderdeel a, is in elk geval het aanwijzingsprogramma voor monumenten uit de periode vanaf 1959 tot en met 1965.   
+2.  Een aanwijzingsprogramma als bedoeld in het eerste lid, onderdeel a, is in elk geval het aanwijzingsprogramma voor monumenten uit de periode vanaf 1959 tot en met 1965.  
 
 ### Artikel  6  
 
@@ -86,7 +86,7 @@ d. Inundatie- en schootsvelden worden niet opgenomen in het aanwijzingsprogramma
 
 a. het desbetreffende monument is een evidente mijlpaal in de ontwikkeling van de architectuur, stedenbouw, landinrichting, bouwtechniek of ruimtegebonden kunst in Nederland, wat onder meer blijkt uit een vooraanstaande positie en duiding in de nationale en internationale vakliteratuur, of  
 
-b. het desbetreffende monument is een essentieel toonbeeld van de cultuurhistorische of sociaalhistorische ontwikkelingen van de wederopbouwperiode in Nederland.     
+b. het desbetreffende monument is een essentieel toonbeeld van de cultuurhistorische of sociaalhistorische ontwikkelingen van de wederopbouwperiode in Nederland.    
 
 ### Artikel  7  
 
@@ -96,7 +96,7 @@ Bij de aanwijzing van een gebouwd monument als beschermd monument houdt de Minis
 
 a. een positief behoudsperspectief heeft, zowel technisch als functioneel, en  
 
-b. een positieve invloed heeft op de kwaliteit van de ruimtelijke omgeving.    
+b. een positieve invloed heeft op de kwaliteit van de ruimtelijke omgeving.   
 
 ### Paragraaf  3  
 
@@ -114,7 +114,7 @@ b. het monument
 
 1. vanwege zijn schoonheid, betekenis voor de wetenschap of cultuurhistorische waarde kan worden aangemerkt als een nationaal of internationaal erkend monument, en  
 
-2. een wezenlijke lacune opvult in het geheel van de beschermde archeologische monumenten.      
+2. een wezenlijke lacune opvult in het geheel van de beschermde archeologische monumenten.     
 
 ### Artikel  9  
 
@@ -124,7 +124,7 @@ Bij het opstellen van een aanwijzingsprogramma als bedoeld in artikel 8, onderde
 
 a. het desbetreffende monument kan vanwege zijn schoonheid, betekenis voor de wetenschap of cultuurhistorische waarde worden aangemerkt als een nationaal of internationaal erkend monument, en  
 
-b. het desbetreffende monument vult een wezenlijke lacune op in het geheel van de beschermde archeologische monumenten.    
+b. het desbetreffende monument vult een wezenlijke lacune op in het geheel van de beschermde archeologische monumenten.   
 
 ### Paragraaf  4  
 
@@ -144,21 +144,21 @@ b. de procedure, bedoeld in [artikel 3 van de wet](../../../../../../../wet/monu
 
 c. door of namens de Minister bij een belanghebbende dan wel bij een provincie of een gemeente het gerechtvaardige vertrouwen is gewekt dat het voornemen bestaat het gebouwde monument of het archeologische monument op grond van [artikel 3 van de wet](../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), zoals dat artikel luidde op 31 december 2008, aan te wijzen als beschermd monument.     
 4.  Op een gebouwd monument of een archeologisch monument als bedoeld in het derde lid is de [Tijdelijke beleidsregel aanwijzing beschermde monumenten 2007](../../../../../../../beleidsregel/tijdelijke/beleidsregel/aanwijzing/beschermde/monumenten/2007/BWBR0022114/README.md) van overeenkomstige toepassing.   
-5.  In afwijking van het derde en vierde lid zijn de artikelen 4 tot en met 9 van overeenkomstige toepassing op een gebouwd monument of een archeologisch monument als bedoeld in het derde lid, aanhef en onderdeel a, dat is opgenomen in een aanwijzingsprogramma.   
+5.  In afwijking van het derde en vierde lid zijn de artikelen 4 tot en met 9 van overeenkomstige toepassing op een gebouwd monument of een archeologisch monument als bedoeld in het derde lid, aanhef en onderdeel a, dat is opgenomen in een aanwijzingsprogramma.  
 
 ### Artikel  11  
 
 ####Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2013.  
+Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2013. 
 
 ### Artikel  12  
 
 ####Citeertitel
 
-Deze beleidsregel wordt aangehaald als: Beleidsregel aanwijzing beschermde monumenten 2013.  
+Deze beleidsregel wordt aangehaald als: Beleidsregel aanwijzing beschermde monumenten 2013. 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap,
-M.Bussemaker   
+Minister van Onderwijs, Cultuur en Wetenschap, 
+M. Bussemaker     

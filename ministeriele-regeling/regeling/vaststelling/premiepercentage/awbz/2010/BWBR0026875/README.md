@@ -9,18 +9,21 @@ Gelet op [artikel 11, derde lid, van de Wet financiering sociale verzekeringen](
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 20-12-2011 
 
-Het premiepercentage, bedoeld in [artikel 11, derde lid, van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), wordt voor het jaar 2010 vastgesteld op 12,15.  
+Het premiepercentage, bedoeld in [artikel 11, derde lid, van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), wordt voor het jaar 2010 vastgesteld op 12,15. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 20-12-2011 
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 20-12-2011 
 
-Deze regeling wordt aangehaald als: Regeling vaststelling premiepercentage AWBZ 2010.  
+Deze regeling wordt aangehaald als: Regeling vaststelling premiepercentage AWBZ 2010. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
-J.Bussemaker   
+J. Bussemaker     

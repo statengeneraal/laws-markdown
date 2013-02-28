@@ -9,18 +9,21 @@ Gelet op [artikel 11, derde lid, van de Wet financiering sociale verzekeringen](
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2009 
 
-Het premiepercentage, bedoeld in [artikel 11, derde lid, van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), wordt voor het jaar 2007 vastgesteld op 12,00.  
+Het premiepercentage, bedoeld in [artikel 11, derde lid, van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), wordt voor het jaar 2007 vastgesteld op 12,00. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2009 
 
-Deze regeling treedt in werking met ingang van 1 januari 2007.  
+Deze regeling treedt in werking met ingang van 1 januari 2007. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2009 
 
-Deze regeling wordt aangehaald als: Regeling vaststelling premiepercentage AWBZ 2007.  
+Deze regeling wordt aangehaald als: Regeling vaststelling premiepercentage AWBZ 2007. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
-C.I.J.M.Ross-van Dorp   
+C.I.J.M. Ross-van Dorp     

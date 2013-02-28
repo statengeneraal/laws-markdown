@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-De minimumbijdrage, bedoeld in de [artikelen 220 lid 6](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [275 lid 4 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), is € 5396.  
+De minimumbijdrage, bedoeld in de [artikelen 220 lid 6](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [275 lid 4 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), is € 5658.  
 
 ### Artikel  2  
 

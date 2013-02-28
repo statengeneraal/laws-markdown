@@ -9,17 +9,20 @@ Gelet op [artikel 11, derde lid, van de Wet financiering sociale verzekeringen](
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2008 
 
-Het premiepercentage, bedoeld in [artikel 11, derde lid, van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), wordt voor het jaar 2006 vastgesteld op 12,55.  
+Het premiepercentage, bedoeld in [artikel 11, derde lid, van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), wordt voor het jaar 2006 vastgesteld op 12,55. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2008 
 
-Deze regeling treedt in werking met ingang van 1 januari 2006.  
+Deze regeling treedt in werking met ingang van 1 januari 2006. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2008 
 
-Deze regeling wordt aangehaald als: Regeling vaststelling premiepercentage AWBZ 2006.  
+Deze regeling wordt aangehaald als: Regeling vaststelling premiepercentage AWBZ 2006. 
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-J.F.Hoogervorst   
+J.F. Hoogervorst     
