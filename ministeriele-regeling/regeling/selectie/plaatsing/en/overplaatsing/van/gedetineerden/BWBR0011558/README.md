@@ -29,9 +29,9 @@ e. zelfmelder: een tot vrijheidsstraf veroordeelde die niet gedetineerd is op he
 
 f. opgelegde vrijheidsstraf: de opgelegde vrijheidsstraf, dan wel het totaal van de opgelegde vrijheidsstraffen zonder aftrek van de vervroegde invrijheidstelling;  
 
-g. sectordirecteur Gevangeniswezen: de sectordirecteur Gevangeniswezen van de Dienst Justitiële Inrichtingen van het Ministerie van Justitie;  
+g. sectordirecteur Gevangeniswezen: de sectordirecteur Gevangeniswezen van de Dienst Justitiële Inrichtingen van het Ministerie van Veiligheid en Justitie;  
 
-h. Meldpunt-GRIP: het Gedetineerden Recherche Informatiepunt van de Dienst Nationale Recherche Informatie van het Korps Landelijke Politiediensten;  
+h. Meldpunt-GRIP: het Gedetineerden Recherche Informatiepunt van de dienst Nationale recherche van de Landelijke eenheid;  
 
 i. forensische zorg: geestelijke gezondheidszorg, verslavingszorg en verstandelijk gehandicaptenzorg verleend in een Penitentiair Psychiatrisch Centrum als bedoeld in artikel 20c.    
 
@@ -72,8 +72,8 @@ c. is geconstateerd dat zij deelname weigeren, dan wel hun deelname weigeren voo
 
 ### Artikel  2a  
 
-1.  Er is een experiment Elektronische Detentiehuizen dat loopt van 1 oktober 2001 tot 1 april 2002. De Minister van Justitie kan de duur van het experiment met een periode van een half jaar verlengen. Het experiment wordt geëvalueerd.   
-2.  De Minister van Justitie wijst Elektronische Detentiehuizen aan waar het experiment plaatsvindt.   
+1.  Er is een experiment Elektronische Detentiehuizen dat loopt van 1 oktober 2001 tot 1 april 2002. De Minister van veiligheid en Justitie kan de duur van het experiment met een periode van een half jaar verlengen. Het experiment wordt geëvalueerd.   
+2.  De Minister van veiligheid en Justitie wijst Elektronische Detentiehuizen aan waar het experiment plaatsvindt.   
 3.  In Elektronische Detentiehuizen kunnen gedetineerden worden geplaatst die: 
 
 a. tenminste 90 procent van de opgelegde vrijheidsstraf hebben ondergaan;  
@@ -188,34 +188,6 @@ f. de aan hem opgelegde beperkingen.
 
 In het Pieter Baan Centrum kunnen gedetineerden worden geplaatst ten aanzien van wie een bevel tot overbrenging ten behoeve van observatie is gegeven als bedoeld in artikel 198 juncto 196 [Wetboek van strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).  
 
-### Artikel  13  
-
-####Externe Resocialisatie Afdeling (ERA)
-
-1.  In de Externe Resocialisatie Afdeling kunnen mannelijke gedetineerden worden geplaatst met: 
-
-a. een strafrestant van minimaal vijf maanden en maximaal twaalf maanden, en  
-
-b. psychosociale problematiek, die intensieve zorg behoeven en niet in aanmerking komen voor een andere vorm van detentiefasering. In afwijking van het in artikel 2, eerste lid, onder d, genoemde strafrestant kunnen gedetineerden in de Externe Resocialisatie Afdeling worden geplaatst met een strafrestant van ten minste vijf maanden en ten hoogste twaalf maanden.     
-2.  Voor plaatsing in de Externe Resocialisatie Afdeling komen niet in aanmerking gedetineerden met: 
-
-a. een ernstige actuele verslavingsproblematiek, of  
-
-b. een ernstige actuele psychiatrische problematiek.     
-
-### Artikel  14  
-
-####Forensische Observatie- en Begeleidingsafdeling (FOBA)
-
-In de Forensische Observatie- en Begeleidingsafdeling kunnen gedetineerden worden geplaatst die als gevolg van een psychiatrische stoornis, persoonlijkheidstoornis of psychosociale problematiek in een crisissituatie verkeren en ten gevolge daarvan tijdelijk niet in een reguliere inrichting of afdeling kunnen verblijven.  
-
-### Artikel  15  
-
-####Individuele Begeleidingsafdelingen (IBA)
-
-1.  In de Individuele Begeleidings-afdelingen kunnen gedetineerden worden geplaatst die vanwege een psychiatrische stoornis, een persoonlijkheidsstoornis dan wel psychosociale problematiek extra begeleiding behoeven en zich niet kunnen handhaven in een reguliere inrichting of afdeling.   
-2.  Gedetineerden bij wie de in het eerste lid gestelde problematiek primair wordt veroorzaakt door een verslavingsproblematiek, komen in beginsel niet voor plaatsing in een Individuele Begeleidingsafdeling in aanmerking.   
-
 ### Artikel  16  
 
 ####Inrichtingen voor de bijzondere opvang van psychologisch onvolwassenen (JOVO)
@@ -264,30 +236,15 @@ c. die tijdelijk opvang behoeven vanwege een psychosociale crisis.
 
 ### Artikel  19  
 
-####Penitentiair Ziekenhuis (PZ)
+####Justitieel Medisch Centrum (PZ)
 
-In het Penitentiair Ziekenhuis kunnen gedetineerden worden geplaatst: 
+In het Justitieel Medisch Centrum kunnen gedetineerden worden geplaatst: 
 
 a. die medische behandeling behoeven waarvoor opname in een ziekenhuis geïndiceerd is,  
 
 b. ten aanzien van wie het vermoeden bestaat dat zij voorwerpen in hun lichaam hebben verborgen die een ernstig gevaar kunnen vormen voor de gezondheid van de gedetineerde, of  
 
 c. die langdurig extra medische verzorging behoeven en ten gevolge daarvan niet of zeer moeilijk in een reguliere inrichting of afdeling kunnen verblijven.    
-
-### Artikel  20  
-
-####Verslaafden Begeleidingsafdeling (VBA)
-
-1.  In de Verslaafden Begeleidings-afdelingen kunnen gedetineerden worden geplaatst die een verslavingsproblematiek hebben en die in staat en bereid zijn van de geboden begeleiding bij deze problematiek gebruik te maken. Alvorens in een Verslaaf-den Begeleidingsafdeling te kunnen worden geplaatst moet de gedetineerde met succes een toeleidingsprogramma hebben afgerond.   
-2.  Voor plaatsing in een Verslaafden Begeleidingsafdeling komen niet in aanmerking: 
-
-a. gedetineerden met een acute psychiatrische stoornis,  
-
-b. gedetineerden van wie vaststaat dat zij na de detentie worden uitgezet of uitgeleverd,  
-
-c. gedetineerden aan wie terbeschikkingstelling met bevel tot verpleging van overheidswege is opgelegd, of  
-
-d. gedetineerden die de Nederlandse taal in onvoldoende mate beheersen.     
 
 ### Artikel  20a  
 
@@ -305,14 +262,13 @@ c. voor of tijdens hun detentie een boodschap van radicalisering verkondigen of 
 
 ####Inrichtingen voor strafrechtelijk gedetineerde vreemdelingen
 
-1.  In de inrichtingen of afdelingen voor strafrechtelijk gedetineerde vreemdelingen worden vreemdelingen geplaatst die na de tenuitvoerlegging van de vrijheidsstraf of de maatregel tot plaatsing in een inrichting voor stelselmatige daders geen rechtmatig verblijf hebben in Nederland in de zin van [artikel 8 van de Vreemdelingenwet 2000](../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
+1.  In de inrichtingen of afdelingen voor strafrechtelijk gedetineerde vreemdelingen worden vreemdelingen geplaatst die geen rechtmatig verblijf hebben in Nederland in de zin van [artikel 8 van de Vreemdelingenwet 2000](../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en ten aanzien van wie voorlopige hechtenis ingevolge een bevel van gevangenneming of gevangenhouding, een vrijheidsstraf of een maatregel tot plaatsing in een inrichting voor stelselmatige daders ten uitvoer wordt gelegd.   
 2.  De inrichtingen of afdelingen voor strafrechtelijk gedetineerde vreemdelingen kunnen worden onderscheiden in: 
 
 a. inrichtingen of afdelingen voor gedetineerden als bedoeld in het eerste lid met een strafrestant van ten minste vier maanden;  
 
 b. inrichtingen of afdelingen voor gedetineerden als bedoeld in het eerste lid met een strafrestant van minder dan vier maanden.     
-3.  In de inrichtingen of afdelingen voor strafrechtelijk gedetineerde vreemdelingen kunnen tevens gedetineerden als bedoeld in het eerste lid worden geplaatst voor de tenuitvoerlegging van voorlopige hechtenis vóór veroordeling in eerste aanleg.   
-4.  Plaatsing in een andere inrichting of afdeling dan bedoeld in dit artikel is in ieder geval aangewezen als het gedetineerden betreft als bedoeld in artikel 20a.   
+3.  Plaatsing in een andere inrichting of afdeling dan bedoeld in dit artikel is in ieder geval aangewezen als het gedetineerden betreft als bedoeld in artikel 20a.   
 
 ### Artikel  20c  
 
@@ -381,6 +337,7 @@ een selectie-adviescommissie geestelijk gestoorde gedetineerden welke adviseert 
 5.  Indien de selectiefunctionaris voornemens is de veroordeelde te selecteren voor een inrichting of afdeling waarvoor een selectie-adviescommissie bestaat, legt de selectiefunctionaris zijn voorgenomen besluit ter advisering aan deze commissie voor.   
 6.  Indien het de selectie van een veroordeelde betreft met een al dan niet onherroepelijk opgelegde vrijheidsstraf van 8 jaar of meer, legt de selectiefunctionaris zijn voorgenomen besluit eerst ter advisering voor aan het Penitentiair Selectie Centrum. De selectie-adviescommissie baseert haar advies aan de selectiefunctionaris in dat geval mede op het advies van het Penitentiair Selectie Centrum.   
 7.  In spoedeisende gevallen kunnen de in het vijfde en zesde lid genoemde adviezen achterwege blijven. In dat geval spreekt de selectie-adviescommissie zich in de eerstvolgende vergadering alsnog uit over het plaatsingsbesluit.   
+8.  Gedetineerden met een strafrestant tot vier maanden worden in een gevangenis in het arrondissement van vestiging geplaatst, tenzij een belang als bedoeld in [artikel 36, vierde lid, van de wet](../../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) zich daar tegen verzet dan wel geen plaats in een gevangenis in het betreffende arrondissement beschikbaar is.   
 
 ### Artikel  26  
 
@@ -505,30 +462,23 @@ c. een schriftelijk advies van het Openbaar Ministerie zolang de vrijheidsbenemi
 
 ### Artikel  32  
 
-####Plaatsing in het Penitentiair Ziekenhuis
+####Plaatsing in het Justitieel Medisch Centrum
 
-1.  Indien plaatsing in het Penitentiair Ziekenhuis medisch geïndiceerd is, wordt de indicatie door de medische dienst van de inrichting van verblijf schriftelijk voorgelegd aan het hoofd van de medische dienst van het Penitentiair Ziekenhuis.   
-2.  Nadat de directeur van het Penitentiair Ziekenhuis de directeur van de inrichting alwaar de gedetineerde verblijft heeft gemeld dat een opname kan worden gerealiseerd, kan de directeur van de inrichting alwaar betrokkene verblijft de gedetineerde in het Penitentiair Ziekenhuis plaatsen. Indien een langer verblijf in het Penitentiair Ziekenhuis niet meer geïndiceerd is, plaatst de directeur van de inrichting van herkomst de gedetineerde terug in zijn inrichting.   
-3.  Indien de plaatsing in het Penitentiair Ziekenhuis is gebaseerd op één van de gronden als genoemd in artikel 19 onder a en b, blijft de gedetineerde administratief ingeschreven in de inrichting van herkomst.   
-4.  Indien een plaatsing in het Penitentiair Ziekenhuis geïndiceerd is als bedoeld in artikel 19, onder c, plaatst de selectiefunctionaris, op voorstel van de directeur van de inrichting van herkomst en de directeur van het Penitentiair Ziekenhuis, de gedetineerde over naar het Penitentiair Ziekenhuis. Indien een langer verblijf in het Penitentiair Ziekenhuis niet langer geïndiceerd is, plaatst de selectiefunctionaris de gedetineerde, op voorstel van de directie van het Penitentiair Ziekenhuis, over.   
-5.  Indien een spoedeisende plaatsing in het Penitentiair Ziekenhuis geïndiceerd is, kan, met instemming van de directeur van het Penitentiair Ziekenhuis, afgeweken worden van de in dit artikel gestelde procedure.   
+1.  Indien plaatsing in het Justitieel Medisch Centrum medisch geïndiceerd is, wordt de indicatie door de medische dienst van de inrichting van verblijf schriftelijk voorgelegd aan het hoofd van de medische dienst van het Justitieel Medisch Centrum.   
+2.  Nadat de directeur van het Justitieel Medisch Centrum de directeur van de inrichting alwaar de gedetineerde verblijft heeft gemeld dat een opname kan worden gerealiseerd, kan de directeur van de inrichting alwaar betrokkene verblijft de gedetineerde in het Justitieel Medisch Centrum plaatsen. Indien een langer verblijf in het Justitieel Medisch Centrum niet meer geïndiceerd is, plaatst de directeur van de inrichting van herkomst de gedetineerde terug in zijn inrichting.   
+3.  Indien de plaatsing in het Justitieel Medisch Centrum is gebaseerd op één van de gronden als genoemd in artikel 19 onder a en b, blijft de gedetineerde administratief ingeschreven in de inrichting van herkomst.   
+4.  Indien een plaatsing in het Justitieel Medisch Centrum geïndiceerd is als bedoeld in artikel 19, onder c, plaatst de selectiefunctionaris, op voorstel van de directeur van de inrichting van herkomst en de directeur van het Justitieel Medisch Centrum, de gedetineerde over naar het Justitieel Medisch Centrum. Indien een langer verblijf in het Justitieel Medisch Centrum niet langer geïndiceerd is, plaatst de selectiefunctionaris de gedetineerde, op voorstel van de directie van het Justitieel Medisch Centrum, over.   
+5.  Indien een spoedeisende plaatsing in het Justitieel Medisch Centrum geïndiceerd is, kan, met instemming van de directeur van het Justitieel Medisch Centrum, afgeweken worden van de in dit artikel gestelde procedure.   
 
 ### Artikel  33  
 
 ####Plaatsing in een algemeen ziekenhuis op grond van [artikel 42, vierde lid, van de wet](../../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md)
 
-1.  De directeur gaat tot plaatsing in een algemeen ziekenhuis over indien de opname in een ziekenhuis medisch geïndiceerd en opname in het Penitentiair Ziekenhuis niet mogelijk of wenselijk is.   
+1.  De directeur gaat tot plaatsing in een algemeen ziekenhuis over indien de opname in een ziekenhuis medisch geïndiceerd en opname in het Justitieel Medisch Centrum niet mogelijk of wenselijk is.   
 2.  Indien de plaatsing een voorlopig gehechte gedetineerde betreft, vraagt de directeur toestemming aan het Openbaar Ministerie. Ten aanzien van een onherroepelijk veroordeelde gedetineerde wordt de visie van het Openbaar Ministerie gevraagd indien op het vonnis een executie-indicator is gegeven.   
 3.  Indien het verblijf in een ziekenhuis zonder toezicht, gelet op het vlucht- of maatschappelijk risico van betrokkene, onverantwoord is, treft de directeur maatregelen welke noodzakelijk zijn voor de bewaking van de gedetineerde.   
 4.  De inrichting van herkomst volgt gedurende het verblijf in het ziekenhuis het behandelingsverloop en treedt als aanspreekpunt dan wel intermediair op bij eventuele bijzonderheden en incidenten.   
 5.  Indien spoedeisende medische zorg geboden is, kan afgeweken worden van de in dit artikel gestelde procedure.   
-
-### Artikel  34  
-
-####Plaatsing in de Forensische Observatie- en Begeleidingsafdeling
-
-1.  De plaatsing in de Forensische Observatie- en Begeleidingsafdeling geschiedt overeenkomstig artikelen 24 en 25.   
-2.  Indien een spoedeisende plaatsing in de Forensisch Observatie- en Begeleidingsafdeling geïndiceerd is, kan de directeur van de inrichting van herkomst met instemming van de directeur van de Forensische Observatie- en Begeleidingsafdeling, de gedetineerde in afwachting van de plaatsingsbeslissing van de selectiefunctionaris in de Forenische Observatie- en Begeleidingsafdeling plaatsen. De selectiefunctionaris wordt zo spoedig mogelijk van de plaatsing op de hoogte gesteld, waarna de selectiefunctionaris alsnog over de plaatsing beslist.   
 
 ### Hoofdstuk  IIX  
 

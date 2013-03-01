@@ -112,105 +112,257 @@ H.W. Laan
 
 ### Bijlage  1  
 
-####Schriftelijke toetsen staatsexamens vo 2011
+####Schriftelijke toetsen staatsexamens VO 2013
 
-Bijlage behorende bij artikel 2 van de Regeling beoordelingsnormen staatsexamens Voortgezet Onderwijs, van 19 april 2011, nummer Cve-11.0357. Er zijn beoordelingsmodellen voor de volgende schriftelijke toetsen: 
+Er zijn beoordelingsmodellen voor de volgende schriftelijke toetsen:   *Tabel 1a Schriftelijke toetsen voorbereidend wetenschappelijk onderwijs 2013*  
 
-####Tabel 1a
+| --- |
+|:---|
+| schrijfopdracht Nederlands  |
+| schrijfopdracht Frans  |
+| schrijfopdracht Fries  |
+| schrijfopdracht Duits  |
+| schrijfopdracht Engels  |
+| schrijfopdracht Italiaans  |
+| schrijfopdracht Italiaans elementair  |
+| schrijfopdracht Spaans  |
+| schrijfopdracht Spaans elementair  |
+| schrijfopdracht Russisch  |
+| schrijfopdracht Turks  |
+| schrijfopdracht Turks elementair  |
+| schrijfopdracht Arabisch  |
+| --- |
+| algemene natuurwetenschappen  |
+| natuur, leven en technologie  |
+| informatica  |
+| --- |
 
-####Schriftelijke toetsen voorbereidend wetenschappelijk onderwijs nieuwe profielen 2011
+*Tabel 1b Schriftelijke toetsen hoger algemeen voortgezet onderwijs 2013*  
 
-Schrijfopdracht Nederlands Schrijfopdracht Fries Schrijfopdracht Frans Schrijfopdracht Duits Schrijfopdracht Engels Schrijfopdracht Italiaans Schrijfopdracht Italiaans elementair Schrijfopdracht Spaans Schrijfopdracht Spaans elementair Schrijfopdracht Russisch Schrijfopdracht Turks Schrijfopdracht Turks elementair Schrijfopdracht Arabisch Algemene natuurwetenschappen Natuur, leven en technologie Informatica  
+| --- |
+|:---|
+| schrijfopdracht Nederlands  |
+| schrijfopdracht Frans  |
+| schrijfopdracht Fries  |
+| schrijfopdracht Duits  |
+| schrijfopdracht Engels  |
+| schrijfopdracht Italiaans  |
+| schrijfopdracht Italiaans elementair  |
+| schrijfopdracht Spaans  |
+| schrijfopdracht Spaans elementair  |
+| schrijfopdracht Russisch  |
+| schrijfopdracht Turks  |
+| schrijfopdracht Turks elementair  |
+| schrijfopdracht Arabisch  |
+| --- |
+| algemene natuurwetenschappen  |
+| natuur, leven en technologie  |
+| informatica  |
+| --- |
 
-####Schriftelijke toetsen voorbereidend wetenschappelijk onderwijs oude profielen 2011
+*Tabel 1c Schriftelijke toetsen theoretische leerweg / gemengde leerweg 2013*  
 
-Schrijfopdracht Nederlands Schrijfopdracht Fries Opdracht leesvaardigheid Frans 1 Schrijfopdracht Frans 2 Opdracht leesvaardigheid Duits 1 Schrijfopdracht Duits 2 Schrijfopdracht Engels Schrijfopdracht Italiaans Schrijfopdracht Italiaans elementair Schrijfopdracht Spaans Schrijfopdracht Spaans elementair Schrijfopdracht Russisch Schrijfopdracht Turks Schrijfopdracht Turks elementair Schrijfopdracht Arabisch Algemene natuurwetenschappen Informatica  
+| --- |
+|:---|
+| schrijfopdracht Frans  |
+| schrijfopdracht Duits  |
+| schrijfopdracht Spaans  |
+| schrijfopdracht Turks  |
+| --- |
 
-####Tabel 1b
+*Tabel 1d Schriftelijke toetsen kaderberoepsgerichte leerweg 2013*  
 
-####Schriftelijke toetsen hoger algemeen voortgezet onderwijs 2011
+| --- |
+|:---|
+| schrijfopdracht Frans  |
+| schrijfopdracht Duits  |
+| schrijfopdracht Engels  |
+| schrijfopdracht Spaans  |
+| schrijfopdracht Turks  |
+| --- |
 
-Schrijfopdracht Nederlands Schrijfopdracht Fries Schrijfopdracht Frans Schrijfopdracht Duits Schrijfopdracht Engels Schrijfopdracht Italiaans Schrijfopdracht Italiaans elementair Schrijfopdracht Spaans Schrijfopdracht Spaans elementair Schrijfopdracht Russisch Schrijfopdracht Turks Schrijfopdracht Turks elementair Schrijfopdracht Arabisch Algemene natuurwetenschappen Natuur, leven en technologie Informatica  
+*Tabel 1e Schriftelijke toetsen basisberoepsgerichte leerweg 2013*  
 
-####Tabel 1c
-
-####Schriftelijke toetsen theoretische leerweg / gemengde leerweg 2011
-
-Schrijfopdracht Frans Schrijfopdracht Duits Schrijfopdracht Spaans Schrijfopdracht Turks  
-
-####Tabel 1d
-
-####Schriftelijke toetsen kaderberoepsgerichte leerweg 2011
-
-Schrijfopdracht Frans Schrijfopdracht Duits Schrijfopdracht Engels Schrijfopdracht Spaans Schrijfopdracht Turks  
-
-####Tabel 1e
-
-####Schriftelijke toetsen basisberoepsgerichte leerweg 2011
-
-Schrijfopdracht Frans Schrijfopdracht Duits Schrijfopdracht Engels Schrijfopdracht Spaans Schrijfopdracht Turks  
+| --- |
+|:---|
+| schrijfopdracht Frans  |
+| schrijfopdracht Duits  |
+| schrijfopdracht Engels  |
+| schrijfopdracht Spaans  |
+| schrijfopdracht Turks  |
+| --- |
 
 ### Bijlage  2  
 
-####Mondelinge examens staatsexamens vo 2011
+####Mondelinge examens staatsexamens VO 2013
 
-Bijlage behorende bij artikel 5 van de Regeling beoordelingsnormen staatsexamens Voortgezet Onderwijs, van 19 april 2011, nummer Cve-11.0357. De volgende mondelinge examens worden afgenomen: 
+De volgende mondelinge examens worden afgenomen:   *Tabel 2a Mondelinge examens voorbereidend wetenschappelijk onderwijs 2013*  
 
-####Tabel 2a
+| --- |
+|:---|
+| aardrijkskunde  |
+| algemene natuurwetenschappen  |
+| Arabische taal  |
+| Arabische taal elementair  |
+| biologie  |
+| Duitse taal  |
+| economie  |
+| Engelse taal  |
+| filosofie  |
+| Franse taal  |
+| Friese taal  |
+| geschiedenis  |
+| Griekse taal  |
+| informatica  |
+| Italiaanse taal  |
+| Italiaanse taal elementair  |
+| klassieke culturele vorming  |
+| Latijnse taal  |
+| maatschappijleer  |
+| maatschappijwetenschappen  |
+| management en organisatie  |
+| natuur, leven en technologie  |
+| natuurkunde  |
+| Nederlandse taal  |
+| profielwerkstuk  |
+| Russische taal  |
+| Russische taal elementair  |
+| scheikunde  |
+| Spaanse taal  |
+| Spaanse taal elementair  |
+| Turkse taal  |
+| Turkse taal elementair  |
+| wiskunde A  |
+| wiskunde B  |
+| wiskunde C  |
+| wiskunde D  |
 
-####Mondelinge examens voorbereidend wetenschappelijk onderwijs nieuwe profielen 2011
+*Tabel 2b Mondelinge examens hoger algemeen voortgezet onderwijs 2013*  
 
-Aardrijkskunde Algemene natuurwetenschappen Arabische taal Arabische taal elementair Biologie Duitse taal Economie Engelse taal Filosofie Franse taal Friese taal Geschiedenis Griekse taal Informatica Italiaanse taal Italiaanse taal elementair Klassieke culturele vorming Latijnse taal Maatschappijleer Maatschappijwetenschappen Management en organisatie Natuur, leven en technologie Natuurkunde Nederlandse taal Profielwerkstuk Russische taal Russische taal elementair Scheikunde Spaanse taal Spaanse taal elementair Turkse taal Turkse taal elementair Wiskunde A Wiskunde B Wiskunde C Wiskunde D  
+| --- |
+|:---|
+| aardrijkskunde  |
+| algemene natuurwetenschappen  |
+| Arabische taal  |
+| Arabische taal elementair  |
+| biologie  |
+| Duitse taal  |
+| economie  |
+| Engelse taal  |
+| Filosofie  |
+| Franse taal  |
+| Friese taal  |
+| geschiedenis  |
+| informatica  |
+| Italiaanse taal  |
+| Italiaanse taal elementair  |
+| maatschappijleer  |
+| maatschappijwetenschappen  |
+| management en organisatie  |
+| natuur, leven en technologie  |
+| natuurkunde  |
+| Nederlandse taal  |
+| profielwerkstuk  |
+| Russische taal  |
+| Russische taal elementair  |
+| scheikunde  |
+| Spaanse taal  |
+| Spaanse taal elementair  |
+| Turkse taal  |
+| Turkse taal elementair  |
+| wiskunde A  |
+| wiskunde B  |
+| wiskunde D  |
 
-####Mondelinge examens voorbereidend wetenschappelijk onderwijs oude profielen 2011
+*Tabel 2c Mondelinge examens theoretische leerweg/gemengde leerweg 2013*  
 
-Aardrijkskunde Algemene natuurwetenschappen Arabische taal Arabische taal elementair Biologie 1 Biologie 1,2 Duitse taal 1,2 Economie 1 Economie 1,2 Engelse taal Filosofie Franse taal 1,2 Friese taal Geschiedenis 1, gemeenschappelijk deel Geschiedenis Griekse taal Informatica Italiaanse taal Italiaanse taal elementair Klassieke culturele vorming Latijnse taal Maatschappijleer 1, gemeenschappelijk deel Maatschappijleer Management en organisatie Natuurkunde 1 Natuurkunde 1,2 Nederlandse taal Profielwerkstuk Russische taal Russische taal elementair Scheikunde 1 Scheikunde 1,2 Spaanse taal Spaanse taal elementair Turkse taal Turkse taal elementair Wiskunde A1 Wiskunde A1,2 Wiskunde B1 Wiskunde B1,2  
+| --- |
+|:---|
+| Aardrijkskunde  |
+| Arabische taal  |
+| biologie  |
+| Duitse taal  |
+| economie  |
+| Engelse taal  |
+| Franse taal  |
+| Friese taal  |
+| geschiedenis  |
+| maatschappijleer 2  |
+| maatschappijleer (gemeenschappelijk deel)  |
+| natuur- en scheikunde 1  |
+| natuur- en scheikunde 2  |
+| Nederlandse taal  |
+| sectorwerkstuk  |
+| Spaanse taal  |
+| Turkse taal  |
+| wiskunde  |
 
-####Tabel 2b
+*Tabel 2d Mondelinge examens kaderberoepsgerichte leerweg 2013*  
 
-####Mondelinge examens hoger algemeen voortgezet onderwijs 2011
+| --- |
+|:---|
+| aardrijkskunde  |
+| Arabische taal  |
+| biologie  |
+| Duitse taal  |
+| economie  |
+| Engelse taal  |
+| Franse taal  |
+| geschiedenis  |
+| maatschappijleer 2  |
+| maatschappijleer (gemeenschappelijk deel)  |
+| natuur- en scheikunde 1  |
+| Nederlandse taal  |
+| Spaanse taal  |
+| Turkse taal  |
+| wiskunde  |
 
-Aardrijkskunde Algemene natuurwetenschappen Arabische taal Arabische taal elementair Biologie Duitse taal Economie Engelse taal Filosofie Franse taal Friese taal Geschiedenis Informatica Italiaanse taal Italiaanse taal elementair Maatschappijleer Maatschappijwetenschappen Management en organisatie Natuur, leven en technologie Natuurkunde Nederlandse taal Profielwerkstuk Russische taal Russische taal elementair Scheikunde Spaanse taal Spaanse taal elementair Turkse taal Turkse taal elementair Wiskunde A Wiskunde B Wiskunde D  
+*Tabel 2e Mondelinge examens basisberoepsgerichte leerweg 2013*  
 
-####Tabel 2c
-
-####Mondelinge examens theoretische leerweg/gemengde leerweg 2011
-
-Aardrijkskunde Arabische taal Biologie Duitse taal Economie Engelse taal Franse taal Friese taal Geschiedenis Maatschappijleer 2 Maatschappijleer (gemeenschappelijk deel) Natuur- en scheikunde 1 Natuur- en scheikunde 2 Nederlandse taal Sectorwerkstuk Spaanse taal Turkse taal Wiskunde  
-
-####Tabel 2d
-
-####Mondelinge examens kaderberoepsgerichte leerweg 2011
-
-Aardrijkskunde Arabische taal Biologie Duitse taal Economie Engelse taal Franse taal Geschiedenis Maatschappijleer 2 Maatschappijleer (gemeenschappelijk deel) Natuur- en scheikunde 1 Nederlandse taal Spaanse taal Turkse taal Wiskunde  
-
-####Tabel 2e
-
-####Mondelinge examens basisberoepsgerichte leerweg 2011
-
-Aardrijkskunde Arabische taal Biologie Duitse taal Economie Engelse taal Franse taal Geschiedenis Maatschappijleer 2 Maatschappijleer (gemeenschappelijk deel) Natuur- en scheikunde 1 Nederlandse taal Spaanse taal Turkse taal Wiskunde  
+| --- |
+|:---|
+| aardrijkskunde  |
+| Arabische taal  |
+| biologie  |
+| Duitse taal  |
+| economie  |
+| Engelse taal  |
+| Franse taal  |
+| geschiedenis  |
+| maatschappijleer 2  |
+| maatschappijleer (gemeenschappelijk deel)  |
+| natuur- en scheikunde 1  |
+| Nederlandse taal  |
+| Spaanse taal  |
+| Turkse taal  |
+| wiskunde  |
 
 ### Bijlage  3  
 
-####Praktische examens staatsexamens vo 2011
+####Praktische examens staatsexamens VO 2013
 
-Bijlage behorende bij artikel 6 van de Regeling beoordelingsnormen staatsexamens Voortgezet Onderwijs, van 19 april 2011, nummer Cve-11.0357. De volgende praktische examens worden afgenomen: 
+De volgende praktische examens worden afgenomen:   *Tabel 3a Praktische examens voorbereidend wetenschappelijk onderwijs 2013*  
 
-####Tabel 3a
+| --- |
+|:---|
+| handvaardigheid I (handenarbeid)  |
+| muziek  |
+| tekenen  |
 
-####Praktische examens voorbereidend wetenschappelijk onderwijs uode en nieuwe profielen 2011
+*Tabel 3b Praktische examens hoger algemeen voorgezet onderwijs 2013*  
 
-Handvaardigheid / handvaardigheid I (handenarbeid) Muziek Tekenen  
+| --- |
+|:---|
+| handvaardigheid I (handenarbeid)  |
+| muziek  |
+| tekenen  |
 
-####Tabel 3b
+*Tabel 3c Praktische examens theoretische leerweg en gemengde leerweg 2013*  
 
-####Praktische examens hoger algemeen voorgezet onderwijs 2011
-
-Handvaardigheid Muziek Tekenen  
-
-####Tabel 3c
-
-####Praktische examens theoretische leerweg en gemengde leerweg 2011
-
-Kunstvakken II: beeldende vakken: handenarbeid Kunstvakken II: muziek Kunstvakken II: beeldende vakken: tekenen Kunstvakken II: beeldende vakken: textiele werkvormen  
+| --- |
+|:---|
+| kunstvakken II: beeldende vakken: handenarbeid  |
+| kunstvakken II: muziek  |
+| kunstvakken II: beeldende vakken: tekenen  |
+| kunstvakken II: beeldende vakken: textiele werkvormen  |
 

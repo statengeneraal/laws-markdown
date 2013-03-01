@@ -222,41 +222,6 @@ Any dispute concerning the interpretation or application of this Convention and 
 
 ####Contributory Units to be Used as a Basis for Financial Contribution and in Weighted Voting
 
-| --- | --- | --- |
-|:---|:---|:---|
-| 25 Units:  | France  | Spain  |
-| --- | Germany  | United Kingdom  |
-| --- | Italy  | --- |
-| --- | --- | --- |
-| 15 Units:  | Switzerland  | Netherlands  |
-| --- | --- | --- |
-| --- | --- | --- |
-| 10 Units:  | Austria  | Norway  |
-| --- | [Belgium]  | Portugal  |
-| --- | Denmark  | [Russian Federation]  |
-| --- | Finland  | Sweden  |
-| --- | Greece  | Turkey  |
-| --- | Luxembourg  | --- |
-| --- | --- | --- |
-| 5 Units:  | Ireland  | --- |
-| --- | --- | --- |
-| --- | --- | --- |
-| 1 Unit:  | [Albania]  | [Latvia]  |
-| --- | [Andorra]  | Liechtenstein  |
-| --- | [Azerbaijan]  | [Lithuania]  |
-| --- | [Bosnia and Herzegovina]  | [Malta]  |
-| --- | Bulgaria  | [Moldova]  |
-| --- | Croatia  | Monaco  |
-| --- | Cyprus  | Poland  |
-| --- | [Czech Republic]  | Romania  |
-| --- | Estonia  | [San Marino]  |
-| --- | [Former Yugoslav Republic  | Slovak Republic  |
-| --- | of Macedonia]  | [Slovenia]  |
-| --- | Hungary  | [Ukraine]  |
-| --- | Iceland  | Vatican City  |
-
-The CEPT Members who are not Contracting Parties to this Convention are in square brackets. They have been placed under the Contributory Unit corresponding to the Unit chosen under the CEPT Arrangement.   
-
 ### Annex  B  
 
 ####Arbitration Procedure
@@ -275,62 +240,56 @@ The CEPT Members who are not Contracting Parties to this Convention are in squar
 
 7. The award of the Tribunal shall be made by a majority of its members, who may not abstain from voting. This award shall be final and binding on all parties to the dispute and no appeal shall lie against it. The parties shall comply with the award without delay. In the event of a dispute as to its meaning or scope, the Tribunal shall interpret it at the request of any party to the dispute.     
 
-####Verdrag tot oprichting van het Europees Bureau voor Communicatie (EBC)
+####Verdrag tot oprichting van het Europees Bureau voor Radiocommunicatie (EBR)
 
-'s-Gravenhage op 23 juni 1993 zoals gewijzigd te Kopenhagen op 9 april 2002  
-
-De Staten die Partij zijn bij dit Verdrag, hierna te noemen de „Verdragsluitende Partijen"; Vastbesloten een permanente instelling zonder winstoogmerk op te richten die de Europese Conferentie van PTT-administraties, hierna te noemen de „CEPT", moet bijstaan in de verrichting van haar taken met betrekking tot het intensiveren van de betrekkingen tussen haar Leden, het bevorderen van hun samenwerking en het bijdragen aan het creëren van een dynamische markt op het gebied van postale en elektronische communicatie in Europa, Vaststellend dat dit Verdrag de gewijzigde tekst vormt van het Verdrag tot oprichting van het Europees Bureau voor Radiocommunicatie en dat het Bureau dat bij dit Verdrag wordt opgericht de voormalige verantwoordelijkheden en taken van het Europees Bureau voor Radiocommunicatie (EBR) en het Europees Bureau voor Telecommunicatie (ETO) op zich neemt, Zijn het volgende overeengekomen:    
+De Staten die Partij zijn bij dit Verdrag, hierna te noemen de „Verdragsluitende Partijen"; De groeiende vraag erkennend wat het radiofrequentiespectrum betreft en de noodzaak optimaal gebruik te maken van deze schaarse natuurlijke hulpbron; Derhalve onderstrepend dat de huidige mechanismen, ingesteld door de Europese Conferentie van PTT-administraties, hierna te noemen de „CEPT", moeten worden versterkt en toegerust met de noodzakelijke permanente middelen om lange-termijnanalyses te kunnen maken van de behoeften aan frequenties, gericht op een optimaal gebruik van het frequentiespectrum, daarbij rekening houdend met de actuele behoeften van diensten en gebruikers in het licht van de ontwikkelingen in de industrie en het vastleggen van normen; Vastbesloten een permanente instelling zonder winstoogmerk op te richten, die het Europees Comité voor Radiocommunicatie van de CEPT, hierna te noemen de „ECR", moet bijstaan in de verrichting van haar taken met betrekking tot het te voeren beleid inzake radiocommunicatie en de coördinatie van de regelgeving betreffende frequenties en technische aangelegenheden van het radioverkeer, met inbegrip van ruimtecommunicatie;   Zijn het volgende overeengekomen:    
 
 ### Artikel  1  
 
-####Oprichting van het Europees Bureau voor Communicatie
+####Oprichting van het EBR
 
-1.  Hierbij wordt een Europees Bureau voor Communicatie opgericht, hierna te noemen het „EBC”.   
-2.  De zetel van het EBC wordt gevestigd te Kopenhagen, Denemarken.   
+1.  Hierbij wordt een Europees Bureau voor Radiocommunicatie op gericht, hierna te noemen het „EBR".   
+2.  De zetel van het EBR wordt gevestigd te Kopenhagen, Denemarken.   
 
 ### Artikel  2  
 
-####Doel van het EBC
+####Doel van het EBR
 
-Het EBC is een vaktechnisch centrum op het gebied van postale en elektronische communicatie dat het voorzitterschap en de commissies van de CEPT bijstaat en adviseert.  
+Het EBR is een vaktechnisch centrum op het gebied van de radiocommunicatie, dat het ECR bijstaat en adviseert.  
 
 ### Artikel  3  
 
-####Taken van het EBC
+####Taken van het EBR
 
-1.  De voornaamste taken van het EBC zijn: 
+1.  Het EBR heeft tot taak: 
 
-1. op te treden als coördinerend vaktechnisch centrum, dat probleemgebieden opspoort en zoekt naar nieuwe mogelijkheden op het gebied van postale en elektronische communicatie en hierover advies uitbrengt aan het voorzitterschap en de commissies van de CEPT;  
+1. op te treden als coördinerend vaktechnisch centrum, dat probleemgebieden opspoort en zoekt naar nieuwe mogelijkheden op het gebied van de radiocommunicatie en hierover advies uitbrengt aan het ECR;  
 
-2. lange-termijnplannen op te stellen voor het toekomstige gebruik van schaarse middelen door elektronische communicatie op Europese schaal;  
+2. lange-termijnplannen op te stellen voor het toekomstig gebruik van het radiofrequentiespectrum op Europese schaal;  
 
-3. wanneer nodig contacten te onderhouden met de nationale autoriteiten;  
+3. contacten te onderhouden met de nationale autoriteiten die zijn belast met het frequentiebeheer;  
 
-4. regelgevingskwesties te bestuderen op het gebied van postale en elektronische communicatie;  
+4. het werk te coördineren en richtsnoeren te geven voor onderzoek;  
 
-5. overleg te voeren over specifieke onderwerpen;  
+5. overleg te voeren over specifieke onderwerpen of delen van het frequentiespectrum;  
 
-6. een register bij te houden van belangrijke activiteiten van commissies van de CEPT en van de uitvoering van de desbetreffende besluiten en aanbevelingen van de CEPT;  
+6. het ECR of zijn werkgroepen bij te staan bij het organiseren van speciale overlegbijeenkomsten;  
 
-7. de commissies van de CEPT regelmatig voortgangsrapporten te verstrekken;  
+7. criteria toe te passen voor het bijwonen van overlegbijeenkomsten;  
 
-8. contacten te onderhouden met de Europese Unie en de Europese Vrijhandelsassociatie;  
+8. een register bij te houden van belangrijke activiteiten van het ECR en van de uitvoering van de desbetreffende aanbevelingen en besluiten van de CEPT;  
 
-9. het voorzitterschap van de CEPT te ondersteunen, onder andere door het bijhouden van de Voortschrijdende Beleidsagenda;  
+9. het ECR regelmatig voortgangsrapporten te verstrekken; en  
 
-10. ondersteuning te bieden aan en onderzoeken uit te voeren ten behoeve van de commissies van de CEPT, onder andere voor het voorstellen van een werkprogramma voor de CEPT op basis van de Voortschrijdende Beleidsagenda;  
-
-11. ondersteuning te bieden aan werkgroepen en projectteams van de CEPT, met name bij het organiseren van speciale overlegbijeenkomsten;  
-
-12. op te treden als beheerder van de archieven van de CEPT en zo nodig informatie van de CEPT te verspreiden.     
-2.  Bij de uitvoering van de bovengenoemde taken met betrekking tot overlegbijeenkomsten ontwikkelt en actualiseert het EBC procedures om Europese organisaties die zijn betrokken bij het gebruik van postale en elektronische communicatie – waaronder ministeries, openbare exploitanten, producenten, gebruikers, exploitanten van particuliere netten, dienstverleners, onderzoeksinstellingen, normalisatie-instituten of organisaties die groepen van deze partijen vertegenwoordigen – in staat te stellen regelmatig relevante informatie te ontvangen en op billijke wijze aan deze overlegbijeenkomsten deel te nemen, gelet op hun specifieke belangen.   
-3.  Naast de in het eerste lid genoemde taken belegt het EBC regelmatig vergaderingen die openstaan voor de in het tweede lid genoemde organisaties, teneinde hun de gelegenheid te bieden de activiteiten en toekomstige werkprogramma's van de commissies van de CEPT en het EBC te bespreken.   
+10. contacten te onderhouden met de Europese Gemeenschappen en de Europese Vrijhandelsassociatie.     
+2.  In de uitvoering van de bovengenoemde taken met betrekking tot overlegbijeenkomsten ontwikkelt en actualiseert het EBR procedures om Europese organisaties die zijn betrokken bij het gebruik van radiocommunicatie - waaronder ministeries, exploitanten van openbare radionetwerken, producenten, gebruikers, exploitanten van particuliere netten, dienstverleners, onderzoeksinstellingen, normalisatie-instituten of organisaties die groepen van deze partijen vertegenwoordigen - in staat te stellen regelmatig relevante informatie te ontvangen en billijkerwijs aan deze overlegbijeenkomsten deel te nemen, gelet op hun specifieke belangen.   
+3.  Naast de in het eerste lid genoemde taken belegt het EBR, gewoonlijk eenmaal per jaar, een vergadering die openstaat voor de in het tweede lid genoemde organisaties, ten einde hun de gelegenheid te bieden de activiteiten en de toekomstige werkprogramma's van het ECR en het EBR te bespreken.   
 
 ### Artikel  4  
 
 ####Rechtspositie en voorrechten
 
-1.  Het EBC bezit rechtspersoonlijkheid. Het EBC bezit volledige handelingsbekwaamheid, noodzakelijk om zijn taken te verrichten en zijn doelstellingen te verwezenlijken, en kan in het bijzonder: 
+1.  Het EBR bezit rechtspersoonlijkheid. Het EBR bezit volledige handelingsbekwaamheid, noodzakelijk om zijn taken te verrichten en zijn doelstellingen te verwezenlijken, en kan in het bijzonder: 
 
 1. overeenkomsten aangaan;  
 
@@ -339,43 +298,43 @@ Het EBC is een vaktechnisch centrum op het gebied van postale en elektronische c
 3. in rechte optreden; en  
 
 4. verdragen sluiten met staten of internationale organisaties.     
-2.  De Directeur en het personeel van het EBC genieten in Denemarken de voorrechten en immuniteiten als omschreven in een verdrag tussen het EBC en de Deense regering inzake de zetel van het EBC.   
-3.  Andere landen kunnen soortgelijke voorrechten en immuniteiten verlenen ten behoeve van activiteiten van het EBC in die landen, in het bijzonder immuniteit van rechtsvervolging met betrekking tot het gesproken en geschreven woord en alle handelingen verricht door de Directeur en het personeel van het EBC in de uitoefening van hun officiële functies.   
+2.  De Directeur en het personeel van het EBR genieten in Denemarken voorrechten en immuniteiten als omschreven in een Verdrag tussen het EBR en de Deense regering inzake de zetel van het EBR.   
+3.  Andere landen kunnen soortgelijke voorrechten en immuniteiten verlenen ten behoeve van activiteiten van het EBR in die landen, in het bijzonder immuniteit van rechtsvervolging met betrekking tot het gesproken en geschreven woord en alle handelingen verricht door de Directeur of het personeel van het EBR in de uitoefening van hun officiële functies.   
 
 ### Artikel  5  
 
-####Organen van het EBC
+####Organen van het EBR
 
-Het EBC bestaat uit een Raad en een Directeur, bijgestaan door personeel.  
+Het EBR bestaat uit een Raad en een Directeur, bijgestaan door personeel.  
 
 ### Artikel  6  
 
 ####De Raad
 
-1.  De Raad bestaat uit vertegenwoordigers van de Verdragsluitende Partijen.   
-2.  De Raad kiest een Voorzitter en een Vice-voorzitter, die vertegenwoordigers zijn van een Verdragsluitende Partij. De zittingstermijn bedraagt drie jaar en kan met één termijn worden verlengd. De Voorzitter is bevoegd namens de Raad te handelen.   
-3.  Vertegenwoordigers van het voorzitterschap van de CEPT en van de commissies van de CEPT, van de Europese Commissie en van het Secretariaat van de Europese Vrijhandelsassociatie kunnen in de Raad zitting nemen als waarnemer.   
+1.  De Raad bestaat uit vertegenwoordigers van de onderscheiden instanties belast met de regelgeving inzake het radioverkeer van alle Verdragsluitende Partijen.   
+2.  De Voorzitter van het ECR is Voorzitter van de Raad. Indien de Voorzitter van het ECR afkomstig is uit een land dat geen Partij bij dit Verdrag is, kiest de Raad een Voorzitter uit zijn leden. De Voorzitter is bevoegd namens de Raad te handelen.   
+3.  Vertegenwoordigers van de Commissie van de Europese Gemeenschappen en van het Secretariaat van de Europese Vrijhandelsassociatie kunnen in de Raad zitting nemen als waarnemer.   
 
 ### Artikel  7  
 
 ####Taken van de Raad
 
-1.  De Raad is het hoogste bestuursorgaan van het EBC en heeft in het bijzonder tot taak: 
+1.  De Raad is het hoogste bestuursorgaan van het EBR en heeft in het bijzonder tot taak: 
 
-1. het beleid van het EBC te bepalen inzake technische en administratieve aangelegenheden;  
+1. het beleid van het EBR te bepalen inzake technische en administratieve aangelegenheden;  
 
 2. het werkprogramma, de begroting en de boeken goed te keuren;  
 
-3. het aantal personeelsleden en hun arbeidsvoorwaarden vast te stellen;  
+3. het aantal personeelsleden vast te stellen;  
 
 4. de Directeur en het personeel te benoemen;  
 
-5. overeenkomsten en verdragen te sluiten namens het EBC;  
+5. overeenkomsten en verdragen te sluiten namens het EBR;  
 
 6. wijzigingen op het Verdrag aan te nemen overeenkomstig de artikelen 15 en 20; en  
 
-7. alle maatregelen te nemen die noodzakelijk zijn voor de verwezenlijking van de doelstellingen van het EBC in het kader van dit Verdrag.     
-2.  De Raad stelt de nodige reglementen op om het EBC en zijn organen goed te doen functioneren.   
+7. alle maatregelen te nemen die noodzakelijk zijn voor de verwezenlijking van de doelstellingen van het EBR in het kader van het Verdrag.     
+2.  De Raad stelt de nodige reglementen op om het EBR en zijn organen goed te doen functioneren.   
 
 ### Artikel  8  
 
@@ -384,9 +343,9 @@ Het EBC bestaat uit een Raad en een Directeur, bijgestaan door personeel.
 1.  Besluiten van de Raad worden voor zover mogelijk bij consensus genomen. Indien geen consensus kan worden bereikt, wordt een besluit genomen met een meerderheid van tweederde van de uitgebrachte gewogen stemmen.   
 2.  Het wegen van de afzonderlijke stemmen in de Raad geschiedt overeenkomstig Bijlage A.   
 3.  Voorstellen tot wijziging van dit Verdrag, met inbegrip van de Bijlagen, worden slechts in overweging genomen indien zij worden gesteund door ten minste 25% van de totale gewogen stemmen van alle Verdragsluitende Partijen.   
-4.  Voor elk besluit van de Raad moet op het tijdstip waarop het wordt genomen een quorum aanwezig zijn dat: 
+4.  Voor elk besluit van de Raad moet op het tijdstip waarop het wordt genomen een quorum aanwezig zijn, dat: 
 
-1. bij besluiten betreffende wijzigingen van dit Verdrag en de Bijlagen daarbij, gelijk is aan ten minste tweederde van de totale gewogen stemmen van alle Verdragsluitende Partijen;  
+1. bij besluiten betreffende wijzigingen op het Verdrag en de Bijlagen daarbij, gelijk is aan ten minste tweederde van de totale gewogen stemmen van alle Verdragsluitende Partijen;  
 
 2. bij alle andere besluiten, gelijk is aan ten minste de helft van de totale gewogen stemmen van alle Verdragsluitende Partijen.     
 5.  Waarnemers kunnen aan de besprekingen van de Raad deelnemen, maar zij hebben geen stemrecht.   
@@ -395,39 +354,39 @@ Het EBC bestaat uit een Raad en een Directeur, bijgestaan door personeel.
 
 ####Directeur en personeel
 
-1.  De Directeur treedt op als wettelijk vertegenwoordiger van het EBC en is, binnen de door de Raad overeengekomen grenzen, bevoegd namens het EBC overeenkomsten aan te gaan. De Directeur kan deze bevoegdheid geheel of gedeeltelijk delegeren aan de Adjunct-directeur.   
-2.  De Directeur is verantwoordelijk voor de goede uitvoering van alle interne en externe activiteiten van het EBC in overeenstemming met dit Verdrag, het zetelverdrag, het werkprogramma, de begroting en de door de Raad gegeven richtlijnen en aanwijzingen.   
+1.  De Directeur treedt op als wettelijk vertegenwoordiger van het EBR en is, binnen de door de Raad overeengekomen grenzen, bevoegd namens het EBR overeenkomsten te sluiten. De Directeur kan deze bevoegdheid geheel of gedeeltelijk delegeren aan de Adjunct-Directeur.   
+2.  De Directeur is verantwoordelijk voor de goede uitvoering van alle interne en externe activiteiten van het EBR in overeenstemming met dit Verdrag, het zetelverdrag, het werkprogramma, de begroting en de door de Raad gegeven richtlijnen en aanwijzingen.   
 3.  De Raad stelt een personeelsreglement op.   
 
 ### Artikel  10  
 
 ####Werkprogramma
 
-Jaarlijks wordt door de Raad, op basis van voorstellen van de Assemblee en de commissies van de CEPT, een werkprogramma voor het EBC vastgesteld voor een periode van drie jaar. Het eerste jaar van dit programma moet voldoende gegevens bevatten om de jaarbegroting van het EBC te kunnen vaststellen.  
+Jaarlijks wordt door de Raad, op basis van een voorstel van het ECR, een werkprogramma voor het EBR vastgesteld voor een periode van drie jaar. Het eerste jaar van dit programma moet voldoende gegevens bevatten om de jaarbegroting van het EBR te kunnen vaststellen.  
 
 ### Artikel  11  
 
 ####Vaststelling van de begroting en boekhouding
 
-1.  Het boekjaar van het EBC loopt van 1 januari tot en met 31 december.   
-2.  De Directeur is belast met het opstellen van de jaarbegroting en de jaarrekeningen van het EBC en dient deze ter bestudering en/of goedkeuring voor te leggen aan de Raad.   
-3.  Bij het opstellen van de begroting wordt rekening gehouden met de vereisten van het overeenkomstig artikel 10 vastgestelde werkprogramma. De termijnen voor indiening en goedkeuring van de begroting, voorafgaande aan het boekjaar waarop zij betrekking heeft, worden bepaald door de Raad.   
-4.  De Raad stelt een gedetailleerd financieel reglement vast. Dit dient onder andere bepalingen te bevatten betreffende de termijnen voor indiening en goedkeuring van de jaarrekeningen van het EBC alsmede bepalingen betreffende de accountantscontrole daarvan.   
+1.  Het boekjaar van het EBR loopt van 1 januari tot en met 31 december.   
+2.  De Directeur is belast met het opstellen van de jaarbegroting en de jaarrekeningen van het EBR en dient deze ter bestudering en/of goedkeuring voor te leggen aan de Raad.   
+3.  Bij het opstellen van begroting wordt rekening gehouden met de vereisten van het overeenkomstig artikel 10 vastgestelde werkprogramma. De termijnen voor indiening en goedkeuring van de begroting, voorafgaande aan het boekjaar waarop zij betrekking heeft, worden bepaald door de Raad.   
+4.  De Raad stelt een gedetailleerd financieel reglement vast. Dit dient onder andere bepalingen te bevatten betreffende de termijnen voor indiening en goedkeuring van de jaarrekeningen van het EBR alsmede bepalingen betreffende de accountantscontrole daarvan.   
 
 ### Artikel  12  
 
 ####Financiële bijdragen
 
-1.  De kapitaaluitgaven en de lopende bedrijfsuitgaven van het EBC, met uitzondering van de kosten verbonden aan de vergaderingen van de Raad, worden over de Verdragsluitende Partijen omgeslagen overeenkomstig de bijdragen-eenheden genoemd in de tabel in Bijlage A, die een integrerend deel van dit Verdrag uitmaakt.   
-2.  Dit belet het EBC niet, na een besluit van de Raad, werk voor derden te verrichten, met inbegrip van het voorzitterschap van de CEPT, tegen vergoeding van de kosten.   
-3.  Kosten verbonden aan vergaderingen van de Raad worden gedragen door de Verdragsluitende Partij die als gastheer optreedt, of bij het ontbreken daarvan, door het EBC. Reis- en verblijfkosten worden gedragen door de vertegenwoordigde Verdragsluitende Partijen.   
+1.  De kapitaaluitgaven en de lopende bedrijfsuitgaven van het EBR, met uitzondering van de kosten verbonden aan de vergaderingen van de Raad, worden over de Verdragsluitende Partijen omgeslagen overeenkomstig de bijdragen-eenheden genoemd in de tabel in Bijlage A, die een integrerend deel van dit Verdrag uitmaakt.   
+2.  Dit belet het EBR niet, na een besluit van de Raad, werk voor derden te verrichten tegen vergoeding van de kosten.   
+3.  Kosten verbonden aan de vergaderingen van de Raad worden gedragen door de instantie belast met de regelgeving inzake het radioverkeer van het land waarin de vergadering plaatsvindt. Reis- en verblijfkosten worden gedragen door de vertegenwoordigde instanties.   
 
 ### Artikel  13  
 
 ####Verdragsluitende Partijen
 
 1.  Een Staat wordt Partij bij dit Verdrag via de procedure van artikel 14, dan wel via de procedure van artikel 15.   
-2.  Zodra een Staat Partij bij dit Verdrag wordt, is de bijdragen-eenheid genoemd in Bijlage A, zoals gewijzigd overeenkomstig artikel 15, van toepassing.   
+2.  Zodra een Staat Partij bij dit Verdrag wordt, is de bijdrage-eenheid genoemd in Bijlage A, zoals gewijzigd overeenkomstig artikel 15, van toepassing.   
 
 ### Artikel  14  
 
@@ -444,30 +403,30 @@ Jaarlijks wordt door de Raad, op basis van voorstellen van de Assemblee en de co
 
 ####Toetreding
 
-1.  Dit Verdrag staat open voor toetreding door een Staat waarvan de administratie lid is van de CEPT.   
-2.  Na overleg met de toetredende Staat neemt de Raad de noodzakelijke wijzigingen van Bijlage A aan. In afwijking van artikel 20, tweede lid, wordt een dergelijke wijziging van kracht op de eerste dag van de tweede maand volgend op de datum waarop de Deense regering de akte van toetreding van die Staat heeft ontvangen.   
-3.  Uit de akte van toetreding dient te blijken dat de toetredende Staat instemt met de aangenomen wijzigingen van Bijlage A.   
+1.  Dit Verdrag staat open voor toetreding door een Staat waarvan de telecommunicatie-administratie lid is van de CEPT.   
+2.  Na overleg met de toetredende Staat neemt de Raad de noodzakelijke wijzigingen op Bijlage A aan. In afwijking van artikel 20, tweede lid, wordt een dergelijke wijziging van kracht op de eerste dag van de tweede maand volgend op de datum waarop de Deense regering de akte van toetreding van die Staat heeft ontvangen.   
+3.  Uit de akte van toetreding dient te blijken dat de toetredende Staat instemt met de aangenomen wijzigingen op Bijlage A.   
 
 ### Artikel  16  
 
 ####Inwerkingtreding
 
-1.  Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de datum waarop de Deense regering voldoende ondertekeningen en, indien vereist, akten van bekrachtiging, aanvaarding of goedkeuring van Verdragsluitende Partijen heeft ontvangen, zodat verzekerd is dat ten minste 80% van het maximum aantal bijdragen-eenheden genoemd in Bijlage A is bereikt.   
-2.  Na de inwerkingtreding van dit Verdrag is iedere nieuwe Verdragsluitende Partij gebonden door de bepalingen ervan, met inbegrip van de van kracht zijnde wijzigingen, vanaf de eerste dag van de tweede maand volgend op de datum waarop de Deense Regering de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding van die Partij heeft ontvangen.   
+1.  Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de datum waarop de Deense regering voldoende ondertekeningen en, indien vereist, akten van bekrachtiging, aanvaarding of goedkeuring van Verdragsluitende Partijen heeft ontvangen, zodat is verzekerd dat tenminste 80% van het maximumaantal bijdrage-eenheden genoemd in Bijlage A is bereikt.   
+2.  Na de inwerkingtreding van dit Verdrag is iedere nieuwe Verdragsluitende Partij gebonden door de bepalingen ervan, met inbegrip van de van kracht zijnde wijzigingen, vanaf de eerste dag van de tweede maand volgend op de datum waarop de Deense regering de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding van die Partij heeft ontvangen.   
 
 ### Artikel  17  
 
 ####Opzegging
 
-1.  Na het verstrijken van twee jaar na de inwerkingtreding van dit Verdrag kan elke Verdragsluitende Partij dit opzeggen door middel van een schriftelijke kennisgeving aan de Deense regering, die kennisgeving van deze opzegging doet aan de Raad, de Verdragsluitende Partijen, de Directeur en de Voorzitter van de CEPT.   
+1.  Na het verstrijken van twee jaar na de inwerkingtreding van dit Verdrag kan elke Verdragsluitende Partij dit opzeggen door middel van een schriftelijke kennisgeving aan de Deense regering, die kennisgeving van deze opzegging doet aan de Raad, de Verdragsluitende Partijen en de Directeur.   
 2.  De opzegging wordt van kracht na het verstrijken van het volgende volledige boekjaar, zoals omschreven in artikel 11, eerste lid, na de datum van ontvangst van de kennisgeving van opzegging door de Deense regering.   
 
 ### Artikel  18  
 
 ####Rechten en verplichtingen van de Verdragsluitende Partijen
 
-1.  Dit Verdrag laat het soevereine recht van elke Verdragsluitende Partij om haar eigen postale en elektronische communicatie te regelen onverlet.   
-2.  Elke Verdragsluitende Partij die lidstaat is van de Europese Unie past dit Verdrag toe overeenkomstig haar verplichtingen ingevolge de desbetreffende verdragen.   
+1.  Dit Verdrag laat het soevereine recht van elke Verdragsluitende Partij om haar eigen telecommunicatie te regelen onverlet.   
+2.  Elke Verdragsluitende Partij die Lidstaat is van de Europese Economische Gemeenschap past dit Verdrag toe overeenkomstig haar verplichtingen ingevolge het Verdrag tot oprichting van de Europese Economische Gemeenschap.   
 3.  Ten aanzien van dit Verdrag kan geen enkel voorbehoud worden gemaakt.   
 
 ### Artikel  19  
@@ -480,7 +439,7 @@ Geschillen betreffende de uitlegging of toepassing van dit Verdrag en de Bijlage
 
 ####Wijzigingen
 
-1.  De Raad kan wijzigingen van dit Verdrag aannemen, onder voorbehoud van schriftelijke bevestiging door alle Verdragsluitende Partijen.   
+1.  De Raad kan wijzigingen op dit Verdrag aannemen, onder voorbehoud van schriftelijke bevestiging door alle Verdragsluitende Partijen.   
 2.  De wijzigingen treden voor alle Verdragsluitende Partijen in werking op de eerste dag van de derde maand nadat de Deense regering de Verdragsluitende Partijen in kennis heeft gesteld van de ontvangst van kennisgevingen van bekrachtiging, aanvaarding of goedkeuring van alle Verdragsluitende Partijen.   
 
 ### Artikel  21  
@@ -488,60 +447,52 @@ Geschillen betreffende de uitlegging of toepassing van dit Verdrag en de Bijlage
 ####Depositaris
 
 1.  Het origineel van dit Verdrag, alsmede latere wijzigingen daarop, en de akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd in het archief van de Deense regering.   
-2.  De Deense regering doet een voor eensluidend gewaarmerkt afschrift van dit Verdrag en van de tekst van eventuele door de Raad aangenomen wijzigingen toekomen aan alle Staten die het Verdrag hebben ondertekend of hiertoe zijn toegetreden en aan de Voorzitter van de CEPT. Voorts worden ter kennisgeving afschriften toegezonden aan de Directeur van het EBC, de Secretaris-Generaal van de Wereldpostunie, de Secretaris-Generaal van de Internationale Unie voor Telecommunicatie, de Voorzitter van de Europese Commissie en de Secretaris-Generaal van de Europese Vrijhandelsassociatie.   
-3.  De Deense regering stelt alle Staten die het Verdrag hebben ondertekend of hiertoe zijn toegetreden en de Voorzitter van de CEPT in kennis van alle ondertekeningen, bekrachtigingen, aanvaardingen, goedkeuringen en opzeggingen, alsmede van de inwerkingtreding van dit Verdrag en van elke wijziging. De Deense regering stelt alle Staten die dit Verdrag hebben ondertekend of hiertoe zijn toegetreden en de Voorzitter van de CEPT voorts in kennis van elke toetreding die van kracht wordt.   
+2.  De Deense regering doet een voor eensluidend gewaarmerkt afschrift van het Verdrag en van de tekst van eventuele door de Raad aangenomen wijzigingen toekomen aan alle Staten die het Verdrag hebben ondertekend of hiertoe zijn toegetreden en aan de fungerend voorzitter van de CEPT. Voorts worden ter kennisgeving afschriften toegezonden aan de Secretaris-Generaal van de Internationale Telecommunicatie-Unie, het contactbureau van de CEPT, de voorzitter van de Commissie van de Europese Gemeenschappen en de Secretaris-Generaal van de Europese Vrijhandelsassociatie.   
+3.  De Deense regering stelt alle Staten die het Verdrag hebben ondertekend of hiertoe zijn toegetreden en de fungerend voorzitter van de CEPT in kennis van alle ondertekeningen, bekrachtigingen, aanvaardingen, goedkeuringen en opzeggingen, alsmede van de inwerkingtreding van het Verdrag en van elke wijziging. De Deense regering stelt alle Staten die het Verdrag hebben ondertekend of hiertoe zijn toegetreden en de fungerend voorzitter van de CEPT voorts in kennis van de inwerkingtreding van elke toetreding.   
 
-### Bijlage  A  
+TEN BLIJKE WAARVAN de ondertekenende vertegenwoordigers, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend. GEDAAN te 's-Gravenhage op 23 juni 1993 in één exemplaar in de Duitse, de Engelse en de Franse taal, zijnde alle teksten gelijkelijk authentiek.  
 
-#### *Bijdragen-eenheden die als uitgangspunt dienen voor de financiële bijdragen en de gewogen stemming* 
+### BIJLAGE  A  
 
-| --- | --- | --- |
-|:---|:---|:---|
-| 25 eenheden:  | Frankrijk  | Spanje  |
-| --- | Duitsland  | Verenigd Koninkrijk  |
-| --- | Italië  | --- |
-| --- | --- | --- |
-| 15 eenheden:  | Zwitserland  | Nederland  |
-| --- | --- | --- |
-| 10 eenheden:  | Oostenrijk  | Noorwegen  |
-| --- | [België]  | Portugal  |
-| --- | Denemarken  | [Russische Federatie]  |
-| --- | Finland  | Zweden  |
-| --- | Griekenland  | Turkije  |
-| --- | Luxemburg  | --- |
-| --- | --- | --- |
+####Bijdragen-eenheden die als uitgangspunt dienen voor de financiële bijdragen en de gewogen stemming
+
+|
+|
+| 25 eenheden:  | Duitsland  Frankrijk  Italië  | Spanje  Verenigd Koninkrijk  |
+| 15 eenheden:  | Zwitserland  | --- |
+| 10 eenheden:  | België  Denemarken  Finland  Griekenland  Luxemburg  Nederland  | Noorwegen  Oostenrijk  Portugal  Turkije  Zweden  |
 | 5 eenheden:  | Ierland  | --- |
-| --- | --- | --- |
-| 1 eenheid:  | [Albanië]  | [Letland]  |
-| --- | [Andorra]  | Liechtenstein  |
-| --- | [Azerbeidzjan]  | [Litouwen]  |
-| --- | [Bosnië-Hercegovina]  | [Malta]  |
-| --- | Bulgarije  | [Moldavië]  |
-| --- | Kroatië  | Monaco**  |
-| --- | Cyprus  | Polen  |
-| --- | Tsjechië  | Roemenië**  |
-| --- | Estland  | [San Marino]  |
-| --- | [Voormalige Joegoslavische Republiek Macedonië]  | Republiek Slowakije  |
-| --- | --- | [Slovenië]  |
-| --- | Hongarije  | [Oekraïne]  |
-| --- | IJsland  | Vaticaanstad  |
+| 1 eenheid:  | Albanië  Bulgarije  Cyprus  Hongarije  IJsland  Kroatië  Letland  Liechtenstein  Litouwen  Malta  | Moldavië  Monaco  Polen  Roemenië  San Marino  Slovenië  Tsjechië  Vaticaanstad  |
 
-De leden van de CEPT die geen Verdragsluitende Partij zijn bij dit Verdrag staan tussen vierkante haken. Zij staan gerangschikt onder de bijdragen-eenheid die overeenkomt met de eenheid gekozen uit hoofde van de CEPT-regeling.   
-
-### Bijlage  B  
+### BIJLAGE  B  
 
 ####Arbitrageprocedure
 
-1. Ter verkrijging van een scheidsrechterlijke uitspraak in elk geding als bedoeld in artikel 19 van dit Verdrag wordt een scheidsgerecht ingesteld overeenkomstig de onderstaande paragrafen.  
+### 1  
 
-2. Elke Partij bij dit Verdrag kan zich in de arbitrageprocedure voegen bij een partij bij het geschil.  
+Ter verkrijging van een scheidsrechterlijke uitspraak in elk geding als bedoeld in artikel 19 van het Verdrag wordt een scheidsgerecht ingesteld overeenkomstig de onderstaande paragrafen.  
 
-3. Het scheidsgerecht bestaat uit drie leden. Elke partij bij het geschil benoemt een scheidsman binnen een termijn van twee maanden te rekenen vanaf de datum van ontvangst van het verzoek van één van de partijen om het geschil aan arbitrage te onderwerpen. De eerste twee scheidsmannen benoemen binnen een termijn van zes maanden na de benoeming van de tweede scheidsman een derde scheidsman, die voorzitter van het scheidsgerecht is. Indien één van de twee scheidsmannen niet binnen de voorgeschreven termijn is benoemd, wordt deze op verzoek van één van de partijen benoemd door de Secretaris-Generaal van het Permanente Hof van Arbitrage. Deze procedure is ook van toepassing indien de voorzitter van het scheidsgerecht niet binnen de voorgeschreven termijn is benoemd.  
+### 2  
 
-4. Het scheidsgerecht bepaalt waar zijn zetel is en stelt zijn eigen reglement van orde vast.  
+Elke Partij bij het Verdrag kan zich in de arbitrageprocedure voegen bij een partij bij het geschil.  
 
-5. De beslissing van het scheidsgerecht dient in overeenstemming te zijn met het internationale recht en dient gebaseerd te zijn op dit Verdrag en de algemene rechtsbeginselen.  
+### 3  
 
-6. Elke partij draagt de kosten van de scheidsman die zij benoemt, alsmede de kosten van haar vertegenwoordiging voor het scheidsgerecht. De kosten van de voorzitter van het scheidsgerecht worden in gelijke delen gedragen door de partijen bij het geschil.  
+Het scheidsgerecht bestaat uit drie leden. Elke partij bij het geschil benoemt een scheidsman binnen een termijn van twee maanden te rekenen vanaf de datum van ontvangst van het verzoek van één van de partijen om het geschil aan arbitrage te onderwerpen. De eerste twee scheidsmannen benoemen binnen een termijn van zes maanden na de benoeming van de tweede scheidsman een derde scheidsman, die voorzitter van het scheidsgerecht is. Indien één van de twee scheidsmannen niet binnen de voorgeschreven termijn is benoemd, wordt deze op verzoek van één van de partijen benoemd door de Secretaris-Generaal van het Permanente Hof van Arbitrage. Deze procedure is ook van toepassing indien de voorzitter van het scheidsgerecht niet binnen de voorgeschreven termijn is benoemd.  
 
-7. De uitspraak van het scheidsgerecht wordt gedaan bij een meerderheid van stemmen van zijn leden, die zich niet van stemming mogen onthouden. Deze uitspraak is onherroepelijk en bindend voor alle partijen bij het geschil en hiertegen staat geen enkel rechtsmiddel open. De partijen gaan onverwijld over tot tenuitvoerlegging van de uitspraak. In geval van verschil van mening aangaande de betekenis of strekking van de uitspraak, legt het scheidsgerecht deze uit op verzoek van één van de partijen bij het geschil.     
+### 4  
+
+Het scheidsgerecht bepaalt waar zijn zetel is en stelt zijn eigen reglement van orde vast.  
+
+### 5  
+
+De beslissing van het scheidsgerecht dient in overeenstemming te zijn met het internationale recht en dient gebaseerd te zijn op dit Verdrag en de algemene rechtsbeginselen.  
+
+### 6  
+
+Elke partij draagt de kosten van de scheidsman die zij benoemt, alsmede de kosten van haar vertegenwoordiging voor het scheidsgerecht. De kosten van de voorzitter worden in gelijke delen gedragen door de partijen bij het geschil.  
+
+### 7  
+
+De beslissing van het scheidsgerecht wordt genomen bij een meerderheid van stemmen van zijn leden, die zich niet van stemming mogen onthouden. De uitspraak is onherroepelijk en bindend voor alle partijen bij het geschil en hiertegen staat geen enkel rechtsmiddel open. De partijen gaan onverwijld over tot tenuitvoerlegging van de uitspraak. In geval van verschil van mening aangaande de betekenis of strekking van de uitspraak, legt het scheidsgerecht deze uit op verzoek van één van de partijen bij het geschil.  
+

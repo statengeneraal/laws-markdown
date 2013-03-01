@@ -196,6 +196,19 @@ c. indien uit onderzoek als bedoeld in [artikel 1.62 van de wet](../../../../../
 1.  De gegevens, genoemd in artikel 6, die in het register kinderopvang zijn opgenomen kunnen door een ieder worden geraadpleegd, met uitzondering van burgerservicenummers, het woonadres van gastouders, voor zover op dat adres geen voorziening voor gastouderopvang gevestigd is, en het woonadres van de houder van een kindercentrum of van een gastouderbureau, wanneer die houder een natuurlijke persoon is.   
 2.  Na verwijdering van een kinderopvangvoorziening kunnen door een ieder gedurende een periode van zeven jaren na de datum van de verwijdering, bedoeld in artikel 8, zevende lid, uitsluitend worden geraadpleegd: de naam en het adres van de vestiging en het unieke registratienummer van de kinderopvangvoorziening, de status «niet meer geregistreerd» en de datum van ingang van deze status alsmede de daaraan voorafgaande datum van inschrijving.   
 3.  De gegevens die verwerkt worden in het register kinderopvang worden verstrekt aan de Belastingdienst/Toeslagen, voor zover de kennisneming daarvan noodzakelijk is voor de uitvoering van de Algemene wet inkomensafhankelijke regelingen en aan de rijksbelastingdienst voor de heffing of invordering van enige rijksbelasting.   
+4.  De gegevens van de houder die worden verwerkt in het register kinderopvang, worden verstrekt aan het Uitvoeringsinstituut werknemersverzekeringen om te kunnen bepalen welke personen werkzaam zijn in de kinderopvang.   
+
+### Artikel  9a  
+
+####Verstrekking gegevens ten behoeve van continue screening in de kinderopvang
+
+Gegevens van personen als bedoeld in de [artikelen 1.50](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), [1.56](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) en [1.56b van de wet](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), die op grond van [artikel 5.9, vierde lid, van het Besluit SUWI](../../../../../../../AMvB/besluit/suwi/BWBR0013267/README.md) van het Uitvoeringsinstituut werknemersverzekeringen zijn verkregen, worden verstrekt aan Onze Minister van Veiligheid en Justitie ten behoeve van de continue controle op nieuwe gegevens in de justitiële documentatie voor deze personen.  
+
+### Artikel  9b  
+
+####Gevolgen van melding over nieuwe gegevens in de justitiële documentatie
+
+Indien het college op basis van een melding als bedoeld in [artikel 22b van het Besluit justitiële en strafvorderlijke gegevens](../../../../../../../AMvB/besluit/justitiële/gegevens/BWBR0016544/README.md) van Onze Minister van Veiligheid en Justitie vermoedt dat de houder van of een persoon die werkzaam is bij een kinderopvangvoorziening of een huisgenoot van de gastouder van 18 jaar en ouder niet meer voldoet aan de eisen voor het afgeven van een verklaring omtrent het gedrag, bepaalt de toezichthouder of het aanvragen van een nieuwe verklaring omtrent het gedrag door de houder, de persoon die werkzaam is bij een kinderopvangvoorziening of de huisgenoot van de gastouder aangewezen is.  
 
 ### Artikel  10  
 
@@ -291,6 +304,19 @@ c. indien uit onderzoek als [bedoeld in artikel 2.20 van de wet](../../../../../
 
 1.  De gegevens, genoemd in artikel 12, die in het register peuterspeelzaalwerk zijn opgenomen, kunnen door een ieder worden geraadpleegd, met uitzondering van het burgerservicenummer en woonadres van de houder van een peuterspeelzaal, wanneer die houder een natuurlijke persoon is.   
 2.  Na verwijdering van een peuterspeelzaal kunnen door een ieder gedurende een periode van zeven jaren na de datum van deze verwijdering uitsluitend worden geraadpleegd: de naam en het adres van de peuterspeelzaal, de status «niet meer geregistreerd», de datum van ingang van deze status en de daaraan voorafgaande datum van inschrijving.   
+3.  De gegevens van de houder die verwerkt worden in het register peuterspeelzaalwerk, worden verstrekt aan het Uitvoeringsinstituut werknemersverzekeringen om te kunnen bepalen welke personen werkzaam zijn bij een peuterspeelzaal.   
+
+### Artikel  15a  
+
+####Verstrekking gegevens ten behoeve van continue screening in het peuterspeelzaalwerk
+
+Gegevens van personen als bedoeld in [artikel 2.6 van de wet](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), die op grond van [artikel 5.9, vierde lid, van het Besluit SUWI](../../../../../../../AMvB/besluit/suwi/BWBR0013267/README.md) van het Uitvoeringsinstituut werknemersverzekeringen zijn verkregen, worden verstrekt aan Onze Minister van Veiligheid en Justitie ten behoeve van de continue controle op nieuwe gegevens in de justitiële documentatie voor deze personen.  
+
+### Artikel  15b  
+
+####Gevolgen van melding over nieuwe gegevens in de justitiële documentatie
+
+Indien het college op basis van een melding als bedoeld in [artikel 22b van het Besluit justitiële en strafvorderlijke gegevens](../../../../../../../AMvB/besluit/justitiële/gegevens/BWBR0016544/README.md) van Onze Minister van Veiligheid en Justitie vermoedt dat de houder van of een persoon die werkzaam is in een peuterspeelzaal niet meer voldoet aan de eisen voor het afgeven van een verklaring omtrent het gedrag, bepaalt de toezichthouder of het aanvragen van een nieuwe verklaring omtrent het gedrag door de houder of de persoon, die werkzaam is bij de peuterspeelzaal aangewezen is.  
 
 ### Artikel  16  
 

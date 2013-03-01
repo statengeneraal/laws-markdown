@@ -3,7 +3,7 @@
 ##Regeling onderhoud luchtvaartuigen
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 20](../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md) en [22 van het Besluit luchtwaardigheid](../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md);
+Gelet op artikel 20 en 22 van het Besluit luchtwaardigheid;
 Besluit:     
 ### Paragraaf  1  
 
@@ -15,7 +15,7 @@ In deze regeling wordt verstaan onder:
 
 *belangrijke herstelling:* werkzaamheden om een defect of beschadigd luchtvaartuig of onderdeel daarvan te herstellen die, indien deze niet op de juiste wijze worden uitgevoerd, in een niet te verwaarlozen mate invloed hebben op de luchtwaardigheid of het voldoen aan de geluidseisen van het luchtvaartuig of de deugdelijkheid van het onderdeel;  
 
-*erkenninghouder:* houder van een erkenning als bedoeld in [artikel 17 van het Besluit luchtvaartuigen 2008](../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md);  
+*erkenninghouder:* houder van een erkenning als bedoeld in artikel 17 van het Besluit luchtvaartuigen 2008;  
 
 *complex onderhoud:* onderhoud als genoemd in Aanhangsel VII bij Part M van Verordening (EG) nr. 2042/2003;  
 
@@ -25,17 +25,17 @@ In deze regeling wordt verstaan onder:
 
 *onderhoud:* revisie, reparatie, inspectie, vervanging, uitvoering van een wijziging, of de herstelling van een defect van een luchtvaartuig of luchtvaartuigonderdeel of een combinatie van deze werkzaamheden, met uitzondering van direct aan elke vlucht voorafgaande inspectie van het luchtvaartuig of daarmee gelijk te stellen inspecties;  
 
-*onderhoudstechnicus:* houder van een geldig, ingevolge [artikel 3.30 van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) afgegeven bewijs van bevoegdheid betreffende onderhoud van luchtvaartuigen;  
+*onderhoudstechnicus:* houder van een geldig, ingevolge artikel 3.30 van de Wet luchtvaart afgegeven bewijs van bevoegdheid betreffende onderhoud van luchtvaartuigen;  
 
 *revisie:* het weer in goede staat brengen van een luchtvaartuig of luchtvaartuigonderdeel door middel van inspectie en vervanging in overeenstemming met een goedgekeurde norm ter verlenging van de operationele levensduur.    
 
 ### Artikel  1a  
 
-Deze regeling berust op de [artikelen 8, derde lid](../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), [13, onderdeel d](../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), en [12, derde lid, van het Besluit luchtvaartuigen 2008](../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md).  
+Deze regeling berust op de artikelen 8, derde lid, 13, onderdeel d, en 12, derde lid, van het Besluit luchtvaartuigen 2008.  
 
 ### Artikel  1b  
 
-1.  Deze regeling is van toepassing op: 
+Deze regeling is van toepassing op: 
 
 a. Nederlandse luchtvaartuigen, als bedoeld in bijlage II bij Verordening nr. (EG) 216/2008 die niet onder een AOC vliegen en zijn voorzien van een speciaal-BvL;  
 
@@ -43,7 +43,9 @@ b. Nederlandse luchtvaartuigen, als bedoeld in bijlage II bij Verordening nr. (E
 
 c. Nederlandse luchtvaartuigen die onder de werking van Verordening (EG) nr. 216/2008 vallen voor zover het betreft artikel 7, eerste lid;  
 
-d. zweefvliegtechnici voor zover het betreft artikel 7, vierde lid.     
+d. zweefvliegtechnici voor zover het betreft artikel 7, vierde lid;  
+
+e. Nederlandse luchtvaartuigen, als bedoeld in de Regeling Yakovlev-52 vliegtuigen, die niet onder een AOC vliegen en zijn voorzien van een speciaal-BvL, met uitzondering van de artikelen 2 tot en met 4 en artikel 5, eerste lid.    
 
 ### Paragraaf  2  
 
@@ -63,7 +65,7 @@ d. zweefvliegtechnici voor zover het betreft artikel 7, vierde lid.
 
 ### Artikel  3  
 
-1.  De houder van een luchtvaartuig heeft de mogelijkheid om een alternatief onderhoudsprogramma op te stellen dat afwijkt van artikel 2, derde en vierde lid, voor vliegtuigen met een maximaal toegelaten startmassa van 5700 kg of minder, helikopters met een maximaal toegelaten startmassa van 2730 kg of minder, ballonnen en zweefvliegtuigen, tenzij daarmee vluchten worden uitgevoerd onder een ontheffing van [artikel 16 van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) voor het vervoer ten behoeve van eigen bedrijf.   
+1.  De houder van een luchtvaartuig heeft de mogelijkheid om een alternatief onderhoudsprogramma op te stellen dat afwijkt van artikel 2, derde en vierde lid, voor vliegtuigen met een maximaal toegelaten startmassa van 5700 kg of minder, helikopters met een maximaal toegelaten startmassa van 2730 kg of minder, ballonnen en zweefvliegtuigen, tenzij daarmee vluchten worden uitgevoerd onder een ontheffing van artikel 16 van de Luchtvaartwet voor het vervoer ten behoeve van eigen bedrijf.   
 2.  De volgens het eerste lid toegestane afwijkingen mogen uitsluitend bestaan uit: 
 
 a. het overschrijden van een door de houder van het goedgekeurde ontwerp aanbevolen revisie-interval of bedrijfslimiet, indien: 
@@ -135,7 +137,7 @@ b. indien de houder van het goedgekeurde ontwerp als bedoeld in artikel 2, derde
 ### Artikel  7  
 
 1.  Met betrekking tot het onderhoud van een luchtvaartuig is de houder verplicht ervoor te zorgen, dat de minister op zijn verzoek wordt ingelicht omtrent het tijdstip, waarop met het onderhoud dan wel met bepaalde daartoe behorende werkzaamheden zal worden aangevangen.   
-2.  Het onderhoud van een amateurbouwluchtvaartuig of een MLA mag worden uitgevoerd door of onder toezicht van de houder van het luchtvaartuig, met uitzondering van het onderhoud aan de verplichte instrumenten, radio's en transponders.   
+2.  Het onderhoud van een amateurbouwluchtvaartuig, een MLA, een MLH of een gemotoriseerd schermvliegtuig mag worden uitgevoerd door of onder toezicht van de houder van het luchtvaartuig, met uitzondering van het onderhoud aan de verplichte instrumenten, radio's, ELT’s en transponders.   
 3.  Met uitzondering van het tweede lid geldt dat niet-complex onderhoud wordt uitgevoerd door of onder toezicht van een daartoe bevoegde onderhoudstechnicus of door of onder toezicht van een daartoe geschikte erkenninghouder en dat complex onderhoud wordt uitgevoerd door of onder toezicht van een daartoe geschikte erkenninghouder.   
 4.  Een bevoegd onderhoudstechnicus mag onverminderd het derde lid, beperkt complex onderhoud uitvoeren zoals omschreven in Part M, wanneer hij voldoet aan de relevante eisen daarvoor zoals gesteld in Part M.   
 5.  Het onderhoud van vliegtuigen met een maximaal toegelaten startmassa van ten minste 5700 kg en van helikopters met een maximaal toegelaten startmassa van ten minste 2730 kg, wordt uitgevoerd door of onder toezicht van een daartoe geschikte erkenninghouder.   
@@ -172,7 +174,7 @@ b. dat niet-complex onderhoud aan:
 
 2° helikopters met een maximaal toegelaten startmassa van 2730 kg of minder,  
 
-3° ballonnen en zweefvliegtuigen,   tenzij daarmee vluchten worden uitgevoerd onder een ontheffing van [artikel 16 van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) voor het vervoer ten behoeve van het eigen bedrijf, mag worden uitgevoerd in Duitsland, Oostenrijk en Zwitserland door onderhoudsbedrijven, erkend overeenkomstig de in deze landen geldende nationale procedures.     
+3° ballonnen en zweefvliegtuigen,   tenzij daarmee vluchten worden uitgevoerd onder een ontheffing van artikel 16 van de Luchtvaartwet voor het vervoer ten behoeve van het eigen bedrijf, mag worden uitgevoerd in Duitsland, Oostenrijk en Zwitserland door onderhoudsbedrijven, erkend overeenkomstig de in deze landen geldende nationale procedures.     
 2.  De minister kan in afwijking van het eerste lid toestaan, dat buiten Nederland het onderhoud van luchtvaartuigen en onderdelen daarvan wordt uitgevoerd door of onder toezicht van een daartoe door buitenlandse burgerluchtvaartautoriteiten: 
 
 a. bevoegd verklaarde onderhoudstechnicus, dan wel  
@@ -291,7 +293,7 @@ a. met betrekking tot het ontwerp:
 
 1º. het ontwerp en de uitvoering van de wijziging zijn voorbereid door de houder van een ontwerperkenning;  
 
-2º. met het ontwerp van de wijziging is ingestemd door middel van een aanvullend typecertificaat voor het betreffende type luchtvaartuig als bedoeld in de [Regeling aanvullende typecertificatie luchtwaardigheid](../../../../../ministeriele-regeling/regeling/aanvullende/type-certificatie/luchtwaardigheid/BWBR0025367/README.md);  
+2º. met het ontwerp van de wijziging is ingestemd door middel van een aanvullend typecertificaat voor het betreffende type luchtvaartuig als bedoeld in de Regeling aanvullende typecertificatie luchtwaardigheid;  
 
 3º. met het ontwerp van de wijziging is ingestemd als typewijziging voor het betreffende type luchtvaartuig;  
 
@@ -311,9 +313,9 @@ b. met betrekking tot de geluidsproductie:
 
 2º. de minister heeft verklaard dat de gewijzigde configuratie van het luchtvaartuig voldoet aan de op het tijdstip van uitvoering geldende geluidseisen;    
 
-c. met betrekking tot de gegevens of het vlieghandboek: 
+c. met betrekking tot de gegevens: 
 
-1º. de uitvoerende heeft aan de hand van bijlage 2 vastgesteld dat de wijziging geen invloed heeft op de gegevens van het luchtvaartuig die zijn vastgelegd in het Nederlandse luchtvaartuigregister of het door de minister uitgegeven vlieghandboek, of  
+1º. de uitvoerende heeft aan de hand van bijlage 2 vastgesteld dat de wijziging geen invloed heeft op de gegevens van het luchtvaartuig die zijn vastgelegd in het Nederlandse luchtvaartuigregister, of  
 
 2º. de uitvoerende de gewijzigde configuratie heeft gemeld aan de minister;   en  
 
@@ -338,9 +340,9 @@ f. de Service Informatie.
 
 a. het verkrijgen van instemming met het ontwerp van een wijziging van een luchtvaartuig als typewijziging, en  
 
-b. het verkrijgen van de verklaring ten aanzien van het voldoen aan de geluidseisen,  
+b. het verkrijgen van de verklaring ten aanzien van het voldoen aan de geluidseisen, alsmede  
 
-c. als mede de melding dat de uitvoering van een wijziging die invloed heeft op de gegevens van het luchtvaartuig die zijn vastgelegd in het Nederlands luchtvaartuigregister of in het door de minister uitgegeven vlieghandboek, wordt ingediend bij de minister middels een volledig ingevuld en ondertekend formulier, waarvan exemplaren kosteloos bij de minister verkrijgbaar zijn. Houders van een ontwerperkenning en erkende inspecteurs kunnen bij de aanvraag gebruik maken van eigen formulieren indien dat is overeengekomen.     
+c. de melding van de uitvoering van een wijziging die invloed heeft op de gegevens van het luchtvaartuig die zijn vastgelegd in het Nederlands luchtvaartuigregister, wordt ingediend respectievelijk gedaan bij de minister door middel van een volledig ingevuld en ondertekend formulier, waarvan exemplaren kosteloos bij de minister verkrijgbaar zijn. Houders van een ontwerperkenning en erkende inspecteurs kunnen bij de aanvraag gebruik maken van eigen formulieren indien dat is overeengekomen.     
 2.  Bij de aanvraag en de melding, genoemd in het eerste lid, worden de voor de beoordeling noodzakelijke gegevens gevoegd.   
 3.  Wanneer de bij de aanvraag of de melding gevraagde aanvullende informatie niet binnen 6 maanden wordt verstrekt, vervalt de aanvraag en wordt deze terug gezonden.   
 4.  Een inspectie van het ingebouwde ontwerp kan onderdeel uitmaken van de beoordelingsprocedure.   
@@ -434,4 +436,4 @@ G. veranderingen in/aan de brandstofvulpunten.   VIII. Alle veranderingen aan AP
 
 Meldingscriteria  
 
-Alle wijzigingen die aan één van onderstaande criteria voldoen hebben invloed op de gegevens van het luchtvaartuigregister of het door de minister uitgegeven vlieghandboek en moeten gemeld worden aan de minister. I. Elke wijziging die een verandering van het maximum startgewicht van het luchtvaartuig met zich mee brengt. II. Elke wijziging die een verandering van het maximum landingsgewicht van het luchtvaartuig met zich mee brengt. III. Elke wijziging die een verandering van de modelaanduiding van het luchtvaartuig met zich mee brengt. IV. Elke wijziging die een verandering van de luchtwaardigheidscategorie van het luchtvaartuig met zich mee brengt. V. Elke wijziging van het type of model van de motor. VI. Elke wijziging van het type of model van de propeller. VII. Het inbouwen of wijzigen van een sproei- of verstuifinstallatie. VIII. Het inbouwen of wijzigen van de sleephaakinstallatie. IX. Het inbouwen of wijzigen van de paraconfiguratie. Wijzigingen die voldoen aan criterium I, II, III, IV, V, VI, of VII, zijn van invloed op het luchtvaartuigregister. Wijzigingen die voldoen aan criterium III, IV, VII, VIII, of IX zijn van invloed op het door de minister uitgegeven vlieghandboek. 
+Alle wijzigingen die aan één van onderstaande criteria voldoen hebben invloed op de gegevens van het luchtvaartuigregister en moeten gemeld worden aan de minister. I. Elke wijziging die een verandering van het maximum startgewicht van het luchtvaartuig met zich mee brengt. II. Elke wijziging die een verandering van het maximum landingsgewicht van het luchtvaartuig met zich mee brengt. III. Elke wijziging die een verandering van de modelaanduiding van het luchtvaartuig met zich mee brengt. IV. Elke wijziging die een verandering van de luchtwaardigheidscategorie van het luchtvaartuig met zich mee brengt. V. Elke wijziging van het type of model van de motor. VI. Elke wijziging van het type of model van de propeller. VII. Het inbouwen of wijzigen van een sproei- of verstuifinstallatie. 

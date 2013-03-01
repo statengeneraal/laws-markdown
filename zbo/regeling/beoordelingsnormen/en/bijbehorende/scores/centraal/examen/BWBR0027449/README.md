@@ -343,33 +343,37 @@ Het cijfer voor het cspe wordt als volgt verkregen. De examinator en de tweede e
 
 ### Bijlage  3  
 
-####Bekendmaking van (vastgestelde) vakspecifieke regels, beoordelingsmodellen per toets en de daarbij behorende scores.
+####Bekendmaking van (vastgestelde) vakspecifieke regels, beoordelingsmodellen per toets en de daarbij behorende scores
 
-1.  *Voor wat betreft de vakspecifieke regels, beoordelingsmodellen per toets en de daarbij behorende scores geldt het volgende rooster van bekendmaking*  
+### 1  
 
-a. De vakspecifieke regels, beoordelingsmodellen en de daarbij behorende scores vermeld in de tabellen worden bekendgemaakt uiterlijk 4 uur nadat de examenzitting van het betreffende vak is beëindigd conform de regeling [Rooster en toegestane hulpmiddelen voor de centrale examens van de eindexamens en de staatsexamens vwo, havo en vmbo in 2011](../../../../../../../../../zbo/rooster/en/toegestane/hulpmiddelen/voor/de/centrale/examens/van/de/etc/BWBR0026160/README.md), voor wat betreft de tabellen: 1a, 1b, 2a, 2b, 3a, 3b, 4a, 4b, 5a en 5b.  
+####Voor wat betreft de vakspecifieke regels, beoordelingsmodellen per toets en de daarbij behorende scores geldt het volgende rooster van bekendmaking
+
+a. De vakspecifieke regels, beoordelingsmodellen en de daarbij behorende scores vermeld in de tabellen worden bekendgemaakt uiterlijk 4 uur nadat de examenzitting van het betreffende vak is beëindigd conform de [regeling Rooster en toegestane hulpmiddelen voor de centrale examens van de eindexamens en de staatsexamens vwo, havo en vmbo in 2013](../../../../../../../../../zbo/regeling/rooster/en/toegestane/hulpmiddelen/voor/de/centrale/examens/van/etc/BWBR0030330/README.md), voor wat betreft de tabellen: 1a, 1b, 2a, 2b, 3a, 3b, 4a, 4b, 5a en 5b.  
 
 b. De vakspecifieke regels, beoordelingsmodellen en scores behorend bij de tabellen 1c, 1d, 2c, 2d, 3c, 3d, 4c 4d, 5c en 5d worden niet eerder bekend gemaakt dan nadat het College voor Examens heeft vastgesteld dat de betreffende opgaven niet meer onderdeel van een toets van een centraal examen zullen uitmaken.  
 
 c. De vakspecifieke regels, beoordelingsmodellen en scores behorend bij de tabellen 4e en 5e worden bekendgemaakt aan de secretaris van het eindexamen, uiterlijk 4 uur nadat de examenzitting van de betreffende toets is afgenomen voor de kandidaten waarvan de examinator van de betreffende school het werk moet beoordelen.  
 
-d. De vakspecifieke regels, beoordelingsmodellen en scores behorend bij tabellen 1e en 3e worden met de opgaven verzonden aan de secretaris van het eindexamen op respectievelijk 2 december 2010 en 2 maart 2011.  
+d. De vakspecifieke regels, beoordelingsmodellen en scores behorend bij tabellen 1e en 3e worden per aangetekende post met de opgaven ontvangen t.a.v. de secretaris van het eindexamen op respectievelijk 28 november 2012 en 6 februari 2013.  
 
-e. De vakspecifieke regels, beoordelingsmodellen en scores behorend bij de tabellen 4f, 5f en 3f worden verzonden aan de secretaris van het eindexamen op 16 maart 2011.    
+e. De vakspecifieke regels, beoordelingsmodellen en scores behorend bij de tabellen 3f, 4f en 5f worden per aangetekende post ontvangen t.a.v. de secretaris van het eindexamen op 13 maart 2013.    
 
-2.  *Bekendmaking van de volledige correctievoorschriften voor de vakken, aangegeven in de tabellen, vindt plaats*  
+### 2  
+
+####Bekendmaking van de volledige correctievoorschriften voor de vakken, aangegeven in de tabellen, vindt plaats
 
 a. Voor wat betreft de tabellen genoemd onder onderdeel 1a en onderdeel 1b: op de website Examenblad.nl.  
 
 b. Voor wat betreft de tabellen genoemd onder onderdeel 1c: door de examinator toegang te geven tot de server waarop deze beoordelingsnormen worden bewaard.  
 
-c. Voor wat betreft de tabellen genoemd onder onderdeel 1d: door toezending van de beoordelingsnormen aan de scholen waar deze examens worden afgenomen.     
+c. Voor wat betreft de tabellen genoemd onder onderdeel 1d: door toezending van de beoordelingsnormen aan de scholen waar deze examens worden afgenomen.   
 
 ### Tabel  1  
 
 ####Vakspecifieke regels, beoordelingsnormen en scores voorbereidend wetenschappelijk onderwijs
 
-De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens voorbereidend wetenschappelijk onderwijs 2011 worden vastgesteld voor wat betreft 
+De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens voorbereidend wetenschappelijk onderwijs 2013 worden vastgesteld voor wat betreft 
 
 a. het eerste tijdvak conform tabel 1a;  
 
@@ -379,43 +383,153 @@ c. het tweede tijdvak conform tabel 1c voor wat betreft de vakken die met geheim
 
 d. het derde tijdvak conform tabel 1d;  
 
-e. de centraal praktische examens tekenen, handvaardigheid en textiele vormgeving conform tabel 1e.   
+e. de centraal praktische examens tekenen, handvaardigheid en textiele vormgeving conform tabel 1e.   
 
 ### Tabel  1a  
 
-####voorbereidend wetenschappelijk onderwijs 2011
+####voorbereidend wetenschappelijk onderwijs 2013
 
-Nederlands Fries Latijn Grieks Frans Duits Engels Spaans Russisch Turks Arabisch geschiedenis geschiedenis (pilot) aardrijkskunde aardrijkskunde wiskunde A wiskunde B wiskunde C wiskunde A1,2 wiskunde B1 wiskunde B1,2 natuurkunde 1 natuurkunde natuurkunde (pilot) scheikunde 1 scheikunde scheikunde (pilot) biologie biologie (pilot) economie 1 economie economie (pilot) management & organisatie muziek tekenen, handvaardigheid en textiele vormgeving filosofie maatschappijwetenschappen kunst (beeldende vormgeving / dans / drama / muziek / algemeen) kunst Extra afname (beeldende vormgeving / dans / drama / muziek / algemeen)  
+| --- |
+|:---|
+| Nederlands  |
+| Fries  |
+| Latijn  |
+| Grieks  |
+| Frans  |
+| Duits  |
+| Engels  |
+| Spaans  |
+| Russisch  |
+| Turks  |
+| Arabisch  |
+| geschiedenis  |
+| geschiedenis (pilot)  |
+| aardrijkskunde  |
+| wiskunde A  |
+| wiskunde A (pilot)  |
+| wiskunde B  |
+| wiskunde B (pilot)  |
+| wiskunde C  |
+| wiskunde C (pilot)  |
+| natuurkunde  |
+| natuurkunde (pilot)  |
+| scheikunde  |
+| scheikunde (pilot)  |
+| biologie  |
+| biologie (pilot)  |
+| economie  |
+| economie (pilot)  |
+| management & organisatie  |
+| muziek  |
+| tekenen, handvaardigheid en textiele vormgeving  |
+| filosofie  |
+| maatschappijwetenschappen  |
+| kunst (beeldende vormgeving / dans / drama / muziek / algemeen)  |
 
 ### Tabel  1b  
 
-####voorbereidend wetenschappelijk onderwijs 2011
+####voorbereidend wetenschappelijk onderwijs 2013
 
-Nederlands Latijn Frans Duits Engels geschiedenis geschiedenis (pilot) aardrijkskunde wiskunde A wiskunde B wiskunde C natuurkunde natuurkunde (pilot) scheikunde scheikunde (pilot) biologie biologie (pilot) economie economie (pilot) management & organisatie filosofie  
+| --- |
+|:---|
+| Nederlands  |
+| Grieks  |
+| Latijn  |
+| Frans  |
+| Duits  |
+| Engels  |
+| Spaans  |
+| geschiedenis  |
+| aardrijkskunde  |
+| wiskunde A  |
+| wiskunde A (pilot)  |
+| wiskunde B  |
+| wiskunde B (pilot)  |
+| wiskunde C  |
+| wiskunde C (pilot)  |
+| Natuurkunde  |
+| natuurkunde (pilot)  |
+| Scheikunde  |
+| scheikunde (pilot)  |
+| biologie  |
+| biologie (pilot)  |
+| economie  |
+| management & organisatie  |
+| filosofie  |
+| kunst (beeldende vormgeving / dans / drama / muziek / algemeen)  |
+| maatschappijwetenschappen  |
 
 ### Tabel  1c  
 
-####voorbereidend wetenschappelijk onderwijs 2011
+####voorbereidend wetenschappelijk onderwijs 2013
 
-Fries Grieks Spaans Russisch Turks Arabisch aardrijkskunde wiskunde A1,2 wiskunde B1 wiskunde B1,2 natuurkunde 1 scheikunde 1 economie 1 muziek tekenen, handvaardigheid en textiele vormgeving maatschappijwetenschappen kunst (beeldende vormgeving / dans / drama / muziek / algemeen)  
+| --- |
+|:---|
+| Fries  |
+| Russisch  |
+| Turks  |
+| Arabisch  |
+| geschiedenis (pilot)  |
+| economie (pilot)  |
+| muziek  |
+| tekenen, handvaardigheid en textiele vormgeving  |
 
 ### Tabel  1d  
 
-####voorbereidend wetenschappelijk onderwijs 2011
+####voorbereidend wetenschappelijk onderwijs 2013
 
-Nederlands Fries Latijn Grieks Frans Duits Engels Spaans Russisch Turks Arabisch geschiedenis aardrijkskunde aardrijkskunde wiskunde A wiskunde B wiskunde C wiskunde A1,2 wiskunde B1 wiskunde B1,2 natuurkunde 1 natuurkunde scheikunde 1 scheikunde biologie economie 1 economie management & organisatie muziek tekenen, handvaardigheid en textiele vormgeving filosofie maatschappijwetenschappen kunst (beeldende vormgeving / dans / drama / muziek / algemeen)  
+| --- |
+|:---|
+| Nederlands  |
+| Fries  |
+| Latijn  |
+| Grieks  |
+| Frans  |
+| Duits  |
+| Engels  |
+| Spaans  |
+| Russisch  |
+| Turks  |
+| Arabisch  |
+| geschiedenis  |
+| geschiedenis (pilot)  |
+| aardrijkskunde  |
+| wiskunde A  |
+| wiskunde A (pilot)  |
+| wiskunde B  |
+| wiskunde B (pilot)  |
+| wiskunde C  |
+| wiskunde C (pilot)  |
+| natuurkunde  |
+| natuurkunde (pilot)  |
+| scheikunde  |
+| scheikunde (pilot)  |
+| biologie  |
+| biologie (pilot)  |
+| economie  |
+| economie (pilot)  |
+| management & organisatie  |
+| muziek  |
+| tekenen, handvaardigheid en textiele vormgeving  |
+| filosofie  |
+| maatschappijwetenschappen  |
+| kunst (beeldende vormgeving / dans / drama / muziek / algemeen)  |
 
 ### Tabel  1e  
 
-####voorbereidend wetenschappelijk onderwijs 2011
+####voorbereidend wetenschappelijk onderwijs 2013
 
-tekenen handenarbeid textiele vormgeving  
+| --- |
+|:---|
+| tekenen  |
+| handvaardigheid  |
+| textiele vormgeving  |
 
 ### Tabel  2  
 
 ####Vakspecifieke regels, beoordelingsnormen en scores hoger algemeen voortgezet onderwijs
 
-De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens hoger algemeen voortgezet onderwijs 2011 worden vastgesteld voor wat betreft 
+De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens hoger algemeen voortgezet onderwijs 2013 worden vastgesteld voor wat betreft 
 
 a. het eerste tijdvak conform tabel 2a;  
 
@@ -427,33 +541,126 @@ d. het derde tijdvak conform tabel 2d.
 
 ### Tabel  2a  
 
-####hoger algemeen voortgezet onderwijs 2011
+####hoger algemeen voortgezet onderwijs 2013
 
-Nederlands Fries Frans Duits Engels Spaans Russisch Turks Arabisch geschiedenis geschiedenis (pilot) aardrijkskunde wiskunde A wiskunde B natuurkunde natuurkunde (pilot) scheikunde scheikunde (pilot) biologie biologie (pilot) economie economie (pilot) management & organisatie muziek tekenen, handvaardigheid en textiele vormgeving filosofie maatschappijwetenschappen kunst (beeldende vormgeving / dans / drama / muziek / algemeen)  
+| --- |
+|:---|
+| Nederlands  |
+| Fries  |
+| Frans  |
+| Duits  |
+| Engels  |
+| Spaans  |
+| Russisch  |
+| Turks  |
+| Arabisch  |
+| geschiedenis  |
+| geschiedenis (pilot)  |
+| aardrijkskunde  |
+| wiskunde A  |
+| wiskunde A (pilot)  |
+| wiskunde B  |
+| wiskunde B (pilot)  |
+| natuurkunde  |
+| natuurkunde (pilot)  |
+| scheikunde  |
+| scheikunde (pilot)  |
+| biologie  |
+| biologie (pilot)  |
+| economie  |
+| management & organisatie  |
+| muziek  |
+| tekenen, handvaardigheid en textiele vormgeving  |
+| filosofie  |
+| maatschappijwetenschappen  |
+| maatschappijwetenschappen (pilot)  |
+| kunst (beeldende vormgeving / dans / drama / muziek / algemeen)  |
 
 ### Tabel  2b  
 
-####hoger algemeen voortgezet onderwijs 2011
+####hoger algemeen voortgezet onderwijs 2013
 
-Nederlands Frans Duits Engels geschiedenis geschiedenis (pilot) aardrijkskunde wiskunde A wiskunde B natuurkunde natuurkunde (pilot) scheikunde scheikunde (pilot) biologie biologie (pilot) economie economie (pilot) management & organisatie maatschappijwetenschappen kunst (beeldende vormgeving / dans / drama / muziek / algemeen)  
+| --- |
+|:---|
+| Nederlands  |
+| Frans  |
+| Duits  |
+| Engels  |
+| Spaans  |
+| geschiedenis  |
+| aardrijkskunde  |
+| wiskunde A  |
+| wiskunde A (pilot)  |
+| wiskunde B  |
+| wiskunde B (pilot)  |
+| natuurkunde  |
+| natuurkunde (pilot)  |
+| scheikunde  |
+| scheikunde (pilot)  |
+| biologie  |
+| biologie (pilot)  |
+| economie  |
+| management & organisatie  |
+| maatschappijwetenschappen  |
+| maatschappijwetenschappen (pilot)  |
+| filosofie  |
+| kunst (beeldende vormgeving / dans / drama / muziek / algemeen)  |
+| tekenen, handvaardigheid en textiele vormgeving  |
 
 ### Tabel  2c  
 
-####hoger algemeen voortgezet onderwijs 2011
+####hoger algemeen voortgezet onderwijs 2013
 
-Fries Spaans Russisch Turks Arabisch muziek tekenen, handvaardigheid en textiele vormgeving filosofie  
+| --- |
+|:---|
+| Fries  |
+| Russisch  |
+| Turks  |
+| Arabisch  |
+| geschiedenis (pilot)  |
+| muziek  |
 
 ### Tabel  2d  
 
-####hoger algemeen voortgezet onderwijs 2011
+####hoger algemeen voortgezet onderwijs 2013
 
-Nederlands Fries Frans Duits Engels Spaans Russisch Turks Arabisch geschiedenis geschiedenis (pilot) aardrijkskunde aardrijkskunde wiskunde A wiskunde B natuurkunde scheikunde biologie economie management & organisatie muziek tekenen, handvaardigheid en textiele vormgeving filosofie maatschappijwetenschappen kunst (beeldende vormgeving / dans / drama / muziek / algemeen)  
+| --- |
+|:---|
+| Nederlands  |
+| Fries  |
+| Frans  |
+| Duits  |
+| Engels  |
+| Spaans  |
+| Russisch  |
+| Turks  |
+| Arabisch  |
+| geschiedenis  |
+| geschiedenis (pilot)  |
+| aardrijkskunde  |
+| wiskunde A  |
+| wiskunde A (pilot)  |
+| wiskunde B  |
+| wiskunde B (pilot)  |
+| natuurkunde  |
+| natuurkunde (pilot)  |
+| scheikunde  |
+| scheikunde (pilot)  |
+| biologie  |
+| biologie (pilot)  |
+| economie  |
+| management & organisatie  |
+| muziek  |
+| tekenen, handvaardigheid en textiele vormgeving  |
+| filosofie  |
+| maatschappijwetenschappen  |
+| kunst (beeldende vormgeving / dans / drama / muziek / algemeen)  |
 
 ### Tabel  3  
 
 ####Vakspecifieke regels, beoordelingsnormen en scores theoretische leerweg
 
-De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens theoretische leerweg in het middelbaar algemeen voortgezet onderwijs 2011 worden vastgesteld voor wat betreft 
+De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens theoretische leerweg in het middelbaar algemeen voortgezet onderwijs 2013 worden vastgesteld voor wat betreft 
 
 a. het eerste tijdvak conform tabel 3a;  
 
@@ -464,10 +671,9 @@ c. het tweede tijdvak conform tabel 3c voor wat betreft de vakken die met geheim
 d. het derde tijdvak conform tabel 3d;  
 
 e. de centraal praktische examens beeldende vakken conform tabel 3e.   
+###Vakspecifieke regels, beoordelingsnormen en scores gemengde leerweg
 
-#### *Vakspecifieke regels, beoordelingsnormen en scores gemengde leerweg* 
-
-1. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens gemengde leerweg in het voorbereidend beroepsonderwijs 2011 worden vastgesteld voor wat betreft de algemene vakken en de beroepsgerichte programma's met een centraal schriftelijke eindexamen 
+1. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens gemengde leerweg in het voorbereidend beroepsonderwijs 2013 worden vastgesteld voor wat betreft de algemene vakken en de beroepsgerichte programma's met een centraal schriftelijke eindexamen 
 
 a. het eerste tijdvak conform tabel 3a,  
 
@@ -479,49 +685,142 @@ d. het derde tijdvak conform tabel 3d;
 
 e. de centraal praktische examens beeldende vakken conform tabel 3e.    
 
-2. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens gemengde leerweg in het voorbereidend beroepsonderwijs 2011 worden vastgesteld voor wat betreft de beroepsgerichte programma's met een centraal schriftelijk en praktisch examen conform tabel 3f.   
+2. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens gemengde leerweg in het voorbereidend beroepsonderwijs 2013 worden vastgesteld voor wat betreft de beroepsgerichte programma's met een centraal schriftelijk en praktisch examen conform tabel 3f.   
 
 ### Tabel  3a  
 
-#### *theoretische leerweg / gemengde leerweg 2011* 
+####theoretische leerweg / gemengde leerweg 2013
 
-*Algemene vakken*  Nederlands Fries Frans Duits Engels Arabisch Turks Spaans economie maatschappijleer II aardrijkskunde geschiedenis wiskunde natuur- en scheikunde I natuur- en scheikunde I compex natuur- en scheikunde II biologie beeldende vakken muziek dans drama  *Gemengde leerweg, beroepsgerichte programma’s*  transport en logistiek voertuigentechniek plantenteelt groene ruimte bloembinden en -schikken dierhouderij & -verzorging verwerking agrarische producten landbouw-breed  
+| --- |
+|:---|
+|  *Algemene vakken*   |
+| Nederlands  |
+| Fries  |
+| Frans  |
+| Duits  |
+| Engels  |
+| Arabisch  |
+| Turks  |
+| Spaans  |
+| economie  |
+| maatschappijleer II  |
+| aardrijkskunde  |
+| geschiedenis en staatsinrichting  |
+| wiskunde  |
+| natuur- en scheikunde I  |
+| natuur- en scheikunde II  |
+| biologie  |
+| beeldende vakken  |
+| muziek  |
+| dans  |
+| drama  |
+| --- |
+|  *Gemengde leerweg, beroepsgerichte programma’s*   |
+| transport en logistiek  |
+| voertuigentechniek  |
 
 ### Tabel  3b  
 
-#### *theoretische leerweg / gemengde leerweg 2011* 
+####theoretische leerweg / gemengde leerweg 2013
 
-Nederlands Frans Duits Engels economie maatschappijleer II aardrijkskunde geschiedenis en staatsinrichting wiskunde natuur- en scheikunde I natuur- en scheikunde II biologie beeldende vakken  
+| --- |
+|:---|
+| Nederlands  |
+| Frans  |
+| Duits  |
+| Engels  |
+| Spaans  |
+| economie  |
+| maatschappijleer II  |
+| aardrijkskunde  |
+| geschiedenis en staatsinrichting  |
+| wiskunde  |
+| natuur- en scheikunde I  |
+| natuur- en scheikunde II  |
+| biologie  |
+| beeldende vakken  |
 
 ### Tabel  3c  
 
-#### *theoretische leerweg / gemengde leerweg 2011* 
+####theoretische leerweg / gemengde leerweg 2013
 
-*Algemene vakken*  Fries Arabisch Turks Spaans muziek dans drama  *Gemengde leerweg, beroepsgerichte programma’s*  transport en logistiek voertuigentechniek plantenteelt groene ruimte bloembinden en -schikken dierhouderij & -verzorging verwerking agrarische producten landbouw-breed  
+| --- |
+|:---|
+|  *Algemene vakken*   |
+| Fries  |
+| Arabisch  |
+| Turks  |
+| muziek  |
+| dans  |
+| drama  |
+| --- |
+|  *Gemengde leerweg, beroepsgerichte programma’s*   |
+| transport en logistiek  |
+| voertuigentechniek  |
 
 ### Tabel  3d  
 
-#### *theoretische leerweg / gemengde leerweg 2011* 
+####theoretische leerweg / gemengde leerweg 2013
 
-*Algemene vakken*  Nederlands Fries Frans Duits Engels Arabisch Turks Spaans economie maatschappijleer II aardrijkskunde geschiedenis wiskunde natuur- en scheikunde I natuur- en scheikunde II biologie muziek dans drama  *Gemengde leerweg, beroepsgerichte programma’s*  transport en logistiek voertuigentechniek plantenteelt groene ruimte bloembinden en -schikken dierhouderij & -verzorging verwerking agrarische producten landbouw-breed  
+| --- | --- |
+|:---|:---|
+|  *Algemene vakken*   |
+| Nederlands  |
+| Fries  |
+| Frans  |
+| Duits  |
+| Engels  |
+| Arabisch  |
+| Turks  |
+| Spaans  |
+| economie  |
+| maatschappijleer II  |
+| aardrijkskunde  |
+| geschiedenis  |
+| wiskunde  |
+| natuur- en scheikunde I  |
+| natuur- en scheikunde II  |
+| biologie  |
+| beeldende vakken  |
+| muziek  |
+| dans  |
+| drama  |
+| --- |
+|  *Gemengde leerweg, beroepsgerichte programma’s*   |
+| transport en logistiek  |
+| voertuigentechniek  |
 
 ### Tabel  3e  
 
-#### *theoretische leerweg / gemengde leerweg 2011* 
+####theoretische leerweg / gemengde leerweg 2013
 
-tekenen handenarbeid textiele werkvormen audiovisuele vormgeving  
+| --- |
+|:---|
+| tekenen  |
+| handenarbeid  |
+| textiele werkvormen  |
+| audiovisuele vormgeving  |
 
 ### Tabel  3f  
 
-#### *gemengde leerweg 2011* 
+####gemengde leerweg 2013
 
-grafimedia technologie in de gemengde leerweg bouw metaaltechniek, elektrotechniek, installatietechniek, metalelektro, instalektro, techniek-breed consumptief handel en administratie, handel en verkoop, administratie, mode en commercie zorg-en-welzijn-breed, verzorging, uiterlijke verzorging landbouw  
+| --- |
+|:---|
+| grafimedia  |
+| technologie in de gemengde leerweg, intersectoraal, ict-route  |
+| Bouw-breed, bouwtechniek-timmeren, bouwtechniek-schilderen, bouwtechniek-metselen, bouwtechniek-fijnhoutbewerken  |
+| metaaltechniek, elektrotechniek, installatietechniek, metalektro, instalektro, techniek-breed  |
+| consumptief  |
+| handel en administratie, handel en verkoop, administratie, mode en commercie  |
+| zorg-en-welzijn-breed, verzorging, uiterlijke verzorging  |
+| landbouw  |
 
 ### Tabel  4  
 
 ####Vakspecifieke regels, beoordelingsnormen en scores kaderberoepsgerichte leerweg
 
-1. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens kaderberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2011 worden vastgesteld voor wat betreft de algemene vakken 
+1. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens kaderberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2013 worden vastgesteld voor wat betreft de algemene vakken 
 
 a. het eerste tijdvak conform tabel 4a;  
 
@@ -531,51 +830,149 @@ c. het tweede tijdvak conform tabel 4c voor wat betreft de vakken die met geheim
 
 d. het derde tijdvak conform tabel 4d.    
 
-2. In afwijking van het vermelde onder 1 worden de vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens kaderberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2011 voor wat betreft de algemene vakken vastgesteld conform tabel 4e voor zover deze vakken digitaal flexibel worden afgenomen.  
+2. In afwijking van het vermelde onder 1 worden de vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens kaderberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2013 voor wat betreft de algemene vakken vastgesteld conform tabel 4e voor zover deze vakken digitaal flexibel worden afgenomen.  
 
-3. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens kaderberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2011 worden vastgesteld voor wat betreft de beroepsgerichte programma's conform tabel 4f.   
+3. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens kaderberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2013 worden vastgesteld voor wat betreft de beroepsgerichte programma's conform tabel 4f.   
 
 ### Tabel  4a  
 
-####kaderberoepsgerichte leerweg 2011
+####kaderberoepsgerichte leerweg 2013
 
-Nederlands Duits Engels Arabisch Turks Spaans economie maatschappijleer II aardrijkskunde geschiedenis en staatsinrichting wiskunde natuur- en scheikunde I biologie  
+| --- |
+|:---|
+| Nederlands  |
+| Frans  |
+| Duits  |
+| Engels  |
+| Arabisch  |
+| Turks  |
+| Spaans  |
+| economie  |
+| maatschappijleer II  |
+| aardrijkskunde  |
+| geschiedenis en staatsinrichting  |
+| wiskunde  |
+| natuur- en scheikunde I  |
+| biologie  |
 
 ### Tabel  4b  
 
-####kaderberoepsgerichte leerweg 2011
+####kaderberoepsgerichte leerweg 2013
 
-Nederlands Duits Engels economie maatschappijleer II aardrijkskunde geschiedenis en staatsinrichting wiskunde natuur- en scheikunde I biologie  
+| --- |
+|:---|
+| Nederlands  |
+| Duits  |
+| Engels  |
+| economie  |
+| maatschappijleer II  |
+| aardrijkskunde  |
+| geschiedenis en staatsinrichting  |
+| wiskunde  |
+| natuur- en scheikunde I  |
+| biologie  |
 
 ### Tabel  4c  
 
-####kaderberoepsgerichte leerweg 2011
+####kaderberoepsgerichte leerweg 2013
 
-Arabisch Turks Spaans  
+| --- |
+|:---|
+| Frans  |
+| Arabisch  |
+| Turks  |
+| Spaans  |
 
 ### Tabel  4d  
 
-####kaderberoepsgerichte leerweg 2011
+####kaderberoepsgerichte leerweg 2013
 
-Nederlands Engels Arabisch Turks Spaans economie maatschappijleer II aardrijkskunde geschiedenis en staatsinrichting wiskunde natuur- en scheikunde I biologie  
+| --- |
+|:---|
+| Nederlands  |
+| Frans  |
+| Duits  |
+| Engels  |
+| Arabisch  |
+| Turks  |
+| Spaans  |
+| economie  |
+| maatschappijleer II  |
+| aardrijkskunde  |
+| geschiedenis en staatsinrichting  |
+| wiskunde  |
+| natuur- en scheikunde I  |
+| biologie  |
 
 ### Tabel  4e  
 
-####kaderberoepsgerichte leerweg 2011
+####kaderberoepsgerichte leerweg 2013
 
-Nederlands Frans Duits Engels economie maatschappijleer II aardrijkskunde geschiedenis en staatsinrichting wiskunde natuur- en scheikunde I biologie  
+| --- |
+|:---|
+| Nederlands  |
+| Frans  |
+| Duits  |
+| Engels  |
+| economie  |
+| maatschappijleer II  |
+| aardrijkskunde  |
+| geschiedenis en staatsinrichting  |
+| wiskunde  |
+| natuur- en scheikunde I  |
+| biologie  |
 
 ### Tabel  4f  
 
-####kaderberoepsgerichte leerweg 2011
+####kaderberoepsgerichte leerweg 2013
 
-bouwtechniek-timmeren bouwtechniek-fijnhoutbewerken bouwtechniek-metselen bouwtechniek-schilderen bouw-breed elektrotechniek grafimedia installatietechniek metaaltechniek transport en logistiek voertuigentechniek metalektro instalektro techniek-breed ICT-route uiterlijke verzorging verzorging zorg-en-welzijn-breed sport, dienstverlening en veiligheid intersectoraal technologie en commercie intersectoraal technologie en dienstverlening intersectoraal dienstverlening en commercie administratie consumptief-horeca consumptief-bakken handel en verkoop mode en commercie handel en administratie consumptief-breed plantenteelt open teelten plantenteelt gesloten teelten groene ruimte bloembinden en -schikken dierhouderij & verzorging productdieren dierhouderij & verzorging gezelschapsdieren verwerking agrarische producten agrarische bedrijfseconomie agrarische techniek landbouw-breed  
+| --- |
+|:---|
+| bouwtechniek-timmeren  |
+| bouwtechniek-fijnhoutbewerken  |
+| bouwtechniek-metselen  |
+| bouwtechniek-schilderen  |
+| bouw-breed  |
+| elektrotechniek  |
+| grafimedia  |
+| installatietechniek  |
+| metaaltechniek  |
+| transport en logistiek  |
+| voertuigentechniek  |
+| metalektro  |
+| instalektro  |
+| techniek-breed  |
+| ICT-route  |
+| uiterlijke verzorging  |
+| verzorging  |
+| zorg-en-welzijn-breed  |
+| sport, dienstverlening en veiligheid  |
+| intersectoraal technologie en commercie  |
+| intersectoraal technologie en dienstverlening  |
+| intersectoraal dienstverlening en commercie  |
+| administratie  |
+| consumptief-horeca  |
+| consumptief-bakken  |
+| handel en verkoop  |
+| mode en commercie  |
+| handel en administratie  |
+| consumptief-breed  |
+| plantenteelt open teelten  |
+| plantenteelt gesloten teelten  |
+| groene ruimte  |
+| bloembinden en -schikken  |
+| dierhouderij & verzorging productdieren  |
+| dierhouderij & verzorging gezelschapsdieren  |
+| verwerking agrarische producten  |
+| agrarische bedrijfseconomie  |
+| agrarische techniek  |
+| landbouw-breed  |
 
 ### Tabel  5  
 
 ####Vakspecifieke regels, beoordelingsnormen en scores basisberoepsgerichte leerweg
 
-1. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens basisberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2011 worden vastgesteld voor wat betreft de algemene vakken 
+1. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens basisberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2013 worden vastgesteld voor wat betreft de algemene vakken 
 
 a. het eerste tijdvak conform tabel 5a;  
 
@@ -585,43 +982,140 @@ c. het tweede tijdvak conform tabel 5c voor wat betreft de vakken die met geheim
 
 d. het derde tijdvak conform tabel 5d.    
 
-2. In afwijking van het vermelde onder 1 worden de vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens basisberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2011 voor wat betreft de algemene vakken vastgesteld conform tabel 5e voor zover deze vakken digitaal flexibel worden afgenomen.  
+2. In afwijking van het vermelde onder 1 worden de vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens basisberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2013 voor wat betreft de algemene vakken vastgesteld conform tabel 5e voor zover deze vakken digitaal flexibel worden afgenomen.  
 
-3. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens basisberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2011 worden vastgesteld voor wat betreft de beroepsgerichte programma's conform tabel 5f.   
+3. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens basisberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2013 worden vastgesteld voor wat betreft de beroepsgerichte programma's conform tabel 5f.   
 
 ### Tabel  5a  
 
-####basisberoepsgerichte leerweg 2011
+####basisberoepsgerichte leerweg 2013
 
-Nederlands Duits Engels Arabisch Turks Spaans economie maatschappijleer II aardrijkskunde geschiedenis en staatsinrichting wiskunde natuur- en scheikunde I biologie  
+| --- |
+|:---|
+| Nederlands  |
+| Frans  |
+| Duits  |
+| Engels  |
+| Arabisch  |
+| Turks  |
+| Spaans  |
+| economie  |
+| maatschappijleer II  |
+| aardrijkskunde  |
+| geschiedenis en staatsinrichting  |
+| wiskunde  |
+| natuur- en scheikunde I  |
+| biologie  |
 
 ### Tabel  5b  
 
 ####basisberoepsgerichte leerweg
 
-Alle vakken worden afgenomen als aangewezen vak.  
+| --- |
+|:---|
+| Alle vakken worden afgenomen als aangewezen vak.  |
 
 ### Tabel  5c  
 
-####basisberoepsgerichte leerweg 2011
+####basisberoepsgerichte leerweg 2013
 
-Nederlands Duits Engels Arabisch Turks Spaans economie maatschappijleer II aardrijkskunde geschiedenis en staatsinrichting wiskunde natuur- en scheikunde I biologie  
+| --- |
+|:---|
+| Nederlands  |
+| Frans  |
+| Duits  |
+| Engels  |
+| Arabisch  |
+| Turks  |
+| Spaans  |
+| economie  |
+| maatschappijleer II  |
+| aardrijkskunde  |
+| geschiedenis en staatsinrichting  |
+| wiskunde  |
+| natuur- en scheikunde I  |
+| biologie  |
 
 ### Tabel  5d  
 
-####basisberoepsgerichte leerweg 2011
+####basisberoepsgerichte leerweg 2013
 
-Nederlands Duits Engels Arabisch Turks Spaans economie maatschappijleer II aardrijkskunde geschiedenis en staatsinrichting wiskunde natuur- en scheikunde I biologie  
+| --- |
+|:---|
+| Nederlands  |
+| Frans  |
+| Duits  |
+| Engels  |
+| Arabisch  |
+| Turks  |
+| Spaans  |
+| economie  |
+| maatschappijleer II  |
+| aardrijkskunde  |
+| geschiedenis en staatsinrichting  |
+| wiskunde  |
+| natuur- en scheikunde I  |
+| biologie  |
 
 ### Tabel  5e  
 
-####basisberoepsgerichte leerweg 2011
+####basisberoepsgerichte leerweg 2013
 
-Nederlands Frans Duits Engels economie maatschappijleer II aardrijkskunde geschiedenis en staatsinrichting wiskunde natuur- en scheikunde I biologie  
+| --- |
+|:---|
+| Nederlands  |
+| Frans  |
+| Duits  |
+| Engels  |
+| economie  |
+| maatschappijleer II  |
+| aardrijkskunde  |
+| geschiedenis en staatsinrichting  |
+| wiskunde  |
+| natuur- en scheikunde I  |
+| biologie  |
 
 ### Tabel  5f  
 
-####basisberoepsgerichte leerweg 2011
+####basisberoepsgerichte leerweg 2013
 
-bouwtechniek-timmeren bouwtechniek-fijnhoutbewerken bouwtechniek-metselen bouwtechniek-schilderen bouw-breed elektrotechniek grafimedia installatietechniek metaaltechniek transport en logistiek voertuigentechniek metalektro instalektro techniek-breed ICT-route uiterlijke verzorging verzorging zorg-en-welzijn-breed sport, dienstverlening en veiligheid intersectoraal technologie en commercie intersectoraal technologie en dienstverlening intersectoraal dienstverlening en commercie administratie consumptief-horeca consumptief-bakken handel en verkoop mode en commercie handel en administratie consumptief-breed plantenteelt open teelten plantenteelt gesloten teelten groene ruimte bloembinden en -schikken dierhouderij & verzorging productiedieren dierhouderij & verzorging gezelschapsdieren verwerking agrarische producten landbouw-breed  
+| --- |
+|:---|
+| bouwtechniek-timmeren  |
+| bouwtechniek-fijnhoutbewerken  |
+| bouwtechniek-metselen  |
+| bouwtechniek-schilderen  |
+| bouw-breed  |
+| elektrotechniek  |
+| grafimedia  |
+| installatietechniek  |
+| metaaltechniek  |
+| transport en logistiek  |
+| voertuigentechniek  |
+| metalektro  |
+| instalektro  |
+| techniek-breed  |
+| ICT-route  |
+| uiterlijke verzorging  |
+| verzorging  |
+| zorg-en-welzijn-breed  |
+| sport, dienstverlening en veiligheid  |
+| intersectoraal technologie en commercie  |
+| intersectoraal technologie en dienstverlening  |
+| intersectoraal dienstverlening en commercie  |
+| administratie  |
+| consumptief-horeca  |
+| consumptief-bakken  |
+| handel en verkoop  |
+| mode en commercie  |
+| handel en administratie  |
+| consumptief-breed  |
+| plantenteelt open teelten  |
+| plantenteelt gesloten teelten  |
+| groene ruimte  |
+| bloembinden en -schikken  |
+| dierhouderij & verzorging productiedieren  |
+| dierhouderij & verzorging gezelschapsdieren  |
+| verwerking agrarische producten  |
+| landbouw-breed  |
 

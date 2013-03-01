@@ -62,9 +62,7 @@ s. eigenrisicodrager: de werkgever aan wie op grond van [artikel 40 van de Wfsv]
 
 t. gebruikers: het UWV, de SVB en de colleges van burgemeester en wethouders;  
 
-u. elektronische voorzieningen: elektronische voorzieningen als bedoeld in [artikel 62, tweede lid, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
-
-v. WIJ: [Wet investeren in jongeren](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md).    
+u. elektronische voorzieningen: elektronische voorzieningen als bedoeld in [artikel 62, tweede lid, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).    
 
 ### Hoofdstuk  2  
 
@@ -110,6 +108,7 @@ f. ketenprestaties, bij het UWV en colleges van burgemeester en wethouders.
 
 ####Dienstverlening in en inrichting van locaties werk en inkomen
 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2012/283.   
 1.  Geïntegreerde dienstverlening als bedoeld in [artikel 10, eerste lid, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) houdt in dat het UWV en de colleges van burgemeester en wethouders in de locaties werk en inkomen gezamenlijk: 
 
 a. diensten verlenen op een gemeenschappelijke en herkenbare locatie, die zich naar derden presenteert onder de naam werkplein;  
@@ -132,6 +131,7 @@ g. op maat en vraaggericht diensten verlenen aan werkgevers met betrekking tot v
 
 ####Organisatie regionaal arbeidsmarktbeleid
 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2012/283.   
 1.  Het UWV wijst in evenwichtig gespreide regio’s locaties werk en inkomen aan, waar vorm wordt gegeven aan regionale samenwerking ten behoeve van arbeidsmarktbeleid.   
 2.  Het college van burgemeester en wethouders van de gemeente waarin een locatie werk en inkomen als bedoeld in het eerste lid is gevestigd, draagt zorg voor de totstandkoming, organisatie en ondersteuning van een regionaal netwerk van werk, inkomen en scholing, waarin periodiek overleg wordt gevoerd over afstemming van regionale arbeidsmarktvraagstukken en uitvoering van regionale arbeidsmarktprojecten.   
 3.  Aan het regionale netwerk, bedoeld in het tweede lid, wordt in ieder geval deelgenomen door werkgevers of vertegenwoordigers daarvan, organisaties van werknemers, instanties als bedoeld in artikel 2.3, tweede lid, het UWV en alle gemeenten uit de regio. De deelnemers van het regionale netwerk kiezen uit hun midden een voorzitter, die de activiteiten van het netwerk coördineert.   
@@ -146,6 +146,7 @@ b. regionale arbeidsmarktanalyse.
 
 ####Rapportage uitvoering geïntegreerde dienstverlening
 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2012/283.   
 1.  Het UWV en de colleges van burgemeester en wethouders van de gemeenten die bij een locatie werk en inkomen zijn betrokken, stellen een gezamenlijk jaarplan op, waarin op basis van een gedeelde arbeidsmarktanalyse, wordt vermeld op welke wijze uitwerking wordt gegeven aan artikel 2.3. en in geval van samenwerking in de vorm van een regionale werkplein op welke wijze uitwerking wordt gegeven aan artikel 2.4. Het gezamenlijke jaarplan wordt bekend gemaakt op een daartoe ingerichte website.   
 2.  Het UWV en de colleges van burgemeester en wethouders die bij een locatie werk en inkomen zijn betrokken, stellen een gezamenlijk jaarverslag op, waarin verantwoording wordt afgelegd over de onderwerpen uit het jaarplan. Het gezamenlijke jaarverslag wordt bekend gemaakt op de website, bedoeld in het eerste lid.   
 3.  In gezamenlijke tussentijdse verslagen van het UWV en van vertegenwoordigende organisaties van de gemeenten wordt gerapporteerd over de behaalde resultaten en de vastgestelde tekortkomingen, en wordt vermeld op welke wijze is voldaan aan de invulling van de samenwerking, bedoeld in dit hoofdstuk, en welke verbeteringen in de organisatie van de dienstverlening op de locaties werk en inkomen worden aangebracht.   
@@ -155,6 +156,7 @@ b. regionale arbeidsmarktanalyse.
 
 ####Gegevensverwerking geïntegreerde dienstverlening
 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2012/283.   
 1.  Ten behoeve van geïntegreerde dienstverlening dragen het UWV en de colleges van burgemeester en wethouders zorg voor de gezamenlijke verwerking van gegevens, bedoeld in [artikel 62, derde lid, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).   
 2.  Het UWV en de colleges van burgemeester en wethouders dragen gezamenlijk zorg voor de inrichting van een landelijk systeem voor de verwerking van gegevens die betrekking hebben op geïntegreerde dienstverlening aan werkzoekenden op het gebied van werk en aan werkgevers in verband met melding van vacatures, en voor het beschikbaar maken van informatie voor beleidsvorming, statistiek en management over de inzet van re-integratievoorzieningen.   
 3.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de inrichting van het landelijk systeem en de gegevensset.   
@@ -196,7 +198,7 @@ b. de uitzetting van de vreemdeling is gelast, tenzij die uitzetting ingevolge d
 
 ####Inhoud van contracten publieke uitvoerders/re-integratiebedrijven
 
-1.  Bij de toepassing van [artikel 30a, achtste lid, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) laat het UWV de werkzaamheden verrichten op grond van een schriftelijke overeenkomst waarin in elk geval is geregeld, dat het re-integratiebedrijf verplicht is: 
+1.  Bij de toepassing van [artikel 30a, negende lid, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) laat het UWV de werkzaamheden verrichten op grond van een schriftelijke overeenkomst waarin in elk geval is geregeld, dat het re-integratiebedrijf verplicht is: 
 
 a. alle gegevens en inlichtingen omtrent deze werkzaamheden op verzoek aan het UWV te verstrekken, voor zover dit noodzakelijk is voor de uitvoering van de in de aanhef genoemde wetten;  
 
@@ -212,7 +214,17 @@ f. de gegevens die het re-integratiebedrijf in verband met deze werkzaamheden ve
 
 g. indien dit re-integratiebedrijf deze werkzaamheden laat verrichten door een ander re-integratiebedrijf in een schriftelijke overeenkomst met dat andere re-integratiebedrijf te regelen dat voor dat bedrijf, die persoon of dienst de verplichtingen jegens het UWV, bedoeld in de onderdelen a tot en met f, gelden.     
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het eerste lid.   
-3.  Indien het college van burgemeester en wethouders werkzaamheden, die in het kader van de voorzieningen, bedoeld in de [artikelen 7, eerste lid, onderdeel a, en derde lid, van de WWB](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [5, eerste lid, tweede gedachtestreepje, van de WIJ](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), [34, eerste lid, onderdeel a, van de IOAW](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en [artikel 34, eerste lid, onderdeel a, van de IOAZ](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), worden uitgevoerd, laat uitvoeren door een re-integratiebedrijf is het eerste lid van overeenkomstige toepassing, waarbij in de overeenkomst tevens is geregeld, dat het college op verzoek of uit eigen beweging in kennis worden gesteld van het gegronde vermoeden dat een persoon voor wie de voorzieningen zijn bestemd, onvoldoende medewerking verleent aan deze werkzaamheden, voorzover dit noodzakelijk is voor de uitvoering van genoemde wetten.   
+3.  Indien het college van burgemeester en wethouders werkzaamheden, die in het kader van de voorzieningen, bedoeld in de [artikelen 7, eerste lid, onderdeel a, en zevende lid, van de WWB](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [34, eerste lid, onderdeel a, van de IOAW](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en [artikel 34, eerste lid, onderdeel a, van de IOAZ](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), worden uitgevoerd, laat uitvoeren door een re-integratiebedrijf is het eerste lid van overeenkomstige toepassing, waarbij in de overeenkomst tevens is geregeld, dat het college op verzoek of uit eigen beweging in kennis worden gesteld van het gegronde vermoeden dat een persoon voor wie de voorzieningen zijn bestemd, onvoldoende medewerking verleent aan deze werkzaamheden, voorzover dit noodzakelijk is voor de uitvoering van genoemde wetten.   
+
+### §  4.1a  
+
+####Taakverdeling eigenrisicodrager en UWV
+
+### Artikel  4.1a  
+
+####Re-integratieverantwoordelijkheid UWV voor ontvangers WGA-uitkeringen bij eigenrisicodragen
+
+Het UWV heeft de taak, bedoeld in [artikel 30a, eerste lid, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) ten aanzien van de werknemer, die recht heeft op een WGA-uitkering in de zin van de [Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) als bedoeld in [artikel 82, eerste lid, van de Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), en die op de eerste dag van arbeidsongeschiktheid tot werken in een dienstbetrekking stond van een eigenrisicodrager als bedoeld in de Wet WIA waarbij die dag gelegen is vóór de dag van ingang van het eigenrisicodragen, indien die eigenrisicodrager een kleine of middelgrote werkgever is als bedoeld in [artikel 2.5, eerste lid, onderdelen b en c, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md).  
 
 ### §  4.2  
 
@@ -222,17 +234,9 @@ g. indien dit re-integratiebedrijf deze werkzaamheden laat verrichten door een a
 
 ####Mogelijkheid individuele re-integratieovereenkomst te sluiten door UWV
 
-1.  Het UWV kan ten behoeve van een persoon als bedoeld in [artikel 30a, eerste lid, onderdelen a en c, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) of de werknemer, bedoeld in [artikel 72, eerste lid, van de WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md), op diens aanvraag een individuele re-integratieovereenkomst sluiten met een re-integratiebedrijf, overeenkomstig de voorkeur van de aanvrager, ter uitvoering van werkzaamheden die zijn gericht op de inschakeling in het arbeidsproces.   
+1.  Het UWV kan ten behoeve van een persoon als bedoeld in [artikel 30a, eerste lid, onderdelen a en c, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), met uitzondering van een uitkeringsgerechtigde op grond van de [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) tenzij sprake is van een werknemer als bedoeld in [artikel 20, zesde lid, onderdeel a, van die wet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) en met uitzondering van een uitkeringsgerechtigde op grond van de Wet inkomensvoorziening oudere werklozen, op diens aanvraag een individuele re-integratieovereenkomst sluiten met een re-integratiebedrijf, overeenkomstig de voorkeur van de aanvrager, ter uitvoering van werkzaamheden die zijn gericht op de inschakeling in het arbeidsproces.   
 2.  Het UWV bepaalt het ten hoogste aan het re-integratiebedrijf verschuldigde bedrag voor de uitvoering van de individuele re-integratieovereenkomst, bedoeld in het eerste lid, en het tijdvak waarvoor de individuele re-integratieovereenkomst, bedoeld in het eerste lid, wordt gesloten.   
 3.  Bij ministeriële regeling kunnen regels worden gesteld omtrent de voorwaarden waaronder door het UWV een individuele re-integratieovereenkomst als bedoeld in het eerste lid, kan worden gesloten en omtrent de inhoud van de individuele re-integratieovereenkomst, bedoeld in het eerste lid.   
-
-### Artikel  4.2a  
-
-####Mogelijkheid individuele re-integratieovereenkomst te sluiten door overheidswerkgever
-
-1.  De overheidswerkgever kan ten behoeve van de werknemer, bedoeld in [artikel 72a, van de WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md), op diens aanvraag een individuele re-integratieovereenkomst sluiten met een re-integratiebedrijf, overeenkomstig de voorkeur van de aanvrager, ter uitvoering van werkzaamheden die zijn gericht op de inschakeling in het arbeidsproces.   
-2.  De overheidswerkgever bepaalt het ten hoogste aan het re-integratiebedrijf verschuldigde bedrag voor de uitvoering van de individuele re-integratieovereenkomst, bedoeld in het eerste lid, en het tijdvak waarvoor de individuele re-integratieovereenkomst, bedoeld in het eerste lid, wordt gesloten.   
-3.  Bij ministeriële regeling kunnen regels worden gesteld omtrent de voorwaarden waaronder door de overheidswerkgever een individuele re-integratieovereenkomst als bedoeld in het eerste lid kan worden gesloten en omtrent de inhoud van de individuele re-integratieovereenkomst, bedoeld in het eerste lid.   
 
 ### Artikel  4.3  
 
@@ -240,14 +244,12 @@ g. indien dit re-integratiebedrijf deze werkzaamheden laat verrichten door een a
 
 1.  In geval van een toekennende beschikking op een aanvraag als bedoeld in artikel 4.2, eerste lid, sluit het UWV binnen zes weken na het nemen van die beschikking een overeenkomst met een re-integratiebedrijf dat de in artikel 4.2, eerste lid, bedoelde werkzaamheden uitvoert.   
 2.  De persoon ten behoeve van wie een individuele re-integratieovereenkomst als bedoeld in artikel 4.2, eerste lid, wordt gesloten tekent een exemplaar van die overeenkomst voor gezien en verstrekt dit aan het UWV.   
-3.  In geval van een toekennende beschikking op een aanvraag als bedoeld in artikel 4.2a, eerste lid, sluit de overheidswerkgever binnen zes weken na het nemen van die beschikking een overeenkomst met een re-integratiebedrijf dat de in artikel 4.2a, eerste lid, bedoelde werkzaamheden uitvoert.   
-4.  De persoon ten behoeve van wie een individuele re-integratieovereenkomst als bedoeld in artikel 4.2a wordt gesloten tekent een exemplaar van die overeenkomst voor gezien en verstrekt dit aan de overheidswerkgever.   
 
 ### Artikel  4.4  
 
 ####Weigering van sluiting van een individuele re-integratieovereenkomst
 
-De aanvraag om een individuele re-integratieovereenkomst kan in ieder geval worden geweigerd in de gevallen waarin op grond van [artikel 4:35, eerste lid, onderdelen a en b en tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een subsidieverlening kan worden geweigerd, en indien niet wordt voldaan aan de krachtens artikel 4.2, derde lid, of artikel 4.2a, derde lid, door het UWV of de overheidswerkgever gestelde voorwaarden.  
+De aanvraag om een individuele re-integratieovereenkomst kan in ieder geval worden geweigerd in de gevallen waarin op grond van [artikel 4:35, eerste lid, onderdelen a en b en tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een subsidieverlening kan worden geweigerd, en indien niet wordt voldaan aan de krachtens artikel 4.2, derde lid, door het UWV gestelde voorwaarden.  
 
 ### Artikel  4.5  
 
@@ -486,16 +488,16 @@ j. *loongerelateerde gegevens*: lonen, aantal SV-dagen, aantal verloonde uren, i
 
 ####Gegevens eenmalige uitvraag
 
-1.  In bijlage II bij dit besluit wordt vermeld welke soort gegevens op grond van de [artikelen 33a, tweede lid](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), en [35, vijfde lid, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [14, eerste lid, van de IOAW](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), [14, eerste lid, van de IOAZ](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), [46, eerste lid, van de WIJ](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) en [53a, eerste lid, van de WWB](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) niet van de belanghebbende worden verkregen en uit welke bron deze gegevens afkomstig zijn.   
+1.  In bijlage II bij dit besluit wordt vermeld welke soort gegevens op grond van de [artikelen 33a, tweede lid](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), en [35, vijfde lid, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [14, eerste lid, van de IOAW](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), [14, eerste lid, van de IOAZ](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) en [53a, eerste lid, van de WWB](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) niet van de belanghebbende worden verkregen en uit welke bron deze gegevens afkomstig zijn.   
 2.  Het UWV informeert de belanghebbende over de soort gegevens, bedoeld in het eerste lid, op het moment dat hij een aanvraag als bedoeld in [artikel 30c, eerste lid, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) dan wel een aanvraag voor een uitkering als bedoeld in [artikel 30, eerste lid, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) indient.   
 3.  Bij ministeriële regeling kan worden bepaald, dat tot een in die regeling genoemd tijdstip bepaalde onderdelen van bijlage II voor bepaalde bestuursorganen met betrekking tot bepaalde taken niet van toepassing zijn.   
 4.  Bij regeling van Onze Minister, voor zover het gegevens betreft die afkomstig zijn van de rijksbelastingdienst in overeenstemming met Onze Minister van Financiën, wordt nader bepaald voor welke gegevens het eerste lid van toepassing is.   
 
 ### Artikel  5.2b  
 
-####Correctieverzoeken in locaties werk en inkomen
+####Correctieverzoeken
 
-1.  Indien een betrokkene op wie de gegevens betrekking hebben bij het indienen van de aanvraag, bedoeld in [artikel 30c, eerste lid, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) dan wel een aanvraag voor een uitkering als bedoeld in [artikel 30, eerste lid, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), op grond van de informatie, bedoeld in artikel 5.2a, tweede lid, vaststelt, dat de gegevens niet juist of niet volledig zijn, kan hij het UWV dan wel het desbetreffende college van burgemeester en wethouders verzoeken bij de uitvoering van taken en werkzaamheden in de locaties werk en inkomen als bedoeld in [artikel 62, derde lid, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) zorg te dragen voor verbetering, aanvulling of verwijdering van deze gegevens.   
+1.  Indien een betrokkene op wie de gegevens betrekking hebben bij het indienen van de aanvraag, bedoeld in [artikel 30c, eerste lid, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) dan wel een aanvraag voor een uitkering als bedoeld in [artikel 30, eerste lid, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), op grond van de informatie, bedoeld in artikel 5.2a, tweede lid, vaststelt, dat de gegevens niet juist of niet volledig zijn, kan hij het UWV dan wel het desbetreffende college van burgemeester en wethouders verzoeken bij de uitvoering van gegevensverwerking als bedoeld in [artikel 62 van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) zorg te dragen voor verbetering, aanvulling of verwijdering van deze gegevens.   
 2.  Indien het UWV en de colleges van burgemeester en wethouders voor de verwerking van die gegevens geen verantwoordelijke in de zin van de [Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) zijn, wordt het verzoek onverwijld gezonden naar de verantwoordelijk in de zin van de [Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) om dit aan te merken als een verzoek als bedoeld in [artikel 36 van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) of een daarmee op grond van de toepasselijke wetgeving gelijk te stellen verzoek.   
 3.  Bij het desbetreffende gegeven wordt aangetekend, dat het gegeven in onderzoek is.   
 
@@ -526,7 +528,7 @@ Het UWV, de SVB en de colleges van burgemeester en wethouders zijn bevoegd uit e
 
 ####Gegevensverstrekking aan burgemeester en wethouders voor controle
 
-De Dienst Wegverkeer, bedoeld in [artikel 4a van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), is verplicht op verzoek aan colleges van burgemeester en wethouders opgaven en inlichtingen te verstrekken die noodzakelijk zijn voor de uitvoering van de [WWB](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en voor de uitvoering van de [WIJ](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md).  
+De Dienst Wegverkeer, bedoeld in [artikel 4a van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), is verplicht op verzoek aan colleges van burgemeester en wethouders opgaven en inlichtingen te verstrekken die noodzakelijk zijn voor de uitvoering van de [WWB](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).  
 
 ### §  5.3  
 
@@ -546,7 +548,7 @@ Het UWV en de SVB zijn bevoegd uit eigen beweging en verplicht op verzoek uit de
 
 a. aan de rijksbelastingdienst de gegevens die noodzakelijk zijn voor de heffing of invordering van enige rijksbelasting, van premies sociale verzekeringen als bedoeld in [artikel 2, onderdelen a en c, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en van de inkomensafhankelijke bijdrage, bedoeld in de [ZVW](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
 
-b. aan het College zorgverzekeringen, de zorgautoriteit, zorgverzekeraars als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Algemene Wet Bijzondere Ziektekosten](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), het centraal administratiekantoor, bedoeld in [artikel 1, onderdeel b, van het Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md) en de verbindingskantoren, bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md) de gegevens voorzover die noodzakelijk zijn voor de uitvoering van de [ZVW](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de [Algemene Wet Bijzondere Ziektekosten](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+b. aan het College zorgverzekeringen, de zorgautoriteit, zorgverzekeraars als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Algemene Wet Bijzondere Ziektekosten](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), het CAK, genoemd in [artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekostenverzekering](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) en de verbindingskantoren, bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md) de gegevens voorzover die noodzakelijk zijn voor de uitvoering van de [ZVW](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de [Algemene Wet Bijzondere Ziektekosten](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
 c. aan Onze Minister van Onderwijs, Cultuur en Wetenschap dan wel, voor zover het betreft het onderwijs of onderzoek op het gebied van de landbouw en de natuurlijke omgeving, Onze Minister van Landbouw, Natuur en Voedselkwaliteit de gegevens die noodzakelijk zijn voor de uitvoering van bij of krachtens een onderwijswet aan hen opgedragen taken, alsmede aan Onze Minister voor Wonen, Wijken en Integratie de gegevens die noodzakelijk zijn voor de uitvoering van de [Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md);  
 
@@ -584,15 +586,19 @@ f. aan colleges van burgemeester en wethouders de gegevens die noodzakelijk zijn
 
 g. aan colleges van burgemeester en wethouders de gegevens die noodzakelijk zijn voor het verlenen van kwijtschelding van gemeentelijke belastingen, bedoeld in [artikel 255 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md), en aan de dagelijkse besturen van de waterschappen de gegevens die noodzakelijk zijn voor het verlenen van kwijtschelding van waterschapsbelastingen, bedoeld in [artikel 144 van de Waterschapswet](../../../../wet/waterschapswet/BWBR0005108/README.md);  
 
-h. aan Onze Minister van Economische Zaken, de gegevens die noodzakelijk zijn voor de uitvoering van de S&O-afdrachtvermindering, bedoeld in [hoofdstuk VIII van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md).     
+h. aan Onze Minister van Economische Zaken, de gegevens die noodzakelijk zijn voor de uitvoering van de S&O-afdrachtvermindering, bedoeld in [hoofdstuk VIII van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md);  
+
+i. aan een college van burgemeester en wethouders, adresgegevens, waaronder adresgegevens die worden verwerkt voor de doelen, genoemd in [artikel 33, tweede lid, onderdelen a, b, en c van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), die noodzakelijk zijn voor het bijhouden van persoonsgegevens in de gemeentelijke basisadministratie van persoonsgegevens.     
 2.  Het UWV is bij de verwerking van gegevens voor de uitvoering van de taak, die krachtens de [Wet arbeid vreemdelingen](../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md) aan het UWV is opgedragen, bevoegd uit eigen beweging en verplicht op verzoek aan colleges van burgemeester en wethouders gegevens te verstrekken die noodzakelijk zijn in verband met de taken die voortvloeien uit de [Huisvestingswet](../../../../wet/huisvestingswet/BWBR0005674/README.md) en de [Woningwet](../../../../wet/woningwet/BWBR0005181/README.md).   
 3.  Het UWV is verplicht op verzoek uit de onder zijn verantwoordelijkheid gevoerde administraties kosteloos te verstrekken aan een deurwaarder die gerechtigd is tegen een schuldenaar executoriaal beslag onder derden te leggen de gegevens die ten behoeve van het leggen van dit beslag noodzakelijk zijn voor het vaststellen van de identiteit van degene die periodieke betalingen aan de schuldenaar verricht.   
+4.  Het UWV is verplicht op verzoek uit de onder zijn verantwoordelijkheid gevoerde administratie kosteloos te verstrekken aan Onze Minister en de colleges van burgemeester en wethouders de gegevens van personen die werknemer zijn van een houder van een kinderopvangvoorziening of peuterspeelzaal die noodzakelijk zijn voor het toezicht op de naleving van de kwaliteitseisen, bedoeld in [hoofdstuk 1, afdeling 3, paragraaf 2](../../../../wet/wet/kinderopvang/BWBR0017017/README.md) en in [hoofdstuk 2, afdeling 2, paragraaf 2, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../wet/wet/kinderopvang/BWBR0017017/README.md) die deze wet aan de exploitatie van kinderopvangvoorzieningen of peuterspeelzalen stelt.   
+5.  In verband met het systematisch verstrekken van gegevens als bedoeld in artikel 5.11 kunnen bij ministeriële regeling nadere regels worden gesteld omtrent de wijze waarop en de vorm waarin de adresgegevens, bedoeld in het eerste lid, onderdeel i, verstrekt worden.   
 
 ### Artikel  5.10  
 
 ####Gegevensverwerking burgemeester en wethouders met betrekking tot voortijdige schoolverlaters
 
-Het college van burgemeester en wethouders is bevoegd gegevens die worden verwerkt voor de uitvoering van taken die krachtens de [WWB](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en de [WIJ](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) aan het college van burgemeester en wethouders zijn opgedragen, verder te verwerken ten behoeve van de registratie van gegevens, bedoeld in [artikel 118h van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [artikel 8.3.2 van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 162b van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md), voor zover dat noodzakelijk is voor de doorverwijzing van voortijdige schoolverlaters naar onderwijs of arbeidsmarkt.  
+Het college van burgemeester en wethouders is bevoegd gegevens die worden verwerkt voor de uitvoering van taken die krachtens de [WWB](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) aan het college van burgemeester en wethouders zijn opgedragen, verder te verwerken ten behoeve van de registratie van gegevens, bedoeld in [artikel 118h van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [artikel 8.3.2 van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 162b van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md), voor zover dat noodzakelijk is voor de doorverwijzing van voortijdige schoolverlaters naar onderwijs of arbeidsmarkt.  
 
 ### Artikel  5.11  
 
@@ -669,7 +675,7 @@ b. totaal aantal werknemers naar jaar, geslacht, leeftijd, sector als bedoeld in
 
 ####Gegevensverstrekking door eigenrisicodragers aan gemeenten
 
-Eigenrisicodragers, die het risico dragen van de betaling van uitkeringen aan personen, ten aanzien van wie op grond van [artikel 7, eerste lid, onderdeel a, van de WWB](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of op grond van [artikel 11, eerste lid, van de WIJ](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) een verantwoordelijkheid bestaat, verstrekken op verzoek aan colleges van burgemeester en wethouders opgaven en inlichtingen die noodzakelijk zijn voor de uitvoering van [artikel 7, eerste lid, onderdeel a, van de WWB](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of voor de uitvoering van [artikel 11, eerste lid, van de WIJ](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) ten aanzien van die personen.  
+Eigenrisicodragers, die het risico dragen van de betaling van uitkeringen aan personen, ten aanzien van wie op grond van [artikel 7, eerste lid, onderdeel a, van de WWB](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) een verantwoordelijkheid bestaat, verstrekken op verzoek aan colleges van burgemeester en wethouders opgaven en inlichtingen die noodzakelijk zijn voor de uitvoering van [artikel 7, eerste lid, onderdeel a, van de WWB](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) ten aanzien van die personen.  
 
 ### Artikel  5.1.7  
 
@@ -747,6 +753,13 @@ d. het, na overleg met de gebruikers, doen van voorstellen aan Onze Minister ove
 3.  Op de gegevensverstrekking, bedoeld in dit artikel, is artikel 5.20 van overeenkomstige toepassing.   
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de overeenkomst, bedoeld in het eerste lid.   
 
+### Artikel  5.23a  
+
+####Gebruik elektronische voorzieningen voor justitiële gegevens
+
+1.  Op het verwerken van de justitiële gegevens die het UWV, de SVB en de colleges van burgemeester en wethouders op grond van [artikel 13a van het Besluit justitiële en strafvorderlijke gegevens](../../../../AMvB/besluit/justitiële/gegevens/BWBR0016544/README.md) ontvangen voor het nemen van een besluit tot oplegging van een bestuurlijke boete ter uitvoering van de in artikel 13a, tweede lid, van dat Besluit genoemde wetten, zijn de elektronische voorzieningen, bedoeld in [artikel 62, tweede lid, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) van toepassing.   
+2.  Artikel 5.20 is van overeenkomstige toepassing, waarbij voorts regels worden gesteld voor de bewaartermijnen van de gegevens, bedoeld in het eerste lid.   
+
 ### §  5.7  
 
 ####Inlichtingenbureau
@@ -813,7 +826,7 @@ A. H. Korthals
 
 *Overzicht polisadministratie: gegevensset, doelen en herkomst*  
 
-| Gegeven  | Doelen  <sup> *   De doeleinden van de polisadministratie zijn op basis van [artikel 33, tweede lid, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md):      a.   vastleggen van gegevens van de werknemer voor de werknemersverzekeringen;       b.   besluiten over recht op uitkering of verstrekking baseren op gegevens als bedoeld onder a;       c.   verwerking van gegevens van de persoon die vrijwillig is verzekerd voor de werknemersverzekeringen;       d.   verwerken van fiscale gegevens van de werknemer die van belang zijn voor de uitvoering van de taken van de rijksbelastingdienst en       e.   verwerken van overige gegevens van de werknemer ten behoeve van de statistieken van arbeid en lonen voor het CBS.        </sup> | Herkomst  |--- | UWV, art 33.2a Wet SUWI  | UWV, art 33.2b Wet SUWI  | UWV, art 33.2c Wet SUWI  | BD, art 33.2d Wet SUWI  | CBS, art 33.2e Wet SUWI  | 1. Loonaangifte 2006  | 2. GBA  | 3. UWV (distribuerend of rest)  | 4. UWV Vrijwillig Verzekerden  | 5. Belastingdienst  | 6. SVB  |
+| Gegeven  | Doelen*  | Herkomst  |--- | UWV, art 33.2a Wet SUWI  | UWV, art 33.2b Wet SUWI  | UWV, art 33.2c Wet SUWI  | BD, art 33.2d Wet SUWI  | CBS, art 33.2e Wet SUWI  | 1. Loonaangifte 2006  | 2. GBA  | 3. UWV (distribuerend of rest)  | 4. UWV Vrijwillig Verzekerden  | 5. Belastingdienst  | 6. SVB  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *Straatadres Nederland*   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Huisnummer  | X  | X  | X  | X  | X  | X  | X  | –  | –  | –  | –  |
@@ -912,7 +925,7 @@ A. H. Korthals
 | Bedrag vergoeding reiskosten woning-werk  | –  | –  | –  | X  | X  | X  | –  | –  | –  | –  | –  |
 | Verrekende Arbeidskorting  | –  | –  | –  | X  | X  | X  | –  | –  | –  | –  | –  |
 | Bedrag genoten zeedagenaftrek  | –  | –  | –  | X  | X  | X  | –  | –  | –  | –  | –  |
-| Bedrag in WWB-uitkering of WIJ-uitkering doorbetaalde alimentatie  | –  | –  | –  | X  | –  | X  | –  | –  | –  | –  | –  |
+| Bedrag in WWB-uitkering doorbetaalde alimentatie  | –  | –  | –  | X  | –  | X  | –  | –  | –  | –  | –  |
 | Bedrag rechtstreeks betaalde alimentatie  | –  | –  | –  | X  | –  | X  | –  | –  | –  | –  | –  |
 | Bedrag bijtelling auto  | –  | –  | –  | X  | X  | X  | –  | –  | –  | –  | –  |
 | Bedrag eigen bijdrage voor privé-gebruik auto  | –  | –  | –  | X  | X  | X  | –  | –  | –  | –  | –  |
@@ -953,6 +966,18 @@ A. H. Korthals
 |  *Vrijwillig verzekerden*   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Code sz product  | –  | –  | X  | –  | –  | –  | –  | –  | X  | –  | –  |
 
+* De doeleinden van de polisadministratie zijn op basis van [artikel 33, tweede lid, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md): 
+
+a. vastleggen van gegevens van de werknemer voor de werknemersverzekeringen;  
+
+b. besluiten over recht op uitkering of verstrekking baseren op gegevens als bedoeld onder a;  
+
+c. verwerking van gegevens van de persoon die vrijwillig is verzekerd voor de werknemersverzekeringen;  
+
+d. verwerken van fiscale gegevens van de werknemer die van belang zijn voor de uitvoering van de taken van de rijksbelastingdienst en  
+
+e. verwerken van overige gegevens van de werknemer ten behoeve van de statistieken van arbeid en lonen voor het CBS.   
+
 ### Bijlage  II  
 
 ####Overzicht gegevens eenmalige uitvraag: gegevens en herkomst (als bedoeld in artikel 5.2a, eerste lid , Besluit SUWI)
@@ -975,7 +1000,7 @@ Gegevens over de kinderbijslag. Gegevens over de uitkeringen [Algemene nabestaan
 
 | --- | --- |
 |:---|:---|
-| [WWB](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [WIJ](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md):  | Gegevens over data uitkering.  |
+| [WWB](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md):  | Gegevens over data uitkering.  |
 | --- | Gegevens over maatregel.  |
 | --- | Gegevens over huisvesting.  |
 | --- | Gegevens over leefvorm.  |

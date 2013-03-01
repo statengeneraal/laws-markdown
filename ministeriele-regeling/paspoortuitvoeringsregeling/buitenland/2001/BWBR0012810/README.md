@@ -15,7 +15,7 @@ Besluit:
 
 ### Artikel  1  
 
-1.  In deze regeling wordt verstaan onder:   a. de wet:  de [Paspoortwet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);    b. aanvraag, weigering, verstrekking, uitreiking, houder, wijziging, inhouding, vervallen of vervallenverklaring en vermissing:  hetgeen ingevolge [artikel 1, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) daaronder wordt verstaan;    c. aanvrager:  degene die een aanvraag als bedoeld in [artikel 1, onder a, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) indient of op wie een dergelijke aanvraag betrekking heeft;    d. register paspoortsignaleringen:  het register, bedoeld in [artikel 25, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);    e. signalerende autoriteit:  de autoriteit, bedoeld in de [artikelen 18 tot en met 24 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), die op grond van [artikel 25 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) een verzoek tot weigering of vervallenverklaring heeft ingediend;    f. basisadministratie:  basisadministratie: de gemeentelijke basisadministratie persoonsgegevens als bedoeld in [artikel 2 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), dan wel een basisadministratie als bedoeld in [artikel 2 van de Wet basisadministraties persoonsgegevens BES](../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md), dan wel een bij Landsverordening van Aruba, Curaçao of Sint Maarten ingestelde bevolkingsadministratie;    g. basisregister reisdocumenten:  het register, bedoeld in [artikel 4a van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);    h. aanvraagsysteem reisdocumenten:  het geheel van apparatuur, programmatuur, opslagmedia en overige materialen, waarvan door de bevoegde autoriteit gebruik wordt gemaakt bij de aanvraag, verstrekking, uitreiking en registratie van reisdocumenten;    i. reisdocumentenstation:  de door de leverancier beschikbaar gestelde apparatuur en programmatuur, waarin gegevens met betrekking tot aangevraagde en uitgereikte reisdocumenten worden verwerkt en gearchiveerd en waarmee de gegevensuitwisseling tussen de bevoegde autoriteit en de leverancier plaatsvindt (reisdocumentenaanvraag- en archiefstation);    j. reisdocumentenadministratie:  de in het reisdocumentenstation en op andere wijze bij de bevoegde autoriteit opgeslagen gegevens met betrekking tot aangevraagde en uitgereikte reisdocumenten;    k. reisdocumentenmodule:  de apparatuur en programmatuur, waarmee de bevoegde autoriteit bij de aanvraag en uitreiking gegevens uitwisselt met het reisdocumentenstation en de basisadministratie;    l. standaardclausule:  een clausule, waarvan de tekst in bijlage A van deze regeling is opgenomen en die door de leverancier dan wel de bevoegde autoriteit in het reisdocument wordt aangebracht;    m. standaardformulier:  een voorbedrukt formulier, opgenomen in bijlage B van deze regeling;    n. modelformulier:  een model voor een formulier, opgenomen in bijlage C van deze regeling;    o. aanvraag-informatieformulier:  een door de Minister van Buitenlandse Zaken voorgeschreven formulier, dat bestemd is voor het opmaken van een aanvraag voor een reisdocument;    p. openbaar lichaam:  openbaar lichaam Bonaire, Sint Eustatius of Saba;    q. aanvraagnummer:  het nummer dat voorgedrukt is op het foto- en handtekeningformulier;    r. administratienummer:  het administratienummer, bedoeld in [artikel 50 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), dan wel in de [artikelen 10](../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md) en [11 van de Wet basisadministraties persoonsgegevens BES](../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md);    s. burgerservicenummer:  het nummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md);    t. bijschrijving:  bijschrijving van kinderen als bedoeld in [artikel 17 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);    u. bijschrijvingssticker:  sticker waarop de gegevens van een bij te schrijven kind zijn vermeld;    v. agentschap BPR:  het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties;    w. identificatiekaart:  een document als bedoeld in artikel 88, waarmee op elektronische wijze toegang kan worden verkregen tot het reisdocumentenstation en de daarin opgeslagen programmatuur en gegevens;    x. leverancier:  een bedrijf dat in opdracht van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties belast is met het verrichten van een of meerdere diensten die verband houden met de verstrekking van reisdocumenten;    y. distributeur:  het bedrijf dat zorg draagt voor de distributie van reisdocumenten, bijschrijvingsstickers, identificatiekaarten en overige materialen die door de leverancier worden geleverd;    z. uitgiftelocatie:  de locatie bij een bevoegde autoriteit waar de aanvragen aan de leverancier worden verzonden en de documenten en overige materialen door de distributeur worden afgeleverd;      aa.    vervallen;     bb. verblijfsdocument:  een document waaruit het verblijfsrecht van de vreemdeling ingevolge de [Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), de [Wet toelating en uitzetting BES](../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) of de Landsverordening Toelating en Uitzetting van Aruba, Curaçao of Sint Maarten blijkt;    cc. aanvraagstation:  de door de minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen apparatuur en programmatuur voor het ondersteunen van het aanvraag- en uitgifteproces van reisdocumenten;    dd. foto- en handtekeningformulier:  het in bijlage B van deze regeling opgenomen standaardformulier B8 dat bestemd is voor het in de aanvraag opnemen van de foto en handtekening, bedoeld in artikel 51, eerste en tweede lid;    ee. Aanvraagstationlocatie:  de locatie waar de bevoegde autoriteit met inachtneming van artikel 91 één of meerdere aanvraagstations heeft geplaatst;    ff. mobiel vingerafdrukopname-apparaat:  de door de minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen apparatuur en bijbehorende programmatuur voor het opnemen van vingerafdrukken indien de aanvrager op grond van [artikel 28, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) niet in persoon verschijnt.      
+1.  In deze regeling wordt verstaan onder:   a. de wet:  de [Paspoortwet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);    b. aanvraag, weigering, verstrekking, uitreiking, houder, wijziging, inhouding, vervallen of vervallenverklaring en vermissing:  hetgeen ingevolge [artikel 1, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) daaronder wordt verstaan;    c. aanvrager:  degene die een aanvraag als bedoeld in [artikel 1, onder a, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) indient of op wie een dergelijke aanvraag betrekking heeft;    d. register paspoortsignaleringen:  het register, bedoeld in [artikel 25, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);    e. signalerende autoriteit:  de autoriteit, bedoeld in de [artikelen 18 tot en met 24 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), die op grond van [artikel 25 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) een verzoek tot weigering of vervallenverklaring heeft ingediend;    f. basisadministratie:  de gemeentelijke basisadministratie persoonsgegevens als bedoeld in [artikel 2 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), dan wel een basisadministratie als bedoeld in [artikel 2 van de Wet basisadministraties persoonsgegevens BES](../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md), dan wel een bij Landsverordening van Aruba, Curaçao of Sint Maarten ingestelde bevolkingsadministratie;    g. basisregister reisdocumenten:  het register, bedoeld in [artikel 4a van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);    h. aanvraagsysteem reisdocumenten:  het geheel van apparatuur, programmatuur, opslagmedia en overige materialen, waarvan door de bevoegde autoriteit gebruik wordt gemaakt bij de aanvraag, verstrekking, uitreiking en registratie van reisdocumenten;    i. reisdocumentenstation:  de door de leverancier beschikbaar gestelde apparatuur en programmatuur, waarin gegevens met betrekking tot aangevraagde en uitgereikte reisdocumenten worden verwerkt en gearchiveerd en waarmee de gegevensuitwisseling tussen de bevoegde autoriteit en de leverancier plaatsvindt (reisdocumentenaanvraag- en archiefstation);    j. reisdocumentenadministratie:  de in het reisdocumentenstation en op andere wijze bij de bevoegde autoriteit opgeslagen gegevens met betrekking tot aangevraagde en uitgereikte reisdocumenten;    k. reisdocumentenmodule:  de apparatuur en programmatuur, waarmee de bevoegde autoriteit bij de aanvraag en uitreiking gegevens uitwisselt met het reisdocumentenstation en de basisadministratie;    l. standaardclausule:  een clausule, waarvan de tekst in bijlage A van deze regeling is opgenomen en die door de leverancier dan wel de bevoegde autoriteit in het reisdocument wordt aangebracht;    m. aanvraag-informatieformulier:  een door de Minister van Buitenlandse Zaken voorgeschreven formulier, dat bestemd is voor het opmaken van een aanvraag voor een reisdocument;    n. openbaar lichaam:  openbaar lichaam Bonaire, Sint Eustatius of Saba;    o. aanvraagnummer:  het nummer dat voorgedrukt is op het foto- en handtekeningformulier;    p. administratienummer:  het administratienummer, bedoeld in [artikel 50 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), dan wel in de [artikelen 10](../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md) en [11 van de Wet basisadministraties persoonsgegevens BES](../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md);    q. burgerservicenummer:  het nummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md);    r. agentschap BPR:  het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties;    s. identificatiekaart:  een document als bedoeld in artikel 88, waarmee op elektronische wijze toegang kan worden verkregen tot het reisdocumentenstation en de daarin opgeslagen programmatuur en gegevens;    t. leverancier:  een bedrijf dat in opdracht van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties belast is met het verrichten van een of meerdere diensten die verband houden met de verstrekking van reisdocumenten;    u. distributeur:  het bedrijf dat zorg draagt voor de distributie van reisdocumenten, identificatiekaarten en overige materialen die door de leverancier worden geleverd;    v. uitgiftelocatie:  de locatie bij een bevoegde autoriteit waar de aanvragen aan de leverancier worden verzonden en de documenten en overige materialen door de distributeur worden afgeleverd;    w.    vervallen;     x. verblijfsdocument:  een document waaruit het verblijfsrecht van de vreemdeling ingevolge de [Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), de [Wet toelating en uitzetting BES](../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) of de Landsverordening Toelating en Uitzetting van Aruba, Curaçao of Sint Maarten blijkt;    y. aanvraagstation:  de door de minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen apparatuur en programmatuur voor het ondersteunen van het aanvraag- en uitgifteproces van reisdocumenten;    z. foto- en handtekeningenformulier:  het daartoe door de leverancier beschikbaar gestelde formulier dat bestemd is voor het opnemen van de foto en de handtekening, bedoeld in artikel 51, eerste en tweede lid;    aa. Aanvraagstationlocatie:  de locatie waar de bevoegde autoriteit met inachtneming van artikel 91 één of meerdere aanvraagstations heeft geplaatst;    bb. mobiel vingerafdrukopname-apparaat:  de door de minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen apparatuur en bijbehorende programmatuur voor het opnemen van vingerafdrukken indien de aanvrager op grond van [artikel 28, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) niet in persoon verschijnt.      
 2.  Deze regeling is van toepassing op de verstrekking van reisdocumenten door de Minister van Buitenlandse Zaken en de hoofden van door hem aangewezen consulaire posten in het buitenland.   
 
 ### §  2  
@@ -28,9 +28,7 @@ Andere reisdocumenten van het Koninkrijk der Nederlanden ingevolge [artikel 2, e
 
 a. faciliteitenpaspoort;  
 
-b. tweede paspoort;  
-
-c. een voorlopig reisdocument.    
+b. tweede paspoort.    
 
 ### §  3  
 
@@ -58,18 +56,18 @@ b. laissez-passer: model laissez-passer.
 
 a. faciliteitenpaspoort: model nationaal paspoort met 34 bladzijden, dan wel met 66 bladzijden (zakenpaspoort), voorzien van standaardclausule VI;  
 
-b. tweede paspoort: model nationaal paspoort met 34 bladzijden, dan wel met 66 bladzijden (zakenpaspoort), voorzien van standaardclausule VII;  
-
-c. voorlopig reisdocument: model noodpaspoort en model laissez-passer, voorzien van standaardclausule XIII.     
+b. tweede paspoort: model nationaal paspoort met 34 bladzijden, dan wel met 66 bladzijden (zakenpaspoort), voorzien van standaardclausule VII.     
 4.  Met betrekking tot de ingevolge [artikel 2, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) genoemde Nederlandse identiteitskaart bestaat het navolgende model: model Nederlandse identiteitskaart.   
-5.  In de modellen, genoemd in het eerste lid, derde lid, onder a en b, en vierde lid, is een machineleesbare strook en een chip opgenomen.   
-6.  In het model noodpaspoort, genoemd in het tweede lid, onder a, en in het derde lid, onder c, is een machineleesbare strook opgenomen.   
+5.  In de modellen, genoemd in het eerste, derde en vierde lid, is een machineleesbare strook en een chip opgenomen.   
+6.  In het model noodpaspoort, genoemd in het tweede lid, onder a, is een machineleesbare strook opgenomen.   
+7.  Op de houderpagina van de in het eerste lid, onder a, derde lid en vierde lid, genoemde modellen van reisdocumenten wordt, indien de aanvrager Nederlander is en als ingezetene staat ingeschreven in de gemeentelijke basisadministratie persoonsgegevens, bedoeld in [artikel 2 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), het burgerservicenummer van de houder vermeld.   
+8.  De woonplaats en het adres worden niet opgenomen in de in het eerste tot en met vierde lid genoemde modellen.   
 
 ### Artikel  3a  
 
 ####Documenten zonder vingerafdrukken
 
-Een nooddocument als bedoeld in [artikel 2, eerste lid, onder f, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), of een voorlopig reisdocument als bedoeld in artikel 3, derde lid, onder c, wordt niet voorzien van vingerafdrukken van de houder.  
+Een nooddocument als bedoeld in [artikel 2, eerste lid, onder f, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) wordt niet voorzien van vingerafdrukken van de houder.  
 
 ### §  4  
 
@@ -139,7 +137,7 @@ Het hoofd van de post die een aanvraag in ontvangst neemt, is bevoegd tot heffin
 
 ####Gebruik van het modelformulier
 
-1.  Bij de aanvraag van een reisdocument voor vluchtelingen, dan wel een reisdocument voor vreemdelingen wordt gebruik gemaakt van modelformulier C1.   
+1.  Bij de aanvraag van een reisdocument voor vluchtelingen, dan wel een reisdocument voor vreemdelingen wordt gebruik gemaakt van het daartoe door het agentschap BPR beschikbaar gestelde formulier.   
 2.  Een in het eerste lid bedoeld formulier kan worden verstrekt nadat daartoe een verzoek is gedaan door het hoofd van de post, onder vermelding van de personalia van de aanvrager en de reden van de aanvraag.   
 3.  In het formulier worden naast de geslachtsnaam, voornamen, geboortedatum en geboorteplaats van de aanvrager de navolgende gegevens vermeld: 
 
@@ -443,11 +441,10 @@ d. het hoofd van de Nederlandse consulaire post in het buitenland, waar de houde
 
 ####Het opmaken van de aanvraag voor een reisdocument
 
-1.  De gegevens voor de aanvraag van een reisdocument worden opgenomen met behulp van het aanvraagstation. Bij het opmaken van een aanvraag voor een reisdocument kan, in nader door de Minister van Buitenlandse Zaken te bepalen gevallen, gebruik worden gemaakt van een daartoe bestemd aanvraag-informatieformulier.   
+1.  De foto, vingerafdrukken en handtekening van de aanvrager worden opgenomen met behulp van het aanvraagstation. Bij het opmaken van een aanvraag voor een reisdocument kan, in nader door de Minister van Buitenlandse Zaken te bepalen gevallen, gebruik worden gemaakt van een daartoe bestemd aanvraag-informatieformulier.   
 2.  In de aanvraag wordt de in artikel 91 bedoelde locatiecode, behorende bij de uitgiftelocatie, vermeld.   
 3.  In de aanvraag wordt aangegeven op welk model reisdocument deze betrekking heeft.   
-4.  In de aanvraag wordt het aantal gelijktijdig in het reisdocument bij te schrijven kinderen vermeld.   
-5.  In de aanvraag wordt het aanvraagnummer vermeld.   
+4.  In de aanvraag wordt het aanvraagnummer vermeld.   
 
 ### Artikel  36  
 
@@ -500,7 +497,7 @@ In de aanvraag voor een reisdocument, niet zijnde een Nederlandse identiteitskaa
 
 ####Bezit van of vermelding in andere reisdocumenten
 
-1.  Van de door de aanvrager overgelegde Nederlandse of buitenlandse reisdocumenten die op zijn naam zijn gesteld, dan wel van de reisdocumenten waarin hij staat bijgeschreven, worden het soort reisdocument, het documentnummer, de datum waarop de geldigheid van het document eindigt en de autoriteit die het document heeft verstrekt, in de aanvraag vermeld.   
+1.  Van de door de aanvrager overgelegde Nederlandse of buitenlandse reisdocumenten die op zijn naam zijn gesteld, dan wel van de buitenlandse reisdocumenten waarin hij staat vermeld, worden het soort reisdocument, het documentnummer, de datum waarop de geldigheid van het document eindigt en de autoriteit die het document heeft verstrekt, in de aanvraag vermeld.   
 2.  Indien het overgelegde Nederlandse reisdocument bladzijden met een nog geldig visum of een geldige verblijfstitel bevat, wordt op verzoek van de aanvrager in de aanvraag vermeld, dat in het aangevraagde reisdocument standaardclausule XII met het documentnummer van het in te leveren reisdocument wordt opgenomen.   
 
 ### Artikel  41  
@@ -508,7 +505,7 @@ In de aanvraag voor een reisdocument, niet zijnde een Nederlandse identiteitskaa
 ####Vermist of ingenomen reisdocument bij aanvraag
 
 1.  Indien een eerder uitgereikt Nederlands reisdocument is vermist of op andere gronden dan ingevolge [de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) door een daartoe bevoegde autoriteit is ingenomen, wordt dit gegeven, alsmede het nummer van het desbetreffende reisdocument en de autoriteit die het heeft verstrekt, in de aanvraag vermeld. Indien deze gegevens op het moment van de aanvraag niet voorhanden zijn, wordt hiernaar een gericht onderzoek ingesteld.   
-2.  De ingevolge [artikel 31, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) door de aanvrager af te leggen schriftelijke verklaring omtrent de vermissing geschiedt ten overstaan van de daartoe aangewezen ambtenaar overeenkomstig modelformulier C2. Indien een proces-verbaal van de plaatselijke politie wordt overgelegd, wordt daarvan een kopie gemaakt die aan de schriftelijke verklaring omtrent de vermissing wordt toegevoegd.   
+2.  De ingevolge [artikel 31, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) door de aanvrager af te leggen schriftelijke verklaring omtrent de vermissing geschiedt ten overstaan van de daartoe aangewezen ambtenaar overeenkomstig het daartoe door het agentschap BPR beschikbaar gestelde formulier. Indien een proces-verbaal van de plaatselijke politie wordt overgelegd, wordt daarvan een kopie gemaakt die aan de schriftelijke verklaring omtrent de vermissing wordt toegevoegd.   
 3.  De daartoe aangewezen ambtenaar maakt een kopie van de door de aanvrager over te leggen schriftelijke verklaring omtrent de inname van zijn reisdocument als bedoeld in [artikel 31, vierde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md).   
 4.  De schriftelijke verklaring omtrent de vermissing en de eventueel bijgevoegde kopie van het proces-verbaal van de politie dan wel de kopie van de schriftelijke verklaring omtrent de inname worden bewaard in de reisdocumentenadministratie.   
 5.  De datum waarop de schriftelijke verklaring omtrent de vermissing wordt afgelegd dan wel de schriftelijke verklaring omtrent de inname wordt overgelegd, wordt in de aanvraag vermeld.   
@@ -571,52 +568,6 @@ Indien de aanvrager ingevolge [artikel 28, derde lid, van de wet](../../../../..
 
 ### §  3  
 
-####Aanvraag voor een bijschrijving
-
-### Artikel  47  
-
-####Algemeen
-
-1.  Bijschrijving van kinderen is toegestaan in ieder geldig Nederlands reisdocument met uitzondering van de Nederlandse identiteitskaart, het diplomatiek paspoort, het dienstpaspoort, het tweede paspoort, het noodpaspoort en het laissez-passer.   
-2.  Voor elke bijschrijving van een kind in een reisdocument dient een afzonderlijke aanvraag te worden opgemaakt. Artikel 35, eerste en tweede lid, is van overeenkomstige toepassing.   
-3.  In de aanvraag wordt aangegeven of deze betrekking heeft op een bijschrijving in een gelijktijdig aangevraagd reisdocument dan wel op een bijschrijving in een reeds uitgereikt geldig reisdocument.   
-4.  Indien om bijschrijving wordt verzocht in een gelijktijdig aangevraagd reisdocument, wordt in de aanvraag het aanvraagnummer, behorende bij de aanvraag voor het desbetreffende reisdocument, vermeld.   
-5.  Indien om bijschrijving wordt verzocht in een reeds uitgereikt geldig reisdocument, wordt in de aanvraag voor de bijschrijving het documentnummer van het desbetreffende reisdocument vermeld.   
-
-### Artikel  48  
-
-####Vaststelling van de identiteit en de nationaliteit van het bij to schrijven kind
-
-1.  Voor het verkrijgen van de nodige zekerheid over de identiteit van het bij te schrijven kind en over het gegeven of deze, evenals de houder van het reisdocument waarin de bijschrijving wordt verzocht, Nederlander dan wel vreemdeling is, wordt gebruik gemaakt van het door de aanvrager overgelegde reisdocument, alsmede van de door de aanvrager bij de aanvraag verstrekte gegevens.   
-2.  Indien onzekerheid bestaat over de juistheid van de in het eerste lid bedoelde gegevens, wordt daarnaar een gericht onderzoek ingesteld. Dit onderzoek omvat zoveel mogelijk verificatie met behulp van door de aanvrager over te leggen documenten die zijn afgegeven door een bevoegde autoriteit, waaronder de geboorteakte van het bij te schrijven kind, en eventuele andere bewijsstukken. Tevens worden in dat geval nadere identificerende vragen gesteld.   
-3.  In de aanvraag wordt vermeld of de identiteit van het bij te schrijven kind is vastgesteld en met welke documenten of andere bewijsstukken de identiteitsvaststelling heeft plaatsgevonden.   
-
-### Artikel  49  
-
-####Aanvraaggegevens van het bij te schrijven kind
-
-1.  In de aanvraag voor een bijschrijving worden de volgende persoonsgegevens van het bij te schrijven kind vermeld: 
-
-a. geslachtsnaam en voornamen;  
-
-b. geboortedatum en geboorteplaats;  
-
-c. adres en woonplaats;  
-
-d. geslacht.     
-2.  In de aanvraag wordt de datum vermeld waarop de geldigheidsduur eindigt van het reisdocument waarin de bijschrijving zal plaatsvinden.   
-3.  Artikel 37, tweede tot en met vijfde lid en de artikelen 40, 42 en 44 zijn van overeenkomstige toepassing.   
-
-### Artikel  50  
-
-####Overleggen verklaring van toestemming
-
-1.  De verklaring van toestemming als bedoeld in de [artikelen 17](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) en [34 tot en met 37 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) dient schriftelijk te worden overgelegd.   
-2.  Artikel 45, tweede, derde en vierde lid, is van overeenkomstige toepassing.   
-3.  Artikel 46 is van overeenkomstige toepassing op de vaststelling van de identiteit en de bevoegdheid van degene die het gezag over het bij te schrijven kind uitoefent.   
-
-### §  4  
-
 ####Het opnemen van de foto, de vingerafdrukken en de handtekening
 
 ### Artikel  51  
@@ -624,16 +575,16 @@ d. geslacht.
 1.  De daartoe aangewezen ambtenaar vergelijkt, behoudens in het artikel 44 bedoelde geval, nauwkeurig de overgelegde foto van de aanvrager dan wel van degene ten behoeve van wie de aanvraag wordt ingediend met de persoon die voor hem staat en brengt deze foto op de bestemde plaats in het foto- en handtekeningformulier aan.   
 2.  De in het eerste lid bedoelde ambtenaar ziet, behoudens in het in artikel 43 bedoelde geval, er op toe dat in het foto- en handtekeningformulier op de bestemde plaats de duidelijk leesbare handtekening wordt geplaatst van de aanvrager dan wel van de persoon ten behoeve van wie de aanvraag van het reisdocument wordt gedaan. In de gevallen waarin gebruik wordt gemaakt van een aanvraag-informatieformulier, wordt dit formulier door de aanvrager ondertekend.   
 3.  Het foto- en handtekeningformulier wordt door de in het eerste lid bedoelde ambtenaar met gebruikmaking van het aanvraagstation gedigitaliseerd.   
-4.  Het opnemen van de vingerafdrukken als bedoeld in artikel 42a, geschiedt met gebruikmaking van het aanvraagstation. Indien de aanvrager op grond van [artikel 28, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) niet in persoon verschijnt, worden zijn vingerafdrukken opgenomen met behulp van het mobiel vingerafdrukopname-apparaat.   
+4.  Het opnemen van de vingerafdrukken als bedoeld in artikel 42a, geschiedt met gebruikmaking van het aanvraagstation. Indien de aanvrager op grond van [artikel 28, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) niet in persoon verschijnt of bij de Nederlandse vertegenwoordiging waar het document wordt aangevraagd geen aanvraagstation aanwezig is, worden zijn vingerafdrukken opgenomen met behulp van het mobiel vingerafdrukopname-apparaat.   
 
-### §  5  
+### §  4  
 
 ####Beslissing op de aanvraag en vastlegging van de gegevens in het reisdocumentenstation
 
 ### Artikel  52  
 
 1.  Een aanvraag waarbij niet is voldaan aan het bepaalde in de artikelen 9 tot en met 51 wordt niet in behandeling genomen.   
-2.  Indien de daartoe aangewezen ambtenaar, met inachtneming van het bij of krachtens de wet bepaalde, heeft beslist dat het aangevraagde reisdocument kan worden uitgereikt dan wel de aangevraagde bijschrijving kan plaatsvinden, worden in de aanvraag vermeld het feit van deze verstrekking, de datum van deze verstrekking en de datum waarop de geldigheidsduur van het uit te reiken reisdocument eindigt.   
+2.  Indien de daartoe aangewezen ambtenaar, met inachtneming van het bij of krachtens de wet bepaalde, heeft beslist dat het aangevraagde reisdocument kan worden uitgereikt, worden in de aanvraag vermeld het feit van deze verstrekking, de datum van deze verstrekking en de datum waarop de geldigheidsduur van het uit te reiken reisdocument eindigt.   
 3.  In de aanvraag voor een reisdocument waarbij sprake is van een weigering of vervallenverklaring wordt, afhankelijk van de genomen beslissing, vermeld voor welke landen het reisdocument geldig is.   
 4.  In de aanvraag voor een reisdocument voor vluchtelingen dan wel een reisdocument voor vreemdelingen wordt, afhankelijk van de nationaliteit van de persoon aan wie het reisdocument wordt uitgereikt, aangegeven welk land van de territoriale geldigheid is uitgesloten.   
 5.  In de aanvraag voor een reisdocument voor vreemdelingen, uit te reiken aan een staatloze, wordt aangegeven dat diens status van staatloze in het reisdocument moet worden vermeld.   
@@ -645,7 +596,7 @@ d. geslacht.
 2.  Indien bij de aanvraag voor het opnemen van de vingerafdrukken gebruik is gemaakt van het mobiel vingerafdrukopname-apparaat worden de gegevens uitsluitend verwerkt in een aanvraagstation dat zich op de uitgiftelocatie bevindt. Het mobiel vingerafdrukopname-apparaat wordt in het locale netwerk van de uitgiftelocatie aangesloten, waarna de daarin vastgelegde vingerafdrukken door het aanvraagstation uit het mobiel vingerafdrukopname-apparaat worden opgehaald en samengevoegd met de ingevolge artikel 51, derde lid, gedigitaliseerde foto en handtekening.   
 3.  De in het aanvraagstation vastgelegde gegevens worden verwerkt en doorgezonden naar het reisdocumentenstation.   
 
-### §  6  
+### §  5  
 
 ####Personaliseren van nooddocumenten
 
@@ -672,14 +623,14 @@ De in het aanvraagstation vastgelegde foto, handtekening en vingerafdrukken word
 
 ####Het verzenden van het aanvraagbestand
 
-De daartoe aangewezen ambtenaar zendt nadat is vastgesteld dat het aangevraagde reisdocument kan worden uitgereikt dan wel de aangevraagde bijschrijving kan plaatsvinden, het aanvraagbestand met gebruikmaking van het reisdocumentenstation naar de leverancier van de reisdocumenten. Het te verzenden aanvraagbestand wordt voorzien van een digitale handtekening van deze ambtenaar.  
+De daartoe aangewezen ambtenaar zendt nadat is vastgesteld dat het aangevraagde reisdocument kan worden uitgereikt, het aanvraagbestand met gebruikmaking van het reisdocumentenstation naar de leverancier van de reisdocumenten. Het te verzenden aanvraagbestand wordt met gebruikmaking van de aan hem toegekende identificatiekaart voorzien van een digitale handtekening.  
 
 ### Artikel  57  
 
 ####In ontvangstneming van de geleverde documenten bij het ministerie
 
-1.  De gepersonaliseerde reisdocumenten, bijschrijvingsstickers en identificatiekaarten worden bij het ministerie van Buitenlandse Zaken in ontvangst genomen door een daartoe aangewezen ambtenaar als bedoeld in artikel 89, eerste lid.   
-2.  De in het eerste lid genoemde ambtenaar toont de in artikel 89, tweede lid, bedoelde machtiging van de distributeur en legitimeert zich, op verzoek van de distributeur, met een identiteitsdocument als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) of met een Nederlands rijbewijs.   
+1.  De gepersonaliseerde reisdocumenten en identificatiekaarten worden bij het ministerie van Buitenlandse Zaken in ontvangst genomen door een daartoe aangewezen ambtenaar als bedoeld in artikel 89, eerste lid.   
+2.  De in het eerste lid genoemde ambtenaar toont de in artikel 89, tweede lid, bedoelde machtiging van de distributeur en legitimeert zich, op verzoek van de distributeur, met een identiteitsdocument als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md).   
 3.  De aflevering van de zending bij het ministerie van Buitenlandse Zaken vindt plaats op de afgesproken tijdstippen.   
 4.  Indien de persoon die de zending in ontvangst neemt zich desgevraagd niet of niet voldoende kan legitimeren dan wel onvoldoende zekerheid bestaat met betrekking tot zijn bevoegdheid om de zending in ontvangst te nemen, dan wel om enige andere reden door een handelen of nalaten van de bevoegde autoriteit een veilige aflevering op de uitgiftelocatie niet mogelijk is, draagt de distributeur de zending niet over.   
 
@@ -688,12 +639,12 @@ De daartoe aangewezen ambtenaar zendt nadat is vastgesteld dat het aangevraagde 
 ####Controle zending bij het ministerie en verdere distributie van de documenten
 
 1.  De tot ontvangst bevoegde ambtenaar bij het ministerie van Buitenlandse Zaken controleert, aan de hand van de voormelding van de leverancier, in het bijzijn van de distributeur of de zending voor het ministerie onderscheidenlijk de uitgiftelocaties in het buitenland bestemd is. Indien dit het geval is en het pakket is onbeschadigd, tekent de tot ontvangst bevoegde ambtenaar de door de distributeur overgelegde distributielijst voor ontvangst.   
-2.  Indien de zending niet voor het ministerie van Buitenlandse Zaken bestemd is, afwijkingen vertoont, beschadigd is dan wel documenten ontbreken, wordt gehandeld overeenkomstig bijlage D. Het in kennis stellen van de leverancier geschiedt met gebruikmaking van modelformulier C9.   
-3.  De documenten die voor een andere autoriteit blijken te zijn bestemd, worden op de in artikel 93 aangegeven wijze opgeslagen tot ze worden opgehaald door de leverancier. Het overdragen van de verkeerd geleverde documenten aan de leverancier geschiedt met gebruikmaking van standaardformulier B4.   
+2.  Indien de zending niet voor het ministerie van Buitenlandse Zaken bestemd is, afwijkingen vertoont, beschadigd is dan wel documenten ontbreken, wordt gehandeld overeenkomstig bijlage D. Het in kennis stellen van de leverancier geschiedt met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier.   
+3.  De documenten die voor een andere autoriteit blijken te zijn bestemd, worden op de in artikel 93 aangegeven wijze opgeslagen tot ze worden opgehaald door de leverancier. Het overdragen van de verkeerd geleverde documenten aan de leverancier geschiedt met gebruikmaking van het daartoe door de leverancier beschikbaar gestelde formulier.   
 4.  Bij de constatering dat het pakket beschadigd is, wordt het pakket in het bijzijn van de distributeur in een voor het publiek afgesloten ruimte gecontroleerd. Ook in geval van beschadiging wordt het pakket in ontvangst genomen.   
 5.  Indien de tot ontvangst bevoegde ambtenaar vaststelt dat er documenten zijn beschadigd of ontbreken, wordt hiervan door de distributeur een proces-verbaal opgemaakt.   
 6.  Het afschrift van het proces-verbaal wordt door de autoriteit bewaard.   
-7.  De Minister van Buitenlandse Zaken draagt zorg voor het op beveiligde wijze beschikbaar stellen van de zendingen gepersonaliseerde reisdocumenten, bijschrijvingsstickers en identificatiekaarten aan de tot uitreiking daarvan bevoegde ambtenaren op het ministerie en de posten.   
+7.  De Minister van Buitenlandse Zaken draagt zorg voor het op beveiligde wijze beschikbaar stellen van de zendingen gepersonaliseerde reisdocumenten en identificatiekaarten aan de tot uitreiking daarvan bevoegde ambtenaren op het ministerie en de posten.   
 
 ### Artikel  59  
 
@@ -702,7 +653,7 @@ De daartoe aangewezen ambtenaar zendt nadat is vastgesteld dat het aangevraagde 
 1.  Indien documenten niet op het verwachte tijdstip bij het ministerie van Buitenlandse Zaken worden ontvangen, wordt op een speciaal daarvoor bestemd telefoonnummer bij de leverancier informatie ingewonnen over de te verwachten levertijd.   
 2.  In het geval de zending zich nog onder de distributeur bevindt, draagt deze er zorg voor dat de zending alsnog de volgende dag wordt afgeleverd.   
 3.  In het geval documenten op een verkeerde uitgiftelocatie in Nederland zijn afgeleverd, draagt de leverancier er zorg voor dat de desbetreffende documenten, zo mogelijk nog dezelfde dag, bij het ministerie van Buitenlandse Zaken worden aangeboden.   
-4.  Het in ontvangst nemen van documenten als bedoeld in het derde lid geschiedt overeenkomstig bijlage D, met gebruikmaking van standaardformulier B4.   
+4.  Het in ontvangst nemen van documenten als bedoeld in het derde lid geschiedt overeenkomstig bijlage D, met gebruikmaking van het daartoe door de leverancier beschikbaar gestelde formulier.   
 
 ### Artikel  60  
 
@@ -710,7 +661,7 @@ De daartoe aangewezen ambtenaar zendt nadat is vastgesteld dat het aangevraagde 
 
 1.  De daartoe aangewezen ambtenaar op het ministerie of de tot uitreiking bevoegde post gaat na of de in de zending aanwezige documenten overeenkomen met de aanvraagnummers in het op de zending betrekking hebbende elektronische bericht in het reisdocumentenstation, dat door de leverancier is verzonden.   
 2.  In het reisdocumentenstation wordt geregistreerd of een document overeenkomstig de opgave in het elektronisch bericht, bedoeld in het eerste lid, is ontvangen, al dan niet is beschadigd en op de juiste wijze is geproduceerd of gepersonaliseerd.   
-3.  Indien de zending niet voor de uitgiftelocatie bestemd is, afwijkingen vertoont, beschadigd is dan wel documenten ontbreken wordt gehandeld overeenkomstig bijlage D. Het in kennis stellen van de leverancier geschiedt met gebruikmaking van modelformulier C9.   
+3.  Indien de zending niet voor de uitgiftelocatie bestemd is, afwijkingen vertoont, beschadigd is dan wel documenten ontbreken wordt gehandeld overeenkomstig bijlage D. Het in kennis stellen van de leverancier geschiedt met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier.   
 
 ### Artikel  61  
 
@@ -723,24 +674,23 @@ De daartoe aangewezen ambtenaar zendt nadat is vastgesteld dat het aangevraagde 
 
 ####Herzending van de aanvraag
 
-Indien een reisdocument of een bijschrijvingssticker is beschadigd, onjuist is geproduceerd of gepersonaliseerd, dan wel niet is ontvangen en niet alsnog ingevolge artikel 61, eerste lid, zal worden bezorgd, wordt het op het reisdocument, op de daarin opgenomen bijschrijving of op de bijschrijvingssticker betrekking hebbende aanvraagbestand opnieuw verzonden aan de leverancier.  
+Indien een reisdocument is beschadigd, onjuist is geproduceerd of gepersonaliseerd, dan wel niet is ontvangen en niet alsnog ingevolge artikel 61, eerste lid, zal worden bezorgd, wordt het op het reisdocument betrekking hebbende aanvraagbestand opnieuw verzonden aan de leverancier.  
 
 ### Artikel  63  
 
 ####Terugzending onjuist geproduceerde, gepersonaliseerde of beschadigde documenten
 
-Reisdocumenten en bijschrijvingsstickers die bij de controle van de zending in het reisdocumentenstation dan wel bij de uitreiking onjuist blijken te zijn geproduceerd of gepersonaliseerd, dan wel blijken te zijn beschadigd, worden overeenkomstig bijlage D, met gebruikmaking van modelformulier C10, teruggestuurd aan de leverancier.  
+Reisdocumenten die bij de controle van de zending in het reisdocumentenstation dan wel bij de uitreiking onjuist blijken te zijn geproduceerd of gepersonaliseerd, dan wel blijken te zijn beschadigd, worden overeenkomstig bijlage D, met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier, teruggestuurd aan de leverancier.  
 
 ### Hoofdstuk  V  
 
-####Uitreiking van het reisdocument en bijschrijvingssticker
+####Uitreiking van het reisdocument
 
 ### Artikel  64  
 
 ####Algemeen
 
-1.  Tot uitreiking van het aangevraagde reisdocument dan wel tot plaatsing van een bijschrijvingssticker wordt slechts overgegaan, nadat de identiteit van de aanvrager in zijn aanwezigheid is vastgesteld en de aanvrager de in het document weergegeven persoonsgegevens op juistheid heeft gecontroleerd, tenzij [artikel 28, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) van toepassing is.   
-2.  De plaatsing van een bijschrijvingssticker vindt plaats door dezelfde autoriteit die de aanvraag daartoe in ontvangst heeft genomen.   
+Tot uitreiking van het aangevraagde reisdocument wordt slechts overgegaan, nadat de identiteit van de aanvrager in zijn aanwezigheid is vastgesteld, tenzij [artikel 28, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) van toepassing is.  
 
 ### Artikel  64a  
 
@@ -756,12 +706,6 @@ Reisdocumenten en bijschrijvingsstickers die bij de controle van de zending in h
 1.  Indien het bij de uitreiking van het aangevraagde reisdocument in te leveren reisdocument is vermist of op andere gronden dan ingevolge de wet door een daartoe bevoegde autoriteit is ingenomen, wordt dit gegeven, alsmede het nummer van het desbetreffende reisdocument en de autoriteit die het heeft verstrekt, alsnog in de aanvraag met betrekking tot het uit te reiken reisdocument opgenomen. Indien deze gegevens op het moment van de uitreiking niet voorhanden zijn, wordt hiernaar een gericht onderzoek ingesteld.   
 2.  Artikel 41, tweede tot en met vijfde lid, is van overeenkomstige toepassing.   
 
-### Artikel  66  
-
-####Bijschrijving door middel van een sticker
-
-De ten behoeve van de bijschrijving in een bestaand reisdocument vervaardigde bijschrijvingssticker wordt door de daartoe aangewezen ambtenaar op de daarvoor bestemde pagina in het reisdocument aangebracht.  
-
 ### Artikel  67  
 
 1.  Indien de aanvrager bij de aanvraag aannemelijk heeft gemaakt dat van hem redelijkerwijs niet kan worden gevergd dat hij in persoon verschijnt bij de uitreiking, wordt het reisdocument per aangetekende post dan wel op een andere veilige wijze aan hem toegezonden.   
@@ -772,9 +716,9 @@ De ten behoeve van de bijschrijving in een bestaand reisdocument vervaardigde bi
 
 ####Registratie in het reisdocumentenstation
 
-1.  De daartoe aangewezen ambtenaar registreert de uitreiking van of de bijschrijving in een reisdocument, alsmede de inlevering van het vorige reisdocument, in het reisdocumentenstation.   
-2.  Indien bij de uitreiking blijkt dat het reisdocument of de bijschrijvingssticker is beschadigd, onjuist is geproduceerd of gepersonaliseerd dan wel uit de opslag is verdwenen, wordt dit in het reisdocumentenstation geregistreerd.   
-3.  Indien binnen drie maanden na ontvangst bij de uitgiftelocatie geen uitreiking van een geleverd reisdocument of plaatsing van een geleverde bijschrijvingssticker heeft plaatsgevonden, wordt dit geregistreerd in het reisdocumentenstation.   
+1.  De daartoe aangewezen ambtenaar registreert de uitreiking van een reisdocument, alsmede de inlevering van het vorige reisdocument, in het reisdocumentenstation.   
+2.  Indien bij de uitreiking blijkt dat het reisdocument is beschadigd, onjuist is geproduceerd of gepersonaliseerd dan wel uit de opslag is verdwenen, wordt dit in het reisdocumentenstation geregistreerd.   
+3.  Indien binnen drie maanden na ontvangst bij de uitgiftelocatie geen uitreiking van een geleverd reisdocument heeft plaatsgevonden, wordt dit geregistreerd in het reisdocumentenstation.   
 
 ### Hoofdstuk  VI  
 
@@ -799,7 +743,7 @@ Dit hoofdstuk is niet van toepassing op Nederlandse identiteitskaarten.
 
 ####Kennisgeving van de beslissing op grond van [artikel 45, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)
 
-De Minister van Buitenlandse Zaken geeft het agentschap BPR met gebruikmaking van modelformulier C6 kennis van zijn beslissing, bedoeld in [artikel 45, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md).  
+De Minister van Buitenlandse Zaken geeft het agentschap BPR met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier kennis van zijn beslissing, bedoeld in [artikel 45, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md).  
 
 ### Hoofdstuk  VII  
 
@@ -813,14 +757,14 @@ De Minister van Buitenlandse Zaken geeft het agentschap BPR met gebruikmaking va
 
 ####Vermist of ingenomen reisdocument anders dan bij aanvraag of uitreiking
 
-1.  Indien de houder van een uitgereikt reisdocument aan de Minister van Buitenlandse Zaken of het hoofd van een post buiten de gevallen, bedoeld in de artikelen 41 en 65, mededeling doet van de vermissing of de inname van het desbetreffende reisdocument, wordt de ingevolge [artikel 31, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) af te leggen schriftelijke verklaring omtrent de vermissing door de houder gedaan ten overstaan van de daartoe aangewezen ambtenaar, die de mededeling omtrent de vermissing in ontvangst neemt, overeenkomstig modelformulier C2. Indien een proces-verbaal van de plaatselijke politie wordt overgelegd, wordt daarvan een kopie gemaakt die aan de schriftelijke verklaring omtrent de vermissing wordt toegevoegd.   
+1.  Indien de houder van een uitgereikt reisdocument aan de Minister van Buitenlandse Zaken of het hoofd van een post buiten de gevallen, bedoeld in de artikelen 41 en 65, mededeling doet van de vermissing of de inname van het desbetreffende reisdocument, wordt de ingevolge [artikel 31, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) af te leggen schriftelijke verklaring omtrent de vermissing door de houder gedaan ten overstaan van de daartoe aangewezen ambtenaar, die de mededeling omtrent de vermissing in ontvangst neemt, overeenkomstig het daartoe door het agentschap BPR beschikbaar gestelde formulier. Indien een proces-verbaal van de plaatselijke politie wordt overgelegd, wordt daarvan een kopie gemaakt die aan de schriftelijke verklaring omtrent de vermissing wordt toegevoegd.   
 2.  De schriftelijke verklaring omtrent de vermissing en de eventueel bijgevoegde kopie van het proces-verbaal van de politie dan wel de overgelegde kopie van de schriftelijke verklaring die omtrent de inname is overgelegd, worden bewaard in de reisdocumentenadministratie van de autoriteit waar de in het eerste lid bedoelde mededeling is gedaan.   
 
 ### Artikel  73  
 
 ####Melding van de vermissing of inname van een reisdocument
 
-Van de vermissing of de inname van een Nederlands reisdocument als bedoeld in de artikelen 41, 65 en 72 wordt terstond melding gemaakt aan het agentschap BPR met gebruikmaking van modelformulier C7.  
+Van de vermissing of de inname van een Nederlands reisdocument als bedoeld in de artikelen 41, 65 en 72 wordt terstond melding gemaakt aan het agentschap BPR met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier.  
 
 ### §  2  
 
@@ -850,10 +794,10 @@ Van de vermissing of de inname van een Nederlands reisdocument als bedoeld in de
 
 ####Mededelingen inzake vermelding en verwijdering van de vermelding
 
-1.  Het hoofd van de post onderscheidenlijk de Minister van Buitenlandse Zaken deelt met het oog op een vermelding in het register paspoortsignaleringen op grond van [artikel 47, vierde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) het agentschap BPR de gegevens mede van de houder van een reisdocument dat van rechtswege is vervallen of waarin een bijschrijving is opgenomen die van rechtswege is vervallen, indien de houder weigert het reisdocument in te leveren dan wel de woon- of verblijfplaats van de houder niet kan worden achterhaald.   
+1.  Het hoofd van de post onderscheidenlijk de Minister van Buitenlandse Zaken deelt met het oog op een vermelding in het register paspoortsignaleringen op grond van [artikel 47, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) het agentschap BPR de gegevens mede van de houder van een reisdocument dat van rechtswege is vervallen, indien de houder weigert het reisdocument in te leveren dan wel de woon- of verblijfplaats van de houder niet kan worden achterhaald.   
 2.  Het hoofd van de post onderscheidenlijk de Minister van Buitenlandse Zaken deelt, met het oog op de verwijdering van de in het eerste lid bedoelde vermelding uit het register paspoortsignaleringen, het agentschap BPR terstond mede dat hij het in het eerste lid bedoelde reisdocument heeft ingehouden, dan wel het desbetreffende reisdocument bij hem is ingeleverd.   
-3.  De in het eerste en tweede lid bedoelde mededeling geschiedt met gebruikmaking van modelformulier C7.   
-4.  Van het van rechtswege vervallen van een reisdocument ingevolge [artikel 47, eerste lid, onder a, b, c, e, f of h van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) wordt, met het oog op de vermelding daarvan in het basisregister reisdocumenten, terstond melding gedaan aan het agentschap BPR met gebruikmaking van modelformulier C7.   
+3.  De in het eerste en tweede lid bedoelde mededeling geschiedt met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier.   
+4.  Van het van rechtswege vervallen van een reisdocument ingevolge [artikel 47, eerste lid, onder a, b, c, e, f of h van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) wordt, met het oog op de vermelding daarvan in het basisregister reisdocumenten, terstond melding gedaan aan het agentschap BPR met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier.   
 
 ### §  4  
 
@@ -861,11 +805,11 @@ Van de vermissing of de inname van een Nederlands reisdocument als bedoeld in de
 
 ### Artikel  77  
 
-De Minister van Buitenlandse Zaken geeft van een gevonden reisdocument, niet zijnde een nooddocument, met gebruikmaking van modelformulier C4 terstond kennis aan het Expertise Centrum Identiteitsfraude en Documenten van de Koninklijke Marechaussee.  
+De Minister van Buitenlandse Zaken geeft van een gevonden reisdocument, niet zijnde een nooddocument, met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier terstond kennis aan het Expertise Centrum Identiteitsfraude en Documenten van de Koninklijke Marechaussee.  
 
 ### Hoofdstuk  VIII  
 
-####Definitieve onttrekking van reisdocumenten en ongedaan maken van bijschrijvingen
+####Definitieve onttrekking van reisdocumenten
 
 ### §  1  
 
@@ -883,49 +827,33 @@ b. het daartoe, al dan niet bij de uitreiking van een nieuw reisdocument, is ing
 
 c. het vervallen is verklaard dan wel ingevolge [artikel 54, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) is ingehouden, tenzij nog een beroepstermijn open staat, een beroepsprocedure aanhangig is of het reisdocument anderszins in een gerechtelijke procedure nodig is;  
 
-d. het na uitreiking als onbruikbaar is beschouwd ten gevolge van misdruk, verkeerde personalisatie of de onjuiste plaatsing van de bijschrijvingssticker en dientengevolge is ingehouden of ingeleverd;  
+d. het na uitreiking als onbruikbaar is beschouwd ten gevolge van misdruk of verkeerde personalisatie en dientengevolge is ingehouden of ingeleverd;  
 
 e. het als gevonden reisdocument is ontvangen, tenzij hij in de gelegenheid is om het in persoon terug te geven aan de houder, die nog geen verklaring als bedoeld in [artikel 31 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) heeft afgelegd.     
 2.  Het reisdocument wordt definitief aan het verkeer onttrokken door het deugdelijk te vernietigen, dan wel het geheel of gedeeltelijk onbruikbaar gemaakt aan de houder terug te geven ingevolge het derde lid. De vernietiging geschiedt door het reisdocument op gecontroleerde wijze te verbranden of te versnipperen, zodat reconstructie van het reisdocument niet meer mogelijk is.   
 3.  Op verzoek van de houder wordt diens nationaal paspoort, Nederlandse identiteitskaart, faciliteitenpaspoort, tweede paspoort, reisdocument voor vluchtelingen, reisdocument voor vreemdelingen, diplomatiek paspoort of dienstpaspoort na inlevering, onbruikbaar gemaakt aan hem teruggegeven.   
 4.  Het onbruikbaar maken geschiedt door het aanbrengen van drie ponsgaten (elk van tenminste 12 mm) door het gehele reisdocument op zodanige wijze dat het in het reisdocument aangebrachte kinegram gedeeltelijk en de aangebrachte chip geheel onbruikbaar worden gemaakt.   
 5.  Indien het ingeleverde reisdocument bladzijden met een nog geldig visum of een geldige verblijfstitel bevat en in verband daarmee het verzoek is gedaan, bedoeld in artikel 40, tweede lid, worden de desbetreffende bladzijden en het documentnummer intact gelaten.   
-6.  In afwijking van het tweede lid wordt een reisdocument, dat ingevolge het eerste lid, onder d, tengevolge van misdruk of verkeerde personalisatie is ingehouden of ingeleverd, definitief aan het verkeer onttrokken door het, met gebruikmaking van modelformulier C10, terug te sturen aan de leverancier.   
+6.  In afwijking van het tweede lid wordt een reisdocument, dat ingevolge het eerste lid, onder d, tengevolge van misdruk of verkeerde personalisatie is ingehouden of ingeleverd, definitief aan het verkeer onttrokken door het, met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier, terug te sturen aan de leverancier.   
 7.  De in het eerste lid, onder e, en in het derde lid bedoelde teruggave van een reisdocument vindt niet plaats, indien het reisdocument op grond van [artikel 47, eerste lid, onder a, b, c, g of h, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) van rechtswege is vervallen, op grond van [54, eerste lid, onder b, c en e, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) is ingehouden, dan wel artikel 110, tweede lid, of artikel 111, tweede lid, van toepassing is.   
-8.  Een bijschrijvingssticker die niet binnen drie maanden na ontvangst bij de uitgiftelocatie in het daartoe bestemde reisdocument is aangebracht, wordt op de in het tweede lid aangegeven wijze deugdelijk vernietigd.   
 
 ### §  2  
-
-####Ongedaan maken van een bijschrijving
-
-### Artikel  79  
-
-####Wijze van ongedaan maken bijschrijving
-
-Het ongedaan maken van een bijschrijving vindt plaats: 
-
-a. door het plaatsen van het in artikel 102, tweede lid, bedoelde stempel, voorzien van de paraaf van het hoofd van de post of de daartoe aangewezen ambtenaar over de tekst en de foto van de bijschrijving in het reisdocument, dan wel  
-
-b. als gevolg van de definitieve onttrekking aan het verkeer van het reisdocument waarin de bijschrijving is opgenomen.    
-
-### §  3  
 
 ####Kennisgevingen
 
 ### Artikel  80  
 
-1.  Van de definitieve onttrekking aan het verkeer van een reisdocument, niet zijnde een nooddocument of een gevonden reisdocument, alsmede de uitreiking van een vervangend reisdocument, niet zijnde een nooddocument, wordt met gebruikmaking van modelformulier C3 kennis gegeven aan: 
+Van de definitieve onttrekking aan het verkeer van een reisdocument, niet zijnde een nooddocument of een gevonden reisdocument, alsmede de uitreiking van een vervangend reisdocument, niet zijnde een nooddocument, wordt met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier kennis gegeven aan: 
 
 a. de burgemeester van de gemeente of de gezaghebber van het openbaar lichaam waar de houder als ingezetene in de basisadministratie is ingeschreven, dan wel  
 
 b. de autoriteit in Aruba, Curaçao of Sint Maarten, die het reisdocument heeft verstrekt, dan wel  
 
-c. het hoofd van de Nederlandse consulaire post in het buitenland of de burgemeester van Den Haag, Enschede, Maastricht, Echt-Susteren of Oldambt, die het reisdocument heeft verstrekt, dan wel  
+c. het hoofd van de Nederlandse consulaire post in het buitenland of de burgemeester van Bergen op Zoom, Echt-Susteren, Enschede, ’s-Gravenhage, Maastricht, Montferland of Oldambt, die het reisdocument heeft verstrekt, dan wel  
 
-d. de burgemeester van de gemeente of de gezaghebber van het openbaar lichaam waar de houder voor het laatst als ingezetene in de basisadministratie was ingeschreven, indien het reisdocument niet door een in b of c genoemde autoriteit is verstrekt.     
-2.  Van de ongedaanmaking van een bijschrijving als bedoeld in artikel 79 wordt met gebruikmaking van modelformulier C3 kennis gegeven aan de autoriteit, bedoeld in het eerste lid, onder a, b of c, die de bijschrijving heeft geplaatst, dan wel aan de burgemeester van de gemeente of de gezaghebber van het openbaar lichaam waar het bijgeschreven kind voor het laatst als ingezetene in de basisadministratie was ingeschreven, indien de bijschrijving niet door een in het eerste lid onder b of c genoemde autoriteit is geplaatst.   
+d. de burgemeester van de gemeente of de gezaghebber van het openbaar lichaam waar de houder voor het laatst als ingezetene in de basisadministratie was ingeschreven, indien het reisdocument niet door een in b of c genoemde autoriteit is verstrekt.    
 
-### §  4  
+### §  3  
 
 ####Registratie definitief aan het verkeer onttrokken reisdocumenten
 
@@ -935,7 +863,7 @@ De Minister van Buitenlandse Zaken of het hoofd van de post die:
 
 a. een door hem verstrekt reisdocument definitief aan het verkeer onttrekt, dan wel  
 
-b. door toezending van modelformulier C3 in kennis wordt gesteld van de definitieve onttrekking aan het verkeer van een door hem verstrekt reisdocument en de uitreiking van een vervangend reisdocument, registreert deze feiten in de reisdocumentenadministratie, bedoeld in artikel 82.    
+b. door toezending van het daartoe door het agentschap BPR beschikbaar gestelde formulier in kennis wordt gesteld van de definitieve onttrekking aan het verkeer van een door hem verstrekt reisdocument en de uitreiking van een vervangend reisdocument, registreert deze feiten in de reisdocumentenadministratie, bedoeld in artikel 82.    
 
 ### Hoofdstuk  IX  
 
@@ -945,10 +873,10 @@ b. door toezending van modelformulier C3 in kennis wordt gesteld van de definiti
 
 ####Opgenomen gegevens, raadpleegbaarheid, bewaartermijn
 
-1.  Van elk verstrekt reisdocument respectievelijk van elke daarin opgenomen bijschrijving wordt een administratie bijgehouden.   
+1.  Van elk verstrekt reisdocument wordt een administratie bijgehouden.   
 2.  De in het eerste lid bedoelde reisdocumentenadministratie wordt bijgehouden in het reisdocumentenstation, voor zover het de daarin overeenkomstig de artikelen 53, 54 en 68 opgenomen gegevens betreft.   
 3.  De overige gegevens met betrekking tot de aanvraag, verstrekking en uitreiking worden als afzonderlijke documenten in de reisdocumentenadministratie opgenomen op een wijze die raadpleging in samenhang met de in het tweede lid bedoelde gegevens mogelijk maakt.   
-4.  De in de reisdocumentenadministratie opgenomen gegevens worden gedurende elf jaren na de datum van verstrekking van het betreffende reisdocument dan wel de opneming van de bijschrijving in een reisdocument bewaard.   
+4.  De in de reisdocumentenadministratie opgenomen gegevens worden gedurende elf jaren na de datum van verstrekking van het betreffende reisdocument bewaard.   
 5.  In afwijking van het vierde lid worden de in de reisdocumentenadministratie opgenomen vingerafdrukken, bedoeld in artikel 42a, bewaard tot het moment dat de uitreiking van het aangevraagde reisdocument dan wel de reden voor het niet uitreiken daarvan, in het reisdocumentenstation is geregistreerd.   
 
 ### Artikel  83  
@@ -1003,7 +931,7 @@ i. i. de ambtenaren werkzaam bij de Algemene Inlichtingen- en Veiligheidsdienst 
 ####De autorisatiebevoegden reisdocumenten
 
 1.  De Minister van Buitenlandse Zaken onderscheidenlijk het hoofd van de post wijst per uitgiftelocatie tenminste twee ambtenaren aan die binnen het aanvraagsysteem reisdocumenten zullen functioneren als autorisatiebevoegde reisdocumentenstation overeenkomstig de gebruikershandleiding bij het reisdocumentenstation, bedoeld in artikel 101. Tevens wijst de minister onderscheidenlijk het hoofd van de post per aanvraagstationlocatie tenminste twee ambtenaren aan die zullen functioneren als autorisatiebevoegde aanvraagstation overeenkomstig de gebruikershandleiding bij het aanvraagstation, bedoeld in artikel 101.   
-2.  Van de aanwijzing of de vervanging van een autorisatiebevoegde wordt terstond met gebruikmaking van standaardformulier B3 melding gedaan aan het agentschap BPR, die een registratie bijhoudt van de autorisatiebevoegden en deze gegevens doorgeeft aan de leverancier.   
+2.  Van de aanwijzing of de vervanging van een autorisatiebevoegde wordt terstond met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier melding gedaan aan het agentschap BPR, die een registratie bijhoudt van de autorisatiebevoegden.   
 3.  De in het eerste lid bedoelde autoriteit draagt er zorg voor, dat een autorisatiebevoegde in staat wordt gesteld alle handelingen te verrichten die uit zijn taak voortvloeien.   
 4.  De autorisatiebevoegden zijn rechtstreeks verantwoording verschuldigd aan de Minister van Buitenlandse Zaken onderscheidenlijk het hoofd van de post.   
 
@@ -1011,11 +939,10 @@ i. i. de ambtenaren werkzaam bij de Algemene Inlichtingen- en Veiligheidsdienst 
 
 ####De identificatiekaart
 
-1.  Een autorisatiebevoegde reisdocumentenstation krijgt van de leverancier de beschikking over een identificatiekaart, waarmee op elektronische wijze toegang kan worden verkregen tot het reisdocumentenstation en de daarin opgeslagen programmatuur en gegevens.   
-2.  De autorisatiebevoegde reisdocumentenstation is verantwoordelijk voor het aanvragen, de bewaring, de uitgifte, de intrekking en het (autorisatie)beheer van de identificatiekaarten van andere personen die bevoegd zijn tot het verrichten van handelingen waarvoor toegang tot het reisdocumentenstation is vereist. Hij geeft wijzigingen terstond door aan de leverancier.   
-3.  Het aanvragen van identificatiekaarten bij de leverancier en het doorgeven van wijzigingen, alsmede het uitgeven, intrekken en beheren van de geleverde identificatiekaarten geschiedt overeenkomstig de gebruikershandleiding bij het reisdocumentenstation, bedoeld in artikel 101.   
-4.  De identificatiekaarten worden op naam uitgegeven.   
-5.  De leverancier houdt een registratie bij van de uitgegeven en ingetrokken identificatiekaarten.   
+1.  Per reisdocumentenstation worden ten minste 2 en ten hoogste 20 identificatiekaarten beschikbaar gesteld aan de autorisatiebevoegde reisdocumentenstation.   
+2.  De autorisatiebevoegde reisdocumentenstation is, met inachtneming van de gebruikershandleiding bij het reisdocumentenstation, bedoeld in artikel 101, verantwoordelijk voor het autorisatiebeheer, de bewaring van de identificatiekaarten en de registratie van de personen aan wie hij in een bepaald tijdvak een kaart verstrekt. Identificatiekaarten worden slechts verstrekt aan ambtenaren, aangesteld door of vanwege de Minister van Buitenlandse Zaken.   
+3.  De autorisatiebevoegde reisdocumentenstation registreert in het reisdocumentenstation met inachtneming van de gebruikershandleiding de intrekking van identificatiekaarten indien deze na verlies, diefstal of defect verloren zijn gegaan of onbruikbaar zijn geworden of anderszins niet langer gebruikt mogen worden. De autorisatiebevoegde draagt zorg voor de vernietiging van ingetrokken identificatiekaarten voor zover deze in zijn bezit zijn en geen nader onderzoek daaraan hoeft plaats te vinden.   
+4.  De leverancier houdt een registratie bij van de uitgegeven en ingetrokken identificatiekaarten.   
 
 ### Artikel  88a  
 
@@ -1040,8 +967,8 @@ i. i. de ambtenaren werkzaam bij de Algemene Inlichtingen- en Veiligheidsdienst 
 
 ####De tot ontvangst van gepersonaliseerde documenten bevoegde ambtenaren
 
-1.  De Minister van Buitenlandse Zaken of de door hem daartoe aangewezen ambtenaar wijst op zijn ministerie ten minste drie ambtenaren aan om zendingen van gepersonaliseerde documenten in ontvangst te nemen.   
-2.  De aanmelding, registratie en vervanging van de tot ontvangst bevoegde ambtenaren, bedoeld in het eerste lid, vindt plaats bij de distributeur met gebruikmaking van de door de distributeur daartoe kosteloos beschikbaar gestelde machtiging.   
+1.  De Minister van Buitenlandse Zaken of de door hem daartoe aangewezen ambtenaar wijst op zijn ministerie ten minste drie ambtenaren aan om zendingen van gepersonaliseerde documenten in ontvangst te nemen. Identificatiekaarten en daarop betrekking hebbende codes worden uitsluitend in ontvangst genomen door een autorisatiebevoegde reisdocumentenstation.   
+2.  De aanmelding, registratie en vervanging van de tot ontvangst bevoegde ambtenaren, bedoeld in de eerste zin van het eerste lid, vindt plaats bij de distributeur met gebruikmaking van de door de distributeur daartoe kosteloos beschikbaar gestelde machtiging.   
 3.  De machtiging wordt gewaarmerkt met een afdruk van een dienststempel als bedoeld in artikel 102, eerste lid, en de handtekening van de Minister van Buitenlandse Zaken of de door hem daartoe aangewezen ambtenaar.   
 4.  Een kopie van het in het derde lid genoemde formulier wordt op het ministerie bewaard.   
 
@@ -1060,8 +987,8 @@ i. i. de ambtenaren werkzaam bij de Algemene Inlichtingen- en Veiligheidsdienst 
 
 ####Aanmelding en registratie van aanvraagstationlocaties en uitgiftelocaties
 
-1.  De Minister van Buitenlandse Zaken of de door hem daartoe aangewezen ambtenaar meldt met gebruikmaking van standaardformulier B2 aan het agentschap BPR de aanvraagstationlocaties waar één of meerdere aanvraagstations zijn geplaatst alsmede de uitgiftelocatie waar de verzending van de aanvragen naar de leverancier geschiedt, alsmede de locatie in Nederland waar de aflevering van de zendingen door de distributeur plaatsvindt.   
-2.  Wijzigingen met betrekking tot aanvraagstationlocaties en uitgiftelocaties worden, met gebruikmaking van standaardformulier B2, tijdig gemeld aan het agentschap BPR.   
+1.  De Minister van Buitenlandse Zaken of de door hem daartoe aangewezen ambtenaar meldt met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier aan het agentschap BPR de aanvraagstationlocaties waar één of meerdere aanvraagstations zijn geplaatst alsmede de uitgiftelocatie waar de verzending van de aanvragen naar de leverancier geschiedt, alsmede de locatie in Nederland waar de aflevering van de zendingen door de distributeur plaatsvindt.   
+2.  Wijzigingen met betrekking tot aanvraagstationlocaties en uitgiftelocaties worden, met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier, tijdig gemeld aan het agentschap BPR.   
 3.  Het agentschap BPR houdt een registratie bij van de ingevolge het eerste en tweede lid aangemelde aanvraagstationlocaties en uitgiftelocaties en geeft deze gegevens door aan de leverancier.   
 4.  De leverancier wijst aan elke uitgiftelocatie een unieke locatiecode toe en meldt deze terug aan het agentschap BPR en aan de Minister van Buitenlandse Zaken.   
 
@@ -1073,22 +1000,22 @@ De vastlegging van de tijdstippen waarop een zending wordt afgeleverd, geschiedt
 
 ### §  3  
 
-####Beheer van ontvangen gepersonaliseerde reisdocumenten en bijschrijvingsstickers
+####Beheer van ontvangen gepersonaliseerde reisdocumenten
 
 ### Artikel  93  
 
-####Bewaring gepersonaliseerde reisdocumenten en bijschrijvingsstickers
+####Bewaring gepersonaliseerde reisdocumenten
 
-1.  De geleverde gepersonaliseerde reisdocumenten en bijschrijvingsstickers worden bij het ministerie van Buitenlandse Zaken, in een daartoe bestemde ruimte, bewaard op de in artikel 105 voorgeschreven wijze tot het tijdstip, dat zij door de bevoegde afdeling beschikbaar worden gesteld aan de bij het ministerie tot uitreiking bevoegde ambtenaren of doorgezonden aan de tot uitreiking bevoegde posten, dan wel worden opgehaald door de leverancier ingevolge artikel 60.   
-2.  De ingevolge het eerste lid beschikbaar gestelde of doorgezonden reisdocumenten en bijschrijvingsstickers worden, bij de desbetreffende afdeling op het ministerie of bij de desbetreffende post, bewaard op de in artikel 105 voorgeschreven wijze tot het tijdstip, dat zij door de daartoe bevoegde ambtenaar worden uitgereikt, dan wel worden geretourneerd aan de in het eerste lid bedoelde afdeling om te worden teruggestuurd aan de leverancier ingevolge artikel 63.   
-3.  Aan de hand van de gegevens in het reisdocumentenstation wordt bij de desbetreffende afdeling op het ministerie of bij de desbetreffende post nagegaan welke gepersonaliseerde reisdocumenten en bijschrijvingsstickers binnen drie maanden na de datum van ontvangst nog niet zijn uitgereikt, teneinde deze ingevolge artikel 78 definitief aan het verkeer te onttrekken.   
+1.  De geleverde gepersonaliseerde reisdocumenten worden bij het ministerie van Buitenlandse Zaken, in een daartoe bestemde ruimte, bewaard op de in artikel 105 voorgeschreven wijze tot het tijdstip, dat zij door de bevoegde afdeling beschikbaar worden gesteld aan de bij het ministerie tot uitreiking bevoegde ambtenaren of doorgezonden aan de tot uitreiking bevoegde posten, dan wel worden opgehaald door de leverancier ingevolge artikel 60.   
+2.  De ingevolge het eerste lid beschikbaar gestelde of doorgezonden reisdocumenten worden, bij de desbetreffende afdeling op het ministerie of bij de desbetreffende post, bewaard op de in artikel 105 voorgeschreven wijze tot het tijdstip, dat zij door de daartoe bevoegde ambtenaar worden uitgereikt, dan wel worden geretourneerd aan de in het eerste lid bedoelde afdeling om te worden teruggestuurd aan de leverancier ingevolge artikel 63.   
+3.  Aan de hand van de gegevens in het reisdocumentenstation wordt bij de desbetreffende afdeling op het ministerie of bij de desbetreffende post nagegaan welke gepersonaliseerde reisdocumenten binnen drie maanden na de datum van ontvangst nog niet zijn uitgereikt, teneinde deze ingevolge artikel 78 definitief aan het verkeer te onttrekken.   
 
 ### Artikel  94  
 
-####Ontbrekende gepersonaliseerde reisdocumenten en bijschrijvingsstickers
+####Ontbrekende gepersonaliseerde reisdocumenten
 
-1.  Indien op enig moment een gepersonaliseerd reisdocument of bijschrijvingssticker na aflevering en registratie daarvan in het reisdocumentenstation blijkt te ontbreken, wordt terstond een inventarisatie opgemaakt van de nog aanwezige reisdocumenten of bijschrijvingsstickers aan de hand van de gegevens in het reisdocumentenstation.   
-2.  De ontbrekende reisdocumenten en bijschrijvingsstickers worden geregistreerd in het reisdocumentenstation.   
+1.  Indien op enig moment een gepersonaliseerd reisdocument na aflevering en registratie daarvan in het reisdocumentenstation blijkt te ontbreken, wordt terstond een inventarisatie opgemaakt van de nog aanwezige reisdocumenten aan de hand van de gegevens in het reisdocumentenstation.   
+2.  De ontbrekende reisdocumenten worden geregistreerd in het reisdocumentenstation.   
 3.  Artikel 62 is van overeenkomstige toepassing.   
 
 ### §  4  
@@ -1100,7 +1027,7 @@ De vastlegging van de tijdstippen waarop een zending wordt afgeleverd, geschiedt
 ####De tot bestelling en ontvangst van blanco documenten bevoegde ambtenaren
 
 1.  De Minister van Buitenlandse Zaken of de door hem daartoe aangewezen ambtenaar wijst op zijn ministerie ten minste drie ambtenaren aan om namens hem bestellingen te doen van blanco noodpaspoorten en laissez-passer's bij de leverancier en tevens drie ambtenaren om leveringen daarvan in ontvangst te nemen.   
-2.  De aanmelding van de tot bestelling en van de tot ontvangst bevoegde ambtenaren, bedoeld in het eerste lid, alsmede wijzigingen in deze gegevens, vindt plaats bij het agentschap BPR, met gebruikmaking van de standaardformulieren B6 en B7.   
+2.  De aanmelding van de tot bestelling en van de tot ontvangst bevoegde ambtenaren, bedoeld in het eerste lid, alsmede wijzigingen in deze gegevens, vindt plaats bij het agentschap BPR, met gebruikmaking van de daartoe door het agentschap BPR beschikbaar gestelde formulieren.   
 3.  Het ingevulde registratieformulier wordt gewaarmerkt met een afdruk van een dienststempel als bedoeld in artikel 102, eerste lid.   
 4.  Het agentschap BPR houdt een registratie bij van de ingevolge het eerste lid aangemelde personen en geeft deze gegevens door aan de leverancier.   
 
@@ -1108,7 +1035,7 @@ De vastlegging van de tijdstippen waarop een zending wordt afgeleverd, geschiedt
 
 ####Bestelling en aflevering nooddocumenten
 
-1.  De nooddocumenten worden met gebruikmaking van modelformulier C11 door de daartoe aangewezen ambtenaar maximaal vier maal binnen een jaar bij de leverancier besteld. De bestelopdracht wordt gesteld op briefpapier van het ministerie van Buitenlandse Zaken en, na ondertekening van de daartoe aangewezen ambtenaar, gewaarmerkt met een afdruk van het in artikel 102, eerste lid, bedoelde dienststempel.   
+1.  De nooddocumenten worden met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier door de daartoe aangewezen ambtenaar maximaal vier maal binnen een jaar bij de leverancier besteld. De bestelopdracht wordt gesteld op briefpapier van het ministerie van Buitenlandse Zaken en, na ondertekening van de daartoe aangewezen ambtenaar, gewaarmerkt met een afdruk van het in artikel 102, eerste lid, bedoelde dienststempel.   
 2.  Het aantal blanco noodpaspoorten en laissez-passer's dat binnen een jaar kan worden besteld, wordt bepaald door de leverancier en is gebaseerd op het jaarlijkse aantal verstrekte documenten, in de periode tussen 1 oktober en 30 september, vermeerderd met vijf procent. De leverancier maakt jaarlijks voor 1 november het aantal te bestellen nooddocumenten voor het daaropvolgende jaar bekend aan de Minister van Buitenlandse Zaken.   
 3.  Indien tussen twee bestellingen blijkt dat de voorraad noodpaspoorten dan wel laissez-passer's ontoereikend zal zijn, kan een opdracht voor een spoedbestelling worden geplaatst. De opdracht voor een spoedbestelling kan slechts worden gedaan, nadat in overleg met de leverancier is vastgesteld dat het aflevertijdstip van de eerstvolgende bestelopdracht niet kan worden vervroegd. De omvang van de spoedbestelling is niet groter dan noodzakelijk om de periode tot de levering van de eerstvolgende bestelling te overbruggen.   
 4.  Alvorens een bestelopdracht te plaatsen, wordt nagegaan of de in artikel 95 bedoelde gegevens nog juist zijn.   
@@ -1212,15 +1139,15 @@ De Minister van Buitenlandse Zaken maakt binnen het aanvraagsysteem reisdocument
 
 ####Algemeen
 
-De met de uitvoering van de wet belaste autoriteiten treffen maatregelen om de onder hen berustende reisdocumenten, bijschrijvingsstickers, apparatuur, programmatuur, opslagmedia, documentatie en overige materialen te beveiligen tegen ontvreemding dan wel vernietiging ten gevolge van inbraak, diefstal, verduistering, overvallen, brand of anderszins.  
+De met de uitvoering van de wet belaste autoriteiten treffen maatregelen om de onder hen berustende reisdocumenten, apparatuur, programmatuur, opslagmedia, documentatie en overige materialen te beveiligen tegen ontvreemding dan wel vernietiging ten gevolge van inbraak, diefstal, verduistering, overvallen, brand of anderszins.  
 
 ### Artikel  105  
 
 ####Fysieke beveiliging
 
-1.  Buiten de werkuren worden de van de leverancier ontvangen reisdocumenten, de ingehouden reisdocumenten, de bijschrijvingsstickers, de opslagmedia, de documentatie en de overige materialen opgeslagen in een inbraakvertragende en brandwerende voorziening, zoals een gesloten inbraakwerende waardekast of kluis, met een waardebergingsindicatie van € 1.000,-. Deze voorziening is in een af te sluiten ruimte geplaatst.   
-2.  De plaatsen waar de reisdocumenten, de bijschrijvingsstickers, de documentatie en de overige materialen zijn opgeslagen, alsmede de ruimte waarin de apparatuur en de programmatuur zich bevinden, zijn uitgerust met een inbraakalarmeringssysteem.   
-3.  De apparatuur en programmatuur, alsmede de tijdens de werkuren uit te reiken of ingehouden reisdocumenten, de bijschrijvingsstickers en de te gebruiken documentatie en overige materialen bevinden zich, onder voortdurend toezicht, op een voor onbevoegden onbereikbare en afsluitbare plaats.   
+1.  Buiten de werkuren worden de van de leverancier ontvangen reisdocumenten, de ingehouden reisdocumenten, de opslagmedia, de documentatie en de overige materialen opgeslagen in een inbraakvertragende en brandwerende voorziening, zoals een gesloten inbraakwerende waardekast of kluis, met een waardebergingsindicatie van € 1.000,-. Deze voorziening is in een af te sluiten ruimte geplaatst.   
+2.  De plaatsen waar de reisdocumenten, de documentatie en de overige materialen zijn opgeslagen, alsmede de ruimte waarin de apparatuur en de programmatuur zich bevinden, zijn uitgerust met een inbraakalarmeringssysteem.   
+3.  De apparatuur en programmatuur, alsmede de tijdens de werkuren uit te reiken of ingehouden reisdocumenten, en de te gebruiken documentatie en overige materialen bevinden zich, onder voortdurend toezicht, op een voor onbevoegden onbereikbare en afsluitbare plaats.   
 4.  In afwijking van het eerste lid blijft de authenticatiekaart ook tijdens de werkuren opgeslagen in de voorziening, bedoeld in het eerste lid. De authenticatiekaart mag zich uitsluitend buiten de desbetreffende voorziening bevinden op het moment dat deze nodig is om het mobiel vingerafdrukopname-apparaat in het locale netwerk van de uitgiftelocatie aan te sluiten.   
 5.  In afwijking van het tweede en derde lid, staat een aanvraagstation of een mobiel vingerafdrukopname-apparaat gedurende de werkuren onder voortdurend toezicht van degene die bevoegd is tot het gebruik ervan en bevindt het zich buiten de werkuren in een voor onbevoegden onbereikbare, afsluitbare en bij voorkeur beveiligde ruimte.   
 
@@ -1238,11 +1165,11 @@ De met de uitvoering van de wet belaste autoriteiten treffen maatregelen om de o
 
 1.  De verstrekkende autoriteit beschikt over een op schrift gestelde beveiligingsprocedure. In deze beveiligingsprocedure worden in ieder geval maatregelen vastgelegd inzake: 
 
-a. de ontvangst, het transport, de bewaring en het beheer van de ontvangen reisdocumenten, de ingehouden reisdocumenten, de bijschrijvingsstickers, de apparatuur, de programmatuur, de documentatie en de overige materialen;  
+a. de ontvangst, het transport, de bewaring en het beheer van de ontvangen reisdocumenten, de ingehouden reisdocumenten, de apparatuur, de programmatuur, de documentatie en de overige materialen;  
 
 b. de verantwoordelijkheden van de beveiligingsfunctionaris als bedoeld in het derde lid;  
 
-c. de functiescheiding tussen de bij het beheer en de uitreiking van de reisdocumenten en bijschrijvingsstickers betrokken functionarissen;  
+c. de functiescheiding tussen de bij het beheer en de uitreiking van de reisdocumenten betrokken functionarissen;  
 
 d. de beveiliging van het aanvraagsysteem reisdocumenten, onder meer gericht op het voorkomen van onbevoegde toegang of gebruik van gegevens die in het systeem of tot het systeem behorende opslagmedia zijn opgenomen.     
 2.   Vervallen.    
@@ -1266,12 +1193,12 @@ d. de beveiliging van het aanvraagsysteem reisdocumenten, onder meer gericht op 
 
 ####Ontvreemding of vernietiging
 
-1.  In het geval van ontvreemding dan wel vernietiging van reisdocumenten, bijschrijvingsstickers, apparatuur, programmatuur, opslagmedia, documentatie en overige materialen ten gevolge van inbraak, diefstal, verduistering, overvallen, brand of anderszins dient de met de uitvoering van de wet belaste autoriteit daarvan terstond aangifte te doen bij de plaatselijke politie en tevens terstond het agentschap BPR daarvan in kennis te stellen.   
+1.  In het geval van ontvreemding dan wel vernietiging van reisdocumenten, apparatuur, programmatuur, opslagmedia, documentatie en overige materialen ten gevolge van inbraak, diefstal, verduistering, overvallen, brand of anderszins dient de met de uitvoering van de wet belaste autoriteit daarvan terstond aangifte te doen bij de plaatselijke politie en tevens terstond het agentschap BPR daarvan in kennis te stellen.   
 2.  De Minister van Buitenlandse Zaken zendt het agentschap BPR vervolgens binnen één werkdag, eventueel per fax, een schriftelijke kennisgeving waarin de navolgende gegevens zijn opgenomen: 
 
 a. het tijdstip en de exacte toedracht van de ontvreemding of vernietiging;  
 
-b. de nummers van de ontvreemde of vernietigde reisdocumenten en bijschrijvingsstickers, alsmede de daarin vermelde persoonsgegevens;  
+b. de nummers van de ontvreemde of vernietigde reisdocumenten, alsmede de daarin vermelde persoonsgegevens;  
 
 c. de ontvreemde of vernietigde apparatuur, programmatuur, opslagmedia, documentatie en overige materialen met de eventueel daarop vermelde nummers.     
 3.  Zodra het door de plaatselijke politie opgemaakte proces-verbaal beschikbaar is, wordt daarvan een afschrift gezonden aan het agentschap BPR.   
@@ -1285,13 +1212,13 @@ c. de ontvreemde of vernietigde apparatuur, programmatuur, opslagmedia, document
 ####Onderzoek op onregelmatigheden en melding
 
 1.  De autoriteit die in verband met een handeling op grond van deze regeling enig Nederlands reis- of identiteitsdocument krijgt overgelegd, gaat aan de hand van de door de Minister van Binnenlandse Zaken en Koninkrijksrelaties verstrekte lijst van toetsingspunten na of met het desbetreffende reisdocument enige onregelmatigheid is gepleegd.   
-2.  Indien het vermoeden bestaat dat met een overgelegd reisdocument enige onregelmatigheid is gepleegd, wordt daarvan met gebruikmaking van modelformulier C5 melding gemaakt aan het Expertise Centrum Identiteitsfraude en Documenten van de Koninklijke Marechaussee.   
+2.  Indien het vermoeden bestaat dat met een overgelegd reisdocument enige onregelmatigheid is gepleegd, wordt daarvan met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier melding gemaakt aan het Expertise Centrum Identiteitsfraude en Documenten van de Koninklijke Marechaussee.   
 
 ### Artikel  111  
 
 ####Aangifte bij de politie en definitieve onttrekking aan het verkeer
 
-1.  Indien het vermoeden bestaat dat de met het reisdocument gepleegde onregelmatigheden strafbare feiten opleveren en de vermoedelijke dader bekend is, wordt het desbetreffende reisdocument met gebruikmaking van modelformulier C5 aan het Expertise Centrum Identiteitsfraude en Documenten van de Koninklijke Marechaussee gezonden.   
+1.  Indien het vermoeden bestaat dat de met het reisdocument gepleegde onregelmatigheden strafbare feiten opleveren en de vermoedelijke dader bekend is, wordt het desbetreffende reisdocument met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier aan het Expertise Centrum Identiteitsfraude en Documenten van de Koninklijke Marechaussee gezonden.   
 2.  De autoriteit die van mening is dat met het reisdocument onregelmatigheden zijn gepleegd die geen strafbare feiten opleveren, onttrekt dit document op de in artikel 78 bedoelde wijze definitief aan het verkeer.   
 
 ### Hoofdstuk  XIII  
@@ -1300,7 +1227,7 @@ c. de ontvreemde of vernietigde apparatuur, programmatuur, opslagmedia, document
 
 ### Artikel  112  
 
-1.  De Minister van Buitenlandse Zaken verstrekt, met gebruikmaking van modelformulier C12, per kwartaal een schriftelijke verantwoording van het totale voorraadverloop met betrekking tot nooddocumenten over het voorgaande kwartaal.   
+1.  De Minister van Buitenlandse Zaken verstrekt, met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier, per kwartaal een schriftelijke verantwoording van het totale voorraadverloop met betrekking tot nooddocumenten over het voorgaande kwartaal.   
 2.  Deze verantwoording bevat, uitgesplitst naar noodpaspoorten en laissez-passer's: 
 
 a. de totale voorraad blanco nooddocumenten aan het begin van het kwartaal;  
@@ -1333,12 +1260,6 @@ De reisdocumenten die voor de inwerkingtreding van deze regeling zijn verstrekt,
 1.  Indien ingevolge artikel 9 of 36 raadpleging moet plaatsvinden van gegevens, behorende bij een reisdocument dat is uitgereikt voor de inwerkingtreding van deze regeling, verstrekt de autoriteit bij wie de gegevens in de reisdocumentenadministratie berusten op verzoek van de autoriteit die de aanvraag in ontvangst neemt kosteloos het originele aanvraagformulier, behorende bij het desbetreffende reisdocument. Alvorens tot verstrekking van het originele aanvraagformulier wordt overgegaan, maakt de desbetreffende autoriteit daarvan een kopie die in zijn reisdocumentenadministratie wordt bewaard, waarop wordt aangetekend aan welke autoriteit het originele aanvraagformulier is verstrekt.   
 2.  Na vergelijking wordt het originele aanvraagformulier bewaard als onderdeel van de reisdocumentenadministratie, behorende bij het uitgereikte nieuwe reisdocument. Indien geen nieuw reisdocument wordt uitgereikt, zendt de autoriteit die de aanvraag in behandeling heeft genomen het originele aanvraagformulier terug naar de autoriteit die het heeft verstrekt.   
 
-### Artikel  115  
-
-####Ongedaan maken bijschrijving in reisdocumenten verstrekt voor de inwerkingtreding van deze regeling
-
-In afwijking van artikel 79, onder a, vindt het ongedaan maken van een bijschrijving in een reisdocument dat voor de inwerkingtreding van deze regeling is verstrekt, plaats door deze bijschrijving met de pen op onuitwisbare wijze door te halen, het plaatsen van de clausule “Wijziging/doorhaling goedgekeurd d.d. <datum> en waarmerking van de doorhaling met het in artikel 102, eerste lid, bedoelde dienststempel, voorzien van de paraaf van de bevoegde autoriteit of de daartoe aangewezen ambtenaar.”  
-
 ### Artikel  118  
 
 ####Intrekking Paspoortuitvoeringsregeling Buitenland 1995
@@ -1363,75 +1284,21 @@ R.H.L.M. vanBoxtel
 
 ### Bijlagen  
 
-####Paspoortuitvoeringsregelingen
+####Paspoortuitvoeringsregeling Buitenland 2001
 
-A  *Standaardclausules*   
-
-B  *Standaardformulieren*  
-
-B1 Aanvraagformulier reisdocument  
-
-B2 Registratie afleveradres uitgiftelocatie  
-
-B3 Registratie autorisatiebevoegde reisdocumenten  
-
-B4 Overdracht reisdocumenten buiten locatie leverancier  
-
-B5 Registratie beveiligingsfunctionaris  
-
-B6 Registratie bestelbevoegde blanco nooddocumenten  
-
-B7 Registratie ontvangstbevoegde blanco nooddocumenten en afleveradres    
-
-C  *Modelformulieren*  
-
-C1 Vaststelling aanspraak reisdocument voor vreemdelingen  
-
-C2 Verklaring vermissing reisdocument  
-
-C3 Kennisgeving uitreiking, onttrekking reisdocument, bijschrijving/verwijdering bijschrijving  
-
-C4 Melding gevonden reisdocument  
-
-C5 Melding onregelmatigheid reisdocument  
-
-C6 Melding beslissing signalering  
-
-C7 Melding vermissing reisdocument  
-
-C8 Spoedbestelling aanvraagformulieren  
-
-C9 Melding ontvangst verkeerde of beschadigde zending reisdocumenten  
-
-C10 Geleideformulier terugzenden reisdocumenten  
-
-C11 Bestelopdracht blanco nooddocumenten  
-
-C12 Kwartaalverantwoording nooddocumenten    
-
-D  *Foutafhandelingsprocedures*  
-
-1. Nederland (Gemeenten en Ministerie van Buitenlandse Zaken)  
-
-2. Buitenland (Nederlandse posten)  
-
-3. Aruba, Curaçao en Sint Maarten (Autoriteiten in Aruba, Curaçao en Sint Maarten)    
-
-E  *Beveiligingsnet*   
-
-F  *Overzicht aanvraaggegevens*  
-
-1. Reisdocumenten niet zijnde nooddocumenten  
-
-2. Nooddocumenten    
-
-G  *Tot verstrekking van paspoorten bevoegde buitenlandse posten*   
-
-H  *Tot verstrekking van Nederlandse identiteitskaarten bevoegde buitenlandse posten*   
-
-I  *Normering IAR-kaarten*   
-
-J  *Invulinstructie laissez-passer*    
+| --- | --- |
+|:---|:---|
+|  *A*   |  *Standaardclausules*   |
+|  *B*   |  *vervallen*   |
+|  *C*   |  *vervallen*   |
+|  *D*   |  *Foutafhandelingsprocedures*   |
+|  *E*   |  *vervallen*   |
+|  *F*   |  *Overzicht aanvraaggegevens*   |
+|  *G*   |  *vervallen*   |
+|  *H*   |  *vervallen*   |
+|  *I*   |  *vervallen*   |
+|  *J*   |  *Invulinstructie laissez-passer*   |
+|  *K*   |  *Fotomatrix*   |
 
 ### Bijlage  A  
 
@@ -1481,140 +1348,7 @@ XIa Nederlandse/Netherlands/Néerlandaise
 
 XIb XXA (Staatloze/Stateless person/Apatride)    
 
-XII Dit paspoort is afgegeven ter vervanging van paspoort nummer/This passport has been issued to replace passport number/Le présent passeport remplace le passeport antérieur no...  
-
-XIII Dit paspoort is verstrekt als een tijdelijke vervanging van een door de houder aangevraagd regulier reisdocument, dat nog niet is uitgereikt.   
-
-### Bijlage  B  
-
-####Standaardformulieren
-
-### B1  
-
-####Aanvraag reisdocument
-
-![240492](http://wetten.overheid.nl/Illustration/240492)
-
-### B2  
-
-####Registratie locatie
-
-![244167](http://wetten.overheid.nl/Illustration/244167)
-
-### B3  
-
-####Registratie autorisatiebevoegde
-
-![244168](http://wetten.overheid.nl/Illustration/244168)
-
-### B4  
-
-####Overdracht Reisdocumenten buiten de locatie SDU Identification
-
-![242543](http://wetten.overheid.nl/Illustration/242543)
-
-### B5  
-
-####Registratie beveiligingsfunctionaris
-
-![240241](http://wetten.overheid.nl/Illustration/240241)
-
-### B6  
-
-####Registratie bestelbevoegde blanco nooddocumenten
-
-![244169](http://wetten.overheid.nl/Illustration/244169)
-
-### B7  
-
-####Registratie ontvangstbevoegde blanco nooddocumenten en afleveradres
-
-![244170](http://wetten.overheid.nl/Illustration/244170)
-
-### B8  
-
-####Foto- en handtekeningenformulier
-
-![244171](http://wetten.overheid.nl/Illustration/244171)
-
-### Bijlage  C  
-
-####Modelformulieren
-
-### C1  
-
-####Vaststelling aanspraak reisdocument voor vreemdelingen
-
-Niet opgenomen.    
-### C2  
-
-####Verklaring vermissing reisdocument
-
-![42797](http://wetten.overheid.nl/Illustration/42797)
-
-### C3  
-
-####Kennisgeving uitreiking, onttrekking reisdocument, bijschrijving/verwijdering bijschrijving
-
-![240244](http://wetten.overheid.nl/Illustration/240244)
-
-### C4  
-
-####Melding gevonden reisdocument
-
-![247688](http://wetten.overheid.nl/Illustration/247688)
-![247688](http://wetten.overheid.nl/Illustration/247688)
-
-### C5  
-
-####Melding onregelmatigheid reisdocument
-
-![247704](http://wetten.overheid.nl/Illustration/247704)
-![247704](http://wetten.overheid.nl/Illustration/247704)
-
-### C6  
-
-####Melding beslissing signalering
-
-![247706](http://wetten.overheid.nl/Illustration/247706)
-![247706](http://wetten.overheid.nl/Illustration/247706)
-
-### C7  
-
-####Melding vermissing reisdocument
-
-![240245](http://wetten.overheid.nl/Illustration/240245)
-
-### C8  
-
-####Spoedbestelling foto- en handtekeningformulieren
-
-![245201](http://wetten.overheid.nl/Illustration/245201)
-
-### C9  
-
-####Melding ontvangst verkeerde of beschadigde zending reisdocumenten
-
-![244173](http://wetten.overheid.nl/Illustration/244173)
-
-### C10  
-
-####Geleideformulier terugzenden reisdocumenten
-
-![244174](http://wetten.overheid.nl/Illustration/244174)
-
-### C11  
-
-####Bestelopdracht blanco nooddocumenten
-
-![247708](http://wetten.overheid.nl/Illustration/247708)
-![247708](http://wetten.overheid.nl/Illustration/247708)
-
-### C12  
-
-####Kwartaalverantwoording nooddocumenten
-
-![247709](http://wetten.overheid.nl/Illustration/247709)
+XII Dit paspoort is afgegeven ter vervanging van paspoort nummer/This passport has been issued to replace passport number/Le présent passeport remplace le passeport antérieur no...   
 
 ### Bijlage  D  
 
@@ -1735,13 +1469,13 @@ Spoedaanvraag (alleen voor gemeenten)
 
 Soort reisdocument  
 
-Huidig reisdocument/ bijschrijving – soort  
+Huidig reisdocument – soort  
 
-Huidig reisdocument/ bijschrijving – nummer  
+Huidig reisdocument – nummer  
 
-Huidig reisdocument/ bijschrijving – datum einde geldigheid  
+Huidig reisdocument – datum einde geldigheid  
 
-Huidig reisdocument/ bijschrijving – autoriteit verstrekking  
+Huidig reisdocument – autoriteit verstrekking  
 
 burgerservicenummer (alleen voor Nederlanders die in een gemeentelijke basisadministatie zijn ingeschreven)  
 
@@ -1766,8 +1500,6 @@ Lengte
 Adres  
 
 Postcode+Woonplaats  
-
-Bijschrijven kinderen (aantal kb)  
 
 Documentnummer ouder (als ks)  
 
@@ -1813,13 +1545,13 @@ Datum aanvraag
 
 Soort reisdocument  
 
-Huidig reisdocument/ bijschrijving – soort  
+Huidig reisdocument – soort  
 
-Huidig reisdocument/ bijschrijving – nummer  
+Huidig reisdocument – nummer  
 
-Huidig reisdocument/ bijschrijving – datum einde geldigheid  
+Huidig reisdocument – datum einde geldigheid  
 
-Huidig reisdocument/ bijschrijving – autoriteit verstrekking  
+Huidig reisdocument – autoriteit verstrekking  
 
 Nationaliteit  
 
@@ -1859,18 +1591,12 @@ Niet in staat tot ondertekening (SC V)
 
 Dit paspoort is afgegeven ter vervanging van (SC XII)     
 
-### Bijlage  I  
-
-####IAR-kaarten
-
-Identificatiekaarten (IAR-kaarten) worden door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) verstrekt. BZK verstrekt standaard vijf identificatiekaarten (IAR-kaarten) per door BZK beschikbaar gesteld reisdocumentenstation (RAAS). In de gevallen waar door BZK aanvullend nog een werkstation beschikbaar is gesteld, geldt dat voor dit werkstation drie IAR-kaarten worden verstrekt. Een uitgiftelocatie kan extra IAR-kaarten aanvragen. IAR-kaarten mogen alleen worden aangevraagd voor vaste medewerkers, waarbij er per uitgiftelocatie in totaal niet meer dan 20 operationele IAR-kaarten mogen zijn. Deze grens is vastgesteld uit oogpunt van beveiliging. De autorisatiebevoegde dient diefstal, verlies of onzorgvuldig gebruik van IAR-kaarten direct te melden bij Sdu Identification, zodat deze IAR-kaarten kunnen worden geblokkeerd. IAR-kaarten die defect raken bij initiële uitlevering of wegens technische mankementen worden op aanvraag vervangen. De leveringstermijn van IAR-kaarten bedraagt circa een week. Spoedaanvragen worden alleen gehonoreerd als het een calamiteit betreft, in samenhang met het plaatsen van een nieuw RAAS en/of werkstation. 
-
 ### Bijlage  J  
 
 ####Invulinstructie laissez-passer
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | --- |  *Algemene opmerkingen*   | --- |
 | --- | Het laissez passer wordt handmatig ingevuld op de hierna weergegeven wijze.  | --- |
 | --- |  *Invulinstructie per rubriek*   | --- |
@@ -1887,11 +1613,11 @@ Identificatiekaarten (IAR-kaarten) worden door het Ministerie van Binnenlandse Z
 | --- | Indien geen voornamen worden ingevuld wordt dit aangegeven met drie liggende streepjes, ---.  | --- |
 | --- | Algemene opmerking:  Indien de naam niet past in de hiervoor bestemde ruimte m.b.v. standaardclausule II verwijzen naar pagina 3.  | --- |
 |  *Nationaliteit*   | Alleen in te vullen bij Nederlanders. In andere gevallen drie liggende streepjes, ---.  | --- |
-|  *Geslacht*   | M: man  V/F: vrouw  | --- |
+|  *Geslacht*   | M/M: man  V/F: vrouw  | --- |
 |  *Lengte*   | Voorbeeld: 1,82m  (Cijfermatig in meters en centimeters vermelden gevolgd door afkorting m).  | --- |
 |  *Geboortedatum*   | Vermelden iVermelden in volgorde:  n formaat dd XXX eejj  – Twee posities dagaanduiding in cijfers.  – Spatie  – Eerste drie posities voor maandaanduiding (zie lijst hierna vermeld)  – Spatie  – Laatste vier posities eeuw- en jaartalaanduiding  | --- |
-| --- | Lijst maandafkortingen:  JAN FEB MAA APR MEI JUN JUL AUG SEP OKT NOV DEC  | --- |
-| --- | Voorbeelden:  00 --- 1956  00 JAN 1984  19 JAN 1984  Bij de toekenning van een reisdocument wordt altijd een eeuw- en jaartal aanduiding opgenomen.  | --- |
+| --- | Lijst maandafkortingen:  JAN/JAN FEB/FEB MRT/MAR APR/APR MEI/MAY JUN/JUN JUL/JUL AUG/AUG SEP/SEP OKT/OCT NOV/NOV DEC/DEC  | --- |
+| --- | Voorbeelden:  XX XX 1956  00 JAN 1984  19 JAN 1984  Bij de toekenning van een reisdocument wordt altijd een eeuw- en jaartal aanduiding opgenomen.  | --- |
 |  *Afgiftedatum*   | Zie geboortedatum  | --- |
 |  *Geboorteplaats*   | Geboorteplaatsnaam vermelden  | --- |
 |  *Geldig tot*   | Datum tot wanneer het document geldig is.  Datum weergeven zoals aangegeven bij geboortedatum.  | --- |

@@ -78,15 +78,15 @@ b. indien de werkzaamheden op verzoek worden verricht buiten kantooruren, een ba
 1°. € 539,36 als de inspectie niet langer duurt dan 3 uur;  
 
 2°. € 539,36 vermeerderd met € 3,00 per minuut voor zover de inspectie langer duurt dan 3 uur.       
-2.  In afwijking van het eerste lid wordt als vergoeding van de kosten voor het verrichten van fytosanitaire werkzaamheden ten behoeve van voor export aangeboden zendingen groenten en fruit bestemd voor de Russische Federatie, de aanvrager het volgende tarief in rekening gebracht: 
+2.  Als vergoeding voor de kosten voor de afgifte van een fytosanitair certificaat en het verrichten van het eindonderzoek ten behoeve van dat certificaat, bedoeld in artikel 15 van de Regeling invoer, uitvoer en verkeer van planten, wordt de aanvrager het volgende tarief in rekening gebracht: 
 
-a. indien de werkzaamheden op verzoek worden verricht tijdens kantooruren, een basistarief van € 215,99 per inspectieaanvraag vermeerderd met een tarief van € 1,96 per minuut;  
+a. in het geval het werkzaamheden betreft die, als het niet de in de aanhef genoemde specifieke fytosanitaire activiteiten zouden betreffen, door het KCB zouden worden verricht, de tarieven bedoeld in artikel 9, 14, 15, tweede lid, 16, 17 en 18, waarbij artikel 19 van overeenkomstige toepassing is;  
 
-b. indien de werkzaamheden op verzoek worden verricht buiten kantooruren, een basistarief van € 323,98 per inspectieaanvraag vermeerderd met een tarief van: 
+b. in het geval het werkzaamheden betreft die, als het niet de in de aanhef genoemde specifieke fytosanitaire activiteiten zou betreffen, door de BKD zouden worden verricht, de tarieven bedoeld in artikel 20, 23, 25, 26 en 27, waarbij de artikelen 21 en 28 van overeenkomstige toepassing zijn;  
 
-1°. € 539,36 als de inspectie niet langer duurt dan 3 uur;  
+c. in het geval het werkzaamheden betreft die, als het niet de in de aanhef genoemde specifieke fytosanitaire activiteiten zou betreffen, door de Naktuinbouw zouden worden verricht, de tarieven bedoeld in artikel 29, 32, 33, tweede lid, 34, 35 en 36, waarbij de artikelen 30 en 37 van overeenkomstige toepassing zijn;  
 
-2°. € 539,36 vermeerderd met € 3,00 per minuut voor zover de inspectie langer duurt dan 3 uur.       
+d. in het geval het werkzaamheden betreft die, als het niet de in de aanhef genoemde specifieke fytosanitaire activiteiten zou betreffen, door de NAK zouden worden verricht, de tarieven als bedoeld in artikel 38, 41, tweede lid, 42, 43 en 44, waarbij de artikelen 39 en 46 van overeenkomstige toepassing zijn.     
 
 ### Artikel  2a  
 
@@ -522,8 +522,9 @@ b. indien de werkzaamheden op verzoek worden verricht op een dag en in een perio
 c. indien de werkzaamheden op verzoek worden verricht op zaterdag of op maandag, dinsdag, woensdag, donderdag of vrijdag in een andere periode dan de periode bedoeld in onderdeel a, een basistarief van € 143,55 per inspectieaanvraag;  
 
 d. indien de werkzaamheden op verzoek worden verricht op zondag of op een algemeen erkende feestdag, met uitzondering van 5 mei, een basistarief van € 191,40 per inspectieaanvraag.     
-2.  Voor de controle van een niet via het elektronisch vooraanmeldsysteem CLIENT Import aangemelde aanvraag voor de verplaatsing van een zending ten behoeve van de uitvoering van een importkeuring op een erkende inspectielocatie, wordt een tarief van € 15,00 per zending in rekening gebracht.   
-3.  Voor het opmaken van een exportcertificaat, waarvan de gegevens niet via het elektronisch vooraanmeldsysteem CLIENT Export worden aangeleverd, wordt naast het basistarief, bedoeld in artikel 29, een tarief van € 26,50 per certificaat in rekening gebracht.   
+2.  Voor de verwerking van inspectieaanvragen die niet via het elektronische vooraanmeldsysteem, CLIENT Import of Portal, worden aangemeld, wordt naast het tarief, bedoeld in het eerste lid, een tarief van € 0,73 per geslacht of variëteit in rekening gebracht.   
+3.  Voor de controle van een niet via het elektronisch vooraanmeldsysteem CLIENT Import aangemelde aanvraag voor de verplaatsing van een zending ten behoeve van de uitvoering van een importkeuring op een erkende inspectielocatie, wordt een tarief van € 15,00 per zending in rekening gebracht.   
+4.  Voor het opmaken van een exportcertificaat, waarvan de gegevens niet via het elektronisch vooraanmeldsysteem CLIENT Export worden aangeleverd, wordt naast het basistarief, bedoeld in artikel 29, een tarief van € 26,50 per certificaat in rekening gebracht.   
 
 ### Artikel  33  
 
