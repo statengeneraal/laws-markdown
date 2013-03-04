@@ -21,7 +21,7 @@ a. Zij hebben betrekking op nieuwe of nieuwe combinaties van of met bestaande jo
 
 b. Zij hebben betrekking op onderzoek naar de activiteiten genoemd onder a.     
 2.  Voor subsidieverstrekking komen slechts kosten van de subsidieontvanger in aanmerking die rechtstreeks verband houden met de activiteiten waarvoor subsidie is verleend en die gemaakt zijn na de subsidieverlening.   
-3.  Het Stimuleringsfonds kan nadere richtlijnen omtrent de aard van de kosten vaststellen. Deze richtlijnen worden gepubliceerd op de website van het Stimuleringsfonds www.persinnovatie.nl.   
+3.  Het Stimuleringsfonds kan nadere richtlijnen omtrent de aard van de kosten vaststellen. Deze richtlijnen worden gepubliceerd op de website van het Stimuleringsfonds www.persinnovatie.nl.  
 
 ### Artikel  2  
 
@@ -29,7 +29,7 @@ b. Zij hebben betrekking op onderzoek naar de activiteiten genoemd onder a.
 
 1.  Subsidie kan worden aangevraagd door de voor de desbetreffende activiteiten verantwoordelijke rechtspersoon of rechtspersonen dan wel rechtspersoon of rechtspersonen in oprichting, die in Nederland actief is of zijn.   
 2.  In afwijking van het gestelde onder het eerste lid kan voor projecten tot maximaal € 50.000 subsidie worden aangevraagd door natuurlijke personen.   
-3.  De in de voorgaande leden bedoelde personen dienen voorafgaand aan de subsidieaanvraag een projectidee te hebben ingediend volgens de richtlijnen gepubliceerd op de website van het Stimuleringsfonds www.persinnovatie.nl dat is gevolgd door een positief advies van het Stimuleringsfonds om een aanvraag in te dienen.   
+3.  De in de voorgaande leden bedoelde personen dienen voorafgaand aan de subsidieaanvraag een projectidee te hebben ingediend volgens de richtlijnen gepubliceerd op de website van het Stimuleringsfonds www.persinnovatie.nl dat is gevolgd door een positief advies van het Stimuleringsfonds om een aanvraag in te dienen.  
 
 ### Artikel  3  
 
@@ -38,7 +38,7 @@ b. Zij hebben betrekking op onderzoek naar de activiteiten genoemd onder a.
 1.  Voor subsidieverlening op grond van deze regeling is per ronde als bedoeld in artikel 5 € 450.000 beschikbaar.   
 2.  Als in de eerste ronde na subsidieverlening het voor die ronde beschikbare bedrag niet geheel is gebruikt, kan het resterende deel toegevoegd aan het beschikbare bedrag voor de tweede ronde.   
 3.  Per aanvraag kan subsidie worden verstrekt voor ten hoogste een bedrag van € 100.000 en voor een periode van maximaal één jaar.   
-4.  In afwijking van het tweede lid kan subsidie voor een hoger bedrag of voor een langere periode worden verstrekt als de activiteiten naar het oordeel van het Stimuleringsfonds van uitzonderlijk belang zijn voor innovatie in de gehele persbedrijfstak.   
+4.  In afwijking van het tweede lid kan subsidie voor een hoger bedrag of voor een langere periode worden verstrekt als de activiteiten naar het oordeel van het Stimuleringsfonds van uitzonderlijk belang zijn voor innovatie in de gehele persbedrijfstak.  
 
 ### Hoofdstuk  2  
 
@@ -60,7 +60,7 @@ c. en informatie waaruit blijkt dat de aanvrager rechtspersoonlijkheid bezit dan
 4.  Als subsidie wordt aangevraagd voor de activiteiten genoemd in artikel 1, onderdeel a, dan dient de haalbaarheid van het plan te worden beschreven in termen van meerwaarde voor de gebruiker, de gevolgen voor de exploitatie en de effecten van de uitgevoerde activiteiten voor de eigen organisatie en voor andere partijen in de perssector, ook nadat de subsidieverlening is stopgezet.   
 5.  Als subsidie wordt aangevraagd voor de activiteiten genoemd in artikel 1, onderdeel b, dan dient aantoonbaar gemaakt te worden dat journalistieke organisaties behoefte hebben aan het voorgenomen onderzoek en bij de uitvoering van het onderzoek worden betrokken.   
 6.  De begroting heeft een duidelijke relatie met de activiteiten die worden uitgevoerd, waarbij de begrotingsposten aan de beschrijving van de uitvoering van de activiteiten gekoppeld zijn.   
-7.  Het Stimuleringsfonds bevestigt binnen een week de ontvangst van een aanvraag.   
+7.  Het Stimuleringsfonds bevestigt binnen een week de ontvangst van een aanvraag.  
 
 ### Artikel  5  
 
@@ -70,7 +70,7 @@ Een aanvraag voor subsidie wordt ingediend:
 
 a. voor aanvraagronde 1: voor 20 mei 2013; en  
 
-b. voor aanvraagronde 2: voor 21 oktober 2013.    
+b. voor aanvraagronde 2: voor 21 oktober 2013.   
 
 ### Hoofdstuk  3  
 
@@ -88,7 +88,7 @@ b. innovatief karakter, dat wil zeggen dat de activiteiten vernieuwingen tot sta
 
 c. de haalbaarheid van het ingediende activiteitenplan.     
 2.  Bij het bepalen van de hoogte van de subsidie wordt het matchingprincipe toegepast, waarbij de subsidieaanvrager tenminste de helft van de totale kosten van de activiteiten waarvoor subsidie wordt gevraagd voor zijn rekening dient te nemen dan wel door derden laat meefinancieren.   
-3.  Als op grond van de beoordeling, bedoeld in het eerste lid, de in aanmerking komende aanvragen leiden tot overschrijding van een subsidieplafond, kan het Stimuleringsfonds de hoogte van de subsidie bepalen naar rato van het aantal in aanmerking komende aanvragen en van de hoogte van aangevraagde subsidies.   
+3.  Als op grond van de beoordeling, bedoeld in het eerste lid, de in aanmerking komende aanvragen leiden tot overschrijding van een subsidieplafond, kan het Stimuleringsfonds de hoogte van de subsidie bepalen naar rato van het aantal in aanmerking komende aanvragen en van de hoogte van aangevraagde subsidies.  
 
 ### Artikel  7  
 
@@ -97,7 +97,7 @@ c. de haalbaarheid van het ingediende activiteitenplan.
 1.  Het Stimuleringsfonds beslist binnen 13 weken na de sluiting van elke aanvraagronde, bedoeld in artikel 5 lid 2, op de aanvragen die voor de desbetreffende aanvraagronde zijn ingediend.   
 2.  Het Stimuleringsfonds kan bekendmaken door wie een aanvraag is ingediend en voor welk innovatieproject.   
 3.  Tijdens de behandeling van de aanvraag wordt de subsidieaanvrager in de gelegenheid gesteld de haalbaarheid en uitvoerbaarheid van het project op eigen verzoek met behulp van deskundigen te versterken.   
-4.  Subsidies ten laste van een begroting die nog niet is vastgesteld worden verleend onder de voorwaarde dat voldoende gelden ter beschikking worden gesteld.   
+4.  Subsidies ten laste van een begroting die nog niet is vastgesteld worden verleend onder de voorwaarde dat voldoende gelden ter beschikking worden gesteld.  
 
 ### Hoofdstuk  4  
 
@@ -110,7 +110,7 @@ c. de haalbaarheid van het ingediende activiteitenplan.
 1.  Als subsidie wordt verstrekt aan een in oprichting zijnde rechtspersoon kan het Stimuleringsfonds bij de subsidieverlening de verplichting opleggen dat de subsidieontvanger binnen een redelijke termijn rechtspersoonlijkheid heeft verkregen.   
 2.  De subsidieontvanger werkt mee aan door of namens het Stimuleringsfonds ingestelde onderzoeken die erop gericht zijn het Stimuleringsfonds inlichtingen te verschaffen ten behoeve van de ontwikkeling van het door of namens het Stimuleringsfonds te voeren beleid.   
 3.  De subsidieontvanger doet zo spoedig mogelijk schriftelijk mededeling aan het Stimuleringsfonds van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie. Daarbij worden de relevante stukken overgelegd.   
-4.  De subsidieontvanger werkt mee aan overleg over en presentatie en publicatie van tussentijdse en eindresultaten van de uitvoering van de gesubsidieerde activiteiten met als doel innovatieve projecten onder de aandacht te brengen waardoor deze ten gunste kunnen komen van andere partijen uit de sector.   
+4.  De subsidieontvanger werkt mee aan overleg over en presentatie en publicatie van tussentijdse en eindresultaten van de uitvoering van de gesubsidieerde activiteiten met als doel innovatieve projecten onder de aandacht te brengen waardoor deze ten gunste kunnen komen van andere partijen uit de sector.  
 
 ### Hoofdstuk  5  
 
@@ -120,7 +120,7 @@ c. de haalbaarheid van het ingediende activiteitenplan.
 
 ####Aanvraag tot vaststelling
 
-Binnen twee maanden na afloop van het project waarvoor subsidie is verleend, dient de subsidieontvanger een aanvraag tot subsidievaststelling in. De aanvraag gaat vergezeld van een activiteitenverslag en een financieel verslag.  
+Binnen twee maanden na afloop van het project waarvoor subsidie is verleend, dient de subsidieontvanger een aanvraag tot subsidievaststelling in. De aanvraag gaat vergezeld van een activiteitenverslag en een financieel verslag. 
 
 ### Artikel  10  
 
@@ -130,7 +130,7 @@ Binnen twee maanden na afloop van het project waarvoor subsidie is verleend, die
 2.  De controleverklaring bevat tevens een oordeel over de naleving van de aan de subsidie verbonden verplichtingen door de subsidieontvanger.   
 3.  Het Stimuleringsfonds kan nadere verplichtingen opleggen in verband met de inrichting van het financieel verslag en de controleverklaring.   
 4.  Het eerste lid is niet van toepassing op subsidies waarvan het verleende subsidiebedrag € 50.000 of minder bedraagt.   
-5.  Het Stimuleringsfonds kan ten behoeve van de subsidievaststelling een door hem aan te wijzen accountant een onderzoek laten instellen naar de rechtmatigheid van de besteding van de subsidie.   
+5.  Het Stimuleringsfonds kan ten behoeve van de subsidievaststelling een door hem aan te wijzen accountant een onderzoek laten instellen naar de rechtmatigheid van de besteding van de subsidie.  
 
 ### Artikel  11  
 
@@ -138,7 +138,7 @@ Binnen twee maanden na afloop van het project waarvoor subsidie is verleend, die
 
 1.  Het activiteitenverslag bevat een overzicht van de activiteiten waarvoor subsidie is verstrekt en van de daarmee bereikte resultaten, in het bijzonder: de gerealiseerde vernieuwingen en de effecten daarvan voor het eigen bedrijf, andere journalistieke actoren in de perssector en de gebruiker en geeft inzicht over de voortzetting van de activiteiten na afloop van de projectperiode.   
 2.  De inrichting van het verslag komt overeen met de inrichting van het activiteitenplan.   
-3.  Het verslag bevat, voor zover van toepassing, een analyse van verschillen tussen de voorgenomen activiteiten en beoogde resultaten, vermeld in het activiteitenplan, en de feitelijke realisatie.   
+3.  Het verslag bevat, voor zover van toepassing, een analyse van verschillen tussen de voorgenomen activiteiten en beoogde resultaten, vermeld in het activiteitenplan, en de feitelijke realisatie.  
 
 ### Hoofdstuk  6  
 
@@ -148,7 +148,7 @@ Binnen twee maanden na afloop van het project waarvoor subsidie is verleend, die
 
 ####Betaling in gedeelten
 
-Bij subsidieverlening wordt bij wijze van voorschot ten hoogste 50 procent van het verleende subsidiebedrag verstrekt.  
+Bij subsidieverlening wordt bij wijze van voorschot ten hoogste 50 procent van het verleende subsidiebedrag verstrekt. 
 
 ### Hoofdstuk  7  
 
@@ -158,13 +158,13 @@ Bij subsidieverlening wordt bij wijze van voorschot ten hoogste 50 procent van h
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  14  
 
 ####Evaluatie
 
-Binnen 13 weken na afloop van de datum, bedoeld in artikel 7, evalueert het Stimuleringsfonds de uitvoering van deze regeling.  
+Binnen 13 weken na afloop van de datum, bedoeld in artikel 7, evalueert het Stimuleringsfonds de uitvoering van deze regeling. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De voorzitter van het Stimuleringsfonds voor de pers, 
