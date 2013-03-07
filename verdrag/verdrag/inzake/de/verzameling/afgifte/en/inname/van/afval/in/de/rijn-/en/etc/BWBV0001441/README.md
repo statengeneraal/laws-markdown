@@ -48,17 +48,17 @@ p) „verlader”: degene die de vervoersopdracht heeft verleend;
 
 q) „vervoerder”: degene die zich beroepsmatig tot het vervoer van goederen verbindt;  
 
-r) „ladingontvanger”: degene die gerechtigd is de goederen in ontvangst te nemen.    
+r) „ladingontvanger”: degene die gerechtigd is de goederen in ontvangst te nemen.   
 
 ### Artikel  2  
 
 ####Geografisch toepassingsgebied
 
-Dit Verdrag is van toepassing op de in Bijlage 1 genoemde vaarwegen.  
+Dit Verdrag is van toepassing op de in Bijlage 1 genoemde vaarwegen. 
 
-####BIJZONDERE BEPALINGEN
+####BIJZONDERE BEPALINGEN 
 
-VERPLICHTINGEN VAN DE STATEN  
+VERPLICHTINGEN VAN DE STATEN 
 
 ### Artikel  3  
 
@@ -66,7 +66,7 @@ VERPLICHTINGEN VAN DE STATEN
 
 1.  Het is verboden scheepsafval en delen van de lading vanaf schepen in de in Bijlage 1 genoemde vaarwegen te brengen of te lozen.   
 2.  De Verdragsluitende Staten dragen er zorg voor dat het in het eerste lid genoemde verbod wordt nageleefd.   
-3.  Uitzonderingen op dit verbod zijn slechts toegestaan in overeenstemming met Bijlage 2 en de daarbijbehorende aanhangsels, hierna te noemen de „Uitvoeringsregeling”.   
+3.  Uitzonderingen op dit verbod zijn slechts toegestaan in overeenstemming met Bijlage 2 en de daarbijbehorende aanhangsels, hierna te noemen de „Uitvoeringsregeling”.  
 
 ### Artikel  4  
 
@@ -75,13 +75,13 @@ VERPLICHTINGEN VAN DE STATEN
 1.  De Verdragsluitende Staten verplichten zich ertoe langs de in Bijlage 1 genoemde vaarwegen een voldoende dicht net van ontvangstinrichtingen in te richten of te laten inrichten en dit internationaal af te stemmen.   
 2.  De Verdragsluitende Staten voeren overeenkomstig de Uitvoeringsregeling een uniforme procedure in met betrekking tot de verzameling van scheepsafval en de afgifte aan de ontvangstinrichtingen. Van deze procedure maakt wat betreft de in artikel 1, onderdelen c, d en f genoemde afvalsoorten, een document ten bewijze van de reglementaire afgifte van dit scheepsafval deel uit. De reglementaire afgifte van slops en zuiveringsslib als bedoeld in Deel C van de Uitvoeringsregeling dient overeenkomstig nationale voorschriften aangetoond te worden.   
 3.  De ontvangstinrichtingen zijn verplicht het scheepsafval overeenkomstig de in de Uitvoeringsregeling vastgelegde procedure aan te nemen.   
-4.  De Verdragsluitende Staten dragen er zorg voor dat de ontvangstinrichtingen hun verplichting tot inname van scheepsafval overeenkomstig de nationale regelingen nakomen.   
+4.  De Verdragsluitende Staten dragen er zorg voor dat de ontvangstinrichtingen hun verplichting tot inname van scheepsafval overeenkomstig de nationale regelingen nakomen.  
 
 ### Artikel  5  
 
 ####Grondslag van de financiering
 
-De Verdragsluitende Staten voeren een uniforme ﬁnancieringswijze in voor de inname en verwijdering van scheepsafval.  
+De Verdragsluitende Staten voeren een uniforme ﬁnancieringswijze in voor de inname en verwijdering van scheepsafval. 
 
 ### Artikel  6  
 
@@ -90,7 +90,7 @@ De Verdragsluitende Staten voeren een uniforme ﬁnancieringswijze in voor de in
 1.  De ﬁnanciering van de inname en verwijdering van olie- en vethoudend scheepsbedrijfsafval geschiedt door middel van een verwijderingsbijdrage, die van gemotoriseerde schepen, voor zover zij gasolie gebruiken, wordt geheven, met uitzondering van zeeschepen. De hoogte van de verwijderingsbijdrage is in alle Verdragsluitende Staten gelijk. Deze wordt vastgesteld op basis van de som van de inname- en verwijderingskosten, na aftrek van de eventuele opbrengsten van de verwerking van olie- en vethoudend scheepsbedrijfsafval en van de hoeveelheid geleverde gasolie, volgens de in Deel A van de Uitvoeringsregeling vastgelegde procedure. Het bedrag wordt aan de kostenontwikkeling aangepast. Ter bevordering van het voorkomen van afval dienen criteria uitgewerkt te worden en bij de vaststelling van de hoogte van de verwijderingsbijdrage in acht te worden genomen. De betaalde verwijderingsbijdragen zijn uitsluitend voor de ﬁnanciering van de inname en de verwijdering van olie- en vethoudend scheepsbedrijfsafval aan te wenden.   
 2.  De in het eerste lid genoemde procedure wordt indien nodig met inachtneming van de bij de uitvoering van het systeem opgedane ervaringen getoetst.   
 3.  De betaling van de verwijderingsbijdrage geeft recht op afgifte van olie- en vethoudend scheepsbedrijfsafval aan de door de nationale instituten aangewezen ontvangstinrichtingen.   
-4.  De Verdragsluitende Staten stellen zeker dat de schippers en de bunkerinrichtingen de voor hen ingevolge Deel A van de Uitvoeringsregeling geldende verplichtingen in het bijzonder bij elke levering van gasolie nakomen.   
+4.  De Verdragsluitende Staten stellen zeker dat de schippers en de bunkerinrichtingen de voor hen ingevolge Deel A van de Uitvoeringsregeling geldende verplichtingen in het bijzonder bij elke levering van gasolie nakomen.  
 
 ### Artikel  7  
 
@@ -99,14 +99,14 @@ De Verdragsluitende Staten voeren een uniforme ﬁnancieringswijze in voor de in
 1.  In havens, bij overslaginstallaties alsmede bij ligplaatsen en sluizen worden voor de inname en verwijdering van huisvuil geen aparte hefﬁngen geheven.   
 2.  Met betrekking tot de inname en verwijdering van klein gevaarlijk afval zullen de Verdragsluitende Staten afgestemde regelingen treffen voor een ﬁnancieringssysteem waarin de kosten voor de inname en verwijdering van het genoemde afval, ongeacht of het afval afgegeven wordt, in de haven- of liggelden inbegrepen zijn dan wel het schip anderszins opgelegd worden.   
 3.  Voor passagiersschepen geldt dat de kosten voor de inname en verwijdering van huishoudelijk afvalwater en zuiveringsslib alsmede van huisvuil en klein gevaarlijk afval de schipper afzonderlijk in rekening kunnen worden gebracht.   
-4.  De kosten voor de inname en verwijdering van slops kunnen de schipper afzonderlijk in rekening worden gebracht.   
+4.  De kosten voor de inname en verwijdering van slops kunnen de schipper afzonderlijk in rekening worden gebracht.  
 
 ### Artikel  8  
 
 ####Financiering van het nalossen, het wassen alsmede de inname en verwijdering van afval van de lading
 
 1.  De verlader of de ladingontvanger draagt de kosten voor het nalossen en het wassen van het schip alsmede voor de inname en verwijdering van afval van de lading overeenkomstig Deel B van de Uitvoeringsregeling.   
-2.  Indien het schip vóór het laden niet overeenstemt met de voorgeschreven losstandaard en indien de ladingontvanger of verlader van het vorige transport zijn verplichtingen is nagekomen, draagt de vervoerder de kosten voor het nalossen of het wassen van het schip, alsmede voor de inname en verwijdering van het afval van de lading.   
+2.  Indien het schip vóór het laden niet overeenstemt met de voorgeschreven losstandaard en indien de ladingontvanger of verlader van het vorige transport zijn verplichtingen is nagekomen, draagt de vervoerder de kosten voor het nalossen of het wassen van het schip, alsmede voor de inname en verwijdering van het afval van de lading.  
 
 ### Artikel  9  
 
@@ -114,7 +114,7 @@ De Verdragsluitende Staten voeren een uniforme ﬁnancieringswijze in voor de in
 
 1.  Iedere Verdragsluitende Staat wijst een nationaal instituut aan dat verantwoordelijk is voor de organisatie van het uniforme ﬁnancieringssysteem voor de inname en verwijdering van olie- en vethoudend scheepsbedrijfsafval overeenkomstig de in Deel A van de Uitvoeringsregeling vastgelegde bepalingen.   
 2.  De samenstelling alsmede de details van de organisatie en de werkwijze van het nationale instituut worden in nationale regelingen van de Verdragsluitende Staten vastgelegd. In het nationale instituut moeten vertegenwoordigers van de binnenvaartbranche zijn opgenomen.   
-3.  De bedrijfs- en administratiekosten van ieder nationaal instituut worden door de desbetreffende Verdragsluitende Staat gedragen.   
+3.  De bedrijfs- en administratiekosten van ieder nationaal instituut worden door de desbetreffende Verdragsluitende Staat gedragen.  
 
 ### Artikel  10  
 
@@ -135,7 +135,7 @@ e) voorstellen voor te leggen in hoeverre ten aanzien van de hoogte van de verwi
 3.  Het internationale verevenings- en coördinatieorgaan stelt een huishoudelijk reglement op dat met eenparigheid van stemmen wordt vastgesteld en waarin de nadere details van de internationale ﬁnanciële verevening worden vastgelegd.   
 4.  De organisatie van het internationale verevenings- en coördinatieorgaan is in Deel A van de Uitvoeringsregeling vastgelegd.   
 5.  Het secretariaat van het internationale verevenings- en coördinatieorgaan wordt gevoerd door het secretariaat van de Centrale Commissie voor de Rijnvaart.   
-6.  De kosten van het internationale verevenings- en coördinatieorgaan, worden vooraf aan de hand van een begroting voor het volgende jaar geraamd, waaraan de Verdragsluitende Staten voor gelijke delen bijdragen.   
+6.  De kosten van het internationale verevenings- en coördinatieorgaan, worden vooraf aan de hand van een begroting voor het volgende jaar geraamd, waaraan de Verdragsluitende Staten voor gelijke delen bijdragen.  
 
 ####VERPLICHTINGEN EN RECHTEN VAN DE BETROKKENEN
 
@@ -143,7 +143,7 @@ e) voorstellen voor te leggen in hoeverre ten aanzien van de hoogte van de verwi
 
 ####Algemene zorgplicht
 
-De schipper, de overige bemanning en andere personen aan boord, de verlader, de vervoerder, de ladingontvanger, de exploitanten van overslaginstallaties, alsmede de exploitanten van ontvangstinrichtingen moeten de door de omstandigheden vereiste zorgvuldigheid betrachten om verontreiniging van de vaarwegen te voorkomen, de hoeveelheid scheepsafval zo gering mogelijk te houden en vermenging van verschillende afvalsoorten zo veel mogelijk te voorkomen.  
+De schipper, de overige bemanning en andere personen aan boord, de verlader, de vervoerder, de ladingontvanger, de exploitanten van overslaginstallaties, alsmede de exploitanten van ontvangstinrichtingen moeten de door de omstandigheden vereiste zorgvuldigheid betrachten om verontreiniging van de vaarwegen te voorkomen, de hoeveelheid scheepsafval zo gering mogelijk te houden en vermenging van verschillende afvalsoorten zo veel mogelijk te voorkomen. 
 
 ### Artikel  12  
 
@@ -151,16 +151,16 @@ De schipper, de overige bemanning en andere personen aan boord, de verlader, de 
 
 1.  De schipper kan het scheepsafval aan de ontvangstinrichtingen van elke Verdragsluitende Staat afgeven onder de in de Uitvoeringsregeling opgenomen voorwaarden.   
 2.  De schipper dient de in de Uitvoeringsregeling opgenomen verplichtingen na te komen. Hij dient in het bijzonder, behoudens de in de Uitvoeringsregeling opgenomen uitzonderingen, het verbod om vanaf het schip scheepsafval en delen van de lading in de vaarweg te brengen dan wel te lozen, in acht te nemen.   
-3.  Indien de schipper niet verantwoordelijk gesteld kan worden, kunnen achtereenvolgens de vervoerder, de exploitant van het schip of de scheepseigenaar voor het nakomen van de verplichtingen in dit Verdrag verantwoordelijk worden gesteld.   
+3.  Indien de schipper niet verantwoordelijk gesteld kan worden, kunnen achtereenvolgens de vervoerder, de exploitant van het schip of de scheepseigenaar voor het nakomen van de verplichtingen in dit Verdrag verantwoordelijk worden gesteld.  
 
 ### Artikel  13  
 
 ####Verplichtingen van de vervoerder, de verlader en de ladingontvanger alsmede van de exploitanten van overslaginstallaties en ontvangstinrichtingen
 
 1.  De vervoerder, de verlader, de ladingontvanger, alsmede de exploitanten van overslaginstallaties en ontvangstinrichtingen dienen ieder hun verplichtingen overeenkomstig de Uitvoeringsregeling na te komen.   
-2.  De ladingontvanger is verplicht restlading, overslagresten en afval van de lading aan te nemen. Hij kan daartoe een derde machtigen.   
+2.  De ladingontvanger is verplicht restlading, overslagresten en afval van de lading aan te nemen. Hij kan daartoe een derde machtigen.  
 
-####CONFERENTIE DER VERDRAGSLUITENDE PARTIJEN
+####CONFERENTIE DER VERDRAGSLUITENDE PARTIJEN 
 
 ### Artikel  14  
 
@@ -179,13 +179,13 @@ c) wijzigingen van de voorlopige en jaarlijkse ﬁnanciële vereveningsprocedure
 d) verlaging van de verwijderingsbijdrage in verband met technische maatregelen tot het voorkomen van afval op schepen.   Op voorstel van het internationale verevenings- en coördinatieorgaan doet de Conferentie aanbevelingen aan de Verdragsluitende Staten ten aanzien van aanpassingen van het voorhanden zijnde net van ontvangstinrichtingen.   
 4.  De Conferentie beslecht geschillen met betrekking tot de uitlegging en toepassing van dit Verdrag, alsmede geschillen ontstaan binnen het internationale verevenings- en coördinatieorgaan, zonder dat hierdoor de lopende, voorlopige ﬁnanciële verevening wordt opgeschort.   
 5.  De Conferentie stelt een huishoudelijk reglement op, dat met eenparigheid van stemmen wordt vastgesteld.   
-6.  De Conferentie stelt voor het volgende jaar een begroting op, waaraan de Verdragsluitende Staten voor gelijke delen bijdragen.   
+6.  De Conferentie stelt voor het volgende jaar een begroting op, waaraan de Verdragsluitende Staten voor gelijke delen bijdragen.  
 
 ### Artikel  15  
 
 ####Secretariaat
 
-Ter uitvoering van dit Verdrag wordt het Secretariaat van de Conferentie der Verdragsluitende Partijen gevoerd door het Secretariaat van de Centrale Commissie voor de Rijnvaart.  
+Ter uitvoering van dit Verdrag wordt het Secretariaat van de Conferentie der Verdragsluitende Partijen gevoerd door het Secretariaat van de Centrale Commissie voor de Rijnvaart. 
 
 ####SANCTIES
 
@@ -193,7 +193,7 @@ Ter uitvoering van dit Verdrag wordt het Secretariaat van de Conferentie der Ver
 
 ####Sancties
 
-De Verdragsluitende Staten vervolgen de op hun grondgebied begane overtredingen van de in dit Verdrag en zijn Uitvoeringsregeling vastgelegde ge- en verboden overeenkomstig de desbetreffende nationale regelingen.  
+De Verdragsluitende Staten vervolgen de op hun grondgebied begane overtredingen van de in dit Verdrag en zijn Uitvoeringsregeling vastgelegde ge- en verboden overeenkomstig de desbetreffende nationale regelingen. 
 
 ####SLOTBEPALINGEN
 
@@ -203,13 +203,13 @@ De Verdragsluitende Staten vervolgen de op hun grondgebied begane overtredingen 
 
 1.  Dit Verdrag is voor ondertekening opengesteld van 1 juni 1996 tot en met 30 september 1996 voor de Bondsrepubliek Duitsland, het Koninkrijk België, de Franse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en de Zwitserse Bondsstaat.   
 2.  Dit Verdrag vereist de bekrachtiging, aanvaarding of goedkeuring van de ondertekenende Staten. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Centrale Commissie voor de Rijnvaart.   
-3.  Na inwerkingtreding staat dit Verdrag open voor toetreding door alle Staten waarvan de voor de binnenvaart openstaande vaarwegen met die van de Verdragsluitende Staten in verbinding staan. De akten van toetreding worden nedergelegd bij de Secretaris-Generaal van de Centrale Commissie voor de Rijnvaart.   
+3.  Na inwerkingtreding staat dit Verdrag open voor toetreding door alle Staten waarvan de voor de binnenvaart openstaande vaarwegen met die van de Verdragsluitende Staten in verbinding staan. De akten van toetreding worden nedergelegd bij de Secretaris-Generaal van de Centrale Commissie voor de Rijnvaart.  
 
 ### Artikel  18  
 
 ####Inwerkingtreding
 
-Dit Verdrag treedt in werking op de eerste dag van de tweede maand na nederlegging van de laatste akte van bekrachtiging, aanvaarding of goedkeuring door de ondertekenende Staten. Het treedt voor elke andere Verdragsluitende Partij in werking op de eerste dag van de tweede maand volgende op de nederlegging van de akte van toetreding door die Verdragsluitende Partij.  
+Dit Verdrag treedt in werking op de eerste dag van de tweede maand na nederlegging van de laatste akte van bekrachtiging, aanvaarding of goedkeuring door de ondertekenende Staten. Het treedt voor elke andere Verdragsluitende Partij in werking op de eerste dag van de tweede maand volgende op de nederlegging van de akte van toetreding door die Verdragsluitende Partij. 
 
 ### Artikel  19  
 
@@ -219,14 +219,14 @@ Dit Verdrag treedt in werking op de eerste dag van de tweede maand na nederleggi
 2.  De tekst van elk voorstel tot wijziging alsmede de onderbouwing van dit voorstel worden aan de depositaris voorgelegd, die het voorstel uiterlijk drie maanden voor aanvang van de Conferentie aan de Verdragsluitende Partijen ter kennis brengt. Alle met betrekking tot een voorstel binnengekomen standpunten worden door de depositaris aan de Verdragsluitende Partijen ter kennis gebracht.   
 3.  Wijzigingen van dit Verdrag en van de bijlagen daarbij worden met eenparigheid van stemmen aangenomen.   
 4.  Wijzigingen van dit Verdrag vereisen de bekrachtiging, aanvaarding of goedkeuring door de Verdragsluitende Partijen. Zij treden in werking op de eerste dag van de zesde maand volgende op de nederlegging van de laatste akte van bekrachtiging, aanvaarding of goedkeuring.   
-5.  Wijzigingen van de bijlagen van dit Verdrag treden in werking op de overeengekomen datum, uiterlijk negen maanden na de aanneming, voor zover geen van de Verdragsluitende Partijen binnen zes maanden mededeelt dat zij niet instemt met de wijzigingen.   
+5.  Wijzigingen van de bijlagen van dit Verdrag treden in werking op de overeengekomen datum, uiterlijk negen maanden na de aanneming, voor zover geen van de Verdragsluitende Partijen binnen zes maanden mededeelt dat zij niet instemt met de wijzigingen.  
 
 ### Artikel  20  
 
 ####Opzegging
 
 1.  Dit Verdrag kan na het verstrijken van vijf jaar vanaf de dag waarop het Verdrag voor de desbetreffende Verdragsluitende Partij in werking is getreden door een Verdragsluitende Partij te allen tijde worden opgezegd door een aan de depositaris gerichte mededeling.   
-2.  De opzegging wordt van kracht op de eerste dag van de maand die volgt na het verstrijken van een jaar vanaf de datum van ontvangst van de mededeling, echter niet eerder dan na afsluiting van de jaarlijkse ﬁnanciële verevening met betrekking tot het voorafgaande boekjaar, dan wel na het verstrijken van een in de mededeling bepaalde langere termijn.   
+2.  De opzegging wordt van kracht op de eerste dag van de maand die volgt na het verstrijken van een jaar vanaf de datum van ontvangst van de mededeling, echter niet eerder dan na afsluiting van de jaarlijkse ﬁnanciële verevening met betrekking tot het voorafgaande boekjaar, dan wel na het verstrijken van een in de mededeling bepaalde langere termijn.  
 
 ### Artikel  21  
 
@@ -246,13 +246,13 @@ d) de dag van de inwerkingtreding van dit Verdrag, alsmede van de wijzigingen va
 
 e) mededelingen van de Verdragsluitende Partijen dat zij met een wijziging van de bijlagen niet instemmen en iedere andere mededeling die ingevolge enig artikel van dit Verdrag voorgeschreven is;  
 
-f) iedere opzegging van dit Verdrag en de dag waarop deze in werking treedt.     
+f) iedere opzegging van dit Verdrag en de dag waarop deze in werking treedt.    
 
 ### Artikel  22  
 
 ####Talen
 
-Dit Verdrag is opgesteld in een enkel origineel exemplaar in de Nederlandse, Duitse en Franse taal, zijnde elke tekst gelijkelijk authentiek.  
+Dit Verdrag is opgesteld in een enkel origineel exemplaar in de Nederlandse, Duitse en Franse taal, zijnde elke tekst gelijkelijk authentiek. 
 
 TEN BLIJKE waarvan de hiertoe naar behoren gemachtigde ondertekenaars dit Verdrag hebben ondertekend, GEDAAN te Straatsburg, op 9 september 1996.  
 
@@ -260,7 +260,7 @@ TEN BLIJKE waarvan de hiertoe naar behoren gemachtigde ondertekenaars dit Verdra
 
 ####Behorende bij het Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart
 
-Vaarwegen als bedoeld in artikel 2  
+Vaarwegen als bedoeld in artikel 2 
 
 ###Duitsland:
 
@@ -281,25 +281,25 @@ Alle voor de binnenvaart openstaande wateren.
 
 Rijn tussen Basel en Rheinfelden.   
 
-### Bijlage  2  
+###Bijlage  2  
 
 ####Behorende bij het Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart
 
 | --- | --- |
 |---|---|
-| Uitvoeringsregeling  | --- |
+|Uitvoeringsregeling | --- |
 | --- | --- |
-| Deel A  | Verzameling, afgifte en inname van olie- en vethoudend scheepsbedrijfsafval.  |
-| Deel B  | Verzameling, afgifte en inname van afval van de lading.  |
-| Deel C  | Verzameling, afgifte en inname van overig scheepsbedrijfsafval.  |
-| Aanhangsels  | --- |
-| I.  | Model voor een olie-afgifteboekje.  |
-| II.  | Eisen aan het nalenssysteem.  |
-| III.  | Losstandaarden en afgifte- en innamevoorschriften voor het toestaan van lozing van waswater, regenwater en ballastwater met ladingrestanten.  |
-| IV.  | Model voor een losverklaring.  |
-| V.  | Grens- en controlewaarden voor boordzuiveringsinstallaties van passagiersschepen.  |
+|Deel A |Verzameling, afgifte en inname van olie- en vethoudend scheepsbedrijfsafval. |
+|Deel B |Verzameling, afgifte en inname van afval van de lading. |
+|Deel C | Verzameling, afgifte en inname van overig scheepsbedrijfsafval. |
+|Aanhangsels | --- |
+|I. |Model voor een olie-afgifteboekje. |
+|II. |Eisen aan het nalenssysteem. |
+|III. |Losstandaarden en afgifte- en innamevoorschriften voor het toestaan van lozing van waswater, regenwater en ballastwater met ladingrestanten. |
+|IV. |Model voor een losverklaring. |
+|V. |Grens- en controlewaarden voor boordzuiveringsinstallaties van passagiersschepen. |
 
-### DEEL  A  
+###DEEL A 
 
 ####VERZAMELING, AFGIFTE EN INNAME VAN OLIE- EN VETHOUDEND SCHEEPSBEDRIJFSAFVAL
 
@@ -311,7 +311,7 @@ Rijn tussen Basel en Rheinfelden.
 
 ####Bevestiging van afgifte
 
-De exploitanten van ontvangstinrichtingen tekenen de afgifte van olie- en vethoudend scheepsbedrijfsafval door een schip aan in het olie-afgifteboekje, overeenkomstig het model in Aanhangsel I.  
+De exploitanten van ontvangstinrichtingen tekenen de afgifte van olie- en vethoudend scheepsbedrijfsafval door een schip aan in het olie-afgifteboekje, overeenkomstig het model in Aanhangsel I. 
 
 ### HOOFDSTUK  II  
 
@@ -323,20 +323,20 @@ De exploitanten van ontvangstinrichtingen tekenen de afgifte van olie- en vethou
 
 1.  Het is verboden olie- en vethoudend scheepsbedrijfsafval vanaf schepen in de vaarweg te brengen of te lozen.   
 2.  Indien het in het eerste lid genoemde afval of afvalwater vrijkomt of dreigt vrij te komen, moet de schipper onverwijld de dichtstbijzijnde bevoegde autoriteit waarschuwen. Daarbij moet hij de plaats van het voorval, alsmede hoeveelheid en aard van de stof zo nauwkeurig mogelijk aangeven.   
-3.  Van het in het eerste lid genoemde verbod is uitgezonderd het lozen in de vaarweg door toegelaten bilgeboten van van olie gescheiden water, indien het maximale restoliegehalte in het afgescheiden water constant en zonder voorafgaande verdunning voldoet aan de nationale voorschriften.   
+3.  Van het in het eerste lid genoemde verbod is uitgezonderd het lozen in de vaarweg door toegelaten bilgeboten van van olie gescheiden water, indien het maximale restoliegehalte in het afgescheiden water constant en zonder voorafgaande verdunning voldoet aan de nationale voorschriften.  
 
 ### Artikel  2.02  
 
 ####Verzameling en behandeling aan boord
 
-1.  De schipper dient zeker te stellen dat olie- en vethoudend scheepsbedrijfsafval aan boord gescheiden in de daarvoor bestemde verzamelreservoirs respectievelijk het bilgewater in de bilge van de machinekamer wordt verzameld. De verzamelreservoirs moeten aan boord zó opgeslagen worden dat daaruit lekkende stoffen gemakkelijk en tijdig opgemerkt kunnen worden en het lekken gestopt kan worden.   
-2.  Het is verboden: 
+1. De schipper dient zeker te stellen dat olie- en vethoudend scheepsbedrijfsafval aan boord gescheiden in de daarvoor bestemde verzamelreservoirs respectievelijk het bilgewater in de bilge van de machinekamer wordt verzameld. De verzamelreservoirs moeten aan boord zó opgeslagen worden dat daaruit lekkende stoffen gemakkelijk en tijdig opgemerkt kunnen worden en het lekken gestopt kan worden.  
+2. Het is verboden: 
 
 a) los aan dek staande verzamelreservoirs te gebruiken voor de opslag van afgewerkte olie;  
 
 b) afval aan boord te verbranden;  
 
-c) reinigingsmiddelen die olie of vet oplossen dan wel emulgerend zijn in de bilge van de machinekamer te doen geraken. Van dit verbod zijn uitgezonderd reinigingsmiddelen die de verwerking van het bilgewater door de ontvangstinrichtingen niet bemoeilijken.     
+c) reinigingsmiddelen die olie of vet oplossen dan wel emulgerend zijn in de bilge van de machinekamer te doen geraken. Van dit verbod zijn uitgezonderd reinigingsmiddelen die de verwerking van het bilgewater door de ontvangstinrichtingen niet bemoeilijken.  
 
 ### Artikel  2.03  
 
@@ -344,11 +344,11 @@ c) reinigingsmiddelen die olie of vet oplossen dan wel emulgerend zijn in de bil
 
 1.  Elk gemotoriseerd schip moet, indien het gasolie gebruikt, een geldig olie-afgifteboekje, volgens het model opgenomen in Aanhangsel I, aan boord hebben, dat door de bevoegde autoriteit wordt verstrekt. Dit olie-afgifteboekje moet aan boord worden bewaard. Na verkrijging van een nieuw olie-afgifteboekje moet het voorgaande olie-afgifteboekje ten minste zes maanden na de laatste daarin opgenomen vermelding van afgifte aan boord worden bewaard.   
 2.  Olie- en vethoudend scheepsbedrijfsafval moet met regelmatige, van de staat en van het gebruik van het schip afhankelijke, tussenpozen tegen ontvangstbewijs worden afgegeven aan de ontvangstinrichtingen. Het bewijs bestaat in een aantekening door de ontvangstinrichting in het olie-afgifteboekje.   
-3.  Zeeschepen die beschikken over een oliejournaal ingevolge het Internationaal Verdrag ter voorkoming van verontreiniging van de zee door schepen (Marpol), zijn vrijgesteld van de verplichting tot het voeren van een olie-afgifteboekje als bedoeld in het eerste lid.   
+3.  Zeeschepen die beschikken over een oliejournaal ingevolge het Internationaal Verdrag ter voorkoming van verontreiniging van de zee door schepen (Marpol), zijn vrijgesteld van de verplichting tot het voeren van een olie-afgifteboekje als bedoeld in het eerste lid.  
 
 ### HOOFDSTUK  III  
 
-####ORGANISATIE EN FINANCIERING VAN DE VERWIJDERING VAN OLIE- EN VETHOUDEND SCHEEPSBEDRIJFSAFVAL
+####ORGANISATIE EN FINANCIERING VAN DE VERWIJDERING VAN OLIE- EN VETHOUDEND SCHEEPSBEDRIJFSAFVAL 
 
 ### Artikel  3.01  
 
@@ -358,13 +358,13 @@ In dit hoofdstuk wordt verstaan onder:
 
 a. „exploitant van het schip” de natuurlijke of rechtspersoon die opkomt voor de lopende uitgaven in verband met de exploitatie van het schip en met name voor de aanschaf van de gebruikte brandstof, en bij ontstentenis, de eigenaar van het schip;   
 
-b. „SPE-CDNI”, elektronische betalingssysteem, dat rekeningen (ECO-rekening), magnetische kaarten (ECO-kaart) en mobiele elektronische terminals omvat.     
+b. „SPE-CDNI”, elektronische betalingssysteem, dat rekeningen (ECO-rekening), magnetische kaarten (ECO-kaart) en mobiele elektronische terminals omvat.    
 
 ### Artikel  3.02  
 
 ####Nationaal instituut
 
-Het nationale instituut heft de verwijderingsbijdrage en legt aan het internationale verevenings- en coördinatieorgaan voorstellen voor ter vaststelling van het vereiste nationale net van ontvangstinrichtingen. Het instituut heeft voorts in het bijzonder de taak, op internationaal eenvormige wijze, regelmatig de hoeveelheden verwijderd olie- en vethoudend scheepsbedrijfsafval, alsmede het totaal van de geheven verwijderingsbijdragen te registreren. Het nationale instituut of de bevoegde autoriteit ziet toe op de verwijderingskosten. Het nationale instituut is vertegenwoordigd in het internationale verevenings- en coördinatieorgaan en dient met name de door dit orgaan vastgestelde voorlopige en definitieve vereveningsbedragen op het daartoe vastgestelde tijdstip aan de andere nationale instituten af te dragen.  
+Het nationale instituut heft de verwijderingsbijdrage en legt aan het internationale verevenings- en coördinatieorgaan voorstellen voor ter vaststelling van het vereiste nationale net van ontvangstinrichtingen. Het instituut heeft voorts in het bijzonder de taak, op internationaal eenvormige wijze, regelmatig de hoeveelheden verwijderd olie- en vethoudend scheepsbedrijfsafval, alsmede het totaal van de geheven verwijderingsbijdragen te registreren. Het nationale instituut of de bevoegde autoriteit ziet toe op de verwijderingskosten. Het nationale instituut is vertegenwoordigd in het internationale verevenings- en coördinatieorgaan en dient met name de door dit orgaan vastgestelde voorlopige en definitieve vereveningsbedragen op het daartoe vastgestelde tijdstip aan de andere nationale instituten af te dragen. 
 
 ### Artikel  3.03  
 
@@ -393,7 +393,7 @@ c) het saldo op de betreffende ECO-rekening is niet toereikend.
 7.  Het bunkerbedrijf stelt het nationale instituut van het land waarin de bunkering heeft plaatsgevonden de voor de betaling van de verwijderingsbijdrage noodzakelijke informatie betreffende de transacties in de in bovenstaand lid zes bedoelde gevallen binnen de termijn van zeven kalenderdagen ter beschikking. Het nationale instituut onderneemt de voor de inning van de verschuldigde verwijderingsbijdrage noodzakelijke stappen. In het voorkomende geval kan de inning overgedragen worden aan een van de andere nationale instituten.   
 8.  Voor de transacties in de onder letter b) en c) van bovenstaand lid zes genoemde gevallen, is de exploitant van het schip het nationale instituut van het land waarin de bunkering heeft plaatsgevonden administratiekosten verschuldigd; de hoogte van deze administratiekosten wordt voor alle Verdragspartijen uniform door het internationaal verevenings- en coördinatieorgaan bepaald.   
 9.  Een nationaal instituut kan in die gevallen, waarbij de onverkorte toepassing van de in de leden 4 en 5 bedoelde procedure uit oogpunt van doelmatigheid zijns inziens niet geëigend is, individuele afwijkende regelingen treffen met betrekking tot de levering van gasolie en het voldoen van de overeenkomstige verwijderingsbijdrage. Deze afwijkende regelingen, die aan het internationale verevenings- en coördinatieorgaan bekend gemaakt moeten worden, dienen met de overige bepalingen van dit hoofdstuk overeen te stemmen.   
-10.  De bijzonderheden betreffende de toepassing van de in dit artikel genoemde procedures worden na afstemming in het internationale verevenings- en coördinatieorgaan op nationaal niveau vastgesteld.   
+10.  De bijzonderheden betreffende de toepassing van de in dit artikel genoemde procedures worden na afstemming in het internationale verevenings- en coördinatieorgaan op nationaal niveau vastgesteld.  
 
 ### Artikel  3.04  
 
@@ -406,7 +406,7 @@ c) het saldo op de betreffende ECO-rekening is niet toereikend.
 5.  De bevoegde autoriteit kan aan boord van de vaartuigen de betaling van de verwijderingsbijdrage, alsmede de hoeveelheden afgegeven olie- en vethoudend scheepsbedrijfsafval controleren, in het bijzonder door de aantekeningen over de afgelegde reizen in de daartoe vereiste boorddocumenten met de op de bunkerverklaring vermelde gegevens te vergelijken.   
 6.  Het nationale instituut of de bevoegde autoriteit kan bij de ontvangstinrichtingen de gegevens over de verwijderde hoeveelheden, alsmede de kosten van de verwijdering aan de hand van daartoe geschikte documenten controleren.   
 7.  Het nationale instituut of de bevoegde autoriteit kan bij het bunkerbedrijf de opgave controleren van de hoeveelheid gasolie die geleverd is aan schepen die verplicht zijn de verwijderingsbijdrage te voldoen.   
-8.  De bijzonderheden van de in dit artikel genoemde procedures worden na afstemming in het internationale verevenings- en coördinatieorgaan op nationaal niveau vastgesteld.   
+8.  De bijzonderheden van de in dit artikel genoemde procedures worden na afstemming in het internationale verevenings- en coördinatieorgaan op nationaal niveau vastgesteld.  
 
 ### HOOFDSTUK  IV  
 
@@ -418,7 +418,7 @@ c) het saldo op de betreffende ECO-rekening is niet toereikend.
 
 1.  Het internationale verevenings- en coördinatieorgaan komt eenmaal per jaar in het laatste kwartaal bijeen, om te besluiten over de financiële verevening van het voorafgaande jaar en, in voorkomend geval, de Conferentie der Verdragsluitende Partijen een voorstel te doen tot wijziging van de hoogte van de verwijderingsbijdrage dan wel tot een eventueel noodzakelijke aanpassing van het aanwezige net van ontvangstinrichtingen, met inachtneming van de behoeften van de scheepvaart en de economische doelmatigheid van de afvalverwijdering. Het kan op elk moment op voorstel van het secretariaat of indien de vertegenwoordigers van twee nationale instituten daarom verzoeken, bijeenkomen.   
 2.  Het internationale verevenings- en coördinatieorgaan legt eenvormige procedures en modaliteiten voor de voorlopige en jaarlijkse verevening vast.   
-3.  Alle financiële transacties met betrekking tot de verwijderingsbijdrage geschieden in euro.   
+3.  Alle financiële transacties met betrekking tot de verwijderingsbijdrage geschieden in euro.  
 
 ### Artikel  4.02  
 
@@ -436,37 +436,37 @@ d) de som van de geïnde verwijderingsbijdragen;
 
 e) de financiële consequenties van de in artikel 6, eerste lid, vijfde zin, van het Verdrag bedoelde maatregelen.   De modaliteiten van deze procedure worden door het internationale verevenings- en coördinatieorgaan vastgesteld.   
 2.  Het internationale verevenings- en coördinatieorgaan stelt voor elk afgelopen kwartaal op grond van de ingevolge het eerste lid verstrekte cijfers en de vereveningsprocedure, bedoeld in artikel 4.04, de voorlopige bedragen van de kwartaalverevening vast en legt deze binnen een termijn van twee weken na ontvangst van alle in het eerste lid genoemde mededelingen aan de nationale instituten voor.   
-3.  De nationale instituten die in het kader van de kwartaalverevening een betaling moeten verrichten, zijn verplicht dit bedrag binnen vier weken na ontvangst van de betalingsvordering te voldoen aan de nationale instituten die recht hebben op de betaling.   
+3.  De nationale instituten die in het kader van de kwartaalverevening een betaling moeten verrichten, zijn verplicht dit bedrag binnen vier weken na ontvangst van de betalingsvordering te voldoen aan de nationale instituten die recht hebben op de betaling.  
 
 ### Artikel  4.03  
 
 ####Jaarlijkse financiële verevening
 
 1.  De nationale instituten leggen hun jaarrekening met betrekking tot het voorafgaande jaar, uiterlijk op 15 oktober van het lopende jaar aan het secretariaat van het internationale verevenings- en coördinatieorgaan voor. Het internationale verevenings- en coördinatieorgaan stelt op zijn gewone vergadering de financiële verevening voor het voorafgaande jaar vast.   
-2.  De nationale instituten zijn verplicht de vereveningsbetalingen op grond van de definitieve financiële verevening voor het voorafgaande jaar overeenkomstig artikel 4.02, derde lid, te verrichten.   
+2.  De nationale instituten zijn verplicht de vereveningsbetalingen op grond van de definitieve financiële verevening voor het voorafgaande jaar overeenkomstig artikel 4.02, derde lid, te verrichten.  
 
 ### Artikel  4.04  
 
 ####Procedure van ﬁnanciële verevening
 
-1.  De ﬁnanciële verevening ingevolge de artikelen 4.02 en 4.03 wordt voor elk nationale instituut als volgt berekend:   ![]()
+1.  De ﬁnanciële verevening ingevolge de artikelen 4.02 en 4.03 wordt voor elk nationale instituut als volgt berekend:  ![10000054116](http://wetten.overheid.nl/Illustration/10000054116)
 waarbij verstaan moet worden onder  
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | Cn  | =  | vereveningsbedrag voor een nationaal instituut N;  positief: het instituut heeft recht op een vereveningsbetaling;  negatief: het instituut is verplicht tot het doen van een vereveningsbetaling  |
-| X <sub>n</sub>  | =  | door een nationaal instituut N geïnde verwijderingsbijdragen ingevolge artikel 4.02, eerste lid.  |
-| Z <sub>n</sub>  | =  | daadwerkelijke inname- en verwijderingskosten van een nationaal instituut N ingevolge artikel 4.02, eerste lid.  |
-| ∑ X <sub>n</sub>  | =  | som van de door alle nationale instituten geïnde verwijderingsbijdragen.  |
-| ∑ Z <sub>n</sub>  | =  | som van de daadwerkelijke inname- en verwijderingskosten van alle nationale instituten.  |
+| X<sub>n</sub>   | =  | door een nationaal instituut N geïnde verwijderingsbijdragen ingevolge artikel 4.02, eerste lid.  |
+| Z<sub>n</sub>   | =  | daadwerkelijke inname- en verwijderingskosten van een nationaal instituut N ingevolge artikel 4.02, eerste lid.  |
+| ∑ X<sub>n</sub>   | =  | som van de door alle nationale instituten geïnde verwijderingsbijdragen.  |
+| ∑ Z<sub>n</sub>   | =  | som van de daadwerkelijke inname- en verwijderingskosten van alle nationale instituten.  |
 
-2.  Vereveningsbedragen Cn die lager zijn dan een bepaald minimumpercentage van de door een nationaal instituut N geïnde verwijderingsbijdragen, worden niet verevend. Het minimumpercentage wordt door het internationale verevenings- en coördinatieorgaan vastgesteld.   
+2.  Vereveningsbedragen Cn die lager zijn dan een bepaald minimumpercentage van de door een nationaal instituut N geïnde verwijderingsbijdragen, worden niet verevend. Het minimumpercentage wordt door het internationale verevenings- en coördinatieorgaan vastgesteld.  
 
-### DEEL  B  
+###DEEL B 
 
 ####VERZAMELING, AFGIFTE EN INNAME VAN AFVAL VAN DE LADING
 
-### HOOFDSTUK  V  
+###HOOFDSTUK V 
 
 ####ALGEMENE BEPALINGEN
 
@@ -494,29 +494,29 @@ h) „vacuümschoon laadruim”: laadruim waaruit de restlading door middel van 
 
 i) „nalossen”: het verwijderen van restlading uit de laadruimen, ladingtanks en leidingsystemen met behulp van daartoe geschikte middelen (bijv. bezems, veegmachines, afzuiging, nalenssysteem), waardoor de losstandaard: 
 
-„bezemschoon laadruim” of  
+„bezemschoon laadruim” of 
 
-„vacuümschoon laadruim” of  
+„vacuümschoon laadruim” of 
 
-„nagelensde ladingtank”   wordt verkregen, alsmede het verwijderen van overslagresten en verpakkings- en stuwmateriaal;  
+„nagelensde ladingtank” wordt verkregen, alsmede het verwijderen van overslagresten en verpakkings- en stuwmateriaal; 
 
 j) „wassen”: het verwijderen van ladingrestanten uit een bezemschoon of een vacuümschoon laadruim dan wel uit een nagelensde ladingtank door middel van gebruik van stoom of water;  
 
 k) „wasschoon laadruim of wasschone ladingtank”: een laadruim of een ladingtank die na het wassen in beginsel voor elke soort lading geschikt is;  
 
-l) „waswater”: water dat gebruikt is bij het wassen van een bezemschoon of vacuümschoon laadruim dan wel een nagelensde ladingtank. Hiertoe wordt eveneens gerekend het ballastwater en regenwater dat uit deze laadruimen of ladingtanks komt.    
+l) „waswater”: water dat gebruikt is bij het wassen van een bezemschoon of vacuümschoon laadruim dan wel een nagelensde ladingtank. Hiertoe wordt eveneens gerekend het ballastwater en regenwater dat uit deze laadruimen of ladingtanks komt.   
 
 ### Artikel  5.02  
 
 ####Verplichting van de Verdragsluitende Staten
 
-De Verdragsluitende Staten verplichten zich ertoe om binnen vijf jaar na inwerkingtreding van dit Verdrag de infrastructurele en andere voorzieningen voor de afgifte en inname van restlading, overslagresten, ladingrestanten en waswater tot stand te brengen dan wel te laten brengen.  
+De Verdragsluitende Staten verplichten zich ertoe om binnen vijf jaar na inwerkingtreding van dit Verdrag de infrastructurele en andere voorzieningen voor de afgifte en inname van restlading, overslagresten, ladingrestanten en waswater tot stand te brengen dan wel te laten brengen. 
 
 ### Artikel  5.03  
 
 ####Zeeschepen
 
-Dit Deel B geldt niet voor het laden en lossen van zeeschepen in zeehavens aan zeetoegangswegen.  
+Dit Deel B geldt niet voor het laden en lossen van zeeschepen in zeehavens aan zeetoegangswegen. 
 
 ### HOOFDSTUK  VI  
 
@@ -530,7 +530,7 @@ Dit Deel B geldt niet voor het laden en lossen van zeeschepen in zeehavens aan z
 2.  Van het in het eerste lid bedoelde verbod is uitgezonderd waswater met ladingrestanten van stoffen, ten aanzien waarvan in Aanhangsel III uitdrukkelijk is bepaald dat zij mogen worden geloosd, indien de bepalingen van dit aanhangsel in acht zijn genomen.   
 3.  Indien stoffen ten aanzien waarvan in Aanhangsel III uitsluitend een afgifte ter bijzondere behandeling voorgeschreven is, vrijkomen of dreigen vrij te komen, moet de schipper onverwijld de dichtstbijzijnde bevoegde autoriteit waarschuwen. Daarbij moet hij de plaats van het voorval alsmede de hoeveelheid en de aard van de stof zo nauwkeurig mogelijk aangeven.   
 4.  De bevoegde nationale autoriteit beoordeelt de geoorloofdheid van de lozing of inbrenging van afval van de lading van stoffen die niet zijn vermeld in de Stoffenlijst opgenomen in Aanhangsel III van de Uitvoeringsregeling en stelt een voorlopige lozingsstandaard vast.   
-5.  De Conferentie der Verdragsluitende Partijen toetst dit voorstel en gaat eventueel over tot uitbreiding van de Stoffenlijst.   
+5.  De Conferentie der Verdragsluitende Partijen toetst dit voorstel en gaat eventueel over tot uitbreiding van de Stoffenlijst.  
 
 ### Artikel  6.02  
 
@@ -547,7 +547,7 @@ a) indien het droge lading betreft:
 b) indien het vloeibare lading betreft: 
 
 – het nalenzen van ladingtanks ingevolge artikel 7.04 is niet vereist, doch beschikbare systemen moeten zoveel mogelijk worden gebruikt, ook wanneer deze systemen nog niet voldoen aan het bepaalde in Aanhangsel II.       
-2.  Indien is voldaan aan de voorwaarden voor het naleven van de losstandaard „vacuümschoon”, voor de afgifte van waswater aan ontvangstinrichtingen dan wel voor het nalenzen van tankschepen, kan de bevoegde nationale autoriteit voor haar bevoegdheidsgebied dan wel delen van haar bevoegdheidsgebied reeds voor het einde van de overgangstermijn voorschrijven dat de bepalingen van Aanhangsel III voor de desbetreffende goederensoorten onverkort worden toegepast. Zij stelt de Conferentie der Verdragsluitende Partijen hiervan vooraf op de hoogte.   
+2.  Indien is voldaan aan de voorwaarden voor het naleven van de losstandaard „vacuümschoon”, voor de afgifte van waswater aan ontvangstinrichtingen dan wel voor het nalenzen van tankschepen, kan de bevoegde nationale autoriteit voor haar bevoegdheidsgebied dan wel delen van haar bevoegdheidsgebied reeds voor het einde van de overgangstermijn voorschrijven dat de bepalingen van Aanhangsel III voor de desbetreffende goederensoorten onverkort worden toegepast. Zij stelt de Conferentie der Verdragsluitende Partijen hiervan vooraf op de hoogte.  
 
 ### Artikel  6.03  
 
@@ -558,8 +558,8 @@ b) indien het vloeibare lading betreft:
 3.  Het schip mag na het laden de reis pas voortzetten, nadat de schipper zich ervan overtuigd heeft dat de overslagresten zijn verwijderd.   
 4.  Het schip mag na het lossen de reis pas voortzetten, nadat de schipper in de losverklaring heeft bevestigd dat restlading alsmede overslagresten zijn overgenomen.   
 5.  Het vierde lid is niet van toepassing op schepen die eenheidstransporten uitvoeren.   
-6.  Indien laadruimen of ladingtanks gewassen worden en indien het waswater ingevolge de losstandaarden en de afgifte- en innamevoorschriften ingevolge Aanhangsel III niet in het water mag worden geloosd, mag het schip de reis pas voortzetten nadat de schipper in de losverklaring heeft bevestigd dat dit waswater overgenomen is dan wel dat hem een ontvangstinrichting is aangewezen.   
-7.  Het eerste en vierde lid zijn niet van toepassing op schepen die, gezien hun type en bouwwijze, geschikt zijn en gebruikt worden voor: 
+6.  Indien laadruimen of ladingtanks gewassen worden en indien het waswater ingevolge de losstandaarden en de afgifte- en innamevoorschriften ingevolge Aanhangsel III niet in het water mag worden geloosd, mag het schip de reis pas voortzetten nadat de schipper in de losverklaring heeft bevestigd dat dit waswater overgenomen is dan wel dat hem een ontvangstinrichting is aangewezen.  
+7. Het eerste en vierde lid zijn niet van toepassing op schepen die, gezien hun type en bouwwijze, geschikt zijn en gebruikt worden voor:
 
 a) het vervoer van containers,  
 
@@ -567,14 +567,14 @@ b) het vervoer van verrijdbare lading (Ro-Ro), stukgoed, bijzonder- of zwaar tra
 
 c) de levering van brandstoffen, drinkwater en boordvoorraden aan zee- en binnenschepen (bevoorradingsschepen),  
 
-d) de verzameling van olie- en vethoudend afval van zee- en binnenschepen,  
+d)de verzameling van olie- en vethoudend afval van zee- en binnenschepen, 
 
-e) het vervoer van vloeibare gassen (ADN, type G),  
+e)het vervoer van vloeibare gassen (ADN, type G),
 
-f) het vervoer van zwavel in vloeibare toestand (bij 180°C), cementpoeder, vliegas, en daarmee vergelijkbare goederen die als stortgoed of als verpompbare lading worden vervoerd en waarbij gebruik wordt gemaakt van een systeem voor het laden, lossen en opslaan aan boord dat uitsluitend voor de betreffende goederensoort geëigend is;  
+f)het vervoer van zwavel in vloeibare toestand (bij 180°C), cementpoeder, vliegas, en daarmee vergelijkbare goederen die als stortgoed of als verpompbare lading worden vervoerd en waarbij gebruik wordt gemaakt van een systeem voor het laden, lossen en opslaan aan boord dat uitsluitend voor de betreffende goederensoort geëigend is;
 
-g) het vervoer van zand, grint of baggerspecie vanaf de baggerput of winlocatie naar een loslocatie, voor zover het betreffende schip uitsluitend gebouwd en ingericht is voor dit vervoer,   en voor zover het betreffende schip de genoemde goederen of ladingen ook daadwerkelijk uitsluitend vervoert of als laatste lading heeft vervoerd. Deze bepaling vindt geen toepassing wanneer het schip meerdere soorten lading tegelijkertijd vervoert. In individuele gevallen kan de bevoegde autoriteit in vergelijkbare omstandigheden een schip in het kader van het uitvoeren van specifiek vervoer ontheffen van de toepassing van het eerste en vierde lid. Het bewijs van deze ontheffing dient aan boord aanwezig te zijn.   
-8.  Het eerste en vierde lid zijn eveneens niet van toepassing in het geval van een lossing van de lading in een zeeschip. De schipper dient de hier bedoelde lossing te kunnen staven met desbetreffende vervoersdocumenten en moet deze op verzoek aan toezichthoudende autoriteiten tonen.   
+g)het vervoer van zand, grint of baggerspecie vanaf de baggerput of winlocatie naar een loslocatie, voor zover het betreffende schip uitsluitend gebouwd en ingericht is voor dit vervoer,en voor zover het betreffende schip de genoemde goederen of ladingen ook daadwerkelijk uitsluitend vervoert of als laatste lading heeft vervoerd. Deze bepaling vindt geen toepassing wanneer het schip meerdere soorten lading tegelijkertijd vervoert. In individuele gevallen kan de bevoegde autoriteit in vergelijkbare omstandigheden een schip in het kader van het uitvoeren van specifiek vervoer ontheffen van de toepassing van het eerste en vierde lid. Het bewijs van deze ontheffing dient aan boord aanwezig te zijn.
+8. Het eerste en vierde lid zijn eveneens niet van toepassing in het geval van een lossing van de lading in een zeeschip. De schipper dient de hier bedoelde lossing te kunnen staven met desbetreffende vervoersdocumenten en moet deze op verzoek aan toezichthoudende autoriteiten tonen.
 
 ### HOOFDSTUK  VII  
 
@@ -585,7 +585,7 @@ g) het vervoer van zand, grint of baggerspecie vanaf de baggerput of winlocatie 
 ####Bevestiging van de inname
 
 1.  De ladingontvanger geeft ten aanzien van het schip in de losverklaring bedoeld in artikel 6.03, de bevestiging inzake het lossen, het nalossen en, voor zover hij daartoe verplicht is, het wassen van de laadruimen of ladingtanks, alsmede de inname van afval van de lading dan wel eventueel de toewijzing van een ontvangstinrichting.   
-2.  Voor zover de ladingontvanger het waswater, dat niet in de vaarweg geloosd mag worden, niet zelf aanneemt, bevestigt de exploitant van de ontvangstinrichting het schip de inname van het waswater.   
+2.  Voor zover de ladingontvanger het waswater, dat niet in de vaarweg geloosd mag worden, niet zelf aanneemt, bevestigt de exploitant van de ontvangstinrichting het schip de inname van het waswater.  
 
 ### Artikel  7.02  
 
@@ -593,7 +593,7 @@ g) het vervoer van zand, grint of baggerspecie vanaf de baggerput of winlocatie 
 
 1.  De vervoerder stelt de verlader het schip met een zodanige losstandaard ter beschikking dat de lading onbelemmerd vervoerd en afgeleverd kan worden. Dat is in de regel het geval met een losstandaard „laadruim bezemschoon” of „nagelensde ladingtank” en wanneer het schip vrij van overslagresten is.   
 2.  Een hogere losstandaard of beschikbaarstelling na wassen kan vooraf worden overeengekomen.   
-3.  Bij aanvang van het laden wordt het schip geacht door de vervoerder ter beschikking te zijn gesteld in de toestand welke overeenkomt met de eisen van het eerste of tweede lid.   
+3.  Bij aanvang van het laden wordt het schip geacht door de vervoerder ter beschikking te zijn gesteld in de toestand welke overeenkomt met de eisen van het eerste of tweede lid.  
 
 ### Artikel  7.03  
 
@@ -601,7 +601,7 @@ g) het vervoer van zand, grint of baggerspecie vanaf de baggerput of winlocatie 
 
 1.  Tot het laden en lossen van een schip behoren ook de maatregelen tot nalossen en wassen, die ingevolge dit Deel B zijn vereist. De restlading behoort zo veel mogelijk aan de lading te worden toegevoegd.   
 2.  Bij het laden draagt de verlader er zorg voor dat het schip vrij van overslagresten blijft. Zijn echter toch overslagresten ontstaan, dan draagt de verlader na het laden zorg voor de verwijdering van deze overslagresten, tenzij iets anders is overeengekomen.   
-3.  Bij het lossen draagt de ladingontvanger er zorg voor dat het schip vrij van overslagresten blijft. Zijn echter toch overslagresten ontstaan, dan draagt de ladingontvanger zorg voor de verwijdering. Overslagresten behoren zo veel mogelijk aan de lading te worden toegevoegd.   
+3.  Bij het lossen draagt de ladingontvanger er zorg voor dat het schip vrij van overslagresten blijft. Zijn echter toch overslagresten ontstaan, dan draagt de ladingontvanger zorg voor de verwijdering. Overslagresten behoren zo veel mogelijk aan de lading te worden toegevoegd.  
 
 ### Artikel  7.04  
 
@@ -614,7 +614,7 @@ a) het schip voor de laatste belading deze reinigingstoestand had en dit, indien
 
 b) het schip goederen heeft vervoerd waarvan de ladingrestanten overeenkomstig de losstandaarden en afgifte- en innamevoorschriften van Aanhangsel III niet met het waswater in het water geloosd mogen worden.     
 3.  Het eerste en tweede lid zijn niet van toepassing op laadruimen en ladingtanks van schepen die eenheidstransporten uitvoeren.   
-4.  Indien de ladingontvanger of de verlader het schip na de overeengekomen lostijd of de overeengekomen ligdagen niet overeenkomstig de bepalingen van dit artikel alsmede van artikel 7.03 aﬂevert, kan de vervoerder het schip in de voorgeschreven toestand brengen dan wel laten brengen. De kosten hiervoor, met inbegrip van de daardoor ontstane liggelden, voor zover deze niet op een toerekenbare tekortkoming van de vervoerder terug te voeren zijn, komen ten laste van de ladingontvanger of de verlader.   
+4.  Indien de ladingontvanger of de verlader het schip na de overeengekomen lostijd of de overeengekomen ligdagen niet overeenkomstig de bepalingen van dit artikel alsmede van artikel 7.03 aﬂevert, kan de vervoerder het schip in de voorgeschreven toestand brengen dan wel laten brengen. De kosten hiervoor, met inbegrip van de daardoor ontstane liggelden, voor zover deze niet op een toerekenbare tekortkoming van de vervoerder terug te voeren zijn, komen ten laste van de ladingontvanger of de verlader.  
 
 ### Artikel  7.05  
 
@@ -622,7 +622,7 @@ b) het schip goederen heeft vervoerd waarvan de ladingrestanten overeenkomstig d
 
 1.  Bij droge lading is de ladingontvanger verplicht het waswater in ontvangst te nemen dat na het wassen overeenkomstig artikel 7.04, tweede lid, is ontstaan, dan wel na overleg met de vervoerder de schipper een ontvangstinrichting toe te wijzen.   
 2.  Bij vloeibare lading is de verlader verplicht de vervoerder in de vervoersovereenkomst een ontvangstinrichting toe te wijzen voor het waswater, dat na het wassen overeenkomstig artikel 7.04, tweede lid, ontstaat.   
-3.  Deze ontvangstinrichting behoort zich in de nabijheid van de overslaginstallatie of langs de weg naar de volgende door het schip aan te lopen overslaginstallatie te bevinden.   
+3.  Deze ontvangstinrichting behoort zich in de nabijheid van de overslaginstallatie of langs de weg naar de volgende door het schip aan te lopen overslaginstallatie te bevinden.  
 
 ### Artikel  7.06  
 
@@ -631,27 +631,27 @@ b) het schip goederen heeft vervoerd waarvan de ladingrestanten overeenkomstig d
 1.  Bij droge lading draagt de ladingontvanger de kosten van het nalossen en het wassen van het laadruim ingevolge artikel 7.04 en de kosten van inname van waswater ingevolge artikel 7.05, eerste lid, met inbegrip van de daardoor ontstane kosten voor wachttijden en omwegen. Dat geldt ook voor regenwater dat in de laadruimen is geraakt nadat met het laden is begonnen doch voordat het lossen overeenkomstig artikel 7.03, eerste lid, is beëindigd, indien niet was overeengekomen dat het vervoer afgedekt zou plaatsvinden.   
 2.  Bij eenheidstransporten voor dezelfde verlader neemt deze op eigen kosten vóór het beladen het regenwater in ontvangst, dat na beëindiging van de voorafgaande lossing in het laadruim terecht is gekomen.   
 3.  Bij vloeibare lading draagt de verlader de kosten van het nalossen en van het wassen van de ladingtanks overeenkomstig artikel 7.04, en de kosten van de inname van waswater ingevolge artikel 7.05, tweede lid, met inbegrip van de eventueel daardoor ontstane kosten voor wachttijden en omwegen.   
-4.  De kosten van afgifte van waswater uit laadruimen en ladingtanks die niet met de voorgeschreven losstandaarden overeenstemmen, komen ten laste van de vervoerder.   
+4.  De kosten van afgifte van waswater uit laadruimen en ladingtanks die niet met de voorgeschreven losstandaarden overeenstemmen, komen ten laste van de vervoerder.  
 
 ### Artikel  7.07  
 
 ####Overeenkomst tussen de verlader en de ladingontvanger
 
-Verlader en ladingontvanger kunnen onderling ook een verdeling van hun verplichtingen overeenkomen, die afwijkt van de in deze bijlage beschreven verdeling van verplichtingen, zonder dat dit gevolgen mag hebben voor de vervoerder.  
+Verlader en ladingontvanger kunnen onderling ook een verdeling van hun verplichtingen overeenkomen, die afwijkt van de in deze bijlage beschreven verdeling van verplichtingen, zonder dat dit gevolgen mag hebben voor de vervoerder. 
 
 ### Artikel  7.08  
 
 ####Overgang van rechten en verplichtingen van de verlader of de ladingontvanger op de exploitant van de overslaginstallatie
 
-Indien de verlader of de ladingontvanger bij het laden of het lossen van het schip gebruik maakt van een overslaginstallatie, gaan de rechten en verplichtingen van de verlader of de ladingontvanger, zoals neergelegd in de artikelen 7.01, eerste lid, alsmede 7.03, 7.04 en 7.05, over op de exploitant van de overslaginstallatie. Met betrekking tot de kosten bedoeld in artikel 7.06 geldt dit slechts voor de verwijdering en inname van de overslagresten.  
+Indien de verlader of de ladingontvanger bij het laden of het lossen van het schip gebruik maakt van een overslaginstallatie, gaan de rechten en verplichtingen van de verlader of de ladingontvanger, zoals neergelegd in de artikelen 7.01, eerste lid, alsmede 7.03, 7.04 en 7.05, over op de exploitant van de overslaginstallatie. Met betrekking tot de kosten bedoeld in artikel 7.06 geldt dit slechts voor de verwijdering en inname van de overslagresten. 
 
 ### Artikel  7.09  
 
 ####Vervoersdocumenten
 
-De verlader vermeldt in de vervoersovereenkomst en in de vervoersdocumenten de naam en het vier-cijferige nummer volgens Aanhangsel III van elke goederensoort die hij voor vervoer heeft aangeboden.  
+De verlader vermeldt in de vervoersovereenkomst en in de vervoersdocumenten de naam en het vier-cijferige nummer volgens Aanhangsel III van elke goederensoort die hij voor vervoer heeft aangeboden. 
 
-### DEEL  C  
+###DEEL C 
 
 ####VERZAMELING, AFGIFTE EN INNAME VAN OVERIG SCHEEPSBEDRIJFSAFVAL
 
@@ -665,17 +665,17 @@ De verlader vermeldt in de vervoersovereenkomst en in de vervoersdocumenten de n
 
 In dit deel wordt verstaan onder: 
 
-a) „huishoudelijk afvalwater”: afvalwater uit keukens, eetruimten, wasruimten en bijkeukens, alsmede toiletwater;  
+a)  „huishoudelijk afvalwater”: afvalwater uit keukens, eetruimten, wasruimten en bijkeukens, alsmede toiletwater;  
 
-b) „huisvuil”: organisch en anorganisch afval afkomstig uit het huishouden en van restaurants, echter zonder bestanddelen van het overig gedeﬁnieerde scheepsbedrijfsafval;  
+b)  „huisvuil”: organisch en anorganisch afval afkomstig uit het huishouden en van restaurants, echter zonder bestanddelen van het overig gedeﬁnieerde scheepsbedrijfsafval;  
 
-c) „zuiveringsslib”: restanten, die bij gebruik van een zuiveringsinstallatie aan boord van het schip ontstaan;  
+c)  „zuiveringsslib”: restanten, die bij gebruik van een zuiveringsinstallatie aan boord van het schip ontstaan;  
 
-d) „slops”: verpompbaar of niet verpompbaar mengsel bestaande uit ladingrestanten met waswaterrestanten, roest of slib;  
+d)  „slops”: verpompbaar of niet verpompbaar mengsel bestaande uit ladingrestanten met waswaterrestanten, roest of slib;  
 
-e) „klein gevaarlijk afval”: scheepsbedrijfsafval, met uitzondering van het olie- en vethoudend scheepsbedrijfsafval en de in de onderdelen a tot en met d genoemde afvalsoorten;  
+e)  „klein gevaarlijk afval”: scheepsbedrijfsafval, met uitzondering van het olie- en vethoudend scheepsbedrijfsafval en de in de onderdelen a tot en met d genoemde afvalsoorten;  
 
-f) „hotelschip”: een passagiersschip met hutten voor de overnachting van passagiers.    
+f)  „hotelschip”: een passagiersschip met hutten voor de overnachting van passagiers.   
 
 ### Artikel  8.02  
 
@@ -691,9 +691,9 @@ c) bij bepaalde ligplaatsen en sluizen voor de doorgaande scheepvaart.
 2.  De Verdragsluitende Staten zijn verplicht, binnen vijf jaar na de inwerkingtreding van dit Verdrag, voor slops en klein gevaarlijk afval ontvangstinrichtingen in havens in te richten of te laten inrichten.   
 3.  De Verdragsluitende Staten verplichten zich overeenkomstig de voorschriften van artikel 4, eerste lid, van dit Verdrag vóór de in artikel 9.01, derde lid, genoemde tijdstippen ontvangstinrichtingen voor huishoudelijk afvalwater in te richten of te laten inrichten bij bepaalde als vaste of voor overnachting dienende ligplaatsen van: 
 
-a) hotelschepen met meer dan 50 slaapplaatsen,  
+a)hotelschepen met meer dan 50 slaapplaatsen,
 
-b) passagiersschepen die toegelaten zijn voor het vervoer van meer dan 50 passagiers.     
+b)passagiersschepen die toegelaten zijn voor het vervoer van meer dan 50 passagiers. 
 
 ### HOOFDSTUK  IX  
 
@@ -711,13 +711,13 @@ a) voor hotelschepen met meer dan 50 slaapplaatsen, met ingang van 1 januari 200
 
 b) voor andere passagiersschepen, die toegelaten zijn voor het vervoer van meer dan 50 passagiers, met ingang van 1 januari 2010.   Voor het overige is de lozing van huishoudelijk afvalwater in het water toegestaan.   
 4.  Het in het derde lid genoemde verbod geldt niet voor passagiersschepen die beschikken over toegelaten zuiveringsinstallaties, welke voldoen aan de grens- en controlewaarden zoals opgenomen in Aanhangsel V.   
-5.  Het in het derde lid genoemde verbod geldt niet voor zeeschepen in zeehavens aan zeetoegangswegen die moeten voldoen aan de bepalingen van het Internationaal Verdrag ter voorkoming van verontreiniging van de zee door schepen (Marpol).   
+5.  Het in het derde lid genoemde verbod geldt niet voor zeeschepen in zeehavens aan zeetoegangswegen die moeten voldoen aan de bepalingen van het Internationaal Verdrag ter voorkoming van verontreiniging van de zee door schepen (Marpol).  
 
 ### Artikel  9.02  
 
 ####Afwijkingen van het lozingsverbod voor huishoudelijk afvalwater
 
-De Verdragsluitende Staten kunnen voor schepen als bedoeld in artikel 9.01, derde lid, voor welke de nakoming van het lozingsverbod voor huishoudelijk afvalwater praktisch moeilijk uitvoerbaar is of onredelijk hoge kosten met zich meebrengt, een passend regime voor uitzonderingsmogelijkheden overeenkomen en de voorwaarden vastleggen waaronder deze uitzonderingen als gelijkwaardig kunnen worden aangemerkt.  
+De Verdragsluitende Staten kunnen voor schepen als bedoeld in artikel 9.01, derde lid, voor welke de nakoming van het lozingsverbod voor huishoudelijk afvalwater praktisch moeilijk uitvoerbaar is of onredelijk hoge kosten met zich meebrengt, een passend regime voor uitzonderingsmogelijkheden overeenkomen en de voorwaarden vastleggen waaronder deze uitzonderingen als gelijkwaardig kunnen worden aangemerkt. 
 
 ### Artikel  9.03  
 
@@ -725,7 +725,7 @@ De Verdragsluitende Staten kunnen voor schepen als bedoeld in artikel 9.01, derd
 
 1.  De schipper dient zeker te stellen dat het in artikel 9.01, eerste lid, genoemde afval gescheiden wordt verzameld en afgegeven. Huisvuil dient, indien mogelijk, gescheiden naar de categorieën papier, glas, overige her te gebruiken stoffen en overig afval te worden afgegeven.   
 2.  Het is verboden het in artikel 9.01, eerste lid, genoemde afval aan boord te verbranden.   
-3.  De exploitanten van passagiersschepen die over boordzuiveringsinstallaties beschikken welke voldoen aan Aanhangsel V, dienen zelf op passende wijze te zorgen voor de correcte afgifte van het zuiveringsslib tegen ontvangstbewijs volgens de nationale voorschriften.   
+3.  De exploitanten van passagiersschepen die over boordzuiveringsinstallaties beschikken welke voldoen aan Aanhangsel V, dienen zelf op passende wijze te zorgen voor de correcte afgifte van het zuiveringsslib tegen ontvangstbewijs volgens de nationale voorschriften.  
 
 ### HOOFDSTUK  X  
 
@@ -736,28 +736,28 @@ De Verdragsluitende Staten kunnen voor schepen als bedoeld in artikel 9.01, derd
 ####Inname door de ontvangstinrichtingen
 
 1.  De exploitant van de ontvangstinrichting dient zeker te stellen dat het in artikel 9.01, eerste lid, genoemde afval gescheiden afgegeven kan worden.   
-2.  De exploitant van de ontvangstinrichting geeft de schipper overeenkomstig de nationale voorschriften een verklaring inzake de afgifte van slops.   
+2.  De exploitant van de ontvangstinrichting geeft de schipper overeenkomstig de nationale voorschriften een verklaring inzake de afgifte van slops.  
 
-### Aanhangsel  I  
+### Aanhangsel I 
 
 ####Behorende bij de Uitvoeringsregeling
 
-Model voor het olie-afgifteboekje  
+Model voor het olie-afgifteboekje 
 
-*Olie-afgifteboekje*  Bladzijde 1   ![]()
-*Afgifte van het olie-afgifteboekje*  Het eerste olie-afgifteboekje, daartoe op bladzijde 1 voorzien van het volgnummer 1, wordt slechts afgegeven door de autoriteit die het scheepsattest heeft afgegeven. Deze autoriteit vult tevens de gegevens op bladzijde 1 in. Alle volgende olie-afgifteboekjes worden door een plaatselijke bevoegde autoriteit uitgegeven nadat deze daarop het aansluitende volgnummer heeft aangebracht. Ieder volgend olie-afgifteboekje mag echter slechts na overlegging van het vorige boekje worden afgegeven. Het vorige boekje wordt, nadat het op onuitwisbare wijze is voorzien van een aanduiding „ongeldig”, aan de schipper teruggegeven. Het moet na de laatste vermelding van een afgifte gedurende zes maanden aan boord worden bewaard. Bladzijde 2  *en volgende*    ![]()
+*Olie-afgifteboekje*Bladzijde 1 ![10000053076](http://wetten.overheid.nl/Illustration/10000053076)
+*Afgifte van het olie-afgifteboekje*Het eerste olie-afgifteboekje, daartoe op bladzijde 1 voorzien van het volgnummer 1, wordt slechts afgegeven door de autoriteit die het scheepsattest heeft afgegeven. Deze autoriteit vult tevens de gegevens op bladzijde 1 in. Alle volgende olie-afgifteboekjes worden door een plaatselijke bevoegde autoriteit uitgegeven nadat deze daarop het aansluitende volgnummer heeft aangebracht. Ieder volgend olie-afgifteboekje mag echter slechts na overlegging van het vorige boekje worden afgegeven. Het vorige boekje wordt, nadat het op onuitwisbare wijze is voorzien van een aanduiding „ongeldig”, aan de schipper teruggegeven. Het moet na de laatste vermelding van een afgifte gedurende zes maanden aan boord worden bewaard.Bladzijde 2 *en volgende* ![10000053077](http://wetten.overheid.nl/Illustration/10000053077)
 
-### Aanhangsel  II  
+### Aanhangsel II 
 
-####Behorende bij de Uitvoeringsregeling (Artikel 5.01, onderdeel d)
+####Behorende bij de Uitvoeringsregeling (Artikel 5.01, onderdeel d) 
 
-Eisen aan het nalenssysteem  
+Eisen aan het nalenssysteem 
 
 1. Het nalenssysteem moet vast op het schip geïnstalleerd zijn.  
 
-2. De walaansluiting van de laad- en losleiding, waarmee geladen of gelost wordt, moet voorzien zijn van een inrichting voor de afgifte van restlading overeenkomstig model 1.  
+2. De walaansluiting van de laad- en losleiding, waarmee geladen of gelost wordt, moet voorzien zijn van een inrichting voor de afgifte van restlading overeenkomstig model 1. 
 
-3. Het nalenssysteem moet voor de ingebruikname met water als beproevingsmiddel door een door de bevoegde autoriteiten toegelaten onderzoeksbureau worden beproefd. Beproeving en vaststelling van de resthoeveelheden moeten geschieden overeenkomstig model 2. Wordt het systeem later omgebouwd dan dient voor de hernieuwde ingebruikname dezelfde beproeving uitgevoerd te worden. De volgende resthoeveelheden mogen niet worden overschreden: 
+3. Het nalenssysteem moet voor de ingebruikname met water als beproevingsmiddel door een door de bevoegde autoriteiten toegelaten onderzoeksbureau worden beproefd. Beproeving en vaststelling van de resthoeveelheden moeten geschieden overeenkomstig model 2. Wordt het systeem later omgebouwd dan dient voor de hernieuwde ingebruikname dezelfde beproeving uitgevoerd te worden. De volgende resthoeveelheden mogen niet worden overschreden:
 
 i. bij dubbelwandige schepen: 
 
@@ -769,25 +769,25 @@ ii. bij enkelwandige schepen:
 
 a. 20 liter gemiddeld per ladingtank;  
 
-b. 15 liter per leidingsysteem.       De als uitkomst van de beproeving van het nalenssysteem vastgestelde resthoeveelheden moeten in het bewijs overeenkomstig model 3 worden vermeld. Dit bewijs moet aan boord van het schip worden meegevoerd.   
+b. 15 liter per leidingsysteem.      De als uitkomst van de beproeving van het nalenssysteem vastgestelde resthoeveelheden moeten in het bewijs overeenkomstig model 3 worden vermeld. Dit bewijs moet aan boord van het schip worden meegevoerd.   
 
-### Aanhangsel  II  
+###Aanhangsel II 
 
 ####Model 1
 
-Inrichting voor de afgifte van resthoeveelheden  
+Inrichting voor de afgifte van resthoeveelheden 
 
-![]()
+![10000053078](http://wetten.overheid.nl/Illustration/10000053078)
 
 1. Aansluiting voor de afgifte van resthoeveelheden. Aansluiting conform CEFIC.  
 
-2. Aansluiting voor de walinstallatie om de resthoeveelheden door middel van gas aan land te persen. Aansluiting conform CEFIC.     
+2. Aansluiting voor de walinstallatie om de resthoeveelheden door middel van gas aan land te persen. Aansluiting conform CEFIC.  
 
-### Aanhangsel  II  
+###Aanhangsel II 
 
 ####Model 2
 
-Beproeving van het nalenssysteem  
+Beproeving van het nalenssysteem 
 
 1. Voor de aanvang van de beproeving moeten de ladingtanks en de bijbehorende pijpleidingen schoon zijn. De ladingtanks moeten zonder risico betreden kunnen worden.  
 
@@ -829,17 +829,17 @@ c) het op de volgende plaatsen verzamelen van waterrestanten:
 
 – duur van het nalenzen;  
 
-– ingevuld ladingtankplan.       
+– ingevuld ladingtankplan.     
 
-### Aanhangsel  II  
+###Aanhangsel II 
 
 ####Model 3
 
-Verklaring inzake de beproeving van het nalenssysteem  
+Verklaring inzake de beproeving van het nalenssysteem 
 
-![]()
+![10000053079](http://wetten.overheid.nl/Illustration/10000053079)
 
-### Aanhangsel  III  
+### Aanhangsel  III 
 
 ####van de Uitvoeringsregeling
 
@@ -855,19 +855,19 @@ Voor het lozen van waswater, regenwater of ballastwater met ladingrestanten uit 
 
 3. Kolom 3: lozing van waswater, regenwater of ballastwater in het water toegestaan, mits voor het wassen is voldaan aan de voorgeschreven losstandaard, te weten 
 
-A: bezemschoon of nagelensd in de laadruimen of ladingtanks  
+A: bezemschoon of nagelensd in de laadruimen of ladingtanks 
 
-of  
+of
 
-B: vacuümschoon in de laadruimen.    
+B: vacuümschoon in de laadruimen.  
 
 4. Kolom 4: afgifte van waswater, regenwater of ballastwater ter lozing op de riolering door middel van de daartoe bestemde aansluitingen, mits voor het wassen is voldaan aan de per geval voorgeschreven losstandaard, te weten 
 
-A: bezemschoon of nagelensd in de laadruimen of ladingtanks  
+A: bezemschoon of nagelensd in de laadruimen of ladingtanks 
 
-of  
+of
 
-B: vacuümschoon in de laadruimen.    
+B: vacuümschoon in de laadruimen.  
 
 5. Kolom 5: afgifte van waswater, regenwater of ballastwater aan ontvangstinrichtingen voor bijzondere behandeling S. De behandelwijze hangt af van de aard van de soort lading, bijv. over de opgeslagen lading spuiten, afvoeren naar een zuiveringsinstallatie, verwerking in een installatie voor afvalwater.  
 
@@ -882,10 +882,10 @@ c) Bij vervoer van stukgoed zoals bijv. voertuigen, containers, grootverpakkings
 
 d) Regenwater en ballastwater uit wasschone laadruimen en ladingtanks mag in het water geloosd worden.  
 
-e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakken bijv. luiken, dekken enz. mag in het water geloosd worden.    
+e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakken bijv. luiken, dekken enz. mag in het water geloosd worden.   
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *0*   |  *LAND -EN BOSBOUWPRODUCTEN EN SOORTGELIJKE PRODUCTEN (inclusief levende dieren)*   | --- | --- | --- | --- |
 |  *00*   |  *LEVENDE DIEREN*   | --- | --- | --- | --- |
 |  *001*   |  *Levende dieren (excl. vissen)*   | --- | --- | --- | --- |
@@ -931,7 +931,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *049*   |  *Lompen en afval van textiel*   | --- | --- | --- | --- |
 | 0490  | Lompen, poetskatoen, textielafval  |  *A*   |  *A*   | --- | --- |
 | --- | --- | --- | --- | --- | --- |
@@ -970,7 +970,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 1) gegarandeerd onbehandeld  2) voor onbehandeld hout: A  voor behandeld (geïmpregneerd) hout: B  | 3) voor gebeitst zaad: S  13) plantaardig: A  dierlijk: B  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *1*   |  *ANDERE LEVENSMIDDELEN EN VOEDERMIDDELEN*   | --- | --- | --- | --- |
 |  *11*   |  *SUIKER*   | --- | --- | --- | --- |
 |  *111*   |  *Ongeraffineerde suiker*   | --- | --- | --- | --- |
@@ -1014,7 +1014,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *14*   |  *VLEES, VIS, VLEES- EN VISWAREN, EIEREN, MELK EN MELKPRODUCTEN, SPIJSVETTEN*   | --- | --- | --- | --- |
 |  *141*   |  *Vlees, vers of bevroren*   | --- | --- | --- | --- |
 | 1410  | Vlees, vers of bevroren  |  *A*   |  *A*   | --- | --- |
@@ -1054,7 +1054,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *166*   |  *Gedroogde groenten, groenteconserven en andere groenteproducten*   | --- | --- | --- | --- |
 | 1661  | Groenten, gedroogd, groenteconserven, groentesappen  |  *A*   |  *A*   | --- | --- |
 | 1662  | Groenteproducten, niet nader gespecificeerd, zoals bijv. aardappelmeel, sago, tapiocameel  |  *B*   |  *A*   | --- | --- |
@@ -1088,7 +1088,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 14) Meel: B  16) Afval: S  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *2*   |  *VASTE MINERALE BRANDSTOFFEN*   | --- | --- | --- | --- |
 |  *21*   |  *STEENKOOL EN STEENKOOLBRIKETTEN*   | --- | --- | --- | --- |
 |  *211*   |  *Steenkool*   | --- | --- | --- | --- |
@@ -1116,7 +1116,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 4) S: sproeien over opslag op de wal  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *3*   |  *AARDOLIE, MINERALE OLIE, -PRODUCTEN, GASSEN*   | --- | --- | --- | --- |
 |  *31*   |  *RUWE AARDOLIE, MINERALE OLIE*   | --- | --- | --- | --- |
 |  *310*   |  *Ruwe aardolie, minerale olie*   | --- | --- | --- | --- |
@@ -1153,7 +1153,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 4) S: sproeien over opslag op de wal  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *4*   |  *ERTSEN EN METAALAFVAL*   | --- | --- | --- | --- |
 |  *41*   |  *IJZERERTS (uitgezonderd geroost ijzerkies)*   | --- | --- | --- | --- |
 |  *410*   |  *IJzererts en -concentraten (uitgezonderd geroost ijzerkies)*   | --- | --- | --- | --- |
@@ -1188,7 +1188,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 4) S: sproeien over opslag op de wal  5) S: voor in wateroplosbare metaalzouten  15) bij afval en schroot: A, overig B  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *46*   |  *IJZER- EN STAALAFVAL EN -SCHROOT, GEROOST IJZERKIES*   | --- | --- | --- | --- |
 |  *462*   |  *IJzer- en staalschroot voor herverwerking*   | --- | --- | --- | --- |
 | 4621  | Afval, vijlsel, schroot, voor herverwerking bijv. van ijzer- en staalplaten/blikken, largets, vormstaal  |  *–*   |  *–*   |  *S*   |  *4)*   |
@@ -1210,7 +1210,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 4) S: sproeien over opslag op de wal  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *5*   |  *IJZER, STAAL EN NON-FERROMETALEN (inclusief halffabrikaten)*   | --- | --- | --- | --- |
 |  *51*   |  *GIETIJZER, METAALLEGERINGEN, RUWSTAAL*   | --- | --- | --- | --- |
 |  *512*   |  *Gietijzer, spiegelijzer en koolstofrijk ferromangaan*   | --- | --- | --- | --- |
@@ -1248,7 +1248,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 6) indien met minerale olie besmeurd: S  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *54*   |  *STAALPLAAT, BLIK EN BLIKBAND, BANDSTAAL, OOK VOORZIEN VAN OPPERVLAKTELAGEN*   | --- | --- | --- | --- |
 |  *541*   |  *Staalplaat en breedplaatstaal*   | --- | --- | --- | --- |
 | 5411  | Breedplaatstaal  |  *A*   |  *A*   | --- | --- |
@@ -1282,7 +1282,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 6) indien met minerale olie besmeurd: S  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *568*   |  *Non-ferro-metaalhalffabrikaten*   | --- | --- | --- | --- |
 | 5681  | Banden, blikken, platen, stroken van non-ferrometalen en van de legeringen daarvan  |  *A*   |  *A*   |  *S*   |  *6)*   |
 | 5682  | Draad van non-ferrometalen en van de legeringen daarvan  |  *A*   |  *A*   |  *S*   |  *6)*   |
@@ -1292,7 +1292,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 6) indien met minerale olie besmeurd: S  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *6*   |  *STENEN EN GRONDSOORTEN (inclusief bouwstoffen)*   | --- | --- | --- | --- |
 |  *61*   |  *ZAND, GRIND, PUIM, KLEI, SLAKKEN*   | --- | --- | --- | --- |
 |  *611*   |  *Industriezand*   | --- | --- | --- | --- |
@@ -1327,7 +1327,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 4) S: Sproeien over opslag op de wal  6) indien met minerale olie besmeurd: S  7) indien gedenatuurd: S  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *63*   |  *OVERIGE STENEN, GRONDSOORTEN EN AANVERWANTE RUWE MATERIALEN*   | --- | --- | --- | --- |
 |  *631*   |  *Zwerfsteen, steenslag en andere kleingemaakte stenen*   | --- | --- | --- | --- |
 | 6311  | Veldstenen, zwerfstenen, lavaslakken, steenslag, stenen, steenblokken, ruw, uit steengroeven  |  *A*   |  *–*   | --- | --- |
@@ -1365,7 +1365,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 4) S: sproeien over opslag op de wal  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *65*   |  *GIPS*   | --- | --- | --- | --- |
 |  *650*   |  *Gips*   | --- | --- | --- | --- |
 | 6501  | Gips, gebrand  |  *A*   |  *–*   | --- | --- |
@@ -1391,7 +1391,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 9) i.p.v. asbest: vezelcement  10) voor houtgranietmassa: B, voor alle overigen: A  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *7*   |  *MESTSTOFFEN*   | --- | --- | --- | --- |
 |  *71*   |  *NATUURLIJKE MESTSTOFFEN*   | --- | --- | --- | --- |
 |  *711*   |  *Natuurlijk natronsalpeter*   | --- | --- | --- | --- |
@@ -1428,7 +1428,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 11) Indien vacuümschoon niet mogelijk, dan S  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *8*   |  *CHEMISCHE PRODUCTEN*   | --- | --- | --- | --- |
 |  *81*   |  *CHEMISCHE GRONDSTOFFEN (uitgezonderd*   | --- | --- | --- | --- |
 | --- |  *aluminiumoxide en -hydroxide)*   | --- | --- | --- | --- |
@@ -1452,7 +1452,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 8) vast: B  loog: A  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *82*   |  *ALUMINIUMOXIDE EN -HYDROXIDE*   | --- | --- | --- | --- |
 | 820  |  *Aluminiumoxide en -hydroxide*   | --- | --- | --- | --- |
 | 8201  | Aluminiumoxide  |  *B*   |  *–*   | --- | --- |
@@ -1491,7 +1491,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 4) S: sproeien over opslag op de wal  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *893*   |  *Farmaceutische producten, etherische oliën, reinigings- en lichaamsverzorgingsmiddelen*   | --- | --- | --- | --- |
 | 8930  | Apothekerproducten (geneesmiddelen), cosmetische en farmaceutische producten, reinigingsmiddelen, zeep, wasmiddelen, waspoeder  |  *–*   |  *A*   |  *S*   |  *17)*   |
 | --- | --- | --- | --- | --- | --- |
@@ -1509,7 +1509,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 17) indien geneesmiddelen: S  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *9*   |  *VOERTUIGEN, MACHINES, ANDERE HALF- EN EINDPRODUCTEN, BIJZONDERE TRANSPORTGOEDEREN*   | --- | --- | --- |  *12)*   |
 |  *91*   |  *VOER- EN VAARTUIGEN*   | --- | --- | --- | --- |
 |  *910*   |  *Voer- en vaartuigen*   | --- | --- | --- | --- |
@@ -1539,7 +1539,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  | 12) bij stukgoed zie inleidende opmerking onder c)  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *94*   |  *METAALPRODUCTEN*   | --- | --- | --- | --- |
 |  *941*   |  *Systeembouwonderdelen en bouwconstructies van metaal*   | --- | --- | --- | --- |
 | 9411  | Barakken, schuren, tribunes van metaal, venster, -delen, palen, poorten, poortkozijnen, deuren, deurkozijnen, van metaal  |  *–*   |  *–*   | --- | --- |
@@ -1573,7 +1573,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | Opmerkingen:  |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nummer ladinggoed  | Goederensoort  | Lozing in de vaarweg  | Afgifte aan ontvangstinrichting t.b.v.:  | Opm.  | lozen op het riool  | bijz. behandeling  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *97*   |  *ANDERE HALF- EN EINDPRODUCTEN*   | --- | --- | --- | --- |
 |  *971*   |  *Rubberwaren*   | --- | --- | --- | --- |
 | 9710  | Vloerbedekking, rubberbanden, guttapercha, bewerkt, buizen, schuimrubber  |  *–*   |  *–*   | --- | --- |
@@ -1608,17 +1608,17 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | 9999  | Goederen, niet nader gespecificeerd  |  *–*   |  *–*   | --- | --- |
 | Opmerkingen:  |
 
-### Aanhangsel  IV  
+### Aanhangsel  IV 
 
 ####behorende bij de Uitvoeringsregeling
 
-– Model –  
+– Model – 
 
-*(Versie 2010)*   *Losverklaring*  
+*(Versie 2010)**Losverklaring*
 ###Ladingontvanger/overslaginstallatie
 
 | --- | --- | --- | --- |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | --- |
 | ......  | --- | --- |
 | ......  | --- | --- |
@@ -1648,7 +1648,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | 8.  | □ bezemschoon/nagelensd opgeleverd (standaard A volgens Aanhangsel III van de Uitvoeringsregeling);  |
 | 9.  | □ vacuümschoon opgeleverd (standaard B volgens Aanhangsel III van de Uitvoeringsregeling);  |
 | 10.  | □ wasschoon opgeleverd;  |
-| 11.  | □ ...... m <sup>3</sup> waswater en/of ...... l slops zijn overgenomen;  |
+| 11.  | □ ...... m<sup>3</sup> waswater en/of ...... l slops zijn overgenomen;  |
 | 12.  | □ ontdaan van overslagrestanten.  |
 | --- | --- |
 | Het waswater/ballastwater/regenwater van de aangegeven laadruimen/ladingtanks  |
@@ -1662,7 +1662,7 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 ###Bevestiging door de schipper
 
 | --- | --- | --- | --- | --- |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | 18.  | □ De vermeldingen onder de nummers 1 tot en met 16 worden bevestigd.  |
 | 19.  | □ De ladingtanks zijn nagelensd (standaard A volgens Aanhangsel III van de Uitvoeringsregeling) en de restlading is opgeslagen in de  |
 | --- | a)  | □ resttank: ......l  | --- |
@@ -1680,14 +1680,14 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 
 ###Bevestiging van afgifte
 
-(slechts noodzakelijk indien nr. 15 of 16 werden aangekruist)  
+(slechts noodzakelijk indien nr. 15 of 16 werden aangekruist) 
 
 | --- | --- | --- | --- | --- |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | 22.  | □ De afgifte van ladingrestanten van de goederensoort en goederennummer zoals bedoeld onder nummer 2 wordt bevestigd:  |
-| --- | a)  | □ waswater: ...... m <sup>3</sup>  | code: ...... <sup>*)</sup>  | --- |
-| --- | b)  | □ ballastwater: ...... m <sup>3</sup>  | code: ...... <sup>*)</sup>  | --- |
-| --- | c)  | □ regenwater: ...... m <sup>3</sup>  | code: ...... <sup>*)</sup>  | --- |
+| --- | a)  | □ waswater: ...... m<sup>3</sup>   | code: ......<sup>*)</sup>   | --- |
+| --- | b)  | □ ballastwater: ...... m<sup>3</sup>   | code: ......<sup>*)</sup>   | --- |
+| --- | c)  | □ regenwater: ...... m<sup>3</sup>   | code: ......<sup>*)</sup>   | --- |
 | --- | d)  | □ slops: □....... kg of □ ......l  | --- |
 | --- | e)  | □ restlading volgens nummer 19  | --- |
 | 23.  | Opmerkingen: ......  | --- |
@@ -1696,44 +1696,44 @@ e) Waswater van bezemschone gangboorden en van andere licht vervuilde oppervlakk
 | 25.  | ......  | ......  | ......  |
 | --- | (Plaats)  | (Datum)  | (Stempel/naam in blokletters en ondertekening)  |
 
-□ Aankruisen wat van toepassing is. <sup>*)</sup> Gelieve de code in te vullen van de afvalstoffen overeenkomstig de geldende regelgeving van Richtlijn 2006/1013/EG.   
+□ Aankruisen wat van toepassing is. <sup>*)</sup> Gelieve de code in te vullen van de afvalstoffen overeenkomstig de geldende regelgeving van Richtlijn 2006/1013/EG.  
 
-### Aanhangsel  V  
+### Aanhangsel  V 
 
 ####behorende bij de Uitvoeringsregeling
 
-*(Versie 2010)*   
+*(Versie 2010)*  
 
 ###Grens- en controlewaarden voor zuiveringsinstallaties aan boord van passagiersschepen
 
 1. Boordzuiveringsinstallaties moeten bij de typekeuring aan de volgende grenswaarden voldoen: Tabel 1: Grenswaarden bij de afvoer van boordzuiveringsinstallatie (testinstallatie) waar tijdens de typekeuring aan moet worden voldaan  
 
 | Parameter  | Zuurstofconcentratie  | Bemonstering  | Fase I  | Fase II vanaf 1.1.2011  |
-|---|---|---|---|---|
-| Biochemische zuurstofbehoefde (BZB <sub>5</sub>)  | 25 mg/l  | 20 mg/l  | 24u-mengmonster, gehomogeniseerd  |
-| ISO 5815-1 en 5815-2 (2003) <sup>1)</sup>  | 40 mg/l  | 25 mg/l  | Steekproef, gehomogeniseerd  |
-| Chemische zuurstofbehoefte (CZB) <sup>2)</sup>  | 125 mg/l  | 100 mg/l  | 24u-mengmonster, gehomogeniseerd  |
-| ISO 6060 (1989) <sup>1)</sup>  | 180 mg/l  | 125 mg/l  | Steekproef, gehomogeniseerd  |
+|:---|:---|:---|:---|:---|
+| Biochemische zuurstofbehoefde (BZB<sub>5</sub>)  | 25 mg/l  | 20 mg/l  | 24u-mengmonster, gehomogeniseerd  |
+| ISO 5815-1 en 5815-2 (2003)<sup>1)</sup>   | 40 mg/l  | 25 mg/l  | Steekproef, gehomogeniseerd  |
+| Chemische zuurstofbehoefte (CZB)<sup>2)</sup>   | 125 mg/l  | 100 mg/l  | 24u-mengmonster, gehomogeniseerd  |
+| ISO 6060 (1989)<sup>1)</sup>   | 180 mg/l  | 125 mg/l  | Steekproef, gehomogeniseerd  |
 | Totaal organisch gebonden koolstof (TOC)  | ---  | 35 mg/l  | 24u-mengmonster, gehomogeniseerd  |
-| EN 1484 (1997) <sup>1)</sup>  | ---  | 45 mg/l  | Steekproef, gehomogeniseerd  |
+| EN 1484 (1997)<sup>1)</sup>   | ---  | 45 mg/l  | Steekproef, gehomogeniseerd  |
 
-<sup>1)</sup> De Verdragsluitende Staten kunnen gelijkwaardige procedés voorzien.  
+<sup>1)</sup> De Verdragsluitende Staten kunnen gelijkwaardige procedés voorzien.
 
-<sup>2)</sup> In plaats van de chemische zuurstofbehoefte (CZB) kan voor de typekeuring ook van het totaal organisch gebonden koolstof (TOC) worden uitgegaan.    
+<sup>2)</sup> In plaats van de chemische zuurstofbehoefte (CZB) kan voor de typekeuring ook van het totaal organisch gebonden koolstof (TOC) worden uitgegaan. 
 
 2. Bij gebruik moet aan de volgende controlewaarden worden voldaan: Tabel 2: Grenswaarden bij de afvoer van de boordzuiveringsinstallatie tijdens gebruik aan boord van passagiersschepen  
 
 | Parameter  | Zuurstofconcentratie  | Bemonstering  | Fase I  | Fase II vanaf 1.1.2011  |
-|---|---|---|---|---|
-| Biochemische zuurstofbehoefte (BZB <sub>5</sub>)  | 40 mg/l  | 25 mg/l  | Steekproef, gehomogeniseerd  |
-| ISO 5815-1 en 5815-2 (2003) <sup>1)</sup>  | --- | --- | --- |
-| Chemische zuurstofbehoefte (CZB) <sup>2)</sup>  | 180 mg/l  | 125 mg/l  | Steekproef, gehomogeniseerd  |
-| ISO 6060 (1989) <sup>1)</sup>  | ---  | 150 mg/l  | Steekproef  |
+|:---|:---|:---|:---|:---|
+| Biochemische zuurstofbehoefte (BZB<sub>5</sub>)  | 40 mg/l  | 25 mg/l  | Steekproef, gehomogeniseerd  |
+| ISO 5815-1 en 5815-2 (2003)<sup>1)</sup>   | --- | --- | --- |
+| Chemische zuurstofbehoefte (CZB)<sup>2)</sup>   | 180 mg/l  | 125 mg/l  | Steekproef, gehomogeniseerd  |
+| ISO 6060 (1989)<sup>1)</sup>   | ---  | 150 mg/l  | Steekproef  |
 | Totaal organisch gebonden koolstof (TOC)  | ---  | 45 mg/l  | Steekproef, gehomogeniseerd  |
-| EN 1484 (1997) <sup>1)</sup>  |
+| EN 1484 (1997)<sup>1)</sup>   |
 
-<sup>1)</sup> De Verdragsluitende Staten kunnen gelijkwaardige procedés voorzien.  
+<sup>1)</sup> De Verdragsluitende Staten kunnen gelijkwaardige procedés voorzien.
 
-<sup>2)</sup> In plaats van de chemische zuurstofbehoefte (CZB) kan voor de typekeuring ook van het totaal organisch gebonden koolstof (TOC) worden uitgegaan.   De steekproef moet aan de desbetreffende waarde voldoen. De bevoegde instanties moeten met onregelmatige tussenpozen steekproeven nemen.  
+<sup>2)</sup> In plaats van de chemische zuurstofbehoefte (CZB) kan voor de typekeuring ook van het totaal organisch gebonden koolstof (TOC) worden uitgegaan.De steekproef moet aan de desbetreffende waarde voldoen. De bevoegde instanties moeten met onregelmatige tussenpozen steekproeven nemen.  
 
 3. Procedés die gebruikmaken van chloorhoudende stoffen zijn niet toegestaan. Het is evenmin toegelaten, het huishoudelijk afvalwater te verdunnen om de specifieke belasting te verminderen en daardoor lozing mogelijk te maken.     
