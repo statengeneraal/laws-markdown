@@ -9,12 +9,14 @@ Gelet op artikel II van mijn beschikking dd. 27 juni 1988/nr. 301/588a. Directie
 Besluit:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 07-03-2013 
 
-De opsporingsbevoegdheid verkregen door de categoriale beschikking van 27 juni 1988 (Stcrt. 126 dd. 4 juli 1988) houdende benoeming tot onbezoldigd ambtenaar van het Korps Rijkspolitie van de ambtenaren van de Algemene Inspectie Dienst van het ministerie van Landbouw, Natuurbeheer en Visserij geldt tevens voor de opsporing van delicten in het kader van besluiten terzake organische meststoffen voorzover (mede) gebaseerd op de Wet inzake luchtverontreiniging.  
+De opsporingsbevoegdheid verkregen door de categoriale beschikking van 27 juni 1988 (Stcrt. 126 dd. 4 juli 1988) houdende benoeming tot onbezoldigd ambtenaar van het Korps Rijkspolitie van de ambtenaren van de Algemene Inspectie Dienst van het ministerie van Landbouw, Natuurbeheer en Visserij geldt tevens voor de opsporing van delicten in het kader van besluiten terzake organische meststoffen voorzover (mede) gebaseerd op de Wet inzake luchtverontreiniging. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 07-03-2013 
 
-Deze beschikking wordt gepubliceerd in de Nederlandse Staatscourant en in het Algemeen Politieblad en treedt in werking vier dagen na publikatie in de Nederlandse Staatscourant.  
+Deze beschikking wordt gepubliceerd in de Nederlandse Staatscourant en in het Algemeen Politieblad en treedt in werking vier dagen na publikatie in de Nederlandse Staatscourant. 
 
 's-Gravenhage 
 4 maart 1992    
@@ -30,4 +32,4 @@ hoofd van de Directie Politie,
 
 voor deze, 
 
-O. C. W. v.d. Veen      
+O. C. W. v.d. Veen     
