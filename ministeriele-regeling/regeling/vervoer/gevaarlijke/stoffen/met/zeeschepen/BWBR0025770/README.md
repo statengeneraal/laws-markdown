@@ -84,7 +84,7 @@ d. de havens van Delfzijl-Eemshaven, over de Eems, de havens van Den Helder, Har
 
 ### Artikel  3  
 
-De in [artikel 2, eerste lid, van de Wet vervoer gevaarlijke stoffen](../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) genoemde handelingen zijn, tenzij in deze regeling anders wordt bepaald, op de in artikel 2 genoemde scheepvaartwegen toegestaan met betrekking tot het vervoer van gevaarlijke stoffen door een zeeschip of een tankschip, voor zover daarbij het bepaalde in deze regeling in acht wordt genomen.  
+De in artikel 2, eerste lid, van de Wet vervoer gevaarlijke stoffen genoemde handelingen zijn, tenzij in deze regeling anders wordt bepaald, op de in artikel 2 genoemde scheepvaartwegen toegestaan met betrekking tot het vervoer van gevaarlijke stoffen door een zeeschip of een tankschip, voor zover daarbij het bepaalde in deze regeling in acht wordt genomen.  
 
 ### Artikel  4  
 
@@ -106,9 +106,9 @@ De kapitein van een zeeschip of een tankschip is verantwoordelijk voor de nalevi
 
 ### Artikel  6  
 
-####In acht nemen IMDG-Code, IMSBC-Code, [Schepenbesluit 2004](../../../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) en [Wet voorkoming verontreiniging door schepen](../../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md)
+####In acht nemen IMDG-Code, IMSBC-Code, Schepenbesluit 2004 en Wet voorkoming verontreiniging door schepen
 
-De in artikel 3 bedoelde handelingen worden, voor wat het vervoer van gevaarlijke stoffen in verpakte vorm of vaste vorm in bulk met een zeeschip betreft, door de kapitein, de agent, de rompbevrachter, de afzender of diens agent, ieder voor dat deel van de vervoersketen waarvoor hij in het maatschappelijk verkeer verantwoordelijk is, of door degene die verantwoordelijk is voor de belading van een container of een vrachtwagen die met een zeeschip wordt vervoerd, verricht met inachtneming van de bepalingen van de IMDG-Code, dan wel de bepalingen van de IMSBC-Code, en voor een zeeschip onder Nederlandse vlag met inachtneming van het bepaalde bij of krachtens het [Schepenbesluit 2004](../../../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) of bij of krachtens de [Wet voorkoming verontreiniging door schepen](../../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md).  
+De in artikel 3 bedoelde handelingen worden, voor wat het vervoer van gevaarlijke stoffen in verpakte vorm of vaste vorm in bulk met een zeeschip betreft, door de kapitein, de agent, de rompbevrachter, de afzender of diens agent, ieder voor dat deel van de vervoersketen waarvoor hij in het maatschappelijk verkeer verantwoordelijk is, of door degene die verantwoordelijk is voor de belading van een container of een vrachtwagen die met een zeeschip wordt vervoerd, verricht met inachtneming van de bepalingen van de IMDG-Code, dan wel de bepalingen van de IMSBC-Code, en voor een zeeschip onder Nederlandse vlag met inachtneming van het bepaalde bij of krachtens het Schepenbesluit 2004 of bij of krachtens de Wet voorkoming verontreiniging door schepen.  
 
 ### Artikel  7  
 
@@ -120,7 +120,7 @@ Het lossen uit een zeeschip van gevaarlijke stoffen waarvan de verpakking niet v
 
 ####Veiligheidsmaatregelen
 
-Aan boord van een zeeschip dat beladen is, of beladen is geweest met gevaarlijke stoffen in verpakte vorm of vaste vorm in bulk, worden alle maatregelen genomen ter voorkoming en bestrijding van brand. In elk geval worden daartoe alle maatregelen genomen die bij of krachtens SOLAS, en voor een zeeschip onder Nederlandse vlag, die bij of krachtens het [Schepenbesluit 2004](../../../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) zijn voorgeschreven.  
+Aan boord van een zeeschip dat beladen is, of beladen is geweest met gevaarlijke stoffen in verpakte vorm of vaste vorm in bulk, worden alle maatregelen genomen ter voorkoming en bestrijding van brand. In elk geval worden daartoe alle maatregelen genomen die bij of krachtens SOLAS, en voor een zeeschip onder Nederlandse vlag, die bij of krachtens het Schepenbesluit 2004 zijn voorgeschreven.  
 
 ### Artikel  9  
 
@@ -170,7 +170,7 @@ c. voor de subklassen 1.3 en 1.6: 300.000 kilogram netto;
 
 d. voor de subklasse 1.4 een onbeperkte hoeveelheid.     
 2.  In afwijking van het eerste lid, onderdelen a, b en c, is voor een zeeschip dat zich bevindt in, op weg is naar, of is vertrokken uit de Eemshaven te Eemsmond, de Amazonehaven, de Europahaven of de Yangtze-haven te Rotterdam Europoort een hogere maximale explosieve massa van de in die onderdelen bedoelde stoffen toegestaan.   
-3.  In afwijking van het eerste lid, onderdelen a en b, bedraagt voor een zeeschip dat zich bevindt in een hoofdvaargeul als bedoeld in [artikel 2, tweede lid, onderdeel e, van het Scheepvaartreglement Westerschelde 1990](../../../../../../../../AMvB/scheepvaartreglement/westerschelde/1990/BWBR0005393/README.md) of in het Kanaal van Gent naar Terneuzen, de maximale explosieve massa van gevaarlijke stoffen in verpakte vorm van klasse 1, als bedoeld in de IMDG-Code: 
+3.  In afwijking van het eerste lid, onderdelen a en b, bedraagt voor een zeeschip dat zich bevindt in een hoofdvaargeul als bedoeld in artikel 2, tweede lid, onderdeel e, van het Scheepvaartreglement Westerschelde 1990 of in het Kanaal van Gent naar Terneuzen, de maximale explosieve massa van gevaarlijke stoffen in verpakte vorm van klasse 1, als bedoeld in de IMDG-Code: 
 
 a. voor de subklassen 1.1 en 1.5: 30.000 kilogram bruto;  
 
@@ -212,9 +212,9 @@ De artikelen 8, 9, 10, onderdelen 1 tot en met 8, 12 en 13 zijn van overeenkomst
 
 ### Artikel  15  
 
-####In acht nemen GC-Code, IGC-Code, BCH-Code en IBC-Code, [Schepenbesluit 2004](../../../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) en [Wet voorkoming verontreiniging door schepen](../../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md)
+####In acht nemen GC-Code, IGC-Code, BCH-Code en IBC-Code, Schepenbesluit 2004 en Wet voorkoming verontreiniging door schepen
 
-1.  De in artikel 3 bedoelde handelingen worden, voor wat betreft het vervoer van gevaarlijke stoffen in vloeibare vorm in bulk met een tankschip, door de kapitein, de agent, de rompbevrachter, de afzender of diens agent, ieder voor dat deel van de vervoersketen waarvoor hij in het maatschappelijk verkeer verantwoordelijk is, verricht met inachtneming van de bepalingen van de GC-Code, de IGC-Code, de BCH-Code en de IBC-Code, en voor een tankschip onder Nederlandse vlag tevens met inachtneming van het bij of krachtens het [Schepenbesluit 2004](../../../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) of de [Wet voorkoming verontreiniging door schepen](../../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md) daarenboven bepaalde.   
+1.  De in artikel 3 bedoelde handelingen worden, voor wat betreft het vervoer van gevaarlijke stoffen in vloeibare vorm in bulk met een tankschip, door de kapitein, de agent, de rompbevrachter, de afzender of diens agent, ieder voor dat deel van de vervoersketen waarvoor hij in het maatschappelijk verkeer verantwoordelijk is, verricht met inachtneming van de bepalingen van de GC-Code, de IGC-Code, de BCH-Code en de IBC-Code, en voor een tankschip onder Nederlandse vlag tevens met inachtneming van het bij of krachtens het Schepenbesluit 2004 of de Wet voorkoming verontreiniging door schepen daarenboven bepaalde.   
 2.  In afwijking van het eerste lid, is het vervoer van vloeibaar gemaakte gassen die vallen binnen de criteria genoemd in de bij deze regeling behorende bijlage 2, daaronder begrepen de in die bijlage met name genoemde vloeibaar gemaakte gassen, verboden.   
 3.  In afwijking van het tweede lid, is het toegestaan na overleg met de bevoegde plaatselijke autoriteit de stoffen uit de IGC-Code met de VN-nummers 1017, 1032 en 1079 te vervoeren. De bevoegde plaatselijke autoriteit kan aan een dergelijk vervoer operationele voorschriften verbinden en er operationele beperkingen aan opleggen.   
 
@@ -229,7 +229,7 @@ Aan boord van een tankschip als bedoeld in artikel 15, eerste lid, zijn, overeen
 ####Schoonmaken, gasvrij maken en spoelen van tanks
 
 1.  Tanks van een tankschip worden niet schoongemaakt, gasvrij gemaakt of gespoeld dan na vooraf verkregen toestemming van de bevoegde plaatselijke autoriteit, tenzij door middel van de plaatselijke voorschriften anders wordt bepaald.   
-2.  Het eerste lid is niet van toepassing op een daar bedoelde activiteit, waarvoor reeds op grond van een krachtens de [Scheepvaartverkeerswet](../../../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) vastgesteld scheepvaartreglement toestemming dient te worden verkregen.   
+2.  Het eerste lid is niet van toepassing op een daar bedoelde activiteit, waarvoor reeds op grond van een krachtens de Scheepvaartverkeerswet vastgesteld scheepvaartreglement toestemming dient te worden verkregen.   
 
 ### Paragraaf  4  
 
@@ -268,7 +268,7 @@ De bevoegde plaatselijke autoriteit, bedoeld in artikel 1, onderdeel a, is:
 
 2. Voor schepen die zich niet in een haven, op een overlaadplaats of ankerplaats bevinden: de hoofdingenieur-directeur van Rijkswaterstaat binnen wiens beheersgebied het riviergedeelte ligt waarop het schip zich bevindt;  
 
-3. Voor schepen op de Westerschelde en voor de op de Westerschelde en in het Kanaal van Gent naar Terneuzen bij het rijk in beheer zijnde anker-, overlaad-, los-, en wachtplaatsen, alsmede de sluizen te Terneuzen: de Rijkshavenmeester Westerschelde als bedoeld in [artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990](../../../../../../../../AMvB/scheepvaartreglement/westerschelde/1990/BWBR0005393/README.md);  
+3. Voor schepen op de Westerschelde en voor de op de Westerschelde en in het Kanaal van Gent naar Terneuzen bij het rijk in beheer zijnde anker-, overlaad-, los-, en wachtplaatsen, alsmede de sluizen te Terneuzen: de Rijkshavenmeester Westerschelde als bedoeld in artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990;  
 
 4. Voor de bij de gemeente Rotterdam in beheer zijnde riviergedeelten, havens, overlaadplaatsen en ankerplaatsen: de havenmeester van Rotterdam, werkzaam bij Havenbedrijf Rotterdam N.V.;  
 
@@ -276,7 +276,7 @@ De bevoegde plaatselijke autoriteit, bedoeld in artikel 1, onderdeel a, is:
 
 6. Voor de bij het Havenschap Moerdijk in beheer zijnde havens, overlaadplaatsen en ankerplaatsen: de havenmeester van het Havenschap Moerdijk;  
 
-7. Voor de Noordzeesluizen: de hoofdingenieur- directeur van Rijkswaterstaat Noord-Holland;  
+7. Voor het Noordzeekanaalgebied met inbegrip van de Noordzeesluizen tot en met het afgesloten IJ: de directeur-generaal Rijkswaterstaat;  
 
 8. Voor IJmuiden: voor de hoogovenhavens, de 1 <sup>e</sup>, 2 <sup>e</sup> en 3 <sup>e</sup> Rijksbinnenhaven, de kade van de papierfabriek van Gelder, de Vissershaven en de Haringhaven: de burgemeester van de gemeente Velsen.   
 
@@ -299,7 +299,7 @@ b. 400 < Tkrit < 440, 253 < Tkook < 273 en LC <sub>50</sub> < 10 <sup>4</sup> pp
 c. 293 < Tkrit < 400, 182 < Tkook < 253, en LC <sub>50</sub> < 5 .10 <sup>5</sup> ppm.   Dit zijn in ieder geval de volgende vloeibaar gemaakte gassen:  
 
 | VN nr.  | Stofnaam  |
-|:---|:---|
+|---|---|
 | 1017  | Chloor  |
 | 1026  | Dicyaan  |
 | 1032  | Dimethylamine, watervrij  |

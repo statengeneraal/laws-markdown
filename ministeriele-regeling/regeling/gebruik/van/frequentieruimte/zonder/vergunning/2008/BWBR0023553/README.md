@@ -10,7 +10,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. besluit: [Frequentiebesluit](../../../../../../../../../AMvB/frequentiebesluit/BWBR0009997/README.md);  
+a. besluit: [Frequentiebesluit 2013](../../../../../../../../../AMvB/frequentiebesluit/2013/BWBR0032895/README.md);  
 
 b. frequentieplan: het in [artikel 3.1 van de wet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) bedoelde frequentieplan;  
 
@@ -50,14 +50,14 @@ s. zeemijl: 1852 meter.
 
 ### Artikel  2  
 
-1.  Geen vergunning is vereist voor gebruik van frequentieruimte als bedoeld in [artikel 3.4, eerste lid, onder a, van de wet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) indien daarbij gebruik wordt gemaakt van de in het tweede lid aangewezen categorieën van radiozendapparaten.   
+1.  Geen vergunning is vereist voor gebruik van frequentieruimte als bedoeld in [artikel 2 van het besluit](../../../../../../../../../AMvB/frequentiebesluit/2013/BWBR0032895/README.md) indien daarbij gebruik wordt gemaakt van de in het tweede lid aangewezen categorieën van radiozendapparaten.   
 2.  Als categorieën radiozendapparaten worden aangewezen: 
 
 a. apparaten, niet zijnde apparaten als bedoeld in categorie 22 van bijlage 8, die bestemd zijn voor aansluiting op een mobiel openbaar telecommunicatienetwerk, indien voor het gebruik van de door het netwerk gebruikte frequentieruimte een vergunning is verleend;  
 
-b. randapparaten die bestemd zijn voor aansluiting op een openbaar satellietsysteem, ten behoeve van mobiele communicatie, met uitzondering van het nood-, spoed en veiligheidsverkeer;  
+b. randapparaten die bestemd zijn voor aansluiting op een openbaar satellietsysteem, ten behoeve van mobiele communicatie, met uitzondering van maritiemmobiele communicatie en het nood-, spoed- en veiligheidsverkeer;  
 
-c. koordloze telefoons die bestemd zijn voor aansluiting op een openbaar telefoonnetwerk op een vaste locatie, mits de in bijlage 1 aangegeven frequentiebanden en de daarbij behorende gebruiksvoorschriften in acht worden genomen;  
+c. draadloze telefoons die bestemd zijn voor aansluiting op een openbaar telefoonnetwerk op een vaste locatie, mits de in bijlage 1 aangegeven frequentiebanden en de daarbij behorende gebruiksvoorschriften in acht worden genomen;  
 
 d. radiozendapparaten voor algemene radiocommunicatie in de 27 MHz-frequentieband (CB), mits gebruikt in de in bijlage 2 aangegeven frequentiebanden en met inachtneming van de daarbij behorende gebruiksvoorschriften;  
 
@@ -79,14 +79,14 @@ l. radiozendapparaten die onderdeel uitmaken van, dan wel bestemd zijn voor aans
 
 m. de in bijlage 8 bedoelde categorieën radiozendapparaten, mits gebruikt in de in die bijlage aangegeven frequentiebanden en met inachtneming van de daarbij behorende gebruiksvoorschriften;  
 
-n.  vervallen;   
+n. radiozendapparaten die gebruik maken van ultrawidebandtechnologie, mits de in bijlage 9 aangegeven frequentiebanden en de daarbij behorende gebruiksvoorschriften in acht worden genomen;  
 
 o. radiozendapparaten die onderdeel uitmaken van een mobiel elektronisch communicatienetwerk, mits gebruikt overeenkomstig het bepaalde in bijlage 8A en radiozendapparaten die bestemd zijn voor aansluiting op dat netwerk, mits die gebruikmaken van de frequentieband van 1780 tot en met 1785 MHz.     
 3.  De aanwijzing, bedoeld in het eerste lid, heeft slechts betrekking op apparaten die voldoen aan het bij of krachtens het [Besluit](../../../../../../../../../AMvB/frequentiebesluit/BWBR0009997/README.md) randapparaten en radioapparaten 2007 bepaalde.   
 
 ### Artikel  3  
 
-De artikelen 4 tot en met 11 en 13 hebben betrekking op gebruik van frequentieruimte zonder vergunning als bedoeld in [artikel 3.4, eerste lid, onder c, van de wet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), met uitzondering van maritiemmobiele communicatie vanaf het land.  
+De artikelen 4 tot en met 11 en 13 hebben betrekking op gebruik van frequentieruimte zonder vergunning als bedoeld in [artikel 3 van het besluit](../../../../../../../../../AMvB/frequentiebesluit/2013/BWBR0032895/README.md), met uitzondering van maritiemmobiele communicatie vanaf het land.  
 
 ### Artikel  4  
 
@@ -106,7 +106,7 @@ c. een stichting die zich blijkens de statutaire doelstelling richt op het doen 
 
 ### Artikel  6  
 
-1.  De melding, bedoeld in [artikel 20a, eerste lid, van het besluit](../../../../../../../../../AMvB/frequentiebesluit/BWBR0009997/README.md), wordt gedaan bij Agentschap Telecom, met gebruikmaking van een daartoe strekkend formulier.   
+1.  De melding, bedoeld in [artikel 5, eerste lid, van het besluit](../../../../../../../../../AMvB/frequentiebesluit/2013/BWBR0032895/README.md), wordt gedaan bij Agentschap Telecom, met gebruikmaking van een daartoe strekkend formulier.   
 2.  Bij de melding worden in elk geval de volgende gegevens en bescheiden verstrekt: 
 
 a. persoonsgegevens omtrent de gebruiker;  

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat, in overeenstemming met Onze Minister van Defensie van 5 maart 1999, nr. DGRLD/JBZ/L 99 210113, Directoraat-Generaal Rijksluchtvaartdienst;
 
-Gelet op de [artikelen 1.2, tweede lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [2.2, derde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [2.3, tweede, vijfde en zesde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [2.4, tweede, derde en vierde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [2.7, vierde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [2.9, eerste lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [3.30](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [5.11](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), en [5.16, tweede lid, van de Wet luchtvaart](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);
+Gelet op de artikelen 1.2, tweede lid, 2.2, derde lid, 2.3, tweede, vijfde en zesde lid, 2.4, tweede, derde en vierde lid, 2.7, vierde lid, 2.9, eerste lid, 3.30, 5.11, en 5.16, tweede lid, van de Wet luchtvaart;
 
 De Raad van State gehoord (advies van 21 mei 1999, nr. W09.99.0097/V);
 
@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: AFIS: onderdeel van luchtverkeersdienstverlening dat voorziet in het geven van inlichtingen die tot doel hebben een veilig en geregeld verloop van het luchthavenverkeer op daartoe door Onze Minister bij ministeriële regeling aangewezen luchthavens (Aerodrome Flight Information Service); AML: bewijs van bevoegdheid voor onderhoudstechnicus (Aircraft Maintenance Licence); ATPL: bewijs van bevoegdheid voor verkeersvlieger (Airline Transport Pilot Licence); CFEL: bewijs van bevoegdheid voor boordwerktuigkundige (Cockpit Flight Engineer Licence); CRI: klassebevoegdverklaring instructeur (Class Rating Instructor); CPL: bewijs van bevoegdheid voor beroepsvlieger (Commercial Pilot Licence); CSR: bevoegdverklaring voor landbouwvliegen (Crop Spraying Rating); FB: categorie vrije ballonnen (free balloons); FI: bevoegdverklaring vlieginstructeur (Flight Instructor); grondverkeer: alle verkeer op een landingsterrein met uitzondering van startend en landend verkeer; helikopter: gemotoriseerd luchtvaartuig met rotorbladen, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn rotorbladen; ICAO-locatie-indicator: de uit vier letters bestaande code die is samengesteld door de Internationale Burgerluchtvaartorganisatie overeenkomstig in haar handboek DOC 7910 gegeven regels en is toegewezen aan de locatie van een vast luchtverkeersstation; IFR-vlucht: vlucht als bedoeld in [artikel 1 van het Luchtverkeersreglement](../../../../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md); IR: bevoegdverklaring instrumentvliegen (Instrument Rating); IRI: instructeur instrumentvliegen (Instrument Rating Instructor); JAA: Joint Aviation Authorities; JAA-land: land waarvan de burgerluchtvaartautoriteit de JAA-overeenkomst van 11 september 1990 heeft getekend; JAR: Joint Aviation Requirements; JAR-FCL 1: regeling inzake bewijzen van bevoegdheid voor bestuurders van vliegtuigen, opgesteld door de JAA; JAR-FCL 2: regeling inzake bewijzen van bevoegdheid voor bestuurders van helikopters, opgesteld door de JAA; JAR-FCL 3: regeling inzake medische eisen voor bemanningen van luchtvaartuigen, opgesteld door de JAA; JAR-FCL 4: regeling inzake bewijzen van bevoegdheid voor boordwerktuigkundigen van vliegtuigen, opgesteld door de JAA; leerling-luchtverkeersleider: persoon, bevoegd tot het geven van luchtverkeersdienstverlening onder toezicht van een bevoegde praktijkinstructeur; LPE: taalvaardigheidsaantekening (language proficiency endorsement); luchtschip: luchtvaartuig, lichter dan lucht, dat is voorzien van een voortstuwingsinrichting en een besturingsinrichting; luchtvaartgrondstation: een radiozend- en ontvangstation op een vaste plaats op de grond dat werkt in de luchtvaartmobiele of luchtvaartnavigatiefrequentiebanden; luchthaveninformatie: 
+1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: AFIS: onderdeel van luchtverkeersdienstverlening dat voorziet in het geven van inlichtingen die tot doel hebben een veilig en geregeld verloop van het luchthavenverkeer op daartoe door Onze Minister bij ministeriële regeling aangewezen luchthavens (Aerodrome Flight Information Service); AML: bewijs van bevoegdheid voor onderhoudstechnicus (Aircraft Maintenance Licence); ATPL: bewijs van bevoegdheid voor verkeersvlieger (Airline Transport Pilot Licence); CFEL: bewijs van bevoegdheid voor boordwerktuigkundige (Cockpit Flight Engineer Licence); CRI: klassebevoegdverklaring instructeur (Class Rating Instructor); CPL: bewijs van bevoegdheid voor beroepsvlieger (Commercial Pilot Licence); CSR: bevoegdverklaring voor landbouwvliegen (Crop Spraying Rating); FB: categorie vrije ballonnen (free balloons); FI: bevoegdverklaring vlieginstructeur (Flight Instructor); grondverkeer: alle verkeer op een landingsterrein met uitzondering van startend en landend verkeer; helikopter: gemotoriseerd luchtvaartuig met rotorbladen, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn rotorbladen; ICAO-locatie-indicator: de uit vier letters bestaande code die is samengesteld door de Internationale Burgerluchtvaartorganisatie overeenkomstig in haar handboek DOC 7910 gegeven regels en is toegewezen aan de locatie van een vast luchtverkeersstation; IFR-vlucht: vlucht als bedoeld in artikel 1 van het Luchtverkeersreglement; IR: bevoegdverklaring instrumentvliegen (Instrument Rating); IRI: instructeur instrumentvliegen (Instrument Rating Instructor); JAA: Joint Aviation Authorities; JAA-land: land waarvan de burgerluchtvaartautoriteit de JAA-overeenkomst van 11 september 1990 heeft getekend; JAR: Joint Aviation Requirements; JAR-FCL 1: regeling inzake bewijzen van bevoegdheid voor bestuurders van vliegtuigen, opgesteld door de JAA; JAR-FCL 2: regeling inzake bewijzen van bevoegdheid voor bestuurders van helikopters, opgesteld door de JAA; JAR-FCL 3: regeling inzake medische eisen voor bemanningen van luchtvaartuigen, opgesteld door de JAA; JAR-FCL 4: regeling inzake bewijzen van bevoegdheid voor boordwerktuigkundigen van vliegtuigen, opgesteld door de JAA; leerling-luchtverkeersleider: persoon, bevoegd tot het geven van luchtverkeersdienstverlening onder toezicht van een bevoegde praktijkinstructeur; LPE: taalvaardigheidsaantekening (language proficiency endorsement); luchtschip: luchtvaartuig, lichter dan lucht, dat is voorzien van een voortstuwingsinrichting en een besturingsinrichting; luchtvaartgrondstation: een radiozend- en ontvangstation op een vaste plaats op de grond dat werkt in de luchtvaartmobiele of luchtvaartnavigatiefrequentiebanden; luchthaveninformatie: 
 
 1. informatie overeenkomend met de betekenis van de in de Regeling seinen opgenomen grondtekens die op de luchthaven zijn uitgelegd,  
 
@@ -30,12 +30,12 @@ Hebben goedgevonden en verstaan:
 
 5. informatie over de te volgen taxiprocedures, of  
 
-6. informatie over de te gebruiken parkeerplaatsen;   luchthaveninformatieverstrekker: persoon die op grond van dit besluit bevoegd is luchthaveninformatie te verstrekken; luchtverkeersleider: persoon, bevoegd tot het geven van luchtverkeersdienstverlening als bedoeld in [artikel 1.1, eerste lid, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md); ME: meermotorig (Multi Engine); MCC: vluchtuitvoering door een meerhoofdige bemanning die samenwerkt als team en geleid wordt door de eerste bestuurder (Multi-Crew Co-operation); MCCI: Multi-Crew Co-operation Instructor; MLA: land-, amfibie- of watervliegtuig met niet meer dan twee zitplaatsen, een overtreksnelheid die niet hoger is dan 35.1 knopen gekalibreerde luchtsnelheid, en een maximum startmassa van niet meer dan: 300 kg voor een landvliegtuig, eenzitter; 450 kg voor een landvliegtuig, tweezitter; 330 kg voor een amfibie- of watervliegtuig, eenzitter, of 495 kg voor een amfibie- of watervliegtuig, tweezitter, mits een micro light die als watervliegtuig en als landvliegtuig gebruikt kan worden binnen beide daarvoor geldende massalimieten valt (Micro Light Aeroplane) MOA: erkenning als bedoeld in verordening (EG) nr. 2042/2003, Part 145 (Maintenance Organisation Approval); MOA-F: erkenning als bedoeld in verordening (EG) nr. 2042/2003, Part M (Maintenance Organisation Approval-F); mobiel luchtvaartstation: een radiozend- en ontvangstation op de grond, niet op een vaste plaats, dat werkt in de luchtvaartmobiele of luchtvaartnavigatiefrequentiebanden; MPL: meervliegervliegbewijs voor vliegtuigen (Multi-crew Pilot Licence); multi-pilot: gecertificeerd voor ten minste twee bestuurders; night qualification: bevoegdverklaring VFR-nachtvliegen; Onze Minister: Onze Minister van Verkeer en Waterstaat; Part-M: deel betreffende de blijvende luchtwaardigheid van EASA-luchtvaartuigen (bijlage 1 bij de verordening (EG) nr. 2042/2003); Part-66: deel betreffende trainings- en exameneisen voor onderhoudspersoneel (bijlage 3 bij de verordening (EG) nr. 2042/2003); Part-66-AML: bewijs van bevoegdheid krachtens Part-66; Part-145: Part betreffende erkende onderhoudsbedrijven (bijlage 2 bij de verordening (EG) nr. 2042/2003); PPL: bewijs van bevoegdheid voor privévlieger (Private Pilot Licence); RFI: bevoegdverklaring recreatief vlieginstructeur (Recreational Flight Instructor); RPL: bewijs van bevoegdheid voor recreatief vlieger (Recreational Pilot Licence); RT: bevoegdverklaring radiotelefonie; [R.T.L.: Regeling Toezicht Luchtvaart](../../../../../../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md); schermvliegtuig: zweeftoestel zonder starre hoofdstructuur, dat kan worden gedragen en slechts gestart en geland kan worden door gebruik te maken van de benen van de bestuurder; SE: eenmotorig (Single-Engine); sector: een deel van een luchtverkeersleidingsgebied of van een vluchtinformatiegebied; SFI: instructeur STD (Synthetic Flight Instructor); single-pilot: gecertificeerd voor één bestuurder; STI: instructeur vluchtnabootser (Synthetic Training Instructor); TMG: motorzweefvliegtuig met een integraal gemonteerde niet intrekbare motor en een niet intrekbare propeller, dat in staat is om op eigen kracht op te stijgen en te klimmen (Touring Motor Glider); TRI: typebevoegdverklaring instructeur (Type Rating Instructor); verdrag: Verdrag inzake de internationale burgerluchtvaart (Trb. 1973. 109); verordening (EG) nr. 2042/2003: verordening van de Commissie van de Europese Gemeenschappen van 20 november 2003 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU L 315); VFR-vlucht: vlucht als bedoeld in [artikel 1 van het Luchtverkeersreglement](../../../../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md); vliegtuig: gemotoriseerd luchtvaartuig met vaste vleugels, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn vleugels; vluchtinformatieverstrekker: persoon, bevoegd tot het geven van advies, inlichtingen en alarmering aan luchtverkeer of grondverkeer; vrije ballon: luchtvaartuig, lichter dan lucht, niet voorzien van een voortstuwingsinstallatie en ingericht en bestemd om ten minste één persoon te vervoeren; wet: [Wet luchtvaart](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md); zeilvliegtuig: zweeftoestel met starre hoofdstructuur, dat kan worden gedragen en slechts gestart en geland kan worden door gebruik te maken van de benen van de bestuurder; zweeftoestel: luchtvaartuig niet zijnde een TMG, zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aerodynamische reactiekrachten en waarvan de vrije vlucht niet afhankelijk is van een motor; zweefvliegtuig: zweeftoestel met vaste vleugel.   
+6. informatie over de te gebruiken parkeerplaatsen;   luchthaveninformatieverstrekker: persoon die op grond van dit besluit bevoegd is luchthaveninformatie te verstrekken; luchtverkeersleider: persoon, bevoegd tot het geven van luchtverkeersdienstverlening als bedoeld in artikel 1.1, eerste lid, van de wet; ME: meermotorig (Multi Engine); MCC: vluchtuitvoering door een meerhoofdige bemanning die samenwerkt als team en geleid wordt door de eerste bestuurder (Multi-Crew Co-operation); MCCI: Multi-Crew Co-operation Instructor; MLA: land-, amfibie- of watervliegtuig met niet meer dan twee zitplaatsen, een overtreksnelheid die niet hoger is dan 35.1 knopen gekalibreerde luchtsnelheid, en een maximum startmassa van niet meer dan: 300 kg voor een landvliegtuig, eenzitter; 450 kg voor een landvliegtuig, tweezitter; 330 kg voor een amfibie- of watervliegtuig, eenzitter, of 495 kg voor een amfibie- of watervliegtuig, tweezitter, mits een micro light die als watervliegtuig en als landvliegtuig gebruikt kan worden binnen beide daarvoor geldende massalimieten valt (Micro Light Aeroplane) MOA: erkenning als bedoeld in verordening (EG) nr. 2042/2003, Part 145 (Maintenance Organisation Approval); MOA-F: erkenning als bedoeld in verordening (EG) nr. 2042/2003, Part M (Maintenance Organisation Approval-F); mobiel luchtvaartstation: een radiozend- en ontvangstation op de grond, niet op een vaste plaats, dat werkt in de luchtvaartmobiele of luchtvaartnavigatiefrequentiebanden; MPL: meervliegervliegbewijs voor vliegtuigen (Multi-crew Pilot Licence); multi-pilot: gecertificeerd voor ten minste twee bestuurders; night qualification: bevoegdverklaring VFR-nachtvliegen; Onze Minister: Onze Minister van Verkeer en Waterstaat; Part-M: deel betreffende de blijvende luchtwaardigheid van EASA-luchtvaartuigen (bijlage 1 bij de verordening (EG) nr. 2042/2003); Part-66: deel betreffende trainings- en exameneisen voor onderhoudspersoneel (bijlage 3 bij de verordening (EG) nr. 2042/2003); Part-66-AML: bewijs van bevoegdheid krachtens Part-66; Part-145: Part betreffende erkende onderhoudsbedrijven (bijlage 2 bij de verordening (EG) nr. 2042/2003); PPL: bewijs van bevoegdheid voor privévlieger (Private Pilot Licence); RFI: bevoegdverklaring recreatief vlieginstructeur (Recreational Flight Instructor); RPL: bewijs van bevoegdheid voor recreatief vlieger (Recreational Pilot Licence); RT: bevoegdverklaring radiotelefonie; R.T.L.: Regeling Toezicht Luchtvaart; schermvliegtuig: zweeftoestel zonder starre hoofdstructuur, dat kan worden gedragen en slechts gestart en geland kan worden door gebruik te maken van de benen van de bestuurder; SE: eenmotorig (Single-Engine); sector: een deel van een luchtverkeersleidingsgebied of van een vluchtinformatiegebied; SFI: instructeur STD (Synthetic Flight Instructor); single-pilot: gecertificeerd voor één bestuurder; STI: instructeur vluchtnabootser (Synthetic Training Instructor); TMG: motorzweefvliegtuig met een integraal gemonteerde niet intrekbare motor en een niet intrekbare propeller, dat in staat is om op eigen kracht op te stijgen en te klimmen (Touring Motor Glider); TRI: typebevoegdverklaring instructeur (Type Rating Instructor); verdrag: Verdrag inzake de internationale burgerluchtvaart (Trb. 1973. 109); verordening (EG) nr. 2042/2003: verordening van de Commissie van de Europese Gemeenschappen van 20 november 2003 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU L 315); VFR-vlucht: vlucht als bedoeld in artikel 1 van het Luchtverkeersreglement; vliegtuig: gemotoriseerd luchtvaartuig met vaste vleugels, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn vleugels; vluchtinformatieverstrekker: persoon, bevoegd tot het geven van advies, inlichtingen en alarmering aan luchtverkeer of grondverkeer; vrije ballon: luchtvaartuig, lichter dan lucht, niet voorzien van een voortstuwingsinstallatie en ingericht en bestemd om ten minste één persoon te vervoeren; wet: Wet luchtvaart; zeilvliegtuig: zweeftoestel met starre hoofdstructuur, dat kan worden gedragen en slechts gestart en geland kan worden door gebruik te maken van de benen van de bestuurder; zweeftoestel: luchtvaartuig niet zijnde een TMG, zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aerodynamische reactiekrachten en waarvan de vrije vlucht niet afhankelijk is van een motor; zweefvliegtuig: zweeftoestel met vaste vleugel.   
 2.  Een wijziging van JAR-FCL 1 tot en met 4 gaat voor de toepassing van dit besluit en de krachtens dit besluit vastgestelde regelingen gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.   
 
 ### Artikel  1a  
 
-Dit besluit berust tevens op [artikel 2.9, tweede en vierde lid, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md).  
+Dit besluit berust tevens op artikel 2.9, tweede en vierde lid, van de wet.  
 
 ### Artikel  1b  
 
@@ -44,6 +44,11 @@ Van overeenkomstige toepassing in de openbare lichamen Bonaire, Sint Eustatius e
 a. Verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad van 20 februari 2008 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart, houdende intrekking van Richtlijn 91/670/EEG, Verordening (EG) nr. 1592/2002 en Richtlijn 2004/36/EG (PbEU L 79), en  
 
 b. Verordening (EG) nr. 2042/2003 van de Commissie van de Europese Gemeenschappen van 20 november 2003 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU L 315), met dien verstande dat bij ministeriële regeling nadere regels kunnen worden gesteld.    
+
+### Artikel  1c   
+Treedt in werking op een nader te bepalen tijdstip   
+
+De aanvraag voor de afgifte van een bewijs van bevoegdheid of gerelateerde certificaten als bedoeld in hetgeen bij of krachtens de basisverordening is bepaald wordt ingediend bij Onze Minister, tenzij bij of krachtens de basisverordening of de wet een andere instantie is aangewezen.  
 
 ### Hoofdstuk  2  
 
@@ -61,7 +66,7 @@ a. RPL, dat de bevoegdheid geeft, niet tegen vergoeding, op te treden als bestuu
 
 1°. alleen tijdens VFR-vluchten;  
 
-2°. alleen tijdens de daglichtperiode als bedoeld in [artikel 1 van het Luchtverkeersreglement](../../../../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), en  
+2°. alleen tijdens de daglichtperiode als bedoeld in artikel 1 van het Luchtverkeersreglement, en  
 
 3°. niet met passagiers, tenzij de houder ten minste tien uur ervaring heeft als gezagvoerder van een luchtvaartuig van dezelfde categorie of met dezelfde bijzondere bevoegdverklaring en de houder in de voorafgaande negentig dagen ten minste drie starts en drie landingen heeft uitgevoerd als gezagvoerder van een luchtvaartuig van dezelfde categorie en met dezelfde bijzondere bevoegdverklaring;    
 
@@ -85,7 +90,7 @@ h. MPL als bedoeld in JAR-FCL 1, subdeel K, met de bevoegdheden en onder de voor
 2.  Een bewijs van bevoegdheid als bedoeld in het eerste lid, kan worden afgegeven voor de volgende categorieën luchtvaartuigen:  
 
 |--- | vliegtuigen  | helikopters  | zweeftoestellen  | vrije ballonnen  | luchtschepen  | andere categorieën luchtvaartuigen  |--- | (A)  | (H)  | (G)  | (FB)  | (AS)  | (OA)  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | RPL  | x  | x  | --- | --- | x  | x  |
 | PPL  | x  | x  | --- | --- | --- | x  |
 | CPL  | x  | x  | --- | x  | x  | x  |
@@ -106,18 +111,18 @@ b. vaart bij nacht is slechts toegestaan, indien de houder ten minste twee opsti
 
 ### Artikel  3  
 
-1.  Aan houders van een RPL kan, onder de krachtens [artikel 2.2 van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) genoemde bijzondere bevoegdverklaringen, al dan niet onder beperkingen naar soort vlucht of ervaring, één of meer van de volgende algemene bevoegdverklaringen worden afgegeven: 
+1.  Aan houders van een RPL kan, onder de krachtens artikel 2.2 van de wet genoemde bijzondere bevoegdverklaringen, al dan niet onder beperkingen naar soort vlucht of ervaring, één of meer van de volgende algemene bevoegdverklaringen worden afgegeven: 
 
-a. RT, dat de bevoegdheid geeft om radiocontact met de luchtverkeersdienst, als bedoeld in [artikel 1 van het Luchtverkeersreglement](../../../../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), of met bestuurders van andere luchtvaartuigen te onderhouden;  
+a. RT, dat de bevoegdheid geeft om radiocontact met de luchtverkeersdienst, als bedoeld in artikel 1 van het Luchtverkeersreglement, of met bestuurders van andere luchtvaartuigen te onderhouden;  
 
 b. RFI, dat de bevoegdheid geeft om vliegonderricht te geven voor de afgifte van een: 
 
 1. RPL, of  
 
 2. bijzondere bevoegdverklaring in een RPL;       
-2.  Aan houders van een PPL, CPL, MPL of ATPL kan, onder de krachtens [artikel 2.2 van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) genoemde bijzondere bevoegdverklaringen, al dan niet onder beperkingen naar soort vlucht of ervaring, een of meer van de volgende algemene bevoegdverklaringen worden afgegeven: 
+2.  Aan houders van een PPL, CPL, MPL of ATPL kan, onder de krachtens artikel 2.2 van de wet genoemde bijzondere bevoegdverklaringen, al dan niet onder beperkingen naar soort vlucht of ervaring, een of meer van de volgende algemene bevoegdverklaringen worden afgegeven: 
 
-a. RT, dat de bevoegdheid geeft om radiocontact met de luchtverkeersdienst, als bedoeld in [artikel 1 van het Luchtverkeersreglement](../../../../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), of met bestuurders van andere luchtvaartuigen, te onderhouden;  
+a. RT, dat de bevoegdheid geeft om radiocontact met de luchtverkeersdienst, als bedoeld in artikel 1 van het Luchtverkeersreglement, of met bestuurders van andere luchtvaartuigen, te onderhouden;  
 
 b. IR als bedoeld in JAR-FCL 1 en 2, subdelen E, met de bevoegdheden en onder de voorwaarden, bedoeld in JAR-FCL 1.180 en JAR-FCL 2.180;  
 
@@ -192,7 +197,7 @@ b. met uitzondering van de bewijzen van bevoegdheid, bedoeld in artikel 2, eerst
 
 c. voldoet aan de in JAR-FCL 1.010 , JAR-FCL 2.010 of de in Bijlage 1 bij het verdrag gestelde vereisten inzake het vermogen tot beheersing van de Engelse taal op de niveaus 4, 5 of 6, indien het de aanvraag betreft van een bewijs van bevoegdheid als bedoeld in artikel 3, tweede lid, waaraan de algemene bevoegdverklaring, bedoeld in artikel 3, tweede lid, onderdeel a, wordt verbonden.     
 2.  De aanvraag tot afgifte van een bewijs van bevoegdheid of bevoegdverklaring wordt gedaan op een daartoe door Onze Minister verstrekt aanvraagformulier.   
-3.  Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in [artikel 2.3, zesde lid, onderdeel h, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), worden vergoed.   
+3.  Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in artikel 2.3, zesde lid, onderdeel h, van de wet, worden vergoed.   
 
 ### Artikel  9  
 
@@ -208,7 +213,7 @@ De bevoegdverklaringen, genoemd in artikel 3 en 5, worden verlengd indien de hou
 
 ### Artikel  11  
 
-1.  [Artikel 2.1, eerste en tweede lid, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) is niet van toepassing op: 
+1.  Artikel 2.1, eerste en tweede lid, van de wet is niet van toepassing op: 
 
 a. het bedienen van een modelvliegtuig, waarvan de totale massa ten hoogste 25 kg bedraagt;  
 
@@ -254,7 +259,7 @@ a. de leeftijd van 16 jaar heeft bereikt, met dien verstande, dat de bestuurder 
 b. kan aantonen te beschikken over voldoende bekwaamheid om op een veilige manier deel te nemen aan het luchtverkeer, en  
 
 c. kan aantonen dat een verzekering is gesloten tegen de burgerrechtelijke aansprakelijkheid jegens derden als gevolg van het gebruik van het luchtvaartuig.     
-3.  De [artikelen 2.1, eerste lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), voor zover dit betrekking heeft op het bedienen van een grondstation of mobiel station in de luchtvaartmobiele band, waarvoor een vergunning is vereist als bedoeld in [artikel 3.3 van de Telecommunicatiewet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), en [artikel 2.2, tweede lid, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) zijn niet van toepassing op degene die een luchtvaartuig als bedoeld in het eerste lid bedient of een solovlucht als bedoeld in onderdeel k van dat lid uitvoert, en houder is van een door Onze Minister afgegeven certificaat waaruit blijkt, dat die houder bevoegd is tot het bedienen van een grondstation of mobiel station als bedoeld in [artikel 2.1, eerste lid, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md).   
+3.  De artikelen 2.1, eerste lid, voor zover dit betrekking heeft op het bedienen van een grondstation of mobiel station in de luchtvaartmobiele band, waarvoor een vergunning is vereist als bedoeld in artikel 3.13 van de Telecommunicatiewet, en artikel 2.2, tweede lid, van de wet zijn niet van toepassing op degene die een luchtvaartuig als bedoeld in het eerste lid bedient of een solovlucht als bedoeld in onderdeel k van dat lid uitvoert, en houder is van een door Onze Minister afgegeven certificaat waaruit blijkt, dat die houder bevoegd is tot het bedienen van een grondstation of mobiel station als bedoeld in artikel 2.1, eerste lid, van de wet.   
 
 ### Artikel  12  
 
@@ -283,7 +288,7 @@ b. voor de erkenning en de kwalificatie:
 2. eisen inzake de organisatie en eisen inzake de opleiding,  
 
 3. de afgifte, geldigheidsduur, verlenging, intrekking en wijziging.       
-2.  Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in [artikel 2.9, vierde lid, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) worden vergoed.   
+2.  Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in artikel 2.9, vierde lid, van de wet worden vergoed.   
 3.  Onze Minister geeft nadere regels met betrekking tot de kwalificatie van STD's. Deze regels omvatten in ieder geval bepalingen betreffende: 
 
 a. de bij de aanvraag in te dienen gegevens;  
@@ -445,7 +450,7 @@ b. voldoet aan bij ministeriële regeling te stellen eisen inzake kennis, bedrev
 
 c. overeenkomstig Bijlage 1 bij het op 7 december 1944 te Chicago gesloten Verdrag inzake de Internationale Burgerluchtvaart (Trb. 1973, 109) voldoet aan de vereisten inzake het vermogen tot beheersing van de Engelse taal op de niveaus 4, 5 of 6.     
 2.  Het eerste lid, onderdeel b, is van overeenkomstige toepassing op het verlenen van bewijzen van bevoegdheid voor luchthaveninformatieverstrekker en op het verlenen van bevoegdverklaringen en aantekeningen als bedoeld in artikel 18.   
-3.  Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in [artikel 2.3, zesde lid, onderdeel h, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), worden vergoed.   
+3.  Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in artikel 2.3, zesde lid, onderdeel h, van de wet, worden vergoed.   
 
 ### Artikel  21  
 
@@ -458,7 +463,7 @@ c. overeenkomstig Bijlage 1 bij het op 7 december 1944 te Chicago gesloten Verdr
 ### Artikel  22  
 
 1.  De vereisten inzake ervaring voor het verkrijgen van een bewijs van bevoegdheid voor vluchtinformatieverstrekker zijn niet van toepassing op personen die maximaal 24 maanden voor de datum van aanvraag in het bezit waren van een geldig bewijs van bevoegdheid voor luchtverkeersleider.   
-2.  De vereisten inzake ervaring voor het verkrijgen van een bewijs van bevoegdheid voor luchthaveninformatieverstrekker zijn niet van toepassing op personen die maximaal 24 maanden voor de datum van de aanvraag in het bezit waren van een geldig bewijs van bevoegdheid voor luchtverkeersleider of vluchtinformatieverstrekker .   
+2.  De vereisten inzake ervaring voor het verkrijgen van een bewijs van bevoegdheid voor luchthaveninformatieverstrekker zijn niet van toepassing op personen die maximaal 24 maanden voor de datum van de aanvraag in het bezit waren van een geldig bewijs van bevoegdheid voor luchtverkeersleider of vluchtinformatieverstrekker.   
 
 ### Artikel  24  
 
@@ -500,7 +505,7 @@ c. de geldigheidsduur van de certificering;
 d. de technische en operationele bekwaamheden van de opleidingsinstelling;  
 
 e. het vermogen van de opleidingsinstelling opleidingen te organiseren.     
-2.  Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in [artikel 2.9, vierde lid, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) worden vergoed.   
+2.  Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in artikel 2.9, vierde lid, van de wet worden vergoed.   
 
 ### Paragraaf  3  
 
@@ -528,7 +533,7 @@ b. de plaatsvervangend voorzitter,
 c. de secretaris,  
 
 d. minimaal twee beheerders van de examenvragendatabank.     
-3.  De benoeming van de in het tweede lid, onderdelen b, c en d, bedoelde leden vindt plaats op voordracht van de voorzitter van de examencommissie, in overleg met de in de [artikelen 5.13, eerste lid, onderdeel a](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), en [5.14, onderdeel a, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) bedoelde instanties voor luchtverkeersdienstverlening.   
+3.  De benoeming van de in het tweede lid, onderdelen b, c en d, bedoelde leden vindt plaats op voordracht van de voorzitter van de examencommissie, in overleg met de in de artikelen 5.13, eerste lid, onderdeel a, en 5.14, onderdeel a, van de wet bedoelde instanties voor luchtverkeersdienstverlening.   
 4.  Bij ontstentenis van de voorzitter en de plaatsvervangend voorzitter worden hun werkzaamheden verricht door de secretaris.   
 
 ### Artikel  28  
@@ -583,7 +588,7 @@ g. de eisen waaraan een geneeskundige of een geneeskundige instantie ten behoeve
 h. de verplichtingen van de houder van de medische verklaring of van een geneeskundige of een geneeskundige instantie;  
 
 i. de erkenning van in het buitenland verrichte keuringen.     
-3.  Onze Minister stelt de tarieven vast, volgens welke de kosten, als bedoeld in [artikel 2.3, zesde lid, onderdeel h](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [artikel 2.4, derde lid, onderdeel g, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) worden vergoed.   
+3.  Onze Minister stelt de tarieven vast, volgens welke de kosten, als bedoeld in artikel 2.3, zesde lid, onderdeel h en artikel 2.4, derde lid, onderdeel g, van de wet worden vergoed.   
 
 ### Artikel  31  
 
@@ -591,13 +596,13 @@ i. de erkenning van in het buitenland verrichte keuringen.
 2.  De geldigheidsduur van de medische verklaring voor luchtverkeersleiders, luchtverkeersleiders in opleiding, vluchtinformatieverstrekkers en luchthaveninformatieverstrekkers bedraagt in maanden ten hoogste:  
 
 | a.  |--- |--- |--- | klasse 2  | jonger dan 30 jaar  | 30 tot 50 jaar  | 50 jaar of ouder  |
-|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|
 | luchthaveninformatieverstrekker  | 60*  | 24  | 12  |
 
 * met dien verstande dat een medische verklaring afgegeven voor het dertigste levensjaar van de houder slechts geldt tot zijn twee en dertigste jaar.  
 
 | b.  |--- |--- | klasse 3  | jonger dan 40 jaar  | 40 jaar of ouder  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | a. luchtverkeersleider  | 24  | 12  |
 | b. luchtverkeersleider in opleiding  | 24  | 12  |
 | c. vluchtinformatieverstrekker  | 24  | 12  |
@@ -634,7 +639,7 @@ Zolang in een vacature in de Adviescommissie niet is voorzien, vormen de overbli
 
 ### Artikel  36  
 
-1.  Indien een bewijs van bevoegdheid of een bevoegdverklaring is geschorst op één van de in [artikel 2.5, eerste lid, onderdeel a of b van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) genoemde gronden, kan Onze Minister bepalen dat de houder zich opnieuw aan een door Onze Minister te bepalen examen onderwerpt. Het examen kan beperkt blijven tot één of enkele onderdelen.   
+1.  Indien een bewijs van bevoegdheid of een bevoegdverklaring is geschorst op één van de in artikel 2.5, eerste lid, onderdeel a of b van de wet genoemde gronden, kan Onze Minister bepalen dat de houder zich opnieuw aan een door Onze Minister te bepalen examen onderwerpt. Het examen kan beperkt blijven tot één of enkele onderdelen.   
 2.  Indien een bewijs van bevoegdheid of een bevoegdverklaring is geschorst op grond van artikel 2.5, eerste lid, onderdeel c, wordt de schorsing opgeheven bij opnieuw gebleken medische geschiktheid.   
 
 ### Hoofdstuk  6  
@@ -668,7 +673,7 @@ A. H. Korthals
 ####behorende bij artikel 38, vijfde lid , van het Besluit bewijzen van bevoegdheid voor de luchtvaart
 
 | huidige klasse/typebevoegdverklaring  | nieuwe bijzondere bevoegdverklaring  |
-|:---|:---|
+|---|---|
 | AIR TRACTOR AT-301  | SE piston(land)  |
 | AIRBUS 319/320/321  | A319/320/321  |
 | AIRBUS A300  | A300  |
@@ -804,12 +809,12 @@ A. H. Korthals
 
 ####behorende bij artikel 18  van het Besluit bewijzen van bevoegdheid voor de luchtvaart
 
-![248690](http://wetten.overheid.nl/Illustration/248690)
+![]()
 
 ####Verklarende afkortingenlijst:
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | ACS:  | bevoegdheid tot het verlenen van luchtverkeersleidingsdiensten met behulp van surveillanceapparatuur (Area Control Surveillance);  |
 | ACP:  | bevoegdheid tot het verlenen van luchtverkeersleidingsdiensten zonder surveillanceapparatuur (Area Control Procedural);  |
 | ADI:  | bevoegdheid tot het verlenen van luchtverkeersleidingsdiensten ten behoeve van het luchtvaartterreinverkeer op of in de nabijheid van een luchtvaartterrein dat over gepubliceerde procedures voor nadering of vertrek op instrumenten beschikt (Aerodrome Control Instrument);  |
