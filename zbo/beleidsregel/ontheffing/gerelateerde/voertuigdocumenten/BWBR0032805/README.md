@@ -3,7 +3,7 @@
 ##Beleidsregel ontheffing gerelateerde voertuigdocumenten
 
 De directie van de Dienst Wegverkeer,  
-Gelet op [artikel 48, tweede lid](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 149a, tweede lid van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 4:83 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), het [Besluit Voertuigen](../../../../../../AMvB/besluit/voertuigen/BWBR0025554/README.md), [artikel 4, vierde lid van het Kentekenreglement](../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), het [Besluit ontheffing verlening exceptionele transporten](../../../../../../AMvB/besluit/ontheffingverlening/exceptionele/transporten/BWBR0018680/README.md) en de [Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);
+Gelet op artikel 48, tweede lid en artikel 149a, tweede lid van de Wegenverkeerswet 1994, artikel 4:83 van de Algemene wet bestuursrecht, het Besluit Voertuigen, artikel 4, vierde lid van het Kentekenreglement, het Besluit ontheffing verlening exceptionele transporten en de Regeling voertuigen;
 Besluit:     
 ### §  1  
 
@@ -13,7 +13,7 @@ Besluit:
 
 ####Definities
 
-Voor de toepassing van deze beleidsregel worden de begripsbepalingen van de [Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) overgenomen. Voorts wordt verstaan onder: 
+Voor de toepassing van deze beleidsregel worden de begripsbepalingen van de Regeling voertuigen overgenomen. Voorts wordt verstaan onder: 
 
 a. *ballasttrekker:* een voertuig van de categorie N waarbij uit het kentekenbewijs blijkt dat het voertuig is ingericht voor trekker en vrachtwagen, en waarbij het voertuig minimaal is voorzien van 3 assen, waarvan ten minste 2 assen aangedreven;  
 
@@ -31,13 +31,13 @@ g. *ontheffingsattest:* een document waar op de technische waarden voor een voer
 
 h. *SERT:* document waar op technische waarden voor 1 of uit meerdere delen samengestelde voertuigen van de categorie O worden vermeld ten behoeve van het aanvragen en gebruik van ontheffingen;  
 
-i. *Principeakkoord:* Een document dat wordt afgegeven nadat een beoordeling en onderzoek is uitgevoerd en voorwaardelijk is voor de afgifte van een kenteken als bedoeld in [artikel 48, tweede lid van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en een ontheffing als bedoeld in [artikel 149a, tweede lid van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).    
+i. *Principeakkoord:* Een document dat wordt afgegeven nadat een beoordeling en onderzoek is uitgevoerd en voorwaardelijk is voor de afgifte van een kenteken als bedoeld in artikel 48, tweede lid van de Wegenverkeerswet 1994, en een ontheffing als bedoeld in artikel 149a, tweede lid van de Wegenverkeerswet 1994.    
 
 ### Artikel  2  
 
 ####Toepassingsgebied
 
-Deze beleidsregel is van toepassing op de behandeling van aanvragen voor een ontheffing gerelateerd voertuigdocument welke noodzakelijk is ten behoeve van de aanvraag van een kenteken als bedoeld in [artikel 48, tweede lid van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), of de aanvraag en het gebruik van een ontheffing als bedoeld in [artikel 149a, tweede lid van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).  
+Deze beleidsregel is van toepassing op de behandeling van aanvragen voor een ontheffing gerelateerd voertuigdocument welke noodzakelijk is ten behoeve van de aanvraag van een kenteken als bedoeld in artikel 48, tweede lid van de Wegenverkeerswet 1994, of de aanvraag en het gebruik van een ontheffing als bedoeld in artikel 149a, tweede lid van de Wegenverkeerswet 1994.  
 
 ### Artikel  3  
 
@@ -165,10 +165,10 @@ e. het reeds afgegeven kentekenbewijs, indien de aanvraag betrekking heeft op ee
 ####Keuringen en onderzoeken
 
 1.  Na beoordeling van de aanvraag vinden de keuring en onderzoeken van de getrokken voertuigen plaats op de door de RDW daartoe aangewezen locatie.   
-2.  In afwijking van het eerste lid kan, indien een fabrikant / importeur de voorafgaande 5 jaar gemiddeld 12 of meer voertuigen per jaar heeft aangeboden voor een principeakkoord en waarvoor een kenteken als bedoeld in [artikel 48, tweede lid van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is afgegeven, de aanvraag rechtstreeks indienen bij de door de RDW daartoe aangewezen locatie.   
+2.  In afwijking van het eerste lid kan, indien een fabrikant / importeur de voorafgaande 5 jaar gemiddeld 12 of meer voertuigen per jaar heeft aangeboden voor een principeakkoord en waarvoor een kenteken als bedoeld in artikel 48, tweede lid van de Wegenverkeerswet 1994 is afgegeven, de aanvraag rechtstreeks indienen bij de door de RDW daartoe aangewezen locatie.   
 3.  Het bepaalde in het tweede lid is niet van toepassing op getrokken voertuigen uitgevoerd als: 
 
-a. deelbare aanhangwagen die is samengesteld, maar ieder afzonderlijk voldoet aan de [Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);  
+a. deelbare aanhangwagen die is samengesteld, maar ieder afzonderlijk voldoet aan de Regeling voertuigen;  
 
 b. modulaire voertuig;  
 
@@ -184,14 +184,14 @@ f. ingericht voor kermis- of circusdoeleinden.
 
 ####Wijze van beoordeling getrokken voertuig
 
-1.  Indien het een aanvraag van een getrokken voertuig betreft, waarbij in onbeladen toestand niet wordt voldaan aan [artikel 5.12.6, derde lid van de Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), geldt het volgende: 
+1.  Indien het een aanvraag van een getrokken voertuig betreft, waarbij in onbeladen toestand niet wordt voldaan aan artikel 5.12.6, derde lid van de Regeling voertuigen, geldt het volgende: 
 
 a. een oplegger voor ondeelbare lading, niet zijnde een getrokken werktuig, waarbij de afstand tussen hart koppeling en achterzijde meer dan 12,00 m bedraagt, moet zijn voorzien van gedwongen besturing volgens ECE reglement R79 of richtlijn 70/311/EEG;  
 
 b. een oplegger voor vervoer ballastdelen voor een mobiele kraan, niet zijnde een getrokken werktuig, waarbij de afstand tussen hart koppeling en achterzijde meer dan 12,00 m bedraagt, moet zijn voorzien van gedwongen besturing volgens ECE reglement R79 of richtlijn 70/311/EEG;  
 
 c. een aanhangwagen voor ondeelbare lading, niet zijnde een oplegger of een getrokken werktuig, waarbij de totale lengte van de aanhangwagen meer bedraagt dan 12,00 m dient uitgevoerd te zijn als dieplader.     
-2.  Indien niet wordt voldaan aan [artikel 5.18.11](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) of [5.18.13 van de Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), geldt het volgende: 
+2.  Indien niet wordt voldaan aan artikel 5.18.11 of 5.18.13 van de Regeling voertuigen, geldt het volgende: 
 
 a. een oplegger als bedoeld in het eerste lid, onder a, en een trekker waarbij de totale lengte van de voertuigen maximaal 27,00 m bedraagt, moet ten minste aan de draaiproefeisen als bedoeld in bijlage B voldoen;  
 
@@ -203,15 +203,15 @@ c. een aanhangwagen als bedoeld in het eerste lid, onder c, en een bedrijfsauto 
 
 ####Wijze van beoordeling getrokken werktuig
 
-1.  Indien het een aanvraag voor een getrokken werktuig betreft, waarbij niet wordt voldaan aan [artikel 5.18.11 van de Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), geldt het volgende: 
+1.  Indien het een aanvraag voor een getrokken werktuig betreft, waarbij niet wordt voldaan aan artikel 5.18.11 van de Regeling voertuigen, geldt het volgende: 
 
 a. een oplegger, uitgevoerd als getrokken werktuig waarbij de afstand tussen hart koppeling en achterzijde meer dan 12,00 m bedraagt, en een trekker waarbij de totale lengte van de voertuigen meer dan 22,00 m en maximaal 27,00 m bedraagt, moet ten minste voldoen aan de draaiproefeisen als bedoeld in bijlage B;  
 
 b. een aanhangwagen, niet zijnde oplegger, uitgevoerd als getrokken werktuig waarbij de totale lengte meer bedraagt dan 12,00 m en een bedrijfsauto waarbij de totale lengte van de voertuigen maximaal 22,00 m is, wordt geacht te voldoen aan de draaiproefeisen in bijlage B;  
 
 c. een aanhangwagen, uitgevoerd als getrokken werktuig waarbij de totale lengte meer dan 12,00 m bedraagt en een bedrijfsauto waarbij de totale lengte van de voertuigen maximaal 27,00 m bedraagt, moet ten minste voldoen aan de draaiproefeisen als bedoeld in bijlage B.     
-2.  Bij een getrokken werktuig waarbij niet wordt voldaan aan [artikel 5.12.6, zesde lid van de Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) mag het getrokken werktuig de breedte niet worden veroorzaakt door de breedte van de as of het asstel.   
-3.  Indien het een aanvraag voor een getrokken werktuig betreft, waarbij niet wordt voldaan aan [artikel 5.18.17b tot en met artikel 5.18.17e van de Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), geldt het volgende: 
+2.  Bij een getrokken werktuig waarbij niet wordt voldaan aan artikel 5.12.6, zesde lid van de Regeling voertuigen mag het getrokken werktuig de breedte niet worden veroorzaakt door de breedte van de as of het asstel.   
+3.  Indien het een aanvraag voor een getrokken werktuig betreft, waarbij niet wordt voldaan aan artikel 5.18.17b tot en met artikel 5.18.17e van de Regeling voertuigen, geldt het volgende: 
 
 a. Een aanhangwagen, niet zijnde oplegger, uitgevoerd als middenasaanhangwagen met maximaal 2 assen kan in aanmerking komen voor een verhoging van de aslasten tot maximaal 10.000 kg indien het asstel een compenserend asstel betreft;  
 
@@ -365,7 +365,7 @@ c. een bewijs van voldoende verzekering overleggen tegen mogelijke aansprakelijk
 
 1.  In geval van een aanvraag als bedoeld in artikel 20, onder c hanteert de RDW de volgende beoordelingscriteria: 
 
-a. het bepaalde in [hoofdstuk 5, afdeling 12 van de Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) met uitzondering van het bepaalde in [artikel 5.12.6. lid 1 tot en met 7 en lid 9](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);  
+a. het bepaalde in hoofdstuk 5, afdeling 12 van de Regeling voertuigen met uitzondering van het bepaalde in artikel 5.12.6. lid 1 tot en met 7 en lid 9;  
 
 b. de actuele geldende door de RDW vastgestelde bestreken baan-eis volgens bijlage B;  
 
@@ -437,12 +437,12 @@ A3.  *Model SERT document*
 ####Model Principe akkoord
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *Aanvraag principeakkoord ten behoeve van aanvraag ZZ kenteken*   | --- |
 | (zoals geregeld in de beleidsregel ontheffing gerelateerde documenten)  |  *VT – afdeling Productbeoordeling*   Postbus 777,2700 AT Zoetermeer,  Fax: +31 (0)79 3458034  E-mail principeakkoord@rdw.nl  |
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 |  *Documenten die u moet meesturen met de aanvraag*   |
 | •  |  *Constructietekening buitenwettelijk voertuig met de in punt 3 aangeleverde gegevens.*   |
 | --- | ○  |  *Bij getrokken werktuigen exact is aangegeven waar de breedte van het voertuig meer dan 2,55 m.*   |
@@ -452,7 +452,7 @@ A3.  *Model SERT document*
 | •  |  *Document met de in punt 5 aangeleverde gegevens.*   |
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *Aanvraag betreft*   |
 | □ *Nieuw*  | □ *Import*  | □ *Wijziging voertuig*  |  *(aankruisen wat van toepassing is)*   |
 |  *1. Gegevens aanvrager*   |
@@ -514,13 +514,13 @@ A3.  *Model SERT document*
 
 ####Model Ontheffingsattest
 
-![251555](http://wetten.overheid.nl/Illustration/251555)
+![]()
 
 ### A3  
 
 ####Model SERT document
 
-![251556](http://wetten.overheid.nl/Illustration/251556)
+![]()
 
 ### Bijlage  B  
 
@@ -533,7 +533,7 @@ A3.  *Model SERT document*
 De draaiproefeisen zijn van toepassing op voertuigcombinaties bestemd voor het vervoer van ondeelbare lading en vallende in één van onderstaande categorieën.  
 
 | Categorie  | Combinatielengte ingeschoven  | Combinatielengte uitgeschoven  |
-|:---|:---|:---|
+|---|---|---|
 | 1  | ≤ wettelijk maximum  | > 22,00 m  |
 | 2  | > 22,00 m  | --- |
 
@@ -542,11 +542,11 @@ De draaiproefeisen zijn van toepassing op voertuigcombinaties bestemd voor het v
 ####Uitvoering draaiproef
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | De maten worden bepaald bij het in-, door- en uitrijden van de cirkels volgens nevenstaande figuur.  Bij het inrijden dient met het breedste voertuig (deel) langs de tangent te worden gereden en vervolgens met het voorste hoekpunt van het trekkende motorvoertuig de cirkelbaan en de uitrijtangent te worden gevolgd.  Bij uitschuifbare voertuigen moeten de proeven worden uitgevoerd met een combinatielengtemaat zo dicht mogelijk bij de bovenste grenswaarde van de betreffende proef, afhankelijk van de lengte en de instelmogelijkheid van het getrokken voertuig.  | --- |
 
 | Proef  | Combinatielengte (m)  | Buiten straal (m)  | Bestreken baan (m)  | Binnen straal (m)  | Uitscheermaat (m)  | Doorreden hoek (°)  |
-|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 | 1  | CL ≤ 17,00  | 12,50  | ≤ 7,20  | ≥ 5,30  | ≤ 0,80  | 270  |
 | 2  | 17,00 < CL ≤ 20,00  | 12,50  | ≤ 7,20  | ≥ 5,30  | ≤ 1,20  | 120  |
 | 3  | 20,00 < CL ≤ 23,00  | 14,50  | ≤ 8,00  | ≥ 6,50  | ≤ 1,40  | 120  |
@@ -559,8 +559,8 @@ De draaiproefeisen zijn van toepassing op voertuigcombinaties bestemd voor het v
 Bij de uitvoering van de draaiproefeis bedoeld in bijlage B geldt voor een oplegger een vastgelegde trekker volgens onderstaand schema met een breedte van 2,55 m en een voorzijde voertuig tot hart eerste as van 1,40 m. De maat aangegeven tussen de assen is de afstand van de gestuurde vooras tot het denkbeeldige draaipunt van de achteras(sen).  
 
 | Rekentrekker  | Maat tussen de assen (m)  | Voorzijde voertuig t/m hart koppeling (m)  | Koppelingsdruk (kg)  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 1  | 3,70  | 4,50  | ≤ 22.500  |
-| 2  | 4,80  | 5,20  | > 22.500 en ≤ 25.000  |
+| 2  | 4,60  | 5,20  | > 22.500 en ≤ 25.000  |
 | 3  | 5,20  | 5,40  | > 25.000  |
 
