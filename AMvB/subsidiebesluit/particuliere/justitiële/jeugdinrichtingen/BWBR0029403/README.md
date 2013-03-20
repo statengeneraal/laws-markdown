@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie, van 15 november 2010, nr. 5675254/10/6;
 
-Gelet op [artikel 3b, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);
+Gelet op artikel 3b, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen;
 
 De Raad van State gehoord (advies van 1 december 2010, nr. W03.10.0527/II;
 
@@ -20,7 +20,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-*de wet:* de [Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);    
+a. *de wet:* de Beginselenwet justitiële jeugdinrichtingen;  
+
+b. *operationele capaciteit:* het deel van de capaciteit waar jeugdigen geplaatst worden en waar – afhankelijk van de bestemming van artikel 8 van de Beginselenwet justitiële jeugdinrichtingen – alle activiteiten plaatsvinden;  
+
+c. *reservecapaciteit:* het deel van de capaciteit waar in principe geen jeugdigen worden geplaatst en dat operationeel gemaakt wordt indien de reeds vastgestelde operationele capaciteit tijdens een subsidiejaar onvoldoende blijkt te zijn;  
+
+d. *buitengebruikstelling:* het deel van de capaciteit dat er toe strekt om een gebouw in stand te houden voor een eventueel later hergebruik.    
 
 ### Hoofdstuk  2  
 
@@ -29,25 +35,27 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 ### Artikel  2  
 
 1.  Onze Minister verstrekt de particuliere inrichting een subsidie voor de kosten van de exploitatie van de inrichting.   
-2.  De exploitatiesubsidie wordt per boekjaar verstrekt; [afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
+2.  De exploitatiesubsidie wordt per boekjaar verstrekt; afdeling 4.2.8 van de Algemene wet bestuursrecht is van toepassing.   
 3.  Op de exploitatiesubsidie worden voorschotten verleend.   
 
 ### Artikel  3  
 
-1.  De exploitatiesubsidie wordt bepaald door de door Onze Minister vast te stellen normprijzen per plaats te vermenigvuldigen met de vastgestelde capaciteit. Bij de vaststelling van de normprijzen per plaats wordt de bestemming van de particuliere inrichting, zoals omschreven in [artikel 8, eerste lid, van de wet](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), in aanmerking genomen. Onder de bestemming van de inrichting kan worden begrepen het met die bestemming verband houdende open of gesloten karakter van de inrichting. Op het aldus bepaalde bedrag kunnen toeslagen worden verstrekt.   
-2.  Een procentuele verlaging van het bedrag van de exploitatiesubsidie vindt plaats, indien de gemiddelde jaarbezetting uitgedrukt in verblijfdagen minder bedraagt dan 90% van de voor de particuliere inrichting vastgestelde capaciteit. De procentuele verlaging wordt bepaald met behulp van de volgende formule: Voor particuliere inrichtingen met een vastgestelde capaciteit tot 100 plaatsen:  
+1.  De exploitatiesubsidie wordt bepaald door de door Onze Minister per plaats vastgestelde normprijzen te vermenigvuldigen met de door Onze Minister vast te stellen operationele capaciteit, vermeerderd met een subsidie voor reservecapaciteit, vermeerderd met een subsidie voor tijdelijk buiten gebruik gestelde locaties of afdelingen van een particuliere inrichting. Bij de vaststelling van de normprijzen per plaats wordt de bestemming van de particuliere inrichting, zoals omschreven in artikel 8, tweede lid, van de wet, in aanmerking genomen. Onder de bestemming van de inrichting kan worden begrepen het met die bestemming verband houdende open of gesloten karakter van de inrichting. Op het aldus bepaalde bedrag kunnen toeslagen worden verstrekt.   
+2.  Een procentuele verlaging van het bedrag van de exploitatiesubsidie vindt plaats, indien de gemiddelde jaarbezetting uitgedrukt in verblijfdagen minder bedraagt dan 90% van de voor de particuliere inrichting vastgestelde operationele capaciteit. De procentuele verlaging wordt bepaald met behulp van de volgende formule: Voor particuliere inrichtingen met een vastgestelde operationele capaciteit tot 100 plaatsen:  
 
 | --- | --- | --- |
-|:---|:---|:---|
-|  (90% – gerealiseerde bezettingsgraad) x  | vastgestelde capaciteit  | x 50%  |
+|---|---|---|
+|  (90% – gerealiseerde bezettingsgraad) x  | vastgestelde operationele capaciteit  | x 50%  |
 | ———————  |
 | --- | 100  | --- |
 
-voor particuliere inrichtingen met een vastgestelde capaciteit vanaf 100 plaatsen:  
+voor particuliere inrichtingen met een vastgestelde operationele capaciteit vanaf 100 plaatsen:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 |  (90% – gerealiseerde bezetingsgraad) x 50%  |
+
+3.  Onze Minister kan de uitkomst van het tweede lid matigen, voor zover toepassing van het tweede lid, gelet op het belang van de continuïteit van de inrichting en daarmee de kwaliteit van de uitvoering van haar wettelijke taken, zal leiden tot een onbillijkheid van overwegende aard.   
 
 ### Artikel  4  
 
@@ -81,7 +89,7 @@ Onze Minister beslist binnen dertien weken op de aanvraag tot verlening van de e
 
 1.  Een subsidie voor een bouwproject wordt tijdig voor de aanbesteding bij Onze Minister aangevraagd door indiening van een voorlopige begroting met toelichting, vergezeld van schets- en situatietekeningen, de nodige kadastrale gegevens en een opgave omtrent de bestemming van de inrichting.   
 2.  Nadat Onze Minister met de voorlopige begroting en het ontwerp heeft ingestemd, worden de bestektekeningen en de uitgewerkte begroting ingediend. De begroting geeft inzicht in de aard, omvang, baten en lasten in verband met het bouwproject.   
-3.  [Paragraaf 4.2.8.5 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en artikel 10 zijn van toepassing op de subsidie voor een bouwproject.   
+3.  Paragraaf 4.2.8.5 van de Algemene wet bestuursrecht en artikel 10 zijn van toepassing op de subsidie voor een bouwproject.   
 
 ### Hoofdstuk  4  
 
@@ -93,8 +101,8 @@ De particuliere inrichting verstrekt Onze Minister maandelijks inzicht in de cap
 
 ### Artikel  10  
 
-1.  Bij het onderzoek, bedoeld in [artikel 4:78 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), onderzoekt de accountant tevens de naleving van de aan de subsidie verbonden verplichtingen.   
-2.  Onze Minister stelt een aanwijzing over de reikwijdte en de intensiteit van de controle, als bedoeld in [artikel 4:79, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), vast.   
+1.  Bij het onderzoek, bedoeld in artikel 4:78 van de Algemene wet bestuursrecht, onderzoekt de accountant tevens de naleving van de aan de subsidie verbonden verplichtingen.   
+2.  Onze Minister stelt een aanwijzing over de reikwijdte en de intensiteit van de controle, als bedoeld in artikel 4:79, tweede lid, van de Algemene wet bestuursrecht, vast.   
 
 ### Artikel  11  
 
@@ -116,11 +124,11 @@ De particuliere inrichting verstrekt Onze Minister maandelijks inzicht in de cap
 
 ### Artikel  14  
 
-De particuliere inrichting behoeft de toestemming van Onze Minister voor de handelingen, bedoeld in [artikel 4:71, eerste lid, onderdelen c en d, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+De particuliere inrichting behoeft de toestemming van Onze Minister voor de handelingen, bedoeld in artikel 4:71, eerste lid, van de Algemene wet bestuursrecht, alsmede voor de vorming van voorzieningen in de zin van artikel 374 van boek 2 van het Burgerlijk Wetboek.  
 
 ### Artikel  15  
 
-1.  In de gevallen, bedoeld in [artikel 4:41, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is de particuliere inrichting aan Onze Minister een door hem te bepalen vergoeding voor vermogensvorming verschuldigd.   
+1.  In de gevallen, bedoeld in artikel 4:41, tweede lid, van de Algemene wet bestuursrecht, is de particuliere inrichting aan Onze Minister een door hem te bepalen vergoeding voor vermogensvorming verschuldigd.   
 2.  Bij de vaststelling van de hoogte van de vergoeding worden de activa gewaardeerd op hun actuele waarde. De waardebepaling van een onroerende zaak geschiedt door drie deskundigen. Onze Minister onderscheidenlijk de particuliere inrichting wijzen elk een deskundige aan, die in onderling overleg een derde deskundige aanwijzen.   
 3.  Het eerste lid is niet van toepassing, indien de activiteiten van de particuliere inrichting door een derde worden voortgezet en de activa en passiva met toestemming van Onze Minister tegen boekwaarde aan die derde worden overgedragen.   
 4.  Indien een subsidie voor een bouwproject wordt verstrekt, verleent de particuliere inrichting ten behoeve van de Staat tot het bedrag van de subsidie een hypotheek op de desbetreffende onroerende zaak, tot zekerheid van de betaling van een ingevolge het eerste lid verschuldigde vergoeding.   
