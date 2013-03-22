@@ -24,11 +24,11 @@ a. wet: [Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950
 
 b. houder: houder van een vergunning voor het gebruik van frequentieruimte die is bestemd voor het verspreiden van programma's alsmede degene die in opdracht van die houder door middel van zijn openbaar elektronisch communicatienetwerk dat bestaat uit radiozendapparaten die geschikt zijn voor het verspreiden van programma's een programma verspreidt;  
 
-c. verzoek tot medegebruik: een schriftelijk verzoek tot medegebruik als bedoeld in [artikel 3.11, vierde lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+c. verzoek tot medegebruik: een schriftelijk verzoek tot medegebruik als bedoeld in [artikel 3.24, vierde lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
 
 d. verzoeker: een houder, die een schriftelijk verzoek tot medegebruik bij een andere houder heeft ingediend;  
 
-e. ontvanger: een houder, die een schriftelijk verzoek tot medegebruik heeft ontvangen.    
+e. ontvanger: een houder, die een schriftelijk verzoek tot medegebruik heeft ontvangen.   
 
 ### §  2  
 
@@ -41,7 +41,7 @@ e. ontvanger: een houder, die een schriftelijk verzoek tot medegebruik heeft ont
 3.  De verzoeker dient de ontbrekende gegevens als bedoeld in het tweede lid binnen twee weken aan de ontvanger te verstrekken. De termijn, bedoeld in het eerste lid, wordt opgeschort met ingang van de dag na de datum waarop de ontvanger de verzoeker schriftelijk op de hoogte heeft gesteld van het ontbreken van gegevens tot de dag waarop de ontbrekende gegevens door de ontvanger zijn ontvangen.   
 4.  Indien de ontbrekende gegevens niet zijn verstrekt binnen de termijn, bedoeld in het derde lid, kan de ontvanger besluiten het verzoek tot medegebruik niet verder te behandelen.   
 5.  De ontvanger kan de termijn, bedoeld in het eerste lid, eenmaal met een week verlengen. Van de verlenging wordt schriftelijk mededeling gedaan aan de verzoeker.   
-6.  Bij ministeriële regeling worden nadere regels gesteld met betrekking tot gegevens die door de verzoeker moeten worden overgelegd bij de indiening van een verzoek tot medegebruik.   
+6.  Bij ministeriële regeling worden nadere regels gesteld met betrekking tot gegevens die door de verzoeker moeten worden overgelegd bij de indiening van een verzoek tot medegebruik.  
 
 ### §  3  
 
@@ -58,7 +58,7 @@ a. een overzicht van de beschikbare ruimte op de betreffende antenne-opstelpunte
 
 b. de noodzakelijke technische gegevens van de betreffende antenne-opstelpunten en de daarop aanwezige antennesystemen en antennes.     
 5.  Voor het verstrekken van gegevens als bedoeld in het eerste lid kan een vergoeding op basis van werkelijk gemaakte kosten in rekening worden gebracht bij de houder die het verzoek heeft ingediend.   
-6.  Indien een houder niet voldoet aan een verzoek tot gegevensverstrekking als bedoeld in het eerste lid of de ontvanger niet voldoet aan de verplichting tot het verstrekken van de informatie als bedoeld in het derde lid, neemt het college op aanvraag van de houder die het verzoek tot gegevensverstrekking heeft gedaan onderscheidenlijk de verzoeker als bedoeld in het derde lid een besluit inzake de plicht tot het verstrekken van de desbetreffende gegevens. Voor zover het gaat om de verstrekking van gegevens als bedoeld in het derde lid, wordt met ingang van de dag na de datum waarop aan het college is verzocht een besluit als bedoeld in de eerste volzin te nemen, de termijn, bedoeld in artikel 2, derde lid, eerste volzin, opgeschort tot de dag waarop door het college een besluit is genomen. Het college kan bij zijn besluit in afwijking van het bepaalde in artikel 2 termijnen stellen waarbinnen: 
+6.  Indien een houder niet voldoet aan een verzoek tot gegevensverstrekking als bedoeld in het eerste lid of de ontvanger niet voldoet aan de verplichting tot het verstrekken van de informatie als bedoeld in het derde lid, neemt de Autoriteit Consument en Markt op aanvraag van de houder die het verzoek tot gegevensverstrekking heeft gedaan onderscheidenlijk de verzoeker als bedoeld in het derde lid een besluit inzake de plicht tot het verstrekken van de desbetreffende gegevens. Voor zover het gaat om de verstrekking van gegevens als bedoeld in het derde lid, wordt met ingang van de dag na de datum waarop aan de Autoriteit Consument en Markt is verzocht een besluit als bedoeld in de eerste volzin te nemen, de termijn, bedoeld in artikel 2, derde lid, eerste volzin, opgeschort tot de dag waarop door de Autoriteit Consument en Markt een besluit is genomen. De Autoriteit Consument en Markt kan bij haar besluit in afwijking van het bepaalde in artikel 2 termijnen stellen waarbinnen: 
 
 a. de gegevens, bedoeld in het derde lid, door de ontvanger dienen te worden verstrekt;  
 
@@ -69,11 +69,11 @@ a. de beperking van het verzoek, bedoeld in het tweede lid;
 
 b. de gegevens, bedoeld in het derde lid;  
 
-c. de vergoeding, bedoeld in het vijfde lid.     
+c. de vergoeding, bedoeld in het vijfde lid.    
 
 ### Artikel  4  
 
-De gegevens die worden verstrekt met het oog op het kunnen indienen van een verzoek tot medegebruik en de gegevens die worden verstrekt in het kader van een verzoek tot medegebruik, mogen door degene aan wie de gegevens zijn verstrekt slechts worden gebruikt voor het doel waarvoor de gegevens zijn verstrekt.  
+De gegevens die worden verstrekt met het oog op het kunnen indienen van een verzoek tot medegebruik en de gegevens die worden verstrekt in het kader van een verzoek tot medegebruik, mogen door degene aan wie de gegevens zijn verstrekt slechts worden gebruikt voor het doel waarvoor de gegevens zijn verstrekt. 
 
 ### §  4  
 
@@ -81,7 +81,7 @@ De gegevens die worden verstrekt met het oog op het kunnen indienen van een verz
 
 ### Artikel  6  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  7  
 
@@ -99,4 +99,4 @@ L. J. Brinkhorst
 de zeventiende juni 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

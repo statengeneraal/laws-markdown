@@ -18,15 +18,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Een aanbieder van een systeem voor voorwaardelijke toegang dat geschikt en bestemd is voor de uitzending van diensten die kunnen worden ontvangen met behulp van digitale televisie- of radiosystemen stelt, in overeenstemming met de beginselen van het algemene Europese mededingingsrecht, aan de aanbieders van die diensten op billijke, redelijke en niet discriminerende voorwaarden zodanige technische faciliteiten beschikbaar dat de desbetreffende diensten door degene die met de aanbieder van het systeem voor voorwaardelijke toegang een daartoe strekkende overeenkomst heeft gesloten, kunnen worden ontvangen.  
+Een aanbieder van een systeem voor voorwaardelijke toegang dat geschikt en bestemd is voor de uitzending van diensten die kunnen worden ontvangen met behulp van digitale televisie- of radiosystemen stelt, in overeenstemming met de beginselen van het algemene Europese mededingingsrecht, aan de aanbieders van die diensten op billijke, redelijke en niet discriminerende voorwaarden zodanige technische faciliteiten beschikbaar dat de desbetreffende diensten door degene die met de aanbieder van het systeem voor voorwaardelijke toegang een daartoe strekkende overeenkomst heeft gesloten, kunnen worden ontvangen. 
 
 ### Artikel  2  
 
-Een aanbieder van een systeem voor voorwaardelijke toegang voert, indien hij tevens andere activiteiten verricht, een gescheiden boekhouding voor deze onderscheiden activiteiten.  
+Een aanbieder van een systeem voor voorwaardelijke toegang voert, indien hij tevens andere activiteiten verricht, een gescheiden boekhouding voor deze onderscheiden activiteiten. 
 
 ### Artikel  3  
 
-Een aanbieder van een systeem voor voorwaardelijke toegang biedt slechts een systeem aan dat is voorzien van de nodige technische mogelijkheden voor een kosteneffectieve controle-overdracht. Deze mogelijkheden zijn zodanig ingericht dat de aanbieder van een openbaar elektronisch communicatienetwerk dat is bestemd voor het verspreiden van programma's aan het publiek, de volledige controle kan hebben over de diensten die met behulp van het systeem voor voorwaardelijke toegang worden uitgezonden.  
+Een aanbieder van een systeem voor voorwaardelijke toegang biedt slechts een systeem aan dat is voorzien van de nodige technische mogelijkheden voor een kosteneffectieve controle-overdracht. Deze mogelijkheden zijn zodanig ingericht dat de aanbieder van een openbaar elektronisch communicatienetwerk dat is bestemd voor het verspreiden van programma's aan het publiek, de volledige controle kan hebben over de diensten die met behulp van het systeem voor voorwaardelijke toegang worden uitgezonden. 
 
 ### Artikel  4  
 
@@ -35,7 +35,7 @@ Een aanbieder van een systeem voor voorwaardelijke toegang biedt slechts een sys
 
 a. een gemeenschappelijke interface die een verbinding met verschillende andere toegangsystemen mogelijk maakt, of  
 
-b. voor een ander toegangsysteem kenmerkende functies,   onder de voorwaarde dat de verwerking in hetzelfde product geen afbreuk doet aan de veiligheid van de transacties van de aanbieder van systemen voor voorwaardelijke toegang.   
+b. voor een ander toegangsysteem kenmerkende functies,   onder de voorwaarde dat de verwerking in hetzelfde product geen afbreuk doet aan de veiligheid van de transacties van de aanbieder van systemen voor voorwaardelijke toegang.  
 
 ### Paragraaf  2  
 
@@ -43,20 +43,16 @@ b. voor een ander toegangsysteem kenmerkende functies,   onder de voorwaarde dat
 
 ### Artikel  5a  
 
-1.  Het college laat toe dat een onderneming die moet voldoen aan een verplichting als bedoeld in [artikel 6a.7, eerste lid, van de Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), betreffende het beheersen van tarieven, een redelijke opbrengst verkrijgt uit zijn efficiënte kapitaalinbreng, de aangegane risico’s in aanmerking genomen.   
-2.  Het eerste lid is van overeenkomstige toepassing indien een onderneming moet voldoen aan een verplichting als bedoeld in [artikel 6a.13, eerste lid, van de Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), een verplichting als bedoeld in [artikel 6a.17, vierde lid, van de Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) of een verplichting betreffende het beheersen van tarieven als bedoeld in een krachtens [artikel 6a.19. tweede lid, van de Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) gestelde regeling.   
-
-### Artikel  5b  
-
-Indien een onderneming bij de levering van een type huurlijn uit het minimumpakket van huurlijnen krachtens artikel [6a.19, tweede lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) moet voldoen aan een verplichting met betrekking tot de hoogte van haar tarieven, kan het college op grond van [artikel 6a.2, eerste lid, onderdeel a, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) de verplichting opleggen om invoering van nieuwe of gewijzigde tarieven niet plaats te laten vinden dan nadat het college deze tarieven heeft goedgekeurd. [Artikel 6a.14, tweede tot en met zevende lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) is van overeenkomstige toepassing.  
+1. De Autoriteit Consument en Markt laat toe dat een onderneming die moet voldoen aan een verplichting als bedoeld in [artikel 6a.7, eerste lid, van de Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), betreffende het beheersen van tarieven, een redelijke opbrengst verkrijgt uit zijn efficiënte kapitaalinbreng, de aangegane risico’s in aanmerking genomen. 
+2.  Het eerste lid is van overeenkomstige toepassing indien een onderneming moet voldoen aan een verplichting als bedoeld in [artikel 6a.13, eerste lid, van de Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md). 
 
 ### Artikel  6  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002](../../../../../wet/wet/implementatie/europees/regelgevingskader/voor/de/elektronische/etc/BWBR0016635/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002](../../../../../wet/wet/implementatie/europees/regelgevingskader/voor/de/elektronische/etc/BWBR0016635/README.md) in werking treedt. 
 
 ### Artikel  7  
 
-Dit besluit wordt aangehaald als: Besluit voorwaardelijke toegang.  
+Dit besluit wordt aangehaald als: Besluit voorwaardelijke toegang. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

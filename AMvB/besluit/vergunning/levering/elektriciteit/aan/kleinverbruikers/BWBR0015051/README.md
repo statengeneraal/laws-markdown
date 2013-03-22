@@ -27,11 +27,11 @@ d. aanvraag: de aanvraag om een vergunning voor de levering van elektriciteit aa
 
 e. aanvrager: degene die een vergunning voor de levering van elektriciteit aan kleinverbruikers aanvraagt;  
 
-f. erkenning als volledig programma-verantwoordelijke: de door de netbeheerder van het landelijk hoogspanningsnet op basis van de voorwaarden, vastgesteld ingevolge [artikel 36](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 37 van de wet](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), afgegeven erkenning van een partij als volledig programma-verantwoordelijke.    
+f. erkenning als volledig programma-verantwoordelijke: de door de netbeheerder van het landelijk hoogspanningsnet op basis van de voorwaarden, vastgesteld ingevolge [artikel 36](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 37 van de wet](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), afgegeven erkenning van een partij als volledig programma-verantwoordelijke.   
 
 ### Artikel  2  
 
-1.  Een aanvraag voor een vergunning wordt bij de raad van bestuur van de mededingingsautoriteit ingediend.   
+1.  Een aanvraag voor een vergunning wordt bij de Autoriteit Consument en Markt ingediend.   
 2.  De aanvraag voor een vergunning bevat in aanvulling op [artikel 4:2, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md): 
 
 a. de overeenkomst van erkenning als volledig programma-verantwoordelijke van de aanvrager of een contract van de aanvrager met een andere partij voor het overdragen van de programma-verantwoordelijkheid en de erkenning als volledig programma-verantwoordelijke van deze partij,  
@@ -44,7 +44,7 @@ d. een beschrijving van de organisatie van de aanvrager, waarin in ieder geval i
 
 e. voorbeelden van alle door de aanvrager gehanteerde offertes en overeenkomsten voor kleinverbruikers met de hierbij behorende algemene voorwaarden en  
 
-f. de door de aanvrager gehanteerde klachten- en geschillenregeling voor kleinverbruikers.     
+f. de door de aanvrager gehanteerde klachten- en geschillenregeling voor kleinverbruikers.    
 
 ### Artikel  3  
 
@@ -65,11 +65,11 @@ b. een transparante en redelijke betalingsregeling hanteert,
 
 c. een transparante en redelijke regeling voor het opzeggen of ontbinden van overeenkomsten hanteert en  
 
-d. in staat is klachten en geschillen op een adequate wijze te behandelen.     
+d. in staat is klachten en geschillen op een adequate wijze te behandelen.    
 
 ### Artikel  4  
 
-Wijzigt dit besluit.   
+Wijzigt dit besluit.  
 
 ### Artikel  5  
 
@@ -77,7 +77,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Besluit vergunning levering elektriciteit aan kleinverbruikers.  
+Dit besluit wordt aangehaald als: Besluit vergunning levering elektriciteit aan kleinverbruikers. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -91,4 +91,4 @@ J. G. Wijn
 de tweeëntwintigste mei 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

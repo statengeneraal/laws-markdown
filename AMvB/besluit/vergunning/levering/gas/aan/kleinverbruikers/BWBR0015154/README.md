@@ -25,11 +25,11 @@ c. vergunning: de vergunning, bedoeld in [artikel 43, eerste lid, van de wet](..
 
 d. aanvraag: de aanvraag om een vergunning voor de levering van gas aan kleinverbruikers;  
 
-e. aanvrager: degene die een vergunning voor de levering van gas aan kleinverbruikers aanvraagt.    
+e. aanvrager: degene die een vergunning voor de levering van gas aan kleinverbruikers aanvraagt.   
 
 ### Artikel  2  
 
-1.  Een aanvraag voor een vergunning wordt bij de raad van bestuur van de mededingingsautoriteit ingediend.   
+1.  Een aanvraag voor een vergunning wordt bij de Autoriteit Consument en Markt ingediend.   
 2.  De aanvraag voor een vergunning bevat in aanvulling op [artikel 4:2, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md): 
 
 a. een schatting van de verwachte afzet aan kleinverbruikers gedurende tenminste de eerste 12 maanden na het verlenen van de vergunning,  
@@ -44,7 +44,7 @@ e. een beschrijving van de organisatie van de aanvrager, waarin in ieder geval i
 
 f. voorbeelden van alle door de aanvrager gehanteerde offertes en overeenkomsten voor kleinverbruikers met de hierbij behorende algemene voorwaarden en  
 
-g. de door de aanvrager gehanteerde klachten- en geschillenregeling voor kleinverbruikers.     
+g. de door de aanvrager gehanteerde klachten- en geschillenregeling voor kleinverbruikers.    
 
 ### Artikel  3  
 
@@ -68,12 +68,12 @@ c. een transparante en redelijke regeling voor het opzeggen of ontbinden van ove
 
 d. in staat is klachten en geschillen op een adequate wijze te behandelen, en  
 
-e. voorwaarden hanteert die in overeenstemming zijn met hetgeen bij of krachtens de wet is bepaald met betrekking tot de intrekking van de vergunning.     
-4.  De inkoopcontracten, bedoeld in het eerste lid, bevatten geen beding tot ontbinding van rechtswege van die overeenkomst ingeval aan de aanvrager surseance van betaling is verleend of deze failliet is verklaard, dan wel ingeval diens surseance of faillissement is aangevraagd, dan wel ingeval diens vergunning zal worden ingetrokken, noch bedingen, die het de toeleverancier mogelijk maken in die gevallen de nakoming van de verbintenis op te schorten of te ontbinden of onder gewijzigde voorwaarden voort te zetten, een en ander voorzover betrekking hebbend op de levering van gas ten behoeve van kleinverbruikers.   
+e.voorwaarden hanteert die in overeenstemming zijn met hetgeen bij of krachtens de wet is bepaald met betrekking tot de intrekking van de vergunning.   
+4.  De inkoopcontracten, bedoeld in het eerste lid, bevatten geen beding tot ontbinding van rechtswege van die overeenkomst ingeval aan de aanvrager surseance van betaling is verleend of deze failliet is verklaard, dan wel ingeval diens surseance of faillissement is aangevraagd, dan wel ingeval diens vergunning zal worden ingetrokken, noch bedingen, die het de toeleverancier mogelijk maken in die gevallen de nakoming van de verbintenis op te schorten of te ontbinden of onder gewijzigde voorwaarden voort te zetten, een en ander voorzover betrekking hebbend op de levering van gas ten behoeve van kleinverbruikers. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de dag waarop [artikel 45, tweede lid, van de wet](../../../../../../../../wet/gaswet/BWBR0011440/README.md) in werking treedt.  
+Dit besluit treedt in werking met ingang van de dag waarop [artikel 45, tweede lid, van de wet](../../../../../../../../wet/gaswet/BWBR0011440/README.md) in werking treedt. 
 
 ### Artikel  5  
 
@@ -91,4 +91,4 @@ L. J. Brinkhorst
 de zeventiende juni 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     
