@@ -17,11 +17,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarbij behorende bijlage wordt verstaan onder: 
 
-a. *wet:* de [Gemeentewet](../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md);  
+a.  *wet:* de [Gemeentewet](../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md);  
 
-b. *college:* het college van burgemeester en wethouders;  
+b.  *college:* het college van burgemeester en wethouders;  
 
-c. *bestuurlijke boete:* een bestuurlijke boete als bedoeld in [artikel 154b van de wet](../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md).    
+c.  *bestuurlijke boete:* een bestuurlijke boete als bedoeld in [artikel 154b van de wet](../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md).   
 
 ### Artikel  2  
 
@@ -47,7 +47,7 @@ i. hinderlijk drankgebruik;
 
 j. het gebruik van verdovende middelen, met uitzondering van cannabis;  
 
-k. drugshandel op straat.    
+k. drugshandel op straat.   
 
 ### Artikel  3  
 
@@ -73,32 +73,32 @@ i. het achterlaten van zwerfafval bij vervoeren, laden of lossen van afvalstoffe
 
 j. het op een voor het publiek zichtbare plaats aanwezig hebben van afvalstoffen;  
 
-k. het zich ontdoen van een autowrak, afkomstig uit een huishouden, anders dan door afgifte aan inrichtingen, genoemd in [artikel 6 van het Besluit beheer autowrakken](../../../../../../../../../../AMvB/besluit/beheer/autowrakken/BWBR0013707/README.md).    
+k. het zich ontdoen van een autowrak, afkomstig uit een huishouden, anders dan door afgifte aan inrichtingen, genoemd in [artikel 6 van het Besluit beheer autowrakken](../../../../../../../../../../AMvB/besluit/beheer/autowrakken/BWBR0013707/README.md).   
 
 ### Artikel  4  
 
 1.  Bij overtreding van een voorschrift, genoemd in de bijlage van dit besluit, is de hoogte van de bestuurlijke boete gelijk aan het bedrag dat in de bijlage is opgenomen bij het desbetreffende voorschrift, onverminderd [artikel 154b, achtste en negende lid, van de wet](../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md).   
-2.  De boetebedragen, genoemd in de bijlage, gelden voor natuurlijke personen.   
+2.  De boetebedragen, genoemd in de bijlage, gelden voor natuurlijke personen.  
 
-### Artikel  5  
+###Artikel  5 
 
-Wijzigt het Transactiebesluit 1994.   
+Wijzigt het Transactiebesluit 1994.
 
-### Artikel  6  
+###Artikel  6 
 
-Wijzigt het Transactiebesluit milieudelicten.   
+Wijzigt het Transactiebesluit milieudelicten.
 
-### Artikel  7  
+###Artikel  7 
 
-Wijzigt het Besluit OM-afdoening.   
+Wijzigt het Besluit OM-afdoening.
 
 ### Artikel  8  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet bestuurlijke boete overlast in de openbare ruimte](../../../../../../../../../../wet/wet/bestuurlijke/boete/overlast/in/de/openbare/ruimte/BWBR0023480/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [Wet bestuurlijke boete overlast in de openbare ruimte](../../../../../../../../../../wet/wet/bestuurlijke/boete/overlast/in/de/openbare/ruimte/BWBR0023480/README.md) in werking treedt. 
 
 ### Artikel  9  
 
-Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de openbare ruimte.  
+Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de openbare ruimte. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -114,7 +114,7 @@ de *vierentwintigste* december 2008
 De Minister van Justitie , 
 E. M. H. Hirsch Ballin    
 
-### Bijlage  
+### Bijlage 
 
 ####als bedoeld in artikel 4, eerste lid , van het Besluit bestuurlijke boete overlast in de openbare ruimte
 

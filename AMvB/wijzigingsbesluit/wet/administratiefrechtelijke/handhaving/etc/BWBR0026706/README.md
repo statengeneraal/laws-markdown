@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.   
+Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit OM-afdoening en het Transactiebesluit 1994.   
+Wijzigt het Besluit OM-afdoening en het Transactiebesluit 1994. 
 
 ### Artikel  III  
 
-Artikel I heeft geen gevolgen voor gedragingen die vóór het tijdstip van inwerkingtreding van dit besluit hebben plaatsgevonden.  
+Artikel I heeft geen gevolgen voor gedragingen die vóór het tijdstip van inwerkingtreding van dit besluit hebben plaatsgevonden. 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -35,7 +35,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 23 november 2009  
 Beatrix  
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin   
 
 De Minister van Verkeer en Waterstaat , 

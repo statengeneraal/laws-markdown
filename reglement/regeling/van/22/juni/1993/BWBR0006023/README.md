@@ -272,13 +272,13 @@ Het Presidium kan ten behoeve van zijn eigen werkzaamheden commissies van advies
 
 ### §  3b  
 
-####Parlementair Overleg Koninkrijksrelaties
+####Interparlementair Koninkrijksoverleg
 
 ### Artikel  24a  
 
-####Parlementair Overleg Koninkrijksrelaties
+####Interparlementair Koninkrijksoverleg
 
-Indien het Parlementair Overleg Koninkrijksrelaties plaatsvindt onder voorzitterschap van een lid van de Tweede Kamer dan wel zijn plaatsvervanger, is dit Reglement van toepassing, tenzij een van de deelnemende commissies daar tevoren bezwaar tegen heeft gemaakt.  
+Indien het Interparlementair Koninkrijksoverleg plaatsvindt onder voorzitterschap van een lid van de Tweede Kamer dan wel zijn plaatsvervanger, is dit Reglement van toepassing, tenzij een van de deelnemende commissies daar tevoren bezwaar tegen heeft gemaakt.  
 
 ### §  4  
 

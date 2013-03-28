@@ -30,7 +30,7 @@ d) “Conservation status” will be taken as “unfavourable” if any of the c
 
 e) “Endangered” in relation to a particular migratory species means that the migratory species is in danger of extinction throughout all or a significant portion of its range;  
 
-f) “Range” means all the areas of land or water that a migratorv species inhabits, stays in temporarily, crosses or overflies at any time on its normal migration route;  
+f) “Range” means all the areas of land or water that a migratory species inhabits, stays in temporarily, crosses or overflies at any time on its normal migration route;  
 
 g) “Habitat” means any area in the range of a migratory species which contains suitable living conditions for that species;  
 
@@ -42,13 +42,13 @@ j) “Agreement” means an international agreement relating to the conservation
 
 k) “Party” means a State or any regional economic integration organization constituted by sovereign States which has competence in respect of the negotiation, conclusion and application of international agreements in matters covered by this Convention for which this Convention is in force.     
 2.  In matters within their competence, the regional economic integration organizations which are Parties to this Convention shall in their own name exercise the rights and fulfil the responsibilities which this Convention attributes to their member States. In such cases the member States of these organizations shall not be entitled to exercise such rights individually.   
-3.  Where this Convention provides for a decision to be taken by either a two-thirds majority or a unanimous decision of “the Parties present and voting” this shall mean “the Parties present and casting an affirmative or negative vote”. Those abstaining from voting shall not be counted amongst “the Parties present and voting” in determining the majority.   
+3.  Where this Convention provides for a decision to be taken by either a two-thirds majority or a unanimous decision of “the Parties present and voting” this shall mean “the Parties present and casting an affirmative or negative vote”. Those abstaining from voting shall not be counted amongst “the Parties present and voting” in determining the majority.  
 
 ### Article  II  
 
 ####Fundamental Principles
 
-1.  The Parties acknowledge the importance of migratory species being conserved and of Range States agreeing to take action to this end whenever possible and appropriate, paying special attention to migratory species the conservation status of which is unfavourable, and taking individually or in co-operation appropriate and necessary steps to conserve such species and their habitat.   
+1.   The Parties acknowledge the importance of migratory species being conserved and of Range States agreeing to take action to this end whenever possible and appropriate, paying special attention to migratory species the conservation status of which is unfavourable, and taking individually or in co-operation appropriate and necessary steps to conserve such species and their habitat.   
 2.  The Parties acknowledge the need to take action to avoid any migratory species becoming endangered.   
 3.  In particular, the Parties: 
 
@@ -56,7 +56,7 @@ a) should promote, co-operate in our support research relating to migratory spec
 
 b) shall endeavour to provide immediate protection for migratory species included in Appendix I; and  
 
-c) shall endeavour to conclude agreements covering the conservation and management of migratory species included in Appendix II.     
+c) shall endeavour to conclude agreements covering the conservation and management of migratory species included in Appendix II.   
 
 ### Article  III  
 
@@ -86,7 +86,7 @@ c) the taking is to accommodate the needs of traditional subsistence users of su
 
 d) extraordinary circumstances so require:   provided that such exceptions are precise as to content and limited in space and time. Such taking should not operate to the disadvantage of the species.   
 6.  The Conference of the Parties may recommend to the Parties that are Range States of a migratory species listed in Appendix I that they take further measures considered appropriate to benefit the species.   
-7.  The Parties shall as soon as possible inform the Secretariat of any exceptions made pursuant to paragraph 5 of this Article.   
+7.  The Parties shall as soon as possible inform the Secretariat of any exceptions made pursuant to paragraph 5 of this Article.  
 
 ### Article  IV  
 
@@ -96,7 +96,7 @@ d) extraordinary circumstances so require:   provided that such exceptions are p
 2.  If the circumstances so warrant, a migratory species may be listed both in Appendix I and Appendix II.   
 3.  Parties that are Range States of migratory species listed in Appendix II shall endeavour to conclude agreements where these would benefit the species and should give priority to those species in an unfavourable conservation status.   
 4.  Parties are encouraged to take action with a view to concluding agreements for any population or any geographically separate part of the population of any species or lower taxon of wild animals, members of which periodically cross one or more national jurisdictional boundaries.   
-5.  The Secretariat shall be provided with a copy of each Agreement concluded pursuant to the provision of this Article.   
+5.  The Secretariat shall be provided with a copy of each Agreement concluded pursuant to the provision of this Article.  
 
 ### Article  V  
 
@@ -136,7 +136,7 @@ g) where it appears desirable, the provision of new habitats favourable to the m
 
 h) elimination of, to the maximum extent possible, or compensation for activities and obstacles which hinder or impede migration;  
 
-i) prevention, reduction or control of the release into the habitat of gratory species of substances harmful to that migratory species;  
+i) prevention, reduction or control of the release into the habitat of migratory species of substances harmful to that migratory species;  
 
 j) measures based on sound ecological principles to control and manage the taking of the migratory species;  
 
@@ -146,7 +146,7 @@ l) exchange of information on substantial threats to the migratory species;
 
 m) emergency procedures whereby conservation action would be considerably and rapidly strengthened when the conservation status of migratory species is seriously affected; and  
 
-n) making the general public aware of the contents and aims of the Agreement.     
+n) making the general public aware of the contents and aims of the Agreement.    
 
 ### Article  VI  
 
@@ -154,7 +154,7 @@ n) making the general public aware of the contents and aims of the Agreement.
 
 1.  A list of the Range States of migratory species listed in Appendices I and II shall be kept up to date by the Secretariat using information it has received from the Parties.   
 2.  The Parties shall keep the Secretariat informed in regard to which of the migratory species listed in Appendices I and II they consider themselves to be Range States, including provision of information on their flag vessels engaged outside national jurisdictional limits in taking the migratory species concerned and, where possible future plans in respect of such taking.   
-3.  The Parties which are Range States for migratory species listed in Appendix I or Appendix II should inform the Conference of the Parties through the Secretariat, at least six months prior to each ordinary meeting of the Conference, on measure that they are taking to implement the provisions of this Convention for these species.   
+3.  The Parties which are Range States for migratory species listed in Appendix I or Appendix II should inform the Conference of the Parties through the Secretariat, at least six months prior to each ordinary meeting of the Conference, on measure that they are taking to implement the provisions of this Convention for these species.  
 
 ### Article  VII  
 
@@ -188,7 +188,7 @@ h) decide on any additional measure that should be taken to implement the object
 
 a) international agencies or bodies, either governmental or non-governmental, and national governmental agencies and bodies; and  
 
-b) national non-governmental agencies or bodies which have been approved for this purpose by the State in which they are located.   Once admitted, these observers shall have the right to participate but not to vote.   
+b) national non-governmental agencies or bodies which have been approved for this purpose by the State in which they are located.   Once admitted, these observers shall have the right to participate but not to vote.  
 
 ### Article  VIII  
 
@@ -208,7 +208,7 @@ c) making recommendations to the Conference of the Parties as to the migratory s
 
 d) making recommendations to the Conference of the Parties as to specific conservation and management measures to be included in agreements on migratory species; and  
 
-e) commending to the Conference of the Parties solutions to problems relating to the scientific aspects of the implementation of this Convention, in particular with regard to the habitats of migratory species.     
+e) commending to the Conference of the Parties solutions to problems relating to the scientific aspects of the implementation of this Convention, in particular with regard to the habitats of migratory species.    
 
 ### Article  IX  
 
@@ -243,7 +243,7 @@ i) to maintain and publish a list of the recommendations made by the Conference 
 
 j) to provide for the general public information concerning this Convention and its objectives; and  
 
-k) to perform any other function entrusted to it under this Convention or by the Conference of the Parties.     
+k) to perform any other function entrusted to it under this Convention or by the Conference of the Parties.    
 
 ### Article  X  
 
@@ -253,7 +253,7 @@ k) to perform any other function entrusted to it under this Convention or by the
 2.  Proposals for amendment may be made by any Party.   
 3.  The text of any proposed amendment and the reasons for it shall be communicated to the Secretariat at least one hundred and fifty days before the meeting at which it is to be considered and shall promptly be communicated by the Secretariat to all Parties. Any comments on the text by the Parties shall be communicated to the Secretariat not less than sixty days before the meeting begins. The Secretariat shall, immediately after the last day for submission of comments, communicate to the Parties all comments submitted by that day.   
 4.  Amendments shall be adopted by a two-thirds majority of Parties present and voting.   
-5.  An amendment adopted shall enter into force for all Parties which have accepted it on the first day of the third month following the date on which two-thirds of the Parties have deposited an instrument of acceptance with the Depositary. For each Party which deposits an instrument of acceptance after the date on which two-thirds of the Parties have deposited an instrument on acceptance, the amendment shall enter into force for that Party on the first day of the third month following the deposit of its instrument of acceptance.   
+5.  An amendment adopted shall enter into force for all Parties which have accepted it on the first day of the third month following the date on which two-thirds of the Parties have deposited an instrument of acceptance with the Depositary. For each Party which deposits an instrument of acceptance after the date on which two-thirds of the Parties have deposited an instrument on acceptance, the amendment shall enter into force for that Party on the first day of the third month following the deposit of its instrument of acceptance.  
 
 ### Article  XI  
 
@@ -264,7 +264,7 @@ k) to perform any other function entrusted to it under this Convention or by the
 3.  The text of any proposed amendment and the reasons for it, based on the best scientific evidence available, shall be communicated to the Secretariat at least one hundred and fifty days before the meeting and shall promptly be communicated by the Secretariat to all Parties. Any comments on the text by the Parties shall be communicated to the Secretariat not less than sixty days before the meeting begins. The Secretariat shall, immediately after the last day for submission of comments, communicate to the Parties all comments submitted by that day.   
 4.  Amendments shall be adopted by a two-thirds majority of Parties present and voting.   
 5.  An amendment to the Appendices shall enter into force for all Parties ninety days after the meeting of the Conference of the Parties at which it was adopted, except for those Parties which make a reservation in accordance with paragraph 6 of this Article.   
-6.  During the period of ninety days provided for in paragraph 5 of this Article, any Party may by notification in writing to the Depositary make a reservation with respect to the amendment. A reservation to an amendment may be withdrawn by written notification to the Depositary and thereupon the amendment shall enter into force for that Party ninety days after the reservation is withdrawn.   
+6.  During the period of ninety days provided for in paragraph 5 of this Article, any Party may by notification in writing to the Depositary make a reservation with respect to the amendment. A reservation to an amendment may be withdrawn by written notification to the Depositary and thereupon the amendment shall enter into force for that Party ninety days after the reservation is withdrawn.  
 
 ### Article  XII  
 
@@ -272,52 +272,52 @@ k) to perform any other function entrusted to it under this Convention or by the
 
 1.  Nothing in this Convention shall prejudice the codification and development of the law of the sea by the United Nations Conference on the Law of the Sea convened pursuant to Resolution 2750 C (XXV) of the General Assembly of the United Nations nor the present or future claims and legal views of any State concerning the law of the sea and the nature and extent of coastal and flag State jurisdiction.   
 2.  The provisions of this Convention shall in no way affect the rights or obligations of any Party deriving from any existing treaty, convention or agreement.   
-3.  The provisions of this Convention shall in no way affect the right of Parties to adopt stricter domestic measures concerning the conservation of migratory species listed in Appendices I and II or to adopt domestic measures concerning the conservation of species not listed in Appendices I and II.   
+3.  The provisions of this Convention shall in no way affect the right of Parties to adopt stricter domestic measures concerning the conservation of migratory species listed in Appendices I and II or to adopt domestic measures concerning the conservation of species not listed in Appendices I and II.  
 
 ### Article  XIII  
 
 ####Settlement of Disputes
 
 1.  Any dispute which may arise between two or more Parties with respect to the interpretation or application of the provisions of this Convention shall be subject to negotiation between the Parties involved in the dispute.   
-2.  If the dispute cannot be resolved in accordance with paragraph 1 of this Article, the Parties may, by mutual consent, submit the dispute to arbitration, in particular that of the Permanent Court of Arbitration at The Hague, and the Parties submitting the dispute shall be bound by the arbitral decision.   
+2.  If the dispute cannot be resolved in accordance with paragraph 1 of this Article, the Parties may, by mutual consent, submit the dispute to arbitration, in particular that of the Permanent Court of Arbitration at The Hague, and the Parties submitting the dispute shall be bound by the arbitral decision.  
 
 ### Article  XIV  
 
 ####Reservations
 
 1.  The provisions of this Convention shall not be subject to general reservations. Specific reservations may be entered in accordance with the provisions of this Article and Article XI.   
-2.  Any State or any regional economic integration organization may, on depositing its instrument of ratification, acceptance, approval or accession, enter a specific reservation with regard to the presence on either Appendix I or Appendix II or both, of any migratory species and shall then not be regarded as a Party in regard to the subject of that reservation until ninety days after the Depositary has transmitted to the Parties notification that such reservation has been withdrawn.   
+2.  Any State or any regional economic integration organization may, on depositing its instrument of ratification, acceptance, approval or accession, enter a specific reservation with regard to the presence on either Appendix I or Appendix II or both, of any migratory species and shall then not be regarded as a Party in regard to the subject of that reservation until ninety days after the Depositary has transmitted to the Parties notification that such reservation has been withdrawn.  
 
 ### Article  XV  
 
 ####Signature
 
-This Convention shall be open for signature at Bonn for all States and any regional economic integration organization until the twenty-second day of June, 1980.  
+This Convention shall be open for signature at Bonn for all States and any regional economic integration organization until the twenty-second day of June, 1980. 
 
 ### Article  XVI  
 
 ####Ratification, Acceptance, Approval
 
-This Convention shall be subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Government of the Federal Republic of Germany, which shall be the Depositary.  
+This Convention shall be subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Government of the Federal Republic of Germany, which shall be the Depositary. 
 
 ### Article  XVII  
 
 ####Accession
 
-After the twenty-second day of June 1980 this Convention shall be open for accession by all non-signatory States and any regional economic integration organization. Instruments of accession shall be deposited with the Depositary.  
+After the twenty-second day of June 1980 this Convention shall be open for accession by all non-signatory States and any regional economic integration organization. Instruments of accession shall be deposited with the Depositary. 
 
 ### Article  XVIII  
 
 ####Entry into Force
 
 1.  This Convention shall enter into force on the first day of the third month following the date of deposit of the fifteenth instrument of ratification, acceptance, approval or accession with the Depositary.   
-2.  For each State or each regional economic integration organization which ratifies, accepts or approves this Convention or accedes thereto after the deposit of the fifteenth instrument of ratification, acceptance, approval or accession, this Convention shall enter into force on the first day of the third month following the deposit by such State or such organization of its instrument of ratification, acceptance, approval or accession.   
+2.  For each State or each regional economic integration organization which ratifies, accepts or approves this Convention or accedes thereto after the deposit of the fifteenth instrument of ratification, acceptance, approval or accession, this Convention shall enter into force on the first day of the third month following the deposit by such State or such organization of its instrument of ratification, acceptance, approval or accession.  
 
 ### Article  XIX  
 
 ####Denunciation
 
-Any Party may denounce this Convention by written notification to the Depositary at any time. The denunciation shall take effect twelve months after the Depositary has received the notification.  
+Any Party may denounce this Convention by written notification to the Depositary at any time. The denunciation shall take effect twelve months after the Depositary has received the notification. 
 
 ### Article  XX  
 
@@ -326,7 +326,7 @@ Any Party may denounce this Convention by written notification to the Depositary
 1.  The original of this Convention, in the English, French, German, Russian and Spanish languages, each version being equally authentic, shall be deposited with the Depositary. The Depositary shall transmit certified copies of each of these versions to all States and all regional economic integration organizations that have signed the Convention or deposited instruments of accession to it.   
 2.  The Depositary shall, after consultation with the Governments concerned, prepare official versions of the text of this Convention in the Arabic and Chinese languages.   
 3.  The Depositary shall inform all signatory and acceding States and all signatory and acceding regional economic integration organizations and the Secretariat of signatures, deposit of instruments of ratification, acceptance, approval or accession, entry into force of this Convention, amendments thereto, specific reservations and notifications of denunciation.   
-4.  As soon as this Convention enters into force, a certified copy thereof shall be transmitted by the Depositary to the Secretariat of the United Nations for registration and publication in accordance with Article 102 of the Charter of the United Nations.   
+4.  As soon as this Convention enters into force, a certified copy thereof shall be transmitted by the Depositary to the Secretariat of the United Nations for registration and publication in accordance with [Article 102 of the Charter of the United Nations](../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).  
 
 IN WITNESS WHEREOF the undersigned, being duly authorized to that effect, have signed this Convention. DONE at Bonn on 23 June 1979  
 
@@ -353,37 +353,37 @@ b) as being all of the migratory species included in a higher taxon or designate
 | --- | Molossidae  |  *Tadarida brasiliensis*   |
 | --- |
 | PRIMATES  | --- |
-| --- | Hominidae <sup>1)</sup>  |  *Gorilla gorilla beringei*   |
+| --- | Hominidae<sup>1)</sup>   |  *Gorilla gorilla beringei*   |
 | --- |
 | CETACEA  | --- |
 | --- | Physeteridae  |  *Physeter macrocephalus**   |
 | --- | Platanistidae  |  *Platanista gangetica gangetica**   |
 | --- | Pontoporiidae  |  *Pontoporia blainvillei**   |
-| --- | Delphinidae  | *Delphinus delphis** (only Mediterranean population)  |
+| --- | Delphinidae  |  *Delphinus delphis* *(only Mediterranean population)  |
 | --- | Balaenopteridae  |  *Balaenoptera borealis**   |
 | --- |  *Balaenoptera physalus**   |
 | --- |  *Balaenoptera musculus*   |
 | --- |  *Megaptera novaeangliae*   |
 | --- | Balaenidae  |  *Balaena mysticetus*   |
-| --- | *Eubalaena glacialis*<sup>2)</sup> (North Atlantic)  |
-| --- | *Eubalaena japonica*<sup>3)</sup> (North Pacific)  |
+| --- |  *Eubalaena glacialis* <sup>2)</sup> (North Atlantic)  |
+| --- |  *Eubalaena japonica* <sup>3)</sup> (North Pacific)  |
 | --- |  *Eubalaena australis* <sup>4)</sup>   |
 | --- |
 | CARNIVORA  | --- |
 | --- | Mustelidae  |  *Lontra felina* <sup>5)</sup>   |
 | --- |  *Lontra provocax* <sup>6)</sup>   |
 | --- | Felidae  |  *Uncia uncia* <sup>7)</sup>   |
-| --- | Phocidae <sup>8)</sup>  |  *Monachus monachus**   |
+| --- | Phocidae<sup>8)</sup>   |  *Monachus monachus**   |
 | --- |
 | SIRENIA  | --- |
-| --- | Trichechidae  | *Trichechus manatus** (populations between Honduras and Panama)  |
+| --- | Trichechidae  |  *Trichechus manatus** (populations between Honduras and Panama)  |
 | --- |
 | PERISSODACTYLA  | --- |
 | --- | Equidae  |  *Equus grevyi*   |
 | --- |
 | ARTIODACTYLA  | --- |
 | --- | Camelidae  |  *Camelus bactrianus*   |
-| --- | *Vicugna vicugna** (except Peruvian populations)  |
+| --- |  *Vicugna vicugna** (except Peruvian populations)  |
 | --- | Cervidae  | --- |
 | --- |  *Cervus elaphus bactrianus**   |
 | --- |  *Cervus elaphus barbarus*   |
@@ -393,7 +393,7 @@ b) as being all of the migratory species included in a higher taxon or designate
 | --- |  *Addax nasomaculatus*   |
 | --- |  *Gazella cuvieri*   |
 | --- |  *Gazella dama*   |
-| --- | *Gazella dorcas* (only Northwest African populations)  |
+| --- |  *Gazella dorcas* (only Northwest African populations)  |
 | --- |  *Gazella leptoceros*   |
 | --- |  *Oryx dammah**   |
 | --- |
@@ -415,7 +415,7 @@ b) as being all of the migratory species included in a higher taxon or designate
 | --- |
 | PELECANIFORMES  | --- |
 | --- | Pelecanidae  |  *Pelecanus crispus**   |
-| --- | *Pelecanus onocrotalus** (only Palearctic populations)  |
+| --- |  *Pelecanus onocrotalus** (only Palearctic populations)  |
 | --- |
 | CICONIIFORMES  | --- |
 | --- | Ardeidae  |  *Ardeola idae**   |
@@ -426,8 +426,8 @@ b) as being all of the migratory species included in a higher taxon or designate
 | --- |  *Platalea minor*   |
 | --- |
 | PHOENICOPTERIFORMES  | --- |
-| --- | Phoenicopteridae  | *Phoenicopterus andinus*<sup>1)</sup> *  |
-| --- | *Phoenicopterus jamesi*<sup>2)</sup> *  |
+| --- | Phoenicopteridae  |  *Phoenicopterus andinus* <sup>1)</sup>*  |
+| --- |  *Phoenicopterus jamesi* <sup>2) </sup>*  |
 | --- |
 | ANSERIFORMES  | --- |
 | --- | Anatidae  |  *Anser cygnoides**   |
@@ -446,7 +446,7 @@ b) as being all of the migratory species included in a higher taxon or designate
 | --- |  *Haliaeetus pelagicus**   |
 | --- |  *Aquila clanga**   |
 | --- |  *Aquila heliaca**   |
-| --- | *Aquila adalberti*<sup>3)</sup> *  |
+| --- |  *Aquila adalberti* <sup>3) </sup>*  |
 | --- | Falconidae  |  *Falco naumanni**   |
 | --- |
 | GRUIFORMES  | --- |
@@ -456,11 +456,11 @@ b) as being all of the migratory species included in a higher taxon or designate
 | --- |  *Grus nigricollis**   |
 | --- |  *Grus vipio**   |
 | --- | Rallidae  |  *Sarothrura ayresi**   |
-| --- | Otididae  | *Chlamydotis undulata** (only Northwest African populations)  |
-| --- | *Otis tarda** (Middle-European population)  |
+| --- | Otididae  |  *Chlamydotis undulata** (only Northwest African populations)  |
+| --- |  *Otis tarda* *(Middle-European population)  |
 | --- |
 | CHARADRIIFORMES  | --- |
-| --- | Charadriidae  |  *Vanellus gregarius <sup>1)</sup> **   |
+| --- | Charadriidae  |  *Vanellus gregarius<sup>1)</sup>**   |
 | --- | Scolopacidae  |  *Calidris canutus rufa**   |
 | --- |  *Numenius borealis**   |
 | --- |  *Numenius tenuirostris**   |
@@ -502,7 +502,7 @@ b) as being all of the migratory species included in a higher taxon or designate
 | --- |  *Lepidochelys kempii**   |
 | --- |  *Lepidochelys olivacea**   |
 | --- | Dermochelyidae  |  *Dermochelys coriacea**   |
-| --- | Pelomedusidae  | *Podocnemis expansa** (only Upper Amazon populations)  |
+| --- | Pelomedusidae  |  *Podocnemis expansa** (only Upper Amazon populations)  |
 | --- |
 | CROCODYLIA  | --- |
 | --- | Gavialidae  | Gavialis gangeticus  |
@@ -523,7 +523,7 @@ b) as being all of the migratory species included in a higher taxon or designate
 | SILURIFORMES  | --- |
 | --- | Schilbeidae  |  *Pangasianodon gigas*   |
 
-1) Formerly listed as Pongidae 2) Formerly included in *Balaena glacialis glacialis* 3) Formerly included in *Balaena glacialis glacialis* 4) Formerly listed as *Balaena glacialis australis* 5) Formerly listed as *Lutra felina* 6) Formerly listed as *Lutra provocax* 7) Formerly listed as *Panthera unicia* 8) The order PINNIPEDIA is now included in the order CARNIVORA 1) Formerly included in *Pterodroma phaeopygia (s.l.)* 1) Formerly listed as *Phoenicoparrus andinus* 2) Formerly listed as *Phoenicoparrus jamesi* 3) Formerly included in *Aquila heliaca (s.l.)* 1) Formerly listed as *Chettusia gregaria*   
+1) Formerly listed as Pongidae 2) Formerly included in *Balaena glacialis glacialis*  3) Formerly included in *Balaena glacialis glacialis*  4) Formerly listed as *Balaena glacialis australis*  5) Formerly listed as *Lutra felina*  6) Formerly listed as *Lutra provocax*  7) Formerly listed as *Panthera unicia*  8) The order PINNIPEDIA is now included in the order CARNIVORA 1) Formerly included in *Pterodroma phaeopygia (s.l.)*  1) Formerly listed as *Phoenicoparrus andinus*  2) Formerly listed as *Phoenicoparrus jamesi*  3) Formerly included in *Aquila heliaca (s.l.)*  1) Formerly listed as *Chettusia gregaria*   
 
 ### Appendix  II  
 
@@ -544,27 +544,25 @@ b) as being all of the migratory species included in a higher taxon or designate
 5. An asterisk (*) placed against the name of a species or higher taxon indicates that the species, or a separate population of that species, or one or more species included in that higher taxon is included in Appendix I.    
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | Mammalia  |
 | --- |
 | CHIROPTERA  | --- |
 | --- | Rhinolophidae  | R. spp. (only European populations)  |
 | --- | Vespertilionidae  | V. spp. (only European populations)  |
-| --- | *Miniopterus schreibersii* (only African and European populations)  |
-| --- | Molossidae  | *Otomops martiensseni* (only African populations)  |
+| --- |  *Miniopterus schreibersii* (only African and European populations)  |
+| --- | Molossidae  |  *Otomops martiensseni* (only African populations)  |
 | --- |  *Tadarida teniotis*   |
-| --- | Pteropodidae  | *Eidolon helvum* (only African populations)  |
+| --- | Pteropodidae  |  *Eidolon helvum* (only African populations)  |
 | --- |
 | CETACEA  | --- |
 | --- | Physeteridae  |  *Physeter macrocephalus**   |
-| --- | Platanistidae  | *Platanista gangetica gangetica*<sup>1)</sup> *  |
+| --- | Platanistidae  |  *Platanista gangetica gangetica* <sup>1)</sup>*  |
 | --- | Pontoporiidae  |  *Pontoporia blainvillei**   |
 | --- | Iniidae  |  *Inia geoffrensis*   |
 | --- | Monodontidae  |  *Delphinapterus leucas*   |
 | --- |  *Monodon monoceros*   |
-| --- | Phocoenidae  | *Phocoena phocoena* (North and Baltic Sea  |
-| --- | populations, western North Atlantic  |
-| --- | population, Black Sea population)  |
+| --- | Phocoenidae  |  *Phocoena phocoena* (North and Baltic Sea populations, western North Atlantic population, Black Sea population)  |
 | --- |  *Phocoena spinipinnis*   |
 | --- |  *Phocoena dioptrica*   |
 | --- |  *Neophocaena phocaenoides*   |
@@ -572,24 +570,24 @@ b) as being all of the migratory species included in a higher taxon or designate
 | --- | Delphinidae  |  *Sousa chinensis*   |
 | --- |  *Sousa teuszii*   |
 | --- |  *Sotalia fluviatilis*   |
-| --- | *Lagenorhynchus albirostris* (only North and Baltic Sea populations)  |
-| --- | *Lagenorhynchus acutus* (only North and Baltic Sea populations)  |
+| --- |  *Lagenorhynchus albirostris* (only North and Baltic Sea populations)  |
+| --- |  *Lagenorhynchus acutus *(only North and Baltic Sea populations)  |
 | --- |  *Lagenorhynchus obscurus*   |
 | --- |  *Lagenorhynchus australis*   |
-| --- | *Grampus griseus* (only North and Baltic Sea populations)  |
-| --- | *Tursiops aduncus* (Arafura/Timor Sea populations)  |
-| --- | *Tursiops truncatus* (North and Baltic Sea populations, western Mediterranean population, Black Sea population)  |
-| --- | *Stenella attenuata* (eastern tropical Pacific population, Southeast Asian populations)  |
-| --- | *Stenella longirostris* (eastern tropical Pacific populations, Southeast Asian populations)  |
-| --- | *Stenella coeruleoalba** (eastern tropical Pacific population, Mediterranean population)  |
-| --- | *Delphinus delphis** (North and Baltic Sea populations, Mediterranean population, Black Sea population, eastern tropical Pacific population)  |
-| --- | *Lagenodelphis hosei* (Southeast Asian populations)  |
+| --- |  *Grampus griseus *(only North and Baltic Sea populations)  |
+| --- |  *Tursiops aduncus *(Arafura/Timor Sea populations)  |
+| --- |  *Tursiops truncatus *(North and Baltic Sea populations, western Mediterranean population, Black Sea population)  |
+| --- |  *Stenella attenuata *(eastern tropical Pacific population, Southeast Asian populations)  |
+| --- |  *Stenella longirostris* (eastern tropical Pacific populations, Southeast Asian populations)  |
+| --- |  *Stenella coeruleoalba** (eastern tropical Pacific population, Mediterranean population)  |
+| --- |  *Delphinus delphis** (North and Baltic Sea populations, Mediterranean population, Black Sea population, eastern tropical Pacific population)  |
+| --- |  *Lagenodelphis hosei* (Southeast Asian populations)  |
 | --- |  *Orcaella brevirostris*   |
-| --- | *Cephalorhynchus commersonii* (South American population)  |
+| --- |  *Cephalorhynchus commersonii *(South American population)  |
 | --- |  *Cephalorhynchus eutropia*   |
 | --- |  *Cephalorhynchus heavisidii*   |
 | --- |  *Orcinus orca*   |
-| --- | *Globicephala melas* (only North and Baltic Sea populations)  |
+| --- |  *Globicephala melas *(only North and Baltic Sea populations)  |
 | --- |
 | --- | Ziphiidae  |  *Berardius bairdii*   |
 | --- |  *Hyperoodon ampullatus*   |
@@ -602,8 +600,8 @@ b) as being all of the migratory species included in a higher taxon or designate
 | CARNIVORA  | --- |
 | --- | Otariidae  |  *Arctocephalus australis*   |
 | --- |  *Otaria flavescens*   |
-| --- | Phocidae  | *Phoca vitulina* (only Baltic and Wadden Sea populations)  |
-| --- | *Halichoerus grypus* (only Baltic Sea populations)  |
+| --- | Phocidae  |  *Phoca vitulina* (only Baltic and Wadden Sea populations)  |
+| --- |  *Halichoerus grypus *(only Baltic Sea populations)  |
 | --- |  *Monachus monachus**   |
 | --- |
 | PROBOSCIDEA  | --- |
@@ -611,18 +609,18 @@ b) as being all of the migratory species included in a higher taxon or designate
 | --- |
 | SIRENIA  | --- |
 | --- | Dugongidae  |  *Dugong dugon*   |
-| --- | Trichechidae  | *Trichechus manatus** (populations between Honduras and Panama)  |
+| --- | Trichechidae  |  *Trichechus manatus** (populations between Honduras and Panama)  |
 | --- |  *Trichechus senegalensis*   |
 | --- |  *Trichechus inunguis*   |
 | --- |
 | PERISSODACTYLA  | --- |
-| --- | Equidae  | *Equus hemionus* (s.l.) <sup>1)</sup>  |
+| --- | Equidae  |  *Equus hemionus* (s.l.)<sup>1)</sup>   |
 | --- |
 | ARTIODACTYLA  | --- |
 | --- | Camelidae  |  *Vicugna vicugna**   |
 | --- | Cervidae  |  *Cervus elaphus bactrianus**   |
 | --- | Bovidae  |  *Oryx dammah**   |
-| --- | *Gazella gazella* (only Asian populations)  |
+| --- |  *Gazella gazella* (only Asian populations)  |
 | --- |  *Gazella subgutturosa*   |
 | --- |  *Procapra gutturosa*   |
 | --- |  *Saiga tatarica tatarica*   |
@@ -633,15 +631,15 @@ b) as being all of the migratory species included in a higher taxon or designate
 | --- | Spheniscidae  |  *Spheniscus demersus*   |
 | --- |
 | GAVIIFORMES  | --- |
-| --- | Gavidae  | *Gavia stellata* (Western Palearctic populations)  |
+| --- | Gavidae  |  *Gavia stellata *(Western Palearctic populations)  |
 | --- |  *Gavia arctica arctica*   |
 | --- |  *Gavia arctica suschkini*   |
-| --- | *Gavia immer immer* (Northwest European population)  |
-| --- | *Gavia adamsii* (Wes tern Palearctic population)  |
+| --- |  *Gavia immer immer *(Northwest European population)  |
+| --- |  *Gavia adamsii* (Western Palearctic population)  |
 | --- |
 | PODICIPEDIFORMES  | --- |
 | --- | Podicipedidae  |  *Podiceps grisegena grisegena*   |
-| --- | *Podiceps auritus* (Western Palearctic populations)  |
+| --- |  *Podiceps auritus *(Western Palearctic populations)  |
 | --- |
 | PROCELLARIIFORMES  | --- |
 | --- | Diomedeidae  |  *Diomedea exulans*   |
@@ -666,18 +664,18 @@ b) as being all of the migratory species included in a higher taxon or designate
 | PELECANIFORMES  | --- |
 | --- | Phalacrocoracidae  |  *Phalacrocorax nigrogularis*   |
 | --- |  *Phalacrocorax pygmeus* <sup>2)</sup>   |
-| --- | Pelecanidae  | *Pelecanus onocrotalus** (Western Palearctic populations)  |
+| --- | Pelecanidae  |  *Pelecanus onocrotalus** (Western Palearctic populations)  |
 | --- |  *Pelecanus crispus**   |
 | --- |
 | CICONIIFORMES  | --- |
-| --- | Ardeidae  | *Botaurus stellaris stellaris* (Western Palearctic populations)  |
-| --- | *Ixobrychus minutus minutus* (Western Palearctic populations)  |
+| --- | Ardeidae  |  *Botaurus stellaris stellaris* (Western Palearctic populations)  |
+| --- |  *Ixobrychus minutus minutus* (Western Palearctic populations)  |
 | --- |  *Ixobrychus sturmii*   |
 | --- |  *Ardeola rufiventris*   |
 | --- |  *Ardeola idae**   |
 | --- |  *Egretta vinaceigula*   |
-| --- | *Casmerodius albus albus* (Western Palearctic populations)  |
-| --- | *Ardea purpurea purpurea* (populations breeding in the Western Palearctic)  |
+| --- |  *Casmerodius albus albus *(Western Palearctic populations)  |
+| --- |  *Ardea purpurea purpurea *(populations breeding in the Western Palearctic)  |
 | --- | Ciconiidae  |  *Mycteria ibis*   |
 | --- |  *Ciconia nigra*   |
 | --- |  *Ciconia episcopus microscelis*   |
@@ -685,7 +683,7 @@ b) as being all of the migratory species included in a higher taxon or designate
 | --- | Threskiornithidae  |  *Plegadis falcinellus*   |
 | --- |  *Geronticus eremita**   |
 | --- |  *Threskiornis aethiopicus aethiopicus*   |
-| --- | *Platalea alba* (excluding Malagasy population)  |
+| --- |  *Platalea alba* (excluding Malagasy population)  |
 | --- |  *Platalea leucorodia*   |
 | --- |
 | PHOENICOPTERIFORMES  | --- |
@@ -704,16 +702,16 @@ b) as being all of the migratory species included in a higher taxon or designate
 | --- | Phasianidae  |  *Coturnix coturnix coturnix*   |
 | --- |
 | GRUIFORMES  | --- |
-| --- | Rallidae  | *Porzana porzana* (populations breeding in the Western Palearctic)  |
+| --- | Rallidae  |  *Porzana porzana* (populations breeding in the Western Palearctic)  |
 | --- |  *Porzana parva parva*   |
 | --- |  *Porzana pusilla intermedia*   |
-| --- | *Fulica atra atra* (Mediterranean and Black Sea populations)  |
+| --- |  *Fulica atra atra* (Mediterranean and Black Sea populations)  |
 | --- |  *Aenigmatolimnas marginalis*   |
 | --- |  *Crex crex*   |
 | --- |  *Sarothrura boehmi*   |
 | --- |  *Sarothrura ayresi**   |
-| --- | Gruidae  | *Grus* spp. <sup>1)</sup> *  |
-| --- | Otididae  | *Chlamydotis undulata* * (only Asian populations)  |
+| --- | Gruidae  |  *Grus* spp.<sup>1)</sup>*  |
+| --- | Otididae  |  *Chlamydotis undulata** (only Asian populations)  |
 | --- |  *Otis tarda**   |
 | --- |
 | CHARADRIIFORMES  | --- |
@@ -724,29 +722,29 @@ b) as being all of the migratory species included in a higher taxon or designate
 | --- |  *Glareola nordmanni*   |
 | --- |  *Glareola nuchalis*   |
 | --- | Charadriidae  | C. spp.*  |
-| --- | Scolopacidae <sup>2)</sup>  | S. spp.*  |
-| --- | Laridae <sup>3)</sup>  |  *Larus hemprichii*   |
+| --- | Scolopacidae<sup>2)</sup>   | S. spp.*  |
+| --- | Laridae<sup>3)</sup>   |  *Larus hemprichii*   |
 | --- |  *Larus leucophthalmus**   |
-| --- | *Larus ichthyaetus* (West Eurasian and African population)  |
+| --- |  *Larus ichthyaetus *(West Eurasian and African population)  |
 | --- |  *Larus melanocephalus*   |
 | --- |  *Larus genei*   |
 | --- |  *Larus audouinii**   |
 | --- |  *Larus armenicus*   |
-| --- | *Sterna nilotica nilotica* (West Eurasian and African populations)  |
-| --- | *Sterna caspia* (West Eurasian and African populations)  |
+| --- |  *Sterna nilotica nilotica *(West Eurasian and African populations)  |
+| --- |  *Sterna caspia *(West Eurasian and African populations)  |
 | --- |  *Sterna maxima albidorsalis*   |
-| --- | *Sterna bergii* (African and Southwest Asian populations)  |
-| --- | *Sterna bengalensis* (African and Southwest Asian populations)  |
+| --- |  *Sterna bergii *(African and Southwest Asian populations)  |
+| --- |  *Sterna bengalensis *(African and Southwest Asian populations)  |
 | --- |  *Sterna sandvicensis sandvicensis*   |
-| --- | *Sterna dougallii* (Atlantic population)  |
-| --- | *Sterna hirundo hirundo* (populations breeding in the Western Palearctic)  |
-| --- | *Sterna paradisaea* (Atlantic populations)  |
+| --- |  *Sterna dougallii *(Atlantic population)  |
+| --- |  *Sterna hirundo hirundo* (populations breeding in the Western Palearctic)  |
+| --- |  *Sterna paradisaea* (Atlantic populations)  |
 | --- |  *Sterna albifrons*   |
 | --- |  *Sterna saundersi*   |
 | --- |  *Sterna balaenarum*   |
 | --- |  *Sterna repressa*   |
 | --- |  *Chlidonias niger niger*   |
-| --- | *Chlidonias leucopterus* (West Eurasian and African population)  |
+| --- |  *Chlidonias leucopterus *(West Eurasian and African population)  |
 | --- |  *Rynchopidae*   |  *Rynchops flavirostris*   |
 | --- |
 | COLUMBIFORMES  | --- |
@@ -760,7 +758,7 @@ b) as being all of the migratory species included in a higher taxon or designate
 | --- | Coraciidae  |  *Coracias garrulus*   |
 | --- |
 | PASSERIFORMES  | --- |
-| --- | Muscicapidae  | M. (s.l.) spp. <sup>1)</sup> *  |
+| --- | Muscicapidae  | M. (s.l.) spp.<sup>1)</sup>*  |
 | --- | Hirundinidae  |  *Hirundo atrocaerulea**   |
 | --- | Tyrannidae  |  *Alectrurus risora**   |
 | --- |  *Alectrurus tricolor**   |
@@ -807,7 +805,7 @@ b) as being all of the migratory species included in a higher taxon or designate
 | --- |  *Acipenser naccarii*   |
 | --- |  *Acipenser nudiventris*   |
 | --- |  *Acipenser persicus*   |
-| --- | *Acipenser ruthenus* (Danube population)  |
+| --- |  *Acipenser ruthenus *(Danube population)  |
 | --- |  *Acipenser schrenckii*   |
 | --- |  *Acipenser sinensis*   |
 | --- |  *Acipenser stellatus*   |
@@ -822,7 +820,7 @@ b) as being all of the migratory species included in a higher taxon or designate
 | LEPIDOPTERA  | --- |
 | --- | Danaidae  |  *Danaus plexippus*   |
 
-1) Formerly listed as *Platanista gangetica* 1) The listed taxon refers to the whole complex “Equus hemionus”, which includes three species: *Equus hemionus, Equus onager and Equus kiang* 1) This includes *Procellaria aequinoctialis conspicillata, originally listed as Procellaria conspicillata* 2) Formerly listed as *Phalacrocorax pygmaeus* 1) This includes *Grus virgo, formerly listed as Anthropoides virgo* 2) This includes the sub-family Phalaropodinae, formerly listed as the family Phalaropodidae 3) The family Sternidae is now included in Laridae 1) This includes the sub-family Sylviinae, formerly listed as the family Sylviidae   
+1) Formerly listed as *Platanista gangetica*  1) The listed taxon refers to the whole complex “Equus hemionus”, which includes three species: *Equus hemionus, Equus onager and Equus kiang*  1) This includes *Procellaria aequinoctialis conspicillata, originally listed as Procellaria conspicillata*  2) Formerly listed as *Phalacrocorax pygmaeus*  1) This includes *Grus virgo, formerly listed as Anthropoides virgo*  2) This includes the sub-family Phalaropodinae, formerly listed as the family Phalaropodidae 3) The family Sternidae is now included in Laridae 1) This includes the sub-family Sylviinae, formerly listed as the family Sylviidae  
 
 ####Verdrag inzake de bescherming van trekkende wilde diersoorten
 
@@ -864,7 +862,7 @@ j. wordt onder „overeenkomst” verstaan een internationale overeenkomst strek
 
 k. wordt onder „Partij” verstaan een Staat of iedere uit soevereine Staten bestaande regionale organisatie voor economische integratie, die bevoegd is tot het onderhandelen over, het sluiten en het toepassen van internationale overeenkomsten op de gebieden die door dit Verdrag worden bestreken, ten aanzien waarvan dit Verdrag van kracht is.     
 2.  De bij dit Verdrag Partij zijnde regionale organisaties voor economische integratie oefenen, wat aangelegenheden die binnen hun bevoegdheid vallen, betreft, zelfstandig de rechten uit en dragen zelfstandig de verantwoordelijkheden die door dit Verdrag aan de Lid-Staten ervan worden toegekend. In deze gevallen zijn de Lid-Staten van deze organisaties niet gerechtigd deze rechten afzonderlijk uit te oefenen.   
-3.  Wanneer in dit Verdrag wordt bepaald dat een besluit wordt genomen met een meerderheid van twee derde of met algemene stemmen van de „aanwezige en stem uitbrengende Partijen”, dan betekent dit „de Partijen die aanwezig zijn en die een positieve of negatieve stem hebben uitgebracht”. Voor het bepalen van de meerderheid wordt bij het tellen van de stemmen van de „aanwezige en stem uitbrengende Partijen” geen rekening gehouden met onthoudingen.   
+3.  Wanneer in dit Verdrag wordt bepaald dat een besluit wordt genomen met een meerderheid van twee derde of met algemene stemmen van de „aanwezige en stem uitbrengende Partijen”, dan betekent dit „de Partijen die aanwezig zijn en die een positieve of negatieve stem hebben uitgebracht”. Voor het bepalen van de meerderheid wordt bij het tellen van de stemmen van de „aanwezige en stem uitbrengende Partijen” geen rekening gehouden met onthoudingen.  
 
 ### Artikel  II  
 
@@ -874,11 +872,11 @@ k. wordt onder „Partij” verstaan een Staat of iedere uit soevereine Staten b
 2.  De Partijen erkennen de noodzaak tot het nemen van maatregelen om te voorkomen dat een trekkende soort een bedreigde soort wordt.   
 3.  In het bijzonder dienen de Partijen: 
 
-a. onderzoek betreffende trekkende soorten te bevorderen re ondersteunen en hieraan hun medewerking te verlenen;  
+a. onderzoek betreffende trekkende soorten te bevorderen te ondersteunen en hieraan hun medewerking te verlenen;  
 
 b. alles in het werk te stellen om aan de trekkende soorten, vermeld in Bijlage I, onmiddellijke bescherming te verlenen; en  
 
-c. alles in het werk te stellen om overeenkomsten te sluiten betreffende het behoud en het beheer van de in Bijlage II vermelde trekkende soorten.     
+c. alles in het werk te stellen om overeenkomsten te sluiten betreffende het behoud en het beheer van de in Bijlage II vermelde trekkende soorten.    
 
 ### Artikel  III  
 
@@ -908,7 +906,7 @@ c. het onttrekken geschiedt om aan de behoeften van hen voor wie deze soort vano
 
 d. bijzondere omstandigheden zulks vereisen;   mits deze uitzonderingen, wat de aard ervan betreft, nauwkeurig zijn omschreven en beperkt blijven in ruimte en tijd en geen nadelige gevolgen hebben voor deze soort.   
 6.  De Conferentie der Partijen kan de Partijen die Staten zijn die deel uitmaken van het verspreidingsgebied van een trekkende soort die in Bijlage I is vermeld, aanbevelen iedere andere maatregel te nemen die voor het voortbestaan van deze soort bevorderlijk wordt geacht.   
-7.  De Partijen doen zo spoedig mogelijk het Secretariaat mededeling van iedere uitzondering, toegestaan krachtens het bepaalde in het vijfde lid van dit artikel.   
+7.  De Partijen doen zo spoedig mogelijk het Secretariaat mededeling van iedere uitzondering, toegestaan krachtens het bepaalde in het vijfde lid van dit artikel.  
 
 ### Artikel  IV  
 
@@ -918,7 +916,7 @@ d. bijzondere omstandigheden zulks vereisen;   mits deze uitzonderingen, wat de 
 2.  Wanneer de omstandigheden zulks rechtvaardigen, kan een trekkende soort zowel in Bijlage I als in Bijlage II worden vermeld.   
 3.  De Partijen die Staten zijn die deel uitmaken van het verspreidingsgebied van de trekkende soorten die in Bijlage II zijn vermeld, stellen, wanneer deze soorten hiermee gebaat zijn, alles in het werk overeenkomsten te sluiten. Zij dienen daarbij aan die soorten waarvan de mate en de aard van de bescherming niet-gunstig zijn, voorrang te verlenen.   
 4.  De Partijen worden verzocht maatregelen te nemen ten einde overeenkomsten te sluiten voor een gedeelte van de populatie of een geografisch afgezonderd gedeelte van de populatie van een soort of een lager taxon van wilde dieren, waarvan een gedeelte periodiek één of meer landsgrenzen overschrijdt.   
-5.  Een afschrift van iedere overeenkomst die is gesloten overeenkomstig het bepaalde in dit artikel, wordt aan het Secretariaat toegezonden.   
+5.  Een afschrift van iedere overeenkomst die is gesloten overeenkomstig het bepaalde in dit artikel, wordt aan het Secretariaat toegezonden.  
 
 ### Artikel  V  
 
@@ -927,7 +925,7 @@ d. bijzondere omstandigheden zulks vereisen;   mits deze uitzonderingen, wat de 
 1.  Het doel van iedere overeenkomst is het herstellen of het handhaven van een voldoende mate en aard van bescherming voor iedere desbetreffende trekkende soort. Iedere overeenkomst dient die aspecten van het behoud en het beheer van deze trekkende soort, die het mogelijk maken dit doel te bereiken, tot onderwerp te hebben.   
 2.  Iedere overeenkomst dient het gehele verspreidingsgebied van de desbetreffende trekkende soort te omvatten en dient open te staan voor toetreding door alle Staten die deel uitmaken van het verspreidingsgebied van deze soort, ongeacht of zij Partij bij dit Verdrag zijn.   
 3.  Een overeenkomst dient, telkens wanneer dit mogelijk is, op meer dan één trekkende soort betrekking te hebben.   
-4.  In iedere overeenkomst: 
+4.   In iedere overeenkomst: 
 
 a. dient een beschrijving van de desbetreffende trekkende soort te worden gegeven;  
 
@@ -968,7 +966,7 @@ l. de uitwisseling van gegevens over ernstige gevaren waaraan de desbetreffende 
 
 m. noodmaatregelen ter krachtige ondersteuning en bespoediging van de maatregelen voor het behoud indien de mate en aard van de bescherming van de desbetreffende trekkende soort ernstig worden aangetast; en  
 
-n. maatregelen die erop zijn gericht om bij het publiek bekendheid te geven aan de inhoud en doelstellingen van de overeenkomst.     
+n. maatregelen die erop zijn gericht om bij het publiek bekendheid te geven aan de inhoud en doelstellingen van de overeenkomst.    
 
 ### Artikel  VI  
 
@@ -976,7 +974,7 @@ n. maatregelen die erop zijn gericht om bij het publiek bekendheid te geven aan 
 
 1.  Het Secretariaat houdt, aan de hand van de gegevens die het van de Partijen ontvangt, een lijst bij van de Staten die van het verspreidingsgebied van de trekkende soorten, vermeld in de Bijlagen I en II deel uitmaken.   
 2.  De Partijen houden het Secretariaat van de trekkende soorten, vermeld in de Bijlagen I en II, ten aanzien waarvan zij zich beschouwen als Staten die deel uitmaken van het verspreidingsgebied, op de hoogte. Daartoe verstrekken zij onder meer gegevens over de schepen die hun nationale vlag voeren en die, buiten de landsgrenzen, zijn ingezet voor het onttrekken van dieren aan de populatie van de desbetreffende trekkende soorten en, voor zover mogelijk, over de plannen betreffende toekomstige operaties.   
-3.  De Partijen die Staten zijn die deel uitmaken van het verspreidingsgebied van trekkende soorten, vermeld in de Bijlagen I en II, dienen de Conferentie der Partijen, door tussenkomst van het Secretariaat en ten minste zes maanden voor iedere gewone vergadering van de Conferentie, op de hoogte te stellen van de maatregelen die zij voor de toepassing van de bepalingen van dit Verdrag ten aanzien van deze soorten nemen.   
+3.  De Partijen die Staten zijn die deel uitmaken van het verspreidingsgebied van trekkende soorten, vermeld in de Bijlagen I en II, dienen de Conferentie der Partijen, door tussenkomst van het Secretariaat en ten minste zes maanden voor iedere gewone vergadering van de Conferentie, op de hoogte te stellen van de maatregelen die zij voor de toepassing van de bepalingen van dit Verdrag ten aanzien van deze soorten nemen.  
 
 ### Artikel  VII  
 
@@ -1010,7 +1008,7 @@ h. besluiten tot aanvullende maatregelen ter verwezenlijking van de doelstelling
 
 a. internationale gouvernementele of niet-gouvernementele organisaties of instellingen en nationale gouvernementele organisaties of instellingen; en  
 
-b. nationale niet-gouvernementele organisaties of instellingen die door de Staat waar zij zijn gevestigd, voor dit doel zijn erkend.   Wanneer deze waarnemers eenmaal zijn toegelaten, hebben zij het recht aan de vergaderingen deel te nemen, evenwel zonder stemrecht.   
+b. nationale niet-gouvernementele organisaties of instellingen die door de Staat waar zij zijn gevestigd, voor dit doel zijn erkend.   Wanneer deze waarnemers eenmaal zijn toegelaten, hebben zij het recht aan de vergaderingen deel te nemen, evenwel zonder stemrecht.  
 
 ### Artikel  VIII  
 
@@ -1030,7 +1028,7 @@ c. het doen van aanbevelingen aan de Conferentie der Partijen inzake de trekkend
 
 d. het doen van aanbevelingen aan de Conferentie der Partijen inzake bijzondere maatregelen betreffende het behoud en het beheer, welke maatregelen moeten worden opgenomen in overeenkomsten betreffende trekkende soorten; en  
 
-e. het doen van aanbevelingen aan de Conferentie der Partijen inzake de maatregelen waardoor de problemen met betrekking tot de wetenschappelijke aspecten van de uitvoering van dit Verdrag, met name ten aanzien van de leefgebieden van de trekkende soorten, zouden kunnen worden opgelost.     
+e. het doen van aanbevelingen aan de Conferentie der Partijen inzake de maatregelen waardoor de problemen met betrekking tot de wetenschappelijke aspecten van de uitvoering van dit Verdrag, met name ten aanzien van de leefgebieden van de trekkende soorten, zouden kunnen worden opgelost.    
 
 ### Artikel  IX  
 
@@ -1065,7 +1063,7 @@ i. het bijhouden en publiceren van een lijst van aanbevelingen, gedaan door de C
 
 j. het verstrekken van informatie over dit Verdrag en de doelstellingen daarvan aan het publiek; en  
 
-k. het vervullen van alle andere taken aan het Secretariaat opgedragen krachtens dit Verdrag of door de Conferentie der Partijen.     
+k. het vervullen van alle andere taken aan het Secretariaat opgedragen krachtens dit Verdrag of door de Conferentie der Partijen.    
 
 ### Artikel  X  
 
@@ -1073,9 +1071,9 @@ k. het vervullen van alle andere taken aan het Secretariaat opgedragen krachtens
 
 1.  Dit Verdrag kan worden gewijzigd tijdens iedere gewone of buitengewone vergadering van de Conferentie der Partijen.   
 2.  Iedere Partij kan een voorstel tot wijziging indienen.   
-3.  De tekst van ieder voorstel tot wijziging wordt, vergezeld van een toelichting, aan het Secretariaat toegezonden, en wel ten minste honderd vijf tig dagen voor de vergadering waarop het zal worden behandeld; het Secretariaat doet hiervan zo spoedig mogelijk mededeling aan alle Partijen. Alle commentaren van de Partijen op de tekst van het voorstel tot wijziging worden ten minste zestig dagen voor het begin van de vergadering aan het Secretariaat toegezonden. Het Secretariaat zendt onmiddellijk na het verstrijken van deze termijn aan de Partijen alle commentaren toe die het tot op dat tijdstip heeft ontvangen.   
+3.  De tekst van ieder voorstel tot wijziging wordt, vergezeld van een toelichting, aan het Secretariaat toegezonden, en wel ten minste honderdvijftig dagen voor de vergadering waarop het zal worden behandeld; het Secretariaat doet hiervan zo spoedig mogelijk mededeling aan alle Partijen. Alle commentaren van de Partijen op de tekst van het voorstel tot wijziging worden ten minste zestig dagen voor het begin van de vergadering aan het Secretariaat toegezonden. Het Secretariaat zendt onmiddellijk na het verstrijken van deze termijn aan de Partijen alle commentaren toe die het tot op dat tijdstip heeft ontvangen.   
 4.  De wijzigingen worden aangenomen met een meerderheid van twee derde van de aanwezige en stem uitbrengende Partijen.   
-5.  Iedere aangenomen wijziging wordt ten aanzien van alle Partijen die deze hebben aanvaard, van kracht op de eerste dag van de derde maand na het tijdstip waarop twee derde van de Partijen bij de Depositaris hun akte van aanvaarding hebben nedergelegd. Ten aanzien van iedere Partij die een akte van aanvaarding nederlegt na het tijdstip waarop twee derde van de Partijen een akte van aanvaarding heeft nedergelegd, wordt de wijziging van kracht op de eerste dag van de derde maand na de nederlegging van haar akte van aanvaarding.   
+5.  Iedere aangenomen wijziging wordt ten aanzien van alle Partijen die deze hebben aanvaard, van kracht op de eerste dag van de derde maand na het tijdstip waarop twee derde van de Partijen bij de Depositaris hun akte van aanvaarding hebben nedergelegd. Ten aanzien van iedere Partij die een akte van aanvaarding nederlegt na het tijdstip waarop twee derde van de Partijen een akte van aanvaarding heeft nedergelegd, wordt de wijziging van kracht op de eerste dag van de derde maand na de nederlegging van haar akte van aanvaarding.  
 
 ### Artikel  XI  
 
@@ -1086,7 +1084,7 @@ k. het vervullen van alle andere taken aan het Secretariaat opgedragen krachtens
 3.  De tekst van ieder voorstel tot wijziging wordt, vergezeld van een toelichting die is gebaseerd op de beste wetenschappelijke gegevens die beschikbaar zijn, toegezonden aan het Secretariaat, en wel ten minste honderdvijftig dagen voor de vergadering; het Secretariaat doet hiervan zo spoedig mogelijk mededeling aan alle Partijen. Alle commentaren van de Partijen op de tekst van het voorstel tot wijziging worden ten minste zestig dagen voor het begin van de vergadering aan het Secretariaat toegezonden. Het Secretariaat zendt onmiddellijk na het verstrijken van deze termijn aan de Partijen alle commentaren toe die het tot op dat tijdstip heeft ontvangen.   
 4.  De wijzigingen worden aangenomen met een meerderheid van twee derde van de aanwezige en stem uitbrengende Partijen.   
 5.  Een wijziging van de Bijlagen wordt ten aanzien van alle Partijen, met uitzondering van de Partijen die een voorbehoud hebben gemaakt overeenkomstig het bepaalde in het zesde lid van dit artikel, van kracht negentig dagen na de vergadering van de Conferentie der Partijen waarop de wijziging is aangenomen.   
-6.  Tijdens de termijn van negentig dagen bedoeld in het vijfde lid van dit artikel, kan iedere Partij door middel van een schriftelijke kennisgeving aan de Depositaris een voorbehoud maken ten aanzien van deze wijziging. Een voorbehoud op een wijziging kan door middel van een aan de Depositaris gerichte schriftelijke kennisgeving worden ingetrokken. De wijziging wordt dan ten aanzien van bedoelde Partij van kracht negentig dagen na intrekking van dit voorbehoud.   
+6.  Tijdens de termijn van negentig dagen bedoeld in het vijfde lid van dit artikel, kan iedere Partij door middel van een schriftelijke kennisgeving aan de Depositaris een voorbehoud maken ten aanzien van deze wijziging. Een voorbehoud op een wijziging kan door middel van een aan de Depositaris gerichte schriftelijke kennisgeving worden ingetrokken. De wijziging wordt dan ten aanzien van bedoelde Partij van kracht negentig dagen na intrekking van dit voorbehoud.  
 
 ### Artikel  XII  
 
@@ -1094,52 +1092,52 @@ k. het vervullen van alle andere taken aan het Secretariaat opgedragen krachtens
 
 1.  De bepalingen van dit Verdrag laten onverlet de codificatie en nadere uitwerking van het zeerecht door de Conferentie der Verenigde Naties over het Zeerecht, bijeengeroepen op grond van Resolutie 2750 C (XXV) van de Algemene Vergadering der Verenigde Naties, alsmede de huidige of toekomstige aanspraken en juridische standpunten van elke Staat inzake het zeerecht en de aard en omvang van de rechtsmacht van een kuststaat en een vlaggestaat.   
 2.  De bepalingen van dit Verdrag zijn op geen enkele wijze van invloed op de rechten en plichten van de Partijen, voortvloeiend uit bestaande verdragen, overeenkomsten of andere regelingen.   
-3.  De bepalingen van dit Verdrag zijn geenszins van invloed op het recht dat de Partijen hebben om strengere nationale maatregelen te nemen ten aanzien van het behoud van de trekkende soorten vermeld in de Bijlagen I en II alsmede nationale maatregelen ten aanzien van het behoud van soorten die niet voorkomen in de Bijlagen I en II.   
+3.  De bepalingen van dit Verdrag zijn geenszins van invloed op het recht dat de Partijen hebben om strengere nationale maatregelen te nemen ten aanzien van het behoud van de trekkende soorten vermeld in de Bijlagen I en II alsmede nationale maatregelen ten aanzien van het behoud van soorten die niet voorkomen in de Bijlagen I en II.  
 
 ### Artikel  XIII  
 
 ####Regeling van geschillen
 
 1.  Over elk tussen twee of meer Partijen bij dit Verdrag gerezen geschil ten aanzien van de uitlegging of de toepassing van de bepalingen ervan, wordt tussen de bij het geschil betrokken Partijen onderhandeld.   
-2.  Indien het geschil niet overeenkomstig de in het eerste lid van dit artikel bedoelde wijze kan worden geregeld, kunnen de Partijen in onderling overleg het geschil ter arbitrage voorleggen, met name aan het Permanent Hof van Arbitrage te 's-Gravenhage; de Partijen die het geschil ter arbitrage hebben voorgelegd, zijn door de scheidsrechterlijke uitspraak gebonden.   
+2.  Indien het geschil niet overeenkomstig de in het eerste lid van dit artikel bedoelde wijze kan worden geregeld, kunnen de Partijen in onderling overleg het geschil ter arbitrage voorleggen, met name aan het Permanent Hof van Arbitrage te 's-Gravenhage; de Partijen die het geschil ter arbitrage hebben voorgelegd, zijn door de scheidsrechterlijke uitspraak gebonden.  
 
 ### Artikel  XIV  
 
 ####Voorbehouden
 
 1.  Ten aanzien van de bepalingen van dit Verdrag kunnen geen algemene voorbehouden worden gemaakt. Bijzondere voorbehouden kunnen worden gemaakt overeenkomstig het bepaalde in dit artikel en het bepaalde in artikel XI.   
-2.  Iedere Staat of iedere regionale organisatie voor economische integratie kan bij de nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, een bijzonder voorbehoud maken ten aanzien van de vermelding van iedere trekkende soort in Bijlage I of Bijlage II of in beide, en wordt alsdan ten aanzien van het onderwerp van dit voorbehoud niet als Partij beschouwd tot negentig dagen na het tijdstip waarop de Depositaris de Partijen in kennis heeft gesteld van de intrekking van dit voorbehoud.   
+2.  Iedere Staat of iedere regionale organisatie voor economische integratie kan bij de nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, een bijzonder voorbehoud maken ten aanzien van de vermelding van iedere trekkende soort in Bijlage I of Bijlage II of in beide, en wordt alsdan ten aanzien van het onderwerp van dit voorbehoud niet als Partij beschouwd tot negentig dagen na het tijdstip waarop de Depositaris de Partijen in kennis heeft gesteld van de intrekking van dit voorbehoud.  
 
 ### Artikel  XV  
 
 ####Ondertekening
 
-Dit Verdrag staat te Bonn open voor ondertekening door alle Staten en door alle regionale organisaties voor economische integratie, en wel tot tweeëntwintig juni 1980.  
+Dit Verdrag staat te Bonn open voor ondertekening door alle Staten en door alle regionale organisaties voor economische integratie, en wel tot tweeëntwintig juni 1980. 
 
 ### Artikel  XVI  
 
 ####Bekrachtiging, aanvaarding, goedkeuring
 
-Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Regering van de Bondsrepubliek Duitsland, die optreedt als depositaris.  
+Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Regering van de Bondsrepubliek Duitsland, die optreedt als depositaris. 
 
 ### Artikel  XVII  
 
 ####Toetreding
 
-Dit Verdrag staat vanaf tweeëntwintig juni 1980 open voor toetreding door alle Staten en regionale organisaties voor economische integratie, die het Verdrag niet hebben ondertekend. De akten van toetreding worden nedergelegd bij de depositaris.  
+Dit Verdrag staat vanaf tweeëntwintig juni 1980 open voor toetreding door alle Staten en regionale organisaties voor economische integratie, die het Verdrag niet hebben ondertekend. De akten van toetreding worden nedergelegd bij de depositaris. 
 
 ### Artikel  XVIII  
 
 ####Inwerkingtreding
 
 1.  Dit Verdrag treedt in werking op de eerste dag van de derde maand na het tijdstip van nederlegging van de vijftiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding bij de depositaris.   
-2.  Ten aanzien van iedere Staat en iedere regionale organisatie voor economische integratie, die dit Verdrag bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt na de nederlegging van de vijftiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt dit Verdrag in werking op de eerste dag van de derde maand na de nederlegging door die Staat of door die organisatie van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.   
+2.  Ten aanzien van iedere Staat en iedere regionale organisatie voor economische integratie, die dit Verdrag bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt na de nederlegging van de vijftiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt dit Verdrag in werking op de eerste dag van de derde maand na de nederlegging door die Staat of door die organisatie van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.  
 
 ### Artikel  XIX  
 
 ####Opzegging
 
-Elke Partij kan dit Verdrag te allen tijde opzeggen door middel van een aan de depositaris gerichte schriftelijke kennisgeving. Deze opzegging wordt van kracht twaalf maanden nadat de depositaris deze kennisgeving heeft ontvangen.  
+Elke Partij kan dit Verdrag te allen tijde opzeggen door middel van een aan de depositaris gerichte schriftelijke kennisgeving. Deze opzegging wordt van kracht twaalf maanden nadat de depositaris deze kennisgeving heeft ontvangen. 
 
 ### Artikel  XX  
 
@@ -1148,7 +1146,7 @@ Elke Partij kan dit Verdrag te allen tijde opzeggen door middel van een aan de d
 1.  Het oorspronkelijke exemplaar van dit Verdrag, waarvan de Duitse, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de depositaris. De depositaris doet van al deze versies een voor eensluidend gewaarmerkt afschrift toekomen aan alle Staten en regionale organisaties voor economische integratie, die het Verdrag hebben ondertekend of een akte van toetreding hebben nedergelegd.   
 2.  De depositaris stelt, na overleg te hebben gepleegd met de betrokken Regeringen, van dit Verdrag officiële teksten op in de Arabische en de Chinese taal.   
 3.  De depositaris doet alle Staten en alle regionale organisaties voor economische integratie, die dit Verdrag hebben ondertekend of ertoe zijn toegetreden, alsmede het Secretariaat mededeling van iedere ondertekening, iedere nederlegging van een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, van de inwerkingtreding van dit Verdrag, van iedere wijziging van dit Verdrag, van ieder bijzonder voorbehoud alsmede van iedere kennisgeving van opzegging.   
-4.  Zodra dit Verdrag in werking is getreden, doet de depositaris een voor een eensluidend gewaarmerkt afschrift ervan toekomen aan het Secretariaat van de Verenigde Naties ter registratie en publikatie overeenkomstig artikel 102 van het Handvest der Verenigde Naties.   
+4.  Zodra dit Verdrag in werking is getreden, doet de depositaris een voor een eensluidend gewaarmerkt afschrift ervan toekomen aan het Secretariaat van de Verenigde Naties ter registratie en publikatie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).  
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdrag hebben ondertekend. GEDAAN te Bonn op 23 juni 1979  
 
@@ -1156,7 +1154,7 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdra
 
 ####Betekenis
 
-1. De in deze Bijlage opgenomen trekkende soorten worden aangeduid: <sup> 1)  [Red: Zie Appendix I van Trb. 1980, 145.]  </sup> 
+1. De in deze Bijlage opgenomen trekkende soorten <sup> 1) [Red: Zie Appendix I van Trb. 1980, 145.] </sup> worden aangeduid: 
 
 a. door de naam van de soort of van de ondersoort; of  
 
@@ -1184,7 +1182,7 @@ b. door de verzamelnaam van de trekkende soorten die behoren tot een hoger taxon
 
 ####Betekenis
 
-1. De in deze Bijlage opgenomen trekkende soorten worden aangeduid: <sup> 1)  [Red: Zie Appendix II van Trb. 1980, 145.]  </sup> 
+1. De in deze Bijlage opgenomen trekkende soorten <sup> 1) [Red: Zie Appendix II van Trb. 1980, 145.] </sup> worden aangeduid: 
 
 a. door de naam van de soort of van de ondersoort; of  
 

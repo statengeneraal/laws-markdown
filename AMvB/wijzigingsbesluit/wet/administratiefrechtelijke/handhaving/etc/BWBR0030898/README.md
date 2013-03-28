@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.   
+Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften. 
 
 ### Artikel  II  
 
-Wijzigt het Transactiebesluit 1994 en het Besluit OM-afdoening.   
+Wijzigt het Transactiebesluit 1994 en het Besluit OM-afdoening. 
 
 ### Artikel  III  
 
-Een wijziging in de hoogte van de sanctie heeft geen gevolgen voor gedragingen die voor het tijdstip van inwerkingtreding van dit besluit hebben plaatsgevonden.  
+Een wijziging in de hoogte van de sanctie heeft geen gevolgen voor gedragingen die voor het tijdstip van inwerkingtreding van dit besluit hebben plaatsgevonden. 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking met ingang van 1 januari 2012.  
+Dit besluit treedt in werking met ingang van 1 januari 2012. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -35,13 +35,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 15 december 2011  
 Beatrix  
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten   
 
-De Minister van Infrastructuur en Milieu, 
+De Minister van Infrastructuur en Milieu,  
 M. H. Schultz van Haegen-Maas Geesteranus   
 
 de *drieëntwintigste* december 2011 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

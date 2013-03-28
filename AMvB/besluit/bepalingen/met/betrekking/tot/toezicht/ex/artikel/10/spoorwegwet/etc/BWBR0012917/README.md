@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  2  
 
-Wijzigt het Besluit aanwijzing ambtenaren belast met opsporing ex artikel 159 Wegenverkeerswet 1994.   
+Wijzigt het Besluit aanwijzing ambtenaren belast met opsporing ex artikel 159 Wegenverkeerswet 1994.  
 
 ### Artikel  3  
 
@@ -28,39 +28,39 @@ Wijzigt het Besluit administratieve bepalingen inzake het wegverkeer.
 
 ### Artikel  4  
 
-Wijzigt het Besluit vervoer binnenvaart.   
+Wijzigt het Besluit vervoer binnenvaart.  
 
 ### Artikel  5  
 
-Wijzigt het Uitvoeringsbesluit vrachtprijzen vervoer van kolen en staal.   
+Wijzigt het Uitvoeringsbesluit vrachtprijzen vervoer van kolen en staal.  
 
 ### Artikel  6  
 
-Wijzigt het Besluit inlichtingen justitiële documentatie.   
+Wijzigt het Besluit inlichtingen justitiële documentatie.  
 
 ### Artikel  7  
 
-Wijzigt het Transactiebesluit 1994.   
+Wijzigt het Transactiebesluit 1994.  
 
 ### Artikel  8  
 
-Wijzigt de Maatregel te boek gestelde luchtvaartuigen 1996.   
+Wijzigt de Maatregel te boek gestelde luchtvaartuigen 1996.  
 
 ### Artikel  9  
 
-Wijzigt het Mijnreglement 1964.   
+Wijzigt het Mijnreglement 1964.  
 
 ### Artikel  10  
 
-Wijzigt het Mijnreglement continentaal plat.   
+Wijzigt het Mijnreglement continentaal plat.  
 
 ### Artikel  11  
 
-Het [Besluit instelling Rijksverkeersinspectie](../../../../../../../../../../../../../KB/besluit/instelling/rijksverkeersinspectie/BWBR0001977/README.md) wordt ingetrokken.  
+Het [Besluit instelling Rijksverkeersinspectie](../../../../../../../../../../../../../KB/besluit/instelling/rijksverkeersinspectie/BWBR0001977/README.md) wordt ingetrokken. 
 
 ### Artikel  12  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop de artikelen 8 tot en met 10 in werking treden.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop de artikelen 8 tot en met 10 in werking treden. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -74,4 +74,4 @@ T. Netelenbos
 de *achtste* november 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

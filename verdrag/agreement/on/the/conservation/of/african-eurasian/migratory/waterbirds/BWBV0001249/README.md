@@ -4,18 +4,18 @@
 
 ####Agreement on the conservation of African-Eurasian migratory waterbirds
 
-The Contracting Parties, Recalling that the Convention on the Conservation of Migratory Species of Wild Animals, 1979, encourages international cooperative action to conserve migratory species; Recalling further that the first meeting of the Conference of the Parties to the Convention, held in Bonn in October 1985, instructed the Secretariat of the Convention to take appropriate measures to develop an Agreement on Western Palearctic Anatidae; Considering that migratory waterbirds constitute an important part of the global biological diversity which, in keeping with the spirit of the Convention on Biological Diversity, 1992, and Agenda 21 should be conserved for the benefit of present and future generations; Aware of the economic, social, cultural and recreational benefits accruing from the taking of certain species of migratory waterbirds and of the environmental, ecological, genetic, scientific, aesthetic, recreational, cultural, educational, social and economic values of waterbirds in general; Convinced that any taking of migratory waterbirds must be conducted on a sustainable basis, taking into account the conservation status of the species concerned over their entire range as well as their biological characteristics; Conscious that migratory waterbirds are particularly vulnerable because they migrate over long distances and are dependent on networks of wetlands that are decreasing in extent and becoming degraded through non-sustainable human activities, as is expressed in the Convention on Wetlands of International Importance, especially as Waterfowl Habitat, 1971; Recognizing the need to take immediate action to stop the decline of migratory waterbird species and their habitats in the geographic area of the African-Eurasian waterbird migration systems; Convinced that the conclusion of a multilateral Agreement and its implementation through coordinated or concerted action will contribute significantly to the conservation of migratory waterbirds and their habitats in the most efficient manner, and will have ancillary benefits for many other species of animals and plants; and Acknowledging that effective implementation of such an Agreement will require assistance to be provided to some Range States for research, training and monitoring of migratory waterbird species and their habitats, for the management of those habitats as well as for the establishment or improvement of scientific and administrative institutions for the implementation of this Agreement, Have agreed as follows:    
+The Contracting Parties, Recalling that the [Convention on the Conservation of Migratory Species of Wild Animals, 1979](../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/van/trekkende/wilde/diersoorten/BWBV0004769/README.md), encourages international cooperative action to conserve migratory species; Recalling further that the first meeting of the Conference of the Parties to the Convention, held in Bonn in October 1985, instructed the Secretariat of the Convention to take appropriate measures to develop an Agreement on Western Palearctic Anatidae; Considering that migratory waterbirds constitute an important part of the global biological diversity which, in keeping with the spirit of the [Convention on Biological Diversity, 1992](../../../../../../../../../../verdrag/convention/on/biological/diversity/BWBV0001136/README.md), and Agenda 21 should be conserved for the benefit of present and future generations; Aware of the economic, social, cultural and recreational benefits accruing from the taking of certain species of migratory waterbirds and of the environmental, ecological, genetic, scientific, aesthetic, recreational, cultural, educational, social and economic values of waterbirds in general; Convinced that any taking of migratory waterbirds must be conducted on a sustainable basis, taking into account the conservation status of the species concerned over their entire range as well as their biological characteristics; Conscious that migratory waterbirds are particularly vulnerable because they migrate over long distances and are dependent on networks of wetlands that are decreasing in extent and becoming degraded through non-sustainable human activities, as is expressed in the [Convention on Wetlands of International Importance, especially as Waterfowl Habitat, 1971](../../../../../../../../../../verdrag/convention/on/wetlands/of/international/importance/especially/as/waterfowl/etc/BWBV0003693/README.md); Recognizing the need to take immediate action to stop the decline of migratory waterbird species and their habitats in the geographic area of the African-Eurasian waterbird migration systems; Convinced that the conclusion of a multilateral Agreement and its implementation through coordinated or concerted action will contribute significantly to the conservation of migratory waterbirds and their habitats in the most efficient manner, and will have ancillary benefits for many other species of animals and plants; and Acknowledging that effective implementation of such an Agreement will require assistance to be provided to some Range States for research, training and monitoring of migratory waterbird species and their habitats, for the management of those habitats as well as for the establishment or improvement of scientific and administrative institutions for the implementation of this Agreement, Have agreed as follows:    
 
 ### Article  I  
 
 ####Scope, Definitions and Interpretation
 
-1.  The geographic scope of this Agreement is the area of the migration systems of African-Eurasian waterbirds, as defined in Annex 1 to this Agreement, hereafter referred to as the “Agreement Area”.   
-2.  For the purpose of this Agreement: 
+1.   The geographic scope of this Agreement is the area of the migration systems of African-Eurasian waterbirds, as defined in Annex 1 to this Agreement, hereafter referred to as the “Agreement Area”.   
+2.   For the purpose of this Agreement: 
 
-a) “Convention” means the Convention on the Conservation of Migratory Species of Wild Animals, 1979;  
+a) “Convention” means the [Convention on the Conservation of Migratory Species of Wild Animals, 1979](../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/van/trekkende/wilde/diersoorten/BWBV0004769/README.md);  
 
-b) “Convention Secretariat” means the body established under Article IX of the Convention;  
+b) “Convention Secretariat” means the body established under [Article IX of the Convention](../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/van/trekkende/wilde/diersoorten/BWBV0004769/README.md);  
 
 c) “Waterbirds” means those species of birds that are ecologically dependent on wetlands for at least part of their annual cycle, have a range which lies entirely or partly within the Agreement Area and are listed in Annex 2 to this Agreement;  
 
@@ -23,25 +23,25 @@ d) “Agreement secretariat” means the body established under Article VI, para
 
 e) “Parties” means, unless the context otherwise indicates, Parties to this Agreement; and  
 
-f) “Parties present and voting” means the Parties present and casting an affirmative or negative vote; those abstaining from voting shall not be counted amongst the Parties present and voting.   In addition, the terms defined in Article I, subparagraphs 1(a) to (k), of the Convention shall have the same meaning, *mutatis mutandis,* in this Agreement.   
-3.  This Agreement is an AGREEMENT within the meaning of Article IV, paragraph 3, of the Convention.   
-4.  The annexes to this Agreement form an integral part thereof. Any reference to the Agreement includes a reference to its annexes.   
+f) “Parties present and voting” means the Parties present and casting an affirmative or negative vote; those abstaining from voting shall not be counted amongst the Parties present and voting.  In addition, the terms defined in [Article I, subparagraphs 1(a) to (k), of the Convention](../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/van/trekkende/wilde/diersoorten/BWBV0004769/README.md) shall have the same meaning, *mutatis mutandis,*in this Agreement.  
+3.   This Agreement is an AGREEMENT within the meaning of [Article IV, paragraph 3, of the Convention](../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/van/trekkende/wilde/diersoorten/BWBV0004769/README.md).   
+4.   The annexes to this Agreement form an integral part thereof. Any reference to the Agreement includes a reference to its annexes.  
 
 ### Article  II  
 
 ####Fundamental Principles
 
-1.  Parties shall take co-ordinated measures to maintain migratory waterbird species in a favourable conservation status or to restore them to such a status. To this end, they shall apply within the limits of their national jurisdiction the measures prescribed in Article III, together with the specific actions determined in the Action Plan provided for in Article IV, of this Agreement.   
-2.  In implementing the measures prescribed in paragraph 1 above, Parties should take into account the precautionary principle.   
+1.   Parties shall take co-ordinated measures to maintain migratory waterbird species in a favourable conservation status or to restore them to such a status. To this end, they shall apply within the limits of their national jurisdiction the measures prescribed in Article III, together with the specific actions determined in the Action Plan provided for in Article IV, of this Agreement.   
+2.   In implementing the measures prescribed in paragraph 1 above, Parties should take into account the precautionary principle.  
 
 ### Article  III  
 
 ####General Conservation Measures
 
-1.  The Parties shall take measures to conserve migratory waterbirds, giving special attention to endangered species as well as to those with an unfavourable conservation status.   
-2.  To this end, the Parties shall: 
+1.   The Parties shall take measures to conserve migratory waterbirds, giving special attention to endangered species as well as to those with an unfavourable conservation status.   
+2.   To this end, the Parties shall: 
 
-a) accord the same strict protection for endangered migratory waterbird species in the Agreement Area as is provided for under Article III, paragraphs 4 and 5, of the Convention;  
+a) accord the same strict protection for endangered migratory waterbird species in the Agreement Area as is provided for under [Article III, paragraphs 4 and 5, of the Convention](../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/van/trekkende/wilde/diersoorten/BWBV0004769/README.md);  
 
 b) ensure that any use of migratory waterbirds is based on an assessment of the best available knowledge of their ecology and is sustainable for the species as well as for the ecological systems that support them;  
 
@@ -49,27 +49,27 @@ c) identify sites and habitats for migratory waterbirds occurring within their t
 
 d) coordinate their efforts to ensure that a network of suitable habitats is maintained or, where appropriate, re-established throughout the entire range of each migratory waterbird species concerned, in particular where wetlands extend over the area of more than one Party to this Agreement;  
 
-e) investigate problems that are posed or are likely to be posed by human activities and endeavour to implement remedial measures, including habitat rehabilitation and restoration, and compensatory measures for loss of habitat;  
+e) investigate problems that are posed or are likely to be posed by human activities and endeavour to implement remedial measures, including habitat rehabilitation and restoration, and compensatory measures for loss of habitat; 
 
-f) cooperate in emergency situations requiring international concerted action and in identifying the species of migratory waterbirds which are the most vulnerable to these situations as well as cooperate in developing appropriate emergency procedures to provide increased protection to these species in such situations and in the preparation of guidelines to assist individual Parties in tackling these situations;  
+f) cooperate in emergency situations requiring international concerted action and in identifying the species of migratory waterbirds which are the most vulnerable to these situations as well as cooperate in developing appropriate emergency procedures to provide increased protection to these species in such situations and in the preparation of guidelines to assist individual Parties in tackling these situations; 
 
-g) prohibit the deliberate introduction of non-native waterbird species into the environment and take all appropriate measures to prevent the unintentional release of such species if this introduction or release would prejudice the conservation status of wild flora and fauna; when non-native waterbird species have already been introduced, the Parties shall take all appropriate measures to prevent these species from becoming a potential threat to indigenous species;  
+g) prohibit the deliberate introduction of non-native waterbird species into the environment and take all appropriate measures to prevent the unintentional release of such species if this introduction or release would prejudice the conservation status of wild flora and fauna; when non-native waterbird species have already been introduced, the Parties shall take all appropriate measures to prevent these species from becoming a potential threat to indigenous species; 
 
-h) initiate or support research into the biology and ecology of migratory waterbirds including the harmonization of research and monitoring methods and, where appropriate, the establishment of joint or cooperative research and monitoring programmes;  
+h) initiate or support research into the biology and ecology of migratory waterbirds including the harmonization of research and monitoring methods and, where appropriate, the establishment of joint or cooperative research and monitoring programmes; 
 
-i) analyze their training requirements for, *inter alia,* migratory waterbird surveys, monitoring, ringing and wetland management to identify priority topics and areas for training and cooperate in the development and provision of appropriate training programmes;  
+i) analyze their training requirements for, *inter alia,* migratory waterbird surveys, monitoring, ringing and wetland management to identify priority topics and areas for training and cooperate in the development and provision of appropriate training programmes; 
 
-j) develop and maintain programmes to raise awareness and understanding of migratory waterbird conservation issues in general and of the particular objectives and provisions of this Agreement;  
+j) develop and maintain programmes to raise awareness and understanding of migratory waterbird conservation issues in general and of the particular objectives and provisions of this Agreement; 
 
-k) exchange information and results from research, monitoring, conservation and education programmes; and  
+k) exchange information and results from research, monitoring, conservation and education programmes; and 
 
-l) cooperate with a view to assisting each other to implement this Agreement, particularly in the areas of research and monitoring.     
+l) cooperate with a view to assisting each other to implement this Agreement, particularly in the areas of research and monitoring.   
 
 ### Article  IV  
 
 ####Action Plan and Conservation Guidelines
 
-1.  An Action Plan is appended as Annex 3 to this Agreement. It specifies actions which the Parties shall undertake in relation to priority species and issues, under the following headings, consistent with the general conservation measures specified in Article III of this Agreement: 
+1.   An Action Plan is appended as Annex 3 to this Agreement. It specifies actions which the Parties shall undertake in relation to priority species and issues, under the following headings, consistent with the general conservation measures specified in Article III of this Agreement: 
 
 a) species conservation;  
 
@@ -82,39 +82,39 @@ d) research and monitoring;
 e) education and information; and  
 
 f) implementation.     
-2.  The Action Plan shall be reviewed at each ordinary session of the Meeting of the Parties, taking into account the Conservation Guidelines.   
-3.  Any amendment to the Action Plan shall be adopted by the Meeting of the Parties, taking into consideration the provisions of Article III of this Agreement.   
-4.  The Conservation Guidelines shall be submitted to the Meeting of the Parties for adoption at its first session, and shall be regularly reviewed.   
+2.   The Action Plan shall be reviewed at each ordinary session of the Meeting of the Parties, taking into account the Conservation Guidelines.   
+3.   Any amendment to the Action Plan shall be adopted by the Meeting of the Parties, taking into consideration the provisions of Article III of this Agreement.   
+4.   The Conservation Guidelines shall be submitted to the Meeting of the Parties for adoption at its first session, and shall be regularly reviewed.  
 
 ### Article  V  
 
 ####Implementation and Financing
 
-1.  Each Party shall: 
+1.   Each Party shall: 
 
-a) designate the Authority or Authorities to implement this Agreement which shall, *inter alia,* monitor all activities that may have impact on the conservation status of those migratory waterbird species of which the Party is a Range State;  
+a) designate the Authority or Authorities to implement this Agreement which shall, *inter alia, *monitor all activities that may have impact on the conservation status of those migratory waterbird species of which the Party is a Range State;  
 
 b) designate a contact point for the other Parties, and communicate without delay its name and address to the Agreement secretariat to be circulated forthwith to the other Parties; and  
 
-c) prepare for each ordinary session of the Meeting of the Parties, beginning with the second session, a report on its implementation of the Agreement with particular reference to the conservation measures it has undertaken. The format of such reports shall be determined by the first session of the Meeting of the Parties and reviewed as may be necessary at any subsequent session of the Meeting of the Parties. Each report shall be submitted to the Agreement secretariat not less than one hundred and twenty days before the ordinary session of the Meeting of the Parties for which it has been prepared, and copies shall be circulated forthwith to the other Parties by the Agreement secretariat.     
+c) prepare for each ordinary session of the Meeting of the Parties, beginning with the second session, a report on its implementation of the Agreement with particular reference to the conservation measures it has undertaken. The format of such reports shall be determined by the first session of the Meeting of the Parties and reviewed as may be necessary at any subsequent session of the Meeting of the Parties. Each report shall be submitted to the Agreement secretariat not less than one hundred and twenty days before the ordinary session of the Meeting of the Parties for which it has been prepared, and copies shall be circulated forthwith to the other Parties by the Agreement secretariat.    
 2. 
-a) Each Party shall contribute to the budget of the Agreement in accordance with the United Nations scale of assessment. The contributions shall be restricted to a maximum of 25 per cent of the total budget for any Party that is a Range State. No regional economic integration organization shall be required to contribute more than 2.5 per cent of the administrative costs.  
+a)Each Party shall contribute to the budget of the Agreement in accordance with the United Nations scale of assessment. The contributions shall be restricted to a maximum of 25 per cent of the total budget for any Party that is a Range State. No regional economic integration organization shall be required to contribute more than 2.5 per cent of the administrative costs.
 
 b) Decisions relating to the budget and any changes to the scale of assessment that may be found necessary shall be adopted by the Meeting of the Parties by consensus.     
-3.  The Meeting of the Parties may establish a conservation fund from voluntary contributions of Parties or from any other source for the purpose of financing monitoring, research, training and projects relating to the conservation, including protection and management, of migratory waterbirds.   
-4.  Parties are encouraged to provide training and technical and financial support to other Parties on a multilateral or bilateral basis to assist them in implementing the provisions of this Agreement.   
+3.   The Meeting of the Parties may establish a conservation fund from voluntary contributions of Parties or from any other source for the purpose of financing monitoring, research, training and projects relating to the conservation, including protection and management, of migratory waterbirds.   
+4.   Parties are encouraged to provide training and technical and financial support to other Parties on a multilateral or bilateral basis to assist them in implementing the provisions of this Agreement.  
 
 ### Article  VI  
 
 ####Meeting of the Parties
 
-1.  The Meeting of the Parties shall be the decision-making body of this Agreement.   
-2.  The Depositary shall, in consultation with the Convention Secretariat, convene a session of the Meeting of the Parties not later than one year after the date of the entry into force of this Agreement. Thereafter, the Agreement secretariat shall convene, in consultation with the Convention Secretariat, ordinary sessions of the Meeting of the Parties at intervals of not more than three years, unless the Meeting of the Parties decides otherwise. Where it is possible to do so, such sessions should be held in conjunction with the ordinary meetings of the Conference of the Parties to the Convention.   
-3.  On the written request of at least one third of the Parties, the Agreement secretariat shall convene an extraordinary session of the Meeting of the Parties.   
-4.  The United Nations, its Specialized Agencies, the International Atomic Energy Agency, any State not a Party to the Agreement, and the secretariats of international conventions concerned *inter alia* with the conservation, including protection and management, of migratory waterbirds may be represented by observers in sessions of the Meeting of the Parties. Any agency or body technically qualified in such conservation matters or in research on migratory waterbirds may also be represented at sessions of the Meeting of the Parties by observers, unless at least one third of the Parties present object.   
-5.  Only Parties have the right to vote. Each Party shall have one vote, but regional economic integration organizations which are Parties to this Agreement shall, in matters within their competence, exercise their right to vote with a number of votes equal to the number of their Member States which are Parties to the Agreement. A regional economic integration organization shall not exercise its right to vote if its Member States exercise theirs, and vice versa. *vice versa.*   
-6.  Unless provided otherwise in this Agreement, decisions of the Meeting of the Parties shall be adopted by consensus or, if consensus cannot be achieved, by a two-thirds majority of the Parties present and voting.   
-7.  At its first session, the Meeting of the Parties shall: 
+1.   The Meeting of the Parties shall be the decision-making body of this Agreement.   
+2.   The Depositary shall, in consultation with the Convention Secretariat, convene a session of the Meeting of the Parties not later than one year after the date of the entry into force of this Agreement. Thereafter, the Agreement secretariat shall convene, in consultation with the Convention Secretariat, ordinary sessions of the Meeting of the Parties at intervals of not more than three years, unless the Meeting of the Parties decides otherwise. Where it is possible to do so, such sessions should be held in conjunction with the ordinary meetings of the Conference of the Parties to the Convention.   
+3.   On the written request of at least one third of the Parties, the Agreement secretariat shall convene an extraordinary session of the Meeting of the Parties.   
+4.   The United Nations, its Specialized Agencies, the International Atomic Energy Agency, any State not a Party to the Agreement, and the secretariats of international conventions concerned *inter alia* with the conservation, including protection and management, of migratory waterbirds may be represented by observers in sessions of the Meeting of the Parties. Any agency or body technically qualified in such conservation matters or in research on migratory waterbirds may also be represented at sessions of the Meeting of the Parties by observers, unless at least one third of the Parties present object.   
+5.   Only Parties have the right to vote. Each Party shall have one vote, but regional economic integration organizations which are Parties to this Agreement shall, in matters within their competence, exercise their right to vote with a number of votes equal to the number of their Member States which are Parties to the Agreement. A regional economic integration organization shall not exercise its right to vote if its Member States exercise theirs, and vice versa.*vice versa.*    
+6.   Unless provided otherwise in this Agreement, decisions of the Meeting of the Parties shall be adopted by consensus or, if consensus cannot be achieved, by a two-thirds majority of the Parties present and voting.   
+7.   At its first session, the Meeting of the Parties shall: 
 
 a) adopt its rules of procedure by consensus;  
 
@@ -125,9 +125,9 @@ c) establish the Technical Committee provided for in Article VII of this Agreeme
 d) adopt a format for the reports to be prepared according to Article V, paragraph 1, subparagraph c), of this Agreement; and  
 
 e) adopt criteria to define emergency situations which require urgent conservation measures, and determine the modalities for assigning responsibility for action to be taken.     
-8.  At each of its ordinary sessions, the Meeting of the Parties shall: 
+8.   At each of its ordinary sessions, the Meeting of the Parties shall: 
 
-a) consider actual and potential changes in the conservation status of migratory waterbirds and the habitats important for their survival, as well as the factors which may affect them;  
+a) consider actual and potential changes in the conservation status of migratory waterbirds and the habitats important for their survival, as well as the factors which may affect them; 
 
 b) review the progress made and any difficulty encountered in the implementation of this Agreement;  
 
@@ -137,8 +137,8 @@ d) deal with any matter relating to the Agreement secretariat and the membership
 
 e) adopt a report for communication to the Parties to this Agreement and to the Conference of the Parties of the Convention; and  
 
-f) determine the time and venue of the next session.     
-9.  At any of its sessions, the Meeting of the Parties may: 
+f) determine the time and venue of the next session.    
+9.   At any of its sessions, the Meeting of the Parties may: 
 
 a) make recommendations to the Parties as it deems necessary or appropriate;  
 
@@ -150,21 +150,21 @@ d) amend the Action Plan in accordance with Article IV, paragraph 3, of this Agr
 
 e) establish such subsidiary bodies as it deems necessary to assist in the implementation of this Agreement, in particular for coordination with bodies established under other international treaties, conventions and agreements with overlapping geographic and taxonomic coverage; and  
 
-f) decide on any other matter relating to the implementation of this Agreement.     
+f) decide on any other matter relating to the implementation of this Agreement.   
 
 ### Article  VII  
 
 ####Technical Committee
 
-1.  The Technical Committee shall comprise: 
+1.   The Technical Committee shall comprise: 
 
 a) nine experts representing different regions of the Agreement Area, in accordance with a balanced geographical distribution;  
 
 b) one representative from the International Union for Conservation of Nature and Natural Resources (IUCN), one from the International Waterfowl and Wetlands Research Bureau (IWRB) and one from the International Council for Game and Wildlife Conservation (CIC); and  
 
-c) one expert from each of the following fields: rural economics, game management, and environmental law.   The procedure for the appointment of the experts, the term of their appointment and the procedure for designation of the Chairman of the Technical Committee shall be determined by the Meeting of the Parties. The Chairman may admit a maximum of four observers from specialized international inter-governmental and non-governmental organizations.   
-2.  Unless the Meeting of the Parties decides otherwise, meetings of the Technical Committee shall be convened by the Agreement secretariat in conjunction with each ordinary session of the Meeting of the Parties and at least once between ordinary sessions of the Meeting of the Parties.   
-3.  The Technical Committee shall: 
+c) one expert from each of the following fields: rural economics, game management, and environmental law.  The procedure for the appointment of the experts, the term of their appointment and the procedure for designation of the Chairman of the Technical Committee shall be determined by the Meeting of the Parties. The Chairman may admit a maximum of four observers from specialized international inter-governmental and non-governmental organizations.  
+2.   Unless the Meeting of the Parties decides otherwise, meetings of the Technical Committee shall be convened by the Agreement secretariat in conjunction with each ordinary session of the Meeting of the Parties and at least once between ordinary sessions of the Meeting of the Parties.   
+3.   The Technical Committee shall: 
 
 a) provide scientific and technical advice and information to the Meeting of the Parties and, through the Agreement secretariat, to Parties;  
 
@@ -173,8 +173,8 @@ b) make recommendations to the Meeting of the Parties concerning the Action Plan
 c) prepare for each ordinary session of the Meeting of the Parties a report on its activities, which shall be submitted to the Agreement secretariat not less than one hundred and twenty days before the session of the Meeting of the Parties, and copies shall be circulated forthwith by the Agreement secretariat to the Parties; and  
 
 d) carry out any other tasks referred to it by the Meeting of the Parties.     
-4.  Where in the opinion of the Technical Committee there has arisen an emergency which requires the adoption of immediate measures to avoid deterioration of the conservation status of one or more migratory waterbird species, the Technical Committee may request the Agreement secretariat to convene urgently a meeting of the Parties concerned. These Parties shall meet as soon as possible thereafter to establish rapidly a mechanism to give protection to the species identified as being subject to particularly adverse threat. Where a recommendation has been adopted at such a meeting, the Parties concerned shall inform each other and the Agreement secretariat of measures they have taken to implement it, or of the reasons why the recommendation could not be implemented.   
-5.  The Technical Committee may establish such working groups as may be necessary to deal with specific tasks.   
+4.   Where in the opinion of the Technical Committee there has arisen an emergency which requires the adoption of immediate measures to avoid deterioration of the conservation status of one or more migratory waterbird species, the Technical Committee may request the Agreement secretariat to convene urgently a meeting of the Parties concerned. These Parties shall meet as soon as possible thereafter to establish rapidly a mechanism to give protection to the species identified as being subject to particularly adverse threat. Where a recommendation has been adopted at such a meeting, the Parties concerned shall inform each other and the Agreement secretariat of measures they have taken to implement it, or of the reasons why the recommendation could not be implemented.   
+5.   The Technical Committee may establish such working groups as may be necessary to deal with specific tasks.  
 
 ### Article  VIII  
 
@@ -182,7 +182,7 @@ d) carry out any other tasks referred to it by the Meeting of the Parties.
 
 The functions of the Agreement secretariat shall be: 
 
-a) to arrange and service the sessions of the Meeting of the Parties as well as the meetings of the Technical Committee;  
+a) to arrange and service the sessions of the Meeting of the Parties as well as the meetings of the Technical Committee; 
 
 b) to execute the decisions addressed to it by the Meeting of the Parties;  
 
@@ -190,7 +190,7 @@ c) to promote and coordinate activities under the Agreement, including the Actio
 
 d) to liaise with non-Party Range States and to facilitate coordination between the Parties and with international and national organizations, the activities of which are directly or indirectly relevant to the conservation, including protection and management, of migratory waterbirds;  
 
-e) to gather and evaluate information which will further the objectives and implementation of the Agreement and to arrange for appropriate dissemination of such information;  
+e) to gather and evaluate information which will further the objectives and implementation of the Agreement and to arrange for appropriate dissemination of such information; 
 
 f) to invite the attention of the Meeting of the Parties to matters pertaining to the objectives of this Agreement;  
 
@@ -202,7 +202,7 @@ i) to administer the budget for the Agreement and, if established, its conservat
 
 j) to provide information for the general public concerning the Agreement and its objectives; and  
 
-k) to perform such other functions as may be entrusted to it under the Agreement or by the Meeting of the Parties.    
+k) to perform such other functions as may be entrusted to it under the Agreement or by the Meeting of the Parties.  
 
 ### Article  IX  
 
@@ -210,62 +210,62 @@ k) to perform such other functions as may be entrusted to it under the Agreement
 
 The Agreement secretariat shall consult: 
 
-a) on a regular basis, the Convention Secretariat and, where appropriate, the bodies responsible for the secretariat functions under Agreements concluded pursuant to Article IV, paragraphs 3 and 4, of the Convention which are relevant to migratory waterbirds, the Convention on Wetlands of International Importance, especially as Waterfowl Habitat, 1971, the Convention on International Trade in Endangered Species of Wild Fauna and Flora, 1973, the African Convention on the Conservation of Nature and Natural Resources, 1968, the Convention on the Conservation of European Wildlife and Natural Habitats, 1979, and the Convention on Biological Diversity, 1992, with a view to the Meeting of the Parties cooperating with the Parties to these conventions on all matters of common interest and, in particular, in the development and implementation of the Action Plan;  
+a) on a regular basis, the Convention Secretariat and, where appropriate, the bodies responsible for the secretariat functions under Agreements concluded pursuant to [Article IV, paragraphs 3 and 4, of the Convention](../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/van/trekkende/wilde/diersoorten/BWBV0004769/README.md) which are relevant to migratory waterbirds, the [Convention on Wetlands of International Importance, especially as Waterfowl Habitat](../../../../../../../../../../verdrag/convention/on/wetlands/of/international/importance/especially/as/waterfowl/etc/BWBV0003693/README.md), 1971, the [Convention on International Trade in Endangered Species of Wild Fauna and Flora](../../../../../../../../../../verdrag/convention/on/international/trade/in/endangered/species/of/wild/fauna/and/etc/BWBV0003833/README.md), 1973, the African Convention on the Conservation of Nature and Natural Resources, 1968, the [Convention on the Conservation of European Wildlife and Natural Habitats](../../../../../../../../../../verdrag/convention/on/the/conservation/of/european/wildlife/and/natural/habitats/BWBV0003485/README.md), 1979, and the [Convention on Biological Diversity](../../../../../../../../../../verdrag/convention/on/biological/diversity/BWBV0001136/README.md), 1992, with a view to the Meeting of the Parties cooperating with the Parties to these conventions on all matters of common interest and, in particular, in the development and implementation of the Action Plan; 
 
 b) the secretariats of other pertinent conventions and international instruments in respect of matters of common interest; and  
 
-c) other organizations competent in the field of conservation, including protection and management, of migratory waterbirds and their habitats, as well as in the fields of research, education and awareness raising.    
+c) other organizations competent in the field of conservation, including protection and management, of migratory waterbirds and their habitats, as well as in the fields of research, education and awareness raising.   
 
 ### Article  X  
 
 ####Amendment of the Agreement
 
-1.  This Agreement may be amended at any ordinary or extraordinary session of the Meeting of the Parties.   
-2.  Proposals for amendment may be made by any Party.   
-3.  The text of any proposed amendment and the reasons for it shall be communicated to the Agreement secretariat not less than one hundred and fifty days before the opening of the session. The Agreement secretariat shall transmit copies forthwith to the Parties. Any comments on the text by the Parties shall be communicated to the Agreement secretariat not less than sixty days before the opening of the session. The Secretariat shall, as soon as possible after the last day for submission of comments, communicate to the Parties all comments submitted by that day.   
-4.  An amendment to the Agreement other than an amendment to its annexes shall be adopted by a two-thirds majority of the Parties present and voting and shall enter into force for those Parties which have accepted it on the thirtieth day after the date on which two thirds of the Parties to the Agreement at the date of the adoption of the amendment have deposited their instruments of acceptance of the amendment with the Depositary. For each Party which deposits an instrument of acceptance after the date on which two thirds of the Parties have deposited their instruments of acceptance, the amendment shall enter into force on the thirtieth day after the date on which it deposits its instrument of acceptance.   
-5.  Any additional annexes and any amendment to an annex shall be adopted by a two-thirds majority of the Parties present and voting and shall enter into force for all Parties on the ninetieth day after the date of its adoption by the Meeting of the Parties, except for Parties which have entered a reservation in accordance with paragraph 6 of this Article.   
-6.  During the period of ninety days provided for in paragraph 5 of this Article, any Party may by written notification to the Depositary enter a reservation with respect to an additional annex or an amendment to an annex. Such reservation may be withdrawn at any time by written notification to the Depositary, and thereupon the additional annex or the amendment shall enter into force for that Party on the thirtieth day after the date of withdrawal of the reservation.   
+1.   This Agreement may be amended at any ordinary or extraordinary session of the Meeting of the Parties.   
+2.   Proposals for amendment may be made by any Party.   
+3.   The text of any proposed amendment and the reasons for it shall be communicated to the Agreement secretariat not less than one hundred and fifty days before the opening of the session. The Agreement secretariat shall transmit copies forthwith to the Parties. Any comments on the text by the Parties shall be communicated to the Agreement secretariat not less than sixty days before the opening of the session. The Secretariat shall, as soon as possible after the last day for submission of comments, communicate to the Parties all comments submitted by that day.   
+4.   An amendment to the Agreement other than an amendment to its annexes shall be adopted by a two-thirds majority of the Parties present and voting and shall enter into force for those Parties which have accepted it on the thirtieth day after the date on which two thirds of the Parties to the Agreement at the date of the adoption of the amendment have deposited their instruments of acceptance of the amendment with the Depositary. For each Party which deposits an instrument of acceptance after the date on which two thirds of the Parties have deposited their instruments of acceptance, the amendment shall enter into force on the thirtieth day after the date on which it deposits its instrument of acceptance.   
+5.   Any additional annexes and any amendment to an annex shall be adopted by a two-thirds majority of the Parties present and voting and shall enter into force for all Parties on the ninetieth day after the date of its adoption by the Meeting of the Parties, except for Parties which have entered a reservation in accordance with paragraph 6 of this Article.   
+6.   During the period of ninety days provided for in paragraph 5 of this Article, any Party may by written notification to the Depositary enter a reservation with respect to an additional annex or an amendment to an annex. Such reservation may be withdrawn at any time by written notification to the Depositary, and thereupon the additional annex or the amendment shall enter into force for that Party on the thirtieth day after the date of withdrawal of the reservation.  
 
 ### Article  XI  
 
 ####Effect of this Agreement on International Conventions and Legislation
 
-1.  The provisions of this Agreement do not affect the rights and obligations of any Party deriving from existing international treaties, conventions or agreements.   
-2.  The provisions of this Agreement shall in no way affect the right of any Party to maintain or adopt stricter measures for the conservation of migratory waterbirds and their habitats.   
+1.   The provisions of this Agreement do not affect the rights and obligations of any Party deriving from existing international treaties, conventions or agreements.   
+2.   The provisions of this Agreement shall in no way affect the right of any Party to maintain or adopt stricter measures for the conservation of migratory waterbirds and their habitats.  
 
 ### Article  XII  
 
 ####Settlement of Disputes
 
-1.  Any dispute which may arise between two or more Parties with respect to the interpretation or application of the provisions of this Agreement shall be subject to negotiation between the Parties involved in the dispute.   
-2.  If the dispute cannot be resolved in accordance with paragraph 1 of this Article, the Parties may, by mutual consent, submit the dispute to arbitration, in particular that of the Permanent Court of Arbitration at The Hague, and the Parties submitting the dispute shall be bound by the arbitral decision.   
+1.   Any dispute which may arise between two or more Parties with respect to the interpretation or application of the provisions of this Agreement shall be subject to negotiation between the Parties involved in the dispute.   
+2.   If the dispute cannot be resolved in accordance with paragraph 1 of this Article, the Parties may, by mutual consent, submit the dispute to arbitration, in particular that of the Permanent Court of Arbitration at The Hague, and the Parties submitting the dispute shall be bound by the arbitral decision.  
 
 ### Article  XIII  
 
 ####Signature, Ratification, Acceptance, Approval, Accession
 
-1.  This Agreement shall be open for signature by any Range State, whether or not areas under its jurisdiction lie within the Agreement Area, or regional economic integration organization, at least one member of which is a Range State, either by: 
+1.   This Agreement shall be open for signature by any Range State, whether or not areas under its jurisdiction lie within the Agreement Area, or regional economic integration organization, at least one member of which is a Range State, either by: 
 
 a) signature without reservation in respect of ratification, acceptance or approval; or  
 
 b) signature with reservation in respect of ratification, acceptance or approval, followed by ratification, acceptance or approval.     
-2.  This Agreement shall remain open for signature at The Hague until the date of its entry into force.   
-3.  This Agreement shall be open for accession by any Range State or regional economic integration organization mentioned in paragraph 1 above on and after the date of entry into force of the Agreement.   
-4.  Instruments of ratification, acceptance, approval or accession shall be deposited with the Depositary.   
+2.   This Agreement shall remain open for signature at The Hague until the date of its entry into force.   
+3.   This Agreement shall be open for accession by any Range State or regional economic integration organization mentioned in paragraph 1 above on and after the date of entry into force of the Agreement.   
+4.   Instruments of ratification, acceptance, approval or accession shall be deposited with the Depositary.  
 
 ### Article  XIV  
 
 ####Entry into Force
 
-1.  This Agreement shall enter into force on the first day of the third month after at least fourteen Range States or regional economic integration organizations, comprising at least seven from Africa and seven from Eurasia, have signed without reservation in respect of ratification, acceptance or approval, or have deposited their instruments of ratification, acceptance or approval in accordance with Article XIII of this Agreement.   
-2.  For any Range State or regional economic integration organization which has: 
+1.   This Agreement shall enter into force on the first day of the third month after at least fourteen Range States or regional economic integration organizations, comprising at least seven from Africa and seven from Eurasia, have signed without reservation in respect of ratification, acceptance or approval, or have deposited their instruments of ratification, acceptance or approval in accordance with Article XIII of this Agreement.   
+2.   For any Range State or regional economic integration organization which has: 
 
 a) signed without reservation in respect of ratification, acceptance, or approval;  
 
 b) ratified, accepted, or approved; or  
 
-c) acceded to   this Agreement after the date on which the number of Range States and regional economic integration organizations necessary to enable entry into force have signed it without reservation or have ratified, accepted or approved it, this Agreement shall enter into force on the first day of the third month following the signature without reservation, or deposit, by that State or organization, of its instrument of ratification, acceptance, approval or accession.   
+c) acceded to   this Agreement after the date on which the number of Range States and regional economic integration organizations necessary to enable entry into force have signed it without reservation or have ratified, accepted or approved it, this Agreement shall enter into force on the first day of the third month following the signature without reservation, or deposit, by that State or organization, of its instrument of ratification, acceptance, approval or accession. 
 
 ### Article  XV  
 
@@ -277,15 +277,15 @@ The provisions of this Agreement shall not be subject to general reservations. H
 
 ####Denunciation
 
-Any Party may denounce this Agreement by written notification to the Depositary at any time. The denunciation shall take effect twelve months after the date on which the Depositary has received the notification.  
+Any Party may denounce this Agreement by written notification to the Depositary at any time. The denunciation shall take effect twelve months after the date on which the Depositary has received the notification. 
 
 ### Article  XVII  
 
 ####Depositary
 
-1.  The original of this Agreement, in the Arabic, English, French and Russian languages, each version being equally authentic, shall be deposited with the Government of the Kingdom of the Netherlands which shall be the Depositary. The Depositary shall transmit certified copies of these versions to all States and regional economic integration organizations referred to in Article XIII, paragraph 1, of this Agreement, and to the Agreement secretariat after it has been established.   
-2.  As soon as this Agreement enters into force, a certified copy thereof shall be transmitted by the Depositary to the Secretariat of the United Nations for registration and publication in accordance with Article 102 of the Charter of the United Nations.   
-3.  The Depositary shall inform all States and regional economic integration organizations that have signed or acceded to the Agreement, and the Agreement secretariat, of: 
+1.   The original of this Agreement, in the Arabic, English, French and Russian languages, each version being equally authentic, shall be deposited with the Government of the Kingdom of the Netherlands which shall be the Depositary. The Depositary shall transmit certified copies of these versions to all States and regional economic integration organizations referred to in Article XIII, paragraph 1, of this Agreement, and to the Agreement secretariat after it has been established.   
+2.   As soon as this Agreement enters into force, a certified copy thereof shall be transmitted by the Depositary to the Secretariat of the United Nations for registration and publication in accordance with [Article 102 of the Charter of the United Nations](../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).   
+3.   The Depositary shall inform all States and regional economic integration organizations that have signed or acceded to the Agreement, and the Agreement secretariat, of: 
 
 a) any signature;  
 
@@ -297,30 +297,28 @@ d) any reservation with respect to an additional annex or to an amendment to an 
 
 e) any notification of withdrawal of a reservation; and  
 
-f) any notification of denunciation of the Agreement.   The Depositary shall transmit to all States and regional economic integration organizations that have signed or acceded to this Agreement, and to the Agreement secretariat, the text of any reservation, of any additional annex and of any amendment to the Agreement or to its annexes.   
+f) any notification of denunciation of the Agreement.   The Depositary shall transmit to all States and regional economic integration organizations that have signed or acceded to this Agreement, and to the Agreement secretariat, the text of any reservation, of any additional annex and of any amendment to the Agreement or to its annexes. 
 
 IN WITNESS WHEREOF the undersigned, being duly authorized to that effect, have signed this Agreement. DONE at The Hague, this fifteenth day of August 1996.  
 
-### Annex  1  
+### Annex  1 
 
 ####Definition of the Agreement Area
 
 The boundary of the Agreement area is defined as follows: from the North Pole south along the 130°W line of longitude to 75°N; thence east and southeast through Viscount Melville Sound, Prince Regent Inlet, the Gulf of Boothia, Foxe Basin, Foxe Channel and Hudson Strait to a point in the northwest Atlantic at 60°N, 60°W; thence southeast through the northwest Atlantic to a point at 50°N, 30°W; thence south along the 30°W line of longitude to 10°N; thence southeast to the Equator at 20°W; thence south along the 20°W line of longitude to 40°S; thence east along the 40°S line of latitude to 60°E; thence north along the 60°E line of longitude to 35°N; thence east-northeast on a great circle to a point in the western Altai at 49°N, 87°27`E; thence northeast on a great circle to the coast of the Arctic Ocean at 130°E; thence north along the 130°E line of longitude to the North Pole. The outline of the Agreement Area is illustrated on the following map.   
 
-### Annex  1a  
+### Annex 1a 
 
-####Map of the Agreement Area
+####Map of the Agreement Area 
 
-![]()
+![10000022016](http://wetten.overheid.nl/Illustration/10000022016)
 
-### Annex  2  
+### Annex  2 
 
-####Waterbird species to which the Agreement applies
-
-<sup> 1)  As adopted at the fourth session of the Meeting of the Parties, which took place from 15–19 September 2008, Antananarivo, Madagascar  </sup>    
+####Waterbird species to which the Agreement applies<sup> 1)  As adopted at the fourth session of the Meeting of the Parties, which took place from 15–19 September 2008, Antananarivo, Madagascar  </sup> 
 
 | --- | --- |
-|---|---|
+|:---|:---|
 |  *SPHENISCIDAE*   | --- |
 | --- | --- |
 |  *Spheniscus demersus*   | African Penguin  |
@@ -662,9 +660,7 @@ The boundary of the Agreement area is defined as follows: from the North Pole so
 
 ### Annex  3  
 
-####Action plan
-
-<sup> 1)  As adopted at the fourth session of the Meeting of the Parties, which took place from 15–19 September 2008, Antananarivo, Madagascar  </sup>  
+####Action plan<sup> 1)  As adopted at the fourth session of the Meeting of the Parties, which took place from 15–19 September 2008, Antananarivo, Madagascar  </sup> 
 
 ### 1  
 
@@ -672,7 +668,7 @@ The boundary of the Agreement area is defined as follows: from the North Pole so
 
 1.1 The Action Plan is applicable to the populations of migratory waterbirds listed in Table 1 to this Annex (hereafter referred to as “Table 1”).  
 
-1.2 Table 1 forms an integral part of this Annex. Any reference to this Action Plan includes a reference to Table 1.    
+1.2 Table 1 forms an integral part of this Annex. Any reference to this Action Plan includes a reference to Table 1.   
 
 ### 2  
 
@@ -686,7 +682,7 @@ a) prohibit the taking of birds and eggs of those populations occurring in their
 
 b) prohibit deliberate disturbance in so far as such disturbance would be significant for the conservation of the population concerned; and  
 
-c) prohibit the possession or utilisation of, and trade in, birds or eggs of those populations which have been taken in contravention of the prohibitions laid down pursuant to subparagraph (a) above, as well as the possession or utilisation of, and trade in, any readily recognizable parts or derivatives of such birds and their eggs.   By way of exception for those populations listed in Categories 2 and 3 in Column A and which are marked by an asterisk, and those populations listed in Category 4 in Column A, hunting may continue on a sustainable use basis . This sustainable use shall be conducted within the framework of an international species action plan, through which Parties will endeavour to implement the principles of adaptive harvest management. Such use shall, as a minimum, be subject to the same legal measures as the taking of birds from populations listed in Column B of Table 1, as required in paragraph 2.1.2 below. <sup> 1)  “Sustainable use” means the use of components of biological diversity in a way and at a rate that does not lead to the long-term decline of biological diversity, thereby maintaining its potential to meet the needs and aspirations of present and future generations.  </sup> <sup> 2)  Adaptive Harvest Management is the periodic process of setting hunting regulations based on a system of population and habitat monitoring, harvest level recording, data analysis and defining regulatory options.  </sup>  
+c) prohibit the possession or utilisation of, and trade in, birds or eggs of those populations which have been taken in contravention of the prohibitions laid down pursuant to subparagraph (a) above, as well as the possession or utilisation of, and trade in, any readily recognizable parts or derivatives of such birds and their eggs.   By way of exception for those populations listed in Categories 2 and 3 in Column A and which are marked by an asterisk, and those populations listed in Category 4 in Column A, hunting may continue on a sustainable use basis<sup> 1) “Sustainable use” means the use of components of biological diversity in a way and at a rate that does not lead to the long-term decline of biological diversity, thereby maintaining its potential to meet the needs and aspirations of present and future generations. </sup>. This sustainable use shall be conducted within the framework of an international species action plan, through which Parties will endeavour to implement the principles of adaptive harvest management.<sup> 2) Adaptive Harvest Management is the periodic process of setting hunting regulations based on a system of population and habitat monitoring, harvest level recording, data analysis and defining regulatory options. </sup> Such use shall, as a minimum, be subject to the same legal measures as the taking of birds from populations listed in Column B of Table 1, as required in paragraph 2.1.2 below.  
 
 2.1.2 Parties with populations listed in Table 1 shall regulate the taking of birds and eggs of all populations listed in Column B of Table 1. The object of such legal measures shall be to maintain or contribute to the restoration of those populations to a favourable conservation status and to ensure, on the basis of the best available knowledge of population dynamics, that any taking or other use is sustainable. Such legal measures, subject to paragraph 2.1.3 below, shall in particular: 
 
@@ -760,7 +756,7 @@ e) for the purpose of enhancing the propagation or survival of the populations c
 
 2.5.2 Parties shall require the taking of appropriate precautions to avoid the accidental escape of captive animals belonging to non-native species, which may be detrimental to the populations listed in Table 1.  
 
-2.5.3 Parties shall take measures to the extent feasible and appropriate, including taking, to ensure that when non-native species or hybrids thereof have already been introduced into their territory, those species or their hybrids do not pose a potential hazard to the populations listed in Table 1.      
+2.5.3 Parties shall take measures to the extent feasible and appropriate, including taking, to ensure that when non-native species or hybrids thereof have already been introduced into their territory, those species or their hybrids do not pose a potential hazard to the populations listed in Table 1.     
 
 ### 3  
 
@@ -778,7 +774,7 @@ e) for the purpose of enhancing the propagation or survival of the populations c
 
 3.2.2 Parties shall endeavour to give special protection to those wetlands which meet internationally accepted criteria of international importance.  
 
-3.2.3 Parties shall endeavour to make wise and sustainable use of all of the wetlands in their territory. In particular they shall endeavour to avoid degradation and loss of habitats that support populations listed in Table 1 through the introduction of appropriate regulations or standards and control measures. In particular, they shall endeavour to: 
+3.2.3 Parties shall endeavour to make wise and sustainable use of all of the wetlands in their territory. In particular they shall endeavour to avoid degradation and loss of habitats that support populations listed in Table 1 through the introduction of appropriate regulations or standards and control measures. In particular, they shall endeavour to:  
 
 a) ensure, where practicable, that adequate statutory controls are in place, relating to the use of agricultural chemicals, pest control procedures and the disposal of waste water, which are in accordance with international norms, for the purpose of minimizing their adverse impacts on the populations listed in Table 1; and  
 
@@ -786,7 +782,7 @@ b) prepare and distribute information materials, in the appropriate languages, d
 
 3.2.4 Parties shall endeavour to develop strategies, according to an ecosystem approach, for the conservation of the habitats of all populations listed in Table 1, including the habitats of those populations that are dispersed.    
 
-3.3  *Rehabilitation and Restoration*  Parties shall endeavour to rehabilitate or restore, where feasible and appropriate, areas which were previously important for the populations listed in Table 1, including areas that suffer degradation as a result of the impacts of factors such as climate change, hydrological change, agriculture, spread of aquatic invasive non-native species, natural succession, uncontrolled fires, unsustainable use, eutrophication and pollution.    
+3.3  *Rehabilitation and Restoration*  Parties shall endeavour to rehabilitate or restore, where feasible and appropriate, areas which were previously important for the populations listed in Table 1, including areas that suffer degradation as a result of the impacts of factors such as climate change, hydrological change, agriculture, spread of aquatic invasive non-native species, natural succession, uncontrolled fires, unsustainable use, eutrophication and pollution.   
 
 ### 4  
 
@@ -830,7 +826,7 @@ b) prepare and distribute information materials, in the appropriate languages, d
 
 4.3.6 In cases where human disturbance threatens the conservation status of waterbird populations listed in Table 1, Parties should endeavour to take measures to limit the level of threat. Special attention should be given to problem of human disturbance at breeding colonies of colonially-nesting waterbirds, especially when they are situated in the areas which are popular for outdoor recreation. Appropriate measures might include, *inter alia*, the establishment of disturbance-free zones in protected areas where public access is not permitted.  
 
-4.3.7 Parties are urged to take appropriate actions nationally or through the framework of Regional Fisheries Management Organisations (RFMOs) and relevant international organisations to minimise the impact of fisheries on migratory waterbirds, and where possible cooperate within these forums, in order to decrease the mortality in areas within and beyond national jurisdiction; appropriate measures shall especially address incidental killing and bycatch in fishing gear including the use of gill nets, longlines and trawling. <sup> 2)  “fisheries” includes aquaculture and refers to either marine or freshwater fish, crustaceans, and molluscs (e.g. bivalves, gastropods and cephalopods).  </sup>  
+4.3.7 Parties are urged to take appropriate actions nationally or through the framework of Regional Fisheries Management Organisations (RFMOs) and relevant international organisations to minimise the impact of fisheries<sup> 2) “fisheries” includes aquaculture and refers to either marine or freshwater fish, crustaceans, and molluscs (e.g. bivalves, gastropods and cephalopods). </sup> on migratory waterbirds, and where possible cooperate within these forums, in order to decrease the mortality in areas within and beyond national jurisdiction; appropriate measures shall especially address incidental killing and bycatch in fishing gear including the use of gill nets, longlines and trawling.  
 
 4.3.8 Parties are also urged to take appropriate actions nationally or through the framework of Regional Fisheries Management Organisations (RFMOs) and relevant international organisations to minimise the impact of fisheries on migratory waterbirds resulting in particular from unsustainable fishing that causes depletion of food resources for migratory waterbirds.  
 
@@ -840,7 +836,7 @@ b) prepare and distribute information materials, in the appropriate languages, d
 
 4.3.11 Parties are urged to establish appropriate measures to tackle threats to migratory waterbirds from aquaculture, including environmental assessment for developments that threaten wetlands of importance for waterbirds, especially when dealing with new or enlargement of existing installations, and involving issues such as pollution (e.g. from residues of pharmaceutical treatments used in aquaculture or eutrophication), habitat loss, entanglement risks, and introduction of non-native and potentially invasive species.”  
 
-4.3.12 Parties, the Agreement secretariat and the Technical Committee will, as appropriate, work together to provide further documentation on the nature and scale of the effects of lead fishing weights on waterbirds and to consider that documentation, noting that lead in general poses a threat to the environment with harmful effects on waterbirds. Parties will, as appropriate, seek alternatives to lead fishing weights, taking into consideration the impact on waterbirds and water quality.      
+4.3.12 Parties, the Agreement secretariat and the Technical Committee will, as appropriate, work together to provide further documentation on the nature and scale of the effects of lead fishing weights on waterbirds and to consider that documentation, noting that lead in general poses a threat to the environment with harmful effects on waterbirds. Parties will, as appropriate, seek alternatives to lead fishing weights, taking into consideration the impact on waterbirds and water quality.    
 
 ### 5  
 
@@ -860,7 +856,7 @@ b) prepare and distribute information materials, in the appropriate languages, d
 
 5.7 Parties shall endeavour to undertake studies on the impact of hunting and trade on the populations listed in Table 1 and on the importance of these forms of utilization to the local and national economy.  
 
-5.8 Parties shall endeavour to cooperate with relevant international organisations and to support research and monitoring projects.    
+5.8 Parties shall endeavour to cooperate with relevant international organisations and to support research and monitoring projects.   
 
 ### 6  
 
@@ -872,7 +868,7 @@ b) prepare and distribute information materials, in the appropriate languages, d
 
 6.3 Parties shall endeavour to develop programmes, information materials and mechanisms to improve the level of awareness of the general public with regard to the objectives, provisions and contents of this Action Plan. In this regard, particular attention shall be given to those people living in and around important wetlands, to users of these wetlands (hunters, fishermen, tourists, etc.) and to local authorities and other decision makers.  
 
-6.4 Parties shall endeavour to undertake specific public awareness campaigns for the conservation of the populations listed in Table 1.    
+6.4 Parties shall endeavour to undertake specific public awareness campaigns for the conservation of the populations listed in Table 1.   
 
 ### 7  
 
@@ -920,13 +916,12 @@ g) the status of introduced non-native waterbird species and hybrids thereof.
 
 7.6 The Technical Committee shall assess the guidelines and reviews prepared under paragraphs 7.3 and 7.4, and shall formulate draft recommendations and resolutions relating to their development, content and implementation for consideration at sessions of the Meeting of the Parties.  
 
-7.7 The Agreement secretariat shall regularly undertake a review of potential mechanisms for providing additional resources (funds and technical assistance) for the implementation of this Action Plan, and shall make a report to each ordinary session of the Meeting of the Parties.    
+7.7 The Agreement secretariat shall regularly undertake a review of potential mechanisms for providing additional resources (funds and technical assistance) for the implementation of this Action Plan, and shall make a report to each ordinary session of the Meeting of the Parties.   
 
-### Table  1  
+### Table  1 
 
-####Status of the populations of migratory waterbirds
+####<sup> 1)  Table 1, “Status of the populations of migratory waterbirds” forms part of the Action Plan contained in Annex 3 to the Agreement.  </sup>Status of the populations of migratory waterbirds
 
-<sup> 1)  Table 1, “Status of the populations of migratory waterbirds” forms part of the Action Plan contained in Annex 3 to the Agreement.  </sup>   
 ###Key to classification
 
 The following key to Table 1 is a basis for implementation of the Action Plan: 
@@ -967,13 +962,13 @@ The Table shall be:
 
 a) Reviewed regularly by the Technical Committee in accordance with article VII, paragraph 3(b), of the Agreement; and  
 
-b) Amended as necessary by the Meeting of the Parties, in accordance with article VI, paragraph 9(d) of the Agreement, in light of the conclusions of such reviews.   
+b) Amended as necessary by the Meeting of the Parties, in accordance with article VI, paragraph 9(d) of the Agreement, in light of the conclusions of such reviews.  
 ###Definition of geographical terms used in range descriptions
 
-Note that waterbird ranges respect biological, not political, boundaries and that precise alignment of biological and political entities is extremely unusual. The range descriptions used have no political significance and are for general guidance only, and for concise, mapped summaries of waterbird ranges, practitioners should consult the Critical Site Network Tool internet portal: http://wow.wetlands.org/informationflyway/criticalsitenetworktool/tabid/1349/language/en-US/Default.aspx  
+Note that waterbird ranges respect biological, not political, boundaries and that precise alignment of biological and political entities is extremely unusual. The range descriptions used have no political significance and are for general guidance only, and for concise, mapped summaries of waterbird ranges, practitioners should consult the Critical Site Network Tool internet portal:  http://wow.wetlands.org/informationflyway/criticalsitenetworktool/tabid/1349/language/en-US/Default.aspx   
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | North Africa  | Algeria, Egypt, Libya, Morocco, Tunisia.  |
 | --- | --- |
 | West Africa  | Benin, Burkina Faso, Cameroon, Cape Verde, Chad, Côte d’Ivoire, the Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, Togo.  |
@@ -1043,14 +1038,14 @@ Note that waterbird ranges respect biological, not political, boundaries and tha
 ###Key to abbreviations and symbols
 
 | --- | --- | --- | --- |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | bre:  | breeding  | win:  | wintering  |
 | N:  | Northern  | E:  | Eastern  |
 | S:  | Southern  | W:  | Western  |
 | NE:  | North-eastern  | NW:  | North-western  |
 | SE:  | South-eastern  | SW:  | South-western  |
 
-() Population status unknown. Conservation status estimated. * By way of exception for those populations listed in Categories 2 and 3 in Column A and which are marked by an asterisk, hunting may continue to be conducted on a sustainable use basis. This sustainable use shall be conducted within the framework of special provisions of an international species action plan, which shall seek to implement the principles of adaptive harvest management (see paragraph 2.1.2 of Annex 3 to the Agreement). 
+() Population status unknown. Conservation status estimated. * By way of exception for those populations listed in Categories 2 and 3 in Column A and which are marked by an asterisk, hunting may continue to be conducted on a sustainable use basis. This sustainable use shall be conducted within the framework of special provisions of an international species action plan, which shall seek to implement the principles of adaptive harvest management (see paragraph 2.1.2 of Annex 3 to the Agreement).
 ###Notes
 
 1. The population data used to compile Table 1 as far as possible correspond to the number of individuals in the potential breeding stock in the Agreement area. The status is based on the best available published population estimates.  
@@ -1061,10 +1056,10 @@ Note that waterbird ranges respect biological, not political, boundaries and tha
 
 4. Slash signs (/) are used to separate breeding areas from wintering areas.  
 
-5. Where a species’ population is listed in Table 1 with multiple categorisation, the obligations of the Action Plan relate to the strictest category listed.    
+5. Where a species’ population is listed in Table 1 with multiple categorisation, the obligations of the Action Plan relate to the strictest category listed.   
 
 |--- |  *A*   |  *B*   |  *C*   |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | --- | --- | --- | --- |
 |  *SPHENISCIDAE*   | --- | --- | --- |
 |  *Spheniscus demersus*   | --- | --- | --- |
@@ -1109,13 +1104,13 @@ Note that waterbird ranges respect biological, not political, boundaries and tha
 | --- | --- | --- | --- |
 |  *PHAETHONTIDAE*   | --- | --- | --- |
 |  *Phaethon aetherus aetherus*   | --- | --- | --- |
-| *–* South Atlantic  | 1c  | --- | --- |
+|  *– * South Atlantic  | 1c  | --- | --- |
 |  *Phaethon aetherus indicus*   | --- | --- | --- |
 | – Persian Gulf, Gulf of Aden, Red Sea  | 1c  | --- | --- |
-|  *Phaethon rubricauda rubricauda*   | --- | --- | --- |
-| – Indian Ocean  | 2  | --- | --- |
+|  *Phaethon rubricauda rubricauda *   | --- | --- | --- |
+|  – Indian Ocean  | 2  | --- | --- |
 |  *Phaethon lepturus lepturus*   | --- | --- | --- |
-| *-* W Indian Ocean  | 2  | --- | --- |
+|  *-* W Indian Ocean  | 2  | --- | --- |
 | --- | --- | --- | --- |
 |  *PELECANIDAE*   | --- | --- | --- |
 |  *Pelecanus onocrotalus*   | --- | --- | --- |
@@ -1162,7 +1157,7 @@ Note that waterbird ranges respect biological, not political, boundaries and tha
 | --- | --- | --- | --- |
 |  *FREGATIDAE*   | --- | --- | --- |
 |  *Fregata minor aldabrensis*   | --- | --- | --- |
-| – W Indian Ocean  | 2  | --- | --- |
+|  – W Indian Ocean  | 2  | --- | --- |
 |  *Fregata ariel iredalei*   | --- | --- | --- |
 | – W Indian Ocean  | 2  | --- | --- |
 | --- | --- | --- | --- |
@@ -1344,7 +1339,7 @@ Note that waterbird ranges respect biological, not political, boundaries and tha
 | – Greenland/Ireland & UK  | 2*  | --- | --- |
 |  *Anser erythropus*   | --- | --- | --- |
 | – NE Europe & W Siberia/Black Sea & Caspian  | 1a 1b 2  | --- | --- |
-| – Fennoscandia  | 1a 1b 1c  | --- | --- |
+|  – Fennoscandia  | 1a 1b 1c  | --- | --- |
 |  *Anser anser anser*   | --- | --- | --- |
 | – Iceland/UK & Ireland  | --- | 1  | --- |
 | – NW Europe/South-west Europe  | --- | --- | 1  |
@@ -1389,7 +1384,7 @@ Note that waterbird ranges respect biological, not political, boundaries and tha
 | – Southern & Eastern Africa  | --- | --- | (1)  |
 |  *Anas capensis*   | --- | --- | --- |
 | – Eastern Africa (Rift Valley)  | 1c  | --- | --- |
-| – Lake Chad basin <sup>2</sup>  | 1c  | --- | --- |
+| – Lake Chad basin<sup>2</sup>   | 1c  | --- | --- |
 | – Southern Africa (N to Angola & Zambia)  | --- | --- | 1  |
 |  *Anas strepera strepera*   | --- | --- | --- |
 | – North-west Europe  | --- | 1  | --- |
@@ -1517,7 +1512,7 @@ Note that waterbird ranges respect biological, not political, boundaries and tha
 | --- | --- | --- | --- |
 |  *RALLIDAE*   | --- | --- | --- |
 |  *Sarothrura elegans elegans*   | --- | --- | --- |
-| – NE, Eastern & Southern Africa  | --- | --- | (1)  |
+|  – NE, Eastern & Southern Africa  | --- | --- | (1)  |
 |  *Sarothrura elegans reichenovi*   | --- | --- | --- |
 | – S West Africa to Central Africa  | --- | --- | (1)  |
 |  *Sarothrura boehmi*   | --- | --- | --- |
@@ -1575,7 +1570,7 @@ Note that waterbird ranges respect biological, not political, boundaries and tha
 |  *RECURVIROSTRIDAE*   | --- | --- | --- |
 |  *Himantopus himantopus himantopus*   | --- | --- | --- |
 | – Sub-Saharan Africa (excluding south)  | --- | --- | (1)  |
-| – Southern Africa (‘ *meridionalis* ’)  | 2  | --- | --- |
+| – Southern Africa (‘*meridionalis*’)  | 2  | --- | --- |
 | – SW Europe & North-west Africa/West Africa  | --- | 1  | --- |
 | – Central Europe & E Mediterranean/N-Central Africa  | --- | 1  | --- |
 | – W, C & SW Asia/SW Asia & NE Africa  | --- | (1)  | --- |
@@ -1980,9 +1975,9 @@ Note that waterbird ranges respect biological, not political, boundaries and tha
 | – High Arctic, Baffin Is – Novaya Zemlya  | --- | --- | 1  |
 |  *Uria aalge aalge*   | --- | --- | --- |
 | – E North America, Greenland, Iceland, Faeroes, Scotland, S Norway, Baltic  | --- | 2c  | --- |
-|  *Uria aalge albionis*   | --- | --- | --- |
+|  *Uria aalge albionis *   | --- | --- | --- |
 | – Ireland, S Britain, France, Iberia, Helgoland  | --- | --- | 1  |
-|  *Uria aalge hyperborea*   | --- | --- | --- |
+|  *Uria aalge hyperborea *   | --- | --- | --- |
 | – Svalbard, N Norway to Novaya Zemlya  | --- | --- | 1  |
 |  *Uria lomvia lomvia*   | --- | --- | --- |
 | – E North America, Greenland, E to Severnaya Zemlya  | --- | 2c  | --- |
@@ -1994,7 +1989,7 @@ Note that waterbird ranges respect biological, not political, boundaries and tha
 | – Baltic Sea  | --- | 1  | --- |
 |  *Cepphus grylle mandtii*   | --- | --- | --- |
 | – Arctic E North America to Greenland, Jan Mayen & Svalbard E through Siberia to Alaska  | --- | 1  | --- |
-|  *Cepphus grylle arcticus*   | --- | --- | --- |
+|  *Cepphus grylle arcticus *   | --- | --- | --- |
 | – N America, S Greenland, Britain, Ireland, Scandinavia, White Sea  | --- | --- | 1  |
 |  *Cepphus grylle islandicus*   | --- | --- | --- |
 | – Iceland  | 3c  | --- | --- |
@@ -2002,7 +1997,7 @@ Note that waterbird ranges respect biological, not political, boundaries and tha
 | – Faeroes  | 1c  | --- | --- |
 |  *Fratercula arctica arctica*   | --- | --- | --- |
 | – Hudson bay & Maine E to S Greenland, Iceland, Bear Is, Norway to S Novaya Zemlya  | --- | --- | 1  |
-|  *Fratercula arctica naumanni*   | --- | --- | --- |
+|  *Fratercula arctica naumanni *   | --- | --- | --- |
 | – NE Canada, N Greenland, to Jan Mayen, Svalbard, N Novaya Zemlya  | 3a  | --- | --- |
 |  *Fratercula arctica grabae*   | --- | --- | --- |
 | – Faeroes, S Norway & Sweden, Britain, Ireland, NW France  | --- | --- | 1  |

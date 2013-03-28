@@ -22,6 +22,8 @@ In dit besluit en de daarop berustende bepalingen wordt, tenzij anders is bepaal
 
 *breedte:* de grootste breedte van de scheepsromp in meters, gemeten op de buitenkant van de huidbeplating;  
 
+*Bunkerstation:* drijvend bouwsel met permanente ligplaats dat is bestemd of wordt gebruikt voor de opslag of levering van brandstof voor de voortstuwing van schepen;
+
 *diepgang:* de verticale afstand in meters tussen het laagste punt van de scheepsromp, zonder de kiel of andere uitstekende delen, en het vlak van de grootste inzinking van de scheepsromp in meters;  
 
 *duwboot:* schip dat is bestemd of wordt gebruikt voor het duwen van schepen en niet bestemd is voor het zelfstandig vervoeren van goederen;  
@@ -46,7 +48,7 @@ In dit besluit en de daarop berustende bepalingen wordt, tenzij anders is bepaal
 
 *veerpont:* schip, niet zijnde een veerboot, dat is bestemd of wordt gebruikt voor het bedrijfsmatig vervoer van een of meer personen buiten de bemanningsleden en dat een openbaar vervoersdienst onderhoudt;  
 
-*wet:*[Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md).    
+*wet:* [Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md).   
 
 ### Hoofdstuk  2  
 
@@ -66,7 +68,8 @@ c. een door Onze Minister aangewezen geëigend document van de bevoegde autorite
 
 a. een schip met een lengte van ten minste 20 meter; of  
 
-b. een schip waarvoor het product van lengte, breedte en diepgang in meters ten minste 100 m <sup>3</sup> bedraagt.     
+b. een schip waarvoor het product van lengte, breedte en diepgang in meters ten minste 100 m<sup>3</sup> bedraagt.     
+4.  Bij regeling van Onze Minister kan vrijstelling worden verleend van het tweede lid. 
 
 ### Artikel  3  
 
@@ -77,7 +80,7 @@ a. in geval van een natuurlijke persoon: met betrekking tot de nationaliteit en 
 b. in geval van een rechtspersoon of een vennootschap zonder rechtspersoonlijkheid: met betrekking tot de oprichting, de zetel, het centrum van de handelsactiviteit, de plaats van waaruit de exploitatie wordt geleid, het bestuur en het beheer.     
 2.  De houder van een Rijnvaartverklaring doet aan Onze Minister binnen twee weken schriftelijk mededeling van iedere wijziging in de omstandigheden op grond waarvan de Rijnvaartverklaring is verstrekt.   
 3.  Onze Minister trekt de verklaring in, indien niet langer aan de in het eerste lid bedoelde regels wordt voldaan en kan de verklaring intrekken als de houder niet voldoet aan de verplichting genoemd in het tweede lid.   
-4.  Onze Minister kan in het geval dat een Rijnvaartverklaring wordt aangevraagd in verband met het verrichten van vervoer als bedoeld in artikel 2, tweede lid, uitzonderingen toestaan wat betreft de eis van meerderheid, bedoeld in artikel 3, eerste lid, onderdeel c, onder cc, alsmede artikel 3, tweede lid, van de bijlage bij Verordening (EEG) nr. 2919/85 van de Raad van de Europese Gemeenschappen van 17 oktober 1985 houdende vaststelling van de voorwaarden waaraan moet worden voldaan om in aanmerking te komen voor het regime dat door de Herziene Rijnvaartakte wordt gereserveerd voor de vaartuigen die tot de Rijnvaart behoren (PbEG L 280), op voorwaarde dat het doel van Aanvullend Protocol nr. 2 bij de Herziene Rijnvaartakte niet in gevaar wordt gebracht en hij tevens de door de Centrale Commissie voor de Rijnvaart vastgestelde algemene voorwaarden, bedoeld in artikel 3, vierde lid, van de bijlage bij bovengenoemde verordening overeenkomstig toepast.   
+4.  Onze Minister kan in het geval dat een Rijnvaartverklaring wordt aangevraagd in verband met het verrichten van vervoer als bedoeld in artikel 2, tweede lid, uitzonderingen toestaan wat betreft de eis van meerderheid, bedoeld in artikel 3, eerste lid, onderdeel c, onder cc, alsmede artikel 3, tweede lid, van de bijlage bij Verordening (EEG) nr. 2919/85 van de Raad van de Europese Gemeenschappen van 17 oktober 1985 houdende vaststelling van de voorwaarden waaraan moet worden voldaan om in aanmerking te komen voor het regime dat door de Herziene Rijnvaartakte wordt gereserveerd voor de vaartuigen die tot de Rijnvaart behoren (PbEG L 280), op voorwaarde dat het doel van Aanvullend Protocol nr. 2 bij de Herziene Rijnvaartakte niet in gevaar wordt gebracht en hij tevens de door de Centrale Commissie voor de Rijnvaart vastgestelde algemene voorwaarden, bedoeld in artikel 3, vierde lid, van de bijlage bij bovengenoemde verordening overeenkomstig toepast.  
 
 ### Artikel  4  
 
@@ -87,7 +90,7 @@ b. in geval van een rechtspersoon of een vennootschap zonder rechtspersoonlijkhe
 a. de afgifte van een bewijs van toelating weigeren of een dergelijk bewijs intrekken; of  
 
 b. aan een bewijs van toelating voorschriften verbinden of zodanige voorschriften wijzigen of intrekken.     
-3.  Artikel 3, tweede en derde lid, is van overeenkomstige toepassing.   
+3.  Artikel 3, tweede en derde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  5  
 
@@ -99,7 +102,7 @@ b. de voorschriften waaraan moet zijn voldaan en de gegevens die worden verstrek
 
 c. de wijze waarop een aanvraag om afgifte of intrekking van een Rijnvaartverklaring en een bewijs van toelating wordt ingediend;  
 
-d. de controleerbaarheid van de Rijnvaartverklaring, van het bewijs van toelating en van het geëigend document.    
+d. de controleerbaarheid van de Rijnvaartverklaring, van het bewijs van toelating en van het geëigend document.   
 
 ### Hoofdstuk  3  
 
@@ -115,7 +118,7 @@ Voor de volgende categorieën van binnenschepen is een certificaat van onderzoek
 
 a. binnenschepen met een lengte van ten minste 20 meter;  
 
-b. binnenschepen waarvoor het product van lengte, breedte en diepgang ten minste 100 m <sup>3</sup> bedraagt;  
+b. binnenschepen waarvoor het product van lengte, breedte en diepgang ten minste 100 m<sup>3</sup> bedraagt;  
 
 c. sleepboten, duwboten of sleepduwboten, tenzij: 
 
@@ -137,7 +140,9 @@ h. binnenschepen die gevaarlijke stoffen als bedoeld in de [Wet vervoer gevaarli
 
 i. binnenschepen die krachtens het [Binnenvaartpolitiereglement](../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) of het [Rijnvaartpolitiereglement 1995](../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) zijn toegelaten tot het ligplaats nemen langszijde van een binnenschip als bedoeld in onderdeel h; of  
 
-j. samenstellen van hecht aan elkaar verbonden schepen met een gezamenlijke afmeting als bedoeld in onderdeel a of b.    
+j. samenstellen van hecht aan elkaar verbonden schepen met een gezamenlijke afmeting als bedoeld in onderdeel a of b;  
+
+k. bunkerstations met een afmeting als bedoeld in de onderdelen a of b.  
 
 ### Artikel  7  
 
@@ -165,17 +170,19 @@ e. drijvende werktuigen die zich in een grind- of zandgat bevinden;
 
 f. binnenschepen die in aanbouw zijn of waarmee een proefvaart wordt ondernomen;  
 
-g. binnenschepen met permanente ligplaats, uitsluitend gebruikt voor bewoning en zonder eigen aandrijving dan wel anderszins niet voor de vaart geschikt, ook gedurende de tijd van verslepen.    
+g. binnenschepen met permanente ligplaats, uitsluitend gebruikt voor bewoning en zonder eigen aandrijving dan wel anderszins niet voor de vaart geschikt, ook gedurende de tijd van verslepen;  
+
+h. schepen bestemd tot het redden van drenkelingen.  
 
 ### Artikel  8  
 
-Een communautair binnenvaartcertificaat voor binnenschepen overeenkomstig richtlijn nr. 2006/87/EG van het Europees parlement en de Raad van de Europese Gemeenschappen van 12 december 2006 tot vaststelling van de technische voorschriften voor binnenschepen en tot intrekking van richtlijn nr. 82/714/EEG van de Raad (PbEG L 389) wordt gelijkgesteld met een certificaat van onderzoek.  
+Een communautair binnenvaartcertificaat voor binnenschepen overeenkomstig richtlijn nr. 2006/87/EG van het Europees parlement en de Raad van de Europese Gemeenschappen van 12 december 2006 tot vaststelling van de technische voorschriften voor binnenschepen en tot intrekking van richtlijn nr. 82/714/EEG van de Raad (PbEG L 389) wordt gelijkgesteld met een certificaat van onderzoek. 
 
 ### Artikel  9  
 
 1.  Voor binnenschepen waarop aanvullende regels als bedoeld in [artikel 8, tweede lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md), van toepassing zijn en die zijn voorzien van een certificaat van onderzoek, verstrekt Onze Minister op aanvraag van de eigenaar van het binnenschip een communautair aanvullend binnenvaartcertificaat van onderzoek overeenkomstig richtlijn nr. 2006/87/EG van het Europees parlement en de Raad van de Europese Gemeenschappen van 12 december 2006 tot vaststelling van de technische voorschriften voor binnenschepen en tot intrekking van richtlijn nr. 82/714/EEG van de Raad (PbEG L389).   
 2.  Onze Minister verstrekt op aanvraag voor zeeschepen ten behoeve van de vaart op de binnenwateren een communautair aanvullend binnenvaartcertificaat van onderzoek.   
-3.  Op het communautair aanvullend binnenvaartcertificaat van onderzoek zijn [hoofdstuk 3, paragraaf 1, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) en deze paragraaf van overeenkomstige toepassing.   
+3.  Op het communautair aanvullend binnenvaartcertificaat van onderzoek zijn [hoofdstuk 3, paragraaf 1, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) en deze paragraaf van overeenkomstige toepassing.  
 
 ### Artikel  10  
 
@@ -201,7 +208,7 @@ a. in de in het eerste lid, onderdelen a en d tot en met f, bedoelde gevallen vo
 b. in de in het eerste lid, onderdelen b en c, bedoelde gevallen gedurende een redelijke termijn;  
 
 c. in de in het eerste lid, onderdeel g, genoemde gevallen gedurende zes maanden, hetgeen elke zes maanden kan worden verlengd, zolang het comité als bedoeld in artikel 2.19, tweede lid, van richtlijn nr. 2006/87/EG nog geen beslissing heeft genomen.     
-3.  Het voorlopig certificaat van onderzoek kan voorschriften bevatten die door Onze Minister in het belang van de veiligheid van het binnenschip of de opvarenden nodig worden geacht. De eigenaar draagt zorg voor de naleving van deze voorschriften.   
+3.  Het voorlopig certificaat van onderzoek kan voorschriften bevatten die door Onze Minister in het belang van de veiligheid van het binnenschip of de opvarenden nodig worden geacht. De eigenaar draagt zorg voor de naleving van deze voorschriften.  
 
 ### Artikel  11  
 
@@ -216,7 +223,7 @@ a. de afgifte van de certificaten van onderzoek;
 
 b. het onderzoek, bedoeld in [artikel 14 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md);  
 
-c. de afgifte van de verklaring, bedoeld in artikel 6, onderdeel c, onder 2°.     
+c. de afgifte van de verklaring, bedoeld in artikel 6, onderdeel c, onder 2°.    
 
 ### §  2  
 
@@ -263,7 +270,7 @@ d. zeeschepen, niet zijnde een sleepboot:
 
 3°. die zich bevinden in de haven van Scheveningen;    
 
-e. zeeschepen die voldoen aan bij regeling van Onze Minister overeenkomstig bindende besluiten van organen van de Europese Unie dan wel anderszins ter uitvoering van verdragen of bindende besluiten van volkenrechtelijke organisaties gestelde regels.     
+e. zeeschepen die voldoen aan bij regeling van Onze Minister overeenkomstig bindende besluiten van organen van de Europese Unie dan wel anderszins ter uitvoering van verdragen of bindende besluiten van volkenrechtelijke organisaties gestelde regels.    
 
 ### §  3  
 
@@ -273,7 +280,7 @@ e. zeeschepen die voldoen aan bij regeling van Onze Minister overeenkomstig bind
 
 1.  Voor de vaart op rivieren, kanalen en meren is de gezagvoerder voorzien van een groot, beperkt groot, dan wel klein vaarbewijs, voor rivieren, kanalen en meren.   
 2.  Voor de vaart op de overige binnenwateren is de gezagvoerder voorzien van een groot, beperkt groot, dan wel klein vaarbewijs, voor alle binnenwateren.   
-3.  Voor de toepassing van het eerste lid worden onder rivieren, kanalen en meren verstaan de binnenwateren met uitzondering van de Westerschelde, de Oosterschelde, de Waddenzee, de Eems, de Dollard, het IJsselmeer, het IJmeer en het Markermeer met uitzondering van de Gouwzee.   
+3.  Voor de toepassing van het eerste lid worden onder rivieren, kanalen en meren verstaan de binnenwateren met uitzondering van de Westerschelde, de Oosterschelde, de Waddenzee, de Eems, de Dollard, het IJsselmeer, het IJmeer en het Markermeer met uitzondering van de Gouwzee.  
 
 ### Artikel  14  
 
@@ -298,7 +305,7 @@ e. sleepboten, duwboten of sleepduwboten.
 
 a. ze blijkens een verklaring van Onze Minister uitsluitend worden gebruikt als pleziervaartuig; en  
 
-b. ze overeenkomstig de voorwaarden gesteld op die verklaring worden gebruikt.     
+b. ze overeenkomstig de voorwaarden gesteld op die verklaring worden gebruikt.    
 
 ### Artikel  15  
 
@@ -315,7 +322,7 @@ b. sleepboten, duwboten of sleepduwboten met een lengte van ten minste 25 meter 
 1°. ze blijkens een verklaring van Onze Minister uitsluitend worden gebruikt als pleziervaartuig, en  
 
 2°. ze overeenkomstig de voorwaarden gesteld op die verklaring worden gebruikt.       
-2.  Een beperkt groot vaarbewijs is geldig voor het voeren van een schip waarvoor een klein vaarbewijs vereist is.   
+2.  Een beperkt groot vaarbewijs is geldig voor het voeren van een schip waarvoor een klein vaarbewijs vereist is.  
 
 ### Artikel  16  
 
@@ -331,7 +338,7 @@ c. sleepboten, duwboten of sleepduwboten met een lengte van ten minste 15 meter 
 
 2°. ze overeenkomstig de voorwaarden gesteld op die verklaring worden gebruikt, of    
 
-d. schepen met een lengte van minder dan 15 meter die door middel van de eigen mechanische voortstuwingsmiddelen een snelheid van meer dan 20 kilometer per uur ten opzichte van het water kunnen bereiken, en niet behoren tot de in artikel 14, eerste lid, onderdelen b, c, d en e, genoemde schepen.    
+d. schepen met een lengte van minder dan 15 meter die door middel van de eigen mechanische voortstuwingsmiddelen een snelheid van meer dan 20 kilometer per uur ten opzichte van het water kunnen bereiken, en niet behoren tot de in artikel 14, eerste lid, onderdelen b, c, d en e, genoemde schepen.   
 
 ### Artikel  17  
 
@@ -358,16 +365,16 @@ b. niet zijnde een sleepboot:
 
 a. de gezagvoerder is voorzien van een door Onze Minister aangewezen bewijs van bekwaamheid dat is erkend ingevolge [artikel 25, derde lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md), of  
 
-b. de gezagvoerder of een ander lid van de dekbemanning is voorzien van een door Onze Minister aangewezen aanvullend bewijs van bekwaamheid voor de binnenvaart dat is afgegeven door een daartoe bevoegde autoriteit in het buitenland.     
+b. de gezagvoerder of een ander lid van de dekbemanning is voorzien van een door Onze Minister aangewezen aanvullend bewijs van bekwaamheid voor de binnenvaart dat is afgegeven door een daartoe bevoegde autoriteit in het buitenland.    
 
 ### Artikel  18  
 
 1.  Bij regeling van Onze Minister kunnen regels worden gesteld houdende vrijstelling van de vaarbewijsplicht, indien naar het oordeel van Onze Minister de veilige vaart voldoende gewaarborgd is.   
-2.  De in het eerste lid genoemde regels betreffen in elk geval de voorschriften voor afgifte en intrekking van vrijstellingsbewijzen.   
+2.  De in het eerste lid genoemde regels betreffen in elk geval de voorschriften voor afgifte en intrekking van vrijstellingsbewijzen.  
 
 ### Artikel  19  
 
-Bij regeling van Onze Minister worden vorm en inhoud van de vaarbewijzen vastgesteld.  
+Bij regeling van Onze Minister worden vorm en inhoud van de vaarbewijzen vastgesteld. 
 
 ### Artikel  20  
 
@@ -381,7 +388,7 @@ c. overige, bij regeling van Onze Minister nader te regelen, bescheiden.
 2.  Onverminderd het eerste lid toont de aanvrager bij de aanvraag tot afgifte van een beperkt groot vaarbewijs of een groot vaarbewijs op bij regeling van Onze Minister te bepalen wijze aan dat hij een vaartijd heeft doorlopen van drie jaren respectievelijk vier jaren.   
 3.  Een jaar vaartijd als bedoeld in het tweede lid bestaat uit 180 effectieve vaardagen. Binnen een periode van 365 opeenvolgende dagen kunnen maximaal 180 dagen als vaartijd worden meegerekend.   
 4.  In het geval van ongeldigverklaring van het vaarbewijs mag bij een nieuwe aanvraag tot afgifte geen gebruik worden gemaakt van een eerder overgelegd getuigschrift of erkend bewijs van bekwaamheid voor de binnenvaart.   
-5.  Bij regeling van Onze Minister worden nadere regels gegeven omtrent de toelating van de aanvrager tot het onderzoek en de wijze van onderzoek als bedoeld in [artikel 26, tweede lid, onderdeel b, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md).   
+5.  Bij regeling van Onze Minister worden nadere regels gegeven omtrent de toelating van de aanvrager tot het onderzoek en de wijze van onderzoek als bedoeld in [artikel 26, tweede lid, onderdeel b, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md).  
 
 ### Artikel  21  
 
@@ -389,7 +396,7 @@ In plaats van een document als bedoeld in artikel 20, eerste lid, onderdeel b, k
 
 a. een ten minste gelijkwaardig geldig vaarbewijs, of  
 
-b. een ten minste gelijkwaardig vaarbewijs dat zijn geldigheid heeft verloren uitsluitend door het verstrijken van de geldigheidsduur.    
+b. een ten minste gelijkwaardig vaarbewijs dat zijn geldigheid heeft verloren uitsluitend door het verstrijken van de geldigheidsduur.   
 
 ### Artikel  22  
 
@@ -397,13 +404,13 @@ b. een ten minste gelijkwaardig vaarbewijs dat zijn geldigheid heeft verloren ui
 2.  Een groot vaarbewijs en een beperkt groot vaarbewijs, afgegeven aan de houder na het bereiken van de leeftijd van 50 jaar, zijn geldig tot de dag waarop de houder de leeftijd van 65 jaar en dertien weken heeft bereikt in bij regeling genoemde gevallen, mits zij samen met de geneeskundige verklaring, bedoeld in [artikel 28 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md), worden getoond.   
 3.  Een groot vaarbewijs en een beperkt groot vaarbewijs zijn na de dag waarop de houder de leeftijd van 65 jaar en dertien weken heeft bereikt slechts geldig in bij regeling genoemde gevallen, mits zij samen met de geneeskundige verklaring, bedoeld in [artikel 28 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md), worden getoond.   
 4.  Een klein vaarbewijs, afgegeven voor de 65-jarige leeftijd van de houder, is geldig tot de dag waarop de houder de leeftijd van 70 jaar heeft bereikt.   
-5.  Een klein vaarbewijs, afgegeven nadat de houder de 65-jarige leeftijd heeft bereikt, is vijf jaar geldig.   
+5.  Een klein vaarbewijs, afgegeven nadat de houder de 65-jarige leeftijd heeft bereikt, is vijf jaar geldig.  
 
 ### Artikel  23  
 
 1.  Het vaarbewijs wordt binnen twee weken na ongeldigverklaring als bedoeld in [artikel 30 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) bij Onze Minister ingeleverd.   
 2.  Onze Minister kan degene wiens vaarbewijs ongeldig is verklaard geheel of gedeeltelijk ontheffing van het examen verlenen.   
-3.  Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot het in dit artikel bepaalde.   
+3.  Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot het in dit artikel bepaalde.  
 
 ### Artikel  24  
 
@@ -415,7 +422,11 @@ b. de aanwijzing van degenen die namens Onze Minister gegevens verstrekken;
 
 c. de wijze waarop de gegevens verstrekt worden; en  
 
-d. de wijze waarop de houder van het ongeldige vaarbewijs in kennis wordt gesteld van de verstrekking van zijn gegevens.    
+d. de wijze waarop de houder van het ongeldige vaarbewijs in kennis wordt gesteld van de verstrekking van zijn gegevens.   
+
+### Artikel  24a  
+
+De geldigheid van het vaardocument, bedoeld in artikel 33a, is van rechtswege geschorst gedurende de periode dat het ingevolge de [artikelen 35a, eerste lid, van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) onderscheidenlijk [42, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md), is ingevorderd maar nog niet overhandigd. 
 
 ### §  4  
 
@@ -436,7 +447,7 @@ d. het functioneren van armen en benen;
 e. de neurologische en psychische gesteldheid; en  
 
 f. overige afwijkingen die het veilig varen nadelig kunnen beïnvloeden.     
-2.  Het geneeskundig onderzoek en de afgifte van de geneeskundige verklaring geschieden met inachtneming van de bij regeling van Onze Minister te stellen regels.   
+2.  Het geneeskundig onderzoek en de afgifte van de geneeskundige verklaring geschieden met inachtneming van de bij regeling van Onze Minister te stellen regels.  
 
 ### Artikel  26  
 
@@ -449,7 +460,7 @@ b. niet langer dan dertien weken tevoren een overeenkomstig geneeskundig onderzo
 3.  De aanvrager, bedoeld in het eerste lid, onder b, legt bescheiden over ten bewijze van het feit dat hij voldoet aan de aldaar gestelde vereisten.   
 4.  De eigen verklaring mag niet ouder zijn dan zesentwintig weken.   
 5.  Indien de eigen verklaring op enige afwijking wijst kan een deskundige, bedoeld in [artikel 28, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md), een geneeskundige verklaring afgeven, indien hij van oordeel is dat de afwijking het veilig varen niet nadelig zal beïnvloeden.   
-6.  Het opmaken en het beoordelen van de eigen verklaring geschiedt met inachtneming van de bij regeling van Onze Minister te stellen regels.   
+6.  Het opmaken en het beoordelen van de eigen verklaring geschiedt met inachtneming van de bij regeling van Onze Minister te stellen regels.  
 
 ### Artikel  27  
 
@@ -458,7 +469,7 @@ b. niet langer dan dertien weken tevoren een overeenkomstig geneeskundig onderzo
 
 a. iedere vijf jaren vanaf het bereiken van de leeftijd van 50 jaar tot de leeftijd van 65 jaar;  
 
-b. ieder jaar vanaf het bereiken van de leeftijd van 65 jaar.     
+b. ieder jaar vanaf het bereiken van de leeftijd van 65 jaar.    
 
 ### Artikel  28  
 
@@ -467,7 +478,7 @@ b. ieder jaar vanaf het bereiken van de leeftijd van 65 jaar.
 3.  Een geneeskundige verklaring als bedoeld in [artikel 23 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md), afgegeven vóór de 60-jarige leeftijd van een bemanningslid, is geldig tot dertien weken na de dag waarop hij de 60-jarige leeftijd bereikt.   
 4.  Een geneeskundige verklaring als bedoeld in [artikel 23 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md), afgegeven vóór de 65-jarige leeftijd van een bemanningslid, is geldig tot dertien weken na de dag waarop hij de 65-jarige leeftijd bereikt.   
 5.  Een geneeskundige verklaring als bedoeld in [artikel 23 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) afgegeven nadat een bemanningslid de 65-jarige leeftijd heeft bereikt, is geldig gedurende een jaar.   
-6.  Een geneeskundige verklaring als bedoeld in [artikel 23 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) is niet vereist voor de gezagvoerder die in het bezit is van een groot patent als bedoeld in het [Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md).   
+6.  Een geneeskundige verklaring als bedoeld in [artikel 23 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) is niet vereist voor de gezagvoerder die in het bezit is van een groot patent als bedoeld in het [Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md).  
 
 ### Artikel  29  
 
@@ -478,7 +489,7 @@ a. de toelating van de aanvrager tot het onderzoek;
 
 b. de wijze van onderzoek; en  
 
-c. de vaartijd.     
+c. de vaartijd.    
 
 ### Hoofdstuk  4  
 
@@ -497,20 +508,138 @@ c. de wijze waarop van een wijziging van de geregistreerde gegevens kennis wordt
 
 d. de bescherming van de geregistreerde gegevens;  
 
-e. de wijze waarop de geregistreerde personen kennis kunnen nemen en verbetering kunnen laten aanbrengen van de over hen en hun binnenschepen opgenomen gegevens.     
+e. de wijze waarop de geregistreerde personen kennis kunnen nemen en verbetering kunnen laten aanbrengen van de over hen en hun binnenschepen opgenomen gegevens.    
 
 ### Artikel  31  
 
-Bij regeling van Onze Minister worden regels gesteld betreffende de middelen waarmee de gegevens ten behoeve van het toezicht op de naleving van de voorschriften betreffende de vaartijden, de rusttijden en de bemanningssterkte worden geregistreerd.  
+Bij regeling van Onze Minister worden regels gesteld betreffende de middelen waarmee de gegevens ten behoeve van het toezicht op de naleving van de voorschriften betreffende de vaartijden, de rusttijden en de bemanningssterkte worden geregistreerd. 
 
 ### Artikel  32  
 
-Bij regeling van Onze Minister kunnen in het belang van de statistiek regels worden gesteld omtrent de verstrekking van gegevens betreffende het vervoer.  
+Bij regeling van Onze Minister kunnen in het belang van de statistiek regels worden gesteld omtrent de verstrekking van gegevens betreffende het vervoer. 
 
 ### Artikel  33  
 
 1.  Onze Minister wijst de bevoegde autoriteit onderscheidenlijk de bevoegde autoriteiten aan, bedoeld in de reglementen ter uitvoering van de Herziene Rijnvaartakte.   
-2.  De bevoegde autoriteit, bedoeld in het eerste lid, is verantwoordelijk voor verwerking van de persoonsgegevens als bedoeld in [artikel 39, vierde lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md).   
+2.  De bevoegde autoriteit, bedoeld in het eerste lid, is verantwoordelijk voor verwerking van de persoonsgegevens als bedoeld in [artikel 39, vierde lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md).  
+
+### Hoofdstuk  4a  
+
+####Registratie van ontzegde vaarbevoegdheden en van ingevorderde en ongeldig verklaarde vaardocumenten
+
+### §  1  
+
+####Het register
+
+### Artikel  33a  
+
+In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder: 
+
+*ongeldigverklaring van een vaardocument:* ongeldigverklaring als bedoeld in [artikel 30, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md);  
+
+*ontzegging van de vaarbevoegdheid:* ontzegging als bedoeld in [artikel 35b, eerste lid, van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md);  
+
+*register:* register als bedoeld in [artikel 35a van de Wet](../../../wet/binnenvaartwet/BWBR0023009/README.md);  
+
+*vaardocument:* document ten bewijze van de bevoegdheid om op de Nederlandse binnenwateren een schip te voeren, waaronder begrepen een daarmee vergelijkbaar document dat is afgegeven door een buitenlandse autoriteit.   
+
+### Artikel  33b  
+
+In het register worden per betrokkene in samenhang en voor zover van toepassing, de volgende gegevens opgenomen: 
+
+a. naam, adres, woonplaats, zoals luidend ten tijde van het opnemen;  
+
+b. geboortedatum en burgerservicenummer;  
+
+c. de datum van invordering van het vaardocument, bedoeld in de [artikelen 35a, eerste lid, van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) onderscheidenlijk [42, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md);  
+
+d. de ingangsdatum van intrekking van de ontheffing, bedoeld in [artikel 22, zesde lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md);  
+
+e. de ingangsdatum van ontzegging van de vaarbevoegdheid;  
+
+f. de ingangsdatum van ongeldigverklaring van het vaardocument, bedoeld in [artikel 30, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md);  
+
+g. de datum waarop de ontzegging van de vaarbevoegdheid zal eindigen;  
+
+h. de datum waarop de ongeldigverklaring van het vaardocument zal eindigen.   
+
+### Artikel  33c  
+
+Onze Minister past de volgende maatregelen toe ten aanzien van het register: 
+
+a. de waarborg dat de persoonlijke levenssfeer van de betrokkenen niet onevenredig wordt geschaad;  
+
+b. het voorkomen van onnodig verzamelen en verder verwerken van persoonsgegevens;  
+
+c. passende technische en organisatorische maatregelen om persoonsgegevens te beveiligen tegen verlies of tegen enige vorm van onrechtmatige verwerking als bedoeld in [artikel 13 van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md); en  
+
+d. waarborgen ten aanzien van de technische en organisatorische beveiligingsmaatregelen met betrekking tot de te verrichten verwerkingen als bedoeld in [artikel 14, eerste lid, van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
+
+### §  2  
+
+####Informatieverstrekking aan en uit het register
+
+### Artikel  33d  
+
+1.  De officier van justitie, bedoeld in [artikel 35a, tweede lid, van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), meldt onverwijld aan Onze Minister, ter opneming in het register: 
+
+a. de invordering van een vaardocument, bedoeld in [artikel 35a, eerste lid, van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), tenzij het vaardocument inmiddels is teruggegeven;  
+
+b. de teruggave van een vaardocument, bedoeld in [artikel 35a, derde lid, van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), waarvan de datum van invordering in het register is opgenomen.     
+2.  Onze Minister registreert onverwijld de ongeldigverklaring van een vaardocument.  
+
+### Artikel  33e  
+
+1.  Onze Minister meldt onverwijld aan de instanties die zijn belast met de afgifte van vaardocumenten de opneming, wijziging of verwijdering van gegevens.   
+2.  Onze Minister geeft uitsluitend informatie door die de instanties behoeven om afgifte van een vaardocument te weigeren onderscheidenlijk niet langer te weigeren.  
+
+### Artikel  33f  
+
+Onze Minister meldt onverwijld aan Onze Minister van Veiligheid en Justitie een wijziging in het register. 
+
+### Artikel  33g  
+
+1.  Onze Minister kan informatie uit het register verstrekken aan een ambtenaar die is aangewezen voor opsporing of toezicht als bedoeld in de [artikelen 40](../../../wet/binnenvaartwet/BWBR0023009/README.md) of [45 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) onderscheidenlijk [32](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) of [34 van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), mits hij zich van de handhavingsbevoegdheid van die ambtenaar heeft vergewist.   
+2.  Onze Minister geeft uitsluitend informatie door die een ambtenaar als bedoeld in het eerste lid nodig heeft voor de handhaving op dat moment.  
+
+### Artikel  33h  
+
+1.  Onze Minister verstrekt informatie uit het register aan autoriteiten buiten de Europese Economische Ruimte die belast zijn met de handhaving van de vaarbewijsplicht of met de afgifte van vaardocumenten, indien zij schriftelijk hebben verklaard de verkregen informatie uitsluitend te gebruiken in het belang van de handhaving van de vaarbewijsplicht of van de afgifte van vaardocumenten.   
+2.  Op de informatieverstrekking, bedoeld in het eerste lid, zijn de artikelen 33e, tweede lid, en 33g, tweede lid, van overeenkomstige toepassing.  
+
+### Artikel  33i  
+
+Informatieverstrekking uit het register of informatieverstrekking aan het register als in dit besluit bedoeld, anders dan desgevraagd of incidenteel, kan geschieden met behulp van elektronische koppeling van bestanden, mits niet méér informatie wordt verstrekt of verkregen dan nodig is voor het doel van de verstrekking of verkrijging. 
+
+### §  3  
+
+####Aanpassing van de opgeslagen informatie
+
+### Artikel  33j  
+
+Onze Minister verwijdert onverwijld de gegevens van een betrokkene uit het register: 
+
+a. zodra betrokkene na ongeldigverklaring van zijn vaardocument opnieuw over een vaardocument beschikt;  
+
+b. zodra betrokkene zijn ingevorderde vaardocument terugontvangt;  
+
+c. op de datum waarop de ontzegging van de vaarbevoegdheid eindigt;  
+
+d. op de datum waarop de ongeldigverklaring van het vaardocument eindigt;  
+
+e. na diens overlijden, na kennisneming daarvan.   
+
+### Artikel  33k  
+
+Onze Minister kan op verzoek van een instantie die vaardocumenten afgeeft of van het openbaar ministerie gegevens in het register aanvullen, verbeteren of uit het register verwijderen. 
+
+### §  4  
+
+####Nadere regeling
+
+### Artikel  33l  
+
+Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitwerking van dit hoofdstuk. 
 
 ### Hoofdstuk  5  
 
@@ -518,67 +647,37 @@ Bij regeling van Onze Minister kunnen in het belang van de statistiek regels wor
 
 ### Artikel  34  
 
-Een geldige geneeskundige verklaring als bedoeld in [artikel 19, eerste lid, van het Besluit vaartijden en bemanningssterkte binnenvaart](../../../AMvB/besluit/vaartijden/en/bemanningssterkte/binnenvaart/BWBR0007124/README.md), geldt als een geneeskundige verklaring als bedoeld in [artikel 23 van de Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md).  
+Een geldige geneeskundige verklaring als bedoeld in [artikel 19, eerste lid, van het Besluit vaartijden en bemanningssterkte binnenvaart](../../../AMvB/besluit/vaartijden/en/bemanningssterkte/binnenvaart/BWBR0007124/README.md), geldt als een geneeskundige verklaring als bedoeld in [artikel 23 van de Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md). 
 
 ### Artikel  35  
 
-Een geldige eigen verklaring als bedoeld in [artikel 7 van het Besluit vaarbewijzen binnenvaart](../../../AMvB/besluit/vaarbewijzen/binnenvaart/BWBR0003526/README.md), geldt als een eigen verklaring als bedoeld in artikel 26 van dit besluit.  
+Een geldige eigen verklaring als bedoeld in [artikel 7 van het Besluit vaarbewijzen binnenvaart](../../../AMvB/besluit/vaarbewijzen/binnenvaart/BWBR0003526/README.md), geldt als een eigen verklaring als bedoeld in artikel 26 van dit besluit. 
 
 ### Artikel  36  
 
-Een geldig groot vaarbewijs als bedoeld in [artikel 16, eerste lid, van de Binnenschepenwet](../../../wet/binnenschepenwet/BWBR0003443/README.md), geldt als een groot vaarbewijs als bedoeld in artikel 14 van dit besluit.  
+Een geldig groot vaarbewijs als bedoeld in [artikel 16, eerste lid, van de Binnenschepenwet](../../../wet/binnenschepenwet/BWBR0003443/README.md), geldt als een groot vaarbewijs als bedoeld in artikel 14 van dit besluit. 
 
 ### Artikel  37  
 
-Een geldig klein vaarbewijs als bedoeld in [artikel 16, tweede lid, van de Binnenschepenwet](../../../wet/binnenschepenwet/BWBR0003443/README.md), geldt als een klein vaarbewijs als bedoeld in artikel 16 van dit besluit.  
+Een geldig klein vaarbewijs als bedoeld in [artikel 16, tweede lid, van de Binnenschepenwet](../../../wet/binnenschepenwet/BWBR0003443/README.md), geldt als een klein vaarbewijs als bedoeld in artikel 16 van dit besluit. 
 
 ### Artikel  38  
 
-Een geldige Rijnvaartverklaring als bedoeld in [artikel 5, eerste lid, van de Wet vervoer binnenvaart](../../../wet/wet/vervoer/binnenvaart/BWBR0005319/README.md), geldt als een Rijnvaartverklaring als bedoeld in artikel 2, tweede lid, onderdeel a, van dit besluit.  
+Een geldige Rijnvaartverklaring als bedoeld in [artikel 5, eerste lid, van de Wet vervoer binnenvaart](../../../wet/wet/vervoer/binnenvaart/BWBR0005319/README.md), geldt als een Rijnvaartverklaring als bedoeld in artikel 2, tweede lid, onderdeel a, van dit besluit. 
 
 ### Artikel  39  
 
-Een geldig bewijs van toelating als bedoeld in [artikel 6, eerste lid, van de Wet vervoer binnenvaart](../../../wet/wet/vervoer/binnenvaart/BWBR0005319/README.md), geldt als een bewijs van toelating als bedoeld in artikel 2, tweede lid, onderdeel b, van dit besluit.  
+Een geldig bewijs van toelating als bedoeld in [artikel 6, eerste lid, van de Wet vervoer binnenvaart](../../../wet/wet/vervoer/binnenvaart/BWBR0005319/README.md), geldt als een bewijs van toelating als bedoeld in artikel 2, tweede lid, onderdeel b, van dit besluit. 
 
 ### Artikel  40  
 
-Een geldig geëigend document als bedoeld in [artikel 7, onderdeel b, van de Wet vervoer binnenvaart](../../../wet/wet/vervoer/binnenvaart/BWBR0005319/README.md), geldt als een geëigend document als bedoeld in artikel 2, tweede lid, onderdeel c, van dit besluit.  
+Een geldig geëigend document als bedoeld in [artikel 7, onderdeel b, van de Wet vervoer binnenvaart](../../../wet/wet/vervoer/binnenvaart/BWBR0005319/README.md), geldt als een geëigend document als bedoeld in artikel 2, tweede lid, onderdeel c, van dit besluit. 
 
 ### Hoofdstuk  6  
 
 ####Wijziging van algemene maatregelen van bestuur
 
-### Artikel  41  
-
-Wijzigt het Besluit luchtkussenvoertuigen Wet geluidhinder.   
-
-### Artikel  42  
-
-Wijzigt het Besluit verklaringhouders Scheepvaartverkeerswet.   
-
-### Artikel  43  
-
-Wijzigt het Arbeidstijdenbesluit vervoer.   
-
-### Artikel  44  
-
-Wijzigt het Arbeidstijdenbesluit.   
-
-### Artikel  45  
-
-Wijzigt het Besluit inzamelen afvalstoffen.   
-
-### Artikel  46  
-
-Wijzigt het Besluit verkeersinformatie en verkeersaanwijzingen scheepvaartverkeer.   
-
-### Artikel  47  
-
-Wijzigt het Binnenvaartpolitiereglement.   
-
-### Artikel  48  
-
-Wijzigt het Transactiebesluit 1994.   
+Vervallen per 01-01-2012 
 
 ### Hoofdstuk  7  
 
@@ -586,11 +685,11 @@ Wijzigt het Transactiebesluit 1994.
 
 ### Artikel  49  
 
-Dit besluit wordt aangehaald als: Binnenvaartbesluit.  
+Dit besluit wordt aangehaald als: Binnenvaartbesluit. 
 
 ### Artikel  50  
 
-Dit besluit, de [Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md), met uitzondering van [hoofdstuk 5, paragraaf 2](../../../wet/binnenvaartwet/BWBR0023009/README.md) (de [artikelen 48 tot en met 50c](../../../wet/binnenvaartwet/BWBR0023009/README.md)), en de [Invoeringswet Binnenvaartwet](../../../wet/invoeringswet/binnenvaartwet/BWBR0023849/README.md), met uitzondering van de [artikelen 24a](../../../wet/invoeringswet/binnenvaartwet/BWBR0023849/README.md) en [27, tweede lid](../../../wet/invoeringswet/binnenvaartwet/BWBR0023849/README.md), treden in werking met ingang van 1 juli 2009.  
+Dit besluit, de [Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md), met uitzondering van [hoofdstuk 5, paragraaf 2](../../../wet/binnenvaartwet/BWBR0023009/README.md) (de [artikelen 48 tot en met 50c](../../../wet/binnenvaartwet/BWBR0023009/README.md)), en de [Invoeringswet Binnenvaartwet](../../../wet/invoeringswet/binnenvaartwet/BWBR0023849/README.md), met uitzondering van de [artikelen 24a](../../../wet/invoeringswet/binnenvaartwet/BWBR0023849/README.md) en [27, tweede lid](../../../wet/invoeringswet/binnenvaartwet/BWBR0023849/README.md), treden in werking met ingang van 1 juli 2009. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

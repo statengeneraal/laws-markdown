@@ -15,31 +15,31 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.   
+Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit OM-afdoening en het Transactiebesluit 1994.   
+Wijzigt het Besluit OM-afdoening en het Transactiebesluit 1994. 
 
 ### Artikel  III  
 
-Wijzigt het Besluit OM-afdoening.   
+Wijzigt het Besluit OM-afdoening. 
 
 ### Artikel  IV  
 
-Wijzigt het Besluit administratiefrechtelijke handhaving verkeersvoorschriften 1994.   
+Wijzigt het Besluit administratiefrechtelijke handhaving verkeersvoorschriften 1994. 
 
 ### Artikel  V  
 
-Wijzigt het Besluit tenuitvoerlegging geldboeten.   
+Wijzigt het Besluit tenuitvoerlegging geldboeten. 
 
 ### Artikel  VI  
 
-Artikel I heeft geen gevolgen voor gedragingen die voor het tijdstip van inwerkingtreding van dit besluit hebben plaatsgevonden.  
+Artikel I heeft geen gevolgen voor gedragingen die voor het tijdstip van inwerkingtreding van dit besluit hebben plaatsgevonden. 
 
 ### Artikel  VII  
 
-Dit besluit treedt in werking met ingang van 1 januari 2013.  
+Dit besluit treedt in werking met ingang van 1 januari 2013. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -47,13 +47,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 7 december 2012  
 Beatrix  
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten   
 
-De Minister van Infrastructuur en Milieu, 
+De Minister van Infrastructuur en Milieu,  
 M. H. Schultz van Haegen-Maas Geesteranus   
 
 de *achttiende* december 2012 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

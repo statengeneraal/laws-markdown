@@ -8,17 +8,17 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling modellen en formulieren ten behoeve van de handhaving Justitie.   
+Wijzigt de Regeling modellen en formulieren ten behoeve van de handhaving Justitie. 
 
 ### Artikel  II  
 
-Tot 31 december 2011 kunnen de vóór het tijdstip van inwerkingtreding van deze regeling gebruikte modellen en formulieren nog worden gebruikt. Tijdens deze overgangsperiode kunnen uitsluitend de combibonnen die zijn vervaardigd conform het bij de laatste wijziging van de [Regeling modellen en formulieren ten behoeve van de handhaving Justitie](../../../../../../../../../../../../ministeriele-regeling/regeling/modellen/en/formulieren/ten/behoeve/van/de/handhaving/justitie/BWBR0013829/README.md) (Stcrt. 2009, 10750) vastgestelde model worden gebruikt.  
+Tot 31 december 2011 kunnen de vóór het tijdstip van inwerkingtreding van deze regeling gebruikte modellen en formulieren nog worden gebruikt. Tijdens deze overgangsperiode kunnen uitsluitend de combibonnen die zijn vervaardigd conform het bij de laatste wijziging van de [Regeling modellen en formulieren ten behoeve van de handhaving Justitie](../../../../../../../../../../../../ministeriele-regeling/regeling/modellen/en/formulieren/ten/behoeve/van/de/handhaving/justitie/BWBR0013829/README.md) (Stcrt. 2009, 10750) vastgestelde model worden gebruikt. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking op 1 juli 2011.  
+Deze regeling treedt in werking op 1 juli 2011. 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Veiligheid en Justitie,
-I.W.Opstelten   
+Minister van Veiligheid en Justitie, 
+I.W. Opstelten     
