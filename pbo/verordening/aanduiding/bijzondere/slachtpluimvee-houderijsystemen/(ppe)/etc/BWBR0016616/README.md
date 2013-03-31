@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 15 april 2004 houdende regels ter zake van de aanduiding van bijzondere slachtpluimvee-houderijsystemen (Verordening aanduiding bijzondere slachtpluimvee-houderijsystemen (PPE) 2004)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op de [artikelen 93](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [102](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de [artikelen 6](../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md) en [7 van het Instellingsbesluit Productschap Pluimvee en Eieren](../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md);
+Gelet op de artikelen 93, 102 en 104 van de Wet op de bedrijfsorganisatie, en de artikelen 6 en 7 van het Instellingsbesluit Productschap Pluimvee en Eieren;
 
 Gezien artikel 10, eerste en derde lid, van Verordening (EEG) nr. 1538/91 van de Commissie van 5 juni 1991 houdende uitvoeringsbepalingen van Verordening (EEG) nr. 1906/90 van de Raad tot vaststelling van handelsnormen voor vlees van pluimvee (Pb EG L 143, d.d. 6 juni 1991);
 Besluit:     
@@ -16,7 +16,7 @@ Besluit:
 1.  In deze verordening wordt verstaan onder:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 1.  | productschap  | :  | het Productschap Pluimvee en Eieren;  |
 | 2.  | voorzitter  | :  | de voorzitter van het productschap;  |
 | 3.  | onderneming  | :  | een onderneming waarvoor het productschap is ingesteld;  |
@@ -58,11 +58,7 @@ a. waarin op het grondoppervlak dat de kippen ter beschikking staat ten hoogste 
 
 b. waarin het voor de kippen beschikbare grondoppervlak geheel is bedekt met losse blanke houtsnippers, houtkrullen, los stro, tos gehakseld stro of ander strooiselmateriaal;  
 
-c. waarin de voor de kippen bestemde ruimte zodanig is ingericht dat deze bij normaal daglicht goed verlicht wordt en wel in die mate dat bij een buitensterkte van 1.200 lux minimaal 10 lux aan daglicht beschikbaar is, een intermitterend verlichtingsschema met perioden korter dan 8 uur niet wordt toegepast en geen kunstlicht wordt toegepast gedurende een aaneengesloten periode van 8 uur vallende in de avond en in de nacht, en het kunstlicht niet afkomstig is van laag frequente TL-verlichting;  
-
-d. waarin de ventilatie zodanig is dat bij de kippen geen oog letsel ontstaat;  
-
-e. waarin de kippen permanente beschikking hebben over drinkwater en voer en de toegang tot drinkwatervoorziening en voervoorziening niet is beperkt.    
+c. waarin de voor de kippen bestemde ruimte zodanig is ingericht dat deze bij normaal daglicht goed verlicht wordt en wel in die mate dat bij een buitensterkte van 1.200 lux minimaal 10 lux aan daglicht beschikbaar is, een intermitterend verlichtingsschema met perioden korter dan 8 uur niet wordt toegepast en geen kunstlicht wordt toegepast gedurende een aaneengesloten periode van 8 uur vallende in de avond en in de nacht, en het kunstlicht niet afkomstig is van laag frequente TL-verlichting.    
 
 ### Artikel  4  
 
@@ -74,9 +70,7 @@ b. gedurende de mestperiode worden diergeneesmiddelen alleen uit curatief oogpun
 
 c. gedurende de mestperiode worden met het oog op de preventie van coccidiose slechts de wettelijk toegestane coccidiostatica toegediend en worden daarbij de geldende wachttermijnen in acht genomen;  
 
-d. de kippen ondergaan geen ingrepen anders dan injecties op voorschrift van een dierenarts;  
-
-e. per mestperiode, bij aanvang van de tweede levensweek, wordt 1 strobaal, waarvan de bindtouwen zijn verwijderd, per 1.000 kippen in de stal verstrekt en worden de strobalen gelijkmatig over de ruimte verdeeld.    
+d. per mestperiode, bij aanvang van de tweede levensweek, wordt één strobaal waarvan de bindtouwen al dan niet zijn verwijderd, per 1.000 kippen in de stal verstrekt en worden de strobalen gelijkmatig over de ruimte verdeeld.    
 
 ### Artikel  5  
 
@@ -85,10 +79,6 @@ De kippen worden gevoed met inachtneming van de navolgende voedingseisen:
 a. gedurende de mestperiode wordt voeder verstrekt waarin het minimumgehalte aan graan en graanbijproducten 70% bedraagt. Aan dat voeder zijn geen dierlijke producten, met uitzondering van melkproducten, toegevoegd;  
 
 b. gedurende de mestperiode worden geen groeibevorderaars toegediend.    
-
-### Artikel  6  
-
-De kippen zijn of worden niet geleewiekt, gekortbekt of gecastreerd.  
 
 ### Artikel  7  
 
@@ -155,7 +145,7 @@ d. te gedogen dat door de door het bestuur aan te wijzen dienst of personen mons
 
 ### Artikel  13  
 
-Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld als voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md).  
+Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld als voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004.  
 
 ### 8  
 

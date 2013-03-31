@@ -3,20 +3,23 @@
 ##Verordening van het Productschap Vee en Vlees van 31 oktober 2012, houdende vaststelling van de aan de onder het productschap ressorterende ondernemers op te leggen huishoudelijke heffing voor het jaar 2013 (Verordening huishoudelijke heffingen (PVV) 2013)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 12 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie en artikel 12 van het Instellingsbesluit Productschap Vee en Vlees;
 
-Gezien de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md);
+Gezien de Verordening algemene bepalingen heffingen (PVV) 2005;
 Besluit:     
 ### 1  
 
 ####Begripsbepalingen
 
-### Artikel  1  
+Materieel uitgewerkt per 01-01-2014   
 
-Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md) en verstaat voorts onder:  
+### Artikel  1   
+Materieel uitgewerkt per 01-01-2014   
+
+Deze verordening neemt over de begripsbepalingen van de Verordening algemene bepalingen heffingen (PVV) 2005 en verstaat voorts onder:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | a. lidstaat  | :  | lidstaat van de Europese Unie, niet zijnde Nederland;  |
 | b. handelsverkeer  | :  | handelsverkeer tussen lidstaten en Nederland;  |
 | c. derde land  | :  | staat, niet zijnde een lidstaat van de Europese Unie;  |
@@ -31,12 +34,15 @@ Deze verordening neemt over de begripsbepalingen van de [Verordening algemene be
 
 ####Slacht en export van vee
 
-### Artikel  2  
+Materieel uitgewerkt per 01-01-2014   
+
+### Artikel  2   
+Materieel uitgewerkt per 01-01-2014   
 
 1.  De ondernemer die in het jaar 2013 één of meer dieren slacht of doet slachten, dan wel uitvoert, is aan het productschap ter dekking van zijn huishoudelijke uitgaven over die dieren een heffing verschuldigd.   
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt: 
 
-a. € 0,65 per rund, waarvan € 0,05 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs;  
+a. € 1,65 per rund, waarvan € 0,05 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs;  
 
 b. € 1,00 per kalf V, waarvan € 0,04 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs;  
 
@@ -67,14 +73,17 @@ c. aflevert aan een (rechts)persoon wiens bedrijf niet in Nederland is gevestigd
 
 ####Handel in vee
 
-### Artikel  3  
+Materieel uitgewerkt per 01-01-2014   
+
+### Artikel  3   
+Materieel uitgewerkt per 01-01-2014   
 
 1.  De ondernemer die een onderneming drijft volgens de indeling als bedoeld in het tweede lid, is aan het productschap ter dekking van zijn huishoudelijke uitgaven een heffing voor het kalenderjaar 2013 verschuldigd op voet van het bepaalde in de leden 4, 5 en 6.   
 2. 
 a. De ondernemingen worden als volgt ingedeeld:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Groep I  | : ondernemingen die de handel in runderen uitoefenen;  |
 | Groep II  | : ondernemingen die de handel in varkens uitoefenen;  |
 | Groep III  | : ondernemingen die de handel in paardachtigen uitoefenen;  |
@@ -85,7 +94,7 @@ b. Naast de indeling in groepen als vermeld onder a., worden de ondernemingen in
 4.  De heffing bedraagt voor ondernemingen, die zijn ingedeeld in:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Groep I  | :  | € 239,-  |
 | Groep II  | :  | € 239,-  |
 | Groep III  | :  | € 195,-  |
@@ -116,25 +125,28 @@ b. Als in de onderneming werkzame personen als bedoeld in het eerste onderdeel w
 6.  De toeslag heffing bedraagt per onderneming bij:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 2 personen werkzaam in de onderneming  | :  | € 113,-  |
 | 3 of 4 personen werkzaam in de onderneming  | :  | € 143,-  |
 | 5 t/m 9 personen werkzaam in de onderneming  | :  | € 227,-  |
 | 10 t/m 19 personen werkzaam in de onderneming  | :  | € 386,-  |
 | 20 of meer personen werkzaam in de onderneming  | :  | € 749,-  |
 
-### Artikel  4  
+### Artikel  4   
+Materieel uitgewerkt per 01-01-2014   
 
 De ondernemer die een onderneming drijft waarin de handel in embryo's en sperma van eenhoevige dieren, runderen en varkens wordt uitgeoefend, is voor het jaar 2013 een heffing van € 216,- verschuldigd ter dekking van de huishoudelijke uitgaven van het productschap.  
 
-### Artikel  5  
+### Artikel  5   
+Materieel uitgewerkt per 01-01-2014   
 
 1.  Aan de ondernemer bedoeld in de artikelen 3 en 4, die voor het jaar 2013 contributie heeft betaald als lid of indirect lid van een overeenkomstig het derde lid aangewezen ondernemersorganisatie, wordt op zijn verzoek een aftrek toegestaan op het totaal aan heffing, met uitzondering van de toeslag heffing, verschuldigde bedrag.   
 2.  De aftrek beloopt 50% van het bedrag, dat de ondernemer als contributie aan de betreffende ondernemersorganisatie over het betrokken kalenderjaar heeft betaald tot ten hoogste de helft van hetgeen hij in totaal is verschuldigd aan heffing over datzelfde betrokken kalenderjaar.   
-3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het [Besluit beleidsregels Bestuurskamer](../../../../../../../pbo/besluit/beleidsregels/bestuurskamer/BWBR0015680/README.md) van de Sociaal-Economische Raad.   
+3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het Besluit beleidsregels Bestuurskamer van de Sociaal-Economische Raad.   
 4.  Van het op grond van de indeling van de heffingsplichtige onderneming in een of meer van de in artikel 3, tweede lid, genoemde groepen, als heffing te betalen bedrag, wordt slechts aftrek als bedoeld in het eerste lid van dit artikel toegestaan ten aanzien van die groep of groepen, waarin de betreffende ondernemersorganisatie waaraan contributie is betaald, werkzaam is.   
 
-### Artikel  6  
+### Artikel  6   
+Materieel uitgewerkt per 01-01-2014   
 
 1.  Indien een onderneming vóór 1 maart van het betrokken kalenderjaar heeft opgehouden te bestaan is de heffing en de toeslag heffing over dat kalenderjaar niet verschuldigd.   
 2.  Indien een onderneming na 30 juni van het betrokken kalenderjaar, doch vóór 1 november van dat jaar is aangevangen, is 50% van het volgens de voorgaande artikelen te berekenen heffingsbedrag verschuldigd.   
@@ -144,12 +156,15 @@ De ondernemer die een onderneming drijft waarin de handel in embryo's en sperma 
 
 ####Vleeswarenindustrie
 
-### Artikel  7  
+Materieel uitgewerkt per 01-01-2014   
+
+### Artikel  7   
+Materieel uitgewerkt per 01-01-2014   
 
 1.  De ondernemer die een onderneming drijft waarin de vleeswaren- en vleesconservenindustrie of de baconindustrie wordt uitgeoefend, is over het kalenderjaar 2013 een heffing verschuldigd over de in het jaar 2012 behaalde omzet, volgens het navolgende tarief:  
 
 | Omzet  | Tarief  |
-|:---|:---|
+|---|---|
 | Vanaf  | € 0,-  | tot en met  | € 45.379,-  | € 390,-  |
 | Vanaf  | € 45.380,-  | tot en met  | € 225.000,-  | € 600,-  |
 | Vanaf  | € 225.001,-  | tot en met  | € 450.000,-  | € 743,-  |
@@ -167,41 +182,52 @@ De ondernemer die een onderneming drijft waarin de handel in embryo's en sperma 
 2.  Voor de ondernemer die na 1 januari 2013 heeft aangevangen een onderneming te drijven als bedoeld in het eerste lid, bedraagt de heffing € 390,-.   
 3.  De in de voorgaande leden bedoelde heffing geldt niet voor de ondernemer in wiens onderneming in 2012, gemiddeld minder dan 4 werknemers, uitgedrukt in f.t.e., werkzaam waren.   
 
-### Artikel  8  
+### Artikel  8   
+Materieel uitgewerkt per 01-01-2014   
 
 1.  Aan de ondernemer, bedoeld in artikel 7, die contributie heeft betaald als lid of indirect lid van een overeenkomstig het derde lid aangewezen ondernemersorganisatie, wordt op zijn verzoek een aftrek toegestaan op het totaal aan heffing verschuldigde bedrag op grond van deze verordening.   
 2.  De aftrek beloopt 50% van het bedrag dat de ondernemer als contributie aan de betreffende ondernemersorganisatie over het betrokken kalenderjaar heeft betaald, tot ten hoogste de helft van hetgeen hij in totaal is verschuldigd aan heffing op grond van deze verordening.   
-3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het [Besluit beleidsregels Bestuurskamer](../../../../../../../pbo/besluit/beleidsregels/bestuurskamer/BWBR0015680/README.md) van de Sociaal-Economische Raad.   
+3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het Besluit beleidsregels Bestuurskamer van de Sociaal-Economische Raad.   
 
 ### 5  
 
 ####Vleesindustrie
 
-### Artikel  9  
+Materieel uitgewerkt per 01-01-2014   
+
+### Artikel  9   
+Materieel uitgewerkt per 01-01-2014   
 
 1.  De ondernemer die een onderneming drijft waarin de vleesindustrie wordt uitgeoefend is voor het kalenderjaar 2013 op basis van het gemiddelde aantal werknemers, uitgedrukt in f.t.e., dat in 2012 in de onderneming werkzaam was een heffing verschuldigd ter hoogte van € 62,70 per f.t.e.   
 2.  Voor de ondernemer die na 1 januari 2013 heeft aangevangen een onderneming te drijven, als bedoeld in het eerste lid, bedraagt de heffing € 250,80.   
 3.  De in de voorgaande leden bedoelde heffing geldt niet voor de ondernemer in wiens onderneming in 2012, gemiddeld minder dan 4 werknemers, uitgedrukt in f.t.e., werkzaam waren.   
 
-### Artikel  10  
+### Artikel  10   
+Materieel uitgewerkt per 01-01-2014   
 
 1.  Aan de ondernemer, bedoeld in artikel 9, die voor het jaar 2013 contributie heeft betaald als lid of indirect lid van een overeenkomstig het derde lid aangewezen ondernemersorganisatie, wordt op zijn verzoek een aftrek toegestaan op het totaal aan heffing verschuldigde bedrag op grond van deze verordening.   
 2.  De aftrek beloopt 50% van het bedrag dat de ondernemer als contributie aan de betreffende ondernemersorganisatie over het betrokken kalenderjaar heeft betaald, tot ten hoogste de helft van hetgeen hij in totaal is verschuldigd aan heffing op grond van deze verordening.   
-3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het [Besluit beleidsregels Bestuurskamer](../../../../../../../pbo/besluit/beleidsregels/bestuurskamer/BWBR0015680/README.md) van de Sociaal-Economische Raad.   
+3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het Besluit beleidsregels Bestuurskamer van de Sociaal-Economische Raad.   
 
 ### 6  
 
 ####Overige bepalingen
 
-### Artikel  11  
+Materieel uitgewerkt per 01-01-2014   
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md).  
+### Artikel  11   
+Materieel uitgewerkt per 01-01-2014   
+
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PVV) 2005.  
 
 ### 7  
 
 ####Slotbepalingen
 
-### Artikel  12  
+Materieel uitgewerkt per 01-01-2014   
+
+### Artikel  12   
+Materieel uitgewerkt per 01-01-2014   
 
 1.  Deze verordening wordt aangehaald als: Verordening huishoudelijke heffingen (PVV) 2013.   
 2.  Deze verordening treedt in werking met ingang van 1 januari 2013. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2013, dan treedt zij in werking op de tweede dag na de dag van publicatie en werkt zij terug tot en met 1 januari 2013.   
