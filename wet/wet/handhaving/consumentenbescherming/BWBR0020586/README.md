@@ -20,7 +20,7 @@ a. andere overheidsinstantie: een andere overheidsinstantie als bedoeld in artik
 
 b. bevoegde autoriteit: een bevoegde autoriteit als bedoeld in artikel 3, onderdeel c, van verordening 2006/2004;  
 
-c. Consumentenautoriteit: de Consumentenautoriteit, bedoeld in artikel 2.1;  
+c. *Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);  
 
 d. consumentenorganisaties: stichtingen of verenigingen met volledige rechtsbevoegdheid die krachtens hun statuten tot taak hebben het behartigen van de collectieve belangen van consumenten;  
 
@@ -56,30 +56,25 @@ n. wettelijke bepalingen: de communautaire wetgeving ter bescherming van de bela
 
 ### Hoofdstuk  2  
 
-####De consumentenautoriteit
+####De Autoriteit Consument en Markt
 
 ### §  1  
 
 ####Aanwijzing en taken
 
-### Artikel  2.1  
-
-1.  Onze Minister wijst een onder hem ressorterende ambtenaar als Consumentenautoriteit aan.   
-2.  Onze Minister kan één of meer onder hem ressorterende ambtenaren als plaatsvervanger van de Consumentenautoriteit aanwijzen.   
-
 ### Artikel  2.2  
 
-De Consumentenautoriteit is belast met de handhaving van de wettelijke bepalingen, bedoeld in de onderdelen a en b van de bijlage bij deze wet. Zij is niet bevoegd indien de overtreding betrekking heeft op een financiële dienst of activiteit.  
+De Autoriteit Consument en Markt is belast met de handhaving van de wettelijke bepalingen, bedoeld in de onderdelen a en b van de bijlage bij deze wet. Zij is niet bevoegd indien de overtreding betrekking heeft op een financiële dienst of activiteit.  
 
 ### Artikel  2.3  
 
-1.  De Consumentenautoriteit wordt aangewezen als het verbindingsbureau in Nederland.   
-2.  Met betrekking tot intracommunautaire inbreuken op een van de wettelijke bepalingen, bedoeld in de onderdelen a en b van de bijlage bij deze wet, wordt de Consumentenautoriteit aangewezen als bevoegde autoriteit, tenzij de intracommunautaire inbreuk betrekking heeft op een financiële dienst of activiteit.   
-3.  De Consumentenautoriteit heeft mede tot taak de coördinatie van activiteiten van communautair belang, administratieve samenwerking en verslaglegging, bedoeld in de artikelen 16, 17 en 21 van verordening 2006/2004.   
+1.  De Autoriteit Consument en Markt wordt aangewezen als het verbindingsbureau in Nederland.   
+2.  Met betrekking tot intracommunautaire inbreuken op een van de wettelijke bepalingen, bedoeld in de onderdelen a en b van de bijlage bij deze wet, wordt de Autoriteit Consument en Markt aangewezen als bevoegde autoriteit, tenzij de intracommunautaire inbreuk betrekking heeft op een financiële dienst of activiteit.   
+3.  De Autoriteit Consument en Markt heeft mede tot taak de coördinatie van activiteiten van communautair belang, administratieve samenwerking en verslaglegging, bedoeld in de artikelen 16, 17 en 21 van verordening 2006/2004.   
 
 ### Artikel  2.4  
 
-1.  De bij besluit van Onze Minister aangewezen ambtenaren en andere personen zijn belast met het toezicht op de naleving van de wettelijke bepalingen waarvoor de Consumentenautoriteit is belast met de handhaving. Van dat besluit wordt mededeling gedaan door plaatsing in de Staatscourant.   
+1.  De bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren en andere personen zijn belast met het toezicht op de naleving van de wettelijke bepalingen waarvoor de Autoriteit Consument en Markt is belast met de handhaving. Van dat besluit wordt mededeling gedaan door plaatsing in de Staatscourant.   
 2.  [Artikel 5:17 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op geschriften gewisseld tussen een overtreder en een advocaat die is toegelaten tot de balie, die zich bij de overtreder bevinden, doch waarop, indien zij zich zouden bevinden bij die advocaat, [artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing zou zijn.   
 
 ### §  2  
@@ -88,8 +83,8 @@ De Consumentenautoriteit is belast met de handhaving van de wettelijke bepalinge
 
 ### Artikel  2.5  
 
-1.  De Consumentenautoriteit kan een verzoekschrift als bedoeld in [artikel 305d van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) indienen indien naar haar oordeel sprake is van een overtreding van een van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage bij deze wet, tenzij de overtreding betrekking heeft op een financiële dienst of activiteit.   
-2.  Alvorens de Consumentenautoriteit een verzoekschrift indient, stelt zij de overtreder een redelijke termijn om: 
+1.  De Autoriteit Consument en Markt kan een verzoekschrift als bedoeld in [artikel 305d van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) indienen indien naar haar oordeel sprake is van een overtreding van een van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage bij deze wet, tenzij de overtreding betrekking heeft op een financiële dienst of activiteit.   
+2.  Alvorens de Autoriteit Consument en Markt een verzoekschrift indient, stelt zij de overtreder een redelijke termijn om: 
 
 a. de overtreding te staken;  
 
@@ -97,9 +92,8 @@ b. gegevens waarop het voornemen om een verzoekschrift in te dienen berust, in t
 
 ### Artikel  2.6  
 
-1.  Een overeenkomst strekkende tot vergoeding van schade die het gevolg is van een overtreding van één of meer wettelijke bepalingen met de handhaving waarvan de Consumentenautoriteit is belast, gesloten door de Consumentenautoriteit met één of meer andere partijen die deze bepalingen hebben overtreden en die zich bij deze overeenkomst hebben verbonden tot vergoeding van deze schade, kan door de rechter op verzoek van de partijen die de overeenkomst hebben gesloten verbindend worden verklaard voor personen aan wie de schade is veroorzaakt. Onder personen aan wie de schade is veroorzaakt worden mede begrepen personen die een vordering ter zake van deze schade onder algemene of bijzondere titel hebben verkregen.   
+1.  Een overeenkomst strekkende tot vergoeding van schade die het gevolg is van een overtreding van één of meer wettelijke bepalingen met de handhaving waarvan de Autoriteit Consument en Markt is belast, gesloten door de Autoriteit Consument en Markt met één of meer andere partijen die deze bepalingen hebben overtreden en die zich bij deze overeenkomst hebben verbonden tot vergoeding van deze schade, kan door de rechter op verzoek van de partijen die de overeenkomst hebben gesloten verbindend worden verklaard voor personen aan wie de schade is veroorzaakt. Onder personen aan wie de schade is veroorzaakt worden mede begrepen personen die een vordering ter zake van deze schade onder algemene of bijzondere titel hebben verkregen.   
 2.  De [artikelen 907, tweede tot en met zesde lid](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), en [908 tot en met 910 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [titel 14 van het derde boek van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn van overeenkomstige toepassing.   
-3.  Onze Minister geeft een aanwijzing aan de Consumentenautoriteit over de wijze waarop zij de in het eerste lid bedoelde overeenkomst tot stand brengt.   
 
 ### §  3  
 
@@ -109,30 +103,39 @@ b. gegevens waarop het voornemen om een verzoekschrift in te dienen berust, in t
 
 Deze paragraaf heeft, met uitzondering van artikel 2.10, tweede lid, uitsluitend betrekking op overtredingen van de wettelijke bepalingen, bedoeld in onderdeel b van de bijlage bij deze wet.  
 
-### Artikel  2.9  
+### Artikel  2.8  
 
-1.  Indien de Consumentenautoriteit van oordeel is dat een overtreding heeft plaatsgevonden, kan zij de overtreder opleggen: 
+1.  De Autoriteit Consument en Markt kan een bindende aanwijzing tot naleving van deze wet opleggen.   
+2.  Indien de Autoriteit Consument en Markt van oordeel is dat een bindende aanwijzing, bedoeld in het eerste lid, wordt overtreden kan zij de overtreder opleggen: 
 
 a. een last onder dwangsom;  
 
 b. een bestuurlijke boete.     
-2.  Voor zover een last onder dwangsom of bestuurlijke boete verplicht tot betaling van een geldsom, komt deze geldsom toe aan ’s Rijks schatkist.   
+
+### Artikel  2.9  
+
+1.  Indien de Autoriteit Consument en Markt van oordeel is dat een overtreding heeft plaatsgevonden, kan zij de overtreder opleggen: 
+
+a. een last onder dwangsom;  
+
+b. een bestuurlijke boete.     
+2.  Voor zover een last onder dwangsom of bestuurlijke boete, opgelegd krachtens deze paragraaf, verplicht tot betaling van een geldsom, komt deze geldsom toe aan ’s Rijks schatkist.   
 
 ### Artikel  2.10  
 
-1.  Op het opleggen van een last onder dwangsom krachtens deze paragraaf zijn de [artikelen 5:32, tweede lid, tot en met 5:39 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing, zijn de [artikelen 5:48 tot en met 5:51 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing en is [artikel 51 van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) van overeenkomstige toepassing.   
-2.  De Consumentenautoriteit kan een last onder dwangsom opleggen, die strekt tot verzekering van de medewerking die krachtens [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan worden gevorderd bij de uitoefening van de bevoegdheden van de toezichthouders, bedoeld in artikel 2.4.   
+1.  Op het opleggen van een last onder dwangsom krachtens deze paragraaf zijn de [artikelen 5:48 tot en met 5:51 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
+2.  De Autoriteit Consument en Markt kan een last onder dwangsom opleggen, die strekt tot verzekering van de medewerking die krachtens [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan worden gevorderd bij de uitoefening van de bevoegdheden van de toezichthouders, bedoeld in artikel 2.4.   
+3.  Aan een last onder dwangsom, opgelegd krachtens deze paragraaf, kunnen voorschriften worden verbonden die redelijkerwijs noodzakelijk zijn om effectieve controle op de uitvoering van de last te verzekeren.   
 
 ### Artikel  2.15  
 
-1.  De in artikel 2.9 bedoelde bestuurlijke boete bedraagt ten hoogste het bedrag van de vijfde categorie geldboete, bedoeld in [artikel 23 van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
-2.  In afwijking van het eerste lid bedraagt de bestuurlijke boete, indien het betreft een overtreding van artikel 8.8, ten hoogste € 450 000.   
+De bestuurlijke boete, bedoeld in de artikelen 2.8 en 2.9 bedraagt ten hoogste € 450.000.  
 
 ### Artikel  2.23  
 
-1.  De Consumentenautoriteit kan een beschikking openbaar maken omtrent het opleggen van een last onder dwangsom of bestuurlijke boete, met inbegrip van een beschikking dat geen last onder dwangsom of bestuurlijke boete wordt opgelegd of een toezegging door de overtreder dat een overtreding zal worden gestaakt.   
-2.  De Consumentenautoriteit maakt een voornemen tot openbaarmaking van een beschikking als bedoeld in het eerste lid te voren bekend aan de overtreder; indien het een voornemen tot het opleggen van een last onder dwangsom dan wel een bestuurlijke boete betreft geschiedt dit gelijktijdig met het in de gelegenheid stellen van de overtreder daarover zijn zienswijze naar voren te brengen.   
-3.  De Consumentenautoriteit maakt een beschikking als bedoeld in het eerste lid niet eigener beweging openbaar gedurende twee weken nadat het besluit op de in [artikel 3:41 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voorgeschreven wijze bekend is gemaakt, tenzij de overtreder de beschikking zelf heeft openbaar gemaakt, heeft doen openbaar maken of openbaarmaking met de overtreder is overeengekomen.   
+1.  De Autoriteit Consument en Markt kan een beschikking openbaar maken omtrent het opleggen van een bindende aanwijzing, last onder dwangsom of bestuurlijke boete, met inbegrip van een beschikking dat geen last onder dwangsom of bestuurlijke boete wordt opgelegd of een toezegging door de overtreder dat een overtreding zal worden gestaakt.   
+2.  De Autoriteit Consument en Markt maakt een voornemen tot openbaarmaking van een beschikking als bedoeld in het eerste lid te voren bekend aan degene tot wie de beschikking zich richt; tenzij het een toezegging door de overtreder dat een overtreding zal worden gestaakt betreft geschiedt dit gelijktijdig met het in de gelegenheid stellen van degene tot wie de beschikking zich richt daarover zijn zienswijze naar voren te brengen.   
+3.  De Autoriteit Consument en Markt maakt een beschikking als bedoeld in het eerste lid niet eigener beweging openbaar gedurende twee weken nadat het besluit op de in [artikel 3:41 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voorgeschreven wijze bekend is gemaakt, tenzij degene tot wie de beschikking zich richt de beschikking zelf heeft openbaar gemaakt, heeft doen openbaar maken of openbaarmaking met degene tot wie de beschikking zich richt is overeengekomen.   
 
 ### §  4  
 
@@ -140,7 +143,7 @@ b. een bestuurlijke boete.
 
 ### Artikel  2.24  
 
-Gegevens die de Consumentenautoriteit verkrijgt van andere bevoegde autoriteiten en andere overheidsinstanties als bedoeld in hoofdstukken 3 en 4 van deze wet maakt de Consumentenautoriteit alleen openbaar met toestemming van de desbetreffende autoriteit of instantie.  
+Gegevens die de Autoriteit Consument en Markt verkrijgt van andere bevoegde autoriteiten en andere overheidsinstanties als bedoeld in hoofdstukken 3 en 4 van deze wet maakt de Autoriteit Consument en Markt alleen openbaar met toestemming van de desbetreffende autoriteit of instantie.  
 
 ### Hoofdstuk  3  
 
@@ -174,7 +177,7 @@ a. een bestuurlijke boete opleggen;
 b. een last onder dwangsom opleggen.     
 2.  Met betrekking tot de toepassing van het eerste lid: 
 
-a. zijn de artikelen 2.102.23 en 2.24 van overeenkomstige toepassing; en  
+a. zijn de artikelen 2.8, 2.10, 2.23 en 2.24 van overeenkomstige toepassing; en  
 
 b. zijn [artikel 1:81 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van overeenkomstige toepassing.     
 3.  De Stichting Autoriteit Financiële Markten kan, indien zij van oordeel is dat een overtreding op een van de wettelijke bepalingen, bedoeld in onderdelen c, sub c.2 en d van de bijlage bij deze wet, heeft plaatsgevonden: 
@@ -182,7 +185,7 @@ b. zijn [artikel 1:81 van de Wet op het financieel toezicht](../../../../../wet/
 a. een bestuurlijke boete opleggen;  
 
 b. een last onder dwangsom opleggen.     
-4.  Met betrekking tot de toepassing van het derde lid zijn de artikelen 2.102.15, 2.23, 2.24 en 4.3, tweede lid, van overeenkomstige toepassing.   
+4.  Met betrekking tot de toepassing van het derde lid zijn de artikelen 2.8, 2.10, 2.15, 2.23, 2.24 en 4.3, tweede lid, van overeenkomstige toepassing.   
 
 ### §  2  
 
@@ -200,7 +203,7 @@ Het Staatstoezicht op de volksgezondheid wordt aangewezen als bevoegde autoritei
 a. een bestuurlijke boete opleggen;  
 
 b. een last onder dwangsom opleggen.     
-3.  De artikelen 2.4, tweede lid, 2.10, 2.23 en 2.24 zijn van overeenkomstige toepassing.   
+3.  De artikelen 2.4, tweede lid, 2.10, eerste en tweede lid, 2.23 en 2.24 zijn van overeenkomstige toepassing.   
 4.  Wat betreft de hoogte van de bestuurlijke boete is het [eerste lid van artikel 101 van de Geneesmiddelenwet](../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) van overeenkomstige toepassing.   
 
 ### §  3  
@@ -219,7 +222,7 @@ Het Commissariaat voor de Media wordt aangewezen als bevoegde autoriteit voor in
 a. een bestuurlijke boete opleggen;  
 
 b. een last onder dwangsom opleggen.     
-3.  De artikelen 2.4, tweede lid, 2.10, 2.23 en 2.24 zijn van overeenkomstige toepassing.   
+3.  De artikelen 2.4, tweede lid, 2.10, eerste en tweede lid, 2.23 en 2.24 zijn van overeenkomstige toepassing.   
 4.  De [artikelen 7.12](../../../../../wet/mediawet/2008/BWBR0025028/README.md) en [7.19 van de Mediawet 2008](../../../../../wet/mediawet/2008/BWBR0025028/README.md) zijn van overeenkomstige toepassing.   
 
 ### §  4  
@@ -238,7 +241,8 @@ De Inspectie Verkeer en Waterstaat wordt aangewezen als bevoegde autoriteit voor
 a. een bestuurlijke boete opleggen;  
 
 b. een last onder dwangsom opleggen.     
-3.  De artikelen 2.4, tweede lid, 2.10, 2.15, 2.23 en 2.24 zijn van overeenkomstige toepassing.   
+3.  De artikelen 2.4, tweede lid, 2.10, eerste en tweede lid, 2.23 en 2.24 zijn van overeenkomstige toepassing.   
+4.  De in het tweede lid bedoelde bestuurlijke boete bedraagt ten hoogste het bedrag van de vijfde categorie geldboete, bedoeld in [artikel 23 van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
 
 ### §  5  
 
@@ -256,7 +260,7 @@ De Voedsel en Warenautoriteit wordt aangewezen als bevoegde autoriteit voor intr
 a. een bestuurlijke boete opleggen;  
 
 b. een last onder dwangsom opleggen.     
-3.  De artikelen 2.4, tweede lid, 2.10, 2.23 en 2.24 zijn van overeenkomstige toepassing.   
+3.  De artikelen 2.4, tweede lid, 2.10, eerste en tweede lid, 2.23 en 2.24 zijn van overeenkomstige toepassing.   
 4.  [Artikel 11b, tweede lid, van de Tabakswet](../../../../../wet/tabakswet/BWBR0004302/README.md) is van overeenkomstige toepassing.   
 
 ### §  6  
@@ -265,7 +269,7 @@ b. een last onder dwangsom opleggen.
 
 ### Artikel  3.13  
 
-Alle informatie die een bevoegde autoriteit op grond van verordening 2006/2004 aan bevoegde autoriteiten van andere lidstaten en de Commissie verstrekt, verstrekt de bevoegde instantie eveneens aan de Consumentenautoriteit als het verbindingsbureau.  
+Alle informatie die een bevoegde autoriteit op grond van verordening 2006/2004 aan bevoegde autoriteiten van andere lidstaten en de Commissie verstrekt, verstrekt de bevoegde instantie eveneens aan de Autoriteit Consument en Markt als het verbindingsbureau.  
 
 ### Hoofdstuk  4  
 
@@ -277,35 +281,31 @@ Alle informatie die een bevoegde autoriteit op grond van verordening 2006/2004 a
 
 a. de Nederlandse Zorgautoriteit;  
 
-b. de Onafhankelijke Post en Telecommunicatie Autoriteit;  
-
-c. de raad van bestuur van de Nederlandse Mededingingsautoriteit;  
-
-d. de Belastingdienst/FIOD-ECD.     
+b. de Belastingdienst/FIOD-ECD.     
 2.  Bij algemene maatregel van bestuur kunnen andere overheidsinstanties worden aangewezen.   
 
 ### Artikel  4.2  
 
-1.  Indien zowel de Consumentenautoriteit als een andere overheidsinstantie bevoegd zijn toezicht uit te oefenen of handhavingsmaatregelen te nemen ten aanzien van dezelfde gedraging, maakt de Consumentenautoriteit geen gebruik van de aan haar in deze wet toegekende bevoegdheden.   
-2.  In afwijking van het vorige lid kan de Consumentenautoriteit gebruik maken van de aan haar in deze wet toegekende bevoegdheden indien: 
+1.  Indien zowel de Autoriteit Consument en Markt als een andere overheidsinstantie bevoegd zijn toezicht uit te oefenen of handhavingsmaatregelen te nemen ten aanzien van dezelfde gedraging, maakt de Autoriteit Consument en Markt geen gebruik van de aan haar in deze wet toegekende bevoegdheden.   
+2.  In afwijking van het vorige lid kan de Autoriteit Consument en Markt gebruik maken van de aan haar in deze wet toegekende bevoegdheden indien: 
 
-a. de andere overheidsinstantie de Consumentenautoriteit daaromtrent verzoekt; of  
+a. de andere overheidsinstantie de Autoriteit Consument en Markt daaromtrent verzoekt; of  
 
 b. de andere overheidsinstantie niet aan de verplichting uit artikel 4.5, tweede lid, kan voldoen.     
 
 ### Artikel  4.3  
 
-1.  Voor zover door een andere overheidsinstantie bij de uitoefening van haar bevoegdheden begrippen worden uitgelegd, die worden gehanteerd in een van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage van deze wet, dan wordt deze uitleg afgestemd met de Consumentenautoriteit. In de samenwerkingsprotocollen, bedoeld in artikel 5.1, worden hierover nadere afspraken gemaakt.   
-2.  Voor zover door een andere overheidsinstantie bij de uitoefening van haar bevoegdheden begrippen worden uitgelegd, die worden gehanteerd in een van de wettelijke bepalingen, bedoeld in onderdeel b van de bijlage van deze wet, dan vindt deze uitleg plaats in overeenstemming met de Consumentenautoriteit. In de samenwerkingsprotocollen, bedoeld in artikel 5.1, worden hierover nadere afspraken gemaakt.   
+1.  Voor zover door een andere overheidsinstantie bij de uitoefening van haar bevoegdheden begrippen worden uitgelegd, die worden gehanteerd in een van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage van deze wet, dan wordt deze uitleg afgestemd met de Autoriteit Consument en Markt. In de samenwerkingsprotocollen, bedoeld in artikel 5.1, worden hierover nadere afspraken gemaakt.   
+2.  Voor zover door een andere overheidsinstantie bij de uitoefening van haar bevoegdheden begrippen worden uitgelegd, die worden gehanteerd in een van de wettelijke bepalingen, bedoeld in onderdeel b van de bijlage van deze wet, dan vindt deze uitleg plaats in overeenstemming met de Autoriteit Consument en Markt. In de samenwerkingsprotocollen, bedoeld in artikel 5.1, worden hierover nadere afspraken gemaakt.   
 
 ### Artikel  4.4  
 
-Indien een andere overheidsinstantie toezichts- of handhavingsmaatregelen neemt ten aanzien van een gedraging, die eveneens een intracommunautaire inbreuk op kan leveren, stelt zij de Consumentenautoriteit als het verbindingsbureau hiervan op de hoogte.  
+Indien een andere overheidsinstantie toezichts- of handhavingsmaatregelen neemt ten aanzien van een gedraging, die eveneens een intracommunautaire inbreuk op kan leveren, stelt zij de Autoriteit Consument en Markt als het verbindingsbureau hiervan op de hoogte.  
 
 ### Artikel  4.5  
 
-1.  Indien de Consumentenautoriteit een verzoek om wederzijdse bijstand als bedoeld in verordening 2006/2004 krijgt ten aanzien van een gedraging waarvan ook een andere overheidsinstantie bevoegd is, verwijst de Consumentenautoriteit het verzoek door naar de desbetreffende overheidsinstantie.   
-2.  Indien de Consumentenautoriteit een verzoek om wederzijdse bijstand aan een andere overheidsinstantie doorverwijst, is de andere overheidsinstantie verplicht om toezicht uit te oefenen of handhavingsmaatregelen te nemen ten aanzien van de betrokken gedraging, tenzij sprake is van een van de uitzonderingsgronden als bedoeld in artikel 15 van verordening 2006/2004. Alle gegevens omtrent genomen toezichts- en handhavingsmaatregelen worden aan de Consumentenautoriteit als het verbindingsbureau bekend gemaakt.   
+1.  Indien de Autoriteit Consument en Markt een verzoek om wederzijdse bijstand als bedoeld in verordening 2006/2004 krijgt ten aanzien van een gedraging waarvan ook een andere overheidsinstantie bevoegd is, verwijst de Autoriteit Consument en Markt het verzoek door naar de desbetreffende overheidsinstantie.   
+2.  Indien de Autoriteit Consument en Markt een verzoek om wederzijdse bijstand aan een andere overheidsinstantie doorverwijst, is de andere overheidsinstantie verplicht om toezicht uit te oefenen of handhavingsmaatregelen te nemen ten aanzien van de betrokken gedraging, tenzij sprake is van een van de uitzonderingsgronden als bedoeld in artikel 15 van verordening 2006/2004. Alle gegevens omtrent genomen toezichts- en handhavingsmaatregelen worden aan de Autoriteit Consument en Markt als het verbindingsbureau bekend gemaakt.   
 
 ### Hoofdstuk  5  
 
@@ -313,7 +313,7 @@ Indien een andere overheidsinstantie toezichts- of handhavingsmaatregelen neemt 
 
 ### Artikel  5.1  
 
-1.  Onze Minister kan afspraken maken met: 
+1.  De Autoriteit Consument en Markt kan afspraken maken met: 
 
 a. Onze Minister van Financiën, voor wat betreft de Belastingdienst/FIOD-ECD;  
 
@@ -322,24 +322,20 @@ b. Onze Minister van Infrastructuur en Milieu, voor wat betreft de Inspectie Ver
 c. Onze Minister van Volksgezondheid, Welzijn en Sport, voor wat betreft het Staatstoezicht op de Volksgezondheid;  
 
 d. andere in aanmerking komende Ministers.     
-2.  Onze Minister kan afspraken maken met het bevoegde gezag van: 
+2.  De Autoriteit Consument en Markt kan afspraken maken met het bevoegde gezag van: 
 
 a. de Stichting Autoriteit Financiële Markten;  
 
-b. de Nederlandse Mededingingsautoriteit;  
+b. het Commissariaat voor de Media;  
 
-c. het Commissariaat voor de Media;  
+c. de Nederlandse Zorgautoriteit;  
 
-d. de Nederlandse Zorgautoriteit;  
+d. het College van Procureurs-Generaal;  
 
-e. de Onafhankelijke Post en Telecommunicatie Autoriteit;  
+e. de Stichting Het Juridisch Loket;  
 
-f. het College van Procureurs-Generaal;  
-
-g. de Stichting Het Juridisch Loket;  
-
-h. andere overheidsinstellingen.     
-3.  De afspraken bedoeld in het eerste lid en het tweede lid, onderdelen b tot en met h, worden vastgelegd in samenwerkingsprotocollen en hebben onder meer betrekking op: 
+f. andere overheidsinstellingen.     
+3.  De afspraken bedoeld in het eerste lid en het tweede lid, onderdelen b tot en met f, worden vastgelegd in samenwerkingsprotocollen en hebben onder meer betrekking op: 
 
 a. effectief en doelmatig toezicht op en optreden tegen inbreuken;  
 
@@ -350,8 +346,8 @@ c. de gemeenschappelijke activiteiten en verslaglegging, bedoeld in de artikelen
 
 a. de uitleg van begrippen als bedoeld in artikel 4.3;  
 
-b. de samenwerking tussen de Stichting Autoriteit Financiële Markten en de Consumentenautoriteit in de uitoefening van haar taak als het verbindingsbureau.     
-5.  Onze Minister doet mededeling van de samenwerkingsprotocollen in de Staatscourant.   
+b. de samenwerking tussen de Stichting Autoriteit Financiële Markten en de Autoriteit Consument en Markt in de uitoefening van haar taak als het verbindingsbureau.     
+5.  De Autoriteit Consument en Markt doet mededeling van de samenwerkingsprotocollen in de Staatscourant.   
 
 ### Hoofdstuk  6  
 
@@ -359,9 +355,9 @@ b. de samenwerking tussen de Stichting Autoriteit Financiële Markten en de Cons
 
 ### Artikel  6.1  
 
-1.  Onze Minister kan afspraken maken met consumentenorganisaties. De afspraken kunnen onder meer betrekking hebben op het doorverwijzen van consumenten voor wat betreft informatievoorziening, de behandeling van klachten en geschillenbeslechting.   
-2.  Onze Minister kan afspraken maken met stichtingen of verenigingen met volledige rechtsbevoegdheid die krachtens hun statuten tot taak hebben de behandeling van klachten van consumenten en geschillenbeslechting. De afspraken kunnen onder meer betrekking hebben op de behandeling van klachten en geschillenbeslechting.   
-3.  Afspraken zoals bedoeld in het eerste en tweede lid worden vastgelegd in samenwerkingsprotocollen. Onze Minister doet mededeling van de samenwerkingsprotocollen in de Staatscourant.   
+1.  De Autoriteit Consument en Markt kan afspraken maken met consumentenorganisaties. De afspraken kunnen onder meer betrekking hebben op het doorverwijzen van consumenten voor wat betreft informatievoorziening, de behandeling van klachten en geschillenbeslechting.   
+2.  De Autoriteit Consument en Markt kan afspraken maken met stichtingen of verenigingen met volledige rechtsbevoegdheid die krachtens hun statuten tot taak hebben de behandeling van klachten van consumenten en geschillenbeslechting. De afspraken kunnen onder meer betrekking hebben op de behandeling van klachten en geschillenbeslechting.   
+3.  Afspraken zoals bedoeld in het eerste en tweede lid worden vastgelegd in samenwerkingsprotocollen. De Autoriteit Consument en Markt doet mededeling van de samenwerkingsprotocollen in de Staatscourant.   
 
 ### Artikel  6.2  
 
@@ -369,15 +365,12 @@ Bij algemene maatregel van bestuur kunnen instanties worden aangewezen die een r
 
 ### Artikel  6.3  
 
-1.  De Consumentenautoriteit organiseert een maatschappelijk overleg met consumentenorganisaties en centrale ondernemersverenigingen.   
+1.  De Autoriteit Consument en Markt organiseert een maatschappelijk overleg met consumentenorganisaties en centrale ondernemersverenigingen.   
 2.  Doelstelling van het maatschappelijk overleg is: 
 
-a. de taken van de Consumentenautoriteit ter uitvoering van deze wet zo goed mogelijk aan te laten sluiten bij private initiatieven ter bescherming van de consument;  
+a. de taken van de Autoriteit Consument en Markt ter uitvoering van deze wet zo goed mogelijk aan te laten sluiten bij private initiatieven ter bescherming van de consument;  
 
 b. Onze Minister, de bevoegde autoriteiten en andere overheidsinstanties te informeren over de effecten en de doeltreffendheid van de uitvoering van deze wet.     
-3.  De Consumentenautoriteit nodigt ten minste elk kwartaal consumentenorganisaties en centrale ondernemersverenigingen uit voor het maatschappelijk overleg. Ook kunnen stichtingen of verenigingen met volledige rechtsbevoegdheid die krachtens hun statuten tot taak hebben de behandeling van klachten van consumenten en geschillenbeslechting als bedoeld in artikel 6.1 en aangewezen instanties die een rechtmatig belang hebben bij de beëindiging van overtredingen als bedoeld in artikel 6.2 voor het maatschappelijk overleg worden uitgenodigd.   
-4.  Andere bevoegde autoriteiten en andere overheidsinstanties kunnen toehoorders aanwijzen voor het maatschappelijk overleg.   
-5.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld over deelname aan het maatschappelijk overleg en de werkwijze en verslaglegging van het maatschappelijk overleg en over de vergoeding van reis- en onkosten van deelnemers aan het maatschappelijk overleg.   
 
 ### Hoofdstuk  7  
 
@@ -446,6 +439,11 @@ Het is een handelaar niet toegestaan oneerlijke handelspraktijken te verrichten 
 
 De dienstverrichter die diensten verricht als bedoeld in richtlijn 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende diensten op de interne markt (PbEU L 376), neemt de bepalingen van [Afdeling 2a van titel 5 van Boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) in acht.  
 
+### Artikel  8.10   
+Treedt in werking op een nader te bepalen tijdstip   
+
+Een pandhuis neemt de bepalingen van [Titel 2D van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) in acht.  
+
 ### Hoofdstuk  9  
 
 ####Wijziging in andere wetten
@@ -489,19 +487,6 @@ Zolang het bij koninklijke boodschap van 8 december 2003 ingediende voorstel va
 ### Hoofdstuk  10  
 
 ####Slotbepalingen
-
-### Artikel  10.1  
-
-Onze Minister brengt jaarlijks vóór 1 juni verslag uit over de werkzaamheden van de Consumentenautoriteit in het afgelopen jaar en brengt dit verslag ter kennis van de beide Kamers van de Staten-Generaal.  
-
-### Artikel  10.2  
-
-1.  Onze Minister zendt binnen vier jaar na de inwerkingtreding van de wet en vervolgens na iedere vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid en doelmatigheid van: 
-
-a. het functioneren van de Consumentenautoriteit;  
-
-b. de samenwerking en coördinatie tussen de bevoegde autoriteiten en andere overheidsinstanties, voor zover deze betrekking hebben op de handhaving van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage bij deze wet.     
-2.  Het verslag, bedoeld in het eerste lid, omvat mede een rapportage betreffende de bestuurlijke vormgeving van de Consumentenautoriteit.   
 
 ### Artikel  10.3  
 

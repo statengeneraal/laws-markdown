@@ -186,7 +186,7 @@ f. toezicht op de rechtmatige en doelmatige uitvoering door het CAK van hetgeen 
 
 1.  Met het oog op een effectieve en efficiënte besluitvorming over de wijze van behandeling van aangelegenheden van wederzijds belang en het verzamelen van informatie ten behoeve daarvan worden daarover afspraken gemaakt tussen de zorgautoriteit en: 
 
-a. de Nederlandse Mededingingsautoriteit;  
+a. de Autoriteit Consument en Markt;  
 
 b. het Staatstoezicht op de volksgezondheid;  
 
@@ -211,11 +211,11 @@ k. Onze Minister, voor zo ver het betreft het toezicht op het CAK.
 
 ### Artikel  18  
 
-1.  De zorgautoriteit en de Nederlandse Mededingingsautoriteit, verder in dit artikel te noemen de mededingingsautoriteit, bevorderen dat belanghebbenden zich bij aangelegenheden waarbij mogelijk sprake is van samenloop van bevoegdheden eerst wenden tot de zorgautoriteit.   
-2.  Van samenloop van bevoegdheden als bedoeld in het eerste lid is sprake in een situatie waarin de mogelijke uitoefening van bevoegdheden van de zorgautoriteit op grond van artikel 48 van deze wet en de mogelijke uitoefening van bevoegdheden van de Mededingingsautoriteit op grond van de [Mededingingswet](../../../../../wet/mededingingswet/BWBR0008691/README.md) of Europese wet- en regelgeving samenvallen dan wel kunnen samenvallen.   
-3.  De zorgautoriteit past bij mogelijke samenloop van bevoegdheden voor zover mogelijk eerst de bevoegdheden toe die zij op grond van deze wet heeft, alvorens de mededingingsautoriteit de haar ten dienste staande bevoegdheden op grond van de [Mededingingswet](../../../../../wet/mededingingswet/BWBR0008691/README.md) toepast.   
-4.  De zorgautoriteit richt zich naar de uitleg van begrippen die de mededingingsautoriteit hanteert in het kader van de toepassing van het mededingingsrecht.   
-5.  Van hetgeen bepaald is in het derde lid kan worden afgeweken indien de zorgautoriteit en de mededingingsautoriteit in gezamenlijk overleg tot het oordeel komen dat een aangelegenheid op basis van effectiviteit van het wettelijke instrumentarium of uit efficiëntie of andere overwegingen beter door de mededingingsautoriteit of door de mededingingsautoriteit en de zorgautoriteit gezamenlijk kan worden behandeld.   
+1.  De zorgautoriteit en de Autoriteit Consument en Markt bevorderen dat belanghebbenden zich bij aangelegenheden waarbij mogelijk sprake is van samenloop van bevoegdheden eerst wenden tot de zorgautoriteit.   
+2.  Van samenloop van bevoegdheden als bedoeld in het eerste lid is sprake in een situatie waarin de mogelijke uitoefening van bevoegdheden van de zorgautoriteit op grond van artikel 48 van deze wet en de mogelijke uitoefening van bevoegdheden van de Autoriteit Consument en Markt op grond van de [Mededingingswet](../../../../../wet/mededingingswet/BWBR0008691/README.md) of Europese wet- en regelgeving samenvallen dan wel kunnen samenvallen.   
+3.  De zorgautoriteit past bij mogelijke samenloop van bevoegdheden voor zover mogelijk eerst de bevoegdheden toe die zij op grond van deze wet heeft, alvorens de Autoriteit Consument en Markt de haar ten dienste staande bevoegdheden op grond van de [Mededingingswet](../../../../../wet/mededingingswet/BWBR0008691/README.md) toepast.   
+4.  De zorgautoriteit richt zich naar de uitleg van begrippen die de Autoriteit Consument en Markt hanteert in het kader van de toepassing van het mededingingsrecht.   
+5.  Van hetgeen bepaald is in het derde lid kan worden afgeweken indien de zorgautoriteit en de Autoriteit Consument en Markt in gezamenlijk overleg tot het oordeel komen dat een aangelegenheid op basis van effectiviteit van het wettelijke instrumentarium of uit efficiëntie of andere overwegingen beter door de Autoriteit Consument en Markt of door de Autoriteit Consument en Markt en de zorgautoriteit gezamenlijk kan worden behandeld.   
 
 ### Artikel  19  
 
@@ -879,7 +879,7 @@ e. in welke gevallen gegevens, bedoeld in het eerste of tweede lid, verder worde
 ### Artikel  70  
 
 1.  De zorgautoriteit, het College zorgverzekeringen, het College bouw, het College sanering en het Staatstoezicht op de volksgezondheid verstrekken elkaar die gegevens en inlichtingen die van belang kunnen zijn voor de uitoefening van hun wettelijke taken.   
-2.  De zorgautoriteit verstrekt desgevraagd aan de Nederlandse Mededingingsautoriteit, De Nederlandsche Bank, de Stichting Autoriteit Financiële Markten, het College bescherming persoonsgegevens, de Consumentenautoriteit en de FIOD-ECD die gegevens en inlichtingen die van belang kunnen zijn voor de uitoefening van hun wettelijke taken.   
+2.  De zorgautoriteit verstrekt desgevraagd aan de Autoriteit Consument en Markt, de Nederlandsche Bank, de Stichting Autoriteit Financiële Markten, het College bescherming persoonsgegevens en de FIOD-ECD die gegevens en inlichtingen die van belang kunnen zijn voor de uitoefening van hun wettelijke taken.   
 3.  De zorgautoriteit verstrekt desgevraagd aan de Gezondheidsraad, het Rijksinstituut voor de volksgezondheid en milieu, de Raad voor de Volksgezondheid en Zorg, de Raad voor gezondheidsonderzoek, het Centraal Planbureau, het Centraal Bureau voor de Statistiek en het Sociaal Cultureel Planbureau in verband met de beperking van administratieve lasten die gegevens en inlichtingen die van belang kunnen zijn voor de uitoefening van hun wettelijke taken.   
 4.  Bij de verstrekkingen als bedoeld in het eerste tot en met derde lid wordt het bepaalde krachtens artikel 65 in acht genomen.   
 5.  De zorgautoriteit maakt bij de toepassing van het eerste tot en met derde lid geen gebruik van haar bevoegdheden, bedoeld in de artikelen 61 en 64.   

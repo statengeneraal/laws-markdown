@@ -28,6 +28,8 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 *aannemer:* een ieder die de uitvoering van werken op de markt aanbiedt;  
 
+*Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt;  
+
 *CPV:* de Gemeenschappelijke Woordenlijst Overheidsopdrachten, vastgesteld bij verordening (EG) nr. 2195/2002 van het Europees Parlement en de Raad van 5 november 2002 betreffende de gemeenschappelijke woordenlijst overheidsopdrachten (CPV) (PbEG L 340);  
 
 *crisissituatie:* een gewapend conflict, een oorlog of een andere situatie als gevolg waarvan zich een schadelijke gebeurtenis voordoet die de omvang van een schadelijke gebeurtenis van het dagelijks leven duidelijk overstijgt en die een ernstige bedreiging of belemmering vormt voor het leven of de gezondheid van mensen, of substantiële gevolgen heeft voor materiële goederen van grote waarde, of maatregelen vereist om de bevolking van eerste levensbehoeften te voorzien, dan wel een situatie waarbij een dergelijke schadelijke gebeurtenis zich naar verwachting op zeer korte termijn zal voordoen;  
@@ -36,9 +38,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 *eigen verklaring:* een verklaring als bedoeld in artikel 2.74, eerste lid;  
 
-*Europees elektronisch systeem voor aanbestedingen:* het door de Europese Commissie ter uitvoering van richtlijn nr. 2009/81/EG beschikbaar gestelde elektronisch systeem voor aanbestedingen;  
+*elektronisch systeem voor aanbestedingen:* het elektronisch systeem voor aanbestedingen, bedoeld in artikel 4.13 van de Aanbestedingswet 20..;  
 
 *elektronische veiling:* een zich herhalend elektronisch proces voor de presentatie van nieuwe, verlaagde prijzen of van nieuwe waarden voor bepaalde elementen van de inschrijvingen, dat plaatsvindt na de eerste volledige beoordeling van de inschrijvingen en dat klassering op basis van elektronische verwerking mogelijk maakt;  
+
+*gedragsverklaring aanbesteden:* een verklaring als bedoeld in artikel 4.1 van de Aanbestedingswet 20..;  
 
 *gegadigde:* een ondernemer die bij toepassing van de niet-openbare procedure, de procedure van de concurrentiegerichte dialoog of de onderhandelingsprocedure heeft verzocht om toegelaten te worden tot de procedure;  
 
@@ -110,21 +114,13 @@ b. het beheer is onderworpen aan toezicht door de staat, een provincie, een geme
 
 c. de leden van het bestuur, het leidinggevend of toezichthoudend orgaan voor meer dan de helft door de staat, een provincie, een gemeente, een waterschap of een andere publiekrechtelijke instelling zijn aangewezen;    
 
-*raad:* de raad van bestuur van de Nederlandse Mededingingsautoriteit;  
-
 *raamovereenkomst:* een schriftelijke overeenkomst tussen een of meer aanbestedende diensten of speciale-sectorbedrijven en een of meer ondernemers met het doel gedurende een bepaalde periode de voorwaarden inzake te plaatsen opdrachten vast te leggen;  
 
 *richtlijn nr. 2009/81/EG:*richtlijn 2009/81/EG van het Europees Parlement en de Raad van 13 juli 2009 betreffende de coördinatie van de procedures voor het plaatsen door aanbestedende diensten van bepaalde opdrachten voor werken, leveringen en diensten op defensie- en veiligheidsgebied, en tot wijziging van richtlijnen 2004/17/EG en 2004/18/EG (PbEU L 216);  
 
 *schriftelijk:* elk uit woorden of cijfers bestaand geheel dat kan worden gelezen, gereproduceerd en vervolgens medegedeeld, daaronder begrepen met elektronische middelen overgebrachte of opgeslagen informatie;  
 
-*speciale-sectorbedrijf:*  
-
-a. een aanbestedende dienst,  
-
-b. een overheidsbedrijf als bedoeld in [artikel 1, onderdeel s, van het Besluit aanbestedingen speciale sectoren](../../../../../../../AMvB/besluit/aanbestedingen/speciale/sectoren/BWBR0018608/README.md),  
-
-c. een bedrijf of instelling waaraan door een aanbestedende dienst een bijzonder recht als bedoeld in [artikel 1, onderdeel v, van het Besluit aanbestedingen speciale sectoren](../../../../../../../AMvB/besluit/aanbestedingen/speciale/sectoren/BWBR0018608/README.md) of een uitsluitend recht als bedoeld in artikel 1, onderdeel u, van dat besluit is verleend, voorzover die dienst, dat bedrijf of die instelling een activiteit uitoefent als bedoeld in de [artikelen 2, eerste lid](../../../../../../../AMvB/besluit/aanbestedingen/speciale/sectoren/BWBR0018608/README.md), [3, eerste lid](../../../../../../../AMvB/besluit/aanbestedingen/speciale/sectoren/BWBR0018608/README.md), [4, eerste en tweede lid](../../../../../../../AMvB/besluit/aanbestedingen/speciale/sectoren/BWBR0018608/README.md), [5, eerste lid](../../../../../../../AMvB/besluit/aanbestedingen/speciale/sectoren/BWBR0018608/README.md), [6](../../../../../../../AMvB/besluit/aanbestedingen/speciale/sectoren/BWBR0018608/README.md) of [7 van dat besluit](../../../../../../../AMvB/besluit/aanbestedingen/speciale/sectoren/BWBR0018608/README.md), tenzij de desbetreffende activiteit op grond van artikel 2, tweede lid, 3, tweede lid, 4, derde lid, of 5, tweede lid, van dat besluit is uitgezonderd;    
+*speciale-sectorbedrijf:* een speciale-sectorbedrijf als bedoeld in artikel 1.1 van Aanbestedingswet 20..;  
 
 *werk:* het product van het geheel van bouwkundige of civieltechnische werken dat ertoe bestemd is als zodanig een economische of technische functie te vervullen.    
 
@@ -196,9 +192,9 @@ d. werken en diensten specifiek voor militaire doeleinden, of gevoelige werken o
 
 ### Artikel  2.2  
 
-1.  Het bepaalde bij of krachtens deze wet is van toepassing op het plaatsen van een opdracht die voor een deel binnen het toepassingsgebied van deze wet en voor een deel binnen dat van het [Besluit aanbestedingsregels voor overheidsopdrachten](../../../../../../../AMvB/besluit/aanbestedingsregels/voor/overheidsopdrachten/BWBR0018607/README.md) of het [Besluit aanbestedingen speciale sectoren](../../../../../../../AMvB/besluit/aanbestedingen/speciale/sectoren/BWBR0018608/README.md) valt, indien de gunning er van als één geheel om objectieve redenen gerechtvaardigd is.   
-2.  Het bepaalde bij of krachtens deze wet is niet van toepassing op het plaatsen van een opdracht die voor een deel binnen het toepassingsgebied van deze wet valt en voor een deel zowel daarbuiten als buiten dat van het [Besluit aanbestedingsregels voor overheidsopdrachten](../../../../../../../AMvB/besluit/aanbestedingsregels/voor/overheidsopdrachten/BWBR0018607/README.md) of het [Besluit aanbestedingen speciale sectoren](../../../../../../../AMvB/besluit/aanbestedingen/speciale/sectoren/BWBR0018608/README.md), indien de gunning er van als één geheel om objectieve redenen gerechtvaardigd is.   
-3.  Een aanbestedende dienst of een speciale-sectorbedrijf plaatst een opdracht niet als één geheel met het oogmerk zich aan de toepassing van deze wet of het [Besluit aanbestedingsregels voor overheidsopdrachten](../../../../../../../AMvB/besluit/aanbestedingsregels/voor/overheidsopdrachten/BWBR0018607/README.md) of het [Besluit aanbestedingsregels speciale sectoren](../../../../../../../AMvB/besluit/aanbestedingen/speciale/sectoren/BWBR0018608/README.md) te onttrekken.   
+1.  Het bepaalde bij of krachtens deze wet is van toepassing op het plaatsen van een opdracht die voor een deel binnen het toepassingsgebied van deze wet en voor een deel binnen dat van de Aanbestedingswet 20.. valt, indien de gunning er van als één geheel om objectieve redenen gerechtvaardigd is.   
+2.  Het bepaalde bij of krachtens deze wet is niet van toepassing op het plaatsen van een opdracht die voor een deel binnen het toepassingsgebied van deze wet valt en voor een deel zowel daarbuiten als buiten dat van de Aanbestedingswet 20.., indien de gunning er van als één geheel om objectieve redenen gerechtvaardigd is.   
+3.  Een aanbestedende dienst of een speciale-sectorbedrijf plaatst een opdracht niet als één geheel met het oogmerk zich aan de toepassing van deze wet of de Aanbestedingswet 20.. te onttrekken.   
 
 ### §  2.1.1.2  
 
@@ -206,11 +202,12 @@ d. werken en diensten specifiek voor militaire doeleinden, of gevoelige werken o
 
 ### Artikel  2.3  
 
-Het bepaalde bij of krachtens deze wet is van toepassing op opdrachten voor: 
+1.  Het bepaalde bij of krachtens deze wet is van toepassing op opdrachten voor: 
 
 a. leveringen en diensten waarvan de geraamde waarde gelijk is aan of hoger is dan het in artikel 8, onderdeel a, van richtlijn nr. 2009/81/EG genoemde bedrag, exclusief omzetbelasting;  
 
-b. werken waarvan de geraamde waarde gelijk is aan of hoger is dan het in artikel 8, onderdeel b, van richtlijn nr. 2009/81/EG genoemde bedrag, exclusief omzetbelasting.    
+b. werken waarvan de geraamde waarde gelijk is aan of hoger is dan het in artikel 8, onderdeel b, van richtlijn nr. 2009/81/EG genoemde bedrag, exclusief omzetbelasting.     
+2.  Ongeacht de geraamde waarde van een opdracht als bedoeld in artikel 2.1 zijn de hoofdstukken 1.2 tot en met 1.4 van de Aanbestedingswet 20.. daarop niet van toepassing.   
 
 ### Artikel  2.4  
 
@@ -663,19 +660,19 @@ c. het overeenkomstig afdeling 2.1.2 geraamde totale bedrag per productgroep van
 
 ### Artikel  2.43  
 
-1.  De bekendmaking van de vooraankondiging geschiedt langs elektronische weg, met gebruikmaking van het Europees elektronisch systeem voor aanbestedingen.   
-2.  De aanbestedende dienst of het speciale-sectorbedrijf gebruikt voor de bekendmaking van de vooraankondiging het daartoe door middel van het Europees elektronisch systeem voor aanbestedingen beschikbaar gestelde formulier.   
+1.  De bekendmaking van de vooraankondiging geschiedt langs elektronische weg, met gebruikmaking van het elektronisch systeem voor aanbestedingen.   
+2.  De aanbestedende dienst of het speciale-sectorbedrijf gebruikt voor de bekendmaking van de vooraankondiging het daartoe door middel van het elektronisch systeem voor aanbestedingen beschikbaar gestelde formulier.   
 
 ### Artikel  2.44  
 
-Een aanbestedende dienst of een speciale-sectorbedrijf zendt de vooraankondiging, bedoeld in artikel 2.42, zo spoedig mogelijk nadat de beslissing is genomen tot goedkeuring van het programma voor de opdrachten of de raamovereenkomsten die de aanbestedende dienst of het speciale-sectorbedrijf voornemens is te plaatsen of te sluiten, met behulp van het Europees elektronisch systeem voor aanbestedingen toe aan de Europese Commissie.  
+Een aanbestedende dienst of een speciale-sectorbedrijf zendt de vooraankondiging, bedoeld in artikel 2.42, zo spoedig mogelijk nadat de beslissing is genomen tot goedkeuring van het programma voor de opdrachten of de raamovereenkomsten die de aanbestedende dienst of het speciale-sectorbedrijf voornemens is te plaatsen of te sluiten, met behulp van het elektronisch systeem voor aanbestedingen toe aan de Europese Commissie.  
 
 ### Artikel  2.45  
 
 1.  In afwijking van artikel 2.44 kan de aanbestedende dienst of het speciale-sectorbedrijf de vooraankondiging ook bekend maken op zijn kopersprofiel.   
 2.  Een kopersprofiel als bedoeld in het eerste lid is langs elektronische weg toegankelijk en kan informatie bevatten inzake vooraankondigingen, lopende aanbestedingsprocedures, voorgenomen aankopen, gegunde opdrachten, geannuleerde procedures en nuttige algemene informatie, zoals een contactpunt, een telefoon- en faxnummer, een postadres en een e-mailadres.   
-3.  In het in het eerste lid bedoelde geval zendt de aanbestedende dienst of het speciale-sectorbedrijf een kennisgeving van de vooraankondiging langs elektronische weg met gebruikmaking van het Europees elektronisch systeem voor aanbestedingen toe aan de Europese Commissie.   
-4.  De in het derde lid bedoelde kennisgeving geschiedt door middel van het daartoe door middel van het Europees elektronisch systeem voor aanbestedingen beschikbaar gestelde formulier.   
+3.  In het in het eerste lid bedoelde geval zendt de aanbestedende dienst of het speciale-sectorbedrijf een kennisgeving van de vooraankondiging langs elektronische weg met gebruikmaking van het elektronisch systeem voor aanbestedingen toe aan de Europese Commissie.   
+4.  De in het derde lid bedoelde kennisgeving geschiedt door middel van het daartoe door middel van het elektronisch systeem voor aanbestedingen beschikbaar gestelde formulier.   
 5.  Een aanbestedende dienst of een speciale-sectorbedrijf maakt de vooraankondiging op zijn kopersprofiel niet eerder bekend dan nadat de kennisgeving van die bekendmaking aan de Europese Commissie is verzonden.   
 6.  De vooraankondiging op het kopersprofiel bevat de datum van de kennisgeving, bedoeld in het vierde lid.   
 
@@ -686,8 +683,8 @@ Een aanbestedende dienst of een speciale-sectorbedrijf zendt de vooraankondiging
 ### Artikel  2.46  
 
 1.  De aanbestedende dienst die of het speciale-sectorbedrijf dat voornemens is een opdracht te gunnen maakt hiertoe een aankondiging van de opdracht bekend.   
-2.  De bekendmaking van de aankondiging geschiedt langs elektronische weg met gebruikmaking van het Europees elektronisch systeem voor aanbestedingen.   
-3.  De aanbestedende dienst of het speciale-sectorbedrijf gebruikt voor de bekendmaking van de aankondiging het daartoe door middel van het Europees elektronisch systeem voor aanbestedingen beschikbaar gestelde formulier.   
+2.  De bekendmaking van de aankondiging geschiedt langs elektronische weg met gebruikmaking van het elektronisch systeem voor aanbestedingen.   
+3.  De aanbestedende dienst of het speciale-sectorbedrijf gebruikt voor de bekendmaking van de aankondiging het daartoe door middel van het elektronisch systeem voor aanbestedingen beschikbaar gestelde formulier.   
 4.  Het eerste lid is niet van toepassing indien de aanbestedende dienst of het speciale-sectorbedrijf de onderhandelingsprocedure zonder aankondiging toepast.   
 
 ### Artikel  2.47  
@@ -701,7 +698,7 @@ De aanbestedende dienst of het speciale-sectorbedrijf kan met behulp van de beve
 ### Artikel  2.49  
 
 1.  De aanbestedende dienst of het speciale-sectorbedrijf kan de aankondiging of de inhoud ervan niet eerder op een andere wijze dan bedoeld in artikel 2.46 bekendmaken dan nadat deze aan de Europese Commissie is gezonden.   
-2.  Indien de aanbestedende dienst of het speciale-sectorbedrijf de aankondiging ook op een andere wijze dan met gebruikmaking van het Europees elektronisch systeem voor aanbestedingen bekend maakt, bevat die aankondiging geen andere informatie dan die welke aan de Europese Commissie is gezonden of via het kopersprofiel is bekendgemaakt en bevat deze in ieder geval de datum van toezending aan de Europese Commissie dan wel de datum van de bekendmaking op het kopersprofiel.   
+2.  Indien de aanbestedende dienst of het speciale-sectorbedrijf de aankondiging ook op een andere wijze dan met gebruikmaking van het elektronisch systeem voor aanbestedingen bekend maakt, bevat die aankondiging geen andere informatie dan die welke aan de Europese Commissie is gezonden of via het kopersprofiel is bekendgemaakt en bevat deze in ieder geval de datum van toezending aan de Europese Commissie dan wel de datum van de bekendmaking op het kopersprofiel.   
 
 ### Artikel  2.50  
 
@@ -711,8 +708,8 @@ De aanbestedende dienst of het speciale-sectorbedrijf kan met behulp van de beve
 ### Artikel  2.51  
 
 1.  De aanbestedende dienst of het speciale-sectorbedrijf kan een rectificatie van een eerder gedane aankondiging bekendmaken.   
-2.  De bekendmaking van de rectificatie geschiedt langs elektronische weg met gebruikmaking van het Europees elektronisch systeem voor aanbestedingen.   
-3.  De aanbestedende dienst of het speciale-sectorbedrijf gebruikt voor de bekendmaking van de rectificatie het daartoe door middel van het Europees elektronisch systeem voor aanbestedingen beschikbaar gestelde formulier.   
+2.  De bekendmaking van de rectificatie geschiedt langs elektronische weg met gebruikmaking van het elektronisch systeem voor aanbestedingen.   
+3.  De aanbestedende dienst of het speciale-sectorbedrijf gebruikt voor de bekendmaking van de rectificatie het daartoe door middel van het elektronisch systeem voor aanbestedingen beschikbaar gestelde formulier.   
 
 ### Artikel  2.52  
 
@@ -1027,7 +1024,7 @@ c. indien naar het oordeel van de aanbestedende dienst of het speciale-sectorbed
 ### Artikel  2.79  
 
 1.  Een gegadigde of inschrijver kan door middel van een uittreksel uit het handelsregister, dat op het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving niet ouder is dan zes maanden, aantonen dat de uitsluitingsgrond van artikel 2.77, onderdeel a, op hem niet van toepassing is.   
-2.  Een gegadigde of inschrijver kan door middel van een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), die op het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving niet ouder is dan twee jaar, aantonen dat de uitsluitingsgronden, bedoeld in de artikelen 2.76 en 2.77, onderdelen b en c, voor zover het een onherroepelijke veroordeling of een onherroepelijke beschikking wegens overtreding van mededingingsregels betreft, op hem niet van toepassing zijn.   
+2.  Een gegadigde of inschrijver kan door middel van een gedragsverklaring aanbesteden, die op het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving niet ouder is dan twee jaar, aantonen dat de uitsluitingsgronden, bedoeld in de artikelen 2.76 en 2.77, onderdelen b en c, voor zover het een onherroepelijke veroordeling of een onherroepelijke beschikking wegens overtreding van mededingingsregels betreft, op hem niet van toepassing zijn.   
 3.  Een gegadigde of inschrijver kan door middel van een verklaring van de belastingdienst, die op het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving, niet ouder is dan zes maanden, aantonen dat de uitsluitingsgrond, bedoeld in artikel 2.77, onderdeel d, niet op hem van toepassing is.   
 4.  Een aanbestedende dienst of een speciale-sectorbedrijf aan welke een gegadigde of inschrijver gegevens overlegt ten bewijze dat de uitsluitingsgronden, bedoeld in artikel 2.76 of artikel 2.77, niet op hem van toepassing zijn, aanvaardt ook gegevens en bescheiden uit een andere lidstaat die een gelijkwaardig doel dienen of waaruit blijkt dat de uitsluitingsgrond niet op hem van toepassing is.   
 
@@ -1436,7 +1433,7 @@ c. hij kan de veiling afsluiten indien alle fasen van de veiling die in de uitno
 3.  De opschortende termijn, bedoeld in het eerste lid, bedraagt ten minste vijftien kalenderdagen.   
 4.  Een aanbestedende dienst of een speciale-sectorbedrijf behoeft geen toepassing te geven aan het eerste lid indien: 
 
-a. deze wet geen bekendmaking van de aankondiging van de opdracht door middel van het Europees elektronisch systeem voor aanbestedingen vereist;  
+a. deze wet geen bekendmaking van de aankondiging van de opdracht door middel van het elektronisch systeem voor aanbestedingen vereist;  
 
 b. de enige betrokken inschrijver degene is aan wie de opdracht wordt gegund en er geen betrokken gegadigden zijn;  
 
@@ -1503,8 +1500,8 @@ Een aanbestedende dienst of een speciale-sectorbedrijf zendt het proces-verbaal,
 
 ### Artikel  2.125  
 
-1.  De aanbestedende dienst die of het speciale-sectorbedrijf dat een opdracht heeft gegund maakt de aankondiging van de gegunde opdracht bekend met behulp van het Europees elektronisch systeem voor aanbestedingen binnen 48 dagen na de gunning van die opdracht.   
-2.  De aanbestedende dienst of het speciale-sectorbedrijf gebruikt voor de mededeling van het resultaat van de procedure het daartoe door middel van het Europees elektronisch systeem voor aanbestedingen beschikbaar gestelde formulier.   
+1.  De aanbestedende dienst die of het speciale-sectorbedrijf dat een opdracht heeft gegund maakt de aankondiging van de gegunde opdracht bekend met behulp van het elektronisch systeem voor aanbestedingen binnen 48 dagen na de gunning van die opdracht.   
+2.  De aanbestedende dienst of het speciale-sectorbedrijf gebruikt voor de mededeling van het resultaat van de procedure het daartoe door middel van het elektronisch systeem voor aanbestedingen beschikbaar gestelde formulier.   
 
 ### Artikel  2.126  
 
@@ -1610,7 +1607,7 @@ b. indien niet alle voorwaarden in de raamovereenkomst zijn bepaald, door de par
 ### Artikel  2.138  
 
 1.  Een aankondiging van een opdracht in onderaanneming wordt met gebruikmaking van het formulier, bedoeld in artikel 2.137, tweede lid, ter bekendmaking naar de Europese Commissie langs elektronische weg op de wijze, bedoeld in het derde punt van bijlage VI van richtlijn nr. 2009/81/EG of met andere middelen verzonden.   
-2.  De bekendmaking van de aankondiging, bedoeld in het eerste lid, kan geschieden door middel van het Europees elektronisch systeem voor aanbestedingen.   
+2.  De bekendmaking van de aankondiging, bedoeld in het eerste lid, kan geschieden door middel van het elektronisch systeem voor aanbestedingen.   
 
 ### Artikel  2.139  
 
@@ -1626,7 +1623,7 @@ De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst
 
 1.  De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst is gesloten, kan een rectificatie van een eerder gedane aankondiging van een opdracht in onderaanneming bekendmaken.   
 2.  De bekendmaking van de rectificatie geschiedt langs dezelfde weg als de bekendmaking van de oorspronkelijke aankondiging.   
-3.  Indien voor de bekendmaking van de aankondiging voor een opdracht in onderaanneming gebruik is gemaakt van het Europees elektronisch systeem voor aanbestedingen, kan voor de bekendmaking van een rectificatie van die aankondiging gebruik worden gemaakt van het daartoe door middel van het Europees elektronisch systeem voor aanbestedingen beschikbaar gestelde formulier.   
+3.  Indien voor de bekendmaking van de aankondiging voor een opdracht in onderaanneming gebruik is gemaakt van het elektronisch systeem voor aanbestedingen, kan voor de bekendmaking van een rectificatie van die aankondiging gebruik worden gemaakt van het daartoe door middel van het elektronisch systeem voor aanbestedingen beschikbaar gestelde formulier.   
 
 ### §  2.4.2.3  
 
@@ -1676,6 +1673,38 @@ a. het gebruik van de elektronische weg: voorwaarden die de aanbestedende dienst
 b. communicatie tussen aanbestedende dienst of het speciale-sectorbedrijf en ondernemer: de middelen, de wijze waarop gegevens aangeboden en opgeslagen worden, elektronisch indienen van inschrijvingen, elektronisch indienen van certificaten en de wijze waarop verzoeken tot deelneming kunnen worden gedaan.     
 2.  Ter uitvoering van richtlijn nr. 2009/81/EG kunnen bij of krachtens algemene maatregel van bestuur nadere regels worden gesteld omtrent de instelling, afgifte en bewijskracht van certificaten dan wel de instelling van, opname in en bewijskracht van de opname op een erkenningslijst.   
 
+### Afdeling  3.1.2  
+
+####Het elektronisch systeem voor aanbesteden
+
+### Artikel  3.1a  
+
+1.  Onze Minister draagt er zorg voor dat de met behulp van het elektronisch systeem voor aanbestedingen te vervullen functies, bedoeld in artikel 4.13, eerste lid, onderdelen a tot en met d, van de Aanbestedingswet 20.. tevens strekken tot uitvoering van deze wet en richtlijn nr. 2009/81/EG.   
+2.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de toegang tot en aansluiting op het elektronische systeem voor aanbestedingen ten behoeve van het vervullen van de functies, bedoeld in artikel 4.13, eerste lid, onderdelen a en b, van de Aanbestedingswet 20.. ter uitvoering van deze wet en richtlijn nr. 2009/81/EG.   
+
+### Artikel  3.1b  
+
+1.  Onze Minister stelt door middel van het elektronisch systeem van aanbesteden de door de Europese Commissie met inachtneming van de artikelen 52, tweede lid, en 69 van richtlijn nr. 2009/81/EG vastgestelde formulieren beschikbaar voor: 
+
+a. de vooraankondiging van een opdracht;  
+
+b. de aankondiging van een opdracht;  
+
+c. de aankondiging van een opdracht in onderaanneming;  
+
+d. de aankondiging door middel van een kopersprofiel;  
+
+e. de aankondiging van een gegunde opdracht;  
+
+f. rectificatie van een aankondiging;  
+
+g. de aankondiging, bedoeld in artikel 3.3, eerste lid, onder b,   overeenkomstig het model dat door de Europese Commissie overeenkomstig de in artikel 67, tweede lid, van richtlijn nr. 2009/81/EG bedoelde procedure is vastgesteld.   
+2.  Op verzoek van de aanbestedende dienst of het speciale-sectorbedrijf wijst Onze Minister de Europese Commissie op gegevens die niet voor publicatie bestemd zijn. Deze gegevens worden niet door middel van het elektronisch systeem van aanbesteden bekendgemaakt.   
+3.  Onze Minister draagt er zorg voor dat door middel van het elektronisch systeem van aanbesteden de mededelingen, genoemd in het eerste lid, langs elektronische weg ter publicatie worden gezonden aan de Europese Commissie overeenkomstig het model en op de wijze, bedoeld in het derde punt van bijlage VI van richtlijn nr. 2009/81/EG.   
+4.  Een wijziging van een formulier, bedoeld in artikel 69 van richtlijn nr. 2009/81/EG gaat voor de toepassing van het eerste lid gelden met ingang van de dag waarop het desbetreffende besluit van de Europese Commissie in werking treedt.   
+5.  Onze Minister is verantwoordelijke als bedoeld in artikel 1, onder d, van de Wet bescherming persoonsgegevens.   
+6.  Onze Minister doet mededeling in de Staatscourant van een besluit als bedoeld in het vierde lid.   
+
 ### Hoofdstuk  3.2  
 
 ####Vernietigbaarheid en boete
@@ -1707,9 +1736,9 @@ b. in andere gevallen dan bedoeld in onderdeel a, voor het verstrijken van een p
 
 1.  Artikel 3.2, eerste lid, aanhef en onder a, is niet van toepassing indien de aanbestedende dienst of het speciale-sectorbedrijf: 
 
-a. van mening is dat de gunning van een opdracht zonder voorafgaande bekendmaking van een aankondiging van de opdracht door middel van het Europees elektronisch systeem voor aanbestedingen op grond van deze wet is toegestaan,  
+a. van mening is dat de gunning van een opdracht zonder voorafgaande bekendmaking van een aankondiging van de opdracht door middel van het elektronisch systeem voor aanbestedingen op grond van deze wet is toegestaan,  
 
-b. de aankondiging van zijn voornemen om tot sluiting van de overeenkomst over te gaan door middel van het Europees elektronisch systeem voor aanbestedingen in het Publicatieblad van de Europese Unie heeft bekendgemaakt, en  
+b. de aankondiging van zijn voornemen om tot sluiting van de overeenkomst over te gaan door middel van het elektronisch systeem voor aanbestedingen in het Publicatieblad van de Europese Unie heeft bekendgemaakt, en  
 
 c. de overeenkomst niet heeft gesloten voor het verstrijken van een termijn van ten minste vijftien kalenderdagen, ingaande op de dag na de datum van de bekendmaking van bedoelde aankondiging.     
 2.  Artikel 3.2, eerste lid, aanhef en onder c is niet van toepassing indien de aanbestedende dienst of het speciale-sectorbedrijf: 
@@ -1733,8 +1762,8 @@ c. een rechtvaardiging van de beslissing om de opdracht te gunnen zonder voorafg
 d. de naam en contactgegevens van de onderneming ten gunste van wie de beslissing om een opdracht te gunnen is genomen;  
 
 e. voor zover van toepassing alle andere informatie die de aanbestedende dienst of het speciale-sectorbedrijf nuttig acht.     
-2.  De bekendmaking van de aankondiging, bedoeld in het eerste lid, geschiedt langs elektronische weg, met gebruikmaking van het Europees elektronisch systeem voor aanbestedingen.   
-3.  De aanbestedende dienst of het speciale-sectorbedrijf gebruikt voor de bekendmaking van de aankondiging, bedoeld in het eerste lid, het daartoe door middel van het Europees elektronisch systeem voor aanbestedingen beschikbaar gestelde formulier.   
+2.  De bekendmaking van de aankondiging, bedoeld in het eerste lid, geschiedt langs elektronische weg, met gebruikmaking van het elektronisch systeem voor aanbestedingen.   
+3.  De aanbestedende dienst of het speciale-sectorbedrijf gebruikt voor de bekendmaking van de aankondiging, bedoeld in het eerste lid, het daartoe door middel van het elektronisch systeem voor aanbestedingen beschikbaar gestelde formulier.   
 
 ### Artikel  3.5  
 
@@ -1749,7 +1778,7 @@ e. voor zover van toepassing alle andere informatie die de aanbestedende dienst 
 
 ### Artikel  3.7  
 
-1.  Indien de rechter toepassing heeft gegeven aan artikel 3.5, eerste lid, of indien de overeenkomst wel wordt vernietigd op grond van artikel 3.2, eerste lid, maar aan die vernietiging de werking geheel of gedeeltelijk wordt ontzegd, wordt door de griffie van de rechtbank onverwijld en kosteloos een afschrift van de uitspraak gezonden aan Onze Minister en aan de raad.   
+1.  Indien de rechter toepassing heeft gegeven aan artikel 3.5, eerste lid, of indien de overeenkomst wel wordt vernietigd op grond van artikel 3.2, eerste lid, maar aan die vernietiging de werking geheel of gedeeltelijk wordt ontzegd, wordt door de griffie van de rechtbank onverwijld en kosteloos een afschrift van de uitspraak gezonden aan Onze Minister en aan de Autoriteit Consument en Markt.   
 2.  Onze Minister draagt zorg dat afschriften van uitspraken als bedoeld in het eerste lid eenmaal per jaar aan de Europese Commissie worden gezonden.   
 
 ### Afdeling  3.2.2  
@@ -1758,26 +1787,26 @@ e. voor zover van toepassing alle andere informatie die de aanbestedende dienst 
 
 ### Artikel  3.8  
 
-1.  De raad legt de aanbestedende dienst die of het speciale-sectorbedrijf dat partij is bij een overeenkomst waarbij toepassing is gegeven aan artikel 3.5, eerste lid, een bestuurlijke boete op.   
+1.  De Autoriteit Consument en Markt legt de aanbestedende dienst die of het speciale-sectorbedrijf dat partij is bij een overeenkomst waarbij toepassing is gegeven aan artikel 3.5, eerste lid, een bestuurlijke boete op.   
 2.  Het eerste lid is van overeenkomstige toepassing indien de overeenkomst in rechte is vernietigd doch de werking geheel of gedeeltelijk aan die vernietiging is ontzegd.   
 3.  De in het eerste lid bedoelde boete is afschrikkend, evenredig en doeltreffend, beschouwd in samenhang met de in artikel 3.6 bedoelde verkorting van de looptijd.   
-4.  De bestuurlijke boete bedraagt ten hoogste vijftien procent van de geraamde waarde van de desbetreffende opdracht. Bij het bepalen van de hoogte van de boete neemt de raad de relevante omstandigheden van het geval, waaronder de ernst van de overtreding, in acht.   
+4.  De bestuurlijke boete bedraagt ten hoogste vijftien procent van de geraamde waarde van de desbetreffende opdracht. Bij het bepalen van de hoogte van de boete neemt de Autoriteit Consument en Markt de relevante omstandigheden van het geval, waaronder de ernst van de overtreding, in acht.   
 5.  De te betalen geldsom van de opgelegde bestuurlijke boete komt toe aan de Staat.   
 
 ### Artikel  3.9  
 
-1.  De raad neemt de beschikking, bedoeld in artikel 3.8, eerste lid, niet dan nadat de uitspraak, bedoeld in artikel 3.7, eerste lid, kracht van gewijsde heeft gekregen.   
+1.  De Autoriteit Consument en Markt neemt de beschikking, bedoeld in artikel 3.8, eerste lid, niet dan nadat de uitspraak, bedoeld in artikel 3.7, eerste lid, kracht van gewijsde heeft gekregen.   
 2.  De werking van een beschikking waarmee een bestuurlijke boete is opgelegd, wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.   
 
 ### Artikel  3.10  
 
-1.  De raad kan onder haar ressorterende ambtenaren aanwijzen als toezichthouders als bedoeld in [artikel 5:48 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  Alvorens een boete op te leggen kan de raad de overeenkomst onderzoeken teneinde de voor het vaststellen van de boete in aanmerking komende financiële gegevens te bepalen.   
+1.  De Autoriteit Consument en Markt kan onder haar ressorterende ambtenaren aanwijzen als toezichthouders als bedoeld in [artikel 5:48 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.  Alvorens een boete op te leggen kan de Autoriteit Consument en Markt de overeenkomst onderzoeken teneinde de voor het vaststellen van de boete in aanmerking komende financiële gegevens te bepalen.   
 3.  De aanbestedende dienst of het speciale-sectorbedrijf is verplicht mee te werken aan de onderzoeken, bedoeld in het tweede lid.   
 
 ### Artikel  3.11  
 
-Indien de overeenkomst, bedoeld in artikel 3.8, is gesloten of mede is gesloten ten bate van de Nederlandse Mededingingsautoriteit, worden de bevoegdheden van de artikelen 3.8 tot en met 3.10 uitgeoefend door Onze Minister.  
+Indien de overeenkomst, bedoeld in artikel 3.8, is gesloten of mede is gesloten ten bate van de Autoriteit Consument en Markt, worden de bevoegdheden van de artikelen 3.8 tot en met 3.10 uitgeoefend door Onze Minister.  
 
 ### Artikel  3.13  
 
@@ -1795,6 +1824,10 @@ b. kan tegen een arbitraal vonnis een vordering tot vernietiging als bedoeld in 
 
 1.  Indien een aanbestedende dienst of een speciale-sectorbedrijf voor het tijdstip van inwerkingtreding van deel 2 van deze wet een aankondiging van een aanbesteding heeft gedaan dan wel een aanbestedingsprocedure zonder aankondiging is gestart en in het kader daarvan een of meer ondernemers heeft verzocht een inschrijving in te dienen, is op die aanbestedingsprocedure het recht van toepassing zoals dat gold onmiddellijk voor het tijdstip van inwerkingtreding van deel 2 van deze wet.   
 2.  Indien een inschrijver met wie een aanbestedende dienst of een speciale-sectorbedrijf als resultaat van een gunningsbeslissing een overeenkomst heeft gesloten voor het tijdstip van inwerkingtreding van deel 2 van deze wet een aankondiging tot het aanbesteden van een opdracht in onderaanneming heeft gedaan dan wel een aanbestedingsprocedure zonder aankondiging is gestart en in het kader daarvan een of meer ondernemers heeft verzocht een inschrijving in te dienen, is op die aanbestedingsprocedure het recht van toepassing zoals dat gold onmiddellijk voor het tijdstip van inwerkingtreding van deel 2 van deze wet.   
+
+### Artikel  3.14a  
+
+Tot een jaar na het tijdstip van inwerkingtreding van artikel 3.15, onderdeel E, kan een gegadigde of een inschrijver, in afwijking van artikel 2.79, tweede lid, door middel van een verklaring omtrent het gedrag als bedoeld in artikel 28 van de Wet justitiële en strafvorderlijke gegevens die op het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving niet ouder is dan twee jaar, aantonen dat de uitsluitingsgronden, bedoeld in de artikelen 2.76 en 2.77, onderdelen b en c, op hem niet van toepassing zijn.  
 
 ### Artikel  3.15  
 

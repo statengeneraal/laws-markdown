@@ -3,7 +3,7 @@
 ##Regeling van 12 december 2006, nr. HDJZ/SCH/2006-1945, Hoofddirectie Juridische Zaken, houdende nadere regels ter voorkoming van verontreiniging door schepen (Regeling voorkoming verontreiniging door schepen)
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 1, tweede lid](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md), [8](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md), [11](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md), [15](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md), [32](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md), [35](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md), [38 van het Besluit voorkoming verontreiniging door schepen](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md), [artikel 2 van het Besluit havenontvangstvoorzieningen](../../../../../../../AMvB/besluit/havenontvangstvoorzieningen/BWBR0017136/README.md), [artikel 13, derde lid](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md), [14, tweede lid](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md), en [30 van de Wet voorkoming verontreiniging door schepen](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md), alsmede op de in artikel 1 van deze regeling genoemde richtlijnen en verordeningen;
+Gelet op de artikelen 1, tweede lid, 8, 11, 15, 32, 35, 38 van het Besluit voorkoming verontreiniging door schepen, artikel 2 van het Besluit havenontvangstvoorzieningen, artikel 13, derde lid, 14, tweede lid, en 30 van de Wet voorkoming verontreiniging door schepen, alsmede op de in artikel 1 van deze regeling genoemde richtlijnen en verordeningen;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -15,7 +15,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. besluit: [Besluit voorkoming verontreiniging door schepen](../../../../../../../AMvB/besluit/voorkoming/olieverontreiniging/door/schepen/BWBR0003936/README.md);  
+a. besluit: Besluit voorkoming verontreiniging door schepen;  
 
 b. richtlijn 94/25/EG: richtlijn nr. 94/25/EG van het Europees Parlement en de Raad van de Europese Unie van 16 juni 1994 inzake de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de Lid-Staten met betrekking tot pleziervaartuigen (PbEG L 164);  
 
@@ -25,7 +25,7 @@ d. richtlijn 1999/32/EG: richtlijn nr. 1999/32/EG van het Europees Parlement en 
 
 e. richtlijn 2005/35/EG: richtlijn nr. 2005/35/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 inzake verontreiniging vanaf schepen en invoering van sancties voor inbreuken (PbEU L 255);  
 
-f. verordening (EG) 417/2002: verordening (EG) nr. 417/2002 van het Europees Parlement en de Raad van de Europese Unie van 18 februari 2002, betreffende het versneld invoeren van de vereisten inzake een dubbelwandige uitvoering of een gelijkwaardig ontwerp voor enkelwandige olietankschepen en tot intrekking van Verordening (EG) nr. 2978/94 van de Raad van de Europese Unie (PbEG L 64);  
+f. verordening (EU) 530/2012: verordening (EU) nr. 530/2012 van het Europees Parlement en de Raad van 13 juni 2012 betreffende het versneld invoeren van de vereisten inzake een dubbelwandige uitvoering of een gelijkwaardig ontwerp voor enkelwandige olietankschepen (PbEU L 172);  
 
 g. verordening (EG) 782/2003: verordening (EG) nr. 782/2003 van het Europees Parlement en de Raad van de Europese Unie van 14 april 2003 houdende een verbod op organische tinverbindingen op schepen (PbEU L 115);  
 
@@ -45,11 +45,17 @@ n. resolutie A.673(16): resolutie A.673(16) van de Algemene Vergadering van de I
 
 o. Minister: Minister van Verkeer en Waterstaat.    
 
+### Artikel  1a  
+
+####Aanwijzing richtlijn monitoring- en informatiesysteem zeescheepvaart
+
+De richtlijn, bedoeld in artikel 1, aanhef, onderdeel z, van de Wet voorkoming verontreiniging door schepen betreft richtlijn nr. 2002/59/EG van het Europees Parlement en de Raad van 27 juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor de zeescheepvaart en tot intrekking van Richtlijn 93/75/EEG van de Raad (PbEU 2002, L 208), zoals deze laatstelijk gewijzigd is bij richtlijn nr. 2011/15/EG van de Commissie van 23 februari 2011 (PbEU 2011, L 49).  
+
 ### Artikel  2  
 
 ####Bouwdatum van een schip
 
-Als bouwdatum van een schip wordt aangemerkt de dag waarop de kiel van het schip is gelegd, dan wel de dag waarop met inachtneming van hetgeen dienaangaande in de op grond van deze regeling toepasselijke code, resoluties, richtlijnen of verordeningen is bepaald, een met de kiellegging vergelijkbaar stadium is bereikt. [Artikel 4, tweede lid, van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md) is van overeenkomstige toepassing.  
+Als bouwdatum van een schip wordt aangemerkt de dag waarop de kiel van het schip is gelegd, dan wel de dag waarop met inachtneming van hetgeen dienaangaande in de op grond van deze regeling toepasselijke code, resoluties, richtlijnen of verordeningen is bepaald, een met de kiellegging vergelijkbaar stadium is bereikt. Artikel 4, tweede lid, van het besluit is van overeenkomstige toepassing.  
 
 ### Hoofdstuk  2  
 
@@ -61,21 +67,21 @@ Als bouwdatum van een schip wordt aangemerkt de dag waarop de kiel van het schip
 
 ### Artikel  3  
 
-####Eisen op grond van verordening (EG) 417/2002
+####Eisen op grond van verordening (EU) 530/2012
 
-Een olietankschip van 150 GT of meer voldoet in aanvulling op de ingevolge [artikel 5, eerste lid, van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md) toepasselijke eisen van Bijlage I van het Verdrag mede aan de eisen van verordening (EG) 417/2002.  
+Een olietankschip van 150 GT of meer voldoet in aanvulling op de ingevolge artikel 5, eerste lid, van het besluit toepasselijke eisen van Bijlage I van het Verdrag mede aan de eisen van verordening (EU) 530/2012.  
 
 ### Artikel  4  
 
 ####Eisen op grond van de verordening (EG) 782/2003
 
-Overeenstemming met de artikelen 4 en 5 van de verordening (EG) 782/2003 is een eis als bedoeld in [artikel 8, eerste lid, van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md).  
+Overeenstemming met de artikelen 4 en 5 van de verordening (EG) 782/2003 is een eis als bedoeld in artikel 8, eerste lid, van het besluit.  
 
 ### Artikel  5  
 
 ####Alternatieve maatregel voor de beheersing van NO <sub>x</sub> -emissies
 
-De [Wet pleziervaartuigen](../../../../../../../wet/wet/pleziervaartuigen/BWBR0008366/README.md) in samenhang met de in bijlage I van richtlijn 94/25/EG opgenomen essentiële eisen voor de uitlaatemissies van voortstuwingsmotoren met betrekking tot stikstofoxiden wordt voor de toepassing van [artikel 5, vijfde en zesde lid, van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md), beschouwd als een alternatieve maatregel voor de beheersing van NO <sub>x</sub> -emissies als bedoeld in voorschrift 13.1.b.ii van Bijlage VI van het Verdrag.  
+De Wet pleziervaartuigen in samenhang met de in bijlage I van richtlijn 94/25/EG opgenomen essentiële eisen voor de uitlaatemissies van voortstuwingsmotoren met betrekking tot stikstofoxiden wordt voor de toepassing van artikel 5, vijfde en zesde lid, van het besluit, beschouwd als een alternatieve maatregel voor de beheersing van NO <sub>x</sub> -emissies als bedoeld in voorschrift 13.1.b.ii van Bijlage VI van het Verdrag.  
 
 ### Artikel  5a  
 
@@ -117,9 +123,9 @@ Offshore ondersteuningsschepen als bedoeld in paragraaf 1.5.3 van resolutie A.67
 
 De volgende schepen zijn uitgerust met voorzieningen om het sanitair afval te kunnen lozen overeenkomstig de in Bijlage IV bij het Verdrag gegeven voorschriften: 
 
-a. bestaande schepen als bedoeld in [artikel 5, vierde lid, onderdelen c en d, van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md) met een bouwdatum vóór 2 oktober 1983, voor zover naar het oordeel van de Minister praktisch uitvoerbaar;  
+a. bestaande schepen als bedoeld in artikel 5, vierde lid, onderdelen c en d, van het besluit met een bouwdatum vóór 2 oktober 1983, voor zover naar het oordeel van de Minister praktisch uitvoerbaar;  
 
-b. andere schepen dan die, bedoeld in [artikel 5, vierde lid, van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md).    
+b. andere schepen dan die, bedoeld in artikel 5, vierde lid, van het besluit.    
 
 ### Artikel  5g  
 
@@ -152,17 +158,17 @@ Deze paragraaf is van toepassing op uitrusting waarvoor bij plaatsing aan boord 
 
 a. is voorzien van het in bijlage D van richtlijn 96/98/EG weergegeven merk van overeenstemming, of  
 
-b. vergezeld gaat van een certificaat van gelijkwaardigheid of een certificaat ten behoeve van beproeving als bedoeld in de [artikelen 20](../../../../../../../wet/wet/scheepsuitrusting/BWBR0011301/README.md) en [21 van de Wet scheepsuitrusting](../../../../../../../wet/wet/scheepsuitrusting/BWBR0011301/README.md).     
+b. vergezeld gaat van een certificaat van gelijkwaardigheid of een certificaat ten behoeve van beproeving als bedoeld in de artikelen 20 en 21 van de Wet scheepsuitrusting.     
 2.  Gebruik van uitrusting waarvoor een certificaat van gelijkwaardigheid of een certificaat ten behoeve van beproeving is afgegeven, is slechts toegestaan met inachtneming van de aan het desbetreffende certificaat verbonden voorschriften of beperkingen.   
 3.  Indien een schip zich in een haven buiten de Europese Unie bevindt en het vanuit het oogpunt van tijd, vertraging en kosten redelijkerwijs niet uitvoerbaar is om uitrusting aan boord te plaatsen waarvoor overeenkomstig richtlijn 96/98/EG een EG-typegoedkeuring is verleend, mogen noodzakelijke vervangingen van uitrusting in afwijking van het eerste lid geschieden door het aan boord plaatsen van niet overeenkomstig richtlijn 96/98/EG goedgekeurde uitrusting, mits daarbij wordt voldaan aan de in artikel 16, eerste en tweede lid, van die richtlijn genoemde voorwaarden.   
-4.  Het eerste tot en met derde lid zijn niet van toepassing op de plaatsing van emissiereductietechnologieën aan boord van schepen die niet behoren tot de categorie schepen waarvoor een certificaat wordt afgegeven als bedoeld in [artikel 12, vierde lid, van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md).   
+4.  Het eerste tot en met derde lid zijn niet van toepassing op de plaatsing van emissiereductietechnologieën aan boord van schepen die niet behoren tot de categorie schepen waarvoor een certificaat wordt afgegeven als bedoeld in artikel 12, vierde lid, van het besluit.   
 
 ### Artikel  8  
 
 ####Nationale typegoedkeuringen voor scheepsuitrusting
 
 1.  Uitrusting, niet zijnde uitrusting als bedoeld in bijlage A.1 van richtlijn 96/98/EG of niet zijnde een emissiereductietechnologie, is van een door de Minister goedgekeurd type.   
-2.  De Minister kan in afwijking van artikel 7 toestaan dat aan boord van bepaalde categorieën schepen, niet zijnde schepen die behoren tot de categorie schepen waarvoor mede in verband met het voldoen aan de eisen met betrekking tot de betreffende uitrusting een van de certificaten wordt verstrekt als bedoeld in [artikel 12 van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md), uitrusting wordt geplaatst die niet aan de prestatie- en beproevingsnormen uit bijlage A.1 van richtlijn 96/98/EG voldoet, en voor die uitrusting een typegoedkeuring verlenen, mits zulks zonder gevaar voor het milieu mogelijk is.   
+2.  De Minister kan in afwijking van artikel 7 toestaan dat aan boord van bepaalde categorieën schepen, niet zijnde schepen die behoren tot de categorie schepen waarvoor mede in verband met het voldoen aan de eisen met betrekking tot de betreffende uitrusting een van de certificaten wordt verstrekt als bedoeld in artikel 12 van het besluit, uitrusting wordt geplaatst die niet aan de prestatie- en beproevingsnormen uit bijlage A.1 van richtlijn 96/98/EG voldoet, en voor die uitrusting een typegoedkeuring verlenen, mits zulks zonder gevaar voor het milieu mogelijk is.   
 3.  Aan een typegoedkeuring als bedoeld in het eerste of tweede lid kunnen beperkingen met betrekking tot het gebruik van de desbetreffende uitrusting worden verbonden.   
 
 ### Artikel  9  
@@ -182,8 +188,8 @@ Met een door de Minister verleende typegoedkeuring wordt gelijkgesteld een daara
 
 ####Vrijwaringsclausule
 
-1.  Indien ten aanzien van uitrusting die is voorzien van het merk van overeenstemming, bedoeld in bijlage D van richtlijn 96/98/EG, toepassing is gegeven aan [artikel 23, eerste lid, van de Wet scheepsuitrusting](../../../../../../../wet/wet/scheepsuitrusting/BWBR0011301/README.md), neemt de Minister passende voorlopige maatregelen om te voorkomen dat die uitrusting aan boord van schepen wordt geplaatst of gebruikt. Zonodig verbiedt hij de plaatsing of het gebruik aan boord van schepen.   
-2.  [Artikel 23, tweede lid, van de Wet scheepsuitrusting](../../../../../../../wet/wet/scheepsuitrusting/BWBR0011301/README.md) is van overeenkomstige toepassing.   
+1.  Indien ten aanzien van uitrusting die is voorzien van het merk van overeenstemming, bedoeld in bijlage D van richtlijn 96/98/EG, toepassing is gegeven aan artikel 23, eerste lid, van de Wet scheepsuitrusting, neemt de Minister passende voorlopige maatregelen om te voorkomen dat die uitrusting aan boord van schepen wordt geplaatst of gebruikt. Zonodig verbiedt hij de plaatsing of het gebruik aan boord van schepen.   
+2.  Artikel 23, tweede lid, van de Wet scheepsuitrusting is van overeenkomstige toepassing.   
 
 ### Hoofdstuk  3  
 
@@ -229,7 +235,7 @@ b. met betrekking tot een lozing in de Nederlandse exclusieve economische zone e
 
 ### Artikel  14  
 
-1.  In aanvulling op het verbod, bedoeld in [artikel 31, tweede lid, onderdeel a, van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md), is het verboden om: 
+1.  In aanvulling op het verbod, bedoeld in artikel 31, tweede lid, onderdeel a, van het besluit, is het verboden om: 
 
 a. brandstofolie te gebruiken met een zwavelgehalte van meer dan 1% aan boord van Nederlandse schepen en buitenlandse schepen gedurende de tijd dat deze zich bevinden op de Nederlandse binnenwateren;  
 
@@ -244,7 +250,7 @@ b. het gebruik van brandstoffen als bedoeld in artikel 1, tweede lid, onderdeel�
 a. schepen die volgens een gepubliceerde dienstregeling minder dan twee uur op hun ligplaats zullen liggen;  
 
 b. schepen die alle motoren uitschakelen en gebruikmaken van stroomvoorzieningen van het vasteland terwijl zij in een haven op hun ligplaats liggen.     
-4.  De Minister kan ten aanzien van Nederlandse schepen afwijking toestaan van de verboden, bedoeld in het eerste lid, en het verbod, bedoeld in [artikel 31, tweede lid, onderdeel a, van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md) wat betreft de eisen ten aanzien van het gebruik van brandstofolie in gebieden voor emissiebeheersing voor zwavel en fijnstof: 
+4.  De Minister kan ten aanzien van Nederlandse schepen afwijking toestaan van de verboden, bedoeld in het eerste lid, en het verbod, bedoeld in artikel 31, tweede lid, onderdeel a, van het besluit wat betreft de eisen ten aanzien van het gebruik van brandstofolie in gebieden voor emissiebeheersing voor zwavel en fijnstof: 
 
 a. indien aan boord van het schip door de Europese Commissie goedgekeurde emissiereductietechnologieën worden toegepast overeenkomstig artikel 4 quater, vierde lid, van richtlijn 1999/32/EG;  
 
@@ -278,7 +284,7 @@ De vaarsnelheid van ten minste 4 knopen als bedoeld in voorschrift 11.1.1 van Bi
 ####Voorschriften voor het bijhouden van journaals
 
 1.  De vrijstelling van voorschrift 14.7 in samenhang met voorschrift 14.6 van Bijlage VI van het Verdrag, is wat betreft het beheersgebied voor SO <sub>x</sub> -emissie van de Noordzee niet van toepassing.   
-2.  De verplichting, bedoeld in artikel 36, zesde lid, van het besluit is met ingang van 1 januari 2010 van overeenkomstige toepassing op kapiteins wanneer brandstofolie wordt gebruikt op de ligplaats van hun schip in een Nederlandse haven, met dien verstande dat de verplichting betrekking heeft op het gebruik van verschillende soorten brandstofolie teneinde te voldoen aan het bepaalde in [artikel 31, tweede lid, onderdeel a, van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md) in samenhang met artikel 14, vierde lid, aanhef en onderdeel c, en dat de overschakeling betrekking heeft op brandstofolie met een zwavelgehalte van minder dan of gelijk aan 1,5% en brandstofolie met een zwavelgehalte van niet meer dan 0,1%.   
+2.  De verplichting, bedoeld in artikel 36, zesde lid, van het besluit is met ingang van 1 januari 2010 van overeenkomstige toepassing op kapiteins wanneer brandstofolie wordt gebruikt op de ligplaats van hun schip in een Nederlandse haven, met dien verstande dat de verplichting betrekking heeft op het gebruik van verschillende soorten brandstofolie teneinde te voldoen aan het bepaalde in artikel 31, tweede lid, onderdeel a, van het besluit in samenhang met artikel 14, vierde lid, aanhef en onderdeel c, en dat de overschakeling betrekking heeft op brandstofolie met een zwavelgehalte van minder dan of gelijk aan 1,5% en brandstofolie met een zwavelgehalte van niet meer dan 0,1%.   
 3.  Het tweede lid is ook van toepassing op buitenlandse schepen gedurende de tijd dat deze zich bevinden op de Nederlandse binnenwateren.   
 
 ### Artikel  15a  
@@ -329,7 +335,7 @@ De ingevolge artikel 33, derde lid, van het besluit toepasselijke voorschriften 
 
 ####Uitvoering verordening (EG) 782/2003
 
-Als besluit als bedoeld in [artikel 13, derde lid, van de wet](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md) wordt aangewezen artikel 6, eerste lid, onderdeel b, in samenhang met het tweede lid, tweede alinea, van verordening (EG) 782/2003.  
+Als besluit als bedoeld in artikel 13, derde lid, van de wet wordt aangewezen artikel 6, eerste lid, onderdeel b, in samenhang met het tweede lid, tweede alinea, van verordening (EG) 782/2003.  
 
 ### Hoofdstuk  7  
 
@@ -346,7 +352,7 @@ Als besluit als bedoeld in [artikel 13, derde lid, van de wet](../../../../../..
 
 ####Wijzigingen van Codes
 
-[Artikel 42 van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md) is van overeenkomstige toepassing op de ingevolge deze regeling toepasselijke codes en resoluties.  
+Artikel 42 van het besluit is van overeenkomstige toepassing op de ingevolge deze regeling toepasselijke codes en resoluties.  
 
 ### Artikel  18  
 
@@ -359,7 +365,7 @@ Als besluit als bedoeld in [artikel 13, derde lid, van de wet](../../../../../..
 ### Artikel  19  
 
 1.   Wijzigt de Regeling uitvoering EG-verordeningen Wvvs.    
-2.  De [regeling van de Minister van Verkeer en Waterstaat van 3 februari 1997](../../../../../../../ministeriele-regeling/regeling/modellen/certificaten/voorkoming/verontreiniging/door/schepen/BWBR0008534/README.md), nr. DGSM/J-97000025 Directoraat-Generaal Scheepvaart en Maritieme Zaken, houdende vaststelling model Internationaal certificaat van voorkoming van verontreiniging door olie en Internationaal certificaat van voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk (Stcrt. 28) wordt ingetrokken.   
+2.  De regeling van de Minister van Verkeer en Waterstaat van 3 februari 1997, nr. DGSM/J-97000025 Directoraat-Generaal Scheepvaart en Maritieme Zaken, houdende vaststelling model Internationaal certificaat van voorkoming van verontreiniging door olie en Internationaal certificaat van voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk (Stcrt. 28) wordt ingetrokken.   
 
 ### Artikel  20  
 

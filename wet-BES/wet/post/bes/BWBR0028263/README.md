@@ -10,7 +10,7 @@
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *Onze Minister:* Onze Minister van Economische Zaken  
+a. *Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. *openbaar lichaam:* het openbaar lichaam Bonaire, Sint Eustatius of Saba;  
 
@@ -217,7 +217,7 @@ c. degene, die onbevoegd gebruik maakt van één of meer der in onderdeel b bedo
 
 ### Artikel  18  
 
-1.  Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) bedoelde ambtenaren, belast de daartoe door Onze Minister, in overeenstemming met Onze Minister van Justitie aangewezen personen. Een zodanige aanwijzing wordt bekend gemaakt in de Staatscourant. Zij zijn bevoegd tot aanhouding en visitatie van vaar- en voertuigen waarmede de overtreding vermoed wordt te zijn begaan.   
+1.  Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) bedoelde ambtenaren, belast de daartoe door Onze Minister, in overeenstemming met Onze Minister van Veiligheid en Justitie aangewezen personen. Een zodanige aanwijzing wordt bekend gemaakt in de Staatscourant. Zij zijn bevoegd tot aanhouding en visitatie van vaar- en voertuigen waarmede de overtreding vermoed wordt te zijn begaan.   
 2.  De stukken, waarmee de overtreding vermoed wordt te zijn gepleegd worden in beslag genomen. Van de aanhouding der stukken wordt aan de geadresseerde kennis gegeven.   
 3.  De in beslag genomen stukken worden na afloop van het strafgeding aan de geadresseerde uitgereikt, tenzij daaromtrent bij rechterlijke vonnis anders is beslist.   
 
@@ -255,8 +255,8 @@ Gerechtelijke procedures die zijn aangevangen vóór het tijdstip van het in wer
 ### Artikel  27  
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen over de in deze wet geregelde onderwerpen, in het kader van de goede uitvoering van deze wet, nadere regels worden gesteld. Voorts kunnen bij algemene maatregel van bestuur regels worden gesteld waarbij artikelen van de [Postwet 2009](../../../../../wet/postwet/2009/BWBR0025572/README.md) geheel of gedeeltelijk van toepassing worden verklaard op een openbaar lichaam, dan wel regels worden gesteld die overeenkomen met de in die wet geregelde onderwerpen.   
-2.  In afwijking van artikel 15, eerste lid, kan bij algemene maatregel van bestuur het toezicht op de daarbij aangegeven onderwerpen worden opgedragen aan het college genoemd in [artikel 2 van de Wet Onafhankelijke post- en telecommunicatieautoriteit](../../../../../wet/wet/onafhankelijke/post-/en/telecommunicatieautoriteit/BWBR0008807/README.md). Bij het uitoefenen van de opgedragen toezichtstaken is het college bevoegd de bevoegdheden van artikel 15 toe te passen.   
-3.  Bij algemene maatregel van bestuur kunnen taken worden opgedragen en bevoegdheden worden verleend aan het college genoemd in [artikel 2 van de Wet Onafhankelijke post- en telecommunicatieautoriteit](../../../../../wet/wet/onafhankelijke/post-/en/telecommunicatieautoriteit/BWBR0008807/README.md) of aan een of meer bestuursorganen van een openbaar lichaam.   
+2.  In afwijking van artikel 15, eerste lid, kan bij algemene maatregel van bestuur het toezicht op de daarbij aangegeven onderwerpen worden opgedragen aan de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt. Bij het uitoefenen van de opgedragen toezichtstaken is de Autoriteit Consument en Markt bevoegd de bevoegdheden van artikel 15 toe te passen.   
+3.  Bij algemene maatregel van bestuur kunnen taken worden opgedragen en bevoegdheden worden verleend aan de Autoriteit Consument en Markt of aan een of meer bestuursorganen van een openbaar lichaam.   
 
 ### Artikel  27a  
 

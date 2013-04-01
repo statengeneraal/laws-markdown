@@ -22,13 +22,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 *afnemer:* natuurlijke persoon die onderdaan is van een lidstaat of die rechten heeft die hem door communautaire besluiten zijn verleend, of een rechtspersoon in de zin van artikel 48 van het Verdrag die in een lidstaat is gevestigd en, al dan niet voor beroepsdoeleinden, van een dienst gebruik maakt of wil maken;  
 
+*Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);  
+
 *bevoegde instantie:* bestuursorgaan, een ander orgaan of een autoriteit, dat of die een toezichthoudende, vergunningverlenende of regelgevende rol vervult ten aanzien van diensten;  
 
 *centraal loket:* het centraal loket, bedoeld in artikel 5, eerste lid;  
 
 *consument:* afnemer die een natuurlijke persoon is, niet handelend in de uitoefening van een beroep of bedrijf;  
-
-*Consumentenautoriteit:* de Consumentenautoriteit, bedoeld in [artikel 2.1 van de Wet handhaving consumentenbescherming](../../../wet/wet/handhaving/consumentenbescherming/BWBR0020586/README.md);  
 
 *dienst:* economische activiteit, anders dan in loondienst, die gewoonlijk tegen vergoeding geschiedt, als bedoeld in artikel 50 van het Verdrag;  
 
@@ -136,7 +136,7 @@ b. ten behoeve van zakelijke afnemers:
 
 ### Artikel  6  
 
-1.  De Consumentenautoriteit draagt zorg voor de inrichting, instandhouding, werking en beveiliging van een informatiepunt met behulp waarvan ten behoeve van consumenten: 
+1.  De Autoriteit Consument en Markt draagt zorg voor de inrichting, instandhouding, werking en beveiliging van een informatiepunt met behulp waarvan ten behoeve van consumenten: 
 
 a. informatie toegankelijk wordt gemaakt in verband met het afnemen van diensten in Nederland of een andere lidstaat;  
 
@@ -274,7 +274,7 @@ f. de namen en adresgegevens van verenigingen of organisaties zonder winstoogmer
 
 ### Artikel  18  
 
-De Consumentenautoriteit maakt via het informatiepunt voor consumenten toegankelijk: 
+De Autoriteit Consument en Markt maakt via het informatiepunt voor consumenten toegankelijk: 
 
 a. de informatie, bedoeld in artikel 7, onderdelen a en c;  
 
@@ -332,7 +332,7 @@ c. namen en adresgegevens van verenigingen en organisaties zonder winstoogmerk u
 
 ### Artikel  24  
 
-De Consumentenautoriteit verstrekt een consument op diens verzoek: 
+De Autoriteit Consument en Markt verstrekt een consument op diens verzoek: 
 
 a. algemene informatie over in de andere lidstaten geldende eisen inzake de toegang tot en uitoefening van diensten, in het bijzonder die inzake consumentenbescherming;  
 
@@ -346,12 +346,12 @@ Een bevoegde instantie verstrekt een afnemer op diens verzoek algemene informati
 
 ### Artikel  26  
 
-Op een informatieverzoek als bedoeld in de artikelen 23 tot en met 25 is artikel 12, tweede tot en met zesde lid, van overeenkomstige toepassing, met dien verstande dat de behandeling van een tot Onze Minister gericht verzoek geschiedt via het centraal loket en een tot de Consumentenautoriteit gericht verzoek via het informatiepunt.  
+Op een informatieverzoek als bedoeld in de artikelen 23 tot en met 25 is artikel 12, tweede tot en met zesde lid, van overeenkomstige toepassing, met dien verstande dat de behandeling van een tot Onze Minister gericht verzoek geschiedt via het centraal loket en een tot de Autoriteit Consument en Markt gericht verzoek via het informatiepunt.  
 
 ### Artikel  27  
 
 1.  Onze Minister verstrekt aan een relevante organisatie als bedoeld in artikel 21, derde lid, van de richtlijn op verzoek informatie als bedoeld in artikel 21, eerste lid, onderdelen a tot en met c, van de richtlijn, voor Nederland ten behoeve van zakelijke afnemers.   
-2.  De Consumentenautoriteit verstrekt aan een relevante organisatie als bedoeld in artikel 21, derde lid, van de richtlijn op verzoek informatie als bedoeld in artikel 21, eerste lid, onderdelen a tot en met c, van de richtlijn, voor Nederland ten behoeve van consumenten.   
+2.  De Autoriteit Consument en Markt verstrekt aan een relevante organisatie als bedoeld in artikel 21, derde lid, van de richtlijn op verzoek informatie als bedoeld in artikel 21, eerste lid, onderdelen a tot en met c, van de richtlijn, voor Nederland ten behoeve van consumenten.   
 3.  Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van op grond van artikel 21, derde lid, laatste volzin en artikel 21, vierde lid, van de richtlijn vastgestelde praktische regelingen en uitvoeringsmaatregelen.   
 
 ### Hoofdstuk  5  
@@ -649,6 +649,8 @@ Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van door 
 ### Hoofdstuk  6a  
 
 ####Naleving verplichtingen door bevoegde instanties
+
+Vervallen per 13-06-2012   
 
 ### Hoofdstuk  7  
 

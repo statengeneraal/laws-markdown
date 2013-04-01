@@ -24,7 +24,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a. landgebonden voorziening, niet zijnde een drinkwaterbedrijf, voor de productie of distributie van water dat met behulp van een leiding of distributienet aan consumenten of andere afnemers als drinkwater of warm tapwater ter beschikking wordt gesteld;  
 
-b. voorziening voor de productie of distributie van water op een binnen het Nederlandse territoir gelegen mijnbouwinstallatie als bedoeld in [artikel 1, onderdeel o, van de Mijnbouwwet](../../../wet/mijnbouwwet/BWBR0014168/README.md), welk water als drinkwater of warm tapwater aan consumenten binnen die mijnbouwinstallatie ter beschikking wordt gesteld;    
+b. voorziening voor de productie of distributie van water op een binnen het Nederlandse territoir gelegen mijnbouwinstallatie als bedoeld in artikel 1, onderdeel o, van de Mijnbouwwet, welk water als drinkwater of warm tapwater aan consumenten binnen die mijnbouwinstallatie ter beschikking wordt gesteld;    
 
 *distributie:* transport en levering;  
 
@@ -90,7 +90,7 @@ d. stichting ten aanzien waarvan bij besluit van Onze Minister is vastgesteld da
 2.  Bij algemene maatregel van bestuur kan worden bepaald dat een of meer daarbij aan te geven artikelen van deze wet niet van toepassing zijn op water dat uitsluitend bestemd is voor bij die maatregel aangegeven doeleinden, waarbij de kwaliteit van het water niet van invloed is op de gezondheid van de betrokken consumenten. Bij of krachtens die maatregel kunnen nadere eisen worden gesteld aan de productie, distributie en het gebruik van dit water.   
 3.  Voor de uitvoering en naleving van deze wet en de daarop berustende bepalingen wordt met de eigenaar van een drinkwaterbedrijf, collectieve watervoorziening of collectief leidingnet, indien deze niet zelf dat bedrijf, die voorziening of dat leidingnet exploiteert, gelijkgesteld de exploitant daarvan, voor zover het betreft de uitvoering van maatregelen of de naleving van verplichtingen die, naar gebruikelijk is, behoren tot de bevoegdheid van een exploitant.   
 4.  Onze Minister kan een of meer bedrijven aanwijzen die voor de toepassing van hoofdstuk II, met uitzondering van de artikelen 5, tweede lid, en 8, met een drinkwaterbedrijf worden gelijkgesteld.   
-5.  De artikelen van deze wet en de daarop berustende bepalingen, voor zover betrekking hebbend op collectieve watervoorzieningen, zijn mede van toepassing op voorzieningen voor de winning, behandeling of distributie van water op een binnen het Nederlandse deel van het continentale plat gelegen mijnbouwinstallatie als bedoeld in [artikel 1, onderdeel o, van de Mijnbouwwet](../../../wet/mijnbouwwet/BWBR0014168/README.md), welk water als drinkwater aan consumenten binnen die mijnbouwinstallatie ter beschikking wordt gesteld.   
+5.  De artikelen van deze wet en de daarop berustende bepalingen, voor zover betrekking hebbend op collectieve watervoorzieningen, zijn mede van toepassing op voorzieningen voor de winning, behandeling of distributie van water op een binnen het Nederlandse deel van het continentale plat gelegen mijnbouwinstallatie als bedoeld in artikel 1, onderdeel o, van de Mijnbouwwet, welk water als drinkwater aan consumenten binnen die mijnbouwinstallatie ter beschikking wordt gesteld.   
 6.  In geval van levering van warm tapwater aan consumenten of andere afnemers zijn de artikelen van de hoofdstukken III, VI, VII en VIII en de daarop berustende bepalingen van overeenkomstige toepassing.   
 7.  De voordracht voor een krachtens deze wet vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.   
 
@@ -118,7 +118,7 @@ De zorg, overeenkomstig deze wet en de daarop berustende bepalingen, voor een vo
 a. drinkwater te produceren voor consumenten of andere afnemers,  
 
 b. drinkwater te distribueren aan consumenten of andere afnemers.     
-2.  De verboden, bedoeld in het eerste lid, gelden niet voor degene die een inrichting in de zin van de [Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) drijft, voor zover drinkwater wordt geproduceerd voor, of wordt geleverd aan: 
+2.  De verboden, bedoeld in het eerste lid, gelden niet voor degene die een inrichting in de zin van de Wet milieubeheer drijft, voor zover drinkwater wordt geproduceerd voor, of wordt geleverd aan: 
 
 a. consumenten of andere afnemers binnen die inrichting, dan wel  
 
@@ -127,14 +127,14 @@ b. consumenten of andere afnemers binnen een andere inrichting, voor zover die a
 1°. voorheen deel uitmaakte van de in de aanhef bedoelde inrichting, of  
 
 2°. voor 25 februari 2005 was aangesloten op de collectieve watervoorziening van de in de aanhef bedoelde inrichting.       
-3.  De verboden, bedoeld in het eerste lid, gelden voorts niet voor de eigenaar van een voorziening voor de productie of distributie van water op een binnen het Nederlandse territoir of het Nederlandse deel van het continentale plat gelegen mijnbouwinstallatie als bedoeld in [artikel 1, onderdeel o, van de Mijnbouwwet](../../../wet/mijnbouwwet/BWBR0014168/README.md), welk water als drinkwater aan consumenten binnen die mijnbouwinstallatie ter beschikking wordt gesteld.   
+3.  De verboden, bedoeld in het eerste lid, gelden voorts niet voor de eigenaar van een voorziening voor de productie of distributie van water op een binnen het Nederlandse territoir of het Nederlandse deel van het continentale plat gelegen mijnbouwinstallatie als bedoeld in artikel 1, onderdeel o, van de Mijnbouwwet, welk water als drinkwater aan consumenten binnen die mijnbouwinstallatie ter beschikking wordt gesteld.   
 4.  Het verbod, bedoeld in het eerste lid, aanhef en onderdeel b, geldt voorts niet voor de eigenaar van een collectief leidingnet, 
 
 a. voor zover dat leidingnet deel uitmaakt van: 
 
-1°. een gebouw als bedoeld in [artikel 1, eerste lid, onder c, van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md);  
+1°. een gebouw als bedoeld in artikel 1, eerste lid, onder c, van de Woningwet;  
 
-2°. een terrein of plaats, geheel of gedeeltelijk ingericht, en blijkens die inrichting bestemd, om daarop ten behoeve van recreatief nachtverblijf gelegenheid te geven tot het plaatsen of geplaatst houden van tenten, tentwagens, kampeerauto’s of voertuigen of gewezen voertuigen of gedeelten daarvan, voor zover geen bouwwerk zijnde, waarvoor ingevolge [artikel 40 van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md) een bouwvergunning vereist is; een en ander voor zover deze onderkomens of voertuigen geheel of ten dele blijvend zijn bestemd of opgericht dan wel worden of kunnen worden gebruikt voor recreatief nachtverblijf;  
+2°. een terrein of plaats, geheel of gedeeltelijk ingericht, en blijkens die inrichting bestemd, om daarop ten behoeve van recreatief nachtverblijf gelegenheid te geven tot het plaatsen of geplaatst houden van tenten, tentwagens, kampeerauto’s of voertuigen of gewezen voertuigen of gedeelten daarvan, voor zover geen bouwwerk zijnde, waarvoor ingevolge artikel 40 van de Woningwet een bouwvergunning vereist is; een en ander voor zover deze onderkomens of voertuigen geheel of ten dele blijvend zijn bestemd of opgericht dan wel worden of kunnen worden gebruikt voor recreatief nachtverblijf;  
 
 3°. een bungalowpark;  
 
@@ -143,7 +143,7 @@ a. voor zover dat leidingnet deel uitmaakt van:
 5°. een bedrijfsterrein;    
 
 b. voor zover op dat leidingnet, al dan niet tijdelijk, een of meer tappunten zijn aangesloten in openbare of voor het publiek of andere personen toegankelijke terreinen of ruimten.     
-5.  Op een daartoe strekkende aanvraag kan Onze Minister aan de eigenaar van een collectieve watervoorziening of collectief leidingnet ontheffing verlenen van een verbod als bedoeld in het eerste lid, voor zover het betreft het produceren voor, of het distribueren aan, consumenten of andere afnemers binnen een of meer inrichtingen in de zin van de [Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md), indien: 
+5.  Op een daartoe strekkende aanvraag kan Onze Minister aan de eigenaar van een collectieve watervoorziening of collectief leidingnet ontheffing verlenen van een verbod als bedoeld in het eerste lid, voor zover het betreft het produceren voor, of het distribueren aan, consumenten of andere afnemers binnen een of meer inrichtingen in de zin van de Wet milieubeheer, indien: 
 
 a. de aansluiting van die inrichting of inrichtingen op het leidingnet van een drinkwaterbedrijf naar het oordeel van Onze Minister in strijd is, of zou komen, met het belang van een doelmatige openbare drinkwatervoorziening, en  
 
@@ -156,7 +156,7 @@ a. bij de aanvraag onjuiste of onvolledige gegevens zijn verstrekt en de verstre
 b. de aan de ontheffing verbonden voorschriften of beperkingen niet worden nageleefd;  
 
 c. geen grond voor verlening van de ontheffing meer aanwezig is.     
-8.  [Afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de totstandkoming van de beschikking op aanvraag, bedoeld in het vijfde lid, en de beschikking inzake het intrekken van de ontheffing, bedoeld in het zevende lid.   
+8.  Afdeling 3.4 van de Algemene wet bestuursrecht is van toepassing op de totstandkoming van de beschikking op aanvraag, bedoeld in het vijfde lid, en de beschikking inzake het intrekken van de ontheffing, bedoeld in het zevende lid.   
 
 ### Artikel  5  
 
@@ -213,8 +213,8 @@ b. het bijdragen aan het uit een oogpunt van volksgezondheid verantwoord omgaan 
 2°. het opstellen van technische eisen ten aanzien van de op zijn distributienet aan te sluiten en aangesloten installaties;  
 
 3°. het overeenkomstig artikel 24 uitvoeren van controles ten aanzien van bedoelde installaties.       
-3.  De infrastructuur die door de eigenaar van een drinkwaterbedrijf overeenkomstig het eerste lid, onderdeel b, is of wordt aangelegd, hersteld, vernieuwd of uitgebreid wordt voor de toepassing van de [Belemmeringenwet Verordeningen](../../../wet/belemmeringenwet/verordeningen/BWBR0001865/README.md) en de [Belemmeringenwet Privaatrecht](../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) aangemerkt als openbaar werk of openbare werken van algemeen nut.   
-4.  Indien de eigenaar van een drinkwaterbedrijf baten die zijn verkregen ter uitvoering van een taak of taken als bedoeld in het eerste of tweede lid aanwendt voor het verrichten van economische activiteiten, geschiedt de aanwending van die baten tegen condities die in het normale handelsverkeer gebruikelijk zijn voor de financiering van de desbetreffende economische activiteiten. De [artikelen 25a, aanhef en onderdeel d](../../../wet/mededingingswet/BWBR0008691/README.md), en [25b van de Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md) zijn van overeenkomstige toepassing op de eigenaren van drinkwaterbedrijven.   
+3.  De infrastructuur die door de eigenaar van een drinkwaterbedrijf overeenkomstig het eerste lid, onderdeel b, is of wordt aangelegd, hersteld, vernieuwd of uitgebreid wordt voor de toepassing van de Belemmeringenwet Verordeningen en de Belemmeringenwet Privaatrecht aangemerkt als openbaar werk of openbare werken van algemeen nut.   
+4.  Indien de eigenaar van een drinkwaterbedrijf baten die zijn verkregen ter uitvoering van een taak of taken als bedoeld in het eerste of tweede lid aanwendt voor het verrichten van economische activiteiten, geschiedt de aanwending van die baten tegen condities die in het normale handelsverkeer gebruikelijk zijn voor de financiering van de desbetreffende economische activiteiten. De artikelen 25a, aanhef en onderdeel d, en 25b van de Mededingingswet zijn van overeenkomstige toepassing op de eigenaren van drinkwaterbedrijven.   
 
 ### Artikel  8  
 
@@ -320,8 +320,8 @@ f. het aangaan van een overeenkomst waardoor de zeggenschap over een drinkwaterb
 
 ### Artikel  19  
 
-1.  Indien een drinkwaterbedrijf de rechtsvorm van een naamloze vennootschap heeft, zijn de [artikelen 158 tot en met 164](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), met uitzondering van [artikel 162, van boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van toepassing.   
-2.  Uiterlijk twaalf maanden nadat deze wet in werking is getreden, legt het bestuur aan de algemene vergadering een voorstel tot wijziging van de statuten voor. [Artikel 154, vijfde lid, tweede en derde volzin, en zesde en zevende lid, van boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn van overeenkomstige toepassing.   
+1.  Indien een drinkwaterbedrijf de rechtsvorm van een naamloze vennootschap heeft, zijn de artikelen 158 tot en met 164, met uitzondering van artikel 162, van boek 2 van het Burgerlijk Wetboek van toepassing.   
+2.  Uiterlijk twaalf maanden nadat deze wet in werking is getreden, legt het bestuur aan de algemene vergadering een voorstel tot wijziging van de statuten voor. Artikel 154, vijfde lid, tweede en derde volzin, en zesde en zevende lid, van boek 2 van het Burgerlijk Wetboek zijn van overeenkomstige toepassing.   
 
 ### Artikel  20  
 
@@ -345,7 +345,7 @@ a. de hoedanigheid van het drinkwater na de bereiding en op het punt waar het te
 
 b. het toezicht, door of vanwege de eigenaar van een drinkwaterbedrijf te houden op de toestand en de werking van het bedrijf, alsmede op de hoedanigheid van het in dat bedrijf bereide drinkwater;  
 
-c. de door de eigenaar van een drinkwaterbedrijf bij de winning, de bereiding, de opslag en de distributie van drinkwater te gebruiken materialen en chemicaliën en de wijze waarop deze daarbij worden toegepast, met dien verstande dat de eisen met betrekking tot bij de distributie te gebruiken materialen slechts betrekking hebben op materialen die geen deel uitmaken van een gebouw als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md);  
+c. de door de eigenaar van een drinkwaterbedrijf bij de winning, de bereiding, de opslag en de distributie van drinkwater te gebruiken materialen en chemicaliën en de wijze waarop deze daarbij worden toegepast, met dien verstande dat de eisen met betrekking tot bij de distributie te gebruiken materialen slechts betrekking hebben op materialen die geen deel uitmaken van een gebouw als bedoeld in artikel 1, eerste lid, onderdeel c, van de Woningwet;  
 
 d. het onderzoek dat de eigenaar van een drinkwaterbedrijf verricht in geval niet wordt voldaan aan de eisen, bedoeld in de aanhef en onder a;  
 
@@ -431,7 +431,7 @@ De eigenaar van een collectief leidingnet verstrekt de daarop aangesloten consum
 ### Artikel  29  
 
 1.  De eigenaar van een collectief leidingnet draagt er zorg voor dat het ontwerp en de staat van dat collectieve leidingnet en de daarin toe te passen materialen zodanig zijn dat deze geen omstandigheid opleveren waardoor niet voldaan wordt aan de krachtens artikel 21, derde lid, aanhef en onder a, of artikel 23 juncto voornoemde bepaling gestelde eisen, alsmede dat dat ontwerp, die staat of die materialen niet de deugdelijkheid van het drinkwater aantasten.   
-2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de aanleg, uitbreiding of wijziging van, dan wel herstelling aan, een collectief leidingnet, voor zover dat leidingnet geen deel uitmaakt van een gebouw als bedoeld in [artikel 1, eerste lid, onder c, van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md), alsmede aan de in dat leidingnet te gebruiken materialen.   
+2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de aanleg, uitbreiding of wijziging van, dan wel herstelling aan, een collectief leidingnet, voor zover dat leidingnet geen deel uitmaakt van een gebouw als bedoeld in artikel 1, eerste lid, onder c, van de Woningwet, alsmede aan de in dat leidingnet te gebruiken materialen.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen categorieën van leidingnetten worden aangewezen, waarop het eerste lid of de krachtens het tweede lid gestelde regels niet van toepassing zijn. Een zodanige aanwijzing betreft slechts leidingnetten met behulp waarvan het drinkwater niet in het kader van een commerciële of openbare activiteit ter beschikking wordt gesteld aan consumenten of andere afnemers.   
 
 ### Artikel  30  
@@ -501,7 +501,7 @@ De eigenaar van een drinkwaterbedrijf draagt zorg voor de uitvoering van een ana
 1.  De eigenaar van een drinkwaterbedrijf stelt een leveringsplan op, waarin wordt aangegeven op welke wijze aan de uitvoering van de op grond van de artikelen 32 tot en met 35 voor hem geldende verplichtingen ten aanzien van de leveringszekerheid, de dekking van de toekomstige behoefte aan drinkwater en de levering van nooddrinkwater en noodwater, wordt voldaan.   
 2.  Bij het opstellen van het leveringsplan wordt rekening gehouden met de beleidsnota inzake de openbare drinkwatervoorziening, bedoeld in artikel 6.   
 3.  Het leveringsplan behoeft de goedkeuring van de inspecteur en wordt daartoe aan hem overgelegd.   
-4.  De in het leveringsplan opgenomen gegevens, die betrekking hebben op het voorkomen van een verstoring, de voorbereiding op een verstoring dan wel het optreden in geval van een verstoring, zijn informatie als bedoeld in [artikel 10, eerste lid, aanhef en onderdeel b, van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
+4.  De in het leveringsplan opgenomen gegevens, die betrekking hebben op het voorkomen van een verstoring, de voorbereiding op een verstoring dan wel het optreden in geval van een verstoring, zijn informatie als bedoeld in artikel 10, eerste lid, aanhef en onderdeel b, van de Wet openbaarheid van bestuur.   
 
 ### Artikel  38  
 
@@ -604,9 +604,9 @@ Ten behoeve van het verslag, bedoeld in artikel 45, verstrekken de eigenaren van
 ### Artikel  48  
 
 1.  Met het toezicht op de naleving van deze wet en de daarop berustende bepalingen zijn belast de door Onze Minister als zodanig aangewezen inspecteur en de overige daartoe aangewezen ambtenaren.   
-2.  In afwijking van het eerste lid zijn met het toezicht op de naleving van deze wet en de daarop berustende bepalingen belast de door Onze Minister van Economische Zaken daartoe aangewezen ambtenaren, voor zover het betreft voorzieningen voor de winning, behandeling of distributie van water op een binnen het Nederlandse territoir of het Nederlandse deel van het continentale plat gelegen mijnbouwinstallatie als bedoeld in [artikel 1, onderdeel o, van de Mijnbouwwet](../../../wet/mijnbouwwet/BWBR0014168/README.md), welk water als drinkwater aan consumenten binnen die mijnbouwinstallatie ter beschikking wordt gesteld.   
+2.  In afwijking van het eerste lid zijn met het toezicht op de naleving van deze wet en de daarop berustende bepalingen belast de door Onze Minister van Economische Zaken daartoe aangewezen ambtenaren, voor zover het betreft voorzieningen voor de winning, behandeling of distributie van water op een binnen het Nederlandse territoir of het Nederlandse deel van het continentale plat gelegen mijnbouwinstallatie als bedoeld in artikel 1, onderdeel o, van de Mijnbouwwet, welk water als drinkwater aan consumenten binnen die mijnbouwinstallatie ter beschikking wordt gesteld.   
 3.  Van een besluit als bedoeld in het eerste of tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
-4.  In afwijking van het eerste en tweede lid is de Nederlandse Mededingingsautoriteit, bedoeld in [artikel 2 van de Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md), belast met het toezicht op de naleving van artikel 7, vierde lid. [Hoofdstuk 6 van de Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md) is van overeenkomstige toepassing.   
+4.  In afwijking van het eerste en tweede lid is de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt, belast met het toezicht op de naleving van artikel 7, vierde lid. Hoofdstuk 6 van de Mededingingswet is van overeenkomstige toepassing.   
 
 ### Artikel  49  
 
@@ -615,7 +615,7 @@ De eigenaar van een drinkwaterbedrijf, respectievelijk collectieve watervoorzien
 ### Artikel  50  
 
 1.  Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van deze wet en de daarop berustende bepalingen.   
-2.  In afwijking van het eerste lid is Onze Minister van Economische Zaken bevoegd tot toepassing van bestuursdwang ter handhaving van deze wet en de daarop berustende bepalingen voor zover het betreft voorzieningen voor de winning, behandeling of distributie van water op een binnen het Nederlandse territoir of het Nederlandse deel van het continentale plat gelegen mijnbouwinstallatie als bedoeld in [artikel 1, onderdeel o, van de Mijnbouwwet](../../../wet/mijnbouwwet/BWBR0014168/README.md), welk water als drinkwater aan consumenten binnen die mijnbouwinstallatie ter beschikking wordt gesteld.   
+2.  In afwijking van het eerste lid is Onze Minister van Economische Zaken bevoegd tot toepassing van bestuursdwang ter handhaving van deze wet en de daarop berustende bepalingen voor zover het betreft voorzieningen voor de winning, behandeling of distributie van water op een binnen het Nederlandse territoir of het Nederlandse deel van het continentale plat gelegen mijnbouwinstallatie als bedoeld in artikel 1, onderdeel o, van de Mijnbouwwet, welk water als drinkwater aan consumenten binnen die mijnbouwinstallatie ter beschikking wordt gesteld.   
 
 ### Hoofdstuk  VIII  
 
@@ -683,23 +683,19 @@ Aan de in artikel 41, eerste lid, bedoelde verplichting wordt voor de eerste maa
 
 ### Artikel  63  
 
-1.  De bevoegdheid, de gemeenteraad toekomend ingevolge [artikel 149 van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md), blijft ten aanzien van een onderwerp, waarin deze wet of de daarop berustende bepalingen voorzien, gehandhaafd voor zover de door hem te maken verordeningen niet met deze wet in strijd zijn.   
-2.  In afwijking van de [artikelen 119 van de Provinciewet](../../../wet/provinciewet/BWBR0005645/README.md) en [122 van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md) heeft de inwerkingtreding van deze wet slechts ten aanzien van de gevallen, waarin strijd met deze wet of de daarop berustende bepalingen zou ontstaan, tot gevolg, dat de verordeningen van provinciale staten en van gemeenteraden betreffende de onderwerpen, waarin deze wet of de daarop berustende bepalingen voorzien, van rechtswege ophouden te gelden.   
-
-### Artikel  64  
-
-De bezoldiging van werknemers en bestuurders in een drinkwaterbedrijf is niet hoger dan een bij ministerieel besluit vast te stellen norm.  
+1.  De bevoegdheid, de gemeenteraad toekomend ingevolge artikel 149 van de Gemeentewet, blijft ten aanzien van een onderwerp, waarin deze wet of de daarop berustende bepalingen voorzien, gehandhaafd voor zover de door hem te maken verordeningen niet met deze wet in strijd zijn.   
+2.  In afwijking van de artikelen 119 van de Provinciewet en 122 van de Gemeentewet heeft de inwerkingtreding van deze wet slechts ten aanzien van de gevallen, waarin strijd met deze wet of de daarop berustende bepalingen zou ontstaan, tot gevolg, dat de verordeningen van provinciale staten en van gemeenteraden betreffende de onderwerpen, waarin deze wet of de daarop berustende bepalingen voorzien, van rechtswege ophouden te gelden.   
 
 ### Artikel  65  
 
-1.  De [Waterleidingwet](../../../wet/waterleidingwet/BWBR0002246/README.md) wordt ingetrokken op het tijdstip waarop deze wet in werking treedt, met dien verstande dat [hoofdstuk III van die wet](../../../wet/waterleidingwet/BWBR0002246/README.md), zoals die onmiddellijk voorafgaand aan dat tijdstip luidt, ook na dat tijdstip van toepassing blijft op plannen tot reorganisatie van de openbare drinkwatervoorziening in gevallen waarbij op dat tijdstip de overgang van een distributiegebied als bedoeld in [artikel 21, tweede lid, van die wet](../../../wet/waterleidingwet/BWBR0002246/README.md), nog niet is voltooid.   
-2.  In afwijking van de artikelen 3 en 15 van deze wet kan, voor de periode gedurende welke dat nodig is voor de uitvoering van een plan tot reorganisatie als bedoeld in [hoofdstuk III van de Waterleidingwet](../../../wet/waterleidingwet/BWBR0002246/README.md), een distributiegebied worden toegewezen aan een drinkwaterbedrijf dat niet of niet geheel voldoet aan de voorwaarden, bedoeld in onderdeel b van de definitie van gekwalificeerde rechtspersoon, opgenomen in artikel 1, eerste lid, van deze wet.   
-3.  Met ingang van het tijdstip van de inwerkingtreding van deze wet berust de [Regeling distributiegebieden waterleidingbedrijven](../../../ministeriele-regeling/regeling/distributiegebieden/waterleidingbedrijven/BWBR0017743/README.md) op artikel 5, eerste lid.   
-4.  Met ingang van het tijdstip van de inwerkingtreding van deze wet berust het [Besluit aanwijzing ambtenaren VROM-regelgeving](../../../ministeriele-regeling/besluit/aanwijzing/ambtenaren/vrom-regelgeving/BWBR0017740/README.md), voor zover dat onmiddellijk voorafgaand aan dat tijdstip berustte op de [Waterleidingwet](../../../wet/waterleidingwet/BWBR0002246/README.md), op artikel 48, eerste lid.   
+1.  De Waterleidingwet wordt ingetrokken op het tijdstip waarop deze wet in werking treedt, met dien verstande dat hoofdstuk III van die wet, zoals die onmiddellijk voorafgaand aan dat tijdstip luidt, ook na dat tijdstip van toepassing blijft op plannen tot reorganisatie van de openbare drinkwatervoorziening in gevallen waarbij op dat tijdstip de overgang van een distributiegebied als bedoeld in artikel 21, tweede lid, van die wet, nog niet is voltooid.   
+2.  In afwijking van de artikelen 3 en 15 van deze wet kan, voor de periode gedurende welke dat nodig is voor de uitvoering van een plan tot reorganisatie als bedoeld in hoofdstuk III van de Waterleidingwet, een distributiegebied worden toegewezen aan een drinkwaterbedrijf dat niet of niet geheel voldoet aan de voorwaarden, bedoeld in onderdeel b van de definitie van gekwalificeerde rechtspersoon, opgenomen in artikel 1, eerste lid, van deze wet.   
+3.  Met ingang van het tijdstip van de inwerkingtreding van deze wet berust de Regeling distributiegebieden waterleidingbedrijven op artikel 5, eerste lid.   
+4.  Met ingang van het tijdstip van de inwerkingtreding van deze wet berust het Besluit aanwijzing ambtenaren VROM-regelgeving, voor zover dat onmiddellijk voorafgaand aan dat tijdstip berustte op de Waterleidingwet, op artikel 48, eerste lid.   
 
 ### Artikel  66  
 
-Het [Besluit bescherming waterleidingbedrijven 1989](../../../AMvB/besluit/bescherming/waterleidingbedrijven/1989/BWBR0004603/README.md) wordt ingetrokken op het tijdstip waarop deze wet in werking treedt.  
+Het Besluit bescherming waterleidingbedrijven 1989 wordt ingetrokken op het tijdstip waarop deze wet in werking treedt.  
 
 ### Artikel  67  
 

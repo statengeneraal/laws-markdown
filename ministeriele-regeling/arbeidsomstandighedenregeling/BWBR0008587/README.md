@@ -31,7 +31,7 @@ In deze regeling wordt verstaan onder:   a. besluit:  het [Arbeidsomstandigheden
 
 ####Jaarverslag
 
-In het jaarverslag van een certificerende instelling, bedoeld in [artikel 1.5b, eerste lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) worden ten minste de volgende onderwerpen behandeld: 
+In het jaarverslag van een certificerende instelling, bedoeld in [artikel 1.5e, eerste lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) worden ten minste de volgende onderwerpen behandeld: 
 
 a. de door de instelling afgegeven, ingetrokken, geschorste dan wel geweigerde certificaten;  
 
@@ -371,97 +371,37 @@ c. op welke wijze de persoonlijke levenssfeer van individuen wordt gewaarborgd.
 
 ####Aanwijzing certificerende instelling
 
-Als certificerende instelling als bedoeld in [artikel 2.14, eerste en tweede lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) kan worden aangewezen een instelling die voldoet aan de criteria, opgenomen in de Regeling Certificatie Arbodiensten, 7e versie, d.d. 1 juli 2008, van de Stichting Beheer Certificatieregeling Arbodiensten.  
+Als certificerende instelling als bedoeld in [artikel 2.14, eerste en tweede lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), kan worden aangewezen een instelling die voldoet aan de eisen vastgelegd in het Werkveldspecifiek document voor aanwijzing en toezicht (WDA&T op certificatie-instellingen behorend bij het Certificatieschema voor de dienstverlening door Arbodiensten: document: WDA&T-Arbodiensten 2012, versie 01, opgenomen in bijlage IIa bij de regeling.  
 
-### Artikel  2.11  
+### Artikel  2.8  
 
-####Afgifte certificaat arbodienst
+####Eisen aan de arbodienst
 
-1.  Een certificaat arbodienst als bedoeld in [artikel 2.14, eerste lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) wordt door de minister of, indien de minister een certificerende instelling als bedoeld in artikel 2.7 heeft aangewezen, de certificerende instelling, afgegeven indien de bijstand bij de taken, bedoeld in [artikel 14, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) naar behoren kan worden uitgevoerd, en wordt voldaan aan de [artikelen 13, zesde lid](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [14, derde lid](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [14a, vierde lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), de [artikelen 2.7](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) en [2.9 tot en met 2.12 van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), de artikelen 2.1 tot en met 2.4, 2.6 en 2.12, eerste lid, en bij de uitvoering van taken een kwaliteitssysteem wordt gehanteerd, dat bewerkstelligt dat aan deze wettelijke vereisten wordt voldaan en dat voldoet aan normen, waarmee de belanghebbende groeperingen hebben ingestemd.   
-2.  Een certificaat arbodienst als bedoeld in [artikel 2.14, tweede lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) wordt door de minister of, indien de minister een certificerende instelling als bedoeld in artikel 2.7 heeft aangewezen, de certificerende instelling, afgegeven indien de bijstand bij de taken, bedoeld in [artikel 14, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) naar behoren kan worden uitgevoerd, en wordt voldaan aan de [artikelen 13, zesde lid](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [14, derde lid](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [14a, vierde lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), de [artikelen 2.7](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [2.9](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [2.11](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) en [2.12 van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), de artikelen 2.1 tot en met 2.4, 2.6 en 2.13, eerste lid, en bij de uitvoering van taken een kwaliteitssysteem wordt gehanteerd, dat bewerkstelligt dat aan deze wettelijke vereisten wordt voldaan en dat voldoet aan normen waarmee de belanghebbende groeperingen hebben ingestemd.   
-3.  Een certificaat als bedoeld in het eerste en tweede lid, wordt afgegeven voor een periode van ten hoogste vier jaar.   
-
-### Artikel  2.12  
-
-####Verstrekken gegevens bij aanvraag certificaat externe arbodienst
-
-1.  Een externe arbodienst verstrekt aan de minister dan wel, indien de minister een certificerende instelling als bedoeld in artikel 2.7 heeft aangewezen, aan de certificerende instelling, bij de aanvraag van een certificaat arbodienst als bedoeld in artikel 2.11, eerste lid, de volgende gegevens: 
-
-a. met betrekking tot de deskundigen die voor de arbodienst werkzaam zijn: 
-
-1º. een overzicht van het aantal deskundigen, bedoeld in [artikel 2.7, eerste lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md);  
-
-2º. een overzicht van het aantal bedrijfartsen, bedoeld in [artikel 14, eerste lid, aanhef van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en het aantal deskundigen dat per vakgebied, bedoeld in [artikel 2.7, tweede lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), aan de arbodienst verbonden zijn, waarbij tevens het aantal formatieplaatsen en de wijze waarop de bedrijfartsen en de deskundigen aan de dienst verbonden zijn, worden vermeld;  
-
-3°. Van elk van de bedrijfartsen een afschrift van hun bewijs van inschrijving in het register, bedoeld in [artikel 14, eerste lid, aanhef, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);  
-
-4º. van elk van de deskundigen een afschrift van het certificaat van vakbekwaamheid, bedoeld in [artikel 2.7, tweede lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), en  
-
-5º. het aantal deskundigen op andere vakgebieden en de aard van die deskundigheden;    
-
-b. met betrekking tot de organisatie-eisen, bedoeld in [artikel 2.10 van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md): 
-
-1º. een actueel bewijs van inschrijving bij de Kamer van Koophandel en de statuten van de arbodienst, en  
-
-2º. een afschrift van de arbeidsovereenkomst voor onbepaalde tijd dan wel van de publiekrechtelijke aanstelling van de bedrijfartsen en de deskundigen in vaste dienst, waarbij de omvang van het dienstverband wordt vermeld;    
-
-c. met betrekking tot de werkgevers aan wie bijstand wordt verleend: 
-
-1º. een lijst van verzorgde bedrijven, waarin opgenomen zijn de namen, adressen en telefoonnummers van die bedrijven en hun vestigingen, de economische hoofdactiviteit en het aantal werknemers per bedrijf of vestiging, en  
-
-2º. een overzicht van het totaal aantal verzorgde werknemers.       
-2.  Indien een externe arbodienst niet de in het eerste lid, onder a tot en met c, bedoelde gegevens verstrekt, wordt de aanvraag van het certificaat arbodienst niet in behandeling genomen.   
-
-### Artikel  2.13  
-
-####Verstrekken gegevens bij aanvraag certificaat interne arbodienst
-
-1.  De werkgever verstrekt aan de minister of, indien de minister een certificerende instelling als bedoeld in artikel 2.7 heeft aangewezen, aan de certificerende instelling, bij de aanvraag van een certificaat arbodienst als bedoeld in artikel 2.11, tweede lid, de volgende gegevens: 
-
-a. met betrekking tot de deskundigen die voor de arbodienst werkzaam zijn: 
-
-1º. een overzicht van het aantal deskundigen, bedoeld in [artikel 2.7, eerste lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md);  
-
-2º. een overzicht van het aantal bedrijfartsen, bedoeld in [artikel 14, eerste lid, aanhef van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en het aantal deskundigen dat per vakgebied, bedoeld in [artikel 2.7, tweede lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), binnen de arbodienst werkzaam zijn;  
-
-3º. een afschrift van de arbeidsovereenkomst voor onbepaalde tijd of publiekrechtelijke aanstelling in vaste dienst van de bedrijfartsen en de deskundigen in vaste dienst, waarbij de omvang van het dienstverband en het aantal formatieplaatsen worden vermeld;  
-
-4°. Van elk van de bedrijfartsen een afschrift van hun bewijs van inschrijving in het register, bedoeld in [artikel 14, eerste lid, aanhef, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);  
-
-5º. van elk van de deskundigen een afschrift van het certificaat van vakbekwaamheid, bedoeld in [artikel 2.7, tweede lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), en  
-
-6º. het aantal deskundigen op andere vakgebieden en de aard van die deskundigheden;    
-
-b. met betrekking tot zijn bedrijf of de vestigingen van zijn bedrijf: 
-
-1º. naam, adres en telefoonnummer van het bedrijf of vestigingen, de economische hoofdactiviteit en het aantal werknemers van het bedrijf of van elke vestiging, en  
-
-2º. een overzicht van het totaal aantal verzorgde werknemers;       
-2.  Indien de werkgever niet de in het eerste lid, onder a en b, bedoelde gegevens verstrekt, wordt de aanvraag van het certificaat arbodienst niet in behandeling genomen.   
+Een certificaat arbodienst als bedoeld in [artikel 2.14, eerste en tweede lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) wordt door de minister of, indien de minister een instelling heeft aangewezen als bedoeld in artikel 2.7, door die instelling afgegeven indien wordt voldaan aan de eisen vastgelegd in het Werkveldspecifiek certificatieschema voor de Dienstverlening door Arbodiensten: document: WSCS-Arbodiensten: 2012, versie 1, opgenomen in bijlage IIb bij de regeling.  
 
 ### Artikel  2.14  
 
 ####Eisen voor de aanwijzing als certificerende instelling op het werkveld arbodeskundigen
 
-Een aanwijzing als certificerende instelling als bedoeld in [artikel 2.14, eerste lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), kan geschieden indien de aanvragende instelling voldoet aan de criteria zoals vastgelegd in het Werkveldspecifieke document voor Aanwijzing en Toezicht op de certificatieinstellingen belast met persoonscertificatie op het gebied van Arbeids- en Organisatiedeskundige, Arbeidshygiënist en Hogere Veiligheidskundige, document: WDAT-ARBO: 2012, versie 1, zoals opgenomen in bijlage IIa bij de regeling.  
+Een aanwijzing als certificerende instelling als bedoeld in [artikel 2.14, eerste lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), kan geschieden indien de aanvragende instelling voldoet aan de criteria zoals vastgelegd in het Werkveldspecifieke document voor Aanwijzing en Toezicht op de certificatieinstellingen belast met persoonscertificatie op het gebied van Arbeids- en Organisatiedeskundige, Arbeidshygiënist en Hogere Veiligheidskundige, document: WDAT-ARBO: 2012, versie 1, zoals opgenomen in bijlage IIc bij de regeling.  
 
 ### Artikel  2.15  
 
 ####Afgifte certificaat van vakbekwaamheid arbeidshygiëne
 
-Een certificaat van vakbekwaamheid arbeidshygiëne als bedoeld in [artikel 2.7, tweede lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de eisen zoals vastgelegd in het Werkveldspecifiek Certificatieschema voor het persoonscertificaat Arbeidshygiënist, document: WSCS-AH: 2012, versie 1, zoals opgenomen in bijlage IIb bij de regeling.  
+Een certificaat van vakbekwaamheid arbeidshygiëne als bedoeld in [artikel 2.7, tweede lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de eisen zoals vastgelegd in het Werkveldspecifiek Certificatieschema voor het persoonscertificaat Arbeidshygiënist, document: WSCS-AH: 2012, versie 1, zoals opgenomen in bijlage IId bij de regeling.  
 
 ### Artikel  2.16  
 
 ####Afgifte certificaat van vakbekwaamheid veiligheidskundige
 
-Een certificaat van vakbekwaamheid veiligheidskunde als bedoeld in [artikel 2.7, tweede lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de eisen zoals vastgelegd in het Werkveldspecifiek Certificatieschema voor het persoonscertificaat Hogere veiligheidskundige, document: WSCS-HVK: 2012, versie 1, zoals opgenomen in bijlage IIc bij de regeling.  
+Een certificaat van vakbekwaamheid veiligheidskunde als bedoeld in [artikel 2.7, tweede lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de eisen zoals vastgelegd in het Werkveldspecifiek Certificatieschema voor het persoonscertificaat Hogere veiligheidskundige, document: WSCS-HVK: 2012, versie 1, zoals opgenomen in bijlage IIe bij de regeling.  
 
 ### Artikel  2.17  
 
 ####Afgifte certificaat van vakbekwaamheid arbeids- en organisatiekunde
 
-Een certificaat van vakbekwaamheid arbeids- en organisatiekunde als bedoeld in [artikel 2.7, tweede lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de eisen zoals vastgelegd in het Werkveldspecifiek Certificatieschema voor het persoonscertificaat Hogere veiligheidskundige, document: WSCS-AO: 2012, versie 1, zoals opgenomen in bijlage IId bij de regeling.  
+Het certificaat van vakbekwaamheid arbeids- en organisatiekunde als bedoeld in [artikel 2.7, tweede lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de eisen vastgelegd in het Werkveldspecifiek Certificatieschema voor het persoonscertificaat Arbeids- en Organisatiedeskundige, document: WSCS-AO: 2012, versie 1, opgenomen in bijlage IIf bij de regeling.  
 
 ### Paragraaf  2.4  
 
@@ -2006,13 +1946,6 @@ c. van de Arbeidsomstandighedenregeling:
 
 ####Overgangs- en Slotbepalingen
 
-### Artikel  9.1  
-
-####Vergoeding
-
-1.  Voor de certificatie-onderzoeken in verband met de afgifte van een certificaat als bedoeld in artikel 2.11, 4.14, 4.164.17b en 7.7 en een certificaat als bedoeld in [artikel 7.29, negende lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) is een vergoeding verschuldigd van ten hoogste € 182 per uur, bijkomende kosten en BTW daaronder niet begrepen.   
-2.  Voor het bepalen van het tarief per certificaat worden de duur van de onderzoeken, bedoeld in het eerste lid, en het aantal en de soort van de verrichtingen die daarbij worden uitgevoerd alsmede de aard en de hoogte van de bijkomende kosten zo nauwkeurig mogelijk omschreven.   
-
 ### Artikel  9.2a  
 
 De afgifte van een certificaat van vakbekwaamheid arbeidshygiëne door de Stichting voor de Certificatie van Vakbekwaamheid SKO in de periode van 1 november 1999 tot 3 november 2006 wordt aangemerkt als de afgifte van een certificaat van vakbekwaamheid arbeidshygiëne als bedoeld in artikel 2.15.  
@@ -2073,6 +2006,1066 @@ f. de regelingen om de werknemers op te leiden voor het vervullen van de taken d
 g. de regelingen voor de verlening van steun aan externe bestrijdingsmaatregelen.   
 
 ### Bijlage  IIa  
+
+####behorend bij Artikel 2.7  Arbeidsomstandighedenregeling
+
+####Werkveldspecifiek document voor aanwijzing en toezicht (WDA&T) op certificatie-instellingen behorend bij het: Certificatieschema voor de dienstverlening door Arbodiensten
+
+Document: WDA&T-Arbodiensten 2012, versie 01  *Onder beheer van:*  Stichting Beheer Certificatieregeling Arbodiensten (SBCA) Postbus 12 3740 AA Baarn 
+
+####INHOUDSOPGAVE
+
+| --- | --- |
+|:---|:---|
+| 1.  | INLEIDING  |
+| 2.  | DEFINITIES  |
+| 3.  | WERKVELDSPECIFIEKE KENMERKEN  |
+| 3.1.  | Beschrijving document  |
+| 3.2.  | Actieve partijen  |
+| 3.3.  | Risicoanalyse  |
+| 4.  | EISEN TEN BEHOEVE VAN DE AANWIJZING  |
+| 4.1.  | Beoordelingscriteria  |
+| 4.2.  | Aanwijzingscriteria  |
+| 5.  | TOEZICHT  |
+| 6.  | MAATREGELEN  |
+
+### 1  
+
+####INLEIDING
+
+De dienstverlening door arbodiensten betreft een activiteit met een groot maatschappelijk belang, namelijk het voorkómen van arbeidsongevallen en ziekteverzuim alsmede het beperken van ziekteverzuim en het bevorderen van een adequate re-integratie. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling m.b.t. de dienstverlening door arbodiensten. Het certificaat wordt onder deze regeling verstrekt door CKI’s. Om certificaten te mogen verstrekken dient een CKI hiertoe te worden aangewezen door de minister. Dit gebeurt door een toetsing aan de hand van dit Document voor Aanwijzing van en Toezicht op de Certificatie en Keuringsinstellingen ten behoeve van de dienstverlening door arbodiensten. In dit document is aangegeven aan welke regels en procedures de betreffende CKI’s zich dienen te houden.  
+
+### 2  
+
+####DEFINITIES
+
+In dit document hebben onderstaande begrippen of afkortingen de volgende betekenis:  
+
+| Begrip of afkorting  | Betekenis  |
+|:---|:---|
+| Aanvrager van een certificaat  | De (rechts)persoon die bij de CKI een aanvraag doet voor het afgeven van een certificaat.  |
+| Aanwijzing  | Aanwijzing van een instelling bij of krachtens wettelijk voorschrift door de minister van SZW.  |
+| Arbodienst  | Een instantie die diensten aanbiedt op het gebied van arbeidsomstandigheden, minimaal conform [artikel 14, eerste lid van de Arbeidsomstandighedenwet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) (hierna: Arbowet). Er zijn drie (organisatie)vormen van arbodiensten te onderscheiden:  interne arbodienst: de arbodienst die opgericht is door, onderdeel uitmaakt van en diensten aanbiedt aan één bepaalde werkgever (de onderneming, zie aldaar); tevens de dienst die in geval van een joint venture of holding, optreedt binnen de onderneming of instelling waar een meerderheidsbelang bestaat;  samenwerkingsverband: de interne arbodienst als bij a), waarbij tenminste één van de verplichte kerndeskundigen in dienst is van de werkgever, met een schriftelijk vastgelegd samenwerkingsverband met de overige deskundigen dan wel hun werkgever(s);  externe arbodienst: de arbodienst die als onafhankelijk instantie, met rechtspersoonlijkheid en ingeschreven bij de Kamer van Koophandel, diensten aanbiedt.  |
+| Audit  | Systematisch, onafhankelijk en gedocumenteerd proces voor het verkrijgen van auditbewijsmateriaal en het objectief beoordelen daarvan om vast te stellen in welke mate aan overeengekomen auditcriteria is voldaan (dit overeenkomstig ISO 9000:2005).  |
+| Beheerstichting  | Stichting die een wettelijke certificatieregeling beheert  |
+| Beoordeling  | Beoordeling (initiële, of her-) door de nationale accreditatie-instelling van CKI’s op basis van het door de minister van SZW vastgestelde Document voor aanwijzing en toezicht, op grond waarvan de nationale accreditatie-instelling schriftelijk rapporteert of de instelling competent is om wettelijk verplichte certificaten af te geven. Bij het vaststellen van het document door de minister van SZW wordt zoveel mogelijk aangesloten bij internationale systematiek en normen.  |
+| Centraal College van Deskundigen (CCvD)  | Het college, onderdeel van en gefaciliteerd door de Stichting Beheer Certificatieregeling Arbodiensten (SBCA), dat belanghebbende partijen in de branche arbodienstverlening de mogelijkheid biedt tot deelname bij het opstellen en onderhouden van werkveldspecifieke documenten op zodanige wijze dat sprake is van een evenwichtige en representatieve vertegenwoordiging van deze partijen.  |
+| Certificaat  | Een certificaat in de zin van [artikel 20 Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [artikel 27 Warenwet](../../../wet/warenwet/BWBR0001969/README.md). Daarnaast moet een certificaat beschouwd worden als een verklaring van overeenstemming (conformiteitsverklaring) zoals bedoeld in relevante ISO en EN normen.  |
+| Certificaathouder  | (Rechts)persoon die in het bezit is van een geldig wettelijk verplicht certificaat.  |
+| Certificatieproces  | Alle activiteiten via welke een CKI beoordeelt en besluit of een persoon, product of systeem voldoet en blijft voldoen aan de normen, zoals opgenomen in het werkveldspecifieke certificatieschema.  |
+| Certificatiereglement  | Bepalingen voor de uitvoering van het certificatieproces en de relaties tussen kandidaat en CKI.  |
+| Certificatiesysteem  | Set van procedures en middelen benodigd om het certificatieproces uit te voeren per certificatieschema, dat leidt tot de uitgifte van een certificaat van vakbekwaamheid, inclusief onderhoud.  |
+| Certificerings- en Keuringsinstelling (CKI)  | Kalibratie- of conformiteitsbeoordelingsinstellingen zoals certificatie-instellingen, keuringsdiensten van gebruikers, laboratoria, inspectie-instellingen en testinstituten.  |
+| Certificatieschema voor de dienstverlening door arbodiensten  | Het certificatieschema zoals de CKI’s die dienen te hanteren bij het beoordelen of (potentiële) arbodiensten in aanmerking komen voor een certificaat arbodiensten.  |
+| Controle  | Periodieke beoordeling door de nationale accreditatie-instantie van CKI’s tegen de voor beoordeling geldende regels van de minister (WDA&T).  |
+| Disciplines  | De vier disciplines zoals aangegeven in [artikel 2.7, lid 1 van het Arbobesluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md):  arbeids- en bedrijfsgeneeskunde  arbeidshygiëne  veiligheidskunde  arbeids- en organisatiekunde  |
+| Huishoudelijk  Reglement  | Het huishoudelijk reglement van de CKI.  |
+| Kerndeskundigen  | Deskundige functionarissen verbonden aan een Arbodienst die zijn voorgeschreven in [afdeling 3, paragraaf 2, artikel 2.7, lid 1 van het Arbeidsomstandighedenbesluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) (veiligheidskundige, arbeids- en bedrijfsgeneeskundige, arbeidshygiënist en arbeids- en organisatiekundige) en die zijn gecertificeerd/geregistreerd conform [artikel 14, lid 1](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [20 van de Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).  |
+| Klant  | De organisatie of rechtspersoon die een product of dienst ontvangt van de arbodienst (dit overeenkomstig ISO 9000:2005).  |
+| Kwaliteitsmanagementsysteem  | Managementsysteem voor het sturen en beheersen van een organisatie met betrekking tot kwaliteit (dit overeenkomstig ISO 9000:2005).  |
+| Minister  | De Minister van Sociale Zaken en Werkgelegenheid (SZW).  |
+| Procedure  | Gespecificeerde wijze voor het uitvoeren van een activiteit of een proces (dit overeenkomstig ISO 9000:2005)  |
+| Risicoanalyse  | Analyse waaruit motivatie, voor te maken keuzes in werkveldspecifiek probleemgebied, blijkt, op te nemen in het beoogde werkveldspecifieke schema.  |
+| SBCA  | Stichting Beheer Certificatieregeling Arbodiensten (SBCA)  |
+| Toezicht  | Het verzamelen van de informatie over de vraag of een handeling of zaak voldoet aan de daaraan gestelde eisen, het zich daarna vormen van een oordeel daarover en het eventueel naar aanleiding daarvan interveniëren.  |
+| Verklaring  | De EG-verklaring van typeonderzoek of EG-verklaring overeenstemming als bedoeld in het bij of krachtens de Machinerichtlijn of enige andere EU-productrichtlijn bepaalde.  |
+| Werknemer  | De persoon die werkt bij de klant van de arbodienst op basis van een arbeidsovereenkomst of een publiekrechtelijke aanstelling.  |
+| WDAT-Arbodiensten  | Werkveldspecifiek document van aanwijzing en toezicht op certificatie-instellingen behorend bij Certificatieschema voor de dienstverlening door Arbodiensten.  |
+
+### 3  
+
+####WERKVELDSPECIFIEKE KENMERKEN
+
+### 3.1  
+
+####Beschrijving document
+
+Dit werkveldspecifieke document voor aanwijzing en toezicht ten behoeve van de dienstverlening door arbodienst van de SBCA is op (datum) door het CCvD voorgesteld en door de minister van SZW – inclusief eventuele aanpassingen – vastgesteld middels een statische verwijzing in de Arboregeling. Dit vastgestelde document vervangt daarmee eerdere versies. Op- en aanmerkingen over dit document kunnen worden ingediend bij het CCvD, per adres: SBCA, Postbus 12, 3740 AA Baarn.  
+
+### 3.2  
+
+####Actieve partijen
+
+Binnen het kader van dit document voor aanwijzing en toezicht zijn bij de opstelling betrokken geweest: 
+
+* SBCA (Stichting Beheer Certificatieregeling Arbodiensten)  
+
+* CCvD (Centraal College van Deskundigen van de SBCA)    
+
+### 3.3  
+
+####Risicoanalyse
+
+De CKI’s dienen (potentiële) arbodiensten te beoordelen met de vraag: voldoet deze (potentiële) arbodienst aan de eisen zoals die zijn neergelegd in het certificatieschema voor de dienstverlening door arbodiensten. Op hun beurt dienen ook de CKI’s te worden beoordeeld op hun certificeringsdeskundigheid. Deze beoordeling vindt plaats aan de hand van dit Werkveldspecifiek document van aanwijzing en toezicht. Dit schema berust weer voor een belangrijk deel op de internationale norm voor CKI’s: ISO/IEC 17021. Deze internationale norm kent enerzijds een aantal algemene uitgangspunten/principes en anderzijds een aantal algemene eisen voor het werk van de CKI’s.  
+
+### 4  
+
+####EISEN TEN BEHOEVE VAN DE AANWIJZING
+
+### 4.1  
+
+####Beoordelingscriteria
+
+Het beoordelen en aanwijzen van CKI’s voor systeemcertificatie vindt plaats op basis van de volgende normenstelsels: 
+
+1. NEN-EN-ISO 9001:2008  
+
+2. ISO/IEC 17021:2011  
+
+3. de van toepassing zijnde internationale Guidance documenten IAF MD 1: 2007 en IAF MD 5:2009  
+
+4. en aan de eisen die gesteld worden aan de CKI op grond van aanwijzingscriteria (zie 4.2).   
+
+### 4.1.1  
+
+####Inzet Auditors
+
+De CKI dient voor de certificatie van arbodiensten de volgende functionarissen te kunnen inzetten, het één en ander conform paragraaf 7.2 van de norm ISO 17021: 
+
+1. een lead auditor certificatie arbodiensten (= leider auditteam);  
+
+2. een tweede auditor, deskundige van een andere discipline;  
+
+3. een derde auditor, deskundige van een andere, derde discipline;  
+
+4. een coördinator certificatie arbodiensten.   De lead auditor en coördinator certificatie arbodiensten dienen een vast dienstverband met de CKI te hebben. De CKI treft een zodanige voorziening dat, naast de hiervoor genoemde aanwezigheid van drie disciplines, ook raadpleging van een deskundige van de vierde voor arbodiensten verplichte discipline op korte termijn kan plaatsvinden. *De lead-auditor* van de CKI dient te voldoen aan het volgende profiel: Opleiding: 
+
+* lead assessor voor kwaliteitssystemen conform de norm ISO 17021;  
+
+* één van de vier opleidingen voor kerndeskundigen met goed gevolg afgelegd (hogere veiligheidskunde, arbeidshygiëne, arbeids- en bedrijfsgeneeskunde en arbeids- en organisatiekunde); of  
+
+* een aantoonbaar gelijkwaardig opleidingsniveau (in verband met internationale erkenningsregelingen).   Ervaring: 
+
+* drie jaar praktische ervaring in de afgelopen tien jaar als deskundige op het gebied van arbozorg of verzuimbegeleiding. De ervaring dient voor méér dan de helft betrekking te hebben op relevante arbo-aspecten (tenminste die aspecten die worden benoemd in de Arbowetgeving); of  
+
+* drie jaar praktische ervaring als deskundige op het gebied van arbozorg of verzuimbegeleiding en over tenminste drie jaar ervaring in de certificatie van arbodiensten in de afgelopen tien jaar.   Bekwaamheid: 
+
+* vakkennis bijhouden conform de registratie- en certificatievereisten die wettelijk worden opgelegd aan de kerndeskundigen conform de artikelen 2.15 (arbeidshygiënisten), 2.16 (veiligheidskundigen) en 2.17 (arbeids- en organisatiedeskundigen) van de Arboregeling. De bedrijfsarts is geregistreerd in het specialistenregister dat verplicht is gesteld op basis van de [Wet op de beroepen in de individuele gezondheidszorg](../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) (BIG), en dient op basis daarvan de vakbekwaamheid bij te houden.  
+
+* minimaal tien auditdagen per jaar besteden aan het auditeren van managementsystemen;  
+
+* deelnemen aan afstemming tussen de verschillende auditoren van de CKI’s (door middel van de Harmonisatiedagen van de SBCA) en het Centraal College van Deskundigen van de SBCA.   *Overige auditors* dienen te voldoen aan het volgende profiel: Opleiding: 
+
+* lead assessor voor kwaliteitssystemen conform de norm ISO 17021;  
+
+* één van de vier opleidingen voor kerndeskundigen met goed gevolg afgelegd (hogere veiligheidskunde, arbeidshygiëne, arbeids- en bedrijfsgeneeskunde en arbeids- en organisatiekunde), anders dan die van de lead auditor; of  
+
+* een aantoonbaar gelijkwaardig opleidingsniveau.   Ervaring: 
+
+* praktische ervaring als deskundige op het gebied van arbozorg of verzuimbegeleiding gedurende tenminste twaalf maanden in de afgelopen vijf jaar.   Bekwaamheid: 
+
+* vakkennis bijhouden conform de registratievereisten van het kerndeskundigenregister.   De *coördinator certificatie arbodiensten* dient te voldoen aan het volgende profiel: Opleiding: 
+
+* lead assessor voor kwaliteitssystemen conform de norm ISO 17021;  
+
+* één van de vier opleidingen voor kerndeskundigen met goed gevolg afgelegd (hogere veiligheidskunde, arbeidshygiëne, arbeids- en bedrijfsgeneeskunde en arbeids- en organisatiekunde); of  
+
+* een aantoonbaar gelijkwaardig opleidingsniveau.   Bekwaamheid: 
+
+* vakkennis bijhouden conform de vereisten van het vakbekwaamheidscertificaat. De eisen m.b.t. tot deze vakbekwaamheid zijn voor de arbeidshygiënist, de veiligheidskundige en de arbeids- en organisatiekundige vinden hun basis in de artikelen 2.15 tot en met 2.17 van de Arboregeling. De bedrijfsarts is geregistreerd in het specialistenregister dat verplicht is gesteld op basis van de [Wet op de beroepen in de individuele gezondheidszorg](../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) (BIG), en dient op basis daarvan de vakbekwaamheid bij te houden.  
+
+* deelnemen aan afstemming tussen de verschillende auditoren van de CKI’s en het CCvD.    
+
+### 4.2  
+
+####Aanwijzingscriteria
+
+De CKI wordt in het kader van haar aanwijzing op grond van de [artikelen 1.5a t/m 1.5d Arbobesluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) op de navolgende criteria getoetst.  
+
+| --- | --- |
+|:---|:---|
+| 4.2.1  | De aangewezen CKI en de werknemers die met de keuringen of beoordelingen zijn belast, voeren deze uit met de grootste mate van beroepsintegriteit.  |
+| 4.2.2  | Er is een integriteitbeleid, dat waar nodig in duidelijke voorschriften is uitgewerkt. Het personeel heeft zich aantoonbaar hieraan geconformeerd.  |
+| 4.2.3  | De aangewezen CKI treedt integer en niet buiten zijn bevoegdheden in de markt op.  |
+| 4.2.4  | Het personeel van de aangewezen CKI is aantoonbaar gebonden aan beroepsgeheimen aanzien van al hetgeen het bij de uitoefening van zijn taak in het kader van het besluit ter kennis is gekomen, behalve tegenover de ter zake bevoegde overheidsinstanties.  |
+| 4.2.5  | Beveiliging van vertrouwelijke informatie dient zodanig te zijn geregeld dat uitsluitend bij het certificatieproces betrokken functionarissen van de CKI hiertoe onbelemmerd toegang hebben.  |
+| 4.2.6  | De aangewezen CKI dient te beschikken over een adequate WA verzekering.  |
+| 4.2.7  | De aangewezen CKI dient een procedure te hebben waarin geregeld is dat in geval van ontdekking van een vermoeden van direct gevaar voor de veiligheid dit ogenblikkelijk door de desbetreffende medewerker gemeld wordt aan zijn/haar leidinggevende, en waarin staat beschreven dat de instelling z.s.m. de belanghebbenden informeert, waaronder indien van toepassing de betreffende overheidsinstantie.  |
+| 4.2.8  | Bij beëindiging van de activiteiten door de aangewezen CKI dient deze terstond de minister van SZW te informeren. De minister van SZW bepaalt wat de (voorheen) aangewezen CKI met de dossiers moet doen, de (voorheen) aangewezen CKI dient hieraan mee te werken. Dit vrijwaart de (voorheen) aangewezen CKI niet van eventuele aansprakelijkheid voor fouten in door haar uitgevoerde keuringen of beoordelingen.  |
+| 4.2.9  | Voor besluiten van de CKI is ten aanzien van de verlening van certificaten op grond van de aanwijzing gelden een klachtenprocedure en een herzieningsprocedure. De hiervoor geldende procedures zijn door SZW vastgesteld en opgenomen in het WSCS-Arbodiensten.  |
+| 4.2.10  | De aangewezen CKI moet zich aantoonbaar laten vertegenwoordigen in het nationale overleg van de instellingen, georganiseerd door het CCvD. De CKI moet kunnen aantonen de afspraken uit het overleg met het CCvD uit te voeren.  |
+| 4.2.11  | De CKI meldt in voorkomende gevallen het weigeren, opschorten of intrekken van certificaten aan eventuele andere CKI’s.  |
+| 4.2.12  | Taal van de rapportages en dossiers. De CKI gebruikt de Nederlandse taal. Een andere taal kan worden gebruikt indien dit doelmatiger is en andere belangen niet worden geschaad. (alle documenten en registraties in het verkeer met de overheid dienen in het Nederlands te zijn tenzij anders met de overheid overeengekomen).  |
+| 4.2.13  | Verbod op (onder)uitbesteding op afgifte van certificaten en de daaraan voorafgaande beoordeling en beslissing.  |
+| 4.2.14  | Voor zover een sanctie- en maatregelenbeleid is vastgelegd, dient de CKI zich bij de op te leggen sancties/maatregelen aan dit sanctie- en maatregelenbeleid te houden. In geval van kennelijke onredelijkheid heeft de keuringsinstelling op grond van de [Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de bevoegdheid hier van af te wijken. Afwijking geschiedt alleen op grond van door de certificaathouder aan te dragen argumenten. De onderbouwing voor de afwijking wordt opgenomen in het besluit over de opgelegde sanctie. Afwijkingen worden geregistreerd door de keuringsinstelling.  |
+
+### 5  
+
+####TOEZICHT
+
+In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing: [artikelen 1.5b](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) en [1.5c Arbobesluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) en artikel 1.1a Arboregeling. Ten behoeve van de informatieverzameling dient de CKI kosteloos: 
+
+* Zich jaarlijks vóór 1 maart schriftelijk aan de Minister van SZW te verantwoorden over de rechtmatigheid en doeltreffendheid van het functioneren op elk werkveld waarvoor de instelling door de Minister van SZW is aangewezen (de schriftelijke verantwoording wordt naar Inspectie SZW gezonden en in afschrift naar de SBCA t.a.v. het CCvD). In deze schriftelijke verantwoording worden tenminste de onderwerpen behandeld:  
+
+| --- | --- |
+|:---|:---|
+| 1.  | de door de instelling afgegeven, geschorste, ingetrokken dan wel geweigerde certificaten;  |
+| 2.  | wijzigingen in de op het werkveld van de instelling betrekking hebbende accreditaties, reglementen en procedures;  |
+| 3.  | wijzigingen in de bestuurssamenstelling;  |
+| 4.  | wijzigingen in de statuten of het huishoudelijk reglement;  |
+| 5.  | aan derden uitbestede werkzaamheden;  |
+| 6.  | structurele knelpunten op het werkveld van de instelling die zich in de uitvoeringspraktijk hebben voorgedaan;  |
+| 7.  | het gevoerde overleg en de samenwerking op het werkveld met andere certificerende instellingen;  |
+| 8.  | door de instelling ontvangen klachten en de wijze van afhandeling daarvan;  |
+| 9.  | tegen de beslissingen van de instelling ingediende bezwaren en aangespannen  zaken en de wijze van afhandeling daarvan;  |
+| 10.  | een financieel verslag betreffende de activiteiten waarvoor de instelling is  aangewezen.  |
+
+* Mee te werken aan controles, in opdracht van de Minister van SZW (in de praktijk betekent dit dat de controles door de Inspectie SZW en de nationale accreditatie-instelling uitgevoerd kunnen worden).  
+
+* Tijdige en juiste informatie te verstrekken die de Minister van SZW nodig heeft om te kunnen beoordelen of zij aan de aanwijzingsnormen blijft voldoen (in de praktijk betekent dit dat deze informatie aan de Inspectie SZW en de nationale accreditatie-instelling verstrekt moet worden).  
+
+* Terstond informatie te verstrekken aan de Minister van SZW en aan de SBCA in het kader van hun registratietaak, over individuele certificaten/certificaathouders waaraan een sanctie is opgelegd (in de praktijk betekent dit dat deze informatie aan de Inspectie SZW verstrekt moet worden).  
+
+* Informatie te verstrekken aan de Inspectie SZW over de wijze waarop zij certificaten heeft verstrekt en van de wijze waarop zij het doen en laten van certificaathouders periodiek beoordeelt.  
+
+* Aan te tonen aan de Minister van SZW dat zij voldoende controleert of certificaathouders blijven voldoen aan de certificatie-eisen (in de praktijk betekent dit dat deze informatie aan de Inspectie SZW of de nationale accreditatie-instelling verstrekt moet worden). In ieder geval worden frequentie, aard en omvang (tijdsduur) van de controles weergegeven.  
+
+* De Minister van SZW in te lichten zodra zij voornemens is een of meer van haar taken te beëindigen.  
+
+* De Minister van SZW in te lichten zodra zij een aanvraag indient voor een aanvullende beoordeling op basis van een wettelijke specifiek schema.  
+
+* De Minister van SZW jaarlijks een afschrift te sturen van de polis van de afgesloten verzekering tegen wettelijke aansprakelijkheid.  
+
+* De Minister van SZW onverwijld in kennis te stellen van het wegvallen van een geldige overeenkomst met de SBCA  
+
+* De SBCA terstond te informeren over door de instelling afgegeven, geweigerde, geschorste en ingetrokken certificaten.    
+
+### 6  
+
+####MAATREGELEN
+
+Indien de aangewezen instelling niet meer voldoet aan de eisen in dit schema kan dit gevolgen hebben voor de aanwijzing. Zie beleidsmaatregel maatregelenbeleid certificering [Arbeidsomstandighedenwet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [Warenwet](../../../wet/warenwet/BWBR0001969/README.md), Stcrt. 2010, nr. 10839 van 14 juli 2010.  
+
+### Bijlage  IIb  
+
+####behorend bij Artikel 2.8  Arbeidsomstandighedenregeling
+
+####Werkveldspecifiek certificatieschema voor de Dienstverlening door Arbodiensten
+
+Document: WSCS-Arbodiensten 2012, versie 1  *Onder beheer van:*  Stichting Beheer Certificatieregeling Arbodiensten (SBCA) Postbus 12 3740 AA Baarn 
+
+####INHOUDSOPGAVE
+
+| --- | --- |
+|:---|:---|
+| DEEL 1:  | ALGEMENE BEPALINGEN  |
+| 1.  | INLEIDING  |
+| 2.  | DEFINITIES  |
+| 3.  | WERKVELDSPECIFIEKE KENMERKEN  |
+| 3.1.  | Beschrijving schema  |
+| 3.2.  | Risicoanalyse en afbreukcriteria  |
+| 4.  | CERTIFICATIEREGLEMENT  |
+| 4.1.  | Doelstelling  |
+| 4.2.  | Certificatieprocedure  |
+| 4.3.  | Certificatiebeslissing  |
+| 4.4.  | Geldigheidsduur van het certificaat  |
+| 4.5.  | Gegevens op het certificaat  |
+| 4.6.  | Klachten over de CKI  |
+| 4.7.  | Bezwaarprocedure  |
+| 4.8.  | Register voor systeemcertificatgie  |
+| 4.9.  | Norminterpretatie  |
+| 5.  | TOEZICHT  |
+| 5.1.  | Toegang  |
+| 5.2.  | Frequentie van het toezicht  |
+| 5.3.  | De wijze van uitvoering van het toezicht  |
+| 5.4.  | Verslag van bevindingen  |
+| 5.5.  | Maatregelen ([artikel 1.5.e Arbobesluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md))  |
+| 5.6.  | Criteria  |
+| DEEL II:  | NORMEN  |
+| 6  | WERKVELDSPECIFIEKE EISEN  |
+| --- | --- |
+| Bijlage 1:  | Auditdagen per arbodienst  |
+
+### DEEL  I:  
+
+####ALGEMENE BEPALINGEN
+
+Deel 1 van dit certificatieschema bevat algemene uitgangspunten en bepalingen voor certificatie door CKI’s en voorwaarden waaronder de afgifte van certificaten dient te gebeuren. Beschreven wordt achtereenvolgens: 
+
+* het werkveld waarop dit certificatieschema betrekking heeft (1),  
+
+* definities (2),  
+
+* een beschrijving van de specifieke kenmerken van het werkveld waaronder een risicoanalyse (3),  
+
+* het certificatiereglement (4), en  
+
+* controle op naleving/handhaving (5).   
+
+### 1  
+
+####INLEIDING
+
+Dit werkveldspecifieke certificatieschema voor systemen is door het Centraal College van Deskundigen Arbodiensten opgesteld. Dit Centraal College is ondergebracht bij de Stichting Beheer Certificatieregeling Arbodiensten. Het betreft de systeemcertificatie op het gebied van de dienstverlening door arbodiensten. Door het Ministerie van SZW is het schema vastgesteld middels een statische verwijzing in de Arboregeling. Dit vastgestelde schema vervangt daarmee eerdere versies. Het te certificeren systeem betreft de dienstverlening door arbodiensten, zoals die is vereist op grond van [artikel 20](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [artikel 14, lid 1 van de Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). Het te certificeren systeem van een arbodienst heeft betrekking op de vier wettelijk taken die iedere arbodienst tenminste dient uit te voeren: 
+
+* het toetsen van een risico-inventarisatie en -evaluatie en het geven van een advies daarover;  
+
+* het begeleiden van zieke werknemers;  
+
+* het uitvoeren van het arbeidsgezondheidskundig onderzoek;  
+
+* de aanstellingskeuring.    
+
+### 2  
+
+####DEFINITIES
+
+| Begrip of afkorting  | Betekenis  |
+|:---|:---|
+| Aanvrager van een certificaat  | De (rechts-)persoon die bij de certificerings- en keuringsinstelling een aanvraag doet voor het afgeven van een Certificaat Arbodienst.  |
+| Aanwijzing  | Aanwijzing van een instelling bij of krachtens wettelijk voorschrift door de minister van SZW.  |
+| Arbeidsgezondheidskundig onderzoek  | Een arbeidsgezondheidskundig onderzoek, zoals bedoeld en voorgeschreven in [artikel 18 van de Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).  |
+| Arbodienst  | Een instantie die diensten aanbiedt op het gebied van arbeidsomstandigheden, minimaal conform [artikel 14, eerste lid van de Arbeidsomstandighedenwet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) (hierna: Arbowet).  Er zijn drie (organisatie)vormen van arbodiensten te onderscheiden:  a) interne arbodienst: de arbodienst die opgericht is door, onderdeel uit maakt van en diensten aanbiedt aan één bepaalde werkgever (de onderneming, zie aldaar); tevens de dienst die in geval van een joint venture of holding, optreedt binnen de onderneming of instelling waar een meerderheidsbelang bestaat;  b) samenwerkingsverband: de interne arbodienst als bij a), waarbij tenminste één van de verplichte kerndeskundigen in dienst is van de werkgever, met een schriftelijk vastgelegd samenwerkingsverband met de overige deskundigen dan wel hun werkgever(s);  c) externe arbodienst: de arbodienst die als onafhankelijk instantie, met rechtspersoonlijkheid en ingeschreven bij de Kamer van Koophandel, diensten aanbiedt.  |
+| Audit of externe audit  | Systematisch, onafhankelijk, gedocumenteerd proces voor het verkrijgen van registraties, feitelijke verklaringen of andere relevante informatie en de onafhankelijke beoordeling daarvan door een CKI om vast te stellen in welke mate aan de specifieke eisen uit het Certificatieschema voor de dienstverlening door arbodiensten wordt voldaan.  |
+| Auditdag  | Eén dag die één auditor besteedt aan het auditen van een arbodienst (incl. rapportage).  |
+| Beoordeling  | Beoordeling (initiële, of her-) door de nationale accreditatie-instantie van instellingen op basis van het door de minister van SZW vastgestelde WDA&T, op grond waarvan de nationale accreditatie-instantie schriftelijk rapporteert of de instelling competent is om wettelijk verplichte certificaten af te geven. Bij het vaststellen van het WDA&T door de minister van SZW wordt zoveel mogelijk aangesloten bij internationale systematiek en normen.  |
+| Belanghebbenden  | Persoon of groep die een belang heeft bij de prestaties of het succes van de arbodienst; zoals klanten (zie aldaar), eindgebruikers, mensen in de organisatie, eigenaren en investeerders, leveranciers en partners, de maatschappij in termen van de gemeenschap en burgers die worden beïnvloed door de organisatie of haar producten. (ISO 9000:2005)  |
+| Centraal College van Deskundigen (CCvD) Arbodiensten  | Het college, onderdeel van en/gefaciliteerd door de Stichting Beheer Certificatieregeling Arbodiensten (SBCA), dat het beheer voert over het certificatieschema voor de dienstverlening door arbodiensten. Het CCvD biedt belanghebbende partijen in de branche arbodienstverlening de mogelijkheid tot deelname bij het opstellen en onderhouden van werkveldspecifieke documenten op zodanige wijze dat sprake is van een evenwichtige en representatieve vertegenwoordiging van deze partijen.  |
+| Certificaat Arbodienst  | Het certificaat in de zin van [artikel 20](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [artikel 14, lid 1 van de Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). Het Certificaat Arbodienst dat een CKI verstrekt aan de arbodienst om kenbaar te maken dat een gerechtvaardigd vertrouwen bestaat dat de kwaliteit van de dienstverlening overeenstemt met het Certificatieschema voor de dienstverlening door arbodiensten.  |
+| Certificaathouder  | (Rechts-) Persoon die in het bezit is van een geldig wettelijk verplicht gestelde Certificaat Arbodienst.  |
+| Certificatie-overeenkomst  | De overeenkomst waarbij de arbodienst het recht krijgt tot het voeren van een Certificaat Arbodienst en die voor hem de rechten en verplichtingen dienaangaande bevatten.  |
+| Certificatieproces  | Alle activiteiten via welke een CKI beoordeelt en besluit of een systeem voldoet en blijft voldoen aan de normen, zoals opgenomen in het werkveldspecifieke certificatieschema.  |
+| Certificerings- en Keuringsinstelling (CKI)  | De organisatie die door de minister van SZW is aangewezen en die bevoegd is om een Certificaat Arbodienst af te geven, te weigeren, op te schorten/schorsen of in te trekken.  |
+| Contract  | De overeenkomst die een arbodienst afsluit met een klant of opdrachtgever om bepaalde wettelijk voorgeschreven diensten te verlenen.  |
+| Controle  | Periodieke beoordeling door de nationale accreditatie-instantie van CKI’s tegen de voor beoordeling geldende regels van de minister (WDA&T).  |
+| Derden  | Andere personen of bedrijven die niet werkzaam zijn in of voor de arbodienst en geen klanten van de arbodienst zijn.  |
+| Deskundigen  | Beroepsbeoefenaars, (al dan niet) verbonden aan een arbodienst, die bijdragen aan de dienstverlening op het gebied van arbeidsomstandigheden, bijvoorbeeld: kerndeskundigen (zie aldaar), ergonomen, bedrijfsmaatschappelijk werkers, arboverpleegkundigen, doktersassistenten, arbeidsdeskundigen en psychologen.  |
+| Documentenbeoordeling  | Beoordeling van documenten c.q. kwaliteitshandboek door auditors van CKI’s. Het document kan papier zijn, een magnetische, elektronische of optische computerschijf, foto of master sample of een combinatie daarvan.  |
+| Eis  | De voorwaarde of conditie gesteld door de certificerings- en keuringsinstelling waaraan de arbodienst moet voldoen.  |
+| Huishoudelijke Reglement  | Het huishoudelijk reglement van het Centraal College van Deskundigen Arbodiensten.  |
+| Interne audit  | Een onafhankelijke, objectieve "assurance" (geven van zekerheid) en consulting (geven van advies) activiteit met de bedoeling waarde toe te voegen aan en verbetering te brengen in de operaties van een arbodienst.    |
+| Kerndeskundigen  | Deskundige functionarissen verbonden aan een arbodienst die zijn voorgeschreven in [afdeling 3, paragraaf 2, artikel 2.7, lid 1 van het Arbeidsomstandighedenbesluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) (hoger) veiligheidskundige, arbeids- en bedrijfsgeneeskundige, arbeidshygiënist en arbeids- en organisatiekundige) en die zijn gecertificeerd/geregistreerd conform [artikel 14, lid 1](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [20 van de Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).  |
+| Kerntaken  | De taken die een arbodienst volgens [artikel 14a, lid 2](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [art. 14, lid 1 van de Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) moet uitvoeren, samengevat:  het toetsen van de risico-inventarisatie en –evaluatie en daarover adviseren;  de bijstand bij de begeleiding van werknemers die door ziekte niet in staat zijn hun arbeid te verrichten;  het uitvoeren van het arbeidsgezondheidskundig onderzoek;  het uitvoeren van de aanstellingskeuring, indien de werkgever deze laat verrichten.  |
+| Keurling  | De werknemer die een aanstellingskeuring ondergaat.  |
+| Klant  | De organisatie of rechtspersoon die een product of dienst ontvangt, met inbegrip van de Medezeggenschapsvertegenwoordiging (ondernemingsraad / personeelsvertegenwoordiging / mede-zeggenschapsraad) van de arbodienst (dit overeenkomstig ISO 9000:2005).  |
+| Kwaliteit van dienstverlening  | Alle kwaliteitseisen die gesteld worden aan de dienstverlening van een arbodienst.  |
+| Kwaliteitsmanagementsysteem  | De organisatorische structuur, verantwoordelijkheden, bevoegdheden, procedures, processen en voorzieningen voor het ten uitvoer brengen van kwaliteitszorg.  |
+| Management review  | De beoordeling van het kwaliteitsmanagementsysteem, uitgevoerd door de directie, om de geschiktheid, toereikendheid en doeltreffendheid voor het halen van de vastgestelde (kwaliteits-)doelstellingen te bepalen.  |
+| Medezeggenschapsvertegenwoordiging  | De ondernemingsraad (OR) of personeelsvertegenwoordiging (PVT), zoals bedoeld in de [Wet op de Ondernemingsraden](../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) (WOR) en de belanghebbende werknemers zoals bedoeld in de [Arbeidsomstandighedenwet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). Medezeggenschapsvertegenwoordiging = werknemersvertegenwoordiging. Voor enkele sectoren is de medezeggenschapsvertegenwoordiging de Medezeggenschapsraad (MR)  |
+| Minister  | De Minister van Sociale Zaken en Werkgelegenheid.  |
+| Nieuwe arbodienst  | Een arbodienst die ná inwerkingtreding van dit Certificatieschema wordt opgericht.  |
+| Non conformity note  | Het niet voldoen aan één of meer eisen uit dit Certificatieschema óf er is gerede twijfel ontstaan of het managementsysteem van de klant in staat is om de aan de eisen van dit Certificatieschema te voldoen.  |
+| Onderneming  | De arbeidsorganisatie die een interne arbodienst heeft ingericht.  |
+| Periodieke controles  | Periodieke audits die er op gericht zijn om te controleren of de kwaliteit van de dienstverlening tijdens de geldigheid van het Certificaat Arbodienst nog voldoet aan de eisen uit het Certificatieschema voor de dienstverlening door arbodiensten.  |
+| OVAL  | Organisatie voor Vitaliteit, Activering en Loopbaan. De OVAL is een branche-organisatie die (ook) opkomt voor de belangen van (gecertificeerde) arbodiensten. De OVAL komt o.a. voort uit de branche-organisatie voor arbodiensten en re-integratiebedrijven (Boaborea).  |
+| Procedure  | Gespecificeerde wijze voor het uitvoeren van een activiteit.  |
+| Professionele dienstverlening  | Dienstverlening geleverd door medewerkers van de arbodienst met een afgeronde opleiding gericht op het verlenen van preventie, verzuimbegeleiding en re-integratie (bijvoorbeeld (kern)deskundigen, ergonoom, bedrijfsmaatschappelijk werker, arboverpleegkundige, doktersassistente, arbeidsdeskundige). De medewerkers werken conform de eisen van het Certificatieschema voor de dienstverlening door arbodiensten, inclusief de in dit Certificatieschema genoemde professionele statuten van Boaborea (tegenwoordig OVAL geheten), de Nederlandse Vereniging voor Veiligheidskunde (NVVK), de Nederlandse Vereniging voor Arbeidshygiëne (NVVA), de beroepsvereniging voor Arbeids- en Organisatiedeskundigen (BA&O) en de Nederlandse Vereniging voor Arbeids- en Bedrijfsgeneeskunde (NVAB) en voldoen aan de eisen van (her)registratie of werken onder supervisie van een geregistreerde vakgenoot.  |
+| Raad voor Accreditatie  | Landelijk orgaan dat CKI’s en CKI-regelingen beoordeelt.  |
+| Risicoanalyse  | Analyse waaruit motivatie, voor te maken keuzes in werkveldspecifiek probleemgebied, blijkt, op te nemen in het beoogde certificatieschema.  |
+| Risico-inventarisatie en -evaluatie (RI&E):  | De inventarisatie en evaluatie van de risico’s die de arbeid voor de werknemers met zich brengt, zoals bedoeld in [artikel 5 van de Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). (De RI&E bevat een beschrijving van de gevaren, de risicobeperkende maatregelen en de risico’s voor bijzondere categorieën van werknemers. De RI&E besteedt ook aandacht aan de toegang van werknemers tot deskundige werknemers en personen. Bij de RI&E hoort een plan van aanpak, waarin is aangegeven welke maatregelen zullen worden genomen in verband met de bedoelde risico’s en de samenhang daartussen, één en ander overeenkomstig [artikel 3 van de Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). In het plan van aanpak worden termijnen aangegeven waarbinnen de maatregelen worden genomen.).  |
+| SBCA  | Stichting Beheer Certificatieregeling Arbodiensten (SBCA)  |
+| Statuten  | De statuten van de Stichting Beheer Certificatieregeling Arbodiensten (SBCA).  |
+| Stichting  | Zie: SBCA.  |
+| Toezicht  | Het verzamelen van de informatie over de vraag of een handeling of zaak voldoet aan de daaraan gestelde eisen, het zich daarna vormen van een oordeel daarover en het eventueel naar aanleiding daarvan interveniëren.  |
+| Werknemer  | De persoon die werkt bij de klant. Het gaat om werknemers in de zin van [artikel 1, eerste lid, onder b. en tweede lid, onder b. van de Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).  |
+| Werkveldspecifiek certificatieschema  | Term gebruikt door SZW voor een certificatieschema dat door de minister van SZW is geaccepteerd te gebruiken binnen een specifieke aanwijzing als CKI voor personen, producten of systemen.  |
+
+### 3  
+
+####WERKVELDSPECIFIEKE KENMERKEN
+
+Om het maatschappelijk belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de kwaliteit/veiligheid van dienstverlening door arbodiensten. 
+
+### 3.1  
+
+####Beschrijving schema
+
+Het werkveldspecifieke certificatieschema voor de dienstverlening door arbodiensten van .... (datum) is op ....(datum) door het CCvD opgesteld en door het Ministerie van SZW – inclusief eventuele aanpassingen – vastgesteld middels een statische verwijzing in de Arboregeling. De minister van SZW kan ook op eigen initiatief wijzigingen aanbrengen in de vastgestelde documenten. Dit vastgestelde schema vervangt daarmee eerdere versies. Op- en of aanmerkingen over het certificatieschema kunnen worden ingediend bij de SBCA, t.a.v. het CCvD, Postbus 12, 3740 AA Baarn. Het te certificeren systeem betreft de dienstverlening door arbodiensten, zoals die is vereist op grond van [artikel 20](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [artikel 14, lid 1 van de Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). Het te certificeren systeem van een arbodienst heeft betrekking op de vier wettelijk taken die iedere arbodienst tenminste dient uit te voeren: 
+
+* het toetsen van de risico-inventarisatie en –evaluatie en daarover adviseren;  
+
+* de bijstand bij de begeleiding van werknemers die door ziekte niet in staat zijn hun arbeid te verrichten;  
+
+* het uitvoeren van het arbeidsgezondheidskundig onderzoek;  
+
+* het uitvoeren van de aanstellingskeuring, indien de werkgever deze laat verrichten.    
+
+### 3.2  
+
+####Risicoanalyse en afbreukcriteria
+
+Met de komst van de Wet Arbo/TZ, zoals die is ingegaan op 1 januari 1994, bestaan er in Nederland arbodiensten. Deze arbodiensten kregen tot taak om zowel preventieve- als ziekteverzuimbegeleidingstaken uit te voeren. Daarmee werd de arbodienst een geïntegreerde dienstverlener. De preventieve taken vloeiden voort uit de Europese Kaderrichtlijn 89/391/EEG en de [Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). De ziekteverzuimbegeleidingstaken vloeiden voort uit de loondoorbetalingsplicht zoals die is geformuleerd in het Burgerlijk Wetboek. Later zijn daar de verplichtingen op basis van de [Wet Verbetering Poortwachter](../../../wet/wet/verbetering/poortwachter/BWBR0013063/README.md) bijgekomen. Arbodienstverlening kan worden uitgevoerd door privaatrechtelijke organisaties, die met elkaar moe(s)ten gaan concurreren. De overheid hield niet zelf de controle over arbodiensten, maar ging over tot een certificatiestelsel voor arbodiensten. Iedere werkgever is verplicht zich door gecertificeerde arbodiensten of gecertificeerde kerndeskundigen te laten bijstaan, ná instemming door een ondernemingsraad of personeelsvertegenwoordiging. Deze verplichting is terug te vinden in de [artikelen 14](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [14a van de Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). Iedere werknemer moet toegang hebben tot deze deskundigen of tot preventiemedewerkers ([art.5, lid 2 Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md)). De verplichte bijstand van een werkgever door een gecertificeerde arbodienst of door gecertificeerde kerndeskundigen heeft betrekking op vier taken: 
+
+* het toetsen van de risico-inventarisatie en –evaluatie en daarover adviseren;  
+
+* de bijstand bij de begeleiding van werknemers die door ziekte niet in staat zijn hun arbeid te verrichten;  
+
+* het uitvoeren van het arbeidsgezondheidskundig onderzoek;  
+
+* het uitvoeren van de aanstellingskeuring, indien de werkgever deze laat verrichten.   Elk van deze taken is van groot belang voor zowel de werkgever als de werknemers binnen de organisatie. Het toetsen van de RI&E door een arbodienst en het geven van een advies daarover moet de werkgever ondersteunen bij het voeren van een goed arbobeleid. Zonder een goede analyse en evaluatie van de risico’s binnen een bedrijf en zonder concrete en praktische voorstellen om de situatie te verbeteren via het plan van aanpak, lopen bedrijven het risico om de verkeerde onderwerpen op een verkeerde manier aan te pakken. Het beoordelen van de RI&E (inclusief het plan van aanpak) door de arbodienst is dus van essentieel belang om bedrijven goed te ondersteunen bij het voeren van een adequaat arbobeleid. Met de verzuimbegeleiding van zieke werknemers door de bedrijfsarts/arbodienst worden verschillende doelen nagestreefd. Zowel de gezondheid van de zieke werknemer als het bedrijfsbelang moeten door de arbodienst worden meegewogen. Juist dit aspect doet een beroep op de onafhankelijkheid van de arbodienst. De verzuimbegeleiding vergt een zorgvuldige aanpak van de arbodienst. Deze aanpak moet bijdragen aan een voorspoedig herstel van de gezondheid van de zieke werknemer, aan het tijdig doen re-integreren van de zieke medewerker in het bedrijf en in algemene zin aan het voorkómen van instroom van werknemers in een uitkeringssituatie zoals bijv. de WIA. Het doeltreffend begeleiden van zieke werknemers leidt tot minder kosten voor de werkgever (minder loondoorbetaling). Vanuit de gedachte van een geïntegreerde arbodienst moet een doeltreffende ziekteverzuimbegeleiding ook leiden tot maatregelen in het preventieve vlak (arbobeleid). Het periodiek beoordelen van de gezondheid van werknemers zoals dat gebeurt via het arbeidsgezondheidskundig onderzoek heeft primair tot doel om gezondheidsrisico’s te vóórkomen en als deze zich voordoen te beperken. Het arbeidsgezondheidskundig onderzoek is daarmee een instrument om het arbobeleid mede vorm te geven. De aanstellingskeuring kan grote consequenties hebben voor de betreffende werknemer alsmede voor het bedrijf, immers een ongunstige uitslag maakt de werknemer ongeschikt voor een bepaalde functie. De wetgeving verlangt m.b.t. de aanstellingskeuring een hoge mate van zorgvuldigheid in de uitvoering door de arbodienst. Het uitvoeren van deze vier wettelijk verplichte taken door een arbodienst moet dus zorgvuldig en efficiënt gebeuren. Indien dit niet goed gebeurd loopt de werknemer het risico van gezondheidsschade, de werkgever het risico van hoge kosten (o.a. ziekteverzuim, arbeidsongeschiktheid en claims) en de maatschappij het risico op een grote uitstroom van werknemers uit arbeid en een grote instroom in uitkeringssituaties. In hoofdstuk 6 worden de eisen met betrekking tot deze vier wettelijke taken nader uitgewerkt. Een belangrijk, meer specifiek, risico in de uitvoering van de vier wettelijke taken door een arbodienst is het risico op schending van de privacy-voorschriften. Het schenden van deze voorschriften door een arbodienst als rechtspersoon en/of door medewerkers van een de arbodienst is een ernstig feit, met grote gevolgen voor de betrokken werknemer.  
+
+### 4  
+
+####CERTIFICATIEREGLEMENT
+
+### 4.1  
+
+####Doelstelling
+
+Dit deel van het schema omschrijft de procedures die relevant zijn voor het juist toepassen van het specifieke schema. Het gaat om de volgende onderwerpen: 
+
+* Aanvraag van certificaat (§ 4.2);  
+
+* Initiële audits (§ 4.2);  
+
+* Certificatiebeslissing (§ 4.3);  
+
+* Geldigheidsduur certificaat (§ 4.4);  
+
+* Gegevens op het certificaat (§ 4.5);  
+
+* Klachten (§ 4.6);  
+
+* Verzoek om herziening (§ 4.7);  
+
+* Register voor systeemcertificatie (§ 4.8);  
+
+* Norminterpretatie (§ 4.9)    
+
+### 4.2  
+
+####Certificatieprocedure
+
+De arbodienst dient bij een CKI , in overeenstemming met de certificatieprocedure, een aanvraag in voor het Certificaat Arbodienst. <sup> 1  Op dit moment zijn er twee CKI’s actief: Lloyd’s RQA en DNV Certification.  </sup> De certificatieprocedure volgt de procedure die geldt voor een regulier ISO 9001:2008 certificatie traject. 
+### *Aanvraag* 
+
+De (mogelijke) opdrachtgever dient bij een CKI in overeenstemming met deze certificatieprocedure, een verzoek in voor het Certificaat Arbodienst óf voor het behoud van het Certificaat Arbodienst (hercertificatie). De CKI verstrekt informatie over de gang van zaken bij de afhandeling van de aanvraag voor het Certificaat Arbodienst vóórdat er een contract wordt getekend. In het contract dat de CKI afsluit met de arbodienst wordt de eisen uit dit Certificatieschema van toepassing verklaard. De externe arbodienst verstrekt aan de CKI bij de aanvraag de gegevens zoals die staan geformuleerd in artikel 2.12 van de Arboregeling. De interne arbodienst verstrekt aan de CKI bij de aanvraag de gegevens zoals die staan geformuleerd in artikel 2.13 van de Arboregeling. 
+### *Initiële audits* 
+
+De uitvoering van de audit vindt plaats conform het werkplan. De audits worden gehouden door een team van een lead auditor en een tweede auditor. Beide auditors dienen deskundigen te zijn. De initiële audits vinden plaats door een team bestaande uit de lead auditor en tenminste een deskundige auditor van een andere discipline. Eén van de lead auditors is tevens teamleider en uit dien hoofde verantwoordelijk voor het auditproces, inclusief de inhoud van het auditrapport. Bij het proces van certificatie dient bij de inzet van de auditordeskundigheden rekening te worden gehouden met een verdeling van activiteiten van de arbodienst over de verschillende kerntaken. Het aantal auditdagen verschilt per arbodienst, afhankelijk van het aantal personeelsleden (fulltime equivalent) en het aantal vestigingen. In bijlage 1 van dit Certificatieschema is een overzicht opgenomen van het totaal aantal auditdagen dat een CKI maximaal kan besteden aan de certificatie van arbodiensten. Voor nieuwe externe arbodiensten of ondernemingen geldt dezelfde certificatieprocedure, echter met de volgende aanpassingen: 
+
+a. de CKI verstrekt desgevraagd een bewijs dat de nieuw opgerichte externe of interne arbodienst een aanvraag Certificaat Arbodienst heeft ingediend;  
+
+b. tijdens de eerste audit (binnen 3 maanden ná de aanvraag) worden minimaal twee van de in de praktijk uitgevoerde vier kerntaken beoordeeld. De vier kerntaken betreffen: 
+
+* het toetsen van de risico-inventarisatie en –evaluatie en daarover adviseren;  
+
+* de bijstand bij de begeleiding van werknemers die door ziekte niet in staat zijn hun arbeid te verrichten;  
+
+* het uitvoeren van het arbeidsgezondheidskundig onderzoek;  
+
+* het uitvoeren van de aanstellingskeuring, indien de werkgever deze laat verrichten.   Bij een positief besluit van de CKI om een certificatie-overeenkomst aan te gaan, wordt een Certificaat Arbodienst met een looptijd van maximaal 1 jaar verstrekt;  
+
+c. bij de eerste periodieke controle, uit te voeren binnen 1 jaar ná ondertekening van de certificatie-overeenkomst, dient de arbodienst aan alle eisen uit dit Certificatieschema te voldoen; bij een positief besluit wordt het certificaat omgezet in het Certificaat Arbodienst met een looptijd van drie jaar.    
+
+### 4.3  
+
+####Certificatiebeslissing
+
+De certificatiebeslissing wordt genomen in overeenstemming met de eisen uit het Certificatieschema door een functionaris van de CKI die is gekwalificeerd en aangesteld conform het kwaliteitsmanagementsysteem van de CKI en die volgens de procedure onder 4.2 niet betrokken is geweest bij de beoordeling van het systeem. Bij een positief besluit wordt een Certificaat Arbodienst afgegeven met een looptijd van drie jaar. Uit dit Certificaat Arbodienst blijkt dat er een gerechtvaardigd vertrouwen mag bestaan dat de arbodienst voldoet aan de voorschriften die zijn gesteld bij of krachtens de [Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). Deze voorschriften zijn terug te vinden in artikel 2.11 van de Arboregeling. De arbodienst heeft het recht het logo Certificaat Arbodienst te gebruiken. De CKI heeft de plicht om van het afgeven, het weigeren, het opschorten of schorsen of het intrekken van een Certificaat Arbodienst mededeling te doen aan het SBCA. Deze mededeling wordt door het SBCA doorgegeven aan het Ministerie van Sociale Zaken en Werkgelegenheid.  
+
+### 4.4  
+
+####Geldigheidsduur van het certificaat
+
+Bij een positief besluit wordt een Certificaat Arbodienst afgegeven met een geldigheidsduur van drie jaar.  
+
+### 4.5  
+
+####Gegevens op het certificaat
+
+Het Certificaat Arbodienst bevat minimaal de navolgende gegevens: 
+
+* Gegevens van het gecertificeerde bedrijf: 
+
+I. Volledige bedrijfsnaam;  
+
+II. Vestigingsplaats;  
+
+III. Scope van het certificaat.    
+
+* Gegevens van de CKI: 
+
+I. Naam;  
+
+II. Vestigingsplaats;  
+
+III. Logo;  
+
+IV. Kenmerk van de aanwijzing.    
+
+* Overige gegevens certificaat: 
+
+o Geldigheidsduur;  
+
+o Tekst: Op het certificaat dient vermeld te worden, dat de instelling verklaart dat het betreffende systeem voldoet aan de eisen uit het werkveldspecifieke certificatieschema;  
+
+o Handtekening bevoegd persoon CKI;  
+
+o Beeldmerk en logo van de SBCA.      
+
+### 4.6  
+
+####Klachten over de CKI
+
+Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten. Aan een CKI worden onder meer de volgende eisen gesteld: 
+
+* Een openbaar toegankelijke klachtenprocedure dient aanwezig te zijn.  
+
+* de klachtenprocedure bevat minimaal het volgende: een beschrijving van het proces van ontvangen, onderzoeken en beoordelen van de klacht; de wijze van volgen van de klacht en acties als vervolg daarop; en de wijze waarop wordt verzekerd dat correctieve acties worden uitgevoerd.  
+
+* De beslissing over de reactie op de klacht dient te worden genomen door personen die niet betrokken zijn bij het onderwerp van de klacht.  
+
+* Indieners van klachten dienen, indien mogelijk, op de hoogte te worden gehouden van de ontvangst van de klacht, de voortgang van behandeling en de uitkomst.   
+
+### 4.6.1  
+
+####Klachten over het bedrijf of de persoon
+
+Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon. Echter, indien het naar de mening van de CKI een ernstige klacht betreft, dient de CKI, naast de behandeling door het bedrijf of de persoon, zelf ook direct te beoordelen of de klacht gevolgen dient te hebben voor de beslissing m.b.t. certificatie. In dat geval dient de CKI af te wegen of het gewenst is een extra beoordeling uit te voeren. De kosten van deze extra beoordeling komen in beginsel voor rekening van de certificaathouder.  
+
+### 4.6.2  
+
+####Klachtenregeling
+
+### *Inleiding* 
+
+In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld. 
+### *Werkwijze* 
+
+Wanneer iemand probeert een klacht telefonisch of mondeling te melden, wordt aan hem/haar gevraagd deze schriftelijk te verwoorden. Als een klacht schriftelijk binnenkomt wordt deze meteen naar de kwaliteitsmanager gebracht en indien de klachtafhandelaar duidelijk is krijgt hij/zij meteen een kopie van de klacht. De kwaliteitsmanager registreert de klacht op een klachtenformulier en stelt de directeur CKI op de hoogte van de klacht. De directeur van de CKI wijst de klachtafhandelaar aan. De kwaliteitsmanager vermeldt de klachtafhandelaar op het klachtenformulier en brengt de klachtafhandelaar schriftelijk op de hoogte van de klacht. De klachtafhandelaar informeert de indiener van de klacht schriftelijk over de ontvangst van de klacht. 
+### *Eenvoudige zaken* 
+
+Klachtafhandelaar stuurt klacht door naar betrokken bedrijf/persoon; stelt indiener op de hoogte legt dossier aan tbv voortgangsbewaking en meenemen afhandeling klacht door bedrijf/persoon bij eerstvolgende beoordeling. 
+### *Ernstige klachten* 
+
+Klachtafhandelaar beoordeelt de klacht en stelt vast of de klacht een incident betreft of dat de klacht moet leiden tot een aanpassing in de werkwijze. Indien het een incident betreft, wordt de indiener daarvan op de hoogte gesteld. De klachtafhandelaar bedenkt samen met de indiener binnen drie weken na het indienen van de klacht een oplossing voor de afhandeling en betrekt bedrijf/persoon hierbij. De oplossing zoals die met de indiener is besproken wordt vastgelegd op het klachtenformulier. Hier wordt tevens vermeld dat het gaat om een incident. Indien de klacht een aanpassing van de werkwijze vergt bedenkt de klachtafhandelaar binnen 10 dagen een verbetervoorstel en bespreekt dit met de kwaliteitsmanager en betrekt bedrijf/persoon hierbij. Het verbetervoorstel moet een structurele verbetering inhouden van de werkwijze. Het verbetervoorstel wordt ingevuld op het klachtenformulier. De klachtafhandelaar stelt de indiener op de hoogte van de afhandeling van de klacht. De kwaliteitsmanager maakt de gewijzigde werkwijze bekend. De kwaliteitsmanager start, indien nodig, een vervolgonderzoek naar de invoering van het verbetervoorstel. De bevindingen worden vastgelegd op het klachtenformulier. Het klachtenformulier wordt gearchiveerd.  
+
+### 4.7  
+
+####Bezwaarprocedure
+
+Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat. 
+### *Werkwijze* 
+
+Algemeen: 
+
+* Een door of namens de CKI genomen besluit, dat is een definitieve uitslag of eindoordeel, wordt schriftelijk ter kennis van de belanghebbende gebracht.  
+
+* Onder een besluit wordt tevens verstaan het weigeren te beslissen of het niet tijdig nemen van een beslissing.  
+
+* De CKI stelt de belanghebbende in haar correspondentie in kennis van de mogelijkheid van het indienen van een bezwaarschrift door middel van de volgende clausule: ‘Ingevolge de CKI procedure ‘bezwaarschriftprocedure’ kan door een belanghebbende met betrekking tot dit besluit een bezwaarschrift ingediend worden. Daartoe moet binnen zes weken na de datum van verzending van het besluit een bezwaar worden ingediend bij de CKI. In het bezwaarschrift moet gemotiveerd worden aangegeven waarom het gegeven besluit niet juist gevonden wordt. Verzocht wordt bij het bezwaarschrift een kopie van het bestreden besluit toe te voegen.’  
+
+* Het bezwaarschrift dient in ieder geval de volgende elementen te bevatten: 
+
+o naam en adres indiener  
+
+o dagtekening  
+
+o een omschrijving van het bestreden besluit  
+
+o de gronden van het bezwaar.    
+
+* Het bezwaarschrift schort de werking van het besluit niet op.  
+
+* Het bezwaarschrift leidt tot heroverweging van het besluit waartegen het is gericht.   Het bezwaar wordt niet-ontvankelijk verklaard: 
+
+* indien niet aan de gestelde termijn van indienen wordt voldaan. Dit geldt niet als de indiener aantoont dat hij redelijkerwijs niet in verzuim is geweest  
+
+* in andere gevallen dan genoemd onder a, als geen gebruik gemaakt wordt van de door de CKI geboden gelegenheid tot verzuimherstel  
+
+* het bezwaar wordt verder niet-ontvankelijk verklaard als het, bij het niet van toepassing zijn van een termijn, onredelijk laat wordt ingediend. Dit geldt uitsluitend wanneer het bezwaar betrekking heeft op het niet tijdig nemen van een besluit.   
+### *Procedure* 
+
+* De CKI neemt kennis van het bezwaarschrift en bevestigt binnen twee weken de ontvangst.  
+
+* De CKI biedt gelegenheid tot het horen van de indiener.  
+
+* Het bezwaarschrift wordt gemeld bij de kwaliteitsmanager die het bezwaar registreert.  
+
+* Het horen betreft met name de vakinhoudelijke aspecten die geleid hebben tot het besluit en dient binnen in beginsel zes weken na het vaststellen dat een hoorprocedure aan de orde is, plaats te vinden.  
+
+* Het horen kan geschieden door de CKI of door een of meer door de CKI benoemde ter zaken kundige. Het horen geschiedt door een persoon of personen die niet betrokken is/zijn geweest bij de voorbereiding van het besluit, en geen binding hebben met de belanghebbende.  
+
+* Het horen geschiedt op een door de CKI te bepalen tijdstip binnen de gangbare kantooruren.  
+
+* Relevante stukken kunnen tot 10 dagen voor de hoorzitting worden ingediend en liggen gedurende een week voor de zitting ter inzage.  
+
+* Van het horen wordt afgezien indien het bezwaar kennelijk niet-ontvankelijk of kennelijk ongegrond is, inmiddels aan het bezwaar is tegemoetgekomen, of indien belanghebbende verklaart hiervan geen gebruik te maken.  
+
+* Van het horen wordt een verslag gemaakt. Het verslag wordt bij de beslissing op het bezwaar gevoegd.  
+
+* De hoorcommissie brengt tevens advies aan de CKI.   
+### *Beslissing op het bezwaarschrift* 
+
+* De CKI beslist aan de hand van de haar ter beschikking staande gegevens binnen zes weken, gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken. De beslistermijn kan eenmaal met ten hoogste 6 weken worden verlengd. Daarna kan de termijn slechts met toestemming van de belanghebbende worden verlengd.  
+
+* De CKI zal, bij het gegrond verklaren van het bezwaar, de beslissing herroepen en een nieuwe beslissing ter zake nemen.  
+
+* Van haar beslissing op het bezwaar zal de CKI de onderbouwing en motivering aan belanghebbende meedelen.   
+### *Bestuursrechter* 
+
+* Indien de inhoud of strekking van de nieuwe beslissing de belanghebbende hiertoe aanleiding geeft, dient hij zich in voorkomend geval te wenden tot de bestuursrechter.  
+
+* De CKI zal de belanghebbende in haar beslissing op bezwaar wijzen op deze mogelijkheid.    
+
+### 4.8  
+
+####Register voor systeemcertificatie
+
+De CKI registreert maandelijks de actuele gegevens in het Certificaat Arbodienst-register. Conform de overeenkomst tussen de CKI en de SBCA worden de gegevens elektronisch verzonden aan het SBCA ten behoeve van het SBCA Certificaat Arbodienst-register. Dit register wordt via internet toegankelijk gemaakt, binnen de wettelijke kaders. Het afgeven, het weigeren, het opschorten/schorsen of het intrekken van certificaten dient door de CKI onmiddellijk te worden doorgegeven aan de SBCA en de andere CKI’s.  
+
+### 4.9  
+
+####Norminterpretatie
+
+Het CCvD zorgt voor een eenduidige norminterpretatie van de eisen in dit certificatieschema voor de dienstverlening door arbodiensten. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere in het certificatieschema voor de dienstverlening door arbodiensten gehanteerde begrippen. Mocht het gebeuren dat aanvragers van het Certificaat Arbodienst, certificaathouders en CKI’s uiteenlopende definities hanteren en hierover meningsverschillen (blijven) bestaan, dan dienen afwijkende interpretaties te worden voorgelegd aan het CCvD.  
+
+### 5  
+
+####TOEZICHT
+
+De CKI is verplicht de certificaathouder blijvend te toetsen aan de eisen uit het Certificatieschema voor dienstverlening door arbodiensten. De CKI toetst de certificaathouder in overeenstemming met de eisen uit paragraaf 9.3 van ISO 17021:2011. 
+
+### 5.1  
+
+####Toegang
+
+Voor het toezicht kan het noodzakelijk zijn dat de CKI, de RvA, de Inspectie SZW zich toegang verschaffen tot gegevens van de certificaathouders. Het gaat om de volgende gegevens van de certificaathouder: 
+
+* het auditrapport van de CKI;  
+
+* het certificaat;  
+
+* alle voor een adequate uitoefening van het toezicht relevante documenten.   De certificaathouder verschaft toegang tot de gevraagde gegevens door middel van: 
+
+* het toezenden van schriftelijke documenten;  
+
+* het beschikbaar stellen van elektronische gegevens of bestanden.   In de certificatieovereenkomst neemt de CKI deze verplichting voor de certificaathouder op.  
+
+### 5.2  
+
+####Frequentie van het toezicht
+
+In deze paragraaf wordt aangegeven hoe vaak de CKI controles of (tussentijdse) audits houdt. Daarbij geldt het volgende uitgangspunt: in alle gevallen kan besloten worden tot onaangekondigde steekproefsgewijze controle. Doel van deze controle is om na te gaan of de zaken bij de certificaathouder daadwerkelijk goed zijn geregeld. Gedurende de looptijd van het Certificaat Arbodienst vindt ieder jaar een tussentijdse audit plaats van de CKI. De CKI kan altijd besluiten om tot een onaangekondigde steekproefsgewijze controle van de certificaathouder over te gaan.  
+
+### 5.3  
+
+####De wijze van uitvoering van het toezicht
+
+Bij de tussentijdse audits wordt een lead auditor en een auditor betrokken. Welke deskundigheden gedurende de looptijd van het certificaat bij de audits worden ingezet, wordt na overleg tussen de CKI en de arbodienst bepaald. De auditors onderzoeken of de arbodienst voldoet aan de eisen verwoord in het Certificatieschema en rapporteren aan de coördinator certificatie arbodiensten van de CKI. Deze coördinator beoordeelt inhoudelijk en procesmatig de rapportage. Indien de CKI weet of kan weten dat de veiligheid en gezondheid van werknemers en derden in gevaar wordt of kan worden gebracht door werkzaamheden die door een door haar afgegeven certificaat worden gereguleerd, dan moet de CKI dit melden aan de AI ([art. 1.5b, lid 3 Arbobesluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)).  
+
+### 5.4  
+
+####Verslag van bevindingen
+
+De CKI stelt een verslag op van haar bevindingen tijdens de tussentijdse audit. Dit verslag wordt ter beschikking gesteld aan de certificaathouder. Deze kan hiertegen eventueel een verzoek om herziening indienen; zie hiervoor paragraaf 4.7. Indien uit het verslag van de CKI blijkt dat er afwijkingen zijn geconstateerd dan geeft de CKI expliciet aan hoe en binnen welke termijn de geconstateerde afwijkingen worden opgeheven. De maximale termijn voor het opheffen van een geconstateerde afwijking bedraagt voor major non-conformities drie maanden en voor minor non-conformities een half jaar. Bevindingen waarbij de privacy van de werknemer wordt overtreden dienen als een major non-conformity te worden beoordeeld. Het ontbreken van een verplicht element in het privacyreglement leidt tot een minor non-conformity.  
+
+### 5.5  
+
+####Maatregelen ([artikel 1.5e Arbobesluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md))
+
+Indien blijkt dat een certificaathouder niet of niet meer voldoet aan de eisen of normen in het werkveldspecifieke certificatieschema dan heeft dit maatregelen door de CKI tot gevolg. De maatregelen strekken ertoe dat op zo kort mogelijke termijn voldaan wordt aan genoemde eisen of normen. Mogelijke maatregelen zijn het weigeren, schorsen of intrekken van het certificaat. Indien er sprake is van een maatregel wordt dit aan de certificaathouder kenbaar gemaakt. Tevens dient de Inspectie SZW hiervan in kennis gesteld te worden. Relevante informatie over de maatregel dient door de CKI ingebracht te worden in een centraal registratiesysteem. Deze meldingsplicht dient nauwkeurig uitgewerkt te worden, in verband met de vertrouwelijkheid van persoonsgegevens en de contractuele relatie tussen CKI en arbodienst. Indien een certificaathouder na een intrekking opnieuw gecertificeerd wil worden dient dezelfde procedure doorlopen te worden als bij initiële certificatie. De termijn tussen intrekken en het verstrekken van het nieuwe certificaat is minimaal 12 maanden. Bij het opleggen van een maatregel dient de CKI aan te geven (en te registreren) na welke periode certificatie weer is toegestaan. Organisatieveranderingen van arbodiensten zoals overnames, fusies, uitbreidingen of inkrimpingen kunnen invloed hebben op het Certificaat Arbodienst. Indien dit soort organisatieveranderingen zich voordoen, wordt dit door de certificaathouder gemeld aan de betreffende CKI, conform de artikelen 2.6, 2.12, eerste lid, en 2.13, eerste lid van de Arboregeling.  
+
+### 5.6  
+
+####Criteria
+
+De CKI neemt een aanvraag voor het Certificaat Arbodienst of voor een hercertificatie altijd in behandeling. Het Certificaat Arbodienst kan door de CKI worden afgegeven, geweigerd, opgeschort/geschorst en ingetrokken. Hieronder treft u de criteria voor het: 
+
+* afgeven,  
+
+* weigeren,  
+
+* opschorten/schorsen,  
+
+* intrekken   van het Certificaat Arbodienst door de CKI. Afgeven certificaat: Het Certificaat Arbodienst zal door de CKI worden afgegeven indien uit de initiële audit door de CKI blijkt, dat de aanvrager van het certificaat voldoet aan de eisen zoals die gesteld zijn in het Certificatieschema voor de dienstverlening door arbodiensten. Weigeren certificaat: Indien de aanvrager van een Certificaat Arbodienst of de certificaathouder niet voldoet aan de eisen uit het Certificatieschema voor de dienstverlening door arbodiensten weigert de CKI het certificaat. Opschorten/Schorsen: Een CKI zal het certificaat opschorten/schorsen, indien: 
+
+* het managementsysteem van de certificaathouder bij voortduring en in ernstig mate niet voldoet aan de eisen uit het Certificatieschema voor de dienstverlening door arbodiensten;  
+
+* de effectiviteit van het managementsysteem onvoldoende is. Dit is onvoldoende indien verbeteracties n.a.v. interne en externe audits niet worden uitgevoerd of er geen actie wordt ondernomen op de in de managementreviews gesignaleerde risico’s en verbetervoorstellen;  
+
+* de certificaathouder geen tussentijdse audits toestaat;  
+
+* de certificaathouder vrijwillig een verzoek tot opschorting/schorsing heeft gedaan;  
+
+* de certificaathouder in ernstige mate in strijd heeft gehandeld met één of meer van zijn verplichtingen ingevolge de certificatieovereenkomst, waaronder ook vallen zijn financiële verplichtingen;  
+
+* de certificaathouder de belangen van de CKI ernstig heeft geschaad;  
+
+* er geen adequate corrigerende maatregelen zijn getroffen tijdens de periode van 3 maanden ná constatering van major non-conformities.   De periode van opschorting/schorsing bedraagt maximaal 6 maanden. Binnen de gestelde periode van opschorting/schorsing (6 maanden): 
+
+* blijft de certificatieovereenkomst van kracht;  
+
+* zal de CKI toezicht houden op de door de certificaathouder te treffen maatregelen die moeten leiden tot de opheffing van de opschorting/schorsing;  
+
+* mag de certificaathouder geen gebruik maken van het certificaat.  
+
+* Overtreding van deze bepaling wordt beschouwd als oneigenlijk gebruik.   Intrekken: Intrekken van het certificaat vindt plaats nadat de CKI heeft vastgesteld dat: 
+
+* ná de afgesproken (her)beoordeling onvoldoende maatregelen zijn genomen om de non-conformity te kunnen afsluiten;  
+
+* er geen adequate corrigerende maatregelen zijn getroffen tijdens een periode van schorsing van het certificaat;  
+
+* de certificaathouder in ernstige mate in strijd heeft gehandeld met één of meer van zijn verplichtingen ingevolge de certificatieovereenkomst, waaronder ook vallen zijn financiële verplichtingen;  
+
+* de certificaathouder de belangen van de CKI ernstig heeft geschaad.   Indien binnen de gestelde periode van opschorting/schorsing door de certificaathouder geen adequate corrigerende maatregelen zijn getroffen, zal de CKI het certificaat intrekken. Daarmee vervalt de certificatie-overeenkomst.  
+
+### DEEL  II:  
+
+####NORMEN
+
+Deel 2 van dit certificatieschema bevat de normen die gelden voor een Certificaat Arbodienst. Beschreven wordt achtereenvolgens: 
+
+* eisen voor certificatie (hoofdstuk 6);  
+
+* de wijze waarop het voldoen aan de toelatingseisen wordt beoordeeld en gerapporteerd (hoofdstuk 7).   
+
+### 6  
+
+####WERKVELDSPECIFIEKE EISEN
+
+Het CCvD heeft eisen opgesteld voor certificatie. Hierbij moeten voortdurend de achterliggende doelen voor ogen gehouden worden, te weten het verzekeren dat er (management) systemen zijn die zorgen dat alle relevante risico’s gekend zijn en met adequate middelen beheerst worden, zodat uiteindelijk arbodiensten adequaat kunnen functioneren. Het gaat hierbij bijvoorbeeld om: 
+
+* Eisen m.b.t. management van de organisatie;  
+
+* Eisen m.b.t. management van middelen  
+
+* Eisen m.b.t. management van personen;  
+
+* Eisen m.b.t. procedures, werkwijzen/methoden.   Het Certificaat Arbodienst van een gecertificeerde arbodienst moet gebaseerd zijn op het ISO 9001:2008 kwaliteitsmanagementsysteem, aangevuld met wet- en regelgeving die niet expliciet wordt gedekt door ISO 9001:2008. Dit is in het onderhavige Certificatieschema vastgelegd. 
+### *Algemene eisen* 
+
+De arbodienst beschikt ten minste over een kwaliteitsmanagementsysteem conform ISO 9001:2008. Uitsluitingen conform ISO 9001:2008) par 1.2. zijn van toepassing. De scope waarop deze eisen betrekking hebben betreft minimaal de wettelijke kerntaken. Daarnaast kunnen arbodiensten deze scope uitbreiden waardoor ISO 9001:2008 ook van toepassing wordt voor de taken die de arbodienst zelf heeft aangegeven. Daarnaast moet voldaan worden aan de aanvullende eisen die hieronder staan vermeld. Bij iedere aanvullende eis staat vermeld welk onderdeel van de norm ISO 9001:2008 van toepassing is. 
+### *Aanvullende eisen* 
+
+1. Planning (Paragraaf 5.4 van ISO 9001:2008) 
+
+* De arbodienst garandeert de professionele onafhankelijkheid wat onder andere blijkt uit de statuten.  
+
+* De arbodienst onderschrijft de tekst van het professioneel statuut arbodienstverlening zoals opgesteld door de branche-organisatie en geaccepteerd door het CCvD en handelt dienovereenkomstig. Het gaat hierbij om de tekst van het professioneel statuut arbodienstverlening zoals die is opgenomen op de website van de SBCA (www.sbca.nl, button ‘documenten’). <sup> 2  De BOA (later: Boaborea, en nu: OVAL) heeft dit professioneel statuut arbodienstverlening geschreven.  </sup>    
+
+2. Management van middelen (Hoofdstuk 6 van ISO 9001:2008) 
+
+1. De arbodienst beschikt over een dusdanige voorziening dat een werknemer een andere bedrijfsarts toegewezen kan worden indien dit verzoek door een werknemer schriftelijk wordt ingediend.  
+
+2. T.a.v. privacy aspecten: 
+
+o In het kwaliteitssysteem van de arbodienst is beschreven in welke registratie(s), op welke wijze en op basis van welke grondslag en met welk doel de arbodienst (medische) gegevens vastlegt met betrekking tot de aangesloten werknemers.  
+
+o Deze registratie(s) zijn aangemeld bij het College Bescherming Persoonsgegevens (CBP). Soms worden (medische) gegevens vastgelegd in een registratie waarvan een klant van de arbodienst (=de werkgever) de verantwoordelijke is. In dat geval is die klant zélf verantwoordelijk voor melding bij het CBP. De arbodienst moet wel verifiëren of dat is gebeurd.  
+
+o Per registratie is er een privacyreglement. In het privacyreglement zijn minimaal de volgende onderwerpen beschreven: 
+
+* doel van het vastleggen van de gegevens en de herkomst van de gegevens;  
+
+* de vastlegging van (medische) persoonsgegevens in verband met ziekteverzuim en re-integratie op basis van de KNMG-code ‘Gegevensverkeer en samenwerking bij arbeidsverzuim en reïntegratie (2007)’ ;  
+
+* welke medewerkers hebben toegang tot de (medische) persoonsgegevens. Dit betreft de medewerkers die rechtstreeks bij de behandeling betrokken zijn. Op algemeen niveau dient in een autorisatieschema te worden vastgelegd wie toegang hebben tot (medische) persoonsgegevens. Indien er op klantniveau afwijkingen zijn moeten deze in een register worden vastgelegd;  
+
+* vermeld is hoe de autorisaties worden toegekend en beheerd;  
+
+* papieren dossiers met (medische) persoonsgegevens zijn in afsluitbare kasten opgeborgen. Er zijn afspraken over sleutelbeheer; elektronische (medische) persoonsgegevens worden zodanig beveiligd dat onbevoegden geen toegang kunnen krijgen tot deze gegevens.Het hoogst mogelijke beveiligingsniveau moet hier worden toegepast.  
+
+* de wijze waarop de werknemer, van wie persoonsgegevens zijn vastgelegd, gebruik kan maken van zijn wettelijke rechten, zoals het inzagerecht, het correctierecht en het recht op afschrift;  
+
+* de wijze waarop de werknemer kennis moet kunnen nemen van het verstrekken van gegevens uit de registratie aan derden alsmede de wijze waarop aan de werknemer voorafgaand om toestemming wordt gevraagd voorzover vereist;  
+
+* aan de werkgever worden geen (medische) persoonsgegevens verstrekt tenzij dit noodzakelijk is en de werknemer daarvoor zijn uitdrukkelijke toestemming heeft gegeven. Van de toestemming wordt aantekening gemaakt in het medisch dossier;  
+
+* aan de werkgever worden geen mededelingen gedaan over bezoek werknemer aan arbeidsomstandighedenspreekuur of vrijwillige deelname van werknemer aan periodieke onderzoeken. Indien naar aanleiding van zo’n bezoek of deelname de bedrijfsarts advies wenst te geven aan de werkgever dan is daarvoor de uitdrukkelijke en gerichte toestemming van de werknemer nodig. Deze toestemming is of aangetekend in het dossier en/of bevestigd middels een schriftelijke machtiging;  
+
+* in het privacyreglement wordt verwezen naar de klachtenprocedure van de arbodienst;  
+
+* het privacyreglement is een extern beschikbaar/openbaar document dat vanaf de website gratis is te downloaden of gratis opvraagbaar is voor de werkgever en/of de werknemer.      
+
+3. De arbodienst heeft in het kwaliteitssysteem een document opgenomen met voorbeelden van wat wel en wat niet gerapporteerd mag worden aan werkgever.  
+
+4. Er wordt een interne audit gedaan op naleving van de bepalingen van het privacyreglement.    
+
+3. Personeel (Paragraaf 6.2 van ISO 9001:2008) 
+
+* De arbodienst moet tenminste de volgende vier kerndeskundigen in dienst hebben, dan wel de vier kerndeskundigen georganiseerd hebben in een arbodienst als samenwerkingsverband: 
+
+o veiligheidskundige;  
+
+o arbeids- en bedrijfsgeneeskundige;  
+
+o arbeidshygiënist, en  
+
+o arbeids- en organisatiekundige.    
+
+* Met uitzondering van het samenwerkingsverband, zoals gedefinieerd in [artikel 2.6a, lid 2 van het Arbobesluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), moet iedere arbodienst tenminste beschikken over één arbeidsovereenkomst of publiekrechtelijke aanstelling voor onbepaalde tijd voor elke van de vier hierboven genoemde kerndeskundigen. Het minimum aantal uren voor deze aanstelling voor onbepaalde tijd is vier uur per week.  
+
+* (Kern-)deskundigen binnen de arbodienst zijn in staat zich een zelfstandig en onafhankelijk oordeel te vormen en dienovereenkomstig te handelen.  
+
+* Hoe de professionele dienstverlening wordt ingevuld is opgenomen in functiebeschrijvingen / taakomschrijvingen.  
+
+* De arbodienst werkt met een vorm van intercollegiale toetsing met als doelen: de deskundigheid op peil te houden en procesverbetering van de dienstverlening te bewerkstelligen. In een procedure moet zijn aangegeven op welke wijze, onder welke condities, onder wiens verantwoordelijkheid en met welke frequentie de intercollegiale toetsing met deskundigen plaatsvindt en wat er met de resultaten wordt gedaan. Wanneer de intercollegiale toetsing is gericht op vakinhoudelijke kennis dienen deskundigen binnen dat vakgebied aanwezig te zijn (interdisciplinair). Tevens dient tenminste één kerndeskundige vanuit de andere disciplines aanwezig te zijn. Wanneer de intercollegiale toetsing is gericht op procesverbetering, dienen meerdere deskundigen en bij het proces betrokken medewerkers aanwezig te zijn (intercollegiaal).   De volgende kerndeskundigen houden zich aan het professioneel statuut van de beroepsvereniging: de bedrijfsarts, de arbeidshygiënist en de veiligheidskundige. Voor de arbeids- en organisatiekundige bestaat geen professioneel statuut. Het gaat om de teksten van de professionele statuten van de beroepsverenigingen voor bedrijfsarsten (NVAB), arbeidshygiënisten (NVVA) en veiligheidskundigen (NVVK), zoals die zijn opgenomen op de website van de SBCA (www.sbca.nl, onder button ‘documenten’).  
+
+4. Planning van het realiseren van het product (Paragraaf 7.1 van ISO 9001:2008) 
+
+* De arbodienst plant, ontwikkelt en beheerst de processen die nodig zijn voor het realiseren van de wettelijk voorgeschreven kerntaken ([artikel 14a, tweede lid Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md)), alsmede de voor die klant relevante wettelijke eisen m.b.t. de vier kerntaken.  
+
+* De arbodienst bepaalt bij de opdrachtformulering de eisen van de klant en andere belanghebbenden alsmede de vier wettelijke eisen (kerntaken).   Per kerntaak: 
+
+* Maakt de arbodienst gebruik van aanwezige beschikbare voorinformatie (intern en extern);  
+
+* Bepaalt de arbodienst de relatie met de andere kerntaken;  
+
+* Adviseert de arbodienst volgens de arbeidshygiënische strategie, conform [artikel 3, lid 1, onder b. van de Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), aan de werkgever en de medezeggenschapsvertegenwoordiging;  
+
+* Beoordeelt de arbodienst het resultaat en het effect van de advisering;  
+
+* Evalueert de arbodienst het proces van dienstverlening (intern en extern).    
+
+5. Processen die verband houden met de klant (Paragraaf 7.2 van ISO 9001:2008) 
+
+* De arbodienst waarborgt zijn onafhankelijkheid ten aanzien van de klant en andere belanghebbenden.    
+
+6. Communicatie met de klant (Paragraaf 7.2.3 van ISO 9001:2008) 
+
+* De arbodienst informeert de werkgever en de medezeggenschapsvertegenwoordiging schriftelijk wie de contactpersoon van de arbodienst is en hoe de informatievoorziening aan de werkgever en de medezeggenschapsvertegenwoordiging is geregeld.  
+
+* De arbodienst stuurt een afschrift van elk advies op groeps- of afdelingsniveau inzake genomen en te nemen maatregelen, gericht op het arbeidsomstandighedenbeleid aan de werkgever en aan de medezeggenschapsvertegenwoordiging. Bij het ontbreken ervan wijst de arbodienst de werkgever op de plicht om het advies te verstrekken aan de belanghebbende werknemers.  
+
+* De arbodienst / de bedrijfsarts meldt een aangetoonde beroepsziekte aan het Nederlands Centrum voor Beroepsziekten (NCvB), overeenkomstig [artikel 9, lid 3 van de Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). Bij het melden van beroepsziekten neemt de arbodienst / de bedrijfsarts de registratierichtlijnen van het NCvB over het melden van beroepsziekten in acht. Vermoede beroepsziekten worden gemeld bij de werkgever en de medezeggenschapsvertegenwoordiging of, bij het ontbreken daarvan, bij de belanghebbende werknemers.  
+
+* De arbodienst meldt arbeidsgebonden factoren die leiden tot klachten en beroepsziekten bij de werkgever en vermeldt de meldingsplicht aan het NCvB.  
+
+* De arbodienst informeert werkgevers en werknemers over de mogelijkheid tot een deskundigenoordeel van het UWV (vroeger: second opinion) indien de werknemer of werkgever van mening verschillen over de uitspraak van de arbodienst.    
+
+7. Productie en het leveren van diensten (Paragraaf 7.5 van ISO 9001:2008) 
+
+7.1 Risico-inventarisatie en –evaluatie (RI&E) 
+
+a. De arbodienst moet een RI&E kunnen toetsen en zélf kunnen uitvoeren, alsmede de klant kunnen adviseren over de prioriteiten en de te nemen maatregelen, zoals bedoeld in [artikel 5](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [artikel 14, lid 1, onder a. van de Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en artikel 2.1 van de Arbeidsomstandighedenregeling (Arboregeling).  
+
+b. De arbodienst vervult deze taak met in acht neming van de stand van de wetenschap en professionele dienstverlening.  
+
+c. Bij de toetsing van de RI&E wordt tenminste één van de vier gecertificeerde kerndeskundigheden ingeschakeld. Bij een RI&E uitgevoerd door de klant bestaat deze uit een schriftelijke toetsing van de RI&E en de toetsing op de werkplek. Het laatstgenoemde is (op basis van [artikel 14, lid 12 Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [artikel 2.14b, lid 2 en 3 Arbobesluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) en artikel 2.1 van de Arboregeling) niet van toepassing op: 
+
+o bedrijven waar de werknemers in totaal niet meer dan 40 uur per week werk verrichten, bijvoorbeeld 3 werknemers werken elk 12 uur per week. De arbeidsduur voor dit bedrijf is dan in totaal 36 uur;  
+
+o bedrijven die 25 of minder werknemers in dienst hebben en die gebruik maken van een model branche-RI&E die is opgenomen in een CAO of een publieke regeling opgesteld door een bestuursorgaan. Dit model branche RI&E-instrument moet wel zijn getoetst door een geregistreerd bedrijfsarts of een gecertificeerde kerndeskundige;  
+
+o bedrijven die 25 of minder werknemers in dienst hebben en die een RI&E hebben opgesteld met behulp van een RI&E-instrument dat is aangemeld bij de Stichting van de Arbeid . <sup> 3  Zowel het de model RI&E-instrumenten via de CAO als de RI&E-instrumenten die zijn aangemeld bij de Stichting van de Arbeid zijn terug te vinden via www.rie.nl  </sup>  
+
+o Eisen aan dit RI&E-instrument zijn: 
+
+* het moet zijn opgesteld met betrokkenheid van werkgevers- en werknemersverenigingen op tenminste branche-niveau;  
+
+* het is getoetst door een gecertificeerde kerndeskundige of een geregistreerd bedrijfsarts;  
+
+* het instrument wordt digitaal beschikbaar gesteld en door werkgevers- en werknemersverenigingen gezamenlijk aangemeld;  
+
+* de aanmelding geldt voor maximaal drie jaar.      
+
+d. Zowel bij de toetsing van, als bij de advisering op basis van de RI&E wordt in ieder geval aandacht besteed aan de volgende aspecten: 
+
+* de bepaling van het gewenste niveau van interne deskundigheid van de klant;  
+
+* volledigheid, betrouwbaarheid en actualiteit;  
+
+* de in het plan van aanpak voorgestelde wijze waarop geconstateerde tekortkomingen kunnen worden verholpen;  
+
+* de (wijze van) prioritering waarmee de maatregelen worden genomen;  
+
+* aanvullende behoeften van de klant.    
+
+e. De arbodienst maakt ten behoeve van de advisering over de RI&E gebruik van informatie over de uitvoering van werkzaamheden, werkomstandigheden en ondersteunende processen bij de klant; melding en registratie van ongevallen en beroepsziekten ([artikel 9 Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md)); verzuimontwikkeling en gegevens op grond van: 
+
+* de verzuimbegeleiding;  
+
+* overige relevante uitgebrachte adviezen of onderzoeksrapportages uitgebracht door de arbodienst of andere deskundigen;  
+
+* het (periodiek) arbeidsgezondheidskundig onderzoek.      
+
+7.2 Ziekteverzuimbegeleiding 
+
+a. De arbodienst moet de werkgever kunnen ondersteunen bij het uitvoeren van taken op het gebied van ziekteverzuimbeleid en in het kader van [artikel 14, eerste lid, onderdeel b van de Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) (begeleiding werkgever en werknemer ingevolge [Wet verbetering poortwachter](../../../wet/wet/verbetering/poortwachter/BWBR0013063/README.md)) en artikel 2.2. van de Arboregeling.  
+
+b. De arbodienst voldoet aan de eisen zoals die zijn vastgelegd in de [Wet verbetering poortwachter](../../../wet/wet/verbetering/poortwachter/BWBR0013063/README.md) (WVP) en de ministeriële regeling [Procesgang eerste en tweede ziektejaar](../../../ministeriele-regeling/regeling/procesgang/eerste/ziektejaar/BWBR0013540/README.md).  
+
+c. De arbodienst overlegt regelmatig met de klant over: 
+
+* de ontwikkeling in het ziekteverzuim en eventuele vermoede beroepsziekten;  
+
+* mogelijke relaties tussen het verzuim en de aard en inhoud van de werkzaamheden van de zieke werknemer, de werkomstandigheden en de arbeidsverhoudingen.    
+
+d. Het overleg wordt gevoerd op basis van samenhangende, methodisch vastgelegde, geaggregeerde en geanalyseerde gegevens uit: 
+
+* de verzuimregistratie;  
+
+* de individuele verzuimbegeleiding;  
+
+* het arbeidsomstandigheden spreekuur (indien deze althans nog wordt uitgevoerd);  
+
+* het arbeidsgezondheidskundig onderzoek.   Bij deze analyse zijn de genoemde gegevens niet op individuele werknemers te herleiden.    
+
+7.3 Arbeidsgezondheidskundig onderzoek 
+
+a. De arbodienst moet een arbeidsgezondheidskundig onderzoek uit kunnen voeren zoals bedoeld in [artikel 14, eerste lid, onderdeel c](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [artikel 18 van de Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en artikel 2.3 van de Arboregeling.  
+
+b. De arbodienst stelt indicaties en criteria (relevantie, subsidiariteit, proportionaliteit) op voor de uitvoering van het arbeidsgezondheidskundig onderzoek en voor de relatie met de RI&E of werkplekonderzoek.  
+
+c. De arbodienst adviseert aan de klant omtrent inhoud en frequentie van het arbeidsgezondheidskundig onderzoek, gebaseerd op de RI&E. Daarbij is de werknemer overigens niet verplicht om mee te werken aan het arbeidsgezondheidskundig onderzoek.  
+
+d. Met de individuele werknemer worden het resultaat van het arbeidsgezondheidskundig onderzoek en de te ondernemen vervolgstappen besproken en zonodig of desgewenst schriftelijk vastgelegd.    
+
+7.4 Overige adviserings- en ondersteuningstaken De arbodienst moet op een adequate wijze kunnen adviseren over een gestructureerd en systematisch arbo- en ziekteverzuimbeleid waarbij met name rekening wordt gehouden met bijzondere groepen van werknemers (conform [artikel 5 Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md)).  
+
+7.5 Aanstellingskeuringen 
+
+a. De arbodienst moet een aanstellingskeuring kunnen uitvoeren zoals bedoeld in de [Wet medische Keuringen](../../../wet/wet/op/de/medische/keuringen/BWBR0008819/README.md), het Besluit medische Keuringen, en zoals bedoeld in [artikel 14, eerste lid, onderdeel c van de Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en artikel 2.4 van de Arboregeling.  
+
+b. De arbodienst verstrekt informatie aan de werkgever over het doel en de functie van aanstellingskeuringen ten aanzien van 
+
+1. aanstellingskeuringen géén selectie-instrument;  
+
+2. aanstellingskeuringen aan eind sollicitatieprocedure;  
+
+3. onafhankelijk oordeel van de bedrijfsarts van de arbodienst.    
+
+d. De arbodienst stelt indicaties en criteria (tijdstip, aard, inhoud en omvang beperkt tot het doel/relevantie, subsidiariteit, proportionaliteit) op voor uitvoering van de aanstellingskeuring ten aanzien van functie-eisen, gezondheidscriteria, belasting / belastbaarheid.  
+
+e. De arbodienst adviseert en verstrekt informatie aan de individuele keurling, zodanig dat de rechten van de keurling gewaarborgd worden.    
+
+7.6 Toegang werknemers Arbodiensten kan gevraagd worden om uitvoering te geven aan de verplichting uit de [Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) om werknemers toegang te geven tot de arbodienst ([art. 5, lid 2, Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md)). De arbodienst moet daarom een spreekuur kunnen uitvoeren. Met de werkgevers die deze dienstverlening wensen, worden afspraken gemaakt over de toegankelijkheid van het spreekuur voor individuele werknemers. De advisering richting de individuele werknemer omvat in ieder geval het eventuele overleg met de werkgever over de conclusie en de te ondernemen actie.    
+
+8. Beheersing van productie en het leveren van diensten (Paragraaf 7.5.1 van ISO 9001:2008) De arbodienst draagt zorg voor: 
+
+a. afstemming van de benodigde personeelscapaciteit met de aard en inhoud van de contracten met klanten, in relatie tot het aantal, type, de grootte en risicoklasse van deze organisaties;  
+
+b. kerndeskundigen of daarmee vergelijkbare deskundigen voor het onderkennen van risico’s in een bepaalde bedrijfstak, gebaseerd op vastgelegde criteria.    
+
+9. Klant- en werknemerstevredenheid (Paragraaf 8.2.1 van ISO 9001:2008) 
+
+a. De arbodienst concretiseert schriftelijk zoveel mogelijk de beoogde resultaten in doelstellingen en prestaties.  
+
+b. De arbodienst formuleert meetbare doelstellingen t.a.v. het verkrijgen van tevredenheid van klanten en werknemers.  
+
+c. De arbodienst stelt doeltreffende en doelmatige processen vast om informatie over klant- en werknemerstevredenheid te verzamelen, analyseren en gebruiken ter verbetering van de prestaties van de organisatie.  
+
+d. De arbodienst meet jaarlijks de tevredenheid van de klanten en de werknemers over de geleverde dienstverlening en analyseert de verzamelde informatie-gegevens ter verbetering van de dienstverlening. De arbodienst evalueert de dienstverlening aan de klant en de werknemers waarbij aandacht wordt besteed aan de factoren of belemmeringen in de arbodienst of bij de klant of de werknemer die een beter effect in de weg staan. Bij klanten met 100 werknemers of meer evalueert de arbodienst jaarlijks aan de hand van een rapportage de verleende dienstverlening en bereikte resultaten, en doet voorstellen voor de komende periode.    
+
+10. Verbetering (Paragraaf 8.5 van ISO 9001:2008) 
+
+a. Er moet een gedocumenteerde procedure worden vastgelegd voor de klachtafhandeling van klanten en werknemers. Dit in overeenstemming met de paragrafen 4.6 en 4.7 van dit Certificatieschema.  
+
+b. De arbodienst wijst de klager op de mogelijkheid een klacht in te dienen bij een andere instantie conform het vastgelegde in het Certificatieschema.    
+
+11. Aanvullende eisen niet aan ISO 9001:2008 gekoppeld Een nieuwe interne arbodienst moet aan alle eisen van het Certificatieschema voor de dienstverlening door arbodiensten voldoen voor certificering. Tot het moment dat het Certificaat arbodienst is verstrekt aan de interne arbodienst blijft de externe arbodienst verantwoordelijk. Bij een samenwerkingsverband moet de werkgever van de arbodienst zijn verantwoordelijkheid voor het samenwerkingsverband aantonen.   
+### *BEOORDELINGSMETHODIEK* 
+
+In dit hoofdstuk worden de beoordelingscriteria uitgewerkt van de (potentiële) certificaathouder m.b.t.: 
+
+* de initiële audit;  
+
+* de tussentijdse audit;  
+
+* de audit m.b.t. de hercertificatie.   
+### *1. Uitwerken criteria initiële audit* 
+
+Fase 1-audit: Het doel van de Fase 1-audit is het vaststellen of er voldoende basis aanwezig is om het certificatie-onderzoek middels een audit uit te voeren. De Fase 1-audit wordt op locatie bij het bedrijf uitgevoerd. De Fase 1-audit bestaat uit de volgende onderdelen: 
+
+* beoordeling van de documentatie m.b.t. het managementsysteem;  
+
+* beoordeling of locatie, proces, middelen, doelstellingen, personeel en management klaar zijn voor de Fase 2-audit volgens het bedoelde toepassingsgebied;  
+
+* beoordeling of de klant in staat is om aan de eisen te voldoen, met name m.b.t. het herkennen van belangrijke aspecten, processen, doelen en de uitvoering van het managementsysteem;  
+
+* verzamelen van relevante informatie over de reikwijdte van het managementsysteem, de processen en de locaties van de klant, inclusief relevante beleidsdocumenten, zoals m.b.t. kwaliteit;  
+
+* beoordeling of uitvoering interne audits en managementreview beschikbaar zijn;  
+
+* opstellen planning voor de Fase 2-audit;  
+
+* het beoordelen van de inzet van mensen en middelen voor de Fase-2 audit.   Fase 2-audit: Nadat de Fase 1-audit geheel of grotendeels is afgerond kan, in overleg met de potentiële certificaathouder, de auditplanning voor de Fase 2-audit worden opgesteld. Aandachtspunten bij de auditplanning zijn: 
+
+* tijdsbesteding conform de calculatie;  
+
+* volledige toetsing van het toepassingsgebied;  
+
+* steekproefomvang bij vestigingen.   De auditplanning geeft informatie met betrekking tot de samenstelling van het auditteam, datum, tijd, functie/interviews, locatiebezoeken in relatie met de te toetsen normaspecten. De met de potentiële certificaathouder afgesproken auditplanning dient aantoonbaar met de klant gecommuniceerd te zijn. Het doel van de Fase 2-audit is het vaststellen van: 
+
+* de conformiteit t.o.v. alle eisen uit het onderhavige Certificatieschema;  
+
+* effectieve monitoring en meting van kwaliteitsprestatie-indicatoren en doelstellingen;  
+
+* beoordeling of het systeem voldoet aan de wettelijke eisen;  
+
+* effectieve procesbeheersing;  
+
+* effectieve uitvoering van interne audits en management review;  
+
+* effectieve klantgerichtheid van het management;  
+
+* een daarop afgestemd effectief managementsysteem.   De Fase 1-audit en de Fase 2-audit vormen tezamen de initiële audit. De criteria van de initiële audit zijn gebaseerd op paragraaf 9.2.3 van ISO 17021:2011. 
+### *2. Controle audits* 
+
+De eerste periodieke controle audit vindt plaats uiterlijk binnen 12 maanden ná de laatste dag van de Fase-2 audit. Aandachtspunten bij controle audits zijn: 
+
+* ná certificaatverlening moet er minimaal jaarlijks toezicht worden gehouden;  
+
+* de totaal te besteden tijd mag verspreid worden over meerdere (controle) audits gedurende de 3-jarige looptijd van het certificaat;  
+
+* de certificatiebeslissing bij hercertificatie vindt aantoonbaar plaats vóórdat de vervaldatum van het certificaat is bereikt.   De controle audit omvat tenminste de volgende beoordelingen: 
+
+* interne audits en management review;  
+
+* de acties ondernomen n.a.v. non-conformities uit eerdere audits;  
+
+* het afhandelen van klachten;  
+
+* de effectiviteit van het managementsysteem;  
+
+* voortgang van de geplande activiteiten voor continue verbetering;  
+
+* de effectiviteit van de procesbeheersing;  
+
+* beoordelen van wijzigingen;  
+
+* beoordelen van het gebruik van, of verwijzen naar het Certificaat Arbodienst.   De criteria van de controle audit zijn gebaseerd op paragraaf 9.3.2 van ISO 17021. 
+### *3. Audit t.b.v. hercertificatie* 
+
+De audit t.b.v. de hercertificatie omvat tenminste de volgende beoordelingen: 
+
+* de prestaties van het kwaliteitsmanagementsysteem over de afgelopen certificatieperiode;  
+
+* De effectiviteit van het kwaliteitsmanagementsysteem in het licht van in- en externe veranderingen;  
+
+* Expliciete betrokkenheid om het kwaliteitsmanagementsysteem te blijven verbeteren;  
+
+* Draagt het kwaliteitsmanagementsysteem bij aan het verwezenlijken van het beleid en het doel van de organisatie   De criteria van de audit t.b.v. de hercertificatie zijn gebaseerd op paragraaf 9.4.2.1 van ISO 17021. De CKI dient een zodanig auditplanning vast te stellen, dat eventuele noodzakelijke correctieve maatregelen n.a.v. geconstateerde major non-conformities vóór de vervaldatum van het lopende certificaat zijn geïmplementeerd. Hercertificatie (inclusief corrigerende maatregelen) dient te hebben plaatsgevonden vóór de vervaldatum van het certificaat.  
+
+### Bijlage  1:  
+
+####Auditdagen per arbodienst
+
+In paragraaf 4.2 van het Certificatieschema voor de dienstverlening door arbodiensten is in de procedure voor certificatie het minimum aantal "auditdagen" omschreven. Ter verduidelijking is in onderstaande tabellen, weer gegeven hoeveel auditdagen per type arbodienst minimaal besteed moeten worden aan de certificatie. Het totale aantal auditdagen voor de 3-jaarlijkse cyclus is berekend en vermenigvuldigd met ¾. De uitkomst is naar beneden bijgesteld omdat de klantbezoeken zijn vervallen. Dit aantal dagen is verdeeld over 1 initiële en 2 periodieke audits.  Schema voor de initiële audit: aantal auditdagen 
+
+| Aantal vestigingen  | Aantal te bezoeken vestigingen  | Aantal personeelsleden arbodienst  | <15  | 15–30  | 31–100  | 101–250  | 251–500  | >500  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1  | 1  | 3  | 3,5  | 4,5  | 6,5  | --- | --- |
+| 2–5  | 2  | 4  | 4,5  | 5,5  | 7,5  | 8,5  | 9,5  |
+| 6–10  | 4  | 4,5  | 5  | 6  | 8  | 9  | 12  |
+| 11–15  | 6  | 5,5  | 6  | 8  | 10  | 11  | 14  |
+| 16–20  | 8  | --- | 7  | 8,5  | 10,5  | 12  | 15  |
+| 21–25  | 10  | --- | --- | 10  | 11  | 13  | 16  |
+| 26–30  | 12  | --- | --- | --- | --- | 15,5  | 17  |
+| 31–35  | 14  | --- | --- | --- | --- | 16  | 17,5  |
+| 36–40  | 16  | --- | --- | --- | --- | 17  | 18  |
+| 41–45  | 18  | --- | --- | --- | --- | 18  | 19  |
+
+Schema voor de periodieke audit: aantal auditdagen 
+
+| Aantal vestigingen  | Aantal te bezoeken vestigingen  | Aantal personeelsleden arbodienst  | <15  | 15–30  | 31–100  | 101–250  | 251–500  | >500  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1  | 1  | 1,5  | 1,5  | 2,5  | 3,5  | --- | --- |
+| 2–5  | 2  | 2,5  | 2,5  | 2,5  | 3,5  | 4,5  | 4,5  |
+| 6–10  | 2  | 3,5  | 3,5  | 3,5  | 4,5  | 5,5  | 5,5  |
+| 11–15  | 3  | 4  | 4  | 4  | 5  | 6  | 6  |
+| 16–20  | 4  | --- | 5  | 5  | 6  | 7  | 7  |
+| 21–25  | 5  | --- | --- | 6  | 7  | 8  | 8  |
+| 26–30  | 6  | --- | --- | --- | --- | 8,5  | 8,5  |
+| 31–35  | 7  | --- | --- | --- | --- | 9  | 9  |
+| 36–40  | 8  | --- | --- | --- | --- | 9,5  | 10  |
+| 41–45  | 9  | --- | --- | --- | --- | 10  | 11  |
+
+Indien een arbodienst over meer vestigingen beschikt, wordt in overleg met het Centraal College van Deskundigen een aangepast schema opgesteld.  
+
+### Bijlage  IIc  
 
 ####behorend bij Artikel 2.14 
 
@@ -9454,8 +10447,8 @@ Het is mogelijk dat enkele gedefinieerde begrippen of afkortingen niet letterlij
 | WSCS-WOD-A  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikerarts.  Documentnummer: WSCS-WOD-A: 2012, versie 1.  |
 | WSCS-WOD-B  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikmedisch Begeleider.  Documentnummer: WSCS-WOD-B: 2012, versie 1.  |
 | WSCS-WOD-D  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid.  Documentnummer: WSCS-WOD-D: 2012, versie 1.  |
-| WSCS-WOD-E  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid verricht door de brandweer.  Documentnummer: WSCS-WOD-F: 2012, versie 1.  |
-| WSCS-WOD-F  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider bij de brandweer.  Documentnummer: WSCS-WOD-F: 2012, versie 1.  |
+| WSCS-WOD-E  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid verricht door de brandweer.  Documentnummer: WSCS-WOD-E: 2012, versie 1.  |
+| WSCS-WOD-F  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider bij de brandweer.  Documentnummer: WSCS-WOD-E: 2012, versie 1.  |
 | WSCS-WOD-L  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider.  Documentnummer: WSCS-WOD-L: 2012, versie 1.  |
 
 ### 3  
@@ -9814,8 +10807,8 @@ Het is mogelijk dat enkele gedefinieerde begrippen of afkortingen niet letterlij
 | WSCS-WOD-A  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikerarts.  Documentnummer: WSCS-WOD-A: 2012, versie 1.  |
 | WSCS-WOD-B  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikmedisch Begeleider.  Documentnummer: WSCS-WOD-B: 2012, versie 1.  |
 | WSCS-WOD-D  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid.  Documentnummer: WSCS-WOD-D: 2012, versie 1.  |
-| WSCS-WOD-E  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid verricht door de brandweer.  Documentnummer: WSCS-WOD-F: 2012, versie 1.  |
-| WSCS-WOD-F  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider bij de brandweer.  Documentnummer: WSCS-WOD-F: 2012, versie 1.  |
+| WSCS-WOD-E  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid verricht door de brandweer.  Documentnummer: WSCS-WOD-E: 2012, versie 1.  |
+| WSCS-WOD-F  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider bij de brandweer.  Documentnummer: WSCS-WOD-E: 2012, versie 1.  |
 | WSCS-WOD-L  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider.  Documentnummer: WSCS-WOD-L: 2012, versie 1.  |
 
 ### 3  
@@ -10734,8 +11727,8 @@ Het is mogelijk dat enkele gedefinieerde begrippen of afkortingen niet letterlij
 | WSCS-WOD-A  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikerarts.  Documentnummer: WSCS-WOD-A: 2012, versie 1.  |
 | WSCS-WOD-B  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikmedisch Begeleider.  Documentnummer: WSCS-WOD-B: 2012, versie 1.  |
 | WSCS-WOD-D  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid.  Documentnummer: WSCS-WOD-D: 2012, versie 1.  |
-| WSCS-WOD-E  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid verricht door de brandweer.  Documentnummer: WSCS-WOD-F: 2012, versie 1.  |
-| WSCS-WOD-F  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider bij de brandweer.  Documentnummer: WSCS-WOD-F: 2012, versie 1.  |
+| WSCS-WOD-E  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid verricht door de brandweer.  Documentnummer: WSCS-WOD-E: 2012, versie 1.  |
+| WSCS-WOD-F  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider bij de brandweer.  Documentnummer: WSCS-WOD-E: 2012, versie 1.  |
 | WSCS-WOD-L  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider.  Documentnummer: WSCS-WOD-L: 2012, versie 1.  |
 
 ### 3  
@@ -11715,8 +12708,8 @@ Het is mogelijk dat enkele gedefinieerde begrippen of afkortingen niet letterlij
 | WSCS-WOD-A  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikerarts.  Documentnummer: WSCS-WOD-A: 2012, versie 1.  |
 | WSCS-WOD-B  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikmedisch Begeleider.  Documentnummer: WSCS-WOD-B: 2012, versie 1.  |
 | WSCS-WOD-D  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid.  Documentnummer: WSCS-WOD-D: 2012, versie 1.  |
-| WSCS-WOD-E  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid verricht door de brandweer.  Documentnummer: WSCS-WOD-F: 2012, versie 1.  |
-| WSCS-WOD-F  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider bij de brandweer.  Documentnummer: WSCS-WOD-F: 2012, versie 1.  |
+| WSCS-WOD-E  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid verricht door de brandweer.  Documentnummer: WSCS-WOD-E: 2012, versie 1.  |
+| WSCS-WOD-F  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider bij de brandweer.  Documentnummer: WSCS-WOD-E: 2012, versie 1.  |
 | WSCS-WOD-L  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider.  Documentnummer: WSCS-WOD-L: 2012, versie 1.  |
 
 ### 3  
@@ -13297,8 +14290,8 @@ Het is mogelijk dat enkele gedefinieerde begrippen of afkortingen niet letterlij
 | WSCS-WOD-A  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikerarts.  Documentnummer: WSCS-WOD-A: 2012, versie 1.  |
 | WSCS-WOD-B  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikmedisch Begeleider.  Documentnummer: WSCS-WOD-B: 2012, versie 1.  |
 | WSCS-WOD-D  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid.  Documentnummer: WSCS-WOD-D: 2012, versie 1.  |
-| WSCS-WOD-E  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid verricht door de brandweer.  Documentnummer: WSCS-WOD-F: 2012, versie 1.  |
-| WSCS-WOD-F  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider bij de brandweer.  Documentnummer: WSCS-WOD-F: 2012, versie 1.  |
+| WSCS-WOD-E  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid verricht door de brandweer.  Documentnummer: WSCS-WOD-E: 2012, versie 1.  |
+| WSCS-WOD-F  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider bij de brandweer.  Documentnummer: WSCS-WOD-E: 2012, versie 1.  |
 | WSCS-WOD-L  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider.  Documentnummer: WSCS-WOD-L: 2012, versie 1.  |
 
 ### 3  
@@ -14109,8 +15102,8 @@ Het is mogelijk dat enkele gedefinieerde begrippen of afkortingen niet letterlij
 | WSCS-WOD-A  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikerarts.  Documentnummer: WSCS-WOD-A: 2012, versie 1.  |
 | WSCS-WOD-B  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikmedisch Begeleider.  Documentnummer: WSCS-WOD-B: 2012, versie 1.  |
 | WSCS-WOD-D  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid.  Documentnummer: WSCS-WOD-D: 2012, versie 1.  |
-| WSCS-WOD-E  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid verricht door de brandweer.  Documentnummer: WSCS-WOD-F: 2012, versie 1.  |
-| WSCS-WOD-F  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider bij de brandweer.  Documentnummer: WSCS-WOD-F: 2012, versie 1.  |
+| WSCS-WOD-E  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid verricht door de brandweer.  Documentnummer: WSCS-WOD-E: 2012, versie 1.  |
+| WSCS-WOD-F  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider bij de brandweer.  Documentnummer: WSCS-WOD-E: 2012, versie 1.  |
 | WSCS-WOD-L  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider.  Documentnummer: WSCS-WOD-L: 2012, versie 1.  |
 
 ### 3  
@@ -14946,8 +15939,8 @@ Het is mogelijk dat enkele gedefinieerde begrippen of afkortingen niet letterlij
 | WSCS-WOD-A  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikerarts.  Documentnummer: WSCS-WOD-A: 2012, versie 1.  |
 | WSCS-WOD-B  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikmedisch Begeleider.  Documentnummer: WSCS-WOD-B: 2012, versie 1.  |
 | WSCS-WOD-D  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid.  Documentnummer: WSCS-WOD-D: 2012, versie 1.  |
-| WSCS-WOD-E  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid verricht door de brandweer.  Documentnummer: WSCS-WOD-F: 2012, versie 1.  |
-| WSCS-WOD-F  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider bij de brandweer.  Documentnummer: WSCS-WOD-F: 2012, versie 1.  |
+| WSCS-WOD-E  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid verricht door de brandweer.  Documentnummer: WSCS-WOD-E: 2012, versie 1.  |
+| WSCS-WOD-F  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider bij de brandweer.  Documentnummer: WSCS-WOD-E: 2012, versie 1.  |
 | WSCS-WOD-L  | :  | Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider.  Documentnummer: WSCS-WOD-L: 2012, versie 1.  |
 
 ### 3  

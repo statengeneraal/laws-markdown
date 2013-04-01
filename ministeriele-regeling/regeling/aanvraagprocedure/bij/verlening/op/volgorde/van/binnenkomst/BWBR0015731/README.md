@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 15 oktober 2003, nr. EZT/5003904.JZ, houdende regels omtrent de aanvraag van een vergunning voor het gebruik van frequentieruimte en de toelatingscriteria voor het verlenen van een vergunning (Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte)
 
 De Minister van Economische Zaken,  
-Gelet op de [artikelen 11](../../../../../../../../../../AMvB/frequentiebesluit/BWBR0009997/README.md), [12](../../../../../../../../../../AMvB/frequentiebesluit/BWBR0009997/README.md) en [14 van het Frequentiebesluit](../../../../../../../../../../AMvB/frequentiebesluit/BWBR0009997/README.md);
+Gelet op de artikelen 11, 12 en 14 van het Frequentiebesluit;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -23,12 +23,12 @@ b. Agentschap Telecom: het Agentschap Telecom van het Ministerie van Economische
 
 ### Artikel  2  
 
-Deze regeling is alleen van toepassing op aanvragen tot verlening van een vergunning voor het gebruik van frequentieruimte door middel van de procedure op volgorde van binnenkomst of bij wijze van voorrang.  
+Deze regeling is alleen van toepassing op aanvragen tot verlening van een vergunning voor het gebruik van frequentieruimte door middel van de procedure als bedoeld in artikel 3.10, eerste lid, onder a, van de wet.  
 
 ### Artikel  3  
 
 1.  Een aanvraag tot verlening van een vergunning voor het gebruik van frequentieruimte geschiedt door middel van een daartoe strekkend formulier.   
-2.  De aanvraag tot verlening van een vergunning voor frequentieruimte alsmede de aanvraag tot wijziging of intrekking van een vergunning wordt ingediend bij het Agentschap Telecom. Van aanvragen die betrekking hebben op openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten verstrekt de minister een afschrift aan het college.   
+2.  De aanvraag tot verlening van een vergunning voor frequentieruimte alsmede de aanvraag tot wijziging of intrekking van een vergunning wordt ingediend bij het Agentschap Telecom.   
 3.  Een aanvraag voor de verlening van een vergunning voor het gebruik van frequentieruimte ten dienste van singlepoint-singlepoint-straalverbindingen, alsmede een aanvraag voor de verlening, wijziging of intrekking van een vergunning voor het gebruik van frequentieruimte ten dienste van de maritieme radiocommunicatie of voor het gebruik van frequentieruimte ten dienste van het doen van onderzoekingen kan bij het Agentschap Telecom worden ingediend langs elektronische weg met gebruikmaking van een daartoe strekkend elektronisch aanvraagformulier.   
 4.  De aanvrager die voor de eerste maal een aanvraag langs elektronische weg als bedoeld in het derde lid indient, geeft daarbij een persoonlijke code op en verzendt binnen drie dagen na de datum van elektronische verzending van het elektronisch aanvraagformulier aan het Agentschap Telecom per gewone post een door hem ondertekende schriftelijke verklaring dat hij een aanvraag langs elektronische weg heeft ingediend.   
 5.  Bij het indienen van een volgende aanvraag langs elektronische weg verstrekt de aanvrager naast de op het elektronische aanvraagformulier gevraagde gegevens de persoonlijke code, bedoeld in het vierde lid.   
@@ -66,7 +66,7 @@ b. op grond van de in de aanvraag vermelde gegevens naar het oordeel van de mini
 
 ### Artikel  5  
 
-1.  Een vergunning voor het gebruik van frequentieruimte ten dienste van de maritieme radiocommunicatie wordt verleend aan natuurlijke personen van 16 jaar en ouder indien dezen in het bezit zijn van een certificaat van bediening als bedoeld in [artikel 23, eerste lid, van de Examenregeling frequentiegebruik](../../../../../../../../../../ministeriele-regeling/examenregeling/frequentiegebruik/BWBR0010039/README.md), dat geldig is voor het desbetreffende frequentiegebruik overeenkomstig het bepaalde in [bijlage 11 van de Regeling gebruik van frequentieruimte zonder vergunning 2008](../../../../../../../../../../ministeriele-regeling/regeling/gebruik/van/frequentieruimte/zonder/vergunning/2008/BWBR0023553/README.md) of aan rechtspersonen.   
+1.  Een vergunning voor het gebruik van frequentieruimte ten dienste van de maritieme radiocommunicatie wordt verleend aan natuurlijke personen van 16 jaar en ouder indien dezen in het bezit zijn van een certificaat van bediening als bedoeld in artikel 23, eerste lid, van de Examenregeling frequentiegebruik, dat geldig is voor het desbetreffende frequentiegebruik overeenkomstig het bepaalde in bijlage 11 van de Regeling gebruik van frequentieruimte zonder vergunning 2008 of aan rechtspersonen.   
 2.  Een vergunning als bedoeld in het eerste lid wordt slechts verleend als de aanvrager aantoont een redelijk belang te hebben bij de gevraagde vergunning.   
 
 ### §  3  
@@ -87,7 +87,7 @@ Een vergunning voor het gebruik van frequentieruimte voor ander gebruik dan bedo
 
 ### Artikel  8  
 
-De [Regeling aanvraag en toelating vergunningen op volgorde van binnenkomst of bij wijze van voorrang](../../../../../../../../../../ministeriele-regeling/regeling/aanvraag/en/toelating/vergunningen/op/volgorde/van/binnenkomst/of/etc/BWBR0010035/README.md) wordt ingetrokken.  
+De Regeling aanvraag en toelating vergunningen op volgorde van binnenkomst of bij wijze van voorrang wordt ingetrokken.  
 
 ### Artikel  9  
 
@@ -95,7 +95,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  10  
 
-Deze regeling wordt aangehaald als: Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte.  
+Deze regeling wordt aangehaald als: Regeling aanvraagprocedure bij verlening op volgorde van binnenkomst.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 

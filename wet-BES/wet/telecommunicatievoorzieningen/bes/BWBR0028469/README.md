@@ -10,7 +10,7 @@
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *Onze Minister:* Onze Minister van Economische Zaken;  
+a. *Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. *openbaar lichaam:* het openbaar lichaam Bonaire, Sint Eustatius of Saba  
 
@@ -290,7 +290,7 @@ b. andere dan luchtvaartuigen van een openbaar lichaam, die zich bevinden in het
 ### Artikel  18  
 
 1.  Het is anders dan krachtens concessie verboden een draadomroepinrichting aan te leggen, in stand te houden, te exploiteren of te doen exploiteren, tenzij met machtiging van Onze Minister.   
-2.  Van het verbod in het eerste lid zijn vrijgesteld de door Onze Minister aan te wijzen categorieën draadomroepinrichtingen van zeer geringe omvang, die voldoen aan door Onze Minister te stellen regels met betrekking tot de techniek van die inrichtingen. Van het voornemen tot zodanige aanwijzing doet Onze Minister mededeling aan Onze Minister van Justitie.   
+2.  Van het verbod in het eerste lid zijn vrijgesteld de door Onze Minister aan te wijzen categorieën draadomroepinrichtingen van zeer geringe omvang, die voldoen aan door Onze Minister te stellen regels met betrekking tot de techniek van die inrichtingen. Van het voornemen tot zodanige aanwijzing doet Onze Minister mededeling aan Onze Minister van Veiligheid en Justitie.   
 3.  Aan een machtiging kunnen voorschriften en beperkingen worden verbonden die betrekking kunnen hebben op: 
 
 a. de duur van de machtiging;  
@@ -591,7 +591,7 @@ c. het niet naleven van de verplichting bedoeld in artikel 33, derde lid.
 
 ### Artikel  36  
 
-Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) bedoelde ambtenaren, belast de daartoe, op gezamenlijke voordracht van Onze Minister en Onze Minister van Justitie aangewezen personen. Een zodanige aanwijzing wordt bekend gemaakt in de Staatscourant.  
+Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) bedoelde ambtenaren, belast de daartoe, op gezamenlijke voordracht van Onze Minister en Onze Minister van Veiligheid en Justitie aangewezen personen. Een zodanige aanwijzing wordt bekend gemaakt in de Staatscourant.  
 
 ### Artikel  37  
 
@@ -666,8 +666,8 @@ c. de taken en bevoegdheden van een dergelijke raad ten aanzien van:
 ### Artikel  44b  
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen over de in deze wet geregelde onderwerpen, in het kader van de goede uitvoering van deze wet, nadere regels worden gesteld. Voorts kunnen bij algemene maatregel van bestuur regels worden gesteld waarbij artikelen van de [Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) geheel of gedeeltelijk van toepassing worden verklaard op een openbaar lichaam, dan wel regels worden gesteld die overeenkomen met de in die wet geregelde onderwerpen.   
-2.  In afwijking van hoofdstuk VIII kan bij algemene maatregel van bestuur het toezicht op de daarbij aangegeven onderwerpen worden opgedragen aan het college genoemd in [artikel 2 van de Wet Onafhankelijke post- en telecommunicatieautoriteit](../../../../../wet/wet/onafhankelijke/post-/en/telecommunicatieautoriteit/BWBR0008807/README.md). Bij het uitoefenen van de opgedragen toezichtstaken is het college bevoegd de bevoegdheden van hoofdstuk VIII toe te passen.   
-3.  Bij algemene maatregel van bestuur kunnen taken worden opgedragen en bevoegdheden worden verleend aan het college genoemd in [artikel 2 van de Wet Onafhankelijke post- en telecommunicatieautoriteit](../../../../../wet/wet/onafhankelijke/post-/en/telecommunicatieautoriteit/BWBR0008807/README.md) of aan een of meer bestuursorganen van een openbaar lichaam.   
+2.  In afwijking van hoofdstuk VIII kan bij algemene maatregel van bestuur het toezicht op de daarbij aangegeven onderwerpen worden opgedragen aan de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt. Bij het uitoefenen van de opgedragen toezichtstaken is de Autoriteit Consument en Markt bevoegd de bevoegdheden van hoofdstuk VIII toe te passen.   
+3.  Bij algemene maatregel van bestuur kunnen taken worden opgedragen en bevoegdheden worden verleend aan de Autoriteit Consument en Markt of aan een of meer bestuursorganen van een openbaar lichaam.   
 
 ### Artikel  44c  
 
