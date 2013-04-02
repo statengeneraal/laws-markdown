@@ -13,17 +13,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-– *administratief ketenproces:* het geheel van samenhangende administratieve processen tussen twee of meer ondernemingen, met inbegrip van het deel daarvan dat binnen één onderneming plaatsvindt;  
+–  *administratief ketenproces:* het geheel van samenhangende administratieve processen tussen twee of meer ondernemingen, met inbegrip van het deel daarvan dat binnen één onderneming plaatsvindt;  
 
-– *gegevensbeheer:* het geheel van vastleggen, uitwisselen, gebruiken en bewaren van gegevens in het kader van administratieve ketenprocessen;  
+–  *gegevensbeheer:* het geheel van vastleggen, uitwisselen, gebruiken en bewaren van gegevens in het kader van administratieve ketenprocessen;  
 
-– *gegevensuitwisseling:* de uitwisseling van informatie tussen twee of meer ondernemingen binnen een administratief ketenproces, welke ten minste betrekking heeft op de aansluiting van een afnemer op het net van een netbeheerder, het verbruik van elektriciteit of gas door een afnemer of de invoeding door een afnemer op die aansluiting, de daarbij behorende meterstanden, of op de meetinrichting bij de afnemer dan wel de wisseling of wijziging van die meetinrichting;  
+–  *gegevensuitwisseling:* de uitwisseling van informatie tussen twee of meer ondernemingen binnen een administratief ketenproces, welke ten minste betrekking heeft op de aansluiting van een afnemer op het net van een netbeheerder, het verbruik van elektriciteit of gas door een afnemer of de invoeding door een afnemer op die aansluiting, de daarbij behorende meterstanden, of op de meetinrichting bij de afnemer dan wel de wisseling of wijziging van die meetinrichting;  
 
-– *kleinverbruiker:* een afnemer als bedoeld in [artikel 95a, eerste lid, van de Elektriciteitswet 1998](../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [artikel 43, eerste lid, van de Gaswet](../../../../../../../../../wet/gaswet/BWBR0011440/README.md);  
+–  *kleinverbruiker:* een afnemer als bedoeld in [artikel 95a, eerste lid, van de Elektriciteitswet 1998](../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [artikel 43, eerste lid, van de Gaswet](../../../../../../../../../wet/gaswet/BWBR0011440/README.md);  
 
-– *onderneming:* een onderneming die zich bezig houdt met het transporteren, leveren of meten van elektriciteit of gas;  
+–  *onderneming:* een onderneming die zich bezig houdt met het transporteren, leveren of meten van elektriciteit of gas;  
 
-– *voorwaarden:* de voorwaarden, bedoeld in [artikel 54 van de Elektriciteitswet 1998](../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en in [artikel 22 van de Gaswet](../../../../../../../../../wet/gaswet/BWBR0011440/README.md).    
+–  *voorwaarden:* de voorwaarden, bedoeld in [artikel 54 van de Elektriciteitswet 1998](../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en in [artikel 22 van de Gaswet](../../../../../../../../../wet/gaswet/BWBR0011440/README.md).   
 
 ### §  2  
 
@@ -35,7 +35,7 @@ In deze regeling wordt verstaan onder:
 2.  De voorwaarden bevatten een methode voor deze administratie. Daarbij wordt aangegeven welke gegevens de administratie zal bevatten.   
 3.  De voorwaarden bepalen dat in de administratie een gestandaardiseerde identificatie van aansluitingen is opgenomen.   
 4.  De voorwaarden bevatten procedures voor wijziging van de in de administratie vastgelegde gegevens. In de voorwaarden wordt hieromtrent in elk geval opgenomen dat, tenzij er sprake is van een onvoorziene uitzonderingssituatie, een leverancier de leveranciersgegevens met betrekking tot kleinverbruikers wijzigt.   
-5.  De voorwaarden bepalen de termijn waarbinnen de gegevens benodigd in het kader van wisseling van leverancier, bedoeld in [artikel 24b van de Elektriciteitswet 1998](../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en in [artikel 17a van de Gaswet](../../../../../../../../../wet/gaswet/BWBR0011440/README.md) worden uitgewisseld.   
+5.  De voorwaarden bepalen de termijn waarbinnen de gegevens benodigd in het kader van wisseling van leverancier, bedoeld in [artikel 24b van de Elektriciteitswet 1998](../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en in [artikel 17a van de Gaswet](../../../../../../../../../wet/gaswet/BWBR0011440/README.md) worden uitgewisseld.  
 
 ### §  3  
 
@@ -43,7 +43,7 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  3  
 
-De voorwaarden met betrekking tot het gegevensbeheer, kunnen verschillen voor verschillende categorieën afnemers.  
+De voorwaarden met betrekking tot het gegevensbeheer, kunnen verschillen voor verschillende categorieën afnemers. 
 
 ### Artikel  4  
 
@@ -59,7 +59,7 @@ d. de wijze waarop en voorwaarden waaronder de ondernemingen deze gegevens onder
 
 e. de termijnen gedurende welke de ondernemingen, de gegevens vastleggen, gebruiken, uitwisselen en bewaren, voor zover noodzakelijk ter verwerkelijking van het doel waarvoor zij deze gegevens vastleggen, gebruiken, uitwisselen of bewaren;  
 
-f. een procedure voor wijziging van vastgelegde gegevens, alsmede een verdeling van verantwoordelijkheden en autorisaties dienaangaande.    
+f. een procedure voor wijziging van vastgelegde gegevens, alsmede een verdeling van verantwoordelijkheden en autorisaties dienaangaande.   
 
 ### Artikel  5  
 
@@ -73,11 +73,11 @@ c. op welke wijze correctie plaatsvindt van onjuiste meetgegevens;
 
 d. op welke wijze de uitwisseling van de meetgegevens geschiedt;  
 
-e. de procedures met betrekking tot de uitwisseling van meetgegevens in het kader van programmaverantwoordelijkheid en in het kader van de transport- en systeemdiensten.    
+e. de procedures met betrekking tot de uitwisseling van meetgegevens in het kader van programmaverantwoordelijkheid en in het kader van de transport- en systeemdiensten.   
 
 ### Artikel  6  
 
-De voorwaarden bepalen dat de uitwisseling van gegevens op gelijke wijze en op basis van een open, uniforme standaard geschiedt en toegankelijk is voor alle ondernemingen die zich bezighouden met het transporteren, leveren of meten van elektriciteit of gas.  
+De voorwaarden bepalen dat de uitwisseling van gegevens op gelijke wijze en op basis van een open, uniforme standaard geschiedt en toegankelijk is voor alle ondernemingen die zich bezighouden met het transporteren, leveren of meten van elektriciteit of gas. 
 
 ### Artikel  7  
 
@@ -87,7 +87,7 @@ a. de wijze waarop de afnemer de over hem vastgelegde gegevens kan inzien en ind
 
 b. de inrichting en uitvoering van correctieprocessen;  
 
-c. de wijze waarop een afnemer kan nagaan wie de over hem vastgelegde gegevens kan inzien en gebruiken, gedurende welke periode en voor welk doel.    
+c. de wijze waarop een afnemer kan nagaan wie de over hem vastgelegde gegevens kan inzien en gebruiken, gedurende welke periode en voor welk doel.   
 
 ### §  4  
 
@@ -101,7 +101,7 @@ a. dat deze ondernemingen jaarlijks in de toelichting op de jaarrekening verantw
 
 b. een uniforme wijze waarop deze ondernemingen deze verantwoording inrichten;  
 
-c. de onderwerpen waarover de ondernemingen ten minste verantwoording afleggen.    
+c. de onderwerpen waarover de ondernemingen ten minste verantwoording afleggen.   
 
 ### §  5  
 
@@ -110,7 +110,7 @@ c. de onderwerpen waarover de ondernemingen ten minste verantwoording afleggen.
 ### Artikel  9  
 
 1.  Een leverancier draagt maandelijks de overeenkomstig [artikel 95cb, eerste lid van de Elektriciteitswet 1998](../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [artikel 44b, eerste lid van de Gaswet](../../../../../../../../../wet/gaswet/BWBR0011440/README.md), gefactureerde of te factureren bedragen inclusief btw, binnen 28 kalenderdagen na afloop van de maand waarop deze betrekking hebben, af aan de desbetreffende netbeheerder.   
-2.  De vaststelling van de in het eerste lid bedoelde bedragen vindt plaats op basis van de in artikel 2, eerste lid, genoemde administratie van de aansluitingen.   
+2.  De vaststelling van de in het eerste lid bedoelde bedragen vindt plaats op basis van de in artikel 2, eerste lid, genoemde administratie van de aansluitingen.  
 
 ### §  6  
 
@@ -118,16 +118,17 @@ c. de onderwerpen waarover de ondernemingen ten minste verantwoording afleggen.
 
 ### Artikel  10  
 
-Deze regeling treedt, met uitzondering van artikel 9, in werking met ingang van 1 juli 2011.  
+1. Deze regeling treedt, met uitzondering van artikel 9, in werking met ingang van 1 juli 2011.  
+2.  Artikel 9 treedt in werking met ingang van 1 augustus 2013. 
 
 ### Artikel  11  
 
-Deze regeling wordt aangehaald als: Regeling gegevensbeheer en afdracht elektriciteit en gas.  
+Deze regeling wordt aangehaald als: Regeling gegevensbeheer en afdracht elektriciteit en gas. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 14 juni 2011   
 
 De 
-Minister van Economische Zaken, Landbouw en Innovatie,
-M.J.M.Verhagen   
+Minister van Economische Zaken, Landbouw en Innovatie, 
+M.J.M. Verhagen     

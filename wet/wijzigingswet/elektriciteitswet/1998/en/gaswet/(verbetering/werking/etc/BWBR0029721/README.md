@@ -11,52 +11,52 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Elektriciteitswet 1998.   
+Wijzigt de Elektriciteitswet 1998. 
 
 ### Artikel  II  
 
-Wijzigt de Gaswet.   
+Wijzigt de Gaswet. 
 
 ### Artikel  IV  
 
-Wijzigt de Wijzigingswet Elektriciteitswet 1998 en Gaswet (nadere regels omtrent een onafhankelijk netbeheer).   
+Wijzigt de Wijzigingswet Elektriciteitswet 1998 en Gaswet (nadere regels omtrent een onafhankelijk netbeheer). 
 
 ### Artikel  V  
 
-Tot de inwerkingtreding van het in artikel I, onderdeel W, van deze wet voorgestelde [artikel 95cb, eerste lid](../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), of het in artikel II, onderdeel L, van deze wet voorgestelde [artikel 44b, eerste lid](../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), betaalt een netbeheerder die met betrekking tot afnemers als bedoeld in [artikel 95a, eerste lid, van de Elektriciteitswet 1998](../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 43, eerste lid, van de Gaswet](../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), de facturering en inning van de aan de netbeheerder verschuldigde bedragen laat verrichten door anderen en aan een of meer van hen hiervoor direct of indirect een vergoeding betaalt, aan elk van hen een gelijke vergoeding.  
+Tot de inwerkingtreding van het in artikel I, onderdeel W, van deze wet voorgestelde [artikel 95cb, eerste lid](../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), of het in artikel II, onderdeel L, van deze wet voorgestelde [artikel 44b, eerste lid](../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), betaalt een netbeheerder die met betrekking tot afnemers als bedoeld in [artikel 95a, eerste lid, van de Elektriciteitswet 1998](../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 43, eerste lid, van de Gaswet](../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), de facturering en inning van de aan de netbeheerder verschuldigde bedragen laat verrichten door anderen en aan een of meer van hen hiervoor direct of indirect een vergoeding betaalt, aan elk van hen een gelijke vergoeding. 
 
 ### Artikel  VI  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  VIa  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.
 
 ### Artikel  VIb  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.
 
 ### Artikel  VIc  
 
-Wijzigt de Gaswet.   
+Wijzigt de Gaswet.
 
 ### Artikel  VII  
 
 1.  De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
 2.  De [artikelen 26ad tot en met 26ah](../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) van artikel I, onderdeel J, vervallen op een bij koninklijk besluit te bepalen datum die voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
-3.  De [artikelen 13d tot en met 13h](../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) van artikel II, onderdeel E, vervallen op een bij koninklijk besluit te bepalen datum die voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
+3.  De [artikelen 13d tot en met 13h](../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) van artikel II, onderdeel E, vervallen op een bij koninklijk besluit te bepalen datum die voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 26 februari 2011  
 Beatrix  
 
-De Minister van Economische Zaken, Landbouw en Innovatie, 
+De Minister van Economische Zaken, Landbouw en Innovatie,  
 M. J. M. Verhagen   
 
 de *vijftiende* maart 2011 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

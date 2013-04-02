@@ -8,32 +8,32 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling afnemers en monitoring Elektriciteitswet 1998 en Gaswet.   
+Wijzigt de Regeling afnemers en monitoring Elektriciteitswet 1998 en Gaswet. 
 
 ### Artikel  II  
 
-Wijzigt de Regeling afsluitbeleid voor kleinverbruikers van elektriciteit en gas.   
+Wijzigt de Regeling afsluitbeleid voor kleinverbruikers van elektriciteit en gas. 
 
 ### Artikel  III  
 
-Wijzigt de Regeling inzake tariefstructuren en voorwaarden elektriciteit.   
+Wijzigt de Regeling inzake tariefstructuren en voorwaarden elektriciteit. 
 
 ### Artikel  IV  
 
-Wijzigt de Regeling inzake tariefstructuren en voorwaarden gas.   
+Wijzigt de Regeling inzake tariefstructuren en voorwaarden gas. 
 
 ### Artikel  V  
 
-Voor vorderingen van de netbeheerder op de kleinverbruiker die zijn ontstaan voor 1 april 2013, geldt de [Regeling afsluitbeleid voor kleinverbruikers van elektriciteit en gas](../../../../../../../../../../ministeriele-regeling/regeling/afsluitbeleid/voor/kleinverbruikers/van/elektriciteit/en/gas/BWBR0030164/README.md) zoals deze luidde voor de inwerkingtreding van artikel II.  
+Voor vorderingen van de netbeheerder op de kleinverbruiker die zijn ontstaan voor 1 augustus 2013, geldt de [Regeling afsluitbeleid voor kleinverbruikers van elektriciteit en gas](../../../../../../../../../../ministeriele-regeling/regeling/afsluitbeleid/voor/kleinverbruikers/van/elektriciteit/en/gas/BWBR0030164/README.md) zoals deze luidde voor de inwerkingtreding van artikel II. 
 
 ### Artikel  VI  
 
-Deze regeling treedt, met uitzondering van artikel IV, in werking met ingang van 1 april 2013.  
+Deze regeling treedt, met uitzondering van artikel IV, in werking met ingang van 1 augustus 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 8 februari 2013   
 
 De 
-Minister van Economische Zaken,
-H.G.J.Kamp   
+Minister van Economische Zaken, 
+H.G.J. Kamp     

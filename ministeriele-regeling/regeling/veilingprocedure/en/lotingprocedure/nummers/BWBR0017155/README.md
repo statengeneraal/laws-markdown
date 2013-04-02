@@ -2,10 +2,10 @@
 
 ##Regeling van de Minister van Economische Zaken van 1 september 2004, nr. WJZ 4050821, houdende regels met betrekking tot procedures voor het veilen en loten van nummers (Regeling veilingprocedure en lotingprocedure nummers)
 
-De Minister van Economische Zaken,  
-Gelet op artikel 5 van het Besluit alternatieve verdeling van nummers;
-Besluit:     
-### §  1  
+De Minister van Economische Zaken,
+Gelet op [artikel 5 van het Besluit alternatieve verdeling van nummers](../../../../../../../AMvB/besluit/alternatieve/verdeling/nummers/BWBR0014124/README.md);
+Besluit:
+###§ 1 
 
 ####Begripsbepalingen
 
@@ -13,7 +13,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. besluit: het Besluit alternatieve verdeling van nummers;  
+a. besluit: het [Besluit alternatieve verdeling van nummers](../../../../../../../AMvB/besluit/alternatieve/verdeling/nummers/BWBR0014124/README.md);  
 
 b. aanvrager: degene die bij de Autoriteit Consument en Markt een aanvraag voor een nummer of nummers doet;  
 
@@ -21,9 +21,9 @@ c. deelnemer: de aanvrager die door de Autoriteit Consument en Markt is toegelat
 
 d. overlappende aanvragen: aanvragen van twee of meer aanvragers die elkaar geheel of gedeeltelijk en direct of indirect overlappen;  
 
-e. verschuldigd bedrag: bedrag dat de winnaar van de veiling moet betalen en dat gelijk is aan het op één na hoogste uitgebrachte bod.    
+e. verschuldigd bedrag: bedrag dat de winnaar van de veiling moet betalen en dat gelijk is aan het op één na hoogste uitgebrachte bod.   
 
-### §  2  
+###§ 2 
 
 ####Veiling
 
@@ -31,21 +31,21 @@ e. verschuldigd bedrag: bedrag dat de winnaar van de veiling moet betalen en dat
 
 1.  De Autoriteit Consument en Markt wijst een veilingmeester aan.   
 2.  De veilingmeester heeft tijdens de veiling een controlerende taak ten behoeve van een ordelijk verloop van de veiling.   
-3.  De veiling vindt in ieder geval plaats in aanwezigheid van de veilingmeester en personeel van de Autoriteit Consument en Markt.   
+3.  De veiling vindt in ieder geval plaats in aanwezigheid van de veilingmeester en personeel van de Autoriteit Consument en Markt.  
 
 ### Artikel  3  
 
 1.  Een deelnemer onthoudt zich voorafgaand en gedurende de veilingprocedure van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk doen aan de tot stand te brengen mededinging in de veilingprocedure.   
-2.  De Autoriteit Consument en Markt kan een deelnemer die handelt in strijd met het bepaalde bij of krachtens de Telecommunicatiewet van deelname aan de veiling uitsluiten.   
+2.  De Autoriteit Consument en Markt kan een deelnemer die handelt in strijd met het bepaalde bij of krachtens de [Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) van deelname aan de veiling uitsluiten.  
 
 ### Artikel  4  
 
-1.  De veiling is een veiling met gesloten bod. Het object van de veiling is een recht om één nummer te kiezen.   
-2.  De veiling omvat net zoveel biedronden totdat één deelnemer aan de veiling resteert.   
+1. De veiling is een veiling met gesloten bod. Het object van de veiling is een recht om één nummer te kiezen.
+2. De veiling omvat net zoveel biedronden totdat één deelnemer aan de veiling resteert. 
 
 ### Artikel  5  
 
-Een deelnemer is vanaf het moment dat hij een bod heeft uitgebracht tot en met het tijdstip waarop de veiling is afgerond onvoorwaardelijk en onherroepelijk aan zijn bod gebonden, tenzij hij door de Autoriteit Consument en Markt is uitgesloten van verdere deelname aan de veiling.  
+Een deelnemer is vanaf het moment dat hij een bod heeft uitgebracht tot en met het tijdstip waarop de veiling is afgerond onvoorwaardelijk en onherroepelijk aan zijn bod gebonden, tenzij hij door de Autoriteit Consument en Markt is uitgesloten van verdere deelname aan de veiling. 
 
 ### Artikel  6  
 
@@ -55,7 +55,7 @@ Een deelnemer is vanaf het moment dat hij een bod heeft uitgebracht tot en met h
 4.  Het bedrag van het bod wordt in letters geschreven.   
 5.  De biedkaart wordt ondertekend door een tekenbevoegd persoon of bij volmacht. Indien bij volmacht wordt getekend, wordt de machtiging bij de biedkaart gevoegd.   
 6.  De biedkaart wordt volledig en in de Nederlandse taal ingevuld.   
-7.  De veilingmeester stelt vast of de biedkaart niet later dan de in het tweede lid bedoelde datum en tijdstip is ontvangen.   
+7.  De veilingmeester stelt vast of de biedkaart niet later dan de in het tweede lid bedoelde datum en tijdstip is ontvangen.  
 
 ### Artikel  7  
 
@@ -63,39 +63,39 @@ Een deelnemer is vanaf het moment dat hij een bod heeft uitgebracht tot en met h
 2.  De veilingmeester verklaart een tijdens de veiling uitgebracht bod door een van deelname aan de veiling uitgesloten deelnemer ongeldig.   
 3.  Een bod is tevens ongeldig indien het niet voldoet aan het bepaalde in artikel 6, derde tot en met zesde lid.   
 4.  De deelnemer van wie de veilingmeester heeft vastgesteld dat deze een ongeldig bod heeft uitgebracht wordt hiervan door de Autoriteit Consument en Markt op de hoogte gesteld.   
-5.  De deelnemer, bedoeld in het derde lid, is van verdere deelname aan de veiling uitgesloten.   
+5.  De deelnemer, bedoeld in het derde lid, is van verdere deelname aan de veiling uitgesloten.  
 
-### Artikel  8  
+###Artikel 8 
 
-De veilingmeester stelt vast welk bod het hoogst is.  
+De veilingmeester stelt vast welk bod het hoogst is.
 
-### Artikel  9  
+###Artikel 9 
 
-Indien het hoogste bod door twee of meer deelnemers wordt uitgebracht, stelt de veilingmeester door middel van loting vast welk bod wordt aangemerkt als het hoogste bod.  
+Indien het hoogste bod door twee of meer deelnemers wordt uitgebracht, stelt de veilingmeester door middel van loting vast welk bod wordt aangemerkt als het hoogste bod.
 
 ### Artikel  10  
 
 1.  Indien na het vaststellen van het hoogste bod geen overlappende aanvragen, maar wel een of meerdere aanvragen resteren, kan de Autoriteit Consument en Markt toekennen aan deze aanvrager of aanvragers.   
-2.  Indien na het vaststellen van het hoogste bod overlappende aanvragen resteren, verstrekt de Autoriteit Consument en Markt de betrokken aanvragers een nieuwe biedkaart. De artikelen 5, 6, tweede tot en met zevende lid, 7, 8, 9 en 10 zijn van toepassing op de volgende biedronde.   
+2.  Indien na het vaststellen van het hoogste bod overlappende aanvragen resteren, verstrekt de Autoriteit Consument en Markt de betrokken aanvragers een nieuwe biedkaart. De artikelen 5, 6, tweede tot en met zevende lid, 7, 8, 9 en 10 zijn van toepassing op de volgende biedronde.  
 
 ### Artikel  11  
 
 1.  Na de vaststelling van het hoogste bod bedoeld in artikel 8, deelt de Autoriteit Consument en Markt aan de deelnemers de uitslag van de veiling mee.   
-2.  De Autoriteit Consument en Markt maakt de uitslag van de veiling openbaar.   
+2.  De Autoriteit Consument en Markt maakt de uitslag van de veiling openbaar.  
 
 ### Artikel  12  
 
 1.  De deelnemer waarvan de veilingmeester heeft vastgesteld dat hij het hoogste bod heeft uitgebracht, bedoeld in artikel 8, voldoet het door hem verschuldigde bedrag binnen een door de Autoriteit Consument en Markt vast te stellen termijn op een door de Autoriteit Consument en Markt vast te stellen wijze.   
 2.  De Autoriteit Consument en Markt kent toe, nadat het verschuldigde bedrag is ontvangen.   
 3.  Indien de deelnemer het verschuldigde bedrag niet binnen de door de Autoriteit Consument en Markt vastgestelde termijn heeft voldaan kan de Autoriteit Consument en Markt besluiten niet aan de deelnemer toe te kennen.   
-4.  Indien de Autoriteit Consument en Markt op grond van het bepaalde in het derde lid besluit niet aan de deelnemer toe te kennen, treft de Autoriteit Consument en Markt passende maatregelen in overeenstemming met artikel 8, tweede lid, onderdeel d, van richtlijn 2002/21/EG.   
+4.  Indien de Autoriteit Consument en Markt op grond van het bepaalde in het derde lid besluit niet aan de deelnemer toe te kennen, treft de Autoriteit Consument en Markt passende maatregelen in overeenstemming met artikel 8, tweede lid, onderdeel d, van richtlijn 2002/21/EG.  
 
 ### Artikel  13  
 
 1.  De veilingmeester en de Autoriteit Consument en Markt kunnen in bijzondere omstandigheden de veiling voor een door hen te bepalen termijn schorsen. De Autoriteit Consument en Markt brengt de deelnemers op de hoogte van een schorsing en van de duur daarvan.   
-2.  De veilingmeester en de Autoriteit Consument en Markt kunnen in bijzondere omstandigheden een deelnemer van verdere deelname aan de veiling uitsluiten. De Autoriteit Consument en Markt brengt de deelnemer op de hoogte van de uitsluiting en van de redenen daarvan.   
+2.  De veilingmeester en de Autoriteit Consument en Markt kunnen in bijzondere omstandigheden een deelnemer van verdere deelname aan de veiling uitsluiten. De Autoriteit Consument en Markt brengt de deelnemer op de hoogte van de uitsluiting en van de redenen daarvan.  
 
-### §  3  
+###§ 3 
 
 ####Loting
 
@@ -103,42 +103,42 @@ Indien het hoogste bod door twee of meer deelnemers wordt uitgebracht, stelt de 
 
 1.  De Autoriteit Consument en Markt wijst een veilingmeester aan.   
 2.  De veilingmeester heeft tijdens de loting een controlerende taak ten behoeve van een ordelijk verloop van de loting.   
-3.  De loting vindt uitsluitend in aanwezigheid van de veilingmeester en personeel van de Autoriteit Consument en Markt plaats.   
+3.  De loting vindt uitsluitend in aanwezigheid van de veilingmeester en personeel van de Autoriteit Consument en Markt plaats.  
 
 ### Artikel  15  
 
-De loting vindt plaats op een door de Autoriteit Consument en Markt vastgestelde wijze.  
+De loting vindt plaats op een door de Autoriteit Consument en Markt vastgestelde wijze. 
 
 ### Artikel  16  
 
 1.  De veilingmeester verricht de loting.   
 2.  Na vaststelling door de veilingmeester op welke deelnemer het winnende lot is gevallen deelt de Autoriteit Consument en Markt aan de deelnemers de uitslag van de loting mee.   
-3.  De Autoriteit Consument en Markt maakt de uitslag van de loting openbaar.   
+3.  De Autoriteit Consument en Markt maakt de uitslag van de loting openbaar.  
 
 ### Artikel  17  
 
-Indien na het vaststellen van het winnende lot er geen overlappende aanvragen, maar wel aanvragen resteren, kan de Autoriteit Consument en Markt toekennen aan deze aanvrager of aanvragers.  
+Indien na het vaststellen van het winnende lot er geen overlappende aanvragen, maar wel aanvragen resteren, kan de Autoriteit Consument en Markt toekennen aan deze aanvrager of aanvragers. 
 
 ### Artikel  18  
 
-De veilingmeester en de Autoriteit Consument en Markt kunnen in bijzondere omstandigheden de loting voor een door hen te bepalen termijn schorsen. De Autoriteit Consument en Markt stelt de deelnemers aan de loting op de hoogte van een schorsing en van de duur daarvan.  
+De veilingmeester en de Autoriteit Consument en Markt kunnen in bijzondere omstandigheden de loting voor een door hen te bepalen termijn schorsen. De Autoriteit Consument en Markt stelt de deelnemers aan de loting op de hoogte van een schorsing en van de duur daarvan. 
 
-### §  4  
+###§ 4 
 
 ####Slotbepalingen
 
-### Artikel  19  
+###Artikel 19 
 
-Deze regeling treedt in werking met ingang van 21 oktober 2004.  
+Deze regeling treedt in werking met ingang van 21 oktober 2004.
 
-### Artikel  20  
+###Artikel 20 
 
-Deze regeling wordt aangehaald als: Regeling veilingprocedure en lotingprocedure nummers.  
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
+Deze regeling wordt aangehaald als: Regeling veilingprocedure en lotingprocedure nummers.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-Den Haag 
-1 september 2004    
+Den Haag
+1 september 2004
 
 De 
 Minister van Economische Zaken, 
-L.J.Brinkhorst    
+L.J.Brinkhorst

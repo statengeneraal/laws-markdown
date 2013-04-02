@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-De Politieacademie te Apeldoorn, de Academie voor Ambulancezorg te Harderwijk, het Brandweer Opleidingscentrum BOCAS te Badhoevedorp en de opleidingsschool van de Koninklijke Marechaussee te Oirschot worden met toepassing van [artikel 147, eerste lid, van de Wegenverkeerswet 1994](../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), voor zover zij training geven met optische en geluidssignalen op de weg, gelijkgesteld met openbare diensten.  
+De Politieacademie te Apeldoorn, de Academie voor Ambulancezorg te Harderwijk, het Brandweer Opleidingscentrum BOCAS te Badhoevedorp en de opleidingsschool van de Koninklijke Marechaussee te Oirschot worden met toepassing van [artikel 147, eerste lid, van de Wegenverkeerswet 1994](../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), voor zover zij training geven met optische en geluidssignalen op de weg, gelijkgesteld met openbare diensten. 
 
 ### Artikel  2  
 
@@ -20,7 +20,7 @@ b. de Academie voor Ambulancezorg te Harderwijk;
 
 c. het Brandweer Opleidingscentrum BOCAS te Badhoevedorp, voor zover het centrum trainingen verzorgt voor brandweerpersoneel bij de veiligheidsregio Amsterdam-Amstelland;  
 
-d. de opleidingsschool van de Koninklijke Marechaussee te Oirschot.    
+d. de opleidingsschool van de Koninklijke Marechaussee te Oirschot.   
 
 ### Artikel  3  
 
@@ -33,7 +33,7 @@ b. het motorrijtuig is uitgerust met de signalen, bepaald in [artikel 5](../../.
 
 c. indien de training plaatsvindt in een motorrijtuig waarvoor rijbewijs B verplicht is, voldoet het motorrijtuig aan de eisen gesteld in [artikel 8, onder a en b, van het Reglement rijbewijzen](../../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) en  
 
-d. indien de training plaatsvindt in een motorrijtuig waarvoor rijbewijs C of D verplicht is, voldoet het motorrijtuig aan de eisen gesteld in [artikel 9, eerste lid, onder a en b, van het Reglement rijbewijzen](../../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md).     
+d. indien de training plaatsvindt in een motorrijtuig waarvoor rijbewijs C of D verplicht is, voldoet het motorrijtuig aan de eisen gesteld in [artikel 9, eerste lid, onder a en b, van het Reglement rijbewijzen](../../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md).    
 
 ### Artikel  4  
 
@@ -43,18 +43,18 @@ a. het aantal verkeersongevallen tijdens de opleiding van 1 april 2013 tot en m
 
 b. een evaluatie onder studenten en cursisten, gericht op het effect van het trainen met optische en geluidssignalen op de beroepspraktijk;  
 
-c. de voortgang die kan worden aangetoond in de periode van 1 april 2013 tot en met 31 augustus 2014 in het proces om kwaliteitscriteria vast te stellen voor opleiding en docenten in verband met het gebruik van de in artikel 2 bedoelde vrijstelling.    
+c. de voortgang die kan worden aangetoond in de periode van 1 april 2013 tot en met 31 augustus 2014 in het proces om kwaliteitscriteria vast te stellen voor opleiding en docenten in verband met het gebruik van de in artikel 2 bedoelde vrijstelling.   
 
 ### Artikel  5  
 
-In geval van het niet-voldoen aan een of meer van de verplichtingen, genoemd in de artikelen 3 en 4, kan de minister dit besluit geheel of gedeeltelijk intrekken.  
+In geval van het niet-voldoen aan een of meer van de verplichtingen, genoemd in de artikelen 3 en 4, kan de minister dit besluit geheel of gedeeltelijk intrekken. 
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van 1 april 2013 en vervalt met ingang van 1 april 2015.  
+Dit besluit treedt in werking met ingang van 1 april 2013 en vervalt met ingang van 1 april 2015. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Infrastructuur en Milieu, namens deze,
+Minister van Infrastructuur en Milieu, namens deze, 
 de Directeur Wegverkeermanagement, 
-R.P.J.M.Salden   
+R.P.J.M. Salden     
