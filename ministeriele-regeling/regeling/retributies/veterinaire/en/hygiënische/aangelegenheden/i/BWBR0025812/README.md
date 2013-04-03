@@ -5,7 +5,7 @@
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
 Gelet op verordening (EG) nr. 882/2004 van het Europees parlement en de Raad van 29 april 2004 inzake officiële controles op de naleving van de wetgeving inzake diervoeders en levensmiddelen en de voorschriften inzake diergezondheid en dierenwelzijn (PbEU L 191);
 
-Gelet op de [artikelen 13](../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md), [19](../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md), [22a](../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md), [22b](../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md), [27](../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [28 van de Landbouwwet](../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en de [artikelen 10, eerste en tweede lid, onderdeel c](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [94](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [94a](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [94b van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);
+Gelet op de artikelen 13, 19, 22a, 22b, 27 en 28 van de Landbouwwet en de artikelen 10, eerste en tweede lid, onderdeel c, 94, 94a en 94b van de Gezondheids- en welzijnswet voor dieren;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -55,7 +55,7 @@ t. *vrij wild:* vrij wild als bedoeld in bijlage I, onderdeel 1.5, van verordeni
 
 u. *gekweekt wild:* gekweekt wild als bedoeld in bijlage I, onderdeel 1.6, van verordening (EG) nr. 853/2004;  
 
-v. aquacultuurdieren: dieren als bedoeld in [artikel 1.2.2 , onderdeel h, van de Regeling aquacultuur](../../../../../../../../../ministeriele-regeling/regeling/aquacultuur/BWBR0024256/README.md).     
+v. aquacultuurdieren: dieren als bedoeld in artikel 1.2.2 , onderdeel h, van de Regeling aquacultuur.     
 2.  Voor de toepassing van deze regeling gelden voor de berekening van het aantal GVE, de omrekeningscoëfficiënten opgenomen in bijlage I.   
 
 ### Artikel  2  
@@ -110,9 +110,9 @@ w. *verordening (EG) nr. 92/2005:*verordening (EG) nr. 92/2005 van de Commissie 
 
 x. *richtlijn nr. 2006/88/EG:*richtlijn nr. 2006/88/EG van de Raad van 24 oktober 2006 betreffende veterinairrechtelijke voorschriften voor aquacultuurdieren en de producten daarvan en betreffende de preventie en bestrijding van bepaalde ziekten bij waterdieren (PbEG L 328);  
 
-y. *verordening (EG) nr. 318/2007:*verordening (EG) nr. 318/2007 van 23 maart 2007 tot vaststelling van de veterinairrechtelijke voorschriften voor de invoer van bepaalde vogels in de Gemeenschap en de desbetreffende quarantainevoorschriften (PbEU L 84);  
+y. *verordening (EG) nr. 142/2011:* verordening (EG) nr. 142/2011 van de Commissie van 25 februari 2011 tot uitvoering van Verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot uitvoering van Richtlijn 97/78/EG van de Raad wat betreft bepaalde monsters en producten die vrijgesteld zijn van veterinaire controles aan de grens krachtens die richtlijn;  
 
-z. *verordening (EG) nr. 142/2011:* verordening (EG) nr. 142/2011 van de Commissie van 25 februari 2011 tot uitvoering van Verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot uitvoering van Richtlijn 97/78/EG van de Raad wat betreft bepaalde monsters en producten die vrijgesteld zijn van veterinaire controles aan de grens krachtens die richtlijn.    
+z. *verordening (EU) nr. 139/2013:* verordening (EU) nr. 139/2013 van de Europese Commissie van 7 januari 2013 tot vaststelling van de veterinairrechtelijke voorschriften voor de invoer van bepaalde vogels in de Unie en de desbetreffende quarantainevoorschriften (PbEU L 47).    
 
 ### Hoofdstuk  2  
 
@@ -124,7 +124,7 @@ z. *verordening (EG) nr. 142/2011:* verordening (EG) nr. 142/2011 van de Commiss
 
 ### Artikel  3  
 
-1.  Voor de controle bij invoer, bedoeld in artikel 4 van richtlijn nr. 97/78/EG, en [artikel 3.2.2.4 van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten](../../../../../../../../../ministeriele-regeling/regeling/veterinairrechtelijke/voorschriften/handel/dierlijke/producten/BWBR0019235/README.md), welke plaatsvindt op een werkdag tussen 06:00 uur en 23:00 uur, is de aanbieder een retributie verschuldigd, bestaande uit een tarief van € 0,00987 per kg, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 60,16 en ten hoogste € 462,93 in rekening wordt gebracht.   
+1.  Voor de controle bij invoer, bedoeld in artikel 4 van richtlijn nr. 97/78/EG, en artikel 3.2.2.4 van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten, welke plaatsvindt op een werkdag tussen 06:00 uur en 23:00 uur, is de aanbieder een retributie verschuldigd, bestaande uit een tarief van € 0,00987 per kg, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 60,16 en ten hoogste € 462,93 in rekening wordt gebracht.   
 2.  Voor een invoercontrole als bedoeld in artikel 9, eerste lid, van richtlijn nr. 97/78/EG, is de aanbieder, een retributie verschuldigd, bestaande uit: 
 
 a. een starttarief van € 43,83, en  
@@ -162,25 +162,25 @@ b. een bedrag van € 27,52 per kwartier voor iedere officiële dierenarts en v
 
 ### Artikel  6  
 
-1.  Voor het onderzoek, bedoeld in de [artikelen 2.34](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [2.35](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [2.36](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [2.44, vijfde, zesde, zevende, negende en tiende lid, van de Regeling handel levende dieren en levende producten](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), dat plaatsvindt op een werkdag tussen 06:00 uur en 23:00 uur, is de aanbieder: 
+1.  Voor het onderzoek, bedoeld in de artikelen 2.34, 2.35, 2.36, 2.44, vijfde, zesde, zevende, negende en tiende lid, van de Regeling handel levende dieren en levende producten, dat plaatsvindt op een werkdag tussen 06:00 uur en 23:00 uur, is de aanbieder: 
 
 a. ter zake van diersoorten als bedoeld in richtlijn nr. 92/65/EEG alsmede ter zake van runderen, paardachtigen, varkens, schapen en geiten, pluimvee en klein wild een retributie verschuldigd van € 0,00987 per kg levend gewicht, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 60,16 en ten hoogste € 462,93 in rekening wordt gebracht;  
 
 b. ter zake van diersoorten als bedoeld in beschikking nr. 97/794/EG een retributie verschuldigd van € 0,00987 per kg levend gewicht, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 60,16 en ten hoogste € 462,93 in rekening wordt gebracht;  
 
-c. ter zake van levende producten als bedoeld in de [Regeling handel levende dieren en levende producten](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md) een retributie verschuldigd van € 0,00987 per kg levend gewicht, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 60,16 en ten hoogste € 462,93 in rekening wordt gebracht.     
+c. ter zake van levende producten als bedoeld in de Regeling handel levende dieren en levende producten een retributie verschuldigd van € 0,00987 per kg levend gewicht, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 60,16 en ten hoogste € 462,93 in rekening wordt gebracht.     
 2.  Voor het onderzoek, bedoeld in het eerste lid, dat plaatsvindt tussen 23:00 uur en 06:00 uur of op een zaterdag, een zondag, of op een algemeen erkende feestdag, is de aanbieder een retributie verschuldigd, bestaande uit een tarief van € 0,01258 per kg, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 76,66 en ten hoogste € 590,00 in rekening wordt gebracht.   
 3.  Indien een partij levende dieren als bedoeld in het eerste lid, onderdeel a of b, afkomstig is uit Nieuw-Zeeland, is de aanbieder, in afwijking van het eerste en derde lid, een retributie verschuldigd, bestaande uit een bedrag van € 0,0051 per kg, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 30,88 en ten hoogste € 360,22 in rekening wordt gebracht.   
 4.  Indien een partij levende producten als bedoeld in het eerste lid, onderdeel c, afkomstig is uit Nieuw-Zeeland, is de aanbieder, in afwijking van het eerste en derde lid, een retributie verschuldigd, bestaande uit een bedrag van € 0,0015 per kg, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 30,88 en ten hoogste € 360,22 in rekening wordt gebracht.   
 
 ### Artikel  7  
 
-1.  De aanbieder is voor onderzoeken en keuringen die verricht worden op grond van [artikel 2.39, tweede lid](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), en [artikel 2.48, tweede lid, van de Regeling handel levende dieren en levende producten](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), een retributie verschuldigd.   
+1.  De aanbieder is voor onderzoeken en keuringen die verricht worden op grond van artikel 2.39, tweede lid, en artikel 2.48, tweede lid, van de Regeling handel levende dieren en levende producten, een retributie verschuldigd.   
 2.  De hoogte van de retributie, bedoeld in het eerste lid, komt overeen met de werkelijke kosten van de in het eerste lid bedoelde onderzoeken en keuringen, met inbegrip van en voor zover van toepassing, de kosten verbonden aan de met de controle belaste personen van de NVWA, de kosten verbonden aan het gebruik van materialen en de kosten van laboratoriumonderzoek, bedoeld in artikel 29.   
 
 ### Artikel  8  
 
-De kosten, bedoeld in [artikel 2.50f van de Regeling handel levende dieren en levende producten](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md) onderscheidenlijk artikel 18 van verordening (EG) nr. 318/2007, bestaan uit: 
+De kosten, bedoeld in artikel 2.50f van de Regeling handel levende dieren en levende producten onderscheidenlijk artikel 18 van verordening (EU) nr. 139/2013, bestaan uit: 
 
 a. een starttarief van € 43,83, en  
 
@@ -192,7 +192,7 @@ b. een bedrag van € 27,52 per kwartier dat aan de werkzaamheden door een offi
 
 ### Artikel  9  
 
-Voor het onderzoek, bedoeld in [artikel 77, tweede lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van vee of pluimvee, en voor zover dit binnen openingstijd wordt verricht, is de aanbieder een retributie verschuldigd, bestaande uit: 
+Voor het onderzoek, bedoeld in artikel 77, tweede lid, van de Gezondheids- en welzijnswet voor dieren, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van vee of pluimvee, en voor zover dit binnen openingstijd wordt verricht, is de aanbieder een retributie verschuldigd, bestaande uit: 
 
 a. een starttarief van € 59,32, en  
 
@@ -200,23 +200,23 @@ b. een bedrag van € 36,79 per kwartier dat aan de werkzaamheden door een offi
 
 ### Artikel  10  
 
-1.  Voor de volgende onderzoeken, bedoeld in de [Regeling handel levende dieren en levende producten](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), en voor zover die binnen openingstijd worden verricht is de aanbieder een retributie verschuldigd: 
+1.  Voor de volgende onderzoeken, bedoeld in de Regeling handel levende dieren en levende producten, en voor zover die binnen openingstijd worden verricht is de aanbieder een retributie verschuldigd: 
 
-a. onderzoek als bedoeld in [artikel 2.5, aanhef en onderdelen f, g, h, onderscheidenlijk i, van die regeling](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van dieren of producten bestemd voor een lidstaat, voor zover het dieren of producten betreft als bedoeld in richtlijn nr. 92/65/EEG, niet zijnde bijen;  
+a. onderzoek als bedoeld in artikel 2.5, aanhef en onderdelen f, g, h, onderscheidenlijk i, van die regeling, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van dieren of producten bestemd voor een lidstaat, voor zover het dieren of producten betreft als bedoeld in richtlijn nr. 92/65/EEG, niet zijnde bijen;  
 
-b. onderzoek als bedoeld in [artikel 2.5, aanhef en onderdeel d, van die regeling](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), in samenhang met artikel 8, eerste lid, van richtlijn nr. 2009/158/EG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van broedeieren als bedoeld in artikel 2, onderdeel 2, van richtlijn nr. 2009/158/EG, bestemd voor een lidstaat;  
+b. onderzoek als bedoeld in artikel 2.5, aanhef en onderdeel d, van die regeling, in samenhang met artikel 8, eerste lid, van richtlijn nr. 2009/158/EG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van broedeieren als bedoeld in artikel 2, onderdeel 2, van richtlijn nr. 2009/158/EG, bestemd voor een lidstaat;  
 
-c. onderzoek als bedoeld in [artikel 2.5, aanhef en onderdeel g, van die regeling](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), in samenhang met de artikelen 3 en 6, eerste lid, van richtlijn nr. 88/407/EEG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van sperma van runderen als bedoeld in artikel 2, onderdeel a, van richtlijn nr. 88/407/EEG, bestemd voor een lidstaat;  
+c. onderzoek als bedoeld in artikel 2.5, aanhef en onderdeel g, van die regeling, in samenhang met de artikelen 3 en 6, eerste lid, van richtlijn nr. 88/407/EEG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van sperma van runderen als bedoeld in artikel 2, onderdeel a, van richtlijn nr. 88/407/EEG, bestemd voor een lidstaat;  
 
-d. onderzoek als bedoeld in [artikel 2.5, aanhef en onderdeel g, van die regeling](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), in samenhang met de artikelen 3 en 6, eerste lid, van richtlijn nr. 90/429/EEG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van sperma van varkens als bedoeld in artikel 2 van richtlijn nr. 90/429/EEG, bestemd voor een lidstaat;  
+d. onderzoek als bedoeld in artikel 2.5, aanhef en onderdeel g, van die regeling, in samenhang met de artikelen 3 en 6, eerste lid, van richtlijn nr. 90/429/EEG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van sperma van varkens als bedoeld in artikel 2 van richtlijn nr. 90/429/EEG, bestemd voor een lidstaat;  
 
-e. onderzoek als bedoeld in [artikel 2.5, aanhef en onderdeel h, van die regeling](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), in samenhang met de artikelen 3 en 6, van richtlijn nr. 89/556/EEG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van een embryo als bedoeld in artikel 2, onderdeel a, van richtlijn nr. 89/556/EEG, bestemd voor een lidstaat.     
+e. onderzoek als bedoeld in artikel 2.5, aanhef en onderdeel h, van die regeling, in samenhang met de artikelen 3 en 6, van richtlijn nr. 89/556/EEG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van een embryo als bedoeld in artikel 2, onderdeel a, van richtlijn nr. 89/556/EEG, bestemd voor een lidstaat.     
 2.  De retributie, bedoeld in het eerste lid, bestaat uit; 
 
 a. een starttarief van € 59,32, en  
 
 b. een bedrag van € 36,79 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent is besteed.     
-3.  Voor werkzaamheden die binnen openingstijd worden verricht ten behoeve van een handelsdocument voor papegaaiachtigen als bedoeld in [artikel 8.8, vierde lid, van de Regeling handel levende dieren en levende producten](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md) is de aanbieder een retributie verschuldigd bestaande uit: 
+3.  Voor werkzaamheden die binnen openingstijd worden verricht ten behoeve van een handelsdocument voor papegaaiachtigen als bedoeld in artikel 8.8, vierde lid, van de Regeling handel levende dieren en levende producten is de aanbieder een retributie verschuldigd bestaande uit: 
 
 a. een starttarief van € 59,32, en  
 
@@ -224,7 +224,7 @@ b. een bedrag van € 36,79 per kwartier dat aan de werkzaamheden door een offi
 
 ### Artikel  10a  
 
-Voor werkzaamheden die binnen openingstijd worden verricht ten behoeve van een diergezondheidscertificaat bij een partij aquacultuurdieren als bedoeld in [artikel 8.2.2 van de Regeling aquacultuur](../../../../../../../../../ministeriele-regeling/regeling/aquacultuur/BWBR0024256/README.md), die bestemd is om te worden vervoerd naar een lidstaat, is de aanbieder een bedrag verschuldigd, bestaande uit: 
+Voor werkzaamheden die binnen openingstijd worden verricht ten behoeve van een diergezondheidscertificaat bij een partij aquacultuurdieren als bedoeld in artikel 8.2.2 van de Regeling aquacultuur, die bestemd is om te worden vervoerd naar een lidstaat, is de aanbieder een bedrag verschuldigd, bestaande uit: 
 
 a. een starttarief van € 59,32, en  
 
@@ -313,11 +313,11 @@ b. een bedrag van € 13,00 per kwartier dat aan de keuring door deze officiël
 
 ### §  2  
 
-####Onderzoeken van runderen, schapen, geiten en varkens betreffende residuen van bepaalde stoffen ingevolge de [Regeling identificatie en registratie van dieren](../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md)
+####Onderzoeken van runderen, schapen, geiten en varkens betreffende residuen van bepaalde stoffen ingevolge de Regeling identificatie en registratie van dieren
 
 ### Artikel  18  
 
-Indien op grond van [artikel 26, vijfde lid, onder d, van de Regeling identificatie en registratie van dieren](../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) een onderzoek wordt ingesteld naar stoffen waarvan de toediening is verboden, of waarvan de aanwezigheid een bij Europese of nationale maatregel vastgestelde maximumhoeveelheid overschrijdt, is een retributie ter hoogte van de werkelijke kosten van het laboratoriumonderzoek, bedoeld in artikel 28, verschuldigd.  
+Indien op grond van artikel 26, vijfde lid, onder d, van de Regeling identificatie en registratie van dieren een onderzoek wordt ingesteld naar stoffen waarvan de toediening is verboden, of waarvan de aanwezigheid een bij Europese of nationale maatregel vastgestelde maximumhoeveelheid overschrijdt, is een retributie ter hoogte van de werkelijke kosten van het laboratoriumonderzoek, bedoeld in artikel 28, verschuldigd.  
 
 ### §  3  
 
@@ -370,7 +370,7 @@ b. een bedrag van € 29,06 per kwartier dat door een officiële assistent of e
 
 a. het toepasselijke geslacht gewicht, genoemd in bijlage II, of  
 
-b. het gewicht dat is bepaald op basis van weging van het desbetreffende karkas aan de hand van een meetinstrument dat voldoet aan de eisen die daaraan bij of krachtens [artikel 5 van de Metrologiewet](../../../../../../../../../wet/metrologiewet/BWBR0019517/README.md) zijn gesteld.     
+b. het gewicht dat is bepaald op basis van weging van het desbetreffende karkas aan de hand van een meetinstrument dat voldoet aan de eisen die daaraan bij of krachtens artikel 5 van de Metrologiewet zijn gesteld.     
 
 ### Artikel  24  
 
@@ -383,7 +383,7 @@ b. overdraagbare spongiforme encefalopathieën (TSE) overeenkomstig verordening 
 c. niet toegestane stoffen of producten of producten op te sporen en op gereglementeerde stoffen te controleren, buiten het kader van het Nationaal Plan Residuen zoals bedoeld in richtlijn nr. 96/23/EG; of  
 
 d. ziekten op te sporen die voorkomen op de lijsten met dierziekten van het Office International des Epizoöties (OIE),   een en ander als bedoeld in bijlage I, sectie I, hoofdstuk II, onderdeel F, onder 1, bij verordening (EG) nr. 854/2004, is de aanbieder, naast de retributie die hij ingevolge het toepasselijke in de aanhef bedoelde artikel verschuldigd is, een retributie verschuldigd ter hoogte van de werkelijke kosten van het laboratoriumonderzoek, bedoeld in artikel 28.   
-2.  Indien het in het eerste lid, onderdeel c, bedoelde laboratoriumonderzoek wordt uitgevoerd op de monsters van landbouwhuisdieren als bedoeld in de [Regeling verbod handel met bepaalde stoffen behandelde dieren en producten](../../../../../../../../../ministeriele-regeling/regeling/verbod/handel/met/bepaalde/stoffen/behandelde/dieren/en/producten/BWBR0008825/README.md), of van de van deze dieren afkomstige producten, en deze landbouwhuisdieren afkomstig zijn van een bedrijf dat overeenkomstig [artikel 4 van die regeling](../../../../../../../../../ministeriele-regeling/regeling/verbod/handel/met/bepaalde/stoffen/behandelde/dieren/en/producten/BWBR0008825/README.md) onder officieel toezicht is geplaatst, is uitsluitend de exploitant van het betreffende bedrijf waarvan de dieren afkomstig zijn, de in het eerste lid bedoelde retributie verschuldigd.   
+2.  Indien het in het eerste lid, onderdeel c, bedoelde laboratoriumonderzoek wordt uitgevoerd op de monsters van landbouwhuisdieren als bedoeld in de Regeling verbod handel met bepaalde stoffen behandelde dieren en producten, of van de van deze dieren afkomstige producten, en deze landbouwhuisdieren afkomstig zijn van een bedrijf dat overeenkomstig artikel 4 van die regeling onder officieel toezicht is geplaatst, is uitsluitend de exploitant van het betreffende bedrijf waarvan de dieren afkomstig zijn, de in het eerste lid bedoelde retributie verschuldigd.   
 
 ### §  6  
 
@@ -391,7 +391,7 @@ d. ziekten op te sporen die voorkomen op de lijsten met dierziekten van het Offi
 
 ### Artikel  25  
 
-1.  De aanvrager van een herkeuring, bedoeld in [artikel 2.9 van de Regeling dierlijke producten](../../../../../../../../../ministeriele-regeling/regeling/dierlijke/producten/BWBR0032462/README.md), is een retributie verschuldigd, bestaande uit een bedrag van € 322,80.   
+1.  De aanvrager van een herkeuring, bedoeld in artikel 2.9 van de Regeling dierlijke producten, is een retributie verschuldigd, bestaande uit een bedrag van € 322,80.   
 2.  De retributie, bedoeld in het eerste lid, is niet verschuldigd als de oorspronkelijke keuringsbeslissing niet in stand wordt gelaten.   
 
 ### §  7  
@@ -412,7 +412,7 @@ b. een bedrag van € 31,77 per kwartier dat door een officiële dierenarts of 
 
 ### Artikel  27  
 
-Voor de controlewerkzaamheden, bedoeld in [artikel 18, tweede lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), is de aanbieder een retributie verschuldigd, bestaande uit: 
+Voor de controlewerkzaamheden, bedoeld in artikel 18, tweede lid, van de Gezondheids- en welzijnswet voor dieren, is de aanbieder een retributie verschuldigd, bestaande uit: 
 
 a. een starttarief van € 116,64, en  
 
@@ -437,11 +437,11 @@ b. een bedrag van € 31,77 per kwartier dat door een officiële dierenarts of 
 
 ### Artikel  29  
 
-1.  Degene die een aanvraag indient voor een erkenning als bedoeld in [artikel 3 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md), is voor de behandeling van de aanvraag een vergoeding verschuldigd.   
+1.  Degene die een aanvraag indient voor een erkenning als bedoeld in artikel 3 van de Regeling erkenning en aanwijzing veterinaire laboratoria, is voor de behandeling van de aanvraag een vergoeding verschuldigd.   
 2.  De in het eerste lid bedoelde vergoeding bedraagt per erkenning € 1.151,70.   
-3.  Voor zover voor de erkenning van een laboratorium een audit als bedoeld in [artikel 7 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) wordt verricht, wordt de vergoeding, bedoeld in het tweede lid, per erkenning vermeerderd met een bedrag van € 146,16 per uur dat aan de audit door het Centraal Veterinair Instituut, gevestigd te Lelystad, is besteed tot een maximum van € 2.338,46 per audit per erkenning en een bedrag van € 146,44 per uur dat aan de audit door het Rijksinstituut voor Volksgezondheid en Milieu, te Bilthoven, is besteed tot een maximum van € 1.830,00 per audit per erkenning.   
-4.  Voor zover voor de erkenning van een laboratorium is deelgenomen aan een ringtest als bedoeld in [artikel 8 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md), georganiseerd door het Rijksinstituut voor Volksgezondheid en Milieu, te Bilthoven, wordt de vergoeding vermeerderd met een bedrag van € 2.130,00.   
-5.  In afwijking van het tweede lid bedraagt de vergoeding voor een erkenning voor een testmethode als bedoeld in de [bijlage, onder 1, bij de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md), per laboratorium: 
+3.  Voor zover voor de erkenning van een laboratorium een audit als bedoeld in artikel 7 van de Regeling erkenning en aanwijzing veterinaire laboratoria wordt verricht, wordt de vergoeding, bedoeld in het tweede lid, per erkenning vermeerderd met een bedrag van € 146,16 per uur dat aan de audit door het Centraal Veterinair Instituut, gevestigd te Lelystad, is besteed tot een maximum van € 2.338,46 per audit per erkenning en een bedrag van € 146,44 per uur dat aan de audit door het Rijksinstituut voor Volksgezondheid en Milieu, te Bilthoven, is besteed tot een maximum van € 1.830,00 per audit per erkenning.   
+4.  Voor zover voor de erkenning van een laboratorium is deelgenomen aan een ringtest als bedoeld in artikel 8 van de Regeling erkenning en aanwijzing veterinaire laboratoria, georganiseerd door het Rijksinstituut voor Volksgezondheid en Milieu, te Bilthoven, wordt de vergoeding vermeerderd met een bedrag van € 2.130,00.   
+5.  In afwijking van het tweede lid bedraagt de vergoeding voor een erkenning voor een testmethode als bedoeld in de bijlage, onder 1, bij de Regeling erkenning en aanwijzing veterinaire laboratoria, per laboratorium: 
 
 a. voor een eerste erkenning € 11.085,00 per aanvraag, en  
 
@@ -449,12 +449,12 @@ b. voor een tweede of volgende erkenning € 5.542,00 per aanvraag.
 
 ### Artikel  30  
 
-1.  De houder van een erkenning als bedoeld in [artikel 3 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) voor een testmethode als bedoeld in de [bijlage, onder 2 tot en met 10 bij die regeling](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md), is een vergoeding verschuldigd voor werkzaamheden die ten behoeve van de instandhouding van de erkenning zijn verricht, waaronder begrepen de werkzaamheden van het Centraal Veterinair Instituut, gevestigd te Lelystad, bedoeld in [artikel 15 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md).   
-2.  De houder van een erkenning als bedoeld in [artikel 3 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) voor een testmethode als bedoeld in de [bijlage, onder 1, bij die regeling](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) is een vergoeding verschuldigd voor werkzaamheden die ten behoeve van de instandhouding van die erkenning zijn verricht, waaronder begrepen de werkzaamheden van het Centraal Veterinair Instituut, gevestigd te Lelystad, bedoeld in de [artikelen 15](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) en [16 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md).   
-3.  De houder van een erkenning als bedoeld in [artikel 3 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) voor een testmethode als bedoeld in de [bijlage, onder 11, bij die regeling](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md), is een vergoeding verschuldigd voor werkzaamheden die ten behoeve van de instandhouding van de erkenning zijn verricht, waaronder begrepen de werkzaamheden bedoeld in [artikel 15 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) die worden uitgevoerd door het Rijksinstituut voor Volksgezondheid en Milieu, te Bilthoven.   
+1.  De houder van een erkenning als bedoeld in artikel 3 van de Regeling erkenning en aanwijzing veterinaire laboratoria voor een testmethode als bedoeld in de bijlage, onder 2 tot en met 10 bij die regeling, is een vergoeding verschuldigd voor werkzaamheden die ten behoeve van de instandhouding van de erkenning zijn verricht, waaronder begrepen de werkzaamheden van het Centraal Veterinair Instituut, gevestigd te Lelystad, bedoeld in artikel 15 van de Regeling erkenning en aanwijzing veterinaire laboratoria.   
+2.  De houder van een erkenning als bedoeld in artikel 3 van de Regeling erkenning en aanwijzing veterinaire laboratoria voor een testmethode als bedoeld in de bijlage, onder 1, bij die regeling is een vergoeding verschuldigd voor werkzaamheden die ten behoeve van de instandhouding van die erkenning zijn verricht, waaronder begrepen de werkzaamheden van het Centraal Veterinair Instituut, gevestigd te Lelystad, bedoeld in de artikelen 15 en 16 van de Regeling erkenning en aanwijzing veterinaire laboratoria.   
+3.  De houder van een erkenning als bedoeld in artikel 3 van de Regeling erkenning en aanwijzing veterinaire laboratoria voor een testmethode als bedoeld in de bijlage, onder 11, bij die regeling, is een vergoeding verschuldigd voor werkzaamheden die ten behoeve van de instandhouding van de erkenning zijn verricht, waaronder begrepen de werkzaamheden bedoeld in artikel 15 van de Regeling erkenning en aanwijzing veterinaire laboratoria die worden uitgevoerd door het Rijksinstituut voor Volksgezondheid en Milieu, te Bilthoven.   
 4.  De in het eerste lid bedoelde vergoeding bestaat per erkenning uit een bedrag van: 
 
-a. € 146,16 per uur per uitgevoerde audit met een maximum van € 2.338,46 per uitgevoerde audit en, indien [artikel 15, derde lid, van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) van toepassing is, een maximum van € 5.846,16 per vier gecombineerde audits;  
+a. € 146,16 per uur per uitgevoerde audit met een maximum van € 2.338,46 per uitgevoerde audit en, indien artikel 15, derde lid, van de Regeling erkenning en aanwijzing veterinaire laboratoria van toepassing is, een maximum van € 5.846,16 per vier gecombineerde audits;  
 
 b. € 703,45 per ringtest;  
 
@@ -499,17 +499,17 @@ b. een bedrag van € 31,77 per kwartier dat door een officiële dierenarts of 
 
 Een retributie van € 23,68 is verschuldigd door de degene die een aanvraag indient tot een registratie als bedoeld in: 
 
-a. voor een registratie als bedoeld in [artikel 3.1.2, eerste lid, van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten](../../../../../../../../../ministeriele-regeling/regeling/veterinairrechtelijke/voorschriften/handel/dierlijke/producten/BWBR0019235/README.md);  
+a. voor een registratie als bedoeld in artikel 3.1.2, eerste lid, van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten;  
 
-b. de [artikelen 2.62, eerste lid](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), en [8.7, eerste lid, van de Regeling handel levende dieren en levende producten](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md);  
+b. de artikelen 2.62, eerste lid, en 8.7, eerste lid, van de Regeling handel levende dieren en levende producten;  
 
-c. [artikel 2.6, zesde lid, van de Regeling tijdelijke maatregelen dierziekten](../../../../../../../../../ministeriele-regeling/regeling/tijdelijke/maatregelen/dierziekten/BWBR0022975/README.md);  
+c. artikel 2.6, zesde lid, van de Regeling tijdelijke maatregelen dierziekten;  
 
 d. artikel 23 van verordening (EG) nr. 1069/2009.    
 
 ### Artikel  34  
 
-Voor de be- en afhandeling door de NVWA van een aanvraag tot toestemming als bedoeld in [artikel 3.2 van de Regeling dierlijke producten](../../../../../../../../../ministeriele-regeling/regeling/dierlijke/producten/BWBR0032462/README.md), met uitzondering van de aanvraag tot toestemming voor invoer in Nederland als bedoeld in artikel 48, eerste lid, van verordening (EG) nr. 1069/2009, is de aanvrager, dan wel diens vertegenwoordiger, een retributie verschuldigd, bestaande uit: 
+Voor de be- en afhandeling door de NVWA van een aanvraag tot toestemming als bedoeld in artikel 3.2 van de Regeling dierlijke producten, met uitzondering van de aanvraag tot toestemming voor invoer in Nederland als bedoeld in artikel 48, eerste lid, van verordening (EG) nr. 1069/2009, is de aanvrager, dan wel diens vertegenwoordiger, een retributie verschuldigd, bestaande uit: 
 
 a. een starttarief van € 116,64, en  
 
@@ -533,7 +533,7 @@ Voor de be- en afhandeling van een aanvraag tot toestemming voor vervoer naar ee
 
 ### Artikel  40  
 
-Voor de be- en afhandeling van een aanvraag tot een vergunning voor de invoer van een handelsmonster als bedoeld in artikel 13, eerste lid, van richtlijn nr. 92/118/EEG en [artikel 2.4.2.6, van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten](../../../../../../../../../ministeriele-regeling/regeling/veterinairrechtelijke/voorschriften/handel/dierlijke/producten/BWBR0019235/README.md), is de aanvrager, dan wel diens vertegenwoordiger, een retributie verschuldigd, bestaande uit een bedrag van € 254,18.  
+Voor de be- en afhandeling van een aanvraag tot een vergunning voor de invoer van een handelsmonster als bedoeld in artikel 13, eerste lid, van richtlijn nr. 92/118/EEG en artikel 2.4.2.6, van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten, is de aanvrager, dan wel diens vertegenwoordiger, een retributie verschuldigd, bestaande uit een bedrag van € 254,18.  
 
 ### Artikel  41  
 
@@ -573,16 +573,16 @@ b. een bedrag van € 25,88 per kwartier dat door een officiële dierenarts of 
 
 ### Artikel  46  
 
-1.  Voor de be- en afhandeling van een aanvraag tot erkenning van een kwaliteitssysteem als bedoeld in de [artikelen 56](../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) en [57 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md), is de aanvrager een retributie verschuldigd van: 
+1.  Voor de be- en afhandeling van een aanvraag tot erkenning van een kwaliteitssysteem als bedoeld in de artikelen 56 en 57 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s, is de aanvrager een retributie verschuldigd van: 
 
 a. € 1.779,29 voor een eerste aanvraag;  
 
 b. € 1.016,74 voor een iedere aanvraag na afwijzing van een eerdere aanvraag.     
-2.  Indien de rechtspersoon als bedoeld in [artikel 59, eerste lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) een wijziging van gegevens als bedoeld in [artikel 57, vierde lid, onderdeel d, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) heeft doorgegeven overeenkomstig [artikel 62, zesde lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md), is de rechtspersoon voor de be- en afhandeling van die wijziging een retributie verschuldigd, bestaande uit een bedrag van: € 254,18.   
+2.  Indien de rechtspersoon als bedoeld in artikel 59, eerste lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s een wijziging van gegevens als bedoeld in artikel 57, vierde lid, onderdeel d, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s heeft doorgegeven overeenkomstig artikel 62, zesde lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s, is de rechtspersoon voor de be- en afhandeling van die wijziging een retributie verschuldigd, bestaande uit een bedrag van: € 254,18.   
 
 ### Artikel  46a  
 
-Voor de be- en afhandeling van een aanvraag tot erkenning van een compartiment als bedoeld in de artikelen 4 en 6 van verordening (EG) nr. 616/2009 in samenhang met [artikel 113b Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md), is de aanvrager een bedrag verschuldigd, bestaande uit: 
+Voor de be- en afhandeling van een aanvraag tot erkenning van een compartiment als bedoeld in de artikelen 4 en 6 van verordening (EG) nr. 616/2009 in samenhang met artikel 113b Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s, is de aanvrager een bedrag verschuldigd, bestaande uit: 
 
 a. een starttarief van € 116,64, en  
 
@@ -851,11 +851,11 @@ Betalingsplichtigen verstrekken aan ambtenaren van de NVWA en de Auditdienst Rij
 
 ### Artikel  60  
 
-Op een zekerheid, die op grond van [artikel 3, eerste lid, van de Regeling zekerheidsstelling en betaling VWA-keurlonen](../../../../../../../../../ministeriele-regeling/regeling/zekerheidsstelling/en/betaling/van/vwa-keurlonen/BWBR0006003/README.md) ter voldoening van een retributie als bedoeld in de [Regeling retributies VWA veterinaire en hygiënische aangelegenheden](../../../../../../../../../ministeriele-regeling/regeling/retributies/vwa/veterinaire/en/hygiënische/aangelegenheden/BWBR0019325/README.md) en de [Regeling retributies veterinaire en hygiënische aangelegenheden](../../../../../../../../../ministeriele-regeling/regeling/retributies/veterinaire/en/hygiënische/aangelegenheden/BWBR0023098/README.md) werd gesteld vóór de inwerkingtreding van deze regeling, blijft de [Regeling zekerheidsstelling en betaling VWA-keurlonen](../../../../../../../../../ministeriele-regeling/regeling/zekerheidsstelling/en/betaling/van/vwa-keurlonen/BWBR0006003/README.md) zoals deze na inwerkingtreding van deze regeling luidt, onverkort van toepassing.  
+Op een zekerheid, die op grond van artikel 3, eerste lid, van de Regeling zekerheidsstelling en betaling VWA-keurlonen ter voldoening van een retributie als bedoeld in de Regeling retributies VWA veterinaire en hygiënische aangelegenheden en de Regeling retributies veterinaire en hygiënische aangelegenheden werd gesteld vóór de inwerkingtreding van deze regeling, blijft de Regeling zekerheidsstelling en betaling VWA-keurlonen zoals deze na inwerkingtreding van deze regeling luidt, onverkort van toepassing.  
 
 ### Artikel  60a  
 
-Deze regeling berust mede op [artikel 9.1 van de Wet dieren](../../../../../../../../../wet/wet/dieren/BWBR0030250/README.md).  
+Deze regeling berust mede op artikel 9.1 van de Wet dieren.  
 
 ### Artikel  61  
 
@@ -863,7 +863,7 @@ Wijzigt de Regeling retributies veterinaire en hygiënische aangelegenheden.
 
 ### Artikel  62  
 
-De [Regeling retributies veterinaire en hygiënische aangelegenheden](../../../../../../../../../ministeriele-regeling/regeling/retributies/veterinaire/en/hygiënische/aangelegenheden/BWBR0023098/README.md) wordt ingetrokken.  
+De Regeling retributies veterinaire en hygiënische aangelegenheden wordt ingetrokken.  
 
 ### Artikel  63  
 
@@ -884,7 +884,7 @@ G.Verburg
 Voor de berekening van het aantal GVE worden de volgende omrekeningscoëfficiënten gebruikt:  
 
 | Diersoort  | GVE  |
-|:---|:---|
+|---|---|
 | Runderen en gedomesticeerde wilde soortgenoten  |
 | volwassen runderen en eenhoevigen (vanaf 12 maanden)  | 1  |
 | Varkens en gedomesticeerde wilde soortgenoten  | --- |
@@ -903,7 +903,7 @@ Voor de berekening van het aantal GVE worden de volgende omrekeningscoëfficiën
 ####, behorende bij artikel 23 
 
 |--- | Geslacht gewicht per dier  | In kg  |--- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *Als landbouwhuisdier gehouden hoefdieren*   | --- | --- | --- |
 | --- | volwassen rund (incl. Bubalus en bison)  | 300  | kg  |
 | --- | meststier  | 350  | kg  |
@@ -954,14 +954,14 @@ Voor de berekening van het aantal GVE worden de volgende omrekeningscoëfficiën
 
 ####, behorende bij artikel 31, onder (ii) 
 
-1. De in artikel 31, onder (ii), bedoelde aanwijzing is een aanwijzing als bedoeld in [artikel 44, vierde lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md).  
+1. De in artikel 31, onder (ii), bedoelde aanwijzing is een aanwijzing als bedoeld in artikel 44, vierde lid, van de Gezondheids- en welzijnswet voor dieren.  
 
 2. De in artikel 31, onder (ii), bedoelde erkenning is een erkenning als bedoeld in: 
 
-a. de [artikelen 2.50a, eerste lid](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [2.50b](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [2.63](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [3.15, eerste en tweede lid](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [4.10](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [6.8, eerste lid](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [7.9](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [8.6, eerste lid](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [8.6a, eerste lid](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [8.14, eerste lid](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [9.10, eerste lid](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [9.10a, eerste en tweede lid](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [9.11, eerste lid](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [9.12](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [10.9, eerste lid](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [10.10, eerste lid](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), en [10.11 van de Regeling handel levende dieren en levende producten](../../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md);  
+a. de artikelen 2.50a, eerste lid, 2.50b, 2.63, 3.15, eerste en tweede lid, 4.10, 6.8, eerste lid, 7.9, 8.6, eerste lid, 8.6a, eerste lid, 8.14, eerste lid, 9.10, eerste lid, 9.10a, eerste en tweede lid, 9.11, eerste lid, 9.12, 10.9, eerste lid, 10.10, eerste lid, en 10.11 van de Regeling handel levende dieren en levende producten;  
 
-b. de [artikelen 21, eerste en vierde lid](../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md), en [26 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md);  
+b. de artikelen 21, eerste en vierde lid, en 26 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s;  
 
-c. de [artikelen 3, eerste lid](../../../../../../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md), en [9, eerste lid, van het Besluit eisen dierlijk sperma en spermawincentra](../../../../../../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md);  
+c. de artikelen 3, eerste lid, en 9, eerste lid, van het Besluit eisen dierlijk sperma en spermawincentra;  
 
-d. [artikel 3, eerste lid, van de Regeling controleposten](../../../../../../../../../ministeriele-regeling/regeling/halteplaatsen/BWBR0010527/README.md).     
+d. artikel 3, eerste lid, van de Regeling controleposten.     

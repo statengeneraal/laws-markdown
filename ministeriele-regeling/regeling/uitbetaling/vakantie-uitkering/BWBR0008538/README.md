@@ -4,11 +4,11 @@
 
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid,  
 Gelet op de [artikelen 33 van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) en [50, tweede lid](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), van de [Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a.  *pensioen:*   het ouderdomspensioen op grond van de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);    b.  *uitkering:*   de nabestaandenuitkering, de halfwezenuitkering en de wezenuitkering op grond van de [Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md).     
+In deze regeling wordt verstaan onder:  a.*pensioen:* het ouderdomspensioen op grond van de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);b.*uitkering:* de nabestaandenuitkering en de wezenuitkering op grond van de [Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md).  
 
 ### Artikel  2  
 
@@ -36,7 +36,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  8  
 
-Deze regeling wordt aangehaald als: Regeling uitbetaling vakantie-uitkering.  
+Deze regeling wordt aangehaald als: Regeling uitbetaling vakantie-uitkering. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -44,4 +44,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Staatssecretaris voornoemd, 
-F.H.G. deGrave    
+F.H.G. de Grave      
