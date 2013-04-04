@@ -17,37 +17,37 @@ Hebben goedgevonden en verstaan:
 
 ####Wijziging [Besluit participatiebudget](../../../../../../../../AMvB/besluit/participatiebudget/BWBR0025044/README.md)
 
-Wijzigt het Besluit participatiebudget.   
+Wijzigt het Besluit participatiebudget. 
 
 ### Artikel  II  
 
 ####Wijziging [Uitvoeringsbesluit WEB](../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md)
 
-Wijzigt het Uitvoeringsbesluit WEB.   
+Wijzigt het Uitvoeringsbesluit WEB. 
 
 ### Artikel  III  
 
 ####Wijziging [Besluit referentieniveaus Nederlandse taal en rekenen](../../../../../../../../AMvB/besluit/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027879/README.md)
 
-Wijzigt het Besluit referentieniveaus Nederlandse taal en rekenen.   
+Wijzigt het Besluit referentieniveaus Nederlandse taal en rekenen. 
 
 ### Artikel  IV  
 
 ####Wijziging [Staatsexamenbesluit Nederlands als tweede taal](../../../../../../../../AMvB/staatsexamenbesluit/nederlands/als/tweede/taal/BWBR0006192/README.md)
 
-Wijzigt het Staatsexamenbesluit Nederlands als tweede taal.   
+Wijzigt het Staatsexamenbesluit Nederlands als tweede taal. 
 
 ### Artikel  V  
 
 ####Overgangsbepaling verdeelsleutel Minister van Onderwijs, Cultuur en Wetenschap 2009 tot en met 2012
 
-De [artikelen 1](../../../../../../../../AMvB/besluit/participatiebudget/BWBR0025044/README.md) en [3 van het Besluit participatiebudget](../../../../../../../../AMvB/besluit/participatiebudget/BWBR0025044/README.md) zoals luidend op 31 december 2012 blijven van toepassing op uitkeringen over de jaren 2009 tot en met 2012 en daarop betrekking hebbende geschillen.  
+De [artikelen 1](../../../../../../../../AMvB/besluit/participatiebudget/BWBR0025044/README.md) en [3 van het Besluit participatiebudget](../../../../../../../../AMvB/besluit/participatiebudget/BWBR0025044/README.md) zoals luidend op 31 december 2012 blijven van toepassing op uitkeringen over de jaren 2009 tot en met 2012 en daarop betrekking hebbende geschillen. 
 
 ### Artikel  VI  
 
 ####Overgangsbepaling examengeld staatsexamen Nederlands als tweede taal
 
-[Artikel 5, eerste lid, van het Staatsexamenbesluit Nederlands als tweede taal](../../../../../../../../AMvB/staatsexamenbesluit/nederlands/als/tweede/taal/BWBR0006192/README.md) zoals luidend voor de inwerkingtreding van artikel IV van dit besluit blijft van toepassing op examens en delen van examens die worden afgenomen voor 1 januari 2013.  
+[Artikel 5, eerste lid, van het Staatsexamenbesluit Nederlands als tweede taal](../../../../../../../../AMvB/staatsexamenbesluit/nederlands/als/tweede/taal/BWBR0006192/README.md) zoals luidend voor de inwerkingtreding van artikel IV van dit besluit blijft van toepassing op examens en delen van examens die worden afgenomen voor 1 januari 2013. 
 
 ### Artikel  VII  
 
@@ -55,7 +55,7 @@ De [artikelen 1](../../../../../../../../AMvB/besluit/participatiebudget/BWBR002
 
 1.  Dit besluit treedt met uitzondering van artikel II, onderdelen A en B, en artikel IV in werking met ingang van 1 januari 2013.   
 2.  Artikel II, onderdelen A en B, treedt in werking op een bij koninklijk besluit te bepalen tijdstip en kan terugwerken tot een in dat besluit te bepalen tijdstip.   
-3.  Artikel IV treedt in werking op de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.   
+3.  Artikel IV treedt in werking op de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -63,10 +63,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 11 oktober 2012  
 Beatrix  
 
-De Minister van Onderwijs, Cultuur en Wetenschap, 
+De Minister van Onderwijs, Cultuur en Wetenschap,  
 J. M. van Bijsterveldt-Vliegenthart   
 
 de *eenendertigste* oktober 2012 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

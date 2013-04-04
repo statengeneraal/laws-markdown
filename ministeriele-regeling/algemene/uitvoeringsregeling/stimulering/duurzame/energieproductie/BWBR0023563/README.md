@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 28 februari 2008, nr. WJZ 8024263, tot vaststelling van algemene uitvoeringsregels voor de subsidieverstrekking op grond van het Besluit stimulering duurzame energieproductie (Algemene uitvoeringsregeling stimulering duurzame energieproductie)
 
 De Minister van Economische Zaken,  
-Gelet op [artikel 31, negende lid, onderdeel d, van de Elektriciteitswet 1998](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en de [artikelen 3, derde lid, onder d, en zesde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [56, eerste en derde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [62, vierde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [63, tweede lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [66, tweede en vierde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [68, vierde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), en [70, tweede lid, van het Besluit stimulering duurzame energieproductie](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);
+Gelet op artikel 31, negende lid, onderdeel d, van de Elektriciteitswet 1998 en de artikelen 3, derde lid, onder d, en zesde lid, 56, eerste en derde lid, 62, vierde lid, 63, tweede lid, 66, tweede en vierde lid, 68, vierde lid, en 70, tweede lid, van het Besluit stimulering duurzame energieproductie;
 Besluit:     
 ### §  1  
 
@@ -15,13 +15,13 @@ Besluit:
 
 a. Minister: de Minister van Economische Zaken;  
 
-b. besluit: het [Besluit stimulering duurzame energieproductie](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+b. besluit: het Besluit stimulering duurzame energieproductie;  
 
-c. garantiebeheerinstantie: de garantiebeheerinstantie als bedoeld in [artikel 75 van de Elektriciteitswet 1998](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);  
+c. garantiebeheerinstantie: de garantiebeheerinstantie als bedoeld in artikel 75 van de Elektriciteitswet 1998;  
 
 d. cumulatietoets: de toets aan de steunruimte zoals die is gemaximeerd in de Communautaire richtsnoeren inzake staatssteun voor milieubescherming (PbEG 2008 C 82);  
 
-e. gasnetbeheerder: een netbeheerder als bedoeld in [artikel 1, eerste lid, onderdeel e, van de Gaswet](../../../../../../../wet/gaswet/BWBR0011440/README.md);  
+e. gasnetbeheerder: een netbeheerder als bedoeld in artikel 1, eerste lid, onderdeel e, van de Gaswet;  
 
 f. productie-eenheid: een deel van een productie-installatie dat zelfstandig kan worden ingezet voor het opwekken van hernieuwbare elektriciteit, hernieuwbare warmte of de productie van hernieuwbaar gas;  
 
@@ -47,7 +47,7 @@ p. meetrapport: een rapport dat alle meetgegevens van de desbetreffende kalender
 
 q. systeemgrens van de productie-installatie: een fictieve gesloten omhulling van één of meer productie-eenheden die dezelfde wijze van opwekking van warmte gebruiken;  
 
-r. toegelaten meetbedrijf: een meetbedrijf dat op grond van de voorwaarden, bedoeld in [artikel 31, eerste lid, onderdeel b, van de Elektriciteitswet 1998](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), is toegelaten.     
+r. toegelaten meetbedrijf: een meetbedrijf dat op grond van de voorwaarden, bedoeld in artikel 31, eerste lid, onderdeel b, van de Elektriciteitswet 1998, is toegelaten.     
 2.  Onder nuttig gebruik van hernieuwbare warmte als bedoeld in artikel 1, derde lid, van het besluit wordt verstaan: de warmte, uitgedrukt in GJ die vrijkomt uit hernieuwbare energiebronnen en die wordt aangewend voor: 
 
 a. gebouwklimatisering van de binnenruimten van gebouwen;  
@@ -79,7 +79,7 @@ e. levering aan een warmtenet, mits de producent aannemelijk kan maken dat de wa
 
 ### Artikel  2  
 
-Het plan, bedoeld in [artikel 56, tweede lid, onderdeel d, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) bevat in ieder geval een uitgewerkt tijdschema betreffende de ingebruikname van de productie-installatie dat de volgende gedateerde ijkmomenten bevat: 
+Het plan, bedoeld in artikel 56, tweede lid, onderdeel d, van het besluit bevat in ieder geval een uitgewerkt tijdschema betreffende de ingebruikname van de productie-installatie dat de volgende gedateerde ijkmomenten bevat: 
 
 a. het verstrekken van de opdrachten voor de levering van onderdelen voor en voor de bouw van de productie-installatie;  
 
@@ -100,9 +100,9 @@ d. de datum waarop de periode waarover subsidie wordt verstrekt moet aanvangen.
 ### Artikel  3  
 
 1.  De subsidie-ontvanger verstrekt de opdrachten, bedoeld in artikel 2, onderdeel a, binnen een jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening en zendt een afschrift aan de Minister.   
-2.  De subsidie-ontvanger rapporteert na de datum van de beschikking tot subsidieverlening tot het moment van ingebruikname jaarlijks over de voortgang van de realisatie van de in het plan als bedoeld in [artikel 56, tweede lid, onderdeel d, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) opgenomen ijkmomenten.   
-3.  De subsidie-ontvanger zendt de Minister binnen een jaar na de datum van ingebruikname van de productie-installatie een overzicht van de daadwerkelijke investeringskosten, van de reeds ontvangen subsidies en overige steun en van de nog te ontvangen subsidies en overige steun. Indien de verleende subsidie als bedoeld in de [artikelen 16](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [24](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [33](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [41](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [49](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) en [55a van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) meer bedraagt dan € 125.000, gaat het overzicht vergezeld van een accountantsverklaring. De accountantsverklaring wordt opgesteld conform het model en het controleprotocol die zijn opgenomen in de bij deze regeling behorende bijlage 1.   
-4.  Het derde lid is niet van toepassing als de subsidieontvanger geen andere subsidie heeft ontvangen dan die op grond van het besluit en geen andere overige steun heeft ontvangen dan die op grond van [artikel 3.42 van de Wet op de inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
+2.  De subsidie-ontvanger rapporteert na de datum van de beschikking tot subsidieverlening tot het moment van ingebruikname jaarlijks over de voortgang van de realisatie van de in het plan als bedoeld in artikel 56, tweede lid, onderdeel d, van het besluit opgenomen ijkmomenten.   
+3.  De subsidie-ontvanger zendt de Minister binnen een jaar na de datum van ingebruikname van de productie-installatie een overzicht van de daadwerkelijke investeringskosten, van de reeds ontvangen subsidies en overige steun en van de nog te ontvangen subsidies en overige steun. Indien de verleende subsidie als bedoeld in de artikelen 16, 24, 33, 41, 49 en 55a van het besluit meer bedraagt dan € 125.000, gaat het overzicht vergezeld van een accountantsverklaring. De accountantsverklaring wordt opgesteld conform het model en het controleprotocol die zijn opgenomen in de bij deze regeling behorende bijlage 1.   
+4.  Het derde lid is niet van toepassing als de subsidieontvanger geen andere subsidie heeft ontvangen dan die op grond van het besluit en geen andere overige steun heeft ontvangen dan die op grond van artikel 3.42 van de Wet op de inkomstenbelasting 2001.   
 
 ### Artikel  4  
 
@@ -111,7 +111,7 @@ De subsidie-ontvanger meet de productie van hernieuwbare elektriciteit, hernieuw
 ### Artikel  6  
 
 1.  De subsidie-ontvanger die een productie-installatie bedrijft waarin biomassa wordt omgezet in hernieuwbare warmte of hernieuwbaar gas, zendt binnen vier maanden na afloop van ieder kalenderjaar waarover een voorschot wordt verstrekt aan de minister een verklaring over de gebruikte biomassa met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 2.   
-2.  Indien aan een subsidie-ontvanger die een productie-installatie bedrijft waarin door middel van thermische conversie vloeibare biomassa wordt omgezet in hernieuwbare elektriciteit of hernieuwbare warmte uitsluitend subsidie wordt verstrekt voor zover de subsidie-ontvanger aantoont dat de gebruikte vloeibare biomassa voldoet aan de duurzaamheidscriteria, bedoeld in artikel 17, eerste lid, van de richtlijn hernieuwbare energie, toont de subsidie-ontvanger dit aan middels de verklaring, bedoeld in het eerste lid, of middels voor de geproduceerde hernieuwbare elektriciteit of hernieuwbare warmte geboekte garanties van oorsprong als bedoeld in [artikel 1, eerste lid, onderdeel x, van de Elektriciteitswet 1998](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md).   
+2.  Indien aan een subsidie-ontvanger die een productie-installatie bedrijft waarin door middel van thermische conversie vloeibare biomassa wordt omgezet in hernieuwbare elektriciteit of hernieuwbare warmte uitsluitend subsidie wordt verstrekt voor zover de subsidie-ontvanger aantoont dat de gebruikte vloeibare biomassa voldoet aan de duurzaamheidscriteria, bedoeld in artikel 17, eerste lid, van de richtlijn hernieuwbare energie, toont de subsidie-ontvanger dit aan middels de verklaring, bedoeld in het eerste lid, of middels voor de geproduceerde hernieuwbare elektriciteit of hernieuwbare warmte geboekte garanties van oorsprong als bedoeld in artikel 1, eerste lid, onderdeel x, van de Elektriciteitswet 1998.   
 3.  Een subsidie-ontvanger kan aantonen dat vloeibare biomassa voldoet aan de duurzaamheidscriteria, bedoeld in artikel 17, eerste lid van de richtlijn hernieuwbare energie door: 
 
 a. aan te tonen dat voor de gebruikte vloeibare biomassa die vervaardigd is uit niet van landbouw, aquacultuur, visserij of bosbouw afkomstige afvalstoffen en residuen, een standaardwaarde voor de broeikasgasemissiereductie met betrekking tot de productieketen is vastgesteld in bijlage V van de richtlijn hernieuwbare energie of  
@@ -147,7 +147,7 @@ a. het volume te meten volgens de methode van de Meetvoorwaarden Gas – RNB;
 b. het methaangehalte of de calorische waarde van een productie-installatie met een productiecapaciteit die groter is dan genoemd in kolom 1 en kleiner is dan of gelijk is aan genoemd in kolom 2 ten minste elke 15 minuten te meten met een maximale onnauwkeurigheid genoemd in kolom 3.    
 
 | Kolom 1  | Kolom 2  | Kolom 3  |
-|:---|:---|:---|
+|---|---|---|
 | 0 Nm <sup>3</sup> /uur  | 40 Nm <sup>3</sup> /uur  | 5,3%  |
 | 40 Nm <sup>3</sup> /uur  | 200 Nm <sup>3</sup> /uur  | 3,2%  |
 | 200 Nm <sup>3</sup> /uur  | 1200 Nm <sup>3</sup> /uur  | 1,3%  |
@@ -155,7 +155,7 @@ b. het methaangehalte of de calorische waarde van een productie-installatie met 
 
 2.  De metingen, bedoeld in het eerste lid, worden gedaan op de grens tussen de productie-installatie en de gedeelde voorzieningen van de groen gas hub.   
 3.  De subsidie-ontvanger draagt er zorg voor dat de metingen, bedoeld in het eerste lid, bij alle productie-installaties die onderdeel zijn van de groen gas hub worden gedaan.   
-4.  Het aantal Nm <sup>3</sup> aardgasequivalent dat voor subsidie in aanmerking komt wordt per productie-installatie van een groen gas hub bepaald door het totaal aantal Nm <sup>3</sup> aardgasequivalent dat door de groen gas hub wordt ingevoed op een gastransportnet als bedoeld in [artikel 1, eerste lid, onderdeel d, van de Gaswet](../../../../../../../wet/gaswet/BWBR0011440/README.md) naar rato van de geleverde energie, uitgedrukt in methaangehalte of calorische waarde, over de productie-installaties die onderdeel zijn van de groen gas hub te verdelen.   
+4.  Het aantal Nm <sup>3</sup> aardgasequivalent dat voor subsidie in aanmerking komt wordt per productie-installatie van een groen gas hub bepaald door het totaal aantal Nm <sup>3</sup> aardgasequivalent dat door de groen gas hub wordt ingevoed op een gastransportnet als bedoeld in artikel 1, eerste lid, onderdeel d, van de Gaswet naar rato van de geleverde energie, uitgedrukt in methaangehalte of calorische waarde, over de productie-installaties die onderdeel zijn van de groen gas hub te verdelen.   
 5.  De subsidie-ontvanger die met zijn productie-installatie voor de productie van hernieuwbaar gas onderdeel is van een groen gas hub waarmee hernieuwbaar gas op een gasnet wordt ingevoegd, draagt er zorg voor dat: 
 
 a. de aansluiting van de groens gas hub voldoet aan de eisen van de Aansluit- en transportvoorwaarden Gas – RNB of de Aansluitvoorwaarden Gas – LNB;  
@@ -163,7 +163,7 @@ a. de aansluiting van de groens gas hub voldoet aan de eisen van de Aansluit- en
 b. de hoeveelheid Nm3 aardgasequivalent die op het net wordt ingevoed, gemeten wordt volgens de Meetvoorwaarden Gas – RNB of de Meetvoorwaarden Gas – LNB.     
 6.  Artikel 7, eerste lid, is niet van toepassing op subsidie-ontvangers die met hun productie-installatie voor de productie van hernieuwbaar gas onderdeel uitmaken van een groen gas hub.   
 7.  Het aantal GJ dat voor subsidie in aanmerking komt wordt per productie-installatie van een groen gas hub bepaald door het totaal aantal GJ hernieuwbare warmte die nuttig wordt gebruikt of hernieuwbare elektriciteit dat door de groen gas hub wordt geproduceerd die op een elektriciteitsnet of installatie, met uitzondering van de productie-installatie, wordt ingevoed, naar rato van de geleverde energie, uitgedrukt in methaangehalte of calorische waarde, over de productie-installaties die onderdeel zijn van de groen gas hub te verdelen.   
-8.  De subsidie-ontvanger wiens productie-installatie voor de productie van hernieuwbaar gas onderdeel is van een groen gas hub draagt er zorg voor dat de gegevens, bedoeld in het vierde of zevende lid, uiterlijk vier maanden na afloop van het kwartaal waarop de gegevens betrekking hebben aan de minister worden overgelegd. Indien met de groen gas hub hernieuwbare elektriciteit of hernieuwbare elektriciteit en hernieuwbare warmte worden geproduceerd, draagt de subsidie-ontvanger er zorg voor dat de gegevens, bedoeld in het vierde of vijfde lid, worden overgelegd middels de voor de geproduceerde hernieuwbare elektriciteit of hernieuwbare warmte geboekte garanties van oorsprong als bedoeld in [artikel 1, eerste lid, onderdeel x, van de Elektriciteitswet 1998](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md).   
+8.  De subsidie-ontvanger wiens productie-installatie voor de productie van hernieuwbaar gas onderdeel is van een groen gas hub draagt er zorg voor dat de gegevens, bedoeld in het vierde of zevende lid, uiterlijk vier maanden na afloop van het kwartaal waarop de gegevens betrekking hebben aan de minister worden overgelegd. Indien met de groen gas hub hernieuwbare elektriciteit of hernieuwbare elektriciteit en hernieuwbare warmte worden geproduceerd, draagt de subsidie-ontvanger er zorg voor dat de gegevens, bedoeld in het vierde of vijfde lid, worden overgelegd middels de voor de geproduceerde hernieuwbare elektriciteit of hernieuwbare warmte geboekte garanties van oorsprong als bedoeld in artikel 1, eerste lid, onderdeel x, van de Elektriciteitswet 1998.   
 
 ### Artikel  7b  
 
@@ -256,37 +256,37 @@ De subsidie-ontvanger kan de minister om toestemming verzoeken om, in afwijking 
 
 a. de productie in het betreffende kalenderjaar waarover garanties van oorsprong of certificaten zijn afgegeven, het aantal GJ hernieuwbare warmte dat in het betreffende kalenderjaar voor subsidie in aanmerking komt of het aantal Nm <sup>3</sup> aardgasequivalent dat in het betreffende kalenderjaar voor subsidie in aanmerking komt,  
 
-b. de voor het betreffende kalenderjaar vastgestelde correcties op grond van [artikelen 14, vijfde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [22, vijfde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [31, vierde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [39, vierde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [47, vierde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), en [54, vierde lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) en  
+b. de voor het betreffende kalenderjaar vastgestelde correcties op grond van artikelen 14, vijfde lid, 22, vijfde lid, 31, vierde lid, 39, vierde lid, 47, vierde lid, en 54, vierde lid, van het besluit en  
 
-c. indien [artikel 11, derde lid, onderdeel a, b of c](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [28, derde lid, onderdeel a, b of c](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), of [44, derde lid, onderdeel a, b, of c, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) van toepassing is, het aantal geproduceerde kWh, GJ of Nm <sup>3</sup> aardgasequivalenten die voor subsidie in aanmerking komt, het aantal gerealiseerde vollasturen van de productie-installatie of het gerealiseerde rendement van de productie-installatie.     
-2.  De Minister verrekent een tekort aan verstrekte maandelijkse bedragen of een tekort op het jaarlijkse bedrag, als bedoeld in [artikel 68, tweede lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), door het te weinig betaalde bedrag aan het voorschot binnen zes weken na de datum van bijstelling van het voorschot aan de subsidie-ontvanger te verstrekken.   
-3.  De minister verrekent een teveel aan verstrekte maandelijkse bedragen of een teveel op het verstrekte jaarlijkse bedrag als bedoeld in [artikel 68, tweede lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), door het bedrag van het teveel betaalde voorschot aan de subsidie-ontvanger in mindering te brengen op het eerst volgende te verstrekken maandelijkse bedrag of op het eerst volgende te verstrekken jaarlijkse bedrag en vervolgens op zoveel maandelijkse of jaarlijkse bedragen als nodig is om het teveel betaalde voorschot volledig te verrekenen. Indien geen maandelijkse of jaarlijkse bedragen meer verschuldigd zijn, wordt een teveel betaald voorschot teruggevorderd.   
-4.  De minister kan op verzoek van de subsidieontvanger, voor voorschotten betaald tot en met 2012, een teveel aan verstrekte maandelijkse bedragen of een teveel op het verstrekte jaarlijkse bedrag als bedoeld in [artikel 68, tweede lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), tot het teveel betaalde bedrag volledig is verrekend, verrekenen door het bedrag van het teveel betaalde voorschot aan de subsidieontvanger in delen in mindering te brengen op de volgende te verstrekken maandelijkse bedragen of op de volgende te verstrekken jaarlijkse bedragen. Indien geen maandelijkse of jaarlijkse bedragen meer verschuldigd zijn, wordt een teveel betaald voorschot teruggevorderd.   
+c. indien artikel 11, derde lid, onderdeel a, b of c, 28, derde lid, onderdeel a, b of c, of 44, derde lid, onderdeel a, b, of c, van het besluit van toepassing is, het aantal geproduceerde kWh, GJ of Nm <sup>3</sup> aardgasequivalenten die voor subsidie in aanmerking komt, het aantal gerealiseerde vollasturen van de productie-installatie of het gerealiseerde rendement van de productie-installatie.     
+2.  De Minister verrekent een tekort aan verstrekte maandelijkse bedragen of een tekort op het jaarlijkse bedrag, als bedoeld in artikel 68, tweede lid, van het besluit, door het te weinig betaalde bedrag aan het voorschot binnen zes weken na de datum van bijstelling van het voorschot aan de subsidie-ontvanger te verstrekken.   
+3.  De minister verrekent een teveel aan verstrekte maandelijkse bedragen of een teveel op het verstrekte jaarlijkse bedrag als bedoeld in artikel 68, tweede lid, van het besluit, door het bedrag van het teveel betaalde voorschot aan de subsidie-ontvanger in mindering te brengen op het eerst volgende te verstrekken maandelijkse bedrag of op het eerst volgende te verstrekken jaarlijkse bedrag en vervolgens op zoveel maandelijkse of jaarlijkse bedragen als nodig is om het teveel betaalde voorschot volledig te verrekenen. Indien geen maandelijkse of jaarlijkse bedragen meer verschuldigd zijn, wordt een teveel betaald voorschot teruggevorderd.   
+4.  De minister kan op verzoek van de subsidieontvanger, voor voorschotten betaald tot en met 2012, een teveel aan verstrekte maandelijkse bedragen of een teveel op het verstrekte jaarlijkse bedrag als bedoeld in artikel 68, tweede lid, van het besluit, tot het teveel betaalde bedrag volledig is verrekend, verrekenen door het bedrag van het teveel betaalde voorschot aan de subsidieontvanger in delen in mindering te brengen op de volgende te verstrekken maandelijkse bedragen of op de volgende te verstrekken jaarlijkse bedragen. Indien geen maandelijkse of jaarlijkse bedragen meer verschuldigd zijn, wordt een teveel betaald voorschot teruggevorderd.   
 
 ### Artikel  9  
 
-1.  Het in [artikel 68, eerste lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) bedoelde maandelijkse bedrag bedraagt één-twaalfde van 80% van het product van: 
+1.  Het in artikel 68, eerste lid, van het besluit bedoelde maandelijkse bedrag bedraagt één-twaalfde van 80% van het product van: 
 
 a. de in beschikking tot subsidieverlening voor het betreffende kalenderjaar opgenomen maximum productie, en  
 
 b. het voor de subsidie-ontvanger geldende: 
 
-1°. basisbedrag, of bij toepassing van [artikel 11, derde lid, onderdeel c](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), of [28, derde lid, onderdeel c](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), of [44, derde lid, onderdeel c, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) het basisbedrag behorende bij het in de beschikking tot subsidieverlening opgenomen rendement, verminderd met de bij ministeriële regeling vastgestelde correcties op grond van [artikel 14, zesde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [31, vijfde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), of [47, vijfde lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), of  
+1°. basisbedrag, of bij toepassing van artikel 11, derde lid, onderdeel c, of 28, derde lid, onderdeel c, of 44, derde lid, onderdeel c, van het besluit het basisbedrag behorende bij het in de beschikking tot subsidieverlening opgenomen rendement, verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 14, zesde lid, 31, vijfde lid, of 47, vijfde lid, van het besluit, of  
 
-2°. het tenderbedrag verminderd met de bij ministeriële regeling vastgestelde correcties op grond van [artikel 22, zesde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [39, vijfde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), of [54, vijfde lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).       
-2.  Het in [artikel 68, eerste lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) bedoelde jaarlijkse bedrag bedraagt 80% van het product van: 
+2°. het tenderbedrag verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 22, zesde lid, 39, vijfde lid, of 54, vijfde lid, van het besluit.       
+2.  Het in artikel 68, eerste lid, van het besluit bedoelde jaarlijkse bedrag bedraagt 80% van het product van: 
 
 a. de in beschikking tot subsidieverlening voor het betreffende kalenderjaar opgenomen maximum productie, en  
 
 b. het voor de subsidie-ontvanger geldende: 
 
-1°. basisbedrag, of bij toepassing van [artikel 11, derde lid, onderdeel c](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), of [28, derde lid, onderdeel c](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), of [44, derde lid, onderdeel c, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) het basisbedrag behorende bij het in de beschikking tot subsidieverlening opgenomen rendement, verminderd met de bij ministeriële regeling vastgestelde correcties op grond van [artikel 14, zesde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [31, vijfde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), of [47, vijfde lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), of  
+1°. basisbedrag, of bij toepassing van artikel 11, derde lid, onderdeel c, of 28, derde lid, onderdeel c, of 44, derde lid, onderdeel c, van het besluit het basisbedrag behorende bij het in de beschikking tot subsidieverlening opgenomen rendement, verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 14, zesde lid, 31, vijfde lid, of 47, vijfde lid, van het besluit, of  
 
-2°. het tenderbedrag verminderd met de bij ministeriële regeling vastgestelde correcties op grond van [artikel 22, zesde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [39, vijfde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), of [54, vijfde lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).       
+2°. het tenderbedrag verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 22, zesde lid, 39, vijfde lid, of 54, vijfde lid, van het besluit.       
 3.  Indien de subsidieperiode start op een andere datum dan 1 januari of eindigt op een andere datum dan 31 december bedraagt voor het eerste jaar respectievelijk het laatste jaar van de periode waarover subsidie wordt verstrekt het maandelijkse of jaarlijkse bedrag een evenredig deel van het aantal maanden of van het jaar waarover het voorschot wordt verstrekt.   
 4.  De minister kan het maandelijkse of jaarlijkse bedrag herberekenen indien: 
 
-a. de subsidie-ontvanger een verzoek tot ontheffing als bedoeld in [artikel 62, derde lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), indient;  
+a. de subsidie-ontvanger een verzoek tot ontheffing als bedoeld in artikel 62, derde lid, van het besluit, indient;  
 
 b. de maandelijkse productie van hernieuwbare elektriciteit, hernieuwbare warmte of hernieuwbaar gas gedurende ten minste twee maanden ten minste 50 procent zal achterblijven dan wel achter is gebleven ten opzichte van de in de beschikking tot voorschotverlening opgenomen maximum productie in kWh, GJ of Nm <sup>3</sup> aardgasequivalent;  
 
@@ -309,59 +309,60 @@ Een aanvraag om subsidievaststelling wordt ingediend met gebruikmaking van het o
 
 ### Artikel  11  
 
-1.  Voor de toepassing van [artikel 3, eerste tot en met derde lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) geldt dat geen sprake is van dezelfde productie-installatie wanneer: 
+1.  Voor de toepassing van artikel 3, eerste tot en met derde lid, van het besluit geldt dat geen sprake is van dezelfde productie-installatie wanneer: 
 
 a. het een productie-installatie op een andere locatie betreft;  
 
 b. het een productie-installatie met een andere opwekkingstechnologie betreft.     
-2.  Onverminderd het eerste lid geldt voor de toepassing van [artikel 3, eerste tot en met derde lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) dat geen sprake is van dezelfde productie-installatie wanneer het een productie-installatie betreft waarvan het vermogen meer dan 20% afwijkt ten opzichte van het vermogen van een productie-installatie waarvoor eerder een beschikking tot subsidieverlening is verstrekt, indien de beschikking tot subsidieverlening voor 1 juli 2011 is ingetrokken of de subsidie voor 1 juli 2011 is vastgesteld.   
-3.  De duur, bedoeld in [artikel 3, derde lid, onderdeel d van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), bedraagt ten hoogste vier jaar.   
+2.  Onverminderd het eerste lid geldt voor de toepassing van artikel 3, eerste tot en met derde lid, van het besluit dat geen sprake is van dezelfde productie-installatie wanneer het een productie-installatie betreft waarvan het vermogen meer dan 20% afwijkt ten opzichte van het vermogen van een productie-installatie waarvoor eerder een beschikking tot subsidieverlening is verstrekt, indien de beschikking tot subsidieverlening voor 1 juli 2011 is ingetrokken of de subsidie voor 1 juli 2011 is vastgesteld.   
+3.  De duur, bedoeld in artikel 3, derde lid, onderdeel d van het besluit, bedraagt ten hoogste vier jaar.   
 
 ### Artikel  12  
 
-1.  Onder ingrijpende uitbreiding als bedoeld in [artikel 3, tweede lid, onderdeel b, derde lid, onderdeel b, en vierde lid, onderdeel a, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) wordt verstaan een uitbreiding van een bestaande productie-installatie met ten minste één productie-eenheid.   
+1.  Onder ingrijpende uitbreiding als bedoeld in artikel 3, tweede lid, onderdeel b, derde lid, onderdeel b, en vierde lid, onderdeel a, van het besluit wordt verstaan een uitbreiding van een bestaande productie-installatie met ten minste één productie-eenheid.   
 2.  In afwijking van het eerste lid wordt bij een afvalverbrandingsinstallatie onder ingrijpende uitbreiding verstaan een uitbreiding met tenminste een nieuwe verbrandingsoven met bijbehorende ketel en een rookgasreiniginginstallatie.   
-3.  Onder gehele vervanging als bedoeld in [artikel 3, tweede lid, onderdeel b, derde lid, onderdeel b, en vierde lid, onderdeel a, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) wordt verstaan het vervangen van de gehele productie-installatie door een nieuwe productie-installatie.   
-4.  Onder renovatie als bedoeld in [artikel 3, tweede lid, onderdeel c, derde lid, onderdeel c, en vierde lid, onderdeel b, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) wordt verstaan het in nieuwstaat brengen van die voorzieningen van een productie-installatie die zorg dragen voor de omzetting van hernieuwbare energiebronnen in elektriciteit of gas.   
+3.  Onder gehele vervanging als bedoeld in artikel 3, tweede lid, onderdeel b, derde lid, onderdeel b, en vierde lid, onderdeel a, van het besluit wordt verstaan het vervangen van de gehele productie-installatie door een nieuwe productie-installatie.   
+4.  Onder renovatie als bedoeld in artikel 3, tweede lid, onderdeel c, derde lid, onderdeel c, en vierde lid, onderdeel b, van het besluit wordt verstaan het in nieuwstaat brengen van die voorzieningen van een productie-installatie die zorg dragen voor de omzetting van hernieuwbare energiebronnen in elektriciteit of gas.   
 
 ### Artikel  13  
 
-1.  De Minister deelt de garantiebeheerinstantie per productie-installatie voor hernieuwbare elektriciteit waarvoor subsidie op grond van het [besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) is verleend de locatiegegevens, de ean-code en andere voor de subsidieverlening relevante informatie mee.   
-2.  De garantiebeheerinstantie deelt de Minister per productie-installatie voor hernieuwbare elektriciteit waarvoor subsidie op grond van het [besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) is verleend het aantal kWh waarvoor garanties van oorsprong is verstrekt mee.   
+1.  De Minister deelt de garantiebeheerinstantie per productie-installatie voor hernieuwbare elektriciteit waarvoor subsidie op grond van het besluit is verleend de locatiegegevens, de ean-code en andere voor de subsidieverlening relevante informatie mee.   
+2.  De garantiebeheerinstantie deelt de Minister per productie-installatie voor hernieuwbare elektriciteit waarvoor subsidie op grond van het besluit is verleend het aantal kWh waarvoor garanties van oorsprong is verstrekt mee.   
 3.  De garantiebeheerinstantie verstrekt op verzoek van de Minister alle overige voor de subsidieverlening relevante informatie.   
 
 ### Artikel  14  
 
 1.  In aanvulling op de voor de subsidieverstrekking toegestane biomassastromen kunnen subsidie-ontvangers aan wie subsidie is verstrekt op grond van: 
 
-a. [artikel 29, eerste lid, onderdeel b](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md), of [42, eerste lid, onderdeel b, van de Regeling aanwijzing categorieën duurzame energieproductie 2008](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2008/BWBR0023566/README.md),  
+a. artikel 29, eerste lid, onderdeel b, of 42, eerste lid, onderdeel b, van de Regeling aanwijzing categorieën duurzame energieproductie 2008,  
 
-b. [artikel 29, eerste lid, onderdeel b](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md), of [51, eerste lid, onderdeel a, van de Regeling aanwijzing categorieën duurzame energieproductie 2009](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2009/BWBR0025570/README.md) of  
+b. artikel 29, eerste lid, onderdeel b, of 51, eerste lid, onderdeel a, van de Regeling aanwijzing categorieën duurzame energieproductie 2009 of  
 
-c. [artikel 29, eerste lid, onderdeel b](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md), of [54, eerste lid, onderdeel a, van de Regeling aanwijzing categorieën duurzame energieproductie 2010](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md),   met ingang van 1 juli 2011 ten hoogste 50 procent van de massa die wordt vergist laten bestaan uit biomassastromen als bedoeld in de NTA 8003:2008, met uitzondering van de nummers 410, 420, 500, 550 tot en met 559.   
+c. artikel 29, eerste lid, onderdeel b, of 54, eerste lid, onderdeel a, van de Regeling aanwijzing categorieën duurzame energieproductie 2010,   met ingang van 1 juli 2011 ten hoogste 50 procent van de massa die wordt vergist laten bestaan uit biomassastromen als bedoeld in de NTA 8003:2008, met uitzondering van de nummers 410, 420, 500, 550 tot en met 559.   
 2.  In aanvulling op de voor de subsidieverstrekking toegestane biomassastromen kunnen subsidie-ontvangers aan wie subsidie is verstrekt op grond van: 
 
-a. [artikel 29, eerste lid, onderdeel c](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2009/BWBR0025570/README.md), of [51, eerste lid, onderdeel c, van de Regeling aanwijzing categorieën duurzame energieproductie 2009](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2009/BWBR0025570/README.md) of  
+a. artikel 29, eerste lid, onderdeel c, of 51, eerste lid, onderdeel c, van de Regeling aanwijzing categorieën duurzame energieproductie 2009 of  
 
-b. [artikel 29, eerste lid, onderdeel c,](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md) of [54, eerste lid, onderdeel c, van de Regeling aanwijzing categorieën duurzame energieproductie 2010](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md),   met ingang van 1 juli 2011 biomassastromen als bedoeld in de NTA 8003:2008: 430, 587 en 592 gebruiken.   
-3.  In aanvulling op de voor de subsidieverstrekking toegestane biomassastromen kunnen subsidie-ontvangers aan wie subsidie is verstrekt op grond van [artikel 21, eerste lid, onderdeel c](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2011/BWBR0030034/README.md), of [44, eerste lid, van de Regeling aanwijzing categorieën duurzame energieproductie 2011](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2011/BWBR0030034/README.md) met ingang van 1 januari 2011 biomassastromen als bedoeld in de NTA 8003:2008: 587 en 592 gebruiken.   
-4.  Als productie-installaties als bedoeld in [artikel 15, vierde lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) worden aangewezen productie-installaties waarvoor subsidie is verstrekt op grond van: 
+b. artikel 29, eerste lid, onderdeel c, of 54, eerste lid, onderdeel c, van de Regeling aanwijzing categorieën duurzame energieproductie 2010,   met ingang van 1 juli 2011 biomassastromen als bedoeld in de NTA 8003:2008: 430, 587 en 592 gebruiken.   
+3.  In aanvulling op de voor de subsidieverstrekking toegestane biomassastromen kunnen subsidie-ontvangers aan wie subsidie is verstrekt op grond van artikel 21, eerste lid, onderdeel c, of 44, eerste lid, van de Regeling aanwijzing categorieën duurzame energieproductie 2011 met ingang van 1 januari 2011 biomassastromen als bedoeld in de NTA 8003:2008: 587 en 592 gebruiken.   
+4.  In aanvulling op de voor de subsidieverstrekking toegestane biomassastromen kunnen subsidie-ontvangers met een productie-installatie op een landbouwbedrijf aan wie subsidie is verstrekt op grond van artikel 116, eerste lid, onderdeel b, van de Regeling aanwijzing categorieën duurzame energieproductie 2012, met ingang van 4 april 2013 tevens uitsluitend plantaardige stoffen vermeld onder de categorieën A tot en met G1 onder categorie 1 van Bijlage Aa, onderdeel IV, van de Uitvoeringsregeling Meststoffenwet vergisten.   
+5.  Als productie-installaties als bedoeld in artikel 15, vierde lid, van het besluit worden aangewezen productie-installaties waarvoor subsidie is verstrekt op grond van: 
 
-a. [artikelen 3, eerste lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2008/BWBR0023566/README.md), [15, eerste lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md), [22, eerste lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md)[29, eerste lid, van de regeling aanwijzing categorieën duurzame energieproductie 2008](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2008/BWBR0023566/README.md);  
+a. artikelen 3, eerste lid, 15, eerste lid, 22, eerste lid29, eerste lid, van de regeling aanwijzing categorieën duurzame energieproductie 2008;  
 
-b. [artikel 2, eerste lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md), [7a, eerste en tweede lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2009/BWBR0025570/README.md), [15, eerste lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md), [22, eerste lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md), [29, eerste lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md), [35, eerste lid, van de regeling aanwijzing categorieën duurzame energieproductie 2009](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2009/BWBR0025570/README.md);  
+b. artikel 2, eerste lid, 7a, eerste en tweede lid, 15, eerste lid, 22, eerste lid, 29, eerste lid, 35, eerste lid, van de regeling aanwijzing categorieën duurzame energieproductie 2009;  
 
-c. [artikel 2, eerste lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md), [15, eerste lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md), [22, eerste lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md), [29, eerste lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md), [35, eerste lid, van de regeling aanwijzing categorieën duurzame energieproductie 2010](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md), en  
+c. artikel 2, eerste lid, 15, eerste lid, 22, eerste lid, 29, eerste lid, 35, eerste lid, van de regeling aanwijzing categorieën duurzame energieproductie 2010, en  
 
-d. [artikel 4, eerste lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2011/BWBR0030034/README.md), [10, eerste lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2011/BWBR0030034/README.md), [16, eerste lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2011/BWBR0030034/README.md), [21, eerste lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2011/BWBR0030034/README.md), [26, eerste lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2011/BWBR0030034/README.md), [31, eerste lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2011/BWBR0030034/README.md), [35, eerste lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2011/BWBR0030034/README.md), [44, eerste lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2011/BWBR0030034/README.md), [48, eerste lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2011/BWBR0030034/README.md), [52, eerste lid](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2011/BWBR0030034/README.md), [56, eerste lid, van de regeling aanwijzing categorieën duurzame energieproductie 2011](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2011/BWBR0030034/README.md).     
+d. artikel 4, eerste lid, 10, eerste lid, 16, eerste lid, 21, eerste lid, 26, eerste lid, 31, eerste lid, 35, eerste lid, 44, eerste lid, 48, eerste lid, 52, eerste lid, 56, eerste lid, van de regeling aanwijzing categorieën duurzame energieproductie 2011.     
 
 ### Artikel  14a  
 
-Productie-installaties, met uitzondering van productie-installaties voor de productie van hernieuwbare elektriciteit met behulp van windenergie, waarvoor subsidie is verstrekt op grond van de [Regeling aanwijzing categorieën duurzame energieproductie 2008](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2008/BWBR0023566/README.md), de [Regeling aanwijzing categorieën duurzame energieproductie 2009](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2009/BWBR0025570/README.md), de [Regeling aanwijzing categorieën duurzame energieproductie 2010](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md) en de [Regeling aanwijzing categorieën duurzame energieproductie 2011](../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2011/BWBR0030034/README.md), worden met ingang van 1 januari 2012 aangewezen als productie-installaties als bedoeld in de [artikelen 15, tweede lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [32, tweede lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), of [48, tweede lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).  
+Productie-installaties, met uitzondering van productie-installaties voor de productie van hernieuwbare elektriciteit met behulp van windenergie, waarvoor subsidie is verstrekt op grond van de Regeling aanwijzing categorieën duurzame energieproductie 2008, de Regeling aanwijzing categorieën duurzame energieproductie 2009, de Regeling aanwijzing categorieën duurzame energieproductie 2010 en de Regeling aanwijzing categorieën duurzame energieproductie 2011, worden met ingang van 1 januari 2012 aangewezen als productie-installaties als bedoeld in de artikelen 15, tweede lid, 32, tweede lid, of 48, tweede lid, van het besluit.  
 
 ### Artikel  14b  
 
-De omrekenfactor voor de omrekening van Nm <sup>3</sup> aardgasequivalent naar GJ, bedoeld in [artikel 58, derde lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), is: Nm <sup>3</sup> aardgasequivalent / GJ = 40,27777778.  
+De omrekenfactor voor de omrekening van Nm <sup>3</sup> aardgasequivalent naar GJ, bedoeld in artikel 58, derde lid, van het besluit, is: Nm <sup>3</sup> aardgasequivalent / GJ = 40,27777778.  
 
 ### §  7  
 
@@ -369,7 +370,7 @@ De omrekenfactor voor de omrekening van Nm <sup>3</sup> aardgasequivalent naar G
 
 ### Artikel  15  
 
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit stimulering duurzame energieproductie](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop het Besluit stimulering duurzame energieproductie in werking treedt.  
 
 ### Artikel  16  
 
@@ -436,7 +437,7 @@ Dit controleprotocol heeft als doel het geven van aanwijzingen aan de accountant
 Voor de strekking van de accountantsverklaring, goedkeurend, met beperking, afkeurend of oordeelonthouding, zijn de volgende toleranties bepalend:  
 
 |--- | Procentuele onjuistheden  (in de verantwoording)  | Procentuele onzekerheden  (in de controle)  |--- | Goedkeuring  | Beperking  | Afkeuring  | Goedkeuring  | Beperking  | Oordeelonthouding  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|
 | uitkomst van de controle in een percentage van de projectkosten  | < 1  | ≥ 1 en < 3  | ≥ 3  | < 3  | ≥ 3 en < 10  | ≥ 10  |
 
 Deze toleranties zijn gebaseerd op percentages die gelden voor de financiële verantwoording van departementen, op grond van de richtlijnen van het Interdepartementaal Overleg Departementale Accountantsdiensten. 
@@ -487,10 +488,10 @@ Bijlage 2 behorende bij artikel 6, eerste lid, van de Algemene uitvoeringsregeli
 
 ####Toelichting
 
-In dit formulier verklaart de producent van hernieuwbaar warmte of hernieuwbaar gas afkomstig van biomassa dat uitsluitend biomassastromen zijn gebruikt die zijn toegestaan voor de categorie productie-installaties waarvoor SDE(+)-subsidie is ontvangen. Deze verplichting is omschreven in artikel 6, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie. Bij gecombineerde opwekking van hernieuwbare elektriciteit en hernieuwbare warmte (WKK) is de biomassaverklaring geregeld in de [Regeling garanties van oorsprong voor duurzame elektriciteit](../../../../../../../ministeriele-regeling/regeling/garanties/van/oorsprong/voor/duurzame/elektriciteit/BWBR0016021/README.md). Voor WKK-installaties is dit formulier daarom niet van toepassing. De biomassaverklaring moet per productie-installatie ingevuld worden. De verklaring wordt gebruikt om te controleren of de gebruikte biomassastromen overeenkomen met de voorwaarden van de SDE. Waar u schrijfruimte tekort komt mag u een bijlage toevoegen.  
+In dit formulier verklaart de producent van hernieuwbaar warmte of hernieuwbaar gas afkomstig van biomassa dat uitsluitend biomassastromen zijn gebruikt die zijn toegestaan voor de categorie productie-installaties waarvoor SDE(+)-subsidie is ontvangen. Deze verplichting is omschreven in artikel 6, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie. Bij gecombineerde opwekking van hernieuwbare elektriciteit en hernieuwbare warmte (WKK) is de biomassaverklaring geregeld in de Regeling garanties van oorsprong voor duurzame elektriciteit. Voor WKK-installaties is dit formulier daarom niet van toepassing. De biomassaverklaring moet per productie-installatie ingevuld worden. De verklaring wordt gebruikt om te controleren of de gebruikte biomassastromen overeenkomen met de voorwaarden van de SDE. Waar u schrijfruimte tekort komt mag u een bijlage toevoegen.  
 
 | --- |
-|:---|
+|---|
 | Het formulier moet worden ingediend binnen vier maanden na afloop van het kalenderjaar waarover gerapporteerd wordt.  |
 
 ### 1  
@@ -498,7 +499,7 @@ In dit formulier verklaart de producent van hernieuwbaar warmte of hernieuwbaar 
 ####Gegevens aanvrager
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. Naam organisatie:  | --- |
 | b. Ondernemingsvorm <sup>1</sup>:  | --- |
 | c. Vertegenwoordigd door:  | (m/v)  |
@@ -518,7 +519,7 @@ In dit formulier verklaart de producent van hernieuwbaar warmte of hernieuwbaar 
 ####Gegevens contactpersoon (indien afwijkend van onder 1 ingevulde gegevens)
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. Naam organisatie:  | --- |
 | b. Naam contactpersoon:  | (m/v)  |
 | c. Functie:  | --- |
@@ -533,7 +534,7 @@ In dit formulier verklaart de producent van hernieuwbaar warmte of hernieuwbaar 
 ####Dossiergegevens
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. Kenmerk subsidietoezegging:  | --- |
 | b. EAN-code van het aansluitpunt: <sup>2</sup>  | □□□□□□□□□□□□□□□□□□  |
 | c. Kalenderjaar van de verklaring:  | 20□□  |
@@ -546,7 +547,7 @@ In dit formulier verklaart de producent van hernieuwbaar warmte of hernieuwbaar 
 Voor productie-installaties voor thermische conversie van onder andere vloeibare biomassa met een beschikking voor SDE-subsidie uit de SDE-ronde 2011 of later moet worden aangetoond dat de gebruikte vloeibare biomassa voldoet aan de duurzaamheidscriteria, als bedoeld in artikel 17, eerste lid, van richtlijn nr. 2009/28/EG van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (PbEU L 140) (richtlijn hernieuwbare energie). Deze verplichting geldt niet voor vergisters of productie-installaties voor louter vaste biomassa en niet voor productie-installaties met een SDE-beschikking van voor de SDE-ronde 2011.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | e. Heeft u een SDE-beschikking uit de SDE-ronde 2011 of later  | □ ja  |
 | voor thermische conversie van biomassa en heeft u vloeibare biomassastromen gebruikt?  | □ nee  |
 
@@ -556,11 +557,11 @@ Indien ‘nee’, ga door met onderdeel 4 van deze rapportage. Als u vraag 3e me
 
 ####Dossiergegevens
 
-![253219](http://wetten.overheid.nl/Illustration/253219)
+![]()
 Tabel 2: Gebruikte biomassagrondstoffen. Deze tabel moet voor alle typen productie-installaties worden in gevuld. 
 
 | Grondstof  | Code NTA 8003 (dec 2008)  | Hoeveelheid (ton)  | Opmerkingen  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | --- | --- | --- | --- |
 | --- | --- | --- | --- |
 | --- | --- | --- | --- |
@@ -574,7 +575,7 @@ Tabel 2: Gebruikte biomassagrondstoffen. Deze tabel moet voor alle typen product
 ### *Toelichting op de tabel* 
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Grondstof  | De biomassa inputstroom. Tabel 3 geeft een overzicht met mogelijke invulwaarden. Bij vergisters moeten de grondstoffen worden aangegeven, die zijn ingevoed in de vergister.  |
 | Code NTA 8003  | De classificatie van de gebruikte biomassa conform de NTA 8003 (december, 2008). Hierbij moet u in deze Nederlandse Technische Afspraak opzoeken welke classificatie voor de door U gebruikte biomassastroom van toepassing is.  |
 | Hoeveelheid  | Hier vult u de hoeveelheid tonnen biomassa in, die gedurende het rapportagejaar gebruikt is voor de productie van hernieuwbare elektriciteit of hernieuwbaar gas.  |
@@ -583,7 +584,7 @@ Tabel 2: Gebruikte biomassagrondstoffen. Deze tabel moet voor alle typen product
 Administratieve batches van grondstoffen (hoeveelheid product met identieke eigenschappen qua grondstof) mogen in één regel worden samengevoegd. Er mogen meerdere fysieke ladingen van dezelfde grondstof bij elkaar opgeteld worden. *Tabel 3. Grondstofsoorten en indeling in hoofd- of bijproduct, ten behoeve van de gegevens in tabel 2*.  
 
 | Grondstof  | NTA 8003  |
-|:---|:---|
+|---|---|
 | Pluimveemest, rundermest, varkensmest, overige mest  | 310, 320, 330, 301 of 309 of 340  |
 | Maïs  | 241  |
 | Tarwe  | 242  |
@@ -618,7 +619,7 @@ Administratieve batches van grondstoffen (hoeveelheid product met identieke eige
 Dit formulier moet worden ondertekend door de aanvrager. Indien dit formulier wordt ondertekend door *een ander* dan de aanvrager moet een machtiging van de aanvrager worden bijgevoegd. Aldus naar waarheid ingevuld,  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Naam ondertekenaar:  | O Dhr. O Mw.  |
 | Plaats:  | --- |
 | Datum:  | --- |
@@ -947,7 +948,7 @@ Dit formulier is bedoeld om een verzoek in te dienen tot vaststelling van de sub
 ####Gegevens aanvrager
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. Naam organisatie <sup>1</sup>:  | --- |
 | b. Ondernemingsvorm <sup>2</sup>:  | --- |
 | c. Vertegenwoordigd door:  | (m/v)  |
@@ -967,7 +968,7 @@ Dit formulier is bedoeld om een verzoek in te dienen tot vaststelling van de sub
 ####Gegevens contactpersoon (indien afwijkend van onder 1 ingevulde gegevens)
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. Naam organisatie:  | --- |
 | n. Naam contactpersoon:  | (m/v)  |
 | c. Functie:  | --- |
@@ -982,7 +983,7 @@ Dit formulier is bedoeld om een verzoek in te dienen tot vaststelling van de sub
 ####Dossiergegevens
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. Kenmerk subsidietoezegging:  | --- |
 | b. EAN-code van het aansluitpunt <sup>3</sup>:  | □□□□□□□□□□□□□□□□□□  |
 
@@ -993,7 +994,7 @@ Dit formulier is bedoeld om een verzoek in te dienen tot vaststelling van de sub
 ####Rekeninggegevens
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. Naam rekeninghouder:  | --- |
 | b. Postcode en plaats:  | --- |
 | c IBAN:  | *NL* □□ □□□□ □□□□□□□□□□  |
@@ -1008,7 +1009,7 @@ Dit formulier is bedoeld om een verzoek in te dienen tot vaststelling van de sub
 Zijn er ten opzichte van de bij Agentschap NL opgegeven gegevens wijzigingen opgetreden op de volgende punten?:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- |
 | Opgesteld vermogen van de installatie:  |
 | O nee  | O ja, namelijk:  |
@@ -1032,7 +1033,7 @@ Zijn er ten opzichte van de bij Agentschap NL opgegeven gegevens wijzigingen opg
 ####Algemene informatie
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Is voor de aanvrager surseance van betaling aangevraagd?  |
 | O nee  | O ja, namelijk op:  | ...-...-..... (dd-mm-jj)  |
 | --- | --- | --- |
@@ -1057,7 +1058,7 @@ Zijn er ten opzichte van de bij Agentschap NL opgegeven gegevens wijzigingen opg
 Zijn er nog andere gegevens, die voor de aanvraag om vaststelling van belang kunnen zijn?  
 
 | --- |
-|:---|
+|---|
 | O nee  |
 | O ja, namelijk:  |
 | --- |
@@ -1070,7 +1071,7 @@ Zijn er nog andere gegevens, die voor de aanvraag om vaststelling van belang kun
 Dit formulier moet worden ondertekend door de aanvrager. Indien dit formulier wordt ondertekend door *een ander* dan de aanvrager moet een machtiging van de aanvrager worden bijgevoegd. Aldus naar waarheid ingevuld,  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Naam ondertekenaar:  | O Dhr O Mw  |
 | Plaats:  | --- |
 | Datum:  | --- |
@@ -1187,7 +1188,7 @@ f. Dat u deze verklaring naar waarheid heeft ingevuld.
 ####Ondertekening
 
 | --- |
-|:---|
+|---|
 | Plaats:  |
 | Datum:  |
 | --- |

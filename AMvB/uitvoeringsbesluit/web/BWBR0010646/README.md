@@ -249,14 +249,16 @@ a. instelling: een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de
 
 b. uitkering: een werkloosheidsuitkering als bedoeld in de [Hoofdstukken I](../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) en [II van het Besluit Werkloosheid onderwijs- en onderzoekpersoneel](../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) of suppletie inzake arbeidsongeschiktheid als bedoeld in Hoofdstuk 3 van het [Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair en voortgezet onderwijs](../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md), voortvloeiend uit een dienstbetrekking aan een instelling;  
 
-c. overeenkomst educatie: een overeenkomst als bedoeld in [artikel 2.3.4, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
+c. overeenkomst educatie: een overeenkomst als bedoeld in [artikel 2.3.4, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+
+d. rijksbijdrage voortgezet algemeen volwassenenonderwijs: de rijksbijdrage, bedoeld in [artikel 2.2a.1 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
 
 ### Artikel  2.5.2  
 
 ####Toevoeging aan de rijksbijdrage
 
 1.  Het bevoegd gezag van een instelling heeft, naast de aanspraak op een aandeel van de rijksbijdrage voor de exploitatiekosten voor het beroepsonderwijs, bedoeld in artikel 2.2.2, eerste lid, in geval van een agrarisch opleidingscentrum vermeerderd met de rijksbijdrage zoals vastgesteld op grond van artikel 2.3.2, per kalenderjaar aanspraak op een vergoeding voor uitkeringen.   
-2.  De vergoeding, bedoeld in het eerste lid, is het bedrag berekend volgens de volgende formule: (PI + EduI) / (PL + EduL) x W In deze formule wordt verstaan onder: PI: de rijksbijdrage voor de exploitatiekosten, zoals omschreven in het eerste lid, van de desbetreffende instelling voor het kalenderjaar voorafgaande aan het desbetreffende kalenderjaar; EduI: de hoogte van het bedrag dat met de overeenkomst of overeenkomsten educatie van de desbetreffende instelling in het kalenderjaar voorafgaand aan het desbetreffende kalenderjaar is gemoeid, zoals blijkt uit de jaarrekening van de instelling; PL: de rijksbijdrage voor de exploitatiekosten, zoals omschreven in het eerste lid, van de instellingen voor het kalenderjaar voorafgaande aan het desbetreffende kalenderjaar; EduL: de hoogte van het bedrag dat met de overeenkomsten educatie van de instellingen in het kalenderjaar voorafgaand aan het desbetreffende kalenderjaar is gemoeid, zoals blijkt uit de jaarrekeningen van de instellingen; W: het totaal van de wachtgeldbudgetten voor de instellingen zoals opgenomen in de begrotingen van de uitgaven van het Ministerie van Onderwijs, Cultuur en Wetenschap en het Ministerie van Economische Zaken, Landbouw en Innovatie van het desbetreffende kalenderjaar.   
+2.  De vergoeding, bedoeld in het eerste lid, is het bedrag berekend volgens de volgende formule: (PI + EduI) / (PL + EduL) x W In deze formule wordt verstaan onder: PI: de rijksbijdrage voor de exploitatiekosten, zoals omschreven in het eerste lid, van de desbetreffende instelling voor het kalenderjaar voorafgaande aan het desbetreffende kalenderjaar; EduI: de hoogte van het bedrag dat blijkens de jaarrekening van de instelling is gemoeid met de overeenkomst of overeenkomsten uitkering educatie van de desbetreffende instelling in het kalenderjaar voorafgaand aan het desbetreffende kalenderjaar, indien van toepassing vermeerderd met de rijksbijdrage voortgezet algemeen volwassenenonderwijs van de instelling in eerstgenoemd kalenderjaar; PL: de rijksbijdrage voor de exploitatiekosten, zoals omschreven in het eerste lid, van de instellingen voor het kalenderjaar voorafgaande aan het desbetreffende kalenderjaar; EduL: de hoogte van het bedrag dat blijkens de jaarrekeningen van de instellingen is gemoeid met de overeenkomsten uitkering educatie van de instellingen in het kalenderjaar voorafgaand aan het desbetreffende kalenderjaar, indien van toepassing vermeerderd met de rijksbijdragen voortgezet algemeen volwassenenonderwijs van de instellingen in eerstgenoemd kalenderjaar; W: het totaal van de wachtgeldbudgetten voor de instellingen zoals opgenomen in de begrotingen van de uitgaven van het Ministerie van Onderwijs, Cultuur en Wetenschap en het Ministerie van Economische Zaken, Landbouw en Innovatie van het desbetreffende kalenderjaar.   
 3.  De uitkomst van de berekening, bedoeld in het tweede lid, wordt rekenkundig afgerond op twee decimalen.   
 4.  Onze Minister kan voorzover het betreft educatie, in afwachting van de indiening van de jaarrekeningen door de instellingen, een voorlopig bedrag toevoegen aan de rijksbijdrage.   
 
@@ -491,6 +493,8 @@ d. tellen deelnemers die zijn ingeschreven voor een opleidingsdomein als bedoeld
 
 ####Huisvesting
 
+Vervallen per 01-01-2013   
+
 ### Paragraaf  4  
 
 ####Exploitatiekosten en huisvestingskosten kenniscentrum op het gebied van landbouw, natuurlijke omgeving en voedsel
@@ -506,9 +510,13 @@ d. tellen deelnemers die zijn ingeschreven voor een opleidingsdomein als bedoeld
 
 ####Vermindering rijksbijdrage in verband met kosten van werkloosheidsuitkeringen en suppleties inzake arbeidsongeschiktheid
 
+Vervallen per 01-01-2006   
+
 ### Hoofdstuk  4A  
 
 ####Subsidie Kwaliteitscentrum examinering beroepsopleidingen
+
+Vervallen per 01-08-2011   
 
 ### Hoofdstuk  4B  
 
@@ -766,6 +774,8 @@ Voor de toepassing van artikel 4b.2.3, eerste lid, in het studiejaar 2007–2008
 
 ####Educatie
 
+Vervallen per 01-01-2009   
+
 ### Paragraaf  3  
 
 ####Kenniscentra beroepsonderwijs bedrijfsleven
@@ -797,6 +807,8 @@ d. 2016 80% onderscheidenlijk 20%.
 ### Paragraaf  4  
 
 ####Gebruik persoonsgebonden nummers
+
+Vervallen per 28-04-2010   
 
 ### Hoofdstuk  7  
 
