@@ -5,7 +5,7 @@
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, dr. F. van der Ploeg;  
 Handelende in overeenstemming met het gevoelen van de ministerraad;
 
-Gelet op [artikel 15, derde lid, van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md),
+Gelet op artikel 15, derde lid, van de Archiefwet 1995,
 Besluit:    
 
 ### Artikel  1  
@@ -16,15 +16,22 @@ a. de minister: de minister van Onderwijs, Cultuur en Wetenschap;
 
 b. het ministerie: het ministerie van Onderwijs, Cultuur en Wetenschap;  
 
-c. de commissie: de commissie, bedoeld in artikel 2 van dit besluit.    
+c. de commissie: de commissie, bedoeld in artikel 2 van dit besluit;  
+
+d. NK-collectie: collectie van gerecupereerde cultuurgoederen die zich thans in het bezit van de Staat der Nederlanden bevinden en die bij de Rijksdienst voor het Cultureel Erfgoed zijn geregistreerd in de NK-inventarisrubriek.    
 
 ### Artikel  2  
 
-1.  Er is een commissie die tot taak heeft de minister op diens verzoek te adviseren over de te nemen beslissingen op verzoeken om teruggave van cultuurgoederen waarover de oorspronkelijke eigenaar door omstandigheden die direct verband hielden met het naziregime onvrijwillig het bezit heeft verloren en die zich thans in bezit van de Staat der Nederlanden bevinden.   
+1.  Er is een commissie die tot taak heeft de minister op diens verzoek te adviseren over de te nemen beslissingen op verzoeken om teruggave van cultuurgoederen waarover de oorspronkelijke eigenaar door omstandigheden die direct verband hielden met het naziregime onvrijwillig het bezit heeft verloren en die: 
+
+a. onderdeel zijn van de NK-collectie; of  
+
+b. tot het overig bezit van de Staat der Nederlanden behoren.     
 2.  De commissie heeft voorts tot taak op verzoek van de minister advies uit te brengen over geschillen over teruggave van cultuurgoederen tussen de oorspronkelijke eigenaar die door omstandigheden die direct verband hielden met het nazi-regime onvrijwillig het bezit verloor of diens erfgenamen en de huidige bezitter niet zijnde de Staat der Nederlanden.   
 3.  De minister dient een verzoek om advies als bedoeld in het tweede lid uitsluitend in bij de commissie, indien de oorspronkelijke eigenaar of diens erfgenamen en de huidige bezitter gezamenlijk de minister daarom gevraagd hebben.   
-4.  De commissie verricht de adviestaak, bedoeld in het eerste lid, met inachtneming van het rijksbeleid ter zake.   
-5.  De commissie verricht de adviestaak, bedoeld in het tweede lid, naar maatstaven van redelijkheid en billijkheid.   
+4.  De commissie adviseert over verzoeken als bedoeld in het eerste lid, onder a, ingediend bij de minister voor 30 juni 2015, met inachtneming van het rijksbeleid ter zake. Verzoeken als bedoeld in het eerste lid, onder a ingediend op of na 30 juni 2015, behandelt de commissie overeenkomstig het vijfde lid.   
+5.  De commissie adviseert over verzoeken als bedoeld in het eerste lid, onder b, en het tweede lid naar maatstaven van redelijkheid en billijkheid.   
+6.  Bij haar adviestaak, bedoeld in het eerste lid, kent de commissie groot gewicht toe aan de omstandigheden van de verwerving door de bezitter en de mogelijkheid van kennis van de verdachte herkomst ten tijde van de verwerving van het betrokken cultuurgoed.   
 
 ### Artikel  3  
 
@@ -52,7 +59,7 @@ c. de commissie: de commissie, bedoeld in artikel 2 van dit besluit.
 2.  Ter uitvoering van haar taak kan de commissie zich voorts rechtstreeks wenden tot derden voor het verkrijgen van inlichtingen en hen zo nodig ter vergadering uitnodigen om hun mening te vernemen.   
 3.  De minister draagt er zorg voor dat de commissie over alle stukken die zij in verband met de uitoefening van haar taak nodig heeft en die zich op het ministerie bevinden, tijdig en volledig kan beschikken.   
 4.  Iedere ambtenaar van het ministerie geeft aan een oproep of een verzoek van de commissie gehoor.   
-5.  De beperkingen die zijn gesteld aan de openbaarheid van archiefbescheiden, bedoeld in [artikel 1, onderdeel c, onder 1 en 2 van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), die de commissie ter uitvoering van haar taak nodig heeft en die bewaard worden in een rijksarchiefbewaarplaats, blijven voor de commissie buiten toepassing.   
+5.  De beperkingen die zijn gesteld aan de openbaarheid van archiefbescheiden, bedoeld in artikel 1, onderdeel c, onder 1 en 2 van de Archiefwet 1995, die de commissie ter uitvoering van haar taak nodig heeft en die bewaard worden in een rijksarchiefbewaarplaats, blijven voor de commissie buiten toepassing.   
 
 ### Artikel  7  
 
