@@ -3,7 +3,7 @@
 ##Besluit van de Minister van Infrastructuur en Milieu van 13 december 2011, nr. IENM/IVW-2011/14993, houdende de instelling van de Inspectie Leefomgeving en Transport (Instellingsbesluit Inspectie Leefomgeving en Transport)
 
 De minister van Infrastructuur en Milieu,  
-Gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](../../../../../../../KB/coördinatiebesluit/organisatie/en/bedrijfsvoering/rijksdienst/2011/BWBR0029514/README.md);
+Gelet op artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011;
 Besluit:    
 
 ### Artikel  1  
@@ -15,7 +15,7 @@ Besluit:
 
 ### Artikel  2  
 
-1.  De Inspectie Leefomgeving en Transport bewaakt en stimuleert de naleving van wet- en regelgeving voor een veilige en duurzame leefomgeving en transport. Daarmee is de Inspectie Leefomgeving en Transport en haar onderdelen, voor zover het betreft het werkterrein van het Ministerie van Infrastructuur en Milieu en voor zover dit niet bij of krachtens de wet aan anderen is opgedragen of gemandateerd, belast met de volgende taken en alle daarmee samenhangende activiteiten: 
+1.  De Inspectie Leefomgeving en Transport bewaakt en stimuleert de naleving van wet- en regelgeving voor een veilige en duurzame leefomgeving en transport. Daarmee is de Inspectie Leefomgeving en Transport en haar onderdelen, voor zover het betreft het werkterrein van het Ministerie van Infrastructuur en Milieu, belast met de volgende taken en alle daarmee samenhangende activiteiten: 
 
 a. handhaving van wet- en regelgeving;  
 
@@ -47,9 +47,9 @@ De Inspectie Leefomgeving en Transport stelt jaarlijks een meerjarenplan en een 
 
 De volgende besluiten worden ingetrokken: 
 
-a. het [Instellingsbesluit Inspectie Verkeer en Waterstaat](../../../../../../../ministeriele-regeling/instellingsbesluit/inspectie/verkeer/en/waterstaat/BWBR0012546/README.md);  
+a. het Instellingsbesluit Inspectie Verkeer en Waterstaat;  
 
-b. de [Regeling Inspectie Verkeer en Waterstaat 2002](../../../../../../../ministeriele-regeling/regeling/inspectie/verkeer/en/waterstaat/2002/BWBR0013627/README.md).    
+b. de Regeling Inspectie Verkeer en Waterstaat 2002.    
 
 ### Artikel  6  
 

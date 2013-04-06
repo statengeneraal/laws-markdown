@@ -3,12 +3,12 @@
 ##Regeling van de staatssecretaris van Volksgezondheid, Welzijn en Sport van 16 februari 2009, nr. CZ-TSZ-2912089, houdende houdende regels ten aanzien van preïmplantatie genetische diagnostiek (PGD) (Regeling preïmplantatie genetische diagnostiek)
 
 De staatssecretaris van Volksgezondheid, Welzijn en Sport,  
-Gelet op de [artikelen 5](../../../../../../wet/wet/op/bijzondere/medische/verrichtingen/BWBR0008974/README.md) en [6, tweede lid, van de Wet op bijzondere medische verrichtingen](../../../../../../wet/wet/op/bijzondere/medische/verrichtingen/BWBR0008974/README.md);
+Gelet op de artikelen 5 en 6, tweede lid, van de Wet op bijzondere medische verrichtingen;
 Besluit:    
 
 ### Artikel  1  
 
-1.  Er is voor het uitvoeren van preïmplantatie genetische diagnostiek als bedoeld in [artikel 1, onder h, vijfde streepje, van het Besluit aanwijzing bijzondere medische verrichtingen](../../../../../../AMvB/besluit/aanwijzing/bijzondere/medische/verrichtingen/2007/BWBR0022191/README.md) behoefte aan één centrum.   
+1.  Er is voor het uitvoeren van preïmplantatie genetische diagnostiek als bedoeld in artikel 1, onder h, vijfde streepje, van het Besluit aanwijzing bijzondere medische verrichtingen behoefte aan één centrum.   
 2.  In bijlage 1 is neergelegd hoe in de behoefte kan worden voorzien.   
 
 ### Artikel  2  
@@ -42,7 +42,7 @@ In deze bijlage is aangegeven waar preïmplantatie genetische diagnostiek (PGD) 
 
 ####Aangewezen PGD-kliniek
 
-Preïmplantatie genetische diagnostiek vindt plaats in een klinisch-genetisch centrum. In [punt 2.3 van de bijlage bij artikel 3 van het Planningsbesluit klinisch genetisch onderzoek en erfelijkheidsadvisering](../../../../../../ministeriele-regeling/planningsbesluit/klinisch/genetisch/onderzoek/en/erfelijkheidsadvisering/BWBR0014594/README.md) uit 2003 was PGD voorbehouden aan het Academisch Ziekenhuis Maastricht. Volgens een advies van de Gezondheidsraad uit 2006 en volgens een peiling door het Ministerie van VWS bij de beroepsgroepen (NVOG en VKGN) in 2008, is één centrum voorlopig voldoende om aan de vraag te voldoen (op dit moment circa 150 paren per jaar). Het Academisch Ziekenhuis Maastricht, dat de afgelopen vijftien jaar een grote expertise heeft opgebouwd op dit gebied, mede dankzij een ruime internationale samenwerking, heeft, wat betreft het laboratorium dat de genetische testen uitvoert, en door de hieronder te bespreken ontwikkeling van transport-PGD, de mogelijkheid de capaciteit uit te bouwen tot ca. 300 paren.  
+Preïmplantatie genetische diagnostiek vindt plaats in een klinisch-genetisch centrum. In punt 2.3 van de bijlage bij artikel 3 van het Planningsbesluit klinisch genetisch onderzoek en erfelijkheidsadvisering uit 2003 was PGD voorbehouden aan het Academisch Ziekenhuis Maastricht. Volgens een advies van de Gezondheidsraad uit 2006 en volgens een peiling door het Ministerie van VWS bij de beroepsgroepen (NVOG en VKGN) in 2008, is één centrum voorlopig voldoende om aan de vraag te voldoen (op dit moment circa 150 paren per jaar). Het Academisch Ziekenhuis Maastricht, dat de afgelopen vijftien jaar een grote expertise heeft opgebouwd op dit gebied, mede dankzij een ruime internationale samenwerking, heeft, wat betreft het laboratorium dat de genetische testen uitvoert, en door de hieronder te bespreken ontwikkeling van transport-PGD, de mogelijkheid de capaciteit uit te bouwen tot ca. 300 paren.  
 
 ####Transport-PGD
 
@@ -108,7 +108,7 @@ De criteria onder 1. selecteren op de aard en ernst van de ziekte. Daarmee wordt
 
 ####Aanvullende medische criteria
 
-* er vindt onderzoek plaats naar methoden om de expressie van genetische ziekten en aandoeningen te voorkomen zonder tot embryoselectie over te gaan. Op dit moment is er nog geen sprake van reële, embryobesparende alternatieven voor PGD, maar er vindt wel onderzoek naar plaats. Zodra deze daadwerkelijk beschikbaar en betrouwbaar zijn, moeten deze onderdeel worden van het afwegingskader voor PGD. Dit ligt in het verlengde van het uitgangspunt in de [Embryowet](../../../../../../wet/embryowet/BWBR0013797/README.md) dat onderzoek met IVF-embryo’s weliswaar is toegestaan, maar alleen indien redelijkerwijs aannemelijk is dat het onderzoek niet door andere vormen of methoden van wetenschappelijk onderzoek kan plaatsvinden dan door onderzoek met embryo’s;  
+* er vindt onderzoek plaats naar methoden om de expressie van genetische ziekten en aandoeningen te voorkomen zonder tot embryoselectie over te gaan. Op dit moment is er nog geen sprake van reële, embryobesparende alternatieven voor PGD, maar er vindt wel onderzoek naar plaats. Zodra deze daadwerkelijk beschikbaar en betrouwbaar zijn, moeten deze onderdeel worden van het afwegingskader voor PGD. Dit ligt in het verlengde van het uitgangspunt in de Embryowet dat onderzoek met IVF-embryo’s weliswaar is toegestaan, maar alleen indien redelijkerwijs aannemelijk is dat het onderzoek niet door andere vormen of methoden van wetenschappelijk onderzoek kan plaatsvinden dan door onderzoek met embryo’s;  
 
 * bij het beoordelen of een aanvraag voor PGD door wensouders inderdaad in aanmerking komt, wordt tevens gekeken naar de aanvullende medische criteria. Zo kan bijvoorbeeld juist de genetische aandoening waarnaar gezocht wordt, maar ook de leeftijd van de vrouw, het tekortschieten van de ovariële reserve (waardoor te weinig eicellen beschikbaar komen) of ernstig overgewicht een contra-indicatie voor IVF, en dus ook voor PGD zijn.    
 
@@ -140,13 +140,13 @@ Toepassing van bovenstaande criteria moet er toe leiden dat alleen voor PGD in a
 
 PGD voor dragerschap is alleen toelaatbaar als er geen aanvullende handelingen nodig zijn. Dragerschap als diagnostisch criterium is alleen aan de orde als PGD uitgevoerd wordt met als doel een ernstige genetische aandoening zoals hierboven geschetst bij het kind te voorkomen.  
 
-####Exclusie test en non disclosure test bij ziekte van Huntington
+####Non-disclosuretest bij ziekte van Huntington
 
 In bovengenoemde gevallen dienen ouders bereid te zijn over hun eigen situatie geïnformeerd te worden.  
 
 ####Additionele selectie op geslacht
 
-Additionele selectie op geslacht is niet toelaatbaar. Hiervoor geldt overigens de verbodsbepaling uit de [Embryowet](../../../../../../wet/embryowet/BWBR0013797/README.md).  
+Additionele selectie op geslacht is niet toelaatbaar. Hiervoor geldt overigens de verbodsbepaling uit de Embryowet.  
 
 ####Hla-typering ten behoeve van donorschap voor een broer of zus
 
@@ -160,7 +160,7 @@ De beoordeling of PGD, indien toegestaan, de aangewezen behandeling is in een co
 
 ####Opstellen richtlijn PGD
 
-De richtlijn PGD, die thans door de beroepsgroepen wordt voorbereid, heeft als kader het hierboven beschreven beslissingskader. Zodra nieuwe inzichten over aard, ernst en behandelmogelijkheden van ziekten daartoe aanleiding geven kan deze richtlijn door de richtlijnencommissie worden bijgesteld, zie ook hieronder, ‘Toetsing door richtlijncommissie’. De instelling die PGD uitvoert dient zijn protocollen in lijn te brengen met deze richtlijn. Conform de [Embryowet artikel 2 lid 1](../../../../../../wet/embryowet/BWBR0013797/README.md) dienen deze klinische en algemene protocollen van advies te worden voorzien door de medische ethische toetsingscommissie (METC) van de instelling in kwestie (in casu het Academisch Ziekenhuis Maastricht). Daarna moeten de protocollen door het bestuur van de instelling worden vastgesteld en worden voorgelegd aan de CCMO (Centrale Commissie Mensgebonden Onderzoek).  
+De richtlijn PGD, die thans door de beroepsgroepen wordt voorbereid, heeft als kader het hierboven beschreven beslissingskader. Zodra nieuwe inzichten over aard, ernst en behandelmogelijkheden van ziekten daartoe aanleiding geven kan deze richtlijn door de richtlijnencommissie worden bijgesteld, zie ook hieronder, ‘Toetsing door richtlijncommissie’. De instelling die PGD uitvoert dient zijn protocollen in lijn te brengen met deze richtlijn. Conform de Embryowet artikel 2 lid 1 dienen deze klinische en algemene protocollen van advies te worden voorzien door de medische ethische toetsingscommissie (METC) van de instelling in kwestie (in casu het Academisch Ziekenhuis Maastricht). Daarna moeten de protocollen door het bestuur van de instelling worden vastgesteld en worden voorgelegd aan de CCMO (Centrale Commissie Mensgebonden Onderzoek).  
 
 ####Toetsing door richtlijncommissie
 
