@@ -3,7 +3,7 @@
 ##Besluit van de Minister van Infrastructuur en Milieu van 13 december 2011, nr. IENM/IVW-2011/14993, houdende de instelling van de Inspectie Leefomgeving en Transport (Instellingsbesluit Inspectie Leefomgeving en Transport)
 
 De minister van Infrastructuur en Milieu,  
-Gelet op artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011;
+Gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](../../../../../../../KB/coördinatiebesluit/organisatie/en/bedrijfsvoering/rijksdienst/2011/BWBR0029514/README.md);
 Besluit:    
 
 ### Artikel  1  
@@ -11,7 +11,7 @@ Besluit:
 1.  Er is een Inspectie Leefomgeving en Transport.   
 2.  De Inspectie Leefomgeving en Transport staat onder leiding van de inspecteur-generaal Leefomgeving en Transport.   
 3.  De Inspectie Leefomgeving en Transport ressorteert rechtstreeks onder de secretaris-generaal van het Ministerie van Infrastructuur en Milieu.   
-4.  De organisatie van de Inspectie Leefomgeving en Transport wordt nader vastgesteld door de inspecteur-generaal.   
+4.  De organisatie van de Inspectie Leefomgeving en Transport wordt nader vastgesteld door de inspecteur-generaal.  
 
 ### Artikel  2  
 
@@ -32,38 +32,38 @@ b. het geven van signalen over de naleving van wet- en regelgeving die betrekkin
 a. de taken van de veiligheidsinstantie, bedoeld in artikel 3, onderdeel g, van richtlijn nr. 2004/49/EG, van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake veiligheid op de communautaire spoorwegen en tot wijziging van richtlijn 95/18/EG van de Raad betreffende de verlening van vergunningen aan spoorwegondernemingen, en van richtlijn 2001/14/EG van de Raad inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur alsmede inzake veiligheidscertificering (Spoorwegveiligheidsrichtlijn) (PbEG L 164);  
 
 b. de taken van de nationale toezichthoudende instantie, bedoeld in artikel 4, eerste lid, van verordening (EG) nr. 549/2004 van het Europees Parlement en de Raad van 10 maart 2004 tot vaststelling van het kader voor de totstandbrenging van het gemeenschappelijke Europese luchtruim (de kaderverordening) (PbEG L 96/1).     
-4.  De Inspectie Leefomgeving en Transport kan handhavende taken verrichten op het werkterrein van andere ministeries.   
+4.  De Inspectie Leefomgeving en Transport kan handhavende taken verrichten op het werkterrein van andere ministeries.  
 
 ### Artikel  3  
 
 1.  Indien de minister de inspecteur-generaal Leefomgeving en Transport een aanwijzing van algemene of bijzondere aard geeft ten aanzien van de uitoefening van een bevoegdheid die bij of krachtens wettelijke regeling of verdrag of besluit van een volkenrechtelijke organisatie of instelling aan de inspecteur-generaal of aan de ambtenaren van de inspectie is toegekend, doet hij daarvan onverwijld mededeling aan de beide kamers der Staten-Generaal.   
-2.  Het eerste lid is niet van toepassing op aanwijzingen die betrekking hebben op beheersmatige aspecten van de inspectie.   
+2.  Het eerste lid is niet van toepassing op aanwijzingen die betrekking hebben op beheersmatige aspecten van de inspectie.  
 
 ### Artikel  4  
 
-De Inspectie Leefomgeving en Transport stelt jaarlijks een meerjarenplan en een jaarverslag op.  
+De Inspectie Leefomgeving en Transport stelt jaarlijks een meerjarenplan en een jaarverslag op. 
 
 ### Artikel  5  
 
 De volgende besluiten worden ingetrokken: 
 
-a. het Instellingsbesluit Inspectie Verkeer en Waterstaat;  
+a. het [Instellingsbesluit Inspectie Verkeer en Waterstaat](../../../../../../../ministeriele-regeling/instellingsbesluit/inspectie/verkeer/en/waterstaat/BWBR0012546/README.md);  
 
-b. de Regeling Inspectie Verkeer en Waterstaat 2002.    
+b. de [Regeling Inspectie Verkeer en Waterstaat 2002](../../../../../../../ministeriele-regeling/regeling/inspectie/verkeer/en/waterstaat/2002/BWBR0013627/README.md).   
 
 ### Artikel  6  
 
-Rechten en verplichtingen van zijn rechtsvoorgangers gelden als rechten en verplichtingen van de inspecteur-generaal Leefomgeving en Transport.  
+Rechten en verplichtingen van zijn rechtsvoorgangers gelden als rechten en verplichtingen van de inspecteur-generaal Leefomgeving en Transport. 
 
 ### Artikel  7  
 
-Dit besluit treedt in werking met ingang van 1 januari 2012.  
+Dit besluit treedt in werking met ingang van 1 januari 2012. 
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Inspectie Leefomgeving en Transport.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Inspectie Leefomgeving en Transport. 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Infrastructuur en Milieu,
-M.H.Schultz van Haegen-Maas Geesteranus   
+MinistervanInfrastructuur en Milieu, 
+M.H. Schultz van Haegen-Maas Geesteranus     

@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van de Minister van Justitie van 4 juni 2008, nr. 550871/Justis/07, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de afdeling Reiniging, Sector Openbare Werken van het Stadsdeel Centrum van de gemeente Amsterdam
+##Besluit van de Minister van Justitie d.d. 4 juni 2008, nr. 550871/Justis/07, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Directie Toezicht & Handhaving van het Stadsdeel Centrum van de gemeente Amsterdam
 
 De Minister van Justitie,  
 Handelende in overeenstemming met de betrokken Ministers;
@@ -23,7 +23,7 @@ In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de buiteng
 
 ### Artikel  2  
 
-Maximaal 30 personen werkzaam bij de Reinigingspolitie van de afdeling Reiniging van het stadsdeel Amsterdam-Centrum van de gemeente Amsterdam, die de functie vervullen van handhaver, zijn aangewezen als buitengewoon opsporingsambtenaar.  
+Maximaal 40 personen, werkzaam in de functie van handhaver bij de Directie Toezicht en Handhaving van het Stadsdeel Centrum van de gemeente Amsterdam zijn aangewezen als buitengewoon opsporingsambtenaar.  
 
 ### Artikel  3  
 
@@ -37,17 +37,16 @@ De buitengewoon opsporingsambtenaar is bevoegd bij de opsporing van de in artike
 
 a. [artikel 55b van het Wetboek van Strafvordering](../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
 
-b. [artikel 8, eerste en derde lid, van de Politiewet 1993](../../../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), vooralsnog voor een periode van twee jaar, hij gedraagt zich daarbij overeenkomstig het bepaalde in [hoofdstuk 7 van de Ambtsinstructie voor de politie, de Koninklijke Marechaussee en de buitengewoon opsporingsambtenaar](../../../../../../../../../../../AMvB/ambtsinstructie/voor/de/politie/de/koninklijke/marechaussee/en/andere/etc/BWBR0006589/README.md).    
+b. [artikel 7, eerste en derde lid, van de Politiewet 2012](../../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), vooralsnog voor een periode van twee jaar, hij gedraagt zich daarbij overeenkomstig het bepaalde in [hoofdstuk 7 van de Ambtsinstructie voor de politie, de Koninklijke Marechaussee en de buitengewoon opsporingsambtenaar](../../../../../../../../../../../AMvB/ambtsinstructie/voor/de/politie/de/koninklijke/marechaussee/en/andere/etc/BWBR0006589/README.md).    
 
 ### Artikel  5  
 
-1.  De buitengewoon opsporingsambtenaar kan gedurende de uitoefening van zijn dienst als buitengewoon opsporingsambtenaar gebruik maken van handboeien van een door de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Justitie goedgekeurd merk en type. Vooralsnog voor een periode van twee jaar.   
-2.  De buitengewoon opsporingsambtenaar wordt daadwerkelijk uitgerust met handboeien nadat de direct toezichthouder heeft vastgesteld dat betrokkene beschikt over de vereiste bekwaamheid ten aanzien van het gebruik van het omgaan met handboeien.   
+De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, van de Politiewet 2012](../../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) omschreven bevoegdheden uitoefenen en daarbij gebruikmaken van handboeien.  
 
 ### Artikel  6  
 
 1.  Als toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de hoofdofficier van justitie bij het arrondissementsparket te Amsterdam.   
-2.  Als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de korpschef van het regionaal politiekorps Amsterdam-Amstelland.   
+2.  Als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).   
 
 ### Artikel  7  
 
@@ -74,7 +73,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 
 ### Artikel  11  
 
-Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar bij de afdeling Reiniging, Sector Openbare Werken van het Stadsdeel Centrum van de gemeente Amsterdam 2008.  
+Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar bij de Directie Toezicht & Handhaving van het Stadsdeel Centrum van de gemeente Amsterdam 2008.  
 Dit besluit wordt met toelichting in de Staatscourant geplaatst.   
 
 Den Haag 
