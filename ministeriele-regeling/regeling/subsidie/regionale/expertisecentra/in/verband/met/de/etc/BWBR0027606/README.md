@@ -12,51 +12,51 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *minister:* Minister van Onderwijs, Cultuur en Wetenschap;  
+a.  *minister:* Minister van Onderwijs, Cultuur en Wetenschap;  
 
-b. *rec:* Regionaal expertisecentrum als bedoeld in [artikel 28b, van de Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md);  
+b.  *rec:* Regionaal expertisecentrum als bedoeld in [artikel 28b, van de Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md);  
 
-c. *rec-regio:* het gebied waarin het rec werkzaam is overeenkomstig [artikel 28b, eerste en tweede lid van de Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en opgenomen in [bijlage A van het Besluit Leerlinggebonden financiering](../../../../../../../../../../../AMvB/besluit/leerlinggebonden/financiering/BWBR0014753/README.md);  
+c.  *rec-regio:* het gebied waarin het rec werkzaam is overeenkomstig [artikel 28b, eerste en tweede lid van de Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en opgenomen in [bijlage A van het Besluit Leerlinggebonden financiering](../../../../../../../../../../../AMvB/besluit/leerlinggebonden/financiering/BWBR0014753/README.md);  
 
-d. *clusters 3 en 4:* clusters als bedoeld in [artikel 2, vierde lid, onder c en d, van de Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md);  
+d.  *clusters 3 en 4:* clusters als bedoeld in [artikel 2, vierde lid, onder c en d, van de Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md);  
 
-e. *school:* school voor basisonderwijs, speciale school voor basisonderwijs, school voor voortgezet onderwijs, school voor speciaal onderwijs, school voor voortgezet speciaal onderwijs en school of instelling voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 1 van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 1 van de WVO](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+e.  *school:* school voor basisonderwijs, speciale school voor basisonderwijs, school voor voortgezet onderwijs, school voor speciaal onderwijs, school voor voortgezet speciaal onderwijs en school of instelling voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 1 van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 1 van de WVO](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-f. *ambulant begeleider:* persoon die ondersteuning biedt conform [artikel 8a van de Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md);  
+f.  *ambulant begeleider:* persoon die ondersteuning biedt conform [artikel 8a van de Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md);  
 
-g. *commissie voor begeleiding:* commissie als bedoeld in [artikel 40b van de Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md);  
+g.  *commissie voor begeleiding:* commissie als bedoeld in [artikel 40b van de Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md);  
 
-h. *zorgleerling:* leerling die extra onderwijszorg en ondersteuning nodig heeft en een indicatie heeft van de Commissie voor de Indicatiestelling voor het speciaal of voortgezet speciaal onderwijs of geplaatst is op een school voor speciaal of voortgezet speciaal onderwijs;  
+h.  *zorgleerling:* leerling die extra onderwijszorg en ondersteuning nodig heeft en een indicatie heeft van de Commissie voor de Indicatiestelling voor het speciaal of voortgezet speciaal onderwijs of geplaatst is op een school voor speciaal of voortgezet speciaal onderwijs;  
 
-i. *ouders:* ouders, voogden of verzorgers;  
+i.  *ouders:* ouders, voogden of verzorgers;  
 
-j. *rec regio:* de wettelijk aaneengesloten gebieden van een rec, als genoemd in [bijlage A van het Besluit leerlinggebonden financiering](../../../../../../../../../../../AMvB/besluit/leerlinggebonden/financiering/BWBR0014753/README.md);  
+j.  *rec regio:* de wettelijk aaneengesloten gebieden van een rec, als genoemd in [bijlage A van het Besluit leerlinggebonden financiering](../../../../../../../../../../../AMvB/besluit/leerlinggebonden/financiering/BWBR0014753/README.md);  
 
-k. *Handelingsplan:* handelingsplan als bedoeld in [artikel 41a van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 40a van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) en [artikel 26 van de WVO](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+k.  *Handelingsplan:* handelingsplan als bedoeld in [artikel 41a van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 40a van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) en [artikel 26 van de WVO](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-l. *pgb:* persoonsgebonden budget een subsidie waarmee een AWBZ-verzekerde aan hem te verlenen zorg kan inkopen als bedoeld in [artikel 2.6.1, onder f, van de Regeling subsidies AWBZ](../../../../../../../../../../../ministeriele-regeling/regeling/subsidies/awbz/BWBR0019161/README.md).    
+l.  *pgb:* persoonsgebonden budget een subsidie waarmee een AWBZ-verzekerde aan hem te verlenen zorg kan inkopen als bedoeld in [artikel 2.6.1, onder f, van de Regeling subsidies AWBZ](../../../../../../../../../../../ministeriele-regeling/regeling/subsidies/awbz/BWBR0019161/README.md).   
 
 ### Artikel  2  
 
 ####Activiteit waarvoor aanvullende middelen worden verstrekt
 
-De minister kent op grond van deze regeling aanvullende middelen toe aan rec’s cluster 3 en 4 tot een totaal subsidiebedrag van €10 miljoen per schooljaar voor het financieel ondersteunen van scholen in verband met het bieden van extra ondersteuning aan zorgleerlingen die als gevolg van de pakketmaatregel AWBZ 2009 van school verwijderd dreigen te worden, omdat hun ondersteuningsvraag de mogelijkheden van de school te boven gaat en zij zij zonder extra ondersteuning niet van het onderwijs kunnen profiteren of het onderwijsproces voor de medeleerlingen te veel verstoren.  
+De minister kent op grond van deze regeling aanvullende middelen toe aan rec’s cluster 3 en 4 tot een totaal subsidiebedrag van €10 miljoen per schooljaar voor het financieel ondersteunen van scholen in verband met het bieden van extra ondersteuning aan zorgleerlingen die als gevolg van de pakketmaatregel AWBZ 2009 van school verwijderd dreigen te worden, omdat hun ondersteuningsvraag de mogelijkheden van de school te boven gaat en zij zij zonder extra ondersteuning niet van het onderwijs kunnen profiteren of het onderwijsproces voor de medeleerlingen te veel verstoren. 
 
 ### Artikel  3  
 
 ####Duur van de verstrekking van de aanvullende middelen
 
-Aanvullende middelen worden verstrekt voor de periode 1 januari 2010 tot 1 augustus 2012.  
+Aanvullende middelen worden verstrekt voor de periode 1 januari 2010 tot 1 augustus 2014. 
 
 ### Artikel  4  
 
 ####Toekenning
 
-1.  De toekenningen worden per schooljaar in twee termijnen in de maanden september en januari betaald. De toekenning voor de periode januari tot augustus 2010, zijnde 7/12 <sup>e</sup> van een schooljaar, wordt betaald in mei 2010.   
+1.  De toekenningen worden per schooljaar in twee termijnen in de maanden september en januari betaald. De toekenning voor de periode januari tot augustus 2010, zijnde 7/12<sup>e</sup> van een schooljaar, wordt betaald in mei 2010.   
 2.  De toekenningen vinden plaats op basis van het aantal leerlingen dat stond ingeschreven op de basisscholen, de scholen voor voortgezet onderwijs, speciaal onderwijs, voortgezet speciaal onderwijs en speciaal en voortgezet speciaal onderwijs in de regio van het betreffende rec exclusief de leerlingen van de speciale school voor basisonderwijs, op de teldatum 1 oktober 2008.   
 3.  De jaarlijkse toekenning per rec cluster 3 en 4 is gelijk aan de som van € 1,94 vermenigvuldigd met het op teldatum 1 oktober 2008 aantal ingeschreven leerlingen op de scholen voor voortgezet onderwijs en de scholen of instellingen voor speciaal onderwijs, voor voortgezet speciaal onderwijs en voor speciaal en voortgezet speciaal onderwijs van alle clusters in de regio van het betreffende rec, en € 1,98 vermenigvuldigd met het aantal ingeschreven leerlingen op teldatum 1 oktober 2008 op de basisscholen in de regio van het betreffende rec.   
-4.  Het kasplafond voor het totale subsidiebedrag aan de gezamenlijke rec’s cluster 3 en 4 samen is € 10 miljoen per schooljaar voor de schooljaren 2010/’11 en 2011/’12, voor het schooljaar 2009/’10 is het kasplafond 7/12 maal € 10 miljoen.   
-5.  De rec’s zijn vrij om samen te werken en de middelen samen te voegen en gezamenlijk in te zetten ten behoeve van de leerlingen als genoemd in artikel 2.   
+4.  Het kasplafond voor het totale subsidiebedrag aan de gezamenlijke rec’s cluster 3 en 4 samen is € 10 miljoen per schooljaar voor de schooljaren 2010/2011, 2011/2012, 2012/2013 en 2013/2014, voor het schooljaar 2009/2010 is het kasplafond 7/12 maal € 10 miljoen.   
+5.  De rec’s zijn vrij om samen te werken en de middelen samen te voegen en gezamenlijk in te zetten ten behoeve van de leerlingen als genoemd in artikel 2.  
 
 ### Artikel  5  
 
@@ -95,13 +95,13 @@ d. de gemiddelde kosten van een uur begeleiding,   welke verzoeken het meest urg
 11.  Uitgegaan wordt van een gemiddeld bedrag per uur begeleiding van € 37,50.   
 12.  De inzet van de extra ondersteuningsmiddelen die een school door middel van deze regeling ontvangt voor een zorgleerling, wordt opgenomen in het handelingsplan van de leerling.   
 13.  De uitvoering van het bepaalde in dit artikel geschiedt op basis van het hierbij verleende mandaat aan de bestuursvoorzitters van de rec’s om deze regeling namens de minister uit te voeren. De rec’s zijn gehouden van dit mandaat in hun correspondentie te laten blijken en dragen er zorg voor dat alle in het kader van deze regeling genomen besluiten worden getekend namens de minister. Ondermandaat binnen het rec is toegestaan, indien dit wordt vastgelegd in een ondermandaatregeling.   
-14.  Bezwaarschriften, gericht tegen besluiten genomen op grond van het bepaalde in dit artikel, worden behandeld conform de [Regeling behandeling bezwaarschriften OCW](../../../../../../../../../../../ministeriele-regeling/regeling/behandeling/bezwaarschriften/ocw/BWBR0023195/README.md).   
+14.  Bezwaarschriften, gericht tegen besluiten genomen op grond van het bepaalde in dit artikel, worden behandeld conform de [Regeling behandeling bezwaarschriften OCW](../../../../../../../../../../../ministeriele-regeling/regeling/behandeling/bezwaarschriften/ocw/BWBR0023195/README.md).  
 
 ### Artikel  6  
 
 ####Uitvoeringskosten
 
-Maximaal 15% van de toegekende aanvullende middelen wordt door het rec aangewend voor de uitvoeringskosten van deze regeling.  
+Maximaal 15% van de toegekende aanvullende middelen wordt door het rec aangewend voor de uitvoeringskosten van deze regeling. 
 
 ### Artikel  7  
 
@@ -110,7 +110,7 @@ Maximaal 15% van de toegekende aanvullende middelen wordt door het rec aangewend
 1.  De rec’s cluster 3 en 4 werken mee aan een evaluatie, waarbij onderzoek wordt gedaan naar de wijze van inzet van de aanvullende middelen, of de doelstelling op grond van artikel 2 is bereikt en wat de (on)bedoelde effecten zijn. Dit houdt in dat de rec’s en de scholen gegevens bijhouden die van belang kunnen zijn voor de evaluatie.   
 2.  De rec’s cluster 3 en 4 werken mee aan andere dan in het eerste lid bedoelde door of namens de minister ingestelde onderzoeken die gericht zijn op het verschaffen van nadere inlichtingen aan de minister ten behoeve van de ontwikkeling van beleid.   
 3.  De rec’s cluster 3 en 4 geven aan door of namens de minister aangewezen ambtenaren op verzoek inzage in de in [artikel 17 van de Wet overige OCW-subsidies](../../../../../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) bedoelde administratie en verstrekt alle inlichtingen die redelijkerwijs noodzakelijk zijn om een juist inzicht te verkrijgen in de besteding van de subsidie.   
-4.  De rec’s cluster 3 en 4 doen zo spoedig mogelijk schriftelijk mededeling aan de minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de aanvullende middelen. Daarbij worden de relevante stukken overlegd.   
+4.  De rec’s cluster 3 en 4 doen zo spoedig mogelijk schriftelijk mededeling aan de minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de aanvullende middelen. Daarbij worden de relevante stukken overlegd.  
 
 ### Artikel  8  
 
@@ -128,30 +128,30 @@ c. het bedrag dat is besteed aan de uitvoering van de regeling;
 d. het aantal leerlingen waarvoor extra middelen voor begeleiding is toegekend;  
 
 e. het totaal aantal uren extra begeleiding dat is toegekend.     
-3.  De aanvullende bekostiging wordt uiterlijk in het kalenderjaar 2012 besteed.   
-4.  De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van deze aanvullende bekostiging.   
+3.  De aanvullende bekostiging wordt uiterlijk in het kalenderjaar 2014 besteed.   
+4.  De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van deze aanvullende bekostiging.  
 
 ### Artikel  9  
 
 ####Inhoudelijke verantwoording
 
 1.  Het evaluatieonderzoek, bedoeld in artikel 7, dient tevens als inhoudelijke verantwoording van de rec’s en de scholen voor de besteding van de middelen als bedoeld in artikel 2.   
-2.  De scholen verantwoorden de inzet van de middelen voor zorgleerlingen inhoudelijk in het handelingsplan van de leerling, en met de evaluatie als bedoeld in artikel 7.   
+2.  De scholen verantwoorden de inzet van de middelen voor zorgleerlingen inhoudelijk in het handelingsplan van de leerling, en met de evaluatie als bedoeld in artikel 7.  
 
 ### Artikel  10  
 
 ####Inwerkingtreding en vervaldatum
 
 1.  Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010.   
-2.  Deze regeling vervalt met ingang van 1 januari 2013.   
+2.  Deze regeling vervalt met ingang van 1 januari 2015.  
 
 ### Artikel  11  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling subsidie regionale expertisecentra in verband met de pakketmaatregel AWBZ 2009.  
+Deze regeling wordt aangehaald als: Regeling subsidie regionale expertisecentra in verband met de pakketmaatregel AWBZ 2009. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, 
-A.Rouvoet   
+A. Rouvoet     
