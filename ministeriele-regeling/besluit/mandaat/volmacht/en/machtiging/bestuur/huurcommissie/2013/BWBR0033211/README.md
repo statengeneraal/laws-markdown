@@ -18,31 +18,31 @@ Besluit;
 
 In dit besluit wordt verstaan onder: 
 
-a. *ministerie:* het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;  
+a.  *ministerie:* het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;  
 
-b. *minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
+b.  *minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
 
-c. *wet:* de [Uitvoeringswet huurprijzen woonruimte](../../../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
+c.  *wet:* de [Uitvoeringswet huurprijzen woonruimte](../../../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
 
-d. *huurcommissie:* de huurcommissie, bedoeld in [artikel 3a, eerste lid, van de wet](../../../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
+d.  *huurcommissie:* de huurcommissie, bedoeld in [artikel 3a, eerste lid, van de wet](../../../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
 
-e. *bestuur:* het bestuur van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](../../../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
+e.  *bestuur:* het bestuur van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](../../../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
 
-f. *voorzitter:* de voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](../../../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
+f.  *voorzitter:* de voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](../../../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
 
-g. *plaatsvervangend voorzitter:* de plaatsvervangend voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](../../../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
+g.  *plaatsvervangend voorzitter:* de plaatsvervangend voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](../../../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
 
-h. *zittingsvoorzitter:* een zittingsvoorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](../../../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
+h.  *zittingsvoorzitter:* een zittingsvoorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](../../../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
 
-i. *zittingslid:* een zittingslid van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](../../../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
+i.  *zittingslid:* een zittingslid van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](../../../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
 
-j. *administratieve ondersteuning:* de administratieve ondersteuning van de huurcommissie, bedoeld in de [artikelen 3c](../../../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md) en [3h van de wet](../../../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
+j.  *administratieve ondersteuning:* de administratieve ondersteuning van de huurcommissie, bedoeld in de [artikelen 3c](../../../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md) en [3h van de wet](../../../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
 
-k. *functionaris:* een functionaris van de administratieve ondersteuning;  
+k.  *functionaris:* een functionaris van de administratieve ondersteuning;  
 
-l. *middenmanager:* een hoofd van een afdeling of overig organisatieonderdeel van de administratieve ondersteuning, vast te stellen in een organisatiebesluit van de huurcommissie conform artikel 2, tweede lid, van dit besluit;  
+l.  *middenmanager:* een hoofd van een afdeling of overig organisatieonderdeel van de administratieve ondersteuning, vast te stellen in een organisatiebesluit van de huurcommissie conform artikel 2, tweede lid, van dit besluit;  
 
-m. *managementondersteuner:* een functionaris met de functie managementondersteuner.    
+m.  *managementondersteuner:* een functionaris met de functie managementondersteuner.   
 
 ### Artikel  2  
 
@@ -69,7 +69,7 @@ b. het besluiten tot organisatieveranderingen en het besluiten tot de uitvoering
 
 c. het optreden als bestuurder in de zin van de [Wet op de ondernemingsraden](../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) ten behoeve van de overleggen met de medezeggenschap van de administratieve ondersteuning, en  
 
-d. het vaststellen van regels met betrekking tot de aangelegenheden die verband houden met de bevoegdheden, in mandaat verleend krachtens de artikelen 2 en 3 en de taken van de administratieve ondersteuning ten behoeve van de huurcommissie.     
+d. het vaststellen van regels met betrekking tot de aangelegenheden die verband houden met de bevoegdheden, in mandaat verleend krachtens de artikelen 2 en 3 en de taken van de administratieve ondersteuning ten behoeve van de huurcommissie.    
 
 ### Artikel  3  
 
@@ -85,7 +85,7 @@ b. voormalige functionarissen die betrekking hebben op gebeurtenissen die zich h
 
 c. zittingsvoorzitters en zittingsleden;  
 
-d. voormalige zittingsvoorzitters en voormalige zittingsleden die betrekking hebben op gebeurtenissen die zich hebben voorgedaan gedurende de periode waarin zij deel uitmaakten van de huurcommissie.     
+d. voormalige zittingsvoorzitters en voormalige zittingsleden die betrekking hebben op gebeurtenissen die zich hebben voorgedaan gedurende de periode waarin zij deel uitmaakten van de huurcommissie.    
 
 ### Artikel  4  
 
@@ -94,13 +94,13 @@ d. voormalige zittingsvoorzitters en voormalige zittingsleden die betrekking heb
 1.  Het bestuur kan ten aanzien van de in artikel 3, eerste lid, genoemde bevoegdheden ondermandaat verlenen aan middenmanagers en managementondersteuners.   
 2.  Het bestuur kan voor het goedkeuren van declaraties van functionarissen, niet behorende tot de functiecategorie middenmanagers, ondermandaat verlenen aan middenmanagers.   
 3.  In afwijking van het eerste lid, verleent het bestuur geen ondermandaat aangaande het besluiten tot en het verrichten van privaatrechtelijke rechtshandelingen met betrekking tot de inkoop van dienstverlening op het terrein van interimmanagement, organisatieadvies, formatieadvies, beleidsadvies en communicatieadvies.   
-4.  De verlening van ondermandaat geschiedt schriftelijk.   
+4.  De verlening van ondermandaat geschiedt schriftelijk.  
 
 ### Artikel  5  
 
 ####: Besluitvorming en uitoefening bevoegdheid
 
-De voorzitter en de plaatsvervangend voorzitter kunnen elkaar machtigen de in mandaat verleende bevoegdheden afzonderlijk namens het bestuur uit te oefenen.  
+De voorzitter en de plaatsvervangend voorzitter kunnen elkaar machtigen de in mandaat verleende bevoegdheden afzonderlijk namens het bestuur uit te oefenen. 
 
 ### Artikel  6  
 
@@ -115,27 +115,27 @@ b. de aan de gemandateerde toegekende budgetten op basis van het geldende jaarpl
 
 c. het bepaalde bij of krachtens de [Comptabiliteitswet 2001](../../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) en de aanwijzingen van de directeur Financiële en Economische Zaken van het ministerie op grond van die wet en de daarop berustende regelgeving, waaronder [artikel 2 van het Besluit taak FEZ](../../../../../../../../../../AMvB/besluit/taak/fez/BWBR0005333/README.md), en  
 
-d. het [Besluit privaatrechtelijke rechtshandelingen](../../../../../../../../../../AMvB/besluit/privaatrechtelijke/rechtshandelingen/1996/BWBR0007804/README.md) en de door de minister ter zake gestelde kaders, waaronder de kaders ten aanzien van inkoop en aanbesteding.     
+d. het [Besluit privaatrechtelijke rechtshandelingen](../../../../../../../../../../AMvB/besluit/privaatrechtelijke/rechtshandelingen/1996/BWBR0007804/README.md) en de door de minister ter zake gestelde kaders, waaronder de kaders ten aanzien van inkoop en aanbesteding.    
 
 ### Artikel  7  
 
 ####: Informatieplicht
 
 1.  Een ieder aan wie bij of krachtens dit besluit mandaat of ondermandaat is verleend informeert de minister en de minister voor Wonen en Rijksdienst bij zwaarwegende omstandigheden en gebeurtenissen die betrekking hebben op de gemandateerde bevoegdheden.   
-2.  Onverminderd het eerste lid, heeft het bestuur een aan de uitoefening van de bevoegdheid voorafgaande informatie- en signaleringsplicht jegens de directeur-generaal Wonen en Bouwen betreffende de gemandateerde bevoegdheden, genoemd in artikel 2, tweede lid.   
+2.  Onverminderd het eerste lid, heeft het bestuur een aan de uitoefening van de bevoegdheid voorafgaande informatie- en signaleringsplicht jegens de directeur-generaal Wonen en Bouwen betreffende de gemandateerde bevoegdheden, genoemd in artikel 2, tweede lid.  
 
 ### Artikel  8  
 
 ####: Volmacht en machtiging
 
-Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met mandaat gelijkgesteld, de verlening van volmacht voor het verrichten van privaatrechtelijke rechtshandelingen en machtiging om handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.  
+Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met mandaat gelijkgesteld, de verlening van volmacht voor het verrichten van privaatrechtelijke rechtshandelingen en machtiging om handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn. 
 
 ### Artikel  9  
 
 ####: Overige bepalingen
 
 1.  Indien een besluit wordt genomen bij of krachtens een in dit besluit gemandateerde bevoegdheid, luidt de ondertekening: De Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze: gevolgd door functieaanduiding, handtekening en naam van de functionaris.   
-2.  Bij de ondertekening van stukken op grond van volmacht wordt de aanduiding van de minister voorafgegaan door: namens de Staat der Nederlanden.   
+2.  Bij de ondertekening van stukken op grond van volmacht wordt de aanduiding van de minister voorafgegaan door: namens de Staat der Nederlanden.  
 
 ### Artikel  10  
 
@@ -143,12 +143,12 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 1.  Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het besluit wordt geplaatst.   
 2.  Het [Besluit mandaat, volmacht en machtiging bestuur huurcommissie](../../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/bestuur/huurcommissie/BWBR0027445/README.md) wordt ingetrokken.   
-3.  Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2013.   
+3.  Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2013.  
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
 4 april 2013   
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties
-R.H.A.Plasterk   
+Minister van Binnenlandse Zaken en Koninkrijksrelaties 
+R.H.A. Plasterk     

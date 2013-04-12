@@ -12,25 +12,23 @@ In dit reglement wordt verstaan onder:
 
 2. *leerbedrijf:* het bedrijf dat, of de organisatie die, op grond van dit reglement bevoegd is om de beroepspraktijkvorming te verzorgen.  
 
-3. *detacheringsorganisatie:* het bedrijf dat, of de organisatie die, als werkgever fungeert en daarmee verantwoordelijk is voor de realisatie van de beroepspraktijkvorming voor haar werknemers, maar deze beroepspraktijkvorming laat verzorgen door een leerbedrijf zoals in artikel 1.2 beschreven.  
+3. *reglement:* reglement erkenning leerbedrijven.  
 
-4. *reglement:* reglement erkenning leerbedrijven.  
+4. *(onderwijs)deelnemer:* VMBO- of MBO- of HBO-leerling.  
 
-5. *(onderwijs)deelnemer:* VMBO- of MBO- of HBO-leerling.  
-
-6. *onderwijsinstelling:* school voor VMBO of MBO of HBO.    
+5. *onderwijsinstelling:* school voor VMBO of MBO of HBO.    
 
 ### Artikel  2  
 
 ####Doel
 
-Uitsluitend bedrijven en organisaties die voldoen aan de bepalingen in dit reglement en die door Kenniscentrum Handel als zodanig zijn erkend, zijn bevoegd om op te treden als leerbedrijf of als detacheringsorganisatie.  
+Uitsluitend bedrijven en organisaties die voldoen aan de bepalingen in dit reglement en die door Kenniscentrum Handel als zodanig zijn erkend, zijn bevoegd om op te treden als leerbedrijf.  
 
 ### Artikel  3  
 
 ####Verzoek tot erkenning
 
-1.  Met inachtneming van de bepalingen in dit reglement wordt een erkenning afgegeven op verzoek van het bedrijf of de organisatie die de beroepspraktijkvorming wil verzorgen of als detacheringsorganisatie op wil treden.   
+1.  Met inachtneming van de bepalingen in dit reglement wordt een erkenning afgegeven op verzoek van het bedrijf of de organisatie die de beroepspraktijkvorming wil verzorgen.   
 2.  De aanvraag heeft betrekking op één of meerdere kwalificaties of delen daarvan.   
 3.  Een aanvraag wordt in behandeling genomen indien dit een eerste aanvraag betreft of indien na een eerdere aanvraag en de nieuwe aanvraag ten minste zes maanden verstreken zijn.   
 
@@ -61,18 +59,6 @@ Uitsluitend bedrijven en organisaties die voldoen aan de bepalingen in dit regle
 1.3 bereid te zijn tot overleg met de onderwijsinstelling en Kenniscentrum Handel wat blijkt uit het gevolg geven aan aanbevelingen van de opleidingsadviseur;  
 
 1.4 akkoord te gaan met de vermelding van de bedrijfsgegevens in het openbare register leerbedrijven.     
-2.  Voor de erkenning als detacheringsorganisatie wordt het bedrijf of de organisatie geacht: 
-
-2.1 uitvoering van de BPV te laten plaatsvinden bij één of meerdere erkende leerbedrijven waarbij de BPV-periode bij elk afzonderlijk erkend leerbedrijf minstens twee maanden aaneengesloten is;  
-
-2.2 uit eigen beweging ieder kwartaal, en op tussentijds verzoek van Kenniscentrum Handel, een overzicht te leveren van erkende leerbedrijven waar deelnemers geplaatst zijn;  
-
-2.3 te zorgen voor een individueel opleidingsplan en een voortgangsregistratie van de deelnemer;  
-
-2.4 bereid te zijn tot overleg met de onderwijsinstelling en Kenniscentrum Handel;  
-
-2.5 indien er uit deze erkenning voor Kenniscentrum Handel additionele kosten voortvloeien, deze te vergoeden.     
-3.  De detacheringsorganisatie is bevoegd de uitvoering van de beroepspraktijkvorming door een erkend leerbedrijf te laten verzorgen. De detacheringsorganisatie blijft als werkgever zelf verantwoordelijk en aansprakelijk voor de realisatie van de beroepspraktijkvorming conform dit reglement.   
 
 ### Artikel  6  
 
@@ -89,8 +75,7 @@ Uitsluitend bedrijven en organisaties die voldoen aan de bepalingen in dit regle
 ####Verlengen van de erkenning
 
 1.  Na het verstrijken van de in artikel 6 lid 5 genoemde periode, wordt de erkenning voor dezelfde duur door Kenniscentrum Handel verlengd, indien in de verstreken periode de daadwerkelijke bezetting van leerplaatsen met deelnemers daartoe aanleiding geeft. Artikel 4 is van overeenkomstige toepassing.   
-2.  Van de beslissing over het verlengen wordt het leerbedrijf dan wel de detacheringsorganisatie schriftelijk in kennis gesteld. Indien de verlenging geweigerd wordt, wordt het leerbedrijf dan wel de detacheringsorganisatie schriftelijk onder opgave van redenen, van deze beslissing op de hoogte gebracht.   
-3.  Indien Kenniscentrum Handel niet binnen drie maanden na het verstrijken van de in artikel 6 lid 5 genoemde termijn de beslissing omtrent het verlengen aan het leerbedrijf heeft kenbaar gemaakt, kan de erkenning geacht worden te zijn verlengd voor een periode van 4 jaar.   
+2.  Van de beslissing over het verlengen wordt het leerbedrijf schriftelijk in kennis gesteld. Indien de verlenging geweigerd wordt, wordt het leerbedrijf schriftelijk onder opgave van redenen, van deze beslissing op de hoogte gebracht.   
 
 ### Artikel  8  
 
@@ -129,7 +114,7 @@ In alle gevallen waarin dit reglement niet voorziet beslist Kenniscentrum Handel
 
 ####Inwerkingtreding
 
-Dit reglement is vastgesteld door de directie van Kenniscentrum Handel en goedgekeurd door het bestuur. Dit reglement treedt in werking op 12 april 2012. Het is geldig tot en met de datum van goedkeuring van een herziening van het reglement door het bestuur van Kenniscentrum Handel.  
+Dit reglement is vastgesteld door het bestuur. Dit reglement treedt in werking op 12 april 2013. Het is geldig tot en met de datum van goedkeuring van een herziening van het reglement door het bestuur van Kenniscentrum Handel.  
 
 ### Artikel  13  
 
