@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 12 oktober 2011, nr. WJZ/337681 (8299), houdende voorschriften betreffende de verstrekking van subsidie in 2011 en volgende jaren voor de instelling van een haalbaarheidsonderzoek voor de herbestemming van monumenten en voor het treffen van tijdelijke maatregelen ter voorkoming van het verval van monumenten (Subsidieregeling stimulering herbestemming monumenten)
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
-Gelet op [artikel 34, zesde en zevende lid, van de Monumentenwet 1988](../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md);
+Gelet op artikel 34, zesde en zevende lid, van de Monumentenwet 1988;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -27,7 +27,7 @@ e. *eigenaar:* natuurlijke persoon of rechtspersoon die het recht van eigendom o
 
 f. *herbestemming:* geven van een nieuwe functie aan een monument of een belangrijk deel daarvan;  
 
-g. *onderzoek:* haalbaarheidsonderzoek dan welinteractief of procesgericht onderzoek;  
+g. *onderzoek:* haalbaarheidsonderzoek dan wel interactief of procesgericht onderzoek;  
 
 h. *haalbaarheidsonderzoek:* onderzoek als bedoeld in artikel 5, eerste lid, onderdeel a, en derde lid;  
 
@@ -37,22 +37,22 @@ j. *tijdelijke maatregel:* maatregel als bedoeld in artikel 17;
 
 k. *subsidiabele kosten:* kosten als bedoeld in artikel 20;  
 
-l. *subsidietijdvak:* het tijdvak van 1 november tot en met 31 oktober van het daaropvolgende jaar;  
+l. *subsidietijdvak:* tijdvak van 1 oktober tot en met 30 september in enig jaar;  
 
-m. *woonhuis:* monument of zelfstandig onderdeel daarvan dat in oorsprong is vervaardigd voor bewoning of dat voor meer dan de helft van de oppervlakte voor bewoning in gebruik is met dien verstande dat niet als woonhuis wordt aangemerkt een monument dat als museum is geregistreerd, een kerkgebouw, kasteel, paleis, hoofdhuis van een buitenplaats, landhuis, gebouw van liefdadigheid, molen, gemaal, agrarisch gebouw of watertoren.     
+m. *woonhuis:* monument of zelfstandig onderdeel daarvan dat in oorsprong is vervaardigd voor bewoning of dat voor meer dan de helft van de oppervlakte voor bewoning in gebruik is met dien verstande dat niet als woonhuis wordt aangemerkt een gebouw dat deel uitmaakt van een geregistreerd museum, een kerkgebouw, kasteel, paleis, hoofdhuis van een buitenplaats, landhuis, gebouw van liefdadigheid, molen, gemaal, agrarisch gebouw of watertoren.     
 2.  In deze regeling wordt onder monument tevens zelfstandig onderdeel begrepen, tenzij het tegendeel blijkt.   
 
 ### Artikel  2  
 
 ####Reikwijdte
 
-Subsidie kan worden verstrekt ten behoeve van een op grond van de [Monumentenwet 1988](../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), een provinciale verordening of een gemeentelijke verordening beschermd monument dan wel ten behoeve van een monument dat niet op grond van een van die regelingen is beschermd.  
+Subsidie kan worden verstrekt ten behoeve van een op grond van de Monumentenwet 1988, een provinciale verordening of een gemeentelijke verordening beschermd monument dan wel ten behoeve van een monument dat niet op grond van een van die regelingen is beschermd.  
 
 ### Artikel  3  
 
 ####Begrotingsvoorbehoud
 
-1.  Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht.   
 2.  In geval van het niet vervullen van de voorwaarde, bedoeld in het eerste lid, worden de op grond van deze regeling verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling van de begroting ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend, en van de hoogte van de verleende subsidiebedragen.   
 
 ### Hoofdstuk  2  
@@ -98,18 +98,23 @@ d. de financiële haalbaarheid van de herbestemming van het monument.
 
 ####Aanvragers
 
-Subsidie kan worden aangevraagd door: 
+1.  Subsidie kan worden aangevraagd door: 
 
 a. eigenaren van een ander monument dan een woonhuis, en  
 
-b. rechtspersonen die belang hebben bij de herbestemming van een ander monument dan een woonhuis.    
+b. rechtspersonen die belang hebben bij de herbestemming van een ander monument dan een woonhuis.     
+2.  Voor de toepassing van dit artikel wordt onder een ander monument dan een woonhuis tevens begrepen een woonhuis dat onderdeel is van een samenstel van monumenten. Subsidie voor een woonhuis als bedoeld in de eerste volzin kan uitsluitend worden aangevraagd, indien voor dat samenstel van monumenten dan wel voor een of meer onderdelen daarvan tevens subsidie is aangevraagd.   
 
 ### Artikel  7  
 
 ####Subsidieplafond
 
-1.  Voor de subsidieverstrekking op grond van dit hoofdstuk is voor het tijdvak 1 november 2011 tot en met 31 oktober 2012 een bedrag van € 2,6 miljoen beschikbaar.   
-2.  Voor de subsidieverstrekking op grond van dit hoofdstuk is voor de subsidietijdvakken na het tijdvak, bedoeld in het eerste lid, telkens een bedrag van € 1 miljoen beschikbaar.   
+1.  Voor de subsidieverstrekking op grond van dit hoofdstuk is voor het tijdvak 1 oktober 2012 tot en met 30 september 2013 een bedrag van € 4,6 miljoen beschikbaar en voor de daaropvolgende subsidietijdvakken telkens een bedrag van € 1,7 miljoen.   
+2.  Indien in enig subsidietijdvak een beschikbaar bedrag niet geheel wordt verstrekt, kan de minister het resterende bedrag toevoegen aan: 
+
+a. het subsidieplafond, bedoeld in artikel 19, eerste lid, voor het zelfde subsidietijdvak, of  
+
+b. het subsidieplafond, bedoeld in het eerste lid, voor het volgende subsidietijdvak.     
 
 ### Artikel  8  
 
@@ -142,13 +147,13 @@ a. een beschrijving van de problematiek van de herbestemming en de te onderzoeke
 
 b. een opgave van de kosten waarvoor subsidie wordt aangevraagd en een offerte, en  
 
-c. in geval van een monument dat niet op grond van de [Monumentenwet 1988](../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), een provinciale verordening of een gemeentelijke verordening is beschermd, een verklaring van het college van burgemeester en wethouders van de desbetreffende gemeente dat het monument van algemeen belang is wegens zijn schoonheid, zijn betekenis voor de wetenschap of zijn cultuurhistorische waarde.     
+c. in geval van een monument dat niet op grond van de Monumentenwet 1988, een provinciale verordening of een gemeentelijke verordening is beschermd, een verklaring van het college van burgemeester en wethouders van de desbetreffende gemeente dat het monument van algemeen belang is wegens zijn schoonheid, zijn betekenis voor de wetenschap of zijn cultuurhistorische waarde.     
 
 ### Artikel  10  
 
 ####Indieningstermijn
 
-1.  De aanvraag wordt per subsidietijdvak ingediend van 1 november tot en met 30 september van het daaropvolgende jaar.   
+1.  De aanvraag wordt per subsidietijdvak ingediend van 1 oktober tot en met 30 november.   
 2.  De aanvraag wordt ingediend bij de Rijksdienst voor het Cultureel Erfgoed te Amersfoort.   
 
 ### Paragraaf  2.3  
@@ -159,7 +164,7 @@ c. in geval van een monument dat niet op grond van de [Monumentenwet 1988](../..
 
 ####Weigeringsgronden
 
-Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt de verstrekking van een subsidie in elk geval geweigerd, voor zover: 
+Onverminderd artikel 4:35 van de Algemene wet bestuursrecht wordt de verstrekking van een subsidie in elk geval geweigerd, voor zover: 
 
 a. de in de offerte, bedoeld in artikel 9, derde lid, onderdeel b, opgenomen kosten naar het oordeel van de minister niet redelijk zijn,  
 
@@ -167,19 +172,29 @@ b. met betrekking tot de kosten subsidie is verstrekt op grond van een andere ri
 
 c. met de werkzaamheden voor een onderzoek is begonnen, voordat de aanvraag is ingediend, of  
 
-d. de rechtspersoon, bedoeld in artikel 6, onderdeel b, naar het oordeel van de minister onvoldoende of geen belang bij de herbestemming van het monument heeft.    
+d. de rechtspersoon, bedoeld in artikel 6, eerste lid, onderdeel b, naar het oordeel van de minister onvoldoende of geen belang bij de herbestemming van het monument heeft.    
 
 ### Artikel  12  
 
 ####Wijze van verdeling van de beschikbare middelen
 
-De minister verdeelt de beschikbare bedragen, bedoeld in artikel 7, in volgorde van ontvangst van de aanvragen.  
+1.  De minister voorziet in een gelijktijdige beslissing op aanvragen om subsidie met betrekking tot de activiteiten, bedoeld in artikel 5, eerste lid.   
+2.  De minister rangschikt de aanvragen in de volgorde als hierna vermeld: 
+
+a. aanvragen ingediend door organisaties als bedoeld in artikel 30 van de Subsidieregeling instandhouding monumenten, die eigenaar van het desbetreffende monument zijn,  
+
+b. aanvragen ingediend door andere eigenaren dan die, bedoeld in onderdeel a,  
+
+c. aanvragen ingediend door organisaties als bedoeld in artikel 30 van de Subsidieregeling instandhouding monumenten, die geen eigenaar van het desbetreffende monument zijn, en  
+
+d. aanvragen ingediend door andere rechtspersonen dan die, bedoeld in onderdeel c.     
+3.  Indien bij toepassing van het tweede lid het subsidieplafond, bedoeld in artikel 7, eerste lid, dreigt te worden overschreden of wordt overschreden door subsidieverstrekking aan alle aanvragers in een van de categorieën aanvragen als bedoeld in het tweede lid, wordt op de aanvragen in die categorie beslist in de volgorde van de opgave van de kosten, bedoeld in artikel 9, derde lid, onderdeel b, waarvoor subsidie wordt aangevraagd, waarbij een aanvraag met een lagere opgave van de kosten voorrang krijgt.   
 
 ### Artikel  13  
 
 ####Beschikking tot subsidievaststelling
 
-1.  De minister beslist binnen 13 weken na ontvangst van de aanvraag om subsidie.   
+1.  De minister beslist binnen 13 weken na afloop van de periode, bedoeld in artikel 10, eerste lid, op de aanvragen in de volgorde van de rangschikking, bedoeld in artikel 12, tweede lid, en zonodig met toepassing van artikel 12, derde lid.   
 2.  De subsidie wordt vastgesteld zonder voorafgaande subsidieverlening.   
 3.  De beschikking tot subsidievaststelling vermeldt de aard van het onderzoek waarvoor subsidie wordt verstrekt, het subsidiebedrag en het tijdstip waarop het onderzoek uiterlijk is afgerond.   
 
@@ -229,20 +244,27 @@ b. *aanvraag:* een aanvraag als bedoeld in artikel 23.
 
 1.  De minister kan subsidie verstrekken ten behoeve van het treffen van tijdelijke maatregelen die er toe strekken om een monument wind- en waterdicht te maken dan wel om verval, verzakking of instorting van een monument te voorkomen met het oog op mogelijke herbestemming van een monument.   
 2.  Subsidie wordt uitsluitend verstrekt, indien met betrekking tot een monument recent een onderzoek is ingesteld of een aanvraag om subsidie voor een onderzoek is ingediend. Onder een onderzoek als bedoeld in de eerste volzin wordt mede begrepen een ander vergelijkbaar haalbaarheidsonderzoek.   
-3.  Maatregelen als bedoeld in het eerste lid hebben betrekking op een of meer monumenten dan wel op een of meer zelfstandige onderdelen.   
-4.  Indien een monument uit zelfstandige onderdelen bestaat of indien er sprake is van een samenstel van monumenten, kunnen voor dat monument onderscheidenlijk dat samenstel ten hoogste twee aanvragen om subsidie worden ingediend.   
+3.  Voor zover een subsidie betrekking heeft op een woonhuis als bedoeld in artikel 18, tweede lid, wordt die subsidie onverminderd het tweede lid uitsluitend verstrekt, indien met betrekking tot het desbetreffende samenstel van monumenten dan wel een of meer onderdelen daarvan recent een onderzoek is ingesteld of een aanvraag om subsidie voor een onderzoek is ingediend. De tweede volzin van het tweede lid is van toepassing.   
+4.  Maatregelen als bedoeld in het eerste lid hebben betrekking op een of meer monumenten dan wel op een of meer zelfstandige onderdelen.   
+5.  Indien een monument uit zelfstandige onderdelen bestaat of indien er sprake is van een samenstel van monumenten, kunnen voor dat monument onderscheidenlijk dat samenstel ten hoogste twee aanvragen om subsidie worden ingediend.   
 
 ### Artikel  18  
 
 ####Aanvragers
 
-Subsidie kan worden aangevraagd door eigenaren van een ander monument dan een woonhuis.  
+1.  Subsidie kan worden aangevraagd door eigenaren van een ander monument dan een woonhuis.   
+2.  Voor de toepassing van dit artikel wordt onder een ander monument dan een woonhuis tevens begrepen een woonhuis dat onderdeel is van een samenstel van monumenten.   
 
 ### Artikel  19  
 
 ####Subsidieplafond
 
-Voor de subsidieverstrekking op grond van dit hoofdstuk is voor het tijdvak 1 november 2011 tot en met 31 oktober 2012 en de daaropvolgende subsidietijdvakken telkens een bedrag van € 1,4 miljoen beschikbaar.  
+1.  Voor de subsidieverstrekking op grond van dit hoofdstuk is voor het tijdvak 1 oktober 2012 tot en met 30 september 2013 een bedrag van € 1,6 miljoen beschikbaar en voor de daaropvolgende subsidietijdvakken telkens een bedrag van € 0,7 miljoen.   
+2.  Indien in enig subsidietijdvak een beschikbaar bedrag niet geheel wordt verstrekt, kan de minister het resterende bedrag toevoegen aan: 
+
+a. het subsidieplafond, bedoeld in artikel 7, eerste lid, voor het zelfde subsidietijdvak, of  
+
+b. het subsidieplafond, bedoeld in het eerste lid, voor het volgende subsidietijdvak.     
 
 ### Artikel  20  
 
@@ -313,13 +335,14 @@ c. een opgave van de kosten waarvoor subsidie wordt aangevraagd en een offerte o
 
 d. een actueel rapport als bedoeld in artikel 15, tweede lid, met betrekking tot het monument of een daarmee gelijk te stellen document dan wel de mededeling dat een aanvraag om subsidie voor een haalbaarheidsonderzoek dan wel een interactief of procesgericht onderzoek met betrekking tot het monument is ingediend, en  
 
-e. in geval van een monument dat niet op grond van de [Monumentenwet 1988](../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), een provinciale verordening of een gemeentelijke verordening is beschermd, een verklaring van het college van burgemeester en wethouders van de desbetreffende gemeente dat het monument van algemeen belang is wegens zijn schoonheid, zijn betekenis voor de wetenschap of zijn cultuurhistorische waarde.     
+e. in geval van een monument dat niet op grond van de Monumentenwet 1988, een provinciale verordening of een gemeentelijke verordening is beschermd, een verklaring van het college van burgemeester en wethouders van de desbetreffende gemeente dat het monument van algemeen belang is wegens zijn schoonheid, zijn betekenis voor de wetenschap of zijn cultuurhistorische waarde.     
 
 ### Artikel  24  
 
 ####Indieningstermijn
 
-Artikel 10 is van toepassing.  
+1.  De aanvraag wordt per subsidietijdvak ingediend van 1 oktober tot en met 30 november.   
+2.  Artikel 10, tweede lid, is van toepassing.   
 
 ### Paragraaf  3.3  
 
@@ -329,7 +352,7 @@ Artikel 10 is van toepassing.
 
 ####Weigeringsgronden
 
-Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt de verstrekking van een subsidie in elk geval geweigerd, voor zover: 
+Onverminderd artikel 4:35 van de Algemene wet bestuursrecht wordt de verstrekking van een subsidie in elk geval geweigerd, voor zover: 
 
 a. de in de offerte of begroting, bedoeld in artikel 23, derde lid, onderdeel c, opgenomen kosten naar het oordeel van de minister niet redelijk zijn,  
 
@@ -343,14 +366,20 @@ d. met het treffen van tijdelijke maatregelen is begonnen, voordat de aanvraag i
 
 ####Wijze van verdeling van de beschikbare middelen
 
-Artikel 12 is van overeenkomstige toepassing.  
+1.  De minister voorziet in een gelijktijdige beslissing op aanvragen om subsidie met betrekking tot de activiteiten, bedoeld in artikel 17, eerste lid.   
+2.  De minister rangschikt de aanvragen in de volgorde als hierna vermeld: 
+
+a. aanvragen ingediend door organisaties als bedoeld in artikel 30 van de Subsidieregeling instandhouding monumenten, en  
+
+b. aanvragen ingediend door andere eigenaaren dan die, bedoeld in onderdeel a.     
+3.  Indien bij toepassing van het tweede lid het subsidieplafond, bedoeld in artikel 19, eerste lid, dreigt te worden overschreden of wordt overschreden door subsidieverstrekking aan alle aanvragers in een van de categorieën aanvragen als bedoeld in het tweede lid, wordt op de aanvragen in die categorie beslist in de volgorde van de opgave van de kosten, bedoeld in artikel 23, derde lid, onderdeel c, waarvoor subsidie wordt aangevraagd, waarbij een aanvraag met een lagere opgave van de kosten voorrang krijgt.   
 
 ### Artikel  27  
 
 ####Beschikking op de subsidieaanvraag
 
-1.  Indien de te verstrekken subsidie € 25.000 of meer bedraagt, geeft de minister de beschikking tot subsidieverlening binnen 13 weken na de ontvangst van de aanvraag.   
-2.  Indien de te verstrekken subsidie minder dan € 25.000 bedraagt, stelt de minister de subsidie zonder voorafgaande subsidieverlening vast binnen 13 weken na de ontvangst van de aanvraag.   
+1.  Indien de te verstrekken subsidie € 25.000 of meer bedraagt, geeft de minister de beschikking tot subsidieverlening binnen 13 weken na afloop van de periode, bedoeld in artikel 24, eerste lid, in de volgorde van de rangschikking, bedoeld in artikel 26, tweede lid, en zonodig met toepassing van artikel 26, derde lid.   
+2.  Indien de te verstrekken subsidie minder dan € 25.000 bedraagt, stelt de minister de subsidie zonder voorafgaande subsidieverlening vast binnen 13 weken na afloop van de periode, bedoeld in artikel 24, eerste lid, in de volgorde van de rangschikking, bedoeld in artikel 26, tweede lid, en zonodig met toepassing van artikel 26, derde lid.   
 3.  De beschikking vermeldt de aard van de werkzaamheden waarvoor subsidie wordt verstrekt, het subsidiebedrag en het tijdstip waarop de werkzaamheden uiterlijk zijn afgerond.   
 
 ### Paragraaf  3.4  
@@ -404,6 +433,18 @@ Indien de subsidie € 25.000 of meer bedraagt, stelt de minister de subsidie va
 ### Hoofdstuk  4  
 
 ####Slotbepalingen
+
+### Artikel  33a  
+
+####Vervaldatum regeling
+
+Deze regeling vervalt met ingang van 1 oktober 2016.  
+
+### Artikel  33b  
+
+####Overgangsbepaling
+
+Voor het subsidietijdvak 1 oktober 2012 tot en met 30 september 2013 wordt in afwijking van de artikelen 12, tweede lid, 13, eerste lid, 26, tweede lid, en 27, eerste lid, bij de vaststelling van de volgorde van de rangschikking, bedoeld in die bepalingen, uitgegaan van de rechtspersonen die voor 1 januari 2013 waren aangewezen op grond van artikel 33 van het Besluit rijkssubsidiëring instandhouding monumenten 2011.  
 
 ### Artikel  34  
 
