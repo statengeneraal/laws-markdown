@@ -2,7 +2,7 @@
 
 ##Inkomstenbelasting, persoonsgebonden aftrek, uitgaven voor specifieke zorgkosten en scholingsuitgaven
 
-De Staatssecretaris van Financiën heeft het volgende besloten. In dit besluit staat het beleid over de uitgaven voor specifieke zorgkosten en scholingsuitgaven. Dit besluit is een actualisering van het [besluit van 21 januari 2010](../../../../../../../../../beleidsregel/inkomstenbelasting/vragen/en/antwoorden/uitgaven/voor/levensonderhoud/van/etc/BWBR0027135/README.md), nr. DGB2010/372M. De onderdelen van het besluit van 21 januari 2010 met slechts een voorlichtend karakter zijn vervallen.    
+De Staatssecretaris van Financiën  heeft het volgende besloten.In dit besluit staat het beleid over de uitgaven voor specifieke zorgkosten en scholingsuitgaven. Dit besluit is een actualisering van het [besluit van 21 januari 2010](../../../../../../../../../beleidsregel/inkomstenbelasting/vragen/en/antwoorden/uitgaven/voor/levensonderhoud/van/etc/BWBR0027135/README.md), nr. DGB2010/372M. De onderdelen van het besluit van 21 januari 2010 met slechts een voorlichtend karakter zijn vervallen.   
 ### 1  
 
 ####Inleiding
@@ -16,7 +16,7 @@ In dit besluit staat het beleid over de uitgaven voor specifieke zorgkosten en s
 
 ####Gebruikte begrippen en afkortingen
 
-*Algemene Wet Bijzondere Ziektekosten:* [AWBZ](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)        
+*Algemene Wet Bijzondere Ziektekosten:* [AWBZ](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)       
 ### 2  
 
 ####Uitgaven voor specifieke zorgkosten
@@ -64,7 +64,7 @@ Met toepassing van de hardheidsclausule van [artikel 63 van de Algemene wet inza
 
 ####Ambtshalve vermindering
 
-Omdat onduidelijkheid heeft bestaan over de mogelijkheid van toepassing van de standaardstudieperiode voorafgaand aan de 18 <sup>e</sup> verjaardag wordt de mogelijkheid voor ambtshalve vermindering bij toepassing van bovenstaande goedkeuring verruimd. Vermindering van onherroepelijk vaststaande aanslagen kan in deze situaties in zoverre plaatsvinden in afwijking van [paragraaf 5 van het besluit van 16 december 2010](../../../../../../../../../beleidsregel/besluit/ambtshalve/verminderen/of/teruggeven/BWBR0029287/README.md), nr. DGB2010/6799M.      
+Omdat onduidelijkheid heeft bestaan over de mogelijkheid van toepassing van de standaardstudieperiode voorafgaand aan de 18<sup>e</sup> verjaardag wordt de mogelijkheid voor ambtshalve vermindering bij toepassing van bovenstaande goedkeuring verruimd. Vermindering van onherroepelijk vaststaande aanslagen kan in deze situaties in zoverre plaatsvinden in afwijking van [paragraaf 5 van het besluit van 16 december 2010](../../../../../../../../../beleidsregel/besluit/ambtshalve/verminderen/of/teruggeven/BWBR0029287/README.md), nr. DGB2010/6799M.      
 ### 4  
 
 ####Ingetrokken regeling
@@ -80,5 +80,5 @@ Den Haag
 4 april 2013   
 
 De 
-staatssecretaris van Financiën
-F.H.H.Weekers   
+staatssecretaris van Financiën 
+F.H.H. Weekers     
