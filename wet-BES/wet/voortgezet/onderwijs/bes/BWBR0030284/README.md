@@ -140,6 +140,15 @@ Onderwijs in lichamelijke opvoeding, bestaande uit praktische bewegingsactivitei
 1.  Het bevoegd gezag stelt elk leerjaar om niet aan een leerling lesmateriaal ter beschikking.   
 2.  Onder lesmateriaal wordt verstaan: lesmateriaal dat naar vorm en inhoud is gericht op informatieoverdracht in onderwijsleersituaties en waarvan het gebruik binnen het onderwijsaanbod door het bevoegd gezag specifiek voor het desbetreffende leerjaar is voorgeschreven.   
 
+### Artikel  12a  
+
+####Onderwijstijd
+
+1.  Een in schooltijd verzorgd samenhangend onderwijsprogramma als bedoeld in de artikelen 16, tweede lid, 18, tweede lid, 29, tweede lid, 35, eerste lid, en 38, vijfde lid, tweede volzin, omvat voor iedere leerling in elk leerjaar ten minste 1000 uren, met dien verstande dat het programma in de eerste twee leerjaren per leerjaar ten minste 1040 uren omvat en in het laatste leerjaar ten minste 700 uren omvat. Tot de uren, bedoeld in de eerste volzin, worden tevens gerekend ten hoogste 60 uren, die alleen voor een specifieke groep leerlingen verplicht zijn en worden ingevuld met onderwijsactiviteiten gericht op excellentie, achterstand of ander maatwerk.   
+2.  Het bevoegd gezag beschikt over geordende gegevens met betrekking tot de toepassing van het eerste lid.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven over de gegevens omtrent de invulling van de uren en de in een onderwijsprogramma verzorgde activiteiten.   
+4.  Ten behoeve van het verrichten van andere taken dan het verzorgen van onderwijs stelt het bevoegd gezag jaarlijks de data vast van ten hoogste negen werkdagen waarop geen onderwijs behoeft te worden verzorgd, waarvan ten hoogste zes werkdagen onmiddellijk aansluitend en ten hoogste vijf werkdagen niet onmiddellijk aansluitend voor of na de voor de school op grond van artikel 45, tweede lid, vastgestelde grote vakantie.   
+
 ### Artikel  13  
 
 ####Voorbereidend wetenschappelijk onderwijs
@@ -895,7 +904,11 @@ a. de doelen van het onderwijs en de resultaten die met het onderwijsleerproces 
 
 b. de wijze waarop de zorg voor leerlingen met specifieke onderwijsbehoeften wordt vormgegeven,  
 
-c. de wijze waarop de verplichte onderwijstijd wordt benut, de inrichting van het onderwijsprogramma voor de eerste twee leerjaren waarbij wordt aangegeven of sprake is van vakoverstijgende programmaonderdelen en de inzet van het personeel daarbij,  
+c. 
+
+1°. het totaal aantal uren en het soort activiteiten dat als onderwijstijd als bedoeld in artikel 12a, eerste lid, wordt geprogrammeerd, de vakanties en andere dagen waarop geen onderwijs wordt verzorgd, alsmede wat het beleid is ten aanzien van lesuitval,  
+
+2°. de inrichting van het onderwijsprogramma voor de eerste twee leerjaren waarbij wordt aangegeven of sprake is van vakoverstijgende programmaonderdelen en de inzet van het personeel daarbij,    
 
 d. de geldelijke bijdrage, bedoeld in artikel 64, vierde lid, waarbij een ontwerp van een overeenkomst voor een dergelijke bijdrage, die voldoet aan de eisen die in artikel 64, vierde lid, zijn geformuleerd, in de schoolgids wordt opgenomen,  
 
@@ -1077,7 +1090,7 @@ c. kan worden bepaald dat een in het eerste lid bedoelde leerling voor de toepas
 
 ### Artikel  64  
 
-####Toelating, verwijdering, voorwaardelijke bevordering en verblijfsduur
+####Toelating, verwijdering, voorwaardelijke bevordering; verblijfsduur praktijkonderwijs
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen voor elke soort van scholen of voor afdelingen van die scholen voorwaarden voor de toelating en voorschriften omtrent verwijdering en voorwaardelijke bevordering worden vastgesteld. De algemene maatregel van bestuur bedoeld in de eerste volzin houdt in elk geval voorschriften in met betrekking tot de voorwaarden voor de toelating tot de scholen, bedoeld in de artikelen 13, 14, 15 en 17. Definitieve verwijdering van een leerling waarop de [Leerplichtwet BES](../../../../../../wet-BES/leerplichtwet/bes/BWBR0030281/README.md) van toepassing is, vindt niet plaats dan nadat het bevoegd gezag ervoor heeft zorggedragen dat een andere school, dan wel een instelling als bedoeld in [artikel 1, onder c, van de Leerplichtwet BES](../../../../../../wet-BES/leerplichtwet/bes/BWBR0030281/README.md) bereid is de leerling toe te laten.   
 2.  Voor het volgen van een vorm van onderwijs als onderscheiden in artikel 6 aan een school wordt uitsluitend als leerling toegelaten degene waarvan de ouders aantonen, dan wel, indien hij meerderjarig en handelingsbekwaam is, degene die aantoont dat hij: 
@@ -1092,14 +1105,7 @@ d. vreemdeling is, niet meer voldoet aan een van de voorwaarden, genoemd onder b
 3.  Indien na de toelating tot de school blijkt dat deze op welke grond dan ook niet in overeenstemming met het tweede lid heeft plaatsgevonden, wordt de leerling onmiddellijk verwijderd.   
 4.  De toelating wordt niet afhankelijk gesteld van een andere dan een bij of krachtens de wet geregelde bijdrage. Overeenkomsten waarbij ouders worden verplicht tot het betalen van een geldelijke bijdrage zijn nietig, behoudens voor zover zij na de toelating van de leerling tot de school schriftelijk zijn aangegaan en in het desbetreffende schriftelijke stuk aan de ouders kenbaar is gemaakt dat het een vrijwillige bijdrage betreft waarvoor de overeenkomst niet behoeft te worden aangegaan, doch waarvoor geldt dat na de ondertekening wel een verplichting tot betaling van de overeengekomen bijdrage bestaat. Zodanige overeenkomsten zijn evenzeer nietig, indien deze niet hebben voorzien in de vermelding dat de ouders de mogelijkheid hebben er voor te kiezen om de overeenkomst slechts voor bepaalde voorzieningen aan te gaan en ten behoeve daarvan niet een specificatie voor de te onderscheiden voorzieningen in de overeenkomst is opgenomen. Zodanige overeenkomsten zijn voorts nietig indien ten aanzien daarvan geen reductie- en kwijtscheldingsregeling geldt en de inhoud van die regeling niet in de overeenkomst is opgenomen. Een overeenkomst wordt telkens voor de periode van een schooljaar aangegaan.   
 5.   Dit lid is nog niet in werking getreden.    
-6.   Dit lid is nog niet in werking getreden.    
-7.   Dit lid is nog niet in werking getreden.    
-8.   Dit lid is nog niet in werking getreden.    
-9.   Dit lid is nog niet in werking getreden.    
-10.   Dit lid is nog niet in werking getreden.    
-11.   Dit lid is nog niet in werking getreden.    
-12.   Dit lid is nog niet in werking getreden.    
-13.  Bij algemene maatregel van bestuur kunnen, in afwijking van [artikel 69, eerste lid, van de Wet administratieve rechtspraak BES](../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md), kortere termijnen dan in dat artikel vermeld, worden bepaald voor het op een bezwaarschrift te nemen besluit van het bevoegd gezag van een openbare school ter zake van de toelating en verwijdering van leerlingen.   
+6.  Bij algemene maatregel van bestuur kunnen, in afwijking van [artikel 69, eerste lid, van de Wet administratieve rechtspraak BES](../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md), kortere termijnen dan in dat artikel vermeld, worden bepaald voor het op een bezwaarschrift te nemen besluit van het bevoegd gezag van een openbare school ter zake van de toelating en verwijdering van leerlingen.   
 
 ### Artikel  65  
 
@@ -1223,7 +1229,7 @@ b. een ander bevoegd gezag van een school of instelling als bedoeld in artikel 6
 
 ####Eindexamens en diploma
 
-1.  Aan de leerlingen van de scholen voor voorbereidend wetenschappelijk onderwijs, voor hoger algemeen voortgezet onderwijs, voor middelbaar algemeen voortgezet onderwijs en voor voorbereidend beroepsonderwijs wordt gelegenheid gegeven aan deze scholen een eindexamen af te leggen, tenzij in de plaats daarvan de gelegenheid bestaat tot het afleggen van een eindexamen, dat niet vanwege de school wordt afgenomen en het bevoegd gezag in verband hiermede een eindexamen aan de school niet nodig oordeelt.   
+1.  Aan de leerlingen van de scholen voor voorbereidend wetenschappelijk onderwijs, voor hoger algemeen voortgezet onderwijs, voor middelbaar algemeen voortgezet onderwijs en voor voorbereidend beroepsonderwijs wordt gelegenheid gegeven aan deze scholen een eindexamen af te leggen, tenzij in de plaats daarvan de gelegenheid bestaat tot het afleggen van een eindexamen, dat niet vanwege de school wordt afgenomen en het bevoegd gezag in verband hiermede een eindexamen aan de school niet nodig oordeelt. Het eindexamen kan voor elk vak, intrasectoraal of intersectoraal programma of ander programma- onderdeel bestaan uit een schoolexamen, uit een centraal examen dan wel beide.   
 2.  Het eindexamen wordt afgenomen door de rector, de directeur, de conrector, de adjunct-directeur of een of meer leraren van de school. Het eindexamen staat onder toezicht van een of meer gecommitteerden behoudens voor bij of krachtens algemene maatregel van bestuur aan te wijzen examens en examenonderdelen. Bij of krachtens algemene maatregel van bestuur wordt bepaald door wie en op welke wijze de gecommitteerden worden aangewezen. Het eindexamen kan mede worden afgenomen door deskundigen. Het bevoegd gezag wijst de deskundigen aan.   
 3.  Zij die het eindexamen met goed gevolg hebben afgelegd, ontvangen een diploma. Leerlingen van een school voor voorbereidend beroepsonderwijs voor zover het betreft de basisberoepsgerichte leerweg, die met goed gevolg een gedeelte van het examenprogramma hebben afgelegd, ontvangen een getuigschrift voorbereidend middelbaar beroepsonderwijs en leerlingen die een leer-werktraject met goed gevolg afsluiten, ontvangen een diploma basisberoepsgerichte leerweg/leer-werktraject. Onze Minister stelt de modellen van diploma's en getuigschriften vast.   
 4.  Bij of krachtens algemene maatregel van bestuur worden voorschriften vastgesteld omtrent de in dit artikel bedoelde eindexamens, alsmede omtrent programmaonderdelen, die niet voor alle leerlingen van een school dezelfde vakken en andere programmaonderdelen behoeven te omvatten. Bij deze algemene maatregel van bestuur worden tevens de eindexamenprogramma's vastgesteld.   
@@ -1316,11 +1322,16 @@ c. niet krachtens rechterlijke uitspraak van het geven van onderwijs te zijn uit
 1°. de betrokkene in het kader van die opleiding met goed gevolg ten minste 30 studiepunten als bedoeld in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), heeft besteed aan voorbereiding op het geven van onderwijs in een met zijn opleiding inhoudelijk overeenkomend vak in die leerjaren, en  
 
 2°. is voldaan aan de bekwaamheidseisen, bedoeld in artikel 86, eerste lid, voor zover die van toepassing zijn op dat onderwijs.     
-3.  Bij ministeriële regeling bepaalt Onze Minister op grond van welke bacheloropleidingen als bedoeld in het eerste lid onderwijs verzorgd kan worden in daarbij aan te wijzen vakken.   
-4.  In bijzondere gevallen kan Onze Minister aan personen, die in een bepaald vak of onderdeel van een vak door buitengewone bekwaamheid uitmunten, ten aanzien van dit vak of dit onderdeel ontheffing verlenen van de in het eerste lid onder b gestelde eisen.   
-5.  Bij tijdelijke afwezigheid van een leraar kan ten aanzien van degene, die hem vervangt, telkens voor ten hoogste een jaar worden afgeweken van de eisen, gesteld in het eerste lid onder b. Indien in een vacature niet terstond kan worden voorzien door de benoeming of de tewerkstelling zonder benoeming van een leraar die aan de genoemde eisen voldoet, is het bepaalde in de vorige volzin van overeenkomstige toepassing.   
-6.  Degene die benoembaar of tewerkstelbaar zonder benoeming is voor enig vak, mag, onverminderd het zevende lid, door het bevoegd gezag gedurende ten hoogste twee jaren worden belast met werkzaamheden als leraar waarvoor hij niet voldoet aan de in artikel 86, eerste lid, bedoelde bekwaamheidseisen. Aan de eerste volzin wordt uitsluitend toepassing gegeven indien het bevoegd gezag en betrokkene in ieder geval schriftelijk hebben verklaard dat betrokkene verplicht is zich in te spannen om binnen twee jaren alsnog te voldoen aan de bekwaamheidseisen voor die werkzaamheden. Het bevoegd gezag kan de in de eerste volzin bedoelde termijn verlengen met ten hoogste twee jaren indien het bevoegd gezag dat noodzakelijk oordeelt vanwege de kwaliteit en de voortgang van het onderwijs aan de school. De tweede volzin is in dat geval van overeenkomstige toepassing. De inspectie kan op aanvraag van het bevoegd gezag toestaan dat in de eerste twee leerjaren wordt afgeweken van de eis, bedoeld in de tweede volzin.   
-7.  Indien in het onderwijsprogramma, bedoeld in artikel 35, sprake is van vakoverstijgende programmaonderdelen, kan in de eerste twee leerjaren worden gewerkt met teams die verantwoordelijk zijn voor de kwaliteit van het onderwijsprogramma voor die vakoverstijgende programmaonderdelen voor zover wordt voldaan aan de volgende voorwaarden: 
+3.  Indien het bevoegd gezag een leraar benoemt of tewerkstelt zonder benoeming voor het geven van praktijkonderwijs als bedoeld in artikel 31 in één of meer bij algemene maatregel van bestuur aan te wijzen vakken, volstaat in afwijking van het eerste lid, onderdeel b, onder 1°, het bezit van een getuigschrift krachtens de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), waaruit blijkt dat ten aanzien van schoolonderwijs als bedoeld in [artikel 3, eerste lid, van de Wet primair onderwijs BES](../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md) is voldaan aan de bekwaamheidseisen die zijn vastgesteld krachtens [artikel 35 van die wet](../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md).   
+4.  Bij ministeriële regeling wordt: 
+
+a. bepaald op grond van het getuigschrift van welke bacheloropleidingen als bedoeld in het tweede lid onderwijs verzorgd kan worden in daarbij aan te wijzen vakken;  
+
+b. ten aanzien van algemeen gebruikelijke vakken of programmaonderdelen, waarvoor op grond van een getuigschrift als bedoeld in het eerste lid, onderdeel b, onder 1°, niet rechtstreeks kan of kon worden vastgesteld dat wordt voldaan aan de voor die vakken of programmaonderdelen geldende bekwaamheidseisen, een overzicht gegeven van getuigschriften waarmee wordt voldaan aan de bekwaamheidseisen die gelden voor het geven van voortgezet onderwijs in die vakken of programmaonderdelen. In het overzicht kunnen eisen worden opgenomen omtrent bij- of nascholing.     
+5.  In bijzondere gevallen kan Onze Minister aan personen, die in een bepaald vak of onderdeel van een vak door buitengewone bekwaamheid uitmunten, ten aanzien van dit vak of dit onderdeel ontheffing verlenen van de in het eerste lid onder b gestelde eisen.   
+6.  Bij tijdelijke afwezigheid van een leraar kan ten aanzien van degene die hem vervangt voor ten hoogste twaalf maanden worden afgeweken van de eisen, gesteld in het eerste lid, onderdeel b, met dien verstande dat de periode van twaalf maanden is verstreken vanaf de dag dat perioden van vervanging als bedoeld in dit lid elkaar met tussenpozen van niet meer dan drie maanden hebben opgevolgd en een periode van twaalf maanden, deze tussenpozen inbegrepen, is overschreden. Indien in een vacature niet terstond kan worden voorzien door de benoeming of tewerkstelling zonder benoeming van een leraar die aan de genoemde eisen voldoet, is het bepaalde in de vorige volzin van overeenkomstige toepassing. Deze termijn van een jaar kan met ten hoogste twee jaren worden verlengd indien het bevoegd gezag en de betrokkene schriftelijk verklaren dat betrokkene verplicht is zich in te spannen binnen twee jaren alsnog te voldoen aan de eisen gesteld in het eerste lid, onderdeel b. Het bevoegd gezag kan onder de voorwaarden, genoemd in de vorige volzin, een verlenging van nog eens twee jaren geven indien het dat noodzakelijk oordeelt vanwege de kwaliteit en de voortgang van het onderwijs op de school.   
+7.  Degene die benoembaar of tewerkstelbaar zonder benoeming is voor enig vak, mag, onverminderd het achtste lid, door het bevoegd gezag gedurende ten hoogste twee jaren worden belast met werkzaamheden als leraar waarvoor hij niet voldoet aan de in artikel 86, eerste lid, bedoelde bekwaamheidseisen. Aan de eerste volzin wordt uitsluitend toepassing gegeven indien het bevoegd gezag en betrokkene in ieder geval schriftelijk hebben verklaard dat betrokkene verplicht is zich in te spannen om binnen twee jaren alsnog te voldoen aan de bekwaamheidseisen voor die werkzaamheden. Het bevoegd gezag kan de in de eerste volzin bedoelde termijn verlengen met ten hoogste twee jaren indien het bevoegd gezag dat noodzakelijk oordeelt vanwege de kwaliteit en de voortgang van het onderwijs aan de school. De tweede volzin is in dat geval van overeenkomstige toepassing. De inspectie kan op aanvraag van het bevoegd gezag toestaan dat in de eerste twee leerjaren wordt afgeweken van de eis, bedoeld in de tweede volzin.   
+8.  Indien in het onderwijsprogramma, bedoeld in artikel 35, sprake is van vakoverstijgende programmaonderdelen, kan in de eerste twee leerjaren worden gewerkt met teams die verantwoordelijk zijn voor de kwaliteit van het onderwijsprogramma voor die vakoverstijgende programmaonderdelen voor zover wordt voldaan aan de volgende voorwaarden: 
 
 a. leraren die deel uitmaken van een team voldoen ieder aan bekwaamheidseisen als bedoeld in artikel 86, eerste lid, waarbij de leraren in het team als geheel beschikken over de bekwaamheidseisen voor de vakken die zijn betrokken bij het vakoverstijgende programmaonderdeel,  
 
@@ -1331,20 +1342,20 @@ c. het onderwijs in het desbetreffende vakoverstijgende programmaonderdeel kan w
 1°. leden van het team, en  
 
 2°. andere leraren die daartoe naar het oordeel van het bevoegd gezag geschikt zijn. Daarbij stelt het bevoegd gezag, de opvattingen van de leden van het team in aanmerking nemend, vast of de inhoudelijke of didactische kennis en vaardigheden van deze leraren voldoende zijn. Indien dat niet het geval is, wordt eveneens vastgesteld hoe hierin alsnog wordt voorzien. Het bevoegd gezag legt dit vast in de geordende gegevens, bedoeld in artikel 88.       
-8.  Bij toepassing van het zevende lid is het vijfde lid van overeenkomstige toepassing.   
-9.  Het bevoegd gezag beschikt over geordende gegevens over de toepassing van het derde lid, de eerste volzin van het zesde lid, het zevende lid en het achtste lid.   
-10.  Het eerste lid is niet van toepassing op een leraar, in zoverre deze belast is met het verrichten van werkzaamheden in verband met contractactiviteiten.   
-11.  Bij algemene maatregel van bestuur worden ten aanzien van leraren die in vaste dienst zijn verbonden aan een school, bedoeld in de artikelen 13, 14, 15, 17 en 31, regelen gesteld omtrent de gronden waarop en de procedure volgens welke kan worden afgeweken van het eerste lid, onderdeel b.   
-12.  Onverminderd het vijfde tot en met achtste lid en het elfde lid en artikel 85 kan ten aanzien van studenten die: 
+9.  Bij toepassing van het achtste lid is het zesde lid van overeenkomstige toepassing.   
+10.  Het bevoegd gezag beschikt over geordende gegevens over de toepassing van het vijfde lid, de eerste volzin van het zevende lid, het achtste lid en het negende lid.   
+11.  Het eerste lid is niet van toepassing op een leraar, in zoverre deze belast is met het verrichten van werkzaamheden in verband met contractactiviteiten.   
+12.  Bij algemene maatregel van bestuur worden ten aanzien van leraren die in vaste dienst zijn verbonden aan een school, bedoeld in de artikelen 13, 14, 15, 17 en 31, regelen gesteld omtrent de gronden waarop en de procedure volgens welke kan worden afgeweken van het eerste lid, onderdeel b.   
+13.  Onverminderd het zesde tot en met negende lid en het twaalfde lid en artikel 85 kan ten aanzien van studenten die: 
 
 a. aan een hogeschool een duale opleiding volgen als bedoeld in [artikel 7.7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en aan die opleiding ten minste 180 studiepunten hebben behaald, dan wel  
 
 b. een duale opleiding als bedoeld in dat artikel aan een universiteit volgen tot leraar voortgezet onderwijs ten behoeve van het geven van het onderwijs waarvoor de desbetreffende opleiding opleidt tot het daarvoor vereiste getuigschrift, worden afgeweken van de eisen in het eerste lid onder b, met dien verstande dat het tijdelijk dienstverband van de student een periode beslaat die overeenkomt met een volledig dienstverband van vijf maanden. De vorige volzin is van overeenkomstige toepassing ten aanzien van studenten die ten minste 166 doch nog geen 180 studiepunten hebben behaald, indien door de desbetreffende hogeschool wordt verklaard dat de student beschikt over met 180 studiepunten vergelijkbare en tevens voor het dienstverband relevante kennis, inzicht en vaardigheden. De toepassing van de vorige volzin vervalt ten aanzien van die student die niet binnen vier weken na aanvang van het dienstverband over 180 studiepunten beschikt. De in [artikel 7.7, vijfde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) bedoelde overeenkomst vermeldt tevens de leraar onder wiens verantwoordelijkheid de betrokken student werkzaamheden van onderwijskundige aard verricht.     
-13.  Het twaalfde lid is, behoudens de eis van verblijf in het laatste jaar van de opleiding, van overeenkomstige toepassing ten aanzien van studenten van een universitaire lerarenopleiding, met dien verstande dat afwijking bij de voltijdse vorm van die opleiding mogelijk is voor ten hoogste de periode van een schooljaar waarin onderwijs wordt gegeven, en bij de deeltijdse vorm van die opleiding voor ten hoogste twee jaren.   
-14.  Bij algemene maatregel van bestuur kunnen, zo nodig afwijkende, regels worden gesteld met betrekking tot de toepassing van het eerste lid ten aanzien van het verzorgen van door het bevoegd gezag vastgestelde vakken en andere programmaonderdelen, behoudens godsdienstonderwijs en levensbeschouwelijk vormingsonderwijs.   
-15.  In geval van een geschiktheidsverklaring als bedoeld in artikel 197 vindt de benoeming of tewerkstelling zonder benoeming plaats voor een periode van ten hoogste twee aaneengesloten schooljaren. Het bevoegd gezag kan deze benoemingsperiode, al dan niet onder door dat gezag te stellen voorwaarden, verlengen met ten hoogste twee jaren indien het bevoegd gezag daarvoor redenen aanwezig acht. Het bevoegd gezag beschikt over geordende gegevens met betrekking tot de toepassing van de tweede volzin. Het bevoegd gezag dat betrokkene voor de eerste maal na afgifte van de geschiktheidsverklaring benoemt of tewerkstelt zonder benoeming, tekent het feit en de datum van benoeming of tewerkstelling zonder benoeming aan op die verklaring.   
-16.  Het bevoegd gezag kan afwijken van het eerste lid, onder b, ten aanzien van degene die gelet op specifieke kennis en bekwaamheden, samenhangend met ervaringen en werkzaamheden in andere sectoren van de samenleving en het bedrijfsleven, naar het oordeel van het bevoegd gezag voldoende bekwaam is om onder verantwoordelijkheid van een daartoe door het bevoegd gezag aan te wijzen leraar voor een beperkte betrekkingsomvang te worden belast met een uitsluitend lesgevende taak voor vakken waar die specifieke kennis en bekwaamheden in het bijzonder betrekking op hebben. De betrekkingsomvang is voor het totaal van de in de eerste volzin bedoelde lesgevende taken ten hoogste een aantal van op jaarbasis gemiddeld 4 klokuren per week.   
-17.  Onze Minister kan met betrekking tot een vak of ander programmaonderdeel waarvoor niet met een getuigschrift afgegeven krachtens de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) kan worden aangetoond dat betrokkene voldoet aan de bekwaamheidseisen, bedoeld in artikel 86, eerste lid, verklaren dat een leraar wordt geacht bij benoeming of tewerkstelling zonder benoeming te voldoen aan de bekwaamheidseisen tot het geven van voortgezet onderwijs in dat vak of dat andere programmaonderdeel.   
+14.  Het dertiende lid is, behoudens de eis van verblijf in het laatste jaar van de opleiding, van overeenkomstige toepassing ten aanzien van studenten van een universitaire lerarenopleiding, met dien verstande dat afwijking bij de voltijdse vorm van die opleiding mogelijk is voor ten hoogste de periode van een schooljaar waarin onderwijs wordt gegeven, en bij de deeltijdse vorm van die opleiding voor ten hoogste twee jaren.   
+15.  Bij algemene maatregel van bestuur kunnen, zo nodig afwijkende, regels worden gesteld met betrekking tot de toepassing van het eerste lid ten aanzien van het verzorgen van door het bevoegd gezag vastgestelde vakken en andere programmaonderdelen, behoudens godsdienstonderwijs en levensbeschouwelijk vormingsonderwijs.   
+16.  In geval van een geschiktheidsverklaring als bedoeld in artikel 197 vindt de benoeming of tewerkstelling zonder benoeming plaats voor een periode van ten hoogste twee aaneengesloten schooljaren. Het bevoegd gezag kan deze benoemingsperiode, al dan niet onder door dat gezag te stellen voorwaarden, verlengen met ten hoogste twee jaren indien het bevoegd gezag daarvoor redenen aanwezig acht. Het bevoegd gezag beschikt over geordende gegevens met betrekking tot de toepassing van de tweede volzin. Het bevoegd gezag dat betrokkene voor de eerste maal na afgifte van de geschiktheidsverklaring benoemt of tewerkstelt zonder benoeming, tekent het feit en de datum van benoeming of tewerkstelling zonder benoeming aan op die verklaring.   
+17.  Het bevoegd gezag kan afwijken van het eerste lid, onder b, ten aanzien van degene die gelet op specifieke kennis en bekwaamheden, samenhangend met ervaringen en werkzaamheden in andere sectoren van de samenleving en het bedrijfsleven, naar het oordeel van het bevoegd gezag voldoende bekwaam is om onder verantwoordelijkheid van een daartoe door het bevoegd gezag aan te wijzen leraar voor een beperkte betrekkingsomvang te worden belast met een uitsluitend lesgevende taak voor vakken waar die specifieke kennis en bekwaamheden in het bijzonder betrekking op hebben. De betrekkingsomvang is voor het totaal van de in de eerste volzin bedoelde lesgevende taken ten hoogste een aantal van op jaarbasis gemiddeld 4 klokuren per week.   
+18.  Onze Minister kan met betrekking tot een vak of ander programmaonderdeel waarvoor niet met een getuigschrift afgegeven krachtens de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) kan worden aangetoond dat betrokkene voldoet aan de bekwaamheidseisen, bedoeld in artikel 86, eerste lid, en waarvoor de bekwaamheid evenmin blijkt uit de regeling, bedoeld in het vierde lid, onderdeel b, verklaren dat een leraar wordt geacht bij benoeming of tewerkstelling zonder benoeming te voldoen aan de bekwaamheidseisen tot het geven van voortgezet onderwijs in dat vak of dat andere programmaonderdeel.   
 
 ### Artikel  81  
 
@@ -1635,7 +1646,7 @@ b. zijn bekwaamheid onderhoudt.
 
 ### Hoofdstuk  III  
 
-####Overige voorwaarden voor bekostiging uit de openbarekas van het bijzonder schoolonderwijs
+####Overige voorwaarden voor bekostiging uit de openbare kas van het bijzonder schoolonderwijs
 
 ### Artikel  104  
 
@@ -1710,7 +1721,7 @@ h. de bevoegdheid de stichting te ontbinden, met dien verstande dat in de regeli
 
 ### Afdeling  II  
 
-####Niet uit de openbare kas bekostigd bijzonder onderwijs
+####Niet uit de openbare kas bekostigd bijzonder schoolonderwijs
 
 ### Artikel  110  
 
@@ -1722,7 +1733,7 @@ Het bestuur van een bijzondere school voor voortgezet onderwijs geeft binnen vie
 
 ####Bekwaamheids- en zedelijkheidseisen personeel
 
-1.  Algemeen voortgezet onderwijs wordt slechts gegeven door wie voldoet aan artikel 80, eerste lid. Artikel 80, vierde tot en met zevende en vijftiende en zestiende lid, is van overeenkomstige toepassing.   
+1.  Algemeen voortgezet onderwijs wordt slechts gegeven door wie voldoet aan artikel 80, eerste lid. De artikelen 80, tweede tot en met achtste en zestiende tot en met achttiende lid, alsmede 81 zijn van overeenkomstige toepassing.   
 2.  Onderwijsondersteunende werkzaamheden als bedoeld in artikel 86, derde lid, worden met betrekking tot het algemeen voortgezet onderwijs slechts verricht door wie voldoet aan artikel 84, eerste lid. Artikel 84, derde en vierde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  112  
@@ -1755,6 +1766,25 @@ c. de statuten en het reglement van de rechtspersoon met volledige rechtsbevoegd
 4.  De naam van de school duidt aan, met welke van de uit de openbare kas bekostigde scholen zij overeenkomt.   
 5.  De voorwaarden voor de toelating tot de school zijn ten minste gelijk aan die, vastgesteld krachtens artikel 64, eerste tot en met derde lid.   
 
+### Artikel  114a  
+
+####Samenwerking met vavo
+
+1.  Het bevoegd gezag van een ingevolge artikel 112 aangewezen school kan leerlingen in de gelegenheid stellen in het kader van het onderwijs waarvoor zij aan de school zijn ingeschreven deel te nemen aan een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in [artikel 7.3.1, eerste lid, onder a, van de Wet educatie en beroepsonderwijs BES](../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md) die is erkend op grond van [artikel 1.4.2 van de Wet educatie en beroepsonderwijs BES](../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md), en die opleiding met een examen af te sluiten.   
+2.  Het eerste lid vindt uitsluitend toepassing met het doel leerlingen met bijzondere kenmerken beter in staat te stellen een diploma als bedoeld in deze wet te behalen.   
+3.  Toepassing van het eerste lid berust op een samenwerkingsovereenkomst, gesloten tussen het bevoegd gezag, bedoeld in het eerste lid, en het bevoegd gezag van de instelling die de in het eerste lid bedoelde opleiding verzorgt. De samenwerkingsovereenkomst omvat in elk geval: 
+
+a. het doel van de samenwerking,  
+
+b. de doelgroep,  
+
+c. de wijze waarop wordt nagegaan of het doel wordt bereikt,  
+
+d. het onderwijsprogramma dat volgens de samenwerking wordt vormgegeven, en  
+
+e. een regeling voor de beslechting van geschillen tussen partijen over de uitvoering van de overeenkomst.     
+4.  Bij algemene maatregel van bestuur wordt nader geregeld voor welke leerlingen en onder welke voorwaarden het eerste lid toepassing kan vinden.   
+
 ### Artikel  115  
 
 ####Intrekken aanwijzing
@@ -1769,7 +1799,7 @@ Onze Minister kan de aanwijzing intrekken, indien niet langer wordt voldaan aan 
 
 ####Staatsexamens
 
-1.  Jaarlijks geeft het College voor examens gelegenheid om door het met gunstig gevolg afleggen van een staatsexamen, een diploma te verkrijgen, overeenkomende met een diploma van een school voor voorbereidend wetenschappelijk onderwijs, voor hoger algemeen voortgezet onderwijs en voor middelbaar algemeen voortgezet onderwijs, als bedoeld in artikel 72, eerste lid.   
+1.  Jaarlijks geeft het College voor examens gelegenheid om door het met gunstig gevolg afleggen van een staatsexamen, een diploma te verkrijgen, overeenkomende met een diploma van een school voor voorbereidend wetenschappelijk onderwijs, voor hoger algemeen voortgezet onderwijs, voor middelbaar algemeen voortgezet onderwijs en voor voorbereidend beroepsonderwijs, als bedoeld in artikel 72, eerste lid.   
 2.  Bij algemene maatregel van bestuur wordt bepaald, welke andere diploma's kunnen worden verkregen door het met gunstig gevolg afleggen van een staatsexamen voor het College voor examens.   
 3.  Zij, die zijn afgewezen bij het eindexamen van een school, worden niet toegelaten tot het in hetzelfde jaar te houden overeenkomstige staatsexamen.   
 4.  De staatsexamens zijn openbaar, behoudens het schriftelijke gedeelte.   
@@ -2792,6 +2822,34 @@ c. de procedure voor het aanvragen van het geschiktheidsonderzoek en voor afgift
 
 Het in artikel 200 en het in artikel 202 bedoelde bestuur verstrekken aan Onze Minister alle inlichtingen die deze nodig acht ten behoeve van een goede naleving van deze titel. Het bestuur zendt de inspectie van het onderwijs telkens na zes maanden een overzicht van in die periode afgegeven geschiktheidsverklaringen en bekwaamheidsonderzoeken waaraan met goed gevolg is deelgenomen.  
 
+### Titel  Va  
+
+####Experimenten
+
+### Artikel  205a  
+
+#### *Ruimte voor innovatie* 
+
+1.  Met het oog op verbetering van de kwaliteit, toegankelijkheid of doelmatigheid van het voortgezet onderwijs kan bij wijze van experiment bij algemene maatregel van bestuur worden afgeweken van titel II, afdeling I, hoofdstuk I en van titel III, afdeling III, van de wet.   
+2.  In geval van toepassing van het eerste lid wordt bij algemene maatregel van bestuur in elk geval bepaald: 
+
+a. het doel van het experiment,  
+
+b. op welke wijze van welke artikelen van het in het eerste lid genoemde hoofdstuk en de daar genoemde afdeling wordt afgeweken,  
+
+c. de duur van het experiment, en  
+
+d. op welke wijze en aan de hand van welke criteria de met het experiment beoogde effecten worden geëvalueerd.     
+3.  Bij ministeriële regeling kunnen regels worden gesteld over de uitvoering van een experiment.   
+4.  Een experiment duurt ten hoogste zes jaar, tenzij een langere duur gezien de bijzondere aard van het experiment noodzakelijk is. Alsdan wordt de duur van het experiment op ten hoogste acht jaar bepaald. Indien een voorstel van wet is ingediend bij de Staten-Generaal om het experiment om te zetten in een structurele wettelijke regeling voordat een experiment is afgelopen, kan Onze Minister het experiment verlengen tot het tijdstip waarop het wetsvoorstel tot wet is verheven en in werking treedt.   
+5.  Onze Minister zendt drie maanden voor het einde van de werkingsduur van een algemene maatregel van bestuur als bedoeld in het eerste lid aan de Staten-Generaal, een verslag over de doeltreffendheid en de effecten van het experiment in de praktijk, evenals een standpunt over de voortzetting van die algemene maatregel van bestuur, anders dan een voortzetting als experiment.   
+6.  In verband met een experiment als bedoeld in het eerste lid, kan bij algemene maatregel van bestuur eveneens bij wijze van experiment worden afgeweken van: 
+
+a. artikel 1 van de Leerplichtwet BES,  
+
+b. artikel 1.1 van de Wet studiefinanciering BES.     
+7.  Dit artikel is van overeenkomstige toepassing op een samenwerkingsverband van een school met een school als bedoeld in artikel 1, een school als bedoeld in de Wet primair onderwijs BES, of een instelling als bedoeld in de Wet educatie en beroepsonderwijs BES. Bij samenwerking met een school of instelling kan voor die school, instelling of uitvoeringsinstantie respectievelijk worden afgeweken van hoofdstuk I, titel I, artikelen 1 en 2, titel II, afdeling 1 en afdeling 2, artikelen 53 en 54 en titel III, afdeling 1, 2, 4 tot en met 6, afdeling 7, paragrafen 2, 3, 6 en 7, en afdeling 8, paragraaf 1, van de Wet primair onderwijs BES, dan wel hoofdstuk 2, titel 2, en de hoofdstukken 6 en 7 van de Wet educatie en beroepsonderwijs BES. Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, wordt geregeld welke bij of krachtens de wet, de Wet primair onderwijs BES of de Wet educatie en beroepsonderwijs BES vastgestelde voorschriften van toepassing of van overeenkomstige toepassing zijn op de samenwerking.   
+
 ### Titel  VI  
 
 ####Overgangsbepalingen
@@ -2878,6 +2936,19 @@ Wijzigt deze wet.
 ####Continueren oude bepalingen voor zover de nieuwe nog niet in werking treden
 
 Tot een bij koninklijk besluit te bepalen tijdstip blijven de bepalingen van de Wet voortgezet onderwijs BES zoals die is komen te luiden op 10 oktober 2010, van kracht voor zover de regeling van de daarin opgenomen onderwerpen niet is vervangen door de inwerkingtreding van overeenkomstige onderwerpen in deze wet.  
+
+### Artikel  214b  
+
+####Overgangsrecht [Wet op de beroepen in het onderwijs](../../../../../../wet/wet/op/de/beroepen/in/het/onderwijs/BWBR0016944/README.md) inzake brede benoembaarheid leraren omgangskunde
+
+1.  Personen die in het bezit zijn van een getuigschrift, afgegeven krachtens de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), waaruit blijkt dat ten aanzien van het vak omgangskunde is voldaan aan de bekwaamheidseisen die zijn vastgesteld krachtens artikel 86, eerste lid, zijn tevens benoembaar of tewerkstelbaar zonder benoeming voor het geven van praktijkonderwijs als bedoeld in artikel 31 en voor het geven van onderwijs aan groepen van uitsluitend geïndiceerde leerlingen in het leerwegondersteunend onderwijs, bedoeld in artikel 30, in de vakken Nederlands, Engels, wiskunde, geschiedenis, aardrijkskunde, biologie (incl. kennis der natuur), verzorging, muziek, handvaardigheid (textiele werkvormen) en tekenen.   
+2.  Het eerste lid is uitsluitend van toepassing ten aanzien van personen die: 
+
+a. het in het eerste lid bedoelde getuigschrift hebben behaald na 1 augustus 2006;  
+
+b. voor 1 september 2012 zijn gestart met de opleiding tot leraar voortgezet onderwijs van de tweede graad in het vak omgangskunde aan de Fontys Hogeschool Tilburg, de NHL Hogeschool, de Hogeschool Leiden of de Hogeschool Utrecht; en  
+
+c. uiterlijk op 31 augustus 2016 met goed gevolg de aanvullende opleiding «Leergang omgangskunde in praktijkonderwijs en leerwegondersteunend onderwijs» met een omvang van ten minste 420 uren studie hebben afgerond aan een van de in onderdeel b genoemde hogescholen.     
 
 ### Titel  VII  
 
