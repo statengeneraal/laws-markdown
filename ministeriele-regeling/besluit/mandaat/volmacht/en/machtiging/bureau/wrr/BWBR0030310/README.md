@@ -3,12 +3,12 @@
 ##Besluit van de secretaris/directeur van de Wetenschappelijke Raad voor het Regeringsbeleid van 12 juli 2011, nr. 3599432, houdende mandaat, volmacht en machtiging aan functionarissen binnen het bureau van de Wetenschappelijke Raad voor het Regeringsbeleid
 
 De secretaris/directeur van de Wetenschappelijke Raad voor het Regeringsbeleid,  
-Gelet op de [artikelen 7](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/algemene/zaken/BWBR0030304/README.md) en [10 van het Besluit mandaat, volmacht en machtiging Algemene Zaken](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/algemene/zaken/BWBR0030304/README.md);
+Gelet op de artikelen 7 en 10 van het Besluit mandaat, volmacht en machtiging Algemene Zaken;
 Besluit:    
 
 ### Artikel  1  
 
-1.  De secretaris/directeur van de Wetenschappelijke Raad voor het Regeringsbeleid verleent de aan hem krachtens de [artikelen 7](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/algemene/zaken/BWBR0030304/README.md) en [9 van het Besluit mandaat, volmacht en machtiging Algemene Zaken](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/algemene/zaken/BWBR0030304/README.md) verleende bevoegdheden aan een rechtstreeks onder hem ressorterende functionaris door middel van een schriftelijke aanwijzing.   
+1.  De secretaris/directeur van de Wetenschappelijke Raad voor het Regeringsbeleid verleent de aan hem krachtens de artikelen 7 en 9 van het Besluit mandaat, volmacht en machtiging Algemene Zaken verleende bevoegdheden aan de adviseur/procesmanager.   
 2.  De krachtens het eerste lid aangewezen functionaris van het bureau van de Wetenschappelijke Raad voor het Regeringsbeleid maakt van de in het eerste lid aan hem verleende bevoegdheden uitsluitend gebruik: 
 
 a. bij afwezigheid van de secretaris/directeur van de Wetenschappelijke Raad voor het Regeringsbeleid;  
@@ -17,15 +17,17 @@ b. in andere gevallen voor zover het aangelegenheden betreft die door de secreta
 
 ### Artikel  2  
 
-De aan de secretaris/directeur van de Wetenschappelijk Raad voor het Regeringsbeleid krachtens de [artikelen 7](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/algemene/zaken/BWBR0030304/README.md) en [9 van het Besluit mandaat, volmacht en machtiging Algemene Zaken](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/algemene/zaken/BWBR0030304/README.md) verleende bevoegdheden tot het nemen van beslissingen op het gebied van personeelsbeleid, waaronder inbegrepen aanstelling, schorsing en beloningen, worden verleend aan de programmamanager en het hoofd Communicatie, voor de onder hen ressorterende functionarissen.  
+De aan de secretaris/directeur van de Wetenschappelijk Raad voor het Regeringsbeleid krachtens de artikelen 7 en 9 van het Besluit mandaat, volmacht en machtiging Algemene Zaken verleende bevoegdheden tot het nemen van beslissingen op het gebied van personeelsbeleid, waaronder inbegrepen aanstelling, schorsing en beloningen, worden verleend aan het hoofd Communicatie, voor de onder hem ressorterende functionarissen.  
 
 ### Artikel  3  
 
-Voornoemde bevoegdheden worden nader bepaald door en uitgeoefend met inachtneming van: 
+1.  Het hoofd Communicatie wordt volmacht en machtiging verstrekt tot het verrichten van handelingen waarmede een bedrag is gemoeid dat per geval vijfduizend euro niet te boven gaat en waarvoor financiële dekking is vanuit het prestatieplan.   
+2.  De functionaris zoals bedoeld in het eerste lid maakt van de aan hem verleende volmacht en machtiging uitsluitend gebruik voor zover het aangelegenheden betreffen die behoren tot zijn werkterrein en naar aard en inhoud niet een zodanig gewicht hebben dat deze behoren te worden afgedaan door de secretaris/directeur.   
+3.  De bevoegdheden worden nader bepaald door en uitgeoefend met inachtneming van: 
 
-a. departementale procedures, richtlijnen en aanwijzingen;  
+a. Departementale procedures, richtlijnen en aanwijzingen;  
 
-b. aanvullende procedures en instructies van de secretaris/directeur van de Wetenschappelijke Raad voor het Regeringsbeleid.    
+b. Aanvullende procedures en instructies van de secretaris/directeur van de Wetenschappelijke Raad voor het Regeringsbeleid.     
 
 ### Artikel  4  
 
@@ -36,7 +38,7 @@ b. aanvullende procedures en instructies van de secretaris/directeur van de Wete
 
 ### Artikel  5  
 
-Het [Besluit mandaat, volmacht en machtiging Bureau WRR 2009](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/bureau/wrr/2009/BWBR0027533/README.md) van 2 maart 2010 wordt ingetrokken.  
+Het Besluit mandaat, volmacht en machtiging Bureau WRR 2009 van 2 maart 2010 wordt ingetrokken.  
 
 ### Artikel  6  
 

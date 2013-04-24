@@ -12,7 +12,7 @@ a. *minister:* de minister-president, minister van Algemene Zaken;
 
 b. *ministerie:* het Ministerie van Algemene Zaken;  
 
-c. *dienst:* Kabinet Minister-President, secretariaat Ministerraad, Directoraat-Generaal Rijksvoorlichtingsdienst, Dienst Publiek en Communicatie, Bureau van de Wetenschappelijke Raad voor het Regeringsbeleid, Directie Bedrijfsvoering, eenheid FEZ-Control;  
+c. *dienst:* Kabinet Minister-President, secretariaat Ministerraad, Directoraat-Generaal Rijksvoorlichtingsdienst, Dienst Publiek en Communicatie, Bureau van de Wetenschappelijke Raad voor het Regeringsbeleid, Directie Bedrijfsvoering, Directie Concerncontrol;  
 
 d. *diensthoofd:* degene die is belast met de leiding van een dienst;  
 
@@ -65,7 +65,7 @@ d. beslissingen over aanstelling, schorsing en ontslag van individuele onder de 
 
 e. het volledig ter beschikking stellen van individuele functionarissen en secretariële voorzieningen ten behoeve van de Wetenschappelijke Raad voor het Regeringsbeleid en de kabinets(in)formatie;  
 
-f. het budgethouderschap als bedoeld in [artikel 22, tweede lid, van de Comptabiliteitswet 2001](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md);  
+f. het budgethouderschap als bedoeld in artikel 22, tweede lid, van de Comptabiliteitswet 2001;  
 
 g. aangelegenheden betreffende de hoofdlijnen van het binnen het ministerie te voeren financiële beleid, waaronder begrepen: 
 
@@ -134,13 +134,11 @@ a. de directeur Bedrijfsvoering:
 
 3°. het nemen van besluiten in aangelegenheden betreffende de brandpreventie bij alle gebouwen en vitale objecten van het ministerie;  
 
-4°. het nemen van besluiten , verband houdend met de coördinatie van de inkoop;  
+4°. het nemen van besluiten, inhoudende de beveiliging van digitale informatie;  
 
-5°. het nemen van besluiten, inhoudende de beveiliging van digitale informatie;  
+5°. het nemen van besluiten tot vaststelling van de digitale archiefcodes;  
 
-6°. het nemen van besluiten tot vaststelling van de digitale archiefcodes;  
-
-7°. de uitvoering van het informatie- en communicatietechnologiebeleid;    
+6°. de uitvoering van het informatie- en communicatietechnologiebeleid;    
 
 b. de directeur-generaal Rijksvoorlichtingsdienst: het nemen van besluiten betreffende het protocol inzake contacten van de minister en de secretaris-generaal met belangrijke binnen- en buitenlandse gasten en relaties.    
 
@@ -148,17 +146,17 @@ b. de directeur-generaal Rijksvoorlichtingsdienst: het nemen van besluiten betre
 
 1.  Op grond van het krachtens artikel 7 verleende mandaat, neemt een diensthoofd eerst een besluit na daartoe verkregen instemming van: 
 
-a. de directeur Bedrijfsvoering ten aanzien van de volgende aangelegenheden: 
+a. de unitmanager Personeel en Organisatie ten aanzien van de volgende aangelegenheden: 
 
 1°. aangelegenheden waarbij wordt afgeweken van de hoofdlijnen van het vastgestelde personeelsbeleid voor het ministerie;  
 
 2°. het verlenen van buitengewoon verlof voor langere duur en bijzonder verlof;  
 
-3°. het nemen van disciplinaire maatregelen en het opleggen van een schorsing ([hoofdstuk VIII](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en de [artikelen 90](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [91](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [92 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md));  
+3°. het nemen van disciplinaire maatregelen en het opleggen van een schorsing (hoofdstuk VIII en de artikelen 90, 91 en 92 van het ARAR);  
 
-4°. het verlenen van ontslag op grond van de [artikelen 96](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [98](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [99 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).    
+4°. het verlenen van ontslag op grond van de artikelen 96, 98 en 99 van het ARAR.    
 
-b. het hoofd FEZ-Control ten aanzien van verplichtingen en bestedingen welke deze expliciet in het kader van de door deze afdeling uit te oefenen toezichthoudende taak voor voorafgaand toezicht heeft aangemerkt.     
+b. de directeur Concerncontrol ten aanzien van verplichtingen en bestedingen welke deze expliciet in het kader van de door deze directie uit te oefenen toezichthoudende taak voor voorafgaand toezicht heeft aangemerkt.     
 2.  Bij de uitoefening van het aan hem verleende mandaat neemt een diensthoofd tevens de departementale procedures, richtlijnen en aanwijzingen in acht.   
 
 ### Artikel  10  
@@ -182,7 +180,7 @@ b. een andere onder hem ressorterende functionaris.
 
 ### Artikel  12  
 
-Het [Besluit mandaat, volmacht en machtiging Algemene Zaken 2009](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/algemene/zaken/2009/BWBR0027296/README.md) van 9 februari 2010 wordt ingetrokken.  
+Het Besluit mandaat, volmacht en machtiging Algemene Zaken 2009 van 9 februari 2010 wordt ingetrokken.  
 
 ### Artikel  13  
 

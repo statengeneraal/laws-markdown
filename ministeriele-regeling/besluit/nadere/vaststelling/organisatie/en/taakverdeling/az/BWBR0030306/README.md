@@ -3,7 +3,7 @@
 ##Besluit nadere vaststelling organisatie en taakverdeling AZ
 
 De Minister-President, Minister van Algemene Zaken,  
-Gelet op het [Besluit Organisatiestructuur van Algemene Zaken](../../../../../../../../../ministeriele-regeling/besluit/organisatiestructuur/ministerie/van/algemene/zaken/BWBR0030307/README.md) van 12 juli 2011;
+Gelet op het Besluit Organisatiestructuur van Algemene Zaken van 12 juli 2011;
 
 Overwegende dat een duidelijke organisatie en toewijzing van taken binnen het ministerie van Algemene Zaken van belang is voor de bedrijfsvoering;
 Besluit:    
@@ -18,7 +18,7 @@ a. Adviseren en ondersteunen van de Minister-President, Minister van Algemene Za
 
 b. Verzorgen van het secretariaat van de Raad van Ministers, alsmede de secretariaten van de onderraden, indachtig het reglement van de orde van de Ministerraad (ROMR);  
 
-c. Coördinatie van aangelegenheden met betrekking tot de Inlichtingen- en Veiligheidsdiensten. Zoals bedoeld in de [Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md).    
+c. Coördinatie van aangelegenheden met betrekking tot de Inlichtingen- en Veiligheidsdiensten. Zoals bedoeld in de Wet op de inlichtingen- en veiligheidsdiensten 2002.    
 
 ### Artikel  2  
 
@@ -40,7 +40,7 @@ e. afstemming en coördinatie van actuele perscontacten;
 
 f. verzorging interne communicatie binnen het Ministerie van Algemene Zaken.    
 
-2. Geven van voorlichting over het Koninklijk Huis zoals geregeld in het [Koninklijk Besluit van 13 december 1965](../../../../../../../../../KB/besluit/regeling/berichtgeving/betreffende/het/koninklijk/huis/BWBR0002513/README.md) (Stb. 1965, 554) en het ministerieel besluit van 21 december 1965, met inbegrip van: 
+2. Geven van voorlichting over het Koninklijk Huis zoals geregeld in het Koninklijk Besluit van 13 december 1965 (Stb. 1965, 554) en het ministerieel besluit van 21 december 1965, met inbegrip van: 
 
 a. advisering van leden van het Koninklijk Huis inzake publiciteitsaangelegenheden;  
 
@@ -60,21 +60,33 @@ c. ondersteuning ten behoeve van de Minister-President, Minister van Algemene Za
 
 ####Dienst Publiek en Communicatie
 
-De Dienst Publiek en Communicatie te belasten met de ondersteuning van de rijksoverheid bij het gezamenlijk verbeteren van de communicatie met publiek en professionals, in welk verband de navolgende taken in het bijzonder zijn te noemen: 
+De Dienst Publiek en Communicatie te belasten met de ondersteuning van de rijksoverheid bij het gezamenlijk verbeteren van de communicatie met publiek en professionals en het ontwikkelen en in stand houden van gemeenschappelijke voorzieningen ten behoeve van de overheidscommunicatie, in welk verband de volgende taken in het bijzonder zijn te noemen: 
 
-a. Het ontwikkelen en onderhouden van gemeenschappelijke voorzieningen ten behoeve van de overheidsvoorlichting;  
+a. Advisering, begeleiding van en regievoering op (crossmediale) campagnes als onderdeel van de overheidscommunicatie;  
 
-b. Het ondersteunen van onderdelen van de overheid bij het gezamenlijk verbeteren en uitvoeren van de communicatie met het publiek door het effectief en efficiënt inzetten van massamediale campagnes;  
+b. Advisering, begeleiding en regievoering van media-inkoop voor de overheid, inclusief advisering over de optimale mediastrategie en gebruik van zendtijd op radio en televisie zoals toegewezen aan de Minister van Algemene Zaken op basis van de Mediawet 2008 ten behoeve van de overheidsvoorlichting;  
 
-c. Het laten vervaardigen en distribueren van communicatiematerialen en het verzorgen van collectieve media-inkoop ten behoeve van de overheid;  
+c. Productie, of regievoering op de productie, van beeldmateriaal ten behoeve van de overheidscommunicatie;  
 
-d. Het ondersteunen van de rijksoverheid bij het gezamenlijk verbeteren van de kwaliteit van de communicatie en het ontwikkelen, verbinden en borgen van kennis;  
+d. Advisering over de inzet van beeldmateriaal als onderdeel van de overheidscommunicatie;  
 
-e. Het ondersteunen van de rijksoverheid bij het gezamenlijk verbeteren van betrouwbare en toegankelijke publieksvoorlichting via telefoon, e-mail en Internet;  
+e. Ontwikkeling, verspreiding en borging van kennis op het terrein van overheidscommunicatie en communicatieonderzoek (kennismanagement) en het gezamenlijk verbeteren van de kwaliteit door middel van gerichte advisering en ontwikkeling en uitvoering van professionaliseringsprogramma’s;  
 
-f. Het gebruik van zendtijd op radio en televisie zoals toegewezen aan de minister van Algemene Zaken op basis van de [Mediawet](../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) ten behoeve van overheidsvoorlichting;  
+f. Bemiddeling tussen vraag en aanbod van communicatiecapaciteit binnen de overheid (communicatiepool);  
 
-g. Consultatie en overleg inzake overheidsvoorlichting onder bijzondere omstandigheden.    
+g. Advisering, begeleiding en uitvoering van onderzoeken naar de effectiviteit van campagnes en omgevingsonderzoek ten behoeve van de overheid;  
+
+h. Uitvoeren van contentbeheer en doorontwikkeling van Rijksportaal;  
+
+i. Regievoering en optimalisering van de publieksvoorlichting;  
+
+j. Uitvoeren van contentbeheer, optimalisatie van vindbaarheid en functioneel beheer van websites ten behoeve van overheidscommunicatie;  
+
+k. Advisering over inzet van online media als onderdeel van de overheidscommunicatie;  
+
+l. Rijksbrede advisering, begeleiding en inkoop van communicatiebestedingen als Inkoop Uitvoeringscentrum (IUC) en aankoopcentrale voor de categorie communicatie;  
+
+m. Afbakening van categorie communicatie en inventarisatie communicatiebehoeften als rijksbreed categoriemanager communicatie.    
 
 ### Artikel  4  
 
@@ -94,53 +106,33 @@ d. Voorlichting en communicatie met betrekking tot de activiteiten van de Raad.
 
 ####Directie Bedrijfsvoering
 
-1.  De directie Bedrijfsvoering te belasten met: 
+De Directie Bedrijfsvoering te belasten met de ondersteuning van primaire processen van het ministerie, waaronder medewerker ondersteuning, management ondersteuning en proces ondersteuning, in welk verband de volgende taken in het bijzonder zijn te noemen: 
 
-a. Ontwikkelen van een departementaal personeels- en organisatiebeleid;  
+a. Het vertalen van de interdepartementale bedrijfsvoeringkaders op de ministeriespecifieke situatie, alsmede het beheren en bewaken van de toepassing van deze kaders;  
 
-b. Informeren, adviseren en ondersteunen van het hoofd van het departement op personeel- en organisatiegebied;  
+b. Het deelnemen aan de interdepartementale bedrijfsvoering gremia;  
 
-c. Informeren, adviseren en ondersteunen van de directeuren en de lagere leidinggevenden bij de uitvoering van hun taak;  
+c. Het adviseren en informeren van het management op de expertisegebieden van bedrijfsvoering;  
 
-d. Ontwikkelen van ARBO-beleid;  
+d. Het ondersteunen van en samenwerken met de Directie Concerncontrol;  
 
-e. Informeren, adviseren en ondersteunen van individuele medewerkers op personeelsgebied;  
+e. Het inhoudelijk beheren van de administraties op alle gebieden van bedrijfsvoering, waaronder de financiële administratie en het ter zake rapporteren (enkelvoudige overzichten);  
 
-f. Verzorgen van de financiële administratie;  
+f. De zorg voor het functioneel en technisch beheren van applicaties en systemen voor het ministerie;  
 
-g. Adviseren en ondersteunen m.b.t. de financieel- economische en de bedrijfseconomische aspecten van de bedrijfsvoering en de beheersing van bedrijfsprocessen;  
+g. De zorg voor het leveren van operationele (bedrijfsvoering) producten en diensten aan de medewerkers van het ministerie;  
 
-h. Ondersteunen van de AZ-organisatie en FEZ-Control in het bijzonder;  
+h. Het ontwikkelen van het Arbeidsomstandighedenbeleid en de organisatie van de bedrijfshulpverlening;  
 
-i. Ontwikkelen, adviseren en ondersteunen van facilitair beleid;  
-
-j. Zorgdragen voor beveiliging, vervoer en verzorging van personen, documenten en berichten;  
-
-k. Aanbieden, beheren en onderhouden van adequate huisvestingsfaciliteiten (gebouwen en werkplekken);  
-
-l. Organisatie van de bedrijfshulpverlening;  
-
-m. Ontwikkelen, adviseren en ondersteunen van het informatie- en communicatietechnologiebeleid;  
-
-n. Adviseren en ondersteunen van het management bij de ontwikkeling en het onderhouden van ICT-projecten;  
-
-o. Beheren en onderhouden van de ICT-infrastructuur;  
-
-p. Ontwikkelen, adviseren en ondersteunen van het informatiebeveiligingsbeleid;  
-
-q. Ondersteunen van de gebruikers en het verzorgen van de kantoorautomatisering en de telefonie;  
-
-r. Deelname aan interdepartementale gremia;  
-
-s. Adviseren, ondersteunen en controlfunctie ten aanzien van juridische aangelegenheden.     
+i. Het (laten) realiseren van projecten gericht op het doorvoeren van onderhoud, verbetering of vernieuwing op het gebied van bedrijfsvoering.    
 
 ### Artikel  6  
 
-####eenheid FEZ-Control
+####Directie Concerncontrol
 
-1.  FEZ-Control te belasten met de taken en verantwoordelijkheden genoemd in het [Besluit taak FEZ](../../../../../../../../../AMvB/besluit/taak/fez/BWBR0005333/README.md) van 19 december 1991, waaronder: 
+Concerncontrol te belasten met de taken en verantwoordelijkheden genoemd in het Besluit taak FEZ van 19 december 1991, waaronder: 
 
-a. Coördinatie van de totstandkoming van de departementale begroting en de meerjarencijfers alsmede de opstelling van aanvullende begrotingsontwerpen;  
+a. Coördinatie van de totstandkoming van de departementale begroting en de meerjarencijfers alsmede de opstelling van de aanvullende begrotingsonderwerpen;  
 
 b. Zorg dragen voor een ordelijke en controleerbare financiële infrastructuur;  
 
@@ -148,16 +140,20 @@ c. Toezicht op de doelmatige en rechtmatige besteding van middelen;
 
 d. Verzorgen van de begrotingsadministratie;  
 
-e. Samenstelling van periodieke overzichten van verplichtingen, uitgaven en ontvangsten;  
+e. Samenstelling van de periodieke overzichten van verplichtingen, uitgaven en ontvangsten;  
 
-f. Organisatie van het kasbeheer.     
+f. Organisatie van het kasbeheer, financieel beheer en materieel beheer;  
+
+g. Adviseren en ondersteunen met betrekking tot de financieel- en economische en de bedrijfseconomische aspecten;  
+
+h. Toezicht op administratieve organisatie en beheersing van bedrijfsprocessen.    
 
 ### Artikel  7  
 
 ####Intrekking, inwerkingtreding en bekendmaking
 
-1.  Het [Besluit nadere vaststelling organisatie en taakverdeling AZ 2009](../../../../../../../../../ministeriele-regeling/besluit/nadere/vaststelling/organisatie/en/taakverdeling/az/2009/BWBR0027308/README.md) van 9 februari 2009 wordt ingetrokken.   
-2.  Het [Besluit taak DG RVD Ministerie van Algemene Zaken](../../../../../../../../../ministeriele-regeling/besluit/taak/dg/rvd/ministerie/van/algemene/zaken/BWBR0013824/README.md) van 1 juli 2002 wordt ingetrokken.   
+1.  Het Besluit nadere vaststelling organisatie en taakverdeling AZ 2009 van 9 februari 2009 wordt ingetrokken.   
+2.  Het Besluit taak DG RVD Ministerie van Algemene Zaken van 1 juli 2002 wordt ingetrokken.   
 
 ### Artikel  8  
 

@@ -3,17 +3,17 @@
 ##Besluit van het hoofd FEZ-Control van 12 juli 2011, nr. 3599515, houdende mandaat, volmacht en machtiging aan functionarissen binnen de eenheid FEZ-Control van het Ministerie van Algemene Zaken
 
 Het hoofd FEZ-Control,  
-Gelet op de [artikelen 7](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/algemene/zaken/BWBR0030304/README.md) en [10 van het Besluit mandaat, volmacht en machtiging Algemene Zaken](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/algemene/zaken/BWBR0030304/README.md);
+Gelet op de artikelen 7 en 10 van het Besluit mandaat, volmacht en machtiging Algemene Zaken;
 Besluit:    
 
 ### Artikel  1  
 
-1.  De aan het hoofd FEZ-Control krachtens de [artikelen 7](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/algemene/zaken/BWBR0030304/README.md) en [9 van het Besluit mandaat, volmacht en machtiging Algemene Zaken](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/algemene/zaken/BWBR0030304/README.md) verleende bevoegdheden worden verleend aan het plaatsvervangend hoofd FEZ-Control.   
-2.  Het plaatsvervangend hoofd FEZ-Control maakt van de aan hem verleende bevoegdheden uitsluitend gebruik: 
+1.  De aan de directeur Concerncontrol krachtens artikelen 7 en 9 van het Besluit mandaat volmacht en machtiging Algemene Zaken verleende bevoegdheden worden verleend aan de plaatsvervangend directeur Concerncontrol.   
+2.  De plaatsvervangend directeur Concerncontrol maakt van de aan hem verleende bevoegdheden uitsluitend gebruik: 
 
-a. bij afwezigheid van het hoofd FEZ-Control;  
+a. Bij afwezigheid van de directeur Concerncontrol;  
 
-b. in andere gevallen voor zover het aangelegenheden betreft die door het hoofd FEZ-Control aan hem zijn toevertrouwd.     
+b. In andere gevallen voor zover het aangelegenheden betreft die door de directeur Concerncontrol aan hem zijn toevertrouwd.     
 
 ### Artikel  2  
 
@@ -21,7 +21,7 @@ Voornoemde bevoegdheden worden nader bepaald door en uitgeoefend met inachtnemin
 
 a. departementale procedures, richtlijnen en aanwijzingen;  
 
-b. aanvullende procedures en instructies van het hoofd FEZ-Control.    
+b. aanvullende procedures en instructies van de directeur Concerncontrol.    
 
 ### Artikel  3  
 
@@ -32,7 +32,7 @@ b. aanvullende procedures en instructies van het hoofd FEZ-Control.
 
 ### Artikel  4  
 
-Het [Besluit mandaat, volmacht en machtiging Centrale Afdeling Financieel-Economische Zaken 2009](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/centrale/afdeling/etc/BWBR0027541/README.md) van 2 maart 2010 wordt ingetrokken.  
+Het Besluit mandaat, volmacht en machtiging Centrale Afdeling Financieel-Economische Zaken 2009 van 2 maart 2010 wordt ingetrokken.  
 
 ### Artikel  5  
 
@@ -40,7 +40,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ### Artikel  6  
 
-Dit besluit kan worden aangehaald als: Besluit mandaat, volmacht en machtiging eenheid FEZ-control.  
+Dit besluit kan worden aangehaald als: Besluit mandaat, volmacht en machtiging Directie Concerncontrol.  
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de Algemene Rekenkamer, de secretaris-generaal, de diensthoofden en de in dit besluit genoemde functionarissen.  
 
 De Minister-President,

@@ -3,31 +3,27 @@
 ##Besluit van de directeur Bedrijfsvoering van 12 juli 2011, nr. 3599532, houdende mandaat, volmacht en machtiging aan de functionarissen binnen de Directie Bedrijfsvoering van het Ministerie van Algemene Zaken
 
 De directeur Bedrijfsvoering,  
-Gelet op de [artikelen 7](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/algemene/zaken/BWBR0030304/README.md) en [10 van het Besluit mandaat, volmacht en machtiging Algemene Zaken](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/algemene/zaken/BWBR0030304/README.md);
+Gelet op de artikelen 7 en 10 van het Besluit mandaat, volmacht en machtiging Algemene Zaken;
 Besluit:    
 
 ### Artikel  1  
 
-1.  De directeur Bedrijfsvoering verleent de aan hem krachtens de [artikelen 7](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/algemene/zaken/BWBR0030304/README.md) en [9 van het Besluit mandaat, volmacht en machtiging Algemene Zaken](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/algemene/zaken/BWBR0030304/README.md) verleende bevoegdheden aan een rechtstreeks onder hem ressorterende unitmanager door middel van een schriftelijke aanwijzing.   
-2.  De krachtens lid 1 aangewezen functionaris maakt van de in het eerste lid aan hem verleende bevoegdheden uitsluitend gebruik: 
+1.  De aan de directeur Bedrijfsvoering krachtens artikelen 7 en 9 van het Besluit mandaat volmacht en machtiging Algemene Zaken verleende bevoegdheden worden verleend aan de unitmanager Personeel en Organisatie.   
+2.  De unitmanager Personeel en Organisatie maakt van de aan hem verleende bevoegdheden uitsluitend gebruik: 
 
-a. bij afwezigheid van de directeur Bedrijfsvoering;  
+a. Bij afwezigheid van de directeur Bedrijfsvoering;  
 
-b. in andere gevallen voor zover het aangelegenheden betreft die door de directeur Bedrijfsvoering aan hem zijn toevertrouwd.     
+b. In andere gevallen voor zover het aangelegenheden betreft die door de directeur Bedrijfsvoering aan hem zijn toevertrouwd.     
 
 ### Artikel  2  
 
-De aan de directeur Bedrijfsvoering krachtens [artikel 7](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/algemene/zaken/BWBR0030304/README.md) en [9 van het Besluit mandaat, volmacht en machtiging Algemene Zaken](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/algemene/zaken/BWBR0030304/README.md) verleende bevoegdheden tot het nemen van beslissingen op het gebied van personeelsbeleid, waaronder inbegrepen aanstelling, schorsing en beloningen worden verleend aan de unitmanager Advies en Ontwikkeling, de unitmanager Kwaliteit, Analyse en Beheer en de unitmanager Uitvoering, en het onder deze unitmanagers ressorterend management.  
+De aan de directeur Bedrijfsvoering krachtens artikel 7 en 9 van het Besluit mandaat, volmacht en machtiging Algemene Zaken verleende bevoegdheden tot het nemen van beslissingen op het gebied van personeelsbeleid, waaronder inbegrepen aanstelling, schorsing en beloningen worden verleend aan de unitmanager Personeel en Organisatie, de unitmanager Kwaliteit, Analyse en Beheer en de unitmanager Uitvoering.  
 
 ### Artikel  3  
 
-1.  De unitmanagers wordt volmacht en machtiging verstrekt tot het verrichten van handelingen waarmede een bedrag is gemoeid dat per geval vijftigduizend euro niet te boven gaat en waarvoor financiële dekking is vanuit het prestatieplan.   
-2.  Een functionaris zoals bedoeld in het eerste lid maakt van de aan hem verleende volmacht en machtiging uitsluitend gebruik voor zover het aangelegenheden betreft die behoren tot zijn werkterrein en naar aard en inhoud niet een zodanig gewicht hebben dat deze behoren te worden afgedaan door de directeur Bedrijfsvoering.   
-3.  De bevoegdheden worden nader bepaald door en uitgeoefend met inachtneming van: 
-
-a. departementale procedures, richtlijnen en aanwijzingen;  
-
-b. aanvullende procedures en instructies van de directeur Bedrijfsvoering.     
+1.  De unitmanager Kwaliteit, Analyse en Beheer en de unitmanager Uitvoering wordt volmacht verstrekt tot het verrichten van handelingen waarmede een bedrag is gemoeid dat per geval vijftigduizend euro niet te boven gaat en waarvoor financiële dekking is vanuit het prestatieplan.   
+2.  De unitmanager Personeel en Organisatie wordt volmacht en machtiging verstrekt tot het verrichten van handelingen waarvoor financiële dekking is vanuit het prestatieplan.   
+3.  Een functionaris zoals bedoeld in het eerste en tweede lid maakt van de aan hem verleende volmacht en machtiging uitsluitend gebruik voor zover het aangelegenheden betreft die behoren tot zij werkterrein en naar aard en inhoud niet een zodanig gewicht hebben dat deze behoren te worden afgedaan door de directeur Bedrijfsvoering.   
 
 ### Artikel  4  
 
@@ -40,11 +36,11 @@ b. aanvullende procedures en instructies van de directeur Bedrijfsvoering.
 
 De volgende besluiten worden ingetrokken: 
 
-a. Het [Besluit mandaat, volmacht en machtiging Centrale Afdeling Communicatietechnologie, Informatie- en Documentmanagement 2009](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/centrale/afdeling/etc/BWBR0027519/README.md) van 2 maart 2010;  
+a. Het Besluit mandaat, volmacht en machtiging Centrale Afdeling Communicatietechnologie, Informatie- en Documentmanagement 2009 van 2 maart 2010;  
 
-b. Het [Besluit mandaat, volmacht en machtiging Centrale Afdeling Facilitaire Zaken 2009](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/centrale/afdeling/facilitaire/zaken/etc/BWBR0027537/README.md) van 2 maart 2010;  
+b. Het Besluit mandaat, volmacht en machtiging Centrale Afdeling Facilitaire Zaken 2009 van 2 maart 2010;  
 
-c. Het [Besluit mandaat, volmacht en machtiging Centrale Afdeling Personeel & Organisatie 2009](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/centrale/afdeling/personeel/&/etc/BWBR0027545/README.md) van 2 maart 2010.    
+c. Het Besluit mandaat, volmacht en machtiging Centrale Afdeling Personeel & Organisatie 2009 van 2 maart 2010.    
 
 ### Artikel  6  
 
