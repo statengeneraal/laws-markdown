@@ -35,22 +35,25 @@ b. vaststellen van een bestemmingsplan: herzien van een bestemmingsplan.
 
 ### Artikel  2.1  
 
-1.  De gemeenteraad stelt ten behoeve van een goede ruimtelijke ordening voor het gehele grondgebied van de gemeente een of meer structuurvisies vast. De structuurvisie bevat de hoofdlijnen van de voorgenomen ontwikkeling van dat gebied, alsmede de hoofdzaken van het door de gemeente te voeren ruimtelijk beleid. De structuurvisie gaat tevens in op de wijze waarop de raad zich voorstelt die voorgenomen ontwikkeling te doen verwezenlijken.   
-2.  De gemeenteraad kan voor aspecten van het gemeentelijk ruimtelijk beleid een structuurvisie vaststellen. De structuurvisie bevat de hoofdlijnen van de voorgenomen ontwikkeling van die aspecten. De structuurvisie gaat tevens in op de wijze waarop de raad zich voorstelt die voorgenomen ontwikkeling te doen verwezenlijken.   
-3.  De gemeenteraad kan in samenwerking met de raden van aangrenzende gemeenten voor een gebied behorende tot het grondgebied van de betrokken gemeenten een structuurvisie vaststellen.   
+1.  De gemeenteraad stelt ten behoeve van een goede ruimtelijke ordening voor het gehele grondgebied van de gemeente een of meer structuurvisies vast waarin de hoofdzaken van het door de gemeente te voeren ruimtelijk beleid zijn vastgelegd.   
+2.  De gemeenteraad kan voor aspecten van het gemeentelijk ruimtelijk beleid een structuurvisie vaststellen.   
+3.  Voor zover een structuurvisie ontwikkelingen omvat, gaat die structuurvisie in op de wijze waarop de gemeenteraad zich voorstelt die ontwikkelingen te doen verwezenlijken.   
+4.  De gemeenteraad kan in samenwerking met de raden van andere gemeenten een structuurvisie vaststellen.   
 
 ### Artikel  2.2  
 
-1.  Provinciale staten stellen ten behoeve van een goede provinciale ruimtelijke ordening voor het gehele grondgebied van de provincie een of meer structuurvisies vast. De structuurvisie bevat de hoofdlijnen van de voorgenomen ontwikkeling van dat gebied, alsmede de hoofdzaken van het door de provincie te voeren ruimtelijk beleid. De structuurvisie gaat tevens in op de wijze waarop provinciale staten zich voorstellen die voorgenomen ontwikkeling te doen verwezenlijken.   
-2.  Provinciale staten kunnen voor aspecten van het provinciaal ruimtelijk beleid een structuurvisie vaststellen. De structuurvisie bevat de hoofdlijnen van de voorgenomen ontwikkeling van die aspecten. De structuurvisie gaat tevens in op de wijze waarop provinciale staten zich voorstellen die voorgenomen ontwikkeling te doen verwezenlijken.   
-3.  Provinciale staten kunnen in samenwerking met de staten van aangrenzende provincies voor een gebied behorende tot het grondgebied van de betrokken provincies een structuurvisie vaststellen.   
+1.  Provinciale staten stellen ten behoeve van een goede ruimtelijke ordening voor het gehele grondgebied van de provincie een of meer structuurvisies vast waarin de hoofdzaken van het door de provincie te voeren ruimtelijk beleid zijn vastgelegd.   
+2.  Provinciale staten kunnen voor aspecten van het provinciaal ruimtelijk beleid een structuurvisie vaststellen.   
+3.  Voor zover een structuurvisie ontwikkelingen omvat, gaat die structuurvisie in op de wijze waarop provinciale staten zich voorstellen die ontwikkelingen te doen verwezenlijken.   
+4.  Provinciale staten kunnen in samenwerking met de staten van andere provincies een structuurvisie vaststellen.   
 
 ### Artikel  2.3  
 
-1.  Onze Minister, in overeenstemming met Onze Ministers wie het aangaat, stelt ten behoeve van een goede nationale ruimtelijke ordening voor het gehele land een of meer structuurvisies vast. De structuurvisie bevat de hoofdlijnen van de voorgenomen ontwikkeling van dat gebied. De structuurvisie gaat tevens in op de wijze waarop Onze Minister zich voorstelt die voorgenomen ontwikkeling te doen verwezenlijken.   
-2.  Onze Minister of Onze Minister wie het aangaat, in overeenstemming met Onze Minister, kan ten behoeve van tot zijn beleidsterrein behorende aspecten van het nationale ruimtelijk beleid een structuurvisie vaststellen. De structuurvisie bevat de hoofdlijnen van de voorgenomen ontwikkeling van die aspecten. De structuurvisie gaat tevens in op de wijze waarop Onze Minister of Onze Minister wie het aangaat zich voorstelt die voorgenomen ontwikkeling te doen verwezenlijken.   
-3.  Met het vaststellen van een structuurvisie als bedoeld in het eerste en tweede lid wordt niet eerder een aanvang gemaakt, dan nadat Onze Minister of Onze Minister wie het aangaat, in overeenstemming met Onze Minister, een beschrijving van de inrichting van de voorgenomen structuurvisie aan de Tweede Kamer der Staten-Generaal heeft overgelegd en de Tweede Kamer der Staten-Generaal deze beschrijving openbaar behandeld heeft. Indien de Tweede Kamer der Staten-Generaal niet binnen vier weken besluit tot openbare behandeling van de beschrijving van de inrichting van de voorgenomen structuurvisie, dan kan met het vaststellen van de structuurvisie aangevangen worden. Onze Minister of Onze Minister wie het aangaat, in overstemming met Onze Minister, stelt de Tweede Kamer der Staten-Generaal schriftelijk op de hoogte van de gevolgtrekkingen die hij aan de behandeling verbindt.   
-4.  Met verwezenlijking van de structuurvisie wordt niet eerder een aanvang gemaakt dan acht weken nadat Onze Minister of Onze Minister wie het aangaat haar aan de Staten-Generaal heeft toegezonden. Indien door of namens een der Kamers der Staten-Generaal binnen acht weken na toezending van de structuurvisie te kennen wordt gegeven dat zij over de visie in het openbaar wil beraadslagen wordt met verwezenlijking van de structuurvisie niet eerder een aanvang gemaakt dan zes maanden na die toezending, dan wel indien de beraadslagingen op een eerder tijdstip zijn beëindigd, na die beraadslagingen. Onze Minister of Onze Minister wie het aangaat stelt de Staten-Generaal schriftelijk op de hoogte van de gevolgtrekkingen die hij voor het nationaal ruimtelijk beleid aan de beraadslagingen verbindt.   
+1.  Onze Minister, in overeenstemming met Onze Ministers die het mede aangaat, stelt ten behoeve van een goede ruimtelijke ordening voor het gehele land een of meer structuurvisies vast waarin de hoofdzaken van het door het Rijk te voeren ruimtelijk beleid zijn vastgelegd.   
+2.  Onze Minister of Onze Minister wie het aangaat, in overeenstemming met Onze Minister, kan ten behoeve van tot zijn beleidsterrein behorende aspecten van het nationale ruimtelijk beleid een structuurvisie vaststellen.   
+3.  Voor zover een structuurvisie ontwikkelingen omvat, gaat die structuurvisie tevens in op de wijze waarop Onze Minister zich voorstelt die ontwikkeling te doen verwezenlijken.   
+4.  Met het vaststellen van een structuurvisie als bedoeld in het eerste en tweede lid wordt niet eerder een aanvang gemaakt, dan nadat Onze Minister of Onze Minister wie het aangaat, in overeenstemming met Onze Minister, een beschrijving van de inrichting van de voorgenomen structuurvisie aan de Tweede Kamer der Staten-Generaal heeft overgelegd en de Tweede Kamer der Staten-Generaal deze beschrijving openbaar behandeld heeft. Indien de Tweede Kamer der Staten-Generaal niet binnen vier weken besluit tot openbare behandeling van de beschrijving van de inrichting van de voorgenomen structuurvisie, dan kan met het vaststellen van de structuurvisie aangevangen worden. Onze Minister of Onze Minister wie het aangaat, in overstemming met Onze Minister, stelt de Tweede Kamer der Staten-Generaal schriftelijk op de hoogte van de gevolgtrekkingen die hij aan de behandeling verbindt.   
+5.  Met verwezenlijking van de structuurvisie wordt niet eerder een aanvang gemaakt dan acht weken nadat Onze Minister of Onze Minister wie het aangaat haar aan de Staten-Generaal heeft toegezonden. Indien door of namens een der Kamers der Staten-Generaal binnen acht weken na toezending van de structuurvisie te kennen wordt gegeven dat zij over de visie in het openbaar wil beraadslagen wordt met verwezenlijking van de structuurvisie niet eerder een aanvang gemaakt dan zes maanden na die toezending, dan wel indien de beraadslagingen op een eerder tijdstip zijn beëindigd, na die beraadslagingen. Onze Minister of Onze Minister wie het aangaat stelt de Staten-Generaal schriftelijk op de hoogte van de gevolgtrekkingen die hij voor het nationaal ruimtelijk beleid aan de beraadslagingen verbindt.   
 
 ### Artikel  2.4  
 
@@ -142,7 +145,7 @@ d. door een ieder zienswijzen omtrent het ontwerp bij de gemeenteraad naar voren
 e. de gemeenteraad binnen twaalf weken na de termijn van terinzageligging beslist omtrent vaststelling van het bestemmingsplan.     
 2.  Voor zover het ontwerp van een bestemmingsplan zijn grondslag vindt in een aanwijzing, die betrekking heeft op een daarbij concreet aangegeven locatie, waarvan geen afwijking mogelijk is, kunnen zienswijzen daarop geen betrekking hebben.   
 3.  De bekendmaking van het besluit tot vaststelling van het bestemmingsplan geschiedt binnen twee weken na de vaststelling. Burgemeester en wethouders plaatsen de kennisgeving van het besluit tot vaststelling van het bestemmingsplan tevens in de Staatscourant en voorts geschiedt deze langs elektronische weg. Gelijktijdig verzenden zij de kennisgeving, bedoeld in de vorige volzin, langs elektronische weg aan de diensten en bestuursorganen bedoeld in het eerste lid, onder b, en stellen zij het besluit met de hierbij behorende stukken langs elektronische weg beschikbaar. In afwijking van [artikel 3:1, eerste lid, onder b, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn op een besluit tot vaststelling van het bestemmingsplan de [artikelen 3:40](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [3:42](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [3:43](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [3:44](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [3:45](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [afdeling 3.7 van die wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
-4.  In afwijking van het derde lid wordt het besluit tot vaststelling van het bestemmingsplan zes weken na de vaststelling bekendgemaakt, indien door gedeputeerde staten of de inspecteur een zienswijze is ingediend en deze niet volledig is overgenomen of indien de gemeenteraad bij de vaststelling van het bestemmingsplan daarin wijzigingen heeft aangebracht ten opzichte van het ontwerp, anders dan op grond van zienswijzen van gedeputeerde staten of de inspecteur. In zodanig geval zenden burgemeester en wethouders na de vaststelling onverwijld langs elektronische weg het raadsbesluit aan gedeputeerde staten onderscheidenlijk de inspecteur.   
+4.  In afwijking van het derde lid wordt het besluit tot vaststelling van het bestemmingsplan zes weken na de vaststelling bekendgemaakt, indien door gedeputeerde staten, Onze Minister of Onze Minister wie het aangaat een zienswijze is ingediend en deze niet volledig is overgenomen of indien de gemeenteraad bij de vaststelling van het bestemmingsplan daarin wijzigingen heeft aangebracht ten opzichte van het ontwerp, anders dan op grond van zienswijzen van gedeputeerde staten, Onze Minister of Onze Minister wie het aangaat. In zodanig geval zenden burgemeester en wethouders na de vaststelling onverwijld langs elektronische weg het raadsbesluit aan gedeputeerde staten onderscheidenlijk Onze Minister of Onze Minister wie het aangaat.   
 5.  Het besluit tot vaststelling van het bestemmingsplan treedt in werking met ingang van de dag na die waarop de beroepstermijn afloopt, behoudens voor zover het zesde lid van toepassing is.   
 6.  Indien aan de in het vierde lid bedoelde voorwaarden is voldaan kunnen gedeputeerde staten onderscheidenlijk Onze Minister, onverminderd andere aan hen toekomende bevoegdheden, binnen de in dat lid genoemde termijn met betrekking tot het desbetreffende onderdeel van het vastgestelde bestemmingsplan aan de gemeenteraad een aanwijzing als bedoeld in artikel 4.2, eerste lid, onderscheidenlijk artikel 4.4, eerste lid, onder a, geven, ertoe strekkende dat dat onderdeel geen deel blijft uitmaken van het bestemmingsplan zoals het is vastgesteld. Artikel 4.2, tweede tot en met vierde lid, onderscheidenlijk artikel 4.4, tweede tot en met vierde lid, zijn op deze aanwijzing niet van toepassing. De kennisgeving van het besluit tot aanwijzing geschiedt tevens langs elektronische weg. Gedeputeerde staten onderscheidenlijk Onze Minister vermelden in de redengeving de aan het besluit ten grondslag liggende feiten, omstandigheden en overwegingen die de provincie onderscheidenlijk het Rijk beletten het betrokken provinciaal onderscheidenlijk nationaal belang met inzet van andere aan hen toekomende bevoegdheden te beschermen. Het besluit tot vaststelling van het bestemmingsplan wordt alsdan met uitsluiting van dat onderdeel, samen met het aanwijzingsbesluit en op gelijke wijze door burgemeester en wethouders bekendgemaakt. De in het vierde lid genoemde termijn wordt hiertoe met een week verlengd. De termijn voor indiening van een beroepschrift tegen het aanwijzingsbesluit vangt aan met ingang van de dag na die waarop dit besluit ter inzage is gelegd. Zodra het aanwijzingsbesluit onherroepelijk is geworden vervalt het vaststellingsbesluit voor dat onderdeel.   
 7.  Van het aanwijzingsbesluit, bedoeld in het zesde lid, wordt mededeling gedaan aan diegenen die ten aanzien van het onderdeel van het bestemmingsplan dat bij dat aanwijzingsbesluit is betrokken een zienswijze naar voren hebben gebracht of een aanvraag tot vaststelling hebben ingediend.   
@@ -175,17 +178,25 @@ Voor zover een ontwerp van een bestemmingsplan of de uitwerking van een bestemmi
 
 ####Bepalingen omtrent uitvoering en afwijking van het bestemmingsplan
 
+Vervallen per 01-10-2010   
+
 ### §  3.4.1  
 
 ####Aanlegvergunning
+
+Vervallen per 01-10-2010   
 
 ### §  3.4.2  
 
 ####Sloopvergunning
 
+Vervallen per 01-10-2010   
+
 ### §  3.4.3  
 
 ####Ontheffingen
+
+Vervallen per 01-10-2010   
 
 ### Afdeling  3.5  
 
@@ -197,25 +208,15 @@ Voor zover een ontwerp van een bestemmingsplan of de uitwerking van een bestemmi
 
 ### Artikel  3.26  
 
-1.  Indien sprake is van provinciale belangen kunnen provinciale staten, de betrokken gemeenteraad gehoord, voor de daarbij betrokken gronden een inpassingsplan vaststellen met uitsluiting van de bevoegdheid van de gemeenteraad om voor die gronden een bestemmingsplan vast te stellen.   
+1.  Indien sprake is van provinciale belangen kunnen provinciale staten, de betrokken gemeenteraad gehoord, voor de daarbij betrokken gronden een inpassingsplan vaststellen.   
 2.  De afdelingen 3.1, 3.2 en 3.3 zijn van overeenkomstige toepassing, met dien verstande dat voor «bestemmingsplan» «inpassingsplan» wordt gelezen en voor «gemeentebestuur» «provinciaal bestuur», en dat met betrekking tot artikel 3.1 en afdeling 3.2 provinciale staten in de plaats treden van de gemeenteraad, en gedeputeerde staten in de plaats treden van burgemeester en wethouders.   
-3.  Het inpassingsplan wordt geacht deel uit te maken van het bestemmingsplan of de bestemmingsplannen waarop het betrekking heeft.   
+3.  Bij inpassingsplan kan worden bepaald in hoeverre bestemmingsplannen binnen het plangebied van het inpassingsplan hun werking behouden. Voor zover de werking niet bij inpassingsplan is geregeld, wordt het inpassingsplan geacht deel uit te maken van het bestemmingsplan of de bestemmingsplannen waarop het betrekking heeft.   
 4.  Provinciale staten kunnen bij een besluit als bedoeld in het eerste lid bepalen dat: 
 
 a. gedeputeerde staten de bevoegdheden en verplichtingen, bedoeld in artikel 3.6, eerste lid, uitoefenen,  
 
 b. gedeputeerde staten beslissen op een aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder a, b, c of g, van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   Gedeputeerde staten zenden terstond een afschrift aan burgemeester en wethouders van beschikkingen die zijn gegeven met toepassing van de bevoegdheden, bedoeld in de eerste volzin.   
-5.  Provinciale staten bepalen in het vaststellingsbesluit tot welk tijdstip de uitsluiting van de bevoegdheid van de gemeenteraad tot vaststelling van een bestemmingsplan voor de betrokken gronden voortduurt, met dien verstande dat dit tijdstip is gelegen binnen de periode van tien jaar, bedoeld in artikel 3.1, tweede lid.   
-
-### Artikel  3.27  
-
-Bij de vaststelling van een inpassingsplan als bedoeld in artikel 3.26, eerste lid, dat de aanleg of wijziging van een weg in beheer bij de provincie mogelijk maakt, wordt gebruik gemaakt van: 
-
-a. de verkeersgegevens en de daarop gebaseerde onderzoeken,  
-
-b. de krachtens [artikel 5.20, eerste lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bekendgemaakte gegevens en de daarop gebaseerde onderzoeken, en  
-
-c. de inventarisatie van en de gevolgen voor de aanwezige flora en fauna en de daarop gebaseerde onderzoeken,   die ten grondslag hebben gelegen aan het ontwerp-inpassingsplan, met dien verstande dat indien de rapporten, waarin de gegevens, onderzoeken en inventarisaties en gevolgen zijn vervat, bij de vaststelling van het inpassingsplan ouder zijn dan twee jaar, het inpassingsplan een motivering van de actualiteit van die rapporten bevat.  
+5.  De gemeenteraad is vanaf het moment waarop het ontwerp van het inpassingsplan ter inzage is gelegd, niet langer bevoegd tot vaststelling van een bestemmingsplan voor de gronden waarop dat inpassingsplan betrekking heeft. De bedoelde bevoegdheid ontstaat weer tien jaar na vaststelling van het inpassingsplan, dan wel eerder, indien het inpassingsplan dat bepaalt.   
 
 ### §  3.5.2  
 
@@ -223,15 +224,15 @@ c. de inventarisatie van en de gevolgen voor de aanwezige flora en fauna en de d
 
 ### Artikel  3.28  
 
-1.  Indien sprake is van nationale belangen kan Onze Minister, de gemeenteraad en provinciale staten gehoord, voor de daarbij betrokken gronden een inpassingsplan vaststellen met uitsluiting van de bevoegdheid van de gemeenteraad en van provinciale staten om voor die gronden een bestemmingsplan onderscheidenlijk een inpassingsplan vast te stellen. Het horen van de gemeenteraad en provinciale staten kan worden gecombineerd met het overleg, bedoeld in [artikel 3.1.1 van het Besluit ruimtelijke ordening](../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md).   
+1.  Indien sprake is van nationale belangen kan Onze Minister, de gemeenteraad en provinciale staten gehoord, voor de daarbij betrokken gronden een inpassingsplan vaststellen. Het horen van de gemeenteraad en provinciale staten kan worden gecombineerd met het overleg, bedoeld in [artikel 3.1.1 van het Besluit ruimtelijke ordening](../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md).   
 2.  De afdelingen 3.1, 3.2 en 3.3, met uitzondering van artikel 3.8, vierde en zesde lid, zijn van overeenkomstige toepassing, met dien verstande dat voor «bestemmingsplan» «inpassingsplan» wordt gelezen en voor «gemeentebestuur» «Onze Minister», en dat met betrekking tot artikel 3.1 en afdeling 3.2 Onze Minister in de plaats treedt van de gemeenteraad en van burgemeester en wethouders.   
-3.  Het inpassingsplan wordt geacht deel uit te maken van het bestemmingsplan of de bestemmingsplannen waarop het betrekking heeft.   
+3.  Bij inpassingsplan kan worden bepaald in hoeverre bestemmingsplannen binnen het plangebied van het inpassingsplan hun werking behouden. Voor zover de werking niet bij inpassingsplan is geregeld, wordt het inpassingsplan geacht deel uit te maken van het bestemmingsplan of de bestemmingsplannen waarop het betrekking heeft.   
 4.  Onze Minister kan bij een besluit als bedoeld in het eerste lid bepalen dat hij: 
 
 a. de bevoegdheden en verplichtingen, bedoeld in artikel 3.6, eerste lid, uitoefent;  
 
 b. beslist op een aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder a, b, c of g, van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   Onze Minister zendt terstond een afschrift aan burgemeester en wethouders van beschikkingen die zijn gegeven met toepassing van de bevoegdheden, bedoeld in de eerste volzin.   
-5.  Onze Minister bepaalt in het vaststellingsbesluit tot welk tijdstip de uitsluiting van de bevoegdheid van de gemeenteraad tot vaststelling van een bestemmingsplan respectievelijk van provinciale staten tot vaststelling van een inpassingsplan voor de betrokken gronden voortduurt, met dien verstande dat dit tijdstip is gelegen binnen de periode van tien jaar, bedoeld in artikel 3.1, tweede lid.   
+5.  De gemeenteraad is, respectievelijk provinciale staten zijn, vanaf het moment waarop het ontwerp van het inpassingsplan ter inzage is gelegd, niet langer bevoegd tot vaststelling van een bestemmingsplan respectievelijk inpassingsplan voor de gronden waarop het inpassingsplan, bedoeld in het eerste lid, betrekking heeft. De bedoelde bevoegdheid ontstaat weer tien jaar na vaststelling van het inpassingsplan, dan wel eerder, indien het inpassingsplan dat bepaalt.   
 6.  De bevoegdheid tot het maken van provinciale verordeningen als bedoeld in artikel 4.1 blijft gehandhaafd voor zover deze verordeningen niet met een krachtens het eerste lid vastgesteld inpassingsplan in strijd zijn.   
 7.  De bepalingen van een provinciale verordening als bedoeld in artikel 4.1 blijven buiten toepassing voor zover zij met een krachtens het eerste lid vastgesteld inpassingsplan in strijd zijn.   
 
@@ -362,7 +363,8 @@ b. een bestemmings- of inpassingsplan waarbij toepassing is gegeven aan artikel 
 
 ### Artikel  3.37  
 
-Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de voorbereiding, vormgeving, inrichting en beschikbaarstelling en nadere regels omtrent inhoud en uitvoerbaarheid van bestemmingsplannen en inpassingsplannen. Tevens kunnen regels worden gesteld omtrent de inhoud van de bij een plan behorende toelichting.  
+1.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de voorbereiding, vormgeving, inrichting en beschikbaarstelling en nadere regels omtrent inhoud en uitvoerbaarheid van bestemmingsplannen en inpassingsplannen. Tevens kunnen regels worden gesteld omtrent de inhoud van de bij een plan behorende toelichting.   
+2.  Bij de maatregel, bedoeld in het eerste lid, kunnen voorts regels worden gesteld omtrent het gebruik van gegevens en onderzoeken die ten grondslag liggen aan bestemmingsplannen en inpassingsplannen.   
 
 ### Hoofdstuk  3A  
 
@@ -466,11 +468,11 @@ c. gedeputeerde staten een aanwijzing geven binnen een daarbij te bepalen termij
 1.  Burgemeester en wethouders kennen degene die in de vorm van een inkomensderving of een vermindering van de waarde van een onroerende zaak schade lijdt of zal lijden als gevolg van een in het tweede lid genoemde oorzaak, op aanvraag een tegemoetkoming toe, voor zover de schade redelijkerwijs niet voor rekening van de aanvrager behoort te blijven en voor zover de tegemoetkoming niet voldoende anderszins is verzekerd.   
 2.  Een oorzaak als bedoeld in het eerste lid is: 
 
-a. een bepaling van een bestemmingsplan of inpassingsplan, niet zijnde een bepaling als bedoeld in artikel 3.6, eerste lid, of van een beheersverordening als bedoeld in artikel 3.38;  
+a. een bepaling van een bestemmingsplan, beheersverordening of inpassingsplan, niet zijnde een bepaling als bedoeld in artikel 3.3, artikel 3.6, eerste lid, of artikel 3.38, derde of vierde lid;  
 
-b. een bepaling van een planwijziging of een planuitwerking, onderscheidenlijk een nadere eis als bedoeld in artikel 3.6, eerste lid, onder a, b en d;  
+b. een bepaling van een wijziging krachtens artikel 3.6, eerste lid, onder a, niet zijnde een bepaling als bedoeld in artikel 3.6, tweede lid, of van een uitwerking krachtens artikel 3.6, eerste lid, onder b, of een nadere eis krachtens artikel 3.6, eerste lid, onder d;  
 
-c. een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onderdeel c, van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+c. een besluit omtrent een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder b, c of g, van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
 
 d. de aanhouding van een besluit omtrent het verlenen van een omgevingsvergunning ingevolge [artikel 3.3, eerste lid](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), of [3.4 van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
 
@@ -480,8 +482,9 @@ f. een bepaling van een exploitatieplan als bedoeld in artikel 6.12, eerste lid,
 
 g. een koninklijk besluit als bedoeld in artikel 10.4.     
 3.  De aanvraag bevat een motivering, alsmede een onderbouwing van de hoogte van de gevraagde tegemoetkoming.   
-4.  Een aanvraag voor een tegemoetkoming in schade ten gevolge van een oorzaak als bedoeld in het tweede lid, onder a, b, c, e, f of g, moet worden ingediend binnen vijf jaar na het moment waarop de oorzaak, bedoeld in het eerste lid, onherroepelijk is geworden.   
+4.  Een aanvraag voor een tegemoetkoming in schade ten gevolge van een oorzaak als bedoeld in het tweede lid, onder a, b, c, e, f of g, moet worden ingediend binnen vijf jaar na het moment waarop die oorzaak onherroepelijk is geworden.   
 5.  Een aanvraag voor een tegemoetkoming in schade ten gevolge van een aanhouding als bedoeld in het tweede lid, onder d, kan eerst, en moet worden ingediend binnen vijf jaar na terinzagelegging van het vastgestelde bestemmingsplan.   
+6.  Schade als gevolg van een bepaling als bedoeld in artikel 3.3 of artikel 3.6, eerste lid, onder c, of artikel 3.38, derde of vierde lid, wordt eerst vastgesteld op grond van een krachtens die bepalingen genomen besluit.   
 
 ### Artikel  6.2  
 
@@ -804,13 +807,15 @@ b. indien toepassing is gegeven aan artikel 3.30, eerste lid, onder b, 3.33, eer
 
 Indien gedurende de beroepstermijn met betrekking tot een besluit tot vaststelling van een bestemmingsplan of inpassingsplan of van een wijziging of uitwerking hiervan dan wel van een rijksbestemmingsplan bij de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State een verzoek om voorlopige voorziening is gedaan, wordt de werking van het besluit opgeschort totdat op het verzoek is beslist. Bij de toewijzing van het verzoek geeft de voorzitter aan op welke onderdelen van het bestemmingsplan of inpassingsplan of van de wijziging of uitwerking hiervan de voorlopige voorziening betrekking heeft.  
 
-### Artikel  8.4a  
+### Artikel  8.4a   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  De gemeenteraad is bevoegd om hangende het beroep tegen het bestemmingsplan, een besluit tot wijziging van dat bestemmingsplan vast te stellen.   
 2.  In afwijking van artikel 3.8, eerste lid, is op het besluit, bedoeld in het eerste lid, [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing, indien het een wijziging van ondergeschikte aard betreft. Het wijzigingsbesluit, bedoeld in het eerste lid, wordt vastgesteld uiterlijk tien dagen voor de zitting, die plaatsvindt ten behoeve van de beoordeling van het bestreden besluit.   
 3.  [Artikel 7:1 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op het besluit, bedoeld in het eerste lid.   
 
-### Artikel  8.4b  
+### Artikel  8.4b   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Indien de Afdeling bestuursrechtspraak van de Raad van State van oordeel is dat het beroep tegen het bestemmingsplan gegrond is, kan zij een tussenuitspraak doen, waarbij zij de gemeenteraad in de gelegenheid stelt om de gebreken weg te nemen.   
 2.  In haar tussenuitspraak stelt de Afdeling vast in welk opzicht het beroep gegrond is. [Afdeling 8.2.6](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van [artikel 8:72, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing. De Afdeling vermeldt een termijn binnen welke de gebreken moeten zijn weggenomen. De Afdeling kan door middel van een wijziging van de tussenuitspraak de termijn op verzoek van de gemeenteraad verlengen.   
@@ -819,16 +824,19 @@ Indien gedurende de beroepstermijn met betrekking tot een besluit tot vaststelli
 5.  De Afdeling stelt de andere partijen in de gelegenheid binnen een door haar te stellen termijn schriftelijk te reageren op de kennisgeving, bedoeld in het vierde lid.   
 6.  Indien de Afdeling een onderzoek ter zitting nodig acht, deelt zij dit zo spoedig mogelijk aan partijen mede.   
 
-### Artikel  8.4c  
+### Artikel  8.4c   
+Treedt in werking op een nader te bepalen tijdstip   
 
 De artikelen 8.4a tot en met 8.4b zijn van overeenkomstige toepassing op een besluit tot vaststelling van een inpassingsplan.  
 
-### Artikel  8.4d  
+### Artikel  8.4d   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  De artikelen 8.4a tot en met 8.4b zijn van overeenkomstige toepassing op een besluit tot wijziging of uitwerking van het bestemmingsplan met dien verstande dat in plaats van «artikel 3.8, eerste lid» wordt gelezen «artikel 3.6, vijfde lid».   
 2.  Het eerste lid is van overeenkomstige toepassing op een wijzigings- of uitwerkingsplan van gedeputeerde staten of Onze Minister.   
 
-### Artikel  8.4e  
+### Artikel  8.4e   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  De artikelen 8.4a tot en met 8.4b zijn van overeenkomstige toepassing op een projectbesluit met dien verstande dat: 
 
@@ -837,7 +845,8 @@ a. in plaats van «artikel 3.8, eerste lid» wordt gelezen «artikel 3.11, eerst
 b. in plaats van «de Afdeling bestuursrechtspraak van de Raad van State» en «de Afdeling» telkens wordt gelezen «de bevoegde rechter in eerste instantie».     
 2.  Het eerste lid is van overeenkomstige toepassing op een projectbesluit van provinciale staten of Onze Minister dan wel Onze Minister wie het aangaat in overeenstemming met Onze Minister.   
 
-### Artikel  8.4f  
+### Artikel  8.4f   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Indien toepassing wordt gegeven aan artikel 3.30, eerste lid, onder b, 3.33, eerste lid, onder b, of  3.35, eerste lid, onder b, zijn de artikelen 8.4a en 8.4b van overeenkomstige toepassing op de besluiten, bedoeld in artikel 3.30, eerste lid, onder a, 3.33, eerste lid, onder a, onderscheidenlijk 3.35, eerste lid, onder a, met dien verstande dat: 
 
@@ -888,7 +897,10 @@ De personen die deel uitmaken van de organen van de stichting en het personeel v
 
 ####Ruimtelijk planbureau
 
-### Artikel  9.3  
+Treedt in werking op een nader te bepalen tijdstip   
+
+### Artikel  9.3   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Er is een Ruimtelijk planbureau, dat ressorteert onder Onze Minister.   
 2.  Het planbureau heeft tot taak: 
@@ -904,7 +916,8 @@ d. het analyseren van ruimtelijk relevant beleid en van besluitvormingsprocessen
 e. het ontwikkelen van beleidsvarianten en scenario’s.     
 3.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de taak van het planbureau en worden regels gesteld omtrent de inrichting en werkwijze van het planbureau.   
 
-### Artikel  9.4  
+### Artikel  9.4   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Er is een Begeleidingscollege dat het wetenschappelijk niveau van het Ruimtelijk planbureau bewaakt.   
 2.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de taak van het begeleidingscollege en worden regels gesteld omtrent de inrichting, samenstelling en werkwijze van het college.   
