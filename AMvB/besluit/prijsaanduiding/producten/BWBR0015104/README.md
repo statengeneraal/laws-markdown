@@ -38,7 +38,7 @@ b. in het geval de hoeveelheid van een product is aangegeven in gewicht: 1 ton, 
 c. in het geval de hoeveelheid van een product is aangegeven in lengte: 1 meter;  
 
 d. in het geval de hoeveelheid van een product is aangegeven in oppervlakte: 1 vierkante meter.     
-2.  Indien op een voorverpakt product dat bestaat uit een vast bestanddeel en een opgietvloeistof, het uitlekgewicht wordt vermeld ingevolge [artikel 14, eerste lid, van het Warenwetbesluit Etikettering van levensmiddelen](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) of [artikel 21, eerste lid, van het Hoeveelheidsaanduidingenbesluit (Warenwet)](../../../../../AMvB/hoeveelheidsaanduidingenbesluit/(warenwet)/BWBR0003310/README.md), heeft de aanduiding van de prijs per meeteenheid betrekking op het vaste bestanddeel van het product.   
+2.  Indien op een voorverpakt product dat bestaat uit een vast bestanddeel en een opgietvloeistof, het uitlekgewicht wordt vermeld ingevolge [artikel 14, eerste lid, van het Warenwetbesluit Etikettering van levensmiddelen](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) of [artikel 21, eerste lid, van het Hoeveelheidsaanduidingenbesluit (Warenwet)](../../../../../AMvB/hoeveelheidsaanduidingenbesluit/(warenwet)/BWBR0003310/README.md), heeft de aanduiding van de prijs per meeteenheid betrekking op het vaste bestanddeel van het product.  
 
 ### Artikel  3  
 
@@ -51,7 +51,7 @@ a. voor het product geen verplichting tot hoeveelheidsaanduiding bestaat op gron
 b. de prijs per meeteenheid van een product identiek is aan de verkoopprijs of  
 
 c. een product wordt verkocht op een wijze als beschreven in bijlage II.     
-4.  In afwijking van het eerste lid behoeft de verkoopprijs niet te worden vermeld op los verkochte producten.   
+4.  In afwijking van het eerste lid behoeft de verkoopprijs niet te worden vermeld op los verkochte producten.  
 
 ### Artikel  4  
 
@@ -70,23 +70,23 @@ d. is, zo nodig na een oppervlakkig onderzoek, van nabij duidelijk leesbaar, ten
 ### Artikel  5  
 
 1.  Indien een verkoper, die in een reclame-uiting producten aan de consument te koop aanbiedt, daarbij de verkoopprijs of de prijs per meeteenheid bekend maakt, zijn de artikelen 2, 3 en 4, tweede lid, van dit besluit van toepassing.   
-2.  Indien een verkoper producten aan een consument te koop aanbiedt in het kader van een koop op afstand op de wijze, bedoeld in [artikel 46a, onder b, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), is dit besluit slechts van toepassing op de aanduiding van de prijs per meeteenheid.   
+2.  Indien een verkoper producten aan een consument te koop aanbiedt in het kader van een koop op afstand op de wijze, bedoeld in [artikel 46a, onder b, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), is dit besluit slechts van toepassing op de aanduiding van de prijs per meeteenheid.  
 
 ### Artikel  6  
 
-Het [Besluit prijsaanduiding goederen 1980](../../../../../AMvB/besluit/prijsaanduiding/goederen/1980/BWBR0003308/README.md) wordt ingetrokken.  
+Het [Besluit prijsaanduiding goederen 1980](../../../../../AMvB/besluit/prijsaanduiding/goederen/1980/BWBR0003308/README.md) wordt ingetrokken. 
 
 ### Artikel  7  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  8  
 
-De wet van 18 april 2002 houdende wijziging van de Prijzenwet in verband met de systematiek en de terminologie van de EG-richtlijn betreffende prijsaanduiding van aan de consument aangeboden producten (Stb. 217), treedt in werking op het tijdstip, waarop dit besluit in werking treedt.  
+De wet van 18 april 2002 houdende wijziging van de Prijzenwet in verband met de systematiek en de terminologie van de EG-richtlijn betreffende prijsaanduiding van aan de consument aangeboden producten (Stb. 217), treedt in werking op het tijdstip, waarop dit besluit in werking treedt. 
 
 ### Artikel  9  
 
-Dit besluit wordt aangehaald als: Besluit prijsaanduiding producten.  
+Dit besluit wordt aangehaald als: Besluit prijsaanduiding producten. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -100,11 +100,11 @@ J. F. Hoogervorst
 de tiende juni 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     
 
 ####Bijlage I, behorende bij artikel 3, tweede lid, van het Besluit prijsaanduiding producten 
 
-A. Antiquiteiten. B. Producten die als individueel werkstuk door een kunstenaar zijn ontworpen of voor een belangrijk deel als individueel werkstuk door een kunstenaar zijn vervaardigd. C. Producten die te koop worden aangeboden op een veiling. D. Producten die bij een dienstverlening worden verstrekt. E. Producten die op een markt met behulp van welsprekendheid te koop worden aangeboden aan het aanwezige publiek, waarbij in de regel de verkoopprijs of prijs per meeteenheid van een product niet tevoren vaststaan. 
+A. Antiquiteiten. B. Producten die als individueel werkstuk door een kunstenaar zijn ontworpen of voor een belangrijk deel als individueel werkstuk door een kunstenaar zijn vervaardigd. C. Producten die te koop worden aangeboden op een veiling. D. Producten die bij een dienstverlening worden verstrekt. E. Producten die op een markt met behulp van welsprekendheid te koop worden aangeboden aan het aanwezige publiek, waarbij in de regel de verkoopprijs of prijs per meeteenheid van een product niet tevoren vaststaan.  
 
 ####Bijlage II, behorende bij artikel 3, derde lid, aanhef en onder c, van het Besluit prijsaanduiding producten 
 

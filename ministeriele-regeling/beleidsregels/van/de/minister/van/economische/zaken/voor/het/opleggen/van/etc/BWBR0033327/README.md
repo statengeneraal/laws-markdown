@@ -10,19 +10,19 @@ Besluit:
 
 ### Artikel  1.1  
 
-In deze beleidsregels wordt verstaan onder ACM: de Autoriteit Consument en Markt, genoemd in [artikel 2 van de Instellingswet Autoriteit Consument en Markt](../../../../../../../../../../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md).  
+In deze beleidsregels wordt verstaan onder ACM: de Autoriteit Consument en Markt, genoemd in [artikel 2 van de Instellingswet Autoriteit Consument en Markt](../../../../../../../../../../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md). 
 
 ### Artikel  1.2  
 
-Een bestuurlijke boete wordt op een zodanige hoogte vastgesteld dat deze, in het kader van specifieke preventie, een overtreder weerhoudt van het begaan van een volgende overtreding en, in het kader van algemene preventie, potentiële andere overtreders afschrikt.  
+Een bestuurlijke boete wordt op een zodanige hoogte vastgesteld dat deze, in het kader van specifieke preventie, een overtreder weerhoudt van het begaan van een volgende overtreding en, in het kader van algemene preventie, potentiële andere overtreders afschrikt. 
 
 ### Artikel  1.3  
 
-Indien de ACM constateert dat een overtreder meerdere overtredingen heeft begaan, kan zij, in plaats van elke overtreding afzonderlijk te beboeten, een bestuurlijke boete opleggen voor deze overtredingen gezamenlijk.  
+Indien de ACM constateert dat een overtreder meerdere overtredingen heeft begaan, kan zij, in plaats van elke overtreding afzonderlijk te beboeten, een bestuurlijke boete opleggen voor deze overtredingen gezamenlijk. 
 
 ### Artikel  1.4  
 
-De vastgestelde bestuurlijke boete wordt naar beneden afgerond op een veelvoud van € 500.  
+De vastgestelde bestuurlijke boete wordt naar beneden afgerond op een veelvoud van € 500. 
 
 ### Hoofdstuk  2  
 
@@ -38,23 +38,23 @@ De vastgestelde bestuurlijke boete wordt naar beneden afgerond op een veelvoud v
 
 ### Artikel  2.1  
 
-Deze afdeling is van toepassing op overtredingen waarvoor de ACM op grond van de [Mededingingswet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md), de [Elektriciteitswet 1998](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), de [Gaswet](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) en de [Wet van 23 november 2006 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet in verband met nadere regels omtrent een onafhankelijk netbeheer](../../../../../../../../../../../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md) (Stb. 2006, 614) een bestuurlijke boete kan opleggen.  
+Deze afdeling is van toepassing op overtredingen waarvoor de ACM op grond van de [Mededingingswet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md), de [Elektriciteitswet 1998](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), de [Gaswet](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) en de [Wet van 23 november 2006 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet in verband met nadere regels omtrent een onafhankelijk netbeheer](../../../../../../../../../../../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md) (Stb. 2006, 614) een bestuurlijke boete kan opleggen. 
 
 ### Artikel  2.2  
 
 In deze afdeling wordt verstaan onder: 
 
-a. *overige overtredingen:* de overtredingen van andere bepalingen uit de [Mededingingswet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) dan de [artikelen 6](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [24](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), van bepalingen van de [Elektriciteitswet 1998](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), de [Gaswet](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) en de [Wet van 23 november 2006 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet in verband met nadere regels omtrent een onafhankelijk netbeheer](../../../../../../../../../../../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md) (Stb. 2006, 614), ten aanzien waarvan de ACM is belast met de handhaving en die zijn genoemd in Bijlage 1 bij deze beleidsregels, behoudens overtredingen waarvoor de ACM een bestuurlijke boete kan opleggen aan natuurlijke personen;  
+a.  *overige overtredingen:* de overtredingen van andere bepalingen uit de [Mededingingswet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) dan de [artikelen 6](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [24](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), van bepalingen van de [Elektriciteitswet 1998](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), de [Gaswet](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) en de [Wet van 23 november 2006 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet in verband met nadere regels omtrent een onafhankelijk netbeheer](../../../../../../../../../../../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md) (Stb. 2006, 614), ten aanzien waarvan de ACM is belast met de handhaving en die zijn genoemd in Bijlage 1 bij deze beleidsregels, behoudens overtredingen waarvoor de ACM een bestuurlijke boete kan opleggen aan natuurlijke personen;  
 
-b. *b. betrokken omzet:* de opbrengst die door een overtreder tijdens de totale duur van een overtreding is behaald met levering van goederen en diensten waarop die overtreding betrekking heeft, onder aftrek van kortingen en dergelijke, alsmede van over de omzet geheven belastingen;  
+b.  *b. betrokken omzet:* de opbrengst die door een overtreder tijdens de totale duur van een overtreding is behaald met levering van goederen en diensten waarop die overtreding betrekking heeft, onder aftrek van kortingen en dergelijke, alsmede van over de omzet geheven belastingen;  
 
-c. *jaaromzet:* de netto-omzet van de overtreder, zijnde de opbrengst uit levering van goederen en diensten uit het bedrijf van de overtreder, onder aftrek van kortingen en dergelijke, alsmede van over de omzet geheven belastingen;  
+c.  *jaaromzet:* de netto-omzet van de overtreder, zijnde de opbrengst uit levering van goederen en diensten uit het bedrijf van de overtreder, onder aftrek van kortingen en dergelijke, alsmede van over de omzet geheven belastingen;  
 
-d. *boetegrondslag:* een op grond van een percentage van de betrokken omzet of van een promillage van de totale jaaromzet vastgesteld bedrag, dan wel, indien de overtreder een natuurlijke persoon is, een aan de ernst van de overtreding en het inkomen en vermogen van de overtreder gerelateerd bedrag, dat de basis vormt voor het bepalen van de hoogte van een op te leggen bestuurlijke boete;  
+d.  *boetegrondslag:* een op grond van een percentage van de betrokken omzet of van een promillage van de totale jaaromzet vastgesteld bedrag, dan wel, indien de overtreder een natuurlijke persoon is, een aan de ernst van de overtreding en het inkomen en vermogen van de overtreder gerelateerd bedrag, dat de basis vormt voor het bepalen van de hoogte van een op te leggen bestuurlijke boete;  
 
-e. *basisboete:* het bedrag dat resulteert wanneer de boetegrondslag is bijgesteld aan de hand van de ernst van de overtreding en, voor zover van toepassing, de basisboetetoeslag of het gewicht van de overtreder, of, in het geval de overtreder een natuurlijke persoon is, het bedrag van de boetegrondslag;  
+e.  *basisboete:* het bedrag dat resulteert wanneer de boetegrondslag is bijgesteld aan de hand van de ernst van de overtreding en, voor zover van toepassing, de basisboetetoeslag of het gewicht van de overtreder, of, in het geval de overtreder een natuurlijke persoon is, het bedrag van de boetegrondslag;  
 
-f. *basisboetetoeslag:* het bedrag waarmee de basisboete wordt verhoogd in geval van het begaan van een zeer zware overtreding van de [artikelen 6](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) of [24 van de Mededingingswet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) of van de artikelen 101 of 102 van het VWEU.    
+f.  *basisboetetoeslag:* het bedrag waarmee de basisboete wordt verhoogd in geval van het begaan van een zeer zware overtreding van de [artikelen 6](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) of [24 van de Mededingingswet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) of van de artikelen 101 of 102 van het VWEU.   
 
 ### §  2.1.2  
 
@@ -64,7 +64,7 @@ f. *basisboetetoeslag:* het bedrag waarmee de basisboete wordt verhoogd in geval
 
 1.  De ACM bepaalt de hoogte van de bestuurlijke boete op basis van de boetegrondslag, die per overtreding wordt vastgesteld.   
 2.  Na het bepalen van de boetegrondslag bepaalt de ACM de basisboete door de boetegrondslag bij te stellen aan de hand van de ernst van de overtreding en, voor zover van toepassing, de basisboetetoeslag en het gewicht van de overtreder. Wanneer de boetegrondslag niet wordt bijgesteld aan de hand van de ernst van de overtreding, de basisboetetoeslag of het gewicht van de overtreder, is de basisboete het bedrag dat ook de boetegrondslag is.   
-3.  Bij de vaststelling van de bestuurlijke boete neemt de ACM voorts boeteverhogende of boeteverlagende omstandigheden in aanmerking en bepaalt in redelijkheid in hoeverre dergelijke omstandigheden tot een verhoging of verlaging van de basisboete leiden.   
+3.  Bij de vaststelling van de bestuurlijke boete neemt de ACM voorts boeteverhogende of boeteverlagende omstandigheden in aanmerking en bepaalt in redelijkheid in hoeverre dergelijke omstandigheden tot een verhoging of verlaging van de basisboete leiden.  
 
 ### §  2.1.3  
 
@@ -78,23 +78,23 @@ f. *basisboetetoeslag:* het bedrag waarmee de basisboete wordt verhoogd in geval
 4.  Wanneer geen betrokken omzet kan worden vastgesteld, kan als betrokken omzet worden aangemerkt de omzet van de overtreder op de te beschermen markt gedurende de periode van de overtreding, doch voor ten minste de duur van een jaar.   
 5.  Wanneer de overtreder op de te beschermen markt geen omzet heeft behaald, kan de ACM de omzet die de betreffende overtreder heeft behaald met zijn eigen bijdrage aan de mededingingsbeperking aanmerken als de betrokken omzet.   
 6.  Indien de overtreding door een ondernemersvereniging is begaan, kan de betrokken omzet van de daarvan deel uitmakende ondernemingen in aanmerking worden genomen.   
-7.  De ACM hanteert bij de vaststelling van de betrokken omzet waarden die zijn afgerond op hele euro’s.   
+7.  De ACM hanteert bij de vaststelling van de betrokken omzet waarden die zijn afgerond op hele euro’s.  
 
 ### Artikel  2.5  
 
-De ACM hanteert een boetegrondslag van 10% van de betrokken omzet van de overtreder.  
+De ACM hanteert een boetegrondslag van 10% van de betrokken omzet van de overtreder. 
 
 ### Artikel  2.6  
 
 1.  De ACM bepaalt de basisboete door de boetegrondslag te vermenigvuldigen met een factor (E) voor de ernst van de overtreding.   
 2.  De factor (E) voor de ernst van de overtreding wordt bepaald door de zwaarte van de overtreding in samenhang met de economische context waarin deze overtreding heeft plaatsgevonden. Bij de beoordeling van de economische context houdt de ACM onder meer rekening met de aard van de betrokken goederen of diensten, de omvang van de markt, de grootte van de betrokken overtreders alsmede met het al dan niet gezamenlijke marktaandeel, de structuur van de markt en met de geldende regelgeving en houdt de ACM tevens rekening met de afbreuk of potentiële afbreuk aan het normale mededingingsproces en de weerslag op de economie die de betreffende gedraging in het algemeen heeft.   
 3.  Bij de vaststelling van de factor (E) onderscheidt de ACM drie typen overtredingen: zeer zware, zware en minder zware overtredingen. Verstrekkende horizontale afspraken worden in ieder geval als zeer zware overtredingen aangemerkt.   
-4.  Naargelang de ernst van de overtreding wordt de factor (E) vastgesteld op een waarde van ten hoogste 5.   
+4.  Naargelang de ernst van de overtreding wordt de factor (E) vastgesteld op een waarde van ten hoogste 5.  
 
 ### Artikel  2.7  
 
 1.  Om ondernemingen ervan te weerhouden zeer zware overtredingen als bedoeld in artikel 2.6, derde lid, van de [artikelen 6](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) of [24 van de Mededingingswet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) of van de artikelen 101 of 102 van het VWEU te begaan, hanteert de ACM een basisboetetoeslag van maximaal 25% van de betrokken omzet in het laatste volledige jaar dat de onderneming heeft deelgenomen aan de overtreding.   
-2.  In het kader van specifieke preventie kan de ACM de basisboete bij overtreding van de [artikelen 6](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) en [24 van de Mededingingswet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) en van de artikelen 101 en 102 van het VWEU aanpassen met het oog op het gewicht van de overtreder, uitgedrukt in de totale jaaromzet van deze overtreder in Nederland in het boekjaar voorafgaande aan de boetebeschikking.   
+2.  In het kader van specifieke preventie kan de ACM de basisboete bij overtreding van de [artikelen 6](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) en [24 van de Mededingingswet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) en van de artikelen 101 en 102 van het VWEU aanpassen met het oog op het gewicht van de overtreder, uitgedrukt in de totale jaaromzet van deze overtreder in Nederland in het boekjaar voorafgaande aan de boetebeschikking.  
 
 ### §  2.1.4  
 
@@ -105,7 +105,7 @@ De ACM hanteert een boetegrondslag van 10% van de betrokken omzet van de overtre
 1.  De basis voor vaststelling van de boetegrondslag wordt gevormd door de totale jaaromzet van de overtreder in het boekjaar voorafgaande aan de boetebeschikking.   
 2.  Bij de toepassing van het eerste lid gaat de ACM uit van de in Nederland behaalde jaaromzet, tenzij deze naar het oordeel van de ACM geen passende beboeting toelaat.   
 3.  Wat de geografische toerekening van de omzet betreft volgt de ACM de uitgangspunten zoals uiteengezet door de Europese Commissie in de Geconsolideerde mededeling van de Commissie over bevoegdheidskwesties op grond van Verordening (EG) nr. 139/2004 betreffende de controle op concentraties van ondernemingen (PbEU 2008, C 95).   
-4.  Indien de ACM de totale jaaromzet niet op basis van door de overtreder verstrekte informatie kan bepalen, kan de ACM hiervan een schatting maken.   
+4.  Indien de ACM de totale jaaromzet niet op basis van door de overtreder verstrekte informatie kan bepalen, kan de ACM hiervan een schatting maken.  
 
 ### Artikel  2.9  
 
@@ -123,14 +123,14 @@ De ACM hanteert een boetegrondslag van 10% van de betrokken omzet van de overtre
 
 3.  In Bijlage 1 worden de overige overtredingen ingedeeld in de daarbij aangewezen categorie.   
 4.  Wanneer de in het tweede lid bedoelde indeling in een boetecategorie in het concrete geval naar het oordeel van de ACM geen passende beboeting toelaat, kan de naast hogere of de naast lagere categorie worden gehanteerd.   
-5.  Wanneer de totale jaaromzet van de overtreder hoger is dan € 500.000.000 wordt in plaats van de totale jaaromzet een deel van de jaaromzet gehanteerd. De omzet tot € 500.000.000 telt volledig mee, de omzet tussen € 500.000.000 en € 1.000.000.000 telt voor 10% mee en de omzet boven de € 1.000.000.000 telt voor 1% mee.   
+5.  Wanneer de totale jaaromzet van de overtreder hoger is dan € 500.000.000 wordt in plaats van de totale jaaromzet een deel van de jaaromzet gehanteerd. De omzet tot € 500.000.000 telt volledig mee, de omzet tussen € 500.000.000 en € 1.000.000.000 telt voor 10% mee en de omzet boven de € 1.000.000.000 telt voor 1% mee.  
 
 ### Artikel  2.10  
 
 1.  De ACM bepaalt de basisboete door de boetegrondslag te vermenigvuldigen met een factor (E) voor de ernst van de overtreding.   
 2.  De factor (E) voor de ernst van de overtreding wordt bepaald door de mate waarin de overtreding de belangen schaadt die de overtreden bepaling beoogt te beschermen.   
 3.  Bij de vaststelling van de factor (E) onderscheidt de ACM drie typen overtredingen: zeer ernstige, ernstige en minder ernstige overtredingen.   
-4.  Naargelang de ernst van de overtreding wordt de factor (E) vastgesteld op een waarde van ten hoogste 5.   
+4.  Naargelang de ernst van de overtreding wordt de factor (E) vastgesteld op een waarde van ten hoogste 5.  
 
 ### §  2.1.5  
 
@@ -151,7 +151,7 @@ a. € 10.000 tot € 200.000 voor:
 
 3°. het opdracht geven tot of feitelijk leidinggeven aan overtreding van de [artikelen 4a, derde lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [artikel 7, tweede lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [11a, tweede lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [11b, derde lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [12, eerste of tweede lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [16, eerste lid, onderdelen g, k of l](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), 16, tweede lid, onderdeel g, [16a](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [16Aa, derde of vierde lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [17, vierde lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [17a, derde of vierde lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [18, derde lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [19b](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [19c](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [19d](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [19e](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [24, tweede lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [24a](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [38, derde lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [39](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [42, derde lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [68, tweede lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [78, tweede lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [95b, tweede of achtste lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [95e](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [95k](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [95l van de Elektriciteitswet 1998](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);  
 
-4°. het opdracht geven tot of feitelijk leidinggeven aan overtreding van de [artikelen 3c, derde lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [4, eerste of tweede lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [7a, derde of vierde lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [10, tweede of derde lid, onderdeel b](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [10b, vierde lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [10c, derde of vierde lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [10d, derde lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [17a](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [18b, tweede of derde lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [18g, vierde lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [34, tweede lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [35b](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [35c](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [35d](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [35e](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [40, tweede lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [42](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [44, tweede of achtste lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [52a, derde lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [56](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [82, eerste of vierde lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), of [83 van de Gaswet](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md);  
+4°. het opdracht geven tot of feitelijk leidinggeven aan overtreding van de [artikelen 3c, derde lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [4, eerste of tweede lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [7a, derde of vierde lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [10, tweede of derde lid, onderdeel b](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [10b, vierde lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [10c, derde of vierde lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [10d, derde lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [17a](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [18b, tweede of derde lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [18g, vierde lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [34, tweede lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [35b](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md),[35c](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [35d](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [35e](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [40, tweede lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [42](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [44, tweede of achtste lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [52a, derde lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [56](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [82, eerste of vierde lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), of [83 van de Gaswet](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md);  
 
 5°. het opdracht geven tot of feitelijk leidinggeven aan overtreding van [artikel IXb, eerste tot en met derde en vijfde of zesde lid](../../../../../../../../../../../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md), van artikel IXb, zevende lid, juncto artikel IXb, tweede, derde, vijfde of zesde lid, of van [artikel IXc, eerste of tweede lid, van de Wet van 23 november 2006 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet in verband met nadere regels omtrent een onafhankelijk netbeheer](../../../../../../../../../../../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md) (Stb. 2006, 614);  
 
@@ -167,7 +167,7 @@ b. € 50.000 tot € 400.000 voor het opdracht geven tot of feitelijk leiding
 
 4°. de [artikelen 6](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md), [24](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md), [34](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md), [37, vierde lid](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md), [39, tweede lid, onder a of b](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md), [40, tweede lid](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md), 40, derde lid, onder a of b, [41, eerste of vierde lid](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md), [46, tweede, derde of vierde lid](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md), [49a, vierde lid](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md), of [56, eerste lid, onderdeel c, van de Mededingingswet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md), of  
 
-5°. de artikelen 101 en 102 van het VWEU.       
+5°. de artikelen 101 en 102 van het VWEU.      
 
 ### §  2.1.6  
 
@@ -176,7 +176,7 @@ b. € 50.000 tot € 400.000 voor het opdracht geven tot of feitelijk leiding
 ### Artikel  2.12  
 
 1.  Bij de vaststelling van de bestuurlijke boete neemt de ACM boeteverhogende of boeteverlagende omstandigheden in aanmerking.   
-2.  De ACM bepaalt in redelijkheid de mate waarin de betrokken omstandigheid leidt tot een verhoging of verlaging van de basisboete.   
+2.  De ACM bepaalt in redelijkheid de mate waarin de betrokken omstandigheid leidt tot een verhoging of verlaging van de basisboete.  
 
 ### Artikel  2.13  
 
@@ -189,7 +189,7 @@ b. de omstandigheid dat de overtreder het onderzoek van de ACM heeft belemmerd;
 c. de omstandigheid dat de overtreder tot de overtreding heeft aangezet of een leidinggevende rol heeft gespeeld bij de uitvoering daarvan;  
 
 d. de omstandigheid dat de overtreder gebruik heeft gemaakt van, of voorzien in, controle- of dwangmiddelen ter handhaving van de verboden gedraging.     
-2.  In geval van recidive als bedoeld in het eerste lid, onderdeel a, verhoogt de ACM de basisboete met 100%, tenzij dit gezien de omstandigheden van het concrete geval evident onredelijk zou zijn.   
+2.  In geval van recidive als bedoeld in het eerste lid, onderdeel a, verhoogt de ACM de basisboete met 100%, tenzij dit gezien de omstandigheden van het concrete geval evident onredelijk zou zijn.  
 
 ### Artikel  2.14  
 
@@ -199,11 +199,11 @@ a. de omstandigheid dat de overtreder anders dan in het kader van afdeling 2.2 v
 
 b. de omstandigheid dat de overtreder de overtreding uit eigen beweging heeft beëindigd, waarbij meer gewicht toekomt aan het uit eigen beweging beëindigen van de overtreding voordat de ACM een onderzoek is begonnen dan nadat het onderzoek is gestart;  
 
-c. de omstandigheid dat de overtreder uit eigen beweging degenen aan wie door de overtreding schade is berokkend, schadeloos heeft gesteld.    
+c. de omstandigheid dat de overtreder uit eigen beweging degenen aan wie door de overtreding schade is berokkend, schadeloos heeft gesteld.   
 
 ### Artikel  2.15  
 
-Wanneer de ACM een bestuurlijke boete oplegt aan een natuurlijk persoon vanwege het geven van opdracht tot een overtreding of het feitelijk leiding geven aan een overtreding, kan de ACM bij de vaststelling van eventuele boeteverhogende en boeteverlagende omstandigheden, als bedoeld in de artikelen 2.13 en 2.14, rekening houden met de mate van betrokkenheid van de natuurlijke persoon bij het plegen van de overtreding en de positie van de natuurlijke persoon binnen de onderneming, ondernemersvereniging of rechtspersoon waarvoor hij of zij werkzaam is, dan wel werkzaam was.  
+Wanneer de ACM een bestuurlijke boete oplegt aan een natuurlijk persoon vanwege het geven van opdracht tot een overtreding of het feitelijk leiding geven aan een overtreding, kan de ACM bij de vaststelling van eventuele boeteverhogende en boeteverlagende omstandigheden, als bedoeld in de artikelen 2.13 en 2.14, rekening houden met de mate van betrokkenheid van de natuurlijke persoon bij het plegen van de overtreding en de positie van de natuurlijke persoon binnen de onderneming, ondernemersvereniging of rechtspersoon waarvoor hij of zij werkzaam is, dan wel werkzaam was. 
 
 ### §  2.1.7  
 
@@ -211,11 +211,11 @@ Wanneer de ACM een bestuurlijke boete oplegt aan een natuurlijk persoon vanwege 
 
 ### Artikel  2.16  
 
-Voor gedragingen die zowel een overtreding vormen van de [artikelen 6](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) of [24 van de Mededingingswet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) als van de artikelen 101 of 102 van het VWEU, wordt in beginsel één bestuurlijke boete toereikend geacht.  
+Voor gedragingen die zowel een overtreding vormen van de [artikelen 6](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) of [24 van de Mededingingswet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) als van de artikelen 101 of 102 van het VWEU, wordt in beginsel één bestuurlijke boete toereikend geacht. 
 
 ### Artikel  2.17  
 
-In afwijking van het bepaalde in de voorgaande artikelen kan de ACM, wanneer de bijzondere omstandigheden van het geval naar haar oordeel hiertoe aanleiding geven, een symbolische bestuurlijke boete opleggen.  
+In afwijking van het bepaalde in de voorgaande artikelen kan de ACM, wanneer de bijzondere omstandigheden van het geval naar haar oordeel hiertoe aanleiding geven, een symbolische bestuurlijke boete opleggen. 
 
 ### Afdeling  2.2  
 
@@ -227,29 +227,29 @@ In afwijking van het bepaalde in de voorgaande artikelen kan de ACM, wanneer de 
 
 ### Artikel  2.18  
 
-Deze afdeling is van toepassing op overtredingen waarvoor de ACM op grond van de [Mededingingswet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) een bestuurlijke boete kan opleggen.  
+Deze afdeling is van toepassing op overtredingen waarvoor de ACM op grond van de [Mededingingswet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) een bestuurlijke boete kan opleggen. 
 
 ### Artikel  2.19  
 
 In deze afdeling wordt verstaan onder: 
 
-a. *wet:* de [Mededingingswet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md);  
+a.  *wet:* de [Mededingingswet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md);  
 
-b. *b. clementie:* de verlening van boetevermindering aan een onderneming die heeft deelgenomen aan een kartel of aan een natuurlijke persoon als bedoeld in [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](../../../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), die opdracht tot of feitelijk leiding aan de deelname van een onderneming aan een kartel heeft gegeven;  
+b.  *b. clementie:* de verlening van boetevermindering aan een onderneming die heeft deelgenomen aan een kartel of aan een natuurlijke persoon als bedoeld in [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](../../../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), die opdracht tot of feitelijk leiding aan de deelname van een onderneming aan een kartel heeft gegeven;  
 
-c. *clementieverzoeker:* een onderneming of natuurlijke persoon als bedoeld in [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](../../../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) die een beroep doet op deze beleidsregels;  
+c.  *clementieverzoeker:* een onderneming of natuurlijke persoon als bedoeld in [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](../../../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) die een beroep doet op deze beleidsregels;  
 
-d. *kartel:* een overeenkomst of onderling afgestemde feitelijke gedraging tussen twee of meer concurrenten met als doel de mededinging te beperken in strijd met artikel 101 van het VWEU of [artikel 6 van de wet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md);  
+d.  *kartel:* een overeenkomst of onderling afgestemde feitelijke gedraging tussen twee of meer concurrenten met als doel de mededinging te beperken in strijd met artikel 101 van het VWEU of [artikel 6 van de wet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md);  
 
-e. *clementiecategorie A:* een boetevermindering als bedoeld in artikel 2.21;  
+e.  *clementiecategorie A:* een boetevermindering als bedoeld in artikel 2.21;  
 
-f. *clementiecategorie B:* een boetevermindering als bedoeld in artikel 2.22, eerste lid;  
+f.  *clementiecategorie B:* een boetevermindering als bedoeld in artikel 2.22, eerste lid;  
 
-g. *clementiecategorie C:* een boetevermindering als bedoeld in artikel 2.23;  
+g.  *clementiecategorie C:* een boetevermindering als bedoeld in artikel 2.23;  
 
-h. *marker:* een voorlopige plek in de rij van volgorde van binnenkomst van clementieverzoeken betreffende één kartel;  
+h.  *marker:* een voorlopige plek in de rij van volgorde van binnenkomst van clementieverzoeken betreffende één kartel;  
 
-i. *clementietoezegging:* een document met de rechten en verplichtingen van de ACM en de clementieverzoeker.    
+i.  *clementietoezegging:* een document met de rechten en verplichtingen van de ACM en de clementieverzoeker.   
 
 ### §  2.2.2  
 
@@ -257,7 +257,7 @@ i. *clementietoezegging:* een document met de rechten en verplichtingen van de A
 
 ### Artikel  2.20  
 
-De ACM beslist over clementie.  
+De ACM beslist over clementie. 
 
 ### Artikel  2.21  
 
@@ -271,7 +271,7 @@ c. hij met het clementieverzoek de ACM informatie verschaft die de ACM in staat 
 
 d. hij geen andere onderneming tot deelname aan het kartel heeft gedwongen, en  
 
-e. hij aan de medewerkingsplicht, bedoeld in artikel 2.35, voldoet.    
+e. hij aan de medewerkingsplicht, bedoeld in artikel 2.35, voldoet.   
 
 ### Artikel  2.22  
 
@@ -286,7 +286,7 @@ c. zijn clementieverzoek informatie bevat met aanzienlijke additionele waarde,
 d. hij geen andere onderneming tot deelname aan het kartel heeft gedwongen, en  
 
 e. hij aan de medewerkingsplicht, bedoeld in artikel 2.35, voldoet.     
-2.  De ACM zegt een boetevermindering van 100% toe indien een clementieverzoeker als eerste informatie aan de ACM verschaft, waarover de ACM nog niet beschikte en op basis waarvan zij het kartel kan bewijzen.   
+2.  De ACM zegt een boetevermindering van 100% toe indien een clementieverzoeker als eerste informatie aan de ACM verschaft, waarover de ACM nog niet beschikte en op basis waarvan zij het kartel kan bewijzen.  
 
 ### Artikel  2.23  
 
@@ -300,12 +300,12 @@ a. hij
 
 b. zijn clementieverzoek informatie bevat met aanzienlijke additionele waarde, en  
 
-c. hij aan de medewerkingsplicht, bedoeld in artikel 2.35, voldoet.    
+c. hij aan de medewerkingsplicht, bedoeld in artikel 2.35, voldoet.   
 
 ### Artikel  2.24  
 
 1.  Een onderzoek als bedoeld in de artikelen 2.21, onder b, en 2.22, eerste lid, onder b, begint vanaf het moment dat de ACM haar eerste vermoeden van een kartel intern schriftelijk heeft vastgelegd.   
-2.  Onder informatie met aanzienlijke additionele waarde als bedoeld in de artikelen 2.22, eerste lid, onder c, en 2.23, onder b, wordt verstaan bewijsmateriaal dat aanzienlijk bijdraagt aan het vaststellen van het kartel, gezien de aard en nauwkeurigheid ervan en hetgeen op het tijdstip van verstrekking bij de ACM bekend is.   
+2.  Onder informatie met aanzienlijke additionele waarde als bedoeld in de artikelen 2.22, eerste lid, onder c, en 2.23, onder b, wordt verstaan bewijsmateriaal dat aanzienlijk bijdraagt aan het vaststellen van het kartel, gezien de aard en nauwkeurigheid ervan en hetgeen op het tijdstip van verstrekking bij de ACM bekend is.  
 
 ### §  2.2.3  
 
@@ -314,12 +314,12 @@ c. hij aan de medewerkingsplicht, bedoeld in artikel 2.35, voldoet.
 ### Artikel  2.25  
 
 1.  Een aspirant-clementieverzoeker kan contact opnemen met de ACM om van gedachten te wisselen over een feitencomplex en de toepasselijkheid van deze beleidsregels in dat kader.   
-2.  Het contact, bedoeld in het eerste lid, kan op anonieme basis of door tussenkomst van een advocaat geschieden en kan over een hypothetisch feitencomplex gaan.   
+2.  Het contact, bedoeld in het eerste lid, kan op anonieme basis of door tussenkomst van een advocaat geschieden en kan over een hypothetisch feitencomplex gaan.  
 
 ### Artikel  2.26  
 
 1.  Een aspirant-clementieverzoeker kan telefonisch en uitsluitend door tussenkomst van een advocaat aan de ACM vragen of hij voor clementiecategorie A in aanmerking komt.   
-2.  Indien de ACM de vraag, bedoeld in het eerste lid, bevestigend beantwoordt, dient de advocaat terstond een clementieverzoek in.   
+2.  Indien de ACM de vraag, bedoeld in het eerste lid, bevestigend beantwoordt, dient de advocaat terstond een clementieverzoek in.  
 
 ### §  2.2.4  
 
@@ -333,17 +333,17 @@ a. een onderneming die aan een kartel heeft deelgenomen, vertegenwoordigd door i
 
 b. een natuurlijke persoon, niet namens een onderneming maar uitdrukkelijk voor zichzelf, die opdracht tot of feitelijk leiding aan de deelname van een onderneming aan een kartel heeft gegeven, of  
 
-c. meerdere natuurlijke personen tegelijk, niet namens een onderneming maar uitdrukkelijk voor henzelf, die opdracht tot of feitelijk leiding aan de deelname van een onderneming aan een kartel hebben gegeven, mits zij ten tijde van de indiening werkzaam zijn bij dezelfde, bij het kartel betrokken onderneming.    
+c. meerdere natuurlijke personen tegelijk, niet namens een onderneming maar uitdrukkelijk voor henzelf, die opdracht tot of feitelijk leiding aan de deelname van een onderneming aan een kartel hebben gegeven, mits zij ten tijde van de indiening werkzaam zijn bij dezelfde, bij het kartel betrokken onderneming.   
 
 ### Artikel  2.28  
 
 1.  Een natuurlijke persoon die een clementieverzoek indient, kan in aanmerking komen voor dezelfde clementiecategorie als de onderneming waarbij hij werkt, indien hij verklaart als mede-clementieverzoeker van de onderneming te willen worden aangemerkt en hij zelfstandig aan de clementievoorwaarden voldoet.   
 2.  Indien de ACM oordeelt dat het belang van het onderzoek zich daartegen niet verzet, is het eerste lid van overeenkomstige toepassing op een natuurlijke persoon die ten tijde van de indiening van het clementieverzoek niet meer werkzaam is bij de bij het kartel betrokken onderneming.   
-3.  Meerdere natuurlijke personen die gelijktijdig een clementieverzoek indienen, komen in aanmerking voor dezelfde clementiecategorie indien zij verklaren als mede-clementieverzoeker van elkaar te willen worden aangemerkt en ieder van hen zelfstandig aan de clementievoorwaarden voldoet.   
+3.  Meerdere natuurlijke personen die gelijktijdig een clementieverzoek indienen, komen in aanmerking voor dezelfde clementiecategorie indien zij verklaren als mede-clementieverzoeker van elkaar te willen worden aangemerkt en ieder van hen zelfstandig aan de clementievoorwaarden voldoet.  
 
 ### Artikel  2.29  
 
-Een clementieverzoek wordt per e-mail, fax, post, telefoon of in persoon ingediend.  
+Een clementieverzoek wordt per e-mail, fax, post, telefoon of in persoon ingediend. 
 
 ### Artikel  2.30  
 
@@ -364,12 +364,12 @@ f. de naam en het adres van alle ondernemingen die aan het kartel deelnemen of d
 g. of de clementieverzoeker andere mededingingsautoriteiten of de Europese Commissie heeft benaderd of mogelijk zal benaderen met betrekking tot het kartel, en  
 
 h. een toelichting op het bewijsmateriaal, bedoeld in het tweede lid.     
-2.  Een clementieverzoek bevat tevens bewijsmateriaal ter staving van de verklaring, bedoeld in het eerste lid, voor zover dit in het bezit is van de clementieverzoeker of dit voor hem redelijkerwijs beschikbaar is op het tijdstip van indiening.   
+2.  Een clementieverzoek bevat tevens bewijsmateriaal ter staving van de verklaring, bedoeld in het eerste lid, voor zover dit in het bezit is van de clementieverzoeker of dit voor hem redelijkerwijs beschikbaar is op het tijdstip van indiening.  
 
 ### Artikel  2.31  
 
 1.  De ACM staat toe dat de verklaring, bedoeld in artikel 2.30, eerste lid, mondeling wordt afgelegd, indien een clementieverzoeker daartoe een gerechtvaardigd belang aantoont.   
-2.  In geval van een mondelinge verklaring, wordt de verklaring geregistreerd en wordt daarvan een transcript gemaakt.   
+2.  In geval van een mondelinge verklaring, wordt de verklaring geregistreerd en wordt daarvan een transcript gemaakt.  
 
 ### Artikel  2.32  
 
@@ -394,7 +394,7 @@ b. de clementieverzoeker ten minste informatie verschaft betreffende:
 7°. de vraag of hij andere mededingingsautoriteiten of de Europese Commissie heeft benaderd of mogelijk zal benaderen met betrekking tot het kartel.       
 2.  Indien de ACM voor een clementieverzoeker een marker vaststelt, stelt zij de clementieverzoeker daarbij een termijn waarbinnen deze het clementieverzoek dient te vervolledigen.   
 3.  Indien het onvolledige clementieverzoek binnen de termijn, bedoeld in het tweede lid, wordt vervolledigd, wordt het clementieverzoek aangemerkt als volledig te zijn geweest vanaf het moment waarop de marker van toepassing is.   
-4.  Indien het onvolledige clementieverzoek niet binnen de termijn, bedoeld in het tweede lid, wordt vervolledigd, wijst de ACM het clementieverzoek af.   
+4.  Indien het onvolledige clementieverzoek niet binnen de termijn, bedoeld in het tweede lid, wordt vervolledigd, wijst de ACM het clementieverzoek af.  
 
 ### Artikel  2.33  
 
@@ -409,11 +409,11 @@ c. de clementieverzoeker tevens een clementieverzoek bij de Europese Commissie h
 d. de clementieverzoeker bij indiening van het clementieverzoek ten minste de informatie, bedoeld in artikel 2.32, eerste lid, onder b, verschaft en aangeeft in welke lidstaat of lidstaten van de Europese Unie het bewijs betreffende het kartel zich vermoedelijk bevindt.     
 2.  Indien de ACM voor een clementieverzoeker een marker vaststelt, kan zij de clementieverzoeker daarbij een termijn stellen waarbinnen deze het clementieverzoek dient te vervolledigen.   
 3.  Indien het onvolledige clementieverzoek binnen de termijn, bedoeld in het tweede lid, wordt vervolledigd, wordt het clementieverzoek geacht volledig te zijn geweest vanaf het moment waarop de marker van toepassing is.   
-4.  Indien het onvolledige clementieverzoek niet binnen de termijn, bedoeld in het tweede lid, wordt vervolledigd, wijst de ACM het clementieverzoek af.   
+4.  Indien het onvolledige clementieverzoek niet binnen de termijn, bedoeld in het tweede lid, wordt vervolledigd, wijst de ACM het clementieverzoek af.  
 
 ### Artikel  2.34  
 
-De ACM registreert de datum en het tijdstip van ontvangst van een clementieverzoek.  
+De ACM registreert de datum en het tijdstip van ontvangst van een clementieverzoek. 
 
 ### §  2.2.5  
 
@@ -430,7 +430,7 @@ b. vanaf de indiening van het clementieverzoek uit eigen beweging of op verzoek 
 
 c. onmiddellijk na het indienen van het clementieverzoek iedere betrokkenheid bij het kartel staakt, tenzij en voor zover de ACM de voortzetting daarvan redelijkerwijs noodzakelijk acht om de doeltreffendheid van inspecties te waarborgen, en  
 
-d. degenen die bij de clementieverzoeker werkzaam zijn, en voor zover redelijkerwijs mogelijk, degenen die voorheen bij de clementieverzoeker werkzaam zijn geweest, beschikbaar houdt voor het afleggen van verklaringen.     
+d. degenen die bij de clementieverzoeker werkzaam zijn, en voor zover redelijkerwijs mogelijk, degenen die voorheen bij de clementieverzoeker werkzaam zijn geweest, beschikbaar houdt voor het afleggen van verklaringen.    
 
 ### §  2.2.6  
 
@@ -438,7 +438,7 @@ d. degenen die bij de clementieverzoeker werkzaam zijn, en voor zover redelijker
 
 ### Artikel  2.36  
 
-De ACM bepaalt het percentage boetevermindering voor een clementieverzoeker als bedoeld in de artikelen 2.22, eerste lid, en 2.23 aan de hand van de datum en het tijdstip, bedoeld in de artikelen 2.32, derde lid, 2.33, derde lid, of 2.34, en de additionele waarde van de informatie die de clementieverzoeker in het kader van zijn clementieverzoek aan de ACM heeft verstrekt.  
+De ACM bepaalt het percentage boetevermindering voor een clementieverzoeker als bedoeld in de artikelen 2.22, eerste lid, en 2.23 aan de hand van de datum en het tijdstip, bedoeld in de artikelen 2.32, derde lid, 2.33, derde lid, of 2.34, en de additionele waarde van de informatie die de clementieverzoeker in het kader van zijn clementieverzoek aan de ACM heeft verstrekt. 
 
 ### Artikel  2.37  
 
@@ -446,7 +446,7 @@ Indien een clementieverzoeker als bedoeld in de artikelen 2.22, eerste lid, en 2
 
 a. als eerste informatie verschaft waarover de ACM nog niet beschikte, en  
 
-b. de ACM deze informatie gebruikt om aan te tonen dat het kartel ernstiger is of langer heeft geduurd dan voordien aan hem bekend was, zal de ACM deze informatie niet in aanmerking nemen bij het vaststellen van de hoogte van de boete die aan de clementieverzoeker wordt opgelegd.    
+b. de ACM deze informatie gebruikt om aan te tonen dat het kartel ernstiger is of langer heeft geduurd dan voordien aan hem bekend was, zal de ACM deze informatie niet in aanmerking nemen bij het vaststellen van de hoogte van de boete die aan de clementieverzoeker wordt opgelegd.   
 
 ### §  2.2.7  
 
@@ -455,25 +455,25 @@ b. de ACM deze informatie gebruikt om aan te tonen dat het kartel ernstiger is o
 ### Artikel  2.38  
 
 1.  De ACM stelt zo spoedig mogelijk na ontvangst van een clementieverzoek dat in overeenstemming met deze beleidsregels is ingediend een clementietoezegging op.   
-2.  De clementieverzoeker ondertekent de clementietoezegging.   
+2.  De clementieverzoeker ondertekent de clementietoezegging.  
 
 ### Artikel  2.39  
 
 1.  Met clementietoezeggingen wordt de definitieve volgorde van binnenkomst van clementieverzoeken betreffende een kartel vastgesteld.   
-2.  De ACM beoordeelt in de gevallen, bedoeld in artikel 2.28, de naleving van de verplichtingen uit de clementietoezegging van iedere mede-clementieverzoeker individueel.   
+2.  De ACM beoordeelt in de gevallen, bedoeld in artikel 2.28, de naleving van de verplichtingen uit de clementietoezegging van iedere mede-clementieverzoeker individueel.  
 
 ### Artikel  2.40  
 
 1.  Indien een clementieverzoeker zijn verplichtingen uit de clementietoezegging niet nakomt, vervalt de clementietoezegging.   
-2.  Indien de clementietoezegging vervalt, kan de ACM de informatie die zij van de clementieverzoeker heeft ontvangen als bewijs gebruiken.   
+2.  Indien de clementietoezegging vervalt, kan de ACM de informatie die zij van de clementieverzoeker heeft ontvangen als bewijs gebruiken.  
 
 ### Artikel  2.41  
 
-De ACM deelt een clementieverzoeker als bedoeld in de artikelen 2.22, eerste lid, en 2.23 het percentage boetevermindering mee, uiterlijk bij de verzending aan hem van het rapport, bedoeld in [artikel 59, eerste lid, van de wet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md).  
+De ACM deelt een clementieverzoeker als bedoeld in de artikelen 2.22, eerste lid, en 2.23 het percentage boetevermindering mee, uiterlijk bij de verzending aan hem van het rapport, bedoeld in [artikel 59, eerste lid, van de wet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md). 
 
 ### Artikel  2.42  
 
-De ACM beslist omtrent de boete met inachtneming van de clementietoezegging mits de clementieverzoeker zijn verplichtingen uit de clementietoezegging volledig naleeft.  
+De ACM beslist omtrent de boete met inachtneming van de clementietoezegging mits de clementieverzoeker zijn verplichtingen uit de clementietoezegging volledig naleeft. 
 
 ### §  2.2.8  
 
@@ -485,11 +485,11 @@ De ACM zal de informatie die zij verkrijgt:
 
 a. van aspirant-clementieverzoekers tijdens de contacten, bedoeld in de artikelen 2.25, 2.26 of  
 
-b. middels te goeder trouw ingediende clementieverzoeken die zij afwijst voordat de betreffende clementieverzoeker een clementietoezegging is gedaan, niet als bewijs tegen de verstrekker van de informatie gebruiken tenzij de verstrekker daarin toestemt of de ACM reeds uit andere hoofde over diezelfde informatie beschikte.    
+b. middels te goeder trouw ingediende clementieverzoeken die zij afwijst voordat de betreffende clementieverzoeker een clementietoezegging is gedaan, niet als bewijs tegen de verstrekker van de informatie gebruiken tenzij de verstrekker daarin toestemt of de ACM reeds uit andere hoofde over diezelfde informatie beschikte.   
 
 ### Artikel  2.44  
 
-Totdat het rapport, bedoeld in [artikel 59, eerste lid, van de wet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) aan een van de betrokkenen bij het kartel wordt verzonden, maakt de ACM de hoedanigheid van de clementieverzoeker niet aan derden bekend, tenzij daartoe een rechtsplicht bestaat of de clementieverzoeker daarmee heeft ingestemd.  
+Totdat het rapport, bedoeld in [artikel 59, eerste lid, van de wet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) aan een van de betrokkenen bij het kartel wordt verzonden, maakt de ACM de hoedanigheid van de clementieverzoeker niet aan derden bekend, tenzij daartoe een rechtsplicht bestaat of de clementieverzoeker daarmee heeft ingestemd. 
 
 ### Artikel  2.45  
 
@@ -498,7 +498,7 @@ Totdat het rapport, bedoeld in [artikel 59, eerste lid, van de wet](../../../../
 
 a. aan de voorwaarden van de Mededeling van de Commissie van 27 april 2004 betreffende de samenwerking binnen het netwerk van mededingingsautoriteiten (PbEG, 2004 C 101/03) is voldaan, en  
 
-b. de door de ontvangende mededingingsautoriteit of de Europese Commissie verleende bescherming tegen openbaarmaking gelijkwaardig is aan die welke de ACM biedt.     
+b. de door de ontvangende mededingingsautoriteit of de Europese Commissie verleende bescherming tegen openbaarmaking gelijkwaardig is aan die welke de ACM biedt.    
 
 ### Hoofdstuk  3  
 
@@ -506,7 +506,7 @@ b. de door de ontvangende mededingingsautoriteit of de Europese Commissie verlee
 
 ### Artikel  3.1  
 
-Dit hoofdstuk is van toepassing op overtredingen waarvoor de ACM op grond van [artikel 15.4, tweede en vierde lid, van de Telecommunicatiewet](../../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) een bestuurlijke boete kan opleggen.  
+Dit hoofdstuk is van toepassing op overtredingen waarvoor de ACM op grond van [artikel 15.4, tweede en vierde lid, van de Telecommunicatiewet](../../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) een bestuurlijke boete kan opleggen. 
 
 ### §  3.1  
 
@@ -516,17 +516,17 @@ Dit hoofdstuk is van toepassing op overtredingen waarvoor de ACM op grond van [a
 
 In dit hoofdstuk wordt verstaan onder: 
 
-a. *relevante omzet:* de omzet van de onderneming in de elektronische communicatiesector in Nederland bedoeld in [artikel 15.4, zesde lid, van de Telecommunicatiewet](../../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+a.  *relevante omzet:* de omzet van de onderneming in de elektronische communicatiesector in Nederland bedoeld in [artikel 15.4, zesde lid, van de Telecommunicatiewet](../../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
 
-b. *betrokken omzet:* de opbrengst die door een overtreder tijdens de totale duur van een overtreding is behaald met levering van goederen en diensten waarop die overtreding betrekking heeft, onder aftrek van kortingen en dergelijke, alsmede van over de omzet geheven belastingen;  
+b.  *betrokken omzet:* de opbrengst die door een overtreder tijdens de totale duur van een overtreding is behaald met levering van goederen en diensten waarop die overtreding betrekking heeft, onder aftrek van kortingen en dergelijke, alsmede van over de omzet geheven belastingen;  
 
-c. *jaaromzet:* de netto-omzet van de overtreder, zijnde de opbrengst uit levering van goederen en diensten uit het bedrijf van de overtreder, onder aftrek van kortingen en dergelijke, alsmede van over de omzet geheven belastingen;  
+c.  *jaaromzet:* de netto-omzet van de overtreder, zijnde de opbrengst uit levering van goederen en diensten uit het bedrijf van de overtreder, onder aftrek van kortingen en dergelijke, alsmede van over de omzet geheven belastingen;  
 
-d. *boetegrondslag:* een op grond van een percentage van de betrokken omzet vastgesteld bedrag, dat de basis vormt voor het bepalen van de hoogte van een op te leggen bestuurlijke boete in geval van een overtreding als bedoeld in [artikel 15.4, tweede lid, van de Telecommunicatiewet](../../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+d.  *boetegrondslag:* een op grond van een percentage van de betrokken omzet vastgesteld bedrag, dat de basis vormt voor het bepalen van de hoogte van een op te leggen bestuurlijke boete in geval van een overtreding als bedoeld in [artikel 15.4, tweede lid, van de Telecommunicatiewet](../../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
 
-e. *basisboete:* het bedrag dat resulteert wanneer de boetegrondslag is bijgesteld aan de hand van de ernst van de overtreding en, voor zover van toepassing, de basisboetetoeslag of het gewicht van de overtreder in geval van een overtreding als bedoeld in [artikel 15.4, tweede lid, van de Telecommunicatiewet](../../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) of, het bedrag dat is vastgesteld binnen de bandbreedte van de betreffende boetecategorie in geval van een overtreding als bedoeld in artikel 15.4, vierde lid, van de Telecommunicatiewet;  
+e.  *basisboete:* het bedrag dat resulteert wanneer de boetegrondslag is bijgesteld aan de hand van de ernst van de overtreding en, voor zover van toepassing, de basisboetetoeslag of het gewicht van de overtreder in geval van een overtreding als bedoeld in [artikel 15.4, tweede lid, van de Telecommunicatiewet](../../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) of, het bedrag dat is vastgesteld binnen de bandbreedte van de betreffende boetecategorie in geval van een overtreding als bedoeld in artikel 15.4, vierde lid, van de Telecommunicatiewet;  
 
-f. *basisboetetoeslag:* het bedrag waarmee de basisboete wordt verhoogd in geval van een zeer zware overtreding van de in [artikel 15.4, tweede lid, onderdelen a en b, van de Telecommunicatiewet](../../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) bedoelde bepalingen.    
+f.  *basisboetetoeslag:* het bedrag waarmee de basisboete wordt verhoogd in geval van een zeer zware overtreding van de in [artikel 15.4, tweede lid, onderdelen a en b, van de Telecommunicatiewet](../../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) bedoelde bepalingen.   
 
 ### §  3.2  
 
@@ -534,7 +534,7 @@ f. *basisboetetoeslag:* het bedrag waarmee de basisboete wordt verhoogd in geval
 
 ### Artikel  3.3  
 
-De ACM bepaalt de ernst van de overtreding door de zwaarte van de overtreding in abstracto vast te stellen en deze vervolgens te bezien in samenhang met de economische context waarin deze heeft plaatsgevonden alsmede met de bijzondere omstandigheden van het geval.  
+De ACM bepaalt de ernst van de overtreding door de zwaarte van de overtreding in abstracto vast te stellen en deze vervolgens te bezien in samenhang met de economische context waarin deze heeft plaatsgevonden alsmede met de bijzondere omstandigheden van het geval. 
 
 ### Artikel  3.4  
 
@@ -545,12 +545,12 @@ a. zeer zware overtredingen: overtredingen waarbij de concurrentie in aanzienlij
 
 b. zware overtredingen: overtredingen waardoor de concurrentie wordt belemmerd of de belangen van de eindgebruiker worden geschaad, maar niet in die mate dat deze als zeer zware overtredingen kunnen worden aangemerkt;  
 
-c. minder zware overtredingen: overtredingen van verplichtingen waarbij in het algemeen de concurrentie in beperkte mate wordt belemmerd of de belangen van eindgebruikers in beperkte mate worden geschaad.     
+c. minder zware overtredingen: overtredingen van verplichtingen waarbij in het algemeen de concurrentie in beperkte mate wordt belemmerd of de belangen van eindgebruikers in beperkte mate worden geschaad.    
 
 ### Artikel  3.5  
 
 1.  De vaststelling van de ernst van de overtreding is afhankelijk van de economische context in concreto alsmede de bijzondere omstandigheden van het geval.   
-2.  De ACM geeft de ernst van de overtreding aan in drie gradaties: zeer ernstige overtredingen, ernstige overtredingen en minder ernstige overtredingen.   
+2.  De ACM geeft de ernst van de overtreding aan in drie gradaties: zeer ernstige overtredingen, ernstige overtredingen en minder ernstige overtredingen.  
 
 ### §  3.3  
 
@@ -560,7 +560,7 @@ c. minder zware overtredingen: overtredingen van verplichtingen waarbij in het a
 
 1.  De ACM hanteert een boetegrondslag van 10% van de betrokken omzet van de overtreder.   
 2.  Indien de ACM de betrokken omzet niet op basis van door de overtreder verstrekte informatie kan bepalen, kan zij hiervan een schatting maken.   
-3.  Wanneer de ACM geen betrokken omzet kan vaststellen, kan zij als betrokken omzet aanmerken de omzet van de overtreder op de te beschermen markt gedurende de periode van de overtreding, doch voor ten minste de duur van een jaar.   
+3.  Wanneer de ACM geen betrokken omzet kan vaststellen, kan zij als betrokken omzet aanmerken de omzet van de overtreder op de te beschermen markt gedurende de periode van de overtreding, doch voor ten minste de duur van een jaar.  
 
 ### Artikel  3.7  
 
@@ -571,12 +571,12 @@ a. In geval van een minder ernstige overtreding wordt de factor (E) gesteld op e
 
 b. In geval van een ernstige overtreding wordt de factor (E) gesteld op een waarde van ten hoogste 2;  
 
-c. In geval van een zeer ernstige overtreding wordt de factor (E) gesteld op een waarde tussen 1,5 en 5.     
+c. In geval van een zeer ernstige overtreding wordt de factor (E) gesteld op een waarde tussen 1,5 en 5.    
 
 ### Artikel  3.8  
 
 1.  In het kader van specifieke preventie kan de ACM de basisboete bij overtredingen als bedoeld in [artikel 15.4, tweede lid, van de Telecommunicatiewet](../../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) aanpassen met het oog op het gewicht van de overtreder, uitgedrukt in de totale jaaromzet van deze overtreder in Nederland in het boekjaar voorafgaande aan de boetebeschikking.   
-2.  Om ondernemingen als bedoeld in [artikel 15.4, tweede lid, van de Telecommunicatiewet](../../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) ervan te weerhouden zeer zware overtredingen als bedoeld in artikel 3.4, tweede lid, onderdeel a, van deze beleidsregels te begaan, hanteert de ACM een basisboetetoeslag van maximaal 25% van de betrokken omzet in het laatste volledige jaar dat de onderneming heeft deelgenomen aan de overtreding.   
+2.  Om ondernemingen als bedoeld in [artikel 15.4, tweede lid, van de Telecommunicatiewet](../../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) ervan te weerhouden zeer zware overtredingen als bedoeld in artikel 3.4, tweede lid, onderdeel a, van deze beleidsregels te begaan, hanteert de ACM een basisboetetoeslag van maximaal 25% van de betrokken omzet in het laatste volledige jaar dat de onderneming heeft deelgenomen aan de overtreding.  
 
 ### §  3.4  
 
@@ -584,7 +584,7 @@ c. In geval van een zeer ernstige overtreding wordt de factor (E) gesteld op een
 
 ### Artikel  3.9  
 
-De ACM verbindt aan overtredingen als bedoeld in [artikel 15.4, vierde lid, van de Telecommunicatiewet](../../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) een aan de mate van de ernst van de overtreding gekoppelde boetecategorie.  
+De ACM verbindt aan overtredingen als bedoeld in [artikel 15.4, vierde lid, van de Telecommunicatiewet](../../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) een aan de mate van de ernst van de overtreding gekoppelde boetecategorie. 
 
 ### Artikel  3.10  
 
@@ -594,15 +594,15 @@ a. In het geval van een minder ernstige overtreding bedraagt de hoogte van de bo
 
 b. In het geval van een ernstige overtreding bedraagt de hoogte van de boete maximaal € 300.000;  
 
-c. In geval van een zeer ernstige overtreding bedraagt de hoogte van de boete maximaal € 450.000.    
+c. In geval van een zeer ernstige overtreding bedraagt de hoogte van de boete maximaal € 450.000.   
 
 ### Artikel  3.11  
 
-Binnen de bandbreedte per boetecategorie stelt de ACM met inachtneming van de mate waarin de overtreding aan de overtreder kan worden verweten en, indien daartoe aanleiding bestaat, andere omstandigheden, zoals de duur van de overtreding, de hoogte van de basisboete vast.  
+Binnen de bandbreedte per boetecategorie stelt de ACM met inachtneming van de mate waarin de overtreding aan de overtreder kan worden verweten en, indien daartoe aanleiding bestaat, andere omstandigheden, zoals de duur van de overtreding, de hoogte van de basisboete vast. 
 
 ### Artikel  3.12  
 
-De ACM kan bij het vaststellen van de bestuurlijke boete, met inachtneming van het wettelijk boetemaximum, buiten de grenzen van de in artikel 3.10 van deze beleidsregels vermelde boetecategorieën treden onder de in paragraaf 3.5 van deze beleidsregels genoemde omstandigheden.  
+De ACM kan bij het vaststellen van de bestuurlijke boete, met inachtneming van het wettelijk boetemaximum, buiten de grenzen van de in artikel 3.10 van deze beleidsregels vermelde boetecategorieën treden onder de in paragraaf 3.5 van deze beleidsregels genoemde omstandigheden. 
 
 ### §.  3.5  
 
@@ -611,12 +611,12 @@ De ACM kan bij het vaststellen van de bestuurlijke boete, met inachtneming van h
 ### Artikel  3.13  
 
 1.  Bij de vaststelling van de bestuurlijke boete neemt de ACM boeteverhogende of boeteverlagende omstandigheden in aanmerking.   
-2.  De ACM bepaalt in redelijkheid de mate waarin de betrokken omstandigheid leidt tot een verhoging van de basisboete.   
+2.  De ACM bepaalt in redelijkheid de mate waarin de betrokken omstandigheid leidt tot een verhoging van de basisboete.  
 
 ### Artikel  3.14  
 
 1.  Een boeteverhogende omstandigheid is in ieder geval de omstandigheid dat er sprake is van recidive door dezelfde overtreder ten aanzien van eenzelfde type overtreding.   
-2.  In geval van recidive verhoogt de ACM de bestuurlijke boete met 100%, tenzij dit percentage gezien de omstandigheden van het concrete geval evident onredelijk zou zijn.   
+2.  In geval van recidive verhoogt de ACM de bestuurlijke boete met 100%, tenzij dit percentage gezien de omstandigheden van het concrete geval evident onredelijk zou zijn.  
 
 ### Artikel  3.15  
 
@@ -626,7 +626,7 @@ a. zelf heeft gesignaleerd;
 
 b. uit eigen beweging onverwijld heeft beëindigd, en  
 
-c. op eigen initiatief bij de ACM heeft gemeld voordat de ACM met een onderzoek is begonnen.    
+c. op eigen initiatief bij de ACM heeft gemeld voordat de ACM met een onderzoek is begonnen.   
 
 ### Hoofdstuk  4  
 
@@ -634,7 +634,7 @@ c. op eigen initiatief bij de ACM heeft gemeld voordat de ACM met een onderzoek 
 
 ### Artikel  4.1  
 
-Dit hoofdstuk is van toepassing op overtredingen waarvoor de ACM op grond van [artikel 2.9, eerste lid, onderdeel b](../../../../../../../../../../../../../../wet/wet/handhaving/consumentenbescherming/BWBR0020586/README.md), j° [artikel 2.7, van de Wet handhaving consumentenbescherming](../../../../../../../../../../../../../../wet/wet/handhaving/consumentenbescherming/BWBR0020586/README.md) een bestuurlijke boete kan opleggen.  
+Dit hoofdstuk is van toepassing op overtredingen waarvoor de ACM op grond van [artikel 2.9, eerste lid, onderdeel b](../../../../../../../../../../../../../../wet/wet/handhaving/consumentenbescherming/BWBR0020586/README.md), j° [artikel 2.7, van de Wet handhaving consumentenbescherming](../../../../../../../../../../../../../../wet/wet/handhaving/consumentenbescherming/BWBR0020586/README.md) een bestuurlijke boete kan opleggen. 
 
 ### §  4.1  
 
@@ -651,7 +651,7 @@ Dit hoofdstuk is van toepassing op overtredingen waarvoor de ACM op grond van [a
 | Boetecategorie 3  | boetebandbreedte tussen € 100.000 en € 300.000  |
 | Boetecategorie 4  | boetebandbreedte tussen € 150.000 en € 400.000  |
 
-2.  In Bijlage 2 worden de bepalingen waarvan ingeval van overtreding een bestuurlijke boete kan worden opgelegd, ingedeeld in de daarbij aangegeven boetecategorie.   
+2.  In Bijlage 2 worden de bepalingen waarvan ingeval van overtreding een bestuurlijke boete kan worden opgelegd, ingedeeld in de daarbij aangegeven boetecategorie.  
 
 ### §  4.2  
 
@@ -669,11 +669,11 @@ b. de mate van verwijtbaarheid;
 c. de omstandigheden waaronder de overtreding is gepleegd;  
 
 d. de omstandigheden waarin de overtreder verkeert.     
-3.  Onder basisboete wordt verstaan de boete die wordt vastgesteld met toepassing van het eerste en tweede lid.   
+3.  Onder basisboete wordt verstaan de boete die wordt vastgesteld met toepassing van het eerste en tweede lid.  
 
 ### Artikel  4.4  
 
-Indien natuurlijke personen worden beboet als overtreder in de hoedanigheid van feitelijk leidinggevende of in de hoedanigheid van opdrachtgever als bedoeld in [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](../../../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), stemt de ACM de boete af op het inkomen en het vermogen van de overtreder.  
+Indien natuurlijke personen worden beboet als overtreder in de hoedanigheid van feitelijk leidinggevende of in de hoedanigheid van opdrachtgever als bedoeld in [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](../../../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), stemt de ACM de boete af op het inkomen en het vermogen van de overtreder. 
 
 ### §  4.3  
 
@@ -681,7 +681,7 @@ Indien natuurlijke personen worden beboet als overtreder in de hoedanigheid van 
 
 ### Artikel  4.5  
 
-Bij de vaststelling van de bestuurlijke boete neemt de ACM boeteverhogende of boeteverlagende omstandigheden in aanmerking.  
+Bij de vaststelling van de bestuurlijke boete neemt de ACM boeteverhogende of boeteverlagende omstandigheden in aanmerking. 
 
 ### Artikel  4.6  
 
@@ -689,7 +689,7 @@ Boeteverhogende omstandigheden zijn in ieder geval:
 
 a. de omstandigheid dat de overtreder niet meewerkt met het onderzoek van de ACM;  
 
-b. de omstandigheid dat er sprake is van recidive door dezelfde overtreder ten aanzien van eenzelfde type overtreding.    
+b. de omstandigheid dat er sprake is van recidive door dezelfde overtreder ten aanzien van eenzelfde type overtreding.   
 
 ### Artikel  4.7  
 
@@ -699,7 +699,7 @@ a. de omstandigheid dat de overtreder de overtreding uit eigen beweging heeft be
 
 b. de omstandigheid dat de overtreder verdergaande medewerking aan de ACM heeft verleend dan waartoe hij wettelijk gehouden was;  
 
-c. de omstandigheid dat de overtreder uit eigen beweging de consumenten aan wie door de overtreding schade is berokkend, schadeloos heeft gesteld.    
+c. de omstandigheid dat de overtreder uit eigen beweging de consumenten aan wie door de overtreding schade is berokkend, schadeloos heeft gesteld.   
 
 ### Hoofdstuk  5  
 
@@ -707,16 +707,16 @@ c. de omstandigheid dat de overtreder uit eigen beweging de consumenten aan wie 
 
 ### Artikel  5.1  
 
-Dit hoofdstuk is van toepassing op overtredingen waarvoor de ACM op grond van [artikel 4.21, eerste lid, van de Aanbestedingswet 2012](../../../../../../../../../../../../../../wet/aanbestedingswet/2012/BWBR0032203/README.md) of [artikel 3.8, eerste lid, van de Aanbestedingswet op defensie- en veiligheidsgebied](../../../../../../../../../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md) een bestuurlijke boete kan opleggen.  
+Dit hoofdstuk is van toepassing op overtredingen waarvoor de ACM op grond van [artikel 4.21, eerste lid, van de Aanbestedingswet 2012](../../../../../../../../../../../../../../wet/aanbestedingswet/2012/BWBR0032203/README.md) of [artikel 3.8, eerste lid, van de Aanbestedingswet op defensie- en veiligheidsgebied](../../../../../../../../../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md) een bestuurlijke boete kan opleggen. 
 
 ### Artikel  5.2  
 
 1.  In dit hoofdstuk wordt verstaan onder: 
 
-a. *overeenkomst:* een overeenkomst waarop [artikel 4.15, eerste lid, van de Aanbestedingswet 2012](../../../../../../../../../../../../../../wet/aanbestedingswet/2012/BWBR0032203/README.md) of [artikel 3.1, eerste lid, van de Aanbestedingswet op defensie- en veiligheidsgebied](../../../../../../../../../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md) van toepassing is;  
+a.  *overeenkomst:* een overeenkomst waarop [artikel 4.15, eerste lid, van de Aanbestedingswet 2012](../../../../../../../../../../../../../../wet/aanbestedingswet/2012/BWBR0032203/README.md) of [artikel 3.1, eerste lid, van de Aanbestedingswet op defensie- en veiligheidsgebied](../../../../../../../../../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md) van toepassing is;  
 
-b. *opschortende termijn:* de termijn bedoeld in [artikel 2.127, eerste lid](../../../../../../../../../../../../../../wet/aanbestedingswet/2012/BWBR0032203/README.md), of [artikel 2.131 van de Aanbestedingswet 2012](../../../../../../../../../../../../../../wet/aanbestedingswet/2012/BWBR0032203/README.md) respectievelijk de termijn bedoeld in [artikel 2.118, eerste lid](../../../../../../../../../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md), of [artikel 2.122 van de Aanbestedingswet op defensie- en veiligheidsgebied](../../../../../../../../../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md).     
-2.  De artikelen 1.2 tot en met 1.3 zijn niet van toepassing op dit hoofdstuk.   
+b.  *opschortende termijn:* de termijn bedoeld in [artikel 2.127, eerste lid](../../../../../../../../../../../../../../wet/aanbestedingswet/2012/BWBR0032203/README.md), of [artikel 2.131 van de Aanbestedingswet 2012](../../../../../../../../../../../../../../wet/aanbestedingswet/2012/BWBR0032203/README.md) respectievelijk de termijn bedoeld in [artikel 2.118, eerste lid](../../../../../../../../../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md), of [artikel 2.122 van de Aanbestedingswet op defensie- en veiligheidsgebied](../../../../../../../../../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md).     
+2.  De artikelen 1.2 tot en met 1.3 zijn niet van toepassing op dit hoofdstuk.  
 
 ### Artikel  5.3  
 
@@ -726,7 +726,7 @@ b. *opschortende termijn:* de termijn bedoeld in [artikel 2.127, eerste lid](../
 a. het gedeelte van de overeenkomst dat niet is vernietigd en  
 
 b. het gedeelte van de overeenkomst dat vernietigd is, maar waarover de werking aan die vernietiging is ontzegd.     
-3.  Indien de waarde van de overeenkomst hoger is dan de eerder door de aanbestedende dienst of het speciale-sectorbedrijf geraamde waarde van de opdracht wordt bij de toepassing van het eerste lid uitgegaan van die geraamde waarde voor het deel van de opdracht waaraan door de vernietiging van de overeenkomst de werking niet is ontzegd.   
+3.  Indien de waarde van de overeenkomst hoger is dan de eerder door de aanbestedende dienst of het speciale-sectorbedrijf geraamde waarde van de opdracht wordt bij de toepassing van het eerste lid uitgegaan van die geraamde waarde voor het deel van de opdracht waaraan door de vernietiging van de overeenkomst de werking niet is ontzegd.  
 
 ### Artikel  5.4  
 
@@ -743,21 +743,21 @@ d. indien onderdeel c niet kan worden toegepast, blijkt de waarde van de overeen
 e. indien onderdeel d niet kan worden toegepast, wordt de waarde van de overeenkomst vastgesteld aan de hand van historisch gebruik of verbruik van vergelijkbare opdrachten door de aanbestedende dienst of het speciale-sectorbedrijf;  
 
 f. indien onderdeel e niet kan worden toegepast, wordt de waarde van de opdracht vastgesteld aan de hand van opgaven van ondernemingen die vergelijkbare opdrachten gewoonlijk uitvoeren.     
-2.  De waarde van het deel van de overeenkomst dat niet is vernietigd wordt vastgesteld op de wijze beschreven in het eerste lid.   
+2.  De waarde van het deel van de overeenkomst dat niet is vernietigd wordt vastgesteld op de wijze beschreven in het eerste lid.  
 
 ### Artikel  5.5  
 
 1.  Indien de aanbestedende dienst of het speciale-sectorbedrijf ten onrechte geen voorafgaande aankondiging van de opdracht heeft bekendgemaakt, bedraagt het boetepercentage 15%.   
 2.  Indien de omstandigheden van het geval daartoe aanleiding geven, kan de ACM in afwijking van het eerste lid een lager boetepercentage vaststellen.   
 3.  Het boetepercentage, bedoeld in het eerste lid, wordt in ieder geval lager vastgesteld indien uit een onherroepelijk geworden oordeel van de rechter blijkt dat er sprake is van verzachtende omstandigheden ten aanzien van het ontbreken van die voorafgaande aankondiging.   
-4.  Indien een gedeeltelijke vernietiging van een overeenkomst is gebaseerd op [artikel 4.15, eerste lid, onderdeel c, van de Aanbestedingswet 2012](../../../../../../../../../../../../../../wet/aanbestedingswet/2012/BWBR0032203/README.md) of [artikel 3.2, eerste lid, onderdeel c, van de Aanbestedingswet op defensie- en veiligheidsgebied](../../../../../../../../../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md), zijn voor de vaststelling van het boetepercentage het eerste en tweede lid van overeenkomstige toepassing.   
+4.  Indien een gedeeltelijke vernietiging van een overeenkomst is gebaseerd op [artikel 4.15, eerste lid, onderdeel c, van de Aanbestedingswet 2012](../../../../../../../../../../../../../../wet/aanbestedingswet/2012/BWBR0032203/README.md) of [artikel 3.2, eerste lid, onderdeel c, van de Aanbestedingswet op defensie- en veiligheidsgebied](../../../../../../../../../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md), zijn voor de vaststelling van het boetepercentage het eerste en tweede lid van overeenkomstige toepassing.  
 
 ### Artikel  5.6  
 
 1.  Indien de aanbestedende dienst of het speciale-sectorbedrijf de overeenkomst heeft gesloten tijdens de opschortende termijn bedraagt het boetepercentage 10%.   
 2.  Indien de omstandigheden van het geval daartoe aanleiding geven, kan de ACM in afwijking van het eerste lid een lager of hoger boetepercentage vaststellen.   
 3.  Het boetepercentage, bedoeld in het eerste lid wordt in ieder geval verhoogd, indien uit het onherroepelijk geworden oordeel van de rechter blijkt dat er sprake is van verzwarende omstandigheden ten aanzien van het niet in acht nemen van de opschortende termijn.   
-4.  Het boetepercentage, bedoeld in het eerste lid, wordt in ieder geval verlaagd, indien uit het onherroepelijk geworden oordeel van de rechter blijkt dat er sprake is van verzachtende omstandigheden ten aanzien van het niet in acht nemen van de opschortende termijn.   
+4.  Het boetepercentage, bedoeld in het eerste lid, wordt in ieder geval verlaagd, indien uit het onherroepelijk geworden oordeel van de rechter blijkt dat er sprake is van verzachtende omstandigheden ten aanzien van het niet in acht nemen van de opschortende termijn.  
 
 ### Hoofdstuk  6  
 
@@ -765,7 +765,7 @@ f. indien onderdeel e niet kan worden toegepast, wordt de waarde van de opdracht
 
 ### Artikel  6.1  
 
-Op overtredingen waarvan een rapport is opgemaakt voorafgaand aan het tijdstip van inwerkingtreding van deze beleidsregels, wordt beslist met toepassing van de Beleidsregels van de Minister van Economische Zaken voor het opleggen van bestuurlijke boetes door de NMa 2009, de Beleidsregels van de Minister van Economische zaken tot vermindering van bestuurlijke boetes betreffende kartels onderscheidenlijk de Beleidsregels boetetoemeting met betrekking tot het opleggen van bestuurlijke boetes ingevolge artikel 15.4 van de Telecommunicatiewet (Boetebeleidsregels OPTA) (Stcrt. 2010, 5163) zoals deze golden onmiddellijk voorafgaand aan dat tijdstip.  
+Op overtredingen waarvan een rapport is opgemaakt voorafgaand aan het tijdstip van inwerkingtreding van deze beleidsregels, wordt beslist met toepassing van de Beleidsregels van de Minister van Economische Zaken voor het opleggen van bestuurlijke boetes door de NMa 2009, de Beleidsregels van de Minister van Economische zaken tot vermindering van bestuurlijke boetes betreffende kartels onderscheidenlijk de Beleidsregels boetetoemeting met betrekking tot het opleggen van bestuurlijke boetes ingevolge artikel 15.4 van de Telecommunicatiewet (Boetebeleidsregels OPTA) (Stcrt. 2010, 5163) zoals deze golden onmiddellijk voorafgaand aan dat tijdstip. 
 
 ### Artikel  6.2  
 
@@ -773,22 +773,22 @@ De volgende beleidsregels worden ingetrokken:
 
 a. [Beleidsregels van de Minister van Economische Zaken voor het opleggen van bestuurlijke boetes door de NMa 2009](../../../../../../../../../../../../../../beleidsregel/beleidsregels/van/de/minister/van/economische/zaken/voor/het/opleggen/van/etc/BWBR0026413/README.md).  
 
-b. [Beleidsregels van de Minister van Economische Zaken tot vermindering van geldboetes betreffende kartels](../../../../../../../../../../../../../../beleidsregel/beleidsregels/van/de/minister/van/economische/zaken/tot/vermindering/van/etc/BWBR0026407/README.md).    
+b. [Beleidsregels van de Minister van Economische Zaken tot vermindering van geldboetes betreffende kartels](../../../../../../../../../../../../../../beleidsregel/beleidsregels/van/de/minister/van/economische/zaken/tot/vermindering/van/etc/BWBR0026407/README.md).   
 
 ### Artikel  6.3  
 
-Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst.  
+Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst. 
 
 ### Artikel  6.4  
 
-Deze beleidsregels worden aangehaald als: Beleidsregels van de Minister van Economische Zaken voor het opleggen van bestuurlijke boetes door de ACM.  
+Deze beleidsregels worden aangehaald als: Beleidsregels van de Minister van Economische Zaken voor het opleggen van bestuurlijke boetes door de ACM. 
 Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Economische Zaken,
-H.G.J.Kamp  
+Minister van Economische Zaken, 
+H.G.J. Kamp    
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####, behorende bij artikel 2.9, derde lid , van de Beleidsregels van de Minister van Economische Zaken voor het opleggen van bestuurlijke boetes door de ACM
 
@@ -870,7 +870,7 @@ a. De overtredingen, bedoeld in de [Mededingingswet](../../../../../../../../../
 | --- | --- |
 | Categorie III  | a. [artikel 69](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) juncto [59a, derde lid](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md);  b. artikel 69 [juncto 77a, derde lid](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md);  c. [artikel 73](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) juncto [35](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md);  d. artikel 73 juncto [42](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md).  |
 | --- | --- |
-| Categorie IV  |  [artikel 70b](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md)   |
+| Categorie IV  | [artikel 70b](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md)  |
 
 b. De overtredingen, bedoeld in de [Mededingingswet](../../../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md), die bestraft kunnen worden met een bestuurlijke boete van maximaal € 450.000,– of 10% van de totale jaaromzet als dat meer is, worden als volgt in categorieën ingedeeld:    
 
@@ -892,7 +892,7 @@ De overtredingen van de Algemene wet bestuursrecht, die op grond van [artikel 69
 | --- | --- |
 | Categorie V  | [artikel 5:20](../../../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) juncto artikelen 5:15 en [5:17](../../../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)  |
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####, behorende bij artikel 4.2, tweede lid , van de Beleidsregels van de Minister van Economische Zaken voor het opleggen van bestuurlijke boetes door de ACM
 
@@ -909,31 +909,31 @@ De overtredingen van de Algemene wet bestuursrecht, die op grond van [artikel 69
 | --- | a. in de akte, bedoeld in het eerste lid, de in artikel 25, eerste lid, bedoelde mogelijkheid om de overeenkomst te ontbinden wordt vermeld alsmede zijn of hun naam en zijn of hun adres, waarnaar de in artikel 25, eerste lid, bedoelde mededeling kan worden gezonden, een en ander op straffe van nietigheid van de overeenkomst;  | 3  |
 | --- | b. de akte is opgemaakt met inachtneming van de bij algemene maatregel van bestuur te stellen regels over de inhoud en de wijze van opmaak van die akte.  Bedoelde algemene maatregel van bestuur is Besluit akten van colportageovereenkomsten.  | zie voor de toepasselijke boetecategorie hieronder het Besluit akten van colportageovereenkomsten  |
 | Artikel 25 lid 5  | Nakoming van een uit de overeenkomstvoortvloeiende verbintenis (waaronder betaling) kan door de wederpartij van de consument, eerst worden gevorderd op de dag waarop de in het tweede lid bedoelde herroepingstermijn is verlopen.  | 3  |
-| [Besluit akten van colportageovereenkomsten](../../../../../../../../../../../../../../AMvB/besluit/akten/van/colportageovereenkomsten/BWBR0002984/README.md) (Stb. 2012, 612)  | --- | --- |
+| [ Besluit akten van colportageovereenkomsten](../../../../../../../../../../../../../../AMvB/besluit/akten/van/colportageovereenkomsten/BWBR0002984/README.md) (Stb. 2012, 612)  | --- | --- |
 | Artikel 1  | Het ontbreken van (een) element(en) genoemd in artikel 1 aanhef en  | --- |
 | onder a1:  | --- | 3  |
 | onder a2:  | --- | 1  |
 | onder a3, a4, b, c en d:  | --- | 2  |
 |  [Prijzenwet](../../../../../../../../../../../../../../wet/prijzenwet/BWBR0002353/README.md)   | --- | --- |
-| Artikel 2b  | Uit deze bepaling volgt dat bij AMvB voorschriften kunnen worden vastgesteld betreffende: – bekendmaking van de prijzen waartegen producten/diensten worden aangeboden (art. 2b lid 1 sub a); – bekendmaking van de prijzen per in die maatregel aangewezen meeteenheden (art. 2b lid 1 sub b)  | 2 of 3 (zie voor de toepasselijke boetecategorie hierna: Besluit prijsaanduiding producten) <sup>1</sup>  |
-| Artikel 3, voor zover samenhangend met artikel 2b  | Mogelijkheid tot ontheffing van bepaalde in art. 2b Prijzenwet (met eventueel beperkingen en of voorschriften daaraan verbonden)  | 2 <sup>2</sup>  |
-|  [Besluit prijsaanduiding producten](../../../../../../../../../../../../../../AMvB/besluit/prijsaanduiding/producten/BWBR0015104/README.md)   | --- | --- |
+| Artikel 2b  | Uit deze bepaling volgt dat bij AMvB voorschriften kunnen worden vastgesteld betreffende: – bekendmaking van de prijzen waartegen producten/diensten worden aangeboden (art. 2b lid 1 sub a); – bekendmaking van de prijzen per in die maatregel aangewezen meeteenheden (art. 2b lid 1 sub b)  | 2 of 3 (zie voor de toepasselijke boetecategorie hierna: Besluit prijsaanduiding producten)<sup>1</sup>   |
+| Artikel 3, voor zover samenhangend met artikel 2b  | Mogelijkheid tot ontheffing van bepaalde in art. 2b Prijzenwet (met eventueel beperkingen en of voorschriften daaraan verbonden)  | 2<sup>2</sup>   |
+|  [Besluit prijsaanduiding producten](../../../../../../../../../../../../../../AMvB/besluit/prijsaanduiding/producten/BWBR0015104/README.md)  | --- | --- |
 | Artikelen 2 t/m 5  | Uitwerking art. 2b lid 1 sub a en b Prijzenwet.  | 2: in geval van overtreding van artikelen 2, 3, 4 lid 1, artikel 5 lid 1 jo. artikel 2, artikel 5 lid 1 jo. artikel 3 en artikel 5 lid 2;  3: in geval van overtreding van artikel 4 lid 2 en artikel 5 lid 1 jo. artikel 4 lid 2  |
 |  *Elektronische handel*   | --- | --- |
-|  [Artikel 3:15d lid 1 BW](../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md)   | Degene die een dienst van de informatiemaatschappij verleent, maakt de volgende gegevens gemakkelijk, rechtstreeks en permanent toegankelijk voor degenen die gebruikmaken van deze dienst, in het bijzonder om informatie te verkrijgen of toegankelijk te maken:  | 2  |
+| [Artikel 3:15d lid 1 BW](../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md)  | Degene die een dienst van de informatiemaatschappij verleent, maakt de volgende gegevens gemakkelijk, rechtstreeks en permanent toegankelijk voor degenen die gebruikmaken van deze dienst, in het bijzonder om informatie te verkrijgen of toegankelijk te maken:  | 2  |
 | Artikel 3:15d lid 1 sub a BW  | identiteit en adres van vestiging van de dienstverlener;  | 3  |
-| Artikel 3:15d lid 1 sub b BW  | gegevens die snel contact en effectieve communicatie met hem mogelijk maken, inclusief zijn e-mailadres;  | 2 <sup>3</sup>  |
-| Artikel 3:15d lid 1 sub c BW  | voor zover hij is ingeschreven in een handelsregister of een vergelijkbaar openbaar register: de naam van het register en zijn inschrijvingsnummer, of een vergelijkbaar middel ter identificatie in dat register;  | 1 <sup>4</sup>  |
-| Artikel 3:15d lid 1 sub d BW  | voor zover een activiteit aan een vergunningsstelsel is onderworpen: de gegevens over de bevoegde toezichthoudende autoriteit;  | 1 <sup>5</sup>  |
-| Artikel 3:15d lid 1 sub e BW  | voor zover hij een gereglementeerd beroep uitoefent: de beroepsvereniging of organisatie waarbij hij is ingeschreven; de beroepstitel en de lidstaat (EU/EER) waar de titel is toegekend; verwijzing naar de beroepsregels die in Nederland van toepassing zijn en de wijze van toegang daartoe;  | 2 <sup>6</sup>  |
-| Artikel 3:15d lid 1 sub f BW  | voor zover hij een aan BTW onderworpen activiteit uitoefent: het btw- identificatienummer zoals bedoeld in artikel 2a, eerste lid, onder g, van de Wet op de Omzetbelasting 1968;  | 1 <sup>7</sup>  |
+| Artikel 3:15d lid 1 sub b BW  | gegevens die snel contact en effectieve communicatie met hem mogelijk maken, inclusief zijn e-mailadres;  | 2<sup>3</sup>   |
+| Artikel 3:15d lid 1 sub c BW  | voor zover hij is ingeschreven in een handelsregister of een vergelijkbaar openbaar register: de naam van het register en zijn inschrijvingsnummer, of een vergelijkbaar middel ter identificatie in dat register;  | 1<sup>4</sup>   |
+| Artikel 3:15d lid 1 sub d BW  | voor zover een activiteit aan een vergunningsstelsel is onderworpen: de gegevens over de bevoegde toezichthoudende autoriteit;  | 1<sup>5</sup>   |
+| Artikel 3:15d lid 1 sub e BW  | voor zover hij een gereglementeerd beroep uitoefent: de beroepsvereniging of organisatie waarbij hij is ingeschreven; de beroepstitel en de lidstaat (EU/EER) waar de titel is toegekend; verwijzing naar de beroepsregels die in Nederland van toepassing zijn en de wijze van toegang daartoe;  | 2<sup>6</sup>   |
+| Artikel 3:15d lid 1 sub f BW  | voor zover hij een aan BTW onderworpen activiteit uitoefent: het btw- identificatienummer zoals bedoeld in artikel 2a, eerste lid, onder g, van de Wet op de Omzetbelasting 1968;  | 1<sup>7</sup>   |
 | Artikel 3:15d lid 2 BW  | De dienstverlener geeft aanduidingen van prijzen in een dienst van de informatiemaatschappij duidelijk en ondubbelzinnig aan, met de uitdrukkelijke vermelding of, en zo mogelijk welke, belasting en leveringskosten daarbij inbegrepen zijn.  | 3  |
 | Artikel 3:15e lid 1 BW  | Verplichtingen waaraan de opdrachtgever van commerciële communicatie, als bedoeld in artikel 3:15e lid 3, moet voldoen:  | --- |
-| Artikel 3:15e lid 1 sub a BW  | commerciële communicatie is duidelijk als zodanig herkenbaar;  | 3 <sup>8</sup>  |
+| Artikel 3:15e lid 1 sub a BW  | commerciële communicatie is duidelijk als zodanig herkenbaar;  | 3<sup>8</sup>   |
 | Artikel 3:15e lid 1 sub b BW  | commerciële communicatie vermeldt de identiteit van de opdrachtgever;  | 3  |
 | Artikel 3:15e lid 1 sub c BW  | commerciële communicatie, indien deze verkoopbevorderende aanbiedingen, wedstrijden of spelen omvat, bevat een duidelijke en ondubbelzinnige vermelding van de aard en de voorwaarden van de aanbieding of deelneming;  | 3  |
-| Artikel 3:15e lid 1 sub d BW  | ongevraagde commerciële communicatie door middel van elektronische post moet reeds bij ontvangst duidelijk en ondubbelzinnig als zodanig herkenbaar zijn;  | 3 <sup>9</sup>  |
-|  [Artikel 6:227b lid 1 BW](../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md)   | Informatie die moet worden verstrekt door verlener van dienst van de informatiemaatschappij als bedoeld in artikel 3:15d lid 3 BW voordat een overeenkomst langs elektronische weg wordt gesloten:  | --- |
+| Artikel 3:15e lid 1 sub d BW  | ongevraagde commerciële communicatie door middel van elektronische post moet reeds bij ontvangst duidelijk en ondubbelzinnig als zodanig herkenbaar zijn;  | 3<sup>9</sup>   |
+| [Artikel 6:227b lid 1 BW](../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md)  | Informatie die moet worden verstrekt door verlener van dienst van de informatiemaatschappij als bedoeld in artikel 3:15d lid 3 BW voordat een overeenkomst langs elektronische weg wordt gesloten:  | --- |
 | Artikel 6:227b lid 1 sub a BW  | wijze waarop de overeenkomst tot stand zal komen en welke handelingen daarvoor nodig zijn;  | 2  |
 | Artikel 6:227b lid 1 sub b BW  | al dan niet archiveren van de overeenkomst na totstandkoming, en zo ja, op welke wijze deze voor de wederpartij te raadplegen zal zijn;  | 1  |
 | Artikel 6:227b lid 1 sub c BW  | wijze waarop wederpartij van door hem niet gewilde handelingen op de hoogte kan geraken en de wijze waarop hij deze kan herstellen voordat de overeenkomst tot stand komt;  | 3  |
@@ -943,7 +943,7 @@ De overtredingen van de Algemene wet bestuursrecht, die op grond van [artikel 69
 | Artikel 6:227c lid 1 BW  | De verlener van dienst van de informatiemaatschappij als bedoeld in artikel 3:15d lid 3 BW stelt de wederpartij passende, doeltreffende en toegankelijke middelen ter beschikking waarmee hij vóór aanvaarding van de overeenkomst van door hem niet gewilde handelingen op de hoogte kan geraken en hoe hij deze kan herstellen.  | 3  |
 | Artikel 6:227c lid 2 BW  | In geval van een verklaring van een consument die door de dienstverlener mag worden opgevat hetzij als aanvaarding van een door hem langs elektronische weg gedaan aanbod, hetzij als een aanbod naar aanleiding van een door hem langs elektronische weg gedane uitnodiging om in onderhandeling te treden, bevestigt de dienstverlener zo spoedig mogelijk de ontvangst van deze verklaring. Zolang de ontvangst van een aanvaarding niet is bevestigd, kan de wederpartij de overeenkomst ontbinden. Het niet tijdig bevestigen van de ontvangst van een aanbod geldt als verwerping daarvan.  | 2  |
 |  *Algemene voorwaarden*   | --- | --- |
-|  [Artikel 6:236 BW](../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md)   | Lijst met onredelijk bezwarende bedingen (zwarte lijst)  Bij een overeenkomst tussen een gebruiker en een wederpartij, zijnde natuurlijke persoon, die niet handelt in de uitoefening van een beroep of bedrijf, wordt als onredelijk bezwarend aangemerkt een in de algemene voorwaarden voorkomend beding:  | --- |
+| [Artikel 6:236 BW](../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md)  | Lijst met onredelijk bezwarende bedingen (zwarte lijst)  Bij een overeenkomst tussen een gebruiker en een wederpartij, zijnde natuurlijke persoon, die niet handelt in de uitoefening van een beroep of bedrijf, wordt als onredelijk bezwarend aangemerkt een in de algemene voorwaarden voorkomend beding:  | --- |
 | a  | Dat de wederpartij geheel en onvoorwaardelijk het recht ontneemt de door de gebruiker toegezegde prestatie op te eisen;  | 2  |
 | b  | Dat de aan de wederpartij toekomende bevoegdheid tot ontbinding, zoals deze in afdeling 5 van titel 5 is geregeld, uitsluit of beperkt;  | 2  |
 | c  | Dat een de wederpartij volgens de wet toekomende bevoegdheid tot opschorting van de nakoming uitsluit of beperkt of de gebruiker een verdergaande bevoegdheid tot opschorting verleent dan hem volgens de wet toekomt;  | 2  |
@@ -964,7 +964,7 @@ De overtredingen van de Algemene wet bestuursrecht, die op grond van [artikel 69
 | r  | Dat de wederpartij verplicht de verklaring tot opzegging van een overeenkomst als bedoeld onder j of p respectievelijk q te laten plaatsvinden op een bepaald moment;  | 2  |
 | s  | Dat in geval van een overeenkomst met beperkte duur tot het geregeld ter kennismaking afleveren van dag-, nieuws-, weekbladen en tijdschriften leidt tot voortzetting van de overeenkomst.  | 2  |
 |  *Garantie bij consumentenkoop*   | (Zie art. 7:5 lid 1 BW voor definitie consumentenkoop en art. 7:6a lid 5 BW voor definitie garantie))  | --- |
-|  [Artikel 7:6a lid 2 BW](../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md)   | In een garantie moet op duidelijke en begrijpelijke wijze worden vermeld:  | --- |
+| [Artikel 7:6a lid 2 BW](../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md)  | In een garantie moet op duidelijke en begrijpelijke wijze worden vermeld:  | --- |
 | --- | welke in artikel 7:6a lid 1 BW bedoelde rechten of vorderingen een koper worden toegekend;  | 2  |
 | --- | dat deze de koper toekomen onverminderd de rechten of vorderingen die de wet hem toekent;  | 2  |
 | --- | naam en adres van de verkoper of producent van wie de garantie afkomstig is;  | 2  |
@@ -978,14 +978,14 @@ De overtredingen van de Algemene wet bestuursrecht, die op grond van [artikel 69
 | Artikel 7:46c lid 1 sub a BW  | de identiteit en bij verplichte vooruitbetaling van de prijs het adres van de verkoper;  | 3  |
 | Artikel 7:46c lid 1 sub b BW  | de belangrijkste kenmerken van de zaak;  | 3  |
 | Artikel 7:46c lid 1 sub c BW  | de prijs, met inbegrip van alle belastingen, van de zaak;  | 3  |
-| Artikel 7:46c lid 1 sub d BW  | de kosten van aflevering, voor zover van toepassing;  | 2 <sup>10</sup>  |
-| Artikel 7:46c lid 1 sub e BW  | de wijze van betaling, aflevering of uitvoering van de koop op afstand;  | 2 <sup>11</sup>  |
-| Artikel 7:46c lid 1 sub f BW  | het al dan niet van toepassing zijn van de mogelijkheid van ontbinding overeenkomstig artikel 46d lid 1 en artikel 46e BW  | 2 <sup>12</sup>  |
-| Artikel 7:46c lid 1 sub g BW  | Indien de kosten van het gebruik van de techniek voor communicatie op afstand worden berekend op een andere grondslag dan het basistarief: de hoogte van het geldende tarief;  | 2 <sup>13</sup>  |
-| Artikel 7:46c lid 1 sub h BW  | De termijn voor aanvaarding van het aanbod, dan wel de termijn voor het gestand doen van de prijs;  | 2 <sup>14</sup>  |
-| Artikel 7:46c lid 1 sub i BW  | voor zover van toepassing, in geval van een koop op afstand die strekt tot voortdurende of periodieke aflevering van zaken: de minimale duur van de overeenkomst  | 2 <sup>15</sup>  |
+| Artikel 7:46c lid 1 sub d BW  | de kosten van aflevering, voor zover van toepassing;  | 2<sup>10</sup>   |
+| Artikel 7:46c lid 1 sub e BW  | de wijze van betaling, aflevering of uitvoering van de koop op afstand;  | 2<sup>11</sup>   |
+| Artikel 7:46c lid 1 sub f BW  | het al dan niet van toepassing zijn van de mogelijkheid van ontbinding overeenkomstig artikel 46d lid 1 en artikel 46e BW  | 2<sup>12</sup>   |
+| Artikel 7:46c lid 1 sub g BW  | Indien de kosten van het gebruik van de techniek voor communicatie op afstand worden berekend op een andere grondslag dan het basistarief: de hoogte van het geldende tarief;  | 2<sup>13</sup>   |
+| Artikel 7:46c lid 1 sub h BW  | De termijn voor aanvaarding van het aanbod, dan wel de termijn voor het gestand doen van de prijs;  | 2<sup>14</sup>   |
+| Artikel 7:46c lid 1 sub i BW  | voor zover van toepassing, in geval van een koop op afstand die strekt tot voortdurende of periodieke aflevering van zaken: de minimale duur van de overeenkomst  | 2<sup>15</sup>   |
 | Artikel 7:46c lid 2 BW  | Tijdig bij de nakoming van de koop op afstand en, voor zover het niet aan derden af te leveren zaken betreft, uiterlijk bij de aflevering, moeten aan de koper op duidelijke en begrijpelijke wijze schriftelijk of, voor zover het de in de onderdelen a en c-e bedoelde gegevens betreft, op een andere te zijner beschikking staande en voor hem toegankelijke duurzame gegevensdrager, de volgende gegevens worden verstrekt, behoudens voor zover dit reeds is geschied voordat de koop op afstand werd gesloten:  | 2  |
-| Artikel 7:46c lid 2 sub a BW  | de gegevens als bedoeld in lid 1 sub a t/m f  | de gegevens bedoeld in lid 1 sub a t/m c: 3;  lid 1 sub d t/m f: 2 <sup>16</sup>  |
+| Artikel 7:46c lid 2 sub a BW  | de gegevens als bedoeld in lid 1 sub a t/m f  | de gegevens bedoeld in lid 1 sub a t/m c: 3;  lid 1 sub d t/m f: 2<sup>16</sup>   |
 | Artikel 7:46c lid 2 sub b BW  | de vereisten voor gebruikmaking van het recht op ontbinding overeenkomstig artikel 7:46d lid 1 en artikel 7:46e lid 2  | 3  |
 | Artikel 7:46c lid 2 sub c BW  | het bezoekadres van de vestiging van de verkoper waar koper een klacht kan indienen;  | 2  |
 | Artikel 7:46c lid 2 sub d BW  | Voor zover van toepassing, gegevens omtrent garantie en omtrent in het kader van koop op afstand aangeboden diensten;  | 2  |
@@ -1001,7 +1001,7 @@ De overtredingen van de Algemene wet bestuursrecht, die op grond van [artikel 69
 | Artikel 7:46h lid 6 BW  | Degene die ongevraagde communicatie overbrengt of mededelingen doet ter bevordering van de totstandbrenging van een koop op afstand, neemt passende maatregelen om de consument bekend te maken met de mogelijkheid om de benadering met gebruikmaking van de in lid 5 bedoelde systemen tegen te houden.  | 2  |
 | Artikel 7:46h lid 7 BW  | Aan de maatregelen bedoeld in de leden 2 en 5 zijn voor de consument geen kosten verbonden.  | 2  |
 | Artikel 7:46i BW  | Het bepaalde in artikel 7:46h lid 2 t/m 4 BW is van overeenkomstige toepassing op overeenkomsten op afstand tot het verrichten van diensten.  | Lid 2 en lid 3: 2;  lid 4: 3  |
-|  [Artikel 11.7 Telecommunicatiewet](../../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md)   | --- | --- |
+| [Artikel 11.7 Telecommunicatiewet](../../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md)  | --- | --- |
 | Lid 1  | Zonder voorafgaande toestemming gebruiken van automatische oproep- en communicatiesystemen zonder menselijke tussenkomst, faxen en elektronische berichten voor ongevraagde communicatie voor commerciële, ideële of charitatieve doeleinden.  | 2  |
 | Lid 3  | Gebruik van elektronische contactgegevens voor elektronische berichten die zijn verkregen in het kader van de verkoop van een eigen product of dienst voor het overbrengen van communicatie voor commerciële, ideële of charitatieve doeleinden met betrekking tot eigen gelijksoortige producten of diensten, zonder dat bij de verkrijging van de contactgegevens aan de klant duidelijk en uitdrukkelijk de gelegenheid is geboden om kosteloos en op gemakkelijke wijze verzet aan te tekenen tegen het gebruik van die elektronische contactgegevens, en, zonder dat – indien de klant hiervan geen gebruik heeft gemaakt – de klant bij elke overgebrachte communicatie de mogelijkheid is geboden om kosteloos en op gemakkelijke wijze verzet aan te tekenen tegen het verder gebruik van zijn elektronische contactgegevens.  | 2  |
 | Lid 4  | Op het gebruik van elektronische berichten voor de in het eerste lid genoemde doeleinden zijn de vereisten van artikel 15e, eerste lid, onderdelen a tot en met c, van boek 3 van het Burgerlijk Wetboek van overeenkomstige toepassing en bedoeld gebruik bevat geen aanmoedigingen informatie op het internet te raadplegen die in strijd is met dat artikel.  | 2  |
@@ -1047,12 +1047,12 @@ De overtredingen van de Algemene wet bestuursrecht, die op grond van [artikel 69
 | --- | onder b;  | 1  |
 | --- | onder c;  | 1  |
 | --- | onder d.  | 1  |
-|  [Artikel 7:501 lid 2 BW](../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md)   | Vóór het sluiten van de reisovereenkomst deelt de reisorganisator de wederpartij schriftelijk of op andere begrijpelijke en toegankelijke wijze de in lid 1 bedoelde gegevens mee, voor zover die gegevens aan de wederpartij nog niet bekend zijn door verstrekking van de algemeen verkrijgbare prospectus of andere publicatie. <sup>17</sup>  | 3: bij niet vermelden van reissom; voor de  toepasselijke boetecategorie bij niet vermelden van de andere bij AMvB bepaalde gegevens: zie artikelen 1-4 Gegevensbesluit georganiseerde reizen, hiervoor  |
+| [Artikel 7:501 lid 2 BW](../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md)  | Vóór het sluiten van de reisovereenkomst deelt de reisorganisator de wederpartij schriftelijk of op andere begrijpelijke en toegankelijke wijze de in lid 1 bedoelde gegevens mee, voor zover die gegevens aan de wederpartij nog niet bekend zijn door verstrekking van de algemeen verkrijgbare prospectus of andere publicatie.<sup>17</sup>   | 3: bij niet vermelden van reissom; voor de  toepasselijke boetecategorie bij niet vermelden van de andere bij AMvB bepaalde gegevens: zie artikelen 1-4 Gegevensbesluit georganiseerde reizen, hiervoor  |
 | Artikel 7:502 lid 1 BW  | De reiziger kan de reisovereenkomst te allen tijde met onmiddellijke ingang opzeggen.  | 3  |
 | Artikel 7:502 lid 3 BW  | Indien de reiziger opzegt wegens een niet aan hem toe te rekenen omstandigheid, heeft hij recht op teruggave of kwijtschelding van de reissom of, indien de reis reeds ten dele is genoten, een evenredig deel daarvan.  | 3  |
 |  *Oneerlijke handelspraktijken*   | Art. 8.8 Whc: Het is een handelaar niet toegestaan oneerlijke handelspraktijken te verrichten als bedoeld in Afdeling 3A van Titel 3 van Boek 6 van het Burgerlijk Wetboek.  | --- |
 |  *Misleidende handelspraktijken*   | --- | --- |
-|  [Artikel 6:193a BW](../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md)   | Definities  | --- |
+| [Artikel 6:193a BW](../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md)  | Definities  | --- |
 | Artikel 6:193b lid 1 BW  | Een handelaar handelt onrechtmatig jegens een consument indien hij een handelspraktijk verricht die oneerlijk is.  | 3 of 4  (zie voor de toepasselijke categorie, de hiernavolgende bepalingen)  |
 | Artikel 6:193b lid 2 BW  | Een handelspraktijk is oneerlijk indien een handelaar handelt:  a) in strijd met de vereisten van professionele toewijding;  b) het vermogen van de gemiddelde consument om een geïnformeerd besluit te nemen merkbaar is beperkt of kan worden beperkt,  waardoor de gemiddelde consument een besluit over een overeenkomst neemt of kan nemen, dat hij anders niet had genomen.  | 3  |
 | Artikel 6:193b lid 3 BW  | Een handelspraktijk is in het bijzonder misleidend indien een handelaar a. een misleidende handelspraktijk als bedoeld in artikelen 6:193c t/m g BW, of b. een agressieve praktijk verricht als bedoeld in artikelen 6:193h en 193i BW.  | Zie hierna: artikelen 6:193c t/m i.  |
@@ -1103,8 +1103,8 @@ De overtredingen van de Algemene wet bestuursrecht, die op grond van [artikel 69
 | Artikel 7:46c lid 1 sub h BW  De termijn voor aanvaarding van het aanbod, dan wel het gestand doen van de prijs  | 3  |
 | Artikel 7:46c lid 1 sub i BW  Bij periodieke of voortdurende aflevering van zaken: minimale duur van de overeenkomst  | 3  |
 | onder c  | Artikel 7:501 lid 1 BW  | 3  |
-| onder f  |  [Artikel 2b Prijzenwet](../../../../../../../../../../../../../../wet/prijzenwet/BWBR0002353/README.md)   | 3  |
-|  [Artikel 6:193g BW](../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md)   | De volgende handelspraktijken zijn onder alle omstandigheden misleidend:  | --- |
+| onder f  | [Artikel 2b Prijzenwet](../../../../../../../../../../../../../../wet/prijzenwet/BWBR0002353/README.md)  | 3  |
+| [Artikel 6:193g BW](../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md)  | De volgende handelspraktijken zijn onder alle omstandigheden misleidend:  | --- |
 | onder a  | Beweren aan een gedragscode gebonden te zijn en daarnaar te handelen, wanneer dit niet het geval is;  | 4  |
 | onder b  | Zonder de vereiste toestemming een vertrouwens-, kwaliteits- of ander soortgelijk label aanbrengen;  | 4  |
 | onder c  | Beweren dat een gedragscode door een publieke of andere instantie is erkend wanneer dit niet het geval is;  | 4  |
@@ -1177,4 +1177,4 @@ De overtredingen van de Algemene wet bestuursrecht, die op grond van [artikel 69
 | Artikel 6:230d onder 4 BW  | Gedragscodes die op dienstverrichters van toepassing zijn, alsmede het adres waar zij elektronisch kunnen worden geraadpleegd en de beschikbare talen waarin deze codes kunnen worden geraadpleegd.  | 2  |
 | Artikel 6:230 e BW  | Informatie bedoeld in art. 230 b, c en d is correct, helder en ondubbelzinnig. Deze informatie wordt tijdig voor de sluiting van een schriftelijke overeenkomst of, indien er geen schriftelijke overeenkomst is, voor de verrichting van de dienst meegedeeld of beschikbaar gesteld.  | 2  |
 
-<sup>1</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder g BW. <sup>2</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder g BW. <sup>3</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder a BW. <sup>4</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder a BW. <sup>5</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder a BW. <sup>6</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder a BW. <sup>7</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder a BW. <sup>8</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder a BW. <sup>9</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder a BW. <sup>10</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder b BW. <sup>11</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder b BW. <sup>12</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder b BW. <sup>13</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder b BW. <sup>14</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder b BW. <sup>15</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder b BW. <sup>16</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder b BW. <sup>17</sup> Het tweede lid is niet van toepassing indien de reisovereenkomst minder dan 72 uren voor aanvang van de reis wordt gesloten. 
+<sup>1</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder g BW.<sup>2</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder g BW.<sup>3</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder a BW.<sup>4</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder a BW.<sup>5</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder a BW.<sup>6</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder a BW.<sup>7</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder a BW.<sup>8</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder a BW.<sup>9</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder a BW.<sup>10</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder b BW.<sup>11</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder b BW.<sup>12</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder b BW.<sup>13</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder b BW.<sup>14</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder b BW.<sup>15</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder b BW.<sup>16</sup> Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder b BW.<sup>17</sup> Het tweede lid is niet van toepassing indien de reisovereenkomst minder dan 72 uren voor aanvang van de reis wordt gesloten.

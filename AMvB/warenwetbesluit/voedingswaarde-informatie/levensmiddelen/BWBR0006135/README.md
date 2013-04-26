@@ -8,21 +8,21 @@ Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur
 
 Gelet op artikel 11, eerste en tweede lid, van Richtlijn nr. 90/496/EEG van de Raad van de Europese Gemeenschappen van 24 september 1990 inzake de voedingswaarde-etikettering van levensmiddelen (*PbEG* L 276);
 
-Gelet op [artikel 8, onder c](../../../../../wet/warenwet/BWBR0001969/README.md), [12](../../../../../wet/warenwet/BWBR0001969/README.md) en [14 van de Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md) en op artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet;
+Gelet op [artikel 8, onder c ](../../../../../wet/warenwet/BWBR0001969/README.md), [12](../../../../../wet/warenwet/BWBR0001969/README.md) en [14 van de Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md) en op artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet;
 
 Gezien het advies van de Adviescommissie Warenwet (advies van 16 juni 1992, nr. 14511(3)5);
 
 De Raad van State gehoord (advies van 13 juli 1993, nr. W 13.93.0239);
 
 Gezien het nader rapport van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur van 24 augustus 1993, nr. DGVgz/VVP/L 931549, uitgebracht in overeenstemming met Onze Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
-Hebben goedgevonden en verstaan:     
+Hebben goedgevonden en verstaan:   
 ### §  1  
 
 ####algemene bepalingen
 
 ### Artikel  1  
 
-1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
+1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  
 
 a. richtlijn: de Richtlijn nr. 90/496/EEG van de Raad van de Europese Gemeenschappen van 24 september 1990 inzake de voedingswaarde-etikettering van levensmiddelen (*PbEG* L 276), naar de tekst zoals deze bij die richtlijn is vastgesteld;  
 
@@ -32,7 +32,7 @@ c. eet- of drinkwaren: eet- of drinkwaren die bestemd zijn als zodanig aan de ei
 
 d. voedingsstoffen: eiwitten, koolhydraten, vetstoffen, voedingsvezels, natrium en in de bijlage genoemde vitaminen en mineralen;  
 
-e. voedingswaarde-etikettering: het op een etiket van de verpakking van een eet- of drinkwaar aanbrengen van informatie over die waar met betrekking tot 
+e. voedingswaarde-etikettering: het op een etiket van de verpakking van een eet- of drinkwaar aanbrengen van informatie over die waar met betrekking tot  
 
 1°. de energetische waarde, en  
 
@@ -44,7 +44,7 @@ g. eiwitten: het eiwitgehalte berekend aan de hand van de volgende formule: eiwi
 
 h. koolhydraten: de koolhydraten die in het menselijk organisme worden gemetaboliseerd, met inbegrip van polyolen;  
 
-i. *polyolen:* sorbitol (E 420), mannitol (E 421), xylitol (E 967), isomalt (E 953), maltitol (E 965), lactitol (E 966), maltitolstroop (E 965), sorbitolstroop (E 420) en erytritol (E 968);  
+i.  *polyolen:* sorbitol (E 420), mannitol (E 421), xylitol (E 967), isomalt (E 953), maltitol (E 965), lactitol (E 966), maltitolstroop (E 965), sorbitolstroop (E 420) en erytritol (E 968);  
 
 j. suikers: alle in voedsel aanwezige mono- en di-sacchariden, met uitzondering van polyolen;  
 
@@ -58,45 +58,45 @@ n. meervoudig onverzadigd vet: vetzuren met cis-cis dubbele bindingen met daartu
 
 o. gemiddelde waarde: de waarde waardoor de hoeveelheid van een voedingsstof in een bepaalde eet- of drinkwaar het best wordt weergegeven en waarin tevens rekening is gehouden met seizoenschommelingen, consumptiepatronen en andere factoren waardoor de reële waarde kan variëren;  
 
-p. verordening (EG) 1924/2006: verordening (EG) nr. 1924/2006 van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 inzake voedings- en gezondheidsclaims voor levensmiddelen (PbEU 2006, L 404, en 2007, L 12);  
+p.verordening (EG) 1924/2006: verordening (EG) nr. 1924/2006 van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 inzake voedings- en gezondheidsclaims voor levensmiddelen (PbEU 2006, L 404, en 2007, L 12);
 
-q. claim inzake ziekterisicobeperking: een claim inzake ziekterisicobeperking als bedoeld in artikel 2, zesde lid, van verordening (EG) 1924/2006;  
+q.claim inzake ziekterisicobeperking: een claim inzake ziekterisicobeperking als bedoeld in artikel 2, zesde lid, van verordening (EG) 1924/2006;
 
-r. *voedingsvezels:* koolhydraatpolymeren bestaande uit drie of meer monomere eenheden, die in de menselijke dunne darm niet verteerd en niet opgenomen worden en tot de volgende categorieën behoren: 
+r.  *voedingsvezels:* koolhydraatpolymeren bestaande uit drie of meer monomere eenheden, die in de menselijke dunne darm niet verteerd en niet opgenomen worden en tot de volgende categorieën behoren: 
 
 1° eetbare koolhydraatpolymeren die van nature voorkomen in levensmiddelen zoals die worden geconsumeerd;  
 
 2° eetbare koolhydraatpolymeren die langs fysische, enzymatische of chemische weg uit grondstoffen voor levensmiddelen zijn verkregen en een gunstig fysiologisch effect hebben dat door algemeen aanvaarde wetenschappelijke gegevens wordt gestaafd; of  
 
-3° eetbare synthetische koolhydraatpolymeren met een gunstig fysiologisch effect dat door algemeen aanvaarde wetenschappelijke gegevens wordt gestaafd;    
+3° eetbare synthetische koolhydraatpolymeren met een gunstig fysiologisch effect dat door algemeen aanvaarde wetenschappelijke gegevens wordt gestaafd;   
 
-s. voedselkeuzelogo: een logo dat het voor consumenten eenvoudiger maakt levensmiddelen te kiezen die ten opzichte van vergelijkbare levensmiddelen in een productcategorie gezonder zijn wat betreft energie of de gehaltes aan verzadigd vet, transvet, toegevoegd suiker, voedingsvezel of zout.     
-2.  Ten aanzien van: 
+s.  voedselkeuzelogo: een logo dat het voor consumenten eenvoudiger maakt levensmiddelen te kiezen die ten opzichte van vergelijkbare levensmiddelen in een productcategorie gezonder zijn wat betreft energie of de gehaltes aan verzadigd vet, transvet, toegevoegd suiker, voedingsvezel of zout.    
+2.  Ten aanzien van:
 
-a. natuurlijk mineraalwater en ander voor menselijke consumptie bestemd water; en  
+a.natuurlijk mineraalwater en ander voor menselijke consumptie bestemd water; en
 
-b. eet- en drinkwaren welke tot hoofddoel hebben het leveren van bepaalde voedingsstoffen;   zijn artikel 2, eerste lid, artikel 3, eerste lid, onder b, 1°, en tweede, derde en vierde lid, en de artikelen 7, 9, 10, 12 en 13, niet van toepassing.   
-3.  Artikel 11a is niet van toepassing op het verhandelen van een levensmiddel ten aanzien waarvan een voedselkeuzelogo is gebezigd dat niet door toedoen van Nederland overeenkomstig verordening (EG) 1924/2006 is toegelaten, en dat rechtmatig is bereid of in de handel is gebracht in een andere lidstaat van de Europese Unie.   
+b.eet- en drinkwaren welke tot hoofddoel hebben het leveren van bepaalde voedingsstoffen; zijn artikel 2, eerste lid, artikel 3, eerste lid, onder b, 1°, en tweede, derde en vierde lid, en de artikelen 7, 9, 10, 12 en 13, niet van toepassing.  
+3.  Artikel 11a is niet van toepassing op het verhandelen van een levensmiddel ten aanzien waarvan een voedselkeuzelogo is gebezigd dat niet door toedoen van Nederland overeenkomstig verordening (EG) 1924/2006 is toegelaten, en dat rechtmatig is bereid of in de handel is gebracht in een andere lidstaat van de Europese Unie. 
 
 ### Artikel  2  
 
-1.  Het is verboden een eet- of drinkwaar, ten aanzien waarvan: 
+1. Het is verboden een eet- of drinkwaar, ten aanzien waarvan:  
 
 a. voedingswaarde-etikettering plaatsvindt; of  
 
-b. een bewering inzake de voedingswaarde wordt gebezigd;   te verhandelen anders dan met inachtneming van de voorschriften, bij of krachtens dit besluit gesteld met betrekking tot het bezigen van vermeldingen of voorstellingen.   
-2.  Het is verboden te handelen in strijd met de bij of krachtens de artikelen 3, 4, derde en vijfde lid, 5, 6, eerste en tweede lid, 7, 8, eerste lid, 9, 10, eerste, tweede en derde lid, 12, en 14, van verordening (EG) 1924/2006 gestelde voorschriften.   
-3.  Het is verboden te handelen in strijd met bij of krachtens artikel 11a gestelde voorschriften.   
+b. een bewering inzake de voedingswaarde wordt gebezigd;   te verhandelen anders dan met inachtneming van de voorschriften, bij of krachtens dit besluit gesteld met betrekking tot het bezigen van vermeldingen of voorstellingen.  
+2. Het is verboden te handelen in strijd met de bij of krachtens de artikelen 3, 4, derde en vijfde lid, 5, 6, eerste en tweede lid, 7, 8, eerste lid, 9, 10, eerste, tweede en derde lid, 12, en 14, van verordening (EG) 1924/2006 gestelde voorschriften. 
+3.  Het is verboden te handelen in strijd met bij of krachtens artikel 11a gestelde voorschriften. 
 
-### Artikel  2a  
+###Artikel 2a 
 
-1.  [Artikel 19, eerste lid, onder a](../../../../../wet/warenwet/BWBR0001969/README.md), en [artikel 20, tweede lid, onder a, van de Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md), zijn niet van toepassing op een claim inzake ziekterisicobeperking, indien: 
+1. [Artikel 19, eerste lid, onder a](../../../../../wet/warenwet/BWBR0001969/README.md), en [artikel 20, tweede lid, onder a, van de Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md), zijn niet van toepassing op een claim inzake ziekterisicobeperking, indien:
 
-a. de desbetreffende claim is opgenomen in de communautaire lijst, bedoeld in artikel 14, eerste lid, van verordening (EG) 1924/2006; en  
+a.de desbetreffende claim is opgenomen in de communautaire lijst, bedoeld in artikel 14, eerste lid, van verordening (EG) 1924/2006; en
 
-b. voldaan is aan de in die lijst gestelde voorwaarden voor het gebruik van die claim.     
-2.  De Nederlandse Voedsel- en Warenautoriteit is de bevoegde nationale autoriteit, bedoeld in verordening (EG) 1924/2006.   
-3.  Onze Minister stelt nadere regels vast inzake voedings- en gezondheidsclaims voor levensmiddelen, voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens verordening (EG) 1924/2006 gestelde voorschriften.   
+b.voldaan is aan de in die lijst gestelde voorwaarden voor het gebruik van die claim. 
+2. De Nederlandse Voedsel- en Warenautoriteit is de bevoegde nationale autoriteit, bedoeld in verordening (EG) 1924/2006. 
+3. Onze Minister stelt nadere regels vast inzake voedings- en gezondheidsclaims voor levensmiddelen, voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens verordening (EG) 1924/2006 gestelde voorschriften.
 
 ### §  2  
 
@@ -104,16 +104,16 @@ b. voldaan is aan de in die lijst gestelde voorwaarden voor het gebruik van die 
 
 ### Artikel  3  
 
-1.  Bij voedingswaarde-etikettering wordt een vermelding gebezigd, in onderstaande volgorde, van: 
+1.  Bij voedingswaarde-etikettering wordt een vermelding gebezigd, in onderstaande volgorde, van:  
 
 a. de energetische waarde; en  
 
-b. het gehalte aan: 
+b. het gehalte aan:  
 
 1°. eiwitten, koolhydraten en vetten; of  
 
 2°. eiwitten, koolhydraten, suikers, vetten, verzadigde vetzuren, voedingsvezels en natrium.       
-2.  Onverminderd het eerste lid wordt bij voedingswaarde-etikettering uitsluitend een vermelding gebezigd van het gehalte aan één of meer van de volgende voedingsstoffen: 
+2.   Onverminderd het eerste lid wordt bij voedingswaarde-etikettering uitsluitend een vermelding gebezigd van het gehalte aan één of meer van de volgende voedingsstoffen:  
 
 a. zetmeel;  
 
@@ -126,30 +126,30 @@ d. meervoudig onverzadigde vetzuren;
 e. cholesterol; of  
 
 f. de in de bijlage genoemde vitaminen en mineralen die in de waar aanwezig zijn in een significante hoeveelheid, zoals in de bijlage bedoeld.     
-3.  Indien de in het tweede lid, aanhef en onder *c, d* of *e*, bedoelde vermelding wordt gebezigd, wordt bij de voedingswaarde-etikettering ook een vermelding van het gehalte aan verzadigde vetzuren gebezigd.   
-4.  Indien een bewering inzake de voedingswaarde wordt gebezigd, vindt voedingswaarde-etikettering plaats, en worden daarbij: 
+3.   Indien de in het tweede lid, aanhef en onder *c, d* of *e*, bedoelde vermelding wordt gebezigd, wordt bij de voedingswaarde-etikettering ook een vermelding van het gehalte aan verzadigde vetzuren gebezigd.   
+4.   Indien een bewering inzake de voedingswaarde wordt gebezigd, vindt voedingswaarde-etikettering plaats, en worden daarbij:  
 
 a. de stoffen vermeld die behoren tot of bestanddelen zijn van een van de categorieën van de in het eerste en tweede lid genoemde voedingsstoffen en waarop de bewering betrekking heeft;  
 
-b. de vermeldingen, bedoeld in het eerste lid, onder *a*, en *b*, 2°, gebezigd, indien de bewering betrekking heeft op suikers, verzadigde vetzuren, voedingsvezel of natrium.     
+b. de vermeldingen, bedoeld in het eerste lid, onder *a*, en *b*, 2°, gebezigd, indien de bewering betrekking heeft op suikers, verzadigde vetzuren, voedingsvezel of natrium.    
 
 ### Artikel  4  
 
-Het gehalte aan suikers, polyolen of zetmeel van een eet- of drinkwaar wordt vermeld onmiddellijk na de vermelding van het gehalte aan koolhydraten, op de volgende wijze: 
+Het gehalte aan suikers, polyolen of zetmeel van een eet- of drinkwaar wordt vermeld onmiddellijk na de vermelding van het gehalte aan koolhydraten, op de volgende wijze:  
 
-- koolhydraten g, waarvan:  
+- koolhydraten g,  waarvan:  
 
 - suikers g,  
 
 - polyolen g,  
 
-- zetmeel g.    
+- zetmeel g.   
 
 ### Artikel  5  
 
-De soort of het gehalte aan vetzuur of het gehalte aan cholesterol van de eet- of drinkwaar wordt vermeld onmiddellijk na de vermelding van het totaal vetgehalte, op de volgende wijze: 
+De soort of het gehalte aan vetzuur of het gehalte aan cholesterol van de eet- of drinkwaar wordt vermeld onmiddellijk na de vermelding van het totaal vetgehalte, op de volgende wijze:  
 
-- vet g, waarvan:  
+- vet g,  waarvan:  
 
 - verzadigd vet g,  
 
@@ -157,11 +157,11 @@ De soort of het gehalte aan vetzuur of het gehalte aan cholesterol van de eet- o
 
 - meervoudig onverzadigd vet g,  
 
-- cholesterol mg.    
+- cholesterol mg.   
 
 ### Artikel  6  
 
-1.  De energetische waarde en de gehaltes aan voedingsstoffen of bestanddelen daarvan van een eet- of drinkwaar worden in cijfers vermeld en in de volgende eenheden uitgedrukt: 
+1.  De energetische waarde en de gehaltes aan voedingsstoffen of bestanddelen daarvan van een eet- of drinkwaar worden in cijfers vermeld en in de volgende eenheden uitgedrukt:  
 
 a. energetische waarde in kJ en kcal;  
 
@@ -170,15 +170,15 @@ b. eiwit, koolhydraten, vet, voedingsvezels en natrium in gram;
 c. cholesterol in milligram;  
 
 d. vitaminen en mineralen in de in de bijlage genoemde eenheden.     
-2.  De in het eerste lid bedoelde waarde en gehaltes worden vermeld per 100 g of 100 ml van de waar en mogen tevens worden vermeld: 
+2.   De in het eerste lid bedoelde waarde en gehaltes worden vermeld per 100 g of 100 ml van de waar en mogen tevens worden vermeld:  
 
 a. per op het etiket aangegeven geserveerde hoeveelheid; of  
 
 b. per portie, onder vermelding van het aantal porties in de verpakking.     
-3.  Onverminderd het eerste en tweede lid wordt het gehalte aan vitaminen en mineralen ook vermeld in procenten van de in de bijlage vermelde aanbevolen dagelijkse hoeveelheid.   
-4.  Onze Minister stelt ter uitvoering van krachtens artikel 10 van de richtlijn getroffen maatregelen nadere regels vast inzake het in grafische vorm vermelden van de in het eerste, tweede en derde lid bedoelde gegevens.   
-5.  De in dit artikel bedoelde vermeldingen hebben betrekking op de eet- of drinkwaar zoals die te koop wordt aangeboden.   
-6.  In afwijking van het vijfde lid mogen, indien een voldoende gedetailleerde bereidingswijze is vermeld, de in dit artikel bedoelde vermeldingen betrekking hebben op de na bereiding voor consumptie gerede eet- of drinkwaar.   
+3.   Onverminderd het eerste en tweede lid wordt het gehalte aan vitaminen en mineralen ook vermeld in procenten van de in de bijlage vermelde aanbevolen dagelijkse hoeveelheid.   
+4.   Onze Minister stelt ter uitvoering van krachtens artikel 10 van de richtlijn getroffen maatregelen nadere regels vast inzake het in grafische vorm vermelden van de in het eerste, tweede en derde lid bedoelde gegevens.   
+5.   De in dit artikel bedoelde vermeldingen hebben betrekking op de eet- of drinkwaar zoals die te koop wordt aangeboden.   
+6.   In afwijking van het vijfde lid mogen, indien een voldoende gedetailleerde bereidingswijze is vermeld, de in dit artikel bedoelde vermeldingen betrekking hebben op de na bereiding voor consumptie gerede eet- of drinkwaar.  
 
 ### §  3  
 
@@ -186,12 +186,12 @@ b. per portie, onder vermelding van het aantal porties in de verpakking.
 
 ### Artikel  7  
 
-1.  Een bewering inzake de voedingswaarde heeft uitsluitend betrekking op: 
+1.  Een bewering inzake de voedingswaarde heeft uitsluitend betrekking op:  
 
 a. energetische waarde; en  
 
 b. de stoffen die behoren tot of bestanddelen zijn van een van de categorieën van de in het eerste en tweede lid van artikel 3 genoemde voedingsstoffen.     
-2.  Onze Minister stelt ter uitvoering van krachtens de richtlijn getroffen maatregelen nadere regels vast met betrekking tot het eerste lid.   
+2.   Onze Minister stelt ter uitvoering van krachtens de richtlijn getroffen maatregelen nadere regels vast met betrekking tot het eerste lid.  
 
 ### §  4  
 
@@ -200,7 +200,7 @@ b. de stoffen die behoren tot of bestanddelen zijn van een van de categorieën v
 ### Artikel  9  
 
 1.  De vermeldingen terzake van de voedingswaarde-etikettering en de beweringen inzake de voedingswaarde worden tezamen op één, in het oog vallende, plaats aangebracht, voor wat betreft voedingswaarde-etikettering in tabelvorm met de cijfers onder elkaar of, indien daarvoor niet voldoende ruimte beschikbaar is, achter elkaar.   
-2.  De [artikelen 23](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md), [24, eerste en tweede lid](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md), en [25 tot en met 28 van het Warenwetbesluit Etikettering van levensmiddelen](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md), zijn van overeenkomstige toepassing met betrekking tot de in het eerste lid bedoelde vermeldingen met dien verstande dat die vermeldingen daarnaast tevens in een andere taal gebezigd mogen worden.   
+2.   De [artikelen 23](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md), [24, eerste en tweede lid](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md), en [25 tot en met 28 van het Warenwetbesluit Etikettering van levensmiddelen](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md), zijn van overeenkomstige toepassing met betrekking tot de in het eerste lid bedoelde vermeldingen met dien verstande dat die vermeldingen daarnaast tevens in een andere taal gebezigd mogen worden.  
 
 ### §  5  
 
@@ -208,7 +208,7 @@ b. de stoffen die behoren tot of bestanddelen zijn van een van de categorieën v
 
 ### Artikel  10  
 
-1.  Bij de berekening van de te vermelden energetische waarde van een eet- of drinkwaar wordt van de volgende omrekeningsfactoren gebruik gemaakt: 
+1.  Bij de berekening van de te vermelden energetische waarde van een eet- of drinkwaar wordt van de volgende omrekeningsfactoren gebruik gemaakt:  
 
 a. koolhydraten (met uitzondering van polyolen): 17 kJ/g - 4 kcal/g  
 
@@ -222,23 +222,23 @@ e. alcohol (ethanol): 29 kJ/g - 7 kcal/g
 
 f. organische zuren: 13 kJ/g - 3 kcal/g  
 
-g. salatrims: 25 kJ/g – 6 kcal/g  
+g.salatrims: 25 kJ/g – 6 kcal/g
 
 h. voedingsvezels: 8 kJ/g – 2 kcal/g  
 
-i. erytritol: 0 kJ/g – 0 kcal/g.     
-2.  Onze Minister stelt ter uitvoering van krachtens de richtlijn getroffen maatregelen nadere regels vast met betrekking tot de omrekeningsfactoren die gebruikt worden bij de berekening van de energetische waarde van eet- of drinkwaren.   
+i. erytritol: 0 kJ/g – 0 kcal/g.    
+2.   Onze Minister stelt ter uitvoering van krachtens de richtlijn getroffen maatregelen nadere regels vast met betrekking tot de omrekeningsfactoren die gebruikt worden bij de berekening van de energetische waarde van eet- of drinkwaren.  
 
 ### Artikel  11  
 
-1.  De in dit besluit bedoelde waarden en gehaltes zijn naar behoren vastgestelde gemiddelden, waarvoor al naar gelang van het geval wordt uitgegaan van: 
+1.  De in dit besluit bedoelde waarden en gehaltes zijn naar behoren vastgestelde gemiddelden, waarvoor al naar gelang van het geval wordt uitgegaan van:  
 
 a. de analyse van de eet- of drinkwaar door de fabrikant;  
 
 b. de berekening op basis van de bekende of effectieve gemiddelde waarde van de verwerkte ingrediënten; of  
 
 c. de berekening aan de hand van algemeen vaststaande en aanvaarde gegevens.     
-2.  Onze Minister stelt ter uitvoering van krachtens de richtlijn getroffen maatregelen nadere regels vast met betrekking tot het eerste lid.   
+2.   Onze Minister stelt ter uitvoering van krachtens de richtlijn getroffen maatregelen nadere regels vast met betrekking tot het eerste lid.  
 
 ### §  5a  
 
@@ -276,7 +276,7 @@ d. het voedselkeuzelogo en de regels voor het gebruik ervan zijn goedgekeurd doo
 2.  Een verzoek tot goedkeuring van een voedselkeuzelogo en van de regels voor het gebruik ervan, wordt ingediend bij Onze Minister. De goedkeuring wordt verleend indien voldaan is aan de in dit artikel ter zake gestelde voorwaarden.   
 3.  Onze Minister kan een in het tweede lid bedoelde goedkeuring intrekken indien het voedselkeuzelogo of de regels voor het gebruik ervan niet meer voldoen aan de in het tweede lid bedoelde voorwaarden.   
 4.  Onze Minister maakt een in het tweede en derde lid bedoeld besluit bekend in de Staatscourant.   
-5.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld inzake het eerste en tweede lid. In deze nadere regels kan worden bepaald dat de goedkeuring voor bepaalde tijd wordt verleend.   
+5.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld inzake het eerste en tweede lid. In deze nadere regels kan worden bepaald dat de goedkeuring voor bepaalde tijd wordt verleend.  
 
 ### §  6  
 
@@ -285,24 +285,24 @@ d. het voedselkeuzelogo en de regels voor het gebruik ervan zijn goedgekeurd doo
 ### Artikel  12  
 
 1.  Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot een in dit besluit bedoelde eet- of drinkwaar al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, worden aangewezen chromatografische en andere scheidingsmethoden, alsmede detectiemethoden.   
-2.  Onze Minister stelt ter uitvoering van krachtens de richtlijn getroffen maatregelen nadere regels vast met betrekking tot het eerste lid.   
-3.  Onverminderd het tweede lid kan Onze Minister nadere regels stellen met betrekking tot het eerste lid.   
+2.   Onze Minister stelt ter uitvoering van krachtens de richtlijn getroffen maatregelen nadere regels vast met betrekking tot het eerste lid.   
+3.   Onverminderd het tweede lid kan Onze Minister nadere regels stellen met betrekking tot het eerste lid.  
 
 ### Artikel  13  
 
-In afwijking van artikel 3, eerste lid, onder b, 2°, en vierde lid, aanhef en onder b, mag voedingswaarde-etikettering van onderscheidenlijk het gehalte aan suikers, verzadigde vetzuren, voedingsvezels of natrium, tot 1 oktober 1995 ook afzonderlijk van elkaar plaatsvinden, met dien verstande dat zulks in dat geval geschiedt in overeenstemming met de in artikel 3, eerste lid, onder b, 2°, aangegeven positie in de reeks van de daar bedoelde vermeldingen.  
+In afwijking van artikel 3, eerste lid, onder b, 2°, en vierde lid, aanhef en onder b, mag voedingswaarde-etikettering van onderscheidenlijk het gehalte aan suikers, verzadigde vetzuren, voedingsvezels of natrium, tot 1 oktober 1995 ook afzonderlijk van elkaar plaatsvinden, met dien verstande dat zulks in dat geval geschiedt in overeenstemming met de in artikel 3, eerste lid, onder b, 2°, aangegeven positie in de reeks van de daar bedoelde vermeldingen. 
 
 ### Artikel  14  
 
-Het Voedingswaarde-aanduidingenbesluit (Warenwet) wordt ingetrokken.  
+Het Voedingswaarde-aanduidingenbesluit (Warenwet) wordt ingetrokken. 
 
 ### Artikel  15  
 
-Dit besluit treedt in werking met ingang van 1 oktober 1993.  
+Dit besluit treedt in werking met ingang van 1 oktober 1993. 
 
 ### Artikel  16  
 
-Dit besluit wordt aangehaald als: Warenwetbesluit Voedingswaarde-informatie levensmiddelen.  
+Dit besluit wordt aangehaald als: Warenwetbesluit Voedingswaarde-informatie levensmiddelen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

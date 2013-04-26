@@ -36,7 +36,7 @@ Besluit
 
 ### Artikel  2  
 
-Het doel van de verordening is door het vaststellen van het uitlekgewicht de consument bescherming te bieden tegen praktijken die concurrentievervalsend zouden uitwerken.  
+Het doel van de verordening is door het vaststellen van het uitlekgewicht de consument bescherming te bieden tegen praktijken die concurrentievervalsend zouden uitwerken. 
 
 ### §  3  
 
@@ -44,15 +44,15 @@ Het doel van de verordening is door het vaststellen van het uitlekgewicht de con
 
 ### Artikel  3  
 
-a. Het in deze verordening bepaalde is alleen van toepassing op verduurzaamde champignons en zuurkool, die in Nederland door fabrikanten wordt gefabriceerd.  
+a.Het in deze verordening bepaalde is alleen van toepassing op verduurzaamde champignons en zuurkool, die in Nederland door fabrikanten wordt gefabriceerd.
 
-b. Het beginsel van wederzijdse erkenning van producten, die op rechtmatige wijze gefabriceerd zijn of in de handel worden gebracht in andere lidstaten van de EU of staten, die partij zijn bij de overeenkomst inzake de Europese Economische Ruimte en Turkije, blijft onverminderd van kracht.  
+b.Het beginsel van wederzijdse erkenning van producten, die op rechtmatige wijze gefabriceerd zijn of in de handel worden gebracht in andere lidstaten van de EU of staten, die partij zijn bij de overeenkomst inzake de Europese Economische Ruimte en Turkije, blijft onverminderd van kracht.
 
-c. Het bepaalde in de bijlagen is niet van toepassing indien het betreft verduurzaamde champignons of zuurkool in combinatie met meer dan 15 gewichtsprocenten andere eet- of drinkwaren, met uitzondering van water.    
+c.Het bepaalde in de bijlagen is niet van toepassing indien het betreft verduurzaamde champignons of zuurkool in combinatie met meer dan 15 gewichtsprocenten andere eet- of drinkwaren, met uitzondering van water.
 
 ### Artikel  4  
 
-Overtredingen van het bij of krachtens deze verordening bepaalde zijn strafbare feiten.  
+Overtredingen van het bij of krachtens deze verordening bepaalde zijn strafbare feiten. 
 
 ### §  3  
 
@@ -60,15 +60,15 @@ Overtredingen van het bij of krachtens deze verordening bepaalde zijn strafbare 
 
 ### Artikel  5  
 
-De [Verordening PT Verduurzaamde champignons 2000](../../../../../../../../../../pbo/verordening/pt/verduurzaamde/champignons/2000/BWBR0011341/README.md) wordt ingetrokken.  
+De [Verordening PT Verduurzaamde champignons 2000](../../../../../../../../../../pbo/verordening/pt/verduurzaamde/champignons/2000/BWBR0011341/README.md) wordt ingetrokken. 
 
 ### Artikel  6  
 
-Deze verordening treedt in werking op de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie.  
+Deze verordening treedt in werking op de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie. 
 
 ### Artikel  7  
 
-Deze verordening wordt aangehaald als: Verordening PT Uitlekgewichten verduurzaamde champignons en zuurkool 2007.  
+Deze verordening wordt aangehaald als: Verordening PT Uitlekgewichten verduurzaamde champignons en zuurkool 2007. 
 Deze verordening, de toelichting en de daarbij behorende bijlagen worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie   
 
 Zoetermeer 
@@ -80,7 +80,7 @@ voorzitter
 J.N. Gerritsen  
 secretaris   Goedgekeurd bij Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 13 juni 2007, nr VGP/VV 2777888, in overeenstemming met de Ministers van Landbouw, Natuur en Voedselkwaliteit en van Economische Zaken.   
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####behorende bij artikel 1, onder g , van het Besluit van het bestuur van het Productschap Tuinbouw , houdende de vaststelling van uitlekgewichten voor verduurzaamde champignons en zuurkool (Verordening PT Uitlekgewiehten verduurzaamde champignons en zuurkool 2007)
 
@@ -100,7 +100,7 @@ b. gedeclareerde nettogewicht: gewicht van de verduurzaamde champignons inclusie
 
 c. gedeclareerde uitlekgewicht: het uitlekgewicht van de verduurzaamde champignons, dat op de betreffende verpakkingseenheid staat vermeld.  
 
-d. uitlekgewicht: het gewicht van de in de verpakkingseenheid aanwezige champignons, vastgesteld nadat een evenwicht in de verpakking is bereikt, overeenkomstig de methode omschreven in onderdeel C.    
+d. uitlekgewicht: het gewicht van de in de verpakkingseenheid aanwezige champignons, vastgesteld nadat een evenwicht in de verpakking is bereikt, overeenkomstig de methode omschreven in onderdeel C.   
 
 #### *2. Vaststellen gedeclareerde uitlekgewicht* 
 
@@ -108,11 +108,11 @@ d. uitlekgewicht: het gewicht van de in de verpakkingseenheid aanwezige champign
 
 – Het gedeclareerde uitlekgewicht is ten minste 1380 gram voor champignons die verpakt worden in een metalen verpakkingseenheid van 2650 ml.  
 
-– Voor verpakkingseenheden die geëxporteerd worden mogen lagere gedeclareerde uitlekgewichten gehanteerd worden mits deze lagere gedeclareerde uitlekgewichten gebruikelijk zijn in het land van bestemming, wat op verzoek van bevoegde controle instanties via etiket, correspondentie en/of orders aannemelijk gemaakt kan worden.   2.2 Te declareren uitlekgewichten worden altijd naar boven afgerond op een veelvoud van 5 gram.  
+– Voor verpakkingseenheden die geëxporteerd worden mogen lagere gedeclareerde uitlekgewichten gehanteerd worden mits deze lagere gedeclareerde uitlekgewichten gebruikelijk zijn in het land van bestemming, wat op verzoek van bevoegde controle instanties via etiket, correspondentie en/of orders aannemelijk gemaakt kan worden.   2.2 Te declareren uitlekgewichten worden altijd naar boven afgerond op een veelvoud van 5 gram. 
 
 #### *3. Het gemiddelde uitlekgewicht van een partij* 
 
-Het gemiddelde uitlekgewicht van een partij moet voldoen aan het gedeclareerde uitlekgewicht van de betreffende verpakkingseenheid. In onderdeel B.2 en B.4 staat nader omschreven wanneer een partij voldoet.  
+Het gemiddelde uitlekgewicht van een partij moet voldoen aan het gedeclareerde uitlekgewicht van de betreffende verpakkingseenheid. In onderdeel B.2 en B.4 staat nader omschreven wanneer een partij voldoet. 
 
 #### *4. Toleranties voor het uitlekgewicht van individuele verpakkingseenheden* 
 
@@ -138,19 +138,19 @@ De volgende toleranties voor het uitlekgewicht van individuele verpakkingseenhed
 | 501–3200  | 13  | 1  | 2  | 0.847  |
 | 3201– en meer  | 20  | 1  | 2  | 0.640  |
 
-Qn = gedeclareerde uitlekgewicht s = standaardafwijking berekend uit de uitlekgewichten van de steekproef N = partijomvang n = steekproefomvang, monstergrootte (aantal verpakkingseenheden) c = goedkeuringscriterium d = afkeuringscriterium k = t/√n; t= ‘toevalsvariabele’ van de ‘studentverdeling’ 3. De monstername dient willekeurig gespreid genomen te worden uit een partij bestaande uit een bepaald aantal verpakkingseenheden. 4. Een partij voldoet aan de desbetreffende in onderdeel A opgenomen voorschriften, indien het aantal afwijkende verpakkingseenheden van het desbetreffende monster (n) het goedkeuringscriterium (c), zoals dat is weergegeven onder punt 2, niet te boven gaat.  
+Qn = gedeclareerde uitlekgewicht s = standaardafwijking berekend uit de uitlekgewichten van de steekproef N = partijomvang n = steekproefomvang, monstergrootte (aantal verpakkingseenheden) c = goedkeuringscriterium d = afkeuringscriterium k = t/√n; t= ‘toevalsvariabele’ van de ‘studentverdeling’ 3. De monstername dient willekeurig gespreid genomen te worden uit een partij bestaande uit een bepaald aantal verpakkingseenheden. 4. Een partij voldoet aan de desbetreffende in onderdeel A opgenomen voorschriften, indien het aantal afwijkende verpakkingseenheden van het desbetreffende monster (n) het goedkeuringscriterium (c), zoals dat is weergegeven onder punt 2, niet te boven gaat. 
 
 #### *C. Methode voor het bepalen van het uitlekgewicht* 
 
 #### *1. Benodigde zeef* 
 
-Het uitlekgewicht wordt bepaald met behulp van zeven van niet roestend metaalgaas (o.a. monel, koper) met een maaswijdte van ca. 2,8 mm (A.S.T.N. Standard Size 7) met opstaande rand van roestvrij staal of koper van ca. 10 cm hoogte. Bij verpakkingseenheden met een capaciteit van kleiner of gelijk aan 850 ml kan een zeef met een middellijn van 20 cm gebruikt worden. Bij grotere capaciteiten dan 850 ml wordt een zeef met een middellijn van 30 cm gebruikt.  
+Het uitlekgewicht wordt bepaald met behulp van zeven van niet roestend metaalgaas (o.a. monel, koper) met een maaswijdte van ca. 2,8 mm (A.S.T.N. Standard Size 7) met opstaande rand van roestvrij staal of koper van ca. 10 cm hoogte. Bij verpakkingseenheden met een capaciteit van kleiner of gelijk aan 850 ml kan een zeef met een middellijn van 20 cm gebruikt worden. Bij grotere capaciteiten dan 850 ml wordt een zeef met een middellijn van 30 cm gebruikt. 
 
 #### *2. Bepaling uitlekgewicht* 
 
-2.1 Bij het bepalen van het uitlekgewicht van een product, moet de temperatuur van het product tussen de 15 en 25°C zijn. 2.2 Bepaal het gewicht van de schone zeef zonder inhoud. 2.3 Breng de inhoud van een verpakkingseenheid voorzichtig op de zeef. Hierbij wordt het product gelijkmatig over de zeef verspreid. 2.4 Zet de zeef onder een hoek van ongeveer 20 graden om het uitlekken te vergemakkelijken. 2.5 Laat de zeef 2 minuten uitlekken vanaf het moment dat al het product op de zeef aanwezig is. 2.6 Opnieuw wordt de zeef (met inhoud) gewogen. 2.7 Het uitlekgewicht is het gewogen gewicht volgens punt 2.6 minus het gewicht onder punt 2.2. 2.8 Aanvullende opmerkingen: De zeef dient schoon en droog te zijn aan het begin van elke bepaling. De zeef moet worden gewogen aan het begin van elke bepaling. Bij grote verpakkingseenheden (inhoud meer dan 1 kg) wordt het uitlekgewicht van de inhoud van een verpakkingseenheid in gedeelten bepaald, door tegelijkertijd op meerdere zeven maximaal 1 kg inhoud per zeef te brengen. Het uitlekgewicht is dan de som van afzonderlijk gevonden uitlekgewichten per zeef.  
+2.1 Bij het bepalen van het uitlekgewicht van een product, moet de temperatuur van het product tussen de 15 en 25°C zijn. 2.2 Bepaal het gewicht van de schone zeef zonder inhoud. 2.3 Breng de inhoud van een verpakkingseenheid voorzichtig op de zeef. Hierbij wordt het product gelijkmatig over de zeef verspreid. 2.4 Zet de zeef onder een hoek van ongeveer 20 graden om het uitlekken te vergemakkelijken. 2.5 Laat de zeef 2 minuten uitlekken vanaf het moment dat al het product op de zeef aanwezig is. 2.6 Opnieuw wordt de zeef (met inhoud) gewogen. 2.7 Het uitlekgewicht is het gewogen gewicht volgens punt 2.6 minus het gewicht onder punt 2.2. 2.8 Aanvullende opmerkingen: De zeef dient schoon en droog te zijn aan het begin van elke bepaling. De zeef moet worden gewogen aan het begin van elke bepaling. Bij grote verpakkingseenheden (inhoud meer dan 1 kg) wordt het uitlekgewicht van de inhoud van een verpakkingseenheid in gedeelten bepaald, door tegelijkertijd op meerdere zeven maximaal 1 kg inhoud per zeef te brengen. Het uitlekgewicht is dan de som van afzonderlijk gevonden uitlekgewichten per zeef. 
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####behorende bij artikel 1, onder g , van het Besluit van het bestuur van het Productschap Tuinbouw houdende de vaststelling van uitlekgewichten voor verduurzaamde champignons en zuurkool (Verordening PT Uitlekgewichten verduurzaamde champignons en zuurkool 2007)
 
@@ -162,11 +162,11 @@ Voor de uitvoering van de controle op het uitlekgewicht zijn de bepalingen in on
 
 #### *1. Definities* 
 
-De volgende definities worden gehanteerd: 1.1 nettogewicht: gewicht van de zuurkool inclusief de opgietvloeistof dat op de betreffende verpakkingseenheid staat vermeld. 1.2 vaste bestanddelen: het gewicht van de in de verpakkingseenheid aanwezige zuurkool, vastgesteld overeenkomstig de methode omschreven in onderdeel C.  
+De volgende definities worden gehanteerd: 1.1 nettogewicht: gewicht van de zuurkool inclusief de opgietvloeistof dat op de betreffende verpakkingseenheid staat vermeld. 1.2 vaste bestanddelen: het gewicht van de in de verpakkingseenheid aanwezige zuurkool, vastgesteld overeenkomstig de methode omschreven in onderdeel C. 
 
 #### *2. Vaststellen uitlekgewicht* 
 
-2.1 Voor verpakkingseenheden met een inhoud van 1000 gram/1000 ml of minder dient het uitlekgewicht gemiddeld tenminste 90% te zijn van het vermelde nettogewicht op de verpakking. Het absolute negatieve verschil mag ten hoogste 3% van het vermelde nettogewicht op de verpakking bedragen. 2.2 Van het uitlekgewicht moet tenminste 90% uit vaste bestanddelen bestaan en maximaal 10% uit vocht. 2.3 De tolerantie voor het percentage vaste bestanddelen per verpakking is 3%. 2.4 Het percentage vaste bestanddelen wordt bepaald volgens de in onderdeel C omschreven methode.  
+2.1 Voor verpakkingseenheden met een inhoud van 1000 gram/1000 ml of minder dient het uitlekgewicht gemiddeld tenminste 90% te zijn van het vermelde nettogewicht op de verpakking. Het absolute negatieve verschil mag ten hoogste 3% van het vermelde nettogewicht op de verpakking bedragen. 2.2 Van het uitlekgewicht moet tenminste 90% uit vaste bestanddelen bestaan en maximaal 10% uit vocht. 2.3 De tolerantie voor het percentage vaste bestanddelen per verpakking is 3%. 2.4 Het percentage vaste bestanddelen wordt bepaald volgens de in onderdeel C omschreven methode. 
 
 #### *B. Monstername zuurkool* 
 
@@ -181,9 +181,9 @@ De volgende definities worden gehanteerd: 1.1 nettogewicht: gewicht van de zuurk
 
 #### *1. Benodigde zeef* 
 
-Het percentage vaste bestanddelen wordt bepaald met behulp van droge ronde zeven van niet roestend metaalgaas (o.a. monel, koper), met een maaswijdte van ca. 2,8 mm (A.S.T.N. Standard Size 7) met opstaande rand van roestvrij staal of koper van ca. 10 cm hoogte. Bij verpakkingseenheden met een capaciteit kleiner dan of gelijk aan 1000 gram of 1000 ml moet een zeef met een middellijn van 20 cm worden gebruikt.  
+Het percentage vaste bestanddelen wordt bepaald met behulp van droge ronde zeven van niet roestend metaalgaas (o.a. monel, koper), met een maaswijdte van ca. 2,8 mm (A.S.T.N. Standard Size 7) met opstaande rand van roestvrij staal of koper van ca. 10 cm hoogte. Bij verpakkingseenheden met een capaciteit kleiner dan of gelijk aan 1000 gram of 1000 ml moet een zeef met een middellijn van 20 cm worden gebruikt. 
 
 #### *2. Bepaling percentage vaste bestanddelen* 
 
-Voor verpakkingseenheden met een capaciteit kleiner dan of gelijk aan 1000 gram of 1000 ml. 2.1 Bepaal het gewicht van de schone droge zeef zonder inhoud (= a). 2.2 Breng de inhoud van een verpakkingseenheid voorzichtig op de zeef. Hierbij wordt het product gelijkmatig zonder aandrukken over de zeef verspreid. 2.3 Zet de zeef onder een hoek van 20 graden om het uitlekken te vergemakkelijken. 2.4 Laat de zeef 2 minuten uitlekken vanaf het moment dat al het product op de zeef aanwezig is. 2.5 Opnieuw wordt de zeef (met inhoud) gewogen (=b). 2.6 Het percentage vaste bestanddelen is: b-a /vermelde uitlekgewicht x 100%. Het bepaalde percentage vaste bestanddelen wordt naar beneden afgerond op gehele getallen.  
+Voor verpakkingseenheden met een capaciteit kleiner dan of gelijk aan 1000 gram of 1000 ml. 2.1 Bepaal het gewicht van de schone droge zeef zonder inhoud (= a). 2.2 Breng de inhoud van een verpakkingseenheid voorzichtig op de zeef. Hierbij wordt het product gelijkmatig zonder aandrukken over de zeef verspreid. 2.3 Zet de zeef onder een hoek van 20 graden om het uitlekken te vergemakkelijken. 2.4 Laat de zeef 2 minuten uitlekken vanaf het moment dat al het product op de zeef aanwezig is. 2.5 Opnieuw wordt de zeef (met inhoud) gewogen (=b). 2.6 Het percentage vaste bestanddelen is: b-a /vermelde uitlekgewicht x 100%. Het bepaalde percentage vaste bestanddelen wordt naar beneden afgerond op gehele getallen. 
 

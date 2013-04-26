@@ -14,57 +14,70 @@ Gezien het nader rapport van Onze Minister van Economische Zaken van 18 november
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 02-12-2011 
 
-Wijzigt het Honden- en kattenbesluit 1999.   
+Wijzigt het Honden- en kattenbesluit 1999. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 02-12-2011 
 
-Wijzigt het Besluit prepareren van dieren.   
+Wijzigt het Besluit prepareren van dieren.
 
 ### Artikel  III  
+Materieel uitgewerkt per 02-12-2011 
 
-Wijzigt het Dierproevenbesluit.   
+Wijzigt het Dierproevenbesluit.
 
 ### Artikel  IV  
+Materieel uitgewerkt per 02-12-2011 
 
-Wijzigt het Warenwetbesluit attractie- en speeltoestellen.   
+Wijzigt het Warenwetbesluit attractie- en speeltoestellen.
 
 ### Artikel  V  
+Materieel uitgewerkt per 02-12-2011 
 
-Wijzigt het Handelsregisterbesluit 2008.   
+Wijzigt het Handelsregisterbesluit 2008.
 
 ### Artikel  VI  
+Materieel uitgewerkt per 02-12-2011 
 
-Wijzigt het Mijnbouwbesluit.   
+Wijzigt het Mijnbouwbesluit.
 
 ### Artikel  VII  
+Materieel uitgewerkt per 02-12-2011 
 
-Het [Besluit prijsaanduiding kappers 1980](../../../../AMvB/besluit/prijsaanduiding/kappers/1980/BWBR0003307/README.md) wordt ingetrokken.  
+Het [Besluit prijsaanduiding kappers 1980](../../../../AMvB/besluit/prijsaanduiding/kappers/1980/BWBR0003307/README.md) wordt ingetrokken.
 
 ### Artikel  VIII  
+Materieel uitgewerkt per 02-12-2011 
 
-Wijzigt het Besluit ruimtelijke ordening.   
+Wijzigt het Besluit ruimtelijke ordening.
 
 ### Artikel  IX  
+Materieel uitgewerkt per 02-12-2011 
 
-Wijzigt het Besluit bodemkwaliteit.   
+Wijzigt het Besluit bodemkwaliteit.
 
 ### Artikel  X  
+Materieel uitgewerkt per 02-12-2011 
 
-Wijzigt het Besluit LPG-tankstations milieubeheer.   
+Wijzigt het Besluit LPG-tankstations milieubeheer.
 
 ### Artikel  XI  
+Materieel uitgewerkt per 02-12-2011 
 
-Wijzigt het Besluit bemiddeling muziekauteursrecht.   
+Wijzigt het Besluit bemiddeling muziekauteursrecht.
 
 ### Artikel  XII  
+Materieel uitgewerkt per 02-12-2011 
 
 1.  De artikelen I, III, IV, V, onderdeel B, en VII tot en met XI van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.   
-2.  De artikelen II, V, onderdeel A, en VI van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
+2.  De artikelen II, V, onderdeel A, en VI van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
 
 ### Artikel  XIII  
+Materieel uitgewerkt per 02-12-2011 
 
-Dit besluit wordt aangehaald als: Aanpassingsbesluit dienstenrichtlijn.  
+Dit besluit wordt aangehaald als: Aanpassingsbesluit dienstenrichtlijn. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -72,10 +85,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 24 november 2009  
 Beatrix  
 
-De Minister van Economische Zaken, 
-M. J. A. van derHoeven 
+De Minister van Economische Zaken , 
+M. J. A. van der Hoeven   
 
 de *eerste* december 2009 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

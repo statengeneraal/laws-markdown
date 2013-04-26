@@ -15,24 +15,25 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit uitvoering Crisis- en herstelwet.   
+Wijzigt het Besluit uitvoering Crisis- en herstelwet. 
 
 ### Artikel  II  
 
-Wijzigt de Crisis- en herstelwet.   
+Wijzigt de Crisis- en herstelwet. 
 
 ### Artikel  III  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Wijzigt het Stortbesluit bodembescherming.   
+Wijzigt het Stortbesluit bodembescherming. 
 
 ### Artikel  IV  
 
 1.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van artikel III.   
-2.  Artikel III treedt in werking op een bij koninklijk besluit te bepalen tijdstip.   
+2.  Artikel III treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
 
 ### Artikel  V  
 
-Dit besluit wordt aangehaald als: Besluit uitvoering Crisis- en herstelwet, derde tranche.  
+Dit besluit wordt aangehaald als: Besluit uitvoering Crisis- en herstelwet, derde tranche. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -40,13 +41,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 12 juli 2012  
 Beatrix  
 
-De Minister-President, Minister van Algemene Zaken, 
+De Minister-President, Minister van Algemene Zaken,  
 M. Rutte   
 
-De Minister van Infrastructuur en Milieu, 
+De Minister van Infrastructuur en Milieu,  
 M. H. Schultz van Haegen-Maas Geesteranus   
 
 de *vierentwintigste* juli 2012 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

@@ -8,19 +8,19 @@ De Minister-President, Minister van Algemene Zaken,  Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *minister:* de minister-president, minister van Algemene Zaken;  
+a.  *minister:* de minister-president, minister van Algemene Zaken;  
 
-b. *ministerie:* het Ministerie van Algemene Zaken;  
+b.  *ministerie:* het Ministerie van Algemene Zaken;  
 
-c. *dienst:* Kabinet Minister-President, secretariaat Ministerraad, Directoraat-Generaal Rijksvoorlichtingsdienst, Dienst Publiek en Communicatie, Bureau van de Wetenschappelijke Raad voor het Regeringsbeleid, Directie Bedrijfsvoering, Directie Concerncontrol;  
+c.  *dienst:* Kabinet Minister-President, secretariaat Ministerraad, Directoraat-Generaal Rijksvoorlichtingsdienst, Dienst Publiek en Communicatie, Bureau van de Wetenschappelijke Raad voor het Regeringsbeleid, Directie Bedrijfsvoering, Directie Concerncontrol;  
 
-d. *diensthoofd:* degene die is belast met de leiding van een dienst;  
+d.  *diensthoofd:* degene die is belast met de leiding van een dienst;  
 
-e. *mandaat:* de bevoegdheid om in naam van de minister besluiten te nemen;  
+e.  *mandaat:* de bevoegdheid om in naam van de minister besluiten te nemen;  
 
-f. *volmacht:* de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten;  
+f.  *volmacht:* de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten;  
 
-g. *machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.    
+g.  *machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.   
 
 ### Artikel  2  
 
@@ -40,12 +40,12 @@ f. de Raad van State (van het Koninkrijk);
 
 g. de Algemene Rekenkamer.     
 2.  Aan de minister blijft tevens voorbehouden de bevoegdheid tot het verrichten van andere handelingen dan het nemen van een besluit of een privaatrechtelijke rechtshandeling ten aanzien van degenen genoemd in het eerste lid.   
-3.  Het tweede lid is niet van toepassing op handelingen met een louter informatief karakter ten aanzien van degenen genoemd in het eerste lid, onder b, c, f en g.   
+3.  Het tweede lid is niet van toepassing op handelingen met een louter informatief karakter ten aanzien van degenen genoemd in het eerste lid, onder b, c, f en g.  
 
 ### Artikel  3  
 
 1.  Onverminderd artikel 2 wordt aan de secretaris-generaal en de plaatsvervangend secretaris-generaal algemeen mandaat, volmacht en machtiging verleend ten aanzien van aangelegenheden die naar aard of inhoud niet een zodanig gewicht hebben dat zij door de minister behoren te worden afgedaan.   
-2.  Het mandaat omvat mede de bevoegdheid tot het vaststellen van beleidsregels.   
+2.  Het mandaat omvat mede de bevoegdheid tot het vaststellen van beleidsregels.  
 
 ### Artikel  4  
 
@@ -65,7 +65,7 @@ d. beslissingen over aanstelling, schorsing en ontslag van individuele onder de 
 
 e. het volledig ter beschikking stellen van individuele functionarissen en secretariële voorzieningen ten behoeve van de Wetenschappelijke Raad voor het Regeringsbeleid en de kabinets(in)formatie;  
 
-f. het budgethouderschap als bedoeld in artikel 22, tweede lid, van de Comptabiliteitswet 2001;  
+f. het budgethouderschap als bedoeld in [artikel 22, tweede lid, van de Comptabiliteitswet 2001](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md);  
 
 g. aangelegenheden betreffende de hoofdlijnen van het binnen het ministerie te voeren financiële beleid, waaronder begrepen: 
 
@@ -104,7 +104,7 @@ c. beslissingen over aanstelling, schorsing en ontslag van individuele onder de 
 
 d. Het beslissen op bezwaarschriften tegen besluiten van of namens de minister met betrekking tot een personele aangelegenheid van onder de plaatsvervangend secretaris-generaal ressorterende dienst.  
 
-e. Het behandelen van beroepschriften en het vertegenwoordigen van de minister inzake personele aangelegenheden van onder de plaatsvervangend secretaris-generaal ressorterende diensten en functionarissen.     
+e. Het behandelen van beroepschriften en het vertegenwoordigen van de minister inzake personele aangelegenheden van onder de plaatsvervangend secretaris-generaal ressorterende diensten en functionarissen.    
 
 ### Artikel  5  
 
@@ -112,15 +112,15 @@ e. Het behandelen van beroepschriften en het vertegenwoordigen van de minister i
 2.  De secretaris-generaal en de plaatsvervangend secretaris-generaal zijn bevoegd per geval of in het algemeen instructies te geven aan een onder hun ressorterend diensthoofd of een andere rechtstreeks onder hun ressorterende functionaris ter zake van de uitoefening van het verleende ondermandaat, de doorverleende volmacht en de doorverleende machtiging.   
 3.  De secretaris-generaal en de plaatsvervangend secretaris-generaal kunnen bij verlening van ondermandaat en het doorverlenen van volmacht en machtiging aan een functionaris als bedoeld in het eerste lid, besluiten dat deze vervolgens bevoegd is tot verlening van ondermandaat en het doorverlenen van volmacht en machtiging aan een rechtstreeks onder deze ressorterende functionaris.   
 4.  Bij toepassing van het derde lid verleent de secretaris-generaal of de plaatsvervangend secretaris-generaal de functionaris genoemd in het eerste lid de bevoegdheid per geval of in het algemeen nadere instructies te geven aan een rechtstreeks onder deze ressorterende functionaris ter zake van de uitoefening van het verleende ondermandaat, de doorverleende volmacht en de doorverleende machtiging.   
-5.  Een functionaris als bedoeld in het eerste lid legt zijn besluiten als bedoeld in het derde en vierde lid ter goedkeuring aan de secretaris-generaal of de plaatsvervangend secretaris-generaal voor.   
+5.  Een functionaris als bedoeld in het eerste lid legt zijn besluiten als bedoeld in het derde en vierde lid ter goedkeuring aan de secretaris-generaal of de plaatsvervangend secretaris-generaal voor.  
 
 ### Artikel  6  
 
-De secretaris-generaal en de plaatsvervangend secretaris-generaal vervangen elkaar bij hun afwezigheid of verhindering. Zij treden alsdan in elkaars verantwoordelijkheden en bevoegdheden. Bij gelijktijdige tijdelijke afwezigheid of verhindering van de secretaris-generaal en de plaatsvervangend secretaris-generaal wordt het mandaat, volmacht en machtiging van de secretaris-generaal uitgeoefend door de rechtstreeks onder de secretaris-generaal ressorterende functionaris die de secretaris-generaal schriftelijk heeft aangewezen om de secretaris-generaal en de plaatsvervangend secretaris-generaal waar te nemen.  
+De secretaris-generaal en de plaatsvervangend secretaris-generaal vervangen elkaar bij hun afwezigheid of verhindering. Zij treden alsdan in elkaars verantwoordelijkheden en bevoegdheden. Bij gelijktijdige tijdelijke afwezigheid of verhindering van de secretaris-generaal en de plaatsvervangend secretaris-generaal wordt het mandaat, volmacht en machtiging van de secretaris-generaal uitgeoefend door de rechtstreeks onder de secretaris-generaal ressorterende functionaris die de secretaris-generaal schriftelijk heeft aangewezen om de secretaris-generaal en de plaatsvervangend secretaris-generaal waar te nemen. 
 
 ### Artikel  7  
 
-Onverminderd de artikelen 3, 4 en 5 wordt aan de afzonderlijke diensthoofden algemeen mandaat, volmacht en machtiging verleend ten aanzien van aangelegenheden die behoren tot hun werkterrein met uitzondering van aangelegenheden waarvoor mandaat, volmacht en machtiging is verleend aan de secretaris-generaal of de plaatsvervangend secretaris-generaal alsmede de aangelegenheden die naar aard en inhoud een zodanig gewicht hebben dat zij behoren te worden afgedaan door de secretaris-generaal of de plaatsvervangend secretaris-generaal.  
+Onverminderd de artikelen 3, 4 en 5 wordt aan de afzonderlijke diensthoofden algemeen mandaat, volmacht en machtiging verleend ten aanzien van aangelegenheden die behoren tot hun werkterrein met uitzondering van aangelegenheden waarvoor mandaat, volmacht en machtiging is verleend aan de secretaris-generaal of de plaatsvervangend secretaris-generaal alsmede de aangelegenheden die naar aard en inhoud een zodanig gewicht hebben dat zij behoren te worden afgedaan door de secretaris-generaal of de plaatsvervangend secretaris-generaal. 
 
 ### Artikel  8  
 
@@ -140,7 +140,7 @@ a. de directeur Bedrijfsvoering:
 
 6°. de uitvoering van het informatie- en communicatietechnologiebeleid;    
 
-b. de directeur-generaal Rijksvoorlichtingsdienst: het nemen van besluiten betreffende het protocol inzake contacten van de minister en de secretaris-generaal met belangrijke binnen- en buitenlandse gasten en relaties.    
+b. de directeur-generaal Rijksvoorlichtingsdienst: het nemen van besluiten betreffende het protocol inzake contacten van de minister en de secretaris-generaal met belangrijke binnen- en buitenlandse gasten en relaties.   
 
 ### Artikel  9  
 
@@ -152,12 +152,12 @@ a. de unitmanager Personeel en Organisatie ten aanzien van de volgende aangelege
 
 2°. het verlenen van buitengewoon verlof voor langere duur en bijzonder verlof;  
 
-3°. het nemen van disciplinaire maatregelen en het opleggen van een schorsing (hoofdstuk VIII en de artikelen 90, 91 en 92 van het ARAR);  
+3°. het nemen van disciplinaire maatregelen en het opleggen van een schorsing ([hoofdstuk VIII](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en de [artikelen 90](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [91](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [92 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md));  
 
-4°. het verlenen van ontslag op grond van de artikelen 96, 98 en 99 van het ARAR.    
+4°. het verlenen van ontslag op grond van de [artikelen 96](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [98](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [99 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).    
 
 b. de directeur Concerncontrol ten aanzien van verplichtingen en bestedingen welke deze expliciet in het kader van de door deze directie uit te oefenen toezichthoudende taak voor voorafgaand toezicht heeft aangemerkt.     
-2.  Bij de uitoefening van het aan hem verleende mandaat neemt een diensthoofd tevens de departementale procedures, richtlijnen en aanwijzingen in acht.   
+2.  Bij de uitoefening van het aan hem verleende mandaat neemt een diensthoofd tevens de departementale procedures, richtlijnen en aanwijzingen in acht.  
 
 ### Artikel  10  
 
@@ -167,7 +167,7 @@ a. het plaatsvervangend diensthoofd;
 
 b. een andere onder hem ressorterende functionaris.     
 2.  Bij toepassing van het eerste lid is het diensthoofd bevoegd per geval of in het algemeen nadere instructies te geven ter zake van de uitoefening van het verleende ondermandaat en de doorverleende volmacht en machtiging.   
-3.  Het diensthoofd legt zijn besluiten als bedoeld in het eerste lid ter goedkeuring aan de secretaris-generaal voor.   
+3.  Het diensthoofd legt zijn besluiten als bedoeld in het eerste lid ter goedkeuring aan de secretaris-generaal voor.  
 
 ### Artikel  11  
 
@@ -176,21 +176,21 @@ b. een andere onder hem ressorterende functionaris.
 3.  Het eerste en tweede lid zijn niet van toepassing op digitale besluiten die worden genomen via het P-Direktportaal.   
 4.  Indien afwezigheid of ontstentenis van de minister eraan in de weg staat dat een door de minister genomen besluit door hem wordt ondertekend, kan, tenzij een wettelijk voorschrift of de aard van de bevoegdheid zich ertegen verzet, een besluit namens de minister worden ondertekend door de secretaris-generaal. In dit geval geschiedt het ondertekenen als volgt: DE MINISTER-PRESIDENT, Minister van Algemene Zaken, namens deze, overeenkomstig het door de Minister-President, Minister van Algemene Zaken, genomen besluit, gevolgd door de handtekening, naam en functie van de secretaris-generaal.   
 5.  Het eerste en tweede lid zijn van overeenkomstige toepassing op de ondertekening van een document krachtens machtiging, tenzij uit de aard en de inhoud van het document reeds voldoende blijkt dat het namens de minister-president, minister van Algemene Zaken, is opgesteld. In dat geval luidt de ondertekening als volgt: (handtekening) (naam) (functie)   
-6.  Een document als bedoeld in het eerste, tweede, vierde of vijfde lid wordt opgesteld conform de vastgestelde rijksbrede huisstijl.   
+6.  Een document als bedoeld in het eerste, tweede, vierde of vijfde lid wordt opgesteld conform de vastgestelde rijksbrede huisstijl.  
 
 ### Artikel  12  
 
-Het Besluit mandaat, volmacht en machtiging Algemene Zaken 2009 van 9 februari 2010 wordt ingetrokken.  
+Het [Besluit mandaat, volmacht en machtiging Algemene Zaken 2009](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/algemene/zaken/2009/BWBR0027296/README.md) van 9 februari 2010 wordt ingetrokken. 
 
 ### Artikel  13  
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2011.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2011. 
 
 ### Artikel  14  
 
-Dit besluit kan worden aangehaald als: Besluit mandaat, volmacht en machtiging Algemene Zaken.  
+Dit besluit kan worden aangehaald als: Besluit mandaat, volmacht en machtiging Algemene Zaken. 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de Algemene Rekenkamer en aan de in dit besluit genoemde functionarissen.  
 
 De Minister-President, 
-Minister van Algemene Zaken,
-M.Rutte   
+Minister van Algemene Zaken, 
+M. Rutte     
