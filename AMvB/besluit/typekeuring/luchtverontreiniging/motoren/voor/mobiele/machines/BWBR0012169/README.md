@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 13 september 2000, nr. MJZ2000108272, Centrale Directie Juridische Zaken, Afdeling Wetgeving, gedaan in overeenstemming met Onze Minister van Verkeer en Waterstaat en Onze Minister van Landbouw, Natuurbeheer en Visserij;
 
-Gelet op de richtlijn nr. 97/68/EG van het Europees Parlement en de Raad van de Europese Unie van 16 december 1997 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door inwendige verbrandingsmotoren die worden gemonteerd in niet voor de weg bestemde mobiele machines (PbEG 1998, L 59), op richtlijn nr. 2000/25/EG van het Europees Parlement en de Raad van de Europese Unie van 22 mei 2000 (PbEG L 173) inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door motoren bestemd voor het aandrijven van landbouw- of bosbouwtrekkers en houdende wijziging van Richtlijn 74/150/EEG van de Raad en op de artikelen [13](../../../../../../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md), [15](../../../../../../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md) en [17 van de Wet inzake de luchtverontreiniging](../../../../../../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md);
+Gelet op de richtlijn nr. 97/68/EG van het Europees Parlement en de Raad van de Europese Unie van 16 december 1997 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door inwendige verbrandingsmotoren die worden gemonteerd in niet voor de weg bestemde mobiele machines (PbEG 1998, L 59), op richtlijn nr. 2000/25/EG van het Europees Parlement en de Raad van de Europese Unie van 22 mei 2000 (PbEG L 173) inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door motoren bestemd voor het aandrijven van landbouw- of bosbouwtrekkers en houdende wijziging van Richtlijn 74/150/EEG van de Raad en op de artikelen 13, 15 en 17 van de Wet inzake de luchtverontreiniging;
 
 De Raad van State gehoord (advies van 3 november 2000, nr. W08.00.0431/V);
 
@@ -21,7 +21,7 @@ a. richtlijn 97/68: richtlijn nr. 97/68/EG van het Europees Parlement en de Raad
 
 b. richtlijn 2000/25: richtlijn nr. 2000/25/EG van het Europees Parlement en de Raad van de Europese Unie van 22 mei 2000 (PbEG L 173) inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door motoren bestemd voor het aandrijven van landbouw- of bosbouwtrekkers en houdende wijziging van Richtlijn 74/150/EEG van de Raad;  
 
-c. Onze Minister: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  
+c. Onze Minister: Onze Minister van Infrastructuur en Milieu;  
 
 d. fabrikant: persoon of organisatie die tegenover de keuringsinstantie verantwoordelijk is voor alle aspecten van de goedkeuringsprocedure en zich garant stelt voor de overeenstemming van de productie met het goedgekeurde type;  
 
@@ -49,9 +49,11 @@ l.  binnenschip: binnenschip als bedoeld in artikel 2, drieëntwintigste gedach
 
 m.  in de handel brengen: in de handel brengen als bedoeld in artikel 2, achtste gedachtestreepje, van richtlijn 97/68.  
 
-n. spoorvoertuig: spoorvoertuig als bedoeld in [artikel 1, onderdeel e, van de Spoorwegwet](../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md);  
+n. spoorvoertuig: spoorvoertuig als bedoeld in artikel 1, onderdeel e, van de Spoorwegwet;  
 
-o. ruilmotor: nieuw gebouwde motor ter vervanging van een motor in een reeds in gebruik zijnde mobiele machine of trekker.    
+o. ruilmotor: nieuw gebouwde motor ter vervanging van een motor in een reeds in gebruik zijnde mobiele machine of trekker;  
+
+p. flexibele regeling: procedure waarbij een motorenfabrikant in de periode tussen twee opeenvolgende stadia van grenswaarden een beperkt aantal in niet voor weggebruik bestemde mobiele machines in te bouwen motoren in de handel mag brengen die uitsluitend voldoen aan de emissiegrenswaarden uit het vorige stadium.    
 
 ### Artikel  2  
 
@@ -164,9 +166,10 @@ b. 1 januari 2002: voor trekkers en motoren bestemd voor het aandrijven van een 
 a. de betreffende motoren voor de in die leden genoemde data zijn geproduceerd, of  
 
 b. met betrekking tot de betreffende motoren of motorfamilies een koopcontract is afgesloten voor 20 mei 2004.     
-13.  In afwijking van het in artikel 3 gestelde verbod kunnen motoren met compressieontsteking, met uitzondering van motoren voor de voortstuwing van spoorvoertuigen en binnenschepen, volgens de procedure, bedoeld in artikel 4, zesde lid, van richtlijn 97/68, in de handel worden gebracht.   
-14.  Onverminderd de in de artikelen 2 en 3 gestelde verboden, kunnen motoren als bedoeld in het eerste onderscheidenlijk tweede lid, die voor de in die leden genoemde data zijn geproduceerd tot uiterlijk twaalf maanden na die data voor de eerste maal in het verkeer worden gebracht.   
-15.  De keuringsinstantie kan op een overeenkomstig artikel 10, tweede lid, van richtlijn 97/68 ingediend verzoek van de fabrikant toestaan dat gedurende twaalf maanden na de datum, waarop de geldigheidsduur van een goedkeuring als bedoeld in de artikelen 2 en 3 is verstreken, motoren die voldoen aan de voorwaarden van artikel 10, tweede lid, van richtlijn 97/68 in het verkeer worden gebracht.   
+13.  In afwijking van het in artikel 3 gestelde verbod kunnen motoren met compressieontsteking, met uitzondering van motoren voor de voortstuwing van spoorvoertuigen en binnenschepen, volgens de flexibele regeling in de handel worden gebracht overeenkomstig de procedure, bedoeld in artikel 4, zesde lid, van richtlijn 97/68.   
+14.  In afwijking van het in artikel 3 gestelde verbod kunnen motoren als bedoeld in bijlage I, punt 1, onder A, onderdelen i, ii en v, van richtlijn 97/68 volgens de flexibele regeling in de handel worden gebracht overeenkomstig de procedure, bedoeld in artikel 10, zevende lid, van richtlijn 97/68.   
+15.  Onverminderd de in de artikelen 2 en 3 gestelde verboden, kunnen motoren als bedoeld in het eerste onderscheidenlijk tweede lid, die voor de in die leden genoemde data zijn geproduceerd tot uiterlijk twaalf maanden na die data voor de eerste maal in het verkeer worden gebracht.   
+16.  De keuringsinstantie kan op een overeenkomstig artikel 10, tweede lid, van richtlijn 97/68 ingediend verzoek van de fabrikant toestaan dat gedurende twaalf maanden na de datum, waarop de geldigheidsduur van een goedkeuring als bedoeld in de artikelen 2 en 3 is verstreken, motoren die voldoen aan de voorwaarden van artikel 10, tweede lid, van richtlijn 97/68 in het verkeer worden gebracht.   
 
 ### Artikel  11  
 
