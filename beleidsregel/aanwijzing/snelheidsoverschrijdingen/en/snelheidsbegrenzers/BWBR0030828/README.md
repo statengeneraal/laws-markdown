@@ -9,12 +9,12 @@ Deze aanwijzing betreft een regeling voor de opsporing en vervolging van snelhei
 
 ####Snelheidsmeters
 
-Bij de vaststelling van strafbare feiten en gedragingen zoals snelheidsovertredingen worden meetmiddelen gebruikt. Deze meetmiddelen moeten voldoen aan de voorschriften die bij of krachtens de [Regeling meetmiddelen politie](../../../../../../ministeriele-regeling/regeling/meetmiddelen/politie/BWBR0008821/README.md) zijn vastgesteld en voor het toegepaste gebruik zijn goedgekeurd door een daartoe bevoegde instantie. In de regeling zijn meetmiddelen opgenomen die gebruikt worden door de politie en de eisen waaraan deze meetmiddelen moeten voldoen. In deze regeling is de standaard in politievoertuigen ingebouwde boordsnelheidsmeters níet opgenomen. Voor wat betreft de opsporing en vervolging van snelheidsoverschrijdingen gaat deze aanwijzing in op onder andere de instelwaarde van de snelheidsmeetapparatuur, de te corrigeren marges en enkele aan het proces-verbaal te stellen eisen.    
+Bij de vaststelling van strafbare feiten en gedragingen zoals snelheidsovertredingen worden meetmiddelen gebruikt. Deze meetmiddelen moeten voldoen aan de voorschriften die bij of krachtens de Regeling meetmiddelen politie zijn vastgesteld en voor het toegepaste gebruik zijn goedgekeurd door een daartoe bevoegde instantie. In de regeling zijn meetmiddelen opgenomen die gebruikt worden door de politie en de eisen waaraan deze meetmiddelen moeten voldoen. In deze regeling is de standaard in politievoertuigen ingebouwde boordsnelheidsmeters níet opgenomen. Voor wat betreft de opsporing en vervolging van snelheidsoverschrijdingen gaat deze aanwijzing in op onder andere de instelwaarde van de snelheidsmeetapparatuur, de te corrigeren marges en enkele aan het proces-verbaal te stellen eisen.    
 ### 2  
 
 ####Snelheidsbegrenzers
 
-Het Europees parlement en de Raad van de Europese Unie hebben in twee richtlijnen eisen ten aanzien van snelheidsbegrenzers opgenomen. Deze eisen zijn volledig in de Nederlandse wetgeving geïmplementeerd, te weten in de [artikelen 5.3.15](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), [5.3a.15](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) en [6.5 van de Regeling Voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) (RV). Voor de handhaving zijn de artikelen 5.3.15 en 5.3a.15 RV van belang, omdat hier de permanente eisen ten aanzien van snelheidsbegrenzers zijn opgenomen. In deze artikelen wordt aangegeven aan welke eisen snelheidsbegrenzers moeten voldoen en met ingang van welke datum bepaalde categorieën bedrijfsauto’s en bussen moeten zijn voorzien van een goedgekeurde snelheidsbegrenzer. <sup> 1  Richtlijn 92/6/EEG (Pb. EG L 57), gewijzigd bij Richtlijn 2002/85/EG betreffende de installatie en het gebruik van snelheidsbegrenzers in bepaalde categorieën motorvoertuigen en Richtlijn 92/24 EEG (Pb. EG L 129), gewijzigd bij richtlijn 2004/11 EG betreffende de eisen die aan snelheidsbegrenzers of soortgelijke begrenzingssystemen voor bepaalde categorieën motorvoertuigen zijn gesteld.  </sup> <sup> 2  Zie tabel punt 7.1.  </sup> Voor wat betreft de opsporing en vervolging van voertuigen die niet zijn voorzien van een (goed functionerende) snelheidsbegrenzer, gaat deze aanwijzing in op de samenloop met snelheidsovertredingen en op het verbaliseringsbeleid ten aanzien van Nederlandse en buitenlandse bedrijfsauto’s en bussen.     
+Het Europees parlement en de Raad van de Europese Unie hebben in twee richtlijnen eisen ten aanzien van snelheidsbegrenzers opgenomen. Deze eisen zijn volledig in de Nederlandse wetgeving geïmplementeerd, te weten in de artikelen 5.3.15, 5.3a.15 en 6.5 van de Regeling Voertuigen (RV). Voor de handhaving zijn de artikelen 5.3.15 en 5.3a.15 RV van belang, omdat hier de permanente eisen ten aanzien van snelheidsbegrenzers zijn opgenomen. In deze artikelen wordt aangegeven aan welke eisen snelheidsbegrenzers moeten voldoen en met ingang van welke datum bepaalde categorieën bedrijfsauto’s en bussen moeten zijn voorzien van een goedgekeurde snelheidsbegrenzer. <sup> 1  Richtlijn 92/6/EEG (Pb. EG L 57), gewijzigd bij Richtlijn 2002/85/EG betreffende de installatie en het gebruik van snelheidsbegrenzers in bepaalde categorieën motorvoertuigen en Richtlijn 92/24 EEG (Pb. EG L 129), gewijzigd bij richtlijn 2004/11 EG betreffende de eisen die aan snelheidsbegrenzers of soortgelijke begrenzingssystemen voor bepaalde categorieën motorvoertuigen zijn gesteld.  </sup> <sup> 2  Zie tabel punt 7.1.  </sup> Voor wat betreft de opsporing en vervolging van voertuigen die niet zijn voorzien van een (goed functionerende) snelheidsbegrenzer, gaat deze aanwijzing in op de samenloop met snelheidsovertredingen en op het verbaliseringsbeleid ten aanzien van Nederlandse en buitenlandse bedrijfsauto’s en bussen.     
 
 ####Samenvatting
 
@@ -25,7 +25,7 @@ Deze aanwijzing heeft tot doel een uniforme handhaving te bewerkstelligen voor s
 <sup> 3  Sommige radar-, laser-, detector- en trajectsnelheidsmeters zijn verplaatsbaar en kunnen daardoor vanuit verschillende locaties snelheidsmetingen vanuit een vast punt verrichten.  </sup>   
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Bedienaar  | Persoon die beschikt over de opsporingsbevoegdheid en die is opgeleid om de gebruikte snelheidsmeter voor de opsporing van snelheidsoverschrijdingen te gebruiken.  |
 | Detectorsnelheidsmeter (bijvoorbeeld lusdetector)  | Meetinstrument voor het meten van de snelheid van voertuigen, waarbij de snelheidsmeting plaatsvindt door middel van het automatisch detecteren van het tijdsverloop tussen ten minste drie achtereenvolgende voertuigposities door middel van afzonderlijke detectiesystemen die zich op een in het meetmiddel vastgelegde vaste afstand bevinden.  |
 | Gecorrigeerde of werkelijke snelheid  | Snelheid die wordt vastgesteld als van de gemeten snelheid de maximaal toelaatbaar geoordeelde meetfout van de meetapparatuur is afgetrokken.  |
@@ -97,7 +97,7 @@ De snelheidsmeters beschreven in de vorige paragraaf ‘Definities’ mogen slec
 
 ####IJking boordsnelheidsmeter
 
-De boordsnelheidsmeter is niet opgenomen in de [Regeling meetmiddelen politie](../../../../../../ministeriele-regeling/regeling/meetmiddelen/politie/BWBR0008821/README.md). Deze meter kan namelijk niet als meetmiddel in de zin van dat besluit worden beschouwd, omdat een snelheidsovertreding hiermee niet op directe wijze kan worden vastgesteld. De snelheid van het gevolgde voertuig wordt immers geconstateerd door op (nagenoeg) gelijkblijvende afstand te volgen en vervolgens de overtreding af te leiden van de met het dienstvoertuig gereden snelheid. De goede werking van de boordsnelheidsmeter is echter essentieel voor de bewijsvoering en daarom wordt ten aanzien van de geldigheidsduur van de ijking in deze aanwijzing aangesloten bij de bepalingen die in de Regeling meetmiddelen politie gelden voor radarsnelheidscontrolemeters.    
+De boordsnelheidsmeter is niet opgenomen in de Regeling meetmiddelen politie. Deze meter kan namelijk niet als meetmiddel in de zin van dat besluit worden beschouwd, omdat een snelheidsovertreding hiermee niet op directe wijze kan worden vastgesteld. De snelheid van het gevolgde voertuig wordt immers geconstateerd door op (nagenoeg) gelijkblijvende afstand te volgen en vervolgens de overtreding af te leiden van de met het dienstvoertuig gereden snelheid. De goede werking van de boordsnelheidsmeter is echter essentieel voor de bewijsvoering en daarom wordt ten aanzien van de geldigheidsduur van de ijking in deze aanwijzing aangesloten bij de bepalingen die in de Regeling meetmiddelen politie gelden voor radarsnelheidscontrolemeters.    
 ### 2.1.2  
 
 ####Geldigheidsduur ijking boordsnelheidsmeter
@@ -115,7 +115,7 @@ Voor het vaststellen van snelheidsoverschrijdingen wordt in beginsel alléén ee
 De snelheid van voertuigen moet zijn aangepast direct op de plaats waar een lagere maximumsnelheid gaat gelden. Om discussies of beroepschriften / brieven te voorkomen over een te korte afstand tussen de plaats waarop de lagere maximumsnelheid ingaat en de snelheidsmeting wordt een minimumafstand in acht genomen tussen de plaats van inwerkingtreding van de lagere maximumsnelheid tot de meetlocatie. Voor het bepalen van deze minimumafstand wordt geen rekening gehouden met de voor het gebod geldende maximumsnelheid. Het uitgangspunt is immers dat de snelheid bij het passeren van het gebod moet zijn aangepast en derhalve wordt bij het bepalen van de afstand tussen gebod en meetplaats uitgegaan van de uit het gebod volgende maximumsnelheid. <sup> 14  Hof Leeuwarden 18 april 2001, WAHV 00/00267. Mede gelet op de toelichting op art. 19 RVV1990 vloeit uit het bepaalde in art. 5 WVW1994 en art. 19 RVV1990, gelezen in onderling verband en samenhang, voort dat een bestuurder zijn snelheid steeds zodanig dient te regelen, dat hij in staat is borden zo tijdig waar te nemen dat hij zijn weggedrag tijdig aan de door die borden gegeven ge- of verboden, waarschuwingen of andere informatie kan aanpassen.  </sup> De minimale afstanden tussen gebod en meetplaats zijn:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 30 km/h  | 8 m/s  | 80 meter afstand  |
 | 50 km/h  | 14 m/s  | 140 meter afstand  |
 | 60 km/h  | 17 m/s  | 170 meter afstand  |
@@ -154,7 +154,7 @@ De maximale fout voor geijkte boordsnelheidsmeters bedraagt 3 km/h voor snelhede
 De in punt 3.1 vermelde maximale fout van 3 procent is uitgewerkt in onderstaande correctietabel. De correctie van de maximale fout vindt plaats conform deze tabel.  
 
 | Correctietabel in km/h  | Correctie met 3 %  | Gemeten snelheid  | Correctie 3 %  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 0 t/m 100 km/h  | 3 km/h  |
 | 101 t/m 130 km/h  | 4 km/h  |
 | 131 t/m 165 km/h  | 5 km/h  |
@@ -165,7 +165,7 @@ De in punt 3.1 vermelde maximale fout van 3 procent is uitgewerkt in onderstaand
 
 ####Werkelijk gemeten snelheid
 
-De Hoge Raad heeft in diverse arresten het standpunt ingenomen dat met de in [artikel 21 RVV 1990](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) genoemde snelheid niet de gemeten, maar de werkelijk gereden snelheid wordt bedoeld. Een ten laste gelegde snelheid is slechts bewezen, als van de gemeten snelheid de maximaal toelaatbaar geoordeelde meetfout van de meetapparatuur is afgetrokken. Hetzelfde geldt voor snelheden die zijn vastgesteld met een mobiele radarsnelheidsmeter. <sup> 17  Bijv. HR 12 december 1995 en 23 januari 1996, *NJ* 1996, 397-400.  </sup> <sup> 18  Arrest HR 12 maart 1996, LJN: ZD0406, *NJ* 1996, 511.  </sup> De onder punt 3.1 vermelde maximale fouten onder bedrijfsomstandigheden moeten van de gemeten snelheid worden afgetrokken waardoor de werkelijke snelheid (= gecorrigeerde snelheid) wordt vastgesteld.    
+De Hoge Raad heeft in diverse arresten het standpunt ingenomen dat met de in artikel 21 RVV 1990 genoemde snelheid niet de gemeten, maar de werkelijk gereden snelheid wordt bedoeld. Een ten laste gelegde snelheid is slechts bewezen, als van de gemeten snelheid de maximaal toelaatbaar geoordeelde meetfout van de meetapparatuur is afgetrokken. Hetzelfde geldt voor snelheden die zijn vastgesteld met een mobiele radarsnelheidsmeter. <sup> 17  Bijv. HR 12 december 1995 en 23 januari 1996, *NJ* 1996, 397-400.  </sup> <sup> 18  Arrest HR 12 maart 1996, LJN: ZD0406, *NJ* 1996, 511.  </sup> De onder punt 3.1 vermelde maximale fouten onder bedrijfsomstandigheden moeten van de gemeten snelheid worden afgetrokken waardoor de werkelijke snelheid (= gecorrigeerde snelheid) wordt vastgesteld.    
 ### 3.3  
 
 ####Ondergrens vervolging en instellen snelheidsmeters
@@ -174,7 +174,7 @@ Om te voorkomen dat de gemeten snelheid na aftrek van de meetcorrectie te dicht 
 ### *De snelheidsmeters zoals genoemd onder 3.1 van deze aanwijzing moeten dus als volgt worden ingesteld:* 
 
 | Maximumsnelheid  | Snelheidsmeter instellen op  | Correctie  | Beschikking  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 30 km/h  | 37 km/h  | -3  | 34 km/h  |
 | 50 km/h  | 57 km/h  | -3  | 54 km/h  |
 | 80 km/h  | 87 km/h  | -3  | 84 km/h  |
@@ -224,24 +224,24 @@ Een proces-verbaal waarin sprake is van snelheidsmeting met behulp van een geijk
 – de overschrijding in aantal kilometers per uur.       
 ### 5  
 
-####Excessieve snelheidsovertredingen ([artikel 164 lid 2 onder c WVW 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md))
+####Excessieve snelheidsovertredingen (artikel 164 lid 2 onder c WVW 1994)
 
-De [Aanwijzing inzake de invordering van rijbewijzen](../../../../../../beleidsregel/aanwijzing/inzake/de/invordering/van/rijbewijzen/BWBR0030027/README.md) geeft een regeling voor de vordering tot overgifte, dan wel inhouding van het rijbewijs bij excessieve snelheidsovertredingen. De [bijlage 2 bij de Aanwijzing inbeslagneming](../../../../../../beleidsregel/aanwijzing/inbeslagneming/(artikel/94/wvsv)/BWBR0029019/README.md) regelt de gevallen van inbeslagneming van het voertuig.    
+De Aanwijzing inzake de invordering van rijbewijzen geeft een regeling voor de vordering tot overgifte, dan wel inhouding van het rijbewijs bij excessieve snelheidsovertredingen. De bijlage 2 bij de Aanwijzing inbeslagneming regelt de gevallen van inbeslagneming van het voertuig.    
 ### 6  
 
 ####Recidiveregeling gedocumenteerde snelheidsovertredingen
 
-De recidiveregeling gedocumenteerde snelheidsovertredingen wordt toegepast bij snelheidsovertredingen die niet als gedraging in de [bijlage bij de Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../../../wet/wet/mulder/BWBR0004581/README.md) (WAHV) zijn opgenomen . Van recidive is alleen sprake als de overtreding wordt begaan binnen twee jaar na afdoening van de vorige overtreding. <sup> 22  Een overschrijding van de maximumsnelheid met meer dan 30 km/h of voor bepaalde snelheidsovertredingen op autosnelwegen met meer dan 40 km/h  </sup> De [Richtlijn voor strafvordering tarieven en feitomschrijvingen inzake misdrijven, overtredingen en gedragingen als bedoeld in de Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../../../beleidsregel/richtlijn/strafvordering/tarieven/en/feitomschrijvingen/voor/misdrijven/etc/BWBR0030146/README.md) regelt het sanctiebeleid.    
+De recidiveregeling gedocumenteerde snelheidsovertredingen wordt toegepast bij snelheidsovertredingen die niet als gedraging in de bijlage bij de Wet administratiefrechtelijke handhaving verkeersvoorschriften (WAHV) zijn opgenomen . Van recidive is alleen sprake als de overtreding wordt begaan binnen twee jaar na afdoening van de vorige overtreding. <sup> 22  Een overschrijding van de maximumsnelheid met meer dan 30 km/h of voor bepaalde snelheidsovertredingen op autosnelwegen met meer dan 40 km/h  </sup> De Richtlijn voor strafvordering tarieven en feitomschrijvingen inzake misdrijven, overtredingen en gedragingen als bedoeld in de Wet administratiefrechtelijke handhaving verkeersvoorschriften regelt het sanctiebeleid.    
 ### 7  
 
 ####Handhaving snelheidsbegrenzer door politie en Inspectie Verkeer & Waterstaat
 
 ### 7.1  
 
-####Schematisch overzicht voertuigcategorie en ingangsdatum snelheidsbegrenzer ([art. 5.3.15](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) en [5.3a.15 RV](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md))
+####Schematisch overzicht voertuigcategorie en ingangsdatum snelheidsbegrenzer (art. 5.3.15 en 5.3a.15 RV)
 
 | Schematisch overzicht verplichting snelheidsbegrenzer  | Categorie  | Toegestane max. massa in kg  | Datum ingebruikname  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Bedrijfsauto  | > 12.000  | na 31-12-1987  |
 | Bedrijfsauto  | > 3.500 t/m 12.000  | na 31-12-2004  |
 | Bedrijfsauto met dieselmotor  | > 3.500 t/m 12.000  | na 30-9-2001 maar vóór 1-1-2005  |
@@ -272,12 +272,12 @@ Het tweede uitgangspunt is dat in principe de bestuurder verantwoordelijk is voo
 
 ####Verbaliseringsbeleid Nederlandse bedrijfsauto’s en bussen
 
-Als de bestuurder door een daartoe bevoegde opsporingsambtenaar van de politie of de Inspectie Verkeer en Waterstaat wegens een snelheidsovertreding is staande gehouden, moet er in ieder geval ter zake van de snelheidsovertreding een proces-verbaal worden opgemaakt dan wel een administratieve sanctie in de zin van de [WAHV](../../../../../../wet/wet/mulder/BWBR0004581/README.md) (Wet Mulder) worden opgelegd. In de [Bijlage van het Transactiebesluit](../../../../../../AMvB/transactiebesluit/1994/BWBR0006664/README.md) en het [Besluit OM-afdoening](../../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md) zijn in de feitcodes N 150 d en N 150 dd de overtredingen opgenomen ter zake het niet voorzien zijn van een goedwerkende snelheidsbegrenzer. Hoewel hiervoor in principe aan de bestuurder en de eigenaar/houder een transactie kan worden aangeboden of een strafbeschikking kan worden uitgevaardigd, moet daarvan bij de bestuurder worden afgezien, tenzij deze de eigenaar/houder van het voertuig is. Als blijkt dat geen goedwerkende snelheidsbegrenzer aanwezig is, dan moet daarvoor een transactievoorstel worden aangeboden of een aankondiging van strafbeschikking aan de eigenaar/houder worden uitgevaardigd. . <sup> 23  De regeling van de strafbeschikking in het Wetboek van Strafvordering voorziet niet in de mogelijkheid dat de opsporingsambtenaar een aankondiging van strafbeschikking aan de verdachte toezendt. In gevallen waarin toezending aan de orde is, is het aangewezen dat dit meteen het afschrift van de politiestrafbeschikking zelf betreft. In dat geval wordt de zaak ingestuurd bij het CJIB dat vervolgens namens de opsporingsambtenaar de strafbeschikking aan de verdachte toezendt.  </sup> Het is dus mogelijk dat het feitencomplex zowel een administratiefrechtelijk als strafrechtelijk vervolg krijgt. De bestuurder kan een administratieve sanctie opgelegd krijgen wegens de snelheidsovertreding, en aan de eigenaar/houder kan vanwege de niet-goedgekeurde, dan wel niet-goedwerkende snelheidsbegrenzer een transactie worden aangeboden of een aankondiging van strafbeschikking worden uitgereikt of toegezonden.    
+Als de bestuurder door een daartoe bevoegde opsporingsambtenaar van de politie of de Inspectie Leefomgeving en Milieu (ILT) wegens een snelheidsovertreding is staande gehouden, moet er in ieder geval ter zake van de snelheidsovertreding een proces-verbaal worden opgemaakt dan wel een administratieve sanctie in de zin van de WAHV (Wet Mulder) worden opgelegd. In de Bijlage van het Besluit OM-afdoening zijn in de feitcodes N 150 d en N 150 dd de overtredingen opgenomen ter zake het niet voorzien zijn van een goedwerkende snelheidsbegrenzer. Hoewel hiervoor in principe tegen de bestuurder en de eigenaar/houder een strafbeschikking kan worden uitgevaardigd, moet daarvan bij de bestuurder worden afgezien, tenzij deze de eigenaar/houder van het voertuig is. Als blijkt dat geen goedwerkende snelheidsbegrenzer aanwezig is, dan moet daarvoor aan de eigenaar/houder een aankondiging van strafbeschikking worden uitgereikt. . <sup> 1  De regeling van de strafbeschikking in het Wetboek van Strafvordering voorziet niet in de mogelijkheid dat de opsporingsambtenaar een aankondiging van strafbeschikking aan de verdachte toezendt. In gevallen waarin toezending aan de orde is, is het aangewezen dat dit meteen het afschrift van de politiestrafbeschikking zelf betreft. In dat geval wordt de zaak ingestuurd bij het CJIB dat vervolgens namens de opsporingsambtenaar de strafbeschikking aan de verdachte toezendt.  </sup> Het is dus mogelijk dat het feitencomplex zowel een administratiefrechtelijk als strafrechtelijk vervolg krijgt. De bestuurder kan een administratieve sanctie opgelegd krijgen wegens de snelheidsovertreding, en aan de eigenaar/houder kan vanwege de niet-goedgekeurde, dan wel niet-goedwerkende snelheidsbegrenzer een aankondiging van strafbeschikking worden uitgereikt of toegezonden.    
 ### 7.4  
 
 ####Verbaliseringsbeleid buitenlandse bedrijfsauto’s en bussen
 
-De verbalisering van bestuurders van buitenlandse bedrijfsauto’s en bussen vindt plaats conform het bovenstaande verbaliseringsbeleid ten aanzien van Nederlandse bedrijfsauto’s en bussen, met dien verstande dat van het toezenden van een transactievoorstel of een aankondiging van strafbeschikking aan de eigenaar/houder kan worden afgezien. In een dergelijk geval kan de buitenlandse bestuurder zowel een beschikking worden opgelegd voor de snelheidsovertreding als een transactie worden aangeboden of een aankondiging van strafbeschikking worden uitgereikt ter zake van het niet voorzien zijn van een goedwerkende snelheidsbegrenzer. Op grond van het bij de invoer van de politiestrafbeschikking in werking tredende [artikel 3a van het Besluit tenuitvoerlegging geldboeten](../../../../../../AMvB/besluit/tenuitvoerlegging/geldboeten/BWBR0006717/README.md) kan, als sprake is van het uitreiken van een aankondiging van strafbeschikking, de bestrafte in de gelegenheid worden gesteld om binnen één dag waarop het strafbare feit is ontdekt de geldboete te voldoen. Hierbij moet de bestrafte in een voor hem begrijpelijke taal worden medegedeeld dat hij bij daadwerkelijke directe betaling van de geldboete afstand doet van het recht op verzet tegen de strafbeschikking.      
+De verbalisering van bestuurders van buitenlandse bedrijfsauto’s en bussen vindt plaats conform het bovenstaande verbaliseringsbeleid ten aanzien van Nederlandse bedrijfsauto’s en bussen, met dien verstande dat van het toezenden een aankondiging van strafbeschikking aan de eigenaar/houder kan worden afgezien. In een dergelijk geval kan de buitenlandse bestuurder zowel een beschikking worden opgelegd voor de snelheidsovertreding als een aankondiging van strafbeschikking worden uitgereikt vanwege het feit dat de vrachtauto niet voorzien is van een goedwerkende snelheidsbegrenzer. Op grond van het bij de invoer van de politiestrafbeschikking in werking tredende artikel 3a van het Besluit tenuitvoerlegging geldboeten kan, als sprake is van het uitreiken van een aankondiging van strafbeschikking, de bestrafte in de gelegenheid worden gesteld om binnen één dag waarop het strafbare feit is ontdekt de geldboete te voldoen. Hierbij moet de bestrafte in een voor hem begrijpelijke taal worden medegedeeld dat hij bij daadwerkelijke directe betaling van de geldboete afstand doet van het recht op verzet tegen de strafbeschikking.      
 
 ####Overgangsrecht
 
@@ -288,7 +288,7 @@ De beleidsregels in deze aanwijzing hebben gelding met ingang van de datum van i
 Voorbeeldtabel geijkte boordsnelheidsmeter 
 
 | KM teller  | Gemeten snelheid  | Datum  30/09/11  |
-|:---|:---|:---|
+|---|---|---|
 | 30  | 27  |  *Reg.no.*   951415  |
 | 40  | 37  |  *Kenteken*   00-XX-XX  |
 | 50  | 47  |  *Wegdraaital*   525  |
