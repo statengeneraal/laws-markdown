@@ -11,7 +11,7 @@ Gelet op:
 
 – Verordening (EG) nr. 1799/2003 van de Raad van de Europese Unie van 13 oktober 2003 (PbEG L 264) tot wijziging van Verordening (EG) nr. 1210/2003 betreffende bepaalde specifieke restricties op de economische en financiële betrekkingen met Irak;
 
-– [de artikelen 2, tweede lid](../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md), en [3 van de Sanctiewet 1977](../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md);
+– de artikelen 2, tweede lid, en 3 van de Sanctiewet 1977;
 Besluit:    
 
 ### Artikel  1  
@@ -22,6 +22,11 @@ Besluit:
 ### Artikel  1a  
 
 De bevoegde autoriteit, bedoeld in artikel 6, eerste lid, van Verordening (EG) nr. 1210/2003 van de Raad van de Europese Unie van 7 juli 2003 betreffende bepaalde beperkende specifieke restricties op de economische en financiële betrekkingen met Irak en tot intrekking van Verordening (EG) nr. 2465/96 (Pb EG L 169), is de Minister van Economische Zaken voor zover het betreft het aanwenden van economische middelen als bedoeld in voornoemd artikel 6, eerste lid. De bevoegde autoriteit is de Minister van Financiën voor zover het betreft de aanwending van bevroren tegoeden als bedoeld in voornoemd artikel 6, eerste lid.  
+
+### Artikel  1b  
+
+1.  Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de Uitvoeringsregeling strategische goederen 2012, dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen aan, dan wel door of uit te voeren naar entiteiten of personen in Irak of voor gebruik in of ten behoeve van Irak, ongeacht het land van oorsprong.   
+2.  Het eerste lid is niet van toepassing met vooraf verleende ontheffing van de Minister van Economische Zaken, Landbouw en Innovatie op de verkoop, levering, overdracht of uitvoer van wapentuig en aanverwant materiaal dat door de regering van Irak of de bij Resolutie 1151 (2003) van de Veiligheidsraad ingestelde multinationale troepenmacht is benodigd ter uitvoering van Resolutie 1546 (2004) van de Veiligheidsraad.   
 
 ### Artikel  2  
 

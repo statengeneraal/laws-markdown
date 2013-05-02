@@ -11,7 +11,7 @@ Gelet op Verordening (EG) nr. 1184/2005 van de Raad van de Europese Unie van 18�
 
 Gelet op Gemeenschappelijk Standpunt nr. 2005/411/GBVB van de Raad van de Europese Unie van 30 mei 2005 met betrekking tot restrictieve maatregelen tegen Soedan en tot intrekking van Gemeenschappelijk Standpunt 2004/31/GBVB (Pb EG L 139);
 
-Gelet op de [artikelen 2, tweede lid](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md), en [3 van de Sanctiewet 1977](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md);
+Gelet op de artikelen 2, tweede lid, en 3 van de Sanctiewet 1977;
 Besluit:    
 
 ### Artikel  1  
@@ -26,21 +26,23 @@ Besluit:
 
 ### Artikel  3  
 
-1.  Het is verboden om paramilitaire uitrusting en wapens, munitie, militaire voertuigen, militaire uitrusting en goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen](../../../../../ministeriele-regeling/uitvoeringsregeling/strategische/goederen/BWBR0024269/README.md) dan wel bedoeld in [artikel 2 van de Regeling van de Staatssecretaris van Economische Zaken van 7 december 2006 houdende strafbaarstelling ongeoorloofde overdracht programmatuur en technologie van strategische goederen door middel van elektronische media, faxapparaten of telefoon](../../../../../ministeriele-regeling/regeling/strafbaarstelling/ongeoorloofde/overdracht/programmatuur/en/etc/BWBR0020691/README.md), dan wel onderdelen daarvan, te verkopen, te leveren, over te dragen of uit te voeren aan personen, entiteiten of lichamen in Sudan, of voor gebruik in Sudan.   
-2.  Het eerste lid is niet van toepassing op de verkoop, levering, overdracht, uitvoer of verstrekking, met vooraf verleende ontheffing van de bevoegde autoriteit, genoemd in de bijlage bij Verordening (EG) nr. 131/2004, van: 
+1.  Het is verboden om paramilitaire uitrusting en wapens, munitie, militaire voertuigen, militaire uitrusting en goederen, alsmede militaire technologie, aangewezen in de Uitvoeringsregeling strategische goederen 2012, dan wel onderdelen daarvan, te verkopen, te leveren, over te dragen of uit te voeren aan personen, entiteiten of lichamen in Sudan, of voor gebruik in Sudan, ongeacht het land van oorsprong.   
+2.  Het eerste lid is niet van toepassing met vooraf verleende ontheffing van de Minister van Economische Zaken, Landbouw en Innovatie op de verkoop, levering, overdracht of uitvoer van: 
 
 a. niet-letale militaire uitrusting uitsluitend bestemd voor humanitair gebruik of beschermingsdoeleinden, of voor programma’s voor institutionele versterking van de Verenigde Naties, de Afrikaanse Unie, de Europese Unie of de Gemeenschap;  
 
 b. materieel bedoeld voor crisisbeheersingsoperaties van de Verenigde Naties, de Afrikaanse Unie of de Europese Unie;  
 
-c. ontmijningsuitrusting en materieel voor gebruik bij ontmijning; en  
+c. andere voertuigen dan gevechtsvoertuigen die gemaakt zijn van, of uitgerust zijn met, materiaal dat bescherming biedt tegen kogels en die uitsluitend bestemd zijn voor de bescherming van personeel van de Europese Unie en haar lidstaten in Sudan; en  
 
-d. financieringsmiddelen, financiële bijstand of technische bijstand in verband met de uitrusting, bedoeld in de onderdelen a en c, of voor crisisbeheersingsoperaties van de Afrikaanse Unie.     
+d. ontmijningsuitrusting en materieel voor gebruik bij ontmijning; en  
+
+e. niet-letale militaire uitrusting uitsluitend bestemd ter ondersteuning van de hervorming van de veiligheidssector in Sudan.     
 3.  Het eerste lid is niet van toepassing op de tijdelijke uitvoer van beschermende kleding voor persoonlijk gebruik, met inbegrip van scherfwerende vesten en militaire helmen, door personeel van de Verenigde Naties, de Europese Unie, de Gemeenschap of haar lidstaten, vertegenwoordigers van de media, of medewerkers van humanitaire organisaties en ontwikkelingswerkers en aanverwant personeel.   
 
 ### Artikel  4  
 
-De [Sanctieregeling Sudan 2004](../../../../../ministeriele-regeling/sanctieregeling/sudan/2004/BWBR0017178/README.md) wordt ingetrokken.  
+De Sanctieregeling Sudan 2004 wordt ingetrokken.  
 
 ### Artikel  5  
 

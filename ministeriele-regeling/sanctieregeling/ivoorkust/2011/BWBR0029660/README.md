@@ -11,13 +11,13 @@ Gelet op Verordening (EG) nr. 560/2005 van de Raad van de Europese Unie van 12
 
 Gelet op Besluit 2010/656/GBVB van de Raad van de Europese Unie van 29 oktober 2010 tot verlenging van de beperkende maatregelen tegen Ivoorkust (Pb EG L 285);
 
-Gelet op [artikel 2, tweede lid](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md), en [artikel 3 van de Sanctiewet 1977](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md),
+Gelet op artikel 2, tweede lid, en artikel 3 van de Sanctiewet 1977,
 Besluit:    
 
 ### Artikel  1  
 
-1.  Het is verboden te handelen in strijd met de artikelen 2 en 3 van Verordening (EG) nr. 174/2005 van de Raad van de Europese Unie van 31 januari 2004 tot instelling van beperkingen op het leveren van bijstand in verband met militaire activiteiten aan Ivoorkust.   
-2.  Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin artikel 4, 4 bis of 5 van de Verordening (EU) nr. 174/2005 van toepassing is.   
+1.  Het is verboden te handelen in strijd met artikel 3 van Verordening (EG) nr. 174/2005 van de Raad van de Europese Unie van 31 januari 2004 tot instelling van beperkingen op het leveren van bijstand in verband met militaire activiteiten aan Ivoorkust.   
+2.  Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin artikel 4 bis of 5 van de Verordening (EU) nr. 174/2005 van toepassing is.   
 
 ### Artikel  2  
 
@@ -26,7 +26,7 @@ Besluit:
 
 ### Artikel  3  
 
-1.  Het is verboden om paramilitaire uitrusting en wapens, munitie, militaire voertuigen, militaire uitrusting en goederen, alsmede militaire technologie, aangewezen in de Uitvoeringsregeling strategische goederen dan wel bedoeld in [artikel 2 van de Regeling van de Staatssecretaris van Economische Zaken van 7 december 2006 houdende strafbaarstelling ongeoorloofde overdracht programmatuur en technologie van strategische goederen door middel van elektronische media, faxapparaten of telefoon](../../../../../ministeriele-regeling/regeling/strafbaarstelling/ongeoorloofde/overdracht/programmatuur/en/etc/BWBR0020691/README.md), dan wel onderdelen daarvan, te verkopen, te leveren, over te dragen of uit te voeren aan personen, entiteiten of lichamen in Ivoorkust of voor gebruik in Ivoorkust.   
+1.  Het is verboden om paramilitaire uitrusting en wapens, munitie, militaire voertuigen, militaire uitrusting en goederen, alsmede militaire technologie, aangewezen in de Uitvoeringsregeling strategische goederen 2012, dan wel onderdelen daarvan, te verkopen, te leveren, over te dragen of uit te voeren aan personen, entiteiten of lichamen in Ivoorkust of voor gebruik in Ivoorkust.   
 2.  Het eerste lid is niet van toepassing, met vooraf verleende ontheffing van de Minister van Economische Zaken, Landbouw en Innovatie, op: 
 
 a. de bevoorrading uitsluitend bestemd voor ondersteuning van en gebruikmaking door de operatie van de Verenigde Naties in Ivoorkust en de Franse troepen die de operatie steunen;  
@@ -39,17 +39,16 @@ d. de verkoop, levering, overdracht of uitvoer van beschermende kledingstukken, 
 
 d. de verkoop of levering van goederen die tijdelijk naar Ivoorkust worden overgebracht of uitgevoerd voor de troepen van een staat die overeenkomstig het internationale recht actie onderneemt uitsluitend en direct gericht op het faciliteren van de evacuatie van zijn onderdanen en personen voor wie hij in Ivoorkust consulair verantwoordelijk is, indien dat vooraf ter kennis van het comité, bedoeld in onderdeel b, is gebracht;  
 
-e. de verkoop, levering, overdracht of uitvoer van wapens en aanverwant materieel uitsluitend bestemd ter ondersteuning van en voor gebruik bij het proces van herstructurering van de defensie- en veiligheidstroepen overeenkomstig punt 3, onder f, van de overeenkomst van Linas-Marcoussis met vooraf verleende goedkeuring door het comité, bedoeld in onderdeel b.     
+e. de verkoop, levering, overdracht of uitvoer van wapens en aanverwant materieel uitsluitend bestemd ter ondersteuning van de hervorming van de veiligheidssector in Ivoorkust, ingevolge een formeel verzoek van de Ivoriaanse regering met vooraf verleende goedkeuring van het comité, bedoeld in onderdeel b.     
 
 ### Artikel  4  
 
-1.  De bevoegde autoriteit, bedoeld in artikel 4, tweede lid, en artikel 4 bis, eerste lid van Verordening (EU) nr. 174/2005 is de Minister van Economische Zaken, Landbouw en Innovatie voor zover het betreft de verkoop, de levering of uitvoer van niet-dodelijke uitrusting als bedoeld in bijlage I van voornoemde verordening, en voor zover het betreft het verlenen van technische bijstand.   
-2.  De bevoegde autoriteit, bedoeld in artikel 4 bis, eerste lid, van Verordening (EU) nr. 174/2005 is de Minister van Financiën voor zover het betreft financiering of financiële bijstand als bedoeld in voornoemd artikel.   
-3.  De bevoegde autoriteit, bedoeld in de artikelen 3 en 4 van de Verordening (EU) nr. 560/2005 is de Minister van Economische Zaken, Landbouw en Innovatie voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen en de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van bevroren tegoeden.   
+1.  De bevoegde autoriteit, bedoeld in artikel 4 bis, eerste en tweede lid, van Verordening (EG) nr. 174/2005 is de Minister van Economische Zaken, Landbouw en Innovatie voor zover het betreft de verkoop, de levering of uitvoer van niet-dodelijke uitrusting als bedoeld in bijlage I van voornoemde verordening.   
+2.  De bevoegde autoriteit, bedoeld in de artikelen 3 en 4 van de Verordening (EU) nr. 560/2005 is de Minister van Economische Zaken, Landbouw en Innovatie voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen en de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van bevroren tegoeden.   
 
 ### Artikel  5  
 
-De [Sanctieregeling Ivoorkust 2005](../../../../../ministeriele-regeling/sanctieregeling/ivoorkust/2005/BWBR0018440/README.md) wordt ingetrokken.  
+De Sanctieregeling Ivoorkust 2005 wordt ingetrokken.  
 
 ### Artikel  6  
 

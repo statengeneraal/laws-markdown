@@ -9,7 +9,7 @@ Gelet op Verordening (EU) nr. 753/2011 van de Raad van de Europese Unie van 1 au
 
 Gelet op Besluit 2011/486/GBVB van de Raad van de Europese Unie van 1 augustus 2011 betreffende beperkende maatregelen tegen bepaalde personen, groepen, ondernemingen en entiteiten in verband met de situatie in Afghanistan (Pb L199);
 
-Gelet op [artikel 2, tweede lid](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md), en [artikel 3 van de Sanctiewet 1977](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md);
+Gelet op artikel 2, tweede lid, en artikel 3 van de Sanctiewet 1977;
 Besluit:    
 
 ### Artikel  1  
@@ -24,7 +24,7 @@ Besluit:
 
 ### Artikel  3  
 
-1.  Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen](../../../../../ministeriele-regeling/uitvoeringsregeling/strategische/goederen/BWBR0024269/README.md) dan wel bedoeld in [artikel 2 van de Regeling van de Staatssecretaris van Economische Zaken van 7 december 2006 houdende strafbaarstelling ongeoorloofde overdracht programmatuur en technologie van strategische goederen door middel van elektronische media, faxapparaten of telefoon](../../../../../ministeriele-regeling/regeling/strafbaarstelling/ongeoorloofde/overdracht/programmatuur/en/etc/BWBR0020691/README.md), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen aan, dan wel door of uit te voeren naar de personen of entiteiten, genoemd in bijlage I van Besluit 2011/486/GBVB van de Raad van de Europese Unie van 1 augustus 2011 (Pb L199) ongeacht het land van oorsprong.   
+1.  Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de Uitvoeringsregeling strategische goederen 2012, dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen aan, dan wel door of uit te voeren naar de personen of entiteiten, genoemd in bijlage I van Besluit 2011/486/GBVB van de Raad van de Europese Unie van 1 augustus 2011 (Pb L199) ongeacht het land van oorsprong.   
 
 ### Artikel  4  
 

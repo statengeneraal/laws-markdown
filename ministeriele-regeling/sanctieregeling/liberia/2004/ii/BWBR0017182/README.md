@@ -9,7 +9,7 @@ Gelet op Verordening (EG) nr. 234/2004 van de Raad van de Europese Unie van 10 f
 
 Gelet op Gemeenschappelijk Standpunt nr. 2004/137/GBVB van de Raad van de Europese Unie van 10 februari 2004 (Pb EG L 40) betreffende beperkende maatregelen tegen Liberia en tot intrekking van Gemeenschappelijk Standpunt 2001/357/GBVB;
 
-Gelet op de [artikelen 2, tweede lid](../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md), en [3 van de Sanctiewet 1977](../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md);
+Gelet op de artikelen 2, tweede lid, en 3 van de Sanctiewet 1977;
 Besluit:    
 
 ### Artikel  1  
@@ -19,14 +19,14 @@ Besluit:
 
 ### Artikel  2  
 
-1.  Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen](../../../../../../ministeriele-regeling/uitvoeringsregeling/strategische/goederen/BWBR0024269/README.md) dan wel bedoeld in [artikel 2 van de Regeling van de Staatssecretaris van Economische Zaken van 7 december 2006 houdende strafbaarstelling ongeoorloofde overdracht programmatuur en technologie van strategische goederen door middel van elektronische media, faxapparaten of telefoon](../../../../../../ministeriele-regeling/regeling/strafbaarstelling/ongeoorloofde/overdracht/programmatuur/en/etc/BWBR0020691/README.md), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen of uit te voeren aan entiteiten of personen in Liberia, ongeacht of de goederen afkomstig zijn uit de lidstaten van de Europese Unie.   
+1.  Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de Uitvoeringsregeling strategische goederen 2012, dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen of uit te voeren aan entiteiten of personen in Liberia, ongeacht of de goederen afkomstig zijn uit de lidstaten van de Europese Unie.   
 2.  Het eerste lid is niet van toepassing op de verkoop, de levering, de overdracht of de uitvoer van: 
 
 a. wapens en aanverwant materieel uitsluitend bestemd ter ondersteuning van en voor gebruik door de missie van de Verenigde Naties in Liberia, met vooraf verleende ontheffing van de Minister van Economische Zaken;  
 
 b. tijdelijke uitvoer van beschermende kleding voor persoonlijk gebruik, met inbegrip van scherfwerende vesten en militaire helmen, door personeel van de Verenigde Naties, de Europese Unie, de Gemeenschap en haar lidstaten, vertegenwoordigers van de media, of medewerkers van humanitaire organisaties en ontwikkelingswerkers en aanverwant personeel, met vooraf verleende ontheffing van de Minister van Economische Zaken;  
 
-c. niet-dodelijke militaire uitrusting uitsluitend bestemd voor humanitair gebruik of beschermingsdoeleinden of voor bijbehorende technische bijstand of opleiding, nadat het Sanctiecomité, ingesteld bij paragraaf 21 van Resolutie 1521 (2003) in kennis is gesteld;     
+c. niet-dodelijke militaire uitrusting uitsluitend bestemd voor humanitair gebruik of beschermingsdoeleinden of voor bijbehorende technische bijstand of opleiding, nadat het Sanctiecomité, ingesteld bij paragraaf 21 van Resolutie 1521 (2003) in kennis is gesteld.     
 
 ### Artikel  2a  
 

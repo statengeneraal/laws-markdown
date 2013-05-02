@@ -11,7 +11,7 @@ Gelet op Verordening (EG) nr. 1412/2006 van de Raad van de Europese Unie van 25
 
 Gelet op Gemeenschappelijk Standpunt nr. 2006/625/GBVB van de Raad van de Europese Unie van 15 september 2006 betreffende een verbod op de verkoop of levering van wapens en aanverwant materieel en op het verrichten van aanverwante diensten aan entiteiten of personen in Libanon overeenkomstig Resolutie 1701 (2006) van de VN-Veiligheidsraad (Pb EG L 253);
 
-Gelet op de [artikelen 2, tweede lid](../../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md), en [3 van de Sanctiewet 1977](../../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md);
+Gelet op de artikelen 2, tweede lid, en 3 van de Sanctiewet 1977;
 Besluit:    
 
 ### Artikel  1  
@@ -26,7 +26,7 @@ Besluit:
 
 ### Artikel  3  
 
-1.  Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen](../../../../../../../ministeriele-regeling/uitvoeringsregeling/strategische/goederen/BWBR0024269/README.md) dan wel bedoeld in [artikel 2 van de Regeling van de Staatssecretaris van Economische Zaken van 7 december 2006 houdende strafbaarstelling ongeoorloofde overdracht programmatuur en technologie van strategische goederen door middel van elektronische media, faxapparaten of telefoon](../../../../../../../ministeriele-regeling/regeling/strafbaarstelling/ongeoorloofde/overdracht/programmatuur/en/etc/BWBR0020691/README.md), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen of uit te voeren aan entiteiten of personen in Libanon, of voor gebruik in Libanon, ongeacht of de goederen afkomstig zijn uit de lidstaten van de Europese Unie.   
+1.  Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de Uitvoeringsregeling strategische goederen 2012, dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen of uit te voeren aan entiteiten of personen in Libanon, of voor gebruik in Libanon, ongeacht of de goederen afkomstig zijn uit de lidstaten van de Europese Unie.   
 2.  Het eerste lid is niet van toepassing op de verkoop, levering, overdracht of uitvoer van wapens en aanverwant materieel of de levering van technische bijstand, financiering en financiële bijstand, diensten als tussenhandelaar en andere diensten in verband met wapens en aanverwant materieel, indien vooraf toestemming is verleend door de bevoegde autoriteit, genoemd in de bijlage bij Verordening (EG) nr. 1412/2006, en: 
 
 a. de goederen of diensten niet, direct of indirect, worden geleverd of verleend aan een van de milities die volgens de Resoluties 1559 (2004) en 1680 (2006) van de Veiligheidsraad van de Verenigde Naties moeten worden ontwapend,  

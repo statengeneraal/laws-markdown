@@ -9,7 +9,7 @@ Gelet op Verordening (EG) nr. 314/2004 van de Raad van de Europese Unie van 19 f
 
 Gelet op Gemeenschappelijk Standpunt nr. 2004/161/GBVB van de Raad van de Europese Unie van 19 februari 2004 houdende verlenging van de beperkende maatregelen tegen Zimbabwe (Pb EG L 50);
 
-Gelet op de [artikelen 2, tweede lid](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md), en [3 van de Sanctiewet 1977](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md);
+Gelet op de artikelen 2, tweede lid, en 3 van de Sanctiewet 1977;
 Besluit:    
 
 ### Artikel  1  
@@ -19,7 +19,7 @@ Besluit:
 
 ### Artikel  2  
 
-1.  Het is verboden om paramilitaire uitrusting en wapens, munitie, militaire voertuigen, militaire uitrusting en goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen](../../../../../ministeriele-regeling/uitvoeringsregeling/strategische/goederen/BWBR0024269/README.md) dan wel bedoeld in [artikel 2 van de Regeling van de Staatssecretaris van Economische Zaken van 7 december 2006 houdende strafbaarstelling ongeoorloofde overdracht programmatuur en technologie van strategische goederen door middel van elektronische media, faxapparaten of telefoon](../../../../../ministeriele-regeling/regeling/strafbaarstelling/ongeoorloofde/overdracht/programmatuur/en/etc/BWBR0020691/README.md), dan wel onderdelen daarvan, te verkopen, te leveren, over te dragen of uit te voeren aan personen, entiteiten of lichamen in Zimbabwe, of voor gebruik in Zimbabwe.   
+1.  Het is verboden om paramilitaire uitrusting en wapens, munitie, militaire voertuigen, militaire uitrusting en goederen, alsmede militaire technologie, aangewezen in de Uitvoeringsregeling strategische goederen 2012, dan wel onderdelen daarvan, te verkopen, te leveren, over te dragen of uit te voeren aan personen, entiteiten of lichamen in Zimbabwe, of voor gebruik in Zimbabwe.   
 2.  Het eerste lid is niet van toepassing op de verkoop, levering, overdracht of uitvoer, met vooraf verleende ontheffing van de bevoegde autoriteit, genoemd in bijlage II bij Verordening (EG) nr. 314/2004 van: 
 
 a. niet-letale militaire uitrusting uitsluitend bestemd voor humanitair gebruik of beschermingsdoeleinden, of voor programma’s voor institutionele versterking van de Verenigde Naties, de Europese Unie of de Gemeenschap; en  

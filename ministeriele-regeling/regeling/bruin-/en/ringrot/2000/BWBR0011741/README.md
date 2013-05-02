@@ -3,7 +3,7 @@
 ##Regeling bruin- en ringrot 2000
 
 De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,  
-Gelet op richtlijn 93/85/EEG van de Raad van Europese Gemeenschappen van 4 oktober 1993 betreffende de bestrijding van aardappelringrot, (PbEG L 259), op richtlijn 98/57/EG van de Raad van 20 juli 1998 betreffende de bestrijding van Ralstonia solanacearum (Smith) Yabuuchi et al (PbEG L 235), op [artikel 6a van de Plantenziektenwet](../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md) en op de [artikelen 14](../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md) en [17 van het Besluit bestrijding schadelijke organismen](../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md);
+Gelet op richtlijn 93/85/EEG van de Raad van Europese Gemeenschappen van 4 oktober 1993 betreffende de bestrijding van aardappelringrot, (PbEG L 259), op richtlijn 98/57/EG van de Raad van 20 juli 1998 betreffende de bestrijding van Ralstonia solanacearum (Smith) Yabuuchi et al (PbEG L 235), op artikel 6a van de Plantenziektenwet en op de artikelen 14 en 17 van het Besluit bestrijding schadelijke organismen;
 Besluit:    
 
 ### Artikel  1  
@@ -98,7 +98,7 @@ De Regeling bruinrot wordt ingetrokken.
 
 ### Artikel  9  
 
-Deze regeling wordt aangehaald als [Regeling bruin- en ringrot 2000](../../../../../../../ministeriele-regeling/regeling/bruin-/en/ringrot/2000/BWBR0011741/README.md).  
+Deze regeling wordt aangehaald als Regeling bruin- en ringrot 2000.  
 
 ### Artikel  10  
 
@@ -122,7 +122,24 @@ Ligt ter inzage bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit te D
 
 ####bij artikel 2, tweede lid , van de Regeling bruin- en ringrot 2000
 
-Ligt ter inzage bij het Ministerie van Economische Zaken, Landbouw en Innovatie en het kantoor van de Plantenziektenkundige Dienst te Wageningen en is gepubliceerd op de website http://www.vwa.nl/onderwerpen/plantenziekten-en-plagen/dossier/bruinrot/beregeningsverboden.  
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ### Bijlage  3  
 

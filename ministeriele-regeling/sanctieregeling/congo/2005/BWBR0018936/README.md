@@ -11,7 +11,7 @@ Gelet op Verordening (EG) nr. 1183/2005 van de Raad van de Europese Unie van 18 
 
 Gelet op Gemeenschappelijk Standpunt 2005/440/GBVB van de Raad van de Europese Unie van 13 juni 2005 betreffende beperkende maatregelen tegen de Democratische Republiek Congo en tot intrekking van Gemeenschappelijk Standpunt 2002/829/GBVB (Pb EG L 152);
 
-Gelet op [artikel 2, tweede lid,](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md) en [artikel 3 van de Sanctiewet 1977](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md);
+Gelet op artikel 2, tweede lid, en artikel 3 van de Sanctiewet 1977;
 Besluit:    
 
 ### Artikel  1  
@@ -26,7 +26,7 @@ Besluit:
 
 ### Artikel  3  
 
-1.  Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen](../../../../../ministeriele-regeling/uitvoeringsregeling/strategische/goederen/BWBR0024269/README.md) dan wel bedoeld in [artikel 2 van de Regeling van de Staatssecretaris van Economische Zaken van 7 december 2006 houdende strafbaarstelling ongeoorloofde overdracht programmatuur en technologie van strategische goederen door middel van elektronische media, faxapparaten of telefoon](../../../../../ministeriele-regeling/regeling/strafbaarstelling/ongeoorloofde/overdracht/programmatuur/en/etc/BWBR0020691/README.md), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen of uit te voeren aan alle niet-gouvernementele organisaties en natuurlijke personen die actief zijn in de Democratische Republiek Congo, ongeacht of de goederen oorspronkelijk afkomstig zijn uit de lidstaten van de Europese Unie.   
+1.  Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de Uitvoeringsregeling strategische goederen 2012, dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen of uit te voeren aan alle niet-gouvernementele organisaties en natuurlijke personen die actief zijn in de Democratische Republiek Congo, ongeacht of de goederen oorspronkelijk afkomstig zijn uit de lidstaten van de Europese Unie.   
 2.  Het eerste lid is niet van toepassing op: 
 
 a. militaire goederen, militaire technologie of onderdelen daarvan uitsluitend bestemd ter ondersteuning van of voor gebruik door de VN-missie in de Democratische Republiek Congo (MONUC);  
@@ -42,7 +42,7 @@ De bevoegde autoriteit, bedoeld in artikel 3, eerste lid, van Verordening (EG) n
 
 ### Artikel  4  
 
-De [Sanctieregeling Congo 2003](../../../../../ministeriele-regeling/sanctieregeling/congo/2003/BWBR0015866/README.md) wordt ingetrokken.  
+De Sanctieregeling Congo 2003 wordt ingetrokken.  
 
 ### Artikel  5  
 

@@ -11,7 +11,7 @@ Gelet op Verordening (EU) nr. 1215/2011 van de Raad van de Europese Unie van 24 
 
 Gelet op Besluit 2011/423/GBVB van de Raad van de Europese Unie van 18 juli 2011 betreffende beperkende maatregelen tegen Sudan en Zuid-Sudan en tot intrekking van Gemeenschappelijk Standpunt 2005/411/GBVB (Pb EU L 188);
 
-Gelet op de [artikelen 2, tweede lid](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md), en [3 van de Sanctiewet 1977](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md);
+Gelet op de artikelen 2, tweede lid, en 3 van de Sanctiewet 1977;
 Besluit:    
 
 ### Artikel  1  
@@ -21,7 +21,7 @@ Besluit:
 
 ### Artikel  2  
 
-1.  Het is verboden om paramilitaire uitrusting en wapens, munitie, militaire voertuigen, militaire uitrusting en goederen, alsmede militaire technologie, aangewezen in de Uitvoeringsregeling strategische goederen dan wel bedoeld in [artikel 2 van de Regeling van de Staatssecretaris van Economische Zaken van 7 december 2006 houdende strafbaarstelling ongeoorloofde overdracht programmatuur en technologie van strategische goederen door middel van elektronische media, faxapparaten of telefoon](../../../../../ministeriele-regeling/regeling/strafbaarstelling/ongeoorloofde/overdracht/programmatuur/en/etc/BWBR0020691/README.md), dan wel onderdelen daarvan, te verkopen, te leveren, over te dragen of uit te voeren aan personen, entiteiten of lichamen in Zuid-Sudan, of voor gebruik in Zuid-Sudan, ongeacht het land van oorsprong.   
+1.  Het is verboden om paramilitaire uitrusting en wapens, munitie, militaire voertuigen, militaire uitrusting en goederen, alsmede militaire technologie, aangewezen in de Uitvoeringsregeling strategische goederen 2012, dan wel onderdelen daarvan, te verkopen, te leveren, over te dragen of uit te voeren aan personen, entiteiten of lichamen in Zuid-Sudan, of voor gebruik in Zuid-Sudan, ongeacht het land van oorsprong.   
 2.  Het eerste lid is niet van toepassing met vooraf verleende ontheffing van de Minister van Economische Zaken, Landbouw en Innovatie op de verkoop, levering, overdracht of uitvoer van: 
 
 a. niet-letale militaire uitrusting uitsluitend bestemd voor humanitair gebruik of beschermingsdoeleinden, of voor programma’s voor institutionele versterking van de Verenigde Naties, de Afrikaanse Unie, de Europese Unie of de Gemeenschap;  
