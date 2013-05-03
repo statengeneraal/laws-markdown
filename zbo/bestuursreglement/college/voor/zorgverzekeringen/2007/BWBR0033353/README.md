@@ -3,7 +3,7 @@
 ##Bestuursreglement College voor zorgverzekeringen 2007
 
 Het College voor zorgverzekeringen,  
-gelet op [artikel 60, eerste lid, Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md),
+gelet op artikel 60, eerste lid, Zorgverzekeringswet,
 heeft in zijn vergadering van 12 maart 2007 besloten:     
 ### Hoofdstuk  1  
 
@@ -13,13 +13,13 @@ heeft in zijn vergadering van 12 maart 2007 besloten:
 
 Dit bestuursreglement en de daarop gebaseerde regelingen verstaan onder: 
 
-a. de wet: de [Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+a. de wet: de Zorgverzekeringswet;  
 
-b. het college: het College voor zorgverzekeringen, genoemd in [artikel 58, eerste lid, van de wet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+b. het college: het College voor zorgverzekeringen, genoemd in artikel 58, eerste lid, van de wet;  
 
 c. het bestuur: de leden van het college tezamen;  
 
-d. de voorzitter: de voorzitter van het college, genoemd in [artikel 58, vierde lid van de wet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), tenzij in dit reglement anders is bepaald;  
+d. de voorzitter: de voorzitter van het college, genoemd in artikel 58, vierde lid van de wet, tenzij in dit reglement anders is bepaald;  
 
 e. de minister: de minister van Volksgezondheid, Welzijn en Sport.    
 
@@ -107,22 +107,19 @@ d. interne aangelegenheden van het college als werkgever.
 
 ### Artikel  9  
 
-1.  Vaste commissies van het college zijn: 
+1.  Het College voor zorgverzekeringen heeft een vaste commissie die is genaamd Wetenschappelijke Adviesraad.   
+2.  De Wetenschappelijke Adviesraad heeft als taak: 
 
-a. de Duidingscommissie pakket, met als taak: het uitbrengen van advies aan het bestuur over: 
+a. het rapporteren aan het bestuur ten behoeve van de advisering aan de minister over farmaceutische hulp;  
 
-1. individuele verzekerings- en indicatiegeschillen, in het bijzonder op grond van [artikel 114 van de wet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [artikel 58 van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) en [artikel 2.1.2 van de Invoerings- en aanpassingswet Zorgverzekeringswet](../../../../../../../wet/invoerings-/en/aanpassingswet/zorgverzekeringswet/BWBR0018830/README.md) juncto [artikel 74 van de Ziekenfondswet](../../../../../../../wet/ziekenfondswet/BWBR0002460/README.md);  
+b. het adviseren aan het bestuur ten behoeve van het Farmacotherapeutisch Kompas;  
 
-2. het eenduidig uitleggen van de aard, inhoud en omvang van de te verzekeren prestaties bedoeld in [artikel 11 van de Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), op grond van [artikel 64 Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+c. het adviseren aan het bestuur over individuele verzekerings- en indicatiegeschillen, in het bijzonder op grond van artikel 114 van de Zorgverzekeringswet en artikel 58 van de Algemene Wet Bijzondere Ziektekosten;  
 
-3. het eenduidig uitleggen van de aard, inhoud en omvang van de aanspraken bedoeld in [artikel 42 van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).    
+d. het adviseren aan het bestuur over het eenduidig uitleggen van de aard, inhoud en omvang van de prestaties, bedoeld in artikel 11 van de Zorgverzekeringswet, op grond van artikel 64 van de Zorgverzekeringswet;  
 
-b. de Commissie Farmaceutische Hulp, met als taak het rapporteren aan het bestuur ten behoeve van: 
-
-1e. de advisering aan de minister over farmaceutische hulp;  
-
-2e. de advisering aan de Nederlandse Zorgautoriteit over intramurale geneesmiddelen in het kader van diens beleidsregels.       
-2.  Artikel 7, tweede lid, en artikel 8 zijn van toepassing op de in het eerste lid genoemde vaste commissies.   
+e. het adviseren aan het bestuur over het eenduidig uitleggen van de aard, inhoud en omvang van de aanspraken bedoeld in artikel 42 van de Algemene Wet Bijzondere Ziektekosten.     
+3.  Artikel 7, tweede lid en artikel 8 zijn van toepassing op de in het eerste lid genoemde vaste commissie.   
 
 ### Artikel  10  
 

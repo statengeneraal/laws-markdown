@@ -9,32 +9,32 @@ Gelet op Verordening (EU) nr. 753/2011 van de Raad van de Europese Unie van 1 au
 
 Gelet op Besluit 2011/486/GBVB van de Raad van de Europese Unie van 1 augustus 2011 betreffende beperkende maatregelen tegen bepaalde personen, groepen, ondernemingen en entiteiten in verband met de situatie in Afghanistan (Pb L199);
 
-Gelet op artikel 2, tweede lid, en artikel 3 van de Sanctiewet 1977;
+Gelet op [artikel 2, tweede lid](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md), en [artikel 3 van de Sanctiewet 1977](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md);
 Besluit:    
 
 ### Artikel  1  
 
 1.  Het is verboden te handelen in strijd met de artikelen 2, 3 en 8 van Verordening (EU) nr. 753/2011 van de Raad van de Europese Unie van 1 augustus 2011 (Pb L199).   
-2.  Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 5 of artikel 6 van Verordening (EU) nr. 753/2011 van toepassing is.   
+2.  Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 5 of artikel 6 van Verordening (EU) nr. 753/2011 van toepassing is.  
 
 ### Artikel  2  
 
 1.  De bevoegde autoriteit, bedoeld in artikel 5 van Verordening (EU) nr. 753/2011, is de Minister van Economische Zaken, Landbouw en Innovatie wat betreft de vrijgave of beschikbaarstelling van economische middelen en de Minister van Financiën wat betreft de vrijgave of beschikbaarstelling van tegoeden.   
-3.  De bevoegde autoriteit, bedoeld in artikel 6, tweede lid, van Verordening (EU) nr. 753/2011, is de Minister van Financiën.   
+3.  De bevoegde autoriteit, bedoeld in artikel 6, tweede lid, van Verordening (EU) nr. 753/2011, is de Minister van Financiën.  
 
 ### Artikel  3  
 
-1.  Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de Uitvoeringsregeling strategische goederen 2012, dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen aan, dan wel door of uit te voeren naar de personen of entiteiten, genoemd in bijlage I van Besluit 2011/486/GBVB van de Raad van de Europese Unie van 1 augustus 2011 (Pb L199) ongeacht het land van oorsprong.   
+1.  Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](../../../../../ministeriele-regeling/uitvoeringsregeling/strategische/goederen/2012/BWBR0030610/README.md), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen aan, dan wel door of uit te voeren naar de personen of entiteiten, genoemd in bijlage I van Besluit 2011/486/GBVB van de Raad van de Europese Unie van 1 augustus 2011 (Pb L199) ongeacht het land van oorsprong.  
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Sanctieregeling Afghanistan 2011.  
+Deze regeling wordt aangehaald als: Sanctieregeling Afghanistan 2011. 
 
 ### Artikel  5  
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Buitenlandse Zaken,
-U.Rosenthal   
+Minister van Buitenlandse Zaken, 
+U. Rosenthal     
