@@ -5,9 +5,9 @@
 De Sociaal-Economische Raad;  
 Gehoord de Bestuurskamer en de Toezichtkamer;
 
-Gelet op de [artikelen 35](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [122](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [125 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 35, 122 en 125 van de Wet op de bedrijfsorganisatie;
 
-Gelet op de [Instellingsverordening Bestuurskamer 2008](../../../../../../pbo/instellingsverordening/bestuurskamer/2008/BWBR0024271/README.md);
+Gelet op de Instellingsverordening Bestuurskamer 2008;
 Besluit:     
 ### §  1  
 
@@ -18,20 +18,20 @@ Besluit:
 1.  In deze verordening wordt verstaan onder:   
 
 | --- | --- | --- |
-|:---|:---|:---|
-| a.  | wet:  | [Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);  |
-| b.  | bedrijfslichaam:  | een bedrijfslichaam als bedoeld in [artikel 66, vierde lid, van de wet](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);  |
+|---|---|---|
+| a.  | wet:  | Wet op de bedrijfsorganisatie;  |
+| b.  | bedrijfslichaam:  | een bedrijfslichaam als bedoeld in artikel 66, vierde lid, van de wet;  |
 | c.  | Raad:  | Sociaal-Economische Raad;  |
-| d.  | Bestuurskamer:  | commissie ex [artikel 3 van de Verordening bestuurlijke taken SER](../../../../../../pbo/verordening/bestuurlijke/taken/ser/BWBR0032870/README.md);  |
-| e.  | Toezichtkamer:  | commissie ex [artikel 7 van de Verordening bestuurlijke taken SER](../../../../../../pbo/verordening/bestuurlijke/taken/ser/BWBR0032870/README.md);  |
-| f.  | bestemmingsheffing:  | een heffing als bedoeld in [artikel 126, vierde lid, van de wet](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);  |
-| g.  | algemene heffing:  | een heffing op grond van [artikel 126, eerste lid, van de wet](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), niet zijnde een bestemmingsheffing;  |
-| h.  | retributie:  | een retributie als bedoeld in [artikel 126, tweede lid, van de wet](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);  |
+| d.  | Bestuurskamer:  | commissie ex artikel 3 van de Verordening bestuurlijke taken SER;  |
+| e.  | Toezichtkamer:  | commissie ex artikel 7 van de Verordening bestuurlijke taken SER;  |
+| f.  | bestemmingsheffing:  | een heffing als bedoeld in artikel 126, vierde lid, van de wet;  |
+| g.  | algemene heffing:  | een heffing op grond van artikel 126, eerste lid, van de wet, niet zijnde een bestemmingsheffing;  |
+| h.  | retributie:  | een retributie als bedoeld in artikel 126, tweede lid, van de wet;  |
 | i.  | eigen vermogen:  | de som van de algemene reserve, de bestemmingsreserve en de bestemmingsfondsen;  |
 | j.  | bestemmingsreserve:  | een reserve met een bijzondere bestemming, bepaald door het bestuur;  |
 | k.  | bestemmingsfonds:  | een reserve met een bijzondere bestemming, waarbij een bestedingsbeperking is aangebracht door derden.  |
 
-2.  Deze verordening is mede van toepassing op voorzieningen ter gemeenschappelijke behartiging van belangen als bedoeld in [artikel 109 en verder van de wet](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).   
+2.  Deze verordening is mede van toepassing op voorzieningen ter gemeenschappelijke behartiging van belangen als bedoeld in artikel 109 en verder van de wet.   
 
 ### §  2  
 
@@ -126,7 +126,7 @@ e. voorzieningen tegen de nominale waarde gewaardeerd.
 
 a. een specificatie van de baten en lasten als bedoeld in bijlage 2 aangevuld met bedragen voor begin- en eindstand van de omvang van de algemene reserve, bestemmingsreserves en eventuele bestemmingsfondsen;  
 
-b. een overzicht van de algemene heffings-, bestemmingsheffings- en retributieverordeningen die ten grondslag liggen aan de begroting, met hun tarieven, heffingsgrondslagen, begrote bruto-heffingsopbrengst(en), eventuele aftrek als bedoeld in [artikel 126, zesde lid, van de wet](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en begrote netto-opbrengst(en);  
+b. een overzicht van de algemene heffings-, bestemmingsheffings- en retributieverordeningen die ten grondslag liggen aan de begroting, met hun tarieven, heffingsgrondslagen, begrote bruto-heffingsopbrengst(en), eventuele aftrek als bedoeld in artikel 126, zesde lid, van de wet en begrote netto-opbrengst(en);  
 
 c. een uiteenzetting over de financiële positie van het bedrijfslichaam;  
 
@@ -142,7 +142,7 @@ c. pensioenpremies;
 
 d. niet in premieverband betaalde sociale lasten en overige personeelskosten van het eigen personeel;    
 
-f. een overzicht van de vergoedingen van de voorzitter, ingericht overeenkomstig het bepaalde in [artikel 6, eerste lid en tweede lid, van de Wet openbaarmaking uit publieke middelen gefinancierde topinkomens](../../../../../../wet/wet/openbaarmaking/uit/publieke/middelen/gefinancierde/topinkomens/BWBR0019562/README.md);  
+f. een overzicht van de vergoedingen van de voorzitter, ingericht overeenkomstig het bepaalde in artikel 4.1, eerste en tweede lid, van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector;  
 
 g. vermelding van de benoemingsgerechtigde organisaties waaraan subsidie wordt verstrekt of waarvan diensten worden ingekocht, alsmede instellingen waarin deze organisaties participeren en waaraan subsidie wordt verstrekt of waarvan diensten ten behoeve van de sector of het schap worden ingekocht, plus de daarmee gemoeide bedragen en de bestedingsdoeleinden;  
 
@@ -153,7 +153,7 @@ h. vermelding van de overige personen en rechtspersonen waaraan subsidie wordt v
 
 1.  Een bedrijfslichaam kan slechts overgaan tot het verstrekken van subsidie of het inkopen van diensten ten behoeve van de sector indien aan de volgende uitgangspunten is voldaan: 
 
-a. het doel van de subsidie of de ingekochte dienst ten behoeve van de sector is herleidbaar tot de taken en bevoegdheden van het bedrijfslichaam, bedoeld in [artikel 71 van de wet](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en in zijn instellingsbesluit;  
+a. het doel van de subsidie of de ingekochte dienst ten behoeve van de sector is herleidbaar tot de taken en bevoegdheden van het bedrijfslichaam, bedoeld in artikel 71 van de wet en in zijn instellingsbesluit;  
 
 b. het doel van de subsidie of de ingekochte dienst ten behoeve van de sector is niet of niet goed te bereiken door middel van financiering door privaatrechtelijke organisaties;  
 
@@ -359,7 +359,7 @@ g. het saldo aan het einde van het jaar.
 
 ### Artikel  35  
 
-1.  Externe en onafhankelijke controle van de jaarrekening wordt door het bestuur opgedragen aan een registeraccountant of aan een accountantadministratieconsulent met een aantekening als bedoeld in [artikel 36, derde lid van de Wet op de Accountants-Administratieconsulenten](../../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md), niet zijnde een interne accountant van een bedrijfslichaam.   
+1.  Externe en onafhankelijke controle van de jaarrekening wordt door het bestuur opgedragen aan een accountant die is ingeschreven in het accountantsregister genoemd in artikel 36 van de Wet op het accountantsberoep, niet zijnde een interne accountant van een bedrijfslichaam.   
 2.  De onafhankelijke accountant brengt omtrent zijn onderzoek verslag uit aan het (dagelijks) bestuur.   
 3.  De onafhankelijke accountant geeft de uitslag van zijn onderzoek weer in een controleverklaring omtrent de getrouwheid van de jaarrekening.   
 
@@ -387,7 +387,7 @@ Op gemotiveerd verzoek van het bestuur van een bedrijfslichaam kan door de Toezi
 
 ### Artikel  39  
 
-De [Verordening financiën bedrijfslichamen 1999](../../../../../../pbo/verordening/financiën/bedrijfslichamen/1999/BWBR0009299/README.md) wordt ingetrokken, met dien verstande dat hij van kracht blijft voor de begrotingen en de jaarrekeningen over de aan 2012 voorafgaande begrotingsjaren.  
+De Verordening financiën bedrijfslichamen 1999 wordt ingetrokken, met dien verstande dat hij van kracht blijft voor de begrotingen en de jaarrekeningen over de aan 2012 voorafgaande begrotingsjaren.  
 
 ### Artikel  40  
 
@@ -413,17 +413,17 @@ algemeen secretaris
 
 ####Baten- en lastenrubrieken
 
-![248834](http://wetten.overheid.nl/Illustration/248834)
+![]()
 
 ### Bijlage  2  
 
 ####Verordening Begroting (jaar)
 
-Verordening van het (bedrijfslichaam) van (datum), houdende de vaststelling van de begroting van baten en lasten voor (jaar) (Verordening Begroting (jaar)) Het bestuur van het (bedrijfslichaam); Gelet op [artikel 119 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md); Besluit: 
+Verordening van het (bedrijfslichaam) van (datum), houdende de vaststelling van de begroting van baten en lasten voor (jaar) (Verordening Begroting (jaar)) Het bestuur van het (bedrijfslichaam); Gelet op artikel 119 van de Wet op de bedrijfsorganisatie; Besluit: 
 
 ### Artikel  1  
 
-De begroting van baten en lasten van het (bedrijfslichaam) voor (jaar) is als volgt:   ![248835](http://wetten.overheid.nl/Illustration/248835)
+De begroting van baten en lasten van het (bedrijfslichaam) voor (jaar) is als volgt:   ![]()
 
 ### Artikel  2  
 
@@ -437,11 +437,11 @@ Deze verordening wordt aangehaald als Verordening Begroting (jaar). (plaats), (d
 
 ####Besluit rekening baten en lasten (jaar)
 
-Besluit van het (bedrijfslichaam) van (datum), houdende de vaststelling van de rekening van baten en lasten over (jaar) (Besluit rekening baten en lasten (jaar)) Het bestuur van het (bedrijfslichaam); Gelet op [artikel 124, derde lid, van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md); Besluit: 
+Besluit van het (bedrijfslichaam) van (datum), houdende de vaststelling van de rekening van baten en lasten over (jaar) (Besluit rekening baten en lasten (jaar)) Het bestuur van het (bedrijfslichaam); Gelet op artikel 124, derde lid, van de Wet op de bedrijfsorganisatie; Besluit: 
 
 ### Artikel  1  
 
-De rekening van baten en lasten van het (bedrijfslichaam) over (jaar) is als volgt:   ![248836](http://wetten.overheid.nl/Illustration/248836)
+De rekening van baten en lasten van het (bedrijfslichaam) over (jaar) is als volgt:   ![]()
 
 ### Artikel  2  
 
@@ -451,5 +451,5 @@ Dit besluit wordt aangehaald als Besluit rekening baten en lasten (jaar). (plaat
 
 ####Balans
 
-![248837](http://wetten.overheid.nl/Illustration/248837)
+![]()
 

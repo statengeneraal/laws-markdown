@@ -16,17 +16,17 @@ In deze regeling wordt verstaan onder:
 
 *besluit:*Besluit experiment integraal dagarrangement;  
 
-*eerste tranche:* de eerste periode waarin deelname aan het experiment mogelijk is;  
-
-*experiment:* het experiment integraal dagarrangement, bedoeld in artikel 2 van het besluit;  
-
-*tweede tranche:* de tweede periode waarin deelname aan het experiment mogelijk is.    
+*experiment:* het experiment integraal dagarrangement, bedoeld in artikel 2 van het besluit.    
 
 ### Artikel  2  
 
 ####Indiening aanvraag
 
-1.  Een samenwerkingsverband dat wil deelnemen aan het experiment dient voor 1 november 2012 daartoe een aanvraag in bij de minister.   
+1.  Een samenwerkingsverband dat wil deelnemen aan het experiment: 
+
+a. dient daartoe voor 1 april 2014 een aanvraag in bij de minister; en  
+
+b. start uiterlijk bij het begin van het schooljaar 2014–2015 met het aanbieden van een integraal dagarrangement.     
 2.  De aanvraag wordt ingediend door middel van een formulier dat is opgenomen in bijlage 1 bij deze regeling en beschikbaar is op www.rijksoverheid.nl/.   
 3.  Bij de aanvraag verklaart een samenwerkingsverband dat het: 
 
@@ -49,7 +49,7 @@ d. deelneemt aan periodieke bijeenkomsten voor de deelnemers aan het experiment 
 
 ####Uitsluiting deelname
 
-Een samenwerkingsverband waarvan de basisschool subsidie ontvangt op basis van de [Subsidieregeling onderwijstijdverlenging basisonderwijs](../../../../../../ministeriele-regeling/subsidieregeling/onderwijstijdverlenging/basisonderwijs/BWBR0025733/README.md) (Stcrt. 2009, 77) wordt uitgesloten van deelname aan dit experiment.  
+Een samenwerkingsverband waarvan de basisschool subsidie ontvangt op basis van de Subsidieregeling onderwijstijdverlenging basisonderwijs (Stcrt. 2009, 77) wordt uitgesloten van deelname aan dit experiment.  
 
 ### Artikel  5  
 
@@ -60,32 +60,16 @@ Een samenwerkingsverband waarvan de basisschool subsidie ontvangt op basis van d
 
 ### Artikel  6  
 
-####Aantal deelnemende samenwerkingsverbanden en selectie
+####Beoordeling en aantal deelnemende samenwerkingsverbanden
 
-1.  Indien op 1 november 2012 meer dan 15 aanvragen van samenwerkingsverbanden door de minister zijn ontvangen en deze aanvragen door de minister positief worden beoordeeld, vindt selectie achtereenvolgens plaats op basis van de volgende criteria: 
-
-a. de variatie in tijdvakken van schooltijd en opvang op basis van het ingediende rooster;  
-
-b. het aantal leerlingen dat naar schatting zal deelnemen;  
-
-c. de volgorde van ontvangst van de aanvragen door de minister.     
-2.  De minister beslist uiterlijk 1 december 2012 op de aanvragen voor de eerste tranche.   
-
-### Artikel  7  
-
-####Mogelijkheid tweede tranche
-
-1.  Indien er uiterlijk 1 december 2012 minder dan vijftien samenwerkingsverbanden zijn aangewezen, beslist de minister uiterlijk op 1 januari 2013 of er een tweede tranche wordt gestart.   
-2.  Wanneer de minister besloten heeft een tweede tranche te starten, dient een samenwerkingsverband dat wil deelnemen voor 1 april 2013 een aanvraag in en beslist de minister uiterlijk 1 mei 2013 op die aanvragen.   
-3.  Het aantal deelnemers aan de eerste tranche en de tweede tranche bedraagt in totaal ten hoogste 15.   
-4.  Indien het totale aantal samenwerkingsverbanden dat een aanvraag heeft ingediend die voldoet aan alle voorwaarden, in de eerste en tweede tranche tezamen groter is dan 15, worden de aanvragen in het kader van de tweede tranche beoordeeld overeenkomstig de in artikel 6, eerste lid, omschreven criteria.   
+1.  De minister beslist binnen tien weken na ontvangst van de aanvraag over deelname aan het experiment.   
+2.  Het aantal deelnemende samenwerkingverbanden bedraagt ten hoogste 15.   
 
 ### Artikel  8  
 
 ####Duur deelname aan experiment
 
-1.  Samenwerkingsverbanden die met ingang van 1 januari 2013 mogen deelnemen aan het experiment kunnen tot 1 juli 2016 een integraal dagarrangement aanbieden.   
-2.  Indien de minister overeenkomstig artikel 7, eerste lid, besluit tot het starten van een tweede tranche, mogen de samenwerkingsverbanden die met ingang van 1 juli 2013 deelnemen aan het experiment tot 1 juli 2016 een integraal dagarrangement aanbieden.   
+Samenwerkingsverbanden die mogen deelnemen aan het experiment kunnen tot 1 juli 2016 een integraal dagarrangement aanbieden.  
 
 ### Artikel  9  
 
@@ -115,14 +99,14 @@ H.G.J.Kamp
 
 ####Deelname Experiment Integraal Dagarrangement
 
-Dit aanmeldingsformulier dient volledig ingevuld en voorzien van alle gevraagde bijlagen voor 1 november 2012 ingediend te zijn bij: Ministerie van Sociale Zaken en Werkgelegenheid Directie Kinderopvang o.v.v. aanmelding deelname experiment integraal dagarrangement Postbus 90801 2509 LV Den Haag 
+Dit aanmeldingsformulier dient volledig ingevuld en voorzien van alle gevraagde bijlagen voor 1 april 2014 ingediend te zijn bij: Ministerie van Sociale Zaken en Werkgelegenheid Directie Kinderopvang o.v.v. aanmelding deelname experiment integraal dagarrangement Postbus 90801 2509 LV Den Haag 
 
 ### 1  
 
 ####Gegevens basisschool
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Nummer bevoegd gezag  | --- |
 | Naam bevoegd gezag  | --- |
 | Naam school  | --- |
@@ -134,7 +118,7 @@ Dit aanmeldingsformulier dient volledig ingevuld en voorzien van alle gevraagde 
 ####Gegevens contactpersoon basisschool
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Achternaam  | --- |
 | Voorletter(s)  | --- |
 | Telefoonnummer  | --- |
@@ -145,7 +129,7 @@ Dit aanmeldingsformulier dient volledig ingevuld en voorzien van alle gevraagde 
 ####Medezeggenschap basisschool
 
 | --- |
-|:---|
+|---|
 | De oudergeleding en de personeelsgeleding van de medezeggenschapsraad hebben ingestemd met het aanbieden van een integraal dagarrangement.  Dit blijkt uit het document dat als bijlage is bijgevoegd.  |
 
 ### 4  
@@ -153,7 +137,7 @@ Dit aanmeldingsformulier dient volledig ingevuld en voorzien van alle gevraagde 
 ####Gegevens kindercentrum
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Registratienummer Landelijk Register  | --- |
 | Naam houder  | --- |
 | Naam buitenschoolse opvang  | --- |
@@ -165,7 +149,7 @@ Dit aanmeldingsformulier dient volledig ingevuld en voorzien van alle gevraagde 
 ####Gegevens contactpersoon buitenschoolse opvang
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Achternaam  | --- |
 | Voorletter(s)  | --- |
 | Telefoonnummer  | --- |
@@ -176,7 +160,7 @@ Dit aanmeldingsformulier dient volledig ingevuld en voorzien van alle gevraagde 
 ####Medezeggenschap kindercentrum
 
 | --- |
-|:---|
+|---|
 | De oudercommissie van het kindercentrum heeft bij meerderheid van stemmen ingestemd met het aanbieden van een integraal dagarrangement.  Dit blijkt uit het document dat als bijlage is bijgevoegd.  |
 | De ondernemingsraad van het kindercentrum heeft ingestemd met het aanbieden van een integraal dagarrangement.  Dit blijkt uit het document dat als bijlage is bijgevoegd.  |
 
@@ -199,14 +183,14 @@ De bij onderdeel 2 genoemde basisschool en het in onderdeel 4 genoemde kindercen
 – deel te nemen aan periodieke bijeenkomsten voor de deelnemers aan het experiment waarbij het uitwisselen van ervaringen en het leren van elkaar centraal staat.    
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Achternaam tekenbevoegde namens bevoegd gezag  | --- |
 | Voorletter(s) tekenbevoegde namens bevoegd gezag  | --- |
 | Datum  | --- |
 | Handtekening  | --- |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Achternaam houder  | --- |
 | Voorletter(s) houder  | --- |
 | Datum  | --- |
@@ -224,9 +208,9 @@ De bij onderdeel 2 genoemde basisschool en het in onderdeel 4 genoemde kindercen
 
 – Rooster.  
 
-– Document waaruit blijkt dat aan de [Wet medezeggenschap op scholen](../../../../../../wet/wet/medezeggenschap/op/scholen/BWBR0020685/README.md) is voldaan.  
+– Document waaruit blijkt dat aan de Wet medezeggenschap op scholen is voldaan.  
 
-– Document waaruit blijkt dat aan de [Wet op de ondernemingsraden](../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) is voldaan.  
+– Document waaruit blijkt dat aan de Wet op de ondernemingsraden is voldaan.  
 
 – Document waaruit blijkt dat de oudercommissie van het kindercentrum met meerderheid van stemmen heeft ingestemd.    
 
@@ -257,7 +241,7 @@ De bij onderdeel 2 genoemde basisschool en het in onderdeel 4 genoemde kindercen
 * Het gaat in de huidige situatie uitsluitend om gegevens van kinderen die bso afnemen bij het kindercentrum dat de bso ook in het experiment zal verzorgen.    Tabel 1 
 
 |--- | HUIDIGE SITUATIE  | EXPERIMENT  |
-|:---|:---|:---|
+|---|---|---|
 | Aantal kinderen in bso/experimentgroep  | 100  | 100  |
 | Gemiddeld aantal bso-uren per kind per dag  | 4,5  | 6  |
 | Gemiddeld aantal bso-dagen per kind per week  | 2,5  | 4  |
@@ -279,7 +263,7 @@ De bij onderdeel 2 genoemde basisschool en het in onderdeel 4 genoemde kindercen
 ○ middelen gemeente: bijvoorbeeld middelen voor naschoolse activiteiten en brede schoolontwikkeling.      Tabel 2 
 
 |--- | HUIDIGE SITUATIE  | EXPERIMENT  |
-|:---|:---|:---|
+|---|---|---|
 | Opbrengst kindercentrum  | € 270.900  | € 266.850  |
 | Kosten kindercentrum  | € 270.900  | € 270.900  |
 | Verschil  | € –  | € 4.050–  |
@@ -291,7 +275,7 @@ De bij onderdeel 2 genoemde basisschool en het in onderdeel 4 genoemde kindercen
 | Resultaat kindercentrum van de experimentgroep  | € –  | € 0–  |
 
 | --- |
-|:---|
+|---|
 |  *Toelichting:*   |
 | --- |
 | --- |
