@@ -29,19 +29,19 @@ d. de heer ir. J. Froger, te Gronsveld;
 
 e. de heer ir. A. Groothedde, te Apeldoorn;  
 
-f. de heer prof. dr. ir. R. Maes, te Amsterdam.    
+f. de heer prof. dr. ir. R. Maes, te Amsterdam.   
 
 ### Artikel  2  
 
 1.  De voorzitter en de leden van de commissie ontvangen per vergadering een vergoeding.   
 2.  De vergoeding per vergadering van de leden van de commissie bedraagt 3% van het maximum van salarisschaal 18 van de [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md).   
-3.  De vergoeding per vergadering van de voorzitter van de commissie bedraagt 130% van de hoogte van de vergoeding per vergadering die aan de andere leden van de commissie is toegekend.   
+3.  De vergoeding per vergadering van de voorzitter van de commissie bedraagt 130% van de hoogte van de vergoeding per vergadering die aan de andere leden van de commissie is toegekend.  
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 oktober 2012.  
+Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 oktober 2012. 
 Onze Minister van Veiligheid en Justitie is belast met de uitvoering van dit besluit, dat zal worden geplaatst in de Staatscourant en waarvan afschrift zal worden gezonden aan betrokkenen en aan het Adviescollege Review Board.  
 
 De 
-Minister van Veiligheid en Justitie,
-I.W.Opstelten   
+Minister van Veiligheid en Justitie, 
+I.W. Opstelten     

@@ -12,24 +12,24 @@ Besluit:
 
 1.  In deze regeling wordt verstaan onder: 
 
-a. *nationale criminele-inlichtingeneenheid:* eenheid, genoemd in [artikel 1, onderdeel d, van het Besluit verplichte politiegegevens](../../../../../../AMvB/besluit/verplichte/politiegegevens/BWBR0032083/README.md);  
+a.  *nationale criminele-inlichtingeneenheid:* eenheid, genoemd in [artikel 1, onderdeel d, van het Besluit verplichte politiegegevens](../../../../../../AMvB/besluit/verplichte/politiegegevens/BWBR0032083/README.md);  
 
-b. *informantgegevens:* gegevens omtrent een persoon als bedoeld in [artikel 12, zevende lid, van de Wet politiegegevens](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md);  
+b.  *informantgegevens:* gegevens omtrent een persoon als bedoeld in [artikel 12, zevende lid, van de Wet politiegegevens](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md);  
 
-c. *criminele-inlichtingen:* gegevens, die in aanmerking komen voor verwerking op grond van [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md);  
+c.  *criminele-inlichtingen:* gegevens, die in aanmerking komen voor verwerking op grond van [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md);  
 
-d. *CIE-officier van justitie:* de als zodanig aangewezen officier van justitie, verantwoordelijk voor de taakuitoefening van de criminele-inlichtingeneenheid NVWA-IOD;  
+d.  *CIE-officier van justitie:* de als zodanig aangewezen officier van justitie, verantwoordelijk voor de taakuitoefening van de criminele-inlichtingeneenheid NVWA-IOD;  
 
-e. *NVWA-IOD:* Inlichtingen- en Opsporingsdienst van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken;  
+e.  *NVWA-IOD:* Inlichtingen- en Opsporingsdienst van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken;  
 
-f. *verantwoordelijke:* de Minister van Economische Zaken.     
-2.  Namens de verantwoordelijke kunnen de in deze regeling voorgeschreven handelingen worden verricht door het hoofd van de NVWA-IOD, in het bijzonder die genoemd in de artikelen 5, tweede en derde lid, 7, eerste en tweede lid, 8, tweede lid, en 9.   
+f.  *verantwoordelijke:* de Minister van Economische Zaken.     
+2.  Namens de verantwoordelijke kunnen de in deze regeling voorgeschreven handelingen worden verricht door het hoofd van de NVWA-IOD, in het bijzonder die genoemd in de artikelen 5, tweede en derde lid, 7, eerste en tweede lid, 8, tweede lid, en 9.  
 
 ### Artikel  2  
 
 1.  Bij de NVWA-IOD is een criminele-inlichtingeneenheid NVWA-IOD.   
 2.  De criminele-inlichtingeneenheid NVWA-IOD is belast met de informatievoorziening in het kader van de opsporing van misdrijven, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md).   
-3.  Met het oog op de uitvoering van de taak, bedoeld in het tweede lid, worden criminele-inlichtingen verwerkt overeenkomstig het bij of krachtens de [Wet politiegegevens](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) bepaalde.   
+3.  Met het oog op de uitvoering van de taak, bedoeld in het tweede lid, worden criminele-inlichtingen verwerkt overeenkomstig het bij of krachtens de [Wet politiegegevens](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) bepaalde.  
 
 ### Artikel  3  
 
@@ -51,17 +51,17 @@ e. het ter beschikking stellen van criminele-inlichtingen overeenkomstig [artike
 
 f. het verwerken van gegevens omtrent informanten, overeenkomstig het bepaalde in [artikel 12 van de Wet politiegegevens](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), onder gelijktijdige codetoekenning.     
 2.  Ten behoeve van de werkzaamheden, bedoeld in het eerste lid, onder a tot en met e, maakt de criminele-inlichtingeneenheid NVWA-IOD gebruik van de door de Ministers van Veiligheid en Justitie en van Binnenlandse Zaken en Koninkrijksrelaties aangewezen centrale verwijsindex.   
-3.  De uitvoering van de werkzaamheden, bedoeld in het eerste lid, onderdeel c, met medewerking van personen als omschreven in artikel 1, onderdeel b, wordt binnen NVWA-IOD uitsluitend verricht door de criminele-inlichtingeneenheid NVWA-IOD.   
+3.  De uitvoering van de werkzaamheden, bedoeld in het eerste lid, onderdeel c, met medewerking van personen als omschreven in artikel 1, onderdeel b, wordt binnen NVWA-IOD uitsluitend verricht door de criminele-inlichtingeneenheid NVWA-IOD.  
 
 ### Artikel  4  
 
-De criminele-inlichtingeneenheid NVWA-IOD streeft naar een zo doelmatig mogelijke samenwerking met de overige criminele-inlichtingeneenheden.  
+De criminele-inlichtingeneenheid NVWA-IOD streeft naar een zo doelmatig mogelijke samenwerking met de overige criminele-inlichtingeneenheden. 
 
 ### Artikel  5  
 
 1.  De criminele-inlichtingeneenheid NVWA-IOD verstrekt criminele-inlichtingen indien dit van belang kan zijn voor de opsporing van misdrijven, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md). Daartoe wordt gebruik gemaakt van het modelformulier dat is opgenomen in bijlage I bij deze regeling.   
 2.  Van de overeenkomstig [artikel 46, tweede lid, van de Wet politiegegevens](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) aangewezen ambtenaren van de criminele-inlichtingeneenheid NVWA-IOD worden door de verantwoordelijke twee ambtenaren voorgedragen met het oog op de autorisatie, bedoeld in [artikel 2:5, eerste lid, van het Besluit politiegegevens](../../../../../../AMvB/besluit/politiegegevens/BWBR0023086/README.md), ten aanzien van het bestand met criminele-inlichtingen bij de overige criminele-inlichtingeneenheden.   
-3.  De verantwoordelijke draagt ervoor zorg dat aan de op grond van [artikel 7, tweede lid, van het Besluit verplichte politiegegevens](../../../../../../AMvB/besluit/verplichte/politiegegevens/BWBR0032083/README.md) bekend gemaakte ambtenaren van elke criminele-inlichtingeneenheid alsmede de twee geautoriseerde ambtenaren van de criminele-inlichtingeneenheden bij de bijzondere opsporingsdiensten overeenkomstig het bij of krachtens de [Wet politiegegevens](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) bepaalde autorisatie wordt verleend.   
+3.  De verantwoordelijke draagt ervoor zorg dat aan de op grond van [artikel 7, tweede lid, van het Besluit verplichte politiegegevens](../../../../../../AMvB/besluit/verplichte/politiegegevens/BWBR0032083/README.md) bekend gemaakte ambtenaren van elke criminele-inlichtingeneenheid alsmede de twee geautoriseerde ambtenaren van de criminele-inlichtingeneenheden bij de bijzondere opsporingsdiensten overeenkomstig het bij of krachtens de [Wet politiegegevens](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) bepaalde autorisatie wordt verleend.  
 
 ### Artikel  6  
 
@@ -74,43 +74,43 @@ b. personalia of bedrijfsgegevens van overeenkomstig [artikel 10, tweede lid, on
 c. codes als bedoeld in artikel 3, eerste lid, onder f;  
 
 d. overige informatie die van belang kan zijn voor de landelijke en internationale coördinatie en ondersteuning door de nationale criminele-inlichtingeneenheid.     
-2.  Ter uitvoering van het eerste lid, onderdeel b, en met het oog op de verstrekking van de gegevens als opgenomen in bijlage II van deze regeling maakt de criminele-inlichtingeneenheid NVWA-IOD gebruik van de door de Ministers van Veiligheid en Justitie en van Binnenlandse Zaken en Koninkrijksrelaties aangewezen centrale verwijsindex.   
+2.  Ter uitvoering van het eerste lid, onderdeel b, en met het oog op de verstrekking van de gegevens als opgenomen in bijlage II van deze regeling maakt de criminele-inlichtingeneenheid NVWA-IOD gebruik van de door de Ministers van Veiligheid en Justitie en van Binnenlandse Zaken en Koninkrijksrelaties aangewezen centrale verwijsindex.  
 
 ### Artikel  7  
 
 1.  De verantwoordelijke draagt ervoor zorg dat de kennis en vaardigheden van de ambtenaren, die deel uitmaken van de criminele-inlichtingeneenheid NVWA-IOD, worden onderhouden op ten minste het niveau van de eisen, bedoeld in [artikel 2:9 van het Besluit politiegegevens](../../../../../../AMvB/besluit/politiegegevens/BWBR0023086/README.md).   
 2.  De verantwoordelijke bepaalt de termijn gedurende welke de ambtenaar die belast is met de werkzaamheden, bedoeld in artikel 3, eerste lid, onderdeel c, ononderbroken deel uitmaakt van de criminele-inlichtingeneenheid NVWA-IOD.   
-3.  De termijn, bedoeld in het tweede lid, is ten hoogste vier jaar en kan tweemaal met ten hoogste twee jaar worden verlengd.   
+3.  De termijn, bedoeld in het tweede lid, is ten hoogste vier jaar en kan tweemaal met ten hoogste twee jaar worden verlengd.  
 
 ### Artikel  8  
 
 1.  De bij de criminele-inlichtingeneenheid NVWA-IOD in gebruik zijnde vertrekken zijn afsluitbaar en beveiligd. Tot deze vertrekken hebben slechts toegang ambtenaren die deel uitmaken van de criminele-inlichtingeneenheid NVWA-IOD, personen die door deze ambtenaren worden begeleid en de CIE-officier van justitie.   
 2.  In afwijking van het eerste lid, tweede volzin, kan de verantwoordelijke aan anderen toegang zonder begeleiding toestaan, indien het betreden van de vertrekken alleen kan plaatsvinden nadat identiteitsgegevens elektronisch zijn vastgelegd en de toegang noodzakelijk is vanuit zijn verantwoordelijkheid voor de ambtenaren en vertrekken van de criminele-inlichtingeneenheid NVWA-IOD.   
-3.  Bij afwezigheid van ambtenaren van de criminele-inlichtingeneenheid NVWA-IOD zijn de vertrekken deugdelijk afgesloten.   
+3.  Bij afwezigheid van ambtenaren van de criminele-inlichtingeneenheid NVWA-IOD zijn de vertrekken deugdelijk afgesloten.  
 
 ### Artikel  9  
 
-De verantwoordelijke draagt ervoor zorg dat de nodige voorzieningen van technische en organisatorische aard ter beveiliging van de bij de criminele-inlichtingeneenheid NVWA-IOD gehouden criminele-inlichtingen tegen verlies of aantasting van persoonsgegevens en tegen onbevoegde kennisneming, wijziging of verstrekking daarvan kunnen worden getroffen opdat het bij of krachtens de [Wet politiegegevens](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) bepaalde kan worden nageleefd.  
+De verantwoordelijke draagt ervoor zorg dat de nodige voorzieningen van technische en organisatorische aard ter beveiliging van de bij de criminele-inlichtingeneenheid NVWA-IOD gehouden criminele-inlichtingen tegen verlies of aantasting van persoonsgegevens en tegen onbevoegde kennisneming, wijziging of verstrekking daarvan kunnen worden getroffen opdat het bij of krachtens de [Wet politiegegevens](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) bepaalde kan worden nageleefd. 
 
 ### Artikel  10  
 
-De [Regeling instelling criminele inlichtingen eenheid AID-DO](../../../../../../ministeriele-regeling/regeling/instelling/criminele/inlichtingen/eenheid/aid-do/BWBR0027507/README.md) wordt ingetrokken.  
+De [Regeling instelling criminele inlichtingen eenheid AID-DO](../../../../../../ministeriele-regeling/regeling/instelling/criminele/inlichtingen/eenheid/aid-do/BWBR0027507/README.md) wordt ingetrokken. 
 
 ### Artikel  11  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2012.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2012. 
 
 ### Artikel  12  
 
-Deze regeling wordt aangehaald als: Regeling instelling criminele-inlichtingeneenheid NVWA-IOD.  
+Deze regeling wordt aangehaald als: Regeling instelling criminele-inlichtingeneenheid NVWA-IOD. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 26 april 2013   
 
 De 
-Staatssecretaris van Economische Zaken,
-S.A.M.Dijksma  
+Staatssecretaris van Economische Zaken, 
+S.A.M. Dijksma    
 
 ### Bijlage  I  
 
@@ -159,7 +159,7 @@ Inhoud van de CIE-informatie
 | – Adres  | – Vestigingsplaats  |
 | – Status (verdachte, CIE-subject, relatie,)  | --- |
 
-De volgende twee rubrieken (evaluatiecode informant en evaluatiecode informatie afkomstig van informanten) zijn voor de eigen administratie van de CIE. Deze gegevens worden niet verstrekt buiten de CIE-structuur.  Evaluatiecode informant 
+De volgende twee rubrieken (evaluatiecode informant en evaluatiecode informatie afkomstig van informanten) zijn voor de eigen administratie van de CIE. Deze gegevens worden niet verstrekt buiten de CIE-structuur. Evaluatiecode informant 
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
@@ -238,5 +238,5 @@ Opmerkingen:
 
 * 
 
-2. De NCIE kan in afstemming met de gebruikersgroep de objectgegevens aanvullen.      
+2. De NCIE kan in afstemming met de gebruikersgroep de objectgegevens aanvullen.     
 

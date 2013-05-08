@@ -14,11 +14,11 @@ Dit besluit behandelt het beleid op het gebied van de heffing van btw bij de uit
 
 | --- | --- |
 |:---|:---|
-| wet  |  [Wet op de omzetbelasting 1968](../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)   |
+| wet  | [Wet op de omzetbelasting 1968](../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)  |
 | --- | --- |
-| uitvoeringsbeschikking  |  [Uitvoeringsbeschikking omzetbelasting 1968](../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md)   |
+| uitvoeringsbeschikking  | [Uitvoeringsbeschikking omzetbelasting 1968](../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md)  |
 | --- | --- |
-| btw-richtlijn  | Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijk stelsel van belasting over de toegevoegde waarde  |
+| btw-richtlijn  |  Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijk stelsel van belasting over de toegevoegde waarde  |
 | --- | --- |
 | btw  | omzetbelasting  |
 | --- | --- |
@@ -72,5 +72,5 @@ Den Haag
 24 april 2013,   
 
 De 
-staatssecretaris van Financiën,
-F.H.H.Weekers   
+staatssecretaris van Financiën, 
+F.H.H. Weekers     

@@ -13,11 +13,11 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *ADR:* Auditdienst Rijk;  
+a.  *ADR:* Auditdienst Rijk;  
 
-b. *CBS:* Centraal Bureau voor de Statistiek;  
+b.  *CBS:* Centraal Bureau voor de Statistiek;  
 
-c. *directie FEZ:* de directie Financieel-Economische Zaken van het ministerie.    
+c.  *directie FEZ:* de directie Financieel-Economische Zaken van het ministerie.   
 
 ### §  2  
 
@@ -35,7 +35,7 @@ c. de afdeling Voorzieningen en Uitvoering;
 
 d. de afdeling Verzekeringen en Werk;  
 
-e. het Bedrijfsbureau.    
+e. het Bedrijfsbureau.   
 
 ### Artikel  3  
 
@@ -47,7 +47,7 @@ b. het totstandkomen, actueel houden en bewaken van het integraal budgettair kad
 
 c. de premievaststelling;  
 
-d. het coördineren van het ambtelijk overleg met het Ministerie van Financiën.    
+d. het coördineren van het ambtelijk overleg met het Ministerie van Financiën.   
 
 ### Artikel  4  
 
@@ -63,15 +63,15 @@ d. het toetsen van en adviseren over beleidsvoorstellen op budgettaire gevolgen 
 
 e. het zorgen voor juiste en kwalitatief goede beleidsinformatie, beleidsevaluaties en beleidsdoorlichtingen;  
 
-f. het relatiebeheer met het CBS.    
+f. het relatiebeheer met het CBS.   
 
 ### Artikel  5  
 
-Het hoofd van de afdeling Voorzieningen en Uitvoering is verantwoordelijk voor het toetsen van beleidsvoorstellen op budgettaire gevolgen en financieel-economische aspecten, het verzorgen van ramingen en het adviseren hierover aan de directies die ressorteren onder de directeur-generaal Participatie en Inkomenswaarborg.  
+Het hoofd van de afdeling Voorzieningen en Uitvoering is verantwoordelijk voor het toetsen van beleidsvoorstellen op budgettaire gevolgen en financieel-economische aspecten, het verzorgen van ramingen en het adviseren hierover aan de directies die ressorteren onder de directeur-generaal Participatie en Inkomenswaarborg. 
 
 ### Artikel  6  
 
-Het hoofd van de afdeling Verzekeringen en Werk is verantwoordelijk voor het toetsen van beleidsvoorstellen op budgettaire gevolgen en financieel-economische aspecten, het verzorgen van ramingen en het adviseren hierover aan de directies die ressorteren onder de directeur-generaal Participatie en Inkomenswaarborg en de directeur-generaal Werk.  
+Het hoofd van de afdeling Verzekeringen en Werk is verantwoordelijk voor het toetsen van beleidsvoorstellen op budgettaire gevolgen en financieel-economische aspecten, het verzorgen van ramingen en het adviseren hierover aan de directies die ressorteren onder de directeur-generaal Participatie en Inkomenswaarborg en de directeur-generaal Werk. 
 
 ### Artikel  7  
 
@@ -89,7 +89,7 @@ a. het adviseren omtrent:
 
 b. het mede opstellen van financiële paragrafen ten behoeve van wetsvoorstellen en beleidsnotities;  
 
-c. het ontwikkelen en onderhouden van specifieke modellen die nodig zijn voor ramingen binnen dit domein.    
+c. het ontwikkelen en onderhouden van specifieke modellen die nodig zijn voor ramingen binnen dit domein.   
 
 ### Artikel  8  
 
@@ -105,7 +105,7 @@ d. het zorgdragen voor het beheer van de aan het Bedrijfsbureau toegekende depar
 
 e. het verzorgen en uitvoeren van werkzaamheden met een algemeen karakter die voor de directie FEZ van belang zijn;  
 
-f. het zorgdragen voor de secretariële administratieve ondersteuning van de directie FEZ.    
+f. het zorgdragen voor de secretariële administratieve ondersteuning van de directie FEZ.   
 
 ### §  3  
 
@@ -121,7 +121,7 @@ b. het houden van manager-medewerker gesprekken;
 
 c. verlof van medewerkers;  
 
-d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.    
+d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.   
 
 ### Artikel  10  
 
@@ -129,11 +129,11 @@ Aan de hoofden van de afdelingen en het Bedrijfsbureau wordt mandaat en machtigi
 
 a. het afdoen van informatieve brieven, die betrekking hebben op de taken van de eigen organisatorische eenheid;  
 
-b. het paraferen van stukken waar de directie FEZ geen voortouw in heeft, met uitzondering van stukken waarvan gelet op het belang daarvan redelijkerwijs vermoed kan worden dat deze door de directeur Financieel-Economische Zaken afgedaan moeten worden.    
+b. het paraferen van stukken waar de directie FEZ geen voortouw in heeft, met uitzondering van stukken waarvan gelet op het belang daarvan redelijkerwijs vermoed kan worden dat deze door de directeur Financieel-Economische Zaken afgedaan moeten worden.   
 
 ### Artikel  11  
 
-Aan het hoofd van de afdeling Begroting wordt mandaat verleend met betrekking tot het ondertekenen van de maandstaat en de kasbegroting.  
+Aan het hoofd van de afdeling Begroting wordt mandaat verleend met betrekking tot het ondertekenen van de maandstaat en de kasbegroting. 
 
 ### Artikel  12  
 
@@ -142,7 +142,7 @@ Aan het hoofd van de afdeling Begroting wordt mandaat verleend met betrekking to
 a. het ondertekenen van overeenkomsten met het CBS;  
 
 b. het aangaan van overeenkomsten met betrekking tot de beleidsinformatievoorziening met een waarde van ten hoogste € 5.000 per overeenkomst.     
-2.  Het hoofd van de afdeling Bedrijfsvoering en Informatie kan de bevoegdheid, bedoeld in het eerste lid, onderdeel b, doorverlenen aan de onder hem ressorterende functionarissen.   
+2.  Het hoofd van de afdeling Bedrijfsvoering en Informatie kan de bevoegdheid, bedoeld in het eerste lid, onderdeel b, doorverlenen aan de onder hem ressorterende functionarissen.  
 
 ### Artikel  13  
 
@@ -152,15 +152,15 @@ a. het aangaan van koop-, huur- en leaseovereenkomsten;
 
 b. het aangaan van overeenkomsten voor het inhuren van personeel voor de uitvoering van werkzaamheden die onder directe verantwoordelijkheid van het departementale management worden verricht;  
 
-c. het aangaan van overeenkomsten met betrekking tot beroeps-, functionerings- en loopbaangerichte cursussen en opleidingen die ingevolge dienstopdracht worden gevolgd.    
+c. het aangaan van overeenkomsten met betrekking tot beroeps-, functionerings- en loopbaangerichte cursussen en opleidingen die ingevolge dienstopdracht worden gevolgd.   
 
 ### Artikel  14  
 
-Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijk toestemming van de directeur Financieel-Economische Zaken.  
+Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijk toestemming van de directeur Financieel-Economische Zaken. 
 
 ### Artikel  15  
 
-Bij afwezigheid of verhindering van de directeur Financieel-Economische Zaken worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd dat is aangewezen als de plaatsvervangende directeur.  
+Bij afwezigheid of verhindering van de directeur Financieel-Economische Zaken worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd dat is aangewezen als de plaatsvervangende directeur. 
 
 ### §  4  
 
@@ -170,12 +170,12 @@ Bij afwezigheid of verhindering van de directeur Financieel-Economische Zaken wo
 
 1.  Het [Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2009](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directie/financieel-economische/etc/BWBR0025717/README.md) wordt ingetrokken.   
 2.  Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 februari 2013.   
-3.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2013.   
+3.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2013.  
 Deze regeling zal in de Staatscourant worden geplaatst.  
 
 Hoogachtend, 
 
 De 
-Minister van Sociale Zaken en Werkgelegenheid,namens deze:
-P.Lugtenburg,
-Directeur Financieel-Economische Zaken.   
+Minister van Sociale Zaken en Werkgelegenheid, namens deze: 
+P. Lugtenburg,  
+Directeur Financieel-Economische Zaken.    

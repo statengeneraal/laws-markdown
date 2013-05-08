@@ -5,7 +5,7 @@
 De Minister van Sociale Zaken en Werkgelegenheid,  
 Handelende in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschap;
 
-Gelet op de artikelen 4, eerste, derde en vierde lid, en 5, vierde lid, van het Besluit experiment integraal dagarrangement;
+Gelet op de [artikelen 4, eerste, derde en vierde lid](../../../../../../AMvB/besluit/experiment/integraal/dagarrangement/BWBR0031998/README.md), en [5, vierde lid, van het Besluit experiment integraal dagarrangement](../../../../../../AMvB/besluit/experiment/integraal/dagarrangement/BWBR0031998/README.md);
 Besluit:    
 
 ### Artikel  1  
@@ -14,9 +14,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*besluit:*Besluit experiment integraal dagarrangement;  
+*besluit:* [Besluit experiment integraal dagarrangement](../../../../../../AMvB/besluit/experiment/integraal/dagarrangement/BWBR0031998/README.md);  
 
-*experiment:* het experiment integraal dagarrangement, bedoeld in artikel 2 van het besluit.    
+*experiment:* het experiment integraal dagarrangement, bedoeld in [artikel 2 van het besluit](../../../../../../AMvB/besluit/experiment/integraal/dagarrangement/BWBR0031998/README.md).   
 
 ### Artikel  2  
 
@@ -36,62 +36,62 @@ b. meldt als er wijzigingen optreden die relevant zijn of redelijkerwijs relevan
 
 c. deelneemt aan de monitor en de evaluatie; en  
 
-d. deelneemt aan periodieke bijeenkomsten voor de deelnemers aan het experiment waarbij het uitwisselen van ervaringen en het leren van elkaar centraal staat.     
+d. deelneemt aan periodieke bijeenkomsten voor de deelnemers aan het experiment waarbij het uitwisselen van ervaringen en het leren van elkaar centraal staat.    
 
 ### Artikel  3  
 
 ####Nadere eisen documenten
 
-1.  Uit het document, bedoeld in artikel 4, tweede lid, onderdeel a, van het besluit, waaruit de samenwerkingsvisie blijkt, blijkt tevens dat de basisschool en het kindercentrum ten tijde van het indienen van de aanvraag al feitelijk samenwerken.   
-2.  Het document, bedoeld in artikel 4, tweede lid, onderdeel c, van het besluit omvat in ieder geval een berekening op basis van het rekenmodel dat als bijlage 2 is opgenomen bij deze regeling en beschikbaar is op www. rijksoverheid.nl/.   
+1.  Uit het document, bedoeld in [artikel 4, tweede lid, onderdeel a, van het besluit](../../../../../../AMvB/besluit/experiment/integraal/dagarrangement/BWBR0031998/README.md), waaruit de samenwerkingsvisie blijkt, blijkt tevens dat de basisschool en het kindercentrum ten tijde van het indienen van de aanvraag al feitelijk samenwerken.   
+2.  Het document, bedoeld in [artikel 4, tweede lid, onderdeel c, van het besluit](../../../../../../AMvB/besluit/experiment/integraal/dagarrangement/BWBR0031998/README.md) omvat in ieder geval een berekening op basis van het rekenmodel dat als bijlage 2 is opgenomen bij deze regeling en beschikbaar is op www. rijksoverheid.nl/.  
 
 ### Artikel  4  
 
 ####Uitsluiting deelname
 
-Een samenwerkingsverband waarvan de basisschool subsidie ontvangt op basis van de Subsidieregeling onderwijstijdverlenging basisonderwijs (Stcrt. 2009, 77) wordt uitgesloten van deelname aan dit experiment.  
+Een samenwerkingsverband waarvan de basisschool subsidie ontvangt op basis van de [Subsidieregeling onderwijstijdverlenging basisonderwijs](../../../../../../ministeriele-regeling/subsidieregeling/onderwijstijdverlenging/basisonderwijs/BWBR0025733/README.md) (Stcrt. 2009, 77) wordt uitgesloten van deelname aan dit experiment. 
 
 ### Artikel  5  
 
 ####Advies en procedure
 
-1.  GGD-Nederland beoordeelt het document, bedoeld in artikel 4, tweede lid, onderdeel b, van dit besluit aan de hand van een door de GGD in de plaats van vestiging van het samenwerkingsverband gedane beoordeling.   
-2.  Het Landelijk Steunpunt Brede Scholen beoordeelt de financiële en organisatorische haalbaarheid op basis van het document, bedoeld in artikel 4, tweede lid, onderdeel c, van het besluit.   
+1.  GGD-Nederland beoordeelt het document, bedoeld in [artikel 4, tweede lid, onderdeel b, van dit besluit](../../../../../../AMvB/besluit/experiment/integraal/dagarrangement/BWBR0031998/README.md) aan de hand van een door de GGD in de plaats van vestiging van het samenwerkingsverband gedane beoordeling.   
+2.  Het Landelijk Steunpunt Brede Scholen beoordeelt de financiële en organisatorische haalbaarheid op basis van het document, bedoeld in [artikel 4, tweede lid, onderdeel c, van het besluit](../../../../../../AMvB/besluit/experiment/integraal/dagarrangement/BWBR0031998/README.md).  
 
 ### Artikel  6  
 
 ####Beoordeling en aantal deelnemende samenwerkingsverbanden
 
 1.  De minister beslist binnen tien weken na ontvangst van de aanvraag over deelname aan het experiment.   
-2.  Het aantal deelnemende samenwerkingverbanden bedraagt ten hoogste 15.   
+2.  Het aantal deelnemende samenwerkingverbanden bedraagt ten hoogste 15. 
 
 ### Artikel  8  
 
 ####Duur deelname aan experiment
 
-Samenwerkingsverbanden die mogen deelnemen aan het experiment kunnen tot 1 juli 2016 een integraal dagarrangement aanbieden.  
+Samenwerkingsverbanden die mogen deelnemen aan het experiment kunnen tot 1 juli 2016 een integraal dagarrangement aanbieden. 
 
 ### Artikel  9  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van het tijdstip waarop het Besluit integraal dagarrangement vervalt.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van het tijdstip waarop het [Besluit integraal dagarrangement](../../../../../../AMvB/besluit/experiment/integraal/dagarrangement/BWBR0031998/README.md) vervalt. 
 
 ### Artikel  10  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling experiment integraal dagarrangement.  
+Deze regeling wordt aangehaald als: Regeling experiment integraal dagarrangement. 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.   
 
 Den Haag 
 17 september 2012   
 
 De 
-Minister van Sociale Zaken en Werkgelegenheid,
-H.G.J.Kamp  
+Minister van Sociale Zaken en Werkgelegenheid, 
+H.G.J. Kamp    
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####als bedoeld in artikel 2, tweede lid , van de regeling
 
@@ -106,7 +106,7 @@ Dit aanmeldingsformulier dient volledig ingevuld en voorzien van alle gevraagde 
 ####Gegevens basisschool
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | Nummer bevoegd gezag  | --- |
 | Naam bevoegd gezag  | --- |
 | Naam school  | --- |
@@ -118,7 +118,7 @@ Dit aanmeldingsformulier dient volledig ingevuld en voorzien van alle gevraagde 
 ####Gegevens contactpersoon basisschool
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | Achternaam  | --- |
 | Voorletter(s)  | --- |
 | Telefoonnummer  | --- |
@@ -129,7 +129,7 @@ Dit aanmeldingsformulier dient volledig ingevuld en voorzien van alle gevraagde 
 ####Medezeggenschap basisschool
 
 | --- |
-|---|
+|:---|
 | De oudergeleding en de personeelsgeleding van de medezeggenschapsraad hebben ingestemd met het aanbieden van een integraal dagarrangement.  Dit blijkt uit het document dat als bijlage is bijgevoegd.  |
 
 ### 4  
@@ -137,7 +137,7 @@ Dit aanmeldingsformulier dient volledig ingevuld en voorzien van alle gevraagde 
 ####Gegevens kindercentrum
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | Registratienummer Landelijk Register  | --- |
 | Naam houder  | --- |
 | Naam buitenschoolse opvang  | --- |
@@ -149,7 +149,7 @@ Dit aanmeldingsformulier dient volledig ingevuld en voorzien van alle gevraagde 
 ####Gegevens contactpersoon buitenschoolse opvang
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | Achternaam  | --- |
 | Voorletter(s)  | --- |
 | Telefoonnummer  | --- |
@@ -160,7 +160,7 @@ Dit aanmeldingsformulier dient volledig ingevuld en voorzien van alle gevraagde 
 ####Medezeggenschap kindercentrum
 
 | --- |
-|---|
+|:---|
 | De oudercommissie van het kindercentrum heeft bij meerderheid van stemmen ingestemd met het aanbieden van een integraal dagarrangement.  Dit blijkt uit het document dat als bijlage is bijgevoegd.  |
 | De ondernemingsraad van het kindercentrum heeft ingestemd met het aanbieden van een integraal dagarrangement.  Dit blijkt uit het document dat als bijlage is bijgevoegd.  |
 
@@ -183,14 +183,14 @@ De bij onderdeel 2 genoemde basisschool en het in onderdeel 4 genoemde kindercen
 – deel te nemen aan periodieke bijeenkomsten voor de deelnemers aan het experiment waarbij het uitwisselen van ervaringen en het leren van elkaar centraal staat.    
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | Achternaam tekenbevoegde namens bevoegd gezag  | --- |
 | Voorletter(s) tekenbevoegde namens bevoegd gezag  | --- |
 | Datum  | --- |
 | Handtekening  | --- |
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | Achternaam houder  | --- |
 | Voorletter(s) houder  | --- |
 | Datum  | --- |
@@ -208,13 +208,13 @@ De bij onderdeel 2 genoemde basisschool en het in onderdeel 4 genoemde kindercen
 
 – Rooster.  
 
-– Document waaruit blijkt dat aan de Wet medezeggenschap op scholen is voldaan.  
+– Document waaruit blijkt dat aan de [Wet medezeggenschap op scholen](../../../../../../wet/wet/medezeggenschap/op/scholen/BWBR0020685/README.md) is voldaan.  
 
-– Document waaruit blijkt dat aan de Wet op de ondernemingsraden is voldaan.  
+– Document waaruit blijkt dat aan de [Wet op de ondernemingsraden](../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) is voldaan.  
 
-– Document waaruit blijkt dat de oudercommissie van het kindercentrum met meerderheid van stemmen heeft ingestemd.    
+– Document waaruit blijkt dat de oudercommissie van het kindercentrum met meerderheid van stemmen heeft ingestemd.   
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####als bedoeld in artikel 3, tweede lid , van de regeling
 
@@ -228,7 +228,7 @@ De bij onderdeel 2 genoemde basisschool en het in onderdeel 4 genoemde kindercen
 
 * Omdat de overheidsuitgaven per bso-dag niet bekend zijn bij het kindercentrum wordt in het rekenmodel uitgegaan van een toeslagpercentage van 63%. Dit is het gewogen gemiddelde toeslagpercentage in de buitenschoolse opvang.  
 
-* Met de *tweede tabel* wordt inzichtelijk wat het resultaat is voor het kindercentrum als gevolg van de nieuwe uurprijs en het nieuwe aantal uren en welke andere middelen het kindercentrum eventueel inzet om minimaal quitte te spelen.    
+* Met de *tweede tabel* wordt inzichtelijk wat het resultaat is voor het kindercentrum als gevolg van de nieuwe uurprijs en het nieuwe aantal uren en welke andere middelen het kindercentrum eventueel inzet om minimaal quitte te spelen.   
 
 ####Toelichting tabel 1
 
@@ -241,14 +241,14 @@ De bij onderdeel 2 genoemde basisschool en het in onderdeel 4 genoemde kindercen
 * Het gaat in de huidige situatie uitsluitend om gegevens van kinderen die bso afnemen bij het kindercentrum dat de bso ook in het experiment zal verzorgen.    Tabel 1 
 
 |--- | HUIDIGE SITUATIE  | EXPERIMENT  |
-|---|---|---|
+|:---|:---|:---|
 | Aantal kinderen in bso/experimentgroep  | 100  | 100  |
 | Gemiddeld aantal bso-uren per kind per dag  | 4,5  | 6  |
 | Gemiddeld aantal bso-dagen per kind per week  | 2,5  | 4  |
-| Aantal weken  | 40  | 40  |
+| Aantal weken   | 40  | 40  |
 | Toeslagpercentage  | 63%  | 63%  |
-| Uurprijs  | € 6,02  | € 2,78  |
-| Gemiddelde kosten per kind voor de overheid  | € 1.681  | € 1.681  |
+| Uurprijs  |  € 6,02   |  € 2,78   |
+| Gemiddelde kosten per kind voor de overheid   |  € 1.681   |  € 1.681   |
 
 ####Toelichting tabel 2
 
@@ -263,19 +263,19 @@ De bij onderdeel 2 genoemde basisschool en het in onderdeel 4 genoemde kindercen
 ○ middelen gemeente: bijvoorbeeld middelen voor naschoolse activiteiten en brede schoolontwikkeling.      Tabel 2 
 
 |--- | HUIDIGE SITUATIE  | EXPERIMENT  |
-|---|---|---|
-| Opbrengst kindercentrum  | € 270.900  | € 266.850  |
-| Kosten kindercentrum  | € 270.900  | € 270.900  |
-| Verschil  | € –  | € 4.050–  |
+|:---|:---|:---|
+| Opbrengst kindercentrum  |  € 270.900  |  € 266.850  |
+| Kosten kindercentrum  |  € 270.900  | € 270.900  |
+| Verschil  |  € –  |  € 4.050–  |
 | --- | --- | --- |
-| Middelen onderwijs  | --- | € 2.000  |
+| Middelen onderwijs   | --- |  € 2.000  |
 | Middelen kinderopvang  | --- | --- |
-| Middelen gemeente  | --- | € 2.050  |
+| Middelen gemeente  | --- |  € 2.050  |
 | Overige middelen  | --- | --- |
-| Resultaat kindercentrum van de experimentgroep  | € –  | € 0–  |
+| Resultaat kindercentrum van de experimentgroep  |  € –  |  € 0–  |
 
 | --- |
-|---|
+|:---|
 |  *Toelichting:*   |
 | --- |
 | --- |
