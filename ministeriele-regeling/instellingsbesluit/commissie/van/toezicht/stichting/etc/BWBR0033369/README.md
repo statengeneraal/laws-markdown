@@ -12,22 +12,22 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *staatssecretaris:* de Staatssecretaris van Economische Zaken, Landbouw en Innovatie;  
+a.  *staatssecretaris:* de Staatssecretaris van Economische Zaken, Landbouw en Innovatie;  
 
-b. *minister:* de Minister van Volksgezondheid, Welzijn en Sport;  
+b.  *minister:* de Minister van Volksgezondheid, Welzijn en Sport;  
 
-c. *commissie:* Commissie van Toezicht Stichting Diergeneesmiddelenautoriteit;  
+c.  *commissie:* Commissie van Toezicht Stichting Diergeneesmiddelenautoriteit;  
 
-d. *SDa:* Stichting Diergeneesmiddelenautoriteit;  
+d.  *SDa:* Stichting Diergeneesmiddelenautoriteit;  
 
-e. *bestuur:* bestuur van de Stichting Diergeneesmiddelenautoriteit.    
+e.  *bestuur:* bestuur van de Stichting Diergeneesmiddelenautoriteit.   
 
 ### Artikel  2  
 
 ####Instelling van de commissie van toezicht SDa
 
 1.  Om de onafhankelijke positie van de SDa te versterken is er een commissie van toezicht SDa.   
-2.  De werkwijze en de taken van de commissie worden geregeld in dit besluit.   
+2.  De werkwijze en de taken van de commissie worden geregeld in dit besluit.  
 
 ### Artikel  3  
 
@@ -45,7 +45,7 @@ c. het onafhankelijk functioneren van het expertpanel.
 
 a. het nastreven van een volledige transparantie van het geneesmiddelengebruik bij dieren in de gehele keten;  
 
-b. het bevorderen van een verantwoord gebruik van diergeneesmiddelen.     
+b. het bevorderen van een verantwoord gebruik van diergeneesmiddelen.    
 
 ### Artikel  4  
 
@@ -82,7 +82,7 @@ f. enige andere objectiveerbare reden die tot terugtreden noopt.
 a. niet strijdig is met het lidmaatschap van de commissie;  
 
 b. strijdig is of kan zijn met het lidmaatschap van de commissie.     
-10.  Indien een (neven)functie strijdig is of kan zijn met het lidmaatschap van de commissie, zal het lidmaatschap van de commissie aan betrokkene worden onthouden, dan wel zal het betrokken lid worden ontheven van het lidmaatschap van de commissie.   
+10.  Indien een (neven)functie strijdig is of kan zijn met het lidmaatschap van de commissie, zal het lidmaatschap van de commissie aan betrokkene worden onthouden, dan wel zal het betrokken lid worden ontheven van het lidmaatschap van de commissie.  
 
 ### Artikel  5  
 
@@ -98,7 +98,7 @@ a. de agenda met daarop de onderwerpen waarover tijdens de vergadering een oorde
 b. de stukken die betrekking hebben op de vergaderonderwerpen.     
 5.  Van iedere vergadering van de commissie worden notulen bijgehouden.   
 6.  De commissie vergadert voltallig.   
-7.  De commissie oordeelt bij unanimiteit.   
+7.  De commissie oordeelt bij unanimiteit.  
 
 ### Artikel  6  
 
@@ -106,20 +106,20 @@ b. de stukken die betrekking hebben op de vergaderonderwerpen.
 
 1.  De commissie evalueert jaarlijks met de staatssecretaris en de minister het eigen functioneren.   
 2.  De leden van de commissie krijgen een jaarlijks door de staatssecretaris vast te stellen vergoeding voor de te verrichten werkzaamheden.   
-3.  De leden van de commissie zijn verplicht tot geheimhouding jegens derden van hetgeen hen uit hoofde van hun lidmaatschap ter kennis is gekomen voor zover die verplichting uit de aard van de zaak volgt of hen uitdrukkelijk is opgelegd. Deze verplichting eindigt niet bij de beëindiging van het lidmaatschap van de commissie.   
+3.  De leden van de commissie zijn verplicht tot geheimhouding jegens derden van hetgeen hen uit hoofde van hun lidmaatschap ter kennis is gekomen voor zover die verplichting uit de aard van de zaak volgt of hen uitdrukkelijk is opgelegd. Deze verplichting eindigt niet bij de beëindiging van het lidmaatschap van de commissie.  
 
 ### Artikel  7  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 20 september 2012.  
+Dit besluit treedt in werking met ingang van 20 september 2012. 
 
 ### Artikel  8  
 
 ####Kennisgeving
 
-Afschrift van dit besluit wordt gezonden aan de leden van de commissie en aan de voorzitter van het bestuur.  
+Afschrift van dit besluit wordt gezonden aan de leden van de commissie en aan de voorzitter van het bestuur. 
 
 De 
-Staatssecretaris van Economische Zaken, Landbouw en Innovatie,
-Dr. HenkBleker   
+Staatssecretaris van Economische Zaken, Landbouw en Innovatie, 
+Dr. Henk Bleker     
