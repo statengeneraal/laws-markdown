@@ -8,13 +8,13 @@ Besluit:
 
 ### Artikel  1  
 
-De leden van de commissie onderzoek elektronisch stemmen in het stemlokaal ontvangen een vaste vergoeding afgeleid van schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), met een deeltijdfactor 0,1.  
+De leden van de commissie onderzoek elektronisch stemmen in het stemlokaal ontvangen een vaste vergoeding afgeleid van schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), met een deeltijdfactor 0,1. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal in de Staatscourant worden geplaatst.  
 
 De 
-minister van Binnenlandse Zaken en Koninkrijksrelaties,
-R.H.A.Plasterk   
+minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+R.H.A. Plasterk     

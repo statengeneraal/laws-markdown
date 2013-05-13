@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 7 december 2010, nr. WJZ/10183066, houdende regels inzake de beveiliging van nucleaire inrichtingen en splijtstoffen (Regeling beveiliging nucleaire inrichtingen en splijtstoffen)
 
 De Minister van Economische Zaken, Landbouw en Innovatie,  
-Gelet op het op 3 maart 1980 te Wenen/New York tot stand gekomen Verdrag inzake de fysieke beveiliging van kernmateriaal (*Trb. 1981, 7*), zoals gewijzigd bij *het op 8 juli 2005 te Wenen tot stand gekomen Verdrag tot wijziging van voornoemd verdrag (**Trb. 2006, 81*), [artikel 22 van het Besluit kerninstallaties, splijtstoffen en ertsen](../../../../../../../../AMvB/besluit/kerninstallaties/splijtstoffen/en/ertsen/BWBR0002667/README.md), [artikel 1d van het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](../../../../../../../../AMvB/besluit/vervoer/splijtstoffen/ertsen/en/radioactieve/stoffen/BWBR0002668/README.md) en [artikel 1, eerste lid, van het Geheimhoudingsbesluit Kernenergiewet](../../../../../../../../AMvB/geheimhoudingsbesluit/kernenergiewet/BWBR0002768/README.md);
+Gelet op het op 3 maart 1980 te Wenen/New York tot stand gekomen Verdrag inzake de fysieke beveiliging van kernmateriaal (*Trb. 1981, 7*), zoals gewijzigd bij *het op 8 juli 2005 te Wenen tot stand gekomen Verdrag tot wijziging van voornoemd verdrag (* *Trb. 2006, 81*), [artikel 22 van het Besluit kerninstallaties, splijtstoffen en ertsen](../../../../../../../../AMvB/besluit/kerninstallaties/splijtstoffen/en/ertsen/BWBR0002667/README.md), [artikel 1d van het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](../../../../../../../../AMvB/besluit/vervoer/splijtstoffen/ertsen/en/radioactieve/stoffen/BWBR0002668/README.md) en [artikel 1, eerste lid, van het Geheimhoudingsbesluit Kernenergiewet](../../../../../../../../AMvB/geheimhoudingsbesluit/kernenergiewet/BWBR0002768/README.md);
 Besluit:     
 ### §  1  
 
@@ -19,17 +19,17 @@ In deze regeling wordt verstaan onder:
 
 *categorie II-materiaal:* splijtstoffen, genoemd in de bijlage I voor zover ze voldoen aan de in die bijlage genoemde voorwaarden voor indeling in categorie II;  
 
-*categorie III-materiaal:* splijtstoffen, genoemd in de bijlage I voor zover ze voldoen aan de in die bijlage genoemde voorwaarden voor indeling in categorie III;  
+*categorie III-materiaal: * splijtstoffen, genoemd in de bijlage I voor zover ze voldoen aan de in die bijlage genoemde voorwaarden voor indeling in categorie III;  
 
 *inrichting:* inrichting als bedoeld in [artikel 15, onder b, van de wet](../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md);  
 
-*Minister:* Minister van Economische Zaken, Landbouw en Innovatie;  
+*Minister:* Minister van Economische Zaken;  
 
 *referentiedreiging:* lange termijnanalyse van dreigingen van diefstal van categorie I, II, of III-materiaal dan wel van sabotage van dat materiaal, of van inrichtingen;  
 
 *vergunninghouder:* houder van een vergunning als bedoeld in [artikel 15, onder a of b, van de wet](../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) met uitzondering van de houder van een vergunning voor het vervoeren, het voorhanden hebben bij opslag in verband met het vervoer en het binnen of buiten Nederlands grondgebied brengen of doen brengen van splijtstoffen of ertsen;  
 
-*vervoerder:* houder van een vergunning voor het vervoeren, het voorhanden hebben bij opslag in verband met het vervoer en het binnen of buiten Nederlands grondgebied brengen of doen brengen van categorie I-, II- of III- materiaal.    
+*vervoerder:* houder van een vergunning voor het vervoeren, het voorhanden hebben bij opslag in verband met het vervoer en het binnen of buiten Nederlands grondgebied brengen of doen brengen van categorie I-, II- of III- materiaal.   
 
 ### §  2  
 
@@ -37,7 +37,7 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  2  
 
-De referentiedreiging en de wijzigingen daarvan worden door de Minister vastgesteld. De vastgestelde referentiedreiging wordt aan de vergunninghouders medegedeeld.  
+De referentiedreiging en de wijzigingen daarvan worden door de Minister vastgesteld. De vastgestelde referentiedreiging wordt aan de vergunninghouders medegedeeld. 
 
 ### Artikel  3  
 
@@ -48,7 +48,7 @@ De referentiedreiging en de wijzigingen daarvan worden door de Minister vastgest
 a. aard van het materiaal en de inrichting, en  
 
 b. omvang van de mogelijke gevolgen door blootstelling aan straling van mensen, dieren, planten en goederen in het geval van diefstal of sabotage van categorie I, II, of III-materiaal of van sabotage van inrichtingen.     
-4.  De vergunninghouder houdt bij het treffen van de beveiligingsmaatregelen rekening met de maatregelen die zijn of worden getroffen om schade te voorkomen. De maatregelen die zijn of worden getroffen om schade te voorkomen hebben voorrang op beveiligingsmaatregelen.   
+4.  De vergunninghouder houdt bij het treffen van de beveiligingsmaatregelen rekening met de maatregelen die zijn of worden getroffen om schade te voorkomen. De maatregelen die zijn of worden getroffen om schade te voorkomen hebben voorrang op beveiligingsmaatregelen.  
 
 ### Artikel  4  
 
@@ -68,19 +68,24 @@ e. de aanwijzing van een alarmcentrale als bedoeld in artikel 9, tweede lid;
 f. de aanwijzing van een bedrijfsbeveiligingsdienst waaraan een vergunning als bedoeld in [artikel 3 van de Wet particuliere beveiligingsorganisaties en recherchebureaus](../../../../../../../../wet/wet/particuliere/beveiligingsorganisaties/en/recherchebureaus/BWBR0008973/README.md) is verleend;  
 
 g. een evaluatieprogramma bestaande uit testen, controles, audits en oefeningen om de doeltreffendheid van de beveiligingsmaatregelen te kunnen beoordelen.     
-3.  Tot de plannen en maatregelen, bedoeld in het tweede lid, behoort per onderdeel een tijdstip waarop zij zijn uitgevoerd.   
+3.  Tot de plannen en maatregelen, bedoeld in het tweede lid, behoort per onderdeel een tijdstip waarop zij zijn uitgevoerd.  
 
 ### Artikel  5  
 
 1.  Het beveiligingspakket, bedoeld in artikel 4, eerste lid, en wijzigingen daarvan, behoeven goedkeuring van de Minister.   
 2.  Goedkeuring wordt geweigerd indien het beveiligingspakket niet voldoet aan de eisen die daaraan bij deze regeling zijn gesteld.   
 3.  De Minister kan aan de goedkeuring voorschriften verbinden.   
-4.  De Minister kan de goedkeuring of de daaraan verbonden voorschriften intrekken of wijzigen, indien het beveiligingspakket niet meer voldoet aan de eisen die daaraan bij deze regeling zijn gesteld.   
+4.  De Minister kan de goedkeuring of de daaraan verbonden voorschriften intrekken of wijzigen, indien het beveiligingspakket niet meer voldoet aan de eisen die daaraan bij deze regeling zijn gesteld.  
 
 ### Artikel  6  
 
 1.  De vergunninghouder wijzigt het beveiligingspakket, bedoeld in artikel 4, eerste lid, nadat de referentiedreiging is gewijzigd, of wanneer de Minister dit nodig acht en dit schriftelijk heeft kenbaar gemaakt aan de vergunninghouder, waarbij de kennisgeving is voorzien van de aard van de aan te brengen wijzigingen.   
 2.  De vergunninghouder dient binnen een jaar nadat de referentiedreiging is gewijzigd, onderscheidenlijk binnen een jaar nadat de Minister kenbaar heeft gemaakt wijziging van het beveiligingspakket nodig te achten, een aanvraag om goedkeuring van het in overeenstemming met de referentiedreiging onderscheidenlijk de kennisgeving van de Minister gewijzigde beveiligingspakket in.   
+3.  De termijnen, bedoeld in het tweede lid, kunnen door de Minister worden verkort indien: 
+
+a. de wijziging van de referentiedreiging, onderscheidenlijk de door de Minister nodig geachte wijzigingen van het beveiligingspakket deze kortere termijnen rechtvaardigen, en  
+
+b. de wijzigingen binnen de door de Minister gestelde termijn door de vergunninghouder redelijkerwijs mogelijk zijn.   
 
 ### Artikel  7  
 
@@ -93,16 +98,16 @@ b. sabotage van categorie I-, II-, of III-materiaal, of van de inrichting;
 c. diefstal of het in de openbaarheid komen van de referentiedreiging, het beveiligingspakket, bedoeld in artikel 4, eerste lid, of andere gevoelige informatie aangaande de beveiliging van de inrichting of van categorie I-, II-, of III-materiaal, en  
 
 d. dreiging van een poging tot diefstal of sabotage als bedoeld onder a tot en met c.     
-2.  Het plan interne beveiligingsorganisatie sluit aan op een plan externe beveiligingsorganisatie, dat een omschrijving van de wijze van optreden van de korpsbeheerder van de politie, de burgemeester en de officier van justitie in de gevallen, bedoeld in het eerste lid, bevat.   
+2.  Het plan interne beveiligingsorganisatie sluit aan op een plan externe beveiligingsorganisatie, dat een omschrijving van de wijze van optreden van de korpschef, de burgemeester en de officier van justitie in de gevallen, bedoeld in het eerste lid, bevat.  
 
 ### Artikel  8  
 
-De vergunninghouder treft bouwkundige beveiligingsmaatregelen die ten minste vertraging bieden tegen de dreigingen uit de referentiedreiging en in ieder geval betrekking hebben op daken, plafonds, wanden, vloeren, ramen, deuren, hang-en-sluitwerk, kluizen en hekwerken.  
+De vergunninghouder treft bouwkundige beveiligingsmaatregelen die ten minste vertraging bieden tegen de dreigingen uit de referentiedreiging en in ieder geval betrekking hebben op daken, plafonds, wanden, vloeren, ramen, deuren, hang-en-sluitwerk, kluizen en hekwerken. 
 
 ### Artikel  9  
 
 1.  De vergunninghouder treft elektronische beveiligingsmaatregelen die ten minste de dreigingen uit de referentiedreiging kunnen signaleren.   
-2.  De elektronische signaleringen worden ontvangen door een alarmcentrale die de signalen beoordeelt en, indien nodig, assistentie vraagt aan de politie.   
+2.  De elektronische signaleringen worden ontvangen door een alarmcentrale die de signalen beoordeelt en, indien nodig, assistentie vraagt aan de politie.  
 
 ### Artikel  10  
 
@@ -112,7 +117,7 @@ a. de vakbekwaamheid en betrouwbaarheid van diegenen die de apparatuur in de ala
 
 b. technische eisen aan de apparatuur in de alarmcentrale;  
 
-c. de vakbekwaamheid en betrouwbaarheid van diegenen die toegang hebben tot, of werkzaamheden verrichten in de alarmcentrale.    
+c. de vakbekwaamheid en betrouwbaarheid van diegenen die toegang hebben tot, of werkzaamheden verrichten in de alarmcentrale.   
 
 ### Artikel  11  
 
@@ -131,26 +136,26 @@ b. het toezicht op de gebieden, bedoeld in het eerste lid, en de gebouwen in die
 
 c. de beperking van toegang en eventuele begeleiding van personen en voertuigen in de gebieden, bedoeld in het eerste lid, en de gebouwen in die gebieden, en  
 
-d. de controle op die toegang.     
+d. de controle op die toegang.    
 
 ### Artikel  12  
 
-De vergunninghouder meldt gebeurtenissen die aan onverkorte toepassing van het beveiligingspakket in de weg staan, onmiddellijk aan de Minister.  
+De vergunninghouder meldt gebeurtenissen die aan onverkorte toepassing van het beveiligingspakket in de weg staan, onmiddellijk aan de Minister. 
 
 ### Artikel  13  
 
-Het [Geheimhoudingsbesluit Kernenergiewet](../../../../../../../../AMvB/geheimhoudingsbesluit/kernenergiewet/BWBR0002768/README.md) is van toepassing op de referentiedreiging en het beveiligingspakket, bedoeld in artikel 4, eerste lid.  
+Het [Geheimhoudingsbesluit Kernenergiewet](../../../../../../../../AMvB/geheimhoudingsbesluit/kernenergiewet/BWBR0002768/README.md) is van toepassing op de referentiedreiging en het beveiligingspakket, bedoeld in artikel 4, eerste lid. 
 
 ### Artikel  14  
 
 1.  De vergunninghouder voert het evaluatieprogramma, bedoeld in artikel 4, tweede lid, onder g, uit. Daarbij wordt in elk geval een audit uitgevoerd met betrekking tot het plan interne beveiligingsorganisatie, worden de bouwkundige beveiligingsmaatregelen gecontroleerd, de elektronische beveiligingsmaatregelen getest en het plan interne beveiligingsorganisatie in een oefening toegepast.   
 2.  De vergunninghouder beoordeelt het beveiligingspakket jaarlijks op doeltreffendheid. Bij die beoordeling worden de bevindingen van de in het eerste lid bedoelde evaluatie betrokken en wordt aangegeven of het plan interne beveiligingsorganisatie aansluit op een plan externe beveiligingsorganisatie. De vergunninghouder meldt binnen een maand na die beoordeling de resultaten ervan aan de Minister.   
-3.  De vergunninghouder wijzigt het beveiligingspakket voor zover de resultaten van de in het tweede lid bedoelde beoordeling daartoe aanleiding geven. Hij biedt de wijziging binnen een jaar na het ontstaan van de aanleiding tot wijziging ter goedkeuring aan de Minister aan.   
+3.  De vergunninghouder wijzigt het beveiligingspakket voor zover de resultaten van de in het tweede lid bedoelde beoordeling daartoe aanleiding geven. Hij biedt de wijziging binnen een jaar na het ontstaan van de aanleiding tot wijziging ter goedkeuring aan de Minister aan.  
 
 ### Artikel  15  
 
 1.  De vergunninghouder beoordeelt elke tien jaar of het beveiligingspakket, bedoeld in artikel 4, eerste lid, voldoet aan de stand van de techniek. Daartoe worden de getroffen beveiligingsmaatregelen vergeleken met de op dat moment meest doeltreffende technieken die economisch en technisch gezien redelijkerwijs haalbaar zijn voor het bereiken van een hoog niveau van beveiliging. Indien de vergunninghouder op grond van de voorschriften in de vergunning een tienjaarlijkse evaluatie voor de nucleaire veiligheid en stralingsbescherming moet uitvoeren, dan wordt de beoordeling tegelijkertijd met deze evaluatie uitgevoerd.   
-2.  De vergunninghouder past het beveiligingspakket, bedoeld in artikel 4, eerste lid, aan voor zover de resultaten van de in het eerste lid bedoelde beoordeling daartoe aanleiding geven.   
+2.  De vergunninghouder past het beveiligingspakket, bedoeld in artikel 4, eerste lid, aan voor zover de resultaten van de in het eerste lid bedoelde beoordeling daartoe aanleiding geven.  
 
 ### §  3  
 
@@ -170,27 +175,27 @@ d. de taken, de vakbekwaamheid en de betrouwbaarheid van de bemanning van het ve
 
 e. de communicatiemiddelen en overige voorzieningen van het vervoermiddel;  
 
-f. de bescherming van specifieke gegevens over de beveiligingsmaatregelen in verband met het vervoer.    
+f. de bescherming van specifieke gegevens over de beveiligingsmaatregelen in verband met het vervoer.   
 
 ### Artikel  17  
 
 1.  De vervoerder beschikt over een beveiligingsplan met een beschrijving van de wijze waarop categorie I- II- of III-materiaal wordt beveiligd.   
-2.  Het beveiligingsplan, bedoeld in het eerste lid, bevat ten minste een omschrijving van de beveiligingsmaatregelen die worden getroffen door de vervoerder om te voldoen aan artikel 16 en een verwijzing naar de vergunning ingevolge het [Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](../../../../../../../../AMvB/besluit/vervoer/splijtstoffen/ertsen/en/radioactieve/stoffen/BWBR0002668/README.md) op grond waarvan de vervoerder bevoegd is om het categorie I-, II- of III-materiaal te vervoeren, voorhanden te hebben bij opslag in verband met het vervoer, of binnen of buiten Nederlands grondgebied te brengen of te doen brengen.   
+2.  Het beveiligingsplan, bedoeld in het eerste lid, bevat ten minste een omschrijving van de beveiligingsmaatregelen die worden getroffen door de vervoerder om te voldoen aan artikel 16 en een verwijzing naar de vergunning ingevolge het [Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](../../../../../../../../AMvB/besluit/vervoer/splijtstoffen/ertsen/en/radioactieve/stoffen/BWBR0002668/README.md) op grond waarvan de vervoerder bevoegd is om het categorie I-, II- of III-materiaal te vervoeren, voorhanden te hebben bij opslag in verband met het vervoer, of binnen of buiten Nederlands grondgebied te brengen of te doen brengen.  
 
 ### Artikel  18  
 
 1.  Het beveiligingsplan, bedoeld in artikel 17, eerste lid, en wijzigingen daarvan, behoeven goedkeuring van de Minister.   
 2.  De Minister kan aan de goedkeuring voorschriften verbinden.   
-3.  De Minister kan de goedkeuring of de daaraan verbonden voorschriften intrekken of wijzigen.   
+3.  De Minister kan de goedkeuring of de daaraan verbonden voorschriften intrekken of wijzigen.  
 
 ### Artikel  19  
 
 1.  De vervoerder wijzigt het beveiligingsplan, bedoeld in artikel 17, eerste lid, wanneer de Minister dit nodig acht en dit schriftelijk heeft kenbaar gemaakt aan de vervoerder, waarbij de kennisgeving is voorzien van de aard van de aan te brengen wijzigingen.   
-2.  De vervoerder dient binnen een jaar nadat de Minister kenbaar heeft gemaakt wijziging van het beveiligingsplan nodig te achten een aanvraag om goedkeuring van het in overeenstemming met de kennisgeving van de Minister gewijzigde beveiligingsplan in.   
+2.  De vervoerder dient binnen een jaar nadat de Minister kenbaar heeft gemaakt wijziging van het beveiligingsplan nodig te achten een aanvraag om goedkeuring van het in overeenstemming met de kennisgeving van de Minister gewijzigde beveiligingsplan in.  
 
 ### Artikel  20  
 
-De vervoerder handelt overeenkomstig het laatst goedgekeurde beveiligingsplan, bedoeld in artikel 17, eerste lid.  
+De vervoerder handelt overeenkomstig het laatst goedgekeurde beveiligingsplan, bedoeld in artikel 17, eerste lid. 
 
 ### §  4  
 
@@ -199,41 +204,41 @@ De vervoerder handelt overeenkomstig het laatst goedgekeurde beveiligingsplan, b
 ### Artikel  21  
 
 1.  Voor zover aan een vergunning van een vergunninghouder, of een vervoerder, voorschriften zijn verbonden met betrekking tot de beveiliging, treedt met ingang van de dag waarop het besluit van de Minister tot goedkeuring van het beveiligingspakket of het beveiligingsplan in werking treedt dat pakket of dat plan voor die voorschriften in de plaats.   
-2.  De vergunninghouder of de vervoerder op het tijdstip van inwerkingtreding van deze regeling stelt binnen een jaar na inwerkingtreding van deze regeling een beveiligingspakket respectievelijk een beveiligingsplan vast dat in overeenstemming is met deze regeling en biedt het binnen die termijn ter goedkeuring aan de Minister aan.   
+2.  De vergunninghouder of de vervoerder op het tijdstip van inwerkingtreding van deze regeling stelt binnen een jaar na inwerkingtreding van deze regeling een beveiligingspakket respectievelijk een beveiligingsplan vast dat in overeenstemming is met deze regeling en biedt het binnen die termijn ter goedkeuring aan de Minister aan.  
 
 ### Artikel  22  
 
-Deze regeling treedt in werking met ingang van 1 januari 2011.  
+Deze regeling treedt in werking met ingang van 1 januari 2011. 
 
 ### Artikel  23  
 
-Deze regeling wordt aangehaald als: Regeling beveiliging nucleaire inrichtingen en splijtstoffen.  
+Deze regeling wordt aangehaald als: Regeling beveiliging nucleaire inrichtingen en splijtstoffen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 7 december 2010   
 
 De 
-Minister van Economische Zaken, Landbouw en Innovatie,
-M.J.M.Verhagen  
+Minister van Economische Zaken, Landbouw en Innovatie, 
+M.J.M. Verhagen    
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####als bedoeld in artikel 1  van de Regeling beveiliging nucleaire inrichtingen en splijtstoffen
 
 | Materiaal  | Vorm  | Categorie I  | Categorie II  | Categorie III  |
 |:---|:---|:---|:---|:---|
-|  1. Plutonium <sup>1</sup>  | Onbestraald <sup>2</sup>  | 2 kg of meer  | Minder dan 2 kg maar meer dan 500 g  | 500 g of minder maar meer dan 15 g  |
-|  2. Uranium-235  | Onbestraald <sup>2</sup>  | --- | --- | --- |
-| --- | – verrijkt uranium van 20% of meer <sup>235</sup> U  | – 5 kg of meer  | – Minder dan 5 kg maar meer dan 1 kg  | – 1 kg of minder, maar meer dan 15g  |
-| --- | – verrijkt uranium van 10% tot minder dan 20%  <sup>235</sup> U  | --- | –10 kg of meer  | – minder dan 10 kg maar meer dan 1 kg  |
-| --- | – uranium verrijkt tot boven het natuurlijk gehalte, maar tot minder dan 10%  <sup>235</sup> U  | --- | --- | – 10 kg of meer  |
-|  3. Uranium-233  | Onbestraald <sup>2</sup>  | 2 kg of meer  | Minder dan 2 kg maar meer dan 500 g  | 500 g of minder, maar meer dan 15 g  |
-|  4. Bestraalde splijtstof  | --- | --- | Verarmd of natuurlijk uranium, thorium of laag verrijkte splijtstof (minder dan 10% aan splijtbaar materiaal) <sup>3,4</sup>  | --- |
+|  1. Plutonium<sup>1</sup>   | Onbestraald<sup>2</sup>   | 2 kg of meer  | Minder dan 2 kg maar meer dan 500 g  | 500 g of minder maar meer dan 15 g  |
+|  2. Uranium-235  | Onbestraald<sup>2</sup>   | --- | --- | --- |
+| --- | – verrijkt uranium van 20% of meer <sup>235</sup>U  | – 5 kg of meer  | – Minder dan 5 kg maar meer dan 1 kg  | – 1 kg of minder, maar meer dan 15g  |
+| --- | – verrijkt uranium van 10% tot minder dan 20%  <sup>235</sup>U  | --- | –10 kg of meer  | – minder dan 10 kg maar meer dan 1 kg  |
+| --- | – uranium verrijkt tot boven het natuurlijk gehalte, maar tot minder dan 10% <sup>235</sup>U  | --- | --- | – 10 kg of meer  |
+|  3. Uranium-233  | Onbestraald<sup>2</sup>   | 2 kg of meer  | Minder dan 2 kg maar meer dan 500 g  | 500 g of minder, maar meer dan 15 g  |
+|  4. Bestraalde splijtstof  | --- | --- | Verarmd of natuurlijk uranium, thorium of laag verrijkte splijtstof (minder dan 10% aan splijtbaar materiaal)<sup>3,4</sup>   | --- |
 
-<sup>1</sup> Met uitzondering van plutonium met een isotoopgehalte van meer dan 80% aan plutonium-238. <sup>2</sup> Onder onbestraald wordt in deze tabel verstaan: materiaal dat niet in een reactor is bestraald, of materiaal dat in een reactor is bestraald, met een stralingsniveau van 1 gray/uur (100 rad/uur) of minder op een afstand van 1 meter zonder afscherming. <sup>3</sup> Op grond van bijzondere omstandigheden kan de Minister deze stoffen indelen in een andere categorie. <sup>4</sup> Andere splijtstof die op grond van haar oorspronkelijke gehalte aan splijtbaar materiaal onder categorie I of II valt voor de bestraling, kan één categorie lager worden ingedeeld, zo lang het stralingsniveau van de splijtstof groter is dan 1 gray/uur (100 rad/uur) op een afstand van 1 meter zonder afscherming. 
+<sup>1</sup> Met uitzondering van plutonium met een isotoopgehalte van meer dan 80% aan plutonium-238.<sup>2</sup> Onder onbestraald wordt in deze tabel verstaan: materiaal dat niet in een reactor is bestraald, of materiaal dat in een reactor is bestraald, met een stralingsniveau van 1 gray/uur (100 rad/uur) of minder op een afstand van 1 meter zonder afscherming.<sup>3</sup> Op grond van bijzondere omstandigheden kan de Minister deze stoffen indelen in een andere categorie.<sup>4</sup> Andere splijtstof die op grond van haar oorspronkelijke gehalte aan splijtbaar materiaal onder categorie I of II valt voor de bestraling, kan één categorie lager worden ingedeeld, zo lang het stralingsniveau van de splijtstof groter is dan 1 gray/uur (100 rad/uur) op een afstand van 1 meter zonder afscherming.
 
-### Bijlage  II  
+### Bijlage II 
 
 ####als bedoeld in artikel 3, tweede lid , van de Regeling beveiliging nucleaire inrichtingen en splijtstoffen
 
@@ -264,7 +269,7 @@ De maximale waarde voor de hoeveelheid radioactiviteit geëmitteerd naar de luch
 | U nat  | 1 000  |
 | Edelgassen  | 0  |
 
-<sup>1</sup> Long-absorptieklassen: S – langzaam; M – gemiddeld; F – snel. Bij onduidelijkheid wordt de meest conservatieve waarde gebruikt. Maximale waarden voor de effectieve dosis ontvangen door een lidvan de bevolking of een werknemer: 
+<sup>1</sup> Long-absorptieklassen: S – langzaam; M – gemiddeld; F – snel. Bij onduidelijkheid wordt de meest conservatieve waarde gebruikt.Maximale waarden voor de effectieve dosis ontvangen door een lidvan de bevolking of een werknemer: 
 
 – een effectieve dosis, met een waarschijnlijk optreden van een dodelijk deterministisch effect voor 1 of meer leden van de bevolking of werknemers;  
 
@@ -276,7 +281,7 @@ De maximale waarde voor de hoeveelheid radioactiviteit geëmitteerd naar de luch
 
 – een effectieve dosis van 20 mSv voor 100 of meer werknemers.   
 
-### Bijlage  III  
+### Bijlage III 
 
 ####als bedoeld in artikel 4, tweede lid, onder a , van de Regeling beveiliging nucleaire inrichtingen en splijtstoffen
 
@@ -292,7 +297,7 @@ Opleidingseisen beveiligingsdeskundige: Ten minste het bezit van:
 
 – een diploma van de opleiding Certified Protection professional (CPP) van de American Society for Industrial Security (Verenigde Staten).   
 
-### Bijlage  IV  
+### Bijlage IV 
 
 ####als bedoeld in artikel 16  van de Regeling beveiliging nucleaire inrichtingen en splijtstoffen
 
@@ -312,5 +317,5 @@ a.  *Categorie II- en III-materiaal*  Het vervoer vindt plaats met inachtneming 
 
 b.  *Categorie I-materiaal*  Het vervoer vindt plaats met inachtneming van de bijzondere voorzorgsmaatregelen zoals hierboven zijn vastgesteld voor het vervoer van categorie II- en III-materiaal, met daarbij voortdurend toezicht door begeleiders en onder omstandigheden die nauw contact waarborgen met de autoriteiten die bevoegd zijn handelend op te treden.  
 
-c.  *voor natuurlijk uranium anders dan in de vorm van erts of ertsresidu voor zover dat valt onder het in bijlage I geclassificeerde materiaal*  Bij het vervoer van hoeveelheden van meer dan 500 kg uranium wordt vooraf kennisgegeven van de verzending, met vermelding van de wijze van vervoer en het vermoedelijke tijdstip van aankomst, terwijl later de ontvangst van de zending wordt bevestigd.      
+c.  *voor natuurlijk uranium anders dan in de vorm van erts of ertsresidu voor zover dat valt onder het in bijlage I geclassificeerde materiaal*  Bij het vervoer van hoeveelheden van meer dan 500 kg uranium wordt vooraf kennisgegeven van de verzending, met vermelding van de wijze van vervoer en het vermoedelijke tijdstip van aankomst, terwijl later de ontvangst van de zending wordt bevestigd.     
 
