@@ -10,20 +10,20 @@ Besluit:
 
 ### Artikel  1  
 
-Als ambtenaren belast met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 10 tot en met 18 van de Wet implementatie EG-richtlijnen energie-efficiëntie](../../../../../../../../../wet/wet/implementatie/eg-richtlijnen/energie-efficiëntie/BWBR0029672/README.md), worden aangewezen de ambtenaren van de Voedsel en Waren Autoriteit van het Ministerie van Economische Zaken, Landbouw en Innovatie.  
+De ambtenaren van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 10 tot en met 17 van de Wet implementatie EU-richtlijnen energie-efficiëntie](../../../../../../../../../wet/wet/implementatie/eg-richtlijnen/energie-efficiëntie/BWBR0029672/README.md), met uitzondering van het toezicht op de naleving van het [Besluit etikettering energiegebruik personenauto’s](../../../../../../../../../AMvB/besluit/etikettering/energiegebruik/personenauto's/BWBR0011761/README.md) waarmee de ambtenaren van de Inspectie Leefomgeving en Transport van het Ministerie van Infrastructuur en Milieu zijn belast. 
 
 ### Artikel  2  
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Wet implementatie EG-richtlijnen energie-efficiëntie.  
+Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Wet implementatie EU-richtlijnen energie-efficiëntie. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 5 maart 2011.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 5 maart 2011. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 12 april 2011   
 
 De 
-Minister van Economische Zaken, Landbouw en Innovatie,
-M.J.M.Verhagen   
+Minister van Economische Zaken, Landbouw en Innovatie, 
+M.J.M. Verhagen     

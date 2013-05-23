@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Loonheffingen, pensioenen; beschikbare-premieregelingen en premie- en kapitaalovereenkomsten
+##Loonheffingen, inkomstenbelasting, vennootschapsbelasting, pensioenen; prijsgeven pensioenrechten door directeur-grootaandeelhouder i.v.m. onderdekking
 
 *De Staatssecretaris van Financiën heeft het volgende besloten.*      *Dit besluit is gebaseerd op de delegatiebepaling van artikel 19b, negende lid, van de Wet op de loonbelasting 1964. Dit besluit bevat de voorwaarden voor het verminderen van pensioenen in eigen beheer zonder dat sprake is van een prijsgeven als bedoeld artikel 19, eerste lid, onderdeel c, van deze wet.*    
 ### 1  
@@ -12,11 +12,11 @@ Het prijsgeven van pensioenaanspraken kan fiscale gevolgen hebben. Betreft het e
 
 ####Gebruikte begrippen en afkortingen
 
-*Wet IB 2001:* [Wet inkomstenbelasting 2001](../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)   
+*Wet IB 2001:* [Wet inkomstenbelasting 2001](../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)  
 
-*Wet LB:* [Wet op de loonbelasting 1964](../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)   
+*Wet LB:* [Wet op de loonbelasting 1964](../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)  
 
-*Wet Vpb:* [Wet op de vennootschapsbelasting 1969](../../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)        
+*Wet Vpb:* [Wet op de vennootschapsbelasting 1969](../../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)       
 ### 2  
 
 ####Aangewezen gevallen
@@ -94,5 +94,5 @@ Den Haag
 18 maart 2013   
 
 De 
-staatssecretaris van Financiën,
-F.H.H.Weekers   
+staatssecretaris van Financiën, 
+F.H.H. Weekers     
