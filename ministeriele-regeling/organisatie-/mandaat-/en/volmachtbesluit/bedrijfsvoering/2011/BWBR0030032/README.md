@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 mei 2011, nr. BV/M&C/MI/2011/6519, houdende de inrichting van de directie Bedrijfsvoering, alsmede de doorverlening van vertegenwoordigingsbevoegdheden van de directeur Bedrijfsvoering (Organisatie-, mandaat- en volmachtbesluit Bedrijfsvoering 2011)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 3, aanhef en onderdeel k](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/plaatsvervangend/etc/BWBR0026589/README.md), en [8 van het Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/plaatsvervangend/etc/BWBR0026589/README.md);
+Gelet op de artikelen 3, aanhef en onderdeel k, en 8 van het Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW;
 Besluit:     
 ### §  1  
 
@@ -15,9 +15,9 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 a. *CIO:* Chief Information Officer;  
 
-b. *SSO ICT:* Shared Service Organisation Informatie en Communicatie technologie;  
+b. *SSC ICT:* Shared Service Centrum Informatie en Communicatie Technologie;  
 
-c. *4FM:* Facilitair interdepartementaal samenwerkingsverband;  
+c. *FMH:* FM Haaglanden, facilitair interdepartementaal samenwerkingsverband;  
 
 d. *RGD:* Rijksgebouwendienst;  
 
@@ -31,7 +31,11 @@ h. *de directiesecretaris:* de directie secretaris van de directie Bedrijfsvoeri
 
 i. *cRMA:* centrale Record Management Applicatie die door P-direkt aan de ministeries ter beschikking wordt gesteld;  
 
-j. *RDS:* Rijksdeclaratiesysteem.    
+j. *RDS:* reisdeclaratiesysteem;  
+
+k. *HIS:* Haagse Inkoop Samenwerking, bedrijfseenheid van De Werkmaatschappij van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;  
+
+l. *CPO:* Chief Procurement Officer.    
 
 ### §  2  
 
@@ -43,15 +47,15 @@ De directie Bedrijfsvoering bestaat uit de volgende afdelingen:
 
 a. de afdeling Informatie en Facilitair Management;  
 
-b. de afdeling Inkoop;  
+b. de afdeling Managementinformatie & Control;  
 
-c. de afdeling Managementinformatie & Control;  
+c. de afdeling Documentatie, Communicatie & Archief;  
 
-d. de afdeling Documentatie, Communicatie & Archief;  
+d. de afdeling Personeel & Organisatie;  
 
-e. de afdeling Personeel & Organisatie;  
+e. de afdeling Financiën;  
 
-f. de afdeling Financiën.    
+f. de afdeling Service en Beheer Organisatie Financiële Systemen.    
 
 ### §  3  
 
@@ -59,79 +63,57 @@ f. de afdeling Financiën.
 
 ### Artikel  3  
 
-1.  Het hoofd van de afdeling Informatie en Facilitair Management is verantwoordelijk voor: 
+Het hoofd van de afdeling Informatie en Facilitair Management is verantwoordelijk voor: 
 
-a. het bewaken van de samenhang in informatievoorziening en ICT, Huisvestings en Facilitaireprojecten bij het ministerie door het opstellen en implementeren van de departementale strategie en beleidsvisie op het gebied van ICT, Huisvesting en Facilitair;  
+a. het bewaken van de samenhang in informatievoorziening en ICT en huisvestings- en facilitaire projecten bij het ministerie door het opstellen en implementeren van de departementale strategie en beleidsvisie op het gebied van ICT, inkoop, huisvesting en facilitair;  
 
-b. het inrichten van de departementale informatie-organisatie, de kaders, de architectuur en de standaarden van het departementaal informatiemanagement, de ICT-projecten en het applicatieportfolio-management voor het ministerie;  
+b. het inrichten van de departementale informatieorganisatie, de kaders, de architectuur en de standaarden van het departementaal informatiemanagement, de ICT-projecten en het applicatieportfolio-management voor het ministerie;  
 
-c. het adviseren van deelnemers aan interdepartementale commissies op het gebied van ICT, Huisvesting en Facilitair;  
+c. het adviseren van deelnemers aan interdepartementale commissies op het gebied van ICT, inkoop, huisvesting en facilitair;  
 
-d. het vertalen van het interdepartementale ICT, Huisvesting en Facilitaire beleid naar de specifieke situatie van het ministerie;  
+d. het vertalen van het interdepartementale ICT, inkoop, huisvesting en facilitaire beleid naar de specifieke situatie van het ministerie;  
 
-e. het houden van toezicht op de naleving van de rijksbrede kaders binnen het ministerie voor ICT, Huisvesting en Facilitair;  
+e. het houden van toezicht op de naleving van de rijksbrede kaders binnen het ministerie voor ICT, inkoop, huisvesting en facilitair;  
 
-f. het adviseren over de eisen aan projectbeheersingmethodieken op basis van rijksbrede kaders voor ICT, Huisvesting en Facilitair;  
+f. het adviseren over de eisen aan projectbeheersingmethodieken op basis van rijksbrede kaders voor ICT, huisvesting en facilitair;  
 
-g. het ondersteunen van audits, reviews en second opinions voor ICT, Huisvesting en Facilitair;  
+g. het ondersteunen van audits, reviews en second opinions voor ICT, inkoop, huisvesting en facilitair;  
 
 h. het adviseren van de CIO en het SZW management over de start van ICT-projecten, over het opschorten of bijsturen tijdens de uitvoering van ICT-projecten en over het toekennen van een ICT-budget in afstemming met de directie Financieel-Economische Zaken;  
 
-i. het ondersteunen van de CIO zowel departementaal als interdepartementaal;  
+i. het ondersteunen van de CIO en CDI, zowel departementaal als interdepartementaal;  
 
-j. het uitoefenen van het budgethoudersschap ten aanzien van ICT, Huisvesting en Facilitair en het voeren van de control en rapportage over het departementaal ICT budget;  
+j. het uitoefenen van het budgethouderschap ten aanzien van ICT, inkoop, huisvesting en facilitair en het voeren van de control en rapportage over het departementaal ICT-budget;  
 
 k. het voorzien in managementinformatie over het departementale ICT-budget in relatie tot de ICT-applicatie- en projectenportfolio;  
 
-l. het voeren van leveranciersmanagement (kosten, kwaliteit en klanttevredenheid) op SSO ICT, 4FM, RGD, VijfkeerBlauw en overige externe leveranciers;  
+l. het voeren van leveranciersmanagement (kosten, kwaliteit en klanttevredenheid) voor SSC ICT, HIS, FMH, RGD, VijfkeerBlauw en departementale leveranciers die vallen binnen het domein van de afdeling;  
 
-m. het onderhouden van de klantcontacten op strategisch en tactisch niveau, waaronder het adviseren van klanten over ICT en Huisvestingsvraagstukken en het doorvertalen van wensen richting SSO en 4FM;  
+m. het onderhouden van de klantcontacten op strategisch en tactisch niveau, waaronder het adviseren van klanten over ICT en huisvestingsvraagstukken en het doorvertalen van wensen richting SSC-ICT, HIS en FMH;  
 
-n. het adviseren over en programmatisch aansturen van SZW brede programma’s en projecten op het gebied van ICT, Huisvesting en Facilitair.     
+n. het adviseren over en programmatisch aansturen van SZW brede programma’s en projecten op het gebied van ICT, huisvesting en facilitair;  
 
-### Artikel  4  
+o. het adviseren van de CDI en het SZW management over het opschorten of bijsturen van grote en/of risicovolle aanbestedingen;  
 
-Het hoofd van de afdeling Inkoop is verantwoordelijk voor: 
+p. het uitvoeren van de taken van de CDI, inhoudende: 
 
-a. het maken van en het interdepartementaal afstemmen van beleid op het gebied van inkoop en contractbeheer;  
+1°. de coördinatie van strategische inkoopactiviteiten;  
 
-b. het toetsen van de naleving van beleid op het gebied van inkoop en contractbeheer;  
+2°. de coördinatie van de verantwoordelijkheid van het contractprocesbeheer;  
 
-c. het verzorgen van (Europese) aanbestedingen;  
+3°. de inventarisatie van gegevens met betrekking tot inkoopactiviteiten van het ministerie, jaarlijks resulterend in een inkoopprognose en jaarplan;  
 
-d. het geven van inkoopadvies en het beantwoorden van vragen op het gebied van inkoop en contractbeheer;  
+4°. het formuleren en aanpassen van het inkoopbeleid;  
 
-e. het uitvoeren van de feitelijke inkoop en het contractbeheer voor het gehele departement voor inkopen met een waarde vanaf € 15.000,–, met uitzondering van de inkoop van contractbeheer voor inkopen op het gebied van beleidsonderzoek door beleidsdirecties, waar een waarde van toepassing is vanaf € 125.000,–;  
+5°. de vertegenwoordiging van het ministerie bij interdepartementale vergaderingen en bijeenkomsten op het gebied van inkoop;  
 
-f. het registreren van dienstverleningsovereenkomsten middels CTM;  
+6°. de control rol binnen het ministerie inzake het gebruik van de internationale, nationale en departementale regelingen en procesbeschrijvingen betreffende inkoop;  
 
-g. het verstrekken van SZW-brede informatie op het gebied van inkoop en contractbeheer;  
+7°. de oplevering van een jaarlijks inkoopjaarplan aan de CPO;  
 
-h. het voeren van categoriemanagement door het samen brengen van de behoeften van onderdelen van het Rijk, het uitvoeren van de bijbehorende Europese aanbestedingen en het contractmanagement van de afgesloten overeenkomsten;  
+8°. het voeren van de regierol richting de HIS;  
 
-i. het vertegenwoordigen van het ministerie bij de inkoop waarbij een ander departement het categoriemanagement voert;  
-
-j. de taken en bevoegdheden behorende bij de CDI met name: 
-
-1.° de coördinatie van strategische inkoopactiviteiten;  
-
-2.° de coördinatie van de verantwoordelijkheid van het contractprocesbeheer;  
-
-3.° de zorg voor het gevoerde contractprocesbeheer en de adequate administratie;  
-
-4.° de inventarisatie van gegevens met betrekking tot inkoopactiviteiten van het ministerie;  
-
-5.° de kwantitatieve en kwalitatieve analyse van de gegevens;  
-
-6.° het formuleren en aanpassen van het inkoopbeleid op basis van analyses;  
-
-7.° het toezien op de wijze waarop het contractbeheer binnen het ministerie wordt uitgevoerd;  
-
-8.° de vertegenwoordiging van het ministerie van SZW bij interdepartementale vergaderingen en bijeenkomsten;  
-
-9.° de control-rol binnen SZW inzake het gebruik van de internationale, nationale en departmentale regelingen en procesbeschrijvingen betreffende inkoop;  
-
-10.° het vaststellen van departementale procesbeschrijvingen en formats inzake contractprocesbeheer.      
+9°. het strategisch adviseren bij inkoopvraagstukken.      
 
 ### Artikel  5  
 
@@ -209,7 +191,7 @@ l. het meten van de kwaliteit van het archiefbeheer en het uitvoeren van control
 
 1.  Het hoofd van de afdeling Personeel & Organisatie is verantwoordelijk voor: 
 
-a. het adviseren en ondersteunen van het collegiaal overleg bedoeld in [artikel 3 van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/plaatsvervangend/etc/BWBR0026589/README.md) en de door de deelnemende functionarissen aan het collegiaal overleg gemandateerde managers met betrekking tot personeels- en organisatieaangelegenheden, zoals loopbaan, opleiding, mobiliteit, arbeidsjuridisch, organisatie en formatie;  
+a. het adviseren en ondersteunen van het collegiaal overleg bedoeld in artikel 3 van het Organisatie-, mandaat- en volmachtbesluit SZW 2009 en de door de deelnemende functionarissen aan het collegiaal overleg gemandateerde managers met betrekking tot personeels- en organisatieaangelegenheden, zoals loopbaan, opleiding, mobiliteit, arbeidsjuridisch, organisatie en formatie;  
 
 b. het zorgdragen voor de totstandkoming van de dienstverleningovereenkomst met P-Direkt en de Expertisecentra sector Rijk;  
 
@@ -247,7 +229,7 @@ r. het uitvoeren van het functioneel beheer van de registratiesystemen;
 
 s. het verstrekken van SZW-brede informatie over opleidingen;  
 
-t. het ondersteunen van de departementale bestuurder in de zin van de [Wet op de Ondernemingsraden](../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) en het voeren van het secretariaat van het Departementaal Georganiseerd Overleg;  
+t. het ondersteunen van de departementale bestuurder in de zin van de Wet op de Ondernemingsraden en het voeren van het secretariaat van het Departementaal Georganiseerd Overleg;  
 
 u. het verstrekken van SZW-brede informatie over uitgevoerd personeels- en organisatie- beleid;  
 
@@ -311,7 +293,7 @@ n. het inrichten en verzorgen van de financiële administratie en het beheren va
 
 o. het opstellen van verantwoordingsdocumenten en het vastleggen van mutaties;  
 
-p. het onderhouden van het functioneel beheer van de financiële systemen inclusief RDS;  
+p. het voeren van regie op het functioneel beheer van de financiële systemen en het functioneel beheer van aan de financiële systemen gerelateerde applicaties, dat bij de afdeling Service en Beheer Organisatie Financiële Systemen is ondergebracht;  
 
 q. het verstrekken van SZW-brede informatie over het financiële beheer;  
 
@@ -319,6 +301,16 @@ r. het controleren van, het ter verwerking aan bieden aan P-Direkt en het archiv
 
 s. het borgen van de verantwoording van de personeels- en salarisuitgaven via P-Direkt/Payroll in de departementale financiële administratie.     
 2.  Het hoofd van de afdeling Financiën wordt bijgestaan door onder hem ressorterende teamleiders.   
+
+### Artikel  8a  
+
+Het hoofd van de afdeling Service en Beheer Organisatie Financiële Systemen is verantwoordelijk voor: 
+
+a. het beheren van het financieel administratieve systeem 3F dat de begrotings- en uitvoeringsadministratie uitvoert en het beheren van andere ondersteunende financiële systemen die bij de afdeling zijn ondergebracht;  
+
+b. het bieden van ondersteuning bij het gebruik van de onder het beheer van de afdeling staande financiële systemen aan de partijen bij de Samenwerkingsovereenkomst 3F en hun medewerkers;  
+
+c. het realiseren van de activiteiten voor de verdere ontwikkeling van de onder het beheer van de afdeling staande financiële systemen.    
 
 ### §  4  
 
@@ -355,11 +347,11 @@ Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van ove
 
 ### Artikel  13  
 
-Aan het hoofd van de afdeling Informatie en Facilitair Management wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 50.000,– per overeenkomst voor zover deze betrekking op het ondertekenen van offertes van SSO ICT en 4FM voor de levering van goederen en diensten op basis van de Dienstverleningsovereenkomst.  
+Aan het hoofd van de afdeling Informatie en Facilitair Management wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 50.000,– per overeenkomst voor zover deze betrekking op het ondertekenen van offertes van SSC ICT, HIS en FMH voor de levering van goederen en diensten op basis van de Dienstverleningsovereenkomst.  
 
 ### Artikel  14  
 
-Aan de leveranciersmanagers van de afdeling Informatie en Facilitair Management wordt een volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 15.000,– per overeenkomst voor zover deze betrekking hebben op het ondertekenen van offertes van SSO ICT en 4FM voor de levering van goederen en diensten op basis van de Dienstverleningsovereenkomst.  
+Aan de leveranciersmanagers van de afdeling Informatie en Facilitair Management wordt een volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 15.000,– per overeenkomst voor zover deze betrekking hebben op het ondertekenen van offertes van SSC ICT, HIS en FMH voor de levering van goederen en diensten op basis van de Dienstverleningsovereenkomst.  
 
 ### Artikel  15  
 
