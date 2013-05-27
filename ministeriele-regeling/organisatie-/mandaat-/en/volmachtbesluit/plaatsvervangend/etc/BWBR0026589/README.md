@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 28 oktober 2009, nr. BO/BA/2009/23642, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de plaatsvervangend Secretaris-Generaal ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de artikelen 6, vijfde lid, aanhef en onderdeel a, en 23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009;
+Gelet op de [artikelen 6, vijfde lid, aanhef en onderdeel a](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2009/BWBR0024956/README.md), en [23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2009/BWBR0024956/README.md);
 Besluit:     
 ### §  1  
 
@@ -13,13 +13,13 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *directie:* een van de organisatieonderdelen genoemd in artikel 2, onderdelen a tot en met c;  
+a.  *directie:* een van de organisatieonderdelen genoemd in artikel 2, onderdelen a tot en met c;  
 
-b. *directeur:* een functionaris die leiding geeft aan een directie;  
+b.  *directeur:* een functionaris die leiding geeft aan een directie;  
 
-c. *ICT:* informatie- en communicatietechnologie;  
+c.  *ICT:* informatie- en communicatietechnologie;  
 
-d. *programmadirecteur:* een functionaris die leiding geeft aan de programmadirectie Huisvesting SZW en VWS.    
+d.  *programmadirecteur:* een functionaris die leiding geeft aan de programmadirectie Huisvesting SZW en VWS.  
 
 ### §  2  
 
@@ -33,9 +33,9 @@ a. de directie Bedrijfsvoering;
 
 b. de directie Bestuursondersteuning;  
 
-c. het Agentschap SZW;  
+c.het Agentschap SZW;
 
-d. de programmadirectie Huisvesting SZW en VWS.    
+d. de programmadirectie Huisvesting SZW en VWS.  
 
 ### §  3  
 
@@ -67,11 +67,11 @@ j. het, na overeenstemming daarover met de plaatsvervangend secretaris-generaal,
 
 k. het zorgdragen voor de vastlegging van de organisatie van de eigen directie en de daarbinnen geldende mandaten, volmachten en machtigingen in een Organisatie-, mandaat- en volmachtbesluit voor de eigen directie;  
 
-l. de behandeling van klachten als bedoeld in artikel 9:1 van de Algemene wet bestuursrecht voor zover deze betrekking hebben op gedragingen van de onder de directeur ressorterende functionarissen;  
+l. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voor zover deze betrekking hebben op gedragingen van de onder de directeur ressorterende functionarissen;  
 
 m. het dynamisch archiefbeheer van zijn directie, te weten postbehandeling, registratie, voortgang- en afdoeningsbewaking, dossierbeheer, informatievoorziening, selectie en, vernietiging alsmede het opstellen, vaststellen en onderhouden van het ordeningsplan van de directie;  
 
-n. het materieel beheer overeenkomstig de Regeling materieelbeheer rijksoverheid 2006 en de Regeling materieelbeheer museale voorwerpen.    
+n. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/rijksoverheid/2006/BWBR0019767/README.md) en de [Regeling materieelbeheer museale voorwerpen](../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/museale/voorwerpen/BWBR0020583/README.md).   
 
 ### Artikel  4  
 
@@ -117,7 +117,7 @@ s. de beveiliging van het ministerie in het algemeen, uitgezonderd de persoonlij
 
 t. het technisch faciliteren van de crisisbeheersingsorganisatie en bedrijfshulpverlening;  
 
-u. het geven van advies over het inkoopbeleid, het uitvoeren van de taken van de Coördinerend Directeur Inkoop en het laten verzorgen van de inkoopdienstverlening.    
+u. het geven van advies over het inkoopbeleid, het uitvoeren van de taken van de Coördinerend Directeur Inkoop en het laten verzorgen van de inkoopdienstverlening.  
 
 ### Artikel  6  
 
@@ -129,7 +129,7 @@ b. inhoudelijke, logistieke, secretariële protocollaire ondersteuning van de se
 
 c. het beleid op het gebied van beveiliging, informatiebeveiliging en het toezicht houden op de naleving daarvan;  
 
-d. de persoonlijke beveiliging van de bewindspersonen en hun huisgenoten en de coördinatie en de bemensing van de crisisbeheersingsorganisatie.    
+d. de persoonlijke beveiliging van de bewindspersonen en hun huisgenoten en de coördinatie en de bemensing van de crisisbeheersingsorganisatie.   
 
 ### Artikel  6a  
 
@@ -142,8 +142,8 @@ b. de eventuele uitvoering van overige door de minister vastgestelde regelingen 
 c. het, na instemming van de plaatsvervangend secretaris-generaal, verrichten van andere dan in dit artikel bedoelde diensten;  
 
 d. het, na instemming van de plaatsvervangend secretaris-generaal, uitvoeren van regelingen voor opdrachtgevers buiten het ministerie.     
-2.  De directeur van het Agentschap SZW is verantwoordelijk voor de werkgeversverplichtingen die voortvloeien uit wet- en regelgeving op het gebied van arbeidsomstandigheden ten aanzien van het Agentschap SZW, voor zover het niet gaat om centraal georganiseerde werkgeversverplichtingen als bedoeld in artikel 6, vijfde lid, onderdeel b, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009.   
-3.  De directeur van het Agentschap SZW is tevens verantwoordelijk voor het inzake van zijn directie optreden als bestuurder in de zin van artikel 1 van de Wet op de ondernemingsraden.   
+2.  De directeur van het Agentschap SZW is verantwoordelijk voor de werkgeversverplichtingen die voortvloeien uit wet- en regelgeving op het gebied van arbeidsomstandigheden ten aanzien van het Agentschap SZW, voor zover het niet gaat om centraal georganiseerde werkgeversverplichtingen als bedoeld in [artikel 6, vijfde lid, onderdeel b, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2009/BWBR0024956/README.md).   
+3.  De directeur van het Agentschap SZW is tevens verantwoordelijk voor het inzake van zijn directie optreden als bestuurder in de zin van [artikel 1 van de Wet op de ondernemingsraden](../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md).  
 
 ### Artikel  6b  
 
@@ -157,7 +157,7 @@ c. het voorbereiden en uitvoeren van de verhuisbewegingen;
 
 d. het bevorderen van de samenhang tussen de huisvesting, de resultaten van de projecten S@men Flexibel van het ministerie van Sociale Zaken en Werkgelegenheid en @nders van het ministerie van Volksgezondheid, Welzijn en Sport en de veranderingen in de bedrijfsvoering, waaronder digitalisering;  
 
-e. de in- en externe communicatie over het Haagse huisvestingsprogramma van het ministerie van Sociale Zaken en Werkgelegenheid en het ministerie van Volksgezondheid, Welzijn en Sport.    
+e. de in- en externe communicatie over het Haagse huisvestingsprogramma van het ministerie van Sociale Zaken en Werkgelegenheid en het ministerie van Volksgezondheid, Welzijn en Sport.   
 
 ### §  4  
 
@@ -170,9 +170,9 @@ e. de in- en externe communicatie over het Haagse huisvestingsprogramma van het 
 
 a. de in artikel 3, eerste lid, onderdeel e, genoemde personeelsaangelegenheden;  
 
-b. de behandeling van klachten als bedoeld in artikel 9:1 van de Algemene wet bestuursrecht, voor zover deze klachten betrekking hebben op gedragingen van de onder hem ressorterende functionarissen.     
-3.  De in het eerste lid genoemde bevoegdheid omvat de bevoegdheid tot het verlenen en vaststellen van subsidies en rijksvergoedingen, het aangaan van verbetertrajecten en het korten op bevoorschotting, voor zover het de uitvoering betreft van regelingen op zijn werkterrein.   
-4.  De in het eerste lid genoemde bevoegdheid omvat voorts de bevoegdheid tot het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op hun eigen verantwoordelijkheden.   
+b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover deze klachten betrekking hebben op gedragingen van de onder hem ressorterende functionarissen.     
+3.  De in het eerste lid genoemde bevoegdheid omvat de bevoegdheid tot het verlenen en vaststellen van subsidies en rijksvergoedingen, het aangaan van verbetertrajecten en het korten op bevoorschotting, voor zover het de uitvoering betreft van regelingen op zijn werkterrein.  
+4. De in het eerste lid genoemde bevoegdheid omvat voorts de bevoegdheid tot het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op hun eigen verantwoordelijkheden. 
 5.  De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde per overeenkomst onder de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen, met dien verstande dat de volgende overeenkomsten mogen worden aangegaan tot een waarde van € 500.000,– per overeenkomst: 
 
 a. overeenkomsten welke gebaseerd zijn op een raamovereenkomst;  
@@ -203,7 +203,7 @@ f. overeenkomsten met betrekking tot de departementsbrede informatievoorziening;
 g. overeenkomsten met betrekking tot de Landsadvocaat inzake advisering en procureurstelling alsmede het instellen van gerechtelijke procedures met betrekking tot beroepschriften van (ex-)medewerkers van het ministerie inzake aangelegenheden verband houdende met de dienstbetrekking;  
 
 h. overeenkomsten met bestrekking tot de arbodienst en het centraal flankerend beleid ten behoeve van herplaatsers.     
-7.  In aanvulling op het vierde lid geldt voor de directeur Bestuursondersteuning dat deze bevoegd is om overeenkomsten met betrekking tot incidentele beleidsinformatie, met uitzondering van overeenkomsten met het Centraal bureau voor de statistiek, aan te gaan tot een waarde van € 500.000,– per overeenkomst.   
+7.  In aanvulling op het vierde lid geldt voor de directeur Bestuursondersteuning dat deze bevoegd is om overeenkomsten met betrekking tot incidentele beleidsinformatie, met uitzondering van overeenkomsten met het Centraal bureau voor de statistiek, aan te gaan tot een waarde van € 500.000,– per overeenkomst.  
 
 ### Artikel  7a  
 
@@ -220,7 +220,7 @@ d. overeenkomsten met betrekking tot systeemontwikkeling, licenties, functioneel
 
 e. overeenkomsten met betrekking tot de technische infrastructuur, de hardware, de kantoorautomatiseringssoftware, de datacommunicatievoorzieningen, de huisvesting, facilitaire voorzieningen en het technisch beheer van geautomatiseerde systemen voor zover geen gebruik wordt gemaakt van de departementale infrastructuur en er geen sprake is van huisvesting in een gebouw waar tevens andere organisatieonderdelen van het ministerie, die niet ressorteren onder de inspecteur-generaal, zijn gehuisvest.     
 3.  In afwijking van artikel 7, vijfde lid, geldt voor de directeur van het Agentschap SZW dat deze bevoegd is om overeenkomsten aan te gaan tot een waarde van ten hoogste € 500.000,– per overeenkomst.   
-4.  De directeur van het Agentschap SZW is bevoegd om beslissingen op bezwaarschriften te nemen die verband houden met de verantwoordelijkheden, genoemd in artikel 6A, eerste lid.   
+4.  De directeur van het Agentschap SZW is bevoegd om beslissingen op bezwaarschriften te nemen die verband houden met de verantwoordelijkheden, genoemd in artikel 6A, eerste lid.  
 
 ### Artikel  7b  
 
@@ -230,7 +230,7 @@ a. de programmadirecteur is bevoegd om namens een bewindspersoon besluiten te ne
 
 b. aan de programmadirecteur wordt mandaat en machtiging verleend tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de in artikel 3, eerste lid, onderdeel e, genoemde personeelsaangelegenheden.  
 
-c. de programmadirecteur is bevoegd tot het afsluiten van overeenkomsten met betrekking tot het voorbereiden en realiseren van het Haagse huisvestingsprogramma van het ministerie van Sociale Zaken en Werkgelegenheid en het ministerie van Volksgezondheid, Welzijn en Sport tot een waarde van € 500.000,– per overeenkomst.    
+c. de programmadirecteur is bevoegd tot het afsluiten van overeenkomsten met betrekking tot het voorbereiden en realiseren van het Haagse huisvestingsprogramma van het ministerie van Sociale Zaken en Werkgelegenheid en het ministerie van Volksgezondheid, Welzijn en Sport tot een waarde van € 500.000,– per overeenkomst.   
 
 ### §  5  
 
@@ -249,24 +249,24 @@ c. verlof van medewerkers;
 d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.     
 2.  In afwijking van het eerste lid kunnen de directeuren bevoegdheden met betrekking tot personeelsaangelegenheden, genoemd in het eerste lid, onderdelen a tot en met d, doorverlenen aan functionarissen die rechtstreeks ressorteren onder rechtstreeks onder hen ressorterende functionarissen, voor zover dit noodzakelijk is vanwege de organisatiestructuur van de directie en voor zover de plaatsvervangend secretaris-generaal daar schriftelijk mee instemt.   
 3.  Onverminderd het bepaalde in het eerste lid kunnen directeuren, na voorafgaande schriftelijke toestemming van de plaatsvervangend secretaris-generaal, hun vertegenwoordigingsbevoegdheden doorverlenen aan functionarissen van een ander organisatieonderdeel, mits de betreffende functionaris daarmee schriftelijk instemt.   
-4.  De (door)verlening van (onder-)mandaat, volmacht en machtiging kan uitsluitend bij een schriftelijk besluit geschieden.   
+4.  De (door)verlening van (onder-)mandaat, volmacht en machtiging kan uitsluitend bij een schriftelijk besluit geschieden.  
 
 ### Artikel  9  
 
-Het Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal SZW 2009 wordt ingetrokken.  
+Het [Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal SZW 2009](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/plaatsvervangend/etc/BWBR0024982/README.md) wordt ingetrokken. 
 
 ### Artikel  10  
 
-Na de inwerkingtreding van deze regeling berust het Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2009 dat genomen is krachtens de artikelen 3, aanhef en onderdeel k, en 11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009 op de artikelen 3, eerste lid, aanhef en onderdeel k, en 9 van deze regeling.  
+Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2009](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directie/bo/szw/2009/BWBR0025904/README.md) dat genomen is krachtens de [artikelen 3, aanhef en onderdeel k](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/secretaris-generaal/2009/BWBR0024991/README.md), en [11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/secretaris-generaal/2009/BWBR0024991/README.md) op de artikelen 3, eerste lid, aanhef en onderdeel k, en 9 van deze regeling. 
 
 ### Artikel  10a  
 
-Met ingang van 1 april 2011 berust het Organisatie-, mandaat- en volmachtbesluit Agentschap SZW 2010 dat genomen is krachtens de artikelen 3, eerste lid, onderdeel k, en 18 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2010 op de artikelen 3, aanhef en onderdeel k, en 8 van deze regeling.  
+Met ingang van 1 april 2011 berust het [Organisatie-, mandaat- en volmachtbesluit Agentschap SZW 2010](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/agentschap/szw/2010/BWBR0028311/README.md) dat genomen is krachtens de [artikelen 3, eerste lid, onderdeel k](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspecteur-generaal/szw/2010/BWBR0027955/README.md), en [18 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2010](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspecteur-generaal/szw/2010/BWBR0027955/README.md) op de artikelen 3, aanhef en onderdeel k, en 8 van deze regeling. 
 
 ### Artikel  11  
 
 1.  Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 september 2009.   
-2.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW.   
+2.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW.  
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -275,4 +275,4 @@ Den Haag
 De 
 Minister van Sociale Zaken en Werkgelegenheid, namens deze: de 
 Secretaris-Generaal, 
-J.F. deLeeuw   
+J.F. de Leeuw     

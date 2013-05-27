@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 mei 2011, nr. BV/M&C/MI/2011/6519, houdende de inrichting van de directie Bedrijfsvoering, alsmede de doorverlening van vertegenwoordigingsbevoegdheden van de directeur Bedrijfsvoering (Organisatie-, mandaat- en volmachtbesluit Bedrijfsvoering 2011)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de artikelen 3, aanhef en onderdeel k, en 8 van het Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW;
+Gelet op de [artikelen 3, aanhef en onderdeel k](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/plaatsvervangend/etc/BWBR0026589/README.md), en [8 van het Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/plaatsvervangend/etc/BWBR0026589/README.md);
 Besluit:     
 ### §  1  
 
@@ -21,21 +21,21 @@ c. *FMH:* FM Haaglanden, facilitair interdepartementaal samenwerkingsverband;
 
 d. *RGD:* Rijksgebouwendienst;  
 
-e. *VijfkeerBlauw:* Interdepartementale samenwerkingsorganisatie voor drukwerk;  
+e. * VijfkeerBlauw:* Interdepartementale samenwerkingsorganisatie voor drukwerk;  
 
 f. *CTM:* Complete Tender Management solution is een online platform voor elektronisch aanbesteden en contractmanagement;  
 
 g. *CDI:* Coördinerend Directeur Inkoop;  
 
-h. *de directiesecretaris:* de directie secretaris van de directie Bedrijfsvoering;  
+h. * de directiesecretaris:* de directie secretaris van de directie Bedrijfsvoering;  
 
 i. *cRMA:* centrale Record Management Applicatie die door P-direkt aan de ministeries ter beschikking wordt gesteld;  
 
-j. *RDS:* reisdeclaratiesysteem;  
+j.  *RDS:* reisdeclaratiesysteem;  
 
-k. *HIS:* Haagse Inkoop Samenwerking, bedrijfseenheid van De Werkmaatschappij van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;  
+k.  *HIS:* Haagse Inkoop Samenwerking, bedrijfseenheid van De Werkmaatschappij van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;  
 
-l. *CPO:* Chief Procurement Officer.    
+l.  *CPO:* Chief Procurement Officer.  
 
 ### §  2  
 
@@ -55,7 +55,7 @@ d. de afdeling Personeel & Organisatie;
 
 e. de afdeling Financiën;  
 
-f. de afdeling Service en Beheer Organisatie Financiële Systemen.    
+f. de afdeling Service en Beheer Organisatie Financiële Systemen.  
 
 ### §  3  
 
@@ -113,7 +113,7 @@ p. het uitvoeren van de taken van de CDI, inhoudende:
 
 8°. het voeren van de regierol richting de HIS;  
 
-9°. het strategisch adviseren bij inkoopvraagstukken.      
+9°. het strategisch adviseren bij inkoopvraagstukken.     
 
 ### Artikel  5  
 
@@ -156,7 +156,7 @@ q. het uitvoeren van alle bedrijfsvoeringstaken ten behoeve van de medewerkers v
 r. het vertegenwoordigen van de directie Bedrijfsvoering in departementale overlegverbanden over informatievoorziening en ICT;  
 
 s. het voeren van het functioneel beheer van het softwarepakket Methodische Aanpak voor het Informatie Management;     
-2.  Het hoofd van de afdeling Managementinformatie & Control wordt bijgestaan door een onder hem ressorterende directiesecretaris annex teamleider.   
+2.  Het hoofd van de afdeling Managementinformatie & Control wordt bijgestaan door een onder hem ressorterende directiesecretaris annex teamleider.  
 
 ### Artikel  6  
 
@@ -185,13 +185,13 @@ j. het verstrekken van SZW-brede informatie over documentbeheer;
 k. het uitvoeren van het functioneel beheer en het applicatiebeheer van ondersteunende systemen;  
 
 l. het meten van de kwaliteit van het archiefbeheer en het uitvoeren van controles op de uitvoering van de archiefwet- en regelgeving conform de Baseline Informatiehuishouding Rijksoverheid.     
-2.  Het hoofd van de afdeling Documentatie, Communicatie & Archief wordt bijgestaan door onder hem ressorterende teamleiders.   
+2.  Het hoofd van de afdeling Documentatie, Communicatie & Archief wordt bijgestaan door onder hem ressorterende teamleiders.  
 
 ### Artikel  7  
 
 1.  Het hoofd van de afdeling Personeel & Organisatie is verantwoordelijk voor: 
 
-a. het adviseren en ondersteunen van het collegiaal overleg bedoeld in artikel 3 van het Organisatie-, mandaat- en volmachtbesluit SZW 2009 en de door de deelnemende functionarissen aan het collegiaal overleg gemandateerde managers met betrekking tot personeels- en organisatieaangelegenheden, zoals loopbaan, opleiding, mobiliteit, arbeidsjuridisch, organisatie en formatie;  
+a. het adviseren en ondersteunen van het collegiaal overleg bedoeld in [artikel 3 van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/plaatsvervangend/etc/BWBR0026589/README.md) en de door de deelnemende functionarissen aan het collegiaal overleg gemandateerde managers met betrekking tot personeels- en organisatieaangelegenheden, zoals loopbaan, opleiding, mobiliteit, arbeidsjuridisch, organisatie en formatie;  
 
 b. het zorgdragen voor de totstandkoming van de dienstverleningovereenkomst met P-Direkt en de Expertisecentra sector Rijk;  
 
@@ -229,7 +229,7 @@ r. het uitvoeren van het functioneel beheer van de registratiesystemen;
 
 s. het verstrekken van SZW-brede informatie over opleidingen;  
 
-t. het ondersteunen van de departementale bestuurder in de zin van de Wet op de Ondernemingsraden en het voeren van het secretariaat van het Departementaal Georganiseerd Overleg;  
+t. het ondersteunen van de departementale bestuurder in de zin van de [Wet op de Ondernemingsraden](../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) en het voeren van het secretariaat van het Departementaal Georganiseerd Overleg;  
 
 u. het verstrekken van SZW-brede informatie over uitgevoerd personeels- en organisatie- beleid;  
 
@@ -257,7 +257,7 @@ e. het leveren van betrouwbare en tijdige HRM-managementinformatie op basis van 
 f. het verstrekken van specifieke SZW- informatie over regels en richtlijnen op het terrein van de personeels- en salarisadministratie;  
 
 g. het ontwikkelen en actueel houden van de werkprocessen van de HR-Ondersteuning P-Direkt.     
-3.  Het hoofd van de afdeling Personeel & Organisatie wordt bijgestaan door onder hem ressorterende teamleiders.   
+3.  Het hoofd van de afdeling Personeel & Organisatie wordt bijgestaan door onder hem ressorterende teamleiders.  
 
 ### Artikel  8  
 
@@ -300,7 +300,7 @@ q. het verstrekken van SZW-brede informatie over het financiële beheer;
 r. het controleren van, het ter verwerking aan bieden aan P-Direkt en het archiveren van declaraties binnen- en buitenlandse dienstreizen van SZW-medewerkers;  
 
 s. het borgen van de verantwoording van de personeels- en salarisuitgaven via P-Direkt/Payroll in de departementale financiële administratie.     
-2.  Het hoofd van de afdeling Financiën wordt bijgestaan door onder hem ressorterende teamleiders.   
+2.  Het hoofd van de afdeling Financiën wordt bijgestaan door onder hem ressorterende teamleiders.  
 
 ### Artikel  8a  
 
@@ -310,7 +310,7 @@ a. het beheren van het financieel administratieve systeem 3F dat de begrotings- 
 
 b. het bieden van ondersteuning bij het gebruik van de onder het beheer van de afdeling staande financiële systemen aan de partijen bij de Samenwerkingsovereenkomst 3F en hun medewerkers;  
 
-c. het realiseren van de activiteiten voor de verdere ontwikkeling van de onder het beheer van de afdeling staande financiële systemen.    
+c. het realiseren van de activiteiten voor de verdere ontwikkeling van de onder het beheer van de afdeling staande financiële systemen.   
 
 ### §  4  
 
@@ -327,7 +327,7 @@ b. het houden van manager-medewerker gesprekken;
 
 c. verlof van medewerkers;  
 
-d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.     
+d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.    
 
 ### Artikel  10  
 
@@ -335,27 +335,27 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 a. het afdoen van informatieve brieven, die betrekking hebben op de taken van de eigen organisatorische eenheid;  
 
-b. het paraferen van stukken waar de directie Bedrijfsvoering geen voortouw in heeft, met uitzondering van stukken waarvan gelet op het belang daarvan redelijkerwijs vermoed kan worden dat deze door de directeur Bedrijfsvoering afgedaan moeten worden.    
+b. het paraferen van stukken waar de directie Bedrijfsvoering geen voortouw in heeft, met uitzondering van stukken waarvan gelet op het belang daarvan redelijkerwijs vermoed kan worden dat deze door de directeur Bedrijfsvoering afgedaan moeten worden.   
 
 ### Artikel  11  
 
-Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijk toestemming van de directeur.  
+Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijk toestemming van de directeur. 
 
 ### Artikel  12  
 
-Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 5.000,– per overeenkomst, voor zover deze betrekking hebben op activiteiten die vallen onder hun verantwoordelijkheid.  
+Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 5.000,– per overeenkomst, voor zover deze betrekking hebben op activiteiten die vallen onder hun verantwoordelijkheid. 
 
 ### Artikel  13  
 
-Aan het hoofd van de afdeling Informatie en Facilitair Management wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 50.000,– per overeenkomst voor zover deze betrekking op het ondertekenen van offertes van SSC ICT, HIS en FMH voor de levering van goederen en diensten op basis van de Dienstverleningsovereenkomst.  
+Aan het hoofd van de afdeling Informatie en Facilitair Management wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 50.000,– per overeenkomst voor zover deze betrekking op het ondertekenen van offertes van SSC ICT, HIS en FMH voor de levering van goederen en diensten op basis van de Dienstverleningsovereenkomst. 
 
 ### Artikel  14  
 
-Aan de leveranciersmanagers van de afdeling Informatie en Facilitair Management wordt een volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 15.000,– per overeenkomst voor zover deze betrekking hebben op het ondertekenen van offertes van SSC ICT, HIS en FMH voor de levering van goederen en diensten op basis van de Dienstverleningsovereenkomst.  
+Aan de leveranciersmanagers van de afdeling Informatie en Facilitair Management wordt een volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 15.000,– per overeenkomst voor zover deze betrekking hebben op het ondertekenen van offertes van SSC ICT, HIS en FMH voor de levering van goederen en diensten op basis van de Dienstverleningsovereenkomst. 
 
 ### Artikel  15  
 
-Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de daartoe aan te wijzen plaatsvervangend directeur.  
+Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de daartoe aan te wijzen plaatsvervangend directeur. 
 
 ### §  5  
 
@@ -364,13 +364,13 @@ Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afw
 ### Artikel  16  
 
 1.  Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 september 2009.   
-2.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit Bedrijfsvoering 2011.   
+2.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit Bedrijfsvoering 2011.  
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
 10 mei 2011   
 
 De 
-Minister van Sociale Zaken en Werkgelegenheid,namens deze:
-de directeur Bedrijfsvoering,
-J.H.Maas   
+Minister van Sociale Zaken en Werkgelegenheid, namens deze: 
+de directeur Bedrijfsvoering, 
+J.H. Maas     
