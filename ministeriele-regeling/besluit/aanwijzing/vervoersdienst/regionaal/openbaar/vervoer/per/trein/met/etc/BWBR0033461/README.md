@@ -17,7 +17,7 @@ Besluit:
 | Vervoersdienst:  | Stations:  |
 | Zwolle – Raalte  | Zwolle, Heino, Raalte  |
 
-2.  De in het eerste lid bedoelde bevoegdheid heeft betrekking op het openbaar vervoer per trein na 13 december 2014.   
+2.  De in het eerste lid bedoelde bevoegdheid heeft betrekking op het openbaar vervoer per trein na 13 december 2014.  
 
 ### Artikel  2  
 
@@ -28,13 +28,13 @@ Besluit:
 | Vervoersdienst:  | Stations:  |
 | Raalte – Wierden – Enschede  | Raalte, Nijverdal, Wierden, Almelo, Almelo De Riet, Borne, Hengelo, Enschede Drienerlo, Enschede.  |
 
-2.  De in het eerste lid bedoelde bevoegdheid heeft betrekking op het openbaar vervoer per trein na 13 december 2014.   
+2.  De in het eerste lid bedoelde bevoegdheid heeft betrekking op het openbaar vervoer per trein na 13 december 2014.  
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de eerste dag na de dagtekening waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag na de dagtekening waarin zij wordt geplaatst. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Infrastructuur en Milieu,
-W.J.Mansveld   
+Staatssecretaris van Infrastructuur en Milieu, 
+W.J. Mansveld     

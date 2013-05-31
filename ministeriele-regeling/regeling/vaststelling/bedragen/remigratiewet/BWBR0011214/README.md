@@ -3,21 +3,21 @@
 ##Regeling vaststelling bedragen Remigratiewet
 
 De Minister voor Grote Steden- en Integratiebeleid;  
-Gelet op de [artikelen 2, eerste en tweede lid](../../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md), [3, eerste lid](../../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md), [4](../../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md), [6](../../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md), [7, eerste lid](../../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md), en [10, eerste lid, van het Besluit voorzieningen Remigratiewet](../../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md),
+Gelet op de artikelen 2, eerste en tweede lid, 3, eerste lid, 4, 6, 7, eerste lid, en 10, eerste lid, van het Besluit voorzieningen Remigratiewet,
 Besluit:    
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder besluit: het [Besluit voorzieningen Remigratiewet](../../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md).  
+In deze regeling wordt verstaan onder besluit: het Besluit voorzieningen Remigratiewet.  
 
 ### Artikel  2  
 
-De normbedragen van de kosten van het vervoer van de remigrant, zijn partner en hun kinderen, bedoeld in [artikel 2, eerste lid, van het besluit](../../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md), worden vastgesteld ter hoogte van de bedragen vermeld in de bij deze regeling behorende bijlage 1.  
+De normbedragen van de kosten van het vervoer van de remigrant, zijn partner en hun kinderen, bedoeld in artikel 2, eerste lid, van het besluit, worden vastgesteld ter hoogte van de bedragen vermeld in de bij deze regeling behorende bijlage 1.  
 
 ### Artikel  3  
 
-1.  De normbedragen van de kosten van het vervoer van de bagage, bedoeld in [artikel 2, tweede lid, van het besluit](../../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md), worden vastgesteld ter hoogte van de bedragen vermeld in de bij deze regeling behorende bijlage 2.   
-2.  De maximaal voor vergoeding in aanmerking komende omvang van de bagage, bedoeld in [artikel 2, tweede lid, van het besluit](../../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md), wordt vastgesteld: 
+1.  De normbedragen van de kosten van het vervoer van de bagage, bedoeld in artikel 2, tweede lid, van het besluit, worden vastgesteld ter hoogte van de bedragen vermeld in de bij deze regeling behorende bijlage 2.   
+2.  De maximaal voor vergoeding in aanmerking komende omvang van de bagage, bedoeld in artikel 2, tweede lid, van het besluit, wordt vastgesteld: 
 
 a. voor de remigrant op 3 m <sup>3</sup>;  
 
@@ -29,22 +29,22 @@ d. voor elk kind van 11 jaar of jonger op 1 m <sup>3</sup>.
 
 ### Artikel  4  
 
-1.  Het maximale bedrag van de kosten van het vervoer van een bedrijfsinventaris, bedoeld in [artikel 3, eerste lid, van het besluit](../../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md), wordt vastgesteld op € 4540,-.   
-2.  Het maximale bedrag van de kosten van het vervoer van een personenauto of andere hulpmiddelen voor een gehandicapte, bedoeld in [artikel 3, eerste lid, van het besluit](../../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md), wordt vastgesteld op € 2270,-   
-3.  Het maximale bedrag van de opslagkosten per dag, bedoeld in [artikel 4 van het besluit](../../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md), wordt vastgesteld op € 35,-.   
+1.  Het maximale bedrag van de kosten van het vervoer van een bedrijfsinventaris, bedoeld in artikel 3, eerste lid, van het besluit, wordt vastgesteld op € 4540,-.   
+2.  Het maximale bedrag van de kosten van het vervoer van een personenauto of andere hulpmiddelen voor een gehandicapte, bedoeld in artikel 3, eerste lid, van het besluit, wordt vastgesteld op € 2270,-   
+3.  Het maximale bedrag van de opslagkosten per dag, bedoeld in artikel 4 van het besluit, wordt vastgesteld op € 35,-.   
 
 ### Artikel  5  
 
-1.  De vergoedingen, bedoeld in de [artikelen 2](../../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md), [3](../../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md) en [4 van het besluit](../../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md), worden in de regel voor het vertrek uit Nederland uitbetaald door overmaking op een door de remigrant aangewezen bankrekening. Indien de remigrant, zijn partner of hun kinderen niet de Nederlandse nationaliteit bezitten worden de vergoedingen niet eerder uitbetaald dan nadat zij aan hun verplichting ingevolge artikel 57 van het Vreemdelingenbesluit hebben voldaan.   
-2.  De tegemoetkoming in de kosten van hervestiging, bedoeld in [artikel 5 van het besluit](../../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md), wordt uitbetaald in het bestemmingsland door middel van een in het internationale be-talingsverkeer reguliere betaalwijze. Deze uitbetaling vindt plaats op een zodanig tijdstip dat de remigrant bij aankomst in het bestemmingsland over de tegemoetkoming kan beschikken.   
+1.  De vergoedingen, bedoeld in de artikelen 2, 3 en 4 van het besluit, worden in de regel voor het vertrek uit Nederland uitbetaald door overmaking op een door de remigrant aangewezen bankrekening. Indien de remigrant, zijn partner of hun kinderen niet de Nederlandse nationaliteit bezitten worden de vergoedingen niet eerder uitbetaald dan nadat zij aan hun verplichting ingevolge artikel 57 van het Vreemdelingenbesluit hebben voldaan.   
+2.  De tegemoetkoming in de kosten van hervestiging, bedoeld in artikel 5 van het besluit, wordt uitbetaald in het bestemmingsland door middel van een in het internationale be-talingsverkeer reguliere betaalwijze. Deze uitbetaling vindt plaats op een zodanig tijdstip dat de remigrant bij aankomst in het bestemmingsland over de tegemoetkoming kan beschikken.   
 
 ### Artikel  6  
 
-De bruto bedragen van de remigratie-uitkering, bedoeld in [artikel 7, eerste lid, van het besluit](../../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md), worden vastgesteld ter hoogte van de bedragen vermeld in de bij deze regeling behorende bijlage 3.  
+De bruto bedragen van de remigratie-uitkering, bedoeld in artikel 7, eerste lid, van het besluit, worden vastgesteld ter hoogte van de bedragen vermeld in de bij deze regeling behorende bijlage 3.  
 
 ### Artikel  7  
 
-De bruto bedragen van de tegemoetkoming in de kosten van het zelf afsluiten van een verzekeringsovereenkomst tegen ziektekosten in het bestemmingland, bedoeld in [artikel 10, eerste lid, van het besluit](../../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md), worden vastgesteld ter hoogte van de bedragen vermeld in de bij deze regeling behorende bijlage 4.  
+De bruto bedragen van de tegemoetkoming in de kosten van het zelf afsluiten van een verzekeringsovereenkomst tegen ziektekosten in het bestemmingland, bedoeld in artikel 10, eerste lid, van het besluit, worden vastgesteld ter hoogte van de bedragen vermeld in de bij deze regeling behorende bijlage 4.  
 
 ### Artikel  8  
 
@@ -52,7 +52,7 @@ Deze regeling treedt in werking op het tijdstip waarop de wet in werking treedt.
 
 ### Artikel  9  
 
-Deze regeling wordt aangehaald als: [Regeling vaststelling bedragen Remigratiewet](../../../../../../ministeriele-regeling/regeling/vaststelling/bedragen/remigratiewet/BWBR0011214/README.md).  
+Deze regeling wordt aangehaald als: Regeling vaststelling bedragen Remigratiewet.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
@@ -67,7 +67,7 @@ R.H.L.M. van Boxtel
 De normbedragen van de kosten van vervoer van de remigrant, zijn partner en hun kinderen van Nederland naar het bestemmingsland worden vastgesteld op:  
 
 | --- | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 |  *Bij remigratie naar*   |  *per remigrant/*    *per partner/*    *per kind van 12 jaar en ouder*   |  *per kind van 2 tot 12 jaar*   |  *per kind jonger dan 2 jaar*   |
 | --- | --- | --- | --- |
 | Afghanistan  | 790,-  | 395,-  | 80,-  |
@@ -121,6 +121,7 @@ De normbedragen van de kosten van vervoer van de remigrant, zijn partner en hun 
 | Macedonië (FYROM)  | 195,-  | 100,-  | 20,-  |
 | Malta  | 160,–  | 80,–  | 16,–  |
 | Marokko  | 320,-  | 160,-  | 30,-  |
+| Mexico  | 1.465,–  | 733,–  | 146,–  |
 | Nepal  | 1453,–  | 727,–  | 146,–  |
 | Nicaragua  | 1180,-  | 590,-  | 120,-  |
 | Nieuw-Zeeland  | 770,-  | 515,-  | 75,-  |
@@ -165,7 +166,7 @@ De normbedragen van de kosten van vervoer van de remigrant, zijn partner en hun 
 De normbedragen van de kosten van vervoer van de remigrant, zijn partner en hun kinderen binnen het bestemmingsland worden vastgeld op:  
 
 | --- | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 |  *Bij remigratie naar*   |  *per remigrant/*    *per partner/*    *per kind van 12 jaar en ouder*   |  *per kind van 2 tot 12 jaar*   |  *per kind jonger dan 2 jaar*   |
 | --- | --- | --- | --- |
 | Afghanistan  | 45,-  | 25,-  | 5,-  |
@@ -219,6 +220,7 @@ De normbedragen van de kosten van vervoer van de remigrant, zijn partner en hun 
 | Macedonië (FYROM)  | 40,-  | 20,-  | 5,-  |
 | Malta  | 40,–  | 20,–  | 5,–  |
 | Marokko  | 50,-  | 25,-  | 5,-  |
+| Mexico  | 105,–  | 55,–  | 12,–  |
 | Nepal  | 50,–  | 25,–  | 5,–  |
 | Nicaragua  | 45,-  | 25,-  | 5,-  |
 | Nieuw-Zeeland  | 65,-  | 30,-  | 5,-  |
@@ -263,7 +265,7 @@ De normbedragen van de kosten van vervoer van de remigrant, zijn partner en hun 
 De normbedragen van het vervoer van de bagage per kubieke meter worden vastgesteld op:  
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 |  *Bij remigratie naar:*   |  *per kubieke meter van Nederland naar het bestemmingsland*   |  *per kubieke meter binnen het bestemmingsland*   |
 | --- | --- | --- |
 | Afghanistan  | 375,-  | 80,-  |
@@ -317,6 +319,7 @@ De normbedragen van het vervoer van de bagage per kubieke meter worden vastgeste
 | Macedonië (FYROM)  | 340,-  | 30,-  |
 | Malta  | 315,–  | 35,–  |
 | Marokko  | 325,-  | 20,-  |
+| Mexico  | 507,–  | 160,–  |
 | Nepal  | 355,–  | 55,–  |
 | Nicaragua  | 535,-  | 80,-  |
 | Nieuw-Zeeland  | 490,-  | 90,-  |
@@ -363,7 +366,7 @@ De normbedragen van het vervoer van de bagage per kubieke meter worden vastgeste
 ####Indeling bestemmingslanden in categorieën
 
 | Bestemmingsland  | Categorie  |
-|:---|:---|
+|---|---|
 | Afghanistan  | D  |
 | Algerije  | D  |
 | Angola  | D  |
@@ -414,6 +417,7 @@ De normbedragen van het vervoer van de bagage per kubieke meter worden vastgeste
 | Macedonië (FYROM)  | B  |
 | Malta  | B  |
 | Marokko  | B  |
+| Mexico  | B  |
 | Nepal  | D  |
 | Nicaragua  | E  |
 | Nieuw-Zeeland  | F  |
@@ -455,7 +459,7 @@ De normbedragen van het vervoer van de bagage per kubieke meter worden vastgeste
 ### B  
 
 | Bruto periodieke remigratie-uitkering per 1-1-2013  | Indexering 2013: 0,64%  |--- |--- | Remigratie vóór 1-april-2000  | Remigratie op of na 1-april-2000  | Leefsituatie,  |--- | Geen Zvw  | Zvw  | Geen Zvw  | Zvw  |--- | categorie  | Geen AOW  | AOW  | Geen AOW  | AOW  | Geen AOW  | AOW  | Geen AOW  | AOW  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *Samenwonend*   | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | A  | 422,02  | 422,02  | 422,02  | 424,06  | 497,14  | 497,14  | 515,99  | 517,82  |
 | --- | B  | 490,08  | 490,08  | 490,98  | 495,20  | 577,32  | 577,32  | 620,22  | 622,85  |
@@ -501,7 +505,7 @@ De normbedragen van het vervoer van de bagage per kubieke meter worden vastgeste
 ####Bruto tegemoetkoming ziektekosten per 1 januari 2013
 
 |--- | Geen AOW  | AOW  |
-|:---|:---|:---|
+|---|---|---|
 |  *SAMENWONEND*   |
 | A  | 102,09  | 102,09  |
 | B  | 108,73  | 108,73  |

@@ -10,7 +10,7 @@ Besluit:
 
 1.  Vacatures worden voor sollicitatie opengesteld door middel van publicatie in het Nederlands Juristenblad en één of meer andere vak-, dag- of weekbladen.   
 2.  De sollicitatietermijn sluit 2 weken na datum van de publicatie, bedoeld in het eerste lid.   
-3.  Sollicitaties dienen gericht te zijn aan Hare Majesteit de Koningin. Zij bevatten een opgave van referenten uit de huidige werkkring en zijn vergezeld van een Curriculum Vitae. Sollicitaties worden gestuurd aan de directeur van de Eenheid Secretariaten Tuchtcolleges voor de Gezondheidszorg van het Ministerie van Volksgezondheid, Welzijn en Sport, Postbus 20350, 2500 EJ Den Haag.   
+3.  Sollicitaties dienen gericht te zijn aan Zijne Majesteit de Koning. Zij bevatten een opgave van referenten uit de huidige werkkring en zijn vergezeld van een Curriculum Vitae. Sollicitaties worden gestuurd aan de directeur van de Eenheid Secretariaten Tuchtcolleges voor de Gezondheidszorg van het Ministerie van Volksgezondheid, Welzijn en Sport, Postbus 20350, 2500 EJ Den Haag.   
 
 ### Artikel  2  
 

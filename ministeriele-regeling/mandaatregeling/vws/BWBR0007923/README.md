@@ -121,7 +121,7 @@ j. de hoofden van de direct onder de functionarissen, genoemd onder a tot en met
 
 1.  De Minister ondertekent de stukken gericht aan: 
 
-a. de Koningin;  
+a. de Koning;  
 
 b. de Eerste en Tweede Kamer der Staten-Generaal;  
 
@@ -149,11 +149,7 @@ f. stukken, inhoudende aanwijzingen aan een ander bestuursorgaan op grond van ee
 
 ####Secretaris-Generaal
 
-In afwijking van de artikelen 9 en 10 heeft de Secretaris-Generaal het mandaat met betrekking tot de stukken: 
-
-a. bestemd voor de Nationale ombudsman;  
-
-b. behelzende geheel of gedeeltelijk afwijzende beslissingen in het kader van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).    
+In afwijking van de artikelen 9 en 10 heeft de Secretaris-Generaal het mandaat met betrekking tot de stukken bestemd voor de Nationale Ombudsman.  
 
 ### Artikel  13  
 
@@ -180,9 +176,11 @@ c. ten aanzien van hun eigen werkterrein, de functionarissen genoemd in artikel 
 
 ### Artikel  15  
 
-#### [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) 
+#### Wet openbaarheid van bestuur 
 
-In afwijking van artikel 10 heeft de Directeur Communicatie mandaat ten aanzien van stukken in het kader van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), niet inhoudende geheel of gedeeltelijk afwijzende besluiten.  
+1.  In afwijking van artikel 10 heeft de Directeur Communicatie mandaat met betrekking tot stukken in het kader van de Wet openbaarheid van bestuur, niet inhoudende geheel of gedeeltelijk afwijzende besluiten.   
+2.  In afwijking van de artikelen 9 en 10 heeft de Secretaris-Generaal mandaat met betrekking tot de stukken behelzende geheel of gedeeltelijk afwijzende besluiten in het kader van de Wet openbaarheid van bestuur.   
+3.  Onverminderd artikel 7 wordt voor de duur van de afwezigheid of verhindering van de Secretaris-Generaal en de plaatsvervangend Secretaris-Generaal het mandaat uitgeoefend door de Directeur Wetgeving en Juridische Zaken met betrekking tot stukken, behelzende geheel of gedeeltelijk afwijzende besluiten in het kader van de Wet openbaarheid van bestuur.   
 
 ### Hoofdstuk  5  
 

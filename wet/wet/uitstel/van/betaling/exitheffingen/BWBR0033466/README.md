@@ -11,26 +11,26 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Artikel  I  
 
-Wijzigt de Invorderingswet 1990.   
+Wijzigt de Invorderingswet 1990. 
 
 ### Artikel  II  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 29 november 2011.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 29 november 2011. 
 
 ### Artikel  III  
 
-Deze wet wordt aangehaald als: Wet uitstel van betaling exitheffingen.  
+Deze wet wordt aangehaald als: Wet uitstel van betaling exitheffingen. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 14 mei 2013  
 Willem-Alexander  
 
-De Staatssecretaris van Financiën, 
+De Staatssecretaris van Financiën,  
 F.H.H. Weekers   
 
 de *negenentwintigste* mei 2013 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    
