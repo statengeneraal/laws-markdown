@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 1 december 1986, Directoraat-Generaal Sociale Zekerheid, Directie Sociale Verzekeringen, Hoofdafdeling Werknemersverzekeringen, Afdeling Werkloosheidsregelingen, nr. SZ/SV/SVW/86/10095;
 
-Gelet op [artikel 16, derde lid, van de Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) (Stb. 1986, 566);
+Gelet op artikel 16, derde lid, van de Werkloosheidswet (Stb. 1986, 566);
 
 De Raad van State gehoord (advies van 18 december 1986, nr. W12.86.0635);
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Als opeenvolgend verlies van arbeidsuren als bedoeld in [artikel 16, vijfde lid, van de Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) wordt beschouwd: 
+1.  Als opeenvolgend verlies van arbeidsuren als bedoeld in 16, derde lid, van de Werkloosheidswet wordt beschouwd: 
 
 a. een eerste verlies van minder dan vijf of minder dan de helft van het aantal arbeidsuren per kalenderweek, waarna in een andere kalenderweek een of meer volgende verliezen van arbeidsuren zich voordoen in een periode van een jaar na de dag waarop zich het eerste verlies van minder dan vijf of minder dan de helft van het aantal arbeidsuren voordoet;  
 
@@ -36,11 +36,11 @@ Opeenvolgend verlies van arbeidsuren als bedoeld in artikel 1, onderdeel a, word
 
 1.  Het verlies van arbeidsuren, bedoeld in artikel 1, dat zich voordoet in een kalenderweek gelegen na de dag waarop zich een eerder verlies van arbeidsuren voordoet, wordt berekend door het aantal arbeidsuren in die kalenderweek in mindering te brengen op het gemiddeld aantal arbeidsuren in de kalenderweken van het voorgaande verlies tot en met de kalenderweek voorafgaande aan die waarin het volgend verlies plaatsvindt.   
 2.  Indien een opgeteld verlies van arbeidsuren, vermeerderd met het resterend aantal arbeidsuren groter is dan het aantal arbeidsuren voorafgaand aan een eerder verlies van arbeidsuren, wordt de omvang van het laatste verlies zodanig vastgesteld dat het opgetelde verlies, vermeerderd met het resterend aantal arbeidsuren, gelijk is aan het aantal arbeidsuren voorafgaande aan het eerdere verlies van arbeidsuren.   
-3.  Indien toepassing van dit artikel tot een kennelijk onredelijk resultaat leidt is het UWV bevoegd bij de berekening een of meer kalenderweken en de in die weken gewerkte uren buiten aanmerking te laten.   
+3.  Indien toepassing van dit artikel tot een kennelijk onredelijk resultaat leidt is het UWV bevoegd bij de berekening een of meer kalenderweken en de in die weken gelegen arbeidsuren buiten aanmerking te laten.   
 
 ### Artikel  5  
 
-Voor de werknemer, bedoeld in [artikel 18 van de Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), wordt als periode voor de berekening van het aantal gewerkte arbeidsuren in aanmerking genomen het aantal kalenderweken waarin hij arbeid heeft verricht in de dienstbetrekking waaruit hij arbeidsuren heeft verloren, met een maximum van 26 kalenderweken.  
+Voor de werknemer, bedoeld in artikel 18 van de Werkloosheidswet, wordt als periode voor de berekening van het aantal arbeidsuren in aanmerking genomen het aantal kalenderweken waarin hij arbeidsuren heeft gehad in de dienstbetrekking waaruit hij arbeidsuren heeft verloren, met een maximum van 26 kalenderweken.  
 
 ### Artikel  6  
 

@@ -411,7 +411,7 @@ Justitiële gegevens worden ten behoeve van de uitvoering van de [Vreemdelingenw
 
 a. Onze Minister voor Immigratie, Integratie en Asiel;  
 
-b. de personen, bedoeld in de [artikelen 46](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [47 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).    
+b. de personen, bedoeld in de [artikelen 46](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [47](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [47a van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).    
 
 ### Artikel  20  
 

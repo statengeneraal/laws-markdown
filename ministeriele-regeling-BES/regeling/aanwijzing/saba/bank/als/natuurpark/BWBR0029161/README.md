@@ -2,18 +2,28 @@
 
 ##Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 15 december 2010, nr. 169929, houdende aanwijzing van de Saba Bank als natuurpark
 
+De Staatssecretaris van Economische Zaken, Landbouw en Innovatie,  
+In overeenstemming met de Minister van Infrastructuur en Milieu;
+
+Gelet op artikel 2a en 8d, eerste lid, van de Wet grondslagen natuurbeheer en -bescherming BES;
+Besluit:    
+
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a. *wet:*[Wet grondslagen natuurbeheer en -bescherming BES](../../../../../../../../wet-BES/wet/grondslagen/natuurbeheer-/en/bescherming/bes/BWBR0028434/README.md);  
+a. *wet:*Wet grondslagen natuurbeheer en -bescherming BES;  
 
 b. *minister:* Minister van Economisch Zaken, Landbouw en Innovatie.    
 
 ### Artikel  2  
 
-1.  De Saba Bank wordt aangewezen als natuurpark als bedoeld in [artikel 2a van de wet](../../../../../../../../wet-BES/wet/grondslagen/natuurbeheer-/en/bescherming/bes/BWBR0028434/README.md).   
+1.  De Saba Bank wordt aangewezen als natuurpark als bedoeld in artikel 2a van de wet.   
 2.  Het natuurpark, bedoeld in het eerste lid, omvat het gebied, zoals aangegeven op de kaart opgenomen in de bijlage bij deze regeling.   
+
+### Artikel  2a  
+
+Het is verboden zich met een schip van 300 GT of meer te begeven binnen het natuurpark, bedoeld in artikel 2, eerste lid.  
 
 ### Artikel  3  
 
@@ -25,7 +35,7 @@ b. *minister:* Minister van Economisch Zaken, Landbouw en Innovatie.
 
 ### Artikel  4  
 
-1.  De minister kan ontheffing verlenen van het verbod, bedoeld in artikel 3, eerste lid.   
+1.  De minister kan ontheffing verlenen van de verboden, bedoeld in artikelen 2a en 3, eerste lid.   
 2.  De minister verleent een ontheffing, bedoeld in het eerste lid, slechts indien de aanvrager heeft aangetoond dat: 
 
 a. de ontheffing nodig is voor het verrichten van wetenschappelijk onderzoek dan wel voor instructieve doeleinden, en  
@@ -54,22 +64,22 @@ H.Bleker
 
 ####bij artikel 2, tweede lid , van de Regeling aanwijzing Saba Bank als natuurpark
 
-Kaartje voor aanwijzing Sababank als nationaal park   ![248268](http://wetten.overheid.nl/Illustration/248268)
-De omhullende lijn heeft de volgende coördinaten in graden, minuten en seconden in WGS84, gevisualiseerd met de blauwe cirkels:  
+![]()
+Kaartje voor aanwijzing Saba Bank als nationaal park  De omhullende lijn heeft de volgende coördinaten in graden, minuten en seconden in WGS84, gevisualiseerd met de blauwe cirkels:  
 
 | --- | --- | --- |
-|:---|:---|:---|
-| 17 27  | 3.4669 N 63 56  | 8.2227 W  |
-| 17 29  | 0.0843 N 63 55  | 5.1235 W  |
-| 17 27  | 56.1354 N 63 43  | 19.2013 W  |
-| 17 38  | 1.5182 N 63 27  | 24.8261 W  |
-| 17 43  | 20.903 N 63 32  | 44.2657 W  |
-| 17 45  | 58.6584 N 63 29  | 58.6303 W  |
-| 17 40  | 20.5639 N 63 21  | 6.2309 W  |
-| 17 30  | 52.9201 N 63 10  | 54.9575 W  |
-| 17 23  | 47.8041 N 63 11  | 14.676 W  |
-| 17 16  | 16.0527 N 63 15  | 50.735 W  |
-| 17 13  | 26.5665 N 63 26  | 53.2765 W  |
-| 17 10  | 33.2692 N 63 41  | 48.4962 W  |
-| 17 20  | 50.9049 N 63 49  | 53.5713 W.  |
+|---|---|---|
+| 1.  | 17° 27′.06 N  | 063° 56′.14 W  |
+| 2.  | 17° 29′.00 N  | 063° 55′.09 W  |
+| 3.  | 17° 27′.94 N  | 063° 43′.32 W  |
+| 4.  | 17° 38′.03 N  | 063° 27′.41 W  |
+| 5.  | 17° 43′.35 N  | 063° 32′.74 W  |
+| 6.  | 17° 45′.98 N  | 063° 29′.98 W  |
+| 7.  | 17° 40′.34 N  | 063° 21′.10 W  |
+| 8.  | 17° 30′.88 N  | 063° 10′.92 W  |
+| 9.  | 17° 23′.80 N  | 063° 11′.25 W  |
+| 10.  | 17° 16′.27 N  | 063° 15′.85 W  |
+| 11.  | 17° 13′.44 N  | 063° 26′.89 W  |
+| 12.  | 17° 10′.55 N  | 063° 41′.81 W  |
+| 13.  | 17° 20′.85 N  | 063° 49′.89 W  |
 
