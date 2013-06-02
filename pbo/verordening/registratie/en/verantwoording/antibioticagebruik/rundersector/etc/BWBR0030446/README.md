@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Productschap Vee en Vlees van 30 juni 2011 houdende verplichtingen tot registratie en verantwoording van het gebruik van antibiotica in de rundersector (Verordening registratie en verantwoording antibioticagebruik rundersector (PVV) 2011)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op de [artikelen 93](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 10 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op de artikelen 93, 95 en 104 van de Wet op de bedrijfsorganisatie en artikel 10 van het Instellingsbesluit Productschap Vee en Vlees;
 
 Gehoord de commissie Diergezondheid en Kwaliteit Runderen,
 Besluit:    
@@ -13,9 +13,9 @@ Besluit:
 In deze verordening wordt verstaan onder:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
-| a.  | UBN  | :  | uniek bedrijfsnummer als gedefinieerd in [artikel 1, onder ee., van de Regeling identificatie en registratie dieren](../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) (Stcrt. 2004, 242);  |
-| b.  | rund  | :  | rund als bedoeld in artikel 2, tweede lid, onder b) en c) van Richtlijn 64/432/EEG, behorende tot de familie der Bovidae en het geslacht Bos en de subfamilie Bovinae tak Bovini;  |
+|---|---|---|---|
+| a.  | UBN  | :  | uniek bedrijfsnummer als gedefinieerd in artikel 1, onder ee., van de Regeling identificatie en registratie dieren (Stcrt. 2004, 242);  |
+| b.  | rund  | :  | rund als bedoeld in artikel 2, tweede lid, onder b) en c) van Richtlijn 64/432/EEG, behorende tot de familie der Bovidae en de subfamilie Bovinae tak Bovini, uitgezonderd runderen bestemd voor de kalfsvleesproductie en niet ouder dan twaalf maanden;  |
 | c.  | antibioticum  | :  | antimicrobieel diergeneesmiddel;  |
 | d.  | ondernemer  | :  | natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld;  |
 | e.  | houder  | :  | ondernemer die al dan niet voor eigen rekening en risico vijf of meer runderen houdt;  |
@@ -26,7 +26,9 @@ In deze verordening wordt verstaan onder:
 | j.  | productschap  | :  | Productschap Vee en Vlees;  |
 | k.  | bestuur  | :  | bestuur van het productschap;  |
 | l.  | voorzitter  | :  | voorzitter van het productschap;  |
-| m.  | erkend kwaliteitssysteem  | :  | kwaliteitssysteem dat door de voorzitter ter zake van de registratie en verantwoording van antibiotica gebruik is erkend.  |
+| m.  | erkend kwaliteitssysteem  | :  | kwaliteitssysteem dat door de voorzitter ter zake van de registratie en verantwoording van antibiotica gebruik is erkend;  |
+| n.  | slachterij, be- of verwerker  | :  | ondernemer die zich toelegt op het slachten van runderen of op de be- of verwerking van rundvlees;  |
+| o.  | exporteur  | :  | ondernemer die in Nederland gehouden runderen over de Nederlandse grens exporteert.  |
 
 ####Registratie
 
@@ -41,7 +43,7 @@ naam en registratienummer van de dierenarts;
 
 de datum van levering van het antibioticum, naam en nummer van het middel, EAN-code en hoeveelheid;  
 
-leeftijdscategorie van de runderen waaraan de antibiotica is toegediend;  
+leeftijdscategorie van de runderen ten behoeve waarvan de antibiotica is geleverd;  
 
 het gemiddelde aantal gehouden runderen per dag, berekend over het voorgaande jaar, dat gehouden wordt op het bedrijf met het desbetreffende UBN.     
 3.  De voorzitter kan namens het bestuur, in aanvulling op het bepaalde in het tweede lid,bij besluit bepalen welke gegevens moeten worden doorgegeven aan de databank.   
@@ -75,21 +77,24 @@ het gemiddelde aantal gehouden runderen per dag, berekend over het voorgaande ja
 4.  De houder zorgt er voor dat de controle-instantie een rapport van bevindingen opstelt naar aanleiding van de controle en zorgt er tevens voor dat dit rapport uiterlijk binnen een maand na de verrichte controle in handen wordt gesteld van de voorzitter.   
 5.  In het geval het rapport van bevindingen hiertoe aanleiding geeft kan de voorzitter de houder gelasten tot het op kosten van de houder doen uitvoeren van een hercontrole.   
 6.  Het in het derde lid bedoelde besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
+7.  Het is de houder van in Nederland gehouden runderen verboden runderen af te voeren naar een andere houder of een slachterij, be- of verwerker of exporteur, indien in de databank, bedoeld in artikel 2, niet is geregistreerd dat hij heeft voldaan aan de registratieverplichtingen, bedoeld in artikel 2, de verplichtingen tot het opstellen van het bedrijfsgezondheidsplan en het bedrijfsbehandelplan, bedoeld in artikel 3, en de controleverplichting, bedoeld in dit artikel.   
+8.  De slachterij, be- of verwerker, exporteur en houder zijn verplicht om voorafgaand aan de ontvangst van in Nederland gehouden runderen in de databank, bedoeld in artikel 2, te verifiëren of de voorgaande houder aan de controleverplichtingen, bedoeld in dit artikel.   
+9.  Het is de houder, slachterij, be- of verwerker en exporteur verboden runderen aan te voeren afkomstig van een houder van in Nederland gehouden runderen die volgens de registratie in de databank niet heeft voldaan aan de registratieverplichtingen, bedoeld in artikel 2, de verplichtingen tot het opstellen van het bedrijfsgezondheidsplan en het bedrijfsbehandelplan, bedoeld in artikel 3, en de controleverplichting, bedoeld in dit artikel.   
 
 ####Toezicht op de naleving
 
 ### Artikel  6  
 
 1.  Het toezicht op de naleving van het bij of krachtens de verordening bepaalde wordt namens het productschap uitgeoefend door toezichthouders die hiervoor door de secretaris van het productschap, namens het bestuur, bij besluit zijn aangewezen.   
-2.  De houder is verplicht: 
+2.  De houder, slachterij, be- of verwerker en exporteur zijn verplicht: 
 
 a. aan de aangewezen toezichthouders al die gegevens te verstrekken of te doen verstrekken, die nodig zijn voor de vervulling van hun taak;  
 
 b. aan de aangewezen toezichthouders inzage te geven of te doen geven van die boeken en bescheiden, die nodig zijn voor de vervulling van hun taak;  
 
-c. aan de aangewezen toezichthouders te allen tijde toegang te geven of te doen geven tot de bedrijfsruimten en tot die plaatsen of vervoermiddelen, waar of waarin voorraden, tot het bedrijf van de houder behorende, zijn opgeslagen of worden vervoerd;  
+c. aan de aangewezen toezichthouders te allen tijde toegang te geven of te doen geven tot de bedrijfsruimten en tot die plaatsen of vervoermiddelen, waar of waarin voorraden, tot het bedrijf van de houder, slachterij, be- of verwerker en exporteur behorende, zijn opgeslagen of worden vervoerd;  
 
-d. te gedogen dat de aangewezen toezichthouders monsters nemen uit de voorraden, waaronder begrepen verpakkingsmateriaal, van het bedrijf van de houder, ongeacht de plaats waar of waarin zich die voorraden bevinden en alsdan de van hem gevorderde medewerking verlenen overeenkomstig de aanwijzingen en het toezicht van die toezichthouders;  
+d. te gedogen dat de aangewezen toezichthouders monsters nemen uit de voorraden, waaronder begrepen verpakkingsmateriaal, van het bedrijf van de houder, slachterij, be- of verwerker en exporteur, ongeacht de plaats waar of waarin zich die voorraden bevinden en alsdan de van hem gevorderde medewerking verlenen overeenkomstig de aanwijzingen en het toezicht van die toezichthouders;  
 
 e. voor het overige alle medewerking te verlenen ter vervulling van de aan de toezichthouders opgedragen taak.     
 3.  De in het eerste lid bedoelde toezichthouders zijn bevoegd om berechtingsrapporten op te maken ten behoeve van tuchtrechtelijke afhandeling van overtredingen van het bij of krachtens deze verordening bepaalde.   
@@ -98,15 +103,17 @@ e. voor het overige alle medewerking te verlenen ter vervulling van de aan de to
 
 ### Artikel  7  
 
-Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md).  
+Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004.  
 
 ####Gegevensverwerking en rapportage
 
 ### Artikel  8  
 
 1.  De door of namens de houder aangeleverde gegevens in de databank en de controle- en toezichtsresultaten kunnen worden gebruikt in rapportages waarin feiten en statistieken inzake typen en hoeveelheden antibiotica die door dierenartsen in de rundersector zijn voorgeschreven, worden weergegeven.   
-2.  De voorzitter verleent de Stichting Diergeneesmiddelen Autoriteit desgevraagd inzage in de geregistreerde gegevens van de databank waarvoor hij verantwoordelijk is voor zover zulks in overeenstemming is met de [Wet bescherming persoonsgegevens](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
+2.  De voorzitter verleent de Stichting Diergeneesmiddelen Autoriteit desgevraagd inzage in de geregistreerde gegevens van de databank waarvoor hij verantwoordelijk is voor zover zulks in overeenstemming is met de Wet bescherming persoonsgegevens.   
 3.  De gegenereerde gegevens worden verwerkt in een periodieke rapportage die ten minste één maal per jaar wordt uitgebracht.   
+4.  De voorzitter kan aan de Nederlandse Voedsel en Waren Autoriteit (NVWA) desgevraagd de in de databank geregistreerde gegevens betreffende individuele houders verstrekken voor zover zulks in overeenstemming is met de Wet bescherming persoonsgegevens.   
+5.  Ten behoeve van de controle als bedoeld in artikel 5, achtste lid, door de houder, slachterij, be- of verwerker en exporteur wordt een beperkte webapplicatie dan wel een webservice aangeboden.   
 
 ####Slotbepalingen
 

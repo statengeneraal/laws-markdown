@@ -3,9 +3,9 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 1 november 2012, houdende de vaststelling van een bestemmingsheffing ten behoeve van het Veeziektenfonds PPE voor het jaar 2013 (Verordening bestemmingsheffingen Veeziektenfonds salmonellamaatregelen (PPE) 2013)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 8 van het Instellingsbesluit Productschap Pluimvee en Eieren](../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md);
+Gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie en artikel 8 van het Instellingsbesluit Productschap Pluimvee en Eieren;
 
-Gezien de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md);
+Gezien de Verordening algemene bepalingen heffingen (PPE) 2005;
 Besluit:     
 ### 1  
 
@@ -13,7 +13,7 @@ Besluit:
 
 ### Artikel  1  
 
-Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md) en verstaat daarnaast onder Veeziektenfonds PPE: het fonds als bedoeld in [artikel 2 van de Verordening Veeziektenfonds (PPE) 2011](../../../../../../../pbo/verordening/veeziektenfonds/(ppe)/2011/BWBR0029874/README.md).  
+Deze verordening neemt over de begripsbepalingen van de Verordening algemene bepalingen heffingen (PPE) 2005 en verstaat daarnaast onder Veeziektenfonds PPE: het fonds als bedoeld in artikel 2 van de Verordening Veeziektenfonds (PPE) 2011.  
 
 ### 2  
 
@@ -67,11 +67,11 @@ a. voor legrassen kippen ingeval van opfok gebruikspluimvee € 0,0002 per eenda
 
 b. voor legrassen kippen ingeval van opfokgrootmoederdieren € 0,00 per eendagskuiken.  
 
-c. voor legrassen kippen ingeval van opfokmoederdieren € 0,00451 per eendagskuiken.     
+c. voor legrassen kippen ingeval van opfokmoederdieren € 0,00 per eendagskuiken.     
 
 ### Artikel  8  
 
-1.  De ondernemer die moederdieren voor legrassen kippen houdt is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2013 gehouden moederdieren tegen een tarief van € 0,11218 per moederdier.   
+1.  De ondernemer die moederdieren voor legrassen kippen houdt is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2013 gehouden moederdieren tegen een tarief van € 0,00 per moederdier.   
 2.  De in het eerste lid bedoelde heffing is éénmaal per productieperiode van een moederdier verschuldigd: 
 
 a. zodra de moederdieren zijn geplaatst, of  
@@ -85,13 +85,13 @@ c. zodra de moederdieren in productie genomen zijn, in het geval dat zij wederom
 1.  De ondernemer die legkippen houdt is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2013 geplaatste legkippen.   
 2.  De tarieven van de in het eerste lid bedoelde heffing bedragen: 
 
-a. voor legkippen in kooien € 0,07067 per legkip;  
+a. voor legkippen in kooien € 0,01465 per legkip;  
 
-b. voor scharrelkippen € 0,07112 per legkip;  
+b. voor scharrelkippen € 0,01474 per legkip;  
 
-c. voor vrije uitloopkippen € 0,07116 per legkip;  
+c. voor vrije uitloopkippen € 0,01476 per legkip;  
 
-d. voor biologische kippen € 0,07178 per legkip.     
+d. voor biologische kippen € 0,01488 per legkip.     
 3.  De heffing als bedoeld in het eerste lid is gedurende de gehele productie periode van een legkip éénmaal verschuldigd en wel zodra de legkippen de leeftijd van 18 weken hebben bereikt, onderscheidenlijk, indien de legkippen na deze leeftijd als zodanig zijn ontvangen, zodra zij zijn ontvangen.   
 
 ### 4  
@@ -119,7 +119,7 @@ De ondernemer die vleeskalkoenen houdt is aan het productschap ten behoeve van h
 
 ### Artikel  12  
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md).  
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PPE) 2005.  
 
 ### Artikel  13  
 
