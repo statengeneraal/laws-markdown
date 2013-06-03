@@ -5,25 +5,25 @@
 De Staatssecretaris van Economische Zaken, Landbouw en Innovatie,  
 In overeenstemming met de Minister van Infrastructuur en Milieu;
 
-Gelet op artikel 2a en 8d, eerste lid, van de Wet grondslagen natuurbeheer en -bescherming BES;
+Gelet op [artikel 2a](../../../../../../../../wet-BES/wet/grondslagen/natuurbeheer-/en/bescherming/bes/BWBR0028434/README.md) en [8d, eerste lid, van de Wet grondslagen natuurbeheer en -bescherming BES](../../../../../../../../wet-BES/wet/grondslagen/natuurbeheer-/en/bescherming/bes/BWBR0028434/README.md);
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a. *wet:*Wet grondslagen natuurbeheer en -bescherming BES;  
+a.  *wet:* [Wet grondslagen natuurbeheer en -bescherming BES](../../../../../../../../wet-BES/wet/grondslagen/natuurbeheer-/en/bescherming/bes/BWBR0028434/README.md);  
 
-b. *minister:* Minister van Economisch Zaken, Landbouw en Innovatie.    
+b.  *minister:* Minister van Economisch Zaken, Landbouw en Innovatie.   
 
 ### Artikel  2  
 
-1.  De Saba Bank wordt aangewezen als natuurpark als bedoeld in artikel 2a van de wet.   
-2.  Het natuurpark, bedoeld in het eerste lid, omvat het gebied, zoals aangegeven op de kaart opgenomen in de bijlage bij deze regeling.   
+1.  De Saba Bank wordt aangewezen als natuurpark als bedoeld in [artikel 2a van de wet](../../../../../../../../wet-BES/wet/grondslagen/natuurbeheer-/en/bescherming/bes/BWBR0028434/README.md).   
+2.  Het natuurpark, bedoeld in het eerste lid, omvat het gebied, zoals aangegeven op de kaart opgenomen in de bijlage bij deze regeling.  
 
 ### Artikel  2a  
 
-Het is verboden zich met een schip van 300 GT of meer te begeven binnen het natuurpark, bedoeld in artikel 2, eerste lid.  
+Het is verboden zich met een schip van 300 GT of meer te begeven binnen het natuurpark, bedoeld in artikel 2, eerste lid. 
 
 ### Artikel  3  
 
@@ -31,7 +31,7 @@ Het is verboden zich met een schip van 300 GT of meer te begeven binnen het natu
 2.  Het verbod, bedoeld in het eerste lid, is niet van toepassing op hydrografische opnemingsvaartuigen, bergingsschepen en vaartuigen die worden ingezet voor opsporing en redding.   
 3.  Het verbod, bedoeld in het eerste lid, is niet van toepassing op vissersschepen op voorwaarde dat de kapitein van het schip beschikt over een geldige visserijvergunning voor enig gedeelte van de Saba Bank.   
 4.  De kapitein van een vaartuig of schip als bedoeld in het tweede of derde lid, meldt zich bij de Kustwacht voor het Koninkrijk der Nederlanden in het Caribisch gebied zodra hij de buitengrens van het natuurpark, bedoeld in artikel 2, eerste lid, in binnen- of buitenwaartse richting passeert.   
-5.  Het verbod in het eerste lid is niet van toepassing ingeval van overmacht of hulpverlening.   
+5.  Het verbod in het eerste lid is niet van toepassing ingeval van overmacht of hulpverlening.  
 
 ### Artikel  4  
 
@@ -42,33 +42,33 @@ a. de ontheffing nodig is voor het verrichten van wetenschappelijk onderzoek dan
 
 b. het belang van de onderwaternatuur in het nationaal park gediend is bij de ontheffing.     
 3.  De minister kan aan een ontheffing voorschriften verbinden of beperkingen stellen.   
-4.  De minister kan een afgegeven ontheffing verlengen, wijzigen, intrekken of aanvullen met voorschriften en beperkingen.   
+4.  De minister kan een afgegeven ontheffing verlengen, wijzigen, intrekken of aanvullen met voorschriften en beperkingen.  
 
 ### Artikel  5  
 
-Deze regeling kan worden aangehaald als: de Regeling aanwijzing Saba Bank als natuurpark.  
+Deze regeling kan worden aangehaald als: de Regeling aanwijzing Saba Bank als natuurpark. 
 
 ### Artikel  6  
 
-Deze regeling treedt in werking met ingang van de dag van de uitgifte van de Staatscourant, waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag van de uitgifte van de Staatscourant, waarin zij wordt geplaatst. 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 15 december 2010   
 
 De 
-Staatssecretaris van Economische Zaken, Landbouw en Innovatie,
-H.Bleker  
+Staatssecretaris van Economische Zaken, Landbouw en Innovatie, 
+H. Bleker    
 
-### Bijlage  
+### Bijlage 
 
 ####bij artikel 2, tweede lid , van de Regeling aanwijzing Saba Bank als natuurpark
 
-![]()
-Kaartje voor aanwijzing Saba Bank als nationaal park  De omhullende lijn heeft de volgende coördinaten in graden, minuten en seconden in WGS84, gevisualiseerd met de blauwe cirkels:  
+![251918](http://wetten.overheid.nl/Illustration/251918)
+Kaartje voor aanwijzing Saba Bank als nationaal parkDe omhullende lijn heeft de volgende coördinaten in graden, minuten en seconden in WGS84, gevisualiseerd met de blauwe cirkels:  
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | 1.  | 17° 27′.06 N  | 063° 56′.14 W  |
 | 2.  | 17° 29′.00 N  | 063° 55′.09 W  |
 | 3.  | 17° 27′.94 N  | 063° 43′.32 W  |
