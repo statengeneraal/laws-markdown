@@ -11,38 +11,38 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet ruimtelijke ordening.   
+Wijzigt de Wet ruimtelijke ordening. 
 
 ### Artikel  II  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  III  
 
-Wijzigt de Crisis- en herstelwet.   
+Wijzigt de Crisis- en herstelwet. 
 
 ### Artikel  IV  
 
-Een besluit van gedeputeerde staten waarbij toestemming is verleend tot afwijking van een provinciale verordening als bedoeld in [artikel 4.1 van de Wet ruimtelijke ordening](../../../../../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), dat is vastgesteld voor het tijdstip van inwerkingtreding van artikel I, onderdeel B, van deze wet, wordt gelijkgesteld met een ontheffing als bedoeld in [artikel 4.1a, eerste lid, van die wet](../../../../../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).  
+Een besluit van gedeputeerde staten waarbij toestemming is verleend tot afwijking van een provinciale verordening als bedoeld in [artikel 4.1 van de Wet ruimtelijke ordening](../../../../../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), dat is vastgesteld voor het tijdstip van inwerkingtreding van artikel I, onderdeel B, van deze wet, wordt gelijkgesteld met een ontheffing als bedoeld in [artikel 4.1a, eerste lid, van die wet](../../../../../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md). 
 
 ### Artikel  IVa  
 
-Wijzigt de Wet ruimtelijke ordening en deze wet.   
+Wijzigt de Wet ruimtelijke ordening en deze wet. 
 
 ### Artikel  V  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 21 juni 2012  
 Beatrix  
 
-De Minister van Infrastructuur en Milieu, 
+De Minister van Infrastructuur en Milieu,  
 M. H. Schultz van Haegen-Maas Geesteranus   
 
 de *vijfde* juli 2012 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    
