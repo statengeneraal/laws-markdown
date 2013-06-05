@@ -66,6 +66,8 @@ c) For ozone:
 
 ####Basic obligations
 
+Wordt voorlopig toegepast per 04-05-2012   
+
 1.  Each Party having an emission ceiling in any table in annex II shall reduce and maintain the reduction in its annual emissions in accordance with that ceiling and the timescales specified in that annex. Each Party shall, as a minimum, control its annual emissions of polluting compounds in accordance with the obligations in annex II.   
 2.  Each Party shall apply the limit values specified in annexes IV, V and VI to each new stationary source within a stationary source category as identified in those annexes, no later than the timescales specified in annex VII. As an alternative, a Party may apply different emission reduction strategies that achieve equivalent overall emission levels for all source categories together.   
 3.  Each Party shall, in so far as it is technically and economically feasible and taking into consideration the costs and advantages, apply the limit values specified in annexes IV, V and VI to each existing stationary source within a stationary source category as identified in those annexes, no later than the timescales specified in annex VII. As an alternative, a Party may apply different emission reduction strategies that achieve equivalent overall emission levels for all source categories together or, for Parties outside the geographical scope of EMEP, that are necessary to achieve national or regional goals for acidification abatement and to meet national air quality standards.   
@@ -93,6 +95,10 @@ a) If within the geographical scope of EMEP, be required to comply with the prov
 
 b) If not within the geographical scope of EMEP, be required to comply with the provisions of paragraphs 1, 2, 3, 5, 6 and 7 and annex II, only within the relevant PEMA for each pollutant (nitrogen oxides, sulphur and/or volatile organic compounds) for which a PEMA within its jurisdiction is included in annex III, and shall not be required to comply with paragraph 8 anywhere within its jurisdiction.     
 11.  Canada and the United States of America shall, upon their ratification, acceptance or approval of, or accession to, the present Protocol, submit to the Executive Body their respective emission reduction commitments with respect to sulphur, nitrogen oxides and volatile organic compounds for automatic incorporation into annex II.   
+11 bis.   Dit lid moet nog in werking treden.    
+11 ter.   Dit lid moet nog in werking treden.    
+11 quater.   Dit lid moet nog in werking treden.    
+11 quinquies.  For the purposes of comparing national emission totals with emission reduction commitments as set out in paragraph 1, a Party may use a procedure specified in a decision of the Executive Body. Such a procedure shall include provisions on the submission of supporting documentation and on review of the use of the procedure.   
 12.  The Parties shall, subject to the outcome of the first review provided for under article 10, paragraph 2, and no later than one year after completion of that review, commence negotiations on further obligations to reduce emissions.   
 
 ### Article  4  
@@ -274,10 +280,12 @@ The annexes to the present Protocol shall form an integral part of the Protocol.
 
 ### Article  13  
 
-####Amendments and adjustments
+####Adjustments
+
+Wordt voorlopig toegepast per 04-05-2012   
 
 1.  Any Party may propose amendments to the present Protocol. Any Party to the Convention may propose an adjustment to annex II to the present Protocol to add to it its name, together with emission levels, emission ceilings and percentage emission reductions.   
-2.  Proposed amendments and adjustments shall be submitted in writing to the Executive Secretary of the Commission, who shall communicate them to all Parties. The Parties shall discuss the proposed amendments and adjustments at the next session of the Executive Body, provided that those proposals have been circulated by the Executive Secretary to the Parties at least ninety days in advance.   
+2.  Any Party may propose an adjustment of its emission reduction commitments already listed in annex II. Such a proposal must include supporting documentation, and shall be reviewed, as specified in a decision of the Executive Body. This review shall take place prior to the proposal being discussed by the Parties in accordance with paragraph 4.   
 3.  Amendments to the present Protocol, including amendments to annexes II to IX, shall be adopted by consensus of the Parties present at a session of the Executive Body, and shall enter into force for the Parties which have accepted them on the ninetieth day after the date on which two thirds of the Parties have deposited with the Depositary their instruments of acceptance thereof. Amendments shall enter into force for any other Party on the ninetieth day after the date on which that Party has deposited its instrument of acceptance thereof.   
 4.  Amendments to the annexes to the present Protocol, other than to the annexes referred to in paragraph 3, shall be adopted by consensus of the Parties present at a session of the Executive Body. On the expiry of ninety days from the date of its communication to all Parties by the Executive Secretary of the Commission, an amendment to any such annex shall become effective for those Parties which have not submitted to the Depositary a notification in accordance with the provisions of paragraph 5, provided that at least sixteen Parties have not submitted such a notification.   
 5.  Any Party that is unable to approve an amendment to an annex, other than to an annex referred to in paragraph 3, shall so notify the Depositary in writing within ninety days from the date of the communication of its adoption. The Depositary shall without delay notify all Parties of any such notification received. A Party may at any time substitute an acceptance for its previous notification and, upon deposit of an instrument of acceptance with the Depositary, the amendment to such an annex shall become effective for that Party.   
@@ -339,7 +347,7 @@ IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed t
 
 ### 1  
 
-Critical loads (as defined in article 1) of acidity for ecosystems are determined in accordance with the Convention'sManual on methodologies and criteria for mapping critical levels/loads and geographical areas where they are exceeded. They are the maximum amount of acidifying deposition an ecosystem can tolerate in the long term without being damaged. Critical loads of acidity in terms of nitrogen take account of within-ecosystem nitrogen removal processes (e.g. uptake by plants). Critical loads of acidity in terms of sulphur do not. A combined sulphur and nitrogen critical load of acidity considers nitrogen only when the nitrogen deposition is greater than the ecosystem nitrogen removal processes. All critical loads reported by Parties are summarized for use in the integrated assessment modelling employed to provide guidance for setting the emission ceilings in annex II. *Manual on methodologies and criteria for mapping critical levels/loads and geographical areas where they are exceeded*. They are the maximum amount of acidifying deposition an ecosystem can tolerate in the long term without being damaged. Critical loads of acidity in terms of nitrogen take account of within-ecosystem nitrogen removal processes (e.g. uptake by plants). Critical loads of acidity in terms of sulphur do not. A combined sulphur and nitrogen critical load of acidity considers nitrogen only when the nitrogen deposition is greater than the ecosystem nitrogen removal processes. All critical loads reported by Parties are summarized for use in the integrated assessment modelling employed to provide guidance for setting the emission ceilings in annex II.  
+Critical loads (as defined in article 1) of acidity for ecosystems are determined in accordance with the Convention 's *Manual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends*. They are the maximum amount of acidifying deposition an ecosystem can tolerate in the long term without being damaged. Critical loads of acidity in terms of nitrogen take account of within-ecosystem nitrogen removal processes (e.g. uptake by plants). Critical loads of acidity in terms of sulphur are loads that – in the long term – will not cause adverse effects to the structure and functions of ecosystems. A combined sulphur and nitrogen critical load of acidity considers nitrogen only when the nitrogen deposition is greater than the ecosystem nitrogen removal processes, such as uptake by vegetation. All critical loads reported by Parties, and approved by the Executive Body, are summarized for use in the integrated assessment modelling employed to provide guidance for setting the emission reduction commitments in annex II.  
 
 ### B  
 
@@ -347,25 +355,35 @@ Critical loads (as defined in article 1) of acidity for ecosystems are determine
 
 ### 2  
 
-For eastern Canada, critical sulphur plus nitrogen loads for forested ecosystems have been determined with scientific methodologies and criteria (1997 Canadian Acid Rain Assessment) similar to those in the Convention's Manual on methodologies and criteria for mapping critical levels/loads and geographical areas where they are exceeded. Eastern Canada critical load values (as defined in article 1) of acidity are for sulphate in precipitation expressed in kg/ha/year. Alberta in western Canada, where deposition levels are currently below the environmental limits, has adopted the generic critical load classification systems used for soils in Europe for potential acidity. Potential acidity is defined by subtracting the total (both wet and dry) deposition of base cations from that of sulphur and nitrogen. In addition to critical loads for potential acidity, Alberta has established target and monitoring loads for managing acidifying emissions. *Manual on methodologies and criteria for mapping critical levels/loads and geographical areas where they are exceeded*. Eastern Canada critical load values (as defined in article 1) of acidity are for sulphate in precipitation expressed in kg/ha/year. Alberta in western Canada, where deposition levels are currently below the environmental limits, has adopted the generic critical load classification systems used for soils in Europe for potential acidity. Potential acidity is defined by subtracting the total (both wet and dry) deposition of base cations from that of sulphur and nitrogen. In addition to critical loads for potential acidity, Alberta has established target and monitoring loads for managing acidifying emissions.  
+In Canada, critical acid deposition loads and geographical areas where they are exceeded are determined and mapped for lakes and upland forest ecosystems using scientific methodologies and criteria similar to those in the Convention ’s Manual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends. Critical load values for total sulphur plus nitrogen and exceedance levels have been mapped across Canada (south of 60° N latitude) and are expressed in acid equivalents per hectare per year (eq/ha/yr) (2004 Canadian Acid Deposition Science Assessment; 2008 Canadian Council of Ministers of the Environment). The province of Alberta has also adapted the generic critical load classification systems used for soils in Europe for potential acidity to define soils as highly sensitive, moderately sensitive and not sensitive to acidic deposition. Critical, target and monitoring loads are defined for each soil class and management actions are prescribed as per the Alberta Acid Deposition Management Framework, as appropriate.  
 
 ### 3  
 
-For the United States of America, the effects of acidification are evaluated through an assessment of the sensitivity of ecosystems, the total loading within ecosystems of acidifying compounds, and the uncertainty associated with nitrogen removal processes within ecosystems.  
+These loads and effects are used in integrated assessment activities, including providing data for international efforts to assess ecosystem response to loading of acidifying compounds, and provide guidance for setting the emission reduction commitments for Canada in annex II.  
 
 ### 4  
 
-These loads and effects are used in integrated assessment modelling and provide guidance for setting the emission ceilings and/or reductions for Canada and the United States of America in annex II.  
+For the United States of America, the effects of acidification are evaluated through an assessment of the sensitivity and response of ecosystems to the loading of acidifying compounds, using peer-reviewed scientific methodologies and criteria, and accounting for the uncertainties associated with nitrogen cycling processes within ecosystems. Adverse impacts on vegetation and ecosystems are then considered in establishing secondary national ambient air quality standards for NO <sub>x</sub> and SO <sub>2</sub>. Integrated assessment modelling and the air quality standards are used in providing guidance for setting the emission reduction commitments for the United States of America in annex II.  
 
 ### II  
 
 ####CRITICAL LOADS OF NUTRIENT NITROGEN
 
-For Parties within the geographical scope of EMEP  
+### A  
+
+####For Parties within the geographical scope of EMEP
 
 ### 5  
 
-Critical loads (as defined in article 1) of nutrient nitrogen (eutrophication) for ecosystems are determined in accordance with the Convention's Manual on methodologies and criteria for mapping critical levels/loads and geographical areas where they are exceeded. They are the maximum amount of eutrophying nitrogen deposition an ecosystem can tolerate in the long term without being damaged. All critical loads reported by Parties are summarized for use in the integrated assessment modelling employed to provide guidance for setting the emission ceilings in annex II. *Manual on methodologies and criteria for mapping critical levels/loads and geographical areas where they are exceeded*. They are the maximum amount of eutrophying nitrogen deposition an ecosystem can tolerate in the long term without being damaged. All critical loads reported by Parties are summarized for use in the integrated assessment modelling employed to provide guidance for setting the emission ceilings in annex II.  
+Critical loads (as defined in article 1) of nutrient nitrogen (eutrophication) for ecosystems are determined in accordance with the Convention 's *Manual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends.* They are the maximum amount of eutrophying nitrogen deposition that – in the long term – will not cause adverse effects to the structure and functions of ecosystems. All critical loads reported by Parties are summarized for use in the integrated assessment modelling employed to provide guidance for setting the emission reduction commitments in annex II.  
+
+### B  
+
+####For Parties in North America
+
+### 5 bis  
+
+For the United States of America, the effects of nutrient nitrogen (eutrophication) for ecosystems are evaluated through an assessment of the sensitivity and response of ecosystems to the loading of nitrogen compounds, using peer-reviewed scientific methodologies and criteria, and accounting for uncertainties associated with nitrogen cycling within ecosystems. Adverse impacts on vegetation and ecosystems are then considered in establishing secondary national ambient air quality standards for NO <sub>x</sub>. Integrated assessment modelling and the air quality standards are used in providing guidance for setting the emission reduction commitments for the United States of America in annex II.  
 
 ### III  
 
@@ -377,15 +395,15 @@ Critical loads (as defined in article 1) of nutrient nitrogen (eutrophication) f
 
 ### 6  
 
-Critical levels (as defined in article 1) of ozone are determined to protect plants in accordance with the Convention'sManual on methodologies and criteria for mapping critical levels/loads and geographical areas where they are exceeded. They are expressed as a cumulative exposure over a threshold ozone concentration of 40 ppb (parts per billion by volume). This exposure index is referred to as AOT40 (accumulated exposure over a threshold of 40 ppb). The AOT40 is calculated as the sum of the differences between the hourly concentration (in ppb) and 40 ppb for each hour when the concentration exceeds 40 ppb. *Manual on methodologies and criteria for mapping critical levels/loads and geographical areas where they are exceeded*. They are expressed as a cumulative exposure over a threshold ozone concentration of 40 ppb (parts per billion by volume). This exposure index is referred to as AOT40 (accumulated exposure over a threshold of 40 ppb). The AOT40 is calculated as the sum of the differences between the hourly concentration (in ppb) and 40 ppb for each hour when the concentration exceeds 40 ppb.  
+Critical levels (as defined in article 1) of ozone are determined to protect plants in accordance with the Convention ’s Manual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends. They are expressed in terms of the cumulative value of either stomatal fluxes or concentrations at the top of the canopy. Critical levels are preferably based on stomatal fluxes, as these are considered more biologically relevant since they take into account the modifying effect of climate, soil and plant factors on the uptake of ozone by vegetation.  
 
 ### 7  
 
-The long-term critical level of ozone for crops of an AOT40 of 3000 ppb.hours for May-July (used as a typical growing season) and for daylight hours was used to define areas at risk where the critical level is exceeded. A specific reduction of exceedances was targeted in the integrated assessment modelling undertaken for the present Protocol to provide guidance for setting the emission ceilings in annex II. The long-term critical level of ozone for crops is considered also to protect other plants such as trees and natural vegetation. Further scientific work is under way to develop a more differentiated interpretation of exceedances of critical levels of ozone for vegetation.  
+Critical levels of ozone have been derived for a number of species of crops, (semi-)natural vegetation and forest trees. The critical levels selected are related to the most important environmental effects, e.g., loss of security of food supplies, loss of carbon storage in the living biomass of trees and additional adverse effects on forest and (semi-)natural ecosystems.  
 
 ### 8  
 
-A critical level of ozone for human health is represented by the WHO Air Quality Guideline level for ozone of 120 μg/m3 as an 8-hour average. In collaboration with the World Health Organization's Regional Office for Europe (WHO/EURO), a critical level expressed as an AOT60 (accumulated exposure over a threshold of 60 ppb), i.e. 120 μg/m3, calculated over one year, was adopted as a surrogate for the WHO Air Quality Guideline for the purpose of integrated assessment modelling. This was used to define areas at risk where the critical level is exceeded. A specific reduction of these exceedances was targeted in the integrated assessment modelling undertaken for the present Protocol to provide guidance for setting the emission ceilings in annex II.3 as an 8-hour average. In collaboration with the World Health Organization's Regional Office for Europe (WHO/EURO), a critical level expressed as an AOT60 (accumulated exposure over a threshold of 60 ppb), i.e. 120 μg/m3, calculated over one year, was adopted as a surrogate for the WHO Air Quality Guideline for the purpose of integrated assessment modelling. This was used to define areas at risk where the critical level is exceeded. A specific reduction of these exceedances was targeted in the integrated assessment modelling undertaken for the present Protocol to provide guidance for setting the emission ceilings in annex II.  
+The critical level of ozone for human health is determined in accordance with the World Health Organization (WHO) air quality guidelines to protect human health from a wide range of health effects, including increased risk of premature death and morbidity.  
 
 ### B  
 
@@ -393,11 +411,51 @@ A critical level of ozone for human health is represented by the WHO Air Quality
 
 ### 9  
 
-For Canada, critical levels of ozone are determined to protect human health and the environment and are used to establish a Canada-wide Standard for ozone. The emission ceilings in annex II are defined according to the ambition level required to achieve the Canada-wide Standard for ozone.  
+For Canada, it is understood that there is no lower threshold for human health effects from ozone. That is, adverse effects have been observed at all ozone concentrations experienced in Canada. The Canadian Ambient Air Quality Standard for ozone was set to aid management efforts nationally, and by jurisdictions, to significantly reduce the effects on human health and the environment.  
 
 ### 10  
 
-For the United States of America, critical levels of ozone are determined to protect public health with an adequate margin of safety, to protect public welfare from any known or expected adverse effects, and are used to establish a national ambient air quality standard. Integrated assessment modelling and the air quality standard are used in providing guidance for setting the emission ceilings and/or reductions for the United States of America in annex II.  
+For the United States of America, critical levels are established in the form of primary and secondary national ambient air quality standards for ozone in order to protect public health with an adequate margin of safety and to protect public welfare, including vegetation, from any known or expected adverse effects. Integrated assessment modelling and the air quality standards are used in providing guidance for setting the emission reduction commitments for the United States of America in annex II.  
+
+### IV  
+
+####Critical levels of particulate matter
+
+### A  
+
+####For Parties in the geographical scope of EMEP
+
+### 11  
+
+The critical level of PM for human health is determined in accordance with the WHO air quality guidelines as the mass concentration of PM <sub>2.5</sub>. Attainment of the guideline level is expected to effectively reduce health risks. The long-term PM <sub>2.5</sub> concentration, expressed as an annual average, is proportional to the risk to health, including reduction of life expectancy. This indicator is used in integrated modelling to provide guidance for emission reduction. In addition to the annual guideline level, a short-term (24-hour mean) guideline level is defined to protect against peaks of pollution which have significant impact on morbidity or mortality.  
+
+### B  
+
+####For Parties in North America
+
+### 12  
+
+For Canada, it is understood that there is no lower threshold for human health effects from PM. That is, adverse effects have been observed at all concentrations of PM experienced in Canada. The Canadian national standard for PM was set to aid management efforts nationally, and by jurisdictions, to significantly reduce the effects on human health and the environment.  
+
+### 13  
+
+For the United States of America, critical levels are established in the form of primary and secondary national ambient air quality standards for PM in order to protect public health with an adequate margin of safety, and to protect public welfare (including visibility and man-made materials) from any known or expected adverse effects. Integrated assessment modelling and the air quality standards are used in providing guidance for setting the emission reduction commitments for the United States of America in annex II.  
+
+### V  
+
+####Critical levels of ammonia
+
+### 14  
+
+Critical levels (as defined in article 1) of ammonia are determined to protect plants in accordance with the Convention ’s Manual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends.  
+
+### VI  
+
+####Acceptable levels of air pollutants to protect materials
+
+### 15  
+
+Acceptable levels of acidifying pollutants, ozone and PM are determined to protect materials and cultural heritage in accordance with the Convention ’s Manual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends. The acceptable levels of pollutants are the maximum exposure a material can tolerate in the long term without resulting in damage above specified target corrosion rates. This damage, which can be calculated by available dose-response functions, is the result of several pollutants acting together in different combinations depending on the material: acidity (sulphur dioxide (SO <sub>2</sub>), nitric acid (HNO <sub>3</sub>)), ozone and PM.  
 
 ### Annex  II  
 
@@ -406,7 +464,7 @@ For the United States of America, critical levels of ozone are determined to pro
 The emission ceilings listed in the tables below relate to the provisions of article 3, paragraphs 1 and 10, of the present Protocol. The 1980 and 1990 emission levels and the percentage emission reductions listed are given for information purposes only.  *Table 1:* Emission ceilings for sulphur (thousands of tonnes of SO <sub>2</sub> per year) 
 
 | Party  | Emission levels  | Emission ceilings for 2010  | Percentage emission reductions for 2010 (base year 1990)  | 1980  | 1990  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | Armenia  | 141  | 73  | 73  | 0%  |
 | Austria  | 400  | 91  | 39  | – 57%  |
 | Belarus  | 740  | 637  | 480  | – 25%  |
@@ -449,7 +507,7 @@ The emission ceilings listed in the tables below relate to the provisions of art
 *Table 2:* Emission ceilings for nitrogen oxides (thousands of tonnes of NO <sub>2</sub> per year) 
 
 | Party  | Emission levels 1990  | Emission ceilings for 2010  | Percentage emission reductions for 2010 (base year 1990)  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Armenia  | 46  | 46  | 0%  |
 | Austria  | 194  | 107  | – 45%  |
 | Belarus  | 285  | 255  | – 11%  |
@@ -491,7 +549,7 @@ The emission ceilings listed in the tables below relate to the provisions of art
 *Table 3.* Emission ceilings for ammonia (thousands of tonnes of NH <sub>3</sub> per year) 
 
 | Party  | Emission levels 1990  | Emission ceilings for 2010  | Percentage emission reductions for 2010 (base year 1990)  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Armenia  | 25  | 25  | 0%  |
 | Austria  | 81  | 66  | – 19%  |
 | Belarus  | 219  | 158  | – 28%  |
@@ -531,7 +589,7 @@ The emission ceilings listed in the tables below relate to the provisions of art
 *Table 4:* Emission ceilings for volatile organic compounds (thousands of tonnes of VOC per year) 
 
 | Party  | Emission levels 1990  | Emission ceilings for 2010  | Percentage emission reductions for 2010 (base year 1990)  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Armenia  | 81  | 81  | 0%  |
 | Austria  | 351  | 159  | – 55%  |
 | Belarus  | 533  | 309  | – 42%  |
@@ -621,7 +679,7 @@ In the case of discontinuous measurements, as a minimum requirement, compliance 
 Boilers and process heaters with a rated thermal input exceeding 50 MWth: <sub>th</sub>:  *Table 1:* Limit values for SOx emissions released from boilers <sup> a)  In particular, the limit values shall not apply to:    –  Plant in which the products of combustion are used for direct heating, drying, or any other treatment of objects or materials, e.g. reheating furnaces, furnaces for heat treatment;    –  Post-combustion plant, i.e. any technical apparatus designed to purify the waste gases by combustion that is not operated as an independent combustion plant;    –  Facilities for the regeneration of catalytic cracking catalysts;    –  Facilities for the conversion of hydrogen sulphide into sulphur;    –  Reactors used in the chemical industry;    –  Coke battery furnaces;    –  Cowpers;    –  Waste incinerators; and    –  Plant powered by diesel, petrol or gas engines or by combustion turbines, irrespective of the fuel used.    </sup> 
 
 |--- | Thermal input (MW <sub>th</sub>)  | Limit value (mg SO <sub>2</sub> /Nm3)  <sup> b)   The O <sub>2</sub> reference content is 6% for solid fuels and 3% for others.    </sup> | Alternative for domestic solid fuels removal efficiency  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Solid and liquid fuels, new installations  | 50 – 100  100 – 300  > 300  | 850  850 – 200  <sup> c)   400 with heavy fuel oil S <0.25%.    </sup> (linear decrease)  200  <sup> c)   400 with heavy fuel oil S <0.25%.    </sup> | 90%)  <sup> d)   If an installation reaches 300 mg/Nm3 SO <sub>2</sub>, it may be exempted from applying the removal efficiency.    </sup> 92%)  <sup> d)   If an installation reaches 300 mg/Nm3 SO <sub>2</sub>, it may be exempted from applying the removal efficiency.    </sup> 95%)  <sup> d)   If an installation reaches 300 mg/Nm3 SO <sub>2</sub>, it may be exempted from applying the removal efficiency.    </sup> |
 | Solid fuels, existing installations  | 50 – 100  100 – 500  > 500  50 – 150  150 – 500  > 500  | 2 000  2 000 – 400  (linear decrease)  400  | 40%  40 – 90%  (linear increase)  90%  |
 | Liquid fuels, existing installations  | 50 – 300  300 – 500  > 500  | 1 700  1 700 – 400  (linear decrease)  400  | --- |
@@ -637,7 +695,7 @@ Boilers and process heaters with a rated thermal input exceeding 50 MWth: <sub>t
 Gas oil:  *Table 2:* Limit values for the sulphur content of gas oil <sup> a)  “Gas oil" means any petroleum product within HS 2710, or any petroleum product which, by reason of its distillation limits, falls within the category of middle distillates intended for use as fuel and of which at least 85 per cent by volume, including distillation losses, distils at 350°C. Fuels used in on-road and non-road vehicles and agricultural tractors are excluded from this definition. Gas oil intended for marine use is included in the definition if it meets the description above or it has a viscosity or density falling within the ranges of viscosity or density defined for marine distillates in table I of ISO 8217 (1996).  </sup> 
 
 |--- | Sulphur content (per cent by weight)  |
-|:---|:---|
+|---|---|
 | Gas oil  | < 0.2 after 1 July 2000 < 0.1 after 1 January 2008  |
 
 ### 11  
@@ -735,7 +793,7 @@ In the case of discontinuous measurements, as a minimum requirement, compliance 
 Boilers and process heaters with a rated thermal input exceeding 50 MWth: <sub>th</sub>:  *Table 1:* Limit values for NO <sub>x</sub> emissions released from boilers <sup> a)  In particular, the limit values shall not apply to:    –  Plant in which the products of combustion are used for direct heating, drying, or any other treatment of objects or materials, e.g. reheating furnaces, furnaces for heat treatment;    –  Post-combustion plant, i.e. any technical apparatus designed to purify the waste gases by combustion that is not operated as an independent combustion plant;    –  Facilities for the regeneration of catalytic cracking catalysts;    –  Facilities for the conversion of hydrogen sulphide into sulphur;    –  Reactors used in the chemical industry;    –  Coke battery furnaces;    –  Cowpers;    –  Waste incinerators; and    –  Plant powered by diesel, petrol or gas engines or by combustion turbines, irrespective of the fuel used.    </sup> 
 
 |--- | Limit value (mg/Nm3)  <sup> b)   These values do not apply to boilers running less than 500 hours a year. The O <sub>2</sub> reference content is 6% for solid fuels and 3% for others.    </sup> |
-|:---|:---|
+|---|---|
 | Solid fuels, new installations:  | --- |
 | – Boilers 50 – 100 MW <sub>th</sub>  | 400  |
 | – Boilers 100 – 300 MW <sub>th</sub>  | 300  |
@@ -760,7 +818,7 @@ Boilers and process heaters with a rated thermal input exceeding 50 MWth: <sub>t
 Onshore combustion turbines with a rated thermal input exceeding 50MWth: the NOx limit values expressed in mg/Nm3 (with an O2 content of 15%) are to be applied to a single turbine. The limit values in table 2 apply only above 70% load. <sub>th</sub>: the NOx limit values expressed in mg/Nm3 (with an O <sub>2</sub> content of 15%) are to be applied to a single turbine. The limit values in table 2 apply only above 70% load.  *Table 2:* Limit values for NOx emissions released from onshore combustion turbines 
 
 | > 50 MW <sub>th</sub> (Thermal input at ISO conditions)  | Limit value (mg/Nm <sup>3</sup>)  |
-|:---|:---|
+|---|---|
 | New installations, natural gas  <sup> a)   Natural gas is naturally occurring methane with not more than 20% (by volume) of inerts and other constituents.    </sup> | 50  <sup> b)   75 mg/Nm3 if:      –   Combustion turbine used in a combined heat and power system; or       –   Combustion turbine driving compressor for public gas grid supply.         For combustion turbines not falling into either of the above categories, but having an efficiency greater than 35%, determined at ISO base load conditions, the limit value shall be 50*n/35 where n is the combustion turbine efficiency expressed as a percentage (and determined at ISO base load conditions).    </sup> |
 | New installations, liquid fuels  <sup> c)   This limit value applies only to combustion turbines firing light and medium distillates.    </sup> | 120  |
 | Existing installations, all fuels  <sup> d)   The limit values do not apply to combustion turbines running less than 150 hours a year.    </sup> | --- |
@@ -772,7 +830,7 @@ Onshore combustion turbines with a rated thermal input exceeding 50MWth: the NOx
 Cement production:  *Table 3:* Limit values for NO <sub>x</sub> emissions released from cement production <sup> a)  Installations for the production of cement clinker in rotary kilns with a capacity 500 Mg/day or in other furnaces with a capacity 50 Mg/day.  </sup> 
 
 |--- | Limit value (mg/Nm <sup>3</sup>)  |
-|:---|:---|
+|---|---|
 | New installations (10% O <sub>2</sub>)  | --- |
 | – Dry kilns  | 500  |
 | – Other kilns  | 800  |
@@ -783,7 +841,7 @@ Cement production:  *Table 3:* Limit values for NO <sub>x</sub> emissions releas
 Stationary engines:  *Table 4:* Limit values for NO <sub>x</sub> emissions released from new stationary engines 
 
 | Capacity, technique, fuel specification  | Limit value (mg/Nm <sup>3</sup>)  <sup> a)   These values do not apply to engines running less than 500 hours a year. The O <sub>2</sub> reference content is 5%.    </sup> |
-|:---|:---|
+|---|---|
 | Spark ignition (= Otto) engines, 4-stroke, 1 MW <sub>th</sub>  | --- |
 | – Lean-burn engines  | 250  |
 | – All other engines  | 500  |
@@ -797,7 +855,7 @@ Stationary engines:  *Table 4:* Limit values for NO <sub>x</sub> emissions relea
 Production and processing of metals:  *Table 5:* Limit values for NO <sub>x</sub> emissions released from primary iron and steel production <sup> a)  Production and processing of metals: metal or roasting or sintering installations, installations for the production of pig iron or steel (primary or secondary fusion) including continuous casting with a capacity exceeding 2.5 Mg/hour, installations for the processing of ferrous metals (hot rolling mills > 20 Mg/hour of crude steel).  </sup> 
 
 | Capacity, technique, fuel specification  | Limit value (mg/Nm <sup>3</sup>)  |
-|:---|:---|
+|---|---|
 | New and existing sinter plant  | 400  |
 
 ### 14  
@@ -805,7 +863,7 @@ Production and processing of metals:  *Table 5:* Limit values for NO <sub>x</sub
 Nitric acid production:  *Table 6:* Limit values for NO <sub>x</sub> emissions released from nitric acid production excluding acid concentration units 
 
 | Capacity, technique, fuel specification  | Limit value (mg/Nm <sup>3</sup>)  |
-|:---|:---|
+|---|---|
 | – New installations  | 350  |
 | – Existing installations  | 450  |
 
@@ -1000,7 +1058,7 @@ The limit values for VOC emissions for the source categories defined in paragrap
 Storage and distribution of petrol:  *Table 1:* Limit values for VOC emissions released from the storage and distribution of petrol, excluding the loading of seagoing ships 
 
 | Capacity, technique, further specification  | Threshold values  | Limit value  |
-|:---|:---|:---|
+|---|---|---|
 | Vapour recovery unit serving storage and distribution facilities at refinery tank farms or terminals  | 5 000 m3 petrol throughput annually  | 10 g VOC/Nm <sup>3</sup> including methane  |
 
 *Note*: The vapour displaced by the filling of petrol storage tanks shall be displaced either into other storage tanks or into abatement equipment meeting the limit values in the table above.  
@@ -1010,7 +1068,7 @@ Storage and distribution of petrol:  *Table 1:* Limit values for VOC emissions r
 Adhesive coating:  *Table 2:* Limit values for NMVOC emissions released from adhesive coating 
 
 | Capacity, technique, further specification  | Threshold value for solvent consumption (Mg/year)  | Limit value  | Limit value for fugitive emissions of NMVOCs (% of solvent input)  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Footwear manufacture; new and existing installations  | > 5  | 25 g solvent per pair  | --- |
 | Other adhesive coating, except footwear; new and existing installations  | 5 – 15  | 50 mg C/Nm <sup>3</sup>  <sup> a)   If techniques are used which allow reuse of recovered solvent, the limit value shall be 150 mg C/Nm <sup>3</sup>.    </sup> | 25  |
 | > 15  | 50 mg C/Nm <sup>3</sup>  <sup> a)   If techniques are used which allow reuse of recovered solvent, the limit value shall be 150 mg C/Nm <sup>3</sup>.    </sup> | 20  |
@@ -1020,7 +1078,7 @@ Adhesive coating:  *Table 2:* Limit values for NMVOC emissions released from adh
 Wood and plastic lamination:  *Table 3:* Limit values for NMVOC emissions released from wood and plastic lamination 
 
 | Capacity, technique, further specification  | Threshold value for solvent consumption (Mg/year)  | Limit value for total emissions of NMVOCs  |
-|:---|:---|:---|
+|---|---|---|
 | Wood and plastic laminating; new and existing installations  | > 5  | 30 g NMVOC/m <sup>2</sup>  |
 
 ### 11  
@@ -1028,7 +1086,7 @@ Wood and plastic lamination:  *Table 3:* Limit values for NMVOC emissions releas
 Coating processes (metal and plastic surfaces in passenger cars, truck cabins, trucks, buses, wooden surfaces):  *Table 4:* Limit values for NMVOC emissions released from coating processes in the car industry 
 
 | Capacity, technique, further specification  | Threshold value for solvent consumption (Mg/year)  <sup> a)   For a solvent consumption 15 Mg a year (coating of cars), table 14 on car refinishing applies.    </sup> | Limit value for total emissions of NMVOCs  <sup> b)   The total limit values are expressed in terms of mass of solvent (g) emitted in relation to the surface area of product (m <sup>2</sup>). The surface area of the product is defined as the surface area calculated from the total electrophoretic coating area and the surface area of any parts that might be added in successive phases of the coating process which are coated with the same coatings. The surface of the electrophoretic coating area is calculated using the formula: (2 x total weight of product shell): (average thickness of metal sheet x density of metal sheet).    </sup> |
-|:---|:---|:---|
+|---|---|---|
 | New installations, car coating (M1, M2)  | > 15 (and > 5,000 coated items a year)  | 45 g NMVOC/m2 or 1.3 kg/item and 33 g NMVOC/m <sup>2</sup>  |
 | Existing installations, car coating (M1, M2)  | > 15 (and > 5,000 coated items a year)  | 60 g NMVOC /m <sup>2</sup> or 1.9 kg/item and 41 g NMVOC/m <sup>2</sup>  |
 | New and existing installations, car coating (M1, M2)  | > 15 (≤ 5,000 coated monocoques or >3,500 coated chassis a year)  | 90 g NMVOC/m <sup>2</sup> or 1.5 kg/item and 70 g NMVOC/m <sup>2</sup>  |
@@ -1048,7 +1106,7 @@ Coating processes (metal and plastic surfaces in passenger cars, truck cabins, t
 *Table 5:* Limit values for NMVOC emissions released from coating processes in various industrial sectors 
 
 | Capacity, technique, further specification  | Threshold value for solvent con-sumption (Mg/year)  | Limit value  | Limit value for fugitive emission of NMVOCs (% of solvent input)  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | New and existing installations: other coating, incl. metal, plastics, textile, fabric, foil and paper (excl. web screen printing for textiles, see printing)  | 5 – 15  | 100 mg C/Nm <sup>3</sup>  <sup> a)   Limit value applies to coating applications and drying processes operated under contained conditions.    </sup> <sup> b)   If contained coating conditions are not possible (boat construction, aircraft coating, etc.), installations may be granted exemption from these values. The reduction scheme of paragraph 6 (a) is then to be used, unless it is demonstrated to the satisfaction of the competent authority that this option is not technically and economically feasible. In this case, the operator must demonstrate to the satisfaction of the competent authority that the best available technique is used.    </sup> | 25  <sup> b)   If contained coating conditions are not possible (boat construction, aircraft coating, etc.), installations may be granted exemption from these values. The reduction scheme of paragraph 6 (a) is then to be used, unless it is demonstrated to the satisfaction of the competent authority that this option is not technically and economically feasible. In this case, the operator must demonstrate to the satisfaction of the competent authority that the best available technique is used.    </sup> |
 | > 15  | 50/75 mg C/Nm <sup>3</sup>  <sup> b)   If contained coating conditions are not possible (boat construction, aircraft coating, etc.), installations may be granted exemption from these values. The reduction scheme of paragraph 6 (a) is then to be used, unless it is demonstrated to the satisfaction of the competent authority that this option is not technically and economically feasible. In this case, the operator must demonstrate to the satisfaction of the competent authority that the best available technique is used.    </sup> <sup> c)   The first value applies to drying processes, the second to coating application processes.    </sup> <sup> d)   If, for textile coating, techniques are used which allow reuse of recovered solvents, the limit value shall be 150 mg C/Nm3 for drying and coating together.    </sup> | 20  <sup> b)   If contained coating conditions are not possible (boat construction, aircraft coating, etc.), installations may be granted exemption from these values. The reduction scheme of paragraph 6 (a) is then to be used, unless it is demonstrated to the satisfaction of the competent authority that this option is not technically and economically feasible. In this case, the operator must demonstrate to the satisfaction of the competent authority that the best available technique is used.    </sup> |
 | New and existing installations: wood coating  | 15 – 25  | 100 mg C/Nm <sup>3</sup>  <sup> a)   Limit value applies to coating applications and drying processes operated under contained conditions.    </sup> | 25  |
@@ -1059,7 +1117,7 @@ Coating processes (metal and plastic surfaces in passenger cars, truck cabins, t
 Coil coating:  *Table 6:* Limit values for NMVOC emissions released from coil coating 
 
 | Capacity, technique, further specification  | Threshold value for solvent con-sumption (Mg/year)  | Limit value (mg C/Nm <sup>3</sup>)  | Limit value for fugitive emissions of NMVOCs (% of solvent input)  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | New installations  | > 25  | 50  <sup> a)   If techniques are used which allow reuse of recovered solvent, the limit value shall be 150 mg C/Nm <sup>3</sup>.    </sup> | 5  |
 | Existing installations  | > 25  | 50  <sup> a)   If techniques are used which allow reuse of recovered solvent, the limit value shall be 150 mg C/Nm <sup>3</sup>.    </sup> | 10  |
 
@@ -1068,7 +1126,7 @@ Coil coating:  *Table 6:* Limit values for NMVOC emissions released from coil co
 Dry cleaning:  *Table 7:* Limit values for NMVOC emissions released from dry cleaning 
 
 | Capacity, technique, further specification  | Threshold value for solvent consumption (Mg/year)  | Limit value  |
-|:---|:---|:---|
+|---|---|---|
 | New and existing installations  | 0  | 20 g NMVOC/kg  <sup> a)   Limit value for total emissions of NMVOCs calculated as mass of emitted solvent per mass of cleaned and dried product.    </sup> |
 
 ### 14  
@@ -1076,7 +1134,7 @@ Dry cleaning:  *Table 7:* Limit values for NMVOC emissions released from dry cle
 Manufacturing of coatings, varnishes, inks and adhesives:  *Table 8:* Limit values for NMVOC emissions released from manufacturing of coatings, varnishes, inks and adhesives 
 
 | Capacity, technique, further specification  | Threshold value for solvent con-sumption (Mg/year)  | Limit value (mg C/Nm <sup>3</sup>)  | Limit value for fugitive emissions of NMVOCs (% of solvent input)  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | New and existing installations  | 100 – 1,000  | 150  <sup> a)   A total limit value of 5% of solvent input may be applied instead of using the waste gas concentration limit and the limit value for fugitive emissions of NMVOCs.    </sup> | 5  <sup> a)   A total limit value of 5% of solvent input may be applied instead of using the waste gas concentration limit and the limit value for fugitive emissions of NMVOCs.    </sup> <sup> c)   The fugitive limit value does not include solvents sold as part of a preparation in a sealed container.    </sup> |
 | > 1,000  | 150  <sup> b)   A total limit value of 3% of solvent input may be applied instead of using the waste gas concentration limit and the limit value for fugitive emissions of NMVOCs.    </sup> | 3  <sup> b)   A total limit value of 3% of solvent input may be applied instead of using the waste gas concentration limit and the limit value for fugitive emissions of NMVOCs.    </sup> <sup> c)   The fugitive limit value does not include solvents sold as part of a preparation in a sealed container.    </sup> |
 
@@ -1085,7 +1143,7 @@ Manufacturing of coatings, varnishes, inks and adhesives:  *Table 8:* Limit valu
 Printing (flexography, heat set web offset, publication rotogravure etc.):  *Table 9:* Limit values for NMVOC emissions released from printing processes 
 
 | Capacity, technique, further specification  | Threshold value for solvent con-sumption (Mg/year)  | Limit value (mg C/Nm *3*)  | Limit value for fugitive emissions of NMVOCs (% of solvent input)  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | New and existing installations: heat set web offset  | 15 – 25  | 100  | 30  <sup> a)   Solvent residue in finished products is not to be considered as part of the fugitive emissions of NMVOCs.    </sup> |
 | > 25  | 20  | 30  <sup> a)   Solvent residue in finished products is not to be considered as part of the fugitive emissions of NMVOCs.    </sup> |
 | New installations: publication rotogravure  | > 25  | 75  | 10  |
@@ -1099,7 +1157,7 @@ Printing (flexography, heat set web offset, publication rotogravure etc.):  *Tab
 Manufacturing of pharmaceutical products:  *Table 10:* Limit values for NMVOC emissions released from manufacturing of pharmaceutical products 
 
 | Capacity, technique, further specification  | Threshold value for solvent con-sumption (Mg/year)  | Limit value (mg C/Nm <sup>3</sup>)  | Limit value for fugitive emissions of NMVOCs (% of solvent input)  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | New installations  | > 50  | 20  <sup> a)   If techniques are used which allow reuse of recovered solvents, the limit value shall be 150 mg C/Nm <sup>3</sup>.    </sup> <sup> b)   A total limit value of 5% of solvent input may be applied instead of using the waste gas concentration limit and the limit value for fugitive emissions of NMVOCs.    </sup> | 5  <sup> b)   A total limit value of 5% of solvent input may be applied instead of using the waste gas concentration limit and the limit value for fugitive emissions of NMVOCs.    </sup> <sup> d)   The fugitive limit value does not include solvents sold as part of a coatings preparation in a sealed container.    </sup> |
 | Existing installations  | > 50  | 20  <sup> a)   If techniques are used which allow reuse of recovered solvents, the limit value shall be 150 mg C/Nm <sup>3</sup>.    </sup> <sup> c)   A total limit value of 15% of solvent input may be applied instead of using the waste gas concentration limit and the limit value for fugitive emissions of NMVOCs.    </sup> | 15  <sup> c)   A total limit value of 15% of solvent input may be applied instead of using the waste gas concentration limit and the limit value for fugitive emissions of NMVOCs.    </sup> <sup> d)   The fugitive limit value does not include solvents sold as part of a coatings preparation in a sealed container.    </sup> |
 
@@ -1108,7 +1166,7 @@ Manufacturing of pharmaceutical products:  *Table 10:* Limit values for NMVOC em
 Conversion of natural or synthetic rubber:  *Table 11:* Limit values for NMVOC emission released from conversion of natural or synthetic rubber 
 
 | Capacity, technique, further specification  | Threshold value for solvent con-sumption (Mg/year)  | Limit value (mg C/Nm <sup>3</sup>)  | Limit value for fugitive emissions of NMVOCs (% of solvent input)  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | New and existing installations: conversion of natural or synthetic rubber  | > 15  | 20  <sup> a)   A total limit value of 25% of solvent input may be applied instead of using the waste gas concentration limit and the limit value for fugitive emissions of NMVOCs.    </sup> <sup> b)   If techniques are used which allow reuse of recovered solvent, the limit value shall be 150 mg C/Nm <sup>3</sup>.    </sup> | 25  <sup> a)   A total limit value of 25% of solvent input may be applied instead of using the waste gas concentration limit and the limit value for fugitive emissions of NMVOCs.    </sup> <sup> c)   The fugitive limit does not include solvents sold as part of a preparation in a sealed container.    </sup> |
 
 ### 18  
@@ -1116,7 +1174,7 @@ Conversion of natural or synthetic rubber:  *Table 11:* Limit values for NMVOC e
 Surface cleaning:  *Table 12:* Limit values for NMVOC emissions released from surface cleaning 
 
 | Capacity, technique, further specification  | Threshold value for solvent con-sumption (Mg/year)  | Limit value  | Limit value for fugitive emissions of NMVOCs (% of solvent input)  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | New and existing installations: surface cleaning using substances mentioned in paragraph 3 (w)  | 1 – 5  | 20 mg compound/Nm <sup>3</sup>  | 15  |
 | > 5  | 20 mg compound/Nm <sup>3</sup>  | 10  |
 | New and existing installations: other surface cleaning  | 2 – 10  | 75 mg C/Nm <sup>3</sup>  <sup> a)   Installations which demonstrate to the competent authority that the average organic solvent content of all cleaning material used does not exceed 30% w/w are exempt from applying these values.    </sup> | 20  <sup> a)   Installations which demonstrate to the competent authority that the average organic solvent content of all cleaning material used does not exceed 30% w/w are exempt from applying these values.    </sup> |
@@ -1127,7 +1185,7 @@ Surface cleaning:  *Table 12:* Limit values for NMVOC emissions released from su
 Vegetable oil and animal fat extraction and vegetable oil refining processes:  *Table 13:* Limit values for NMVOC emissions released from extraction of vegetable and animal fat and refining of vegetable oil 
 
 | Capacity, technique, further specification  | Threshold value for solvent con-sumption (Mg/ year)  | Total limit value (kg/Mg)  |
-|:---|:---|:---|
+|---|---|---|
 | New and existing  | > 10  | Animal fat:1.5  |
 | installations  | --- | Castor:3.0  |
 | --- | --- | Rape seed:1.0  |
@@ -1143,7 +1201,7 @@ Vegetable oil and animal fat extraction and vegetable oil refining processes:  *
 Vehicle refinishing:  *Table 14:* Limit values for NMVOC emissions released from vehicle refinishing 
 
 | Capacity, technique, further specification  | Threshold value for solvent con-sumption (Mg/year)  | Limit value (mg C/Nm3)  | Limit value for fugitive emissions of NMVOCs (% of solvent input)  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | New and existing installations  | > 0.5  | 50  <sup> a)   Compliance with limit values to be proven by 15-minute average measurements.    </sup> | 25  |
 
 ### 21  
@@ -1151,7 +1209,7 @@ Vehicle refinishing:  *Table 14:* Limit values for NMVOC emissions released from
 Impregnation of wooden surfaces:  *Table 15:* Limit values for NMVOC emissions released from impregnation of wooden surfaces 
 
 | Capacity, technique, further specification  | Threshold value for solvent con-sumption (Mg/year)  | Limit value (mg C/Nm3)  | Limit value for fugitive emission of NMVOCs (% of solvent input)  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | New and existing installations  | > 25  | 100  <sup> a)   Does not apply to impregnation with creosote.    </sup> <sup> b)   A total limit value of 11 kg solvent/m <sup>3</sup> of wood treated may be applied instead of using the waste gas concentration limit and the limit value for fugitive emissions of NMVOCs.    </sup> | 45  <sup> b)   A total limit value of 11 kg solvent/m <sup>3</sup> of wood treated may be applied instead of using the waste gas concentration limit and the limit value for fugitive emissions of NMVOCs.    </sup> |
 
 ### B  
@@ -1329,7 +1387,7 @@ The following scheme shall operate for installations for which a constant solid 
 a) The operator shall forward an emission reduction plan which includes in particular decreases in the average solvent content of the total input and/or increased efficiency in the use of solids to achieve a reduction of the total emissions from the installation to a given percentage of annual reference emissions, termed the target emission. This must be done in the following time frame:  
 
 | Time period  | Maximum allowed total annual emissions  |
-|:---|:---|
+|---|---|
 | New installations  | Existing installations  |
 | By 31.10.2001  | By 31.10.2005  | Target emission x 1.5  |
 | By 31.10.2004  | By 31.10.2007  | Target emission  |
@@ -1341,7 +1399,7 @@ b) The annual reference emission is calculated as follows:
 (ii) The annual reference emissions are calculated by multiplying the mass determined as in subparagraph (i) by the appropriate factor listed in the table below. The competent authorities may adjust these factors for individual installations to reflect documented increased efficiency in the use of solids.  
 
 | Activity  | Multi plication factor for use in subparagraph b) (ii)  |
-|:---|:---|
+|---|---|
 | Rotogravure printing; flexography printing; laminating as part of a printing activity; printing; varnishing as part of a printing activity; wood coating; coating of textiles, fabric, film or paper; adhesive coating  | 4  |
 | Coil coating; vehicle refinishing  | 3  |
 | Food contact coating; aerospace coating  | 2.33  |
@@ -1440,7 +1498,7 @@ Limit values for agricultural and forestry tractors and other non-road vehicle/m
 Environmental quality specifications for petrol and diesel are given in tables 8 to 11.  *Table 1:* Limit values for passenger cars and light-duty vehicles 
 
 |--- |--- |--- |--- | Reference mass(RW)(kg)  | Limit values  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | Carbon monoxide  | Hydrocarbons  | Nitrogen oxides  | Hydrocarbons and nitrogen oxides combined  | Particulates  <sup> a)   For compression-ignition engines.    </sup> |
 | L1 (g/km)  | L2 (g/km)  | L3 (g/km)  | L2+L3 (g/km)  | L4 (g/km)  |
 | Category  | Class  | To be applied from  <sup> b)   The registration, sale or entry into service of new vehicles that fail to comply with the respective limit values shall be refused as from the dates given in this column and type approval may no longer be granted with effect from 12 months prior to these dates.    </sup> | --- | Petrol  | Diesel  | Petrol  | Diesel  | Petrol  | Diesel  | Petrol  | Diesel  | Diesel  |
@@ -1456,7 +1514,7 @@ Environmental quality specifications for petrol and diesel are given in tables 8
 *Table 2:* Limit values for heavy-duty vehicles – European steady-state cycle (ESC) and European load-response (ELR) tests 
 
 | Row  | To be applied from  <sup> a)   With effect from the given dates and except for vehicles and engines intended for export to countries that are not parties to the present Protocol and for replacement engines for vehicles in use, Parties shall prohibit the registration, sale, entry into service or use of new vehicles propelled by a compression ignition or gas engine and the sale and use of new compression-ignition or gas engines if their emissions do not comply with the respective limit values. With effect from twelve months prior to these dates, type approval may be refused if the limit values are not complied with.    </sup> | Carbon monoxide (g/kWh)  | Hydro-carbons (g/kWh)  | Nitrogen oxides (g/kWh)  | Particu-lates (g/kWh)  | Smoke (m-1)  |
-|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 | A  | 1.10.2001  | 2.1  | 0.66  | 5.0  | 0.10 / 0.13  <sup> b)   For engines with a swept volume below 0.75 dm <sup>3</sup> per cylinder and a rated power speed above 3000 revolutions per minute.    </sup> | 0.8  |
 | B1  | 1.10.2006  | 1.5  | 0.46  | 3.5  | 0.02  | 0.5  |
 | B2  | 1.10.2009  | 1.5  | 0.46  | 2.0  | 0.02  | 0.5  |
@@ -1464,7 +1522,7 @@ Environmental quality specifications for petrol and diesel are given in tables 8
 *Table 3:* Limit values for heavy-duty vehicles – European transient cycle (ETC) test <sup> a)  The conditions for verifying the acceptability of the ETC tests when measuring the emissions of gas-fuelled engines against the limit values applicable in row A shall be re-examined and, where necessary, modified in accordance with the procedure laid down in article 13 of Directive 70/156/EEC.  </sup> 
 
 | Row  | To be applied from  <sup> b)   With effect from the given dates and except for vehicles and engines intended for export to countries that are not parties to the present Protocol and for replacement engines for vehicles in use, Parties shall prohibit the registration, sale, entry into service or use of new vehicles propelled by a compression-ignition or gas engine and the sale and use of new compression-ignition or gas engines if their emissions do not comply with the respective limit values. With effect from twelve months prior to these dates, type approval may be refused if the limit values are not complied with.    </sup> | Carbon monoxide (g/kWh)  | Non-methane hydro-carbons (g/kWh)  | Methane (g/kWh)  <sup> c)   For natural gas engines only.    </sup> | Nitrogen oxides (g/kWh)  | Particu-lates  <sup> d)   Not applicable to gas-fuelled engines at stage A and stages B1 and B2.    </sup> |
-|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 | A (2000)  | 1.10.2001  | 5.45  | 0.78  | 1.6  | 5.0  | 0.16 / 0.21  <sup> e)   For engines with a swept volume below 0.75 dm <sup>3</sup> per cylinder and a rated power speed above 3000 revolutions per minute.    </sup> |
 | B1 (2005)  | 1.10.2006  | 4.0  | 0.55  | 1.1  | 3.5  | 0.03  |
 | B2 (2008)  | 1.10.2009  | 4.0  | 0.55  | 1.1  | 2.0  | 0.03  |
@@ -1472,7 +1530,7 @@ Environmental quality specifications for petrol and diesel are given in tables 8
 *Table 4:* Limit values (stage I) for diesel engines for non-road mobile machines (measurement procedure ISO 8178) 
 
 | Net power (P) (kW)  | To be applied from  <sup> a)   With effect from the given date and with the exception of machinery and engines intended for export to countries that are not parties to the present Protocol, Parties shall permit the registration, where applicable, and placing on the market of new engines, whether or not installed in machinery, only if they meet the limit values set out in the table. Type approval for an engine type or family shall be refused with effect from 30 June 1998 if it fails to meet the limit values.    </sup> | Carbon monoxide (g/kWh)  | Hydro-carbons (g/kWh)  | Nitrogen oxides (g/kWh)  | Particu-late matter (g/kWh)  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 130 ≤ P < 560  | 31.12.1998  | 5.0  | 1.3  | 9.2  | 0.54  |
 | 75 ≤ P < 130  | 31.12.1998  | 5.0  | 1.3  | 9.2  | 0.70  |
 | 37 ≤ P < 75  | 31.03.1998  | 6.5  | 1.3  | 9.2  | 0.85  |
@@ -1480,7 +1538,7 @@ Environmental quality specifications for petrol and diesel are given in tables 8
 *Note*: These limits are engine-out limits and shall be achieved before any exhaust after-treatment service.  *Table 5:* Limit values (stage II) for diesel engines for non-road mobile machines (measurement procedure ISO 8178) 
 
 | Net power (P) (kW)  | To be applied from  <sup> a)   With effect from the given dates and with the exception of machinery and engines intended for export to countries that are not parties to the present Protocol, Parties shall permit the registration, where applicable, and placing on the market of new engines, whether or not installed in machinery, only if they meet the limit values set out in the table. Type approval for an engine type or family shall be refused with effect from twelve months prior to these dates if it fails to meet the limit values.    </sup> | Carbon monoxide (g/kWh)  | Hydro-carbons (g/kWh)  | Nitrogen oxides (g/kWh)  | Particu-late matter (g/kWh)  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 130 ≤ P < 560  | 31.12.2001  | 3.5  | 1.0  | 6.0  | 0.2  |
 | 75 ≤ P < 130  | 31.12.2002  | 5.0  | 1.0  | 6.0  | 0,3  |
 | 37 ≤ P < 75  | 31.12.2003  | 5.0  | 1.3  | 7.0  | 0.4  |
@@ -1489,14 +1547,14 @@ Environmental quality specifications for petrol and diesel are given in tables 8
 *Table 6:* Limit values for motorcycles and 3- and 4-wheelers ( 50 cm3; 45 km/h) to be applied from 17 June 1999 <sup> a)  Type approval shall be refused as from the given date if the vehicle’s emissions do not meet the limit values.  </sup> 
 
 | Engine type  | Limit values  |
-|:---|:---|
+|---|---|
 | 2-stroke  | CO = 8 g/km HC = 4 g/km NO <sub>x</sub> = 0.1 g/km  |
 | 4-stroke  | CO = 13 g/km HC = 3 g/km NO <sub>x</sub> = 0.3 g/km  |
 
 *Note*: For 3- and 4-wheelers, the limit values have to be multiplied by 1.5.  *Table 7:* Limit values for mopeds (≤ 50 cm3; < 45 km/h) 
 
 | Stage  | To be applied from  <sup> a)   Type approval shall be refused as from the given dates if the vehicle’s emissions do not meet the limit values.    </sup> | Limit values  |
-|:---|:---|:---|
+|---|---|---|
 | CO (g/km)  | HC + NO <sub>x</sub> (g/km)  |
 | I  | 17.6.1999  | 6.0  <sup> b)   For 3- and 4-wheelers, multiply by 2.    </sup> | 3.0  <sup> b)   For 3- and 4-wheelers, multiply by 2.    </sup> |
 | II  | 17.6.2002  | 1.0  <sup> c)   For 3- and 4-wheelers, 3.5 g/km.    </sup> | 1.2  |
@@ -1506,7 +1564,7 @@ Environmental quality specifications for petrol and diesel are given in tables 8
 *Table 8:* Environmental specifications for marketed fuels to be used for vehicles equipped with positive-ignition engines Type: Petrol  
 
 | Parameter  | Unit  | Limits  <sup> a)   The values quoted in the specification are ‘‘true values’’. In the establishment of their limit values, the terms of ISO 259, ‘‘Petroleum products – Determination and application of precision data in relation to methods of test’’, have been applied and, in fixing a minimum value, a minimum difference of 2R above zero has been taken into account (R = reproducibility). The results of individual measurements shall be interpreted on the basis of the criteria described in ISO 4259 (published in 1995).    </sup> | Test  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Minimum  | Maximum  | Method  <sup> b)   EN – European standard; ASTM – American Society for Testing and Materials; DIS – Draft international standard.    </sup> | Date of publica-tion  |
 | Research octane number  | --- | 95  | –  | EN 25164  | 1993  |
 | Motor octane number  | --- | 85  | –  | EN 25163  | 1993  |
@@ -1532,7 +1590,7 @@ Environmental quality specifications for petrol and diesel are given in tables 8
 *Note*: Parties shall ensure that, no later than 1 January 2000, petrol can be marketed within their territory only if it complies with the environmental specifications set out in table 8. Where a Party determines that banning petrol with a sulphur content which does not comply with the specifications for sulphur content in table 8, but does not exceed the current content, would raise severe difficulties for its industries in making the necessary changes in their manufacturing facilities by 1 January 2000, it may extend the time period of marketing within its territory until 1 January 2003 at the latest. In such a case the Party shall specify, in a declaration to be deposited together with its instrument of ratification, acceptance, approval or accession, that it intends to extend the time period and present written information on the reason for this to the Executive Body. *Table 9:* Environmental specifications for marketed fuels to be used for vehicles equipped with compression-ignition engines Type: Diesel fuel  
 
 | Parameter  | Unit  | Limits  <sup> a)   The values quoted in the specification are ‘‘true values’’. In the establishment of their limit values, the terms of ISO 4259, ‘‘Petroleum products – Determination and application of precision data in relation to methods of test’’, have been applied and, in fixing a minimum value, a minimum difference of 2R above zero has been taken into account (R = reproducibility). The results of individual measurements shall be interpreted on the basis of the criteria described in ISO 4259 (published in 1995).    </sup> | Test  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Minimum  | Maximum  | Method  <sup> b)   EN – European standard; IP – The Institute of Petroleum; DIS – Draft international standard.    </sup> | Date of publication  |
 | Cetane number  | --- | 51  | –  | EN-ISO 5165  | 1992  |
 | Density at 15°C  | kg/m3  | –  | 845  | EN-ISO 3675  | 1995  |
@@ -1543,7 +1601,7 @@ Environmental quality specifications for petrol and diesel are given in tables 8
 *Note*: Parties shall ensure that, no later than 1 January 2000, diesel fuel can be marketed within their territory only if it complies with the environmental specifications set out in table 9. Where a Party determines that banning diesel fuel with a sulphur content which does not comply with the specifications for sulphur content in table 9, but does not exceed the current content, would raise severe difficulties for its industries in making the necessary changes in their manufacturing facilities by 1 January 2000, it may extend the time period of marketing within its territory until 1 January 2003 at the latest. In such a case the Party shall specify, in a declaration to be deposited together with its instrument of ratification, acceptance, approval or accession, that it intends to extend the time period and present written information on the reason for this to the Executive Body. *Table 10:* Environmental specifications for marketed fuels to be used for vehicles equipped with positive-ignition engines Type: Petrol  
 
 | Parameter  | Unit  | Limits  <sup> a)   The values quoted in the specification are ‘‘true values’’. In the establishment of their limit values, the terms of ISO 4259, ‘‘Petroleum products – Determination and application of precision data in relation to methods of test’’, have been applied and, in fixing a minimum value, a minimum difference of 2R above zero has been taken into account (R = reproducibility). The results of individual measurements shall be interpreted on the basis of the criteria described in ISO 4259.    </sup> | Test  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Minimum  | Maximum  | Method  <sup> b)   EN – European standard; DIS – Draft international standard.    </sup> | Date of publica-tion  |
 | Research octane number  | --- | 95  | --- | EN 25164  | 1993  |
 | Motor octane number  | --- | 85  | --- | EN 5163  | 1993  |
@@ -1561,7 +1619,7 @@ Environmental quality specifications for petrol and diesel are given in tables 8
 *Note*: Parties shall ensure that, no later than 1 January 2005, petrol can be marketed within their territory only if it complies with the environmental specifications set out in table 10. Where a Party determines that banning petrol with a sul-phur content which does not comply with the specifications for sulphur content in table 10, but does comply with table 8, would raise severe difficulties for its industries in making the necessary changes in their manufacturing facilities by 1 January 2005, it may extend the time period of marketing within its territory until 1 January 2007 at the latest. In such a case the Party shall specify, in a declaration to be deposited together with its instrument of ratification, acceptance, approval or accession, that it intends to extend the time period and present written information on the reason for this to the Executive Body. *Table 11:* Environmental specifications for marketed fuels to be used for vehicles equipped with compression-ignition engines Type: Diesel fuel  
 
 | Parameter  | Unit  | Limits  <sup> a)   The values quoted in the specification are ‘‘true values’’. In the establishment of their limit values, the terms of ISO 4259, ‘‘Petroleum products – Determination and application of precision data in relation to methods of test’’, have been applied and, in fixing a minimum value, a minimum difference of 2R above zero has been taken into account (R = reproducibility). The results of individual measurements shall be interpreted on the basis of the criteria described in ISO 4259.    </sup> | Test  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Minimum  | Maximum  | Method  <sup> b)   EN – European standard; DIS – Draft international standard.    </sup> | Date of publication  |
 | Cetane number  | --- | --- | –  | --- | --- |
 | Density at 15°C  | kg/m3  | --- | –  | --- | --- |
@@ -1745,6 +1803,8 @@ iii. voor de Verenigde Staten van Amerika, de National Ambient Air Quality Stand
 
 ####Fundamentele verplichtingen
 
+Wordt voorlopig toegepast per 04-05-2012   
+
 1.  Elke Partij die een emissieplafond heeft in een van de tabellen in bijlage II, vermindert en handhaaft de vermindering van haar jaarlijkse emissies in overeenstemming met dat plafond en de in die bijlage nader omschreven tijdschema's. Elke Partij controleert ten minste haar jaarlijkse emissies van verontreinigende stoffen overeenkomstig de verplichtingen in bijlage II.   
 2.  Elke Partij past de in de bijlagen IV, V en VI vermelde grenswaarden toe op elke nieuwe stationaire bron binnen een in die bijlagen omschreven categorie van stationaire bronnen, uiterlijk volgens de in bijlage VII vermelde tijdschema's. Bij wijze van alternatief kan een Partij andere strategieën voor emissiereductie toepassen die leiden tot gelijkwaardige algehele emissieniveaus voor alle categorieën van bronnen tezamen.   
 3.  Elke Partij past, voorzover dit technisch en economisch haalbaar is en de kosten en voordelen in overweging nemend, de in de bijlagen IV, V en VI vermelde grenswaarden toe op elke bestaande stationaire bron binnen een in die bijlagen omschreven categorie van stationaire bronnen, uiterlijk volgens het in bijlage VII vermelde tijdschema. Bij wijze van alternatief kan een Partij andere strategieën voor emissiereductie toepassen die leiden tot gelijkwaardige algehele emissieniveaus voor alle categorieën van bronnen tezamen of die, voor Partijen buiten de geografische reikwijdte van het EMEP, noodzakelijk zijn om nationale of regionale doelstellingen voor de bestrijding van verzuring te bereiken en om te voldoen aan nationale luchtkwaliteitsnormen.   
@@ -1772,6 +1832,10 @@ a. indien zij ligt binnen de geografische reikwijdte van het EMEP, slechts tot n
 
 b. indien zij niet ligt binnen de geografische reikwijdte van het EMEP, slechts tot naleving van de bepalingen van de leden 1, 2, 3, 5, 6 en 7 en van bijlage II verplicht binnen het desbetreffende PEMA voor elke verontreinigende stof (stikstofoxiden, zwavel en/of vluchtige organische stoffen) waarvoor een PEMA binnen haar rechtsmacht is opgenomen in bijlage III, en is nergens binnen haar rechtsmacht verplicht tot naleving van lid 8.     
 11.  Bij de bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Protocol overleggen Canada en de Verenigde Staten van Amerika hun respectievelijke verplichtingen voor de emissiereductie van zwavel, stikstofoxiden en vluchtige organische stoffen aan het Uitvoerend Orgaan ten behoeve van de automatische verwerking in bijlage II.   
+11 bis.   Dit lid is nog niet in werking getreden.    
+11 ter.   Dit lid is nog niet in werking getreden.    
+11 quater.   Dit lid is nog niet in werking getreden.    
+11 quinquies.  Ten behoeve van het vergelijken van de totale nationale emissiewaarden met de emissiereductieverplichtingen zoals bedoeld in het eerste lid, mag een Partij een procedure gebruiken die omschreven is in een besluit van het Uitvoerend Orgaan. Een dergelijke procedure dient bepalingen te bevatten voor het indienen van ondersteunende documenten en inzake toetsing van het gebruik van de procedure.   
 12.  De Partijen gaan, met inachtneming van het resultaat van de eerste toetsing ingevolge artikel 10, lid 2, en uiterlijk een jaar na de afronding van die toetsing, onderhandelingen aan inzake verdere verplichtingen ter vermindering van de emissies.   
 
 ### Artikel  4  
@@ -1954,10 +2018,12 @@ De bijlagen bij dit Protocol vormen een integrerend deel van het Protocol.
 
 ### Artikel  13  
 
-####Wijzigingen en aanpassingen
+####Aanpassingen
+
+Wordt voorlopig toegepast per 04-05-2012   
 
 1.  Elke Partij kan wijzigingen van dit Protocol voorstellen. Elke Partij bij het Verdrag kan een aanpassing van bijlage II bij dit Protocol voorstellen om daaraan haar naam toe te voegen, tezamen met de emissieniveaus, de emissieplafonds en de percentuele emissiereducties.   
-2.  Voorgestelde wijzigingen en aanpassingen worden schriftelijk ingediend bij de uitvoerend secretaris van de Commissie, die ze aan alle Partijen bekendmaakt. De Partijen bespreken de voorgestelde wijzigingen en aanpassingen op de eerstvolgende zitting van het Uitvoerend Orgaan, op voorwaarde dat deze voorstellen ten minste negentig dagen van tevoren door de uitvoerend secretaris aan de Partijen toegezonden zijn.   
+2.  Elke Partij kan een aanpassing voorstellen van haar reeds in bijlage II vermelde emissiereductieverplichtingen. Een dergelijk voorstel dient ondersteunende documentatie te bevatten en wordt getoetst zoals omschreven in een besluit van het Uitvoerend Orgaan. Deze toetsing vindt plaats voordat het voorstel door de Partijen wordt besproken in overeenstemming met het vierde lid.   
 3.  Wijzigingen van dit Protocol, met inbegrip van de bijlagen II tot en met IX worden bij consensus aangenomen door de Partijen die aanwezig zijn op een zitting van het Uitvoerend Orgaan en worden voor de Partijen die deze hebben aanvaard, van kracht op de negentigste dag na de datum waarop tweederde van de Partijen haar akte van aanvaarding daarvan heeft neergelegd bij de depositaris. Voor elke andere Partij worden wijzigingen van kracht op de negentigste dag na de datum waarop die Partij haar akte van aanvaarding daarvan heeft neergelegd.   
 4.  Wijzigingen van de bijlagen bij dit Protocol, behoudens de in lid 3 bedoelde bijlagen, worden bij consensus aangenomen door de Partijen die aanwezig zijn bij een zitting van het Uitvoerend Orgaan. Na het verstrijken van negentig dagen na de datum van bekendmaking daarvan aan alle Partijen door de uitvoerend secretaris van de Commissie wordt een wijziging van een dergelijke bijlage van kracht voor die Partijen die geen kennisgeving in overeenstemming met de bepalingen van lid 5 hebben ingediend bij de depositaris, op voorwaarde dat ten minste zestien Partijen niet een dergelijke kennisgeving hebben ingediend.   
 5.  Elke Partij die een wijziging van een bijlage, behoudens een in lid 3 bedoelde bijdrage, niet kan goedkeuren, stelt de depositaris hiervan schriftelijk in kennis binnen negentig dagen na de datum van bekendmaking van de aanneming. De depositaris stelt alle Partijen onverwijld in kennis wanneer hij een dergelijke kennisgeving ontvangt. Een Partij kan te allen tijde een aanvaarding in de plaats stellen van haar eerdere kennisgeving en, door het neerleggen van een akte van aanvaarding bij de depositaris, wordt de wijziging van die bijlage van kracht voor die Partij.   
@@ -2019,7 +2085,7 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Prot
 
 ### 1  
 
-De kritische belasting (zoals omschreven in artikel 1) inzake verzuring voor ecosystemen wordt bepaald in overeenstemming met de bij het Verdrag behorende 'Manual on methodologies and criteria for mapping critical levels/loads and geographical areas where they are exceeded' (Handleiding inzake methodologieën en criteria voor het in kaart brengen van kritische niveaus/belastingswaarden en de geografische gebieden waar deze worden overschreden). Het is de maximale hoeveelheid verzurende depositie die een ecosysteem op lange termijn kan verdragen zonder geschaad te worden. Voor de kritische belasting inzake verzuring door stikstof wordt rekening gehouden met stikstofverwijderende processen binnen het ecosysteem (bijvoorbeeld opname door planten). Bij de kritische belasting inzake verzuring door zwavel is dit niet zo. Voor een gecombineerde kritische belasting inzake verzuring door zwavel en stikstof wordt alleen rekening gehouden met stikstof wanneer de stikstofdepositie groter is dan de stikstofverwijderende processen van het ecosysteem. Alle door Partijen gemelde kritische belastingswaarden worden samengevat voor gebruik in de geïntegreerde evaluatiemodellen die worden benut om als richtsnoer te dienen voor het vaststellen van de emissieplafonds in bijlage II.  
+De kritische belasting (zoals omschreven in artikel 1) inzake verzuring voor ecosystemen wordt bepaald in overeenstemming met de bij het Verdrag behorende „Manual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends”, („Handleiding inzake methodologieën en criteria voor het modelleren en in kaart brengen van kritische belastingen en kritische niveaus en luchtverontreiningingseffecten, -risico’s en -trends”). Het is de maximale hoeveelheid verzurende depositie die een ecosysteem op lange termijn kan verdragen zonder geschaad te worden. Voor de kritische belasting inzake verzuring door stikstof wordt rekening gehouden met stikstofverwijderende processen binnen het ecosysteem (bijvoorbeeld opname door planten). Kritische belastingswaarden inzake verzuring door zwavel zijn waarden die – op de lange termijn – geen nadelige gevolgen hebben voor de structuur en functies van ecosystemen. Voor een gecombineerde kritische belasting inzake verzuring door zwavel en stikstof wordt alleen rekening gehouden met stikstof wanneer de stikstofdepositie groter is dan de stikstofverwijderende processen van het ecosysteem, zoals opname door vegetatie. Alle door Partijen gemelde en door het Uitvoerend Orgaan goedgekeurde kritische belastingswaarden worden samengevat voor gebruik in de geïntegreerde evaluatiemodellen die worden benut om als richtsnoer te dienen voor het vaststellen van de emissiereductieverplichtingen in bijlage II.  
 
 ### B  
 
@@ -2027,25 +2093,35 @@ De kritische belasting (zoals omschreven in artikel 1) inzake verzuring voor eco
 
 ### 2  
 
-Voor Oost-Canada is de kritische zwavel- plus stikstofbelasting voor bosbouwecosystemen bepaald met wetenschappelijke methodologieën en criteria (Canadian Acid Rain Assessment van 1997) vergelijkbaar met die in de bij het Verdrag behorende 'Manual on methodologies and criteria for mapping critical levels/loads and geographical areas where they are exceeded'. Waarden van de kritische belasting (zoals omschreven in artikel 1) inzake verzuring voor Oost-Canada worden voor sulfaat in de neerslag uitgedrukt in kg/ha/jaar. Alberta in West-Canada, waar de depositieniveaus momenteel onder de milieulimieten liggen, heeft de generieke classificatiesystemen voor kritische belasting aanvaard die in Europa voor bodems voor potentiële verzuring gebruikt worden. Potentiële verzuring wordt gedefinieerd door de totale (zowel natte als droge) depositie van basische kationen af te trekken van die van zwavel en stikstof. Naast de kritische belasting inzake potentiële verzuring heeft Alberta met het oog op het beheer van de verzurende emissies ook streef- en monitoringswaarden qua belasting vastgesteld.  
+In Canada worden kritische belastingswaarden voor zuurdepositie en de geografische gebieden waar deze worden overschreden voor meren en bos-ecosystemen in bergregio’s vastgesteld en in kaart gebracht met wetenschappelijke methodologieën en criteria die vergelijkbaar zijn met die in de bij het Verdrag horende „Handleiding inzake methodologieën en criteria voor het modelleren en in kaart brengen van kritische belastingen en kritische niveaus en luchtverontreiningingseffecten, -risico’s en -trends”. Kritische belastingswaarden voor totaal zwavel plus stikstof en de overschrijdingsniveaus zijn in heel Canada in kaart gebracht (ten zuiden van 60° noorderbreedte) en worden uitgedrukt in zuur-equivalenten per hectare per jaar (eq/ha/yr) (2004 Canadian Acid Deposition Science Assessment; 2008 Canadian Council of Ministers of the Environment). De provincie Alberta heeft de generieke classificatiesystemen voor kritische belasting inzake potentiële verzuring aanvaard die in Europa voor bodems worden gebruikt teneinde bodems te kunnen aanmerken als zeer gevoelig, matig gevoelig en ongevoelig voor zuurdepositie. Kritische streef- en monitoringsbelastingen zijn voor elke bodemklasse gedefinieerd en beheermaatregelen zijn voorgeschreven ingevolge het Alberta Acid Deposition Management Framework, al naargelang van toepassing.  
 
 ### 3  
 
-Voor de Verenigde Staten van Amerika worden de gevolgen van verzuring geraamd door het evalueren van de gevoeligheid van ecosystemen, de totale belasting van verzurende verbindingen binnen ecosystemen, en de onzekerheid in verband met stikstofverwijderende processen binnen ecosystemen.  
+Deze belastingswaarden en gevolgen worden gebruikt voor geïntegreerde evaluatie-activiteiten, waaronder het aanleveren van gegevens voor internationale inspanningen voor het evalueren van de reactie van het ecosysteem op de belasting van verzurende verbindingen, en bieden een richtlijn voor het bepalen van de emissiereductieverplichtingen voor Canada in bijlage II.  
 
 ### 4  
 
-Deze belastingswaarden en gevolgen worden gebruikt in geïntegreerde evaluatiemodellen en dienen als richtsnoer voor het vaststellen van de emissieplafonds en/of -reducties voor Canada en de Verenigde Staten van Amerika in bijlage II.  
+Voor de Verenigde Staten van Amerika worden de gevolgen van verzuring beoordeeld door het evalueren van de gevoeligheid van ecosystemen voor en de reactie ervan op de belasting van verzurende verbindingen, gebruikmakend van peer-reviewed wetenschappelijke methodologieën en criteria, en rekening houdend met de onzekerheden in verband met stikstofcycli(ussen) in ecosystemen. Bij het vaststellen van secundaire nationale kwaliteitsnormen voor omgevingslucht voor NO <sub>x</sub> en SO <sub>2</sub> wordt vervolgens rekening gehouden met de negatieve gevolgen voor vegetatie en ecosystemen. Geïntegreerde evaluatiemodellen en de luchtkwaliteitsnormen worden gebruikt bij het bieden van een richtlijn voor het bepalen van de emissiereductieverplichtingen voor de Verenigde Staten van Amerika in bijlage II.  
 
 ### II  
 
 ####KRITISCHE BELASTING MET VOEDINGSSTIKSTOF
 
+### A  
+
 ####Voor Partijen binnen de geografische reikwijdte van het EMEP
 
 ### 5  
 
-De kritische belasting (zoals omschreven in artikel 1) met stikstofnutriënten (eutrofiëring) voor ecosystemen wordt bepaald in overeenstemming met de bij het Verdrag behorende ``Manual on methodologies and criteria for mapping critical levels/loads and geographical areas where they are exceeded". Het is de maximale hoeveelheid depositie van eutrofiërende stikstof die een ecosysteem op lange termijn kan verdragen zonder geschaad te worden. Alle door Partijen gemelde kritische belastingswaarden worden samengevat voor gebruik in geïntegreerde evaluatiemodellen die worden benut ter voorlichting bij het vaststellen van de emissieplafonds in bijlage II.  
+De kritische belasting (zoals omschreven in artikel 1) met stikstofnutriënten (eutrofiëring) voor ecosystemen wordt bepaald in overeenstemming met de bij het Verdrag behorende “Manual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends („Handleiding inzake methodologieën en criteria voor het modelleren en in kaart brengen van kritische belastingen en kritische niveaus en luchtverontreiningingseffecten, -risico’s en -trends”. Het is de maximale hoeveelheid depositie van eutrofiërende stikstof die – op de lange termijn – geen nadelige gevolgen heeft voor de structuur en functies van ecosystemen. Alle door Partijen gemelde kritische belastingswaarden worden samengevat voor gebruik in geïntegreerde evaluatiemodellen die worden benut ter voorlichting bij het vaststellen van de emissiereductieverplichtingen in bijlage II.  
+
+### B  
+
+####Voor Partijen in Noord-Amerika
+
+### 5bis  
+
+Voor de Verenigde Staten van Amerika worden de gevolgen van voedingsstikstoffen (eutrofiëring) voor ecosystemen beoordeeld door het evalueren van de gevoeligheid van ecosystemen voor en de reactie ervan op de belasting van stikstofverbindingen, gebruikmakend van peer-reviewed wetenschappelijke methodologieën en criteria, en rekening houdend met onzekerheden in verband met de stikstofcyclus in ecosystemen. Bij het vaststellen van secundaire nationale kwaliteitsnormen voor omgevingslucht voor NO <sub>x</sub> wordt vervolgens rekening gehouden met de negatieve gevolgen voor vegetatie en ecosystemen. Geïntegreerde evaluatiemodellen en de luchtkwaliteitsnormen worden gebruikt bij het bieden van een richtlijn voor het bepalen van de emissiereductieverplichtingen voor de Verenigde Staten van Amerika in bijlage II.  
 
 ### III  
 
@@ -2057,15 +2133,15 @@ De kritische belasting (zoals omschreven in artikel 1) met stikstofnutriënten (
 
 ### 6  
 
-Kritische niveaus (zoals omschreven in artikel 1) van ozon worden bepaald ter bescherming van planten in overeenstemming met de bij het Verdrag behorende 'Manual on methodologies and criteria for mapping critical levels/loads and geographical areas where they are exceeded'. Zij worden uitgedrukt als een cumulatieve blootstelling boven een drempelconcentratie van ozon van 40 ppb (delen per miljard in volume). Deze blootstellingsindex wordt aangeduid als AOT40 (geaccumuleerde blootstelling boven een drempel van 40 ppb). De AOT40 wordt berekend als de som van de verschillen tussen de concentratie per uur (in ppb) en 40 ppb voor elk uur dat de concentratie 40 ppb overschrijdt.  
+Kritische niveaus (zoals omschreven in artikel 1) van ozon worden bepaald ter bescherming van planten in overeenstemming met het bij het Verdrag behorende („Handleiding inzake methodologieën en criteria voor het modelleren en in kaart brengen van kritische belastingen en kritische niveaus en luchtverontreiningingseffecten, -risico’s en -trends”. Zij worden uitgedrukt in termen van de cumulatieve waarde van stomataire stromen of concentraties boven het bladerdak. Kritische niveaus worden bij voorkeur gebaseerd op stomataire stromen omdat deze biologisch relevanter worden geacht aangezien hierbij rekening wordt gehouden met veranderingen in de opname van ozon door vegetatie onder invloed van klimaat, bodem en planten.  
 
 ### 7  
 
-Het op lange termijn voor gewassen kritische ozonniveau van een AOT40 van 3000 ppb per uur voor mei-juli (gebruikt als een typisch groeiseizoen) en voor uren daglicht werd gebruikt om risicogebieden te omschrijven waar het kritische niveau wordt overschreden. Een specifieke vermindering van overschrijdingen werd als doelstelling genomen bij het opstellen van geïntegreerde evaluatiemodellen voor dit Protocol ter voorlichting bij het vaststellen van de emissieplafonds in bijlage II. Het op lange termijn voor gewassen kritische ozonniveau wordt geacht ook andere planten te beschermen zoals bomen en natuurlijke vegetatie. Verder wetenschappelijk werk vindt momenteel plaats voor het ontwikkelen van een gedifferentieerdere interpretatie van overschrijdingen van voor planten kritische ozonniveaus.  
+Voor een aantal soorten gewassen, (semi-)natuurlijke vegetatie en bosbomen zijn kritische ozonniveaus afgeleid. De gekozen kritische niveaus hebben betrekking op de belangrijkste milieueffecten zoals het verlies van voedselzekerheid, verminderde koolstofopslag in de levende biomassa van bomen en bijkomende nadelige gevolgen voor het bos- en (semi-)natuurlijke ecosystemen.  
 
 ### 8  
 
-Een voor de menselijke gezondheid kritisch ozonniveau wordt vertegenwoordigd door het ozonniveau van 120 mg/m <sup>3</sup> als 8-uurgemiddelde in de Air Quality Guideline van de WHO. In samenwerking met het Regionaal Bureau voor Europa van de Wereldgezondheidsorganisatie (WHO/EURO) werd een kritisch niveau uitgedrukt als een AOT60 (geaccumuleerde blootstelling boven een drempelwaarde van 60 ppb), d.w.z. 120 mg/m <sup>3</sup> op jaarbasis, aangenomen als vervanging voor de Air Quality Guideline van de WHO ten behoeve van geïntegreerde evaluatiemodellen. Deze werd gebruikt om risicogebieden te omschrijven waar de kritische grens wordt overschreden. Een specifieke vermindering van deze overschrijdingen werd als doelstelling genomen bij het opstellen van geïntegreerde evaluatiemodellen voor dit Protocol om als richtsnoer te dienen voor het vaststellen van de emissieplafonds in bijlage II.3 als 8-uurgemiddelde in de Air Quality Guideline van de WHO. In samenwerking met het Regionaal Bureau voor Europa van de Wereldgezondheidsorganisatie (WHO/EURO) werd een kritisch niveau uitgedrukt als een AOT60 (geaccumuleerde blootstelling boven een drempelwaarde van 60 ppb), d.w.z. 120 mg/m <sup>3</sup> op jaarbasis, aangenomen als vervanging voor de Air Quality Guideline van de WHO ten behoeve van geïntegreerde evaluatiemodellen. Deze werd gebruikt om risicogebieden te omschrijven waar de kritische grens wordt overschreden. Een specifieke vermindering van deze overschrijdingen werd als doelstelling genomen bij het opstellen van geïntegreerde evaluatiemodellen voor dit Protocol om als richtsnoer te dienen voor het vaststellen van de emissieplafonds in bijlage II.  
+Het voor de menselijke gezondheid kritische ozonniveau wordt vastgesteld overeenkomstig de Air Quality Guidelines van de Wereldgezondheidsorganisatie (WHO) om de menselijke gezondheid te beschermen tegen een scala van gezondheidseffecten, met inbegrip van een verhoogd risico op vroegtijdig overlijden en ziekten.  
 
 ### B  
 
@@ -2073,11 +2149,51 @@ Een voor de menselijke gezondheid kritisch ozonniveau wordt vertegenwoordigd doo
 
 ### 9  
 
-Voor Canada worden kritische ozonniveaus bepaald ter bescherming van de menselijke gezondheid en het milieu en zij worden gebruikt om een norm voor ozon voor geheel Canada vast te stellen. De emissieplafonds in bijlage II worden omschreven in overeenstemming met het streefniveau dat vereist is om de norm voor ozon voor geheel Canada te bereiken.  
+Voor Canada is het wel te verstaan dat er geen onderdrempel is voor gevolgen voor de menselijke gezondheid als gevolg van ozon. Er zijn namelijk nadelige gevolgen geobserveerd bij alle in Canada voorkomende ozonconcentraties. De Canadian Ambient Air Quality Standard for ozone (Canadese kwaliteitsnorm voor omgevingslucht voor ozon) is ingesteld ter ondersteuning van beleidsinspanningen op nationaal niveau, en door rechtsgebieden, om de gevolgen voor de menselijke gezondheid en het milieu aanzienlijk te verminderen.  
 
 ### 10  
 
-Voor de Verenigde Staten van Amerika worden kritische ozonniveaus bepaald ter bescherming van de menselijke gezondheid met een passende veiligheidsmarge en ter bescherming van het algemeen welzijn tegen bekende of verwachte nadelige gevolgen. Verder worden ze gebruikt om een nationale kwaliteitsnorm voor omgevingslucht vast te stellen. Geïntegreerde evaluatiemodellen en de kwaliteitsnorm voor lucht worden gebruikt ter voorlichting bij het vaststellen van de emissieplafonds en/of -reducties voor de Verenigde Staten van Amerika in bijlage II.  
+Voor de Verenigde Staten van Amerika worden kritische niveaus vastgesteld in de vorm van primaire en secundaire nationale kwaliteitsnormen voor omgevingslucht voor ozon ter bescherming van de menselijke gezondheid met een passende veiligheidsmarge en ter bescherming van het algemeen welzijn met inbegrip van vegetatie tegen bekende of verwachte nadelige gevolgen. Geïntegreerde evaluatiemodellen en de kwaliteitsnormen voor lucht worden gebruikt ter voorlichting bij het vaststellen van de emissiereductieverplichtingen voor de Verenigde Staten van Amerika in bijlage II.  
+
+### IV  
+
+####Kritische niveaus van zwevende deeltjes
+
+### A  
+
+####Voor Partijen binnen de geografische reikwijdte van het EMEP
+
+### 11  
+
+Het kritische niveau van zwevende deeltjes voor de menselijke gezondheid wordt overeenkomstig de WHO Air Quality Guidelines vastgesteld als de massaconcentratie van PM <sub>2,5</sub>. Het bereiken van het niveau uit de WHO-richtlijnen zorgt naar verwachting voor een doeltreffende vermindering van de gezondheidsrisico’s. De PM <sub>2,5</sub> -concentratie op de lange termijn, uitgedrukt als een jaarlijks gemiddelde, is evenredig aan het gezondheidsrisico, met inbegrip van een vermindering van de levensverwachting. Deze indicator wordt gebruikt in geïntegreerde modellen om een richtlijn voor emissiereductie te bieden. Naast het jaarlijkse richtlijnniveau wordt een richtlijnniveau voor de korte termijn (gemiddelde over 24 uur) gedefinieerd ter bescherming tegen verontreinigingspieken die een aanzienlijke impact hebben op het ziektecijfer of sterftecijfer.  
+
+### B  
+
+####Voor Partijen in Noord-Amerika
+
+### 12  
+
+Voor Canada is het wel te verstaan dat er geen onderdrempel is voor gevolgen voor de menselijke gezondheid als gevolg van zwevende deeltjes. Er zijn namelijk nadelige gevolgen geobserveerd bij alle in Canada voorkomende concentraties zwevende deeltjes. De Canadese nationale norm voor zwevende deeltjes is ingesteld ter ondersteuning van beleidsinspanningen op nationaal niveau, en door rechtsgebieden, om de gevolgen voor de menselijke gezondheid en het milieu aanzienlijk te verminderen.  
+
+### 13  
+
+Voor de Verenigde Staten zijn kritische niveaus in de vorm van primaire en secundaire nationale kwaliteitsnormen voor omgevingslucht voor zwevende deeltjes bepaald ter bescherming van de menselijke gezondheid met een passende veiligheidsmarge en ter bescherming van het algemeen welzijn (met inbegrip van zichtbaarheid en door mensen gemaakte materialen) tegen bekende of verwachte nadelige gevolgen. Geïntegreerde evaluatiemodellen en luchtkwaliteitsnormen worden gebruikt bij het bieden van een richtlijn voor het bepalen van de emissiereductieverplichtingen voor de Verenigde Staten van Amerika in bijlage II.  
+
+### V  
+
+####Kritische niveaus van ammoniak
+
+### 14  
+
+Kritische niveaus (zoals omschreven in artikel 1) van ammoniak worden bepaald ter bescherming van planten in overeenstemming met de bij het Verdrag behorende „Handleiding inzake methodologieën en criteria voor het modelleren en in kaart brengen van kritische belastingen en kritische niveaus en luchtverontreiningingseffecten, -risico’s en -trends”.  
+
+### VI  
+
+####Aanvaardbare niveaus van luchtverontreinigende stoffen om materialen te beschermen
+
+### 15  
+
+Aanvaardbare niveaus van verzurende verontreinigende stoffen, ozon en zwevende deeltjes worden bepaald ter bescherming van materialen en cultureel erfgoed in overeenstemming met de bij het Verdrag behorende „Handleiding inzake methodologieën en criteria voor het modelleren en in kaart brengen van kritische belastingen en kritische niveaus en luchtverontreiningingseffecten, -risico’s en -trends”. De aanvaardbare niveaus van verontreinigende stoffen betreffen de maximale blootstelling die een materiaal op lange termijn kan verdragen zonder dat er schade ontstaat die groter is dan de hierboven gespecificeerde corrosiesnelheden. Deze schade, die kan worden berekend aan de hand van beschikbare dosis-effectfuncties, is het resultaat van verschillende verontreinigende stoffen die in verschillende combinaties samen een uitwerking hebben die afhankelijk is van het materiaal: zuurtegraad (zwaveldioxide (SO <sub>2</sub>), salpeterzuur (HNO <sub>3</sub>)), ozon en zwevende deeltjes.  
 
 ### Bijlage  II  
 
@@ -2086,7 +2202,7 @@ Voor de Verenigde Staten van Amerika worden kritische ozonniveaus bepaald ter be
 De in onderstaande tabellen vermelde emissieplafonds betreffen de bepalingen van artikel 3, leden 1 en 10, van dit Protocol. De vermelde emissieniveaus voor 1980 en 1990 dienen alleen ter informatie. *Tabel 1:* Emissieplafonds voor zwavel (in duizend ton SO <sub>2</sub> per jaar)  
 
 |--- | Emissie-niveaus  | Emissie-plafonds  | Percentuele emissiereducties voor 2010  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Partij  | 1980  | 1990  | voor 2010  | (basisjaar 1990)  |
 | Armenië  | 141  | 73  | 73  | 0%  |
 | Oostenrijk  | 400  | 91  | 39  | –57%  |
@@ -2130,7 +2246,7 @@ De in onderstaande tabellen vermelde emissieplafonds betreffen de bepalingen van
 *Tabel 2:* Emissieplafonds voor stikstofoxiden (in duizend ton NO <sub>2</sub> per jaar)  
 
 |--- | Emissie-niveaus  | Emissie-plafonds  | Percentuele emissiereducties voor 2010  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Partij  | 1990  | voor 2010  | (basisjaar 1990)  |
 | Armenië  | 46  | 46  | 0%  |
 | Oostenrijk  | 194  | 107  | –45%  |
@@ -2173,7 +2289,7 @@ De in onderstaande tabellen vermelde emissieplafonds betreffen de bepalingen van
 *Tabel 3:* Emissieplafonds voor ammoniak (in duizend ton NH <sub>3</sub> per jaar)  
 
 |--- | Emissie-niveaus  | Emissie-plafonds  | Percentuele emissiereducties voor 2010  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Partij  | 1990  | voor 2010  | (basisjaar 1990)  |
 | Armenië  | 25  | 25  | 0%  |
 | Oostenrijk  | 81  | 66  | –19%  |
@@ -2214,7 +2330,7 @@ De in onderstaande tabellen vermelde emissieplafonds betreffen de bepalingen van
 *Tabel 4:* Emissieplafonds voor vluchtige organische stoffen (in duizend ton VOS per jaar)  
 
 |--- | Emissie-niveaus  | Emissie-plafonds  | Percentuele emissiereducties voor 2010  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Partij  | 1990  | voor 2010  | (basisjaar 1990)  |
 | Armenië  | 81  | 81  | 0%  |
 | Oostenrijk  | 351  | 159  | –55%  |
@@ -2305,7 +2421,7 @@ Bij onderbroken metingen wordt, als minimumvereiste, naleving van de emissienorm
 Stoomketels en procesovens met een nominaal thermisch vermogen dat 50 MWth overschrijdt: <sub>th</sub> overschrijdt: *Tabel 1:* Grenswaarden voor SO <sub>x</sub> -emissies van stoomketels <sup> a)  De grenswaarden gelden met name niet voor de volgende inrichtingen:    -  inrichtingen waarin de verbrandingsproducten worden gebruikt voor het rechtstreeks verhitten, drogen of enige andere behandeling van voorwerpen of materialen, bijvoorbeeld herverhitting- en warmtebehandelingsovens;    -  naverbrandingsinrichtingen, met andere woorden alle technische apparatuur die ontworpen is om rookgassen te zuiveren door verbranding en die niet als een zelfstandige verbrandingsinrichting wordt gebruikt;    -  voorzieningen voor het regenereren van bij het kraken gebruikte katalysatoren;    -  voorzieningen voor de omzetting van waterstofsulfide in zwavel;    -  in de chemische industrie gebruikte reactors;    -  cokesovenbatterijen;    -  windverhitters;    -  vuilverbrandingsinstallaties; en    -  door diesel-, benzine- en gasmotoren of gasturbines aangedreven installaties, ongeacht de gebruikte brandstof.    </sup>  
 
 |--- |  *Thermi-sche input (MW <sub>th</sub>)*   |  *Grens-waarde (mg SO <sub>2</sub> /Nm <sub>3</sub>)*   <sup> b)   Het O <sub>2</sub> –referentiegehalte is 6% voor vaste en 3% voor overige brandstoffen.    </sup> |  *Alternatief voor huisbrandkolen verwijderings-rendement*   |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Vaste en vloeibare brandstoffen, nieuwe installaties  | 50–100  | 850  | 90%  <sup> d)   Indien een installatie 300 mg/Nm <sup>3</sup> SO <sub>2</sub> bereikt, kan deze worden uitgezonderd van toepassing van het bewerkingsrendement.    </sup> |
 | --- | 100–300  | 850–200 (lineaire afname)  <sup> c)   400 bij zware stookolie S <0,25%.    </sup> | 92%  <sup> d)   Indien een installatie 300 mg/Nm <sup>3</sup> SO <sub>2</sub> bereikt, kan deze worden uitgezonderd van toepassing van het bewerkingsrendement.    </sup> |
 | --- | > 300  | 200  <sup> c)   400 bij zware stookolie S <0,25%.    </sup> | 95%  <sup> d)   Indien een installatie 300 mg/Nm <sup>3</sup> SO <sub>2</sub> bereikt, kan deze worden uitgezonderd van toepassing van het bewerkingsrendement.    </sup> |
@@ -2331,7 +2447,7 @@ Stoomketels en procesovens met een nominaal thermisch vermogen dat 50 MWth overs
 Gasolie *Tabel 2:* Grenswaarden voor het zwavelgehalte van gasolie <sup> a)  “Gasolie”: een aardolieproduct dat onder GS-code 2710 valt of een aardolieproduct dat, op grond van zijn destillatiegrenzen, behoort tot de middeldestillaten die bestemd zijn voor gebruik als brandstof en die, distillatieverliezen inbegrepen, voor ten minste 85% van hun volume distilleren bij 350°C. Brandstoffen gebruikt in wegvoertuigen en terreinvoertuigen en landbouwtractoren zijn uitgezonderd van deze omschrijving. Gasolie bestemd voor gebruik op zee is in de omschrijving begrepen indien deze voldoet aan bovenstaande beschrijving of een viscositeit of dichtheid heeft vallend binnen het bereik van viscositeit of dichtheid omschreven voor distillaten voor gebruik op zee in tabel I van ISO 8217 (1996).  </sup>  
 
 |--- |  *Zwavelgehalte (procent per gewicht)*   |
-|:---|:---|
+|---|---|
 | Gasolie  | < 0,2 na 1 juli 2000  < 0,1 na 1 januari 2008  |
 
 ### 11  
@@ -2429,7 +2545,7 @@ Bij onderbroken metingen wordt, als minimumvereiste, naleving van de emissienorm
 Stoomketels en procesovens met een nominaal thermisch vermogen dat 50 MWth overschrijdt: <sub>th</sub> overschrijdt: *Tabel 1:* Grenswaarden voor NO <sub>x</sub> -emissies van stoomketels <sup> a)  De grenswaarden gelden met name niet voor de volgende inrichtingen:    -  inrichtingen waarin de verbrandingsproducten worden gebruikt voor het rechtstreeks verhitten, drogen of enige andere behandeling van voorwerpen of materialen, bijvoorbeeld herverhittings- en warmtebehandelingsovens;    -  naverbrandingsinrichtingen, met andere woorden alle technische apparatuur die ontworpen is om rookgassen te zuiveren door verbranding en die niet als een zelfstandige verbrandingsinrichting wordt gebruikt;    -  voorzieningen voor het regenereren van bij het kraken gebruikte katalysatoren;    -  voorzieningen voor de omzetting van waterstofsulfide in zwavel;    -  in de chemische industrie gebruikte reactors;    -  cokesovenbatterijen;    -  windverhitters;    -  vuilverbrandingsinstallaties; en    -  door diesel-, benzine- en gasmotoren of gasturbines aangedreven installaties, ongeacht de gebruikte brandstof.    </sup>  
 
 |--- |  *Grenswaarde (mg/Nm <sup>3</sup>)*   <sup> b)   Deze waarden zijn niet van toepassing op stoomketels die minder dan 500 uur per jaar in bedrijf zijn. Het O <sub>2</sub> –referentiegehalte is 6% voor vaste en 3% voor overige brandstoffen.    </sup> |
-|:---|:---|
+|---|---|
 | Vaste brandstoffen, nieuwe installaties:  | --- |
 | – Stoomketels 50–100 MW <sub>th</sub>  | 400  |
 | – Stoomketels 100–300 MW <sub>th</sub>  | 300  |
@@ -2454,7 +2570,7 @@ Stoomketels en procesovens met een nominaal thermisch vermogen dat 50 MWth overs
 Verbrandingsturbines te land met een nominaal thermisch vermogen dat 50 MWth overschrijdt: de NOx-grenswaarden uitgedrukt in mg/Nm <sup>3</sup> (met een O <sub>2</sub> -gehalte van 15%) gelden voor een enkele turbine. De grenswaarden in tabel 2 zijn alleen boven 70% belasting van toepassing. <sub>th</sub> overschrijdt: de NO <sub>x</sub> -grenswaarden uitgedrukt in mg/Nm <sup>3</sup> (met een O <sub>2</sub> -gehalte van 15%) gelden voor een enkele turbine. De grenswaarden in tabel 2 zijn alleen boven 70% belasting van toepassing. *Tabel 2:* Grenswaarden voor NO <sub>x</sub> -emissies van verbrandingsturbines te land  
 
 |  *> 50 MW <sub>th</sub> (thermisch vermogen bij ISO-omstandigheden)*   |  *Grenswaarde (mg/Nm <sup>3</sup>)*   |
-|:---|:---|
+|---|---|
 | Nieuwe installaties, aardgas  <sup> a)   Onder aardgas wordt in de natuur voorkomend methaan verstaan met maximaal 20% (v/v) inerte en andere bestanddelen.    </sup> | 50  <sup> b)   75 mg/Nm <sup>3</sup> indien:      -   verbrandingsturbine die in een systeem met warmtekrachtkoppeling wordt gebruikt; of       -   verbrandingsturbine die een compressor voor het openbare aardgasnet aandrijft.         Voor verbrandingsturbines die niet in een van deze twee categorieën vallen, maar een rendement hebben dat hoger is dan 35% (bepaald onder ISObasisbelastingsomstandigheden), wordt de emissiegrenswaarde vastgesteld op 50*n/35, waarbij n het als percentage uitgedrukte (en onder ISObasisbelastingsomstandigheden bepaalde) rendement van de verbrandingsturbines is.    </sup> |
 | Nieuwe installaties, vloeibare brandstoffen  <sup> c)   Deze grenswaarde is alleen van toepassing op verbrandingsturbines die lichte en middeldistillaten verbranden.    </sup> | 120  |
 | Bestaande installaties, alle brandstoffen  <sup> d)   De grenswaarden zijn niet van toepassing op verbrandingsturbines die minder dan 150 uur per jaar in werking zijn.    </sup> | --- |
@@ -2466,7 +2582,7 @@ Verbrandingsturbines te land met een nominaal thermisch vermogen dat 50 MWth ove
 Cementproductie: *Tabel 3:* Grenswaarden voor NO <sub>x</sub> -emissies vrijkomend bij cementproductie <sup> a)  Installaties voor de productie van cementklinker in draaitrommelovens met een capaciteit van > 500 Mg/dag of in andere ovens met een capaciteit van > 50 Mg/dag.  </sup>  
 
 |--- |  *Grenswaarde (mg/Nm <sup>3</sup>)*   |
-|:---|:---|
+|---|---|
 | Nieuwe installaties (10% O <sub>2</sub>  | --- |
 | – draaitrommelovens  | 500  |
 | – andere ovens  | 800  |
@@ -2477,7 +2593,7 @@ Cementproductie: *Tabel 3:* Grenswaarden voor NO <sub>x</sub> -emissies vrijkome
 Stationaire motoren: *Tabel 4:* Grenswaarden voor NO <sub>x</sub> -emissies van nieuwe stationaire motoren  
 
 |  *Capaciteit, techniek, specificatie brandstof*   |  *Grenswaarde (mg/Nm <sup>3</sup>)*   <sup> a)   Deze waarden zijn niet van toepassing op motoren die minder dan 500 uur per jaar in werking zijn. Het O <sub>2</sub> -referentiegehalte is 5%.    </sup> |
-|:---|:---|
+|---|---|
 | Motoren met vonkontsteking (= Otto), 4-takt, > 1 MW <sub>th</sub>  | --- |
 | – arm-mengselmotoren  | 250  |
 | – alle andere motoren  | 500  |
@@ -2491,7 +2607,7 @@ Stationaire motoren: *Tabel 4:* Grenswaarden voor NO <sub>x</sub> -emissies van 
 Productie en verwerking van metalen: *Tabel 5:* Grenswaarden voor NO <sub>x</sub> -emissies die vrijkomen bij de productie van primair ijzer en staal <sup> a)  Productie en bewerking van metalen: installaties voor het roosten of sinteren van metaalerts, installaties voor de productie van ruwijzer of staal (primaire of secundaire smelting, met inbegrip van continugieten met een capaciteit die 2,5 Mg/uur overschrijdt, installaties voor het bewerken van ferrometalen (warmwalsen > 20 Mg/uur ruw staal).  </sup>  
 
 |  *Capaciteit, techniek, specificatie brandstof*   |  *Grenswaarde (mg/Nm <sup>3</sup>)*   |
-|:---|:---|
+|---|---|
 | Nieuwe en bestaande sinterinrichting  | 400  |
 
 ### 28  
@@ -2499,7 +2615,7 @@ Productie en verwerking van metalen: *Tabel 5:* Grenswaarden voor NO <sub>x</sub
 Productie van salpeterzuur: *Tabel 6:* Grenswaarden voor NO <sub>x</sub> -emissies vrijkomend bij de productie van salpeterzuur uitgezonderd zuurconcentratie-eenheden  
 
 |  *Capaciteit, techniek, specificatie brandstof*   |  *Grenswaarde (mg/Nm <sup>3</sup>)*   |
-|:---|:---|
+|---|---|
 | – nieuwe installaties  | 350  |
 | – bestaande installaties  | 450  |
 
@@ -2694,7 +2810,7 @@ De grenswaarden voor VOS-emissies voor de categorieën van bronnen omschreven in
 Opslag en distributie van benzine: *Tabel 1:* Grenswaarden voor VOS-emissies die vrijkomen bij de opslag en distributie van benzine, uitgezonderd het laden van zeeschepen  
 
 |  *Capaciteit, techniek, nadere specificatie*   |  *Drempelwaarden*   |  *Grenswaarde*   |
-|:---|:---|:---|
+|---|---|---|
 | Dampterugwininstallatie voor opslag- en distributievoorzieningen op tankparken van raffinaderijen of terminals  | jaarlijkse doorvoercapaciteit 5000 m <sup>3</sup> benzine  | 10 g VOS/Nm <sup>3</sup> met inbegrip van methaan  |
 
 Noot: De damp die door het vullen van benzineopslagtanks wordt verdrongen, dient te worden afgevoerd naar andere opslagtanks of naar nabehandelingsapparatuur die voldoet aan de grenswaarden in bovenstaande tabel.  
@@ -2704,7 +2820,7 @@ Noot: De damp die door het vullen van benzineopslagtanks wordt verdrongen, dient
 Aanbrengen van lijmlagen: *Tabel 2:* Grenswaarden voor NMVOS-emissies die vrijkomen bij het aanbrengen van lijmlagen  
 
 |  *Capaciteit, techniek, nadere specificatie*   |  *Drempelwaarde voor verbruik op losmiddelen (Mg/jaar)*   |  *Grenswaarde*   |  *Grenswaarde voor diffuse NMVOS-emissies (% van oplos- middelinput)*   |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Vervaardiging van schoeisel; nieuwe en bestaande installaties  | > 5  | 25 g oplosmiddel per paar  | --- |
 | Overige lijmlagen, uitgezonderd schoeisel; nieuwe en bestaande installaties  | 5–15  | 50 mg C/Nm <sup>3</sup>  <sup> a)   Indien technieken worden gebruikt waarbij hergebruik van teruggewonnen oplosmiddel mogelijk is, is de grenswaarde 150 mg C/Nm <sup>3</sup>.    </sup> | 25  |
 | > 15  | 50 mg C/Nm <sup>3</sup>  <sup> a)   Indien technieken worden gebruikt waarbij hergebruik van teruggewonnen oplosmiddel mogelijk is, is de grenswaarde 150 mg C/Nm <sup>3</sup>.    </sup> | 20  |
@@ -2714,7 +2830,7 @@ Aanbrengen van lijmlagen: *Tabel 2:* Grenswaarden voor NMVOS-emissies die vrijko
 Lamineren van hout en kunststof: *Tabel 3:* Grenswaarden voor NMVOS-emissies die vrijkomen bij het lamineren van hout en kunststof  
 
 |  *Capaciteit, techniek, nadere specificatie*   |  *Drempelwaarde voor verbruik oplosmiddelen(Mg/jaar)*   |  *Grenswaarde voor totale NMVOS-emissies*   |
-|:---|:---|:---|
+|---|---|---|
 | Lamineren van hout en kunststof; nieuwe en bestaande installaties  | > 5  | 30 g NMVOS/m <sup>2</sup>  |
 
 ### 11  
@@ -2722,7 +2838,7 @@ Lamineren van hout en kunststof: *Tabel 3:* Grenswaarden voor NMVOS-emissies die
 Coatingprocédés (metalen en kunststof oppervlakken in personenauto's, vrachtwagencabines, vrachtwagens, bussen, houten oppervlakken): *Tabel 4:* Grenswaarden voor NMVOS-emissies die vrijkomen bij coatingprocédés in de auto-industrie  
 
 |  *Capaciteit, techniek, nadere specificatie*   |  *Drempelwaardevoor verbruik oplosmiddelen (Mg/ jaar)*   <sup> a)   Voor een oplosmiddelverbruik ≤ 15 Mg per jaar (spuiten van auto’s) is tabel 14 omtrent het overspuiten van auto’s van toepassing.    </sup> |  *Grenswaarde voor totale NMVOS-emissies*   <sup> b)   De totale grenswaarden zijn uitgedrukt in emissie van massa oplosmiddel (g) in verhouding tot de oppervlakte van het product (m <sup>2</sup>). De oppervlakte van het product is omschreven als de oppervlakte berekend uitgaande van het totale elektroforetische coatingoppervlak en de oppervlakte van onderdelen die kunnen worden toegevoegd in opeenvolgende fases van het lakprocédé en die met dezelfde coatings gelakt worden. De oppervlakte van het elektroforetische coatingoppervlak wordt berekend aan de hand van de formule: (2 x het totale gewicht van het omhulsel): (gemiddelde dikte van de metaalplaat x dichtheid van de metaalplaat).    </sup> |
-|:---|:---|:---|
+|---|---|---|
 | Nieuwe installaties, autospuiten (M1, M2)  | > 15 (en > 5.000 gespoten stuks per jaar)  | 45 g NMVOS/m <sup>2</sup> of 1,3 kg/stuk en 33 g NMVOS/m <sup>2</sup>  |
 | Bestaande installaties, autospuiten (M1, M2)  | > 15 (en > 5.000 gespoten stuks per jaar)  | 60 g NMVOS /m <sup>2</sup> of 1,9 kg/stuk en 41 g NMVOS/m <sup>2</sup>  |
 | Nieuwe en bestaande installaties, autospuiten (M1, M2)  | > 15 (≤ 5.000 gespoten car-rosserieën of > 3.500 gespoten chassis per jaar)  | 90 g NMVOS/m <sup>2</sup> of 1,5 kg/stuk en 70 g NMVOS/m <sup>2</sup>  |
@@ -2742,7 +2858,7 @@ Coatingprocédés (metalen en kunststof oppervlakken in personenauto's, vrachtwa
 *Tabel 5:* Grenswaarden voor NMVOS-emissies die vrijkomen bij lakprocédés in verscheidene industriële sectoren  
 
 |  *Capaciteit, techniek, nadere specificatie*   |  *Drempelwaarde voor verbruik op losmiddelen (Mg/jaar)*   |  *Grenswaarde*   |  *Grenswaarde voor diffuse NMVOS-emissie (% van oplosmiddelinput)*   |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Nieuwe en bestaande installaties: overige coating, waaronder metaal, kunststoffen, textiel, stof, folie en papier (uitgezonderd rotatiezeefdrukken voor textiel, zie drukken)  | 5–15  | 100 mg C/Nm <sup>3</sup>  <sup> a)   De grenswaarde is van toepassing op procédés voor het aanbrengen en drogen van coating, waarbij de vrijkomende VOS beheerst wordt opgevangen en uitgestoten.    </sup> <sup> b)   Indien het niet mogelijk is het coaten te laten plaatsvinden in omstandigheden waarbij de vrijkomende VOS beheerst wordt opgevangen en uitgestoten (scheepsbouw, coaten van vliegtuigen enz.), kan voor installaties vrijstelling van deze waarden worden verleend. Dan dient het reductieprogramma van paragraaf 6. a) te worden gevolgd, tenzij ten genoegen van de bevoegde autoriteit wordt aangetoond dat deze optie technisch en economisch niet haalbaar is. In dat geval moet de exploitant ten genoegen van de bevoegde autoriteit aantonen dat er gebruik wordt gemaakt van de beste beschikbare techniek.    </sup> | 25  <sup> b)   Indien het niet mogelijk is het coaten te laten plaatsvinden in omstandigheden waarbij de vrijkomende VOS beheerst wordt opgevangen en uitgestoten (scheepsbouw, coaten van vliegtuigen enz.), kan voor installaties vrijstelling van deze waarden worden verleend. Dan dient het reductieprogramma van paragraaf 6. a) te worden gevolgd, tenzij ten genoegen van de bevoegde autoriteit wordt aangetoond dat deze optie technisch en economisch niet haalbaar is. In dat geval moet de exploitant ten genoegen van de bevoegde autoriteit aantonen dat er gebruik wordt gemaakt van de beste beschikbare techniek.    </sup> |
 | > 15  | 50/75 mg C/Nm <sup>3</sup>  <sup> b)   Indien het niet mogelijk is het coaten te laten plaatsvinden in omstandigheden waarbij de vrijkomende VOS beheerst wordt opgevangen en uitgestoten (scheepsbouw, coaten van vliegtuigen enz.), kan voor installaties vrijstelling van deze waarden worden verleend. Dan dient het reductieprogramma van paragraaf 6. a) te worden gevolgd, tenzij ten genoegen van de bevoegde autoriteit wordt aangetoond dat deze optie technisch en economisch niet haalbaar is. In dat geval moet de exploitant ten genoegen van de bevoegde autoriteit aantonen dat er gebruik wordt gemaakt van de beste beschikbare techniek.    </sup> <sup> c)   De eerste waarde is van toepassing op droogprocédés, de tweede op procédés voor het aanbrengen van coating.    </sup> <sup> d)   Indien voor het coaten van textiel technieken worden toegepast waarbij hergebruik van teruggewonnen oplosmiddelen mogelijk is, is de grenswaarde 150 mg C/Nm <sup>3</sup> voor het drogen en coaten tezamen.    </sup> | 20  <sup> b)   Indien het niet mogelijk is het coaten te laten plaatsvinden in omstandigheden waarbij de vrijkomende VOS beheerst wordt opgevangen en uitgestoten (scheepsbouw, coaten van vliegtuigen enz.), kan voor installaties vrijstelling van deze waarden worden verleend. Dan dient het reductieprogramma van paragraaf 6. a) te worden gevolgd, tenzij ten genoegen van de bevoegde autoriteit wordt aangetoond dat deze optie technisch en economisch niet haalbaar is. In dat geval moet de exploitant ten genoegen van de bevoegde autoriteit aantonen dat er gebruik wordt gemaakt van de beste beschikbare techniek.    </sup> |
 | Nieuwe en bestaande installaties: coaten van hout  | 15–25  | 100 mg C/Nm <sup>3</sup>  <sup> a)   De grenswaarde is van toepassing op procédés voor het aanbrengen en drogen van coating, waarbij de vrijkomende VOS beheerst wordt opgevangen en uitgestoten.    </sup> | 25  |
@@ -2753,7 +2869,7 @@ Coatingprocédés (metalen en kunststof oppervlakken in personenauto's, vrachtwa
 Bandlakken: *Tabel 6:* Grenswaarden voor NMVOS-emissies die vrijkomen bij bandlakken  
 
 |  *Capaciteit, techniek, nadere specificatie*   |  *Drempelwaarde voor verbruik op losmiddelen (Mg/jaar)*   |  *Grenswaarde (mg C/Nm <sup>3</sup>*   |  *Grenswaarde voor diffuse NMVOS-emissies (% van oplosmiddelinput)*   |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Nieuwe installaties  | > 25  | 50  <sup> a)   Als technieken worden toegepast waarbij hergebruik van teruggewonnen oplosmiddel mogelijk is, is de grenswaarde 150 mg C/Nm <sup>3</sup>.    </sup> | 5  |
 | Bestaande installaties  | > 25  | 50  <sup> a)   Als technieken worden toegepast waarbij hergebruik van teruggewonnen oplosmiddel mogelijk is, is de grenswaarde 150 mg C/Nm <sup>3</sup>.    </sup> | 10  |
 
@@ -2762,7 +2878,7 @@ Bandlakken: *Tabel 6:* Grenswaarden voor NMVOS-emissies die vrijkomen bij bandla
 Chemisch reinigen: *Tabel 7:* Grenswaarden voor NMVOS-emissies die vrijkomen bij chemisch reinigen  
 
 |  *Capaciteit, techniek, nadere specificatie*   |  *Drempelwaarde voor verbruik oplosmiddelen (Mg/jaar)*   |  *Grenswaarde*   |
-|:---|:---|:---|
+|---|---|---|
 | Nieuwe en bestaande installaties  | 0  | 20 g NMVOS/kg  <sup> a)   Grenswaarde voor totale NMVOS-emissies, berekend als massa van uitgestoten oplosmiddel per massa gereinigd en gedroogd product.    </sup> |
 
 ### 14  
@@ -2770,7 +2886,7 @@ Chemisch reinigen: *Tabel 7:* Grenswaarden voor NMVOS-emissies die vrijkomen bij
 Vervaardiging van coatings, lak, inkt en kleefstoffen: *Tabel 8:* Grenswaarden voor NMVOS-emissies die vrijkomen bij vervaardiging van coatings, lak, inkt en kleefstoffen  
 
 |  *Capaciteit, techniek, nadere specificatie*   |  *Drempelwaarde voor verbruik op losmiddelen (Mg/jaar)*   |  *Grenswaarde (mg C/Nm <sup>3</sup>*   |  *Grenswaarde voor diffuse NMVOS-emissies (% van oplosmiddelinput)*   |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Nieuwe en bestaande installaties  | 100–1.000  | 150  <sup> a)   Een totale grenswaarde van 5% van de oplosmiddelinput kan worden toegepast in plaats van het gebruiken van de concentratiegrens voor rookgas en de grenswaarde voor diffuse NMVOS- emissies.    </sup> | 5  <sup> a)   Een totale grenswaarde van 5% van de oplosmiddelinput kan worden toegepast in plaats van het gebruiken van de concentratiegrens voor rookgas en de grenswaarde voor diffuse NMVOS- emissies.    </sup> <sup> c)   De diffuse grenswaarde omvat niet oplosmiddelen die worden verkocht als onderdeel van een preparaat in een gesloten verpakking.    </sup> |
 | > 1.000  | 150  <sup> b)   Een totale grenswaarde van 3% van de oplosmiddelinput kan worden toegepast in plaats van het gebruiken van de concentratiegrens voor rookgas en de grenswaarde voor diffuse NMVOS- emissies.    </sup> | 3  <sup> b)   Een totale grenswaarde van 3% van de oplosmiddelinput kan worden toegepast in plaats van het gebruiken van de concentratiegrens voor rookgas en de grenswaarde voor diffuse NMVOS- emissies.    </sup> <sup> c)   De diffuse grenswaarde omvat niet oplosmiddelen die worden verkocht als onderdeel van een preparaat in een gesloten verpakking.    </sup> |
 
@@ -2779,7 +2895,7 @@ Vervaardiging van coatings, lak, inkt en kleefstoffen: *Tabel 8:* Grenswaarden v
 Drukken (flexografie, heat-set rotatie-offset, illustratiediepdruk enz.): *Tabel 9:* Grenswaarden voor NMVOS-emissies die vrijkomen bij drukprocédés  
 
 |  *Capaciteit, techniek, nadere specificatie*   |  *Drempel-waarde voor verbruik op losmiddelen (Mg/jaar)*   |  *Grenswaarde (mg C/Nm <sup>3</sup>*   |  *Grenswaarde voor diffuse NMVOS-emissies (% van oplosmiddelinput)*   |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Nieuwe en bestaande installaties: heat-set rotatie-offset  | 15–25  | 100  | 30  <sup> a)   Een residu van oplosmiddel in eindproducten wordt niet beschouwd als onderdeel van de diffuse NMVOS-emissies.    </sup> |
 | > 25  | 20  | 30  <sup> a)   Een residu van oplosmiddel in eindproducten wordt niet beschouwd als onderdeel van de diffuse NMVOS-emissies.    </sup> |
 | Nieuwe installaties: installatiediepdruk  | > 25  | 75  | 10  |
@@ -2793,7 +2909,7 @@ Drukken (flexografie, heat-set rotatie-offset, illustratiediepdruk enz.): *Tabel
 Vervaardigen van farmaceutische producten: *Tabel 10:* Grenswaarden voor NMVOS-emissies die vrijkomen bij het vervaardigen van farmaceutische producten  
 
 |  *Capaciteit, techniek, nadere specificatie*   |  *Drempelwaarde voor verbruik op losmiddelen (Mg/jaar)*   |  *Grenswaarde (mg C/Nm <sup>3</sup>*   |  *Grenswaarde voor diffuse NMVOS-emissies (%van oplosmiddelinput)*   |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Nieuwe installaties  | > 50  | 20  <sup> a)   Indien technieken worden gebruikt waarbij hergebruik van teruggewonnen oplosmiddelen mogelijk is, is de grenswaarde 150 mg C/Nm <sup>3</sup>.    </sup> <sup> b   Een totale grenswaarde van 5% van de oplosmiddelinput kan worden toegepast in plaats van het gebruiken van de concentratiegrens voor afgas en de grenswaarde voor diffuse NMVOS-emissies.    </sup> | 5  <sup> b)   Een totale grenswaarde van 5% van de oplosmiddelinput kan worden toegepast in plaats van het gebruiken van de concentratiegrens voor afgas en de grenswaarde voor diffuse NMVOS-emissies.    </sup> <sup> d)   De voor diffuse emissies grenswaarde omvat niet oplosmiddelen die worden verkocht als onderdeel van een coatingpreparaat in een gesloten verpakking.    </sup> |
 | Bestaande installaties  | > 50  | 20  <sup> a)   Indien technieken worden gebruikt waarbij hergebruik van teruggewonnen oplosmiddelen mogelijk is, is de grenswaarde 150 mg C/Nm <sup>3</sup>.    </sup> <sup> c)   Een totale grenswaarde van 15% van de oplosmiddelinput kan worden toegepast in plaats van het gebruiken van de concentratiegrens voor rookgas en de grenswaarde voor diffuse NMVOS-emissies.    </sup> | 15  <sup> c)   Een totale grenswaarde van 15% van de oplosmiddelinput kan worden toegepast in plaats van het gebruiken van de concentratiegrens voor rookgas en de grenswaarde voor diffuse NMVOS-emissies.    </sup> <sup> d)   De voor diffuse emissies grenswaarde omvat niet oplosmiddelen die worden verkocht als onderdeel van een coatingpreparaat in een gesloten verpakking.    </sup> |
 
@@ -2802,7 +2918,7 @@ Vervaardigen van farmaceutische producten: *Tabel 10:* Grenswaarden voor NMVOS-e
 Bewerken van natuurlijk of synthetisch rubber: *Tabel 11:* Grenswaarden voor NMVOS-emissie die vrijkomen bij de bewerking van natuurlijk of synthetisch rubber  
 
 |  *Capaciteit, techniek, nadere specificatie*   |  *Drempelwaarde voor verbruik op losmiddelen (Mg/jaar)*   |  *Grenswaarde (mg C/Nm <sup>3</sup>*   |  *Grenswaarde voor diffuse NMVOS-emissies (% van oplosmiddelinput)*   |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Nieuwe en bestaande installaties: bewerken van natuurlijk of synthetisch rubber  | > 15  | 20  <sup> a)   Een totale grenswaarde van 25% van de oplosmiddelinput kan worden toegepast in plaats van het gebruiken van de concentratiegrens voor rookgas en de grenswaarde voor diffuse NMVOS-emissies.    </sup> <sup> b)   Als technieken worden gebruikt waarbij hergebruik van teruggewonnen oplosmiddel mogelijk is, is de grenswaarde 150 mg C/Nm <sup>3.</sup>    </sup> | 25  <sup> a)   Een totale grenswaarde van 25% van de oplosmiddelinput kan worden toegepast in plaats van het gebruiken van de concentratiegrens voor rookgas en de grenswaarde voor diffuse NMVOS-emissies.    </sup> <sup> c)   De voor diffuse emissies grenswaarde omvat niet oplosmiddelen die worden verkocht als onderdeel van een preparaat in een gesloten verpakking.    </sup> |
 
 ### 18  
@@ -2810,7 +2926,7 @@ Bewerken van natuurlijk of synthetisch rubber: *Tabel 11:* Grenswaarden voor NMV
 Oppervlaktereiniging: *Tabel 12:* Grenswaarden voor NMVOS-emissies die vrijkomen bij de oppervlaktereiniging  
 
 |  *Capaciteit, techniek, nadere specificatie*   |  *Drempelwaarde voor verbruik op losmiddelen (Mg/jaar)*   |  *Grenswaarde (mg C/Nm <sup>3</sup>*   |  *Grenswaarde voor diffuse NMVOS-emissies (% van oplosmiddelinput)*   |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Nieuwe en bestaande installaties: oppervlaktereiniging gebruikmakend van stoffen vermeld in paragraaf 3 onder w  | 1–5  | 20 mg verbinding/Nm <sup>3</sup>  | 15  |
 | > 5  | 20 mg verbinding/Nm <sup>3</sup>  | 10  |
 | Nieuwe en bestaande installaties: overige oppervlaktereiniging  | 2–10  | 75 mg C/Nm <sup>3</sup>  <sup> a)   Installaties die bij de bevoegde autoriteit aantonen dat het gemiddelde organische-oplosmiddelgehalte van alle gebruikte reinigingsmaterialen 30% (m/ m) niet overschrijdt, zijn vrijgesteld van toepassing van deze waarden.    </sup> | 20  <sup> a)   Installaties die bij de bevoegde autoriteit aantonen dat het gemiddelde organische-oplosmiddelgehalte van alle gebruikte reinigingsmaterialen 30% (m/ m) niet overschrijdt, zijn vrijgesteld van toepassing van deze waarden.    </sup> |
@@ -2821,7 +2937,7 @@ Oppervlaktereiniging: *Tabel 12:* Grenswaarden voor NMVOS-emissies die vrijkomen
 Extractie van plantaardige oliën en dierlijke vetten en raffinage van plantaardige oliën: *Tabel 13:* Grenswaarden voor NMVOS-emissies die vrijkomen bij de extractie van plantaardige oliën en dierlijke vetten en raffinage van plantaardige oliën  
 
 |  *Capaciteit, techniek, nadere specificatie*   |  *Drempelwaarde voor verbruik oplosmiddelen (Mg/jaar)*   |  *Totale grenswaarde (mg/kg)*   |
-|:---|:---|:---|
+|---|---|---|
 | Nieuwe en bestaande installaties  | > 10  | Dierlijk vet: 1,5  Ricinus: 3,0  Koolzaad: 1,0  Zonnebloemzaad: 1,0  Sojabonen (normale pletting): 0,8  Sojabonen (witte vlokken): 1,2  Overige zaden en plantaardig materiaal: 3,0  <sup> a)   Grenswaarden voor totale NMVOS-emissies uit installaties die afzonderlijke Partijen zaden of andere plantaardig materiaal behandelen, worden door de bevoegde autoriteiten per geval bepaald op de basis van de beste beschikbare technieken.    </sup> Alle fractioneerpro- cédés, uitgezonderd Ontgommen : 1,5  <sup> 2)   Het verwijderen van gom uit de olie.    </sup> Ontgommen: 4,0  |
 
 ### 20  
@@ -2829,7 +2945,7 @@ Extractie van plantaardige oliën en dierlijke vetten en raffinage van plantaard
 Overspuiten van voertuigen: *Tabel 14:* Grenswaarden voor NMVOS-emissies die vrijkomen bij het overspuiten van voertuigen  
 
 |  *Capaciteit, techniek, nadere specificatie*   |  *Drempelwaarde voor verbruik op losmiddelen (Mg/jaar)*   |  *Grenswaarde (mg C/Nm <sup>3</sup>*   |  *Grenswaarde voor diffuse NMVOS-emissies (% van oplosmiddelinput)*   |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Nieuwe en bestaande installaties  | > 0.5  | 50  <sup> a)   De inachtneming van de grenswaarden dient te worden aangetoond met metingen van het gemiddelde per 15 minuten.    </sup> | 25  |
 
 ### 21  
@@ -2837,7 +2953,7 @@ Overspuiten van voertuigen: *Tabel 14:* Grenswaarden voor NMVOS-emissies die vri
 Impregneren van houten oppervlakken: *Tabel 15:* Grenswaarden voor NMVOS-emissies die vrijkomen bij het impregneren van houten oppervlakken  
 
 |  *Capaciteit, techniek, nadere specificatie*   |  *Drempelwaarde voor verbruik op losmiddelen (Mg/jaar)*   |  *Grenswaarde (mg C/Nm <sup>3</sup>*   |  *Grenswaarde voor diffuse NMVOS-emissies (% van oplosmiddelinput)*   |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Nieuwe en bestaande installaties  | > 25  | 100  <sup> a)   Is niet van toepassing op impregneren met creosoot.    </sup> <sup> b)   Een totale grenswaarde van 11 kg oplosmiddel/m <sup>3</sup> behandeld hout kan worden toegepast in plaats van het gebruiken van de concentratiegrens voor afgas en de grenswaarde voor diffuse NMVOS-emissies.    </sup> | 45  <sup> b)   Een totale grenswaarde van 11 kg oplosmiddel/m <sup>3</sup> behandeld hout kan worden toegepast in plaats van het gebruiken van de concentratiegrens voor afgas en de grenswaarde voor diffuse NMVOS-emissies.    </sup> |
 
 ### B  
@@ -3015,7 +3131,7 @@ De volgende regeling geldt voor installaties waarbij voor het product een consta
 a. De exploitant dient een reductieprogramma in waarin met name de daling van het gemiddelde gehalte aan oplosmiddelen van de totale input en/of de verhoging van het rendement bij het gebruik van vaste stoffen wordt vermeld die moet leiden tot een beperking van de totale emissie van de installatie tot een bepaald percentage van de jaarlijkse referentie-emissie, de zogenoemde beoogde emissie. Dit moet volgens het volgende tijdschema gebeuren:  
 
 |  *Termijn*   |  *Maximaal toege-stane totale jaar-lijkse emmissies*   |
-|:---|:---|
+|---|---|
 |  *Nieuwe installaties*   |  *Bestaande installaties*   | --- |
 | op 31-10-2001  | op 31-10-2005  | beoogde emissie x 1,5  |
 | op 31-10-2004  | op 31-10-2007  | beoogde emissie  |
@@ -3027,7 +3143,7 @@ i. Eerst wordt de totale massa aan vaste stof in de hoeveelheid coating en/of in
 ii. De jaarlijkse referentie-emissie wordt berekend door de volgens punt a bepaalde massa te vermenigvuldigen met de in onderstaande tabel vermelde factor. De bevoegde instanties kunnen deze factoren voor individuele installaties aanpassen om rekening te houden met een aangetoonde stijging van het rendement bij het gebruik van vaste stoffen.  
 
 |  *Activiteit*   |  *Vermenigvuldigingsfactor voor gebruik in punt b, (ii)*   |
-|:---|:---|
+|---|---|
 | Rotatiediepdrukken; flexografisch drukken; lamineren als onderdeel van een drukactiviteit; drukken; lakken als onderdeel van een drukactiviteit; coaten van hout; coaten van textiel, stof, film of papier; aanbrengen van lijmlagen  | 4  |
 | Bandlakken; overspuiten van voertuigen  | 3  |
 | Coaten van voedselverpakking; coaten van luchtvaartuigen  | 2,33  |
@@ -3122,7 +3238,7 @@ Grenswaarden voor landbouw- en bosbouwtractoren en andere motoren van niet voor 
 Ecologische kwaliteitsspecificaties voor benzine en diesel zijn vermeld in de tabellen 8 tot en met 11. *Tabel 1:* Grenswaarden voor personenauto's en lichte voertuigen  
 
 |--- |  *Referent iemassa (RW) (kg)*   |  *Grenswaarden*   |
-|:---|:---|:---|
+|---|---|---|
 |  *Koolstofmonoxide*   |  *Kool-waterstoffen*   |  *Stikstofoxiden*   |  *Koolwaterstoffen en stikstofoxiden gecombineerd*   |  *Deeltjes a*   <sup> a)   Voor motoren met compressieontsteking.    </sup> |
 |  *Categorie*   |  *Klasse*   |  *Toe te passen vanaf*   <sup> b)   De registratie, verkoop of ingebruikneming van nieuwe voertuigen die niet voldoen aan de respectieve grenswaarden, wordt geweigerd per de in deze kolom genoemde datums en typegoedkeuring hoeft niet langer gegarandeerd te zijn vanaf twaalf maanden voorafgaand aan deze datums.    </sup> | --- |  *L1 (g/km)g*   |  *L2 (g/km)*   |  *L3 (g/km)*   |  *L2+L3 (g/km)*   |  *L4 (g/km)*   |
 |  *benzine*   |  *diesel*   |  *benzine*   |  *diesel*   |  *benzine*   |  *diesel*   |  *benzine*   |  *diesel*   |  *diesel*   |
@@ -3138,7 +3254,7 @@ Ecologische kwaliteitsspecificaties voor benzine en diesel zijn vermeld in de ta
 *Tabel 2:* Grenswaarden voor zware voertuigen – ESC-tests (European steady-state cycle) en ELR-tests (European load-response)  
 
 |  *Rij*   |  *Toe te passen vanaf*   <sup> a)   Met ingang vanaf de vermelde datums en met uitzondering van voertuigen en motoren bestemd voor de export naar landen die geen Partij zijn in dit Protocol, en van vervangingsmotoren voor in gebruik zijnde voertuigen, verbieden Partijen de registratie, verkoop, ingebruikneming of het gebruik van nieuwe voertuigen die worden aangedreven door een motor met compressieontsteking of een gasmotor en de verkoop en het gebruik van nieuwe motoren met compressieontsteking of gasmotoren als hun emissies niet voldoen aan de respectieve grenswaarden. Vanaf twaalf maanden voorafgaand aan deze datums kan typegoedkeuring worden geweigerd als niet aan de grenswaarden wordt voldaan.    </sup> |  *Koolstof-monoxide (g/kWh)*   |  *(g/kWh)*   |  *Stikstof-oxiden (g/kWh)*   |  *Deeltjes (g/kWh)*   |  *Rook (m-1)*   |
-|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 | A  | 1-10-2001  | 2,1  | 0,66  | 5,0  | 0,10 / 0,13  <sup> b)   b) Voor motoren met een cilinderinhoud van minder dan 0,75 dm <sup>3</sup> per cilinder en een nominale vermogenssnelheid van meer dan 3.000 omwentelingen per minuut.    </sup> | 0,8  |
 | B1  | 1-10-2006  | 1,5  | 0,46  | 3,5  | 0,02  | 0,5  |
 | B2  | 1-10-2009  | 1,5  | 0,46  | 2,0  | 0,02  | 0,5  |
@@ -3146,7 +3262,7 @@ Ecologische kwaliteitsspecificaties voor benzine en diesel zijn vermeld in de ta
 *Tabel 3:* Grenswaarden voor zware voertuigen – ETC-test (European Transient Cycle) <sup> a)  De omstandigheden voor de controle op de aannemelijkheid van de ETCtests bij het meten van de emissies van gasmotoren ten opzichte van de grenswaarden die van toepassing zijn in rij A, worden opnieuw onderzocht en, voorzover noodzakelijk, gewijzigd in overeenstemming met de procedure die is vastgelegd in artikel 13 van Richtlijn 70/156 /EEC.  </sup>  
 
 |  *Rij*   |  *Toe te passen vanaf*   <sup> b)   Vanaf de vermelde datums en met uitzondering van voertuigen en motoren bestemd voor de export naar landen die geen Partij zijn in dit Protocol, en van vervangingsmotoren voor in gebruik zijnde voertuigen, verbieden Partijen de registratie, verkoop, ingebruikneming of het gebruik van nieuwe voertuigen die worden aangedreven door een motor met compressieontsteking of een gasmotor en de verkoop en het gebruik van nieuwe motoren met compressieontsteking of gasmotoren als hun emissies niet voldoen aan de respectieve grenswaarden. Vanaf twaalf maanden voorafgaand aan deze datums kan typegoedkeuring worden geweigerd als niet aan de grenswaarden wordt voldaan.    </sup> |  *Koolstof-monoxide (g/kWh)*   |  *Koolwaterstoffen uitgezonderd methaan (g/kWh)*   |  *Methaan (g/kWh)*   <sup> c)   Alleen voor aardgasmotoren.    </sup> |  *Stikstof-oxiden (g/kWh)*   |  *Deeltjes*   <sup> d)   Niet van toepassing op gasmotoren in fase A en fasen B1 en B2.    </sup> |
-|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 | A (2000)  | 1-10-2001  | 5,45  | 0,78  | 1,6  | 5,0  | 0,16 / 0,21  <sup> e)   e) Voor motoren met een slagvolume van minder dan 0,75 dm <sup>3</sup> per cilinder en een nominale toerental van meer dan 3.000 omwentelingen per minuut.    </sup> |
 | B1 (2005)  | 1-10-2006  | 4,0  | 0,55  | 1,1  | 3,5  | 0,03  |
 | B2 (2008)  | 1-10-2009  | 4,0  | 0,55  | 1,1  | 2,0  | 0,03  |
@@ -3154,7 +3270,7 @@ Ecologische kwaliteitsspecificaties voor benzine en diesel zijn vermeld in de ta
 *Tabel 4:* Grenswaarden (fase I) voor dieselmotoren van mobiele, niet voor de openbare weg bestemde machines (meetprocedure ISO 8178)  
 
 |  *Netto-vermogen (P)(kW)*   |  *Toe te passen vanaf*   <sup> a)   Vanaf de vermelde datum en met uitzondering van machines en motoren bestemd voor de export naar landen die geen Partij zijn in dit Protocol, staan Partijen de registratie, voorzover van toepassing, en het in de handel brengen van nieuwe motoren, al of niet geïnstalleerd in machines, alleen toe als zij voldoen aan de in de tabel vermelde grenswaarden. Typegoedkeuring voor een motortype of -familie wordt met ingang van 30 juni 1998 geweigerd als niet voldaan wordt aan de grenswaarden.    </sup> |  *Kool-stof-mono-xide (g/kWh)*   |  *Kool-water-stoffen (g/kWh)*   |  *Stikstof-oxiden (g/kWh)*   |  *Deeltjes (g/kWh)*   |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 130 ≤ P < 560  | 31-12-1998  | 5,0  | 1,3  | 9,2  | 0,54  |
 | 75 ≤ P < 130  | 31-12-1998  | 5,0  | 1,3  | 9,2  | 0,70  |
 | 37 ≤ P < 75  | 31-12-1998  | 6,5  | 1,3  | 9,2  | 0,85  |
@@ -3162,7 +3278,7 @@ Ecologische kwaliteitsspecificaties voor benzine en diesel zijn vermeld in de ta
 Noot: Dit zijn motor-uit-grenswaarden waaraan voldaan moet worden voordat de gassen een katalysator of een andere reinigingsvoorziening in de uitlaat bereiken. *Tabel 5:* Grenswaarden (fase II) voor dieselmotoren van mobiele, niet voor de openbare weg bestemde machines (meetprocedure ISO 8178)  
 
 |  *Netto-vermogen (P) (kW)*   |  *Toe te passen vanaf*   <sup> a)   Met ingang van de vermelde datum en met uitzondering van machines en motoren bestemd voor de export naar landen die geen Partij zijn in dit Protocol, staan Partijen de registratie, voorzover van toepassing, en het in de handel brengen van nieuwe motoren, al of niet geïnstalleerd in machines, alleen toe als zij voldoen aan de in de tabel vermelde grenswaarden. Typegoedkeuring voor een motortype of -familie wordt vanaf twaalf maanden voorafgaand aan deze datums geweigerd als niet voldaan wordt aan de grenswaarden.    </sup> |  *Koolstof-monoxide (g/kWh)*   |  *Kool-water-stoffen (g/kWh)*   |  *Stikstof-oxiden (g/kWh)*   |  *Deeltjes (g/kWh)*   |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 130 ≤ P < 560  | 31-12-2001  | 3,5  | 1,0  | 6,0  | 0,2  |
 | 75 ≤ P < 130  | 31-12-2002  | 5,0  | 1,0  | 6,0  | 0,3  |
 | 37 ≤ P < 75  | 31-12-2003  | 5,0  | 1,3  | 7,0  | 0,4  |
@@ -3171,14 +3287,14 @@ Noot: Dit zijn motor-uit-grenswaarden waaraan voldaan moet worden voordat de gas
 *Tabel 6:* Grenswaarden voor motorfietsen en drie- en vierwielers (> 50 cm <sup>3</sup>; > 45 km/u) toe te passen vanaf 17 juni 1999 <sup> a)  Typegoedkeuring wordt geweigerd vanaf de vermelde datum als de emissies van het voertuig niet voldoen aan de grenswaarden.  </sup>  
 
 |  *Motortype*   |  *Grenswaarden*   |
-|:---|:---|
+|---|---|
 | 2-takt  | CO = 8 g/km HC = 4 g/km NO <sub>x</sub> = 0,1 g/km  |
 | 4-takt  | CO = 13 g/km HC = 3 g/km NO <sub>x</sub> = 0,3 g/km  |
 
 Noot: Voor drie- en vierwielers moeten de grenswaarden vermenigvuldigd worden met 1,5. *Tabel 7:* Grenswaarden voor bromfietsen (≤ 50 cm <sup>3</sup>; < 45 km/u);  
 
 |  *Fase*   |  *Toe te passen vanaf*   <sup> a)   Typegoedkeuring wordt geweigerd vanaf de vermelde datums als de emissies van het voertuig niet voldoen aan de grenswaarden.    </sup> |  *Grenswaarden*   |
-|:---|:---|:---|
+|---|---|---|
 |  *CO (g/km)*   |  *HC + NO <sub>x</sub> (g/km)*   |
 | I  | 17-61999  | 6,0  <sup> b)   Voor drie- en vierwielers geldt: vermenigvuldigen met 2.    </sup> | 3,0  <sup> b)   Voor drie- en vierwielers geldt: vermenigvuldigen met 2.    </sup> |
 | II  | 17-6-2002  | 1,0  <sup> c)   Voor drie- en vierwielers: 3,5 g/km.    </sup> | 1,2  |
@@ -3186,7 +3302,7 @@ Noot: Voor drie- en vierwielers moeten de grenswaarden vermenigvuldigd worden me
 *Tabel 8:* Milieuspecificaties voor in de handel gebrachte brandstoffen die worden gebruikt voor voertuigen die uitgerust zijn met motoren met elektrische ontsteking Type: Benzine  
 
 |  *Parameter*   |  *Een-heid*   |  *Grenzen*   <sup> a)   De in de specificatie genoemde waarden zijn ,,werkelijke waarden’’. Bij de vaststelling van de grenswaarden is uitgegaan van ISO 4259 Petroleum Products – Determination and application of precision data in relation to methods of test en bij de vaststelling van een minimumwaarde is met een minimumverschil van 2R boven nul rekening gehouden (R = reproduceerbaarheid). De resultaten van de verschillende metingen worden geïnterpreteerd aan de hand van de in ISO 4259 (gepubliceerd in 1995) gegeven criteria.    </sup> |  *Test*   |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *Minimum*   |  *Maximum*   |  *Methode*   <sup> b)   EN: Europese norm, ASTM: American Society for Testing and Materials, DIS: Draft international standard.    </sup> |  *Datum publicatie*   |
 | RON-getal  | --- | 95  | –  | EN 25164  | 1993  |
 | MON-getal  | --- | 85  | –  | EN 25163  | 1993  |
@@ -3212,7 +3328,7 @@ Noot: Voor drie- en vierwielers moeten de grenswaarden vermenigvuldigd worden me
 Noot: De Partijen zien erop toe dat er uiterlijk per 1 januari 2000 op hun grondgebied slechts benzine in de handel kan worden gebracht die beantwoordt aan de milieutechnische specificaties van tabel 8. Wanneer een Partij vaststelt dat het verbieden van benzine met een zwavelgehalte dat niet voldoet aan de specificaties voor het zwavelgehalte in tabel 8, maar die het huidige gehalte niet overschrijdt, ernstige problemen zou opleveren voor haar industrieën met betrekking tot het vóór 1 januari 2000 doorvoeren van de noodzakelijke veranderingen in de fabrieken, kan zij de termijn voor het in de handel brengen binnen haar grondgebied verlengen tot uiterlijk 1 januari 2003. In dat geval moet de Partij in een verklaring die samen met de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding moet worden neergelegd, uitdrukkelijk vermelden dat zij voornemens is de termijn te verlengen en het Uitvoerend Orgaan schriftelijk inlichten over de redenen daarvoor. *Tabel 9:* Milieuspecificaties voor in de handel gebrachte brandstoffen die worden gebruikt voor voertuigen die uitgerust zijn met motoren met compressieontsteking Type: Dieselbrandstof  
 
 |  *Parameter*   |  *Een-heid*   |  *Grenzen*   <sup> a)   De in de specificatie genoemde waarden zijn ,,werkelijke waarden’’. Bij de vaststelling van de grenswaarden is uitgegaan van ISO 4259 Petroleum Products – Determination and application of precision data in relation tot methods of test en bij de vaststelling van een minimumwaarde is met een minimumverschil van 2R boven nul rekening gehouden (R = reproduceerbaarheid). De resultaten van de verschillende metingen worden geïnterpreteerd aan de hand van de in ISO 4259 (gepubliceerd in 1995) gegeven criteria.    </sup> |  *Test*   |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *Mini-mum*   |  *Maxi-mum*   |  *Methode*   <sup> b)   EN: Europese norm, IP: The Institute of Petroleum, DIS: Draft international standard.    </sup> |  *Datum publi-catie*   |
 | Cetaangetal  | --- | 51  | –  | EN-ISO 5165  | 1992  |
 | Dichtheid bij 15 °C  | kg/m <sup>3</sup>  | –  | 845  | EN-ISO 3675  | 1995  |
@@ -3223,7 +3339,7 @@ Noot: De Partijen zien erop toe dat er uiterlijk per 1 januari 2000 op hun grond
 Noot: De Partijen zien erop toe dat er uiterlijk per 1 januari 2000 op hun grondgebied slechts dieselolie in de handel kan worden gebracht die beantwoordt aan de milieutechnische specificaties van tabel 9. Wanneer een Partij vaststelt dat het verbieden van diesel met een zwavelgehalte dat niet voldoet aan de specificaties voor zwavelgehalte in tabel 9, maar die het huidige gehalte niet overschrijdt, ernstige problemen zou opleveren voor haar industrieën met betrekking tot het vóór 1 januari 2000 doorvoeren van de noodzakelijke veranderingen in hun fabrieken, kan zij de termijn voor het in de handel brengen binnen haar grondgebied verlengen tot uiterlijk 1 januari 2003. In dat geval moet de Partij in een verklaring die samen met de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding moet worden neergelegd, uitdrukkelijk vermelden dat zij voornemens is de termijn te verlengen en het Uitvoerend Orgaan schriftelijk inlichten over de redenen daarvoor. *Tabel 10:* Milieuspecificaties voor in de handel gebrachte brandstoffen die worden gebruikt voor voertuigen die uitgerust zijn met motoren met elektrische ontsteking Type: Benzine  
 
 |  *Parameter*   |  *Een-heid*   |  *Grenzen*   <sup> a)   De in de specificatie genoemde waarden zijn ,,werkelijke waarden’’. Bij de vaststelling van de grenswaarden is uitgegaan van ISO 4259 Petroleum Products – Determination and application of precision data in relation tot methods of test en bij de vaststelling van een minimumwaarde is met een minimumverschil van 2R boven nul rekening gehouden (R = reproduceerbaarheid). De resultaten van de verschillende metingen worden geïnterpreteerd aan de hand van de in ISO 4259 (gepubliceerd in 1995) gegeven criteria.    </sup> |  *Test*   |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *Mini-mum*   |  *Maxi-mum*   |  *Methode*   <sup> b)   EN: Europese norm, ASTM: American Society for Testing and Materials, DIS: Draft international standard.    </sup> |  *Datum publi-catie*   |
 | RON-getal  | --- | 95  | --- | EN 25164  | 1993  |
 | MON-getal  | --- | 85  | --- | EN 5163  | 1993  |
@@ -3241,7 +3357,7 @@ Noot: De Partijen zien erop toe dat er uiterlijk per 1 januari 2000 op hun grond
 Noot: De Partijen zien erop toe dat er uiterlijk per 1 januari 2005 op hun grondgebied slechts benzine in de handel kan worden gebracht die beantwoordt aan de milieutechnische specificaties van tabel 10. Wanneer een Partij vaststelt dat het verbieden van benzine met een zwavelgehalte dat niet voldoet aan de specificaties voor zwavelgehalte in tabel 10, maar die niet voldoet aan tabel 8, ernstige problemen zou opleveren voor haar industrieën om met betrekking tot het doorvoeren vóór 1 januari 2005 van de noodzakelijke veranderingen in hun fabrieken, kan zij de termijn voor het in de handel brengen binnen haar grondgebied verlengen tot uiterlijk 1 januari 2007. In dat geval moet de Partij in een verklaring, die samen met de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding moet worden neergelegd, uitdrukkelijk vermelden dat zij voornemens is de termijn te verlengen en het Uitvoerend Orgaan schriftelijk inlichten over de redenen daarvoor. *Tabel 11:* Milieuspecificaties voor in de handel gebrachte brandstoffen die worden gebruikt voor voertuigen die uitgerust zijn met motoren met compressieontsteking Type: Dieselbrandstof  
 
 |  *Parameter*   |  *Een-heid*   |  *Grenzen*   <sup> a)   De in de specificatie genoemde waarden zijn ,,werkelijke waarden’’. Bij de vaststelling van de grenswaarden is uitgegaan van ISO 4259 Petroleum Products – Determination and application of precision data in relation tot methods of test en bij de vaststelling van een minimumwaarde is met een minimumverschil van 2R boven nul rekening gehouden (R = reproduceerbaarheid). De resultaten van de verschillende metingen worden geïnterpreteerd aan de hand van de in ISO 4259 (gepubliceerd in 1995) gegeven criteria.    </sup> |  *Test*   |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *Mini-mum*   |  *Maxi-mum*   |  *Methode*   <sup> b)   EN: Europese norm, DIS: Draft international standard.    </sup> |  *Datum publi-catie*   |
 | Cetaangetal  | --- | --- | –  | --- | --- |
 | Dichtheid bij 15 °C  | kg/m <sup>3</sup>  | --- | –  | --- | --- |
