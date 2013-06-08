@@ -1,12 +1,12 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van de Staatssecretaris van Economische Zaken, van 16 mei 2013, nr. 13084441, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden ter bestrijding van onkruid in zaaibedden van bos- en haagplantsoen (Tijdelijke vrijstelling ter bescherming van de zaaibeddenteelt van bos- en haagplantsoen tegen onkruid 2013)
+##Besluit van de Staatssecretaris van Economische Zaken, van 31 mei 2013, nr. 13097602, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden ter bestrijding van onkruid in zaaibedden van bos- en haagplantsoen (Tijdelijke vrijstelling ter bescherming van de zaaibeddenteelt van bos- en haagplantsoen tegen onkruid 2013 II)
 
 De Staatssecretaris van Economische Zaken,  
 Handelende in overeenstemming met de Staatssecretaris van Infrastructuur en Milieu;
 
 Gelet op [artikel 38 van de Wet gewasbeschermingsmiddelen en biociden](../../../../../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) en artikel 53 van de Verordening (EG) 1107/2009 van het Europese Parlement en de Raad van 21 oktober 2009 betreffende het op de markt brengen van gewasbeschermingsmiddelen en tot intrekking van de Richtlijnen 79/117/EEG en 91/414/EEG van de Raad (PbEU 2009, L 309);
-Besluit:    
+BESLUIT:    
 
 ### Artikel  1  
 
@@ -18,11 +18,15 @@ De vrijstelling is slechts van toepassing indien de gebruiksvoorschriften in de 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 15 juni 2013.  
+De [Tijdelijke vrijstelling ter bescherming van de zaaibeddenteelt van bos- en haagplantsoen tegen onkruid 2013](../../../../../../../../../../../../../ministeriele-regeling/tijdelijke/vrijstelling/ter/bescherming/van/de/zaaibeddenteelt/van/bos-/en/etc/BWBR0033413/README.md) wordt ingetrokken (Staatscourant 2013, 13714).  
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Tijdelijke vrijstelling ter bescherming van de zaaibeddenteelt van bos- en haagplantsoen tegen onkruid 2013.  
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 15 juli 2013.  
+
+### Artikel  5  
+
+Dit besluit wordt aangehaald als: Tijdelijke vrijstelling ter bescherming van de zaaibeddenteelt van bos- en haagplantsoen tegen onkruid 2013 II.  
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
